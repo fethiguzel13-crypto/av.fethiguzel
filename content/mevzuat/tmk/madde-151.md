@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Madde 151**
+**4. Korkutma**
 
 ---
 
-Madde 151 - Kendisinin veya yakınlarından birinin hayatı, sağlığı veya namus ve onuru na yö nelik pek yakın ve ağır bir tehlike ile korkutularak evlenmeye razı edilmiş eş, evlenmenin iptalini dava edebilir.
+Madde 151- Kendisinin veya yakınlarından birinin hayatı, sağlığı veya namus ve onuruna
+yönelik pek yakın ve ağır bir tehlike ile korkutularak evlenmeye razı edilmiş eş, evlenmenin
+iptalini dava edebilir.
 
 ---
 

@@ -11,7 +11,7 @@ wordCount: 4298
 
 ---
 
-Madde 160 - Zamanaşımından önceden feragat edilemez.
+MADDE 160- Zamanaşımından önceden feragat edilemez.
 Müteselsil borçlulardan birinin feragat etmiş olması, diğerlerine karşı ileri sürülemez.
 Bölünemez bir borcun borçlularından birinin feragat etmiş olması durumunda da aynı
 hüküm uygulanır.

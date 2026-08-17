@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**taşınmazların kiralanmasında hüküm**
+**Sonradan tesis edilen taşınmaz mükellefiyetleri ve ipotekli ve mahcuz
+taşınmazların kiralanmasında hüküm:**
 
 ---
 
@@ -20,6 +21,8 @@ hakkın takdir edilecek kıymeti ödenmek üzere bedelin fazlası hak sahibine t
 İpotek yapılmış olan taşınmazı borçlu alacaklının rızası olmaksızın başkasına kiraya
 verir ve keyfiyeti tapuya tescil ettirirse bu tescil ipotekli alacaklının hakkına tesir etmez.
 Bu hüküm haczedilmiş olan taşınmazlarda da caridir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

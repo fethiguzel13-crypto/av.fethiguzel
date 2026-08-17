@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4280
 ---
 
-**Verginin gider kaydedilemeyeceği:104**
+**Verginin gider kaydedilemeyeceği:**
 
 ---
 
 Madde 58 – Mükellefin vergiye tabi işlemleri üzerinden hesaplanan Katma Değer
 Vergisi ile mükellefçe indirilebilecek Katma Değer Vergisi, Gelir ve Kurumlar Vergisi
 matrahlarının tespitinde gider olarak kabul edilmez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

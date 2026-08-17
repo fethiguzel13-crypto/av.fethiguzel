@@ -7,32 +7,29 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**Denetim plânı ve raporu**
+**Kınama**
 
 ---
 
-Madde 39- (1) Çocuğa uygulanacak denetimin yöntemi, denetim görevlisince, sosyal
-incelemeyi yapan uzman veya sosyal çalışma görevlisi ile birlikte, görevlendirmeyi takip eden
-on gün içinde hazırlanacak bir plânla belirlenir.3
-(2) Denetim plânı hazırlanırken;
-a) Çocuk hakkında alınan tedbirin amacı, niteliği ve süresi,
-b) Çocuğun ihtiyaçları,
-c) Çocuğun içinde bulunduğu tehlike hâlinin ciddiyeti,
-d) Çocuğun ana ve babası, vasisi, bakım ve gözetiminden sorumlu kimse tarafından
-çocuğa verilen desteğin derecesi,
-e) Suça sürüklenmesi sebebiyle tedbir alınmış ise suç teşkil eden fiilin mahiyeti,
-17/10/2019 tarihli ve 7188 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “mahkeme
-nezdindeki” ibaresi madde metninden çıkarılmıştır.
-3
+Madde 39- (1) Kınama cezası, hükümlüye eyleminin kötü niteliğinin ve uygunsuzluğunun
+açıklanması ve tekrarı durumunda doğuracağı sonuçlara dikkatinin çekilmesidir.
+(2) Kınama cezasını gerektiren eylemler şunlardır:
+a) Mektuplarda tehdit, hakaret ve sövme gibi çirkin ifadeler kullanmak.
+b) Hükümlü ve tutuklulara karşı edep ve nezakete aykırı şekilde konuşmak veya
+davranışlarda bulunmak.
+c) İdareden habersiz mektup göndermek.
+d) Görevlilere hediye vermek veya buna kalkışmak.
+e) Görevlilere herhangi bir taahhütte bulunmak.
+f) İdarece belirtilen miktardan fazla para bulundurmak.
+g) Hükümlü kimliğini yanında bulundurmamak.
+h) Yatma plânına uymamak.
+ı) Ceza infaz kurumlarının duvarlarına yazı yazmak, resim yapmak veya afiş yapıştırmak.
+j) İdarece verilen eşya ve benzeri şeyleri kötü kullanmak.
+k) Kişisel temizliğe veya çevre temizliğine dikkat etmemek.
+l) İdarece alınan sağlık önlemlerine uymamak.
+m) Kurumda gereksiz gürültü yapmak.
 
-f) Çocuğun görüşü,
-Dikkate alınır.
-(3) Denetim plânı, mahkeme veya çocuk hâkimince onaylandıktan sonra derhâl
-uygulanır. Denetim görevlisi, kararın uygulama biçimi, çocuk üzerindeki etkileri ile çocuğun
-ana ve babası, vasisi, bakım ve gözetiminden sorumlu kimselerin veya kurumların çocuğa karşı
-sorumluluklarını gereğince yerine getirip getirmedikleri, kararın değiştirilmesini gerektirir bir
-durum olup olmadığı ve istenen diğer hususlarda her ay, ayrıca talep hâlinde mahkeme veya
-çocuk hâkimine rapor verir.
+---
 
 ### Akademik Yorum ve Analiz
 

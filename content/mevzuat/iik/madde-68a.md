@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**c) İtirazın geçici olarak kaldırılması:30**
+**c) İtirazın geçici olarak kaldırılması:**
 
 ---
 
@@ -16,14 +16,7 @@ Madde 68/a – (Ek: 18/2/1965-538/39 md.)
 imza itiraz sırasında borçlu tarafından reddedilmişse, alacaklı itirazın kendisine tebliği
 tarihinden itibaren altı ay içinde itirazın geçici olarak kaldırılmasını isteyebilir. Bu hâlde icra
 hâkimi iki taraftan izahat alır.
-2/7/2012 tarihli ve 6352 sayılı Kanunun 12 nci maddesiyle, bu fıkrada yer alan “yüzde kırktan” ibaresi
-“yüzde yirmiden” şeklinde değiştirilmiştir.
-30
-Bu madde başlığı “c) İtirazın muvakkaten kaldırılması suretiyle:” iken, 17/7/2003 tarihli ve 4949 sayılı
-Kanunun 17 inci maddesiyle “c) İtirazın geçici olarak kaldırılması:” olarak değiştirilmiştir.
-29
-
-Senet altındaki imzayı reddeden borçlu takibi yapan icra dairesinin yetki çevresi içinde
+Senet altındaki imzayı reddeden borçlu takibi yapan icra dairesinin yetki çevresi içinde
 ise, itirazın kaldırılması için icra mahkemesi önünde yapılacak duruşmada, mazeretini daha
 önce bildirip tevsik etmediği takdirde, bizzat bulunmaya mecburdur. İcra dairesinin yetki
 çevresi dışında ödeme emri tebliğ edilen borçlu, istinabe yolu ile isticvabına karar verilmesi
@@ -58,14 +51,10 @@ kaldırılması talebinin kabulü halinde borçlu, bu talebin reddi halinde ise 
 talebi üzerine yüzde yirmiden aşağı olmamak üzere tazminata mahkum edilir. Borçlu, borçtan
 kurtulma, menfi tespit veya istirdat davası açarsa, yahut alacaklı genel mahkemede dava
 açarsa hükmolunan tazminatın tahsili dava sonuna kadar tehir olunur ve dava lehine
-sonuçlanan taraf için, daha önce hükmedilmiş olan tazminat kalkar.31
+sonuçlanan taraf için, daha önce hükmedilmiş olan tazminat kalkar.
+Borçlu cari hesap veya kısa, orta, uzun vadeli kredi şeklinde işleyen kredilerde
 
-2/7/2012 tarihli ve 6352 sayılı Kanunun 13 üncü maddesiyle, bu fıkrada yer alan “yüzde kırktan” ibaresi
-“yüzde yirmiden” şeklinde değiştirilmiştir.
-31
-
-Borçlu cari hesap veya kısa, orta, uzun vadeli kredi şeklinde işleyen kredilerde
-itirazın kesin olarak kaldırılması:32
+---
 
 ### Akademik Yorum ve Analiz
 

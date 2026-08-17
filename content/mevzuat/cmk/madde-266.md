@@ -17,11 +17,10 @@ lehine yapılan başvurudan onun rızası olmaksızın vazgeçilemez.
 (2) Müdafiin veya vekilin başvurudan vazgeçebilmesi, vekâletnamede bu hususta özel
 yetkili kılınmış olması koşuluna bağlıdır.
 (3) 150 nci maddenin ikinci fıkrası uyarınca, kendisine müdafi atanan şüpheli veya
-
-sanıklar yararına kanun yoluna başvurulduğunda veya başvurulan kanun yolundan
+sanıklar yararına kanun yoluna başvurulduğunda veya başvurulan kanun yolundan
 vazgeçildiğinde şüpheli veya sanık ile müdafiin iradesi çelişirse müdafiin iradesi geçerli sayılır.
-İKİNCİ KISIM
-Olağan Kanun Yolları
+
+---
 
 ### Akademik Yorum ve Analiz
 

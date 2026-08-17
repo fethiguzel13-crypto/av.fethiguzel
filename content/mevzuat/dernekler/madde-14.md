@@ -13,6 +13,8 @@ wordCount: 4257
 
 Madde 14- (Mülga:22/4/2022-7405/58 md.)
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

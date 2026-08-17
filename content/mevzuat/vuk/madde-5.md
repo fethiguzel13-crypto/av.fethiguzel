@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Vergi mahremiyeti**
+**Vergi mahremiyeti:**
 
 ---
 
@@ -40,19 +40,12 @@ inceleme raporuyla tespit olunanların, kanunla kurulmuş mesleki kuruluşların
 Kanunla kurulan birlik ve meslek odalarına bildirilmesi vergi mahremiyetini ihlal sayılmaz.
 Bu takdirde kendilerine bilgi verilen kişi ve kurumlar da bu maddede yazılı yasaklara uymak
 zorundadırlar. Maliye Bakanlığı bilgilerin açıklanmasıyla ilgili usulleri belirlemeye
-yetkilidir.2
+yetkilidir.
 (Ek: 26/6/1964-485/1 md.; Değişik: 30/12/1980-2365/2 md.) Gelir Vergisi
 mükellefleri (Kazancı basit usulde tespit edilenler dahil) ile sermaye şirketleri her yıl Mayıs
 ayının son gününe kadar vergi tarhına esas olan kazanç tutarları ile bunlara isabet eden vergi
-30/7/2003 tarihli ve 4962 sayılı Kanunun 17 nci maddesiyle, bu fıkrada yer alan “Ayrca, kamu görevlilerince
-yapılan adli ve idari soruşturmalarla ilgili olarak talep edilen bilgi ve belgeler verilebilir. “ibaresi, “Ayrıca,
-kamu görevlilerince yapılan adlî ve idarî soruşturmalar ile ilgili olarak talep edilen bilgi ve belgeler ile
-bankalara, yapacakları vergi tahsiline yönelik bilgiler verilebilir. Bu bilgilerin verilmesine ilişkin usul ve esaslar
-Maliye Bakanlığınca belirlenir." Olarak değiştirilmiş ve metne işlenmiştir.
-2
-
-miktarlarını gösteren levhayı almak zorundadırlar. İlan ve levhalara ilişkin diğer hususlar
-Maliye Bakanlığınca belli edilir.34
+miktarlarını gösteren levhayı almak zorundadırlar. İlan ve levhalara ilişkin diğer hususlar
+Maliye Bakanlığınca belli edilir.
 (Ek altıncı fıkra:14/10/2021-7338/13 md.) Gelir İdaresi Başkanlığının görev alanına
 ilişkin işlerde hizmet alımı yoluyla çalıştırılanlar ile hizmet alımı yapılanların ortak ve
 yöneticileri öğrendikleri sırlar ve gizli kalması gereken diğer hususlar açısından bu maddede
@@ -67,9 +60,8 @@ verilecek bilgilerin kapsamı ile bilgi paylaşımına ilişkin usul ve esaslar�
 yetkilidir.
 (Ek: 26/6/1964-485/1 md.; Değişik altıncı fıkra: 23/1/2008-5728/272 md.)
 Açıklanan bu bilgiler ele alınarak mükelleflerin haysiyet, şeref ve haklarına tecavüz edilemez.
-(Ek: 4/12/1985-3239/1 md.; Mülga: 22/7/1998-4369/1 md.)
-(Ek: 24/3/1988-3418/29 md.; Mülga: 22/7/1998-4369/1 md.)
-(Ek: 26/10/1988-3482/6 md.; Mülga: 22/7/1998-4369/1 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

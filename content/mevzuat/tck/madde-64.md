@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4263
 ---
 
-**Sanığın veya hükümlünün ölümü**
+**DÖRDÜNCÜ BÖLÜM
+Dava ve Cezanın Düşürülmesi
+Sanığın veya hükümlünün ölümü**
 
 ---
 
@@ -17,6 +19,8 @@ olunarak bunların müsaderesine hükmolunabilir.
 (2) Hükümlünün ölümü, hapis ve henüz infaz edilmemiş adlî para cezalarını ortadan
 kaldırır. Ancak, müsadereye ve yargılama giderlerine ilişkin olup ölümden önce kesinleşmiş
 bulunan hüküm, infaz olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

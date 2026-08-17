@@ -7,11 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**Madde 364**
+**İKİNCİ BÖLÜM
+AİLE
+BİRİNCİ AYIRIM
+NAFAKA YÜKÜMLÜLÜĞÜ
+A. Nafaka yükümlüleri**
 
 ---
 
-Madde 364 - Herkes, yardım etmediği takdirde yoksulluğa düşecek ol an üstsoyu ve altsoyu ile k ardeşlerine nafaka vermekle yükümlüdür . Kar deşlerin nafaka yükümlülükleri, refah içinde bulunmalarına bağlıdır. Eş ile ana ve babanın bakım borçla rına ilişkin hükümler saklıdır.
+Madde 364- Herkes, yardım etmediği takdirde yoksulluğa düşecek olan üstsoyu ve
+altsoyu ile kardeşlerine nafaka vermekle yükümlüdür.
+Kardeşlerin nafaka yükümlülükleri, refah içinde bulunmalarına bağlıdır.
+Eş ile ana ve babanın bakım borçlarına ilişkin hükümler saklıdır.
 
 ---
 

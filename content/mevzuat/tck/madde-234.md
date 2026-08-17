@@ -20,8 +20,8 @@ bitirmemiş ise ceza bir katı oranında artırılır.
 (3) (Ek: 6/12/2006 – 5560/10 md.) Kanunî temsilcisinin bilgisi veya rızası dışında evi
 terk eden çocuğu, rızasıyla da olsa, ailesini veya yetkili makamları durumdan haberdar etmeksizin
 yanında tutan kişi, şikâyet üzerine, üç aydan bir yıla kadar hapis cezası ile cezalandırılır.
-DOKUZUNCU BÖLÜM
-Ekonomi, Sanayi ve Ticarete İlişkin Suçlar
+
+---
 
 ### Akademik Yorum ve Analiz
 

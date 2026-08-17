@@ -21,6 +21,8 @@ edilebilir.
 (3) İftira konusunu oluşturan suç veya yalan tanıklık nedeniyle gözaltına alınma ve
 tutuklama halinde; Devlet, iftira eden veya yalan tanıklıkta bulunan kişiye de rücu eder.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

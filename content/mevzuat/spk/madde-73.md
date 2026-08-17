@@ -21,11 +21,10 @@ rehnedilemez, idari mercilerin tasfiye kararlarından etkilenmez, iflas masasın
 ve üzerlerine ihtiyati tedbir konulamaz.
 (3) Kurumsal yönetim ilkelerine ilişkin olarak 17 nci maddenin birinci ve ikinci fıkraları,
 borsalara, piyasa işleticilerine ve teşkilatlanmış diğer pazar yerlerine kıyasen uygulanır.
-
-İKİNCİ BÖLÜM
+İKİNCİ BÖLÜM
 Türkiye Sermaye Piyasaları Birliği, Türkiye Değerleme Uzmanları Birliği,
-Merkezî Takas Kuruluşları, Merkezî Saklama Kuruluşları ve
-Merkezî Kayıt Kuruluşu
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,7 @@ wordCount: 4280
 
 ---
 
-Madde 754 - (1) Poliçelerde kanuni veya yargısal atıfet süreleri geçerli değ ildir.
+MADDE 754- (1) Poliçelerde kanuni veya yargısal atıfet süreleri geçerli değildir.
 
 ---
 

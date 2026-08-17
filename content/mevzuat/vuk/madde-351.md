@@ -7,12 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4285
 ---
 
-**Usulsüzlüğün tarifi**
+**İKİNCİ BÖLÜM
+Usulsüzlük
+Usulsüzlüğün tarifi:**
 
 ---
 
 Madde 351 – Usulsüzlük vergi kanunlarının şekle ve usule mütaallik hükümlerine
 riayet edilmemesidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

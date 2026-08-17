@@ -22,9 +22,8 @@ sağlama amacıyla, meblağ sigortalarında kalan borç tutarıyla ve vadesiyle 
 gerekir.
 (3) Tüketici kredisi sözleşmesi, kredi ile ilgili olanlar hariç yan finansal ürün ve
 hizmetlerin satın alınması şartına bağlanamaz.
-24/3/2022 tarihli ve 7392 sayılı Kanunun 3 üncü maddesiyle bu fıkrada yer alan “oranında
-değişiklik yapılması hâlinde” ibaresi “oranının artırılması durumunda” şeklinde değiştirilmiştir.
-4
+
+---
 
 ### Akademik Yorum ve Analiz
 

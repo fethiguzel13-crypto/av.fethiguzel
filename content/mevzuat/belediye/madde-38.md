@@ -26,18 +26,18 @@ f) Belediyenin gelir ve alacaklarını takip ve tahsil etmek.
 g) Yetkili organların kararını almak şartıyla sözleşme yapmak.
 h) Meclis ve encümen kararlarını uygulamak.
 i) Bütçeyi uygulamak, bütçede meclis ve encümenin yetkisi dışındaki aktarmalara
-
-
-onay vermek.
+onay vermek.
 j) Belediye personelini atamak.
 k) Belediye ve bağlı kuruluşları ile işletmelerini denetlemek.
 l) Şartsız bağışları kabul etmek.
 m) Belde halkının huzur, esenlik, sağlık ve mutluluğu için gereken önlemleri almak.
 n) Bütçede yoksul ve muhtaçlar için ayrılan ödeneği kullanmak, engellilere yönelik
-hizmetleri yürütmek ve engelliler merkezini oluşturmak.23
+hizmetleri yürütmek ve engelliler merkezini oluşturmak.
 o) Temsil ve ağırlama giderleri için ayrılan ödeneği kullanmak.
 p) Kanunlarla belediyeye verilen ve belediye meclisi veya belediye encümeni kararını
 gerektirmeyen görevleri yapmak ve yetkileri kullanmak.
+
+---
 
 ### Akademik Yorum ve Analiz
 

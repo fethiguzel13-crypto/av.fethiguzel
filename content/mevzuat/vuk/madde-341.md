@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**Vergi ziyaı**
+**Vergi ziyaı:**
 
 ---
 
@@ -19,6 +19,8 @@ suretlerle verginin noksan tahakkuk ettirilmesine veya haksız yere geri verilme
 vermek de vergi ziyaı hükmündedir.
 Yukarıki fıkralarda yazılı hallerde verginin sonradan tahakkuk ettirilmesi veya
 tamamlanması veyahut haksız iadenin geri alınması ceza uygulanmasına mani teşkil etmez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

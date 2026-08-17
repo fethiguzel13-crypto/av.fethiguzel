@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Umumi hükümler**
+**Umumi hükümler:**
 
 ---
 
 Madde 41 – Kanunun bu ikinci babında yazılı hükümlere mugayir olmıyan diğer
 hükümleri ilama müstenit takiplerde de cereyan eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

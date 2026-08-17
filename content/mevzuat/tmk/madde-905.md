@@ -11,7 +11,8 @@ wordCount: 4278
 
 ---
 
-Madde 905 - Değer biçilmesinde gereken özen in gösterilmemesinden Devlet sorumludur. Devlet, kusuru olan m emurlara rücu edebilir.
+Madde 905- Değer biçilmesinde gereken özenin gösterilmemesinden Devlet sorumludur.
+Devlet, kusuru olan memurlara rücu edebilir.
 
 ---
 

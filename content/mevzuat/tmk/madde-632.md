@@ -7,12 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**Madde 632**
+**DÖRDÜNCÜ AYIRIM
+RESMÎ TASFİYE
+A. Koşulları
+I. Mirasçıların istemi ile**
 
 ---
 
-Madde 632 - Her mirasçı, mirası ret veya resmî deftere göre kabul edec eği yerde terekenin resmî t asfiyesini isteyebilir.
-Bu istem, birlikte mirasçı olanlardan birinin mirası kabul etmesi hâlinde dikkate alınmaz. Resmî tasfiye hâlinde m irasçılar, terekenin borçlarından sorumlu olmazlar.
+Madde 632- Her mirasçı, mirası ret veya resmî deftere göre kabul edeceği yerde terekenin
+resmî tasfiyesini isteyebilir.
+Bu istem, birlikte mirasçı olanlardan birinin mirası kabul etmesi hâlinde dikkate alınmaz.
+Resmî tasfiye hâlinde mirasçılar, terekenin borçlarından sorumlu olmazlar.
 
 ---
 

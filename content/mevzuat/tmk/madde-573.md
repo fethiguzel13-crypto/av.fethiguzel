@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-**B. Mirastan fer agat durumunda
+**B. Mirastan feragat durumunda
 I. Tenkis**
 
 ---
 
-Madde 573 - Mirasbırakan, mirastan feragat eden mirasçıya, sağlığında terekenin tasarruf edilebilir kısmını aşan ed imlerde bulunmuşsa; diğer mirasçılar bunun tenkisini isteyebilirler. Bu durumda, mirastan feragat edenin sadece saklı payını aşan miktar tenkise tâbi olur. Edimlerin değerlerinin mahsubu, mirasta denkleştirme kurallarına göre yapılır.
+Madde 573- Mirasbırakan, mirastan feragat eden mirasçıya, sağlığında terekenin tasarruf
+edilebilir kısmını aşan edimlerde bulunmuşsa; diğer mirasçılar bunun tenkisini isteyebilirler. Bu
+durumda, mirastan feragat edenin sadece saklı payını aşan miktar tenkise tâbi olur.
+Edimlerin değerlerinin mahsubu, mirasta denkleştirme kurallarına göre yapılır.
 
 ---
 

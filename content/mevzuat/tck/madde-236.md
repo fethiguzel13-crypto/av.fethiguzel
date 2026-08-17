@@ -25,11 +25,12 @@ c) Edimin ihale kararında veya sözleşmede belirtilen sürede ifa edilmemesine
 süresinde ifa edilmiş gibi kabul edilmesi.
 d) Yapım ihalelerinde eserin veya kullanılan malzemenin şartname veya sözleşmesinde
 belirlenen şartlara, miktar veya niteliklere uygun olmamasına rağmen kabul edilmesi.
-
-e) Hizmet niteliğindeki edimin, ihale kararında veya sözleşmede belirtilen şartlara
+e) Hizmet niteliğindeki edimin, ihale kararında veya sözleşmede belirtilen şartlara
 göre verilmemesine veya eksik verilmesine rağmen verilmiş gibi kabul edilmesi.
 (3) Edimin ifasına fesat karıştırma dolayısıyla menfaat temin eden görevli kişiler,
 ayrıca bu nedenle ilgili suç hükmüne göre cezalandırılırlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -36,6 +36,8 @@ uygulaması olarak kabul edilir.
 veya dolaylı ilişkilendirilen promosyon uygulamaları da bu madde hükümlerine tabidir.
 (7) Promosyon uygulamalarına ilişkin usul ve esaslar yönetmelikle belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

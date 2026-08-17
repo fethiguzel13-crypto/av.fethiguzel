@@ -11,7 +11,7 @@ wordCount: 4293
 
 ---
 
-Madde 434 - Hizmet sözleşmesinin fesih hakkının kötüye kullanılarak sona
+MADDE 434- Hizmet sözleşmesinin fesih hakkının kötüye kullanılarak sona
 erdirildiği durumlarda işveren, işçiye fesih bildirim süresine ait ücretin üç katı tutarında
 tazminat ödemekle yükümlüdür.
 

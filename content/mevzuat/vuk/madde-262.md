@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**Maliyet bedeli**
+**Maliyet bedeli:**
 
 ---
 
@@ -38,13 +38,10 @@ veya değerinin artırılması ile ilgili olan özel tüketim vergisi, indirilem
 vergisi, banka ve sigorta muameleleri vergisi ile kaynak kullanımını destekleme fonunu
 maliyet bedeline ithal etmekte veya genel giderler arasında göstermekte mükellefler
 serbesttirler.
-
-84
-
-Bentteki sıra numarası, 30/12/1980 tarih ve 2365 sayılı Kanunun 46 ncı maddesi ile değiştirilmiştir.
-
-(Ek fıkra:14/10/2021-7338/27 md.) Bu maddenin uygulamasına ilişkin usul ve
+(Ek fıkra:14/10/2021-7338/27 md.) Bu maddenin uygulamasına ilişkin usul ve
 esasları belirlemeye Hazine ve Maliye Bakanlığı yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

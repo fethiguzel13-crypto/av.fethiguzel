@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4278
 ---
 
-**Tahkikatın konusu**
+**BEŞİNCİ BÖLÜM
+Tahkikat ve Tahkikat Sırasındaki Özel Durumlar
+BİRİNCİ AYIRIM
+Tahkikat
+Tahkikatın konusu**
 
 ---
 
@@ -16,6 +20,8 @@ incelenir.
 (2) Hâkim, muhakemeyi basitleştirmek veya kısaltmak için resen veya taraflardan
 birinin talebi üzerine tahkikatın her aşamasında iddia veya savunmalardan birinin veya bir
 kısmının diğerinden önce incelenmesine karar verebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

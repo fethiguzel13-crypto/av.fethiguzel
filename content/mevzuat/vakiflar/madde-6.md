@@ -26,6 +26,8 @@ seçtiği yönetim kurulu tarafından yönetilir.
 Yeni vakıfların yönetim organı vakıf senedine göre oluşturulur ve bu vakıfların
 yönetim organlarında görev alanların çoğunluğunun, Türkiye’de yerleşik bulunması gerekir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

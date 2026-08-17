@@ -26,6 +26,8 @@ kişilerden ve bunlarla birlikte hareket edenlerden talep edebilirler.
 (3) 6102 sayılı Kanunun 208 inci maddesi halka açık ortaklıklara uygulanmaz.
 (4) Bu maddenin uygulanmasına ilişkin usul ve esaslar Kurulca belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

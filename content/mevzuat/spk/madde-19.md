@@ -30,6 +30,8 @@ bağışın sınırı halka açık ortaklık genel kurulunca belirlenir. Kurul, 
 getirmeye yetkilidir. Ortaklıkların ilgili mali yıl içinde yapmış olduğu bağışlar, dağıtılabilir
 kâr matrahına eklenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

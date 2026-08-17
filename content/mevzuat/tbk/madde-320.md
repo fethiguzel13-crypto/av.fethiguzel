@@ -13,7 +13,7 @@ I. Kiralananda yenilik ve değişiklik yapılması
 
 ---
 
-Madde 320 - Kiraya veren, kiralananda, kira sözleşmesinin feshini gerektirmeyen ve
+MADDE 320- Kiraya veren, kiralananda, kira sözleşmesinin feshini gerektirmeyen ve
 kiracıdan katlanması beklenebilecek olan yenilik ve değişiklikler yapabilir.
 Bu yenilik ve değişikliklerin yapılması sırasında kiraya veren, kiracının menfaatlerini
 gözetmekle yükümlüdür. Kiracının, kira bedelinin indirilmesine ve zararının giderilmesine

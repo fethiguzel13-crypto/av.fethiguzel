@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**İndirimin belgelendirilmesi**
+**İndirimin belgelendirilmesi:**
 
 ---
 
@@ -17,6 +17,8 @@ gösterilmek ve bu vesikalar kanuni defterlere kaydedilmek şartıyla indirilebi
 2. Katma Değer Vergisinin fatura ve benzeri vesikalarda ayrıca gösterilmesine gerek
 görülmeyen işlemlerde Vergi indiriminin nasıl belgelendirileceği Maliye ve Gümrük Bakanlığınca
 tespit olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

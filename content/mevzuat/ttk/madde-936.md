@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4278
 ---
 
-**Madde 936**
+**C) Gemilerin hukuksal niteliği
+I- Genel olarak**
 
 ---
 
-Madde 936 - (1) Sicile kayıtlı olup olmadıklarına bakılmaksızın bütün gemiler bu Kanunun ve diğer kanunların uygulanmasında taşınır eşyadandır.
+MADDE 936- (1) Sicile kayıtlı olup olmadıklarına bakılmaksızın bütün gemiler bu
+Kanunun ve diğer kanunların uygulanmasında taşınır eşyadandır.
 
 ---
 

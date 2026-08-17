@@ -19,6 +19,8 @@ seçimlik mahkûmiyet hükmü verir.
 mahkûmiyet hükmünde yer alan edimlerden birine hasretmek zorundadır. Ancak, bu durum,
 borçlunun, diğer edimi ifa etmek suretiyle borcundan kurtulma hakkını ortadan kaldırmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

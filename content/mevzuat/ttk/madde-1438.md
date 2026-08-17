@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
-**Madde 1438**
+**ddd) Sigortacı tarafından gerçek durumun bilinmesi**
 
 ---
 
-Madde 1438 - (1) Bildirilmeyen veya yanlış bildirilen bir hususun ya da olgunun gerçek durumu sigortacı tarafından biliniyorsa, sigortacı beyan yükümlülüğünün ihlal edilmiş olduğunu ileri sürerek sözleşmeden cayamaz. İspat yükü sigorta ett irene aittir. eee) Yaptırım
+MADDE 1438- (1) Bildirilmeyen veya yanlış bildirilen bir hususun ya da olgunun
+gerçek durumu sigortacı tarafından biliniyorsa, sigortacı beyan yükümlülüğünün ihlal edilmiş
+olduğunu ileri sürerek sözleşmeden cayamaz. İspat yükü sigorta ettirene aittir.
 
 ---
 

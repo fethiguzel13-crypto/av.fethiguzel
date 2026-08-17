@@ -18,12 +18,9 @@ adına sigortalanması zorunludur.
 Vakıf kültür varlıklarının sigorta işlemlerinde bedel, Çevre ve Şehircilik Bakanlığının
 mimarlık ve mühendislik hizmet bedellerinin hesabında kullanılan yapı yaklaşık birim
 maliyetleri V.Sınıf (D) Grubu Yapılar birim fiyatı ile taşınmazda yer alan taşınırların değeri
-4/4/2023 tarihli ve 7451 sayılı Kanunun 17 nci maddesiyle bu fıkranın birinci cümlesinde yer alan
-“mazbut vakıflara ait taşınmazların” ibaresinden sonra gelmek üzere “yatırım karşılığı uzun süreli
-kira sözleşmeleri hariç olmak üzere” ibaresi eklenmiştir.
-8
+dikkate alınarak Genel Müdürlükçe belirlenir.
 
-dikkate alınarak Genel Müdürlükçe belirlenir.
+---
 
 ### Akademik Yorum ve Analiz
 

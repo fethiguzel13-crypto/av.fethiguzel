@@ -7,11 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4275
 ---
 
-**bildirir ve valiliğin haberdar edilmesini ister.**
+Madde 45 – (Mülga: 23/1/2008-5728/578 md.)
 
 ---
-
-Madde 45 – (Mülga: 23/1/2008-5728/578 md.)
 
 ### Akademik Yorum ve Analiz
 

@@ -13,7 +13,7 @@ wordCount: 4268
 
 MADDE 20 – (1) Sicile kayıt, ilgilinin Daire Başkanlığına yazılı olarak başvurması
 üzerine yapılır.
-(2) Arabulucular siciline kaydedilebilmek için;9
+(2) Arabulucular siciline kaydedilebilmek için;
 a) Türk vatandaşı olmak,
 b) Mesleğinde en az beş yıllık kıdeme sahip hukuk fakültesi mezunu olmak,
 c) Tam ehliyetli olmak,
@@ -28,13 +28,16 @@ suçlarından mahkûm olmamak,
 d) (Ek: 5/6/2017-KHK-691/9 md.; Aynen kabul: 31/1/2018-7069/9 md.) Terör
 örgütleriyle iltisaklı veya irtibatlı olmamak,
 e) Arabuluculuk eğitimini tamamlamak ve mesleğinde yirmi yıl kıdeme sahip
-olanlar hariç Bakanlıkça yapılan yazılı (...)10 sınavda başarılı olmak,11
+10 11
+olanlar hariç Bakanlıkça yapılan yazılı (…)sınavda başarılı olmak,
 gerekir.
 (3) Arabulucu, sicile kayıt tarihinden itibaren faaliyetine başlayabilir.
 (4) (Ek: 12/10/2017-7036/25 md.) Daire Başkanlığı, sicile kayıtlı arabulucuları, görev
 yapmak istedikleri adli yargı ilk derece mahkemesi adalet komisyonlarına göre listeler ve
 listeleri ilgili komisyon başkanlıklarına gönderir. Bir arabulucu, en fazla üç komisyon
 listesine kaydolabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

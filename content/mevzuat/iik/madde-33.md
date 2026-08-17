@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**İcranın geri bırakılması**
+**İcranın geri bırakılması:**
 
 ---
 
@@ -23,20 +23,18 @@ imhale dayanan istekler mutlaka noterlikçe re’sen yapılmış veya tasdik olu
 veya icra zaptına istinat ettirilmelidir.
 Bu maddede yer alan “hapis ile tazyik olunacağı ve “ibaresi, 17/7/2003 tarihli ve 4949 sayılı Kanunun 10
 uncu maddesiyle “hapis ile tazyik olunacağı, mal beyanında bulunmaz veya” olarak değiştirilmiştir.
-19
 Bu maddenin ikinci cümlesinde yer alan “temyiz yahut” ibaresi, 2/3/2005 tarihli ve 5311 sayılı Kanunun 3
 üncü maddesiyle “istinaf veya temyiz yahut” olarak değiştirilmiştir.
-18
-
-İcra mahkemesi, geri bırakılma talebini reddettiği takdirde borçlu ancak istinaf veya
+İcra mahkemesi, geri bırakılma talebini reddettiği takdirde borçlu ancak istinaf veya
 temyiz yoluna başvuru süresi içinde alacağı karşılıyacak nakit veya icra mahkemesince kabul
 edilecek taşınır rehin veya esham veya tahvilat veya taşınmaz rehni yahut muteber bir banka
 kefaleti göstermek şartiyle istinaf veya temyiz yoluna başvurabilir. Borçlunun yeter malı
 mahcuz ise veya borçlunun talebi üzerine istinaf veya temyiz yoluna başvuru süresi içinde
-yeter malı haczedilmişse bu fıkrada yazılı teminatı göstermeye lüzum yoktur.20
+yeter malı haczedilmişse bu fıkrada yazılı teminatı göstermeye lüzum yoktur.
 Borçlu olmadığı parayı ödemek mecburiyetinde kalan borçlunun 72 nci madde
 mucibince istirdat davası açarak paranın geriye verilmesini istemek hakkı saklıdır.
-İlamın zamanaşımına uğradığı iddiası:
+
+---
 
 ### Akademik Yorum ve Analiz
 

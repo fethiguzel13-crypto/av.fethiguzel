@@ -17,6 +17,8 @@ taraflardan birisi veya belirtilecek oranda her ikisi tarafından ödenmesine ka
 Belirlenen süre içinde bu işlemlere ait giderleri karşılayacak miktarda avans yatırılmazsa,
 ileride bu gideri ödemesi gereken taraftan alınmak üzere Hazineden ödenmesine hükmedilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

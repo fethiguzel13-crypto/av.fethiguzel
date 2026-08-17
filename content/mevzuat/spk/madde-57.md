@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Konut ve varlık finansmanı**
+**BEŞİNCİ BÖLÜM
+Konut ve Varlık Finansmanı ile İpotek Finansmanı Kuruluşları
+Konut ve varlık finansmanı**
 
 ---
 
@@ -20,7 +22,7 @@ teminatı altındaki işlemleri de bu kapsamdadır.
 (2) Konut finansmanı kuruluşları, konut finansmanı kapsamında doğrudan tüketiciye
 kredi kullandıran ya da finansal kiralama yapan bankalar ile Bankacılık Düzenleme ve
 Denetleme Kurulu tarafından konut finansmanı faaliyetinde bulunması uygun görülen
-finansal kiralama şirketleri, finansman şirketleri ve tasarruf finansman şirketleridir.4
+finansal kiralama şirketleri, finansman şirketleri ve tasarruf finansman şirketleridir.
 (3) Konut finansmanı kuruluşları tarafından, konut edinme amacının yeterli bilgi ve
 belgeyle tespit edilmesi ve kullandırılan kredinin veya yapılan finansal kiralamanın ipotek
 veya Kurulca uygun görülen teminatlar ile güvence altına alınması zorunludur.
@@ -32,6 +34,8 @@ nitelikleri haiz değerleme kuruluşları tarafından değerleme yapılmasını 
 ilgili usul ve esasları; Gümrük ve Ticaret Bakanlığı ise konut finansmanı ve varlık finansmanı
 kapsamında tüketicilere kullandırılan kredilerin veya alacakların yeniden finansmanına ilişkin
 usul ve esasları belirlemeye yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

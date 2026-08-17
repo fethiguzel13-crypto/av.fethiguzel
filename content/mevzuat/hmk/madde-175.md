@@ -14,6 +14,8 @@ wordCount: 4314
 MADDE 175- (1) Tanıklığa ilişkin 249, 250, 259 ilâ 263 üncü madde hükümleri
 niteliğine aykırı düşmediği sürece isticvapta da uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

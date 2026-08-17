@@ -23,6 +23,8 @@ veya spor alanlarında kalan taşınmazlar; ilgili kurumlar tarafından, imar pl
 tarihinden itibaren iki yıl içerisinde kamulaştırılmadığı takdirde ilgili bakanlığın görüşü alınarak
 Genel Müdürlükçe özel okul, özel hastane veya özel spor tesisi olarak değerlendirilebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

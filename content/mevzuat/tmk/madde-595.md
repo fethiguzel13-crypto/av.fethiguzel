@@ -8,11 +8,19 @@ wordCount: 4265
 ---
 
 **E. Vasiyetname ile ilgili işlemler
-I. Teslim göre vi ve alınacak önlemler**
+I. Teslim görevi ve alınacak önlemler**
 
 ---
 
-Madde 595 - Mirasbırakanın ölümünden sonra ele geçen vasiyetnamesin in, geçerli olup olmadığına bakılmaksızın hemen sulh hâkimine teslim edilmesi zorunludur. Vasiyetnameyi düzenleyen veya muhafaza eden görevli ya da mirasbırakanın arz usu üzerine saklayan veya başka surette ele geçiren ya da ölenin eşyası arasında bulan kim se, ölümü öğrenir öğrenmez teslim görevini yerine getirmekle yükümlüdür; aksi takdirde bu yüzden doğacak zarardan sorumludur. Sulh hâkimi, teslim edilen vasiyetnamey i derhâl inceler, gerekli koruma önlemlerini alır; olanak varsa ilgilileri dinleyerek tere kenin yasal mirasçılara geç ici olarak teslimine veya resmen yönetilmesine karar verir.
+Madde 595- Mirasbırakanın ölümünden sonra ele geçen vasiyetnamesinin, geçerli olup
+olmadığına bakılmaksızın hemen sulh hâkimine teslim edilmesi zorunludur.
+Vasiyetnameyi düzenleyen veya muhafaza eden görevli ya da mirasbırakanın arzusu
+üzerine saklayan veya başka surette ele geçiren ya da ölenin eşyası arasında bulan kimse, ölümü
+öğrenir öğrenmez teslim görevini yerine getirmekle yükümlüdür; aksi takdirde bu yüzden
+doğacak zarardan sorumludur.
+Sulh hâkimi, teslim edilen vasiyetnameyi derhâl inceler, gerekli koruma önlemlerini alır;
+olanak varsa ilgilileri dinleyerek terekenin yasal mirasçılara geçici olarak teslimine veya resmen
+yönetilmesine karar verir.
 
 ---
 

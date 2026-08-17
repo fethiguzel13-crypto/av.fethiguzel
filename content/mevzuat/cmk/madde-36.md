@@ -15,6 +15,8 @@ Madde 36 – (1) Mahkeme başkanı veya hâkim, her türlü tebligatı, tüm ger
 özel hukuk tüzel kişileri veya kamu kurum ve kuruluşları ile ilgili yazışmaları yapar.
 (2) İnfaz edilecek kararlar, Cumhuriyet Başsavcılığına verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**VI - Ayni sermaye 1. Ayni sermaye konulabilecek malvarlığı unsurları**
+**VI - Ayni sermaye
+1. Ayni sermaye konulabilecek malvarlığı unsurları**
 
 ---
 
-Madde 342 - (1) Üzerlerinde sınırlı ayni bir hak, haciz ve tedb ir bulunmayan, nakden değerlendirilebilen ve devrolunabilen, fikrî mülkiyet hakları ile sanal ortamlar da dâhil, malvarlığı unsurları ayni sermaye olarak konulabilir. Hizmet edimleri, kişisel emek, ticari itibar ve vadesi gelmemiş alacaklar sermaye olamaz. (2) 128 inci madde hükmü saklıdır.
+MADDE 342- (1) Üzerlerinde sınırlı ayni bir hak, haciz ve tedbir bulunmayan, nakden
+değerlendirilebilen ve devrolunabilen, fikrî mülkiyet hakları ile sanal ortamlar da dâhil,
+malvarlığı unsurları ayni sermaye olarak konulabilir. Hizmet edimleri, kişisel emek, ticari
+itibar ve vadesi gelmemiş alacaklar sermaye olamaz.
+(2) 128 inci madde hükmü saklıdır.
 
 ---
 

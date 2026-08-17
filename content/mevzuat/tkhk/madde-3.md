@@ -30,7 +30,7 @@ g) Konut finansmanı kuruluşu: Konut finansmanı kapsamında doğrudan tüketic
 kredi kullandıran ya da finansal kiralama yapan bankalar ile Bankacılık Düzenleme ve
 Denetleme Kurulu tarafından konut finansmanı faaliyetinde bulunması uygun görülen
 finansal kiralama şirketleri ve finansman şirketlerini,
-g) Kredi veren: Mevzuatı gereği tüketicilere kredi vermeye yetkili olan gerçek veya
+ğ) Kredi veren: Mevzuatı gereği tüketicilere kredi vermeye yetkili olan gerçek veya
 tüzel kişiyi,
 h) Mal: Alışverişe konu olan; taşınır eşya, konut veya tatil amaçlı taşınmaz mallar ile
 elektronik ortamda kullanılmak üzere hazırlanan yazılım, ses, görüntü ve benzeri her türlü
@@ -41,7 +41,7 @@ tüzel kişiyi,
 i) Satıcı: Kamu tüzel kişileri de dâhil olmak üzere ticari veya mesleki amaçlarla
 tüketiciye mal sunan ya da mal sunanın adına ya da hesabına hareket eden gerçek veya tüzel
 kişiyi,
-j) Technical düzenleme: 29/6/2001 tarihli ve 4703 sayılı Ürünlere İlişkin Teknik
+j) Teknik düzenleme: 29/6/2001 tarihli ve 4703 sayılı Ürünlere İlişkin Teknik
 Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanunda yer alan tanımı,
 k) Tüketici: Ticari veya mesleki olmayan amaçlarla hareket eden gerçek veya tüzel
 kişiyi,
@@ -51,12 +51,14 @@ gerçek veya tüzel kişiler ile tüketiciler arasında kurulan, eser, taşıma,
 vekâlet, bankacılık ve benzeri sözleşmeler de dâhil olmak üzere her türlü sözleşme ve hukuki
 işlemi,
 m) Tüketici örgütleri: Tüketicinin korunması amacıyla kurulan dernek, vakıf veya
-üst kuruluşlarını,
+bunların üst kuruluşlarını,
 n) Üretici: Kamu tüzel kişileri de dâhil olmak üzere tüketiciye sunulmuş olan mal ya
 da bu malların hammaddelerini yahut ara mallarını üretenler ile mal üzerine markasını,
 unvanını veya herhangi bir ayırt edici işaretini koyarak kendisini üretici olarak gösteren
 gerçek veya tüzel kişiyi,
 ifade eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

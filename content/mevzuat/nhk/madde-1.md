@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Amaç**
+**NOTERLİK KANUNU
+BİRİNCİ KISIM
+Genel Hükümler
+Noterlik Mesleği:**
 
 ---
 
-MADDE 1- (1) Bu Kanunun amacı; kişinin doğumundan ölümüne kadar kişisel ve medenî durumuna, uyrukluğuna ve bunlarda meydana gelebilecek değişikliklere ait doğal ve hukukî olayların belirlenip saptanması, bu amaçla düzenlenmiş kütüklere yazılması, elektronik ortamda ulusal adres veri tabanının oluşturulması, nüfus kayıtları ile adres bilgilerinin ilişkilendirilmesini sağlamaktır.
+Madde 1 – Noterlik bir kamu hizmetidir. Noterler, hukuki güvenliği sağlamak ve
+anlaşmazlıkları önlemek için işlemleri belgelendirir ve kanunlarla verilen başka görevleri
+yaparlar.
 
 ---
 

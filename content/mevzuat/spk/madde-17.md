@@ -28,8 +28,7 @@ sonucunu doğuracak şekilde karar alınmasını istemeye, bu işlemlerin yerine
 ilişkin usul ve esasları belirlemeye yetkilidir.
 (3) Halka açık ortaklıkların, ilişkili tarafları ile gerçekleştirecekleri Kurulca
 belirlenecek nitelikteki işlemlere başlamadan önce, yapılacak işlemin esaslarını belirleyen bir
-
-yönetim kurulu kararı almaları zorunludur. Söz konusu yönetim kurulu kararlarının
+yönetim kurulu kararı almaları zorunludur. Söz konusu yönetim kurulu kararlarının
 uygulanabilmesi için bağımsız yönetim kurulu üyelerinin çoğunluğunun onayı aranır.
 Bağımsız yönetim kurulu üyelerinin çoğunluğunun söz konusu işlemi onaylamaması hâlinde,
 bu durum işleme ilişkin yeterli bilgiyi içerecek şekilde kamuyu aydınlatma düzenlemeleri
@@ -43,6 +42,8 @@ maddesinin birinci fıkrasında düzenlenmiş yükümlülüklerini MKK tarafınd
 elektronik ortam vasıtasıyla da yerine getirebilirler.
 (5) Bu maddenin halka açık bankalar hakkında uygulanmasına ilişkin usul ve esaslar
 Bankacılık Düzenleme ve Denetleme Kurulunun uygun görüşü alınmak suretiyle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

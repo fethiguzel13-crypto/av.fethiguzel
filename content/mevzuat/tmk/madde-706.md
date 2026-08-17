@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**II. Kazanma yolları 1.Hukukî işlem**
+**II. Kazanma yolları
+1.Hukukî işlem**
 
 ---
 
-Madde 706 - Taşınmaz mülkiyetinin devrini amaçlayan sözleşmelerin geçerli olması, resmî şekilde düzenlenmiş bulunmalarına b ağlıdır. Ölüme bağlı tasar ruflar ve mal rejimi sözleşmeleri, kendilerine özgü şekillere tâbidir.
+Madde 706- Taşınmaz mülkiyetinin devrini amaçlayan sözleşmelerin geçerli olması,
+resmî şekilde düzenlenmiş bulunmalarına bağlıdır.
+Ölüme bağlı tasarruflar ve mal rejimi sözleşmeleri, kendilerine özgü şekillere tâbidir.
 
 ---
 

@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**Hizmet**
+**d) (Mülga : 22/7/1998 - 4369/82 md.)
+Hizmet:**
 
 ---
 
@@ -18,6 +19,8 @@ temizlemek, muhafaza etmek, hazırlamak, değerlendirmek, kiralamak, bir şeyi y
 taahhüt etmek gibi, şekillerde gerçekleşebilir.
 2. Bir hizmetin karşılığının bir mal teslimi veya diğer bir hizmet olması halinde bunların
 her biri ayrı işlem olup, hizmet veya teslim hükümlerine göre ayrı ayrı vergilendirilirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,7 @@ wordCount: 4297
 
 ---
 
-Madde 400 - İşçi, işverene kusuruyla verdiği her türlü zarardan sorumludur.
+MADDE 400- İşçi, işverene kusuruyla verdiği her türlü zarardan sorumludur.
 Bu sorumluluğun belirlenmesinde; işin tehlikeli olup olmaması, uzmanlığı ve eğitimi
 gerektirip gerektirmemesi ile işçinin işveren tarafından bilinen veya bilinmesi gereken
 yetenek ve nitelikleri göz önünde tutulur.

@@ -7,11 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Madde 14 – (Mülga: 23/1/2008-5728/578 md.)**
+Madde 15 – Valiler, birkaç il'e şamil memuriyetlerin kendi illerindeki işlerini de
+gözetim ve denetimine yetkilidirler.
 
 ---
-
-Madde 15 – Valiler, birkaç il'e şamil memuriyetlerin kendi illerindeki işlerini de
 
 ### Akademik Yorum ve Analiz
 

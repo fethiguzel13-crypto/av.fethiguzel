@@ -15,6 +15,8 @@ Madde 213 – (1) Aralarında çelişki bulunması halinde; sanığın, hâkim v
 huzurunda yaptığı açıklamalar ile Cumhuriyet savcısı tarafından alınan veya müdafiinin hazır
 bulunduğu kolluk ifadesine ilişkin tutanaklar duruşmada okunabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

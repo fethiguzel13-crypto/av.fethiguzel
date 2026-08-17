@@ -23,6 +23,8 @@ türüne göre tümüyle uygulandıktan sonra o dava veya aynı işe ilişkin di
 edilmez.
 (4) Disiplin hapsi kararına itiraz edilebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

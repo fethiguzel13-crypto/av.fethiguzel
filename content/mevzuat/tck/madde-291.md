@@ -14,6 +14,8 @@ wordCount: 4303
 Madde 291- (1) Kendisini, bir hükümlünün veya tutuklunun yerine koyarak ceza infaz
 kurumuna veya tutukevine giren kimseye altı aydan iki yıla kadar hapis cezası verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -19,6 +19,8 @@ greve katılmaya teşvik etme nedeniyle bir işçinin iş sözleşmesi feshedile
 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun ilgili hükümlerine göre
 yararlanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,17 +7,16 @@ lastReviewed: "2026-07-27"
 wordCount: 3611
 ---
 
-**Kayyım bir malvarlığının yönetimi ve gözetimi ile görevlendirilmiş ise, yalnız**
+**II. Malvarlığının yönetimi**
 
 ---
 
-Madde 460 - Kayyım bir malvarlığının yönetimi ve gözetimi ile görevlendirilmiş ise, yalnız
-o malvarlığının yönetim ve korunması için gerekli olan işleri yapabilir.
+Madde 460- Kayyım bir malvarlığının yönetimi ve gözetimi ile görevlendirilmiş ise,
+yalnız o malvarlığının yönetim ve korunması için gerekli olan işleri yapabilir.
+Kayyımın, bunun dışındaki işleri yapabilmesi, temsil olunanın vereceği özel yetkiye,
+temsil olunan bu yetkiyi verecek durumda değilse vesayet makamının iznine bağlıdır.
 
-Kayyımın,
-bunun dışındaki işleri yapabilmesi, temsil olunanın vereceği özel yetkiye,
-temsil olunan bu yetkiyi verecek durumda değilse vesayet makamının iznine
-bağlıdır.
+---
 
 ### Akademik Yorum ve Analiz
 

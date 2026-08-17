@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Tahsil imkansızlığı sebebiyle terkin**
+**Tahsil imkansızlığı sebebiyle terkin:**
 
 ---
 
@@ -18,11 +18,13 @@ sayılı Kanun kapsamına giren amme alacaklarında 10 Türk Lirasına (10 Türk
 diğer amme alacaklarında 20 Türk Lirasına (20 Türk Lirası dahil) kadar amme alacakları,
 amme idarelerinde terkin yetkisini haiz olanlar tarafından tahsil zamanaşımı süresi
 beklenilmeksizin terkin olunabilir. Cumhurbaşkanı, bu tutarları topluca veya ayrı ayrı on
-katına kadar artırmaya yetkilidir.3536
+katına kadar artırmaya yetkilidir.
 (Ek: 3/12/1988 - 3505/25 md.) Maliye ve Gümrük Bakanı, yukarıdaki fıkra hükmüne
 göre terkin edilecek amme alacağının miktarını belirlemeye yetkilidir.
 Terkin selahiyetini haiz olanlar bu selahiyetlerin tamamını veya bir kısmını mahalli
 makamlara bırakabilirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,7 @@ wordCount: 4314
 
 ---
 
-Madde 224 - Hayvan satışında satıcının sorumlu olacağı süre yazılı olarak
+MADDE 224- Hayvan satışında satıcının sorumlu olacağı süre yazılı olarak
 belirlenmemiş ve ayıp da hayvanın gebeliğine ilişkin değilse satıcı, ancak ayıbın devrin
 yapıldığı veya alıcının devralmada temerrüdünün gerçekleştiği günden başlayarak dokuz gün
 içinde kendisine bildirilmesi ve ayrıca, hayvanın bilirkişilerce gözden geçirilmesinin aynı süre

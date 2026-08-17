@@ -16,6 +16,8 @@ yenilenmesi istemi hakkında da uygulanır.
 (2) Yargılamanın yenilenmesi istemi, bunun yasal nedenleri ile dayandığı delilleri
 içerir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

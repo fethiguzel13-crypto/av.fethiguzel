@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Kadroların hazırlanması**
+**(Mülga üçüncü fıkra: 2/7/2018 - KHK-703/182 md.)
+(Mülga dördüncü fıkra: 2/7/2018 - KHK-703/182 md.)
+Kadroların hazırlanması:**
 
 ---
 
 Madde 34 – (Mülga: 2/7/2018 - KHK-703/182 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**A. Sorumluluk
+**İKİNCİ AYIRIM
+Haksız Fiillerden Doğan Borç İlişkileri
+A. Sorumluluk
 I. Genel olarak**
 
 ---
 
-Madde 49 - Kusurlu ve hukuka aykırı bir fiille başkasına zarar veren, bu zararı
+MADDE 49- Kusurlu ve hukuka aykırı bir fiille başkasına zarar veren, bu zararı
 gidermekle yükümlüdür.
 Zarar verici fiili yasaklayan bir hukuk kuralı bulunmasa bile, ahlaka aykırı bir fiille
 başkasına kasten zarar veren de, bu zararı gidermekle yükümlüdür.

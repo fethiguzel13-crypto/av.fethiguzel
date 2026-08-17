@@ -11,7 +11,8 @@ wordCount: 4273
 
 ---
 
-Madde 602 - (1) Şirket, borç v e yükümlülükleri dolayısıyla sadece malvarlığıyla sorumludur.
+MADDE 602- (1) Şirket, borç ve yükümlülükleri dolayısıyla sadece malvarlığıyla
+sorumludur.
 
 ---
 

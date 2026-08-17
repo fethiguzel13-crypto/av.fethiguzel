@@ -18,6 +18,8 @@ tarafa tefhim veya tebliğ eder.
 davet edip dinledikten sonra kararını verir.
 (3) Hâkim, ön sorun hakkındaki kararını taraflara tefhim veya tebliğ eder.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

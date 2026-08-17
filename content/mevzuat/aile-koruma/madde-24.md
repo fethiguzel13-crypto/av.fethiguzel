@@ -13,6 +13,8 @@ wordCount: 4281
 
 MADDE 24 – (1) Bu Kanun yayımı tarihinde yürürlüğe girer.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -17,6 +17,8 @@ ortadan kalkmasına veya önemli ölçüde azalmasına neden olan kimseye bir y�
 kadar hapis ve bin güne kadar adlî para cezası verilir.
 Ticarî sır, bankacılık sırrı veya müşteri sırrı niteliğindeki bilgi veya belgelerin
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

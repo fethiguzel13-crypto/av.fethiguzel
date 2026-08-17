@@ -26,6 +26,8 @@ bilirkişiyi görevlendiren mahkemece dosya üzerinden incelenir ve karara bağl
 ilişkin kararlar kesindir. Redde ilişkin kararlara karşı ise ancak esas hakkındaki kararla
 birlikte kanun yoluna başvurulabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

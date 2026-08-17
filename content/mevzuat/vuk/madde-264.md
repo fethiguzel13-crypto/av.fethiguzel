@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Tasarruf değeri**
+**Tasarruf değeri:**
 
 ---
 
 Madde 264 – Tasarruf değeri, bir iktisadi kıymetin değerleme gününde sahibi için arz
 ettiği gerçek değerdir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

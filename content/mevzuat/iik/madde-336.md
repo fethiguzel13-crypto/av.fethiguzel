@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4321
 ---
 
-**Müflisin mallarını vermeyenler hakkındaki cezalar**
+**Müflisin mallarını vermeyenler hakkındaki cezalar:**
 
 ---
 
@@ -16,7 +16,8 @@ Müflisin mallarını ellerinde bulunduran veya müflise borçlu olan üçüncü
 iflasın açıldığına dair ilana muttali oldukları tarihten itibaren bir ay içinde makbul bir mazeret
 olmaksızın o malları iflas idaresi emrine vermezler veya borçlarını bildirmezlerse, doksan
 güne kadar adlî para cezası ile cezalandırılır.
-Kendisine teslim edilen malları vermeyenler hakkındaki cezalar:
+
+---
 
 ### Akademik Yorum ve Analiz
 

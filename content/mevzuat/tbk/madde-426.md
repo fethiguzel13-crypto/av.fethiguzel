@@ -11,7 +11,7 @@ wordCount: 4320
 
 ---
 
-Madde 426 - İşveren, işçinin isteği üzerine her zaman, işin türünü ve süresini içeren
+MADDE 426- İşveren, işçinin isteği üzerine her zaman, işin türünü ve süresini içeren
 bir hizmet belgesi vermekle yükümlüdür.
 İşçinin açıkça istemde bulunması hâlinde, hizmet belgesinde onun işgörmedeki
 becerisi ile tutum ve davranışları da belirtilir.

@@ -7,16 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**B) Kat mülkiyeti kütüğü**
+**B) Kat mülkiyeti kütüğü:**
 
 ---
 
 Madde 11 – (Değişik: 14/11/2007-5711/4 md.)
-Kat mülkiyeti ve kat irtifakı, Tapu Sicili Tüzüğüne göre tutulacak kat mülkiyeti kütüğüne tescil olunur. Bu Kanunda aksine hüküm olmadıkça, tescille ilgili genel hükümler, kat
+Kat mülkiyeti ve kat irtifakı, Tapu Sicili Tüzüğüne göre tutulacak kat mülkiyeti kütü-
+ğüne tescil olunur. Bu Kanunda aksine hüküm olmadıkça, tescille ilgili genel hükümler, kat
 mülkiyeti kütüğüne yapılacak tescillerde de uygulanır.
 Henüz kadastrosu yapılmamış olan yerlerde kat mülkiyeti ve kat irtifakı, Tapu Sicili
 Tüzüğündeki formüle göre, ayrıca tutulacak Kat Mülkiyeti Zabıt Defterine tescil olunur.
-C) Kat mülkiyetinin kurulması:
+
+---
 
 ### Akademik Yorum ve Analiz
 

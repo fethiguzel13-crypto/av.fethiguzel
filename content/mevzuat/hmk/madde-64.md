@@ -14,6 +14,8 @@ wordCount: 4265
 MADDE 64- (1) İhbar edilen davada verilen hükmün ihbar eden kişiye etkisi
 hakkında 69 uncu maddenin ikinci fıkrası hükmü kıyasen uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

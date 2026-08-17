@@ -18,9 +18,11 @@ kârı yerine birleşme kârı vergiye matrah olur.
 geçerlidir. Şu kadar ki, münfesih kurumun veya kurumların ortaklarına ya da sahiplerine
 birleşilen kurum tarafından doğrudan doğruya veya dolaylı olarak verilen değerler, kurumun
 tasfiyesi halinde ortaklara dağıtılan değerler yerine geçer. Birleşilen kurumdan alınan değerler
-Vergi Usul Kanununda yazılı esas保留
+Vergi Usul Kanununda yazılı esaslara göre değerlenir.
 (3) Kanunun 17 nci maddesine göre tasfiye memurlarına düşen sorumluluk ve ödevler,
 birleşme halinde birleşilen kuruma ait olur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

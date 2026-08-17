@@ -14,9 +14,7 @@ wordCount: 4313
 Madde 10- Mücbir sebep olarak kabul edilebilecek haller aşağıda belirtilmiştir:
 a) Doğal afetler.
 b) Kanuni grev.
-
-
-c) Genel salgın hastalık.
+c) Genel salgın hastalık.
 d) Kısmî veya genel seferberlik ilânı.
 e) Gerektiğinde Kurum tarafından belirlenecek benzeri diğer haller.
 Süre uzatımı verilmesi, sözleşmenin feshi gibi durumlar da dahil olmak üzere, idare
@@ -25,6 +23,8 @@ kaynaklanan bir kusurdan ileri gelmemiş olması, taahhüdün yerine getirilmesi
 olması, yüklenicinin bu engeli ortadan kaldırmaya gücünün yetmemiş bulunması, mücbir sebebin
 meydana geldiği tarihi izleyen yirmi gün içinde yüklenicinin idareye yazılı olarak bildirimde
 bulunması ve yetkili merciler tarafından belgelendirilmesi zorunludur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

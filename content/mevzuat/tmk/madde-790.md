@@ -11,7 +11,10 @@ wordCount: 4299
 
 ---
 
-Madde 790 - İrtifak hakkının kullanı lması için gerekli tesislerin bakımı, yararlanan taşınmaz mali kine aittir. Tesisler yüklü taşınmazın malikine de yararlı ise, bunların bakım giderlerine her iki malik yararları oranında katılır.
+Madde 790- İrtifak hakkının kullanılması için gerekli tesislerin bakımı, yararlanan
+taşınmaz malikine aittir.
+Tesisler yüklü taşınmazın malikine de yararlı ise, bunların bakım giderlerine her iki malik
+yararları oranında katılır.
 
 ---
 

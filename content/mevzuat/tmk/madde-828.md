@@ -12,8 +12,12 @@ wordCount: 4270
 
 ---
 
-Madde 828 - Üst hakkı sona erince yapılar, arazi malikine kalır ve arazinin bütünleyici p arçası olur.
-Bağımsız ve sürekli üst hakkı tapu kütüğüne taşın maz olarak kaydedilmişse, üst hakkı sona erince bu sayfa kapatılır. Taşınmaz olarak kayded ilmiş olan üst hakkı üzerindeki rehin hakları, diğer bütün hak, kısıtlama ve yükümlülükler de sayfanın k apatılmasıyla birlikte sona erer. Bedele ilişkin hükümler sakl ıdır.
+Madde 828- Üst hakkı sona erince yapılar, arazi malikine kalır ve arazinin bütünleyici parçası
+olur.
+Bağımsız ve sürekli üst hakkı tapu kütüğüne taşınmaz olarak kaydedilmişse, üst hakkı
+sona erince bu sayfa kapatılır. Taşınmaz olarak kaydedilmiş olan üst hakkı üzerindeki rehin
+hakları, diğer bütün hak, kısıtlama ve yükümlülükler de sayfanın kapatılmasıyla birlikte sona
+erer. Bedele ilişkin hükümler saklıdır.
 
 ---
 

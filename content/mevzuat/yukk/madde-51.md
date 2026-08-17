@@ -19,6 +19,8 @@ c) Yabancılarla ilgili işlemlerde aranan karşılıklılık şartından muaf t
 ç) Çalışma izniyle ilgili iş ve işlemlerde 4817 sayılı Kanun hükümlerine tabidirler,
 d) 5682 sayılı Kanunun 18 inci maddesi hükümlerinden yararlanabilirler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

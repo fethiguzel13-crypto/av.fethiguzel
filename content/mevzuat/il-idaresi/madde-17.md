@@ -7,13 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**makama derhal bildirirler.**
-
----
-
 Madde 17 – Valiler, il içinde, denetim ve teftişleri altında bulunmıyan bütün daire ve
 müesseselerde vukubulduğunu öğrendikleri yolsuzlukları ilgili makamlara bildirirler. İlgili
 makamlar lazımgelen incelemeyi yaparak kanuni gereğini ifa eder ve sonucundan valiye bilgi
+verirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,9 @@ wordCount: 4310
 
 ---
 
-Madde 827 - Üst hakkının içerik ve kapsamıyla ilgili olarak resmî senette yer alan, özellikle yapının konumuna, şekline, niteliğine, boyutlarına, özgülenme amacına ve üzerinde yapı bulunmayan alandan faydalanmaya ilişkin sözle şme kayıtları herkes için bağlayıcıdır.
+Madde 827- Üst hakkının içerik ve kapsamıyla ilgili olarak resmî senette yer alan,
+özellikle yapının konumuna, şekline, niteliğine, boyutlarına, özgülenme amacına ve üzerinde yapı
+bulunmayan alandan faydalanmaya ilişkin sözleşme kayıtları herkes için bağlayıcıdır.
 
 ---
 

@@ -11,7 +11,7 @@ wordCount: 4262
 
 ---
 
-Madde 425 - İşveren, yıllık ücretli iznini kullanan her işçiye, yıllık ücretli izin
+MADDE 425- İşveren, yıllık ücretli iznini kullanan her işçiye, yıllık ücretli izin
 süresine ilişkin ücretini, ilgili işçinin izne başlamasından önce peşin olarak ödemek veya
 avans olarak vermekle yükümlüdür.
 İşçi, hizmet ilişkisi devam ettiği sürece, işverenden alacağı para ve başka menfaatler

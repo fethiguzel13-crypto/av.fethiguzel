@@ -15,6 +15,8 @@ Madde 61 - Sigortalılara yıllık ücretli izin süresi için ödenecek ücretl
 kazaları ile meslek hastalıkları primleri hariç, diğer sigorta primlerinin, 506 sayılı Sosyal Sigortalar
 Kanunundaki esaslar çerçevesinde işçi ve işverenler yönünden ödenmesine devam olunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

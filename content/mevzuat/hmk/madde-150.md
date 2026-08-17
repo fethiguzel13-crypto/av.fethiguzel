@@ -22,8 +22,7 @@ yokluğunda yapılan işlemlere itiraz edemez.
 tespit ettirilmemişse, son işlem tarihinden başlayarak bir ay geçmekle dosya işlemden
 kaldırılır.
 (4) Dosyası işlemden kaldırılmış olan dava, işlemden kaldırıldığı tarihten başlayarak
-
-üç ay içinde taraflardan birinin dilekçe ile başvurusu üzerine yenilenebilir. Yenileme
+üç ay içinde taraflardan birinin dilekçe ile başvurusu üzerine yenilenebilir. Yenileme
 dilekçesi, duruşma gün, saat ve yeri ile birlikte taraflara tebliğ edilir. Dosyanın işlemden
 kaldırıldığı tarihten başlayarak bir ay geçtikten sonra yenileme talebinde bulunulursa, yeniden
 harç alınır, bu harç yenileyen tarafça ödenir ve karşı tarafa yüklenemez. Bu şekilde harç
@@ -35,6 +34,8 @@ kayıt kapatılır.
 yenilenmeden sonra bir defadan fazla takipsiz bırakılamaz. Aksi hâlde dava açılmamış sayılır.
 (7) Hangi sebeple olursa olsun açılmamış sayılan davadaki talep dahi vaki olmamış
 sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

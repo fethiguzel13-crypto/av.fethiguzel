@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4286
 ---
 
-**III
-- Sorumluluk sigortalarına uygulanacak hükümler**
+**III - Sorumluluk sigortalarına uygulanacak hükümler**
 
 ---
 
-Madde 1485 - (1) Sorumluluk sigortalarına genel hükümlerle birlikte, 1454 üncü ve 1458 inci maddeler, 1466 ncı maddenin birinci fıkrası ve 1471 inci madde de uygulanır.
+MADDE 1485- (1) Sorumluluk sigortalarına genel hükümlerle birlikte, 1454 üncü ve
+1458 inci maddeler, 1466 ncı maddenin birinci fıkrası ve 1471 inci madde de uygulanır.
 
 ---
 

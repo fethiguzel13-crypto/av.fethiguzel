@@ -11,7 +11,10 @@ wordCount: 4261
 
 ---
 
-Madde 375 - Aile malları ortaklığı, belirli vey a belirsiz süre için kurula bilir. Süre belirlenmediği takdirde or taklar dan her biri, altı ay önceden bildirmek koşuluyla ortaklıkt an çıkabilir. Bu bildirim, tarımsal işletme i le ilgili bir ortaklıkta, ancak ürünlerin yetiştiği yere göre olağan hasat mevsim inin sonu için geçerlidir.
+Madde 375- Aile malları ortaklığı, belirli veya belirsiz süre için kurulabilir. Süre
+belirlenmediği takdirde ortaklardan her biri, altı ay önceden bildirmek koşuluyla ortaklıktan çıkabilir.
+Bu bildirim, tarımsal işletme ile ilgili bir ortaklıkta, ancak ürünlerin yetiştiği yere göre
+olağan hasat mevsiminin sonu için geçerlidir.
 
 ---
 

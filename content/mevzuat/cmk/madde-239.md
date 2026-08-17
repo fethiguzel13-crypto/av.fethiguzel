@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Katılanın hakları**
+**(4) (Mülga: 18/6/2014 - 6545/103 md.)
+Katılanın hakları**
 
 ---
 
@@ -15,9 +16,11 @@ Madde 239 – (1) (Değişik: 24/7/2008-5793/41 md.) Mağdur veya suçtan zarar 
 davaya katıldığında, cinsel saldırı, çocukların cinsel istismarı veya ısrarlı takip suçları ile
 kadına karşı işlenen kasten yaralama, işkence veya eziyet suçlarında ve alt sınırı beş yıldan
 fazla hapis cezasını gerektiren suçlarda, baro tarafından kendisine avukat görevlendirilmesini
-isteyebilir.82
+isteyebilir.
 (2) Mağdur veya suçtan zarar görenin çocuk, sağır ve dilsiz veya kendisini
 savunamayacak derecede akıl hastası olması halinde avukat görevlendirilmesi için istem aranmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

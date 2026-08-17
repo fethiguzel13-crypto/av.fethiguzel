@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4319
 ---
 
-**Damga vergisi ve damga resminde sorumluluk**
+**Damga vergisi ve damga resminde sorumluluk:**
 
 ---
 
@@ -15,7 +15,8 @@ Madde 334 – (Değişik : 30/12/1980-2365/60 md.)
 Damga Vergisi ve Damga Resmi uygulamalarında gerek nispi, gerek maktu vergi ve
 resimlerle ilgili cezadan sorumlu olanlar birden fazla olduğu takdirde, yekdiğerine müracaat
 hakları mahfuz kalmak üzere, müteselsılen sorumlu tutulurlar.
-Tek fiil ve çeşitli suç işlenmesi:
+
+---
 
 ### Akademik Yorum ve Analiz
 

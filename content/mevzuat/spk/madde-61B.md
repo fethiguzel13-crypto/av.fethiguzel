@@ -33,8 +33,7 @@ düzeltme talepleri dâhil olmak üzere her türlü sicil işlemleri ile sınır
 addolunur. Devrinin geçerliliği bir tapu veya sicil kaydına bağlı olan ve proje finansman fonu
 portföyüne alınan varlık ve haklar, tapu siciline veya ilgili sicile fon adına tescil edilir.
 Tapuda, ticaret sicilinde ve diğer resmî sicillerde fon adına yapılacak işlemler, proje
-
-finansman fonu kurucusu ile fon kurulunu temsil eden birer yetkilinin müşterek imzalarıyla
+finansman fonu kurucusu ile fon kurulunu temsil eden birer yetkilinin müşterek imzalarıyla
 gerçekleştirilir.
 (7) Projeye dayalı menkul kıymet itfa edilinceye kadar, proje finansman fonu portföyünde
 yer alan varlıklar ve haklar, proje finansman fonunun kurucusunun ve fon kullanıcısının
@@ -42,9 +41,8 @@ yönetiminin veya denetiminin kamu kurumlarına devredilmesi hâlinde dahi temin
 tasarruf edilemez, rehnedilemez, teminat gösterilemez, kamu alacaklarının tahsili amacı da dâhil
 olmak üzere haczedilemez, iflas masasına dâhil edilemez, ayrıca bunlar hakkında ihtiyati tedbir ve
 ihtiyati haciz kararı verilemez.
-ALTINCI BÖLÜM
-Bağımsız Denetim, Derecelendirme ve Değerleme Kuruluşları
-Faaliyet esasları
+
+---
 
 ### Akademik Yorum ve Analiz
 

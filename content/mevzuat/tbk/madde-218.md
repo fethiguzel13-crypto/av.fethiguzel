@@ -11,7 +11,7 @@ wordCount: 4262
 
 ---
 
-Madde 218 - Satılanın bir kısmı elinden alınmış veya satılan sınırlı ayni bir hakla
+MADDE 218- Satılanın bir kısmı elinden alınmış veya satılan sınırlı ayni bir hakla
 yüklenmişse alıcı, sadece bu yüzden uğradığı zararın giderilmesini isteyebilir.
 Ancak alıcının, satılandaki bu durumu bilseydi onu satın almayacağı durum ve
 koşullardan anlaşılıyorsa, alıcı hâkimden sözleşmenin sona ermesine karar vermesini

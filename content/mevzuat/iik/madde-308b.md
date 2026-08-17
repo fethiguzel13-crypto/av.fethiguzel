@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**Çekişmeli alacaklar hakkında dava**
+**Çekişmeli alacaklar hakkında dava:**
 
 ---
 
@@ -16,14 +16,10 @@ Alacakları itiraza uğramış olan alacaklılar, tasdik kararının ilânı tar
 ay içinde dava açabilirler.
 Tasdik kararını veren mahkeme, konkordato projesi uyarınca çekişmeli alacaklara
 isabet eden payın, kararın kesinleşmesine kadar borçlu tarafından, mahkemece belirlenen bir
-
-2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “on gün” ibareleri “iki hafta”
-şeklinde değiştirilmiştir.
-105
-
-bankaya yatırılmasına karar verebilir. Süresi içinde dava açmamış olan alacaklılar, bu paydan
+bankaya yatırılmasına karar verebilir. Süresi içinde dava açmamış olan alacaklılar, bu paydan
 ödeme yapılmasını talep edemezler; bu durumda yatırılan pay borçluya iade edilir.
-Konkordatonun hükümleri:
+
+---
 
 ### Akademik Yorum ve Analiz
 

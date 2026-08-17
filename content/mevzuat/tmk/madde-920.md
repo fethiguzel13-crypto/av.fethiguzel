@@ -13,7 +13,8 @@ a. Tescil bakımından**
 
 ---
 
-Madde 920 - İpotekli borç senedinden veya irat senedinden d oğan alacak, tapu kütüğüne iyiniyetle dayanan herkes için kütükteki tescile göre geçerlidir.
+Madde 920- İpotekli borç senedinden veya irat senedinden doğan alacak, tapu kütüğüne
+iyiniyetle dayanan herkes için kütükteki tescile göre geçerlidir.
 
 ---
 

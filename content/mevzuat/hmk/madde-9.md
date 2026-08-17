@@ -16,6 +16,8 @@ mahkeme, davalının Türkiye’deki mutad meskeninin bulunduğu yer mahkemesidi
 diğer özel yetki hâlleri saklı kalmak üzere, malvarlığı haklarına ilişkin dava, uyuşmazlık
 konusu malvarlığı unsurunun bulunduğu yerde de açılabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

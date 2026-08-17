@@ -22,8 +22,7 @@ huzurunda şüpheli veya sanık tarafından doğrulanmadıkça hükme esas alın
 (5) Şüphelinin aynı olayla ilgili olarak yeniden ifadesinin alınması ihtiyacı ortaya
 çıktığında, bu işlem ancak Cumhuriyet savcısı tarafından yapılabilir.
 
-ALTINCI KISIM
-Savunma
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,10 +11,9 @@ wordCount: 4317
 
 ---
 
-Madde 404 - İşçiye belli işlerde aracılık yapması karşılığında işverence bir ücret
+MADDE 404- İşçiye belli işlerde aracılık yapması karşılığında işverence bir ücret
 ödeneceği kararlaştırılmışsa, aracılık yapılan işlemin üçüncü kişi ile geçerli olarak kurulmasıyla
 işçinin istem hakkı doğar.
-
 Borçların kısım kısım ifa edileceği sözleşmeler ile sigorta sözleşmelerinde, her kısma
 ilişkin ücret isteminin bu kısma ilişkin borcun muaccel olmasıyla veya yerine getirilmesiyle
 doğacağı yazılı olarak kararlaştırılabilir.

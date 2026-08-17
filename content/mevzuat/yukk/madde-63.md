@@ -21,6 +21,8 @@ olması nedeniyle menşe ülkesinin veya ikamet ülkesinin korumasından yararla
 veya söz konusu tehdit nedeniyle yararlanmak istemeyen yabancı ya da vatansız kişiye, statü
 belirleme işlemleri sonrasında ikincil koruma statüsü verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

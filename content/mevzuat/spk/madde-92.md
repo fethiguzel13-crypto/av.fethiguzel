@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**işlemlerinde uygulanacak tedbirler**
+**İhraççıların hukuka aykırı işlemleri ile sermayeyi veya mal varlığını azaltıcı
+işlemlerinde uygulanacak tedbirler**
 
 ---
 
@@ -33,6 +34,8 @@ Bankacılık Düzenleme ve Denetleme Kurumunun görüşü alınır.
 (3) (Ek: 2/1/2017-KHK-684/6 md.; Aynen kabul: 1/2/2018-7074/6 md.) Bu madde
 kapsamında Kurul tarafından açılan dava ve takipler ile ihtiyati tedbir ve ihtiyati haciz
 taleplerinde Kurul her türlü harç ve teminattan muaftır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

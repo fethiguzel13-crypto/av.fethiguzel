@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**Elektronik ortamda açık artırma suretiyle satış**
+**Elektronik ortamda açık artırma suretiyle satış:**
 
 ---
 
@@ -19,7 +19,7 @@ Açık artırma, ilanda belirtilen gün ve saat aralığında ve teklif verme yo
 Teklif verenlerin kişisel bilgileri, artırma süresi içinde bilişim sistemini işleten kamu
 görevlileri hariç hiç kimse tarafından görülemez ve bilişim sisteminde gösterilemez.
 Teklifler arasındaki fark, satışa çıkarılan malın muhammen kıymetinin binde beşinden
-ve her hâlde bin Türk lirasından az olamaz.45
+ve her hâlde bin Türk lirasından az olamaz.
 Açık artırmada en yüksek teklifi veren, artırma süresi içinde kendisinden yüksek bir
 teklif verilmedikçe teklifini çekemez ve teminatını alamaz.
 (Değişik altıncı fıkra:7/11/2024-7531/1 md.) Açık artırma süresinin son on dakikası
@@ -30,7 +30,7 @@ ihale edilir. Uzama sürelerinin toplamı bir saati geçemez. Bir saatlik süre 
 kararıyla kısaltılabilir, uzatılabilir veya kaldırılabilir ve bu kararlar Bakanlığın resmi internet
 sitesinde duyurulur.
 Elektronik satış portalında satış işlemlerinin güvenli bir şekilde gerçekleştirilmesini
-engelleyen veya elektronik satış sistemi (…)46 zarar veren internet siteleri hakkında, 4/5/2007
+engelleyen veya elektronik satış sistemi (…)zarar veren internet siteleri hakkında, 4/5/2007
 tarihli ve 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar
 Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanunun 8/A maddesi hükümleri
 uygulanır.
@@ -39,19 +39,10 @@ K.:2024/225 sayılı Kararı ile)
 Teklif verme süresi içinde bilişim sisteminin bakımı veya iyileştirilmesi için gerekli
 olan işlemler yapılabilir. (İptal ikinci cümle: Anayasa Mahkemesinin 25/12/2024 tarihli ve
 E.:2022/6; K.:2024/225 sayılı Kararı ile)
-
-7/11/2024 tarihli ve 7531 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “binde birinden ve
-her hâlde yüz Türk lirasından” ibaresi “binde beşinden ve her hâlde bin Türk lirasından” şeklinde
-değiştirilmiştir.
-46
-Anayasa Mahkemesinin 25/12/2024 tarihli ve E.:2022/6; K.:2024/225 sayılı Kararı ile bu fıkrada
-yer alan “...ile ihale alıcılarının hak ve menfaatlerine...” ibaresi iptal edilmiştir.
-45
-
-Bu maddenin uygulanmasına ve mahcuzların elektronik ortamda açık artırma suretiyle
+Bu maddenin uygulanmasına ve mahcuzların elektronik ortamda açık artırma suretiyle
 satışına ilişkin usul ve esaslar, Adalet Bakanlığınca yürürlüğe konulan yönetmelikle belirlenir.
-2 – Taşınırların satışı:
-Müddetler:
+
+---
 
 ### Akademik Yorum ve Analiz
 

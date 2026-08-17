@@ -19,8 +19,8 @@ verilecek hüküm önceki hükümle belirlenmiş olan cezadan daha ağır bir ce
 kararının verilmesi halinde, önceki mahkûmiyet kararının tamamen veya kısmen infaz
 edilmesi dolayısıyla kişinin uğradığı maddî ve manevî zararlar bu Kanunun 141 ilâ 144 üncü
 maddeleri hükümlerine göre tazmin edilir.
-YEDİNCİ KİTAP
-Yargılama Giderleri ve Çeşitli Hükümler
+
+---
 
 ### Akademik Yorum ve Analiz
 

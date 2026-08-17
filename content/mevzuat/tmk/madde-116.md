@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**Madde 116**
+**İ. Vakfın sona ermesi**
 
 ---
 
-Madde 116 - Amacın gerçekleşmesi olanaksız hâle geldiği ve değiştirilmesine de olanak bulunmadığı takdirde , vak ıf kendiliğinden sona erer ve mahkeme kararıyla sicilden silinir. Yasak amaç güttüğü veya yasak faaliyetlerde bulunduğu sonradan anlaşılan veya amacı sonrad an yasaklanan vakfın amacının değiştirilmesine olanak bulunmazsa; vakıf, denetim makamının ya d a Cum huriyet savcısının başvurusu üzerine duruşma yapılarak dağıtılır.
+Madde 116- Amacın gerçekleşmesi olanaksız hâle geldiği ve değiştirilmesine de olanak
+bulunmadığı takdirde, vakıf kendiliğinden sona erer ve mahkeme kararıyla sicilden silinir.
+Yasak amaç güttüğü veya yasak faaliyetlerde bulunduğu sonradan anlaşılan veya amacı
+sonradan yasaklanan vakfın amacının değiştirilmesine olanak bulunmazsa; vakıf, denetim
+makamının ya da Cumhuriyet savcısının başvurusu üzerine duruşma yapılarak dağıtılır.
 
 ---
 

@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
-**1 – Tahliye emri ve münderecatı**
+**Mukavelename ile kiralanan taşınmazların tahliyesi:
+1 – Tahliye emri ve münderecatı:**
 
 ---
 
@@ -16,12 +17,13 @@ Mukavelename ile kiralanan bir taşınmazın müddeti bittikten bir ay içinde
 mukavelenin icra dairesine ibrazı ile tahliyesi istenebilir.
 Bunun üzerine icra memuru bir tahliye emri tebliği suretiyle taşınmazın on beş gün
 içinde tahliye ve teslimini emreder.
-
-Tahliye emrinde:
+Tahliye emrinde:
 Kiralayanın ve kiracının ve varsa mümessillerinin isim, şöhret ve yerleşim yerleri ve
 mukavele tarihi ve kiranın yenilendiğine veya uzatıldığına dair bir itirazı varsa yedi gün
 içinde daireye müracaatla beyan etmez ve itirazda bulunmaz veya kendiliğinden tahliye
 etmezse zorla çıkarılacağı yazılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

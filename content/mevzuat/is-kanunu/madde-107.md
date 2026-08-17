@@ -16,8 +16,12 @@ Bu Kanunun;
 a) 92 nci maddesinin ikinci fıkrasındaki yükümlülüklerini yerine getirmeyen,
 b) 96 ncı maddesindeki yasaklara uymayan,
 işveren veya işveren vekiline sekizbin Türk Lirası idarî para cezası verilir.
+İş müfettişlerinin bu Kanundan veya diğer kanunlardan doğan her çeşit teftiş,
+denetleme yetki ve görevleri gereğince görevlerinin yerine getirilmesi sırasında, görevlerini
+yapma ve sonuçlandırmaya engel olan kimselere, fiil suç oluşturmadığı takdirde, sekizbin
+Türk Lirası idarî para cezası verilir.
 
-İş müfettişlerinin bu Kanundan veya diğer kanunlardan doğan her çeşit teftiş, denetleme yetki ve görevleri gereğince görevlerinin yerine getirilmesi sırasında, görevlerini yapma ve sonuçlandırmaya engel olan kimselere, fiil suç oluşturmadığı takdirde, sekizbin Türk Lirası idarî para cezası verilir.
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,15 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**Derneklerin izinle kurabileceği tesisler**
+**DÖRDÜNCÜ BÖLÜM
+İzne Tâbi Faaliyetler
+Derneklerin izinle kurabileceği tesisler**
 
 ---
 
 Madde 26- Derneklerin, tüzüklerinde gösterilen amaçları gerçekleştirmek üzere, eğitim ve
 öğretim faaliyetleri için yurt, pansiyon; üyeleri için lokal açmaları ve lokallerinde alkollü içki
 kullanılması ile bu tesislerin işletilmesi mülkî idare amirinden izin almalarına bağlıdır. (Mülga
-cümle:21/11/2024-7533/30 md.)
-Dernek lokallerinin açılması ve işletilmesi
+
+---
 
 ### Akademik Yorum ve Analiz
 

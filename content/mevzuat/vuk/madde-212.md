@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**Özel defterler**
+**Özel defterler:**
 
 ---
 
 Madde 212 – Noterlerin ve noterlik görevini ifa ile mükellef olanların ve borsa
 acentalarının resmi defteri "kazanç defteri" yerine geçer.
+
+---
 
 ### Akademik Yorum ve Analiz
 

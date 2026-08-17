@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**Genel ilkeler**
+**İKİNCİ BÖLÜM
+Kişisel Verilerin İşlenmesi
+Genel ilkeler**
 
 ---
 
@@ -20,6 +22,10 @@ c) Belirli, açık ve meşru amaçlar için işlenme.
 ç) İşlendikleri amaçla bağlantılı, sınırlı ve ölçülü olma.
 d) İlgili mevzuatta öngörülen veya işlendikleri amaç için gerekli olan süre kadar
 muhafaza edilme.
+Kişisel verilerin işlenme şartları
+(1) Kişisel veriler ilgili kişinin açık rızası olmaksızın işlenemez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

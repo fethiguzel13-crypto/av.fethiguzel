@@ -14,6 +14,8 @@ wordCount: 4265
 MADDE 330- (1) Vekil ile takip edilen davalarda mahkemece, kanuna göre takdir
 olunacak vekâlet ücreti, taraf lehine hükmedilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

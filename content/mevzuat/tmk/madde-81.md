@@ -8,11 +8,13 @@ wordCount: 4320
 ---
 
 **7. Genel kurul kararları
-a. Karar yeter sa yısı**
+a. Karar yeter sayısı**
 
 ---
 
-Madde 81 - Genel kurul kararları, toplantıya katılan üyelerin salt çoğunluğuyla alınır. Şu kadar ki, tüzük değişikliği ve derneğin feshi kararları, ancak top lantıya katılan üyelerin üçte iki çoğunluğuyla alınabilir.
+Madde 81- Genel kurul kararları, toplantıya katılan üyelerin salt çoğunluğuyla alınır. Şu
+kadar ki, tüzük değişikliği ve derneğin feshi kararları, ancak toplantıya katılan üyelerin üçte iki
+çoğunluğuyla alınabilir.
 
 ---
 

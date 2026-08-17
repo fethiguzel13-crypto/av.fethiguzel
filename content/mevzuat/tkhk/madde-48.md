@@ -20,7 +20,7 @@ sözleşmelerdir.
 etmeden önce ayrıntıları yönetmelikte belirlenen hususlarda ve siparişi onaylandığı takdirde
 ödeme yükümlülüğü altına gireceği konusunda açık ve anlaşılır şekilde satıcı veya sağlayıcı
 tarafından bilgilendirilir. Tüketicinin bilgilendirildiğine ilişkin ispat yükü satıcı veya sağlayıcıya
-aitir.
+aittir.
 (3) Satıcı veya sağlayıcı, tüketicinin siparişinin kendisine ulaştığı andan itibaren
 taahhüt edilen süre içinde edimini yerine getirir. (Değişik cümle:24/3/2022-7392/7 md.)
 Tüketicinin isteği veya kişisel ihtiyaçları doğrultusunda hazırlanan mallara ilişkin sözleşmeler
@@ -40,13 +40,8 @@ aracılığıyla kurulan mesafeli sözleşmelerden doğan hak ve yükümlülükl
 boyunca tüketicilerin yönetmelikle belirlenen hususlara ilişkin talep ve bildirimlerini
 iletebilmelerine ve takip edebilmelerine elverişli bir sistemi kurmak ve kesintisiz olarak açık
 tutmakla yükümlüdür.
-Anayasa Mahkemesinin 12/2/2026 tarihli ve E.: 2024/229; K.: 2026/35 sayılı Kararı ile bu fıkra
-iptal edilmiştir. Kararın Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra (30/1/2027)
-yürürlüğe gireceği hüküm altına alınmıştır.
-12
-
-(6) (Ek:24/3/2022-7392/7 md.) Aracı hizmet sağlayıcısı olarak faaliyet gösterenler
-aracılık ettikleri mesafeli sözleşmelere ilişkin olarak;13
+(6) (Ek:24/3/2022-7392/7 md.) Aracı hizmet sağlayıcısı olarak faaliyet gösterenler
+aracılık ettikleri mesafeli sözleşmelere ilişkin olarak;
 a) Tüketiciye ön bilgilendirmenin yapılmasından, teyidinden ve ispatından satıcı veya
 sağlayıcı ile birlikte müteselsilen,
 b) Veri girişinin satıcı veya sağlayıcı tarafından yapıldığı durumlar hariç olmak üzere,
@@ -61,7 +56,8 @@ d) Satıcı veya sağlayıcı adına bedel tahsil etmesi hâlinde, mal veya hizm
 teslim veya ifası sonrası bedelin satıcıya veya sağlayıcıya aktarıldığı durumlar ile 11 inci ve
 15 inci maddelerde yer alan hakların kullanımı hariç olmak üzere teslim veya ifa ile cayma
 hakkına ilişkin yükümlülüklerden satıcı veya sağlayıcı ile birlikte müteselsilen,
-e) Satıcı veya sağlayıcı onayı olmaksızın düzenledikleri kampanyalı, promosyonlu veya indirimli satışlarda, sözleşmenin hiç ya da gereği gibi ifa
+e) Satıcı veya sağlayıcı onayı olmaksızın düzenledikleri
+kampanyalı, promosyonlu veya indirimli satışlarda, sözleşmenin hiç ya da gereği gibi ifa
 edilmemesinden,
 f) Ön bilgilendirmede yer alan hususlar ile reklamlarında yer alan bilgilerin uyumlu
 olmasından ve ispatından,
@@ -69,7 +65,9 @@ sorumludur.
 (7) Mesafeli sözleşmelerde, kapsam dışı sözleşmeler, tüketici, satıcı ve sağlayıcı ile
 mesafeli sözleşme kurulmasına aracılık eden aracı hizmet sağlayıcının hak ve yükümlülükleri,
 cayma hakkı, bilgilendirme yükümlülüğü, teslimat ile diğer uygulama usul ve esasları
-yönetmelikle belirlenir.13
+yönetmelikle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

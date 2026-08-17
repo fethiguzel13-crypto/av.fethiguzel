@@ -19,6 +19,8 @@ hâller saklı kalmak kaydıyla, mevzuata uygun olarak hazırlanmış finansal t
 temsil edilmeye ilişkin imtiyazlar Kurul kararı ile kalkar. Söz konusu imtiyazlı payların kamu
 kurum ve kuruluşlarına ait olması hâlinde bu hüküm uygulanmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

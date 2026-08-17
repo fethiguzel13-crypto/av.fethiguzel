@@ -13,7 +13,7 @@ I. Yüklenicinin borçları
 
 ---
 
-Madde 471 - Yüklenici, üstlendiği edimleri işsahibinin haklı menfaatlerini
+MADDE 471- Yüklenici, üstlendiği edimleri işsahibinin haklı menfaatlerini
 gözeterek, sadakat ve özenle ifa etmek zorundadır.
 Yüklenicinin özen borcundan doğan sorumluluğunun belirlenmesinde, benzer alandaki
 işleri üstlenen basiretli bir yüklenicinin göstermesi gereken meslekî ve teknik kurallara uygun

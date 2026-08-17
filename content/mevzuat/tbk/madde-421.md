@@ -12,7 +12,7 @@ wordCount: 4269
 
 ---
 
-Madde 421 - İşveren, işçiye her hafta, kural olarak pazar günü veya durum ve
+MADDE 421- İşveren, işçiye her hafta, kural olarak pazar günü veya durum ve
 koşullar buna imkân vermezse, bir tam çalışma günü tatil vermekle yükümlüdür.
 İşveren, belirsiz süreli hizmet sözleşmesinin feshi hâlinde, bildirim süresi içinde işçiye
 ücretinde bir kesinti olmaksızın, günde iki saat iş arama izni vermekle yükümlüdür.

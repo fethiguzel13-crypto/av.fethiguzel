@@ -14,6 +14,8 @@ wordCount: 4266
 MADDE 239- (1) Yemin eda edildikten sonra, yalan yere yemin nedeniyle açılan ceza
 davası, esas dava bakımından bekletici sorun yapılamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

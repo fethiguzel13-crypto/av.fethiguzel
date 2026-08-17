@@ -14,6 +14,8 @@ wordCount: 4260
 Madde 70 – (1) Tanıklıktan çekinmeyi gerektirecek sebepler bilirkişiler hakkında da
 geçerlidir. Bilirkişi, geçerli diğer sebeplerle de görüş bildirmekten çekinebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

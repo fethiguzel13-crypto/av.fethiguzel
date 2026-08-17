@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Zor kullanma**
+**Zor kullanma:**
 
 ---
 
@@ -17,11 +17,8 @@ Gerekirse bu yerler zorla açtırılır, kilit ve her türlü tertipler kırıla
 malların zorla alınmasında hal ve durumun gerektirdiği her türlü zora başvurulabilir.
 Borçlunun üzerinde haczi kabil kıymetli mallar bulunduğu ve kendisi bunları rızasiyle
 teslim etmediği veya üzerinde sakladığı takdirde şahsına karşı da zor kullanılır.
-Hacizde değerleme:
 
-Madde 81 – Haczedilen mallara haczi yapan memur tarafından değer biçilir,
-borçlunun müracaatı üzerine veya tahsil dairesince lüzum görüldüğü takdirde yeniden
-bilirkişiye değer biçtirilir.
+---
 
 ### Akademik Yorum ve Analiz
 

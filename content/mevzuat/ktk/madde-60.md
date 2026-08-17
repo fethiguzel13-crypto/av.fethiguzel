@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Durakmanın yasak olduğu yerler**
+**Duraklamanın yasak olduğu yerler:**
 
 ---
 
@@ -25,6 +25,8 @@ birimi içinde onbeş metre ve yerleşim birimi dışında yüz metre mesafede,
 Duraklamak yasaktır.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayan sürücüler 1 800 000
 lira para cezası ile cezalandırılırlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,9 @@ wordCount: 4289
 
 ---
 
-Madde 75 - (1) G erçekleşmesi şüpheli yükümlülük ve askıdaki işlemlerden doğabilecek muhtemel kayıplar için Türkiye Muhasebe Standartlarında öngörülen kurallara göre karşılık ayrılır.
+MADDE 75- (1) Gerçekleşmesi şüpheli yükümlülük ve askıdaki işlemlerden
+doğabilecek muhtemel kayıplar için Türkiye Muhasebe Standartlarında öngörülen kurallara
+göre karşılık ayrılır.
 
 ---
 

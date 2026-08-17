@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**Hüviyet tasdiki**
+**Hüviyet tasdiki:**
 
 ---
 
@@ -18,6 +18,8 @@ vaki olan değişiklikler mükellefin ikamet ettiği veya çalıştığı mahall
 ettirilir.
 Buna imkan olmayan hallerde mükellefin karneye yazdığı bilgilerin doğruluğu idari
 tahkikatla tespit olunur ve karnenin tescili tahkikat neticesinde yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

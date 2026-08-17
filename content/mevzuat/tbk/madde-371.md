@@ -11,7 +11,7 @@ wordCount: 4288
 
 ---
 
-Madde 371 - Kiracının ölümü hâlinde, onun mirasçıları ve kiraya veren, altı aylık
+MADDE 371- Kiracının ölümü hâlinde, onun mirasçıları ve kiraya veren, altı aylık
 yasal fesih bildirim sürelerine uymak koşuluyla, sözleşmeyi feshedebilirler.
 
 ---

@@ -11,7 +11,7 @@ wordCount: 4305
 
 ---
 
-Madde 588 - Alacaklıya, kefilin borcu için güvence veren kefile kefil, kefil ile
+MADDE 588- Alacaklıya, kefilin borcu için güvence veren kefile kefil, kefil ile
 birlikte, adi kefil gibi sorumludur.
 Rücua kefil, kefilin borçludan rücu alacağı için güvence veren kefildir.
 

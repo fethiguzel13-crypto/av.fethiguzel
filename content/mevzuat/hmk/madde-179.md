@@ -20,6 +20,8 @@ veya iadesi ıslah ile geçersiz kılınamaz.
 (3) Şu kadar ki, ıslahtan sonra yapılacak tahkikat sonucuna göre, bu işlemlerin göz
 önünde tutulması gerekmiyorsa, bunlar da yapılmamış sayılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

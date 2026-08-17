@@ -22,6 +22,8 @@ sonuna kadar uygulanır.
 sözleşme için yetki başvurusunda bulunulabilir. Ancak, yapılacak toplu iş sözleşmesi önceki
 sözleşme sona ermedikçe yürürlüğe giremez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

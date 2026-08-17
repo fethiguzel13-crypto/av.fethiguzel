@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4263
 ---
 
-**Ödeme usulü ve mahrumiyet yeri derecesi**
+**Ödeme usulü ve mahrumiyet yeri derecesi:**
 
 ---
 
 Madde 196 – (Mülga: 2/12/1993 - 3920/2 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

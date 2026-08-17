@@ -11,11 +11,10 @@ wordCount: 4310
 
 ---
 
-Madde 226 - Başka yerden gönderilen satılanın ayıplı olduğunu ileri süren alıcı,
+MADDE 226- Başka yerden gönderilen satılanın ayıplı olduğunu ileri süren alıcı,
 bulunduğu yerde satıcının temsilcisi yoksa, satılanın korunması için gerekli önlemleri geçici
 olarak almakla yükümlüdür. Alıcı, ayıplı olduğunu ileri sürdüğü satılanın korunması için
 gerekli önlemleri almaksızın onu satıcıya geri gönderemez.
-
 Alıcı, satılanın durumunu gecikmeksizin usulüne göre tespit ettirmekle yükümlüdür.
 Bunu yaptırmazsa, ileri sürdüğü ayıbın, satılanın kendisine ulaştığı zamanda var olduğunu
 ispat yükü alıcıya düşer.

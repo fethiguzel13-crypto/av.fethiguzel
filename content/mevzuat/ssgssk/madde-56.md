@@ -26,6 +26,8 @@ Eşinden boşandığı halde, boşandığı eşiyle fiilen birlikte yaşadığı
 çocukların, bağlanmış olan gelir ve aylıkları kesilir. Bu kişilere ödenmiş olan tutarlar, 96 ncı
 madde hükümlerine göre geri alınır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

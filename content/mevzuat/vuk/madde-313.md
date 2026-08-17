@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**Amortisman mevzuu:105**
+**ÜÇÜNCÜ KISIM
+Amortismanlar
+BİRİNCİ BÖLÜM
+Mevcutlarda Amortisman
+Amortisman mevzuu:**
 
 ---
 
@@ -20,9 +24,7 @@ Mükerrer) sayılı Resmî Gazete'de yayımlanan Hazine ve Maliye Bakanlığın�
 No.’lu Tebliği ile 1/1/2026 tarihinden geçerli olmak üzere tespit edilen miktarlar metne parantez içinde siyah
 punto ile işlenmiştir. Daha önce yapılan değişiklikler için bu Kanunun sonundaki "ÇEŞİTLİ MEVZUAT İLE
 YAPILAN DEĞİŞİKLİKLER CETVELİ" ne bakınız.
-105
-
-göre tespit edilen değerinin, bu Kanun hükümlerine göre yok edilmesi amortisman mevzuunu
+göre tespit edilen değerinin, bu Kanun hükümlerine göre yok edilmesi amortisman mevzuunu
 teşkil eder.
 (Ek: 22/7/1998-4369/8 md.) İlgili mevzuat gereğince sözleşme süresinden sonra
 bedelsiz olarak Devlete veya Devletçe tensip olunan bir teşekküle veya belediyeye intikali
@@ -33,6 +35,8 @@ tutulanlar, genel hükümler uyarınca ayrıca amortismana tabi tutulamazlar.
 peştemallıklar ile işletmede kullanılan ve değeri 50.000.000 (12.000 TL) lirayı aşmayan alet,
 edavat, mefruşat ve demirbaşlar amortismana tabi tutulmayarak doğrudan doğruya gider
 yazılabilir. İktisadi ve teknik bakımdan bütünlük arz edenlerde bu had topluca dikkate alınır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

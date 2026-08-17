@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**İcra dairesine ödeme**
+**İcra dairesine ödeme:**
 
 ---
 
 Madde 12 – (Mülga: 2/7/2012-6352/105 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

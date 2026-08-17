@@ -15,6 +15,8 @@ MADDE 276- (1) Bilirkişi, mahkemece kendisine tevdi olunan görevi bizzat yerin
 getirmekle yükümlü olup, görevinin icrasını kısmen yahut tamamen başka bir kimseye
 bırakamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

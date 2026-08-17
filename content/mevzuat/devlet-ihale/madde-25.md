@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Geçici teminat**
+**Geçici teminat:**
 
 ---
 
@@ -16,6 +16,8 @@ konusu olan işin tahmin edilen bedelinin % 3'ü oranında geçici teminat alın
 uyarınca yapılacak ihalelerde geçici teminat teklif edilen bedelin, tasfiye idaresince yapılan
 taşınır mal satışlarında ise satışa esas bedelin % 3'ünden az olamaz.
 Pazarlık usulü ile yapılacak ihalelerde, geçici teminat alıp almamakta idareler serbesttir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

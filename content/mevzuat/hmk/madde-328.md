@@ -17,6 +17,8 @@ diğer tarafa yükletilir. Ancak, hüküm üçüncü kişinin katıldığı tara
 lehine hükmolunan tarafın hâl ve davranışı, üçüncü kişinin davaya katılmasını gerektirmişse,
 müdahale giderinin tamamı veya bir kısmı, lehine hüküm verilen tarafa yükletilebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

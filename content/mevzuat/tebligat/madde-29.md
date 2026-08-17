@@ -7,20 +7,22 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**İlan şekli:10**
+**İlan şekli:**
 
 ---
 
 Madde 29 – İlan suretiyle tebliğ, tebliği çıkartacak merciin mucip sebep beyaniyle
 vereceği karar üzerine aşağıdaki şekilde yapılır.
-1. İlan alakalının ıttılaına en emin bir şekilde vasıl olacağı umulan ve varsa (...)10
+1. İlan alakalının ıttılaına en emin bir şekilde vasıl olacağı umulan ve varsa (…)
 tebliği çıkaran merciin bulunduğu yerde intişar eden bir gazete ve bir internet haber sitesi ve
-ayrıca Basın İlân Kurumu İlan Portalında yapılır.11
+ayrıca Basın İlân Kurumu İlan Portalında yapılır.
 2. Tebliğ olunacak evrak ve ilan sureti, tebliği çıkaran merciin herkesin kolayca
 görebileceği bir yerine de asılır.
 (Değişik: 6/6/1985 - 3220/9 md.) Merci, icabına göre ikinci defa ilan yapılmasına
 karar verebilir. İki ilan arasındaki müddet bir haftadan aşağı olamaz. Gerekiyorsa ikinci ilan,
 yabancı memleket gazeteleriyle de yaptırılabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

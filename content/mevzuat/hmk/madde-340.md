@@ -13,8 +13,8 @@ wordCount: 4274
 
 MADDE 340- (1) Adli yardımdan yararlanan kişi için mahkemenin talebi üzerine
 baro tarafından görevlendirilen avukatın ücreti, yargılama gideri olarak Hazineden ödenir.
-SEKİZİNCİ KISIM
-Kanun Yolları
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**İlk tesis ve taazzuv giderlerinin ve peştemallıkların itfası**
+**İlk tesis ve taazzuv giderlerinin ve peştemallıkların itfası:**
 
 ---
 
 Madde 326 – Kurumların aktifleştirdikleri ilk tesis ve taazzuv giderleri ile
 peştemallıklar mukayyet değerleri üzerinden eşit miktarlarda ve beş yıl içinde itfa olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

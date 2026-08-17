@@ -11,7 +11,7 @@ wordCount: 4317
 
 ---
 
-Madde 138 - Sözleşmenin yapıldığı sırada taraflarca öngörülmeyen ve öngörülmesi
+MADDE 138- Sözleşmenin yapıldığı sırada taraflarca öngörülmeyen ve öngörülmesi
 de beklenmeyen olağanüstü bir durum, borçludan kaynaklanmayan bir sebeple ortaya çıkar ve
 sözleşmenin yapıldığı sırada mevcut olguları, kendisinden ifanın istenmesini dürüstlük
 kurallarına aykırı düşecek derecede borçlu aleyhine değiştirir ve borçlu da borcunu henüz ifa

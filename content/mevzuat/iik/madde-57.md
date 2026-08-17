@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4277
 ---
 
-**İcra tebliğleri**
+**IV. İCRA TEBLİĞLERİ
+İcra tebliğleri:**
 
 ---
 
@@ -17,7 +18,8 @@ kanunen mümessil tayin olunması icabeden şahıslardan ise icra memuru kısa b
 mümessil tayin edilmesini ait olduğu makamdan ister.
 Tebliğ, Medeni Kanunun 159 ve 396 ncı maddelerine göre mezun olanların meslek
 veya sanatına mütaallik muamelelerden doğmuş bir borca dair ise kendilerine yapılır.
-V. TAKİP TALEBİ
+
+---
 
 ### Akademik Yorum ve Analiz
 

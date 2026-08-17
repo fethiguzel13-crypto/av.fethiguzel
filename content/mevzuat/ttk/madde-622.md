@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**IV
-- Genel kurul kararlarının butlanı ve iptali**
+**IV- Genel kurul kararlarının butlanı ve iptali**
 
 ---
 
-Madde 622 - (1) Bu Kanunun anonim şirket genel kurul kararla rının butlanına ve iptaline ilişkin hükümleri, kıyas yoluyla limited şirketlere de uygulanır.
+MADDE 622- (1) Bu Kanunun anonim şirket genel kurul kararlarının butlanına ve
+iptaline ilişkin hükümleri, kıyas yoluyla limited şirketlere de uygulanır.
 
 ---
 

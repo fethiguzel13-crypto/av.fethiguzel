@@ -12,7 +12,9 @@ a. Genel olarak**
 
 ---
 
-Madde 30 - Doğum ve ölüm, nüfus sicilindeki kayı tlarla ispat olunur. Nüfus sicilinde bir kayıt yoksa veya bulunan kaydın doğru olmadığı anlaşı lırsa , ger çek durum her türlü kanıtla ispat edilebilir.
+Madde 30- Doğum ve ölüm, nüfus sicilindeki kayıtlarla ispat olunur.
+Nüfus sicilinde bir kayıt yoksa veya bulunan kaydın doğru olmadığı anlaşılırsa, gerçek
+durum her türlü kanıtla ispat edilebilir.
 
 ---
 

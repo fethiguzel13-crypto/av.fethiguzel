@@ -41,6 +41,8 @@ yaşlılık ve ölüm aylığı bağlanmasında veya toptan ödeme yapılmasınd
 sigortalılık süresi, prim ödeme gün sayısı ve prime esas kazancın hesaplanmasında, vazife
 malûllüğü aylığı bağlandığı tarihten önceki süreler dikkate alınmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

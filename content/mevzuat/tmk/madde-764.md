@@ -12,7 +12,10 @@ a. Genel olarak**
 
 ---
 
-Madde 764 - Başkasına devredilen bir malın mülk iyetinin saklı tutulması kaydı, ancak resmî şekilde yapılacak sözleşmenin devralanın yerle şim yeri noterliğinde özel siciline kaydedilmesiyle geçerli olur. Hayvan satışlarında mülkiyeti saklı tu tma sözleşmesi yapılamaz.
+Madde 764- Başkasına devredilen bir malın mülkiyetinin saklı tutulması kaydı, ancak resmî
+şekilde yapılacak sözleşmenin devralanın yerleşim yeri noterliğinde özel siciline kaydedilmesiyle
+geçerli olur.
+Hayvan satışlarında mülkiyeti saklı tutma sözleşmesi yapılamaz.
 
 ---
 

@@ -22,6 +22,8 @@ kurulunun gerekli görmesi üzerine bilirkişiler, yazılı veya sözlü raporla
 sonra çağrılacakları duruşmaya katılırlar. Bu duruşmada taraflar, bilirkişilere soru sorabilir ve
 uyuşmazlık konusunda kendi seçtikleri özel bilirkişileri dinletebilirler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

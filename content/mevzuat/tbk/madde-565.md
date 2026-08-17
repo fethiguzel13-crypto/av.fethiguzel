@@ -11,7 +11,7 @@ wordCount: 4261
 
 ---
 
-Madde 565 - Saklayan, belirlenmiş olan sürenin sona ermesinden önce saklananı
+MADDE 565- Saklayan, belirlenmiş olan sürenin sona ermesinden önce saklananı
 geri veremez. Ancak saklayan, öngörülemeyen durumlar dolayısıyla sözleşmenin devamı
 saklanan için tehlikeli veya kendisi için zararlı olursa, belirlenen sürenin sona ermesinden
 önce de geri verebilir.

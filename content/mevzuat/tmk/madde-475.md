@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**3. Savurganlık, alkol veya uyuşturucu m adde bağım lılığı, kötü yaşama tarzı, kötü yönetimde**
+**yönetimde**
 
 ---
 
-Madde 475 - Savurganlığı , alko l veya uyuşturucu m adde bağımlılığı, kötü yaşama tarzı veya malvarlığını kötü yönetmesi sebebiyle kısıtl anmış olan kişinin vesayetin kaldırılmasını isteyebilmesi, en az bir yıldan beri vesayet altına alınmasını g erektiren sebeple ilgili ol arak bir şi kâyete meydan vermemiş olmasına bağlıdır.
+Madde 475- Savurganlığı, alkol veya uyuşturucu madde bağımlılığı, kötü yaşama tarzı
+veya malvarlığını kötü yönetmesi sebebiyle kısıtlanmış olan kişinin vesayetin kaldırılmasını
+isteyebilmesi, en az bir yıldan beri vesayet altına alınmasını gerektiren sebeple ilgili olarak bir
+şikâyete meydan vermemiş olmasına bağlıdır.
 
 ---
 

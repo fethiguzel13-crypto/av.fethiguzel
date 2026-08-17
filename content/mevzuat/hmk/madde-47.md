@@ -22,6 +22,8 @@ veren başkan ile üyeler katılamaz.
 (2) Devletin sorumlu hâkime karşı açacağı rücu davası, tazminat davasını karara
 bağlamış olan mahkemede görülür.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

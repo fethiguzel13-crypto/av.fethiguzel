@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**Sürücü adaylarının sınavları ile sürücü belgelerinin verilmesi esasları:38**
+**Sürücü adaylarının sınavları ile sürücü belgelerinin verilmesi esasları:**
 
 ---
 
@@ -30,11 +30,7 @@ Genel Müdürünün onayı ile Emniyet Genel Müdürlüğü personeline ve Emniy
 Müdürlüğüne bağlı eğitim ve öğretim kurumlarında öğrenim görenlere sürücü belgesine
 dönüştürülmek üzere motorlu taşıt sürücüsü sertifikası verilir. Bunların sınavları, nitelikleri
 Emniyet Genel Müdürlüğünce belirlenen sınav sorumluları tarafından yapılır.
-Bu madde başlığı “Sürücülerin sınavları ve sürücü belgelerinin verilmesi esasları:” iken, 12/7/2013
-tarihli ve 6495 sayılı Kanunun 18 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-38
-
-(Değişik fıkra:6/12/2019-7196/41 md.) Jandarma teşkilatının motorlu araç sürücüsü
+(Değişik fıkra:6/12/2019-7196/41 md.) Jandarma teşkilatının motorlu araç sürücüsü
 ihtiyacını karşılamak üzere belirli eğitim programları çerçevesinde ve yönetmelikte belirtilen
 esas ve şartlara uygun olarak, illerde valinin onayı, merkez teşkilatı için Jandarma Genel
 Komutanı onayı ile jandarma teşkilatı mensubu subay, astsubay, uzman jandarma ve uzman
@@ -60,6 +56,8 @@ karayolunda araç kullanma yetkisi vermez. Sürücü sertifikasını sürücü b
 dönüştürmeden karayolunda araç kullandığı tespit edilen sürücüye 700 Türk Lirası idari para
 cezası verilir. Bu kişilere araç kullandıran araç sahibine de tescil plakası üzerinden aynı
 miktarda idari para cezası verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,10 @@ wordCount: 4259
 
 ---
 
-Madde 836 - Üst hakkı, bağımsız bir hak olarak en çok yüz yıl için kurulabilir. Üst hakkı, süresinin dörtte üçü dolduktan sonra, kurulması için öngörülen şekle uyularak her z aman en çok yüz yıllık yeni bir süre için uzatılabilir. Bu konuda önceden yapılan taahhüt bağlayıcı deği ldir.
+Madde 836- Üst hakkı, bağımsız bir hak olarak en çok yüz yıl için kurulabilir.
+Üst hakkı, süresinin dörtte üçü dolduktan sonra, kurulması için öngörülen şekle uyularak her
+zaman en çok yüz yıllık yeni bir süre için uzatılabilir. Bu konuda önceden yapılan taahhüt bağlayıcı
+değildir.
 
 ---
 

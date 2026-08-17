@@ -11,7 +11,7 @@ wordCount: 4265
 
 ---
 
-Madde 1460 - (1) Sigorta değeri sigorta olunan menfaatin tam değeridir.
+MADDE 1460- (1) Sigorta değeri sigorta olunan menfaatin tam değeridir.
 
 ---
 

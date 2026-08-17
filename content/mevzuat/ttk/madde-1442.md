@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**Madde 1442**
+**hhh) Cayma hakkının düşmesi**
 
 ---
 
-Madde 1442 - (1) Ca yma hakkı aşağıdaki hâllerde kullanılamaz: a) Cayma hakkının kullanılmasından açıkça veya zımnen vazgeçilmişse.
+MADDE 1442- (1) Cayma hakkı aşağıdaki hâllerde kullanılamaz:
+a) Cayma hakkının kullanılmasından açıkça veya zımnen vazgeçilmişse.
+b) Caymaya yol açan ihlale sigortacı sebebiyet vermişse.
+c) Sigortacı, sorularından bazıları cevapsız bırakıldığı hâlde sözleşmeyi yapmışsa.
 
 ---
 

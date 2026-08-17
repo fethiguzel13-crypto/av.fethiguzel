@@ -23,15 +23,15 @@ veya kamu idareleri için özel mevzuatlarında belirtilen usûle uygun olarak s
 yurt dışına gönderilenler ile bunların yurt dışında birlikte yaşadıkları bakmakla yükümlü
 olduğu kişilere,
 c) Sağlık Bakanlığının uygun görüşü üzerine yurt içinde tedavisinin yapılamadığı
-tespit edilen kişilerin,111
+tespit edilen kişilerin,
 d) (Ek: 12/7/2013-6495/40 md.) Bu fıkranın (a) ve (b) bentleri kapsamında veya
 bunların dışında herhangi bir nedenle Kuzey Kıbrıs Türk Cumhuriyetinde bulunan ve Türk
 vatandaşı olan genel sağlık sigortalılarının ve bakmakla yükümlü olduğu kişilerin,
 e) (Ek: 2/1/2017-KHK-681/78 md.; Aynen kabul: 1/2/2018-7073/77 md.) 60 ıncı
 maddenin onikinci fıkrası kapsamında genel sağlık sigortalısı sayılanlardan özel
 mevzuatlarında belirtilen usule uygun olarak sürekli veya geçici görevle gönderilenlere,
-sağlık hizmetleri yurt dışından sağlanır.
-(Değişik fıkra: 17/4/2008-5754/41 md.) Yurt içinde yapılması mümkün olmayan tetkiklerin
+sağlık hizmetleri yurt dışında sağlanır.
+(Ek fıkra: 17/4/2008-5754/66 md.) Yurt içinde yapılması mümkün olmayan tetkiklerin
 de yurt dışında yapılması sağlanabilir.
 Ancak, yukarıdaki fıkranın (a) ve (b) bentleri gereği yurt dışında sağlanan sağlık
 hizmetlerinin Kurumca karşılanacak bedelleri, yurt içinde sözleşmeli sağlık hizmet
@@ -43,7 +43,7 @@ hizmetlerinin sağlanması ile bu hizmetlere ilişkin giderlerin yurt içindeki 
 hizmeti sunucularına ödenen tutarı aşan kısmı, kurumlarınca karşılanır. (Ek cümle:
 12/7/2013-6495/40 md.) Ancak, Kuruma gönderilen sağlık hizmeti faturalarında yer alan
 işlem bedellerinin ayrıntılı belirtilemediği durumlarda, söz konusu fatura bedelinin yüzde
-ellişi Kurumca, kalan yüzde ellisi ise kendi kurumlarınca karşılanır.112
+ellisi Kurumca, kalan yüzde ellisi ise kendi kurumlarınca karşılanır.
 Kurum, birinci fıkranın (a) ve (b) bentleri kapsamındaki kişilerin sağlık hizmetlerini,
 bu kişilerin geçici veya sürekli görev süresince genel sağlık sigortası için Kuruma ödenen
 prim tutarını geçmemek kaydıyla, ilgili ülkede sağlık sigortası yaptırmak suretiyle de
@@ -68,6 +68,8 @@ Kamu idarelerinde çalışan sigortalılar dışında 4 üncü maddenin birinci 
 bendi kapsamındaki sigortalıların geçici veya sürekli görevlendirilmesine ilişkin usûller ve
 süreler ile bu maddenin uygulanmasına ilişkin diğer usûl ve esaslar, ilgili Bakanlıkların
 görüşü alınarak Kurum tarafından çıkarılacak yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

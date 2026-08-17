@@ -11,7 +11,7 @@ wordCount: 4271
 
 ---
 
-Madde 522 - Ücret, belirlenmemişse tarifeye, tarife yoksa teamüle göre ödenir.
+MADDE 522- Ücret, belirlenmemişse tarifeye, tarife yoksa teamüle göre ödenir.
 
 ---
 

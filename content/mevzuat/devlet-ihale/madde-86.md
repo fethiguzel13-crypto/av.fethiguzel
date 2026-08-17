@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**Görevlilerin Sorumluluğu**
+**Görevlilerin Sorumluluğu:**
 
 ---
 
@@ -16,6 +16,8 @@ diğer ilgililer, görevlerini kanuni gereklere göre tarafsızlıkla yapmadıkl
 zararına yol açacak ihmal ve kusurlu hareketlerde bulunduklarının tespiti halinde haklarında
 disiplin cezası uygulanacağı gibi, fiil ve davranışlarının özelliğine göre ceza kovuşturması da
 yapılır. Ayrıca, tarafların bu yüzden uğradıkları zarar ve ziyan da kendilerine ödettirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

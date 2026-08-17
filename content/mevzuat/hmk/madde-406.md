@@ -16,6 +16,8 @@ tutulmasına ya da mühürleme işleminin yapılmasına karar verilebilir.
 (2) İhtiyati haciz, muhafaza tedbirleri ve geçici düzenleme niteliğindeki kararlar gibi
 geçici hukuki korumalara ilişkin diğer kanunlarda yer alan özel hükümler saklıdır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

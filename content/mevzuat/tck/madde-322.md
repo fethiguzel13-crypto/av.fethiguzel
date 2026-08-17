@@ -25,6 +25,8 @@ hakkında da aynı cezalar uygulanır.
 fıkralarda yazılı kişilere on yıldan onbeş yıla kadar hapis ve onbin güne kadar adlî para cezası
 verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

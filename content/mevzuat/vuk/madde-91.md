@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4263
 ---
 
-**Görev süresi**
+**(Dördüncü fıkra mülga: 30/12/1980-2365/16 md.)
+Görev süresi:**
 
 ---
 
@@ -17,6 +18,8 @@ Takdir, tadilat ve zirai kazançlar il komisyonlarına seçilen üyelerin görev
 yıldır. Bunları seçen daire, meclis ve mesleki teşekküllerin seçimlerinin yenilenmesi bu
 üyelerin görev sürelerini kısaltmaz.
 Süreleri dolanların yeniden seçilmesi caizdir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

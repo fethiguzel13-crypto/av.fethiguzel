@@ -17,6 +17,8 @@ tarafı, müdahale sebebini ve bunun dayanaklarını belirten bir dilekçeyle ma
 birlikte üçüncü kişiyi de dinlemek üzere davet eder, gelmeseler dahi müdahale talebi hakkında
 karar verir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

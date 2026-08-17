@@ -11,7 +11,7 @@ wordCount: 4266
 
 ---
 
-Madde 187 - Kime ait olduğu çekişmeli bulunan bir alacağın borçlusu, ifadan
+MADDE 187- Kime ait olduğu çekişmeli bulunan bir alacağın borçlusu, ifadan
 kaçınabilir ve alacağın konusunu hâkim tarafından belirlenen yere tevdi etmekle borçtan kurtulur.
 Borçlu, alacağın çekişmeli olduğunu bildiği hâlde ifada bulunursa, bundan doğacak
 sonuçlardan sorumlu olur.

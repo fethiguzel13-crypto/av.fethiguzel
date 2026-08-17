@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**A. Tanımı**
+**SEKİZİNCİ BÖLÜM
+Yayım Sözleşmesi
+A. Tanımı**
 
 ---
 
-Madde 487 - Yayım sözleşmesi, bir fikir ve sanat eseri sahibinin veya halefinin, o
+MADDE 487- Yayım sözleşmesi, bir fikir ve sanat eseri sahibinin veya halefinin, o
 eseri yayımlanmak üzere yayımcıya bırakmayı, yayımcının da onu çoğaltarak yayımlamayı
 üstlendiği sözleşmedir.
 

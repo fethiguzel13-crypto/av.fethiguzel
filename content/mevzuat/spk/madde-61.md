@@ -42,7 +42,8 @@ hesaplanmasına ilişkin usul ve esaslar Kurulca belirlenir.
 hükümleri, 5411 sayılı Kanun hükümleri çerçevesinde gerçekleştirilen ve katılım bankalarının
 fon kullanıcısı olduğu ilave ana sermaye ve katkı sermaye niteliğindeki kira sertifikası
 ihraçlarında uygulanmaz.
-Gayrimenkul sertifikası
+
+---
 
 ### Akademik Yorum ve Analiz
 

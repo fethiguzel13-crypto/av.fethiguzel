@@ -11,7 +11,7 @@ wordCount: 4260
 
 ---
 
-Madde 297 - Bağışlayan, geri alma sebebini öğrendiği günden başlayarak bir yıl
+MADDE 297- Bağışlayan, geri alma sebebini öğrendiği günden başlayarak bir yıl
 içinde bağışlamayı geri alabilir.
 Bağışlayan bir yıllık süre dolmadan ölürse, geri alma hakkı mirasçılarına geçer ve
 mirasçıları bu sürenin sona ermesine kadar bu hakkı kullanabilirler.

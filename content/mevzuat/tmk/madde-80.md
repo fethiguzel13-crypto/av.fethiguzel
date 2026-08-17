@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**Madde 80**
+**(Mülga üçüncü fıkra: 4/11/2004-5253/38 md.)
+6. Genel kurulun görev ve yetkileri**
 
 ---
 
-Madde 80 - Genel kurul, üyeliğe kabul ve üyelikten çıkarma hakkında son kararı verir; dernek organlarını seçer ve derneğin diğer bir organına verilmemiş olan işleri görür. Genel kurul, derneğin diğer organlarını denetler ve onl arı haklı sebeplerle her zaman görevden alabilir.
+Madde 80- Genel kurul, üyeliğe kabul ve üyelikten çıkarma hakkında son kararı verir;
+dernek organlarını seçer ve derneğin diğer bir organına verilmemiş olan işleri görür.
+Genel kurul, derneğin diğer organlarını denetler ve onları haklı sebeplerle her zaman
+görevden alabilir.
 
 ---
 

@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Belediyenin gelirleri**
+**BEŞİNCİ KISIM
+Malî Hükümler
+BİRİNCİ BÖLÜM
+Belediyenin Gelir ve Giderleri
+Belediyenin gelirleri**
 
 ---
 
@@ -26,6 +30,8 @@ i) Diğer gelirler.
 Büyükşehir belediyelerinde büyükşehir sınırları ve mücavir alanları içinde belediyelerince
 tahsil edilen emlak vergisi tutarının tamamı ilgili ilçe ve ilk kademe belediyeleri tarafından alınır.
 Bunlardan büyükşehir belediyesine veya özel idareye ayrıca pay kesilmez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

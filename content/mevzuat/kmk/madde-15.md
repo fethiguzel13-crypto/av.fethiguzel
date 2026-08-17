@@ -7,16 +7,22 @@ lastReviewed: "2026-07-27"
 wordCount: 3634
 ---
 
-**(1) Bu Kanunda**
+**İçtima**
 
 ---
 
-Madde 15 - (1) Bu Kanunda
-tanımlanan suçlar (…)[15] dolayısıyla
-müsadere (…)15 yaptırımının konusunu oluşturan eşyanın kaim
-değerinden, bu eşyanın gümrüklenmiş değeri anlaşılır.
+Madde 15- (1) Bir fiil ile birden fazla kabahatin işlenmesi halinde bu kabahatlere
+ilişkin tanımlarda sadece idarî para cezası öngörülmüşse, en ağır idarî para cezası verilir. Bu
+kabahatlerle ilgili olarak kanunda idarî para cezasından başka idarî yaptırımlar da öngörülmüş
+ise, bu yaptırımların her birinin uygulanmasına karar verilir.
+(2) Aynı kabahatin birden fazla işlenmesi halinde her bir kabahatle ilgili olarak ayrı
+ayrı idarî para cezası verilir. Kesintisiz fiille işlenebilen kabahatlerde, bu nedenle idarî
+yaptırım kararı verilinceye kadar fiil tek sayılır.
+(3) Bir fiil hem kabahat hem de suç olarak tanımlanmış ise, sadece suçtan dolayı
+yaptırım uygulanabilir. Ancak, suçtan dolayı yaptırım uygulanamayan hallerde kabahat
+dolayısıyla yaptırım uygulanır.
 
-Tasfiye
+---
 
 ### Akademik Yorum ve Analiz
 

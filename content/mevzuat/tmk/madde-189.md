@@ -11,7 +11,11 @@ wordCount: 4310
 
 ---
 
-Madde 189 - Birliği temsi l yet kisinin kullanıldığı hâllerde, eşler üçüncü kişilere karşı müteselsilen sorumlu olurlar. Eşlerden her biri, birliği temsil yetk isi bulunmaksızın yaptığı işlemlerden kişisel olarak sorumludur. Ancak, temsil yetkisinin üçüncü kişilerce anlaşılamayacak ş ekild e aşılması hâlinde eşler müteselsilen sorumludurlar.
+Madde 189- Birliği temsil yetkisinin kullanıldığı hâllerde, eşler üçüncü kişilere karşı
+müteselsilen sorumlu olurlar.
+Eşlerden her biri, birliği temsil yetkisi bulunmaksızın yaptığı işlemlerden kişisel olarak
+sorumludur. Ancak, temsil yetkisinin üçüncü kişilerce anlaşılamayacak şekilde aşılması hâlinde
+eşler müteselsilen sorumludurlar.
 
 ---
 

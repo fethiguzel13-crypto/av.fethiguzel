@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**b) Sicile kayıtlı olmayan gemilerde malikin yerleşim yeri m ahkemesi.
-c) 941 inci maddenin üçüncü fıkrası uyarınca tutulan özel sicile kayıtlı gemilerde kiracının yerleşim yeri mahkemesi. bbb) Yabancı bayraklı gemiler**
+**bbb) Yabancı bayraklı gemiler**
 
 ---
 
-Madde 1355 - (1) Türkiye’de yabancı bayraklı gemiler hakkında ihtiyati haciz kararı, sadece, gemin in demir attığı, şamandıraya veya tonoza bağlandığı, yanaştığı ya da kızağa alındığı yer mahkemesi tarafından verilir. ccc) Yetkiye, tahkime ve esasa uygulanacak hukuka ilişkin bir anlaşmanın varlığı hâlinde Türk mahkemesinin yetkisi
+MADDE 1355- (1) Türkiye’de yabancı bayraklı gemiler hakkında ihtiyati haciz
+kararı, sadece, geminin demir attığı, şamandıraya veya tonoza bağlandığı, yanaştığı ya da
+kızağa alındığı yer mahkemesi tarafından verilir.
+ccc) Yetkiye, tahkime ve esasa uygulanacak hukuka ilişkin bir anlaşmanın varlığı
 
 ---
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**Ceza kesme yetkisi**
+**Ceza kesme yetkisi:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 365 – Vergi cezaları olayların ilgili bulunduğu vergi bakımından m�
 bağlı olduğu vergi dairesi tarafından kesilir.
 Damga Resmine ve pul ile alınan diğer vergilere mütaallik olaylarda vergi cezasını
 kesecek vergi dairelerini Maliye Bakanlığı belli eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

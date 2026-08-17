@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**Kıymet - kira münasebeti**
+**Kıymet - kira münasebeti:**
 
 ---
 
 Madde 311 – Tahrir (Genel tahrir ve tadilat) esnasında arazinin alım, satım
 kıymetlerinin tayini mümkün olmazsa, o yerin kiraya verilmesi halinde getireceği kira tahmin
 ve bunun 10 misli arazinin kıymeti olarak kabul edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

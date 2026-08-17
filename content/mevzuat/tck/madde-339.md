@@ -17,8 +17,8 @@ bakımından gizli kalması gereken hususları elde etmeye yarayan ve elde bulun
 kabul edilebilir bir neden gösterilemeyen belgelerle veya bu nitelikteki herhangi bir şeyle
 yakalanan kimseye bir yıldan beş yıla kadar hapis cezası verilir.
 (2) Fiil, savaş zamanında işlenirse faile üç yıldan sekiz yıla kadar hapis cezası verilir.
-SEKİZİNCİ BÖLÜM
-Yabancı Devletlerle Olan İlişkilere Karşı Suçlar
+
+---
 
 ### Akademik Yorum ve Analiz
 

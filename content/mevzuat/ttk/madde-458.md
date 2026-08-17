@@ -11,7 +11,7 @@ wordCount: 4286
 
 ---
 
-Madde 458 - (Mülga: 26/6/2012 - 6335/43 md.) II - Sermaye taahhüdü yoluyla a rtırım 1. Esas sermaye sisteminde
+MADDE 458- (Mülga: 26/6/2012-6335/43 md.)
 
 ---
 

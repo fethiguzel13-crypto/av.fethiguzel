@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**Karne alınması**
+**Karne alınması:**
 
 ---
 
@@ -22,6 +22,8 @@ değişikliğin vukubulduğu tarihten başlıyarak bir aydır.
 (Değişik: 23/6/1982-2686/30 md.) Gelir Vergisi Kanununa göre indirimlerin
 uygulanmasında, karnedeki kayıtlar, bunların vergi dairesine tescil ettirildiği tarihten evvelki
 zamanlar için nazara alınmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

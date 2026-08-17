@@ -17,6 +17,8 @@ gösterilmek şartıyla, yargılamanın ertelenmesine veya hükmün icrasının 
 karar verebilir. Mahkeme, gerektiğinde teminat gösterilmeden de yargılamanın ertelenmesine
 veya icranın geri bırakılmasına karar verebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

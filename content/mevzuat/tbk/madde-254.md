@@ -7,12 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4318
 ---
 
-**11. Sözleşmenin kurulduğu yer ve tarih.
-2. Yasal temsilcinin rızası**
+**2. Yasal temsilcinin rızası**
 
 ---
 
-Madde 254 - Ayırt etme gücüne sahip bir küçük veya kısıtlı tarafından yapılmış olan
+MADDE 254- Ayırt etme gücüne sahip bir küçük veya kısıtlı tarafından yapılmış olan
 taksitle satış sözleşmesinin geçerliliği, yasal temsilcinin yazılı rızasına bağlıdır. Bu durumda
 rızanın, en geç sözleşmenin kurulduğu anda verilmiş olması gerekir.
 

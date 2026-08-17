@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Kamu hizmetlerinden yararlanma hakkının engellenmesi54**
+**Kamu hizmetlerinden yararlanma hakkının engellenmesi**
 
 ---
 
@@ -19,6 +19,8 @@ ya da kamu makamlarının verdiği izne dayalı olarak sunulan hizmetlerden yara
 engel olunması hâlinde, fail hakkında iki yıldan beş yıla kadar hapis cezasına hükmolunur.
 (2) (Ek:12/5/2022-7406/7 md.) Suçun konusunun sağlık hizmeti olması hâlinde,
 verilecek ceza altıda biri oranına kadar artırılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -26,8 +26,7 @@ etmeye, imza yetkilerini sınırlandırmaya veya kaldırmaya ve gerektiğinde y�
 atamaya; bu kurumların tedricî tasfiyelerine karar vermeye ve tasfiyenin bitmesini takiben
 gerektiğinde veya tedricî tasfiyeye gitmeksizin doğrudan iflaslarını istemeye veya gerekli
 gördüğü diğer tedbirleri almaya yetkilidir.
-
-(2) Yetkileri sürekli olarak kaldırılan sermaye piyasası kurumlarının malvarlıkları,
+(2) Yetkileri sürekli olarak kaldırılan sermaye piyasası kurumlarının malvarlıkları,
 yetkinin kaldırılmasına ilişkin Kurul kararının alındığı tarihten itibaren tedricî tasfiye
 işlemlerinin tamamlandığı ilan edilinceye; tedricî tasfiyeyi takiben veya doğrudan iflas
 talebinde bulunulması hâlinde, iflas talebinin mahkemece esastan karara bağlanmasına kadar,
@@ -59,6 +58,8 @@ fıkrada belirlenen tedbirlerin uygulanmasına Bankacılık Düzenleme ve Denetl
 Kurumunca karar verilir. Söz konusu tedbirlerin, 5411 sayılı Kanunun ilgili hükümleri
 uyarınca yönetim veya denetimi Tasarruf Mevduatı Sigorta Fonuna devredilen bankalar
 hakkında uygulanmasına ise Tasarruf Mevduatı Sigorta Fonu tarafından karar verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

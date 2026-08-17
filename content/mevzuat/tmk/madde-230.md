@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**3. Kişisel mallar ile edin ilmiş mallar arasında denk leştirme**
+**3. Kişisel mallar ile edinilmiş mallar arasında denkleştirme**
 
 ---
 
-Madde 230 - Bir eşin kişisel mallara ilişkin borçları edinilmiş mallardan veya edinilmiş mallara ilişkin borç ları kişis el mallarından ödenmiş ise, tasfiye sırasında denkleştirme istenebilir. Her borç, ilişkin bulunduğu mal kesimini yükümlülük altına sok ar. Hangi kesime ait olduğu anlaşılamayan borç, edinilmiş mallara ilişkin sayılır. Bir mal kesiminden diğer kes imdek i malın edinilmesine, iyileştirilmesine veya korunmasına katkıda bulunulmuşsa, değer artması veya azalması d urumunda denkleştirme, katkı oranına ve malın tasfiye zamanındaki değerine veya mal daha önce elden çıkarılm ışsa hakkaniyete göre yapılır.
+Madde 230- Bir eşin kişisel mallara ilişkin borçları edinilmiş mallardan veya edinilmiş
+mallara ilişkin borçları kişisel mallarından ödenmiş ise, tasfiye sırasında denkleştirme istenebilir.
+Her borç, ilişkin bulunduğu mal kesimini yükümlülük altına sokar. Hangi kesime ait
+olduğu anlaşılamayan borç, edinilmiş mallara ilişkin sayılır.
+Bir mal kesiminden diğer kesimdeki malın edinilmesine, iyileştirilmesine veya korunmasına
+katkıda bulunulmuşsa, değer artması veya azalması durumunda denkleştirme, katkı oranına ve malın
+tasfiye zamanındaki değerine veya mal daha önce elden çıkarılmışsa hakkaniyete göre yapılır.
 
 ---
 

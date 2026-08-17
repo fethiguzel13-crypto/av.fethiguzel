@@ -7,11 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**Madde 304**
+**IV. Ananın malî hakları**
 
 ---
 
-Madde 304 - Ana, babalık davası ile birlikte veya ayrı olarak baba veya mirasçılarından aşağıdaki giderlerin karşılanmasın ı isteyebilir: 1. Doğum giderleri, 2. Doğumdan önceki ve sonr aki a ltışar hafta lık geçim giderleri, 3. Gebeli k ve doğumun gerektirdiği diğer giderler. Çocuk ölü doğmuş olsa bile hâkim, bu giderlerin karşılanmasına karar verebilir. Üçüncü kişiler veya sosyal güvenlik kuruluşlarınca a naya yapılan ödemeler, hakkaniyet ö lçüsü nde ta zminattan indirilir. DÖRDÜNCÜ AYIRI M EVLÂT EDİNME A. Küçüklerin evlât edinilmesi I. Genel koşulları
+Madde 304- Ana, babalık davası ile birlikte veya ayrı olarak baba veya mirasçılarından
+aşağıdaki giderlerin karşılanmasını isteyebilir:
+1. Doğum giderleri,
+2. Doğumdan önceki ve sonraki altışar haftalık geçim giderleri,
+3. Gebelik ve doğumun gerektirdiği diğer giderler.
+Çocuk ölü doğmuş olsa bile hâkim, bu giderlerin karşılanmasına karar verebilir.
+Üçüncü kişiler veya sosyal güvenlik kuruluşlarınca anaya yapılan ödemeler, hakkaniyet
+ölçüsünde tazminattan indirilir.
 
 ---
 

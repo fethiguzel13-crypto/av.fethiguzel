@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**usulü**
+**usulü:**
 
 ---
 
@@ -16,7 +16,8 @@ Kuzey Kıbrıs Türk Cumhuriyeti’nde konuşlu askeri birlik, karargâh ve kuru
 Türkiye Cumhuriyeti’nde bulunan kişi veya kurumlara yapılacak tebligatlar, bu Kanun
 hükümlerine göre Posta ve Telgraf Teşkilatı Anonim Şirketinin istihdam ettiği ya da hizmet
 alımı suretiyle çalıştırdığı personel veya memur vasıtasıyla yapılır.
-Yabancı memlekette Türk memurlarına ve askeri şahıslarına tebligat:
+
+---
 
 ### Akademik Yorum ve Analiz
 

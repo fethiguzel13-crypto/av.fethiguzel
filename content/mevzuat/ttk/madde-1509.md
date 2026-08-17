@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**III
-- Sigortalı**
+**III - Sigortalı**
 
 ---
 
-Madde 1509 - (1) Kazaya karşı sigorta, sigorta ettirenin veya başkasının uğrayabileceği kazalara karşı yapılabilir.
+MADDE 1509- (1) Kazaya karşı sigorta, sigorta ettirenin veya başkasının uğrayabileceği
+kazalara karşı yapılabilir.
 
 ---
 

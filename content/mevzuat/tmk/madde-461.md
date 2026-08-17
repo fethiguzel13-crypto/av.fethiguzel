@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**Madde 461**
+**ÜÇÜNCÜ AYIRIM
+VESAYET DAİRELERİNİN GÖREVLERİ
+A. Şikâyet ve itiraz**
 
 ---
 
-Madde 461 - Ayırt etme gücüne sahip olan vesayet altındaki kişi ve her ilgili, vasinin eylem ve işlemlerine karşı ve sayet makamına şikâyette bulunabilir. Vesayet makamının kararlarına karşı tebliğ gününden başlayarak on gün içinde denetim makamına it iraz edileb ilir.
+Madde 461- Ayırt etme gücüne sahip olan vesayet altındaki kişi ve her ilgili, vasinin
+eylem ve işlemlerine karşı vesayet makamına şikâyette bulunabilir.
+Vesayet makamının kararlarına karşı tebliğ gününden başlayarak on gün içinde denetim
+makamına itiraz edilebilir.
 
 ---
 

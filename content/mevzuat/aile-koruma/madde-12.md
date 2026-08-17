@@ -16,6 +16,8 @@ uygulanmasında hâkim kararı ile teknik araç ve yöntemler kullanılabilir. A
 kişilerin ses ve görüntüleri dinlenemez, izlenemez ve kayda alınamaz.
 (2) Teknik araç ve yöntemlerle takibe ilişkin usul ve esaslar yönetmelikle düzenlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,19 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Hükümlü lehine yargılamanın yenilenmesi nedenleri**
+**ÜÇÜNCÜ BÖLÜM
+Yargılamanın Yenilenmesi
+Hükümlü lehine yargılamanın yenilenmesi nedenleri**
 
 ---
 
 Madde 311 – (1) Kesinleşen bir hükümle sonuçlanmış bir dava, aşağıda yazılı
-6/12/2006 tarihli ve 5560 sayılı Kanunun 26 ncı maddesiyle bu fıkrada yer alan "Adalet Bakanı"
-ibaresi, "Adalet Bakanlığı" olarak değiştirilmiştir.
-145
-6/12/2006 tarihli ve 5560 sayılı Kanunun 26 ncı maddesiyle bu fıkrada yer alan "Adalet Bakanı"
-ibaresi, "Adalet Bakanlığı" olarak değiştirilmiştir.
-144
-
-hâllerde hükümlü lehine olarak yargılamanın yenilenmesi yoluyla tekrar görülür:
+hâllerde hükümlü lehine olarak yargılamanın yenilenmesi yoluyla tekrar görülür:
 a) Duruşmada kullanılan ve hükmü etkileyen bir belgenin sahteliği anlaşılırsa.
 b) Yemin verilerek dinlenmiş olan bir tanık veya bilirkişinin hükmü etkileyecek
 biçimde hükümlü aleyhine kasıt veya ihmal ile gerçek dışı tanıklıkta bulunduğu veya oy
@@ -38,10 +33,12 @@ Avrupa İnsan Hakları Mahkemesinin kesinleşmiş kararıyla tespit edilmiş olm
 hükmü aleyhine Avrupa İnsan Hakları Mahkemesine yapılan başvuru hakkında dostane
 çözüm ya da tek taraflı deklarasyon sonucunda düşme kararı verilmesi. Bu hâlde
 yargılamanın yenilenmesi, Avrupa İnsan Hakları Mahkemesi kararının kesinleştiği tarihten
-itibaren bir yıl içinde istenebilir.146
+itibaren bir yıl içinde istenebilir.
 (2) Birinci fıkranın (f) bendi hükümleri, 4.2.2003 tarihinde Avrupa İnsan Hakları
 Mahkemesinin kesinleşmiş kararları ile, 4.2.2003 tarihinden sonra Avrupa İnsan Hakları
 Mahkemesine yapılan başvurular üzerine verilecek kararlar hakkında uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

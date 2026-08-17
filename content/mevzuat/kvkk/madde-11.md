@@ -16,7 +16,7 @@ a) Kişisel veri işlenip işlenmediğini öğrenme,
 b) Kişisel verileri işlenmişse buna ilişkin bilgi talep etme,
 c) Kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını
 öğrenme,
-ç) Yurt içinde veya yurt dışına kişisel verilerin aktarıldığı üçüncü kişileri bilme,
+ç) Yurt içinde veya yurt dışında kişisel verilerin aktarıldığı üçüncü kişileri bilme,
 d) Kişisel verilerin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini
 isteme,
 e) 7 nci maddede öngörülen şartlar çerçevesinde kişisel verilerin silinmesini veya yok
@@ -28,6 +28,10 @@ kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme,
 ğ) Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması hâlinde
 zararın giderilmesini talep etme,
 haklarına sahiptir.
+Veri güvenliğine ilişkin yükümlülükler
+(1) Veri sorumlusu;
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -15,6 +15,8 @@ MADDE 72- (1) Tüketici hakem heyetlerinin kurulması, çalışma usul ve esasla
 raportörlerin nitelikleri ile bilirkişilik müessesesine ilişkin usul ve esaslar ile diğer hususlar
 yönetmelikle belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

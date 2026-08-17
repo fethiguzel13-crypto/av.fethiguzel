@@ -15,6 +15,8 @@ Madde 271- (1) İşlenmediğini bildiği bir suçu, yetkili makamlara işlenmiş
 eden ya da işlenmeyen bir suçun delil veya emarelerini soruşturma yapılmasını sağlayacak
 biçimde uyduran kimseye üç yıla kadar hapis cezası verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

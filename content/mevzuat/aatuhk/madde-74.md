@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Paraya çevirme**
+**Paraya çevirme:**
 
 ---
 
@@ -21,7 +21,8 @@ Satıştan elde edilecek bedelin amme alacağından önce ödenmesi gereken bor�
 takip giderlerini geçmiyeceği kesin olarak biliniyorsa, hacizli malın satışını tahsil dairesi tehir
 edebilir. Şu kadar ki, alacağı amme idaresi alacağından önce gelenlerin takip hakları
 mahfuzdur.
-Bazı hallerde haczin kaldırılması
+
+---
 
 ### Akademik Yorum ve Analiz
 

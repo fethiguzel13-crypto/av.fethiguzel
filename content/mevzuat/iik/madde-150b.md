@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**Kiracılara haber verme**
+**Kiracılara haber verme:**
 
 ---
 
@@ -17,7 +17,8 @@ kesinleşmesini beklemeden kiracıları da takipten haberdar eder ve işleyecek 
 dairesine ödenmesini emreder. (Ek cümle: 17/7/2003-4949/42 md.) Şu kadar ki, bu şekilde
 işlem yapılması 132 ve 135 inci maddelerdeki hakları ortadan kaldırmaz. Kiracı ihtara rağmen
 kira paralarını icra dairesine yatırmazsa hakkında 356 ncı madde hükmü kıyasen uygulanır.
-Tapu idaresine haber verme:
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4318
 ---
 
-**Ceza yerine getirilmeden işlem yapılmaması**
+**Ceza yerine getirilmeden işlem yapılmaması:**
 
 ---
 
-Madde 117 – (Mülga: 18/1/1985 – KHK 245/16 md.; Aynen kabul: 28/3/1985 - 3176/16 md.)
+Madde 117 – (Mülga: 18/1/1985 – KHK 245/16 md.; Aynen kabul: 28/3/1985-
+3176/16 md.)
+Ceza puanı uygulaması, puanlama ve trafik kazası nedeniyle sürücü belgelerinin
+Bakanlığı ile Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca” ibaresi “İçişleri Bakanlığı, Hazine
+ve Maliye Bakanlığı, Ulaştırma ve Altyapı Bakanlığı ile Ticaret Bakanlığınca” şeklinde
+değiştirilmiştir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

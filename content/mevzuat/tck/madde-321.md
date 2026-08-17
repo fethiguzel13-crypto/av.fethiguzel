@@ -15,6 +15,8 @@ Madde 321- (1) Savaş zamanında Devletin yetkili makam ve mercilerinin emir vey
 kararlarına bilerek aykırı harekette bulunan kimseye bir yıldan altı yıla kadar hapis cezası
 verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

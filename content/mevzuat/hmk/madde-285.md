@@ -16,6 +16,8 @@ gerçeğe aykırı raporun, mahkemece hükme esas alınması sebebiyle zarar gö
 zararın tazmini için Devlete karşı tazminat davası açabilirler.
 (2) Devlet, ödediği tazminat için sorumlu bilirkişiye rücu eder.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

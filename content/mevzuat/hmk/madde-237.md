@@ -15,6 +15,8 @@ MADDE 237- (1) Hâkim, eksik olan noktaları tamamlamak veya açık olmayan
 hususları aydınlatmak için yeminin konusu ile bağlantılı gördüğü soruları yemin eden kimseye
 sorabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

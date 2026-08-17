@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**III. Doğrudan do ğruya deftere geçirme**
+**III. Doğrudan doğruya deftere geçirme**
 
 ---
 
-Madde 622 - Resmî kayıtlardan veya mirasbırakanın belgelerinden varlığı anlaşılan alacaklar ve borçlar, deftere doğrudan doğruya geçirilir. Defte re geçirilenler, alacaklılara ve borçlulara bildirilir.
+Madde 622- Resmî kayıtlardan veya mirasbırakanın belgelerinden varlığı anlaşılan alacaklar
+ve borçlar, deftere doğrudan doğruya geçirilir.
+Deftere geçirilenler, alacaklılara ve borçlulara bildirilir.
 
 ---
 

@@ -28,6 +28,8 @@ kişiye teslim edilebilir. Bu bırakma, teminat gösterilmesi koşuluna da bağl
 değerinin derhâl ödenmesi karşılığında, ilgiliye teslim edilebilir. Bu durumda müsadere
 kararının konusunu, ödenen rayiç değer oluşturur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

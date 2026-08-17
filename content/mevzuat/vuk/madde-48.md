@@ -7,14 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4263
 ---
 
-**Tasdik ve ilan**
+**Tasdik ve ilan:**
 
 ---
 
-Madde 48 – Zirai kazanç ölçüleri Cumhurbaşkanı kararı ile yürürlüğe girer.10
-Onaylanan ölçüler Resmi Gazete ile yayınlanır.11
+Madde 48 – Zirai kazanç ölçüleri Cumhurbaşkanı kararı ile yürürlüğe girer.
+Onaylanan ölçüler Resmi Gazete ile yayınlanır.
 Her bölgeye ait ölçüler, ilgili valiliklere gönderilir. Valilikler bunları en kısa zamanda
 köy ve mahalle ihtiyar kurullarına ve maliye teşkilatına tebliğ eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

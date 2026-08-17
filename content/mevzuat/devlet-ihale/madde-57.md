@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4281
 ---
 
-**Sözleşme yapılmasında müteahhit veya müşterinin görev ve sorumluluğu**
+**Sözleşme yapılmasında müteahhit veya müşterinin görev ve sorumluluğu:**
 
 ---
 
@@ -19,6 +19,8 @@ Satışlara ilişkin ihalelerde müşterinin aynı süre içinde ihale bedelini 
 bulunan vergi, resim ve harçları yatırması, diğer giderleri ödemesi gerekir.
 Bu zorunluluklara uyulmadığı takdirde, protesto çekmeye ve hüküm almaya gerek
 kalmaksızın ihale bozulur ve varsa geçici teminat gelir kaydedilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

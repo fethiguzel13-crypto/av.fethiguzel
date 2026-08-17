@@ -11,7 +11,9 @@ wordCount: 4303
 
 ---
 
-Madde 456 - Vasi, kural olarak iki yı l için atanır. Vesayet makamı, bu süre yi her defasında ikişer yıl uzatabilir. Dört yıl dolunca vasi, vasilikten kaçınma hakkını kullanabilir.
+Madde 456- Vasi, kural olarak iki yıl için atanır.
+Vesayet makamı, bu süreyi her defasında ikişer yıl uzatabilir.
+Dört yıl dolunca vasi, vasilikten kaçınma hakkını kullanabilir.
 
 ---
 

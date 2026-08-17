@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**İdarelerce ihalelere katılmaktan geçici yasaklama**
+**İdarelerce ihalelere katılmaktan geçici yasaklama:**
 
 ---
 
@@ -36,6 +36,8 @@ ihaleden yasaklama kararı verilmez.
 İhaleyi yapan idareler, ihalelere katılmaktan yasaklamayı gerektirir bir durumla
 karşılaştıkları takdirde, gereğinin yapılması için bu durumu ilgili bakanlığa bildirmekle
 yükümlüdürler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

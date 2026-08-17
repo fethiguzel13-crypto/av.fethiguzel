@@ -192,7 +192,7 @@ export default function Navbar() {
             {megaOpen && (
               <div
                 onMouseLeave={() => setMegaOpen(false)}
-                className="absolute top-full mt-3 left-1/2 -translate-x-1/2 w-[860px] max-w-[calc(100vw-2rem)] glass rounded-[2rem] shadow-2xl border border-charcoal/8 z-[9999] p-6 lg:p-8"
+                className="absolute top-full mt-3 left-1/2 -translate-x-1/2 w-[860px] max-w-[calc(100vw-2rem)] glass rounded-[2rem] shadow-2xl border border-charcoal/[0.08] z-[9999] p-6 lg:p-8"
               >
                 <div className="grid grid-cols-3 gap-x-10 gap-y-6">
                   {MEVZUAT_GRUPLARI.map(g => (
@@ -213,7 +213,7 @@ export default function Navbar() {
                     </div>
                   ))}
                 </div>
-                <div className="mt-6 pt-5 border-t border-charcoal/8 flex items-center justify-between gap-4">
+                <div className="mt-6 pt-5 border-t border-charcoal/[0.08] flex items-center justify-between gap-4">
                   <div className="flex flex-wrap gap-4">
                     <Link
                       href="/ara"
@@ -242,7 +242,7 @@ export default function Navbar() {
         {/* Gerçek arama — /ara?q= */}
         <form
           onSubmit={submitNavSearch}
-          className={`hidden md:flex items-center gap-1 rounded-full border px-2.5 py-1.5 shrink-0 max-w-[14rem] lg:max-w-[16rem] ${solid ? 'border-charcoal/12 bg-white/90' : 'border-cream/25 bg-cream/10'
+          className={`hidden md:flex items-center gap-1 rounded-full border px-2.5 py-1.5 shrink-0 max-w-[14rem] lg:max-w-[16rem] ${solid ? 'border-charcoal/[0.12] bg-white/90' : 'border-cream/25 bg-cream/10'
             }`}
           role="search"
         >
@@ -285,7 +285,7 @@ export default function Navbar() {
               key={item.name}
               href={item.href}
               onClick={() => setMobileOpen(false)}
-              className="text-charcoal font-heading font-bold uppercase text-base py-2.5 border-b border-charcoal/6"
+              className="text-charcoal font-heading font-bold uppercase text-base py-2.5 border-b border-charcoal/[0.06]"
             >
               {item.name}
             </Link>
@@ -297,7 +297,7 @@ export default function Navbar() {
               onChange={(e) => setNavQ(e.target.value)}
               placeholder="Satım, kıdem, TBK 207…"
               aria-label="Site ve mevzuat ara"
-              className="flex-1 rounded-2xl border border-charcoal/12 bg-white px-4 py-3 text-sm text-charcoal"
+              className="flex-1 rounded-2xl border border-charcoal/[0.12] bg-white px-4 py-3 text-sm text-charcoal"
             />
             <button
               type="submit"

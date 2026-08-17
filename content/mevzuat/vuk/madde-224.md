@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**Tasdik şerhi**
+**Tasdik şerhi:**
 
 ---
 
@@ -26,12 +26,10 @@ b) Tüzel kişilerde unvanı;
 6. Defterin kullanılacağı hesap dönemi;
 7. Defter sahibinin bağlı olduğu vergi dairesi;
 8. Tasdik tarihi;
-Bu fıkranın 15/2/2018 tarihli ve 7099 sayılı Kanunun 2 nci maddesiyle değiştirilen metni, aynı Kanunun 34
-üncü maddesi uyarınca 15/3/2018 tarihinde yürürlüğe girmiştir.
-57
-
-9. Tasdik numarası;
+9. Tasdik numarası;
 10.Tasdiki yapan makamın resmi mühür ve imzası.
+
+---
 
 ### Akademik Yorum ve Analiz
 

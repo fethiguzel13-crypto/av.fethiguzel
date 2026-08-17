@@ -18,6 +18,8 @@ açıklamanın içeriğinin hizmet sözleşmesinin kurulduğu tarihte düzeltilm
 hizmet sözleşmesinin kurulması kararının bu açıklama ile nedensellik bağı içermediğini
 ispatladığı takdirde açıklamanın içeriği ile bağlı olmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

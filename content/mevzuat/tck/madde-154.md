@@ -23,6 +23,8 @@ hakkında birinci fıkrada yazılı cezalar uygulanır.
 (3) Kamuya veya özel kişilere ait suların mecrasını değiştiren kimse hakkında birinci
 fıkrada yazılı cezalar uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

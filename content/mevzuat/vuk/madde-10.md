@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**Kanuni temsilcilerin ödevi**
+**Kanuni temsilcilerin ödevi:**
 
 ---
 
@@ -20,8 +20,7 @@ getirmemeleri yüzünden mükelleflerin veya vergi sorumlularının varlığınd
 kısmen alınamayan vergi ve buna bağlı alacaklar, kanuni ödevleri yerine getirmeyenlerin
 varlıklarından alınır. Bu hüküm Türkiye'de bulunmayan mükelleflerin Türkiye'deki
 temsilcileri hakkında da uygulanır.
-
-Temsilciler veya teşekkülü idare edenler bu suretle ödedikleri vergiler için asıl
+Temsilciler veya teşekkülü idare edenler bu suretle ödedikleri vergiler için asıl
 mükelleflere rücu edebilirler.
 Tüzel kişilerin tasfiye haline girmiş veya tasfiye edilmiş olmaları, kanuni temsilcilerin
 tasfiyeye giriş tarihinden önceki zamanlara ait sorumluluklarını da kaldırmaz.
@@ -38,6 +37,8 @@ tarihinden önceki dönemlere ilişkin her türlü vergi tarhiyatı ve ceza kesm
 müteselsilen sorumlu olmak üzere, tüzel kişiliği olanların kanuni temsilcilerinden, tüzel
 kişiliği olmayan teşekküllerde ise bunları idare edenler (adi ortaklıklarda ortaklardan herhangi
 biri) ve varsa bunların temsilcilerinden herhangi biri adına yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

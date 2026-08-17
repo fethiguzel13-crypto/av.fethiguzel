@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**Tebliğ evrakının teslimi**
+**Tebliğ evrakının teslimi:**
 
 ---
 
@@ -37,11 +37,12 @@ edilemezse, tebliğ evrakının gönderildiği idareden alınabileceği şerhini
 kapıya yapıştırılır. Bu durum, posta memuru tarafından tebliğ alındısı üzerine şerh ve imza
 edilerek, tebliğ evrakı, gönderildiği idareye iade edilir. Tebliğ evrakının pusulanın
 yapıştırıldığı tarihten itibaren on beş gün içerisinde muhatabı tarafından alınması hâlinde
-
-alındığı günde, bu süre içerisinde alınmaması hâlinde ise on beşinci günde tebliğ yapılmış
+alındığı günde, bu süre içerisinde alınmaması hâlinde ise on beşinci günde tebliğ yapılmış
 sayılır.
 Maliye Bakanlığı, bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye
 yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

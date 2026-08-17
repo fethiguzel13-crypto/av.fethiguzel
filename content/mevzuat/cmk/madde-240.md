@@ -16,6 +16,8 @@ Madde 240 – (1) Katılma davayı durdurmaz.
 darlığından dolayı katılan kimse çağrılamayacak veya kendisine haber verilemeyecek olsa
 bile belirli gününde yapılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

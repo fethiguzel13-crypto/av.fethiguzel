@@ -18,9 +18,7 @@ usulünü serbestçe kararlaştırabilirler.
 (3) Taraflarca kararlaştırılmamışsa arabulucu; uyuşmazlığın niteliğini, tarafların
 isteklerini ve uyuşmazlığın hızlı bir şekilde çözümlenmesi için gereken usul ve esasları göz
 önüne alarak arabuluculuk faaliyetini yürütür.
-
-
-(4) Niteliği gereği yargısal bir yetkinin kullanımı olarak sadece hâkim tarafından
+(4) Niteliği gereği yargısal bir yetkinin kullanımı olarak sadece hâkim tarafından
 yapılabilecek işlemler arabulucu tarafından yapılamaz.
 (5) Dava açıldıktan sonra tarafların birlikte arabulucuya başvuracaklarını beyan
 etmeleri hâlinde yargılama, mahkemece üç ayı geçmemek üzere ertelenir. Bu süre, tarafların
@@ -41,6 +39,8 @@ hareket etmek suretiyle görevini kötüye kullanan üyelere ödeme tarihinden i
 içinde rücu eder.
 (10) (Ek: 12/10/2017-7036/22 md.) Bu maddenin uygulanmasına ilişkin usul ve
 esaslar Bakanlıkça yürürlüğe konulan yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**Acizden dolayı butlan**
+**Acizden dolayı butlan:**
 
 ---
 
@@ -22,6 +22,8 @@ olmak üzere borçlu tarafından mevcut bir borcu temin için yapılan rehinler;
 verilen şerhler.
 Bu tasarruflardan istifade eden kimse borçlunun hal ve vaziyetini bilmediğini ispat
 eylerse iptal davası dinlenmez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

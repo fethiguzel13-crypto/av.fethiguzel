@@ -7,14 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**C. Düzenlenmesi Mad de 972
-- Tahvil çıkaracaklar ile tahvil çıkarmaya ilişkin koşullar ve çıkarma izni vermeye yetkili makam özel kanunla belirlenir. ÜÇÜNCÜ KISIM ZİLYETLİK VE TAPU SİCİLİ BİRİNCİ BÖLÜM ZİLYETLİK
+**ÜÇÜNCÜ KISIM
+ZİLYETLİK VE TAPU SİCİLİ
+BİRİNCİ BÖLÜM
+ZİLYETLİK
 A. Zilyetlik kavramı ve türleri
 I. Kavram**
 
 ---
 
-Madde 973 - Bir şey üzerinde fiilî hâkimiyeti bulunan kimse onun zilyedidir. Taşınmaz üzerindeki irtifak hakl arında ve taşınmaz yüklerinde hakkın fiilen kullanılması zilyetlik sayılır.
+Madde 973- Bir şey üzerinde fiilî hâkimiyeti bulunan kimse onun zilyedidir.
+Taşınmaz üzerindeki irtifak haklarında ve taşınmaz yüklerinde hakkın fiilen kullanılması
+zilyetlik sayılır.
 
 ---
 

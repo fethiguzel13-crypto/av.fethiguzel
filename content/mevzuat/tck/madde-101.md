@@ -16,8 +16,8 @@ altı yıla kadar hapis cezası ile cezalandırılır. Fiil, kısırlaştırma i
 bir kimse tarafından yapılırsa, ceza üçte bir oranında artırılır.
 (2) Rızaya dayalı olsa bile, kısırlaştırma fiilinin yetkili olmayan bir kişi tarafından
 işlenmesi halinde, bir yıldan üç yıla kadar hapis cezasına hükmolunur.
-ALTINCI BÖLÜM
-Cinsel Dokunulmazlığa Karşı Suçlar
+
+---
 
 ### Akademik Yorum ve Analiz
 

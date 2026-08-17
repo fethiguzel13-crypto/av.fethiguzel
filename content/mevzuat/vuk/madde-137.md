@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4281
 ---
 
-**İncelemeye tabi olanlar**
+**İncelemeye tabi olanlar:**
 
 ---
 
 Madde 137 – Bu kanuna veya diğer kanunlara göre defter ve hesap tutmak, evrak ve
 vesikaları muhafaza ve ibraz etmek mecburiyetinde olan gerçek ve tüzel kişiler vergi
 incelemelerine tabidirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

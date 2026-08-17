@@ -13,8 +13,8 @@ wordCount: 4267
 
 MADDE 49- (1) Dava esastan reddedilirse davacı, beşyüz Türk Lirasından beşbin
 Türk Lirasına kadar disiplin para cezasına mahkûm edilir.
-DÖRDÜNCÜ BÖLÜM
-Taraflar ve Davaya Katılan Üçüncü Kişiler
+
+---
 
 ### Akademik Yorum ve Analiz
 

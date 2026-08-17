@@ -28,11 +28,13 @@ yaparak taraflara tebliğ eder. Gerekli hâllerde görevli makam resen tespitte 
 Görevli makamın tespitine karşı, taraflardan her biri mahkemeye altı iş günü içinde itiraz
 edebilir. Mahkeme altı iş günü içinde kesin olarak karar verir.
 (4) Grev ve lokavtın uygulanacağı dönemde hangi işçilerin işyerinde çalışmaya devam
-ecekleri görevli makamca grev ve lokavt kararının bildirilmesinden itibaren üç iş günü
+edecekleri görevli makamca grev ve lokavt kararının bildirilmesinden itibaren üç iş günü
 içinde resen tespit edilerek ilgili işverene ve işçilere yazı ile bildirilir. O işyerinde çalışan ve
 toplu görüşmede taraf olan işçi sendikası ve şubesinin yöneticileri bu hükme tabi tutulamaz.
 (5) İşveren, grev ve lokavta katılamayacak işçilerden herhangi bir nedenle
 çalışmayanların yerine görevli makamın yazılı izni ile yeni işçi alabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

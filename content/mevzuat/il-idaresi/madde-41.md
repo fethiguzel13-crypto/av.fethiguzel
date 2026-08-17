@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**I - Bucak idare ve teşkilatı**
+**BÖLÜM : IV
+I - Bucak idare ve teşkilatı**
 
 ---
 
 Madde 41 – Bucak; coğrafya, ekonomi, güvenlik ve mahalli hizmet bakımlarından
+aralarında münasebet bulunan kasaba ve köylerden meydana gelen bir idare bölümüdür.
+
+---
 
 ### Akademik Yorum ve Analiz
 

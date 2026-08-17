@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4321
 ---
 
-**Konkordatonun tasdiki şartları**
+**Konkordatonun tasdiki şartları:**
 
 ---
 
@@ -33,19 +33,8 @@ durumunda alacaklılara ödenmesi kararlaştırılan para üzerinden alınması 
 tasdik kararından önce, borçlu tarafından mahkeme veznesine depo edilmiş olması.
 Mahkeme konkordato projesini yetersiz bulursa kendiliğinden veya talep üzerine
 gerekli gördüğü düzeltmenin yapılmasını isteyebilir.
-Konkordatonun tasdiki kararı, kapsamı ve ilânı:
 
-Madde 306- (Başlığı ile Birlikte Değişik: 28/2/2018-7101/34 md.)
-Konkordatonun tasdiki kararında alacaklıların hangi ölçüde alacaklarından vazgeçtiği
-ve borçlunun borçlarını hangi takvim çerçevesinde ödeyeceği belirtilir.
-Kararda, tasdik edilen konkordatonun yerine getirilmesini sağlamak için gerekli
-gözetim, yönetim ve tasfiye tedbirlerini almakla görevli bir kayyım tayin edilebilir. Bu
-takdirde kayyım, borçlunun işletmesinin durumu ve proje uyarınca borçlarını ödeme
-kabiliyetini muhafaza edip etmediği konusunda iki ayda bir tasdik kararını veren mahkemeye
-rapor verir; alacaklılar bu raporu inceleyebilirler.
-Tasdik kararı mahkemece, 288 inci madde uyarınca ilân olunur ve ilgili yerlere
-bildirilir.
-Rehinli malların muhafaza ve satışı ile finansal kiralama konusu malların
+---
 
 ### Akademik Yorum ve Analiz
 

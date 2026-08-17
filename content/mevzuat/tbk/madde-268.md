@@ -11,7 +11,7 @@ wordCount: 4313
 
 ---
 
-Madde 268 - Satıcının sözleşmenin kurulduğu sırada belirlenen toplam satış bedeline
+MADDE 268- Satıcının sözleşmenin kurulduğu sırada belirlenen toplam satış bedeline
 ek bir bedel isteme hakkını saklı tutan bütün kayıtlar geçersizdir.
 Ödenecek toplam satış bedeli sözleşmede belirlenmiş olmakla birlikte, devredilecek
 eşya önceden belirlenmemiş ve satıcı tarafından bu eşyayı seçme hakkı alıcıya tanınmış ise

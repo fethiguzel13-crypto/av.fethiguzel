@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Ödemenin mahsup edileceği alacaklar**
+**Ödemenin mahsup edileceği alacaklar:**
 
 ---
 
@@ -21,6 +21,8 @@ olarak yapılır.
 Amme alacağına karşılık cebren tahsil olunan paralar; önce parayı tahsil eden dairenin,
 artarsa aynı amme idaresinin takibe iştirak etmiş olan diğer alacaklı tahsil dairelerinin takip
 konusu alacak aslı ve fer'ilerine orantılı olarak mahsup edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

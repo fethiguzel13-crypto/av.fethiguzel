@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**Kararlar aleyhine müracaat**
+**Kararlar aleyhine müracaat:**
 
 ---
 
@@ -16,6 +16,8 @@ Alacaklılar toplanmasının kararlarından dolayı her alacaklı tarafından ye
 icra mahkemesine şikayet olunabilir. İcra mahkemesi iflas Dairesinin mütalaasını aldıktan ve
 icabında şikayet edeni ve dinlenmelerini istiyen alacaklıları da dinledikten sonra kısa bir
 zamanda kararını verir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

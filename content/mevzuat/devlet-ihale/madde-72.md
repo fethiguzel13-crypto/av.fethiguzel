@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**Kamu yararına çalışan derneklere taşınmaz malların satımı**
+**Kamu yararına çalışan derneklere taşınmaz malların satımı:**
 
 ---
 
@@ -24,6 +24,8 @@ taşınmazların satış dahil değerlendirilmesine Maliye Bakanlığınca belir
 esaslara göre izin verilebilir.
 Beş yıl içinde kuruluş gayesine uygun olarak kullanılmadığı takdirde, taşınmaz mal,
 satış bedeli üzerinden Hazinece geri alınır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

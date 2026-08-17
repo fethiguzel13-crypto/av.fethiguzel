@@ -7,19 +7,20 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**Tedbirlerde yetki**
+**İKİNCİ BÖLÜM
+Ceza İnfaz Kurumlarının Türleri
+Kapalı ceza infaz kurumları**
 
 ---
 
-Madde 8- (1) Korunma ihtiyacı olan çocuklar hakkında koruyucu ve destekleyici
-tedbirler, çocuğun menfaatleri bakımından kendisinin, ana, baba, vasisi veya birlikte yaşadığı
-kimselerin bulunduğu yerdeki çocuk hâkimince alınır.
-(2) Tedbir kararlarının uygulanması, kararı veren hâkim veya mahkemece en geç üçer
-aylık sürelerle incelettirilir.
-(3) Hâkim veya mahkeme; denetim memurları, çocuğun velisi, vasisi, bakım ve
-gözetimini üstlenen kimselerin, tedbir kararını yerine getiren kişi ve kuruluşun temsilcisi ile
-Cumhuriyet savcısının talebi üzerine veya re'sen çocuğa uygulanan tedbirin sonuçlarını
-inceleyerek kaldırabilir, süresini uzatabilir veya değiştirebilir.
+Madde 8- (1) Kapalı ceza infaz kurumları, iç ve dış güvenlik görevlileri bulunan,
+firara karşı teknik, mekanik, elektronik veya fizikî engellerle donatılmış, oda ve koridor
+kapıları kapalı tutulan, ancak mevzuatın belirttiği hâllerde aynı oda dışındaki hükümlüler
+arasında ve dış çevre ile temasın olanaklı bulunduğu, yeterli düzeyde güvenlik sağlanmış ve
+hükümlünün gereksinimine göre bireysel, grup hâlinde veya toplu olarak iyileştirme
+yöntemlerinin uygulanabileceği tesislerdir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

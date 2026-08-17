@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**En az sigorta tutarları**
+**En az sigorta tutarları:**
 
 ---
 
@@ -18,6 +18,9 @@ Tarife ve talimatların tespitinde; araç türleri; coğrafi bölge; sigorta sü
 herhangi bir hasar ödemesine neden olmayan işletenlerin primlerinin indirilmesi yoluyla
 ödüllendirilmesi, hasar ödemesine neden olan işletenlerin primlerinin yükseltilmesi yoluyla
 cezalandırılması ve gerekli görülen diğer hususlar dikkate alınır.
+Sigorta sözleşmesinin verilmesi ve işletenin değişmesi halinde yapılacak işlemler:
+
+---
 
 ### Akademik Yorum ve Analiz
 

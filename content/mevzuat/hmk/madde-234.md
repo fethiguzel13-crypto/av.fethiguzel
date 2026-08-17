@@ -16,6 +16,8 @@ beyanlarını yazıp imzalayarak yemin ederler.
 (2) Okuma ve yazma bilmeyen sağır veya dilsizler, işaretlerinden anlayan bir bilirkişi
 aracılığıyla yemin ederler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

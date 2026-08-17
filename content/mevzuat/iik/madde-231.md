@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Tapu sicilline yazılı alacaklar**
+**Tapu sicilline yazılı alacaklar:**
 
 ---
 
 Madde 231 – Tapu siciline yazılı olan alacaklar; kayıt için müracaat edilmemiş olsa
 bile işliyen faizle kabul olunurlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

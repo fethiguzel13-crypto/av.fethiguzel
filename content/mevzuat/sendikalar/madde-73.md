@@ -22,6 +22,8 @@ uyulmasını sağlamak için güç kullanmaksızın ve tehditte bulunmaksızın 
 lokavt kararına uyup uymadıklarını denetlemek amacıyla lokavtın kapsamına giren işyerlerine
 gözcüler gönderebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

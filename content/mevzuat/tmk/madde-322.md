@@ -11,7 +11,8 @@ wordCount: 4290
 
 ---
 
-Madde 322 - Ana , baba ve çocuk, ailenin huzur ve bütünlüğünün gerektirdiği şekilde birbirlerine yardım etmek, saygı ve anla yış göstermek ve aile onuru nu gözetmek le yük ümlüdürler.
+Madde 322- Ana, baba ve çocuk, ailenin huzur ve bütünlüğünün gerektirdiği şekilde
+birbirlerine yardım etmek, saygı ve anlayış göstermek ve aile onurunu gözetmekle yükümlüdürler.
 
 ---
 

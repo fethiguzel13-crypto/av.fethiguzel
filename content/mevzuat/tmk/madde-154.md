@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**C . Butlanı gerektirmeyen sebepler I. Bekleme süresine uymama**
+**C. Butlanı gerektirmeyen sebepler
+I. Bekleme süresine uymama**
 
 ---
 
-Madde 154 - Kadının bekleme süresi b itmed en evlenmesi, evlenmenin butlanını gerektirmez.
+Madde 154- Kadının bekleme süresi bitmeden evlenmesi, evlenmenin butlanını gerektirmez.
 
 ---
 

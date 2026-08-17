@@ -24,6 +24,8 @@ c) Refakatsiz çocuğun görüşü dikkate alınarak Aile, Çalışma ve Sosyal 
 Bakanlığı tarafından, uygun konaklama yerlerine veya yetişkin akrabalarının veya koruyucu
 bir ailenin yanına yerleştirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

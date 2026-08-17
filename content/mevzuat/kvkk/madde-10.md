@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**Veri sorumlusunun aydınlatma yükümlülüğü**
+**ÜÇÜNCÜ BÖLÜM
+Haklar ve Yükümlülükler
+Veri sorumlusunun aydınlatma yükümlülüğü**
 
 ---
 
@@ -16,9 +18,11 @@ yetkilendirdiği kişi, ilgili kişilere;
 a) Veri sorumlusunun ve varsa temsilcisinin kimliği,
 b) Kişisel verilerin hangi amaçla işleneceği,
 c) İşlenen kişisel verilerin kimlere ve hangi amaçla aktarılabileceği,
-d) Kişisel veri toplamanın yöntemi ve hukuki sebebi,
+ç) Kişisel veri toplamanın yöntemi ve hukuki sebebi,
 d) 11 inci maddede sayılan diğer hakları,
 konusunda bilgi vermekle yükümlüdür.
+
+---
 
 ### Akademik Yorum ve Analiz
 

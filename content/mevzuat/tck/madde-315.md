@@ -16,6 +16,8 @@ kullanılmak maksadıyla bunların amaçlarını bilerek, bu örgütlere üretme
 ülkeye sokmak suretiyle silah temin eden, nakleden veya depolayan kişi, on yıldan onbeş yıla
 kadar hapis cezası ile cezalandırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

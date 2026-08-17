@@ -7,12 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**Konu**
+**ÜÇÜNCÜ BÖLÜM
+Yargılamanın İadesi
+Konu**
 
 ---
 
 MADDE 374- (1) Yargılamanın iadesi, kesin olarak verilen veya kesinleşmiş olan
 hükümlere karşı istenebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -16,6 +16,8 @@ a) 28 ilâ 32 nci maddeleri ile geçici maddeleri yayımı tarihinde,
 b) Diğer hükümleri ise yayımı tarihinden bir yıl sonra,
 yürürlüğe girer.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

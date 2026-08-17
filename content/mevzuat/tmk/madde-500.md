@@ -7,15 +7,15 @@ lastReviewed: "2026-07-27"
 wordCount: 3459
 ---
 
-**Evlâtlık ve altsoyu, evlât edinene kan hısımı gibi mirasçı olurlar. Evlâtlığın**
+**C. Evlâtlık**
 
 ---
 
-Madde 500 - Evlâtlık ve altsoyu, evlât edinene kan hısımı gibi mirasçı olurlar. Evlâtlığın
+Madde 500- Evlâtlık ve altsoyu, evlât edinene kan hısımı gibi mirasçı olurlar. Evlâtlığın
 kendi ailesindeki mirasçılığı da devam eder.
+Evlât edinen ve hısımları, evlâtlığa mirasçı olmazlar.
 
-Evlât
-edinen ve hısımları, evlâtlığa mirasçı olmazlar.
+---
 
 ### Akademik Yorum ve Analiz
 

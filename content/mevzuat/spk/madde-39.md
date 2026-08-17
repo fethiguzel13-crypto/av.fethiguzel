@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Faaliyet izni alma zorunluluğu**
+**e) Servet yönetimi ve finansal planlama yapılması
+f) Kurulca belirlenecek diğer hizmet ve faaliyetlerde bulunulması
+Faaliyet izni alma zorunluluğu**
 
 ---
 
@@ -15,8 +17,7 @@ MADDE 39 – (1) Yatırım hizmetlerinin ve faaliyetlerinin düzenli uğraşı, 
 mesleki faaliyet olarak icra edilebilmesi için Kuruldan izin alınması zorunludur. Yatırım
 hizmetleri ve faaliyetleri ancak yatırım kuruluşları tarafından yerine getirilebilir. Yatırım
 ortaklıkları ile portföy yönetim şirketlerine ve borsalara ilişkin hükümler saklıdır. Kurul, her
-
-bir yatırım hizmet ve faaliyetinin, sermaye piyasası aracı veya yatırım hizmet ve faaliyeti
+bir yatırım hizmet ve faaliyetinin, sermaye piyasası aracı veya yatırım hizmet ve faaliyeti
 bazında ayrı kuruluşlar tarafından yapılmasına ilişkin düzenlemeler yapmaya yetkilidir.
 (2) Yan hizmetler, yatırım kuruluşları ve portföy yönetim şirketlerince ayrıca bir yetki
 belgesine tabi olmaksızın Kurulca belirlenen esaslar çerçevesinde yapılır.
@@ -43,6 +44,8 @@ madde kapsamında yürütecekleri yatırım hizmet ve faaliyetlerine ilişkin us
 Kurulca belirlenir. İşbu hizmet ve faaliyetlerde Kurul, sermaye piyasası araçlarının ve
 Bankacılık Düzenleme ve Denetleme Kurulunun görüşüyle bankaların niteliklerine göre farklı
 usul ve esaslar belirleyebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

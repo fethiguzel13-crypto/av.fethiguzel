@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Yönetmelikler**
+**Yönetmelikler:**
 
 ---
 
@@ -15,8 +15,7 @@ Madde 135 – Bu Kanunla ilgili Karayolları Trafik Yönetmeliği, ilgili bakanl
 görüşü alınmak suretiyle İçişleri Bakanlığının koordinatörlüğünde, Bayındırlık ve Ulaştırma
 bakanlıklarınca müştereken, bu Kanunda çıkarılması öngörülen diğer yönetmelikler ilgili
 bakanlıklarca kanunun yayımı tarihinden itibaren bir yıl içinde çıkarılır ve Resmi Gazete’de
-
-yayımlanır.
+yayımlanır.
 Ticari taşıt kullanma belgesi:
 Ek Madde 1 – (Ek: 17/10/1996-4199/43 md.; Mülga: 3/5/2006 – 5495/4 md.)
 Araçların tescil edildikleri amacın dışında kullanılması:
@@ -38,7 +37,7 @@ alınır. (Ek cümleler:12/2/2026-7574/32 md.) Son ihlalin gerçekleştiği tari
 bir yıl içerisinde bu fıkranın tekrar ihlal edilmesi hâlinde idari para cezaları iki kat olarak
 uygulanır. Sürücü belgesi geri alma işlemleri bu Kanunun 6 ncı maddesinde sayılan görevliler
 tarafından yapılır. Bu şekilde geri alınan sürücü belgelerinin iade edilebilmesi için bu Kanun
-kapsamında verilen idari para cezalarının tamamının tahsil edilmiş olması şarttır.87
+kapsamında verilen idari para cezalarının tamamının tahsil edilmiş olması şarttır.
 İşleteni veya sahibi, sürücüsünün kendisi olup olmadığına bakılmaksızın aracın bu
 maddenin üçüncü fıkrasına aykırı olarak kullanılmaması hususunda gerekli tedbirleri almak
 ve denetimini yapmakla yükümlüdür. Araç, bu maddenin üçüncü fıkrasının;
@@ -51,12 +50,7 @@ süreyle trafikten menedilir.
 1.002 Türk lirası idari para cezası uygulanır ve eksikliği giderilinceye kadar araç trafikten
 menedilir.
 Ayırıcı işareti bulunmayan üçüncü fıkra kapsamındaki araçlardan taşımacılık hizmeti
-12/2/2026 tarihli ve 7574 sayılı Kanunun 32 nci maddesiyle bu fıkrada yer alan “5.010” ibaresi
-“100.000” şeklinde, “2.018” ibaresi “46.000” şeklinde, “1.002” ibaresi “20.000” şeklinde
-değiştirilmiştir.
-87
-
-alanlara da 334 Türk lirası idari para cezası uygulanır.
+alanlara da 334 Türk lirası idari para cezası uygulanır.
 Trafik suçlarına ilişkin cezalar:
 Ek Madde 3 – (Ek: 17/10/1996-4199/43 md; Değişik: 21/5/1997-4262/5 md.)
 2918 sayılı Karayolları Trafik Kanunundaki fiiller için, her takvim yılı başından
@@ -91,8 +85,7 @@ Fahri trafik müfettişleri İçişleri Bakanlığının belirleyeceği esas ve 
 tabi tutulabilirler.
 Bu hizmet fahri ve ücretsizdir.
 Görevini kötüye kullandığı tespit edilen fahri trafik müfettişleri iki aydan altı aya
-
-kadar hafif hapis cezası ile cezalandırılırlar. Yargılamaları tabi oldukları esaslara göre yapılır.
+kadar hafif hapis cezası ile cezalandırılırlar. Yargılamaları tabi oldukları esaslara göre yapılır.
 Ayrıca belgeleri iptal edilir.
 Fahri trafik müfettişlerinin yetki ve sorumlulukları ile diğer usul ve esaslar İçişleri
 Bakanlığınca çıkarılacak yönetmelikte belirlenir.
@@ -125,8 +118,7 @@ maddelerde geçen cezalar yarı nispetinde artırılarak hükmolunur ve bu suçl
 meslekle ilişkileri kesilir.
 Ek Madde 12 – (Ek: 17/10/1996-4199/43 md.; Değişik: 8/1/2003 -4785/5 md.)
 Konaklama yerleri ve belediye mücavir alanları hariç olmak üzere, otoyollarda ve Devlet
-
-karayollarında yapılacak ve açılacak yapı ve tesislerde alkollü içki satılmasına izin verilmez.
+karayollarında yapılacak ve açılacak yapı ve tesislerde alkollü içki satılmasına izin verilmez.
 Ek Madde 13 – (Ek: 8/3/2000 – 4550/3 md.; Mülga: 12/7/2013-6495/24 md.)
 Ek Madde 14 – (Ek: 21/4/2005 – 5335/11 md.)
 Buluntu olması nedeniyle veya bu Kanun hükümleri gereğince trafikten men edilerek
@@ -162,8 +154,7 @@ tespitine ve tamamlanmasına dair giderler ve vergi, resim veya harç gibi malı
 kaynaklanan alacaklar ödendikten sonra kalan tutar, tüm alacaklıların alacağını karşılamazsa
 sıra cetveli yapılmak üzere ilgili kuruma gönderilir.
 Ek Madde 15 – (Ek: 4/6/2008-5766/18 md.)
-
-Emniyet Genel Müdürlüğü bütçesine trafik idari para cezası karar tutanaklarının
+Emniyet Genel Müdürlüğü bütçesine trafik idari para cezası karar tutanaklarının
 tebliği amacıyla konulan ödeneğin yetmemesi halinde, münhasıran bu gider için kullanılmak
 üzere, bir önceki yıl trafik idari para cezaları gelir gerçekleşmesinin yüzde 10’una kadar
 ödenek eklemeye Maliye Bakanı yetkilidir.
@@ -178,37 +169,45 @@ tutar, izleyen ayın sonuna kadar Emniyet Genel Müdürlüğü bütçesinden ilg
 sistem kullanımı hizmet bedeli olarak ödenir. (Ek cümle: 20/8/2016-6745/30 md.) Elektronik
 sistemlerin belediyeler tarafından hasılat paylaşımı yoluyla kurdurulması ve işlettirilmesi
 hâlinde belediyelere ödenecek tutar, elektronik sistemlerin yatırım maliyetine ulaşıncaya
-kadar %30, sonrasında %15 olarak uygulanır.88
+kadar %30, sonrasında %15 olarak uygulanır.
 Bu madde kapsamında hizmetinden yararlanılacak elektronik sistemlerin taşıması
 gereken teknik özellikler, kurulması gereken yerler ve belediyelerle yapılacak protokollere
 ilişkin diğer şartlar ile maddenin uygulamasına ilişkin usul ve esaslar Maliye Bakanlığı ve
 İçişleri Bakanlığınca (Emniyet Genel Müdürlüğü) müştereken belirlenir.
 Aday sürücülük:
-Ek Madde 17 – (Ek: 12/7/2013-6495/22 md.)
-İlk defa sürücü belgesi alanlar en az bir yıl süre ile aday sürücü olarak kabul edilirler.
-Aday sürücülüğün süresi, aday sürücülerin sürücü belgelerinin iptal edilme ve yeniden
-sürücü belgesi alma şartları ile diğer usul ve esaslar yönetmelikle düzenlenir.89
-Aday sürücülerle ilgili olarak yönetmelikte belirtilen iptal edilme şartlarının oluşması
-hâlinde, bu Kanunun 6 ncı maddesinde sayılan görevliler tarafından sürücü belgeleri iptal edilir.
+Ek Madde 17 – (Ek: 12/7/2013-6495/22 md.) (Değişik:24/7/2026-7590/5 md.)
+İlk defa sürücü belgesi alanlar ile sürücü belgesi herhangi bir nedenle iptal edilip
+yeniden sürücü belgesi almaya hak kazananlar, belgenin alındığı tarihten itibaren iki yıl süre
+ile aday sürücü olarak kabul edilirler.
+Aday sürücülük süresi içinde;
+a) Bu Kanun kapsamında sürücü belgesinin geçici olarak geri alınmasını gerektiren bir
+ihlalin gerçekleştirilmesi,
+b) 75 ceza puanının aşılması,
+c) Araç cinsine bakılmaksızın 0.20 promilin üzerinde alkollü olarak araç
+kullanıldığının tespit edilmesi,
+ç) Bu Kanunun 53 üncü maddesinin ikinci fıkrası, 74 üncü veya 78 inci maddelerinden
+herhangi birinin üç kez ihlal edilmesi,
+halinde aday sürücü belgesi iptal edilir.
+Aday sürücü belgesi iptal edilenlerin tekrar sürücü belgesi alabilmeleri için; sürücü
+kurslarına devam etmeleri ve yapılan sınavlarda başarılı olarak motorlu taşıt sürücüsü
+sertifikası almaları gerekir. Bu kişilerin sürücü kurslarında eğitime başlayabilmeleri için tabi
+tutulacakları psiko-teknik değerlendirme ve psikiyatri uzmanı muayenesi sonucunda
+sürücülüğe engel hali bulunmadığını gösterir belgenin sürücü kursuna ibrazı, bu Kanun
+kapsamında verilen idari para cezalarının tamamının tahsil edilmiş olması ve varsa iptal
+işlemi sonrası bekleme süresi veya geçici geri alma işlemleri sonrası geri alma süresi kadar
+zamanın geçmiş olması zorunludur.
+Aday sürücü belgesi iptal işlemleri bu Kanunun 6 ncı maddesinde sayılan görevliler
+tarafından yapılır.
 Noterliklere devir:
 Ek Madde 18- (Ek: 2/1/2017-KHK-680/61 md.; Aynen kabul: 1/2/2018-7072/60 md.)
 Emniyet Genel Müdürlüğünce yürütülen araç tescil hizmetlerine ilişkin iş ve işlemler, bu
 Kanunun 131 inci maddesi hükümleri saklı kalmak üzere, Türkiye Noterler Birliği koordinesinde
-20/8/2016 tarihli ve 6745 sayılı Kanunun 30 uncu maddesiyle, bu maddenin birinci fıkrasının birinci
-cümlesinde yer alan “Belediyelerce” ibaresinden sonra gelmek üzere “veya sermayesinin tamamı
-belediyelere ait şirketler tarafından” ibaresi eklenmiştir.
-89
-Anayasa Mahkemesinin 17/6/2025 tarihli ve E.: 2025/28, K.: 2025/139 sayılı Kararı ile bu fıkrada
-yer alan “sürücü belgelerinin iptal edilme” ibaresi iptal edilmiştir. Bu değişiklik yayımlanmasından
-başlayarak dokuz ay sonra (2/9/2026) tarihinde yürürlüğe girer.
-88
-
-noterliklere devredilebilir. Bu durumda;
+noterliklere devredilebilir. Bu durumda;
 a) Araç tescil işlemlerine ilişkin olarak noterliklere devredilen iş ve işlemler hakkında
 mevzuatta Emniyet birimlerine yapılmış olan atıflar, noterliklere yapılmış sayılır.
 b) Araç sicil ve tescil sistemi veri tabanı Türkiye Noterler Birliğince tutulur ve bu
 kuruluşça yönetimi ve güvenliği sağlanır. Veri tabanında yer alan bilgiler anlık olarak Emniyet
-Genel Müdürlüğü ve Jandarma Genel Komutanlığı ile paylaşılır.90
+Genel Müdürlüğü ve Jandarma Genel Komutanlığı ile paylaşılır.
 c) Araç tescil işlemi karşılığında, noterler tarafından alınacak ücret, araç tescil
 hizmetlerine ilişkin iş ve işlemler ile bu maddenin uygulanmasına ilişkin usul ve esaslar;
 Bilim, Sanayi ve Teknoloji Bakanlığı, Maliye Bakanlığı ve Ulaştırma, Denizcilik ve
@@ -236,12 +235,7 @@ Geçici Hükümler
 Geçici Madde 1 – 6085 Sayılı Karayolları Trafik Kanununa ve bu Kanuna göre verilen
 araçlara ait belgelerle şoför ehliyetnameleri ve sürücü belgelerinin değiştirilip yenilenmesi bilgi
 işlem merkezi hizmete konulduktan sonra yönetmelikte belirtilen usul, esas ve şartlara göre
-21/11/2024 tarihli ve 7533 sayılı Kanunun 26 ncı maddesi ile bu bendin ikinci cümlesine
-“Emniyet Genel Müdürlüğü” ibaresinden sonra gelmek üzere “ve Jandarma Genel
-Komutanlığı” ibaresi eklenmiştir.
-90
-
-yapılır. Bu işlemlere İçişleri Bakanlığının tespit ve ilan edeceği tarihte başlanır ve iki yıl içinde
+yapılır. Bu işlemlere İçişleri Bakanlığının tespit ve ilan edeceği tarihte başlanır ve iki yıl içinde
 tamamlanır.
 Bu değiştirme ve yenilemeler harca tabi değildir.
 İki yıllık süre sonunda değiştirilmeyen, araçlara ait belgelerle şoför ehliyetnameleri ve
@@ -276,8 +270,7 @@ Geçici Madde 5 – Bu Kanunun 42 nci maddesinin birinci fıkrası uyarınca sı
 trafik zabıtasınca yapılmasına Kanunun yayımı tarihinden itibaren en geç bir ay içinde
 başlanır. Sınavların trafik zabıtasınca yapılmasına başlanıncaya kadar, 6085 sayılı Kanun
 uyarınca görev yapmakta olan sınav komisyonlarının görev ve yetkileri devam eder.
-
-(Ek fıkralar: 18/1/1985 – KHK 245/15 md.; aynen kabul: 28/3/1985 – 3176/15 md.):
+(Ek fıkralar: 18/1/1985 – KHK 245/15 md.; aynen kabul: 28/3/1985 – 3176/15 md.):
 Sürücü belgesi alacakların sınavlarının 42 nci maddeye göre sürücü kurslarında
 yapılmasına ve sürücü adaylarından 41 inci maddenin “ç” fıkrası gereğince herhangi bir sürücü
 kursunu başarı ile bitirdiklerini belgeleyen sertifika istenmesine 1/1/1987 tarihinde başlanır.
@@ -311,8 +304,7 @@ girdiği tarihten itibaren bir yıl içinde tamamlanır. Bu süre gerektiğinde 
 bir yıla kadar uzatılabilir.
 Geçici Madde 10 – (Ek: 17/10/1996-4199/46 md.)
 Bu Kanunun yürürlüğe girdiği tarihten önce satışı yapılmış olan araçların trafikte ve
-
-vergi kaydında malik olarak görülen eski sahiplerinin, bu Kanunun yürürlüğe girdiği tarihten
+vergi kaydında malik olarak görülen eski sahiplerinin, bu Kanunun yürürlüğe girdiği tarihten
 itibaren bir yıl içinde noterlikçe düzenlenen satış belgesi ile trafik şube veya bürolarına
 müracatları halinde, önceki malik adına olan kayıt ve tescil işlemi silinerek son malik adına
 kayıt ve tescil işlemi yapılır. Ayrıca bu işlem, ilgili vergi dairesine bildirilir.
@@ -345,8 +337,7 @@ Televizyonların Kuruluş ve Yayınları Hakkında Kanunun 4 üncü maddesinin b
 fıkrasının (p) bendi gereğince yapacakları haftalık eğitim programlarının en az 2 saatini bu
 Kanunun getirdiği değişikliklerin tanıtımına ayırmak zorundadırlar.
 Geçici Madde 16 – (Ek : 8/3/2000 – 4550/4 md.)
-
-2918 sayılı Karayolları Trafik Kanununun 41 inci maddesinin 4199 sayılı Kanunla
+2918 sayılı Karayolları Trafik Kanununun 41 inci maddesinin 4199 sayılı Kanunla
 değişik (b) bendinde öngörülen A1, A2, B, C, D ve E sınıfı sürücü belgesi alacak olanlarda
 aranan en az ortaokul veya sekiz yıllık temel eğitim bitirmiş bulunmaları şartı, 31.12.2004
 tarihine kadar aranmaz. İlkokul mezunu olmaları yeterli sayılır.
@@ -379,8 +370,7 @@ Sürücü belgesi sınıfları, sürücü belgelerine ait esaslar ve sürücü a
 şartlar yönetmelikte belirleninceye kadar bu Kanunun 38, 39 ve 41 inci maddelerinin
 değişiklikten önceki halleri uygulanır.
 Bu Kanunun yürürlüğe girdiği tarihte sürücü belgesi sahibi olanlar ile motorlu taşıt
-
-sürücü sertifikası bulunan veya sürücü kurslarına kayıt yaptırmış olanların alacakları sürücü
+sürücü sertifikası bulunan veya sürücü kurslarına kayıt yaptırmış olanların alacakları sürücü
 belgelerinin yönetmelikte belirlenen yeni sınıf sürücü belgeleri ile değiştirilmesi zorunludur.
 Bu belgelerin değiştirileceği sürücü belgesi sınıfları yönetmelikle belirlenir.
 Bu maddenin yürürlüğe girdiği tarihten önce verilmiş olan ve bu Kanuna göre
@@ -414,8 +404,7 @@ Pasif duruma getirilen geçici geri alma süreleri ve ceza puanları, bu maddeni
 yürürlüğe girdiği tarihten önceki tüm adli ve idari işler bakımından ilgilisine herhangi bir hak
 veya istisna sağlamaz ve uygulanmış olan trafik idari para cezalarını ortadan kaldırmaz.
 Geçici Madde 27- (Ek:12/2/2026-7574/34 md.)
-
-Bu maddenin yayımı tarihinden önce takograf bulundurma ve kullanma zorunluluğu
+Bu maddenin yayımı tarihinden önce takograf bulundurma ve kullanma zorunluluğu
 bulunmayan, ancak bu maddeyi ihdas eden Kanunla 31 inci maddede yapılan değişiklik ile
 zorunluluk getirilen araçlar için;
 a) 2021 ve sonrası model araçlarda, 31/12/2026,
@@ -439,6 +428,8 @@ tekerrür hesaplamalarında dikkate alınmaz.
 Ek Geçici Madde – (Ek: 27/8/1991 – 3759/2 md.)
 Trafik hizmetlerinin yurt sathında yürütülmesi için gerekli personel, araç ve gereçler
 Emniyet Genel Müdürlüğünce 2 yıl içinde sağlanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

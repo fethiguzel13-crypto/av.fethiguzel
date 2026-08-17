@@ -19,6 +19,8 @@ yer mahkemesinde açılır.
 (3) Bu davalar, birden fazla taşınmaza ilişkinse, taşınmazlardan birinin bulunduğu
 yerde, diğerleri hakkında da açılabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

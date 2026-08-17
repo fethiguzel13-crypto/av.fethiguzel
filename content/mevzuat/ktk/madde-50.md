@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Hız sınırları**
+**İKİNCİ BÖLÜM
+Hız Kuralları
+Hız sınırları:**
 
 ---
 
@@ -22,6 +24,8 @@ kuruluşlarca konulur.
 Bu Kanunla yetki verilen kuruluşlar tarafından yönetmelikte belirtilen hız sınırları yol
 ve trafik durumuna göre azaltılabilir veya çoğaltılabilir. Bu hallerde durum trafik işaretleri ile
 belirtilir ve uygun vasıtalarla duyurulur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,8 @@ wordCount: 4293
 
 ---
 
-Madde 835 - (1) Varantın da 834 üncü maddede yazılı kayı tları aynen içermesi ve makbuz senedine bağlı olması gerekir.
+MADDE 835- (1) Varantın da 834 üncü maddede yazılı kayıtları aynen içermesi ve
+makbuz senedine bağlı olması gerekir.
 
 ---
 

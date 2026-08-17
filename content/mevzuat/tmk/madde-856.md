@@ -13,7 +13,10 @@ I. Rehnin kurulması
 
 ---
 
-Madde 856 - Taşınmaz rehni tapu kütüğüne tescil ile kurulur. Kanunda ön görülen ayrık durumlar saklıdır. Taşınmaz rehninin kurulmasına ilişkin sözleşmenin geçerliliği, resmî şe kilde yapılmış olmasına bağlıdır.
+Madde 856- Taşınmaz rehni tapu kütüğüne tescil ile kurulur. Kanunda öngörülen ayrık
+durumlar saklıdır.
+Taşınmaz rehninin kurulmasına ilişkin sözleşmenin geçerliliği, resmî şekilde yapılmış
+olmasına bağlıdır.
 
 ---
 

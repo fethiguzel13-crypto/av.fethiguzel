@@ -7,13 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**III
-- Cironun hükümleri
+**III - Cironun hükümleri
 1. Devir işlevi**
 
 ---
 
-Madde 684 - (1) Ciro ve zilyetliğin geçirilmesi ile poliçeden doğan bütün haklar devrolunur. (2) Ciro beyaz ciro ise hamil; a) Ciroyu kendi adına veya diğer bir kişi adına doldurabilir, b) Poliçeyi yeniden beyaz olarak veya diğer belirli bir kişiye tekrar ciro edebilir, c) Beyaz ciroyu doldurmaksızın ve poliçeyi tekrar ciro etmeksizin poliçeyi başka bir kişiye verebilir.
+MADDE 684- (1) Ciro ve zilyetliğin geçirilmesi ile poliçeden doğan bütün haklar
+devrolunur.
+(2) Ciro beyaz ciro ise hamil;
+a) Ciroyu kendi adına veya diğer bir kişi adına doldurabilir,
+b) Poliçeyi yeniden beyaz olarak veya diğer belirli bir kişiye tekrar ciro edebilir,
+c) Beyaz ciroyu doldurmaksızın ve poliçeyi tekrar ciro etmeksizin poliçeyi başka bir
+kişiye verebilir.
 
 ---
 

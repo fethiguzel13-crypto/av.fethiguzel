@@ -11,7 +11,9 @@ wordCount: 4301
 
 ---
 
-Madde 751 - (1) Zamanaşımını kesen işlem, kimin hakkında meydana gelmişse ancak ona karşı hüküm ifade eder. (2) Zamanaşımı kesilince, süresi aynı olan yeni bir zamanaşımı işlemeye başlar.
+MADDE 751- (1) Zamanaşımını kesen işlem, kimin hakkında meydana gelmişse
+ancak ona karşı hüküm ifade eder.
+(2) Zamanaşımı kesilince, süresi aynı olan yeni bir zamanaşımı işlemeye başlar.
 
 ---
 

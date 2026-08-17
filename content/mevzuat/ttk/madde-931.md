@@ -7,11 +7,23 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**Madde 931**
+**BEŞİNCİ KİTAP
+Deniz Ticareti
+BİRİNCİ KISIM
+Gemi
+BİRİNCİ BÖLÜM
+Genel Hükümler
+A) Tanımlar
+I- Gemi, ticaret gemisi**
 
 ---
 
-Madde 931 - (1) Tahsis edildiği amaç, suda hareket etmesini gerektiren, yüzme özell iği bulunan ve pek küçük olmayan her araç, kendiliğinden hareket etmesi imkânı bulunmasa da, bu Kanun bakımından “gemi” sayılır. (2) Suda ekonomik menfaat sağlama amacına tahsis edilen veya fiilen böyle bir amaç için kullanılan her gemi, kimin tarafından v e kimin adına veya hesabına kullanılırsa kullanılsın “ticaret gemisi” sayılır.
+MADDE 931- (1) Tahsis edildiği amaç, suda hareket etmesini gerektiren, yüzme
+özelliği bulunan ve pek küçük olmayan her araç, kendiliğinden hareket etmesi imkânı
+bulunmasa da, bu Kanun bakımından “gemi” sayılır.
+(2) Suda ekonomik menfaat sağlama amacına tahsis edilen veya fiilen böyle bir amaç
+için kullanılan her gemi, kimin tarafından ve kimin adına veya hesabına kullanılırsa kullanılsın
+“ticaret gemisi” sayılır.
 
 ---
 

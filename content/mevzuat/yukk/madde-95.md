@@ -20,8 +20,7 @@ kurabilir.
 (4) Kabul ve barınma merkezleri, valilikler tarafından işletilir. Genel Müdürlük,
 merkezleri; kamu kurum ve kuruluşlarıyla, Türkiye Kızılay Derneği ve göç alanında
 uzmanlığı bulunan kamu yararına çalışan derneklerle protokol yaparak işlettirebilir.
-
-(5) Kabul ve barınma merkezi dışında ikamet eden başvuru sahibi veya uluslararası
+(5) Kabul ve barınma merkezi dışında ikamet eden başvuru sahibi veya uluslararası
 koruma statüsü sahibi kişiler ve aile üyeleri bu merkezlerdeki hizmetlerden yararlandırılabilir.
 (6) Kabul ve barınma merkezlerinde sağlanan hizmetler, satın alma yoluyla da
 yürütülebilir.
@@ -30,6 +29,8 @@ yürütülebilir.
 Müdürlüğün izniyle kabul ve barınma merkezlerini ziyaret edebilirler.
 (9) Kabul ve barınma merkezlerinin kurulması, yönetimi ve işletilmesiyle ilgili usul ve
 esaslar yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

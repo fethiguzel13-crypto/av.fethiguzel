@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Yevmiye defteri**
+**4. (Ek: 30/12/1980-2365/27 md.; Mülga: 22/7/1998-4369/82 md.)
+Yevmiye defteri:**
 
 ---
 
@@ -17,7 +18,7 @@ sırasiyle ve madde halinde tertipli olarak yazıldığı defterdir.
 numaralı olur. Mükellefler diledikleri takdirde yevmiye defteri ve tutulması zorunlu diğer
 defterlerini müteharrik yapraklı olarak kullanabilirler.
 
-(Üçüncü fıkra mülga: 4/12/1985-3239/16 md.)
+---
 
 ### Akademik Yorum ve Analiz
 

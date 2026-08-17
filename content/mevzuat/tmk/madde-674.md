@@ -7,17 +7,17 @@ lastReviewed: "2026-07-27"
 wordCount: 3618
 ---
 
-**Çocukların eğitim ve öğrenimi için yapılan giderler sebebiyle geri verme**
+**D. Eğitim ve öğrenim giderleri**
 
 ---
 
-Madde 674 - Çocukların eğitim ve öğrenimi için yapılan giderler sebebiyle geri verme
-yükümlülüğü, mirasbırakanın aksini arzu ettiği ispat edilmedikçe, ancak
-alışılmış ölçüleri aşan kısım için mevcuttur.
+Madde 674- Çocukların eğitim ve öğrenimi için yapılan giderler sebebiyle geri verme
+yükümlülüğü, mirasbırakanın aksini arzu ettiği ispat edilmedikçe, ancak alışılmış ölçüleri aşan
+kısım için mevcuttur.
+Eğitim ve öğrenimini tamamlamamış olan veya engelliliği bulunan çocuklara, paylaşmada
+hakkaniyete uygun bir ödeme yapılır.
 
-Eğitim
-ve öğrenimini tamamlamamış olan veya engelliliği bulunan
-çocuklara, paylaşmada hakkaniyete uygun bir ödeme yapılır.[34]
+---
 
 ### Akademik Yorum ve Analiz
 

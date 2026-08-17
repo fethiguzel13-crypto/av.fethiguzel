@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Artırmanın uzatılması**
+**Artırmanın uzatılması:**
 
 ---
 
@@ -16,6 +16,8 @@ artıranın taahhüdü baki kalmak şartiyle artırma 7 gün daha uzatılır. 7 
 gayrimenkul en çok artırana ihale edilir. Evvelce yapılan ilanda bu hususlar belirtilir. Şu kadar
 ki, ruçhanlı alacaklı bulunduğu takdirde ihale bedelinin ruçhanlı alacakla birlikte masrafları
 da aşması şarttır, aşmazsa satış yapılmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

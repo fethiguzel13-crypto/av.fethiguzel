@@ -11,7 +11,7 @@ wordCount: 4283
 
 ---
 
-Madde 318 - Kiracı, kendisinin gidermekle yükümlü olmadığı ayıpları kiraya verene
+MADDE 318- Kiracı, kendisinin gidermekle yükümlü olmadığı ayıpları kiraya verene
 gecikmeksizin bildirmekle yükümlüdür; aksi takdirde bundan doğan zarardan sorumludur.
 
 ---

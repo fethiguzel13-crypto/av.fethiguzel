@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**Ön ödemeli konut satış sözleşmeleri**
+**DÖRDÜNCÜ BÖLÜM
+Ön Ödemeli Konut Satışı
+Ön ödemeli konut satış sözleşmeleri**
 
 ---
 
@@ -17,6 +19,8 @@ kısmen ödenmesinden sonra taşınmazı tüketiciye devir veya teslim etmeyi ü
 (2) Tüketicilere sözleşmenin kurulmasından en az bir gün önce, Bakanlıkça belirlenen
 hususları içeren ön bilgilendirme formu verilmek zorundadır.
 (3) Yapı ruhsatı alınmadan, tüketicilerle ön ödemeli konut satış sözleşmesi yapılamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

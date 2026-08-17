@@ -31,7 +31,7 @@ zamlı ücret yerine, fazla çalıştığı her saat karşılığında bir saat 
 kesinti olmadan kullanır.
 63 üncü maddenin son fıkrasında yazılı sağlık nedenlerine dayanan kısa veya sınırlı
 süreli işlerde ve 69 uncu maddede belirtilen gece çalışmasında fazla çalışma yapılamaz.
-Fazla saatlerle çalışmak için işçinin onayının alınmesi gerekir.
+Fazla saatlerle çalışmak için işçinin onayının alınması gerekir.
 Fazla çalışma süresinin toplamı bir yılda ikiyüzyetmiş saatten fazla olamaz.
 (Ek fıkra: 10/9/2014-6552/4 md.) Bu Kanunun 42 nci ve 43 üncü maddelerinde
 sayılan hâller dışında yer altında maden işlerinde çalışan işçilere fazla çalışma yaptırılamaz.
@@ -41,6 +41,8 @@ her bir saat fazla çalışma için verilecek ücret, normal çalışma ücretin
 miktarının yüzde yüzden az olmamak üzere arttırılması suretiyle ödenir.
 Fazla çalışma ve fazla sürelerle çalışmaların ne şekilde uygulanacağı çıkarılacak
 yönetmelikte gösterilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

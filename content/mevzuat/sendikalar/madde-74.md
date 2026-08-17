@@ -18,6 +18,8 @@ devamlılığını sağlayacak tedbirleri alır.
 düzenine ilişkin alacağı tedbirler, kanuni bir grev veya lokavtın uygulanmasını engelleyici
 nitelik taşıyamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

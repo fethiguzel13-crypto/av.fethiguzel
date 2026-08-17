@@ -23,9 +23,7 @@ sayılı ve 8/6/1949 tarihli ve 5434 sayılı kanunlara, 17/7/1964 tarihli ve 50
 geçici 20 nci maddesine tâbi sandıklara veya bu Kanuna göre ilk defa malûllük, yaşlılık ve ölüm
 sigortalarına tâbi olduğu tarihte, nüfus kütüğünde kayıtlı bulunan doğum tarihleri, sigortalının
 bu Kanuna göre ilk defa çalışmaya başladığı tarihten sonra doğan çocuklarının ise nüfus
-
-
-kütüğüne ilk olarak yazılan doğum tarihleri esas alınır.
+kütüğüne ilk olarak yazılan doğum tarihleri esas alınır.
 İş kazası, meslek hastalığı, malûllük, yaşlılık ve ölüm sigortalarından gelir ve aylık
 tahsisleri ile sermaye değerinin hesabında, iş kazasının olduğu veya meslek hastalığının
 hekim raporuyla ilk defa tespit edildiği veya sigortalıların bu Kanuna ve bu Kanunla
@@ -37,7 +35,9 @@ Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komu
 mensuplarının 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununun 40 ıncı
 maddesinde belirlenen yaş hadleri sebebiyle emeklilik işlemleri, doğum tarihlerinde ay ve gün
 yazılı olmayanlar ile doğum günleri 1 Eylülden önce olanlar için 1 Eylül, doğum günleri 1
-Eylül ve daha sonra olanlar için müteakip yılın 1 Eylül tarihinde yapılır.94
+Eylül ve daha sonra olanlar için müteakip yılın 1 Eylül tarihinde yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

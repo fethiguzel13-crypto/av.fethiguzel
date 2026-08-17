@@ -25,6 +25,8 @@ sormasına izin verir.
 (5) Tanığın sözleri tutanağa yazılarak önünde okunur ve tutanağın altı kendisine imza
 ettirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

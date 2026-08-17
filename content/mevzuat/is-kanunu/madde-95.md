@@ -13,6 +13,8 @@ wordCount: 4267
 
 Madde 95 – (Mülga: 20/6/2012-6331/37 md.)
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

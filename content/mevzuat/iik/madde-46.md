@@ -7,13 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**1 – Umumiyetle**
+**(Ek fıkra: 27/5/1933-2228/1 md.; Mülga: 29/6/1956-6763/42 md.)
+Haciz yoliyle takip:
+1 – Umumiyetle:**
 
 ---
 
 Madde 46 – Takip diğer bütün hallerde haciz yoliyle yapılır. Borçlu tüccar sıfatını
 yeni iktisap etmişse bundan evvel aleyhinde talep edilmiş hacizler iflasına hükmolunmadıkça
 eskisi gibi icra olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

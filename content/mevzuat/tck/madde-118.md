@@ -19,6 +19,8 @@ kadar hapis cezası ile cezalandırılır.
 sendikanın faaliyetlerinin engellenmesi halinde, bir yıldan üç yıla kadar hapis cezasına
 hükmolunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

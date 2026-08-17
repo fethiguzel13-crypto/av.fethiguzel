@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4281
 ---
 
-**Ancak bu hapis üç ayı geçemez.**
+**Sonradan kazanılan veya ziyadeleşen malların beyanı:**
 
 ---
 
@@ -15,8 +15,8 @@ Madde 77 – İcra dairesine vakı olan beyanda malı olmadığını bildirmiş 
 yetecek mal göstermemiş yahut beyandan imtina etmiş olan borçlu sonradan kazandığı malları
 ve kazancında ve gelirinde vukua gelen tezayütleri yedi gün içinde mezkür daireye taahhütlü
 mektupla veya şifahi olarak bildirmeğe mecburdur.
-II. HACİZ
-Haciz:
+
+---
 
 ### Akademik Yorum ve Analiz
 

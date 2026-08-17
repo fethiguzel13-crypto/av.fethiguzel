@@ -14,6 +14,8 @@ wordCount: 4278
 Madde 37- Bu Kanunda hüküm bulunmayan hallerde yapılacak tebliğler hakkında
 Tebligat Kanunu hükümleri uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

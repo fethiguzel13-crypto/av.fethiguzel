@@ -15,6 +15,8 @@ MADDE 113 – (1) Kurul tarafından icra edilen inceleme veya denetim faaliyeti
 kapsamında istenen bilgi veya belgelere ilişkin olarak başkalarına açıklamada bulunanlar bir
 yıldan üç yıla kadar hapis ve beş bin güne kadar adli para cezası ile cezalandırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

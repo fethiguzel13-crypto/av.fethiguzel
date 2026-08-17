@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**Ödeme yerine alacakların devri**
+**Ödeme yerine alacakların devri:**
 
 ---
 
@@ -21,6 +21,8 @@ kullanılmasını, masraf kendilerine ait olmak ve fakat haklarına halel gelmem
 üzerlerine alabilirler.
 Bu suretle elde edilecek para ilk önce üzerlerine alanların alacak ve masraflarının
 ödenmesine karşılık tutulur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

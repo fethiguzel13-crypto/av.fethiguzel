@@ -41,9 +41,7 @@ ayrıca zorunlu olmadıkça fiziki ortamda gönderilmez.
 (11) Ceza muhakemesi işlemlerinin UYAP’ta yapılmasına dair usul ve esaslar, Adalet
 Bakanlığı tarafından çıkarılacak yönetmelikle düzenlenir.
 
-İKİNCİ BÖLÜM
-Süreler ve Eski Hâle Getirme
-Sürelerin hesaplanması
+---
 
 ### Akademik Yorum ve Analiz
 

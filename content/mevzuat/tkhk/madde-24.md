@@ -26,6 +26,8 @@ sayılır. Faiz, akdî faiz oranına göre hesaplanır. Tüketiciden, hesaplanan
 kurum veya kuruluşuna veya üçüncü kişilere ödenmiş olan masraflar dışında herhangi bir
 bedel talep edilemez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

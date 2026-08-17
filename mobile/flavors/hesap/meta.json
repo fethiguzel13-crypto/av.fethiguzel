@@ -5,6 +5,10 @@
   "versionCode": 1,
   "name": "Hukuki Hesap",
   "lang": "tr",
-  "entry": "https://www.avfethiguzel.com/hesaplama?app=hesap&lang=tr&utm_source=android_app&utm_medium=hesap",
-  "builtAt": "2026-08-14T15:06:11.044Z"
+  "accent": "#CC5833",
+  "linkPaths": [
+    "/hesaplama"
+  ],
+  "scheme": "avfethiguzel-hesap",
+  "builtAt": "2026-08-15T05:12:10.916Z"
 }

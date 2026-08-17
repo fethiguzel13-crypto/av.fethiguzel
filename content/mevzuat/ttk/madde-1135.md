@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**III
-- Giderler**
+**III- Giderler**
 
 ---
 
-Madde 1135 - (1) Geminin ticari işletilmesinden doğan, özellikle makinelerinin düzenli bir şekilde işlemesini sağlayacak nitelik ve miktarda yakıtın sağlanması için gerekli giderlere olduğu gibi, tüm giderlere tahsis olunan katlanır.
+MADDE 1135- (1) Geminin ticari işletilmesinden doğan, özellikle makinelerinin
+düzenli bir şekilde işlemesini sağlayacak nitelik ve miktarda yakıtın sağlanması için gerekli
+giderlere olduğu gibi, tüm giderlere tahsis olunan katlanır.
 
 ---
 

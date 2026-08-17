@@ -11,7 +11,8 @@ wordCount: 4298
 
 ---
 
-Madde 171 - Ayrılığa bir yıldan üç yıla kadar bir süre için karar verilebilir. Bu süre ayrılık kararının kesi nleşm esiyl e işlemeye başlar.
+Madde 171- Ayrılığa bir yıldan üç yıla kadar bir süre için karar verilebilir. Bu süre ayrılık
+kararının kesinleşmesiyle işlemeye başlar.
 
 ---
 

@@ -7,11 +7,9 @@ lastReviewed: "2026-07-27"
 wordCount: 2939
 ---
 
-**(Mülga: 13/2/2011 - 6111/117 md.)**
+Madde 113 – (Mülga: 13/2/2011 - 6111/117 md.)
 
 ---
-
-Madde 113 - (Mülga: 13/2/2011 - 6111/117 md.)
 
 ### Akademik Yorum ve Analiz
 

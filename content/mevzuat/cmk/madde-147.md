@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**İfade ve sorgunun tarzı**
+**İKİNCİ BÖLÜM
+İfade ve Sorgu Usulü
+İfade ve sorgunun tarzı**
 
 ---
 
@@ -26,11 +28,7 @@ e) Yüklenen suç hakkında açıklamada bulunmamasının kanunî hakkı olduğu
 f) Şüpheden kurtulması için somut delillerin toplanmasını isteyebileceği hatırlatılır ve
 kendisi aleyhine var olan şüphe nedenlerini ortadan kaldırmak ve lehine olan hususları ileri
 sürmek olanağı tanınır.
-Bu madde başlığı “Şüpheli veya sanığın zorla getirilmesi “ iken, 6/12/2006 tarihli ve 5560 sayılı
-Kanunun 20 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-53
-
-g) İfade verenin veya sorguya çekilenin kişisel ve ekonomik durumu hakkında bilgi alınır.
+g) İfade verenin veya sorguya çekilenin kişisel ve ekonomik durumu hakkında bilgi alınır.
 h) İfade ve sorgu işlemlerinin kaydında, teknik imkânlardan yararlanılır.
 i) İfade veya sorgu bir tutanağa bağlanır. Bu tutanakta aşağıda belirtilen hususlar yer alır:
 1. İfade alma veya sorguya çekme işleminin yapıldığı yer ve tarih.
@@ -41,6 +39,8 @@ getirilmediği, bu işlemler yerine getirilmemiş ise nedenleri.
 4. Tutanak içeriğinin ifade veren veya sorguya çekilen ile hazır olan müdafi tarafından
 okunduğu ve imzalarının alındığı.
 5. İmzadan çekinme hâlinde bunun nedenleri.
+
+---
 
 ### Akademik Yorum ve Analiz
 

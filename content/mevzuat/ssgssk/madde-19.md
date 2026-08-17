@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**çok iş kazası ve meslek hastalığı hali36**
+**Sürekli iş göremezlik gelirine hak kazanma, hesaplanması, başlangıcı ve birden
+çok iş kazası ve meslek hastalığı hali**
 
 ---
 
@@ -27,7 +28,7 @@ oranındaki tutarı kendisine ödenir. Sigortalı, başka birinin sürekli bakı
 bağlama oranı %100 olarak uygulanır.
 4 üncü maddenin birinci fıkrasının (b) bendine göre sigortalı sayılanlara, sürekli iş
 göremezlik geliri bağlanabilmesi için, kendi sigortalılığından dolayı, genel sağlık sigortası
-dahil prim ve prime ilişkin her türlü borçlarının ödenmiş olması zorunludur.37
+dahil prim ve prime ilişkin her türlü borçlarının ödenmiş olması zorunludur.
 (Mülga beşinci fıkra: 17/4/2008-5754/12 md.)
 (Mülga altıncı fıkra: 17/4/2008-5754/12 md.)
 Yukarıdaki fıkralara göre hesaplanan gelir, günlük kazanç hesabına giren son ay ile gelir
@@ -44,15 +45,14 @@ otuzda biri arasındaki fark, her gün için geçici iş göremezlik ödeneği o
 Sigortalının yeniden bir iş kazasına uğraması veya yeni bir meslek hastalığına
 tutulması halinde, meydana gelen engellilik hâllerinin bütünü göz önüne alınarak kendisine,
 sürekli iş göremezliğini doğuran son iş kazası veya meslek hastalığı sırasındaki kazancı
-36 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “özürler” ibaresi “engellilik”, dokuzuncu fıkrasında yer alan “özürlülük” ibaresi “engellilik” şeklinde değiştirilmiştir. 37 17/4/2008 tarihli ve 5754 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “prim ve her türlü borçlarının” ibaresi “prim ve prime ilişkin her türlü borçlarının” şeklinde değiştirilmiştir.
-
-
-üzerinden gelir hesaplanır. Ancak, sigortalının son iş kazası veya meslek hastalığı sırasındaki
+üzerinden gelir hesaplanır. Ancak, sigortalının son iş kazası veya meslek hastalığı sırasındaki
 günlük kazancına göre bulunacak geliri, hesaplanan ilk gelirinden az ise sigortalının sürekli iş
-göremezlik geliri ilk kazanç üzerinden ödenir.38
+göremezlik geliri ilk kazanç üzerinden ödenir.
 İş kazası ve meslek hastalığı sonucu sürekli iş göremezlik hallerinde meslekte
 kazanma gücündeki kayıp oranının belirlenmesine ve bu maddenin uygulanmasına ilişkin
 diğer usûl ve esaslar, Kurum tarafından çıkarılacak yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

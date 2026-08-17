@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**İflas ve konkordato işlerinde hususi menfaat temin edenlerin cezası**
+**İflas ve konkordato işlerinde hususi menfaat temin edenlerin cezası:**
 
 ---
 
@@ -19,7 +19,8 @@ cezalandırılır.
 Menfaat temin eden alacaklı yahut mümessili de aynı ceza ile cezalandırılır.
 Suçun iflas bürosu veya idaresi üyesi tarafından işlenmesi halinde, ceza yarı oranında
 artırılır.
-Ticari işletmede yöneticinin sorumluluğu:
+
+---
 
 ### Akademik Yorum ve Analiz
 

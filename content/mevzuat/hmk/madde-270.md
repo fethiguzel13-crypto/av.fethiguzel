@@ -22,6 +22,8 @@ kılınmış olanlar.
 (2) Bu kişiler, ancak tanıklıktan çekinme sebeplerine veya mahkemece kabul edilebilir
 diğer bir sebebe dayanarak, bilirkişilikten çekinebilirler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

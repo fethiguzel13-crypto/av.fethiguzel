@@ -11,7 +11,11 @@ wordCount: 4261
 
 ---
 
-Madde 766 - Bi r taşınırın mülkiyetini nakleden kimse özel bir hukukî ilişkiy e dayanarak o şeyin zilyetliğini korursa, mülkiyet teslimsiz geçmiş olur. Ancak, bu işlem üçüncü kişileri zarara sokmak veya taşınır rehni kurallarından kurtulmak için yapılmışsa, mülkiyetin nak li sonuç doğurmaz. Böyle bir amaç güdülüp güdülmediğini hâkim takdir eder.
+Madde 766- Bir taşınırın mülkiyetini nakleden kimse özel bir hukukî ilişkiye dayanarak o
+şeyin zilyetliğini korursa, mülkiyet teslimsiz geçmiş olur. Ancak, bu işlem üçüncü kişileri zarara
+sokmak veya taşınır rehni kurallarından kurtulmak için yapılmışsa, mülkiyetin nakli sonuç
+doğurmaz.
+Böyle bir amaç güdülüp güdülmediğini hâkim takdir eder.
 
 ---
 

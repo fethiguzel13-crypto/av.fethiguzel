@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**III
-- Karşılıklı iştirak**
+**III - Karşılıklı iştirak**
 
 ---
 
-Madde 197 - (1) Birbirlerinin paylarının en az dörtte birine sahip bulunan sermaye şirketleri karşılıklı iştirak durumundadır. Bu payların yüzdelerinin hesaplanmasında 196 ncı madde uygulanır. Anılan şirketlerden biri d iğerine hâkimse, ikincisi aynı zamanda bağlı şirket sayılır. Karşılıklı iştirak durumundaki şirketlerin her biri diğerine hâkimse ikisi de bağlı ve hâkim şirket kabul olunur.
+MADDE 197- (1) Birbirlerinin paylarının en az dörtte birine sahip bulunan sermaye
+şirketleri karşılıklı iştirak durumundadır. Bu payların yüzdelerinin hesaplanmasında 196 ncı
+madde uygulanır. Anılan şirketlerden biri diğerine hâkimse, ikincisi aynı zamanda bağlı şirket
+sayılır. Karşılıklı iştirak durumundaki şirketlerin her biri diğerine hâkimse ikisi de bağlı ve
+hâkim şirket kabul olunur.
 
 ---
 

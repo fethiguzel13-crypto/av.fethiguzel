@@ -17,7 +17,7 @@ keywords:
 
 ---
 
-Madde 5 - Kabul için süre belirlenmeksizin hazır olmayan bir kişiye yapılan öneri,
+MADDE 5- Kabul için süre belirlenmeksizin hazır olmayan bir kişiye yapılan öneri,
 zamanında ve usulüne uygun olarak gönderilmiş bir yanıtın ulaşmasının beklenebileceği ana
 kadar, önereni bağlar.
 Öneren, önerisini zamanında ulaşmış sayabilir.

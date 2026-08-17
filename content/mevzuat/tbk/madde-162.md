@@ -7,12 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**A. Müteselsil borçluluk
+**DÖRDÜNCÜ BÖLÜM
+Borç İlişkilerinde Özel Durumlar
+BİRİNCİ AYIRIM
+Teselsül
+A. Müteselsil borçluluk
 I. Doğuşu**
 
 ---
 
-Madde 162 - Birden çok borçludan her biri, alacaklıya karşı borcun tamamından
+MADDE 162- Birden çok borçludan her biri, alacaklıya karşı borcun tamamından
 sorumlu olmayı kabul ettiğini bildirirse, müteselsil borçluluk doğar.
 Böyle bir bildirim yoksa, müteselsil borçluluk ancak kanunda öngörülen hâllerde
 doğar.

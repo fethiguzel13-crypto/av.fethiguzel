@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4321
 ---
 
-**Tasfiyenin tatili**
+**Tasfiyenin tatili:**
 
 ---
 
@@ -15,7 +15,8 @@ Madde 217 – Masaya ait hiç bir mal bulunmazsa iflas dairesi tasfiyenin tatili
 verir ve ilan eder. Bu ilanda alacaklılar tarafından otuz gün içinde iflasa mütaallik
 muamelelerin tatbikına devam edilmesi istenilerek masrafı peşin verilmediği takdirde iflasın
 kapatılacağı yazılır.
-II. ALACAKLILARI DAVET
+
+---
 
 ### Akademik Yorum ve Analiz
 

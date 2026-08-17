@@ -13,7 +13,7 @@ wordCount: 4312
 
 MADDE 46 – (1) Aşağıda belirtilen hâllerde, diğer ikamet izinlerinin verilmesindeki
 şartlar aranmadan, Bakanlıkça belirlenen sürelerle sınırlı olmak kaydıyla ve Genel Müdürlüğün
-onayı alınarak valiliklerce insani ikamet izni verilebilir ve bu izinler uzatılabilir:19
+onayı alınarak valiliklerce insani ikamet izni verilebilir ve bu izinler uzatılabilir:
 a) Çocuğun yüksek yararı söz konusu olduğunda
 b) Haklarında sınır dışı etme veya Türkiye’ye giriş yasağı kararı alındığı hâlde,
 yabancıların Türkiye’den çıkışları yaptırılamadığında ya da Türkiye’den ayrılmaları makul
@@ -30,6 +30,8 @@ izinlerinden birini alma imkânı bulunmadığında
 f) Olağanüstü durumlarda
 (2) İnsani ikamet izni alan yabancılar, iznin veriliş tarihinden itibaren en geç yirmi iş
 günü içinde adres kayıt sistemine kayıt yaptırmak zorundadır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

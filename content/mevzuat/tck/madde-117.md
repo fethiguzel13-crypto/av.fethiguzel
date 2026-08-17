@@ -26,6 +26,8 @@ veya evvelce kabul edilenlerden başka koşullar altında anlaşmalar kabulüne 
 işin durmasına, sona ermesine veya durmanın devamına neden olan kişiye altı aydan üç yıla
 kadar hapis cezası verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -16,9 +16,7 @@ getirildiği ve yüklenicinin bu işten dolayı idareye herhangi bir borcunun ol
 edildikten sonra alınmış olan kesin teminat ve varsa ek kesin teminatların;
 a) Yapım işlerinde; varsa eksik ve kusurların giderilerek geçici kabul tutanağının
 onaylanmasından sonra yarısı, Sosyal Sigortalar Kurumundan ilişiksiz belgesi getirilmesi ve
-
-
-kesin kabul tutanağının onaylanmasından sonra kalanı,
+kesin kabul tutanağının onaylanmasından sonra kalanı,
 b) Yapım işleri dışındaki işlerde Sosyal Sigortalar Kurumundan ilişiksiz belgesinin
 getirildiği saptandıktan sonra; alınan mal veya yapılan iş için bir garanti süresi öngörülmesi halinde
 yarısı, garanti süresi dolduktan sonra kalanı, garanti süresi öngörülmeyen hallerde ise tamamı,
@@ -30,6 +28,8 @@ kabul tarihine, diğer işlerde kabul tarihine veya varsa garanti süresinin bit
 paraya çevrilerek borçlarına karşılık mahsup edilir, varsa kalanı yükleniciye geri verilir.
 İşin konusunun piyasadan hazır halde alınıp satılan mal alımı olması halinde, Sosyal
 Sigortalar Kurumundan ilişiksiz belgesi getirilmesi şartı aranmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -16,6 +16,8 @@ altında suç işleyen kimseye, ağırlaştırılmış müebbet hapis cezası ye
 yirmidört yıla ve müebbet hapis cezası yerine oniki yıldan onsekiz yıla kadar hapis cezası
 verilir. Diğer hallerde verilecek cezanın dörtte birinden dörtte üçüne kadarı indirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

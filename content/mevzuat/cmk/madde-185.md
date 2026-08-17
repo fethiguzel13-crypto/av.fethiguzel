@@ -14,6 +14,8 @@ wordCount: 4268
 Madde 185 – (1) Sanık, onsekiz yaşını doldurmamış ise duruşma kapalı yapılır;
 hüküm de kapalı duruşmada açıklanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

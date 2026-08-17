@@ -7,10 +7,6 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**Birinci sınıf tüccarlar:52**
-
----
-
 Madde 177 – (Değişik 30/12/1980-2365/26 md.)
 Aşağıda yazılı tüccarlar, I inci sınıfa dahildirler:
 1. Satın aldıkları malları olduğu gibi veya işledikten sonra satan ve yıllık alımlarının
@@ -27,7 +23,8 @@ hangisine giriyorsa o bent hükmüne tabidir.);
 esasına göre defter tutmalarına imkan veya lüzum görülmeyenlerin, işletme hesabına göre
 defter tutmalarına Maliye Bakanlığınca müsaade edilir.);
 6. İhtiyari olarak bilanço esasına göre defter tutmayı tercih edenler.
-(Ek fıkra: 21/1/1983-2791/4 md.; Mülga: 4/12/1985-3239/136 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

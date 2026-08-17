@@ -26,6 +26,8 @@ h) Gece vaktinde,
 ağırlaşmış hallerinin gerçekleşmesi durumunda, ayrıca kasten yaralama suçuna ilişkin hükümler
 uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

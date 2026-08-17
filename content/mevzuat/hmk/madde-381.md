@@ -17,6 +17,8 @@ ihtiyaç duyulursa, yargılamanın iadesi talebinde bulunan kimseden teminat al�
 iade talebini inceleyen mahkemece icranın durdurulması kararı verilebilir. Yargılamanın
 iadesi sebebi bir mahkeme kararına dayanıyorsa bu takdirde teminat istenmez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**Madde 1025**
+**bbb) Birden çok sigortacının varlığında**
 
 ---
 
-Madde 1025 - (1) Gemi birden çok sigortacı tarafından müştereken sigorta ed ilmişse 1024 üncü madde gereğince, ipoteğin, malik tarafından, alacaklıya jeran olarak gösterilmiş olan sigortacıya bildirilmesi yeterlidir. Jeran sigortacı, durumu diğer sigortacılara bildirmekle
-yükümlüdür. ccc) İpotekli alacaklının yerleşim yerini deği ştirmesi
+MADDE 1025- (1) Gemi birden çok sigortacı tarafından müştereken sigorta edilmişse
+1024 üncü madde gereğince, ipoteğin, malik tarafından, alacaklıya jeran olarak gösterilmiş
+olan sigortacıya bildirilmesi yeterlidir. Jeran sigortacı, durumu diğer sigortacılara bildirmekle
+yükümlüdür.
 
 ---
 

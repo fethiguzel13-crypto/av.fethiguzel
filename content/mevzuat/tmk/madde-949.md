@@ -7,13 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4263
 ---
 
-**3. Rehnin sırası Ma dde 948
-- Aynı taşınır üzerinde birden çok rehin hakkı bulunduğ u takdirde, alacaklılara rehin haklarının sırasına göre ödeme yapılır. Rehin hakkının sır ası kuruluş tarihine göre belirlenir.
-4. Mülkiyetin geçememesi**
+**4. Mülkiyetin geçememesi**
 
 ---
 
-Madde 949 - Borcun ödenmemesi hâlinde re hinli taşınırın mülkiyetinin alacaklıya geçmesini öngören sözl eşme hükmü geçersizdir.
+Madde 949- Borcun ödenmemesi hâlinde rehinli taşınırın mülkiyetinin alacaklıya
+geçmesini öngören sözleşme hükmü geçersizdir.
 
 ---
 

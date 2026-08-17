@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4280
 ---
 
-**İhtiyari sınıf değiştirme**
+**İhtiyari sınıf değiştirme:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 181 – II nci sınıf tüccarlar diledikleri takdirde bilanço esasına g
 tutabilirler.
 Bu suretle I inci sınıfa dahil olanlar hakkında da evvelki maddenin hükümleri cari
 olur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

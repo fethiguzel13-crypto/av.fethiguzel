@@ -28,7 +28,9 @@ e) (Ek: 20/11/2008-5812/32 md.) Çerçeve anlaşmaya dayalı olarak idare ile y�
 arasında imzalanan münferit sözleşme,
 düzenlenir.
 (Ek fıkra: 1/6/2007-5680/3 md.) Çerçeve anlaşma ve münferit sözleşmede belirtilmesi
-zorunlu olan hususları belirlemeye Kurum yetkilidir.1
+zorunlu olan hususları belirlemeye Kurum yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

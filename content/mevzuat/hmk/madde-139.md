@@ -25,9 +25,7 @@ getirtilecek belgelerin getirtilebilmesi amacıyla gereken açıklamayı yapmala
 verilen süre içinde yerine getirilmemesi hâlinde o delile dayanmaktan vazgeçmiş sayılacaklarına
 karar verileceği.
 
-7/6/2012 tarihli ve 6325 sayılı Kanunun 35 inci maddesiyle, bu fıkrada yer alan “sulhe” ibaresinden
-sonra gelmek üzere “veya arabuluculuğa” ibaresi eklenmiştir.
-14
+---
 
 ### Akademik Yorum ve Analiz
 

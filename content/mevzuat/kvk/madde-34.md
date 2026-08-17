@@ -51,6 +51,8 @@ kendilerinden kesilen vergileri, vergi kesintisi yapanlarca ilgili vergi dairesi
 kesintisinden mahsup edebilirler. Mahsup edilemeyen kesinti tutarı mükellefin başvurusu halinde
 red ve iade edilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

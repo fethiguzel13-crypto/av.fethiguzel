@@ -7,14 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Bakanlığı veya İçişleri Bakanlığı bütçesine konulan ödenekten karşılanır.**
-
----
-
 Madde 12 – Valiler, Devlet genel ve özel hukuku hükümlerine ve ikamet, seyahat,
 konsolosluk, ticaret ve seyrisefain mukavelelerine göre yabancıların hukuki durumlarını ve
 deniz, kara ve hava ticaretlerini ilgilendiren işlerde konsolosluklarla muhabere ve bunların
 müracaat ve ziyaretlerini kabul ederler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

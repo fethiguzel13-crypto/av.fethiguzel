@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**Madde 335**
+**ALTINCI AYIRIM
+VELÂYET
+A. Genel olarak
+I. Koşullar**
 
 ---
 
-Madde 335 - Ergin olmayan çocuk, ana ve babasının velâyeti alt ındadır. Yasal sebep olmadı kça velâyet ana ve babadan alınamaz. Hâkim vasi atanmasına gerek görmedikçe, kısıtlanan ergin çocuklar da ana ve babanın velâyeti altında kalırlar.
+Madde 335- Ergin olmayan çocuk, ana ve babasının velâyeti altındadır. Yasal sebep
+olmadıkça velâyet ana ve babadan alınamaz.
+Hâkim vasi atanmasına gerek görmedikçe, kısıtlanan ergin çocuklar da ana ve babanın
+velâyeti altında kalırlar.
 
 ---
 

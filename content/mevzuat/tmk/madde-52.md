@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**E. Kişiliğin sona ermesi I. Sınırlı devam etme**
+**E. Kişiliğin sona ermesi
+I. Sınırlı devam etme**
 
 ---
 
-Madde 52 - Sona eren tüzel kişinin kişiliği, ehliyeti tasfiye amacı yla s ınırlı olmak üzere tasfiye sırasında da devam eder.
+Madde 52- Sona eren tüzel kişinin kişiliği, ehliyeti tasfiye amacıyla sınırlı olmak üzere
+tasfiye sırasında da devam eder.
 
 ---
 

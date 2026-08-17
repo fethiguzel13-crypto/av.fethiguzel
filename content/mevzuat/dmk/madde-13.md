@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Kişilerin uğradıkları zararlar**
+**Kişilerin uğradıkları zararlar:**
 
 ---
 
@@ -26,6 +26,8 @@ da yukarıdaki fıkra hükmü uygulanır.
 12 nci maddeyle bu maddede belirtilen zararların nevi, miktarlarının tespiti, takibi,
 amirlerin sorumlulukları ve yapılacak işlemlerle ilgili diğer hususlar Cumhurbaşkanınca
 düzenlenecek yönetmelikle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

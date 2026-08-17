@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Amme alacaklarını kesip ödemek mecburiyetinde olanlar**
+**Amme alacaklarını kesip ödemek mecburiyetinde olanlar:**
 
 ---
 
@@ -16,8 +16,7 @@ mecburiyetinde olan hakiki ve hükmi şahıslar, bu vazifelerini kanunlarında v
 belli edilen zamanlarda yerine getirmedikleri takdirde, ödenmiyen alacak bu hakiki ve hükmi
 şahıslardan bu kanun hükümlerine göre tahsil olunur.
 
-Amme alacağı ödenmeden yapılmayacak işlemler ile işlem yapanların
-sorumlulukları:
+---
 
 ### Akademik Yorum ve Analiz
 

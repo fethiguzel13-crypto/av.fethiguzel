@@ -32,6 +32,8 @@ j) Kurul Başkanı adına imzaya yetkili personelin görev ve yetki alanını be
 k) (Ek: 24/10/2011-KHK-661/56 md.) Başkan Yardımcıları ve Baş Hukuk Müşaviri
 hariç Kurum personelini atamak.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

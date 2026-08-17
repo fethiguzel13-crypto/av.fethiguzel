@@ -96,7 +96,7 @@ export default function HizmetBolgeleriPage() {
                     ))}
                 </div>
 
-                <div className="mt-12 flex items-start gap-3 rounded-2xl border border-charcoal/8 bg-white p-5 text-sm text-charcoal/60">
+                <div className="mt-12 flex items-start gap-3 rounded-2xl border border-charcoal/[0.08] bg-white p-5 text-sm text-charcoal/60">
                     <BookOpen className="text-accent shrink-0 mt-0.5" size={18} />
                     <p>
                         Daha geniş konu seti için 550+ sayfalık{' '}

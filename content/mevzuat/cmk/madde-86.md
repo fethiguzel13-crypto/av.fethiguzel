@@ -19,6 +19,8 @@ belirlemek için tüm bulgular saptanır.
 (3) Bu muayene, Cumhuriyet savcısının huzurunda ve bir hekim görevlendirilerek
 yapılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

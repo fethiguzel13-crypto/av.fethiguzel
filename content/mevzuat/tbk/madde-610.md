@@ -11,11 +11,8 @@ wordCount: 4276
 
 ---
 
-Madde 610 - Sözleşmeyle aksi kararlaştırılmamışsa gelir alacaklısı, haklarını başkasına
+MADDE 610- Sözleşmeyle aksi kararlaştırılmamışsa gelir alacaklısı, haklarını başkasına
 devredebilir.
-
-İKİNCİ AYIRIM
-Ölünceye Kadar Bakma Sözleşmesi
 
 ---
 

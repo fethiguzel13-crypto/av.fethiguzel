@@ -24,6 +24,8 @@ tutularak sözleşmeler ile aralı olarak kullandırılabilir.
 Dinlenmeler bir işyerinde işçilere aynı veya değişik saatlerde kullandırılabilir.
 Ara dinlenmeleri çalışma süresinden sayılmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

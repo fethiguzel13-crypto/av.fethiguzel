@@ -14,6 +14,8 @@ wordCount: 4263
 MADDE 134- (1) Asıl davanın herhangi bir sebeple sona ermesi, karşı davanın
 görülüp karara bağlanmasına engel oluşturmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

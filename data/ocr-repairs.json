@@ -1,0 +1,6998 @@
+{
+  "generatedAt": "2026-08-15T05:34:35.205Z",
+  "method": "birleşik ≥20 kez geçiyor VE parçalardan biri <50 kez geçiyor",
+  "totalPatterns": 1398,
+  "totalOccurrences": 1728,
+  "repairs": [
+    {
+      "from": "el koyma",
+      "to": "elkoyma",
+      "n": 16
+    },
+    {
+      "from": "gayri safi",
+      "to": "gayrisafi",
+      "n": 11
+    },
+    {
+      "from": "ma dde",
+      "to": "madde",
+      "n": 11
+    },
+    {
+      "from": "iş verenler",
+      "to": "işverenler",
+      "n": 9
+    },
+    {
+      "from": "ay başında",
+      "to": "aybaşında",
+      "n": 7
+    },
+    {
+      "from": "an cak",
+      "to": "ancak",
+      "n": 6
+    },
+    {
+      "from": "vesay et",
+      "to": "vesayet",
+      "n": 6
+    },
+    {
+      "from": "iş yerlerinin",
+      "to": "işyerlerinin",
+      "n": 5
+    },
+    {
+      "from": "bağ lı",
+      "to": "bağlı",
+      "n": 4
+    },
+    {
+      "from": "büyük şehir",
+      "to": "büyükşehir",
+      "n": 4
+    },
+    {
+      "from": "çık arılan",
+      "to": "çıkarılan",
+      "n": 4
+    },
+    {
+      "from": "iş yerlerinde",
+      "to": "işyerlerinde",
+      "n": 4
+    },
+    {
+      "from": "iyi niyetli",
+      "to": "iyiniyetli",
+      "n": 4
+    },
+    {
+      "from": "mad de",
+      "to": "madde",
+      "n": 4
+    },
+    {
+      "from": "mal varlığının",
+      "to": "malvarlığının",
+      "n": 4
+    },
+    {
+      "from": "mirasb ırakanın",
+      "to": "mirasbırakanın",
+      "n": 4
+    },
+    {
+      "from": "ol arak",
+      "to": "olarak",
+      "n": 4
+    },
+    {
+      "from": "ya sal",
+      "to": "yasal",
+      "n": 4
+    },
+    {
+      "from": "yas al",
+      "to": "yasal",
+      "n": 4
+    },
+    {
+      "from": "yüz ölçümü",
+      "to": "yüzölçümü",
+      "n": 4
+    },
+    {
+      "from": "ama cıyla",
+      "to": "amacıyla",
+      "n": 3
+    },
+    {
+      "from": "anc ak",
+      "to": "ancak",
+      "n": 3
+    },
+    {
+      "from": "bi rinci",
+      "to": "birinci",
+      "n": 3
+    },
+    {
+      "from": "bo şaltma",
+      "to": "boşaltma",
+      "n": 3
+    },
+    {
+      "from": "ço cuğun",
+      "to": "çocuğun",
+      "n": 3
+    },
+    {
+      "from": "di ğer",
+      "to": "diğer",
+      "n": 3
+    },
+    {
+      "from": "diğ er",
+      "to": "diğer",
+      "n": 3
+    },
+    {
+      "from": "gerek li",
+      "to": "gerekli",
+      "n": 3
+    },
+    {
+      "from": "ha klı",
+      "to": "haklı",
+      "n": 3
+    },
+    {
+      "from": "hak kı",
+      "to": "hakkı",
+      "n": 3
+    },
+    {
+      "from": "hüküml eri",
+      "to": "hükümleri",
+      "n": 3
+    },
+    {
+      "from": "iç inde",
+      "to": "içinde",
+      "n": 3
+    },
+    {
+      "from": "il işkin",
+      "to": "ilişkin",
+      "n": 3
+    },
+    {
+      "from": "iş verenden",
+      "to": "işverenden",
+      "n": 3
+    },
+    {
+      "from": "iş verene",
+      "to": "işverene",
+      "n": 3
+    },
+    {
+      "from": "ka rarı",
+      "to": "kararı",
+      "n": 3
+    },
+    {
+      "from": "ke ndi",
+      "to": "kendi",
+      "n": 3
+    },
+    {
+      "from": "ken di",
+      "to": "kendi",
+      "n": 3
+    },
+    {
+      "from": "men edilir",
+      "to": "menedilir",
+      "n": 3
+    },
+    {
+      "from": "mi rasbırakanın",
+      "to": "mirasbırakanın",
+      "n": 3
+    },
+    {
+      "from": "mira sbırakanın",
+      "to": "mirasbırakanın",
+      "n": 3
+    },
+    {
+      "from": "ol an",
+      "to": "olan",
+      "n": 3
+    },
+    {
+      "from": "olar ak",
+      "to": "olarak",
+      "n": 3
+    },
+    {
+      "from": "olma sı",
+      "to": "olması",
+      "n": 3
+    },
+    {
+      "from": "sakl ıdır",
+      "to": "saklıdır",
+      "n": 3
+    },
+    {
+      "from": "say ılı",
+      "to": "sayılı",
+      "n": 3
+    },
+    {
+      "from": "so na",
+      "to": "sona",
+      "n": 3
+    },
+    {
+      "from": "şir ket",
+      "to": "şirket",
+      "n": 3
+    },
+    {
+      "from": "şirk etin",
+      "to": "şirketin",
+      "n": 3
+    },
+    {
+      "from": "ta rafından",
+      "to": "tarafından",
+      "n": 3
+    },
+    {
+      "from": "tama men",
+      "to": "tamamen",
+      "n": 3
+    },
+    {
+      "from": "taşı nmazın",
+      "to": "taşınmazın",
+      "n": 3
+    },
+    {
+      "from": "taşın maz",
+      "to": "taşınmaz",
+      "n": 3
+    },
+    {
+      "from": "un cu",
+      "to": "uncu",
+      "n": 3
+    },
+    {
+      "from": "üçün cü",
+      "to": "üçüncü",
+      "n": 3
+    },
+    {
+      "from": "üze re",
+      "to": "üzere",
+      "n": 3
+    },
+    {
+      "from": "üzer ine",
+      "to": "üzerine",
+      "n": 3
+    },
+    {
+      "from": "ve sayet",
+      "to": "vesayet",
+      "n": 3
+    },
+    {
+      "from": "zaman aşımı",
+      "to": "zamanaşımı",
+      "n": 3
+    },
+    {
+      "from": "ak si",
+      "to": "aksi",
+      "n": 2
+    },
+    {
+      "from": "al an",
+      "to": "alan",
+      "n": 2
+    },
+    {
+      "from": "al ınması",
+      "to": "alınması",
+      "n": 2
+    },
+    {
+      "from": "alacaklı lar",
+      "to": "alacaklılar",
+      "n": 2
+    },
+    {
+      "from": "alk ol",
+      "to": "alkol",
+      "n": 2
+    },
+    {
+      "from": "ba banın",
+      "to": "babanın",
+      "n": 2
+    },
+    {
+      "from": "belgel er",
+      "to": "belgeler",
+      "n": 2
+    },
+    {
+      "from": "beli rli",
+      "to": "belirli",
+      "n": 2
+    },
+    {
+      "from": "belir li",
+      "to": "belirli",
+      "n": 2
+    },
+    {
+      "from": "belirlen en",
+      "to": "belirlenen",
+      "n": 2
+    },
+    {
+      "from": "bi ri",
+      "to": "biri",
+      "n": 2
+    },
+    {
+      "from": "bi rinin",
+      "to": "birinin",
+      "n": 2
+    },
+    {
+      "from": "bor çluya",
+      "to": "borçluya",
+      "n": 2
+    },
+    {
+      "from": "bü tün",
+      "to": "bütün",
+      "n": 2
+    },
+    {
+      "from": "büt ün",
+      "to": "bütün",
+      "n": 2
+    },
+    {
+      "from": "ço cuk",
+      "to": "çocuk",
+      "n": 2
+    },
+    {
+      "from": "çoc uk",
+      "to": "çocuk",
+      "n": 2
+    },
+    {
+      "from": "de ğeri",
+      "to": "değeri",
+      "n": 2
+    },
+    {
+      "from": "de netim",
+      "to": "denetim",
+      "n": 2
+    },
+    {
+      "from": "deği ldir",
+      "to": "değildir",
+      "n": 2
+    },
+    {
+      "from": "doldu rmuş",
+      "to": "doldurmuş",
+      "n": 2
+    },
+    {
+      "from": "duru mun",
+      "to": "durumun",
+      "n": 2
+    },
+    {
+      "from": "ev lenme",
+      "to": "evlenme",
+      "n": 2
+    },
+    {
+      "from": "ge nel",
+      "to": "genel",
+      "n": 2
+    },
+    {
+      "from": "ge rekli",
+      "to": "gerekli",
+      "n": 2
+    },
+    {
+      "from": "geçer li",
+      "to": "geçerli",
+      "n": 2
+    },
+    {
+      "from": "gemin in",
+      "to": "geminin",
+      "n": 2
+    },
+    {
+      "from": "gen el",
+      "to": "genel",
+      "n": 2
+    },
+    {
+      "from": "ger ekli",
+      "to": "gerekli",
+      "n": 2
+    },
+    {
+      "from": "gere kli",
+      "to": "gerekli",
+      "n": 2
+    },
+    {
+      "from": "gide rleri",
+      "to": "giderleri",
+      "n": 2
+    },
+    {
+      "from": "ha kkında",
+      "to": "hakkında",
+      "n": 2
+    },
+    {
+      "from": "hâ linde",
+      "to": "hâlinde",
+      "n": 2
+    },
+    {
+      "from": "hak kında",
+      "to": "hakkında",
+      "n": 2
+    },
+    {
+      "from": "hak lı",
+      "to": "haklı",
+      "n": 2
+    },
+    {
+      "from": "hâl lerde",
+      "to": "hâllerde",
+      "n": 2
+    },
+    {
+      "from": "hâli nde",
+      "to": "hâlinde",
+      "n": 2
+    },
+    {
+      "from": "hâlin de",
+      "to": "hâlinde",
+      "n": 2
+    },
+    {
+      "from": "hüküm ler",
+      "to": "hükümler",
+      "n": 2
+    },
+    {
+      "from": "hüküm lerine",
+      "to": "hükümlerine",
+      "n": 2
+    },
+    {
+      "from": "ibar esi",
+      "to": "ibaresi",
+      "n": 2
+    },
+    {
+      "from": "içi nde",
+      "to": "içinde",
+      "n": 2
+    },
+    {
+      "from": "ili şkin",
+      "to": "ilişkin",
+      "n": 2
+    },
+    {
+      "from": "iliş kin",
+      "to": "ilişkin",
+      "n": 2
+    },
+    {
+      "from": "in ci",
+      "to": "inci",
+      "n": 2
+    },
+    {
+      "from": "int ifa",
+      "to": "intifa",
+      "n": 2
+    },
+    {
+      "from": "inti fa",
+      "to": "intifa",
+      "n": 2
+    },
+    {
+      "from": "ipo teğin",
+      "to": "ipoteğin",
+      "n": 2
+    },
+    {
+      "from": "ipot ek",
+      "to": "ipotek",
+      "n": 2
+    },
+    {
+      "from": "is pat",
+      "to": "ispat",
+      "n": 2
+    },
+    {
+      "from": "ist eme",
+      "to": "isteme",
+      "n": 2
+    },
+    {
+      "from": "ist eyebilir",
+      "to": "isteyebilir",
+      "n": 2
+    },
+    {
+      "from": "iyi niyetle",
+      "to": "iyiniyetle",
+      "n": 2
+    },
+    {
+      "from": "ka nununun",
+      "to": "kanununun",
+      "n": 2
+    },
+    {
+      "from": "ka psamı",
+      "to": "kapsamı",
+      "n": 2
+    },
+    {
+      "from": "ka rar",
+      "to": "karar",
+      "n": 2
+    },
+    {
+      "from": "ka ydıyla",
+      "to": "kaydıyla",
+      "n": 2
+    },
+    {
+      "from": "kald ırılması",
+      "to": "kaldırılması",
+      "n": 2
+    },
+    {
+      "from": "kanun unun",
+      "to": "kanununun",
+      "n": 2
+    },
+    {
+      "from": "kap samı",
+      "to": "kapsamı",
+      "n": 2
+    },
+    {
+      "from": "kendiliğind en",
+      "to": "kendiliğinden",
+      "n": 2
+    },
+    {
+      "from": "kendis ine",
+      "to": "kendisine",
+      "n": 2
+    },
+    {
+      "from": "kısm en",
+      "to": "kısmen",
+      "n": 2
+    },
+    {
+      "from": "kim se",
+      "to": "kimse",
+      "n": 2
+    },
+    {
+      "from": "kişis el",
+      "to": "kişisel",
+      "n": 2
+    },
+    {
+      "from": "koru nması",
+      "to": "korunması",
+      "n": 2
+    },
+    {
+      "from": "korun ması",
+      "to": "korunması",
+      "n": 2
+    },
+    {
+      "from": "kur ulması",
+      "to": "kurulması",
+      "n": 2
+    },
+    {
+      "from": "kuru lu",
+      "to": "kurulu",
+      "n": 2
+    },
+    {
+      "from": "kuru ma",
+      "to": "kuruma",
+      "n": 2
+    },
+    {
+      "from": "ma lik",
+      "to": "malik",
+      "n": 2
+    },
+    {
+      "from": "ma liki",
+      "to": "maliki",
+      "n": 2
+    },
+    {
+      "from": "mahk emesi",
+      "to": "mahkemesi",
+      "n": 2
+    },
+    {
+      "from": "mahke me",
+      "to": "mahkeme",
+      "n": 2
+    },
+    {
+      "from": "mal ın",
+      "to": "malın",
+      "n": 2
+    },
+    {
+      "from": "mir asbırakan",
+      "to": "mirasbırakan",
+      "n": 2
+    },
+    {
+      "from": "mira sı",
+      "to": "mirası",
+      "n": 2
+    },
+    {
+      "from": "mira sın",
+      "to": "mirasın",
+      "n": 2
+    },
+    {
+      "from": "miras bırakan",
+      "to": "mirasbırakan",
+      "n": 2
+    },
+    {
+      "from": "mirasbıra kanın",
+      "to": "mirasbırakanın",
+      "n": 2
+    },
+    {
+      "from": "mirasbırak an",
+      "to": "mirasbırakan",
+      "n": 2
+    },
+    {
+      "from": "naf aka",
+      "to": "nafaka",
+      "n": 2
+    },
+    {
+      "from": "olağanü stü",
+      "to": "olağanüstü",
+      "n": 2
+    },
+    {
+      "from": "olm ası",
+      "to": "olması",
+      "n": 2
+    },
+    {
+      "from": "olmadı kça",
+      "to": "olmadıkça",
+      "n": 2
+    },
+    {
+      "from": "olmay an",
+      "to": "olmayan",
+      "n": 2
+    },
+    {
+      "from": "or anında",
+      "to": "oranında",
+      "n": 2
+    },
+    {
+      "from": "ortakl ık",
+      "to": "ortaklık",
+      "n": 2
+    },
+    {
+      "from": "öl üme",
+      "to": "ölüme",
+      "n": 2
+    },
+    {
+      "from": "ön görülmüş",
+      "to": "öngörülmüş",
+      "n": 2
+    },
+    {
+      "from": "önc eden",
+      "to": "önceden",
+      "n": 2
+    },
+    {
+      "from": "pay ları",
+      "to": "payları",
+      "n": 2
+    },
+    {
+      "from": "paylaş ma",
+      "to": "paylaşma",
+      "n": 2
+    },
+    {
+      "from": "rı za",
+      "to": "rıza",
+      "n": 2
+    },
+    {
+      "from": "sa yılı",
+      "to": "sayılı",
+      "n": 2
+    },
+    {
+      "from": "sah ip",
+      "to": "sahip",
+      "n": 2
+    },
+    {
+      "from": "saklı dır",
+      "to": "saklıdır",
+      "n": 2
+    },
+    {
+      "from": "sayı lır",
+      "to": "sayılır",
+      "n": 2
+    },
+    {
+      "from": "se bepleri",
+      "to": "sebepleri",
+      "n": 2
+    },
+    {
+      "from": "serm aye",
+      "to": "sermaye",
+      "n": 2
+    },
+    {
+      "from": "sermay esi",
+      "to": "sermayesi",
+      "n": 2
+    },
+    {
+      "from": "so nra",
+      "to": "sonra",
+      "n": 2
+    },
+    {
+      "from": "son radan",
+      "to": "sonradan",
+      "n": 2
+    },
+    {
+      "from": "sorum luluğu",
+      "to": "sorumluluğu",
+      "n": 2
+    },
+    {
+      "from": "söz leşme",
+      "to": "sözleşme",
+      "n": 2
+    },
+    {
+      "from": "söz leşmenin",
+      "to": "sözleşmenin",
+      "n": 2
+    },
+    {
+      "from": "sözl eşme",
+      "to": "sözleşme",
+      "n": 2
+    },
+    {
+      "from": "sü re",
+      "to": "süre",
+      "n": 2
+    },
+    {
+      "from": "süre ler",
+      "to": "süreler",
+      "n": 2
+    },
+    {
+      "from": "şe kil",
+      "to": "şekil",
+      "n": 2
+    },
+    {
+      "from": "şeklin de",
+      "to": "şeklinde",
+      "n": 2
+    },
+    {
+      "from": "şirketl er",
+      "to": "şirketler",
+      "n": 2
+    },
+    {
+      "from": "ta kdirde",
+      "to": "takdirde",
+      "n": 2
+    },
+    {
+      "from": "ta rihli",
+      "to": "tarihli",
+      "n": 2
+    },
+    {
+      "from": "tar afından",
+      "to": "tarafından",
+      "n": 2
+    },
+    {
+      "from": "taraf ından",
+      "to": "tarafından",
+      "n": 2
+    },
+    {
+      "from": "tasfi ye",
+      "to": "tasfiye",
+      "n": 2
+    },
+    {
+      "from": "taşı nmaz",
+      "to": "taşınmaz",
+      "n": 2
+    },
+    {
+      "from": "taz minat",
+      "to": "tazminat",
+      "n": 2
+    },
+    {
+      "from": "tazmin at",
+      "to": "tazminat",
+      "n": 2
+    },
+    {
+      "from": "te scil",
+      "to": "tescil",
+      "n": 2
+    },
+    {
+      "from": "ti caret",
+      "to": "ticaret",
+      "n": 2
+    },
+    {
+      "from": "ti cari",
+      "to": "ticari",
+      "n": 2
+    },
+    {
+      "from": "tica ret",
+      "to": "ticaret",
+      "n": 2
+    },
+    {
+      "from": "tür kiye",
+      "to": "türkiye",
+      "n": 2
+    },
+    {
+      "from": "ulus lararası",
+      "to": "uluslararası",
+      "n": 2
+    },
+    {
+      "from": "uy arınca",
+      "to": "uyarınca",
+      "n": 2
+    },
+    {
+      "from": "uyarı nca",
+      "to": "uyarınca",
+      "n": 2
+    },
+    {
+      "from": "uygu lanır",
+      "to": "uygulanır",
+      "n": 2
+    },
+    {
+      "from": "uygul anır",
+      "to": "uygulanır",
+      "n": 2
+    },
+    {
+      "from": "üze rinde",
+      "to": "üzerinde",
+      "n": 2
+    },
+    {
+      "from": "üzerin de",
+      "to": "üzerinde",
+      "n": 2
+    },
+    {
+      "from": "vak ıf",
+      "to": "vakıf",
+      "n": 2
+    },
+    {
+      "from": "vakf ın",
+      "to": "vakfın",
+      "n": 2
+    },
+    {
+      "from": "var sa",
+      "to": "varsa",
+      "n": 2
+    },
+    {
+      "from": "ver ir",
+      "to": "verir",
+      "n": 2
+    },
+    {
+      "from": "veril ebilir",
+      "to": "verilebilir",
+      "n": 2
+    },
+    {
+      "from": "ves ayet",
+      "to": "vesayet",
+      "n": 2
+    },
+    {
+      "from": "vesa yet",
+      "to": "vesayet",
+      "n": 2
+    },
+    {
+      "from": "yaba ncı",
+      "to": "yabancı",
+      "n": 2
+    },
+    {
+      "from": "yap ılır",
+      "to": "yapılır",
+      "n": 2
+    },
+    {
+      "from": "yapı lacak",
+      "to": "yapılacak",
+      "n": 2
+    },
+    {
+      "from": "yapı lan",
+      "to": "yapılan",
+      "n": 2
+    },
+    {
+      "from": "yapıl an",
+      "to": "yapılan",
+      "n": 2
+    },
+    {
+      "from": "yapılma sına",
+      "to": "yapılmasına",
+      "n": 2
+    },
+    {
+      "from": "yargıla ma",
+      "to": "yargılama",
+      "n": 2
+    },
+    {
+      "from": "ye rine",
+      "to": "yerine",
+      "n": 2
+    },
+    {
+      "from": "ye tkilidir",
+      "to": "yetkilidir",
+      "n": 2
+    },
+    {
+      "from": "yo luyla",
+      "to": "yoluyla",
+      "n": 2
+    },
+    {
+      "from": "yük ümlüdür",
+      "to": "yükümlüdür",
+      "n": 2
+    },
+    {
+      "from": "zaman aşımına",
+      "to": "zamanaşımına",
+      "n": 2
+    },
+    {
+      "from": "zi lyet",
+      "to": "zilyet",
+      "n": 2
+    },
+    {
+      "from": "zil yetliğin",
+      "to": "zilyetliğin",
+      "n": 2
+    },
+    {
+      "from": "aç ılacak",
+      "to": "açılacak",
+      "n": 1
+    },
+    {
+      "from": "aç ılan",
+      "to": "açılan",
+      "n": 1
+    },
+    {
+      "from": "açab ilir",
+      "to": "açabilir",
+      "n": 1
+    },
+    {
+      "from": "açabi lir",
+      "to": "açabilir",
+      "n": 1
+    },
+    {
+      "from": "açıklam aları",
+      "to": "açıklamaları",
+      "n": 1
+    },
+    {
+      "from": "adı na",
+      "to": "adına",
+      "n": 1
+    },
+    {
+      "from": "ağ ır",
+      "to": "ağır",
+      "n": 1
+    },
+    {
+      "from": "ai le",
+      "to": "aile",
+      "n": 1
+    },
+    {
+      "from": "ai ttir",
+      "to": "aittir",
+      "n": 1
+    },
+    {
+      "from": "ailen in",
+      "to": "ailenin",
+      "n": 1
+    },
+    {
+      "from": "ait tir",
+      "to": "aittir",
+      "n": 1
+    },
+    {
+      "from": "ak ıl",
+      "to": "akıl",
+      "n": 1
+    },
+    {
+      "from": "ak sine",
+      "to": "aksine",
+      "n": 1
+    },
+    {
+      "from": "aksi ni",
+      "to": "aksini",
+      "n": 1
+    },
+    {
+      "from": "al acağın",
+      "to": "alacağın",
+      "n": 1
+    },
+    {
+      "from": "al acak",
+      "to": "alacak",
+      "n": 1
+    },
+    {
+      "from": "al acaklı",
+      "to": "alacaklı",
+      "n": 1
+    },
+    {
+      "from": "al acaklılar",
+      "to": "alacaklılar",
+      "n": 1
+    },
+    {
+      "from": "al acaklının",
+      "to": "alacaklının",
+      "n": 1
+    },
+    {
+      "from": "al acaklıya",
+      "to": "alacaklıya",
+      "n": 1
+    },
+    {
+      "from": "al ır",
+      "to": "alır",
+      "n": 1
+    },
+    {
+      "from": "al tına",
+      "to": "altına",
+      "n": 1
+    },
+    {
+      "from": "al tında",
+      "to": "altında",
+      "n": 1
+    },
+    {
+      "from": "ala cağı",
+      "to": "alacağı",
+      "n": 1
+    },
+    {
+      "from": "ala cağının",
+      "to": "alacağının",
+      "n": 1
+    },
+    {
+      "from": "ala caklarından",
+      "to": "alacaklarından",
+      "n": 1
+    },
+    {
+      "from": "ala caklı",
+      "to": "alacaklı",
+      "n": 1
+    },
+    {
+      "from": "alabi lir",
+      "to": "alabilir",
+      "n": 1
+    },
+    {
+      "from": "alac aklının",
+      "to": "alacaklının",
+      "n": 1
+    },
+    {
+      "from": "alaca kları",
+      "to": "alacakları",
+      "n": 1
+    },
+    {
+      "from": "alaca klı",
+      "to": "alacaklı",
+      "n": 1
+    },
+    {
+      "from": "alacakl arına",
+      "to": "alacaklarına",
+      "n": 1
+    },
+    {
+      "from": "alacakl ılar",
+      "to": "alacaklılar",
+      "n": 1
+    },
+    {
+      "from": "alacaklıla rın",
+      "to": "alacaklıların",
+      "n": 1
+    },
+    {
+      "from": "alacaklıları na",
+      "to": "alacaklılarına",
+      "n": 1
+    },
+    {
+      "from": "alanı nda",
+      "to": "alanında",
+      "n": 1
+    },
+    {
+      "from": "alanın da",
+      "to": "alanında",
+      "n": 1
+    },
+    {
+      "from": "aldı ğı",
+      "to": "aldığı",
+      "n": 1
+    },
+    {
+      "from": "alı nmış",
+      "to": "alınmış",
+      "n": 1
+    },
+    {
+      "from": "alın mak",
+      "to": "alınmak",
+      "n": 1
+    },
+    {
+      "from": "alınd ığı",
+      "to": "alındığı",
+      "n": 1
+    },
+    {
+      "from": "alınma sı",
+      "to": "alınması",
+      "n": 1
+    },
+    {
+      "from": "alt soy",
+      "to": "altsoy",
+      "n": 1
+    },
+    {
+      "from": "altı nda",
+      "to": "altında",
+      "n": 1
+    },
+    {
+      "from": "altı ndaki",
+      "to": "altındaki",
+      "n": 1
+    },
+    {
+      "from": "altın cı",
+      "to": "altıncı",
+      "n": 1
+    },
+    {
+      "from": "altın daki",
+      "to": "altındaki",
+      "n": 1
+    },
+    {
+      "from": "amac ıyla",
+      "to": "amacıyla",
+      "n": 1
+    },
+    {
+      "from": "amacı yla",
+      "to": "amacıyla",
+      "n": 1
+    },
+    {
+      "from": "amacıy la",
+      "to": "amacıyla",
+      "n": 1
+    },
+    {
+      "from": "an ayasa",
+      "to": "anayasa",
+      "n": 1
+    },
+    {
+      "from": "anlaşı lırsa",
+      "to": "anlaşılırsa",
+      "n": 1
+    },
+    {
+      "from": "anlaşı lmadıkça",
+      "to": "anlaşılmadıkça",
+      "n": 1
+    },
+    {
+      "from": "anlaşılı rsa",
+      "to": "anlaşılırsa",
+      "n": 1
+    },
+    {
+      "from": "anlaşılır sa",
+      "to": "anlaşılırsa",
+      "n": 1
+    },
+    {
+      "from": "anlaşılma sı",
+      "to": "anlaşılması",
+      "n": 1
+    },
+    {
+      "from": "anon im",
+      "to": "anonim",
+      "n": 1
+    },
+    {
+      "from": "ar asında",
+      "to": "arasında",
+      "n": 1
+    },
+    {
+      "from": "ar tırma",
+      "to": "artırma",
+      "n": 1
+    },
+    {
+      "from": "ara cılık",
+      "to": "aracılık",
+      "n": 1
+    },
+    {
+      "from": "ara ştırma",
+      "to": "araştırma",
+      "n": 1
+    },
+    {
+      "from": "aracı lık",
+      "to": "aracılık",
+      "n": 1
+    },
+    {
+      "from": "art ış",
+      "to": "artış",
+      "n": 1
+    },
+    {
+      "from": "as gari",
+      "to": "asgari",
+      "n": 1
+    },
+    {
+      "from": "as liye",
+      "to": "asliye",
+      "n": 1
+    },
+    {
+      "from": "aş ağı",
+      "to": "aşağı",
+      "n": 1
+    },
+    {
+      "from": "aşağı daki",
+      "to": "aşağıdaki",
+      "n": 1
+    },
+    {
+      "from": "at anır",
+      "to": "atanır",
+      "n": 1
+    },
+    {
+      "from": "at anmış",
+      "to": "atanmış",
+      "n": 1
+    },
+    {
+      "from": "ay ırt",
+      "to": "ayırt",
+      "n": 1
+    },
+    {
+      "from": "ay rıca",
+      "to": "ayrıca",
+      "n": 1
+    },
+    {
+      "from": "ay rılma",
+      "to": "ayrılma",
+      "n": 1
+    },
+    {
+      "from": "aydın latma",
+      "to": "aydınlatma",
+      "n": 1
+    },
+    {
+      "from": "ayı rt",
+      "to": "ayırt",
+      "n": 1
+    },
+    {
+      "from": "azalt ılması",
+      "to": "azaltılması",
+      "n": 1
+    },
+    {
+      "from": "ba kanlar",
+      "to": "bakanlar",
+      "n": 1
+    },
+    {
+      "from": "ba şka",
+      "to": "başka",
+      "n": 1
+    },
+    {
+      "from": "ba şkasına",
+      "to": "başkasına",
+      "n": 1
+    },
+    {
+      "from": "ba şlayarak",
+      "to": "başlayarak",
+      "n": 1
+    },
+    {
+      "from": "bab anın",
+      "to": "babanın",
+      "n": 1
+    },
+    {
+      "from": "baba dan",
+      "to": "babadan",
+      "n": 1
+    },
+    {
+      "from": "bağla nmış",
+      "to": "bağlanmış",
+      "n": 1
+    },
+    {
+      "from": "bağlay ıcı",
+      "to": "bağlayıcı",
+      "n": 1
+    },
+    {
+      "from": "bak iye",
+      "to": "bakiye",
+      "n": 1
+    },
+    {
+      "from": "bakanl ığının",
+      "to": "bakanlığının",
+      "n": 1
+    },
+    {
+      "from": "bakı mı",
+      "to": "bakımı",
+      "n": 1
+    },
+    {
+      "from": "bakılm aksızın",
+      "to": "bakılmaksızın",
+      "n": 1
+    },
+    {
+      "from": "bakılmaksız ın",
+      "to": "bakılmaksızın",
+      "n": 1
+    },
+    {
+      "from": "bakımın dan",
+      "to": "bakımından",
+      "n": 1
+    },
+    {
+      "from": "banka lar",
+      "to": "bankalar",
+      "n": 1
+    },
+    {
+      "from": "baş ka",
+      "to": "başka",
+      "n": 1
+    },
+    {
+      "from": "baş layarak",
+      "to": "başlayarak",
+      "n": 1
+    },
+    {
+      "from": "baş vurma",
+      "to": "başvurma",
+      "n": 1
+    },
+    {
+      "from": "baş vurulması",
+      "to": "başvurulması",
+      "n": 1
+    },
+    {
+      "from": "başı na",
+      "to": "başına",
+      "n": 1
+    },
+    {
+      "from": "başk ası",
+      "to": "başkası",
+      "n": 1
+    },
+    {
+      "from": "başka sına",
+      "to": "başkasına",
+      "n": 1
+    },
+    {
+      "from": "başka sının",
+      "to": "başkasının",
+      "n": 1
+    },
+    {
+      "from": "başkal arına",
+      "to": "başkalarına",
+      "n": 1
+    },
+    {
+      "from": "başlad ığı",
+      "to": "başladığı",
+      "n": 1
+    },
+    {
+      "from": "başlay arak",
+      "to": "başlayarak",
+      "n": 1
+    },
+    {
+      "from": "bayr ağını",
+      "to": "bayrağını",
+      "n": 1
+    },
+    {
+      "from": "be lge",
+      "to": "belge",
+      "n": 1
+    },
+    {
+      "from": "be lirlenen",
+      "to": "belirlenen",
+      "n": 1
+    },
+    {
+      "from": "be lli",
+      "to": "belli",
+      "n": 1
+    },
+    {
+      "from": "be nzeri",
+      "to": "benzeri",
+      "n": 1
+    },
+    {
+      "from": "be raber",
+      "to": "beraber",
+      "n": 1
+    },
+    {
+      "from": "bed elin",
+      "to": "bedelin",
+      "n": 1
+    },
+    {
+      "from": "bel gesi",
+      "to": "belgesi",
+      "n": 1
+    },
+    {
+      "from": "bel irlenir",
+      "to": "belirlenir",
+      "n": 1
+    },
+    {
+      "from": "bel irlenmiş",
+      "to": "belirlenmiş",
+      "n": 1
+    },
+    {
+      "from": "bel irleyeceği",
+      "to": "belirleyeceği",
+      "n": 1
+    },
+    {
+      "from": "bel irli",
+      "to": "belirli",
+      "n": 1
+    },
+    {
+      "from": "beled iye",
+      "to": "belediye",
+      "n": 1
+    },
+    {
+      "from": "belir lenen",
+      "to": "belirlenen",
+      "n": 1
+    },
+    {
+      "from": "belirl ediği",
+      "to": "belirlediği",
+      "n": 1
+    },
+    {
+      "from": "belirl eme",
+      "to": "belirleme",
+      "n": 1
+    },
+    {
+      "from": "belirl enir",
+      "to": "belirlenir",
+      "n": 1
+    },
+    {
+      "from": "belirlenm esi",
+      "to": "belirlenmesi",
+      "n": 1
+    },
+    {
+      "from": "belirt ilir",
+      "to": "belirtilir",
+      "n": 1
+    },
+    {
+      "from": "ben di",
+      "to": "bendi",
+      "n": 1
+    },
+    {
+      "from": "beşi nci",
+      "to": "beşinci",
+      "n": 1
+    },
+    {
+      "from": "bır akılan",
+      "to": "bırakılan",
+      "n": 1
+    },
+    {
+      "from": "bıra kma",
+      "to": "bırakma",
+      "n": 1
+    },
+    {
+      "from": "bırakıl mış",
+      "to": "bırakılmış",
+      "n": 1
+    },
+    {
+      "from": "bi le",
+      "to": "bile",
+      "n": 1
+    },
+    {
+      "from": "bi rleşme",
+      "to": "birleşme",
+      "n": 1
+    },
+    {
+      "from": "bi rleşmesi",
+      "to": "birleşmesi",
+      "n": 1
+    },
+    {
+      "from": "bi rleşmeye",
+      "to": "birleşmeye",
+      "n": 1
+    },
+    {
+      "from": "bi rlikte",
+      "to": "birlikte",
+      "n": 1
+    },
+    {
+      "from": "bi ter",
+      "to": "biter",
+      "n": 1
+    },
+    {
+      "from": "bil dirir",
+      "to": "bildirir",
+      "n": 1
+    },
+    {
+      "from": "bilançon un",
+      "to": "bilançonun",
+      "n": 1
+    },
+    {
+      "from": "bildi rimin",
+      "to": "bildirimin",
+      "n": 1
+    },
+    {
+      "from": "bildir im",
+      "to": "bildirim",
+      "n": 1
+    },
+    {
+      "from": "bilin en",
+      "to": "bilinen",
+      "n": 1
+    },
+    {
+      "from": "bir kaçının",
+      "to": "birkaçının",
+      "n": 1
+    },
+    {
+      "from": "bird en",
+      "to": "birden",
+      "n": 1
+    },
+    {
+      "from": "birin ci",
+      "to": "birinci",
+      "n": 1
+    },
+    {
+      "from": "birin in",
+      "to": "birinin",
+      "n": 1
+    },
+    {
+      "from": "birl eşme",
+      "to": "birleşme",
+      "n": 1
+    },
+    {
+      "from": "birl ikte",
+      "to": "birlikte",
+      "n": 1
+    },
+    {
+      "from": "birlik te",
+      "to": "birlikte",
+      "n": 1
+    },
+    {
+      "from": "bo rçlar",
+      "to": "borçlar",
+      "n": 1
+    },
+    {
+      "from": "bo rçlu",
+      "to": "borçlu",
+      "n": 1
+    },
+    {
+      "from": "bo şanma",
+      "to": "boşanma",
+      "n": 1
+    },
+    {
+      "from": "bor çlardan",
+      "to": "borçlardan",
+      "n": 1
+    },
+    {
+      "from": "bor çlu",
+      "to": "borçlu",
+      "n": 1
+    },
+    {
+      "from": "borc un",
+      "to": "borcun",
+      "n": 1
+    },
+    {
+      "from": "borç ları",
+      "to": "borçları",
+      "n": 1
+    },
+    {
+      "from": "borç ludan",
+      "to": "borçludan",
+      "n": 1
+    },
+    {
+      "from": "borç lunun",
+      "to": "borçlunun",
+      "n": 1
+    },
+    {
+      "from": "borçla rına",
+      "to": "borçlarına",
+      "n": 1
+    },
+    {
+      "from": "borçlan ma",
+      "to": "borçlanma",
+      "n": 1
+    },
+    {
+      "from": "borçlu lar",
+      "to": "borçlular",
+      "n": 1
+    },
+    {
+      "from": "boşa nma",
+      "to": "boşanma",
+      "n": 1
+    },
+    {
+      "from": "boşalt ma",
+      "to": "boşaltma",
+      "n": 1
+    },
+    {
+      "from": "boşan ma",
+      "to": "boşanma",
+      "n": 1
+    },
+    {
+      "from": "böl ünmüş",
+      "to": "bölünmüş",
+      "n": 1
+    },
+    {
+      "from": "bölü mü",
+      "to": "bölümü",
+      "n": 1
+    },
+    {
+      "from": "bölü nme",
+      "to": "bölünme",
+      "n": 1
+    },
+    {
+      "from": "bu lunan",
+      "to": "bulunan",
+      "n": 1
+    },
+    {
+      "from": "bu lunmadığı",
+      "to": "bulunmadığı",
+      "n": 1
+    },
+    {
+      "from": "bu nları",
+      "to": "bunları",
+      "n": 1
+    },
+    {
+      "from": "bu nların",
+      "to": "bunların",
+      "n": 1
+    },
+    {
+      "from": "bul unan",
+      "to": "bulunan",
+      "n": 1
+    },
+    {
+      "from": "bul unması",
+      "to": "bulunması",
+      "n": 1
+    },
+    {
+      "from": "bulu nan",
+      "to": "bulunan",
+      "n": 1
+    },
+    {
+      "from": "bulu narak",
+      "to": "bulunarak",
+      "n": 1
+    },
+    {
+      "from": "bulu nmadıkça",
+      "to": "bulunmadıkça",
+      "n": 1
+    },
+    {
+      "from": "bulun an",
+      "to": "bulunan",
+      "n": 1
+    },
+    {
+      "from": "bulun madıkça",
+      "to": "bulunmadıkça",
+      "n": 1
+    },
+    {
+      "from": "bulun mayan",
+      "to": "bulunmayan",
+      "n": 1
+    },
+    {
+      "from": "bulunabi lir",
+      "to": "bulunabilir",
+      "n": 1
+    },
+    {
+      "from": "bulunabili rler",
+      "to": "bulunabilirler",
+      "n": 1
+    },
+    {
+      "from": "bulund urulur",
+      "to": "bulundurulur",
+      "n": 1
+    },
+    {
+      "from": "bulundu ğu",
+      "to": "bulunduğu",
+      "n": 1
+    },
+    {
+      "from": "bulundu kları",
+      "to": "bulundukları",
+      "n": 1
+    },
+    {
+      "from": "bulunm adığı",
+      "to": "bulunmadığı",
+      "n": 1
+    },
+    {
+      "from": "bulunm azsa",
+      "to": "bulunmazsa",
+      "n": 1
+    },
+    {
+      "from": "bulunmaksız ın",
+      "to": "bulunmaksızın",
+      "n": 1
+    },
+    {
+      "from": "bun lar",
+      "to": "bunlar",
+      "n": 1
+    },
+    {
+      "from": "bun ların",
+      "to": "bunların",
+      "n": 1
+    },
+    {
+      "from": "bun un",
+      "to": "bunun",
+      "n": 1
+    },
+    {
+      "from": "bund an",
+      "to": "bundan",
+      "n": 1
+    },
+    {
+      "from": "bunl ar",
+      "to": "bunlar",
+      "n": 1
+    },
+    {
+      "from": "bunl ardan",
+      "to": "bunlardan",
+      "n": 1
+    },
+    {
+      "from": "bunla rı",
+      "to": "bunları",
+      "n": 1
+    },
+    {
+      "from": "bunla rla",
+      "to": "bunlarla",
+      "n": 1
+    },
+    {
+      "from": "bunu nla",
+      "to": "bununla",
+      "n": 1
+    },
+    {
+      "from": "büy ük",
+      "to": "büyük",
+      "n": 1
+    },
+    {
+      "from": "ca yma",
+      "to": "cayma",
+      "n": 1
+    },
+    {
+      "from": "ce za",
+      "to": "ceza",
+      "n": 1
+    },
+    {
+      "from": "ceb rî",
+      "to": "cebrî",
+      "n": 1
+    },
+    {
+      "from": "cez asıyla",
+      "to": "cezasıyla",
+      "n": 1
+    },
+    {
+      "from": "cins el",
+      "to": "cinsel",
+      "n": 1
+    },
+    {
+      "from": "cu mhurbaşkanı",
+      "to": "cumhurbaşkanı",
+      "n": 1
+    },
+    {
+      "from": "cum huriyet",
+      "to": "cumhuriyet",
+      "n": 1
+    },
+    {
+      "from": "cumhu rbaşkanınca",
+      "to": "cumhurbaşkanınca",
+      "n": 1
+    },
+    {
+      "from": "cumhur başkanı",
+      "to": "cumhurbaşkanı",
+      "n": 1
+    },
+    {
+      "from": "cumhurba şkanınca",
+      "to": "cumhurbaşkanınca",
+      "n": 1
+    },
+    {
+      "from": "cumhurbaşka nınca",
+      "to": "cumhurbaşkanınca",
+      "n": 1
+    },
+    {
+      "from": "çal ışanlar",
+      "to": "çalışanlar",
+      "n": 1
+    },
+    {
+      "from": "çalıştır ılan",
+      "to": "çalıştırılan",
+      "n": 1
+    },
+    {
+      "from": "çe vre",
+      "to": "çevre",
+      "n": 1
+    },
+    {
+      "from": "çekilme si",
+      "to": "çekilmesi",
+      "n": 1
+    },
+    {
+      "from": "çekiş mesiz",
+      "to": "çekişmesiz",
+      "n": 1
+    },
+    {
+      "from": "çerçe vesinde",
+      "to": "çerçevesinde",
+      "n": 1
+    },
+    {
+      "from": "çerçevesin de",
+      "to": "çerçevesinde",
+      "n": 1
+    },
+    {
+      "from": "çıka rılan",
+      "to": "çıkarılan",
+      "n": 1
+    },
+    {
+      "from": "çıka rılır",
+      "to": "çıkarılır",
+      "n": 1
+    },
+    {
+      "from": "çıka rma",
+      "to": "çıkarma",
+      "n": 1
+    },
+    {
+      "from": "çıkar ma",
+      "to": "çıkarma",
+      "n": 1
+    },
+    {
+      "from": "çıkarı lmıştır",
+      "to": "çıkarılmıştır",
+      "n": 1
+    },
+    {
+      "from": "çıkarıl mış",
+      "to": "çıkarılmış",
+      "n": 1
+    },
+    {
+      "from": "çıkarılması ndan",
+      "to": "çıkarılmasından",
+      "n": 1
+    },
+    {
+      "from": "çıkarılmı ştır",
+      "to": "çıkarılmıştır",
+      "n": 1
+    },
+    {
+      "from": "ço cuklar",
+      "to": "çocuklar",
+      "n": 1
+    },
+    {
+      "from": "çoc uğa",
+      "to": "çocuğa",
+      "n": 1
+    },
+    {
+      "from": "çocuğ un",
+      "to": "çocuğun",
+      "n": 1
+    },
+    {
+      "from": "da vacı",
+      "to": "davacı",
+      "n": 1
+    },
+    {
+      "from": "da vası",
+      "to": "davası",
+      "n": 1
+    },
+    {
+      "from": "dağ ıtılır",
+      "to": "dağıtılır",
+      "n": 1
+    },
+    {
+      "from": "dâh il",
+      "to": "dâhil",
+      "n": 1
+    },
+    {
+      "from": "dav aları",
+      "to": "davaları",
+      "n": 1
+    },
+    {
+      "from": "dav aya",
+      "to": "davaya",
+      "n": 1
+    },
+    {
+      "from": "dava sı",
+      "to": "davası",
+      "n": 1
+    },
+    {
+      "from": "daval ının",
+      "to": "davalının",
+      "n": 1
+    },
+    {
+      "from": "davaların da",
+      "to": "davalarında",
+      "n": 1
+    },
+    {
+      "from": "davas ında",
+      "to": "davasında",
+      "n": 1
+    },
+    {
+      "from": "dayana rak",
+      "to": "dayanarak",
+      "n": 1
+    },
+    {
+      "from": "de fteri",
+      "to": "defteri",
+      "n": 1
+    },
+    {
+      "from": "de fterin",
+      "to": "defterin",
+      "n": 1
+    },
+    {
+      "from": "de ğildir",
+      "to": "değildir",
+      "n": 1
+    },
+    {
+      "from": "de ğişik",
+      "to": "değişik",
+      "n": 1
+    },
+    {
+      "from": "de rhal",
+      "to": "derhal",
+      "n": 1
+    },
+    {
+      "from": "de vletin",
+      "to": "devletin",
+      "n": 1
+    },
+    {
+      "from": "de vralınması",
+      "to": "devralınması",
+      "n": 1
+    },
+    {
+      "from": "deft er",
+      "to": "defter",
+      "n": 1
+    },
+    {
+      "from": "deft erinin",
+      "to": "defterinin",
+      "n": 1
+    },
+    {
+      "from": "defte re",
+      "to": "deftere",
+      "n": 1
+    },
+    {
+      "from": "defterle ri",
+      "to": "defterleri",
+      "n": 1
+    },
+    {
+      "from": "değ eri",
+      "to": "değeri",
+      "n": 1
+    },
+    {
+      "from": "değ iştirilebilir",
+      "to": "değiştirilebilir",
+      "n": 1
+    },
+    {
+      "from": "değe rini",
+      "to": "değerini",
+      "n": 1
+    },
+    {
+      "from": "değer leme",
+      "to": "değerleme",
+      "n": 1
+    },
+    {
+      "from": "değer li",
+      "to": "değerli",
+      "n": 1
+    },
+    {
+      "from": "değerl endirme",
+      "to": "değerlendirme",
+      "n": 1
+    },
+    {
+      "from": "değerl er",
+      "to": "değerler",
+      "n": 1
+    },
+    {
+      "from": "değişiklikl erin",
+      "to": "değişikliklerin",
+      "n": 1
+    },
+    {
+      "from": "değişt iren",
+      "to": "değiştiren",
+      "n": 1
+    },
+    {
+      "from": "değişti rme",
+      "to": "değiştirme",
+      "n": 1
+    },
+    {
+      "from": "değiştir me",
+      "to": "değiştirme",
+      "n": 1
+    },
+    {
+      "from": "değiştirilme sine",
+      "to": "değiştirilmesine",
+      "n": 1
+    },
+    {
+      "from": "den etim",
+      "to": "denetim",
+      "n": 1
+    },
+    {
+      "from": "dene tçi",
+      "to": "denetçi",
+      "n": 1
+    },
+    {
+      "from": "denetçin in",
+      "to": "denetçinin",
+      "n": 1
+    },
+    {
+      "from": "denetl eme",
+      "to": "denetleme",
+      "n": 1
+    },
+    {
+      "from": "denizc ilik",
+      "to": "denizcilik",
+      "n": 1
+    },
+    {
+      "from": "denkleşt irme",
+      "to": "denkleştirme",
+      "n": 1
+    },
+    {
+      "from": "dern ek",
+      "to": "dernek",
+      "n": 1
+    },
+    {
+      "from": "dev ir",
+      "to": "devir",
+      "n": 1
+    },
+    {
+      "from": "dev ri",
+      "to": "devri",
+      "n": 1
+    },
+    {
+      "from": "devl ete",
+      "to": "devlete",
+      "n": 1
+    },
+    {
+      "from": "devr in",
+      "to": "devrin",
+      "n": 1
+    },
+    {
+      "from": "devre dilemez",
+      "to": "devredilemez",
+      "n": 1
+    },
+    {
+      "from": "dış ında",
+      "to": "dışında",
+      "n": 1
+    },
+    {
+      "from": "dışın da",
+      "to": "dışında",
+      "n": 1
+    },
+    {
+      "from": "dışın daki",
+      "to": "dışındaki",
+      "n": 1
+    },
+    {
+      "from": "dışınd aki",
+      "to": "dışındaki",
+      "n": 1
+    },
+    {
+      "from": "dışişle ri",
+      "to": "dışişleri",
+      "n": 1
+    },
+    {
+      "from": "di ğerinin",
+      "to": "diğerinin",
+      "n": 1
+    },
+    {
+      "from": "diğerin in",
+      "to": "diğerinin",
+      "n": 1
+    },
+    {
+      "from": "dikk ate",
+      "to": "dikkate",
+      "n": 1
+    },
+    {
+      "from": "dile kçe",
+      "to": "dilekçe",
+      "n": 1
+    },
+    {
+      "from": "dilek çe",
+      "to": "dilekçe",
+      "n": 1
+    },
+    {
+      "from": "do ğum",
+      "to": "doğum",
+      "n": 1
+    },
+    {
+      "from": "do layı",
+      "to": "dolayı",
+      "n": 1
+    },
+    {
+      "from": "do natan",
+      "to": "donatan",
+      "n": 1
+    },
+    {
+      "from": "doğ al",
+      "to": "doğal",
+      "n": 1
+    },
+    {
+      "from": "doğ an",
+      "to": "doğan",
+      "n": 1
+    },
+    {
+      "from": "doğr ultusunda",
+      "to": "doğrultusunda",
+      "n": 1
+    },
+    {
+      "from": "doğur an",
+      "to": "doğuran",
+      "n": 1
+    },
+    {
+      "from": "dola yısıyla",
+      "to": "dolayısıyla",
+      "n": 1
+    },
+    {
+      "from": "dön emi",
+      "to": "dönemi",
+      "n": 1
+    },
+    {
+      "from": "döne minde",
+      "to": "döneminde",
+      "n": 1
+    },
+    {
+      "from": "du rumlarda",
+      "to": "durumlarda",
+      "n": 1
+    },
+    {
+      "from": "dur umlarda",
+      "to": "durumlarda",
+      "n": 1
+    },
+    {
+      "from": "dur umu",
+      "to": "durumu",
+      "n": 1
+    },
+    {
+      "from": "dur umun",
+      "to": "durumun",
+      "n": 1
+    },
+    {
+      "from": "duru şma",
+      "to": "duruşma",
+      "n": 1
+    },
+    {
+      "from": "durum unda",
+      "to": "durumunda",
+      "n": 1
+    },
+    {
+      "from": "duruml arda",
+      "to": "durumlarda",
+      "n": 1
+    },
+    {
+      "from": "durumu nda",
+      "to": "durumunda",
+      "n": 1
+    },
+    {
+      "from": "dü zenlenme",
+      "to": "düzenlenme",
+      "n": 1
+    },
+    {
+      "from": "düş er",
+      "to": "düşer",
+      "n": 1
+    },
+    {
+      "from": "düş tüğü",
+      "to": "düştüğü",
+      "n": 1
+    },
+    {
+      "from": "düşe rse",
+      "to": "düşerse",
+      "n": 1
+    },
+    {
+      "from": "düşüld ükten",
+      "to": "düşüldükten",
+      "n": 1
+    },
+    {
+      "from": "düz enleme",
+      "to": "düzenleme",
+      "n": 1
+    },
+    {
+      "from": "düze nine",
+      "to": "düzenine",
+      "n": 1
+    },
+    {
+      "from": "düzenl enen",
+      "to": "düzenlenen",
+      "n": 1
+    },
+    {
+      "from": "düzenley enin",
+      "to": "düzenleyenin",
+      "n": 1
+    },
+    {
+      "from": "ed ebilir",
+      "to": "edebilir",
+      "n": 1
+    },
+    {
+      "from": "ed enler",
+      "to": "edenler",
+      "n": 1
+    },
+    {
+      "from": "ed erler",
+      "to": "ederler",
+      "n": 1
+    },
+    {
+      "from": "ed ilir",
+      "to": "edilir",
+      "n": 1
+    },
+    {
+      "from": "ed inilmiş",
+      "to": "edinilmiş",
+      "n": 1
+    },
+    {
+      "from": "edebil ir",
+      "to": "edebilir",
+      "n": 1
+    },
+    {
+      "from": "edebili rler",
+      "to": "edebilirler",
+      "n": 1
+    },
+    {
+      "from": "edem ez",
+      "to": "edemez",
+      "n": 1
+    },
+    {
+      "from": "edi lmesi",
+      "to": "edilmesi",
+      "n": 1
+    },
+    {
+      "from": "edil ebilir",
+      "to": "edilebilir",
+      "n": 1
+    },
+    {
+      "from": "edil en",
+      "to": "edilen",
+      "n": 1
+    },
+    {
+      "from": "edil meden",
+      "to": "edilmeden",
+      "n": 1
+    },
+    {
+      "from": "edil mek",
+      "to": "edilmek",
+      "n": 1
+    },
+    {
+      "from": "edil miştir",
+      "to": "edilmiştir",
+      "n": 1
+    },
+    {
+      "from": "edileb ilir",
+      "to": "edilebilir",
+      "n": 1
+    },
+    {
+      "from": "edilebil ir",
+      "to": "edilebilir",
+      "n": 1
+    },
+    {
+      "from": "edilm iş",
+      "to": "edilmiş",
+      "n": 1
+    },
+    {
+      "from": "edilme si",
+      "to": "edilmesi",
+      "n": 1
+    },
+    {
+      "from": "edin ilmiş",
+      "to": "edinilmiş",
+      "n": 1
+    },
+    {
+      "from": "edinil miş",
+      "to": "edinilmiş",
+      "n": 1
+    },
+    {
+      "from": "eğiti mi",
+      "to": "eğitimi",
+      "n": 1
+    },
+    {
+      "from": "ek sik",
+      "to": "eksik",
+      "n": 1
+    },
+    {
+      "from": "eld en",
+      "to": "elden",
+      "n": 1
+    },
+    {
+      "from": "ele ktronik",
+      "to": "elektronik",
+      "n": 1
+    },
+    {
+      "from": "elveri şli",
+      "to": "elverişli",
+      "n": 1
+    },
+    {
+      "from": "er gin",
+      "to": "ergin",
+      "n": 1
+    },
+    {
+      "from": "er me",
+      "to": "erme",
+      "n": 1
+    },
+    {
+      "from": "es as",
+      "to": "esas",
+      "n": 1
+    },
+    {
+      "from": "esas larını",
+      "to": "esaslarını",
+      "n": 1
+    },
+    {
+      "from": "esasl arı",
+      "to": "esasları",
+      "n": 1
+    },
+    {
+      "from": "eş ler",
+      "to": "eşler",
+      "n": 1
+    },
+    {
+      "from": "eşl er",
+      "to": "eşler",
+      "n": 1
+    },
+    {
+      "from": "eşle rden",
+      "to": "eşlerden",
+      "n": 1
+    },
+    {
+      "from": "eşle rin",
+      "to": "eşlerin",
+      "n": 1
+    },
+    {
+      "from": "eşyan ın",
+      "to": "eşyanın",
+      "n": 1
+    },
+    {
+      "from": "et mesi",
+      "to": "etmesi",
+      "n": 1
+    },
+    {
+      "from": "etm iş",
+      "to": "etmiş",
+      "n": 1
+    },
+    {
+      "from": "etme kle",
+      "to": "etmekle",
+      "n": 1
+    },
+    {
+      "from": "etme sine",
+      "to": "etmesine",
+      "n": 1
+    },
+    {
+      "from": "ett iği",
+      "to": "ettiği",
+      "n": 1
+    },
+    {
+      "from": "ett irenin",
+      "to": "ettirenin",
+      "n": 1
+    },
+    {
+      "from": "ev lilik",
+      "to": "evlilik",
+      "n": 1
+    },
+    {
+      "from": "evl ât",
+      "to": "evlât",
+      "n": 1
+    },
+    {
+      "from": "evl enme",
+      "to": "evlenme",
+      "n": 1
+    },
+    {
+      "from": "evl ilik",
+      "to": "evlilik",
+      "n": 1
+    },
+    {
+      "from": "evlenm enin",
+      "to": "evlenmenin",
+      "n": 1
+    },
+    {
+      "from": "fa iz",
+      "to": "faiz",
+      "n": 1
+    },
+    {
+      "from": "faa liyet",
+      "to": "faaliyet",
+      "n": 1
+    },
+    {
+      "from": "faz la",
+      "to": "fazla",
+      "n": 1
+    },
+    {
+      "from": "ferag at",
+      "to": "feragat",
+      "n": 1
+    },
+    {
+      "from": "feshede bilir",
+      "to": "feshedebilir",
+      "n": 1
+    },
+    {
+      "from": "fı krada",
+      "to": "fıkrada",
+      "n": 1
+    },
+    {
+      "from": "fık ra",
+      "to": "fıkra",
+      "n": 1
+    },
+    {
+      "from": "fık rada",
+      "to": "fıkrada",
+      "n": 1
+    },
+    {
+      "from": "fi il",
+      "to": "fiil",
+      "n": 1
+    },
+    {
+      "from": "finan sal",
+      "to": "finansal",
+      "n": 1
+    },
+    {
+      "from": "fiy at",
+      "to": "fiyat",
+      "n": 1
+    },
+    {
+      "from": "ga iplik",
+      "to": "gaiplik",
+      "n": 1
+    },
+    {
+      "from": "gaz ete",
+      "to": "gazete",
+      "n": 1
+    },
+    {
+      "from": "ge çmesi",
+      "to": "geçmesi",
+      "n": 1
+    },
+    {
+      "from": "ge len",
+      "to": "gelen",
+      "n": 1
+    },
+    {
+      "from": "ge mi",
+      "to": "gemi",
+      "n": 1
+    },
+    {
+      "from": "ge reği",
+      "to": "gereği",
+      "n": 1
+    },
+    {
+      "from": "ge ri",
+      "to": "geri",
+      "n": 1
+    },
+    {
+      "from": "gecik meksizin",
+      "to": "gecikmeksizin",
+      "n": 1
+    },
+    {
+      "from": "gecikm esinde",
+      "to": "gecikmesinde",
+      "n": 1
+    },
+    {
+      "from": "geç erli",
+      "to": "geçerli",
+      "n": 1
+    },
+    {
+      "from": "geç ici",
+      "to": "geçici",
+      "n": 1
+    },
+    {
+      "from": "geçe rliliği",
+      "to": "geçerliliği",
+      "n": 1
+    },
+    {
+      "from": "geçe rsizdir",
+      "to": "geçersizdir",
+      "n": 1
+    },
+    {
+      "from": "geçerli liği",
+      "to": "geçerliliği",
+      "n": 1
+    },
+    {
+      "from": "geçers iz",
+      "to": "geçersiz",
+      "n": 1
+    },
+    {
+      "from": "geçiril mesi",
+      "to": "geçirilmesi",
+      "n": 1
+    },
+    {
+      "from": "gelirl eri",
+      "to": "gelirleri",
+      "n": 1
+    },
+    {
+      "from": "gem iler",
+      "to": "gemiler",
+      "n": 1
+    },
+    {
+      "from": "gem ilerin",
+      "to": "gemilerin",
+      "n": 1
+    },
+    {
+      "from": "gem inin",
+      "to": "geminin",
+      "n": 1
+    },
+    {
+      "from": "gemil er",
+      "to": "gemiler",
+      "n": 1
+    },
+    {
+      "from": "ger çeğe",
+      "to": "gerçeğe",
+      "n": 1
+    },
+    {
+      "from": "ger çek",
+      "to": "gerçek",
+      "n": 1
+    },
+    {
+      "from": "ger çekleşen",
+      "to": "gerçekleşen",
+      "n": 1
+    },
+    {
+      "from": "ger eğince",
+      "to": "gereğince",
+      "n": 1
+    },
+    {
+      "from": "ger eken",
+      "to": "gereken",
+      "n": 1
+    },
+    {
+      "from": "ger eklidir",
+      "to": "gereklidir",
+      "n": 1
+    },
+    {
+      "from": "gerç ekleştirmek",
+      "to": "gerçekleştirmek",
+      "n": 1
+    },
+    {
+      "from": "gerçe ğe",
+      "to": "gerçeğe",
+      "n": 1
+    },
+    {
+      "from": "gere ken",
+      "to": "gereken",
+      "n": 1
+    },
+    {
+      "from": "gere ktiren",
+      "to": "gerektiren",
+      "n": 1
+    },
+    {
+      "from": "gereğ inde",
+      "to": "gereğinde",
+      "n": 1
+    },
+    {
+      "from": "gereğin ce",
+      "to": "gereğince",
+      "n": 1
+    },
+    {
+      "from": "gerek tiren",
+      "to": "gerektiren",
+      "n": 1
+    },
+    {
+      "from": "gerekt iren",
+      "to": "gerektiren",
+      "n": 1
+    },
+    {
+      "from": "gerekti ren",
+      "to": "gerektiren",
+      "n": 1
+    },
+    {
+      "from": "gerektir diği",
+      "to": "gerektirdiği",
+      "n": 1
+    },
+    {
+      "from": "gerektirdi ği",
+      "to": "gerektirdiği",
+      "n": 1
+    },
+    {
+      "from": "geti rir",
+      "to": "getirir",
+      "n": 1
+    },
+    {
+      "from": "geti rmekle",
+      "to": "getirmekle",
+      "n": 1
+    },
+    {
+      "from": "getir ilmiş",
+      "to": "getirilmiş",
+      "n": 1
+    },
+    {
+      "from": "getirilme sini",
+      "to": "getirilmesini",
+      "n": 1
+    },
+    {
+      "from": "getirme kle",
+      "to": "getirmekle",
+      "n": 1
+    },
+    {
+      "from": "gi bi",
+      "to": "gibi",
+      "n": 1
+    },
+    {
+      "from": "gi ren",
+      "to": "giren",
+      "n": 1
+    },
+    {
+      "from": "giderl erine",
+      "to": "giderlerine",
+      "n": 1
+    },
+    {
+      "from": "gö re",
+      "to": "göre",
+      "n": 1
+    },
+    {
+      "from": "gö rmesi",
+      "to": "görmesi",
+      "n": 1
+    },
+    {
+      "from": "gö sterilir",
+      "to": "gösterilir",
+      "n": 1
+    },
+    {
+      "from": "gör ev",
+      "to": "görev",
+      "n": 1
+    },
+    {
+      "from": "gör evi",
+      "to": "görevi",
+      "n": 1
+    },
+    {
+      "from": "görev lendirilen",
+      "to": "görevlendirilen",
+      "n": 1
+    },
+    {
+      "from": "görev liler",
+      "to": "görevliler",
+      "n": 1
+    },
+    {
+      "from": "görevi nden",
+      "to": "görevinden",
+      "n": 1
+    },
+    {
+      "from": "görevl endirilmiş",
+      "to": "görevlendirilmiş",
+      "n": 1
+    },
+    {
+      "from": "görül düğü",
+      "to": "görüldüğü",
+      "n": 1
+    },
+    {
+      "from": "göst erdiği",
+      "to": "gösterdiği",
+      "n": 1
+    },
+    {
+      "from": "göste ren",
+      "to": "gösteren",
+      "n": 1
+    },
+    {
+      "from": "gösteril en",
+      "to": "gösterilen",
+      "n": 1
+    },
+    {
+      "from": "gün lük",
+      "to": "günlük",
+      "n": 1
+    },
+    {
+      "from": "güve nli",
+      "to": "güvenli",
+      "n": 1
+    },
+    {
+      "from": "hâ kimi",
+      "to": "hâkimi",
+      "n": 1
+    },
+    {
+      "from": "hâ kimin",
+      "to": "hâkimin",
+      "n": 1
+    },
+    {
+      "from": "ha kkı",
+      "to": "hakkı",
+      "n": 1
+    },
+    {
+      "from": "ha kkın",
+      "to": "hakkın",
+      "n": 1
+    },
+    {
+      "from": "ha kkındaki",
+      "to": "hakkındaki",
+      "n": 1
+    },
+    {
+      "from": "ha kkının",
+      "to": "hakkının",
+      "n": 1
+    },
+    {
+      "from": "ha kları",
+      "to": "hakları",
+      "n": 1
+    },
+    {
+      "from": "hâ llerde",
+      "to": "hâllerde",
+      "n": 1
+    },
+    {
+      "from": "ha rp",
+      "to": "harp",
+      "n": 1
+    },
+    {
+      "from": "hâk im",
+      "to": "hâkim",
+      "n": 1
+    },
+    {
+      "from": "hâk imi",
+      "to": "hâkimi",
+      "n": 1
+    },
+    {
+      "from": "hak kın",
+      "to": "hakkın",
+      "n": 1
+    },
+    {
+      "from": "hak lar",
+      "to": "haklar",
+      "n": 1
+    },
+    {
+      "from": "hak ların",
+      "to": "hakların",
+      "n": 1
+    },
+    {
+      "from": "hakk ında",
+      "to": "hakkında",
+      "n": 1
+    },
+    {
+      "from": "hakk ının",
+      "to": "hakkının",
+      "n": 1
+    },
+    {
+      "from": "hakkı nı",
+      "to": "hakkını",
+      "n": 1
+    },
+    {
+      "from": "hakl arı",
+      "to": "hakları",
+      "n": 1
+    },
+    {
+      "from": "hakl arını",
+      "to": "haklarını",
+      "n": 1
+    },
+    {
+      "from": "hakla rı",
+      "to": "hakları",
+      "n": 1
+    },
+    {
+      "from": "hakla rın",
+      "to": "hakların",
+      "n": 1
+    },
+    {
+      "from": "haklar ına",
+      "to": "haklarına",
+      "n": 1
+    },
+    {
+      "from": "hakların ın",
+      "to": "haklarının",
+      "n": 1
+    },
+    {
+      "from": "hâlle rde",
+      "to": "hâllerde",
+      "n": 1
+    },
+    {
+      "from": "hamili ne",
+      "to": "hamiline",
+      "n": 1
+    },
+    {
+      "from": "harek et",
+      "to": "hareket",
+      "n": 1
+    },
+    {
+      "from": "hastalı ğı",
+      "to": "hastalığı",
+      "n": 1
+    },
+    {
+      "from": "hay ata",
+      "to": "hayata",
+      "n": 1
+    },
+    {
+      "from": "hay atı",
+      "to": "hayatı",
+      "n": 1
+    },
+    {
+      "from": "hazırl ık",
+      "to": "hazırlık",
+      "n": 1
+    },
+    {
+      "from": "he sap",
+      "to": "hesap",
+      "n": 1
+    },
+    {
+      "from": "he saplanmasında",
+      "to": "hesaplanmasında",
+      "n": 1
+    },
+    {
+      "from": "hes ap",
+      "to": "hesap",
+      "n": 1
+    },
+    {
+      "from": "hes aplanır",
+      "to": "hesaplanır",
+      "n": 1
+    },
+    {
+      "from": "hesa plarına",
+      "to": "hesaplarına",
+      "n": 1
+    },
+    {
+      "from": "hısı mları",
+      "to": "hısımları",
+      "n": 1
+    },
+    {
+      "from": "hi zmetlerine",
+      "to": "hizmetlerine",
+      "n": 1
+    },
+    {
+      "from": "hizm et",
+      "to": "hizmet",
+      "n": 1
+    },
+    {
+      "from": "hu kuki",
+      "to": "hukuki",
+      "n": 1
+    },
+    {
+      "from": "hu kukî",
+      "to": "hukukî",
+      "n": 1
+    },
+    {
+      "from": "huk uki",
+      "to": "hukuki",
+      "n": 1
+    },
+    {
+      "from": "huku kî",
+      "to": "hukukî",
+      "n": 1
+    },
+    {
+      "from": "hus usu",
+      "to": "hususu",
+      "n": 1
+    },
+    {
+      "from": "hususl arda",
+      "to": "hususlarda",
+      "n": 1
+    },
+    {
+      "from": "hü kmolunur",
+      "to": "hükmolunur",
+      "n": 1
+    },
+    {
+      "from": "hü kmü",
+      "to": "hükmü",
+      "n": 1
+    },
+    {
+      "from": "hü kümle",
+      "to": "hükümle",
+      "n": 1
+    },
+    {
+      "from": "hü kümler",
+      "to": "hükümler",
+      "n": 1
+    },
+    {
+      "from": "hü kümleri",
+      "to": "hükümleri",
+      "n": 1
+    },
+    {
+      "from": "hük ümler",
+      "to": "hükümler",
+      "n": 1
+    },
+    {
+      "from": "hük ümlere",
+      "to": "hükümlere",
+      "n": 1
+    },
+    {
+      "from": "hük ümleri",
+      "to": "hükümleri",
+      "n": 1
+    },
+    {
+      "from": "hük ümlerine",
+      "to": "hükümlerine",
+      "n": 1
+    },
+    {
+      "from": "hükmolu nur",
+      "to": "hükmolunur",
+      "n": 1
+    },
+    {
+      "from": "hükü mler",
+      "to": "hükümler",
+      "n": 1
+    },
+    {
+      "from": "hüküml er",
+      "to": "hükümler",
+      "n": 1
+    },
+    {
+      "from": "hüküml erini",
+      "to": "hükümlerini",
+      "n": 1
+    },
+    {
+      "from": "hükümle ri",
+      "to": "hükümleri",
+      "n": 1
+    },
+    {
+      "from": "ib aret",
+      "to": "ibaret",
+      "n": 1
+    },
+    {
+      "from": "iba releri",
+      "to": "ibareleri",
+      "n": 1
+    },
+    {
+      "from": "iba resinden",
+      "to": "ibaresinden",
+      "n": 1
+    },
+    {
+      "from": "ibare leri",
+      "to": "ibareleri",
+      "n": 1
+    },
+    {
+      "from": "ic ra",
+      "to": "icra",
+      "n": 1
+    },
+    {
+      "from": "içer iği",
+      "to": "içeriği",
+      "n": 1
+    },
+    {
+      "from": "if lâs",
+      "to": "iflâs",
+      "n": 1
+    },
+    {
+      "from": "ifl as",
+      "to": "iflas",
+      "n": 1
+    },
+    {
+      "from": "ifla sın",
+      "to": "iflasın",
+      "n": 1
+    },
+    {
+      "from": "ih bar",
+      "to": "ihbar",
+      "n": 1
+    },
+    {
+      "from": "ihl ali",
+      "to": "ihlali",
+      "n": 1
+    },
+    {
+      "from": "ihla li",
+      "to": "ihlali",
+      "n": 1
+    },
+    {
+      "from": "iht iyati",
+      "to": "ihtiyati",
+      "n": 1
+    },
+    {
+      "from": "ihti yaçları",
+      "to": "ihtiyaçları",
+      "n": 1
+    },
+    {
+      "from": "ik inci",
+      "to": "ikinci",
+      "n": 1
+    },
+    {
+      "from": "il gililere",
+      "to": "ilgililere",
+      "n": 1
+    },
+    {
+      "from": "ile ri",
+      "to": "ileri",
+      "n": 1
+    },
+    {
+      "from": "ilg ili",
+      "to": "ilgili",
+      "n": 1
+    },
+    {
+      "from": "ilgi li",
+      "to": "ilgili",
+      "n": 1
+    },
+    {
+      "from": "ilgi liler",
+      "to": "ilgililer",
+      "n": 1
+    },
+    {
+      "from": "ilgil ilere",
+      "to": "ilgililere",
+      "n": 1
+    },
+    {
+      "from": "ilgili lere",
+      "to": "ilgililere",
+      "n": 1
+    },
+    {
+      "from": "ilgilil er",
+      "to": "ilgililer",
+      "n": 1
+    },
+    {
+      "from": "ili şkiler",
+      "to": "ilişkiler",
+      "n": 1
+    },
+    {
+      "from": "ilişk in",
+      "to": "ilişkin",
+      "n": 1
+    },
+    {
+      "from": "im zalanır",
+      "to": "imzalanır",
+      "n": 1
+    },
+    {
+      "from": "imzalan ır",
+      "to": "imzalanır",
+      "n": 1
+    },
+    {
+      "from": "imzalanm ası",
+      "to": "imzalanması",
+      "n": 1
+    },
+    {
+      "from": "in tifa",
+      "to": "intifa",
+      "n": 1
+    },
+    {
+      "from": "ip tali",
+      "to": "iptali",
+      "n": 1
+    },
+    {
+      "from": "ipo tekli",
+      "to": "ipotekli",
+      "n": 1
+    },
+    {
+      "from": "ir tifak",
+      "to": "irtifak",
+      "n": 1
+    },
+    {
+      "from": "irt ifak",
+      "to": "irtifak",
+      "n": 1
+    },
+    {
+      "from": "irti fak",
+      "to": "irtifak",
+      "n": 1
+    },
+    {
+      "from": "is patı",
+      "to": "ispatı",
+      "n": 1
+    },
+    {
+      "from": "is tediği",
+      "to": "istediği",
+      "n": 1
+    },
+    {
+      "from": "ist er",
+      "to": "ister",
+      "n": 1
+    },
+    {
+      "from": "iste nmesi",
+      "to": "istenmesi",
+      "n": 1
+    },
+    {
+      "from": "iste yebilir",
+      "to": "isteyebilir",
+      "n": 1
+    },
+    {
+      "from": "istene mez",
+      "to": "istenemez",
+      "n": 1
+    },
+    {
+      "from": "istenem ez",
+      "to": "istenemez",
+      "n": 1
+    },
+    {
+      "from": "istey ebilir",
+      "to": "isteyebilir",
+      "n": 1
+    },
+    {
+      "from": "isteye bilir",
+      "to": "isteyebilir",
+      "n": 1
+    },
+    {
+      "from": "isteye bilirler",
+      "to": "isteyebilirler",
+      "n": 1
+    },
+    {
+      "from": "isteyebil ir",
+      "to": "isteyebilir",
+      "n": 1
+    },
+    {
+      "from": "işl er",
+      "to": "işler",
+      "n": 1
+    },
+    {
+      "from": "işle ri",
+      "to": "işleri",
+      "n": 1
+    },
+    {
+      "from": "işlem lerde",
+      "to": "işlemlerde",
+      "n": 1
+    },
+    {
+      "from": "işlet me",
+      "to": "işletme",
+      "n": 1
+    },
+    {
+      "from": "it iraz",
+      "to": "itiraz",
+      "n": 1
+    },
+    {
+      "from": "itir az",
+      "to": "itiraz",
+      "n": 1
+    },
+    {
+      "from": "itir azın",
+      "to": "itirazın",
+      "n": 1
+    },
+    {
+      "from": "ka nun",
+      "to": "kanun",
+      "n": 1
+    },
+    {
+      "from": "ka nunla",
+      "to": "kanunla",
+      "n": 1
+    },
+    {
+      "from": "ka psar",
+      "to": "kapsar",
+      "n": 1
+    },
+    {
+      "from": "ka rarıyla",
+      "to": "kararıyla",
+      "n": 1
+    },
+    {
+      "from": "ka rarlaştırılan",
+      "to": "kararlaştırılan",
+      "n": 1
+    },
+    {
+      "from": "ka tılma",
+      "to": "katılma",
+      "n": 1
+    },
+    {
+      "from": "ka ybı",
+      "to": "kaybı",
+      "n": 1
+    },
+    {
+      "from": "ka yın",
+      "to": "kayın",
+      "n": 1
+    },
+    {
+      "from": "ka yıt",
+      "to": "kayıt",
+      "n": 1
+    },
+    {
+      "from": "ka yıtlı",
+      "to": "kayıtlı",
+      "n": 1
+    },
+    {
+      "from": "ka yyım",
+      "to": "kayyım",
+      "n": 1
+    },
+    {
+      "from": "ka za",
+      "to": "kaza",
+      "n": 1
+    },
+    {
+      "from": "kab ul",
+      "to": "kabul",
+      "n": 1
+    },
+    {
+      "from": "kad ar",
+      "to": "kadar",
+      "n": 1
+    },
+    {
+      "from": "kad ının",
+      "to": "kadının",
+      "n": 1
+    },
+    {
+      "from": "kadı nın",
+      "to": "kadının",
+      "n": 1
+    },
+    {
+      "from": "kal an",
+      "to": "kalan",
+      "n": 1
+    },
+    {
+      "from": "kal dığı",
+      "to": "kaldığı",
+      "n": 1
+    },
+    {
+      "from": "kald ırılmasına",
+      "to": "kaldırılmasına",
+      "n": 1
+    },
+    {
+      "from": "kaldı ran",
+      "to": "kaldıran",
+      "n": 1
+    },
+    {
+      "from": "kalk tığı",
+      "to": "kalktığı",
+      "n": 1
+    },
+    {
+      "from": "kalm ak",
+      "to": "kalmak",
+      "n": 1
+    },
+    {
+      "from": "kamb iyo",
+      "to": "kambiyo",
+      "n": 1
+    },
+    {
+      "from": "kan un",
+      "to": "kanun",
+      "n": 1
+    },
+    {
+      "from": "kan unî",
+      "to": "kanunî",
+      "n": 1
+    },
+    {
+      "from": "kan unu",
+      "to": "kanunu",
+      "n": 1
+    },
+    {
+      "from": "kan ununun",
+      "to": "kanununun",
+      "n": 1
+    },
+    {
+      "from": "kanu nî",
+      "to": "kanunî",
+      "n": 1
+    },
+    {
+      "from": "kanun un",
+      "to": "kanunun",
+      "n": 1
+    },
+    {
+      "from": "kapsa mı",
+      "to": "kapsamı",
+      "n": 1
+    },
+    {
+      "from": "kar ar",
+      "to": "karar",
+      "n": 1
+    },
+    {
+      "from": "kar arlaştırılmış",
+      "to": "kararlaştırılmış",
+      "n": 1
+    },
+    {
+      "from": "kar şılayacak",
+      "to": "karşılayacak",
+      "n": 1
+    },
+    {
+      "from": "kara rı",
+      "to": "kararı",
+      "n": 1
+    },
+    {
+      "from": "karar ların",
+      "to": "kararların",
+      "n": 1
+    },
+    {
+      "from": "kararın dan",
+      "to": "kararından",
+      "n": 1
+    },
+    {
+      "from": "kararıy la",
+      "to": "kararıyla",
+      "n": 1
+    },
+    {
+      "from": "kararl ar",
+      "to": "kararlar",
+      "n": 1
+    },
+    {
+      "from": "kararl arı",
+      "to": "kararları",
+      "n": 1
+    },
+    {
+      "from": "kararla rının",
+      "to": "kararlarının",
+      "n": 1
+    },
+    {
+      "from": "kararla ştırılmış",
+      "to": "kararlaştırılmış",
+      "n": 1
+    },
+    {
+      "from": "kararlaştır ılmamışsa",
+      "to": "kararlaştırılmamışsa",
+      "n": 1
+    },
+    {
+      "from": "karşılık lı",
+      "to": "karşılıklı",
+      "n": 1
+    },
+    {
+      "from": "karşılıks ız",
+      "to": "karşılıksız",
+      "n": 1
+    },
+    {
+      "from": "kat ılan",
+      "to": "katılan",
+      "n": 1
+    },
+    {
+      "from": "kat ılır",
+      "to": "katılır",
+      "n": 1
+    },
+    {
+      "from": "kat ılma",
+      "to": "katılma",
+      "n": 1
+    },
+    {
+      "from": "katılma sı",
+      "to": "katılması",
+      "n": 1
+    },
+    {
+      "from": "kay bı",
+      "to": "kaybı",
+      "n": 1
+    },
+    {
+      "from": "kay ıtsız",
+      "to": "kayıtsız",
+      "n": 1
+    },
+    {
+      "from": "kayd ıyla",
+      "to": "kaydıyla",
+      "n": 1
+    },
+    {
+      "from": "kaydıy la",
+      "to": "kaydıyla",
+      "n": 1
+    },
+    {
+      "from": "kayıt ları",
+      "to": "kayıtları",
+      "n": 1
+    },
+    {
+      "from": "kayy ım",
+      "to": "kayyım",
+      "n": 1
+    },
+    {
+      "from": "kaz anılması",
+      "to": "kazanılması",
+      "n": 1
+    },
+    {
+      "from": "ke ndiliğinden",
+      "to": "kendiliğinden",
+      "n": 1
+    },
+    {
+      "from": "ke ndisine",
+      "to": "kendisine",
+      "n": 1
+    },
+    {
+      "from": "kef alet",
+      "to": "kefalet",
+      "n": 1
+    },
+    {
+      "from": "ken dileri",
+      "to": "kendileri",
+      "n": 1
+    },
+    {
+      "from": "kend isine",
+      "to": "kendisine",
+      "n": 1
+    },
+    {
+      "from": "kendi lerine",
+      "to": "kendilerine",
+      "n": 1
+    },
+    {
+      "from": "kendi sine",
+      "to": "kendisine",
+      "n": 1
+    },
+    {
+      "from": "kendiler ine",
+      "to": "kendilerine",
+      "n": 1
+    },
+    {
+      "from": "kendili ğinden",
+      "to": "kendiliğinden",
+      "n": 1
+    },
+    {
+      "from": "kes in",
+      "to": "kesin",
+      "n": 1
+    },
+    {
+      "from": "kesinle şmesi",
+      "to": "kesinleşmesi",
+      "n": 1
+    },
+    {
+      "from": "kesinleş miş",
+      "to": "kesinleşmiş",
+      "n": 1
+    },
+    {
+      "from": "kı smı",
+      "to": "kısmı",
+      "n": 1
+    },
+    {
+      "from": "kı smî",
+      "to": "kısmî",
+      "n": 1
+    },
+    {
+      "from": "kı ymetli",
+      "to": "kıymetli",
+      "n": 1
+    },
+    {
+      "from": "kıld ığı",
+      "to": "kıldığı",
+      "n": 1
+    },
+    {
+      "from": "kılı nan",
+      "to": "kılınan",
+      "n": 1
+    },
+    {
+      "from": "kısıtl anması",
+      "to": "kısıtlanması",
+      "n": 1
+    },
+    {
+      "from": "kıy metli",
+      "to": "kıymetli",
+      "n": 1
+    },
+    {
+      "from": "kıym et",
+      "to": "kıymet",
+      "n": 1
+    },
+    {
+      "from": "kıymetl er",
+      "to": "kıymetler",
+      "n": 1
+    },
+    {
+      "from": "ki şilere",
+      "to": "kişilere",
+      "n": 1
+    },
+    {
+      "from": "ki şilik",
+      "to": "kişilik",
+      "n": 1
+    },
+    {
+      "from": "ki şinin",
+      "to": "kişinin",
+      "n": 1
+    },
+    {
+      "from": "ki şiye",
+      "to": "kişiye",
+      "n": 1
+    },
+    {
+      "from": "kims enin",
+      "to": "kimsenin",
+      "n": 1
+    },
+    {
+      "from": "kiş ilerin",
+      "to": "kişilerin",
+      "n": 1
+    },
+    {
+      "from": "kişi leri",
+      "to": "kişileri",
+      "n": 1
+    },
+    {
+      "from": "kişile rin",
+      "to": "kişilerin",
+      "n": 1
+    },
+    {
+      "from": "ko llektif",
+      "to": "kollektif",
+      "n": 1
+    },
+    {
+      "from": "ko nusu",
+      "to": "konusu",
+      "n": 1
+    },
+    {
+      "from": "kol luk",
+      "to": "kolluk",
+      "n": 1
+    },
+    {
+      "from": "kolle ktif",
+      "to": "kollektif",
+      "n": 1
+    },
+    {
+      "from": "kollek tif",
+      "to": "kollektif",
+      "n": 1
+    },
+    {
+      "from": "koma ndit",
+      "to": "komandit",
+      "n": 1
+    },
+    {
+      "from": "konkorda tonun",
+      "to": "konkordatonun",
+      "n": 1
+    },
+    {
+      "from": "konu sunun",
+      "to": "konusunun",
+      "n": 1
+    },
+    {
+      "from": "konular da",
+      "to": "konularda",
+      "n": 1
+    },
+    {
+      "from": "konusun da",
+      "to": "konusunda",
+      "n": 1
+    },
+    {
+      "from": "kor unmasına",
+      "to": "korunmasına",
+      "n": 1
+    },
+    {
+      "from": "koşul ları",
+      "to": "koşulları",
+      "n": 1
+    },
+    {
+      "from": "koşull ar",
+      "to": "koşullar",
+      "n": 1
+    },
+    {
+      "from": "koşuluy la",
+      "to": "koşuluyla",
+      "n": 1
+    },
+    {
+      "from": "ku llanamaz",
+      "to": "kullanamaz",
+      "n": 1
+    },
+    {
+      "from": "ku rallar",
+      "to": "kurallar",
+      "n": 1
+    },
+    {
+      "from": "ku rulması",
+      "to": "kurulması",
+      "n": 1
+    },
+    {
+      "from": "ku rulur",
+      "to": "kurulur",
+      "n": 1
+    },
+    {
+      "from": "kull anabilir",
+      "to": "kullanabilir",
+      "n": 1
+    },
+    {
+      "from": "kull anılabilir",
+      "to": "kullanılabilir",
+      "n": 1
+    },
+    {
+      "from": "kull anması",
+      "to": "kullanması",
+      "n": 1
+    },
+    {
+      "from": "kulla nılarak",
+      "to": "kullanılarak",
+      "n": 1
+    },
+    {
+      "from": "kullan ma",
+      "to": "kullanma",
+      "n": 1
+    },
+    {
+      "from": "kullanabi lir",
+      "to": "kullanabilir",
+      "n": 1
+    },
+    {
+      "from": "kullanı lması",
+      "to": "kullanılması",
+      "n": 1
+    },
+    {
+      "from": "kullanıl ması",
+      "to": "kullanılması",
+      "n": 1
+    },
+    {
+      "from": "kur abilir",
+      "to": "kurabilir",
+      "n": 1
+    },
+    {
+      "from": "kur taranın",
+      "to": "kurtaranın",
+      "n": 1
+    },
+    {
+      "from": "kur tarma",
+      "to": "kurtarma",
+      "n": 1
+    },
+    {
+      "from": "kurta rma",
+      "to": "kurtarma",
+      "n": 1
+    },
+    {
+      "from": "kurtar ılan",
+      "to": "kurtarılan",
+      "n": 1
+    },
+    {
+      "from": "kurtara nın",
+      "to": "kurtaranın",
+      "n": 1
+    },
+    {
+      "from": "kuru lmasından",
+      "to": "kurulmasından",
+      "n": 1
+    },
+    {
+      "from": "kuru lur",
+      "to": "kurulur",
+      "n": 1
+    },
+    {
+      "from": "kurulm ası",
+      "to": "kurulması",
+      "n": 1
+    },
+    {
+      "from": "kurulu nun",
+      "to": "kurulunun",
+      "n": 1
+    },
+    {
+      "from": "kuvve tli",
+      "to": "kuvvetli",
+      "n": 1
+    },
+    {
+      "from": "leh ine",
+      "to": "lehine",
+      "n": 1
+    },
+    {
+      "from": "lehi ne",
+      "to": "lehine",
+      "n": 1
+    },
+    {
+      "from": "ma hkeme",
+      "to": "mahkeme",
+      "n": 1
+    },
+    {
+      "from": "ma hkemenin",
+      "to": "mahkemenin",
+      "n": 1
+    },
+    {
+      "from": "ma lın",
+      "to": "malın",
+      "n": 1
+    },
+    {
+      "from": "ma likinin",
+      "to": "malikinin",
+      "n": 1
+    },
+    {
+      "from": "ma liklerinden",
+      "to": "maliklerinden",
+      "n": 1
+    },
+    {
+      "from": "mad di",
+      "to": "maddi",
+      "n": 1
+    },
+    {
+      "from": "mah keme",
+      "to": "mahkeme",
+      "n": 1
+    },
+    {
+      "from": "mah kemece",
+      "to": "mahkemece",
+      "n": 1
+    },
+    {
+      "from": "mahke mesi",
+      "to": "mahkemesi",
+      "n": 1
+    },
+    {
+      "from": "mahkem ece",
+      "to": "mahkemece",
+      "n": 1
+    },
+    {
+      "from": "mahkeme ler",
+      "to": "mahkemeler",
+      "n": 1
+    },
+    {
+      "from": "mahkemesin den",
+      "to": "mahkemesinden",
+      "n": 1
+    },
+    {
+      "from": "maka mı",
+      "to": "makamı",
+      "n": 1
+    },
+    {
+      "from": "makam ına",
+      "to": "makamına",
+      "n": 1
+    },
+    {
+      "from": "makamı na",
+      "to": "makamına",
+      "n": 1
+    },
+    {
+      "from": "mal ikin",
+      "to": "malikin",
+      "n": 1
+    },
+    {
+      "from": "mal ları",
+      "to": "malları",
+      "n": 1
+    },
+    {
+      "from": "mal ların",
+      "to": "malların",
+      "n": 1
+    },
+    {
+      "from": "mali kine",
+      "to": "malikine",
+      "n": 1
+    },
+    {
+      "from": "malik inin",
+      "to": "malikinin",
+      "n": 1
+    },
+    {
+      "from": "mall arı",
+      "to": "malları",
+      "n": 1
+    },
+    {
+      "from": "mall arın",
+      "to": "malların",
+      "n": 1
+    },
+    {
+      "from": "mall arına",
+      "to": "mallarına",
+      "n": 1
+    },
+    {
+      "from": "mall arının",
+      "to": "mallarının",
+      "n": 1
+    },
+    {
+      "from": "malla rın",
+      "to": "malların",
+      "n": 1
+    },
+    {
+      "from": "malla rının",
+      "to": "mallarının",
+      "n": 1
+    },
+    {
+      "from": "mallar ını",
+      "to": "mallarını",
+      "n": 1
+    },
+    {
+      "from": "malv arlığı",
+      "to": "malvarlığı",
+      "n": 1
+    },
+    {
+      "from": "malv arlığının",
+      "to": "malvarlığının",
+      "n": 1
+    },
+    {
+      "from": "malvarl ığı",
+      "to": "malvarlığı",
+      "n": 1
+    },
+    {
+      "from": "malvarlı ğı",
+      "to": "malvarlığı",
+      "n": 1
+    },
+    {
+      "from": "malze me",
+      "to": "malzeme",
+      "n": 1
+    },
+    {
+      "from": "me muru",
+      "to": "memuru",
+      "n": 1
+    },
+    {
+      "from": "me nfaati",
+      "to": "menfaati",
+      "n": 1
+    },
+    {
+      "from": "me rkezî",
+      "to": "merkezî",
+      "n": 1
+    },
+    {
+      "from": "me tninde",
+      "to": "metninde",
+      "n": 1
+    },
+    {
+      "from": "me tninden",
+      "to": "metninden",
+      "n": 1
+    },
+    {
+      "from": "meğ erki",
+      "to": "meğerki",
+      "n": 1
+    },
+    {
+      "from": "mem urları",
+      "to": "memurları",
+      "n": 1
+    },
+    {
+      "from": "mer kez",
+      "to": "merkez",
+      "n": 1
+    },
+    {
+      "from": "merke zi",
+      "to": "merkezi",
+      "n": 1
+    },
+    {
+      "from": "mes lek",
+      "to": "meslek",
+      "n": 1
+    },
+    {
+      "from": "mevzu atta",
+      "to": "mevzuatta",
+      "n": 1
+    },
+    {
+      "from": "meyd ana",
+      "to": "meydana",
+      "n": 1
+    },
+    {
+      "from": "mi ras",
+      "to": "miras",
+      "n": 1
+    },
+    {
+      "from": "mi rasçı",
+      "to": "mirasçı",
+      "n": 1
+    },
+    {
+      "from": "mi rasçılardan",
+      "to": "mirasçılardan",
+      "n": 1
+    },
+    {
+      "from": "mi rastan",
+      "to": "mirastan",
+      "n": 1
+    },
+    {
+      "from": "mikt arda",
+      "to": "miktarda",
+      "n": 1
+    },
+    {
+      "from": "mikta rını",
+      "to": "miktarını",
+      "n": 1
+    },
+    {
+      "from": "mir as",
+      "to": "miras",
+      "n": 1
+    },
+    {
+      "from": "mir asçılar",
+      "to": "mirasçılar",
+      "n": 1
+    },
+    {
+      "from": "mir asçılara",
+      "to": "mirasçılara",
+      "n": 1
+    },
+    {
+      "from": "mir asçıların",
+      "to": "mirasçıların",
+      "n": 1
+    },
+    {
+      "from": "mir asın",
+      "to": "mirasın",
+      "n": 1
+    },
+    {
+      "from": "mira sçı",
+      "to": "mirasçı",
+      "n": 1
+    },
+    {
+      "from": "miras bırakanın",
+      "to": "mirasbırakanın",
+      "n": 1
+    },
+    {
+      "from": "miras ın",
+      "to": "mirasın",
+      "n": 1
+    },
+    {
+      "from": "mirasbı rakan",
+      "to": "mirasbırakan",
+      "n": 1
+    },
+    {
+      "from": "mirasbırak anın",
+      "to": "mirasbırakanın",
+      "n": 1
+    },
+    {
+      "from": "mirasbırakan ın",
+      "to": "mirasbırakanın",
+      "n": 1
+    },
+    {
+      "from": "mirasç ıları",
+      "to": "mirasçıları",
+      "n": 1
+    },
+    {
+      "from": "mirasçı lara",
+      "to": "mirasçılara",
+      "n": 1
+    },
+    {
+      "from": "mirasçıl arın",
+      "to": "mirasçıların",
+      "n": 1
+    },
+    {
+      "from": "mirasçıla rı",
+      "to": "mirasçıları",
+      "n": 1
+    },
+    {
+      "from": "mirasçılar ına",
+      "to": "mirasçılarına",
+      "n": 1
+    },
+    {
+      "from": "muaccel iyet",
+      "to": "muacceliyet",
+      "n": 1
+    },
+    {
+      "from": "mü dürlüğünce",
+      "to": "müdürlüğünce",
+      "n": 1
+    },
+    {
+      "from": "mü lkiyeti",
+      "to": "mülkiyeti",
+      "n": 1
+    },
+    {
+      "from": "müd ürlüğü",
+      "to": "müdürlüğü",
+      "n": 1
+    },
+    {
+      "from": "müdür lerin",
+      "to": "müdürlerin",
+      "n": 1
+    },
+    {
+      "from": "mül ga",
+      "to": "mülga",
+      "n": 1
+    },
+    {
+      "from": "mülk iyetinin",
+      "to": "mülkiyetinin",
+      "n": 1
+    },
+    {
+      "from": "müm kün",
+      "to": "mümkün",
+      "n": 1
+    },
+    {
+      "from": "mümkün dür",
+      "to": "mümkündür",
+      "n": 1
+    },
+    {
+      "from": "müş terek",
+      "to": "müşterek",
+      "n": 1
+    },
+    {
+      "from": "müşter inin",
+      "to": "müşterinin",
+      "n": 1
+    },
+    {
+      "from": "mütesels il",
+      "to": "müteselsil",
+      "n": 1
+    },
+    {
+      "from": "nak li",
+      "to": "nakli",
+      "n": 1
+    },
+    {
+      "from": "neden iyle",
+      "to": "nedeniyle",
+      "n": 1
+    },
+    {
+      "from": "nedenler le",
+      "to": "nedenlerle",
+      "n": 1
+    },
+    {
+      "from": "ni telik",
+      "to": "nitelik",
+      "n": 1
+    },
+    {
+      "from": "no rmal",
+      "to": "normal",
+      "n": 1
+    },
+    {
+      "from": "nüf us",
+      "to": "nüfus",
+      "n": 1
+    },
+    {
+      "from": "ol duğu",
+      "to": "olduğu",
+      "n": 1
+    },
+    {
+      "from": "ol ma",
+      "to": "olma",
+      "n": 1
+    },
+    {
+      "from": "ol mak",
+      "to": "olmak",
+      "n": 1
+    },
+    {
+      "from": "ol maksızın",
+      "to": "olmaksızın",
+      "n": 1
+    },
+    {
+      "from": "ol ması",
+      "to": "olması",
+      "n": 1
+    },
+    {
+      "from": "ol sun",
+      "to": "olsun",
+      "n": 1
+    },
+    {
+      "from": "ol urlar",
+      "to": "olurlar",
+      "n": 1
+    },
+    {
+      "from": "ola ğan",
+      "to": "olağan",
+      "n": 1
+    },
+    {
+      "from": "ola rak",
+      "to": "olarak",
+      "n": 1
+    },
+    {
+      "from": "olabi lir",
+      "to": "olabilir",
+      "n": 1
+    },
+    {
+      "from": "olağ an",
+      "to": "olağan",
+      "n": 1
+    },
+    {
+      "from": "olan ak",
+      "to": "olanak",
+      "n": 1
+    },
+    {
+      "from": "olanla ra",
+      "to": "olanlara",
+      "n": 1
+    },
+    {
+      "from": "old uğu",
+      "to": "olduğu",
+      "n": 1
+    },
+    {
+      "from": "olduğ unu",
+      "to": "olduğunu",
+      "n": 1
+    },
+    {
+      "from": "olduk ları",
+      "to": "oldukları",
+      "n": 1
+    },
+    {
+      "from": "olm asına",
+      "to": "olmasına",
+      "n": 1
+    },
+    {
+      "from": "olmad ıkça",
+      "to": "olmadıkça",
+      "n": 1
+    },
+    {
+      "from": "olmak sızın",
+      "to": "olmaksızın",
+      "n": 1
+    },
+    {
+      "from": "olmaks ızın",
+      "to": "olmaksızın",
+      "n": 1
+    },
+    {
+      "from": "olması ndan",
+      "to": "olmasından",
+      "n": 1
+    },
+    {
+      "from": "olu nan",
+      "to": "olunan",
+      "n": 1
+    },
+    {
+      "from": "olun ur",
+      "to": "olunur",
+      "n": 1
+    },
+    {
+      "from": "oluş turur",
+      "to": "oluşturur",
+      "n": 1
+    },
+    {
+      "from": "oluş ur",
+      "to": "oluşur",
+      "n": 1
+    },
+    {
+      "from": "onayl anması",
+      "to": "onaylanması",
+      "n": 1
+    },
+    {
+      "from": "onb eş",
+      "to": "onbeş",
+      "n": 1
+    },
+    {
+      "from": "onl arın",
+      "to": "onların",
+      "n": 1
+    },
+    {
+      "from": "or tak",
+      "to": "ortak",
+      "n": 1
+    },
+    {
+      "from": "or taklar",
+      "to": "ortaklar",
+      "n": 1
+    },
+    {
+      "from": "or taklara",
+      "to": "ortaklara",
+      "n": 1
+    },
+    {
+      "from": "or takların",
+      "to": "ortakların",
+      "n": 1
+    },
+    {
+      "from": "or taklığın",
+      "to": "ortaklığın",
+      "n": 1
+    },
+    {
+      "from": "ort aklığı",
+      "to": "ortaklığı",
+      "n": 1
+    },
+    {
+      "from": "ort aklık",
+      "to": "ortaklık",
+      "n": 1
+    },
+    {
+      "from": "orta klar",
+      "to": "ortaklar",
+      "n": 1
+    },
+    {
+      "from": "orta klığı",
+      "to": "ortaklığı",
+      "n": 1
+    },
+    {
+      "from": "ortağ ın",
+      "to": "ortağın",
+      "n": 1
+    },
+    {
+      "from": "ortak ları",
+      "to": "ortakları",
+      "n": 1
+    },
+    {
+      "from": "ortak lık",
+      "to": "ortaklık",
+      "n": 1
+    },
+    {
+      "from": "ortakl arın",
+      "to": "ortakların",
+      "n": 1
+    },
+    {
+      "from": "ortakla rın",
+      "to": "ortakların",
+      "n": 1
+    },
+    {
+      "from": "ortaklığ ın",
+      "to": "ortaklığın",
+      "n": 1
+    },
+    {
+      "from": "ortam da",
+      "to": "ortamda",
+      "n": 1
+    },
+    {
+      "from": "öd enebilir",
+      "to": "ödenebilir",
+      "n": 1
+    },
+    {
+      "from": "öde meden",
+      "to": "ödemeden",
+      "n": 1
+    },
+    {
+      "from": "öde nmesini",
+      "to": "ödenmesini",
+      "n": 1
+    },
+    {
+      "from": "öden mesi",
+      "to": "ödenmesi",
+      "n": 1
+    },
+    {
+      "from": "ödenm esi",
+      "to": "ödenmesi",
+      "n": 1
+    },
+    {
+      "from": "öğre ndiği",
+      "to": "öğrendiği",
+      "n": 1
+    },
+    {
+      "from": "öğren diği",
+      "to": "öğrendiği",
+      "n": 1
+    },
+    {
+      "from": "öl en",
+      "to": "ölen",
+      "n": 1
+    },
+    {
+      "from": "ölçü de",
+      "to": "ölçüde",
+      "n": 1
+    },
+    {
+      "from": "ölçü leri",
+      "to": "ölçüleri",
+      "n": 1
+    },
+    {
+      "from": "ölçüsün de",
+      "to": "ölçüsünde",
+      "n": 1
+    },
+    {
+      "from": "ön ce",
+      "to": "önce",
+      "n": 1
+    },
+    {
+      "from": "ön ünde",
+      "to": "önünde",
+      "n": 1
+    },
+    {
+      "from": "öna lım",
+      "to": "önalım",
+      "n": 1
+    },
+    {
+      "from": "öngörü lmüş",
+      "to": "öngörülmüş",
+      "n": 1
+    },
+    {
+      "from": "öz el",
+      "to": "özel",
+      "n": 1
+    },
+    {
+      "from": "öz ellikle",
+      "to": "özellikle",
+      "n": 1
+    },
+    {
+      "from": "öze llikle",
+      "to": "özellikle",
+      "n": 1
+    },
+    {
+      "from": "özel likle",
+      "to": "özellikle",
+      "n": 1
+    },
+    {
+      "from": "pa yın",
+      "to": "payın",
+      "n": 1
+    },
+    {
+      "from": "pay ını",
+      "to": "payını",
+      "n": 1
+    },
+    {
+      "from": "pay lar",
+      "to": "paylar",
+      "n": 1
+    },
+    {
+      "from": "pay ların",
+      "to": "payların",
+      "n": 1
+    },
+    {
+      "from": "payl arın",
+      "to": "payların",
+      "n": 1
+    },
+    {
+      "from": "paylar ın",
+      "to": "payların",
+      "n": 1
+    },
+    {
+      "from": "payların ın",
+      "to": "paylarının",
+      "n": 1
+    },
+    {
+      "from": "pe rsonelin",
+      "to": "personelin",
+      "n": 1
+    },
+    {
+      "from": "pe şin",
+      "to": "peşin",
+      "n": 1
+    },
+    {
+      "from": "per sonele",
+      "to": "personele",
+      "n": 1
+    },
+    {
+      "from": "pi yasası",
+      "to": "piyasası",
+      "n": 1
+    },
+    {
+      "from": "piyasa sı",
+      "to": "piyasası",
+      "n": 1
+    },
+    {
+      "from": "po liçeden",
+      "to": "poliçeden",
+      "n": 1
+    },
+    {
+      "from": "po sta",
+      "to": "posta",
+      "n": 1
+    },
+    {
+      "from": "pol içenin",
+      "to": "poliçenin",
+      "n": 1
+    },
+    {
+      "from": "poli çe",
+      "to": "poliçe",
+      "n": 1
+    },
+    {
+      "from": "poliç eyi",
+      "to": "poliçeyi",
+      "n": 1
+    },
+    {
+      "from": "poliçen in",
+      "to": "poliçenin",
+      "n": 1
+    },
+    {
+      "from": "pri mleri",
+      "to": "primleri",
+      "n": 1
+    },
+    {
+      "from": "protes to",
+      "to": "protesto",
+      "n": 1
+    },
+    {
+      "from": "ra por",
+      "to": "rapor",
+      "n": 1
+    },
+    {
+      "from": "re hin",
+      "to": "rehin",
+      "n": 1
+    },
+    {
+      "from": "re hinli",
+      "to": "rehinli",
+      "n": 1
+    },
+    {
+      "from": "re hnin",
+      "to": "rehnin",
+      "n": 1
+    },
+    {
+      "from": "re smî",
+      "to": "resmî",
+      "n": 1
+    },
+    {
+      "from": "reh in",
+      "to": "rehin",
+      "n": 1
+    },
+    {
+      "from": "reh inli",
+      "to": "rehinli",
+      "n": 1
+    },
+    {
+      "from": "res mî",
+      "to": "resmî",
+      "n": 1
+    },
+    {
+      "from": "rı zası",
+      "to": "rızası",
+      "n": 1
+    },
+    {
+      "from": "rız ası",
+      "to": "rızası",
+      "n": 1
+    },
+    {
+      "from": "ri sk",
+      "to": "risk",
+      "n": 1
+    },
+    {
+      "from": "rizi konun",
+      "to": "rizikonun",
+      "n": 1
+    },
+    {
+      "from": "rü cu",
+      "to": "rücu",
+      "n": 1
+    },
+    {
+      "from": "rü çhan",
+      "to": "rüçhan",
+      "n": 1
+    },
+    {
+      "from": "rüç han",
+      "to": "rüçhan",
+      "n": 1
+    },
+    {
+      "from": "sa dece",
+      "to": "sadece",
+      "n": 1
+    },
+    {
+      "from": "sa ğlığı",
+      "to": "sağlığı",
+      "n": 1
+    },
+    {
+      "from": "sa hibi",
+      "to": "sahibi",
+      "n": 1
+    },
+    {
+      "from": "sa klı",
+      "to": "saklı",
+      "n": 1
+    },
+    {
+      "from": "sa yılan",
+      "to": "sayılan",
+      "n": 1
+    },
+    {
+      "from": "sa yısı",
+      "to": "sayısı",
+      "n": 1
+    },
+    {
+      "from": "sade ce",
+      "to": "sadece",
+      "n": 1
+    },
+    {
+      "from": "sah ibinin",
+      "to": "sahibinin",
+      "n": 1
+    },
+    {
+      "from": "sahi pleri",
+      "to": "sahipleri",
+      "n": 1
+    },
+    {
+      "from": "sahi psiz",
+      "to": "sahipsiz",
+      "n": 1
+    },
+    {
+      "from": "sahi ptir",
+      "to": "sahiptir",
+      "n": 1
+    },
+    {
+      "from": "sahib inin",
+      "to": "sahibinin",
+      "n": 1
+    },
+    {
+      "from": "sahipt ir",
+      "to": "sahiptir",
+      "n": 1
+    },
+    {
+      "from": "sak lıdır",
+      "to": "saklıdır",
+      "n": 1
+    },
+    {
+      "from": "sakı nca",
+      "to": "sakınca",
+      "n": 1
+    },
+    {
+      "from": "satı mı",
+      "to": "satımı",
+      "n": 1
+    },
+    {
+      "from": "satı şa",
+      "to": "satışa",
+      "n": 1
+    },
+    {
+      "from": "say ısı",
+      "to": "sayısı",
+      "n": 1
+    },
+    {
+      "from": "sayıl ır",
+      "to": "sayılır",
+      "n": 1
+    },
+    {
+      "from": "se bep",
+      "to": "sebep",
+      "n": 1
+    },
+    {
+      "from": "se net",
+      "to": "senet",
+      "n": 1
+    },
+    {
+      "from": "se netler",
+      "to": "senetler",
+      "n": 1
+    },
+    {
+      "from": "se rmaye",
+      "to": "sermaye",
+      "n": 1
+    },
+    {
+      "from": "seb epleri",
+      "to": "sebepleri",
+      "n": 1
+    },
+    {
+      "from": "sebe ple",
+      "to": "sebeple",
+      "n": 1
+    },
+    {
+      "from": "sebebiy le",
+      "to": "sebebiyle",
+      "n": 1
+    },
+    {
+      "from": "sebep le",
+      "to": "sebeple",
+      "n": 1
+    },
+    {
+      "from": "seçi lmiş",
+      "to": "seçilmiş",
+      "n": 1
+    },
+    {
+      "from": "sen edine",
+      "to": "senedine",
+      "n": 1
+    },
+    {
+      "from": "sene di",
+      "to": "senedi",
+      "n": 1
+    },
+    {
+      "from": "senetl eri",
+      "to": "senetleri",
+      "n": 1
+    },
+    {
+      "from": "ser maye",
+      "to": "sermaye",
+      "n": 1
+    },
+    {
+      "from": "serma yeye",
+      "to": "sermayeye",
+      "n": 1
+    },
+    {
+      "from": "sı nırlar",
+      "to": "sınırlar",
+      "n": 1
+    },
+    {
+      "from": "sı ra",
+      "to": "sıra",
+      "n": 1
+    },
+    {
+      "from": "sı rada",
+      "to": "sırada",
+      "n": 1
+    },
+    {
+      "from": "sır ası",
+      "to": "sırası",
+      "n": 1
+    },
+    {
+      "from": "si gortacı",
+      "to": "sigortacı",
+      "n": 1
+    },
+    {
+      "from": "si gortaları",
+      "to": "sigortaları",
+      "n": 1
+    },
+    {
+      "from": "sig ortacıya",
+      "to": "sigortacıya",
+      "n": 1
+    },
+    {
+      "from": "sigo rta",
+      "to": "sigorta",
+      "n": 1
+    },
+    {
+      "from": "sigo rtacı",
+      "to": "sigortacı",
+      "n": 1
+    },
+    {
+      "from": "sigort acı",
+      "to": "sigortacı",
+      "n": 1
+    },
+    {
+      "from": "sigort alının",
+      "to": "sigortalının",
+      "n": 1
+    },
+    {
+      "from": "sigorta cı",
+      "to": "sigortacı",
+      "n": 1
+    },
+    {
+      "from": "sigortac ının",
+      "to": "sigortacının",
+      "n": 1
+    },
+    {
+      "from": "sitesi nde",
+      "to": "sitesinde",
+      "n": 1
+    },
+    {
+      "from": "son ra",
+      "to": "sonra",
+      "n": 1
+    },
+    {
+      "from": "son rası",
+      "to": "sonrası",
+      "n": 1
+    },
+    {
+      "from": "sor umludur",
+      "to": "sorumludur",
+      "n": 1
+    },
+    {
+      "from": "soruml uluk",
+      "to": "sorumluluk",
+      "n": 1
+    },
+    {
+      "from": "sorumludur lar",
+      "to": "sorumludurlar",
+      "n": 1
+    },
+    {
+      "from": "sorumlul uk",
+      "to": "sorumluluk",
+      "n": 1
+    },
+    {
+      "from": "sö zleşme",
+      "to": "sözleşme",
+      "n": 1
+    },
+    {
+      "from": "sö zleşmede",
+      "to": "sözleşmede",
+      "n": 1
+    },
+    {
+      "from": "sö zleşmesinin",
+      "to": "sözleşmesinin",
+      "n": 1
+    },
+    {
+      "from": "söz leşmede",
+      "to": "sözleşmede",
+      "n": 1
+    },
+    {
+      "from": "söz leşmeleri",
+      "to": "sözleşmeleri",
+      "n": 1
+    },
+    {
+      "from": "söz leşmesi",
+      "to": "sözleşmesi",
+      "n": 1
+    },
+    {
+      "from": "söz leşmesinin",
+      "to": "sözleşmesinin",
+      "n": 1
+    },
+    {
+      "from": "sözl eşmede",
+      "to": "sözleşmede",
+      "n": 1
+    },
+    {
+      "from": "sözl eşmeler",
+      "to": "sözleşmeler",
+      "n": 1
+    },
+    {
+      "from": "sözle şmede",
+      "to": "sözleşmede",
+      "n": 1
+    },
+    {
+      "from": "sözleş meye",
+      "to": "sözleşmeye",
+      "n": 1
+    },
+    {
+      "from": "su lh",
+      "to": "sulh",
+      "n": 1
+    },
+    {
+      "from": "sure tiyle",
+      "to": "suretiyle",
+      "n": 1
+    },
+    {
+      "from": "sü renin",
+      "to": "sürenin",
+      "n": 1
+    },
+    {
+      "from": "sü reyi",
+      "to": "süreyi",
+      "n": 1
+    },
+    {
+      "from": "sür enin",
+      "to": "sürenin",
+      "n": 1
+    },
+    {
+      "from": "sürastar ya",
+      "to": "sürastarya",
+      "n": 1
+    },
+    {
+      "from": "süre rek",
+      "to": "sürerek",
+      "n": 1
+    },
+    {
+      "from": "süreb ilir",
+      "to": "sürebilir",
+      "n": 1
+    },
+    {
+      "from": "süres inde",
+      "to": "süresinde",
+      "n": 1
+    },
+    {
+      "from": "süresin de",
+      "to": "süresinde",
+      "n": 1
+    },
+    {
+      "from": "şa rtıyla",
+      "to": "şartıyla",
+      "n": 1
+    },
+    {
+      "from": "şar tlar",
+      "to": "şartlar",
+      "n": 1
+    },
+    {
+      "from": "şar ttır",
+      "to": "şarttır",
+      "n": 1
+    },
+    {
+      "from": "şartl arı",
+      "to": "şartları",
+      "n": 1
+    },
+    {
+      "from": "şartla rla",
+      "to": "şartlarla",
+      "n": 1
+    },
+    {
+      "from": "şe klinde",
+      "to": "şeklinde",
+      "n": 1
+    },
+    {
+      "from": "şekli nde",
+      "to": "şeklinde",
+      "n": 1
+    },
+    {
+      "from": "şey ler",
+      "to": "şeyler",
+      "n": 1
+    },
+    {
+      "from": "şi rket",
+      "to": "şirket",
+      "n": 1
+    },
+    {
+      "from": "şi rketleri",
+      "to": "şirketleri",
+      "n": 1
+    },
+    {
+      "from": "şi rketlerin",
+      "to": "şirketlerin",
+      "n": 1
+    },
+    {
+      "from": "şir ketin",
+      "to": "şirketin",
+      "n": 1
+    },
+    {
+      "from": "şirk et",
+      "to": "şirket",
+      "n": 1
+    },
+    {
+      "from": "şirk etine",
+      "to": "şirketine",
+      "n": 1
+    },
+    {
+      "from": "şirk etlere",
+      "to": "şirketlere",
+      "n": 1
+    },
+    {
+      "from": "ta hsis",
+      "to": "tahsis",
+      "n": 1
+    },
+    {
+      "from": "ta kdir",
+      "to": "takdir",
+      "n": 1
+    },
+    {
+      "from": "ta nımı",
+      "to": "tanımı",
+      "n": 1
+    },
+    {
+      "from": "ta rafların",
+      "to": "tarafların",
+      "n": 1
+    },
+    {
+      "from": "ta sarruf",
+      "to": "tasarruf",
+      "n": 1
+    },
+    {
+      "from": "ta sfiyesi",
+      "to": "tasfiyesi",
+      "n": 1
+    },
+    {
+      "from": "ta şımanın",
+      "to": "taşımanın",
+      "n": 1
+    },
+    {
+      "from": "ta şınmaz",
+      "to": "taşınmaz",
+      "n": 1
+    },
+    {
+      "from": "ta şınmazın",
+      "to": "taşınmazın",
+      "n": 1
+    },
+    {
+      "from": "ta şınmazlarda",
+      "to": "taşınmazlarda",
+      "n": 1
+    },
+    {
+      "from": "ta zminattan",
+      "to": "tazminattan",
+      "n": 1
+    },
+    {
+      "from": "tablola rı",
+      "to": "tabloları",
+      "n": 1
+    },
+    {
+      "from": "tak dirde",
+      "to": "takdirde",
+      "n": 1
+    },
+    {
+      "from": "takd irde",
+      "to": "takdirde",
+      "n": 1
+    },
+    {
+      "from": "takdi rde",
+      "to": "takdirde",
+      "n": 1
+    },
+    {
+      "from": "taksit le",
+      "to": "taksitle",
+      "n": 1
+    },
+    {
+      "from": "tal imatı",
+      "to": "talimatı",
+      "n": 1
+    },
+    {
+      "from": "tanı ğın",
+      "to": "tanığın",
+      "n": 1
+    },
+    {
+      "from": "tar afların",
+      "to": "tarafların",
+      "n": 1
+    },
+    {
+      "from": "tar ihten",
+      "to": "tarihten",
+      "n": 1
+    },
+    {
+      "from": "tara flar",
+      "to": "taraflar",
+      "n": 1
+    },
+    {
+      "from": "tarafı ndan",
+      "to": "tarafından",
+      "n": 1
+    },
+    {
+      "from": "tarafın dan",
+      "to": "tarafından",
+      "n": 1
+    },
+    {
+      "from": "tarafla rca",
+      "to": "taraflarca",
+      "n": 1
+    },
+    {
+      "from": "tarafla rın",
+      "to": "tarafların",
+      "n": 1
+    },
+    {
+      "from": "taraflar ın",
+      "to": "tarafların",
+      "n": 1
+    },
+    {
+      "from": "tarih inden",
+      "to": "tarihinden",
+      "n": 1
+    },
+    {
+      "from": "tarih inin",
+      "to": "tarihinin",
+      "n": 1
+    },
+    {
+      "from": "tarih li",
+      "to": "tarihli",
+      "n": 1
+    },
+    {
+      "from": "tarih ten",
+      "to": "tarihten",
+      "n": 1
+    },
+    {
+      "from": "tarihind en",
+      "to": "tarihinden",
+      "n": 1
+    },
+    {
+      "from": "tas arruf",
+      "to": "tasarruf",
+      "n": 1
+    },
+    {
+      "from": "tasa rruf",
+      "to": "tasarruf",
+      "n": 1
+    },
+    {
+      "from": "tasa rrufu",
+      "to": "tasarrufu",
+      "n": 1
+    },
+    {
+      "from": "tasar ruf",
+      "to": "tasarruf",
+      "n": 1
+    },
+    {
+      "from": "tasar ruflar",
+      "to": "tasarruflar",
+      "n": 1
+    },
+    {
+      "from": "tasar rufu",
+      "to": "tasarrufu",
+      "n": 1
+    },
+    {
+      "from": "tasarr ufu",
+      "to": "tasarrufu",
+      "n": 1
+    },
+    {
+      "from": "tasarru fu",
+      "to": "tasarrufu",
+      "n": 1
+    },
+    {
+      "from": "tasarruf ta",
+      "to": "tasarrufta",
+      "n": 1
+    },
+    {
+      "from": "tasfi yeye",
+      "to": "tasfiyeye",
+      "n": 1
+    },
+    {
+      "from": "taş ınmaz",
+      "to": "taşınmaz",
+      "n": 1
+    },
+    {
+      "from": "taş ıyıcı",
+      "to": "taşıyıcı",
+      "n": 1
+    },
+    {
+      "from": "taşı nır",
+      "to": "taşınır",
+      "n": 1
+    },
+    {
+      "from": "taşı nmaza",
+      "to": "taşınmaza",
+      "n": 1
+    },
+    {
+      "from": "taşı nmazlar",
+      "to": "taşınmazlar",
+      "n": 1
+    },
+    {
+      "from": "taşı yan",
+      "to": "taşıyan",
+      "n": 1
+    },
+    {
+      "from": "taşı yıcı",
+      "to": "taşıyıcı",
+      "n": 1
+    },
+    {
+      "from": "taşın mazı",
+      "to": "taşınmazı",
+      "n": 1
+    },
+    {
+      "from": "taşın mazların",
+      "to": "taşınmazların",
+      "n": 1
+    },
+    {
+      "from": "taşınm azın",
+      "to": "taşınmazın",
+      "n": 1
+    },
+    {
+      "from": "taşınm azlarda",
+      "to": "taşınmazlarda",
+      "n": 1
+    },
+    {
+      "from": "taşınma zın",
+      "to": "taşınmazın",
+      "n": 1
+    },
+    {
+      "from": "taşınma zların",
+      "to": "taşınmazların",
+      "n": 1
+    },
+    {
+      "from": "taşınmazl arda",
+      "to": "taşınmazlarda",
+      "n": 1
+    },
+    {
+      "from": "taşınmazlar ın",
+      "to": "taşınmazların",
+      "n": 1
+    },
+    {
+      "from": "te merrüt",
+      "to": "temerrüt",
+      "n": 1
+    },
+    {
+      "from": "te msil",
+      "to": "temsil",
+      "n": 1
+    },
+    {
+      "from": "te nkis",
+      "to": "tenkis",
+      "n": 1
+    },
+    {
+      "from": "te scilin",
+      "to": "tescilin",
+      "n": 1
+    },
+    {
+      "from": "tebl iğ",
+      "to": "tebliğ",
+      "n": 1
+    },
+    {
+      "from": "tedb ir",
+      "to": "tedbir",
+      "n": 1
+    },
+    {
+      "from": "tehlik enin",
+      "to": "tehlikenin",
+      "n": 1
+    },
+    {
+      "from": "tem sil",
+      "to": "temsil",
+      "n": 1
+    },
+    {
+      "from": "temer rüt",
+      "to": "temerrüt",
+      "n": 1
+    },
+    {
+      "from": "tems ilcisi",
+      "to": "temsilcisi",
+      "n": 1
+    },
+    {
+      "from": "ten kis",
+      "to": "tenkis",
+      "n": 1
+    },
+    {
+      "from": "ter eke",
+      "to": "tereke",
+      "n": 1
+    },
+    {
+      "from": "tere kenin",
+      "to": "terekenin",
+      "n": 1
+    },
+    {
+      "from": "terki ni",
+      "to": "terkini",
+      "n": 1
+    },
+    {
+      "from": "tes cil",
+      "to": "tescil",
+      "n": 1
+    },
+    {
+      "from": "tes cile",
+      "to": "tescile",
+      "n": 1
+    },
+    {
+      "from": "tes piti",
+      "to": "tespiti",
+      "n": 1
+    },
+    {
+      "from": "tesc ilin",
+      "to": "tescilin",
+      "n": 1
+    },
+    {
+      "from": "tesci li",
+      "to": "tescili",
+      "n": 1
+    },
+    {
+      "from": "tesci lin",
+      "to": "tescilin",
+      "n": 1
+    },
+    {
+      "from": "tesp it",
+      "to": "tespit",
+      "n": 1
+    },
+    {
+      "from": "tic aret",
+      "to": "ticaret",
+      "n": 1
+    },
+    {
+      "from": "ticar et",
+      "to": "ticaret",
+      "n": 1
+    },
+    {
+      "from": "top luluk",
+      "to": "topluluk",
+      "n": 1
+    },
+    {
+      "from": "topl amı",
+      "to": "toplamı",
+      "n": 1
+    },
+    {
+      "from": "topla nan",
+      "to": "toplanan",
+      "n": 1
+    },
+    {
+      "from": "toplu luk",
+      "to": "topluluk",
+      "n": 1
+    },
+    {
+      "from": "tu tma",
+      "to": "tutma",
+      "n": 1
+    },
+    {
+      "from": "tut ulur",
+      "to": "tutulur",
+      "n": 1
+    },
+    {
+      "from": "tutar ının",
+      "to": "tutarının",
+      "n": 1
+    },
+    {
+      "from": "tutu lmasına",
+      "to": "tutulmasına",
+      "n": 1
+    },
+    {
+      "from": "tutu lur",
+      "to": "tutulur",
+      "n": 1
+    },
+    {
+      "from": "tü rkçe",
+      "to": "türkçe",
+      "n": 1
+    },
+    {
+      "from": "tü zel",
+      "to": "tüzel",
+      "n": 1
+    },
+    {
+      "from": "tük etici",
+      "to": "tüketici",
+      "n": 1
+    },
+    {
+      "from": "tür leri",
+      "to": "türleri",
+      "n": 1
+    },
+    {
+      "from": "türk iye",
+      "to": "türkiye",
+      "n": 1
+    },
+    {
+      "from": "tüzük te",
+      "to": "tüzükte",
+      "n": 1
+    },
+    {
+      "from": "uğra dığı",
+      "to": "uğradığı",
+      "n": 1
+    },
+    {
+      "from": "ulaştı rma",
+      "to": "ulaştırma",
+      "n": 1
+    },
+    {
+      "from": "ulaştır ma",
+      "to": "ulaştırma",
+      "n": 1
+    },
+    {
+      "from": "usu lü",
+      "to": "usulü",
+      "n": 1
+    },
+    {
+      "from": "uy gulanmaz",
+      "to": "uygulanmaz",
+      "n": 1
+    },
+    {
+      "from": "uy gun",
+      "to": "uygun",
+      "n": 1
+    },
+    {
+      "from": "uya rınca",
+      "to": "uyarınca",
+      "n": 1
+    },
+    {
+      "from": "uyarın ca",
+      "to": "uyarınca",
+      "n": 1
+    },
+    {
+      "from": "uyg ulamasında",
+      "to": "uygulamasında",
+      "n": 1
+    },
+    {
+      "from": "uyg ulanır",
+      "to": "uygulanır",
+      "n": 1
+    },
+    {
+      "from": "uyg ulanmaz",
+      "to": "uygulanmaz",
+      "n": 1
+    },
+    {
+      "from": "uyg un",
+      "to": "uygun",
+      "n": 1
+    },
+    {
+      "from": "uygu lanmasında",
+      "to": "uygulanmasında",
+      "n": 1
+    },
+    {
+      "from": "uygula nır",
+      "to": "uygulanır",
+      "n": 1
+    },
+    {
+      "from": "uygulanm az",
+      "to": "uygulanmaz",
+      "n": 1
+    },
+    {
+      "from": "uygun luğu",
+      "to": "uygunluğu",
+      "n": 1
+    },
+    {
+      "from": "uyuş mazlıklarda",
+      "to": "uyuşmazlıklarda",
+      "n": 1
+    },
+    {
+      "from": "üc reti",
+      "to": "ücreti",
+      "n": 1
+    },
+    {
+      "from": "ücr et",
+      "to": "ücret",
+      "n": 1
+    },
+    {
+      "from": "ücreti ni",
+      "to": "ücretini",
+      "n": 1
+    },
+    {
+      "from": "üçü ncü",
+      "to": "üçüncü",
+      "n": 1
+    },
+    {
+      "from": "üst soy",
+      "to": "üstsoy",
+      "n": 1
+    },
+    {
+      "from": "üyel erin",
+      "to": "üyelerin",
+      "n": 1
+    },
+    {
+      "from": "üz ere",
+      "to": "üzere",
+      "n": 1
+    },
+    {
+      "from": "üz erindeki",
+      "to": "üzerindeki",
+      "n": 1
+    },
+    {
+      "from": "üze rine",
+      "to": "üzerine",
+      "n": 1
+    },
+    {
+      "from": "üzer inde",
+      "to": "üzerinde",
+      "n": 1
+    },
+    {
+      "from": "üzeri nde",
+      "to": "üzerinde",
+      "n": 1
+    },
+    {
+      "from": "üzeri ne",
+      "to": "üzerine",
+      "n": 1
+    },
+    {
+      "from": "üzerin deki",
+      "to": "üzerindeki",
+      "n": 1
+    },
+    {
+      "from": "üzerind eki",
+      "to": "üzerindeki",
+      "n": 1
+    },
+    {
+      "from": "va si",
+      "to": "vasi",
+      "n": 1
+    },
+    {
+      "from": "va sinin",
+      "to": "vasinin",
+      "n": 1
+    },
+    {
+      "from": "va siyetname",
+      "to": "vasiyetname",
+      "n": 1
+    },
+    {
+      "from": "vakı fları",
+      "to": "vakıfları",
+      "n": 1
+    },
+    {
+      "from": "varlı ğının",
+      "to": "varlığının",
+      "n": 1
+    },
+    {
+      "from": "varlığ ının",
+      "to": "varlığının",
+      "n": 1
+    },
+    {
+      "from": "vasin in",
+      "to": "vasinin",
+      "n": 1
+    },
+    {
+      "from": "vasiye ti",
+      "to": "vasiyeti",
+      "n": 1
+    },
+    {
+      "from": "vasiyetna me",
+      "to": "vasiyetname",
+      "n": 1
+    },
+    {
+      "from": "ve ren",
+      "to": "veren",
+      "n": 1
+    },
+    {
+      "from": "ve rilen",
+      "to": "verilen",
+      "n": 1
+    },
+    {
+      "from": "ve rilirse",
+      "to": "verilirse",
+      "n": 1
+    },
+    {
+      "from": "ve rilmeyen",
+      "to": "verilmeyen",
+      "n": 1
+    },
+    {
+      "from": "ve rmek",
+      "to": "vermek",
+      "n": 1
+    },
+    {
+      "from": "ver ebilir",
+      "to": "verebilir",
+      "n": 1
+    },
+    {
+      "from": "ver gi",
+      "to": "vergi",
+      "n": 1
+    },
+    {
+      "from": "ver ilen",
+      "to": "verilen",
+      "n": 1
+    },
+    {
+      "from": "vere ceği",
+      "to": "vereceği",
+      "n": 1
+    },
+    {
+      "from": "vereb ilir",
+      "to": "verebilir",
+      "n": 1
+    },
+    {
+      "from": "veri lir",
+      "to": "verilir",
+      "n": 1
+    },
+    {
+      "from": "veril ebilmesi",
+      "to": "verilebilmesi",
+      "n": 1
+    },
+    {
+      "from": "veril emez",
+      "to": "verilemez",
+      "n": 1
+    },
+    {
+      "from": "veril ir",
+      "to": "verilir",
+      "n": 1
+    },
+    {
+      "from": "verilme si",
+      "to": "verilmesi",
+      "n": 1
+    },
+    {
+      "from": "verm eden",
+      "to": "vermeden",
+      "n": 1
+    },
+    {
+      "from": "verm ekten",
+      "to": "vermekten",
+      "n": 1
+    },
+    {
+      "from": "verme kle",
+      "to": "vermekle",
+      "n": 1
+    },
+    {
+      "from": "ya pacağı",
+      "to": "yapacağı",
+      "n": 1
+    },
+    {
+      "from": "ya pılan",
+      "to": "yapılan",
+      "n": 1
+    },
+    {
+      "from": "ya pılar",
+      "to": "yapılar",
+      "n": 1
+    },
+    {
+      "from": "ya sağı",
+      "to": "yasağı",
+      "n": 1
+    },
+    {
+      "from": "ya zılan",
+      "to": "yazılan",
+      "n": 1
+    },
+    {
+      "from": "yaban cı",
+      "to": "yabancı",
+      "n": 1
+    },
+    {
+      "from": "yap ılabilir",
+      "to": "yapılabilir",
+      "n": 1
+    },
+    {
+      "from": "yap ılmamışsa",
+      "to": "yapılmamışsa",
+      "n": 1
+    },
+    {
+      "from": "yap ılmasını",
+      "to": "yapılmasını",
+      "n": 1
+    },
+    {
+      "from": "yap tığı",
+      "to": "yaptığı",
+      "n": 1
+    },
+    {
+      "from": "yapab ilir",
+      "to": "yapabilir",
+      "n": 1
+    },
+    {
+      "from": "yapı lır",
+      "to": "yapılır",
+      "n": 1
+    },
+    {
+      "from": "yapıl ması",
+      "to": "yapılması",
+      "n": 1
+    },
+    {
+      "from": "yapılabil ir",
+      "to": "yapılabilir",
+      "n": 1
+    },
+    {
+      "from": "yapılmam ası",
+      "to": "yapılmaması",
+      "n": 1
+    },
+    {
+      "from": "yapılmış sa",
+      "to": "yapılmışsa",
+      "n": 1
+    },
+    {
+      "from": "yapt ığı",
+      "to": "yaptığı",
+      "n": 1
+    },
+    {
+      "from": "yapt ıkları",
+      "to": "yaptıkları",
+      "n": 1
+    },
+    {
+      "from": "yar arına",
+      "to": "yararına",
+      "n": 1
+    },
+    {
+      "from": "yar dım",
+      "to": "yardım",
+      "n": 1
+    },
+    {
+      "from": "yar dımcıları",
+      "to": "yardımcıları",
+      "n": 1
+    },
+    {
+      "from": "yara yan",
+      "to": "yarayan",
+      "n": 1
+    },
+    {
+      "from": "yarar lanma",
+      "to": "yararlanma",
+      "n": 1
+    },
+    {
+      "from": "yard ım",
+      "to": "yardım",
+      "n": 1
+    },
+    {
+      "from": "yargı lama",
+      "to": "yargılama",
+      "n": 1
+    },
+    {
+      "from": "yas aktır",
+      "to": "yasaktır",
+      "n": 1
+    },
+    {
+      "from": "yasak tır",
+      "to": "yasaktır",
+      "n": 1
+    },
+    {
+      "from": "yaz ılı",
+      "to": "yazılı",
+      "n": 1
+    },
+    {
+      "from": "yazıl an",
+      "to": "yazılan",
+      "n": 1
+    },
+    {
+      "from": "yazıl mamış",
+      "to": "yazılmamış",
+      "n": 1
+    },
+    {
+      "from": "yazılm amış",
+      "to": "yazılmamış",
+      "n": 1
+    },
+    {
+      "from": "ye niden",
+      "to": "yeniden",
+      "n": 1
+    },
+    {
+      "from": "ye ri",
+      "to": "yeri",
+      "n": 1
+    },
+    {
+      "from": "ye rleşim",
+      "to": "yerleşim",
+      "n": 1
+    },
+    {
+      "from": "ye tkili",
+      "to": "yetkili",
+      "n": 1
+    },
+    {
+      "from": "yed ek",
+      "to": "yedek",
+      "n": 1
+    },
+    {
+      "from": "yerle şim",
+      "to": "yerleşim",
+      "n": 1
+    },
+    {
+      "from": "yet erli",
+      "to": "yeterli",
+      "n": 1
+    },
+    {
+      "from": "yet kilerine",
+      "to": "yetkilerine",
+      "n": 1
+    },
+    {
+      "from": "yet kili",
+      "to": "yetkili",
+      "n": 1
+    },
+    {
+      "from": "yet kisi",
+      "to": "yetkisi",
+      "n": 1
+    },
+    {
+      "from": "yet kisinin",
+      "to": "yetkisinin",
+      "n": 1
+    },
+    {
+      "from": "yet kisiz",
+      "to": "yetkisiz",
+      "n": 1
+    },
+    {
+      "from": "yetk ileri",
+      "to": "yetkileri",
+      "n": 1
+    },
+    {
+      "from": "yetk isi",
+      "to": "yetkisi",
+      "n": 1
+    },
+    {
+      "from": "yetkilid ir",
+      "to": "yetkilidir",
+      "n": 1
+    },
+    {
+      "from": "yıll ık",
+      "to": "yıllık",
+      "n": 1
+    },
+    {
+      "from": "yıllar da",
+      "to": "yıllarda",
+      "n": 1
+    },
+    {
+      "from": "yirmid ört",
+      "to": "yirmidört",
+      "n": 1
+    },
+    {
+      "from": "yo ktur",
+      "to": "yoktur",
+      "n": 1
+    },
+    {
+      "from": "yok sun",
+      "to": "yoksun",
+      "n": 1
+    },
+    {
+      "from": "yol uyla",
+      "to": "yoluyla",
+      "n": 1
+    },
+    {
+      "from": "yolcu luk",
+      "to": "yolculuk",
+      "n": 1
+    },
+    {
+      "from": "yolcul uk",
+      "to": "yolculuk",
+      "n": 1
+    },
+    {
+      "from": "yoluy la",
+      "to": "yoluyla",
+      "n": 1
+    },
+    {
+      "from": "yö nelik",
+      "to": "yönelik",
+      "n": 1
+    },
+    {
+      "from": "yö netmelik",
+      "to": "yönetmelik",
+      "n": 1
+    },
+    {
+      "from": "yöne lik",
+      "to": "yönelik",
+      "n": 1
+    },
+    {
+      "from": "yöne tmelikle",
+      "to": "yönetmelikle",
+      "n": 1
+    },
+    {
+      "from": "yönet im",
+      "to": "yönetim",
+      "n": 1
+    },
+    {
+      "from": "yönetmel ikle",
+      "to": "yönetmelikle",
+      "n": 1
+    },
+    {
+      "from": "yönetmeli kle",
+      "to": "yönetmelikle",
+      "n": 1
+    },
+    {
+      "from": "yönetmelik le",
+      "to": "yönetmelikle",
+      "n": 1
+    },
+    {
+      "from": "yuk arıdaki",
+      "to": "yukarıdaki",
+      "n": 1
+    },
+    {
+      "from": "yur du",
+      "to": "yurdu",
+      "n": 1
+    },
+    {
+      "from": "yü zünden",
+      "to": "yüzünden",
+      "n": 1
+    },
+    {
+      "from": "yük leme",
+      "to": "yükleme",
+      "n": 1
+    },
+    {
+      "from": "yük lü",
+      "to": "yüklü",
+      "n": 1
+    },
+    {
+      "from": "yük ümlü",
+      "to": "yükümlü",
+      "n": 1
+    },
+    {
+      "from": "yükl eme",
+      "to": "yükleme",
+      "n": 1
+    },
+    {
+      "from": "yükle me",
+      "to": "yükleme",
+      "n": 1
+    },
+    {
+      "from": "yükü mlülük",
+      "to": "yükümlülük",
+      "n": 1
+    },
+    {
+      "from": "yükü nün",
+      "to": "yükünün",
+      "n": 1
+    },
+    {
+      "from": "yüküm lülüğü",
+      "to": "yükümlülüğü",
+      "n": 1
+    },
+    {
+      "from": "yüküm lülüğünü",
+      "to": "yükümlülüğünü",
+      "n": 1
+    },
+    {
+      "from": "yüküml ülüğünü",
+      "to": "yükümlülüğünü",
+      "n": 1
+    },
+    {
+      "from": "yükümlülüğün ün",
+      "to": "yükümlülüğünün",
+      "n": 1
+    },
+    {
+      "from": "yürüt me",
+      "to": "yürütme",
+      "n": 1
+    },
+    {
+      "from": "yüzü nden",
+      "to": "yüzünden",
+      "n": 1
+    },
+    {
+      "from": "yüzün den",
+      "to": "yüzünden",
+      "n": 1
+    },
+    {
+      "from": "za manaşımı",
+      "to": "zamanaşımı",
+      "n": 1
+    },
+    {
+      "from": "za rar",
+      "to": "zarar",
+      "n": 1
+    },
+    {
+      "from": "za rarı",
+      "to": "zararı",
+      "n": 1
+    },
+    {
+      "from": "zama naşımı",
+      "to": "zamanaşımı",
+      "n": 1
+    },
+    {
+      "from": "zama naşımına",
+      "to": "zamanaşımına",
+      "n": 1
+    },
+    {
+      "from": "zamana şımına",
+      "to": "zamanaşımına",
+      "n": 1
+    },
+    {
+      "from": "zamanaş ımı",
+      "to": "zamanaşımı",
+      "n": 1
+    },
+    {
+      "from": "zamanaşı mı",
+      "to": "zamanaşımı",
+      "n": 1
+    },
+    {
+      "from": "zamanaşım ına",
+      "to": "zamanaşımına",
+      "n": 1
+    },
+    {
+      "from": "zamanaşımı na",
+      "to": "zamanaşımına",
+      "n": 1
+    },
+    {
+      "from": "zar arlardan",
+      "to": "zararlardan",
+      "n": 1
+    },
+    {
+      "from": "zarar ın",
+      "to": "zararın",
+      "n": 1
+    },
+    {
+      "from": "zarar lar",
+      "to": "zararlar",
+      "n": 1
+    },
+    {
+      "from": "zararlar dan",
+      "to": "zararlardan",
+      "n": 1
+    },
+    {
+      "from": "zararlard an",
+      "to": "zararlardan",
+      "n": 1
+    },
+    {
+      "from": "zily etliğin",
+      "to": "zilyetliğin",
+      "n": 1
+    },
+    {
+      "from": "zilye tlik",
+      "to": "zilyetlik",
+      "n": 1
+    },
+    {
+      "from": "zilyet liğin",
+      "to": "zilyetliğin",
+      "n": 1
+    },
+    {
+      "from": "zo runlu",
+      "to": "zorunlu",
+      "n": 1
+    },
+    {
+      "from": "zor undadırlar",
+      "to": "zorundadırlar",
+      "n": 1
+    },
+    {
+      "from": "zoru nda",
+      "to": "zorunda",
+      "n": 1
+    },
+    {
+      "from": "zoru ndadır",
+      "to": "zorundadır",
+      "n": 1
+    },
+    {
+      "from": "zoru ndadırlar",
+      "to": "zorundadırlar",
+      "n": 1
+    },
+    {
+      "from": "zoru nlu",
+      "to": "zorunlu",
+      "n": 1
+    },
+    {
+      "from": "zorun dadırlar",
+      "to": "zorundadırlar",
+      "n": 1
+    },
+    {
+      "from": "zorun ludur",
+      "to": "zorunludur",
+      "n": 1
+    },
+    {
+      "from": "zorund adır",
+      "to": "zorundadır",
+      "n": 1
+    },
+    {
+      "from": "zorundadı rlar",
+      "to": "zorundadırlar",
+      "n": 1
+    },
+    {
+      "from": "zorunl uluk",
+      "to": "zorunluluk",
+      "n": 1
+    }
+  ]
+}

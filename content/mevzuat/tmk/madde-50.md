@@ -11,7 +11,9 @@ wordCount: 4304
 
 ---
 
-Madde 50 - Tüzel kişinin iradesi, organları aracılığıyla açıklanır. Organlar, hukukî işlemleri ve diğer bütün fiilleriy le tüzel kişiyi borç altına sokarlar. Organlar, kusurlarından dolayı ayrıca kişisel olarak soru mludu rlar.
+Madde 50- Tüzel kişinin iradesi, organları aracılığıyla açıklanır.
+Organlar, hukukî işlemleri ve diğer bütün fiilleriyle tüzel kişiyi borç altına sokarlar.
+Organlar, kusurlarından dolayı ayrıca kişisel olarak sorumludurlar.
 
 ---
 

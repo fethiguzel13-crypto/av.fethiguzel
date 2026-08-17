@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**3. Kara r**
+**3. Karar**
 
 ---
 
-Madde 424 - Denetim makamı, vereceği kararı vasil iğe atanmış ol an kimseye ve vesayet makamına bildirir. Vasiliğe atananın görevden alınması hâlinde vesayet makamı, hemen yeni bir vasi atar.
+Madde 424- Denetim makamı, vereceği kararı vasiliğe atanmış olan kimseye ve vesayet
+makamına bildirir.
+Vasiliğe atananın görevden alınması hâlinde vesayet makamı, hemen yeni bir vasi atar.
 
 ---
 

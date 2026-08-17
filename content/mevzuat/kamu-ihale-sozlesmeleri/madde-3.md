@@ -13,6 +13,8 @@ wordCount: 4276
 
 Madde 3- Bu Kanunun uygulanmasında Kamu İhale Kanununda yer alan tanımlar geçerlidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,16 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**Eğitim merkezleri**
+**Eğitim merkezleri:**
 
 ---
 
 Madde 216 – Kurumlar kendi eğitim ihtiyaçlarını karşılamak üzere eğitim merkezleri
 açabilirler. Kurumlararası eğitim ihtiyaçlarını karşılamak üzere, Cumhurbaşkanı kararıyla,
-kurumlararası eğitim merkezleri de açılabilir.281
+kurumlararası eğitim merkezleri de açılabilir.
 Eğitim birim ve merkezlerinin kuruluş ve işleyişleri Başbakanlık Devlet Personel
 Başkanlığının görüşü alınmak suretiyle kurumlarınca hazırlanacak yönetmeliklerle
 düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

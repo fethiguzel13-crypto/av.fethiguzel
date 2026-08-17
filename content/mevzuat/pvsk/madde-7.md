@@ -7,17 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**para cezası bir kat artırılarak uygulanır.**
-
----
-
 Madde 7 – (Değişik: 24/11/2004-5259/2 md.)
 Kişilerin tek tek veya toplu olarak eğlenmesi, dinlenmesi veya konaklaması için açılan
 otel, motel, pansiyon, kamping ve benzeri konaklama yerleri; gazino, pavyon, meyhane, bar,
 birahane, içkili lokanta, taverna ve benzeri içkili yerler; sinema, kahvehane ve kıraathane;
-
-
-kumar ve kazanç kastı olmamak şartıyla adı ne olursa olsun bilgi ve maharet artırıcı veya zeka
+kumar ve kazanç kastı olmamak şartıyla adı ne olursa olsun bilgi ve maharet artırıcı veya zeka
 geliştirici nitelikteki elektronik oyun alet ve makinelerinin, video ve televizyon oyunlarının
 içerisinde bulunduğu elektronik oyun yerleri; internet kafeler ve benzeri yerler umuma açık
 istirahat ve eğlence yeri sayılır.
@@ -40,6 +34,9 @@ kolluk kuvvetine gönderilir. Bu iş yerleri genel güvenlik ve asayiş yönünd
 tarafından denetlenir.
 Bu yerlerin ruhsatlandırılmasında 14.6.1989 tarihli ve 3572 sayılı İş Yeri Açma ve
 Çalışma Ruhsatlarına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair
+Kanunun 5 inci ve 6 ncı maddelerinin hükümleri uygulanmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

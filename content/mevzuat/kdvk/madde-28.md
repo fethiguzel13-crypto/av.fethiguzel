@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**Oran:72737475**
+**İKİNCİ BÖLÜM
+Oran
+72737475
+Oran:**
 
 ---
 
@@ -17,6 +20,8 @@ oranı, dört katına kadar artırmaya, % 1 'e kadar indirmeye, bu oranlar dahil
 ve hizmetler ile bazı malların perakende safhası ve inşaatın yapıldığı arsanın veya konutun
 vergi değeri ve bulunduğu yeri esas alarak konut teslimleri için farklı vergi oranları tespit
 etmeye yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

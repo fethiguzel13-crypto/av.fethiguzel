@@ -7,20 +7,17 @@ lastReviewed: "2026-07-27"
 wordCount: 3629
 ---
 
-**Çocuk evlilik içinde ana rahmine düşmüşse davacı, kocanın baba**
+**II. İspat
+1. Evlilik içinde ana rahmine düşme**
 
 ---
 
-Madde 287 - Çocuk evlilik içinde ana rahmine düşmüşse davacı, kocanın baba
-olmadığını ispat etmek zorundadır.
+Madde 287- Çocuk evlilik içinde ana rahmine düşmüşse davacı, kocanın baba olmadığını
+ispat etmek zorundadır.
+Evlenmeden başlayarak en az yüzseksen gün geçtikten sonra ve evliliğin sona ermesinden
+başlayarak en fazla üçyüz gün içinde doğan çocuk evlilik içinde ana rahmine düşmüş sayılır.
 
-Evlenmeden
-başlayarak en az yüzseksen gün geçtikten sonra ve evliliğin sona ermesinden
-başlayarak en fazla üçyüz gün içinde doğan çocuk evlilik içinde ana rahmine
-düşmüş sayılır.
-
-2.
-Evlenmeden önce veya ayrı yaşama sırasında ana rahmine düşme
+---
 
 ### Akademik Yorum ve Analiz
 

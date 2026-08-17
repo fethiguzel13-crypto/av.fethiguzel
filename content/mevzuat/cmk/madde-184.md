@@ -14,6 +14,8 @@ wordCount: 4270
 Madde 184 – (1) 182 nci maddede gösterilen hâllerde, açıklığın kaldırılması istemine
 ilişkin olarak yapılacak duruşma, istem üzerine veya mahkemece uygun görülürse kapalı yapılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

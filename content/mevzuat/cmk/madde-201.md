@@ -20,6 +20,8 @@ yeniden soru sorabilir.
 (2) Heyet halinde görev yapan mahkemelerde, heyeti oluşturan hâkimler, birinci
 fıkrada belirtilen kişilere soru sorabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

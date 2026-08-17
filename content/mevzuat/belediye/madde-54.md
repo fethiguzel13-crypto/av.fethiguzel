@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Denetimin amacı**
+**DÖRDÜNCÜ KISIM
+Belediyelerin Denetimi
+Denetimin amacı**
 
 ---
 
@@ -17,6 +19,8 @@ güvenilir ve tutarlı duruma gelmesine rehberlik etmek amacıyla; hizmetlerin s
 mevzuata, önceden belirlenmiş amaç ve hedeflere, performans ölçütlerine ve kalite standartlarına
 göre tarafsız olarak analiz etmek, karşılaştırmak ve ölçmek; kanıtlara dayalı olarak değerlendirmek,
 elde edilen sonuçları rapor hâline getirerek ilgililere duyurmaktır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

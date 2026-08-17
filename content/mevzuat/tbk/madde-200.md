@@ -11,7 +11,7 @@ wordCount: 4307
 
 ---
 
-Madde 200 - Dış üstlenme sözleşmesi hükümsüz hâle gelirse, iyiniyetli üçüncü
+MADDE 200- Dış üstlenme sözleşmesi hükümsüz hâle gelirse, iyiniyetli üçüncü
 kişilerin hakları saklı kalmak üzere, eski borç bütün bağlı borçlarıyla birlikte varlığını sürdürür.
 Bundan başka, borcu üstlenen üstlenme sözleşmesinin hükümsüz hâle gelmesinde ve
 alacaklının zarara uğramasında kendisine bir kusur yüklenemeyeceğini ispat etmedikçe

@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**c) İstirdat davası**
+**c) İstirdat davası:**
 
 ---
 
 Madde 175 – (Değişik: 18/2/1965-538/90 md.)
 İflas takibine itiraz etmemesi yüzünden borçlu olmadığı bir parayı ödeyen kimse 72
 nci madde uyarınca geri almak hakkını haizdir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

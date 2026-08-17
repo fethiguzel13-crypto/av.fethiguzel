@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Haczedilen menkul malların korunması**
+**Haczedilen menkul malların korunması:**
 
 ---
 
@@ -16,6 +16,8 @@ tahvil gibi menkul mallar kaybolmalarını ve değiştirilmelerini önliyecek te
 tahsil dairelerince muhafaza olunur.
 Sair menkul mallar uygun bir yerde muhafaza altına alınır veya güvenilir bir şahsa
 veyahut güvenilir bir şahsın kefaleti altında borçlunun veya zilyedin kendisinde bırakılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

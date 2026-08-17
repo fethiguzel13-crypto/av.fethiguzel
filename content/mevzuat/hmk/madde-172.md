@@ -16,7 +16,9 @@ isticvap olunacak kişi, mahkemenin bulunduğu il dışında oturuyor ve bulundu
 anda ses ve görüntü nakledilmesi yolu ile isticvap olunması mümkün değil ise istinabe yolu
 ile isticvap olunur.
 (2) İsticvap olunacak kimse hastalık, engellilik veya benzeri sebeplerle mahkemeye
-bizzat gelemeyecek durumda ise bulunduğu yerde isticvap olunur.19
+bizzat gelemeyecek durumda ise bulunduğu yerde isticvap olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

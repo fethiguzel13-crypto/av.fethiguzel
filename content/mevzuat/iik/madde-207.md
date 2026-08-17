@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Sıralar arasındaki münasebet**
+**Sıralar arasındaki münasebet:**
 
 ---
 
 Madde 207 – Her sıranın alacaklıları aralarında müsavi hakka maliktirler.
 Bir sıra evvelki alacaklılar alacaklarını tamamen almadıkça sonra gelen sıradakiler bir
 şey alamazlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

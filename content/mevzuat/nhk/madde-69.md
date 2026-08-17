@@ -7,21 +7,22 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Yönetmelik**
+**Vasiyetname ve ölüme bağlı tasarruflarla ilgili işler:**
 
 ---
 
-MADDE 69- (1) Bu Kanunun uygulanmasına ilişkin yönetmelikler Cumhurbaşkanınca
-yürürlüğe konulur.28
+Madde 69 – Noterler açık veya kapalı olarak verilen vasiyetnameleri saklarlar ve buna
+dair bir tutanak düzenlerler. Gerek bu suretle saklanan vasiyetnameleri, gerek noterler
+tarafından düzenlenen sair ölüme bağlı tasarrufları yapanların ölümü halinde bilgi verilmesi
+için, durumu bunların kayıtlı oldukları nüfus dairelerine yazı ile bildirirler.
+Noterler, nüfus idaresi tarafından ölümün ihbarı veya resmi bir belge ile isbatı halinde,
+yetkili sulh hakimine verilmek üzere, dairelerinde saklı bulunan vasiyetnamelerin ve noterlikçe
+düzenlenmiş ölüme bağlı tasarruf senetlerinin onaylı örneklerini Cumhuriyet Savcılığına tevdi
+ederler.
+Birinci fıkra uyarınca nüfus dairelerine yazılacak yazı için ücret tarifesinde gösterilen
+yazı ücreti ile posta gideri ilgilisinden alınır.
 
-2/7/2018 tarihli ve 700 sayılı KHK’nin 172 nci maddesiyle, bu fıkrada yer alan “yüzseksen gün
-içerisinde Bakanlıkça hazırlanarak Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde
-değiştirilmiştir.
-28
-
-(2) Adres ve numaralamaya ilişkin yönetmelik ise doksan gün içerisinde Bakanlık,
-Türkiye İstatistik Kurumu ve Türk Standartları Enstitüsü Kurumu tarafından müştereken
-hazırlanarak yürürlüğe konulur.
+---
 
 ### Akademik Yorum ve Analiz
 

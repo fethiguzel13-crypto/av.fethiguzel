@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Kamulaştırmadan arta kalan kısımlar**
+**Kamulaştırmadan arta kalan kısımlar:**
 
 ---
 
@@ -27,6 +27,8 @@ bedel takdiri suretiyle satmaya, ilgililer satın almaktan imtina ederse, şüyu
 sattırmaya yetkilidir.
 Bu maddeye göre bedel takdirleri ve bu bedellere itiraz şekilleri 2942 sayılı
 Kamulaştırma Kanunu hükümlerine göre yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

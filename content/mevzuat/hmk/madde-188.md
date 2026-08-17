@@ -16,6 +16,8 @@ vakıalar, çekişmeli olmaktan çıkar ve ispatı gerekmez.
 (2) Maddi bir hatadan kaynaklanmadıkça ikrardan dönülemez.
 (3) Sulh görüşmeleri sırasında yapılan ikrar tarafları bağlamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

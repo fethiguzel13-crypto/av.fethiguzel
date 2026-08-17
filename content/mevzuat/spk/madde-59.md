@@ -21,8 +21,7 @@ kayıtların ihraççının yanı sıra ayrı bir kuruluş nezdinde de tutulmas�
 ihraççının yönetiminin veya denetiminin kamu kurumlarına devredilmesi hâlinde dahi teminat
 amacı dışında tasarruf edilemez, rehnedilemez, teminat gösterilemez, kamu alacaklarının
 tahsili amacı da dâhil olmak üzere haczedilemez, iflas masasına dâhil edilemez, ayrıca bunlar
-
-hakkında ihtiyati tedbir kararı verilemez.
+hakkında ihtiyati tedbir kararı verilemez.
 (4) İhraççının ipotek ve varlık teminatlı menkul kıymetlerden kaynaklanan
 yükümlülüklerini vadesinde yerine getirememesi, yönetiminin veya denetiminin kamu
 kurumlarına devredilmesi, faaliyet izninin kaldırılması veya iflası hâlinde teminat varlıklardan
@@ -38,6 +37,8 @@ teminat sorumlusunun sahip olması gereken nitelikler ve sorumlulukları, YTM’
 karşılığında teminat varlıklardan ödeme yapılması hâlinde bu ödemenin hesaplanmasına
 ilişkin usul ve esaslar ile ipotek ve varlık teminatlı menkul kıymetlerle ilgili diğer hususlar
 Kurulca belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Madde 211**
+**İKİNCİ KISIM
+Kollektif Şirket
+BİRİNCİ BÖLÜM
+Şirketin Niteliği ve Kuruluşu
+A) Tanım**
 
 ---
 
-Madde 211 - ( 1) Kollektif şirket ticari bir işletmeyi bir ticaret unvanı altında işletmek amacıyla, gerçek kişiler arasında kurulan ve ortaklarından hiçbirinin sorumluluğu şirket alacaklılarına karşı sınırlanmamış olan şirkettir.
+MADDE 211- (1) Kollektif şirket ticari bir işletmeyi bir ticaret unvanı altında
+işletmek amacıyla, gerçek kişiler arasında kurulan ve ortaklarından hiçbirinin sorumluluğu
+şirket alacaklılarına karşı sınırlanmamış olan şirkettir.
 
 ---
 

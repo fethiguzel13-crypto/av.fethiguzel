@@ -7,11 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**Madde 201 – (Mülga: 4/12/1985-3239/136 md.)**
+Madde 202 – (Mülga: 4/12/1985-3239/136 md.)
 
 ---
-
-Madde 202 – (Mülga: 4/12/1985-3239/136 md.)
 
 ### Akademik Yorum ve Analiz
 

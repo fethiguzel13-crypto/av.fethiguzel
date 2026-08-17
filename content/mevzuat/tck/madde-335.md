@@ -18,6 +18,8 @@ maksadıyla temin eden kimseye sekiz yıldan oniki yıla kadar hapis cezası ver
 savaş hazırlıklarını veya savaş etkinliğini veya askerî hareketlerini tehlikeyle karşı karşıya
 bırakmış ise faile ağırlaştırılmış müebbet hapis cezası verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

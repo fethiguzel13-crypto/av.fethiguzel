@@ -7,12 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**Cezalar**
+**ÜÇÜNCÜ KISIM
+Yaptırımlar
+BİRİNCİ BÖLÜM
+Cezalar
+Cezalar**
 
 ---
 
 Madde 45- (1) Suç karşılığında uygulanan yaptırım olarak cezalar, hapis ve adlî para
 cezalarıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

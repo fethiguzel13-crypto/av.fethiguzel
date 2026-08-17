@@ -16,6 +16,8 @@ sırasında veya doğumdan sonra yaşam bulgularının varlığı ve olağan sü
 doğmadığı ve biyolojik olarak yaşamını rahim dışında sürdürebilecek kadar olgunlaşmış olup
 olmadığı veya yaşama yeteneği bulunup bulunmadığı saptanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -11,7 +11,8 @@ wordCount: 4295
 
 ---
 
-Madde 100 - Kamuya yararl ı der nekle r ve özel kanunlarla kurulan dernekler hakkındaki özel hükümler saklıdır. ÜÇÜNCÜ BÖLÜM VAKIFLAR
+Madde 100- Kamuya yararlı dernekler ve özel kanunlarla kurulan dernekler hakkındaki
+özel hükümler saklıdır.
 
 ---
 

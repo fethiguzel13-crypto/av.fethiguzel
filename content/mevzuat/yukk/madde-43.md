@@ -21,6 +21,8 @@ d) Kamu düzeni veya kamu güvenliği açısından tehdit oluşturmamak
 (2) Bakanlığın belirlediği şartlara sahip olması nedeniyle uzun dönem ikamet izni
 verilmesi uygun görülen yabancılar için birinci fıkranın (d) bendi dışındaki şartlar aranmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

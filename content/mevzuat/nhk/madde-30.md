@@ -7,17 +7,31 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**Yurt dışında yapılan evlât edinme işlemleri**
+**Göreve başlama ve istifa etmiş sayılma:**
 
 ---
 
-MADDE 30- (1) Yurt dışında yabancı yetkili makamlar önünde yapılan evlât edinme
-işlemleri aslî şartlar bakımından Türk mevzuatına uygun olmak şartıyla Türkiye'de de
-geçerlidir.
-(2) Evlât edinme olaylarına ilişkin yabancı adlî veya idarî makamlarca verilen ve o
-ülkenin hukukuna göre kesinleşmiş olan veya kesin hüküm gibi sonuç doğuran karar ve
-belgelerin Türkiye'de icra olunabilmesi, yetkili Türk mahkemesi tarafından tenfiz veya tanıma
-kararı verilmesine bağlıdır.
+Madde 30 – (Değişik fıkra: 23/6/2022-7413/10 md.) Noter sıfatı, noterliğe fiilen
+başlama tarihinde kazanılır. Kendi sınıfında veya yukarı sınıfta başka bir noterliğe atanan
+veya nakledilen noterin, o yer noterlik sıfatı, Cumhuriyet savcısının huzurunda yapılacak
+devir ve teslim işleminin bitmesiyle sona erer; yeni yer noterlik sıfatı ise bu yere fiilen
+başlama tarihinde kazanılır. Arada geçen sürede noter sıfatı devam eder.
+(Değişik fıkra: 23/6/2022-7413/10 md.) Atama veya nakle ilişkin karar, Adalet
+Bakanlığının resmî internet sitesinde ilan edilir. Noter, ilan tarihinden itibaren bir ay içinde
+yeni görevine başlamak zorundadır. Haklı bir sebep olmaksızın süresi içinde görevine
+başlamayan noter, noterlik mesleğinden istifa etmiş sayılır.
+(Mülga: 23/6/2022-7413/10 md.)
+(Mülga: 23/6/2022-7413/10 md.)
+(Ek: 13/6/2000 - 4579/3 md.) Noterlik dairesini Adalet Bakanlığınca tespit edilen yer
+dışında açan veya çalışmakta olduğu noterliği bu yer dışına nakleden noterlere, Adalet
+Bakanlığınca noterlik dairesini tespit edilen yer sınırları içine taşıması için bir aylık süre
+verilir. Bu süre içinde noterliğini tespit edilen yer sınırları içine taşımayan noter, görevinden
+istifa etmiş sayılır ve noterlik dairesi, Türkiye Noterler Birliğinin gözetiminde tespit edilen
+yer sınırları içine nakledilir.
+BEŞİNCİ BÖLÜM
+Dördüncü Sınıf Noterlikler
+
+---
 
 ### Akademik Yorum ve Analiz
 

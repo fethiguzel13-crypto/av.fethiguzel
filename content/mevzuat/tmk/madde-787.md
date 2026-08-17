@@ -11,7 +11,11 @@ wordCount: 4317
 
 ---
 
-Madde 787 - İrtifaktan doğan yetki ve yükümlülükleri açıkça belirl ediği ölçüde tescil, irtifakın kapsamını belirlemede esas oluş turur. Tescilden açıkça anlaşılmadığı hâllerde kapsam, tescilin sınırları içinde, irtifak hakkının kazanılma sebebine veya uzun süreden beri davasız ve iyiniyetle kullanılış biçimine göre belirl enir.
+Madde 787- İrtifaktan doğan yetki ve yükümlülükleri açıkça belirlediği ölçüde tescil,
+irtifakın kapsamını belirlemede esas oluşturur.
+Tescilden açıkça anlaşılmadığı hâllerde kapsam, tescilin sınırları içinde, irtifak hakkının
+kazanılma sebebine veya uzun süreden beri davasız ve iyiniyetle kullanılış biçimine göre
+belirlenir.
 
 ---
 

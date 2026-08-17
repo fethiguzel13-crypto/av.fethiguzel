@@ -7,14 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**II - Yeter sayı**
+**II - Yeter sayı:**
 
 ---
 
-Madde 30 – Kat malikleri kurulu, kat maliklerinin sayı ve arsa payı bakımından yarısından fazlasiyle toplanır ve oy çokluğuyla karar verir.
-(Değişik ikinci fıkra: 14/11/2007-5711/15 md.) Yeter sayının sağlanamaması nedeniyle ilk toplantının yapılamaması halinde, ikinci toplantı, en geç onbeş gün sonra yapılır. Bu
+Madde 30 – Kat malikleri kurulu, kat maliklerinin sayı ve arsa payı bakımından yarı-
+sından fazlasiyle toplanır ve oy çokluğuyla karar verir.
+(Değişik ikinci fıkra: 14/11/2007-5711/15 md.) Yeter sayının sağlanamaması nede-
+niyle ilk toplantının yapılamaması halinde, ikinci toplantı, en geç onbeş gün sonra yapılır. Bu
 toplantıda karar yeter sayısı, katılanların salt çoğunluğudur.
 Bu kanunda yeter sayı için ayrıca konulmuş olan hükümler saklıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

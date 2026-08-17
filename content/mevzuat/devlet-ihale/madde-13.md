@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4283
 ---
 
-**İhale komisyonları**
+**İhale komisyonları:**
 
 ---
 
@@ -15,7 +15,7 @@ Madde 13 – (Değişik birinci fıkra: 2/3/1984 - 2990/4 md.) İta amirleri, il
 memurlarından birinin başkanlığında idareden, yapım işlerinde işin ehli veya uzmanı olmak
 şartıyla, en az bir kişi ve maliye memurunun katılmasıyla kurulacak komisyonları görevlendirirler.
 Askeri ihale komisyonlarının kaç kişiden ibaret olacağı ve nasıl kurulacağı Cumhurbaşkanı
-kararı tespit edilir.5
+kararı tespit edilir.
 TBMM, Cumhurbaşkanlığı ve Sayıştay Başkanlığında teşkil edilecek satınalma
 komisyonlarında maliye memurluğu görevi, bu kuruluşların saymanlık işlerini yürüten
 muhasebe müdürü veya vazifelendireceği bir memur tarafından yerine getirilir.
@@ -25,6 +25,8 @@ Maliye Bakanlığınca belirlenecek usule göre tespit edilir.
 encümenince bu Kanun hükümlerine güre yürütülür.
 Komisyonlara yardımcı olmak üzere, ihale kararlarına katılmamak şartı ile gereği
 kadar memur ve uzman da görevlendirilebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

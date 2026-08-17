@@ -164,7 +164,7 @@ export default async function KanunHubPage({ params }: Props) {
                 <li key={a.id}>
                   <Link
                     href={`/mevzuat/${kanunId}/${a.id}`}
-                    className="block text-sm px-3 py-2 rounded-xl bg-white border border-charcoal/8 hover:border-accent font-semibold text-charcoal"
+                    className="block text-sm px-3 py-2 rounded-xl bg-white border border-charcoal/[0.08] hover:border-accent font-semibold text-charcoal"
                   >
                     {code} {a.maddeNo}
                   </Link>
@@ -183,7 +183,7 @@ export default async function KanunHubPage({ params }: Props) {
               <li key={a.id}>
                 <Link
                   href={`/mevzuat/${kanunId}/${a.id}`}
-                  className="flex gap-3 items-baseline px-3 py-2.5 rounded-xl hover:bg-white border border-transparent hover:border-charcoal/8 transition-colors"
+                  className="flex gap-3 items-baseline px-3 py-2.5 rounded-xl hover:bg-white border border-transparent hover:border-charcoal/[0.08] transition-colors"
                 >
                   <span className="shrink-0 font-mono text-xs font-bold text-accent w-16">
                     {code} {a.maddeNo}

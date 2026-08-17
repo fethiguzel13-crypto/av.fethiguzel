@@ -39,6 +39,8 @@ olsun kullanılması, sarfı, işletmeden çekilmesi veya işletme personeline �
 hediye, teberru gibi namlarla verilmesi,
 b) Mülkiyeti muhafaza kaydıyla yapılan satışlarda zilyetliğin devri.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

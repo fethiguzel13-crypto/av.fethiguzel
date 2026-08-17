@@ -14,6 +14,8 @@ wordCount: 4315
 MADDE 277- (1) Bilirkişi, görevi sebebiyle yahut görevini yerine getirirken öğrendiği
 sırları saklamak, kendisi ve başkaları yararına kullanmaktan kaçınmakla yükümlüdür.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

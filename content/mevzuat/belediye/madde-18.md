@@ -31,13 +31,10 @@ isteğine bağlı hizmetler için uygulanacak ücret tarifesini belirlemek.
 g) Şartlı bağışları kabul etmek.
 h) Vergi, resim ve harçlar dışında kalan ve miktarı beşbin YTL'den fazla dava konusu
 olan belediye uyuşmazlıklarını sulh ile tasfiyeye, kabul ve feragate karar vermek.
-20 4/6/2008 tarihli ve 5766 sayılı Kanunun 13 üncü maddesiyle; bu maddede yer alan "inşa ve kullanımları" ibaresinden sonra gelmek üzere; "katma değer vergisi ile özel tüketim vergisi hariç" ibaresi eklenmiştir.
-
-
-i) Bütçe içi işletme ile 6762 sayılı Türk Ticaret Kanununa tâbi ortaklıklar kurulmasına
+i) Bütçe içi işletme ile 6762 sayılı Türk Ticaret Kanununa tâbi ortaklıklar kurulmasına
 veya bu ortaklıklardan ayrılmaya, sermaye artışına ve gayrimenkul yatırım ortaklığı
 kurulmasına karar vermek.
-j) Belediye adına imtiyaz verilmesine ve belediye yatırımlarının yap-işlet veya yap
+j) Belediye adına imtiyaz verilmesine ve belediye yatırımlarının yap-işlet veya yap-
 işlet-devret modeli ile yapılmasına; belediyeye ait şirket, işletme ve iştiraklerin
 özelleştirilmesine karar vermek.
 k) Meclis başkanlık divanını ve encümen üyeleri ile ihtisas komisyonları üyelerini
@@ -54,12 +51,14 @@ p) Yurt içindeki ve Çevre ve Şehircilik Bakanlığının izniyle yurt dışı
 ve mahallî idare birlikleriyle karşılıklı iş birliği yapılmasına; kardeş kent ilişkileri
 kurulmasına; ekonomik ve sosyal ilişkileri geliştirmek amacıyla kültür, sanat ve spor gibi
 alanlarda faaliyet ve projeler gerçekleştirilmesine; bu çerçevede arsa, bina ve benzeri tesisleri
-yapma, yaptırma, kiralama veya tahsis etmeye karar vermek.21
+yapma, yaptırma, kiralama veya tahsis etmeye karar vermek.
 r) Fahrî hemşehrilik payesi ve beratı vermek.
 s) Belediye başkanıyla encümen arasındaki anlaşmazlıkları karara bağlamak.
 t) Mücavir alanlara belediye hizmetlerinin götürülmesine karar vermek.
 u) İmar plânlarına uygun şekilde hazırlanmış belediye imar programlarını görüşerek
 kabul etmek.
+
+---
 
 ### Akademik Yorum ve Analiz
 

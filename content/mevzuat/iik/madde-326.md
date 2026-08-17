@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4319
 ---
 
-**Fevkalade mühlete tabi olmıyan alacaklar**
+**Fevkalade mühlete tabi olmıyan alacaklar:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 326 – (Değişik birinci fıkra: 17/7/2003-4949/87 md.) Mühlet, beşyü
 liradan aşağı alacaklara ve 206 ncı maddenin birinci sırasındaki alacaklara uygulanmaz.
 Bu alacaklar, borçlu iflas yoliyle takibe tabi bulunmuş olsa bile fevkalade mühlet
 esnasında ancak haciz yoliyle yahut rehinin paraya çevrilmesi suretiyle takip olunabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

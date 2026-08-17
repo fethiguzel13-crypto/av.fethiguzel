@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**göremezliğinin artması**
+**Sigortalının kendisinden kaynaklanan sebeplerle tedavi süresinin uzaması, iş
+göremezliğinin artması**
 
 ---
 
@@ -32,9 +33,9 @@ da yersiz yapılan ödeme tarihinden itibaren 96 ncı madde hükümlerine göre 
 anılan bentte belirtilen süre içinde Kuruma bildirilmemesi durumunda, sigortalıya yapılacak iş
 göremezlik ödenekleri bildirim tarihinden itibaren ödenir.
 Bu maddenin uygulanmasına ilişkin usûl ve esaslar, Kurum tarafından çıkarılacak
+yönetmelikle düzenlenir.
 
-
-yönetmelikle düzenlenir.
+---
 
 ### Akademik Yorum ve Analiz
 

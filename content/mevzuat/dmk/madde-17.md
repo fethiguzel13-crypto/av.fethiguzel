@@ -7,13 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4277
 ---
 
-**Uygulamayı isteme hakkı**
+**BÖLÜM: 3
+Genel Haklar
+Uygulamayı isteme hakkı:**
 
 ---
 
 Madde 17 – Devlet memurları, bu kanun ve diğer mevzuata göre tayin ve tesbit
 olunup yürürlükte bulunan hükümlerin kendileri hakkında aynen uygulanmasını istemek
-hakkına sahiptirler.21
+hakkına sahiptirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

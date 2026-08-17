@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**3. Ret hakkının ge çmesi**
+**3. Ret hakkının geçmesi**
 
 ---
 
-Madde 608 - Mirası reddetmeden ölen mirasçının ret hakkı kendi mirasçılarına geçer. B u mirasçılar için ret süres i, kendilerinin mirasbırakanına mirasın geçtiğini öğrendikleri tarihten başlar. Ancak bu süre, kendilerinin mirasbırakanından geçen mirasın reddi için mirasçıya tanınan süre dolmadıkça sona ermez. Ret sonucunda miras daha önce mi rasçı olmayanlara geçerse; bunlar için ret süresi, önceki mirasçılar tarafından mirasın reddedildiğini öğrendikleri tarihten işlemeye başlar.
+Madde 608- Mirası reddetmeden ölen mirasçının ret hakkı kendi mirasçılarına geçer.
+Bu mirasçılar için ret süresi, kendilerinin mirasbırakanına mirasın geçtiğini öğrendikleri
+tarihten başlar. Ancak bu süre, kendilerinin mirasbırakanından geçen mirasın reddi için mirasçıya
+tanınan süre dolmadıkça sona ermez.
+Ret sonucunda miras daha önce mirasçı olmayanlara geçerse; bunlar için ret süresi, önceki
+mirasçılar tarafından mirasın reddedildiğini öğrendikleri tarihten işlemeye başlar.
 
 ---
 

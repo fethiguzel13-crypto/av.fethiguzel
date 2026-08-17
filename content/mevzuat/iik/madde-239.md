@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Toplantı ve karar nisabının oluşmaması:76**
+**Toplantı ve karar nisabının oluşmaması:**
 
 ---
 
 Madde 239- (Değişik: 17/7/2003-4949/56 md.)
 Alacaklıların toplanması mümkün olmazsa veya karar nisabı oluşmazsa durum tespit
 olunur. Bu halde iflâs idaresi tasfiye kapanıncaya kadar işe devam eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

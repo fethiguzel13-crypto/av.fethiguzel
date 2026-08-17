@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**Ödeme emri**
+**B) İFLAS YOLU İLE TAKİP:
+Ödeme emri:**
 
 ---
 
@@ -25,6 +26,8 @@ bildirmesi ihtarı,
 4. Beş gün içinde borç ödenmediği, itiraz ve şikayet edilmediği takdirde, alacaklının
 ticaret mahkemesinden borçlunun iflasını talep edebileceği ihtarı.
 60 ıncı maddenin son iki fıkrası burada da tatbik olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,8 +11,9 @@ wordCount: 4302
 
 ---
 
-Madde 169 - Boşa nma v eya ayrılık davası açılınca hâkim, davanın devamı süresince
-gerekli olan, özellikle eşlerin barınmasına, geçimine, eşlerin mallarının yöne timin e ve çocukların bakım ve korunmasına ilişkin geçici önlemleri re'sen alır.
+Madde 169- Boşanma veya ayrılık davası açılınca hâkim, davanın devamı süresince
+gerekli olan, özellikle eşlerin barınmasına, geçimine, eşlerin mallarının yönetimine ve çocukların
+bakım ve korunmasına ilişkin geçici önlemleri re'sen alır.
 
 ---
 

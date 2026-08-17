@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**Madde 396**
+**ÜÇÜNCÜ KISIM
+VESAYET
+BİRİNCİ BÖLÜM
+VESAYET DÜZENİ
+BİRİNCİ AYIRIM
+VESAYET ORGANLARI
+A. Genel olarak**
 
 ---
 
-Madde 396 - Vesayet organları, vesayet daireleri ile vasi ve kayyımlardır.
+Madde 396- Vesayet organları, vesayet daireleri ile vasi ve kayyımlardır.
 
 ---
 

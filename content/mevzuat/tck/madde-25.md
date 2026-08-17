@@ -20,6 +20,8 @@ ve başka suretle korunmak olanağı bulunmayan ağır ve muhakkak bir tehlikede
 veya başkasını kurtarmak zorunluluğu ile ve tehlikenin ağırlığı ile konu ve kullanılan vasıta
 arasında orantı bulunmak koşulu ile işlenen fiillerden dolayı faile ceza verilmez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

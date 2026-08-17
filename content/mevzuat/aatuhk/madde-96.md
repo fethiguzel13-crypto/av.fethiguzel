@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**İhalenin yapılamaması**
+**İhalenin yapılamaması:**
 
 ---
 
@@ -20,6 +20,8 @@ gayrimenkul 95 inci madde hükümleri dairesinde en çok artırana ihale olunur.
 teferruğ edilinceye kadar bir istekli çıkmadığı takdirde tahsil dairesi mahcuz malı uygun
 gördüğü zamanlarda satışa çıkarabilir. Bu takdirde satış ve ilan hakkında yukardaki hükümler
 ve ihale için de 95 inci madde hükümleri tatbik olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

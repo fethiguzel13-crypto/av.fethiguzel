@@ -33,6 +33,8 @@ eksik veya fazla ceza verilmiş ise.
 h) Harçlar Kanunu ile yargılama giderlerine ilişkin hükümlere ve Avukatlık Kanununa
 göre düzenlenen ücret tarifesine aykırılık mevcutsa.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

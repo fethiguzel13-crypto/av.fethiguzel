@@ -13,8 +13,8 @@ wordCount: 4296
 
 Madde 242- (1) Bu bölümde yer alan suçların işlenmesi suretiyle yararına haksız
 menfaat sağlanan tüzel kişiler hakkında bunlara özgü güvenlik tedbirlerine hükmolunur.
-ONUNCU BÖLÜM
-Bilişim Alanında Suçlar
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,9 @@ wordCount: 4299
 
 ---
 
-Madde 295 - (1) Ortaklar oybirliğiyle karar vermedikçe, tasfiye memurları önemli miktardaki şirket varlıklarını toptan satamazlar; ancak oybirliğinin sağlanamadığı hâllerde mahkeme toptan satışa karar verebilir.
+MADDE 295- (1) Ortaklar oybirliğiyle karar vermedikçe, tasfiye memurları önemli
+miktardaki şirket varlıklarını toptan satamazlar; ancak oybirliğinin sağlanamadığı hâllerde
+mahkeme toptan satışa karar verebilir.
 
 ---
 

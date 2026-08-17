@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4263
 ---
 
-**İmha edilmesi gereken mallar**
+**İmha edilmesi gereken mallar:**
 
 ---
 
@@ -30,7 +30,8 @@ mükelleflerde aranacak şartları, tayin olunan imha oranının geçerli olaca�
 oranının süresinden önce iptaline ilişkin kriterleri, bu madde kapsamına giren emtiayı,
 sektörler, iş kolları ve işletme büyüklüklerini ayrı ayrı ya da birlikte dikkate almak suretiyle
 belirlemeye ve bu maddenin uygulanmasına ilişkin diğer usul ve esasları tespite yetkilidir.
-Menkul kıymetler:
+
+---
 
 ### Akademik Yorum ve Analiz
 

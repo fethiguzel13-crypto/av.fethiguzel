@@ -48,6 +48,8 @@ mahsup veya gider yazılmadan önceki tutardır.
 (2) Bu maddenin uygulanmasına ilişkin usûlleri belirlemeye Maliye Bakanlığı
 yetkilidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

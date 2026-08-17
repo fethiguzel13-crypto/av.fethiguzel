@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**Fiyatları etkileme97**
+**Fiyatları etkileme**
 
 ---
 
@@ -17,6 +17,8 @@ hileli yollara başvuran kimseye bir yıldan üç yıla kadar hapis ve adlî par
 (2) Fiil sonucu besin veya malların değerleri veya işçi ücretleri artıp eksildiği takdirde
 ceza yarısı oranında artırılır.
 (3) Fail, ruhsatlı simsar veya borsa tellalı ise ceza ayrıca yarısı oranında artırılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

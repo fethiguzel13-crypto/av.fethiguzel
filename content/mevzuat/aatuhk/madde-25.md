@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4278
 ---
 
-**İptal talebinde muhatap**
+**İptal talebinde muhatap:**
 
 ---
 
 Madde 25 – İptal borçlu ile hukuki muamelede bulunan veya borçlu tarafından
 kendilerine ödeme yapılan kimselerle, bunların mirasçılarına ve suiniyet sahibi diğer üçüncü
 şahıslara karşı istenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

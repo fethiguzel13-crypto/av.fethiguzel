@@ -13,7 +13,7 @@ a. Gereksinim, yeniden inşa ve imar**
 
 ---
 
-Madde 350 - Kiraya veren, kira sözleşmesini;
+MADDE 350- Kiraya veren, kira sözleşmesini;
 1. Kiralananı kendisi, eşi, altsoyu, üstsoyu veya kanun gereği bakmakla yükümlü
 olduğu diğer kişiler için konut ya da işyeri gereksinimi sebebiyle kullanma zorunluluğu varsa,
 2. Kiralananın yeniden inşası veya imarı amacıyla esaslı onarımı, genişletilmesi ya da

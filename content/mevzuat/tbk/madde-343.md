@@ -7,15 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**2**
+**E. Kira bedeli
+I. Genel olarak**
 
 ---
 
-Madde 343 - Kira sözleşmelerinde kira bedelinin belirlenmesi dışında, kiracı
+MADDE 343- Kira sözleşmelerinde kira bedelinin belirlenmesi dışında, kiracı
 aleyhine değişiklik yapılamaz.
-
-II. Belirlenmesi
-234
 
 ---
 

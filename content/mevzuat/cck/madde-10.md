@@ -7,14 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4286
 ---
 
-**Bakım ve barınma kararlarının yerine getirilmesi**
+**Kadın kapalı ceza infaz kurumları**
 
 ---
 
-Madde 10- (1) Sosyal Hizmetler ve Çocuk Esirgeme Kurumu tarafından, kendisine
-intikal eden olaylarda gerekli önlemler derhâl alınarak çocuk, resmî veya özel kuruluşlara
+Madde 10- (1) Kadın kapalı ceza infaz kurumları, kadın hükümlülerin hapis
+cezalarının infaz edildiği Kanunun 8 ve 9 uncu maddelerine göre kurulmuş kurumlardır. Bu
+kurumlarda iç güvenlik görevlileri kadınlardan oluşturulur.
+(2) Bu maksatla kurulmuş kurumların ihtiyacı karşılama bakımından yetersiz olması
+hâlinde, kadın hükümlülerin hapis cezaları diğer kurumların, erkek hükümlülerin kaldığı
+bölümlerle bağlantısı olmayan bölümlerinde infaz edilir.
 
-yerleştirilir.
+---
 
 ### Akademik Yorum ve Analiz
 

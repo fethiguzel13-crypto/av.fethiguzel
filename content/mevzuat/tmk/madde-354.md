@@ -11,7 +11,8 @@ wordCount: 4292
 
 ---
 
-Madde 354 - Ana ve baba, kusurları sebebiyle velâyet leri kaldırılmadıkça, çocuğ un malların ı kull anabil irler.
+Madde 354- Ana ve baba, kusurları sebebiyle velâyetleri kaldırılmadıkça, çocuğun
+mallarını kullanabilirler.
 
 ---
 

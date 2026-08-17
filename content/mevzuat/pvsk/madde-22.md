@@ -7,11 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**menedilir.**
+Madde 22 – Bu kanunda yazılı vazife ve salahiyetlerin yapılması ve kullanılması için
+en büyük mülkiye amirlerinin vereceği emirleri, Dahiliye Vekili re'sen verebilir.
 
 ---
-
-Madde 22 – Bu kanunda yazılı vazife ve salahiyetlerin yapılması ve kullanılması için
 
 ### Akademik Yorum ve Analiz
 

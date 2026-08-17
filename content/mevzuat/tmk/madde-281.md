@@ -11,7 +11,8 @@ wordCount: 4303
 
 ---
 
-Madde 281 - Diğer hâllerde paylı mülkiyet v e mir asın paylaşılmasına ilişkin hükümler kıyas yoluyla uygulanır. İKİNCİ KISIM HISIMLIK BİRİNCİ BÖLÜM SOYBAĞIN IN KURUL MASI BİRİNCİ AYIRIM GENEL HÜKÜMLER A. Genel olarak soybağının kurulması
+Madde 281- Diğer hâllerde paylı mülkiyet ve mirasın paylaşılmasına ilişkin hükümler
+kıyas yoluyla uygulanır.
 
 ---
 

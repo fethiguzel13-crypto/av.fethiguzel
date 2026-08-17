@@ -18,6 +18,8 @@ olması durumunda, korunan kişinin başvurusu aranmaksızın nafaka, ilgilinin 
 da ücretinden icra müdürlüğü tarafından tahsil edilir. İcra müdürlüklerinin nafakanın tahsili
 işlemlerine ilişkin posta giderleri Cumhuriyet başsavcılığının suçüstü ödeneğinden karşılanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

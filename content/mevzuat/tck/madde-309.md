@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**Anayasayı ihlal**
+**BEŞİNCİ BÖLÜM
+Anayasal Düzene ve Bu Düzenin İşleyişine Karşı Suçlar
+Anayasayı ihlal**
 
 ---
 
@@ -19,6 +21,8 @@ cezası ile cezalandırılırlar.
 dolayı ilgili hükümlere göre cezaya hükmolunur.
 (3) Bu maddede tanımlanan suçların işlenmesi dolayısıyla tüzel kişiler hakkında
 bunlara özgü güvenlik tedbirlerine hükmolunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

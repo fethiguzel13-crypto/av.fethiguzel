@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**C. Vas i ve kayyım**
+**C. Vasi ve kayyım**
 
 ---
 
-Madde 403 - Vasi, vesayet a ltında ki küç üğün veya kısıtlının kişiliği ve malvarlığı ile ilgili bütün menfaatlerini korumak ve hukukî işlem lerde onu temsil etmekle yükümlüdür. Kayyım, belirli işleri görmek veya malvarlığ ını yönetmek için atanır. B u Kanunun vasi hakkındaki hükümleri, a ksi be lirtilmiş olmadıkça kayyım hakkın da da uygulanır. İKİNCİ AYIRIM VESAYETİ GEREKTİREN HÂLLER A. Küçüklük
+Madde 403- Vasi, vesayet altındaki küçüğün veya kısıtlının kişiliği ve malvarlığı ile ilgili
+bütün menfaatlerini korumak ve hukukî işlemlerde onu temsil etmekle yükümlüdür.
+Kayyım, belirli işleri görmek veya malvarlığını yönetmek için atanır.
+Bu Kanunun vasi hakkındaki hükümleri, aksi belirtilmiş olmadıkça kayyım hakkında da
+uygulanır.
 
 ---
 

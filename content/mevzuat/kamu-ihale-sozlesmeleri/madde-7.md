@@ -19,10 +19,7 @@ c) Yüklenicinin adı veya ticaret unvanı, tebligata esas adresi.
 d) Varsa alt yüklenicilere ilişkin bilgiler ve sorumlulukları.
 e) Sözleşmenin bedeli, türü ve süresi.
 f) Ödeme yeri ve şartlarıyla avans verilip verilmeyeceği, verilecekse şartları ve miktarı.
-1 20/11/2008 tarihli ve 5812 sayılı Kanunun 32 nci maddesiyle; bu fıkrada yer alan “Çerçeve sözleşme” ibaresi “Çerçeve anlaşma”, “kısa” ibaresi “münferit” olarak değiştirilmiştir.
-
-
-g) Sözleşme konusu işler için ödenecekse fiyat farkının ne şekilde ödeneceği.
+g) Sözleşme konusu işler için ödenecekse fiyat farkının ne şekilde ödeneceği.
 h) Ulaşım, sigorta, vergi, resim ve harç giderlerinden hangisinin sözleşme bedeline dahil
 olacağı.
 i) Vergi, resim ve harçlar ile sözleşmeyle ilgili diğer giderlerin kimin tarafından ödeneceği.
@@ -43,8 +40,8 @@ u) Yüklenicinin sözleşme konusu iş ile ilgili çalıştıracağı personele 
 v) İhale dokümanında yer alan bütün belgelerin sözleşmenin eki olduğu.
 y) Anlaşmazlıkların çözümü.
 z) (Ek: 4/4/2015-6645/33 md.) İş sağlığı ve güvenliğine ilişkin yükümlülükler.
-İKİNCİ KISIM
-Sözleşmenin Uygulanması
+
+---
 
 ### Akademik Yorum ve Analiz
 

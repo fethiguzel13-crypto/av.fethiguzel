@@ -12,7 +12,8 @@ I. İspat yükü**
 
 ---
 
-Madde 6 - Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını dayandırdığ ı olg uları n varlığını ispatla yükümlüdür.
+Madde 6 - Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını
+dayandırdığı olguların varlığını ispatla yükümlüdür.
 
 ---
 

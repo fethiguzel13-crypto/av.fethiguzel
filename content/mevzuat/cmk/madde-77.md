@@ -14,6 +14,8 @@ wordCount: 4267
 Madde 77 – (1) Kadının muayenesi, istemi halinde ve olanaklar elverdiğinde bir kadın
 hekim tarafından yapılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

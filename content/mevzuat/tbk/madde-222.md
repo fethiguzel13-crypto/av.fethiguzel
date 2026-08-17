@@ -11,7 +11,7 @@ wordCount: 4300
 
 ---
 
-Madde 222 - Satıcı, satış sözleşmesinin kurulduğu sırada alıcı tarafından bilinen
+MADDE 222- Satıcı, satış sözleşmesinin kurulduğu sırada alıcı tarafından bilinen
 ayıplardan sorumlu değildir.
 Satıcı, alıcının satılanı yeterince gözden geçirmekle görebileceği ayıplardan da, ancak
 böyle bir ayıbın bulunmadığını ayrıca üstlenmişse sorumlu olur.

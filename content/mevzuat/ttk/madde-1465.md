@@ -7,12 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**d) Birden çok sigorta aa) Kural**
+**d) Birden çok sigorta
+aa) Kural**
 
 ---
 
-Madde 1465 - (1) Aynı menfaatin, aynı rizikolara karşı, aynı süre için, birden ç ok sigortacıya, aynı veya farklı tarihlerde sigorta ettirilmesi hâlinde sigorta ettirene sigorta bedelinden daha fazlası ödenmez.
-(2) Birden çok sigortada, sigorta ettiren, sigortacılardan herbirine hem rizikonun gerçekleştiğini hem de aynı menfaat için ya pılan diğer sigortaları bildirir. Bu hükme aykırılık hâlinde 1446 ncı madde hükmü uygulanır. bb) Müşterek sigorta
+MADDE 1465- (1) Aynı menfaatin, aynı rizikolara karşı, aynı süre için, birden çok
+sigortacıya, aynı veya farklı tarihlerde sigorta ettirilmesi hâlinde sigorta ettirene sigorta
+bedelinden daha fazlası ödenmez.
+(2) Birden çok sigortada, sigorta ettiren, sigortacılardan herbirine hem rizikonun
+gerçekleştiğini hem de aynı menfaat için yapılan diğer sigortaları bildirir. Bu hükme aykırılık
+hâlinde 1446 ncı madde hükmü uygulanır.
 
 ---
 

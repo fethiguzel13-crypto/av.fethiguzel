@@ -15,6 +15,8 @@ Madde 16- (1) Nerede işlenmiş olursa olsun bir suçtan dolayı, yabancı ülke
 gözaltında, gözlem altında, tutuklulukta veya hükümlülükte geçen süre, aynı suçtan dolayı
 Türkiye'de verilecek cezadan mahsup edilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

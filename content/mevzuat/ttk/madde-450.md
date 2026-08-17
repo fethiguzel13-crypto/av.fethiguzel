@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**III
-- Kararın etkisi**
+**III - Kararın etkisi**
 
 ---
 
-Madde 450 - (1) Genel k urul kararının iptaline veya butlanına ilişkin mahkeme kararı, kesinleştikten sonra bütün pay sahipleri hakkında hüküm ifade eder. Yönetim kurulu bu kararın bir suretini derhâl ticaret siciline tescil ettirmek ve internet sitesine koymak zorundadır.
+MADDE 450- (1) Genel kurul kararının iptaline veya butlanına ilişkin mahkeme
+kararı, kesinleştikten sonra bütün pay sahipleri hakkında hüküm ifade eder. Yönetim kurulu
+bu kararın bir suretini derhâl ticaret siciline tescil ettirmek ve internet sitesine koymak
+zorundadır.
 
 ---
 

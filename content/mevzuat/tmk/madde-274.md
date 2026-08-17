@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**IV. Değe r art ış payı**
+**IV. Değer artış payı**
 
 ---
 
-Madde 274 - Bir eşin kişisel malı veya ortaklık malıyla bir başka mal kesimine giren malvarlığı değerinin edinilmesi, iyileştirilmesi veya korunmasına katkıda bulunulmuşsa, edinil miş mallara katılma rejiminde değer artış payına ilişkin hü kümle r uygulanır.
+Madde 274- Bir eşin kişisel malı veya ortaklık malıyla bir başka mal kesimine giren
+malvarlığı değerinin edinilmesi, iyileştirilmesi veya korunmasına katkıda bulunulmuşsa,
+edinilmiş mallara katılma rejiminde değer artış payına ilişkin hükümler uygulanır.
 
 ---
 

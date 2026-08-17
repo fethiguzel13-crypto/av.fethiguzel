@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**A. İç üstlenme sözleşmesi**
+**İKİNCİ AYIRIM
+Borcun Üstlenilmesi
+A. İç üstlenme sözleşmesi**
 
 ---
 
-Madde 195 - Borçlu ile iç üstlenme sözleşmesi yapan kişi, borcu bizzat ifa ederek veya
+MADDE 195- Borçlu ile iç üstlenme sözleşmesi yapan kişi, borcu bizzat ifa ederek veya
 alacaklının rızasıyla borcu üstlenerek, borçluyu borcundan kurtarma yükümlülüğü altına girmiş olur.
 Borçlu, iç üstlenme sözleşmesinden doğan borçlarını ifa etmedikçe, diğer taraftan
 yükümlülüğünü yerine getirmesini isteyemez.

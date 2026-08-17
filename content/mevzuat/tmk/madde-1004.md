@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**Madde 1004**
+**II. Tapu sicilinin tutulması
+1. Bir bölgede**
 
 ---
 
-Madde 1004 - Taşınmazlar, bulundukları bölgenin tapu siciline kaydedilir.
+Madde 1004- Taşınmazlar, bulundukları bölgenin tapu siciline kaydedilir.
 
 ---
 

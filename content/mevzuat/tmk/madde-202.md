@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Madde 202**
+**DÖRDÜNCÜ BÖLÜM
+EŞLER ARASINDAKİ MAL REJİMİ
+BİRİNCİ AYIRIM
+GENEL HÜKÜMLER
+A. Yasal mal rejimi**
 
 ---
 
-Madde 202 - Eşler a rasın da ed inilmiş mallara katılma rejiminin uygulanması asıldır. Eşler, mal rejimi sözleşmesiyle kanunda belirlen en diğer rejimlerden birini kabul edebilirler.
+Madde 202- Eşler arasında edinilmiş mallara katılma rejiminin uygulanması asıldır.
+Eşler, mal rejimi sözleşmesiyle kanunda belirlenen diğer rejimlerden birini kabul edebilirler.
 
 ---
 

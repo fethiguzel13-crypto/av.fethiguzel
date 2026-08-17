@@ -11,9 +11,7 @@ wordCount: 4280
 
 ---
 
-Madde 145 - Borçlu, takas hakkından önceden de feragat edebilir.
-İKİNCİ AYIRIM
-Zamanaşımı
+MADDE 145- Borçlu, takas hakkından önceden de feragat edebilir.
 
 ---
 

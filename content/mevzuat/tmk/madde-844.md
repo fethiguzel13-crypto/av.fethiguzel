@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-**2. Yükten kurtarma a . Alacaklının yetkisi**
+**2. Yükten kurtarma
+a. Alacaklının yetkisi**
 
 ---
 
-Madde 844 - Alacaklı, sözleşmeyle yetkili kılınmış olduğu takdirde veya aşağıdaki durumlarda, malikten taşınmazın yükten kurtarılma sını isteyebilir: 1. Yüklü taşınmaz, alacaklının haklarını önemli ölçüde tehlikeye düşürecek şekilde böl ünmüşse; 2. Malik, yüklü taşınmazın değerini düşürür ve yerin e başka bir güvence göstermezse; 3. Malik, birbiri ardına üç yılın edimlerini yerine geti rmemişse.
+Madde 844- Alacaklı, sözleşmeyle yetkili kılınmış olduğu takdirde veya aşağıdaki
+durumlarda, malikten taşınmazın yükten kurtarılmasını isteyebilir:
+1. Yüklü taşınmaz, alacaklının haklarını önemli ölçüde tehlikeye düşürecek şekilde
+bölünmüşse;
+2. Malik, yüklü taşınmazın değerini düşürür ve yerine başka bir güvence göstermezse;
+3. Malik, birbiri ardına üç yılın edimlerini yerine getirmemişse.
 
 ---
 

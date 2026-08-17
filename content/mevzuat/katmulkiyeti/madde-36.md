@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**2. Defter tutulması ve belgelerin saklanması**
+**2. Defter tutulması ve belgelerin saklanması:**
 
 ---
 
@@ -17,7 +17,10 @@ sırasiyle yazmaya ve bu defteri ve giderlerin belgeleriyle diğer bütün belge
 saklamaya mecburdur.
 Bu defterin, her takvim yılının bitmesinden başlıyarak bir ay içinde yönetici tarafından
 notere kapattırılması mecburidir.
-Bu maddede yazılı görevleri yerine getirmiyen yöneticiye 33 üncü maddenin son fıkrasında yazılı cezalar uygulanır.
+Bu maddede yazılı görevleri yerine getirmiyen yöneticiye 33 üncü maddenin son fık-
+rasında yazılı cezalar uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

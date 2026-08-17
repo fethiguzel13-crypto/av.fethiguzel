@@ -15,6 +15,8 @@ Madde 146- (1) Hırsızlık suçunun, malın geçici bir süre kullanılıp zily
 edilmek üzere işlenmesi halinde, şikayet üzerine, verilecek ceza yarı oranına kadar indirilir.
 Ancak malın suç işlemek için kullanılmış olması halinde bu hüküm uygulanmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

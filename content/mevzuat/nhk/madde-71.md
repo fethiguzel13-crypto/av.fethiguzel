@@ -7,16 +7,22 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Kaldırılan hükümler**
+**Aylık ve yıllık iş cetvelleri verilmesi:**
 
 ---
 
-MADDE 71- (1) 5/5/l972 tarihli ve l587 sayılı Nüfus Kanunu, 24/2/1972 tarihli ve 1543
-sayılı Genel Nüfus Yazımı Kanunu ve 5/7/1939 tarihli ve 3686 sayılı Evlenme Kâğıtları ve Bunların
-Nüfus Kütüklerine Tescilleri Hakkında Kanun, 26/6/1973 tarihli ve 1774 sayılı Kimlik Bildirme
-Kanununun 5 inci maddesi, 6 ncı maddesinin (a) ve (d) bentleri, 8 inci maddesi, 16 ncı maddesi ve
-17 nci maddesinde yer alan "8" ibaresi ile 10/4/1927 tarihli ve 1003 sayılı Binaların Numaralanması
-ve Sokaklara İsim Verilmesi Hakkında Kanun yürürlükten kaldırılmıştır.
+Madde 71 – Noterler, her ayın en geç onuna kadar, bir evvelki ay içinde dairelerine
+gelen ve çıkan işlerin niteliğini ve sayısını ve bunlardan aldıkları ücret, harç, vergi ve diğer
+resimlerin miktarını ve giderlerini gösterir bir cetvel düzenliyerek Türkiye Noterler Birliğine
+gönderirler.
+Notere vekalet halinde vekil, birinci fıkrada gösterilen hususlardan başka, kendisine
+ödenen ücret tutarı ile 34 üncü madde gereğince noterlik gelirinden alıkoyduğu ve notere ödediği
+kısımları ve alıkonulan parayı yatırdığı bankanın isim ve hesap numarasını da cetvelde gösterir.
+Noterler ayrıca her yılın Mart ayı sonuna kadar, geçen yıla ait gelir, gider ve teminat
+tutarını gösteren bir cetvel düzenliyerek, Adalet Bakanlığına ve Türkiye Noterler Birliğine
+gönderirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

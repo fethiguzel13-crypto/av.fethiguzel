@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4263
 ---
 
-**Müteahhit veya müşterinin ölümü**
+**Müteahhit veya müşterinin ölümü:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 67 – Müteahhit veya müşterinin ölümü halinde, yapılmış olan iş
 edilerek kesin teminatı ve varsa sair alacakları varislerine verilir. Ancak, idare varislerden
 istekli olanlara, ölüm tarihinden itibaren 30 gün içinde kesin teminat verilmesi şartıyla
 sözleşmeyi devredebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

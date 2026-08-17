@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**Haczin rehinli alacaklılara bildirilmesi**
+**Haczin rehinli alacaklılara bildirilmesi:**
 
 ---
 
 Madde 89 – Gayrimenkul haczinde, gayrimenkul kendilerine rehnedilmiş olan
 alacaklılara tapu dairesince hacizden haber verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

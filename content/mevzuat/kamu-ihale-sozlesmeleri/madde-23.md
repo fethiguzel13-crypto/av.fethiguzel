@@ -14,6 +14,8 @@ wordCount: 4277
 Madde 23- Mücbir sebeplerden dolayı sözleşmenin feshedilmesi halinde, hesabı genel
 hükümlere göre tasfiye edilerek, kesin teminat ve varsa ek kesin teminatlar iade edilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4281
 ---
 
-**Tebliğ mazbatalı kapalı zarf**
+**Tebliğ mazbatalı kapalı zarf:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 59 – Kanunun 1 İnci maddesinde yazılı mercilerden çıkarılacak tebl
 tebliğ mazbatalı kapalı bir zarf içinde gönderilir.
 (Değişik: 19/3/2003-4829/16 md.) Davetiye, basit usulü muhakeme davetiyesi, yemin
 davetiyesi bu zarfın içine konmadan da gönderilebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

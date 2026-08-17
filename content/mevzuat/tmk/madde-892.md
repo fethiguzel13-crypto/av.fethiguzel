@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**D. Kanu nî ipotek
+**D. Kanunî ipotek
 I. Tescile tâbi olmayan kanunî ipotek**
 
 ---
 
-Madde 892 - Kanunî ipotek haklarının doğumu , aksi kanunda öngörülmüş olmadıkça, tapu kütüğüne tescil edilmelerine bağlı değildir.
+Madde 892- Kanunî ipotek haklarının doğumu, aksi kanunda öngörülmüş olmadıkça,
+tapu kütüğüne tescil edilmelerine bağlı değildir.
 
 ---
 

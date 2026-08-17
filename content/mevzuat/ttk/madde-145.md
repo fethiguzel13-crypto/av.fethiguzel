@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**4. Birleşme sözleşmesi ve birleşme raporu 26
-a) Birleşme sözleşmesi aa) Birleşme sözleşmesinin yapılması**
+**4. Birleşme sözleşmesi ve birleşme raporu
+a) Birleşme sözleşmesi
+aa) Birleşme sözleşmesinin yapılması**
 
 ---
 
-Madde 145 - (1) Birleşme sözleşmesi yazılı şekilde yapılır. Sözleşme , birleşmeye katılan şirketlerin, yönetim organlarınca imzalanır ve genel kurulları tarafından onaylanır. bb) Birleşme sözleşmesinin içeriği
+MADDE 145- (1) Birleşme sözleşmesi yazılı şekilde yapılır. Sözleşme, birleşmeye
+katılan şirketlerin, yönetim organlarınca imzalanır ve genel kurulları tarafından onaylanır.
 
 ---
 

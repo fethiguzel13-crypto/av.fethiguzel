@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**Defterlerin mürekkeple yazılacağı**
+**Defterlerin mürekkeple yazılacağı:**
 
 ---
 
@@ -16,6 +16,8 @@ yazılır. Kopye kağıdı kullanılması ve ıstampa ve sair damga aletleriyle 
 caizdir.
 Bilümum defterlerde hesaplar kapatılıncaya kadar toplamlar geçici olarak kurşun
 kalemi ile yapılabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

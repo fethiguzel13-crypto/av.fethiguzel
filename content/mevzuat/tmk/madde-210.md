@@ -11,7 +11,10 @@ wordCount: 4311
 
 ---
 
-Madde 210 - Mal ortaklığını kabul etmiş eşlerden birine karşı icra takibinde bulunan alacaklı, haczin uygulanmasında zarara uğrarsa, hâk imden mal ayrılığına karar verilmesini isteyebilir. Alacaklının istemi her iki eşe yöneltilir. Yetkili mahkeme, b orçlunun yerleşim yeri mahkemesidir.
+Madde 210- Mal ortaklığını kabul etmiş eşlerden birine karşı icra takibinde bulunan alacaklı,
+haczin uygulanmasında zarara uğrarsa, hâkimden mal ayrılığına karar verilmesini isteyebilir.
+Alacaklının istemi her iki eşe yöneltilir.
+Yetkili mahkeme, borçlunun yerleşim yeri mahkemesidir.
 
 ---
 

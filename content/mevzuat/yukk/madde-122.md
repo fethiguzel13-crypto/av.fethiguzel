@@ -16,6 +16,8 @@ Türkiye’de İkamet ve Seyahatleri Hakkında Kanuna yapılmış olan atıflar,
 sayılır. Diğer mevzuatta geçen yabancılara mahsus “ikamet tezkeresi” ibaresinden, bu
 Kanundaki “ikamet izni” anlaşılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Askeri şahıslara tebligat**
+**Askeri şahıslara tebligat:**
 
 ---
 
@@ -17,6 +17,8 @@ Yukarıki fıkrada yazılı olanların haricindeki askeri şahıslara birlik vey
 tebligat yapılması icabeden ahvalde, tebliğin yapılmasını nöbetçi amiri veya subayı temin
 eder. Bunlar tarafından muhatabın derhal bulundurulması veya tebliğin temini mümkün
 olmazsa tebliğ kendilerine yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

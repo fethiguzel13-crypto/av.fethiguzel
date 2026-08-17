@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**İş ve işçi bulmaya aracılık**
+**İş ve İşçi Bulma
+İş ve işçi bulmaya aracılık**
 
 ---
 
-Madde 90 - İş arayanların elverişli oldukları işlere yerleştirilmeleri ve çeşitli işler için uygun işçiler bulunmasına aracılık görevi, Türkiye İş Kurumu ve bu hususta izin verilen özel istihdam bürolarınca yerine getirilir.
+Madde 90 - İş arayanların elverişli oldukları işlere yerleştirilmeleri ve çeşitli işler için
+uygun işçiler bulunmasına aracılık görevi, Türkiye İş Kurumu ve bu hususta izin verilen özel
+istihdam bürolarınca yerine getirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

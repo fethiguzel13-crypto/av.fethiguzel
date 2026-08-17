@@ -11,7 +11,8 @@ wordCount: 4281
 
 ---
 
-Madde 415 - Haklı sebepler engel olmadıkça, vasiliğe, vesayet altına alınacak kişinin ya da ana veya babasının gösterdiği kimse atanır .
+Madde 415- Haklı sebepler engel olmadıkça, vasiliğe, vesayet altına alınacak kişinin ya
+da ana veya babasının gösterdiği kimse atanır.
 
 ---
 

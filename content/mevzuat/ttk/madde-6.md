@@ -8,12 +8,12 @@ wordCount: 4306
 ---
 
 **B) Çeşitli hükümler
-I
-- Zamanaş ımı**
+I - Zamanaşımı**
 
 ---
 
-Madde 6 - (1) Ticari hükümler koyan kanunlarda öngörülen zamanaşımı süreleri, Kanunda aksine düzenleme yoksa, sözleşme ile değiştirilemez.
+MADDE 6- (1) Ticari hükümler koyan kanunlarda öngörülen zamanaşımı süreleri,
+Kanunda aksine düzenleme yoksa, sözleşme ile değiştirilemez.
 
 ---
 

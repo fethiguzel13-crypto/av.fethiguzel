@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**III - Tazminat ilkesi 1. Genel olarak**
+**III - Tazminat ilkesi
+1. Genel olarak**
 
 ---
 
-Madde 1459 - (1) Sigortacı, sigortalının uğradığı zararı tazmin eder.
+MADDE 1459- (1) Sigortacı, sigortalının uğradığı zararı tazmin eder.
 
 ---
 

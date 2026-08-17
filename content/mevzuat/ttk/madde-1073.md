@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**d) Yükümlülükleri aa) Özen yükümlülüğü**
+**d) Yükümlülükleri
+aa) Özen yükümlülüğü**
 
 ---
 
-Madde 1073 - (1 ) Gemi müdürü, donatma iştirakinin işlerini yaparken tedbirli bir donatanın özenini göstermek zorundadır. bb) Defter tutma ve belgeleri saklama yükümlülüğü
+MADDE 1073- (1) Gemi müdürü, donatma iştirakinin işlerini yaparken tedbirli bir
+donatanın özenini göstermek zorundadır.
 
 ---
 

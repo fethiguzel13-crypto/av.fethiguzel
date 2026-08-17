@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
-**Madde 1131**
+**İKİNCİ BÖLÜM
+Zaman Çarteri Sözleşmesi
+A) Tanımı**
 
 ---
 
-Madde 1131 - (1) Zaman çarteri sözleşmesi, tahsis edenin, donatılmış bir geminin ticari yönetimini belli bir süre için ve bir ücret karşılığında tahsis olunana bırakmayı üstlendiği sözleşmedir. (2) Geminin teknik yönetimini elinde bulunduran tahsis eden, geminin zilyedi sayılır.
+MADDE 1131- (1) Zaman çarteri sözleşmesi, tahsis edenin, donatılmış bir geminin
+ticari yönetimini belli bir süre için ve bir ücret karşılığında tahsis olunana bırakmayı üstlendiği
+sözleşmedir.
+(2) Geminin teknik yönetimini elinde bulunduran tahsis eden, geminin zilyedi sayılır.
 
 ---
 

@@ -11,7 +11,7 @@ wordCount: 4308
 
 ---
 
-Madde 634 - Bir ortağın ortaklıktan çıkması veya çıkarılması durumunda payı, diğer
+MADDE 634- Bir ortağın ortaklıktan çıkması veya çıkarılması durumunda payı, diğer
 ortaklara payları oranında kendiliğinden geçer.
 Diğer ortaklar, ortaklıktan çıkan veya çıkarılan ortağa, kullanımını ortaklığa bıraktığı
 eşyayı geri vermekle yükümlü oldukları gibi, kendisini ortaklığın muaccel borçlarından doğan

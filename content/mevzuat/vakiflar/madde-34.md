@@ -13,10 +13,11 @@ wordCount: 4296
 
 MADDE 34 – İntifa hakkına konu mazbut vakıflar ile Genel Müdürlük tarafından
 geçici olarak yönetilen vakıfların yıllık gayrisafi gelirlerinin yüzde kırkı yönetim ve temsil
-masrafı olarak Genel Müdürlük bütçesine gelir kaydedilir.10
+masrafı olarak Genel Müdürlük bütçesine gelir kaydedilir.
 ÜÇÜNCÜ KISIM
 Vakıflar Genel Müdürlüğü, Vakıflar Meclisi,
-Genel Müdürlük Teşkilâtı ve İstihdam
+
+---
 
 ### Akademik Yorum ve Analiz
 

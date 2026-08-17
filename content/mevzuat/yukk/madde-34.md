@@ -18,7 +18,7 @@ a) Yabancı eşine,
 b) Kendisinin veya eşinin ergin olmayan yabancı çocuğuna,
 c) Kendisinin veya eşinin bağımlı yabancı çocuğuna,
 her defasında üç yılı aşmayacak şekilde aile ikamet izni verilebilir. Ancak, aile ikamet
-izninin süresi hiçbir şekilde destekleyicinin ikamet izni süresini aşamaz.13
+izninin süresi hiçbir şekilde destekleyicinin ikamet izni süresini aşamaz.
 (2) Vatandaşı olduğu ülkenin hukukuna göre birden fazla eş ile evlilik hâlinde,
 eşlerden yalnızca birine aile ikamet izni verilir. Ancak, diğer eşlerinden olan çocuklara da aile
 ikamet izni verilebilir.
@@ -33,6 +33,8 @@ kalmış olmak kaydıyla kısa dönem ikamet izni verilebilir. Ancak yabancı e�
 gerekçesiyle mağdur olduğu ilgili mahkeme kararıyla sabit ise, üç yıllık süre şartı aranmaz.
 (7) Destekleyicinin ölümü hâlinde, bu kişiye bağlı aile ikamet izniyle kalanlara, süre
 şartı aranmadan kısa dönem ikamet izni verilebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

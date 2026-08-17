@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4263
 ---
 
-**Envantere alınan kıymetleri değerleme**
+**Envantere alınan kıymetleri değerleme:**
 
 ---
 
 Madde 191 – Envantere alınan iktisadi kıymetler bu kanunun "değerleme"ye ait
 üçüncü kitabında yazılı esaslara göre değerlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

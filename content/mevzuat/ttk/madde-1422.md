@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**Madde 1422**
+**bb) İmkânsızlık**
 
 ---
 
-Madde 1422 - (1) Sigortacının sorumluluğu başlamadan, sigorta ettirenin, sigortalının ve can sigortalarında ayrıca lehtarın, fiilleri ve etkileri olmaksızın rizikonun gerçekleşmesi imkânsızlaşmışsa, sigortacı prime hak kazanamaz.
+MADDE 1422- (1) Sigortacının sorumluluğu başlamadan, sigorta ettirenin,
+sigortalının ve can sigortalarında ayrıca lehtarın, fiilleri ve etkileri olmaksızın rizikonun
+gerçekleşmesi imkânsızlaşmışsa, sigortacı prime hak kazanamaz.
 
 ---
 

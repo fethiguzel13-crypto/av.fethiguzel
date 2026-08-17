@@ -15,6 +15,8 @@ MADDE 6 – (1) Doğumla kazanılan Türk vatandaşlığı, soy bağı veya doğ
 esasına göre kendiliğinden kazanılır. Doğumla kazanılan vatandaşlık doğum anından itibaren
 hüküm ifade eder.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

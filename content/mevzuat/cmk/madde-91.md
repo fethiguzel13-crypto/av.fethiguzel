@@ -18,12 +18,12 @@ hâkim veya mahkemeye gönderilmesi için zorunlu süre hariç, yakalama anında
 yirmidört saati geçemez.(Ek cümle: 25/5/2005 – 5353/8 md.) Yakalama yerine en yakın
 hâkim veya mahkemeye gönderilme için zorunlu süre oniki saatten fazla olamaz.
 (2) Gözaltına alma, bu tedbirin soruşturma yönünden zorunlu olmasına ve kişinin bir
-suçu işlediği şüphesini gösteren somut delillerin varlığına bağlıdır.11
+suçu işlediği şüphesini gösteren somut delillerin varlığına bağlıdır.
 (3) Toplu olarak işlenen suçlarda, delillerin toplanmasındaki güçlük veya şüpheli
 sayısının çokluğu nedeniyle; Cumhuriyet savcısı gözaltı süresinin, her defasında bir günü
 geçmemek üzere, üç gün süreyle uzatılmasına yazılı olarak emir verebilir. Gözaltı süresinin
 uzatılması emri gözaltına alınana derhâl tebliğ edilir.
-(4) (Ek: 27/3/2015-6638/13 md.)12 Suçüstü hâlleriyle sınırlı olmak kaydıyla; kişi
+(4) (Ek: 27/3/2015-6638/13 md.)Suçüstü hâlleriyle sınırlı olmak kaydıyla; kişi
 hakkında aşağıdaki bentlerde belirtilen suçlarda mülki amirlerce belirlenecek kolluk amirleri
 tarafından yirmi dört saate kadar, şiddet olaylarının yaygınlaşarak kamu düzeninin ciddi
 şekilde bozulmasına yol açabilecek toplumsal olaylar sırasında ve toplu olarak işlenen
@@ -39,15 +39,7 @@ b) 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununda yer alan;
 1. Kasten öldürme (madde 81, 82), taksirle öldürme (madde 85),
 2. Kasten yaralama (madde 86, 87),
 3. Cinsel saldırı (madde 102),
-21/2/2014 tarihli ve 6526 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “işlediğini
-düşündürebilecek emarelerin” ibaresi “işlediği şüphesini gösteren somut delillerin” şeklinde
-değiştirilmiştir.
-12
-27/3/2015 tarihli ve 6638 sayılı Kanunun 13 üncü maddesiyle, bu maddenin üçüncü fıkrasından
-sonra gelmek üzere dördüncü fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
-11
-
-4. Çocukların cinsel istismarı (madde 103),
+4. Çocukların cinsel istismarı (madde 103),
 5. Hırsızlık (madde 141, 142),
 6. Yağma (madde 148, 149),
 7. Uyuşturucu veya uyarıcı madde imal ve ticareti (madde 188),
@@ -74,6 +66,8 @@ kişi hakkında yakalamaya neden olan fiille ilgili yeni ve yeterli delil elde e
 Cumhuriyet savcısının kararı olmadıkça bir daha aynı nedenle yakalama işlemi uygulanamaz.
 (7) Gözaltına alınan kişi bırakılmazsa, en geç bu süreler sonunda sulh ceza hâkimi
 önüne çıkarılıp sorguya çekilir. Sorguda müdafii de hazır bulunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

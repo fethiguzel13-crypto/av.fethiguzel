@@ -14,6 +14,8 @@ wordCount: 4268
 MADDE 366- (1) Bu Kanunun istinaf yolu ile ilgili 343 ilâ 349 ve 352 nci maddeleri
 hükümleri, temyizde de kıyas yoluyla uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

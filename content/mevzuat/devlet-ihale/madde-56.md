@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**Kesin teminatın geri verilmesi**
+**Kesin teminatın geri verilmesi:**
 
 ---
 
@@ -22,11 +22,11 @@ yarısından fazla olmaması şartıyla, yarısı, kesin kabul işlemleri tamaml
 kalanı;
 Müteahhide geri verilir.
 Müteahhidin bu iş nedeniyle idareye ve Sosyal Sigortalar Kurumuna olan borçları ile
-
-
-ücret ve ücret sayılan ödemelerden yapılan kanuni vergi kesintilerinin kesin kabul tarihine
+ücret ve ücret sayılan ödemelerden yapılan kanuni vergi kesintilerinin kesin kabul tarihine
 kadar ödenmemesi halinde, teminat 54 üncü madde hükmüne göre paraya çevrilerek
 borçlarına karşılık tutulur. Varsa kalanı müteahhide geri verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

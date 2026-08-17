@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Vakıf muhasebesi**
+**DÖRDÜNCÜ BÖLÜM
+Vakıfların Muhasebesi ve Denetimi
+Vakıf muhasebesi**
 
 ---
 
@@ -16,6 +18,8 @@ esaslar dahilinde tutmak zorundadırlar. Tutulacak defter ve kayıtlar ile ilgil
 yönetmelikle düzenlenir.
 Mazbut vakıfların her birinin gelir ve giderleri ayrı ayrı takip edilir.
 Vakıflar, varlıklarını, ekonomik kural ve riskleri gözetmek suretiyle değerlendirirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

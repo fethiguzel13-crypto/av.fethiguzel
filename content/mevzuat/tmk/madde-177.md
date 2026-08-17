@@ -7,15 +7,14 @@ lastReviewed: "2026-07-27"
 wordCount: 3618
 ---
 
-**Boşanmadan sonra açılacak nafaka davalarında, nafaka alacaklısının**
+**4. Yetki**
 
 ---
 
-Madde 177 - Boşanmadan sonra açılacak nafaka davalarında, nafaka alacaklısının
+Madde 177- Boşanmadan sonra açılacak nafaka davalarında, nafaka alacaklısının
 yerleşim yeri mahkemesi yetkilidir.
 
-5.
-Zamanaşımı
+---
 
 ### Akademik Yorum ve Analiz
 

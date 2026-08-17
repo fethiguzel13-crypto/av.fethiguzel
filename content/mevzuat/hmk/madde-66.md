@@ -15,6 +15,8 @@ MADDE 66- (1) Üçüncü kişi, davayı kazanmasında hukuki yararı bulunan tar
 yanında ve ona yardımcı olmak amacıyla, tahkikat sona erinceye kadar, fer’î müdahil olarak
 davada yer alabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

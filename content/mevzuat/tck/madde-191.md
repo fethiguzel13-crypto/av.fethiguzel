@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**bulundurmak ya da uyuşturucu veya uyarıcı madde kullanmak86**
+**Kullanmak için uyuşturucu veya uyarıcı madde satın almak, kabul etmek veya
+bulundurmak ya da uyuşturucu veya uyarıcı madde kullanmak**
 
 ---
 
@@ -36,15 +37,7 @@ davranmamakta ısrar etmesi,
 b) Tekrar kullanmak için uyuşturucu veya uyarıcı madde satın alması, kabul etmesi
 veya bulundurması,
 c) Uyuşturucu veya uyarıcı madde kullanması,
-daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun 133 üncü maddesiyle aynen kabul
-edilerek kanunlaşmıştır.
-29/6/2005 tarihli ve 5377 sayılı Kanunun 23 üncü maddesiyle, bu maddenin ikinci fıkrası üçüncü
-fıkra, üçüncü fıkrası ise ikinci fıkra olarak değiştirilmiştir.
-18/6/2014 tarihli ve 6545 sayılı Kanunun 68 inci maddesiyle bu maddenin başlığı “Kullanmak için
-uyuşturucu veya uyarıcı madde satın almak, kabul etmek veya bulundurmak” iken metne işlendiği
-şekilde değiştirilmiştir.
-
-hâlinde, hakkında kamu davası açılır.
+hâlinde, hakkında kamu davası açılır.
 (5) Erteleme süresi zarfında kişinin kullanmak için tekrar uyuşturucu veya uyarıcı
 madde satın alması, kabul etmesi veya bulundurması ya da uyuşturucu veya uyarıcı madde
 kullanması, dördüncü fıkra uyarınca ihlal nedeni sayılır ve ayrı bir soruşturma ve kovuşturma
@@ -70,6 +63,8 @@ veya ibadethane gibi tedavi, eğitim, askerî ve sosyal amaçla toplu bulunulan 
 ile bunların varsa çevre duvarı, tel örgü veya benzeri engel veya işaretlerle belirlenen
 sınırlarına iki yüz metreden yakın mesafe içindeki umumi veya umuma açık yerlerde
 işlenmesi hâlinde verilecek ceza yarı oranında artırılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

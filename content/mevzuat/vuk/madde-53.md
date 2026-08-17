@@ -7,11 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4280
 ---
 
-**değişiklikler tesbit edilerek, yeni irat veya kıymetin tahmin edilmesidir.**
+Madde 53 – 55 – (Mülga: 29/7/1970-1319/41 md.)
 
 ---
-
-Madde 53 – 55 – (Mülga: 29/7/1970-1319/41 md.)
 
 ### Akademik Yorum ve Analiz
 

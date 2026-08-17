@@ -20,6 +20,8 @@ esassız olması nedeniyle duruşma yapılmaksızın reddedilir.
 verir.
 (3) Bu madde gereğince verilen kararlara karşı itiraz yoluna gidilebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

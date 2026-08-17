@@ -21,6 +21,8 @@ kovuşturma işlemlerine ilişkin dosyaya konulur.
 veya ceza verilmesine yer olmadığı kararı verilip kesinleşmesi hâllerinde söz konusu kayıtlar
 Cumhuriyet savcısının huzurunda derhâl yok edilir ve bu husus tutanağa geçirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

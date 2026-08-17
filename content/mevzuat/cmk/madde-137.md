@@ -30,7 +30,9 @@ dinlemeye ilişkin kayıtlar, hâkim denetimi altında aynı usulle yok edilir.
 (4) Tespit ve dinlemeye ilişkin kayıtların yok edilmesi halinde soruşturma veya
 kovuşturma evresinin bitiminden itibaren, en geç onbeş gün içinde, Cumhuriyet başsavcılığı
 veya mahkeme, tedbirin nedeni, kapsamı, süresi ve sonucu hakkında ilgilisine yazılı olarak
-bilgi verir.4243
+bilgi verir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

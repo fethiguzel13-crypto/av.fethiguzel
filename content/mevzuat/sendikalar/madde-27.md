@@ -29,6 +29,8 @@ olmakla görevlidir.
 olmamak şartı ile görevlerini yerine getirir. İşyerlerinde, sendika temsilcilerine görevlerini
 hızlı ve etkili biçimde yapmalarına imkân verecek kolaylıklar sağlanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

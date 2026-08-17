@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Kızılay derneğinden yapılacak alımlar**
+**Kızılay derneğinden yapılacak alımlar:**
 
 ---
 
 Madde 77 – Kızılay derneğinde bulunan ilaçlarla, sağlık araç ve gereçleri, idarelerce
 doğrudan doğruya satın alınabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

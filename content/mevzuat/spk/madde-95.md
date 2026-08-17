@@ -13,7 +13,8 @@ wordCount: 4266
 
 MADDE 95 – (1) Kurul, gerekli gördüğü hâllerde, halka açık ortaklıkların genel
 kurullarına, oy hakkı bulunmaksızın gözlemciler gönderebilir.
-Sermaye piyasası kurumlarının hukuka aykırı faaliyet veya işlemlerinde
+
+---
 
 ### Akademik Yorum ve Analiz
 

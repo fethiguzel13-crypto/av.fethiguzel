@@ -19,6 +19,8 @@ yargılama başka güne bırakılır.
 (2) Tanık kendisine sorulan sorulara cevap vermez veya yemin etmemekte direnirse o
 mahkemece iki haftayı geçmemek üzere disiplin hapsine mahkûm edilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

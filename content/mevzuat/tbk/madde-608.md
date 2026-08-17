@@ -11,7 +11,7 @@ wordCount: 4285
 
 ---
 
-Madde 608 - Ömür boyu gelir sözleşmesi, yazılı şekilde yapılmadıkça geçerli olmaz.
+MADDE 608- Ömür boyu gelir sözleşmesi, yazılı şekilde yapılmadıkça geçerli olmaz.
 
 ---
 

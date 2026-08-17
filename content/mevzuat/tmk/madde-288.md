@@ -7,14 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**II. İspat
-1. Evlilik içinde ana rahmine düşme Madd e 287
-- Çocu k evlilik içinde ana rahmine düşmüşse davacı, kocanın baba olmadığını ispat etmek zorundadır. Evle nmeden başlayarak en az yüzseksen gün geçtikten sonra ve evliliğin sona ermesinden başlayarak en fazla üçyüz gün içinde doğan çocuk evlilik içinde a na r ahmine düşmüş sayılır.
-2. Evlenmeden önce veya ayrı yaşama sırasında ana rahmine düşme**
+**2. Evlenmeden önce veya ayrı yaşama sırasında ana rahmine düşme**
 
 ---
 
-Madde 288 - Çoc uk, evlenmeden önce veya ayrı yaşama sırasında ana rahmine düşmüşse, davacının başka bir kanıt getirmesi gerekmez. Ancak, gebe kalma döneminde koca n ın k arısı ile cinsel ilişkide bulunduğu konusunda inandırıcı kanıtlar varsa, kocanın babalığına ilişkin kari ne geçerliliğini korur.
+Madde 288 - Çocuk, evlenmeden önce veya ayrı yaşama sırasında ana rahmine düşmüşse,
+davacının başka bir kanıt getirmesi gerekmez.
+Ancak, gebe kalma döneminde kocanın karısı ile cinsel ilişkide bulunduğu konusunda
+inandırıcı kanıtlar varsa, kocanın babalığına ilişkin karine geçerliliğini korur.
 
 ---
 

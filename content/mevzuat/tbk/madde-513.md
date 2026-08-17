@@ -11,7 +11,7 @@ wordCount: 4259
 
 ---
 
-Madde 513 - Sözleşmeden veya işin niteliğinden aksi anlaşılmadıkça sözleşme,
+MADDE 513- Sözleşmeden veya işin niteliğinden aksi anlaşılmadıkça sözleşme,
 vekilin veya vekâlet verenin ölümü, ehliyetini kaybetmesi ya da iflası ile kendiliğinden sona
 ermiş olur. Bu hüküm, taraflardan birinin tüzel kişi olması durumunda, bu tüzel kişiliğin sona
 ermesinde de uygulanır.

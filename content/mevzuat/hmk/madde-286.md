@@ -18,6 +18,8 @@ mahkemesince hükme esas alındığı hâllerde ise Yargıtay ilgili hukuk daire
 (2) Devletin sorumlu bilirkişiye karşı açacağı rücu davası, tazminat davasını karara
 bağlamış olan mahkemede görülür.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

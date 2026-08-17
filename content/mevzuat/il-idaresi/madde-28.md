@@ -7,13 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**askeri teşkilat hariç) kaymakamın emri altındadır.17**
-
----
-
 Madde 28 – İlçedeki genel idare teşkilatının başında bulunanlar ilçe idare şube
 başkanlarıdır. Bunların emri altında çalışanlar ilçenin ikinci derecede memurlarıdır.
-I - İlçe memurlarının tayin usulü
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -27,8 +27,7 @@ sermaye piyasalarıyla ilgili olarak karşılıklılık ve mesleki sırrın koru
 çerçevesinde karşılıklı bilgi alışverişinde bulunulmasına ve belge taleplerinin karşılanmasına,
 yabancı ülkelerdeki sermaye piyasalarında faaliyet gösteren kuruluşların Türkiye’deki
 merkez, şube veya ortaklıkları ile yazılı bir sözleşme çerçevesinde dışarıdan hizmet aldıkları
-
-kurumlarda denetim yapılmasına ve gerekli idari tedbirlerin alınmasına, bu kapsamda
+kurumlarda denetim yapılmasına ve gerekli idari tedbirlerin alınmasına, bu kapsamda
 yürütülecek faaliyetlere ilişkin masrafların paylaşımına yönelik ikili veya çok taraflı
 mutabakat zabıtları imzalamak ve sermaye piyasalarıyla ilgili her türlü iş birliğini yapmak
 e) Sermaye piyasasının gelişmesini teminen yeni sermaye piyasası kurumlarına ve
@@ -68,8 +67,7 @@ yapılan resen atama sonucunda geriye kalan boş üyelikler için, kurumsal yön
 sayılan bağımsızlık kriterlerini sağlayan, boş üye sayısının 3 katı kadar kişiyi halka açık
 ortaklığın ortaklarından aday göstermelerini talep eder. Kurul bu talebini ortakların halka açık
 ortaklıkta sahip olduğu pay oranlarını dikkate alarak belirler ve bu bentteki esaslara uygun
-
-olarak atama yapar. Olağan genel kurul toplantısını kanuni süresi içinde üst üste iki hesap
+olarak atama yapar. Olağan genel kurul toplantısını kanuni süresi içinde üst üste iki hesap
 dönemi içinde yapmayan ve yönetim kurulu üyeleri kısmen veya tamamen Kurulca
 yukarıdaki fıkralar uyarınca atanmış halka açık ortaklıklarda genel kurulun yetkileri YTM
 tarafından kullanılabilir. Bu bendin uygulanmasına ilişkin usul ve esaslar Kurulca belirlenir.
@@ -85,6 +83,8 @@ mutabakat zaptı çerçevesinde ilgili mercilere intikal ettirebilir ve kullanab
 resmî ve özel kuruluşlar ve kişilerden görüş ve bilgi isteyebilir. Bunlar söz konusu isteğe
 cevap vermek ve Kurulun görevlilerine gereken kolaylığı göstermekle yükümlüdürler. Kurul,
 kanunen başka merciler tarafından takibi gereken hususları ilgili mercilere intikal ettirir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

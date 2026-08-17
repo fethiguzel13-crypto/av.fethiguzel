@@ -16,6 +16,8 @@ Madde 56 – (1) Tanık, yüksek sesle tekrar ederek veya okuyarak yemin eder.
 koyarak yemin ederler. Okuma ve yazma bilmeyen sağır veya dilsizler işaretlerinden anlayan
 bir tercüman aracılığıyla ve işaretle yemin ederler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

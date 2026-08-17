@@ -24,6 +24,8 @@ d) Başvuru sebeplerinin veya gerekçesinin hiç gösterilmemesi
 inceleme sonunda karar heyetçe verilir.
 (3) Eksiklik bulunmadığı anlaşılan dosya incelemeye alınır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

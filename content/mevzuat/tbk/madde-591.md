@@ -11,7 +11,7 @@ wordCount: 4262
 
 ---
 
-Madde 591 - Kefil, asıl borçluya veya mirasçılarına ait olan ve asıl borçlunun ödeme
+MADDE 591- Kefil, asıl borçluya veya mirasçılarına ait olan ve asıl borçlunun ödeme
 güçsüzlüğünden doğmayan bütün def’ileri alacaklıya karşı ileri sürme hakkına sahip olduğu
 gibi, bunları ileri sürmek zorundadır. Yanılma veya sözleşme yapma ehliyetsizliği ya da
 zamanaşımına uğramış bir borç sebebiyle borçlunun yükümlü olmadığı bir borca bilerek

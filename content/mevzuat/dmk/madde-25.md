@@ -7,19 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**İsnat ve iftiralara karşı koruma**
+**İsnat ve iftiralara karşı koruma:**
 
 ---
 
 Madde 25 – Devlet memurları hakkındaki ihbar ve şikayetler, garaz veya mücerret
 hakaret için, uydurma bir suç isnadı suretiyle yapıldığı ve soruşturma veya yargılamanın tabi
-2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan
-“Başbakanlıkça” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-22
-
-olduğu kanuni işlem sonucunda bu isnat sabit olmadığı takdirde, merkezde bu memurun en
+olduğu kanuni işlem sonucunda bu isnat sabit olmadığı takdirde, merkezde bu memurun en
 büyük amiri, illerde valiler, isnatta bulunanlar hakkında kamu davası açılmasını Cumhuriyet
 Savcılığından isterler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

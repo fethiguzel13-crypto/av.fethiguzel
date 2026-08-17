@@ -8,11 +8,12 @@ wordCount: 4307
 ---
 
 **D. Butlan kararı
-I. Gene l olarak**
+I. Genel olarak**
 
 ---
 
-Madde 156 - Batıl bir evlilik ancak hâkimin kararıyla sona erer. Mutlak butlan hâlinde bile evlenme, hâkimin kararına kadar geçerli bir evliliğin bü tün sonuçlarını doğurur.
+Madde 156- Batıl bir evlilik ancak hâkimin kararıyla sona erer. Mutlak butlan hâlinde
+bile evlenme, hâkimin kararına kadar geçerli bir evliliğin bütün sonuçlarını doğurur.
 
 ---
 

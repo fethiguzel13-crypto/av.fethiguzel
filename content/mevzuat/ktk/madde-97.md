@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Doğrudan doğruya talep ve dava hakkı**
+**Doğrudan doğruya talep ve dava hakkı:**
 
 ---
 
@@ -17,6 +17,8 @@ yoluna gitmeden önce ilgili sigorta kuruluşuna yazılı başvuruda bulunması 
 kuruluşunun başvuru tarihinden itibaren en geç 15 gün içinde başvuruyu yazılı olarak
 cevaplamaması veya verilen cevabın talebi karşılamadığına ilişkin uyuşmazlık olması hâlinde,
 zarar gören dava açabilir veya 5684 sayılı Kanun çerçevesinde tahkime başvurabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -22,6 +22,8 @@ c) İlçe belediyesi: Büyükşehir belediyesi sınırları içinde kalan ilçe 
 d) (Mülga: 12/11/2012-6360/4 md.)
 ifade eder.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,14 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**Nüfus kaydının iptali**
+**ALTINCI KISIM
+Noterlik Dairesi
+Dairenin niteliği ve kiralanması:**
 
 ---
 
-MADDE 40- (1) Usûlüne göre düzenlenmemiş bir belgeye dayanılarak tesis edilmiş
-nüfus kayıtları Genel Müdürlüğün ya da nüfus müdürlüklerinin göstereceği lüzum üzerine
-mahkemece verilecek kararla iptal edilir. Nüfus kütüğüne düşülmüş olan şerh ve açıklamaların
-iptal edilmesi de aynı usûle tâbidir.
+Madde 40 – Noterlik dairesi, resmi daire sayılır. Kira sözleşmesi daire adına noter
+tarafından yapılır.
+Noterlik dairesinin her türlü gideri notere aittir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**Yurt dışında bulunan gemi ve uçakların ihtiyaçlarının karşılanması**
+**Yurt dışında bulunan gemi ve uçakların ihtiyaçlarının karşılanması:**
 
 ---
 
 Madde 80 – Yurt dışında bulunan gemi ve uçakların o yerden sağlanması zorunlu olan
 ihtiyaç maddelerinin alımı ile acele onarımlarının vesair giderlerinin yapılmasına ilişkin esaslar,
 Maliye ve Milli Savunma bakanlıklarınca müştereken hazırlanacak bir yönetmelikte gösterilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

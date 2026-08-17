@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**B – Borçlunun müracaatiyle**
+**B – Borçlunun müracaatiyle:**
 
 ---
 
@@ -22,13 +22,10 @@ veya itiraz ederek, borçlunun iflas talebini, hakkındaki takipleri ertelemek v
 ödemeyi geciktirmek için yaptığını ileri sürerek mahkemeden talebin reddini isteyebilirler.
 İflasa tabi bir borçlu aleyhine alacaklılardan birinin haciz yolu ile takibi neticesinde
 yapılan haciz borçlunun yarı mevcudunun elinden çıkmasına sebep olup da kalanı muaccel ve
-
-28/2/2018 tarihli ve 7101 sayılı Kanunun 2 nci maddesiyle bu bentte yer alan “301 inci” ibaresi “308 inci”
-şeklinde değiştirilmiştir.
-67
-
-vadesi bir sene içinde hülül edecek diğer borçlarını ödemeye yetişmiyorsa borçlu derhal
+vadesi bir sene içinde hülül edecek diğer borçlarını ödemeye yetişmiyorsa borçlu derhal
 aczini bildirerek iflasını istemeye mecburdur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

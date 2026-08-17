@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**Bina ön cephe hattı ile yol arası ve tabii zeminin kazılması**
+**Bina ön cephe hattı ile yol arası ve tabii zeminin kazılması:**
 
 ---
 
@@ -19,6 +19,8 @@ metreden daha aşağıda teşekkül etmiş bulunan binalarla bu gibi arsaların 
 geçenlerin emniyetini temin etmek üzere, yol kenarına yönetmelikle belirtilen veya civarın
 karakterine göre ilgili idarece tespit edilen şekilde bahçe duvarı veya parmaklık yapmaya ve
 gereken emniyet tedbirlerini almaya mecburdurlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

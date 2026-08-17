@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**3. Deft er tutma**
+**3. Defter tutma**
 
 ---
 
-Madde 811 - Malik veya intifa hakkı sahibi, diğerinden giderleri paylaşmak üzere intifa hakkına konu olan malların noterlikçe resmen defterinin tutulmasını her zaman isteyebilir.
+Madde 811- Malik veya intifa hakkı sahibi, diğerinden giderleri paylaşmak üzere intifa
+hakkına konu olan malların noterlikçe resmen defterinin tutulmasını her zaman isteyebilir.
 
 ---
 

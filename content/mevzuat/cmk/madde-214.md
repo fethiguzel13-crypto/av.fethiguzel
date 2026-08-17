@@ -19,6 +19,8 @@ görüşünü açıklamak üzere görevi, üyelerden birine vermeyi kurula öner
 (3) Bilimsel görüşlere ilişkin açıklama, bu Kanunun 68 inci madde hükümlerine göre
 yapılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

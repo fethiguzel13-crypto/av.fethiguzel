@@ -11,7 +11,7 @@ wordCount: 4311
 
 ---
 
-Madde 446 - Rekabet yasağına aykırı davranan işçi, bunun sonucu olarak işverenin
+MADDE 446- Rekabet yasağına aykırı davranan işçi, bunun sonucu olarak işverenin
 uğradığı bütün zararları gidermekle yükümlüdür.
 Yasağa aykırı davranış bir ceza koşuluna bağlanmışsa ve sözleşmede aksine bir
 hüküm de yoksa, işçi öngörülen miktarı ödeyerek rekabet yasağına ilişkin borcundan

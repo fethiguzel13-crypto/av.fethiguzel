@@ -19,8 +19,9 @@ vermedikçe, bilirkişiler duruşma salonunda kalırlar; ancak salona teker teke
 birbirinden ayrı olarak dinlenmeleri zorunlu değildir.
 (3) Cumhuriyet savcısının, katılanın, vekilinin, şüphelinin veya sanığın, müdafiin veya
 kanunî temsilcinin istemi üzerine bilimsel mütalaa hazırlayan uzmanın duruşmada dinlenmesi
+hususunda da yukarıdaki fıkralar hükümleri uygulanır.
 
-hususunda da yukarıdaki fıkralar hükümleri uygulanır.
+---
 
 ### Akademik Yorum ve Analiz
 

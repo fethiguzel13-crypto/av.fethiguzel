@@ -37,11 +37,7 @@ Menkul Kıymetler Borsasının ve bu Kanunla mülga 2499 sayılı Kanunun 40/A m
 uyarınca kurulan İstanbul Altın Borsasının tüzel kişilikleri Borsa İstanbul Anonim Şirketinin
 esas sözleşmesinin tescili ile son bulur.
 (5) Borsa İstanbul Anonim Şirketinin esas sözleşmesinin tescil edilmesi ile İstanbul
-2/7/2018 tarihli ve 703 sayılı KHK’nin 165 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu”
-ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-24
-
-Menkul Kıymetler Borsasının ve İstanbul Altın Borsasının her türlü varlıkları, borçları ve
+Menkul Kıymetler Borsasının ve İstanbul Altın Borsasının her türlü varlıkları, borçları ve
 alacakları, hakları ve yükümlülükleri, elektronik ortamdakiler de dâhil olmak üzere her türlü
 kayıtları ve diğer belgeleri bir bütün olarak, bu maddede yer alan istisnalar dışında, herhangi
 başka bir işleme gerek kalmaksızın Borsa İstanbul Anonim Şirketine devrolunmuş sayılır. Şu
@@ -81,9 +77,8 @@ karşılığında diğer borsalara ve piyasa veya sistem işleticilerine Kurulun
 ç) Bu Kanunun yayımı tarihinden itibaren üç yıl içinde Borsa İstanbul Anonim
 Şirketinin elinde pay kalması hâlinde, bu paylar bedelsiz olarak Hazineye intikal eder.
 (7) Borsa İstanbul Anonim Şirketinin kamuya ait paylarının bu Kanun çerçevesinde
-
-halka arzı veya sair yöntemlerle satışı, Cumhurbaşkanınca belirlenecek usul ve esaslar
-çerçevesinde gerçekleştirilir.25
+halka arzı veya sair yöntemlerle satışı, Cumhurbaşkanınca belirlenecek usul ve esaslar
+çerçevesinde gerçekleştirilir.
 (8) Borsa İstanbul Anonim Şirketi esas sözleşmesi uyarınca yönetim kurulu başkanı ve
 üyeleri seçilinceye kadar İstanbul Menkul Kıymetler Borsasının mevcut başkanı Borsa
 İstanbul Anonim Şirketi yönetim kurulu başkanı olarak; İstanbul Menkul Kıymetler
@@ -116,17 +111,9 @@ Cumhurbaşkanlığı Kararnamesiyle kurulan kamu kurum, kuruluş ve ortaklıklar
 mevzuat, uygulama ve kısıtlamalara tabi değildir. Hazine Müsteşarlığı ve 4749 sayılı Kanun
 uyarınca kurulan varlık kiralama şirketleri, ihraç etmiş oldukları menkul kıymetlere ilişkin,
 ihraççıların tabi olduğu Borsa İstanbul Anonim Şirketine ödenmesi gereken kayıt ücreti ve
-kotasyon ücretinden muaftır.26
+kotasyon ücretinden muaftır.
 (13) 233 sayılı Kanun Hükmünde Kararname, 22/1/1990 tarihli ve 399 sayılı Kamu
-2/7/2018 tarihli ve 703 sayılı KHK’nin 165 inci maddesiyle, bu fıkrada yer alan “Hazine Müsteşarlığının
-bağlı olduğu Bakanın önerisi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde
-değiştirilmiştir.
-26
-2/7/2018 tarihli ve 703 sayılı KHK’nin 165 inci maddesiyle, bu fıkrada yer alan “özel kanunla”
-ibaresinden sonra gelmek üzere “veya Cumhurbaşkanlığı Kararnamesiyle” ibaresi eklenmiştir.
-25
-
-İktisadi Teşebbüsleri Personel Rejiminin Düzenlenmesi ve 233 Sayılı Kanun Hükmünde
+İktisadi Teşebbüsleri Personel Rejiminin Düzenlenmesi ve 233 Sayılı Kanun Hükmünde
 Kararnamenin Bazı Maddelerinin Yürürlükten Kaldırılmasına Dair Kanun Hükmünde
 Kararname, 657 sayılı Kanun, 4/7/2001 tarihli ve 631 sayılı Memurlar ve Diğer Kamu
 Görevlilerinin Mali ve Sosyal Haklarında Düzenlemeler ile Bazı Kanun ve Kanun Hükmünde
@@ -147,6 +134,8 @@ hakkında uygulanmaz. (İptal ikinci cümle: Anayasa Mahkemesi’nin 14/11/2013 
 E.: 2013/24, K.: 2013/133 sayılı Kararı ile.)
 (14) Bu maddenin uygulanması sırasında ortaya çıkabilecek tereddütleri gidermeye
 ilgili Bakan yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

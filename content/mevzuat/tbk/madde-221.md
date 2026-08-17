@@ -11,7 +11,7 @@ wordCount: 4281
 
 ---
 
-Madde 221 - Satıcı satılanı ayıplı olarak devretmekte ağır kusurlu ise, ayıptan
+MADDE 221- Satıcı satılanı ayıplı olarak devretmekte ağır kusurlu ise, ayıptan
 sorumluluğunu kaldıran veya sınırlayan her anlaşma kesin olarak hükümsüzdür.
 
 ---

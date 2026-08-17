@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**Askeri araç sürücülerinin sınavları**
+**Askeri araç sürücülerinin sınavları:**
 
 ---
 
@@ -15,6 +15,9 @@ Madde 43 – Er ve erbaş sınıfından askeri araç sürücülerinin özel sın
 verme işlemlerinin usulü ve bu belgelerle hangi cins taşıtların nerelerde kullanılacağı Milli
 Savunma Bakanlığınca çıkarılacak yönetmelikte gösterilir.
 Bu belgeler sadece askeri araçlar için askerlik süresince geçerlidir.
+Adres değişikliklerinin bildirilmesi ve sürücü belgelerinin taşınması zorunluluğu:
+
+---
 
 ### Akademik Yorum ve Analiz
 

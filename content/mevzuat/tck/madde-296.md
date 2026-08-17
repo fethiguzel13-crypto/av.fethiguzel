@@ -17,6 +17,8 @@ hakkında altı aydan üç yıla kadar hapis cezasına hükmolunur. Hükümlü v
 (2) Ayaklanma sırasında başka suçların işlenmesi halinde, ayrıca bu suçlara ilişkin
 hükümlere göre cezaya hükmolunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

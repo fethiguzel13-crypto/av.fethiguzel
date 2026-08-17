@@ -22,6 +22,8 @@ mahkeme birleştirmeye gerek olup olmadığına ve gerek varsa hangi mahkemede b
 karar verir.
 (4) Birleştirilmiş olan davaların ayrılması da bu suretle olur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**II. Serbest malla r**
+**II. Serbest mallar**
 
 ---
 
-Madde 455 - Vesayet altındaki kişi, kendi tasarrufuna bırakılmış olan mallar ile vasinin izniyle çalışa rak kazandığı malları serbestçe yönetir ve kullanır.
+Madde 455- Vesayet altındaki kişi, kendi tasarrufuna bırakılmış olan mallar ile vasinin
+izniyle çalışarak kazandığı malları serbestçe yönetir ve kullanır.
 
 ---
 

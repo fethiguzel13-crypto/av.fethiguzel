@@ -15,6 +15,8 @@ MADDE 319- (1) İddianın genişletilmesi veya değiştirilmesi yasağı dava a�
 savunmanın genişletilmesi veya değiştirilmesi yasağı cevap dilekçesinin mahkemeye verilmesiyle
 başlar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

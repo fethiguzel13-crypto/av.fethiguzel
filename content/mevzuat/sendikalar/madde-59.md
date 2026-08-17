@@ -19,6 +19,8 @@ tarafından grev kararı alınması hâlinde bu Kanun hükümlerine uygun olarak
 kanuni lokavt denir.
 (3) Kanuni lokavt için aranan şartlar gerçekleşmeden yapılan lokavt kanun dışıdır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

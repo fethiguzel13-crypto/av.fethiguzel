@@ -11,7 +11,8 @@ wordCount: 4278
 
 ---
 
-Madde 1477 - (1) Sigo rtacı, sigortalının, sorumluluk konusu olayı kasten gerçekleştirmesinden doğan zararlardan sorumlu olmaz.
+MADDE 1477- (1) Sigortacı, sigortalının, sorumluluk konusu olayı kasten
+gerçekleştirmesinden doğan zararlardan sorumlu olmaz.
 
 ---
 

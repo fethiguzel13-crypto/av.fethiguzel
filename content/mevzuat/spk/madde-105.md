@@ -24,6 +24,8 @@ yüzde ellisi gelir kaydedilmek üzere YTM’ye aktarılır.
 (4) Bu Kanun uyarınca verilen idari para cezası kararlarına karşı idari yargı yoluna
 başvurulabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

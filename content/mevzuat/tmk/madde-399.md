@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**2. Ku rulması**
+**2. Kurulması**
 
 ---
 
-Madde 399 - Özel ves ayet, vesayet altına alınan kişinin fi il ehl iyetine sahip iki yakın hısımının veya bi r hısımı ile eşinin istemi üzerine denetim makamı tarafından ku rulur.
+Madde 399- Özel vesayet, vesayet altına alınan kişinin fiil ehliyetine sahip iki yakın
+hısımının veya bir hısımı ile eşinin istemi üzerine denetim makamı tarafından kurulur.
 
 ---
 

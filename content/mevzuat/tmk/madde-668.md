@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**(Mülga: 30/4/2014 - 6537/9 md.) 5. İşletmenin satılması**
+**5. İşletmenin satılması**
 
 ---
 
-Madde 668 - (Mülga: 30/4/2014 - 6537/9 md.) ÜÇÜNCÜ AYIRIM MİRASTA DENKLEŞTİRME A. Mirasçılar aras ında
+Madde 668- (Mülga: 30/4/2014-6537/9 md.)
 
 ---
 

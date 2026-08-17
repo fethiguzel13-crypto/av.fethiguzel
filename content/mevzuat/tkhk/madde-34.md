@@ -21,10 +21,6 @@ muacceliyet uyarısında bulunması gerekir.
 dikkate alınmaz.
 (3) Finansal kiralama işlemlerinde, muacceliyet uyarısında verilen süre içinde
 tüketicinin edimini yerine getirmemesi hâlinde, bu sürenin sona ermesini takiben konut
-24/10/2024 tarihli ve 7529 sayılı Kanunun 3 üncü maddesi ile bu fıkranın birinci cümlesine “yazılı”
-ibaresinden sonra gelmek üzere “veya mesafeli” ibaresi eklenmiştir.
-6
-
 finansmanı kuruluşu kalan borcun tamamını ifa etme hakkını kullanmak üzere konut
 finansmanı sözleşmesini feshettiği takdirde, konutu derhâl satışa çıkarmakla yükümlüdür.
 Konut finansmanı kuruluşu satış öncesinde konut için 6/12/2012 tarihli ve 6362 sayılı
@@ -41,6 +37,8 @@ veya zilyetliğin devredilmiş olması hâlinde zilyetliği elinde bulunduran ü
 konutu tahliye etmekle yükümlüdür. Konutun tahliye edilmemesi hâlinde konut sahibi,
 9/6/1932 tarihli ve 2004 sayılı İcra ve İflâs Kanununun 26 ncı ve 27 nci maddeleri uyarınca
 tüketici veya zilyetliği elinde bulunduran üçüncü şahıslar aleyhine icra yoluna başvurabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

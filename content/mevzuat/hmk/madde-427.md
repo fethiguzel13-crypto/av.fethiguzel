@@ -18,6 +18,8 @@ hakem kurulunca esas hakkında karar verilir.
 (2) Tahkim süresi, tarafların anlaşmasıyla; anlaşamamaları hâlinde ise taraflardan
 birinin başvurusu üzerine mahkemece uzatılabilir. Mahkemenin, bu konudaki kararı kesindir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

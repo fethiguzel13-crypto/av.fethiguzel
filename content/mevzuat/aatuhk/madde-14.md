@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**İhtiyati hacizde borçlu tarafından gösterilecek teminat**
+**İhtiyati hacizde borçlu tarafından gösterilecek teminat:**
 
 ---
 
@@ -16,6 +16,8 @@ verilmek ve bu hususu temin için malların kıymetleri depo edilmek yahut tahsi
 bulunduğu mahalde ikametgah sahibi bir şahıs müteselsil kefil gösterilmek şartiyle borçluya
 ve mal üçüncü şahıs yedinde haczolunmuşsa bir taahhüt senedi alınarak kendisine
 bırakılabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

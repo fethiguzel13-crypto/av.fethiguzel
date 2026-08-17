@@ -20,6 +20,8 @@ edilmesi mümkündür.
 (3) İhraca ilişkin ilan, reklam ve açıklamalar izahname ile tutarlı olmalı, gerçeğe
 aykırı, abartılmış ve yanıltıcı bilgiler içermemelidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

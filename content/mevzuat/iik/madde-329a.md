@@ -7,13 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**İflâsın ertelenmesi ile ilişki**
+**İflâsın ertelenmesi ile ilişki:**
 
 ---
 
 Madde 329/a- (Ek: 17/7/2003-4949/88 md.; Mülga: 28/2/2018-7101/65 md.)
-II – FEVKALADE HALLERDE TATİL
-İcra takiplerinin durdurulması halleri:125
+
+---
 
 ### Akademik Yorum ve Analiz
 

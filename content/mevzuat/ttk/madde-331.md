@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**III
-- Amaç ve konu**
+**III - Amaç ve konu**
 
 ---
 
-Madde 331 - (1) Anonim şirketler, kanunen yasaklanmamış her türlü ekonomik amaç ve konular için kurulabilir.
+MADDE 331- (1) Anonim şirketler, kanunen yasaklanmamış her türlü ekonomik
+amaç ve konular için kurulabilir.
 
 ---
 

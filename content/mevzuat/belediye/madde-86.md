@@ -13,6 +13,8 @@ wordCount: 4258
 
 Madde 86- Bu Kanun yayımı tarihinde yürürlüğe girer.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

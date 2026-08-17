@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4319
 ---
 
-**Kuruluşların gelirleri ve giderleri**
+**ALTINCI BÖLÜM
+Kuruluşların Gelirleri, Denetimi ve Kapatılması
+Kuruluşların gelirleri ve giderleri**
 
 ---
 
@@ -37,9 +39,19 @@ kullanamaz veya bağışlayamaz.
 mevcudunun yüzde onunu aşmamak kaydıyla;
 a) Yurt içi ve yurt dışındaki doğal afet bölgelerine doğrudan veya yetkili makamlar
 aracılığıyla konut, eğitim ve sağlık tesisleri kurulması amacıyla kamu kurum ve kuruluşlarına,
-b) Aile ve Sosyal Politikalar Bakanlığı ile koordinasyon hâlinde, 5434 sayılı Kanunun mülga 64 üncü maddesi ve 5510 sayılı Kanunun 47 nci maddesinin sekizinci fıkrasında sayılanlar ile 3713 sayılı Terörle Mücadele Kanunu, 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanun, 5233 sayılı Kanunun ek 1 inci maddesi hükümlerine göre nakdî tazminat ödenmesi veya aylık bağlanması hakkı bulunanlara,
-c) (Ek: 23/2/2017-6824/23 md.) Bakanlıkla yapılacak işbirliği protokolü çerçevesinde, kadın istihdamını destekleyici faaliyetler kapsamında kullanılması şartıyla Bakanlığa,
+b) Aile ve Sosyal Politikalar Bakanlığı ile koordinasyon hâlinde, 8/6/1949 tarihli ve
+5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununun mülga 64 üncü maddesi ve
+31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 47 nci
+maddesinin sekizinci fıkrasında sayılanlar ile 12/4/1991 tarihli ve 3713 sayılı Terörle
+Mücadele Kanunu, 3/11/1980 tarihli ve 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması
+Hakkında Kanun, 17/7/2004 tarihli ve 5233 sayılı Terör ve Terörle Mücadeleden Doğan
+Zararların Karşılanması Hakkında Kanunun ek 1 inci maddesi hükümlerine göre nakdî
+tazminat ödenmesi veya aylık bağlanması hakkı bulunanlara,
+c) (Ek: 23/2/2017-6824/23 md.) Bakanlıkla yapılacak işbirliği protokolü çerçevesinde,
+kadın istihdamını destekleyici faaliyetler kapsamında kullanılması şartıyla Bakanlığa,
 ayni ve nakdî yardımda bulunabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

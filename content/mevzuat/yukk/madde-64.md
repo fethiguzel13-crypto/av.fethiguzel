@@ -39,6 +39,8 @@ yabancı veya vatansız kişi, ikincil korumadan hariçte tutulur.
 nedenlerinden herhangi birinin diğer aile üyeleri için oluşmaması şartıyla, başvuru sahibinin
 aile üyelerinin de hariçte tutulmasını gerektirmez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

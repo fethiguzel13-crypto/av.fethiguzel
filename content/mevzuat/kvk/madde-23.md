@@ -33,6 +33,8 @@ c) Türkiye dışındaki taşımacılık faaliyeti için diğer kurumlar hesabı
 sattıkları yolcu ve bagaj biletleri ile Türkiye’de yaptıkları navlun sözleşmeleri dolayısıyla
 kendilerine verilen komisyonlar ve ücretler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

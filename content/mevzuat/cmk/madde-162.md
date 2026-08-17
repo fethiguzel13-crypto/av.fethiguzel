@@ -16,6 +16,8 @@ soruşturma işlemine gerek görürse, istemlerini bu işlemin yapılacağı yer
 bildirir. Sulh ceza hâkimi istenilen işlem hakkında, kanuna uygun olup olmadığını inceleyerek
 karar verir ve gereğini yerine getirir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -21,8 +21,7 @@ sayılı Kararı ile.; Yeniden düzenleme: 24/11/2016-6763/20 md.) Birinci fıkr
 dışında kalan;
 a) Firarı kolaylaştırıcı her türlü alet ve malzemeyi,
 b) Her türlü saldırı ve savunma araçları ile yangın çıkarmaya yarayan malzemeyi,
-
-c) Alkol içeren her türlü içeceği,
+c) Alkol içeren her türlü içeceği,
 d) Kumar oynanmasına olanak sağlayan eşya ve malzemeyi,
 e) 188 inci maddede tanımlanan suçlar saklı kalmak üzere, yeşil reçeteye tabi ilaçları,
 f) Kurum idaresince incelenmek üzere alınanlar hariç, mahkemelerce yasaklanmış
@@ -36,6 +35,8 @@ muhafazasıyla görevli kişiler tarafından işlenmesi halinde, verilecek ceza 
 (4) Bir ve ikinci fıkralarda tanımlanan suçların konusunu oluşturan eşyayı yanında
 bulunduran veya kullanan hükümlü veya tutuklu, bunu kimden ve ne suretle elde ettiği
 hususunda bilgi verirse, verilecek ceza yarı oranında indirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

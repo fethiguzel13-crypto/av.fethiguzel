@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**İşverenlerin ve işçilerin yükümlülükleri**
+**BEŞİNCİ BÖLÜM
+İş Sağlığı ve Güvenliği
+İşverenlerin ve işçilerin yükümlülükleri**
 
 ---
 
 Madde 77 – (Mülga: 20/6/2012-6331/37 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,12 @@ wordCount: 4320
 
 ---
 
-Madde 1026 - Bir aynî hakkın sona ermesiyle tescil her türlü hukukî değerini kaybettiği takdirde, yüklü taşınmaz maliki, terki ni isteyebilir. Tapu memuru bu istemi yerine getirirse, her i lgili, bu işlemin kendisine tebliği tarihinden başlayarak otuz gün içinde terkine karşı da va açabilir. Tapu memuru, re'sen hâkime başvurarak aynî hakkın sona erdiğinin belirlenmesine ilişkin ka rar verilmesini istemeye ve hâkimin vereceği karara dayanarak terkin işlemini yapmaya yetkilidir.
+Madde 1026- Bir aynî hakkın sona ermesiyle tescil her türlü hukukî değerini kaybettiği
+takdirde, yüklü taşınmaz maliki, terkini isteyebilir.
+Tapu memuru bu istemi yerine getirirse, her ilgili, bu işlemin kendisine tebliği tarihinden
+başlayarak otuz gün içinde terkine karşı dava açabilir.
+Tapu memuru, re'sen hâkime başvurarak aynî hakkın sona erdiğinin belirlenmesine ilişkin
+karar verilmesini istemeye ve hâkimin vereceği karara dayanarak terkin işlemini yapmaya yetkilidir.
 
 ---
 

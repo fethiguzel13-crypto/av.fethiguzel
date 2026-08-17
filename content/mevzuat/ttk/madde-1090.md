@@ -8,13 +8,14 @@ wordCount: 4300
 ---
 
 **C) Görevleri
-I
-- Geminin elverişliliği ile ilgili olarak
+I- Geminin elverişliliği ile ilgili olarak
 1. Geminin denize ve yola elverişli olup olmadığına dikkat etme**
 
 ---
 
-Madde 1090 - (1) Kaptan, yola çıkmadan önce geminin denize ve yola elverişli olmasına ve gemiye, gemi adamlarına ve yüke ait belgelerin gemide bulunmasına dikkat etmek zorundadır.
+MADDE 1090- (1) Kaptan, yola çıkmadan önce geminin denize ve yola elverişli
+olmasına ve gemiye, gemi adamlarına ve yüke ait belgelerin gemide bulunmasına dikkat
+etmek zorundadır.
 
 ---
 

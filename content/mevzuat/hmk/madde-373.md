@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**Bozmaya uyma veya direnme62**
+**Bozmaya uyma veya direnme**
 
 ---
 
@@ -26,20 +26,14 @@ karar verildiği takdirde, bu karara karşı temyiz yoluna başvurulabilir.
 (5) İlk derece mahkemesi veya bölge adliye mahkemesi kararında direnirse, bu kararın
 temyiz edilmesi durumunda inceleme, kararına direnilen dairece yapılır. Direnme kararı
 öncelikle incelenir. Daire, direnme kararını yerinde görürse kararını düzeltir; görmezse
-dosyayı Yargıtay Hukuk Genel Kuruluna gönderir.63
+dosyayı Yargıtay Hukuk Genel Kuruluna gönderir.
 (6) (Ek: 17/4/2013-6460/1 md.) Davanın esastan reddi veya kabulünü içeren bozmaya
 uyularak tesis olunan kararın önceki bozmayı ortadan kaldıracak şekilde yeniden bozulması
 üzerine alt mahkemece verilen kararın temyiz incelemesi, her hâlde Yargıtay Hukuk Genel
 Kurulunca yapılır.
 (7) Hukuk Genel Kurulunun verdiği karara uymak zorunludur.
-17/4/2013 tarihli ve 6460 sayılı Kanunun 1 inci maddesiyle bu maddenin beşinci fıkrasından sonra
-gelmek üzere aşağıdaki fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.
-63
-24/11/2016 tarihli ve 6763 sayılı Kanunun 43 üncü maddesi ile bu fıkrada yer alan “Yargıtay
-Hukuk Genel Kurulunca yapılır.” ibaresi “kararına direnilen dairece yapılır. Direnme kararı
-öncelikle incelenir. Daire, direnme kararını yerinde görürse kararını düzeltir; görmezse dosyayı
-Yargıtay Hukuk Genel Kuruluna gönderir.” şeklinde değiştirilmiştir.
-62
+
+---
 
 ### Akademik Yorum ve Analiz
 

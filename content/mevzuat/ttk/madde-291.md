@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**III
-- Tasfiyenin amacı**
+**III - Tasfiyenin amacı**
 
 ---
 
-Madde 291 - (1) Tasfiye memurları, şirketin faal iyette bulunduğu dönemde başlanmış olup da henüz sonuçlandırılmamış olan iş ve işlemleri tamamlamaya, şirketin borç ve taahhütlerini yerine getirmeye, şirketin alacaklarını toplamaya, gereğinde yargı yolu ile almaya ve varlıkları paraya çevirmeye, net varl ığı elde etmeye yönelik ve yarayan bütün iş ve işlemleri yapmaya yetkili ve zorunludurlar.
+MADDE 291- (1) Tasfiye memurları, şirketin faaliyette bulunduğu dönemde
+başlanmış olup da henüz sonuçlandırılmamış olan iş ve işlemleri tamamlamaya, şirketin borç
+ve taahhütlerini yerine getirmeye, şirketin alacaklarını toplamaya, gereğinde yargı yolu ile
+almaya ve varlıkları paraya çevirmeye, net varlığı elde etmeye yönelik ve yarayan bütün iş ve
+işlemleri yapmaya yetkili ve zorunludurlar.
 
 ---
 

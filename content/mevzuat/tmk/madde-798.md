@@ -11,7 +11,10 @@ wordCount: 4309
 
 ---
 
-Madde 798 - Malik, yararlanı lamayacak derecede harap olan intifa konusu malı yararlanılacak hâle getirmekle yükümlü de ğildir; getirirse intifa hakkı yeniden kurulmuş olur. Sigorta ve kamulaştırma gibi durumlarda intifa hak kı, hakkın konusu yerine geçen karşılık üzerinde devam eder.
+Madde 798- Malik, yararlanılamayacak derecede harap olan intifa konusu malı
+yararlanılacak hâle getirmekle yükümlü değildir; getirirse intifa hakkı yeniden kurulmuş olur.
+Sigorta ve kamulaştırma gibi durumlarda intifa hakkı, hakkın konusu yerine geçen karşılık
+üzerinde devam eder.
 
 ---
 

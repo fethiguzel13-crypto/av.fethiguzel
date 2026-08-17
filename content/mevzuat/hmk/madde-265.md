@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Tanığa ödenecek ücret ve giderler28**
+**Tanığa ödenecek ücret ve giderler**
 
 ---
 
@@ -17,6 +17,8 @@ seyahat etmek zorunda kalmışsa yol giderleri ile tanıklığa çağrıldığı
 beslenme giderleri de karşılanır.
 (2) Birinci fıkra hükmüne göre ödenmesi gereken ücret ve giderler, hiçbir vergi, resim
 ve harca tabi değildir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

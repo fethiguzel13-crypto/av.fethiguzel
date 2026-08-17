@@ -1,0 +1,146 @@
+import type { VatandasArticle } from '../types';
+
+/**
+ * Kaynak doğrulaması:
+ *   TBK m.146   genel kural: on yıl (content-packs/tbk.json.gz)
+ *   TBK m.147   beş yıllık zamanaşımına tabi altı alacak grubu
+ *   4857 Ek m.3 iş alacaklarında beş yıl (content-packs/is-kanunu.json.gz)
+ *   TMK m.606   mirasın reddinde üç ay
+ *   İİK m.62    ödeme emrine itirazda yedi gün
+ *   İİK m.67    itirazın iptalinde bir yıl
+ *   4857 m.20   işe iadede bir ay + iki hafta
+ *
+ * Doğrulama: node scripts/madde.mjs tbk 146-147
+ *
+ * NOT: Haksız fiil ve sebepsiz zenginleşme zamanaşımı (TBK m.72, m.82) bu
+ * metne HENÜZ alınmadı; madde metinleri okunup doğrulanınca eklenecek.
+ * Doğrulanmamış süre yazmaktansa eksik bırakmak yeğdir.
+ */
+export const zamanasimiSureleri: VatandasArticle = {
+  slug: 'zamanasimi-sureleri',
+  title: 'Zamanaşımı Süreleri: On Yıl Kuralı ve Beş Yıllık İstisnalar',
+  description:
+    'Alacaklarda zamanaşımı kaç yıl, hangi alacaklar beş yıla tabi, iş ve icra dosyalarında süreler nasıl işler? TBK m.146-147 ve ilgili özel hükümler çerçevesinde.',
+  h1: 'Zamanaşımı süreleri nelerdir?',
+  keywords: [
+    'zamanaşımı süresi',
+    'alacak zamanaşımı',
+    'on yıllık zamanaşımı',
+    'beş yıllık zamanaşımı',
+    'kira alacağı zamanaşımı',
+    'işçi alacakları zamanaşımı',
+  ],
+  category: 'Borçlar',
+  role: 'pillar',
+  related: ['odeme-emrine-itiraz'],
+  links: [
+    { label: 'TBK m.146 — On yıllık zamanaşımı', href: '/mevzuat/tbk/madde-146' },
+    { label: 'TBK m.147 — Beş yıllık zamanaşımı', href: '/mevzuat/tbk/madde-147' },
+    { label: 'İş K. m.120 — Ek Madde 3 (beş yıl)', href: '/mevzuat/is-kanunu/madde-120' },
+    { label: 'Zamanaşımı kontrol aracı', href: '/hesaplama/zamanasimi' },
+  ],
+  lead:
+    'Genel kural on yıldır: Kanunda aksine bir hüküm bulunmadıkça her alacak on yıllık zamanaşımına tabidir. Kira, faiz ve ücret gibi dönemsel edimler ile vekâlet ve eser sözleşmesinden doğan alacaklar ise beş yıla tabidir.',
+  keyInsight:
+    'Zamanaşımı borcu ortadan kaldırmaz, yalnız borçluya bir defi hakkı verir; borçlu ileri sürmezse hâkim resen dikkate almaz.',
+  sections: [
+    {
+      heading: 'Genel kural: on yıl',
+      paragraphs: [
+        'Türk Borçlar Kanunu meseleyi tek cümleyle bağlar. TBK m.146 uyarınca kanunda aksine bir hüküm bulunmadıkça her alacak on yıllık zamanaşımına tabidir.',
+        'Bu hükmün yapısı önemlidir: On yıl varsayılan süredir, istisna değil. Bir alacak için özel bir süre öngörülmemişse akla gelmesi gereken ilk süre on yıldır.',
+        'Sürenin başlangıcı kural olarak alacağın muaccel olduğu, yani istenebilir hâle geldiği andır. Vadesi belirli bir borçta vade tarihi, belirsiz olanlarda ise talep edilebilirlik anı esas alınır.',
+      ],
+    },
+    {
+      heading: 'Beş yıla tabi alacaklar',
+      paragraphs: [
+        'TBK m.147 altı grup alacağı sayarak beş yıllık süreye bağlar. İlk grup en geniş uygulama alanına sahiptir: Kira bedelleri, anapara faizleri ve ücret gibi diğer dönemsel edimler.',
+        'Dönemsellik ölçütü burada belirleyicidir. Bir defalık ödemeler değil, belirli aralıklarla tekrarlanan edimler bu kapsamdadır; kira alacağı bunun tipik örneğidir.',
+        'Maddenin saydığı diğer gruplar günlük hayatta sıkça karşımıza çıkar: Otel, motel, pansiyon ve tatil köyü gibi yerlerdeki konaklama bedelleri ile lokanta ve benzeri yerlerdeki yeme içme bedelleri; küçük sanat işlerinden ve küçük çapta perakende satışlardan doğan alacaklar.',
+        'Ortaklık ilişkilerinden doğan alacaklar da beş yıla tabidir. Bir ortaklıkta, ortaklık sözleşmesinden doğan ve ortakların birbirleri veya kendileriyle ortaklık arasındaki alacaklar ile ortaklığın müdürleri, temsilcileri ve denetçileri ile ortaklık veya ortaklar arasındaki alacaklar bu kapsamdadır.',
+        'Son iki grupta birer istisna gizlidir. Vekâlet, komisyon ve acentalık sözleşmelerinden doğan alacaklar beş yıla tabidir; simsarlık sözleşmesinden doğan alacaklarda ise ticari simsarlık ücreti alacağı bunun dışında tutulmuştur. Aynı biçimde eser sözleşmesinden doğan alacaklar beş yıla tabi olmakla birlikte, yüklenicinin yükümlülüklerini ağır kusuruyla hiç ya da gereği gibi ifa etmemesi hâli kapsam dışındadır.',
+      ],
+      bullets: [
+        'Kira bedelleri, anapara faizleri, ücret gibi dönemsel edimler',
+        'Konaklama ile yeme içme bedelleri',
+        'Küçük sanat işleri ve küçük çapta perakende satış alacakları',
+        'Ortaklık ilişkilerinden doğan alacaklar',
+        'Vekâlet, komisyon, acentalık ve simsarlık alacakları — ticari simsarlık ücreti hariç',
+        'Eser sözleşmesi alacakları — yüklenicinin ağır kusuru hâli hariç',
+      ],
+    },
+    {
+      heading: 'İş hukukunda beş yıl',
+      paragraphs: [
+        'İş uyuşmazlıklarında ayrı bir düzenleme vardır. 4857 sayılı Kanuna 7036 sayılı Kanunla eklenen Ek Madde 3, iş sözleşmesinden kaynaklanan kıdem tazminatı, ihbar tazminatı, kötüniyet tazminatı ve eşit davranma ilkesine aykırılıktan doğan tazminat ile yıllık izin ücretinde zamanaşımını beş yıl olarak belirler.',
+        'Yıllık izin ücretinde başlangıç ayrıca düzenlenmiştir. 4857 m.59 uyarınca bu ücrete ilişkin zamanaşımı, iş sözleşmesinin sona erdiği tarihten itibaren başlar.',
+        'Ücret alacağı ise TBK m.147 kapsamında dönemsel edim sayılır ve yine beş yıllık süreye tabidir. Sonuç olarak iş dosyalarında pratik ölçüt genellikle beş yıldır.',
+      ],
+    },
+    {
+      heading: 'Zamanaşımı ile hak düşürücü sürenin farkı',
+      paragraphs: [
+        'İkisi aynı şey değildir ve karıştırılmaları ağır sonuç doğurur. Zamanaşımı borcu sona erdirmez; borçluya, ödemekten kaçınma imkânı veren bir defi hakkı tanır. Borçlu bunu ileri sürmezse hâkim resen dikkate almaz ve alacak hükmedilir.',
+        'Hak düşürücü süre ise hakkın kendisini ortadan kaldırır ve hâkim tarafından resen gözetilir. Ödeme emrine itirazdaki yedi günlük süre ya da işe iadedeki bir aylık süre bu niteliktedir; kaçırıldığında ileri sürülmesi gerekmeksizin sonuç doğar.',
+        'Ayrım pratikte şu soruyla sınanır: Süre geçtikten sonra karşı taraf sessiz kalırsa ne olur? Zamanaşımında alacak hükmedilebilirken hak düşürücü sürede talep baştan reddedilir.',
+      ],
+    },
+    {
+      heading: 'Sık karşılaşılan özel süreler',
+      paragraphs: [
+        'Bazı işlemlerde süre çok kısadır ve genel kuralla ilgisi yoktur. İcra takibinde ödeme emrine itiraz için İİK m.62 yedi gün tanır; alacaklının itirazın iptali davası açma süresi ise m.67 uyarınca itirazın tebliğinden itibaren bir yıldır.',
+        'İş güvencesinde süre iki aşamalıdır: 4857 m.20 uyarınca fesih bildiriminin tebliğinden itibaren bir ay içinde arabulucuya başvurulur, anlaşma olmazsa son tutanaktan itibaren iki hafta içinde dava açılır.',
+        'Miras hukukunda ret süresi TMK m.606 uyarınca üç aydır ve mirasbırakanın ölümünün öğrenildiği tarihten işler.',
+        'Bu süreler birbirine benzemez ve biri diğerine kıyasen uygulanmaz. Dosyanızda hangi sürenin işlediğini, dayanak maddeyi okuyarak belirlemek gerekir.',
+      ],
+    },
+  ],
+  steps: [
+    'Alacağın hukuki niteliğini belirleyin: dönemsel edim mi, tek seferlik bir borç mu, iş alacağı mı.',
+    'Özel bir hüküm olup olmadığına bakın; yoksa TBK m.146 uyarınca on yıl geçerlidir.',
+    'Alacağın muaccel olduğu tarihi tespit edin — süre kural olarak o tarihten işler.',
+    'Süreyi kesen veya durduran bir işlem olup olmadığını kontrol edin; dava açılması ve icra takibi tipik kesme sebepleridir.',
+    'Uğraştığınız sürenin zamanaşımı mı hak düşürücü süre mi olduğunu ayırt edin.',
+    'Süre dolmak üzereyse beklemeyin; dava veya takip başlatmak süreyi keser.',
+  ],
+  checklist: [
+    'Sözleşme veya alacağın dayanağı belge',
+    'Vade ve muacceliyet tarihini gösteren kayıt',
+    'Ödeme dekontları ve kısmî ödemeler',
+    'Daha önce açılmış dava veya icra dosyası bilgileri',
+    'İhtarname ve yazışmalar',
+  ],
+  faq: [
+    {
+      q: 'Alacaklarda zamanaşımı kaç yıl?',
+      a: 'Kural on yıldır. TBK m.146, kanunda aksine hüküm bulunmadıkça her alacağın on yıllık zamanaşımına tabi olduğunu söyler.',
+    },
+    {
+      q: 'Kira alacağında zamanaşımı ne kadar?',
+      a: 'Beş yıl. TBK m.147 kira bedellerini, anapara faizlerini ve ücret gibi dönemsel edimleri beş yıllık zamanaşımına tabi tutar.',
+    },
+    {
+      q: 'İşçi alacaklarında süre kaç yıl?',
+      a: 'Beş yıl. 4857 sayılı Kanuna eklenen Ek Madde 3, kıdem ve ihbar tazminatı ile yıllık izin ücreti gibi alacaklarda zamanaşımını beş yıl olarak belirler.',
+    },
+    {
+      q: 'Zamanaşımı dolmuş borcu hâkim kendiliğinden dikkate alır mı?',
+      a: 'Hayır. Zamanaşımı bir defidir; borçlu ileri sürmezse hâkim resen gözetmez ve alacağa hükmedilebilir.',
+    },
+    {
+      q: 'Zamanaşımı ile hak düşürücü süre aynı şey mi?',
+      a: 'Değildir. Zamanaşımı borcu sona erdirmez, ödemekten kaçınma imkânı verir; hak düşürücü süre ise hakkın kendisini ortadan kaldırır ve hâkim resen dikkate alır.',
+    },
+    {
+      q: 'Süreyi ne keser?',
+      a: 'Dava açılması ve icra takibi başlatılması tipik kesme sebepleridir. Kesilme hâlinde süre yeniden işlemeye başlar.',
+    },
+    {
+      q: 'Vekâlet ücretinde zamanaşımı kaç yıl?',
+      a: 'Beş yıl. TBK m.147 vekâlet, komisyon ve acentalık sözleşmelerinden doğan alacakları beş yıla tabi tutar.',
+    },
+  ],
+  updated: '2026-08-16',
+  sitemapPriority: 0.93,
+};

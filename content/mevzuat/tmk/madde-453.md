@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**5. Meslek v eya sa nat**
+**5. Meslek veya sanat**
 
 ---
 
-Madde 453 - Vesayet altındaki kişiye vesayet makamı tarafından bir meslek veya sanatın yürütülmesi iç in izin verilmiş ise, o kişi bununla ilgili her türlü olağan işlemleri yapmaya ye tkilidir ve bu tür işlemler den dolayı bütün malvarlığı ile soruml udur.
+Madde 453- Vesayet altındaki kişiye vesayet makamı tarafından bir meslek veya sanatın
+yürütülmesi için izin verilmiş ise, o kişi bununla ilgili her türlü olağan işlemleri yapmaya
+yetkilidir ve bu tür işlemlerden dolayı bütün malvarlığı ile sorumludur.
 
 ---
 

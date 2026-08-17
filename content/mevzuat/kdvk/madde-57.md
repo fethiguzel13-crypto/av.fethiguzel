@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Verginin etikette gösterilme mecburiyeti**
+**Verginin etikette gösterilme mecburiyeti:**
 
 ---
 
@@ -16,6 +16,8 @@ Vergisinin satış fiyatına dahil olup olmadığı açıkca belirtilir. Vergi s
 bunun miktarı ayrıca gösterilir.
 2. Katma Değer Vergisinin fatura ve benzeri vesikalarda ayrıca gösterilmesine gerek
 görülmeyen işlemlerde yukardaki hüküm uygulanmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

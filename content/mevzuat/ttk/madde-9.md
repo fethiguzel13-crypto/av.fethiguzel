@@ -11,7 +11,8 @@ wordCount: 4283
 
 ---
 
-Madde 9 - (1) Ticari işlerde; kanuni, anapara ile temerrüt faizi hakkında, ilgili mevzuat hükümleri uygulanır.
+MADDE 9- (1) Ticari işlerde; kanuni, anapara ile temerrüt faizi hakkında, ilgili
+mevzuat hükümleri uygulanır.
 
 ---
 

@@ -7,12 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**Kanunu icraya memur olanlar**
+**Kanunu icraya memur olanlar:**
 
 ---
 
 Madde 370 – Bu kanunun hükümlerini icraya İcra Vekilleri Heyeti memurdur.
-
 9/6/1932 TARİHLİ VE 2004 SAYILI İCRA VE İFLAS KANUNUNA
 İŞLENEMEYEN HÜKÜMLER
 1 – 18/2/1965 tarihli ve 538 sayılı Kanunun geçici maddeleri:
@@ -42,8 +41,7 @@ b) 68 ve 68 a maddelerinde değişiklik yapan hükümleri, Kanunun yürürlüğ�
 yapılacak itirazlar hakkında,
 c) 78 inci maddesinde değişiklik yapan hükmü, Kanunun yürürlüğünden sonra
 yapılacak taksit sözleşmeleri hakkında,
-
-d) 79 uncu maddesinde değişiklik yapan hükmü, Kanunun yürürlüğünden sonra
+d) 79 uncu maddesinde değişiklik yapan hükmü, Kanunun yürürlüğünden sonra
 yapılacak şikayetler hakkında,
 e) 116, 129 ve 133 üncü maddelerinde değişiklik yapan hükümleri, Kanunun
 yürürlüğünden sonra vuku bulacak satış, talepleri üzerine yapılacak satışlar hakkında,
@@ -81,8 +79,7 @@ f) 221 inci maddesini değiştiren hükmü, Kanunun yürürlüğünden sonra yap
 alacaklılar toplantısında,
 g) 287 nci maddesini değiştiren hükmü, Kanunun yürürlüğünden sonra yapılan
 konkordato talepleri hakkında,
-
-h) 227, 288 ve 363 üncü maddelerini değiştiren hükümleri, Kanunun yürürlük
+h) 227, 288 ve 363 üncü maddelerini değiştiren hükümleri, Kanunun yürürlük
 tarihinden sonra verilen kararlara karşı yapılan temyiz talepleri hakkında,
 i) 111 inci maddesini değiştiren hükmü, Kanunun yürürlüğünden önce yapılan taksit
 sözleşmeleri hakkında,
@@ -102,7 +99,8 @@ Uygulanır.
 4 – 8/6/2000 tarihli ve 4578 sayılı Kanunun geçici maddesi:
 Geçici Madde 1 – 2004 sayılı Kanunun bu Kanunla değiştirilen hükmü, Kanunun
 yürürlüğe girmesinden sonra açılacak dava ve işlerde uygulanır.
-5 – 17/7/2003 tarihli ve 4949 sayılı Kanunun 104 üncü maddesi:
+
+---
 
 ### Akademik Yorum ve Analiz
 

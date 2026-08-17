@@ -7,13 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-*(Önemli Not: İncelenen metinlerde Madde 694'ün lafzi tam metni yer almadığından, işbu kanun lafzı hukuki genel kültür tahtında dış kaynaktan eklenmiştir; bağımsız kaynaklardan teyit edilebilir. Ancak izleyen tüm hukuki analiz, şerh ve doktriner değerlendirmeler sunulan kaynaklara harfiyen dayanmaktadır.)*
-
-**MADDE 694**- (1) Görüldükten belirli bir süre sonra ödenmesi şart olan poliçelerin, düzenlenme gününden itibaren bir yıl içinde kabule arz edilmesi zorunludur.
-(2) Düzenleyen bu süreyi kısaltabileceği gibi, daha uzun bir süre de belirleyebilir.
-(3) Cirantalar bu süreleri kısaltabilirler.
+**IV - Bir daha kabule arz**
 
 ---
+
+MADDE 694- (1) Muhatap, poliçenin, kendisine arz edildiği günü izleyen günde bir
+daha ibrazını isteyebilir. İlgililer, bu istemin yerine getirilmediğini, ancak bu istem protestoya
+yazılmışsa ileri sürebilirler.
+(2) Hamil, kabule arz edilen poliçeyi muhataba bırakmak zorunda değildir.
 
 ---
 

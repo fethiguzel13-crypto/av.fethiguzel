@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4321
 ---
 
-**Yeniden alacaklılar toplanması**
+**Yeniden alacaklılar toplanması:**
 
 ---
 
@@ -16,11 +16,9 @@ Alacaklıların ekseriyeti ister yahut iflas idaresi lüzumuna kani olursa yenid
 alacaklılar toplanması için davet yapılabilir. Yeniden alacaklılar toplantısının gündemindeki
 konular hakkında alacaklıların oyu, kendilerinin bilinen adreslerine taahhütlü bir mektupla
 yazılacak davet üzerine ve imzası noterlikçe tasdikli cevap yazısı ile elde edilebilir.
-Bu madde başlığı “Toplanma mümkün olmazsa:” iken, 17/7/2003 tarihli ve 4949 sayılı Kanunun 56 ncı
-maddesiyle metne işlendiği şekilde değiştirilmiştir.
-76
+Nisap hakkında 221 inci madde hükümleri uygulanır.
 
-Nisap hakkında 221 inci madde hükümleri uygulanır.
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -17,6 +17,8 @@ durumunu kötüye kullanırsa, bundan zarar görenlerin her türlü zararını t
 Zararın oluşması birden fazla kişinin davranışları sonucu ortaya çıkmış ise bunlar zarardan
 müteselsilen sorumludur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

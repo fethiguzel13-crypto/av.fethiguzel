@@ -7,23 +7,16 @@ lastReviewed: "2026-07-27"
 wordCount: 3641
 ---
 
-**Alacağın devri hâlinde borçlu, kendisine bildirilmiş olmadıkça kupona**
+**6. Alacağın devrinden sonra ödeme**
 
 ---
 
-Madde 917 - Alacağın devri hâlinde borçlu, kendisine bildirilmiş olmadıkça kupona
-bağlı olmayan faiz ve yıllık edimleri, senet hamile yazılı olsa bile, eski
-alacaklıya ödeyebilir.
+Madde 917- Alacağın devri hâlinde borçlu, kendisine bildirilmiş olmadıkça kupona bağlı
+olmayan faiz ve yıllık edimleri, senet hamile yazılı olsa bile, eski alacaklıya ödeyebilir.
+Ana paranın tamamen veya kısmen ödenmesi, ancak ödeme zamanında kendisinin
+alacaklı olduğunu ispat eden kimseye yapılmış ise geçerlidir.
 
-Ana
-paranın tamamen veya kısmen ödenmesi, ancak ödeme zamanında kendisinin alacaklı
-olduğunu ispat eden kimseye yapılmış ise geçerlidir.
-
-II.
-Sona erme
-
-1.Alacaklının
-olmaması
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**5 – Askerlik halinde**
+**5 – Askerlik halinde:**
 
 ---
 
@@ -18,7 +18,7 @@ için kendisine münasip bir mühlet verir ve takibi bu sürenin bitmesine bıra
 içinde temsilci tayin edip icra dairesine bildirmiyenler hakkında takibe devam olunur.
 Mal kaçırılması ihtimali olan hallerde bu mühlet içinde de haciz yapılabilir.
 
-6 – Borçlunun ağır hastalığı halinde:
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,8 @@ wordCount: 4283
 
 ---
 
-Madde 108 - Vakfedenin mirasçıları ile alacaklılarının, ba ğışlamaya ve ölüme bağlı tasarruflara ilişkin h ükümler uyarınca dava hakları saklıdır.
+Madde 108- Vakfedenin mirasçıları ile alacaklılarının, bağışlamaya ve ölüme bağlı
+tasarruflara ilişkin hükümler uyarınca dava hakları saklıdır.
 
 ---
 

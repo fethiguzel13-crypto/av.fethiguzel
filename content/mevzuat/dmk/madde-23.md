@@ -14,6 +14,8 @@ wordCount: 4271
 Madde 23 – Devlet memurları, bu kanunda gösterilen süre ve şartlarla izin hakkına
 sahiptirler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

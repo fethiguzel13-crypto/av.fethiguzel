@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4278
 ---
 
-**Takdir kararlarının tevdii**
+**Takdir kararlarının tevdii:**
 
 ---
 
 Madde 32 – Takdir kararları komisyonca imza karşılığında vergi dairesine tevdi
 olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,7 @@ wordCount: 4315
 
 ---
 
-Madde 472 - Malzeme yüklenici tarafından sağlanmışsa yüklenici, bu malzemenin
+MADDE 472- Malzeme yüklenici tarafından sağlanmışsa yüklenici, bu malzemenin
 ayıplı olması yüzünden işsahibine karşı, satıcı gibi sorumludur.
 Malzeme işsahibi tarafından sağlanmışsa yüklenici, onları gereken özeni göstererek
 kullanmakla ve bundan dolayı hesap ve artanı geri vermekle yükümlüdür.

@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**III
-- Düzenleyenin sorumluluğu**
+**III - Düzenleyenin sorumluluğu**
 
 ---
 
-Madde 679 - (1) Düzenleyen, poliçenin kabul edilmemesinden ve ödenmemesinden sorumludur. Düzenleyen, kabul edilmeme hâlinde sorumlu ol mayacağını şart edebilirse de ödenmemeden sorumlu olmayacağına ilişkin kayıtlar yazılmamış sayılır.
+MADDE 679- (1) Düzenleyen, poliçenin kabul edilmemesinden ve ödenmemesinden
+sorumludur. Düzenleyen, kabul edilmeme hâlinde sorumlu olmayacağını şart edebilirse de
+ödenmemeden sorumlu olmayacağına ilişkin kayıtlar yazılmamış sayılır.
 
 ---
 

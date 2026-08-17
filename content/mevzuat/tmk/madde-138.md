@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**V. Redde itiraz ve yarg ılama usul ü**
+**V. Redde itiraz ve yargılama usulü**
 
 ---
 
-Madde 138 - Evleneceklerden her biri evlendirme memurunun ret kararına karşı mahkemeye başvurabilir. İtiraz, evrak üzerinde incelenip kesin karara bağ lanır. Ancak, mutlak butlan sebeplerinden birinin bulunduğuna ilişkin ret kararlarına karşı açı lan d avalar, basit yargılama usulüyle (…) 14 görülür.
+Madde 138- Evleneceklerden her biri evlendirme memurunun ret kararına karşı
+mahkemeye başvurabilir. İtiraz, evrak üzerinde incelenip kesin karara bağlanır.
+Ancak, mutlak butlan sebeplerinden birinin bulunduğuna ilişkin ret kararlarına karşı
+açılan davalar, basit yargılama usulüyle (…)görülür.
 
 ---
 

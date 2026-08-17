@@ -7,16 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**Devlet memurları için konut**
+**Devlet memurları için konut:**
 
 ---
 
 Madde 193 – (Değişik: 31/7/1970 - 1327/69 md.)
-
-Devlet memurlarının lüzum ve zaruret görülen yerlerle kiralık konut ihtiyaçları,
+Devlet memurlarının lüzum ve zaruret görülen yerlerle kiralık konut ihtiyaçları,
 Cumhurbaşkanınca onanacak programlar gereğince, genel ve katma bütçelere her yıl
-konulacak ödeneklerle tesis edilecek fondan karşılanır.274
+konulacak ödeneklerle tesis edilecek fondan karşılanır.
 Bu madde hükmü özel kanunlarla düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

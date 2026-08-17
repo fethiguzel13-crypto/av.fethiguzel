@@ -19,7 +19,9 @@ borçlarının durumunu açıklayan faaliyet raporunu hazırlar. Faaliyet raporu
 ve işletmeler ile belediye ortaklıklarına ilişkin söz konusu bilgi ve değerlendirmelere de yer
 verilir.
 Faaliyet raporu nisan ayı toplantısında belediye başkanı tarafından meclise sunulur.
-Raporun bir örneği Çevre ve Şehircilik Bakanlığına gönderilir ve kamuoyuna da açıklanır.34
+Raporun bir örneği Çevre ve Şehircilik Bakanlığına gönderilir ve kamuoyuna da açıklanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

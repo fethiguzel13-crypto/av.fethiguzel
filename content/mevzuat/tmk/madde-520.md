@@ -11,8 +11,10 @@ wordCount: 4313
 
 ---
 
-Madde 520 - Mirasbırakan, atadığı mirasçının kendisinden önce ölmesi veya mirası reddetmesi hâlinde onun yerine geçmek üzere bir veya bir den çok kişiyi yed ek mirasçı olarak
-atayabili r. Bu kural belirli mal bırakmada da u ygulan ır.
+Madde 520- Mirasbırakan, atadığı mirasçının kendisinden önce ölmesi veya mirası
+reddetmesi hâlinde onun yerine geçmek üzere bir veya birden çok kişiyi yedek mirasçı olarak
+atayabilir.
+Bu kural belirli mal bırakmada da uygulanır.
 
 ---
 

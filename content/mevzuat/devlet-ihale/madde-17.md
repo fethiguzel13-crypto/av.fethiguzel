@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**İhalenin ilanı:7**
+**İhalenin ilanı:**
 
 ---
 
@@ -22,10 +22,7 @@ b) (Değişik: 13/10/2022-7418/26 md.) Gazete çıkmayan veya internet haber sit
 yönetimi bulunmayan yerlerdeki ihalelerin ilanı, bu fıkranın (a) bendinde yer alan süreler
 içinde Basın İlân Kurumu İlan Portalında yayınlanır.
 2. Diğer şehirlerde yapılacak ilanlar:
-6 2/7/2018 tarihli ve 700 sayılı KHK’nin 81 inci maddesiyle, bu fıkrada yer alan “ilgili bakanlıkların görüşü alınarak Bayındırlık Bakanlığınca hazırlanacak tüzükte” ibaresi “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir. 7 13/10/2022 tarihli ve 7418 sayılı Kanunun 26 ncı maddesiyle, bu maddenin birinci fıkrasının (1) numaralı bendinin (a) alt bendinin ikinci paragrafına “Gazete” ibaresinden sonra gelmek üzere “ve internet haber sitesi” ibaresi eklenmiş ve aynı fıkranın (2) numaralı bendine “başka,” ibaresinden sonra gelmek üzere “bir internet haber sitesi ve” ibaresi eklenmiş, aynı bentte yer alan “bir” ibaresi “birer” şeklinde değiştirilmiştir.
-
-
-Tahmin edilen bedeli her yıl Genel Bütçe Kanunu ile belirlenecek miktarı aşan ihale
+Tahmin edilen bedeli her yıl Genel Bütçe Kanunu ile belirlenecek miktarı aşan ihale
 konusu işler (1) numaralı fıkraya göre yapılacak ilanlardan başka, bir internet haber sitesi ve
 trajı göz önüne alınarak ili Basın-İlan Kurumunca tespit olunacak günlük gazetelerden
 birinde, ihale tarihinden an az 10 gün önce birer defa daha ilan edilir.
@@ -33,8 +30,10 @@ birinde, ihale tarihinden an az 10 gün önce birer defa daha ilan edilir.
 Tahmin edilen bedeli (2) numaralı fıkra uyarınca belirlenecek miktarın üç katını aşan
 ihale konusu işler, ihale tarihinden en az 10 gün önce bir defa da Resmi Gazete'de ilan edilir.
 4. İdareler, işin önem ve özelliğine göre bu ilanları yurt içinde ve yurt dışında çıkan başka
-gazeteler veya internet haber siteleri ya da öteki yayın araçları ile de ayrıca yayınlatabilirler.8
+gazeteler veya internet haber siteleri ya da öteki yayın araçları ile de ayrıca yayınlatabilirler.
 5. Pazarlık usulü ile yapılacak ihaleler için idareler, ilan yapıp yapmamakta serbesttirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

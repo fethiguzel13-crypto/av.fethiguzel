@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4319
 ---
 
-**VI
-- Bağlı şirketler hakkında bilgi alma**
+**VI - Bağlı şirketler hakkında bilgi alma**
 
 ---
 
-Madde 200 - (1) Hâkim şirketin her pay sahibi genel kurulda, bağlı şirke tlerin finansal ve malvarlığıyla ilgili durumları ile hesap sonuçları, hâkim şirketin bağlı şirketlerle, bağlı şirketlerin birbirleriyle, hâkim ve bağlı şirketlerin pay sahipleri, yöneticileri ve bunların yakınlarıyla ilişkileri, yaptıkları işlemler ve bun ların sonuçları hakkında, özenli, gerçeği aynen ve dürüstçe yansıtan hesap verme ilkelerine uygun, doyurucu bilgi verilmesini isteyebilir.
+MADDE 200- (1) Hâkim şirketin her pay sahibi genel kurulda, bağlı şirketlerin
+finansal ve malvarlığıyla ilgili durumları ile hesap sonuçları, hâkim şirketin bağlı şirketlerle,
+bağlı şirketlerin birbirleriyle, hâkim ve bağlı şirketlerin pay sahipleri, yöneticileri ve bunların
+yakınlarıyla ilişkileri, yaptıkları işlemler ve bunların sonuçları hakkında, özenli, gerçeği aynen
+ve dürüstçe yansıtan hesap verme ilkelerine uygun, doyurucu bilgi verilmesini isteyebilir.
 
 ---
 

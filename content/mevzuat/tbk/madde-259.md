@@ -12,7 +12,7 @@ a. Satıcının seçimlik hakkı**
 
 ---
 
-Madde 259 - Alıcı peşinatı ödemede temerrüde düşerse satıcı, sadece peşinatı
+MADDE 259- Alıcı peşinatı ödemede temerrüde düşerse satıcı, sadece peşinatı
 isteyebilir veya sözleşmeden dönebilir.
 Alıcı taksitleri ödemede temerrüde düşerse satıcı, muaccel olmuş taksitlerin veya geri
 kalan satış bedelinin tamamının bir defada ödenmesini isteyebilir ya da sözleşmeden

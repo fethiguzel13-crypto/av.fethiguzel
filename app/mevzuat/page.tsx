@@ -74,7 +74,7 @@ export default async function MevzuatPage() {
             </Link>
           </div>
           {/* Google exact-match crawl paths: TBK 13, TBK 1, … */}
-          <section className="max-w-4xl mx-auto mb-12 text-left rounded-2xl border border-charcoal/8 bg-white/70 p-5 sm:p-6">
+          <section className="max-w-4xl mx-auto mb-12 text-left rounded-2xl border border-charcoal/[0.08] bg-white/70 p-5 sm:p-6">
             <h2 className="text-sm font-bold uppercase tracking-widest text-accent mb-3">
               Sık aranan kanun maddeleri
             </h2>

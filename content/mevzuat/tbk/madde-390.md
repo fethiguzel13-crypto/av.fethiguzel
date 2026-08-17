@@ -11,7 +11,7 @@ wordCount: 4297
 
 ---
 
-Madde 390 - Ödünç alan, ödünç sözleşmesinin kurulmasından sonra ödeme
+MADDE 390- Ödünç alan, ödünç sözleşmesinin kurulmasından sonra ödeme
 güçsüzlüğüne düşerse ödünç veren, ödünç konusunun tesliminden kaçınabilir.
 Ödünç veren, ödünç alanın sözleşmenin kurulmasından önce ödeme güçsüzlüğüne
 düşmüş olduğunu daha sonra öğrenmişse, aynı hakka sahiptir.

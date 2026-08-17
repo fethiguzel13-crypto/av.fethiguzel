@@ -7,15 +7,16 @@ lastReviewed: "2026-07-27"
 wordCount: 3625
 ---
 
-**İlânda belirtilen sürenin dolmasıyla defterin tutulması sona erer ve defter, bu**
+**IV. Defter tutmanın sona ermesi**
 
 ---
 
-Madde 623 - İlânda belirtilen sürenin dolmasıyla defterin tutulması sona erer ve defter, bu
+Madde 623- İlânda belirtilen sürenin dolmasıyla defterin tutulması sona erer ve defter, bu
 tarihten başlayarak tanınacak en az bir aylık süre içinde ilgililerce incelenebilir.
 Defter tutma giderleri terekeden ödenir. Giderler terekeden karşılanamazsa defter tutulmasını
 istemiş olan mirasçılardan alınır.
-C. Defter tutma sırasında mirasçıların durumu
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Sürücü adaylarında aranacak şartlar**
+**Sürücü adaylarında aranacak şartlar:**
 
 ---
 
-Madde 41 – (Değişik: 12/7/2013-6495/17 md.)37
+Madde 41 – (Değişik: 12/7/2013-6495/17 md.)
 Sürücü belgesi alacakların;
 a) Yönetmelikte belirlenen yaş ve deneyim şartlarını taşımaları,
 b) Öğrenim durumu itibarıyla en az ilkokul düzeyinde eğitim almış olmaları,
@@ -41,6 +41,8 @@ Sürücü belgesi alındıktan sonra bu maddenin birinci fıkrasının (e) bendi
 suçlardan biri ile mahkûmiyet hâlinde bu kişilerin sürücü belgeleri, bu Kanunun 6 ncı
 maddesinde sayılan görevliler tarafından bu maddenin birinci fıkrasının (e) bendinde
 belirtilen şartlar sağlanıncaya kadar geri alınır. Bu Kanunun 48 inci madde hükümleri saklıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

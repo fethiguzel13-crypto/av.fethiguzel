@@ -22,6 +22,8 @@ tamamen Devlet Hazinesine yüklenmesine karar verir.
 (4) Hüküm kesinleşmeden sanık ölürse, mirasçılar giderleri ödemekle yükümlü
 tutulmazlar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

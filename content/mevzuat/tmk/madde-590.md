@@ -11,7 +11,13 @@ wordCount: 4265
 
 ---
 
-Madde 590 - Aşağıdaki sebeplerden birinin gerçekleşmesi hâlinde sulh hâ kimi terekenin defterinin tutulmasına karar verir: 1. Mirasçılar arasında vesayet altına a lınmış olan veya alınması g ereken kimse varsa, 2. Mirasçılardan biri uzun süreden beri bulunamıyorsa ve temsilcisi de yoksa, 3. Mirasçılardan veya ilgililerden biri, ölüm tarihinden başlayarak bir ay içinde istemde bulunursa, Defter tutma işlemi gecikmeksi zin tamamlanır.
+Madde 590- Aşağıdaki sebeplerden birinin gerçekleşmesi hâlinde sulh hâkimi terekenin
+defterinin tutulmasına karar verir:
+1. Mirasçılar arasında vesayet altına alınmış olan veya alınması gereken kimse varsa,
+2. Mirasçılardan biri uzun süreden beri bulunamıyorsa ve temsilcisi de yoksa,
+3. Mirasçılardan veya ilgililerden biri, ölüm tarihinden başlayarak bir ay içinde istemde
+bulunursa,
+Defter tutma işlemi gecikmeksizin tamamlanır.
 
 ---
 

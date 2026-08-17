@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**İdarî Para Cezası34**
+**ÜÇÜNCÜ BÖLÜM
+İdari Para Cezaları
+İdarî Para Cezası**
 
 ---
 
@@ -45,15 +47,7 @@ sayılı Kabahatler Kanununun 17 nci maddesinin ikinci fıkrası bağlamında, i
 süresi, teşebbüs veya teşebbüs birliklerinin piyasadaki gücü, ihlalin gerçekleşmesindeki
 belirleyici etkisi, verilen taahhütlere uyup uymaması, incelemeye yardımcı olup olmaması,
 gerçekleşen veya gerçekleşmesi muhtemel zararın ağırlığı gibi hususları dikkate alır.
-23/1/2008 tarihli ve 5728 sayılı Kanunun 472 nci maddesiyle bu madde başlığı “Para Cezaları” iken, metne
-işlendiği şekilde değiştirilmiştir.
-4
-Bu maddenin birinci fıkrasında yer alan idari para cezasının alt sınırının 1/1/2026 tarihinden 31/12/2026
-tarihine kadar uygulanması ile ilgili olarak, 12/12/2025 tarihli ve 33105 sayılı Resmî Gazete’de yayımlanan
-Rekabet Kurumunun 2026/1 numaralı Tebliğine bakınız.
-3
-
-Kanuna aykırılığın ortaya çıkarılması amacıyla Kurumla aktif işbirliği yapan teşebbüs
+Kanuna aykırılığın ortaya çıkarılması amacıyla Kurumla aktif işbirliği yapan teşebbüs
 ya da teşebbüs birlikleri veya bunların yöneticileri ve çalışanlarına, işbirliğinin niteliği, etkinliği
 ve zamanlaması dikkate alınarak ve gerekçesi açık bir şekilde gösterilmek suretiyle üçüncü ve
 dördüncü fıkralarda belirtilen cezalar verilmeyebilir veya bu fıkralara göre verilecek cezalarda
@@ -61,6 +55,8 @@ indirim yapılabilir.
 Bu maddeye göre verilecek idarî para cezalarının tespitinde dikkate alınan hususlar,
 işbirliği halinde para cezasından bağışıklık veya indirim şartları, işbirliğine ilişkin usul ve
 esaslar Kurulca çıkarılacak yönetmeliklerle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

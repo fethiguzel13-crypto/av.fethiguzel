@@ -20,6 +20,8 @@ kuruluşa bildirim tarihinden itibaren bir ay sonra geçerlilik kazanır.
 (4) Üye olma, üyelikten çekilme ve çıkarılma kararları, üst kuruluş tarafından bir ay
 içerisinde Bakanlığa bildirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

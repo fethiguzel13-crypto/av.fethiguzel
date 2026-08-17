@@ -11,7 +11,10 @@ wordCount: 4304
 
 ---
 
-Madde 762 - (1) Poliçenin getirilmesine ilişkin ilan, 35 inci maddede yazılı gazete ile üç defa yapılı r. (2) Özellik gösteren olaylarda, mahkeme, uygun göreceği daha başka ilan önlemlerine de başvurabilir.
+MADDE 762- (1) Poliçenin getirilmesine ilişkin ilan, 35 inci maddede yazılı gazete
+ile üç defa yapılır.
+(2) Özellik gösteren olaylarda, mahkeme, uygun göreceği daha başka ilan önlemlerine
+de başvurabilir.
 
 ---
 

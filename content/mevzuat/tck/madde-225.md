@@ -7,12 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**Hayasızca hareketler**
+**YEDİNCİ BÖLÜM
+Genel Ahlaka Karşı Suçlar
+Hayasızca hareketler**
 
 ---
 
 Madde 225- (1) Alenen cinsel ilişkide bulunan veya teşhircilik yapan kişi, altı aydan
 bir yıla kadar hapis cezası ile cezalandırılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

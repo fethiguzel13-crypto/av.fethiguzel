@@ -12,7 +12,9 @@ wordCount: 4315
 
 ---
 
-Madde 612 - En yakın yasal mirasçıların tamamı tarafından reddolunan miras, sulh mahkemesince iflâs hü kümlerine göre tasfiye edilir. Tasfiye sonunda arta kalan değerler, mirası reddetmemişler gibi hak sahiplerine verili r.
+Madde 612- En yakın yasal mirasçıların tamamı tarafından reddolunan miras, sulh
+mahkemesince iflâs hükümlerine göre tasfiye edilir.
+Tasfiye sonunda arta kalan değerler, mirası reddetmemişler gibi hak sahiplerine verilir.
 
 ---
 

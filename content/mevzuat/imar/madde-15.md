@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**İfraz ve tevhid**
+**ÜÇÜNCÜ BÖLÜM
+Arazi ve Arsa Düzenleme Esasları
+İfraz ve tevhid:**
 
 ---
 
@@ -33,6 +35,8 @@ idare yetkilidir.
 cephe genişlikleri ve büyüklükleri yönetmelikte belirtilen esaslara göre tespit edilir.
 İmar planı dışında kalan alanlarda yönetmeliklerinde tayin edilecek miktarlardan
 küçük ifrazlara izin verilmez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

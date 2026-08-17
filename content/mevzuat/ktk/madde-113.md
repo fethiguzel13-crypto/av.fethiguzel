@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Duruşmasız olarak bakılacak davalar**
+**Duruşmasız olarak bakılacak davalar:**
 
 ---
 
 Madde 113 – (Mülga: 3/11/1988 – 3493/53 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

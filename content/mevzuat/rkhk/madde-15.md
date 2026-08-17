@@ -27,6 +27,8 @@ vasıtaların suretlerini vermekle yükümlüdür. Yerinde incelemenin engellenm
 engellenme olasılığının bulunması durumunda sulh ceza hakimi kararı ile yerinde inceleme
 yapılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

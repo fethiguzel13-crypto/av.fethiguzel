@@ -11,7 +11,7 @@ wordCount: 4317
 
 ---
 
-Madde 451 - Pazarlamacının, müşterilerin ödememelerinden veya diğer
+MADDE 451- Pazarlamacının, müşterilerin ödememelerinden veya diğer
 yükümlülüklerini ifa etmemelerinden sorumlu olacağına ya da alacağın tahsili için yapılacak
 masrafları tamamen veya kısmen karşılayacağına ilişkin anlaşmalar, kesin olarak hükümsüzdür.
 Pazarlamacı, kendi müşteri çevresiyle işlem yapıyorsa, müşterilerin borçlarını ifa

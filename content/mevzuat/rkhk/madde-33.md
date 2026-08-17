@@ -13,6 +13,8 @@ wordCount: 4300
 
 Madde 33 – Kurumun hesapları Sayıştayın denetimine tabidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

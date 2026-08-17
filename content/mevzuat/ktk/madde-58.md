@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
-**İndirme ve bindirme kuralları**
+**İndirme ve bindirme kuralları:**
 
 ---
 
@@ -16,6 +16,8 @@ yolun en sağ kenarında durdurmaya, yolcularının iniş ve binişlerini sağ t
 yolcular da iniş ve binişlerini sağ taraftan yapmaya zorunludurlar.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükmüne uymayan sürücüler ve yolcular
 1 800 000 lira para cezası ile cezalandırılırlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

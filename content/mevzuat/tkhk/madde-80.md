@@ -21,6 +21,8 @@ gerçekçi olmayan veya gerçekleşmesi çok güç olan kazanç beklentisi siste
 elektronik sistemin ülkemizde durdurulması dâhil ilgili kamu kurum veya kuruluşlarıyla iş
 birliği içinde gerekli önlemleri almaya yetkilidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

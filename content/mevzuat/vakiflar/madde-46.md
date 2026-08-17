@@ -17,7 +17,8 @@ dolaylı olarak taahhüde giremez, komisyonculuk ve temsilcilik yapamaz.
 Meclis üyeleri görevleri süresince edindikleri gizli bilgi ve belgeleri kanunen yetkili
 kılınan mercilerden başkasına açıklayamaz, kendilerinin veya üçüncü şahısların lehine veya
 aleyhine kullanamazlar. Bu yükümlülük görevden ayrılmalarından sonra da devam eder.
-(Mülga üçüncü fıkra: 2/7/2018/KHK/703/102 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

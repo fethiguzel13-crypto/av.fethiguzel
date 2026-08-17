@@ -27,9 +27,7 @@ yönetim veya kontrolünü elinde bulundurmuş olan gerçek kişi ortaklarının
 hizmet sağlayıcının ya da müşterilerinin kaynaklarını, her ne suretle olursa olsun kripto varlık
 Bu bentte yer alan “…gibi...” ibaresi, Anayasa Mahkemesi’nin 14/11/2013 tarihli ve E.: 2013/24,
 K.: 2013/133 sayılı Kararı ile iptal edilmiştir.
-16
-
-hizmet sağlayıcının emin bir şekilde çalışmasını tehlikeye düşürecek şekilde doğrudan veya
+hizmet sağlayıcının emin bir şekilde çalışmasını tehlikeye düşürecek şekilde doğrudan veya
 dolaylı olarak kendilerinin veya başkalarının menfaatlerine kullandırmak suretiyle, kripto
 varlık hizmet sağlayıcıyı veya müşterilerini zarara uğratmaları zimmet olarak kabul edilir. Bu
 fiilleri işleyenler hakkında on iki yıldan yirmi iki yıla kadar hapis ve yirmi bin güne kadar adli
@@ -49,7 +47,8 @@ senetlerin veya diğer malların veya kripto varlıkların suçun işlendiği ta
 nedeniyle verilecek ceza üçte birden yarıya kadar indirilir.
 (7) Bu maddenin uygulanmasında kontrol, 5411 sayılı Kanunun 3 üncü maddesinde
 tanımlanan kontrolü ifade eder.
-Kripto varlıklara ilişkin şahsi sorumluluk
+
+---
 
 ### Akademik Yorum ve Analiz
 

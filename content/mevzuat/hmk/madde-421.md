@@ -20,6 +20,8 @@ soyadları belirtilmiş ise hakemin, hakem kurulunun ya da kurulun karar çoğun
 kaldıracak sayıda hakemin görevinin herhangi bir sebeple sona ermesi hâlinde, tahkim de
 sona erer.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

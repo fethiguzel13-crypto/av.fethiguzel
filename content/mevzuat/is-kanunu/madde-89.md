@@ -11,7 +11,10 @@ wordCount: 4271
 
 ---
 
-Madde 89 – (Mülga: 20/6/2012-6331/37 md.)
+Madde 89 - (Mülga: 20/6/2012-6331/37 md.)
+ALTINCI BÖLÜM
+
+---
 
 ### Akademik Yorum ve Analiz
 

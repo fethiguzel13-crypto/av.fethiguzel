@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**Dava konusu:168**
+**Dava konusu:**
 
 ---
 
@@ -23,6 +23,8 @@ Danıştay ve Vergi Mahkemelerinde yapılacak duruşmalarda, iddia ve savunmanı
 gerekli kıldığı hallerde, mahkeme vergi davasına konu olan tarhiyatın dayanağı incelemeyi
 yapmış bulunan inceleme elemanları ile, mükellefin duruşmada hazır bulundurduğu mali
 müşaviri veya muhasebecisini de dinler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

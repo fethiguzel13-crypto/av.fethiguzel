@@ -11,7 +11,11 @@ wordCount: 4265
 
 ---
 
-Madde 953 - Borç yerine getirilmez ve yeterli güvence de gösterilmezse alacaklı, borçluya daha önce bildirimde bulu narak, hapsettiği şeylerin teslime bağlı rehin hükümleri uyarı nca paraya çevrilmesini isteyebilir. Üzerinde hapis hakkı bulunan nama yazılı kıymetli evr akın paraya çevrilmesi için icra dairesi, borçlu yerine gerekli işlemleri yapar. İKİNCİ AYIRIM ALACAKLA R VE DİĞER HAKLAR ÜZERİNDE REHİN A. Genel olarak
+Madde 953- Borç yerine getirilmez ve yeterli güvence de gösterilmezse alacaklı, borçluya
+daha önce bildirimde bulunarak, hapsettiği şeylerin teslime bağlı rehin hükümleri uyarınca paraya
+çevrilmesini isteyebilir.
+Üzerinde hapis hakkı bulunan nama yazılı kıymetli evrakın paraya çevrilmesi için icra
+dairesi, borçlu yerine gerekli işlemleri yapar.
 
 ---
 

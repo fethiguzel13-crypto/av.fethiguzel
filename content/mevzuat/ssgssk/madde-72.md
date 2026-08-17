@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**Sağlık hizmetlerinin ödenecek bedellerinin belirlenmesi**
+**DÖRDÜNCÜ BÖLÜM
+Malî ve Çeşitli Hükümler
+Sağlık hizmetlerinin ödenecek bedellerinin belirlenmesi**
 
 ---
 
@@ -47,6 +49,8 @@ sağlık kurum ve kuruluşlarından görevlendirilen tabip, diş tabibi ve eczac
 gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarı geçmemek
 üzere ödeme yapılır. Bu ödemenin usul, esas ve miktarı ile diğer hususlar Kurum ve Maliye
 Bakanlığınca müştereken belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4319
 ---
 
-**Akıl hastalarına özgü güvenlik tedbirleri16**
+**Akıl hastalarına özgü güvenlik tedbirleri**
 
 ---
 
@@ -16,12 +16,7 @@ amaçlı olarak güvenlik tedbirine hükmedilir. Hakkında güvenlik tedbirine h
 hastaları, yüksek güvenlikli sağlık kurumlarında koruma ve tedavi altına alınırlar.
 (2) Hakkında güvenlik tedbirine hükmedilmiş olan akıl hastası, yerleştirildiği kurumun
 sağlık kurulunca düzenlenen raporda toplum açısından tehlikeliliğinin ortadan kalktığının veya
-17/6/2021 tarihli ve 7328 sayılı Kanunun 4 üncü maddesiyle, ikinci ve yedinci fıkrada yer alan
-“mahkeme veya hakim” ibareleri “infaz hâkimi” şeklinde ve altıncı fıkrada yer alan “mahkeme”
-ibaresi “infaz hâkimi” şeklinde değiştirilmiş, maddenin beşinci fıkrasına “dayanılarak,” ibaresinden
-sonra gelmek üzere “infaz hâkimliğince” ibaresi eklenmiştir.
-
-önemli ölçüde azaldığının belirtilmesi üzerine infaz hâkimi kararıyla serbest bırakılabilir. (Ek
+önemli ölçüde azaldığının belirtilmesi üzerine infaz hâkimi kararıyla serbest bırakılabilir. (Ek
 cümle:24/12/2025-7571/15 md.) Ancak, hakkında 32 nci maddenin birinci fıkrası uyarınca
 güvenlik tedbirine hükmedilen akıl hastaları için kurumda geçirilecek süre, ağırlaştırılmış
 müebbet hapis ve müebbet hapis cezasını gerektiren suçlarda bir yıldan, üst sınırı on yıldan
@@ -42,6 +37,8 @@ kuruluşunda tedavi altına alınmasına karar verilir. Bu kişilerin tedavisi, 
 uyuşturucu veya uyarıcı madde bağımlılığından kurtulmalarına kadar devam eder. Bu kişiler,
 yerleştirildiği kurumun sağlık kurulunca bu yönde düzenlenecek rapor üzerine infaz hâkimi
 kararıyla serbest bırakılabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

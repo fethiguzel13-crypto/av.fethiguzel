@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4277
 ---
 
-**A – Alacaklının talebi**
+**IV. DOĞRUDAN DOĞRUYA İFLAS HALLERİ
+Evvelce takibe hacet kalmaksızın iflas:
+A – Alacaklının talebi:**
 
 ---
 
@@ -17,12 +19,14 @@ borçlunun iflasını isteyebilir.
 kaçar, alacaklıların haklarını ihlal elen hileli muamelelerde bulunur veya bunlara teşebbüs
 eder yahut haciz yoliyle yapılan takip sırasında mallarını saklarsa;
 2 – Borçlu ödemelerini tatil eylemiş bulunursa;
-3 – 308 inci maddedeki hal varsa;67
+3 – 308 inci maddedeki hal varsa;
 4 – İlama müstenit alacak icra emriyle istenildiği halde ödenmemişse Türkiye’de bir
 yerleşim yeri veya mümessili bulunan borçlu dinlenmek için kısa bir müddette mahkemeye
 çağırılır.
 (Ek: 9/11/1988-3494/36 md.) Bu Kanunun 178 inci maddesinin ikinci fikrası burada
 da uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**İcrai hacizlere iştirak**
+**İcrai hacizlere iştirak:**
 
 ---
 
@@ -20,6 +20,8 @@ ihtiyatî veya icrai haciz bulunması hâlinde âmme alacağı dahil hiçbir hac
 hacze iştirak edemez.
 İhtiyati haciz masrafları satış tutarından alınır.
 İhtiyati haciz diğer rüçhan hakkını vermez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

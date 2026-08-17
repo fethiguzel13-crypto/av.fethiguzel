@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**Madde 112**
+**(Mülga ikinci fıkra: 20/2/2008-5737/80 md.)
+F. Yönetimin, amacın ve malların değiştirilmesi
+I. Yönetimin değiştirilmesi**
 
 ---
 
-Madde 112 - Haklı sebepler varsa mahkeme, vakf ın yönetim organı veya denetim makamının istemi üzerine diğerinin yazılı görüşünü aldıktan sonra vakfın örgütünü, yönetimini ve işleyişini değiştirebilir. M ahkeme, denetim makamının başvurusu üzerine, (...) 13 duruşma yaparak yöneticileri görevden alabi lir v e vakıf senedinde başka bir hüküm yoksa yenisini seçebilir.
+Madde 112- Haklı sebepler varsa mahkeme, vakfın yönetim organı veya denetim makamının
+istemi üzerine diğerinin yazılı görüşünü aldıktan sonra vakfın örgütünü, yönetimini ve işleyişini
+değiştirebilir.
+Mahkeme, denetim makamının başvurusu üzerine, (...)duruşma yaparak yöneticileri
+görevden alabilir ve vakıf senedinde başka bir hüküm yoksa yenisini seçebilir.
 
 ---
 

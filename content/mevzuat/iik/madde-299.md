@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**Alacaklıları alacaklarını bildirmeye davet:104**
+**Alacaklıları alacaklarını bildirmeye davet:**
 
 ---
 
@@ -17,6 +17,8 @@ tarihinden itibaren onbeş gün içinde alacaklarını bildirmeye davet olunur. 
 sureti adresi belli olan alacaklılara posta ile gönderilir. İlânda, alacaklarını bildirmeyen
 alacaklıların bilançoda kayıtlı olmadıkça konkordato projesinin müzakerelerine kabul
 edilmeyecekleri ihtarı da yazılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

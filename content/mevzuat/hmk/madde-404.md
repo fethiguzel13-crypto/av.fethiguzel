@@ -14,6 +14,8 @@ wordCount: 4269
 MADDE 404- (1) Tespiti istenen vakıanın hangi delille tespit edileceğine karar
 verilmişse, bu kararın yerine getirilmesinde o delilin toplanmasına ilişkin hükümler uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

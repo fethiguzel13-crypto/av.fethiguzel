@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Dernek kurma hakkı**
+**İKİNCİ BÖLÜM
+Genel Hükümler
+Dernek kurma hakkı**
 
 ---
 
@@ -32,6 +34,8 @@ olabilirler.
 Oniki yaşını bitiren küçükler yasal temsilcilerinin izni ile çocuk derneklerine üye
 olabilirler ancak yönetim ve denetim kurullarında görev alamazlar.
 Çocuk derneklerine onsekiz yaşından büyükler kurucu veya üye olamazlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

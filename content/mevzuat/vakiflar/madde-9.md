@@ -18,6 +18,8 @@ güvenliğine karşı işlenen suçların birinden mahkûm olanlar yönetici ola
 Vakıf yöneticisi seçildikten sonra yukarıdaki suçlardan mahkûm olanların yöneticiliği
 sona erer.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

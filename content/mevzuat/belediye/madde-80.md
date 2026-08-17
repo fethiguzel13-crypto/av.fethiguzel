@@ -19,6 +19,8 @@ belediye tarafından izin verilebilir. Akaryakıt istasyonlarına izin verilmesi
 plânında akaryakıt istasyonu olarak gösterilmesi şarttır. Bu istasyonlara çalışma ruhsatı
 büyükşehirlerde büyükşehir belediyesi tarafından verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -21,6 +21,8 @@ edilmeyi haklı gösteren durum ve koşullar gerçekleştiği takdirde reddedile
 birisinin kendisinin atadığı veya atanmasına katıldığı hakemi reddetmesi, yalnızca hakemin
 atanma tarihinden sonra öğrenilen ret sebeplerine dayanılarak yapılabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

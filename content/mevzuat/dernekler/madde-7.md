@@ -14,6 +14,8 @@ wordCount: 4270
 Madde 7- Şube genel kurulları olağan toplantılarını merkez genel kurulu toplantısından
 en az iki ay önce bitirmek zorundadırlar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

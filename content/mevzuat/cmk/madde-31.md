@@ -20,6 +20,8 @@ c) Ret isteminin duruşmayı uzatmak amacı ile yapıldığı açıkça anlaşı
 katılmasıyla, tek hâkimli mahkemelerde de reddedilen hâkimin kendisi tarafından geri çevrilir.
 (3) Bu konudaki kararlara karşı itiraz yoluna başvurulabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

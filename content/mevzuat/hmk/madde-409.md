@@ -16,6 +16,8 @@ sözleşmesine uyulmaz ise ilgili taraf bu aykırılığa itiraz edebilir. İlgi
 tarihten itibaren iki hafta veya hakemlerin bu konuda kararlaştırdıkları süre içinde itiraz
 etmeden tahkime devam ederse, itiraz hakkından feragat etmiş sayılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

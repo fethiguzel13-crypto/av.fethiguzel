@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4283
 ---
 
-**2. İflas yoluyla taki p hakkı**
+**2. İflas yoluyla takip hakkı**
 
 ---
 
-Madde 1378 - (1) Gemi üzerinde, akdî veya kanuni bir rehin hakkı bulunsa bile, alacaklı iflas yoluyla takip yapabilir.
+MADDE 1378- (1) Gemi üzerinde, akdî veya kanuni bir rehin hakkı bulunsa bile,
+alacaklı iflas yoluyla takip yapabilir.
 
 ---
 

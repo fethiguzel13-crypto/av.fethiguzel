@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**III
-- Değer biçilmesinde yolsuzluk**
+**III - Değer biçilmesinde yolsuzluk**
 
 ---
 
-Madde 551 - (1) Ayni sermayenin veya devralınacak işletme ile ayınla rın değerlemesinde emsaline oranla yüksek fiyat biçenler, işletme ve aynın niteliğini veya durumunu farklı gösterenler ya da başka bir şekilde yolsuzluk yapanlar, bundan doğan zarardan sorumludur.
+MADDE 551- (1) Ayni sermayenin veya devralınacak işletme ile ayınların
+değerlemesinde emsaline oranla yüksek fiyat biçenler, işletme ve aynın niteliğini veya durumunu
+farklı gösterenler ya da başka bir şekilde yolsuzluk yapanlar, bundan doğan zarardan sorumludur.
 
 ---
 

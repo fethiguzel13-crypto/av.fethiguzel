@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**Hacze iştirak halinde davet**
+**Hacze iştirak halinde davet:**
 
 ---
 
@@ -16,6 +16,8 @@ hacizler tutanağın altına işaret olunur.
 Hacze iştirak eden her yeni alacaklı isterse tutanağın tam bir suretini alabilir.
 Evvelce haciz vazedenlerle borçlular dahi yeni iştirak ve ilaveler kendilerine
 bildirilmek üzere 103 üncü madde mucibince davet olunurlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

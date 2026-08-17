@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Tebliğ evrakının taliki ile ilgili suçlar**
+**Tebliğ evrakının taliki ile ilgili suçlar:**
 
 ---
 
@@ -16,6 +16,8 @@ Bu Kanun hükümlerine göre tebliğ evrakının veya ihbarnamenin talikine kar�
 koyanlar ile talik edilen bu kabil evrakı bulunduğu yerden koparan, imha eden veya
 okunamaz hale getirenler hakkında, üç aydan bir yıla kadar hapis ve yirmibeş günden yüzelli
 güne kadar adlî para cezasına hükmolunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**Madde 621**
+**II. İlân yoluyla çağrı**
 
 ---
 
-Madde 621 - Sulh mahkemesi, mirasbırakanın alacaklıları ile borçlularını b elli bir süre içinde alacaklarını ve borçlarını bildirmeleri için bir ay arayla iki defa y apılacak ilân yoluyla çağır ır. Çağrı, kefalet sebebiyle alacaklı ve borçlu olanları da kapsar. İlânda bildirimde bulunmamanın sonuçları hakkında alacaklıların dikkatl eri çekilir. 33 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “tüzükle” ibaresi “Cumhurbaşkanınca çı karılan yönetmelikle” şeklinde değiştirilmi ştir.
+Madde 621- Sulh mahkemesi, mirasbırakanın alacaklıları ile borçlularını belli bir süre
+içinde alacaklarını ve borçlarını bildirmeleri için bir ay arayla iki defa yapılacak ilân yoluyla
+çağırır. Çağrı, kefalet sebebiyle alacaklı ve borçlu olanları da kapsar.
+İlânda bildirimde bulunmamanın sonuçları hakkında alacaklıların dikkatleri çekilir.
 Bildirim süresi, ikinci ilândan başlayarak en az bir aydır.
 
 ---

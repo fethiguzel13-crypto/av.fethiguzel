@@ -19,6 +19,8 @@ tespitine ilişkin hükümleri yürürlükten kaldırılmıştır.
 sayılı İstanbul Kapalı çarşısının Tamir ve İhyası Hakkında Kanun hükümleri ile diğer özel
 kanunlardaki kamulaştırmaya ilişkin hükümler saklıdır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

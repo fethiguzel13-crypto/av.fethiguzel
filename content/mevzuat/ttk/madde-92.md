@@ -11,7 +11,8 @@ wordCount: 4297
 
 ---
 
-Madde 92 - (1) Taraflar arasında cari hesap sözleşmesinin bulunması, komisyon sözleşmesinden kaynaklanan ücretin ve her türlü giderin iste nmesine engel oluşturmaz.
+MADDE 92- (1) Taraflar arasında cari hesap sözleşmesinin bulunması, komisyon
+sözleşmesinden kaynaklanan ücretin ve her türlü giderin istenmesine engel oluşturmaz.
 
 ---
 

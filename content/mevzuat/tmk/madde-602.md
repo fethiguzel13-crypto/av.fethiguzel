@@ -7,16 +7,15 @@ lastReviewed: "2026-07-27"
 wordCount: 3610
 ---
 
-**Vasiyet alacaklısının dava hakkı, ölüme bağlı kazandırmayı öğrenmesinin**
+**3. Zamanaşımı**
 
 ---
 
-Madde 602 - Vasiyet alacaklısının dava hakkı, ölüme bağlı kazandırmayı öğrenmesinin
-veya vasiyet borcu daha sonra muaccel olacaksa muaccel olma tarihinin üzerinden
-on yıl geçmekle zamanaşımına uğrar.
+Madde 602- Vasiyet alacaklısının dava hakkı, ölüme bağlı kazandırmayı öğrenmesinin
+veya vasiyet borcu daha sonra muaccel olacaksa muaccel olma tarihinin üzerinden on yıl
+geçmekle zamanaşımına uğrar.
 
-III.
-Alacaklıların durumu
+---
 
 ### Akademik Yorum ve Analiz
 

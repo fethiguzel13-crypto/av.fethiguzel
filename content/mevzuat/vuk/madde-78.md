@@ -7,11 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4282
 ---
 
-**Madde 77 – (Mülga: 29/7/1970-1319/41 md.)**
+Madde 78 – (Mülga: 29/7/1970-1319/41 md.)
 
 ---
-
-Madde 78 – (Mülga: 29/7/1970-1319/41 md.)
 
 ### Akademik Yorum ve Analiz
 

@@ -27,6 +27,8 @@ Cemaat vakıflarına ait, kısmen veya tamamen hayrat olarak kullanılmayan
 taşınmazlar, vakıf yönetiminin talebi halinde Meclis kararıyla; aynı cemaate ait başka bir
 vakfa tahsis edilebilir veya vakfın akarına dönüştürülebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

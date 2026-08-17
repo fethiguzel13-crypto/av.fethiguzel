@@ -11,7 +11,8 @@ wordCount: 4297
 
 ---
 
-Madde 919 - İpotekli borç sene di veya irat senedine ilişkin tescil, ancak tarafların veya mahkemenin rehin senedini iptal etmesi üzeri ne terkin edilebilir.
+Madde 919- İpotekli borç senedi veya irat senedine ilişkin tescil, ancak tarafların veya
+mahkemenin rehin senedini iptal etmesi üzerine terkin edilebilir.
 
 ---
 

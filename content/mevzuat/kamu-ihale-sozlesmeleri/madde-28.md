@@ -24,6 +24,8 @@ Bu Kanun kapsamına giren işlerden dolayı yargı organlarınca herhangi bir ce
 olanlar, bu Kanun kapsamına giren bütün kamu kurum ve kuruluşlarınca bu Kanunun ve ilgili
 diğer mevzuatın uygulanması ile görevli ve yetkili kadrolara atanamaz ve görev alamazlar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

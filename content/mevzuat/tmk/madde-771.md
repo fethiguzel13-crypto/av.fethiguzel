@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**3. Mülkiyetin kazanılm ası, geri verme**
+**3. Mülkiyetin kazanılması, geri verme**
 
 ---
 
-Madde 771 - Bulunan şeyin maliki, ilân veya kol luk kuvvetlerine ya da muhtara bildirme tarihinden başlayarak beş yıl içinde ortaya çıkmaz sa; bulan kimse, yükümlülüklerini yerine getirmiş olmak koşuluyla o şeyin mülkiyetini kazanır. Bulunan ş ey malikine geri verilirse, bulan kimse yaptığı giderlerin öde nmesini ve uygun bir ödül verilmesini isteyebilir. Kaybedilmiş şey oturulan bir evde veya işyerinde ya da kamu hizmeti görülen yerde bulunmuşsa; o yerin sahibi, kiracı veya kurum, o şeyi bulan s ayılır. Ancak bunlar ödül isteyemezler.
+Madde 771- Bulunan şeyin maliki, ilân veya kolluk kuvvetlerine ya da muhtara bildirme
+tarihinden başlayarak beş yıl içinde ortaya çıkmazsa; bulan kimse, yükümlülüklerini yerine
+getirmiş olmak koşuluyla o şeyin mülkiyetini kazanır.
+Bulunan şey malikine geri verilirse, bulan kimse yaptığı giderlerin ödenmesini ve uygun
+bir ödül verilmesini isteyebilir.
+Kaybedilmiş şey oturulan bir evde veya işyerinde ya da kamu hizmeti görülen yerde
+bulunmuşsa; o yerin sahibi, kiracı veya kurum, o şeyi bulan sayılır. Ancak bunlar ödül isteyemezler.
 
 ---
 

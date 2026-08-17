@@ -12,7 +12,7 @@ wordCount: 4316
 
 ---
 
-Madde 304 - Kiralananın önemli ayıplarla teslimi hâlinde kiracı, borçlunun
+MADDE 304- Kiralananın önemli ayıplarla teslimi hâlinde kiracı, borçlunun
 temerrüdüne veya kiraya verenin kiralananın sonradan ayıplı duruma gelmesinden doğan
 sorumluluğuna ilişkin hükümlere başvurabilir.
 Kiralananın önemli olmayan ayıplarla tesliminde ise kiracı, kiralananda sonradan

@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**Tebliğ memurları aleyhine işlenen suçlar**
+**Tebliğ memurları aleyhine işlenen suçlar:**
 
 ---
 
 Madde 57 – (Mülga: 23/1/2008-5728/578 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**Serbest meslek kazanç defteri**
+**YEDİNCİ BÖLÜM
+Serbest Mesleklerde Defter Tutma
+Serbest meslek kazanç defteri:**
 
 ---
 
@@ -17,6 +19,8 @@ Defterin gider tarafına, yapılan giderlerin nevi ile yapıldığı tarih ve ha
 ücretin alındığı tarih ve miktarı ile kimden alındığı yazılır.
 Hekimler diledikleri takdirde, yukarıda yazılı malümatı protokol defterinde göstermek
 şartiyle ayrı kazanç defteri tutmıyabilirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**Borç ödemeden aciz vesikası**
+**Borç ödemeden aciz vesikası:**
 
 ---
 
@@ -24,6 +24,8 @@ bağlanır. (Ek cümle: 17/7/2003-4949/58 md.) Müflise yeni mal iktisap etmedi�
 bulunma imkânını sağlamak niyetiyle üçüncü kişinin hak sahibi kılındığı ama müflisin fiilen
 tasarruf ettiği mallar, üçüncü kişi bu durumu biliyor veya bilmesi gerekiyorsa, yeni mal
 sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

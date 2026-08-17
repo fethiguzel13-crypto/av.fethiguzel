@@ -19,6 +19,8 @@ ilişkin yetkiyi kapsar.
 (2) Belirtilen bu yetkiyi kısıtlamaya yönelik bütün sınırlandırıcı işlemler, karşı taraf
 yönünden geçersizdir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

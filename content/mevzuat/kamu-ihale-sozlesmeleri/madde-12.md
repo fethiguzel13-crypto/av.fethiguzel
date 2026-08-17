@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4257
 ---
 
-**Ek kesin teminat**
+**İKİNCİ BÖLÜM
+Kesin Teminata İlişkin Hükümler
+Ek kesin teminat**
 
 ---
 
@@ -16,6 +18,8 @@ Fiyat farkı ödenmesi öngörülerek ihale edilen işlerde fiyat farkı olarak 
 sözleşme bedelinde artış meydana gelmesi halinde bu artış tutarının % 6 'sı oranında teminat
 olarak kabul edilen değerler üzerinden ek kesin teminat alınır. Fiyat farkı olarak ödenecek bedel
 üzerinden hesaplanan ek kesin teminat hakedişlerden kesinti yapılmak suretiyle de karşılanabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

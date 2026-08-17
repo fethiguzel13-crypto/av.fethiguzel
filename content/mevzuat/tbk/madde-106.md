@@ -12,7 +12,7 @@ I. Koşulları**
 
 ---
 
-Madde 106 - Yapma veya verme edimi gereği gibi kendisine önerilen alacaklı,
+MADDE 106- Yapma veya verme edimi gereği gibi kendisine önerilen alacaklı,
 haklı bir sebep olmaksızın onu kabulden veya borçlunun borcunu ifa edebilmesi için kendisi
 tarafından yapılması gereken hazırlık fiillerini yapmaktan kaçınırsa, temerrüde düşmüş olur.
 Alacaklı, müteselsil borçlulardan birine karşı temerrüde düşerse, diğerlerine karşı da

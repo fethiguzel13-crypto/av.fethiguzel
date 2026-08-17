@@ -11,8 +11,8 @@ wordCount: 4318
 
 ---
 
-MADDE 30 – (1) Türk vatandaşlığının kaybettirilmesi Cumhurbaşkanı kararının Resmi Gazetede yayımlandığı tarihten itibaren hüküm ifade eder.
-
+MADDE 30 – (1) Türk vatandaşlığının kaybettirilmesi Cumhurbaşkanı kararının Resmi
+Gazetede yayımlandığı tarihten itibaren hüküm ifade eder.
 (2) Kaybettirme kararları şahsidir, ilgilinin eş ve çocuklarına tesir etmez.
 
 ---

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4283
 ---
 
-**Görevli kurullar ve kuruluşlar:4**
+**İKİNCİ KISIM
+Kuruluşlar, Komisyonlar, Görev ve Yetkileri
+Görevli kurullar ve kuruluşlar:**
 
 ---
 
@@ -25,9 +27,7 @@ Kurulun görev ve yetkileri şunlardır;
 1. Trafikle ilgili kuruluşlar arasında koordinasyon sağlanmasına ilişkin önerilerde
 Kısım başlığı ile madde başlığı, 17/10/1996 tarih ve 4199 sayılı Kanunun 2 nci maddesi ile
 değiştirilmiştir.
-4
-
-bulunmak,
+bulunmak,
 2. Trafik kazalarının azaltılmasına ilişkin önerilerde bulunmak,
 3. Uygulamada görülen aksaklıkları tespit etmek,
 4. Kendi görev alanına giren konularla ilgili yasal düzenlemeden kaynaklanan eksiklikleri
@@ -37,6 +37,8 @@ a) İçişleri Bakanlığınca,
 b) Bu Kanunla yetkili kılınan diğer bakanlık, kuruluş ve belediyelerce, İçişleri Bakanlığı
 ile işbirliği içinde,
 Yürütülür.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4286
 ---
 
-**Sürücü belgelerine ait esaslar**
+**Sürücü belgelerine ait esaslar:**
 
 ---
 
-Madde 39 – (Değişik: 12/7/2013-6495/16 md.)37
+Madde 39 – (Değişik: 12/7/2013-6495/16 md.)
 Sürücü belgesi sahiplerinin, sürücü belgelerinin sınıfına göre sürmeye yetkili oldukları
 araçlar ile Türk vatandaşlarının ve yabancıların dış ülkelerden aldıkları sürücü belgelerinin
 ülkemiz sürücü belgeleri ile değiştirilmesine ve dış ülkelerden aldıkları sürücü belgeleriyle
@@ -26,6 +26,8 @@ belgelerinden harç alınmaz. Geçerlilik süresi dolan sürücü belgesi ile ar
 343 Türk Lirası idari para cezası verilir ve sürücü belgesi geri alınır.
 Dış ülkelerden aldıkları sürücü belgeleri ile yönetmelikte belirtilen süre ve şartlara
 aykırı olarak araç kullananlar hakkında her seferinde 343 Türk Lirası idari para cezası verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

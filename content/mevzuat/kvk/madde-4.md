@@ -24,12 +24,11 @@ kuruluşları ve benzeri kuruluşlar. (Ek cümle: 23/7/2010-6009/43 md.) (Bunlar
 hizmeti sunanların teşhis ve tedaviye yönelik olarak birbirlerine yapacakları mal ve hizmet
 satışları ile Sağlık Bakanlığına bağlı hastane, klinik, dispanser, sanatoryum gibi kurum ve
 kuruluşların yapacağı Gelir Vergisi Kanununun 70 inci maddesinde belirtilen mal ve hakların
-kiralanması işlemleri bu muafiyeti ortadan kaldırmaz.)2
+kiralanması işlemleri bu muafiyeti ortadan kaldırmaz.)
 c) Kamu idare ve kuruluşları tarafından sosyal amaçlarla işletilen şefkat, rehin ve
 yardım sandıkları, sosyal yardım kurumları, yoksul aşevleri, ceza ve infaz kurumları ile
 tutukevlerine ait işyurtları, darülaceze atölyeleri, öğrenci yurtları, pansiyonları ve benzeri
 kuruluşlar.
- 
 ç) Kamu idare ve kuruluşları tarafından yetkili idarî makamların izniyle açılan yerel,
 ulusal veya uluslararası nitelikteki sergiler, fuarlar ve panayırlar.
 d) Genel yönetim kapsamındaki kamu idarelerine ait olup sadece kamu görevlilerine
@@ -41,24 +40,11 @@ g) Özelleştirme İdaresi Başkanlığı ile Özelleştirme Fonu, Toplu Konut �
 Başkanlığı ve Şans oyunları lisans veya işletim hakkının hasılatın belli oranında hesaplanan
 pay karşılığında verilmesi halinde bu hakkı devralan kurumlar hariç olmak üzere, 14/3/2007
 tarihli ve 5602 sayılı Şans Oyunları Hasılatından Alınan Vergi, Fon ve Payların
-Düzenlenmesi Hakkında Kanunun 3 üncü maddesinde tanımlanan ilgili kurum ve kuruluşlar.3
+Düzenlenmesi Hakkında Kanunun 3 üncü maddesinde tanımlanan ilgili kurum ve kuruluşlar.
 h) Kuruluşlarındaki amaca uygun işlerle sınırlı olmak şartıyla, Darphane ve Damga
 Matbaası Genel Müdürlüğü ile askerî fabrika ve atölyeler.
 ı) İl özel idareleri, belediyeler ve köyler ile bunların oluşturdukları birlikler veya
-6/4/2011 tarihli ve 6225 sayılı Kanunun 7 nci maddesiyle, bu bentte yer alan “mal ve hizmet
-satışları” ibaresi “mal ve hizmet satışları ile Sağlık Bakanlığına bağlı hastane, klinik, dispanser,
-sanatoryum gibi kurum ve kuruluşların yapacağı Gelir Vergisi Kanununun 70 nci maddesinde
-belirtilen mal ve hakların kiralanması işlemleri” şeklinde değiştirilmiştir.
-3
-18/2/2009 tarihli ve 5838 sayılı Kanunun 32 nci maddesiyle; bu bentte yer alan “Milli Piyango
-İdaresi Genel Müdürlüğü.” ibaresi “Şans oyunları lisans veya işletim hakkının hasılatın belli
-oranında hesaplanan pay karşılığında verilmesi halinde bu hakkı devralan kurumlar hariç olmak
-üzere, 14/3/2007 tarihli ve 5602 sayılı Şans Oyunları Hasılatından Alınan Vergi, Fon ve Payların
-Düzenlenmesi Hakkında Kanunun 3 üncü maddesinde tanımlanan ilgili kurum ve kuruluşlar.”
-şeklinde değiştirilmiştir.
-2
-
-bunlara bağlı kuruluşlar tarafından işletilen;
+bunlara bağlı kuruluşlar tarafından işletilen;
 1) Kanal, boru ve benzeri yollarla dağıtım yapan su işletmeleri,
 2) Belediye sınırları içinde faaliyette bulunan yolcu taşıma işletmeleri,
 3) Kesim, taşıma ve muhafaza işleriyle sınırlı olmak üzere mezbahalar.
@@ -72,7 +58,7 @@ ve spor faaliyetlerinde bulunan anonim şirketler.
 k) Tüketim ve taşımacılık kooperatifleri hariç olmak üzere, ana sözleşmelerinde
 sermaye üzerinden kazanç dağıtılmaması, yönetim kurulu başkan ve üyelerine kazanç
 üzerinden pay verilmemesi, yedek akçelerin ortaklara dağıtılmaması ve sadece ortaklarla iş
-görülmesine (…)4 ilişkin hükümler bulunup, bu hükümlere fiilen uyan kooperatifler ile bu
+görülmesine (…)ilişkin hükümler bulunup, bu hükümlere fiilen uyan kooperatifler ile bu
 kayıt ve şartlara ek olarak kuruluşundan inşaatın bitim tarihine kadar yönetim ve denetim
 kurullarında, söz konusu inşaat işlerini kısmen veya tamamen üstlenen gerçek kişilerle tüzel
 kişi temsilcilerine veya Kanunun 13 üncü maddesine göre bunlarla ilişkili olduğu kabul edilen
@@ -97,11 +83,7 @@ fonlarına ekleyen ve sahip oldukları fonları ortaklarına dağıtmaksızın, 
 ve kuruluşlara yatıran kurumlar.
 m) Münhasıran bilimsel araştırma ve geliştirme faaliyetlerinde bulunan kurum ve
 kuruluşlar (Bunların vergi muafiyetinden yararlanmasına ve muafiyetlerinin kaybedilmesine
-28/11/2017 tarihli ve 7061 sayılı Kanunun 88 inci maddesi ile bu bentte yer alan parantez içi hüküm
-yürürlükten kaldırılmıştır.
-4
-
-ilişkin şartlar Maliye Bakanlığınca belirlenir.).
+ilişkin şartlar Maliye Bakanlığınca belirlenir.).
 n) Organize sanayi bölgeleri ile küçük sanayi sitelerinin alt yapılarını hazırlamak ve
 buralarda faaliyette bulunanların; arsa, elektrik, gaz, buhar ve su gibi ortak ihtiyaçlarını
 karşılamak amacıyla kamu kurumları ve kamu kurumu niteliğindeki meslek kuruluşları ile
@@ -116,8 +98,10 @@ Meclisi ile İhracatçı Birliklerinin Kuruluş ve Görevleri Hakkında Kanunun 
 kapsamında ihracatçılar lehine münhasıran ihracat kredileri için kefalet vermek amacıyla
 kurulan kurumlar ile katılım bankalarının ortağı olduğu ve katılım bankacılığı ilke ve
 esaslarına uygun her türlü finansman için kefalet vermek amacıyla kurulan Katılım Finans
-Kefalet Anonim Şirketi.5
+Kefalet Anonim Şirketi.
 (2) Bu maddenin uygulanmasına ilişkin usuller Maliye Bakanlığınca belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**Kurumun görev ve yetkileri**
+**Kurulun görev ve yetkileri**
 
 ---
 
@@ -16,11 +16,7 @@ a) Kişisel verilerin, temel hak ve özgürlüklere uygun şekilde işlenmesini 
 b) Kişisel verilerle ilgili haklarının ihlal edildiğini ileri sürenlerin şikâyetlerini karara
 bağlamak.
 c) Şikâyet üzerine veya ihlal iddiasını öğrenmesi durumunda resen görev alanına giren
-2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu fıkrada yer alan “Başbakan”
-ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-6
-
-konularda kişisel verilerin kanunlara uygun olarak işlenip işlenmediğini incelemek ve
+konularda kişisel verilerin kanunlara uygun olarak işlenip işlenmediğini incelemek ve
 gerektiğinde bu konuda geçici önlemler almak.
 ç) Özel nitelikli kişisel verilerin işlenmesi için aranan yeterli önlemleri belirlemek.
 d) Veri Sorumluları Sicilinin tutulmasını sağlamak.
@@ -41,6 +37,8 @@ hakkında hazırlanan rapor taslaklarını onaylamak ve yayımlamak.
 k) Taşınmaz alımı, satımı ve kiralanması konularındaki önerileri görüşüp karara
 bağlamak.
 l) Kanunlarla verilen diğer görevleri yerine getirmek.
+
+---
 
 ### Akademik Yorum ve Analiz
 

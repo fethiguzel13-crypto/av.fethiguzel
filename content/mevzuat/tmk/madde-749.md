@@ -11,7 +11,11 @@ wordCount: 4307
 
 ---
 
-Madde 749 - Sınırlıklar üzerinde paylı mülkiyete ilişkin hükümler saklı kalmak üzere; her arazi maliki, taşınmazın ın sınırının çit veya duvar gibi sınırlıklarla çevrilmesi için yapılan giderleri karşılar. Arazinin sını rlıklarla çevrilmesi yükümlülüğü ve biçimine ilişkin özel kanu n hükümleri saklıdır.
+Madde 749- Sınırlıklar üzerinde paylı mülkiyete ilişkin hükümler saklı kalmak üzere; her
+arazi maliki, taşınmazının sınırının çit veya duvar gibi sınırlıklarla çevrilmesi için yapılan giderleri
+karşılar.
+Arazinin sınırlıklarla çevrilmesi yükümlülüğü ve biçimine ilişkin özel kanun hükümleri
+saklıdır.
 
 ---
 

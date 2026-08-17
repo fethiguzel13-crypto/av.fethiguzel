@@ -11,7 +11,7 @@ wordCount: 4320
 
 ---
 
-Madde 570 - Saklayanın kendisine bırakılan parayı aynen geri vermek zorunda
+MADDE 570- Saklayanın kendisine bırakılan parayı aynen geri vermek zorunda
 olmaksızın mislen geri vermesi açıkça veya örtülü olarak kararlaştırılmışsa, o paranın yararı
 ve hasarı kendisine ait olur.
 Paranın mühürsüz ve açık olarak bırakılmış olması, örtülü anlaşma sayılır.

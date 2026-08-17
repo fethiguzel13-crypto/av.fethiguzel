@@ -16,6 +16,8 @@ işlemek suretiyle veya suç işlemek dolayısıyla elde edildiğini öğrenmesi
 takibe yetkili makamlara vakit geçirmeksizin bildirimde bulunmayan kişi, altı aya kadar hapis
 veya adlî para cezası ile cezalandırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

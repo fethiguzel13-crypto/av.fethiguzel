@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**II
-- Kendi hesabına gemiye eşya yükleme yasağı**
+**II- Kendi hesabına gemiye eşya yükleme yasağı**
 
 ---
 
-Madde 1111 - (1) Kaptan, donatanın muvafakati olmaksızın kendi hesabına gemiye eşya yükleyemez . Bu yasağa uymadığı takdirde, kaptan bu gibi yolculuklarda benzer eşya için, yükleme yerinde ve zamanında istenebilecek en yüksek navlunu donatana ödemeye zorunludur. Donatanın kaptanın ödediği navlunun karşılamadığı zararı için tazminat isteme hakkı sakl ıdır.
+MADDE 1111- (1) Kaptan, donatanın muvafakati olmaksızın kendi hesabına gemiye
+eşya yükleyemez. Bu yasağa uymadığı takdirde, kaptan bu gibi yolculuklarda benzer eşya
+için, yükleme yerinde ve zamanında istenebilecek en yüksek navlunu donatana ödemeye
+zorunludur. Donatanın kaptanın ödediği navlunun karşılamadığı zararı için tazminat isteme
+hakkı saklıdır.
 
 ---
 

@@ -7,12 +7,20 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**D. Sorumluluk davasında zamanaşı mı
+**D. Sorumluluk davasında zamanaşımı
 I. Olağan zamanaşımı**
 
 ---
 
-Madde 492 - Sorumlu vasi ve kayyıma karşı açılacak tazmin at davası kesin hesabın teb liğ edildiği tarihten başla yarak bir y ıl geç mekle zamanaşımına uğrar. Tazmin ettirilemeyen zararlar için Devlete karşı açılacak tazminat davasının z amanaşımı süresi, zararın vasi, kayyım ve yasal danışmana tazmin ettirilemeyec eği nin anlaşılmasından başlaya rak bir yıldır. Vesayet dairelerinde g örevli olanların sebebiyet verdikleri zararlardan dolayı Devlete karşı açılacak davaların zamanaşımı genel hük ümlere tâbidir. Devletin rücu davası, rücu hakkının doğumunun üzerinden bir yıl g eçmekle zamanaşımına uğrar.
+Madde 492- Sorumlu vasi ve kayyıma karşı açılacak tazminat davası kesin hesabın tebliğ
+edildiği tarihten başlayarak bir yıl geçmekle zamanaşımına uğrar.
+Tazmin ettirilemeyen zararlar için Devlete karşı açılacak tazminat davasının zamanaşımı
+süresi, zararın vasi, kayyım ve yasal danışmana tazmin ettirilemeyeceğinin anlaşılmasından
+başlayarak bir yıldır.
+Vesayet dairelerinde görevli olanların sebebiyet verdikleri zararlardan dolayı Devlete
+karşı açılacak davaların zamanaşımı genel hükümlere tâbidir.
+Devletin rücu davası, rücu hakkının doğumunun üzerinden bir yıl geçmekle zamanaşımına
+uğrar.
 
 ---
 

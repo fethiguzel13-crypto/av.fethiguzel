@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**3 – Çalınmış ve zayi olmuş şeyler**
+**3 – Çalınmış ve zayi olmuş şeyler:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 98 – Çalınmış ve zayi edilmiş şeyler hakkında Kanunu Medeninin 90
 904 üncü maddeleri hükmü mahfuzdur.
 İcra dairesi tarafından pazarlık suretiyle yapılan satış Kanunu Medeninin 902 nci
 maddesinde mezkür resmi artırma hükmündedir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Tahkikatın sona ermesi**
+**ALTINCI BÖLÜM
+Tahkikatın Sona Ermesi ve Sözlü Yargılama
+Tahkikatın sona ermesi**
 
 ---
 
@@ -16,6 +18,8 @@ inceledikten sonra, duruşmada hazır bulunan taraflara tahkikatın tümü hakk�
 yapabilmeleri için söz verir.
 (2) Mahkeme tarafların tahkikatın tümü hakkındaki açıklamalarından sonra, tahkikatı
 gerektiren bir husus kalmadığını görürse, tahkikatın bittiğini taraflara tefhim eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,17 +7,14 @@ lastReviewed: "2026-07-27"
 wordCount: 3607
 ---
 
-**Tahvil çıkaracaklar ile tahvil çıkarmaya ilişkin koşullar ve çıkarma**
+**C. Düzenlenmesi**
 
 ---
 
-Madde 972 - Tahvil çıkaracaklar ile tahvil çıkarmaya ilişkin koşullar ve çıkarma
-izni vermeye yetkili makam özel kanunla belirlenir.
+Madde 972- Tahvil çıkaracaklar ile tahvil çıkarmaya ilişkin koşullar ve çıkarma izni
+vermeye yetkili makam özel kanunla belirlenir.
 
-ÜÇÜNCÜ KISIM
-
-ZİLYETLİK VE
-TAPU SİCİLİ
+---
 
 ### Akademik Yorum ve Analiz
 

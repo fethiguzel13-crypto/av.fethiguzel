@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**Talep için müddetler ve giderlerin yatırılması**
+**III. PARAYA ÇEVİRME
+1 – Satış Talebi
+Talep için müddetler ve giderlerin yatırılması:**
 
 ---
 
@@ -22,8 +24,7 @@ yatırılması zorunludur.
 Sicile kayıtlı motorlu kara araçları bakımından muhafaza, kıymet takdiri ve satış
 talebinin birlikte yapılması ve bunlara ilişkin giderlerin tamamının birlikte ve peşin olarak
 yatırılması zorunludur.
-
-Kıymet takdiri ve satış giderlerinin, sicile kayıtlı motorlu kara araçları bakımından
+Kıymet takdiri ve satış giderlerinin, sicile kayıtlı motorlu kara araçları bakımından
 ilaveten muhafaza giderinin tamamı, satış talebiyle birlikte peşin olarak yatırılmazsa satış
 talebi vaki olmamış sayılır.
 Yukarıdaki fıkralar uyarınca satış talebiyle birlikte peşin olarak yatırılan miktarın satış
@@ -31,6 +32,8 @@ işlemleri sırasında yetersiz kaldığı anlaşılırsa icra müdürü tarafı
 günlük süre verilir ve bu sürede eksik miktar tamamlanmazsa satış talebi vaki olmamış sayılır.
 Bu maddede belirtilen giderler Adalet Bakanlığınca her yıl yürürlüğe konulan tarifede
 belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

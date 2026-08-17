@@ -34,6 +34,8 @@ Aksi takdirde, bu faturalara ait tutarlar Kurumca karşılanmaz.
 Bu maddenin uygulanmasına ilişkin usûl ve esaslar Sağlık Bakanlığının uygun görüşü
 alınarak, Kurumca çıkarılacak yönetmelikle düzenlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

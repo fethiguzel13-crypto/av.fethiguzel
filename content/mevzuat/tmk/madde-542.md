@@ -12,7 +12,9 @@ wordCount: 4312
 
 ---
 
-Madde 542 - Mir asbıra kan, v asiyetname için kanunda öngörülen şekillerden birine uymak suretiyle yeni bir vasiyetname yaparak önceki vasiyetnameden her zaman dönebilir. Vasiyetnamenin tamamından veya bir kıs mından dönülebilir.
+Madde 542- Mirasbırakan, vasiyetname için kanunda öngörülen şekillerden birine uymak
+suretiyle yeni bir vasiyetname yaparak önceki vasiyetnameden her zaman dönebilir.
+Vasiyetnamenin tamamından veya bir kısmından dönülebilir.
 
 ---
 

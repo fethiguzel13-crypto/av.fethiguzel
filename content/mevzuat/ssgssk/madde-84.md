@@ -13,6 +13,8 @@ wordCount: 4274
 
 MADDE 84- (Mülga: 10/1/2013-6385/10 md.)
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

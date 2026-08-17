@@ -26,14 +26,14 @@ devredildikleri belediye veya il özel idaresinden almaya devam ederler. Devredi
 personelden memur statüsünde görev yapanların, atandıkları yeni kadrolarının aylık,
 ekgösterge, her türlü zam ve tazminatları ile diğer malî hakları toplamının net tutarının, eski
 kadrolarına bağlı olarak en son ayda almakta oldukları aylık, ek gösterge, her türlü zam ve
-
-
-tazminatları ile diğer malî hakları toplamı net tutarından az olması hâlinde aradaki fark
+tazminatları ile diğer malî hakları toplamı net tutarından az olması hâlinde aradaki fark
 giderilinceye kadar atandıkları kadrolarda kaldıkları sürece herhangi bir kesintiye tâbi
 olmaksızın tazminat olarak ödenir.
 Tüzel kişiliği kaldırılan belediyelerde 657 sayılı Devlet Memurları Kanununun 4 üncü
-maddesinin (B) fıkrasına göre istihdam edilen sözleşmeli personelin pozisyonları, (...)30 başka bir
+maddesinin (B) fıkrasına göre istihdam edilen sözleşmeli personelin pozisyonları, (…)başka bir
 işleme gerek kalmaksızın devredildikleri belediye veya il özel idaresi adına vize edilmiş sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4285
 ---
 
-**Madde 1285**
+**D) Zamanaşımı**
 
 ---
 
-Madde 1285 - (1) Müşterek avarya garame payı alacakları bir yılda zamanaşımına uğrar. (2) Zamanaşımı, geminin 1279 uncu maddede belirtilen yere vardığı tarihten itibaren işlemeye başlar. İKİNCİ BÖLÜM Çatma A) Uygulama alanı
+MADDE 1285- (1) Müşterek avarya garame payı alacakları bir yılda zamanaşımına
+uğrar.
+(2) Zamanaşımı, geminin 1279 uncu maddede belirtilen yere vardığı tarihten itibaren
+işlemeye başlar.
 
 ---
 

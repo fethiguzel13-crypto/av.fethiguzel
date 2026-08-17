@@ -11,7 +11,7 @@ wordCount: 4270
 
 ---
 
-Madde 559 - Havale eden, havale alıcısına verdiği yetkiyi her zaman geri alabilir.
+MADDE 559- Havale eden, havale alıcısına verdiği yetkiyi her zaman geri alabilir.
 Ancak, havale alıcısının yararına, özellikle onun alacağını elde etmesi amacıyla verdiği
 yetkiyi geri alamaz.
 Havale ödeyicisi, havale alıcısına havaleyi kabul ettiğini açıklamadığı sürece havale

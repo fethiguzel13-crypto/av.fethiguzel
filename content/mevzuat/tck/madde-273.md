@@ -20,6 +20,8 @@ Halinde, verilecek cezada indirim yapılabileceği gibi, ceza vermekten de vazge
 (2) Birinci fıkra hükmü, özel hukuk uyuşmazlıkları kapsamında yapılan yalan tanıklık
 hallerinde uygulanmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

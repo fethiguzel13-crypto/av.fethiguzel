@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**Takdir muamelelerine ve kararlara iştirak edemiyecek olanlar**
+**Takdir muamelelerine ve kararlara iştirak edemiyecek olanlar:**
 
 ---
 
@@ -21,6 +21,8 @@ ortadan kalkmış olsa bile üçüncü (bu derece dahil) dereceye kadar olan civ
 3. Kanuni temsilcisi veya vekili bulundukları kimselere,
 ait işlerin takdir muamelelerine ve bu işler hakkında verilecek kararlara iştirak
 edemezler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -9,11 +9,14 @@ wordCount: 4299
 
 **B. İşlemler
 I. İşlemlerin konusu
-1. Te scil**
+1. Tescil**
 
 ---
 
-Madde 1008 - Taşınmaza ilişkin aşağıdaki haklar, tapu kütüğüne tescil edilir: 1. Mülkiyet, 2. İrtifa k hakları ve taşınmaz yükleri, 3. Rehin hakları.
+Madde 1008- Taşınmaza ilişkin aşağıdaki haklar, tapu kütüğüne tescil edilir:
+1. Mülkiyet,
+2. İrtifak hakları ve taşınmaz yükleri,
+3. Rehin hakları.
 
 ---
 

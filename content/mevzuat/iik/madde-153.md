@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4281
 ---
 
-**İpotekli alacakta alacaklının gaip bulunması veya borcu almaktan imtinaı**
+**İpotekli alacakta alacaklının gaip bulunması veya borcu almaktan imtinaı:**
 
 ---
 
@@ -22,8 +22,8 @@ ipotek kaydının terkinine karar verir. Bu karar tapu dairesine tebliğ edilere
 taşınmazın sicilline geçirilir.
 Vadesi gelmeyen borcun ipotek senedi mucibince işlemiş ve işleyecek bütün faizleri
 ile birlikte tediyesini deruhde eden borçlu hakkında da yukarıki hüküm cereyan eder.
-(Ek: 29/6/1956-6763/42 md.; Mülga üçüncü fıkra: 14/1/2011-6103/41 md.)
-Rehnin paraya çevrilmesine ilişkin hükümlerin gemilere uygulanması:
+
+---
 
 ### Akademik Yorum ve Analiz
 

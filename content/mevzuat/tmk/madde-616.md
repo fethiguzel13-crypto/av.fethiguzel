@@ -11,7 +11,8 @@ wordCount: 4288
 
 ---
 
-Madde 616 - Vasiyet alacaklısının vasiyeti reddetmesi hâlinde, mirasbırakanın arzusunun baş ka türlü olduğu tasarruftan anlaşılmadıkça, bu redden vasiyet yükümlüsü yararlanır.
+Madde 616- Vasiyet alacaklısının vasiyeti reddetmesi hâlinde, mirasbırakanın arzusunun
+başka türlü olduğu tasarruftan anlaşılmadıkça, bu redden vasiyet yükümlüsü yararlanır.
 
 ---
 

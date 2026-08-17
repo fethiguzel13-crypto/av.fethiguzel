@@ -7,16 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**Gerçek dışı beyan**
+**Emanetlerde hak sahibi:**
 
 ---
 
-MADDE 67- (1) Gerçeğe aykırı yerleşim yeri veya cüzdan talep belgesi veren köy veya
-mahalle muhtarları ile herhangi bir işlem sebebiyle nüfus müdürlüğüne gerçek dışı beyanda
-bulunanlar ve bunlara tanıklık edenler altı aydan dört yıla kadar hapis cezası ile cezalandırılır.
-(2) Adrese ilişkin yükümlülükleri yerine getirmeyen ve yasaklara aykırı hareket eden
-kamu görevlileri 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun kamu idaresinin
-güvenirliğine ve işleyişine karşı suçlara ilişkin hükümlerine göre cezalandırılır.
+Madde 67 – Emanetlerin tutanakta yazılı şartlar dışında bir kimseye verilebilmesi,
+tarafların muvafakatine veya mahkeme kararına bağlıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

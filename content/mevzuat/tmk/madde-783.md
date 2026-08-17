@@ -12,7 +12,8 @@ wordCount: 4298
 
 ---
 
-Madde 783 - İrtifak hakkı, tescili n terkini veya yüklü ya da yararlanan taşınmazın yok olmasıyla sona erer.
+Madde 783- İrtifak hakkı, tescilin terkini veya yüklü ya da yararlanan taşınmazın yok
+olmasıyla sona erer.
 
 ---
 

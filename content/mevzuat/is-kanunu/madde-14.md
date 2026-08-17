@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-**Çağrı üzerine çalışma ve uzaktan çalışma5**
+**Çağrı üzerine çalışma ve uzaktan çalışma**
 
 ---
 
@@ -40,6 +40,8 @@ yükümlüdür.
 dikkate alınarak hangi işlerde uzaktan çalışmanın yapılamayacağı, verilerin korunması ve
 paylaşılmasına ilişkin işletme kurallarının uygulanması ile diğer hususlar Çalışma ve Sosyal
 Güvenlik Bakanlığı tarafından çıkarılan yönetmelikle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

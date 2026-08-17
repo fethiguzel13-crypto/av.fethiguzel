@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**Kabahatler1**
+**Kabahatler**
 
 ---
 
@@ -35,6 +35,8 @@ niteliğindeki meslek kuruluşları bünyesinde işlenmesi hâlinde, Kurulun yap
 üzerine, ilgili kamu kurum ve kuruluşunda görev yapan memurlar ve diğer kamu görevlileri
 ile kamu kurumu niteliğindeki meslek kuruluşlarında görev yapanlar hakkında disiplin
 hükümlerine göre işlem yapılır ve sonucu Kurula bildirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

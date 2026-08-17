@@ -16,6 +16,8 @@ durumu resmi makam veya mercilere ihbar edebilir. İhbarı alan kamu görevliler
 kapsamındaki görevlerini gecikmeksizin yerine getirmek ve uygulanması gereken diğer
 tedbirlere ilişkin olarak yetkilileri haberdar etmekle yükümlüdür.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

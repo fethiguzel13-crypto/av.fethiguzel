@@ -35,7 +35,8 @@ tahsil olunamadığı sürece, bunlar hakkında koşullu salıverilme hükümler
 (6) Bu Kanunun 110/A maddesinde tanımlanan suç bakımından, 5271 sayılı Kanunun
 128 inci maddesinde yer alan elkoyma ve 133 üncü maddesinde yer alan şirket yönetimi için
 kayyım tayini tedbirlerine ilişkin hükümler uygulanabilir.
-Görev ve yetki
+
+---
 
 ### Akademik Yorum ve Analiz
 

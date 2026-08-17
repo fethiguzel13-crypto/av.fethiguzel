@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Geçme kural ve yasakları**
+**Geçme kural ve yasakları:**
 
 ---
 
@@ -41,6 +41,8 @@ b) Geçmenin yasak olduğu yerler;
 Sürücülerin önlerindeki bir aracı geçmeleri yasaktır.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayan sürücüler 3 600 000
 lira para cezası ile cezalandırılırlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

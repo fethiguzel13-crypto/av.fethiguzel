@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**Diğer kanunlardaki atıflar**
+**Diğer kanunlardaki atıflar:**
 
 ---
 
 Madde 61 – Diğer kanunların tebligat ile ilgili olarak Hukuk Usulü Muhakemeleri
 Kanununa ve adli evrakın PTT İdaresi vasıtasiyle tebliğine dair kanuna atfettiği yerlerde bu
 kanun hükümleri tatbik olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

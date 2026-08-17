@@ -18,6 +18,8 @@ hükmolunmaz.
 (3) Hükmün icraya konulmasından veya kesinleşmesinden önce gerçeğin söylenmesi
 halinde, verilecek cezanın yarısı indirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

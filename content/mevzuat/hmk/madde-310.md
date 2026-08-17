@@ -21,6 +21,8 @@ doğrultusunda ek karar verilir.
 gönderilmesinden sonra yapılmışsa, Yargıtay temyiz incelemesi yapmaksızın dosyayı feragat
 veya kabul hususunda ek karar verilmek üzere hükmü veren mahkemeye gönderir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -12,7 +12,7 @@ a. Cayma hakkı**
 
 ---
 
-Madde 269 - Ödeme süresi bir yıldan daha uzun veya belirsiz olan sözleşmelerde
+MADDE 269- Ödeme süresi bir yıldan daha uzun veya belirsiz olan sözleşmelerde
 alıcı, malın devrine kadar her zaman sözleşmeden cayabilir.
 Sözleşmeden cayma hâlinde alıcı tarafından ödenmesi öngörülen cayma parası,
 durumun özelliğine ve sözleşmenin kurulması ile cayma arasında geçen süreye bakılarak

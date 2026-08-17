@@ -11,7 +11,13 @@ wordCount: 4266
 
 ---
 
-Madde 586 - Ortada bulunma yan ve mirasın açıldığı and a sağ olup olmadığı ispat edilemeyen mirasçının miras payı resmen yönetilir. Mirasın açıldığı anda ortada bulunmayanın sağ olmaması hâlinde onun miras payı kendilerine kalacak olanlar, gaipliğe ilişkin sürelere ve usule uyarak o kimsenin gaipliğine karar v erilmesini ve miras payının kendilerine teslimini isteyebilirler. Miras payının teslimi, gaipliğine karar verilen kimsenin mirasının miras çılara teslimine ilişkin kurallara tâbidir.
+Madde 586- Ortada bulunmayan ve mirasın açıldığı anda sağ olup olmadığı ispat
+edilemeyen mirasçının miras payı resmen yönetilir.
+Mirasın açıldığı anda ortada bulunmayanın sağ olmaması hâlinde onun miras payı
+kendilerine kalacak olanlar, gaipliğe ilişkin sürelere ve usule uyarak o kimsenin gaipliğine karar
+verilmesini ve miras payının kendilerine teslimini isteyebilirler.
+Miras payının teslimi, gaipliğine karar verilen kimsenin mirasının mirasçılara teslimine
+ilişkin kurallara tâbidir.
 
 ---
 

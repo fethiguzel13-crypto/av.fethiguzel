@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4680
 ---
 
-**Amaç, kapsam ve temel ilkeler**
+**ÖNLENMESİNE DAİR KANUN
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Temel İlkeler ve Tanımlar
+Amaç, kapsam ve temel ilkeler**
 
 ---
 
@@ -28,6 +31,8 @@ c) Şiddet mağduru ve şiddet uygulayan için alınan tedbir kararları insan o
 yaraşır bir şekilde yerine getirilir.
 ç) Bu Kanun kapsamında kadınlara yönelik cinsiyete dayalı şiddeti önleyen ve
 kadınları cinsiyete dayalı şiddetten koruyan özel tedbirler ayrımcılık olarak yorumlanamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4286
 ---
 
-**Adli tatil süresi**
+**ÜÇÜNCÜ AYIRIM
+Adli Tatil
+Adli tatil süresi**
 
 ---
 
@@ -16,6 +18,8 @@ Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile
 düzenleme: 27/6/2013-6494/30 md.)
 (1) Adli tatil, her yıl yirmi temmuzda başlar, otuz bir ağustosta sona erer. Yeni adli yıl
 bir eylülde başlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

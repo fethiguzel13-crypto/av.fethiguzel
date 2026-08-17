@@ -24,6 +24,8 @@ nedeniyle kaybolmasına veya bozulmasına neden olan kişi, adlî para cezası i
 (4) Bir suça ilişkin soruşturma veya kovuşturma kapsamında elkonulan eşyayı amacı
 dışında kullanan kimse, bir yıla kadar hapis cezası ile cezalandırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

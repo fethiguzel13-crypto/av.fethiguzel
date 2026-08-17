@@ -11,7 +11,7 @@ wordCount: 4269
 
 ---
 
-Madde 89 - Borcun ifa yeri, tarafların açık veya örtülü iradelerine göre belirlenir.
+MADDE 89- Borcun ifa yeri, tarafların açık veya örtülü iradelerine göre belirlenir.
 Aksine bir anlaşma yoksa, aşağıdaki hükümler uygulanır;
 1. Para borçları, alacaklının ödeme zamanındaki yerleşim yerinde,
 2. Parça borçları, sözleşmenin kurulduğu sırada borç konusunun bulunduğu yerde,

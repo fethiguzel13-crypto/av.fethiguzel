@@ -15,6 +15,8 @@ MADDE 405- (1) Delil tespiti dosyası, asıl dava dosyasının eki sayılır ve 
 birleştirilir. Asıl davanın taraflarından her biri, iddia veya savunmasını ispat için bu tutanak ve
 raporlara dayanabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

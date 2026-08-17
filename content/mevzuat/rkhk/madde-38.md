@@ -21,21 +21,9 @@ Bu hükümler, akademik unvanların kazanılması için gerekli şartlar saklı 
 Emeklilik açısından Kurul Başkanı Cumhurbaşkanlığı Strateji ve Bütçe Başkanı, Kurul
 üyeleri Bakanlık Genel Müdürleri, Daire Başkanları Bakanlık Genel Müdürleri ile aynı düzeyde
 kabul edilir. Emeklilik açısından diğer personelin durumu, Başkanlığın hazırlayacağı, Kurulun
-onayı ile yürürlüğe konacak yönetmelikte gösterilir.13
+onayı ile yürürlüğe konacak yönetmelikte gösterilir.
 
-16/6/2020 tarihli ve 7246 sayılı Kanunun 7 nci maddesiyle, bu fıkraya “Rekabet” ibaresinden sonra
-gelmek üzere “başuzman,” ibaresi eklenmiştir.
-11
-24/10/2011 tarihli ve 661 sayılı KHK’nın 53 üncü maddesiyle bu fıkrada yer alan “Sanayi ve
-Ticaret Bakanlığının” ibaresi “Bakanlığın” şeklinde değiştirilmiştir.
-12
-2/7/2018 tarihli ve 703 sayılı KHK’nin 167 nci maddesiyle, bu fıkrada yer alan “Bakanlığın teklifi
-ile Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-13
-2/7/2018 tarihli ve 703 sayılı KHK’nin 167 nci maddesiyle, bu fıkrada yer alan “Bakanlık
-Müsteşarı” ifadesi “Cumhurbaşkanlığı Strateji ve Bütçe Başkanı” şeklinde, “Bakanlık Müsteşar
-Yardımcıları” ibaresi “Bakanlık Genel Müdürleri” şeklinde değiştirilmiştir.
-10
+---
 
 ### Akademik Yorum ve Analiz
 

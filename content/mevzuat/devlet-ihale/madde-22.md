@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4285
 ---
 
-**Yabancı ülkelerde ilan**
+**Yabancı ülkelerde ilan:**
 
 ---
 
@@ -16,6 +16,8 @@ ihaleler için yeterli rekabeti sağlayacak biçimde yabancı ülkelerde ilan ya
 ihale gününden en az 45 gün önce yapılır. İlanla ilgili usul ve yöntemler Milli Savunma,
 Dışişleri, Bayındırlık, Ticaret ve Enerji ve Tabii Kaynaklar bakanlıklarının görüşü alınarak,
 Maliye Bakanlığınca çıkarılacak bir yönetmelikte gösterilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

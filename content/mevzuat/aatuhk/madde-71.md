@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Kısmen haczedilebilen gelirler**
+**Kısmen haczedilebilen gelirler:**
 
 ---
 
@@ -17,6 +17,8 @@ nafakalar, emeklilik aylıkları, sigorta ve emeklilik sandıkları tarafından 
 kısmen haczolunabilir. Ancak haczolunacak miktar bunların üçte birinden çok dörtte birinden
 az olamaz.
 Asgari ücreti aşmayan aylık gelirlerin onda birinden fazlası haczolunamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**Yabancı paralar:89**
+**Yabancı paralar:**
 
 ---
 
@@ -21,8 +21,8 @@ senetsiz alacaklar ve borçlar hakkında da caridir. Bunlardan vadesi gelmemiş 
 alacak ve borçlar, bu Kanunun 281 ve 285 inci maddeleri uyarınca değerleme günü kıymetine
 irca edilebilir. Ancak senette faiz oranının yazılı olmadığı durumlarda değerleme gününde
 geçerli olan Londra Bankalar Arası Faiz Oranı (LİBOR) esas alınır.
-(Ek fıkra: 22/7/1998-4369/7 md.; Mülga: 17/12/2003-5024/9 md.)
-Yurtdışından getirilerek sermaye olarak konulan yabancı paralar:90
+
+---
 
 ### Akademik Yorum ve Analiz
 

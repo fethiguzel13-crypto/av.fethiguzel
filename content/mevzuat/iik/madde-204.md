@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**Müflisle birlikte borçlu tarafından borcun kısmen ödenmesi**
+**Müflisle birlikte borçlu tarafından borcun kısmen ödenmesi:**
 
 ---
 
@@ -17,6 +17,8 @@ müşterek borçlunun müflise rücu hakkı olsun olmasın borcun tamamı masaya
 Alacaklı masaca yapılan taksimde alacağının tamamına düşen hisseden alacağını
 tamamlıyacak kadarını alır; geriye kalan paradan müşterek borçluya, rücu hakkı olduğu
 miktara düşen hisse verilir. Artan para da masaya kalır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

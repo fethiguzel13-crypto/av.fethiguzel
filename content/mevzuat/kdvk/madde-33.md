@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**Kısmi vergi indirimi**
+**Kısmi vergi indirimi:**
 
 ---
 
@@ -17,6 +17,8 @@ Katma Değer Vergisinin ancak indirim hakkı tanınan işlemlere isabet eden kı
 konusu yapılır.
 2. Kısmi vergi indirimine ilişkin usul ve esasları tespite Maliye ve Gümrük Bakanlığı
 yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

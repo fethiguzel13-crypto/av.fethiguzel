@@ -7,13 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**III. Soruml uluk
+**III. Sorumluluk
 1. İyiniyetli zilyet bakımından
 a. Yararlanma**
 
 ---
 
-Madde 993 - İyiniyetle zilyedi bulunduğu şeyi, karineyle mevcut hakkına uygun şekilde kullanan veya on dan yararlanan zilyet, o şeyi geri vermekle yükümlü olduğu kimseye karşı bu yüzden herhangi bir tazminat ödemek zorunda değildir. İyiniyetli zilyet, şeyin kaybedilmes inden, yok olmasından veya hasara uğramasından sorumlu olmaz.
+Madde 993- İyiniyetle zilyedi bulunduğu şeyi, karineyle mevcut hakkına uygun şekilde
+kullanan veya ondan yararlanan zilyet, o şeyi geri vermekle yükümlü olduğu kimseye karşı bu
+yüzden herhangi bir tazminat ödemek zorunda değildir.
+İyiniyetli zilyet, şeyin kaybedilmesinden, yok olmasından veya hasara uğramasından
+sorumlu olmaz.
 
 ---
 

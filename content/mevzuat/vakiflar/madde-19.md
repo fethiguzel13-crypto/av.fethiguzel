@@ -20,6 +20,8 @@ Genel Müdürlükçe tahakkuk ettirilen taviz bedelleri, yapılacak tebligata ra
 ödenmediği takdirde 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun
 hükümlerine göre gecikme zammı ile birlikte tahsil edilerek vakfı adına gelir kaydedilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

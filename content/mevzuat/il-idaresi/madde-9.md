@@ -28,9 +28,7 @@ emirleri yürütmekle ödevlidir. Bu işlerin gerçekleştirilmesi için gereken
 almaya yetkilidir.
 Ç) (Değişik: 2/7/2018 – KHK/703/138 md.) Kanun, Cumhurbaşkanlığı kararnamesi
 ve diğer mevzuatın verdiği yetkiyi kullanmak ve bunların yüklediği ödevleri yerine getirmek
-
-
-için valiler genel emirler çıkarabilir ve bunları ilan ederler.
+için valiler genel emirler çıkarabilir ve bunları ilan ederler.
 D) Vali, dördüncü maddenin son fıkrasında belirtilen adli ve askeri teşkilat dışında
 kalan bütün Devlet daire, müessese ve işletmelerini, özel işyerlerini, özel idare, belediye köy
 idareleriyle bunlara bağlı tekmil müesseseleri denetler, teftiş eder.
@@ -58,6 +56,9 @@ gören bütün Devlet dairelerini mahallin hizmet şartlarına ve Hazine menfaat
 şekilde bir veya birkaç binada toplamak üzere gereken tedbirleri aldırır ve uygulanmasını
 denetler.
 K) Vali, Cumhuriyet Bayramında ilde yapılacak resmi törenlere başkanlık yapar ve
+tebrikleri kabul eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

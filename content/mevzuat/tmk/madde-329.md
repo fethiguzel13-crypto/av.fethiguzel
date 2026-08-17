@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**III. Dava h akkı**
+**III. Dava hakkı**
 
 ---
 
-Madde 329 - Küçüğe fiilen bakan ana veya baba, diğerine karşı çocuk adına naf aka davası açabilir. Ayırt etme gücüne sahip olmayan küçük için gereke n hâllerde nafaka davası, atanacak ka yyım veya vasi tarafından da açılabilir. Ayırt etme gücüne sahip o lan küçük de nafaka davas ı açabilir.
+Madde 329- Küçüğe fiilen bakan ana veya baba, diğerine karşı çocuk adına nafaka davası
+açabilir.
+Ayırt etme gücüne sahip olmayan küçük için gereken hâllerde nafaka davası, atanacak
+kayyım veya vasi tarafından da açılabilir.
+Ayırt etme gücüne sahip olan küçük de nafaka davası açabilir.
 
 ---
 

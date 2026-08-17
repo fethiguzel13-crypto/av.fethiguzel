@@ -12,7 +12,7 @@ I. Kanun gereğince**
 
 ---
 
-Madde 598 - Hangi sebeple olursa olsun, asıl borç sona erince, kefil de borcundan
+MADDE 598- Hangi sebeple olursa olsun, asıl borç sona erince, kefil de borcundan
 kurtulur.
 Borçlu ve kefil sıfatı aynı kişide birleşmiş olursa, alacaklı için kefaletten doğan özel
 yararlar saklı kalır.

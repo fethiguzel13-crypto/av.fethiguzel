@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**Başkasına ait malın satış bedeli**
+**Başkasına ait malın satış bedeli:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 189 – Müflis başkasına ait bir malı satıp da iflasın açılmasınd
 almamış ise mal sahibi, bu mal için yapılan masrafların masaya tesviyesi mukabilinde alıcıda
 olan alacağın kendisine temlikini yahut satılan şeyin bedeli masaya ödenmiş ise bu bedelin
 kendisine verilmesini istiyebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

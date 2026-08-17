@@ -31,6 +31,8 @@ kararın tebliğinde, kararın maddi gerekçeleri ve hukuki dayanakları da beli
 avukat tarafından temsil edilmiyorsa, kararın sonucu, itiraz usulleri ve süreleri hakkında
 kendisi veya yasal temsilcisi bilgilendirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

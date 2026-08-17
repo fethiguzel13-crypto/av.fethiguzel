@@ -11,7 +11,8 @@ wordCount: 4288
 
 ---
 
-Madde 842 - Bir para alacağını güvence altına almak ama cıyla kurulan taşınmaz yükü hakkında irat senedine ilişkin hükümler uygulanır.
+Madde 842- Bir para alacağını güvence altına almak amacıyla kurulan taşınmaz yükü
+hakkında irat senedine ilişkin hükümler uygulanır.
 
 ---
 

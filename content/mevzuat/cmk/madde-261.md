@@ -7,14 +7,14 @@ lastReviewed: "2026-07-27"
 wordCount: 3473
 ---
 
-**(1) Avukat, müdafiliğini veya vekilliğini üstlendiği**
+**Avukatın başvurma hakkı**
 
 ---
 
-Madde 261 - (1) Avukat, müdafiliğini veya vekilliğini üstlendiği
-kişilerin açık arzusuna aykırı olmamak koşuluyla kanun yollarına başvurabilir.
+Madde 261 – (1) Avukat, müdafiliğini veya vekilliğini üstlendiği kişilerin açık
+arzusuna aykırı olmamak koşuluyla kanun yollarına başvurabilir.
 
-Yasal temsilcinin ve eşin başvurma hakkı
+---
 
 ### Akademik Yorum ve Analiz
 

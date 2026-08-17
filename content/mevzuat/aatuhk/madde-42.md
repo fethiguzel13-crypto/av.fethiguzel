@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**Çekle veya münakale emri ile ödemeye ait hususi hükümler**
+**Çekle veya münakale emri ile ödemeye ait hususi hükümler:**
 
 ---
 
@@ -19,10 +19,12 @@ Ticaret Kanununa aykırı olmamak üzere çek üzerine dercedilecek malümatı t
 Maliye Vekaleti salahiyetlidir.
 2. Çek veya münakale emrinin veya banka kartı, kredi kartı ve benzeri kartlar ile
 yapılan ödemenin herhangi bir sebeple tediye edilmemesi halinde amme alacaklısının
-borçluya karşı rücu hakkı mahfuzdur.15
+borçluya karşı rücu hakkı mahfuzdur.
 2 numaralı fıkra gereğince muamele yapıldığı takdirde çek veya münakale emrinin
 kabul edilmemesi keyfiyeti tevsik ve bu durum münakale istiyene, keşideciye veya bunların
 temsilcilerine tebliğ edilerek kabul edilmiyen çek iade olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

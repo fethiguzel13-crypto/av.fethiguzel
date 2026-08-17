@@ -7,16 +7,11 @@ lastReviewed: "2026-07-27"
 wordCount: 3618
 ---
 
-**Kurumlar yıllık eğitim programlarına göre yapmakta**
+Madde 219 – Kurumlar yıllık eğitim programlarına göre yapmakta oldukları eğitim
+çalışmalarının sonuçlarını her altı aylık dönemin bitiminden en geç bir ay sonra Başbakanlık
+Devlet Personel Başkanlığına bir raporla bildirmek zorundadırlar.
 
 ---
-
-Madde 219 - Kurumlar yıllık eğitim programlarına göre yapmakta
-oldukları eğitim çalışmalarının sonuçlarını her altı aylık dönemin bitiminden
-en geç bir ay sonra Başbakanlık Devlet Personel Başkanlığına bir raporla
-bildirmek zorundadırlar.
-
-Koordinasyon ve denetleme:
 
 ### Akademik Yorum ve Analiz
 

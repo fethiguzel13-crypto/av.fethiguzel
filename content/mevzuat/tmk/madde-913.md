@@ -11,7 +11,8 @@ wordCount: 4290
 
 ---
 
-Madde 913 - İpotekli borç senedi ve irat senedinin şekilleri Cumhurbaşkanınca çıkarılan yönetme likle belirlenir. 39 4. Alacaklının belirlenmesi a. Düzenleme sırasında
+Madde 913- İpotekli borç senedi ve irat senedinin şekilleri Cumhurbaşkanınca çıkarılan
+yönetmelikle belirlenir.
 
 ---
 

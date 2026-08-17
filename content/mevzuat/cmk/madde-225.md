@@ -13,8 +13,9 @@ wordCount: 4281
 
 Madde 225 – (1) Hüküm, ancak iddianamede unsurları gösterilen suça ilişkin fiil ve
 faili hakkında verilir.
+(2) Mahkeme, fiilin nitelendirilmesinde iddia ve savunmalarla bağlı değildir.
 
-(2) Mahkeme, fiilin nitelendirilmesinde iddia ve savunmalarla bağlı değildir.
+---
 
 ### Akademik Yorum ve Analiz
 

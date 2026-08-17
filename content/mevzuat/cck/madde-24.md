@@ -7,15 +7,23 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Uzlaşma**
+**ikinci cümle: 25/5/2005-5351/2 md.)
+Hükümlülerin gruplandırılması**
 
 ---
 
-Madde 24- (Değişik: 6/12/2006-5560/41 md.)
-(1) Ceza Muhakemesi Kanununun uzlaşmaya ilişkin hükümleri suça sürüklenen
-çocuklar bakımından da uygulanır.
-ÜÇÜNCÜ KISIM
-Mahkemeler ve Cumhuriyet Savcılığı
+Madde 24- (1) Hükümlüler;
+a) İlk defa suç işleyenler, mükerrirler, itiyadî suçlular veya suç işlemeyi meslek edinenler,
+b) Aklî ve bedensel durumları nedeniyle veya yaşları itibarıyla özel bir infaz rejimine
+tâbi tutulması gerekenler,
+c) Tehlike hâli taşıyanlar,
+d) Terör suçluları,
+e) Suç örgütlerine veya çıkar amaçlı suç örgütlerine mensup olan suçlular,
+gibi gruplara ayrılırlar.
+(2) Hükümlüler ayrıca yaşları, hükümlülük süreleri ve suç türleri itibarıyla da
+gruplandırılırlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**Tedbirin kaldırılması**
+**Tedbirin kaldırılması:**
 
 ---
 
@@ -17,6 +17,8 @@ uzaklaştırma tedbiri, 138 inci maddedeki yetkililerce (Müfettişler tarafınd
 uzaklaştırılanlar hakkında atamaya yetkili amirlerce) derhal kaldırılır.
 Görevden uzaklaştırma tedbirini kaldırmıyan görevli hakkında 139 uncu madde
 hükmü uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

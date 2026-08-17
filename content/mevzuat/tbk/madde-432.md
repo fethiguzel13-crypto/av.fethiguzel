@@ -12,9 +12,8 @@ a. Genel olarak**
 
 ---
 
-Madde 432 - Belirsiz süreli hizmet sözleşmelerinin feshinden önce, durumun diğer
+MADDE 432- Belirsiz süreli hizmet sözleşmelerinin feshinden önce, durumun diğer
 tarafa bildirilmesi gerekir.
-
 Hizmet sözleşmesi; bildirimin diğer tarafa ulaşmasından başlayarak, hizmet süresi bir
 yıla kadar sürmüş olan işçi için iki hafta sonra; bir yıldan beş yıla kadar sürmüş işçi için dört
 hafta ve beş yıldan fazla sürmüş işçi için altı hafta sonra sona erer.

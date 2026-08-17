@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**2. Görüldüğünde ödenecek poli çe**
+**2. Görüldüğünde ödenecek poliçe**
 
 ---
 
-Madde 704 - (1) Görüldüğünde ödenmek üzere düzenlenen poliçe ibrazında ödenir. Böyle bir poliçenin düzenlenme gününden itibaren bir yıl içinde ödenmesi için ibrazı gerekir. Düzenleyen bu süreyi kısaltabileceği gibi, daha uzun bir süre de belirleyebilir. İbraz süreleri cirantalar tarafından kısaltılabilir. (2) Düzenleyen, görüldüğünde ödenecek bir poliçenin belirli bir günden önce ödenmek üzere ibraz edilmeyeceği hakkında şart koyabilir. Bu takdirde ibraz süresi o tarihten başlar.
+MADDE 704- (1) Görüldüğünde ödenmek üzere düzenlenen poliçe ibrazında ödenir.
+Böyle bir poliçenin düzenlenme gününden itibaren bir yıl içinde ödenmesi için ibrazı gerekir.
+Düzenleyen bu süreyi kısaltabileceği gibi, daha uzun bir süre de belirleyebilir. İbraz süreleri
+cirantalar tarafından kısaltılabilir.
+(2) Düzenleyen, görüldüğünde ödenecek bir poliçenin belirli bir günden önce
+ödenmek üzere ibraz edilmeyeceği hakkında şart koyabilir. Bu takdirde ibraz süresi o tarihten
+başlar.
 
 ---
 

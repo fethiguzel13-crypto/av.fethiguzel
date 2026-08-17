@@ -7,14 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**III. Yönetim ve ödeme Madde 9 61
-- Özenli bir yönetim, rehnedilmiş alacağın muacceliyetinin ihbarını ve tahsil edilmesini gerekli kılıyorsa alacaklı bu işlemleri yapabilir; rehin alacaklısı da alacaklıyı bu işlemlerin yapılma sına zorlayabilir. Rehin kendisine ihbar edilmiş olan borçlu, borcunu asıl alacaklıya veya rehin alacaklısına ancak diğerinin rızasıyla ödeyebilir. Bu rızanın bulunmaması hâlinde borçlu, borcunu tevdi etmekle yükümlüdür. ÜÇÜNCÜ AYIRIM REHİN KARŞILIĞINDA ÖDÜNÇ VERME İŞİ İLE UĞRAŞANLAR
+**ÜÇÜNCÜ AYIRIM
+REHİN KARŞILIĞINDA ÖDÜNÇ VERME İŞİ İLE UĞRAŞANLAR
 A. Ödünç verenler
-I. İşletme iz ni alma**
+I. İşletme izni alma**
 
 ---
 
-Madde 962 - İşletme olarak taşınır rehni karşılığında ödünç verme işiyle uğraşmak i steyenler, yetkili makamdan izin almak zorundadırlar.
+Madde 962- İşletme olarak taşınır rehni karşılığında ödünç verme işiyle uğraşmak
+isteyenler, yetkili makamdan izin almak zorundadırlar.
 
 ---
 

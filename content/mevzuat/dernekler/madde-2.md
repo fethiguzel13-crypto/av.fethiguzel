@@ -28,17 +28,12 @@ h) Şube: Dernek faaliyetlerinin yürütülebilmesi için bir derneğe bağlı o
 tüzel kişiliği olmayan ve bünyesinde organları bulunan alt birimi,
 i) Temsilcilik: Dernek faaliyetlerinin yürütülebilmesi için bir derneğe bağlı olarak
 açılan, tüzel kişiliği ve bünyesinde organları bulunmayan alt birimi,
-
-27/12/2020 tarihli ve 7262 sayılı Kanunun 11 inci maddesiyle bu maddede yer alan “ve yabancı
-dernekler ile merkezleri yurt dışında bulunan dernek ve vakıf dışındaki” ibaresi “, merkezleri yurt
-dışında bulunan dernekler ve vakıflar ile diğer” şeklinde ve “ile derneklere” ibaresi “ile bunlara”
-şeklinde değiştirilmiştir.
-1
-
-j) (Ek:21/11/2024-7533/29 md.) Lokal: Derneklerin tüzüklerindeki amaçları
+j) (Ek:21/11/2024-7533/29 md.) Lokal: Derneklerin tüzüklerindeki amaçları
 gerçekleştirmek üzere mülki idare amiri izni ile açılan, üyelerinin bir araya geldiği sosyal
 mekânı,
 İfade eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

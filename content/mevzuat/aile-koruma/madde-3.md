@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4282
 ---
 
-**Mülkî amir tarafından verilecek koruyucu tedbir kararları**
+**İKİNCİ BÖLÜM
+Koruyucu ve Önleyici Tedbirlere İlişkin Hükümler
+Mülkî amir tarafından verilecek koruyucu tedbir kararları**
 
 ---
 
@@ -31,6 +33,8 @@ karşılanmak suretiyle kreş imkânının sağlanması.
 alan tedbirler, ilgili kolluk amirlerince de alınabilir. Kolluk amiri evrakı en geç kararın
 alındığı tarihi takip eden ilk işgünü içinde mülkî amirin onayına sunar. Mülkî amir tarafından
 kırksekiz saat içinde onaylanmayan tedbirler kendiliğinden kalkar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

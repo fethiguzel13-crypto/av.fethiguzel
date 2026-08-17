@@ -16,6 +16,8 @@ olan kanun yollarına süresi içinde kendiliklerinden başvurabilirler. Şüphe
 başvurusuna ilişkin hükümler, bunlar tarafından yapılacak başvuru ve onu izleyen işlemler
 için de geçerlidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

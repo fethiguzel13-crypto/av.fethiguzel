@@ -8,7 +8,7 @@ wordCount: 2650
 keywords: ["Takograf Manipülasyonu", "7574 Sayılı Kanun", "Taksimetre Zorunluluğu", "İşletene İki Katı Ceza", "Sürücü Kartı Suistimali", "Çalışma ve Dinlenme Süresi", "Fazla Çalışma İspatı", "Sürücü Belgesi Geri Alma"]
 ---
 
-**Araçlarda bulundurulması zorunlu gereçler**
+**Araçlarda bulundurulması zorunlu gereçler:**
 
 ---
 
@@ -90,6 +90,8 @@ karayolundaki denetimine ilişkin görev ve yetkileri saklı kalmak üzere işye
 gereken takograf kayıtlarının çalışma ve dinlenme sürelerine ilişkin denetim, Ulaştırma ve
 Altyapı Bakanlığı tarafından oluşturulan veri tabanı kullanılarak Çalışma ve Sosyal Güvenlik
 Bakanlığı tarafından veya bağlı ve ilgili kuruluşlarınca yapılabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

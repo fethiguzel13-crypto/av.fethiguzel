@@ -12,7 +12,8 @@ wordCount: 4300
 
 ---
 
-Madde 209 - Mal ortaklığını kabul e tmiş olan eşlerden birinin iflâsına karar verildiği takdirde, ortaklık kendiliğinden mal ayrılığına dönüşür.
+Madde 209- Mal ortaklığını kabul etmiş olan eşlerden birinin iflâsına karar verildiği
+takdirde, ortaklık kendiliğinden mal ayrılığına dönüşür.
 
 ---
 

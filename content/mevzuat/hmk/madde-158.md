@@ -17,6 +17,8 @@ olduğu yazı işleri müdürü tarafından imza olunarak onaylanır.
 (2) Tutanağın eki niteliğinde bulunan ve gizlilik kararı kapsamında kalan belgelerin
 örneği ancak hâkimin izni ile verilebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

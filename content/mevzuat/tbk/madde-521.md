@@ -12,7 +12,7 @@ I. Hak etme zamanı**
 
 ---
 
-Madde 521 - Simsar, ancak yaptığı faaliyet sonucunda sözleşme kurulursa ücrete
+MADDE 521- Simsar, ancak yaptığı faaliyet sonucunda sözleşme kurulursa ücrete
 hak kazanır.
 Simsarın faaliyeti sonucunda kurulan sözleşme geciktirici koşula bağlanmışsa ücret,
 koşulun gerçekleşmesi hâlinde ödenir.

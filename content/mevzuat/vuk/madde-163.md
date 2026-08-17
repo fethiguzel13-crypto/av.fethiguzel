@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**Nakil**
+**Nakil:**
 
 ---
 
 Madde 163 – (Değişik: 25/5/1995-4108/3 md.)
 İş ve teşebbüsün bir yerden diğer bir yere nakledilmesi adres değişikliği sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

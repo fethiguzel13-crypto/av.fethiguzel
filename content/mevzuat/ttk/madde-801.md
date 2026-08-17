@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**V
-- Ciroların incelenmesi**
+**V - Ciroların incelenmesi**
 
 ---
 
-Madde 801 - (1) Cirosu kabil bir çeki ödeyecek muhatap, cirolar arasında düzenl i bir teselsülün var olup olmadığını incelemekle yükümlü ise de cirantaların imzalarının geçerliliğini araştırmak zorunda değildir.
+MADDE 801- (1) Cirosu kabil bir çeki ödeyecek muhatap, cirolar arasında düzenli bir
+teselsülün var olup olmadığını incelemekle yükümlü ise de cirantaların imzalarının
+geçerliliğini araştırmak zorunda değildir.
 
 ---
 

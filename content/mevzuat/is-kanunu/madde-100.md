@@ -11,7 +11,11 @@ wordCount: 4299
 
 ---
 
-Madde 100 - Bu Kanunun 29 uncu maddesindeki hükümlere aykırı olarak işçi çıkaran işveren veya işveren vekiline işten çıkardığı her işçi için dörtyüzelli Türk Lirası idari para cezası verilir.
+Madde 100 - Bu Kanunun 29 uncu maddesindeki hükümlere aykırı olarak işçi çıkaran
+işveren veya işveren vekiline işten çıkardığı her işçi için dörtyüzelli Türk Lirası idari para
+cezası verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

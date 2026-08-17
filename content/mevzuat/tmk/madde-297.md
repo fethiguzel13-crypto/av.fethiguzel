@@ -12,7 +12,9 @@ wordCount: 4304
 
 ---
 
-Madde 297 - Tanıyan, yanılma, aldatma vey a kor kutma sebebiyle tanımanın iptalini dava ed ebilir. İptal davası anaya ve çocuğa karşı açılır.
+Madde 297- Tanıyan, yanılma, aldatma veya korkutma sebebiyle tanımanın iptalini dava
+edebilir.
+İptal davası anaya ve çocuğa karşı açılır.
 
 ---
 

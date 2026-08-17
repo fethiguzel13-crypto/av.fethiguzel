@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**Parselasyon planlarının hazırlanması:18**
+**Parselasyon planlarının hazırlanması:**
 
 ---
 
@@ -23,6 +23,7 @@ sürdürebilmeleri için gerekli olan umumi hizmet alanlarının tesis edilmesi 
 dolayısıyla meydana gelen değer artışları karşılığında "düzenleme ortaklık payı" olarak
 düşülebilir. Ancak, bu maddeye göre alınacak düzenleme ortaklık payları, düzenlemeye tabi
 tutulan arazi ve arsaların düzenlemeden önceki yüzölçümlerinin yüzde kırk beşini geçemez.
+(Değişik fıkra:4/7/2019-7181/9 md.) (Değişik birinci cümle:5/12/2024-7534/6 md.)
 Düzenleme ortaklık payları, düzenlemeye tabi tutulan yerler ile bölgenin ihtiyacı olan yol,
 meydan, park, otopark, çocuk bahçesi/parkı, yeşil saha, ibadet yeri ve karakol, Milli Eğitim
 Bakanlığına bağlı öğretime yönelik eğitim tesis alanları, kamuya ait kreş ve gündüz bakım
@@ -81,7 +82,7 @@ planlarının kesinleşme tarihinden itibaren beş yıl içinde yapması ve onay
 Parselasyon planı yapmamaları sebebiyle doğacak her türlü kamulaştırma iş ve işlemlerinden
 belediyeler veya valilikler sorumludur.
 (Ek fıkra:4/7/2019-7181/9 md.) Mevcut yapılar nedeniyle parsellerden düzenleme
-ortaklık payı alınamadığı hâllerde bu payın miktarı, (…) bedele dönüştürülebilir. (Ek
+ortaklık payı alınamadığı hâllerde bu payın miktarı, (…)bedele dönüştürülebilir. (Ek
 cümle:5/12/2024-7534/6 md.) Parselasyonu onaylayan idare tarafından alınan bu bedel,
 fazladan düzenleme ortaklık payı kesintisi yapılmak zorunda kalınan diğer parsel sahiplerine
 ödenir.
@@ -97,7 +98,7 @@ güncellenmek suretiyle ödenmedikçe devri yapılamaz ve yapı ruhsatı verilem
 herhangi bir işlem tesis edilemez. Bedelin tamamen ödenmesi hâlinde taşınmaz maliki ya da
 idarenin talebi üzerine terkin edilir.
 (Ek fıkra:4/7/2019-7181/9 md.) Düzenleme sonucu taşınmaz maliklerine verilecek
-parseller; öncelikle düzenlemeye alınan taşınmazın bulundugu yerden, mümkün olmuyor ise
+parseller; öncelikle düzenlemeye alınan taşınmazın bulunduğu yerden, mümkün olmuyor ise
 en yakınındaki eşdeğer alandan verilir.
 (Ek fıkra:4/7/2019-7181/9 md.) Düzenleme alanında bulunan imar adalarında, asgari
 parsel büyüklüğünü karşılamak kaydıyla, imar uygulama alanında kalan hisseli arsa ve
@@ -105,6 +106,9 @@ araziler; hisse sahiplerinin muvafakati hâlinde veya fiilî kullanım esasına 
 getirilebilir.
 (Ek fıkra:4/7/2019-7181/9 md.) Uygulama imar planında hüküm bulunmaması
 hâlinde yönetmelikte belirlenen asgari parsel büyüklüklerinin altında parsel oluşturulamaz.
+(Mülga fıkra:4/7/2019-7181/9 md.)
+(Mülga fıkra:4/7/2019-7181/9 md.)
+(Mülga fıkra:4/7/2019-7181/9 md.)
 (Değişik fıkra:4/7/2019-7181/9 md.) Bu maddede belirtilen kamu hizmetlerine
 ayrılan yerlere rastlayan alanlardaki ağaçlar/yapılar, belediye veya valilikçe bedeli/enkaz
 bedeli ödenerek sökülür ve yıkılır.
@@ -138,6 +142,8 @@ davacı hak sahibinin kök parseldeki yeri dikkate alınarak uygulamadaki düzen
 payı kesintisi düşüldükten sonraki taşınmazın rayiç bedeli üzerinden değeri ödenir.
 (Ek fıkra:4/7/2019-7181/9 md.) Bu maddenin uygulanmasına ilişkin usul ve esaslar
 Bakanlıkça hazırlanan yönetmelikle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

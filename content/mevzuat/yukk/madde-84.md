@@ -16,6 +16,8 @@ düzenlenir.
 (2) Şartlı mülteci ve ikincil koruma statüsü sahiplerinin seyahat belgesi talepleri 5682
 sayılı Kanunun 18 inci maddesi çerçevesinde değerlendirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

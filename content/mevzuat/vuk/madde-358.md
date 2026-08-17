@@ -7,13 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4278
 ---
 
-**Kaçakçılığa Teşebbüs Suçunun Tarifi**
+**Kaçakçılığa Teşebbüs Suçunun Tarifi:**
 
 ---
 
 Madde 358 – (Mülga: 22/7/1998-4369/82 md.)
-ÜÇÜNCÜ BÖLÜM136
-Suçlar ve Cezaları
+
+---
 
 ### Akademik Yorum ve Analiz
 

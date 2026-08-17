@@ -19,6 +19,8 @@ açıklamanın içeriğinin satış sözleşmesinin akdi anında düzeltilmiş o
 sözleşmesi kurulma kararının bu açıklama ile nedensellik bağı içinde olmadığını ispatladığı
 takdirde açıklamanın içeriği ile bağlı olmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

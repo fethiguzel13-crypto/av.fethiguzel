@@ -7,10 +7,6 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**Tarafsızlığını şüpheye düşürecek sebeplerden dolayı hâkimin reddi isteminin süresi**
-
----
-
 Madde 25 – (1) Tarafsızlığını şüpheye düşürecek sebeplerden dolayı bir hâkimin
 reddi, ilk derece mahkemelerinde sanığın sorgusu başlayıncaya; duruşmalı işlerde bölge
 adliye mahkemelerinde inceleme raporu ve Yargıtayda görevlendirilen üye veya tetkik hâkimi
@@ -19,6 +15,8 @@ inceleme başlayıncaya kadar hâkimin reddi istenebilir.
 (2) Sonradan ortaya çıkan veya öğrenilen sebeplerle duruşma veya inceleme bitinceye
 kadar da hâkimin reddi istenebilir. Ancak bu istemin, ret sebebinin öğrenilmesinden itibaren
 yedi gün içinde yapılması şarttır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

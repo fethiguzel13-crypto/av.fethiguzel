@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**Hakların sınırlandırılması ve mülkiyetin idareye geçmesi**
+**İKİNCİ BÖLÜM
+Tebliğ ile Doğacak Haklar ve Borçlar
+Hakların sınırlandırılması ve mülkiyetin idareye geçmesi**
 
 ---
 
@@ -24,9 +26,10 @@ demiryolu, liman ve havaalanı gibi gelecek yıllara sari büyük projelerde kam
 kamulaştırılacak taşınmazların bulunduğu mahalle ve/veya köy muhtarlığında on beş gün süre
 ile asılmak suretiyle ilan edilir. Kamu yararı kararının ilan süresinin bitiminden itibaren,
 kamulaştırılacak taşınmazlar üzerine yapılan sabit tesisler ile dikilen ağaçların bedeli,
-kamulaştırma bedelinin tespitinde dikkate alınmaz. (Değişik üçüncü cümle: 19/4/2018
+kamulaştırma bedelinin tespitinde dikkate alınmaz. (Değişik üçüncü cümle: 19/4/2018-
 7139/28 md.) Taşınmazlardaki bu sınırlama ilan tarihinin bitiminden itibaren beş yıl olup,
-(...)28
+
+---
 
 ### Akademik Yorum ve Analiz
 

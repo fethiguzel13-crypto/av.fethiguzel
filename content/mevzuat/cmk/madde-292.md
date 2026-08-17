@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**Eski hâle getirme süresi içinde temyiz süresinin işlemesi**
+**(2) (Mülga:2/3/2024-7499/19 md.)
+Eski hâle getirme süresi içinde temyiz süresinin işlemesi**
 
 ---
 
 Madde 292 – (1) Sanığın aleyhine, yokluğunda verilen hükümlerde eski hâle getirme
 istemiyle ilgili olarak 274 üncü madde hükümleri uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

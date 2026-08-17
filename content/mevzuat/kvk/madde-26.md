@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**Özel beyan zamanı tayin olunan gelirler**
+**ÜÇÜNCÜ BÖLÜM
+Özel Beyan
+Özel beyan zamanı tayin olunan gelirler**
 
 ---
 
@@ -22,6 +24,8 @@ sermaye karşılığında elde edilen menkul kıymetler ile iştirak hisselerini
 sırasında oluşan kur farkı kazancına dair hükümler hariç olmak üzere, Gelir Vergisi Kanununda
 yer alan vergilendirmeme hususundaki istisna, kayıt, şart ve sürelere ait sınırlamalar dikkate
 alınmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

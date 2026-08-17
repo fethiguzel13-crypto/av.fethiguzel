@@ -20,6 +20,8 @@ c) Mahkemenin, açıklamaları dikkate alarak değerlendirmesini ve kararların 
 açık olarak gerekçelendirilmesini,
 içerir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -24,6 +24,8 @@ hâllerinde, kuruluşların mallarının yönetimi ve çıkarlarının korunmas�
 sonunda yeniden faaliyete geçebilmesi için genel kurul yapılması, 4721 sayılı Kanun
 hükümleri gereğince tayin olunacak bir veya üç kayyım tarafından sağlanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

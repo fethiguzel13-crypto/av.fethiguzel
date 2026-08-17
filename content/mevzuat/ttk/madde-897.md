@@ -7,16 +7,15 @@ lastReviewed: "2026-07-27"
 wordCount: 3629
 ---
 
-**(1) Gönderen, verdiği**
+**D) Gönderenin özel hâllerde sorumluluğu**
 
 ---
 
-Madde 897 - (1) Gönderen, verdiği
-zarar sebebiyle taşıyıcıya karşı sadece 864 üncü maddenin ikinci fıkrasından farklı
-olarak, taşıma sözleşmesinin ifası için gerekli olan yükleme hacminin metreküpü
-başına 1.500 Özel Çekme Hakkı tutarında tazminatla yükümlüdür.
+MADDE 897- (1) Gönderen, verdiği zarar sebebiyle taşıyıcıya karşı sadece 864 üncü
+maddenin ikinci fıkrasından farklı olarak, taşıma sözleşmesinin ifası için gerekli olan yükleme
+hacminin metreküpü başına 1.500 Özel Çekme Hakkı tutarında tazminatla yükümlüdür.
 
-E) Sorumluluktan kurtulma sebepleri
+---
 
 ### Akademik Yorum ve Analiz
 

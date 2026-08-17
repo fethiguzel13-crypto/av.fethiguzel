@@ -11,7 +11,8 @@ wordCount: 4275
 
 ---
 
-Madde 946 - (1) Bir geminin bağlama limanı o gemiye ait seferlerin yönetildiği yerdir.
+MADDE 946- (1) Bir geminin bağlama limanı o gemiye ait seferlerin yönetildiği
+yerdir.
 
 ---
 

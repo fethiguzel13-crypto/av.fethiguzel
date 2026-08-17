@@ -19,6 +19,8 @@ gereken karar, görev yaptığı mahkeme tarafından verilir.
 (3) Zabıt kâtibinin aynı işte hâkim ile birlikte reddi veya çekinmesinin istenmesi hâlinde,
 hâkim hakkında ret veya çekinmeyi inceleyecek olan merci, her ikisi hakkında karar verir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

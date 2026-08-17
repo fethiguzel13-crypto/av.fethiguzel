@@ -7,12 +7,22 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**II
-- Fiilî taşıyanın sorumluluğu**
+**II- Fiilî taşıyanın sorumluluğu**
 
 ---
 
-Madde 1257 - (1) Taşımanın tamamının veya bir kısmının yapılması, bir fiilî taşıyana bırakılmış olsa bile, taşıyan taşımanın tamamından bu Bölüm hükümlerine göre sorumlu kalmakta devam eder. Fiilî taşıyan da, t aşımanın kendisi tarafından yapılan bölümü için, bu Bölüm hükümlerine göre sorumludur. (2) Taşıyan, taşımanın fiilî taşıyan tarafından yapıldığı hâllerde, fiilî taşıyanın kusurundan ve onun adamlarının görevlerini yerine getirdikleri sırada işledikleri kus urdan sorumludur. (3) Taşıyanın, kanunen kendisine yükletilmeyen bir borç veya yükümlülüğü üstlenmesi veya ona tanınan bir haktan vazgeçmesi sonucunu doğuran özel anlaşmalar, açık ve yazılı bir kabul olmadıkça, fiilî taşıyan hakkında hüküm ifade etmez. (4) Taşıyan ile fiilî taşıyanın sorumlulukları, birlikte sorumlu oldukları takdirde ve ölçüde müteselsildir. (5) Bu madde hükümleri, taşıyan ile fiilî taşıyan arasındaki rücu ilişkisini etkilemez.
+MADDE 1257- (1) Taşımanın tamamının veya bir kısmının yapılması, bir fiilî
+taşıyana bırakılmış olsa bile, taşıyan taşımanın tamamından bu Bölüm hükümlerine göre
+sorumlu kalmakta devam eder. Fiilî taşıyan da, taşımanın kendisi tarafından yapılan bölümü
+için, bu Bölüm hükümlerine göre sorumludur.
+(2) Taşıyan, taşımanın fiilî taşıyan tarafından yapıldığı hâllerde, fiilî taşıyanın kusurundan
+ve onun adamlarının görevlerini yerine getirdikleri sırada işledikleri kusurdan sorumludur.
+(3) Taşıyanın, kanunen kendisine yükletilmeyen bir borç veya yükümlülüğü üstlenmesi
+veya ona tanınan bir haktan vazgeçmesi sonucunu doğuran özel anlaşmalar, açık ve yazılı bir
+kabul olmadıkça, fiilî taşıyan hakkında hüküm ifade etmez.
+(4) Taşıyan ile fiilî taşıyanın sorumlulukları, birlikte sorumlu oldukları takdirde ve
+ölçüde müteselsildir.
+(5) Bu madde hükümleri, taşıyan ile fiilî taşıyan arasındaki rücu ilişkisini etkilemez.
 
 ---
 

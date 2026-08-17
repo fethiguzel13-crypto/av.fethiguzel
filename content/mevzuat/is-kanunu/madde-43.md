@@ -18,6 +18,8 @@ gücüne çıkarabilir.
 Bu suretle fazla çalıştırılan işçiler için verilecek ücret hakkında 41 inci maddenin
 birinci, ikinci ve üçüncü fıkraları hükümleri uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

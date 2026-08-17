@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**Madde 514**
+**ÜÇÜNCÜ AYIRIM
+ÖLÜME BAĞLI TASARRUFLARIN ÇEŞİTLERİ
+A. Genel olarak**
 
 ---
 
-Madde 514 - Mirasbırakan, tasarruf özgürl üğünün sınırları içinde , malv arlığının tamamında veya bir kısmında vasiyetna me ya da miras sözleşmesiyle tasarrufta bulunabilir. Mira sbırakanın üzerinde tasarruf etmediği kısım yasal mirasçılarına kalır.
+Madde 514- Mirasbırakan, tasarruf özgürlüğünün sınırları içinde, malvarlığının
+tamamında veya bir kısmında vasiyetname ya da miras sözleşmesiyle tasarrufta bulunabilir.
+Mirasbırakanın üzerinde tasarruf etmediği kısım yasal mirasçılarına kalır.
 
 ---
 

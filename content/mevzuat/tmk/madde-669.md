@@ -7,12 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4277
 ---
 
-**(Mülga: 30/4/2014 - 6537/9 md.) ÜÇÜNCÜ AYIRIM MİRASTA DENKLEŞTİRME A. Mirasçılar aras ında**
+**ÜÇÜNCÜ AYIRIM
+MİRASTA DENKLEŞTİRME
+A. Mirasçılar arasında**
 
 ---
 
-Madde 669 - Yasal miras çılar, mirasbırakandan miras paylarına mahsuben elde ettikleri sağlararası karşılıksız kazandırmaları, denkleştirmeyi sağlamak için terekey e geri vermekle birbirlerine karşı yükümlüdürler.
-Mirasbırakanın çeyiz veya kuruluş sermay esi vermek ya da bir malvar lığını devretmek veya borçtan kurtarmak ve benzerleri gibi karşılık almaksızın altsoyuna yapmış olduğu kazandırmalar, aksi mirasbırakan tar afından açıkça belirtilmiş olmadıkça, denkleştirmeye tâbidir.
+Madde 669- Yasal mirasçılar, mirasbırakandan miras paylarına mahsuben elde ettikleri
+sağlararası karşılıksız kazandırmaları, denkleştirmeyi sağlamak için terekeye geri vermekle
+birbirlerine karşı yükümlüdürler.
+Mirasbırakanın çeyiz veya kuruluş sermayesi vermek ya da bir malvarlığını devretmek veya
+borçtan kurtarmak ve benzerleri gibi karşılık almaksızın altsoyuna yapmış olduğu kazandırmalar,
+aksi mirasbırakan tarafından açıkça belirtilmiş olmadıkça, denkleştirmeye tâbidir.
 
 ---
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**Özel maliyet bedellerinin itfası**
+**Özel maliyet bedellerinin itfası:**
 
 ---
 
@@ -18,6 +18,8 @@ süresine göre eşit yüzdelerle itfa edilir. Kira veya işletme hakkı süresi
 veya işletme hakkı alınan şeyin boşaltılması veya işletme hakkının herhangi bir sebepten sona
 ermesi halinde henüz itfa edilmemiş olan giderler, boşaltma veya hakkın sona erdiği yılda bir
 defada gider yazılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

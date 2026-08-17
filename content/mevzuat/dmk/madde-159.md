@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**Asaleti onaylanan memurların kademe ilerlemeleri**
+**Asaleti onaylanan memurların kademe ilerlemeleri:**
 
 ---
 
@@ -16,6 +16,8 @@ md.)
 Adaylık süresi sonunda bu Kanun hükümlerine göre asıl memurluğa atananların
 adaylıkta geçirdikleri süreler, kademe ilerlemelerinde ve derece yükselmelerinde
 değerlendirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

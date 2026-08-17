@@ -33,7 +33,7 @@ seçilmesi durumunda bu talebin satıcıya, üreticiye veya ithalatçıya yönel
 azami otuz iş günü, konut ve tatil amaçlı taşınmazlarda ise altmış iş günü içinde yerine
 getirilmesi zorunludur. Ancak, bu Kanunun 58 inci maddesi uyarınca çıkarılan yönetmelik eki
 listede yer alan mallara ilişkin, tüketicinin ücretsiz onarım talebi, yönetmelikte belirlenen
-azami tamir süresi içinde yerine getirilir. Aksi hâltde tüketici diğer seçimlik haklarını
+azami tamir süresi içinde yerine getirilir. Aksi hâlde tüketici diğer seçimlik haklarını
 kullanmakta serbesttir.
 (5) Tüketicinin sözleşmeden dönme veya ayıp oranında bedelden indirim hakkını
 seçtiği durumlarda, ödemiş olduğu bedelin tümü veya bedelden yapılan indirim tutarı derhâl
@@ -42,6 +42,8 @@ tüketiciye iade edilir.
 seçtiği hakkı yerine getiren tarafça karşılanır. Tüketici bu seçimlik haklarından biri ile birlikte
 11/1/2011 tarihli ve 6098 sayılı Türk Borçlar Kanunu hükümleri uyarınca tazminat da talep
 edebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

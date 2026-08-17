@@ -13,12 +13,11 @@ I. Sona erme sebepleri
 
 ---
 
-Madde 639 - Ortaklık, aşağıdaki durumlarda sona erer:
+MADDE 639- Ortaklık, aşağıdaki durumlarda sona erer:
 1. Ortaklık sözleşmesinde öngörülen amacın gerçekleşmesi veya gerçekleşmesinin
 imkânsız duruma gelmesiyle.
 2. Sözleşmede ortaklığın mirasçılarla sürdürülmesi konusunda bir hüküm yoksa,
 ortaklardan birinin ölmesiyle.
-
 3. Sözleşmede ortaklığın devam edeceğine ilişkin bir hüküm yoksa, bir ortağın
 kısıtlanması, iflası veya tasfiyedeki payının cebrî icra yoluyla paraya çevrilmesiyle.
 4. Bütün ortakların oybirliğiyle karar vermesiyle.

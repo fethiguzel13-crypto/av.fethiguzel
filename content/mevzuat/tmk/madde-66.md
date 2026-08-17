@@ -11,7 +11,8 @@ wordCount: 4278
 
 ---
 
-Madde 66 - Hiç kimse, dernekte üye kalmaya zorlanamaz. Her üye (...) 8 yazılı olarak bildirmek kaydıyla, dernekten çıkma hakkına sahiptir. 3. Çıkarılma ile Ma dde 6 7 - Tüzükte üyelerin çıkarılma sebepleri gösterilebilir. Tüzükte çıkarma sebepleri gösterilmişse, çıkarma kararına bu sebeplerin haklı sayılamayacağı iddiası yla itiraz edilemez. Tüzükte çıkarma düzenlenmemişse üye, ancak haklı sebeple çıkarılabilir. Bu çıka rma k ararına, haklı sebep bulunmadığı ileri sürülerek itiraz edilebilir.
+Madde 66- Hiç kimse, dernekte üye kalmaya zorlanamaz. Her üye (...)yazılı olarak
+bildirmek kaydıyla, dernekten çıkma hakkına sahiptir.
 
 ---
 

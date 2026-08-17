@@ -15,6 +15,8 @@ Madde 198- (1) Devlet tarafından ihraç edilip de hamiline yazılı bonolar, hi
 senetleri, tahviller ve kuponlar, yetkili kurumlar tarafından çıkarılmış olup da kanunen
 tedavül eden senetler, tahviller ve evrak ile milli ziynet altınları, para hükmündedir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -17,6 +17,8 @@ Onsekiz yaşını doldurmuş kadın işçilerin gece postalarında çalıştır�
 ve esaslar Sağlık Bakanlığının görüşü alınarak Çalışma ve Sosyal Güvenlik Bakanlığınca
 hazırlanacak bir yönetmelikte gösterilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

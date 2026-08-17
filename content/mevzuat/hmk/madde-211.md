@@ -28,6 +28,8 @@ yerlerden getirtilir. Bilirkişi, bu yazı ve imzalarla, o mahkemede elde edilen
 esas alarak inceleme yapar. Bilirkişi, inceleme için gerekli görürse, kendi huzurunda tarafın
 yeniden yazı yazması veya imza atmasını mahkemeden talep edebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

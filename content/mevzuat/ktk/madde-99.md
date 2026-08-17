@@ -7,19 +7,21 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**Tazminat ve giderlerin ödenmesi**
+**Tazminat ve giderlerin ödenmesi:**
 
 ---
 
 Madde 99 – Sigortacılar, hak sahibinin zorunlu mali sorumluluk sigortası genel
 şartlarıyla belirlenen belgeleri, sigortacının merkez veya kuruluşlarından birine ilettiği
 tarihten itibaren sekiz iş günü içinde zorunlu mali sorumluluk sigortası sınırları içinde kalan
-miktarları hak sahibine ödemek zorundadırlar.76
+miktarları hak sahibine ödemek zorundadırlar.
 Ödemeyi yapan sigortacı, ödenen miktarın sorumluluk oranlarında paylaşılmasını
 diğer sigortacılardan yazılı olarak talep eder. Diğer sigortacılar talep tarihinden itibaren sekiz
 iş günü içinde kendilerine düşen miktarı talepte bulunana öder.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükmüne uymayan sigortacılar, 108 000 000
 lira hafif para cezası ile cezalandırılırlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

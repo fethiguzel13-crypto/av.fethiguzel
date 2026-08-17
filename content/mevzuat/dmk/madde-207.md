@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-**Doğum yardımı ödeneği**
+**Doğum yardımı ödeneği:**
 
 ---
 
 Madde 207 – (Mülga: 27/3/2015 - 6637/23 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

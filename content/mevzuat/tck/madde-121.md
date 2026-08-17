@@ -15,6 +15,8 @@ Madde 121- (1) Kişinin belli bir hakkı kullanmak için yetkili kamu makamları
 verdiği dilekçenin hukuki bir neden olmaksızın kabul edilmemesi halinde, fail hakkında altı
 aya kadar hapis cezasına hükmolunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

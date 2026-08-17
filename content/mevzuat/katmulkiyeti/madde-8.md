@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**II- Öncelikle satınalma hakkı**
+**II- Öncelikle satınalma hakkı:**
 
 ---
 
@@ -18,6 +18,8 @@ hakkı yoktur.
 Bir bağımsız bölümün paydaşlarından birinin kendi payını başkasına satması halinde
 öteki paydaşlar, öncelikle satınalma hakkını kullanabilirler.
 Sözleşmede bu maddenin aksine hüküm konulabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

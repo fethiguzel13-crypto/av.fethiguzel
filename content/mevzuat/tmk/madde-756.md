@@ -7,11 +7,19 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**C. Kaynak ve yeraltı suları I. Mülkiyet ve irtifak hakkı**
+**C. Kaynak ve yeraltı suları
+I. Mülkiyet ve irtifak hakkı**
 
 ---
 
-Madde 756 - Kaynaklar, arazinin bütünleyici parçası olup, bunların m ülkiyeti ancak kaynadıkları arazinin mülkiyeti ile birlikte kazanılabilir. Başkasının araz isinde bulunan kaynaklar üzerindeki hak, bir irtifak hakkı olarak tapu kütüğüne tescil ile kurulur. Yera ltı suları, kamu yararına ait sulardandır. Arza malik olmak, o nun altındaki yeraltı sularına da malik olmak sonucunu doğurmaz. Arazi maliklerinin yeralt ı sularından yararlanma biçimi ve ölçüsüne ilişkin özel kanun hükümleri saklıdır.
+Madde 756- Kaynaklar, arazinin bütünleyici parçası olup, bunların mülkiyeti ancak
+kaynadıkları arazinin mülkiyeti ile birlikte kazanılabilir.
+Başkasının arazisinde bulunan kaynaklar üzerindeki hak, bir irtifak hakkı olarak tapu
+kütüğüne tescil ile kurulur.
+Yeraltı suları, kamu yararına ait sulardandır. Arza malik olmak, onun altındaki yeraltı
+sularına da malik olmak sonucunu doğurmaz.
+Arazi maliklerinin yeraltı sularından yararlanma biçimi ve ölçüsüne ilişkin özel kanun
+hükümleri saklıdır.
 
 ---
 

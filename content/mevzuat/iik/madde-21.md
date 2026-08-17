@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**İcra tebliğleri**
+**İcra tebliğleri:**
 
 ---
 
@@ -22,6 +22,8 @@ Adres değişikliği, yukarıdaki fıkra gereğince alacaklı veya borçlu taraf
 tarafa tebliğ olunduğu halde eski adrese tebligat yaptırarak Tebligat Kanununun 35 inci
 maddesinden faydalanmış olan taraf bu suretle diğer tarafa verdiği bütün zararları yüzde 15
 fazlasiyle ödemeye mecbur olduğu gibi hakkında 343 üncü maddedeki ceza da uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

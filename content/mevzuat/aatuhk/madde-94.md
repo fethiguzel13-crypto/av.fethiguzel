@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Gayrimenkul mallarda artırma ve ihale**
+**Gayrimenkul mallarda artırma ve ihale:**
 
 ---
 
@@ -20,12 +20,13 @@ artırma bedelinin, bu suretle ruçhanı olan alacakların tutarından fazlaya �
 ve yapılacak masrafları da karşılaması şarttır.
 Gayrimenkulün rehni suretiyle sağlanmış muaccel borçlar alıcıya devredilmez, satış
 bedelinden ödenir.
-
-Haczedilen gayrimenkullerin ayrılması mümkün olup da bir kısmının bedeli amme
+Haczedilen gayrimenkullerin ayrılması mümkün olup da bir kısmının bedeli amme
 alacağını karşılamaya yettiği takdirde, borçlu yazı ile istemedikçe artan kısım satılmaz.
 Gerekirse tapu dairesine satılacak kısım tefrik ettirilir.
 İhale kararının bir örneği borçluya veya vekil veya mümessiline ve gayrimenkulün
 tapu sicilinde hakkı kayıtlı bulunanlardan adresi belli olanlara tebliğ olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

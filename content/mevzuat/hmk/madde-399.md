@@ -19,6 +19,8 @@ karara bağlandığı mahkemede açılır.
 (3) Tazminat davası açma hakkı, hükmün kesinleşmesinden veya ihtiyati tedbir
 kararının kalkmasından itibaren, bir yıl geçmesiyle zamanaşımına uğrar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

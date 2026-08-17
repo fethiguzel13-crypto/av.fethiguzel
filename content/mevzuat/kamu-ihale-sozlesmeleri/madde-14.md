@@ -18,6 +18,8 @@ uyarısına rağmen talep edilmemesi nedeniyle iade edilemeyen kesin teminat mek
 kalır ve bankasına iade edilir. Teminat mektubu dışındaki teminatlar sürenin bitiminde Hazineye
 gelir kaydedilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

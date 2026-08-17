@@ -7,12 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**Amaç**
+**İMAR KANUNU
+BİRİNCİ BÖLÜM
+Genel Hükümler
+Amaç:**
 
 ---
 
 Madde 1 – Bu Kanun, yerleşme yerleri ile bu yerlerdeki yapılaşmaların; plan, fen,
 sağlık ve çevre şartlarına uygun teşekkülünü sağlamak amacıyla düzenlenmiştir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -27,11 +27,11 @@ maddesinde belirtilen haklarını hatırlatarak savunmasını alır.
 sonunda şikâyet olunanın ihtiyati tedbir kararının uygulanmasına ilişkin emre uymadığı veya
 tedbir kararına aykırı davrandığı tespit edilirse, birinci fıkra uyarınca disiplin hapsi ile
 cezalandırılmasına; aksi takdirde şikâyetin reddine karar verilir.
-(5) Taraflar, kararın (…)67 tebliğinden itibaren iki hafta içinde karara itiraz edebilir.
+(5) Taraflar, kararın (…)tebliğinden itibaren iki hafta içinde karara itiraz edebilir.
 İtirazı, o yerde hükmü veren mahkemenin birden fazla dairesinin bulunması hâlinde, numara
 olarak kendisinden sonra gelen daire; son numaralı daire için bir numaralı daire; o yerde
 hükmü veren mahkemenin tek dairesi bulunması hâlinde en yakın yerdeki aynı düzey ve
-sıfattaki mahkeme inceler.67
+sıfattaki mahkeme inceler.
 (6) İtiraz merci, bir hafta içinde kararını verir. Merci, itirazı yerinde görürse işin esası
 hakkında karar verir. İtiraz üzerine verilen karar kesindir.
 (7) Bu madde uyarınca verilen disiplin hapsi kararları kesinleşmeden infaz edilemez.
@@ -40,11 +40,9 @@ Kesinleşen kararların infazı Cumhuriyet başsavcılığınca yapılır.
 yerine getirilmesi ya da şikâyetten vazgeçilmesi hâlinde, dava ve bütün sonuçlarıyla beraber
 ceza düşer.
 (9) Disiplin hapsine ilişkin karar, kesinleştiği tarihten itibaren iki yıl geçtikten sonra
-2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “tefhim veya”
-ibaresi madde metninden çıkarılmış ve “bir hafta” ibaresi “iki hafta” şeklinde değiştirilmiştir.
-67
+yerine getirilemez.
 
-yerine getirilemez.
+---
 
 ### Akademik Yorum ve Analiz
 

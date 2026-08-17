@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**Zarar verme kastından dolayı iptal82**
+**Zarar verme kastından dolayı iptal**
 
 ---
 
@@ -31,6 +31,8 @@ terk tarihinden en az üç ay evvel keyfiyetin yazılı olarak bildirildiğini v
 bulunduğu yerde görülebilir levhaları asmakla beraber Ticaret Sicili Gazetesiyle; bu mümkün
 olmadığı takdirde bütün alacaklıların ıttılaını temin edecek şekilde münasip vasıtalarla ilan
 olunduğunu ispatla çürütülebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

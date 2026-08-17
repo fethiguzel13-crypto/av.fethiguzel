@@ -7,10 +7,6 @@ lastReviewed: "2026-07-20"
 wordCount: 4282
 ---
 
-**Refi**
-
----
-
 Madde 328 – İcra mahkemesi aşağıdaki hallerde alacaklılardan birinin veya komiserin
 talebi üzerine mühletin kalkmasına karar verebilir:
 1 – Borçlu tayin olunan taksitleri vaktinde ödemezse;
@@ -21,9 +17,11 @@ borçlunun bütün taahütlerini ifaya muktedir bulunduğunu alacaklılardan bir
 Borçlu dinlenmeğe yahut itirazlarını yazı ile bildirmeğe davet olunur. İcra mahkemesi
 icabı halinde mütemmim malümat elde ettikten sonra dosya üzerine kararını verir. Müracaat
 vukuunda bölge adliye mahkemesi de aynı veçhile hareket eder. Refi kararı mühlet kararının
-tabi olduğu şartlar dairesinde ilan olunur.124
+tabi olduğu şartlar dairesinde ilan olunur.
 Refi kararı ikinci ve üçüncü numaralara göre verilmiş ise borçluya konkordato mühleti
 veya yeni bir fevkalade mühlet verilemez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

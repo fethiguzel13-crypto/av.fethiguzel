@@ -11,7 +11,7 @@ wordCount: 4265
 
 ---
 
-Madde 108 - Sözleşmenin konusu olan şeyin niteliği veya işin özelliği tevdi
+MADDE 108- Sözleşmenin konusu olan şeyin niteliği veya işin özelliği tevdi
 edilmesine uygun düşmez veya teslim edilecek şey bozulabilir ya da bakımı, korunması veya
 tevdi edilmesi önemli bir gideri gerektirir ise, borçlu, alacaklıya önceden ihtarda bulunması
 koşuluyla, hâkimin izniyle onu açık artırma yoluyla sattırıp bedelini tevdi edebilir.

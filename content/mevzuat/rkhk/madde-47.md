@@ -16,7 +16,7 @@ sırların korunması gerekçesi ile Kurul, sözlü savunma toplantısının giz
 karar verebilir.
 Sözlü savunma toplantılarını Kurul Başkanı veya Kurul Başkanının toplantıya
 katılmadığı durumlarda Kurul İkinci Başkanı yönetir. Toplantı, Kurul Başkanı veya İkinci
-Başkan ile en az dört Kurul Üyesinin katılımı ile yapılır.17
+Başkan ile en az dört Kurul Üyesinin katılımı ile yapılır.
 Sözlü savunma toplantıları en çok birbirini izleyen beş oturumda tamamlanır ve bir
 gün içinde yapılan çeşitli toplantılar bir oturum sayılır.
 Sözlü savunma toplantısından en geç 7 gün önce taraflar sözlü savunmada
@@ -27,6 +27,8 @@ Babının Sekizinci Faslında düzenlenen her türlü delil ve ispat vasıtasın
 Oturumlara bu Kanunu ihlal ettiği iddia edilen taraflar veya bunların temsilcileri ile doğrudan
 ya da dolaylı menfaati olduğunu oturumdan önce Kurula ispatlayanlar ya da onların
 temsilcileri katılabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

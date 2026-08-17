@@ -7,20 +7,18 @@ lastReviewed: "2026-07-27"
 wordCount: 3606
 ---
 
-**(1) Kanunun ayrık tuttuğu hâller saklı kalmak üzere,**
+**Sanığın duruşmada hazır bulunmaması**
 
 ---
 
-Madde 193 - (1) Kanunun ayrık tuttuğu hâller saklı kalmak üzere,
-hazır bulunmayan sanık hakkında duruşma yapılmaz. Gelmemesinin geçerli nedeni
-olmayan sanığın zorla getirilmesine karar verilir.
+Madde 193 – (1) Kanunun ayrık tuttuğu hâller saklı kalmak üzere, hazır bulunmayan
+sanık hakkında duruşma yapılmaz. Gelmemesinin geçerli nedeni olmayan sanığın zorla
+getirilmesine karar verilir.
+(2) (Değişik: 28/3/2023-7445/20 md.) Sanık hakkında, toplanan delillere göre
+mahkûmiyet, ceza verilmesine yer olmadığı ve güvenlik tedbiri dışında bir karar verilmesi
+gerektiği kanısına varılırsa, sorgusu yapılmamış olsa da dava yokluğunda bitirilebilir.
 
-(2) (Değişik: 28/3/2023-7445/20 md.) Sanık hakkında, toplanan
-delillere göre mahkûmiyet, ceza verilmesine yer olmadığı ve güvenlik tedbiri
-dışında bir karar verilmesi gerektiği kanısına varılırsa, sorgusu yapılmamış
-olsa da dava yokluğunda bitirilebilir.
-
-Sanığın mahkemeden uzaklaşması
+---
 
 ### Akademik Yorum ve Analiz
 

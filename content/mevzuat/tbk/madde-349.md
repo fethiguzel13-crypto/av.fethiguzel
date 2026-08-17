@@ -11,7 +11,7 @@ wordCount: 4260
 
 ---
 
-Madde 349 - Aile konutu olarak kullanılmak üzere kiralanan taşınmazlarda kiracı,
+MADDE 349- Aile konutu olarak kullanılmak üzere kiralanan taşınmazlarda kiracı,
 eşinin açık rızası olmadıkça kira sözleşmesini feshedemez.
 Bu rızanın alınması mümkün olmazsa veya eş haklı sebep olmaksızın rızasını
 vermekten kaçınırsa kiracı, hâkimden bu konuda bir karar vermesini isteyebilir.

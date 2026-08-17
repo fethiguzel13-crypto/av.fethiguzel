@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**a) Borca itiraz**
+**a) Borca itiraz:**
 
 ---
 
@@ -15,7 +15,8 @@ Madde 169 – (Değişik: 18/2/1965-538/82 md.)
 Borçlu, 168 inci maddenin 5 numaralı bendine göre borca karşı yapacağı itirazını bir
 dilekçe ile icra mahkemesine bildirir. Bu itiraz satıştan başka icra takip muamelelerini
 durdurmaz.
-İtirazın incelenmesi:
+
+---
 
 ### Akademik Yorum ve Analiz
 

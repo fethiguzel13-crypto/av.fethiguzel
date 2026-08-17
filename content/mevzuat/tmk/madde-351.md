@@ -11,8 +11,10 @@ wordCount: 4312
 
 ---
 
-Madde 351 - Durumun değişmesi hâlinde, çocuğun korunmasına ilişkin önlemlerin yeni koşullara uydurulması gere kir. Velâyetin kaldırılmasını gerekti ren se bep ortadan kalkmışsa hâki m, re'sen ya da ana veya babanın istemi üzerine velâyeti geri verir. YEDİNCİ AYIRIM
-ÇOCUK MALLARI A. Yönetim I. Genel olarak
+Madde 351- Durumun değişmesi hâlinde, çocuğun korunmasına ilişkin önlemlerin yeni
+koşullara uydurulması gerekir.
+Velâyetin kaldırılmasını gerektiren sebep ortadan kalkmışsa hâkim, re'sen ya da ana veya
+babanın istemi üzerine velâyeti geri verir.
 
 ---
 

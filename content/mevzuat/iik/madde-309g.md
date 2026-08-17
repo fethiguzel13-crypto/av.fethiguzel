@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**Taşınır rehinleri**
+**Taşınır rehinleri:**
 
 ---
 
@@ -23,18 +23,9 @@ verebilir. Konkordato tasfiye memurları rehinli alacaklıya, aynı zamanda 26/9
 5237 sayılı Türk Ceza Kanununun 289 uncu maddesinde öngörülen cezayı da hatırlatarak, bu
 süre içinde paraya çevirme işlemini gerçekleştirmediği takdirde rehinli malı kendilerine teslim
 etmesini, haklı bir sebep olmaksızın teslim etmezse rüçhan hakkından mahrum kalacağını
-ihtar eder.113
-Tahsili güç ve ihtilaflı hakların alacaklılara devri:
-28/2/2018 tarihli ve 7101 sayılı Kanunun 42 nci maddesiyle bu fıkrada yer alan “336/a” ibaresi “26/9/2004
-tarihli ve 5237 sayılı Türk Ceza Kanununun 289 uncu” şeklinde değiştirilmiştir.
-113
+ihtar eder.
 
-Madde 309/ğ- (Ek: 17/7/2003-4949/84 md.)
-Alacaklılar kurulu, konkordato tasfiye memurlarının teklifi üzerine ihtilaflı veya tahsili
-güç bir alacaktan, özellikle bir iptal davasından, borçlunun organlarına veya çalışanlarına
-karşı sorumluluk davasından vazgeçerse, alacaklıları yazıyla veya ilân yoluyla haberdar eder
-ve 245 inci maddeye uygun olarak bu iddiaların takibi hakkını devretmeyi teklif eder.
-Paraların paylaştırılması:
+---
 
 ### Akademik Yorum ve Analiz
 

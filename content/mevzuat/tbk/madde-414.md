@@ -12,7 +12,7 @@ wordCount: 4259
 
 ---
 
-Madde 414 - İşveren, işin görülmesinin gerektirdiği her türlü harcama ile işçiyi
+MADDE 414- İşveren, işin görülmesinin gerektirdiği her türlü harcama ile işçiyi
 işyeri dışında çalıştırdığı takdirde, geçimi için zorunlu olan harcamaları da ödemekle
 yükümlüdür.
 Yazılı olarak yapılmış bir hizmet veya toplu iş sözleşmesinde, bizzat işçi tarafından

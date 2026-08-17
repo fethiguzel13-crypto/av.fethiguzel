@@ -7,25 +7,19 @@ lastReviewed: "2026-07-27"
 wordCount: 3651
 ---
 
-**Görevden uzaklaştırma; bir disiplin kovuşturması**
+**Süre:**
 
 ---
 
-Madde 145 - Görevden uzaklaştırma; bir disiplin kovuşturması
-icabından olduğu takdirde en çok 3 ay devam edebilir. Bu süre sonunda hakkında
-bir karar verilmediği takdirde memur görevine başlatılır.
+Madde 145 – Görevden uzaklaştırma; bir disiplin kovuşturması icabından olduğu
+takdirde en çok 3 ay devam edebilir. Bu süre sonunda hakkında bir karar verilmediği takdirde
+memur görevine başlatılır.
+Bir ceza kovuşturması icabından olduğu takdirde görevinden uzaklaştırmaya yetkili
+amir (Müfettişlerin görevinden uzaklaştırdıkları memurlar hakkında atamaya yetkili amir)
+ilgilinin durumunu her iki ayda bir inceliyerek görevine dönüp dönmemesi hakkında bir karar
+verir ve ilgiliye de yazı ile tebliğ eder.
 
-Bir
-ceza kovuşturması icabından olduğu takdirde görevinden uzaklaştırmaya yetkili
-amir (Müfettişlerin görevinden uzaklaştırdıkları memurlar hakkında atamaya yetkili
-amir) ilgilinin durumunu her iki ayda bir inceliyerek görevine dönüp dönmemesi
-hakkında bir karar verir ve ilgiliye de yazı ile tebliğ eder.
-
-KISIM - V
-
-Mali Hükümler
-
-Kapsam:
+---
 
 ### Akademik Yorum ve Analiz
 

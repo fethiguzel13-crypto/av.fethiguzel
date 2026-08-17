@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**Motorlu araçlarla ilgili mesleki faaliyette bulunanlar**
+**Motorlu araçlarla ilgili mesleki faaliyette bulunanlar:**
 
 ---
 
@@ -28,6 +28,8 @@ bu araçların yönetmelikte gösterilecek biçimde bir defterini tutmakla yük�
 (Ek: 17/10/1996-4199/35 md.) İkinci fıkrada sözü edilen sigortayı yaptırmayan
 teşebbüs sahiplerinin bu işyerleri, mahallin en büyük mülki amirince 15 güne kadar faaliyetten
 men edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

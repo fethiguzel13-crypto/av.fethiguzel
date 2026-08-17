@@ -11,7 +11,9 @@ wordCount: 4296
 
 ---
 
-Madde 607 - Koruma önlemi olarak terekenin yazımı hâl inde mirası ret süresi, yas al ve atanmış mirasçılar için yazım işleminin sona erdiğinin sulh hâkimi tarafından kendilerine bildirilmesiyle başlar.
+Madde 607- Koruma önlemi olarak terekenin yazımı hâlinde mirası ret süresi, yasal ve
+atanmış mirasçılar için yazım işleminin sona erdiğinin sulh hâkimi tarafından kendilerine
+bildirilmesiyle başlar.
 
 ---
 

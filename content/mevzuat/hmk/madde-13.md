@@ -14,6 +14,8 @@ wordCount: 4263
 MADDE 13- (1) Kesin yetkinin söz konusu olmadığı hâllerde, asıl davaya bakan
 mahkeme, karşı davaya bakmaya da yetkilidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

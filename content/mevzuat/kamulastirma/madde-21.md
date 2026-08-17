@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**İdarenin tek taraflı vazgeçmesi**
+**İKİNCİ BÖLÜM
+Kamulaştırmadan Vazgeçme ve Geri Alma
+İdarenin tek taraflı vazgeçmesi**
 
 ---
 
@@ -15,6 +17,8 @@ Madde 21 – İdare kamulaştırmanın her safhasında kamulaştırma kararı ve
 onaylayan yetkili merciin kararı ile kamulaştırmadan tek taraflı olarak kısmen veya tamamen
 vazgeçebilir. Şu kadar ki, dava sırasında vazgeçme halinde dava giderleri ile harç, harcanan emek
 ve işin önemi gözetilerek mahkemece maktuen takdir olunacak avukatlık ücreti idareye yükletilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

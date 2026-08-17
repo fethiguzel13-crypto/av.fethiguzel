@@ -15,6 +15,8 @@ MADDE 241- (1) Mahkeme, gösterilen tanıklardan bir kısmının tanıklığı i
 edilmek istenen husus hakkında yeter derecede bilgi edindiği takdirde, geri kalanların
 dinlenilmemesine karar verebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

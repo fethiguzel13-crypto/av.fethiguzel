@@ -21,7 +21,9 @@ kuruluşlarının ve mahalle muhtarlarının temsilcileri ile diğer ilgililerin
 konseyinin faaliyetlerinin etkili ve verimli yürütülmesi konusunda yardım ve destek sağlar.
 Kent konseyinde oluşturulan görüşler belediye meclisinin ilk toplantısında gündeme
 alınarak değerlendirilir. Kent konseyinin çalışma usûl ve esasları Çevre ve Şehircilik
-Bakanlığınca hazırlanacak yönetmelikle belirlenir.51
+Bakanlığınca hazırlanacak yönetmelikle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

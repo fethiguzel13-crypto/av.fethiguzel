@@ -11,7 +11,9 @@ wordCount: 4281
 
 ---
 
-Madde 1293 - (1) Çatma sonucu uğranılan zararın tazmini için açılacak davalar öncesinde bir ihtar düzenlenmesine veya başkaca bir şekil şartının yerine getirilmesine gerek yo ktur.
+MADDE 1293- (1) Çatma sonucu uğranılan zararın tazmini için açılacak davalar
+öncesinde bir ihtar düzenlenmesine veya başkaca bir şekil şartının yerine getirilmesine gerek
+yoktur.
 
 ---
 

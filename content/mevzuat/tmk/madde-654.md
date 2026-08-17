@@ -11,7 +11,8 @@ wordCount: 4268
 
 ---
 
-Madde 654 - Mirasb ırakanın bir mirasçıdaki alacağı, paylaşma sırasında o mirasçının payına mahsup edilir. I II. Rehnedilmiş tereke mall arı
+Madde 654- Mirasbırakanın bir mirasçıdaki alacağı, paylaşma sırasında o mirasçının
+payına mahsup edilir.
 
 ---
 

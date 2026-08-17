@@ -16,6 +16,8 @@ MADDE 354- (1) Bölge adliye mahkemesi hukuk dairesince inceleme, davanın
 (2) İnceleme sırasında gereken hâllerde başka bir bölge adliye mahkemesi veya ilk
 derece mahkemesi istinabe edilebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

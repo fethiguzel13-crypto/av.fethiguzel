@@ -25,6 +25,8 @@ h) Verilen kararlar,
 i) Hüküm,
 yer alır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

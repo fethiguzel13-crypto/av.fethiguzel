@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Muhasebe usulünü seçmekte serbestlik**
+**Muhasebe usulünü seçmekte serbestlik:**
 
 ---
 
@@ -22,11 +22,8 @@ Ticaret Kanununun ticari defterler hakkındaki hükümleri mahfuzdur.
 programları aracılığıyla izleyen mükellefler ile bu bilgisayar programlarını üreten gerçek ve
 tüzel kişilerce uyulması gereken kuralları ve bilgisayar programlarının içermesi gereken
 asgari hususlar ile standartları ve uygulamaya ilişkin usul ve esasları belirlemeye yetkilidir.
-İKİNCİ BÖLÜM
-Defter Tutma Bakımından Tüccarlar
 
-usulüne tabi olan çiftçiler" ibaresi “Gelir Vergisi Kanununa göre kazançları basit usulde tesbit edilenler;”
-şeklinde değiştirilmiştir.
+---
 
 ### Akademik Yorum ve Analiz
 

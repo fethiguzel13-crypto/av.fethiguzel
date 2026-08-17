@@ -20,6 +20,8 @@ uzmanlığı bulunanlarla protokol yaparak bu merkezleri işlettirebilir.
 sınır dışı edilmek amacıyla idari gözetimde bulunan yabancıların geri gönderme merkezlerine
 nakil işlemleriyle ilgili usul ve esaslar yönetmelikle düzenlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

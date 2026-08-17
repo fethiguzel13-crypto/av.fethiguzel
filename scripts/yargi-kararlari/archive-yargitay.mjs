@@ -145,7 +145,9 @@ async function fetchFullText(id) {
   });
   if (!resp.ok) return { error: `HTTP ${resp.status}` };
   const raw = await resp.text();
-  if (isMinistryEndpointDownPage(raw)) {
+  // Only treat pure ministry HTML shell as outage — not JSON that embeds HTML karar text
+  const looksJson = raw.trimStart().startsWith("{");
+  if (!looksJson && isMinistryEndpointDownPage(raw)) {
     return {
       error: "endpoint-down",
       detail:
@@ -614,7 +616,26 @@ async function main() {
 
         log(`Tam metin [p${item.priority ?? "?"}/${item.tierId}]: ${item.kunye}`);
         try {
-          const doc = await fetchFullText(item.id);
+          // Flaky getDokuman: retry endpoint-down / empty-or-short / rate-limit a few times
+          let doc = await fetchFullText(item.id);
+          const retriable = new Set([
+            "endpoint-down",
+            "empty-or-short",
+            "non-json-body",
+            "HTTP 429",
+            "HTTP 502",
+            "HTTP 503",
+            "HTTP 504",
+          ]);
+          for (
+            let attempt = 1;
+            attempt <= 3 && doc.error && retriable.has(doc.error);
+            attempt++
+          ) {
+            log(`  ${doc.error} retry ${attempt}/3 after short wait…`);
+            await humanWait(1500, 3500, "fetch-retry", log);
+            doc = await fetchFullText(item.id);
+          }
           if (doc.error === "endpoint-down") {
             // Bakanlık getDokuman kapalı — kuyruğu yakma, öğeyi geri koy ve indirmeyi kes
             log(`  Hata: ${doc.error} — ${doc.detail || ""}`);
@@ -628,11 +649,33 @@ async function main() {
           }
           if (doc.error) {
             log(`  Hata: ${doc.error}${doc.detail ? " " + doc.detail : ""}`);
-            progress.failedIds[item.id] = {
-              at: new Date().toISOString(),
-              error: doc.error,
-            };
-            progress.stats.failed++;
+            // Transient network/rate/body errors: re-queue, never permanent burn
+            const transient =
+              doc.error === "empty-or-short" ||
+              doc.error === "non-json-body" ||
+              /^HTTP 429$/.test(doc.error) ||
+              /^HTTP 50[234]$/.test(doc.error) ||
+              /fetch failed|ECONNRESET|ETIMEDOUT|ENOTFOUND|EAI_AGAIN|network/i.test(
+                doc.error
+              );
+            if (transient) {
+              item._retry = (item._retry || 0) + 1;
+              if (item._retry < 5) {
+                queue.push(item);
+                log(`  re-queued (${item._retry}/5) for later retry`);
+              } else {
+                // park at end with high retry so a later run can still try after cooldown
+                item._retry = 0;
+                queue.push(item);
+                log(`  re-queued after cooldown reset (still transient: ${doc.error})`);
+              }
+            } else {
+              progress.failedIds[item.id] = {
+                at: new Date().toISOString(),
+                error: doc.error,
+              };
+              progress.stats.failed++;
+            }
           } else {
             const record = {
               id: item.id,
@@ -661,6 +704,8 @@ async function main() {
               tierId: item.tierId,
               year: yearFromTarih(item.tarih),
             };
+            // success clears any prior transient fail mark
+            if (progress.failedIds[item.id]) delete progress.failedIds[item.id];
             progress.stats.downloaded++;
             downloadedThisRun++;
             daily.fullText++;
@@ -669,12 +714,12 @@ async function main() {
             );
           }
         } catch (e) {
-          log(`  Exception: ${e.message || e}`);
-          progress.failedIds[item.id] = {
-            at: new Date().toISOString(),
-            error: String(e.message || e),
-          };
-          progress.stats.failed++;
+          // Network/DNS/abort: NEVER permanently burn the queue item
+          const msg = String(e.message || e);
+          log(`  Exception: ${msg}`);
+          item._retry = (item._retry || 0) + 1;
+          queue.push(item);
+          log(`  re-queued after exception (${item._retry}) — not marked failed`);
         }
 
         progress.lastRunAt = new Date().toISOString();
@@ -682,7 +727,14 @@ async function main() {
         saveQueueJsonl(paths.queue, queue);
         saveJson(paths.daily, daily);
 
-        if (downloadedThisRun > 0 && downloadedThisRun % rl.pauseEveryNFullText === 0) {
+        // Ban koruması: yalnız kararlar arası değişken gecikme (uzun toplu mola yok)
+        const everyN = Number(rl.pauseEveryNFullText) || 0;
+        if (
+          everyN > 0 &&
+          downloadedThisRun > 0 &&
+          downloadedThisRun % everyN === 0 &&
+          Number(rl.pauseMinMs) > 0
+        ) {
           await humanWait(rl.pauseMinMs, rl.pauseMaxMs, "long-pause", log);
         } else {
           await humanWait(

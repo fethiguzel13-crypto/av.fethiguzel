@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**İlişkiler, Çalışma ve İşbirliği Esasları**
+**ÜÇÜNCÜ KISIM
+İlişkiler, Çalışma ve İşbirliği Esasları**
 
 ---
 
-Madde 12 – (Değişik: 25/7/2016-KHK-668/12 md.; Aynen kabul: 8/11/2016
+Madde 12 – (Değişik: 25/7/2016-KHK-668/12 md.; Aynen kabul: 8/11/2016-
 6755/12 md.)
 Lüzum görüldüğü hallerde İçişleri Bakanı tarafından, Emniyet Genel Müdürlüğü, Sahil
 Güvenlik Komutanlığı ve Jandarma Genel Komutanlığı arasında her kademedeki personel,
@@ -21,8 +22,8 @@ Komutanlığı ve Jandarma Genel Komutanlığı silah, mühimmat, teçhizat, ta�
 ile taşınmazlarını birbirlerine geçici olarak tahsis edebilirler veya bedelsiz olarak devredebilirler.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar İçişleri Bakanlığınca yürürlüğe
 konulan yönetmelikle belirlenir.
-DÖRDÜNCÜ KISIM
-Personel, Kaynakları ve Özlük Hakları
+
+---
 
 ### Akademik Yorum ve Analiz
 

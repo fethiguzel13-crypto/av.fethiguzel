@@ -11,7 +11,7 @@ wordCount: 4287
 
 ---
 
-Madde 29 - Bir sözleşmenin ileride kurulmasına ilişkin sözleşmeler geçerlidir.
+MADDE 29- Bir sözleşmenin ileride kurulmasına ilişkin sözleşmeler geçerlidir.
 Kanunlarda öngörülen istisnalar dışında, önsözleşmenin geçerliliği, ileride kurulacak
 sözleşmenin şekline bağlıdır.
 

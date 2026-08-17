@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Dernek lokallerinin açılması ve işletilmesi**
+**cümle:21/11/2024-7533/30 md.)
+Dernek lokallerinin açılması ve işletilmesi**
 
 ---
 
@@ -21,15 +22,15 @@ itfaiye ve ambulans gibi müdahale ve yardım hizmetlerinin kolaylıkla ulaşama
 binaların ortak kullanılan bağımsız bölümlerinde, sabit veya seyyar olarak kullanılan kara,
 deniz, hava ve her çeşit taşıma araçlarında lokal açılamaz. Lokallerin açılmasına ilişkin
 usuller yönetmelikle düzenlenir.
-
-Lokalin hangi derneğe ait olduğunu belirten tabelanın dışarıdan ilk bakışta
+Lokalin hangi derneğe ait olduğunu belirten tabelanın dışarıdan ilk bakışta
 görülebilecek bir yere asılması zorunludur. Dernek lokallerinde bir sorumlu müdür bulunur.
 Dernek lokallerine mülki idare amiri tarafından alkollü içki izni verilebilmesi için lokalin
 içkili yer bölgesi içinde bulunması zorunludur. Dernek lokallerinde mülki idare amirinin
 kararıyla canlı müzik izni verilebilir.
 Dernek lokalleri, yönetim kurullarınca hazırlanan yönergeye göre işletilir. Lokallerin
 işletilmesine ilişkin usuller yönetmelikle düzenlenir.
-Dernek lokallerinin denetimi ve kapatılması
+
+---
 
 ### Akademik Yorum ve Analiz
 

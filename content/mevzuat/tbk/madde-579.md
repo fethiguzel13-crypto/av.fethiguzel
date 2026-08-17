@@ -11,7 +11,7 @@ wordCount: 4314
 
 ---
 
-Madde 579 - Garaj, otopark ve benzeri yerleri işletenler, kendilerine bırakılan veya
+MADDE 579- Garaj, otopark ve benzeri yerleri işletenler, kendilerine bırakılan veya
 çalışanlarınca kabul edilen hayvan, at arabası, bunlara ait koşum ve benzeri eşya ile motorlu
 taşıt ve eklentilerinin yok olmasından, zarara uğramasından veya çalınmasından
 sorumludurlar. Ancak işletenler, zararın saklatan veya ziyaretçisi ya da beraberinde veya

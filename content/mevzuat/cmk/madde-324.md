@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**Yargılama giderleri**
+**YEDİNCİ KİTAP
+Yargılama Giderleri ve Çeşitli Hükümler
+BİRİNCİ KISIM
+Yargılama Giderleri
+Yargılama giderleri**
 
 ---
 
@@ -26,6 +30,8 @@ giderin Devlet Hazinesine yüklenmesine karar verilir.
 (5) Türkçe bilmeyen ya da engelli olan şüpheli, sanık, mağdur veya tanık için
 görevlendirilen tercümanın giderleri, yargılama gideri sayılmaz ve bu giderler Devlet
 Hazinesince karşılanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

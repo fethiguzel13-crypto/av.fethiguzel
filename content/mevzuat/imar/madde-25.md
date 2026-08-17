@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**Yeminli serbest mimarlık ve mühendislik bürolarının sınıflandırılması**
+**1986/29 sayılı kararı ile.)
+Yeminli serbest mimarlık ve mühendislik bürolarının sınıflandırılması:**
 
 ---
 
 Madde 25 – (İptal: Anayasa Mahkemesinin 11/12/1986 tarihli ve E. 1985/11, K.
-1986/29 sayılı Kararı ile.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

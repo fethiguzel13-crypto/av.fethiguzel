@@ -7,13 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**III
-- Sattırma hakkı
+**III - Sattırma hakkı
 1. Şartlar**
 
 ---
 
-Madde 844 - (1) Vade gününde ala cağı ödenmemiş varant hamili, poliçe hamili gibi, protesto çektikten on gün sonra rehin hükümlerine göre tevdi edilen malları sattırabilir. (2) 841 inci maddede yazılı hâller satışa engel değildir.
+MADDE 844- (1) Vade gününde alacağı ödenmemiş varant hamili, poliçe hamili gibi,
+protesto çektikten on gün sonra rehin hükümlerine göre tevdi edilen malları sattırabilir.
+(2) 841 inci maddede yazılı hâller satışa engel değildir.
 
 ---
 

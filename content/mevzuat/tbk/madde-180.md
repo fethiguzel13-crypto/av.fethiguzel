@@ -11,7 +11,7 @@ wordCount: 4299
 
 ---
 
-Madde 180 - Alacaklı hiçbir zarara uğramamış olsa bile, kararlaştırılan cezanın ifası
+MADDE 180- Alacaklı hiçbir zarara uğramamış olsa bile, kararlaştırılan cezanın ifası
 gerekir.
 Alacaklının uğradığı zarar kararlaştırılan ceza tutarını aşıyorsa alacaklı, borçlunun
 kusuru bulunduğunu ispat etmedikçe aşan miktarı isteyemez.

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**Satılamıyan menkul mallar**
+**Satılamıyan menkul mallar:**
 
 ---
 
@@ -19,6 +19,8 @@ Menkul mallar yerinde veya başka yere götürüldüğü halde yine satılmaz ve
 giderlerinin çokluğu yüzünden başka yere götürülmesi uygun görülmezse yukardaki 15
 günlük sürenin bitmesinden itibaren 6 ay içinde pazarlıkla satılır. Bu suretle de satılamadığı
 takdirde haczedilen mallar borçluya geri verilebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

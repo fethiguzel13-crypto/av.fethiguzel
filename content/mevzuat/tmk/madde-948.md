@@ -7,18 +7,15 @@ lastReviewed: "2026-07-27"
 wordCount: 3610
 ---
 
-**Aynı taşınır üzerinde birden çok rehin hakkı bulunduğu takdirde,**
+**3. Rehnin sırası**
 
 ---
 
-Madde 948 - Aynı taşınır üzerinde birden çok rehin hakkı bulunduğu takdirde,
-alacaklılara rehin haklarının sırasına göre ödeme yapılır.
+Madde 948- Aynı taşınır üzerinde birden çok rehin hakkı bulunduğu takdirde, alacaklılara
+rehin haklarının sırasına göre ödeme yapılır.
+Rehin hakkının sırası kuruluş tarihine göre belirlenir.
 
-Rehin
-hakkının sırası kuruluş tarihine göre belirlenir.
-
-4.
-Mülkiyetin geçememesi
+---
 
 ### Akademik Yorum ve Analiz
 

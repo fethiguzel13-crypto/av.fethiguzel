@@ -24,11 +24,7 @@ Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin bir
 bakımından da emsali olarak belirlenen personel ile denk kabul edilir. 5510 sayılı Kanunun 4
 üncü maddesinin birinci fıkrasının (c) bendi kapsamında sigortalı iken Kurul Başkanı ve
 üyeliklerine atananlardan bu görevleri sona erenler veya bu görevlerinden ayrılma isteğinde
-2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu
-kararıyla” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-7
-
-bulunanların bu görevlerde geçen hizmet süreleri kazanılmış hak aylık, derece ve
+bulunanların bu görevlerde geçen hizmet süreleri kazanılmış hak aylık, derece ve
 kademelerinin tespitinde dikkate alınır. Bunlardan bu görevleri sırasında 5510 sayılı Kanunun
 geçici 4 üncü maddesi kapsamına girenlerin bu görevlerde geçen süreleri makam tazminatı ile
 temsil tazminatı ödenmesi gereken süre olarak değerlendirilir. Kamu kurum ve kuruluşlarında
@@ -49,17 +45,19 @@ yardımları kurumlarınca ödenmek kaydıyla geçici olarak Kurumda görevlendi
 Kurumun bu konudaki talepleri, ilgili kurum ve kuruluşlarca öncelikle sonuçlandırılır. Bu
 şekilde görevlendirilen personel, kurumlarından aylıklı izinli sayılır. Bu personelin izinli
 oldukları sürece memuriyetleri ile ilgileri ve özlük hakları devam ettiği gibi, bu süreler
-yükselme ve emekliliklerinde भी hesaba katılır ve yükselmeleri başkaca bir işleme gerek
+yükselme ve emekliliklerinde de hesaba katılır ve yükselmeleri başkaca bir işleme gerek
 duyulmadan süresinde yapılır. Bu madde kapsamında görevlendirilenlerin, Kurumda
 geçirdikleri süreler, kendi kurumlarında geçirilmiş sayılır. Bu şekilde görevlendirilenlerin
 sayısı Kişisel Verileri Koruma Uzmanı ve Kişisel Verileri Koruma Uzman Yardımcısı toplam
 kadro sayısının yüzde onunu aşamaz ve görevlendirme süresi iki yılı geçemez. Ancak ihtiyaç
-hâlinde bu süre bir yıllık dönemler hâlinde uzatılabilir.8
+hâlinde bu süre bir yıllık dönemler hâlinde uzatılabilir.
 (5) Kurumda istihdam edilecek personele ilişkin kadro unvan ve sayıları ekli (I) sayılı
 cetvelde gösterilmiştir. Toplam kadro sayısını geçmemek üzere 13/12/1983 tarihli ve 190
 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki cetvellerde yer
 alan kadro unvanlarıyla sınırlı olmak kaydıyla unvan ve derece değişikliği yapma, yeni unvan
 ekleme ve boş kadroların iptali Kurul kararıyla yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

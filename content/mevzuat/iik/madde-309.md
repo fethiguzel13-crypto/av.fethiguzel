@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**Şartları ve hükümleri**
+**108109
+III. İFLÂSTAN SONRA KONKORDATO
+Şartları ve hükümleri:**
 
 ---
 
@@ -16,6 +18,9 @@ Madde 309 – (Değişik: 28/2/2018-7101/39 md.)
 alacaklılarından biri konkordato işlemlerinin başlatılmasını isterse, iflâs idaresi, görüşüyle
 beraber ikinci alacaklılar toplanmasında veya daha sonra müzakere edilmek üzere alacaklılara
 bu talebi bildirir.
+Bu maddenin başlığı “İflâstan sonra konkordato” iken, 17/7/2003 tarihli ve 4949 sayılı Kanunun 83 üncü
+maddesiyle, “Şartları ve hükümleri” şeklinde değiştirilmiş, üst başlık olarak “II. İFLÂSTAN SONRA
+KONKORDATO” ibaresi eklenmiştir.
 302 ilâ 307 nci maddeler ile 308/a ilâ 308/g maddeleri burada da uygulanır. Komisere
 ait görevler iflâs idaresi tarafından yapılır.
 Konkordato talebinin alacaklılar tarafından kabul edildiği toplantının yapıldığı
@@ -25,8 +30,8 @@ Konkordato hakkında verilen karar iflâs idaresine bildirilir.
 Konkordatonun tasdiki kararının kesinleşmesi üzerine iflâs idaresi iflâsa hükmeden
 mahkemeden iflâsın kaldırılmasını ister.
 İflâstan sonra konkordato iflâs tasfiyesi içinde ancak bir defa istenebilir.
-IV. MALVARLIĞININ TERKİ SURETİYLE KONKORDATO110111
-Genel olarak:
+
+---
 
 ### Akademik Yorum ve Analiz
 

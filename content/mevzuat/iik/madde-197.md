@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4321
 ---
 
-**Şarta muallak alacaklar**
+**Şarta muallak alacaklar:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 197 – Alacaklı talikı bir şarta veya gayri muayyen bir vadeye muallak
 alacağını da kaydettirebilir. Fakat hissesini şartın tahakkukunda veya vadenin hulülünde alır.
 Kaydı hayatla irat mukavelenamesinden doğan iddialarda Borçlar Kanununun 509
 uncu maddesinin 3 üncü fıkrası hükmü caridir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

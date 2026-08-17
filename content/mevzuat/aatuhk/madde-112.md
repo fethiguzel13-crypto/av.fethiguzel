@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Mal edinme ve artmalarını bildirmiyenler**
+**Mal edinme ve artmalarını bildirmiyenler:**
 
 ---
 
@@ -16,6 +16,8 @@ Usulü dairesinde mal bildiriminde bulunduktan sonra, edinilen mallarla, her tü
 mallarında, kazanç ve gelirlerinde olan artmaları 61 inci madde hükümleri gereğince
 zamanında bildirmemek suretiyle amme alacağının tahsilini engellemiş veya zorlaştırmış
 olanlar bir seneye kadar hapis cezası ile cezalandırılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

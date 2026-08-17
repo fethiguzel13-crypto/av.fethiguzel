@@ -12,7 +12,10 @@ wordCount: 4315
 
 ---
 
-Madde 391 - Aile yurdu hâline getirilen taşı nmazlar devrolunamaz, rehnedileme z ve kiraya verilemez. Aile yurdu ve eklentileri hakkında, mahkeme eliyle y önetim hâli saklı kalmak ka ydıyla, ceb rî icr a yoluna başvurulamaz.
+Madde 391- Aile yurdu hâline getirilen taşınmazlar devrolunamaz, rehnedilemez ve
+kiraya verilemez.
+Aile yurdu ve eklentileri hakkında, mahkeme eliyle yönetim hâli saklı kalmak kaydıyla,
+cebrî icra yoluna başvurulamaz.
 
 ---
 

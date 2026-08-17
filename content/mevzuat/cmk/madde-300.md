@@ -18,6 +18,8 @@ gerçekleştikten sonra duruşma açılır.
 Cumhuriyet savcısı, sanık, müdafii, katılan ve vekili iddia ve savunmalarını açıklar. Temyizi
 istemiş olan tarafa önce söz verilir. Her hâlde son söz sanığındır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

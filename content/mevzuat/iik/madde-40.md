@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4277
 ---
 
-**İcranın iadesi**
+**İcranın iadesi:**
 
 ---
 
@@ -20,6 +20,8 @@ Yargıtayca bozulup da aleyhine icra takibi yapılmış olan kimsenin hiç veya 
 olmadığı kesin bir ilâmla tahakkuk ederse, ayrıca hükme hacet kalmaksızın icra tamamen
 veya kısmen eski hâline iade olunur.
 Ancak üçüncü şahısların hüsnü niyetle kazandıkları haklara halel gelmez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

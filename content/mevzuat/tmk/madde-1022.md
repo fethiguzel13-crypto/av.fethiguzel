@@ -7,12 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**II. Tescilin sonuçları 46 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzük le” ibare s i “Cumhurbaşkanınca çıka rılan yönetmelikle” şeklinde değiştirilmiştir.
-1. Genel olarak**
+**1. Genel olarak**
 
 ---
 
-Madde 1022 - Aynî haklar, kütüğe tescil ile doğar ; sıralarını ve tarihlerini tescile göre alır. Tescilin etkisi, kanunen öngörülen belgele r isteme eklenmiş veya geçici tescil hâlinde belgelerin uygun zamanda tamamlanmış olması koşuluyla yevmi ye defterine yapılan kayıt tarihinden başlar. Bir hakkın içer iği, tescilin sınırları içinde, dayandığı belgelere göre veya diğer herhangi bir yolla bel irlenir.
+Madde 1022- Aynî haklar, kütüğe tescil ile doğar; sıralarını ve tarihlerini tescile göre alır.
+Tescilin etkisi, kanunen öngörülen belgeler isteme eklenmiş veya geçici tescil hâlinde
+belgelerin uygun zamanda tamamlanmış olması koşuluyla yevmiye defterine yapılan kayıt
+tarihinden başlar.
+Bir hakkın içeriği, tescilin sınırları içinde, dayandığı belgelere göre veya diğer herhangi
+bir yolla belirlenir.
 
 ---
 

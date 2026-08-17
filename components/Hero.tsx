@@ -48,7 +48,7 @@ export default function Hero() {
 
       <div className="relative z-10 w-full max-w-7xl mx-auto px-5 sm:px-6 pt-32 pb-14 sm:pb-20 md:pb-28">
         <div className="max-w-4xl">
-          <div className="hero-fade inline-flex items-center gap-2.5 mb-5 sm:mb-7 px-3.5 py-1.5 rounded-full bg-cream/8 border border-cream/12 backdrop-blur-md">
+          <div className="hero-fade inline-flex items-center gap-2.5 mb-5 sm:mb-7 px-3.5 py-1.5 rounded-full bg-cream/[0.08] border border-cream/[0.12] backdrop-blur-md">
             <div className="w-1.5 h-1.5 bg-accent rounded-full animate-pulse shrink-0" />
             <span className="font-mono text-accent text-[10px] sm:text-[11px] tracking-[0.22em] uppercase">
               Türk Hukuku · Akademik Portal
@@ -72,7 +72,7 @@ export default function Hero() {
             {STAT_ITEMS.map((s) => (
               <div
                 key={s.label}
-                className="px-3 sm:px-5 py-3 rounded-2xl bg-cream/6 border border-cream/10 backdrop-blur-sm text-center min-w-[4.5rem]"
+                className="px-3 sm:px-5 py-3 rounded-2xl bg-cream/[0.06] border border-cream/10 backdrop-blur-sm text-center min-w-[4.5rem]"
               >
                 <span className="block text-xl sm:text-2xl font-bold text-accent font-heading tracking-tight">
                   {s.num}
@@ -112,7 +112,7 @@ export default function Hero() {
             </Link>
             <Link
               href="/hesaplama"
-              className="group flex items-center justify-center gap-2 sm:gap-3 bg-cream/12 backdrop-blur-md text-cream border border-cream/20 px-6 py-3.5 sm:py-4 rounded-full font-bold text-sm transition-all hover:bg-cream/20 hover:-translate-y-0.5"
+              className="group flex items-center justify-center gap-2 sm:gap-3 bg-cream/[0.12] backdrop-blur-md text-cream border border-cream/20 px-6 py-3.5 sm:py-4 rounded-full font-bold text-sm transition-all hover:bg-cream/20 hover:-translate-y-0.5"
             >
               <Calculator size={16} className="shrink-0" />
               <span>HESAPLAMA</span>

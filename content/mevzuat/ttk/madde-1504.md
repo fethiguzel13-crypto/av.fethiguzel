@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**XV
-- Sigorta ettiren veya lehtarın sigortalıyı öldürmesi**
+**XV - Sigorta ettiren veya lehtarın sigortalıyı öldürmesi**
 
 ---
 
-Madde 1504 - (1) Sigorta ettiren, sigorta bedelini ödeme borcunun doğmasını sağlamak ama cıyla sigortalıyı öldürür veya öldürülmesinde suç ortaklığı ederse, sigortacı bedel ödeme borcundan kurtulur. (2) Lehtar, sigortalıyı öldürmüş veya onun öldürülmesinde herhangi bir şekilde suç ortaklığı etmişse, sigorta bedelinden mahrum kalır ve bu bedel ölenin mirasçılarına ödenir.
+MADDE 1504- (1) Sigorta ettiren, sigorta bedelini ödeme borcunun doğmasını
+sağlamak amacıyla sigortalıyı öldürür veya öldürülmesinde suç ortaklığı ederse, sigortacı
+bedel ödeme borcundan kurtulur.
+(2) Lehtar, sigortalıyı öldürmüş veya onun öldürülmesinde herhangi bir şekilde suç
+ortaklığı etmişse, sigorta bedelinden mahrum kalır ve bu bedel ölenin mirasçılarına ödenir.
 
 ---
 

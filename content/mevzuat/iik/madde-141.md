@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**Cetvel suretlerinin tebliği**
+**Cetvel suretlerinin tebliği:**
 
 ---
 
 Madde 141 – Sıra cetvelinin birer sureti icra dairesi tarafından alakadarlara tebliğ
 edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

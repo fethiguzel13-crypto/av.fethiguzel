@@ -17,6 +17,8 @@ bu hususta zabıt kâtibine bir tutanak düzenlenmesi için başvurulması suret
 süresi içinde olguları ile birlikte ortaya koymakla yükümlüdür.
 (3) Reddi istenen hâkim, ret sebepleri hakkındaki görüşlerini yazılı olarak bildirir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

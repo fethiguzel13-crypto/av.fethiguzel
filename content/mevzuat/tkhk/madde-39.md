@@ -22,7 +22,9 @@ ortakları da tüketici olarak kabul edilir.
 (4) Sözleşme öncesi bilgilendirme, tüketici ile konut finansmanı kuruluşunun hak ve
 yükümlülükleri, sözleşmenin zorunlu içeriği, konut finansmanı reklamları, yeniden
 finansman, bağlı kredi, temerrüt, erken ödeme ve yıllık maliyet oranının hesaplanması ile
-other hususlara ilişkin usul ve esaslar yönetmelikle belirlenir.
+diğer hususlara ilişkin usul ve esaslar yönetmelikle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

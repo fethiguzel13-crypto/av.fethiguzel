@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**Görev ve kuruluş**
+**ÜÇÜNCÜ BÖLÜM
+Tadilat Komisyonları
+Görev ve kuruluş:**
 
 ---
 
@@ -16,6 +18,8 @@ tarafından yapılır.
 Bu komisyonlar, mahallin en büyük mülkiye memurunun vergi dairesi müdürü
 olmıyan gelir memurları arasından seçeceği bir başkan ile iki üyeden kurulur.
 Lüzum görülen yerlerde birden fazla tadilat komisyonu kurulması caizdir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

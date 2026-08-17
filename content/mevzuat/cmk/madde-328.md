@@ -15,6 +15,8 @@ Madde 328 – (1) Karşılıklı hakaret hâllerinde taraflardan biri veya her i
 ceza verilmesine yer olmadığı kararının verilmesi; bunlardan birinin veya her ikisinin
 giderleri karşılamaya mahkûm edilmelerine engel olmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

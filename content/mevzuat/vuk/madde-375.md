@@ -7,15 +7,10 @@ lastReviewed: "2026-07-27"
 wordCount: 3571
 ---
 
-**Vergi cezalarında yapılan hatalar, bu kanunda vergi**
+Madde 375 – Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli
+edilen usul ve şartlara göre düzeltilir.
 
 ---
-
-Madde 375 - Vergi cezalarında yapılan hatalar, bu kanunda vergi
-hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Vergi
-ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
 
 ### Akademik Yorum ve Analiz
 

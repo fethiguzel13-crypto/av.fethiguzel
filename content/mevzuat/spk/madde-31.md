@@ -7,10 +7,6 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Borçlanma aracı niteliğindeki sermaye piyasası araçlarının ihraç limiti ve yetkisi**
-
----
-
 MADDE 31 – (1) İhraççıların ihraç edebilecekleri borçlanma aracı niteliğindeki sermaye
 piyasası araçlarının toplam tutarı, Kurulca belirlenecek limiti geçemez. Kurul, ihracın, ihraç edilen
 borçlanma aracının ve ihraççıların niteliğine göre farklı limitler belirleyebilir.
@@ -26,7 +22,7 @@ yükümlülüklerini yerine getirmemesi nedeniyle, MKK tarafından düzenlenip h
 verilen belge 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununun 68 inci maddesinin
 birinci fıkrasında belirtilen belgelerden sayılır.
 
-Borçlanma aracı sahipleri kurulu
+---
 
 ### Akademik Yorum ve Analiz
 

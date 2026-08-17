@@ -16,6 +16,8 @@ açıklanması ve yargılamanın hangi aşamada bulunduğunun belirtilmesi gerek
 (2) Davanın ihbarı sebebiyle yargılama bir başka güne bırakılamaz ve ihbarın tevali
 etmesi gibi zorunlu olan durumlar dışında süre verilemez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

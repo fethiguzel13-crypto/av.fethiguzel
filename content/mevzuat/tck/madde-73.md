@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**Soruşturulması ve kovuşturulması şikayete bağlı suçlar23**
+**Soruşturulması ve kovuşturulması şikayete bağlı suçlar**
 
 ---
 
@@ -28,7 +28,8 @@ de kapsar.
 (7) Kamu davasının düşmesi, suçtan zarar gören kişinin şikayetten vazgeçmiş
 olmasından ileri gelmiş ve vazgeçtiği sırada şahsi haklarından da vazgeçtiğini ayrıca açıklamış
 ise artık hukuk mahkemesinde de dava açamaz.
-(8) (Mülga: 6/12/2006 – 5560/45 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

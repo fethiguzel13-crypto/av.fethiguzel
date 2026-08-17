@@ -16,8 +16,7 @@ Madde 142 – (1) Karar veya hükümlerin kesinleştiğinin ilgilisine tebliğin
 isteminde bulunulabilir.
 (2) İstem, zarara uğrayanın oturduğu yer ağır ceza mahkemesinde ve eğer o yer ağır
 ceza mahkemesi tazminat konusu işlemle ilişkili ise ve aynı yerde başka bir ağır ceza dairesi
-
-yoksa, en yakın yer ağır ceza mahkemesinde karara bağlanır. (Ek cümleler:2/3/2024-7499/13
+yoksa, en yakın yer ağır ceza mahkemesinde karara bağlanır. (Ek cümleler:2/3/2024-7499/13
 md.) Ancak, 141 inci maddenin birinci fıkrasının (e), (f) ve (l) bentleri kapsamındaki istemler
 bakımından 9/1/2013 tarihli ve 6384 sayılı Tazminat Komisyonunun Görevleri ile Çalışma
 Usul ve Esasları Hakkında Kanun hükümleri uygulanır. Bu fıkra uyarınca 6384 sayılı Kanun
@@ -32,7 +31,7 @@ ay içinde giderilmesini, aksi hâlde istemin reddedileceğini ilgiliye duyurur.
 tamamlanmayan dilekçe, mahkemece, itiraz yolu açık olmak üzere reddolunur.
 (5) Mahkeme, dosyayı inceledikten sonra yeterliliğini belirlediği dilekçe ve eki
 belgelerin bir örneğini Devlet Hazinesinin kendi yargı çevresindeki temsilcisine tebliğ ederek,
-varsa beyan ve itirazlarını iki hafta içinde yazılı olarak bildirmesini ister.51
+varsa beyan ve itirazlarını iki hafta içinde yazılı olarak bildirmesini ister.
 (6) İstemin ve ispat belgelerinin değerlendirilmesinde ve tazminat hukukunun genel
 prensiplerine göre verilecek tazminat miktarının saptanmasında mahkeme gerekli gördüğü her
 türlü araştırmayı yapmaya veya hâkimlerinden birine yaptırmaya yetkilidir.
@@ -55,9 +54,7 @@ icra takibine konulamaz. Kesinleşen mahkeme kararında hükmedilen tazminat ile
 bu bildirimin yapıldığı tarihten itibaren otuz gün içinde ödenir. Bu süre içinde ödeme
 yapılmaması halinde, karar genel hükümler dairesinde infaz ve icra olunur.
 
-2/3/2024 tarihli ve 7499 sayılı Kanunun 13 üncü maddesi ile bu fıkrada yer alan “onbeş gün” ibaresi “iki
-hafta” şeklinde değiştirilmiştir.
-51
+---
 
 ### Akademik Yorum ve Analiz
 

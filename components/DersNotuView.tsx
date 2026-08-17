@@ -23,7 +23,7 @@ function ProcessDiagram({ title, steps }: { title: string; steps: string[] }) {
               {i < steps.length - 1 && <span className="w-0.5 flex-1 min-h-[1.25rem] bg-accent/30" />}
             </div>
             <div className="flex-1 pb-4">
-              <div className="rounded-xl border border-charcoal/8 bg-charcoal/[0.02] px-4 py-3 text-sm sm:text-[15px] text-charcoal/80 font-medium leading-snug">
+              <div className="rounded-xl border border-charcoal/[0.08] bg-charcoal/[0.02] px-4 py-3 text-sm sm:text-[15px] text-charcoal/80 font-medium leading-snug">
                 {step}
               </div>
             </div>
@@ -50,7 +50,7 @@ function CompareDiagram({
       </figcaption>
       <table className="w-full text-sm mt-3 min-w-[320px]">
         <thead>
-          <tr className="bg-charcoal/[0.04] border-y border-charcoal/8">
+          <tr className="bg-charcoal/[0.04] border-y border-charcoal/[0.08]">
             {headers.map((h) => (
               <th key={h} className="text-left px-4 py-2.5 font-bold text-charcoal text-xs uppercase tracking-wide">
                 {h}
@@ -1046,7 +1046,7 @@ export function DersNotuView({
             </li>
           </ul>
           {note.examBox.tips?.length > 0 && (
-            <ul className="mt-4 pt-3 border-t border-charcoal/8 space-y-1 m-0 p-0 list-none">
+            <ul className="mt-4 pt-3 border-t border-charcoal/[0.08] space-y-1 m-0 p-0 list-none">
               {note.examBox.tips.map((t) => (
                 <li key={t} className="text-xs text-charcoal/60 flex gap-1.5">
                   <span className="text-accent">✓</span> {t}
@@ -1070,7 +1070,7 @@ export function DersNotuView({
       {/* İçindekiler */}
       <nav
         aria-label="İçindekiler"
-        className="mb-10 rounded-2xl border border-charcoal/8 bg-charcoal/[0.02] p-5 print:hidden"
+        className="mb-10 rounded-2xl border border-charcoal/[0.08] bg-charcoal/[0.02] p-5 print:hidden"
       >
         <p className="text-[11px] font-mono uppercase tracking-wider text-charcoal/45 mb-3 font-bold">
           İçindekiler
@@ -1138,7 +1138,7 @@ export function DersNotuView({
                 {sec.bullets.map((b) => (
                   <li
                     key={b}
-                    className="flex gap-2.5 rounded-xl border border-charcoal/8 bg-white px-3.5 py-2.5 text-sm text-charcoal/75"
+                    className="flex gap-2.5 rounded-xl border border-charcoal/[0.08] bg-white px-3.5 py-2.5 text-sm text-charcoal/75"
                   >
                     <span className="text-accent font-bold shrink-0">•</span>
                     <span className="leading-snug">{b}</span>
@@ -1184,7 +1184,7 @@ export function DersNotuView({
                   </p>
                   <p className="text-sm text-charcoal/70 leading-relaxed m-0">{ex.facts}</p>
                 </div>
-                <div className="rounded-xl bg-charcoal/[0.03] border border-charcoal/8 px-3.5 py-3">
+                <div className="rounded-xl bg-charcoal/[0.03] border border-charcoal/[0.08] px-3.5 py-3">
                   <p className="text-[10px] font-mono uppercase tracking-wider text-accent font-bold m-0 mb-1">
                     Çözüm iskeleti
                   </p>
@@ -1207,7 +1207,7 @@ export function DersNotuView({
           {note.checklist.map((c, i) => (
             <li
               key={c}
-              className="flex gap-3 rounded-xl border border-charcoal/8 bg-white px-3 py-2.5 text-sm text-charcoal/75"
+              className="flex gap-3 rounded-xl border border-charcoal/[0.08] bg-white px-3 py-2.5 text-sm text-charcoal/75"
             >
               <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-md border border-charcoal/15 text-[11px] font-bold text-charcoal/40">
                 {i + 1}
@@ -1250,7 +1250,7 @@ export function DersNotuView({
             {note.sources.map((s) => (
               <li
                 key={s.url}
-                className="rounded-xl border border-charcoal/8 bg-white px-3 py-2.5 text-sm"
+                className="rounded-xl border border-charcoal/[0.08] bg-white px-3 py-2.5 text-sm"
               >
                 <a
                   href={s.url}

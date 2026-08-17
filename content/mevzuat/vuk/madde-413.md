@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Mükelleflerin izahat talebi:169**
+**itibaren mülgadır.)
+Mükelleflerin izahat talebi:**
 
 ---
 
@@ -18,11 +19,7 @@ gördükleri hususlar hakkında yazı ile izahat isteyebilir.
 Gelir İdaresi Başkanlığı, kendisinden istenecek izahatı özelge ile cevaplandırabileceği
 gibi, aynı durumda olan tüm mükellefler bakımından uygulamaya yön vermek ve açıklık
 getirmek üzere sirküler de yayımlayabilir.
-Bu madde başlığı “Mükelleflerin izahat talebinde bulunabilecekleri:”iken, 23/7/2010 tarihli ve 6009 sayılı
-Kanunun 15 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-169
-
-Sirküler ve özelgeler, Gelir İdaresi Başkanlığı bünyesinde, Gelir İdaresi Başkanı veya
+Sirküler ve özelgeler, Gelir İdaresi Başkanlığı bünyesinde, Gelir İdaresi Başkanı veya
 tevkil edeceği bir başkan yardımcısının başkanlığında en az üç daire başkanından müteşekkil
 bir komisyon marifetiyle oluşturulur.
 Söz konusu komisyonda oluşturulmuş sirküler veya özelgeler ile konu, kapsam ve
@@ -34,7 +31,7 @@ Sirküler ve vergi mahremiyetine ilişkin hükümler gözönünde bulundurulmak 
 Bu maddenin uygulanmasına ilişkin usul ve esaslar Maliye Bakanlığınca çıkarılan
 yönetmelikle belirlenir.
 Katılma payı:
-Mükerrer Madde 413- (Ek:27/12/2023-7491/15 md.)170
+Mükerrer Madde 413- (Ek:27/12/2023-7491/15 md.)
 Gelir İdaresi Başkanlığı sistemlerinde yer alan ve bu Kanunun 5 inci maddesi
 kapsamında üçüncü kişilerle paylaşılabilecek bilgilerin; anılan madde hükümleri çerçevesinde
 genel yönetim kapsamındaki kamu idareleri dışındaki kamu kurum ve kuruluşları ve tüzel
@@ -54,20 +51,18 @@ Katılma payları, takvim yılının üçer aylık dönemleri itibarıyla Gelir 
 tarafından paylaşılan veriler üzerinden hesaplanır ve üç aylık dönemi takip eden ayın sonuna
 kadar veri paylaşılanlara bildirilir. Katılma payları bildirimin yapıldığı ayı izleyen ayın
 sonuna kadar Bakanlık merkez muhasebe birimine ödenir.
-
 Bu maddeye kanunla getirilen miktarlar aynen korunmuş olup, daha sonra 30/12/2025 tarihli ve 33124 (5.
 Mükerrer) ) sayılı Resmî Gazete'de yayımlanan Hazine ve Maliye Bakanlığının (Gelir İdaresi Başkanlığı) 588
 Sıra No.’lu Tebliği ile 1/1/2026 tarihinden geçerli olmak üzere tespit edilen miktarlar metne parantez içinde
 siyah punto ile işlenmiştir. Daha önce yapılan değişiklikler için bu Kanunun sonundaki "ÇEŞİTLİ MEVZUAT
 İLE YAPILAN DEĞİŞİKLİKLER CETVELİ" ne bakınız.
-170
-
-Süresinde ödeme yapmayanlarla ödeme yapılıncaya kadar bilgi paylaşımı yapılmaz.
+Süresinde ödeme yapmayanlarla ödeme yapılıncaya kadar bilgi paylaşımı yapılmaz.
 Süresinde ödenmeyen katılma payları gecikme zammı ile birlikte 6183 sayılı Kanun
 hükümlerine göre vergi dairelerince takip ve tahsil edilir.
 Bu maddenin uygulamasına ilişkin usul ve esaslar Hazine ve Maliye Bakanlığınca
 belirlenir.
-Son Hükümler
+
+---
 
 ### Akademik Yorum ve Analiz
 

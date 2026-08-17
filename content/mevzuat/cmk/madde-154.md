@@ -21,6 +21,8 @@ tanımlanan suçlar ve Terörle Mücadele Kanunu kapsamına giren suçlar ile ö
 gözaltındaki şüphelinin müdafi ile görüşme hakkı Cumhuriyet savcısının istemi üzerine, hâkim
 kararıyla yirmidört saat süreyle kısıtlanabilir; bu zaman zarfında ifade alınamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -11,7 +11,12 @@ wordCount: 4315
 
 ---
 
-Madde 1024 - Bir aynî hak yol suz olarak tescil edilmiş ise, bunu bilen veya bilmesi gereken üçüncü kişi bu tescile dayanamaz. Bağlay ıcı olmayan bir hukukî işleme dayanan veya hukukî sebepten yok sun bulunan tescil yolsuzdur. Böyle bir tescil yüzünden aynî hakkı zedelenen kimse, tesci lin yolsuz olduğunu iyiniyetli olmayan üçüncü kişilere karşı doğrudan doğruya ileri sürebilir.
+Madde 1024- Bir aynî hak yolsuz olarak tescil edilmiş ise, bunu bilen veya bilmesi
+gereken üçüncü kişi bu tescile dayanamaz.
+Bağlayıcı olmayan bir hukukî işleme dayanan veya hukukî sebepten yoksun bulunan
+tescil yolsuzdur.
+Böyle bir tescil yüzünden aynî hakkı zedelenen kimse, tescilin yolsuz olduğunu iyiniyetli
+olmayan üçüncü kişilere karşı doğrudan doğruya ileri sürebilir.
 
 ---
 

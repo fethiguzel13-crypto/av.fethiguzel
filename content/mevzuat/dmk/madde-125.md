@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**Disiplin cezalarının çeşitleri ile ceza uygulanacak fiil ve haller**
+**Disiplin cezalarının çeşitleri ile ceza uygulanacak fiil ve haller:**
 
 ---
 
@@ -92,7 +92,7 @@ k) Açıklanması yasaklanan bilgileri açıklamak,
 l) Amirine, maiyetindekilere, iş arkadaşları veya iş sahiplerine hakarette bulunmak
 veya bunları tehdit etmek,
 m) Diplomatik statüsünden yararlanmak suretiyle yurt dışında, haklı bir sebep
-gösterkmeksizin ödeme kabiliyetinin üstünde borçlanmak ve borçlarını ödemedeki tutum ve
+göstermeksizin ödeme kabiliyetinin üstünde borçlanmak ve borçlarını ödemedeki tutum ve
 davranışlarıyla Devlet itibarını zedelemek veya zorunlu bir sebebe dayanmaksızın borcunu
 ödemeden yurda dönmek,
 n) Verilen görev ve emirleri kasten yapmamak,
@@ -104,11 +104,11 @@ a) İdeolojik veya siyasi amaçlarla kurumların huzur, sükün ve çalışma d�
 bozmak, boykot, işgal, kamu hizmetlerinin yürütülmesini engelleme, işi yavaşlatma ve grev
 gibi eylemlere katılmak veya bu amaçlarla toplu olarak göreve gelmemek, bunları tahrik ve
 teşvik etmek veya yardımda bulunmak,
-b) Yasaklenmiş her türlü yayını veya siyasi veya ideolojik amaçlı bildiri, afiş, pankart,
+b) Yasaklanmış her türlü yayını veya siyasi veya ideolojik amaçlı bildiri, afiş, pankart,
 bant ve benzerlerini basmak, çoğaltmak, dağıtmak veya bunları kurumların herhangi bir
 yerine asmak veya teşhir etmek,
 c) Siyasi partiye girmek,
-d) Özürsüz olarak (...) bir yılda toplam 20 gün göreve gelmemek,
+d) Özürsüz olarak (...)bir yılda toplam 20 gün göreve gelmemek,
 e) Savaş, olağanüstü hal veya genel afetlere ilişkin konularda amirlerin verdiği
 görev veya emirleri yapmamak,
 f) (Değişik: 13/2/2011 - 6111/111 md.) Amirlerine, maiyetindekilere ve iş sahiplerine
@@ -140,6 +140,8 @@ gerektiren hallerde, brüt aylıklarının ¼’ü – ½’si kesilir ve tekerr
 Yukarıda yazılı disiplin kovuşturmasının yapılmış olması, fiilin genel hükümler
 kapsamına girmesi halinde, sanık hakkında ayrıca ceza kovuşturması açılmasına engel teşkil
 etmez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

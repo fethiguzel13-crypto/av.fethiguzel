@@ -11,7 +11,7 @@ wordCount: 4314
 
 ---
 
-Madde 594 - Asıl borçlu, anaparanın veya yarım yıllık döneme ait faizin
+MADDE 594- Asıl borçlu, anaparanın veya yarım yıllık döneme ait faizin
 ödenmesinde ya da yıldan yıla yapılması öngörülen anapara ödemelerinde altı ay gecikirse,
 alacaklının durumu kefile bildirmesi gerekir. İstek hâlinde alacaklı, her zaman asıl borcun
 kapsamı hakkında kefile bilgi vermek zorundadır.

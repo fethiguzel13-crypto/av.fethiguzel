@@ -45,7 +45,7 @@ export default function TrustBar() {
             className="relative z-20 -mt-6 sm:-mt-10 px-5 sm:px-6"
         >
             <div className="max-w-7xl mx-auto">
-                <div className="surface-card px-4 py-5 sm:px-8 sm:py-7 shadow-lift border-charcoal/8">
+                <div className="surface-card px-4 py-5 sm:px-8 sm:py-7 shadow-lift border-charcoal/[0.08]">
                     <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6 sm:mb-7">
                         <div>
                             <p className="section-label mb-1.5">Neden bu portal?</p>

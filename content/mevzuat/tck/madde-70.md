@@ -14,6 +14,8 @@ wordCount: 4286
 Madde 70- (1) Müsadereye ilişkin hüküm, kesinleşmeden itibaren yirmi yıl geçtikten
 sonra infaz edilmez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

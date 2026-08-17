@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**İtirazın incelenmesi**
+**İtirazın incelenmesi:**
 
 ---
 
@@ -15,8 +15,7 @@ Madde 169/a – (Ek: 18/2/1965-538/83 md.)
 (Değişik birinci fıkra: 17/7/2003-4949/46 md.) İcra mahkemesi hâkimi, itiraz
 sebeplerinin tahkiki için iki tarafı en geç otuz gün içinde duruşmaya çağırır. Hâkim, duruşma
 sonucunda borcun olmadığının veya itfa veya imhal edildiğinin resmî veya imzası ikrar
-
-edilmiş bir belge ile ispatı hâlinde itirazı kabul eder. İcra mahkemesi hâkimi yetki itirazının
+edilmiş bir belge ile ispatı hâlinde itirazı kabul eder. İcra mahkemesi hâkimi yetki itirazının
 incelenmesinde taraflar gelmese de gereken kararı verir.
 (Değişik ikinci fıkra: 17/7/2003-4949/46 md.) İcra mahkemesi hâkimi, borçlunun
 itiraz dilekçesine ekli olarak ibraz ettiği belgelerden borcun itfa veya imhal edildiği veya
@@ -49,15 +48,12 @@ veya ağır kusuru bulunan alacaklı, takip konusu alacağın yüzde yirmisinden
 üzerine takip konusu alacağın yüzde yirmisinden aşağı olmamak üzere tazminata mahkûm
 edilir. Borçlu, menfi tespit ve istirdat davası açarsa yahut alacaklı genel mahkemede dava
 açarsa, hükmolunan tazminatın tahsili dava sonuna kadar tehir olunur ve dava lehine
-sonuçlanan taraf için, daha önce hükmedilmiş olan tazminat kalkar.65
+sonuçlanan taraf için, daha önce hükmedilmiş olan tazminat kalkar.
 (Değişik son fıkra: 2/3/2005-5311/13 md.) İtirazın reddi kararına karşı istinaf yoluna
 başvurulması, hiçbir icra muamelesini durdurmaz. Şu kadar ki, borçlu 33 üncü maddenin
 üçüncü fıkrasına göre teminat gösterirse icra durur.
-2/7/2012 tarihli ve 6352 sayılı Kanunun 34 üncü maddesiyle, bu fıkranın birinci cümlesinde yer alan “yüzde
-kırktan” ibaresi “yüzde yirmisinden” olarak değiştirilmiştir.
-65
 
-b) İmzaya itiraz:
+---
 
 ### Akademik Yorum ve Analiz
 

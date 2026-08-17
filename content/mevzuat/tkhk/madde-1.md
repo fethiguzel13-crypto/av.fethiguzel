@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**Amaç**
+**TÜKETİCİNİN KORUNMASI HAKKINDA KANUN
+BİRİNCİ KISIM
+Amaç, Kapsam ve Tanımlar
+Amaç**
 
 ---
 
@@ -16,6 +19,8 @@ güvenliği ile ekonomik çıkarlarını koruyucu, zararlarını tazmin edici, �
 korunmasını sağlayıcı, tüketiciyi aydınlatıcı ve bilinçlendirici önlemleri almak, tüketicilerin
 kendilerini koruyucu girişimlerini özendirmek ve bu konulardaki politikaların oluşturulmasında
 gönüllü örgütlenmeleri teşvik etmeye ilişkin hususları düzenlemektir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

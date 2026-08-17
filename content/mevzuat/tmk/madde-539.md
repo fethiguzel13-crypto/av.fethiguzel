@@ -8,11 +8,17 @@ wordCount: 4269
 ---
 
 **4. Sözlü vasiyet
-a. Son arzu ları anlatma**
+a. Son arzuları anlatma**
 
 ---
 
-Madde 539 - Mirasbırakan; yakın ölüm tehlikesi, ulaşımın kesilmesi, h astalık, savaş gibi olağanü stü durumlar yüzünden resmî veya el ya zılı v asiyet name yapamıyorsa, sözlü vasiyet yoluna başvurabilir. Bunun için mirasbırakan, son arzularını iki tanığa anlatır ve onlara bu beyanına uygun b ir vasiyetname yazmaları veya yazdırm aları görevini yükler. Res mî vasiyetname düzenlenmesinde okur ya zar ol ma koşulu dışında, tanıklara ilişkin yasaklar, sözlü vasiyetteki tanıklar için de geçerlidir.
+Madde 539- Mirasbırakan; yakın ölüm tehlikesi, ulaşımın kesilmesi, hastalık, savaş gibi
+olağanüstü durumlar yüzünden resmî veya el yazılı vasiyetname yapamıyorsa, sözlü vasiyet
+yoluna başvurabilir.
+Bunun için mirasbırakan, son arzularını iki tanığa anlatır ve onlara bu beyanına uygun bir
+vasiyetname yazmaları veya yazdırmaları görevini yükler.
+Resmî vasiyetname düzenlenmesinde okur yazar olma koşulu dışında, tanıklara ilişkin
+yasaklar, sözlü vasiyetteki tanıklar için de geçerlidir.
 
 ---
 

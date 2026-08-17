@@ -17,6 +17,8 @@ gibi kottan da çıkarabilir. Bu durum derhâl Kurula bildirilir ve kamuya açı
 (2) Kurulun, sermaye piyasası araçlarının borsada işlem görmesini durdurma ve borsa
 kotundan çıkarma yetkisi saklıdır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

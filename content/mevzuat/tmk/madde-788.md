@@ -11,7 +11,8 @@ wordCount: 4274
 
 ---
 
-Madde 788 - Yararlanan taşınma zın ihtiyaçlarındaki değişiklik, yüklü taşınmazın irtifaktan doğan yükünü ağırlaştıramaz.
+Madde 788- Yararlanan taşınmazın ihtiyaçlarındaki değişiklik, yüklü taşınmazın
+irtifaktan doğan yükünü ağırlaştıramaz.
 
 ---
 

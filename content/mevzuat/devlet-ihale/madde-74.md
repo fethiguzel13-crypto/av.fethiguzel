@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4280
 ---
 
-**Tarihi ve bedii değeri olmayan taşınmaz mallarla ilgili işlemler**
+**Tarihi ve bedii değeri olmayan taşınmaz mallarla ilgili işlemler:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 74 – Tarihi ve bedii değeri olanlar hariç Hazinenin özel mülkiyetind
 yerlerin satışı, kiraya verilmesi, trampası ve mülkiyetin gayri ayni hak tesisi ile Devletin
 hüküm ve tasarrufu altındaki yerlerin kiraya verilmesi, mülkiyetin gayri ayni hak tesisi
 esasları Maliye Bakanlığınca çıkarılacak yönetmelikte belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

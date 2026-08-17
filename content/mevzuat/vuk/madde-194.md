@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**İşletme hesabı**
+**2. (Mülga: 22/7/1998-4369/82 md.)
+İşletme hesabı:**
 
 ---
 
@@ -25,9 +26,8 @@ kayıtlarının en az aşağıdaki malümatı ihtiva etmesi şarttır.
 2. Kayıt tarihi;
 3. Muamelenin nev'i;
 4. Meblağ.
-Günlük perakende satış ve hasılat defteri:
-Mükerrer Madde 194 – (Ek: 30/12/1980-2365/30 md.; Mülga: 22/7/1998-4369/82
-md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**Ödeme emri: (1)**
+**(1)
+Ödeme emri:**
 
 ---
 
 Madde 55 – Amme alacağını vadesinde ödemiyenlere, 15 gün içinde borçlarını
-ödemeleri veya mal bildiriminde bulunmaları lüzumu bir “ödeme emri” ile tebliğ olunur.(1)
+(1)
+ödemeleri veya mal bildiriminde bulunmaları lüzumu bir “ödeme emri” ile tebliğ olunur.
 Ödeme emrinde borcun asıl ve ferilerinin mahiyet ve miktarları, nereye ödeneceği,
 müddetinde ödemediği veya mal bildiriminde bulunmadığı takdirde borcun cebren tahsil ve
 borçlunun mal bildiriminde bulununcaya kadar üç ayı geçmemek üzere hapis ile tazyik
@@ -30,6 +32,8 @@ ve indirilirken keyfiyet muhtarlıkça zabıt varakasiyle tesbit edilir. Cebren 
 ödeme emrinin tebliği veya ödeme cetvelinin indirilmesi tarihinde başlamış olur.
 Borcunu vadesinde ödemiyenlere ait malları elinde bulunduran üçüncü şahıslardan bu
 malları 15 gün içinde bildirmeleri istenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4282
 ---
 
-**Müşterinin süresi içinde taşınır malları teslim almaması**
+**Müşterinin süresi içinde taşınır malları teslim almaması:**
 
 ---
 
@@ -20,6 +20,8 @@ bedeli idarenin masraflarını ve alacaklarını karşılamazsa, farkı teminatt
 artanı müşteriye geri verilir.
 Sözleşmenin akdedilmiş olması halinde feshedilerek yukarıdaki hükümlere göre işlem
 yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

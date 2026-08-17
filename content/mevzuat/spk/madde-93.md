@@ -16,6 +16,8 @@ kurulu kararları aleyhine, bu kararların kamuya duyurulduğu tarihten itibaren
 ortaklık merkezinin bulunduğu yer asliye ticaret mahkemesinde iptal davası açmaya ve
 teminatsız olarak bu kararların icrasının geri bırakılmasını istemeye yetkilidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

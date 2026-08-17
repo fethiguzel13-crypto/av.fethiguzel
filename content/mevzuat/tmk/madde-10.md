@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**2. Koşulları a. Genel olarak**
+**2. Koşulları
+a. Genel olarak**
 
 ---
 
-Madde 10 - Ayırt etme gücüne sahip ve kısıtlı olmayan her e rgin kişinin fiil ehliyeti vardır.
+Madde 10 - Ayırt etme gücüne sahip ve kısıtlı olmayan her ergin kişinin fiil ehliyeti vardır.
 
 ---
 

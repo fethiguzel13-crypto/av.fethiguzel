@@ -11,7 +11,8 @@ wordCount: 4301
 
 ---
 
-Madde 669 - (1) Hamile yazılı olan ipotekli borç senediyle irat senedine ilişkin özel hükümler saklıdır. DÖRDÜNCÜ KISIM Kambiyo Senetleri A) Borçlanma ehliyeti
+MADDE 669- (1) Hamile yazılı olan ipotekli borç senediyle irat senedine ilişkin özel
+hükümler saklıdır.
 
 ---
 

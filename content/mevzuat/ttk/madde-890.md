@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**XIV
-- Yetkili mahkeme**
+**XIV - Yetkili mahkeme**
 
 ---
 
-Madde 890 - (1) Birinci ve İkinci Kısım hükümlerine tabi taşımadan doğan hukuki uyuşmazlıklarda, malın teslim alındığı veya teslim için öngörülen yer mahkemesi de yetkilidir. (2) Fiilî taşıyıcıya karşı açılacak dava, asıl taşıyıcının yerleşim yeri mahkemesinde, asıl taşıyıcıya karşı açılacak dava fiilî taşıyıcının yerleşim yeri mahkemesinde de açılabilir.
+MADDE 890- (1) Birinci ve İkinci Kısım hükümlerine tabi taşımadan doğan hukuki
+uyuşmazlıklarda, malın teslim alındığı veya teslim için öngörülen yer mahkemesi de
+yetkilidir.
+(2) Fiilî taşıyıcıya karşı açılacak dava, asıl taşıyıcının yerleşim yeri mahkemesinde,
+asıl taşıyıcıya karşı açılacak dava fiilî taşıyıcının yerleşim yeri mahkemesinde de açılabilir.
 
 ---
 

@@ -7,18 +7,20 @@ lastReviewed: "2026-07-27"
 wordCount: 3622
 ---
 
-**(1) Gemi kira sözleşmesi,**
+**DÖRDÜNCÜ KISIM
+Deniz Ticareti Sözleşmeleri
+BİRİNCİ BÖLÜM
+Gemi Kira Sözleşmeleri
+A) Tanımı ve türleri**
 
 ---
 
-Madde 1119 - (1) Gemi kira sözleşmesi,
-kiraya verenin belirli bir süre için geminin kullanılmasını, kira bedeli karşılığında,
-kiracıya bırakmayı üstlendiği bir sözleşmedir.
+MADDE 1119- (1) Gemi kira sözleşmesi, kiraya verenin belirli bir süre için geminin
+kullanılmasını, kira bedeli karşılığında, kiracıya bırakmayı üstlendiği bir sözleşmedir.
+(2) Kiraya verenin, gemi ile birlikte gemi adamlarını da kiracının emrine vermeyi
+üstlenmesi, sözleşmenin niteliğini değiştirmez.
 
-(2) Kiraya verenin, gemi ile birlikte gemi adamlarını
-da kiracının emrine vermeyi üstlenmesi, sözleşmenin niteliğini değiştirmez.
-
-B) Gemi kira senedi
+---
 
 ### Akademik Yorum ve Analiz
 

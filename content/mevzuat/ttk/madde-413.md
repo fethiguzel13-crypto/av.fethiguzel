@@ -11,7 +11,11 @@ wordCount: 4315
 
 ---
 
-Madde 413 - (1) Gündem, genel kurulu toplantıya çağıran tarafından belirlenir. (2) Gündemde bulunmayan konular genel kurulda müzakere edilemez ve karara bağlanamaz. Kanuni istisnalar saklıdı r. (3) Yönetim kurulu üyelerinin görevden alınmaları ve yenilerinin seçimi yılsonu finansal tablolarının müzakeresi maddesiyle ilgili sayılır.
+MADDE 413- (1) Gündem, genel kurulu toplantıya çağıran tarafından belirlenir.
+(2) Gündemde bulunmayan konular genel kurulda müzakere edilemez ve karara
+bağlanamaz. Kanuni istisnalar saklıdır.
+(3) Yönetim kurulu üyelerinin görevden alınmaları ve yenilerinin seçimi yılsonu
+finansal tablolarının müzakeresi maddesiyle ilgili sayılır.
 
 ---
 

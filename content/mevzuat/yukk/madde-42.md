@@ -7,20 +7,13 @@ lastReviewed: "2026-07-27"
 wordCount: 2971
 ---
 
-**(1) Türkiye’de kesintisiz en az sekiz yıl**
+MADDE 42 – (1) Türkiye’de kesintisiz en az sekiz yıl ikamet izniyle kalmış olan ya
+da Bakanlığın belirlediği şartlara uyan yabancılara, Bakanlığın onayıyla valilikler tarafından
+süresiz ikamet izni verilir.
+(2) Mülteci, şartlı mülteci ve ikincil koruma statüsü sahipleri ile insani ikamet izni
+sahiplerine ve geçici koruma sağlananlara, uzun dönem ikamet iznine geçiş hakkı tanınmaz.
 
 ---
-
-Madde 42 - (1) Türkiye’de kesintisiz en az sekiz yıl
-ikamet izniyle kalmış olan ya da Bakanlığın belirlediği şartlara uyan
-yabancılara, Bakanlığın onayıyla valilikler tarafından süresiz ikamet izni
-verilir.[17]
-
-(2) Mülteci, şartlı mülteci ve ikincil koruma statüsü
-sahipleri ile insani ikamet izni sahiplerine ve geçici koruma sağlananlara,
-uzun dönem ikamet iznine geçiş hakkı tanınmaz.
-
-Uzun dönem ikamet izninin şartları
 
 ### Akademik Yorum ve Analiz
 

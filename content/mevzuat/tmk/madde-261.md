@@ -11,7 +11,7 @@ wordCount: 4289
 
 ---
 
-Madde 261 - Bir eşin kişisel malı olduğu ispatlanmadıkça tüm malvarlığı değerleri orta klık
+Madde 261- Bir eşin kişisel malı olduğu ispatlanmadıkça tüm malvarlığı değerleri ortaklık
 malı sayılır.
 
 ---

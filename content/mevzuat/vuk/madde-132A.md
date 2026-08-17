@@ -24,7 +24,8 @@ imza veya diğer güvenlik araçları konulmak suretiyle imzalanması usul ve es
 belirlemeye, bunları internet de dâhil olmak üzere her türlü elektronik bilgi iletişim araç ve
 ortamında ilgili kişilere göndermeye ve elektronik ortamda yürütülecek yoklama faaliyetlerine
 ilişkin diğer usul ve esasları belirlemeye yetkilidir.
-Toplu yoklama:
+
+---
 
 ### Akademik Yorum ve Analiz
 

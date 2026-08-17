@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4318
 ---
 
-**II. Sı nırlar
+**II. Sınırlar
 1. Sınırların belirlenmesi**
 
 ---
 
-Madde 719 - Taşınmazın sınırları, tapu plânları ve arz üzerindeki sınır işaretleriyle belirlenir. Tapu pl ânları ile arz üzerindeki işaretler birbirini tutmazsa, asıl olan plândaki sınırdır. Bu ku ral, yetkili makamlarca hey elân bölgesi olduğu belirlenen yörelerde uygulanmaz.
+Madde 719- Taşınmazın sınırları, tapu plânları ve arz üzerindeki sınır işaretleriyle belirlenir.
+Tapu plânları ile arz üzerindeki işaretler birbirini tutmazsa, asıl olan plândaki sınırdır. Bu
+kural, yetkili makamlarca heyelân bölgesi olduğu belirlenen yörelerde uygulanmaz.
 
 ---
 

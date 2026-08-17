@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**Okul geçidi görevlisi**
+**Okul geçidi görevlisi:**
 
 ---
 
@@ -18,7 +18,9 @@ Okul geçitlerinde görevli olarak çalışabileceklerde aranacak nitelikler, bu
 şartlarda, zaman ve sürelerle görev yapacakları, kıyafetleri veya taşıyacakları işaretler ile
 diğer hususlar yönetmelikte belirtilir.
 Okul geçidi görevlisinin talimatına uymayanlar hakkında duyuru üzerine trafik
-zabıtasıca, eylemine uyan madde hükmüne göre işlem yapılır.
+zabıtasınca, eylemine uyan madde hükmüne göre işlem yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

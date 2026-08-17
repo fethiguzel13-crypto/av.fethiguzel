@@ -8,7 +8,7 @@ wordCount: 3100
 keywords: ["Noter Satışı", "Harici Satış", "İşleten Sıfatı", "Resmi Şekil Şartı", "Miras Tescili", "MTV Mükellefiyeti", "Trafikten Men", "7574 Sayılı Kanun"]
 ---
 
-**Araçların satış, devir ve tescili ile bu işlemlerle ilgili yetki ve sorumluluk**
+**Araçların satış, devir ve tescili ile bu işlemlerle ilgili yetki ve sorumluluk:**
 
 ---
 
@@ -26,18 +26,18 @@ kimlik numarası ile yönetmelikte belirtilen bilgi ve belgeleri sağlamak,
 Zorundadırlar. (Ek cümle:12/2/2026-7574/2 md.) 22 nci maddenin ikinci fıkrası
 kapsamında yetkilendirilen kamu kurum veya kuruluşları ile gerçek veya özel hukuk tüzel
 kişilerinin satışını yaptığı ve ilk tescili elektronik ortamda gerçekleştirilecek araçlar için bu
-bentteki üç aylık süre uygulanmadan satış işlemi sonrasında üç iş günü içerisinde tescil işlemi
-gerçekleştirilir.
+bentteki üç aylık süre uygulanmadan satış işlemi sonrasında on beş iş günü içerisinde tescil
+işlemi gerçekleştirilir.
 b) Araçların giriş işlemlerini yapan gümrük idareleri bu durumu 15 gün içinde araç
 sahiplerinin beyan ettikleri tescil kuruluşuna bildirmekle yükümlüdürler.
 c) Tescil belgesi, aracın başkasına satış veya devrine, hurdaya çıkarılmasına veya
 araçta, yönetmelikte belirtilen niteliklerin değişmesine kadar geçerli sayılır.
-d ) (Değişik: 24/12/2009-5942/1 md.) Tescil edilmiş araçların her çeşit satış ve
-devirleri, satış ve devri yapılacak araçtan dolayı motorlu taşıtlar vergisi, gecikme faizi, gecikme
-zammı, vergi cezası ve trafik idari para cezası borcu bulunmadığının tespit edilmesi ve taşıt
-üzerinde satış ve/veya devri kısıtlayıcı herhangi bir tedbir veya kayıt bulunmaması halinde, araç
-sahibi adına düzenlenmiş tescil belgesi veya trafik tescil kayıtları esas alınarak noterler
-tarafından yapılır. Noterler tarafından yapılmayan her çeşit satış ve devirler geçersizdir.
+d) (Değişik: 24/12/2009-5942/1 md.) Tescil edilmiş araçların her çeşit satış ve devirleri,
+satış ve devri yapılacak araçtan dolayı motorlu taşıtlar vergisi, gecikme faizi, gecikme zammı,
+vergi cezası ve trafik idari para cezası borcu bulunmadığının tespit edilmesi ve taşıt üzerinde
+satış ve/veya devri kısıtlayıcı herhangi bir tedbir veya kayıt bulunmaması halinde, araç sahibi
+adına düzenlenmiş tescil belgesi veya trafik tescil kayıtları esas alınarak noterler tarafından
+yapılır. Noterler tarafından yapılmayan her çeşit satış ve devirler geçersizdir.
 Satış ve devir işlemi, siciline işlenmek üzere üç işgünü içerisinde ilgili trafik tescil
 kuruluşu ile vergi dairesine bildirilir. Bu bildirimle birlikte alıcı adına trafik tescil işlemi
 gerçekleşmiş sayılır. Satış ve devir tarihi itibariyle, 197 sayılı Motorlu Taşıtlar Vergisi
@@ -73,6 +73,10 @@ dairesi müdürlükleri, milli emlak müdürlükleri ile diğer yetkili kamu kur
 tarafından satışı yapılan araçların satış tutanağının bir örneği aracın kayıtlı olduğu trafik tescil
 kuruluşlarına üç işgünü içerisinde gönderilir. Aracı satın alanlar gerekli bilgi ve belgeleri
 sağlayarak ilgili trafik tescil kuruluşundan bir ay içerisinde adlarına tescil belgesi almak
+Bu maddenin (d) bendi 24/12/2009 tarihli ve 5942 sayılı Kanunun 1 inci maddesiyle değiştirilmiş
+olup bu değişikliğin yürürlük tarihi aynı Kanunun 3 üncü maddesiyle 1/5/2010 olarak tespit edilmiştir.
+Ancak mezkur maddeyle dördüncü paragrafın 31/12/2009 tarihinde yürürlüğe gireceği hüküm altına
+alınmıştır.
 zorundadırlar. Alıcıların tescil belgesi almak için süresinde başvurmamaları halinde bu
 araçları alıcıları adına re’sen kayıt ve tescil ettirmeye Emniyet Genel Müdürlüğü yetkilidir.
 Bu bendin uygulanmasına ilişkin usul ve esasları belirlemeye İçişleri ve Maliye
@@ -89,6 +93,9 @@ kapsamında yapılan tescil işlemlerinde tescil, vefat tarihi itibarıyla yapı
 sonunda mirasçılar adına tescil edilmeden karayoluna çıkarıldığının tespiti halinde sürücüye
 3.000 Türk lirası idari para cezası verilir ve mirasçılar adına tescil ettirilinceye kadar araç
 trafikten menedilir.
+Tescil belgesi ve tescil plakası alma zorunluluğu ile hurdaya ayrılan ve trafikten
+
+---
 
 ### Akademik Yorum ve Analiz
 

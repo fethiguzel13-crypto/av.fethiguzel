@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**hüküm ifade etmesi23**
+**Belgelerin halefler aleyhine kullanılması ve adi senetlerin üçüncü kişiler için
+hüküm ifade etmesi**
 
 ---
 
@@ -20,6 +21,8 @@ edenlerden birinin imza etmesine fiilen imkân kalmamışsa bu imkânı ortadan 
 meydana geldiği tarih üçüncü kişiler hakkında da hüküm ifade eder. Adi senette bahsedilen
 diğer senetlerin tarihleri, üçüncü kişiler hakkında ancak son senet tarihinin onaylanmış
 olduğunun kabul edildiği tarihte hüküm ifade eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

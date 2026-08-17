@@ -20,7 +20,8 @@ derecede malul veya sağır ve dilsiz ise, istemi aranmaksızın bir müdafi gö
 soruşturma ve kovuşturmada ikinci fıkra hükmü uygulanır.
 (4) Zorunlu müdafilikle ilgili diğer hususlar, Türkiye Barolar Birliğinin görüşü
 alınarak çıkarılacak yönetmelikle düzenlenir.
-Müdafi görevini yerine getirmediğinde yapılacak işlem ve müdafilik görevinden
+
+---
 
 ### Akademik Yorum ve Analiz
 

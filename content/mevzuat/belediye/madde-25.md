@@ -34,6 +34,8 @@ ayının sonuna kadar meclis başkanlığına sunar.
 Konusu suç teşkil eden hususlarla ilgili olarak meclis başkanlığı tarafından yetkili
 mercilere suç duyurusunda bulunulur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

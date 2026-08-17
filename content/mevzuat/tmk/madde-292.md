@@ -12,7 +12,8 @@ I. Koşulu**
 
 ---
 
-Madde 292 - Evlilik dışında doğan çocu k, ana ve babasının birbiriyle evlenmesi h âlinde kendiliğinden evlilik içinde doğan çocuklara ilişkin hükümlere tâbi olur.
+Madde 292- Evlilik dışında doğan çocuk, ana ve babasının birbiriyle evlenmesi hâlinde
+kendiliğinden evlilik içinde doğan çocuklara ilişkin hükümlere tâbi olur.
 
 ---
 

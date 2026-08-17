@@ -7,13 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4319
 ---
 
-**V
-- Varlıkların paraya çevrilmesi
+**V - Varlıkların paraya çevrilmesi
 1. Ayrı ayrı satış**
 
 ---
 
-Madde 294 - (1) Tasfiye memurları şirketin sona ermesi durumunda şirkete ait taşınırları, durumun gereklerine göre ya artırma yoluyla veya pazarlıkla satab ilirler. Oybirliğiyle verilen bir kararla ortaklar başka bir satış şeklini belirlemedikleri takdirde, taşınmazlar ancak İcra ve İflas Kanunu hükümleri uyarınca açık artırma yoluyla satılabilir. (2) İlgililer arasında küçük veya kısıtlanmış bir kişinin bul unması bu hükmün uygulanmasına engel olmaz.
+MADDE 294- (1) Tasfiye memurları şirketin sona ermesi durumunda şirkete ait
+taşınırları, durumun gereklerine göre ya artırma yoluyla veya pazarlıkla satabilirler.
+Oybirliğiyle verilen bir kararla ortaklar başka bir satış şeklini belirlemedikleri takdirde,
+taşınmazlar ancak İcra ve İflas Kanunu hükümleri uyarınca açık artırma yoluyla satılabilir.
+(2) İlgililer arasında küçük veya kısıtlanmış bir kişinin bulunması bu hükmün
+uygulanmasına engel olmaz.
 
 ---
 

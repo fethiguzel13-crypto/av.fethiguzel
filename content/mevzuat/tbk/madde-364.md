@@ -11,7 +11,7 @@ wordCount: 4307
 
 ---
 
-Madde 364 - Kiracı, kiralananı özgülendiği amaca uygun ve iyi bir biçimde
+MADDE 364- Kiracı, kiralananı özgülendiği amaca uygun ve iyi bir biçimde
 işletmekle, özellikle ürün vermeye elverişli bir durumda bulundurmakla yükümlüdür.
 Kiracı, kiraya verenin izni olmaksızın, kiralananın işletme usulünü, kira süresinin
 bitiminden sonra etkisi görülebilecek biçimde değiştiremez.

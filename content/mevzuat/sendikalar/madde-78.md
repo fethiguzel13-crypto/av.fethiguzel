@@ -40,7 +40,7 @@ yasaklanmasına rağmen, kararı kaldırmayanlar, uygulamaya devam edenler, deva
 edenler, zorlayanlar, katılan ve katılmaya devam edenler fiilleri daha ağır bir cezayı
 gerektirmediği takdirde beşbin Türk Lirası,
 h) Greve katıldıkları veya lokavta maruz kaldıkları hâlde, grev veya lokavtın
-uygulanıldığı işyerlerinden ayrılmayanlar ile işçileri bu eylemlere zorlayan veya teşvik edenler
+uygulandığı işyerlerinden ayrılmayanlar ile işçileri bu eylemlere zorlayan veya teşvik edenler
 fiilleri daha ağır bir cezayı gerektirmediği takdirde yediyüz Türk Lirası,
 ı) 65 inci maddede belirtilen izni almadan yeni işçi alan işveren, izinsiz aldığı her bir
 işçiyle ilgili olarak yediyüz Türk Lirası,
@@ -53,6 +53,8 @@ idari para cezası ile cezalandırılır.
 yaptırım kararının kesinleşmesinden itibaren beş yıl süreyle sendika organlarında görev alamaz.
 (3) Birinci fıkrada öngörülen idari yaptırımlar, gerekçesi belirtilmek suretiyle Çalışma
 ve İş Kurumu İl Müdürünce verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**2**
+**2. Kiralananın sözleşmenin bitiminden önce geri verilmesi**
 
 ---
 
-Madde 325 - Kiracı, sözleşme süresine veya fesih dönemine uymaksızın kiralananı
+MADDE 325- Kiracı, sözleşme süresine veya fesih dönemine uymaksızın kiralananı
 geri verdiği takdirde, kira sözleşmesinden doğan borçları, kiralananın benzer koşullarla kiraya
 verilebileceği makul bir süre için devam eder. Kiracının bu sürenin geçmesinden önce kiraya
 verenden kabul etmesi beklenebilecek, ödeme gücüne sahip ve kira ilişkisini devralmaya hazır

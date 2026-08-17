@@ -12,7 +12,7 @@ wordCount: 4260
 
 ---
 
-Madde 21 - Karşı tarafın menfaatine aykırı genel işlem koşullarının sözleşmenin
+MADDE 21- Karşı tarafın menfaatine aykırı genel işlem koşullarının sözleşmenin
 kapsamına girmesi, sözleşmenin yapılması sırasında düzenleyenin karşı tarafa, bu koşulların
 varlığı hakkında açıkça bilgi verip, bunların içeriğini öğrenme imkânı sağlamasına ve karşı
 tarafın da bu koşulları kabul etmesine bağlıdır. Aksi takdirde, genel işlem koşulları

@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**Yetki**
+**Yetki:**
 
 ---
 
 Madde 82 – Tahrir komisyonlarının haiz olduğu yetkileri tadilat komisyonları da
 haizdirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**aşağılama113**
+**Türk Milletini, Türkiye Cumhuriyeti Devletini, Devletin kurum ve organlarını
+aşağılama**
 
 ---
 
@@ -19,8 +20,8 @@ aydan iki yıla kadar hapis cezası ile cezalandırılır.
 hükmüne göre cezalandırılır.
 (3) Eleştiri amacıyla yapılan düşünce açıklamaları suç oluşturmaz.
 (4) Bu suçtan dolayı soruşturma yapılması, Adalet Bakanının iznine bağlıdır.
-DÖRDÜNCÜ BÖLÜM
-Devletin Güvenliğine Karşı Suçlar
+
+---
 
 ### Akademik Yorum ve Analiz
 

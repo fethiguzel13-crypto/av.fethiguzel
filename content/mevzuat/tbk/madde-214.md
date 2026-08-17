@@ -12,7 +12,7 @@ wordCount: 4263
 
 ---
 
-Madde 214 - Satış sözleşmesinin kurulduğu sırada var olan bir hak dolayısıyla,
+MADDE 214- Satış sözleşmesinin kurulduğu sırada var olan bir hak dolayısıyla,
 satılanın tamamı veya bir kısmı bir üçüncü kişi tarafından alıcının elinden alınırsa satıcı,
 bundan dolayı alıcıya karşı sorumlu olur.
 Alıcı, elinden alınma tehlikesini sözleşmenin kurulduğu sırada biliyor idiyse satıcı,

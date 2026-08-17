@@ -16,6 +16,8 @@ somutlaştırmalıdırlar.
 (2) Tarafların, dayandıkları delilleri ve hangi delilin hangi vakıanın ispatı için
 gösterildiğini açıkça belirtmeleri zorunludur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

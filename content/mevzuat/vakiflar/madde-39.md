@@ -12,9 +12,8 @@ wordCount: 4270
 ---
 
 MADDE 39 – (Mülga: 2/7/2018/KHK/703/102 md.)
-20/11/2025 tarihli ve 7565 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “yirmisi” ibaresi “kırkı”
-şeklinde değiştirilmiştir.
-10
+
+---
 
 ### Akademik Yorum ve Analiz
 

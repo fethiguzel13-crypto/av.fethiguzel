@@ -11,7 +11,8 @@ wordCount: 4304
 
 ---
 
-Madde 70 - (1) Yılsonu finansal tabloları Türkçe ve Türk Lirası ile düzenlenir. Bu konudaki diğer kanunlarda yer alan istisnalar saklıdır.
+MADDE 70- (1) Yılsonu finansal tabloları Türkçe ve Türk Lirası ile düzenlenir. Bu
+konudaki diğer kanunlarda yer alan istisnalar saklıdır.
 
 ---
 

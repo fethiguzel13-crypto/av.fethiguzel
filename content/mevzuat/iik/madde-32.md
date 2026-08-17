@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**İcra emri ve muhtevası**
+**II. Para ve Teminat Verilmesi Hakkındaki İlamların İcrası:
+İcra emri ve muhtevası:**
 
 ---
 
@@ -20,10 +21,12 @@ istinaf veya temyiz yahut iadei muhakeme yolu ile ait olduğu mahkemeden icranı
 bırakılmasına dair bir karar getirilmedikçe cebri icra yapılacağı ve bu müddet içinde 74 üncü
 madde mucibince mal beyanında bulunması ve bulunmazsa hapis ile tazyik olunacağı, mal
 beyanında bulunmaz veya hakikata muhalif beyanda bulunursa hapis ile cezalandırılacağı
-ihtar edilir.1819
+ihtar edilir.
 (Ek fıkra: 2/7/2012-6352/7 md.) Yabancı devlet aleyhine başlatılan ilamlı icra
 takiplerine ilişkin icra emrinde uluslararası andlaşmalar saklı kalmak kaydıyla, borçlu devlete
 ait olan mallar hakkında cebri icra yapılabileceği hususu ayrıca ihtar edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

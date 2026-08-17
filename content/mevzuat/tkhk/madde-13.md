@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**Ayıplı hizmet**
+**İKİNCİ BÖLÜM
+Ayıplı Hizmetler
+Ayıplı hizmet**
 
 ---
 
@@ -18,6 +20,8 @@ nedeniyle sözleşmeye aykırı olan hizmettir.
 ilanlarında yer alan özellikleri taşımayan ya da yararlanma amacı bakımından değerini veya
 tüketicinin ondan makul olarak beklediği faydaları azaltan veya ortadan kaldıran maddi,
 hukuki veya ekonomik eksiklikler içeren hizmetler ayıplıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

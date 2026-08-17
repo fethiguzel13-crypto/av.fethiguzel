@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Emeklilerin yeniden hizmete alınması**
+**Emeklilerin yeniden hizmete alınması:**
 
 ---
 
@@ -17,7 +17,8 @@ T.C. Emekli Sandığı Kanunu hükümlerine göre emekli olanlardan (5434 sayıl
 Kanunun 104 üncü maddesine göre emeklilikle ilgili görevlere yeniden atanamayacaklar
 hariç) sınıfında yazılı nitelikleri taşımakta bulunanlar kanunun 92 nci maddesi hükümlerine
 göre kurumlarda boş kadro bulunmak şartiyle yeniden memurluğa alınabilirler.
-(Mülga ikinci fıkra: 12/5/1982 - 2670/41 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

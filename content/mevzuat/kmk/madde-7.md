@@ -7,15 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**Deniz taşıtları**
+**İKİNCİ BÖLÜM
+Kabahatten Dolayı Sorumluluğun Esasları
+Kabahatin ihmali davranışla işlenmesi**
 
 ---
 
-MADDE 7 – (1) Hukuken geçerli bir mazereti olmadığı halde, izinsiz olarak gümrük
-bölgesine girerek sahile veya bir başka gemiye yanaşan geminin kaptanı, gemide yasak eşya
-ya da yükleme veya taşıma belgelerinde yer almayan eşya bulunması hallerinde, bu
-Kanundaki kaçakçılık suçuna ilişkin hükümlere göre cezalandırılır.
-(2) (Mülga: 28/3/2013-6455/66 md.)
+Madde 7- (1) Kabahat, icraî veya ihmali davranışla işlenebilir. İhmali davranışla
+işlenmiş kabahatin varlığı için kişi açısından belli bir icraî davranışta bulunma hususunda
+hukukî yükümlülüğün varlığı gereklidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

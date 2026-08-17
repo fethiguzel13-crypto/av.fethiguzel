@@ -32,10 +32,7 @@ kamu kurum ve kuruluşları aracılığıyla yapar veya yaptırır. Valiliğin t
 veya yapılacak harcamalar karşılığı tutarlar, Maliye Bakanlığı veya İller Bankası Anonim
 Şirketince ilgili idare payından kesilerek ilgili kurum ve kuruluşa gönderilir. Merkezi yönetim
 bütçesi kapsamındaki kamu idarelerine aktarılan tutarlar bu idarelerin bütçeleriyle
-34 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.
-
-
-ilişkilendirilir. Bu fıkra kapsamındaki ihtiyaçlar; parasal ve bütçe sınırlamasına tabi
+ilişkilendirilir. Bu fıkra kapsamındaki ihtiyaçlar; parasal ve bütçe sınırlamasına tabi
 olmaksızın 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 22 nci maddesinde
 belirtilen usule göre temin edilir.
 (Ek fıkra: 15/8/2016-KHK-674/39 md.; Aynen Kabul: 10/11/2016-6758/35 md.)
@@ -46,6 +43,8 @@ mahallin en büyük mülki idare amiri tarafından el konulur. Bu fıkra kapsam�
 tespit edilen belediye veya bağlı idare personelinin vali veya kaymakam tarafından görevden
 uzaklaştırılması halinde göreve iade işlemi ancak uzaklaştırma işlemini yapan makam
 tarafından yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

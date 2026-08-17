@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4282
 ---
 
-**II - Ortak hükümler 1. Kusur**
+**II- Ortak hükümler
+1. Kusur**
 
 ---
 
-Madde 951 - (1) 947 ilâ 950 nci maddelerde tanımlanan suçlar dolayısıyla cezaya hükmolunabilmesi için, fiilin kasten işlenmesi gerekir.
+MADDE 951- (1) 947 ilâ 950 nci maddelerde tanımlanan suçlar dolayısıyla cezaya
+hükmolunabilmesi için, fiilin kasten işlenmesi gerekir.
 
 ---
 

@@ -11,7 +11,8 @@ wordCount: 4269
 
 ---
 
-Madde 1441 - (1) Cayma hâlinde, sigorta ettiren kasıtlı ise, sigortacı rizikoyu taşıdığı süreye ait primlere hak kazanır. hhh) Cayma hakkının düşmesi
+MADDE 1441- (1) Cayma hâlinde, sigorta ettiren kasıtlı ise, sigortacı rizikoyu
+taşıdığı süreye ait primlere hak kazanır.
 
 ---
 

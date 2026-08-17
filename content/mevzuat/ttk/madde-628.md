@@ -7,12 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**III
-- Müdürlerin yerleşim yeri**
+**III - Müdürlerin yerleşim yeri**
 
 ---
 
-Madde 628 - (Mülga: 26/6/2012 - 6335/43 md.) IV - Temsil yetkisinin ka psamı, sınırlandırılması
+MADDE 628- (Mülga: 26/6/2012-6335/43 md.)
 
 ---
 

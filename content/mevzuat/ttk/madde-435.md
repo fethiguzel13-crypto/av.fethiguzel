@@ -11,7 +11,8 @@ wordCount: 4293
 
 ---
 
-Madde 435 - (1) Oy hakkı, payın, kanunen veya esas sözleşmeyle belirlenmiş bulunan en az miktarının ödenmesiyle doğar.
+MADDE 435- (1) Oy hakkı, payın, kanunen veya esas sözleşmeyle belirlenmiş
+bulunan en az miktarının ödenmesiyle doğar.
 
 ---
 

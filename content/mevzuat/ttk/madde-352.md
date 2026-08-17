@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4283
 ---
 
-**(Mülga: 26/6/2012 - 633 5/43 md.) XIII - Kuruluştan önce pay taahhüdünün devri**
+**XIII - Kuruluştan önce pay taahhüdünün devri**
 
 ---
 
-Madde 352 - (1) Pay taahhüdünün, şirketin tescilinden önce devri, şirkete karşı geçersizdir.
+MADDE 352- (1) Pay taahhüdünün, şirketin tescilinden önce devri, şirkete karşı
+geçersizdir.
 
 ---
 

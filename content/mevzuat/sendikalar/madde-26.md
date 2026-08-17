@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**Kuruluşların faaliyetleri**
+**BEŞİNCİ BÖLÜM
+Faaliyetler
+Kuruluşların faaliyetleri**
 
 ---
 
@@ -21,8 +23,6 @@ sürecinde üyeliğin sona ermesi üyenin yazılı onay vermesi kaydıyla bu yet
 (3) Kuruluşlar, faaliyetlerinden yararlanmada üyeleri arasında eşitlik ilkesi ve
 ayrımcılık yasaklarına uymakla yükümlüdür. Kuruluşlar, faaliyetlerinde toplumsal cinsiyet
 eşitliğini gözetir.
-
-
 (4) Kuruluşların kendi faaliyetleri ile üyelerine sağladıkları hak ve çıkarların üyesi
 olmayanlara uygulanması, bu Kanunun yedinci ila on ikinci bölümlerinde yer alan hükümler
 saklı kalmak kaydıyla yazılı onaylarına bağlıdır.
@@ -42,6 +42,8 @@ kuruluşların eğitim amaçlı yardımları bu hükmün dışındadır.
 ve şartları genel kurul kararıyla belirlenmek kaydıyla, işçilerin sigorta primlerinin işveren
 payının ödemelerinde kullanılmak ve nakit mevcudunun yüzde otuz beşini aşmamak üzere
 karşılıksız yardıma dayalı dayanışma ve yardım fonu oluşturabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

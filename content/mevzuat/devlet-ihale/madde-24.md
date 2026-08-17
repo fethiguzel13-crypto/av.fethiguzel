@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**Tekliflerin açılma zamanı**
+**Tekliflerin açılma zamanı:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 24 – Tekliflerin açılma zamanı, idarelerin çalışma saati içinde o
 tespit edilir. Açılma zamanı için, Posta, Telgraf, Telefon (PTT) veya Türkiye Radyo
 Televizyon (TRT) idarelerinin saat ayarı esas alınır. Teklifler açılmaya başlandıktan sonra,
 çalışma saatine bağlı kalmaksızın işleme devam olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

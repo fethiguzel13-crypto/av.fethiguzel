@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**Gümrük ve inhisar işlerinde tebligat**
+**Gümrük ve inhisar işlerinde tebligat:**
 
 ---
 
 Madde 48 – Gümrük ve inhisar işlerinde, kendi kanunlarının imkan verdiği hallerde
 muamelenin cereyan ettiği yerde hazır bulunan alakalıya tebligat memur vasıtasiyle yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

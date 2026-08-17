@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**Temel ilkeler**
+**Temel ilkeler:**
 
 ---
 
@@ -24,6 +24,8 @@ Liyakat:
 C) Devlet kamu hizmetleri görevlerine girmeyi, sınıflar içinde ilerleme ve yükselmeyi,
 görevin sona erdirilmesini liyakat sistemine dayandırmak ve bu sistemin eşit imkanlarla
 uygulanmasında Devlet memurlarını güvenliğe sahip kılmaktır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

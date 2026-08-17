@@ -7,7 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**Vergi dairesi**
+**BİRİNCİ KİTAP
+Vergilendirme
+BİRİNCİ KISIM
+Genel Esaslar
+BİRİNCİ BÖLÜM
+Vergi Uygulanmasında Yetki
+Vergi dairesi:**
 
 ---
 
@@ -28,17 +34,13 @@ belirlemeye, vergi dairesince bu Kanun ile diğer kanunlar kapsamında yapılan 
 elektronik imza, mühür veya onay kullandırmaya, vergi daireleri tarafından düzenlenen ve
 vergi dairesince imzalanması gereken belgelerin Gelir İdaresi Başkanlığınca elektronik
 ortamda imzalanmasına, mühürlenmesine veya onaylanmasına izin vermeye, elektronik imza,
-mühür veya onayın kullanım usul ve esaslarını düzenlemeye yetkilidir. (Ek cümle:8/4/20227394/3 md.) Vergi daireleri tarafından düzenlenen ve imzalanması gereken belgelerin, Gelir
+mühür veya onayın kullanım usul ve esaslarını düzenlemeye yetkilidir. (Ek cümle:8/4/2022-
+7394/3 md.) Vergi daireleri tarafından düzenlenen ve imzalanması gereken belgelerin, Gelir
 İdaresi Başkanlığınca elektronik ortamda imzalanması, mühürlenmesi veya onaylanması
 durumunda belgeler vergi dairesi tarafından imzalanmış, mühürlenmiş veya onaylanmış
-sayılır.1
-8/4/2022 tarihli ve 7394 sayılı Kanunun 3 üncü maddesiyle bu fıkraya “usul ve esasları belirlemeye”
-ibaresinden sonra gelmek üzere “, vergi dairesince bu Kanun ile diğer kanunlar kapsamında yapılan işlemlerde
-elektronik imza, mühür veya onay kullandırmaya, vergi daireleri tarafından düzenlenen ve vergi dairesince
-imzalanması gereken belgelerin Gelir İdaresi Başkanlığınca elektronik ortamda imzalanmasına,
-mühürlenmesine veya onaylanmasına izin vermeye, elektronik imza, mühür veya onayın kullanım usul ve
-esaslarını düzenlemeye” ibaresi eklenmiştir.
-1
+sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

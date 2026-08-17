@@ -11,7 +11,12 @@ wordCount: 4270
 
 ---
 
-Madde 821 - Alacaklı ve intifa hakkı sa hibinden birine ödemeye yetkili kılınmamış olan borçlu, borcun u ikisine birlikte ödemek veya hâkimin belirleyeceği yere tevdi etmek zorundadır. Yerine g etirilen edimin konusu ve özellikle geri ödenecek ana para, intifa hakkına tâbi olur. Alacaklı veya inti fa hakkı sahibi, ana paranın güvenilir ve getiri sağlayan bir yere yatırılmasını isteyebilir.
+Madde 821- Alacaklı ve intifa hakkı sahibinden birine ödemeye yetkili kılınmamış olan
+borçlu, borcunu ikisine birlikte ödemek veya hâkimin belirleyeceği yere tevdi etmek zorundadır.
+Yerine getirilen edimin konusu ve özellikle geri ödenecek ana para, intifa hakkına tâbi
+olur.
+Alacaklı veya intifa hakkı sahibi, ana paranın güvenilir ve getiri sağlayan bir yere yatırılmasını
+isteyebilir.
 
 ---
 

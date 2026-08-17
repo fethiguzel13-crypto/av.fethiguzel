@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**Madde 170**
+**bb) Bölünme sözleşmesinin veya bölünme planının ve bölünme raporunun
+denetlenmesi**
 
 ---
 
-Madde 170 - (Mülga: 26/6/2012 - 6335/43 md.) d) İnceleme hakkı
+MADDE 170- (Mülga: 26/6/2012-6335/43 md.)
 
 ---
 

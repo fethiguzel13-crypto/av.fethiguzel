@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**Kombine imalatta imalat defterleri**
+**Kombine imalatta imalat defterleri:**
 
 ---
 
@@ -16,6 +16,8 @@ ayrı kısımlarında gösterirler. Bu takdirde bir safhanın mamulü mütaakıp
 gösterilmek suretiyle bu safhanın iptidai maddesini teşkil eder.
 Kombine imalatta istenildiği takdirde her müstakil imal safhası için ayrı bir imalat
 defteri kullanılması caizdir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**İsteğe bağlı sigorta ve şartları**
+**ALTINCI BÖLÜM
+İsteğe Bağlı Sigorta Hükümleri
+İsteğe bağlı sigorta ve şartları**
 
 ---
 
@@ -22,6 +24,8 @@ b) Kendi sigortalılığı nedeniyle aylık bağlanmamış olmak,
 c) 18 yaşını doldurmuş bulunmak,
 d) İsteğe bağlı sigorta talep dilekçesiyle Kuruma başvuruda bulunmak,
 şartları aranır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

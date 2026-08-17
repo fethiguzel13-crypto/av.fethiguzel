@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**hacet kalmaksızın Cumhuriyet Savcılığınca doğrudan doğruya takibat yapılır.**
+**Üçüncü şahsa bırakılan mallar:**
 
 ---
 
@@ -18,6 +18,8 @@ veya ziyaını ispat edemiyen üçüncü şahıs hakkında ceza takibinden başk
 edilmiş olan kıymetler, hükme hacet kalmaksızın icra dairesince re’sen tazmin ettirilir.
 Bu kıymetleri tazmin ile mükellef olanlar, icra dairesinin bu baptaki talep ve kararına
 karşı icra mahkemesine, 16 ncı maddede tayin edilen müddet içinde şikayette bulunabilirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

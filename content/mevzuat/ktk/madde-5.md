@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
-**İçişleri Bakanlığının görev ve yetkileri:5**
+**İçişleri Bakanlığının görev ve yetkileri:**
 
 ---
 
@@ -36,12 +36,7 @@ k) Ayrıca bu Kanunla ve bu Kanuna göre çıkarılmış olan yönetmeliklerle v
 görevleri yapmak.
 Sürücülere ait bilgilerde meydana gelebilecek değişiklikler ve araçlar üzerinde meydana
 gelebilecek teknik veya hukuki değişiklikler ile haciz, rehin, ihtiyati tedbir ve belge iptali gibi
-6/12/2019 tarihli ve 7196 sayılı Kanunun 39 uncu maddesiyle, bu madde başlığı “Emniyet Genel
-Müdürlüğünün, merkez, bölge, il ve ilçe trafik kuruluşları, görev ve yetkileri:” iken metne işlendiği
-şekilde değiştirilmiştir.
-5
-
-kısıtlayıcı şerhlerin; elektronik ortamda tutulan siciller üzerine işlenmesi ve kaldırılması
+kısıtlayıcı şerhlerin; elektronik ortamda tutulan siciller üzerine işlenmesi ve kaldırılması
 işlemleri, bu değişiklik veya şerhlere karar veren yargı ve icra birimleri ile kamu kurum veya
 kuruluşları tarafından elektronik sistemle yapılabilir. Sürücü belgesi ve tescil işlemlerine esas
 teşkil edecek bilgiler, İçişleri Bakanlığı tarafından ilgili kamu kurum veya kuruluşlarından
@@ -50,7 +45,8 @@ sınırlı olarak paylaşılabilir. Bu fıkraya ilişkin usul ve esaslar yönetm
 Bu maddedeki görev, yetki ve sorumluluklara ait diğer esaslar ile trafik kuruluşlarının,
 çalışma şekil ve şartları, görevlendirilecek personelin nitelikleri, seçimi, çalışma usulleri, görev,
 yetki ve sorumluluklarına ait esaslar İçişleri Bakanlığınca çıkarılacak yönetmelikte belirtilir.
-Jandarma Genel Komutanlığı trafik kuruluşları:
+
+---
 
 ### Akademik Yorum ve Analiz
 

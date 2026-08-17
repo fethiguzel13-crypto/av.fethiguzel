@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Tebligat**
+**İKİNCİ BÖLÜM
+Dava Hakkı ve Bilirkişiler
+Tebligat**
 
 ---
 
 Madde 13 – (Mülga: 24/4/2001-4650/21 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

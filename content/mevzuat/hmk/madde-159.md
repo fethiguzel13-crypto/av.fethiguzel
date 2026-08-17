@@ -17,6 +17,8 @@ veya yazı işleri müdürüne havale ettirildikten sonra, zabıt kâtibi taraf�
 talep üzerine dosyada yer alan bir belgenin aslı yerine onaylı bir örneğinin gönderilmesine
 karar verebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

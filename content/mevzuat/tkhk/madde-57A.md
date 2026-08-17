@@ -28,6 +28,8 @@ yetkili alıcı tarafından Bakanlıkça belirlenen usul ve esaslara göre Bilgi
 merkezlerinin kuruluşu ve sorumluluğu ile diğer uygulama usul ve esasları yönetmelikle
 belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

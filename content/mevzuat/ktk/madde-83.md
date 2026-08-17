@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Trafik kazalarına el koyma ve bilirkişilik**
+**Trafik kazalarına el koyma ve bilirkişilik:**
 
 ---
 
@@ -31,6 +31,8 @@ yapılıp araç ve ölüler kenara alınarak durum bir tutanakla tespit edildikt
 Trafik zabıtası, usul kanunlarına göre görevlendirilirse, trafik kazalarında bilirkişilik yapar.
 Trafik kazaları, kaza tahkik memurluğu, bilirkişilik ve bunlarda aranacak şartlar ile
 diğer esaslar yönetmelikte gösterilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

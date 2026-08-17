@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**Kesin mühletin borçlu bakımından sonuçları:101**
+**Kesin mühletin borçlu bakımından sonuçları:**
 
 ---
 
@@ -20,12 +20,14 @@ verebilir.
 kararından itibaren rehin tesis edemez, kefil olamaz ve ivazsız tasarruflarda bulunamaz;
 taşınmazını, işletmenin faaliyetinin devamı için önem arz eden taşınırını ve işletmenin
 devamlı tesisatını devredemez ve takyit edemez. Aksi hâlde yapılan işlemler hükümsüzdür.
-Mahkeme bu işlemler hakkında karar vermeden önce komiserin görüşü (…)102 almak
+Mahkeme bu işlemler hakkında karar vermeden önce komiserin görüşü (…)almak
 zorundadır.
 Borçlu bu hükme yahut komiserin ihtarlarına aykırı davranırsa mahkeme, borçlunun
 malları üzerindeki tasarruf yetkisini kaldırabilir veya 292 nci madde çerçevesinde karar verir.
 Birinci ve üçüncü fıkra kapsamında alınan kararlar 288 inci madde uyarınca ilân edilir
 ve ilgili yerlere bildirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

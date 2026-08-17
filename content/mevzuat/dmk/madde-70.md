@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**İstisnai memurluklarda derece yükselmeleri ve kademe ilerlemeleri**
+**İstisnai memurluklarda derece yükselmeleri ve kademe ilerlemeleri:**
 
 ---
 
 Madde 70 – (Mülga: 31/7/1970 - 1327/29 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

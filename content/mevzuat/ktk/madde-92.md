@@ -8,7 +8,7 @@ wordCount: 2580
 keywords: ["Teminat Dışı Haller", "Manevi Tazminat", "Aile İstisnası", "Dolaylı Zararlar", "Araçta Taşınan Eşya", "Değer Kaybı", "AYM İptal Kararları", "Rücu"]
 ---
 
-**Zorunlu mali sorumluluk sigortası dışında kalan hususlar**
+**Zorunlu mali sorumluluk sigortası dışında kalan hususlar:**
 
 ---
 
@@ -23,8 +23,7 @@ sigortasının teminatı altında yapılacak motorlu araç yarışlarındaki vey
 kazalardan doğan talepler,
 e) Motorlu araçta taşınan eşyanın uğrayacağı zararlar,
 f) Manevi tazminata ilişkin talepler.
-
-g) (Ek: 14/4/2016-6704/4 md.) Hak sahibinin kendi kusuruna denk gelen tazminat
+g) (Ek: 14/4/2016-6704/4 md.) Hak sahibinin kendi kusuruna denk gelen tazminat
 talepleri,
 h) (Ek: 14/4/2016-6704/4 md.) İlgililerin, sigortalının sorumluluk riski kapsamında
 olmayan tazminat talepleri,
@@ -46,6 +45,8 @@ ve Genel Sağlık Sigortası Kanunu kapsamında Sosyal Güvenlik Kurumu tarafın
 gelir kaybına ilişkin ödemelerde, 5510 sayılı Kanunun 21 inci maddesi uyarınca sigortacının
 Sosyal Güvenlik Kurumuna karşı sorumluluğu varsa, bu sorumluluk sigortacının kendi
 sigortalısının kusuru oranında devam eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

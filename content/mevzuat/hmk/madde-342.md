@@ -18,14 +18,7 @@ a) Başvuran ile karşı tarafın davadaki sıfatları, adı, soyadı, Türkiye 
 numarası ve adresleri.
 b) Varsa kanuni temsilci ve vekillerinin adı, soyadı ve adresleri.
 c) Kararın hangi mahkemeden verilmiş olduğu ve tarihi ile sayısı.
-24/11/2016 tarihli ve 6763 sayılı Kanunun 41 inci maddesi ile bu maddenin ikinci, üçüncü ve
-dördüncü fıkralarında yer alan “binbeşyüz” ibareleri “üç bin” şeklinde değiştirilmiştir.
-45
-Anayasa Mahkemesi’nin 24/2/2022 tarihli ve E.:2021/34, K.:2022/21 sayılı Kararı ile bu fıkranın
-birinci cümlesi “kamulaştırma bedelinin tespitine ilişkin davalar” yönünden iptal edilmiştir.
-44
-
-ç) Kararın başvurana tebliğ edildiği tarih.
+ç) Kararın başvurana tebliğ edildiği tarih.
 d) Kararın özeti.
 e) Başvuru sebepleri ve gerekçesi.
 f) Talep sonucu.
@@ -33,6 +26,8 @@ g) Başvuranın veya varsa kanuni temsilci yahut vekilinin imzası.
 (3) İstinaf dilekçesi, başvuranın kimliği ve imzasıyla, başvurulan kararı yeteri kadar
 belli edecek kayıtları taşıması durumunda diğer hususlar bulunmasa bile reddolunmayıp, 355
 inci madde çerçevesinde gerekli inceleme yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

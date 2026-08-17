@@ -12,8 +12,7 @@ wordCount: 4273
 ---
 
 Madde 44 – Kurul adına hareket eden ve Kurul tarafından belirlenip, görevlendirilen
-16
-(…) raportörlerden oluşan bir heyet, soruşturma safhasında bu Kanunun 14 üncü
+(…)raportörlerden oluşan bir heyet, soruşturma safhasında bu Kanunun 14 üncü
 maddesinde düzenlenen bilgi isteme ve 15 inci maddesinde düzenlenen yerinde inceleme
 yetkilerini kullanabilir. Belirlenen bu süre içinde lüzum gördükleri evrakın gönderilmesini ve
 her türlü bilginin verilmesini taraflardan ve ilgili diğer yerlerden isteyebilir. Kurulun
@@ -25,6 +24,8 @@ evrakın ve mümkünse elde edilmiş olan her türlü delilin bir nüshasının 
 isteyebilir.
 Kurul, tarafları bilgilendirmediği ve savunma hakkı vermediği konuları kararlarına
 dayanak yapamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

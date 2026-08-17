@@ -19,6 +19,8 @@ b) Mahkûmiyet hâlinde ceza veya güvenlik tedbirlerinin infazına ve bu çerç
 uygulanabilecek olan denetimli serbestlik tedbirlerine,
 ilişkin kanun hükümleri saklıdır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

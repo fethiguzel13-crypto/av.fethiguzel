@@ -13,14 +13,9 @@ wordCount: 4315
 
 Madde 205 – (1) Bir kimse, duruşma sırasında bir suç işlerse, mahkeme olayı tespit
 eder ve bu hususta düzenleyeceği tutanağı yetkili makama gönderir; gerek görürse failin
-24/1/2013 tarihli ve 6411 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “Bu madde
-hükümleri,” ibaresi “Birinci ve ikinci fıkra hükümleri,” şeklinde değiştirilmiştir.
-72
-24/11/2016 tarihli ve 6763 sayılı Kanunun 30 uncu maddesiyle, bu bentte yer alan “okunması”
-ibaresi “anlatılması” şeklinde değiştirilmiştir.
-71
+tutuklanmasına da karar verebilir.
 
-tutuklanmasına da karar verebilir.
+---
 
 ### Akademik Yorum ve Analiz
 

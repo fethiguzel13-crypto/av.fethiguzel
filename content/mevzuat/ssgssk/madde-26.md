@@ -24,6 +24,9 @@ kapattıktan veya devrettikten sonra Kurumdan yazılı istekte bulunması,
 halinde malûllük aylığı bağlanır. Ancak, 4 üncü maddenin birinci fıkrasının (b)
 bendine göre sigortalı sayılanların kendi sigortalılığı nedeniyle genel sağlık sigortası primi
 dahil, prim ve prime ilişkin her türlü borçlarının ödenmiş olması zorunludur.
+Malûllük aylığının hesaplanması, başlangıcı, kesilmesi ve yeniden bağlanması
+
+---
 
 ### Akademik Yorum ve Analiz
 

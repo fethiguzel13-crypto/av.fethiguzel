@@ -8,11 +8,14 @@ wordCount: 4316
 ---
 
 **VI. Geçici önlemler
-1. G enel o larak**
+1. Genel olarak**
 
 ---
 
-Madde 332 - Nafaka davası açılınca hâkim, davacının istemi üzerine dava süresince gerekli olan önle mleri alır. Soybağı tespit edilirse, davalının, uygun nafaka miktarını depo etme sine veya geçici olarak öde mesine karar verilebilir.
+Madde 332- Nafaka davası açılınca hâkim, davacının istemi üzerine dava süresince
+gerekli olan önlemleri alır.
+Soybağı tespit edilirse, davalının, uygun nafaka miktarını depo etmesine veya geçici
+olarak ödemesine karar verilebilir.
 
 ---
 

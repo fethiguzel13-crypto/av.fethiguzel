@@ -23,6 +23,8 @@ karar verilinceye kadar beklenir.
 (3) Süresi içinde belgelerin ibraz edilmemesi veya mahkemeye başvurulmaması
 hâlinde, dava açılmamış veya gerçekleştirilen işlemler yapılmamış sayılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

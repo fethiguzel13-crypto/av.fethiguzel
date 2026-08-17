@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4285
 ---
 
-**Madde 666**
+**3. Diğer mirasçıların paylarının mirasçı irat senediyle karşılanması**
 
 ---
 
-Madde 666 - (Mülga: 30/4/2014 - 6537/9 md.) 4. Yan sınaî işletme
+Madde 666- (Mülga: 30/4/2014-6537/9 md.)
 
 ---
 

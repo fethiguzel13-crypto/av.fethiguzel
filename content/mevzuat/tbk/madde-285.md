@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**A. Tanımı**
+**ÜÇÜNCÜ BÖLÜM
+Bağışlama Sözleşmesi
+A. Tanımı**
 
 ---
 
-Madde 285 - Bağışlama sözleşmesi, bağışlayanın sağlararası sonuç doğurmak üzere,
+MADDE 285- Bağışlama sözleşmesi, bağışlayanın sağlararası sonuç doğurmak üzere,
 malvarlığından bağışlanana karşılıksız olarak bir kazandırma yapmayı üstlendiği sözleşmedir.
 Henüz edinilmemiş olan bir haktan feragat etmek veya bir mirası reddetmek, bağışlama
 değildir.

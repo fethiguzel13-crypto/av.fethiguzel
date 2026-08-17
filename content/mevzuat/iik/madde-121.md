@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**Paraya çevirmenin diğer tarzı. İştirak halinde mülkiyet hisseleri**
+**Paraya çevirmenin diğer tarzı. İştirak halinde mülkiyet hisseleri:**
 
 ---
 
@@ -18,11 +18,8 @@ mahkemesinden sorar.
 İcra mahkemesi, yerleşim yerleri malüm olan alakadarları davet ve gelenlerini
 dinledikten sonra açık artırma yaptırabileceği gibi satış için bir memur da tayin edebilir, yahut
 iktiza eden diğer bir tedbiri alabilir.
-Aile mal ortaklığı:
 
-Madde 122 – Aile mal ortaklığında bir hissenin satışı 121 inci maddeye göre yapılır.
-Kanunu Medeninin 331 inci maddesi hükümleri mahfuzdur.
-3 – Taşınmazların satışı:
+---
 
 ### Akademik Yorum ve Analiz
 

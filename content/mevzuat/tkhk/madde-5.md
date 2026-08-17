@@ -19,17 +19,12 @@ hükümsüzdür. Sözleşmenin haksız şartlar dışındaki hükümleri geçerl
 durumda sözleşmeyi düzenleyen, kesin olarak hükümsüz sayılan şartlar olmasaydı diğer
 hükümlerle sözleşmeyi yapmayacak olduğunu ileri süremez.
 (3) Bir sözleşme şartı önceden hazırlanmış ve standart sözleşmede yer alması
-nedenine tüketici içeriğine etki edememişse, o sözleşme şartının tüketiciyle müzakere
+nedeniyle tüketici içeriğine etki edememişse, o sözleşme şartının tüketiciyle müzakere
 edilmediği kabul edilir. Sözleşmeyi düzenleyen, bir standart şartın münferiden müzakere
 edildiğini iddia ediyorsa bunu ispatla yükümlüdür. Sözleşmenin bütün olarak
 değerlendirilmesinden standart sözleşme olduğu sonucuna varılırsa, bu sözleşmedeki bir
 şartın belirli unsurlarının veya münferit bir hükmünün müzakere edilmiş olması, sözleşmenin
 kalan kısmına bu maddenin uygulanmasını engellemez.
-20/2/2020 tarihli ve 7222 sayılı Kanunun 39 uncu maddesiyle, bu fıkranın ikinci cümlesinde yer alan
-“Bankacılık Düzenleme ve Denetleme Kurumu” ibaresi “Türkiye Cumhuriyet Merkez Bankası”
-şeklinde değiştirilmiştir.
-1
-
 (4) Sözleşme şartlarının yazılı olması hâlinde, tüketicinin anlayabileceği açık ve
 anlaşılır bir dilin kullanılmış olması gerekir. Sözleşmede yer alan bir hükmün açık ve anlaşılır
 olmaması veya birden çok anlama gelmesi hâlinde; bu hüküm, tüketicinin lehine yorumlanır.
@@ -49,6 +44,8 @@ haksız şartların, sözleşme metinlerinden çıkarılması veya kullanılmas�
 gerekli tedbirleri alır.
 (9) Haksız şartların tespit edilmesi ve denetlenmesine ilişkin usul ve esaslar ile sınırlayıcı
 olmamak üzere haksız şart olduğu kabul edilen sözleşme şartları yönetmelikle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

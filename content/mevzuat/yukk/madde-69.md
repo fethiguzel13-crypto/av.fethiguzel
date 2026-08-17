@@ -28,7 +28,8 @@ korumaya ilişkin bilgi ve belgeleri alınır.
 (5) Mülakat zamanı ve yeri kayıt esnasında bildirilir.
 (6) Kamu sağlığını tehlikeye düşürebileceği değerlendirilen başvuru sahibi sağlık
 kontrolünden geçirilir.
-(7) (Mülga:18/10/2018-7148/35 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4319
 ---
 
-**(Mülga: 26/6/2012 - 6335/43 md.) IV - Sır saklama yükümü**
+**IV - Sır saklama yükümü**
 
 ---
 
-Madde 527 - (1) 404 üncü madde hükmü saklı kalmak üzere, görevi dolayısıyla incelemesine sunulan defter ve belgeleri inceleyenlerin, elde ettikleri veya verilen bilgilerden ö ğrendikleri iş ve işletme sırlarını açıklamaları yasaktır. Aksi hâlde şirketin maddi ve manevi zararını tazmin ederler. (2) Ceza mevzuatının, suç ihbarına ilişkin hükümleri saklıdır.
+MADDE 527- (1) 404 üncü madde hükmü saklı kalmak üzere, görevi dolayısıyla
+incelemesine sunulan defter ve belgeleri inceleyenlerin, elde ettikleri veya verilen bilgilerden
+öğrendikleri iş ve işletme sırlarını açıklamaları yasaktır. Aksi hâlde şirketin maddi ve manevi
+zararını tazmin ederler.
+(2) Ceza mevzuatının, suç ihbarına ilişkin hükümleri saklıdır.
 
 ---
 

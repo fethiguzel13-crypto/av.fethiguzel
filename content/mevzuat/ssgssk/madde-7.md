@@ -14,7 +14,8 @@ wordCount: 4310
 MADDE 7- Sigorta hak ve yükümlülükleri 4 üncü maddenin birinci fıkrasının;
 a) (a) bendi kapsamında sigortalı sayılanlar için çalışmaya, meslekî ve teknik eğitime,
 meslekî ve teknik ortaöğretim sırasında tamamlayıcı eğitim ya da alan eğitimine, staja veya
-bursiyer olarak göreve başladıkları tarihten,171819
+171819
+bursiyer olarak göreve başladıkları tarihten,
 b) (Değişik: 17/4/2008-5754/5 md.) (b) bendi kapsamında sigortalı sayılanlardan,
 gelir vergisi mükellefi olanlar ile şahıs şirketlerinden kolektif, adi komandit şirketlerin
 komandite ve komanditer ortakları ve donatma iştiraki ortaklarının vergi mükellefiyetlerinin
@@ -30,11 +31,13 @@ maddenin üçüncü fıkrasında belirtilenler için ise lisans belgesine istina
 başladıkları tarihten,
 c) (Değişik: 17/4/2008-5754/5 md.) (c) bendi kapsamında sigortalı sayılanlar için,
 göreve başladıkları veya bu Kanunun 4 üncü maddesinin dördüncü fıkrasının (d), (e) ve (f)
-bentleri kapsamındaki okullarda öğrenime başladıkları tarihten,20
+bentleri kapsamındaki okullarda öğrenime başladıkları tarihten,
 itibaren başlar.
 Birinci fıkranın (b) bendinin uygulanmasında, gelir vergisinden muaf olanlar ile
 tarımda kendi adına ve hesabına bağımsız çalışanların kayıt ve tescil işlemleri ile ilgili olarak
 kanunla kurulmuş ilgili meslek kuruluşlarının görüşleri alınır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,8 @@ wordCount: 4274
 
 ---
 
-MADDE 45- (1) (Değişik: 2/1/2017-KHK-684/8 md.; Aynen kabul: 1/2/20187074/8 md.) Ön ödemeli konut satışında sözleşme tarihinden itibaren yirmidört aya kadar
+MADDE 45- (1) (Değişik: 2/1/2017-KHK-684/8 md.; Aynen kabul: 1/2/2018-
+7074/8 md.) Ön ödemeli konut satışında sözleşme tarihinden itibaren yirmidört aya kadar
 tüketicinin herhangi bir gerekçe göstermeden sözleşmeden dönme hakkı vardır. Sözleşmeden
 dönülmesi durumunda satıcı; konutun satışı veya satış vaadi sözleşmesi nedeniyle oluşan
 vergi, harç ve benzeri yasal yükümlülüklerden doğan masraflar ile sözleşme tarihinden
@@ -29,6 +30,8 @@ tüketiciyi borç altına sokan her türlü belge, dönme bildiriminin satıcıy
 itibaren en geç yüzseksen gün içinde tüketiciye geri verilir. Satıcının aldığı bedeli ve
 tüketiciyi borç altına sokan her türlü belgeyi iade ettiği tarihten itibaren, tüketici on gün içinde
 edinimlerini iade eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

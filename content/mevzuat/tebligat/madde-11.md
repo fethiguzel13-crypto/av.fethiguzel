@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Vekile ve kanuni mümesile tebligat**
+**Vekile ve kanuni mümesile tebligat:**
 
 ---
 
@@ -18,10 +18,10 @@ asıl tebliğ tarihi sayılır. Ancak, Ceza Muhakemeleri Usulu Kanununun, kararl
 tebliğ edilmelerine ilişkin hükümleri saklıdır.
 (Ek ikinci fıkra: 11/1/2011-6099/4 md.) Avukat tarafından takip edilen işlerde,
 avukatın bürosunda yapılacak tebligatlar, resmî çalışma gün ve saatleri içinde yapılır.
-
-
-Kanuni mümessilleri bulunanlara veya bulunması gerekenlere yapılacak tebligat
+Kanuni mümessilleri bulunanlara veya bulunması gerekenlere yapılacak tebligat
 kanunlara göre bizzat kendilerine yapılması icabetmedikçe bu mümessillere yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

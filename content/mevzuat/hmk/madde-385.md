@@ -13,11 +13,12 @@ wordCount: 4294
 
 MADDE 385- (1) Çekişmesiz yargı işlerinde, niteliğine uygun düştüğü ölçüde, basit
 yargılama usulü uygulanır.
-
-(2) Çekişmesiz yargı işlerinde aksine bir hüküm bulunmadıkça resen araştırma ilkesi
+(2) Çekişmesiz yargı işlerinde aksine bir hüküm bulunmadıkça resen araştırma ilkesi
 geçerlidir.
 (3) Mahkemeler dışındaki resmî makamlara bırakılan çekişmesiz yargı işlerinde
 uygulanacak usul, ilgili özel kanunlarında belirtilen hükümlere tabidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

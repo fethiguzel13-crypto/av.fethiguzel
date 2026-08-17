@@ -21,6 +21,8 @@ hizmeti sağlanır.
 (3) Başvuru sahibi ve uluslararası koruma statüsü sahibi kişi, sivil toplum kuruluşları
 tarafından sağlanan danışmanlık hizmetlerinden faydalanabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

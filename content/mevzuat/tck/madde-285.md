@@ -35,6 +35,8 @@ hükmolunur.
 (6) Soruşturma ve kovuşturma işlemlerinin haber verme sınırları aşılmaksızın haber
 konusu yapılması suç oluşturmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

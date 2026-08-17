@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Madde 317**
+**ÜÇÜNCÜ BÖLÜM
+Şirketin ve Ortakların Üçüncü Kişilerle Olan İlişkileri
+A) Uygulanacak hükümler**
 
 ---
 
-Madde 317 - (1) Şirket ve ortakların üçüncü kişilerle olan ilişkilerinde, bu Bölümdeki özel hükümler saklı kalmak şartıyla, kollek tif şirkete ilişkin 232 ilâ 242 nci maddeler uygulanır.
+MADDE 317- (1) Şirket ve ortakların üçüncü kişilerle olan ilişkilerinde, bu
+Bölümdeki özel hükümler saklı kalmak şartıyla, kollektif şirkete ilişkin 232 ilâ 242 nci
+maddeler uygulanır.
 
 ---
 

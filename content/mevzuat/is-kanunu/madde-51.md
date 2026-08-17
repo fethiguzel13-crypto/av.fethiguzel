@@ -23,6 +23,8 @@ Yüzdelerden toplanan paraların o işyerinde çalışan işçiler arasında yap
 niteliğine göre, hangi esaslar ve oranlar çerçevesinde dağıtılacağı Çalışma ve Sosyal Güvenlik
 Bakanlığınca hazırlanacak bir yönetmelikle gösterilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

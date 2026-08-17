@@ -7,23 +7,33 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**Mahkemelerin kuruluşu**
+**Ağırlaştırılmış müebbet hapis cezasının infazı**
 
 ---
 
-Madde 25- (1) Çocuk mahkemesi, tek hâkimden oluşur. Bu mahkemeler her il
-merkezinde kurulur. Ayrıca, bölgelerin coğrafi durumları ve iş yoğunluğu göz önünde
-tutularak belirlenen ilçelerde Hâkimler ve Savcılar Yüksek Kurulunun olumlu görüşü alınarak
-kurulabilir. İş durumunun gerekli kıldığı yerlerde çocuk mahkemelerinin birden fazla dairesi
+Madde 25- (1) Ağırlaştırılmış müebbet hapis cezasının infazı rejimine ait esaslar
+aşağıda gösterilmiştir:
+a) Hükümlü, tek kişilik odada barındırılır.
+b) Hükümlüye, günde bir saat açık havaya çıkma ve spor yapma hakkı tanınır.
+c) Risk ve güvenlik gerekleri ile iyileştirme ve eğitim çalışmalarında gösterdiği gayret
+ve iyi hâle göre; hükümlünün, açık havaya çıkma ve spor yapma süresi uzatılabileceği gibi
+kendisi ile aynı ünitede kalan hükümlülerle temasta bulunmasına sınırlı olarak izin verilebilir.
+d) Hükümlü, yaşadığı yerin olanak verdiği ve idare kurulunun uygun göreceği bir
+sanat veya meslek etkinliğini yürütebilir.
+e) Hükümlü, kurum idare kurulunun uygun gördüğü hâllerde ve onbeş günde bir kez
+olmak üzere (f) bendinde gösterilen kişilere, süresi on dakikayı geçmemek üzere telefon edebilir.
+f) Hükümlüyü; eşi, altsoy ve üstsoyu, kardeşleri ve vasisi, belirlenen gün, saat ve koşullar
+içerisinde onbeş günlük aralıklarla ve günde bir saati geçmemek üzere ziyaret edebilirler.
+g) Hükümlü hiçbir suretle ceza infaz kurumu dışında çalıştırılamaz ve kendisine izin
+verilmez.
+h) Hükümlü, kurum iç yönetmeliğinde belirtilenlerin dışında herhangi bir spor ve
+iyileştirme faaliyetine katılamaz.
+ı) Hükümlünün cezasının infazına, hiçbir surette ara verilemez. Hükümlü hakkında
+uygulanacak tüm sağlık tedbirleri, tıbbî tetkik ve zorunluluklar hariç ceza infaz kurumlarında,
+mümkün olmadığı takdirde tam teşekküllü Devlet ya da üniversite hastanelerinin tek kişilik ve
+yüksek güvenlikli mahkûm koğuşlarında uygulanır.
 
-oluşturulabilir. Bu daireler numaralandırılır. Çocuk mahkemelerinde yapılan duruşmalarda
-Cumhuriyet savcısı bulunmaz. Mahkemelerin bulunduğu yerlerdeki Cumhuriyet savcıları,
-çocuk mahkemeleri kararlarına karşı kanun yoluna başvurabilirler.
-(2) Çocuk ağır ceza mahkemelerinde bir başkan ile yeteri kadar üye bulunur ve
-mahkeme bir başkan ve iki üye ile toplanır. Bu mahkemeler bölgelerin coğrafi durumları ve iş
-yoğunluğu göz önünde tutularak belirlenen yerlerde Hâkimler ve Savcılar Yüksek Kurulunun
-olumlu görüşü alınarak kurulur. İş durumunun gerekli kıldığı yerlerde çocuk ağır ceza
-mahkemelerinin birden fazla dairesi oluşturulabilir. Bu daireler numaralandırılır.
+---
 
 ### Akademik Yorum ve Analiz
 

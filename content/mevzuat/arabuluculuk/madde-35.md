@@ -24,6 +24,8 @@ c) 320 nci maddesinin ikinci fıkrasına “tarafları sulhe” ibaresinden sonr
 “veya arabuluculuğa” ibaresi,
 eklenmiştir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

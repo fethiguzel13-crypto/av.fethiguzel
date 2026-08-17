@@ -11,7 +11,7 @@ wordCount: 4316
 
 ---
 
-Madde 415 - İşçi, işin görülmesi için işverenle anlaşarak işverenin veya kendisinin
+MADDE 415- İşçi, işin görülmesi için işverenle anlaşarak işverenin veya kendisinin
 sağladığı bir taşıma aracı kullanıyorsa, taşıtın işletilmesi ve bakımı için gerekli olağan
 giderler, hizmet için kullanıldığı ölçüde işverence karşılanır.
 İşçi işverenle anlaşarak, işin görülmesinde kendi motorlu aracını kullanıyorsa, işveren

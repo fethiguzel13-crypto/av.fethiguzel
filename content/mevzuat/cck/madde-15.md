@@ -7,16 +7,22 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**Soruşturma**
+**Çocuk eğitimevleri**
 
 ---
 
-Madde 15- (1) Suça sürüklenen çocuk hakkındaki soruşturma çocuk bürosunda
-görevli Cumhuriyet savcısı tarafından bizzat yapılır.
-(2) Çocuğun ifadesinin alınması veya çocuk hakkındaki diğer işlemler sırasında,
-çocuğun yanında sosyal çalışma görevlisi bulundurulabilir.
-(3) Cumhuriyet savcısı soruşturma sırasında gerekli görüldüğünde çocuk hakkında
-koruyucu ve destekleyici tedbirlerin uygulanmasını çocuk hâkiminden isteyebilir.
+Madde 15- (1) Çocuk eğitimevleri; çocuk hükümlüler hakkında verilen cezaların,
+hükümlülerin eğitilmeleri, meslek edinmeleri ve yeniden toplumla bütünleştirilmeleri amaçları
+güdülerek yerine getirildiği tesislerdir. Bu kurumlarda firara karşı engel bulundurulmaz; kurum
+güvenliği iç güvenlik görevlilerinin gözetim ve sorumluluğunda sağlanır.
+(2) Kurum içinde veya dışında herhangi bir eğitim ve öğretim programına devam eden
+ve onsekiz yaşını dolduran çocukların, eğitim ve öğretimlerini tamamlayabilmeleri
+bakımından yirmibir yaşını bitirinceye kadar bu tesislerde kalmalarına izin verilebilir.
+(3) Haklarında tutuklama kararı bulunanlar ile 11 inci madde kapsamına girenler hariç
+olmak üzere, bu tesislerde bulunan çocuk hükümlüler kapalı ceza infaz kurumlarına
+gönderilmezler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

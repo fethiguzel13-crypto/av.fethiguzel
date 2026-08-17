@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**yükümlülüğü**
+**Görevden uzaklaştırılan veya görevinden uzak kalan memurların hak ve
+yükümlülüğü:**
 
 ---
 
@@ -21,6 +22,8 @@ kesilmiş olan üçte biri kendilerine ödenir ve görevden uzakta geçirdikleri
 derecelerindeki kademe ilerlemesinde ve bu sürenin derece yükselmesi için gerekli en az
 bekleme süresini aşan kısmı, üst dereceye yükselmeleri halinde, bu derecede kademe
 ilerlemesi yapılmak suretiyle değerlendirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

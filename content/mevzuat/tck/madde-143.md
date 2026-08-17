@@ -12,7 +12,9 @@ wordCount: 4288
 ---
 
 Madde 143- (1) Hırsızlık suçunun gece vakti işlenmesi halinde, verilecek ceza yarı
-oranında artırılır.67
+oranında artırılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -21,10 +21,7 @@ işverene ödettirilir. İşverenin sorumluluğunun tespitinde kaçınılmazlık
 tarafından Kuruma bildirilmemesi halinde, bildirim tarihine kadar geçen süre için sigortalıya
 ödenecek geçici iş göremezlik ödeneği, Kurumca işverenden tahsil edilir.
 Çalışma mevzuatında sağlık raporu alınması gerektiği belirtilen işlerde, böyle bir
-38 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlerin” ibaresi “engellilik hâllerinin” şeklinde değiştirilmiştir. 39 17/4/2008 tarihli ve 5754 sayılı Kanunun 65 inci maddesiyle bu fıkrada yer alan “prim ve her türlü borçlarının” ibaresi “prim ve prime ilişkin her türlü borçlarının” şeklinde değiştirilmiştir.
-
-
-rapora dayanılmaksızın veya eldeki rapora aykırı olarak bünyece elverişli olmadığı işte
+rapora dayanılmaksızın veya eldeki rapora aykırı olarak bünyece elverişli olmadığı işte
 çalıştırılan sigortalının, bu işe girmeden önce var olduğu tespit edilen veya bünyece elverişli
 olmadığı işte çalıştırılması sonucu meydana gelen hastalığı nedeniyle, Kurumca sigortalıya
 ödenen geçici iş göremezlik ödeneği işverene ödettirilir.
@@ -40,7 +37,8 @@ gelirler için kurumuna veya ilgililere rücû edilmez. Ayrıca, iş kazası vey
 sonucu ölümlerde, bu Kanun uyarınca hak sahiplerine bağlanacak gelir ve verilecek ödenekler
 için, iş kazası veya meslek hastalığının meydana gelmesinde kusuru bulunan hak sahiplerine
 veya iş kazası sonucu ölen kusurlu sigortalının hak sahiplerine, Kurumca rücû edilmez.
-Sigortalının kendisinden kaynaklanan sebeplerle tedavi süresinin uzaması, iş
+
+---
 
 ### Akademik Yorum ve Analiz
 

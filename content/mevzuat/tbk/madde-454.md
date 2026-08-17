@@ -12,9 +12,8 @@ wordCount: 4319
 
 ---
 
-Madde 454 - İşveren, pazarlamacıya sadece belirli bir miktardan veya bu miktarla
+MADDE 454- İşveren, pazarlamacıya sadece belirli bir miktardan veya bu miktarla
 birlikte komisyondan oluşan bir ücret ödemekle yükümlüdür.
-
 Ücretin tamamının veya önemli kısmının komisyondan oluşacağına ilişkin yazılı
 anlaşma, kararlaştırılan komisyonun, pazarlamacının faaliyetinin uygun karşılığını
 oluşturması koşuluyla geçerlidir.

@@ -18,6 +18,8 @@ cezaya hükmolunur.
 ilişkin ceza yarı oranında artırılarak hükmolunur. Ancak, bu suretle verilecek ceza beş yıldan
 az olamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

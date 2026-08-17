@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**Cetvele itiraz**
+**Cetvele itiraz:**
 
 ---
 
@@ -17,7 +17,8 @@ mahkemesinde alakadarlar aleyhine dava etmek suretiyle cetvel mündericatına it
 Dava basit yargılama usulüyle görülür.
 İtiraz alacağın esas ve miktarına taallük etmeyip yalnız sıraya dairse şikayet yoliyle
 icra mahkemesine arzolunur.
-Teminat karşılığı ödeme:
+
+---
 
 ### Akademik Yorum ve Analiz
 

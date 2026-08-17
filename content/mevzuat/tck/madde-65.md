@@ -18,14 +18,8 @@ infaz kurumunda çektirilecek süresi kısaltılabilir ya da adlî para cezasın
 (3) Cezaya bağlı olan veya hükümde belirtilen hak yoksunlukları, özel affa rağmen
 etkisini devam ettirir.
 Dava zamanaşımı
-31/3/2005 tarihli ve 5328 sayılı Kanunun 2 nci maddesiyle bu fıkrada yer alan “beşte” ibaresi
-“altıda” olarak değiştirilmiştir.
-12/5/2022 tarihli ve 7406 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “sürecindeki
-davranışları,” ibaresi “sürecindeki pişmanlığını gösteren davranışları veya” şeklinde değiştirilmiş ve
-“gibi hususlar” ibaresi madde metninden çıkarılmış, fıkraya “kararda” ibaresinden sonra gelmek
-üzere “gerekçeleriyle” ibaresi eklenmiştir.
-2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “yüz” ibaresi
-“beşyüz” şeklinde değiştirilmiştir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

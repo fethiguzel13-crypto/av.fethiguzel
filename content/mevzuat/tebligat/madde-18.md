@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Otel, hastane, fabrika ve mektep gibi yerlerde tebligat**
+**Otel, hastane, fabrika ve mektep gibi yerlerde tebligat:**
 
 ---
 
@@ -16,6 +16,8 @@ mektep, talebe yurdu gibi içine serbestçe girilemiyen veya arananın kolayca b
 mümkün olmıyan bir yerde bulunuyorsa, tebliğin yapılmasını o yeri idare eden veya
 muhatabın bulunduğu kısmın amiri temin eder. Bunlar tarafından muhatabın derhal
 buldurulması veya tebliğin temini mümkün olmazsa, tebliğ kendilerine yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

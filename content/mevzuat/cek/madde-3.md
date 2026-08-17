@@ -64,13 +64,16 @@ Türk Ticaret Kanununun 707 nci maddesi uyarınca kısmen veya tamamen ödenmemi
 hâlinde, bu çekle ilgili olarak hukukî takip yapılamaz. İleri düzenleme tarihli çekle ilgili
 olarak hukukî takip yapılabilmesi için, çekin üzerindeki düzenleme tarihine göre kanunî ibraz
 süresi içinde bankaya ibraz edilmesi ve karşılıksızdır işlemine tabi tutulması şarttır.
-(9) Çekin, üzerinde yazılı baskı tarihinden itibaren beş yıl içinde ibraz edilmemesi
-hâlinde, muhatap bankanın üçüncü fıkraya göre ödemekle yükümlü olduğu tutara ilişkin
-sorumluluğu sona erer.
-(10) Lehine karekodlu çek düzenlenen lehdar, teslim aldığı çeki Türk Ticaret
-Kanununun 780 inci maddesinin üçüncü fıkrasında belirtilen sisteme kaydeder. Karekodlu
-çekin sisteme kaydedildiği tarihten sonra çek düzenleyen tüzel kişinin temsilcilerinde meydana
-gelen değişiklikler, çek hesabı sahibi tüzel kişinin sorumluluğunu ortadan kaldırmaz.
+(9) (Ek: 31/1/2012-6273/2 md.) Çekin, üzerinde yazılı baskı tarihinden itibaren beş
+yıl içinde ibraz edilmemesi hâlinde, muhatap bankanın üçüncü fıkraya göre ödemekle
+yükümlü olduğu tutara ilişkin sorumluluğu sona erer.
+(10) (Ek: 15/7/2016-6728/62 md.) Lehine karekodlu çek düzenlenen lehdar, teslim
+aldığı çeki Türk Ticaret Kanununun 780 inci maddesinin üçüncü fıkrasında belirtilen sisteme
+kaydeder. Karekodlu çekin sisteme kaydedildiği tarihten sonra çek düzenleyen tüzel kişinin
+temsilcilerinde meydana gelen değişiklikler, çek hesabı sahibi tüzel kişinin sorumluluğunu
+ortadan kaldırmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

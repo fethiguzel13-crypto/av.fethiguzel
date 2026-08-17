@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4283
 ---
 
-**İlanen tebligatta tebliğ tarihi**
+**İlanen tebligatta tebliğ tarihi:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 31 – (Değişik: 6/6/1985 - 3220/10 md.)
 İlanen tebliğ, son ilan tarihinden itibaren yedi gün sonra yapılmış sayılır.İlanen tebliğe
 karar veren merci, icabına göre daha uzun bir müddet tayin edebilir. Ancak, bu süre 15 günü
 geçemez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

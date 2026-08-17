@@ -16,6 +16,8 @@ tamamen hak iddia eden üçüncü kişi, hüküm verilinceye kadar bu durumu ile
 yargılamanın taraflarına karşı aynı mahkemede dava açabilir.
 (2) Asli müdahale davası ile asıl yargılama birlikte yürütülür ve karara bağlanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

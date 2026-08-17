@@ -11,7 +11,7 @@ wordCount: 4261
 
 ---
 
-Madde 280 - Cebrî artırmalarda zapttan ve ayıptan sorumluluğa ilişkin hükümler
+MADDE 280- Cebrî artırmalarda zapttan ve ayıptan sorumluluğa ilişkin hükümler
 uygulanmaz.
 Artırmadan mal alan kişi, o mala, tapu siciline veya satış koşullarına ya da kanuna
 göre belirli olan durumu, hakları ve yükleri ile birlikte malik olur.

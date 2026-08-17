@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**Kıymeti düşen mallar**
+**Kıymeti düşen mallar:**
 
 ---
 
@@ -15,7 +15,8 @@ Madde 278 – Yangın, deprem ve su basması gibi afetler yüzünden veyahut boz
 çürümek, kırılmak, çatlamak, paslanmak gibi haller neticesinde iktisadi kıymetlerinde önemli
 bir azalış vakı olan emtia ile maliyetlerinin hesaplanması mütat olmıyan hurdalar ve
 döküntüler, üstüpü, deşe ve ıskartalar emsal bedeli ile değerlenir.
-İmha edilmesi gereken mallar:
+
+---
 
 ### Akademik Yorum ve Analiz
 

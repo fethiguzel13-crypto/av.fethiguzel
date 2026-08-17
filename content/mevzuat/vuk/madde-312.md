@@ -7,14 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Arazide kira**
+**Arazide kira:**
 
 ---
 
 Madde 312 – Bir arazinin getireceği kiranın bilinmesi icabeden hallerde arazi
 kıymetinin onda biri emsal kirası sayılır.
-ÜÇÜNCÜ KISIM
-Amortismanlar
+
+---
 
 ### Akademik Yorum ve Analiz
 

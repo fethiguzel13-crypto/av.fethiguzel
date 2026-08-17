@@ -11,8 +11,10 @@ wordCount: 4313
 
 ---
 
-Madde 567 - Mirasbırakanın kendi ölümünde ödenmek üzere üçüncü kişi lehine hayat sigortası yap tığı veya böyle bir kişiyi lehdar olarak sonra belirlediği ya da sigortacıya karşı olan
-istem hakkını sağlararası veya ölüme bağlı tasarruf la karşılıksız olarak üçüncü kişiye devrettiği hâllerde, sigorta alacağının mirasbırakanın ölümü zamanındaki satınalm a değeri tenkise tâbi olur.
+Madde 567- Mirasbırakanın kendi ölümünde ödenmek üzere üçüncü kişi lehine hayat
+sigortası yaptığı veya böyle bir kişiyi lehdar olarak sonra belirlediği ya da sigortacıya karşı olan
+istem hakkını sağlararası veya ölüme bağlı tasarrufla karşılıksız olarak üçüncü kişiye devrettiği
+hâllerde, sigorta alacağının mirasbırakanın ölümü zamanındaki satınalma değeri tenkise tâbi olur.
 
 ---
 

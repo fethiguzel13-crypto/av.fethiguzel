@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**XII
-- Ödünç verme**
+**XII - Ödünç verme**
 
 ---
 
-Madde 1501 - (1) En az bir yıldan beri yürürlükte bulunan ve bir yıllık primi ödenmiş olan sigorta sözleşmelerinde, sigorta ettirenin istemesi hâlinde sigortacı, istem anındaki, genel kabul görmüş aktüerya kurallarına uygun bir biçimde hesaplanan değer üzerinden sigortalıya ödünç para vermek zorundadır.
+MADDE 1501- (1) En az bir yıldan beri yürürlükte bulunan ve bir yıllık primi
+ödenmiş olan sigorta sözleşmelerinde, sigorta ettirenin istemesi hâlinde sigortacı, istem
+anındaki, genel kabul görmüş aktüerya kurallarına uygun bir biçimde hesaplanan değer
+üzerinden sigortalıya ödünç para vermek zorundadır.
 
 ---
 

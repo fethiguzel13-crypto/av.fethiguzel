@@ -11,7 +11,10 @@ wordCount: 4261
 
 ---
 
-Madde 815 - Yerel âdetlere göre iyi bir yönetimin gereği olduğu takdirde intifa hakkı sahibi, malikin lehine malı yangına ve diğer tehlikelere karşı sigorta ettirmekle yükümlüdür. Bu durumda veya intifa hakkının sigortalı bir mal üzerind e kurulmuş olması hâlinde intifa hakkı sahibi, hakkının devamı süresince sigorta primlerini ödemekle yük ümlüdür.
+Madde 815- Yerel âdetlere göre iyi bir yönetimin gereği olduğu takdirde intifa hakkı
+sahibi, malikin lehine malı yangına ve diğer tehlikelere karşı sigorta ettirmekle yükümlüdür.
+Bu durumda veya intifa hakkının sigortalı bir mal üzerinde kurulmuş olması hâlinde intifa
+hakkı sahibi, hakkının devamı süresince sigorta primlerini ödemekle yükümlüdür.
 
 ---
 

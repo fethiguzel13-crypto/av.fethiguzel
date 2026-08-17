@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**Müstacel hallerde tebligat**
+**Müstacel hallerde tebligat:**
 
 ---
 
 Madde 42 – (Mülga: 6/6/1985-3220/21 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

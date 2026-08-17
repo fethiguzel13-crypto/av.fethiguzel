@@ -13,6 +13,8 @@ wordCount: 4313
 
 MADDE 123 – (Mülga: 2/7/2018-KHK-703/71 md.)
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

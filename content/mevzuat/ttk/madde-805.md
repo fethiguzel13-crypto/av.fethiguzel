@@ -7,13 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**VIII
-- Hesaba geçirilmek üzere düzenlenen çek
+**VIII - Hesaba geçirilmek üzere düzenlenen çek
 1. Genel olarak**
 
 ---
 
-Madde 805 - (1) Bir çekin düzenleyeni veya hamili çekin ön yüzüne “hesaba geçirilecektir” kaydını veya buna benzer bir ibarey i yazarak çekin nakden ödenmesini önleyebilir. Bu takdirde çek, muhatap tarafından ancak hesaba alacak kaydı, takas, hesap nakli suretiyle kayden ödenebilir. Bu kayıtlar ödeme yerine geçer. (2) “hesaba geçirilecektir” kaydının çizilmesi geçersizdir. (3) Bi rinci ve ikinci fıkralara aykırı hareket eden muhatap, çekin bedelini aşmamak üzere, zarardan sorumludur.
+MADDE 805- (1) Bir çekin düzenleyeni veya hamili çekin ön yüzüne “hesaba
+geçirilecektir” kaydını veya buna benzer bir ibareyi yazarak çekin nakden ödenmesini
+önleyebilir. Bu takdirde çek, muhatap tarafından ancak hesaba alacak kaydı, takas, hesap
+nakli suretiyle kayden ödenebilir. Bu kayıtlar ödeme yerine geçer.
+(2) “hesaba geçirilecektir” kaydının çizilmesi geçersizdir.
+(3) Birinci ve ikinci fıkralara aykırı hareket eden muhatap, çekin bedelini aşmamak
+üzere, zarardan sorumludur.
 
 ---
 

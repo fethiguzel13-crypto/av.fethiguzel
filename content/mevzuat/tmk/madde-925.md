@@ -8,11 +8,18 @@ wordCount: 4270
 ---
 
 **IV. İptal
-1. Senedin k aybedilmesi**
+1. Senedin kaybedilmesi**
 
 ---
 
-Madde 925 - Rehin senedi irade dışında elden çıkmış veya borcu sona erdirme ka stı olmaksızın yok edilmiş ise alacaklı, rehin senedini ve kuponu mahkeme kararıyla iptal ettirerek borç ludan borcunu ödemesini ve eğer alacak henüz muaccel değilse y eni bir rehin senedi veya kupon düzenlenmesini isteyebilir. İptal kararı, hamile yazılı kı ymetli evrakın iptaline ilişkin hükümler gereğince verilir; ancak, ibraz süresi bir yıldır. Borçlu da ö denmiş olmasına rağmen geri verilmemiş olan senet için aynı hü kümler uyarınca senedin iptalini isteyebilir.
+Madde 925- Rehin senedi irade dışında elden çıkmış veya borcu sona erdirme kastı
+olmaksızın yok edilmiş ise alacaklı, rehin senedini ve kuponu mahkeme kararıyla iptal ettirerek
+borçludan borcunu ödemesini ve eğer alacak henüz muaccel değilse yeni bir rehin senedi veya
+kupon düzenlenmesini isteyebilir.
+İptal kararı, hamile yazılı kıymetli evrakın iptaline ilişkin hükümler gereğince verilir;
+ancak, ibraz süresi bir yıldır.
+Borçlu da ödenmiş olmasına rağmen geri verilmemiş olan senet için aynı hükümler
+uyarınca senedin iptalini isteyebilir.
 
 ---
 

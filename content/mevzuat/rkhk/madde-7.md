@@ -21,6 +21,8 @@ araçları, miras yoluyla iktisap durumu hariç olmak üzere, devralması hukuka
 Hangi tür birleşme ve devralmaların hukuki geçerlilik kazanabilmesi için Kurula
 bildirilerek izin alınması gerektiğini Kurul, çıkaracağı tebliğlerle ilan eder.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

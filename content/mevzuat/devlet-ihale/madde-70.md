@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4280
 ---
 
-**Müteahhit veya müşterinin birden fazla olması hali**
+**Müteahhit veya müşterinin birden fazla olması hali:**
 
 ---
 
@@ -21,6 +21,8 @@ sözleşme yenilenerek işe devam edilir.
 Birlikte yapılan taahhütlerde gruba dahil pilot firmadan başka herhangi bir ortak şahsın
 ölümü veya ortak şirketin herhangi bir sebeple dağılması halinde, pilot firma ve grubun diğer
 ortakları, teminat dahil işin o ortağa yüklediği sorumlulukları da üzerlerine alarak işi bitirirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

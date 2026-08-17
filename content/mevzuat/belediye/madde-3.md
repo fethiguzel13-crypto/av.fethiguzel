@@ -22,6 +22,8 @@ d) Mahalle: Belediye sınırları içinde, ihtiyaç ve öncelikleri benzer özel
 ve sakinleri arasında komşuluk ilişkisi bulunan idarî birimi,
 İfade eder.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

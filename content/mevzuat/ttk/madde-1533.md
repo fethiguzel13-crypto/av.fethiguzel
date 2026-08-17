@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**Madde 1533**
+**İ) Yürürlükten kaldırılan hükümler**
 
 ---
 
-Madde 1533 - (1) 29/6/1956 tarihli ve 6762 sayılı Türk Ticaret Kanunu yürürlükten kaldırılmıştır. GEÇİCİ
+MADDE 1533- (1) 29/6/1956 tarihli ve 6762 sayılı Türk Ticaret Kanunu yürürlükten
+kaldırılmıştır.
 
 ---
 

@@ -11,7 +11,7 @@ wordCount: 4270
 
 ---
 
-Madde 228 - Alıcıya ayıplı olarak devredilmiş olan satılanın ayıptan, beklenmedik
+MADDE 228- Alıcıya ayıplı olarak devredilmiş olan satılanın ayıptan, beklenmedik
 hâlden veya mücbir sebepten dolayı yok olması veya ağır biçimde zarara uğraması, alıcının
 sözleşmeden dönme hakkını kullanmasını engellemez. Bu durumda alıcı, satılandan elinde ne
 kalmışsa onu geri vermekle yükümlüdür.

@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4280
 ---
 
-**Yasak eşyanın geri gönderilmesi**
+**Hukuka uygunluk nedenleri ile kusurluluğu ortadan kaldıran nedenler**
 
 ---
 
-MADDE 12 – (1) Yabancı ülkelerden gelen yasak eşya, yükleme veya taşıma
-belgelerinde belirtilerek gümrüğe getirilirse, teminat altında ve gerekli güvenlik tedbirleri
-alınarak geldiği yere veya diğer bir ülkeye iade ve sevk olunur.
-(2) Kaçakçılık fiilinin konusunu, toplum ve çevre sağlığı yönünden tehlikeli ve zararlı
-eşya ile atık maddelerin oluşturması halinde, ilgililer hakkında soruşturma işlemleri
-başlatılmakla birlikte, bunlar gümrük yetkilileri tarafından derhal getirildiği ülkeye iade edilir.14
+Madde 12- (1) Bu Kanunda aksine hüküm bulunmayan hallerde, Türk Ceza
+Kanununun hukuka uygunluk nedenleri ile kusurluluğu ortadan kaldıran nedenlere ilişkin
+hükümleri, kabahatler bakımından da uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -17,6 +17,8 @@ mahkemesi de yetkilidir.
 bir ortağına veya üyesine karşı veya bir ortağın yahut üyenin bu sıfatla diğerlerine karşı açacakları
 davalar için, ilgili tüzel kişinin merkezinin bulunduğu yer mahkemesi kesin yetkilidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

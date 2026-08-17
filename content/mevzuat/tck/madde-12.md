@@ -33,6 +33,8 @@ yeniden yargılama yapılır.
 (5) (Ek: 18/6/2014-6545/56 md.) Birinci fıkra kapsamına giren hâllerde rüşvet ve nüfuz
 ticareti suçlarından dolayı yargılama yapılması Adalet Bakanının istemine bağlı değildir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

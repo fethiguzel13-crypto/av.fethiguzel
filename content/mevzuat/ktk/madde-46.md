@@ -8,7 +8,11 @@ wordCount: 2600
 keywords: ["Trafik Akışı", "7574 Sayılı Kanun", "Yol Öfkesi", "Road Rage", "Ters Yön", "Makas Atmak", "Konvoy", "Sigorta Rücu", "Bilinçli Taksir", "Ehliyet İptali"]
 ---
 
-**Karayollarında trafiğin akışı**
+**ALTINCI KISIM
+Trafik Kuralları
+BİRİNCİ BÖLÜM
+Genel Kurallar
+Karayollarında trafiğin akışı:**
 
 ---
 
@@ -31,12 +35,7 @@ f) (Ek:18/10/2018-7148/19 md.) Trafik kazası, arıza hâlleri, acil yardım, ku
 kar mücadelesi, kaza incelemesi, genel güvenlik ve asayişin sağlanması gibi durumlar dışında
 emniyet şeritlerini ve banketleri kullanmamak,
 g) (Ek:18/10/2018-7148/19 md.) Trafiği aksatacak veya tehlikeye sokacak şekilde
-12/7/2013 tarihli ve 6495 sayılı Kanunun 19 uncu maddesiyle bu madde başlığı “Sağlık şartlarında
-sonradan meydana gelen değişiklikler ile sahte olan, hile ile alınan veya şartlarına uygun olmadan
-verilen sürücü belgeleri:” iken, metne işlendiği şekilde değiştirilmiştir.
-39
-
-ardı ardına birden fazla şerit değiştirmemek,
+ardı ardına birden fazla şerit değiştirmemek,
 h) (Ek:18/10/2018-7148/19 md.) Tekyönlü karayollarında araçlarını ters istikamette
 sürmemek
 i) (Ek:12/2/2026-7574/10 md.) Yerleşim yeri içerisinde bölünmüş karayollarında
@@ -52,7 +51,7 @@ n) (Ek:12/2/2026-7574/10 md.) Araçlarını, kol veya grup halinde (konvoy şekl
 veya münferiden sürerken, diğer araçların geçişini zorlaştıracak veya tehlikeye sokacak
 şekilde keyfi hareketlerle trafiğin akışını kısmen veya tamamen engelleyecek şekilde
 araçlarını karayolu üzerinde durdurmamak,
-zorundadırlar.40
+zorundadırlar.
 Karayollarının belirli kesimlerinde, bu yollardan faydalanma zorunda olan hayvan
 sürücüleri, hayvanlarını veya hayvan sürülerini gidiş yönünde yolun en sağından ve en az
 genişlik işgal ederek ve imkan olduğunda taşıt yolu dışından götürmek zorundadırlar.
@@ -73,11 +72,7 @@ veya tünelde ihlal edilmesi halinde verilecek idari para cezası ile sürücü 
 araç trafikten men süreleri iki kat olarak uygulanır.
 (Ek fıkra:12/2/2026-7574/10 md.) Bu madde kapsamında geri alınan sürücü
 belgelerinin iade edilebilmesi için bu Kanun kapsamında verilen idari para cezalarının
-12/2/2026 tarihli ve 7574 sayılı Kanunun 10 uncu maddesiyle bu fıkrada yer alan “Zorundadırlar”
-ibaresi “zorundadırlar” şeklinde değiştirilmiştir.
-40
-
-tamamının tahsil edilmiş olması şarttır. Ayrıca ikinci fıkranın (j) bendi ile dördüncü fıkra
+tamamının tahsil edilmiş olması şarttır. Ayrıca ikinci fıkranın (j) bendi ile dördüncü fıkra
 hükümlerinin ihlali nedeniyle geri alınan sürücü belgeleri, geri alma süresi sonunda
 sürücünün psiko-teknik değerlendirmeden geçirilerek sürücü belgesi almasına mâni hâli
 olmadığının anlaşılması şartıyla iade edilir.
@@ -95,6 +90,8 @@ Kanunun 6 ncı maddesinde sayılan görevliler tarafından yapılır.
 (Ek fıkra:12/2/2026-7574/10 md.) Kanunda öngörülen şekil, şart ve usullere uygun
 olarak düzenlenen toplantı ve gösteri yürüyüşleri esnasında ikinci fıkranın (n) bendinde
 belirtilen fiillerin işlenmesi halinde bu bentteki ihlale konu kabahat oluşmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Madde 718**
+**Kamulaştırma hâlinde mülkiyetin ne zaman sona ereceği özel kanunla belirlenir
+İKİNCİ AYIRIM
+TAŞINMAZ MÜLKİYETİNİN İÇERİĞİ VE KISITLAMALARI
+A. Taşınmaz mülkiyetinin içeriği
+I. Kapsam**
 
 ---
 
-Madde 718 - Arazi üzerindeki mülkiyet, kullanılmasında yarar olduğu ölçüde, üstündeki hava ve altındaki arz katmanlarını ka psar. Bu mülkiyetin kapsamına, yasal sınırlamalar saklı kalmak üzere yapılar, bitkiler ve kaynaklar da girer.
+Madde 718- Arazi üzerindeki mülkiyet, kullanılmasında yarar olduğu ölçüde, üstündeki
+hava ve altındaki arz katmanlarını kapsar.
+Bu mülkiyetin kapsamına, yasal sınırlamalar saklı kalmak üzere yapılar, bitkiler ve
+kaynaklar da girer.
 
 ---
 

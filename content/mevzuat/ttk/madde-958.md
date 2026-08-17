@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**V
-- Tescili caiz olmayan gemiler**
+**V- Tescili caiz olmayan gemiler**
 
 ---
 
-Madde 958 - (1) Türk gemisi olmayan gemilerle, yabancı bir gemi siciline kayıtlı bulunan Türk gemileri, donanmaya bağlı harp gemileri, yardımcı gemiler ve Devlet, il özel idaresi, belediye ve köy ile diğer kamu tüzel ki şilerine ait münhasıran bir kamu hizmetinin görülmesine özgülenmiş gemiler Türk Gemi Siciline tescil olunamaz.
+MADDE 958- (1) Türk gemisi olmayan gemilerle, yabancı bir gemi siciline kayıtlı
+bulunan Türk gemileri, donanmaya bağlı harp gemileri, yardımcı gemiler ve Devlet, il özel
+idaresi, belediye ve köy ile diğer kamu tüzel kişilerine ait münhasıran bir kamu hizmetinin
+görülmesine özgülenmiş gemiler Türk Gemi Siciline tescil olunamaz.
 
 ---
 

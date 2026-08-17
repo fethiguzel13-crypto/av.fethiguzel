@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**V. Durumun değişme si**
+**V. Durumun değişmesi**
 
 ---
 
-Madde 331 - Durumun değişmesi hâlinde hâkim, istem üzerine nafaka miktarını ye niden belirler veya nafakay ı kaldırır.
+Madde 331- Durumun değişmesi hâlinde hâkim, istem üzerine nafaka miktarını yeniden
+belirler veya nafakayı kaldırır.
 
 ---
 

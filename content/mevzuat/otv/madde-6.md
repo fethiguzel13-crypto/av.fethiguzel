@@ -18,7 +18,9 @@ haklara sahip mensupları tarafından kendi ihtiyaçları için ilk iktisabı, i
 ile ev sahibi hükümet anlaşmaları veya ülkemizin taraf olduğu diğer anlaşmalar çerçevesinde
 Türkiye’deki uluslararası kuruluşlar ve bunların yönetici kadrolarında görev yapan Türkiye
 Cumhuriyeti vatandaşı olmayan mensupları tarafından Türkiye’de görevde bulundukları süre
-içinde kendi ihtiyaçları için ilk iktisabı, ithali veya bunlara teslimi vergiden müstesnadır.5
+içinde kendi ihtiyaçları için ilk iktisabı, ithali veya bunlara teslimi vergiden müstesnadır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

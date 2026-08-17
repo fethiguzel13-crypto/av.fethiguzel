@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
-**Ödeme emri**
+**Ödeme emri:**
 
 ---
 
@@ -18,6 +18,8 @@ uygun olmak üzere birer ödeme emri gönderir:
 1. Ödeme müddeti onbeş gündür.
 2. Yedi gün içinde itiraz olunmaz ve 1 numaralı bendde yazılı müddet içinde borç
 ödenmezse rehnin satılacağı bildirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4278
 ---
 
-**sözcüsü vazifesini görürler.**
+Madde 64 – İdare kurullarının kazai vazife görmek üzere toplantılarında idari davaya
+esas olan kararı vermiş bulunan idare amiri üye sıfatiyle bulunamaz ve oya katılamaz.
 
 ---
-
-Madde 64 – İdare kurullarının kazai vazife görmek üzere toplantılarında idari davaya
 
 ### Akademik Yorum ve Analiz
 

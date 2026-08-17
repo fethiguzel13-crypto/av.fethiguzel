@@ -18,6 +18,8 @@ kaydedilerek mahkemeye ibraz edilir.
 (2) Ticari defterler gibi devamlı kullanılan belgelerin sadece ilgili kısımlarının onaylı
 örnekleri mahkemeye ibraz edilebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -18,9 +18,11 @@ a) Davada, iki taraftan birine öğüt vermiş ya da yol göstermiş olması.
 b) Davada, iki taraftan birine veya üçüncü kişiye kanunen gerekmediği hâlde görüşünü
 açıklamış olması.
 c) Davada, tanık veya bilirkişi olarak dinlenmiş veya hâkim ya da hakem sıfatıyla
-hareket etmiş olması; uyuşmazlıkta arabuluculuk veya uzlaştırmacılık yapmış bulunması.5
+hareket etmiş olması; uyuşmazlıkta arabuluculuk veya uzlaştırmacılık yapmış bulunması.
 ç) Davanın, dördüncü derece de dâhil yansoy hısımlarına ait olması.
 d) Dava esnasında, iki taraftan birisi ile davası veya aralarında bir düşmanlık bulunması.
+
+---
 
 ### Akademik Yorum ve Analiz
 

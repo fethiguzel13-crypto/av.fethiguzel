@@ -7,23 +7,34 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**Çocuğun giderleri**
+**Ziyaretçi kabulünden yoksun bırakma**
 
 ---
 
-Madde 43- (1) Çocuk hakkında verilen koruyucu ve destekleyici tedbir kararlarının
-giderleri Devletçe ödenir. Ödenecek miktar mahkemece verilecek bir karar ile tespit edilir.
-(2) Türk Medenî Kanunu hükümlerine göre çocuğa bakmakla yükümlü olan kimsenin
-malî durumunun müsait olması hâlinde, Devletçe ödenen meblağın tahsili için ilgililere rücu
-edilir.
+Madde 43- (1) Ziyaretçi kabulünden yoksun bırakma cezası, hükümlünün bir aydan
+üç aya kadar ziyaretçi görüşüne çıkarılmamasıdır.
+(2) Ziyaretçi kabulünden yoksun bırakma cezasını gerektiren eylemler şunlardır:
+a) Sayım yapılmasına karşı çıkmak.
+b) Aramaya karşı çıkmak.
+c) Sevke, nakle veya bunlarla ilgili olarak alınacak tedbirlere karşı çıkmak.
+d) Kurumda korku, kaygı veya panik yaratabilecek biçimde söz söylemek veya
+davranışta bulunmak.
+e) Hükümlülerin haberleşmelerini, ziyaretçileriyle görüşmelerini, iyileştirme ve eğitim
+programları çerçevesinde eğitim ve spor, meslek kazandırma ve işyurdu çalışmaları ile diğer
+sosyal ve kültürel faaliyetlere katılmalarını, kurum hekimince muayene ve tedavi edilmelerini,
+avukat tayin etmelerini, mahkemelere veya Cumhuriyet Başsavcılıklarına gitmelerini, kurum
+görevlileri ile görüşmelerini, salıverilenlerin kurum dışına çıkmalarını her ne suretle olursa
+olsun engellemek, hükümlü ve tutukluları bu fiillere teşvik etmek, bu yolda talimat vermek,
+mevzuatın hükümlü ve tutuklulara tanıdığı sair her türlü görüşme ve temas olanaklarını
+engellemek.
+f) Kumar ve benzeri oyunlar oynamak veya oynatmak.
+g) (Ek: 20/11/2017-KHK-696/101 md.; Aynen kabul: 1/2/2018-7079/95 md.) (İptal
+bent: Anayasa Mahkemesinin 27/12/2023 tarihli ve E: 2018/96, K: 2023/222 sayılı Kararı
+ile)
+(3) Resmî ve yetkili merciler ile avukatlar ve yasal temsilcilerle görüşmelerde bu
+madde hükmü uygulanmaz.
 
-28/3/2023 tarihli ve 7445 sayılı Kanunun 42 nci maddesiyle bu fıkrada yer alan “hafta sonu ve
-resmî tatil günlerinde” ibaresi madde metninden çıkarılmıştır.
-7
-24/11/2021 tarihli ve 7343 sayılı Kanunun 39 uncu maddesiyle Kanununa 41 inci maddesinden
-sonra gelmek üzere başlığı ile birlikte Dördüncü Kısım eklenmiş, mevcut Dördüncü Kısım, Beşinci
-Kısım olarak teselsül ettirilmiştir.
-6
+---
 
 ### Akademik Yorum ve Analiz
 

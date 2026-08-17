@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**Tarihi ve bedii değeri olan taşınmaz malların kiraya verilmesi**
+**Tarihi ve bedii değeri olan taşınmaz malların kiraya verilmesi:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 73 – Tarihi ve bedii değeri olan taşınmaz mallar Kültür ve Turizm
 Bakanlığının görüşü alınarak, Maliye Bakanlığınca çıkarılacak bir yönetmelikte tespit
 olunacak esas ve şartlara göre, Maliye Bakanlığınca kiraya verilebilir.
 Vakıflara ait özel hükümler saklıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

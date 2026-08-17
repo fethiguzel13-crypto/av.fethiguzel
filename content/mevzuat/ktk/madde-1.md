@@ -7,12 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**Amaç**
+**Genel Esaslar
+BİRİNCİ BÖLÜM
+Amaç ve Kapsam
+Amaç:**
 
 ---
 
 Madde 1 – Bu Kanunun amacı, karayollarında, can ve mal güvenliği yönünden trafik
-düzeni sağlamak ve trafik güvenliğini ilgilendiren tüm konularda alınacak önlemleri belirlemektir.
+düzenini sağlamak ve trafik güvenliğini ilgilendiren tüm konularda alınacak önlemleri belirlemektir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

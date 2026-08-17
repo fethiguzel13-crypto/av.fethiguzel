@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**Tebligatın yapılması:23**
+**Tebligatın yapılması:**
 
 ---
 
@@ -19,6 +19,8 @@ kurumlar, (IV) sayılı cetvelde yer alan sosyal güvenlik kurumları ile vakıf
 kurumları, il özel idareleri, belediyeler, köy hükmî şahsiyetleri, barolar ve noterler tarafından
 yapılacak elektronik ortam da dâhil tüm tebligat, bu Kanun hükümlerine göre Posta ve Telgraf
 Teşkilatı Genel Müdürlüğü veya memur vasıtasıyla yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

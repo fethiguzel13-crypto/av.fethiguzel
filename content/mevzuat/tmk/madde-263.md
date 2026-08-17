@@ -11,7 +11,12 @@ wordCount: 4318
 
 ---
 
-Madde 263 - Olağan yönetim dışında kalan konular da eşler, ancak birlikte veya biri di ğerinin rızasını almak suretiyle ortaklığı yükümlülük altına sokabilir veya mallarda tasarrufta bulunabili r. Rı za nın bulunmadığını bilmeyen veya bilecek durumda olmayan üçüncü kişiler için bu rıza var sayılır. Evlilik b irliğinin temsiline ilişkin hükümler saklıdır.
+Madde 263- Olağan yönetim dışında kalan konularda eşler, ancak birlikte veya biri
+diğerinin rızasını almak suretiyle ortaklığı yükümlülük altına sokabilir veya mallarda tasarrufta
+bulunabilir.
+Rızanın bulunmadığını bilmeyen veya bilecek durumda olmayan üçüncü kişiler için bu
+rıza var sayılır.
+Evlilik birliğinin temsiline ilişkin hükümler saklıdır.
 
 ---
 

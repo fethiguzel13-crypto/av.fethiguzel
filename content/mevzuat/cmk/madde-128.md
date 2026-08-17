@@ -25,13 +25,12 @@ h) Diğer malvarlığı değerlerine,
 Elkonulabilir. Somut olarak belirlenen Bu taşınmaz, hak, alacak ve diğer malvarlığı
 değerlerinin şüpheli veya sanıktan başka bir kişinin zilyetliğinde bulunması halinde dahi,
 elkoyma işlemi yapılabilir. (Ek cümle: 21/2/2014 – 6526/10 md.) Bu madde kapsamında
-
-elkoyma kararı alınabilmesi için ilgisine göre Bankacılık Düzenleme ve Denetleme Kurumu,
+elkoyma kararı alınabilmesi için ilgisine göre Bankacılık Düzenleme ve Denetleme Kurumu,
 Sermaye Piyasası Kurulu, Mali Suçları Araştırma Kurulu, Hazine Müsteşarlığı ve Kamu
 Gözetimi, Muhasebe ve Denetim Standartları Kurumundan, suçtan elde edilen değere ilişkin
 rapor alınır. Bu rapor en geç üç ay içinde hazırlanır. Özel sebepler zorunlu kıldığında bu süre
-talep üzerine iki ay daha uzatılabilir.27
-(2) Birinci fıkra hükmü;28
+talep üzerine iki ay daha uzatılabilir.
+(2) Birinci fıkra hükmü;
 a) Türk Ceza Kanununda tanımlanan;
 1. Soykırım ve insanlığa karşı suçlar (madde 76, 77, 78),
 2. Göçmen kaçakçılığı ve insan ticareti (madde 79, 80) ile organ veya doku ticareti
@@ -60,17 +59,7 @@ b) Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanunda tanımlan
 kaçakçılığı (madde 12) suçları,
 c) Bankalar Kanununun 22 nci maddesinin (3) ve (4) numaralı fıkralarında tanımlanan
 zimmet suçu,
-21/2/2014 tarihli ve 6526 sayılı Kanunun 10 uncu maddesiyle, bu fıkrada yer alan “elde edildiğine
-dair” ibaresinden sonra gelmek üzere “somut delillere dayanan” ve “Elkonulabilir.” ibaresinden
-sonra gelmek üzere “Somut olarak belirlenen” ibareleri eklenmiştir.
-28
-24/11/2016 tarihli ve 6763 sayılı Kanunun 25 inci maddesiyle, bu fıkranın (a) bendinin (2) numaralı
-alt bendine “(madde 79, 80)” ibaresinden sonra gelmek üzere “ ile organ veya doku ticareti (madde
-91)” ibaresi eklenmiş, aynı bende (12) numaralı alt bendinden sonra gelmek üzere (13) numaralı alt
-bent eklenmiş ve diğer alt bentler buna göre teselsül ettirilmiştir.
-27
-
-d) Kaçakçılıkla Mücadele Kanununda tanımlanan ve hapis cezasını gerektiren suçlar,
+d) Kaçakçılıkla Mücadele Kanununda tanımlanan ve hapis cezasını gerektiren suçlar,
 e) Kültür ve Tabiat Varlıklarını Koruma Kanununun 68 ve 74 üncü maddelerinde
 tanımlanan suçlar,
 Hakkında uygulanır.
@@ -96,8 +85,8 @@ onuncu fıkra uyarınca kayyım atanmasına ancak hâkim karar verebilir.
 madde uyarınca elkonulan taşınmaz, hak ve alacakların idaresi gerektiğinde bu malvarlığı
 değerlerinin yönetimi amacıyla kayyım atanabilir. Bu durumda 133 üncü madde hükümleri
 kıyasen uygulanır.
-Bilişim suçlarının işlenmesi suretiyle elde edilen menfaatin bulunduğu hesabın
-askıya alınması ve elkoyma
+
+---
 
 ### Akademik Yorum ve Analiz
 

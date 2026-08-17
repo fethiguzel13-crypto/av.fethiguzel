@@ -17,6 +17,8 @@ duruşma salonunda her türlü sesli veya görüntülü kayıt veya nakil olana�
 kullanılamaz. Bu hüküm, adliye binası içerisinde ve dışındaki diğer adlî işlemlerin icrasında
 da uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

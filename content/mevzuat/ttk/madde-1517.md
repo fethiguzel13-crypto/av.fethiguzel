@@ -7,20 +7,17 @@ lastReviewed: "2026-07-27"
 wordCount: 3640
 ---
 
-**(1) Doğum**
+**VI - Yeni doğan bebeğin ve evlat edinilenin sigorta kapsamında olması**
 
 ---
 
-Madde 1517 - (1) Doğum
-sırasında, ana babadan biri için yaptırılmış bir hastalık veya sağlık sigortasının
-bulunması hâlinde, aksi kararlaştırılmamışsa, doğumun tamamlanmasından itibaren
-bebek, ek prim olmaksızın sigortanın kapsamına girer. Ancak, bunun için doğumun
-en geç iki ay içinde sigortacıya bildirilmesi gerekir.
+MADDE 1517- (1) Doğum sırasında, ana babadan biri için yaptırılmış bir hastalık veya
+sağlık sigortasının bulunması hâlinde, aksi kararlaştırılmamışsa, doğumun tamamlanmasından
+itibaren bebek, ek prim olmaksızın sigortanın kapsamına girer. Ancak, bunun için doğumun en
+geç iki ay içinde sigortacıya bildirilmesi gerekir.
+(2) Evlat edinilen küçükler hakkında da birinci fıkra hükmü uygulanır.
 
-(2) Evlat edinilen küçükler hakkında da birinci
-fıkra hükmü uygulanır.
-
-VII - Bilgi isteme hakkı
+---
 
 ### Akademik Yorum ve Analiz
 

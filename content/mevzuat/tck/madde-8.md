@@ -23,6 +23,8 @@ d) Türkiye'nin kıt'a sahanlığında veya münhasır ekonomik bölgesinde tesi
 sabit platformlarda veya bunlara karşı,
 işlendiğinde Türkiye'de işlenmiş sayılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

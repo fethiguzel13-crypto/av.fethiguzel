@@ -25,13 +25,14 @@ e) Kamu düzeni veya kamu güvenliği açısından tehlike oluşturması ya da b
 nedenlerle Türkiye’den daha önce sınır dışı edilmiş olması,
 f) Başvurusunun geri çekilmiş sayılmasından sonra yeniden başvuruda bulunması,
 hâllerinde, başvurusu hızlandırılmış olarak değerlendirilir.
-
-(2) Başvurusu hızlandırılmış olarak değerlendirilen başvuru sahibiyle, başvuru
+(2) Başvurusu hızlandırılmış olarak değerlendirilen başvuru sahibiyle, başvuru
 tarihinden itibaren en geç üç gün içinde mülakat yapılır. Başvuru, mülakattan sonra en geç beş
 gün içinde sonuçlandırılır.
 (3) Bu maddeye göre değerlendirilen başvurulardan, incelenmesinin uzun süreceği
 anlaşılanlar, hızlandırılmış değerlendirmeden çıkarılabilir.
 (4) Refakatsiz çocukların başvuruları hızlandırılmış olarak değerlendirilemez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

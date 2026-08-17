@@ -17,6 +17,8 @@ yapılabilir.
 kanun yolu incelemesi sonucunda kesinleşen göreve veya yetkiye ilişkin kararlar, davaya
 ondan sonra bakacak mahkemeyi bağlar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

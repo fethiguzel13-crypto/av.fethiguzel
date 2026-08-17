@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
-**Görevden uzaklaştırma**
+**DÖRDÜNCÜ BÖLÜM
+Organlara İlişkin Ortak Hükümler
+Görevden uzaklaştırma**
 
 ---
 
@@ -23,8 +25,8 @@ kararı kaldırılır.
 Görevden uzaklaştırılan belediye başkanına, görevden uzak kaldığı sürece aylık
 ödeneğinin üçte ikisi ödenir ve bu süre içinde diğer sosyal hak ve yardımlardan yararlanmaya
 devam eder.
-ÜÇÜNCÜ KISIM
-Belediye Teşkilâtı
+
+---
 
 ### Akademik Yorum ve Analiz
 

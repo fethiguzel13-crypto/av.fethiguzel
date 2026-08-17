@@ -19,10 +19,8 @@ a) Türkiye'nin güvenliğine karşı veya zararına olarak,
 b) Türk vatandaşına karşı ya da Türk kanunlarına göre kurulmuş özel hukuk tüzel
 kişisi zararına olarak,
 İşlenmesi durumunda, yukarıdaki fıkra hükmü uygulanmaz.
-İKİNCİ KISIM
-Ceza Sorumluluğunun Esasları
-BİRİNCİ BÖLÜM
-Ceza Sorumluluğunun Şahsiliği, Kast ve Taksir
+
+---
 
 ### Akademik Yorum ve Analiz
 

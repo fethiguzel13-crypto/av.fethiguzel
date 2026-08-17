@@ -7,28 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4285
 ---
 
-**Ödeme emri**
+**A) Haciz yolu ile takip:
+Ödeme emri:**
 
 ---
 
 Madde 168 – (Değişik: 18/2/1965-538/81 md.)
-
-17/7/2003 tarihli ve 4949 sayılı Kanunun 44 üncü maddesiyle, bu fıkranın ikinci cümlesinde yer alan
-“kararı,” kelimesinden sonra “karar tarihinde,” ibaresi eklenmiş; ikinci ve üçüncü cümlesinde yer alan “trajı”
-kelimeleri “tirajı” olarak değiştirilmiştir.
-62
-12/2/2004 tarihli ve 5092 sayılı Kanunun 3 üncü maddesiyle, bu fıkranın ikinci cümlesinde yer alan “yurt
-düzeyinde tirajı en yüksek beş gazeteden” ibaresi, “tirajı ellibinin (50.000) üzerinde olan ve yurt düzeyinde
-dağıtımı yapılan gazetelerden”; üçüncü cümlesinde geçen “en yüksek” ibaresi ise, “ellibinin (50.000) üzerinde
-olan ve yurt düzeyinde dağıtımı yapılan” olarak değiştirilmiştir.
-63
-13/10/2022 tarihli ve 7418 sayılı Kanunun 28 inci maddesiyle; bu fıkranın ikinci cümlesinde yer alan “karar”
-ibaresi “bir internet haber sitesinde veya ilan talep” şeklinde değiştirilmiştir.
-64
-III üncü fasıl başlığı 18/2/1965 tarih ve 538 sayılı Kanunun 80 inci maddesi ile değiştirilmiştir.
-61
-
-İcra memuru senedin kambiyo senedi olduğunu ve vadesinin geldiğini görürse,
+İcra memuru senedin kambiyo senedi olduğunu ve vadesinin geldiğini görürse,
 borçluya senet sureti ile birlikte hemen bir ödeme emri gönderir. Bu ödeme emrine şunlar
 yazılır:
 1. (Değişik: 2/7/2012-6352/33 md.) Alacaklının veya vekilinin banka hesap numarası
@@ -54,6 +39,8 @@ maddeye göre mal beyanında bulunması ve bulunmazsa hapisle tazyik edileceği,
 beyanında bulunmaz veya hakikate aykırı beyanda bulunursa ayrıca hapisle cezalandırılacağı
 ihtarı.
 60 ıncı maddenin son iki fıkrası burada da tatbik olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

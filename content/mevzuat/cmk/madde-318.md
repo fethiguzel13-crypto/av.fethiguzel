@@ -18,7 +18,7 @@ hükmü vermiş olan mahkemeye başvurulur.
 (3) Yargılamanın yenilenmesi isteminin kabule değer olup olmadığına dair olan karar,
 duruşma yapılmaksızın verilir.
 
-Yenileme isteminin kabule değer görülmemesi nedenleri ve kabulü hâlinde
+---
 
 ### Akademik Yorum ve Analiz
 

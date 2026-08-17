@@ -11,7 +11,11 @@ wordCount: 4307
 
 ---
 
-Madde 1027 - İlgililerin yazılı rızalar ı olmadıkça, tapu memuru, tapu sicilindeki yanlışlığı ancak mahkeme kararıyla düzeltebilir. Düzeltme, e ski tescilin terkini ve yeni bir tescilin yapılması biçiminde de olabilir. Tapu memuru, basit yazı yanlışlıklarını, Cumhurbaşkanınca çıkarılan yönet mel ik uyarınca re'sen düzeltir. 47 Yürürlükten kaldırılan kanun
+Madde 1027- İlgililerin yazılı rızaları olmadıkça, tapu memuru, tapu sicilindeki yanlışlığı
+ancak mahkeme kararıyla düzeltebilir.
+Düzeltme, eski tescilin terkini ve yeni bir tescilin yapılması biçiminde de olabilir.
+Tapu memuru, basit yazı yanlışlıklarını, Cumhurbaşkanınca çıkarılan yönetmelik uyarınca
+re'sen düzeltir.
 
 ---
 

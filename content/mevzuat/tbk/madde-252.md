@@ -11,7 +11,7 @@ wordCount: 4316
 
 ---
 
-Madde 252 - Satılan, denenmeksizin veya gözden geçirilmeksizin alıcıya verilmişse,
+MADDE 252- Satılan, denenmeksizin veya gözden geçirilmeksizin alıcıya verilmişse,
 sözleşme veya âdete göre gereken süre içinde veya böyle bir süre yoksa, satıcının ihtarı
 üzerine alıcı, satılanı beğenmediğini hemen bildirmez veya onu geri vermezse, beğenme
 koşulu gerçekleşmiş olur.

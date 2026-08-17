@@ -16,6 +16,8 @@ giderleri için gereken hâllerde avans yatırılmasını isteyebilir. Aksi kara
 avans taraflarca eşit miktarda ödenir.
 (2) Avans, hakem veya hakem kurulu kararında öngörülen süre içinde ödenmemişse
 hakem veya hakem kurulu yargılamayı durdurabilir. Yargılamanın durdurulduğunun taraflara
+Bu fıkrada yer alan tarife ile ilgili olarak 28/10/2025 tarihli ve 33061 sayılı Resmi Gazete’de
+yayımlanan “Hukuk Muhakemeleri Kanunu Hakem Ücret Tarifesi”ne bakınız.
 bildirilmesinden itibaren bir ay içinde avans ödenirse yargılamaya devam olunur; aksi hâlde
 tahkim yargılaması sona erer.
 (3) Hakem veya hakem kurulu, kararını verdikten sonra taraflara, yatırılmış olan
@@ -26,6 +28,8 @@ Davada her iki taraf da kısmen haklı çıkarsa, yargılama giderleri haklılı
 taraflar arasında paylaştırılır.
 (5) Hakem veya hakem kurulunun yargılamayı sona erdiren veya taraflar arasındaki
 sulhü tespit eden kararında da yargılama giderleri gösterilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

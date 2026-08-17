@@ -21,6 +21,8 @@ işlenmesi halinde, ayrıca bu suçlardan dolayı ilgili hükümlere göre cezay
 (4) Savaş zamanında düşman devlet toprağında bulunup da bu devlet ordusunda
 hizmete alınmak mecburiyetinde kalan vatandaş hakkında, bu nedenle cezaya hükmolunmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

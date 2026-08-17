@@ -7,13 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**C) Bo rçlanmaların hükümleri
-I
-- Düzenlenme yeri kanunu**
+**C) Borçlanmaların hükümleri
+I - Düzenlenme yeri kanunu**
 
 ---
 
-Madde 821 - (1) Çekten doğan borçlanmaların sonuçları, bu borçlanmaların yapıldığı ülke hukukuna göre belirlenir.
+MADDE 821- (1) Çekten doğan borçlanmaların sonuçları, bu borçlanmaların
+yapıldığı ülke hukukuna göre belirlenir.
 
 ---
 

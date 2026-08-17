@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
-**Tescil**
+**Stajın başlangıcı:**
 
 ---
 
-MADDE 13- (1) Yetkili kişi ve kuruluşlarca bildirilen nüfus olaylarına ilişkin belge ve tutanaklar bu Kanun hükümlerine göre tescil edilir. Bakanlık her türlü nüfus işlemlerinde elektronik imza kullanılmasına karar vermeye yetkilidir.
+Madde 13 – Noterlik stajı, listeye kayıt tarihinden itibaren başlar.
+İtiraz, kaydın yapılmasını durdurur.
 
 ---
 

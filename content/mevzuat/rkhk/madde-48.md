@@ -20,6 +20,8 @@ Sözlü savunma yapılmasına karar verilmesine rağmen ilgili tarafların sözl
 gelmemesi halinde karar, belirlenmiş toplantı tarihinden sonraki bir hafta içinde dosya
 üzerinde yapılacak incelemeye göre verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

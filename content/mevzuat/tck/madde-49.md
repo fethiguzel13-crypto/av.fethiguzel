@@ -15,6 +15,8 @@ Madde 49- (1) Süreli hapis cezası, kanunda aksi belirtilmeyen hallerde bir ayd
 yirmi yıldan fazla olamaz.
 (2) Hükmedilen bir yıl veya daha az süreli hapis cezası, kısa süreli hapis cezasıdır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

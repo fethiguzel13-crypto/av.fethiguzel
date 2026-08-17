@@ -12,7 +12,7 @@ I. Özel fesih süresi**
 
 ---
 
-Madde 459 - Komisyon, sabit ücretin en az beşte birini oluşturuyor ve önemli
+MADDE 459- Komisyon, sabit ücretin en az beşte birini oluşturuyor ve önemli
 mevsimlik dalgalanmalardan etkileniyorsa işveren, bir önceki mevsimin sona ermesinden beri
 kendisiyle çalışmaya devam eden pazarlamacının sözleşmesini, yeni mevsim sırasında iki
 aylık fesih süresine uyarak feshedebilir.

@@ -15,6 +15,8 @@ Madde 162- (1) Tacir olmanın gerekli kıldığı dikkat ve özenin gösterilmem
 dolayısıyla iflasa sebebiyet veren kişi, iflasa karar verilmiş olması halinde, iki aydan bir yıla
 kadar hapis cezası ile cezalandırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

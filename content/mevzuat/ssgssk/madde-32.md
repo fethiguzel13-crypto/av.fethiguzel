@@ -31,6 +31,8 @@ Ancak, 4 üncü maddenin birinci fıkrasının (b) bendine göre sigortalı say�
 aylık bağlanabilmesi için ölen sigortalının genel sağlık sigortası primi dahil kendi sigortalılığından
 dolayı prim ve prime ilişkin her türlü borcunun olmaması veya ödenmesi şarttır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

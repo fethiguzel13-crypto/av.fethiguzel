@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**B. Soybağının red di
+**B. Soybağının reddi
 I. Dava hakkı**
 
 ---
 
-Madde 286 - (Değişik:7/11/2024 - 7531/ 9 md.) Koca, ana veya çocuk soybağının reddi davasını açara k babalık karinesini çürütebilir. Bu dava, dava açma hakkına sahip diğer kişilere karşı açılır.
+Madde 286 – (Değişik:7/11/2024-7531/9 md.)
+Koca, ana veya çocuk soybağının reddi davasını açarak babalık karinesini çürütebilir. Bu
+dava, dava açma hakkına sahip diğer kişilere karşı açılır.
 
 ---
 

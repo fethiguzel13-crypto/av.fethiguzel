@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4275
 ---
 
-**Adi ve rehinli alacakların sırası**
+**Adi ve rehinli alacakların sırası:**
 
 ---
 
@@ -45,8 +45,7 @@ takibin devam ettiği müddet hesaba katılmaz.
 Özel kanunlarında imtiyazlı olduğu belirtilen alacaklar.
 Dördüncü sıra:
 İmtiyazlı olmayan diğer bütün alacaklar.
-
-(Ek fıkra: 17/7/2003-4949/52 md.) Bir ve ikinci sıradaki müddetlerin
+(Ek fıkra: 17/7/2003-4949/52 md.) Bir ve ikinci sıradaki müddetlerin
 hesaplanmasında aşağıdaki süreler hesaba katılmaz:
 1. İflâsın açılmasından önce mühlet de dahil olmak üzere geçirilen konkordato süresi.
 2. İflâsın ertelenmesi süresi.
@@ -56,6 +55,8 @@ verilmesine kadar geçen süre.
 (Ek fıkra: 14/1/2011-6103/41 md.) Gemilerin paraya çevrilmesi hâlinde yapılacak
 sıra cetveli, bayrağına ve sicile kayıtlı olup olmadığına bakılmaksızın bütün gemiler için Türk
 Ticaret Kanununun 1389 ilâ 1397 nci maddesi hükümlerine göre düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

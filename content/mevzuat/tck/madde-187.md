@@ -16,6 +16,8 @@ veya satan kimseye bir yıldan beş yıla kadar hapis ve adlî para cezası veri
 (2) Bu suçun tabip veya eczacı tarafından ya da resmi izne dayalı olarak yürütülen bir
 meslek ve sanatın icrası kapsamında işlenmesi halinde, verilecek ceza üçte bir oranında artırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

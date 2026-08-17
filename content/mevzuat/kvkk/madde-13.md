@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4278
 ---
 
-**Veri sorumlusuna başvuru**
+**DÖRDÜNCÜ BÖLÜM
+Başvuru, Şikâyet ve Veri Sorumluları Sicili
+Veri sorumlusuna başvuru
+(1) İlgili kişi, bu Kanunun uygulanmasıyla ilgili taleplerini yazılı olarak**
 
 ---
 
-MADDE 13- (1) İlgili kişi, bu Kanunun uygulanmasıyla ilgili taleplerini yazılı olarak
+MADDE 13-
 veya Kurulun belirleyeceği diğer yöntemlerle veri sorumlusuna iletir.
 (2) Veri sorumlusu başvuruda yer alan talepleri, talebin niteliğine göre en kısa sürede
 ve en geç otuz gün içinde ücretsiz olarak sonuçlandırır. Ancak, işlemin ayrıca bir maliyeti
@@ -20,6 +23,8 @@ gerektirmesi hâlinde, Kurulca belirlenen tarifedeki ücret alınabilir.
 cevabını ilgili kişiye yazılı olarak veya elektronik ortamda bildirir. Başvuruda yer alan talebin
 kabul edilmesi hâlinde veri sorumlusunca gereği yerine getirilir. Başvurunun veri
 sorumlusunun hatasından kaynaklanması hâlinde alınan ücret ilgiliye iade edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

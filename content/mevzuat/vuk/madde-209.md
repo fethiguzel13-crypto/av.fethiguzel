@@ -7,10 +7,6 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**Ambar defteri**
-
----
-
 Madde 209 – Depo (Ardiyeler dahil) işletenlerle nakliye ambarları ayrıca bir ambar
 defteri tutarlar. Bu deftere en az aşağıda yazılı malümat kaydolunur:
 1. Malın ambara giriş tarihi;
@@ -22,6 +18,8 @@ nevinin kaydedilmesiyle iktifa edilir);
 6. Alınan nakliye ücreti tutarı.
 Kendi işlerinin icabı olarak yukarıdaki malümatı ihtiva edecek şekilde defter tutanlar
 ayrıca ambar defteri tutmazlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

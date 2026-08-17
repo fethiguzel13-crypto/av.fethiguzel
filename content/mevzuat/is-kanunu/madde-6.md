@@ -15,8 +15,6 @@ Madde 6 - İşyeri veya işyerinin bir bölümü hukukî bir işleme dayalı ola
 birine devredildiğinde, devir tarihinde işyerinde veya bir bölümünde mevcut olan iş
 sözleşmeleri bütün hak ve borçları ile birlikte devralana geçer.
 Devralan işveren, işçinin hizmet süresinin esas alındığı haklarda, işçinin devreden
-
-
 işveren yanında işe başladığı tarihe göre işlem yapmakla yükümlüdür.
 Yukarıdaki hükümlere göre devir halinde, devirden önce doğmuş olan ve devir
 tarihinde ödenmesi gereken borçlardan devreden ve devralan işveren birlikte sorumludurlar.
@@ -31,6 +29,8 @@ organizasyonu değişikliğinin gerekli kıldığı fesih hakları veya işçi v
 sebeplerden derhal fesih hakları saklıdır.
 Yukarıdaki hükümler, iflas dolayısıyla malvarlığının tasfiyesi sonucu işyerinin veya
 bir bölümünün başkasına devri halinde uygulanmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

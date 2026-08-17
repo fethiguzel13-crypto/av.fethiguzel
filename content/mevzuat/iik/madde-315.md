@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**İlan**
+**İlan:**
 
 ---
 
 Madde 315 – Yukarki maddelere göre talebin kabulü üzerine verilen hüküm, Resmi
 Gazete ile ilan olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

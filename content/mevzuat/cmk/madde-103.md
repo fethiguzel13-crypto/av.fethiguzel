@@ -18,6 +18,8 @@ müdafii de aynı istemde bulunabilirler. (Mülga üçüncü cümle: 25/5/2005 �
 gereksiz olduğu kanısına varacak olursa, şüpheliyi re'sen serbest bırakır. Kovuşturmaya yer
 olmadığı kararı verildiğinde şüpheli serbest kalır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4282
 ---
 
-**Tazminatın azaltılması veya kaldırılması sonucunu doğuran haller**
+**Tazminatın azaltılması veya kaldırılması sonucunu doğuran haller:**
 
 ---
 
@@ -17,6 +17,8 @@ sonucunu doğuran haller zarar görene karşı ileri sürülemez.
 Ödemede bulunan sigortacı, sigorta sözleşmesine ve bu sözleşmeye ilişkin kanun
 hükümlerine göre, tazminatın kaldırılmasını veya azaltılmasını sağlayabileceği oranda sigorta
 ettirene başvurabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

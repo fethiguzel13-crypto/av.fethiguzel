@@ -11,8 +11,9 @@ wordCount: 4311
 
 ---
 
-Madde 400 - Aile meclisi, vesayet altındaki kişinin vasi o lmaya ehil, denetim makamın ca
-dört yıl için atanacak e n az üç hıs ımında n oluş ur. Vesayet altına alınanın eşi de aile meclisine üye olabilir.
+Madde 400- Aile meclisi, vesayet altındaki kişinin vasi olmaya ehil, denetim makamınca
+dört yıl için atanacak en az üç hısımından oluşur.
+Vesayet altına alınanın eşi de aile meclisine üye olabilir.
 
 ---
 

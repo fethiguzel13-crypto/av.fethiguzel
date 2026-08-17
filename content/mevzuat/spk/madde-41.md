@@ -14,8 +14,7 @@ wordCount: 4309
 MADDE 41 – (1) Kurul, bu Kanun kapsamında vermiş olduğu yetki belgesi ve
 faaliyet izinlerini, bu Kanundaki ilgili diğer hükümler saklı kalmak kaydıyla, aşağıdaki
 hâllerde iptal edebilir:
-
-a) Faaliyette bulunma yetkisinden açıkça feragat edilmesi veya faaliyet izninin verildiği
+a) Faaliyette bulunma yetkisinden açıkça feragat edilmesi veya faaliyet izninin verildiği
 tarihten itibaren iki yıl süreyle ilgili izin kapsamında herhangi bir faaliyette bulunulmaması
 b) Faaliyet izninin yanlış veya yanıltıcı beyanlarda bulunularak ya da hukuka aykırı
 diğer yollarla alınmış olması
@@ -26,6 +25,8 @@ tespitinden itibaren üç ay içinde bu şartların yeniden sağlanamaması
 üzere ilgili hükümleri yatırım hizmetleri ve faaliyetleri kapsamayacak şekilde değiştirmeleri
 zorunludur.
 Mali sorumluluk sınırlarına ve çalışanlara ilişkin esaslar ve müşterilerle akdedilecek
+
+---
 
 ### Akademik Yorum ve Analiz
 

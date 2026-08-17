@@ -20,6 +20,8 @@ doğrudan mahkemece takdir olunur.
 başka beşyüz Türk Lirasından beşbin Türk Lirasına kadar disiplin para cezası ile mahkûm
 edilebilir. Bu hâllere vekil sebebiyet vermiş ise disiplin para cezası vekil hakkında uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,7 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**Safî kurum kazancı**
+**ÜÇÜNCÜ KISIM
+Dar Mükellefiyet Esasında
+Verginin Tarhı ve Ödenmesi
+BİRİNCİ BÖLÜM
+Matrahın Tayini
+Safî kurum kazancı**
 
 ---
 
@@ -35,6 +40,8 @@ sermaye veya oy hakkı şartı aranmaz.
 bendi aynı şartlarla dar mükellef kurumlar hakkında da uygulanır. Şu kadar ki, devralan
 kurum tarafından devralınan değerlere karşılık olarak verilen iştirak hisseleri, Türkiye’deki iş
 yeri veya daimî temsilcinin aktifine kaydedilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

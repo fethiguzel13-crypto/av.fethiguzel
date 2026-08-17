@@ -7,14 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**esas olan kararı vermiş bulunan idare amiri üye sıfatiyle bulunamaz ve oya katılamaz.**
-
----
-
 Madde 65 – İlçe idare kurulları kararları aleyhine il idare kurullarına, il idare
 kurullarının gerek birinci ve gerek ikinci derecede verdikleri kararlar aleyhine Danıştayda
 ilgililer tarafından Danıştay Kanununa göre itiraz olunabilir.
 Askerlik Mükellefiyeti Kanununun 103 üncü maddesi hükmü mahfuzdur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

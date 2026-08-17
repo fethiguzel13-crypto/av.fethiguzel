@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**Verginin konusunu teşkil eden işlemler**
+**Mükellefiyet
+BİRİNCİ BÖLÜM
+Verginin Konusu
+Verginin konusunu teşkil eden işlemler:**
 
 ---
 
@@ -36,8 +39,7 @@ ve mesleki nitelikteki teslim ve hizmetleri,
 h) Rekabet eşitsizliğini gidermek maksadıyla isteğe bağlı mükellefiyetler suretiyle
 vergilendirilecek teslim ve hizmetler.
 Ticari, sınai, zirai faaliyet ile serbest meslek faaliyetinin devamlılığı, kapsamı ve
-
-niteliği Gelir Vergisi Kanunu hükümlerine göre; Gelir Vergisi Kanununda açıklık
+niteliği Gelir Vergisi Kanunu hükümlerine göre; Gelir Vergisi Kanununda açıklık
 bulunmadığı hallerde, Türk Ticaret Kanunu ve diğer ilgili mevzuat hükümlerine göre tayin ve
 tespit edilir.
 Bu faaliyetlerin kanunların veya resmi makamların gösterdiği gerek üzerine yapılması,
@@ -47,6 +49,8 @@ olmaması işlemlerin mahiyetini değiştirmez ve vergilendirmeye mani teşkil e
 İthalatın kamu sektörü, özel sektör veya herhangi bir gerçek veya tüzelkişi tarafından
 yapılması veya herhangi bir şekil ve surette gerçekleştirilmesi, özellik taşıması vergilendirmeye
 tesir etmez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

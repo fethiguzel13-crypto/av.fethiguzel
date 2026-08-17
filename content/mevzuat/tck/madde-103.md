@@ -19,7 +19,7 @@ cezasına hükmolunur. (Ek cümle: 24/11/2016-6763/13 md.) Mağdurun on iki yaş
 tamamlamamış olması hâlinde verilecek ceza, istismar durumunda on yıldan, sarkıntılık
 durumunda beş yıldan az olamaz. Sarkıntılık düzeyinde kalmış suçun failinin çocuk olması
 hâlinde soruşturma ve kovuşturma yapılması mağdurun, velisinin veya vasisinin şikâyetine
-bağlıdır. Cinsel istismar deyiminden; 48
+bağlıdır. Cinsel istismar deyiminden;
 a) On beş yaşını tamamlamamış veya tamamlamış olmakla birlikte fiilin hukuki anlam
 ve sonuçlarını algılama yeteneği gelişmemiş olan çocuklara karşı gerçekleştirilen her türlü
 cinsel davranış,
@@ -36,11 +36,7 @@ b) İnsanların toplu olarak bir arada yaşama zorunluluğunda bulunduğu ortaml
 sağladığı kolaylıktan faydalanmak suretiyle,
 c) Üçüncü derece dâhil kan veya kayın hısımlığı ilişkisi içinde bulunan bir kişiye karşı
 ya da üvey baba, üvey ana, üvey kardeş veya evlat edinen tarafından,
-Anayasa Mahkemesi’nin 26/5/2016 tarihli ve E.: 2015/108, K.: 2016/46 sayılı Kararı ile bu
-maddenin (1) numaralı fıkrasının (a) bendinde yer alan “…tamamlamamış…” sözcüğü yönünden (1)
-numaralı fıkranın birinci ve ikinci cümleleri iptal edilmiştir.
-
-d) Vasi, eğitici, öğretici, bakıcı, koruyucu aile veya sağlık hizmeti veren ya da koruma,
+d) Vasi, eğitici, öğretici, bakıcı, koruyucu aile veya sağlık hizmeti veren ya da koruma,
 bakım veya gözetim yükümlülüğü bulunan kişiler tarafından,
 e) Kamu görevinin veya hizmet ilişkisinin sağladığı nüfuz kötüye kullanılmak suretiyle,
 işlenmesi hâlinde, yukarıdaki fıkralara göre verilecek ceza yarı oranında artırılır.
@@ -51,6 +47,8 @@ yukarıdaki fıkralara göre verilecek ceza yarı oranında artırılır.
 neticelerine neden olması hâlinde, ayrıca kasten yaralama suçuna ilişkin hükümler uygulanır.
 (6) Suç sonucu mağdurun bitkisel hayata girmesi veya ölümü hâlinde, ağırlaştırılmış
 müebbet hapis cezasına hükmolunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -9,11 +9,11 @@ wordCount: 4298
 
 **C. Ortak hükümler
 I. Kurulması
-1. Alacağın ni teliği**
+1. Alacağın niteliği**
 
 ---
 
-Madde 909 - İpotekli borç senedi ve irat senedi koşul ve karşı edim kaydı içeremez.
+Madde 909- İpotekli borç senedi ve irat senedi koşul ve karşı edim kaydı içeremez.
 
 ---
 

@@ -34,7 +34,7 @@ export default function KavramHubPage() {
                         <li key={k.slug}>
                             <Link
                                 href={`/kavram/${k.slug}`}
-                                className="block h-full p-5 rounded-2xl bg-white border border-charcoal/8 hover:border-accent/40 hover:shadow-md transition-all"
+                                className="block h-full p-5 rounded-2xl bg-white border border-charcoal/[0.08] hover:border-accent/40 hover:shadow-md transition-all"
                             >
                                 <div className="flex gap-3">
                                     <BookOpen className="text-accent shrink-0 mt-0.5" size={18} />

@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4318
 ---
 
-**IV
-- Açık poliçe**
+**IV - Açık poliçe**
 
 ---
 
-Madde 680 - (1) Tedavüle çıkarılırken tamamen doldurulmamış bulunan bir poliçe, aradaki anlaşmalara aykırı bir şekilde doldurulursa, bu anl aşmalara uyulmadığı iddiası, hamile karşı ileri sürülemez; meğerki, hamil poliçeyi kötüniyetle iktisap etmiş veya iktisap sırasında kendisine ağır bir kusur isnadı mümkün bulunmuş olsun. İKİNCİ AYIRIM Ciro A) Poliçenin devredilmesi
+MADDE 680- (1) Tedavüle çıkarılırken tamamen doldurulmamış bulunan bir poliçe,
+aradaki anlaşmalara aykırı bir şekilde doldurulursa, bu anlaşmalara uyulmadığı iddiası, hamile
+karşı ileri sürülemez; meğerki, hamil poliçeyi kötüniyetle iktisap etmiş veya iktisap sırasında
+kendisine ağır bir kusur isnadı mümkün bulunmuş olsun.
 
 ---
 

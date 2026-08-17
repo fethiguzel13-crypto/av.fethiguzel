@@ -25,6 +25,8 @@ hâlinde, genel sağlık sigortası kapsamında karşılanmayan rehabilitasyon h
 giderler ile rehabilitasyon hizmetleri kapsamında verilmesi gereken diğer sağlık hizmetlerinin
 giderleri Bakanlık bütçesinin ilgili tertiplerinden karşılanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

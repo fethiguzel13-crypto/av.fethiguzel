@@ -16,6 +16,8 @@ tanıklığına başvurulacak kimseler, bu hususlar hakkında tanıklıktan çek
 19/3/1969 tarihli ve 1136 sayılı Avukatlık Kanunu hükmü saklı kalmak üzere sır sahibi
 tarafından sırrın açıklanmasına izin verildiği takdirde, bu kimseler tanıklıktan çekinemezler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

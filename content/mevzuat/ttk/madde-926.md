@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**IX
-- Komisyoncunun taşıma işini üzerine alması**
+**IX - Komisyoncunun taşıma işini üzerine alması**
 
 ---
 
-Madde 926 - (1) Taşıma işleri komisyoncusu, eşyanın taşınmasını b izzat üstlenebilir. Bu hakkını kullanırsa, taşımadan doğan haklar ve yükümlülükler yönünden taşıyıcı veya taşıyan sayılır. Bu durumda, kendi faaliyeti için isteyeceği ücretin yanısıra olağan taşıma ücretini de isteyebilir.
+MADDE 926- (1) Taşıma işleri komisyoncusu, eşyanın taşınmasını bizzat üstlenebilir.
+Bu hakkını kullanırsa, taşımadan doğan haklar ve yükümlülükler yönünden taşıyıcı veya
+taşıyan sayılır. Bu durumda, kendi faaliyeti için isteyeceği ücretin yanısıra olağan taşıma
+ücretini de isteyebilir.
 
 ---
 

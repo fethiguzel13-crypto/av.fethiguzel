@@ -11,7 +11,7 @@ wordCount: 4284
 
 ---
 
-Madde 308 - Kiraya veren, kusuru olmadığını ispat etmedikçe, kiralananın ayıplı
+MADDE 308- Kiraya veren, kusuru olmadığını ispat etmedikçe, kiralananın ayıplı
 olmasından doğan zararları kiracıya ödemekle yükümlüdür.
 
 ---

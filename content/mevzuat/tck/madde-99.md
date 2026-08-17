@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4275
 ---
 
-**Çocuk düşürtme**
+**BEŞİNCİ BÖLÜM
+Çocuk Düşürtme, Düşürme veya Kısırlaştırma
+Çocuk düşürtme**
 
 ---
 
@@ -20,10 +22,7 @@ yıla kadar hapis veya adlî para cezasına hükmolunur.
 (3) Birinci fıkrada yazılı fiil kadının beden veya ruh sağlığı bakımından bir zarara
 uğramasına neden olmuşsa, kişi altı yıldan oniki yıla kadar hapis cezası ile cezalandırılır;
 fiilin kadının ölümüne neden olması halinde, onbeş yıldan yirmi yıla kadar hapis cezasına
-8/7/2021 tarihli ve 7331 sayılı Kanunun 8 inci maddesiyle, bu bende “eşe” ibaresinden sonra
-gelmek üzere “veya boşandığı eşe” ibaresi eklenmiştir.
-
-hükmolunur.
+hükmolunur.
 (4) İkinci fıkrada yazılı fiil kadının beden veya ruh sağlığı bakımından bir zarara
 uğramasına neden olmuşsa, kişi üç yıldan altı yıla kadar hapis cezası ile cezalandırılır; fiilin
 kadının ölümüne neden olması halinde, dört yıldan sekiz yıla kadar hapis cezasına hükmolunur.
@@ -36,6 +35,8 @@ hükmolunur.
 haftadan fazla olmamak ve kadının rızası olmak koşuluyla, gebeliği sona erdirene ceza
 verilmez. Ancak, bunun için gebeliğin uzman hekimler tarafından hastane ortamında sona
 erdirilmesi gerekir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

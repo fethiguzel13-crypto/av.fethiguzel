@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Yatırımcıların tazmini**
+**ÜÇÜNCÜ BÖLÜM
+Diğer Kurumlar
+Yatırımcıların tazmini**
 
 ---
 
@@ -20,6 +22,8 @@ Kurulun, bu Kanun kapsamındaki tedbir yetkileri saklıdır.
 Bankacılık Düzenleme ve Denetleme Kurumunun görüşü alınır. Bankacılık mevzuatı uyarınca
 mevduat veya katılım fonu olarak kabul edilen nakit ödeme yükümlülüklerine, bu Kanunun
 yatırımcıların tazminine ilişkin hükümleri uygulanmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

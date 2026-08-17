@@ -12,7 +12,14 @@ wordCount: 4265
 
 ---
 
-Madde 250 - Eşlerden biri tarafından paylaş malı mal ayrılığı rejiminin kuru lmasından sonra edinilmiş olup ailenin ortak kullanım ve yararlanmasına özgülenmiş mallar ile ailenin ekonomik gelec eğini güvence altına almaya yönelik yatırımlar veya bunların yerine geçen değerler, mal rejiminin sona ermes i hâlinde eşler arasında eşit olarak paylaşılır. Paylaştırmada işletmelerin ekonomik bütünlüğü gözetilir. Manevî tazminat alacakları, miras yol uyla edinilen mallar ile karşılıksız kazandırmada bulunanın açık iradesinden aksi anlaşılmadıkça, sağlararası vey a ölüme bağlı tasarruflarla edinilen mallar hakkında bu hüküm uygulanmaz.
+Madde 250- Eşlerden biri tarafından paylaşmalı mal ayrılığı rejiminin kurulmasından
+sonra edinilmiş olup ailenin ortak kullanım ve yararlanmasına özgülenmiş mallar ile ailenin
+ekonomik geleceğini güvence altına almaya yönelik yatırımlar veya bunların yerine geçen
+değerler, mal rejiminin sona ermesi hâlinde eşler arasında eşit olarak paylaşılır. Paylaştırmada
+işletmelerin ekonomik bütünlüğü gözetilir.
+Manevî tazminat alacakları, miras yoluyla edinilen mallar ile karşılıksız kazandırmada
+bulunanın açık iradesinden aksi anlaşılmadıkça, sağlararası veya ölüme bağlı tasarruflarla
+edinilen mallar hakkında bu hüküm uygulanmaz.
 
 ---
 

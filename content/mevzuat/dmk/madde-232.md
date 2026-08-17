@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**Türk silahlı kuvvetlerinde çalışan memurlara uygulanmıyacak maddeler**
+**Türk silahlı kuvvetlerinde çalışan memurlara uygulanmıyacak maddeler:**
 
 ---
 
@@ -22,7 +22,8 @@ Günün 24 saatinde devamlılık gösteren hizmette çalışma saat ve usulünü
 hakkındaki 101 inci, fazla çalışma ücreti hakkındaki 178 inci,
 Görevden uzaklaştırmaya yetkilileri sayan 138 inci,
 maddeleri hükümleri uygulanmaz.
-Türk Silahlı Kuvvetlerinde çalışan memurlara uygulanmaya devam olunacak
+
+---
 
 ### Akademik Yorum ve Analiz
 

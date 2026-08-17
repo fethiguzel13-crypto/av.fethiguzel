@@ -34,13 +34,12 @@ e) Türkiye'de elde edilen diğer kazanç ve iratlar.
 edilmesi ve Türkiye'de daimî temsilci bulundurulması konularında, 31/12/1960 tarihli ve 193
 sayılı Gelir Vergisi Kanununun ilgili hükümleri uygulanır.
 (5) Kanunî merkez: Vergiye tâbi kurumların kuruluş kanunlarında, Cumhurbaşkanlığı
-kararnamelerinde, tüzüklerinde, ana statülerinde veya sözleşmelerinde gösterilen merkezdir.1
+kararnamelerinde, tüzüklerinde, ana statülerinde veya sözleşmelerinde gösterilen merkezdir.
 (6) İş merkezi: İş bakımından işlemlerin fiilen toplandığı ve yönetildiği merkezdir.
 İKİNCİ BÖLÜM
 Muafiyet ve İstisnalar
-2/7/2018 tarihli ve 700 sayılı KHK’nin 173 üncü maddesiyle, bu fıkrada yer alan “kanunlarında,”
-ibaresinden sonra gelmek üzere “Cumhurbaşkanlığı kararnamelerinde,” ibaresi eklenmiştir.
-1
+
+---
 
 ### Akademik Yorum ve Analiz
 

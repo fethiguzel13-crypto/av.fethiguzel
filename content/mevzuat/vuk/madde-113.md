@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**Zamanaşımının mahiyeti**
+**Zamanaşımının mahiyeti:**
 
 ---
 
 Madde 113 – Zamanaşımı, süre geçmesi suretiyle vergi alacağının kalkmasıdır.
 Zamanaşımı, mükellefin bu hususta bir müracaatı olup olmadığına bakılmaksızın
 hüküm ifade eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

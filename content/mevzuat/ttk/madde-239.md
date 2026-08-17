@@ -7,13 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**IV
-- İflas
+**IV- İflas
 1. Şirketin iflası**
 
 ---
 
-Madde 239 - (1) Şirketin iflası hâlinde, şirket alacaklıları alacaklarını almadıkça, ortakla rın kişisel alacaklıları şirket mallarına başvuramazlar.
+MADDE 239- (1) Şirketin iflası hâlinde, şirket alacaklıları alacaklarını almadıkça,
+ortakların kişisel alacaklıları şirket mallarına başvuramazlar.
 
 ---
 

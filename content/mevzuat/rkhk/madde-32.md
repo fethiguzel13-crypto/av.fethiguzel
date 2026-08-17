@@ -14,6 +14,8 @@ wordCount: 4307
 Madde 32 – Rekabet Kurumunun hizmet birimleri; Daire Başkanlıkları şeklinde
 teşkilatlanmış ana hizmet birimleri, danışma birimleri ve yardımcı hizmet birimlerinden oluşur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

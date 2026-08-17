@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Sırrın ifşası**
+**İKİNCİ BÖLÜM
+Yasaklar ve cezalar
+Sırrın ifşası:**
 
 ---
 
@@ -23,20 +25,16 @@ alacağını tahsil yetkisi verilen kuruluşlara, yapacakları tahsile yönelik 
 maddesine göre borcun olmadığına dair belgeyi arama zorunluluğu getirilen kurum ve
 kuruluşlara, ödeme ve işleme taraf olanlara ilişkin borç bilgilerinin verilmesi sırrın ifşaı
 sayılmaz; bu kurum ve kuruluşlarda vazifeli bulunan kimseler edindikleri bilgileri ifşa
-
 Bu fıkrada yer alan, "500.000 liraya kadar (500.000 lira dahil)" ibaresi, 25/12/2003 tarihli ve 5035 sayılı
 Kanunun 48 inci maddesiyle "5.000.000 liraya kadar (5.000.000 lira dahil)" olarak değiştirilmiş, daha sonra bu
 ibare 18/2/2009 tarihli ve 5838 sayılı Kanunun 32 nci maddesiyle “anlaşılan ve 213 sayılı Kanun kapsamına
 giren amme alacaklarında 10 Türk Lirasına (10 Türk Lirası dahil), diğer amme alacaklarında 20 Türk Lirasına
 (20 Türk Lirası dahil) kadar” şeklinde, yine aynı fıkrada yer alan “Bakanlar Kurulu, bu miktarı on katına”
 ibaresi de “Bakanlar Kurulu, bu tutarları topluca veya ayrı ayrı on katına” olarak değiştirilmiştir.
-36
-2/7/2018 tarihli ve 700 sayılı KHK’nin 28 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi
-“Cumhurbaşkanı” şeklinde değiştirilmiştir.
-35
+ettikleri takdirde birinci fıkra hükmüne göre cezalandırılırlar. Bu bilgilerin verilmesine ilişkin
+usul ve esaslar Maliye Bakanlığınca belirlenir.
 
-ettikleri takdirde birinci fıkra hükmüne göre cezalandırılırlar. Bu bilgilerin verilmesine ilişkin
-usul ve esaslar Maliye Bakanlığınca belirlenir.37
+---
 
 ### Akademik Yorum ve Analiz
 

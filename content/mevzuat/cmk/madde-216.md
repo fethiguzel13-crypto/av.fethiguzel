@@ -16,8 +16,11 @@ vekiline, Cumhuriyet savcısına, sanığa ve müdafiine veya kanunî temsilcisi
 (2) Cumhuriyet savcısı, katılan veya vekili, sanığın, müdafiinin veya kanunî temsilcisinin
 açıklamalarına; sanık ve müdafii ya da kanunî temsilcisi de Cumhuriyet savcısının ve katılanın
 veya vekilinin açıklamalarına cevap verebilir.
-(3) Hükümden önce son söz, hazır bulunan sanığa verilir. (Ek cümle: 15/8/2017KHK-694/148 md.; Aynen kabul: 1/2/2018-7078/143 md.) Bu aşamada zorunlu müdafiin
+(3) Hükümden önce son söz, hazır bulunan sanığa verilir. (Ek cümle: 15/8/2017-
+KHK-694/148 md.; Aynen kabul: 1/2/2018-7078/143 md.) Bu aşamada zorunlu müdafiin
 hazır bulunmaması hükmün açıklanmasına engel teşkil etmez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

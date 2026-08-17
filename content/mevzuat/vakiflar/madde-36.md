@@ -17,6 +17,8 @@ ihtiyaç duyulan konuyla sınırlı olmak üzere 4734 sayılı Kamu İhale Kanun
 uzman kişi, kurum ve kuruluşlardan danışmanlık ve hukukî mütalaa şeklinde hizmet satın
 alabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -11,7 +11,11 @@ wordCount: 4316
 
 ---
 
-Madde 793 - (1) Protest onun düzenlenmesinden veya aynı nitelikte bir belirlemeden veya ibraz süresinin geçmesinden sonra yapılan ciro, ancak alacağın temlikinin sonuçlarını doğurur. (2) Tarihsiz bir cironun, protesto veya aynı nitelikte bir belirlemeden veya ibraz süresinin geçm esinden önce yapıldığı, aksi sabit oluncaya kadar karinedir. ÜÇÜNCÜ AYIRIM Ödeme ve Ödememe A) Ödeme I - Aval
+MADDE 793- (1) Protestonun düzenlenmesinden veya aynı nitelikte bir belirlemeden
+veya ibraz süresinin geçmesinden sonra yapılan ciro, ancak alacağın temlikinin sonuçlarını
+doğurur.
+(2) Tarihsiz bir cironun, protesto veya aynı nitelikte bir belirlemeden veya ibraz
+süresinin geçmesinden önce yapıldığı, aksi sabit oluncaya kadar karinedir.
 
 ---
 

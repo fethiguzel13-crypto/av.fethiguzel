@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
-**Madde 850**
+**İKİNCİ BÖLÜM
+TAŞINMAZ REHNİ
+BİRİNCİ AYIRIM
+GENEL HÜKÜMLER
+A. Koşullar
+I. Taşınmaz rehninin türleri**
 
 ---
 
-Madde 850 - Taş ınmaz rehni, ancak ipotek, ipotekli borç senedi veya irat senedi şeklinde kurulabilir.
+Madde 850- Taşınmaz rehni, ancak ipotek, ipotekli borç senedi veya irat senedi şeklinde
+kurulabilir.
 
 ---
 

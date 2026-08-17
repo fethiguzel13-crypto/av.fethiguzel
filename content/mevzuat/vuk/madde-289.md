@@ -7,13 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Özel haller**
-
----
-
 Madde 289 – Bu bölümde yazılı olmıyan veyahut yazılı olup da kendi ölçüleriyle
 değerlenmesine imkan bulunmıyan iktisadi kıymetlerden bina ve arazi vergi değeriyle,
 diğerleri, varsa borsa rayici, yoksa mukayyet değerleri, o da yoksa emsal bedeliyle değerlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

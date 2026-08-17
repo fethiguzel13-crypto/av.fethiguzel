@@ -15,6 +15,8 @@ Madde 259- (1) Yürüttüğü görevin sağladığı nüfuzdan yararlanarak, bir
 veya hizmet satmaya çalışan kamu görevlisi, altı aya kadar hapis veya adlî para cezası ile
 cezalandırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

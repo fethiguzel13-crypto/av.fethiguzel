@@ -11,10 +11,8 @@ wordCount: 4279
 
 ---
 
-Madde 645 - Ortaklığın sona ermesi, üçüncü kişilere karşı olan yükümlülükleri
+MADDE 645- Ortaklığın sona ermesi, üçüncü kişilere karşı olan yükümlülükleri
 değiştirmez.
-
-Türk Medenî Kanunu ile ilişkisi
 
 ---
 

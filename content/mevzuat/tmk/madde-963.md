@@ -11,7 +11,9 @@ wordCount: 4300
 
 ---
 
-Madde 963 - Özel işletmelere ancak belli süre için izin verilebilir. Sürenin bitiminde bu izin yenilene bilir. Gerekli kurallara uyulmaması hâlinde, verilen izin her zaman geri alınabilir.
+Madde 963- Özel işletmelere ancak belli süre için izin verilebilir. Sürenin bitiminde bu
+izin yenilenebilir.
+Gerekli kurallara uyulmaması hâlinde, verilen izin her zaman geri alınabilir.
 
 ---
 

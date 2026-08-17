@@ -7,14 +7,19 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**Formların düzenlenmesi**
+**Emanetin para olması:**
 
 ---
 
-MADDE 64- (1) Bu Kanunun uygulanmasında kullanılacak olan form ve belgeleri
-hazırlamaya ve gerekli düzenlemeleri yapmaya Bakanlık yetkilidir. Elektronik ortamda tutulan
-yerleşim yeri adresinin bildirimine ilişkin beyan formları taranarak elektronik ortama
-aktarıldıktan sonra imha edilir.
+Madde 64 – Emanet para olduğu takdirde, noter bu parayı en geç ertesi gün bankadaki
+noterlik emanet cari hesabına hak sahibinin adı, soyadı ve adresini de göstermek suretiyle yatırır.
+Emanet paranın tahsil ve ödenmesinde makbuz kullanılır. Tahsilat makbuzu iki, ödeme
+makbuzu bir nüsha olarak düzenlenir. Tahsilat makbuzunun ilk nüshası emaneti yatırana verilir.
+Para hak sahibine, noterlikçe verilecek çek karşılığında bankaca ödenir.
+Noter, emanet paraya ait giderler ödendikçe, bankaya ihbarda bulunur. Bu halde
+zamanaşımı kesilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

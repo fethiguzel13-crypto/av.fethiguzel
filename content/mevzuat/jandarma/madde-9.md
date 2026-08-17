@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4275
 ---
 
-**Hizmet sınırı**
+**Hizmet sınırı:**
 
 ---
 
 Madde 9 – Kanun ve nizamlar ile bunlara dayalı olarak verilen emir ve kararların
 öngörmediği hiçbir görev jandarmadan istenemez. (Mülga ikinci cümle: 26/3/2002-4748/7 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

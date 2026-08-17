@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Mülteci**
+**ÜÇÜNCÜ KISIM
+Uluslararası Koruma
+BİRİNCİ BÖLÜM
+Uluslararası Koruma Çeşitleri, Uluslararası Korumanın Haricinde Tutulma
+Mülteci**
 
 ---
 
@@ -18,6 +22,8 @@ bu ülkenin korumasından yararlanamayan ya da söz konusu korku nedeniyle yarar
 istemeyen yabancıya veya bu tür olaylar sonucu önceden yaşadığı ikamet ülkesinin dışında
 bulunan, oraya dönemeyen veya söz konusu korku nedeniyle dönmek istemeyen vatansız
 kişiye statü belirleme işlemleri sonrasında mülteci statüsü verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

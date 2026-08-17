@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**İhtiyati haciz kararının muhtevası**
+**İhtiyati haciz kararının muhtevası:**
 
 ---
 
@@ -20,6 +20,8 @@ Madde 260 – (Değişik: 18/2/1965-538/100 md.)
 5. Alacaklının zararın tazminiyle mükellef olduğu ve gösterilen teminatın nelerden
 ibaret bulunduğu,
 Yazılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,12 @@ wordCount: 4266
 
 ---
 
-Madde 330 - N afaka miktarı, çocuğun ihti yaçları ile ana ve babanın hayat koşul ları v e ödem e güçleri dikkate alınarak belirlenir. Nafaka miktarı nın belirlenmesinde çocuğun gelirleri de göz önünde bulundurulur. Nafaka her ay peşin olarak ödenir. Hâkim istem hâlinde, ira t biçiminde ödenmesine kara r verilen nafakanın gelecek yıllarda t arafla rın sosyal ve ekonomik durumlarına göre ne miktarda ödenece ğini karara bağlayabilir.
+Madde 330- Nafaka miktarı, çocuğun ihtiyaçları ile ana ve babanın hayat koşulları ve
+ödeme güçleri dikkate alınarak belirlenir. Nafaka miktarının belirlenmesinde çocuğun gelirleri de
+göz önünde bulundurulur.
+Nafaka her ay peşin olarak ödenir.
+Hâkim istem hâlinde, irat biçiminde ödenmesine karar verilen nafakanın gelecek yıllarda
+tarafların sosyal ve ekonomik durumlarına göre ne miktarda ödeneceğini karara bağlayabilir.
 
 ---
 

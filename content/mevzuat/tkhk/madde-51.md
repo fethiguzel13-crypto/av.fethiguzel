@@ -39,11 +39,7 @@ bedelin indirilmesini talep etme hakkı vardır. Paket tur düzenleyicisinin, tu
 önemli bir yükümlülüğünü yerine getirmediği veya getiremeyeceği tespit edildiğinde tüketici
 sözleşmeden dönebilir. Bu hâllerde paket tur düzenleyicisi veya aracısının ücret talep etme
 hakkı sona erer. Yapılmış olan ödemelerin sözleşmeden dönüldüğü tarihten itibaren tüketiciye
-24/3/2022 tarihli ve 7392 sayılı Kanunun 8 inci maddesiyle bu fıkrada yer alan “, ön ödemeli
-satışlar” ibaresi madde metninden çıkarılmıştır.
-15
-
-derhâl iade edilmesi zorunludur. Ancak paket tur düzenleyicisi o ana kadar ifa etmiş olduğu
+derhâl iade edilmesi zorunludur. Ancak paket tur düzenleyicisi o ana kadar ifa etmiş olduğu
 edimler için tüketiciden hizmetten faydalandığı oranda uygun bir karşılık talep edebilir.
 (8) 14/9/1972 tarihli ve 1618 sayılı Seyahat Acentaları ve Seyahat Acentaları Birliği
 Kanununun zorunlu sigorta ile ilgili hükümleri saklı olmak üzere, paket tur düzenleyicisi
@@ -56,6 +52,8 @@ yapılmasının koşulları ve bu hâllerde tüketicinin hakları, paket turun i
 sonuçları, paket tur düzenleyicisinin ve aracısının sorumlulukları, tüketicinin hangi hâllerde
 tazminat talep edebileceği, sözleşmeden dönme ve sonuçları ile diğer uygulama usul ve
 esasları yönetmelikle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

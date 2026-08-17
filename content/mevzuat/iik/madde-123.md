@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Satış müddeti**
+**3 – Taşınmazların satışı:
+Satış müddeti:**
 
 ---
 
 Madde 123 – Taşınmazlar, satış talebinden nihayet üç ay içinde icra dairesi tarafından
-açık artırma ile satılır.50
-Artırma şartları:
+açık artırma ile satılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

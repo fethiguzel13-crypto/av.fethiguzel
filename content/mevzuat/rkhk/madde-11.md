@@ -26,6 +26,8 @@ takdirde üçüncü kişilere temlikine ve devrine; bunların eski malik veya ü
 edilmesine kadar geçen süre içinde devralan kişilerin devralınan teşebbüslerin yönetimine
 hiçbir şekilde katılamayacağına ve gerekli gördüğü diğer tedbirlerin alınmasına karar verir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

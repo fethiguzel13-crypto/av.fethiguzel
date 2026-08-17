@@ -7,13 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Haczi caiz olmıyan eşya hakkında**
+**Haczi caiz olmıyan eşya hakkında:**
 
 ---
 
 Madde 211 – Daire 82 nci maddede sayılan malları deftere kaydetmekle beraber
 müflisin elinde bırakır.
-Üçüncü şahıslara ait mallar:
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,8 @@ wordCount: 4293
 
 ---
 
-Madde 975 - Bir şeyde fiil î hâkimiyetini doğrudan doğruya sürdüren kimse dolaysız zilyet, başka bir kişi aracılığı i le sürdüren kimse dolaylı zilyettir.
+Madde 975- Bir şeyde fiilî hâkimiyetini doğrudan doğruya sürdüren kimse dolaysız
+zilyet, başka bir kişi aracılığı ile sürdüren kimse dolaylı zilyettir.
 
 ---
 

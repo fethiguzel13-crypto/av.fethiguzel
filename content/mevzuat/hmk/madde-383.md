@@ -14,6 +14,8 @@ wordCount: 4267
 MADDE 383- (1) Çekişmesiz yargı işlerinde görevli mahkeme, aksine bir düzenleme
 bulunmadığı sürece sulh hukuk mahkemesidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

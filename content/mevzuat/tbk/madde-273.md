@@ -11,7 +11,7 @@ wordCount: 4316
 
 ---
 
-Madde 273 - Taksitle satışa ilişkin hükümlerden yasal temsilcinin rızasına,
+MADDE 273- Taksitle satışa ilişkin hükümlerden yasal temsilcinin rızasına,
 sözleşmenin hüküm ve sonuçlarını doğurmasına ve geri alma açıklamasına, alıcının
 def’ilerine, satıcının alacağının devrine, hâkim tarafından sağlanan ödeme kolaylıklarına ve
 yetkili mahkeme ile tahkime ilişkin olanlar, ön ödemeli taksitle satışa da uygulanır.

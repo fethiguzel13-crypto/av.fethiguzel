@@ -11,7 +11,7 @@ wordCount: 4320
 
 ---
 
-Madde 38 - Korkutulan, içinde bulunduğu durum bakımından kendisinin veya
+MADDE 38- Korkutulan, içinde bulunduğu durum bakımından kendisinin veya
 yakınlarından birinin kişilik haklarına ya da malvarlığına yönelik ağır ve yakın bir zarar
 tehlikesinin doğduğuna inanmakta haklı ise, korkutma gerçekleşmiş sayılır.
 Bir hakkın veya kanundan doğan bir yetkinin kullanılacağı korkutmasıyla sözleşme

@@ -7,10 +7,6 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**Sınıf değiştirme**
-
----
-
 Madde 180 – b) (II) nciden (I) inciye geçiş: İş hacmı bakımından II nci sınıfa dahil
 tüccarların durumları aşağıda yazılı şartlara uyduğu takdirde bunlar bu şartların tahakkukunu
 takip eden hesap döneminden başlıyarak I inci sınıfa geçerler.
@@ -18,6 +14,8 @@ takip eden hesap döneminden başlıyarak I inci sınıfa geçerler.
 nispette fazla olursa, veya;
 2. Arka arkaya 2 dönemin iş hacmı 177 nci maddede yazılı hadlere nazaran % 20 ye
 kadar bir fazlalık gösterirse.
+
+---
 
 ### Akademik Yorum ve Analiz
 

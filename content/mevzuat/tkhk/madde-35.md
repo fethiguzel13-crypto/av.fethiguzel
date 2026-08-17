@@ -30,6 +30,8 @@ bir sözleşme olmaksızın, tüketicinin kendisi tarafından belirlenen konutun
 veren konut finansmanı kuruluşu tarafından ödenmesi suretiyle kullandırılan krediler bağlı
 kredi sayılmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

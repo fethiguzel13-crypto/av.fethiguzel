@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**İthalat İstisnası**
+**BEŞİNCİ BÖLÜM
+İthalat İstisnası**
 
 ---
 
@@ -21,12 +22,14 @@ müstesna olan eşyanın ithali, (Bu Kanunun 11 inci maddesinde düzenlenen ihra
 istisnasından yararlanarak ihraç olunan ancak, Gümrük Kanununun 168,169 ve 170 inci
 maddelerinde belirtildiği şekilde geri gelen eşyanın ithalat istisnasından faydalanabilmesi için,
 bu eşyayla ilgili olarak ihracat istisnasından faydalanılan miktarın gümrük idarelerine
-ödenmesi veya bu miktar kadar teminat gösterilmesi şarttır.)23
+ödenmesi veya bu miktar kadar teminat gösterilmesi şarttır.)
 c) (Değişik : 25/12/2003 - 5035/7 md.) Gümrük Kanunundaki transit ve gümrük
 antrepo rejimleri ile geçici depolama ve serbest bölge hükümlerinin uygulandığı mallar,
 2) (Değişik: 27/1/2000-4503/1 md.) Gümrük Kanununa göre geri gelen eşyanın
 dışarıda bir işleme tabi tutulması veya asli kısmına bir ilave yapılması halinde eşyanın
 kazandığı değer farkı istisnaya dahil değildir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

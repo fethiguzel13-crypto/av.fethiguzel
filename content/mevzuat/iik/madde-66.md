@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**5 – İtirazın hükmü**
+**5 – İtirazın hükmü:**
 
 ---
 
@@ -17,7 +17,8 @@ talebi üzerine icra memuru takip muamelelerine alacağın tamamı için devam e
 borcun yalnız bir kısmına itirazda bulunmuşsa takibe, kabul ettiği miktar için devam olunur.
 Borçlu itirazında imzayı reddetmişse alacaklı derhal icra dairesinden tatbika medar
 imzaların celbini istiyebilir.
-6 – İtirazın hükümden düşürülmesi:26
+
+---
 
 ### Akademik Yorum ve Analiz
 

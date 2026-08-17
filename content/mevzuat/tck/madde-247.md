@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**Zimmet**
+**DÖRDÜNCÜ KISIM
+Millete ve Devlete Karşı Suçlar ve Son Hükümler
+BİRİNCİ BÖLÜM
+Kamu İdaresinin Güvenilirliğine ve İşleyişine Karşı Suçlar
+Zimmet**
 
 ---
 
@@ -18,6 +22,8 @@ görevlisi, beş yıldan oniki yıla kadar hapis cezası ile cezalandırılır.
 halinde, verilecek ceza yarı oranında artırılır.
 (3) Zimmet suçunun, malın geçici bir süre kullanıldıktan sonra iade edilmek üzere
 işlenmesi halinde, verilecek ceza yarı oranına kadar indirilebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

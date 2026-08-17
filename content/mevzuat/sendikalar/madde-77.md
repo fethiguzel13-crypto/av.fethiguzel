@@ -18,6 +18,8 @@ gönderir. Bir nüshasını da dosyasında saklar.
 üzerinde anlaşmazlık çıktığı takdirde, Bakanlıkça sicile kaydedilmiş metin esas alınır. Sicilin
 tutulmasına ilişkin usul ve esaslar Bakanlıkça çıkarılacak bir yönetmelikle düzenlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

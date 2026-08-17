@@ -18,6 +18,8 @@ kabulü, ancak isnat olunan fiilin doğru olup olmadığının anlaşılmasında
 bulunmasına veya şikayetçinin ispata razı olmasına bağlıdır.
 (2) İspat edilmiş fiilinden söz edilerek kişiye hakaret edilmesi halinde, cezaya hükmedilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

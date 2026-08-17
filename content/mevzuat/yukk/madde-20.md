@@ -22,11 +22,13 @@ d) Uluslararası kuruluşların Türkiye’deki temsilciliklerinde çalışan ve
 anlaşmalarla belirlenmiş olanlar
 e) Türkiye Cumhuriyeti’nin taraf olduğu anlaşmalarla ikamet izninden muaf tutulanlar.
 f) 5901 sayılı Kanunun 28 inci maddesi kapsamında olanlar
-g) 76 ncı ve 83 üncü maddelerin birinci fıkraları kapsamında belge sahibi olanlar10
+g) 76 ncı ve 83 üncü maddelerin birinci fıkraları kapsamında belge sahibi olanlar
 (2) Birinci fıkranın (c), (ç), (d) ve (e) bentlerinde belirtilen yabancılara, şekil ve içeriği
 Bakanlık ve Dışişleri Bakanlığınca birlikte belirlenen belge tanzim edilir. Bu yabancılar, ikamet
 izninden muafiyet sağlayan durumları sona erdikten sonra da Türkiye’de kalmaya devam
 edeceklerse, en geç on gün içinde ikamet izni almak üzere valiliklere başvurmakla yükümlüdür.
+
+---
 
 ### Akademik Yorum ve Analiz
 

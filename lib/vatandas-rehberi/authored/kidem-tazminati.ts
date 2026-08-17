@@ -1,0 +1,177 @@
+import type { VatandasArticle } from '../types';
+
+/**
+ * Kaynak doğrulaması:
+ *   1475 m.14        content-packs/is-kanunu-1475.json.gz — hak doğuran hâller,
+ *                    30 günlük ücret, kıdemin hesabı, son ücret, giydirilmiş
+ *                    ücret, tavan, gecikme faizi, ölümde mirasçılara ödeme
+ *   4857 m.120       1475 sayılı Kanunun yalnız 14. maddesinin yürürlükte kalışı
+ *   4857 m.24        işçinin haklı nedenle derhal fesih hakkı
+ *   4857 m.25/II     işverenin ahlak ve iyiniyet kurallarına aykırılık nedeniyle feshi
+ *   4857 m.32        ücretin tanımı
+ *   4857 Ek m.3      beş yıllık zamanaşımı (7036 s.K. m.15 ile eklendi)
+ *
+ * Doğrulama:
+ *   node scripts/madde.mjs is-kanunu-1475 14
+ *   node scripts/madde.mjs is-kanunu 120 --tam
+ *
+ * NOT: 1475 m.14 metnindeki "17 nci maddenin II numaralı bendi" ve "16 ncı
+ * madde" göndermeleri mülga 1475 sayılı Kanuna aittir; bugün sırasıyla
+ * 4857 m.25/II ve m.24 karşılığı okunur. Metinde bu aktarım açıkça yazıldı.
+ *
+ * Tavan tutarı altı ayda bir değiştiğinden metinde SAYI VERİLMEZ; ölçüt
+ * anlatılır ve güncel değer için hesaplama aracına yönlendirilir.
+ */
+export const kidemTazminati: VatandasArticle = {
+  slug: 'kidem-tazminati-nasil-alinir',
+  title: 'Kıdem Tazminatı: Kimler Hak Kazanır, Nasıl Hesaplanır?',
+  description:
+    'Kıdem tazminatına hangi hâllerde hak kazanılır, 30 günlük ücret neyi kapsar, tavan nedir, zamanaşımı kaç yıl? 1475 sayılı Kanun m.14 ve 4857 sayılı Kanun çerçevesinde.',
+  h1: 'Kıdem tazminatı nasıl alınır?',
+  keywords: [
+    'kıdem tazminatı',
+    'kıdem tazminatı hesaplama',
+    'kıdem tazminatı şartları',
+    'kıdem tazminatı tavanı',
+    'istifa kıdem tazminatı',
+    'kıdem tazminatı zamanaşımı',
+  ],
+  category: 'İş',
+  role: 'pillar',
+  related: ['issizlik-maasi-sartlari'],
+  links: [
+    { label: '1475 sayılı Kanun m.14 — Kıdem tazminatı', href: '/mevzuat/is-kanunu-1475/madde-14' },
+    { label: 'İş K. m.24 — İşçinin haklı nedenle feshi', href: '/mevzuat/is-kanunu/madde-24' },
+    { label: 'İş K. m.25 — İşverenin haklı nedenle feshi', href: '/mevzuat/is-kanunu/madde-25' },
+    { label: 'İş K. m.120 — 1475 m.14’ün yürürlüğü', href: '/mevzuat/is-kanunu/madde-120' },
+    { label: 'Kıdem tazminatı hesaplama aracı', href: '/hesaplama/kidem' },
+  ],
+  lead:
+    'Kıdem tazminatı, kanunda sayılan sona erme hâllerinden birinin gerçekleşmesi koşuluyla, işçinin işe başladığı tarihten itibaren her geçen tam yıl için 30 günlük ücreti tutarında ödenir; bir yıldan artan süreler aynı oran üzerinden hesaplanır.',
+  keyInsight:
+    'Belirleyici olan ne kadar çalıştığınız değil, iş sözleşmesinin NASIL sona erdiğidir: Kendi isteğiyle istifa eden işçi kural olarak kıdem tazminatına hak kazanmaz.',
+  sections: [
+    {
+      heading: 'Yürürlükteki tek madde: 1475 sayılı Kanun m.14',
+      paragraphs: [
+        'Kıdem tazminatının kaynağı bugün yürürlükte olan 4857 sayılı İş Kanunu değildir. 4857 sayılı Kanunun 120. maddesi, 1475 sayılı İş Kanununun 14 üncü maddesi hariç diğer maddelerini yürürlükten kaldırmış olup kıdem tazminatı hâlâ o tek maddeye dayanır.',
+        'Bu ayrıntı pratikte iki sonuç doğurur. Birincisi, madde metnindeki 16 ve 17. madde göndermeleri mülga 1475 sayılı Kanuna aittir ve bugün sırasıyla 4857 m.24 ile m.25/II karşılığı okunur. İkincisi, madde 1971 tarihli dilini korumakla birlikte içtihatla epeyce şekillenmiştir.',
+      ],
+    },
+    {
+      heading: 'Hangi hâllerde hak doğar?',
+      paragraphs: [
+        'Madde 14, hak doğuran sona erme biçimlerini tek tek sayar. İşveren sözleşmeyi ahlak ve iyiniyet kurallarına aykırılık dışındaki bir sebeple feshetmişse işçi kıdem tazminatına hak kazanır; bugünkü karşılığıyla 4857 m.25/II dışındaki her işveren feshi bu kapsamdadır.',
+        'İşçinin kendi feshi de her zaman hak kaybı anlamına gelmez. İşçi, haklı nedenle derhal fesih hakkını kullanarak ayrılmışsa tazminata hak kazanır; 4857 m.24 bu sebepleri sağlık, ahlak ve iyiniyet kurallarına uymayan hâller ile zorlayıcı sebepler başlıkları altında düzenler. Ücreti ödenmeyen ya da işyerinde tacize uğrayan işçinin ayrılması bu çerçevededir.',
+        'Kanun üç özel hâl daha tanır: muvazzaf askerlik hizmeti, yaşlılık veya malullük aylığı yahut toptan ödeme almak amacıyla ayrılma ve kadın işçinin evlendiği tarihten itibaren bir yıl içinde kendi arzusuyla sözleşmeyi sona erdirmesi. İşçinin ölümü hâlinde de tazminat doğar ve kanuni mirasçılarına ödenir.',
+        '4447 sayılı Kanunla eklenen beşinci bent, emeklilik yaşını beklemek istemeyen işçiye kapı açar. Sigortalılık süresini ve prim ödeme gün sayısını tamamlayıp yalnız yaş şartını bekleyen işçi, kendi isteğiyle ayrılsa dahi kıdem tazminatına hak kazanır.',
+        'Bu listede olmayan bir sebeple, yani düpedüz istifa ederek ayrılan işçi kural olarak kıdem tazminatı alamaz. Uygulamada en sık yaşanan hayal kırıklığı buradan doğar; ayrılmadan önce feshin hangi hukuki sebebe dayandırılacağı belirlenmelidir.',
+      ],
+      bullets: [
+        'İşverenin 4857 m.25/II dışındaki sebeplerle feshi',
+        'İşçinin 4857 m.24 uyarınca haklı nedenle feshi',
+        'Muvazzaf askerlik hizmeti',
+        'Yaşlılık, emeklilik veya malullük aylığı yahut toptan ödeme',
+        'Sigortalılık süresi ve prim günü tamamlanarak ayrılma',
+        'Kadın işçinin evlilikten itibaren bir yıl içinde ayrılması',
+        'İşçinin ölümü — mirasçılara ödenir',
+      ],
+    },
+    {
+      heading: 'Kıdem süresi nasıl hesaplanır?',
+      paragraphs: [
+        'Ölçü, aynı işverene bağlı geçen süredir. Kanun işçilerin kıdemlerinin, hizmet akdinin devam etmiş veya fasılalarla yeniden akdedilmiş olmasına bakılmaksızın aynı işverenin bir veya değişik işyerlerinde çalıştıkları süreler göz önüne alınarak hesaplanacağını söyler.',
+        'Aynı işverenin farklı şubelerinde çalışmak ya da aradan boşluk geçmiş olması kıdemi bölmez; süreler toplanır. İşyerinin devri hâlinde de kıdem, işyerlerindeki hizmet akitleri sürelerinin toplamı üzerinden hesaplanır.',
+        'Devirde sorumluluk paylaşılır: 12/7/1975 tarihinden itibaren işyerinin devri veya el değiştirmesi hâlinde işlemiş kıdem tazminatlarından her iki işveren sorumlu olup devreden işverenin sorumluluğu, işçiyi çalıştırdığı süre ve devir anındaki ücret seviyesiyle sınırlıdır.',
+        'Kanun bir de mükerrer ödemeyi engeller. Aynı kıdem süresi için bir defadan fazla kıdem tazminatı veya ikramiye ödenmez; daha önce tazminat alınmış bir dönem yeniden hesaba katılmaz.',
+      ],
+    },
+    {
+      heading: 'Hangi ücret esas alınır?',
+      paragraphs: [
+        'Hesap, son ücret üzerinden yapılır. Parça başı, akort, götürü veya yüzde usulü gibi ücretin sabit olmadığı hâllerde son bir yıllık süre içinde ödenen ücretin o süre içinde çalışılan günlere bölünmesiyle bulunacak ortalama ücret esas tutulur.',
+        'Son bir yıl içinde zam yapılmışsa yöntem değişir: Tazminata esas ücret, işten ayrılma tarihi ile zammın yapıldığı tarih arasında alınan ücretin aynı süre içinde çalışılan günlere bölünmesiyle hesaplanır.',
+        'Asıl fark yaratan nokta ücretin kapsamıdır. Kıdem tazminatına esas ücretin hesabında, çıplak ücrete ilaveten işçiye sağlanmış olan para ve para ile ölçülmesi mümkün akdi ve kanundan doğan menfaatler de göz önünde tutulur. Yol ve yemek yardımı, düzenli ikramiye, yakacak yardımı gibi kalemler bu nedenle hesaba girer; uygulamada buna giydirilmiş ücret denir.',
+        'Bu kalemlerin atlanması, tazminatın gerçekte olması gerekenin belirgin biçimde altında çıkmasına yol açar. Bordroda görünen çıplak ücretle yapılan hesap çoğu dosyada eksik hesaptır.',
+      ],
+    },
+    {
+      heading: 'Tavan ve gecikme faizi',
+      paragraphs: [
+        'Kıdem tazminatı sınırsız değildir. Toplu sözleşmelerle ve hizmet akitleriyle belirlenen kıdem tazminatlarının yıllık miktarı, Devlet Memurları Kanununa tabi en yüksek Devlet memuruna bir hizmet yılı için ödenecek azami emeklilik ikramiyesini geçemez.',
+        'Bu tavan her yıl iki kez, memur maaş katsayılarının değişmesiyle güncellenir. Bu yüzden burada bir rakam vermek yerine güncel değeri hesaplama aracından almanız daha doğru olur; fesih tarihinde yürürlükte olan tavan uygulanır.',
+        'Tavan yalnız üst sınırdır, hedef değildir. Ücreti tavanın altında kalan işçi için hesap doğrudan kendi giydirilmiş ücreti üzerinden yapılır.',
+        'Ödeme gecikirse kanun ağır bir yaptırım öngörür. Kıdem tazminatının zamanında ödenmemesi sebebiyle açılacak davanın sonunda hâkim, gecikme süresi için mevduata uygulanan en yüksek faizin ödenmesine hükmeder.',
+      ],
+    },
+    {
+      heading: 'Ne kadar süreniz var?',
+      paragraphs: [
+        'Zamanaşımı süresi 4857 sayılı Kanuna 7036 sayılı Kanunla eklenen Ek Madde 3 ile düzenlenmiştir. Buna göre iş sözleşmesinden kaynaklanan kıdem tazminatı, ihbar tazminatı, kötüniyet tazminatı ve eşit davranma ilkesine aykırılıktan doğan tazminat ile yıllık izin ücretinde zamanaşımı beş yıldır.',
+        'Süre feshin gerçekleştiği tarihte işlemeye başlar. Beş yıl uzun görünmekle birlikte, delil toplamanın zamanla zorlaşması nedeniyle beklemek nadiren işçinin lehine olur.',
+        'İş uyuşmazlıklarında arabuluculuk dava şartıdır; mahkemeye başvurmadan önce bu aşamanın tamamlanması gerekir. Arabuluculuk sürecinin zamanaşımına etkisi somut dosyaya göre değerlendirilir.',
+      ],
+    },
+    {
+      heading: 'Sık yapılan hatalar',
+      paragraphs: [
+        'En pahalı hata, fesih sebebini yazılı olarak ortaya koymadan işten ayrılmaktır. Ücreti ödenmediği için ayrılan işçi bunu belgelemezse, dosya kolayca istifa görüntüsüne bürünür ve tazminat hakkı tartışmalı hâle gelir.',
+        'İkinci hata, ibraname veya istifa dilekçesini okumadan imzalamaktır. Hak kaybına yol açan belgeler çoğu zaman ayrılık günü, yoğunluk içinde imzalatılır.',
+        'Üçüncüsü hesabı çıplak ücret üzerinden yapmaktır. Yol, yemek ve düzenli ikramiye gibi kalemler hesaba katılmadığında tazminat olması gerekenin altında çıkar.',
+      ],
+    },
+  ],
+  steps: [
+    'İşe giriş ve çıkış tarihlerinizi belgeleyin; SGK hizmet dökümü e-Devlet üzerinden alınabilir.',
+    'Sözleşmenin nasıl sona erdiğini belirleyin: işveren feshi mi, haklı nedenle işçi feshi mi, askerlik, emeklilik ya da evlilik mi.',
+    'Fesih sebebinizi yazılı hâle getirin ve tebliğ ettiğinizi belgeleyin.',
+    'Son bir yılın bordrolarını, yol ve yemek yardımı ile ikramiye kayıtlarını toplayın; giydirilmiş ücret bunlardan çıkar.',
+    'Fesih tarihinde yürürlükteki tavanı kontrol edin.',
+    'Hesabı yapın; hesaplama aracı giydirilmiş ücret ve tavanı birlikte dikkate alır.',
+    'Ödeme yapılmazsa arabuluculuğa başvurun; iş uyuşmazlıklarında bu aşama dava şartıdır.',
+  ],
+  checklist: [
+    'SGK hizmet dökümü — işe giriş ve çıkış tarihleri',
+    'İş sözleşmesi',
+    'Son bir yılın bordroları ve banka ödeme kayıtları',
+    'Yol, yemek, ikramiye gibi yan haklara ilişkin belgeler',
+    'Fesih bildirimi veya istifa dilekçesi',
+    'Varsa ihtarname ve yazışmalar',
+  ],
+  faq: [
+    {
+      q: 'İstifa edersem kıdem tazminatı alabilir miyim?',
+      a: 'Kural olarak hayır. Ancak 4857 m.24 uyarınca haklı nedenle fesih, askerlik, emeklilik yahut sigortalılık süresi ve prim gününü tamamlayarak ayrılma ile kadın işçinin evlilikten itibaren bir yıl içinde ayrılması hâllerinde hak doğar.',
+    },
+    {
+      q: 'Kaç yıl çalışmak gerekir?',
+      a: 'Madde, her geçen tam yıl için ödeme öngördüğünden en az bir yıllık kıdem aranır. Bir yıldan artan süreler için de aynı oran üzerinden ödeme yapılır.',
+    },
+    {
+      q: 'Hesaba yol ve yemek parası girer mi?',
+      a: 'Evet. Kıdem tazminatına esas ücretin hesabında, çıplak ücrete ilaveten işçiye sağlanmış para ve para ile ölçülmesi mümkün akdi ve kanundan doğan menfaatler göz önünde tutulur.',
+    },
+    {
+      q: 'Kıdem tazminatı tavanı nedir?',
+      a: 'Yıllık miktar, en yüksek Devlet memuruna bir hizmet yılı için ödenecek azami emeklilik ikramiyesini geçemez. Tavan yılda iki kez güncellenir ve fesih tarihindeki değer uygulanır.',
+    },
+    {
+      q: 'İşveren ödemezse ne olur?',
+      a: 'Açılacak davanın sonunda hâkim, gecikme süresi için mevduata uygulanan en yüksek faizin ödenmesine hükmeder.',
+    },
+    {
+      q: 'Zamanaşımı kaç yıl?',
+      a: 'Beş yıldır. 4857 sayılı Kanuna 7036 sayılı Kanunla eklenen Ek Madde 3, kıdem ve ihbar tazminatı ile yıllık izin ücreti gibi alacaklarda zamanaşımını beş yıl olarak belirler.',
+    },
+    {
+      q: 'İşyeri devredildi, kıdemim sıfırlandı mı?',
+      a: 'Hayır. İşyerinin devri hâlinde kıdem, işyerlerindeki hizmet akitleri sürelerinin toplamı üzerinden hesaplanır. İşlemiş tazminatlardan her iki işveren sorumludur; devreden işverenin sorumluluğu kendi dönemi ve devir anındaki ücretle sınırlıdır.',
+    },
+    {
+      q: 'Vefat eden işçinin tazminatı ne olur?',
+      a: 'İşçinin ölümü hâlinde doğan tazminat tutarı kanuni mirasçılarına ödenir.',
+    },
+  ],
+  updated: '2026-08-16',
+  sitemapPriority: 0.96,
+};

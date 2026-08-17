@@ -11,7 +11,11 @@ wordCount: 4320
 
 ---
 
-Madde 75 - Genel kurul, yönetim veya denetim kurulunun gere kli gördüğü hâllerde veya dernek üyelerinden beşte birinin yazılı başvurusu üzerine, yönetim kurulunca olağanüstü toplantıya çağrılır. Yönetim kurulu, genel kurulu toplantıya çağırmazsa; üyelerden birinin başvurusu üzerine, sulh hâkimi, üç üyeyi genel kuru lu toplantıya çağırmakla görevlendirir.
+Madde 75- Genel kurul, yönetim veya denetim kurulunun gerekli gördüğü hâllerde veya
+dernek üyelerinden beşte birinin yazılı başvurusu üzerine, yönetim kurulunca olağanüstü toplantıya
+çağrılır.
+Yönetim kurulu, genel kurulu toplantıya çağırmazsa; üyelerden birinin başvurusu üzerine,
+sulh hâkimi, üç üyeyi genel kurulu toplantıya çağırmakla görevlendirir.
 
 ---
 

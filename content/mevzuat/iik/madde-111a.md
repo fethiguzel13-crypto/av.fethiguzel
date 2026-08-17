@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**Borçluya satış yetkisi verilmesi**
+**Borçluya satış yetkisi verilmesi:**
 
 ---
 
@@ -30,12 +30,12 @@ gönderir. Mahkeme, en geç on gün içinde yapacağı inceleme sonucunda dosya 
 talebin kabulüne veya reddine kesin olarak karar verir. Kabul kararıyla malın mülkiyeti
 alıcıya geçer ve tüm hacizler kaldırılarak devir ve teslim işlemleri gerçekleştirilir. Ret kararı
 verilmesi hâlinde yatırdığı bedel alıcıya iade edilir.
-
-Bu madde uyarınca yapılacak satışlar hakkında niteliğine uygun düştüğü ölçüde bu
+Bu madde uyarınca yapılacak satışlar hakkında niteliğine uygun düştüğü ölçüde bu
 Kanunun diğer hükümleri uygulanır.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar, Adalet Bakanlığınca yürürlüğe
 konulan yönetmelikle belirlenir.
-Elektronik ortamda açık artırma suretiyle satış:
+
+---
 
 ### Akademik Yorum ve Analiz
 

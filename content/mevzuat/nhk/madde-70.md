@@ -7,14 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**Kadrolar**
+**Tebligat işleri:**
 
 ---
 
-MADDE 70- (1) Bu Kanuna ekli (1) sayılı listede yer alan kadrolar bu Kanun
-kapsamındaki hizmetlerde kullanılmak üzere ihdas edilerek 190 sayılı Genel Kadro ve Usulü
-Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin İçişleri Bakanlığı bölümüne
-eklenmiştir.
+Madde 70 – Tebliği istenen her nevi kağıt, Tebliğat Kanunu hükümlerine göre
+muhatabına tebliğ olunur. Tebliğ tutanağı dairedeki nüshaya bağlanır. Tebliğin yapıldığı veya
+yapılamadığı ilgilisine verilecek nüshasına yazılıp onaylanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

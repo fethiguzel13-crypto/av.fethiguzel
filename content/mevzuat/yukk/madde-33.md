@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Kısa dönem ikamet izninin reddi, iptali veya uzatılmaması**
+**makamları tarafından düzenlenmiş adli sicil kaydını gösteren belgeyi sunmak
+d) Türkiye’de kalacağı adres bilgilerini vermek
+Kısa dönem ikamet izninin reddi, iptali veya uzatılmaması**
 
 ---
 
@@ -18,12 +20,12 @@ ortadan kalkması
 b) İkamet izninin, veriliş amacı dışında kullanıldığının belirlenmesi
 2/7/2018 tarihli 703 sayılı KHK’nin 71 inci maddesiyle, bu bentte yer alan “Bakanlar Kurulunca” ibaresi
 “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-12
-
-c) (Mülga: 28/7/2016-6735/27 md.)
+c) (Mülga: 28/7/2016-6735/27 md.)
 ç) Hakkında geçerli sınır dışı etme veya Türkiye’ye giriş yasağı kararı bulunması
 (2) (Ek: 28/7/2016-6735/27 md.) İkamet izninin yurt dışında kalış süresi bakımından
 iptaline ilişkin usul ve esaslar yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

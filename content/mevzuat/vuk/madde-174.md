@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Hesap dönemi**
+**Hesap dönemi:**
 
 ---
 
@@ -21,6 +21,8 @@ Yeniden işe başlama veya işi bırakma hallerinde, hesap dönemi içinde bir y
 olan faaliyet süresi, hesap dönemi sayılır.
 Bu maddeye göre özel hesap dönemi tayin edilenlerin ticari ve zirai kazançları, hesap
 dönemlerinin kapandığı takvim yılının kazancı sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

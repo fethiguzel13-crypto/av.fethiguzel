@@ -7,18 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**Kayıt zamanı**
+**Kayıt zamanı:**
 
 ---
 
 Madde 219 – (Değişik: 30/12/1980-2365/32 md.)
 Muameleler defterlere zamanında kaydedilir. Şöyleki:
-
-2/7/2018 tarihli ve 700 sayılı KHK’nin 46 ncı maddesiyle, bu bentte yer alan “Bakanlar Kurulunca” ibaresi
-“Cumhurbaşkanınca” şeklinde, “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-56
-
-a) Muamelelerin işin hacmine ve icabına uygun olarak muhasebenin intizam ve
+a) Muamelelerin işin hacmine ve icabına uygun olarak muhasebenin intizam ve
 vuzuhunu bozmayacak bir zaman zarfında kaydedilmesi şarttır. Bu gibi kayıtların on günden
 fazla geciktirilmesi caiz değildir.
 b) Kayıtlarını devamlı olarak muhasebe fişleri, primanota ve bordro gibi yetkili
@@ -27,6 +22,8 @@ muamelelerin bunlara işlenmesi, deftere işlenmesi hükmündedir. Ancak bu kay�
 muamelelerin esas defterlere 45 günden daha geç intikal ettirilmesine cevap vermez.
 c) Günlük kasa, günlük, parakende satış ve hasılat defterleri ile serbest meslek kazanç
 defterine muameleler günü gününe kaydedilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

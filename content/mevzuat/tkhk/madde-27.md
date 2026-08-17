@@ -16,6 +16,8 @@ bulunabilir veya kredi borcunun tamamını erken ödeyebilir. Bu hâllerde kredi
 ödenen miktara göre gerekli tüm faiz ve diğer maliyet unsurlarına ilişkin indirim yapmakla
 yükümlüdür.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

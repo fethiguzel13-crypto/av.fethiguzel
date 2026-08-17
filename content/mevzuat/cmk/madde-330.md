@@ -17,11 +17,12 @@ başvuran Cumhuriyet savcısı ise, sanığın ödemek zorunda bulunduğu giderl
 Hazinesine yükletilir.
 (2) Kanun yoluna başvuranın istemi kısmen kabul olunmuş ise, mahkeme uygun
 gördüğü şekilde giderleri bölüştürür.
-
-(3) Kesinleşmiş bir hüküm ile sonuçlanan bir duruşma hakkındaki yargılamanın
+(3) Kesinleşmiş bir hüküm ile sonuçlanan bir duruşma hakkındaki yargılamanın
 yenilenmesi isteminden ileri gelen giderler hakkında da aynı hüküm geçerlidir.
 (4) Eski hâle getirme isteminden doğan giderler, hasım tarafının esassız karşı
 koymasından meydana gelmiş değilse, bu istemi ileri sürene yükletilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

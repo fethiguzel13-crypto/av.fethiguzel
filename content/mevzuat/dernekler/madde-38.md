@@ -30,18 +30,13 @@ yerine işlenmiştir.)
 H) 6.10.1983 tarihli ve 2908 sayılı Dernekler Kanunu yürürlükten kaldırılmıştır.
 Ek Madde 1- (Ek: 2/7/2018-KHK-703/19 md.) (İptal: Anayasa Mahkemesinin
 7/12/2023 Tarihli ve E: 2018/117, K: 2023/212 Sayılı Kararı ile)
-Derneklerin kayıtlarının tutulması ve işlemlerin elektronik ortamda yapılması 13
+Derneklerin kayıtlarının tutulması ve işlemlerin elektronik ortamda yapılması
 Ek Madde 2- (Ek:25/3/2020-7226/23 md.)
 (Ek fıkra:21/11/2024-7533/33 md.) Bu Kanuna ve 4721 sayılı Kanuna göre kurulan
 derneklerin, 26/3/1987 tarihli ve 3335 sayılı Uluslararası Nitelikteki Teşekküllerin Kurulması
 Hakkında Kanuna göre kurulan teşekküllerin ve bunlara ait müesseselerin; bunların tabi
 olduğu kanunlara istinaden elde edilen bilgi ve belgelerin kayıtları İçişleri Bakanlığınca ve
-
-21/11/2024 tarihli ve 7533 sayılı Kanunun 33 üncü maddesi ile bu madde başlığı “İşlemlerin elektronik
-ortamda yapılması” iken metne işlendiği şekilde değiştirilmiştir.
-13
-
-mülki idare amirliklerince tutulur. Bu kayıtlar İçişleri Bakanlığınca oluşturulan dernekler
+mülki idare amirliklerince tutulur. Bu kayıtlar İçişleri Bakanlığınca oluşturulan dernekler
 kütüğüne kaydedilir.
 (Ek fıkra:21/11/2024-7533/33 md.) Türk vatandaşları tarafından yurt dışında kurulan
 dernek ve diğer kâr amacı gütmeyen kuruluşların kayıtları, ilgili makamlar aracılığıyla İçişleri
@@ -58,6 +53,8 @@ Dernekler, bu maddenin yürürlüğe girdiği tarihten itibaren altı ay içinde
 edenlerin adını, soyadını, doğum tarihini ve kimlik numarasını merkezinin bulunduğu dernekler
 birimine bildirirler. Bu bildirimi yerine getirmeyen dernek yöneticileri hakkında, 32 nci
 maddenin birinci fıkrasının (s) bendi hükmü uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

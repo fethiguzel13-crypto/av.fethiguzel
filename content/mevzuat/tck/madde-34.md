@@ -17,6 +17,8 @@ davranışlarını yönlendirme yeteneği önemli derecede azalmış olan kişiy
 (2) İradi olarak alınan alkol veya uyuşturucu madde etkisinde suç işleyen kişi
 hakkında birinci fıkra hükmü uygulanmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

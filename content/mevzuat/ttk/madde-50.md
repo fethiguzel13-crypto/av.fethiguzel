@@ -7,13 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**III
-- Ticaret unvanının korunması
+**III - Ticaret unvanının korunması
 1. İlke**
 
 ---
 
-Madde 50 - (1) Usulen tescil ve ilan edilmiş olan ticaret unvanını kullan ma hakkı sadece sahibine aittir.
+MADDE 50- (1) Usulen tescil ve ilan edilmiş olan ticaret unvanını kullanma hakkı
+sadece sahibine aittir.
 
 ---
 

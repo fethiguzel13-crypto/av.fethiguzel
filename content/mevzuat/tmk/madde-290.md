@@ -11,7 +11,9 @@ wordCount: 4298
 
 ---
 
-Madde 290 - Çocuk evlili ğin sona ermesinden başlayarak üçyüz gün içinde doğmuş ve ana da bu arada yeniden evlenmiş olursa, ikinci evlilikteki koca baba sayılır. Bu karine ç ürütülürse ilk ev lilik teki k oca baba sayılır.
+Madde 290- Çocuk evliliğin sona ermesinden başlayarak üçyüz gün içinde doğmuş ve
+ana da bu arada yeniden evlenmiş olursa, ikinci evlilikteki koca baba sayılır.
+Bu karine çürütülürse ilk evlilikteki koca baba sayılır.
 
 ---
 

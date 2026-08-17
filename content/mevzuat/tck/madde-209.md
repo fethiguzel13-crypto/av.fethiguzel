@@ -18,6 +18,8 @@ dolduran kişi, şikayet üzerine, üç aydan bir yıla kadar hapis cezası ile 
 veya elde bulundurup da hukuki sonuç doğuracak şekilde dolduran kişi, belgede sahtecilik
 hükümlerine göre cezalandırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

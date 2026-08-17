@@ -18,9 +18,9 @@ sunulur.
 toplantıların yarısına katılmayan üyenin üyeliğinin düşmesine, savunması alındıktan sonra
 üye tam sayısının salt çoğunluğuyla karar verilir.
 Belediye meclisi üyeliğine seçilme yeterliğinin kaybedilmesi durumunda, valinin
+bildirmesi üzerine Danıştay tarafından üyeliğin düşmesine karar verilir.
 
-
-bildirmesi üzerine Danıştay tarafından üyeliğin düşmesine karar verilir.
+---
 
 ### Akademik Yorum ve Analiz
 

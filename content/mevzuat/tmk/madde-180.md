@@ -11,7 +11,8 @@ wordCount: 4299
 
 ---
 
-Madde 180 - Ayrılığa karar verilirse mahkeme, ayrılığın süresine ve eşleri n durumlarına göre aralarında sözleşmeyle kabul edilmiş olan ma l rejiminin kaldırılmasına karar verebilir.
+Madde 180- Ayrılığa karar verilirse mahkeme, ayrılığın süresine ve eşlerin durumlarına
+göre aralarında sözleşmeyle kabul edilmiş olan mal rejiminin kaldırılmasına karar verebilir.
 
 ---
 

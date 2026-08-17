@@ -7,12 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4281
 ---
 
-**XII
-- İşlem denetçisi raporu**
+**XII - İşlem denetçisi raporu**
 
 ---
 
-Madde 351 - (Mülga: 26/6/2012 - 633 5/43 md.) XIII - Kuruluştan önce pay taahhüdünün devri
+MADDE 351- (Mülga: 26/6/2012-6335/43 md.)
 
 ---
 

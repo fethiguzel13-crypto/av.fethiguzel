@@ -18,6 +18,8 @@ hâle getirme talebinde bulunmak mümkündür. Ancak, nihai karar bir tarafın y
 verilmişse, tahkikat aşamasında kaçırılan süreler için kararın verilmesinden sonra da eski hâle
 getirme talebinde bulunulabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

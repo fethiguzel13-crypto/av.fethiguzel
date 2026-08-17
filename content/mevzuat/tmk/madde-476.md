@@ -11,7 +11,8 @@ wordCount: 4288
 
 ---
 
-Madde 476 - Kendi isteğiyle kısıtlanmı ş olan kişi üzerindeki vesa yetin kaldırılması, kısıtlamayı gerektiren sebebin ort adan kalkmasına bağlıdır.
+Madde 476- Kendi isteğiyle kısıtlanmış olan kişi üzerindeki vesayetin kaldırılması,
+kısıtlamayı gerektiren sebebin ortadan kalkmasına bağlıdır.
 
 ---
 

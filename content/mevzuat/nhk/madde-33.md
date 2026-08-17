@@ -7,19 +7,32 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**Ölü olduğu halde aile kütüklerinde sağ görünenler**
+**DÖRDÜNCÜ KISIM
+Notere Vekalet ve İmza Yetkisi
+Boşalan noterliğin vekaleten yönetimi:**
 
 ---
 
-MADDE 33- (1) Ölmüş olduğu halde aile kütüklerinde sağ görülenlere ait ölüm
-tutanakları, ölüm olayını gösterir belge ile başvurulması halinde nüfus müdürlüklerince
-düzenlenir ve gerekli işlem yapılır. Herhangi bir belge ibraz edilememesi durumunda ölüm
-beyanının doğruluğu nüfus müdürlüklerince tahkik ettirildikten sonra düzenlenecek ölüm
-tutanağı, mülkî idare amirinin emri ile işleme konulur.
-(2) (Ek: 19/10/2017-7039/8 md.) Merkezî veri tabanında yer alan kayıtlara göre uzun
-süre işlem görmeyen ve yaşı itibarıyla ölü olması muhtemel kişiler Genel Müdürlükçe tespit
-edilir. Tespit edilen kayıtların araştırılması mülkî idare amirinin emriyle kolluk kuvvetlerine
-yaptırılır. Araştırma sonucu ölü oldukları tespit edilenlerin ölümleri tescil edilir.
+Madde 33 – Her ne sebeple olursa olsun boşalan birinci, ikinci veya üçüncü sınıf bir
+noterliği, atanan noter göreve başlayıncaya kadar o noterlikte çalışan ve stajının altı ay'ını
+tamamlamış olan stajiyer, bu durumdaki stajiyerler birden fazla ise kıdemlisi, o noterlikte bu
+durumda stajiyer yoksa noter odasının uygun bulacağı ve görevlendireceği aynı durumdaki
+stajiyer, bunlardan hiç birisi bulunmadığı takdirde o noterliğin başkatibi, onun da engelli
+bulunduğu hallerde en kıdemli katibi vekaleten yönetir.
+(Değişik birinci cümle: 2/3/2005-5309/3 md.) Noterlikte bu işi görecek kâtip bulunmadığı
+takdirde, Cumhuriyet savcılığının bildirmesi üzerine, adalet komisyonu tarafından atanacak icra
+müdürü, icra müdür yardımcısı veya yeterli bir adalet memuruna bu iş gördürülür. (Değişik:
+16/11/1989 - 3588/5 md.) İşin yürütülmesinde yetersiz kaldığının denetimlerde belirlenmesi
+halinde vekil her zaman değiştirilebilir.
+Yukarıki fıkralar gereğince noterliği yürüten görevliye, kendi aylık veya ücretinden az
+olmamak üzere, noter odası tarafından tayin olunacak ücret, noterlik gelirinden ödenir. Ancak,
+bu ücret noterliğin aylık safi gelirinin yarısından fazla olamaz.
+(Değişik: 16/11/1989 - 3588/5 md.) Vekilin daire dışında bizzat yapacağı işlemlerden
+alınacak yol ödeneği dahil noterliğin, aylık gayri safi gelirinden, noterlik aidatı vekilin ücreti ve
+noterliğin diğer giderleri ayrıldıktan sonra kalanı, gelir ve giderin müfredatlı listesi ile birlikte
+en geç müteakip ayın onbeşine kadar vekil tarafından Türkiye Noterler Birliğine gönderilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**a) İtirazın iptali**
+**6 – İtirazın hükümden düşürülmesi:
+a) İtirazın iptali:**
 
 ---
 
@@ -18,7 +19,7 @@ dairesinde alacağının varlığını ispat suretiyle itirazın iptalini dava e
 (Değişik: 9/11/1988-3494/1 md.) Bu davada borçlunun itirazının haksızlığına karar
 verilirse borçlu; takibinde haksız ve kötü niyetli görülürse alacaklı; diğer tarafın talebi üzerine
 iki tarafın durumuna, davanın ve hükmolunan şeyin tahammülüne göre, red veya hükmolunan
-meblağın yüzde yirmisinden aşağı olmamak üzere, uygun bir tazminatla mahkum edilir.27
+meblağın yüzde yirmisinden aşağı olmamak üzere, uygun bir tazminatla mahkum edilir.
 İtiraz eden veli, vasi veya mirasçı ise, borçlu hakkında tazminat hükmolunması kötü
 niyetin sübutuna bağlıdır.
 (Mülga dördüncü fıkra: 17/7/2003-4949/103 md.)
@@ -26,6 +27,8 @@ Birinci fıkrada yazılı itirazın iptali süresini geçiren alacaklının umum
 dairesinde alacağını dava etmek hakkı saklıdır.
 (Ek fıkra: 2/7/2012-6352/11 md.) Bu Kanunda öngörülen icra inkar tazminatı, kötü
 niyet tazminatı ve benzeri tazminatların tespitinde, takip talebi veya davadaki talep esas alınır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

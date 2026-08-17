@@ -11,7 +11,9 @@ wordCount: 4290
 
 ---
 
-Madde 439 - Kıymetli evrak, değer li eşya, önemli belge ve benzerleri, m alvarl ığının yönetimi bakımından bir sakınca yoksa, vesayet makamının gözetimi altında güvenli bir yere konulu r.
+Madde 439- Kıymetli evrak, değerli eşya, önemli belge ve benzerleri, malvarlığının
+yönetimi bakımından bir sakınca yoksa, vesayet makamının gözetimi altında güvenli bir yere
+konulur.
 
 ---
 

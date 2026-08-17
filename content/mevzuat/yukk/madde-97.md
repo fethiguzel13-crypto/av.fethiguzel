@@ -21,6 +21,8 @@ uyulmadığında veya uyulmayacağına ilişkin ciddi şüphe olması durumunda 
 edilmeksizin kolluk tarafından getirilebilirler. Bu işlem, idari gözetim olarak uygulanamaz ve
 bilgi alma süresi dört saati geçemez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**Trafik eğitimi ve denetimi**
+**ONUNCU KISIM
+Eğitim, Okullar ve Çocuk Eğitimi Parkları
+Trafik eğitimi ve denetimi:**
 
 ---
 
@@ -17,6 +19,8 @@ yönünden denetlemeye Emniyet Genel Müdürlüğünün koordinatörlüğünde E
 Karayolları Genel Müdürlükleri yetkilidir.
 Eğitim çalışmalarının konu ve kapsamı ile uygulama esasları, denetleme usulleri
 yönetmelikte gösterilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

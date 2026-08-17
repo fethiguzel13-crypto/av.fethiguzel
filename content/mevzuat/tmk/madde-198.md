@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**IV. Borçlulara ait ö nlemler**
+**IV. Borçlulara ait önlemler**
 
 ---
 
-Madde 198 - Eşlerden biri, birliğin giderlerine katılma yükümlülüğünü yerine getirmezse, hâkim onun borçlularına, ödemeyi tamamen veya kısmen diğer eşe yapmalarını emredebilir.
+Madde 198 - Eşlerden biri, birliğin giderlerine katılma yükümlülüğünü yerine getirmezse,
+hâkim onun borçlularına, ödemeyi tamamen veya kısmen diğer eşe yapmalarını emredebilir.
 
 ---
 

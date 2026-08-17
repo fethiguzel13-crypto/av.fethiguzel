@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4275
 ---
 
-**Tanım ve şekil**
+**İKİNCİ BÖLÜM
+İş Sözleşmesi, Türleri ve Feshi
+Tanım ve şekil**
 
 ---
 
@@ -15,9 +17,7 @@ Madde 8 - İş sözleşmesi, bir tarafın (işçi) bağımlı olarak iş görmey
 (işveren) da ücret ödemeyi üstlenmesinden oluşan sözleşmedir. İş sözleşmesi, Kanunda aksi
 belirtilmedikçe, özel bir şekle tâbi değildir.
 Süresi bir yıl ve daha fazla olan iş sözleşmelerinin yazılı şekilde yapılması zorunludur.
-
-
-Bu belgeler damga vergisi ve her çeşit resim ve harçtan muaftır.
+Bu belgeler damga vergisi ve her çeşit resim ve harçtan muaftır.
 Yazılı sözleşme yapılmayan hallerde işveren işçiye en geç iki ay içinde genel ve özel
 çalışma koşullarını, günlük ya da haftalık çalışma süresini, temel ücreti ve varsa ücret
 eklerini, ücret ödeme dönemini, süresi belirli ise sözleşmenin süresini, fesih halinde tarafların
@@ -25,6 +25,8 @@ uymak zorunda oldukları hükümleri gösteren yazılı bir belge vermekle yük�
 ayı geçmeyen belirli süreli iş sözleşmelerinde bu fıkra hükmü uygulanmaz. İş sözleşmesi iki
 aylık süre dolmadan sona ermiş ise, bu bilgilerin en geç sona erme tarihinde işçiye yazılı
 olarak verilmesi zorunludur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

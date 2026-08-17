@@ -16,6 +16,8 @@ vadesi gelmemiş bir ya da birden çok taksit ödemesinde de bulunabilir. Her ik
 satıcı veya sağlayıcı, faiz veya komisyon aldığı durumlarda ödenen miktara göre gerekli tüm
 faiz ve komisyon indirimini yapmakla yükümlüdür.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

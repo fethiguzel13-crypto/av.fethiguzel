@@ -16,8 +16,9 @@ olarak mahkeme başkanı veya hâkim tarafından, kendisine bilgi verilir; hazı
 tanığa gösterilir. Sanık hazır değilse kimliği açıklanır. Tanıktan, tanıklık edeceği konulara
 ilişkin bildiklerini söylemesi istenir ve tanıklık ederken sözü kesilmez.
 (2) Tanıklık edilen konuları aydınlatmak, tamamlamak ve bilgilerinin dayandığı
+durumları gereğince değerlendirebilmek için tanığa ayrıca soru yöneltilebilir.
 
-durumları gereğince değerlendirebilmek için tanığa ayrıca soru yöneltilebilir.
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,16 +7,16 @@ lastReviewed: "2026-07-27"
 wordCount: 3614
 ---
 
-**Zilyetlik, şeyin veya şey üzerinde hâkimiyeti sağlayacak araçların,**
+**B. Zilyetliğin devri
+I. Hazırlar arasında**
 
 ---
 
-Madde 977 - Zilyetlik, şeyin veya şey üzerinde hâkimiyeti sağlayacak araçların,
-edinene teslimi veya edinenin önceki zilyedin rızasıyla şey üzerinde hâkimiyeti
-kullanacak duruma gelmesi hâlinde devredilmiş olur.
+Madde 977- Zilyetlik, şeyin veya şey üzerinde hâkimiyeti sağlayacak araçların, edinene
+teslimi veya edinenin önceki zilyedin rızasıyla şey üzerinde hâkimiyeti kullanacak duruma
+gelmesi hâlinde devredilmiş olur.
 
-II.
-Hazır olmayanlar arasında
+---
 
 ### Akademik Yorum ve Analiz
 

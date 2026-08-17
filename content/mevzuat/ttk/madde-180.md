@@ -7,14 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**IV
-- Tür değiştirme
+**IV - Tür değiştirme
 1. Genel hükümler
 a) İlke**
 
 ---
 
-Madde 180 - (1) Bir şirket hukuki şeklini değiştirebilir. Yeni türe dönüştürülen şirket eskisinin devamıdır.
+MADDE 180- (1) Bir şirket hukuki şeklini değiştirebilir. Yeni türe dönüştürülen şirket
+eskisinin devamıdır.
 
 ---
 

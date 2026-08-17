@@ -7,21 +7,22 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**Taşıma ve otel işletmelerine ait belgeler**
+**BEŞİNCİ BÖLÜM
+Diğer Evrak ve Vesikalar
+Taşıma ve otel işletmelerine ait belgeler:**
 
 ---
 
 Madde 240 – (Değişik: 30/12/1980-2365/41 md.)
-
-22/7/1998 tarih ve 4369 sayılı Kanunun 81 inci maddesiyle bu fıkrada yeralan "götürü ücret" ibaresi “diğer
-ücret” şeklinde değiştirilmiştir.
-66
-
-Taşıma işletmeleri ile otel motel ve pansiyon gibi konaklama yerleri (kazancı basit
-usulde tespit edilenler dahil)67 aşağıda yazılı belgeleri düzenlemek zorundadırlar.
+Taşıma işletmeleri ile otel motel ve pansiyon gibi konaklama yerleri (kazancı basit
+usulde tespit edilenler dahil)aşağıda yazılı belgeleri düzenlemek zorundadırlar.
 A) Taşıma İrsaliyeleri: Ücret karşılığında eşya nakleden bütün gerçek ve tüzelkişiler
 naklettikleri eşya için, 209 ncu maddede yazılı bilgilerle, sürücünün ad ve soyadı ve aracın
 plaka numarasını ihtiva eden ve seri ve sıra numarası dahilinde teselsül eden irsaliye
+22/7/1998 tarih ve 4369 sayılı Kanunun 81 inci maddesiyle bu fıkrada yeralan "götürü ücret" ibaresi “diğer
+ücret” şeklinde değiştirilmiştir.
+22/7/1998 tarih ve 4369 sayılı Kanunun 81 inci maddesiyle bu fıkrada yeralan parantez içersindeki "(götürü
+usulde vergiye tabi olanlar dahil)" ibaresi metne işlendiği şekilde değiştirilmiştir.
 kullanmak zorundadırlar. Bu irsaliyenin bir nüshası eşyayı taşıttırana, bir nüshası eşyayı
 taşıyana aracın sürücüsüne veya kaptanına verilir ve bir nüshası da taşımayı yapan nezdinde
 saklanır. Bu bent hükmü nakliye komisyoncuları ile acenteleri de kapsar.
@@ -45,6 +46,8 @@ Bu listelerde aşağıdaki bilgiler bulunur:
 1. Mükellefin adı, soyadı, varsa unvanı ve adresi,
 2. Oda numaraları yazılmak suretiyle müşterinin adı, soyadı ve oda ücreti,
 3. Düzenleme tarihi.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -18,6 +18,8 @@ usul işlemlerini yapabilir.
 (2) Mahkeme, katıldığı noktadan itibaren, taraflara bildirilen işlemleri müdahile de
 tebliğ eder.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

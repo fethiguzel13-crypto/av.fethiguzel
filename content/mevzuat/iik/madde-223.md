@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4275
 ---
 
-**İflas idaresi ve iflas dairesinin vazifeleri**
+**İflas idaresi ve iflas dairesinin vazifeleri:**
 
 ---
 
@@ -18,11 +18,7 @@ alacak tutarına göre ekseriyeti teşkil edenlerce, iki adedi ise alacaklılar 
 ekseriyeti teşkil edenlerce seçilir ve icra mahkemesine bildirilir. İcra mahkemesi, iflas
 idaresini teşkil edecek üç kişiden ikisini alacak ekseriyetine sahip olanların gösterdiği dört
 aday, birini ise alacaklı ekseriyetinin gösterdiği iki aday arasından seçer.
-Bu madde başlığı “İlk alacaklılar toplanması mümkün olmazlarsa:” iken, 17/7/2003 tarihli ve 4949 sayılı
-Kanunun 53 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
-73
-
-Tasfiye, iflas dairesince, yukarıdaki fıkraya göre teşkil edilen iflas idaresine havale
+Tasfiye, iflas dairesince, yukarıdaki fıkraya göre teşkil edilen iflas idaresine havale
 olunur.
 (Değişik üçüncü fıkra: 17/7/2003-4949/54 md.) İflâs idaresi toplantıları, idare
 memurlarının veya herhangi bir alacaklının gündem belirlemek suretiyle yapacağı talep
@@ -57,6 +53,8 @@ kuruluna bildirilir. Bir iflâs idare memuru, eş zamanlı olarak beşten fazla 
 alamaz. İflâs idare memurlarının nitelikleri, denetimi, eğitimi, eğitim verecek kurumlar ve
 eğitimden muaf tutulacaklar ile bu maddenin uygulanmasına ilişkin diğer hususlar Adalet
 Bakanlığınca yürürlüğe konulan yönetmelikte belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

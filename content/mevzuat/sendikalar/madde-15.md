@@ -24,13 +24,13 @@ iki ay içerisinde sonuçlandırılır. (Ek cümle: 12/10/2017-7036/30 md.) Kara
 yoluna başvurulması hâlinde bölge adliye mahkemesi bir ay içinde kararını verir. (Değişik cümle:
 12/10/2017-7036/30 md.) Bu karara karşı temyiz yoluna başvurulması hâlinde Yargıtayca on beş
 gün içinde kesin olarak karar verilir.
-
-
 (3) Genel kurulun veya genel kurulda yapılan organ seçiminin iptaline karar verildiği
 takdirde mahkeme; genel kurulu kanun ve tüzük hükümlerine göre en kısa zamanda toplamak,
 seçimleri yapmak ve yeni yönetim kurulu seçilinceye kadar kuruluşu yönetmekle görevli
 olmak üzere, 4721 sayılı Kanun hükümleri gereğince bir veya üç kayyım tayin eder ve görev
 sürelerini belirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

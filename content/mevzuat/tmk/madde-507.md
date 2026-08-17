@@ -12,7 +12,11 @@ wordCount: 4261
 
 ---
 
-Madde 507 - Tasa rruf edilebilir kısım, terekenin mirasbırakanın ölümü günündeki durumuna göre hes aplanır. Hesap yapılırken, mirasbırakanın bor çları, cenaze giderl eri, t erekenin mühürlenmesi ve yazımı giderleri, mirasbı rakan ile birlikte yaşayan ve onun tarafından bakılan kimselerin üç aylık geçim giderleri terekeden indirili r.
+Madde 507- Tasarruf edilebilir kısım, terekenin mirasbırakanın ölümü günündeki
+durumuna göre hesaplanır.
+Hesap yapılırken, mirasbırakanın borçları, cenaze giderleri, terekenin mühürlenmesi ve
+yazımı giderleri, mirasbırakan ile birlikte yaşayan ve onun tarafından bakılan kimselerin üç aylık
+geçim giderleri terekeden indirilir.
 
 ---
 

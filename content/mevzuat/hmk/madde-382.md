@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Çekişmesiz yargı işleri**
+**DOKUZUNCU KISIM
+Çekişmesiz Yargı
+Çekişmesiz yargı işleri**
 
 ---
 
@@ -29,8 +31,7 @@ b) Aile hukukundaki çekişmesiz yargı işleri:
 2) Gaiplik nedeniyle evliliğin feshi.
 3) Evlendirme memurunun, evlenme başvurusunu ret kararına karşı yapılan itiraz.
 4) Yeniden evlenmede bekleme süresinin hâkim tarafından kaldırılması.
-
-5) Terk eden eşin ortak konuta davet edilmesi.
+5) Terk eden eşin ortak konuta davet edilmesi.
 6) Eşlerden birinin, evlilik birliğini tek başına temsil etmek konusunda yetkili kılınması.
 7) Aile konutu ile ilgili işlemler için diğer eşin rızasının sağlanamadığı hâllerde
 hâkimin müdahalesinin istenmesi.
@@ -68,8 +69,7 @@ tevdiî.
 verilmesi.
 4) Gaibin mirasçılarına, gaibe düşen miras payının teslim edilmesi.
 5) Tereke mallarının korunması ve hak sahiplerine ulaşmasını sağlamak için önlem
-
-alınması.
+alınması.
 6) Mirasçılık belgesi verilmesi.
 7) Terekenin yazımı işleminin sona erdiğinin mirasçılara bildirilmesi, mirasın reddi
 beyanının tespiti ve tescili; mirasın reddinin, mirası reddeden kişiden sonra gelen mirasçılara
@@ -108,8 +108,7 @@ mahkeme marifetiyle muayenesi.
 8) Gemi ipoteğinde, malikin bulunamadığı hâllerde kayyım tayini.
 9) Deniz raporu tanzimi.
 10) Kırkambar sözleşmesinde geminin hareket gününün mahkeme tarafından tayini.
-
-11) Navlun sözleşmesinde, boşaltma limanında malların hâl ve vaziyetinin, ölçü, sayı
+11) Navlun sözleşmesinde, boşaltma limanında malların hâl ve vaziyetinin, ölçü, sayı
 ve tartısının ekspere tespit ettirilmesi.
 12) Müşterek avaryalarda dispeççi tayini ve dispecin mahkemece tasdiki.
 13) Denizcilik rizikolarına karşı sigortalarda zararın ve kapsamının belirlenmesi için
@@ -138,6 +137,8 @@ mühürlenmesi.
 tarafından tasdiki.
 4) Kamu görevlilerinin mahkeme huzurunda kanunen yemin etme zorunluluğunun
 öngörüldüğü diğer durumlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

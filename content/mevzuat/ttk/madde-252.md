@@ -11,7 +11,8 @@ wordCount: 4294
 
 ---
 
-Madde 252 - (1) Bir ortağın kısıtlanması veya iflasına karar verilmesi hâlinde , Türk Borçlar Kanununun 641 inci maddesi uygulanır.
+MADDE 252- (1) Bir ortağın kısıtlanması veya iflasına karar verilmesi hâlinde, Türk
+Borçlar Kanununun 641 inci maddesi uygulanır.
 
 ---
 

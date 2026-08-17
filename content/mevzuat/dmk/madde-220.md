@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**Koordinasyon ve denetleme**
+**Koordinasyon ve denetleme:**
 
 ---
 
 Madde 220 – Başbakanlık Devlet Personel Başkanlığı kurumları yurt içi ve yurt dışı
 eğitim programlarının hazırlanmasında ve uygulanmasında yol göstermek, yetiştirme
 faaliyetlerini koordine etmek ve denetlemekle görevlidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

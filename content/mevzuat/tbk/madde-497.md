@@ -11,7 +11,7 @@ wordCount: 4264
 
 ---
 
-Madde 497 - Bedel, eser bütün olarak yayımlanacaksa tamamının; cilt, fasikül,
+MADDE 497- Bedel, eser bütün olarak yayımlanacaksa tamamının; cilt, fasikül,
 forma gibi bölümler hâlinde yayımlanacaksa, her bölümün basımından ve satışa hazır duruma
 getirilmesinden sonra ödenir.
 Taraflar, bedeli satış miktarına bağlamışlarsa yayımcı, satış hesaplarını tutmak,

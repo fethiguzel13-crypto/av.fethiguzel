@@ -11,7 +11,10 @@ wordCount: 4301
 
 ---
 
-Madde 879 - Muaccel olan sigorta tazminatı, malike ancak bütün rehinli alacaklıların rızasıyla öd enebilir. Sigorta tazminatı taşınmazın eski hâle getirilmesi için harcanacaksa, malik tarafından yeterli bir güvence gösterilmesi koşuluyla kendisine ödenir.
+Madde 879- Muaccel olan sigorta tazminatı, malike ancak bütün rehinli alacaklıların
+rızasıyla ödenebilir.
+Sigorta tazminatı taşınmazın eski hâle getirilmesi için harcanacaksa, malik tarafından
+yeterli bir güvence gösterilmesi koşuluyla kendisine ödenir.
 
 ---
 

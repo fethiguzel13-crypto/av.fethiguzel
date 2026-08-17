@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Ticaret ve diğer kazanç getirici faaliyetlerde bulunma yasağı**
+**Ticaret ve diğer kazanç getirici faaliyetlerde bulunma yasağı:**
 
 ---
 
@@ -28,11 +28,12 @@ Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile
 düzenleme: 2/1/2014 - 6514/9 md.) Memurların üyesi oldukları yapı, kalkınma ve tüketim
 kooperatifleri, kamu kurumu niteliğindeki meslek kuruluşları ve kanunla veya
 Cumhurbaşkanlığı kararnamesiyle kurulmuş yardım sandıklarının yönetim, denetim ve
-
-disiplin kurulları üyelikleri ile özel kanunlarda belirtilen görevler bu yasaklamanın
-dışındadır.23
+disiplin kurulları üyelikleri ile özel kanunlarda belirtilen görevler bu yasaklamanın
+dışındadır.
 Eşleri, reşit olmayan veya mahcur olan çocukları, yasaklanan faaliyetlerde bulunan
 memurlar bu durumu 15 gün içinde bağlı oldukları kuruma bildirmekle yükümlüdürler,
+
+---
 
 ### Akademik Yorum ve Analiz
 

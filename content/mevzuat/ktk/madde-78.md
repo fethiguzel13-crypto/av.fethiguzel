@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**Sürücülerin ve yolcuların koruyucu sistemleri kullanma zorunluluğu**
+**Sürücülerin ve yolcuların koruyucu sistemleri kullanma zorunluluğu:**
 
 ---
 
@@ -42,7 +42,9 @@ koruyucu sistemleri takmadan/kullanmadan aracın karayolunda seyrine izin verilm
 Sürücüler, 15 yaşını doldurmamış çocukların birinci fıkrada belirtilen koruyucu
 sistemleri kullanmalarını sağlamak zorundadırlar. 15 yaşını doldurmamış çocukların
 koruyucu sistemleri kullanmadan veya usulüne uygun olarak kullanılmasını sağlamadan
-seyahatinedeki araç sürücüsüne 5.000 Türk lirası idari para cezası uygulanır.
+seyahatine izin veren araç sürücüsüne 5.000 Türk lirası idari para cezası uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

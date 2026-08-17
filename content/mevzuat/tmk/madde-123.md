@@ -11,8 +11,8 @@ wordCount: 4295
 
 ---
 
-Madde 123 - Nişanlılığın sona ermesinden doğan dava hakları, sona ermenin üzerinden bir yıl geçmekle zamanaşımı na uğrar.
-İKİNCİ AYIRIM EVLENME EHLİYETİ VE ENGELLERİ A. Ehliyetin koşulları I. Yaş
+Madde 123- Nişanlılığın sona ermesinden doğan dava hakları, sona ermenin üzerinden
+bir yıl geçmekle zamanaşımına uğrar.
 
 ---
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**Gayrimenkul satış bedelinin tahsili**
+**Gayrimenkul satış bedelinin tahsili:**
 
 ---
 
@@ -23,11 +23,11 @@ hacet kalmaksızın teminattan mahsubu yapıldıktan sonra bakiyesi tahsil daire
 olunur. (Mülga üçüncü cümle:15/4/2021-7316/4 md.) Aradaki farkın amme alacağını aşan
 miktarını bundan mesul olan şahıstan tahsil edebilmek üzere malı satılan amme borçlusuna
 dairece bir vesika verilir.
-
-(Ek üçüncü fıkra:15/4/2021-7316/4 md.) Bu madde ile 86 ncı madde kapsamında
+(Ek üçüncü fıkra:15/4/2021-7316/4 md.) Bu madde ile 86 ncı madde kapsamında
 mesuliyeti bulunan kişilerden alınan teminattan gerekli mahsup yapıldıktan sonra bakiye
 teminat tutarı irat kaydedilir.
-Menkul ve gayrimenkul malların elektronik ortamda satışı:
+
+---
 
 ### Akademik Yorum ve Analiz
 

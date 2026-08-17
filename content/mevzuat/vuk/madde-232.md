@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Fatura kullanma mecburiyeti:6263**
+**Fatura kullanma mecburiyeti:**
 
 ---
 
@@ -25,7 +25,8 @@ sınıf tüccarlar ile kazancı basit usulde tespit edilenlerden ve defter tutma
 olan çiftçilerden satın aldıkları emtia veya onlara yaptırdıkları iş bedelinin 50.000.000 (12.000
 TL) lirayı geçmesi veya bedeli 50.000.000 (12.000 TL) liradan az olsa dahi istemleri halinde
 emtiayı satanın veya işi yapanın fatura vermesi mecburidir.
-(Mülga dördüncü fıkra: 4/12/1985-3239/136 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

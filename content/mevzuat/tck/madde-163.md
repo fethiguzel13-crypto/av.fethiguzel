@@ -18,10 +18,11 @@ veya adlî para cezası ile cezalandırılır.
 veya şifresiz yayınlardan sahibinin veya zilyedinin rızası olmadan yararlanan kişi, altı aydan
 iki yıla kadar hapis veya adlî para cezası ile cezalandırılır.
 (3) (Ek: 2/7/2012-6352/83 md.) Abonelik esasına göre yararlanılabilen elektrik
-
-enerjisinin, suyun veya doğal gazın sahibinin rızası olmaksızın ve tüketim miktarının
+enerjisinin, suyun veya doğal gazın sahibinin rızası olmaksızın ve tüketim miktarının
 belirlenmesini engelleyecek şekilde tüketilmesi halinde kişi hakkında bir yıldan üç yıla kadar
 hapis cezasına hükmolunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

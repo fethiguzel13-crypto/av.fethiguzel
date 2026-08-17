@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Para borcu ve teminat için takip**
+**ÜÇÜNCÜ BAP
+İlamsız takip
+I. TAKİBİN MUHTELİF TARZLARI:
+Para borcu ve teminat için takip:**
 
 ---
 
@@ -18,6 +21,8 @@ suretiyle cereyan eder.
 başvurulamaz.
 (Ek fıkra: 15/8/2017-KHK-694/8 md.; Aynen kabul: 1/2/2018-7078/8 md.) İdari
 yargının görev alanına giren konularda ilamsız takip yoluna başvurulamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

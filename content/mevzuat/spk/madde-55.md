@@ -36,6 +36,8 @@ Kurulun uygun görüşünün alınması zorunludur.
 (6) Portföy yönetim şirketleri, faaliyetlerini yürütürken yönetimlerindeki fonların,
 katılma payı sahiplerinin ve diğer müşterilerinin çıkarlarını gözetmekle yükümlüdürler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

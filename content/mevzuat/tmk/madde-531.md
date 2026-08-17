@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**A. Vasiyet I. Şekilleri 1. Genel olarak**
+**DÖRDÜNCÜ AYIRIM
+ÖLÜME BAĞLI TASARRUFLARIN ŞEKİLLERİ
+A. Vasiyet
+I. Şekilleri
+1. Genel olarak**
 
 ---
 
-Madde 531 - V asiyet, resmî şekilde veya mirasbırakanın el yazısı ile ya da sözlü olarak yapıla bilir.
+Madde 531- Vasiyet, resmî şekilde veya mirasbırakanın el yazısı ile ya da sözlü olarak
+yapılabilir.
 
 ---
 

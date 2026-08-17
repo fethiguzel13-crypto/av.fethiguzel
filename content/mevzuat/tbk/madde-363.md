@@ -11,7 +11,7 @@ wordCount: 4315
 
 ---
 
-Madde 363 - Tarımsal bir taşınmazın her zamanki verimi, olağanüstü felaket veya
+MADDE 363- Tarımsal bir taşınmazın her zamanki verimi, olağanüstü felaket veya
 doğal olaylar yüzünden önemli ölçüde azalırsa kiracı, kira bedelinden orantılı bir miktarın
 indirilmesini isteyebilir.
 Bu haktan başlangıçta feragat, ancak kira bedelinin belirlenmesi sırasında bu gibi

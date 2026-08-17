@@ -13,16 +13,15 @@ wordCount: 4264
 
 Madde 284- (1) Hakkında tutuklama kararı verilmiş olan veya hükümlü bir kişinin
 bulunduğu yeri bildiği halde yetkili makamlara bildirmeyen kimse, bir yıla kadar hapis cezası
-26/6/2009 tarihli ve 5918 sayılı Kanunun 5 inci maddesiyle birinci fıkradan sonra gelmek üzere
-ikinci fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
-
-ile cezalandırılır.
+ile cezalandırılır.
 (2) İşlenmiş olan bir suça ilişkin delil ve eserlerin başkaları tarafından saklandığı yeri
 bildiği halde yetkili makamlara bildirmeyen kimse, yukarıdaki fıkra hükmüne göre cezalandırılır.
 (3) Bu suçların kamu görevlisi tarafından göreviyle bağlantılı olarak işlenmesi halinde,
 verilecek ceza yarı oranında artırılır.
 (4) Bu suçların üstsoy, altsoy, eş veya kardeş tarafından işlenmesi halinde, cezaya
 hükmolunmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

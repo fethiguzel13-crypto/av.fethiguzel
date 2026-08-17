@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4278
 ---
 
-**Amortismana tabi iktisadi kıymetlere ait indirim**
+**Amortismana tabi iktisadi kıymetlere ait indirim:**
 
 ---
 
 Madde 31 – (Mülga : 22/7/1998 - 4369/82 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

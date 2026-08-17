@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4286
 ---
 
-**Zarar ve ziyan davasının zamanaşımı**
+**Zarar ve ziyan davasının zamanaşımı:**
 
 ---
 
@@ -17,6 +17,8 @@ uğrar.
 Şu kadar ki zarar ve ziyan cezayı mucip bir fiilin neticesi olupta ceza kanunları bu fiili
 daha uzun bir müddetle zamanaşımına tabi tutmakta ise hukuk davasında da ceza zamanaşımı
 cari olur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

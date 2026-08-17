@@ -69,9 +69,10 @@ export function randomBetween(min, max) {
 }
 
 export async function humanWait(minMs, maxMs, label = "", log = console.error) {
+  // Only random inter-request delay in [min,max] (+ mild 0–35% stretch).
+  // No multi-minute spike pauses (user: ban avoidance via variable gaps only).
   let ms = randomBetween(minMs, maxMs);
   if (Math.random() < 0.25) ms = Math.floor(ms * (1 + Math.random() * 0.35));
-  if (Math.random() < 0.05) ms += randomBetween(45_000, 120_000);
   log(`[wait] ${label} ${(ms / 1000).toFixed(1)}s`);
   await sleep(ms);
   return ms;

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4281
 ---
 
-**Adi tasfiye ve iflasın açılmasının ilanı**
+**Adi tasfiye ve iflasın açılmasının ilanı:**
 
 ---
 
@@ -30,6 +30,8 @@ rüçhan haklarından mahrum kalacakları;
 5 – İlandan nihayet on gün içinde toplanmak üzere alacaklıların ilk içtimaa gelmeleri
 ve müflis ile müşterek borçlu olanlar ve kefillerinin ve borcu tekeffül eden sair kimselerin
 toplanmada bulunmağa hakları olduğu yazılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

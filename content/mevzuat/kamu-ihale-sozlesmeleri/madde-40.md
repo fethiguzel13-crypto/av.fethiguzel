@@ -13,6 +13,8 @@ wordCount: 4272
 
 Madde 40- Bu Kanun 1.1.2003 tarihinde yürürlüğe girer.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

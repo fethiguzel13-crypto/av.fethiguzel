@@ -21,6 +21,8 @@ hususunda kaçınılmaz bir hataya düşen kişi, bu hatasından yararlanır.
 (4) (Ek fıkra: 29/6/2005 – 5377/4 md.) İşlediği fiilin haksızlık oluşturduğu hususunda
 kaçınılmaz bir hataya düşen kişi, cezalandırılmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

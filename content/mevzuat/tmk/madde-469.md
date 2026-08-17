@@ -11,7 +11,10 @@ wordCount: 4274
 
 ---
 
-Madde 469 - Devletin vesayet dairelerinde görev li kişilere karşı rücu davasına bakmay a, ves ayet dairelerinin bulunduğu yere en yakın asliye mahkemesi yetkilidir. Vesayetle ilgili tazminat ve diğe r rücu davaları vesayet daireleri nin bulunduğu yer asliye mahkemesinde görülür. ÜÇÜNCÜ BÖLÜM VESAYETİN SONA ERMESİ BİRİNCİ AYIRIM VESAYETİ GEREK TİREN HÂLLER İN SONA ERMESİ A. Küçüklerde
+Madde 469- Devletin vesayet dairelerinde görevli kişilere karşı rücu davasına bakmaya,
+vesayet dairelerinin bulunduğu yere en yakın asliye mahkemesi yetkilidir.
+Vesayetle ilgili tazminat ve diğer rücu davaları vesayet dairelerinin bulunduğu yer asliye
+mahkemesinde görülür.
 
 ---
 

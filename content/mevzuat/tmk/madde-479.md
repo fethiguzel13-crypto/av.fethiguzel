@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**Madde 479**
+**İKİNCİ AYIRIM
+VASİLİK GÖREVİNİN SONA ERMESİ
+A. Fiil ehliyetinin yitirilmesi ve ölüm**
 
 ---
 
-Madde 479 - Vasilik görevi, vasinin fiil ehliyetini y itirmesi veya ölümüyle sona erer.
+Madde 479- Vasilik görevi, vasinin fiil ehliyetini yitirmesi veya ölümüyle sona erer.
 
 ---
 

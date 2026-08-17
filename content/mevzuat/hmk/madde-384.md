@@ -14,6 +14,8 @@ wordCount: 4274
 MADDE 384- (1) Kanunda aksine hüküm bulunmadıkça, çekişmesiz yargı işleri için
 talepte bulunan kişinin veya ilgililerden birinin oturduğu yer mahkemesi yetkilidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

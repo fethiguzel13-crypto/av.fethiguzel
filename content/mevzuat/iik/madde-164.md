@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**Kanun yollarına başvurma59**
+**Kanun yollarına başvurma**
 
 ---
 
@@ -17,12 +17,14 @@ alınan masraftan karşılanmak suretiyle mahkemece re’sen taraflara tebliğ o
 Bu kararlara karşı tebliğ tarihinden itibaren iki hafta içinde istinaf yoluna
 başvurulabilir. Bölge adliye mahkemesi kararına karşı da tebliğ tarihinden itibaren iki hafta
 içinde temyiz yoluna başvurulabilir. İstinaf ve temyiz incelemeleri, Hukuk Usulü
-Muhakemeleri Kanunu hükümlerine göre yapılır.60
+Muhakemeleri Kanunu hükümlerine göre yapılır.
 İflâs kararına karşı kanun yoluna başvurulması, iflâsın ilânına ve masanın teşkiline
 mâni değildir. Yalnız ikinci alacaklılar toplantısı, iflâs kararı kesinleşmedikçe yapılamaz.
 Bölge adliye mahkemesince iflâs kararı kaldırılırsa, borçlunun malları üzerindeki
 tedbirler devam eder. Şu kadar ki, ticaret mahkemesi davanın seyrine göre bu tedbirleri
 değiştirmeye veya kaldırmaya yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

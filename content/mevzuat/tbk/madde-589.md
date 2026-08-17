@@ -13,7 +13,7 @@ a. Sorumluluğun kapsamı**
 
 ---
 
-Madde 589 - Kefil, her durumda kefalet sözleşmesinde belirtilen azamî miktara
+MADDE 589- Kefil, her durumda kefalet sözleşmesinde belirtilen azamî miktara
 kadar sorumludur.
 Aksi sözleşmede kararlaştırılmamışsa kefil, belirtilen azamî miktarla sınırlı olmak
 üzere, aşağıdakilerden sorumludur:

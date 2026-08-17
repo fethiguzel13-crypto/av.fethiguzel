@@ -16,6 +16,8 @@ c) Öğrencilerin toplu olarak oturdukları binalara veya bunların eklentilerin
 veya orada kalınmasına,
 engel olunması hâlinde, fail hakkında iki yıldan beş yıla kadar hapis cezasına hükmolunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

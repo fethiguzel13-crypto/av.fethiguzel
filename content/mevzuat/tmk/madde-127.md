@@ -11,7 +11,7 @@ wordCount: 4278
 
 ---
 
-Madde 127 - Kısıtlı, yasal temsilcisini n izn i olmadıkça evlenemez.
+Madde 127- Kısıtlı, yasal temsilcisinin izni olmadıkça evlenemez.
 
 ---
 

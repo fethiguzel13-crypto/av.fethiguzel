@@ -11,7 +11,7 @@ wordCount: 4320
 
 ---
 
-Madde 104 - Faiz veya kira bedeli gibi dönemsel edimlerden biri için, alacaklı
+MADDE 104- Faiz veya kira bedeli gibi dönemsel edimlerden biri için, alacaklı
 tarafından çekince belirtilmeksizin makbuz verilmişse, önceki dönemlere ait edimler de ifa
 edilmiş sayılır.
 Alacaklı anaparanın tamamı için makbuz vermişse, faizlerini de almış olduğu kabul

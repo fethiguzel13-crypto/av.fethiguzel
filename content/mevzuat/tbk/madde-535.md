@@ -11,7 +11,7 @@ wordCount: 4309
 
 ---
 
-Madde 535 - Vekâlet verenin belirlediği bedelin altında mal satan komisyoncu, malı
+MADDE 535- Vekâlet verenin belirlediği bedelin altında mal satan komisyoncu, malı
 satmasaydı vekâlet verenin daha fazla zarar göreceğini ve durumun yeniden talimat almaya
 elverişli bulunmadığını ispat etmedikçe, belirlenen bedel ile satış bedeli arasındaki farkı
 gidermekle yükümlüdür. Bunun dışında komisyoncu, kusuru varsa, talimatına aykırı

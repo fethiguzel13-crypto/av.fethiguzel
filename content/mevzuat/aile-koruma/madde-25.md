@@ -12,9 +12,9 @@ wordCount: 4297
 ---
 
 MADDE 25 – (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-1
-
 Bu maddede yer alan kadrolarla ilgili olarak 20/3/2012 tarihli ve 28239 sayılı Resmi Gazete’ye bakınız.
+
+---
 
 ### Akademik Yorum ve Analiz
 

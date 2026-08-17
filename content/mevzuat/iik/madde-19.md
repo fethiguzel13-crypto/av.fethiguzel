@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**Başlaması ve bitmesi**
+**MÜDDETLER
+Başlaması ve bitmesi:**
 
 ---
 
@@ -20,6 +21,8 @@ belirlenmiş ise başladığı güne son hafta içindeki karşılık gelen günd
 Bir müddetin sonuncu günü resmi bir tatil gününe rastlarsa, müddet tatili takibeden
 günde biter.
 Müddet, son günün tatil saatinde bitmiş sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**Geçici trafik belgeleri ile geçici tescil plakaları**
+**Geçici trafik belgeleri ile geçici tescil plakaları:**
 
 ---
 
@@ -24,6 +24,8 @@ araçlar otuz gün süre ile trafikten menedilir. Son ihlalin gerçekleştiği t
 doğru bir yıl içinde iki veya daha fazla bu madde hükmüne uymayan sürücülere her seferinde
 140.000 Türk lirası idari para cezası uygulanır ve araç altmış gün süre ile trafikten
 menedilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

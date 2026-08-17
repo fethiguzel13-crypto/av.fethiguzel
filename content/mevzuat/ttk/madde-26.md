@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**III
-– Yönetmelik 12**
+**III – Yönetmelik**
 
 ---
 
-Madde 26 - (1) Ticaret sicili müdürlüğünün kurulması, sicil defterlerinin tutulması, tescil zorunluluğunun yerine getirilmesine ilişkin usul ve esaslar, sicil müdürlerinin kararlarına karşı itiraz yolları, sicil müdür ve yardımcıları ile diğer personelde aranacak nitelikler, disiplin işleri ile bu konuyla ilgili diğer esas ve usuller Cumhurbaşkanınca çıkarılacak yönetmelikte düzenlenir. 13 14 B) Tescil I - Şartları 1. İstem
+MADDE 26- (1) Ticaret sicili müdürlüğünün kurulması, sicil defterlerinin tutulması,
+tescil zorunluluğunun yerine getirilmesine ilişkin usul ve esaslar, sicil müdürlerinin kararlarına
+karşı itiraz yolları, sicil müdür ve yardımcıları ile diğer personelde aranacak nitelikler, (…)ile
+bu konuyla ilgili diğer esas ve usuller Cumhurbaşkanınca çıkarılacak yönetmelikte düzenlenir.
 
 ---
 

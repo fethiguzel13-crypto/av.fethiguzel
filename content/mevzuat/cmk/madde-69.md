@@ -19,6 +19,8 @@ ve soyadı, engel sebepler olmadıkça ret hakkına sahip olanlara bildirilir.
 evresinde, Cumhuriyet savcısınca kabul edilmeyen ret istemi sulh ceza hâkimince incelenir.
 Reddi isteyen kişi, bunun nedenini, dayandığı olguları göstererek açıklamakla yükümlüdür.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

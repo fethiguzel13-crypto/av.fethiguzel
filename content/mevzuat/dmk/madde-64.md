@@ -7,20 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**Kademe ve kademe ilerlemesi:140**
+**BÖLÜM : 2
+Devlet Memurluğunda İlerleme ve Yükselmeler
+Kademe ve kademe ilerlemesi:**
 
 ---
 
 Madde 64 – (Değişik: 13/2/2011 - 6111/100 md.)
-
-2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan
-“Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-140
-13/2/2011 tarihli ve 6111 sayılı Kanunun 100 üncü maddesiyle bu madde başlığı “Kademelerde ilerleme
-şartları:” iken, metne işlendiği şekilde değiştirilmiştir.
-139
-
-Kademe; derece içinde, görevin önemi veya sorumluluğu artmadan, memurun
+Kademe; derece içinde, görevin önemi veya sorumluluğu artmadan, memurun
 aylığındaki ilerlemedir.
 Memurun kademe ilerlemesinin yapılabilmesi için bulunduğu kademede en az bir yıl
 çalışmış olması ve bulunduğu derecede ilerleyebileceği bir kademenin bulunması şartları
@@ -40,6 +34,8 @@ Kademe ilerlemesine hak kazanamayan memurlar, kurumlarınca her ay alınacak top
 onaylarla belirlenir. Kademe ilerlemesi yapmış sayılanlardan ilerlemeye müstahak olmadıkları
 sonradan tespit edilenlerin kademe ilerlemeleri, ilerlemiş sayıldıkları tarihten geçerli olmak
 üzere iptal edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

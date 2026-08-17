@@ -24,6 +24,8 @@ yayımı tarihinde,
 e) Diğer hükümleri 1/1/2006 tarihinden itibaren geçerli olmak üzere yayımı tarihinde,
 yürürlüğe girer.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

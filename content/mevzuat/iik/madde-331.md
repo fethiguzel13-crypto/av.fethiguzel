@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**Alacaklısını zarara sokmak kasdiyle mevcudunu eksilten borçluların cezası**
+**ON ALTINCI BAP
+I. Cezai hükümler
+Alacaklısını zarara sokmak kasdiyle mevcudunu eksilten borçluların cezası:**
 
 ---
 
@@ -28,7 +30,8 @@ Taşınmaz rehni kapsamında bulunan eklentinin rehin alacaklısına zarar verme
 ile taşınmaz dışına çıkarılması halinde, eklentinin zilyedi iki yıldan dört yıla kadar hapis ve
 bin güne kadar adlî para cezası ile cezalandırılır.
 Bu suçlar alacaklının şikâyeti üzerine takip olunur.
-Aczine kendi fiiliyle sebebiyet veren veya vaziyetinin fenalığını bilerek
+
+---
 
 ### Akademik Yorum ve Analiz
 

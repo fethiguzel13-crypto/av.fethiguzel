@@ -7,13 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**İcra takiplerinin durdurulması halleri:125**
+**II – FEVKALADE HALLERDE TATİL
+İcra takiplerinin durdurulması halleri:**
 
 ---
 
 Madde 330 – Salgın hastalık, umumi bir musibet veya harb halinde Cumhurbaşkanı
 karariyle memleketin bir kısmında veya bazı iktisadi zümreler lehine muayyen bir müddet
 için icra takipleri durdurulabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,12 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-**yetkilerine halel vermez.**
+Madde 63 – İl idare kurullarının idari kaza işlerinde hukuk işleri müdürleri kanun
+sözcüsü vazifesini görürler.
 
 ---
-
-Madde 63 – İl idare kurullarının idari kaza işlerinde hukuk işleri müdürleri kanun
-23 2/7/2018 tarihli ve 703 sayılı KHK’nin 138 inci maddesiyle, 60 ıncı maddenin birinci fıkrasında yer alan “ve tüzüklerle” ibaresi “, Cumhurbaşkanlığı kararnamesi ve diğer mevzuatla” şeklinde, 62 nci maddenin birinci fıkrasında yer alan “ve tüzüğe” ibaresi “, Cumhurbaşkanlığı kararnamesi ve diğer mevzuata” şeklinde değiştirilmiştir.
 
 ### Akademik Yorum ve Analiz
 

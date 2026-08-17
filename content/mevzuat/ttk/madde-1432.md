@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**Madde 1432**
+**cc) Ödeme yeri**
 
 ---
 
-Madde 1432 - (1) Sigorta primi, sigorta ettirenin, sözleşmede gösterilen adresinde ödenir. Sözleşmede başka bir ödeme yeri gösterilmiş olmasına rağmen, sigorta primi fiilen sigorta ettirenin gösterdiği adreste ödenegelmekte i se, bu ödeme yerine ilişkin söz konusu şart yok sayılır. dd) Primin indirilmesi
+MADDE 1432- (1) Sigorta primi, sigorta ettirenin, sözleşmede gösterilen adresinde
+ödenir. Sözleşmede başka bir ödeme yeri gösterilmiş olmasına rağmen, sigorta primi fiilen
+sigorta ettirenin gösterdiği adreste ödenegelmekte ise, bu ödeme yerine ilişkin söz konusu şart
+yok sayılır.
 
 ---
 

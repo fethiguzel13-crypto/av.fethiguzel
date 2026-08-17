@@ -15,6 +15,8 @@ Madde 256- (1) Zor kullanma yetkisine sahip kamu görevlisinin, görevini yaptı
 sırada, kişilere karşı görevinin gerektirdiği ölçünün dışında kuvvet kullanması halinde, kasten
 yaralama suçuna ilişkin hükümler uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -17,6 +17,8 @@ düzenlenir.
 (2) İkamet izninin şekli ve içeriği Bakanlıkça, ikamet izni yerine geçen çalışma izninin
 şekli ve içeriği ise Bakanlık ve ilgili kurumlarca birlikte belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

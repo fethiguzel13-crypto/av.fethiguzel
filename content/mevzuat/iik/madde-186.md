@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4263
 ---
 
-**İhtiyaten veya icraen haczedilen şeyler**
+**İhtiyaten veya icraen haczedilen şeyler:**
 
 ---
 
@@ -17,6 +17,8 @@ masaya girer.
 İflasın açılmasından evvel paraya çevrilmiş bulunan mahcuz malların bedeli, 138 ila
 144 üncü maddeler hükümlerine göre haciz koyduran alacaklılara paylaştırılır. Artan kısım
 iflas masasına intikal eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

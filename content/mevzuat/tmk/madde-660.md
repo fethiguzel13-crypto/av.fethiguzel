@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**(Mülga: 30/4/2014 - 6537/9 md. ) b. Taşınırların özgülen mesi**
+**b. Taşınırların özgülenmesi**
 
 ---
 
-Madde 660 - (Mülga: 30/4/2014 - 6537/9 md.) c. Özgülenmenin hangi mirasçıya yapılacağı
+Madde 660- (Mülga: 30/4/2014-6537/9 md.)
 
 ---
 

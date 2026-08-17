@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Gider pusulası**
+**(Dördüncü fıkra mülga: 4/12/1985-3239/136 md.)
+Gider pusulası:**
 
 ---
 
@@ -42,10 +43,11 @@ bu kurumlarca düzenlenen belgeler,
 c) Bu Kanuna göre belge düzenleme zorunluluğu bulunmayan kamu kurum ve
 kuruluşlarının, tabi oldukları ilgili mevzuat dâhilinde, yaptıkları işler veya sattıkları mallar için
 düzenledikleri belgeler,
-
-gider pusulası yerine geçer.
+gider pusulası yerine geçer.
 (Ek fıkra:14/10/2021-7338/23 md.) Bu maddenin uygulamasına ilişkin usul ve esasları
 belirlemeye Hazine ve Maliye Bakanlığı yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

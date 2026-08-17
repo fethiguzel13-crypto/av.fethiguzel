@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**2. Rotadan sapm a**
+**2. Rotadan sapma**
 
 ---
 
-Madde 1113 - (1) Yolculuğun izlenen rota üzerinde sürdürülmesini umulmayan bir hâl engellerse, kaptan durumun gereklerine ve imkânlar çerçevesinde uygulamaya zorunlu olduğu talimata göre, yolculuğa, başka bir rota üzerinde devam edebileceği gibi kısa veya uzun bir süre için ara verebilir veya kalkma limanına geri dönebilir. (2) Navlun sözleşmesinin sona ermesi hâlinde kaptan, 1211 inci madde hükümlerine göre hareket eder.
+MADDE 1113- (1) Yolculuğun izlenen rota üzerinde sürdürülmesini umulmayan bir
+hâl engellerse, kaptan durumun gereklerine ve imkânlar çerçevesinde uygulamaya zorunlu
+olduğu talimata göre, yolculuğa, başka bir rota üzerinde devam edebileceği gibi kısa veya
+uzun bir süre için ara verebilir veya kalkma limanına geri dönebilir.
+(2) Navlun sözleşmesinin sona ermesi hâlinde kaptan, 1211 inci madde hükümlerine
+göre hareket eder.
 
 ---
 

@@ -16,6 +16,8 @@ söylemediği şeyi veya vakıaları kendiliğinden dikkate alamaz ve onları ha
 davranışlarda dahi bulunamaz.
 (2) Kanunla belirtilen durumlar dışında, hâkim, kendiliğinden delil toplayamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

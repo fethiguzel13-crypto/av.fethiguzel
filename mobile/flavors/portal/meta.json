@@ -1,10 +1,16 @@
 {
   "id": "portal",
   "packageId": "com.avfethiguzel.hukuk",
-  "versionName": "1.2.0",
-  "versionCode": 3,
-  "name": "Av. Fethi Güzel",
+  "versionName": "2.0.0",
+  "versionCode": 4,
+  "name": "Mevzuat — Kanun Maddeleri",
   "lang": "tr",
-  "entry": "https://www.avfethiguzel.com/?app=portal&lang=tr&utm_source=android_app&utm_medium=portal",
-  "builtAt": "2026-08-14T15:06:11.026Z"
+  "accent": "#2E4036",
+  "linkPaths": [
+    "/mevzuat",
+    "/ara",
+    "/kavram"
+  ],
+  "scheme": "avfethiguzel-portal",
+  "builtAt": "2026-08-15T05:12:10.903Z"
 }

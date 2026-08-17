@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**Madde 489**
+**ÜÇÜNCÜ AYIRIM
+VESAYETİN SONA ERMESİNİN SONUÇLARI
+A. Kesin hesap ve malvarlığının teslimi**
 
 ---
 
-Madde 489 - Görevi sona eren vasi, yönetimle ilgi li son raporu ve kesin hesa bı vesayet makamına vermekle yükümlü o lduğu gibi; malvarlığını vesayet altındaki kişiye, mirasçılarına veya yeni vasiye teslim edilmek üzere hazır b ulundurmak zorundadır.
+Madde 489- Görevi sona eren vasi, yönetimle ilgili son raporu ve kesin hesabı vesayet
+makamına vermekle yükümlü olduğu gibi; malvarlığını vesayet altındaki kişiye, mirasçılarına
+veya yeni vasiye teslim edilmek üzere hazır bulundurmak zorundadır.
 
 ---
 

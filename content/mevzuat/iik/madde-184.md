@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**İflas masası**
+**YEDİNCİ BAP
+İflasın hukuki neticeleri
+I – BORÇLUNUN MALLARI HAKKINDA İFLASIN NETİCELERİ:
+İflas masası:**
 
 ---
 
@@ -16,6 +19,8 @@ bulunursa bulunsun bir masa teşkil eder ve alacakların ödenmesine tahsis olun
 kapanmasına kadar müflisin uhdesine geçen mallar masaya girer.
 Müflis namına gelen mektuplar iflas idaresi tarafından açılır ve sair mevrudelerin de
 masaya gönderilmesi posta idaresine bildirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

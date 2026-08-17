@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**Usulüne aykırı tebliğin hükmü**
+**Usulüne aykırı tebliğin hükmü:**
 
 ---
 
 Madde 32 – Tebliğ usulüne aykırı yapılmış olsa bile, muhatabı tebliğe muttali olmuş
 ise muteber sayılır.
 Muhatabın beyan ettiği tarih, tebliğ tarihi addolunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

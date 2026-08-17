@@ -18,6 +18,8 @@ b) Taşınmaz mal veya kaynağın bulunduğu yer: Taşınmaz malın tapuda kayı
 değilse tapu siciline kayıtlı olması gereken il veya ilçeyi,
 İfade eder.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

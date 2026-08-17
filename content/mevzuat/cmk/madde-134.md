@@ -7,27 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**ve elkoyma3132**
+**Bilgisayarlarda, bilgisayar programlarında ve kütüklerinde arama, kopyalama
+303132
+ve elkoyma**
 
 ---
 
 Madde 134 – (1) Bir suç dolayısıyla yapılan soruşturmada, somut delillere dayanan
 kuvvetli şüphe sebeplerinin varlığı ve başka surette delil elde etme imkânının bulunmaması
 halinde, hâkim veya gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısı tarafından
-
-21/2/2014 tarihli ve 6526 sayılı Kanunun 11 inci maddesiyle, bu maddenin birinci fıkrasında yer
-alan “soruşturmada,” ibaresinden sonra gelmek üzere “somut delillere dayanan kuvvetli şüphe
-sebeplerinin varlığı ve” ibaresi eklenmiş ve dördüncü fıkrasında yer alan “İstemesi halinde, bu”
-ibaresi “Üçüncü fıkraya göre alınan” şeklinde değiştirilmiştir.
-32
-25/7/2018 tarihli ve 7145 sayılı Kanunun 16 ncı maddesiyle, bu maddenin birinci fıkrasında yer
-alan “Cumhuriyet savcısının istemi üzerine” ibaresi “hâkim veya gecikmesinde sakınca bulunan
-hâllerde Cumhuriyet savcısı tarafından” şeklinde değiştirilmiş, fıkrada yer alan “hâkim tarafından”
-ibaresi madde metninden çıkarılmış, ikinci fıkrasına “bilgilere ulaşılamaması” ibaresinden sonra
-gelmek üzere “ya da işlemin uzun sürecek olması” ibaresi eklenmiştir.
-31
-
-şüphelinin kullandığı bilgisayar ve bilgisayar programları ile bilgisayar kütüklerinde arama
+şüphelinin kullandığı bilgisayar ve bilgisayar programları ile bilgisayar kütüklerinde arama
 yapılmasına, bilgisayar kayıtlarından kopya çıkarılmasına, bu kayıtların çözülerek metin hâline
 getirilmesine karar verilir. (Ek üç cümle: 25/7/2018-7145/16 md.) Cumhuriyet savcısı
 tarafından verilen kararlar yirmi dört saat içinde hâkim onayına sunulur. Hâkim kararını en geç
@@ -45,6 +34,10 @@ verilir ve bu husus tutanağa geçirilerek imza altına alınır.
 (5) Bilgisayar veya bilgisayar kütüklerine elkoymaksızın da, sistemdeki verilerin
 tamamının veya bir kısmının kopyası alınabilir. Kopyası alınan veriler kâğıda yazdırılarak, bu
 husus tutanağa kaydedilir ve ilgililer tarafından imza altına alınır.
+BEŞİNCİ BÖLÜM
+Telekomünikasyon Yoluyla Yapılan İletişimin Denetlenmesi
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,13 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**Madde 18 – (Mülga: 20/2/1948 - 5188/1 md.)**
-
----
-
 Madde 19 – Polis; sokak, meydan ve umuma mahsus yerlerde intizamı temin ve
 Seyrüsefer Talimatnamesindeki vasıflara uygun olmıyan nakil vasıtalarını işletmekten ve bu
 vasıtaları sarhoş olarak veya seyrüseferin intizam ve selametini bozacak surette idare edenleri
+çalışmaktan meneder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

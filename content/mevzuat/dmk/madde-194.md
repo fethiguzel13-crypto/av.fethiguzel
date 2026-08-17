@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4263
 ---
 
-**Bazı devlet memurları için konut tahsisi**
+**Bazı devlet memurları için konut tahsisi:**
 
 ---
 
 Madde 194 – (Mülga: 9/11/1983 - 2946/12 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

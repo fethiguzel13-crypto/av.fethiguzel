@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4319
 ---
 
-**İflas idaresinin vazifesi**
+**İflas idaresinin vazifesi:**
 
 ---
 
@@ -15,7 +15,9 @@ Madde 226 – Masanın kanuni mümessili iflas idaresidir. İdare masanın menfa
 gözetmek ve tasfiyeyi yapmakla mükelleftir.
 (Değişik: 6/6/1985-3222/27 md.) İdare, ikimilyar liraya kadar olan alacaklardan
 doğrudan doğruya, daha ziyade alacaklardan alacaklılar toplanmasının vereceği yetkiyle sulh
-olabilir ve tahkim yapabilir.74
+olabilir ve tahkim yapabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

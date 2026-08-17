@@ -11,7 +11,7 @@ wordCount: 4299
 
 ---
 
-Madde 549 - Temsil yetkisi, bir şubenin işleriyle sınırlandırılabilir.
+MADDE 549- Temsil yetkisi, bir şubenin işleriyle sınırlandırılabilir.
 Temsil yetkisi, birden çok kişinin birlikte imza atmaları koşuluyla da sınırlandırılabilir.
 Bu durumda, diğerlerinin katılımı olmaksızın temsilcilerden birinin imza atmış olması, işletme
 sahibini bağlamaz.

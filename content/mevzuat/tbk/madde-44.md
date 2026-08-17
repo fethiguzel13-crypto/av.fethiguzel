@@ -11,7 +11,7 @@ wordCount: 4312
 
 ---
 
-Madde 44 - Temsilciye yetki belgesi verilmişse, yetkinin sona ermesi durumunda
+MADDE 44- Temsilciye yetki belgesi verilmişse, yetkinin sona ermesi durumunda
 temsilci, bu belgeyi temsil olunana geri vermekle veya hâkimin belirleyeceği yere bırakmakla
 yükümlüdür.
 Temsil olunan veya halefleri, temsilcinin belgeyi geri vermesi için gerekeni yapmazlarsa,

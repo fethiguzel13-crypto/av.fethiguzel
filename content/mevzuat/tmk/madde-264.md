@@ -11,7 +11,8 @@ wordCount: 4307
 
 ---
 
-Madde 264 - Eşlerden biri, diğerinin rızasıyla ortak lık mallarını kullanarak, tek başına bir meslek veya sanat icra ederse, bu meslek veya sanata ilişkin bütün hukukî işlemleri yapabilir.
+Madde 264- Eşlerden biri, diğerinin rızasıyla ortaklık mallarını kullanarak, tek başına bir
+meslek veya sanat icra ederse, bu meslek veya sanata ilişkin bütün hukukî işlemleri yapabilir.
 
 ---
 

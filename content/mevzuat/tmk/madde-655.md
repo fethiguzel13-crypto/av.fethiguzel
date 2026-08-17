@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Madde 655**
+**III. Rehnedilmiş tereke malları**
 
 ---
 
-Madde 655 - Paylaşmada kendisine mirasbırakanın borçları için rehnedilmiş bir tereke malı düşen mirasçı, o malın güvence altına aldığı b orcu üstlenmiş olur.
+Madde 655- Paylaşmada kendisine mirasbırakanın borçları için rehnedilmiş bir tereke
+malı düşen mirasçı, o malın güvence altına aldığı borcu üstlenmiş olur.
 
 ---
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**Kuruluşu ve görev alanı**
+**İKİNCİ BÖLÜM
+Tüketici Hakem Heyeti
+Kuruluşu ve görev alanı**
 
 ---
 
@@ -33,6 +35,8 @@ Türkiye Barolar Birliği tarafından hazırlanan yönetmelikte gösterilir.
 (3) Tüketici hakem heyetinin oluşumunun sağlanamadığı yerlerde noksan üyelikler,
 yönetmelikle belirlenen üyelik niteliklerine sahip Devlet memurları arasından illerde ticaret il
 müdürü, ilçelerde ise kaymakam tarafından tamamlanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

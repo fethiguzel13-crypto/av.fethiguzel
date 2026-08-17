@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**Beyanın muhteviyatı**
+**DÖRDÜNCÜ BAP
+Haciz yoliyle takip
+I. MAL BEYANI
+Beyanın muhteviyatı:**
 
 ---
 
@@ -16,14 +19,8 @@ yedinde bulunan mal ve alacak ve haklarında borcuna yetecek miktarın nevi ve m
 vasıflarını ve her türlü kazanç ve gelirlerini ve yaşayış tarzına göre geçim membalarını ve
 buna nazaran borcunu ne suretle ödeyebileceğini yazı ile veya şifahen icra dairesine
 bildirmesidir.
-Beyan mecburiyeti müddeti, başlangıcı:
 
-Madde 75 – (Değişik: 6/6/1985-3222/8 md.)
-İtirazının iptaline veya kat’i veya muvakkat surette kaldırılmasına karar verilen borçlu,
-bu kararın kendisine tebliğinden itibaren üç gün içinde yukarıdaki maddede gösterildiği üzere
-beyanda bulunmaya mecburdur.
-İptal veya kaldırma kararı borçlunun vicahında verilmiş ise bu müddet, kararın
-tefhiminden başlar.
+---
 
 ### Akademik Yorum ve Analiz
 

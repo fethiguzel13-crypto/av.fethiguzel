@@ -11,7 +11,9 @@ wordCount: 4303
 
 ---
 
-Madde 390 - Bir taşınm azın aile y urdu hâline getirilmesi, ancak izne ilişkin mahkeme kararının o taşınm azın tapu kütüğüne şerh ver ilmesiyle mümkün olur; bu h usus mahkem ece il ân edilir.
+Madde 390- Bir taşınmazın aile yurdu hâline getirilmesi, ancak izne ilişkin mahkeme
+kararının o taşınmazın tapu kütüğüne şerh verilmesiyle mümkün olur; bu husus mahkemece ilân
+edilir.
 
 ---
 

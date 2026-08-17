@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**Masa alacaklarının tahsili, müstacel satış**
+**Masa alacaklarının tahsili, müstacel satış:**
 
 ---
 
@@ -17,7 +17,9 @@ Kıymeti düşecek yahut muhafazası masraflı olacak şeyler geciktirilmeksizin
 Borsa veya piyasada fiyatı bulunan esham ve eşya derhal paraya çevrilebilir. Sair mallar
 ancak ikinci alacaklılar toplanmasından sonra satılır.
 Üzerinde rehin hakkı bulunan mallar 185 inci madde hükmüne tabidir.
-IV. ALACAKLARIN TAHKİKİ VE SIRALARIN TAYİNİ
+Bu fıkrada yer alan “ikiyüzbin” ibaresi, 17/7/2003 tarihli ve 4949 sayılı Kanunun 55 inci maddesiyle
+
+---
 
 ### Akademik Yorum ve Analiz
 

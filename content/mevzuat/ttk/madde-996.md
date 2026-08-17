@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4280
 ---
 
-**Madde 996**
+**DÖRDÜNCÜ BÖLÜM
+Mülkiyet ve Diğer Ayni Haklar
+BİRİNCİ AYIRIM
+Uygulanacak Hükümler
+A) Sicile kayıtlı gemilere**
 
 ---
 
-Madde 996 - (1) Kanunda aksine hüküm bulunmadıkça, bu Bölüm hükümleri yalnız Türk Gemi Siciline kayıtlı bulunan gemiler hakk ında uygulanır.
+MADDE 996- (1) Kanunda aksine hüküm bulunmadıkça, bu Bölüm hükümleri yalnız
+Türk Gemi Siciline kayıtlı bulunan gemiler hakkında uygulanır.
 
 ---
 

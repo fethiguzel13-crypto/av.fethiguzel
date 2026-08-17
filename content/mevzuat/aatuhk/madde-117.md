@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**Yürürlük**
+**Yürürlük:**
 
 ---
 
 Madde 117 – Bu kanun 1 Ocak 1954 tarihinde yürürlüğe girer.
+
+---
 
 ### Akademik Yorum ve Analiz
 

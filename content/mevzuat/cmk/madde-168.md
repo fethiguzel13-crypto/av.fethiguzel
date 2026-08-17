@@ -15,6 +15,8 @@ Madde 168 – (1) Olay yerinde görevine ait işlemlere başlayan adlî kolluk g
 bunların yapılmasına engel olan veya yetkisi içinde aldığı tedbirlere aykırı davranan kişileri,
 işlemler sonuçlanıncaya kadar ve gerektiğinde zor kullanarak bundan men eder.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

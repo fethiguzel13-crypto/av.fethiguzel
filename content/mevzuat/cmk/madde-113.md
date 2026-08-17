@@ -13,6 +13,8 @@ wordCount: 4308
 
 Madde 113 – (1) Şüpheli veya sanık tarafından gösterilecek güvence, aşağıda yazılı
 hususların yerine getirilmesini sağlar:
+7331 sayılı Kanunun 16 ncı maddesiyle bu fıkrada yer alan “bu madde hükümleri,” ibaresi “bu
+maddenin birinci ve ikinci fıkra hükümleri,” şeklinde değiştirilmiştir.
 a) Şüpheli veya sanığın bütün usul işlemlerinde, hükmün infazında veya altına
 alınabileceği diğer yükümlülükleri yerine getirmek üzere hazır bulunması.
 b) Aşağıda gösterilen sıraya göre ödemelerin yapılması:
@@ -23,6 +25,8 @@ nafaka borçları.
 3. Para cezaları.
 (2) Şüpheli veya sanığı güvence göstermeye zorunlu kılan kararda, güvencenin
 karşıladığı kısımlar ayrı ayrı gösterilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

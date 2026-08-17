@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4278
 ---
 
-**İşyeri hekimleri**
+**İş sağlığı ve güvenliği hizmetleri**
 
 ---
 
 Madde 81 – (Mülga: 20/6/2012-6331/37 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

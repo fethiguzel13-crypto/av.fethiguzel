@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Elektronik işlemler**
+**ONİKİNCİ KISIM
+Son Hükümler
+Elektronik işlemler**
 
 ---
 
@@ -26,6 +28,8 @@ tarafından imzalanır ve mühürlenir.
 (4) Elektronik ortamda yapılan işlemlerde süre gün sonunda biter.
 (5) Mahkemelerde görülmekte olan dava, çekişmesiz yargı, geçici hukuki koruma ve
 diğer tüm işlemlerde UYAP’ın kullanılmasına dair usul ve esaslar yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

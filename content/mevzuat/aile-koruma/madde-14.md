@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4280
 ---
 
-**Şiddet önleme ve izleme merkezlerinin kurulması**
+**ÜÇÜNCÜ BÖLÜM
+Merkezlerin Kurulması, Destek Hizmetleri ve Kurumlararası Koordinasyon
+Şiddet önleme ve izleme merkezlerinin kurulması**
 
 ---
 
@@ -16,9 +18,10 @@ personelin istihdam edildiği, şiddetin önlenmesi ile koruyucu ve önleyici te
 olarak uygulanmasına yönelik destek ve izleme hizmetlerinin verildiği, çalışmalarını yedi gün
 yirmidört saat esasına göre yürüten, çalışma usul ve esasları yönetmelikle belirlenen, şiddet
 önleme ve izleme merkezlerini kurar.
-
-(2) Kurulan merkezlerde şiddetin önlenmesi ile koruyucu ve önleyici tedbirlerin etkin
+(2) Kurulan merkezlerde şiddetin önlenmesi ile koruyucu ve önleyici tedbirlerin etkin
 olarak uygulanmasına yönelik izleme çalışmaları yapılır ve destek hizmetleri verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,17 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**Yetkili idare mahkemeleri26**
+**Yetkili idare mahkemeleri**
 
 ---
 
 MADDE 101 – (1) Bu Kanunun uygulanmasına ilişkin olarak idari yargıya başvurulması
 hâlinde, bir yerde birden fazla idare mahkemesinin bulunması hâlinde bu davaların hangi idare
 mahkemesinde görüleceği Hâkimler ve Savcılar Kurulu tarafından belirlenir.
-
 2/7/2018 tarihli 703 sayılı KHK’nin 71 inci maddesiyle, bu maddede yer alan “Hâkimler ve Savcılar Yüksek
 Kurulu” ibaresi “Hâkimler ve Savcılar Kurulu” şeklinde değiştirilmiştir.
-26
+
+---
 
 ### Akademik Yorum ve Analiz
 

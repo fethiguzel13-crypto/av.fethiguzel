@@ -11,7 +11,7 @@ wordCount: 4260
 
 ---
 
-Madde 491 - Sözleşmede basım sayısı belirtilmemişse, yayımcının ancak bir basım
+MADDE 491- Sözleşmede basım sayısı belirtilmemişse, yayımcının ancak bir basım
 yapma hakkı vardır.
 Taraflar, sözleşmenin süresini veya baskı adedini kararlaştırmak zorundadırlar.
 Sözleşmede yayımcıya belirli birkaç basım veya bütün yeni basımları yapma yetkisi

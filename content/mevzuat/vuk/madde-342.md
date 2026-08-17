@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**Veraset ve intikal vergisinde ek süre**
+**Veraset ve intikal vergisinde ek süre:**
 
 ---
 
@@ -17,6 +17,8 @@ için beyanname verme süresinin sonundan başlayarak 15 gün beklenir. Beyannam
 içinde verilirse vergi ziyaı olmamış sayılır.
 Ayrıca mükellefe tebliğ edilmek şartı ile yeniden 15 günlük bir mühlet verilir. Bu
 hususta da yukarıdaki hüküm cari olur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

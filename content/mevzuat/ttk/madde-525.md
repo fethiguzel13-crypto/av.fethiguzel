@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
-**(Mülga: 26/6/2012 - 6335/43 md.) II - Yabancı şirketlerin Türkiye şubeleri**
+**II - Yabancı şirketlerin Türkiye şubeleri**
 
 ---
 
-Madde 525 - (Mülga: 26/6/2012 - 6335/43 md.) III - Özet fin ansal tabloları
+MADDE 525- (Mülga: 26/6/2012-6335/43 md.)
 
 ---
 

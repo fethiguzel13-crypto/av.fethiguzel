@@ -11,7 +11,10 @@ wordCount: 4317
 
 ---
 
-Madde 801 - İntifa hakkı sahibi, yükümlü olmadığı hâlde yaptığı giderler , yenilemeler ve eklemeler için, hak sona erdiğinde, vekâletsiz iş görme hükümleri uyarınca tazminat ist eyebilir. Malikin tazminat vermekten kaçınması hâlinde intifa hakkı sahibi, yaptığı eklemeleri, malı eski hâline getirmek kaydıyla söküp alabilir.
+Madde 801- İntifa hakkı sahibi, yükümlü olmadığı hâlde yaptığı giderler, yenilemeler ve
+eklemeler için, hak sona erdiğinde, vekâletsiz iş görme hükümleri uyarınca tazminat isteyebilir.
+Malikin tazminat vermekten kaçınması hâlinde intifa hakkı sahibi, yaptığı eklemeleri,
+malı eski hâline getirmek kaydıyla söküp alabilir.
 
 ---
 

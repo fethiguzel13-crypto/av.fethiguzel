@@ -7,12 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
-**altında uygulanır.21**
-
----
-
 Madde 39 – Kaymakam, ilçede kanun, Cumhurbaşkanlığı kararnamesi ve diğer
 mevzuat ile Cumhurbaşkanınca alınmış karar ve tedbirlerin uygulanmasından doğan
+şikayetleri dinler, gerekli tedbirleri alır ve emirleri verir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4257
 ---
 
-**Halihazır harita ve imar planları**
+**Halihazır harita ve imar planları:**
 
 ---
 
@@ -22,12 +22,13 @@ Son nüfus sayımında nüfus 10.000'i aşmayan yerleşmelerde, imar planı yap�
 gerekli olup olmadığına belediye meclisi karar verir. Mevcut imar planları yürürlüktedir.
 c) Mevcut planların yerleşmiş nüfusa yetersiz olması durumunda veya yeni yerleşme
 alanlarının acilen kullanmaya açılmasını temin için; belediyeler veya valiliklerce yapılacak
-
-(…)4 imar planlarına veya imar planı olmayan yerlerde Bakanlıkça hazırlanacak yönetmelik
+(…)imar planlarına veya imar planı olmayan yerlerde Bakanlıkça hazırlanacak yönetmelik
 esaslarına göre uygulama yapılır.
 Haritaların alınmasına veya imar planlarının tatbikatına memur edilen vazifeliler,
 vazifelerini yaparlarken 2613 sayılı Kadastro ve Tapu Tahriri Kanununun 7 nci maddesindeki
 selahiyeti haizdirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

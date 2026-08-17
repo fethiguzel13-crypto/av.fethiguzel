@@ -7,12 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Kuruluş serbestisi**
+**İKİNCİ BÖLÜM
+Kuruluş Esasları ve Organlar
+Kuruluş serbestisi**
 
 ---
 
-MADDE 3 – (1) Kuruluşlar, bu Kanundaki kuruluş usul ve esaslarına uyarak önceden izin almaksızın kurulur. Sendikalar kuruldukları işkolunda faaliyette bulunur.
-(2) Kamu işveren sendikalarının, aynı işkolundaki kamu işverenleri tarafından kurulması ve faaliyette bulunması şartı aranmaz.
+MADDE 3 – (1) Kuruluşlar, bu Kanundaki kuruluş usul ve esaslarına uyarak önceden
+izin almaksızın kurulur. Sendikalar kuruldukları işkolunda faaliyette bulunur.
+(2) Kamu işveren sendikalarının, aynı işkolundaki kamu işverenleri tarafından kurulması
+ve faaliyette bulunması şartı aranmaz.
 
 ---
 

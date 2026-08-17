@@ -11,7 +11,7 @@ wordCount: 4307
 
 ---
 
-Madde 478 - Yüklenici ayıplı bir eser meydana getirmişse, bu sebeple açılacak
+MADDE 478- Yüklenici ayıplı bir eser meydana getirmişse, bu sebeple açılacak
 davalar, teslim tarihinden başlayarak, taşınmaz yapılar dışındaki eserlerde iki yılın; taşınmaz
 yapılarda ise beş yılın ve yüklenicinin ağır kusuru varsa, ayıplı eserin niteliğine bakılmaksızın
 yirmi yılın geçmesiyle zamanaşımına uğrar.

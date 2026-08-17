@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Dava şartları**
+**İKİNCİ BÖLÜM
+Dava Şartları ve İlk İtirazlar
+BİRİNCİ AYIRIM
+Dava Şartları
+Dava şartları**
 
 ---
 
@@ -27,6 +31,8 @@ h) Davacının, dava açmakta hukuki yararının bulunması.
 ı) Aynı davanın, daha önceden açılmış ve hâlen görülmekte olmaması.
 i) Aynı davanın, daha önceden kesin hükme bağlanmamış olması.
 (2) Diğer kanunlarda yer alan dava şartlarına ilişkin hükümler saklıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

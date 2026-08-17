@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Madde 1440**
+**fff) Caymanın şekli ve süresi**
 
 ---
 
-Madde 1440 - (1) Caymanın, sigorta ettirene bir beyanla yöneltilmesi şarttır. (2) Cayma, onbeş gün içinde sigorta ettirene bildirilir. Bu süre sigortacının bildirim yükümlülüğün ün ihlal edilmiş olduğunu öğrendiği tarihten itibaren başlar.
-ggg) Caymanın hükümleri
+MADDE 1440- (1) Caymanın, sigorta ettirene bir beyanla yöneltilmesi şarttır.
+(2) Cayma, onbeş gün içinde sigorta ettirene bildirilir. Bu süre sigortacının bildirim
+yükümlülüğünün ihlal edilmiş olduğunu öğrendiği tarihten itibaren başlar.
 
 ---
 

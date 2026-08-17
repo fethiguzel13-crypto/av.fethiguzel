@@ -12,7 +12,7 @@ I. Amacı belirlenmiş kullanmada**
 
 ---
 
-Madde 383 - Kullanma için belirli bir süre öngörülmemişse, ödünç alanın, ödünç
+MADDE 383- Kullanma için belirli bir süre öngörülmemişse, ödünç alanın, ödünç
 konusunu sözleşme uyarınca kullanmış olmasıyla veya kullanabilecek kadar bir zaman
 geçmesiyle sözleşme sona erer.
 Ödünç alan, ödünç konusunu sözleşmeye aykırı olarak kullanır, onu bozar veya

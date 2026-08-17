@@ -22,6 +22,8 @@ tarafların gelmemeleri hâlinde bunun sonuçlarını uygun bir süre önce tara
 (3) Hakem veya hakem kuruluna verilen dilekçeler, bilgiler ve diğer belgeler taraflara
 bildirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

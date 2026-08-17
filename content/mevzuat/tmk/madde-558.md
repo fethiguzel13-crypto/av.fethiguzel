@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**II. Dava h akkı**
+**II. Dava hakkı**
 
 ---
 
-Madde 558 - İptal davas ı, tasarrufun iptal edilmesinde menfaati bulunan mirasçı veya vasiyet alacaklısı tarafından açılabilir. Dava, ölüme bağlı tasarrufun tamam ının veya bir kısmının iptaline ilişkin olabilir. İptal davası, ölüme bağlı tasarrufla ken dilerine, eşlerine veya hıs ımlarına kazandırma yapılanların tasarrufun düzenlenmesine katılmalarının yol açtığı sakatlığa dayandığı takdirde tasarrufun tamamı değil, yalnız bu kazandırmalar iptal edilir.
+Madde 558- İptal davası, tasarrufun iptal edilmesinde menfaati bulunan mirasçı veya
+vasiyet alacaklısı tarafından açılabilir.
+Dava, ölüme bağlı tasarrufun tamamının veya bir kısmının iptaline ilişkin olabilir.
+İptal davası, ölüme bağlı tasarrufla kendilerine, eşlerine veya hısımlarına kazandırma
+yapılanların tasarrufun düzenlenmesine katılmalarının yol açtığı sakatlığa dayandığı takdirde
+tasarrufun tamamı değil, yalnız bu kazandırmalar iptal edilir.
 
 ---
 

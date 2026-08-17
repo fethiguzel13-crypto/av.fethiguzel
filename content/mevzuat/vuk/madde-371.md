@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**Pişmanlık ve ıslah**
+**Pişmanlık ve ıslah:**
 
 ---
 
@@ -22,10 +22,9 @@ verilen husus hakkında ihbarda bulunulmamış olması (Dilekçe veya tutanağı
 geçirilmiş olması şarttır.).
 2. Haber verme dilekçesinin yetkili memurlar tarafından mükellef nezdinde haber
 verilen olayın ilgili olduğu vergi türüne ilişkin bir vergi incelemesine başlandığı veya olayın
-
-ve ilgili olduğu vergi türünün takdir komisyonuna intikal ettirildiği günden evvel (Kaçakçılık
+ve ilgili olduğu vergi türünün takdir komisyonuna intikal ettirildiği günden evvel (Kaçakçılık
 suçu teşkil eden fiillerin işlendiğinin tespitinden önce) verilmiş ve resmi kayıtlara geçirilmiş
-olması.147
+olması.
 3. Hiç verilmemiş olan vergi beyannamelerinin mükellefin haber verme dilekçesinin
 verildiği tarihten başlayarak onbeş gün içinde tevdi olunması.
 4. Eksik veya yanlış yapılan vergi beyanının mükellefin keyfiyeti haber verme
@@ -37,6 +36,8 @@ onbeş gün içinde ödenmesi.
 Bu madde hükümleri, emlak vergisi ile ilgili olarak uygulanmaz.
 (Ek fıkra:14/10/2021-7338/42 md.) Hazine ve Maliye Bakanlığı maddenin
 uygulamasına ilişkin usul ve esasları belirlemeye yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,18 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**İşletmede değişikliğin bildirilmesi**
+**İşletmede değişikliğin bildirilmesi:**
 
 ---
 
 Madde 159 – Aynı teşebbüs veya işletmeye dahil bulunan iş yerlerinin sayısında
 vukua gelen artış veya azalışları mükellefler vergi dairesine bildirmeye mecburdurlar.
 
-Bu madde ile ilgili olarak 22/7/1998 tarih ve 4369 sayılı Kanunun Geçici 5 inci maddesine bakınız.
-28/11/2017 tarihli ve 7061 sayılı Kanunun 20 nci maddesiyle, bu maddenin birinci fıkrasında yer alan “veya
-ikamet” ibaresi madde metninden çıkarılmıştır.
-49
-50
+---
 
 ### Akademik Yorum ve Analiz
 

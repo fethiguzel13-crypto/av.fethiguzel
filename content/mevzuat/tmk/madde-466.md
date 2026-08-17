@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Madde 466**
+**DÖRDÜNCÜ AYIRIM
+VESAYET ORGANLARININ SORUMLULUĞU
+A. Özen yükümü**
 
 ---
 
-Madde 466 - Vesayet organları ve v esayet işleriyle görevl endirilmiş olan diğer kişiler, bu görevlerini yerine getir irlerken iyi bir yönetimin gerektirdiği özeni göstermekle yükümlü dürler .
+Madde 466- Vesayet organları ve vesayet işleriyle görevlendirilmiş olan diğer kişiler, bu
+görevlerini yerine getirirlerken iyi bir yönetimin gerektirdiği özeni göstermekle yükümlüdürler.
 
 ---
 

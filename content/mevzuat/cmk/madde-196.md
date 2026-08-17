@@ -30,10 +30,8 @@ sorgusu yapılmış olmak koşuluyla, hazır bulundurulmasına gerek görülmeye
 getirilmemesine mahkemece karar verilebilir.
 (6) Yurt dışında bulunan sanığın, belirlenen duruşma tarihinde hazır bulunmasının
 zorluğu halinde, bu tarihten önce duruşma açılarak veya istinabe suretiyle sorgusu yapılabilir.
-Sanığın müdafi gönderebilmesi
 
-Madde 197 – (1) Sanık hazır bulunmasa da müdafii bütün oturumlarda hazır
-bulunmak yetkisine sahiptir.
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,10 +7,6 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**Jandarma subay, astsubay ve uzman jandarmanın atanma ve yer değiştirme esasları**
-
----
-
 Madde 14 – (Değişik birinci fıkra: 2/7/2018 – KHK/703/128 md.) Jandarma Genel
 Komutanı, Genel Komutan Yardımcıları, generaller, bölge ve il jandarma komutanları dışında
 kalanlar İçişleri Bakanınca yapılır.
@@ -19,6 +15,8 @@ Nokta ataması yapılmayan subay, astsubay ve uzman jandarmalar valilik emrine a
 bunların istihdam yerleri, il içi yer değiştirmeleri vali tarafından yapılır.
 Hizmet gerekleri bakımından uygun görülmesi halinde il jandarma komutanlıklarına
 general rütbesindeki subaylar da atanabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

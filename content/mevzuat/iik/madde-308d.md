@@ -7,14 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**Konkordato haricinde yapılan vaatler**
+**Konkordato haricinde yapılan vaatler:**
 
 ---
 
 Madde 308/d- (Ek: 28/2/2018-7101/37 md.)
 Borçlu tarafından alacaklılardan birine konkordato projesinde öngörülenden fazla
 olarak yapılan vaatler hükümsüzdür.
-Konkordatonun kısmen feshi:
+
+---
 
 ### Akademik Yorum ve Analiz
 

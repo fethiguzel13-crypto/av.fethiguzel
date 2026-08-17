@@ -7,12 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**III
-- Donatma iştiraki**
+**III - Donatma iştiraki**
 
 ---
 
-Madde 17 - (1) Tacire ilişkin hükümler donatma iştirakine de aynen uygulanır.
+MADDE 17- (1) Tacire ilişkin hükümler donatma iştirakine de aynen uygulanır.
 
 ---
 

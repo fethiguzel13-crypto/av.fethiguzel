@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**Madde 1048**
+**eee) Alacaklının gemi malikine karşı sahip olduğu istem hakkının zamanaşımına
+uğraması**
 
 ---
 
-Madde 1048 - (1) Gemi sicilinden haksız yere silinmiş akdî ipoteklerle tescil edilmemiş bulunan kanuni ipotekler, alacaklının gemi malikine karşı sahip olduğu istem hakkının zamanaşımına uğraması ile düşer. bb) Sadece ipoteğin düşmesi sonucunu doğuran sebepler aaa) T arafların anlaşması
+MADDE 1048- (1) Gemi sicilinden haksız yere silinmiş akdî ipoteklerle tescil
+edilmemiş bulunan kanuni ipotekler, alacaklının gemi malikine karşı sahip olduğu istem
+hakkının zamanaşımına uğraması ile düşer.
 
 ---
 

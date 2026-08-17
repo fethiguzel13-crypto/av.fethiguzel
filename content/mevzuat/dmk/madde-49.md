@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Sınavlara katılma**
+**Sınavlara katılma:**
 
 ---
 
@@ -18,6 +18,8 @@ başvurularını yaparlar.
 Devlet kamu hizmet ve görevlerine girmek isteyenlerden ilan edilen şartları haiz
 bulunmayanlar bu sınavlara katılamazlar ve bu husus başvurulan merciler tarafından
 kendilerine bir yazı ile bildirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

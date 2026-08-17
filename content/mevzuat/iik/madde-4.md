@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4281
 ---
 
-**İcra mahkemesi**
+**İcra mahkemesi:**
 
 ---
 
@@ -22,9 +22,11 @@ ve buna ilişkin esaslar, Hâkimler ve Savcılar Yüksek Kurulunca belirlenir. H
 mahkemesi hâkimi, kendisine Adlî Yargı Adalet Komisyonu Başkanlığınca dönüşümlü olarak
 bağlanan icra ve iflâs dairelerinin muamelelerine yönelik şikâyetleri ve itirazları inceler, icra
 daireleri başkanlığı kurulmayan yerlerde bu dairelerin gözetim ve denetimlerini yapar, idarî
-işlerine bakar.5
+işlerine bakar.
 İcra yetkisini haiz sulh mahkemelerinin muamelelerine karşı vuku bulacak şikayet ve
 itirazların icra mahkemesi o mahkemenin hakimidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -17,6 +17,8 @@ haklarını kullanmaları konusunda özendirilmesi amaçlarına yönelik olarak 
 edilmeksizin verilmesi ve bu ödüllerin önceden ilan edilen objektif kriterlere dayanması esastır.
 (3) Tüketici ödülü verilmesine ilişkin usul ve esaslar yönetmelikle belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

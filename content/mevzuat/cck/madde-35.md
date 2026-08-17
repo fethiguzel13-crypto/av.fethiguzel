@@ -7,19 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**Sosyal inceleme**
+**Oda ve eklentilerinde bulundurulabilecek kişisel eşyalar**
 
 ---
 
-Madde 35- (1) Bu Kanun kapsamındaki çocuklar hakkında mahkemeler, çocuk
-hâkimleri veya Cumhuriyet savcılarınca gerektiğinde çocuğun bireysel özelliklerini ve sosyal
-çevresini gösteren inceleme yaptırılır. Sosyal inceleme raporu, çocuğun, işlediği fiilin hukukî
-anlam ve sonuçlarını algılama ve bu fiille ilgili olarak davranışlarını yönlendirme yeteneğinin
-mahkeme tarafından takdirinde göz önünde bulundurulur.
-(2) Derhâl tedbir alınmasını gerektiren durumlarda sosyal inceleme daha sonra da
-yaptırılabilir.
-(3) Mahkeme veya çocuk hâkimi tarafından çocuk hakkında sosyal inceleme
-yaptırılmaması hâlinde, gerekçesi kararda gösterilir.
+Madde 35- (1) Kapalı ceza infaz kurumlarında bulunan hükümlülerin oda ve
+eklentilerinde bulundurabilecekleri veya bulunduramayacakları kişisel eşya, gıda, tıbbî malzeme
+ve diğer ihtiyaç maddeleri yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

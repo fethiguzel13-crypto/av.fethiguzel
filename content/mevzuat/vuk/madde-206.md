@@ -7,11 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**tutulur. Devlet müesseselerinin resmi defter ve kayıtları Damga Resmi defteri yerine geçer.54**
+Madde 206 – (Mülga: 4/12/1985-3239/136 md.)
 
 ---
-
-Madde 206 – (Mülga: 4/12/1985-3239/136 md.)
 
 ### Akademik Yorum ve Analiz
 

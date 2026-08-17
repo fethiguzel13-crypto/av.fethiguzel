@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**müflisin elinde bırakır.**
+**Üçüncü şahıslara ait mallar:**
 
 ---
 
 Madde 212 – Üçüncü şahısların mülkü olarak gösterilen yahut bunlar tarafından
 mülkiyeti iddia olunan mallar, bu cihetler de şerh verilerek deftere kaydolunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

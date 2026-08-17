@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**Bilgi vermekten çekinenler ile 257 nci madde hükmüne uymayanlar**
+**Bilgi vermekten çekinenler ile 257 nci madde hükmüne uymayanlar:**
 
 ---
 
 Madde 361 – (Mülga: 22/7/1998-4369/82 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

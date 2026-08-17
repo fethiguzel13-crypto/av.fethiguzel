@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**Müteaddit şahsın mümessiline tebligat**
+**Müteaddit şahsın mümessiline tebligat:**
 
 ---
 
 Madde 47 – Birden ziyade şahsı temsil eden kimseye tebliğ olunacak evrakın ancak
 bir nüshası verilir. Şu kadar ki, yalnız evrakı tebellüğ için tevkil olunan kimseyi temsil ettiği
 şahısların adedi kadar nüsha verilmek lazımdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

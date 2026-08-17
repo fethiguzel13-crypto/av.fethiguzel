@@ -14,6 +14,8 @@ wordCount: 4269
 Madde 21 – (1) Bir hâkim veya mahkeme, yetkili olmasa bile, gecikmesinde sakınca
 bulunan hâllerde, yargı çevresi içerisinde gerekli işlemleri yapar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

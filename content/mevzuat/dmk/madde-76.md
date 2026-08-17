@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**Memurların kurumlarınca görevlerinin ve yerlerinin değiştirilmesi**
+**Memurların kurumlarınca görevlerinin ve yerlerinin değiştirilmesi:**
 
 ---
 
@@ -16,13 +16,15 @@ Kurumlar, görev ve unvan eşitliği gözetmeden kazanılmış hak aylık derece
 memurları bulundukları kadro derecelerine eşit veya 68 inci maddedeki esaslar çerçevesinde
 daha üst, kurum içinde aynı veya başka yerlerdeki diğer kadrolara naklen atayabilirler.
 Memurlar istekleri ile, kurumlarında kazanılmış hak derecelerinin en çok üç derece
-altında aynı veya başka yerdeki kadrolara atanabilirler.
+altında aynı veya başka yerlerdeki kadrolara atanabilirler.
 Aşağı dereceye atananların 68 inci maddede yazılı süre kaydı aranmaksızın eski
 derecelerine tekrar atanmaları mümkündür.
 Kazanılmış hak derecelerinden aşağı derecelere atananların aylık derece ve kademeleri
 genel hükümlere göre tespit edilmekle beraber, atandıkları bu derecelerde geçirdikleri süreler
 (kesenek ve karşılık farklarının kendileri tarafından her ay T.C. Emekli Sandığına
 gönderilmesini kabul etmeleri şartiyle) emeklilik yönünden eski derecelerinde değerlendirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

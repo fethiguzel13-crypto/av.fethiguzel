@@ -7,18 +7,15 @@ lastReviewed: "2026-07-27"
 wordCount: 3606
 ---
 
-**Ana ve baba evli değilse velâyet anaya aittir.**
+**III. Ana ve baba evli değilse**
 
 ---
 
-Madde 337 - Ana ve baba evli değilse velâyet anaya aittir.
-
-Ana
-küçük, kısıtlı veya ölmüş ya da velâyet kendisinden alınmışsa hâkim, çocuğun
+Madde 337- Ana ve baba evli değilse velâyet anaya aittir.
+Ana küçük, kısıtlı veya ölmüş ya da velâyet kendisinden alınmışsa hâkim, çocuğun
 menfaatine göre, vasi atar veya velâyeti babaya verir.
 
-IV.
-Üvey çocuklar
+---
 
 ### Akademik Yorum ve Analiz
 

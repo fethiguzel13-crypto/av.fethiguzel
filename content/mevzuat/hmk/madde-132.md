@@ -21,6 +21,8 @@ takas veya mahsup ilişkisinin bulunması yahut bu davalar arasında bağlantın
 mahkemeye gönderilmesine karar verir.
 (3) Karşı davaya karşı, dava açılamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

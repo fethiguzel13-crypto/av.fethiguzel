@@ -15,6 +15,8 @@ Madde 306 – (1) Hüküm, sanık lehine bozulmuşsa ve bu hususların temyiz is
 bulunmamış olan diğer sanıklara da uygulanması olanağı varsa, bu sanıklar da temyiz isteminde
 bulunmuşçasına hükmün bozulmasından yararlanırlar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

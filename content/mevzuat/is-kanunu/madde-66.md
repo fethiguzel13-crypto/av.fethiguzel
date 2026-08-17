@@ -30,6 +30,8 @@ getirilmeleri esnasında geçen süreler.
 İşin niteliğinden doğmayıp da işveren tarafından sırf sosyal yardım amacıyla işyerine
 götürülüp getirilme esnasında araçlarda geçen süre çalışma süresinden sayılmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

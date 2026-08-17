@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**Kapıcı daireleri ve sığınaklar**
+**Kapıcı daireleri ve sığınaklar:**
 
 ---
 
@@ -21,6 +21,8 @@ yerlerde de aynı şartlar aranır. 29 ve 30 uncu maddelerdeki hükümler bu mad
 daireler hakkında da uygulanır.
 Nerelerde ve hangi binalarda kapıcı dairesi ve sığınak ayrılması gerektiği imar
 yönetmeliklerinde gösterilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -12,10 +12,7 @@ wordCount: 4285
 ---
 
 Madde 45- Belediye başkanlığının herhangi bir nedenle boşalması durumunda, vali
-24 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “sakatlık” ibaresi “engellilik” şeklinde değiştirilmiştir.
-
-
-tarafından belediye meclisinin on gün içinde toplanması sağlanır. Meclis, birinci başkan
+tarafından belediye meclisinin on gün içinde toplanması sağlanır. Meclis, birinci başkan
 vekilinin, onun bulunmaması durumunda ikinci başkan vekilinin, onun da bulunmaması
 durumunda en yaşlı üyenin başkanlığında toplanarak;
 a) Belediye başkanlığının boşalması veya seçim dönemini aşacak biçimde kamu
@@ -52,6 +49,8 @@ bulunmaması durumunda vali tarafından görevlendirilecek bir kamu görevlisi t
 yürütülür.
 Belediye başkanı veya başkan vekili seçimi en geç onbeş gün içinde tamamlanmadığı
 takdirde belediye meclisinin feshine ilişkin hükümler uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

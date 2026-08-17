@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**Görevin özenle ve tarafsız biçimde yerine getirilmesi**
+**iletişim kurabilir. (Mülga ikinci cümle: 12/10/2017-7036/20 md.) (…)
+Görevin özenle ve tarafsız biçimde yerine getirilmesi**
 
 ---
 
@@ -20,6 +21,8 @@ bu görevi üstlenebilir yahut üstlenmiş olduğu görevi sürdürebilir.
 (3) Arabulucu, taraflar arasında eşitliği gözetmekle yükümlüdür.
 (4) Arabulucu, bu sıfatla görev yaptığı uyuşmazlıkla ilgili olarak açılan davada, daha
 sonra taraflardan birinin avukatı olarak görev üstlenemez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**Finansal raporlama ve bağımsız denetim**
+**İKİNCİ BÖLÜM
+Kamunun Aydınlatılmasına İlişkin Esaslar
+Finansal raporlama ve bağımsız denetim**
 
 ---
 
@@ -35,6 +37,8 @@ hükümlerine göre hazırlanacak bağımsız denetim raporu istemeye yetkilidir
 (5) Kurulca düzenlenmesi istenilen finansal tablo ve raporlar ile bağımsız denetime
 tabi olunması durumunda bağımsız denetim raporu, Kurulca belirlenen usul ve esaslar
 çerçevesinde kamuya duyurulur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

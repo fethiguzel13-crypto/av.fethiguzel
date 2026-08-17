@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**A. Alacağın dava ve takip edilememesi**
+**ONALTINCI BÖLÜM
+Kumar ve Bahis
+A. Alacağın dava ve takip edilememesi**
 
 ---
 
-Madde 604 - Kumar ve bahisten doğan alacak hakkında dava açılamaz ve takip
+MADDE 604- Kumar ve bahisten doğan alacak hakkında dava açılamaz ve takip
 yapılamaz.
 Kumar veya bahis için bilerek verilen avanslar ve ödünç paralar ile kumar ve bahis
 niteliğinde oldukları takdirde, borsada işlem gören malların, yabancı paraların ve kıymetli

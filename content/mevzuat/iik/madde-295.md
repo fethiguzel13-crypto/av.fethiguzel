@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**Kesin mühletin rehinli alacaklılar bakımından sonuçları:97**
+**Kesin mühletin rehinli alacaklılar bakımından sonuçları:**
 
 ---
 
@@ -19,6 +19,8 @@ nedeniyle muhafaza tedbirleri alınamaz ve rehinli malın satışı gerçekleşt
 işletme tarafından kullanılması öngörülmüyor veya kıymeti düşecek ya da muhafazası
 masraflı olacak ise 297 nci maddenin ikinci fıkrasındaki usule göre satışına izin verilebilir.
 Satış gelirinden rehinli alacaklıya rehin bedeli kadar ödeme yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

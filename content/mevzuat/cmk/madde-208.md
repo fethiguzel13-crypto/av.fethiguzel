@@ -14,6 +14,8 @@ wordCount: 4262
 Madde 208 – (1) Tanıklar, dinlendikten sonra ancak mahkeme başkanı veya hâkimin
 izniyle duruşma salonundan ayrılabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

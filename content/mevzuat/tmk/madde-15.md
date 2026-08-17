@@ -11,7 +11,8 @@ wordCount: 4296
 
 ---
 
-Madde 15 - Kanunda gösterilen ayrık durumlar saklı kalmak üzere, ayırt etme gücü bulun mayan kimsenin fiilleri hukukî sonuç doğurmaz.
+Madde 15- Kanunda gösterilen ayrık durumlar saklı kalmak üzere, ayırt etme gücü
+bulunmayan kimsenin fiilleri hukukî sonuç doğurmaz.
 
 ---
 

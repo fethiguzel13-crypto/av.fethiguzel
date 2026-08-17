@@ -19,6 +19,8 @@ kadar kesin delil sayılırlar.
 (3) Mahkeme, yukarıdaki belgelerden biri hakkında şüphe uyandıran bir hâl görürse,
 ilgili daireden açıklama isteyebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

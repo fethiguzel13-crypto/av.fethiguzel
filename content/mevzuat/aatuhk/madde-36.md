@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Birleşme, devir, bölünme ve şekil değiştirme halleri:10**
+**(Ek fıkra: 4/6/2008-5766/4 md.; İptal fıkra: Anayasa Mahkemesi’nin 19/3/2015
+tarihli ve E.: 2014/144, K.: 2015/29 sayılı Kararı ile.)
+(Ek fıkra: 4/6/2008-5766/4 md.; İptal fıkra: Anayasa Mahkemesi’nin 19/3/2015
+tarihli ve E.: 2014/144, K.: 2015/29 sayılı Kararı ile.)
+Birleşme, devir, bölünme ve şekil değiştirme halleri:**
 
 ---
 
@@ -19,8 +23,8 @@ c) Bölünme halinde bölünen hükmî şahsın varlıklarını devralan hükmî
 d) Şekil değiştirme halinde yeni hükmî şahıs,
 Birleşen, devir alınan, bölünen veya eski şekildeki hükmi şahıs ve şahısların yerine
 geçer.
-Yurt dışı çıkış tahdidi:
-Madde 36 /A – (Ek: 4/6/2008-5766/5 md.; Mülga: 13/2/2011-6111/165 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

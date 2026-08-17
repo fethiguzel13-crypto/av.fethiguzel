@@ -16,9 +16,11 @@ olmasına rağmen, işlenmesini gerektiren sebeplerin ortadan kalkması hâlinde
 resen veya ilgili kişinin talebi üzerine veri sorumlusu tarafından silinir, yok edilir veya
 anonim hâle getirilir.
 (2) Kişisel verilerin silinmesi, yok edilmesi veya anonim hâle getirilmesine ilişkin
-diğer kanunlarda yer alan hükümler saklıdır.
+diğer kanunlarda yer alan hükümler saklıdır.
 (3) Kişisel verilerin silinmesine, yok edilmesine veya anonim hâle getirilmesine ilişkin
 usul ve esaslar yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

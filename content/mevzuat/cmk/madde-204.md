@@ -18,6 +18,8 @@ bakımından zorunlu görmezse, oturumu yokluğunda sürdürür ve bitirir. Anca
 müdafii yoksa, mahkeme barodan bir müdafi görevlendirilmesini ister. Oturuma yeniden
 alınmasına karar verilen sanığa, yokluğunda yapılan işlemler açıklanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

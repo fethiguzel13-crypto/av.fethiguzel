@@ -16,6 +16,8 @@ kadar hapis cezası ile cezalandırılır.
 (2) Özen yükümlülüğüne aykırı davranarak, sağlık kurumundaki bir çocuğun başka bir
 çocukla karışmasına neden olan kişi, bir yıla kadar hapis cezası ile cezalandırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

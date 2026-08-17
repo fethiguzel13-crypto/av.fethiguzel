@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**F) Yürürlük tarihi:1012**
+**F) Yürürlük tarihi:**
 
 ---
 
 Madde 75 – Bu kanun yayımı tarihinden altı ay sonra yürürlüğe girer.
+
+---
 
 ### Akademik Yorum ve Analiz
 

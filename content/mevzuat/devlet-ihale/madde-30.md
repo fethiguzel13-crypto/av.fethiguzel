@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**Kararlarda belirtilmesi gereken hususlar**
+**Kararlarda belirtilmesi gereken hususlar:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 30 – İhale komisyonlarınca alınan kararlar, komisyon başkan ve üyel
 adları, soyadları ve esas görevleri belirtilerek imzalanır.
 Kararlarda isteklilerin isimleri, adresleri, teklif ettikleri bedeller, ihalenin hangi tarihte
 ve hangi istekli üzerine hangi gerekçelerle yapıldığı, ihale yapılmamış ise nedenleri belirtilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -8,10 +8,6 @@ wordCount: 2600
 keywords: ["İşleten", "Kusursuz Sorumluluk", "Tehlike Sorumluluğu", "Müteşebbis Sorumluluğu", "Müşterek ve Müteselsil Sorumluluk", "Savcılık Tedbir Şerhi", "Farazi İşleten", "Rücu Hakkı"]
 ---
 
-**İşleten ve araç işleticisinin bağlı olduğu teşebbüs sahibinin hukuki sorumluluğu:69**
-
----
-
 Madde 85 – (Değişik birinci fıkra: 17/10/1996-4199/28 md.) Bir motorlu aracın
 işletilmesi bir kimsenin ölümüne veya yaralanmasına yahut bir şeyin zarara uğramasına sebep
 olursa, motorlu aracın bir teşebbüsün unvanı veya işletme adı altında veya bu teşebbüs tarafından
@@ -26,9 +22,7 @@ hükümsüz sayılır. Şerhin konulduğu tarihten itibaren bir ay içerisinde, 
 devamına ilişkin mahkeme kararı ibraz edilmediği takdirde bu şerh hükümsüz sayılır.
 Sekizinci Kısım Birinci Bölüm başlığı ile 85 inci maddenin madde başlığı 17/10/1996 tarih ve 4199
 sayılı Kanunun 28 inci maddesiyle değiştirilmiştir.
-69
-
-İşletilme halinde olmayan bir motorlu aracın sebep olduğu trafik kazasından dolayı
+İşletilme halinde olmayan bir motorlu aracın sebep olduğu trafik kazasından dolayı
 işletenin sorumlu tutulabilmesi için, zarar görenin, kazanın oluşumunda işleten veya eylemlerinden
 sorumlu tutulduğu kişilere ilişkin bir kusurun varlığını veya araçtaki bozukluğun kazaya sebep
 olduğunu ispat etmesi gerekir.
@@ -42,6 +36,8 @@ kişilere yapılması gerekir.
 sürücüsünün veya aracın kullanılmasına katılan yardımcı kişilerin kusurundan kendi kusuru
 gibi sorumludur.
 İşletenin veya araç işleticisinin bağlı olduğu teşebbüs sahibinin, sorumluluktan
+
+---
 
 ### Akademik Yorum ve Analiz
 

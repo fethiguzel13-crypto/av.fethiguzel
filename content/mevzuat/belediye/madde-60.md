@@ -26,7 +26,7 @@ payı ve üyelik aidatı giderleri.
 g) Mezarlıkların tesisi, korunması ve bakımına ilişkin giderler.
 h) Faiz, borçlanmaya ilişkin diğer ödemeler ile sigorta giderleri.
 i) Dar gelirli, yoksul, muhtaç ve kimsesizler ile engellilere yapılacak sosyal hizmet ve
-yardımlar.35
+yardımlar.
 j) Dava takip ve icra giderleri.
 k) Temsil, tören, ağırlama ve tanıtım giderleri.
 l) Avukatlık, danışmanlık ve denetim hizmetleri karşılığı yapılacak ödemeler.
@@ -38,6 +38,8 @@ p) Kanunla verilen görevler ve hizmetlerin yürütülmesi için yapılan diğer
 r) Şartlı bağışlarla ilgili yapılacak harcamalar.
 s) İmar düzenleme giderleri.
 t) Her türlü proje giderleri.
+
+---
 
 ### Akademik Yorum ve Analiz
 

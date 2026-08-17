@@ -32,6 +32,8 @@ indirilebilir.
 etkin pişmanlık hükümlerinden yararlanılabilmesi için, bunun aynı yöntemle yayınlanması
 gerekir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

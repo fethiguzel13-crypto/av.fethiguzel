@@ -14,6 +14,8 @@ wordCount: 4289
 Madde 324- (1) Sulh zamanında seferberlikle ilgili görevlerini ihmal eden veya
 geciktiren kamu görevlisine altı aydan üç yıla kadar hapis cezası verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

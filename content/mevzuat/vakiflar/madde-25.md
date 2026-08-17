@@ -20,6 +20,8 @@ bağış ve yardımda bulunabilirler. Nakdi yardımların yurt dışından alın
 yapılması banka aracılığı ile olur ve sonuç Genel Müdürlüğe bildirilir. Bildirimin şekli ve
 içeriği yönetmelikle düzenlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

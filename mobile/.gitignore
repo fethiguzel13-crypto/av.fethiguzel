@@ -4,6 +4,8 @@ www/
 *.jks
 *.keystore
 upload.jks
+keystore-base64-github-secret.txt
+keystore-password-SIL-SONRA.txt
 local.properties
 .DS_Store
 *.log

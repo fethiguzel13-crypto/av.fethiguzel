@@ -7,14 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4275
 ---
 
-**Kişisel Verileri Koruma Uzmanı ve uzman yardımcıları**
+**Kişisel Verileri Koruma Uzmanı ve uzman yardımcıları
+(1) Kurumda, Kişisel Verileri Koruma Uzmanı ve Kişisel Verileri**
 
 ---
 
-MADDE 26- (1) Kurumda, Kişisel Verileri Koruma Uzmanı ve Kişisel Verileri
+MADDE 26-
 Koruma Uzman Yardımcısı istihdam edilebilir. Bunlardan 657 sayılı Kanunun ek 41 inci
 maddesi çerçevesinde Kişisel Verileri Koruma Uzmanı kadrosuna atananlara bir defaya
-mahusus olmak üzere bir derece yükseltilmesi uygulanır.
+mahsus olmak üzere bir derece yükseltilmesi uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -25,6 +25,8 @@ Teknik düzenlemesine uygun olmayan ürünler ise hiçbir şekilde piyasaya arz 
 ürünlere, Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanun ve
 ilgili diğer mevzuat hükümleri uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

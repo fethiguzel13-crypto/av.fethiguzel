@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**Tüketici mahkemeleri**
+**SEKİZİNCİ KISIM
+Yargılama, Denetim ve Cezaya İlişkin Hükümler
+Tüketici mahkemeleri**
 
 ---
 
 MADDE 73- (1) Tüketici işlemleri ile tüketiciye yönelik uygulamalardan doğabilecek
-uyyuşmazlıklara ilişkin davalarda tüketici mahkemeleri görevlidir.
+uyuşmazlıklara ilişkin davalarda tüketici mahkemeleri görevlidir.
 (2) Tüketici mahkemeleri nezdinde Bakanlık, tüketiciler ve tüketici örgütleri
 tarafından açılan davalar 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununda düzenlenen
 harçlardan muaftır.
@@ -39,6 +41,8 @@ derhâl ilan edilir.
 Sistemi üzerinden Bakanlığa iletilir. Tüketici hakem heyetleri kararlarına karşı yapılan itiraz
 sonucu verilen kararlar, kararı veren mahkeme tarafından ilgili tüketici hakem heyetine
 gönderilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

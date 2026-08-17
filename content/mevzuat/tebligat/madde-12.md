@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**Hükmi şahıslara ve ticarethanelere tebligat**
+**Hükmi şahıslara ve ticarethanelere tebligat:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 12 –Hükmi şahıslara tebliğ, salahiyetli mümessillerine, bunlar bird
 ise, yalnız birine yapılır.
 Bir ticarethanenin muamelelerinden doğan ihtilaflarda, ticari mümessiline yapılan
 tebliğ muteberdir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

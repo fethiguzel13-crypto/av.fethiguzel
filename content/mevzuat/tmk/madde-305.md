@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**Madde 305**
+**DÖRDÜNCÜ AYIRIM
+EVLÂT EDİNME
+A. Küçüklerin evlât edinilmesi
+I. Genel koşulları**
 
 ---
 
-Madde 305 - Bir küçüğün evlât edinilmesi, evlât edinen tarafından bir yıl süreyle ba kılmış ve eğitilmiş olması koşuluna bağlıdır. Evlât edinmenin her hâlde küçüğün yararına bulunması ve evlât edinenin diğer çocuklarının yararlar ının hakkaniyete aykırı bir biçimde zedelenmemesi de gerekir.
+Madde 305- Bir küçüğün evlât edinilmesi, evlât edinen tarafından bir yıl süreyle bakılmış
+ve eğitilmiş olması koşuluna bağlıdır.
+Evlât edinmenin her hâlde küçüğün yararına bulunması ve evlât edinenin diğer çocuklarının
+yararlarının hakkaniyete aykırı bir biçimde zedelenmemesi de gerekir.
 
 ---
 

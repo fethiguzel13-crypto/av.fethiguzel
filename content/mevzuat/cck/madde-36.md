@@ -7,13 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**Denetim altına alma kararı**
+**Arama**
 
 ---
 
-Madde 36- (1) Hakkında koruyucu ve destekleyici tedbir kararı verilen, kamu
-davasının açılmasının ertelenmesi kararı onanan, hükmün açıklanmasının geri bırakılması
-kararı verilen çocuğun denetim altına alınmasına karar verilebilir.
+Madde 36- (1) Kurumlarda, odalar ve eklentilerinde, hükümlülerin üst ve eşyasında
+habersiz olarak her zaman arama yapılabilir. Her ay bir kez mutlaka arama yapılır.
+(2) Aramalar, gerektiğinde dış güvenlik görevlileri veya kolluk kuvvetleriyle veya
+diğer kamu görevlilerince ortaklaşa gerçekleştirilebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

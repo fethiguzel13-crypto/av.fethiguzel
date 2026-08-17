@@ -22,6 +22,8 @@ kesinleşirse.
 ç) Kesin yetki hâllerinde, iki mahkeme de yetkisizlik kararı verir ve bu kararlar kanun
 yoluna başvurulmaksızın kesinleşirse.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

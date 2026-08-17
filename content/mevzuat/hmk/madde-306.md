@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Tavzih ve tamamlama talebi ile usulü35**
+**Tavzih ve tamamlama talebi ile usulü**
 
 ---
 
@@ -19,6 +19,8 @@ talebinde bulunan tarafa tebliğ olunur.
 verir; ancak gerekli görürse iki tarafı sözlü açıklamalarını yapabilmeleri için davet edebilir.
 (3) Mahkeme tavzih veya tamamlama talebini yerinde gördüğü takdirde 304 üncü
 madde uyarınca işlem yapar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

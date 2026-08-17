@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**İflasın tasfiyesi müddeti**
+**İflasın tasfiyesi müddeti:**
 
 ---
 
@@ -15,9 +15,8 @@ Madde 256 – İflas açıldıktan altı ay içinde tasfiye edilmek lazımdır. 
 tasfiye muamelesi bitmediği takdirde alacaklılar toplanıp basit tasfiye usulünün tatbikına
 karar verebilir. Bu karar da ekseriyeti meblağiyenin husulü şarttır. Böyle bir karar
 verilmemişse tetkik icra mahkemesi icabına göre müddeti uzatır.
-2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “on gün” ibareleri “iki hafta”
-şeklinde değiştirilmiştir.
-79
+
+---
 
 ### Akademik Yorum ve Analiz
 

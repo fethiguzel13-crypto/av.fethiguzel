@@ -14,6 +14,8 @@ wordCount: 4278
 MADDE 14 – (1) Başkaca bir usul kararlaştırılmadıkça arabulucu veya arabulucular
 taraflarca seçilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

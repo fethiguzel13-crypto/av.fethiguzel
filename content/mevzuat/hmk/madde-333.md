@@ -15,6 +15,8 @@ MADDE 333- (1) Hükmün kesinleşmesinden sonra mahkeme kendiliğinden, yatırı
 avansın kullanılmayan kısmının iadesine karar verir. Bu kararın tebliğ gideri iade edilecek
 avanstan karşılanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

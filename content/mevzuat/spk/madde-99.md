@@ -29,8 +29,9 @@ veya Türkiye’de yerleşik kişilere yönelik olarak internet aracılığıyla
 işlem ve kaldıraçlı işlemlerle aynı hükümlere tabi olduğu belirlenen türev araç işlemleri
 yaptırıldığına ilişkin bilgi edinilmesi halinde, internet aracılığıyla yapılan yayınlarla ilgili
 olarak içeriğin çıkarılmasına ve/veya erişimin engellenmesine Kurul tarafından karar verilir.
-Karar uygulanmak üzere Erişim Sağlayıcıları Birliğine gönderilir.11
-Kripto varlık hizmet sağlayıcıların faaliyetlerinde uygulanacak tedbirler
+Karar uygulanmak üzere Erişim Sağlayıcıları Birliğine gönderilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

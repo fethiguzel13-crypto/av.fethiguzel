@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**Madde 452**
+**BEŞİNCİ BÖLÜM
+Esas Sözleşmenin Değiştirilmesi
+BİRİNCİ AYIRIM
+Genel Olarak
+A) İlke**
 
 ---
 
-Madde 452 - (1) Genel kurul, aksine esas sözleşmede hüküm bulunmadığı takdirde, kanunda öngörülen şartlara uyarak, esas sözleşmenin bütün hükümlerini değiştirebilir; müktesep ve vazgeçilmez h aklar saklıdır.
+MADDE 452- (1) Genel kurul, aksine esas sözleşmede hüküm bulunmadığı takdirde,
+kanunda öngörülen şartlara uyarak, esas sözleşmenin bütün hükümlerini değiştirebilir;
+müktesep ve vazgeçilmez haklar saklıdır.
 
 ---
 

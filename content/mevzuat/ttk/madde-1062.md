@@ -7,12 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**II
-- Gemi adamlarının k usurlarından doğan sorumluluğu**
+**II- Gemi adamlarının kusurlarından doğan sorumluluğu**
 
 ---
 
-Madde 1062 - (1) Donatan, gemi adamlarının, zorunlu danışman kılavuzun veya isteğe bağlı kılavuzun görevlerini yerine getirirken işledikleri kusur sonucunda üçüncü kişilere verdiği zararlardan sorumludur. Ancak, donatan, yolcu lara ve yükle ilgili kişilere karşı, taşıyanın gemi adamlarının kusurundan doğan sorumluluğuna ilişkin hükümlere göre sorumlu olur. (2) Donatanın, Türkiye Cumhuriyetinin taraf olduğu sorumluluğun sınırlandırılmasına ilişkin milletlerarası sözleşmelerden do ğan sorumluluğunu sınırlandırma hakkı saklıdır.
+MADDE 1062- (1) Donatan, gemi adamlarının, zorunlu danışman kılavuzun veya
+isteğe bağlı kılavuzun görevlerini yerine getirirken işledikleri kusur sonucunda üçüncü
+kişilere verdiği zararlardan sorumludur. Ancak, donatan, yolculara ve yükle ilgili kişilere
+karşı, taşıyanın gemi adamlarının kusurundan doğan sorumluluğuna ilişkin hükümlere göre
+sorumlu olur.
+(2) Donatanın, Türkiye Cumhuriyetinin taraf olduğu sorumluluğun sınırlandırılmasına
+ilişkin milletlerarası sözleşmelerden doğan sorumluluğunu sınırlandırma hakkı saklıdır.
 
 ---
 

@@ -7,13 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4286
 ---
 
-**II
-- Yükleme giderleri**
+**II- Yükleme giderleri**
 
 ---
 
-Madde 1143 - (1) Sözleşme, yükleme limanı düzenlemeleri ve bunlar yoksa yerel
-teamül ile aksi öngörülmüş olmadıkça, eşyanın gemiye kadar taşıma gideri taşıtana, yükleme gideri ise taşıyana aittir.
+MADDE 1143- (1) Sözleşme, yükleme limanı düzenlemeleri ve bunlar yoksa yerel
+teamül ile aksi öngörülmüş olmadıkça, eşyanın gemiye kadar taşıma gideri taşıtana, yükleme
+gideri ise taşıyana aittir.
 
 ---
 

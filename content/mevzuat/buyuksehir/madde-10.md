@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**Büyükşehir belediyesi ve ilçe belediyelerinin yetkileri ve imtiyazları17**
+**Büyükşehir belediyesi ve ilçe belediyelerinin yetkileri ve imtiyazları**
 
 ---
 
 Madde 10- Büyükşehir ve ilçe belediyeleri; görevli oldukları konularda bu Kanunla
 birlikte Belediye Kanunu ve diğer mevzuat hükümleri ile ilgisine göre belediyelere tanınan
 yetki, imtiyaz ve muafiyetlere sahiptir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Memurun göreve tekrar başlatılması zorunlu olan haller**
+**Memurun göreve tekrar başlatılması zorunlu olan haller:**
 
 ---
 
@@ -19,6 +19,8 @@ c) Hükümden evvel haklarındaki kovuşturma genel af ile kaldırılanlar;
 olmıyacak bir ceza ile hükümlü olup cezası ertelenenler;
 Bu kararların kesinleşmesi üzerine haklarındaki görevden uzaklaştırma tedbiri
 kaldırılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

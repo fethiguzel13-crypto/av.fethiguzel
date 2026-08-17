@@ -11,7 +11,13 @@ wordCount: 4262
 
 ---
 
-Madde 369 - Ev başkanı, ev halkından olan k üçüğün, kısıtlının, akıl hastalı ğı veya akıl zayıflığı bulunan kişinin verdiği za rardan, alışılmış şekilde d urum ve koşulların gerektir diği dikkat le onu gözetim altında bulundurduğunu veya bu dikkat ve özeni gös terseydi dahi zararın meydana gelmesini engel leyemeyeceğini ispat etmedikçe sorumludur. Ev başkanı, ev halkından akıl hastalığ ı veya akıl zayıflığı bulun anların kendilerini ya da b aşkalarını tehlik eye veya zarara düşürmemeleri için gerekli önlemleri almakl a yükümlüdür. Zorunluluk hâlinde gerekli önle mlerin alınmasını yetkili makamdan ister.
+Madde 369- Ev başkanı, ev halkından olan küçüğün, kısıtlının, akıl hastalığı veya akıl
+zayıflığı bulunan kişinin verdiği zarardan, alışılmış şekilde durum ve koşulların gerektirdiği
+dikkatle onu gözetim altında bulundurduğunu veya bu dikkat ve özeni gösterseydi dahi zararın
+meydana gelmesini engelleyemeyeceğini ispat etmedikçe sorumludur.
+Ev başkanı, ev halkından akıl hastalığı veya akıl zayıflığı bulunanların kendilerini ya da
+başkalarını tehlikeye veya zarara düşürmemeleri için gerekli önlemleri almakla yükümlüdür.
+Zorunluluk hâlinde gerekli önlemlerin alınmasını yetkili makamdan ister.
 
 ---
 

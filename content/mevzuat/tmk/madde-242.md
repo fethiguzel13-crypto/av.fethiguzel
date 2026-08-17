@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**Madde 242**
+**ÜÇÜNCÜ AYIRIM
+MAL AYRILIĞI
+A. Yönetim, yararlanma ve tasarruf**
 
 ---
 
-Madde 242 - Mal ayrılığı rejiminde eşlerden her biri, yasal sınırlar içerisinde kendi malvarlığı üzerinde yönetim, yararlanma ve tasarruf hakl arını korur.
+Madde 242- Mal ayrılığı rejiminde eşlerden her biri, yasal sınırlar içerisinde kendi
+malvarlığı üzerinde yönetim, yararlanma ve tasarruf haklarını korur.
 
 ---
 

@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**Kadro cetvelleri**
+**Kadro cetvelleri:**
 
 ---
 
 Madde 35 – (Mülga: 2/7/2018 - KHK-703/182 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

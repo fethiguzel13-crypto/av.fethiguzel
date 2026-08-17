@@ -27,6 +27,8 @@ kanun hükümlerine göre hizmetlerinde değerlendirilir. Bu hüküm, akademik u
 kazanılması için gerekli şartlar saklı kalmak üzere, üniversite akademik kadrolarından gelen
 Kurul Başkan ve üyeleri hakkında da uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**Vekalet görevinin fiilen yapılması şartı**
+**Vekalet görevinin fiilen yapılması şartı:**
 
 ---
 
 Madde 174 – Vekalet aylıklarının ödenebilmesi için görevin fiilen yapılması şarttır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,7 @@ wordCount: 4285
 
 ---
 
-Madde 142 - Borçlunun iflası hâlinde alacaklılar, muaccel olmasalar bile, alacaklarını,
+MADDE 142- Borçlunun iflası hâlinde alacaklılar, muaccel olmasalar bile, alacaklarını,
 müflise olan borçları ile takas edebilirler.
 
 ---

@@ -17,6 +17,8 @@ mahkemeye veya bu mahkemeye gönderilmek üzere başka bir yer mahkemesine vereb
 (3) Kararı veren mahkeme, dilekçeler verildikten veya bunun için belli süreler
 geçtikten sonra, dosyayı dizi listesine bağlı olarak ilgili bölge adliye mahkemesine gönderir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

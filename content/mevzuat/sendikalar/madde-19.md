@@ -42,6 +42,8 @@ süre içinde askıda kalır.
 (11) Üyeliğin kazanılması ile üyeliğin sona ermesine ilişkin usul ve esaslar Bakanlıkça
 çıkarılacak bir yönetmelikle düzenlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

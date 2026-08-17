@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Sürücü kursları**
+**Sürücü kursları:**
 
 ---
 
-Madde 123 – (Değişik: 18/1/1985 – KHK 245/14 md.; değiştirilerek kabul: 28/3/19853176/14 md.)
+Madde 123 – (Değişik: 18/1/1985 – KHK 245/14 md.; değiştirilerek kabul: 28/3/1985-
+3176/14 md.)
 Motorlu taşıt sürücüsü yetiştirmek, yetişmiş olanlara sınav sonucu sertifika vermek,
 trafik ile ilgili öğretim ve eğitim yaptırmak üzere kamu kurumları ile diğer hakiki ve hükmi
 şahıslara Milli Eğitim Gençlik ve Spor Bakanlığınca ilgili mevzuatına göre sürücü kursları
@@ -35,6 +36,8 @@ uzatılır.
 (Değişik: 21/5/1997-4262/4 md.) Belge alınmadan açılan kursların sahipleri üç aydan
 altı aya kadar hafif hapis cezası ve 108 000 000 lira hafif para cezası ile cezalandırılır. Ayrıca,
 belge alınmadan açılan kurslar zabıtaca kapatılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

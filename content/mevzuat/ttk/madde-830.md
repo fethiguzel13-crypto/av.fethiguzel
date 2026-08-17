@@ -7,12 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**II
-- Emre yazılı ödeme vaatleri**
+**II - Emre yazılı ödeme vaatleri**
 
 ---
 
-Madde 830 - (1) Senet metninde bono olarak gösterilmemekle beraber, açıkça em re yazılı olarak düzenlenmiş olan ve bonoda aranılan diğer unsurları da içeren ödeme vaatleri, bono hükmündedir. Ancak, emre yazılı olarak düzenlenmiş olan ödeme vaatleri hakkında, araya girerek ödemeye ilişkin hükümler uygulanmaz. (2) İcra ve İflas Kanununun, çekler, poliçeler ve emre yazılı senetlerden bonoların takibine ilişkin hükümleri, emre yazılı olarak düzenlenmiş bulunan ödeme vaatlerine uygulanmaz.
+MADDE 830- (1) Senet metninde bono olarak gösterilmemekle beraber, açıkça emre
+yazılı olarak düzenlenmiş olan ve bonoda aranılan diğer unsurları da içeren ödeme vaatleri,
+bono hükmündedir. Ancak, emre yazılı olarak düzenlenmiş olan ödeme vaatleri hakkında,
+araya girerek ödemeye ilişkin hükümler uygulanmaz.
+(2) İcra ve İflas Kanununun, çekler, poliçeler ve emre yazılı senetlerden bonoların takibine
+ilişkin hükümleri, emre yazılı olarak düzenlenmiş bulunan ödeme vaatlerine uygulanmaz.
 
 ---
 

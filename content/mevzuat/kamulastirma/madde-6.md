@@ -26,10 +26,12 @@ h) Gerçek kişiler veya özel hukuk tüzelkişileri yararına; köy, belediye v
 idarece verilen kararlar, valinin,
 Onayı ile tamamlanır.
 Cumhurbaşkanı veya bakanlıklar tarafından verilen kamu yararı kararlarının ayrıca
-onaylanması gerekmez.5
+onaylanması gerekmez.
 Onaylı imar planına veya ilgili bakanlıklarca onaylı özel plan ve projesine göre yapılacak
 hizmetler için ayrıca kamu yararı kararı alınmasına ve onaylanmasına gerek yoktur. Bu
 durumlarda yetkili icra organınca kamulaştırma işlemine başlanıldığını gösteren bir karar alınır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

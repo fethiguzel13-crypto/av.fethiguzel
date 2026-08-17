@@ -16,6 +16,8 @@ aştığı veya dışında kaldığı anlaşılırsa, mahkeme bir kararla işi g
 (2) Adlî yargı içerisindeki mahkemeler bakımından verilen görevsizlik kararlarına
 karşı itiraz yoluna gidilebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

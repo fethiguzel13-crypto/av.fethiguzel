@@ -52,7 +52,7 @@ kazançları hariç olmak üzere; fonun katılımcı ve kurucuları arasında do
 olarak tam mükellef gerçek kişi veya kurumların kazanç payının %5’i geçmesi durumunda,
 tam mükellef gerçek kişi veya kurum kurucu veya katılımcılarının tamamı portföy yöneticiliği
 yapan şirket tarafından Maliye Bakanlığı Gelir İdaresi Başkanlığına bildirilir. Bildirim
-yükümlüğünün yerine verilmemesi ya da eksik yerine getirilmesi halinde tam mükellef
+yükümlüğünün yerine getirilmemesi ya da eksik yerine getirilmesi halinde tam mükellef
 gerçek kişi veya kurum kurucu veya katılımcıları adına fon işlemleri nedeniyle tarh edilecek
 vergi ve kesilecek cezalardan portföy yöneticiliği yapan şirket müştereken ve müteselsilen
 sorumludur.
@@ -66,8 +66,9 @@ gelirleri üzerinden yapılacak vergi kesintilerine şümulü yoktur.
 (7) Bu maddenin birinci fıkrasının (ç) bendi ile üçüncü ve dördüncü fıkralarında yer alan
 oranları sıfıra kadar indirmeye veya iki katına kadar artırmaya, beşinci fıkrasında yer alan oranı
 yarısına kadar indirmeye veya %50’sine kadar artırmaya Cumhurbaşkanı, maddenin
-uygulanmasına ilişkin usul ve esasları belirlemeye Maliye Bakanlığı yetkilidir.16
-Sınai mülkiyet haklarında istisna
+uygulanmasına ilişkin usul ve esasları belirlemeye Maliye Bakanlığı yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

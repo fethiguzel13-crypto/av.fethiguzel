@@ -26,16 +26,12 @@ g) İkamet izni bulunup da süresinin sona ermesinden itibaren kabul edilebilir 
 olmadan ikamet izni süresini on günden fazla ihlal edenler
 ğ) Çalışma izni olmadan çalıştığı tespit edilenler
 h) Türkiye’ye yasal giriş veya Türkiye’den yasal çıkış hükümlerini ihlal edenler ya da
-bu hükümleri ihlale teşebbüs edenler20
+bu hükümleri ihlale teşebbüs edenler
 ı) Hakkında Türkiye’ye giriş yasağı bulunmasına rağmen Türkiye’ye geldiği tespit
 edilenler
 i) Uluslararası koruma başvurusu reddedilen, uluslararası korumadan hariçte tutulan,
 başvurusu kabul edilemez olarak değerlendirilen, başvurusunu geri çeken, başvurusu geri çekilmiş
-6/12/2019 tarihli ve 7196 sayılı Kanunun 76 ncı maddesiyle, bu bende “ihlal edenler” ibaresinden sonra
-gelmek üzere “ya da bu hükümleri ihlale teşebbüs edenler” ibaresi eklenmiştir.
-20
-
-sayılan, uluslararası koruma statüleri sona eren veya iptal edilenlerden haklarında verilen son
+sayılan, uluslararası koruma statüleri sona eren veya iptal edilenlerden haklarında verilen son
 karardan sonra bu Kanunun diğer hükümlerine göre Türkiye’de kalma hakkı bulunmayanlar
 j) İkamet izni uzatma başvuruları reddedilenlerden, on gün içinde Türkiye’den çıkış
 yapmayanlar
@@ -46,6 +42,8 @@ değerlendirilenler.
 maddenin birinci fıkrasının (b), (d) ve (k) bentleri kapsamında oldukları değerlendirilen
 uluslararası koruma başvuru sahibi veya uluslararası koruma statüsü sahibi kişiler hakkında
 uluslararası koruma işlemlerinin her aşamasında sınır dışı etme kararı alınabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

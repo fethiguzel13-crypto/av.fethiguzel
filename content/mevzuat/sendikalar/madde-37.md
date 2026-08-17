@@ -20,6 +20,8 @@ sendika üyeliğinin sona ermesi hâlinde sendikaya yapılmış olan çağrı il
 (3) Sözleşmenin imzalanması tarihinde taraf işveren sendikasının üyesi olan işveren,
 sendikası ile ilişkisinin kesilmesi hâlinde yapılmış olan sözleşme ile bağlı kalır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

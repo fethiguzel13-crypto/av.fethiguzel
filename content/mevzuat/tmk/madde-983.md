@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**3. Zilyetliğe saldırıya dava hakk ı**
+**3. Zilyetliğe saldırıya dava hakkı**
 
 ---
 
-Madde 983 - Saldırıda bulunan, şey üzerinde bir hak iddia etse bile; zilyetliği saldırıya uğrayan, ona karşı dava açabilir. Dava, saldırının sona erdirilmesine, sebebinin önlenmesine ve zararın giderilmesine yönelik olur. 4. Dava hakkının düşmesi Madde 9 84 - Gasp ve saldırıdan dolayı dava hakkı, zilyedin fiili ve failini öğrenmesinden başlayar ak iki ay ve her hâlde fiilin üzerinden bir yıl geçmekle düşer.
+Madde 983- Saldırıda bulunan, şey üzerinde bir hak iddia etse bile; zilyetliği saldırıya
+uğrayan, ona karşı dava açabilir.
+Dava, saldırının sona erdirilmesine, sebebinin önlenmesine ve zararın giderilmesine yönelik
+olur.
 
 ---
 

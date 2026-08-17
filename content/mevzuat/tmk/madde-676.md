@@ -7,11 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4319
 ---
 
-**Madde 676**
+**DÖRDÜNCÜ AYIRIM
+PAYLAŞMANIN TAMAMLANMASI VE SONUCU
+A. Paylaşmanın sonuçlandırılması
+I. Paylaşma sözleşmesi**
 
 ---
 
-Madde 676 - Mirasçılar arasında payların oluşturulması ve fiilen al ınması veya aralarında yapacakları paylaşma sözleşmesi mirasçıları bağlar. Paylaşma sözleşmesiyle mirasçılar, tereke mallarının tamamı veya bir kısmı üzerindeki elbirliği mülkiyetinin miras payları oranında paylı mülkiyete dönüşt ürülmesini de kabul edebili rler. Paylaşma sözleşmesinin geçerliliği yazılı şekilde yapılmasına bağlıdır.
+Madde 676- Mirasçılar arasında payların oluşturulması ve fiilen alınması veya aralarında
+yapacakları paylaşma sözleşmesi mirasçıları bağlar.
+Paylaşma sözleşmesiyle mirasçılar, tereke mallarının tamamı veya bir kısmı üzerindeki
+elbirliği mülkiyetinin miras payları oranında paylı mülkiyete dönüştürülmesini de kabul edebilirler.
+Paylaşma sözleşmesinin geçerliliği yazılı şekilde yapılmasına bağlıdır.
 
 ---
 

@@ -18,6 +18,8 @@ olan kimseler de duruşmaya çağrılır. Bu kişiler, sanığın sahip olduğu 
 (3) Çağrıya uymamaları, işlemin ertelenmesine neden olmaz ve hükmün verilmesini
 engellemez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -15,6 +15,8 @@ Madde 194- (1) Sağlık için tehlike oluşturabilecek maddeleri çocuklara, ak�
 hastalarına veya uçucu madde kullananlara veren veya tüketimine sunan kişi, altı aydan bir
 yıla kadar hapis cezası ile cezalandırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

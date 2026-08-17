@@ -19,8 +19,7 @@ b) Karara ilişkin belirli bir konunun veya kararın bir bölümünün tavzihini
 isteyebilir.
 (2) Karşı tarafın görüşünü alan hakem veya hakem kurulu, bu talebi haklı bulursa,
 talep tarihinden itibaren bir ay içinde kararındaki maddi hatayı düzeltir veya kararın tavzihini
-
-yapar. İcap ederse, bu süre hakem veya hakem kurulunca uzatılabilir.
+yapar. İcap ederse, bu süre hakem veya hakem kurulunca uzatılabilir.
 (3) Hakem veya hakem kurulu, karardaki maddi hataları karar tarihini izleyen iki hafta
 içinde kendiliğinden de düzeltebilir.
 (4) Taraflardan her biri, hakem kararının kendilerine bildirilmesinden itibaren bir ay
@@ -30,6 +29,8 @@ Hakem veya hakem kurulu, talebi haklı bulursa, tamamlayıcı hakem kararını b
 verir. İcap ederse, bu süre hakem veya hakem kurulunca en fazla bir ay uzatılabilir.
 (5) Düzeltme, tavzih ve tamamlama kararları, taraflara bildirilir ve hakem kararının bir
 parçasını oluşturur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

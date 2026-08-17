@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**Mücbir sebepler**
+**Mücbir sebepler:**
 
 ---
 
@@ -20,6 +20,8 @@ basması gibi afetler;
 4. Sahibinin iradesi dışındaki sebepler dolayısiyle defter ve vesikalarının elinden
 çıkmış bulunması;
 gibi hallerdir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -16,6 +16,8 @@ için, birlikte açılmış veya sonradan birleştirilmiş davaların ayrılmas�
 aşamasında, talep üzerine veya kendiliğinden karar verebilir. Bu durumda mahkeme,
 ayrılmasına karar verilen davalara bakmaya devam eder.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

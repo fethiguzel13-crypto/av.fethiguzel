@@ -14,6 +14,8 @@ wordCount: 4267
 Madde 70- Belediye kendisine verilen görev ve hizmet alanlarında, ilgili mevzuatta
 belirtilen usûllere göre şirket kurabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

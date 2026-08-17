@@ -7,12 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**2. Şerhler a
-. Kişisel haklarda**
+**2. Şerhler
+a. Kişisel haklarda**
 
 ---
 
-Madde 1009 - Arsa payı karşılığı inşaat, taşınmaz satış vaadi, kira, alı m, önalım, gerialım sözleşmelerinden doğan haklar ile şerhedilebileceği kanunlarda açıkça öngörülen diğe r haklar tapu kütüğüne şerhedilebilir. Bunlar şerh verilmekle o taşınmaz üzerinde sonradan kazanılan hakların sahiplerine karşı ileri sürülebilir.
+Madde 1009- Arsa payı karşılığı inşaat, taşınmaz satış vaadi, kira, alım, önalım, gerialım
+sözleşmelerinden doğan haklar ile şerhedilebileceği kanunlarda açıkça öngörülen diğer haklar
+tapu kütüğüne şerhedilebilir.
+Bunlar şerh verilmekle o taşınmaz üzerinde sonradan kazanılan hakların sahiplerine karşı
+ileri sürülebilir.
 
 ---
 

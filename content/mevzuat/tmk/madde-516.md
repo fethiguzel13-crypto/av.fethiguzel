@@ -11,7 +11,10 @@ wordCount: 4312
 
 ---
 
-Madde 516 - Mirasbırakan, mirasının tamamı veya belli bir oranı i çin bir veya birden çok kiş iyi mirasçı atayabilir. Bir kişinin, m irasın tamam ın ı veya belli bir oranını almasını içeren her tasarruf, mirasçı atanması sayılır.
+Madde 516- Mirasbırakan, mirasının tamamı veya belli bir oranı için bir veya birden çok
+kişiyi mirasçı atayabilir.
+Bir kişinin, mirasın tamamını veya belli bir oranını almasını içeren her tasarruf, mirasçı
+atanması sayılır.
 
 ---
 

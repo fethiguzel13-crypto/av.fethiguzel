@@ -12,7 +12,8 @@ wordCount: 4305
 
 ---
 
-Madde 65 - Üyelik için kanunda veya tüzükte aranı lan n itelikleri sonradan kaybedenlerin dernek üyeliği kendiliğinden sona erer.
+Madde 65- Üyelik için kanunda veya tüzükte aranılan nitelikleri sonradan kaybedenlerin
+dernek üyeliği kendiliğinden sona erer.
 
 ---
 

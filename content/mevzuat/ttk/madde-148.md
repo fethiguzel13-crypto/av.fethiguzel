@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**Madde 148**
+**c) Birleşme sözleşmesinin ve birleşme raporunun denetlenmesi**
 
 ---
 
-Madde 148 - (Mülga: 26/6/2012 - 6335/43 md.) 5. İnceleme hakkı ve malvarlığında değişiklikler a) İnceleme hakkı
+MADDE 148- (Mülga: 26/6/2012-6335/43 md.)
 
 ---
 

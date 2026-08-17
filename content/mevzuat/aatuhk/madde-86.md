@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**Müşterinin malı almaktan vazgeçmesi**
+**Müşterinin malı almaktan vazgeçmesi:**
 
 ---
 
@@ -31,12 +31,10 @@ tahsil edilir ve o mal için idarece yapılan her nevi masraf alınmak suretiyle
 olunur.
 Mal bedeli ihale yapılan şahıstan tahsil edilemediği müddetçe asıl borçlunun borçlu
 sıfatı devam eder.
-
 “değer düşüklüğüne uğrayacağı anlaşılan mallar” ibaresinden sonra gelmek üzere “ile muhafazası tehlikeli
 veya masraflı olan mallar” ibaresi eklenmiştir.
-32
-1/7/2022 tarihli ve 7417 sayılı Kanunun 25 inci maddesiyle bu fıkrada yer alan “teminat mektubu” ibaresi
-“10 uncu maddenin birinci fıkrasının (2) numaralı bendinde yazılı teminatların” şeklinde değiştirilmiştir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Komisyonların yetkileri**
+**Komisyonların yetkileri:**
 
 ---
 
@@ -17,15 +17,15 @@ türlü bilgileri istiyebilirler. Gerekli gördükleri hallerde bilirkişilere i
 Bilgi istemede 148 inci maddenin ikinci fıkrası hükümleri uygulanır.
 Komisyonlarca bu hükümlere göre istenilen bilgileri vermiyenler ve bilirkişiliği kabul
 ettikleri halde gerekli incelemeleri yapmıyanlar hakkında Mükerrer 355 inci madde hükmü
-uygulanır.20
+uygulanır.
 Mükerrer Madde 86 - (Ek: 30/12/1980-2365/13 md; Mülga: 23/6/1982-2686/53
 md.)
 BEŞİNCİ BÖLÜM
 Müşterek Hükümler
-
 Bu fıkrada yeralan "361 inci madde" ibaresi, 11/8/1999 tarih ve 4444 sayılı Kanunun 13 üncü maddesiyle
 "mükerrer 355 inci madde" olarak değiştirilmiştir.
-20
+
+---
 
 ### Akademik Yorum ve Analiz
 

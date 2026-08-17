@@ -18,6 +18,8 @@ görevden ayrılmış olan veya görevde bulunan, yönetim kurulu üyelerinin ve
 yöneticilerinin, portföy yönetim şirketi yöneticilerinin ve konut finansmanı fonları ile varlık
 finansmanı fonlarının fon kurulu üyelerinin şahsen iflaslarını istemeye yetkilidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**IV. Evlilik d ışı hısımlar**
+**IV. Evlilik dışı hısımlar**
 
 ---
 
-Madde 498 - Evlilik dışında doğmuş ve soybağı, tanıma veya hâkim hükm üyle kurulmuş olanlar, baba yönünden evlilik içi hısım lar gibi mi rasçı olurla r.
+Madde 498- Evlilik dışında doğmuş ve soybağı, tanıma veya hâkim hükmüyle kurulmuş
+olanlar, baba yönünden evlilik içi hısımlar gibi mirasçı olurlar.
 
 ---
 

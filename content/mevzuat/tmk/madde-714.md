@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**c. Süreler in hesabı**
+**c. Sürelerin hesabı**
 
 ---
 
-Madde 714 - Kazand ırıcı zamanaşımı sürelerinin hesaplanmasında, kesilmesinde ve durmasında, Borçlar Kanununun zamanaşımına ilişkin hükümleri kıyas yoluyla uy gulanır.
+Madde 714- Kazandırıcı zamanaşımı sürelerinin hesaplanmasında, kesilmesinde ve
+durmasında, Borçlar Kanununun zamanaşımına ilişkin hükümleri kıyas yoluyla uygulanır.
 
 ---
 

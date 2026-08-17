@@ -28,20 +28,19 @@ kapsamındaki kişiler bu işte çalıştırılamaz. Bu kişileri çalıştıran
 sigortalısının aynı hastalık sebebiyle Kurumca yapılan masraflarını ödemekle yükümlüdür.
 Tedavinin sona erdiğine ve çalışılabilir durumda olduğuna dair Kurumca yetkilendirilen hekim
 veya sağlık kurullarından belge almaksızın başka işte çalışan genel sağlık sigortalısının aynı
-
-
 hastalığı sebebiyle yapılan tedavi masrafları ise kendisinden alınır.
 İş kazası ile meslek hastalığı, işverenin kastı veya genel sağlık sigortalısının iş
 sağlığını koruma ve iş güvenliği ile ilgili mevzuat hükümlerine aykırı hareketi sonucu
 olmuşsa, Kurumca yapılan sağlık hizmeti giderleri işverene tazmin ettirilir. İşverenin
-sorumluluğunun tespitinde kaçınılmazlık ilkesi dikkate alınır.130
+sorumluluğunun tespitinde kaçınılmazlık ilkesi dikkate alınır.
 (Mülga beşinci fıkra: 17/4/2008-5754/46 md.)
 (Değişik altıncı fıkra: 17/4/2008-5754/46 md.) Genel sağlık sigortalısına ve bunların
 bakmakla yükümlü olduğu kişilere kastı veya suç sayılır bir hareketi veya ilgili kanunlarla
 verilmiş bir görevi yapmaması ya da ihmali nedeniyle Kurumun sağlık hizmeti sağlamasına
 veya bu kişilerin tedavi süresinin uzamasına sebep olduğu mahkeme kararıyla tespit edilen
 üçüncü kişilere, Kurumun yaptığı sağlık hizmeti giderleri tazmin ettirilir.
-Sözleşmeli sağlık hizmeti sunucularının duyurulması ve sağlık hizmet sunucusunu
+
+---
 
 ### Akademik Yorum ve Analiz
 

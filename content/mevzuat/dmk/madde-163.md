@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**İstisnai memurluklardan ayrılanların durumu**
+**İstisnai memurluklardan ayrılanların durumu:**
 
 ---
 
@@ -25,6 +25,8 @@ b) Bu Kanuna tabi olmıyan kurumlardan atananlar, bu Kanuna tabi kurumlarda bir
 göreve atanmayı istedikleri takdirde, istisnai memuriyette geçirilen süre (a) fıkrasındaki
 esaslara göre ve girilecek derecenin sınav veya seçmesini başarmak kaydiyle, derece ve
 kademe ilerlemesine sayılır. Bu gibiler için adaylık hükümleri uygulanmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

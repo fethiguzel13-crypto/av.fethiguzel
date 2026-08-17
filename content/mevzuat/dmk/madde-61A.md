@@ -37,7 +37,8 @@ kadrosuna bağlı mali ve sosyal hak ve yardımlar aynı usul ve esaslar dahilin
 Bakanlık müşavirlerine yapılan ödemelerden vergi ve diğer yasal kesintilere tabi olmayanlar,
 bu maddeye göre de vergi ve diğer kesintilere tabi olmaz. Bunlar emeklilik hakları
 bakımından da bakanlık müşavirine denk kabul edilir.
-Atamalarda görev yerine hareket ve işe başlama süresi:
+
+---
 
 ### Akademik Yorum ve Analiz
 

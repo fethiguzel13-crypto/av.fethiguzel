@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**Araçların trafiğe çıkarılmalarında kısıtlama ve yasaklamalar**
+**Araçların trafiğe çıkarılmalarında kısıtlama ve yasaklamalar:**
 
 ---
 
@@ -16,6 +16,8 @@ ikili ve çok taraflı anlaşma hükümleri saklı kalmak üzere, uluslararası 
 taşımalar belirli gün ve saatlerde kısıtlanabilir veya yasaklanabilir.
 Kısıtlama ve yasaklamalar Bayındırlık, Gümrük ve Tekel ve Ulaştırma bakanlıklarının
 görüşü alınarak İçişleri Bakanlığınca tespit ve ilan edildikten sonra uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

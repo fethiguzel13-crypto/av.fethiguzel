@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**Madde 423**
+**VII - Kararların etkisi**
 
 ---
 
-Madde 423 - (1) Genel kurul tarafından verilen kararlar toplantıda hazır bulunmayan veya olumsuz oy veren pay sahipleri hakkında da geçerlidir.
+MADDE 423- (1) Genel kurul tarafından verilen kararlar toplantıda hazır bulunmayan
+veya olumsuz oy veren pay sahipleri hakkında da geçerlidir.
 
 ---
 

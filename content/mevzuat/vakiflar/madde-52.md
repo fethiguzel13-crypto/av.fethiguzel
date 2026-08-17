@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Hayır Hizmetleri Daire Başkanlığı1112**
+**Hayır Hizmetleri Daire Başkanlığı**
 
 ---
 
@@ -21,9 +21,8 @@ ve 5102 sayılı Yüksek Öğrenim Öğrencilerine Burs Kredi Verilmesine İliş
 hükümlerine tabi olmaksızın burs vermek.
 e) (Değişik: 2/7/2018-KHK/703/102 md.) Genel Müdürlüğün teşkilatına ilişkin
 Cumhurbaşkanlığı Kararnamesinde belirtilen diğer görevler.
-f) (Mülga: 2/7/2018/KHK/703/102 md.)
-g) (Ek: 28/11/2017-7061/95 md.;Mülga: 2/7/2018/KHK/703/102 md.)
-h) (Mülga: 2/7/2018/KHK/703/102 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

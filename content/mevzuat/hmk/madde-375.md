@@ -34,19 +34,14 @@ olması.
 i) Kararın, İnsan Haklarını ve Ana Hürriyetleri Korumaya Dair Sözleşmenin veya eki
 protokollerin ihlali suretiyle verildiğinin, Avrupa İnsan Hakları Mahkemesinin kesinleşmiş
 kararıyla tespit edilmiş olması veya karar aleyhine Avrupa İnsan Hakları Mahkemesine yapılan
-başvuru hakkında dostane çözüm ya da tek taraflı deklarasyon sonucunda düşme kararı verilmesi.64
+başvuru hakkında dostane çözüm ya da tek taraflı deklarasyon sonucunda düşme kararı verilmesi.
 (2) Birinci fıkranın (e), (f) ve (g) bentlerindeki hâllerde yargılamanın iadesinin
 istenebilmesi, bu sebeplerin kesinleşmiş bir ceza mahkûmiyet kararı ile belirlenmiş olması
 şartına bağlıdır. Delil yokluğundan başka bir sebeple ceza kovuşturmasına başlanamamış veya
 mahkûmiyet kararı verilememiş ise ceza mahkemesi kararı aranmaz. Bu takdirde dayanılan
-25/7/2018 tarihli ve 7145 sayılı Kanunun 19 uncu maddesiyle, bu bentte yer alan “tespit edilmiş
-olması” ibaresinden sonra gelmek üzere “veya karar aleyhine Avrupa İnsan Hakları Mahkemesine
-yapılan başvuru hakkında dostane çözüm ya da tek taraflı deklarasyon sonucunda düşme kararı
-verilmesi” ibaresi eklenmiştir.
-64
+yargılamanın iadesi sebebinin, yargılamanın iadesi davasında öncelikle ispat edilmesi gerekir.
 
-yargılamanın iadesi sebebinin, yargılamanın iadesi davasında öncelikle ispat edilmesi gerekir.
-Üçüncü kişilerin hükmün iptalini talep etmesi
+---
 
 ### Akademik Yorum ve Analiz
 

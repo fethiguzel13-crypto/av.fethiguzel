@@ -11,7 +11,10 @@ wordCount: 4313
 
 ---
 
-Madde 481 - Vasi, vasiliğe engel bir sebebin ortaya çık ması hâlinde görevinden çekilmek zorundadır. Vasi, bir kaçı nma sebebi ortaya çıktığı t akdirde sürenin bitiminden önce görevi nden a lınmasını isteyebilir; ancak, önemli sebeplerin varlığı hâl inde görevine devam etmek zorundadır.
+Madde 481- Vasi, vasiliğe engel bir sebebin ortaya çıkması hâlinde görevinden çekilmek
+zorundadır.
+Vasi, bir kaçınma sebebi ortaya çıktığı takdirde sürenin bitiminden önce görevinden
+alınmasını isteyebilir; ancak, önemli sebeplerin varlığı hâlinde görevine devam etmek zorundadır.
 
 ---
 

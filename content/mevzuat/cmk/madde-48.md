@@ -15,6 +15,8 @@ Madde 48 – (1) Tanık, kendisini veya 45 inci maddenin birinci fıkrasında g�
 kişileri ceza kovuşturmasına uğratabilecek nitelikte olan sorulara cevap vermekten
 çekinebilir. Tanığa cevap vermekten çekinebileceği önceden bildirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

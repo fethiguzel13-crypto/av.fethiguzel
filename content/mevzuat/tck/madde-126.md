@@ -16,6 +16,8 @@ veya isnat üstü kapalı geçiştirilmiş olsa bile, eğer niteliğinde ve mağ
 bulunduğunda duraksanmayacak bir durum varsa, hem ismi belirtilmiş ve hem de hakaret
 açıklanmış sayılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

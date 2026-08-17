@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**II. Savurganlık, alkol veya uyuşturuc u madde bağımlılığı, kötü yaşama tarz ı, kötü yönetim**
+**yönetim**
 
 ---
 
-Madde 406 - Savurganlığı, alk ol veya uyuşturucu madde ba ğımlılığı, kötü yaşama tarz ı veya malv arlığı nı köt ü yönetmesi sebebiyle kendisini veya ailesini darlık veya yoksulluğa düşürme tehlikesine yol açan ve bu yüzden devamlı korunmaya ve bakıma muht aç olan ya da başkalarının güvenliği ni tehdit eden her ergin kı sıtlanır.
+Madde 406- Savurganlığı, alkol veya uyuşturucu madde bağımlılığı, kötü yaşama tarzı
+veya malvarlığını kötü yönetmesi sebebiyle kendisini veya ailesini darlık veya yoksulluğa
+düşürme tehlikesine yol açan ve bu yüzden devamlı korunmaya ve bakıma muhtaç olan ya da
+başkalarının güvenliğini tehdit eden her ergin kısıtlanır.
 
 ---
 

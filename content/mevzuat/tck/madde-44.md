@@ -13,8 +13,8 @@ wordCount: 4305
 
 Madde 44- (1) İşlediği bir fiil ile birden fazla farklı suçun oluşmasına sebebiyet veren
 kişi, bunlardan en ağır cezayı gerektiren suçtan dolayı cezalandırılır.
-ÜÇÜNCÜ KISIM
-Yaptırımlar
+
+---
 
 ### Akademik Yorum ve Analiz
 

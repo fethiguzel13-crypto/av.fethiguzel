@@ -17,6 +17,8 @@ geri bırakılmasına karar verilemez.
 (2) Kişiler hukuku, aile hukuku ve taşınmaz mal ile ilgili ayni haklara ilişkin kararlar
 kesinleşmedikçe yerine getirilemez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

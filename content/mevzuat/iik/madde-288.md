@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**Geçici mühletin sonuçları, ilânı ve bildirimi:88**
+**Geçici mühletin sonuçları, ilânı ve bildirimi:**
 
 ---
 
@@ -23,6 +23,8 @@ gerektiren bir hâl bulunmadığını delilleriyle birlikte ileri sürebilecekle
 mahkemeden konkordato talebinin reddini isteyebilecekleri belirtilir.
 Geçici mühletin uzatılmasına ve geçici mühletin kaldırılarak konkordato talebinin
 reddine ilişkin kararlar da ikinci fıkra uyarınca ilân olunur ve ilgili yerlere bildirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

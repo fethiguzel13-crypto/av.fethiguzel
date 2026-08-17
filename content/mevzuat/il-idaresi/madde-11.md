@@ -7,11 +7,13 @@ lastReviewed: "2026-07-27"
 wordCount: 3623
 ---
 
-**9 A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve**
+**C) (Mülga: 23/1/2008-5728/578 md.)
+D) (Mülga: 14/7/2004-5219/5 md.)
+E) (Mülga: 23/1/2008-5728/578 md.)**
 
 ---
 
-Madde 11 - 9 A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve
+Madde 11 –A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve
 teşkilatının amiridir. Suç işlenmesini önlemek, kamu düzen ve güvenini korumak için gereken
 tedbirleri alır. Bu maksatla Devletin genel ve özel kolluk kuvvetlerini istihdam eder, bu
 teşkilat amir ve memurları vali tarafından verilen emirleri derhal yerine getirmekle
@@ -29,8 +31,8 @@ belirtilerin bulunduğu hâllerde on beş günü geçmemek üzere ildeki belirli
 sınırlayabilir; belli yerlerde veya saatlerde kişilerin dolaşmalarını, toplanmalarını, araçların
 seyirlerini düzenleyebilir veya kısıtlayabilir ve ruhsatlı da olsa her çeşit silah ve merminin
 taşınması ve naklini yasaklayabilir.
-(Mülga birinci cümle: 25/7/2018-7145/1 md.) (...) Bu fıkra kapsamında alınan ve
-ilan olunan karar ve tedbirlere uymıyanlar hakkında 66 ncı madde hükmü uygulanır.10
+(Mülga birinci cümle: 25/7/2018-7145/1 md.) (…) Bu fıkra kapsamında alınan ve
+ilan olunan karar ve tedbirlere uymıyanlar hakkında 66 ncı madde hükmü uygulanır.
 Ç) Jandarma, polis, gümrük muhafaza ve diğer özel kolluk kuvvetlerinin bütün ast ve
 üstlerinin il içine munhasır olmak üzere geçici veya sürekli olarak vali tarafından yerleri
 değiştirilebilir ve bundan hemen İçişleri, Gümrük ve Tekel Bakanlıklarına bilgi verir.
@@ -38,15 +40,13 @@ D) (Değişik: 29/8/1996-4178/1 md.) Valiler, ilde çıkabilecek veya çıkan ol
 emrindeki kuvvetlerle önlenmesini mümkün görmedikleri veya önleyemedikleri; aldıkları
 tedbirlerin bu kuvvetlerle uygulanmasını mümkün görmedikleri veya uygulayamadıkları
 takdirde, diğer illerin kolluk kuvvetleriyle bu iş için tahsis edilen diğer kuvvetlerden
-yararlanmak amacıyla, İçişleri Bakanlığından ve gerekirse (...)11 Kara Kuvvetleri
+yararlanmak amacıyla, İçişleri Bakanlığından ve gerekirse (…)Kara Kuvvetleri
 Komutanlığının sınır birlikleri dahil olmak üzere en yakın kara, deniz ve hava birlik
 komutanlığından mümkün olan en hızlı vasıtalar ile müracaat ederek yardım isterler. Bu
 durumlarda ihtiyaç duyulan kuvvetlerin İçişleri Bakanlığından veya askeri birliklerden veya
 her iki makamdan talep edilmesi hususu, yardım talebinde bulunan vali tarafından takdir
 edilir. Valinin yaptığı yardım istemi geciktirilmeksizin yerine getirilir. Acil durumlarda bu
 istek sonradan yazılı şekle dönüştürülmek kaydıyla sözlü olarak yapılabilir.
-9 2/7/2018 tarihli ve 703 sayılı KHK’nin 138 inci maddesiyle, bu maddede yer alan “Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde, “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde, “Hükümetin” ibaresi “Cumhurbaşkanının” şeklinde, “Başbakanın” ibaresi “Cumhurbaşkanının” şeklinde değiştirilmiştir. 10 25/7/2018 tarihli ve 7145 sayılı Kanunun 1 inci maddesiyle, bu paragrafta yer alan “Bu hususta” ibaresi “Bu fıkra kapsamında” şeklinde değiştirilmiştir. 11 17/4/2017 tarihli ve 690 sayılı KHK’nin 17 nci maddesiyle, bu fıkranın birinci cümlesinde yer alan “Jandarma Genel Komutanlığının veya” ibaresi yürürlükten kaldırılmış, daha sonra bu hüküm 1/2/2018 tarihli ve 7077 sayılı Kanunun 15 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
-
 Vali tarafından askeri birliklerden yardım istenmesi halinde; muhtemel olaylar için
 istenen askeri kuvvet, valinin görüşü alınarak olaylara hızla el koymaya uygun yerde, cereyan
 eden olaylar için ise olay yerinde hazır bulundurulur. (Değişik cümle: 17/6/2003-4897/1 md.)
@@ -76,15 +76,13 @@ edebilir. (Değişik Cümle: 13/7/2013-6496/16 md.) Bu fıkra uyarınca görevle
 Silahlı Kuvvetleri birliklerinin, bu fıkra kapsamındaki faaliyetleri, askerlik hizmet ve
 görevlerinden sayılır.Yukarıda belirtilen hususlar nedeniyle doğan acil ve zaruri ihtiyaçları
 karşılamak amacıyla yapılacak harcamalar Cumhurbaşkanınca uygun görülecek fonlardan
-yapılacak aktarmalar ve İçişleri Bakanlığı bütçesine konulan ödenekten yapılır.12 Her yıl
+yapılacak aktarmalar ve İçişleri Bakanlığı bütçesine konulan ödenekten yapılır.Her yıl
 İçişleri Bakanlığı bütçesine aktarılacak olan paraların illere dağıtımı ve kullanımı ile ilgili
 esaslar İçişleri Bakanlığınca belirlenir. Bu madde uyarınca kuruluş ve kişilerden sağlanan ve
 satın alınan malzeme, araç ve gereçlerin satın alma, kira ve kullanım bedelleri ile işçi ücretleri
 ve benzeri giderler için ödeme emri beklenmez. İçişleri Bakanı veya valinin onayı yeterli
-sayılır. (...)13 Ödemeler usul ve esasları Maliye Bakanlığının görüşü alınarak İçişleri
-12 Anayasa Mahkemesinin 6/1/1999 tarih ve E.: 1996/68, K.: 1999/1 sayılı kararı ile; bu tümcenin “kanun ve kanun hükmünde kararnamelerle kurulan fonlardan yapılacak aktarmalar” yönünden Anayasa’ya aykırı olduğuna ve iptaline karar verilmiş ve iptal Kararı, 19/1/2002 tarihinde yürürlüğe girmiştir. 13 Anaya Mahkemesinin 6/1/1999 tarih ve E.: 1996/68, K.: 1999/1 sayılı kararı ile bu cümlede yer alan “Bu harcamalar 1050 sayılı Muhasebe-i Umumiye Kanunu ve 832 sayılı Sayıştay Kanunu hükümlerine tabi
-
-Bakanlığınca yürürlüğe konulacak bir yönetmelikle düzenlenir.14
+sayılır. (...)Ödemeler usul ve esasları Maliye Bakanlığının görüşü alınarak İçişleri
+Bakanlığınca yürürlüğe konulacak bir yönetmelikle düzenlenir.
 E) Devlete, özel idareye, belediye ve köylere ait olan veya bunlara bağlı bulunan veya
 bunların gözetim ve denetimi altında iş gören daire ve müesseselerle diğer bütün gerçek ve
 tüzelkişiler tarafından işletilen mali, ticari, sınai ve iktisadi müesseseler, işletmeler, ambarlar,
@@ -120,8 +118,8 @@ işletilmesi ile ilgili olarak il özel idaresi, belediye, köy ve diğer kamu t
 talebini yedi gün içinde sonuçlandırır. Bu süre içerisinde ilgili kurumlarca sonuçlandırılmayan
 iş ve işlemler vali tarafından resen tamamlattırılır.
 I) (Ek: 27/3/2015-6638/15 md.) (H) fıkrası ile valiye verilmiş olan yetkiler, ilçede
-değildir.” kuralı, iptal edilmiş ve iptal Kararı, 19/1/2002 tarihinde yürürlüğe girdiğinden bu kural metinden çıkarılmıştır. 14 13/7/2013 tarihli ve 6496 sayılı Kanunun 16 ncı maddesi ile bu paragrafın altıncı cümlesinde yer alan “Genelkurmay Başkanlığı ile İçişleri Bakanlığı” ibaresi “Bakanlar Kurulu” şeklinde değiştirilmiştir.
-
+değildir.” kuralı, iptal edilmiş ve iptal Kararı, 19/1/2002 tarihinde yürürlüğe girdiğinden bu kural metinden
+çıkarılmıştır.
 kaymakam tarafından da kullanılabilir.
 J) (Ek: 23/6/2016-6722/12 md.) Genel kolluk kuvvetlerinin imkân ve kabiliyetlerini
 aşan durumlarda terörle mücadele için gerekli olması veya terör eylemlerinin kamu düzenini
@@ -161,7 +159,6 @@ Hakkında Kanun hükümleri uygulanır. Bu suçlar sebebiyle soruşturma izni ve
 yakalama, gözaltı ve tutuklama tedbirlerine başvurulamaz. Bu fıkradaki görevler yerine
 getirilirken, görevin niteliği gereği veya ifası sebebiyle verilen zararlar Devlet tarafından
 tazmin edilir. Bu fıkra kapsamındaki görevlerin yerine getirilmesi sırasında Türk Silahlı
-
 Kuvvetleri personeli ile mülki idare amirleri, kolluk kuvvetleri ve diğer memurlar ve kamu
 görevlilerinin kararları, işlemleri ve faaliyetleri sebebiyle (kişisel kusur, haksız fiil veya diğer
 sorumluluk halleri de dâhil) tazminat davaları ancak Devlet aleyhine açılabilir. Devlet,
@@ -186,6 +183,8 @@ personeli hakkında da uygulanır.
 Bu fıkra kapsamında verilen görevlerin yerine getirilmesi sırasında doğan acil ve
 zaruri ihtiyaçları karşılamak amacıyla yapılacak harcamalar, ilgisine göre Millî Savunma
 Bakanlığı veya İçişleri Bakanlığı bütçesine konulan ödenekten karşılanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
-**Re'sen görev kararı ve görevde uyuşmazlık**
+**(2) (Ek: 26/6/2009 – 5918/6 md.) (Mülga:2/7/2018-KHK/700/159 md.)
+Re'sen görev kararı ve görevde uyuşmazlık**
 
 ---
 
@@ -15,6 +16,8 @@ Madde 4 – (1) Davaya bakan mahkeme, görevli olup olmadığına kovuşturma
 evresinin her aşamasında re'sen karar verebilir. 6 ncı madde hükmü saklıdır.
 (2) Görev konusunda mahkemeler arasında uyuşmazlık çıktığında, görevli mahkemeyi
 ortak yüksek görevli mahkeme belirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

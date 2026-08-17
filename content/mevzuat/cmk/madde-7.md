@@ -14,6 +14,8 @@ wordCount: 4271
 Madde 7 – (1) Yenilenmesi mümkün olmayanlar dışında, görevli olmayan hâkim veya
 mahkemece yapılan işlemler hükümsüzdür.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

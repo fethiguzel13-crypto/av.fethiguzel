@@ -11,7 +11,8 @@ wordCount: 4285
 
 ---
 
-Madde 719 - (1) Poliçeye ilişkin bir edimin birden fazla yükümlü tarafından ifasının istenme si zorunlu ise, tek protesto belgesi düzenlenir.
+MADDE 719- (1) Poliçeye ilişkin bir edimin birden fazla yükümlü tarafından ifasının
+istenmesi zorunlu ise, tek protesto belgesi düzenlenir.
 
 ---
 

@@ -12,7 +12,7 @@ wordCount: 4306
 
 ---
 
-Madde 51 - Hâkim, tazminatın kapsamını ve ödenme biçimini, durumun gereğini ve
+MADDE 51- Hâkim, tazminatın kapsamını ve ödenme biçimini, durumun gereğini ve
 özellikle kusurun ağırlığını göz önüne alarak belirler.
 Tazminatın irat biçiminde ödenmesine hükmedilirse, borçlu güvence göstermekle
 yükümlüdür.

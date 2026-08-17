@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Amortisman nispetlerinin itibar tarihi**
+**Amortisman nispetlerinin itibar tarihi:**
 
 ---
 
@@ -24,9 +24,8 @@ a) Nispet bakımından:
 Bu bentte yer alan "amortisman oranı normal amortisman oranının iki katıdır." ibaresi, 16/7/2004 tarihli ve
 5228 sayılı Kanunun 59 uncu maddesiyle"amortisman oranı % 50'yi geçmemek üzere normal amortisman
 oranının iki katıdır."olarak değiştirilmiştir.
-107
 
-Madde 319 – (Mülga: 17/12/2003-5024/9 md.)
+---
 
 ### Akademik Yorum ve Analiz
 

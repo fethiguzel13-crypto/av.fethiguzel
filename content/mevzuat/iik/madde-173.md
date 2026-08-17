@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**a) İtiraz veya şikayet olunmaması**
+**İflas davası:
+a) İtiraz veya şikayet olunmaması:**
 
 ---
 
@@ -17,8 +18,7 @@ durumu tevsik eden ödeme emri nüshası ile ticaret mahkemesinden borçlunun if
 verilmesini istiyebilir.
 (Ek: 9/11/1988-3494/35 md.) İflas takibi kesinleştiğinde 166 ncı maddenin ikinci
 fıkrasındaki usulle ilan edilir. İflas talebinin ilanından itibaren onbeş gün içinde diğer
-
-alacaklılar davaya müdahale veya itiraz ederek iflası gerektiren bir hal bulunmadığını ileri
+alacaklılar davaya müdahale veya itiraz ederek iflası gerektiren bir hal bulunmadığını ileri
 sürerek mahkemeden talebin reddini isteyebilirler.
 Mahkeme, takip dosyasını getirtir ve basit yargılama usulü ile yapacağı inceleme
 sonunda borcun ödenmediği, itiraz ve şikayette de bulunmadığını tesbit ederse yedi gün içinde
@@ -28,6 +28,8 @@ karar verilir. Şu kadar ki, borçlu ödeme emrinde yazılı müddetin geçmesin
 ödediğine dair resmi bir belge ibraz ederse iflas yolu ile takip talebi ve iflas davası düşer.
 Borçlu, ticaret mahkemesine 65 inci maddeye göre gecikmiş itirazda bulunabilir.
 Mahkeme mazereti yerinde görürse iflas davasını 174 üncü madde uyarınca karara bağlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

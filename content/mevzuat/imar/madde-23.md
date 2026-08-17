@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**Geliştirme alanlarında yapı ruhsatı**
+**Geliştirme alanlarında yapı ruhsatı:**
 
 ---
 
@@ -20,21 +20,11 @@ gibi teknik alt yapısının yapılmış olması,
 Şarttır.
 Ancak, bunlardan parselasyon planları tasdik edilmiş olmakla beraber yolu, pis ve
 içme suyu şebekeleri gibi teknik alt yapısı henüz yapılmamış olan yerlerde, ilgili idarenin izni
-halinde ve ilgili idarece hazırlanacak projeye uygun olarak yaptıranlara veya parselleri
-hizasına rastlayan ve yönetmelikte belirtildiği şekilde hissesine düşen teknik alt yapı bedelini
-% 25 peşin ödeyip geri kalan % 75 ini alt yapı hizmetinin ilgili idaresince tamamlanacağı
-tarihten en geç altı ay içinde ödemeyi taahhüt edenlere de yapı ruhsatı verilir. Kanalizasyon
-Anayasa Mahkemesinin 11/12/1986 tarih ve E. 1985/11, K. 1986/29 sayılı kararı ile bu fıkrada yer
-alan ".... veya yeminli serbest mimarlık ve mühendislik ..." ibaresi iptal edilmiştir.
-27
-Anayasa Mahkemesinin 11/12/1986 tarih ve E. 1985/11, K. 1986/29 sayılı kararı ile bu fıkrada yer
-alan "... veya yeminli serbest mimarlık ve mühendislik bürolarınca..." ibaresi iptal edilmiştir.
-26
-
-tesisinin yapı bitirilip kullanılmaya başlanacağı tarihe kadar yapılmaması halinde, fosseptik
-veya benzeri geçici bir tesis yaptırılması yoluna gidilir. Bu yapılmadığı takdirde yapıya
-kullanma izni verilemez. Ana tesis yapıldığında yapı sahibi veya sahipleri lağım ayaklarını bu
-tesise bağlamaya mecburdurlar.28
+halinde ve ilgili idarece hazırlanacak projeye uygun olarak yaptıranlara (…)yapı ruhsatı
+verilir. Kanalizasyon tesisinin yapı bitirilip kullanılmaya başlanacağı tarihe kadar
+yapılmaması halinde, fosseptik veya benzeri geçici bir tesis yaptırılması yoluna gidilir. Bu
+yapılmadığı takdirde yapıya kullanma izni verilemez. Ana tesis yapıldığında yapı sahibi veya
+sahipleri lağım ayaklarını bu tesise bağlamaya mecburdurlar.
 Toplu mesken alanlarında, ilgili şahıs veya kurumlarca ilgili idarenin izni ile bütünü
 inşa ve ikmal edilen teknik altyapının iki tarafındaki diğer parsellerin sahiplerinden, kendi
 parsellerine isabet eden bedel alınmadıkça, kendilerine yapı ruhsatı verilmez.
@@ -61,7 +51,8 @@ bağlanması, lağım şebekesi veya umumi fosseptik olmayan yerlerde mahalli ih
 göre ilgili idarece verilecek esaslar dahilinde gayrimenkulün içinde, lüzumlu tesisatın yapılması
 mecburidir. Bu bağlantılar mal sahibi tarafından ilgili idarece yapılacak tebligatla verilecek
 müddet zarfında yaptırılmadığı takdirde ilgili idare tarafından yıktırılır.
-Yeminli serbest mimarlık ve mühendislik bürolarının kuruluşu, yetki alanları ve
+
+---
 
 ### Akademik Yorum ve Analiz
 

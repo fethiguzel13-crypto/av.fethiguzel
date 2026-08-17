@@ -357,7 +357,7 @@ export default function MaddeViewer({
                         </header>
 
                         <nav
-                            className="flex flex-wrap gap-2 justify-between items-center mb-6 pb-4 border-b border-black/8"
+                            className="flex flex-wrap gap-2 justify-between items-center mb-6 pb-4 border-b border-black/[0.08]"
                             aria-label="Madde gezinme (üst)"
                         >
                             {adj.prev && pack ? (
@@ -394,7 +394,7 @@ export default function MaddeViewer({
                         </section>
 
                         {toc.length > 2 && (
-                            <details className="mb-5 rounded-2xl border border-black/8 bg-[#FFFEFA] p-4 sm:p-5 group">
+                            <details className="mb-5 rounded-2xl border border-black/[0.08] bg-[#FFFEFA] p-4 sm:p-5 group">
                                 <summary className="cursor-pointer font-heading font-bold text-sm text-[#2E4036] list-none flex justify-between items-center">
                                     İçindekiler
                                     <span className="text-[#C45A38] text-xs font-semibold group-open:rotate-45 transition-transform">
@@ -416,7 +416,7 @@ export default function MaddeViewer({
                             </details>
                         )}
 
-                        <section className="rounded-2xl sm:rounded-[1.35rem] bg-[#FFFEFA] border border-black/8 p-5 sm:p-8 shadow-sm mb-8">
+                        <section className="rounded-2xl sm:rounded-[1.35rem] bg-[#FFFEFA] border border-black/[0.08] p-5 sm:p-8 shadow-sm mb-8">
                             <p className="flex items-center gap-2 text-[10px] font-bold uppercase tracking-[0.2em] text-[#C45A38] mb-4">
                                 <span className="w-4 h-0.5 bg-[#C45A38] rounded-full" />
                                 Akademik yorum ve analiz
@@ -432,7 +432,7 @@ export default function MaddeViewer({
                         </section>
 
                         {araclarForKanun(kanunId).length > 0 && (
-                            <section className="mb-8 rounded-2xl bg-white border border-black/8 p-5 sm:p-6">
+                            <section className="mb-8 rounded-2xl bg-white border border-black/[0.08] p-5 sm:p-6">
                                 <h2 className="text-sm font-bold text-[#1C1C1C] mb-2">
                                     İlgili hesaplama araçları
                                 </h2>
@@ -457,7 +457,7 @@ export default function MaddeViewer({
                         )}
 
                         <nav
-                            className="flex flex-wrap gap-2 justify-between items-center mt-8 pt-4 border-t border-black/8"
+                            className="flex flex-wrap gap-2 justify-between items-center mt-8 pt-4 border-t border-black/[0.08]"
                             aria-label="Madde gezinme (alt)"
                         >
                             {adj.prev && pack ? (

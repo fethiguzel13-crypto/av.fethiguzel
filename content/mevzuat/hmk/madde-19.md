@@ -21,6 +21,8 @@ mahkeme varsa seçtiği mahkemeyi bildirir. Aksi takdirde yetki itirazı dikkate
 (4) Yetkinin kesin olmadığı davalarda, davalı, süresi içinde ve usulüne uygun olarak
 yetki itirazında bulunmazsa, davanın açıldığı mahkeme yetkili hâle gelir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -20,6 +20,8 @@ etmediğinde, önceden bildirdiği adrese tebligatın yapılacağı bildirilir. 
 belirten ve yeni adresleri içeren tutanak veya tutukevi müdürünün düzenleyeceği belgenin aslı
 veya örneği yargı merciine gönderilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

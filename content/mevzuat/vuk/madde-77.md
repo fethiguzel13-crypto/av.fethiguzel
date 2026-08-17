@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4278
 ---
 
-**Tahrir Komisyonu**
+**İKİNCİ BÖLÜM
+Tahrir Komisyonu**
 
 ---
 
 Madde 77 – (Mülga: 29/7/1970-1319/41 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

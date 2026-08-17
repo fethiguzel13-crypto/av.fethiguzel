@@ -7,13 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4283
 ---
 
-**V
-- Fesih hakkının kullanılması
+**V- Fesih hakkının kullanılması
 1. Feshin bildirimi**
 
 ---
 
-Madde 1224 - (1) Feshin bildirimi, faks mesajı, elektronik mektup veya benzeri teknik araçlarla da mümkün olmak üzere, yazılı olarak yapılır.
+MADDE 1224- (1) Feshin bildirimi, faks mesajı, elektronik mektup veya benzeri
+teknik araçlarla da mümkün olmak üzere, yazılı olarak yapılır.
 
 ---
 

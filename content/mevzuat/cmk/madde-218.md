@@ -20,6 +20,8 @@ bekletici sorun kararı verebilir.
 tespitiyle ilgili bir sorunla karşılaşılması halinde; mahkeme, ilgili kanunda belirlenen usule
 göre bu sorunu çözerek hükmünü verir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

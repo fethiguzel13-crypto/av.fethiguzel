@@ -35,18 +35,14 @@ bırakılır.
 ç) Masraflar geri ödenmediği sürece, yabancıların Türkiye’ye girişine izin verilmeyebilir.
 (4) Genel Müdürlük sınır dışı işlemleriyle ilgili olarak uluslararası kuruluşlar, ilgili
 ülke makamları ve sivil toplum kuruluşlarıyla iş birliği yapabilir.
-
-6/12/2019 tarihli ve 7196 sayılı Kanunun 79 uncu maddesiyle, bu bentte yer alan “ve refakatsiz çocuklar”
-ibaresi madde metninden çıkarılmıştır.
-21
-
-(5) Yabancıların pasaportları veya diğer belgeleri, sınır dışı edilinceye kadar tutulabilir
+(5) Yabancıların pasaportları veya diğer belgeleri, sınır dışı edilinceye kadar tutulabilir
 ve sınır dışı işlemlerinde kullanılmak üzere biletleri paraya çevrilebilir.
 (6) Gerçek veya tüzel kişiler, kalışlarını veya dönüşlerini garanti ettikleri yabancıların
 sınır dışı edilme masraflarını ödemekle yükümlüdür. Yabancıyı izinsiz çalıştıran işveren veya
 işveren vekillerinin, yabancının sınır dışı edilme işlemleri konusundaki yükümlülükleri
 hakkında 4817 sayılı Kanunun 21 inci maddesinin üçüncü fıkrası hükmü uygulanır.
-Gönüllü geri dönüş
+
+---
 
 ### Akademik Yorum ve Analiz
 

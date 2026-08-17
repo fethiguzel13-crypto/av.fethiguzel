@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**b. Doğal ürünl er**
+**b. Doğal ürünler**
 
 ---
 
-Madde 804 - İntifa hakkı süresi içinde olgunlaşan doğal ürünler, intifa hakkı sahibine aittir. Ekimi v eya dikimi yapan malik veya intifa hakkı sahibi, olgunlaşan ür ünleri toplayan diğer taraftan, yaptığı giderler için ürünün değerini aşmamak üzere uygun bir bedel isteyebilir. Nitelikleri itibarıyla malın doğal verimi veya ürünü sayılmayan bütünleyici parça ları malike aittir.
+Madde 804- İntifa hakkı süresi içinde olgunlaşan doğal ürünler, intifa hakkı sahibine aittir.
+Ekimi veya dikimi yapan malik veya intifa hakkı sahibi, olgunlaşan ürünleri toplayan
+diğer taraftan, yaptığı giderler için ürünün değerini aşmamak üzere uygun bir bedel isteyebilir.
+Nitelikleri itibarıyla malın doğal verimi veya ürünü sayılmayan bütünleyici parçaları
+malike aittir.
 
 ---
 

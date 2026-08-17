@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**X
-- Toplama yük**
+**X - Toplama yük**
 
 ---
 
-Madde 927 - (1) T aşıma işleri komisyoncusu kendi hesabına yapılmış bir taşıma sözleşmesine dayanarak, eşyayı başka bir gönderenin eşyasıyla birlikte taşıtma hakkına sahiptir. (2) Komisyoncu bu hakkını kullanırsa, toplama yükün taşınması konusunda taşıyıcının veya taşıyanın hak ve yükümlülüklerine sahip olur.
+MADDE 927- (1) Taşıma işleri komisyoncusu kendi hesabına yapılmış bir taşıma
+sözleşmesine dayanarak, eşyayı başka bir gönderenin eşyasıyla birlikte taşıtma hakkına
+sahiptir.
+(2) Komisyoncu bu hakkını kullanırsa, toplama yükün taşınması konusunda taşıyıcının
+veya taşıyanın hak ve yükümlülüklerine sahip olur.
 
 ---
 

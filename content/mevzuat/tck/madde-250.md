@@ -23,10 +23,11 @@ davranışlarla, kendisine veya başkasına yarar sağlanmasına veya bu yolda v
 bir kimseyi ikna eden kamu görevlisi, üç yıldan beş yıla kadar hapis cezası ile cezalandırılır.
 (3) İkinci fıkrada tanımlanan suçun kişinin hatasından yararlanarak işlenmiş olması
 halinde, bir yıldan üç yıla kadar hapis cezasına hükmolunur.
-
-(4) (Ek: 2/7/2012-6352/86 md.) İrtikap edilen menfaatin değeri ve mağdurun
+(4) (Ek: 2/7/2012-6352/86 md.) İrtikap edilen menfaatin değeri ve mağdurun
 ekonomik durumu göz önünde bulundurularak, yukarıdaki fıkralara göre verilecek ceza
 yarısına kadar indirilebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4319
 ---
 
-**Devletin güvenliğine ilişkin belgeler**
+**YEDİNCİ BÖLÜM
+Devlet Sırlarına Karşı Suçlar ve Casusluk
+Devletin güvenliğine ilişkin belgeler**
 
 ---
 
@@ -18,6 +20,8 @@ alan veya çalan kimseye sekiz yıldan oniki yıla kadar hapis cezası verilir.
 (2) Yukarıdaki yazılı fiiller, savaş sırasında işlenmiş veya Devletin savaş hazırlıklarını
 veya savaş etkinliğini veya askerî hareketlerini tehlikeye koymuş ise müebbet hapis cezası
 verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

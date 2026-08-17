@@ -23,6 +23,8 @@ ay daha uzatılabilir.
 Mülki idare amirinin kararı, derhal mahkemenin onayına sunulur. Mahkeme kararını
 en geç yirmidört saat içinde verir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4319
 ---
 
-**Dışişleri Bakanlığınca derhal gerekli görülecek kadrolar**
+**Dışişleri Bakanlığınca derhal gerekli görülecek kadrolar:**
 
 ---
 
 Madde 235 – (Mülga: 31/7/1970 - 1327/73 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

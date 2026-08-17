@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**Değiştirilen, Eklenen ve Yürürlükten Kaldırılan Hükümler**
+**İKİNCİ BÖLÜM
+Değiştirilen, Eklenen ve Yürürlükten Kaldırılan Hükümler**
 
 ---
 
@@ -37,10 +38,7 @@ turizm,” ibaresi eklenmiş; (b) bendinde yer alan “kültür, turizm, gençli
 madde metninden çıkarılmış ve aynı maddeye birinci fıkrasından sonra gelmek üzere
 aşağıdaki fıkra eklenmiş; 12 nci maddesinin birinci fıkrasında yer alan “Kasım ayı toplantısı
 dönem başı toplantısıdır.” Cümlesi ile 15 inci maddesinin üçüncü fıkrasında yer alan “on gün
-54 11/6/2010 tarihli ve 5996 sayılı Kanunun 47 nci maddesiyle, bu maddede yer alan “27.05.2004 tarihli ve 5179 sayılı Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkındaki Kanun” ibaresi madde metninden çıkarılmıştır.
-
-
-içinde” ibaresi madde metninden çıkarılmış; 16 ncı maddesinin birinci fıkrasının birinci
+içinde” ibaresi madde metninden çıkarılmış; 16 ncı maddesinin birinci fıkrasının birinci
 cümlesi “İl genel meclisi, bir yıl görev yapmak üzere üyeleri arasından en az üç, en fazla beş
 kişiden oluşan ihtisas komisyonları kurabilir.” Şeklinde değiştirilmiş; 24 üncü maddesinin
 birinci fıkrasına “Meclis” ibaresinden sonra gelmek üzere “ve komisyon” ibaresi eklenmiş ve
@@ -79,9 +77,7 @@ tarife ücretinin yüzde 50 fazlasını geçemez. Belediyeler temiz şebeke suyu
 yerleşim yerlerindeki kamu kurumlarından herhangi bir ad altında ücret talep edemez. Kamuya ait
 eğitim kurumları, yurtlar, okul pansiyonları ve hastanelerden abonelik, açma kapama, bağlantı,
 teminat, güvence bedeli, katılma payı ve benzeri ad altında herhangi bir ücret talep edilemez.
-
-
-(Ek fıkra:21/12/2019-7201/11 md.) Aboneliği Kültür ve Turizm Bakanlığı, il kültür
+(Ek fıkra:21/12/2019-7201/11 md.) Aboneliği Kültür ve Turizm Bakanlığı, il kültür
 ve turizm müdürlükleri veya Bakanlığa bağlı döner sermaye işletmesi merkez müdürlüğüne
 ait olan müze ve ören yerleri için, belediyeler veya büyükşehir belediyeleri su ve kanalizasyon
 idareleri tarafından belirlenecek su ve atık su tarifeleri, tüketim miktarına bakılmaksızın kamu
@@ -101,7 +97,7 @@ işlemin yürütüldüğü e-Belediye bilgi sistemini kullanır.
 e-Belediye bilgi sistemini kurmaya, işletmeye, veri saklama, veri iletimi ve veri
 paylaşımı ile ilgili politikaları tespit etmeye, çalışma usul ve esaslarını belirlemeye ve bu
 sistem ile ilgili merkezî bir hizmet standardizasyonu oluşturmaya İçişleri ile Çevre ve
-Şehircilik bakanlıkları müştereken yetkilidir.55
+Şehircilik bakanlıkları müştereken yetkilidir.
 Geçici Madde 1- Bu Kanunun yayımı tarihinde personel giderlerine ilişkin olarak 49
 uncu maddede belirtilen oranları aşmış olan belediyelerde bu oranların altına inilinceye kadar,
 boş kadro ve pozisyon bulunması ve bütçe imkânlarının yeterli olması kaydıyla 1.1.2005
@@ -113,10 +109,7 @@ Geçici Madde 2- Norm kadro uygulamasına geçilinceye kadar belediyenin, bağl�
 kuruluşlarının ve mahallî idare birliklerinin memur kadrolarının ihdas ve iptalleri ile boş
 kadro değişiklikleri, İçişleri Bakanlığının teklifi, Maliye Bakanlığı ve Devlet Personel
 Başkanlığının uygun görüşü üzerine Bakanlar Kurulu kararı ile yapılır. Norm kadro
-55 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri Bakanlığı” ibaresi “İçişleri ile Çevre ve Şehircilik bakanlıkları müştereken” şeklinde değiştirilmiştir.
-
-
-uygulamasına geçilinceye kadar, Bakanlar Kurulu tarafından ihdas edilmiş mevcut kadrolar
+uygulamasına geçilinceye kadar, Bakanlar Kurulu tarafından ihdas edilmiş mevcut kadrolar
 49 uncu maddenin üçüncü fıkrasının uygulanması açısından norm kadro kabul edilir.
 Sürekli işçi kadroları ile iş pozisyonları ise norm kadro uygulamasına geçilinceye
 kadar İçişleri Bakanlığının vizesine tâbidir. İçişleri Bakanlığı vize yetkisini valiliklere
@@ -153,9 +146,7 @@ cezalarını geçmemek üzere indirim yapmaya yetkilidir.
 (Ek fıkra: 26/12/2006-5568/8 md.) Bu madde uyarınca takas, mahsup ve kesinti işlemine
 tâbi tutulan borç ve alacaklar için ilgili kanunlarda öngörülen zamanaşımı süreleri işlemez.
 İlgili kuruluşun uzlaşma ve hacizlerin kaldırılmasına dair başvurusunun uzlaşma
-
-
-komisyonunca kabul edilmesini müteakip 31.12.2004 tarihinden önceki borçlar için tatbik
+komisyonunca kabul edilmesini müteakip 31.12.2004 tarihinden önceki borçlar için tatbik
 edilen hacizler kaldırılır.
 Uzlaşma komisyonu Hazine Müsteşarlığının bağlı olduğu Bakan tarafından
 görevlendirilecek bir başkan ile İçişleri Bakanlığı, Maliye Bakanlığı, Devlet Plânlama
@@ -172,7 +163,7 @@ olarak feragat etmeleri kaydıyla, bu maddenin yürürlüğe girdiği tarihten i
 atama işlemleri tamamlanarak göreve başlatılır.
 Geçici Madde 8- (Ek: 10/9/2014-6552/123 md.; İptal: Anayasa Mahkemesinin
 17/6/2015 tarihli ve E.: 2014/194, K.: 2015/55 sayılı Kararı ile.)
-Geçici Madde 9- (Ek: 15/8/2016-KHK-674/40 md.; Aynen Kabul: 10/11/2016
+Geçici Madde 9- (Ek: 15/8/2016-KHK-674/40 md.; Aynen Kabul: 10/11/2016-
 6758/36 md.)
 Bu maddenin yürürlüğe girdiği tarihten önce terör veya terör örgütlerine yardım ve
 yataklık suçları kapsamında haklarında yürütülen soruşturma veya kovuşturma nedeniyle
@@ -190,9 +181,7 @@ bir yıl içinde e-Belediye bilgi sistemine aktarır. İçişleri Bakanı, gerek
 katına kadar uzatabilir.
 Geçici Madde 11- (Ek:21/2/2019-7166/14 md.)
 Konusu suç teşkil etmemek kaydıyla, bu maddenin yürürlük tarihine kadar
-
-
-personelinin çocukları için kreş ve gündüz bakımevi hizmetini bütçesinden hizmet alımı
+personelinin çocukları için kreş ve gündüz bakımevi hizmetini bütçesinden hizmet alımı
 yoluyla karşılamış olan belediyeler, büyükşehir belediyeleri ve bağlı kuruluşlarının yetkili ve
 görevli personeli hakkında idari veya mali yargılama ve takibat yapılamaz, başlamış olanlar
 işlemden kaldırılır.
@@ -213,6 +202,8 @@ giderleri taraflar üzerinde bırakılır ve vekalet ücretine hükmedilmez. Bu 
 girdiği tarihten önce verilen ve infaz edilmeyen mahkeme kararlarına konu alacaklar hakkında
 da bu madde hükümleri uygulanır ve yargılama gideri ile vekalet ücretinin tahsilinden
 vazgeçilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

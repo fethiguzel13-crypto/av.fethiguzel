@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**IV. Vasiliği kabul yüküm lülüğü**
+**IV. Vasiliği kabul yükümlülüğü**
 
 ---
 
-Madde 416 - Vesayet altına alına n kims enin yerleşim y erinde oturanlardan vasiliğe atananlar, bu görevi kabul etmekle yükümlüdürler. Aile mecli since atanma hâlinde vasiliği kabul yükümlülüğü yoktur.
+Madde 416- Vesayet altına alınan kimsenin yerleşim yerinde oturanlardan vasiliğe
+atananlar, bu görevi kabul etmekle yükümlüdürler.
+Aile meclisince atanma hâlinde vasiliği kabul yükümlülüğü yoktur.
 
 ---
 

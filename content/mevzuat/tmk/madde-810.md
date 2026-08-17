@@ -11,7 +11,10 @@ wordCount: 4303
 
 ---
 
-Madde 810 - İntifa hakkı sahibi, kendisine tanınan uygun süre içinde güvence gö stermez veya hakkın konusu olan malı malikin itiraz etmesine r ağmen hukuka aykırı şekilde kullanmaya devam ederse; sulh hâkimi, yeni bir karara kadar in tifa hakkı sahibinin zilyetliğini kaldırarak hakkın konusunu atayacağı bir kayyıma tevdi eder.
+Madde 810- İntifa hakkı sahibi, kendisine tanınan uygun süre içinde güvence göstermez
+veya hakkın konusu olan malı malikin itiraz etmesine rağmen hukuka aykırı şekilde kullanmaya
+devam ederse; sulh hâkimi, yeni bir karara kadar intifa hakkı sahibinin zilyetliğini kaldırarak
+hakkın konusunu atayacağı bir kayyıma tevdi eder.
 
 ---
 

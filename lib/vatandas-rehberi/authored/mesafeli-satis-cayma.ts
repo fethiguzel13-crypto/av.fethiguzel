@@ -1,0 +1,156 @@
+import type { VatandasArticle } from '../types';
+
+/**
+ * Kaynak doğrulaması — content-packs/tkhk.json.gz resmî metninden:
+ *   TKHK m.15  ayıplı hizmette seçimlik haklar · masrafların sağlayıcıda
+ *              olması · TBK uyarınca ayrıca tazminat
+ *   TKHK m.48  mesafeli sözleşmenin tanımı · ön bilgilendirme ve ispat yükü
+ *              · teslim süresi: her hâlükârda otuz günü geçemez (7392 s.K.)
+ *              · süreye uyulmazsa fesih hakkı
+ *   TKHK m.11  ayıplı malda seçimlik haklar (ayrıca doğrulandı)
+ *
+ * Doğrulama: node scripts/madde.mjs tkhk 15 · 48
+ *
+ * NOT: On dört günlük cayma süresi yönetmelikte ve m.48'in devam eden
+ * fıkralarında düzenlenir; bu paketteki metin o fıkraları içermediğinden
+ * metinde SÜRE VERİLMEZ, cayma hakkının varlığı ve ispat yükü anlatılır.
+ */
+export const mesafeliSatisCayma: VatandasArticle = {
+  slug: 'mesafeli-satis-ve-teslim-suresi',
+  title: 'İnternetten Alışveriş: Teslim Süresi, Ön Bilgilendirme ve Ayıplı Hizmet',
+  description:
+    'İnternetten aldığım ürün gelmedi ne yaparım, teslim süresi kaç gündür, satıcı beni bilgilendirmek zorunda mı? TKHK m.48 ve m.15 çerçevesinde.',
+  h1: 'İnternetten alışverişte haklarınız',
+  keywords: [
+    'mesafeli satış',
+    'internetten alışveriş',
+    'teslim süresi 30 gün',
+    'ürün gelmedi',
+    'ayıplı hizmet',
+    'ön bilgilendirme',
+  ],
+  category: 'Tüketici',
+  role: 'pillar',
+  related: ['tuketici-hakem-heyeti-basvurusu'],
+  links: [
+    { label: 'TKHK m.48 — Mesafeli sözleşmeler', href: '/mevzuat/tkhk/madde-48' },
+    { label: 'TKHK m.15 — Ayıplı hizmette seçimlik haklar', href: '/mevzuat/tkhk/madde-15' },
+    { label: 'TKHK m.11 — Ayıplı malda seçimlik haklar', href: '/mevzuat/tkhk/madde-11' },
+    { label: 'TKHK m.68 — Hakem heyetine başvuru', href: '/mevzuat/tkhk/madde-68' },
+  ],
+  lead:
+    'Kişiye özel hazırlananlar dışındaki mal satışlarında teslim süresi her hâlükârda otuz günü geçemez; satıcı bu süre içinde edimini yerine getirmezse tüketici sözleşmeyi feshedebilir. Tüketicinin bilgilendirildiğini ispat yükü satıcıdadır.',
+  keyInsight:
+    'İspat yükü tersine çevrilmiştir: Satıcı, sizi usulüne uygun bilgilendirdiğini kanıtlamak zorundadır — siz bilgilendirilmediğinizi kanıtlamak zorunda değilsiniz.',
+  sections: [
+    {
+      heading: 'Mesafeli sözleşme nedir?',
+      paragraphs: [
+        'Tanım yüz yüze olmama esasına dayanır. TKHK m.48 uyarınca mesafeli sözleşme, satıcı veya sağlayıcı ile tüketicinin eş zamanlı fiziksel varlığı olmaksızın, mal veya hizmetlerin uzaktan pazarlanmasına yönelik olarak oluşturulmuş bir sistem çerçevesinde kurulan sözleşmedir.',
+        'Kapsam yalnız internet sitelerinden ibaret değildir. Sözleşmenin kurulduğu ana kadar ve kurulduğu an da dâhil olmak üzere uzaktan iletişim araçlarının kullanılması yeterlidir; telefonla sipariş, uygulama üzerinden alışveriş ve mesajla verilen sipariş de bu kapsamdadır.',
+        'Belirleyici olan, satıcının bunun için kurulmuş bir sisteme sahip olmasıdır. Arada bir uzaktan satış yapan bir kişi ile bu iş için sistem kurmuş bir işletme aynı çerçevede değerlendirilmez.',
+      ],
+    },
+    {
+      heading: 'Ön bilgilendirme ve ispat yükü',
+      paragraphs: [
+        'Sipariş verilmeden önce yapılması gereken bir bilgilendirme vardır. Tüketici, mesafeli sözleşmeyi ya da buna karşılık gelen herhangi bir teklifi kabul etmeden önce ayrıntıları yönetmelikte belirlenen hususlarda ve siparişi onaylandığı takdirde ödeme yükümlülüğü altına gireceği konusunda açık ve anlaşılır şekilde bilgilendirilir.',
+        'Kanun ispat yükünü açıkça satıcıya bırakır: Tüketicinin bilgilendirildiğine ilişkin ispat yükü satıcı veya sağlayıcıya aittir.',
+        'Bu kural, tüketici uyuşmazlıklarında dengeyi belirgin biçimde değiştirir. Satıcı, sitesinde bir metin bulunduğunu söylemekle yetinemez; tüketiciye ulaştığını ve onaylandığını gösteren kaydı sunmak zorundadır.',
+        'Uygulamada bu kayıt, sipariş onay ekranındaki işaretleme ile gönderilen bilgilendirme e-postasıdır. Tüketici açısından ise siparişe ilişkin tüm e-postaların saklanması yeterli olur.',
+      ],
+    },
+    {
+      heading: 'Teslim süresi: otuz gün',
+      paragraphs: [
+        'Kanun teslim için üst sınır koyar. Satıcı veya sağlayıcı, tüketicinin siparişinin kendisine ulaştığı andan itibaren taahhüt edilen süre içinde edimini yerine getirir.',
+        '7392 sayılı Kanunla değiştirilen cümle sınırı netleştirir: Tüketicinin isteği veya kişisel ihtiyaçları doğrultusunda hazırlanan mallara ilişkin sözleşmeler hariç, mal satışlarında bu süre her hâlükârda otuz günü geçemez.',
+        'Kişiye özel üretilen ürünler bu sınırın dışındadır. İsim işlemeli, ölçüye göre üretilen ya da özel olarak hazırlanan mallarda taahhüt edilen süre esas alınır.',
+        'Süreye uyulmamasının sonucu da yazılıdır: Satıcı veya sağlayıcının bu süre içinde edimini yerine getirmemesi durumunda tüketici sözleşmeyi feshedebilir.',
+        'Fesih hakkı kendiliğinden doğar ve satıcının kabulüne bağlı değildir. Feshi yazılı olarak bildirmek, sonradan çıkacak tartışmayı baştan keser.',
+      ],
+    },
+    {
+      heading: 'Ayıplı mal ve ayıplı hizmet ayrımı',
+      paragraphs: [
+        'Kanun malda ve hizmette ayrı seçimlik haklar tanır; ikisini karıştırmak yanlış talebe yol açar.',
+        'Ayıplı malda TKHK m.11 dört seçenek sunar: sözleşmeden dönme, ayıp oranında bedelden indirim, ücretsiz onarım ve ayıpsız misliyle değiştirme.',
+        'Ayıplı hizmette ise m.15 devreye girer. Hizmetin ayıplı ifa edildiği durumlarda tüketici; hizmetin yeniden görülmesi, hizmet sonucu ortaya çıkan eserin ücretsiz onarımı, ayıp oranında bedelden indirim veya sözleşmeden dönme haklarından birini sağlayıcıya karşı kullanmakta serbesttir.',
+        'Her iki hâlde de seçim tüketiciye aittir ve sağlayıcı tercih edilen talebi yerine getirmekle yükümlüdür. Seçimlik hakların kullanılması nedeniyle ortaya çıkan tüm masraflar sağlayıcı tarafından karşılanır.',
+        'Tazminat hakkı ayrıca saklıdır: Tüketici, bu seçimlik haklarından biri ile birlikte Türk Borçlar Kanunu hükümleri uyarınca tazminat da talep edebilir.',
+      ],
+      bullets: [
+        'Ayıplı MAL: dönme · bedelden indirim · ücretsiz onarım · ayıpsız misliyle değişim',
+        'Ayıplı HİZMET: yeniden görülme · eserin ücretsiz onarımı · bedelden indirim · dönme',
+        'Her iki hâlde masraflar sağlayıcıya ait',
+        'Seçimlik hakla birlikte tazminat da istenebilir',
+      ],
+    },
+    {
+      heading: 'Cayma hakkı',
+      paragraphs: [
+        'Mesafeli sözleşmelerde tüketiciye, gerekçe göstermeksizin ve cezai şart ödemeksizin sözleşmeden cayma hakkı tanınmıştır. Bu hak, ürünü görmeden alma riskinin karşılığıdır.',
+        'Cayma süresi ve kullanım usulü ilgili yönetmelikte ayrıntılı olarak düzenlenir. Süre, malın teslim alındığı tarihten işlemeye başlar.',
+        'Bazı mallar cayma hakkının kapsamı dışındadır. Kişiye özel hazırlananlar, çabuk bozulabilenler ile ambalajı açıldığında iadesi sağlık ve hijyen açısından uygun olmayan ürünler bunların başında gelir.',
+        'Cayma bildirimini yazılı ya da kalıcı veri saklayıcısıyla yapmak ve tarihini belgelemek önem taşır; süre bu tarihe göre değerlendirilir.',
+      ],
+    },
+    {
+      heading: 'Uyuşmazlık çıkarsa',
+      paragraphs: [
+        'Önce satıcıyla yazılı iletişim kurulmalıdır. Talebinizi ve dayanağınızı e-posta ile bildirmek, hem çözüm ihtimalini artırır hem sonraki aşamada delil oluşturur.',
+        'Sonuç alınamazsa tüketici hakem heyetine başvurulur. Değeri kanunda belirlenen parasal sınırın altındaki uyuşmazlıklarda başvuru zorunludur; sınırın üzerindekiler için tüketici mahkemesine gidilir.',
+        'Ödeme kredi kartıyla yapıldıysa banka nezdinde itiraz süreci de ayrıca işletilebilir; bu, hukuki yolların yerine geçmez ama pratik sonuç verebilir.',
+      ],
+    },
+  ],
+  steps: [
+    'Sipariş onayı, ön bilgilendirme formu ve ödeme kaydını saklayın.',
+    'Taahhüt edilen teslim tarihini not edin; mal satışlarında üst sınır otuz gündür.',
+    'Süre aşıldıysa sözleşmeyi feshettiğinizi yazılı olarak bildirin.',
+    'Ürün ayıplıysa hangi seçimlik hakkı kullandığınızı açıkça belirtin.',
+    'Hizmet ayıplıysa m.15’teki seçeneklerden birini seçin — mal hükümleriyle karıştırmayın.',
+    'Satıcıyla yazışmayı e-posta üzerinden yürütün.',
+    'Sonuç alınamazsa parasal sınıra göre hakem heyetine ya da tüketici mahkemesine başvurun.',
+  ],
+  checklist: [
+    'Sipariş onay e-postası',
+    'Ön bilgilendirme formu',
+    'Ödeme kaydı veya kart ekstresi',
+    'Kargo takip ve teslim kaydı',
+    'Ürünün ayıbını gösteren fotoğraf veya rapor',
+    'Satıcıyla yapılan yazışmalar',
+  ],
+  faq: [
+    {
+      q: 'İnternetten aldığım ürün gelmedi, ne yapabilirim?',
+      a: 'Mal satışlarında teslim süresi her hâlükârda otuz günü geçemez. Satıcı bu süre içinde edimini yerine getirmezse sözleşmeyi feshedebilirsiniz.',
+    },
+    {
+      q: 'Otuz günlük sınır her ürün için geçerli mi?',
+      a: 'Hayır. Tüketicinin isteği veya kişisel ihtiyaçları doğrultusunda hazırlanan mallar bu sınırın dışındadır; orada taahhüt edilen süre esas alınır.',
+    },
+    {
+      q: 'Satıcı beni bilgilendirmediğini nasıl ispatlarım?',
+      a: 'İspatlamak zorunda değilsiniz. Tüketicinin bilgilendirildiğine ilişkin ispat yükü satıcı veya sağlayıcıya aittir.',
+    },
+    {
+      q: 'Ürün ayıplı çıktı, ne isteyebilirim?',
+      a: 'TKHK m.11 uyarınca sözleşmeden dönme, bedelden indirim, ücretsiz onarım veya ayıpsız misliyle değiştirme. Seçim size aittir.',
+    },
+    {
+      q: 'Aldığım hizmet kötüydü, malla aynı haklara mı sahibim?',
+      a: 'Hizmette ayrı bir liste vardır: hizmetin yeniden görülmesi, ortaya çıkan eserin ücretsiz onarımı, bedelden indirim veya sözleşmeden dönme.',
+    },
+    {
+      q: 'Masrafları ben mi karşılarım?',
+      a: 'Hayır. Seçimlik hakların kullanılması nedeniyle ortaya çıkan tüm masraflar sağlayıcı tarafından karşılanır.',
+    },
+    {
+      q: 'Ayrıca tazminat isteyebilir miyim?',
+      a: 'Evet. Seçimlik haklardan biriyle birlikte Türk Borçlar Kanunu hükümleri uyarınca tazminat da talep edilebilir.',
+    },
+  ],
+  updated: '2026-08-16',
+  sitemapPriority: 0.92,
+};

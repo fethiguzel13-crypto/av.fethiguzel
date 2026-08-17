@@ -17,9 +17,10 @@ açık ve açılması izne bağlı yerlerde onsekiz yaşından küçükler çal�
 Polis bar, pavyon, gazino, meyhane gibi içkili yerler ile kıraathane ve oyun oynatılan
 benzeri yerlere yanlarında veli ve vasileri olsa bile onsekiz yaşını doldurmamış küçüklerin
 girmesini meneder.
+Bu madde hükümlerine aykırı hareket edenler hakkında 17 nci, işyerleri hakkında da 6
+ncı madde hükümlerine göre işlem yapılır.
 
-
-Bu madde hükümlerine aykırı hareket edenler hakkında 17 nci, işyerleri hakkında da 6
+---
 
 ### Akademik Yorum ve Analiz
 

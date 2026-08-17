@@ -1,34 +1,37 @@
 {
-  "version": 1,
+  "version": 2,
   "brand": "Av. Fethi Güzel",
   "site": "https://www.avfethiguzel.com",
   "scheme": "avfethiguzel",
   "localeOrder": ["tr", "en", "de", "fr", "ar"],
   "defaultLocale": "tr",
+  "_note": "Sekmeler app-src/src/lib/nav.ts içinde tanımlıdır; her uygulama yalnız kendi içeriğinde gezinir. Derin bağlantı yolları scripts/build-flavor.mjs → LINK_PATHS.",
   "apps": [
     {
       "id": "portal",
       "packageId": "com.avfethiguzel.hukuk",
-      "versionName": "1.2.0",
-      "versionCode": 3,
+      "versionName": "2.0.0",
+      "versionCode": 4,
+      "_versionNote": "Önceki mimaride versionCode 3'e kadar gelinmişti; çakışma olmasın diye 4'ten devam.",
       "name": {
-        "tr": "Av. Fethi Güzel",
-        "en": "Fethi Güzel Law",
-        "de": "Fethi Güzel Recht",
-        "fr": "Fethi Güzel Droit",
-        "ar": "فتحي كوزيل للقانون"
+        "tr": "Mevzuat — Kanun Maddeleri",
+        "en": "Turkish Statutes Offline",
+        "de": "Türkische Gesetze Offline",
+        "fr": "Textes de loi turcs",
+        "ar": "التشريعات التركية"
       },
       "short": {
-        "tr": "Mevzuat, şerh, hesap ve içtihat.",
-        "en": "Statutes, commentary, calculators and case law.",
-        "de": "Gesetze, Kommentare, Rechner und Rechtsprechung.",
-        "fr": "Textes, commentaires, calculateurs et jurisprudence.",
-        "ar": "تشريعات وشروح وحاسبات واجتهاد."
+        "tr": "46 kanun, 8.087 madde — tamamı çevrimdışı.",
+        "en": "46 codes, 8,087 articles — fully offline.",
+        "de": "46 Gesetze, 8.087 Artikel — komplett offline.",
+        "fr": "46 codes, 8 087 articles — hors ligne.",
+        "ar": "٤٦ قانونًا و٨٠٨٧ مادة — دون إنترنت."
       },
-      "path": "/",
+      "path": "/mevzuat",
       "accent": "#2E4036",
-      "role": "hub",
-      "tabs": ["home", "search", "guide", "calc", "cases"]
+      "role": "reference",
+      "offline": "full",
+      "needsNetwork": false
     },
     {
       "id": "hesap",
@@ -43,16 +46,17 @@
         "ar": "الحاسبة القانونية"
       },
       "short": {
-        "tr": "Kıdem, faiz, harç ve 30+ hukuki hesaplama.",
-        "en": "Severance, interest, fees and 30+ legal calculators.",
-        "de": "Abfindung, Zinsen, Gebühren und 30+ Rechner.",
-        "fr": "Indemnités, intérêts, frais et 30+ calculateurs.",
-        "ar": "تعويضات وفوائد ورسوم وأكثر من 30 حاسبة."
+        "tr": "Kıdem, faiz, harç — 33 hesaplama, çevrimdışı.",
+        "en": "Severance, interest, fees — 33 calculators, offline.",
+        "de": "Abfindung, Zinsen, Gebühren — 33 Rechner, offline.",
+        "fr": "Indemnités, intérêts, frais — 33 calculateurs.",
+        "ar": "تعويضات وفوائد ورسوم — ٣٣ حاسبة."
       },
       "path": "/hesaplama",
       "accent": "#CC5833",
       "role": "tool",
-      "tabs": ["calc", "home", "guide", "cases"]
+      "offline": "full",
+      "needsNetwork": false
     },
     {
       "id": "icthat",
@@ -67,16 +71,17 @@
         "ar": "الاجتهاد اليومي"
       },
       "short": {
-        "tr": "Günlük Yargıtay, Danıştay ve AYM özetleri.",
-        "en": "Daily Court of Cassation, Council of State and Constitutional Court briefs.",
-        "de": "Tägliche Zusammenfassungen höchster Gerichte.",
-        "fr": "Résumés quotidiens des hautes juridictions.",
-        "ar": "ملخصات يومية لأعلى المحاكم."
+        "tr": "Günlük karar özeti ve 3.800 kararlık arşiv.",
+        "en": "Daily court briefs and a 3,800-decision archive.",
+        "de": "Tägliche Zusammenfassungen und 3.800 Entscheidungen.",
+        "fr": "Résumés quotidiens et 3 800 décisions archivées.",
+        "ar": "ملخصات يومية وأرشيف من ٣٨٠٠ قرار."
       },
       "path": "/icthat",
       "accent": "#1B4F72",
       "role": "research",
-      "tabs": ["cases", "search", "home", "calc"]
+      "offline": "cache",
+      "needsNetwork": true
     },
     {
       "id": "rehber",
@@ -91,28 +96,17 @@
         "ar": "قانون المواطن"
       },
       "short": {
-        "tr": "Adım adım vatandaş rehberi: merci, süre, belge.",
-        "en": "Step-by-step citizen guides: forum, deadline, documents.",
-        "de": "Schritt-für-Schritt: Zuständigkeit, Frist, Unterlagen.",
-        "fr": "Guides pas à pas: instance, délai, documents.",
+        "tr": "Adım adım rehber: merci, süre, belge.",
+        "en": "Step-by-step guides: forum, deadline, documents.",
+        "de": "Schritt für Schritt: Zuständigkeit, Frist, Unterlagen.",
+        "fr": "Guides pas à pas : instance, délai, documents.",
         "ar": "أدلة خطوة بخطوة: الجهة والمدة والمستندات."
       },
       "path": "/bilgi",
       "accent": "#6B4F3A",
       "role": "citizen",
-      "tabs": ["guide", "calc", "home", "cases"]
+      "offline": "full",
+      "needsNetwork": false
     }
-  ],
-  "deepLinks": {
-    "portal": "avfethiguzel://portal",
-    "hesap": "avfethiguzel://hesap",
-    "icthat": "avfethiguzel://icthat",
-    "rehber": "avfethiguzel://rehber",
-    "web": {
-      "portal": "https://www.avfethiguzel.com/",
-      "hesap": "https://www.avfethiguzel.com/hesaplama",
-      "icthat": "https://www.avfethiguzel.com/icthat",
-      "rehber": "https://www.avfethiguzel.com/bilgi"
-    }
-  }
+  ]
 }

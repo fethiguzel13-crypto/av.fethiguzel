@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**4 – Taşınmazlar hakkında:41**
+**4 – Taşınmazlar hakkında:**
 
 ---
 
@@ -23,6 +23,9 @@ haber verilir.
 maddesi uygulanır.
 I – Taşınmaz haczinin şümulü,
 II – Alacakları rehinle sağlanmış alacaklıların mahfuz hakları,
+III – İdare ve işletme.
+
+---
 
 ### Akademik Yorum ve Analiz
 

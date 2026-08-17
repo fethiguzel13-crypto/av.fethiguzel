@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**Müflisin tasarrufa ehliyetsizliği ve poliçe ödenmesi hükümleri**
+**Müflisin tasarrufa ehliyetsizliği ve poliçe ödenmesi hükümleri:**
 
 ---
 
@@ -17,6 +17,8 @@ tasarrufu alacaklılara karşı hükümsüzdür.
 üzerine keşide olunmuş bir poliçe iflasın ilanından evvel vadesinde müflis tarafından ödenmiş
 olursa iflastan haberdar olmıyan ve ödemenin reddi halinde üçüncü bir şahsa rücu hakkını
 kullanabilecek vaziyette bulunan hamilden ödenen meblağ geri alınamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

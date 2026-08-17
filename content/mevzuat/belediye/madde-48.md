@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Belediye teşkilâtı**
+**ÜÇÜNCÜ KISIM
+Belediye Teşkilâtı
+BİRİNCİ BÖLÜM
+Belediye Teşkilâtı ve Personeli
+Belediye teşkilâtı**
 
 ---
 
@@ -18,6 +22,8 @@ gelişme potansiyeli dikkate alınarak, norm kadro ilke ve standartlarına uygun
 gerektiğinde sağlık, itfaiye, imar, insan kaynakları, hukuk işleri ve ihtiyaca göre diğer birimler
 oluşturulabilir. Bu birimlerin kurulması, kaldırılması veya birleştirilmesi belediye meclisinin
 kararıyla olur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

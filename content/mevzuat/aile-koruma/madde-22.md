@@ -15,6 +15,8 @@ MADDE 22 – (1) Bu Kanunun uygulanmasına ilişkin usul ve esaslar altı ay iç
 Adalet, İçişleri, Maliye, Milli Eğitim ve Sağlık Bakanlıklarının görüşleri alınmak suretiyle
 Bakanlık tarafından hazırlanan yönetmeliklerle düzenlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

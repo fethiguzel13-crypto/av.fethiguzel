@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**VII
-- Ortakların ek ödemeleri**
+**VII - Ortakların ek ödemeleri**
 
 ---
 
-Madde 298 - (1) Bir kollektif şirk etin varlığı, borçlarının tamamına yetmediği takdirde, kalan şirket borçlarının ödenmesini sağlamak için tasfiye memurları ortaklara başvururlar.
+MADDE 298- (1) Bir kollektif şirketin varlığı, borçlarının tamamına yetmediği
+takdirde, kalan şirket borçlarının ödenmesini sağlamak için tasfiye memurları ortaklara
+başvururlar.
 
 ---
 

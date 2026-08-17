@@ -15,6 +15,8 @@ Madde 57 – (1) Yemin ile dinlenen tanığın aynı soruşturma veya kovuşturm
 evresinde tekrar dinlenmesi gerektiğinde, yeniden yemin verilmeyip önceki yemini
 hatırlatılmakla yetinilebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

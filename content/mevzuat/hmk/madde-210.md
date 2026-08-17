@@ -15,6 +15,8 @@ MADDE 210- (1) Güvenli elektronik imzayla oluşturulmuş verinin inkârı hâli
 hâkim tarafından veriyi inkâr eden taraf dinlendikten sonra bir kanaate varılamamışsa,
 bilirkişi incelemesine başvurulur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

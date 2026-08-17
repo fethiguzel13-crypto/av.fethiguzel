@@ -12,7 +12,13 @@ wordCount: 4269
 
 ---
 
-Madde 422 - Vasiliğe atanan kişi, bu durumun kendisine tebliğinde n başlayarak on gün içinde vasilikten kaçınma hakkını kullanabilir. İlgili olan h erkes, vasinin atandığını ö ğrendiği günden başlayarak on gün için de ata manın kanuna aykırı olduğunu ileri sürebilir. Vesayet makamı, vasilikten kaçınma veya itiraz sebebini ye rinde görürse yeni bir vasi atar; yerinde görmediği takdir de, bu konudaki görüşü ile birlikte gerekli kararı vermek üzere durumu deneti m makamına bildir ir.
+Madde 422- Vasiliğe atanan kişi, bu durumun kendisine tebliğinden başlayarak on gün
+içinde vasilikten kaçınma hakkını kullanabilir.
+İlgili olan herkes, vasinin atandığını öğrendiği günden başlayarak on gün içinde atamanın
+kanuna aykırı olduğunu ileri sürebilir.
+Vesayet makamı, vasilikten kaçınma veya itiraz sebebini yerinde görürse yeni bir vasi
+atar; yerinde görmediği takdirde, bu konudaki görüşü ile birlikte gerekli kararı vermek üzere
+durumu denetim makamına bildirir.
 
 ---
 

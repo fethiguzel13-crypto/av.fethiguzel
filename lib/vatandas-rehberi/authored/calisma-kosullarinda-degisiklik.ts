@@ -1,0 +1,151 @@
+import type { VatandasArticle } from '../types';
+
+/**
+ * Kaynak doğrulaması — content-packs/is-kanunu.json.gz resmî metninden:
+ *   4857 m.6   işyeri devri · sözleşmelerin hak ve borçlarıyla geçmesi
+ *              · hizmet süresinde devreden yanında işe başlama tarihi
+ *              · birlikte sorumluluk · devreden için iki yıllık sınır
+ *   4857 m.22  esaslı değişiklikte yazılı bildirim · ALTI İŞGÜNÜ içinde
+ *              yazılı kabul · kabul edilmezse geçerli neden ve bildirim
+ *                süresiyle fesih · m.17-21 çerçevesinde dava
+ *              · anlaşmayla her zaman değişiklik · geçmişe etki yasağı
+ *
+ * Doğrulama: node scripts/madde.mjs is-kanunu 6 · 22
+ */
+export const calismaKosullarindaDegisiklik: VatandasArticle = {
+  slug: 'calisma-kosullarinda-degisiklik',
+  title: 'Çalışma Koşullarında Değişiklik ve İşyeri Devri',
+  description:
+    'İşveren görev yerimi veya ücretimi tek taraflı değiştirebilir mi, altı işgünü kuralı nedir, işyeri devredilirse haklarım ne olur? 4857 sayılı Kanun m.6 ve m.22 çerçevesinde.',
+  h1: 'Çalışma koşulları tek taraflı değiştirilebilir mi?',
+  keywords: [
+    'çalışma koşullarında esaslı değişiklik',
+    'görev yeri değişikliği',
+    'ücret düşürme',
+    'altı işgünü',
+    'işyeri devri',
+    'nakil',
+  ],
+  category: 'İş',
+  role: 'pillar',
+  related: ['hakli-nedenle-fesih-ve-alti-is-gunu', 'ise-iade-davasi-nasil-acilir'],
+  links: [
+    { label: 'İş K. m.6 — İşyerinin devri', href: '/mevzuat/is-kanunu/madde-6' },
+    { label: 'İş K. m.22 — Çalışma koşullarında değişiklik', href: '/mevzuat/is-kanunu/madde-22' },
+    { label: 'İş K. m.17 — Süreli fesih', href: '/mevzuat/is-kanunu/madde-17' },
+  ],
+  lead:
+    'İşveren çalışma koşullarında esaslı bir değişikliği ancak durumu işçiye yazılı olarak bildirerek yapabilir. Bu şekle uygun yapılmayan ve işçi tarafından altı işgünü içinde yazılı olarak kabul edilmeyen değişiklikler işçiyi bağlamaz.',
+  keyInsight:
+    'Sessiz kalmak kabul sayılmaz: Kanun yazılı kabul arar, bu yüzden cevap vermemek değişikliği geçerli hâle getirmez.',
+  sections: [
+    {
+      heading: 'Esaslı değişiklik nedir?',
+      paragraphs: [
+        '4857 m.22 kaynakları geniş tutar. Çalışma koşulları; iş sözleşmesiyle, iş sözleşmesinin eki niteliğindeki personel yönetmeliği ve benzeri kaynaklarla ya da işyeri uygulamasıyla oluşabilir.',
+        'İşyeri uygulamasının sayılması önemlidir. Yazılı bir düzenleme olmasa dahi, düzenli ve tekrarlanan bir uygulama çalışma koşulu hâline gelir ve tek taraflı olarak kaldırılamaz.',
+        'Esaslılık ölçütü somut olaya göre değerlendirilir. Ücretin düşürülmesi, görev yerinin belirgin biçimde değiştirilmesi, unvan ve görev tanımının daraltılması ile çalışma süresi düzeninin değiştirilmesi tipik örneklerdir.',
+      ],
+    },
+    {
+      heading: 'Usul: yazılı bildirim ve altı işgünü',
+      paragraphs: [
+        'Kanun iki aşamalı bir usul kurar. Birincisi işverenin yükümlülüğüdür: İşveren esaslı değişikliği ancak durumu işçiye yazılı olarak bildirmek suretiyle yapabilir.',
+        'İkincisi işçinin cevabıdır: Bu şekle uygun olarak yapılmayan ve işçi tarafından altı işgünü içinde yazılı olarak kabul edilmeyen değişiklikler işçiyi bağlamaz.',
+        'İki nokta özellikle dikkat ister. Süre iş günü esasına göre işler; hafta sonu ve resmî tatiller sayılmaz. Kabulün de yazılı olması gerekir; sözlü onay ya da sessizlik kabul yerine geçmez.',
+        'Bu düzenleme işçiyi korur. Değişikliğe cevap vermeyen işçi, değişikliği kabul etmiş sayılmaz ve eski koşullarla çalışmaya devam eder.',
+      ],
+      bullets: [
+        'Değişiklik yazılı olarak bildirilmeli',
+        'İşçinin kabulü de yazılı olmalı',
+        'Süre: altı işgünü — hafta sonu ve tatiller sayılmaz',
+        'Sessizlik kabul değildir',
+      ],
+    },
+    {
+      heading: 'İşçi kabul etmezse ne olur?',
+      paragraphs: [
+        'Reddetme, iş ilişkisini kendiliğinden bitirmez ama işverene bir yol açar. İşçi değişiklik önerisini bu süre içinde kabul etmezse, işveren değişikliğin geçerli bir nedene dayandığını veya fesih için başka bir geçerli nedenin bulunduğunu yazılı olarak açıklamak ve bildirim süresine uymak suretiyle iş sözleşmesini feshedebilir.',
+        'Bu fesih derhal fesih değildir. İşveren bildirim süresine uymak zorundadır; uymadığı takdirde ihbar tazminatı doğar.',
+        'İşçi bu noktada korumasız kalmaz: İşçi bu durumda m.17 ila 21 hükümlerine göre dava açabilir. Yani iş güvencesi kapsamındaki işçi, feshin geçerli nedene dayanmadığını ileri sürerek işe iade davası açabilir.',
+        'Bu yapı, işverenin değişikliği dayatmasını değil, gerekçelendirmesini zorunlu kılar. Geçerli neden gösterilemezse fesih geçersiz sayılır.',
+      ],
+    },
+    {
+      heading: 'Anlaşarak değişiklik ve geçmişe etki yasağı',
+      paragraphs: [
+        'Tarafların uzlaşması her zaman mümkündür: Taraflar aralarında anlaşarak çalışma koşullarını her zaman değiştirebilir.',
+        'Buna karşılık kanun bir sınır koyar ve bu sınır anlaşmayla da aşılamaz: Çalışma koşullarında değişiklik geçmişe etkili olarak yürürlüğe konulamaz.',
+        'Yani geçmiş dönem için doğmuş bir hak, sonradan yapılan bir değişiklikle ortadan kaldırılamaz. Geçmiş aylara ilişkin fazla mesai ya da prim hakkı, yeni bir düzenlemeyle geriye dönük olarak silinemez.',
+      ],
+    },
+    {
+      heading: 'İşyeri devrinde ne oluyor?',
+      paragraphs: [
+        'Devir, iş sözleşmelerini sona erdirmez. 4857 m.6 uyarınca işyeri veya işyerinin bir bölümü hukukî bir işleme dayalı olarak başka birine devredildiğinde, devir tarihinde mevcut olan iş sözleşmeleri bütün hak ve borçları ile birlikte devralana geçer.',
+        'Kıdem de sıfırlanmaz. Devralan işveren, işçinin hizmet süresinin esas alındığı haklarda, işçinin devreden işveren yanında işe başladığı tarihe göre işlem yapmakla yükümlüdür.',
+        'Geçmiş borçlarda sorumluluk paylaşılır: Devirden önce doğmuş olan ve devir tarihinde ödenmesi gereken borçlardan devreden ve devralan işveren birlikte sorumludur.',
+        'Devredenin sorumluluğu süresizdir sanılır ama değildir. Bu yükümlülüklerden devreden işverenin sorumluluğu devir tarihinden itibaren iki yıl ile sınırlıdır.',
+        'İşçi açısından pratik sonuç şudur: Devirden sonra iki yıl içinde talepte bulunursa her iki işverene birden başvurabilir; iki yıl geçtikten sonra muhatap yalnız devralandır.',
+      ],
+    },
+    {
+      heading: 'Ne yapmalısınız?',
+      paragraphs: [
+        'Değişiklik bildirimi elinize geçtiğinde ilk yapılacak, tarihini belgelemektir. Altı işgünlük süre o tarihten işler.',
+        'İkincisi kararı yazılı vermektir. Kabul ediyorsanız yazılı kabul, etmiyorsanız yazılı ret verin ve tebliğ ettiğinizi belgeleyin.',
+        'Üçüncüsü, reddin ardından gelen feshi denetlemektir. Fesih bildiriminde geçerli neden yazılı olarak açıklanmış mı, bildirim süresine uyulmuş mu; bu iki soru dava stratejisini belirler.',
+        'Devir hâlinde ise ilk kontrol edilecek şey kıdem başlangıcıdır. Yeni işverenin bordrosunda işe başlama tarihi devir tarihi olarak görünüyorsa, bu düzeltilmesi gereken bir hatadır.',
+      ],
+    },
+  ],
+  steps: [
+    'Değişiklik bildiriminin yazılı olup olmadığını ve tarihini tespit edin.',
+    'Altı işgünlük süreyi hesaplayın; hafta sonu ve resmî tatiller sayılmaz.',
+    'Kararınızı yazılı verin — kabul de ret de yazılı olmalı.',
+    'Ret verdiyseniz gelen fesih bildirimini inceleyin: geçerli neden yazılı açıklanmış mı, bildirim süresine uyulmuş mu.',
+    'İş güvencesi kapsamındaysanız süresi içinde arabulucuya başvurup işe iade yolunu değerlendirin.',
+    'İşyeri devrinde bordronuzdaki işe başlama tarihinin ilk işverendeki tarih olduğunu kontrol edin.',
+    'Devirden önce doğmuş alacaklarınız için iki yıl içinde her iki işverene de başvurabileceğinizi göz önünde bulundurun.',
+  ],
+  checklist: [
+    'Değişiklik bildirimi ve tebliğ tarihi',
+    'İş sözleşmesi ve personel yönetmeliği',
+    'İşyeri uygulamasını gösteren kayıtlar',
+    'Yazılı kabul veya ret beyanınız',
+    'Fesih bildirimi — varsa',
+    'Devir hâlinde SGK hizmet dökümü ve bordrolar',
+  ],
+  faq: [
+    {
+      q: 'İşveren görev yerimi tek taraflı değiştirebilir mi?',
+      a: 'Esaslı bir değişiklik ise ancak yazılı bildirimle önerebilir. Altı işgünü içinde yazılı olarak kabul etmezseniz değişiklik sizi bağlamaz.',
+    },
+    {
+      q: 'Cevap vermezsem kabul etmiş sayılır mıyım?',
+      a: 'Hayır. Kanun yazılı kabul arar; sessizlik kabul yerine geçmez.',
+    },
+    {
+      q: 'Kabul etmezsem işten çıkarılır mıyım?',
+      a: 'İşveren, değişikliğin geçerli bir nedene dayandığını veya başka bir geçerli neden bulunduğunu yazılı olarak açıklayıp bildirim süresine uyarak feshedebilir. Bu fesih m.17-21 çerçevesinde dava konusu yapılabilir.',
+    },
+    {
+      q: 'Altı işgünü nasıl hesaplanır?',
+      a: 'İş günü esasına göre; hafta sonu ve resmî tatiller sayılmaz.',
+    },
+    {
+      q: 'Geçmişe dönük değişiklik yapılabilir mi?',
+      a: 'Hayır. Çalışma koşullarında değişiklik geçmişe etkili olarak yürürlüğe konulamaz.',
+    },
+    {
+      q: 'İşyeri devredildi, kıdemim sıfırlanır mı?',
+      a: 'Hayır. Devralan işveren, hizmet süresinin esas alındığı haklarda işçinin devreden işveren yanında işe başladığı tarihe göre işlem yapmakla yükümlüdür.',
+    },
+    {
+      q: 'Devirden önceki alacaklarımı kimden isterim?',
+      a: 'Devirden önce doğmuş ve devir tarihinde ödenmesi gereken borçlardan iki işveren birlikte sorumludur; devreden işverenin sorumluluğu devir tarihinden itibaren iki yılla sınırlıdır.',
+    },
+  ],
+  updated: '2026-08-16',
+  sitemapPriority: 0.93,
+};

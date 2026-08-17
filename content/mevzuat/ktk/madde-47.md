@@ -8,7 +8,7 @@ wordCount: 2500
 keywords: ["Trafik İşaretleri", "7574 Sayılı Kanun", "Kırmızı Işık", "Polisten Kaçma", "Dur İkazı", "Ehliyet İptali", "Asli Kusur", "Sigorta Rücu"]
 ---
 
-**Trafik işaret ve kurallarına uyma zorunluluğu:41**
+**Trafik işaret ve kurallarına uyma zorunluluğu:**
 
 ---
 
@@ -30,11 +30,7 @@ geriye doğru bir yıl içinde;
 a) İkinci defa ihlal edilmesi halinde sürücüler 10.000 Türk lirası,
 b) Üçüncü defa ihlal edilmesi halinde sürücüler 15.000 Türk lirası,
 c) Dördüncü defa ihlal edilmesi halinde sürücüler 20.000 Türk lirası,
-18/10/2018 tarihli ve 7148 sayılı Kanunun 20 nci maddesiyle madde başlığı “Trafik işaretlerine
-uyma:” iken metne işlendiği şekilde değiştirilmiştir.
-41
-
-d) Beşinci defa ihlal edilmesi halinde sürücüler 30.000 Türk lirası,
+d) Beşinci defa ihlal edilmesi halinde sürücüler 30.000 Türk lirası,
 e) Altıncı defa ihlal edilmesi halinde sürücüler 80.000 Türk lirası,
 idari para cezası ile cezalandırılırlar.
 (Ek fıkra:12/2/2026-7574/11 md.) Sabit veya seyir halinde yürütülen denetimlerde
@@ -47,7 +43,8 @@ gün süre ile geri alınır. Son ihlalin gerçekleştiği tarihten itibaren ger
 ışıklı trafik işaretlerinden kırmızı renkli olanına uyma kuralını; üç defa ihlal ettiği tespit
 edilenlerin sürücü belgeleri otuz gün, dört defa ihlal ettiği tespit edilenlerin sürücü belgeleri
 altmış gün, beş defa ihlal ettiği tespit edilenlerin sürücü belgeleri doksan gün süreyle geri
-alınır. Bu kapsamda geri alınan sürücü belgeleri geri alma süresi sonunda sürücünün psikoteknik değerlendirmeden geçirilerek sürücü belgesi almasına mâni hâli olmadığının
+alınır. Bu kapsamda geri alınan sürücü belgeleri geri alma süresi sonunda sürücünün psiko-
+teknik değerlendirmeden geçirilerek sürücü belgesi almasına mâni hâli olmadığının
 anlaşılması şartıyla iade edilir.
 (Ek fıkra:12/2/2026-7574/11 md.) Son ihlalin gerçekleştiği tarihten itibaren geriye
 doğru bir yıl içinde ışıklı trafik işaretlerinden kırmızı renkli olanına uyma kuralını altı defa
@@ -63,6 +60,8 @@ ibrazı zorunludur.
 Kanunun 6 ncı maddesinde sayılan görevliler tarafından yapılır. Bu madde kapsamında geri
 alınan sürücü belgeleri bu Kanun kapsamında verilen idari para cezalarının tamamının tahsil
 edilmiş olması şartıyla iade edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

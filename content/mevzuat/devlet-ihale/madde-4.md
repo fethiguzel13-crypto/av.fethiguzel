@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**Tanımlar**
+**Tanımlar:**
 
 ---
 
@@ -17,7 +17,7 @@ hakların alım ve satımını,
 Hizmet: Kanun ve diğer mevzuata göre çalıştırılan aylıklı, ücretli, yevmiyeli ve
 sözleşmeli personel istimdamı hariç olmak üzere gerçek veya tüzelkişilere ücret karşılığında
 yaptırılan araştırma, sondaj, imalat, prototip imalat, istikşaf, etüt, harita plan, proje,
-kontrollük, müşavirlik ve benzeri her türlü hizmetleri,3
+kontrollük, müşavirlik ve benzeri her türlü hizmetleri,
 Yapım: Her türlü inşaat, ihzarat, imalat, sondaj, tesisat, onarım, yıkma, değiştirme,
 iyileştirme, yenileştirme ve montaj işlerini,
 Kira: Taşınır ve taşınmaz malların ve hakların kiralanmasını veya kiraya verilmesini,
@@ -38,13 +38,12 @@ bedellerin uygun görülenini,
 işlemleri,
 Müteahhit: Üzerine ihale yapılan istekli veya isteklileri,
 Müşteri: Artırma sonunda kendisine ihale yapılan istekli veya isteklileri,
-3 2/7/2018 tarihli ve 700 sayılı KHK’nin 81 inci maddesiyle, bu tanımda yer alan “, tüzük ve yönetmeliklere” ibaresi “ve diğer mevzuata” şeklinde değiştirilmiştir.
-
-
-Şartname: Yapılacak işlerin genel, özel, teknik ve idari esas ve usullerini gösteren
+Şartname: Yapılacak işlerin genel, özel, teknik ve idari esas ve usullerini gösteren
 belge veya belgeleri,
 Sözleşme: İdare ile müteahhit veya müşteri arasında yapılan yazılı anlaşmayı,
 İfade eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**Askerî komutanlıkların gasbı**
+**ALTINCI BÖLÜM
+Milli Savunmaya Karşı Suçlar
+Askerî komutanlıkların gasbı**
 
 ---
 
@@ -18,6 +20,8 @@ liman veya şehrin komutasını alanlara müebbet hapis cezası verilir.
 (2) Kanunen yetkili olmaları veya Devlet tarafından görevlendirilmeleri suretiyle
 yukarıda gösterilen yerlerin komutanı bulunanlardan, yetkili makamlarca komutanlığı terk
 etmeleri için verilen emirlere uymayanlara da aynı ceza verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4283
 ---
 
-**VIII
-- Sigorta et tiren lehine hak**
+**VIII - Sigorta ettiren lehine hak**
 
 ---
 
-Madde 1495 - (1) Lehtarın, sigortacıya karşı, istem hakkını kazanamaması hâlinde, bu hak sigorta ettirene, onun da ölmüş olması hâlinde, mirasçılarına geçer.
+MADDE 1495- (1) Lehtarın, sigortacıya karşı, istem hakkını kazanamaması hâlinde,
+bu hak sigorta ettirene, onun da ölmüş olması hâlinde, mirasçılarına geçer.
 
 ---
 

@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4322
 ---
 
-**Amaç**
+**SENDİKALAR VE TOPLU İŞ SÖZLEŞMESİ KANUNU
+BİRİNCİ BÖLÜM
+Amaç ve Tanımlar
+Amaç**
 
 ---
 
@@ -15,7 +18,7 @@ MADDE 1 – (1) Bu Kanunun amacı, işçi ve işveren sendikaları ile konfedera
 kuruluşu, yönetimi, işleyişi, denetlenmesi, çalışma ve örgütlenmesine ilişkin usul ve esaslar
 ile işçilerin ve işverenlerin karşılıklı olarak ekonomik ve sosyal durumları ile çalışma
 şartlarını belirlemek üzere toplu iş sözleşmesi yapmalarına, uyuşmazlıkları barışçı yollarla
-çözümlemelerine, grev ve lokavta başvurmalarına ilişkin usul ve esasları düzenleklerdir.
+çözümlemelerine, grev ve lokavta başvurmalarına ilişkin usul ve esasları düzenlemektir.
 
 ---
 

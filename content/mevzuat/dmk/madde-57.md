@@ -7,13 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**Adaylık süresi sonunda başarısızlık**
+**Adaylık süresi sonunda başarısızlık:**
 
 ---
 
 Madde 57 – (Mülga: 23/1/2026 - 7573/2 md.)
-KISIM - IV
-Hizmet Şartları ve Şekilleri
+
+---
 
 ### Akademik Yorum ve Analiz
 

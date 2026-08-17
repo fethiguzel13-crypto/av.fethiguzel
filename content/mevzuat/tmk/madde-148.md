@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4318
 ---
 
-**B. Nisbî butlan I. Eşlerin dava hakkı 1. Ayırt etme gücünden geçici yoksunluk**
+**B. Nisbî butlan
+I. Eşlerin dava hakkı
+1. Ayırt etme gücünden geçici yoksunluk**
 
 ---
 
-Madde 148 - Evlenme sırasında geçici bir sebeple ay ırt etme gücünden yoksun olan eş, evlenm enin iptalini dava edebilir.
+Madde 148- Evlenme sırasında geçici bir sebeple ayırt etme gücünden yoksun olan eş,
+evlenmenin iptalini dava edebilir.
 
 ---
 

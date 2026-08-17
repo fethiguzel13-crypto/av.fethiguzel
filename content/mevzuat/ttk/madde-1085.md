@@ -11,7 +11,8 @@ wordCount: 4265
 
 ---
 
-Madde 1085 - (1) Paydaş donatanlardan birinin ölümü veya iflası, donatma iştirakinin sona ermesine sebep olmaz.
+MADDE 1085- (1) Paydaş donatanlardan birinin ölümü veya iflası, donatma
+iştirakinin sona ermesine sebep olmaz.
 
 ---
 

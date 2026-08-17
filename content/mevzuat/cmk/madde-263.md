@@ -22,6 +22,8 @@ ve dilekçe derhâl ilgili mahkemeye gönderilir. Zabıt kâtibi başvuruyu ilgi
 (4) Zabıt kâtibi veya kurum müdürü tarafından ikinci fıkra hükmüne göre işlem yapıldığı
 zaman kanun yolları için bu Kanunda belirlenen süreler kesilmiş sayılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

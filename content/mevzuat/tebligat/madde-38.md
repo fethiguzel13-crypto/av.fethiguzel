@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Vekillerin yekdiğerine tebligat yapması**
+**Vekillerin yekdiğerine tebligat yapması:**
 
 ---
 
 Madde 38 – Vekil vasıtasiyle takibedilen davalarda, vekiller makbuz mukabilinde
 yekdiğerine tebligat yapabilirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

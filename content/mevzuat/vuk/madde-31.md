@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**Takdir kararı**
+**Takdir kararı:**
 
 ---
 
@@ -22,8 +22,9 @@ Takdir kararlarında aşağıda yazılı malümat bulunur:
 5. Takdirin ilgili bulunduğu vergi;
 6. Takdirin ilgili bulunduğu vergilendirme dönemi;
 7. Takdir edilen matrah;
+8. Takdirin müstenidatı ve takdir hakkında izahat.
 
-8. Takdirin müstenidatı ve takdir hakkında izahat.
+---
 
 ### Akademik Yorum ve Analiz
 

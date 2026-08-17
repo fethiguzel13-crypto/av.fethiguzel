@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**Kamunun selameti için alınması gereken tedbirler**
+**Kamunun selameti için alınması gereken tedbirler:**
 
 ---
 
@@ -23,6 +23,8 @@ tespit edilen eksiklikler altı aydan fazla olmamak üzere ilgili idaresince ver
 giderilerek geçerli yangın güvenlik raporu alınır. Esaslı tadilat gerektiren eksiklikler, ilgili
 idaresinden alınacak ruhsat veya izin ile yapılır. İlgili idaresince verilecek süre ruhsat veya
 izin tarihinden itibaren başlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

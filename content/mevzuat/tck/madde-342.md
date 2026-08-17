@@ -17,8 +17,9 @@ temsilcileri ile bunların diplomatik ayrıcalık ve bağışıklık tanınan me
 karşı görevlerinden dolayı işlenen suçlar bakımından, kamu görevlisi kabul edilerek; suç
 işleyen kişiler hakkında, bu Kanunun ilgili hükümlerine göre cezaya hükmolunur.
 (2) İşlenen suç hakaret ise, soruşturma ve kovuşturma yapılması, mağdurun şikayetine
+bağlıdır.
 
-bağlıdır.
+---
 
 ### Akademik Yorum ve Analiz
 

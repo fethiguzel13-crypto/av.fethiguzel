@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Android 12+ yedekleme ve cihazdan cihaza aktarım kuralları.
+  backup_rules.xml ile aynı ilke: kullanıcı verisi taşınır, oturum taşınmaz.
+-->
+<data-extraction-rules>
+    <cloud-backup>
+        <include domain="sharedpref" path="." />
+        <include domain="file" path="galaxy/" />
+        <exclude domain="database" path="webview.db" />
+        <exclude domain="database" path="webviewCookiesChromium.db" />
+        <exclude domain="file" path="app_webview/" />
+    </cloud-backup>
+    <device-transfer>
+        <include domain="sharedpref" path="." />
+        <include domain="file" path="galaxy/" />
+        <exclude domain="file" path="app_webview/" />
+    </device-transfer>
+</data-extraction-rules>

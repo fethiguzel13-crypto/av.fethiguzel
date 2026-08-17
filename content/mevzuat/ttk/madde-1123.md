@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**II
-- Geminin teslimi**
+**II- Geminin teslimi**
 
 ---
 
-Madde 1123 - (1) Kiraya veren, kiralanan gemiyi kararlaştırılan tarihte ve yerde denize elverişli ve sözleşme ile güdülen amaca uygun bir şekilde kullanmaya hazır olarak kiracıya teslim etmekle yükümlüdür.
+MADDE 1123- (1) Kiraya veren, kiralanan gemiyi kararlaştırılan tarihte ve yerde
+denize elverişli ve sözleşme ile güdülen amaca uygun bir şekilde kullanmaya hazır olarak
+kiracıya teslim etmekle yükümlüdür.
 
 ---
 

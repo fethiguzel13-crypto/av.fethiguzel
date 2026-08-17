@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4263
 ---
 
-**Başka sınıfa geçen memurun alacağı aylık**
+**Başka sınıfa geçen memurun alacağı aylık:**
 
 ---
 
 Madde 162 – (Mülga: 31/7/1970 - 1327/61 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,13 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4283
 ---
 
-**Amaç**
+**BİRİNCİ KISIM
+Genel Hükümler
+Amaç, Kapsam ve Tanımlar
+Amaç:**
 
 ---
 
 Madde 1 – Bu Kanun, Türkiye Cumhuriyeti Jandarma Teşkilatının görev, yetki ve
 sorumluluklarına, hizmetin gerektirdiği bağlılık ve ilişkilere, teşkilat ve konuşa ait esas ve
 usulleri düzenler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

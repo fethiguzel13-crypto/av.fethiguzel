@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**(Mülga: 15/2/2018 - 7099/23 md.) e) Bildirim**
+**e) Bildirim**
 
 ---
 
-Madde 431 - (Mülga: 15/2/2018 - 7099/23 md.) 63 27/12/2020 tarihli ve 7262 sayılı 30 uncu maddesiyle, bu fıkraya “ispat eden” ibaresinden sonra gelmek üzere “ve Merkezi Kayıt Kuruluşuna bildirilen” ibaresi eklenmiştir.
+MADDE 431- (Mülga: 15/2/2018-7099/23 md.)
 
 ---
 

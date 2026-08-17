@@ -11,7 +11,8 @@ wordCount: 4309
 
 ---
 
-Madde 478 - A tamanın ilân edilmiş olması veya vesayet makamının gerekli görmesi hâllerinde, ka yyımlığın sona erdiği de il ân olunur. İKİNCİ AYIRIM VASİLİK GÖRE VİNİN SONA E RMESİ A. Fiil ehliyetinin yitirilmesi ve ölüm
+Madde 478- Atamanın ilân edilmiş olması veya vesayet makamının gerekli görmesi
+hâllerinde, kayyımlığın sona erdiği de ilân olunur.
 
 ---
 

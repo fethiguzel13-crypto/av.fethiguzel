@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**Borçlunun kambiyo hukuku bakımından şikayeti**
+**Borçlunun kambiyo hukuku bakımından şikayeti:**
 
 ---
 
@@ -20,11 +20,8 @@ olmadığı veya alacaklının kambiyo hukuku mucibince takip hakkına sahip bul
 hususlarını re’sen nazara alarak bu fasla göre yapılan takibi iptal edebilir.
 (Ek: 9/11/1988-3494/34 md.) Her ne suretle olursa olsun, imza inkarı itirazı geri
 alınmış veya borç kısmen veya tamamen kabul edilmiş ise bu madde hükmü uygulanmaz.
-2/7/2012 tarihli ve 6352 sayılı Kanunun 35 inci maddesiyle, bu fıkrada yer alan “yüzde kırkından” ibaresi
-“yüzde yirmisinden” olarak değiştirilmiştir.
-66
 
-Uygulanacak diğer hükümler:
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -29,6 +29,8 @@ mağdur sayısınca gerçek içtima hükümleri uygulanır.
 (3) Bu suçlardan dolayı tüzel kişiler hakkında da güvenlik tedbirine hükmolunur.
 (4) Bu suçlardan dolayı zamanaşımı işlemez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

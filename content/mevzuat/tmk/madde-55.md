@@ -11,7 +11,7 @@ wordCount: 4302
 
 ---
 
-Madde 55 - Kamu tüzel kişileri ile ti caret şirketleri hakkındaki kanun hükümleri saklıdır. İKİNCİ BÖLÜM DERNEKLER A. Kuruluşu I. Tanımı
+Madde 55- Kamu tüzel kişileri ile ticaret şirketleri hakkındaki kanun hükümleri saklıdır.
 
 ---
 

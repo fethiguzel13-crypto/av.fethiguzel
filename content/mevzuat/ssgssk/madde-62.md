@@ -19,7 +19,8 @@ Sağlık hizmetlerinden ve diğer haklardan genel sağlık sigortalısı ile bak
 yükümlü olduğu kişiler yararlandırılır.
 Bu Kanun kapsamındaki kişilere sağlanacak sağlık hizmetleri ve diğer haklar ile
 kişilerden alınan primlerin tutarı arasında ilişki kurulamaz.
-İKİNCİ BÖLÜM Sağlanan Sağlık Hizmetleri ve Diğer Haklar Finansmanı sağlanan sağlık hizmetleri ve süresi
+
+---
 
 ### Akademik Yorum ve Analiz
 

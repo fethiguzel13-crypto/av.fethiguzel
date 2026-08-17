@@ -11,7 +11,7 @@ wordCount: 4317
 
 ---
 
-Madde 443 - Sözleşmenin sona ermesi durumunda, taraflardan her biri, diğerinden
+MADDE 443- Sözleşmenin sona ermesi durumunda, taraflardan her biri, diğerinden
 veya üçüncü bir kişiden diğerinin hesabına, hizmetle ilişkili olarak almış olduğu şeyleri geri
 vermekle yükümlüdür.
 İşçi, özellikle motorlu taşıtları ve trafik izin belgelerini, alacaklarından fazla olduğu

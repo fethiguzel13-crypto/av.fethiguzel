@@ -15,14 +15,8 @@ MADDE 26 – (1) Halka açık ortaklıklarda yönetim kontrolünü sağlayan pay
 oy haklarının iktisap edilmesi hâlinde söz konusu payların veya oy haklarının iktisabının
 kamuya açıklandığı tarihte pay sahibi olan diğer ortakların paylarını satın almak üzere teklif
 yapılması zorunludur. Pay alım teklifinde bulunulmasına ve pay alım teklifinde bulunma
-zorunluluğundan muafiyete ilişkin usul ve esaslar Kurulca belirlenir.2
-
-20/2/2020 tarihli ve 7222 sayılı Kanunun 27 nci maddesiyle, bu fıkraya “iktisap edilmesi hâlinde”
-ibaresinden sonra gelmek üzere “söz konusu payların veya oy haklarının iktisabının kamuya açıklandığı
-tarihte pay sahibi olan” ibaresi eklenmiştir.
-2
-
-(2) Ortaklığın oy haklarının yüzde ellisinden fazlasına tek başına veya birlikte hareket
+zorunluluğundan muafiyete ilişkin usul ve esaslar Kurulca belirlenir.
+(2) Ortaklığın oy haklarının yüzde ellisinden fazlasına tek başına veya birlikte hareket
 ettikleri kişilerle beraber, doğrudan veya dolaylı olarak sahip olunması, yönetim kurulu üye
 sayısının salt çoğunluğunu seçme veya genel kurulda söz konusu sayıdaki üyelikler için aday
 gösterme hakkını veren imtiyazlı paylara sahip olunması, yönetim kontrolünün elde edilmesi
@@ -45,6 +39,8 @@ teklifi zorunluluğu getirebilir.
 birlikte hareket edenlerin sahip olduğu oy hakları, Kurulca belirlenecek süre içinde bu
 zorunluluğun yerine getirilmemesi hâlinde kendiliğinden donar. Söz konusu paylar, genel
 kurul toplantı nisabında dikkate alınmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

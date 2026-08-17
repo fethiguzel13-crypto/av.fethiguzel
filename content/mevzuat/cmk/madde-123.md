@@ -17,6 +17,8 @@ müsaderesinin konusunu oluşturan malvarlığı değerleri, muhafaza altına al
 (3) (Ek:27/12/2020-7262/19 md.) Muhafaza altına alınan veya elkonulan eşya ya da
 malvarlığı değerlerinin kıymeti tespit edilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

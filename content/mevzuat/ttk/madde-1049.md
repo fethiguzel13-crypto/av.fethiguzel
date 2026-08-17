@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Madde 1049**
+**bb) Sadece ipoteğin düşmesi sonucunu doğuran sebepler
+aaa) Tarafların anlaşması**
 
 ---
 
-Madde 1049 - (1) İpotekli alacaklı ile gemi malikinin, ipoteğin kaldırılması hususunda 1015 inci maddenin ikinci fıkrasında öngörüldüğü şekilde anlaşmaları ve ipotek kaydının gemi sicilinden silinmesi ile ipotek sona erer. Şu kadar ki, i potek üzerinde hak sahibi kişiler varsa onların da onayları şarttır. bbb) Alacaklının feragati
+MADDE 1049- (1) İpotekli alacaklı ile gemi malikinin, ipoteğin kaldırılması
+hususunda 1015 inci maddenin ikinci fıkrasında öngörüldüğü şekilde anlaşmaları ve ipotek
+kaydının gemi sicilinden silinmesi ile ipotek sona erer. Şu kadar ki, ipotek üzerinde hak sahibi
+kişiler varsa onların da onayları şarttır.
 
 ---
 

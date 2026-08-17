@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**Aynın ihtilaflı bulunması22**
+**Aynın ihtilaflı bulunması**
 
 ---
 
@@ -28,10 +28,11 @@ Mahkemece, taşınmaz mal hakkındaki mülkiyet ihtilafı ile ilgili davanın t�
 yine bu maddedeki usule göre tespit edilmesi ve bu bedelin mülkiyet ihtilafıyla ilgili davanın
 sonucunda belli olacak hak sahibine ödenmek üzere idarece mahkemenin belirttiği bankaya 10
 uncu madde uyarınca ve üçer aylık vadeli hesaba yatırılmasından sonra, bu bedelin ileride belli
-20 Bu kısım başlığı; “Acele Elkoyma, Tescil İşlemleri ve Aynın Çekişmeli Olması” iken, 24/4/2001 tarihli ve 4650 sayılı Kanunun 9 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir. 21 Bu bölüm başlığı; “Tescil Aynın Çekişmeli Olması” iken, 24/4/2001 tarihli ve 4650 sayılı Kanunun 9 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir. 22 Bu madde başlığı; “Aynın çekişmeli bulunması” iken, 24/4/2001 tarihli ve 4650 sayılı Kanunun 10 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.
-
-
-olacak hak sahibine ödenmesine ve taşınmaz malın idare adına tesciline karar verilir ve bu karar
+Bu kısım başlığı; “Acele Elkoyma, Tescil İşlemleri ve Aynın Çekişmeli Olması” iken, 24/4/2001
+tarihli ve 4650 sayılı Kanunun 9 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.
+Bu bölüm başlığı; “Tescil Aynın Çekişmeli Olması” iken, 24/4/2001 tarihli ve 4650 sayılı Kanunun
+9 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.
+olacak hak sahibine ödenmesine ve taşınmaz malın idare adına tesciline karar verilir ve bu karar
 tapu dairesine ve paranın yatırıldığı bankaya bildirilir. 3 üncü maddenin 2 nci fıkrasına göre
 yapılan kamulaştırmalarda mahkemece belirlenecek kamulaştırma bedelinin ilk ve takibeden
 taksitleri de mahkemenin belirlediği bankadaki üçer aylık vadeli hesaplara yatırılır.
@@ -55,6 +56,8 @@ Kamulaştırma işlemine karşı idari yargıda iptal veya maddi hatalara karş�
 mahkemelerde açılacak düzeltim davalarında hangi idareye husumet yöneltileceğinin tebligat ve
 ilan belgelerinde açıkça belirtilmemiş veya yanlış gösterilmiş olması nedeniyle davada husumet
 yanlış yöneltilmiş ise, gerçek hasma tebligat yapılmak suretiyle davaya devam olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

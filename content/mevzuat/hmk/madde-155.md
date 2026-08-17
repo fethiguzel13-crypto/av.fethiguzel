@@ -16,6 +16,8 @@ MADDE 155- (1) Tutanak, hâkim ve zabıt kâtibi tarafından derhâl imzalanır.
 parmağa ait olduğu belirtilir. Ancak elinde parmak bulunmayanlar, imza yerine mühür veya
 özel işaret kullanabilirler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

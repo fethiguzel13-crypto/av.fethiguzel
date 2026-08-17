@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**İstihkak davalarında mülkiyet karinesi**
+**İstihkak davalarında mülkiyet karinesi:**
 
 ---
 
@@ -22,7 +22,8 @@ alınabilir. Birlikte oturulan yerlerdeki mallardan mahiyetleri itibariyle kadı
 olanlar bunların farz olunur. Bu karinenin aksini ispat külfeti iddia eden kişiye düşer.
 İstihkak davacısı malı ne suretle iktisap ettiğini ve borçlunun elinde bulunmasını
 gerektiren hukuki ve fiili sebep ve hadiseleri göstermek ve bunları ispat etmekle mükelleftir.
-3 – Çalınmış ve zayi olmuş şeyler:
+
+---
 
 ### Akademik Yorum ve Analiz
 

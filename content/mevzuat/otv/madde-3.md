@@ -28,6 +28,8 @@ tasfiyelik hale gelenlerinden Enerji Piyasası Düzenleme Kurumu tarafından bel
 standartlara uymayanlarının rafinerilere teslim edilmesi halinde vergiyi doğuran olay, bu malların
 rafineriler tarafından tesliminde gerçekleşir ve verginin mükellefi bu teslimi gerçekleştirenlerdir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Kuruluş şartları**
+**ÜÇÜNCÜ BÖLÜM
+Yatırım Kuruluşları
+Kuruluş şartları**
 
 ---
 
@@ -20,14 +22,12 @@ d) Esas sözleşmelerinin bu Kanun ve ilgili düzenlemelerde yer alan hükümler
 olması,
 e) Kurucularının bu Kanunda ve ilgili düzenlemelerde belirtilen şartları haiz olması,
 f) Ortaklık yapısının şeffaf ve açık olması,
-18/6/2020 tarihli ve 7247 sayılı Kanunun 15 inci maddesiyle, bu madde başlığı “Mali sorumluluk
-sınırlarına ve çalışanlara ilişkin esaslar” iken metne işlendiği şekilde değiştirilmiştir.
-3
-
-gerekir.
+gerekir.
 (2) Bankalar dışındaki diğer yatırım kuruluşları için de birinci fıkradaki şartlar aranır.
 Kurul bu kuruluşlar için ilave şartlar öngörebilir.
 (3) Bu maddenin uygulanmasına ilişkin usul ve esaslar Kurulca belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

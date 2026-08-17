@@ -20,6 +20,8 @@ maliyetinin hesaplanmasında esas alınacak akdî faiz oranı, düşük gösteri
 oranına uyacak şekilde yeniden belirlenir. Bu hâllerde ödeme planı, yapılan değişikliklere
 göre yeniden düzenlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

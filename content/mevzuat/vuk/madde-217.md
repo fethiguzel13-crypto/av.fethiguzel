@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Yanlış kayıtların düzeltilmesi**
+**Yanlış kayıtların düzeltilmesi:**
 
 ---
 
@@ -17,6 +17,8 @@ yazıldığı takdirde düzeltmeler ancak yanlış rakam ve yazı okunacak şeki
 yan tarafına veyahut ilgili bulunduğu hesaba doğrusu yazılmak suretiyle yapılabilir.
 Defterlere geçirilen bir kaydı kazımak, çizmek veya silmek suretiyle okunamaz bir
 hale getirmek yasaktır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

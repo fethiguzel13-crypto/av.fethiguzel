@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**Ticari sermaye**
+**Ticari sermaye:**
 
 ---
 
 Madde 292 –Vergilendirilecek bir servete dahil ticari sermayenin unsurlarından
 bulunan emtia, gemiler ve taşıtlar, tesisat ve makinalar, demirbaş eşya ve diğer menkul
 mallar, emsal bedelleri ile değerlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

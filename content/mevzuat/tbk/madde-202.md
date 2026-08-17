@@ -11,7 +11,7 @@ wordCount: 4301
 
 ---
 
-Madde 202 - Bir malvarlığını veya bir işletmeyi aktif ve pasifleri ile birlikte
+MADDE 202- Bir malvarlığını veya bir işletmeyi aktif ve pasifleri ile birlikte
 devralan, bunu alacaklılara bildirdiği veya ticari işletmeler için Ticaret Sicili Gazetesinde,
 diğerleri için Türkiye genelinde dağıtımı yapılan gazetelerden birinde yayımlanacak ilanla
 duyurduğu tarihten başlayarak, onlara karşı malvarlığındaki veya işletmedeki borçlardan

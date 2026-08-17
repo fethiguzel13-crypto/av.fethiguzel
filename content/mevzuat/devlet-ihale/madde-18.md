@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4283
 ---
 
-**İlanlarda bulunması zorunlu hususlar**
+**İlanlarda bulunması zorunlu hususlar:**
 
 ---
 
@@ -19,6 +19,8 @@ d) Varsa tahmin edilen bedel ve geçici teminat miktarı,
 e) İsteklilerden aranılan belgelerin neler olduğu,
 f) Kapalı teklif usulüyle yapılacak ihalelerde, tekliflerin hangi tarih ve saate kadar
 nereye verileceği.
+
+---
 
 ### Akademik Yorum ve Analiz
 

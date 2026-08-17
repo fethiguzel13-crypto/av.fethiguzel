@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**İhtiyati tedbirin şartları**
+**ONUNCU KISIM
+Geçici Hukuki Korumalar
+BİRİNCİ BÖLÜM
+İhtiyati Tedbir
+İhtiyati tedbirin şartları**
 
 ---
 
@@ -17,6 +21,8 @@ geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın d
 endişe edilmesi hâllerinde, uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir.
 (2) Birinci fıkra hükmü niteliğine uygun düştüğü ölçüde çekişmesiz yargı işlerinde de
 uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

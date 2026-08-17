@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**Ayıplı mal**
+**ÜÇÜNCÜ KISIM
+Ayıplı Mal ve Hizmetler
+BİRİNCİ BÖLÜM
+Ayıplı Mallar
+Ayıplı mal**
 
 ---
 
@@ -24,6 +28,8 @@ veya montajının satıcı tarafından veya onun sorumluluğu altında gerçekle
 gereği gibi monte edilmemesi sözleşmeye aykırı ifa olarak değerlendirilir. Malın montajının
 tüketici tarafından yapılmasının öngörüldüğü hâllerde, montaj talimatındaki yanlışlık veya
 eksiklik nedeniyle montaj hatalı yapılmışsa, sözleşmeye aykırı ifa söz konusu olur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

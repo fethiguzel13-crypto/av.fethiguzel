@@ -19,11 +19,7 @@ b) Ailenin nüfusuna göre, genel sağlık ve güvenlik standartlarına uygun ba
 c) Başvuru tarihi itibarıyla, beş yıl içinde aile düzenine karşı suçlardan herhangi
 birinden hüküm giymemiş olduğunu adli sicil kaydıyla belgelemek
 ç) Türkiye’de en az bir yıldır ikamet izniyle kalıyor olmak
-28/7/2016 tarihli ve 6735 sayılı Kanunun 27 nci maddesiyle bu fıkrada yer alan “iki yılı” ibaresi “üç yılı”
-şeklinde değiştirilmiştir.
-13
-
-d) Adres kayıt sisteminde kaydı bulunmak
+d) Adres kayıt sisteminde kaydı bulunmak
 (2) Bilimsel araştırma amaçlı ikamet izni ya da çalışma izni bulunanlar, 5901 sayılı
 Kanunun 28 inci maddesi kapsamında olanlar veya Türk vatandaşlarıyla evli olan yabancılar
 hakkında, birinci fıkranın (ç) bendi uygulanmaz.
@@ -38,6 +34,8 @@ c) Evliliği aile ikamet izni alabilmek amacıyla yapmamış olmak
 d) 7 nci madde kapsamına girmemek
 (4) Türkiye’de bulunan mülteciler ve ikincil koruma statüsü sahiplerinde, bu maddenin
 birinci fıkrasında belirtilen şartlar aranmayabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

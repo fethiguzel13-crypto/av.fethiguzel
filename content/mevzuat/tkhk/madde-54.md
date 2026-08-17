@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**Fiyat etiketi**
+**BEŞİNCİ KISIM
+Tüketicinin Bilgilendirilmesi ve Menfaatlerinin Korunması
+Fiyat etiketi**
 
 ---
 
@@ -27,6 +29,8 @@ satıcı veya sağlayıcıya aittir.
 izlenmesine ilişkin işleri yürütmekle görevlidirler.
 (5) Etiket, tarife ve fiyat listeleri, indirimli satışlara ilişkin süre ile diğer uygulama usul
 ve esasları yönetmelikle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

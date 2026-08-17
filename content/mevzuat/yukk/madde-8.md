@@ -14,6 +14,8 @@ wordCount: 4264
 MADDE 8 – (1) 5 inci, 6 ncı ve 7 nci maddelerde yer alan şartlar, uluslararası koruma
 başvurusu yapmayı engelleyici şekilde yorumlanamaz ve uygulanamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

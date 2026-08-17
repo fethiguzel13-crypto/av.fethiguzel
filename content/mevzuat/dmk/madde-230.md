@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**Diğer personel için kurulacak kurullar**
+**md.)
+Diğer personel için kurulacak kurullar:**
 
 ---
 
 Madde 230 – (Mülga: 30/5/1974 – KHK-12/7 md.; aynen kabul: 15/5/1975 - 1897/7
-md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

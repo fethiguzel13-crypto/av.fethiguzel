@@ -88,7 +88,7 @@ export default function HaftalikIctihatPage() {
 
                 <ul className="space-y-4 mb-12">
                     {items.map((it, i) => (
-                        <li key={`${it.title}-${i}`} className="bg-white border border-charcoal/8 rounded-2xl p-5">
+                        <li key={`${it.title}-${i}`} className="bg-white border border-charcoal/[0.08] rounded-2xl p-5">
                             <h2 className="font-bold text-charcoal mb-2 leading-snug">{it.title}</h2>
                             {it.summary && (
                                 <p className="text-sm text-charcoal/60 leading-relaxed mb-2">{it.summary}</p>

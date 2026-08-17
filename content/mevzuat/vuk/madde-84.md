@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**Üyelerin seçilmesi**
+**Üyelerin seçilmesi:**
 
 ---
 
@@ -19,6 +19,8 @@ aynı sayıda yedek üyeyi seçerek adlarını valiye bildirir.
 Üyeler bu süre içinde seçilip bildirilmedikleri takdirde vali tarafından seçilir.
 Ziraat odası bulunmayan yerlerde bunların seçeceği üyeler, aynı esaslar dairesinde
 belediyelerce seçilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

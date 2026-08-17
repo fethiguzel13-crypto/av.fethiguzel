@@ -7,19 +7,20 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Mahkemelerin görevi**
+**ALTINCI BÖLÜM
+Hükümlünün Yükümlülükleri
+Cezayı çekme, güvenlik ve iyileştirme programına uyma**
 
 ---
 
-Madde 26- (1) Çocuk mahkemesi, asliye ceza mahkemesi ile sulh ceza mahkemesinin
-görev alanına giren suçlar bakımından, suça sürüklenen çocuklar hakkında açılacak davalara
-bakar.
-(2) Çocuk ağır ceza mahkemesi, çocuklar tarafından işlenen ve ağır ceza mahkemesinin
-görev alanına giren suçlarla ilgili davalara bakar.
-(3) Mahkemeler ve çocuk hâkimi, bu Kanunda ve diğer kanunlarda yer alan tedbirleri
-almakla görevlidir.
-(4) Çocuklar hakkında açılan kamu davaları, Kanunun 17 nci maddesi hükümleri saklı
-kalmak kaydıyla bu Kanunla kurulan mahkemelerde görülür.
+Madde 26- (1) Hükümlü, hapis cezasının yerine getirilmesine katlanma ve bu amaçla
+düzenlenen infaz rejimine uygun tutum ve davranışlar içinde bulunmakla yükümlüdür.
+(2) Hükümlü, ceza infaz kurumunun güvenlik ve iyileştirme programlarına tam bir uyum
+göstermekle yükümlüdür. Her ne amaçla olursa olsun, bilerek kendi yaşamlarını ve bedensel
+bütünlüklerini tehlikeye düşürecek eylemlere girişmeleri, cezanın yerine getirilmesine katlanma
+yükümlülüğünün ihlâli sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

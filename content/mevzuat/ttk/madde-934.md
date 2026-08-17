@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**IV
-- Gemi adamları**
+**IV- Gemi adamları**
 
 ---
 
-Madde 934 - (1) “Gemi adamları”; kaptan, gemi zabitleri, tayfalar ve gemide çalıştırılan diğer kişilerdir.
+MADDE 934- (1) “Gemi adamları”; kaptan, gemi zabitleri, tayfalar ve gemide
+çalıştırılan diğer kişilerdir.
 
 ---
 

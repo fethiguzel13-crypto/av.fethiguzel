@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4256
 ---
 
-**Teşkilat**
+**Hizmet Birimleri
+Teşkilat**
 
 ---
 
 MADDE 106 – (Mülga: 2/7/2018-KHK-703/71 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

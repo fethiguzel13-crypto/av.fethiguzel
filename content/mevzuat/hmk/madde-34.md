@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Yasaklılık sebepleri**
+**ÜÇÜNCÜ BÖLÜM
+Hâkimin Yasaklılığı, Reddi ve Hukuki Sorumluluğu
+BİRİNCİ AYIRIM
+Hâkimin Davaya Bakmaktan Yasaklılığı ve Reddi
+Yasaklılık sebepleri**
 
 ---
 
@@ -22,6 +26,8 @@ kalksa dahi kayın hısımlığı bulunanların davasında.
 e) Nişanlısının davasında.
 f) İki taraftan birinin vekili, vasisi, kayyımı veya yasal danışmanı sıfatıyla hareket
 ettiği davada.
+
+---
 
 ### Akademik Yorum ve Analiz
 

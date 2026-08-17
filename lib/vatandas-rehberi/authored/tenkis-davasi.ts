@@ -1,0 +1,145 @@
+import type { VatandasArticle } from '../types';
+
+/**
+ * Kaynak doğrulaması — content-packs/tmk.json.gz resmî metninden:
+ *   TMK m.505  tasarruf edilebilir kısım
+ *   TMK m.506  saklı pay oranları
+ *   TMK m.560  tenkis davasının koşulları
+ *   TMK m.561  orantılı tenkis · birden fazla ölüme bağlı tasarruf
+ *   TMK m.571  bir yıl / on yıl hak düşürücü süre · def'i yoluyla her zaman
+ *
+ * Doğrulama: node scripts/madde.mjs tmk 560-571
+ *
+ * NOT: Sağlararası kazandırmaların tenkisi (TMK m.565) ve muris muvazaası
+ * bu metne HENÜZ alınmadı; maddeler okunup doğrulanınca eklenecek.
+ */
+export const tenkisDavasi: VatandasArticle = {
+  slug: 'tenkis-davasi-ve-sakli-pay',
+  title: 'Tenkis Davası: Saklı Pay Zedelendiğinde Ne Yapılır?',
+  description:
+    'Saklı payı zedelenen mirasçı ne yapabilir, tenkis davası hangi sürede açılır, def’i yoluyla ileri sürme ne demek? TMK m.560, 561 ve 571 çerçevesinde.',
+  h1: 'Tenkis davası nasıl açılır?',
+  keywords: [
+    'tenkis davası',
+    'saklı pay',
+    'tenkis süresi',
+    'vasiyetname iptali',
+    'saklı payın zedelenmesi',
+    'tenkis defi',
+  ],
+  category: 'Miras',
+  role: 'pillar',
+  related: ['miras-paylasimi-nasil-yapilir', 'mirasin-reddi'],
+  links: [
+    { label: 'TMK m.505 — Tasarruf edilebilir kısım', href: '/mevzuat/tmk/madde-505' },
+    { label: 'TMK m.506 — Saklı pay oranları', href: '/mevzuat/tmk/madde-506' },
+    { label: 'TMK m.560 — Tenkisin koşulları', href: '/mevzuat/tmk/madde-560' },
+    { label: 'TMK m.571 — Dava açma süresi', href: '/mevzuat/tmk/madde-571' },
+    { label: 'Saklı pay hesaplama aracı', href: '/hesaplama/sakli-pay' },
+  ],
+  lead:
+    'Saklı paylarının karşılığını alamayan mirasçılar, mirasbırakanın tasarruf edebileceği kısmı aşan tasarruflarının tenkisini dava edebilir. Dava, saklı payın zedelendiğinin öğrenildiği tarihten itibaren bir yıl içinde açılmalıdır.',
+  keyInsight:
+    'Süre dolsa dahi yol tümüyle kapanmaz: Tenkis iddiası, def’i yoluyla her zaman ileri sürülebilir.',
+  sections: [
+    {
+      heading: 'Tenkis ne işe yarar?',
+      paragraphs: [
+        'Mirasbırakan malvarlığının tamamı üzerinde serbestçe tasarruf edemez. TMK m.505 uyarınca mirasçı olarak altsoyu, ana ve babası veya eşi bulunan mirasbırakan, mirasının yalnız saklı paylar dışında kalan kısmında ölüme bağlı tasarrufta bulunabilir.',
+        'Bu sınır aşıldığında tasarruf kendiliğinden geçersiz olmaz. Kanun geçersizlik yerine düzeltme yolunu seçmiştir: TMK m.560 uyarınca saklı paylarının karşılığını alamayan mirasçılar, tasarruf edilebilecek kısmı aşan tasarrufların tenkisini dava edebilirler.',
+        'Tenkis, kazandırmayı ortadan kaldırmaz; onu saklı payı karşılayacak ölçüde azaltır. Vasiyetname geçerliliğini korur, yalnız fazlası budanır.',
+        'Maddenin ikinci cümlesi bir yorum kuralı koyar: Yasal mirasçıların paylarına ilişkin olarak tasarrufta yer alan kurallar, mirasbırakanın arzusunun başka türlü olduğu tasarruftan anlaşılmadıkça sadece paylaştırma kuralları sayılır.',
+      ],
+    },
+    {
+      heading: 'Saklı pay ne kadardır?',
+      paragraphs: [
+        'Oranlar TMK m.506da belirlenmiştir ve her zaman yasal miras payı üzerinden hesaplanır. Altsoy için yasal miras payının yarısı, ana ve babadan her biri için yasal miras payının dörtte biri saklı paydır.',
+        'Sağ kalan eş için ölçüt ikiye ayrılır: Altsoy veya ana ve baba zümresiyle birlikte mirasçı olması hâlinde yasal miras payının tamamı, diğer hâllerde yasal miras payının dörtte üçü.',
+        'Kardeşlerin saklı payı 2007 yılında 5650 sayılı Kanunla kaldırılmıştır. Bugün kardeşler tenkis davası açamaz.',
+      ],
+      bullets: [
+        'Altsoy: yasal miras payının yarısı',
+        'Ana ve babadan her biri: yasal miras payının dörtte biri',
+        'Eş, altsoy veya ana baba zümresiyle birlikteyse: yasal payının tamamı',
+        'Eş, diğer hâllerde: yasal payının dörtte üçü',
+      ],
+    },
+    {
+      heading: 'Tenkis nasıl uygulanır?',
+      paragraphs: [
+        'Birden fazla kazandırma varsa hepsi aynı anda ve orantılı olarak azaltılır. TMK m.561 uyarınca saklı pay sahibi mirasçılara ölüme bağlı tasarrufla yapılan ve tasarruf edilebilir kısmı aşan kazandırmaların, onların saklı paylarını aşan kısmı orantılı olarak tenkise tâbi olur.',
+        'Kazandırma yapılan kişiler farklı sıfatlarda olabilir. Tenkise tâbi birden fazla ölüme bağlı tasarruf bulunması hâlinde, saklı pay sahibi mirasçıya yapılan kazandırmanın saklı payı aşan kısmı ile saklı pay sahibi olmayan kimselere yapılan kazandırmalar orantılı olarak tenkis edilir.',
+        'Orantılılık, tek bir lehtarın tüm yükü üstlenmesini önler. Kazandırmadan yararlananlar aldıkları ölçüde katkıda bulunur.',
+      ],
+    },
+    {
+      heading: 'Süreler: bir yıl ve on yıl',
+      paragraphs: [
+        'TMK m.571 iki süreyi birlikte işletir. Tenkis davası açma hakkı, mirasçıların saklı paylarının zedelendiğini öğrendikleri tarihten başlayarak bir yıl geçmekle düşer.',
+        'İkinci süre üst sınırdır ve öğrenmeden bağımsız işler: Her hâlde vasiyetnamelerde açılma tarihinin, diğer tasarruflarda mirasın açılması tarihinin üzerinden on yıl geçmekle hak düşer.',
+        'Bir özel hâl daha vardır: Bir tasarrufun iptali bir öncekinin yürürlüğe girmesini sağlarsa, süreler iptal kararının kesinleşmesi tarihinde işlemeye başlar.',
+        'Bu süreler zamanaşımı değil hak düşürücü süredir; hâkim tarafından resen gözetilir ve karşı tarafın ileri sürmesi beklenmez.',
+      ],
+    },
+    {
+      heading: 'Süre geçti: def’i yolu',
+      paragraphs: [
+        'Sürenin dolması her şeyi bitirmez. Maddenin son cümlesi önemli bir kapı bırakır: Tenkis iddiası, def’i yoluyla her zaman ileri sürülebilir.',
+        'Aradaki fark rollerdedir. Dava açmak saldırı, def’i ise savunmadır. Vasiyet alacaklısı size karşı talepte bulunduğunda, süre geçmiş olsa dahi tenkis iddiasını savunma olarak ileri sürebilirsiniz.',
+        'Bu ayrım pratikte şu sonuca yol açar: Terekedeki mal fiilen elinizdeyse durumunuz güçlüdür; karşı taraf sizden istemek zorunda kalır ve siz def’i ileri sürersiniz. Mal karşı tarafa geçmişse dava açmanız gerekir ve süreye tabisiniz.',
+      ],
+    },
+    {
+      heading: 'Sık yapılan hatalar',
+      paragraphs: [
+        'Birinci hata, bir yıllık sürenin ölüm tarihinden işlediğini sanmaktır. Süre, saklı payın zedelendiğinin öğrenildiği tarihten başlar; vasiyetnamenin açılıp okunduğu tarih çoğu dosyada bu andır.',
+        'İkincisi, tenkis ile vasiyetnamenin iptalini karıştırmaktır. İptal davası tasarrufun geçerliliğine, tenkis ise kapsamına yöneliktir; ikisinin şartları ve süreleri farklıdır.',
+        'Üçüncüsü, on yıllık üst sınırı gözden kaçırmaktır. Öğrenme ne kadar geç olursa olsun, vasiyetnamenin açılmasından itibaren on yıl geçtiğinde dava hakkı düşer.',
+      ],
+    },
+  ],
+  steps: [
+    'Vasiyetnamenin veya tasarrufun içeriğini ve açılma tarihini tespit edin.',
+    'Yasal miras payınızı, ardından saklı payınızı hesaplayın.',
+    'Size fiilen ulaşan değerle saklı payınızı karşılaştırın; aradaki fark tenkis konusudur.',
+    'Saklı payın zedelendiğini öğrendiğiniz tarihi belgeleyin — bir yıllık süre oradan işler.',
+    'On yıllık üst sınırın dolup dolmadığını kontrol edin.',
+    'Süre içindeyseniz tenkis davası açın; süre geçmişse def’i yolunu değerlendirin.',
+  ],
+  checklist: [
+    'Ölüm belgesi ve vukuatlı nüfus kayıt örneği',
+    'Vasiyetname veya miras sözleşmesi örneği',
+    'Vasiyetnamenin açılmasına ilişkin tutanak',
+    'Mirasçılık belgesi',
+    'Terekeye ilişkin tapu, banka ve araç kayıtları',
+  ],
+  faq: [
+    {
+      q: 'Tenkis davası ne zaman açılır?',
+      a: 'Saklı payın zedelendiğinin öğrenildiği tarihten itibaren bir yıl içinde. Her hâlde vasiyetnamelerde açılma tarihinden, diğer tasarruflarda mirasın açılmasından itibaren on yıl geçmekle hak düşer.',
+    },
+    {
+      q: 'Süreyi kaçırdım, hiç yapabileceğim bir şey yok mu?',
+      a: 'Tenkis iddiası def’i yoluyla her zaman ileri sürülebilir. Karşı taraf sizden bir talepte bulunduğunda savunma olarak kullanabilirsiniz.',
+    },
+    {
+      q: 'Vasiyetname geçersiz mi olur?',
+      a: 'Hayır. Tenkis, tasarrufu ortadan kaldırmaz; saklı payı karşılayacak ölçüde azaltır.',
+    },
+    {
+      q: 'Kardeşim tenkis davası açabilir mi?',
+      a: 'Kardeşlerin saklı payı 2007 yılında kaldırılmıştır; bu nedenle kardeşler tenkis davası açamaz.',
+    },
+    {
+      q: 'Birden fazla kişiye kazandırma yapılmışsa hangisi azaltılır?',
+      a: 'Kazandırmalar orantılı olarak tenkis edilir; tek bir lehtar tüm yükü üstlenmez.',
+    },
+    {
+      q: 'Tenkis ile vasiyetnamenin iptali aynı şey mi?',
+      a: 'Değildir. İptal davası tasarrufun geçerliliğine, tenkis ise kapsamına yöneliktir; şartları ve süreleri farklıdır.',
+    },
+  ],
+  updated: '2026-08-16',
+  sitemapPriority: 0.93,
+};

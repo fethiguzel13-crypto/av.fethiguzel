@@ -15,7 +15,7 @@ MADDE 24 – (1) İşveren, işyeri sendika temsilcilerinin iş sözleşmelerini
 neden olmadıkça ve nedenini yazılı olarak açık ve kesin şekilde belirtmedikçe feshedemez.
 Fesih bildiriminin tebliği tarihinden itibaren bir ay içinde, temsilci veya üyesi bulunduğu
 sendika dava açabilir.
-(2) Dava basit yargılama usulüne göre sonuçlandırılır. (Değişik cümle: 12/10/2017
+(2) Dava basit yargılama usulüne göre sonuçlandırılır. (Değişik cümle: 12/10/2017-
 7036/31 md.) Mahkemece verilen karar hakkında istinaf yoluna başvurulması hâlinde bölge
 adliye mahkemesi kesin olarak karar verir.
 (3) Temsilcinin işe iadesine karar verilirse fesih geçersiz sayılarak temsilcilik süresini
@@ -28,6 +28,8 @@ yeniden temsilciliğe atanma hâlinde de uygulanır.
 veya işinde esaslı tarzda değişiklik yapamaz. Aksi hâlde değişiklik geçersiz sayılır.
 (5) Bu madde hükümleri işyerinde çalışmaya devam eden yöneticiler hakkında da
 uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

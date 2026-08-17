@@ -11,7 +11,8 @@ wordCount: 4289
 
 ---
 
-Madde 741 - Komşu taşınmaz maliklerinin bitki dikerken uymak zorunda oldukları kurallar özel kanunlarla belirlenir.
+Madde 741- Komşu taşınmaz maliklerinin bitki dikerken uymak zorunda oldukları
+kurallar özel kanunlarla belirlenir.
 
 ---
 

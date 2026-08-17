@@ -31,6 +31,8 @@ sahiplerinin yazılı isteği üzerine 31 inci maddenin ikinci fıkrasına göre
 süreler, ihya edilen süreye ilişkin tutar dahil her türlü borçların ödendiği tarihi takip eden ay
 başı itibarıyla bu Kanuna göre aylık bağlanmasında dikkate alınır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

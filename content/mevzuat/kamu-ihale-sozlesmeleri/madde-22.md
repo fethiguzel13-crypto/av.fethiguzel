@@ -28,6 +28,8 @@ Gelir kaydedilen teminatlar, yüklenicinin borcuna mahsup edilemez.
 26 ncı madde hükümlerine göre işlem yapılır. Ayrıca, sözleşmenin feshi nedeniyle idarenin
 uğradığı zarar ve ziyan yükleniciye tazmin ettirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

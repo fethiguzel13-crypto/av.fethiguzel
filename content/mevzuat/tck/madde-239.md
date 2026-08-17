@@ -23,11 +23,8 @@ bilgiler hakkında da uygulanır.
 takdirde, faile verilecek ceza üçte biri oranında artırılır. Bu halde şikayet koşulu aranmaz.
 (4) Cebir veya tehdit kullanarak bir kimseyi bu madde kapsamına giren bilgi veya
 belgeleri açıklamaya mecbur kılan kişi, üç yıldan yedi yıla kadar hapis cezasıyla cezalandırılır.
-Mal veya hizmet satımından kaçınma98
 
-23/6/2022 tarihli ve 7413 sayılı Kanunun 19 uncu maddesiyle bu maddenin birinci fıkrasında yer
-alan “üç aydan iki yıla” ibaresi “bir yıldan üç yıla”, ikinci fıkrasında yer alan “üçte biri” ibaresi
-“yarısı” ve üçüncü fıkrasında yer alan “sekizde bir” ibaresi “yarısı” şeklinde değiştirilmiştir.
+---
 
 ### Akademik Yorum ve Analiz
 

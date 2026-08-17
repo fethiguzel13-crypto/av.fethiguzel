@@ -14,7 +14,7 @@ wordCount: 4306
 MADDE 77 – Genel Müdürlüğe ve mazbut vakıflara ait taşınmazlar Devlet malı
 imtiyazından yararlanır, haczedilemez, rehnedilemezler. Tüm iş ve işlemleri, her türlü vergi,
 resim, harç ve kamu kurum ve kuruluşlarına ödenecek katılım payları ile değerli kâğıt ve
-işlem bedelinden istisnadır.14
+işlem bedelinden istisnadır.
 (Değişik ikinci fıkra:7/11/2024-7531/20 md.) Genel Müdürlük 2/7/1964 tarihli ve
 492 sayılı Harçlar Kanununda sayılan yargı harçlarından muaftır. Genel Müdürlüğün dava,
 icra takibi ve geçici hukuki koruma tedbirleri gibi her türlü dava ve işte teminat gösterme
@@ -27,13 +27,8 @@ Müdürlükçe tahsil edilir.
 (Mülga dördüncü fıkra:7/11/2024-7531/20 md.)
 Vakıf kültür varlıklarının, restorasyon veya onarım karşılığı kiralama işlemleri, ceza
 ve ihalelerden yasaklama hükümleri hariç 2886 sayılı Devlet İhale Kanunu hükümlerine tâbi
-değildir.15
-(Değişik
-altıncı
-fıkra:7/11/2024-7531/20
-md.)
-Vakıf
-kültür
+değildir.
+(Değişik altıncı fıkra:7/11/2024-7531/20 md.) Vakıf kültür
 varlıklarının restorasyon veya onarım karşılığı kiralama işlemlerine ilişkin usul ve esaslar
 yönetmelikle düzenlenir.
 Yurt içi veya yurt dışında vakıf kültürünü araştırmak, geliştirmek ve desteklemek
@@ -45,17 +40,11 @@ belirleyeceği esaslar dahilinde reklam alabilirler. Vakıflar adına kayıtlı 
 vakıf kültür varlıklarının; bakım, onarım ve restore edilmesi, yaşatılması, çevre düzenlemesi
 ve kamulaştırılması dahil Genel Müdürlüğün kontrolünde gerçek ve tüzel kişilerin kendileri
 tarafından yapılacak harcamalar, bağış ve yardımlar ile sponsorluk harcamalarının tamamı
-7/11/2024 tarihli ve 7531 sayılı Kanunun 20 nci maddesiyle bu fıkrada yer alan “katılım payından”
-ibaresi “kamu kurum ve kuruluşlarına ödenecek katılım payları ile değerli kâğıt ve işlem bedelinden”
-şeklinde değiştirilmiştir.
-15
-7/11/2024 tarihli ve 7531 sayılı Kanunun 20 nci maddesiyle bu fıkraya “işlemleri,” ibaresinden
-sonra gelmek üzere “ceza ve ihalelerden yasaklama hükümleri hariç” ibaresi eklenmiştir.
-14
-
-Gelir ve Kurumlar Vergisi matrahından düşülür.
+Gelir ve Kurumlar Vergisi matrahından düşülür.
 Kuruluşunda veya kurulduktan sonra vakıflara bağışlanan taşınır ve taşınmaz mallar
 Veraset ve İntikal Vergisinden istisnadır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

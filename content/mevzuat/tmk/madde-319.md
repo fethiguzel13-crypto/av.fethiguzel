@@ -7,15 +7,14 @@ lastReviewed: "2026-07-27"
 wordCount: 3629
 ---
 
-**Dava hakkı, evlâtlık ilişkisinin kaldırılması sebebinin öğrenilmesinden**
+**II. Hak düşürücü süre**
 
 ---
 
-Madde 319 - Dava hakkı, evlâtlık ilişkisinin kaldırılması sebebinin öğrenilmesinden
-başlayarak bir yıl (…)22 geçmekle düşer.
-Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2012/35, K.: 2012/203 sayılı Kararı ile bu maddede
-yer alan “…ve her hâlde evlât edinme işleminin üzerinden beş yıl…” ibaresi iptal edilmiştir.
-22
+Madde 319- Dava hakkı, evlâtlık ilişkisinin kaldırılması sebebinin öğrenilmesinden
+başlayarak bir yıl (…)geçmekle düşer.
+
+---
 
 ### Akademik Yorum ve Analiz
 

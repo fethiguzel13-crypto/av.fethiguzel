@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Madde 1012**
+**ÜÇÜNCÜ AYIRIM
+Gemi Rehni
+A) Sicile kayıtlı olmayan gemiler üzerindeki iştirak payının rehni**
 
 ---
 
-Madde 1012 - (1) Sicile kayıtlı olmayan bir geminin bir donatma iştiraki tar afından işletilmesi hâlinde, paydaş donatanlardan her birinin iştirak payının rehni, Türk Medenî Kanununun alacaklar ve diğer haklar üzerindeki rehinlere ilişkin hükümlerine tabidir.
+MADDE 1012- (1) Sicile kayıtlı olmayan bir geminin bir donatma iştiraki tarafından
+işletilmesi hâlinde, paydaş donatanlardan her birinin iştirak payının rehni, Türk Medenî
+Kanununun alacaklar ve diğer haklar üzerindeki rehinlere ilişkin hükümlerine tabidir.
 
 ---
 

@@ -11,7 +11,7 @@ wordCount: 4283
 
 ---
 
-Madde 140 - Asıl borçlunun takası ileri sürme hakkı bulundukça, kefili de alacaklıya
+MADDE 140- Asıl borçlunun takası ileri sürme hakkı bulundukça, kefili de alacaklıya
 ifada bulunmaktan kaçınabilir.
 
 ---

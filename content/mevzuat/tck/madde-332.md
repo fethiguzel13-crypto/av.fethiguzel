@@ -15,6 +15,8 @@ Madde 332- (1) Devletin askerî yararı gereği girilmesi yasaklanmış olan yer
 gizlice veya hile ile girenlere iki yıldan beş yıla kadar hapis cezası verilir.
 (2) Fiil, savaş zamanında işlenirse faile üç yıldan sekiz yıla kadar hapis cezası verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

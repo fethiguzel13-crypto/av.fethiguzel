@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**Yetişme ve deneme süresi**
+**Yetişme ve deneme süresi:**
 
 ---
 
 Madde 42 – (Mülga: 31/7/1970 - 1327/13 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

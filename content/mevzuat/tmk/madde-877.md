@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**VIII. Arazinin iyileştirilmesi hâlinde rehin hakkı 1. Öncelik**
+**VIII. Arazinin iyileştirilmesi hâlinde rehin hakkı
+1. Öncelik**
 
 ---
 
-Madde 877 - Bir kamu kurum v eya kuruluşunun katkısıyla iyileştirilen arazinin değerinde bi r artma meydana gelirse malik, iyileştirme giderlerinden payına düşeni karşılamak üzere ke ndisine ödünç veren alacaklı lehine tescil suretiyle rehin hakkı kurabilir. Kurulan rehin, taşınmaz üzer indeki diğer bütün yüklerden önce gelir. İyileştirme, kamu kur um veya kuruluşunun katkısı olmaksızın yapılmış ise, malik taşınmazı üzerinde en çok masra fların üçte ikisi için rehin kurabilir.
+Madde 877- Bir kamu kurum veya kuruluşunun katkısıyla iyileştirilen arazinin değerinde
+bir artma meydana gelirse malik, iyileştirme giderlerinden payına düşeni karşılamak üzere
+kendisine ödünç veren alacaklı lehine tescil suretiyle rehin hakkı kurabilir. Kurulan rehin,
+taşınmaz üzerindeki diğer bütün yüklerden önce gelir.
+İyileştirme, kamu kurum veya kuruluşunun katkısı olmaksızın yapılmış ise, malik
+taşınmazı üzerinde en çok masrafların üçte ikisi için rehin kurabilir.
 
 ---
 

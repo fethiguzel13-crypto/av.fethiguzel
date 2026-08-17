@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Halka açık ortaklık statüsünün kazanılması**
+**ÜÇÜNCÜ BÖLÜM
+Halka Açık Ortaklıklar
+Halka açık ortaklık statüsünün kazanılması**
 
 ---
 
@@ -24,7 +26,10 @@ sahibi sayısı en az beş yüz olan kooperatiflerin veya kendisine ortak olan k
 sahibi sayısı tek başına ya da toplam olarak en az beş yüz olan kooperatif birliklerinin veya
 kooperatif merkez birliklerinin yönetim kontrolüne sahip olduğu ve yıllık en az elli milyon
 Türk lirası satış hasılatı yapmış olan anonim ortaklıkların payları halka arz olunmuş sayılır.
-Bu ortaklıklar halka açık ortaklık hükümlerine de tabi olurlar. (Mülga cümle:27/12/20187159/8 md.) (…) Bu fıkra kapsamına giren ortaklıklara ikinci fıkra hükümleri uygulanmaz.
+Bu ortaklıklar halka açık ortaklık hükümlerine de tabi olurlar. (Mülga cümle:27/12/2018-
+7159/8 md.) (…) Bu fıkra kapsamına giren ortaklıklara ikinci fıkra hükümleri uygulanmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

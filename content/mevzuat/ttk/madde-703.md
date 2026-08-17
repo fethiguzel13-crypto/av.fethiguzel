@@ -7,11 +7,22 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**Madde 703**
+**DÖRDÜNCÜ AYIRIM
+Ödeme
+A) Vade
+I - Vadenin belirlenmesi
+1. Genel olarak**
 
 ---
 
-Madde 703 - (1) Bir poliçe; a) Görüldüğünde, b) Görüldükten be lirli bir süre sonra, c) Düzenlenme gününden belirli bir süre sonra, d) Belirli bir günde, ödenmek üzere düzenlenebilir. (2) Vadesi başka şekilde yazılan veya birbirini takip eden çeşitli vadeleri gösteren poliçeler batıldır.
+MADDE 703- (1) Bir poliçe;
+a) Görüldüğünde,
+b) Görüldükten belirli bir süre sonra,
+c) Düzenlenme gününden belirli bir süre sonra,
+d) Belirli bir günde,
+ödenmek üzere düzenlenebilir.
+(2) Vadesi başka şekilde yazılan veya birbirini takip eden çeşitli vadeleri gösteren
+poliçeler batıldır.
 
 ---
 

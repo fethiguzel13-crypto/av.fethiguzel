@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**İptal davası70**
+**İptal davası**
 
 ---
 
@@ -32,13 +32,7 @@ tahkime elverişli olmadığı,
 tespit edilirse, hakem kararları iptal edilebilir.
 (3) Hakem veya hakem kurulunun, tahkim sözleşmesi dışında kalan bir konuda karar
 verdiği iddiasıyla açılan iptal davasında, tahkim sözleşmesi kapsamında olan konuların,
-28/2/2018 tarihli ve 7101 sayılı Kanunun 60 ıncı maddesi ile bu maddenin birinci fıkrasında yer
-alan “tahkim yerindeki mahkemede” ibaresi “tahkim yeri bölge adliye mahkemesinde” şeklinde,
-beşinci fıkrasında yer alan “mahkeme” ibaresi “bölge adliye mahkemesi” şeklinde değiştirilmiş ve
-yedinci fıkrasına “(b),” ibaresinden sonra gelmek üzere “(c),” ibaresi eklenmiştir.
-70
-
-tahkim sözleşmesi kapsamında olmayan konulardan ayrılması mümkün olduğu takdirde,
+tahkim sözleşmesi kapsamında olmayan konulardan ayrılması mümkün olduğu takdirde,
 hakem kararının sadece tahkim sözleşmesi kapsamında olmayan konuları içeren bölümü iptal
 edilebilir.
 (4) İptal davası, bir ay içinde açılabilir. Bu süre, hakem kararının veya tavzih,
@@ -55,6 +49,8 @@ bağlanır. Temyiz, kararın icrasını durdurmaz.
 (b), (c), (ç), (d), (e) ve (f) bentlerindeki hâllerin varlığı sebebiyle kabulü hâlinde, taraflar
 aksini kararlaştırmamışlarsa hakemleri ve tahkim süresini yeniden belirleyebilirler. Taraflar
 isterlerse eski hakemleri tayin edebilirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

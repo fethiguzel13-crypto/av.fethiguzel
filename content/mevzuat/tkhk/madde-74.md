@@ -13,7 +13,7 @@ wordCount: 4280
 
 MADDE 74- (1) Satışa sunulan bir seri malın ayıplı olduğunun tespiti, üretiminin
 veya satışının durdurulması, ayıbın ortadan kaldırılması ve satış amacıyla elinde
-bulundururanlardan toplatılması için Bakanlık, tüketiciler veya tüketici örgütleri dava açabilir.
+bulunduranlardan toplatılması için Bakanlık, tüketiciler veya tüketici örgütleri dava açabilir.
 (2) Satışa sunulan seri malın ayıplı olduğunun mahkeme kararı ile tespit edilmesi
 hâlinde, mahkeme ayıbın niteliğine göre malın satışını geçici olarak durdurma veya ayıbı
 giderme kararları verebilir. Üretici veya ithalatçı mahkeme kararının tebliğ tarihinden itibaren
@@ -24,6 +24,8 @@ ettirilir. İmha edilen malla ilgili tüketicinin dava ve tazminat hakları sakl
 (3) Satışa sunulan bir seri malın, tüketicinin güvenliğini tehlikeye sokan bir ayıp
 taşıması durumunda Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair
 Kanun hükümleri saklıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

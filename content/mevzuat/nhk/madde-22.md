@@ -7,17 +7,23 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Evlendirme yetkisi**
+**ÜÇÜNCÜ KISIM
+Noterliğe Atama
+BİRİNCİ BÖLÜM
+İlan ve Başvurma Usulü
+İlan:**
 
 ---
 
-MADDE 22- (1) Bakanlık, evlendirme işlemlerinin nüfus ve vatandaşlık hizmetlerinin
-bütünlüğü içerisinde yürütülmesi için gereken her türlü tedbiri alır ve uygular.
-(2) Evlendirme memuru; belediye bulunan yerlerde belediye başkanı veya bu işle
-görevlendireceği memur, köylerde muhtardır. Bakanlık, il nüfus ve vatandaşlık müdürlüklerine,
-nüfus müdürlüklerine ve dış temsilciliklere, il ve ilçe müftülüklerine evlendirme memurluğu
-yetkisi ve görevi verebilir. Eşlerden birinin yabancı olması halinde evlendirmeye, (...)6 belediye
-evlendirme memurlukları ile nüfus müdürleri yetkilidir.7
+Madde 22 – (Değişik birinci fıkra: 2/12/2014-6572/1 md.) Boşalan, açılan veya
+dördüncü sınıftan üçüncü sınıfa geçirilen noterlikler Resmî Gazete’de ilan olunur.
+Şu kadar ki, yaş tahdidi sebebiyle boşalacak noterliklerin, noterin yaş tahdidine tabi
+tutulmasından önce ilanı zorunludur.
+Yapılacak ilanda, boşalan ve üçüncü sınıfa geçirilen noterliğin bir evvelki yıla ait
+gayrisafi geliri, açılan noterliğin ise emsallerine göre Adalet Bakanlığınca tahmin edilecek
+gayrisafi geliri ve isteklilerin hangi belgelerle birlikte başvurmaları gerektiği gösterilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

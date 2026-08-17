@@ -16,6 +16,8 @@ döneminin bitiminden sonra nisan ayı içinde encümene sunulur. Kesinhesap, be
 meclisinin mayıs ayı toplantısında görüşülerek karara bağlanır.
 Kesinhesabın görüşülmesi ve kesinleşmesinde, bütçeye ilişkin hükümler uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

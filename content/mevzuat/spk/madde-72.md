@@ -21,6 +21,8 @@ alan bağımsız denetim kuruluşlarınca yapılır.
 (3) Borsaların ve piyasa işleticilerinin bilgi sistemleri denetimine ve bu denetimi
 yapacak kuruluşlara ilişkin usul ve esaslar Kurulca belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

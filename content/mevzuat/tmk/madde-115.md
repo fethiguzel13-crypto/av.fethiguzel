@@ -11,7 +11,10 @@ wordCount: 4304
 
 ---
 
-Madde 115 - İçişleri Bakanlığı, Anayasada öngörülen hâllerde ve belirlenen usulle re uygun olarak, denetim makamının da görüşünü almak suretiyle mahkemece bir karar verilinceye kadar vakfı geçici olarak faaliyetten alıkoyabilir ve derhâl mahkemeye başvurur. Hâkim başvuruyu gecikmeksizin karara bağlar. İ. Vakfın sona ermesi
+Madde 115- İçişleri Bakanlığı, Anayasada öngörülen hâllerde ve belirlenen usullere uygun
+olarak, denetim makamının da görüşünü almak suretiyle mahkemece bir karar verilinceye kadar
+vakfı geçici olarak faaliyetten alıkoyabilir ve derhâl mahkemeye başvurur. Hâkim başvuruyu
+gecikmeksizin karara bağlar.
 
 ---
 

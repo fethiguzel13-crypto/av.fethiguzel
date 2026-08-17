@@ -12,7 +12,8 @@ wordCount: 4308
 
 ---
 
-Madde 73 - Genel kurul, derneğin en yetkili karar organı olup; derneğe kayı tlı üyelerden oluşur. 2.Toplanması a. Olağan toplantı
+Madde 73- Genel kurul, derneğin en yetkili karar organı olup; derneğe kayıtlı üyelerden
+oluşur.
 
 ---
 

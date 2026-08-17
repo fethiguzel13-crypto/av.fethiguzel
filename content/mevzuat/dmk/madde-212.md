@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**Yiyecek yardımı**
+**Yiyecek yardımı:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 212 – Devlet memurlarının hangi hallerde yiyecek yardımından ne şek
 faydalanacakları ve bu yardımın uygulanması ile ilgili esaslar Maliye Bakanlığı ile
 Başbakanlık Devlet Personel Başkanlığının birlikte hazırlıyacakları bir yönetmelik ile tesbit
 olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

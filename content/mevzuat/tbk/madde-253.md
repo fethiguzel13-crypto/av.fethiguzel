@@ -13,7 +13,7 @@ I. Taksitle satış
 
 ---
 
-Madde 253 - Taksitle satış, satıcının, satılan taşınırı alıcıya satış bedelinin
+MADDE 253- Taksitle satış, satıcının, satılan taşınırı alıcıya satış bedelinin
 ödenmesinden önce teslim etmeyi, alıcının da satış bedelini kısım kısım ödemeyi üstlendikleri
 satıştır.
 Taksitle satış sözleşmesi, yazılı şekilde yapılmadıkça geçerli olmaz.
@@ -28,11 +28,11 @@ hususlar belirtilir:
 7. Peşinat ve taksitlerin tutarı ile vadesi ve ikiden az olmamak üzere taksit sayısı.
 8. Alıcının yedi gün içinde sözleşme yapılması konusundaki irade açıklamasını geri
 alma hakkı.
-
 9. Öngörülmüşse, mülkiyetin saklı tutulmasına veya satış bedeli alacağının devrine
 ilişkin anlaşma kayıtları.
 10. Temerrüt veya vadenin ertelenmesi durumunda, yasal faiz oranının yüzde otuz
 fazlasını geçmemek üzere ödenecek faiz.
+11. Sözleşmenin kurulduğu yer ve tarih.
 
 ---
 

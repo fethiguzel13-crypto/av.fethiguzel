@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**Kanundaki Istılahlar**
+**Kanundaki Istılahlar:**
 
 ---
 
@@ -26,6 +26,8 @@ Açıkça öngörülen istisnalar dışında, bayrağına ve bir sicile kayıtl�
 bakılmaksızın bütün gemiler hakkında bu Kanunun taşınırlara ilişkin hükümleri uygulanır. Bu
 Kanun uyarınca gemi siciline verilecek şerhler, Türk Ticaret Kanununun 977 nci maddesi
 hükmüne tâbidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

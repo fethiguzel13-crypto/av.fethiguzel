@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Madde 894**
+**ÜÇÜNCÜ KISIM
+Taşınma Eşyası Taşıması
+A) Uygulanacak hükümler**
 
 ---
 
-Madde 894 - (1) Bir e vden, bürodan veya benzeri bir yerden alınıp benzeri bir yere taşınan eşya “taşınma eşyası”dır. Konusu taşınma eşyası olan taşıma sözleşmesine, bu Kısımda öngörülen hükümlerde veya uygulanması gerekli milletlerarası sözleşmelerde aksine hüküm bulunmadıkça, bu Kitabın Birinci ve İkinci Kısım hükümleri uygulanır.
+MADDE 894- (1) Bir evden, bürodan veya benzeri bir yerden alınıp benzeri bir yere
+taşınan eşya “taşınma eşyası”dır. Konusu taşınma eşyası olan taşıma sözleşmesine, bu
+Kısımda öngörülen hükümlerde veya uygulanması gerekli milletlerarası sözleşmelerde aksine
+hüküm bulunmadıkça, bu Kitabın Birinci ve İkinci Kısım hükümleri uygulanır.
 
 ---
 

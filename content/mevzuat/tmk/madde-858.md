@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**II. R ehnin sona ermesi**
+**II. Rehnin sona ermesi**
 
 ---
 
-Madde 858 - Taşınmaz rehni, tescilin terkini veya taşınmazın tamamen yok olmasıyla sona erer. Kamulaştırmaya ilişkin kanun hükümleri saklıdır.
+Madde 858- Taşınmaz rehni, tescilin terkini veya taşınmazın tamamen yok olmasıyla sona
+erer.
+Kamulaştırmaya ilişkin kanun hükümleri saklıdır.
 
 ---
 

@@ -14,6 +14,8 @@ wordCount: 4270
 Madde 287 – (1) Hükümden önce verilip hükme esas teşkil eden veya başkaca kanun
 yolu öngörülmemiş olan mahkeme kararları da hükümle beraber temyiz olunabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

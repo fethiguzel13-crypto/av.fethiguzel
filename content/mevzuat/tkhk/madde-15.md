@@ -25,13 +25,14 @@ tüketici açısından sorun teşkil edip etmeyeceği gibi hususlar dikkate alı
 (3) Tüketicinin sözleşmeden dönme veya ayıp oranında bedelden indirim hakkını
 seçtiği durumlarda, ödemiş olduğu bedelin tümü veya bedelden indirim yapılan tutar derhâl
 tüketiciye iade edilir.
-
 (4) Ücretsiz onarım veya hizmetin yeniden görülmesinin seçildiği hâllerde, hizmetin
 niteliği ve tüketicinin bu hizmetten yararlanma amacı dikkate alındığında, makul
 sayılabilecek bir süre içinde ve tüketici için ciddi sorunlar doğurmayacak şekilde bu talep
 sağlayıcı tarafından yerine getirilir. Her hâlükârda bu süre talebin sağlayıcıya
 yöneltilmesinden itibaren otuz iş gününü geçemez. Aksi takdirde tüketici diğer seçimlik
 haklarını kullanmakta serbesttir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

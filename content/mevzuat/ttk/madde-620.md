@@ -7,13 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**III
-- Karar alma
+**III - Karar alma
 1. Olağan karar alma**
 
 ---
 
-Madde 620 - (1) Kanun veya şirket sözleşmesinde aksi öngörülmediği takdirde, seçim kararları dâhil, tü m genel kurul kararları, toplantıda temsil edilen oyların salt çoğunluğu ile alınır.
+MADDE 620- (1) Kanun veya şirket sözleşmesinde aksi öngörülmediği takdirde,
+seçim kararları dâhil, tüm genel kurul kararları, toplantıda temsil edilen oyların salt çoğunluğu
+ile alınır.
 
 ---
 

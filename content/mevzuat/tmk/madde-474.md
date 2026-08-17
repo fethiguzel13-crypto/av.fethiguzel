@@ -11,7 +11,10 @@ wordCount: 4306
 
 ---
 
-Madde 474 - Akıl hastalığı veya akıl zayıflığı yüzünden kıs ıtlanmış olan kişi üzerinde ki vesayeti n kald ırılmasına, ancak kısıtlama sebebinin ortadan kalkmış olduğ unun resmî sağlık kurulu raporu ile belirlenm esi hâlinde karar verilebilir.
+Madde 474- Akıl hastalığı veya akıl zayıflığı yüzünden kısıtlanmış olan kişi üzerindeki
+vesayetin kaldırılmasına, ancak kısıtlama sebebinin ortadan kalkmış olduğunun resmî sağlık
+kurulu raporu ile belirlenmesi hâlinde karar verilebilir.
+3. Savurganlık, alkol veya uyuşturucu madde bağımlılığı, kötü yaşama tarzı, kötü
 
 ---
 

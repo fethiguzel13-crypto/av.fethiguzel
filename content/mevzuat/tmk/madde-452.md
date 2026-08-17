@@ -11,7 +11,12 @@ wordCount: 4259
 
 ---
 
-Madde 452 - Vasinin onamadığı işlemlerde taraflar dan her biri verdiğini geri isteyebili r. Ancak, vesayet altındaki kişi, sadece ke ndi menfaatine harcanan vey a geri isteme zamanında malvarlığında mevcut olan zenginleşme tutarıyla ya da iyiniyetli olmaksızın eld en çıkarmış olduğu miktarla sorumludur. Vesay et altındaki kişi, fiil ehliyetine sahip olduğu hususunda diğer tarafı yanıltmış ise, onun bu yüzden uğradığ ı zarardan sorumlu olur.
+Madde 452- Vasinin onamadığı işlemlerde taraflardan her biri verdiğini geri isteyebilir.
+Ancak, vesayet altındaki kişi, sadece kendi menfaatine harcanan veya geri isteme zamanında
+malvarlığında mevcut olan zenginleşme tutarıyla ya da iyiniyetli olmaksızın elden çıkarmış
+olduğu miktarla sorumludur.
+Vesayet altındaki kişi, fiil ehliyetine sahip olduğu hususunda diğer tarafı yanıltmış ise,
+onun bu yüzden uğradığı zarardan sorumlu olur.
 
 ---
 

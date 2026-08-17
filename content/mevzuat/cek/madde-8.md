@@ -28,6 +28,8 @@ aracılığıyla ibraz edilen çekin, hesapta yeterli karşılığının olmadı
 muhatap banka tarafından, hesapta bulunan kısmî karşılık tutarı, çeki ibraz eden hamil lehine
 onbeş gün süreyle bloke edilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

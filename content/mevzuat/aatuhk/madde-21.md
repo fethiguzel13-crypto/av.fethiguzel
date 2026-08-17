@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Amme alacaklarında rüçhan hakkı**
+**IV - Diğer korunma hükümleri
+Amme alacaklarında rüçhan hakkı:**
 
 ---
 
@@ -25,6 +26,8 @@ terekenin resmi tasfiyeye tabi tutulması hallerinde amme alacakları imtiyazlı
 2004 sayılı İcra ve İflas Kanununun 206 ncı maddesinin üçüncü sırasında, bu sıranın
 önceliğini alan alacaklar da dahil olmak üzere tüm imtiyazlı alacaklar ile birlikte işleme tabi
 tutulur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

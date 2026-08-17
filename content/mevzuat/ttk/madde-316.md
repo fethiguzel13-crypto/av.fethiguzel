@@ -7,11 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**2. Ölüm hâlinde**
-
----
-
-Madde 316 - (1) Ölen bir komandit erin yerine mirasçıları geçer. ÜÇÜNCÜ BÖLÜM Şirketin ve Ortakların Üçüncü Kişilerle Olan İlişkileri A) Uygulanacak hükümler
+MADDE 316- (1) Ölen bir komanditerin yerine mirasçıları geçer.
 
 ---
 

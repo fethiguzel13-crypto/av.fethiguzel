@@ -11,7 +11,11 @@ wordCount: 4316
 
 ---
 
-Madde 774 - Su, rüzgâr, çığ veya diğer doğal güçlerin etkisiyle veya rastlantı sonucunda taşınır mallar veya hayvanlar kimin egemenlik alanına girerse, o kimse kaybolan eşyayı bulanın haklarına sahip ve y ükümlülüklerine tâbi olur. Başkasının kovanına göçen arı oğulu, bir bedel ödenmesi gerekme ksizin kovan malikinin olur.
+Madde 774- Su, rüzgâr, çığ veya diğer doğal güçlerin etkisiyle veya rastlantı sonucunda
+taşınır mallar veya hayvanlar kimin egemenlik alanına girerse, o kimse kaybolan eşyayı bulanın
+haklarına sahip ve yükümlülüklerine tâbi olur.
+Başkasının kovanına göçen arı oğulu, bir bedel ödenmesi gerekmeksizin kovan malikinin
+olur.
 
 ---
 

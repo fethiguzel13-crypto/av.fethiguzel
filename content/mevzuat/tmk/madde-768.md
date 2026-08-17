@@ -7,26 +7,17 @@ lastReviewed: "2026-07-27"
 wordCount: 3618
 ---
 
-**Tutulan av**
+**2. Sahipsiz duruma gelen hayvanlar**
 
 ---
 
-Madde 768 - Tutulan av
-hayvanları, yeniden serbest kalır ve sahipleri onları gecikmeksizin ve ara
-vermeksizin aramaz ve tekrar tutmak için uğraşmazsa, sahipsiz duruma gelirler.
-
-Ehlileştirilmiş
-hayvanlar tekrar vahşileşir ve sahiplerine dönmezlerse, sahipsiz duruma
+Madde 768- Tutulan av hayvanları, yeniden serbest kalır ve sahipleri onları gecikmeksizin
+ve ara vermeksizin aramaz ve tekrar tutmak için uğraşmazsa, sahipsiz duruma gelirler.
+Ehlileştirilmiş hayvanlar tekrar vahşileşir ve sahiplerine dönmezlerse, sahipsiz duruma
 gelirler.
+Arı oğulu başkasının taşınmazına uçmuş olmakla sahipsiz duruma gelmez.
 
-Arı
-oğulu başkasının taşınmazına uçmuş olmakla sahipsiz duruma gelmez.
-
-III.
-Bulunmuş eşya
-
-1.
-Arama ve ilân
+---
 
 ### Akademik Yorum ve Analiz
 

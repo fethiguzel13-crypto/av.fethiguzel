@@ -20,6 +20,8 @@ dayanarak alenen aşağılayan kişi, altı aydan bir yıla kadar hapis cezası 
 (3) Halkın bir kesiminin benimsediği dini değerleri alenen aşağılayan kişi, fiilin kamu
 barışını bozmaya elverişli olması halinde, altı aydan bir yıla kadar hapis cezası ile cezalandırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

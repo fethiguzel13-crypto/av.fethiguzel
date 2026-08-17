@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**Sınav sonuçları**
+**(Mülga üçüncü fıkra: 13/2/2011-6111/99 md.)
+(Ek: 30/5/1997 – KHK-572/14 md.; Mülga dördüncü fıkra: 13/2/2011 - 6111/99
+md.)
+Sınav sonuçları:**
 
 ---
 
@@ -16,6 +19,8 @@ Sınav sonuçları, ilgili kurumda teşkil edilen sınav komisyonlarının sorum
 belirlenecek başarılı olanların isimleri başarı sıralarına göre ilan edilir ve yazı ile de ilgililere
 bildirilir.
 İlan edilen sınav sonuçları müteakip sınav tarihine kadar geçerlidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,23 +7,19 @@ lastReviewed: "2026-07-27"
 wordCount: 3628
 ---
 
-**Birlikte yaşayan kimseler evin düzenine tâbidir. Bu düzenin kuruluşunda**
+**B. Hükümleri
+I. Ev düzeni ve gözetim**
 
 ---
 
-Madde 368 - Birlikte yaşayan kimseler evin düzenine tâbidir. Bu düzenin kuruluşunda
-ev halkından her birinin yararı adil biçimde gözetilir.
+Madde 368- Birlikte yaşayan kimseler evin düzenine tâbidir. Bu düzenin kuruluşunda ev
+halkından her birinin yararı adil biçimde gözetilir.
+Ev halkının her biri, özellikle öğrenimi, eğitimi, dinî inançları, meslek ve sanatı için
+gerekli özgürlükten yararlanır.
+Ev başkanı, birlikte yaşayanların evdeki eşyasını özenle korumak ve güvenlik altında
+bulundurmakla yükümlüdür.
 
-Ev
-halkının her biri, özellikle öğrenimi, eğitimi, dinî inançları, meslek ve
-sanatı için gerekli özgürlükten yararlanır.
-
-Ev
-başkanı, birlikte yaşayanların evdeki eşyasını özenle korumak ve güvenlik
-altında bulundurmakla yükümlüdür.
-
-II.
-Sorumluluk
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,9 @@ wordCount: 4310
 
 ---
 
-Madde 728 - Başkasının arazisi üzerinde kalıcı olması amaçlanmaksızın yapı lan kulübe, büfe, çardak, baraka ve benzeri hafif yapılar, bunların malikine aittir. Bu t ür yapılar, taşınır mal hük ümlerine tâbi olur ve tapu kütüğünde gösterilmez.
+Madde 728- Başkasının arazisi üzerinde kalıcı olması amaçlanmaksızın yapılan kulübe,
+büfe, çardak, baraka ve benzeri hafif yapılar, bunların malikine aittir.
+Bu tür yapılar, taşınır mal hükümlerine tâbi olur ve tapu kütüğünde gösterilmez.
 
 ---
 

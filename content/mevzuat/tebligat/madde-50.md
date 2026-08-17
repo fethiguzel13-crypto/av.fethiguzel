@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**Divanı Muhasebat tarafından yapılacak tebligat**
+**ÜÇÜNCÜ FASIL
+Mali Tebligat
+Divanı Muhasebat tarafından yapılacak tebligat:**
 
 ---
 
@@ -16,6 +18,8 @@ merkez teşkilatında vazifeli bulunanlara, bağlı oldukları daireler, bunlar�
 mahalli mülkiye amiri vasıtasıyla yaptırılır
 Adresin tesbit olunamaması veya tebellüğden imtina hallerinde tebligat, bu kanunun
 umumi hükümleri dairesinde yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

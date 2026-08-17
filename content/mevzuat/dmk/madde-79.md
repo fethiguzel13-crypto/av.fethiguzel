@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**yükümlülükleri**
+**Bilgilerini artırmak için yabancı memlekete gönderilenlerin hak ve
+yükümlülükleri:**
 
 ---
 
@@ -25,13 +26,13 @@ etmeleri şartıyla emeklilik yönünden eski derecelerinde değerlendirilir.
 (Değişik: 22/8/1989 – KHK-378/2 md.) (Değişik birinci cümle: 23/7/2010-6009/60
 md.) Kurumlarınca gönderilenlerden, uluslararası kuruluşlarda staj yapan ve çalışma esas ve
 usulleri ile misyon şeflikleriyle ilişkileri Devlet Personel Başkanlığının görüşü üzerine
-
-Dışişleri Bakanlığınca belirlenen memurlara, gittikleri ülkelerde sürekli görevle bulunan ve
+Dışişleri Bakanlığınca belirlenen memurlara, gittikleri ülkelerde sürekli görevle bulunan ve
 dokuzuncu derecenin birinci kademesinden aylık alan meslek memurlarına ödenmekte olan
-yurtdışı aylığı tutarı, diğerlerine bu tutarın 2/3’ü ödenir. (Değişik son cümle: 17/9/20045234/1 md.) Şahsen özel burs sağlayan ve bu burstan istifade etmesi için kendilerine maaşsız
+yurtdışı aylığı tutarı, diğerlerine bu tutarın 2/3’ü ödenir. (Değişik son cümle: 17/9/2004-
+5234/1 md.) Şahsen özel burs sağlayan ve bu burstan istifade etmesi için kendilerine maaşsız
 izin verilenler ile Cumhurbaşkanınca kurumlar itibarıyla belirlenen kontenjan dışında
 gönderilenler hariç olmak üzere, burslu gidenlerin aldıkları burs miktarları bu miktarın altında
-ise aradaki fark kurumlarınca kendilerine ayrıca ödenir.147
+ise aradaki fark kurumlarınca kendilerine ayrıca ödenir.
 (Değişik: 12/2/1982 - 2595/6 md.) Bu suretle yapılacak fark ödeme, her türlü vergiden
 müstesnadır.
 Sürelerinin bitiminde görevlerine başlamıyanlar çekilmiş sayılırlar. Bu suretle
@@ -40,6 +41,8 @@ yapılmış bulunan bütün masrafları iki kat olarak ödemeye mecburdurlar.
 Görevlerine başlayıp da yükümlü bulundukları mecburi hizmetini bitirmeden
 ayrılanlar veya bir ceza sebebi ile memurluktan çıkarılmış olanlar mecburi hizmetlerinin eksik
 kalan kısmı ile orantılı miktarı iki kat olarak ödemek zorundadırlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

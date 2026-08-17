@@ -7,13 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**beyannameler için kusur cezası116**
+**beyannameler için kusur cezası**
 
 ---
 
 Madde 350 – (Mülga: 22/7/1998-4369/82 md.)
-İKİNCİ BÖLÜM117
-Usulsüzlük
+
+---
 
 ### Akademik Yorum ve Analiz
 

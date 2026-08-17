@@ -20,6 +20,8 @@ uyarısında bulunması zorunludur.
 (2) Muaccel kılınan taksitlerin hesaplanmasında faiz, komisyon ve benzeri masraflar
 dikkate alınmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

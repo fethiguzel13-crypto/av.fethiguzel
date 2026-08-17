@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-**Madde 413**
+**DÖRDÜNCÜ AYIRIM
+VASİNİN ATANMASI
+A. Koşulları
+I. Genel olarak**
 
 ---
 
-Madde 413 - Vesayet makamı, bu görevi yapabile cek yetenekte olan bir ergi ni vasi olarak atar. Gereken durumlard a, bu görevi birlikte veya vesayet makamı tarafından belirlenen yetkileri uyarınca ayrı ayrı yerine getirmek ü zere birden çok vasi atanabilir. Rızaları bulunmadıkça birden çok kimse vesayeti birlikte yürütmekle görevle ndirilemez.
+Madde 413- Vesayet makamı, bu görevi yapabilecek yetenekte olan bir ergini vasi olarak atar.
+Gereken durumlarda, bu görevi birlikte veya vesayet makamı tarafından belirlenen
+yetkileri uyarınca ayrı ayrı yerine getirmek üzere birden çok vasi atanabilir.
+Rızaları bulunmadıkça birden çok kimse vesayeti birlikte yürütmekle görevlendirilemez.
 
 ---
 

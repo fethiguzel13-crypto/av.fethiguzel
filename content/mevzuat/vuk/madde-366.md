@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**Ceza ihbarnamesi**
+**Ceza ihbarnamesi:**
 
 ---
 
@@ -27,6 +27,8 @@ bildirilmek suretiyle)
 11. (Değişik: 23/6/1982-2686/39 md.) Vergi mahkemesinde dava açma süresi.
 Cezayı gerektiren olayın tesbitine dair tutanak sureti ile inceleme raporunun birer
 örneği ihbarnameye bağlanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

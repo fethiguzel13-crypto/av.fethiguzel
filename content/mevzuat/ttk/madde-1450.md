@@ -11,7 +11,8 @@ wordCount: 4270
 
 ---
 
-Madde 1450 - (1) Sosyal güvenl ik kurumları ile yapılan sözleşmeler hakkında, kendi kanunlarında aksine hüküm bulunmadıkça, bu Kanun hükümleri uygulanmaz.
+MADDE 1450- (1) Sosyal güvenlik kurumları ile yapılan sözleşmeler hakkında, kendi
+kanunlarında aksine hüküm bulunmadıkça, bu Kanun hükümleri uygulanmaz.
 
 ---
 

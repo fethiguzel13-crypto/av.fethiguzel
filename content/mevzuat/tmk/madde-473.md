@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**1. İlân**
+**II. Usulü
+1. İlân**
 
 ---
 
-Madde 473 - Kısıtlama ilân e dilmi şse, kaldırılması da ilân olunur. Fiil ehliyetinin yeniden kazanılması, ilânın yapılmasına bağlı de ğildir.
+Madde 473- Kısıtlama ilân edilmişse, kaldırılması da ilân olunur.
+Fiil ehliyetinin yeniden kazanılması, ilânın yapılmasına bağlı değildir.
 
 ---
 

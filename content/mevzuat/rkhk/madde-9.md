@@ -24,10 +24,11 @@ yapısal tedbire uyması için en az 6 ay süre verilir.
 Meşru bir menfaati olan gerçek ve tüzelkişiler şikayette bulunabilir.
 Kurul, birinci fıkraya göre bir karar almadan önce ilgili teşebbüs veya teşebbüs
 birliklerine ihlale ne şekilde son vereceklerine ilişkin görüşlerini yazılı olarak bildirir.
-
-Kurul, nihai karara kadar ciddi ve telafi olunamayacak zararların ortaya çıkma
+Kurul, nihai karara kadar ciddi ve telafi olunamayacak zararların ortaya çıkma
 ihtimalinin bulunduğu durumlarda, ihlalden önceki durumu koruyucu nitelikte ve nihai
 kararın kapsamını aşmayacak şekilde geçici tedbirler alabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -16,6 +16,8 @@ müdürü tarafından derhâl taraflara tebliğ edilir.
 (2) Tebliğ giderleri, temyiz dilekçesiyle birlikte, temyiz talebinde bulunandan peşin
 olarak alınır. Bu giderlerin ödenmemesi hâlinde 344 üncü madde hükmü uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

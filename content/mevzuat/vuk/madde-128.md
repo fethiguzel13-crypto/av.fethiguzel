@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Yoklamaya yetkililer**
+**Yoklamaya yetkililer:**
 
 ---
 
@@ -18,6 +18,8 @@ Madde 128 – Yoklama:
 4. Vergi incelenmesine yetkili olanlar;
 5. (Ek: 5/5/2005-5345/34 md.) Gelir uzmanları;
 tarafından yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

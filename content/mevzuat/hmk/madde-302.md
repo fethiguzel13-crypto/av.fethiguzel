@@ -23,6 +23,8 @@ konmak ve başkan veya hâkim tarafından imzalanmak suretiyle belirtilir.
 kararların kesinleşme kaydı ile kesinleşme kaydı yapılan kararların yerine getirilmesi için
 gerekli bildirimler de ilk derece mahkemesince yapılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

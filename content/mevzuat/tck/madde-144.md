@@ -17,6 +17,8 @@ b) Bir hukuki ilişkiye dayanan alacağı tahsil amacıyla,
 İşlenmesi halinde, şikayet üzerine, fail hakkında iki aydan bir yıla kadar hapis veya
 adlî para cezasına hükmolunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

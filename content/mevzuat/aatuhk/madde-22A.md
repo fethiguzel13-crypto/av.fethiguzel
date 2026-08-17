@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**sorumlulukları**
+**Amme alacağı ödenmeden yapılmayacak işlemler ile işlem yapanların
+sorumlulukları:**
 
 ---
 
@@ -22,12 +23,12 @@ uygulamaya ilişkin usul ve esasları belirlemeye yetkilidir.
 1. 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa tabi
 kamu idareleri ile bu idarelere bağlı döner sermaye işletmelerinin yapacağı her türlü
 ödemelerde (mahkeme kararları ve icra dairelerinin ödeme veya icra emirleri üzerine
-yapılacak ödemeler dâhil),6
+yapılacak ödemeler dâhil),
 2. 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu kapsamına giren kurumlar ile
 kamu tüzel kişiliğini haiz kurum ve kuruluşların (meslekî kuruluşlar ve vakıf yüksek öğretim
 kurumları hariç) mal veya hizmet alımları ile yapım işleri nedeniyle hak sahiplerine
 yapacakları ödemelerde,
-3. Kanun (…)7 ve diğer mevzuatla nakdi olarak sağlanan Devlet yardımları, teşvikler
+3. Kanun (…)ve diğer mevzuatla nakdi olarak sağlanan Devlet yardımları, teşvikler
 ve destekler nedeniyle yapılacak ödemelerde,
 4. 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununa ekli tarifelerde yer alan ticaret sicil
 harçlarından kayıt ve tescil harçları, noter harçlarından senet, mukavelename ve kâğıtlardan
@@ -44,18 +45,11 @@ idarelerinin alacaklarına karşılık kesinti yapılması gereken hallerde kesi
 taksim olunur.
 Takibata selahiyetli tahsil dairesince, bu madde kapsamında getirilen zorunluluğa
 rağmen borcun olmadığına dair belgeyi aramaksızın ödeme yapanlara ve işlem tesis eden
-28/7/2024 tarihli ve 7524 sayılı Kanunun 1 inci maddesi ile bu bentte yer alan “her türlü
-ödemelerde,” ibaresi “her türlü ödemelerde (mahkeme kararları ve icra dairelerinin ödeme veya icra
-emirleri üzerine yapılacak ödemeler dâhil),” şeklinde değiştirilmiştir.
-7
-2/7/2018 tarihli ve 700 sayılı KHK’nin 28 inci maddesiyle, bu bentte yer alan “, kararname” ibaresi
-madde metninden çıkarılmıştır.
-6
-
-kurum ve kuruluşlara dört bin Türk lirası idari para cezası verilir. İdari para cezası, ilgilisine
+kurum ve kuruluşlara dört bin Türk lirası idari para cezası verilir. İdari para cezası, ilgilisine
 tebliğ tarihinden itibaren bir ay içinde ödenir. İdari para cezasına karşı tebliğ tarihini takip
 eden otuz gün içinde idare mahkemesinde dava açılabilir.
-Tahsil edilen amme alacaklarından yapılacak reddiyat sebebiyle mahsuplar:
+
+---
 
 ### Akademik Yorum ve Analiz
 

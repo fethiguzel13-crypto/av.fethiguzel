@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**iadesi**
+**Resmi belge, araç ve gereçlerin yetki verilen mahaller dışına çıkarılmaması ve
+iadesi:**
 
 ---
 
@@ -17,6 +18,8 @@ mahaller dışına çıkaramazlar, hususi işlerinde kullanamazlar.
 Devlet memurları görevleri icabı kendilerine teslim edilen resmi belge, araç ve
 gereçleri görevleri sona erdiği zaman iade etmek zorundadırlar. Bu zorunluluk memurun
 mirasçılarına da şamildir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,8 @@ wordCount: 4297
 
 ---
 
-Madde 51 - Tüzel kişinin yerleşim yeri, kuruluş belgesinde başka bir hüküm bulunmadıkça işlerinin yönetildiği yerdir.
+Madde 51- Tüzel kişinin yerleşim yeri, kuruluş belgesinde başka bir hüküm bulunmadıkça
+işlerinin yönetildiği yerdir.
 
 ---
 

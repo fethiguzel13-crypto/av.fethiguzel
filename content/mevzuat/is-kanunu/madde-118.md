@@ -7,13 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Sendikalar Kanununa İlişkin Değişiklik (m.31)**
+**yerine işlenmiştir.)**
 
 ---
 
-Madde 118 - 5.5.1983 tarihli ve 2821 sayılı Sendikalar Kanununun 31 inci maddesinin ilgili fıkraları değiştirilmiştir.
-
-*(Not: Bu değişiklik ile 2821 sayılı Sendikalar Kanunu'nun 31. maddesinde (sendika üyeliğinin güvencesi) yer alan mülga 1475 sayılı İş Kanunu atıfları, 4857 sayılı İş Kanunu'nun ilgili maddelerine uyarlanmıştır. 2821 sayılı Kanun, 2012 yılında yürürlüğe giren 6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanunu ile tamamen yürürlükten kaldırılmış olup, güncel sendikal tazminat ve üyelik güvencesi 6356 sayılı Kanun'un 25. maddesinde düzenlenmiştir. Hüküm, tarihsel sevk niteliğindedir.)*
+Madde 118 - (5.5.1983 tarihli ve 2821 sayılı Sendikalar Kanunu ile ilgili olup
 
 ---
 

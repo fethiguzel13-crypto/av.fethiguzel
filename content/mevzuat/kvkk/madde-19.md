@@ -7,19 +7,20 @@ lastReviewed: "2026-07-20"
 wordCount: 4283
 ---
 
-**Kişisel Verileri Koruma Kurumu**
+**ALTINCI BÖLÜM
+Kişisel Verileri Koruma Kurumu ve Teşkilat
+Kişisel Verileri Koruma Kurumu
+(1) Bu Kanunla verilen görevleri yerine getirmek üzere, idari ve mali**
 
 ---
 
-MADDE 19- (1) Bu Kanunla verilen görevleri yerine getirmek üzere, idari ve mali
+MADDE 19-
 özerkliğe sahip ve kamu tüzel kişiliğini haiz Kişisel Verileri Koruma Kurumu kurulmuştur.
-(2) Kurum Cumhurbaşkanının görevlendireceği bakan ile ilişkilidir.2
-2/3/2024 tarihli ve 7499 sayılı Kanunun 35 inci maddesi ile bu maddeye ikinci fıkradan sonra gelmek
-üzere fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.
-1
-
-(3) Kurumun merkezi Ankara’dadır.
+(2) Kurum Cumhurbaşkanının görevlendireceği bakan ile ilişkilidir.
+(3) Kurumun merkezi Ankara’dadır.
 (4) Kurum, Kurul ve Başkanlıktan oluşur. Kurumun karar organı Kuruldur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

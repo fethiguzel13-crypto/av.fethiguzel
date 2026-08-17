@@ -22,6 +22,8 @@ yazılı görüşlerini tüm Kurul üyeleri ile ilgili taraflara bildirir. Taraf
 görüşe cevap verebilirler.
 Tarafların süresi içinde verilmeyen savunmaları dikkate alınmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,13 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Tescil mecburiyeti**
+**Rapor:**
 
 ---
 
-MADDE 11- (1) Türkiye Cumhuriyeti vatandaşı olan her kişi yurt içinde nüfus müdürlüğüne, yurt dışında dış temsilciliğe müracaatla kendisini nüfus kütüklerine yazdırmaya ve kimlik kartı almaya mecburdur. Ergin olmayanların nüfus olaylarını yazdırıp kimlik kartlarını almaya veli, vasi veya kayyımları, bunların bulunmaması halinde, çocukları yanlarında bulunduranlar ile yetkili kuruluş yetkilileri görevlidirler.
-
-(2) Türk vatandaşlığını sonradan kazanmış olanlar da vatandaşlığı kazandıkları tarihten itibaren nüfus kütüğüne geçirilir.
+Madde 11 – Oda başkanı, istemin ilanından önce odaya bağlı noterlerden birini,
+istemde bulunanın manevi nitelikleri taşıyıp taşımadığını ve noter stajiyerliği ile birleşmiyen
+bir işle uğraşıp uğraşmadığını araştırarak bir rapor düzenlemek üzere görevlendirir.
 
 ---
 

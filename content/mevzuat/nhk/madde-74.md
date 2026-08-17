@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**Yürürlük**
+**İlgilinin Türkçe bilmemesi:**
 
 ---
 
-MADDE 74- (1) Bu Kanun yayımı tarihinde yürürlüğe girer.
+Madde 74 – İlgili, Türkçe bilmezse andlı bir tercüman da bulundurulur.
+İmza yerine işaret, mühür veya parmak izi kullanılması:
+
+---
 
 ### Akademik Yorum ve Analiz
 

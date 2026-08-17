@@ -11,7 +11,7 @@ wordCount: 4285
 
 ---
 
-Madde 326 - Kiracı ve kiraya veren, kira sözleşmesinden doğan alacaklarını takas
+MADDE 326- Kiracı ve kiraya veren, kira sözleşmesinden doğan alacaklarını takas
 etme hakkından önceden feragat edemezler.
 
 ---

@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**3. Tereke alacaklılarının hakla rı**
+**3. Tereke alacaklılarının hakları**
 
 ---
 
-Madde 530 - Mirasın açılm ası anında ter eke, borçları karşılayam ıyorsa ve bo rçlar mirasçılar tarafından da ödenmiyor sa, feragat eden ve mirasçıları, alacaklılara karşı feraga t için ölümünden önceki beş yıl içinde mirasbırakandan alm ış oldukları karşılıkta n, mirasın açılması anındak i zenginleşmeleri tutarında sorumludur lar. DÖRDÜNCÜ AYIRIM ÖLÜME BAĞLI TASARRUFLARIN ŞEKİLLERİ
+Madde 530- Mirasın açılması anında tereke, borçları karşılayamıyorsa ve borçlar
+mirasçılar tarafından da ödenmiyorsa, feragat eden ve mirasçıları, alacaklılara karşı feragat için
+ölümünden önceki beş yıl içinde mirasbırakandan almış oldukları karşılıktan, mirasın açılması
+anındaki zenginleşmeleri tutarında sorumludurlar.
 
 ---
 

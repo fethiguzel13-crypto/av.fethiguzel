@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**Tahrir ihbarnamesi**
+**Tahrir ihbarnamesi:**
 
 ---
 
 Madde 37 – Tahrir usulü ile tesbit edilen matrahlar, vergi dairesi tarafından "Tahrir
 ihbarnamesi" ile mükelleflere tebliğ olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

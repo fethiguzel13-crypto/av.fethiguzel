@@ -23,6 +23,8 @@ beşyüz Türk Lirasından beşbin Türk Lirasına kadar disiplin para cezasına
 gerektiğinde zor kullanılmasına karar verebilir. Ancak, üçüncü kişi tanıklıktan çekinme
 sebeplerine dayanarak keşfe katlanma yükümlülüğünden kaçınabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

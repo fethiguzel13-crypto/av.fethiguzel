@@ -17,6 +17,8 @@ hareket etmek zorundadır. Ancak, duruşmaya gelmiş olan dava arkadaşlarının
 oldukları usul işlemleri, usulüne uygun olarak davet edildiği hâlde duruşmaya gelmemiş olan
 dava arkadaşları bakımından da hüküm ifade eder.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -14,6 +14,8 @@ wordCount: 4278
 Madde 189 – (1) Birden çok Cumhuriyet savcısı ve birden çok avukat aynı zamanda
 duruşmaya katılabilecekleri gibi aralarında işbölümü de yapabilirler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

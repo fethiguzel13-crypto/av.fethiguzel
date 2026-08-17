@@ -19,6 +19,8 @@ sermaye piyasası araçlarına, rekabet şartlarına ve bu kuruluşların çalı
 usul ve esaslar Kurulca çıkarılacak yönetmeliklerle düzenlenir. Kurul, bunların gözetim ve
 denetim merciidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

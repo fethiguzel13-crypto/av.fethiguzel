@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Adi kira ve hasılat kiraları için ödeme emri ve itiraz müddeti**
+**ONUNCU BAP
+Kiralar hakkında hususi hükümler ve kiralanan taşınmazların tahliyesi
+Adi kira ve hasılat kiraları için ödeme emri ve itiraz müddeti:**
 
 ---
 
@@ -24,7 +26,8 @@ kaldırılmasını istemiyen alacaklı, bir daha aynı alacaktan dolayı ilamsı
 yapamaz.
 Borçlar Kanununun 260 ıncı maddesinin kiralayana altı günlük mühletin hitamında
 akdi feshe müsaade ettiği hallerde itiraz müddeti üç gündür.
-İtiraz etmemenin sonuçları:
+
+---
 
 ### Akademik Yorum ve Analiz
 

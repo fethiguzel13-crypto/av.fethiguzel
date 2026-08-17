@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**Rekabeti Sınırlayıcı Anlaşma, Uyumlu Eylem ve Kararlar**
+**İKİNCİ KISIM
+BİRİNCİ BÖLÜM
+Yasaklanan Faaliyetler
+Rekabeti Sınırlayıcı Anlaşma, Uyumlu Eylem ve Kararlar**
 
 ---
 
@@ -38,6 +41,8 @@ bozulduğu veya kısıtlandığı piyasalardakine benzerlik göstermesi, teşebb
 eylem içinde olduklarına karine teşkil eder.
 Ekonomik ve rasyonel gerçeklere dayanmak koşuluyla taraflardan her biri uyumlu
 eylemde bulunmadığını ispatlayarak sorumluluktan kurtulabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

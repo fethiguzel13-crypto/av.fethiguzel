@@ -7,15 +7,14 @@ lastReviewed: "2026-07-27"
 wordCount: 3622
 ---
 
-**Zilyet, iradesi dışında elinden çıkmış olsa bile, para ve hamile yazılı**
+**c. Para ve hamile yazılı senetlerde**
 
 ---
 
-Madde 990 - Zilyet, iradesi dışında elinden çıkmış olsa bile, para ve hamile yazılı
+Madde 990- Zilyet, iradesi dışında elinden çıkmış olsa bile, para ve hamile yazılı
 senetleri iyiniyetle edinmiş olan kimseye karşı taşınır davası açamaz.
 
-d.
-İyiniyetli olmama hâlinde
+---
 
 ### Akademik Yorum ve Analiz
 

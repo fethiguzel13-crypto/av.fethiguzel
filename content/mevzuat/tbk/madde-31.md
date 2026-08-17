@@ -12,7 +12,7 @@ a. Açıklamada yanılma**
 
 ---
 
-Madde 31 - Özellikle aşağıda sayılan yanılma hâlleri esaslıdır:
+MADDE 31- Özellikle aşağıda sayılan yanılma hâlleri esaslıdır:
 1. Yanılan, kurulmasını istediği sözleşmeden başka bir sözleşme için iradesini açıklamışsa.
 2. Yanılan, istediğinden başka bir konu için iradesini açıklamışsa.
 3. Yanılan, sözleşme yapma iradesini, gerçekte sözleşme yapmak istediği kişiden

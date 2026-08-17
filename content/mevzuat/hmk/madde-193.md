@@ -18,6 +18,8 @@ da sadece belirli delil veya delillerle ispatını kabul edebilirler.
 (2) Taraflardan birinin ispat hakkının kullanımını imkânsız kılan veya fevkalade
 güçleştiren delil sözleşmeleri geçersizdir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

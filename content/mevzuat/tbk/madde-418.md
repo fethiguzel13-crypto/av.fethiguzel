@@ -11,7 +11,7 @@ wordCount: 4320
 
 ---
 
-Madde 418 - İşçi işverenle birlikte ev düzeni içinde yaşıyorsa işveren, yeterli gıda ve
+MADDE 418- İşçi işverenle birlikte ev düzeni içinde yaşıyorsa işveren, yeterli gıda ve
 uygun bir barınak sağlamakla yükümlüdür.
 İşçi, kusuru olmaksızın hastalık veya kaza gibi sebeplerle işgörme edimini yerine
 getiremezse işveren, sosyal sigortalar yardımlarından yararlanamayan, bir yıla kadar çalışmış

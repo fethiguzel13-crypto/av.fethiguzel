@@ -18,13 +18,10 @@ b) Yargılamanın iadesi yoluyla kaldırılması istenen hükmün kesin olarak v
 kesinleşmiş olup olmadığını,
 c) İleri sürülen yargılamanın iadesi sebebinin kanunda yazılı sebeplerden olup
 olmadığını,
-Anayasa Mahkemesi’nin 21/6/2022 tarihli ve E.: 2022/7, K.: 2022/79 sayılı Kararı ile bu fıkranın
-bentlerini bağlayan hükmünün “her hâlde iade talebine konu olan hükmün kesinleşmesinden itibaren
-on yıldır.” bölümü anılan fıkranın (e) bendi yönünden iptal edilmiştir.
-65
-
-kendiliğinden inceler.
+kendiliğinden inceler.
 (2) Bu koşullardan biri eksik ise hâkim davayı esasa girmeden reddeder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

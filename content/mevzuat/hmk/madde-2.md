@@ -16,7 +16,8 @@ haklarına ilişkin davalarla, şahıs varlığına ilişkin davalarda görevli 
 düzenleme bulunmadıkça asliye hukuk mahkemesidir.
 (2) Bu Kanunda ve diğer kanunlarda aksine düzenleme bulunmadıkça, asliye hukuk
 mahkemesi diğer dava ve işler bakımından da görevlidir.
-Ölüm veya vücut bütünlüğünün yitirilmesinden doğan zararların tazmini
+
+---
 
 ### Akademik Yorum ve Analiz
 

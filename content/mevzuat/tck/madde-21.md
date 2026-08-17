@@ -19,6 +19,8 @@ cezasını gerektiren suçlarda müebbet hapis cezasına, müebbet hapis cezası
 suçlarda yirmi yıldan yirmibeş yıla kadar hapis cezasına hükmolunur; diğer suçlarda ise temel
 ceza üçte birden yarısına kadar indirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -116,7 +116,7 @@ export default function ToolsPreview() {
             <Link
               key={tool.id}
               href={`/hesaplama/${tool.id}`}
-              className="group bg-white border border-charcoal/6 rounded-2xl sm:rounded-[2rem] p-4 sm:p-6 hover:shadow-lg transition-all duration-300 flex flex-col"
+              className="group bg-white border border-charcoal/[0.06] rounded-2xl sm:rounded-[2rem] p-4 sm:p-6 hover:shadow-lg transition-all duration-300 flex flex-col"
             >
               {/* Etiket */}
               <span className={`self-start text-[9px] sm:text-[10px] font-bold uppercase tracking-wider px-2 sm:px-3 py-0.5 sm:py-1 rounded-full mb-3 sm:mb-4 ${ETIKET_RENK[tool.etiket] ?? 'bg-charcoal/5 text-charcoal/50'}`}>

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Jandarma Genel Komutanı:4**
+**İKİNCİ BÖLÜM
+Görev, Hizmet Sınırı ve Sorumlulukları
+Jandarma Genel Komutanı:**
 
 ---
 
@@ -17,6 +19,8 @@ cümle: 2/7/2018 - KHK/703/128 md.)
 Jandarma Genel Komutanı, Teşkilatın sevk ve idaresinden, kanun ve nizam hükümlerinin
 icrasını sağlamaktan, bunlara dayalı olarak verilen emir ve kararların uygulanmasından
 sorumludur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -12,8 +12,8 @@ wordCount: 4269
 ---
 
 MADDE 56 – (Mülga: 2/7/2018/KHK/703/102 md.)
-Dış İlişkiler Daire Başkanlığı
-MADDE 57 (Mülga: 2/7/2018/KHK/703/102 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

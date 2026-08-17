@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**Sürücü belgesi alma zorunluluğu**
+**BEŞİNCİ KISIM
+Sürücü Belgeleri ve Sürücüler
+Sürücü belgesi alma zorunluluğu:**
 
 ---
 
@@ -25,6 +27,8 @@ kullananlara 200.000 Türk lirası,
 c) Sürücü belgesi iptal edildiği halde motorlu araçları kullananlara 200.000 Türk lirası,
 idari para cezası verilir. Ayrıca, bu fıkra kapsamında motorlu araçların sürülmesine
 izin veren işletene de tescil plakası üzerinden 40.000 Türk lirası idari para cezası verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -19,6 +19,8 @@ engellediğini ya da kendisince bilinmeyen iddia ve savunma imkânlarının, tar
 sebebiyle kullanılamadığını belirterek, yanında katıldığı tarafın yargılamayı hatalı yürüttüğünü
 ileri sürebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

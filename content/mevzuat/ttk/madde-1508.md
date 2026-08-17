@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4277
 ---
 
-**II
-– Tedavi giderleri**
+**II – Tedavi giderleri**
 
 ---
 
-Madde 1508 - (1) Sigortacı, aksi kararlaştırılmamışsa, poliçede yazılı bedelden başka, sigortalının yap tığı tedavi giderlerini de ödemekle yükümlüdür.
+MADDE 1508- (1) Sigortacı, aksi kararlaştırılmamışsa, poliçede yazılı bedelden
+başka, sigortalının yaptığı tedavi giderlerini de ödemekle yükümlüdür.
 
 ---
 

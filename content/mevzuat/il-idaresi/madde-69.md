@@ -7,11 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**bentlerinde yer alan hükümler uygulanır.**
+Madde 69 – Bu Kanun 31 Temmuz 1949 tarihinde yürürlüğe girer.
 
 ---
-
-Madde 69 – Bu Kanun 31 Temmuz 1949 tarihinde yürürlüğe girer.
 
 ### Akademik Yorum ve Analiz
 

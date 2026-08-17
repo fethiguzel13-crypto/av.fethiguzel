@@ -8,12 +8,11 @@ wordCount: 4294
 ---
 
 **D) Çeşitli hükümler
-I
-- İlan**
+I - İlan**
 
 ---
 
-Madde 524 - (Mülga: 26/6/2012 - 6335/43 md.) II - Yabancı şirketlerin Türkiye şubeleri
+MADDE 524- (Mülga: 26/6/2012-6335/43 md.)
 
 ---
 

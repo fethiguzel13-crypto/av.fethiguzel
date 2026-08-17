@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**İkinci alacaklılar toplanması**
+**V. MASANIN TASFİYESİ
+İkinci alacaklılar toplanması:**
 
 ---
 
@@ -21,6 +22,8 @@ Konkordato teklifi hakkında müzakere cereyan edecekse davette bu cihet de
 bildirilmelidir.
 Toplanmıya iflas memuru veya yardımcısı reislik eder. 221 inci maddenin 2 ve 3 üncü
 fıkraları burada da caridir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

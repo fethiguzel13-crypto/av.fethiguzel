@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**Komisyonun yetkileri**
+**Komisyonun yetkileri:**
 
 ---
 
@@ -19,6 +19,8 @@ haklarını, imtiyazları, madenleri, mücevheratı, eski eserleri ve sanat eser
 bilirkişiye müracaat edebilir.
 (Ek fıkra: 4/12/1985-3239/7 md.) 72 nci maddenin ikinci ve üçüncü fıkralarına göre
 kurulan takdir komisyonları 79 uncu maddede yazılı yetkileri haizdir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

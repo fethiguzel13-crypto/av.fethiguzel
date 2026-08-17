@@ -7,12 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
-**zamanlarda meclis görevini yapar.**
-
----
-
 Madde 55 – Fen ve ihtisaslarından faydalanmak üzere bucak meclislerinin karar ve
 isteği üzerine gönderilecek Devlet, özel idare memurlarının her türlü masrafları Devlet veya
+özel idare bütçesinden ödenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

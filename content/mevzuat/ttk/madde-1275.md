@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**II
-- Alacaklıların rehin hakları
+**II- Alacaklıların rehin hakları
 1. Genel olarak**
 
 ---
 
-Madde 1275 - (1) Alacaklılar, gemi üzerinde gemi alacaklısı hakkına, garameye girecek eşya üzerinde Türk Medenî Kanununun 950 ilâ 953 üncü maddeleri uyarınca hapis hakkına ve navlun üzerinde aynı Kanunun 954 ilâ 961 inci maddeleri uyarınca alacak rehnine sahiptirler.
+MADDE 1275- (1) Alacaklılar, gemi üzerinde gemi alacaklısı hakkına, garameye
+girecek eşya üzerinde Türk Medenî Kanununun 950 ilâ 953 üncü maddeleri uyarınca hapis
+hakkına ve navlun üzerinde aynı Kanunun 954 ilâ 961 inci maddeleri uyarınca alacak rehnine
+sahiptirler.
 
 ---
 

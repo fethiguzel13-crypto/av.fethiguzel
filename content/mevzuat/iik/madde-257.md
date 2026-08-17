@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**İhtiyati haciz şartları:80**
+**DOKUZUNCU BAP
+İhtiyati haciz
+İhtiyati haciz şartları:**
 
 ---
 
@@ -20,8 +22,8 @@ Vadesi gelmemiş borçtan dolayı yalnız aşağıdaki hallerde ihtiyati haciz i
 veya kendisi kaçmağa hazırlanır yahut kaçar ya da bu maksatla alacaklının haklarını ihlâl
 eden hileli işlemlerde bulunursa;
 Bu suretle ihtiyati haciz konulursa borç yalnız borçlu hakkında muacceliyet kesbeder.
-(Ek fıkra: 29/6/1956-6763/42 md.; Mülga dördüncü fıkra: 14/1/2011-6103/41 md.)
-(Ek fıkra: 29/6/1956-6763/42 md.; Mülga beşinci fıkra: 14/1/2011-6103/41 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

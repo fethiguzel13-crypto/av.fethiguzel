@@ -17,6 +17,8 @@ yapılan kurum veya sandıklar tarafından geçici iş göremezlik ölçüsü ü
 Hastalık nedeni ile çalışılmayan günlerde Sosyal Sigortalar Kurumu tarafından ödenen
 geçici iş göremezlik ödeneği aylık ücretli işçilerin ücretlerinden mahsup edilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

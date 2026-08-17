@@ -11,7 +11,8 @@ wordCount: 4303
 
 ---
 
-Madde 1469 - (1) Sigortacı, sigorta süresi içinde sigortalı menfaatin değerini inceleyebilir.
+MADDE 1469- (1) Sigortacı, sigorta süresi içinde sigortalı menfaatin değerini
+inceleyebilir.
 
 ---
 

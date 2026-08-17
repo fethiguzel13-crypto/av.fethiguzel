@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Tanık gösterme şekli**
+**DÖRDÜNCÜ BÖLÜM
+Tanık
+Tanık gösterme şekli**
 
 ---
 
@@ -20,10 +22,7 @@ tarafa adres göstermesi için, işin niteliğine uygun kesin süre verilir. Bu 
 gösterilmez veya gösterilen yeni adres de doğru değilse, bu tanığın dinlenilmesinden vazgeçilmiş
 sayılır.
 
-25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin başlığında yer alan
-“özürlülerin” ibaresi “engellilerin”, birinci fıkrasında yer alan “özürlü” ibaresi “engelli” şeklinde
-değiştirilmiştir.
-25
+---
 
 ### Akademik Yorum ve Analiz
 

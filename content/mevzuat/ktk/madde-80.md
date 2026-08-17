@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4286
 ---
 
-**Diğer kurallar**
+**Diğer kurallar:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 80 – Trafikle ilgili diğer kurallar ile tehlikeli madde taşıyan araç
 çekilen araçlar, kol ve grup halinde seyreden araçlar ve hayvan sürüleri, taşıma sınırı ve
 gabari ölçüleri ile yük ve yolcu taşınması ile ilgili diğer kurallar ve şartlar yönetmelikte
 gösterilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

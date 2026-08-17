@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**Özlük ve sicil dosyasının önemi**
+**Özlük ve sicil dosyasının önemi:**
 
 ---
 
 Madde 111 – (Mülga: 13/2/2011 - 6111/117 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

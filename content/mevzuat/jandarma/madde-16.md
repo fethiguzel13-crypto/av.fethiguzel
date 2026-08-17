@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4318
 ---
 
-**Görevden uzaklaştırma:15**
+**ÜÇÜNCÜ BÖLÜM
+Açığa Alınma, İşten El Çektirme ve Görevden Uzaklaştırma
+Görevden uzaklaştırma:**
 
 ---
 
-Madde 16 – (Mülga: 25/7/2016-KHK-668/20 md.; Aynen Kabul: 8/11/2016
-6755/20 md.)
+Madde 16 – (Mülga: 25/7/2016-KHK-668/20 md.; Aynen Kabul: 8/11/2016-
+
+---
 
 ### Akademik Yorum ve Analiz
 

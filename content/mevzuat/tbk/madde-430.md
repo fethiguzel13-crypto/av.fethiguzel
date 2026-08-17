@@ -12,7 +12,7 @@ I. Belirli süreli sözleşmede**
 
 ---
 
-Madde 430 - Belirli süreli hizmet sözleşmesi, aksi kararlaştırılmadıkça, fesih
+MADDE 430- Belirli süreli hizmet sözleşmesi, aksi kararlaştırılmadıkça, fesih
 bildiriminde bulunulmasına gerek olmaksızın, sürenin bitiminde kendiliğinden sona erer.
 Belirli süreli sözleşme, süresinin bitiminden sonra örtülü olarak sürdürülüyorsa,
 belirsiz süreli sözleşmeye dönüşür. Ancak, esaslı bir sebebin varlığı hâlinde, üst üste belirli

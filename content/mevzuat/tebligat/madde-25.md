@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Yabancı memlekette tebligat usulü**
+**Yabancı memlekette tebligat usulü:**
 
 ---
 
@@ -21,7 +21,8 @@ havzası nazarı itibara alınarak ilgili Türkiye Elçiliğine veya Konsoloslu�
 (Ek: 6/6/1985 - 3220/8 md.) Şu kadar ki, Dışişleri Bakanlığının aracılığına lüzum
 görülmeyen hallerde tebligat evrakı, ilgili Bakanlıkça doğrudan doğruya o yerdeki Türkiye
 Büyükelçiliğine veya Başkonsolosluğuna gönderilebilir.
-Siyasî temsilcilik aracılığıyla yabancı ülkedeki Türk vatandaşlarına tebligat:
+
+---
 
 ### Akademik Yorum ve Analiz
 

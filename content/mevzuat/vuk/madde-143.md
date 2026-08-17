@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Aramada bulunan defter ve vesikalar**
+**Aramada bulunan defter ve vesikalar:**
 
 ---
 
@@ -34,6 +34,8 @@ daireye nakledilmiş olan ve incelemesine lüzum görülen defter ve vesikalar, 
 açıkça yazılmamış olsa bile, inceleme yapanın çalıştığı yere sevk veya celp edilebilir.
 Yukardaki hükümlere göre alınan defter ve vesikaların iyi saklanması şarttır.
 Bunların iyi saklanmamasından doğacak zararı idare tazmine mecburdur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

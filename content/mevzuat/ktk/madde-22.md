@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Belge ve plaka vermeye yetkili kuruluşlar**
+**Belge ve plaka vermeye yetkili kuruluşlar:**
 
 ---
 
@@ -33,7 +33,7 @@ Yapılır, belge ve plakaları verilir.
 araçların tescilleri, araca ait belgelerin düzenlenmesi, kişiselleştirilmesi, kişiselleştirilen
 belgelerin basımı ve ilgililerine elden veya posta aracılığı ile teslimi işlemleri Emniyet Genel
 Müdürlüğü veya bağlı trafik tescil kuruluşlarınca yapılır. Emniyet Genel Müdürlüğü; ilk
-tescilili yapılacak araçların tesciline esas teşkil edecek işlemleri elektronik ortamda bilgi
+tescili yapılacak araçların tesciline esas teşkil edecek işlemleri elektronik ortamda bilgi
 paylaşımı yoluyla yapmak üzere, elektronik ortamda oluşturduğu bir ay süre ile geçerli tescile
 ilişkin geçici belgeyi basmak ve araç sahibine vermek üzere kamu kurum veya kuruluşları ile
 gerçek veya özel hukuk tüzel kişilerini yetkilendirebilir. Yetkilendirilen bu gerçek veya özel
@@ -41,7 +41,7 @@ hukuk tüzel kişileri, yapacakları işlemleri aralarında düzenleyecekleri pr
 başka gerçek veya özel hukuk tüzel kişilerine de yaptırabilirler. Araca ait kişiselleştirilen
 belgelerin basımı ve ilgililerine elden veya posta yoluyla teslimi, Emniyet Genel Müdürlüğü
 tarafından belirlenen kamu kurum veya kuruluşları ile özel hukuk tüzel kişilerine de
-yaptırabilirler. Bu işlemlerin yapılmasına dair usûl ve esaslar yönetmelikte belirlenir.
+yaptırılabilir. Bu işlemlerin yapılmasına dair usûl ve esaslar yönetmelikte belirlenir.
 (Ek fıkra: 13/2/2011-6111/57 md.) Tescil belgesinin bir ay içinde teslim edilememesi
 hâlinde, buna ilişkin olarak araç sahibine sorumluluk yüklenemez.
 (Ek fıkra: 13/2/2011-6111/57 md.) Genel hükümlerden kaynaklanan sorumlulukları
@@ -51,6 +51,8 @@ mülki amiri veya bu konu ile ilgili olarak yetkilendireceği trafik tescil biri
 on bin Türk Lirası idarî para cezası verilir.
 (Ek fıkra: 13/2/2011-6111/57 md.) Tescile ilişkin geçici belge, 5237 sayılı Türk Ceza
 Kanununun uygulanmasında resmî belge sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

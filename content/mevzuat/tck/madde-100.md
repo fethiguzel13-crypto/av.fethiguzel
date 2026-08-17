@@ -14,6 +14,8 @@ wordCount: 4302
 Madde 100- (1) Gebelik süresi on haftadan fazla olan kadının çocuğunu isteyerek
 düşürmesi halinde, bir yıla kadar hapis veya adlî para cezasına hükmolunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

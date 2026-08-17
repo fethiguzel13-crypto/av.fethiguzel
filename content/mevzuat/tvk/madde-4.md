@@ -14,6 +14,8 @@ wordCount: 4259
 MADDE 4 – (1) Türk vatandaşlığının kazanılmasına ve kaybına ilişkin hizmetler yurt
 içinde Bakanlık, yurt dışında ise dış temsilcilikler tarafından yürütülür.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -16,6 +16,8 @@ katıldığını bildiren kimseye iki yıla kadar hapis cezası verilir. Bu suç
 kardeşi cezadan kurtarmak amacıyla işlenmesi halinde; verilecek cezanın dörtte üçü
 indirilebileceği gibi tamamen de kaldırılabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

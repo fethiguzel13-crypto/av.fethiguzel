@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**Muhafazasına gerek kalmayan malların tasfiyesi**
+**Muhafazasına gerek kalmayan malların tasfiyesi:**
 
 ---
 
@@ -16,8 +16,7 @@ Muhafaza işleminin dayanağı olan haciz kalkmış olup da yedieminde bulunan m
 takibin yapıldığı yer icra dairesince bu madde uyarınca resen tasfiye edilir.
 Tasfiye edilecek mallara ilişkin bilgiler, icra dairesince Ulusal Yargı Ağı Bilişim
 Sisteminde duyurulur.
-
-İcra dairesi, borçluya tebligat çıkararak tebliğ tarihinden itibaren on gün içinde tarifeye
+İcra dairesi, borçluya tebligat çıkararak tebliğ tarihinden itibaren on gün içinde tarifeye
 göre belirlenen yedieminlik ücretini ödemek suretiyle malı teslim alabileceğini, aksi halde
 müteakip fıkralar uyarınca malın tasfiye edileceğini ihtar eder.
 Borçlunun malı teslim almaması halinde icra dairesi, rehin hakkı sahibine tebligat
@@ -56,8 +55,7 @@ ve teslim işlemleri gerçekleştirilir.
 Tasfiye konusu malın vergi, ceza, prim gibi borçları, borçluya ait olup mülkiyet
 ilgiliye, tüm borç ve yüklerinden âri olarak geçer. Devir ve tescil işlemleri her türlü vergi,
 resim ve harçtan müstesnadır.
-
-Devir işlemlerine karşı yedieminlik alacağına dayanılarak hapis hakkı kullanılamaz.
+Devir işlemlerine karşı yedieminlik alacağına dayanılarak hapis hakkı kullanılamaz.
 Yedieminlik ücretinin varlığı, mülkiyetin devri ve buna ilişkin işlemlerin yapılmasına engel
 teşkil etmez.
 Tasfiye konusu mal üzerinde 6183 sayılı Kanun uyarınca haciz bulunması halinde icra
@@ -79,7 +77,8 @@ karşılayamaması halinde icra dairesi, bakiye masrafın, 6183 sayılı Kanun u
 tahsili için tahsil dairesine bildirimde bulunur.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar, Adalet Bakanlığınca yürürlüğe
 konulan yönetmelikle belirlenir.
-2 – Alacaklar ve üçüncü şahıs elinde haczedilen mallar hakkında:
+
+---
 
 ### Akademik Yorum ve Analiz
 

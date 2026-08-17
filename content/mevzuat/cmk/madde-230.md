@@ -7,19 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Hükmün gerekçesinde gösterilmesi gereken hususlar**
-
----
-
 Madde 230 – (1) Mahkûmiyet hükmünün gerekçesinde aşağıdaki hususlar gösterilir:
 a) İddia ve savunmada ileri sürülen görüşler.
 b) Delillerin tartışılması ve değerlendirilmesi, hükme esas alınan ve reddedilen
-23/6/2022 tarihli ve 7413 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “mahkemesinde staj
-yapmakta olan hâkim ve” ibaresi “hâkim ve savcı yardımcıları ile mahkemesinde staj yapmakta olan” şeklinde
-değiştirilmiştir.
-74
-
-delillerin belirtilmesi; bu kapsamda dosya içerisinde bulunan ve hukuka aykırı yöntemlerle
+delillerin belirtilmesi; bu kapsamda dosya içerisinde bulunan ve hukuka aykırı yöntemlerle
 elde edilen delillerin ayrıca ve açıkça gösterilmesi.
 c) Ulaşılan kanaat, sanığın suç oluşturduğu sabit görülen fiili ve bunun nitelendirilmesi; bu
 hususta ileri sürülen istemleri de dikkate alarak, Türk Ceza Kanununun 61 ve 62 nci maddelerinde
@@ -36,6 +27,8 @@ hallerden hangisine dayanıldığının gösterilmesi gerekir.
 gerekir.
 (4) Yukarıdaki fıkralarda belirtilen hükümlerin dışında başka bir karar veya hükmün
 verilmesi hâlinde bunun nedenleri gerekçede gösterilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

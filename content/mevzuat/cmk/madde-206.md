@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Delillerin ortaya konulması ve reddi**
+**DÖRDÜNCÜ BÖLÜM
+Delillerin Ortaya Konulması ve Tartışılması
+Delillerin ortaya konulması ve reddi**
 
 ---
 
@@ -21,7 +23,8 @@ b) Delil ile ispat edilmek istenilen olayın karara etkisi yoksa.
 c) İstem, sadece davayı uzatmak maksadıyla yapılmışsa.
 (3) Cumhuriyet savcısı ile sanık veya müdafii birlikte rıza gösterirlerse, tanığın
 dinlenmesinden veya başka herhangi bir delilin ortaya konulmasından vazgeçilebilir.
-(4) (Mülga: 25/5/2005 - 5353/29 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

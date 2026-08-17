@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Özel kanunlarla ilişki**
+**(2) (Mülga : 29/6/2005 – 5377/1 md.)
+Özel kanunlarla ilişki**
 
 ---
 
 Madde 5- (1) Bu Kanunun genel hükümleri, özel ceza kanunları ve ceza içeren
 kanunlardaki suçlar hakkında da uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

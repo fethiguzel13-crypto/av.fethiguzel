@@ -7,12 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**Madde 372**
+**ÜÇÜNCÜ AYIRIM
+AİLE MALLARI
+A. Aile vakfı**
 
 ---
 
-Madde 372 - Aile bireylerinin eğitim ve öğrenimleri, donanım v e desteklenmeleri ve bunlar a benzer amaçların gerektirdiği harcam aların yapıl ması için kişiler hukuku ve miras hukuku hükümleri uy arınca aile vakfı kurulabilir.
-Bir malın veya hakkın başkal arına geçmemek üzere aynı soydan gelenlere kuşaktan kuşağa kalacak şekilde özgülenmesi yasaktı r. Böyle bir özgülenme, vak ıf kurma yo luyla da yapılamaz.
+Madde 372- Aile bireylerinin eğitim ve öğrenimleri, donanım ve desteklenmeleri ve
+bunlara benzer amaçların gerektirdiği harcamaların yapılması için kişiler hukuku ve miras
+hukuku hükümleri uyarınca aile vakfı kurulabilir.
+Bir malın veya hakkın başkalarına geçmemek üzere aynı soydan gelenlere kuşaktan kuşağa
+kalacak şekilde özgülenmesi yasaktır. Böyle bir özgülenme, vakıf kurma yoluyla da yapılamaz.
 
 ---
 

@@ -19,12 +19,10 @@ talep edebilir. Zararın belirlenmesinde, zarar gören teşebbüslerin elde etme
 karlar, geçmiş yıllara ait bilançolar da dikkate alınarak hesaplanır.
 Ortaya çıkan zarar, tarafların anlaşması ya da kararı veya ağır ihmalinin olduğu
 hallerden kaynaklanmaktaysa, hakim, zarar görenlerin talebi üzerine, uğranılan maddi zararın
-17/9/2004 tarihli ve 5234 sayılı Kanunun 29 uncu maddesiyle bu fıkrada yer alan “Resmi
-Gazetede” ibaresi, “Kurum internet sayfasında” olarak değiştirilmiştir.
-20
-
-ya da zarara neden olanların elde ettiği veya elde etmesi muhtemel olan karların üç katı
+ya da zarara neden olanların elde ettiği veya elde etmesi muhtemel olan karların üç katı
 oranında tazminata hükmedebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

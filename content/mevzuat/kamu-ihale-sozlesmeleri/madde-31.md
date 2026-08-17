@@ -16,6 +16,8 @@ işin fen ve sanat kurallarına uygun olarak yapılmamasından ortaya çıkan za
 yıl süre ile yüklenici ile birlikte müteselsilen sorumludur. Ayrıca haklarında 28 inci madde
 hükümleri uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

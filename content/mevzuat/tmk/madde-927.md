@@ -11,7 +11,8 @@ wordCount: 4289
 
 ---
 
-Madde 927 - Borçlu yalnız tescilden veya senetten doğan def'ileri ve istemde bulunan alacaklıya karşı sahip ol duğu kişisel def'ileri ileri sürebilir.
+Madde 927- Borçlu yalnız tescilden veya senetten doğan def'ileri ve istemde bulunan
+alacaklıya karşı sahip olduğu kişisel def'ileri ileri sürebilir.
 
 ---
 

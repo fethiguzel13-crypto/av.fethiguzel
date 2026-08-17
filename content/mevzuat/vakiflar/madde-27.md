@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
-**Genel Müdürlük tarafından yürütülür.9**
+**Sona eren veya dağıtılan yeni vakıfların mal ve hakları**
 
 ---
 
@@ -15,6 +15,8 @@ MADDE 27 – Sona eren yeni vakıfların borçlarının tasfiyesinden arta kalan
 haklar; vakıf senedinde yazılı hükümlere göre, senetlerinde özel bir hüküm bulunmayanlarda ise
 Genel Müdürlüğün görüşü alınarak mahkeme kararıyla benzer amaçlı bir vakfa; dağıtılan yeni
 vakıfların borçlarının tasfiyesinden arta kalan mal ve haklar ise Genel Müdürlüğe intikal eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

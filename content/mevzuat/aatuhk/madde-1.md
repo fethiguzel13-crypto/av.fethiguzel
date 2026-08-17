@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**Kanunun şümulü**
+**Genel Esaslar
+BİRİNCİ BÖLÜM
+Kanunun şümulü, terimler, vazifeliler ve salahiyetliler
+Kanunun şümulü:**
 
 ---
 
@@ -18,6 +21,8 @@ iktisaptan doğanlar dışında kalan ve amme hizmetleri tatbikatından mütevel
 alacakları ile; bunların takip masrafları hakkında bu kanun hükümleri tatbik olunur.
 Türk Ceza Kanununun para cezalarının tahsil şekli ve hapse tahvili hakkındaki
 hükümleri mahfuzdur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

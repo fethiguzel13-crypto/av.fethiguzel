@@ -7,17 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**Evlenmekle Türk vatandaşlığını kazananların tescili**
+**Teklif üzerine atama:**
 
 ---
 
-MADDE 25- (1) Evlenmekle Türk vatandaşlığını kazanan kadın, kocasının hanesine
-tescil edilir. Bu şekilde aile kütüklerine tescil edilen kadının ölüm dışında evliliğinin sona
-ermesi halinde kaydı, kayıtlı bulunduğu kütüğün sonuna taşınır.
-(2) Evlenmekle Türk vatandaşlığını kazanan erkek karısının evlenmekle kaydının
-taşındığı haneye tescil edilir. Evliliğin ölüm dışında sona ermesi halinde kadının kaydı
-evlenmeden önce kayıtlı bulunduğu haneye taşınır, erkeğin kaydı ise kayıtlı bulunduğu hanede
-kalır.
+Madde 25 – (Mülga: 16/11/1989 - 3588/17 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

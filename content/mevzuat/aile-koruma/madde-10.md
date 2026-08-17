@@ -28,14 +28,15 @@ bütçesinin ilgili tertibinden karşılanmak üzere kendisine ve beraberindekil
 barınma imkânı sağlanır.
 (5) Tedbir kararının ilgililere tefhim veya tebliğ edilmemesi, kararın uygulanmasına
 engel teşkil etmez.
-
-(6) Hakkında barınma yeri sağlanmasına karar verilen kişiler, Bakanlığa ait veya
+(6) Hakkında barınma yeri sağlanmasına karar verilen kişiler, Bakanlığa ait veya
 Bakanlığın gözetim ve denetimi altında bulunan yerlere yerleştirilir. Barınma yerlerinin
 yetersiz kaldığı hâllerde korunan kişiler; mülkî amirin, acele hâllerde kolluğun veya
 Bakanlığın talebi üzerine kamu kurum ve kuruluşlarına ait sosyal tesis, yurt veya benzeri
 yerlerde geçici olarak barındırılabilir.
 (7) İşyerinin değiştirilmesi yönündeki tedbir kararı, kişinin tabi olduğu ilgili mevzuat
 hükümlerine göre yetkili merci veya kişi tarafından yerine getirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,20 @@ lastReviewed: "2026-07-20"
 wordCount: 4280
 ---
 
-**EVLENME BİRİNCİ AYIRIM NİŞANLILIK A. Ni şanlanma**
+**İKİNCİ KİTAP
+AİLE HUKUKU
+BİRİNCİ KISIM
+EVLİLİK HUKUKU
+BİRİNCİ BÖLÜM
+EVLENME
+BİRİNCİ AYIRIM
+NİŞANLILIK
+A. Nişanlanma**
 
 ---
 
-Madde 118 - Nişanlanma, evlenme vaadiyle olur. Nişanlanma, yasal temsilcilerinin rızası olmadıkça küçüğü veya kısıtlıyı bağlamaz.
+Madde 118- Nişanlanma, evlenme vaadiyle olur.
+Nişanlanma, yasal temsilcilerinin rızası olmadıkça küçüğü veya kısıtlıyı bağlamaz.
 
 ---
 

@@ -7,11 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4282
 ---
 
-**vazifelerine son verilir.**
+Madde 50 – Bucak müdürlüğü 25, 30, 35, 40, 50, 60 lira aylıklı olmak üzere altı
+sınıftır.
 
 ---
-
-Madde 50 – Bucak müdürlüğü 25, 30, 35, 40, 50, 60 lira aylıklı olmak üzere altı
 
 ### Akademik Yorum ve Analiz
 

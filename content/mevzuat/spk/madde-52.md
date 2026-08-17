@@ -22,8 +22,7 @@ tüzüğünün Kurulca onaylanması gereklidir. Yatırım fonu kuruluş başvuru
 belgelerin Kurula eksiksiz olarak sunulmasından itibaren iki ay içinde Kurul tarafından karara
 bağlanır ve keyfiyet ilgililere bildirilir.
 (3) Portföy yönetim şirketi, fonu, yatırım fonu katılma payı sahiplerinin haklarını
-
-koruyacak şekilde temsil eder, yönetir veya yönetimini denetler. Portföy yönetim şirketi
+koruyacak şekilde temsil eder, yönetir veya yönetimini denetler. Portföy yönetim şirketi
 yatırım fonuna ait varlıklar üzerinde kendi adına ve fon hesabına mevzuat ve fon iç tüzüğüne
 uygun olarak tasarrufta bulunmaya ve bundan doğan hakları kullanmaya yetkilidir.
 (4) Portföy yönetim şirketi ile katılma payı sahipleri arasındaki ilişkilere bu Kanunda,
@@ -40,6 +39,8 @@ temsil eden birer yetkilinin müşterek imzalarıyla gerçekleştirilir.
 (6) Kurul, TCMB ve Hazine Müsteşarlığının görüşünü alarak fon katılma paylarının
 alım satımının TCMB tarafından günlük alım satım kurları ilan edilen yabancı para birimleri
 üzerinden yapılmasına izin verebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

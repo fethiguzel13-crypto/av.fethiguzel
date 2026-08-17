@@ -24,6 +24,8 @@ d) Gerçeğe aykırı muhasebe kayıtlarıyla veya sahte bilanço tanzimiyle akt
 olduğundan az gösterilmesi,
 gerekir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -18,27 +18,13 @@ sağlayıcılığı faaliyetinde uygulanacak tedbirler için bu Kanunun 99 uncu 
 kripto varlık hizmet sağlayıcılığı faaliyetinde bulunanların ilan, reklam ve açıklamaları ile her
 türlü ticari iletişimlerine ilişkin olarak bu Kanunun 100 üncü maddesinin birinci fıkrası
 hükümleri uygulanır. Yurt dışında yerleşik platformlar tarafından Türkiye’de yerleşik kişilere
-yönelik
-faaliyette
-bulunulması
-ya
-da
-Kurulca
-yapılacak
-düzenlemeler
+yönelik faaliyette bulunulması ya da Kurulca yapılacak düzenlemeler
 kapsamında kripto varlıklara ilişkin yasaklanmış bir faaliyetin Türkiye’de yerleşik kişilere
 sunulması da izinsiz kripto varlık hizmet sağlayıcılığı sayılır. Yurt dışında yerleşik
 platformlar tarafından Türkiye’de iş yeri açılması, Türkçe internet sitesi oluşturulması,
 sunulan kripto varlık hizmetlerine ilişkin olarak doğrudan ve/veya Türkiye’de yerleşik kişi ya
 da kurumlar aracılığıyla tanıtım ve pazarlama faaliyetlerinde bulunulması durumlarından
-26/6/2024 tarihli ve 7518 sayılı Kanunun 7 nci maddesi ile bu fıkrada yer alan “Kurulun başvurusu
-üzerine Bilgi Teknolojileri ve İletişim Kurumu, ilgili internet sitesine erişimi engeller” ibaresi
-“internet aracılığıyla yapılan yayınlarla ilgili olarak içeriğin çıkarılmasına ve/veya erişimin
-engellenmesine Kurul tarafından karar verilir. Karar uygulanmak üzere Erişim Sağlayıcıları Birliğine
-gönderilir” şeklinde değiştirilmiştir.
-11
-
-herhangi birinin varlığı hâlinde faaliyetlerin Türkiye’de yerleşik kişilere yönelik olduğu kabul
+herhangi birinin varlığı hâlinde faaliyetlerin Türkiye’de yerleşik kişilere yönelik olduğu kabul
 edilir. Faaliyetlerin Türkiye’de yerleşik kişilere yönelik olduğunun tespitine ilişkin ilave
 kıstaslar Kurul tarafından belirlenebilir.
 (2) Kurul, kripto varlık hizmet sağlayıcıların faaliyetlerinden kaynaklanan nakit ödeme
@@ -66,7 +52,8 @@ sorumluların ilgili mevzuat uyarınca ilan ve reklamları durdurulabilir, kanun
 belgeleriyle, ilan ve reklamları toplatılabilir. Söz konusu işlemler mahallin en büyük mülkî
 idare amirinin bildirimi üzerine iş yeri açma ve çalışma ruhsatlarına ilişkin mevzuatta
 belirlenen yetkili idareler tarafından yerine getirilir.
-Kripto varlık hizmet sağlayıcıların denetimi ve uygulanacak yaptırımlar
+
+---
 
 ### Akademik Yorum ve Analiz
 

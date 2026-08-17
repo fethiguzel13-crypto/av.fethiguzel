@@ -11,7 +11,7 @@ wordCount: 4313
 
 ---
 
-Madde 39 - Yanılma veya aldatma sebebiyle ya da korkutulma sonucunda sözleşme
+MADDE 39- Yanılma veya aldatma sebebiyle ya da korkutulma sonucunda sözleşme
 yapan taraf, yanılma veya aldatmayı öğrendiği ya da korkutmanın etkisinin ortadan kalktığı
 andan başlayarak bir yıl içinde sözleşme ile bağlı olmadığını bildirmez veya verdiği şeyi geri
 istemezse, sözleşmeyi onamış sayılır.

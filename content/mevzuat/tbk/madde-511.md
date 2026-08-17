@@ -11,7 +11,7 @@ wordCount: 4303
 
 ---
 
-Madde 511 - Bir kişiye birlikte vekâlet verenler, vekile karşı müteselsil olarak
+MADDE 511- Bir kişiye birlikte vekâlet verenler, vekile karşı müteselsil olarak
 sorumludurlar.
 Vekâleti birlikte üstlenenler, vekâletin ifasından müteselsil olarak sorumludurlar ve
 yetkilerini başkalarına devir hakları olmadıkça, vekâlet vereni, ancak birlikte yaptıkları fiil ve

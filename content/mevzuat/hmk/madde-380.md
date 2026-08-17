@@ -19,6 +19,8 @@ yahut 375 inci maddenin birinci fıkrasının (ı) bendine dayalı olarak yargı
 kabul olunursa, başka bir inceleme yapılmaksızın hüküm iptal edilir.
 (2) Bu husus, iade yoluyla incelenmesi istenen hükmün bütün nüshalarında gösterilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

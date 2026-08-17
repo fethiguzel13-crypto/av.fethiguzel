@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next';
 import { lawCategories } from '@/lib/laws';
+import { publishableMevzuat, publishableRehber } from '@/lib/publishable';
 import fs from 'fs';
 import path from 'path';
 
@@ -70,9 +71,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.82,
   }));
 
-  // Vatandaş rehberi — Google discovery priority (early in file)
-  const { VATANDAS_ARTICLES, getVatandasCategories } = await import('@/lib/vatandas-rehberi');
-  const bilgiRoutes: MetadataRoute.Sitemap = VATANDAS_ARTICLES.map((a) => ({
+  // Vatandaş rehberi — yalnız denetimden geçenler.
+  // noindex bir sayfayı haritada tutmak Google'a çelişkili sinyal verir.
+  const { VATANDAS_ARTICLES } = await import('@/lib/vatandas-rehberi');
+  const okRehber = publishableRehber();
+  const livePosts = VATANDAS_ARTICLES.filter((a) => okRehber.has(a.slug));
+
+  const bilgiRoutes: MetadataRoute.Sitemap = livePosts.map((a) => ({
     url: `${baseUrl}/bilgi/${a.slug}`,
     lastModified: new Date(a.updated || '2026-07-29'),
     changeFrequency: (a.role === 'pillar' ? 'weekly' : 'monthly') as 'weekly' | 'monthly',
@@ -80,7 +85,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       a.sitemapPriority ??
       (a.role === 'pillar' ? 0.95 : a.role === 'spoke' ? 0.72 : a.role === 'bridge' ? 0.55 : 0.85),
   }));
-  const bilgiKategoriRoutes: MetadataRoute.Sitemap = getVatandasCategories().map((cat) => ({
+
+  const liveCategories = Array.from(new Set(livePosts.map((a) => a.category))).sort((a, b) =>
+    a.localeCompare(b, 'tr')
+  );
+  const bilgiKategoriRoutes: MetadataRoute.Sitemap = liveCategories.map((cat) => ({
     url: `${baseUrl}/bilgi/kategori/${encodeURIComponent(cat)}`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,
@@ -133,8 +142,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   }));
 
   const allMevzuat = await getAllArticles();
+  // Şerhi denetimden geçmeyen madde sayfaları noindex; haritaya alınmaz.
+  // 8.087 maddenin 95'i geçiyor — kalanı tarama bütçesini boşa harcardı.
+  const okMevzuat = publishableMevzuat();
+  const liveMevzuat = allMevzuat.filter((a) => okMevzuat.has(`${a.kanunId}/${a.id}`));
+
   // Core first (TBK/TMK/…), then others — better crawl budget for «TBK 13»
-  const sorted = [...allMevzuat].sort((a, b) => {
+  const sorted = [...liveMevzuat].sort((a, b) => {
     const ac = CORE_KANUN.has(a.kanunId) ? 0 : 1;
     const bc = CORE_KANUN.has(b.kanunId) ? 0 : 1;
     if (ac !== bc) return ac - bc;

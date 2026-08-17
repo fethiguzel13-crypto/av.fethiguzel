@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Madde 464**
+**2. Sınırlar**
 
 ---
 
-Madde 464 - (1) Şartlı olarak artırılan sermayenin toplam itibarî değeri sermayenin yarısını aşamaz. (2) Yapılan ödeme, en az, nominal değere eşit olmalıdır.
+MADDE 464- (1) Şartlı olarak artırılan sermayenin toplam itibarî değeri sermayenin
+yarısını aşamaz.
+(2) Yapılan ödeme, en az, nominal değere eşit olmalıdır.
 
 ---
 

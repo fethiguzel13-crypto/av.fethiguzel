@@ -14,6 +14,8 @@ wordCount: 4259
 MADDE 444- (1) Bu Kısımda düzenlenen konularda, aksine hüküm bulunmadıkça bu
 Kanunun diğer hükümleri uygulanmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

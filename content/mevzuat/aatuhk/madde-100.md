@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**İflas yoliyle takip**
+**DÖRDÜNCÜ BÖLÜM
+İflas yoliyle takip ve konkordato
+İflas yoliyle takip:**
 
 ---
 
@@ -16,6 +18,8 @@ dairesinde amme borçlusunun iflası istenebilir.
 İflas dairesi, amme alacaklarının iflas masasına geçirilmesini temin için, hakkında iflas
 açılan kimseleri ve basit ve adi tasfiye şekillerinden hangisinin tatbik edileceğini bulunduğu
 yerdeki amme idarelerine zamanında bildirmeye mecburdur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -21,6 +21,8 @@ Meclis kararı ile gayece aynı veya en yakın başka bir hayrata dönüştürü
 devredilebilir veya paraya çevrilebilir. Bu paralar aynı surette diğer bir hayrata tahsis olunur.
 Aynı vakıf içerisindeki dönüştürme veya devirlerde bedel ödenmez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

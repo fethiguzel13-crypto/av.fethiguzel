@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4277
 ---
 
-**Temel millî yararlara karşı faaliyette bulunmak için yarar sağlama114**
+**Temel millî yararlara karşı faaliyette bulunmak için yarar sağlama**
 
 ---
 
@@ -22,6 +22,8 @@ hâlinde, verilecek ceza yarı oranında artırılır.
 Bakanının iznine bağlıdır.
 (4) Temel milli yararlar deyiminden; bağımsızlık, toprak bütünlüğü, milli güvenlik ve
 Cumhuriyetin Anayasada belirtilen temel nitelikleri anlaşılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,7 @@ wordCount: 4285
 
 ---
 
-Madde 135 - Başvuru, evlenece kler tarafından yazılı veya sözlü olarak yapılır.
+Madde 135- Başvuru, evlenecekler tarafından yazılı veya sözlü olarak yapılır.
 
 ---
 

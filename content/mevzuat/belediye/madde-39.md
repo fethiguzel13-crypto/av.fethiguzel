@@ -30,6 +30,8 @@ hâlinde belediye başkanlığında geçen süreleri memuriyette geçmiş sayıl
 yükümlü bulundukları için uygulanan sosyal hak ve yardımlar, aynı esas ve usûllere göre
 belediye başkanları ile bakmakla yükümlü bulundukları için de uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

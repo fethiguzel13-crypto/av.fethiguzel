@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**İptal davası ve davacılar**
+**ONBİRİNCİ BAP
+İptal davası
+İptal davası ve davacılar:**
 
 ---
 
@@ -17,6 +19,8 @@ hükmettirmektir. Bu davayı aşağıdaki şahıslar açabilirler:
 1 – Elinde muvakkat yahut kati aciz vesikası bulunan her alacaklı,
 2 – İflas idaresi yahut 245 inci maddede ve 255 inci maddenin 3 üncü fıkrasında yazılı
 hallerde alacaklıların kendileri.
+
+---
 
 ### Akademik Yorum ve Analiz
 

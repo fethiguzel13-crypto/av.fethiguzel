@@ -35,9 +35,7 @@ parmak izleri de bu sisteme kaydedilir.
 (a) bendi hariç birinci fıkra ile dördüncü fıkra kapsamına giren kişilerin ayrıca
 fotoğrafları alınarak, ikinci fıkrada belirlenen esaslara uygun olarak parmak izi ile birlikte
 sisteme kaydedilir.
-
-
-Bu sistemde yer alan bilgiler, kimlik tespiti, suçun önlenmesi veya yürütülmekte olan
+Bu sistemde yer alan bilgiler, kimlik tespiti, suçun önlenmesi veya yürütülmekte olan
 soruşturma ve kovuşturma kapsamında maddî gerçeğin ortaya çıkarılması amacıyla mahkeme,
 hâkim, Cumhuriyet savcısı ve kolluk tarafından kullanılabilir.
 Kolluk birimleri, kimlik tespiti yapmak ya da olay yerinden alınan parmak izini
@@ -50,6 +48,9 @@ Sisteme kayıtlı olan parmak izi ve fotoğraflar, kişinin ölümünden itibare
 halde kayıt tarihinden itibaren seksen yıl geçtikten sonra sistemden silinir.
 Parmak izi ile fotoğrafların sistemde kaydedilmesi ve saklanması ile bu kayıtlardan
 yararlanmaya ilişkin diğer esas ve usûller, İçişleri Bakanlığı tarafından Adalet Bakanlığının
+görüşü alınarak çıkarılacak yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,10 @@ wordCount: 4309
 
 ---
 
-Madde 922 - İpotekli borç senedi veya irat senedi me tninde yazılı olanlar tapu kütüğündeki tescile uymazsa veya ta pu kütüğünde tescil yoksa, kütük esas alınır. Bununla birlikte senedi iyiniyetle edinen k imse, tapu kütüğüne ilişkin hükümler uyarınca tazminat isteyebilir.
+Madde 922- İpotekli borç senedi veya irat senedi metninde yazılı olanlar tapu
+kütüğündeki tescile uymazsa veya tapu kütüğünde tescil yoksa, kütük esas alınır.
+Bununla birlikte senedi iyiniyetle edinen kimse, tapu kütüğüne ilişkin hükümler uyarınca
+tazminat isteyebilir.
 
 ---
 

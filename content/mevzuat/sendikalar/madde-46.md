@@ -19,6 +19,8 @@ görevli makama bildirilir.
 içinde karşı tarafa vermek zorundadır. Ancak, tarafların toplu görüşme gereği ileri sürecekleri
 tekliflerde değişiklik yapma hakları saklıdır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

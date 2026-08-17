@@ -17,8 +17,7 @@ kamu tüzel kişiliğini haiz YTM kurulmuştur. YTM, Kurul tarafından çıkarı
 işlemlerin Kurul personeli ve bu iş için istihdam edilecek personel tarafından yerine getirilmesi
 esastır. Buna ilişkin usul ve esaslar Kurul tarafından çıkarılacak bir yönetmelikle belirlenir.
 (2) Yatırım kuruluşlarının YTM’ye katılması zorunludur. Yatırım kuruluşlarının YTM’ye
-
-katılımlarına, bunların giriş aidatı, yıllık aidat ve ek aidat ödeme zorunluluklarına ilişkin usul ve
+katılımlarına, bunların giriş aidatı, yıllık aidat ve ek aidat ödeme zorunluluklarına ilişkin usul ve
 esaslar Kurulca çıkarılacak bir yönetmelikle belirlenir. Bu yönetmelikte, aidat tutarının
 belirlenmesinde, kuruluşların tür ve risk durumlarına göre farklı esaslar da öngörülebilir.
 (3) YTM tarafından gerekli görülmesi hâlinde, Kurulca hakkında yatırımcıları tazmin
@@ -42,6 +41,8 @@ ihtiyati tedbir konulamaz.
 damga vergisinden müstesnadır. YTM’nin bu Kanun kapsamındaki faaliyetleri dolayısıyla
 13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanunu açısından iktisadi işletme oluşmuş
 sayılmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -16,6 +16,8 @@ reddetmemişse, bu hususta kanunla belirlenen süreler geçinceye kadar dava ert
 beraber hâkim, gecikmesinde sakınca bulunan hâllerde, talep üzerine davayı takip için kayyım
 atanmasına karar verebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

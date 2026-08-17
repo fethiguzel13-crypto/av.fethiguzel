@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**II
-- Özel kanunlara bağlı anonim şirketl er**
+**II - Özel kanunlara bağlı anonim şirketler**
 
 ---
 
-Madde 330 - (1) Özel kanunlara tabi anonim şirketlere, özel hükümler dışında bu kısım hükümleri uygulanır.
+MADDE 330- (1) Özel kanunlara tabi anonim şirketlere, özel hükümler dışında bu
+kısım hükümleri uygulanır.
 
 ---
 

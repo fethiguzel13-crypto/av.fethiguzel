@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**Madde 1071**
+**bb) Hükümleri**
 
 ---
 
-Madde 1071 - (1) Gemi müdürünün bu sıfatla kanuni yetkileri çerçevesinde yaptığı hukuki işlemlerden doğan bütün hak ve borçlar iştirake aittir. cc) Sınırlandırılması
+MADDE 1071- (1) Gemi müdürünün bu sıfatla kanuni yetkileri çerçevesinde yaptığı
+hukuki işlemlerden doğan bütün hak ve borçlar iştirake aittir.
 
 ---
 

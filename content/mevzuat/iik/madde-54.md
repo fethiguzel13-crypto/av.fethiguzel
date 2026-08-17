@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4283
 ---
 
-**4 – Tutukluluk ve hükümlülük halinde**
+**4 – Tutukluluk ve hükümlülük halinde:**
 
 ---
 
@@ -17,7 +17,8 @@ vesayet makamına ait olmadıkça, icra memuru bir mümessil tayin etmesi için 
 münasip bir mühlet verir ve takibi bu sürenin bitmesine bırakır. Bu mühlet içinde temsilci
 tayin edip icra dairesine bildirmiyen tutuklu veya hükümlü hakkında takibe devam olunur.
 Mal kaçırılması ihtimali olan hallerde bu mühlet içinde de haciz yapılabilir.
-5 – Askerlik halinde:
+
+---
 
 ### Akademik Yorum ve Analiz
 

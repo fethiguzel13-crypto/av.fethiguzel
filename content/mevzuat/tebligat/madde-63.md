@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4257
 ---
 
-**Kanunun mer'iyete girmesi**
+**Kanunun mer'iyete girmesi:**
 
 ---
 
 Madde 63 – Bu kanun neşri tarihinden altı ay sonra mer'iyete girer.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**Askeri kazada tebligat**
+**Askeri kazada tebligat:**
 
 ---
 
 Madde 44 – (Mülga: 2/7/2018-KHK-703/32 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -18,6 +18,8 @@ edildiğinde, sorunun yöneltilmesinin gerekip gerekmediğine hâkim karar verir
 (2) Toplu mahkemelerde, hâkimlerden her biri, birinci fıkrada belirtilen kişilere soru
 sorabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

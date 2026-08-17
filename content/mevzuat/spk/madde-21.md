@@ -35,8 +35,9 @@ varlığı veya kârı azaltılan ortaklığa veya kolektif yatırım kuruluşun
 Kendilerine kazanç aktarımı yapılan taraflar Kurulca belirlenecek süre içinde aktarılan tutarı
 kanuni faizi ile birlikte iade etmek zorundadır. Örtülü kazanç aktarımı yasağının ihlali ile
 ilgili 94 üncü ve 110 uncu maddeler ile ilgili mevzuatta öngörülen hukuki, cezai ve idari
+yaptırımlar saklıdır.
 
-yaptırımlar saklıdır.
+---
 
 ### Akademik Yorum ve Analiz
 

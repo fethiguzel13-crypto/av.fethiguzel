@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**V. Tarımsal işle tmeler 1. Paylaştırma dışında bırakma a. Koşulları**
+**V. Tarımsal işletmeler
+1. Paylaştırma dışında bırakma
+a. Koşulları**
 
 ---
 
-Madde 659 - (Mülga: 30/4/2014 - 6537/9 md. ) b. Taşınırların özgülen mesi
+Madde 659- (Mülga: 30/4/2014-6537/9 md.)
 
 ---
 

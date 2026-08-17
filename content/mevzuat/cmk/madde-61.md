@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**Tanığa verilecek tazminat ve giderler4**
+**Tanığa verilecek tazminat ve giderler**
 
 ---
 
@@ -17,6 +17,8 @@ orantılı bir tazminat verilir. Tanık hazır olmak için seyahat etmek zorunda
 giderleriyle tanıklığa çağrıldığı yerdeki ikamet ve beslenme giderleri de karşılanır.
 (2) Birinci fıkra hükmüne istinaden ödenmesi gereken tazminat ve giderler, hiçbir
 vergi, resim ve harç alınmaksızın, ödenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

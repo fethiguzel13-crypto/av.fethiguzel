@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**Menkul ve gayrimenkul malların elektronik ortamda satışı**
+**Menkul ve gayrimenkul malların elektronik ortamda satışı:**
 
 ---
 
@@ -25,7 +25,8 @@ Artırma tarihinden önce teklif almaya, tekliflerde asgari artırım bedelini, 
 sürelerini, alınacak teminat türünü, artırma sonucunu belirten ilanda yer alacak hususlar ile
 elektronik ortamda yapılacak satışa ilişkin diğer usul ve esasları belirlemeye Hazine ve
 Maliye Bakanlığı yetkilidir.
-Gayrimenkullerin teferruğu ve geri verilmesi:
+
+---
 
 ### Akademik Yorum ve Analiz
 

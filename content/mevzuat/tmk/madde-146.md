@@ -11,7 +11,8 @@ wordCount: 4303
 
 ---
 
-Madde 146 - Mutlak butlan davası, Cumhuriyet savcısı tarafından re'sen açılır. Bu dava, ilgisi olan herkes tarafından da açılabilir.
+Madde 146- Mutlak butlan davası, Cumhuriyet savcısı tarafından re'sen açılır.
+Bu dava, ilgisi olan herkes tarafından da açılabilir.
 
 ---
 

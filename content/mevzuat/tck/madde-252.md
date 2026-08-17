@@ -40,8 +40,7 @@ kuruluşlarının iştirakiyle kurulmuş şirketler,
 c) Kamu kurum veya kuruluşlarının ya da kamu kurumu niteliğindeki meslek
 kuruluşlarının bünyesinde faaliyet icra eden vakıflar,
 d) Kamu yararına çalışan dernekler,
-
-e) Kooperatifler,
+e) Kooperatifler,
 f) Halka açık anonim şirketler,
 adına hareket eden kişilere, kamu görevlisi sıfatını taşıyıp taşımadıklarına
 bakılmaksızın, görevlerinin ifasıyla ilgili bir işin yapılması veya yapılmaması amacıyla
@@ -74,6 +73,8 @@ veya yapılmaması için işlenmesi halinde, rüşvet veren, teklif veya vaat ed
 eden, teklif veya vaadini kabul eden; bunlara aracılık eden; rüşvet ilişkisi dolayısıyla
 kendisine menfaat temin edilen kişiler hakkında, Türkiye’de bulundukları takdirde, resen
 soruşturma ve kovuşturma yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,12 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**VI
-. Bölünme**
+**VI. Bölünme**
 
 ---
 
-Madde 908 - İrat senediyle yüklü taşınmazın bölünmesi hâlinde, parsellerin malikl eri irat senedinin borçlusu olurlar. İrat senedi borcunun parsellere dağıtılmasında, ipotekle yüklü taşı nmazın bölünmesine ilişkin hükümler uygulanır. Alacaklı, borc un parsellere dağıtımının kesinleşmesinden başlayarak bir ay içinde yapacağı bildirimle bi r yıl içinde irat senedinin satın alınmasını isteyebilir.
+Madde 908- İrat senediyle yüklü taşınmazın bölünmesi hâlinde, parsellerin malikleri irat
+senedinin borçlusu olurlar.
+İrat senedi borcunun parsellere dağıtılmasında, ipotekle yüklü taşınmazın bölünmesine
+ilişkin hükümler uygulanır.
+Alacaklı, borcun parsellere dağıtımının kesinleşmesinden başlayarak bir ay içinde
+yapacağı bildirimle bir yıl içinde irat senedinin satın alınmasını isteyebilir.
 
 ---
 

@@ -21,6 +21,8 @@ maddelerin kullanılması ya da onur kırıcı tavır ve hareketlerin sonucu mad
 noksanlığı nedeniyle çocuklarının ahlak, güvenlik ve sağlığını ağır şekilde tehlikeye sokan
 ana veya baba, üç aydan bir yıla kadar hapis cezası ile cezalandırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

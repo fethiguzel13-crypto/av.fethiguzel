@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**B – Üçüncü şahsın zilyetıği**
+**B – Üçüncü şahsın zilyetıği:**
 
 ---
 
@@ -20,6 +20,8 @@ davası açılmaz ise üçüncü kişinin iddiası kabul edilmiş sayılır. Ala
 açılan dava sonuçlanıncaya kadar, haczedilen malın satışı yapılamaz. Haczin, üçüncü kişinin
 yokluğunda yapılması ve üçüncü kişi lehine istihkak iddiasında bulunulması halinde de bu
 fıkra hükmü uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

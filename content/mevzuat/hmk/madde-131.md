@@ -14,6 +14,8 @@ wordCount: 4311
 MADDE 131- (1) Cevap dilekçesinin verilmesinden sonra, cevap süresi dolmamış
 olsa bile ilk itirazlar ileri sürülemez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

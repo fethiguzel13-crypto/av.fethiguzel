@@ -19,6 +19,8 @@ bakmakla bir başka hâkim veya mahkeme görevlendirilir.
 (3) Gecikmesinde sakınca bulunan hâllerde yapılan işler hakkında 29 uncu madde
 hükmü uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

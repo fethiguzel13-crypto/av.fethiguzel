@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 5120
 ---
 
-**İhracat istisnası**
+**İKİNCİ BÖLÜM
+İstisnalar
+İhracat istisnası**
 
 ---
 
@@ -31,6 +33,8 @@ belgeler üzerinde gösterilen ve beyan edilen özel tüketim vergisi ihracatç�
 mağazalarında satılmak üzere bu mağazalara veya bunların depolarına mal teslim edenlere iade
 edilir. Maliye Bakanlığı, bu mallara ait verginin iadesine ilişkin usul ve esasları belirlemeye
 yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

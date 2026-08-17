@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**İhtiyati tahakkukun neticeleri**
+**İhtiyati tahakkukun neticeleri:**
 
 ---
 
@@ -26,25 +26,7 @@ Bu maddedeki geçici takdirler, takdir komisyonları tarafından, talep tarihind
 azami bir hafta içinde yapılır.
 İhtiyati tahakkukun düzeltilmesi:
 
-28/3/2007 tarihli ve 5615 sayılı Kanunun 21 inci maddesiyle birinci fıkrada yer alan "vergi dairesi müdürünün
-yazılı isteği üzerine defterdar," ibaresi "vergi dairesi müdürünün (5345 sayılı Kanun uyarınca vergi dairesi
-yetkisini haiz olarak kurulan ve faaliyete geçen vergi dairesi başkanlıklarında, ilgili grup müdürünün ve/veya
-müdürün) yazılı talebi üzerine defterdar ve/veya vergi dairesi başkanı," şeklinde değiştirilmiş, ikinci fıkrada yer
-alan "müdürü" ibaresinden sonra gelmek üzere "(5345 sayılı Kanun uyarınca vergi dairesi yetkisini haiz olarak
-kurulan ve faaliyete geçen vergi dairesi başkanlıklarında, ilgili grup müdürü ve/veya müdür)" ibaresi
-eklenmiştir.
-5
-
-Madde 19 – Alacağın hususi kanununa göre tahakkukundan sonra, ihtiyati tahakkukla
-hususi kanununa müstenit tahakkuk arasındaki fark, hususi kanununa müstenit tahakkuka göre
-düzeltilir.
-Bu düzeltmenin yapılabilmesi için beyannameye müstenit tarhiyatta verilen
-beyannamenin tetkik edilerek kabul edilmiş olması, itirazlı tarhiyatta kesinleşmenin vukuu,
-Devlet Şûrasına müracaat edilmiş olan hallerde Devlet Şûrasından nihai bir kararın çıkmış
-olması lazımdır.
-İhtiyati tahakkuk mevzuu olan devre beyannamesinin, verildiği tarihten itibaren en geç
-iki ay içinde tetkikı mecburidir. Bu müddet içinde tetkik yapılmadığı takdirde, bu sebeple
-düzeltme geciktirilmez.
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**Döşemesiz tahmin**
+**Döşemesiz tahmin:**
 
 ---
 
 Madde 304 – Değirmen, fabrika ve imalathane tesisatı hariç olmak üzere gayrisafi irat
 döşemesiz binaya göre belli edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

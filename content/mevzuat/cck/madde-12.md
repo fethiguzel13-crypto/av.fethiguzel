@@ -7,13 +7,21 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Akıl hastalığı**
+**Gençlik kapalı ceza infaz kurumları**
 
 ---
 
-Madde 12- (1) Suça sürüklenen çocuğun aynı zamanda akıl hastası olması hâlinde,
-26.9.2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 31 inci maddesinin birinci ve ikinci
-fıkraları kapsamına giren çocuklar hakkında, çocuklara özgü güvenlik tedbirleri uygulanır.
+Madde 12- (1) Gençlik kapalı ceza infaz kurumları, cezanın infazına başlandığı tarihte
+onsekiz yaşını bitirmiş olup da yirmibir yaşını doldurmamış genç hükümlülerin cezalarını
+çektikleri, eğitim ve öğretim esasına dayalı, firara karşı engelleri olan, iç ve dış güvenlik
+görevlileri bulunan kurumlardır.
+(2) Bu hükümlüler için ayrı bir kurum kurulamadığı takdirde, yukarıdaki fıkra
+kapsamındaki hükümlüler, diğer kapalı ceza infaz kurumlarının gençlere ayrılan bölümlerinde
+bu maddedeki esaslara göre barındırılırlar.
+(3) 9 uncu madde kapsamındaki gençlerin cezaları, gençlik kapalı ceza infaz kurumlarının
+güvenlikli bölümlerinde yerine getirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**Bildirim68**
+**Bildirim**
 
 ---
 
@@ -19,6 +19,8 @@ BEŞİNCİ BÖLÜM
 Kamu Görevlilerine İlişkin Hükümler
 Cumhurbaşkanlığı, Türkiye Büyük Millet Meclisi Başkanlığı, Başbakanlık,
 Cumhurbaşkanı yardımcılığı, Bakanlık ve Türkiye Büyük Millet Meclisi üyeliği görevinde
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -24,6 +24,8 @@ laboratuvar veya tesisin işletilmesi sırasında gerekli dikkat ve özen yükü
 olarak neden olan kişi, fiilin bir başkasının hayatı, sağlığı veya malvarlığına önemli ölçüde
 zarar vermeye elverişli olması halinde, altı aydan üç yıla kadar hapis cezası ile cezalandırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

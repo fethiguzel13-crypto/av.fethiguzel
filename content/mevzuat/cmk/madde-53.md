@@ -19,6 +19,8 @@ d) Duruşmada mahkeme başkanı veya hâkimin açık izni olmadan mahkeme salonu
 terk edemeyeceği,
 Anlatılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

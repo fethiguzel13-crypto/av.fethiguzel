@@ -11,7 +11,7 @@ wordCount: 4262
 
 ---
 
-Madde 1200 - (1) Navlunun borç lusu taşıtandır.
+MADDE 1200- (1) Navlunun borçlusu taşıtandır.
 
 ---
 

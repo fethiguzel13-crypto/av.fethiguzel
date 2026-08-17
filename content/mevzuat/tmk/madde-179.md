@@ -12,7 +12,8 @@ wordCount: 4295
 
 ---
 
-Madde 179 - Mal rejiminin tasfiyesinde eşlerin bağlı olduğu rejime ilişkin hüküm ler uygulanır.
+Madde 179- Mal rejiminin tasfiyesinde eşlerin bağlı olduğu rejime ilişkin hükümler
+uygulanır.
 
 ---
 

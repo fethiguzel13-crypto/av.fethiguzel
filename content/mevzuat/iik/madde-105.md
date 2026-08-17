@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**Borç ödemeden aciz vesikası**
+**Borç ödemeden aciz vesikası:**
 
 ---
 
@@ -16,8 +16,8 @@ vesikası hükmündedir.
 İcraca takdir edilen kıymete göre haczi kabil malların kifayetsizliği anlaşıldığı surette
 dahi tutanak muvakkat aciz vesikası yerine geçerek alacaklıya 277 nci maddede yazılı hakları
 verir.
-III. PARAYA ÇEVİRME
-1 – Satış Talebi
+
+---
 
 ### Akademik Yorum ve Analiz
 

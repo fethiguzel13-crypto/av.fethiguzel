@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**Siyasî temsilcilik aracılığıyla yabancı ülkedeki Türk vatandaşlarına tebligat**
+**Siyasî temsilcilik aracılığıyla yabancı ülkedeki Türk vatandaşlarına tebligat:**
 
 ---
 
@@ -23,14 +23,13 @@ Bildirimin o ülkenin mevzuatına göre muhataba tebliğ edildiği belgelendiril
 tebliğ tarihinden itibaren otuz gün içinde Türkiye Büyükelçiliği veya Konsolosluğuna
 başvurulmadığı takdirde tebligat otuzuncu günün bitiminde yapılmış sayılır. Muhatap Türkiye
 Büyükelçiliği veya Konsolosluğuna başvurduğu takdirde tebliğ evrakını almaktan kaçınırsa
-
-
-bu hususta düzenlenecek tutanak tarihinde tebliğ yapılmış sayılır. Evrak bekletilmeksizin
+bu hususta düzenlenecek tutanak tarihinde tebliğ yapılmış sayılır. Evrak bekletilmeksizin
 merciine iade edilir.
 (Ek fıkra: 11/1/2011-6099/7 md.) Bu maddeye göre kazaî merciler tarafından
 çıkarılacak tebligatta, tebliğ evrakı doğrudan o yerdeki Türkiye Büyükelçiliği veya
 Konsolosluğuna gönderilebilir.
-Türkiye'deki elçilik veya konsolosluklardan tevdi olunan tebligat evrakı:
+
+---
 
 ### Akademik Yorum ve Analiz
 

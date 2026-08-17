@@ -11,7 +11,7 @@ wordCount: 4261
 
 ---
 
-Madde 15 - İmzanın, borç altına girenin el yazısıyla atılması zorunludur. Güvenli
+MADDE 15- İmzanın, borç altına girenin el yazısıyla atılması zorunludur. Güvenli
 elektronik imza da, el yazısıyla atılmış imzanın bütün hukuki sonuçlarını doğurur.
 İmzanın el yazısı dışında bir araçla atılması, ancak örf ve âdetçe kabul edilen
 durumlarda ve özellikle çok sayıda çıkarılan kıymetli evrakın imzalanmasında yeterli sayılır.

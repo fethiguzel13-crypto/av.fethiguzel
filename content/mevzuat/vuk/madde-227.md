@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**İspat edici kağıtlar**
+**ÜÇÜNCÜ KISIM
+Vesikalar
+BİRİNCİ BÖLÜM
+Kayıtların Tevsiki
+İspat edici kağıtlar:**
 
 ---
 
@@ -20,7 +24,7 @@ giderler hariç.)
 olmak üzere, bu Kanuna göre kullanılan veya bu Kanunun Maliye ve Gümrük Bakanlığına
 verdiği yetkiye dayanılarak, kullanma mecburiyeti getirilen belgelerin, öngörülen zorunlu
 bilgileri taşımaması halinde bu belgeler vergi kanunları bakımından hiç düzenlenmemiş
-sayılır.58
+sayılır.
 (Ek: 3/12/1988-3505/3 md.) Maliye ve Gümrük Bakanlığı, düzenlenmesi mecburi
 olan belgelerde bulunması gereken zorunlu bilgileri belirlemeye ve bu belgelerden uygun
 gördüklerine, düzenlenme saatinin yazılması mecburiyetini getirmeye yetkilidir.
@@ -42,21 +46,19 @@ Bu uygulamalara ilişkin usul ve esasları belirlemeye yetkilidir.
 Yukarıdaki fıkra hükümlerine göre beyannameyi imzalayan veya tasdik raporunu
 düzenleyen meslek mensupları, imzaladıkları beyannamelerde veya düzenledikleri tasdik
 raporlarında yer alan bilgilerin defter kayıtlarına ve bu kayıtların dayanağını teşkil eden
-14/10/2021 tarihli ve 7338 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “Bu Kanuna” ibaresi
-“Elektronik belge olarak düzenlenmesi gerekenler de dâhil olmak üzere, bu Kanuna” şeklinde değiştirilmiştir.
-58
-
-belgelere uygun olmamasından dolayı ortaya çıkan vergi ziyaına bağlı olarak salınacak vergi,
+belgelere uygun olmamasından dolayı ortaya çıkan vergi ziyaına bağlı olarak salınacak vergi,
 ceza, gecikme faizlerinden mükellefle birlikte müştereken ve müteselsilen sorumlu tutulurlar.
 2 numaralı bent hükmüne göre yararlanılması yeminli mali müşavirlerce düzenlenmiş
 tasdik raporu ibrazı şartına bağlanan konularda, tasdik raporunun zamanında ibrazı şarttır. (Ek
 cümle:14/10/2021-7338/22 md.) Şu kadar ki, tasdik raporunun zamanında ibraz edilmemesi
 halinde, mükellefe tebliğ edilmek şartı ile 60 günlük bir mühlet verilir. Tasdik raporunun bu
 süre içinde de ibraz edilmemesi halinde mükellefler tasdike konu haktan yararlanamazlar.
-Ancak, Maliye Bakanlığı tasdik raporlarının ibraz süresini iki aya kadar uzatmaya yetkilidir.59
+Ancak, Maliye Bakanlığı tasdik raporlarının ibraz süresini iki aya kadar uzatmaya yetkilidir.
 (Ek: 25/5/1995-4108/5 md.) 233 Sayılı Kanun Hükmünde Kararname hükümlerine
 tabi olan Kamu İktisadi Teşebbüsleri ile bunlara ait müesseseler hakkında bu madde
 hükümleri uygulanmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

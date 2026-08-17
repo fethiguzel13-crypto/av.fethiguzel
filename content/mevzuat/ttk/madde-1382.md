@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**III
-- Cebrî satış
+**III - Cebrî satış
 1. Haciz**
 
 ---
 
-Madde 1382 - (1) Türk ve yabancı bayraklı bütün g emilerin kesin haczinde, ihtiyati hacze ilişkin 1364 ilâ 1368 inci maddeler uygulanır. (2) Gemilerin icra yoluyla haczinde, alacağın 1352 nci maddede sayılan deniz alacaklarından olması şartı aranmaz.
+MADDE 1382- (1) Türk ve yabancı bayraklı bütün gemilerin kesin haczinde, ihtiyati
+hacze ilişkin 1364 ilâ 1368 inci maddeler uygulanır.
+(2) Gemilerin icra yoluyla haczinde, alacağın 1352 nci maddede sayılan deniz
+alacaklarından olması şartı aranmaz.
 
 ---
 

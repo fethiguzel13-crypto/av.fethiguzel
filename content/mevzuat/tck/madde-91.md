@@ -30,6 +30,8 @@ halinde, tüzel kişi hakkında bunlara özgü güvenlik tedbirlerine hükmolunu
 (8) Birinci fıkrada tanımlanan suçun işlenmesi sonucunda mağdurun ölmesi halinde,
 kasten öldürme suçuna ilişkin hükümler uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -18,6 +18,8 @@ görevli Devlet memurları arasından yeterli sayıda raportör görevlendirilir
 (2) Tüketici hakem heyeti raportörleri, heyetin çalışmalarına ve kararlarına esas olacak
 dosyaları hazırlamak ve uyuşmazlığa ilişkin raporu sunmakla görevlidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

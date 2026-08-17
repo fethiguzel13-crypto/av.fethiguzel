@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4318
 ---
 
-**Mücavir alan**
+**Mücavir alan:**
 
 ---
 
@@ -17,6 +17,8 @@ değiştirerek tasdik etmeye veya değiştirilmek üzere iadeye yetkilidir
 Mücavir alanın ilgili belediye sınırına bitişik olması gerekmez. Ayrıca, bu alanlar
 köyleri de ihtiva edebilir. Mücavir alandan çıkarılma da aynı usule tabidir. Bakanlık gerekli
 gördüğü hallerde mücavir alana alma ve çıkarma hususunda resen karar verebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

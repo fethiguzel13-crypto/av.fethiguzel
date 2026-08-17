@@ -21,6 +21,8 @@ Hasta, izinli veya sair sebeplerle mazeretli olduğu hallerde dahi aylığı tam
 Ancak bunlardan ulusal bayram ve genel tatil günlerinde çalışanlara ayrıca çalıştığı her gün
 için bir günlük ücreti ödenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

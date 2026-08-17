@@ -13,6 +13,8 @@ wordCount: 4304
 
 Madde 19 – (Mülga: 23/1/2008-5728/578 md.)
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**B. Koşull ar ve yüklemeler**
+**B. Koşullar ve yüklemeler**
 
 ---
 
-Madde 515 - Mirasbırakan, ölüme bağlı tasarrufla rını k oşulla ra veya yüklemelere bağla yabilir. Tasarruf hüküm ve sonuçlarını doğurduğu andan itibaren, her ilgi li koşul veya yüklemenin yerine getirilmesini isteyebilir. Hukuka veya ahlâka ayk ırı koşullar ve yüklemeler, ilişkin bulundukları tasar rufu geçers iz kıl ar. Anlamsız veya yalnız başkalarını rahatsız edici nitelikte olan koşullar ve yüklemeler yok sayılır.
+Madde 515- Mirasbırakan, ölüme bağlı tasarruflarını koşullara veya yüklemelere
+bağlayabilir. Tasarruf hüküm ve sonuçlarını doğurduğu andan itibaren, her ilgili koşul veya
+yüklemenin yerine getirilmesini isteyebilir.
+Hukuka veya ahlâka aykırı koşullar ve yüklemeler, ilişkin bulundukları tasarrufu geçersiz
+kılar.
+Anlamsız veya yalnız başkalarını rahatsız edici nitelikte olan koşullar ve yüklemeler yok
+sayılır.
 
 ---
 

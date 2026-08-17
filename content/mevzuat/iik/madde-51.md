@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**1 – Bütün borçlular hakkında**
+**III. TATİLLER VE TALİKLER
+Tatiller:
+1 – Bütün borçlular hakkında:**
 
 ---
 
@@ -19,6 +21,8 @@ gibi muhafaza tedbirleri de alınabilir. Borçlunun mal kaçırdığı anlaşıl
 haciz yapılması caizdir.
 Bir borçlu hakkında kanunda gösterilen sebeplerden dolayı icra talik edilmiş veya
 konkordato için mühlet verilmiş ise, o borçluya karşı takip muamelesi yapılamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

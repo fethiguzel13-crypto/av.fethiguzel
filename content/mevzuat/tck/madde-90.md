@@ -45,10 +45,11 @@ bilimsel yöntemlere uygun tedavi amaçlı deneme, ceza sorumluluğunu gerektirm
 rızanın, denemenin mahiyet ve sonuçları hakkında yeterli bilgilendirmeye dayalı olarak yazılı
 olması ve tedavinin uzman hekim tarafından bir hastane ortamında yapılması gerekir.
 (5) Birinci fıkrada tanımlanan suçun işlenmesi sonucunda mağdurun yaralanması veya
-
-ölmesi halinde, kasten yaralama veya kasten öldürme suçuna ilişkin hükümler uygulanır.
+ölmesi halinde, kasten yaralama veya kasten öldürme suçuna ilişkin hükümler uygulanır.
 (6) Bu maddede tanımlanan suçların bir tüzel kişinin faaliyeti çerçevesinde işlenmesi
 halinde, tüzel kişi hakkında bunlara özgü güvenlik tedbirlerine hükmolunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

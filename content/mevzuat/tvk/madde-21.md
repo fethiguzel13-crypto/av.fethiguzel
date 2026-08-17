@@ -11,7 +11,9 @@ wordCount: 4272
 
 ---
 
-MADDE 21 – (1) 27 nci madde uyarınca ana veya babalarına bağlı olarak Türk vatandaşlığını kaybeden çocuklar ergin olmalarından itibaren üç yıl içinde seçme hakkını kullanmak suretiyle Türk vatandaşlığını kazanabilirler.
+MADDE 21 – (1) 27 nci madde uyarınca ana veya babalarına bağlı olarak Türk
+vatandaşlığını kaybeden çocuklar ergin olmalarından itibaren üç yıl içinde seçme hakkını
+kullanmak suretiyle Türk vatandaşlığını kazanabilirler.
 
 ---
 

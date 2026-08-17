@@ -15,6 +15,9 @@ Madde 196- (1) Ölü gömülmesine ayrılan yerlerden başka yerlere ölü göme
 gömdüren kişi, altı aya kadar hapis cezası ile cezalandırılır.
 DÖRDÜNCÜ BÖLÜM
 Kamu Güvenine Karşı Suçlar
+Parada sahtecilik
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -30,6 +30,8 @@ aykırı davrandığını işçi ispat etmekle yükümlüdür. Ancak, işçi bir
 güçlü bir biçimde gösteren bir durumu ortaya koyduğunda, işveren böyle bir ihlalin mevcut
 olmadığını ispat etmekle yükümlü olur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

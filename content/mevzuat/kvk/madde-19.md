@@ -31,17 +31,13 @@ niteliğindeki bir yabancı kurumun Türkiye’deki iş yeri veya daimî temsilc
 yer alan ve en az iki tam yıl süreyle elde tutulan iştirak hisseleri ya da sahip oldukları üretim
 veya hizmet işletmelerinin bir veya birkaçını kayıtlı değerleri üzerinden aynî sermaye olarak
 mevcut veya yeni kurulacak tam mükellef bir sermaye şirketine devretmesi, bu Kanunun
-16/6/2009 tarihli ve 5904 sayılı Kanunun 6 ncı maddesiyle; sekizinci fıkrasından sonra gelmek
-üzere bu fıkra eklenmiş ve mevcut dokuzuncu fıkra onuncu fıkra olarak teselsül ettirilmiştir.
-42
-
-uygulanmasında kısmî bölünme hükmündedir. Ancak, üretim veya hizmet işletmelerinin
+uygulanmasında kısmî bölünme hükmündedir. Ancak, üretim veya hizmet işletmelerinin
 devrinde, işletme bütünlüğü korunacak şekilde faaliyetin devamı için gerekli aktif ve pasif
 kalemlerin tümünün devredilmesi zorunludur. Kısmî bölünmede devredilen varlıklara karşılık
 edinilen devralan şirket hisseleri, devreden şirkette kalabileceği gibi doğrudan bu şirketin
 ortaklarına da verilebilir. İştirak hisselerinin bu bent kapsamında devrinde, devralan şirketin
-hisselerinin devreden şirketin ortaklarına verilmesi halinde, devredilen (…)43 iştirak
-hisselerine ilişkin borçların da devri zorunludur.43
+hisselerinin devreden şirketin ortaklarına verilmesi halinde, devredilen (…)iştirak
+hisselerine ilişkin borçların da devri zorunludur.
 c) Hisse değişimi: Tam mükellef bir sermaye şirketinin, diğer bir sermaye şirketinin
 hisselerini, bu şirketin yönetimini ve hisse çoğunluğunu elde edecek şekilde devralması ve
 karşılığında bu şirketin hisselerini devreden ortaklarına kendi şirketinin sermayesini temsil
@@ -53,6 +49,8 @@ değildir.
 ilgili olduğu aktif veya pasif hesapla birlikte devrolunur.
 (5) Maliye Bakanlığı devir, bölünme ve hisse değişimi işlemleri ile ilgili usûlleri
 belirlemeye yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,8 @@ wordCount: 4304
 
 ---
 
-Madde 465 - Kanunen gerektiği h âlde vasinin yetkili vesayet dairelerinin iznini almadan yapmış olduğu işlemler, vesayet altındaki kişinin v asinin izni olmaksızın yapt ığı işlem h ükmünd edir. DÖRDÜNCÜ AYIRIM VESAYET ORGANLARININ SORUMLULUĞU A. Özen yükümü
+Madde 465- Kanunen gerektiği hâlde vasinin yetkili vesayet dairelerinin iznini almadan
+yapmış olduğu işlemler, vesayet altındaki kişinin vasinin izni olmaksızın yaptığı işlem hükmündedir.
 
 ---
 

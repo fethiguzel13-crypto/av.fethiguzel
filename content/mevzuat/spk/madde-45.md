@@ -24,6 +24,8 @@ yatırımcılara sağlanacak korumanın belirlenmesi amacıyla yatırımcıları
 ve bu hizmet ve faaliyetlerden doğan yatırımcı şikâyetlerinin takibi ve sonuçlanmasını
 sağlamak üzere gerekli iç kontrol birim ve sistemlerini oluşturmakla yükümlüdürler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

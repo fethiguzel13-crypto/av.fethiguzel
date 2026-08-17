@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**Amortisman kayıtları**
+**Amortisman kayıtları:**
 
 ---
 
 Madde 214 – Çiftçi işletme defteri tutanlar, amortismana tabi kıymetleri ve bunların
 amortismanlarını 189 uncu maddede yazılı şekilde tutulan amortisman kayıtlarında
 gösterebilecekleri gibi bu kayıtları çiftçi işletme defterinin ayrı bir yerine de geçirebilirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

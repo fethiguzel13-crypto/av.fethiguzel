@@ -7,13 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**E) Yönetimin denetlenmesi**
+**E) Yönetimin denetlenmesi:**
 
 ---
 
 Madde 41 – Kat malikleri kurulu, yöneticinin bu görevdeki tutumunu devamlı olarak
 denetler ve haklı bir sebebin çıkması halinde onu her zaman değiştirebilir.
-Hesapların denetlenmesi için yönetim planında, belli bir zaman konulmamışsa; bu denetim her üç ayda bir yapılır; bununla beraber haklı bir sebep çıkarsa, hesap denetlenmesi her
+Hesapların denetlenmesi için yönetim planında, belli bir zaman konulmamışsa; bu de-
+netim her üç ayda bir yapılır; bununla beraber haklı bir sebep çıkarsa, hesap denetlenmesi her
 zaman yapılabilir.
 Kat malikleri kurulu denetim işini, kendi aralarından sayı ve arsa payı çoğunluğuyla
 seçecekleri bir denetçiye veya üç kişilik bir denetim kuruluna verebilir; bu halde denetçi veya
@@ -24,7 +25,8 @@ anagayrimenkulün yönetim tarzı hakkındaki düşüncelerini bildirir; bu rapo
 Denetçiler bu raporu ve verecekleri kararları ve gerekli gördükleri diğer hususları, (1)
 den başlayıp sıra ile giden sayfa numaraları taşıyan ve her sayfası noter mührüyle tasdikli bir
 deftere geçirip tarih koyarak altını imza ederler.
-F) Yenilik ve ilaveler:
+
+---
 
 ### Akademik Yorum ve Analiz
 

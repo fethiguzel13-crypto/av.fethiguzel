@@ -12,7 +12,9 @@ wordCount: 4276
 ---
 
 Madde 283 – (1) İstinaf yoluna yalnız sanık lehine başvurulmuşsa, yeniden verilen
-hüküm, önceki hükümle belirlenmiş olan cezadan daha ağır olamaz.129
+hüküm, önceki hükümle belirlenmiş olan cezadan daha ağır olamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

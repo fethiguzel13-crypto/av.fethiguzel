@@ -19,6 +19,8 @@ sonra müdafi veya vekil dinlenir.
 (4) Merciin, itiraz üzerine verdiği kararları kesindir; ancak ilk defa merci tarafından
 verilen tutuklama kararlarına karşı itiraz yoluna gidilebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -12,12 +12,10 @@ wordCount: 4282
 ---
 
 Madde 50 – Görüşmeyi Kurul Başkanı veya Kurul Başkanının görüşmeye katılmadığı
-2/7/2005 tarihli ve 5388 sayılı Kanunun 5 inci maddesiyle, bu fıkrada geçen “7” ibaresi, “dört”
-olarak değiştirilmiştir.
-17
-
-durumlarda İkinci Başkan yönetir ve karara bağlanacak konuları belirler. Bu konular serbestçe
+durumlarda İkinci Başkan yönetir ve karara bağlanacak konuları belirler. Bu konular serbestçe
 tartışıldıktan sonra Başkan oyları toplar ve en son kendi oyunu verir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,13 @@ lastReviewed: "2026-07-27"
 wordCount: 2998
 ---
 
-**(Mülga: 2/7/2018 - KHK/703/138 md.)**
+**I - İlçe memurlarının tayin usulü**
 
 ---
 
-Madde 29 - (Mülga: 2/7/2018 - KHK/703/138 md.)
+Madde 29 – (Mülga: 2/7/2018 - KHK/703/138 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

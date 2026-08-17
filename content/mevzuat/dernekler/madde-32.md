@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Ceza hükümleri**
+**ALTINCI BÖLÜM
+Ceza Hükümleri
+Ceza hükümleri**
 
 ---
 
@@ -25,8 +27,7 @@ Mahkemece, kanun ve tüzük hükümlerine aykırı olarak yapılan genel kurul t
 iptaline de karar verilebilir.
 c) Yurt dışı yardımı bankalar aracılığıyla almayan dernek yöneticilerine, bu şekilde
 alınan paranın yüzde yirmi beşi oranında idarî para cezası verilir.
-
-d) Derneğe ait tutulması gereken defter veya kayıtları tutmayan veya tasdiksiz defter
+d) Derneğe ait tutulması gereken defter veya kayıtları tutmayan veya tasdiksiz defter
 tutan dernek yöneticileri üç aydan bir yıla kadar hapis veya adlî para cezası ile cezalandırılır.
 Bu defter ve kayıtların usulüne uygun tutulmaması halinde dernek yöneticilerine ve defterleri
 tutmakla sorumlu kişilere beşyüz Türk Lirası idarî para cezası verilir. Adına yetki belgesi
@@ -63,10 +64,9 @@ bu belgeyi denetim sırasında ibraz edemeyenler üç aydan bir yıla kadar hapi
 cezası ile cezalandırılır. 21 inci maddenin birinci ve ikinci fıkralarındaki yükümlülüklere
 aykırı hareket edenlere beş bin Türk lirasından yüz bin Türk lirasına kadar idari para cezası
 verilir.
-
-l) 22 ve 24 üncü maddelerde belirtilen bildirim yükümlülüğünü, 19 uncu maddede
+l) 22 ve 24 üncü maddelerde belirtilen bildirim yükümlülüğünü, 19 uncu maddede
 belirtilen beyanname verme yükümlülüğünü yerine getirmeyen dernek yöneticilerine ve 24
-üncü maddede belirtilen temsilcilere beşyüz Türk Lirası idarî para cezası verilir.12
+üncü maddede belirtilen temsilcilere beşyüz Türk Lirası idarî para cezası verilir.
 m) 26 ncı maddede belirtilen tesisleri izinsiz açan dernek yöneticilerine beşyüz Türk
 Lirası idarî para cezası verilir ve tesisin kapatılmasına da karar verilebilir.
 n) 28 inci maddede belirtilen kelimeleri izinsiz kullanan veya 29 uncu maddede
@@ -101,16 +101,14 @@ tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hüküml
 Hazine ve Maliye Bakanlığınca tespit ve ilan edilen yeniden değerleme oranında artırılması
 suretiyle uygulanır. Bu şekilde belirlenen sınırların hesabında bir Türk lirasının küsuru
 dikkate alınmaz.
-25/3/2020 tarihli ve 7226 sayılı Kanunun 22 nci maddesiyle bu bentte yer alan “, 23” ibaresi madde
-metninden çıkarılmıştır.
-12
-
-(Ek fıkra:27/12/2020-7262/16 md.) Bu Kanunun 3 üncü maddesinin üçüncü fıkrasına
+(Ek fıkra:27/12/2020-7262/16 md.) Bu Kanunun 3 üncü maddesinin üçüncü fıkrasına
 aykırı olarak dernek organlarında görev alanlara ve bu kişilerin görevlerini yazılı uyarıya
 rağmen yedi gün içerisinde sonlandırmayan dernek yöneticilerine bin beş yüz Türk lirası idari
 para cezası verilir. Mülki idare amirince yapılan ikinci yazılı uyarıya rağmen otuz gün içinde
 bu kişilerin organlardaki görevlerinin sonlandırılmaması hâlinde Türk Medenî Kanununun 89
 uncu maddesine göre işlem tesis edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

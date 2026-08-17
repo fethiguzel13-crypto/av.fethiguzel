@@ -7,14 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**Tanınma işaretleri**
+**Tanınma işaretleri:**
 
 ---
 
-Madde 27 – Esasları yönetmelikte açıklanan ve araçların tanınmasına yarayan, motorşasi, seri numaraları, gerektiğinde yüklü, yüksüz ağırlıkları gibi işaretleri bulunmayan araçlara
+Madde 27 – Esasları yönetmelikte açıklanan ve araçların tanınmasına yarayan, motor-
+şasi, seri numaraları, gerektiğinde yüklü, yüksüz ağırlıkları gibi işaretleri bulunmayan araçlara
 tescil belgesi verilmez.
 Tanınma işareti bulunmayan veya bilinmeyen araçların, işaretleri tescil bürolarınca
 belirlenir ve belgelerine işlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -19,6 +19,8 @@ ve intikal vergisinden, bu ödemeler için düzenlenen kâğıtlar ise damga ver
 uygulanan şiddet veya şiddet tehlikesi dolayısıyla açılan idarî, cezaî, hukukî her tür davaya ve
 çekişmesiz yargıya katılabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

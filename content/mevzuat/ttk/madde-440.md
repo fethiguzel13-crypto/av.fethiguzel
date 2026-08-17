@@ -11,7 +11,9 @@ wordCount: 4307
 
 ---
 
-Madde 440 - (1) Mahkeme, şirketi ve istem sahiplerini dinledikten sonra k ararını verir. (2) Mahkeme istemi yerinde görürse, istem çerçevesinde inceleme konusunu belirleyerek bir veya birden fazla bağımsız uzmanı görevlendirir. Mahkemenin kararı kesindir.
+MADDE 440- (1) Mahkeme, şirketi ve istem sahiplerini dinledikten sonra kararını verir.
+(2) Mahkeme istemi yerinde görürse, istem çerçevesinde inceleme konusunu belirleyerek
+bir veya birden fazla bağımsız uzmanı görevlendirir. Mahkemenin kararı kesindir.
 
 ---
 

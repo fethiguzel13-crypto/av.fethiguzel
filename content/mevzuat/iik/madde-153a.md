@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**Rehnin paraya çevrilmesine ilişkin hükümlerin gemilere uygulanması**
+**(Ek: 29/6/1956-6763/42 md.; Mülga üçüncü fıkra: 14/1/2011-6103/41 md.)
+Rehnin paraya çevrilmesine ilişkin hükümlerin gemilere uygulanması:**
 
 ---
 
@@ -28,13 +29,10 @@ olmadığına bakılmaksızın bütün gemiler için üç aydır.
 3. 151 inci maddesinin ikinci fıkrası uyarınca yapılacak sıra cetveli, bayrağına ve sicile
 kayıtlı olup olmadığına bakılmaksızın bütün gemiler için Türk Ticaret Kanununun 1389 ilâ
 1397 nci maddesi hükümlerine göre düzenlenir.
-
-4. 153 üncü maddesinin yerine Türk Ticaret Kanununun 1052 ve 1053 üncü maddeleri
+4. 153 üncü maddesinin yerine Türk Ticaret Kanununun 1052 ve 1053 üncü maddeleri
 uygulanır.
-ALTINCI BAP
-İflas yoliyle takip
-I – YETKİ:
-İflas takiplerinde yetkili merci:
+
+---
 
 ### Akademik Yorum ve Analiz
 

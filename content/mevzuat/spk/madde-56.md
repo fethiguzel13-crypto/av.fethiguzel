@@ -21,8 +21,7 @@ işlemlerinin mevzuat ve esas sözleşme hükümlerine uygunluğunun,
 c) Yatırım fonu veya değişken sermayeli yatırım ortaklığı birim katılma payı veya
 birim pay değerinin mevzuat ile fon iç tüzüğü veya esas sözleşme hükümleri çerçevesinde
 belirlenen değerleme esaslarına göre hesaplanmasının,
-
-ç) Mevzuat ile fon iç tüzüğü veya esas sözleşme hükümlerine aykırı olmamak şartıyla,
+ç) Mevzuat ile fon iç tüzüğü veya esas sözleşme hükümlerine aykırı olmamak şartıyla,
 portföy yönetim şirketi, değişken sermayeli yatırım ortaklığı ve yatırım ortaklığı talimatlarının
 yerine getirilmesinin,
 d) Kolektif yatırım kuruluşlarının varlıklarıyla ilgili işlemlerinden doğan edimlerine
@@ -61,6 +60,8 @@ ve ihracın niteliklerine göre saklama hizmeti için farklı esaslar belirleyeb
 zorunluluğundan muafiyet getirebilir.
 (9) Portföy saklama hizmetini yürütecek kuruluşların niteliklerine ve bu faaliyetin
 yürütülmesine ilişkin usul ve esaslar Kurul tarafından belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

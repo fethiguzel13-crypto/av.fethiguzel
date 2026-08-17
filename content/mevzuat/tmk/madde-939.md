@@ -7,11 +7,22 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**Madde 939**
+**ÜÇÜNCÜ BÖLÜM
+TAŞINIR REHNİ
+BİRİNCİ AYIRIM
+TESLİME BAĞLI REHİN VE HAPİS HAKKI
+A. Teslime bağlı rehin
+I. Kurulması
+1. Alacaklının zilyetliği**
 
 ---
 
-Madde 939 - Kanunda öngörülen ayrık durumlar dışında taşınırlar, ancak zilyetliğin alacaklıya devri s uretiyle rehnedilebilir. Rehnedende tasarrufta bulunma yetkisi olmasa bile, rehin konusu taşınıra iyiniy etle zilyet olan kimse, zilyetlik hükümlerine göre edinimi kor unduğu ölçüde rehin hakkı kazanır. Üçüncü kişilerin önceki zilyetlikten doğan hakları sakl ıdır. Taşınır, fiilen yalnız rehnedenin hâkimiyetinde kaldığı sürece rehin hakkı doğmaz.
+Madde 939 - Kanunda öngörülen ayrık durumlar dışında taşınırlar, ancak zilyetliğin
+alacaklıya devri suretiyle rehnedilebilir.
+Rehnedende tasarrufta bulunma yetkisi olmasa bile, rehin konusu taşınıra iyiniyetle zilyet
+olan kimse, zilyetlik hükümlerine göre edinimi korunduğu ölçüde rehin hakkı kazanır. Üçüncü
+kişilerin önceki zilyetlikten doğan hakları saklıdır.
+Taşınır, fiilen yalnız rehnedenin hâkimiyetinde kaldığı sürece rehin hakkı doğmaz.
 
 ---
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**Vergi Kanunlarının uygulanması ve ispat**
+**Vergi Kanunlarının uygulanması ve ispat:**
 
 ---
 
@@ -22,13 +22,10 @@ gerçek mahiyeti esastır.
 Vergiyi doğuran olay ve bu olaya ilişkin muamelelerin gerçek mahiyeti yemin hariç
 her türlü delille ispatlanabilir. Şu kadar ki, vergiyi doğuran olayla ilgisi tabii ve açık
 bulunmayan şahit ifadesi ispatlama vasıtası olarak kullanılamaz.
-
-İktisadi, ticari ve teknik icaplara uymayan veya olayın özelliğine göre normal ve
+İktisadi, ticari ve teknik icaplara uymayan veya olayın özelliğine göre normal ve
 mutad olmayan bir durumun iddia olunması halinde ispat külfeti bunu iddia eden tarafa aittir.
-BİRİNCİ KİTAP
-Vergilendirme
-BİRİNCİ KISIM
-Genel Esaslar
+
+---
 
 ### Akademik Yorum ve Analiz
 

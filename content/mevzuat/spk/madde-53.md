@@ -25,6 +25,8 @@ yapılabilir.
 (4) Portföy yönetim şirketlerinin üçüncü kişilere olan borçları ve yükümlülükleri ile
 yatırım fonlarının aynı üçüncü kişilerden olan alacakları birbirlerine karşı mahsup edilemez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

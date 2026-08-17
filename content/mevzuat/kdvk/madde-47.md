@@ -7,12 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4285
 ---
 
-**Gümrük makbuzu**
+**6. (Ek : 6/12/1984 - 3094/4 md.; Mülga : 26/12/1993 - 3946/38 md.)
+BEŞİNCİ BÖLÜM
+Gümrük İdarelerince Alınan Katma Değer Vergisine İlişkin Hükümler
+Gümrük makbuzu:**
 
 ---
 
 Madde 47 – İthal sırasında alınan Katma Değer Vergisi gümrük makbuzunda ayrıca
 gösterilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

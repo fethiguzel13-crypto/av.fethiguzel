@@ -14,6 +14,8 @@ wordCount: 4259
 MADDE 311- (1) Feragat ve kabul, kesin hüküm gibi hukuki sonuç doğurur. İrade
 bozukluğu hâllerinde, feragat ve kabulün iptali istenebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

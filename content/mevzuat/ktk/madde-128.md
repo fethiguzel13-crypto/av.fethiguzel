@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**Terkedilen, hasara uğrayan veya uzun süre park edilen araçlar**
+**Terkedilen, hasara uğrayan veya uzun süre park edilen araçlar:**
 
 ---
 
 Madde 128 – Yolu kullananları uzun süre etkileyecek şekilde park edilmiş, terkedilmiş
 veya hasara uğramış araçların kaldırılıp götürülmesine trafik zabıtası yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

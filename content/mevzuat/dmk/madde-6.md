@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**Sadakat**
+**BÖLÜM: 2
+Ödevler ve Sorumluluklar
+Sadakat:**
 
 ---
 
@@ -26,6 +28,8 @@ geliştirmek için çalışacağıma; insan haklarına ve Anayasanın temel ilke
 demokratik, laik, bir hukuk devleti olan Türkiye Cumhuriyetine karşı görev ve
 sorumluluklarını bilerek, bunları davranış halinde göstereceğime namusum ve şerefim üzerine
 yemin ederim.
+
+---
 
 ### Akademik Yorum ve Analiz
 

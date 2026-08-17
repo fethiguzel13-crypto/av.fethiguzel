@@ -14,6 +14,8 @@ wordCount: 4270
 Madde 38- Bu Kanun hükümlerine ilişkin değişiklikler, ancak bu Kanuna hüküm
 eklenmek veya bu Kanunda değişiklik yapılmak suretiyle düzenlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

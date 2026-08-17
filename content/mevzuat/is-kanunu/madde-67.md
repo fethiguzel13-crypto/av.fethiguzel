@@ -15,6 +15,8 @@ Madde 67 - Günlük çalışmanın başlama ve bitiş saatleri ile dinlenme saat
 işçilere duyurulur.
 İşin niteliğine göre işin başlama ve bitiş saatleri işçiler için farklı şekilde düzenlenebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

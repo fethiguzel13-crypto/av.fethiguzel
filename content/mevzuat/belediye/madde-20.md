@@ -31,6 +31,8 @@ geçmemek üzere toplantıya çağırır. Olağanüstü toplantı çağrısı ve
 önceden meclis üyelerine yazılı olarak duyurulur ve ayrıca mutat usûllerle ilan edilir.
 Olağanüstü toplantılarda çağrıyı gerektiren konuların dışında hiçbir konu görüşülemez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

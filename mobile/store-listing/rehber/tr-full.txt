@@ -1,0 +1,25 @@
+Hukuki bir sorunla karşılaştığınızda ilk üç soru hep aynıdır: Nereye başvuracağım? Ne kadar sürem var? Yanımda hangi belgeler olsun?
+
+Bu uygulama tam olarak bunları anlatır. Her rehberde kısa cevap, sırayla adımlar, gereken belgeler ve sık yapılan hatalar yer alır. Tamamı cihazınıza kurulur; okumak için internet gerekmez.
+
+NASIL YAZILDI
+Rehberler avukat gözüyle yazılmıştır: hangi mahkeme, hangi kanun maddesi, süre ne zaman başlar, hangi belge olmazsa dosya reddedilir. Forum cevabı değil, süreç haritasıdır.
+
+İÇİNDE NE VAR
+• Konu başlıklarına göre düzenlenmiş rehberler
+• Her rehberde: kısa cevap · adım adım süreç · belge listesi · kontrol listesi · sık sorulan sorular
+• İlgili kanun maddesine bağlantı
+• Kaydettikleriniz — çevrimdışı okuma listesi
+• Ayarlanabilir yazı boyutu
+
+ARŞİV YENİDEN YAZILIYOR — AÇIKÇA SÖYLÜYORUZ
+Bu uygulama şu an sitedeki rehberlerin yalnız denetimden geçmiş olanlarını taşıyor. Otomatik üretilmiş, "yasal süre vardır" deyip süreyi söylemeyen metinleri bilinçli olarak dışarıda bıraktık. Az ama doğru bilgi, çok ama içi boş bilgiden iyidir. Yeniden yazılan her konu bir sonraki güncellemede eklenir.
+
+VERİLERİNİZ
+Kaydettikleriniz yalnız cihazınızda tutulur. Uygulama hesap açtırmaz, konum istemez, kişisel veri toplamaz.
+
+YASAL UYARI
+Genel bilgilendirmedir; resmî hukuki tavsiye veya vekâlet ilişkisi kurmaz. Somut dosyada süre ve merci değişebilir. Hak kaybı yaşamamak için bir avukata danışın.
+
+Av. Fethi Güzel — Van · Erciş avukat ve arabulucu
+https://www.avfethiguzel.com

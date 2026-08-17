@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
-**IV. Tebl iğ zorunluluğu**
+**IV. Tebliğ zorunluluğu**
 
 ---
 
-Madde 1019 - Tapu memuru, ilgililerin bilgisi dışında yaptığı işlemleri onla ra tebliğ etmekle yükümlüdür. İlgililerin bu işlemlere karşı itiraz süresi, kendilerine yapılan tebliğ tarihinden işlemeye başlar.
+Madde 1019- Tapu memuru, ilgililerin bilgisi dışında yaptığı işlemleri onlara tebliğ
+etmekle yükümlüdür.
+İlgililerin bu işlemlere karşı itiraz süresi, kendilerine yapılan tebliğ tarihinden işlemeye
+başlar.
 
 ---
 

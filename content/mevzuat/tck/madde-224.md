@@ -19,8 +19,8 @@ cezalandırılır.
 ayrıca cezaya hükmolunur.
 (3) Bu suçun işlenmesi sırasında kasten yaralama suçunun neticesi sebebiyle ağırlaşmış
 hallerinin gerçekleşmesi durumunda, ayrıca kasten yaralama suçuna ilişkin hükümler uygulanır.
-YEDİNCİ BÖLÜM
-Genel Ahlaka Karşı Suçlar
+
+---
 
 ### Akademik Yorum ve Analiz
 

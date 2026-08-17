@@ -7,15 +7,12 @@ lastReviewed: "2026-07-27"
 wordCount: 3658
 ---
 
-**Bilümum mülkiye amirleri, emniyet**
+Madde 7 – Bilümum mülkiye amirleri, emniyet amir ve memurları, belediye
+başkanları, köy muhtarları ve kamu müesseseleri vergi kanunlarının uygulanmasında
+uygulama ile ilgili memurlara ve komisyonlara ellerindeki bütün imkanlarla kolaylık
+göstermeye ve yardımda bulunmaya mecburdurlar.
 
 ---
-
-Madde 7 - Bilümum mülkiye amirleri, emniyet
-amir ve memurları, belediye başkanları, köy muhtarları ve kamu müesseseleri
-vergi kanunlarının uygulanmasında uygulama ile ilgili memurlara ve komisyonlara
-ellerindeki bütün imkanlarla kolaylık göstermeye ve yardımda bulunmaya
-mecburdurlar.
 
 ### Akademik Yorum ve Analiz
 

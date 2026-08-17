@@ -12,7 +12,10 @@ I. Belirlenmesi**
 
 ---
 
-Madde 521 - Mirasbırakan, ölüme bağlı tasarrufuyla önmirasçı ata dığı kişiyi mirası artmirasçıya devretmekle yükümlü k ılabilir. Aynı yükümlülük ar tmirasçıya yüklenemez. Bu k urallar belirli mal bırakmada da uygul anır.
+Madde 521- Mirasbırakan, ölüme bağlı tasarrufuyla önmirasçı atadığı kişiyi mirası
+artmirasçıya devretmekle yükümlü kılabilir.
+Aynı yükümlülük artmirasçıya yüklenemez.
+Bu kurallar belirli mal bırakmada da uygulanır.
 
 ---
 

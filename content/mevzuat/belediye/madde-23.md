@@ -24,6 +24,8 @@ idare amirine gönderilir. Mülkî idare amirine gönderilmeyen kararlar yürür
 Kesinleşen meclis kararlarının özetleri yedi gün içinde uygun araçlarla halka
 duyurulur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

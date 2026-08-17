@@ -7,13 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**Kaydettirilmemiş alacaklar**
+**Kaydettirilmemiş alacaklar:**
 
 ---
 
 Madde 253 – Evvelce kaydedilmemesinden dolayı tasfiyeye girmemiş olan alacaklara
 aciz vesikası verilen alacaklar hakkındaki hükümler tatbik olunur.
-VII. İFLASIN KAPANMASl
+
+---
 
 ### Akademik Yorum ve Analiz
 

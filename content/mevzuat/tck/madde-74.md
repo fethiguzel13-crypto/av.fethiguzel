@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**Dava veya cezanın düşmesinin etkisi**
+**(8) (Mülga: 6/12/2006 – 5560/45 md.)
+Dava veya cezanın düşmesinin etkisi**
 
 ---
 
@@ -18,8 +19,8 @@ açılan şahsi hak davasını etkilemez.
 (3) Cezanın düşmesi şahsi haklar, tazminat ve yargılama giderlerine ilişkin hükümleri
 etkilemez. Ancak, genel af halinde yargılama giderleri de istenemez.
 Önödeme
-19/12/2006 tarihli ve 5560 sayılı Kanunun 2 nci maddesiyle bu başlıkta yer alan “, uzlaşma” ibaresi
-metinden çıkarılmıştır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

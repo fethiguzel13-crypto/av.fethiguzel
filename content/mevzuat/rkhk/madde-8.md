@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4286
 ---
 
-**Menfi Tespit**
+**İKİNCİ BÖLÜM
+Kurulun Yetkileri
+Menfi Tespit**
 
 ---
 
@@ -17,6 +19,8 @@ Kanunun 4, 6 ve 7 nci maddelerine aykırı olmadığını gösteren bir menfi te
 Kurul, bu belgenin düzenlenmesinden sonra 13 üncü maddedeki şartlar çerçevesinde
 görüşünden her zaman dönebilir. Ancak bu durumda taraflara Kurulun görüş değiştirmesine
 kadar geçen süre için cezai müeyyide uygulanmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,15 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4285
 ---
 
-**Yoklama zamanı**
+**Yoklama zamanı:**
 
 ---
 
 Madde 130 – Yoklama her zaman yapılabilir.
 Yoklamanın ne zaman yapılacağı ilgiliye haber verilmez.
-2/7/2018 tarihli ve 700 sayılı KHK’nin 46 ncı maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi
-“Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-33
+
+---
 
 ### Akademik Yorum ve Analiz
 

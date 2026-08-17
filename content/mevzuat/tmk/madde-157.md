@@ -12,7 +12,9 @@ wordCount: 4313
 
 ---
 
-Madde 157 - Mahkemece butlanına kar ar ve rilen bir evlilikten doğan çocuklar, ana ve baba iyiniyetli olmasalar bile evlilik içinde doğmuş sayılırlar. Çocuklar ile ana ve baba arasındaki ilişkilere boşanmaya ilişkin hükümler uygulanır.
+Madde 157- Mahkemece butlanına karar verilen bir evlilikten doğan çocuklar, ana ve
+baba iyiniyetli olmasalar bile evlilik içinde doğmuş sayılırlar.
+Çocuklar ile ana ve baba arasındaki ilişkilere boşanmaya ilişkin hükümler uygulanır.
 
 ---
 

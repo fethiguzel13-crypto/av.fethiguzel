@@ -7,13 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**IV
-- Yeni işler
+**IV - Yeni işler
 1. Kural**
 
 ---
 
-Madde 292 - (1) Tasfiye memurları tasfiyenin gereklerinden olmayan yeni bir işlem yapamazlar. Aksi takdirde, bu tür işlemlerden dolayı or taklara karşı müteselsilen sorumlu olurlar.
+MADDE 292- (1) Tasfiye memurları tasfiyenin gereklerinden olmayan yeni bir işlem
+yapamazlar. Aksi takdirde, bu tür işlemlerden dolayı ortaklara karşı müteselsilen sorumlu
+olurlar.
 
 ---
 

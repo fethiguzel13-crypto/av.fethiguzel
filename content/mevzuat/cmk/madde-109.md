@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Adlî kontrol**
+**ÜÇÜNCÜ BÖLÜM
+Adlî Kontrol
+Adlî kontrol**
 
 ---
 
@@ -41,16 +43,11 @@ mahkûm edildiği nafakayı düzenli olarak ödeyeceğine dair güvence vermek.
 j) (Ek: 2/7/2012-6352/98 md.) Konutunu terk etmemek.
 k) (Ek: 2/7/2012-6352/98 md.) Belirli bir yerleşim bölgesini terk etmemek.
 l) (Ek: 2/7/2012-6352/98 md.) Belirlenen yer veya bölgelere gitmemek.
-(4) (Ek: 25/5/2005 – 5353/14 md.)22 (Mülga: 2/7/2012-6352/98 md.) (Yeniden
+(4) (Ek: 25/5/2005 – 5353/14 md.)(Mülga: 2/7/2012-6352/98 md.) (Yeniden
 Düzenleme:14/4/2020-7242/15 md.) Maruz kaldığı ağır bir hastalık veya engellilik nedeniyle
 ceza infaz kurumu koşullarında hayatını yalnız idame ettiremediği 13/12/2004 tarihli ve 5275
 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun 16 ncı maddesinin üçüncü
-
-25/5/2005 tarihli ve 5353 sayılı Kanunun 14 üncü maddesiyle, üçüncü fıkradan sonra gelmek üzere
-(4) numaralı fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
-22
-
-fıkrası uyarınca tespit edilen şüpheli ile gebe olan veya doğurduğu tarihten itibaren altı ay
+fıkrası uyarınca tespit edilen şüpheli ile gebe olan veya doğurduğu tarihten itibaren altı ay
 geçmemiş bulunan kadın şüphelinin tutuklanması yerine adlî kontrol altına alınmasına karar
 verilebilir. Hakkında mahkûmiyet hükmü verilmiş ve bu hükümle ilgili olarak istinaf veya
 temyiz kanun yoluna başvurulmuş olması hâlinde, UYAP kayıtlarını incelemek suretiyle
@@ -61,9 +58,11 @@ hükmü veren ilk derece mahkemesi de adlî kontrol kararı verebilir.
 mahsup edilemez. Bu hüküm, maddenin üçüncü fıkrasının (e) ve (j) bentlerinde belirtilen hallerde
 uygulanmaz. (Ek cümle:8/7/2021-7331/15 md.) Ancak, (j) bendinde belirtilen konutunu terk
 etmemek yükümlülüğü altında geçen her iki gün, cezanın mahsubunda bir gün olarak dikkate
-alınır.23
+alınır.
 (7) (Ek: 6/12/2006 – 5560/19 md.) Kanunlarda öngörülen tutukluluk sürelerinin dolması
-nedeniyle salıverilenler hakkında adlî kontrole ilişkin hükümler uygulanabilir.24
+nedeniyle salıverilenler hakkında adlî kontrole ilişkin hükümler uygulanabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -20,6 +20,8 @@ saygınlık, onur ve haklarına dokunacak veya suç işlemeye kışkırtacak nit
 bunları önlemek amacı ile ve gerektiği ölçüde duruşmanın içeriğinin kısmen veya tamamen
 yayımlanmasını yasaklar ve kararını açık duruşmada açıklar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

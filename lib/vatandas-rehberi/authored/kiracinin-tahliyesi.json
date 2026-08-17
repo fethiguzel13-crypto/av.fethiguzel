@@ -1,0 +1,148 @@
+{
+  "slug": "kiraci-nasil-tahliye-edilir",
+  "title": "Kiracının Tahliyesi: Gereksinim, Tahliye Taahhüdü ve İki Haklı İhtar",
+  "description": "Kiracı hangi sebeplerle tahliye edilebilir, gereksinim iddiası nasıl ileri sürülür, tahliye taahhüdü ne zaman işler, iki haklı ihtar nedir? TBK m.347, 350 ve 352 çerçevesinde.",
+  "h1": "Kiracı nasıl tahliye edilir?",
+  "keywords": [
+    "kiracı tahliyesi",
+    "tahliye davası",
+    "ihtiyaç nedeniyle tahliye",
+    "tahliye taahhüdü",
+    "iki haklı ihtar",
+    "kira sözleşmesinin sona ermesi"
+  ],
+  "category": "Kira",
+  "role": "pillar",
+  "related": [
+    "kira-artis-orani-nasil-hesaplanir"
+  ],
+  "links": [
+    {
+      "label": "TBK m.347 — Sözleşmenin sona ermesi",
+      "href": "/mevzuat/tbk/madde-347"
+    },
+    {
+      "label": "TBK m.350 — Gereksinim, yeniden inşa ve imar",
+      "href": "/mevzuat/tbk/madde-350"
+    },
+    {
+      "label": "TBK m.352 — Kiracıdan kaynaklanan sebepler",
+      "href": "/mevzuat/tbk/madde-352"
+    },
+    {
+      "label": "Kira artışı hesaplama aracı",
+      "href": "/hesaplama/kira"
+    }
+  ],
+  "lead": "Kiraya veren, sözleşme süresinin bitmesine dayanarak kiracıyı çıkaramaz. Tahliye ancak kanunda sayılan sebeplerden birine dayanır ve her sebep kendi süresi içinde ileri sürülmelidir.",
+  "keyInsight": "Sürelerin tamamı bir ay ya da üç ay gibi kısa ve hak düşürücü niteliktedir; kaçırılan süre, haklı bir sebebi dahi sonuçsuz bırakır.",
+  "sections": [
+    {
+      "heading": "Süre bitti diye çıkarılamaz",
+      "paragraphs": [
+        "En yaygın yanlış bilgi burada başlar. TBK m.347 uyarınca konut ve çatılı işyeri kiralarında kiracı, belirli süreli sözleşmenin bitiminden en az on beş gün önce bildirimde bulunmadıkça sözleşme aynı koşullarla bir yıl için uzatılmış sayılır ve kiraya veren, sözleşme süresinin bitimine dayanarak sözleşmeyi sona erdiremez.",
+        "Kiraya verene tanınan tek sebepsiz fesih imkânı çok geç gelir. On yıllık uzama süresi sonunda, bu süreyi izleyen her uzama yılının bitiminden en az üç ay önce bildirimde bulunmak koşuluyla, herhangi bir sebep göstermeksizin sözleşmeye son verilebilir.",
+        "Bunun dışındaki tahliye taleplerinin tamamı kanunda sayılan bir sebebe dayanmak zorundadır. Sebep yoksa kiracı, sözleşmesi kaç kez uzamış olursa olsun oturmaya devam eder."
+      ]
+    },
+    {
+      "heading": "Gereksinim: en sık kullanılan sebep",
+      "paragraphs": [
+        "TBK m.350 kiraya verenden kaynaklanan iki sebep tanır. Birincisi gereksinimdir: Kiraya veren, kiralananı kendisi, eşi, altsoyu, üstsoyu veya kanun gereği bakmakla yükümlü olduğu diğer kişiler için konut ya da işyeri gereksinimi sebebiyle kullanma zorunluluğu varsa sözleşmeyi sona erdirebilir.",
+        "Maddedeki kişi çevresi sınırlıdır ve genişletilemez. Kardeş, yeğen ya da arkadaş için gereksinim ileri sürülemez; sayılanlar dışında kalan kişiler bu hükme dayanak olmaz.",
+        "Aranan şey istek değil zorunluluktur. Kiralananı kullanma zorunluluğunun bulunması gerekir; daha iyi bir seçenek olması yeterli görülmez.",
+        "İkinci sebep imar amaçlıdır. Kiralananın yeniden inşası veya imarı amacıyla esaslı onarımı, genişletilmesi ya da değiştirilmesi gerekli ve bu işler sırasında kiralananın kullanımı imkânsız ise sözleşme sona erdirilebilir.",
+        "Zamanlama her iki sebepte de aynıdır: Belirli süreli sözleşmelerde sürenin sonunda, belirsiz süreli sözleşmelerde genel hükümlere göre fesih dönemine ve fesih bildirimi için öngörülen sürelere uyularak dava açılır."
+      ]
+    },
+    {
+      "heading": "Tahliye taahhüdü",
+      "paragraphs": [
+        "Kiracının kendi verdiği söz de tahliye sebebidir. TBK m.352 uyarınca kiracı, kiralananın teslim edilmesinden sonra kiraya verene karşı kiralananı belli bir tarihte boşaltmayı yazılı olarak üstlendiği hâlde boşaltmamışsa, kiraya veren sözleşmeyi bu tarihten başlayarak bir ay içinde icraya başvurmak veya dava açmak suretiyle sona erdirebilir.",
+        "Maddede üç unsur birlikte aranır ve her biri belirleyicidir. Taahhüt yazılı olmalı, belli bir tarih içermeli ve kiralananın **teslim edilmesinden sonra** verilmiş olmalıdır.",
+        "Üçüncü unsur en çok tartışılanıdır. Sözleşmeyle aynı anda, kira ilişkisi kurulurken alınan taahhütler bu hükmün kapsamı dışında kalır; kanun taahhüdün teslimden sonra verilmesini arar.",
+        "Süre kısadır: Taahhüt edilen tarihten itibaren bir ay. Bu süre içinde icra takibi başlatılmaz ya da dava açılmazsa taahhüde dayanma imkânı kaybedilir."
+      ]
+    },
+    {
+      "heading": "İki haklı ihtar",
+      "paragraphs": [
+        "Kira bedelinin düzenli ödenmemesi de tahliye sebebidir ama ölçüsü bellidir. Kiracı, bir yıldan kısa süreli kira sözleşmelerinde kira süresi içinde; bir yıl ve daha uzun süreli sözleşmelerde ise bir kira yılı veya bir kira yılını aşan süre içinde kira bedelini ödemediği için kendisine yazılı olarak iki haklı ihtarda bulunulmasına sebep olmuşsa tahliye gündeme gelir.",
+        "İhtarların yazılı olması ve haklı olması gerekir. Ödenmiş bir kira için gönderilen ihtar haklı sayılmaz ve sayıya dâhil edilmez.",
+        "Dava süresi yine dardır: Kiraya veren, kira süresinin ve bir yıldan uzun süreli kiralarda ihtarların yapıldığı kira yılının bitiminden başlayarak bir ay içinde dava yoluyla sözleşmeyi sona erdirebilir.",
+        "Bu sebep ile kira bedelinin ödenmemesi nedeniyle yapılan icra takibi birbirinden farklıdır. İki haklı ihtar tahliye davasının şartıyken, ödenmeyen kira için ayrıca takip yapılabilir."
+      ]
+    },
+    {
+      "heading": "Kiracının başka konutu bulunması",
+      "paragraphs": [
+        "TBK m.352 üçüncü bir sebep daha sayar. Kiracının veya birlikte yaşadığı eşinin aynı ilçe veya belde belediye sınırları içinde oturmaya elverişli bir konutu bulunması durumunda kiraya veren, sözleşmenin kurulması sırasında bunu bilmiyorsa, sözleşmenin bitiminden başlayarak bir ay içinde sözleşmeyi dava yoluyla sona erdirebilir.",
+        "İki koşul birlikte aranır. Konutun aynı ilçe veya belde belediye sınırları içinde ve oturmaya elverişli olması gerekir; uzaktaki ya da oturulamaz durumdaki bir taşınmaz bu hükmü işletmez.",
+        "İkinci koşul bilgi durumudur: Kiraya veren sözleşme kurulurken bu durumu biliyorsa bu sebebe dayanamaz. Bilmediğini ileri süren kiraya verenin, sözleşme anındaki durumu ortaya koyması beklenir."
+      ]
+    },
+    {
+      "heading": "Süreler tabloda",
+      "paragraphs": [
+        "Tahliye sebeplerinin ortak özelliği kısa ve kesin sürelerdir. Haklı bir sebebe sahip olmak tek başına yetmez; süresinde harekete geçmek gerekir.",
+        "Süre kaçırıldığında sebep tükenmez ama o dönem için kullanılamaz. Örneğin iki haklı ihtar sebebinde, ihtarların yapıldığı kira yılının bitiminden itibaren bir ay geçmişse yeni bir kira yılında yeniden iki haklı ihtar gerekir."
+      ],
+      "bullets": [
+        "Tahliye taahhüdü: taahhüt edilen tarihten itibaren bir ay",
+        "İki haklı ihtar: ihtarların yapıldığı kira yılının bitiminden bir ay",
+        "Kiracının başka konutu: sözleşmenin bitiminden bir ay",
+        "Gereksinim ve imar: sürenin sonunda, fesih bildirimi sürelerine uyularak",
+        "On yıllık uzama sonrası sebepsiz fesih: uzama yılının bitiminden üç ay önce bildirim"
+      ]
+    }
+  ],
+  "steps": [
+    "Hangi tahliye sebebine dayandığınızı belirleyin; sebepsiz tahliye mümkün değildir.",
+    "Gereksinim iddiasında, gereksinim duyan kişinin maddede sayılanlardan biri olduğunu doğrulayın.",
+    "Tahliye taahhüdüne dayanıyorsanız taahhüdün yazılı, tarihli ve teslimden sonra verilmiş olduğunu kontrol edin.",
+    "İki haklı ihtarda, ihtarların yazılı ve haklı olduğunu belgeleyin.",
+    "İlgili süreyi hesaplayın — hepsi bir ay ya da üç ay gibi kısa sürelerdir.",
+    "Süresi içinde dava açın veya taahhütte icra takibi başlatın.",
+    "Gereksinim sebebiyle tahliyede, taşınmazın sonradan gerçekten kullanılacağını göz önünde bulundurun."
+  ],
+  "checklist": [
+    "Kira sözleşmesi",
+    "Tahliye taahhüdü — yazılı ve tarihli",
+    "İhtarnameler ve tebliğ belgeleri",
+    "Gereksinimi belgeleyen kayıtlar",
+    "Ruhsat ve proje — imar sebebinde",
+    "Tapu kaydı ve nüfus bilgileri"
+  ],
+  "faq": [
+    {
+      "q": "Kira süresi bitti, kiracıyı çıkarabilir miyim?",
+      "a": "Hayır. Kiraya veren sözleşme süresinin bitimine dayanarak sözleşmeyi sona erdiremez. Sözleşme, kiracı bildirimde bulunmadıkça bir yıl uzar."
+    },
+    {
+      "q": "Hiç sebep göstermeden ne zaman çıkarabilirim?",
+      "a": "On yıllık uzama süresi dolduktan sonra, her uzama yılının bitiminden en az üç ay önce bildirimde bulunarak."
+    },
+    {
+      "q": "Kardeşim için ihtiyaç nedeniyle tahliye isteyebilir miyim?",
+      "a": "Hayır. Madde kendisi, eş, altsoy, üstsoy ve kanun gereği bakmakla yükümlü olunan kişileri sayar; kardeş bu listede yoktur."
+    },
+    {
+      "q": "Sözleşmeyle birlikte aldığım tahliye taahhüdü geçerli mi?",
+      "a": "Kanun taahhüdün kiralananın teslim edilmesinden sonra verilmesini arar. Sözleşmeyle aynı anda alınan taahhütler bu hükmün kapsamı dışında kalır."
+    },
+    {
+      "q": "İki haklı ihtar için ne gerekir?",
+      "a": "Kira bedelinin ödenmemesi nedeniyle bir kira yılı içinde yazılı olarak iki haklı ihtar yapılmış olması. Dava, ihtarların yapıldığı kira yılının bitiminden itibaren bir ay içinde açılır."
+    },
+    {
+      "q": "Kiracının başka evi var, tahliye edebilir miyim?",
+      "a": "Kiracının veya birlikte yaşadığı eşinin aynı ilçe veya belde belediye sınırları içinde oturmaya elverişli konutu varsa ve siz sözleşme kurulurken bunu bilmiyorsanız, sözleşmenin bitiminden itibaren bir ay içinde dava açabilirsiniz."
+    },
+    {
+      "q": "Süreyi kaçırırsam ne olur?",
+      "a": "O dönem için sebebe dayanamazsınız. Örneğin iki haklı ihtarda, yeni bir kira yılında yeniden iki haklı ihtar gerekir."
+    }
+  ],
+  "updated": "2026-08-16",
+  "sitemapPriority": 0.94
+}

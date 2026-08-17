@@ -12,12 +12,12 @@ wordCount: 4275
 ---
 
 Madde 46- Belediye başkanlığının herhangi bir nedenle boşalması ve yeni belediye
-
-
-başkanı veya başkan vekili seçiminin yapılamaması durumunda, seçim yapılıncaya kadar
+başkanı veya başkan vekili seçiminin yapılamaması durumunda, seçim yapılıncaya kadar
 belediye başkanlığına büyükşehir ve il belediyelerinde İçişleri Bakanı, diğer belediyelerde
 vali tarafından görevlendirme yapılır. Görevlendirilecek kişinin belediye başkanı seçilme
 yeterliğine sahip olması şarttır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

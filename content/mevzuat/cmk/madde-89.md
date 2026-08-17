@@ -16,8 +16,8 @@ görünen şekli ile organın tahribatı tanımlanır. Ölüde veya başka yerle
 maddeler, görevlendirilen uzman tarafından incelenerek tahlil edilir.
 (2) Cumhuriyet savcısı veya mahkeme, bu incelemenin, hekimin katılmasıyla veya
 onun yönetiminde yapılmasına karar verebilir.
-DÖRDÜNCÜ KISIM
-Koruma Tedbirleri
+
+---
 
 ### Akademik Yorum ve Analiz
 

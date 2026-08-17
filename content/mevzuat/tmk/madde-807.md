@@ -7,15 +7,15 @@ lastReviewed: "2026-07-27"
 wordCount: 3623
 ---
 
-**Malik, hakkın konusu olan malın hukuka aykırı ya da niteliğine uygun**
+**2. Malikin hakları
+a. Gözetim**
 
 ---
 
-Madde 807 - Malik, hakkın konusu olan malın hukuka aykırı ya da niteliğine uygun
+Madde 807- Malik, hakkın konusu olan malın hukuka aykırı ya da niteliğine uygun
 düşmeyen kullanılış biçimine itiraz edebilir.
 
-b.
-Güvence isteme
+---
 
 ### Akademik Yorum ve Analiz
 

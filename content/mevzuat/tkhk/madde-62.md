@@ -17,14 +17,15 @@ ilişkin ekonomik davranış biçimini önemli ölçüde bozması veya önemli �
 ihtimalinin olması durumunda haksız olduğu kabul edilir. Özellikle aldatıcı veya saldırgan
 nitelikte olan uygulamalar ile yönetmelik ekinde yer alan uygulamalar haksız ticari uygulama
 olarak kabul edilir. Tüketiciye yönelik haksız ticari uygulamalar yasaktır.
-
-MADDE 62- (2) Ticari uygulamanın haksız olduğunun iddia edilmesi hâlinde, ticari uygulamada
+(2) Ticari uygulamanın haksız olduğunun iddia edilmesi hâlinde, ticari uygulamada
 bulunan, bu uygulamasının haksız ticari uygulama olmadığını ispatla yükümlüdür.
-(3) Haksız ticari uygulamaların reklam yoluyla gerçekleştirildiği hâllerde bu Kanunun
+(3) Haksız ticari uygulamanın reklam yoluyla gerçekleştirildiği hâllerde bu Kanunun
 61 inci maddesi hükümleri uygulanır.
 (4) Haksız ticari uygulamaların tespit edilmesine ve bunların denetlenmesine ilişkin
 usul ve esaslar ile her hâlükârda haksız ticari uygulama olarak kabul edilecek uygulamalar
 yönetmelikle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

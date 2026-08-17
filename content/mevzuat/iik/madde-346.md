@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Görev ve birleştirilme yasağı:129**
+**Görev ve birleştirilme yasağı:**
 
 ---
 
@@ -16,6 +16,8 @@ Bu Kanun hükümlerine göre disiplin veya tazyik hapsine icra mahkemesi karar v
 İcra mahkemesinin görevine giren bu işler, diğer mahkemelerde görülen ceza davaları
 ile birleştirilemez.
 Bu Bapta yer alan suçlarla ilgili davalara, icra mahkemesinde bakılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

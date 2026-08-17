@@ -7,19 +7,23 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Denetim görevlisinin görevlendirilmesi**
+**SEKİZİNCİ BÖLÜM
+Disiplin Ceza ve Tedbirleri, Ödüllendirme
+Disiplin cezalarının niteliği ve uygulama koşulları**
 
 ---
 
-Madde 37- (1) Denetim altına alınan çocukla ilgili olarak denetimli serbestlik ve
-yardım merkezi şube müdürlüğü tarafından bir denetim görevlisi görevlendirilir. Ancak,
-korunma ihtiyacı olan çocuklar veya suç tarihinde oniki yaşını bitirmemiş suça sürüklenen
-çocuklar ile çocuğun aileye teslimi yönünde karar verilmesi hâlinde, bu çocuklar hakkında
+Madde 37- (1) Hükümlü hakkında kurumda, düzenli bir yaşamın sürdürülmesi,
+güvenliğin ve disiplinin sağlanması bakımından kanun, (…)yönetmelikler ile idarenin
+uyulmasını emrettiği veya gerekli kıldığı davranış ve tutumları, kusurlu olarak ihlâl ettiğinde,
+eyleminin niteliği ile ağırlık derecesine göre Kanunda belirtilen disiplin cezaları uygulanır. (Ek
+cümle:14/4/2020-7242/23 md.) Hükümlünün duruşma, sağlık, eğitim ve çalışma gibi nedenlerle
+geçici olarak kurum dışında bulunduğu yerler de bu fıkranın uygulanması bakımından kurum
+olarak kabul edilir.
+(2) Suç oluşturan eylemlerden dolayı açılan kamu davası, disiplin soruşturması
+yapılmasını ve cezanın uygulanmasını engellemez.
 
-denetim görevi gözetim esaslarına göre Sosyal Hizmetler ve Çocuk Esirgeme Kurumu
-tarafından yerine getirilir.
-(2) Görevlendirme sırasında çocuğun kişisel özellik ve ihtiyaçları dikkate alınır ve
-çocuğa kolay ulaşabilecek olanlar tercih edilir.
+---
 
 ### Akademik Yorum ve Analiz
 

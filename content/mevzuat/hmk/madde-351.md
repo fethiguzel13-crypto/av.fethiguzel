@@ -14,6 +14,8 @@ wordCount: 4262
 MADDE 351- (1) İstinaf başvurusunun kötüniyetle yapıldığı anlaşılırsa, bölge adliye
 mahkemesince, 329 uncu madde hükümleri uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

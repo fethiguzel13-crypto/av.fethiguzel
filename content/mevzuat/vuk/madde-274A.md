@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**Kıymetli madenler**
+**Kıymetli madenler:**
 
 ---
 
@@ -21,7 +21,8 @@ alacaklar ve borçlar değerleme gününe kadar hesaplanacak faizleriyle birlikt
 Alacak ve borçların değerleme günü kıymetine ircasına ilişkin olarak 280 inci, 281 inci ve
 285 inci maddelerde yer alan hükümler bu fıkra kapsamındaki alacak ve borçlar bakımından
 da geçerlidir.
-İmal edilen emtia:
+
+---
 
 ### Akademik Yorum ve Analiz
 

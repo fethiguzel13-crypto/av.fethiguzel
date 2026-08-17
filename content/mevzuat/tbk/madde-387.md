@@ -13,7 +13,7 @@ I. Faiz
 
 ---
 
-Madde 387 - Ticari olmayan tüketim ödüncü sözleşmesinde, taraflarca kararlaştırılmış
+MADDE 387- Ticari olmayan tüketim ödüncü sözleşmesinde, taraflarca kararlaştırılmış
 olmadıkça faiz istenemez.
 Ticari tüketim ödüncü sözleşmesinde, taraflarca kararlaştırılmamış olsa bile faiz
 istenebilir.

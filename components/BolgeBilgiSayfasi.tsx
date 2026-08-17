@@ -113,7 +113,7 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
 
         <div className="space-y-10 mb-14">
           {veri.sections.map((s) => (
-            <section key={s.heading} className="bg-white border border-charcoal/6 rounded-2xl p-6 sm:p-8">
+            <section key={s.heading} className="bg-white border border-charcoal/[0.06] rounded-2xl p-6 sm:p-8">
               <h2 className="text-xl font-heading font-bold text-charcoal mb-3">{s.heading}</h2>
               {s.paragraphs.map((p, i) => (
                 <p key={i} className="text-charcoal/65 text-sm sm:text-base leading-relaxed mb-3 last:mb-0">
@@ -142,7 +142,7 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
                 <Link
                   key={l.href}
                   href={l.href}
-                  className="group flex items-center justify-between gap-3 bg-white border border-charcoal/8 rounded-xl px-4 py-3.5 hover:border-accent/40 transition-colors"
+                  className="group flex items-center justify-between gap-3 bg-white border border-charcoal/[0.08] rounded-xl px-4 py-3.5 hover:border-accent/40 transition-colors"
                 >
                   <span className="flex items-center gap-2 text-sm font-semibold text-charcoal">
                     <BookOpen size={15} className="text-accent shrink-0" />
@@ -155,7 +155,7 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
                 <Link
                   key={l.href}
                   href={l.href}
-                  className="group flex items-center justify-between gap-3 bg-charcoal/[0.03] border border-charcoal/6 rounded-xl px-4 py-3.5 hover:border-accent/30 transition-colors"
+                  className="group flex items-center justify-between gap-3 bg-charcoal/[0.03] border border-charcoal/[0.06] rounded-xl px-4 py-3.5 hover:border-accent/30 transition-colors"
                 >
                   <span className="flex items-center gap-2 text-sm font-medium text-charcoal/80">
                     <Scale size={15} className="text-accent shrink-0" />
@@ -174,7 +174,7 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
             {veri.faq.map((f) => (
               <details
                 key={f.q}
-                className="group bg-white border border-charcoal/6 rounded-xl open:shadow-sm"
+                className="group bg-white border border-charcoal/[0.06] rounded-xl open:shadow-sm"
               >
                 <summary className="cursor-pointer list-none p-4 sm:p-5 font-semibold text-sm text-charcoal flex justify-between gap-3">
                   {f.q}
@@ -186,7 +186,7 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
           </div>
         </section>
 
-        <section className="mb-10 rounded-2xl border border-charcoal/8 bg-white p-6">
+        <section className="mb-10 rounded-2xl border border-charcoal/[0.08] bg-white p-6">
           <h2 className="text-base font-heading font-bold text-charcoal mb-2">Kaynak ve iletişim</h2>
           <p className="text-sm text-charcoal/60 leading-relaxed mb-4">
             İçerik, açık mevzuat ve genel uygulama bilgisine dayanır. Yazar:{' '}

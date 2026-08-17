@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4319
 ---
 
-**Ortalama kar hadlerinin kesinleşmesi ve ilanı**
+**Ortalama kar hadlerinin kesinleşmesi ve ilanı:**
 
 ---
 
@@ -26,13 +26,14 @@ Kesinleşmiş ortalama kar hadlerine ait cetveller Maliye Bakanlığınca mahall
 tebliğ olunur.
 Vergi daireleri, Bakanlıktan gelen bu cetvelleri, bir ay süre ile, dairelerinin uygun bir
 yerine asmak suretiyle ilan ederler. Bu cetveller ayrıca Resmi Gazete ile ilan olunur.
-
-(Değişik: 30/12/1980-2365/6 md.) Ortalama Kar Hadleri Merkez Komisyonu, Maliye
+(Değişik: 30/12/1980-2365/6 md.) Ortalama Kar Hadleri Merkez Komisyonu, Maliye
 Bakanlığı Müsteşarının başkanlığında, Gelirler Genel Müdürü, ilgili Genel Müdür Baş
 Yardımcısı veya bunların tevkil edeceği kimselerle Türkiye Ticaret Odaları, Sanayi Odaları
 ve Ticaret Borsaları Birliğinin iki temsilcisinden kurulur
 89 uncu maddedeki nisap hükmü, Ortalama Kar Hadleri Merkez Komisyonu hakkında
 da uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

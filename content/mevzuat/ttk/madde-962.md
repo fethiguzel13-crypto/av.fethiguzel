@@ -7,22 +7,17 @@ lastReviewed: "2026-07-27"
 wordCount: 3654
 ---
 
-**(1) Daha önce yabancı bir gemi**
+**b) Yabancı sicile kayıtlı gemiler için**
 
 ---
 
-Madde 962 - (1) Daha önce yabancı bir gemi
-siciline kayıtlı bulunan bir Türk gemisinin, Türk Gemi Siciline kaydolabilmesi için
-artık yabancı gemi siciline kayıtlı olmadığını kuvvetle muhtemel gösteren belgelerin
-sicil müdürlüğüne sunulması gerekir.
+MADDE 962- (1) Daha önce yabancı bir gemi siciline kayıtlı bulunan bir Türk
+gemisinin, Türk Gemi Siciline kaydolabilmesi için artık yabancı gemi siciline kayıtlı
+olmadığını kuvvetle muhtemel gösteren belgelerin sicil müdürlüğüne sunulması gerekir.
+(2) Tescili zorunlu bir gemi, yabancı bir gemi siciline kayıtlı ise malikinin bu kaydı
+sildirmesi ve durumu belgelendirmesi gerekir; imkânsızlık hâlinde bundan vazgeçilebilir.
 
-(2) Tescili zorunlu bir gemi, yabancı bir gemi siciline
-kayıtlı ise malikinin bu kaydı sildirmesi ve durumu belgelendirmesi gerekir; imkânsızlık
-hâlinde bundan vazgeçilebilir.
-
-II- Tescil
-
-1. Tescil edilecek hususlar
+---
 
 ### Akademik Yorum ve Analiz
 

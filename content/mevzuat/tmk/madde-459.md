@@ -7,13 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**B. Kayyı mlığın kapsamı
+**B. Kayyımlığın kapsamı
 I. Belli bir iş**
 
 ---
 
-Madde 459 - Belli bir iş için göre vlendi rilmiş olan kayyı m, vesayet makamının talimatına aynen uymak zorundadır. II. Malvarlığının yönetimi Ma dde 460 - Kayyım bir malvarlığının yönetimi ve gözetimi ile görevlendirilmiş ise, yalnız o malvarlığının yöne tim ve korunması için gerek li olan işl eri ya pabilir. Kayyımın, bunun dışındaki işleri yapabilmesi, temsil olunanın vereceği özel yetkiye,
-temsil olu nan bu yetkiyi verecek durumda değilse vesayet makamının iznine bağlıdır. ÜÇÜNCÜ AYIRIM VESAYET DAİRELERİNİ N GÖREVLERİ A. Şikâyet ve itiraz
+Madde 459- Belli bir iş için görevlendirilmiş olan kayyım, vesayet makamının talimatına
+aynen uymak zorundadır.
 
 ---
 

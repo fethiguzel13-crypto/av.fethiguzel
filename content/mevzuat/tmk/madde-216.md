@@ -11,7 +11,10 @@ wordCount: 4309
 
 ---
 
-Madde 216 - Eşlerden her biri, diğerinden her zaman mallarının envanterinin resmî senetl e yap ılmasını isteyebilir. Bu envanter, malların getirilmesinden başlayarak bir yıl içinde yapılmışsa, aksi ispat lanmış olmadıkça bu envanterin doğru olduğu kabul edilir.
+Madde 216- Eşlerden her biri, diğerinden her zaman mallarının envanterinin resmî
+senetle yapılmasını isteyebilir.
+Bu envanter, malların getirilmesinden başlayarak bir yıl içinde yapılmışsa, aksi ispatlanmış
+olmadıkça bu envanterin doğru olduğu kabul edilir.
 
 ---
 

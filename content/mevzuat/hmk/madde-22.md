@@ -19,6 +19,8 @@ bölge adliye mahkemelerine, bölge adliye mahkemeleri için Yargıtaya başvuru
 kararlar kanun yoluna başvurulmaksızın kesinleştiği takdirde, görevli veya yetkili mahkeme,
 ilgisine göre bölge adliye mahkemesince veya Yargıtayca belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

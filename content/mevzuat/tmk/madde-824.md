@@ -7,23 +7,18 @@ lastReviewed: "2026-07-27"
 wordCount: 3610
 ---
 
-**Oturma hakkının kapsamı, genel olarak hak sahibinin kişisel**
+**II. Oturma hakkının kapsamı**
 
 ---
 
-Madde 824 - Oturma hakkının kapsamı, genel olarak hak sahibinin kişisel
-ihtiyaçlarına göre belirlenir.
-
-Oturma
-hakkı sahibi, hakkın şahsına özgülendiği açıkça belirtilmedikçe, bina veya onun
+Madde 824- Oturma hakkının kapsamı, genel olarak hak sahibinin kişisel ihtiyaçlarına
+göre belirlenir.
+Oturma hakkı sahibi, hakkın şahsına özgülendiği açıkça belirtilmedikçe, bina veya onun
 bir bölümünde ailesi ve ev halkı ile birlikte oturabilir.
-
-Binanın
-bir bölümü üzerinde oturma hakkına sahip olan kimse, ortaklaşa kullanmaya
+Binanın bir bölümü üzerinde oturma hakkına sahip olan kimse, ortaklaşa kullanmaya
 özgülenen yerlerden de yararlanabilir.
 
-III.
-Giderler
+---
 
 ### Akademik Yorum ve Analiz
 

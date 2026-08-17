@@ -7,7 +7,7 @@ lastReviewed: "2026-07-11"
 wordCount: 2724
 ---
 
-**Düzeltmede zamanaşımı**
+**Düzeltmede zamanaşımı:**
 
 ---
 
@@ -21,8 +21,8 @@ edildiği;
 c) (Ek: 4/12/1985-3239/11 md.) İhbarname ve ödeme emri ilan yoluyla tebliğ edilen
 vergilerde 6183 sayılı Kanuna göre hacizin yapıldığı;
 Tarihten başlayarak bir yıldan aşağı olamaz.
-YEDİNCİ KISIM
-Yoklama ve inceleme
+
+---
 
 ### Akademik Yorum ve Analiz
 

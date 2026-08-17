@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**Cumhurbaşkanının vize ve pasaport işlemlerinde yetkisi9**
+**Cumhurbaşkanının vize ve pasaport işlemlerinde yetkisi**
 
 ---
 
@@ -16,17 +16,16 @@ a) Pasaporta ve vizeye dair işlemlerin belirlenmesine ilişkin anlaşmalar yapm
 gerek gördüğü hâllerde bazı devletlerin vatandaşları için vize zorunluluğunu tek taraflı olarak
 kaldırmaya, vizelerin harçtan muaf tutulması da dâhil olmak üzere vize kolaylığı getirmeye ve
 vize sürelerini belirlemeye,
-
 2/7/2018 tarihli 703 sayılı KHK’nin 71 inci maddesiyle, bu maddenin başlığında yer alan “Bakanlar Kurulunun”
 ibaresi “Cumhurbaşkanının” şeklinde, aynı maddede yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı”
 şeklinde, değiştirilmiştir.
-9
-
-b) Savaş hâlinde veya diğer olağanüstü hâllerde ülkenin bir bölgesini veya tamamını
+b) Savaş hâlinde veya diğer olağanüstü hâllerde ülkenin bir bölgesini veya tamamını
 kapsamak üzere, yabancılar için pasaporta dair kayıt ve şartlar koymaya,
 c) Yabancıların Türkiye’ye girişlerini belli şartlara bağlayıcı veya kısıtlayıcı her tür
 önlemi almaya,
 yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

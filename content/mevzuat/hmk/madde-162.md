@@ -14,6 +14,8 @@ wordCount: 4318
 MADDE 162- (1) Zabıt kâtibi, yargılamadan evvel ve gerektiği hâllerde dava
 dosyasını incelenmek için hâkime vermek ve zamanında eksiksiz almak ile görevlidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

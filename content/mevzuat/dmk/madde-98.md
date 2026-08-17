@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Memurluğun sona ermesi**
+**Memurluğun sona ermesi:**
 
 ---
 
@@ -16,9 +16,11 @@ a) Bu kanun hükümlerine göre memurluktan çıkarılması;
 b) Memurluğa alınma şartlarından her hangi birini taşımadığının sonradan anlaşılması
 veya memurlukları sırasında bu şartlardan her hangi birini kaybetmesi;
 c) Memurluktan çekilmesi;
-ç) İstek, yaş haddi, malûllük (…)159 sebeplerinden biri ile emekliye ayrılması;
+ç) İstek, yaş haddi, malûllük (…)sebeplerinden biri ile emekliye ayrılması;
 d) Ölümü;
 hallerinde memurluğu sona erer.
+
+---
 
 ### Akademik Yorum ve Analiz
 

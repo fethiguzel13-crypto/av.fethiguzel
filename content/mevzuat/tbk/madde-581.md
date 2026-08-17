@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**A. Tanımı**
+**ONBEŞİNCİ BÖLÜM
+Kefalet Sözleşmesi
+A. Tanımı**
 
 ---
 
-Madde 581 - Kefalet sözleşmesi, kefilin alacaklıya karşı, borçlunun borcunu ifa
+MADDE 581- Kefalet sözleşmesi, kefilin alacaklıya karşı, borçlunun borcunu ifa
 etmemesinin sonuçlarından kişisel olarak sorumlu olmayı üstlendiği sözleşmedir.
 
 ---

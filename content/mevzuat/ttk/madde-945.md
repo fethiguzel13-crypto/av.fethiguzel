@@ -11,7 +11,9 @@ wordCount: 4296
 
 ---
 
-Madde 945 - (1) Onsekiz gros tonilatodan küçük gemilerle 935 inci maddenin ikinci fıkrasının (a) bendinde yazılı gemiler, gemi ta sdiknamesine ve bayrak şahadetnamesine ihtiyaç olmaksızın Türk Bayrağı çekebilirler.
+MADDE 945- (1) Onsekiz gros tonilatodan küçük gemilerle 935 inci maddenin ikinci
+fıkrasının (a) bendinde yazılı gemiler, gemi tasdiknamesine ve bayrak şahadetnamesine
+ihtiyaç olmaksızın Türk Bayrağı çekebilirler.
 
 ---
 

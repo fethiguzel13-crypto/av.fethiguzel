@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Gayrimenkullerin satış şartnamesi**
+**Gayrimenkullerin satış şartnamesi:**
 
 ---
 
@@ -24,6 +24,8 @@ ipotekli borç senetleri, irat senetleriyle birlikte yapılacağı,
 6. Gayrimenkulün rehni suretiyle sağlanmış muaccel borçlar varsa bunların müşteriye
 devredilmeyip satış bedelinden tercihan ödeneceği,
 7. Ne gibi giderlerin alıcıya ait olacağı.
+
+---
 
 ### Akademik Yorum ve Analiz
 

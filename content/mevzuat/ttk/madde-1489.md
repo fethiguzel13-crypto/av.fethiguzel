@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**III
-- Sözleşmeden cayma**
+**III - Sözleşmeden cayma**
 
 ---
 
-Madde 1489 - (1) Sigorta ettiren, sigortacının kendisine cayma hakkını kullanabileceğini bildirmesinden itibaren onbeş gün içinde sözleşmeden cayabilir. Bilgilendirmenin yapıldığı sigortacı tarafından ispatlanır. Bilgilendirme yapılmamışsa cayma hakkı ilk primin ödenmesinden bir ay sonra sona erer. (2) 1430 uncu madde hükmü saklıdır.
+MADDE 1489- (1) Sigorta ettiren, sigortacının kendisine cayma hakkını kullanabileceğini
+bildirmesinden itibaren onbeş gün içinde sözleşmeden cayabilir. Bilgilendirmenin yapıldığı
+sigortacı tarafından ispatlanır. Bilgilendirme yapılmamışsa cayma hakkı ilk primin ödenmesinden
+bir ay sonra sona erer.
+(2) 1430 uncu madde hükmü saklıdır.
 
 ---
 

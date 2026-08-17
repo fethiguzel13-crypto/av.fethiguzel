@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Öğrenci ikamet izni talebinin reddi, iptali veya uzatılmaması**
+**a) 38 inci madde kapsamındaki bilgi ve belgeleri ibraz etmek
+b) 7 nci madde kapsamına girmemek
+c) Türkiye’de kalacağı adres bilgilerini vermek
+Öğrenci ikamet izni talebinin reddi, iptali veya uzatılmaması**
 
 ---
 
@@ -17,6 +20,8 @@ a) 39 uncu maddede aranan şartların karşılanmaması veya ortadan kalkması
 b) Öğrenimin sürdürülemeyeceği konusunda kanıtların ortaya çıkması
 c) Öğrenci ikamet izninin, veriliş amacı dışında kullanıldığının belirlenmesi
 ç) Hakkında geçerli sınır dışı etme kararı veya Türkiye’ye giriş yasağı bulunması
+
+---
 
 ### Akademik Yorum ve Analiz
 

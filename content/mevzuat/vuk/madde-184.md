@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**Defterikebir**
+**(Üçüncü fıkra mülga: 4/12/1985-3239/16 md.)
+Defterikebir:**
 
 ---
 
 Madde 184 – Defterikebir, yevmiye defterine geçirilmiş olan muameleleri buradan
 alarak usulüne göre hesaplara dağıtan ve tasnifli olarak bu hesaplarda toplıyan defterdir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

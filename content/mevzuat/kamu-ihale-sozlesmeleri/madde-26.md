@@ -19,11 +19,8 @@ kararı verilir. Katılma yasakları, sözleşmeyi uygulayan bakanlık veya ilgi
 bakanlık, herhangi bir bakanlığın ilgili veya bağlı kuruluşu sayılmayan idarelerde bu idarelerin
 ihale yetkilileri, il özel idareleri ve bunlara bağlı birlik, müessese ve işletmelerde İçişleri
 Bakanlığı; belediyeler ve bunlara bağlı birlik, müessese ve işletmelerde ise Çevre ve Şehircilik
-Bakanlığı tarafından verilir.7
-7 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “belediyeler ile bunlara bağlı birlik, müessese ve işletmelerde ise İçişleri” ibaresi “bunlara bağlı birlik, müessese ve işletmelerde İçişleri Bakanlığı; belediyeler ve bunlara bağlı birlik, müessese ve işletmelerde ise Çevre ve Şehircilik” şeklinde değiştirilmiştir.
-
-
-Haklarında yasaklama kararı verilen tüzel kişilerin şahıs şirketi olması halinde şirket
+Bakanlığı tarafından verilir.
+Haklarında yasaklama kararı verilen tüzel kişilerin şahıs şirketi olması halinde şirket
 ortaklarının tamamı hakkında, sermaye şirketi olması halinde ise sermayesinin yarısından
 fazlasına sahip olan gerçek veya tüzel kişi ortaklar hakkında birinci fıkra hükmüne göre
 yasaklama kararı verilir. Haklarında yasaklama kararı verilenlerin gerçek veya tüzel kişi olması
@@ -35,10 +32,12 @@ girdiği tarihe kadar aynı idare tarafından yapılacak ihalelere de iştirak e
 Yasaklama kararları, yasaklamayı gerektiren fiil veya davranışın tespit edildiği tarihi
 izleyen en geç kırkbeş gün içinde verilir. Verilen bu karar Resmi Gazetede yayımlanmak üzere en
 geç onbeş gün içinde gönderilir ve yayımı tarihinde yürürlüğe girer. Bu kararlar Kamu İhale
-Kurumunca izlenerek, kamu ihalelerine katılmaktan yasaklı olanlara ilişkin siciller tutulur.8
+Kurumunca izlenerek, kamu ihalelerine katılmaktan yasaklı olanlara ilişkin siciller tutulur.
 İdareler, 25 inci maddede belirtilen yasaklamayı gerektirir bir durumla karşılaştıkları
 takdirde, gereğinin yapılması için bu durumu ilgili veya bağlı bulunulan bakanlığa bildirmekle
 yükümlüdür.
+
+---
 
 ### Akademik Yorum ve Analiz
 

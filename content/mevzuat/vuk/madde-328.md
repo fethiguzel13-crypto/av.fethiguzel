@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**Amortismana tabi malların satılması**
+**ÜÇÜNCÜ BÖLÜM
+Özel Haller
+Amortismana tabi malların satılması:**
 
 ---
 
@@ -32,8 +34,7 @@ b) Pasifte geçici bir hesapta tutulan kâr, finansal kiralama yoluyla edinilenl
 olmak üzere (a) bendindeki esaslar dâhilinde iktisap edilen bir veya birden fazla kıymetin bu
 Kanun hükümlerine göre ayrılacak amortismanlarına mahsup edilir. Bu mahsup
 tamamlandıktan sonra itfa edilmemiş olarak kalan değerlerin amortismanına devam olunur.
-
-c) Pasifte geçici bir hesapta tutulan kâr, satışı yapılan iktisadi kıymetin yerine iktisap
+c) Pasifte geçici bir hesapta tutulan kâr, satışı yapılan iktisadi kıymetin yerine iktisap
 edilen yeni kıymetlerin amortisman ayrılabilecek tutarından fazla ise bu fazlalık, satışın
 yapıldığı yılı takip eden üçüncü takvim yılının kâr ve zarar hesabına eklenir.
 ç) Satışın yapıldığı yılı takip eden üçüncü takvim yılının sonundan önce işin terki,
@@ -42,6 +43,8 @@ zarar hesabına eklenir.
 (Ek: 19/2/1963-205/21 md.) (Değişik beşinci fıkra:14/10/2021-7338/36 md.)
 Maddenin uygulamasına ilişkin usul ve esasları belirlemeye Hazine ve Maliye Bakanlığı
 yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

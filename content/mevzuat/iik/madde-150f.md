@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**Muvakkat rehin açığı belgesi**
+**Muvakkat rehin açığı belgesi:**
 
 ---
 
@@ -19,7 +19,8 @@ Alacaklı, bu belgeye dayanarak borçlunun diğer mallarının haczini icra memu
 talebedebilir ve 100 üncü maddedeki esaslar dahilinde diğer alacaklıların haczine iştirak
 edebilir. Bu takdirde alacaklı, rehnin satışı neticesinde, alacağının tahsil edilemiyen kısmını
 borçlunun diğer mahcuz mallarından rüçhansız olarak alır.
-Paraya çevirme usulü:
+
+---
 
 ### Akademik Yorum ve Analiz
 

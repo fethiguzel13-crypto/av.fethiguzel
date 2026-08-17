@@ -17,7 +17,9 @@ süresinde oy ve görüşünü mahkemeye bildirmeyi kapsar.
 (2) Geçerli bir özrü olmaksızın mahkemece yapılan davete uyup, tayin edilen gün ve
 saatte mahkemede hazır bulunmayan yahut mahkemeye gelip de yemin etmekten veya
 süresinde oy ve görüş bildirmekten kaçınan bilirkişiler hakkında, tanıklığa ilişkin disiplin
-hükümleri uygulanır ve durum bilirkişilik bölge kuruluna bildirilir.30
+hükümleri uygulanır ve durum bilirkişilik bölge kuruluna bildirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

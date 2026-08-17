@@ -8,12 +8,14 @@ wordCount: 4311
 ---
 
 **C) Aval
-I
-- Aval verenler**
+I - Aval verenler**
 
 ---
 
-Madde 700 - (1) Poliçede bedelin ödenmesi, aval suretiyle tamamen veya kısmen teminat altına alınabilir. (2) Bu teminat, üçüncü bir kişi veya poliçede imzası bulunan bi r kişi tarafından da verilebilir.
+MADDE 700- (1) Poliçede bedelin ödenmesi, aval suretiyle tamamen veya kısmen
+teminat altına alınabilir.
+(2) Bu teminat, üçüncü bir kişi veya poliçede imzası bulunan bir kişi tarafından da
+verilebilir.
 
 ---
 

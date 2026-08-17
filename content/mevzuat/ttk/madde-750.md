@@ -7,13 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**II
-- Kesilme
+**II - Kesilme
 1. Sebepleri**
 
 ---
 
-Madde 750 - (1) Zamanaşımı; dava açılması, takip talebinde bulunulması, davanın ihbar edilmesi veya al acağın iflas masasına bildirilmesiyle kesilir.
+MADDE 750- (1) Zamanaşımı; dava açılması, takip talebinde bulunulması, davanın
+ihbar edilmesi veya alacağın iflas masasına bildirilmesiyle kesilir.
 
 ---
 

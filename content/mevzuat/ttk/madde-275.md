@@ -11,7 +11,10 @@ wordCount: 4312
 
 ---
 
-Madde 275 - (1) Şirketin sona ermesinden sonra, ortaklar arasından seçilen tasfiy e memurları, diğer ortakların oybirliğiyle verecekleri bir kararla görevden alınabilirler. Oybirliğine ulaşılamadığı takdirde ortaklardan herhangi birinin istemi üzerine, haklı sebepler varsa, mahkemece görevden alınabilirler.
+MADDE 275- (1) Şirketin sona ermesinden sonra, ortaklar arasından seçilen tasfiye
+memurları, diğer ortakların oybirliğiyle verecekleri bir kararla görevden alınabilirler.
+Oybirliğine ulaşılamadığı takdirde ortaklardan herhangi birinin istemi üzerine, haklı sebepler
+varsa, mahkemece görevden alınabilirler.
 
 ---
 

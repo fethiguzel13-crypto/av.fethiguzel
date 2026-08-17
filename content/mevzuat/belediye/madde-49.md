@@ -13,9 +13,7 @@ wordCount: 4303
 
 Madde 49- Norm kadro ilke ve standartları Çevre ve Şehircilik Bakanlığı ve Devlet
 Personel Başkanlığı tarafından müştereken belirlenir. Belediyenin ve bağlı kuruluşlarının
-
-
-norm kadroları, bu ilke ve standartlar çerçevesinde belediye meclisi kararıyla belirlenir.25
+norm kadroları, bu ilke ve standartlar çerçevesinde belediye meclisi kararıyla belirlenir.
 Belediye personeli, belediye başkanı tarafından atanır. Birim müdürlüğü ve üstü
 yönetici kadrolarına yapılan atamalar ilk toplantıda belediye meclisinin bilgisine sunulur.
 Belediye ve bağlı kuruluşlarında, norm kadroya uygun olarak çevre, sağlık, veterinerlik,
@@ -42,16 +40,13 @@ durumlarına göre yükselebilecekleri dereceleri aşmamak kaydıyla kazanılmı
 ve kademelerinin tespiti ile 657 sayılı Kanunun 64 üncü maddesinin dördüncü fıkrası
 kapsamında değerlendirilir. Bunlar, atandıkları kadronun mali ve sosyal haklarına göreve
 başladıkları tarihi takip eden aybaşından itibaren hak kazanır ve önceki pozisyonlarında
-aldıkları mali ve sosyal haklar hakkında herhangi bir mahsuplaşma yapılmaz.2627
+aldıkları mali ve sosyal haklar hakkında herhangi bir mahsuplaşma yapılmaz.
 Avukat, mimar, mühendis (inşaat mühendisi ve harita mühendisi olmak kaydıyla) ve
 veteriner kadrosu bulunmayan veya işlerin azlığı nedeniyle bu unvanlarda kadrolu personel
 istihdamına ihtiyaç duyulmayan belediyelerde, bu hizmetlerin yürütülmesi amacıyla, haftanın
 ya da ayın belirli gün veya saatlerinde kısmi zamanlı olarak sözleşme ile personel
 çalıştırılabilir. Kısmi zamanlı olarak çalıştırılacak personel sayısı yukarıda belirtilen her
-25 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir. 26 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir. 27 25/12/2024 tarihli ve 7537 sayılı Kanunun 13 üncü maddesiyle, bu fıkranın onuncu cümlesinde yer alan “tespitinde” ibaresi “tespiti ile 657 sayılı Kanunun 64 üncü maddesinin dördüncü fıkrası kapsamında” şeklinde değiştirilmiştir.
-
-
-unvan için birden fazla olamaz ve bunlarla yapılacak sözleşme süresi takvim yılını aşamaz.
+unvan için birden fazla olamaz ve bunlarla yapılacak sözleşme süresi takvim yılını aşamaz.
 Bunlara ödenecek net ücret, aynı unvanlı kadroların birinci derecesinin birinci kademesi için
 yapılması gereken bütün ödemeler toplamının net tutarının yarısını geçmemek ve
 çalıştırılacak süre ile orantılı olmak üzere belediye meclisi kararı ile tespit edilir. Bu fıkra
@@ -70,7 +65,7 @@ sayılan unvanlara ilişkin hizmetler dışında kalmak ve o hizmet için ihdas 
 bulunmamak kaydıyla, Çevre ve Şehircilik Bakanlığınca üçüncü fıkra çerçevesinde
 sözleşmeli personel istihdamı uygun görülmüş olan kadro unvanlarına ilişkin görevlerde, 657
 sayılı Kanunun 4 üncü maddesinin (B) fıkrasına göre münhasıran kısmi süreli olarak
-sözleşmeli personel çalıştırılabilir.2829
+sözleşmeli personel çalıştırılabilir.
 Kamu kurum ve kuruluşlarında istihdam edilen memurlar, belediye başkanının talebi,
 kendilerinin ve kurumlarının muvafakatiyle, belediyelerin birim müdürü ve üstü yönetici
 kadrolarında geçici olarak görevlendirilebilirler. Bu şekilde görevlendirmelerde 657 sayılı
@@ -87,10 +82,7 @@ Norm kadrosunda belediye başkan yardımcısı bulunan belediyelerde norm kadro
 sayısına bağlı kalınmaksızın; belediye başkanı, zorunlu gördüğü takdirde, nüfusu 50.000'e
 kadar olan belediyelerde bir, nüfusu 50.001-200.000 arasında olan belediyelerde iki, nüfusu
 200.001-500.000 arasında olan belediyelerde üç, nüfusu 500.000 ve fazla olan belediyelerde
-28 24/7/2008 tarihli ve 5793 sayılı Kanunun 46 ncı maddesiyle bu fıkrada yer alan "İçişleri Bakanlığına ve Maliye Bakanlığına" ibaresi "İçişleri Bakanlığına" şeklinde değiştirilmiştir. 29 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibareleri “Çevre ve Şehircilik” şeklinde değiştirilmiştir.
-
-
-dört belediye meclis üyesini belediye başkan yardımcısı olarak görevlendirebilir. Bu şekilde
+dört belediye meclis üyesini belediye başkan yardımcısı olarak görevlendirebilir. Bu şekilde
 görevlendirilen meclis üyelerine belediye başkanına verilen ödeneğin 2/3'ünü aşmamak üzere
 belediye meclisi tarafından belirlenecek aylık ödenek verilir ve taleplerine göre bir sosyal
 güvenlik kurumu ile ilişkilendirilir. Bu şekilde görevlendirme, memuriyete geçiş, sözleşmeli
@@ -112,6 +104,8 @@ durumlarına göre toplam memur sayısının yüzde onunu ve Devlet memurlarına
 aylık katsayının (20.000) gösterge rakamı ile çarpımı sonucu bulunacak miktarı geçmemek
 üzere, hastalık ve yıllık izinleri dâhil olmak üzere, çalıştıkları sürelerle orantılı olarak
 encümen kararıyla yılda en fazla iki kez ikramiye ödenebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

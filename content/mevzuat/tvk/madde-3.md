@@ -19,6 +19,8 @@ c) Genel Müdürlük: Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünü,
 d) Yabancı: Türkiye Cumhuriyeti Devleti ile vatandaşlık bağı bulunmayan kişiyi,
 ifade eder.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

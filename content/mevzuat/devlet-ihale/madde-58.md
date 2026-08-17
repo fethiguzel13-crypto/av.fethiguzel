@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**Taşınmaz malların müşteri tarafından adına tescil ettirilmesi**
+**Taşınmaz malların müşteri tarafından adına tescil ettirilmesi:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 58 – Bedeli, vergi, resim, harç ve diğer masrafları ödemiş olmak ş
 müşteri, şartnamede yazılı süre içinde taşınmaz malları namına tescil ettirmeye mecburdur.
 Aksi takdirde müşteri, vukua gelecek hasar, zarar, fuzuli işgal ve diğer sebeplerle idareden bir
 talepte bulunamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

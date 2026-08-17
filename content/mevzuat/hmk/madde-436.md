@@ -27,6 +27,8 @@ gösterilir.
 veya ilgili tahkim kurumu tarafından taraflara bildirilir. Ayrıca kararın aslı dosya ile birlikte
 mahkemeye gönderilir ve mahkemece saklanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

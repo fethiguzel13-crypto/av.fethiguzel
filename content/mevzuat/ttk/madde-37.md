@@ -11,7 +11,9 @@ wordCount: 4305
 
 ---
 
-Madde 37 - (1) Tescil kaydı ile ilan edilen durum arasında aykırılık bulunması hâlinde, tescil edilmiş olan gerçek durumu bildikleri ispat edi lmediği sürece, üçüncü kişilerin ilan edilen duruma güvenleri korunur.
+MADDE 37- (1) Tescil kaydı ile ilan edilen durum arasında aykırılık bulunması
+hâlinde, tescil edilmiş olan gerçek durumu bildikleri ispat edilmediği sürece, üçüncü kişilerin
+ilan edilen duruma güvenleri korunur.
 
 ---
 

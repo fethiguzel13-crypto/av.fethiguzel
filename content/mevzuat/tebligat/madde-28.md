@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**İlanen tebligat**
+**İlanen tebligat:**
 
 ---
 
@@ -20,10 +20,10 @@ md.) Bununla beraber tebliği çıkaran merci, muhatabın adresini resmî veya h
 ve dairelerden gerekli gördüklerine sorar ve zabıta vasıtasıyla tahkik ve tespit ettirir.
 Yabancı memleketlerde oturanlara ilanen tebligat yapılmasını icabettiren ahvalde
 tebliği çıkaran merci, tebliğ olunacak evrak ile ilan suretlerini yabancı memlekette bulunan
-
-
-kimsenin malüm adresine ayrıca iadeli taahhütlü mektupla gönderir ve posta makbuzunu
+kimsenin malüm adresine ayrıca iadeli taahhütlü mektupla gönderir ve posta makbuzunu
 dosyasına koyar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

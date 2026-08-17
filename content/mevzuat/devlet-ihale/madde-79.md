@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Dış ülkelerdeki kuruluşların ihtiyaçları**
+**Dış ülkelerdeki kuruluşların ihtiyaçları:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 79 – İdarelerin yabancı ülkelerdeki kuruluşlarının yerel ihtiyaçl
 karşılanmasında taşınır ve taşınmaz malların alım, satım, kiralama ve kiraya verilmesinde
 uygulanacak esaslar Dışişleri, Milli Savunma, Maliye ve Bayındırlık bakanlıklarınca düzenlenecek
 bir yönetmelikle tespit edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

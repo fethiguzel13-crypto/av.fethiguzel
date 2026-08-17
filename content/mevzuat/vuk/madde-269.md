@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**Gayrimenkuller**
+**İKİNCİ BÖLÜM
+İktisadi İşletmelere Dahil Kıymetleri Değerleme
+Gayrimenkuller:**
 
 ---
 
@@ -17,11 +19,9 @@ Bu kanuna göre, aşağıda yazılı kıymetler gayrimenkuller gibi değerlenir:
 1. Gayrimenkullerin mütemmim cüzüleri ve teferruatı;
 2. Tesisat ve makinalar;
 3. Gemiler ve diğer taşıtlar;
-2/7/2018 tarihli ve 700 sayılı KHK’nin 46 ncı maddesiyle, bu fıkrada yer alan “kararnamelerde” ibaresi
-“kararlarda” şeklinde değiştirilmiştir.
-86
+4. Gayrimaddi haklar.
 
-4. Gayrimaddi haklar.
+---
 
 ### Akademik Yorum ve Analiz
 

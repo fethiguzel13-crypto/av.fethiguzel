@@ -43,6 +43,8 @@ m) Kurumun üçüncü kişilerle olan alacak, hak ve borçları hakkında her t�
 karar vermek,
 n) Kanunla verilen diğer görevleri yerine getirmek.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

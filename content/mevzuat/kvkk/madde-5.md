@@ -7,11 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4282
 ---
 
-**Kişisel verilerin işlenme şartları**
-
----
-
-MADDE 5- (1) Kişisel veriler ilgili kişinin açık rızası olmaksızın işlenemez.
+MADDE 5-
 (2) Aşağıdaki şartlardan birinin varlığı hâlinde, ilgili kişinin açık rızası aranmaksızın
 kişisel verilerinin işlenmesi mümkündür:
 a) Kanunlarda açıkça öngörülmesi.
@@ -25,6 +21,10 @@ d) İlgili kişinin kendisi tarafından alenileştirilmiş olması.
 e) Bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması.
 f) İlgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri
 sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması.
+Özel nitelikli kişisel verilerin işlenme şartları
+(1) Kişilerin ırkı, etnik kökeni, siyasi düşüncesi, felsefi inancı, dini,
+
+---
 
 ### Akademik Yorum ve Analiz
 

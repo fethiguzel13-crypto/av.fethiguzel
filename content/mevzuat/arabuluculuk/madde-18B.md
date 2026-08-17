@@ -39,9 +39,8 @@ ayni hak kurulmasına ilişkin anlaşma belgesinin taraflarından biri, icra edi
 verilmesinden sonra tapu müdürlüğünden tescil talebinde bulunabilir. Tapu müdürlüğünce
 taşınmaza ilişkin mevzuatta öngörülen gerekli inceleme ve değerlendirme yapıldıktan sonra
 resmi senet düzenlenmeksizin tescil talebi yerine getirilir.
-ALTINCI BÖLÜM
-Arabulucular Sicili
-Arabulucular sicilinin tutulması
+
+---
 
 ### Akademik Yorum ve Analiz
 

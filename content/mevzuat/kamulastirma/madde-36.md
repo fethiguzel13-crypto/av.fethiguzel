@@ -18,6 +18,8 @@ yeniden tapu tesis edildiği takdirde, idarenin isteği üzerine hakim, evrak ü
 gördüğü takdirde mahallinde inceleme yaparak sonraki kaydın iptali hakkında bir karar verir.
 Bu işlemler harca ve resme bağlı değildir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**Mala zarar vermenin nitelikli halleri69**
+**(2) (Mülga:9/7/2021-7332/17 md.)
+Mala zarar vermenin nitelikli halleri**
 
 ---
 
@@ -37,6 +38,8 @@ işlenmesi halinde, verilecek ceza bir katına kadar artırılır.
 haberleşme, enerji ya da demiryolu veya havayolu ulaşımı alanında kamu hizmetinin geçici
 de olsa aksaması hâlinde, yukarıdaki fıkralar hükümlerine göre verilecek ceza yarısından iki
 katına kadar artırılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

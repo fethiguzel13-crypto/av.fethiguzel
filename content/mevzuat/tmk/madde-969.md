@@ -11,7 +11,8 @@ wordCount: 4305
 
 ---
 
-Madde 969 - Geri alım hakkı tanıyarak satın almayı meslek edinenler hakkında da, taşınır rehni karşılığında ödünç verenlere ilişkin hükümler uygulanır. D ÖRDÜNCÜ AYIRIM REHİNLİ TAHVİL A. Niteliği
+Madde 969- Geri alım hakkı tanıyarak satın almayı meslek edinenler hakkında da, taşınır
+rehni karşılığında ödünç verenlere ilişkin hükümler uygulanır.
 
 ---
 

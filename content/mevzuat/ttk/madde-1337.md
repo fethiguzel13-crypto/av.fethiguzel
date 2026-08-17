@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
-**II
-- Yabancılık unsuru taşımayan hâller**
+**II - Yabancılık unsuru taşımayan hâller**
 
 ---
 
-Madde 1337 - (1) 1992 tarihli Sorumlulu k ve Fon Sözleşmeleri, Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanunun 1 inci maddesinin birinci fıkrası anlamında yabancılık unsuru taşımayan hâllerde de uygulanır.
+MADDE 1337- (1) 1992 tarihli Sorumluluk ve Fon Sözleşmeleri, Milletlerarası Özel
+Hukuk ve Usul Hukuku Hakkında Kanunun 1 inci maddesinin birinci fıkrası anlamında
+yabancılık unsuru taşımayan hâllerde de uygulanır.
 
 ---
 

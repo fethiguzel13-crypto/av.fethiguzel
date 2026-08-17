@@ -21,6 +21,8 @@ karar verilinceye kadar meclis toplantılarının ertelenmesini de ister. Danı�
 geç bir ay içinde karara bağlar.
 Bu şekilde feshedilen meclisin yerine seçilen meclis, kalan süreyi tamamlar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

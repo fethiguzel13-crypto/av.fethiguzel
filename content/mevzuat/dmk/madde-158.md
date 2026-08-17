@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**Adayların aylıkları**
+**Adayların aylıkları:**
 
 ---
 
@@ -16,6 +16,8 @@ md.)
 Herhangi bir sınıfta aday olarak göreve başlayanlar bu Kanunun 54 üncü
 maddesindeki esaslara göre, girecekleri derecenin hak edecekleri kademe aylığını alırlar.
 Aday memurlara, asaletleri tasdik edilinceye kadar kademe ilerlemesi uygulanmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

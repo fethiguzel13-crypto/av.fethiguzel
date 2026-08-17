@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="tr" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover"
+    />
+    <meta name="color-scheme" content="light" />
+    <meta name="theme-color" content="#2E4036" id="theme-color" />
+    <title>Av. Fethi Güzel</title>
+    <style>
+      /* İlk boya — JS yüklenene kadar boş beyaz ekran görünmesin */
+      #boot {
+        position: fixed;
+        inset: 0;
+        display: grid;
+        place-items: center;
+        background: #2e4036;
+        color: #f2f0e9;
+        font-family: system-ui, -apple-system, 'Segoe UI', sans-serif;
+      }
+      #boot .m {
+        width: 64px;
+        height: 64px;
+        border-radius: 18px;
+        background: rgba(242, 240, 233, 0.12);
+        display: grid;
+        place-items: center;
+        font-size: 1.7rem;
+        margin: 0 auto 1rem;
+      }
+      #boot p {
+        opacity: 0.7;
+        font-size: 0.85rem;
+        text-align: center;
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="boot">
+      <div>
+        <div class="m">§</div>
+        <p>Yükleniyor…</p>
+      </div>
+    </div>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

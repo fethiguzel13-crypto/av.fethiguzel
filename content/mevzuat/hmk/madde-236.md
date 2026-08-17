@@ -16,6 +16,8 @@ bakan mahkemeye gelmek zorundadır. Ancak, yemin edecek kişi, mahkemenin bulund
 dışında oturuyor ve bulunduğu yerde aynı anda ses ve görüntü nakledilmesi yolu ile yemin
 icrası mümkün değil ise istinabe yolu ile yemin ettirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

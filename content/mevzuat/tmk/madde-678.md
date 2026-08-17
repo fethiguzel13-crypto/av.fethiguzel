@@ -11,7 +11,10 @@ wordCount: 4303
 
 ---
 
-Madde 678 - Mirasbırakanın katılması veya izni olmaksızın bir mirasçın ın henüz açılmamış bir miras hakkında diğer mirasçılar veya üçüncü bir kişi ile yapacağı s özleşmeler geçerli değildir . Böyle bir sözleşme gereğince yerine getirilmiş olan edimlerin geri verilmesi istenebilir.
+Madde 678- Mirasbırakanın katılması veya izni olmaksızın bir mirasçının henüz
+açılmamış bir miras hakkında diğer mirasçılar veya üçüncü bir kişi ile yapacağı sözleşmeler
+geçerli değildir.
+Böyle bir sözleşme gereğince yerine getirilmiş olan edimlerin geri verilmesi istenebilir.
 
 ---
 

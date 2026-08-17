@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**Madde 471**
+**(2) (Mülga: 26/6/2012-6335/23 md.)
+d) Ticaret siciline tescil**
 
 ---
 
-Madde 471 - (1) Yönetim kurulu, hesap döneminin kapanmasından itibaren en geç üç ay içinde, esas sözleşme değişikliğini ticaret siciline tescil ettirir; sermaye artırımına ilişkin yönetim kurulu beyanna mesini (…) 68 sicile tevdi eder. 69 7. Esas sözleşmeden çıkarma
+MADDE 471- (1) Yönetim kurulu, hesap döneminin kapanmasından itibaren en geç
+üç ay içinde, esas sözleşme değişikliğini ticaret siciline tescil ettirir; sermaye artırımına ilişkin
+68 69
+yönetim kurulu beyannamesini (…)sicile tevdi eder.
 
 ---
 

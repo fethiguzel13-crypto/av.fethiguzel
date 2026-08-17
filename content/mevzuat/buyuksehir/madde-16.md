@@ -7,25 +7,17 @@ lastReviewed: "2026-07-27"
 wordCount: 3610
 ---
 
-**Büyükşehir belediye encümeni, belediye başkanının başkanlığında,**
-
----
-
-Madde 16 - Büyükşehir belediye encümeni, belediye başkanının başkanlığında,
-belediye meclisinin (...)[23]
-kendi üyeleri arasından bir yıl için gizli oyla seçeceği beş üye ile biri genel
-sekreter, biri malî hizmetler birim amiri olmak üzere belediye başkanının her yıl
+Madde 16- Büyükşehir belediye encümeni, belediye başkanının başkanlığında,
+belediye meclisinin (...)kendi üyeleri arasından bir yıl için gizli oyla seçeceği beş üye ile
+biri genel sekreter, biri malî hizmetler birim amiri olmak üzere belediye başkanının her yıl
 birim amirleri arasından seçeceği beş üyeden oluşur.
-
-Belediye başkanının katılamadığı toplantılarda, encümen toplantılarına genel
-sekreter başkanlık eder.
-
+Belediye başkanının katılamadığı toplantılarda, encümen toplantılarına genel sekreter
+başkanlık eder.
 Büyükşehir belediye encümeninin başkanı ve seçilmiş üyelerine, (12.000) gösterge
 rakamının Devlet memur aylıkları için belirlenen katsayı ile çarpımı sonucu bulunacak
-miktarda aylık brüt ödenek verilir. Encümenin memur üyelerine bu miktarın yarısı
-ödenir.
+miktarda aylık brüt ödenek verilir. Encümenin memur üyelerine bu miktarın yarısı ödenir.
 
-Büyükşehir belediye başkanı
+---
 
 ### Akademik Yorum ve Analiz
 

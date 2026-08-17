@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**Teminat isteme**
+**İKİNCİ BÖLÜM
+Amme alacaklarının korunması
+I – Teminat hükümleri
+Teminat isteme:**
 
 ---
 
@@ -15,9 +18,11 @@ Madde 9 – (Değişik birinci fıkra: 26/11/1980 - 2347/1 md.) 213 sayılı Ver
 Kanununun 344 üncü maddesi uyarınca vergi ziyaı cezası kesilmesini gerektiren haller ile 359
 uncu maddesinde sayılan hallere temas eden bir amme alacağının salınması için gerekli
 muamelelere başlanmış olduğu takdirde vergi incelemesine yetkili memurlarca yapılan ilk
-hesaplara göre belirtilen miktar üzerinden tahsil dairelerince teminat istenir.3
+hesaplara göre belirtilen miktar üzerinden tahsil dairelerince teminat istenir.
 Türkiye'de ikametgahı bulunmıyan amme borçlusunun durumu amme alacağının
 tahsilinin tehlikede olduğunu gösteriyorsa, tahsil dairesi kendisinden teminat istiyebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

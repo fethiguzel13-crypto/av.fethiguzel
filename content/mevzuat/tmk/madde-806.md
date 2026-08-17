@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**d. Hakkın kulla nılmasının devri**
+**d. Hakkın kullanılmasının devri**
 
 ---
 
-Madde 806 - Sözleşmede aksine hüküm yoksa veya durum ve koşullardan hak sahibince şahsen kullanılması gerektiği anlaşılmıyorsa, intifa h akkının kullanılması başkasına devredilebilir. Bu takdirde malik, haklarını, devralana karşı doğrudan do ğruya ileri sürebilir.
+Madde 806- Sözleşmede aksine hüküm yoksa veya durum ve koşullardan hak sahibince
+şahsen kullanılması gerektiği anlaşılmıyorsa, intifa hakkının kullanılması başkasına devredilebilir.
+Bu takdirde malik, haklarını, devralana karşı doğrudan doğruya ileri sürebilir.
 
 ---
 

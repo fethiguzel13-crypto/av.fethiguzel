@@ -16,6 +16,8 @@ hüküm ifade edebilmesi için, bu konudaki beyanın dilekçeyle bildirilmesi ve
 geçirilmesi ve gerektiğinde ilgilisine yapılacak tebligat giderinin de peşin olarak ödenmesi
 zorunludur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

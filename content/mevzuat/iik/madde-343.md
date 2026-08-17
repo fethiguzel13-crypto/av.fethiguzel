@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
-**30 ve 31 inci maddeler hükmüne muhalefet edenlerin cezası**
+**30 ve 31 inci maddeler hükmüne muhalefet edenlerin cezası:**
 
 ---
 
@@ -17,6 +17,8 @@ yahut bir irtifak hakkının tesisi veya kaldırılması hakkındaki ilâm hük�
 mazerete müstenit olmayarak muhalefet eden borçluların, lehine hüküm verilmiş kimsenin
 şikâyeti üzerine, üç aya kadar tazyik hapsine karar verilir. Hapsin tatbikine başlandıktan sonra
 ilâmın gereği yerine getirilirse, borçlu tahliye edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

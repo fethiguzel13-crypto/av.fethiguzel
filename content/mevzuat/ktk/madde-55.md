@@ -8,7 +8,7 @@ wordCount: 2650
 keywords: ["Geçilen Araç", "Geçiş Üstünlüğü", "7574 Sayılı Kanun", "Fermuar Sistemi", "Ambulans Önceliği", "Ehliyet İptali", "Trafikten Men", "İlliyet Bağı"]
 ---
 
-**Geçilen araçlara ait kurallar**
+**Geçilen araçlara ait kurallar:**
 
 ---
 
@@ -31,7 +31,7 @@ cezası verilir. Bu maddenin birinci fıkrasının (a) ve (b) bentleri ile ikinc
 1.000 Türk lirası idari para cezası verilir.
 (Ek fıkra:12/2/2026-7574/15 md.) 71 inci maddenin birinci fıkrasının (a) ve (b)
 bentlerinde belirtilen araçlara bu maddenin birinci fıkrasının (c) bendi ile ikinci fıkrası hükümleri
-kapsamanda geçiş hakkı vermeyen sürücülere 46.000 Türk lirası idari para cezası verilir ve sürücü
+kapsamında geçiş hakkı vermeyen sürücülere 46.000 Türk lirası idari para cezası verilir ve sürücü
 belgeleri otuz gün süreyle geri alınır. Ayrıca araç otuz gün süre ile trafikten menedilir. Bu şekilde
 geri alınan sürücü belgelerinin iade edilebilmesi için bu Kanun kapsamında verilen idari para
 cezalarının tamamının tahsil edilmiş olması şarttır.
@@ -46,6 +46,9 @@ tabi tutulacakları psiko-teknik değerlendirme sonucunda sürücülüğe engel 
 gösterir belgenin sürücü kursuna ibrazı zorunludur.
 (Ek fıkra:12/2/2026-7574/15 md.) Sürücü belgesi geri alma ve iptal işlemleri bu
 Kanunun 6 ncı maddesinde sayılan görevliler tarafından gerçekleştirilir.
+Şerit izleme, gelen trafikle karşılaşma, araçlar arasındaki mesafe, yavaş sürme ve
+
+---
 
 ### Akademik Yorum ve Analiz
 

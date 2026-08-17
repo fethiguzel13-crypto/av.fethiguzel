@@ -12,7 +12,13 @@ wordCount: 4264
 
 ---
 
-Madde 228 - Eşlerin kişisel malları ile edi nilmi ş malları, mal rejiminin sona ermesi anındaki durumlarına göre ayrılır. Eşlerden birine sosyal güvenlik veya sosyal yardım kurumlarınca yapılmış olan toptan ödemeler veya iş gücünün kaybı dolayısıyla ödenmiş olan tazminat, toptan ödeme veya tazminat y erine ilgili sosyal güvenlik veya sosyal yardım kurumunca uygulanan usule göre ömür boyunca irat bağlanmış olsayd ı, mal rejiminin sona erdiği tarihte bundan sonraki döneme ait iradın peşin sermayeye çevrilmiş değeri ne ol acak idiyse, tasfiyede o miktarda k işise l mal olarak hesaba katılır.
+Madde 228- Eşlerin kişisel malları ile edinilmiş malları, mal rejiminin sona ermesi
+anındaki durumlarına göre ayrılır.
+Eşlerden birine sosyal güvenlik veya sosyal yardım kurumlarınca yapılmış olan toptan
+ödemeler veya iş gücünün kaybı dolayısıyla ödenmiş olan tazminat, toptan ödeme veya tazminat
+yerine ilgili sosyal güvenlik veya sosyal yardım kurumunca uygulanan usule göre ömür boyunca
+irat bağlanmış olsaydı, mal rejiminin sona erdiği tarihte bundan sonraki döneme ait iradın peşin
+sermayeye çevrilmiş değeri ne olacak idiyse, tasfiyede o miktarda kişisel mal olarak hesaba katılır.
 
 ---
 

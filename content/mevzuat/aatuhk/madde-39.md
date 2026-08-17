@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Ödeme yeri**
+**Ödeme yeri:**
 
 ---
 
@@ -15,7 +15,9 @@ Madde 39 – Hususi kanunlarında ödeme yeri gösterilmemiş amme alacakları,
 borçlunun ikametgahının bulunduğu yer tahsil dairesine ödenir.
 Hususi kanunlarında ödeme yeri gösterilmiş olsun olmasın borçlunun alacaklı
 tahsil dairesindeki hesabı bildirmek şartiyle diğer tahsil dairelerine de ödeme yapılabilir. Bu
-fıkra gereğince yapılacak ödemeler tahsildarlara yapılamaz.11
+fıkra gereğince yapılacak ödemeler tahsildarlara yapılamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -14,6 +14,8 @@ wordCount: 4310
 Madde 2- Bu Kanun, büyükşehir belediyesiyle büyükşehir sınırları içindeki belediyeleri
 kapsar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

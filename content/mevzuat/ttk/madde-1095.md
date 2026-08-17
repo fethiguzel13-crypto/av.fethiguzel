@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**V - Kaptanın gemi zabitlerine danışması**
+**V- Kaptanın gemi zabitlerine danışması**
 
 ---
 
-Madde 1095 - (1) Kaptan, bir tehlikenin varlığı hâlinde, gemi zabitlerine danış maya gerek görse bile, onların verdikleri kararla bağlı olmayıp alacağı önlemlerden daima kendisi sorumlu olur.
+MADDE 1095- (1) Kaptan, bir tehlikenin varlığı hâlinde, gemi zabitlerine danışmaya
+gerek görse bile, onların verdikleri kararla bağlı olmayıp alacağı önlemlerden daima kendisi
+sorumlu olur.
 
 ---
 

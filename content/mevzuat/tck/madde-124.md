@@ -17,8 +17,8 @@ halinde, altı aydan iki yıla kadar hapis veya adlî para cezasına hükmolunur
 yıldan beş yıla kadar hapis cezası ile cezalandırılır.
 (3) Her türlü basın ve yayın organının yayınının hukuka aykırı bir şekilde engellenmesi
 halinde, ikinci fıkra hükmüne göre cezaya hükmolunur.
-SEKİZİNCİ BÖLÜM
-Şerefe Karşı Suçlar
+
+---
 
 ### Akademik Yorum ve Analiz
 

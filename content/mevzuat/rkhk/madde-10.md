@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4283
 ---
 
-**Birleşme ve Devralmaların Kurula Bildirilmesi2**
+**Birleşme ve Devralmaların Kurula Bildirilmesi**
 
 ---
 
@@ -22,6 +22,8 @@ uncu maddeleri hükümleri uygulanır.
 Kurulun, süresi içinde birleşme veya devralmaya ilişkin müracaata herhangi bir cevap
 vermediği ya da herhangi bir işlem yapmadığı hallerde, birleşme veya devralma anlaşmaları
 bildirim tarihinden 30 gün sonra yürürlüğe girerek hukuki geçerlilik kazanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

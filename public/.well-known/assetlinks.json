@@ -1,14 +1,38 @@
 [
-    {
-        "relation": [
-            "delegate_permission/common.handle_all_urls"
-        ],
-        "target": {
-            "namespace": "android_app",
-            "package_name": "com.avfethiguzel.hukuk",
-            "sha256_cert_fingerprints": [
-                "REPLACE_WITH_UPLOAD_OR_APP_SIGNING_SHA256"
-            ]
-        }
+  {
+    "_comment": "Mevzuat — /mevzuat, /ara, /kavram yollarını açar. SHA-256 için: Play Console → Uygulama bütünlüğü → Uygulama imzalama → 'Uygulama imzalama anahtarı sertifikası' parmak izini buraya yapıştırın. Yükleme anahtarınınkini DEĞİL; Play kendi anahtarıyla yeniden imzalar.",
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.avfethiguzel.hukuk",
+      "sha256_cert_fingerprints": ["REPLACE_WITH_PLAY_APP_SIGNING_SHA256_HUKUK"]
     }
+  },
+  {
+    "_comment": "Hukuki Hesap — /hesaplama yolunu açar.",
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.avfethiguzel.hesap",
+      "sha256_cert_fingerprints": ["REPLACE_WITH_PLAY_APP_SIGNING_SHA256_HESAP"]
+    }
+  },
+  {
+    "_comment": "İçtihat Günü — /icthat ve /yargi-kararlari yollarını açar.",
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.avfethiguzel.icthat",
+      "sha256_cert_fingerprints": ["REPLACE_WITH_PLAY_APP_SIGNING_SHA256_ICTHAT"]
+    }
+  },
+  {
+    "_comment": "Vatandaş Hukuku — /bilgi ve /rehber yollarını açar.",
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.avfethiguzel.rehber",
+      "sha256_cert_fingerprints": ["REPLACE_WITH_PLAY_APP_SIGNING_SHA256_REHBER"]
+    }
+  }
 ]

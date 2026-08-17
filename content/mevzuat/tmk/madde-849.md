@@ -11,7 +11,10 @@ wordCount: 4320
 
 ---
 
-Madde 849 - Taşınmaz m aliki değişirse yeni malik, başka bir işleme gerek bulunmaksız ın taşınmaz yükünün yükümlüsü olur. Yüklü taşınmazın bölünmesinin taşınmaz yüküne etkisi hakkında irat senedine ilişkin hükümler uygulanır. İKİNCİ BÖLÜM TAŞINMAZ REHNİ BİRİNCİ AYIRIM GENEL HÜ KÜMLER A. Koşullar I. Taşınmaz rehninin türleri
+Madde 849- Taşınmaz maliki değişirse yeni malik, başka bir işleme gerek bulunmaksızın
+taşınmaz yükünün yükümlüsü olur.
+Yüklü taşınmazın bölünmesinin taşınmaz yüküne etkisi hakkında irat senedine ilişkin
+hükümler uygulanır.
 
 ---
 

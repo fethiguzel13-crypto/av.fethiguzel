@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**İl ve ilçe trafik komisyonları**
+**3176/16 md.)
+İl ve ilçe trafik komisyonları:**
 
 ---
 
@@ -44,15 +45,15 @@ Güvenliği Yüksek Kurulunun müdahalesini gerektiren hususları İçişleri Ba
 3. Karayolu taşımacılığına ait mevzuat hükümleri saklı kalmak üzere, trafik düzeni ve
 330 sayılı KHK'nin 2 nci maddesi ile gelen ek fıkra; sözkonusu KHK'yi değiştirerek kabul eden
 31/10/1990 tarih ve 3672 sayılı Kanunda yer almadığı için metinden çıkarılmıştır.
-15
-
-güvenliği yönünden belediye sınırları içinde ticari amaçla çalıştırılacak yolcu ve yük taşıtları
+güvenliği yönünden belediye sınırları içinde ticari amaçla çalıştırılacak yolcu ve yük taşıtları
 ile motorsuz taşıtların çalışma şekil ve şartları, çalıştırılabileceği yerler ile güzergahlarını
 tespit etmek ve sayılarını belirlemek,
 4. Gerçek ve tüzelkişiler ile resmi ve özel kurum ve kuruluşlara ait otopark olmaya
 müsait boş alan, arazi ve arsaları geçici otopark yeri olarak ilan etmek ve bunların sahiplerine
 veya üçüncü kişilere işletilmesi için izin vermek,
 5. Bu Kanunla ve diğer mevzuatla verilen görevleri yapmak.
+
+---
 
 ### Akademik Yorum ve Analiz
 

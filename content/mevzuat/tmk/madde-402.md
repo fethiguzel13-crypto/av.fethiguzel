@@ -11,7 +11,9 @@ wordCount: 4303
 
 ---
 
-Madde 402 - Aile meclisi görevini yapmadığı veya vesayet altındaki kişinin menfaati gerektirdiği takdird e, denetim makamı her zaman aile meclisini değiştirebileceği gibi özel vesayeti d e sona erdirebilir.
+Madde 402- Aile meclisi görevini yapmadığı veya vesayet altındaki kişinin menfaati
+gerektirdiği takdirde, denetim makamı her zaman aile meclisini değiştirebileceği gibi özel
+vesayeti de sona erdirebilir.
 
 ---
 

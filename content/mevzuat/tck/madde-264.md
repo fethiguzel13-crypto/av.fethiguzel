@@ -18,6 +18,8 @@ madalyaları takan kimseye üç aydan bir yıla kadar hapis cezası verilir.
 yalnız bu fiilden ötürü yukarıdaki fıkrada belirtilen cezalar üçte biri oranında artırılarak
 hükmolunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**IV
-- Kesin ücret**
+**IV - Kesin ücret**
 
 ---
 
-Madde 921 - (1) Ücret olarak taşıma giderlerini de içeren tek bedel kararlaştırılmışsa, taşıma işleri komisy oncusu, taşımaya ilişkin olarak, taşıyıcının veya taşıyanın hak ve yükümlülüklerine sahip olur. Bu durumda komisyoncu, giderlerin ödenmesini, ancak bunun olağan olduğu hâllerde isteyebilir.
+MADDE 921- (1) Ücret olarak taşıma giderlerini de içeren tek bedel kararlaştırılmışsa,
+taşıma işleri komisyoncusu, taşımaya ilişkin olarak, taşıyıcının veya taşıyanın hak ve
+yükümlülüklerine sahip olur. Bu durumda komisyoncu, giderlerin ödenmesini, ancak bunun
+olağan olduğu hâllerde isteyebilir.
 
 ---
 

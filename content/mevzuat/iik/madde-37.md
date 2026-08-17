@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**Haciz veya iflas istemek yetkisi**
+**Haciz veya iflas istemek yetkisi:**
 
 ---
 
 Madde 37 – İcra emrinde yazılı müddet geçtiği halde borcunu ödemiyenlerin malları
 haczolunur yahut borçlu iflasa tabi eşhastan olupta alacaklı isterse yetkili ticaret
 mahkemesince iflasına karar verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

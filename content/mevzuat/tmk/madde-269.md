@@ -11,7 +11,9 @@ wordCount: 4293
 
 ---
 
-Madde 269 - Her eş, diğer bütün borçlardan kendi kişisel mallarıyla ve ortaklık malla rının değerinin yarısı kadarıyla sorumlu tutulur. Ortaklığın zenginleşmesinden kaynaklanan istemler saklı dır.
+Madde 269- Her eş, diğer bütün borçlardan kendi kişisel mallarıyla ve ortaklık mallarının
+değerinin yarısı kadarıyla sorumlu tutulur.
+Ortaklığın zenginleşmesinden kaynaklanan istemler saklıdır.
 
 ---
 

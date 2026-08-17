@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**Emeklilik**
+**Emeklilik:**
 
 ---
 
 Madde 19 – Devlet memurlarının, özel kanununda yazılı belirli şartlar içinde,
 emeklilik hakları vardır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

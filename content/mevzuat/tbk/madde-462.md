@@ -11,7 +11,7 @@ wordCount: 4308
 
 ---
 
-Madde 462 - İşveren, işçiye her yeni iş verişinde genel çalışma koşulları dışında
+MADDE 462- İşveren, işçiye her yeni iş verişinde genel çalışma koşulları dışında
 kalan ve o işe özgü özellikleri bildirir; gerekiyorsa işçi tarafından sağlanacak malzemeyi, bu
 malzemenin sağlanması için kendisine ne miktarda ödemede bulunacağını ve iş için
 ödeyeceği ücreti de işçiye yazılı olarak bildirir.

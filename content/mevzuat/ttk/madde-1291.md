@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**III
-- Kılavuzun kusuru**
+**III - Kılavuzun kusuru**
 
 ---
 
-Madde 1291 - (1) Gemi, zorunlu danışman kılavuz veya isteğe bağlı kılavuz tarafından sevk edilirken onun kusurundan ileri gelen çatmadan geminin donatanı sorumludur. (2) Gemi zorunlu sevk kılavuzu tarafından sevk edilirken onun kusurundan ileri gelen
+MADDE 1291- (1) Gemi, zorunlu danışman kılavuz veya isteğe bağlı kılavuz
+tarafından sevk edilirken onun kusurundan ileri gelen çatmadan geminin donatanı sorumludur.
+(2) Gemi zorunlu sevk kılavuzu tarafından sevk edilirken onun kusurundan ileri gelen
 çatmadan geminin donatanı sorumlu değildir.
 
 ---

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**Davetiyenin ihtiva edeceği kayıtlar**
+**Davetiyenin ihtiva edeceği kayıtlar:**
 
 ---
 
@@ -20,6 +20,8 @@ lazımgeldiğini ve bu merciin yerini,
 4. Kanunlarına göre davetiye ve celpnamelere derci icabeden sair hususları,
 5. Davetiyeyi çıkaran merciin mührünü ve mahkeme başkatibinin ve diğer mercilerde
 salahiyetli memurun imzasını.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**İhtiyati haciz kararının icrası**
+**İhtiyati haciz kararının icrası:**
 
 ---
 
@@ -19,6 +19,8 @@ halde ihtiyati haciz kararı kendiliğinden kalkar.
 yapılacağına dair hükümlere göre icra edilir.
 (Ek son fıkra: 17/7/2003-4949/61 md.) İhtiyati haczin infazı ile ilgili şikayetler infazı
 yapan icra dairesinin bağlı olduğu icra mahkemesine yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

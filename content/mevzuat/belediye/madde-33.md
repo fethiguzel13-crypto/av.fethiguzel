@@ -7,14 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**Belediye encümeni**
+**İKİNCİ BÖLÜM
+Belediye Encümeni
+Belediye encümeni**
 
 ---
 
 Madde 33- Belediye encümeni, belediye başkanının başkanlığında;
-
-
-a) İl belediyelerinde ve nüfusu 100.000'in üzerindeki belediyelerde, belediye
+a) İl belediyelerinde ve nüfusu 100.000'in üzerindeki belediyelerde, belediye
 meclisinin her yıl kendi üyeleri arasından bir yıl için gizli oyla seçeceği üç üye, malî
 hizmetler birim amiri ve belediye başkanının birim amirleri arasından bir yıl için seçeceği iki
 üye olmak üzere yedi kişiden,
@@ -26,6 +26,8 @@ Belediye başkanının katılamadığı toplantılarda, belediye başkanının g
 başkan yardımcısı veya encümen üyesi, encümene başkanlık eder.
 Encümen toplantılarına gündemdeki konularla ilgili olarak ilgili birim amirleri,
 belediye başkanı tarafından oy hakkı olmaksızın görüşleri alınmak üzere çağrılabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

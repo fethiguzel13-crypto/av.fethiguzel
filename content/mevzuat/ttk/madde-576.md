@@ -7,11 +7,19 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**Madde 576**
+**II - İçerik
+1. Zorunlu kayıtlar**
 
 ---
 
-Madde 576 - (1) Şirket sözleşmesinde aşağıdaki kayıtların açıkça yer alması gereklidir: a) Şirketin ticaret unvanı ve merkezinin bulunduğu yer. b) Esaslı noktaları belirtilmiş ve tanımlanmış bir şekilde, şirketin işletme konusu. c) Esas sermayenin itibarî tutarı, esas sermaye paylarının sayısı, itibarî değerleri, varsa imtiyazlar, esas sermaye paylarının grupları. d) Müdürlerin adları, soyadları, unvanları, vatandaşlıkları. e) Şirket tarafından yapılacak ilanların şekli.
+MADDE 576- (1) Şirket sözleşmesinde aşağıdaki kayıtların açıkça yer alması
+gereklidir:
+a) Şirketin ticaret unvanı ve merkezinin bulunduğu yer.
+b) Esaslı noktaları belirtilmiş ve tanımlanmış bir şekilde, şirketin işletme konusu.
+c) Esas sermayenin itibarî tutarı, esas sermaye paylarının sayısı, itibarî değerleri, varsa
+imtiyazlar, esas sermaye paylarının grupları.
+d) Müdürlerin adları, soyadları, unvanları, vatandaşlıkları.
+e) Şirket tarafından yapılacak ilanların şekli.
 
 ---
 

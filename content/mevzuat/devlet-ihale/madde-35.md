@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**İhale usullerinin neler olduğu**
+**ÜÇÜNCÜ BÖLÜM
+İhale Usulleri
+İhale usullerinin neler olduğu:**
 
 ---
 
@@ -20,6 +22,8 @@ d) Pazarlık usulü,
 e) Yarışma usulü.
 İşin gereğine göre bu usullerden hangisinin uygulanacağı, bu Kanun hükümlerine
 uyularak idarelerince tespit edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

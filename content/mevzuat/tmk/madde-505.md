@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**Madde 505**
+**İKİNCİ AYIRIM
+TASARRUF ÖZGÜRLÜĞÜ
+A. Tasarruf edilebilir kısım
+I. Kapsamı**
 
 ---
 
-Madde 505 - (Değişik birinci fıkra: 4/5/2007 - 5650/1 md.) Mi rasçı olarak altsoyu, ana v e babası veya eşi bulunan m iras bıraka n, mir asının saklı paylar dışında kalan kısmında ölüme bağlı tasa rrufta bulunabilir. Bu mirasçılardan hiç biri yoksa, mirasbırakan mira sının tamamında tasarruf edebilir.
+Madde 505- (Değişik birinci fıkra: 4/5/2007-5650/1 md.) Mirasçı olarak altsoyu, ana ve
+babası veya eşi bulunan miras bırakan, mirasının saklı paylar dışında kalan kısmında ölüme bağlı
+tasarrufta bulunabilir.
+Bu mirasçılardan hiç biri yoksa, mirasbırakan mirasının tamamında tasarruf edebilir.
 
 ---
 

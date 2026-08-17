@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Yurt dışında yetiştirme**
+**Yurt dışında yetiştirme:**
 
 ---
 
@@ -20,19 +20,7 @@ Bu maddede söz konusu olan Devlet memurları hakkında 79 uncu madde hükümler
 uygulanır.
 Rapor verme:
 
-2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan
-“Başbakanlık Devlet Personel Başkanlığının teklifi ve Bakanlar Kurulu kararnamesiyle” ibaresi
-“Cumhurbaşkanı kararıyla” şeklinde değiştirilmiştir.
-282
-2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan
-“Maliye ve Milli Eğitim Bakanlıklariyle Türkiye ve Orta - Doğu Amme İdaresi Enstitüsü, Devlet Planlama
-Teşkilatı ve ilgili kurumların görüşleri alındıktan sonra Başbakanlık Devlet Personel Başkanlığı tarafından
-hazırlanarak Bakanlar Kurulu kararnamesiyle” ibaresi “Cumhurbaşkanı kararıyla” şeklinde değiştirilmiştir.
-281
-
-Madde 219 – Kurumlar yıllık eğitim programlarına göre yapmakta oldukları eğitim
-çalışmalarının sonuçlarını her altı aylık dönemin bitiminden en geç bir ay sonra Başbakanlık
-Devlet Personel Başkanlığına bir raporla bildirmek zorundadırlar.
+---
 
 ### Akademik Yorum ve Analiz
 

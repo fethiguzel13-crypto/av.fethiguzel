@@ -11,7 +11,7 @@ wordCount: 4309
 
 ---
 
-Madde 445 - Rekabet yasağı, işçinin ekonomik geleceğini hakkaniyete aykırı olarak
+MADDE 445- Rekabet yasağı, işçinin ekonomik geleceğini hakkaniyete aykırı olarak
 tehlikeye düşürecek biçimde yer, zaman ve işlerin türü bakımından uygun olmayan
 sınırlamalar içeremez ve süresi, özel durum ve koşullar dışında iki yılı aşamaz.
 Hâkim, aşırı nitelikteki rekabet yasağını, bütün durum ve koşulları serbestçe

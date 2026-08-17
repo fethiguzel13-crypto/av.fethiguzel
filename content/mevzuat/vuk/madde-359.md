@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Kaçakçılık Suçları ve Cezaları137**
+**ÜÇÜNCÜ BÖLÜM
+Suçlar ve Cezaları
+Kaçakçılık Suçları ve Cezaları**
 
 ---
 
@@ -25,25 +27,16 @@ tasdik kayıtları veya sair suretlerle sabit olduğu halde, inceleme sırasınd
 yetkili kimselere defter ve belgelerin ibraz edilmemesi, bu fıkra hükmünün uygulanmasında
 gizleme olarak kabul edilir. Gerçek bir muamele veya duruma dayanmakla birlikte bu
 muamele veya durumu mahiyet veya miktar itibariyle gerçeğe aykırı şekilde yansıtan belge
-ise, muhteviyatı itibariyle yanıltıcı belgedir.138
+ise, muhteviyatı itibariyle yanıltıcı belgedir.
 b) Vergi kanunları uyarınca tutulan veya düzenlenen ve saklama ve ibraz mecburiyeti
 bulunan defter, kayıt ve belgeleri yok edenler veya defter sahifelerini yok ederek yerine başka
 yapraklar koyanlar veya hiç yaprak koymayanlar veya belgelerin asıl veya suretlerini
 tamamen veya kısmen sahte olarak düzenleyenler veya bu belgeleri kullananlar, üç yıldan
-
 Bu bölüm başlığı "Dördüncü Bölüm" ve "ceza mahkemelerince yargılanacak Suçlar ve Cezaları" iken,
 22/7/1998 tarih ve 4369 sayılı Kanunun 14 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir. Daha sonra
 bu başlık “Hürriyeti Bağlayıcı Ceza İle Cezalandırılacak Suçlar ve Cezaları” iken; 23/1/2008 tarihli ve 5728
 sayılı Kanunun 276 ncı maddesiyle metne işlendiği şekilde değiştirilmiştir.
-137
-8/4/2022 tarihli ve 7394 sayılı Kanunun 4 üncü maddesiyle (a) fıkrasında yer alan “üç” ibaresi “beş”
-şeklinde, (b), (c) ve (ç) fıkralarında yer alan “beş” ibareleri “sekiz” şeklinde değiştirilmiştir.
-138
-16/6/2009 tarihli ve 5904 sayılı Kanunun 23 üncü maddesiyle; bu maddenin (a) fıkrasında yer alan “bir
-yıldan” ibaresi “on sekiz aydan” şeklinde değiştirilmiştir.
-136
-
-sekiz yıla kadar hapis cezası ile cezalandırılır. Gerçek bir muamele veya durum olmadığı
+sekiz yıla kadar hapis cezası ile cezalandırılır. Gerçek bir muamele veya durum olmadığı
 halde bunlar varmış gibi düzenlenen belge, sahte belgedir.
 c) Bu Kanun hükümlerine göre ancak Maliye Bakanlığı ile anlaşması bulunan kişilerin
 basabileceği belgeleri, Bakanlık ile anlaşması olmadığı halde basanlar veya bilerek
@@ -82,12 +75,13 @@ hüküm verilinceye kadar ödenmesi halinde ise verilecek ceza üçte bir oranı
 cezanın bulunmadığı durumlarda verilecek ceza yarı oranında indirilir.
 (Ek fıkra:8/4/2022-7394/4 md.) (İptal fıkra: Anayasa Mahkemesi’nin 13/9/2023
 tarihli ve E.: 2022/81, K.: 2023/153 sayılı Kararı ile.)
-
-(Ek fıkra:8/4/2022-7394/4 md.) Bu maddede düzenlenen suçların birden fazla takvim
+(Ek fıkra:8/4/2022-7394/4 md.) Bu maddede düzenlenen suçların birden fazla takvim
 yılı veya vergilendirme dönemi içinde aynı suç işleme kararının icrası kapsamında işlenmesi
 halinde, Türk Ceza Kanununun 43 üncü maddesi uygulanır.
 Kaçakçılık suçlarını işleyenler hakkında bu maddede yazılı cezaların uygulanması 344
 üncü maddede yazılı vergi ziyaı cezasının ayrıca uygulanmasına engel teşkil etmez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

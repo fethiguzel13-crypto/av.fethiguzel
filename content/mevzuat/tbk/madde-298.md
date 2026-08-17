@@ -11,14 +11,8 @@ wordCount: 4281
 
 ---
 
-Madde 298 - Aksi kararlaştırılmamışsa, dönemsel edimleri içeren bağışlama,
+MADDE 298- Aksi kararlaştırılmamışsa, dönemsel edimleri içeren bağışlama,
 bağışlayanın ölümüyle sona erer.
-
-DÖRDÜNCÜ BÖLÜM
-Kira Sözleşmesi
-
-BİRİNCİ AYIRIM
-Genel Hükümler
 
 ---
 

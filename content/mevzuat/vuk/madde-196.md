@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**İşletme hesabı hulasası**
+**İşletme hesabı hulasası:**
 
 ---
 
@@ -21,9 +21,8 @@ B) Hasılat tablosuna:
 1. Hesap dönemi zarfında satılan emtianın değeri ile hizmet karşılığı ve sair suretle
 alınan paralar;
 2. Çıkarılan envantere göre hesap dönemi sonundaki emtia mevcudunun değeri.
-Kambiyo Senetleri Defteri:
-Mükerrer Madde 196 – (Ek: 24/6/1994-4008/4 md.; Mülga: 22/7/1998-4369/82
-md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

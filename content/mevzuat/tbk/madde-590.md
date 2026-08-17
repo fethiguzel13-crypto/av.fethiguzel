@@ -11,7 +11,7 @@ wordCount: 4261
 
 ---
 
-Madde 590 - Borçlunun iflası sebebiyle asıl borç daha önce muaccel olsa bile,
+MADDE 590- Borçlunun iflası sebebiyle asıl borç daha önce muaccel olsa bile,
 belirlenen vadeden önce kefile karşı takibat yapılamaz.
 Bütün kefalet türlerinde kefil, ayni güvence karşılığında hâkimden, mevcut rehinler paraya
 çevrilinceye ve borçlu aleyhine yapılan takip sonucunda kesin aciz belgesi alınıncaya veya

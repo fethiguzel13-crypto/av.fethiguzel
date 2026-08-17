@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**Teminat tedbirleri**
+**Teminat tedbirleri:**
 
 ---
 
@@ -22,6 +22,8 @@ ehemmiyeti haiz evrakı muhafaza altına alır.
 Başka malları defter tutuluncıya kadar mühürler. Daire lüzum görürse defter
 tutulduktan sonra tekrar mühürler.
 Daire müflisin kullandığı yerler haricinde bulunan eşyayı da muhafaza altına alır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

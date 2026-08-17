@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4280
 ---
 
-**Madde 1051**
+**ccc) İpoteğin süresinin dolması**
 
 ---
 
-Madde 1051 - (1) Belli bir sü re için kurulan ipotek, bu sürenin dolması ile düşer. cc) Mahkemece ipoteğin düşmesine karar verilmesi aaa) Alacaklının belli olmaması hâlinde
+MADDE 1051- (1) Belli bir süre için kurulan ipotek, bu sürenin dolması ile düşer.
 
 ---
 

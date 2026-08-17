@@ -5,6 +5,11 @@
   "versionCode": 1,
   "name": "Vatandaş Hukuku",
   "lang": "tr",
-  "entry": "https://www.avfethiguzel.com/bilgi?app=rehber&lang=tr&utm_source=android_app&utm_medium=rehber",
-  "builtAt": "2026-08-14T15:06:11.060Z"
+  "accent": "#6B4F3A",
+  "linkPaths": [
+    "/bilgi",
+    "/rehber"
+  ],
+  "scheme": "avfethiguzel-rehber",
+  "builtAt": "2026-08-15T05:12:10.924Z"
 }

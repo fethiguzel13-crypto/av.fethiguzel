@@ -7,12 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**çağrılarak o iş hakkında gerekli izahatı verir ve oya katılırlar.**
-
----
-
 Madde 60 – İdare kurulları, idari, istişari ve kazai olmak üzere türlü karar alırlar.
 İdare kurullarının idari yetkileri kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuatla
+kendilerine verilen vazifelerdir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4278
 ---
 
-**Zamanaşımının işlememesi**
+**Zamanaşımının işlememesi:**
 
 ---
 
@@ -16,6 +16,8 @@ terekesinin tasfiyesi dolayısiyle hakkında takibat yapılmasına imkan yoksa b
 müddetince zamanaşımı işlemez.
 Zamanaşımı, işlememesi sebeplerinin kalktığı günün bitmesinden itibaren başlar veya
 durmasından evvel başlamış olan cereyanına devam eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

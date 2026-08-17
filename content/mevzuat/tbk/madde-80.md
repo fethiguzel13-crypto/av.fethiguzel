@@ -11,7 +11,7 @@ wordCount: 4313
 
 ---
 
-Madde 80 - Zenginleşen iyiniyetli ise, yaptığı zorunlu ve yararlı giderleri, geri verme
+MADDE 80- Zenginleşen iyiniyetli ise, yaptığı zorunlu ve yararlı giderleri, geri verme
 isteminde bulunandan isteyebilir.
 Zenginleşen iyiniyetli değilse, zorunlu giderlerinin ve yararlı giderlerinden sadece geri
 verme zamanında mevcut olan değer artışının ödenmesini isteyebilir.

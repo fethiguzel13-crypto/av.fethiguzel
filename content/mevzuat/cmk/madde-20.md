@@ -14,6 +14,8 @@ wordCount: 4271
 Madde 20 – (1) Yetkili olmayan hâkim veya mahkemece yapılan işlemler, sadece
 yetkisizlik nedeniyle hükümsüz sayılmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

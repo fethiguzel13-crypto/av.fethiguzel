@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Suçun mağduru ile şikâyetçinin çağırılması**
+**DÖRDÜNCÜ KİTAP
+Mağdur, Şikâyetçi, Malen Sorumlu, Katılan
+BİRİNCİ KISIM
+Suçun Mağduru ile Şikâyetçinin Hakları
+Suçun mağduru ile şikâyetçinin çağırılması**
 
 ---
 
@@ -17,7 +21,9 @@ Kovuşturma evresine geçildiğinde çağrı kâğıdına iddianame eklenir. Ayr
 ilişkin bilgiler ve duruşma tarihi; telefon, telgraf, faks, elektronik posta gibi iletişim bilgilerinin
 dosyada bulunması hâlinde bu araçlardan yararlanılmak suretiyle de bildirilir.
 (2) Bu hususta yapılacak çağrı ve zorla getirme bakımından tanıklara ilişkin hükümler
-uygulanır.79
+uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

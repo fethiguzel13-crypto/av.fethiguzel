@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**Kurulun bütçesi, harcama ve işlemlerinin denetimi22**
+**Kurulun bütçesi, harcama ve işlemlerinin denetimi**
 
 ---
 
@@ -18,20 +18,13 @@ hükümlerinde belirlenen usul ve esaslara göre hazırlanır ve kabul edilir.
 yapılacak Hazine yardımlarından karşılanır.
 (3) İhraççılar veya halka arz edenler, Kurul bütçesine gelir kaydedilmek üzere, satışı
 yapılacak sermaye piyasası araçlarının varsa nominal değerinden aşağı olmamak üzere ihraç
-2/7/2018 tarihli ve 703 sayılı KHK’nin 165 inci maddesiyle, bu fıkrada yer alan “Bakanlar
-Kuruluna” ibaresi “Cumhurbaşkanlığına” şeklinde değiştirilmiştir.
-22
-26/6/2024 tarihli ve 7518 sayılı Kanunun 16 ncı maddesi ile bu maddeye dördüncü fıkradan sonra
-gelmek üzere fikra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
-21
-
-değerinin binde üçü tutarında ücret yatırmak zorundadır. Yatırım fonlarının ve değişken
+değerinin binde üçü tutarında ücret yatırmak zorundadır. Yatırım fonlarının ve değişken
 sermayeli yatırım ortaklıklarının üçer aylık dönemlerin son iş gününde, net varlık değerlerinin
 yüz binde beşi tutarındaki ücret, izleyen on iş günü içinde Kurul hesabına yatırılır. Bu fıkrada
 belirtilen oranları aşmamak kaydıyla, sermaye piyasası aracının niteliği, vadesi veya ihraççısı
 dikkate alınmak suretiyle Kurul Karar Organı tarafından farklı oranlar belirlenebilir.
 Cumhurbaşkanı alınacak ücretleri kanuni oranlarının iki katını aşmamak üzere artırmaya veya
-kanuni oranlarına indirmeye yetkilidir.23
+kanuni oranlarına indirmeye yetkilidir.
 (4) (Değişik: 27/3/2015-6637/12 md.) 2015 yılı gelirlerinden başlamak üzere, Kurul
 tarafından düzenlenen ve denetlenen borsaların ve diğer teşkilatlanmış piyasaların, merkezî
 takas kurumlarının, merkezî saklama kurumlarının ve MKK’nın faiz gelirleri hariç tüm
@@ -47,7 +40,7 @@ Ancak, bu fıkraya göre yapılacak ödemelerin zamanı ve tutarları, gelirin e
 izleyen takvim yılında Kurulun nakit durumu dikkate alınarak Kurul tarafından en az otuz gün
 öncesinden ilgili kurumlara bildirilir. Bir takvim yılı içinde talep edilmeyen tutarlar izleyen
 yıllarda ödenecek tutara eklenir ve Kurul tarafından aynı usul ile talep edilebilir.
-(5) (Ek:26/6/2024-7518/16 md.)22 Her yıl platformların bir önceki yıl faiz gelirleri
+(5) (Ek:26/6/2024-7518/16 md.)Her yıl platformların bir önceki yıl faiz gelirleri
 hariç tüm gelirlerinin yüzde biri Kurul, yüzde biri de blokzincir ve ilgili bilişim
 teknolojilerinin geliştirilmesinde kullanılmak üzere TÜBİTAK bütçesine ilgili yılın mayıs ayı
 sonuna kadar ödenerek gelir olarak kaydedilir. Bu fıkraya göre yapılacak tahakkuk ve
@@ -61,17 +54,8 @@ giderlerin yapılmasına ilişkin esaslar ile Kurulun iç denetim usul ve esasla
 Kanunun Kurulun tabi olduğu hükümleri saklı kalmak üzere Kurul tarafından çıkarılacak
 yönetmelikle belirlenir.
 Ücretler, mali ve sosyal haklar
-2/7/2018 tarihli ve 703 sayılı KHK’nin 165 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu”
-ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-23
 
-MADDE 131 – (1) Kurul Başkan ve üyeleri ile Kurul personeline 27/6/1989 tarihli ve
-375 sayılı Kanun Hükmünde Kararnamenin ek 11 inci maddesi uyarınca belirlenmiş emsali
-personele mali ve sosyal haklar kapsamında yapılan ödemeler aynı usul ve esaslar
-çerçevesinde ödenir. Kurul Başkan ve üyeleri ile Kurul personeli emeklilik hakları
-bakımından da emsali olarak belirlenen personel ile denk kabul edilir. Emsali personele
-yapılan ödemelerden vergi ve diğer yasal kesintilere tabi olmayanlar bu Kanuna göre de vergi
-ve diğer kesintilere tabi olmaz.
+---
 
 ### Akademik Yorum ve Analiz
 

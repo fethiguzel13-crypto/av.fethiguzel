@@ -7,12 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-**Kadının bekleme süresinin başlangıcı**
+**Teklifin reddolunmasının sonucu:**
 
 ---
 
-MADDE 26- (1) Kadının bekleme süresi, mahkeme kararının kesinleştiği tarihten
-itibaren hüküm ifade eder.
+Madde 26 – (Mülga: 16/11/1989 - 3588/17 md.)
+ÜÇÜNCÜ BÖLÜM
+Birinci, İkinci ve Üçüncü Sınıf Noterliklere Atanma
+16/11/1989 tarih ve 3588 Sayılı Kanunun 2 nci maddesiyle bu Bölüm başlığı "Birinci ve İkinci Sınıf Noterliklere
+
+---
 
 ### Akademik Yorum ve Analiz
 

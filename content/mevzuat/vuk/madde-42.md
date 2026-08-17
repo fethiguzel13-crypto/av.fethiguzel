@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**Ortalama kar hadlerinin tespiti**
+**Ortalama kar hadlerinin tespiti:**
 
 ---
 
@@ -30,6 +30,8 @@ hazırlanacak bir yönetmelikle belirtilir.
 Komisyon, defterdarın yazılı isteği tarihinden başlayarak üç ay içinde takdir işini
 tamamlar, lüzum görülen yerlerde ve hallerde bu süre Maliye Bakanlığınca bir yıla kadar
 uzatılabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

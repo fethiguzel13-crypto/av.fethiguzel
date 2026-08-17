@@ -11,7 +11,7 @@ wordCount: 4264
 
 ---
 
-Madde 271 - Alıcı bir veya daha çok ön ödemede temerrüde düşerse satıcı, ancak
+MADDE 271- Alıcı bir veya daha çok ön ödemede temerrüde düşerse satıcı, ancak
 vadesi gelmiş olan ödemeleri isteyebilir. Bununla birlikte, toplam alacağın en az onda birini
 oluşturan ve birbirini izleyen iki ön ödemenin veya toplam alacağın en az dörtte birini
 oluşturan bir tek ön ödemenin ya da sonuncu ön ödemenin vadesi gelmişse satıcı, ayrıca

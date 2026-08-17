@@ -20,8 +20,7 @@ birlikte denetim faaliyeti icra etmek ya da kendi düzenlemelerinin imkân verdi
 denetim faaliyeti yürütenlere teknik destek verecek şekilde meslek personeli olma şartı
 aranmaksızın nezaret etmek üzere Kurulun talebi üzerine bakanlıklara bağlı, ilgili, ilişkili
 kurum ve kuruluşlar ile diğer kamu kurumlarından bu kurum ve kuruluşların onayı ile
-
-personel görevlendirilebilir. Bu Kanun uyarınca görevlendirilenler bakımından da Kanunun
+personel görevlendirilebilir. Bu Kanun uyarınca görevlendirilenler bakımından da Kanunun
 89 uncu, 90 ıncı, 111 inci ve 113 üncü maddeleri uygulanır.
 (2) Kripto varlık hizmet sağlayıcılarının mali denetimi ve bilgi sistemleri bağımsız
 denetimi Kurulca ilan edilen listede yer alan bağımsız denetim kuruluşlarınca yapılır. Bilgi
@@ -60,8 +59,7 @@ esasları belirlenmesi öngörülen kripto varlıkların bu Kanuna ve ilgili dü
 şekilde satış ya da dağıtımının yapılması hâlinde Kanunun 91 inci ve 92 nci madde
 hükümlerinde öngörülen tedbirler uygulanabilir. Söz konusu aykırılıklarda Kanunun 109 uncu
 maddesinde öngörülen yaptırımlar uygulanır.
-
-(7) Müşterilere ait nakit ve kripto varlıklara ilişkin tedbir, haciz ve benzeri her türlü
+(7) Müşterilere ait nakit ve kripto varlıklara ilişkin tedbir, haciz ve benzeri her türlü
 idari ve adli talepler münhasıran kripto varlık hizmet sağlayıcıları tarafından yerine getirilir.
 Nakit ve kripto varlıkların bilişim sistemleri vasıtasıyla sorgulanması ve elektronik ortamda
 haczi hakkında 2004 sayılı Kanunun 78 inci maddesi uygulanır. 6183 sayılı Kanun
@@ -70,7 +68,8 @@ yapılabilir ve elektronik ortamda haciz tatbik edilebilir. Müşterilere ait na
 ve kripto varlıklara adli makamlarca el konulması hâlinde, el konulan varlıkların Kurulca
 yetkilendirilmiş saklama hizmeti sağlayan kuruluşlar nezdinde oluşturulan cüzdanlarda
 muhafazası için gerekli tüm işlemler adli makamlarca tesis edilir.
-Kanuna aykırı ilan, reklam ve açıklamalarda uygulanacak tedbirler
+
+---
 
 ### Akademik Yorum ve Analiz
 

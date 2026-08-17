@@ -16,6 +16,8 @@ kişilerin taşınır veya taşınmaz malları üzerinde, karşılık ödenmek s
 tasarrufta bulunan kamu görevlisi, fiil daha ağır cezayı gerektiren bir suç oluşturmadığı
 takdirde, altı aydan iki yıla kadar hapis cezası ile cezalandırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

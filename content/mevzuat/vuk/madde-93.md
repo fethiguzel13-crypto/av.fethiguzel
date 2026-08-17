@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**Tebliğ esasları**
+**BEŞİNCİ KISIM
+Tebliğler
+BİRİNCİ BÖLÜM
+Tebliğ Esasları ve Muhataplar
+Tebliğ esasları:**
 
 ---
 
@@ -16,9 +20,8 @@ bilümum vesikalar ve yazılar adresleri bilinen gerçek ve tüzel kişilere pos
 ilmühaberli taahhütlü olarak, adresleri bilinmiyenlere ilan yolu ile tebliğ edilir.
 Şu kadar ki, ilgilinin kabul etmesi şartiyle, tebliğin daire veya komisyonda yapılması
 caizdir.
-2/7/2018 tarihli ve 700 sayılı KHK’nin 46 ncı maddesiyle, bu fıkrada yer alan “Maliye Bakanlığının teklifi
-üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-22
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**Aczin neticeleri**
+**Aczin neticeleri:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 76 – Aciz halindeki borçlu hakkında teminat ve faiz aranmadan 48 inci 
 hükmü tatbik olunabilir.
 Alacaklı tahsil dairesi aciz halindeki borçlunun mali durumunu zamanaşımı süresi
 içinde devamlı olarak takip eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

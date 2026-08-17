@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**Kurumun Para, Evrak ve Malları Üzerinde İşlenen Suçlar**
+**ALTINCI KISIM
+Son Hükümler
+Kurumun Para, Evrak ve Malları Üzerinde İşlenen Suçlar**
 
 ---
 
@@ -17,6 +19,8 @@ Kurumun para, evrak ve her çeşit malları Devlet malı hükmündedir. Kurul Ba
 bakımından kamu görevlisi sayılırlar. Kurul Başkan ve üyeleri ile Kurum personelinin cezai ve
 hukuki sorumluluğuna ilişkin olarak 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununun 104
 üncü maddesi kıyasen uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

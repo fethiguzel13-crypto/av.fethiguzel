@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**Yabancıların nüfus olayları**
+**Stajiyerin sorumluluğu:**
 
 ---
 
-MADDE 21- (Mülga: 19/10/2017-7039/27 md.)
+Madde 21 – Stajiyerler, staj süresi içinde bu kanun ve yönetmelik hükümleri uyarınca
+yaptıkları bütün işlerden dolayı, o işin asıl görevlisi gibi sorumludurlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

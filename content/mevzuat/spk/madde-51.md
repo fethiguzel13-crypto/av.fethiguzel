@@ -18,6 +18,8 @@ rehin olarak kabul etmesine, sermaye artırım ve azaltımı usulüne, pay taahh
 ödenmesine, pay devrine ilişkin kısıtlamalarına, kâr-zarar hesabı ve kârın dağıtımına, yedek
 akçelere ve tasfiyeye ilişkin hükümleri uygulanmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

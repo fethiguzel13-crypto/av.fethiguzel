@@ -28,6 +28,8 @@ paylaşımında bulunma yetkisine sahiptirler. Bu kapsamda yapılan işlem ve ey
 Kanun ve diğer kanunlarda yer alan sır saklama yükümlülüğüne ve gizlilik kurallarına
 aykırılık oluşturmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

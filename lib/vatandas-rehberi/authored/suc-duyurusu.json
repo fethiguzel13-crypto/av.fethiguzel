@@ -1,0 +1,142 @@
+{
+  "slug": "suc-duyurusu-ve-sikayet",
+  "title": "Suç Duyurusu: Nereye Yapılır, Takipsizliğe Nasıl İtiraz Edilir?",
+  "description": "Suç duyurusu nereye ve nasıl yapılır, savcılık takipsizlik verirse ne olur, itiraz süresi ne kadar? CMK m.158 ve m.173 çerçevesinde.",
+  "h1": "Suç duyurusu nasıl yapılır?",
+  "keywords": [
+    "suç duyurusu",
+    "şikayet dilekçesi",
+    "savcılığa başvuru",
+    "takipsizlik kararı",
+    "kovuşturmaya yer olmadığına dair karar",
+    "takipsizliğe itiraz"
+  ],
+  "category": "Ceza",
+  "role": "pillar",
+  "related": [
+    "usulsuz-tebligat-ve-itiraz"
+  ],
+  "links": [
+    {
+      "label": "CMK m.158 — İhbar ve şikâyet",
+      "href": "/mevzuat/cmk/madde-158"
+    },
+    {
+      "label": "CMK m.173 — Karara itiraz",
+      "href": "/mevzuat/cmk/madde-173"
+    }
+  ],
+  "lead": "Suça ilişkin ihbar veya şikâyet Cumhuriyet Başsavcılığına ya da kolluk makamlarına yapılabilir; yazılı olarak veya tutanağa geçirilmek üzere sözlü olarak yapılması mümkündür.",
+  "keyInsight": "Takipsizlik kararı yolun sonu değildir: Suçtan zarar gören, kararın tebliğinden itibaren iki hafta içinde sulh ceza hâkimliğine itiraz edebilir.",
+  "sections": [
+    {
+      "heading": "Nereye başvurulur?",
+      "paragraphs": [
+        "CMK m.158 birden fazla kapı açar. Suça ilişkin ihbar veya şikâyet, Cumhuriyet Başsavcılığına veya kolluk makamlarına yapılabilir.",
+        "Yanlış mercie başvurmak hak kaybına yol açmaz. Valilik veya kaymakamlığa ya da mahkemeye yapılan ihbar veya şikâyet, ilgili Cumhuriyet Başsavcılığına gönderilir.",
+        "Yurt dışındaki vatandaşlar için de bir yol vardır: Yurt dışında işlenip ülkede takibi gereken suçlar hakkında Türkiye’nin elçilik ve konsolosluklarına da ihbar veya şikâyette bulunulabilir.",
+        "Kamu görevlisiyle ilgili suçlarda ayrı bir kanal işler. Bir kamu görevinin yürütülmesiyle bağlantılı olarak işlendiği iddia edilen bir suç nedeniyle ilgili kurum ve kuruluş idaresine yapılan ihbar veya şikâyet, gecikmeksizin ilgili Cumhuriyet Başsavcılığına gönderilir."
+      ],
+      "bullets": [
+        "Cumhuriyet Başsavcılığı",
+        "Kolluk makamları — polis ya da jandarma",
+        "Valilik, kaymakamlık veya mahkeme — savcılığa iletilir",
+        "Elçilik ve konsolosluklar — yurt dışında işlenen suçlarda",
+        "İlgili kurum idaresi — kamu görevi bağlantılı suçlarda"
+      ]
+    },
+    {
+      "heading": "Yazılı mı, sözlü mü?",
+      "paragraphs": [
+        "Kanun biçim konusunda esnektir: İhbar veya şikâyet yazılı veya tutanağa geçirilmek üzere sözlü olarak yapılabilir.",
+        "Sözlü başvuruda tutanak düzenlenmesi zorunludur; anlatımınızın tutanağa doğru geçirildiğini imzalamadan önce okuyup denetlemeniz gerekir.",
+        "Yazılı başvuru genellikle daha güvenlidir. Olayı kendi cümlelerinizle, tarih ve delil sırasıyla anlatmanıza imkân verir; sonradan eksik anlatım tartışması çıkmaz."
+      ]
+    },
+    {
+      "heading": "Dilekçede ne olmalı?",
+      "paragraphs": [
+        "Etkili bir suç duyurusu üç soruya cevap verir: Ne oldu, ne zaman oldu, bunu nasıl ispatlıyorum.",
+        "Olay anlatımı kronolojik ve somut olmalıdır. Nitelendirme yapmak, yani fiilin hangi suçu oluşturduğunu söylemek zorunlu değildir; hukuki nitelendirme savcılığa aittir.",
+        "Delillerin dilekçede sayılması işleri hızlandırır. Tanık adları, kamera kaydının bulunduğu yer, mesaj ve yazışma çıktıları, banka dekontları ve sağlık raporları bu kapsamdadır.",
+        "Kanun bir uyarı da içerir. İhbar ve şikâyet konusu fiilin suç oluşturmadığının herhangi bir araştırma yapılmasını gerektirmeksizin açıkça anlaşılması veya ihbar ve şikâyetin soyut ve genel nitelikte olması durumunda soruşturma yapılmasına yer olmadığına karar verilir; bu durumda şikâyet edilen kişiye şüpheli sıfatı verilmez.",
+        "Soyut ve genel bir dilekçe bu nedenle dosyayı daha başlamadan bitirir. Somutlaştırma, başvurunun en kritik parçasıdır."
+      ]
+    },
+    {
+      "heading": "Takipsizlik kararı verilirse",
+      "paragraphs": [
+        "Savcılık soruşturma sonunda kovuşturmaya yer olmadığına karar verebilir. Bu karar dosyanın kapanması anlamına gelir ama kesin değildir.",
+        "CMK m.173 itiraz yolunu açar: Suçtan zarar gören, kovuşturmaya yer olmadığına dair kararın kendisine tebliğ edildiği tarihten itibaren iki hafta içinde, bu kararı veren Cumhuriyet savcısının yargı çevresinde görev yaptığı ağır ceza mahkemesinin bulunduğu yerdeki sulh ceza hâkimliğine itiraz edebilir.",
+        "İtirazın içeriği de belirlenmiştir: İtiraz dilekçesinde, kamu davasının açılmasını gerektirebilecek olaylar ve deliller belirtilir. Yalnız karara katılmadığını söylemek yeterli değildir.",
+        "Hâkimlik dosyayı yeterli görmezse araştırmayı derinleştirebilir. Sulh ceza hâkimliği, kararını vermek için soruşturmanın genişletilmesine gerek görürse bu hususu açıkça belirtmek suretiyle o yer Cumhuriyet başsavcılığından talepte bulunabilir."
+      ]
+    },
+    {
+      "heading": "Süreler ve tebligat",
+      "paragraphs": [
+        "İki haftalık itiraz süresi kararın size tebliğ edildiği tarihten işler. Bu nedenle adres bilgilerinizin güncel olması ve tebligatı takip etmeniz önem taşır.",
+        "Tebligat usulsüz yapılmışsa süre farklı işleyebilir; usulsüz tebligat iddiası burada da geçerlidir ve öğrenme tarihinin ispatı belirleyici olur.",
+        "Şikâyete bağlı suçlarda ayrıca bir şikâyet süresi bulunur ve bu süre suçun öğrenilmesinden itibaren işler. Somut suç tipine göre değiştiğinden, dilekçe hazırlanmadan önce bu sürenin kontrol edilmesi gerekir."
+      ]
+    },
+    {
+      "heading": "Sık yapılan hatalar",
+      "paragraphs": [
+        "Birinci hata soyut dilekçedir. \"Hakkımı yediler\" biçiminde genel bir anlatım, araştırma yapılmasına dahi gerek görülmeden soruşturma yapılmasına yer olmadığı kararıyla sonuçlanabilir.",
+        "İkincisi, delilleri sonraya bırakmaktır. Kamera kayıtları kısa sürede silinir; dilekçede kaydın yerini belirtip muhafazasını istemek çoğu dosyada belirleyici olur.",
+        "Üçüncüsü, takipsizlik kararını kabullenmektir. İki haftalık itiraz süresi kısadır ve kaçırıldığında karar kesinleşir."
+      ]
+    }
+  ],
+  "steps": [
+    "Olayı tarih sırasıyla ve somut biçimde yazın; nitelendirmeyi savcılığa bırakın.",
+    "Delillerinizi sayın: tanık, kamera kaydı, mesaj, dekont, rapor.",
+    "Kamera kaydı varsa dilekçede yerini belirtip muhafazasını talep edin.",
+    "Dilekçenizi Cumhuriyet Başsavcılığına ya da kolluğa verin; sözlü başvuruda tutanağı okuyup imzalayın.",
+    "Başvuru kaydını ve soruşturma numarasını alın.",
+    "Takipsizlik kararı gelirse tebliğ tarihini not edin.",
+    "İki hafta içinde sulh ceza hâkimliğine itiraz edin; dilekçede kamu davasının açılmasını gerektiren olay ve delilleri gösterin."
+  ],
+  "checklist": [
+    "Kimlik ve iletişim bilgileri",
+    "Olay anlatımı — tarih ve yer bilgisiyle",
+    "Tanık ad ve adresleri",
+    "Yazışma, mesaj ve ekran görüntüleri",
+    "Sağlık raporu — varsa",
+    "Kamera kaydının bulunduğu yer bilgisi",
+    "Takipsizlik kararı ve tebliğ belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Suç duyurusu nereye yapılır?",
+      "a": "Cumhuriyet Başsavcılığına veya kolluk makamlarına. Valilik, kaymakamlık ya da mahkemeye yapılan başvuru da ilgili savcılığa gönderilir."
+    },
+    {
+      "q": "Dilekçe yazmak zorunda mıyım?",
+      "a": "Hayır. İhbar veya şikâyet yazılı olarak ya da tutanağa geçirilmek üzere sözlü olarak yapılabilir."
+    },
+    {
+      "q": "Hangi suçtan şikâyetçi olduğumu yazmam gerekir mi?",
+      "a": "Zorunlu değildir. Olayı somut biçimde anlatmanız yeterlidir; hukuki nitelendirme savcılığa aittir."
+    },
+    {
+      "q": "Savcılık takipsizlik verdi, ne yapabilirim?",
+      "a": "Kararın tebliğinden itibaren iki hafta içinde sulh ceza hâkimliğine itiraz edebilirsiniz. Dilekçede kamu davasının açılmasını gerektirebilecek olay ve delilleri göstermelisiniz."
+    },
+    {
+      "q": "İtirazı hangi hâkimliğe yaparım?",
+      "a": "Kararı veren Cumhuriyet savcısının yargı çevresinde görev yaptığı ağır ceza mahkemesinin bulunduğu yerdeki sulh ceza hâkimliğine."
+    },
+    {
+      "q": "Şikâyetim soyut bulunursa ne olur?",
+      "a": "İhbar veya şikâyetin soyut ve genel nitelikte olması durumunda soruşturma yapılmasına yer olmadığına karar verilir; bu durumda şikâyet edilen kişiye şüpheli sıfatı verilmez."
+    },
+    {
+      "q": "Yurt dışındayım, nasıl başvurabilirim?",
+      "a": "Yurt dışında işlenip ülkede takibi gereken suçlar hakkında Türkiye’nin elçilik ve konsolosluklarına ihbar veya şikâyette bulunabilirsiniz."
+    }
+  ],
+  "updated": "2026-08-16",
+  "sitemapPriority": 0.93
+}

@@ -17,9 +17,6 @@ sebeple faaliyetine son veren ve işyerini kapatan işveren, işyerinin unvan ve
 işçi sayısını, çalışma konusunu, işin başlama veya bitme gününü, kendi adını ve soyadını yahut
 unvanını, adresini, varsa işveren vekili veya vekillerinin adı, soyadı ve adreslerini bir ay içinde
 bölge müdürlüğüne bildirmek zorundadır.
-1 2/7/2018 tarihli ve 700 sayılı KHK’nin 145 inci maddesiyle, bu fıkrada yer alan “kanunun verdiği yetkiye” ibaresi “Cumhurbaşkanlığı kararnamesine” şeklinde değiştirilmiştir.
-
-
 (Değişik ikinci fıkra: 15/5/2008-5763/1 md.) Bu Kanunun 2 nci maddesinin altıncı
 fıkrasına göre iş alan alt işveren; kendi işyerinin tescili için asıl işverenden aldığı yazılı alt
 işverenlik sözleşmesi ve gerekli belgelerle birlikte, birinci fıkra hükmüne göre bildirim
@@ -33,7 +30,7 @@ temyizi hâlinde Yargıtay altı ay içinde kesin olarak karar verir. Kamu idare
 raporlara karşı yetkili iş mahkemelerine itiraz edilmesi ve mahkeme kararlarına karşı diğer
 kanun yollarına başvurulması zorunludur. Rapora otuz iş günü içinde itiraz edilmemiş veya
 mahkeme muvazaalı işlemin tespitini onamış ise tescil işlemi iptal edilir ve alt işverenin
-işçileri başlangıçtan itibaren asıl işverenin işçileri sayılır.23
+işçileri başlangıçtan itibaren asıl işverenin işçileri sayılır.
 (Ek fıkra:11/6/2003-4884/10 md.) Ancak, şirketlerin tescil kayıtları ise ticaret sicili
 memurluklarının gönderdiği belgeler üzerinden yapılır ve bu belgeler ilgili ticaret sicili
 memurluğunca bir ay içinde Çalışma ve Sosyal Güvenlik Bakanlığı ilgili bölge müdürlüklerine
@@ -42,6 +39,8 @@ gönderilir.
 bildirimi ve işyerinin tescili ile yapılacak sözleşmede bulunması gerekli diğer hususlara ilişkin
 usul ve esaslar, Çalışma ve Sosyal Güvenlik Bakanlığı tarafından çıkarılacak yönetmelikle
 belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

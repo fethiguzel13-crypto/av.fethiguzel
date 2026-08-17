@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**Vergi ziyaı cezası**
+**İKİNCİ KISIM
+Vergi Cezaları
+BİRİNCİ BÖLÜM
+Vergi Ziyaı Cezası
+Vergi ziyaı cezası**
 
 ---
 
@@ -27,6 +31,8 @@ mesleki faaliyette bulunmak suretiyle vergi ziyaına sebebiyet verilmesi durumun
 ikinci ve üçüncü fıkralara göre kesilecek vergi ziyaı cezası yüzde elli artırılarak uygulanır.
 Aynı vergi türü ve dönemine ilişkin daha sonra yapılacak tarhiyatlar nedeniyle kesilecek
 vergi ziyaı cezalarına da aynı artırım hükmü tatbik edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

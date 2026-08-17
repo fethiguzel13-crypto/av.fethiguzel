@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
-**Madde 1031**
+**bbb) Üçüncü kişiler aleyhine**
 
 ---
 
-Madde 1031 - (1) Üçüncü kişinin fiili sebebiyle geminin, ipo teğin sağladığı teminatı tehlikeye düşürecek derecede kötüleşmesinden kaygı duyulursa, alacaklı, üçüncü kişi aleyhine ancak bu fiilin önlenmesi davasını açabilir. bb) Malikin hakları aaa) Def’ide bulunma hakkı
+MADDE 1031- (1) Üçüncü kişinin fiili sebebiyle geminin, ipoteğin sağladığı teminatı
+tehlikeye düşürecek derecede kötüleşmesinden kaygı duyulursa, alacaklı, üçüncü kişi aleyhine
+ancak bu fiilin önlenmesi davasını açabilir.
 
 ---
 

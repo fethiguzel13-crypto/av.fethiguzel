@@ -11,7 +11,7 @@ wordCount: 4261
 
 ---
 
-Madde 57 - Gerçek olmayan haberlerin yayılması veya bu tür ilanların yapılması ya
+MADDE 57- Gerçek olmayan haberlerin yayılması veya bu tür ilanların yapılması ya
 da dürüstlük kurallarına aykırı diğer davranışlarda bulunulması yüzünden müşterileri azalan
 veya onları kaybetme tehlikesiyle karşılaşan kişi, bu davranışlara son verilmesini ve kusurun
 varlığı hâlinde zararının giderilmesini isteyebilir.

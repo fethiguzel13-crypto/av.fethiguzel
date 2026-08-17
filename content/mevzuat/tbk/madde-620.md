@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**A. Tanımı**
+**ONSEKİZİNCİ BÖLÜM
+Adi Ortaklık Sözleşmesi
+A. Tanımı**
 
 ---
 
-Madde 620 - Adi ortaklık sözleşmesi, iki ya da daha fazla kişinin emeklerini ve
+MADDE 620- Adi ortaklık sözleşmesi, iki ya da daha fazla kişinin emeklerini ve
 mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir.
 Bir ortaklık, kanunla düzenlenmiş ortaklıkların ayırt edici niteliklerini taşımıyorsa, bu
 bölüm hükümlerine tabi adi ortaklık sayılır.

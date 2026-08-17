@@ -14,6 +14,8 @@ wordCount: 4274
 Madde 31- Dernekler, defterlerinde ve kayıtlarında ve Türkiye Cumhuriyetinin resmi
 kurumlarıyla yazışmalarında Türkçe kullanırlar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**İhtiyaçların kamu kuruluşlarından karşılanması:20**
+**ÜÇÜNCÜ KISIM
+İhale Usullerine Tabi Olmayan İşler
+İhtiyaçların kamu kuruluşlarından karşılanması:**
 
 ---
 
@@ -24,12 +26,9 @@ sermayesinin yarısından fazlası bu vakıflara ait olan kuruluş, şirket ve m
 d) Özel kanun veya Cumhurbaşkanlığı kararnameleri ile kurulan tüzelkişiliğe sahip ve
 ortaklarının veya kanunların öngördüğü durumlarda ortak olmayanların ürünlerini alan,
 işleyen, değerlendiren iyileştiren, satan, üretim ihtiyaçlarına yarayan araç ve gereçleri
-sağlayan ortaklıklar ve bunlara ait birliklerden,20
-20 2/7/2018 tarihli ve 700 sayılı KHK’nin 81 inci maddesiyle, bu maddenin birinci fıkrasının (2) numaralı bendinin (d) alt bendinde yer alan “Özel kanun” ibaresinden sonra gelmek üzere “veya Cumhurbaşkanlığı kararnameleri” ibaresi eklenmiş ve (e) alt bendinde yer alan “kanunlarla” ibaresi “kanunlar veya Cumhurbaşkanlığı kararnameleriyle” şeklinde değiştirilmiştir.
-
-
-e) Özel kanunlar veya Cumhurbaşkanlığı kararnameleriyle kurulmuş ve kendilerine
-kamu görevi verilmiş tüzelkişiliğe sahip kuruluşlardan,20
+sağlayan ortaklıklar ve bunlara ait birliklerden,
+e) Özel kanunlar veya Cumhurbaşkanlığı kararnameleriyle kurulmuş ve kendilerine
+kamu görevi verilmiş tüzelkişiliğe sahip kuruluşlardan,
 Temini ile ilgili ihale işleri.
 (2) numaralı fıkranın uygulanmasında, ihale konusu mal ve hizmetlerle, taşıma işlerinin
 bizzat o kuruluşlar tarafından üretilmesi ve yapılması zorunludur. Ancak, bu fıkrada yazılı olup
@@ -46,6 +45,8 @@ Satış fiyatları Devletçe veya görevli mercilerce tespit olunan mallar, dağ
 kuruluşlarda bulunmadığı belgelenmek şartıyla bu fiyatlarla en yakın piyasadan da satın
 alınabilir.
 İdarelere zorunluluk yükleyen özel hükümler saklıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

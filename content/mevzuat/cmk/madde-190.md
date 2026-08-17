@@ -17,6 +17,8 @@ ara verilebilir.
 (2) 176 ncı maddede belirlenen süreye uyulmamış ise duruşmaya ara verilmesini
 istemeye hakkı olduğu sanığa hatırlatılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

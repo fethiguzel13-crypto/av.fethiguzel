@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**Madde 244**
+**DÖRDÜNCÜ AYIRIM
+PAYLAŞMALI MAL AYRILIĞI
+A. Yönetim, yararlanma ve tasarruf
+I. Genel olarak**
 
 ---
 
-Madde 244 - Eşlerden her biri, yasal sınırlar içerisinde kendi malvarlığı üzerinde yönetim, yarar lanma ve tasarruf haklarını korur.
+Madde 244- Eşlerden her biri, yasal sınırlar içerisinde kendi malvarlığı üzerinde yönetim,
+yararlanma ve tasarruf haklarını korur.
 
 ---
 

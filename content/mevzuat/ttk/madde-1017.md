@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**4. İpoteğin de recesi**
+**4. İpoteğin derecesi**
 
 ---
 
-Madde 1017 - (1) Gemi üzerindeki ipoteklerin dereceleri, Türk Medenî Kanununun taşınmaz rehni hakkındaki hükümlerine göre belirlenir.
+MADDE 1017- (1) Gemi üzerindeki ipoteklerin dereceleri, Türk Medenî Kanununun
+taşınmaz rehni hakkındaki hükümlerine göre belirlenir.
 
 ---
 

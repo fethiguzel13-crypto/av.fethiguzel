@@ -46,8 +46,7 @@ verilecek destek hizmetleri şunlardır:
 a) Hâkimin isteği üzerine; kişinin geçmişi, ailesi, çevresi, eğitimi, kişisel, sosyal,
 ekonomik ve psikolojik durumu ile diğer kişiler ve toplum açısından taşıdığı risk hakkında
 ayrıntılı sosyal araştırma raporu hazırlayıp sunmak.
-
-b) İlgili makam veya merci tarafından istenilmesi hâlinde, tedbirlerin uygulanmasının
+b) İlgili makam veya merci tarafından istenilmesi hâlinde, tedbirlerin uygulanmasının
 sonuçları ve ilgililer üzerindeki etkilerine dair rapor hazırlamak.
 c) Teşvik edici, aydınlatıcı ve yol gösterici mahiyette olmak üzere kişinin;
 1) Öfke kontrolü, stresle başa çıkma, şiddeti önlemeye yönelik farkındalık sağlayarak
@@ -58,6 +57,8 @@ bozukluğunun olması hâlinde, bir sağlık kuruluşunda muayene veya tedavi ol
 yönelik faaliyetlerde bulunmak.
 (4) Şiddet mağduru ile şiddet uygulayana yönelik hizmetler, zorunlu hâller dışında
 farklı birimlerde sunulur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

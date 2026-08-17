@@ -11,7 +11,9 @@ wordCount: 4281
 
 ---
 
-Madde 86 – (Mülga: 20/6/2012-6331/37 md.)
+Madde 86 - (Mülga: 20/6/2012-6331/37 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

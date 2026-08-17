@@ -23,6 +23,8 @@ getirilmesini durdurmaz.
 (3) Bu Kanuna göre verilen idari para cezalarının, tebliğinden itibaren bir ay içinde
 ödenmesi zorunludur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -12,33 +12,12 @@ wordCount: 4310
 ---
 
 MADDE 36 – (1) Arabuluculuk eğitimi verecek kuruluşların denetlenmesi ile eğitimin
-süresi, içeriği ve standartları, yapılacak olan yazılı (...)14 sınavın ilke ve kurallarının
+süresi, içeriği ve standartları, yapılacak olan yazılı (…)sınavın ilke ve kurallarının
 belirlenmesi, arabulucular sicilinin düzenlenmesi ve arabulucularda aranacak koşullar,
 arabulucuların denetlenmesi ve izlenmesi ile bu Kanunun uygulanmasını gösteren diğer
 hususlar, Bakanlıkça çıkarılacak yönetmeliklerle düzenlenir.
-GEÇİCİ MADDE 1 – (1) Bu Kanunun yayımı tarihinden itibaren iki ay içinde
-kuruluş ve teşkilatlanma tamamlanır.
-(2) Bu Kanunun 31 inci maddesinde öngörülen kurum ve kuruluşlar, Kurulda görev
-13 Bu maddede yer alan kadrolarla ilgili olarak 22/6/2012 tarihli ve 28331 sayılı Resmi Gazete’ye bakınız.
 
-
-yapacak temsilcileri Kanunun yayımı tarihinden itibaren iki ay içinde Genel Müdürlüğe
-bildirirler. İlk üç yıl için Adalet Bakanı tarafından seçilecek üç arabulucu yerine 31 inci
-maddenin birinci fıkrasının (ç), (g) ve (ğ) bentlerindeki kurumlar birer fazla temsilci bildirirler.
-(3) Arabulucu yerine ilgili kurumlardan bildirilen temsilcilerin Kuruldaki görev süresi
-bir yıldır. Adalet Bakanlığı tarafından bu sürenin sonunda seçilecek üç arabulucu ismi Kurula
-bildirilir. Bu şekilde seçimi yapılan arabulucular yerlerine atandıkları Kurul üyelerinin görev
-sürelerini tamamlarlar.
-(4) Birinci fıkrada belirtilen kuruluş ve teşkilatlanmanın tamamlanmasından itibaren
-üç ay içinde Kurul toplanır. Kurulun ilk toplantı tarihi, Kurul üyeleri bakımından üç yıllık
-görev süresinin başlangıcı olarak kabul edilir.
-GEÇİCİ MADDE 2 – (1) Bu Kanunda öngörülen yönetmelikler, Kurulun ilk
-toplantısından itibaren üç ay içinde çıkarılır.
-GEÇİCİ MADDE 3- (Ek:28/3/2023-7445/38 md.)
-(1) Bu maddeyi ihdas eden Kanunla, bu Kanuna eklenen 18/B maddesinin dava şartı
-olarak arabuluculuğa ilişkin hükümleri, bu maddenin yürürlüğe girdiği tarih itibarıyla ilk
-derece mahkemeleri ve bölge adliye mahkemeleri ile Yargıtayda görülmekte olan davalar
-hakkında uygulanmaz.
+---
 
 ### Akademik Yorum ve Analiz
 

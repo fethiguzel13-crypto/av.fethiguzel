@@ -7,12 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**Vali, idare kuruluna başkanlık etmek üzere vali muavinini görevlendirebilir.**
-
----
-
 Madde 58 – İlçe idare kurulu, kaymakamın başkanlığı altında tahrirat katibi,
 malmüdürü, Hükümet hekimi, milli eğitim memuriyle tarım memuru ve veterinerden teşekkül
+eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

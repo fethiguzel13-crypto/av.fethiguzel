@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
-**Görevli ve Yetkili Mahkeme:78**
+**Görevli ve Yetkili Mahkeme:**
 
 ---
 
@@ -18,7 +18,9 @@ Zarar görenin kamu görevlisi olması, bu fıkra hükmünün uygulanmasını ö
 geçitte meydana gelen tren-trafik kazalarında da bu Kanun hükümleri uygulanır.
 Motorlu araç kazalarından dolayı hukuki sorumluluğa ilişkin davalar, sigortacının
 şubesinin veya sigorta sözleşmesini yapan acentenin bulunduğu yer mahkemelerinden birinde
-açılabileceği gibi kazanın vuku bulduğu yer mahkemesinde de açılabilir.79
+açılabileceği gibi kazanın vuku bulduğu yer mahkemesinde de açılabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

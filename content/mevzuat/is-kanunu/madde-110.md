@@ -11,7 +11,12 @@ wordCount: 4306
 
 ---
 
-Madde 110 - Konut kapıcılarının hizmetlerinin kapsam ve niteliği ile çalışma süreleri, hafta tatili, ulusal bayram ve genel tatil günleri, yıllık ücretli izin hakları ve kapıcı konutları ile ilgili hususların düzenlenmesinde uygulanacak değişik şekil ve esaslar Çalışma ve Sosyal Güvenlik Bakanlığınca hazırlanacak bir yönetmelikle düzenlenir.
+Madde 110 - Konut kapıcılarının hizmetlerinin kapsam ve niteliği ile çalışma süreleri,
+hafta tatili, ulusal bayram ve genel tatil günleri, yıllık ücretli izin hakları ve kapıcı konutları
+ile ilgili hususların düzenlenmesinde uygulanacak değişik şekil ve esaslar Çalışma ve Sosyal
+Güvenlik Bakanlığınca hazırlanacak bir yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

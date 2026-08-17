@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**Toplu iş sözleşmesi ve çerçeve sözleşmenin içeriği**
+**YEDİNCİ BÖLÜM
+Toplu İş Sözleşmesinin Genel Esasları
+Toplu iş sözleşmesi ve çerçeve sözleşmenin içeriği**
 
 ---
 
@@ -23,6 +25,8 @@ politikalarına ilişkin düzenlemeleri içerebilir.
 vermesi ile en az bir, en çok üç yıl için yapılır.
 (5) Toplu iş sözleşmeleri ve çerçeve sözleşmeler, Anayasaya ve kanunların emredici
 hükümlerine aykırı düzenlemeler içeremez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

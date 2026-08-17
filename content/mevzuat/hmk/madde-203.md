@@ -24,6 +24,8 @@ e) Bir senedin sahibi elinde beklenmeyen bir olay veya zorlayıcı bir nedenle y
 usulüne göre teslim edilen bir memur elinde veya noterlikte herhangi bir şekilde kaybolduğu
 kanısını kuvvetlendirecek delil veya emarelerin bulunması hâli.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

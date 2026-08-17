@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**Madde 514**
+**I - Hazırlama yükümü**
 
 ---
 
-Madde 514 - (1) Yönetim kurulu, geçmiş hesap dönemine ait, Türkiye M uhasebe Standartlarında öngörülmüş bulunan finansal tablolarını, eklerini ve yönetim kurulunun yıllık faaliyet raporunu, bilanço gününü izleyen hesap döneminin ilk üç ayı içinde hazırlar ve genel kurula sunar.
+MADDE 514- (1) Yönetim kurulu, geçmiş hesap dönemine ait, Türkiye Muhasebe
+Standartlarında öngörülmüş bulunan finansal tablolarını, eklerini ve yönetim kurulunun yıllık
+faaliyet raporunu, bilanço gününü izleyen hesap döneminin ilk üç ayı içinde hazırlar ve genel
+kurula sunar.
 
 ---
 

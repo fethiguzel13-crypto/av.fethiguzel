@@ -11,7 +11,7 @@ wordCount: 4284
 
 ---
 
-Madde 488 - Yayım sözleşmesinin geçerliliği, yazılı şekilde yapılmış olmasına bağlıdır.
+MADDE 488- Yayım sözleşmesinin geçerliliği, yazılı şekilde yapılmış olmasına bağlıdır.
 
 ---
 

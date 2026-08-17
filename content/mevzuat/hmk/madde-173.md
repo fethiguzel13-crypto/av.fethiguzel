@@ -17,6 +17,8 @@ gerektiği hususunu hatırlatır.
 (3) İsticvap esnasında, karşı taraf ve taraf vekilleri hazır bulunabilirler.
 (4) İsticvap olunan taraf, mahkemenin izni olmadıkça, yazılı notlar kullanamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

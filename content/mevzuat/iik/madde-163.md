@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**3 – Devam müddeti**
+**3 – Devam müddeti:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 163 – Takipte bulunan bütün alacaklılar razı olurlarsa yapılan deft
 memuru tarafından iptal olunur.
 Defterin hükmü mahkemece temdit edilmemişse yapıldığı tarihten dört ay sonra
 kendiliğinden ortadan kalkar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

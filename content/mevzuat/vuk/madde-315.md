@@ -7,14 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**Normal amortisman**
+**Normal amortisman:**
 
 ---
 
 Madde 315 – (Değişik: 17/12/2003-5024/3 md.)
 Mükellefler amortismana tâbi iktisadî kıymetlerini, 320 nci maddenin dördüncü fıkrası
 saklı kalmak üzere, Maliye Bakanlığının tespit ve ilân edeceği oranlar üzerinden itfa ederler.
-İlân edilecek oranların tespitinde iktisadî kıymetlerin faydalı ömürleri dikkate alınır.106
+İlân edilecek oranların tespitinde iktisadî kıymetlerin faydalı ömürleri dikkate alınır.
 Azalan bakiyeler usulüyle amortisman:
 Mükerrer Madde 315 – (Ek: 19/2/1963-205/19 md.)
 Bilanço esasına göre defter tutan mükelleflerden dileyenler, amortismana tabi iktisadi
@@ -25,15 +25,12 @@ amortismanlar toplamının tenzili suretiyle tesbit olunur. (Ek hüküm: 17/12/2
 md.) Enflasyon düzeltmesi yapılan dönemlerde, üzerinden amortisman ayrılacak değer,
 amortismana tâbi iktisadî kıymetin düzeltilmiş değerinden daha evvel ayrılmış olan
 amortismanların toplamının taşınmış değerleri indirilmek suretiyle tespit edilir.
-
-14/10/2021 tarihli ve 7338 sayılı Kanunun 32 nci maddesiyle bu fıkraya “kıymetlerini” ibaresinden sonra
-gelmek üzere “, 320 nci maddenin dördüncü fıkrası saklı kalmak üzere,” ibaresi eklenmiştir.
-106
-
-2. (Değişik: 17/12/2003-5024/4 md.) Bu usulde uygulanacak amortisman oranı %
-50'yi geçmemek üzere normal amortisman oranının iki katıdır.107
+2. (Değişik: 17/12/2003-5024/4 md.) Bu usulde uygulanacak amortisman oranı %
+50'yi geçmemek üzere normal amortisman oranının iki katıdır.
 3. Bu usulde amortisman süresi normal amortisman nispetlerine göre hesaplanır.
 Bu sürenin son yılına devreden bakıye değer, o yıl tamamen yok edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

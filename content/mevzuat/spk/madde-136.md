@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**Saklı tutulan hükümler ve istisnalar**
+**SEKİZİNCİ KISIM
+Son ve Geçici Hükümler
+Saklı tutulan hükümler ve istisnalar**
 
 ---
 
@@ -41,17 +43,8 @@ maddesi hükümlerinden muaftır.
 (7) Ürün senetleri ve alivre sözleşmelere ilişkin 18/5/2004 tarihli ve 5174 sayılı
 Türkiye Odalar ve Borsalar Birliği ile Odalar ve Borsalar Kanununun 53 üncü maddesi
 hükümleri saklıdır.
-Çeşitli hükümler
 
-MADDE 137 – (1) 47 nci madde, Cumhurbaşkanı kararı ile MKK nezdinde kayden
-izlenmeyen tüm veya bazı sermaye piyasası araçlarını konu alan teminat sözleşmelerine de
-uygulanabilir.24
-(2) Bu Kanun uyarınca kurulan ve faaliyet gösteren borsalar ve teşkilatlanmış diğer
-pazar yerleri, merkezî takas kuruluşları, merkezî saklama kuruluşları ile MKK tarafından
-yürütülen hizmetlerde grev ve lokavt yapılamaz.
-(3) Halka açık ortaklıkların borsada gerçekleştirilen işlemler neticesinde satın alınan
-paylarının pay defterine kaydedilmesinden imtina edilemez. Bu ortaklıkların borsada işlem
-görmeyen payları için ise 6102 sayılı Kanunun 493 üncü ve 494 üncü maddeleri uygulanır.
+---
 
 ### Akademik Yorum ve Analiz
 

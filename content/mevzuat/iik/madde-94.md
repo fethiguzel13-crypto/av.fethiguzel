@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**İştirak halinde tasarruf edilen mallar**
+**İştirak halinde tasarruf edilen mallar:**
 
 ---
 
@@ -39,12 +39,8 @@ maaşını istifa için icap eden yoklama muamelesini yaptırmıyanlar hakkında
 bildirmek suretiyle tatbik olunur.
 Alacaklının bu sebeple yapacağı kanuni masraflar ayrıca takip ve hükme hacet
 kalmaksızın dairece borçludan tahsil olunur.
-Mahcuz malların muhafazası masrafları:
 
-Madde 95 – Alacaklı haczedilen malların muhafaza ve idare ve işletilmesi
-masraflarını istenildiği takdirde peşin vermeğe mecburdur.
-İstihkak iddiasına itiraz:
-A – Borçlunun zilyedliği:
+---
 
 ### Akademik Yorum ve Analiz
 

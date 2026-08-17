@@ -16,6 +16,8 @@ mahkemelerden verilen ve Türk hukuk düzenine aykırı düşmeyen hükmün, Tü
 göre bir haktan yoksunluğu gerektirmesi halinde, Cumhuriyet savcısının istemi üzerine Türk
 kanunlarındaki sonuçlarının geçerli olmasına karar verir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -17,7 +17,10 @@ azalmış olan kişiye ceza verilmez. Ancak, bu kişiler hakkında güvenlik ted
 (2) Birinci fıkrada yazılı derecede olmamakla birlikte işlediği fiille ilgili olarak
 davranışlarını yönlendirme yeteneği azalmış olan kişiye, ağırlaştırılmış müebbet hapis cezası
 yerine yirmibeş yıl, müebbet hapis cezası yerine yirmi yıl hapis cezası verilir. Diğer hallerde
-verilecek ceza, altıda birden fazla olmamak üzere indirilebilir. (Değişik cümle:24/12/20257571/14 md.) Kişi hakkında ayrıca akıl hastalarına özgü güvenlik tedbirine hükmolunur.
+verilecek ceza, altıda birden fazla olmamak üzere indirilebilir. (Değişik cümle:24/12/2025-
+7571/14 md.) Kişi hakkında ayrıca akıl hastalarına özgü güvenlik tedbirine hükmolunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

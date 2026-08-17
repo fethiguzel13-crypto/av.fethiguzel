@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**Amme alacağının tahsiline engel olanlar**
+**Amme alacağının tahsiline engel olanlar:**
 
 ---
 
@@ -24,7 +24,8 @@ Bu fıkrada yer alan “tahsile yönelik bilgilerin verilmesi sırrın ifşaı s
 dair belgeyi arama zorunluluğu getirilen kurum ve kuruluşlara, ödeme ve işleme taraf olanlara ilişkin borç
 bilgilerinin verilmesi sırrın ifşaı sayılmaz; bu kurum ve kuruluşlarda vazifeli bulunan kimseler edindikleri
 bilgileri ifşa ettikleri takdirde birinci fıkra hükmüne göre cezalandırılırlar.” olarak değiştirilmiştir.
-37
+
+---
 
 ### Akademik Yorum ve Analiz
 

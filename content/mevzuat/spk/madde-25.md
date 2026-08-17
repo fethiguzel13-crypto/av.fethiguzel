@@ -16,6 +16,8 @@ nedeniyle zorunlu pay alım teklifi yapılması ile ilgili usul ve esaslar Kurul
 (2) Pay alım teklifinin Kurul tarafından yasaklandığı durumlarda, yasaklanan teklife
 dayanılarak gerçekleştirilen işlemler geçersizdir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

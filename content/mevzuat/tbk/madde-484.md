@@ -11,7 +11,7 @@ wordCount: 4281
 
 ---
 
-Madde 484 - İşsahibi, eserin tamamlanmasından önce yapılmış olan kısmın karşılığını
+MADDE 484- İşsahibi, eserin tamamlanmasından önce yapılmış olan kısmın karşılığını
 ödemek ve yüklenicinin bütün zararlarını gidermek koşuluyla sözleşmeyi feshedebilir.
 
 ---

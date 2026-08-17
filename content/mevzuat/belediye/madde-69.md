@@ -28,10 +28,9 @@ komisyonu tarafından belirlenecek tutardan aşağı olmamak üzere arsa tahsisi
 Durumları 775 sayılı Gecekondu Kanununun 25 inci maddesine uyan kimselere de bu
 maddeye göre arsa ve konut sağlanabilir. Bu fıkranın uygulama esasları, Çevre ve Şehircilik
 Bakanlığı tarafından hazırlanacak çerçeve yönetmeliğe uygun olarak belediye meclisleri
-41 30/3/2023 tarihli ve 7446 sayılı Kanunun 7 nci maddesiyle bu bentte yer alan “Hazine Müsteşarlığının” ibaresi “Hazine ve Maliye Bakanlığının” şeklinde değiştirilmiştir. 42 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu bent ve fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir. 43 30/3/2023 tarihli ve 7446 sayılı Kanunun 7 nci maddesiyle fıkrada yer alan “Çevre ve Şehircilik Bakanlığına, Maliye Bakanlığına, Devlet Plânlama Teşkilatı Müsteşarlığına ve Hazine Müsteşarlığına” ibaresi “Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, Hazine ve Maliye Bakanlığı ile Strateji ve Bütçe Başkanlığına” şeklinde değiştirilmiştir.
+tarafından çıkarılacak bir yönetmelikle düzenlenir.
 
-
-tarafından çıkarılacak bir yönetmelikle düzenlenir.44
+---
 
 ### Akademik Yorum ve Analiz
 

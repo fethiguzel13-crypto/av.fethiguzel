@@ -7,12 +7,14 @@ lastReviewed: "2026-07-27"
 wordCount: 3626
 ---
 
-**Miras sözleşmesi yapabilmek için ayırt etme gücüne sahip ve ergin olmak,**
+**II. Miras sözleşmesinde**
 
 ---
 
-Madde 503 - Miras sözleşmesi yapabilmek için ayırt etme gücüne sahip ve ergin olmak,
+Madde 503- Miras sözleşmesi yapabilmek için ayırt etme gücüne sahip ve ergin olmak,
 kısıtlı bulunmamak gerekir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

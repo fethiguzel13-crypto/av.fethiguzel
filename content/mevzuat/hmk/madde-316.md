@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**Basit yargılama usulüne tabi dava ve işler**
+**ALTINCI KISIM
+Basit Yargılama Usulü
+Basit yargılama usulüne tabi dava ve işler**
 
 ---
 
@@ -24,8 +26,9 @@ e) Konkordato ve sermaye şirketleri veya kooperatiflerin uzlaşma suretiyle yen
 yapılandırılmasına ilişkin açılacak davalar.
 f) Tahkim hükümlerine göre, mahkemenin görev alanına giren dava ve işler.
 g) Diğer kanunlarda yer alan ve yazılı yargılama usulü dışındaki yargılama usullerinin
+uygulanacağı belirtilen dava ve işler.
 
-uygulanacağı belirtilen dava ve işler.
+---
 
 ### Akademik Yorum ve Analiz
 

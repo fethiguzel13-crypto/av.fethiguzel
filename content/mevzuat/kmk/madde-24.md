@@ -7,14 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**Kriminal laboratuvar**
+**Mahkemenin karar verme yetkisi**
 
 ---
 
-MADDE 24 – (1) Kaçakçılık fiillerinin önlenme, izlenme ve araştırılması
-çerçevesinde görev yapmak üzere Gümrük Müsteşarlığınca kriminal laboratuvarlar kurulur.
-Bu laboratuvarların çalışma usûl ve esasları Gümrük Müsteşarlığınca çıkarılacak yönetmelikle
-belirlenir.
+Madde 24- (1) Kovuşturma konusu fiilin kabahat oluşturduğunun anlaşılması halinde
+mahkeme tarafından idarî yaptırım kararı verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

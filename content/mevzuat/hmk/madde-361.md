@@ -7,15 +7,19 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Temyiz edilebilen kararlar54**
+**İKİNCİ BÖLÜM
+Temyiz
+Temyiz edilebilen kararlar**
 
 ---
 
 MADDE 361- (1) Bölge adliye mahkemesi hukuk dairelerinden verilen temyizi kabil
 nihai kararlar ile hakem kararlarının iptali talebi üzerine verilen kararlara karşı tebliğ
-tarihinden itibaren iki hafta içinde temyiz yoluna başvurulabilir.55
+tarihinden itibaren iki hafta içinde temyiz yoluna başvurulabilir.
 (2) Davada haklı çıkmış olan taraf da hukuki yararı bulunmak şartıyla temyiz yoluna
 başvurabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

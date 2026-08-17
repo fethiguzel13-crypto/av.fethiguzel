@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**Yarışlar**
+**Yarışlar:**
 
 ---
 
@@ -23,13 +23,7 @@ Ticaret Bakanlığı durum ve şartlara göre en az sigorta tutarlarını belirl
 Motorlu araçlar için yapılacak sigortalarda en az sigorta tutarları zorunlu mali sorumluluk
 sigortasındaki tutarlardan az olamaz. Bu Kanunun zarar görenin doğrudan doğruya sigortacıyı
 dava edebilmesine ilişkin 97 nci maddesi hükümleri ile zarar görenlerin birden çok olması
-12/2/2026 tarihli ve 7574 sayılı Kanunun 28 inci maddesiyle 1/1/2027 tarihinde yürürlüğe girmek
-üzere bu maddede değişiklikler yapılmıştır. Söz konusu düzenleme, yürürlüğe girdiği tarihte Mevzuat
-Bilgi Sistemine işlenecek olup mezkur düzenlemeyi görmek için 27/2/2026 tarihli ve 33181 sayılı
-Resmî Gazete’ye bakınız.
-77
-
-haline ilişkin 96 ncı maddesi hükümleri burada da uygulanır.
+haline ilişkin 96 ncı maddesi hükümleri burada da uygulanır.
 Yetkili makamdan izin alınmaksızın düzenlenen bir yarışta vukubulan zararlar, zarara
 sebep olan motorlu aracın sorumluluk sigortacısı tarafından karşılanır. Böyle bir durumda,
 sigortacı, yarış için özel bir sigortanın yapılmamış olduğunu bilen veya gerekli özenin
@@ -40,6 +34,8 @@ hıza göre değerlendirme yapılması öngörülen motorlu araç veya bisiklet 
 uygulanır. Bu hükümler, yarış güzergahının diğer trafiğe kapatılması halinde de geçerlidir.
 İçişleri Bakanlığı bu madde hükümlerinin, başka yarışlar bakımından da uygulanmasına karar
 verebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -12,7 +12,10 @@ wordCount: 4318
 
 ---
 
-Madde 943 - Taşını r rehni, alacaklının zilyet olmaktan çıkması ve onu zilyet olan üçüncü kişiden geri alamaz hâle gelmesiyle son bulur. Taşınır, alacaklının rızasıyla fiilen yalnız rehnedenin hâkimiyeti altında b ulunduğu sürece rehnin hükümleri askıda kalır.
+Madde 943- Taşınır rehni, alacaklının zilyet olmaktan çıkması ve onu zilyet olan üçüncü
+kişiden geri alamaz hâle gelmesiyle son bulur.
+Taşınır, alacaklının rızasıyla fiilen yalnız rehnedenin hâkimiyeti altında bulunduğu sürece
+rehnin hükümleri askıda kalır.
 
 ---
 

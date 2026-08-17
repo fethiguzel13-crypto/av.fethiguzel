@@ -26,6 +26,8 @@ Bakanının başkanlık edeceği ve işçi temsilcilerinin de katılacağı bir 
 bağlanır. Bu kurulun kimlerden teşekkül edeceği, nasıl ve hangi esaslara göre çalışacağı
 çıkarılacak bir yönetmelikte gösterilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4282
 ---
 
-**Bilinen adreslere tebliğ**
+**Bilinen adreslere tebliğ:**
 
 ---
 
 Madde 100 – Bilinen adrese gönderilen mektuplar posta idaresince muhatabına teslim
 edildiği tarihte tebliğ edilmiş sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

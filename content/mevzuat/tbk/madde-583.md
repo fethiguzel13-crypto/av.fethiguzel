@@ -11,7 +11,7 @@ wordCount: 4260
 
 ---
 
-Madde 583 - Kefalet sözleşmesi, yazılı şekilde yapılmadıkça ve kefilin sorumlu
+MADDE 583- Kefalet sözleşmesi, yazılı şekilde yapılmadıkça ve kefilin sorumlu
 olacağı azamî miktar ile kefalet tarihi belirtilmedikçe geçerli olmaz. Kefilin, sorumlu olduğu
 azamî miktarı, kefalet tarihini ve müteselsil kefil olması durumunda, bu sıfatla veya bu
 anlama gelen herhangi bir ifadeyle yükümlülük altına girdiğini kefalet sözleşmesinde kendi el

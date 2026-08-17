@@ -20,6 +20,8 @@ d) Üçüncü derece de dâhil olmak üzere kan veya kendisini oluşturan evlili
 ortadan kalkmış olsa dahi kayın hısımları.
 e) Koruyucu aile ve onların çocukları ile koruma altına alınan çocuk.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

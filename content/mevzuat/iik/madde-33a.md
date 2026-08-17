@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**İlamın zamanaşımına uğradığı iddiası**
+**İlamın zamanaşımına uğradığı iddiası:**
 
 ---
 
@@ -21,8 +21,8 @@ açabilir. Aksi takdirde icrası istenen ilamın zamanaşımına uğradığı hu
 eder.
 İcranın devamına karar verilmesi halinde 33 üncü maddenin son fıkrası burada da
 uygulanır.
-III. Müşterek Hükümler:
-İcranın nereden isteneceği:
+
+---
 
 ### Akademik Yorum ve Analiz
 

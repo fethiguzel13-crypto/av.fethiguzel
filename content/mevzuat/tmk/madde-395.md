@@ -11,7 +11,11 @@ wordCount: 4264
 
 ---
 
-Madde 395 - Malik sağlığında yurda son verebilir. Bunun için malik, tapu küt üğündeki kaydı sildirmek üzere bir dil ekçeyl e mahkemeye başvurur; bu istem mahkemece ilân olunur. İlân tarihinden başlayarak iki ay içinde bir itira z yapılmaz veya yapılan itirazın haksızlığı anlaşı lırsa, mahkeme kütükteki kaydın silinmesine izin verir. Ü ÇÜNCÜ KISIM VESAYET BİRİNCİ BÖLÜM VES AYET D ÜZENİ BİRİNCİ AYIRIM VESAYET ORGANLARI A. Genel olarak
+Madde 395- Malik sağlığında yurda son verebilir.
+Bunun için malik, tapu kütüğündeki kaydı sildirmek üzere bir dilekçeyle mahkemeye
+başvurur; bu istem mahkemece ilân olunur.
+İlân tarihinden başlayarak iki ay içinde bir itiraz yapılmaz veya yapılan itirazın haksızlığı
+anlaşılırsa, mahkeme kütükteki kaydın silinmesine izin verir.
 
 ---
 

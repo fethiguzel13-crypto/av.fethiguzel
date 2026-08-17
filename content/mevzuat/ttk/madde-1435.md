@@ -7,12 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4285
 ---
 
-**b) Beyan yükümlülüğü aa) Sözleşmenin yapılmasında aaa) Genel olarak**
+**b) Beyan yükümlülüğü
+aa) Sözleşmenin yapılmasında
+aaa) Genel olarak**
 
 ---
 
-Madde 1435 - (1) Sigorta ettiren sözleşmenin yapılması sırasında bildiği veya bilmesi gereken tüm önemli hususları sigortacıya bildirmekle yükümlüdür. Sigortacıya bildirilmeyen, ek sik veya yanlış bildirilen hususlar, sözleşmenin yapılmamasını veya değişik şartlarda yapılmasını gerektirecek nitelikte ise, önemli kabul edilir. Sigortacı tarafından yazılı veya sözlü olarak sorulan hususlar, aksi ispat edilinceye kadar önemli sayılır.
-bbb) Yazılı sorular
+MADDE 1435- (1) Sigorta ettiren sözleşmenin yapılması sırasında bildiği veya
+bilmesi gereken tüm önemli hususları sigortacıya bildirmekle yükümlüdür. Sigortacıya
+bildirilmeyen, eksik veya yanlış bildirilen hususlar, sözleşmenin yapılmamasını veya değişik
+şartlarda yapılmasını gerektirecek nitelikte ise, önemli kabul edilir. Sigortacı tarafından yazılı
+veya sözlü olarak sorulan hususlar, aksi ispat edilinceye kadar önemli sayılır.
 
 ---
 

@@ -11,7 +11,7 @@ wordCount: 4305
 
 ---
 
-Madde 438 - İşveren, haklı sebep olmaksızın hizmet sözleşmesini derhâl feshederse
+MADDE 438- İşveren, haklı sebep olmaksızın hizmet sözleşmesini derhâl feshederse
 işçi, belirsiz süreli sözleşmelerde, fesih bildirim süresine; belirli süreli sözleşmelerde ise,
 sözleşme süresine uyulmaması durumunda, bu sürelere uyulmuş olsaydı kazanabileceği
 miktarı, tazminat olarak isteyebilir.

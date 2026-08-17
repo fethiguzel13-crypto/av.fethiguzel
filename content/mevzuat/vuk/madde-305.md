@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4263
 ---
 
-**Mütemmimat**
+**Mütemmimat:**
 
 ---
 
@@ -19,6 +19,8 @@ aynı işte kullanılan arazi;
 İrat takdirinde binaya tabidir.
 Bina ile sınırlanmış olup kullanış tarzı itibariyle de bina ile birlik teşkil eden avlu,
 bahçe ve sair arazi binanın mütemmimatındandır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

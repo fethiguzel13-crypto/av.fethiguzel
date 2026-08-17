@@ -13,6 +13,8 @@ wordCount: 4258
 
 MADDE 21 – Özel vakıf ormanları kurulabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

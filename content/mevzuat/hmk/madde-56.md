@@ -19,6 +19,8 @@ başkalarıyla görüşmekten yasaklanmış olup da kendisi veya vekilinin mahke
 mümkün değilse, o kimse hakkında davayı takip için kayyım atanıncaya kadar yargılama
 ertelenebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

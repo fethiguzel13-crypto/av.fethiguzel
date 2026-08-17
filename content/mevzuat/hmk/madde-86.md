@@ -15,6 +15,8 @@ MADDE 86- (1) Yargılama giderlerini karşılayacak teminata, mahkemece kendili�
 karar verilir. Hâkim, teminat kararı vermeden önce tarafları veya müdahale talebinde bulunan
 kişiyi dinleyebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

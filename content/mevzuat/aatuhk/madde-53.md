@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**Köylerde gecikme zammı**
+**Köylerde gecikme zammı:**
 
 ---
 
@@ -20,6 +20,10 @@ borçlulara bu zam, tahsildarın ilk uğradığı zaman içinde borçlarını ö
 tatbik olunur.
 İKİNCİ KISIM
 Amme alacağının cebren tahsili
+BİRİNCİ BÖLÜM
+Cebren tahsil ve takip esasları
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -39,9 +39,7 @@ eden tutanak, malik veya yetkili temsilcisi ve komisyon üyeleri tarafından imz
 malikin ferağ beyanı ve tapuda idare adına yapılacak tescilin hukuki sebebi sayılır.
 (Değişik altıncı fıkra:20/8/2016-6745/31 md.) İdarece, anlaşma tutanağının tanzim
 tarihinden itibaren en geç kırk beş gün içinde, tutanakta belirtilen bedel hazır edilerek,
-
-
-idarenin anlaşma tutanağı ve kamulaştırma öncesi taşınmaz üzerindeki tüm takyidat ve
+idarenin anlaşma tutanağı ve kamulaştırma öncesi taşınmaz üzerindeki tüm takyidat ve
 haklardan arındırıldığını bildiren yazıya istinaden idare adına tapuya resen tescil veya terkin
 edilir. Tapuya resen tescil veya terkinden sonra kamulaştırma bedeli kendilerine ödenir.
 Bu madde uyarınca satın alınan veya trampa edilen taşınmaz mal, kaynak veya irtifak
@@ -49,6 +47,8 @@ hakkı, sahibinden kamulaştırma yolu ile alınmış sayılır ve bu şekilde y
 veya bedeline karşı itiraz davaları açılamaz.
 Anlaşma olmaması veya ferağ verilmemesi halinde bu Kanunun 10 uncu maddesine
 göre işlem yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

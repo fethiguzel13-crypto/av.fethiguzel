@@ -7,22 +7,17 @@ lastReviewed: "2026-07-27"
 wordCount: 3637
 ---
 
-**(1) Yargılama giderlerine, mahkemece**
+**Yargılama giderlerine hükmedilmesi**
 
 ---
 
-Madde 332 - (1) Yargılama giderlerine, mahkemece
-resen hükmedilir.
+MADDE 332- (1) Yargılama giderlerine, mahkemece resen hükmedilir.
+(2) Yargılama gideri, tutarı, hangi tarafa ve hangi oranda yükletildiği ve dökümü
+hüküm altında gösterilir.
+(3) Hükümden sonraki yargılama giderlerini hangi tarafın ödeyeceği, miktarı ve
+dökümü ile bu giderlerin hangi tarafa yükletileceği, mahkemece ilamın altına yazılır.
 
-(2) Yargılama gideri, tutarı,
-hangi tarafa ve hangi oranda yükletildiği ve dökümü hüküm altında gösterilir.
-
-(3) Hükümden sonraki yargılama
-giderlerini hangi tarafın ödeyeceği, miktarı ve dökümü ile bu giderlerin hangi tarafa yükletileceği,
-mahkemece ilamın altına yazılır.
-
-Avansın
-iadesi
+---
 
 ### Akademik Yorum ve Analiz
 

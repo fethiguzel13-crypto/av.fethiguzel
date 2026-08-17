@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4281
 ---
 
-**Başvuru sahibinin bilgilendirilmesi ve tercümanlık**
+**(7) (Mülga:18/10/2018-7148/35 md.)
+Başvuru sahibinin bilgilendirilmesi ve tercümanlık**
 
 ---
 
@@ -17,6 +18,8 @@ bu yükümlülüklere uymaması ya da yetkililerle iş birliğinde bulunmaması 
 çıkabilecek muhtemel sonuçlar, itiraz usulleri ve süreleri konusunda kayıt esnasında bilgilendirilir.
 (2) Başvuru sahibinin talep etmesi hâlinde, başvuru, kayıt ve mülakat aşamalarındaki
 kişisel görüşmelerde tercümanlık hizmetleri sağlanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

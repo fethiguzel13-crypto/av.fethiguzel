@@ -11,7 +11,9 @@ wordCount: 4295
 
 ---
 
-Madde 847 - Taşınmaz yükü zamanaşımına tâbi değildir. Muaccel olan edimler, borçlunun k işisel borcu hâline geldiği tarihten başlayarak zamanaşımına tâbi olur.
+Madde 847- Taşınmaz yükü zamanaşımına tâbi değildir.
+Muaccel olan edimler, borçlunun kişisel borcu hâline geldiği tarihten başlayarak zamanaşımına
+tâbi olur.
 
 ---
 

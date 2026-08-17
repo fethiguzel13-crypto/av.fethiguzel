@@ -11,7 +11,8 @@ wordCount: 4313
 
 ---
 
-Madde 1236 - (1) Eşya, ancak konişmento nüshasının, eşyanın teslim a lındığına ilişkin şerh düşülerek geri verilmesi karşılığında teslim edilir.
+MADDE 1236- (1) Eşya, ancak konişmento nüshasının, eşyanın teslim alındığına
+ilişkin şerh düşülerek geri verilmesi karşılığında teslim edilir.
 
 ---
 

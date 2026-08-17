@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**C – Adi müflis**
+**C – Adi müflis:**
 
 ---
 
 Madde 314 – Adi müflis masaya kabul edilmiş bütün alacaklıların alacaklarını itfa
 ettiğine dair makbuz veya vesikaları göstererek iflasa karar veren mahkemeden itibarının
 yerine gelmesini isteyebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4282
 ---
 
-**Yaş ve ehliyet şartı**
+**Yaş ve ehliyet şartı:**
 
 ---
 
 Madde 22 – Muhatap yerine kendisine tebliğ yapılacak kimsenin görünüşüne nazaran
-onsekiz yaşından aşağı olmaması ve bariz bir surette ehliyetsiz bulunmaması lazımdır.8
+onsekiz yaşından aşağı olmaması ve bariz bir surette ehliyetsiz bulunmaması lazımdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

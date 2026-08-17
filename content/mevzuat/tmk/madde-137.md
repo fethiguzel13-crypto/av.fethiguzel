@@ -11,7 +11,11 @@ wordCount: 4314
 
 ---
 
-Madde 137 - Evlendirme memuru, evlenme başvurusunu ve buna eklenmes i gereken belgeleri inceler. Başvuruda bir noksanlık gör ürse bunu tamamlar veya tamamlattırır. Başv urun un usulüne uygun olarak yapılmadığı veya evleneceklerden birinin evlenmeye ehil olmadığı ya da evlenmeye yasal bir engel bulunduğu anlaşılırsa, evlenme başvurusu reddolunur ve durum evleneceklere yazıyla hemen bildirilir.
+Madde 137- Evlendirme memuru, evlenme başvurusunu ve buna eklenmesi gereken
+belgeleri inceler. Başvuruda bir noksanlık görürse bunu tamamlar veya tamamlattırır.
+Başvurunun usulüne uygun olarak yapılmadığı veya evleneceklerden birinin evlenmeye ehil
+olmadığı ya da evlenmeye yasal bir engel bulunduğu anlaşılırsa, evlenme başvurusu reddolunur ve
+durum evleneceklere yazıyla hemen bildirilir.
 
 ---
 

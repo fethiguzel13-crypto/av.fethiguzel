@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**Özlük hakları**
+**Özlük hakları:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 20 – Jandarma Genel Komutanlığı personeli; bu Kanunla getirilen hakla
 yanısıra, özlük hakları bakımından, 926 sayılı “Türk Silahlı Kuvvetleri Personel Kanunu”, 657
 sayılı “Devlet Memurları Kanunu” ile genel ve özel düzenleme getiren diğer kanunlarla verilen
 haklardan da yararlanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

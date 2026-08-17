@@ -24,11 +24,13 @@ kazası veya meslek hastalığına bağlı olmaması halinde sigortalının alma
 göremezlik geliri, 34 üncü madde hükümlerine göre hak sahiplerine gelir olarak bağlanır.
 4 üncü maddenin birinci fıkrasının (b) bendine göre sigortalı sayılanların hak
 sahiplerine gelir bağlanabilmesi için, kendi sigortalılığından dolayı, genel sağlık sigortası
-dahil prim ve prime ilişkin her türlü borçlarının ödenmiş olması zorunludur.39
+dahil prim ve prime ilişkin her türlü borçlarının ödenmiş olması zorunludur.
 Gelirin başlangıcı, kesilmesi ve yeniden bağlanmasında 34 üncü ve 35 inci maddeler
 uygulanır.
 37 nci madde hükümlerine göre hak sahiplerine cenaze ve evlenme ödeneği verilir.
 İş kazası ve meslek hastalığı ile hastalık bakımından işverenin ve üçüncü kişilerin
+
+---
 
 ### Akademik Yorum ve Analiz
 

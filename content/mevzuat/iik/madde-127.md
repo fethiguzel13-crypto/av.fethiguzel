@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**Ayrıca tebliğler**
+**Ayrıca tebliğler:**
 
 ---
 
@@ -16,7 +16,9 @@ Madde 127 – (Değişik: 2/7/2012-6352/30 md.)
 ilgililerinin tapuda kayıtlı adresleri varsa bu adreslerine tebliğ olunur. Adresin tapuda kayıtlı
 olmaması hâlinde, varsa adres kayıt sistemindeki adresleri tebligat adresleri olarak kabul
 edilir. Bunların dışında ayrıca adres tahkiki yapılmaz, gazetede veya elektronik satış
-portalında yapılan satış ilanı tebligat yerine geçer.52
+portalında yapılan satış ilanı tebligat yerine geçer.
+
+---
 
 ### Akademik Yorum ve Analiz
 

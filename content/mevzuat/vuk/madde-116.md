@@ -7,12 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Vergi hatası**
+**ÜÇÜNCÜ BÖLÜM
+Vergi Hatalarını Düzeltme ve Reddiyat
+Vergi hatası:**
 
 ---
 
 Madde 116 – Vergi hatası, vergiye mütaallik hesaplarda veya vergilendirmede yapılan
 hatalar yüzünden haksız yere fazla veya eksik vergi istenmesi veya alınmasıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

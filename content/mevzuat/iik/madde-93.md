@@ -7,13 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Mahsullerin toplanması, borçlunun hakkı**
+**(Mülga dördüncü fıkra: 14/1/2011-6103/41 md.)
+Mahsullerin toplanması, borçlunun hakkı:**
 
 ---
 
 Madde 93 – İcra dairesi mahsullerin toplanması için lazım gelen tedbirleri alır.
 Borçlunun geçineceği yoksa kendisinin ve ailesinin geçinmeleri için kafi miktar
 mahsulden veya satıldıkça bedelinden münasip miktar kendisine bırakılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

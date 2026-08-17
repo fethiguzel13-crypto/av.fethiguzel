@@ -11,7 +11,7 @@ wordCount: 4293
 
 ---
 
-Madde 45 - Gaiplik kararı, hâkimin bildirmesi üze rine, ölüm kütüğüne kaydolunur.
+Madde 45- Gaiplik kararı, hâkimin bildirmesi üzerine, ölüm kütüğüne kaydolunur.
 
 ---
 

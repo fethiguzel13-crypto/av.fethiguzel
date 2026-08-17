@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4281
 ---
 
-**Emanet suretiyle yapılacak işler**
+**Emanet suretiyle yapılacak işler:**
 
 ---
 
@@ -26,9 +26,7 @@ ve onarım işleri,
 h) Sözleşmenin bozulması veya tasfiye edilmesi nedeniyle bitirilmemiş olup, süratle
 bitirilmesinde zorunluluk görülen işlerin tamamlanması,
 i) Liman yapımı ve genişletilmesi, tarama yapılması, ulaşım güvenliği için batıkların
-
-
-çıkarılması ve dolgu işleri,
+çıkarılması ve dolgu işleri,
 j) Silahlı Kuvvetlerle, güvenlik kuvvetlerinin araç ve gereçlerinin yapım, onarım ve
 bakımı,
 k) Parasal bağış dışındaki halk katkısının önem taşıması nedeniyle ihaleye konulmadan
@@ -52,9 +50,11 @@ suretiyle, araya bir müteahhit girmeksizin taşaronlara da yaptırılabilir,
 (Değişik: 2/3/1984 - 2990/9 md.) Nevi itibariyle kısımlara ayrılarak taşeronlara verilen
 işlerde: gerekli görülen malzeme taşeron tarafından temin edilmek şartıyla iş yaptırılabilir.
 Emanet komisyonları eliyle yapılabilecek işlere ait uygulama esasları, Cumhurbaşkanınca
-çıkarılacak bir yönetmelikte gösterilir.24
+çıkarılacak bir yönetmelikte gösterilir.
 Yukarıdaki bentlerde sayılan işlerle ilgili olarak idarelere zorunluluk yükleyen özel
 hükümler saklıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

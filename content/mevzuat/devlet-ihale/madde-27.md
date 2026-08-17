@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**Teminat mektupları:10**
+**Teminat mektupları:**
 
 ---
 
@@ -20,6 +20,8 @@ ettirilir. Her teminat mektubunda daha önce ilgili banka şubesince verilen tem
 toplamı ile aynı şubenin limitlerinin de gösterilmesi zorunludur. Yabancı bankaların ve
 benzeri kredi kuruluşlarının kontrgarantilerine dayanarak bankaların verecekleri teminat
 mektupları, yukarıdaki miktarlara dahil değildir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

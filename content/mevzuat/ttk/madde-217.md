@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**A) Sözleşme serbestisi**
+**İKİNCİ BÖLÜM
+Ortaklar Arasındaki İlişkiler
+A) Sözleşme serbestisi**
 
 ---
 
-Madde 217 - (1) Ortakların birbirleriyle olan ilişkilerinin düzenlenmesinde sözleşme serbestisi geçerlidir.
+MADDE 217- (1) Ortakların birbirleriyle olan ilişkilerinin düzenlenmesinde sözleşme
+serbestisi geçerlidir.
 
 ---
 

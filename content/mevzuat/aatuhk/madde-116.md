@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**Kaldırılan kanun ve hükümler**
+**ÜÇÜNCÜ BÖLÜM
+Son hükümler
+Kaldırılan kanun ve hükümler:**
 
 ---
 
@@ -46,10 +48,9 @@ amme alacaklarına mahsup edilinceye kadar (1) numaralı bende göre işlem yap�
 iadelerde indirim uygulanmaz.
 3. İndirim uygulanacak sürelerin hesabında bir ay 30 gün olarak kabul edilir ve
 ödemenin yapıldığı gün dikkate alınmaz.
-
-4. Cumhurbaşkanı; (1) numaralı bentte yazılı oranı sıfıra kadar indirmeye, % 8'e kadar
+4. Cumhurbaşkanı; (1) numaralı bentte yazılı oranı sıfıra kadar indirmeye, % 8'e kadar
 artırmaya, amme alacaklarının nev'i ve vadeleri itibariyle farklı oranlar tespit etmeye
-yetkilidir.3839
+yetkilidir.
 5. Bu madde hükümlerinden yararlanacak amme alacaklarını nev'ileri ve dönemleri
 itibariyle sınırlamaya, münhasıran tahakkuk eden amme alacakları için uygulatmaya,
 indirimin yapılma şekli ve zamanı ile diğer usul ve esasları belirlemeye Maliye Bakanlığı
@@ -77,16 +78,10 @@ yaptıkları tecil talepleri bu Kanunun yürürlüğe girmesinden önce reddedil
 haklarında aynı madde uygulanmış bulunanların (İktisadi Devlet Teşebbüsleri hariç) bu
 Kanunun yürürlük tarihinden itibaren bir ay içinde tahsil dairesine yazı ile müracaat etmeleri
 şartı ile; son durumları yeniden incelenir.
-
 Bu Madde de sözü edilen oranlar için; 8/9/1997 tarih ve 97/9942 Sayılı Bakanlar Kurulu Kararına, R.G:
 20/9/1997 -23116 daha önceki değişiklikler için bu Kanunun sonundaki "ÇEŞİTLİ MEVZUAT İLE YAPILAN
 DEĞİŞİKLİKLER CETVELİ" ne bakınız.
-39
-2/7/2018 tarihli ve 700 sayılı KHK’nin 28 inci maddesiyle, bu bentte yer alan “Bakanlar Kurulu” ibaresi
-“Cumhurbaşkanı” şeklinde değiştirilmiştir.
-38
-
-Bu inceleme sonunda, zor durumda bulundukları anlaşılanların, bakıye borçları (Bu
+Bu inceleme sonunda, zor durumda bulundukları anlaşılanların, bakıye borçları (Bu
 Kanunun şümulüne giren borçlardan 1/1/1962 tarihi ile Kanunun yürürlük tarihi arasında
 cebren veya rızaen tahsilat yapılmış ise taksitlendirilmek suretiyle tecil edilecek miktar borç
 bakıyesidir.) Maliye Bakanlığınca, 48 inci maddedeki iki yıl kaydı ile bağlı olmaksızın; 1962
@@ -123,8 +118,7 @@ geçmesi, teminatın değiştirilmesi ve değerini kaybeden teminatın tamamlanm
 hükümleri mahfuzdur.
 Maliye Bakanlığı bu madde ile tanınan tecil yetkisini kısmen veya tamamen mahalli
 teşkilatına devredebilir.
-
-Tecil şartlarına riayet edilmemesi, vergi tahsil dairelerince yapılacak yazılı tebliğ
+Tecil şartlarına riayet edilmemesi, vergi tahsil dairelerince yapılacak yazılı tebliğ
 üzerine (15) gün içinde değerini kaybeden teminatın veya mahcuz malların tamamlanmaması
 veya yerine başkalarının gösterilmemesi hallerinde amme alacağı muaccel olur.
 Geçici Madde 6 – (Ek: 31/1/1984 - 2975/9 md.)
@@ -152,21 +146,9 @@ Hazineye Ait Taşınmaz Malların Değerlendirilmesi ve Katma Değer Vergisi Kan
 Değişiklik Yapılması Hakkında Kanun kapsamında değerlendirilecek olanlar, 4.1.2002 tarihli
 ve 4734 sayılı Kanunun 6 ncı maddesine göre oluşturulacak komisyon tarafından takdir
 edilecek değeri üzerinden, borçlu kurumun da uygun görüşü alınarak bütçenin gelir ve gider
-hesaplarıyla ilişkilendirilmeksizin Maliye Bakanlığınca satın alınabilir. 40414243
-
-3/4/2013 tarihli ve 6456 sayılı Kanunun 13 üncü maddesiyle, bu fıkrada yer alan “4706 sayılı Hazineye Ait
-Taşınmaz Malların Değerlendirilmesi ve Katma Değer Vergisi Kanununda Değişiklik Yapılması Hakkında
-Kanunun ek 3 üncü maddesi” ibaresi “4706 sayılı Hazineye Ait Taşınmaz Malların Değerlendirilmesi ve Katma
-Değer Vergisi Kanununda Değişiklik Yapılması Hakkında Kanun” şeklinde değiştirilmiştir.
-41
-31/5/2012 tarihli ve 6322 sayılı Kanunun 2 nci maddesiyle, bu fıkrada yer alan “31/12/2014” ibaresi
-“31/12/2023” şeklinde, “genel bütçeye dahil daireler ve katma bütçeli idarelerce” ibaresi “merkezi yönetim
-kapsamındaki kamu idarelerince” şeklinde, “29.1.2004 tarihli ve 5084 sayılı Kanun” ibaresi “29/6/2001 tarihli
-ve 4706 sayılı Hazineye Ait Taşınmaz Malların Değerlendirilmesi ve Katma Değer Vergisi Kanununda
-Değişiklik Yapılması Hakkında Kanunun ek 3 üncü maddesi” şeklinde değiştirilmiştir.
-40
-
-Bu idarelerin satın alınan taşınmazlarının tapu işlemlerine esas olan ve yukarıda
+42434445
+hesaplarıyla ilişkilendirilmeksizin Maliye Bakanlığınca satın alınabilir.
+Bu idarelerin satın alınan taşınmazlarının tapu işlemlerine esas olan ve yukarıda
 belirtilen şekilde tespit edilen değerine eşit tutarda Devlete ait olan ve bu Kanun kapsamına
 giren borçları terkin edilir.
 Bu madde hükmü, yukarıda sayılan kuruluşlar dışında kalan, borcunu ödemede çok
@@ -185,6 +167,8 @@ tespit davası açma hakkı bulunmayanlar ile takip konusu amme alacağının as
 tarafından ödenmiş olması nedeniyle borçlu sıfatı sona ermiş olanlardan, bu Kanunun 58 inci
 maddesinin beşinci fıkrası uyarınca hesaplanmış ve tahsil edilmemiş olan haksız çıkma
 zammının tahsilinden vazgeçilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

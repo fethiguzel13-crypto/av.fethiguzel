@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Hâkim veya başkanın yetkisi**
+**ÜÇÜNCÜ BÖLÜM
+Duruşmanın Düzen ve Disiplini
+Hâkim veya başkanın yetkisi**
 
 ---
 
@@ -17,6 +19,8 @@ hakkının kullanılmasını engellememek koşuluyla salondan çıkarılmasını
 (3) Kişi dışarı çıkarılması sırasında direnç gösterir veya karışıklıklara neden olursa
 yakalanır ve hâkim veya mahkeme tarafından, avukatlar hariç, verilecek bir kararla derhâl dört
 güne kadar disiplin hapsine konulabilir. Ancak çocuklar hakkında disiplin hapsi uygulanmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

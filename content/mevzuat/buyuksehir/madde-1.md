@@ -7,13 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4520
 ---
 
-**Amaç**
+**BÜYÜKŞEHİR BELEDİYESİ KANUNU
+BİRİNCİ BÖLÜM
+Amaç, Kapsam ve Tanımlar
+Amaç**
 
 ---
 
 Madde 1- Bu Kanunun amacı, büyükşehir belediyesi yönetiminin hukukî statüsünü
 düzenlemek, hizmetlerin plânlı, programlı, etkin, verimli ve uyum içinde yürütülmesini
 sağlamaktır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

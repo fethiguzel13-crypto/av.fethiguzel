@@ -8,11 +8,14 @@ wordCount: 4317
 ---
 
 **3. Tescil ve rehin senedi
-a. Rehin senedini düz enleme gereği**
+a. Rehin senedini düzenleme gereği**
 
 ---
 
-Madde 911 - İpotekli borç senedi veya irat senedi için tapu kütüğüne yapılacak tescilden ba şka rehin senedi de düzenlenir. Senet daha sonra düzenlenmiş olsa bile, hukukî sonuçlarını tescil tarihinden başlayarak doğurur.
+Madde 911- İpotekli borç senedi veya irat senedi için tapu kütüğüne yapılacak tescilden
+başka rehin senedi de düzenlenir.
+Senet daha sonra düzenlenmiş olsa bile, hukukî sonuçlarını tescil tarihinden başlayarak
+doğurur.
 
 ---
 

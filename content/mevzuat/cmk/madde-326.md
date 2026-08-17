@@ -17,6 +17,8 @@ giderleri ödemekle yükümlü değildir.
 (2) İştirak halinde işlenmiş bir suç nedeniyle mahkûm edilmiş olanlara, sebebiyet
 verdikleri yargılama giderleri ayrı ayrı yükletilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

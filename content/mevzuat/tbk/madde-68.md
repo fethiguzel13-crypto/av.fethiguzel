@@ -11,7 +11,7 @@ wordCount: 4260
 
 ---
 
-Madde 68 - Bir kişinin hayvanı, başkasının taşınmazı üzerinde bir zarar verdiği
+MADDE 68- Bir kişinin hayvanı, başkasının taşınmazı üzerinde bir zarar verdiği
 takdirde, taşınmazın zilyedi, o hayvanı yakalayabilir, zararı giderilinceye kadar alıkoyabilir;
 hatta durum ve koşullar haklı gösteriyorsa hayvanı diğer yollarla etkisiz hâle getirebilir.
 Bu durumda, taşınmazın zilyedi derhâl hayvan sahibine bilgi vermek ve sahibini

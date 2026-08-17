@@ -16,6 +16,8 @@ açıldığı tarihteki yerleşim yeri mahkemesidir.
 (2) Yerleşim yeri, 22/11/2001 tarihli ve 4721 sayılı Türk Medenî Kanunu hükümlerine
 göre belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,13 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**II
-- Münferit unsurlar
+**II - Münferit unsurlar
 1. Düzenleyenin aynı zamanda muhatap veya emrine ödenecek kişi olması**
 
 ---
 
-Madde 673 - (1) Poliçe bizzat düzenleyenin emrine yazılı olabileceği gibi, bizzat düzenleyen üzerine veya bir üçüncü kişi h esabına da düzenlenebilir.
+MADDE 673- (1) Poliçe bizzat düzenleyenin emrine yazılı olabileceği gibi, bizzat
+düzenleyen üzerine veya bir üçüncü kişi hesabına da düzenlenebilir.
 
 ---
 

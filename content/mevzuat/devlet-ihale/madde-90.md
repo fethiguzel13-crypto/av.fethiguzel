@@ -7,13 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4282
 ---
 
-**Tarım ve orman ürünlerinde tercihli usuller ve tekel maddelerine ilişkin özel hükümler**
-
----
-
 Madde 90 – Tarım ve orman ürünlerinin üretim, imal, kesme, toplama, taşıma gibi
 işlerinde ve bu ürünlerin satışlarında uygulanacak tercihli usullerle, tekel maddelerinin satımı
 ve tekelle ilgili ürünlerin üreticiden alımı hakkında, özel kanunlardaki hükümler saklıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

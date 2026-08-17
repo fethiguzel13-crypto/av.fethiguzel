@@ -16,6 +16,8 @@ yüklenicilerin iş ve işlemlerine, teknik ve mali yapılarına ilişkin olarak
 ve belgeleri ifşa edemezler, kendilerinin veya üçüncü şahısların yararına kullanamazlar. Aksine
 hareket edenler hakkında ilgisine göre 26 veya 28 inci maddede belirtilen müeyyideler uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

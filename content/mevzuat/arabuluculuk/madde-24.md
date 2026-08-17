@@ -19,6 +19,8 @@ belirtilen sebeplerin bulunmadığı hâllerde, verilmiş bulunan iznin geçerli
 defasında üç yıl uzatılabilir. Eğitim kuruluşu, süresi içinde yaptığı başvuru hakkında karar
 verilinceye kadar listede kayıtlı kalır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

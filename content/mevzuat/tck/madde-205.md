@@ -15,6 +15,8 @@ Madde 205- (1) Gerçek bir resmi belgeyi bozan, yok eden veya gizleyen kişi, ik
 yıldan beş yıla kadar hapis cezası ile cezalandırılır. Suçun kamu görevlisi tarafından işlenmesi
 halinde, verilecek ceza yarı oranında artırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

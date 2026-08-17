@@ -11,7 +11,8 @@ wordCount: 4266
 
 ---
 
-Madde 1294 - (1) Çatmada kusurun saptanmasında herhangi bir karine dikkate alınmaz.
+MADDE 1294- (1) Çatmada kusurun saptanmasında herhangi bir karine dikkate
+alınmaz.
 
 ---
 

@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**Madde 411**
+**ÜÇÜNCÜ AYIRIM
+YETKİ
+A. Vesayet işlerinde yetki**
 
 ---
 
-Madde 411 - Vesayet işlerind e yetk i küçüğün v eya kısıtlının yerleşim yerindeki vesayet dairelerine aittir.
+Madde 411- Vesayet işlerinde yetki küçüğün veya kısıtlının yerleşim yerindeki vesayet
+dairelerine aittir.
 
 ---
 

@@ -11,7 +11,7 @@ wordCount: 4271
 
 ---
 
-Madde 605 - Kumar oynayan veya bahse giren kişi tarafından imzalanmış adi borç
+MADDE 605- Kumar oynayan veya bahse giren kişi tarafından imzalanmış adi borç
 veya kambiyo senedi üçüncü bir kişiye devredilmiş olsa bile, hiçbir kimse bunlara dayanarak
 dava açamaz ve takip yapamaz. Kıymetli evrakın iyiniyetli üçüncü kişilere sağladığı haklar
 saklıdır.

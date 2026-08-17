@@ -22,7 +22,8 @@ yapmak üzere teşvik edilir.
 özel televizyon kuruluşları ve radyolar, ayda en az doksan dakika kadınların çalışma yaşamına
 katılımı, özellikle kadın ve çocukla ilgili olmak üzere şiddetle mücadele mekanizmaları ve
 benzeri politikalar konusunda Bakanlık tarafından hazırlanan ya da hazırlattırılan
-bilgilendirme materyallerini yayınlamak zorundadır. Bu yayınlar, asgari otuz dakikası 17.0022.00 saatleri arasında olmak üzere 08.00-22.00 saatleri arasında yapılır ve yayınların
+bilgilendirme materyallerini yayınlamak zorundadır. Bu yayınlar, asgari otuz dakikası 17.00-
+22.00 saatleri arasında olmak üzere 08.00-22.00 saatleri arasında yapılır ve yayınların
 kopyaları her ay düzenli olarak Radyo ve Televizyon Üst Kuruluna teslim edilir. Bu saatler
 dışında yapılan yayınlar aylık doksan dakikalık süreye dâhil edilmez. Bu süreler Radyo ve
 Televizyon Üst Kurulu tarafından denetlenir. Televizyon kuruluşları ve radyolarda
@@ -36,6 +37,8 @@ hazırlayıp koordine edeceği, kadının insan hakları ile kadın erkek eşitl
 programlarına katılmasını sağlar.
 (6) İlköğretim ve ortaöğretim müfredatına, kadının insan hakları ve kadın erkek eşitliği
 konusunda eğitime yönelik dersler konulur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

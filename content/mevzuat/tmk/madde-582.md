@@ -11,7 +11,8 @@ wordCount: 4288
 
 ---
 
-Madde 582 - Cenin, sağ doğmak koşuluyla mirasçı olur. Öl ü doğan çocuk mirasçı olamaz.
+Madde 582- Cenin, sağ doğmak koşuluyla mirasçı olur.
+Ölü doğan çocuk mirasçı olamaz.
 
 ---
 

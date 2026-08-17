@@ -21,6 +21,8 @@ başvurması için uygun bir süre verir. Bu süre içinde görevli mahkemeye ve
 başvurulmadığı takdirde, ilgili taraf bu husustaki iddiasından vazgeçmiş sayılarak esas dava
 hakkında karar verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

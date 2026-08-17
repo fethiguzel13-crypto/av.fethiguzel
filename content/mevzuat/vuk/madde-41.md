@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4281
 ---
 
-**Götürü matrahlara göre dava açma**
+**Götürü matrahlara göre dava açma:**
 
 ---
 
 Madde 41 – (Mülga: 26/12/1993-3946/38 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

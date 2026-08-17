@@ -11,7 +11,7 @@ wordCount: 4294
 
 ---
 
-Madde 278 - Artırma koşullarında aksi kararlaştırılmamışsa, ihale bedelinin peşin
+MADDE 278- Artırma koşullarında aksi kararlaştırılmamışsa, ihale bedelinin peşin
 ödenmesi gerekir.
 İhale bedeli peşin olarak veya artırma koşulları uyarınca ödenmezse satıcı, satıştan
 hemen dönebilir.

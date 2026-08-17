@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**Uzatma:123**
+**Uzatma:**
 
 ---
 
@@ -23,6 +23,9 @@ Müddet bittikten sonra icra mahkemesi kararını verir ve bu karar aynı şartl
 ilan olunur. Fevkalade mühlette olduğu gibi bu karar hakkında da istinaf yoluna
 başvurulabilir.
 Bölge adliye mahkemesi bu halde dosya üzerine kararını verir.
+Refi:
+
+---
 
 ### Akademik Yorum ve Analiz
 

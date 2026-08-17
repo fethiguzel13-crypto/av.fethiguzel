@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**Tescil plakasına göre tutanak düzenlenmesi**
+**Tescil plakasına göre tutanak düzenlenmesi:**
 
 ---
 
@@ -19,9 +19,9 @@ rağmen tartı sistemine girmeden seyrine devam eden ve sürücüsü tespit edil
 tescil plakalarına göre ceza veya suç tutanağı düzenlenir.
 Para cezasının ödenmesi gerektiği hallerde trafik kaydında araç sahibi olarak görülen
 kişiye cezayı ödemesi için posta yoluyla tebligat yapılır, bu şekilde tebliğ edilemeyen
-tuanaklar ilgili tahsil dairesinin ilân asmaya mahsus yerinde liste halinde ilân edilir, ilân
+tutanaklar ilgili tahsil dairesinin ilân asmaya mahsus yerinde liste halinde ilân edilir, ilân
 tarihini takip eden otuzuncu gün tebligat yapılmış sayılır ve bu cezalar 114 ve 115 inci
-maddelerde belirtilen şekilde takip ve tahsil olunur.84
+maddelerde belirtilen şekilde takip ve tahsil olunur.
 (Mülga üçüncü fıkra: 16/6/2009-5904/39 md.)
 (Mülga dördüncü fıkra: 16/6/2009-5904/39 md.)
 (Mülga beşinci fıkra: 16/6/2009-5904/39 md.)
@@ -33,6 +33,8 @@ tarihinde kiralandığının, 26/6/1973 tarihli ve 1774 sayılı Kimlik Bildirme
 karar tutanağı kiracı adına düzenlenerek tebliğ edilir ve ceza kiracıdan tahsil edilir. Ancak bu
 kiralama 4925 sayılı Kanun kapsamında bulunan yetki belgesi sahibi taşımacının sorumluluk
 ve yükümlülüklerini ortadan kaldırmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

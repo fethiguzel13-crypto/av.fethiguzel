@@ -68,7 +68,7 @@ export default function TarifeGuncellemeleriPage() {
                     <h2 className="text-lg font-heading font-bold text-charcoal mb-4">Değişiklik günlüğü</h2>
                     <ul className="space-y-4">
                         {sorted.map((it) => (
-                            <li key={it.id} className="bg-white border border-charcoal/8 rounded-2xl p-5">
+                            <li key={it.id} className="bg-white border border-charcoal/[0.08] rounded-2xl p-5">
                                 <div className="flex flex-wrap gap-2 items-center mb-2">
                                     <span className="text-[10px] font-bold uppercase tracking-wider text-accent">
                                         {it.category}
@@ -109,7 +109,7 @@ export default function TarifeGuncellemeleriPage() {
                         {data.watch.map((w) => (
                             <li
                                 key={w.key}
-                                className="flex flex-col sm:flex-row sm:justify-between gap-1 p-3 rounded-xl bg-white border border-charcoal/8 text-sm"
+                                className="flex flex-col sm:flex-row sm:justify-between gap-1 p-3 rounded-xl bg-white border border-charcoal/[0.08] text-sm"
                             >
                                 <span className="font-semibold text-charcoal">{w.label}</span>
                                 <span className="text-charcoal/45 text-xs">

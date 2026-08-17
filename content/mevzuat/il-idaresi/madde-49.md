@@ -7,10 +7,6 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**bulunmak lazımdır.**
-
----
-
 Madde 49 – (Değişik: 9/7/1953-6125/2 md.)
 Yukarıdaki maddede yazılı vasıfları ve Memurlar Kanununun tesbit ettiği diğer şartları
 haiz olanlar İçişleri Vekaletince nahiye müdürlüğü adaylığına tayin olunarak Vekaletin
@@ -20,6 +16,9 @@ edilenler İçişleri Vekaleti Meslek Kursuna iştirak ettirilir. Bu kursu da ba
 nci maddeye göre asaleten nahiye müdürlüklerine tayin edilirler.
 Kurs süresi bir yıldır. Gerek adaylık devresinde kifayeti tasdik edilmiyenler, gerek
 adaylığını bitirip de kursta başarı gösteremiyenler nahiye müdürlüğüne tayin edilmiyerek
+vazifelerine son verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -31,7 +31,7 @@ belirlenen hususları içeren ön bilgilendirme formu verilmesi zorunludur:
 a) Devre tatil sözleşmeleri
 b) Uzun süreli tatil hizmeti sözleşmeleri
 c) Değişim sözleşmeleri
- ç) Satıcı veya sağlayıcının, devre tatil veya uzun süreli tatil hizmetinin alınıp satılması
+ç) Satıcı veya sağlayıcının, devre tatil veya uzun süreli tatil hizmetinin alınıp satılması
 hususunda tüketiciye yardımcı olduğu yeniden satış sözleşmeleri.
 (5) Mesafeli satış yöntemiyle kurulan sözleşmeler hariç olmak üzere satıcı veya
 sağlayıcı, tüketicinin kendi el yazısıyla sözleşme tarihini yazmasını ve sözleşmeyi
@@ -46,7 +46,7 @@ yasağa rağmen, tüketiciden herhangi bir bedel alınması durumunda alınan be
 derhâl iade edilir. Ayrıca tüketiciyi borç altına sokan her türlü belge tüketici yönünden
 geçersizdir. Devre tatil, uzun süreli tatil hizmeti sözleşmeleri ve bu sözleşmelerle birlikte
 düzenlenmiş olan yeniden satım, değişim ve ilgili diğer tüm sözleşmeler cayma hakkının
-kullanılması ile birlikte kendiliğinden sona erer.14
+kullanılması ile birlikte kendiliğinden sona erer.
 (7) Tüketicinin ödeyeceği bedel, kısmen veya tamamen satıcı veya sağlayıcı ile kredi
 veren arasındaki anlaşmaya dayanılarak bir kredi veren tarafından karşılanıyorsa, tüketicinin
 sözleşmeden cayması ve buna ilişkin bildirimin cayma süresi içinde ayrıca kredi verene de
@@ -56,18 +56,15 @@ yükümlülüğü olmaksızın sona erer.
 olmak üzere tüketicilerle ön ödemeli devre tatil sözleşmesi kurulamaz.
 (9) (Değişik:24/3/2022-7392/8 md.) Devre mülk hakkı veren sözleşmeler hariç olmak
 üzere, devre tatil sözleşmeleri en fazla on yıl için kurulur.
-24/3/2022 tarihli ve 7392 sayılı Kanunun 8 inci maddesiyle bu fıkranın ikinci cümlesinde yer alan
-“Devre mülk hakkı veren sözleşmeler hariç olmak üzere, cayma” ibaresi “Cayma” şeklinde
-değiştirilmiştir.
-14
-
-(10) (Değişik:24/3/2022-7392/8 md.) Tüketici, şahsi hak sağlayan devre tatil
+(10) (Değişik:24/3/2022-7392/8 md.) Tüketici, şahsi hak sağlayan devre tatil
 sözleşmesinden kaynaklanan tatil hakkını belirli bir dönem için kullanmayacağını tatilin
 başlayacağı tarihten en az doksan gün önce sağlayıcıya bildirirse, o dönem için tüketiciden
 herhangi bir isim altında bedel talep edilemez.
 (11) Devre tatil, uzun süreli tatil hizmeti, yeniden satım, değişim sözleşmeleri ve ön
 bilgilendirmenin içeriği, tüketici ile satıcı ve sağlayıcının hak ve yükümlülükleri, cayma hakkı
-(…) ile diğer uygulama usul ve esasları yönetmelikle belirlenir.
+(…)ile diğer uygulama usul ve esasları yönetmelikle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,13 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**A. Tanımı**
+**DOKUZUNCU BÖLÜM
+Vekâlet İlişkileri
+BİRİNCİ AYIRIM
+Vekâlet Sözleşmesi
+A. Tanımı**
 
 ---
 
-Madde 502 - Vekâlet sözleşmesi, vekilin vekâlet verenin bir işini görmeyi veya
+MADDE 502- Vekâlet sözleşmesi, vekilin vekâlet verenin bir işini görmeyi veya
 işlemini yapmayı üstlendiği sözleşmedir.
-
 Vekâlete ilişkin hükümler, niteliklerine uygun düştükleri ölçüde, bu Kanunda
 düzenlenmemiş olan işgörme sözleşmelerine de uygulanır.
 Sözleşme veya teamül varsa vekil, ücrete hak kazanır.

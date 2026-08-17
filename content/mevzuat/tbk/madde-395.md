@@ -12,7 +12,7 @@ I. Bizzat çalışma borcu**
 
 ---
 
-Madde 395 - Sözleşmeden veya durumun gereğinden aksi anlaşılmadıkça, işçi
+MADDE 395- Sözleşmeden veya durumun gereğinden aksi anlaşılmadıkça, işçi
 yüklendiği işi bizzat yapmakla yükümlüdür.
 
 ---

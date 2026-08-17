@@ -11,7 +11,7 @@ wordCount: 4314
 
 ---
 
-Madde 368 - (1) Yönetim kurulu, ticari mümessil ve ticari vekiller atayabilir. 5. Özen ve bağlılık yükümlülüğü MA DDE 369 - (1) Yönetim kurulu üyeleri ve yönetimle görevli üçüncü kişiler, görevlerini tedbirli bir yöneticinin özeniyle yerine getirmek ve şirketin menfaatlerini dürüstlük kurallarına uyarak gözetmek yükümlülüğü altındadırlar. (2) 203 ilâ 205 inci madde hük ümleri saklıdır.
+MADDE 368- (1) Yönetim kurulu, ticari mümessil ve ticari vekiller atayabilir.
 
 ---
 

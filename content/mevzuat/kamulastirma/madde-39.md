@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4280
 ---
 
-**Vergilendirme**
+**K.2003/33 sayılı kararı ile)
+Vergilendirme**
 
 ---
 
@@ -18,6 +19,8 @@ vergi değeri arasındaki fark üzerinden, cezalı emlak vergisi tarh olunur.
 Emlak vergisi beyannamesinin ek süreye rağmen verilmemiş olması halinde, kesinleşen
 kamulaştırma bedeli, kamulaştırmanın yapıldığı yıla ait vergi değeri yerine geçer ve bu değer
 üzerinden cezalı emlak vergisi tarhiyatı yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

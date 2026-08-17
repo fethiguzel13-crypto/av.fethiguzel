@@ -12,7 +12,7 @@ a. Yetkinin sınırlanması ve geri alınması**
 
 ---
 
-Madde 42 - Temsil olunan, hukuki bir işlemden doğan temsil yetkisini her zaman
+MADDE 42- Temsil olunan, hukuki bir işlemden doğan temsil yetkisini her zaman
 sınırlayabilir veya geri alabilir. Ancak, taraflar arasındaki hizmet, vekâlet veya ortaklık
 sözleşmeleri gibi hukuki ilişkilerden doğabilecek haklar saklıdır.
 Temsil olunan, bu hakkından önceden feragat edemez.

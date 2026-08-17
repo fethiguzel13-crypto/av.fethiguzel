@@ -1,13 +1,15 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 
 buildscript {
-    
     repositories {
         google()
         mavenCentral()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:8.7.2'
+        // API 36 için asgari AGP 8.9.1; 8.13 son 8.x sürümü olduğu için
+        // Capacitor/Cordova gradle betikleriyle uyumlu kalırken en olgun seçenek.
+        // AGP 8.13 → Gradle 8.13 (bkz. gradle/wrapper/gradle-wrapper.properties)
+        classpath 'com.android.tools.build:gradle:8.13.0'
         classpath 'com.google.gms:google-services:4.4.2'
 
         // NOTE: Do not place your application dependencies here; they belong
@@ -24,6 +26,6 @@ allprojects {
     }
 }
 
-task clean(type: Delete) {
-    delete rootProject.buildDir
+tasks.register('clean', Delete) {
+    delete rootProject.layout.buildDirectory
 }

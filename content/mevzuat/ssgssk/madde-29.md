@@ -40,6 +40,8 @@ halinde ise öncelikle Ocak ödeme dönemi, daha sonra Temmuz ödeme dönemi iç
 aylıklara uygulanan artış oranları kadar artırılarak, sigortalının aylık başlangıç tarihindeki
 aylığı hesaplanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

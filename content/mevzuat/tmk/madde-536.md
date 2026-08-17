@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**e. Düzenlemeye katılma ya sağı**
+**e. Düzenlemeye katılma yasağı**
 
 ---
 
-Madde 536 - Fiil ehliye ti bulunmayanlar, bir ceza mahkemesi k ararıy la kam u hizmetinden yasaklılar, okur yazar olmayanlar, mirasbırakanın eşi, üstsoy ve altsoy kan hısımlar ı, kardeşleri ve bu kişilerin eşleri, resmî vasiyetnamenin düzenlenmesine memur v eya tanık olarak katılamazl ar. Resmî vasiyetnamenin düzenlenmesi ne kat ılan memura ve tanıklara, bunların üstsoy ve altsoy kan hısımlarına, kardeşlerine ve bu kişilerin eşleri ne o vasiyetname ile kazandırmada bulunulamaz. f. Vasiyetnamenin saklanması Madd e 537 - Resmî vasiyetnameyi düzenleyen memur, vasiyetnamenin aslın ı sakl amakla yükümlüdür.
+Madde 536- Fiil ehliyeti bulunmayanlar, bir ceza mahkemesi kararıyla kamu hizmetinden
+yasaklılar, okur yazar olmayanlar, mirasbırakanın eşi, üstsoy ve altsoy kan hısımları, kardeşleri
+ve bu kişilerin eşleri, resmî vasiyetnamenin düzenlenmesine memur veya tanık olarak
+katılamazlar.
+Resmî vasiyetnamenin düzenlenmesine katılan memura ve tanıklara, bunların üstsoy ve
+altsoy kan hısımlarına, kardeşlerine ve bu kişilerin eşlerine o vasiyetname ile kazandırmada
+bulunulamaz.
 
 ---
 

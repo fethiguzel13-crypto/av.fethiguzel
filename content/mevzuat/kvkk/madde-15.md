@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
-**Şikâyet üzerine veya resen incelemenin usul ve esasları**
+**Şikâyet üzerine veya resen incelemenin usul ve esasları
+(1) Kurul, şikâyet üzerine veya ihlal iddiasını öğrenmesi durumunda**
 
 ---
 
-MADDE 15- (1) Kurul, şikâyet üzerine veya ihlal iddiasını öğrenmesi durumunda
+MADDE 15-
 resen, görev alanına giren konularda gerekli incelemeyi yapar.
 (2) 1/11/1984 tarihli ve 3071 sayılı Dilekçe Hakkının Kullanılmasına Dair Kanunun 6 ncı
 maddesinde belirtilen şartları taşımayan ihbar veya şikâyetler incelemeye alınmaz.
@@ -21,7 +22,7 @@ gerektiğinde yerinde inceleme yapılmasına imkân sağlamak zorundadır.
 (4) Şikâyet üzerine Kurul, talebi inceleyerek ilgililere bir cevap verir. Şikâyet
 tarihinden itibaren altmış gün içinde cevap verilmezse talep reddedilmiş sayılır.
 (5) Şikâyet üzerine veya resen yapılan inceleme sonucunda, ihlalin varlığının
-anlaşılması hâlinde Kurul, tespit ettiği hukuka aykırılıklerin veri sorumlusu tarafından
+anlaşılması hâlinde Kurul, tespit ettiği hukuka aykırılıkların veri sorumlusu tarafından
 giderilmesine karar vererek ilgililere tebliğ eder. Bu karar, tebliğden itibaren gecikmeksizin
 ve en geç otuz gün içinde yerine getirilir.
 (6) Şikâyet üzerine veya resen yapılan inceleme sonucunda, ihlalin yaygın olduğunun
@@ -30,6 +31,8 @@ almadan önce ihtiyaç duyması hâlinde, ilgili kurum ve kuruluşların görü�
 (7) Kurul, telafisi güç veya imkânsız zararların doğması ve açıkça hukuka aykırılık
 olması hâlinde, veri işlenmesinin veya verinin yurt dışına aktarılmasının durdurulmasına karar
 verebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

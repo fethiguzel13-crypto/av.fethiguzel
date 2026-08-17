@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**Tüzel kişilik**
+**İKİNCİ KISIM
+Vakıflarla İlgili Hükümler
+BİRİNCİ BÖLÜM
+Tüzel Kişilik, Ehliyet, Yönetim, Temsil
+Tüzel kişilik**
 
 ---
 
 MADDE 4 – Vakıflar, özel hukuk tüzel kişiliğine sahiptir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

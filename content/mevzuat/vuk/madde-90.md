@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**Devam**
+**Devam:**
 
 ---
 
@@ -18,11 +18,10 @@ gelmiyenler istifa etmiş sayılarak yerlerine yedek üye asil üye olarak getir
 Bu maddenin (3) numaralı bendinin “… milli savunmaya karşı suçlar, devlet sırlarına karşı suçlar ve
 casusluk, … ” bölümü, Anayasa Mahkemesi’nin 25/2/2010 tarihli ve E.: 2008/17, K.: 2010/44 sayılı Kararı ile
 iptal edilmiştir.
-21
-
-Mücbir sebep veya mezuniyetle devam edemiyecek olan asil üyeye yedek üye vekalet
+Mücbir sebep veya mezuniyetle devam edemiyecek olan asil üyeye yedek üye vekalet
 eder.
-(Dördüncü fıkra mülga: 30/12/1980-2365/16 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

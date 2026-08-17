@@ -7,13 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**II
-- Ciro
+**II - Ciro
 1. Şekil**
 
 ---
 
-Madde 648 - (1) Bütün hâllerde ciro, pol içenin cirosuna ilişkin hükümler uyarınca yapılır. (2) Devir için ciro ve senedin zilyetliğinin geçirilmesi yeterlidir.
+MADDE 648- (1) Bütün hâllerde ciro, poliçenin cirosuna ilişkin hükümler uyarınca
+yapılır.
+(2) Devir için ciro ve senedin zilyetliğinin geçirilmesi yeterlidir.
 
 ---
 

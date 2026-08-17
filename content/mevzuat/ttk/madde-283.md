@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**V
-- Tescil ve ilan**
+**V - Tescil ve ilan**
 
 ---
 
-Madde 283 - (1) Tasfiye memurlarının atanmalarına, değiştirilmelerine, görevden alınmalarına ve yetkilerine ilişkin şirket sözleşmesinin hükümleri ile ortaklar veya mahkeme tarafından verilen tasfiyeye ilişkin kararların tescil ve ilanı şarttır.
+MADDE 283- (1) Tasfiye memurlarının atanmalarına, değiştirilmelerine, görevden
+alınmalarına ve yetkilerine ilişkin şirket sözleşmesinin hükümleri ile ortaklar veya mahkeme
+tarafından verilen tasfiyeye ilişkin kararların tescil ve ilanı şarttır.
 
 ---
 

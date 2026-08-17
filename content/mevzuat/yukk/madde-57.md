@@ -13,8 +13,7 @@ wordCount: 4315
 
 MADDE 57 – (1) 54 üncü madde kapsamındaki yabancılar, kolluk tarafından
 yakalanmaları hâlinde, haklarında karar verilmek üzere derhâl valiliğe bildirilir. Bu kişilerden,
-
-sınır dışı etme kararı alınması gerektiği değerlendirilenler hakkında, sınır dışı etme kararı
+sınır dışı etme kararı alınması gerektiği değerlendirilenler hakkında, sınır dışı etme kararı
 valilik tarafından alınır. Değerlendirme ve karar süresi kırk sekiz saati geçemez.
 (2) (Değişik:6/12/2019-7196/77 md.) Hakkında sınır dışı etme kararı alınanlardan;
 kaçma ve kaybolma riski bulunan, Türkiye’ye giriş veya çıkış kurallarını ihlal eden, sahte ya
@@ -50,7 +49,8 @@ Kanunu hükümlerine göre avukatlık hizmeti sağlanır.
 (8) (Ek:6/12/2019-7196/77 md.) İdari gözetim altına alınan yabancıların uyruklarının
 tespit edilmesi amacıyla elektronik ve iletişim cihazları incelenebilir. İnceleme sonucunda
 elde edilen veriler bu amaç dışında kullanılmaz.
-İdari gözetime alternatif yükümlülükler
+
+---
 
 ### Akademik Yorum ve Analiz
 

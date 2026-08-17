@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4278
 ---
 
-**Faiz**
+**Faiz:**
 
 ---
 
@@ -16,6 +16,8 @@ Madde 196 – (Değişik: 9/11/1988-3494/42 md.)
 Rehinle temin edilmemiş alacaklarda ticari olmayan işlerdeki faiz oranı uygulanır.
 Ancak, bu maddeye göre alacaklılara tahakkuk edecek faiz ödemeleri, 195 inci
 maddeye göre hesaplanan ana paralar ödendikten sonra bakiyesi üzerinden yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

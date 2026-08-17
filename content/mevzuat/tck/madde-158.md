@@ -33,7 +33,7 @@ ilişkili olduğunu söylemesi suretiyle,
 İşlenmesi halinde, üç yıldan on yıla kadar hapis ve beşbin güne kadar adlî para cezasına
 hükmolunur. (Ek cümle: 29/6/2005 – 5377/19 md.; Değişik: 3/4/2013-6456/40 md.) Ancak,
 (e), (f), (j), (k) ve (l) bentlerinde sayılan hâllerde hapis cezasının alt sınırı dört yıldan, adli para
-cezasının miktarı suçtan elde edilen menfaatin iki katından az olamaz.71
+cezasının miktarı suçtan elde edilen menfaatin iki katından az olamaz.
 (2) Kamu görevlileriyle ilişkisinin olduğundan, onlar nezdinde hatırı sayıldığından
 bahisle ve belli bir işin gördürüleceği vaadiyle aldatarak, başkasından menfaat temin eden
 kişi, yukarıdaki fıkra hükmüne göre cezalandırılır.
@@ -41,10 +41,14 @@ kişi, yukarıdaki fıkra hükmüne göre cezalandırılır.
 suçların, üç veya daha fazla kişi tarafından birlikte işlenmesi hâlinde verilecek ceza yarı
 oranında; suç işlemek için teşkil edilmiş bir örgütün faaliyeti çerçevesinde işlenmesi hâlinde
 verilecek ceza bir kat artırılır.
+(4) (Ek:16/7/2026-7589/13 md.) Bu madde ile 157 nci maddede yer alan suçlara
+iştirakin, kendisine veya başkasına haksız bir menfaat sağlamak amacıyla kendisine veya
+başkasına ait banka veya kredi kartı gibi ödeme araçlarını ya da banka, aracı kurum, ödeme
+hizmeti sağlayıcıları veya kripto varlık hizmet sağlayıcıları nezdinde bulunan hesabın
+kullanılmasını sağlayan zorunlu bilgileri veya araçları başkasına vermek fiiliyle sınırlı olması
+halinde verilecek ceza yarı oranında indirilir.
 
-24/11/2016 tarihli ve 6763 sayılı Kanunun 14 üncü maddesiyle, bu fıkrada yer alan “iki yıldan yedi
-yıla” ibaresi “üç yıldan on yıla” şeklinde, “(j) ve (k)” ibaresi “(j), (k) ve (l)” şeklinde ve “üç yıldan”
-ibaresi “dört yıldan” şeklinde değiştirilmiştir.
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**İstinaf isteminin hükmü veren mahkemece reddi**
+**(2) (Mülga:2/3/2024-7499/21 md.)
+İstinaf isteminin hükmü veren mahkemece reddi**
 
 ---
 
@@ -17,7 +18,9 @@ buna hakkı yoksa, hükmü veren mahkeme bir kararla dilekçeyi reddeder.
 (2) İstinaf başvurusunda bulunan Cumhuriyet savcısı veya ilgililer, ret kararının
 kendilerine tebliğinden itibaren iki hafta içinde bölge adliye mahkemesinden bu hususta bir
 karar vermesini isteyebilirler. Bu takdirde dosya bölge adliye mahkemesine gönderilir.
-Ancak, bu nedenle hükmün infazı ertelenemez.117
+Ancak, bu nedenle hükmün infazı ertelenemez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -14,6 +14,8 @@ wordCount: 4315
 MADDE 10- (1) Sözleşmeden doğan davalar, sözleşmenin ifa edileceği yer
 mahkemesinde de açılabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

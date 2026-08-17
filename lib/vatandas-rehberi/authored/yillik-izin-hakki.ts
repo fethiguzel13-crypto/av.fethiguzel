@@ -1,0 +1,146 @@
+import type { VatandasArticle } from '../types';
+
+/**
+ * Kaynak doğrulaması — hepsi content-packs/is-kanunu.json.gz resmî metninden:
+ *   4857 m.53  en az bir yıl · vazgeçilemez · 14/20/26 gün · yer altı +4 gün
+ *              · 18 yaş altı ve 50 yaş üstü en az 20 gün
+ *   4857 m.57  izin ücreti izne başlamadan önce peşin veya avans
+ *   4857 m.59  sona ermede kullanılmayan izin ücreti · sona erme tarihindeki
+ *              ücret · zamanaşımı sona erme tarihinden başlar · bildirim
+ *              süresi ve yeni iş arama izni iç içe giremez
+ *   4857 Ek m.3  yıllık izin ücretinde beş yıllık zamanaşımı
+ *
+ * Doğrulama: node scripts/madde.mjs is-kanunu 53-59
+ */
+export const yillikIzinHakki: VatandasArticle = {
+  slug: 'yillik-izin-hakki-ve-ucreti',
+  title: 'Yıllık İzin: Kaç Gün, Ne Zaman Hak Edilir, Ücreti Nasıl Ödenir?',
+  description:
+    'Yıllık ücretli izin kaç gündür, ne zaman hak edilir, kullanılmayan izin paraya çevrilebilir mi, iş bitiminde ücreti nasıl hesaplanır? 4857 sayılı Kanun m.53-59 çerçevesinde.',
+  h1: 'Yıllık izin hakkı ve izin ücreti',
+  keywords: [
+    'yıllık izin',
+    'yıllık izin süreleri',
+    'yıllık izin ücreti',
+    'kullanılmayan izin parası',
+    'izin hakkı kaç gün',
+  ],
+  category: 'İş',
+  role: 'pillar',
+  related: ['kidem-tazminati-nasil-alinir'],
+  links: [
+    { label: 'İş K. m.53 — İzin hakkı ve süreleri', href: '/mevzuat/is-kanunu/madde-53' },
+    { label: 'İş K. m.57 — Yıllık izin ücreti', href: '/mevzuat/is-kanunu/madde-57' },
+    { label: 'İş K. m.59 — Sona ermede izin ücreti', href: '/mevzuat/is-kanunu/madde-59' },
+    { label: 'Yıllık izin hesaplama aracı', href: '/hesaplama/yillik-izin' },
+  ],
+  lead:
+    'Yıllık ücretli izne hak kazanmak için işyerinde, deneme süresi de dâhil olmak üzere en az bir yıl çalışmış olmak gerekir. İzin süresi hizmet süresine göre en az on dört, yirmi veya yirmi altı gündür ve bu haktan vazgeçilemez.',
+  keyInsight:
+    'Yıllık izin çalışırken paraya çevrilemez; ücrete dönüşmesi yalnız iş sözleşmesi sona erdiğinde söz konusu olur.',
+  sections: [
+    {
+      heading: 'Ne zaman hak edilir?',
+      paragraphs: [
+        'Ölçüt bir yıllık çalışmadır. 4857 m.53 uyarınca işyerinde işe başladığı günden itibaren, deneme süresi de içinde olmak üzere en az bir yıl çalışmış olan işçilere yıllık ücretli izin verilir.',
+        'Deneme süresinin bu hesaba dâhil olması önemlidir; iki aylık deneme süresi geçirmiş bir işçi için bir yıl, işe giriş tarihinden itibaren işler.',
+        'Kanun bir de kapsam dışı bırakma yapar: Niteliklerinden ötürü bir yıldan az süren mevsimlik veya kampanya işlerinde çalışanlara yıllık ücretli izinlere ilişkin hükümler uygulanmaz.',
+      ],
+    },
+    {
+      heading: 'Kaç gün izin hakkı doğar?',
+      paragraphs: [
+        'Süreler hizmet süresine bağlı olarak kademelenir ve kanunda yazılı olanlar asgari sürelerdir. Bir yıldan beş yıla kadar, beş yıl dâhil, olanlara on dört günden; beş yıldan fazla on beş yıldan az olanlara yirmi günden; on beş yıl dâhil ve daha fazla olanlara yirmi altı günden az izin verilemez.',
+        'İki grup için özel bir taban vardır. On sekiz ve daha küçük yaştaki işçilerle elli ve daha yukarı yaştaki işçilere verilecek yıllık ücretli izin süresi yirmi günden az olamaz.',
+        'Yer altı işlerinde çalışan işçilerin yıllık ücretli izin süreleri dörder gün artırılarak uygulanır. Ayrıca bütün bu süreler iş sözleşmeleri ve toplu iş sözleşmeleriyle artırılabilir.',
+      ],
+      bullets: [
+        '1-5 yıl (5 dâhil): en az 14 gün',
+        '5 yıldan fazla, 15 yıldan az: en az 20 gün',
+        '15 yıl (dâhil) ve üzeri: en az 26 gün',
+        '18 yaş ve altı ile 50 yaş ve üzeri: en az 20 gün',
+        'Yer altı işleri: yukarıdaki sürelere +4 gün',
+      ],
+    },
+    {
+      heading: 'Vazgeçilemez bir hak',
+      paragraphs: [
+        'Kanun tek cümleyle kesin bir kural koyar: Yıllık ücretli izin hakkından vazgeçilemez.',
+        'Bunun pratik anlamı şudur: İşçinin izin kullanmak istemediğini beyan etmesi ya da izin karşılığı para almayı kabul etmesi hukuken sonuç doğurmaz. İş ilişkisi sürerken izin ücrete dönüştürülemez.',
+        'Uygulamada sık görülen "izin ücretini aldım, izin kullanmayacağım" biçimindeki yazılı beyanlar bu nedenle işçinin izin hakkını ortadan kaldırmaz. İşveren izni fiilen kullandırmakla yükümlüdür.',
+      ],
+    },
+    {
+      heading: 'İzin ücreti ne zaman ödenir?',
+      paragraphs: [
+        'Ödeme izinden önce yapılır. 4857 m.57 uyarınca işveren, yıllık ücretli iznini kullanan her işçiye, yıllık izin dönemine ilişkin ücretini işçinin izne başlamasından önce peşin olarak ödemek veya avans olarak vermek zorundadır.',
+        'Ücreti belirli olmayan işçiler için ayrı bir yöntem öngörülmüştür. Akort, komisyon ücreti, kâra katılma ve yüzde usulü gibi belirli olmayan süre ve tutar üzerinden ücret alan işçinin izin süresi için verilecek ücret, son bir yıllık süre içinde kazandığı ücret esas alınarak hesaplanır.',
+      ],
+    },
+    {
+      heading: 'İş bitiminde kullanılmayan izin',
+      paragraphs: [
+        'İzin hakkı, iş ilişkisi bittiğinde para alacağına dönüşür. 4857 m.59 uyarınca iş sözleşmesinin herhangi bir nedenle sona ermesi hâlinde işçinin hak kazanıp da kullanmadığı yıllık izin sürelerine ait ücreti, sözleşmenin sona erdiği tarihteki ücreti üzerinden kendisine veya hak sahiplerine ödenir.',
+        'Hesabın son ücret üzerinden yapılması işçi lehinedir; yıllar önce hak edilmiş bir izin, bugünkü ücretle karşılanır. Sona erme sebebinin ne olduğu da fark etmez, istifa dâhil her hâlde bu alacak doğar.',
+        'Kanun zamanaşımının başlangıcını da açıkça belirler: Bu ücrete ilişkin zamanaşımı iş sözleşmesinin sona erdiği tarihten itibaren başlar. Sürenin kendisi ise 7036 sayılı Kanunla eklenen Ek Madde 3 uyarınca beş yıldır.',
+        'Son bir ayrıntı çoğu zaman gözden kaçar: İşveren tarafından iş sözleşmesinin feshi hâlinde m.17deki bildirim süresiyle m.27 gereği verilmesi zorunlu yeni iş arama izinleri, yıllık ücretli izin süreleriyle iç içe giremez. İhbar öneli içinde yıllık izin kullandırılamaz.',
+      ],
+    },
+    {
+      heading: 'Sık yapılan hatalar',
+      paragraphs: [
+        'Birinci hata, izin defterini ya da izin formlarını saklamamaktır. Kullanılan izinlerin ispatı kural olarak işverene ait olmakla birlikte, kendi kayıtlarınız süreci hızlandırır.',
+        'İkincisi, ihbar öneli içinde izin kullandırılmasına ses çıkarmamaktır. Bu iki süre iç içe giremez; aksine uygulama izin ücreti alacağını ortadan kaldırmaz.',
+        'Üçüncüsü, izin ücretini son ücret yerine izin hak edildiği yılın ücreti üzerinden hesaplamaktır. Kanun sona erme tarihindeki ücreti esas alır.',
+      ],
+    },
+  ],
+  steps: [
+    'İşe giriş tarihinizi ve toplam hizmet sürenizi tespit edin; SGK hizmet dökümü yeterlidir.',
+    'Hizmet sürenize karşılık gelen asgari izin gününü belirleyin.',
+    'Sözleşmenizde veya toplu iş sözleşmesinde daha yüksek bir süre kararlaştırılıp kararlaştırılmadığına bakın.',
+    'Kullandığınız izinleri yıl yıl çıkarın; izin formu, defter kaydı veya bordro açıklamaları işinize yarar.',
+    'Kullanılmayan gün sayısını bulun.',
+    'İş sözleşmeniz sona erdiyse hesabı sona erme tarihindeki ücretiniz üzerinden yapın.',
+    'Ödenmezse arabuluculuğa başvurun; zamanaşımı sona erme tarihinden itibaren beş yıldır.',
+  ],
+  checklist: [
+    'SGK hizmet dökümü',
+    'İş sözleşmesi ve varsa toplu iş sözleşmesi',
+    'İzin formları veya izin defteri örneği',
+    'Bordrolar — izin tahakkukları için',
+    'Fesih bildirimi ve sona erme tarihini gösteren belge',
+  ],
+  faq: [
+    {
+      q: 'Yıllık izne ne zaman hak kazanırım?',
+      a: 'İşyerinde, deneme süresi de dâhil olmak üzere en az bir yıl çalıştıktan sonra.',
+    },
+    {
+      q: 'Kaç gün izin hakkım var?',
+      a: 'Bir yıldan beş yıla kadar en az on dört, beş yıldan fazla on beş yıldan az ise en az yirmi, on beş yıl ve üzeri ise en az yirmi altı gün. On sekiz yaş ve altı ile elli yaş ve üzeri işçilerde taban yirmi gündür; yer altı işlerinde süreler dörder gün artırılır.',
+    },
+    {
+      q: 'İzin kullanmayıp parasını alabilir miyim?',
+      a: 'Hayır. Yıllık ücretli izin hakkından vazgeçilemez; iş ilişkisi sürerken izin ücrete çevrilemez. Ücrete dönüşmesi yalnız sözleşme sona erdiğinde mümkündür.',
+    },
+    {
+      q: 'İzin ücreti ne zaman ödenir?',
+      a: 'İzne başlamadan önce peşin olarak veya avans şeklinde ödenmek zorundadır.',
+    },
+    {
+      q: 'İstifa edersem kullanmadığım izinlerin parasını alabilir miyim?',
+      a: 'Evet. Sözleşme herhangi bir nedenle sona erdiğinde hak kazanılıp kullanılmayan izin süreleri, sona erme tarihindeki ücret üzerinden ödenir.',
+    },
+    {
+      q: 'İhbar önelinde izin kullandırılabilir mi?',
+      a: 'Hayır. Bildirim süresiyle yeni iş arama izinleri, yıllık ücretli izin süreleriyle iç içe giremez.',
+    },
+    {
+      q: 'İzin ücretinde zamanaşımı kaç yıl?',
+      a: 'Beş yıldır ve iş sözleşmesinin sona erdiği tarihten itibaren işlemeye başlar.',
+    },
+  ],
+  updated: '2026-08-16',
+  sitemapPriority: 0.94,
+};

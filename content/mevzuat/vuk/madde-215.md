@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Türkçe tutma ve Türk Parası kullanma zorunluluğu55**
+**DOKUZUNCU BÖLÜM
+Kayıt Nizamı
+Türkçe tutma ve Türk Parası kullanma zorunluluğu**
 
 ---
 
@@ -24,13 +26,8 @@ muadili yabancı para karşılığı Türk Lirası ve sermayesinin en az % 40'ı
 iş merkezi Türkiye'de bulunmayan kişilere ait olan işletmelere, kayıtlarını Türk para birimi
 dışında başka bir para birimiyle tutmalarına Cumhurbaşkanınca izin verilebilir.
 Cumhurbaşkanı, bu had ve nispeti sektörler itibarıyla ayrı ayrı yarısına kadar indirmeye veya
-
-Bu madde başlığı “Türkçe tutma mecburiyeti:” iken, 16/7/2004 tarihli ve 5228 sayılı Kanunun 7 nci
-maddesiyle metne işlendiği şekilde değiştirilmiştir.
-55
-
-iki katına kadar artırmaya yetkilidir. Bu şartların ihlâl edildiği hesap dönemini izleyen hesap
-döneminden itibaren Türk para birimine göre kayıt tutma zorunluluğu başlar.56
+iki katına kadar artırmaya yetkilidir. Bu şartların ihlâl edildiği hesap dönemini izleyen hesap
+döneminden itibaren Türk para birimine göre kayıt tutma zorunluluğu başlar.
 ba) Türk para birimiyle yapılan işlemler, işlemin gerçekleştiği günün Türkiye
 Cumhuriyet Merkez Bankası döviz alış kuruyla ilgili para birimine çevrilir. İktisadî
 kıymetlerin değerleri ile vergi matrahı kayıt yapılan para birimine göre tespit edilir,
@@ -39,6 +36,8 @@ edilir. Vergi ödeme, mahsup ve iade işlemlerinde de Türk Lirası tutarlar kul
 bb) Bu mükellefler, diğer para birimleriyle kayıt tuttukları sürece mükerrer 298 inci
 maddenin (A) fıkrası uyarınca enflasyon düzeltmesi yapamazlar. Türk para birimiyle kayıt
 yapmaya başlamaları halinde ise üç yıl süreyle anılan madde hükmünden yararlanamazlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

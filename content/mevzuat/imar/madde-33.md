@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Umumi hizmetlere ayrılan yerlerde muvakkat yapılar**
+**Umumi hizmetlere ayrılan yerlerde muvakkat yapılar:**
 
 ---
 
@@ -31,6 +31,8 @@ Plan tatbik olunurken, muvakkat inşaat veya tesisler yıktırılırlar. On yıl
 müddeti dolduktan sonra veya on yıl dolmadan yıktırılması veya kamulaştırılması halinde
 muvakkat bina ve tesislerin 2942 sayılı Kamulaştırma Kanunu hükümlerine göre takdir
 olunacak bedeli sahibine ödenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

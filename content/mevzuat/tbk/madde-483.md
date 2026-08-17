@@ -11,7 +11,7 @@ wordCount: 4262
 
 ---
 
-Madde 483 - Eser teslimden önce beklenmedik olay sonucu yok olursa işsahibi, eseri
+MADDE 483- Eser teslimden önce beklenmedik olay sonucu yok olursa işsahibi, eseri
 teslim almada temerrüde düşmedikçe yüklenici, yaptığı işin ücretini ve giderlerinin
 ödenmesini isteyemez. Bu durumda malzemeye gelen hasar, onu sağlayana ait olur.
 Eserin işsahibince verilen malzeme veya gösterilen arsanın ayıbı veya işsahibinin

@@ -7,19 +7,16 @@ lastReviewed: "2026-07-27"
 wordCount: 3629
 ---
 
-**Ölüme bağlı tasarruf yoluyla çocuğun saklı payı ana ve babanın yönetimi**
+**II. Saklı pay**
 
 ---
 
-Madde 358 - Ölüme bağlı tasarruf yoluyla çocuğun saklı payı ana ve babanın yönetimi
+Madde 358- Ölüme bağlı tasarruf yoluyla çocuğun saklı payı ana ve babanın yönetimi
 dışında bırakılabilir.
-
-Mirasbırakan
-yönetimi bir üçüncü kişiye bırakmışsa, tasarrufunda bu kişinin belirli
+Mirasbırakan yönetimi bir üçüncü kişiye bırakmışsa, tasarrufunda bu kişinin belirli
 zamanlarda sulh hâkimine hesap vermesini öngörebilir.
 
-III.
-Meslek veya sanat için verilen mal ve kişisel kazanç
+---
 
 ### Akademik Yorum ve Analiz
 

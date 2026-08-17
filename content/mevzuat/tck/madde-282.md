@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**Suçtan kaynaklanan malvarlığı değerlerini aklama110**
+**Suçtan kaynaklanan malvarlığı değerlerini aklama**
 
 ---
 
@@ -29,6 +29,8 @@ tedbirlerine hükmolunur.
 ele geçirilmesini sağlayan veya bulunduğu yeri yetkili makamlara haber vererek ele
 geçirilmesini kolaylaştıran kişi hakkında bu maddede tanımlanan suç nedeniyle cezaya
 hükmolunmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

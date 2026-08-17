@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**Devlet memurları eğitimi genel planı**
+**Devlet memurları eğitimi genel planı:**
 
 ---
 
 Madde 217 – Devlet memurları eğitimi genel planı, Cumhurbaşkanı kararıyla
-yürürlüğe konulur.282
+yürürlüğe konulur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

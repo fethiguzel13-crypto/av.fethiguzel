@@ -11,7 +11,8 @@ wordCount: 4277
 
 ---
 
-Madde 753 - (1) Kanunun bu Kısmında veya poliçede gösterilen süreler hesap edilirken bunların başladığı gün sayılmaz.
+MADDE 753- (1) Kanunun bu Kısmında veya poliçede gösterilen süreler hesap
+edilirken bunların başladığı gün sayılmaz.
 
 ---
 

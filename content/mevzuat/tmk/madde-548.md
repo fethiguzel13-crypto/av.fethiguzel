@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**2. Mirasbıraka ndan önce ölme**
+**2. Mirasbırakandan önce ölme**
 
 ---
 
-Madde 548 - Mirasçı atan an vey a kendi sine belirli mal bırakılan kişi mirasbırakanın ölümünde sağ değilse, miras sözleşmesi kendiliğind en ortadan kalkar. Mirasbırakandan önce ölen kişinin mirasçıları, aksi kararlaşt ırılmış olmadıkça, ölüme ba ğlı tasarrufta bulunandan, miras sözle şmesi uyarın ca elde ettiği ölüm tarihindeki zenginleşmeyi geri is teyebilirler.
+Madde 548- Mirasçı atanan veya kendisine belirli mal bırakılan kişi mirasbırakanın
+ölümünde sağ değilse, miras sözleşmesi kendiliğinden ortadan kalkar.
+Mirasbırakandan önce ölen kişinin mirasçıları, aksi kararlaştırılmış olmadıkça, ölüme
+bağlı tasarrufta bulunandan, miras sözleşmesi uyarınca elde ettiği ölüm tarihindeki zenginleşmeyi
+geri isteyebilirler.
 
 ---
 

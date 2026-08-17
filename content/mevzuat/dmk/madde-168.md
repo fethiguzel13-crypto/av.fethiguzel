@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**Başka bir sınıfa geçmede aylığa hak kazanma**
+**Başka bir sınıfa geçmede aylığa hak kazanma:**
 
 ---
 
 Madde 168 – (Mülga: 23/12/1972 – KHK-2/5 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

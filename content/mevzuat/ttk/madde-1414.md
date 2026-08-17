@@ -11,7 +11,9 @@ wordCount: 4263
 
 ---
 
-Madde 1414 - (1) Sigortacı, sigorta teminatının kapsamında değişiklik yapmadan, ayarlama şartına dayanarak primi yükseltirse, sigorta ettiren, sigortacının bildi rimini aldığı tarihten itibaren bir ay içinde sözleşmeyi feshedebilir.
+MADDE 1414- (1) Sigortacı, sigorta teminatının kapsamında değişiklik yapmadan,
+ayarlama şartına dayanarak primi yükseltirse, sigorta ettiren, sigortacının bildirimini aldığı
+tarihten itibaren bir ay içinde sözleşmeyi feshedebilir.
 
 ---
 

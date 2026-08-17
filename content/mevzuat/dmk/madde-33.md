@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Kadroların tespiti**
+**md.)
+Kadroların tespiti:**
 
 ---
 
@@ -16,12 +17,8 @@ md.)
 Kadrosuz memur çalıştırılamaz.
 (Değişik ikinci fıkra: 2/7/2018 - KHK-703/182 md.) Kadrolar, Cumhurbaşkanlığı
 kararnamesinde gösterildiği şekilde düzenlenir.
-2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan
-“kanunla” ibaresinden sonra gelmek üzere “veya Cumhurbaşkanlığı kararnamesiyle” ibaresi eklenmiştir.
-23
 
-(Mülga üçüncü fıkra: 2/7/2018 - KHK-703/182 md.)
-(Mülga dördüncü fıkra: 2/7/2018 - KHK-703/182 md.)
+---
 
 ### Akademik Yorum ve Analiz
 

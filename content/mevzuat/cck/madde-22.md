@@ -7,18 +7,29 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**Duruşma**
+**Hükümlüler ile yakınları ve ilgililerin bilgilendirilmesi**
 
 ---
 
-Madde 22- (1) Çocuk, velisi, vasisi, mahkemece görevlendirilmiş sosyal çalışma
-görevlisi, çocuğun bakımını üstlenen aile ve kurumda bakılıyorsa kurumun temsilcisi duruşmada
-hazır bulunabilir.
-(2) Mahkeme veya hâkim, çocuğun sorgusu veya çocuk hakkındaki diğer işlemler
-sırasında çocuğun yanında sosyal çalışma görevlisi bulundurabilir.
-(3) Duruşmalarda hazır bulunan çocuk, yararı gerektirdiği takdirde duruşma salonundan
-çıkarılabileceği gibi sorgusu yapılmış çocuğun duruşmada hazır bulundurulmasına da gerek
-görülmeyebilir.
+Madde 22- (1) Hükümlülere, kuruma alındıklarında uygulanacak iyileştirme
+çalışmaları, disiplin suçları ve cezaları, bilgi edinme ve şikâyet yolları, hak ve sorumlulukları
+gibi konular ile kurumdaki yaşam biçimine uyum sağlamaları için gereken bilgiler, kurum
+yöneticileri tarafından sözlü olarak anlatılır ve yazılı olarak tebliğ olunur. İnfaz sonrası
+koruma ve yardım konusunda ayrıca bilgi verilir. Türkçe bilmeyen yabancı uyruklu
+hükümlülere kendi dilinde, mümkün olmadığında İngilizce, Fransızca veya Almanca olarak
+bildirilir. Duyma ve konuşma engellilere işaret diliyle anlatılır. Görme engellilere ise kendi
+alfabeleri ile yazılmış kitapçık verilir.
+(2) Hükümlülerin ceza infaz kurumlarına alınmalarında, başka kuruma nakillerinde ve
+hastaneye yatırılmalarında, istekleri üzerine ailelerine veya gösterdikleri kişilere; hükümlü
+yabancı ise, yazılı olarak karşı çıkmaması hâlinde, uyruğu olduğu devletin diplomatik
+temsilcilik veya konsolosluğuna durum bildirilir.
+(3) Askerlik çağına giren, hâlen silâh altında bulunan kişilerin ceza infaz kurumlarına
+alınmalarında, başka kuruma nakillerinde veya kurumda iken askerlik çağına girmeleri veya
+salıverilmeleri hâlinde durum, kayıtlı bulundukları askerlik şubesine bildirilir.
+(4) Hükümlülerin ölümü hâlinde de yukarıdaki hükümler uygulanır ve ayrıca durum
+ailelerine derhâl bildirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

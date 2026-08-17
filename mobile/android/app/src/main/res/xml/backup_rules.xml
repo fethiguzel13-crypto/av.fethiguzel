@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Android 11 ve öncesi yedekleme (fullBackupContent).
+  Yedeklenen: kullanıcının kendi verisi (favoriler, notlar, hesap geçmişi).
+  Yedeklenmeyen: WebView çerezleri ve oturum verisi — cihaz değiştiren
+  kullanıcıya başkasının oturumu taşınmasın.
+-->
+<full-backup-content>
+    <include domain="sharedpref" path="." />
+    <include domain="file" path="galaxy/" />
+    <exclude domain="sharedpref" path="CapacitorStorage.xml" />
+    <exclude domain="database" path="webview.db" />
+    <exclude domain="database" path="webviewCookiesChromium.db" />
+    <exclude domain="file" path="app_webview/" />
+</full-backup-content>

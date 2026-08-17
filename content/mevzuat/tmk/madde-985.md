@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**II. Zilyetlik dolayısıyla hakkın korunm ası
+**II. Zilyetlik dolayısıyla hakkın korunması
 1. Mülkiyet karinesi**
 
 ---
 
-Madde 985 - Taşınırın zilyedi onun mal iki sayılır. Önceki zilyetler de zilyetlikleri süresince o taşınırın maliki sayılırlar.
+Madde 985- Taşınırın zilyedi onun maliki sayılır.
+Önceki zilyetler de zilyetlikleri süresince o taşınırın maliki sayılırlar.
 
 ---
 

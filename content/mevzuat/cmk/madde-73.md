@@ -17,6 +17,8 @@ asıllarını tedavüle çıkaran kurumların merkez veya taşra birimlerine inc
 (2) Yabancı devletlerin paraları ve değerleri hakkında da, yetkili Türk makamlarının
 görüşlerinin alınmasına karar verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

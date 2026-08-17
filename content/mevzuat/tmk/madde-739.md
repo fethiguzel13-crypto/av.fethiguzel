@@ -11,7 +11,7 @@ wordCount: 4287
 
 ---
 
-Madde 739 - Kazı ve yapılarda uyulması gerekli kurallar özel kanunlar la belirlenir.
+Madde 739- Kazı ve yapılarda uyulması gerekli kurallar özel kanunlarla belirlenir.
 
 ---
 

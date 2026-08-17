@@ -24,7 +24,7 @@ maddesinde belirlenen gecikme zammı ile birlikte alıcıdan tahsil edilir. Anca
 verginin 213 sayılı Vergi Usul Kanununda belirtilen mücbir sebepler dolayısıyla terkin
 edilememesi halinde bu vergi, tecil edildiği tarihten itibaren 6183 sayılı Amme Alacaklarının
 Tahsil Usulü Hakkında Kanunun 48 inci maddesine göre ilgili dönemler için geçerli tecil faizi ile
-birlikte alıcıdan tahsil edilir.19
+birlikte alıcıdan tahsil edilir.
 2. İhraç edilmek şartıyla ihracatçılara teslim edilen mallara ait özel tüketim vergisi,
 mükelleflerce ihracatçılardan tahsil edilmemesi şartıyla, bu mükelleflerin talebi üzerine vergi
 dairesince tarh ve tahakkuk ettirilerek tecil olunur. Söz konusu malların ihracatçıya teslim tarihini
@@ -34,10 +34,7 @@ tarihinden itibaren 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında K
 Maddesine göre belirlenen gecikme zammı ile birlikte tahsil olunur. Ancak, ihraç edilmek
 şartıyla teslim edilen malların 213 sayılı Vergi Usul Kanununda belirtilen mücbir sebepler
 nedeniyle ihraç edilememesi halinde, tecil edilen vergi, tecil edildiği tarihten itibaren 6183 sayılı
-18 2/7/2018 tarihli ve 700 sayılı KHK’nin 143 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir. 19 21/4/2005 tarihli ve 5335 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “ithalatçıları veya imalatçıları” ibaresi, “mükellefler” olarak değiştirilmiştir.
-
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48 inci Maddesine göre ilgili dönemler
+Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48 inci Maddesine göre ilgili dönemler
 için geçerli tecil faizi ile birlikte tahsil edilir.
 (Ek paragraf: 21/3/2018-7103/59 md.) İhracatın mücbir sebepler veya beklenmedik
 durumlar nedeniyle üç ay içinde gerçekleştirilememesi halinde, en geç üç aylık sürenin dolduğu
@@ -46,6 +43,8 @@ uygun görmesi halinde vergi dairelerince üç aya kadar ek süre verilebilir.
 3. (III) sayılı listede yer alan malların tamamının ya da bir kısmının tesliminde veya
 ithalinde tahakkuk eden vergiyi, teminat alınmak suretiyle, bu malların tüketiciye teslimine kadar
 (bu safha dahil) tecil ettirmeye Cumhurbaşkanı yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

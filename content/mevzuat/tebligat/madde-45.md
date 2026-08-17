@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**Şümulü**
+**İKİNCİ FASIL
+İdari Tebligat
+Şümulü:**
 
 ---
 
 Madde 45 – Kazai ve mali tebligatın dışında kalan tebligat, idari tebligattır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

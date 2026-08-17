@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Toplu yoklama**
+**Toplu yoklama:**
 
 ---
 
@@ -16,6 +16,8 @@ cetvellerinin kullanılması ve neticelerin toplu olarak bu cetvellerde gösteri
 Yoklama cetvellerinin kullanılacağı halleri Maliye Bakanlığı belli eder.
 Yoklama cetveli kullanılan hallerde ihtilaflı olaylar yoklama fişi mahiyetinde ayarı bir
 tutanakla tesbit olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

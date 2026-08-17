@@ -17,6 +17,8 @@ yanında bulunduran kişi, istem üzerine bu şeyi göstermek ve teslim etmekle 
 ilişkin hükümler uygulanır. Ancak, şüpheli veya sanık ya da tanıklıktan çekinebilecekler hakkında
 bu hüküm uygulanmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

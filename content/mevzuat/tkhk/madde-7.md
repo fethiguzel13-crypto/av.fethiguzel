@@ -18,8 +18,7 @@ beyanı olarak yorumlanamaz. Tüketicinin malı geri göndermek veya muhafaza et
 yükümlülüğü yoktur.
 (2) Bir mal veya hizmetin sipariş edildiğini iddia eden bu iddiasını ispatla yükümlüdür.
 
-ÜÇÜNCÜ KISIM
-Ayıplı Mal ve Hizmetler
+---
 
 ### Akademik Yorum ve Analiz
 

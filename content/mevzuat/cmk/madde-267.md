@@ -7,12 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**İtiraz olunabilecek kararlar**
+**İKİNCİ KISIM
+Olağan Kanun Yolları
+BİRİNCİ BÖLÜM
+İtiraz
+İtiraz olunabilecek kararlar**
 
 ---
 
 Madde 267 – (1) Hâkim kararları ile kanunun gösterdiği hâllerde, mahkeme
 kararlarına karşı itiraz yoluna gidilebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

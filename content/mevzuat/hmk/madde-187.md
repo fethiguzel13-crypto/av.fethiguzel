@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**İspatın konusu**
+**DÖRDÜNCÜ KISIM
+İspat ve Deliller
+BİRİNCİ BÖLÜM
+Genel Hükümler
+İspatın konusu**
 
 ---
 
@@ -15,6 +19,8 @@ MADDE 187- (1) İspatın konusunu tarafların üzerinde anlaşamadıkları ve uy
 çözümünde etkili olabilecek çekişmeli vakıalar oluşturur ve bu vakıaların ispatı için delil
 gösterilir.
 (2) Herkesçe bilinen vakıalarla, ikrar edilmiş vakıalar çekişmeli sayılmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

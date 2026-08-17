@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Madde 654**
+**İKİNCİ KISIM
+Nama Yazılı Senetler
+A) Tanımı**
 
 ---
 
-Madde 654 - (1) Belli bir kişinin adına yazılı olup da onun emrine kaydını içermeyen ve kanunen de emre yazılı senetlerden sayılmayan kıymetli evrak nama yazılı senet sayılır.
+MADDE 654- (1) Belli bir kişinin adına yazılı olup da onun emrine kaydını
+içermeyen ve kanunen de emre yazılı senetlerden sayılmayan kıymetli evrak nama yazılı senet
+sayılır.
 
 ---
 

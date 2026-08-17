@@ -31,6 +31,8 @@ tırnak gibi örnekler alınamaz.
 (7) Özel kanunlardaki alkol muayenesine ve kan örneği alınmasına ilişkin hükümler
 saklıdır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

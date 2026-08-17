@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Vergi ehliyeti**
+**Vergi ehliyeti:**
 
 ---
 
 Madde 9 – Mükellefiyet ve vergi sorumluluğu için kanuni ehliyet şart değildir.
 Vergiyi doğuran olayın kanunlarla yasak edilmiş bulunması mükellefiyeti ve vergi
 sorumluluğunu kaldırmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

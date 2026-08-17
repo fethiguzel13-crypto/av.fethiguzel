@@ -26,6 +26,8 @@ bir yerde yapılmasına, yargı çevresi içinde yer aldığı bölge adliye mah
 komisyonunun uygun görüşünü alarak karar verebilir.
 (5) Bu maddenin uygulanmasına ilişkin usul ve esaslar yönetmelikte belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

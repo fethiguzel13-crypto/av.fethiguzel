@@ -11,7 +11,9 @@ wordCount: 4300
 
 ---
 
-Madde 549 - Miras sözleşmesi veya vasiyetnameyle yapılan ölüme bağlı ka zandırmalar, mirasbırakanın tasarruf edebileceği kısmı n sonradan daralm ası yüzünden hükümsüz olmaz; sadece tenkis edilebilir. BEŞİNCİ AYIRIM VASİYETİ YERİNE GETİRME GÖREVLİSİ A. Atanması I. Atanma ve ehliyet
+Madde 549- Miras sözleşmesi veya vasiyetnameyle yapılan ölüme bağlı kazandırmalar,
+mirasbırakanın tasarruf edebileceği kısmın sonradan daralması yüzünden hükümsüz olmaz;
+sadece tenkis edilebilir.
 
 ---
 

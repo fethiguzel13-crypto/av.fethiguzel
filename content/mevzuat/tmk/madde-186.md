@@ -11,7 +11,9 @@ wordCount: 4296
 
 ---
 
-Madde 186 - Eşler oturacakları konutu birlikte seçerler. Birliği eşler be raber ce yönetirler. Eşler birliğin giderlerine güçleri oranında emek ve malvarlıkları ile katılırlar.
+Madde 186- Eşler oturacakları konutu birlikte seçerler.
+Birliği eşler beraberce yönetirler.
+Eşler birliğin giderlerine güçleri oranında emek ve malvarlıkları ile katılırlar.
 
 ---
 

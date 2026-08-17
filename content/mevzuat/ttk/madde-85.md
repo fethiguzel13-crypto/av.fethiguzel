@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Madde 85**
+**IV - Defterlerin tümüyle incelenmesi**
 
 ---
 
-Madde 85 - (1) Malvarlığı hukukuna ilişkin olan, özellikle de mirasa, mal ortaklığına ve şirket tasfiyesine ilişkin uyuş mazlıklarda, mahkeme, ticari defterlerin teslimine ve bütün içeriklerinin incelenmesine karar verebilir.
+MADDE 85- (1) Malvarlığı hukukuna ilişkin olan, özellikle de mirasa, mal ortaklığına
+ve şirket tasfiyesine ilişkin uyuşmazlıklarda, mahkeme, ticari defterlerin teslimine ve bütün
+içeriklerinin incelenmesine karar verebilir.
 
 ---
 

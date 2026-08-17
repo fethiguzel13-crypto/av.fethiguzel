@@ -7,15 +7,14 @@ lastReviewed: "2026-07-27"
 wordCount: 3639
 ---
 
-**Aile malları ortaklığı sözleşmesinin resmî şekilde yapılması ve bütün**
+**2. Şekil**
 
 ---
 
-Madde 374 - Aile malları ortaklığı sözleşmesinin resmî şekilde yapılması ve bütün
+Madde 374- Aile malları ortaklığı sözleşmesinin resmî şekilde yapılması ve bütün
 ortakların veya temsilcilerinin imzalarını taşıması gerekir.
 
-II.
-Süre
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -17,6 +17,8 @@ tarafından yapılır.
 (2) Keşif tutanağına, var olan durum ile olayın özel niteliğine göre varlığı umulup da
 elde edilemeyen delillerin yokluğu da yazılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

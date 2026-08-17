@@ -7,15 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**Vatandaşlık kararlarının geri alınması ve tebligat**
+**Vatandaşlık kararlarının geri alınması**
 
 ---
 
-MADDE 40 – (1) Türk vatandaşlığının kazanılması veya kaybına ilişkin kararlar, hukuki şartlar oluşmadan veya mükerrer olarak verildiği sonradan anlaşıldığı takdirde geri alınır.
-
-**Tebligat**
-
-MADDE 41 – (1) Türk vatandaşlığının kazanılmasına ve kaybına ilişkin kararlar ilgiliye ve başvuru makamlarına tebliğ olunur. 29 uncu madde uyarınca verilen kaybettirme kararları Resmi Gazete'de yayımlanır ve yayımlandığı tarihte tebliğ edilmiş sayılır.
+MADDE 40 – (1) Türk vatandaşlığının kazanılması veya kaybına ilişkin kararlar, hukuki
+şartlar oluşmadan veya mükerrer olarak verildiği sonradan anlaşıldığı takdirde geri alınır.
 
 ---
 

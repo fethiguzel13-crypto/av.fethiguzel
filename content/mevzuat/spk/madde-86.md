@@ -35,8 +35,7 @@ gelen sözleşmelerinden doğan hak ve borçları da vadeleri itibarıyla belirl
 uyarınca verilmiş teminatlar da aktifin hesabında dikkate alınır. Tazmin ile tasfiye süreci
 arasındaki süreçte uygulanacak temerrüt faizi Kurulca belirlenir. Tedricî tasfiye kararı
 verilmesi hâlinde, bu tasfiyenin kapatılması kararına kadar iflas kararı verilemez. Tedricî
-
-tasfiye kararı verilenler hakkında 2004 sayılı Kanun ve 21/7/1953 tarihli ve 6183 sayılı
+tasfiye kararı verilenler hakkında 2004 sayılı Kanun ve 21/7/1953 tarihli ve 6183 sayılı
 Amme Alacaklarının Tahsil Usulü Hakkında Kanun kapsamında takip yapılmaz, evvelce
 başlamış takipler durur; bir takip muamelesi ile kesilebilen zamanaşımı ve hak düşüren
 müddetler işlemez.
@@ -76,8 +75,7 @@ sahiplerinin alacaklarını, tazmin kapsamında yapılan ödemeleri ve tasfiye g
 yetmediğinin tespiti hâlinde, YTM, Kurulun uygun görüşüyle ilgililerin iflasını da isteyebilir.
 (9) Tedricî tasfiye sırasındaki görevlerinin ifası sebebiyle YTM kanuni temsilci,
 yönetici ve personeli aleyhine açılan ve açılacak her türlü tazminat ve alacak davaları YTM
-
-aleyhine açılır. YTM personeli hakkında açılacak ceza davalarında ise 133 üncü madde
+aleyhine açılır. YTM personeli hakkında açılacak ceza davalarında ise 133 üncü madde
 hükmü uygulanır. YTM personeli tedricî tasfiye işlemleri sırasında tedricî tasfiyesini
 yürüttükleri şirketlerin doğmuş ve doğacak kamu borçlarından, sosyal güvenlik kurumlarına
 olan borçlarından ve diğer mali yükümlülüklerinden sorumlu tutulamaz. YTM personelinin
@@ -92,6 +90,8 @@ hakkı genel zamanaşımı süresine tabidir. 2004 sayılı Kanunun 278 inci, 27
 maddelerinde belirtilen hâllerin varlığı hâlinde, aciz vesikası ibrazına gerek olmaksızın YTM
 tarafından iptal davası açılabilir. YTM, bu maddeden kaynaklanan görevlerinin ifası sırasında
 her türlü teminattan muaf olarak ihtiyati tedbir ve ihtiyati haciz istemeye yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

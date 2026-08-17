@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**III - Tescili caiz gemiler**
+**III- Tescili caiz gemiler**
 
 ---
 
-Madde 956 - (1) Gemi siciline, 940 ıncı madde gereğince Türk Bayrağını çekme hakkına sa hip ticaret gemileri ile 935 inci maddenin ikinci fıkrasının (a) ve (c) bentlerinde yazılı gemiler kaydolunur.
+MADDE 956- (1) Gemi siciline, 940 ıncı madde gereğince Türk Bayrağını çekme
+hakkına sahip ticaret gemileri ile 935 inci maddenin ikinci fıkrasının (a) ve (c) bentlerinde
+yazılı gemiler kaydolunur.
 
 ---
 

@@ -37,7 +37,8 @@ dolayısıyla verilecek huzur hakkı ve huzur ücreti ile buna ilişkin usul ve 
 Bakanlığının uygun görüşü alınarak Bakanlıkça belirlenir.
 (7) Uzlaşma komisyonlarının kurulması, çalışması ile bu madde kapsamında yapılacak
 başvurulara ilişkin usul ve esaslar yönetmelikle düzenlenir.
-Cezalarda yetki ve itiraz
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**Çekilme**
+**(Mülga ikinci fıkra: 12/5/1982 - 2670/41 md.)
+BÖLÜM: 4
+Memurluğun Sona Ermesi
+Çekilme:**
 
 ---
 
@@ -21,6 +24,8 @@ kabulüne kadar görevine devam eder. Yerine atanan kimse bir aya kadar gelmedi�
 yerine bir vekil atanmadığı takdirde, üstüne haber vererek görevini bırakabilir.
 Olağanüstü mazeretle çekilenler, üstüne haber vermek şartiyle bir ay kaydına tabi
 değildirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

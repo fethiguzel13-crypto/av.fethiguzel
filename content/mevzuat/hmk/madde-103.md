@@ -36,13 +36,8 @@ verilmesi, her türlü tebligat, dosyanın başka bir mahkemeye, bölge adliye m
 Yargıtaya gönderilmesi işlemleri de yapılır.
 (4) Bu madde hükümleri, bölge adliye mahkemeleri ile Yargıtay incelemelerinde de
 uygulanır.
-Adli tatilin sürelere etkisi
 
-MADDE 104- (1) Adli tatile tabi olan dava ve işlerde, bu Kanunun tayin ettiği
-sürelerin bitmesi tatil zamanına rastlarsa, bu süreler ayrıca bir karara gerek olmaksızın adli
-tatilin bittiği günden itibaren bir hafta uzatılmış sayılır.
-İKİNCİ KISIM
-Dava Çeşitleri, Dava Şartları ve İlk İtirazlar
+---
 
 ### Akademik Yorum ve Analiz
 

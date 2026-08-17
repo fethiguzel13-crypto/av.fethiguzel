@@ -12,7 +12,10 @@ I. Şekli**
 
 ---
 
-Madde 545 - Miras sözleşmesinin g eçerli olması için resmî va siyetname şeklinde düzenlen mesi gereki r. Söz leşmenin tarafları, arzularını resmî memura aynı zamanda bildirirler ve düzenlenen sözleşmeyi memurun ve iki tanığın önünde imzalarlar.
+Madde 545- Miras sözleşmesinin geçerli olması için resmî vasiyetname şeklinde
+düzenlenmesi gerekir.
+Sözleşmenin tarafları, arzularını resmî memura aynı zamanda bildirirler ve düzenlenen
+sözleşmeyi memurun ve iki tanığın önünde imzalarlar.
 
 ---
 

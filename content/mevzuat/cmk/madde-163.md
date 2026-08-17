@@ -17,6 +17,8 @@ aşıyorsa, sulh ceza hâkimi de bütün soruşturma işlemlerini yapabilir.
 (2) Kolluk âmir ve memurları, sulh ceza hâkimi tarafından emredilen tedbirleri alır ve
 araştırmaları yerine getirirler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

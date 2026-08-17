@@ -11,7 +11,7 @@ wordCount: 4306
 
 ---
 
-Madde 185 - Alacağın devri kanun veya mahkeme kararı gereğince gerçekleşmişse,
+MADDE 185- Alacağın devri kanun veya mahkeme kararı gereğince gerçekleşmişse,
 bu devir özel bir şekle ve önceki alacaklının rızasını açıklamasına gerek olmaksızın, üçüncü
 kişilere karşı ileri sürülebilir.
 

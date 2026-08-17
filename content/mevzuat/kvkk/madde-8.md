@@ -19,6 +19,8 @@ belirtilen şartlardan birinin bulunması hâlinde, ilgili kişinin açık rıza
 aktarılabilir.
 (3) Kişisel verilerin aktarılmasına ilişkin diğer kanunlarda yer alan hükümler saklıdır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

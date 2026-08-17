@@ -27,6 +27,8 @@ yerdeki sulh hukuk hâkimi tarafından incelenir.
 reddedilen başkan ve üye katılmaksızın görevli olduğu dairece karara bağlanır. Hukuk
 dairelerinin toplanmasını engelleyecek şekildeki toplu ret talepleri dinlenmez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

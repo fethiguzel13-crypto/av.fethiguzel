@@ -7,18 +7,12 @@ lastReviewed: "2026-07-27"
 wordCount: 3605
 ---
 
-**Vergi cezalarını gerektiren olaylar vergi dairelerince**
+Madde 364 – Vergi cezalarını gerektiren olaylar vergi dairelerince veya yoklamaya ve
+vergi incelemesine yetkili olanlar tarafından tesbit olunur. Yoklama ve vergi incelemesi
+sırasında raslanan, vergi cezasını gerektirici olayların, raporlarda gösterilmesi, delillerin
+kaybolması ihtimalinin bulunduğu hallerde bunların tutanakla tesbit edilmesi mecburidir.
 
 ---
-
-Madde 364 - Vergi cezalarını gerektiren olaylar vergi dairelerince
-veya yoklamaya ve vergi incelemesine yetkili olanlar tarafından tesbit olunur.
-Yoklama ve vergi incelemesi sırasında raslanan, vergi cezasını gerektirici
-olayların, raporlarda gösterilmesi, delillerin kaybolması ihtimalinin bulunduğu
-hallerde bunların tutanakla tesbit edilmesi mecburidir.
-
-Ceza
-kesme yetkisi:
 
 ### Akademik Yorum ve Analiz
 

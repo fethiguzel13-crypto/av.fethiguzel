@@ -7,14 +7,20 @@ lastReviewed: "2026-07-20"
 wordCount: 4280
 ---
 
-**Tutanakların imzalanması**
+**Noterlerin hastalıkları halinde yapılacak işlem:**
 
 ---
 
-MADDE 59- (1) Nüfus müdürlüklerine yapılan bildirimler üzerine düzenlenen dayanak
-belgeleri, nüfus müdürlüğünce imzalanarak onaylanır. Dayanak belgelerinin ilgilinin kendisi
-veya veli, vasi ya da vekâletname ibraz edenler tarafından imzalanması gereklidir. Okuma
-yazması olmayanların parmak izi alınır.23
+Madde 59 – Noterler, hastalıkları nedeniyle alacakları rapor üzerine, hizmet sürelerine
+göre aşağıdaki esaslar dahilinde izinli sayılırlar:
+1. Beş yıla kadar (Beş yıl dahil) hizmeti olanlara üç aya kadar,
+2. Beş yıldan on yıla kadar (On yıl dahil) hizmeti olanlara altı aya kadar,
+3. On yıldan daha çok hizmeti olanlara bir yıla kadar izin verilir.
+Bu süreler sonunda hastalıklarının devam ettiği, resmi sağlık kurullarının raporu ile
+belgelendirilen noterlerin izinleri, iki katı kadar daha uzatılabilir. Bu sürelerin sonunda da
+iyileşemiyen noterlerin görevlerine Adalet Bakanlığınca son verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

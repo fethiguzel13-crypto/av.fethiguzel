@@ -29,6 +29,8 @@ yasal temsilci tayin edilmesi istenebilir. Bu hükümlerin uygulanmaması halind
 feshedilerek yasaklama hariç haklarında 20 ve 22 nci maddeye göre işlem yapılır.
 Yüklenicinin ortak girişim olması halinde ölüm, iflas, ağır hastalık, tutukluluk veya
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

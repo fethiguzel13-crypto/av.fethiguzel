@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**Tahkik ve ihbar ödevi**
+**Tahkik ve ihbar ödevi:**
 
 ---
 
@@ -18,6 +18,8 @@ yanlış veya hakikate aykırı beyanda bulunmuş olanları beyanlarını düzel
 Buna rağmen beyanda bulunmayanların veya beyanlarını düzeltmiyenleri verilen sürenin
 sonundan başlıyarak 15 gün içinde, mütalaaları ile birlikte ve yazılı olarak vergi dairesine
 bildirirler. Bu ihbar üzerine vergi dairesince yapılacak tahkikat neticesine göre işlem yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

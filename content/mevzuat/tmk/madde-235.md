@@ -11,7 +11,10 @@ wordCount: 4299
 
 ---
 
-Madde 235 - Mal rejiminin sona erdiği sırada mevcut olan edinil miş mallar, tasfiye anındaki değerleriyle hesaba katılırlar. Edinilmiş mallara hesapta eklenecek olanların değeri, m alın devre dildiği tarih esas alınarak hesaplanır.
+Madde 235- Mal rejiminin sona erdiği sırada mevcut olan edinilmiş mallar, tasfiye anındaki
+değerleriyle hesaba katılırlar.
+Edinilmiş mallara hesapta eklenecek olanların değeri, malın devredildiği tarih esas
+alınarak hesaplanır.
 
 ---
 

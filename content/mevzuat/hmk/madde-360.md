@@ -14,6 +14,8 @@ wordCount: 4272
 MADDE 360- (1) Bu Bölümde aksine hüküm bulunmayan hâllerde, ilk derece
 mahkemesinde uygulanan yargılama usulü, bölge adliye mahkemesinde de uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**intibakları**
+**Muvazzaf askerliğini yaptıktan sonra Devlet memurluğuna girenlerin kademe
+intibakları:**
 
 ---
 
@@ -16,7 +17,8 @@ Muvazzaf askerlik görevini yaptıktan sonra Devlet memurluğuna atananlar adayl
 esaslarına tabi olurlar ve muvazzaf askerlikte geçen süreleri asaletlerinin tasdikinden sonra
 kademe ilerlemesi yapılmak ve sınav veya seçmeye tabi tutulmak suretiyle derece
 yükseltilmesinde de değerlendirilir.
-Seferde veya talim ve manevra için hazarda silah altına alınanların askerlik
+
+---
 
 ### Akademik Yorum ve Analiz
 

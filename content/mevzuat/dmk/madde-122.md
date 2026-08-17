@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Başarı, üstün başarı değerlendirmesi ve ödül:177**
+**Başarı, üstün başarı değerlendirmesi ve ödül:**
 
 ---
 
@@ -19,12 +19,7 @@ azaltılmasında, kamusal fayda ve gelirlerin beklenenin üzerinde artırılmas�
 hizmetlerin etkinlik ve kalitesinin yükseltilmesinde somut olaylara ve verilere dayalı olarak
 katkı sağladıkları tespit edilen memurlara, merkezde bağlı veya ilgili bakan, illerde valiler,
 ilçelerde kaymakamlar tarafından başarı belgesi verilebilir. (Ek cümle: 22/5/2012 - 6318/44
-
-13/2/2011 tarihli ve 6111 sayılı Kanunun 110 uncu maddesiyle bu madde başlığı “Takdirname:” iken, metne
-işlendiği şekilde değiştirilmiştir.
-177
-
-md.) Türk Silahlı Kuvvetlerinde (…)178 görevli Devlet memurları için Millî Savunma Bakanı
+md.) Türk Silahlı Kuvvetlerinde (…)görevli Devlet memurları için Millî Savunma Bakanı
 bu yetkisini devredebilir. Üç defa başarı belgesi alanlara üstün başarı belgesi verilir.
 Üstün başarı belgesi verilenlere, merkezde bağlı veya ilgili bakan ve illerde valiler
 tarafından uygun görülmesi hâlinde en yüksek Devlet memuru aylığının (ek gösterge dâhil) %
@@ -33,10 +28,12 @@ Bu maddeye göre bir malî yıl içinde ödüllendirileceklerin sayısı, kurumu
 dolu kadro mevcudunun binde onundan, Gümrük Müsteşarlığı, Millî Eğitim Bakanlığı ve
 Emniyet Genel Müdürlüğü ile Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı
 kadroları için binde yirmisinden fazla olamaz. Yıl içinde ödüllendirilen personel sayısı
-kurumlarınca izleyen yılın Ocak ayı sonuna kadar Devlet Personel Başkanlığına bildirilir.179
+kurumlarınca izleyen yılın Ocak ayı sonuna kadar Devlet Personel Başkanlığına bildirilir.
 Kamu kurum ve kuruluşları yürütmekte oldukları hizmetlerin özelliklerini göz önünde
 bulundurarak memurlarının başarı, verimlilik ve gayretlerini ölçmek üzere, Devlet Personel
 Başkanlığının uygun görüşü alınmak kaydıyla, değerlendirme ölçütleri belirleyebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

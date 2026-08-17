@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**II
-- Yabancılık unsuru taşımayan hâller**
+**II- Yabancılık unsuru taşımayan hâller**
 
 ---
 
-Madde 1329 - (1) 1328 inci madde, 27/11/2007 tarihli ve 5718 sayılı Milletlerara sı Özel Hukuk ve Usul Hukuku Hakkında Kanunun 1 inci maddesinin birinci fıkrası anlamında yabancılık unsuru taşımayan hâllerde de uygulanır.
+MADDE 1329- (1) 1328 inci madde, 27/11/2007 tarihli ve 5718 sayılı Milletlerarası
+Özel Hukuk ve Usul Hukuku Hakkında Kanunun 1 inci maddesinin birinci fıkrası anlamında
+yabancılık unsuru taşımayan hâllerde de uygulanır.
 
 ---
 

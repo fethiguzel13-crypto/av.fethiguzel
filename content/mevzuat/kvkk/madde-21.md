@@ -16,7 +16,7 @@ kendi sorumluluğu altında, bağımsız olarak yerine getirir ve kullanır. Gö
 konularla ilgili olarak hiçbir organ, makam, merci veya kişi, Kurula emir ve talimat veremez,
 tavsiye veya telkinde bulunamaz.
 (2) Kurul, dokuz üyeden oluşur. Kurulun beş üyesi Türkiye Büyük Millet Meclisi, dört
-üyesi Cumhurbaşkanı tarafından seçilir. 4
+üyesi Cumhurbaşkanı tarafından seçilir.
 (3) Kurula üye olabilmek için aşağıdaki şartlar aranır:
 a) Kurumun görev alanındaki konularda bilgi ve deneyim sahibi olmak.
 b) 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 48 inci maddesinin
@@ -25,22 +25,12 @@ nitelikleri taşımak.
 c) Herhangi bir siyasi parti üyesi olmamak.
 ç) En az dört yıllık lisans düzeyinde yükseköğrenim görmüş olmak.
 d) (Mülga: 2/7/2018-KHK-703/163 md.)
-(4) (Mülga: 2/7/2018-KHK-703/163 md.)
+(4)
+(Mülga: 2/7/2018-KHK-703/163 md.)
 (5) Türkiye Büyük Millet Meclisi, Kurula üye seçimini aşağıdaki usulle yapar:
 a) Seçim için, siyasi parti gruplarının üye sayısı oranında belirlenecek üye sayısının
 ikişer katı aday gösterilir ve Kurul üyeleri bu adaylar arasından her siyasi parti grubuna düşen
-2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu fıkrada yer alan “Başbakanlıkla”
-ibaresi “Cumhurbaşkanının görevlendireceği bakan ile” şeklinde değiştirilmiştir.
-3
-2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu bentte yer alan “ ve Başbakanlığa”
-ibaresi yürürlükten kaldırılmıştır.
-4
-2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu maddenin ikinci fıkrasında yer alan
-“iki üyesi Cumhurbaşkanı, iki üyesi Bakanlar Kurulu” ibaresi “dört üyesi Cumhurbaşkanı” şeklinde
-değiştirilmiştir.
-2
-
-üye sayısı esas alınmak suretiyle Türkiye Büyük Millet Meclisi Genel Kurulunca seçilir.
+üye sayısı esas alınmak suretiyle Türkiye Büyük Millet Meclisi Genel Kurulunca seçilir.
 Ancak, siyasi parti gruplarında, Türkiye Büyük Millet Meclisinde yapılacak seçimlerde kime
 oy kullanılacağına dair görüşme yapılamaz ve karar alınamaz.
 b) Kurul üyelerinin seçimi, adayların belirlenerek ilanından sonra on gün içinde
@@ -56,9 +46,9 @@ Meclisi tatilde ise tatilin bitiminden itibaren bir ay içinde aynı usulle seç
 seçimlerde, boşalan üyeliklerin siyasi parti gruplarına dağılımı, ilk seçimde siyasi parti
 grupları kontenjanından seçilen üye sayısı ve siyasi parti gruplarının hâlihazırdaki oranı
 dikkate alınmak suretiyle yapılır.
-(6) Cumhurbaşkanı (…)5 tarafından seçilen üyelerden birinin görev süresinin
+(6) Cumhurbaşkanı (…)tarafından seçilen üyelerden birinin görev süresinin
 bitiminden kırk beş gün önce veya herhangi bir sebeple görevin sona ermesi hâlinde durum,
-on es gün içinde Kurum tarafından, Cumhurbaşkanlığına (…)5 bildirilir. Üyelerin görev
+on beş gün içinde Kurum tarafından, Cumhurbaşkanlığına (…)bildirilir. Üyelerin görev
 süresinin dolmasına bir ay kala yeni üye seçimi yapılır. Bu üyeliklerde, görev süresi
 dolmadan herhangi bir sebeple boşalma olması hâlinde ise bildirimden itibaren on beş gün
 içinde seçim yapılır.
@@ -77,15 +67,10 @@ yerlerde yöneticilik yapamaz, ticaretle uğraşamaz, serbest meslek faaliyetind
 hakemlik ve bilirkişilik yapamazlar. Ancak, Kurul üyeleri, asli görevlerini aksatmayacak
 şekilde bilimsel amaçlı yayın yapabilir, ders ve konferans verebilir ve bunlardan doğacak telif
 hakları ile ders ve konferans ücretlerini alabilirler.
-2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu fıkrada yer alan “veya Bakanlar
-Kurulu” ve “veya Bakanlar Kuruluna sunulmak üzere Başbakanlığa” ibareleri madde metninden
-çıkarılmıştır.
-5
-
-(11) Üyelerin görevleri sebebiyle işledikleri iddia edilen suçlara ilişkin soruşturmalar
+(11) Üyelerin görevleri sebebiyle işledikleri iddia edilen suçlara ilişkin soruşturmalar
 2/12/1999 tarihli ve 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması
 Hakkında Kanuna göre yapılır ve bunlar hakkında soruşturma izni Cumhurbaşkanı tarafından
-verilir.6
+verilir.
 (12) Kurul üyeleri hakkında yapılacak disiplin soruşturması ve kovuşturmasında 657
 sayılı Kanun hükümleri uygulanır.
 (13) Kurul üyelerinin süreleri dolmadan herhangi bir nedenle görevlerine son
@@ -112,6 +97,8 @@ oldukları her türlü ödemeler Kurum tarafından ödenmeye devam edilir ve bu 
 sona erenlere Kurum tarafından yapılacak ödeme üç ayı geçemez. Bunların Kurumda
 geçirdiği süreler, özlük ve diğer hakları açısından önceki kurum veya kuruluşlarında
 geçirilmiş sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

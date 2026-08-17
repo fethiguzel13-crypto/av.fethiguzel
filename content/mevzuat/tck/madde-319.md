@@ -19,6 +19,8 @@ söyleyen kimselere, bir yıldan üç yıla kadar hapis cezası verilir.
 (2) Fiil, aleni olarak işlenmişse iki yıldan beş yıla kadar hapis cezası verilir.
 (3) Fiil, savaş zamanında işlenmiş ise ceza bir katı oranında artırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

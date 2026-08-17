@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Verginin beyanı, tarhı ve ödenmesi**
+**Vergide ve Mükellefiyette Değişiklikler
+Verginin beyanı, tarhı ve ödenmesi**
 
 ---
 
@@ -27,10 +28,7 @@ iktisap ile ilgili işlemlerin tamamlanmasından önce bu işlemlerin yapıldı�
 verilir ve vergi aynı günde ödenir.
 3. İthalatta alınan vergi, ilgili gümrük idaresince hesaplanır ve gümrük mevzuatına göre
 kabul edilen beyanname veya diğer belgeler üzerine imza alınmak suretiyle mükellefe, kanunî
-37 30/11/2022 tarihli ve 7423 sayılı Kanunun 7 nci maddesiyle bu fıkraya “(yalnız tütün yerine geçen maddelerden yapılmış sigaralar)” ibaresinden sonra gelmek üzere “ile 4813.10.00.80.00 (makaron)” ibaresi eklenmiştir.
-
-
-temsilcisine veya gümrük müşavirine tebliğ edilir. Bu tebliğ üzerine ortaya çıkacak ihtilaflar için
+temsilcisine veya gümrük müşavirine tebliğ edilir. Bu tebliğ üzerine ortaya çıkacak ihtilaflar için
 ithalat vergilerinin tâbi olduğu usul ve esaslar uygulanır. Bu vergi, ithalat vergileri ile aynı
 zamanda ödenir. İthalat vergilerine tâbi olmayan mallara ait vergi, gümrük mevzuatına göre
 kabul edilen beyannamenin veya diğer belgelerin tescili tarihinde, bu tarihteki oran veya tutarlar
@@ -44,6 +42,9 @@ veya resen tarh yerini tayin etmeye, işlemin mahiyetine göre verginin işlemde
 şartını koymaya, müzayede yoluyla yapılan satışlarla ilgili vergilerin beyanı ve ödeme zamanı ile
 tahsiline ilişkin usul ve esasları belirlemeye, (III) sayılı listedeki mallara ait verginin bandrol
 usulü ile tahsiline ve bu Maddenin uygulanmasına ilişkin usulleri tespit etmeye yetkilidir.
+Verginin belgelerde gösterilmesi, matrahta, vergide ve mükellefiyette değişiklikler
+
+---
 
 ### Akademik Yorum ve Analiz
 

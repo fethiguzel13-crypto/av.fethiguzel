@@ -16,6 +16,8 @@ aşağı sınırlara indirilmesi veya işverene düşen yasal bir yükümlülü�
 nedeniyle ya da bu Kanun hükümlerinden herhangi birinin uygulanması sonucuna dayanılarak
 işçi ücretlerinden her ne şekilde olursa olsun eksiltme yapılamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

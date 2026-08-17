@@ -11,7 +11,12 @@ wordCount: 4261
 
 ---
 
-Madde 523 - Önmirasç ıya geçen mirasın sulh mahkemesince de fteri tutulur. Mirasbırakan açıkça bağışık tutmadıkça, mirasın önmirasçıya teslimi onun güvence göstermesine b ağlıdır. Taşınmazlarda bu güvence, yeterli görüldüğü takdirde mirası geçirme yükü mlülüğünün tapu kütüğüne şe rh verilmesiyle de sağlanab ilir. Önmir asçı g üvence göstermez veya artmirasçının beklenen haklarını tehlikeye düşürürse, mirasın resmen yönetimine ka rar verilir.
+Madde 523- Önmirasçıya geçen mirasın sulh mahkemesince defteri tutulur.
+Mirasbırakan açıkça bağışık tutmadıkça, mirasın önmirasçıya teslimi onun güvence
+göstermesine bağlıdır. Taşınmazlarda bu güvence, yeterli görüldüğü takdirde mirası geçirme
+yükümlülüğünün tapu kütüğüne şerh verilmesiyle de sağlanabilir.
+Önmirasçı güvence göstermez veya artmirasçının beklenen haklarını tehlikeye düşürürse,
+mirasın resmen yönetimine karar verilir.
 
 ---
 

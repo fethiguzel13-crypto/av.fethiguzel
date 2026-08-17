@@ -8,11 +8,13 @@ wordCount: 4319
 ---
 
 **V. Hükmü
-1. Senedi çıkaran a racı kurum**
+1. Senedi çıkaran aracı kurum**
 
 ---
 
-Madde 935 - Senedi çıkaran aracı kurum, alacaklıları n ve borçlunun temsilcisi olsa bile, senetlerin çıkarılması sırasında kendisine ayrıca yet ki verilmiş olmadıkça, borcun kapsamında ve koşullarında bir değişiklik yapamaz. 2.Senetlerin geri öden mesi a. Ödeme plânı
+Madde 935- Senedi çıkaran aracı kurum, alacaklıların ve borçlunun temsilcisi olsa bile,
+senetlerin çıkarılması sırasında kendisine ayrıca yetki verilmiş olmadıkça, borcun kapsamında ve
+koşullarında bir değişiklik yapamaz.
 
 ---
 

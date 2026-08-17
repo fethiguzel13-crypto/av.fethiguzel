@@ -11,7 +11,7 @@ wordCount: 4259
 
 ---
 
-Madde 534 - Satılmak üzere kendisine gönderilen eşya açıkça ayıplı ise komisyoncu,
+MADDE 534- Satılmak üzere kendisine gönderilen eşya açıkça ayıplı ise komisyoncu,
 vekâlet verenin taşıyıcıya karşı haklarının korunması için gerekeni yapmak, zararı tespit
 ettirmek, olabildiğince eşyayı koruma altına almak ve durumdan vekâlet vereni hemen
 bilgilendirmekle yükümlüdür; aksi takdirde, her türlü ihmalinden doğan zarardan sorumlu olur.

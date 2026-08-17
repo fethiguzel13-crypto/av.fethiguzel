@@ -22,6 +22,8 @@ katılmasıyla; tek hâkimli mahkemelerde ise reddedilen hâkimin kendisi taraf�
 mahkemesi hukuk dairelerinin başkan ve üyeleri hakkındaki kararlarına karşı da temyiz
 yoluna ancak hükümle birlikte başvurulabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

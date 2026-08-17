@@ -7,12 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**Madde 3 – (Mülga: 2/6/2007-5681/6 md.)**
+Madde 4 – Polis hiç bir suretle vazifesinden başka bir işte kullanılamaz.
 
 ---
-
-Madde 4 – Polis hiç bir suretle vazifesinden başka bir işte kullanılamaz.
-Durdurma ve kimlik sorma
 
 ### Akademik Yorum ve Analiz
 

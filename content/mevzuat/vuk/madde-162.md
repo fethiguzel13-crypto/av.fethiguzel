@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**Tasfiye ve İflas**
+**Tasfiye ve İflas:**
 
 ---
 
@@ -17,6 +17,8 @@ Bu hallerde tasfiye memurları veya iflas dairesi:
 1. Tasfiye veya iflas kararlarını;
 2. Tasfiyenin veya iflasın kapandığını;
 vergi dairesine ayrı ayrı bildirmeye mecburdurlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

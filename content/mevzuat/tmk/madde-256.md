@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4286
 ---
 
-**Madde 256**
+**BEŞİNCİ AYIRIM
+MAL ORTAKLIĞI
+A. Mülkiyet
+I. Kapsamı**
 
 ---
 
-Madde 256 - Mal ortaklığı rejimi, ortaklık malları ile eşlerin kişisel mallarını kapsar.
+Madde 256- Mal ortaklığı rejimi, ortaklık malları ile eşlerin kişisel mallarını kapsar.
 
 ---
 

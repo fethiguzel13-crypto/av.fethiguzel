@@ -11,7 +11,8 @@ wordCount: 4301
 
 ---
 
-Madde 556 - Vasiyeti yerine getirme görevli si, görevini yerine getirirken özen göstermekle yükümlüdür; ilgililere karşı bir vekil gib i sorumludur. ALTINCI AYIR IM ÖLÜME BAĞLI TASARRUFLARIN İPTALİ VE TENKİSİ A. İptal davası I. Sebepleri
+Madde 556- Vasiyeti yerine getirme görevlisi, görevini yerine getirirken özen göstermekle
+yükümlüdür; ilgililere karşı bir vekil gibi sorumludur.
 
 ---
 

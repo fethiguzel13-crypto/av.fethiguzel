@@ -27,6 +27,8 @@ tarihi arasında geçen yıllar için her yılın gerçekleşen güncelleme kats
 bulunan tutarın ilgiliye tebliğ tarihini takip eden ayın sonuna kadar ödemeleri halinde, bu
 hizmetler ihya edilerek bu Kanunun uygulanmasında dikkate alınır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

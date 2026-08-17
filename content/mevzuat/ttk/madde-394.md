@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**V
-- Yönetim kurulu üyelerinin mali hakları**
+**V- Yönetim kurulu üyelerinin mali hakları**
 
 ---
 
-Madde 394 - (1) Yönetim kurulu üyelerine, tutarı esas sözleşmeyle veya genel kurul kararıy la belirlenmiş olmak şartıyla huzur hakkı, ücret, ikramiye, prim ve yıllık kârdan pay ödenebilir.
+MADDE 394- (1) Yönetim kurulu üyelerine, tutarı esas sözleşmeyle veya genel kurul
+kararıyla belirlenmiş olmak şartıyla huzur hakkı, ücret, ikramiye, prim ve yıllık kârdan pay
+ödenebilir.
 
 ---
 

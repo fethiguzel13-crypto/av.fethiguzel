@@ -7,22 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**yerine bağlı (2) sayılı cetvelde yazılı kadrolar ilave edilmiştir.**
-
----
-
 Madde 68 – 1426 sayılı Vilayet İdaresi Kanunu ile ek ve tadilleri ve bu kanuna aykırı
 bütün kanunlar ve tüzükler hükümleri yürürlükten kaldırılmıştır.
-Ek Madde 1 - (Ek: 29/8/1996-4178/2 md.)24
-Vali; sivil hava meydanları, limanlar ve sınır kapılarında, güvenliğin sağlanması, giriş
+Ek Madde 1 - (Ek: 29/8/1996-4178/2 md.)
+Vali; sivil hava meydanları, limanlar ve sınır kapılarında, güvenliğin sağlanması, giriş-
 çıkışlarla ilgili görev ve hizmetlerin düzenli ve etkili bir biçimde yürütülmesi, görevli
 kuruluşlar arasında işbirliği ve koordinasyonun gerçekleştirilmesi için gerekli önlemleri
 almaya ve uygulamaya, kuruluşların çalışmalarını denetlemeye yetkilidir. İçişleri
 Bakanlığının uygun göreceği bu yerlerde vali tarafından mülki idare amiri görevlendirilir.
-24 2/7/2018 tarihli ve 703 sayılı KHK’nin 138 inci maddesiyle, bu maddede yer alan “Bakanlar Kurulu” ibaresi “ Cumhurbaşkanı” şeklinde değiştirilmiştir.
-
-
-Vali, yetkilerinin tamamını veya bir kısmını görevlendirdiği mülki idare amirine devredebilir.
+Vali, yetkilerinin tamamını veya bir kısmını görevlendirdiği mülki idare amirine devredebilir.
 Bu yerlerde hizmet veren kuruluşlar, görevli mülki idare amirine karşı sorumludur.
 Görevlendirilen mülki idare amiri Kaçakçılığın Men ve Takibine Dair Kanun ile Gümrük
 Kanununun arama ile ilgili hükümleri saklı kalmak üzere, genel güvenlik ve kamu düzeni
@@ -58,9 +51,7 @@ usul ve esaslar dâhilinde erişim sistemi kurulabilir.
 Bu madde uyarınca elde edilen veriler başka amaçlar için kullanılamaz.
 Geçici Madde 1 – Bu Kanun hükümlerine göre kurulacak bucak teşkilatı her yıl
 bütçesine konacak ödenek nispetinde ve Bakanlar Kurulunca münasip görülecek illerde
-
-
-peyderpey teşkil olunur. Her ilde bu teşkilat yapılıncıya kadar halen yürürlükte olan kadrolar
+peyderpey teşkil olunur. Her ilde bu teşkilat yapılıncıya kadar halen yürürlükte olan kadrolar
 uygulanır.
 Bucak meclis ve komisyonları, ancak teşkilatı böylece tamamlanan bucaklarda
 kurulur.
@@ -78,6 +69,9 @@ Bu maddenin yürürlüğe girdiği tarihten önce 11 inci maddenin (D) fıkrası
 tarihli ve 3201 sayılı Emniyet Teşkilât Kanununun 1 inci maddesi uyarınca görevlendirilmiş
 olan Türk Silahlı Kuvvetleri personeli, memurlar, geçici köy korucuları ve gönüllü korucular
 dâhil diğer kamu görevlileri hakkında da 11 inci maddenin (J) fıkrasının beşinci ve altıncı
+bentlerinde yer alan hükümler uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

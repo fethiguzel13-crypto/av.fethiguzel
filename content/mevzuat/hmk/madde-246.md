@@ -17,6 +17,8 @@ gönderilmesine karar verebilir. Bu şekilde işlem yapılması, tanığın vere
 yeterli olup olmadığı hususunu hâkimin takdir etmesine engel olamaz. Hâkim, verilen yazılı
 cevapların yetersiz olması hâlinde, tanığı dinlemek üzere davet edebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

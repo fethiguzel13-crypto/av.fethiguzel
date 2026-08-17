@@ -17,9 +17,9 @@ ve statü değişikliği gereği yapılan devirler hariç olmak üzere, bir söz
 takibeden üç yıl içinde aynı yüklenici tarafından başka bir sözleşme devredilemez veya devir
 alınamaz. İzinsiz devredilen veya devir alınan veya bir sözleşmenin devredildiği tarihi takibeden
 üç yıl içinde devredilen veya devir alınan sözleşmeler feshedilerek, devreden ve devir alanlar
+hakkında 20, 22 ve 26 ncı madde hükümleri uygulanır.
 
-
-hakkında 20, 22 ve 26 ncı madde hükümleri uygulanır.
+---
 
 ### Akademik Yorum ve Analiz
 

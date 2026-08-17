@@ -32,6 +32,8 @@ yapıldığı,
 f) Diğer hallerde Maliye Bakanlığınca belirlenen,
 yerin vergi dairesine verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

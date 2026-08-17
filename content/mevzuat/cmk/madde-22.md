@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**Hâkimin davaya bakamayacağı hâller**
+**BEŞİNCİ BÖLÜM
+Hâkimin Davaya Bakamaması ve Reddi
+Hâkimin davaya bakamayacağı hâller**
 
 ---
 
@@ -25,6 +27,8 @@ g) Aynı davada Cumhuriyet savcılığı, adlî kolluk görevi, şüpheli veya s
 veya mağdur vekilliği yapmışsa,
 h) Aynı davada tanık veya bilirkişi sıfatıyla dinlenmişse,
 Hâkimlik görevini yapamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

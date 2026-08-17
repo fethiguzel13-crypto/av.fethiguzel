@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**Bedelinin tahsili için verilmiş emre veya hamiline muharrer senetler**
+**Bedelinin tahsili için verilmiş emre veya hamiline muharrer senetler:**
 
 ---
 
 Madde 188 – Sırf bedelini tahsil etmek için yahut tayin edilen ilerdeki bir tediyeye
 karşılık olarak müflise devredilmiş olan hamiline veya emre muharrer senetleri devredenler
 geriye istiyebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

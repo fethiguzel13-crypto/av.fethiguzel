@@ -11,7 +11,12 @@ wordCount: 4261
 
 ---
 
-Madde 361 - Çocuğun mallarının tehlikeye düş mesi başka bir şekilde önlenemiyo rsa hâkim, yönetimin bir kayyıma devredilmesine karar verebilir. Çocuğun, yönetimi ana ve babaya ait olmayan mal ları t ehlike ye düştüğünde hâkim, aynı önlemleri n alınmasını kararlaştırabilir. Çocuk mallarının gelirlerinin v eya bu mallardan ayrılmış belir li miktarların kanuna uygun şekilde sarfedileceğin den kuşku duyulursa hâkim, bunların da yönetimini bir kayyıma bır akabil ir.
+Madde 361- Çocuğun mallarının tehlikeye düşmesi başka bir şekilde önlenemiyorsa
+hâkim, yönetimin bir kayyıma devredilmesine karar verebilir.
+Çocuğun, yönetimi ana ve babaya ait olmayan malları tehlikeye düştüğünde hâkim, aynı
+önlemlerin alınmasını kararlaştırabilir.
+Çocuk mallarının gelirlerinin veya bu mallardan ayrılmış belirli miktarların kanuna uygun
+şekilde sarfedileceğinden kuşku duyulursa hâkim, bunların da yönetimini bir kayyıma bırakabilir.
 
 ---
 

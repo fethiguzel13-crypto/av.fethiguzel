@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**IV
-- İade davası**
+**IV - İade davası**
 
 ---
 
-Madde 763 - (1) Elden çıkan poliçe mahkemeye sunulursa, mahkeme, iade davası açması için dilekçe sahibine uygun bir süre verir. Dilekçe sahibi bu süre içinde dava açmazsa, mahkeme, poliçeyi, sunmuş olana geri verir ve muhatap hakkındaki ödeme yasağını kaldırır.
+MADDE 763- (1) Elden çıkan poliçe mahkemeye sunulursa, mahkeme, iade davası
+açması için dilekçe sahibine uygun bir süre verir. Dilekçe sahibi bu süre içinde dava açmazsa,
+mahkeme, poliçeyi, sunmuş olana geri verir ve muhatap hakkındaki ödeme yasağını kaldırır.
 
 ---
 

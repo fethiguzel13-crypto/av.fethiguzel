@@ -18,6 +18,8 @@ veya avukatı, başvuru sahibi ve uluslararası koruma statüsü sahibinin kişi
 alan belgeleri inceleyebilir, birer örneğini alabilir. Millî güvenlik ve kamu düzeninin
 korunması ile suç işlenmesinin önlenmesine ilişkin belgeler incelenemez ve verilemez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

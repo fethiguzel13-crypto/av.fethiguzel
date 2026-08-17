@@ -17,6 +17,8 @@ tutulacağı, yıllık izninin faydalı olması için işveren tarafından alın
 izinlerin kullanılması konusuna ilişkin usuller ve işverence tutulması zorunlu kayıtların şekli
 Çalışma ve Sosyal Güvenlik Bakanlığı tarafından hazırlanacak bir yönetmelikle gösterilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -26,6 +26,8 @@ h) Davacının, varsa kanuni temsilcisinin veya vekilinin imzası.
 olması hâlinde, hâkim davacıya eksikliği tamamlaması için bir haftalık kesin süre verir. Bu
 süre içinde eksikliğin tamamlanmaması hâlinde dava açılmamış sayılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

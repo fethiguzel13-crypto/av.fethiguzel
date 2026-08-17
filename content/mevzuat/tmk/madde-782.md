@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**3. Kendi taşınmaz ı üzerinde irtifak hakkı**
+**3. Kendi taşınmazı üzerinde irtifak hakkı**
 
 ---
 
-Madde 782 - Malik kendisine ait iki taşınmazdan biri üzerinde diğe rinin lehine irtifak hakkı kurabilir.
+Madde 782- Malik kendisine ait iki taşınmazdan biri üzerinde diğerinin lehine irtifak
+hakkı kurabilir.
 
 ---
 

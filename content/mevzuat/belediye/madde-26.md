@@ -31,6 +31,8 @@ hakkında gensoru önergesi verilebilir. Gensoru önergesi, meclis üye tam say�
 çoğunluğunun oyu ile gündeme alınır ve üç tam gün geçmedikçe görüşülemez.
 Gensoru önergesinin karara bağlanmasında dördüncü fıkraya göre işlem yapılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

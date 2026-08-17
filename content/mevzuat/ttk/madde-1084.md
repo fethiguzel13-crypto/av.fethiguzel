@@ -11,7 +11,7 @@ wordCount: 4268
 
 ---
 
-Madde 1084 - (1) Donatma iştiraki hak kında iflasın açılmasıyla da iştirak sona erer.
+MADDE 1084- (1) Donatma iştiraki hakkında iflasın açılmasıyla da iştirak sona erer.
 
 ---
 

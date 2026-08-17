@@ -11,14 +11,13 @@ wordCount: 4265
 
 ---
 
-Madde 596 - Kefil, alacaklıya ifada bulunduğu ölçüde, onun haklarına halef olur.
+MADDE 596- Kefil, alacaklıya ifada bulunduğu ölçüde, onun haklarına halef olur.
 Kefil, bu hakları asıl borç muaccel olunca kullanabilir.
 Kefil, aksi kararlaştırılmamışsa, rehin hakları ile aynı alacak için sağlanmış diğer
 güvencelerden sadece kefalet anında var olan veya bizzat asıl borçlu tarafından, sonradan
 özellikle bu alacak için verilmiş bulunanlara halef olur. Alacaklıya kısmen ifada bulunan
 kefil, rehin hakkının sadece bunu karşılayan kısmına halef olur. Alacaklının rehin konusu
 üzerinde geriye kalan alacak hakkı, kefilin rehin hakkından ön sırada gelir.
-
 Kefil ile asıl borçlu arasındaki hukuki ilişkiden doğan istem ve def’iler saklıdır.
 Bir alacağın güvencesini oluşturan rehin paraya çevrildiği veya borç rehin veren malik
 tarafından ödendiği takdirde malik, kefile karşı rücu hakkını, ancak kefil ile kendisi arasında

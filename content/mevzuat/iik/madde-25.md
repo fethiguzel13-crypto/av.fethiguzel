@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Çocuk teslimi**
+**(Mülga yedinci fıkra: 14/1/2011-6103/41 md.)
+Çocuk teslimi:**
 
 ---
 
 Madde 25 – (Mülga:24/11/2021-7343/32 md.)
-Çocukla şahsi münasebet tesisine dair ilamin icrası:
+
+---
 
 ### Akademik Yorum ve Analiz
 

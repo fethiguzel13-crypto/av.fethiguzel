@@ -7,12 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**Kasa mevcudu**
-
----
-
 Madde 284 – Kasa mevcutları itibari kıymetleriyle değerlenir; yabancı paralar
 hakkında 280 inci madde hükmü uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

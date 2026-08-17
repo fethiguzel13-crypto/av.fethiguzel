@@ -7,20 +7,17 @@ lastReviewed: "2026-07-27"
 wordCount: 3632
 ---
 
-**Paylı mülkiyetten doğan veya paylı malı ilgilendiren yönetim giderleri,**
+**4. Giderler ve yükümlülükler**
 
 ---
 
-Madde 694 - Paylı mülkiyetten doğan veya paylı malı ilgilendiren yönetim giderleri,
-vergiler ve diğer yükümlülükler, aksine bir hüküm bulunmadıkça, paydaşlar
-tarafından payları oranında karşılanır.
-
-Payına
-düşenden fazlasını ödemiş bulunan paydaş, diğerlerine payları oranında rücu
+Madde 694- Paylı mülkiyetten doğan veya paylı malı ilgilendiren yönetim giderleri,
+vergiler ve diğer yükümlülükler, aksine bir hüküm bulunmadıkça, paydaşlar tarafından payları
+oranında karşılanır.
+Payına düşenden fazlasını ödemiş bulunan paydaş, diğerlerine payları oranında rücu
 edebilir.
 
-5.
-Kararların bağlayıcılığı
+---
 
 ### Akademik Yorum ve Analiz
 

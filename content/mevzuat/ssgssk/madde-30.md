@@ -29,12 +29,12 @@ geçici iş göremezlik ödeneğinin aylık tutarından fazla ise, aradaki fark 
 tespit edilecek tarihten başlanarak verilir.
 (Değişik üçüncü fıkra: 17/4/2008-5754/18 md.) Bu Kanunun yürürlüğe girdiği
 tarihten sonra ilk defa sigortalı olan kişilerden yaşlılık aylığı bağlandıktan sonra;
-a) 4 üncü maddenin birinci fıkrasının (b) bendi hariç olmak üzere bu Kanuna
+a) 4 üncü maddenin birinci fıkrasının (b) (…)bendi hariç olmak üzere bu Kanuna
 göre veya yabancı bir ülke mevzuatı kapsamında çalışmaya başlayanların yaşlılık aylıkları,
 çalışmaya başladıkları tarihi takip eden ödeme dönemi başında kesilir. Bunlardan bu Kanuna
 tabi çalıştıkları süre zarfında 80 inci maddeye göre belirlenen prime esas kazançları üzerinden
 81 inci madde gereğince kısa ve uzun vadeli sigorta kolları ile genel sağlık sigortasına ait
-prim alınır. Yaşlılık aylığı kesilenlerden, işten ayrılarak yeniden yaşlılık aylığı
+prim alınır. Yaşlılık aylığı kesilenlerden, işten ayrılarak (…)yeniden yaşlılık aylığı
 bağlanması için yazılı istekte bulunanlara ya da emekliye ayrılan veya sevk edilenlere, yazılı
 istek tarihini veya görevinden ayrıldığı tarihi takip eden ödeme döneminden itibaren yeniden
 yaşlılık aylığı hesaplanarak bağlanır. Yeni aylık, eski aylığın kesildiği tarihten sonra aylıklara
@@ -47,6 +47,10 @@ b) (Değişik: 29/1/2016-6663/24 md.) 4 üncü maddenin birinci fıkrasının (b
 kapsamında çalışmaya başlayanlardan aylıklarının kesilmesi için yazılı istekte bulunanların
 yaşlılık aylıkları talep tarihini takip eden ay başından itibaren kesilir. Bu sigortalılar hakkında
 bu fıkranın (a) bendi hükümleri uygulanır.
+(Mülga dördüncü fıkra: 17/4/2008-5754/18 md.)
+(Mülga beşinci fıkra: 29/1/2016-6663/24 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

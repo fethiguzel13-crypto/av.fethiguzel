@@ -26,6 +26,8 @@ Sosyal Güvenlik Kurumuna yapılmayanlar, yetkili işçi sendikasının tespitin
 (5) Yetki tespiti ile ilgili usul ve esaslar Bakanlıkça çıkarılacak bir yönetmelikle
 düzenlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -11,7 +11,8 @@ wordCount: 4296
 
 ---
 
-Madde 773 - Bilimsel değeri olan sahipsiz d oğal şeyler ile eski eserlerin bulunması hâlinde özel kanun hü kümleri uygulanır.
+Madde 773- Bilimsel değeri olan sahipsiz doğal şeyler ile eski eserlerin bulunması
+hâlinde özel kanun hükümleri uygulanır.
 
 ---
 

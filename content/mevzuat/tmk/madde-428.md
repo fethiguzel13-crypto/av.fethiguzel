@@ -11,7 +11,8 @@ wordCount: 4295
 
 ---
 
-Madde 428 - İsteğe bağlı kısıtlama se beplerinden biri varsa, er gin bir kişiye kendi isteği üzerine bir kayyım atanabil ir.
+Madde 428- İsteğe bağlı kısıtlama sebeplerinden biri varsa, ergin bir kişiye kendi isteği
+üzerine bir kayyım atanabilir.
 
 ---
 

@@ -29,6 +29,8 @@ reddedilen başkan ve üye katılmaksızın görevli olduğu dairece incelenerek
 (4) Ret isteminin kabulü halinde, davaya bakmakla bir başka hâkim veya mahkeme
 görevlendirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -16,6 +16,8 @@ Madde 72 – (Değişik: 3/11/2016-6754/47 md.)
 ulaşım, konaklama ve diğer giderleri ödenir. Bu konuda, Adalet Bakanlığı tarafından çıkarılan
 ve her yıl güncellenen tarife esas alınır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**Tapu idarelerince yapılacak tebligat**
+**Tapu idarelerince yapılacak tebligat:**
 
 ---
 
@@ -17,6 +17,8 @@ iktisapta bulunan hak sahipleri, adreslerini ve değiştirdikleri takdirde yenis
 yerin tapu idaresine bildirmeye mecburdur. Davetiye veya tebliğ evrakı, bu suretle bilinen son
 adrese gönderilir. Hak sahiplerinin adres bildirmemeleri hâlinde adres kayıt sistemindeki
 adresleri tebligat adresleri olarak kabul edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

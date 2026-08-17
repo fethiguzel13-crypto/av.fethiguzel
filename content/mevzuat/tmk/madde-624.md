@@ -7,14 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**IV. Defter tutmanın sona ermesi M adde 623
-- İlânda belirtilen sürenin dolmasıyla defterin tutulması sona erer ve defter, bu tarihten başlayarak tanınacak en az bir aylık süre içinde ilgililerce incele nebilir. Defter tutma giderleri terekeden ödenir. Giderler terekeden karşılanamazsa defter tutulmasını istemiş olan m irasçılardan alınır.
-C. Defter tutma sırasında mirasçıların durumu
+**C. Defter tutma sırasında mirasçıların durumu
 I. Yönetim**
 
 ---
 
-Madde 624 - Defter tutma süresince ancak zorunlu yönetim işle ri yapılabilir. Miras bırakanın işlerinin yürütülmesi sulh mahkemesince kendisine bırakılan mirasçıdan diğer mirasçıla r güvence göstermesini isteyebilirler.
+Madde 624- Defter tutma süresince ancak zorunlu yönetim işleri yapılabilir.
+Mirasbırakanın işlerinin yürütülmesi sulh mahkemesince kendisine bırakılan mirasçıdan
+diğer mirasçılar güvence göstermesini isteyebilirler.
 
 ---
 

@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**3. Vesayet altındaki kişinin görüşünün a lınması**
+**3. Vesayet altındaki kişinin görüşünün alınması**
 
 ---
 
-Madde 450 - Vesayet altındaki kişi görüşlerini oluştur ma ve açıklama yeteneğine s ahipse, vasi önemli işlerde karar verm eden ö nce olanak ölçüsünde, onun görüşünü almakla yükümlüdür. Vesayet altındaki kişinin işi uygun bulmuş olma sı vasiyi sorumluluktan kurtarmaz.
+Madde 450- Vesayet altındaki kişi görüşlerini oluşturma ve açıklama yeteneğine sahipse,
+vasi önemli işlerde karar vermeden önce olanak ölçüsünde, onun görüşünü almakla yükümlüdür.
+Vesayet altındaki kişinin işi uygun bulmuş olması vasiyi sorumluluktan kurtarmaz.
 
 ---
 

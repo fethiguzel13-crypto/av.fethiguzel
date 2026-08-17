@@ -11,7 +11,7 @@ wordCount: 4315
 
 ---
 
-Madde 441 - İşverenin ölümü hâlinde, yerini mirasçıları alır. Bu durumda işyerinin
+MADDE 441- İşverenin ölümü hâlinde, yerini mirasçıları alır. Bu durumda işyerinin
 tamamının veya bir bölümünün devri ile gerçekleşen hizmet ilişkisinin devrine ilişkin
 hükümler kıyas yoluyla uygulanır.
 Hizmet sözleşmesi ağırlıklı olarak işverenin kişiliği dikkate alınmak suretiyle

@@ -19,11 +19,9 @@ Mağduru belli bir kişi olmayan suçlarda da bu fıkra hükmü uygulanır.
 (2) Aynı suçun birden fazla kişiye karşı tek bir fiille işlenmesi durumunda da, birinci
 fıkra hükmü uygulanır.
 (3) Kasten öldürme, kasten yaralama, işkence ve yağma suçlarında bu madde hükümleri
+uygulanmaz.
 
-uygulanmaz.5
-
-29/6/2005 tarihli ve 5377 sayılı Kanunun 6 ncı maddesiyle bu fıkrada geçen "cinsel saldırı,
-çocukların cinsel istismarı" ibaresi madde metninden çıkarılmıştır.
+---
 
 ### Akademik Yorum ve Analiz
 

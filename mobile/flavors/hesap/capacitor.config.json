@@ -2,36 +2,34 @@
   "appId": "com.avfethiguzel.hesap",
   "appName": "Hukuki Hesap",
   "webDir": "www",
-  "server": {
-    "url": "https://www.avfethiguzel.com/hesaplama?app=hesap&lang=tr&utm_source=android_app&utm_medium=hesap",
-    "cleartext": false,
-    "allowNavigation": [
-      "avfethiguzel.com",
-      "*.avfethiguzel.com",
-      "www.avfethiguzel.com",
-      "maps.google.com",
-      "*.google.com",
-      "play.google.com"
-    ]
-  },
   "plugins": {
     "SplashScreen": {
-      "launchShowDuration": 900,
-      "launchAutoHide": true,
+      "launchShowDuration": 600,
+      "launchAutoHide": false,
       "backgroundColor": "#CC5833",
       "showSpinner": false,
       "androidSplashResourceName": "splash",
-      "splashFullScreen": true,
-      "splashImmersive": true
+      "splashFullScreen": false,
+      "splashImmersive": false
     },
     "StatusBar": {
       "style": "DARK",
-      "backgroundColor": "#CC5833"
+      "backgroundColor": "#CC5833",
+      "overlaysWebView": false
+    },
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_notify",
+      "iconColor": "#CC5833"
     }
   },
   "android": {
     "allowMixedContent": false,
     "backgroundColor": "#F2F0E9",
-    "webContentsDebuggingEnabled": false
+    "webContentsDebuggingEnabled": false,
+    "allowNavigation": [
+      "avfethiguzel.com",
+      "*.avfethiguzel.com",
+      "play.google.com"
+    ]
   }
 }

@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Madde 1246**
+**DÖRDÜNCÜ BÖLÜM
+Zamanaşımı
+A) Süre**
 
 ---
 
-Madde 1246 - (1) 1188 inci madde hükmü saklı kalmak kaydıyla, gemi kira sözleşmeleri ile zaman ç arteri sözleşmeleri ve navlun sözleşmelerinden veya konişmentodan veya onun düzenlenmesinden doğan bütün alacaklar bir yılda zamanaşımına uğrar. (2) Bu süre, alacağın muaccel olmasıyla işlemeye başlar. BEŞİNCİ BÖLÜM Deniz Yoluyla Yolcu Taşıma Sözleşmesi A ) Tanımı
+MADDE 1246- (1) 1188 inci madde hükmü saklı kalmak kaydıyla, gemi kira
+sözleşmeleri ile zaman çarteri sözleşmeleri ve navlun sözleşmelerinden veya konişmentodan
+veya onun düzenlenmesinden doğan bütün alacaklar bir yılda zamanaşımına uğrar.
+(2) Bu süre, alacağın muaccel olmasıyla işlemeye başlar.
 
 ---
 

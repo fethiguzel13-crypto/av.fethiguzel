@@ -14,6 +14,8 @@ wordCount: 4312
 MADDE 192- (1) Kanunun belirli bir delille ispat zorunluluğunu öngörmediği
 hâllerde, Kanunda düzenlenmemiş olan diğer delillere de başvurulabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

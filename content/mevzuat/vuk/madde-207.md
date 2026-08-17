@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**Yabancı nakliyat kurumlarının hasılat defteri**
+**Yabancı nakliyat kurumlarının hasılat defteri:**
 
 ---
 
@@ -16,6 +16,8 @@ veya acentaları bir "Hasılat defteri" tutmaya ve bu deftere Türkiye'de elde e
 sırasiyle ve müfredatlı olarak kaydetmeye mecburdurlar. Bu madde gereğince hasılat defteri
 tutan yabancı nakliyat kurumları bu işleri için ayrıca muhasebe defteri tutmaya mecbur
 değildirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

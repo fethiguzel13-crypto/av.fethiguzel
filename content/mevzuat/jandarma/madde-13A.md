@@ -11,11 +11,8 @@ wordCount: 4312
 
 ---
 
-Madde 13/A – (Ek: 25/7/2016-KHK-669/113 md.; Değiştirilerek kabul: 9/11/2016
-8 2/7/2018 tarihli ve 703 sayılı KHK’nin 128 inci maddesiyle, bu fıkranın birinci cümlesinde yer alan “ve terfi” ibaresi madde metninden çıkarılmış, dördüncü cümlesinde yer alan “müşterek kararname” ibaresi “Cumhurbaşkanı onayı” şeklinde değiştirilmiştir.
-
-
-6756/112 md.)
+Madde 13/A – (Ek: 25/7/2016-KHK-669/113 md.; Değiştirilerek kabul: 9/11/2016-
+6756/112 md.)
 Jandarma ve Sahil Güvenlik Teşkilatlarının subay ve astsubay ve diğer personel
 ihtiyacını karşılamak, önlisans, lisans ve lisansüstü eğitim-öğretim, bilimsel araştırma, yayın
 yapmak üzere bünyesinde fakülte, enstitü, astsubay meslek yüksekokulları, eğitim ve
@@ -45,17 +42,14 @@ unvanlarının yükselmesi ve korunması konusunda 2547 sayılı Kanun ve 11/10/
 2914 sayılı Yükseköğretim Personel Kanunu hükümleri uygulanır. Jandarma hizmetleri sınıfı
 ve sahil güvenlik hizmetleri sınıfı dışından olan öğretim elemanları için cezai hükümler
 açısından Jandarma Genel Komutanlığında görevli jandarma hizmetleri sınıfı dışındaki diğer
-devlet memurlarına uygulanan mevzuat hükümleri geçerlidir.9
+devlet memurlarına uygulanan mevzuat hükümleri geçerlidir.
 (Ek fıkra: 18/10/2018-7148/12 md.) Akademide istihdam edilen Jandarma Hizmetleri
 Sınıfı ve Sahil Güvenlik Hizmetleri Sınıfı dışında olan öğretim elemanlarına almakta oldukları
 üniversite ödeneğinin %30’u oranında ayrıca ödeme yapılır. Bu ödeme damga vergisi hariç
 herhangi bir vergiye tabi tutulmaz.
 (Ek fıkra: 2/1/2017-KHK-680/44 md.; Aynen kabul: 1/2/2018-7072/43 md.)
 Akademide görevli Jandarma Hizmetleri Sınıfı ile Sahil Güvenlik Hizmetleri Sınıfından öğretim
-9 Anayasa Mahkemesi’nin 20/7/2022 tarihli ve E.: 2022/62, K.: 2022/95 sayılı Kararı ile bu fıkrada yer alan “disiplin” ve “ve” ibareleri iptal edilmiştir.
-
-
-elemanlarının özlük haklarına ilişkin ödemelerde 926 sayılı Kanun hükümleri uygulanır. Ancak
+elemanlarının özlük haklarına ilişkin ödemelerde 926 sayılı Kanun hükümleri uygulanır. Ancak
 bu kapsamdaki öğretim elemanlarına, 2914 sayılı Kanunun 12 nci maddesine göre hesaplanacak
 üniversite ödeneği ile Türk Silahlı Kuvvetleri hizmet tazminatından hangisi fazla ise o ödenir.
 Öğretim elemanlarından 28/2/1982 tarihli ve 2629 sayılı Uçuş, Paraşüt, Denizaltı, Dalgıç ve
@@ -92,12 +86,9 @@ mezunlarıdır. İlgili devletlerle yapılacak uluslararası anlaşmalara bağl�
 eğitim-öğretimi izleyebilecek Türkçe dil yeterliklerinin sınav ile tespit edilmesinden sonra
 öğretime başlatılır. Yabancı uyruklu öğrenciler Akademi öğrencilerine uygulanan kurallara
 uymakla yükümlüdür. Akademiye alınacak öğrencilerin nitelikleri ile giriş usul ve esasları
-yönetmelikle belirlenir.10
+yönetmelikle belirlenir.
 Akademi bünyesindeki tüm birimlerde öğrenim gören öğrencilerden öğrenim süresini
-10 Anayasa Mahkemesinin 12/2/2026 tarihli ve E.: 2025/257, K.: 2026/44 sayılı Kararı ile bu fıkrada yer alan “nitelikleri” ibaresi iptal edilmiştir. Bu Karar Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra (4/2/2027) yürürlüğe girer.
-
-
-başarıyla tamamlayanların subay ve astsubay nasbedilmeleri için Akademi tarafından yapılacak
+başarıyla tamamlayanların subay ve astsubay nasbedilmeleri için Akademi tarafından yapılacak
 yeterlilik sınavında başarılı olması gerekmektedir. Yeterlilik sınavına ilişkin usul ve esaslar
 İçişleri Bakanlığınca çıkarılan yönetmelikle belirlenir.
 En az dört yıl süreli fakülte bitirenlerden muvazzaf subay olmak için başvuranlar ile
@@ -136,19 +127,17 @@ Jandarma ve Sahil Güvenlik Akademisine alınanların sevkleri, Akademinin tekli
 subay ve astsubay nasbedilinceye kadar, Milli Savunma Bakanlığı tarafından tehir edilir.
 Öğrencilerin statülerinin gerektirdiği iş ve işlemler Başkanlıkça yürütülür. (Değişik beşinci ve
 altıncı cümle:21/11/2024-7533/21 md.) Subay veya astsubay nasbedilmek üzere lisans
-
-
-veya önlisans eğitimi yapanlar (yabancı uyruklular hariç) eğitime başladıklarının ilk eğitim
+veya önlisans eğitimi yapanlar (yabancı uyruklular hariç) eğitime başladıklarının ilk eğitim-
 öğretim yılının son gününe kadar öğretim masraflarının iki katını kanuni faizi ile birlikte
 tazminat olarak ödemek suretiyle istifa edebilirler. Bu fıkra kapsamında olanlar öğrenim
 gördükleri bölümleri/programları veya okumakta oldukları yükseköğretim kurumlarını
 değiştiremezler veya yatay geçiş yapamazlar. (Ek cümle:21/11/2024-7533/21 md.) Ancak
 Akademide eğitim alan öğrencilerden meslek yüksek okulunda eğitim görenler, Akademi
 senatosu tarafından belirlenen dikey geçiş koşulları ve esaslarına göre fakülteye dikey geçiş
-yapabilirler.11
+yapabilirler.
 Akademide öğrenim gören öğrencilerin aşağıdaki hallerde öğrenimlerine son verilir:
 a) Bu Kanun hükümlerine göre çıkarılacak yönetmelikle belirlenecek disiplin notu
-yetersiz olanlar.11
+yetersiz olanlar.
 b) Haklarında öğrenim gördükleri kurumdan çıkarma cezası verilerek, cezası kesinleşenler.
 c) Öğrenimlerini, mevzuatta belirlenen azami süre içerisinde tamamlayamayanlar.
 d) 657 sayılı Devlet Memurları Kanununa göre memur olma niteliğini kaybedenler.
@@ -174,10 +163,7 @@ eş veya çocukları, akademik başarısızlık sebebiyle ilişiklerinin kesilme
 yükümlülüğünden muaf tutulurlar.
 (Ek fıkra: 2/1/207-KHK-680/44 md.; Değişik fıkra: 15/8/2017-KHK-694/54 md.;
 Değiştirilerek kabul: 1/2/2018-7072/43 md.) Akademi bünyesindeki faaliyetlere yönelik
-11 21/11/2024 tarihli ve 7533 sayılı Kanunun 21 inci maddesi ile bu maddenin onaltıncı fıkrasının üçüncü cümlesinde yer alan “21/6/1927 tarihli ve 1111 sayılı Askerlik Kanunu” ibaresi “25/6/2019 tarihli ve 7179 sayılı Askeralma Kanunu” şeklinde
-
-
-olarak döner sermaye işletmesi kurulmuştur. İşletmeye onmilyon Türk Lirası sermaye tahsis
+olarak döner sermaye işletmesi kurulmuştur. İşletmeye onmilyon Türk Lirası sermaye tahsis
 edilmiştir. Bu tutar, Maliye Bakanlığının uygun görüşü ile artırılabilir. Başlangıç sermayesi
 Jandarma Genel Komutanlığı bütçesinden karşılanır. İşletmenin sermayesi, Jandarma Genel
 Komutanlığı bütçesine konulacak ödenekler, ayni yardımlar, faaliyet sonucu elde edilecek
@@ -196,6 +182,8 @@ sınavına girdikleri yıl aldıkları puanlarına uygun bir yükseköğretim ku
 İKİNCİ BÖLÜM
 Atama, Yer Değiştirme ve Disiplin İşlemleri
 Jandarma subay, astsubay ve uzman jandarmanın atanma ve yer değiştirme esasları:
+
+---
 
 ### Akademik Yorum ve Analiz
 

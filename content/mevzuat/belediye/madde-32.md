@@ -21,6 +21,8 @@ Meclis üyeleri hastalıkları süresince izinli sayılır. Ayrıca mazeretleri 
 yıl içindeki toplantı süresinin yarısını aşmamak şartıyla istekleri üzerine meclis tarafından izin
 verilebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

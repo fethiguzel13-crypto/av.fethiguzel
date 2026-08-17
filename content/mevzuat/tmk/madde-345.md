@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4281
 ---
 
-**VII. Çocuk ile ana ve baba a rasınd aki hu kukî işlemler**
+**VII. Çocuk ile ana ve baba arasındaki hukukî işlemler**
 
 ---
 
-Madde 345 - Çocuk ile ana veya baba arasında ya da ana ve babanın menfaatine olarak ç ocuk ile üçüncü kişi arasında yapılacak bir hukukî işlemle çocuğun borç al tına gi rebilmesi, bir kayyımın kat ılmasına ve hâkimin onayına bağlıdır.
+Madde 345- Çocuk ile ana veya baba arasında ya da ana ve babanın menfaatine olarak
+çocuk ile üçüncü kişi arasında yapılacak bir hukukî işlemle çocuğun borç altına girebilmesi, bir
+kayyımın katılmasına ve hâkimin onayına bağlıdır.
 
 ---
 

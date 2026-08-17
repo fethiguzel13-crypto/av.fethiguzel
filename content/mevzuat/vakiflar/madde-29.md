@@ -14,6 +14,8 @@ wordCount: 4264
 MADDE 29 – Vakıflara ait taşınır ve taşınmaz kültür ve tabiat varlıkları; Genel
 Müdürlük, ilgili kamu kurum ve kuruluşları ile kullananları tarafından korunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Kamu davasına katılma**
+**İKİNCİ KISIM
+Kamu Davasına Katılma
+Kamu davasına katılma**
 
 ---
 
@@ -17,6 +19,8 @@ kadar şikâyetçi olduklarını bildirerek kamu davasına katılabilirler.
 (2) Kanun yolu muhakemesinde davaya katılma isteğinde bulunulamaz. Ancak, ilk
 derece mahkemesinde ileri sürülüp reddolunan veya karara bağlanmayan katılma istekleri,
 kanun yolu başvurusunda açıkça belirtilmişse incelenip karara bağlanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

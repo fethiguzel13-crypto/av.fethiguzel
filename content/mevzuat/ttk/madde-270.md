@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
-**III
-- İfl as**
+**III - İflas**
 
 ---
 
-Madde 270 - (1) Bir kollektif şirketin tasfiye hâlinde bulunması, iflasına engel oluşturmaz.
+MADDE 270- (1) Bir kollektif şirketin tasfiye hâlinde bulunması, iflasına engel
+oluşturmaz.
 
 ---
 

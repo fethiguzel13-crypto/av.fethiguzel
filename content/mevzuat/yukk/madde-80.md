@@ -30,6 +30,8 @@ gün içinde sonuçlandırılır. Mahkemenin bu konuda vermiş olduğu karar kes
 e) İtiraz veya yargılama süreci sonuçlanıncaya kadar ilgili kişinin ülkede kalışına izin
 verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

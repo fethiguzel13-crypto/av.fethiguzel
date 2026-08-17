@@ -11,7 +11,7 @@ wordCount: 4308
 
 ---
 
-Madde 597 - Borcu tamamen veya kısmen ödeyen kefil, durumu borçluya bildirmek
+MADDE 597- Borcu tamamen veya kısmen ödeyen kefil, durumu borçluya bildirmek
 zorundadır.
 Kefil, bu bildirimde bulunmazsa ve ödemeyi bilmeyen veya bilmesi gerekmeyen
 borçlu da alacaklıya ifada bulunursa, rücu hakkını kaybeder.

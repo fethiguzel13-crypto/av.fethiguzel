@@ -7,22 +7,17 @@ lastReviewed: "2026-07-27"
 wordCount: 3266
 ---
 
-**(1) İlk itirazların hepsi cevap dilekçesinde**
+**c) (Mülga:22/7/2020-7251/8 md.)
+İleri sürülmesi ve incelenmesi**
 
 ---
 
-Madde 117 - (1) İlk itirazların hepsi cevap dilekçesinde
-ileri sürülmek zorundadır; aksi hâlde dinlenemez.
+MADDE 117- (1) İlk itirazların hepsi cevap dilekçesinde ileri sürülmek zorundadır;
+aksi hâlde dinlenemez.
+(2) İlk itirazlar, dava şartlarından sonra incelenir.
+(3) İlk itirazlar, ön sorunlar gibi incelenir ve karara bağlanır.
 
-(2) İlk itirazlar, dava şartlarından
-sonra incelenir.
-
-(3) İlk itirazlar, ön sorunlar
-gibi incelenir ve karara bağlanır.
-
-ÜÇÜNCÜ KISIM
-
-Yazılı Yargılama Usulü
+---
 
 ### Akademik Yorum ve Analiz
 

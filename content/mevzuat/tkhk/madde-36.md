@@ -13,7 +13,6 @@ wordCount: 4285
 
 MADDE 36- (1) Kredilerde geri ödeme tutarlarının, finansal kiralama işlemlerinde ise
 kira bedellerinin anaparayı aşan kısmı bu madde kapsamında faiz olarak kabul edilir.
-
 (2) Sözleşmede belirtilmek suretiyle konut finansmanına yönelik kredilerde ve
 finansal kiralama işlemlerinde faiz oranı sabit veya değişken olarak ya da aynı kredi için her
 iki yöntem esas alınmak suretiyle belirlenebilir. Faiz oranının sabit olarak belirlenmesi
@@ -25,6 +24,8 @@ kabul görmüş ve yaygın olarak kullanılan endekslerden en düşük olanı ba
 değiştirilebilir. Oranların değişken olarak belirlenmesi hâlinde bu yöntemin muhtemel etkileri
 konusunda tüketicilerin bilgilendirilmesi şarttır. Bu amaçlarla kullanılabilecek referans faizler
 ve endeksler Türkiye Cumhuriyet Merkez Bankası tarafından belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

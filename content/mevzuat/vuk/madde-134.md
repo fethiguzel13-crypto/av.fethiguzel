@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Maksat**
+**İKİNCİ BÖLÜM
+Vergi İncelemeleri
+Maksat:**
 
 ---
 
@@ -17,6 +19,8 @@ maksat, ödenmesi gereken vergilerin doğruluğunu araştırmak tespit etmek ve 
 dahil iktisadi kıymetlerin fiili envanterinin yapılmasına ve beyannamelerde gösterilmesi
 gereken unsurların tetkikına da teşmil edilebilir. Fiili envanterin yapılmasının gerektirdiği ve
 incelemeyi yapan tarafından tasdik edilen giderler Hazinece mükellefe ödenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

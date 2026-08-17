@@ -11,7 +11,9 @@ wordCount: 4306
 
 ---
 
-Madde 901 - İpotekli borç sene dindeki borçtan kişisel olarak sorumlu olmayan rehinli taşınma z maliki hakkında ipoteğe ilişkin hükümler uygulanır. Taşınmaz maliki, alacaklıya karşı b orçluya ait bütün def'ileri ileri sürebilir.
+Madde 901- İpotekli borç senedindeki borçtan kişisel olarak sorumlu olmayan rehinli
+taşınmaz maliki hakkında ipoteğe ilişkin hükümler uygulanır.
+Taşınmaz maliki, alacaklıya karşı borçluya ait bütün def'ileri ileri sürebilir.
 
 ---
 

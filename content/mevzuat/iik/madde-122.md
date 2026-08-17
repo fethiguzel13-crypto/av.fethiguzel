@@ -7,17 +7,14 @@ lastReviewed: "2026-07-27"
 wordCount: 3320
 ---
 
-**Aile mal ortaklığında bir hissenin satışı 121 inci**
+**Aile mal ortaklığı:**
 
 ---
 
-Madde 122 - Aile mal ortaklığında bir hissenin satışı 121 inci
-maddeye göre yapılır. Kanunu Medeninin 331 inci maddesi hükümleri mahfuzdur.
+Madde 122 – Aile mal ortaklığında bir hissenin satışı 121 inci maddeye göre yapılır.
+Kanunu Medeninin 331 inci maddesi hükümleri mahfuzdur.
 
-3
-– Taşınmazların satışı:
-
-Satış müddeti:
+---
 
 ### Akademik Yorum ve Analiz
 

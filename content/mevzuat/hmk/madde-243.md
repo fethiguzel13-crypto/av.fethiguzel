@@ -21,6 +21,8 @@ Acele hâllerde tanığın daha önce gelmesine karar verilebilir.
 yararlanılmak suretiyle de yapılabilir. Ancak, davete rağmen gelmemeye bağlanan sonuçlar,
 bu durumda uygulanmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

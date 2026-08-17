@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**Malların paraya çevrilmesi usulü**
+**Malların paraya çevrilmesi usulü:**
 
 ---
 
@@ -22,6 +22,8 @@ bulunduran işletmeler bir bütün olarak satılır. Satışta işletmenin devam
 olan katkısı gözetilir. Bu hâlde taşınmazın paraya çevrilmesi hükümleri uygulanır. Bir bütün
 olarak satış gerçekleşmezse mal ve haklar ayrı ayrı satılır. Bu fıkranın uygulanmasına ilişkin
 usul ve esaslar Adalet Bakanlığı tarafından çıkarılan yönetmelikte düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

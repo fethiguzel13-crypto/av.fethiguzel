@@ -18,6 +18,8 @@ yargı görevi yapanı, bilirkişiyi veya tanığı hukuka aykırı olarak etkil
 sözlü veya yazılı beyanda bulunan kişi, elli günden az olmamak üzere adli para cezası ile
 cezalandırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

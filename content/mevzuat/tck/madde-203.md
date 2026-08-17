@@ -16,6 +16,8 @@ veya varlığının aynen korunmasını sağlamak için konulan mührü kaldıra
 amacına aykırı hareket eden kişi, altı aydan üç yıla kadar hapis veya adlî para cezası ile
 cezalandırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

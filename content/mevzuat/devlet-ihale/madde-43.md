@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4277
 ---
 
-**İhalenin yapılamaması**
+**İhalenin yapılamaması:**
 
 ---
 
@@ -19,7 +19,8 @@ muhafazası zorunludur. Yeni ihale yapılıncaya kadar geçecek günler içinde 
 korunarak günlük ihtiyaçlar oranında pazarlıkla mal alınabilir. Ancak ihale, şartnamede
 belirtilen nitelikte mal bulunmaması sebebiyle geri kalmış ise günlük ihtiyaçlar şartnameye
 bağlı kalmaksızın temin edilebilir.
-BELLİ İSTEKLİLER ARASINDA KAPALI TEKLİF USULÜ
+
+---
 
 ### Akademik Yorum ve Analiz
 

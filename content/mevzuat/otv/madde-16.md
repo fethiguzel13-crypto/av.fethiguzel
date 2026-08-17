@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4321
 ---
 
-**Gümrük idarelerince alınan özel tüketim vergisine ilişkin hükümler**
+**BEŞİNCİ BÖLÜM
+Gümrük İdarelerince Alınan Özel Tüketim Vergisine İlişkin Hükümler
+Gümrük idarelerince alınan özel tüketim vergisine ilişkin hükümler**
 
 ---
 
@@ -25,6 +27,8 @@ uyarınca ithalat vergileri noksanlıklarında uygulanacak esaslara göre para c
 4. (I) sayılı listedeki malların ithalinde, ödenecek özel tüketim vergisine karşılık olmak
 üzere türü, tutarı ve çözümüne ilişkin usul ve esasları Maliye Bakanlığınca belirlenmek suretiyle
 teminat alınır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

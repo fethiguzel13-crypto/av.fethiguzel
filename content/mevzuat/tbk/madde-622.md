@@ -12,7 +12,7 @@ wordCount: 4295
 
 ---
 
-Madde 622 - Ortaklar, niteliği gereği ortaklığa ait olan bütün kazançları aralarında
+MADDE 622- Ortaklar, niteliği gereği ortaklığa ait olan bütün kazançları aralarında
 paylaşmakla yükümlüdürler.
 
 ---

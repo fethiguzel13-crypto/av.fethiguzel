@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**Cinsel saldırı**
+**ALTINCI BÖLÜM
+Cinsel Dokunulmazlığa Karşı Suçlar
+Cinsel saldırı**
 
 ---
 
@@ -22,8 +24,7 @@ işlenmesi hâlinde, soruşturma ve kovuşturmanın yapılması mağdurun şikâ
 a) Beden veya ruh bakımından kendisini savunamayacak durumda bulunan kişiye karşı,
 b) Kamu görevinin, vesayet veya hizmet ilişkisinin sağladığı nüfuz kötüye kullanılmak
 suretiyle,
-
-c) Üçüncü derece dâhil kan veya kayın hısımlığı ilişkisi içinde bulunan bir kişiye karşı
+c) Üçüncü derece dâhil kan veya kayın hısımlığı ilişkisi içinde bulunan bir kişiye karşı
 ya da üvey baba, üvey ana, üvey kardeş, evlat edinen veya evlatlık tarafından,
 d) Silahla veya birden fazla kişi tarafından birlikte,
 e) İnsanların toplu olarak bir arada yaşama zorunluluğunda bulunduğu ortamların
@@ -33,6 +34,8 @@ işlenmesi hâlinde, yukarıdaki fıkralara göre verilen cezalar yarı oranınd
 neticelerine neden olması hâlinde, ayrıca kasten yaralama suçuna ilişkin hükümler uygulanır.
 (5) Suç sonucu mağdurun bitkisel hayata girmesi veya ölümü hâlinde, ağırlaştırılmış
 müebbet hapis cezasına hükmolunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

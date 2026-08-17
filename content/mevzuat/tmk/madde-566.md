@@ -11,7 +11,11 @@ wordCount: 4264
 
 ---
 
-Madde 566 - Kendisine tenkise tâbi bir kazandırma yapılmış olan kimse iyiniyetli ise, sadece mirasın geçmesi anında kazandırmadan elinde kalanı geri vermekle yükümlüdür; iyiniyetli değilse , iyiniyetli olmayan zilyedin geri verme borcuna ilişkin hükümlere göre sorumlu olur. Mira s sözleşmesiyle elde ettiği kazandırma tenkise tâbi tutulan kimse, bu kazandırma için mirasbırakana verdiği karşılığın tenkis oranında geri verilmesini isteyebilir.
+Madde 566- Kendisine tenkise tâbi bir kazandırma yapılmış olan kimse iyiniyetli ise,
+sadece mirasın geçmesi anında kazandırmadan elinde kalanı geri vermekle yükümlüdür; iyiniyetli
+değilse, iyiniyetli olmayan zilyedin geri verme borcuna ilişkin hükümlere göre sorumlu olur.
+Miras sözleşmesiyle elde ettiği kazandırma tenkise tâbi tutulan kimse, bu kazandırma için
+mirasbırakana verdiği karşılığın tenkis oranında geri verilmesini isteyebilir.
 
 ---
 

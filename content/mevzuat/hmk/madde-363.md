@@ -23,6 +23,8 @@ bozulur. Bu bozma, kararın hukuki sonuçlarını ortadan kaldırmaz.
 (3) Bozma kararının bir örneği Adalet Bakanlığına gönderilir ve Bakanlıkça Resmî
 Gazetede yayımlanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

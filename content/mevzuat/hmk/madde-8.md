@@ -15,6 +15,8 @@ MADDE 8- (1) Memur, işçi, öğrenci, asker gibi, bir yerde geçici olarak otur
 karşı açılacak alacak veya taşınır mal davaları için, orada bulunmaları uzunca bir süre devam
 edebilecekse, bulundukları yer mahkemesi de yetkilidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

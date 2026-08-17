@@ -7,50 +7,21 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**Tanımlar**
+**Birden çok noterlik açılması ve noterliğin kapatılması:**
 
 ---
 
-MADDE 3- (1) Bu Kanunda geçen;
-a) Adres: Herhangi bir toprak parçası veya binanın coğrafî konumu ve işlevi açısından tanımlanmasını,
-b) Adres beyan formu: Adreslerin bildiriminde kullanılan, şekli ve içeriği Bakanlıkça belirlenen formu,
-c) Adres bileşenleri: İl, ilçe, köy ve köy bağlıları, mahalle, bulvar, cadde, sokak, bina, dış kapı numarası, iç kapı numarası, posta kodu gibi adres bilgisine ulaşmak için gerekli sözel ve mekânsal verileri,
-d) Aile: Aynı soydan olup, bir aile sıra numarası altında kayıtlı olan kişiler ile onların eş ve çocuklarını,
-e) Aile kütüğü: Nüfus olaylarına ilişkin kayıtların kâğıt veya elektronik ortamda tutulduğu kütüğü,
-f) Aile sıra numarası: Ailelerin aile kütüğüne yazılış sırasına göre verilen numarayı,
-g) Bakanlık: İçişleri Bakanlığını,
-ğ) Dayanak belgesi: Aile kütüğüne işlenen nüfus olaylarının dayanağı olan form, tutanak, mahkeme kararı, noter senedi, doğum veya ölüm raporu gibi resmî belgeler ile bunların yedeklerini,
-h) Değerli kâğıtlar: Kimlik kartını, uluslararası aile cüzdanını ve mavi kartı,
-ı) Diğer adres: Yerleşim yeri adresi dışında kalan yerleri,
-i) Genel Müdürlük: Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünü,
-j) İl müdürlüğü: İl nüfus ve vatandaşlık müdürlüğünü,
-k) Kimlik Paylaşımı Sistemi: Merkezi veri tabanında tutulan kayıtların kurumlar ve kamu hizmeti sunan tüzel kişiler ile paylaşıldığı sistemi,
-l) Kurum: Genel Müdürlük dışındaki diğer kamu kurum ve kuruluşlarını,
-m) Mavi Kart: Doğumla Türk vatandaşı olup da çıkma izni almak suretiyle Türk vatandaşlığını kaybedenler ve bunların altsoylarına verilen resmi belgeyi,
-n) Mavi Kartlılar Kütüğü: Bu kişilerin kayıtlarının elektronik ortamda tutulduğu kütüğü,
-o) Merkezî veri tabanı: Genel Müdürlükçe elektronik ortamda tutulan verileri,
-ö) MERNİS: Merkezî Nüfus İdaresi Sistemini,
-p) Numaralama: Adres bileşenlerine isim veya numara verilmesi işlemini,
-r) Kimlik kartı: TC kimlik kartını,
-s) Nüfus hizmetleri: Nüfus olaylarına ilişkin iş ve işlemleri,
-ş) Nüfus kaydı: Aile kütüğüne işlenmiş kişisel bilgileri,
-t) Nüfus kayıt örneği: Kişisel bilgilerin özetlerini gösterir belgeyi,
-u) Nüfus kütüğü: Aile kütüğü, özel kütük ve yedeklerinden oluşan kayıtların tümünü,
-ü) Nüfus müdürlüğü: İlçe nüfus müdürlüğünü,
-v) Nüfus müdürü: İlçe nüfus müdürünü,
-y) Nüfus olayı: Doğum, ölüm, evlenme, boşanma, evlât edinme, tanıma, kayıt düzeltme gibi kişisel durumlarda değişiklik meydana getiren olayı,
-z) Özel kütük: Nüfus olaylarına ait dayanak belgelerinin dosyalandığı kütüğü,
-aa) Ulusal adres veri tabanı: Adres bilgilerinin tutulduğu merkezî veri tabanını,
-bb) Uluslararası aile cüzdanı: Çok dilli resmî aile kimlik belgesini,
-cc) Vekâletname: Temsil yetkisini kapsayan noterden onaylı belgeyi,
-çç) Yabancılar kütüğü: Kimlik numarası verilen yabancıların kayıtlarının elektronik ortamda tutulduğu kütüğü,
-dd) Yapı belgeleri: Yapı Ruhsat Formu ve benzeri belgeleri,
-ee) Yerleşim yeri adresi: Sürekli kalma niyetiyle oturulan yeri,
-ff) Biyometrik veri: Parmak izi, damar izi ve el ayasından elde edilen kişiye özgü verileri,
-gg) Veri Paylaşımı Kurulu: Merkezî veri tabanındaki bilgilerin paylaşımına ilişkin talepleri değerlendirmek üzere oluşturulan kurulu,
-ğğ) Yetkili idare: Adres numaralama yetki ve sorumluluğu verilen idareleri,
-hh) Elektronik Kimlik Doğrulama Sistemi: TC kimlik kartının elektronik kimlik doğrulama işlemlerinde kullanılabilmesini sağlayan sistemi,
-ifade eder.
+Madde 3 – Adalet Bakanlığı, iş yoğunluğunda artış görülen yerlerde birden çok
+noterlik açabilir.
+Adalet Bakanlığı, bir yerdeki noterliklerin gayrisafi gelirlerinin toplamı ile iş
+hayatındaki gelişme ve gerilemeleri gözönünde bulundurmak suretiyle yukarıdaki fıkrada
+yazılı salahiyetini kullanır.
+Mevcut noterliklerden birden fazlasını, boşalmış bulunması kaydiyle kapatabilir.
+Adalet Bakanlığı birden çok noterlik açma ve noterliklerden birden fazlasını kapatma
+yetkisini kullanmadan önce Türkiye Noterler Birliğinin mütalaasını alır.
+(Ek fıkra: 14/7/2004-5219/8 md.) Asliye mahkemesinin kaldırıldığı ilçelerdeki birinci,
+ikinci ve üçüncü sınıf noterlikler ise boşalmış olması halinde, Türkiye Noterler Birliğinin teklifi
+üzerine Adalet Bakanlığınca kapatılabilir.
 
 ---
 

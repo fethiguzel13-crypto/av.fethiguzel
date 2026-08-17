@@ -8,13 +8,13 @@ wordCount: 4301
 ---
 
 **B) Yönetim ve temsil
-I
-- Genel olarak
+I - Genel olarak
 1. Esas**
 
 ---
 
-Madde 365 - (1) Anonim şirket, yönetim kurulu tarafından yönetilir ve temsil olunur. Kanundaki istisnai hükümler saklıdır.
+MADDE 365- (1) Anonim şirket, yönetim kurulu tarafından yönetilir ve temsil
+olunur. Kanundaki istisnai hükümler saklıdır.
 
 ---
 

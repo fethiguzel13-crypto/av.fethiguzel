@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4210
 ---
 
-**Tanımlar1**
+**Tanımlar**
 
 ---
 
@@ -30,12 +30,11 @@ kurumlar ile 5018 sayılı Kanunda tanımlanan mahalli idareler ve bu idareler t
 işletmeleri, özel kanunla kurulmuş diğer kamu kurum, kurul, üst kurul ve kuruluşları, kamu
 iktisadi teşebbüsleri ile bunların bağlı ortaklıkları, müessese ve işletmelerini, sermayesinin
 yüzde ellisinden fazlası kamuya ait diğer ortaklıkları,
-1 12/10/2017 tarihli ve 7036 sayılı Kanunun 17 nci maddesiyle, bu maddenin birinci fıkrasının (b) bendine “gerçekleştiren,” ibaresinden sonra gelmek üzere “tarafların çözüm üretemediklerinin ortaya çıkması hâlinde çözüm önerisi de getirebilen,” ibaresi ve (d) bendinden sonra gelmek üzere (e) bendi eklenmiş ve diğer bentler buna göre teselsül ettirilmiştir.
-
-
-f) Kurul: Arabuluculuk Kurulunu,
+f) Kurul: Arabuluculuk Kurulunu,
 g) Sicil: Arabulucular sicilini,
 ifade eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

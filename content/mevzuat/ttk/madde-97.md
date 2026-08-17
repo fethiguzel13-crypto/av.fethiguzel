@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**IV
-- Bütünlük ilkesi**
+**IV - Bütünlük ilkesi**
 
 ---
 
-Madde 97 - (1) Cari h esaba geçirilen alacak ve borç kalemleri ayrılmaz bir bütün oluşturur. Cari hesabın kesilmesinden önce taraflardan hiçbiri, alacaklı veya borçlu sayılamaz. Tarafların hukuki durumunu ancak sözleşmenin sonundaki hesabın kesilmesi belirler.
+MADDE 97- (1) Cari hesaba geçirilen alacak ve borç kalemleri ayrılmaz bir bütün
+oluşturur. Cari hesabın kesilmesinden önce taraflardan hiçbiri, alacaklı veya borçlu sayılamaz.
+Tarafların hukuki durumunu ancak sözleşmenin sonundaki hesabın kesilmesi belirler.
 
 ---
 

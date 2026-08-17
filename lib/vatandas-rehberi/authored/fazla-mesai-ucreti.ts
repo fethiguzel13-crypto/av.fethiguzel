@@ -1,0 +1,145 @@
+import type { VatandasArticle } from '../types';
+
+/**
+ * Kaynak doğrulaması — hepsi content-packs/is-kanunu.json.gz resmî metninden:
+ *   4857 m.41  haftalık 45 saat · %50 zam · fazla sürelerle çalışma %25
+ *              · serbest zaman 1s30dk / 1s15dk · altı ay · işçinin onayı
+ *              · yılda en çok 270 saat · gece çalışmasında yasak
+ *              · yer altı maden istisnası (%100)
+ *   4857 m.63  haftada en çok 45 saat · günde 11 saat sınırı · iki aylık
+ *              denkleştirme · yer altı maden 7,5 gün / 37,5 hafta
+ *
+ * Doğrulama: node scripts/madde.mjs is-kanunu 41 --tam
+ */
+export const fazlaMesaiUcreti: VatandasArticle = {
+  slug: 'fazla-mesai-ucreti-nasil-hesaplanir',
+  title: 'Fazla Mesai Ücreti: %50 Zam, 270 Saat Sınırı ve Serbest Zaman',
+  description:
+    'Fazla çalışma kaç saatten sonra başlar, ücreti nasıl hesaplanır, yıllık sınır nedir, serbest zaman seçeneği nasıl kullanılır? 4857 sayılı Kanun m.41 ve m.63 çerçevesinde.',
+  h1: 'Fazla mesai ücreti nasıl hesaplanır?',
+  keywords: [
+    'fazla mesai ücreti',
+    'fazla çalışma hesaplama',
+    'haftalık 45 saat',
+    'fazla mesai sınırı 270 saat',
+    'serbest zaman',
+    'fazla sürelerle çalışma',
+  ],
+  category: 'İş',
+  role: 'pillar',
+  related: ['kidem-tazminati-nasil-alinir'],
+  links: [
+    { label: 'İş K. m.41 — Fazla çalışma ücreti', href: '/mevzuat/is-kanunu/madde-41' },
+    { label: 'İş K. m.63 — Çalışma süresi', href: '/mevzuat/is-kanunu/madde-63' },
+    { label: 'Fazla mesai hesaplama aracı', href: '/hesaplama/fazla-mesai' },
+  ],
+  lead:
+    'Fazla çalışma, haftalık kırk beş saati aşan çalışmadır ve her bir saati için normal saat ücretinin yüzde elli yükseltilmesiyle bulunan tutar ödenir. Yıllık toplam fazla çalışma iki yüz yetmiş saati aşamaz.',
+  keyInsight:
+    'Zam oranı çalışmanın türüne göre değişir: kırk beş saati aşan çalışmada yüzde elli, sözleşmeyle belirlenen daha kısa süreyi aşıp kırk beş saate kadar olan çalışmada yüzde yirmi beş.',
+  sections: [
+    {
+      heading: 'Fazla çalışma ne zaman başlar?',
+      paragraphs: [
+        'Ölçü haftalıktır, günlük değil. 4857 m.41 fazla çalışmayı, Kanunda yazılı koşullar çerçevesinde haftalık kırk beş saati aşan çalışmalar olarak tanımlar.',
+        'Genel çalışma süresi de bununla uyumludur: m.63 uyarınca genel bakımdan çalışma süresi haftada en çok kırk beş saattir ve aksi kararlaştırılmamışsa bu süre işyerlerinde haftanın çalışılan günlerine eşit ölçüde bölünerek uygulanır.',
+        'Bir gün on saat çalışıp ertesi gün altı saat çalışmak tek başına fazla mesai doğurmaz; belirleyici olan haftanın toplamıdır. Ne var ki günlük çalışma da sınırsız değildir, tarafların anlaşmasıyla yapılan farklı dağıtımda günde on bir saat aşılamaz.',
+      ],
+    },
+    {
+      heading: 'İki farklı zam oranı',
+      paragraphs: [
+        'Kanun iki kavramı ayırır ve ücreti buna göre belirler. Fazla çalışmada, her bir saat için verilecek ücret normal çalışma ücretinin saat başına düşen miktarının yüzde elli yükseltilmesi suretiyle ödenir.',
+        'İkinci hâl daha az bilinir. Haftalık çalışma süresi sözleşmelerle kırk beş saatin altında belirlenmişse, bu süreyi aşan ve kırk beş saate kadar yapılan çalışmalar fazla sürelerle çalışmadır; bunlarda zam oranı yüzde yirmi beştir.',
+        'Sözleşmesinde haftalık kırk saat yazan bir işçi kırk iki saat çalıştığında aradaki iki saat yüzde yirmi beş zamlı ödenir. Aynı işçi elli saat çalışırsa ilk beş saat yüzde yirmi beş, kırk beşi aşan beş saat yüzde elli zamlı hesaplanır.',
+        'Yer altı maden işlerinde oran yükselir. 6552 sayılı Kanunla eklenen fıkra uyarınca bu işçilere Kanunun 42 ve 43. maddelerinde sayılan hâllerde haftalık otuz yedi buçuk saati aşan her bir saat fazla çalışma için, normal saat ücretinin yüzde yüzden az olmamak üzere artırılmasıyla ödeme yapılır.',
+      ],
+      bullets: [
+        'Haftalık 45 saati aşan çalışma: %50 zamlı',
+        'Sözleşmedeki daha kısa süreyi aşıp 45 saate kadar: %25 zamlı',
+        'Yer altı maden, m.42-43 hâllerinde 37,5 saati aşan: en az %100 zamlı',
+      ],
+    },
+    {
+      heading: 'Denkleştirme: fazla mesai sayılmayan çalışma',
+      paragraphs: [
+        'Her yoğun hafta fazla mesai doğurmaz. m.63 uyarınca tarafların anlaşmasıyla haftalık normal çalışma süresi, günde on bir saati aşmamak koşuluyla haftanın çalışılan günlerine farklı şekilde dağıtılabilir; bu hâlde iki aylık süre içinde işçinin haftalık ortalama çalışma süresi normal haftalık süreyi aşamaz.',
+        'm.41 sonucu açıkça bağlar: Denkleştirme esasının uygulandığı hâllerde, işçinin haftalık ortalama çalışma süresi normal haftalık iş süresini aşmamak koşuluyla, bazı haftalarda toplam kırk beş saati aşsa dahi bu çalışmalar fazla çalışma sayılmaz.',
+        'Denkleştirme bir muafiyet değil, bir hesap yöntemidir. İki aylık dönemin ortalaması kırk beş saati aşıyorsa fazla çalışma yine doğar; ayrıca uygulamanın tarafların anlaşmasına dayanması gerekir.',
+      ],
+    },
+    {
+      heading: 'Ücret yerine serbest zaman',
+      paragraphs: [
+        'İşçiye bir seçenek daha tanınmıştır. Fazla çalışma veya fazla sürelerle çalışma yapan işçi isterse, zamlı ücret yerine fazla çalıştığı her saat karşılığında bir saat otuz dakikayı, fazla sürelerle çalıştığı her saat karşılığında bir saat on beş dakikayı serbest zaman olarak kullanabilir.',
+        'Kullanım koşulları da belirlidir: İşçi hak ettiği serbest zamanı altı ay zarfında, çalışma süreleri içinde ve ücretinde bir kesinti olmadan kullanır.',
+        'Seçim hakkı işçiye aittir. İşveren tek taraflı olarak zamlı ücret yerine izin kullandıramaz; bu yönde bir uygulama ücret alacağını ortadan kaldırmaz.',
+      ],
+    },
+    {
+      heading: 'Sınırlar ve yasaklar',
+      paragraphs: [
+        'Fazla çalışma işverenin tek taraflı kararıyla dayatılamaz: Fazla saatlerle çalışmak için işçinin onayının alınması gerekir.',
+        'Yıllık bir tavan da vardır. Fazla çalışma süresinin toplamı bir yılda iki yüz yetmiş saatten fazla olamaz.',
+        'Bazı çalışmalarda fazla mesai büsbütün yasaktır. m.63 son fıkrasında yazılı sağlık nedenlerine dayanan kısa veya sınırlı süreli işlerde ve m.69 anlamındaki gece çalışmasında fazla çalışma yapılamaz. Yer altında maden işlerinde çalışan işçilere de m.42 ve m.43 hâlleri dışında fazla çalışma yaptırılamaz.',
+      ],
+    },
+    {
+      heading: 'İspat: en kritik başlık',
+      paragraphs: [
+        'Fazla mesai uyuşmazlıklarının kaderini çoğu zaman hukuki tartışma değil, delil belirler. Puantaj kayıtları, işyeri giriş çıkış sistemleri, vardiya çizelgeleri ve bordrolar ilk sırada gelir.',
+        'Bordroda fazla mesai tahakkuku görünüyor ve işçi ihtirazi kayıt koymadan imzalamışsa, o döneme ilişkin talep önemli ölçüde zayıflar. Bu yüzden eksik tahakkuk içeren bordro imzalanırken kayıt düşülmesi önem taşır.',
+        'Kayıt tutulmayan işyerlerinde tanık beyanı devreye girer; ancak tanıkla ispat, kayıtla ispatın yerini tam olarak tutmaz. Çalışma düzeninizi kendi kaydınızla belgelemek her zaman lehinizedir.',
+      ],
+    },
+  ],
+  steps: [
+    'Haftalık fiilî çalışma sürenizi belirleyin; ölçü gün değil, haftanın toplamıdır.',
+    'Sözleşmenizde haftalık sürenin kırk beş saatin altında kararlaştırılıp kararlaştırılmadığına bakın.',
+    'Kırk beş saati aşan saatleri yüzde elli, sözleşmedeki süreyi aşıp kırk beşe kadar olanları yüzde yirmi beş zamla hesaplayın.',
+    'Denkleştirme uygulanıyorsa iki aylık ortalamayı kontrol edin.',
+    'Yıllık toplamın iki yüz yetmiş saati aşıp aşmadığına bakın.',
+    'Puantaj, giriş çıkış kaydı ve bordroları toplayın.',
+    'Ödeme yapılmazsa arabuluculuğa başvurun; iş uyuşmazlıklarında bu aşama dava şartıdır.',
+  ],
+  checklist: [
+    'İş sözleşmesi — haftalık çalışma süresi kaydı',
+    'Puantaj ve vardiya çizelgeleri',
+    'İşyeri giriş çıkış kayıtları',
+    'Son bir yılın bordroları',
+    'Fazla çalışma onayına ilişkin belge',
+    'Varsa yazışma ve mesajlar',
+  ],
+  faq: [
+    {
+      q: 'Fazla mesai kaç saatten sonra başlar?',
+      a: 'Haftalık kırk beş saatten sonra. Ölçü günlük değil haftalıktır; m.41 fazla çalışmayı haftalık kırk beş saati aşan çalışma olarak tanımlar.',
+    },
+    {
+      q: 'Zam oranı nedir?',
+      a: 'Fazla çalışmada normal saat ücretinin yüzde elli, fazla sürelerle çalışmada yüzde yirmi beş yükseltilmesiyle ödenir.',
+    },
+    {
+      q: 'Yılda en fazla kaç saat fazla mesai yapılabilir?',
+      a: 'İki yüz yetmiş saat. Fazla çalışma süresinin toplamı bir yılda bu sınırı aşamaz.',
+    },
+    {
+      q: 'İşveren fazla mesaiye zorlayabilir mi?',
+      a: 'Hayır. Fazla saatlerle çalışmak için işçinin onayının alınması gerekir.',
+    },
+    {
+      q: 'Ücret yerine izin verilebilir mi?',
+      a: 'Bu seçim işçiye aittir. İşçi isterse fazla çalıştığı her saat için bir saat otuz dakika, fazla sürelerle çalıştığı her saat için bir saat on beş dakika serbest zaman kullanabilir; altı ay içinde, çalışma süreleri içinde ve ücretinde kesinti olmadan.',
+    },
+    {
+      q: 'Bazı haftalar çok çalışıp bazı haftalar az çalışıyorum, fazla mesai sayılır mı?',
+      a: 'Denkleştirme uygulanıyorsa ve iki aylık dönemde haftalık ortalama normal süreyi aşmıyorsa, bazı haftalar kırk beş saati aşsa dahi fazla çalışma sayılmaz.',
+    },
+    {
+      q: 'Gece çalışmasında fazla mesai olur mu?',
+      a: 'Hayır. m.69 anlamındaki gece çalışmasında ve m.63 son fıkrasındaki sağlık nedenlerine dayanan kısa veya sınırlı süreli işlerde fazla çalışma yapılamaz.',
+    },
+  ],
+  updated: '2026-08-16',
+  sitemapPriority: 0.94,
+};

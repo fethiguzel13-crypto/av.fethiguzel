@@ -7,12 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**C. Paylaşmanın gerçekl eşmesi
+**C. Paylaşmanın gerçekleşmesi
 I. Mirasçıların eşitliği**
 
 ---
 
-Madde 649 - Kanunda aksine bir hüküm bulunmadıkça mirasçıla r, paylaşmada terekenin büt ün malları üzerinde eşit hakka sahiptirler. Mirasçılar, mirasbırakan ile aralarındaki ilişkiler hakkında paylaşmanın eşitliğe ve adalete uy gun olması için göz önüne alınması gereken bütün bilgileri birbirlerine vermekle yükümlüdü rler. Mirasçılardan her bir i, tereke borçlarının paylaşmadan önce ödenmesini veya güvenceye bağlanmasını isteyebilir.
+Madde 649- Kanunda aksine bir hüküm bulunmadıkça mirasçılar, paylaşmada terekenin
+bütün malları üzerinde eşit hakka sahiptirler.
+Mirasçılar, mirasbırakan ile aralarındaki ilişkiler hakkında paylaşmanın eşitliğe ve adalete
+uygun olması için göz önüne alınması gereken bütün bilgileri birbirlerine vermekle yükümlüdürler.
+Mirasçılardan her biri, tereke borçlarının paylaşmadan önce ödenmesini veya güvenceye
+bağlanmasını isteyebilir.
 
 ---
 

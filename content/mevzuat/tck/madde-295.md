@@ -20,6 +20,8 @@ izin verirse; altı aydan iki yıla kadar hapis cezası ile cezalandırılır.
 (3) Gözaltına alınan, tutuklu veya hükümlünün bu fırsattan yararlanarak kaçması
 halinde, kaçmaya kasten imkan sağlama suçuna ilişkin hükümler uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

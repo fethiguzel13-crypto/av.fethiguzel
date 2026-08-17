@@ -7,10 +7,6 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Karayolu dışında, kenarında veya üzerindeki diğer levhalar, ışıklar ve işaretlemeler**
-
----
-
 Madde 16 – Karayolu dışında, kenarında veya karayolu sınırı içinde, trafik işaretlerinin
 görülmelerini engelleyecek, anlamlarını değiştirecek veya güçleştirecek, tereddüte sebep olacak
 veya yanıltacak ve trafik için tehlike veya engel yaratacak şekilde levhalar, ışıklar, işaretlemeler
@@ -27,6 +23,8 @@ Verilen izinler, ilgili valiliğe bildirilir.
 (Değişik son fıkra: 25/6/2010-6001/34 md.) Ayrıca bunlar, bütün sorumluluk ve
 giderler mal sahibine ait olmak üzere yolun yapımı, bakımı, işletilmesi ile ilgili kuruluşça
 kaldırılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

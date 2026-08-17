@@ -18,8 +18,9 @@ heyeti tarafından incelenebilir. Bu belgelerde yer alan ve sadece yüklenen su�
 kavuşturabilecek nitelikte olan bilgiler, hâkim veya mahkeme başkanı tarafından tutanağa
 kaydettirilir.
 (3) Bu madde hükmü, hapis cezasının alt sınırı beş yıl veya daha fazla olan suçlarla
+ilgili olarak uygulanır.
 
-ilgili olarak uygulanır.
+---
 
 ### Akademik Yorum ve Analiz
 

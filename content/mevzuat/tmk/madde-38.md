@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**memurluğu yetkisi veril ebilir. 2 III. Sorumluluk**
+**III. Sorumluluk**
 
 ---
 
-Madde 38 - Kişisel durum sicilinin tutulmasından doğan zararlar, kusurlu memura rücu edilmek kaydıyla, Devletçe tazmin edilir. Taz minat ve rücu davaları, kişisel durum sicilinin tutulduğu yer mahkemesinde açılır.
+Madde 38- Kişisel durum sicilinin tutulmasından doğan zararlar, kusurlu memura rücu
+edilmek kaydıyla, Devletçe tazmin edilir.
+Tazminat ve rücu davaları, kişisel durum sicilinin tutulduğu yer mahkemesinde açılır.
 
 ---
 

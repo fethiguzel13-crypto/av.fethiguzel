@@ -50,8 +50,7 @@ malvarlığı değerlerini aklama suçlarından, terörizmin finansmanı ve 27/1
 Kanunun 5 inci maddesinde sayılan suçlardan veya Devletin şahsiyetine karşı işlenen suçlar
 ile egemenlik alametlerine ve organlarının saygınlığına karşı suçlardan, Devletin güvenliğine
 karşı suçlardan, Anayasal düzene ve bu düzenin işleyişine ve milli savunmaya karşı
-
-suçlardan, Devlet sırlarını açığa vurma suçu ile Devlet sırlarına karşı suçlardan ve
+suçlardan, Devlet sırlarını açığa vurma suçu ile Devlet sırlarına karşı suçlardan ve
 casusluktan, yabancı devletlerle olan ilişkilere karşı suçlardan, 12/4/1991 tarihli ve 3713
 sayılı Terörle Mücadele Kanunu kapsamındaki suçlardan, vergi kaçakçılığı suçlarından veya
 bu suçlara iştirakten hükümlü bulunmaması, kasten işlenen bir suçtan dolayı beş yıl veya daha
@@ -91,8 +90,7 @@ tarafından belirlenir.
 (4) Platformlar üzerinden kripto varlıkların alınıp satılmasına ve ilk satış ya da
 dağıtımının yapılmasına; kripto varlıkların takasına, transferine ve saklanmasına ilişkin usul
 ve esaslar Kurul tarafından düzenlenir.
-
-(5) Kripto varlık hizmet sağlayıcıları bu Kanunda atıf yapılan hükümler dışında bu
+(5) Kripto varlık hizmet sağlayıcıları bu Kanunda atıf yapılan hükümler dışında bu
 Kanunun diğer hükümlerine tabi değildir. Bu madde ile 35/C ve 99/B maddelerinde
 düzenlenip açıklık bulunmayan ya da uygulamanın yönlendirilmesi gereken hususlarda bu
 Kanunun 128 inci maddesinin ikinci fıkrası kapsamında Kurul düzenleyici işlemler tesis
@@ -126,7 +124,8 @@ Türk Parasının Kıymetini Koruma Hakkında Kanun ve ilgili mevzuat hükümler
 (10) Kripto varlıkları konu edinen rehin sözleşmelerine, 20/10/2016 tarihli ve 6750
 sayılı Ticari İşlemlerde Taşınır Rehni Kanunu uygulanmaz.
 Kripto varlık hizmet sağlayıcıların faaliyetlerine ve kripto varlıkların transfer ve
-saklanmasına ilişkin esaslar
+
+---
 
 ### Akademik Yorum ve Analiz
 

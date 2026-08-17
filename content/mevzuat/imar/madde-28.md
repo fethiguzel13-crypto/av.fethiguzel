@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Müelliflik, fenni mesuliyet, şantiye şefliği, yapı müteahhitliği ve kayıtlar:32**
+**Müelliflik, fenni mesuliyet, şantiye şefliği, yapı müteahhitliği ve kayıtlar:**
 
 ---
 
@@ -37,11 +37,7 @@ Fenni mesulün istifası veya ölümü halinde, başka bir meslek mensubu fenni 
 tarihinden önce yapılan işlere dair sorumluluğu devam eder. Yeni atanan fenni mesul, daha
 önce yapılan işlerin denetlenmesinden ve eksiklik ve hata var ise giderilmesini sağlamaktan
 ve bildirimde bulunmaktan da sorumludur. Tespit edilen bu eksiklik ve hatalar giderilmedikçe
-Bu madde başlığı “Fenni mesuller ve mesuliyetleri ile müteahhit sicilleri:” iken, 9/12/2009 tarihli
-ve 5940 sayılı Kanunun 1 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-32
-
-inşaatın devamına izin verilmez.
+inşaatın devamına izin verilmez.
 Fenni mesuller, Bakanlık tarafından çıkarılan yönetmelikte belirlenen sınıf, özellik ve
 büyüklüğe sahip bulunan yapıların denetimi faaliyetine yardımcı olmak üzere, 38 inci
 maddeye göre uygun nitelikte ve sayıda fen adamı istihdam etmek mecburiyetindedir.
@@ -72,17 +68,12 @@ geçici veya sınıflandırma yapılarak daimi olarak düzenlenebilir. Gerçek k
 tüzel kişilerine yapı inşa eden müteahhitlerin kayıtları, her yapı için ayrı ayrı tutulur. Bu
 kayıtların birer nüshası, ilgili yapı müteahhidinin yetki belgelendirmesi işlemlerinde
 değerlendirilmek üzere Bakanlığa gönderilir. Müteahhitlere yetki belgesi verilmesi işlemleri,
-bu kayıtlar da değerlendirilerek Bakanlıkça yürütülür.33
+bu kayıtlar da değerlendirilerek Bakanlıkça yürütülür.
 Fenni mesullerce denetime ilişkin mimarlık ve mühendislik raporları hazırlanan, yapı
 sahibi, fenni mesuller ve ilgili idare elemanlarının birlikte düzenlediği tespit tutanağı ile
 tamamlandığı belirlenen, ancak, yapı müteahhidinin yapım işlerinden doğan vergi ve sigorta
 primi borçlarının ve diğer sorumluluklarının gereğinin yerine getirilmemesi sebebiyle yapı
-29/11/2018 tarihli ve 7153 sayılı Kanunun 14 üncü maddesiyle bu fıkraya “yetkilendirilmiş
-idareden” ibaresinden sonra gelmek üzere “uygun sınıfta” ibaresi ve “geçici veya” ibaresinden sonra
-gelmek üzere “sınıflandırma yapılarak” ibaresi eklenmiştir.
-33
-
-kullanma izin belgesi verilmesi işlemleri tamamlanamayan yapılar için, yapının müteahhidi
+kullanma izin belgesi verilmesi işlemleri tamamlanamayan yapılar için, yapının müteahhidi
 olmayan yapı sahibinin talebi üzerine, ilgili idarece durum tespit edilerek yapı kullanma izin
 belgesi verilir. Bu belgenin bir örneği, ilgili kurumlara ve ilgililerin kayıtlarına işlenmek ve
 değerlendirilmek üzere ilgili meslek odalarına ve Bakanlığa gönderilir.
@@ -101,6 +92,8 @@ raporların hazırlanması amacıyla belediyeler gerekli tedbirleri alır.
 (Ek fıkra:7/5/2026-7579/12 md.) Yapı denetim kuruluşlarında görev alan denetçilerin
 hangi yapılarda hangi tarih aralığında görev aldıkları, Bakanlıkça kurulacak elektronik sistem
 üzerinden takip edilir. Yapı ruhsatında bu kişilerin isim ve imzaları yer almaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

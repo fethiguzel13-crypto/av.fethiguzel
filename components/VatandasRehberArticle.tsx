@@ -22,7 +22,7 @@ function Timeline({ steps }: { steps: string[] }) {
             <span className="relative z-[1] flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-accent text-white text-sm font-bold shadow-md ring-4 ring-cream">
               {i + 1}
             </span>
-            <p className="flex-1 min-w-0 m-0 rounded-2xl border border-charcoal/8 bg-white px-4 py-3.5 text-[15px] sm:text-base text-charcoal/80 leading-relaxed">
+            <p className="flex-1 min-w-0 m-0 rounded-2xl border border-charcoal/[0.08] bg-white px-4 py-3.5 text-[15px] sm:text-base text-charcoal/80 leading-relaxed">
               {step}
             </p>
           </li>
@@ -181,7 +181,7 @@ export default function VatandasRehberArticle({
             {view.documents.map((d) => (
               <li
                 key={d}
-                className="rounded-xl border border-charcoal/8 bg-white px-3.5 py-2.5 text-[15px] text-charcoal/75"
+                className="rounded-xl border border-charcoal/[0.08] bg-white px-3.5 py-2.5 text-[15px] text-charcoal/75"
               >
                 {d}
               </li>
@@ -206,7 +206,7 @@ export default function VatandasRehberArticle({
               {sec.bullets.map((b) => (
                 <li
                   key={b}
-                  className="flex gap-3 text-charcoal/75 text-[15px] leading-relaxed rounded-xl bg-white border border-charcoal/6 px-3 py-2.5"
+                  className="flex gap-3 text-charcoal/75 text-[15px] leading-relaxed rounded-xl bg-white border border-charcoal/[0.06] px-3 py-2.5"
                 >
                   <span className="text-accent font-bold shrink-0" aria-hidden>
                     ·
@@ -262,7 +262,7 @@ export default function VatandasRehberArticle({
             {view.checklist.map((item, i) => (
               <li
                 key={item}
-                className="flex gap-3 items-start rounded-xl border border-charcoal/8 bg-white px-3.5 py-3 text-[15px] text-charcoal/75 leading-relaxed"
+                className="flex gap-3 items-start rounded-xl border border-charcoal/[0.08] bg-white px-3.5 py-3 text-[15px] text-charcoal/75 leading-relaxed"
               >
                 <span className="shrink-0 mt-0.5 flex h-6 w-6 items-center justify-center rounded-md border border-accent/30 text-accent text-xs font-bold">
                   {i + 1}
@@ -347,7 +347,7 @@ export default function VatandasRehberArticle({
               <li key={r.slug}>
                 <Link
                   href={`/bilgi/${r.slug}`}
-                  className="flex items-center gap-2 rounded-xl border border-charcoal/8 bg-white px-3 py-2.5 text-sm text-charcoal font-semibold hover:border-accent/40 hover:text-accent transition-colors"
+                  className="flex items-center gap-2 rounded-xl border border-charcoal/[0.08] bg-white px-3 py-2.5 text-sm text-charcoal font-semibold hover:border-accent/40 hover:text-accent transition-colors"
                 >
                   <span className="text-accent">→</span>
                   {r.h1}

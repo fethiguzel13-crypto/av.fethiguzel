@@ -11,7 +11,8 @@ wordCount: 4262
 
 ---
 
-Madde 1482 - (1) Sigortacıya yöneltilecek tazminat istemleri, sigorta konusu olaydan itibaren on yılda zamanaşımına uğrar.
+MADDE 1482- (1) Sigortacıya yöneltilecek tazminat istemleri, sigorta konusu
+olaydan itibaren on yılda zamanaşımına uğrar.
 
 ---
 

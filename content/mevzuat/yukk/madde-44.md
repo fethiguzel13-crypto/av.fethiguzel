@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**Uzun dönem ikamet izninin sağladığı haklar18**
+**Uzun dönem ikamet izninin sağladığı haklar**
 
 ---
 
@@ -21,6 +21,8 @@ saklı kalmak ve bu hakların kullanımında ilgili mevzuat hükümlerine tabi o
 Türk vatandaşlarına tanınan haklardan yararlanırlar.
 (2) Birinci fıkradaki haklara kısmen veya tamamen kısıtlamalar getirmeye Cumhurbaşkanı
 yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**Terk**
+**DÖRDÜNCÜ BÖLÜM
+Koruma, Gözetim, Yardım veya Bildirim Yükümlülüğünün İhlâli
+Terk**
 
 ---
 
@@ -16,6 +18,8 @@ olan ve bu nedenle koruma ve gözetim yükümlülüğü altında bulunan bir kim
 terk eden kişi, üç aydan iki yıla kadar hapis cezası ile cezalandırılır.
 (2) Terk dolayısıyla mağdur bir hastalığa yakalanmış, yaralanmış veya ölmüşse,
 neticesi sebebiyle ağırlaşmış suç hükümlerine göre cezaya hükmolunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

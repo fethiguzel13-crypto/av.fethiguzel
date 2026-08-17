@@ -18,6 +18,8 @@ yakın aralıklarla artırıldığı gibi kanıtları yargı organlarına sunmal
 uyumlu eylem içinde bulunmadıklarını ispatlama yükü davalılara geçer.
 Rekabeti sınırlayıcı anlaşma, karar ve uygulamaların varlığı her türlü delille ispatlanabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

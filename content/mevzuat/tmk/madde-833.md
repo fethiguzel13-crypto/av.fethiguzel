@@ -11,7 +11,9 @@ wordCount: 4309
 
 ---
 
-Madde 833 - Üst hakkı sahibini n yükümlülüklerine aykırı davranması hâlinde sözleşmede malik lehine saklı tutulan, üst ha kkını süresinden önce sona erdirme veya devrini isteme yetkisi, süresinden önce devir istemine ilişkin h ükümlere tâbidir.
+Madde 833- Üst hakkı sahibinin yükümlülüklerine aykırı davranması hâlinde sözleşmede
+malik lehine saklı tutulan, üst hakkını süresinden önce sona erdirme veya devrini isteme yetkisi,
+süresinden önce devir istemine ilişkin hükümlere tâbidir.
 
 ---
 

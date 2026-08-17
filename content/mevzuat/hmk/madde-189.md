@@ -18,8 +18,9 @@ ispatında dikkate alınamaz.
 (3) Kanunun belirli delillerle ispatını emrettiği hususlar, başka delillerle ispat
 olunamaz.
 (4) Bir vakıanın ispatı için gösterilen delilin caiz olup olmadığına mahkemece karar
+verilir.
 
-verilir.
+---
 
 ### Akademik Yorum ve Analiz
 

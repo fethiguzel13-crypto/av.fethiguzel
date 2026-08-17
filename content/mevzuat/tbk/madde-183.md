@@ -7,13 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-**A. Koşulları
+**BEŞİNCİ BÖLÜM
+Borç İlişkilerinde Taraf Değişiklikleri
+BİRİNCİ AYIRIM
+Alacağın Devri
+A. Koşulları
 I. İradi devir
 1. Genel olarak**
 
 ---
 
-Madde 183 - Kanun, sözleşme veya işin niteliği engel olmadıkça alacaklı, borçlunun
+MADDE 183- Kanun, sözleşme veya işin niteliği engel olmadıkça alacaklı, borçlunun
 rızasını aramaksızın alacağını üçüncü bir kişiye devredebilir.
 Borçlu, devir yasağı içermeyen yazılı bir borç tanımasına güvenerek alacağı devralmış
 olan üçüncü kişiye karşı, alacağın devredilemeyeceğinin kararlaştırılmış bulunduğu savunmasını

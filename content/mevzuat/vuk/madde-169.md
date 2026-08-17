@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4283
 ---
 
-**Yazılı bildirme esası**
+**Yazılı bildirme esası:**
 
 ---
 
 Madde 169 – Bildirmeler yazılı olur; yalnız defter tutmaya mecbur olmıyan
 mükelleflerden okuma ve yazması olmıyanlar, bildirmeleri sözle yapabilirler. Sözlü
 bildirmeler tutanakla tesbit olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

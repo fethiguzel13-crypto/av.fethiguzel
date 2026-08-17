@@ -29,24 +29,10 @@ dairesine gönderilir. Kurulun verdiği kararlar kesindir. Dörtten fazla ceza d
 adliye mahkemelerinde Hâkimler ve Savcılar Kurulu tarafından daire başkanları arasından
 belirlenen ve dört üyeden oluşan başkanlar kurulu bu incelemeyi yapar. Başkanlar kurulunun
 bu maddeye ilişkin çalışma usul ve esasları, Hâkimler ve Savcılar Kurulu tarafından
-belirlenir.142 143
-20/7/2017 tarihli ve 7035 sayılı Kanunun 23 üncü maddesiyle, bu bölüm başlığında yer alan
-“Yargıtay” ibaresi metinden çıkarılmıştır.
-141
-2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “otuz gün” ibaresi
-“bir ay” şeklinde değiştirilmiştir.
-142
-Anayasa Mahkemesinin 26/1/2022 tarihli ve E.:2021/48; K.:2022/7 sayılı Kararı ile bu fıkranın
-birinci cümlesi “sanığın aleyhine itirazlar” yönünden iptal edilmiştir.
-140
+140 141
+belirlenir.
 
-2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “otuz gün” ibaresi “bir ay”
-ve “yedi gün” ibaresi “iki hafta” şeklinde değiştirilmiştir.
-143
-
-İKİNCİ BÖLÜM
-Kanun Yararına Bozma
-Kanun yararına bozma
+---
 
 ### Akademik Yorum ve Analiz
 

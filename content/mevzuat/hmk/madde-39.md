@@ -7,13 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**Çekilme kararının incelenmesi**
+**(9) (Mülga:22/7/2020-7251/4 md.)
+Çekilme kararının incelenmesi**
 
 ---
 
 MADDE 39- (1) Hâkim, taraflardan birinin ret talebi üzerine veya kendiliğinden
 çekilme yönünde görüş bildirirse, ret talebini incelemeye yetkili merci, bu çekilmenin kanuna
 uygun olup olmadığına karar verir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,13 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**belirlenir.**
-
----
-
 Madde 380 – 412 – (6/1/1982 tarihli ve 2577 sayılı Kanunun 63 üncü maddesi
 gereğince bu Kanuna göre kurulan vergi mahkemelerinin göreve başladıkları tarihten
-itibaren mülgadır.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

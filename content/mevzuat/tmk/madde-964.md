@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**B. Taşınır rehni karşılığı ödünç I. Kurulması**
+**B. Taşınır rehni karşılığı ödünç
+I. Kurulması**
 
 ---
 
-Madde 964 - Rehnedilen taşınırın işletmeye teslim edilmesi ve karşılığında bir makbuzun alınmasıyla rehin kurulmuş olur.
+Madde 964- Rehnedilen taşınırın işletmeye teslim edilmesi ve karşılığında bir makbuzun
+alınmasıyla rehin kurulmuş olur.
 
 ---
 

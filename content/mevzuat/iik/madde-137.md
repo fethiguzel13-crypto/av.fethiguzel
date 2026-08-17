@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**Aile yurtları**
+**Aile yurtları:**
 
 ---
 
 Madde 137 – Aile yurtlarına dair Kanunu Medeni hükümleri mahfuzdur.
-4 – Paranın paylaştırılması:
+
+---
 
 ### Akademik Yorum ve Analiz
 

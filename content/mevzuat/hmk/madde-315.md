@@ -16,6 +16,8 @@ sonuç doğurur. Mahkeme, taraflar sulhe göre karar verilmesini isterlerse, sul
 göre; sulhe göre karar verilmesini istemezlerse, karar verilmesine yer olmadığına karar verir.
 (2) İrade bozukluğu ya da aşırı yararlanma hâllerinde sulhun iptali istenebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

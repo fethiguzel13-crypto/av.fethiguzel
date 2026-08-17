@@ -19,6 +19,8 @@ biri altı iş günü içinde Yüksek Hakem Kuruluna başvurabilir. Aksi takdird
 yetkisi düşer.
 (2) Yüksek Hakem Kurulu kararları kesindir ve toplu iş sözleşmesi hükmündedir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

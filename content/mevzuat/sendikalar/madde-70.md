@@ -22,6 +22,8 @@ feshedebilir. İşveren, bu işçilerin lokavt süresine ilişkin iş sözleşme
 haklarını bir iş karşılığı olmaksızın ödemek ve uğradıkları zararları tazmin etmekle
 yükümlüdür.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

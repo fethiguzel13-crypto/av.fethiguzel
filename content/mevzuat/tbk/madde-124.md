@@ -11,7 +11,7 @@ wordCount: 4305
 
 ---
 
-Madde 124 - Aşağıdaki durumlarda süre verilmesine gerek yoktur:
+MADDE 124- Aşağıdaki durumlarda süre verilmesine gerek yoktur:
 1. Borçlunun içinde bulunduğu durumdan veya tutumundan süre verilmesinin etkisiz
 olacağı anlaşılıyorsa.
 2. Borçlunun temerrüdü sonucunda borcun ifası alacaklı için yararsız kalmışsa.

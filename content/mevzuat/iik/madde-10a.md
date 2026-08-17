@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**İcra mahkemesi hâkiminin reddi9**
+**İcra mahkemesi hâkiminin reddi**
 
 ---
 
@@ -21,7 +21,8 @@ hâlinde reddedilen hâkimin verdiği karar yerine getirilmez. Bu durumda dosya,
 mahkemesince icra mahkemesinin başka bir dairesine, o yerde icra mahkemesinin başka bir
 dairesi yoksa en yakın icra mahkemesine gönderilir. 40 ıncı madde hükümleri kıyas yoluyla
 uygulanır.
-Memnu işler:
+
+---
 
 ### Akademik Yorum ve Analiz
 

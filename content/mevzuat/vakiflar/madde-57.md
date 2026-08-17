@@ -7,13 +7,13 @@ lastReviewed: "2026-07-27"
 wordCount: 3113
 ---
 
-**(Mülga: 2/7/2018/KHK/703/102 md.)**
+**Dış İlişkiler Daire Başkanlığı**
 
 ---
 
-Madde 57 - (Mülga: 2/7/2018/KHK/703/102 md.)
+MADDE 57 (Mülga: 2/7/2018/KHK/703/102 md.)
 
-Danışma ve denetim birimleri
+---
 
 ### Akademik Yorum ve Analiz
 

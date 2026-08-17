@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**Müflisin borçlarının muacceliyet kesbetmesi**
+**II. ALACAKLILARIN HAKLARI ÜZERİNE İFLASIN TESİRLERİ
+Müflisin borçlarının muacceliyet kesbetmesi:**
 
 ---
 
@@ -16,6 +17,8 @@ alacaklar müstesna olmak üzere iflasın açılması müflisin borçlarını mu
 açıldığı güne kadar işlemiş faiz ile takip masrafları anaya zammolunur.
 (Değişik: 9/11/1988-3494/41 md.) Müflisin vadesi gelmemiş faizsiz borçlarından
 yıllık kanuni faiz hesabıyla iskonto yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

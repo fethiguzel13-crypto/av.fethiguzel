@@ -11,7 +11,7 @@ wordCount: 4262
 
 ---
 
-Madde 92 - Bir borcun veya taraflardan birine düşen herhangi bir yükümlülüğün
+MADDE 92- Bir borcun veya taraflardan birine düşen herhangi bir yükümlülüğün
 sözleşmenin kurulmasından başlayarak belli bir sürenin sonunda ifası gerekiyorsa, ifa zamanı
 aşağıdaki biçimde belirlenir:
 1. Gün olarak belirlenmiş süre, sözleşmenin kurulduğu gün sayılmaksızın, bu sürenin

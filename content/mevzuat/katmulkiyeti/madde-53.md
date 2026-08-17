@@ -7,13 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**III - Medeni Kanuna göre kurulmuş kat irtifaklarının yönetimi**
+**III - Medeni Kanuna göre kurulmuş kat irtifaklarının yönetimi:**
 
 ---
 
-Madde 53 – Bu Kanun yürürlüğe girdiği tarihten önce bir gayrimenkulün paydaşlarından birinin o gayrimenkulün bir bölümünden kat maliki gibi tek başına faydalanmasını
-sağlamak için kurulmuş olan irtifak hakları, bu Kanuna göre kat mülkiyetine çevrilinceye kadar anagayrimenkulün yönetimi, yönetim planı yapılması mecburiyeti ve giderlere ve sigorta
+Madde 53 – Bu Kanun yürürlüğe girdiği tarihten önce bir gayrimenkulün paydaşla-
+rından birinin o gayrimenkulün bir bölümünden kat maliki gibi tek başına faydalanmasını
+sağlamak için kurulmuş olan irtifak hakları, bu Kanuna göre kat mülkiyetine çevrilinceye ka-
+dar anagayrimenkulün yönetimi, yönetim planı yapılması mecburiyeti ve giderlere ve sigorta
 mecburiyetine ve bunun primlerine katılma hususlarında bu kanun hükümleri uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

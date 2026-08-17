@@ -11,7 +11,11 @@ wordCount: 4317
 
 ---
 
-Madde 677 - Terekenin tamamı veya bir kısmı üzerinde miras payının devri konusunda mirasçılar arasında yapılan sözleşm elerin geçerliliği yazılı ş ekle bağlıdır. Bir mirasçının üçüncü kişiyle yapacağı böyle bir sözleşmenin geçerliliği, noterlikçe düzenlenmesine bağlıdır. Sözleşme bu ki şiye paylaşmaya katılma yetkisi vermez; sadece paylaşma sonunda mirasçıya özgülenen payın kendisine verilmesini istem e hakkını sağlar.
+Madde 677- Terekenin tamamı veya bir kısmı üzerinde miras payının devri konusunda
+mirasçılar arasında yapılan sözleşmelerin geçerliliği yazılı şekle bağlıdır.
+Bir mirasçının üçüncü kişiyle yapacağı böyle bir sözleşmenin geçerliliği, noterlikçe
+düzenlenmesine bağlıdır. Sözleşme bu kişiye paylaşmaya katılma yetkisi vermez; sadece paylaşma
+sonunda mirasçıya özgülenen payın kendisine verilmesini isteme hakkını sağlar.
 
 ---
 

@@ -21,13 +21,14 @@ yer alan tutardan fazla olması hâlinde bu karara karşı Kurula itirazda bulun
 işlemlerin tespit edilmesi amacıyla bünyelerinde gerekli gözetim sistemini kurarlar ve her
 türlü önleyici tedbirleri alabilirler. Borsalar gözetim konusunda kendilerine Kurulca verilecek
 diğer görevleri de yerine getirirler.
-
-(3) Borsalar ikinci fıkra kapsamındaki görevlerini dışarıdan hizmet alarak yerine
+(3) Borsalar ikinci fıkra kapsamındaki görevlerini dışarıdan hizmet alarak yerine
 getirebilir. Hizmet alınacak kurumların faaliyet konuları arasında ikinci fıkrada yer alan
 hususlar yer alır. Bu kurumların faaliyet ve denetlenmesine ilişkin esaslar Kurulca belirlenir.
 Bu kurumlar tek bir borsaya hizmet sağlayabilecekleri gibi birden fazla borsaya da bu hizmeti
 verebilirler. Borsaların bu kurumlardan hizmet almaları görevleri ile ilgili sorumluluklarını
 ortadan kaldırmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

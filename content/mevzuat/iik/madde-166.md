@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4275
 ---
 
-**İflas kararının tebliği ve ilanı**
+**İflas kararının tebliği ve ilanı:**
 
 ---
 
@@ -21,10 +21,11 @@ tarihinde, tirajı ellibinin (50.000) üzerinde olan ve yurt düzeyinde dağıt�
 gazetelerden biri ile birlikte iflas edenin muamele merkezinin bulunduğu yerdeki bir gazetede
 ve Ticaret Sicili Gazetesinde ilan eder. Tirajı ellibinin (50.000) üzerinde olan ve yurt
 düzeyinde dağıtımı yapılan gazetenin yayınlandığı yer aynı zamanda muamele merkezi ise
-mahalli gazetede ilan yapılmaz.616263
+616263
+mahalli gazetede ilan yapılmaz.
 İflasın kapandığı veya kaldırıldığı da aynı suretle bildirilir ve ilan olunur.
-III – KAMBİYO SENETLERİ (ÇEK, POLİÇE VE EMRE MUHARRER
-SENET) HAKKINDAKİ HUSUSİ TAKİP USULLERİ:64
+
+---
 
 ### Akademik Yorum ve Analiz
 

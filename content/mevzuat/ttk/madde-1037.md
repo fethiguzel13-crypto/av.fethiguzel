@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**Madde 1037**
+**cc) Gemi malikinin belgelerin verilmesini istem hakkı**
 
 ---
 
-Madde 1037 - (1) Alacaklının hakkının yerine getirilmesi karşılığında malik, gemi sicilinin değiştirilmesi veya gemi ipoteğinin silinmesi için gerekli belgelerin kendisine verilmesini isteyebilir.
+MADDE 1037- (1) Alacaklının hakkının yerine getirilmesi karşılığında malik, gemi
+sicilinin değiştirilmesi veya gemi ipoteğinin silinmesi için gerekli belgelerin kendisine
+verilmesini isteyebilir.
 
 ---
 

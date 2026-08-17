@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Menkul malların satışı**
+**Menkul malların satışı:**
 
 ---
 
@@ -16,6 +16,8 @@ yapıldığı tarihin üçüncü gününden itibaren üç ay içinde satışa ç
 Bozulma, çürüme ve benzeri sebeplerle muhafazasına imkan olmıyan veyahut
 beklediği takdirde mühim bir değer düşüklüğüne uğraması muhtemel bulunan malların paraya
 çevrilmesine derhal başlanabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

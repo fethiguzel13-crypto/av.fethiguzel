@@ -18,6 +18,8 @@ veya kendisiyle birlikte oturmakta olan bir kişi veya komşusu hazır bulunduru
 çağrılacak kişiye, aramaya başlamadan önce aramanın amacı hakkında bilgi verilir.
 (3) Kişinin avukatının aramada hazır bulunmasına engel olunamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

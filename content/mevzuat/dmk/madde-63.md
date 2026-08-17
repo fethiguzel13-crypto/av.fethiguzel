@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**İşe başlamama halinde yapılacak işlem**
+**İşe başlamama halinde yapılacak işlem:**
 
 ---
 
@@ -22,6 +22,8 @@ belli yol süresi sonunda yeni görevlerine başlamıyanlara, eski görevlerinde
 görevlerine başlayış tarihleri arasında aylık verilmemek şartı ile 10 günlük bir süre daha
 verilebilir. Belge ile isbatı mümkün zorlayıcı sebepler olmaksızın bu süre sonunda da yeni
 görevlerinde işe başlamıyanlar memuriyetten çekilmiş sayılırlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

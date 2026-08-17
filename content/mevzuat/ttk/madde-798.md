@@ -11,7 +11,7 @@ wordCount: 4289
 
 ---
 
-Madde 798 - (1) Çekin bir takas odasına ibrazı ödeme iç in ibraz yerine geçer.
+MADDE 798- (1) Çekin bir takas odasına ibrazı ödeme için ibraz yerine geçer.
 
 ---
 

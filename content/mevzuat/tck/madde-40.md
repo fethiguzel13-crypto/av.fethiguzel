@@ -19,6 +19,8 @@ işlenişine iştirak eden diğer kişiler ise azmettiren veya yardım eden olar
 (3) Suça iştirakten dolayı sorumlu tutulabilmek için ilgili suçun en azından teşebbüs
 aşamasına varmış olması gerekir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

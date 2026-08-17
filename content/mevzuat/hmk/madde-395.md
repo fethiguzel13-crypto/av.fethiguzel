@@ -18,6 +18,9 @@ tedbirin değiştirilmesine veya kaldırılmasına karar verebilir.
 maddeye göre tayin edilir.
 (3) İtiraza ilişkin 394 üncü maddenin üçüncü ve dördüncü fıkrası, kıyas yoluyla
 uygulanır.
+Durum ve koşulların değişmesi sebebiyle tedbirin değiştirilmesi veya kaldırılması
+
+---
 
 ### Akademik Yorum ve Analiz
 

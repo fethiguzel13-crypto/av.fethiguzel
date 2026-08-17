@@ -14,6 +14,8 @@ wordCount: 4264
 MADDE 30- (1) Hâkim, yargılamanın makul süre içinde ve düzenli bir biçimde
 yürütülmesini ve gereksiz gider yapılmamasını sağlamakla yükümlüdür.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

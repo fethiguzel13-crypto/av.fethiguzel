@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Kamu personeli bilgi sistemi:286**
+**md.)
+Kamu personeli bilgi sistemi:**
 
 ---
 
@@ -19,12 +20,10 @@ Kamu kurum ve kuruluşları bu bilgi ve belgeleri vermekle yükümlüdür.
 Kamu kurum ve kuruluşları; atama, yer değiştirme, görevde yükselme, unvan
 değişikliği ve Devlet Personel Başkanlığınca belirlenecek diğer personel hareketlerini
 bildirmek zorundadır.
-13/2/2011 tarihli ve 6111 sayılı Kanunun 114 üncü maddesiyle bu madde başlığı “Danışma kurulları ile ilgili
-yönetmelik:” iken, metne işlendiği şekilde değiştirilmiştir.
-286
+Bu maddenin uygulanmasına ilişkin usûl ve esaslar ile istisna tutulacak kamu kurum
+ve kuruluşları Cumhurbaşkanınca belirlenir.
 
-Bu maddenin uygulanmasına ilişkin usûl ve esaslar ile istisna tutulacak kamu kurum
-ve kuruluşları Cumhurbaşkanınca belirlenir.287
+---
 
 ### Akademik Yorum ve Analiz
 

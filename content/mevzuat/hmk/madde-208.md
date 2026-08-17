@@ -23,6 +23,8 @@ evraka resmiyet kazandıran kişiyi de taraf göstererek açacağı ayrı bir da
 bağlanabilir. Asıl davaya bakan hâkim, gerekirse bu konuda imza veya yazıyı inkâr eden
 tarafa, dava açması için iki haftalık kesin bir süre verir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

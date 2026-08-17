@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**Türk vatandaşlığının kazanılması halleri**
+**İKİNCİ BÖLÜM
+Türk Vatandaşlığının Kazanılması
+Türk vatandaşlığının kazanılması halleri**
 
 ---
 
 MADDE 5 – (1) Türk vatandaşlığı, doğumla veya sonradan kazanılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

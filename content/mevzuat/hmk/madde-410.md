@@ -17,6 +17,8 @@ tahkim yeri asliye hukuk veya asliye ticaret mahkemesidir. Tahkim yeri belirlenm
 görevli mahkeme, konusuna göre asliye hukuk veya asliye ticaret mahkemesi, yetkili
 mahkeme ise davalının Türkiye’deki yerleşim yeri, oturduğu yer veya işyeri mahkemesidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

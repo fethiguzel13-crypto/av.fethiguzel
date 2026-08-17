@@ -11,7 +11,8 @@ wordCount: 4286
 
 ---
 
-Madde 721 - İki taşınmazı birbirinden ayırmaya yarayan duvar, p armaklık, çit gibi sınırlıklar, aksi ispat edilmedikçe, her iki komşunun paylı malı sayılı r.
+Madde 721- İki taşınmazı birbirinden ayırmaya yarayan duvar, parmaklık, çit gibi
+sınırlıklar, aksi ispat edilmedikçe, her iki komşunun paylı malı sayılır.
 
 ---
 

@@ -12,7 +12,7 @@ I. Süreye bağlanmamış borç**
 
 ---
 
-Madde 90 - İfa zamanı taraflarca kararlaştırılmadıkça veya hukuki ilişkinin
+MADDE 90- İfa zamanı taraflarca kararlaştırılmadıkça veya hukuki ilişkinin
 özelliğinden anlaşılmadıkça her borç, doğumu anında muaccel olur.
 
 ---

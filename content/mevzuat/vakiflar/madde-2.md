@@ -15,6 +15,8 @@ MADDE 2 – Bu Kanun; mazbut, mülhak ve yeni vakıflar, cemaat ve esnaf vakıfl
 ile Vakıflar Genel Müdürlüğünü kapsar.
 Bu Kanunun uygulanmasında milletlerarası mütekabiliyet ilkesi saklıdır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

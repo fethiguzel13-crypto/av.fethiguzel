@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Jandarmanın genel olarak görevleri**
+**Jandarmanın genel olarak görevleri:**
 
 ---
 
@@ -24,10 +24,15 @@ b) Adli görevleri;
 adli hizmetleri yerine getirmek.
 c) Askeri görevleri;
 Kanunlarla ve Cumhurbaşkanlığı kararnameleriyle verilen askeri hizmetleri yerine
-3 Bu maddenin başlığı “Konuş, Kuruluş” iken 25/7/2016 tarihli ve 668 sayılı KHK’nin 7 nci maddesiyle metne işlendiği şekilde değiştirilmiş olup, daha sonra bu hüküm 8/11/2016 tarihli ve 6755 sayılı Kanunun 7 nci maddesiyle kanunlaşmıştır. 4 Bu maddenin başlığı “Jandarma Genel Komutanının görev ve sorumluluğu” iken 25/7/2016 tarihli ve 668 sayılı KHK’nin 8 inci maddesiyle metne işlendiği şekilde değiştirilmiş olup, daha sonra bu hüküm 8/11/2016 tarihli ve 6755 sayılı Kanunun 8 inci maddesiyle kanunlaşmıştır.
+Bu maddenin başlığı “Konuş, Kuruluş” iken 25/7/2016 tarihli ve 668 sayılı KHK’nin 7 nci maddesiyle metne
+işlendiği şekilde değiştirilmiş olup, daha sonra bu hüküm 8/11/2016 tarihli ve 6755 sayılı Kanunun 7 nci
+maddesiyle kanunlaşmıştır.
+Bu maddenin başlığı “Jandarma Genel Komutanının görev ve sorumluluğu” iken 25/7/2016 tarihli ve 668
+sayılı KHK’nin 8 inci maddesiyle metne işlendiği şekilde değiştirilmiş olup, daha sonra bu hüküm 8/11/2016
+tarihli ve 6755 sayılı Kanunun 8 inci maddesiyle kanunlaşmıştır.
+getirmek.
 
-
-getirmek.5
+---
 
 ### Akademik Yorum ve Analiz
 

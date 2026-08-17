@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**Araç üzerindeki teknik değişiklikler ve bildirim zorunluluğu**
+**Araç üzerindeki teknik değişiklikler ve bildirim zorunluluğu:**
 
 ---
 
@@ -16,13 +16,13 @@ Araçlar üzerinde mevzuata uygun şekilde yapılan her türlü değişikliğin 
 otuz gün içinde araç tescil belgesine/kayıtlarına işletilmesi zorunludur. Bu fıkra hükmüne
 uymayan işletenlere 1.000 Türk lirası idari para cezası uygulanır.
 Üzerinde mevzuata uygun olarak teknik değişiklik yapılan araçlar, değişikliğin
-mevzuata uygun olarak yapıldığı belgelenip bu durum ilgili tescil kuruluşu de araç tescil
+mevzuata uygun olarak yapıldığı belgelenip bu durum ilgili tescil kuruluşunda araç tescil
 belgesine/kayıtlarına işletilinceye kadar trafikten menedilir.
 (Değişik üçüncü fıkra:12/2/2026-7574/7 md.) Araç üzerinde ilgili mevzuata aykırı
 şekilde değişiklik yapılması yasaktır. Mevzuata aykırı şekilde değişiklik yapılması halinde işletene
 5.000 Türk lirası idari para cezası uygulanır ve araç mevzuata uygun duruma getirilinceye kadar
 trafikten menedilir. Yapılan bu değişikliğin çevredekileri rahatsız edecek derecede gürültü
-çıkaracak özellikte olması durumunda aracı kullanan sürücülere ayrıca 16.000 Türk lirası idari para
+çıkaracak özellikte olması durumunda aracı kullanan sürücüye ayrıca 16.000 Türk lirası idari para
 cezası uygulanır. Üçüncü cümle kapsamında işlem yapılan araç otuz gün süreyle trafikten
 menedilir ve men süresi sonunda araç mevzuata uygun duruma getirilmeden teslim edilmez.
 (Ek fıkra:12/2/2026-7574/7 md.) İlgili mevzuatı gereğince arkadan çarpmaya karşı
@@ -30,6 +30,8 @@ koruma çerçevesi/yan koruma çerçevesi/devrilmeye karşı koruyucu yapı bulu
 olan araçlarda bu teçhizatın bulunmaması veya teknik şartlara uygun olmaması halinde
 işletene 16.000 Türk lirası idari para cezası uygulanır ve araç mevzuata uygun duruma
 getirilinceye kadar trafikten menedilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

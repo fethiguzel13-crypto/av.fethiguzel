@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4257
 ---
 
-**Tescil ve şüyuun izalesi**
+**Tescil ve şüyuun izalesi:**
 
 ---
 
@@ -22,12 +22,10 @@ Bu Kanun hükümlerine göre şüyulandırılan gayrimenkullerin sahipleri ilgil
 tebliği tarihinden itibaren altı ay içinde aralarında anlaşamadıkları veya şüyuun izalesi için,
 mahkemeye müracaat edilmediği takdirde ilgili idare hissedarmış gibi, şüyuun izalesi davası
 açabilir.
-4/7/2019 tarihli ve 7181 sayılı Kanunun 8 inci maddesiyle bu bölüm başlığı “İfraz ve Tevhid İşleri”
-iken metne işlendiği şekilde değiştirilmiştir.
-17
-
-Tarafların rızası veya mahkeme kararı ile şüyuun izalesi ve arazi taksimi de yukarıdaki
+Tarafların rızası veya mahkeme kararı ile şüyuun izalesi ve arazi taksimi de yukarıdaki
 hükümlere tabidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

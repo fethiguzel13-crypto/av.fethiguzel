@@ -16,6 +16,8 @@ ermesi veya farklı bir gerekçenin ortaya çıkması hâlinde, yeni kalış ama
 izni talebinde bulunabilir.
 (2) İkamet izinleri arasındaki geçişlere ilişkin usul ve esaslar yönetmelikle düzenlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Zabıtanın görev ve yetkileri**
+**İKİNCİ BÖLÜM
+Belediye Zabıtası, İtfaiye ve Acil Durum Plânlaması
+Zabıtanın görev ve yetkileri**
 
 ---
 
@@ -19,15 +21,17 @@ Görevini yaparken zabıtaya karşı gelenler, kolluk kuvvetlerine karşı gelen
 cezalandırılır.
 Belediye zabıta teşkilâtının çalışma usûl ve esasları, çalışanların görev ve yetkileri,
 memurluğa alınması için taşımaları gereken nitelikler, alacakları meslek içi eğitim, görevde
-yükselme, (...)31 giyecekleri kıyafet ve savunma amaçlı olarak kullanacakları aletler ile zabıta
+yükselme, (…)giyecekleri kıyafet ve savunma amaçlı olarak kullanacakları aletler ile zabıta
 teşkilâtında hizmet gereklerine göre oluşturulacak birimler, İçişleri Bakanlığının görüşü alınarak
 Çevre ve Şehircilik Bakanlığı tarafından çıkarılacak yönetmelikle düzenlenir. Belediye, bu
-yönetmeliğe aykırı olmamak üzere ek düzenlemeler yapabilir.32
+yönetmeliğe aykırı olmamak üzere ek düzenlemeler yapabilir.
 Zabıta hizmetleri kesintisiz olarak yürütülür. Zabıta personelinin çalışma süresi ve saatleri
 657 sayılı Devlet Memurları Kanununda belirtilen çalışma süre ve saatlerine bağlı olmaksızın,
 hizmetin aksatılmadan yürütülmesini sağlayacak şekilde düzenlenir. Belediye zabıta ve özel
 güvenlik hizmetlerinde fiilen çalışanlara, fazla mesai ücreti olarak yılı bütçe kanununda belirlenen
 üst sınırı aşmamak kaydıyla belediye meclisi kararı ile tespit edilen maktu tutar ödenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

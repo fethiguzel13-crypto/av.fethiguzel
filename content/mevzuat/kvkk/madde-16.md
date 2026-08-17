@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4275
 ---
 
-**Veri Sorumluları Sicili**
+**Veri Sorumluları Sicili
+(1) Kurulun gözetiminde, Başkanlık tarafından kamuya açık olarak Veri**
 
 ---
 
-MADDE 16- (1) Kurulun gözetiminde, Başkanlık tarafından kamuya açık olarak Veri
+MADDE 16-
 Sorumluları Sicili tutulur.
 (2) Kişisel verileri işleyen gerçek ve tüzel kişiler, veri işlemeye başlamadan önce Veri
 Sorumluları Siciline kaydolmak zorundadır. Ancak, işlenen kişisel verinin niteliği, sayısı, veri
@@ -31,6 +32,8 @@ f) Kişisel verilerin işlendikleri amaç için gerekli olan azami süre.
 (4) Üçüncü fıkra uyarınca verilen bilgilerde meydana gelen değişiklikler derhâl
 Başkanlığa bildirilir.
 (5) Veri Sorumluları Siciline ilişkin diğer usul ve esaslar yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

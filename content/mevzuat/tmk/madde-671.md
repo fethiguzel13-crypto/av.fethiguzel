@@ -8,11 +8,13 @@ wordCount: 4319
 ---
 
 **C. Denkleştirme şekli
-I. Geri verme veya mah sup**
+I. Geri verme veya mahsup**
 
 ---
 
-Madde 671 - Geri vermekl e yükümlü olan mirasçı, dilerse aldığını aynen geri verir; dilerse payından fazla olsa bile değerini miras payına mahsup ettirir. Mirasbıra kanın bu kurala aykırı tasarrufları ve mirasçıların tenkise ilişkin hakları saklıdır.
+Madde 671- Geri vermekle yükümlü olan mirasçı, dilerse aldığını aynen geri verir;
+dilerse payından fazla olsa bile değerini miras payına mahsup ettirir.
+Mirasbırakanın bu kurala aykırı tasarrufları ve mirasçıların tenkise ilişkin hakları saklıdır.
 
 ---
 

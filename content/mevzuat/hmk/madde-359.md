@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Karar ve tebliği5253**
+**Karar ve tebliği**
 
 ---
 
@@ -32,21 +32,11 @@ sıra numarası altında, açık, şüphe ve tereddüt uyandırmayacak şekilde 
 (3) (Ek:22/7/2020-7251/38 md.) Bölge adliye mahkemesi, başvurunun esastan reddi
 kararında, ileri sürülen istinaf sebeplerini özetlemek ve ret sebeplerini açıklamak kaydıyla,
 kararın hukuk kurallarına uygunluk gerekçesini göstermekle yetinebilir.
-22/7/2020 tarihli ve 7251 sayılı Kanunun 37 nci maddesiyle, bu fıkrada yer alan “gideri duruşma
-gününe kadar” ibaresi “gideri, iki haftadan az olmamak üzere verilecek kesin süre içinde” şeklinde
-değiştirilmiştir.
-52
-20/7/2017 tarihli ve 7035 sayılı Kanunun 30 uncu maddesiyle, bu maddenin başlığına “ve tebliği”
-ibaresi eklenmiştir.
-53
-22/7/2020 tarihli ve 7251 sayılı Kanunun 38 inci maddesiyle, bu fıkradan sonra gelmek üzere
-maddeye fıkra eklenmiş, diğer fıkra buna göre teselsül ettirilmiş ve mevcut üçüncü fıkrasına “bölge
-adliye mahkemesi tarafından” ibaresinden sonra gelmek üzere “resen” ibaresi eklenmiştir.
-51
-
-(4) (Ek: 20/7/2017-7035/30 md.)Temyizi kabil olmayan kararlar, ilk derece mahkemesi
+(4) (Ek: 20/7/2017-7035/30 md.)Temyizi kabil olmayan kararlar, ilk derece mahkemesi
 tarafından; temyizi kabil olan kararlar ise bölge adliye mahkemesi tarafından resen tebliğe
 çıkarılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

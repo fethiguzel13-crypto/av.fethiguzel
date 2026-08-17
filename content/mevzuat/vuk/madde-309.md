@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**Arazi kıymeti**
+**Arazi kıymeti:**
 
 ---
 
@@ -20,6 +20,8 @@ kıymetlerinin seviyesi;
 4. Tarımda kullanılan arazinin yetiştirme kuvveti, sulaklık derecesi, tarımın nev'i;
 5. Arazinin büyüklüğü ve küçüklüğü;
 6. Meskün yerlere, iskele ve istasyonlara yakınlığı.
+
+---
 
 ### Akademik Yorum ve Analiz
 

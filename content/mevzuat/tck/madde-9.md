@@ -14,6 +14,8 @@ wordCount: 4291
 Madde 9- (1) Türkiye'de işlediği suçtan dolayı yabancı ülkede hakkında hüküm
 verilmiş olan kimse, Türkiye'de yeniden yargılanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

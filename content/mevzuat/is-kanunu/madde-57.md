@@ -27,6 +27,8 @@ işveren tarafından ödenir.
 Yıllık ücretli izin süresine rastlayan hafta tatili, ulusal bayram ve genel tatil ücretleri
 ayrıca ödenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

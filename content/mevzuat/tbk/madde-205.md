@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**A. Sözleşmenin devri**
+**ÜÇÜNCÜ AYIRIM
+Sözleşmenin Devri ve Sözleşmeye Katılma
+A. Sözleşmenin devri**
 
 ---
 
-Madde 205 - Sözleşmenin devri, sözleşmeyi devralan ile devreden ve sözleşmede
+MADDE 205- Sözleşmenin devri, sözleşmeyi devralan ile devreden ve sözleşmede
 kalan taraf arasında yapılan ve devredenin bu sözleşmeden doğan taraf olma sıfatı ile birlikte
 bütün hak ve borçlarını devralana geçiren bir anlaşmadır.
 Sözleşmeyi devralan ile devreden arasında yapılan ve sözleşmede kalan diğer tarafça

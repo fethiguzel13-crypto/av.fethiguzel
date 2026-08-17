@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**İncelemenin bitmesi**
+**üncü fıkralariyle 17 inci madde hükümleri saklıdır.)
+İncelemenin bitmesi:**
 
 ---
 
@@ -22,6 +23,8 @@ ilgili vergi ve cezalar kesinleşinceye kadar kendisine geri verilmez.
 İlgililer tutanaklara diledikleri itiraz ve mülahazaları kaydedebilirler.
 İlgililer bu tutanakları her zaman imzalıyarak defter ve vesikalarını geri alabilirler.
 Ancak, bu defter ve vesikaların suç delili teşkil etmemesi şarttır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

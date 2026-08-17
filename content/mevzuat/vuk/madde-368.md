@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**Vergi cezalarının ödenme zamanı**
+**sayılı Kararı ile.)
+İKİNCİ BÖLÜM
+Cezaların Ödenmesi ve Kalkması
+Vergi cezalarının ödenme zamanı:**
 
 ---
 
@@ -18,15 +21,8 @@ tarihten;
 2. Cezaya karşı dava açılmışsa, vergi mahkemesi kararı üzerine vergi dairesince
 düzenlenecek ihbarnamenin ilgiliye tebliğ tarihinden:
 Başlayarak bir ay içinde ödenir.
-7/7/2011 tarihli ve 646 sayılı KHK’nin 4 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan “maliye
-müfettişleri, hesap uzmanları ile bunların yardımcıları ve gelirler kontrolörleri ile stajyer gelirler kontrolörleri”
-ibaresi “Vergi Müfettişleri ve Vergi Müfettiş Yardımcıları” şeklinde değiştirilmiştir.
-142
-30/11/2022 tarihli ve 7423 sayılı Kanunun 2 nci maddesiyle bu fıkranın birinci cümlesinde yer alan “(ç)
-fıkrasında” ibaresi “(ç) ve (d) fıkralarında” şeklinde değiştirilmiştir.
-141
 
-(Ek fıkra: 22/7/1998-4369/16 md.; Mülga: 11/8/1999-4444/14 md.)143
+---
 
 ### Akademik Yorum ve Analiz
 

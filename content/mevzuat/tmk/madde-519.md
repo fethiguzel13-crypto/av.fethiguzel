@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**Madde 519**
+**III. Tereke ile ilgisi**
 
 ---
 
-Madde 519 - Tereke mevcu dunu veya tasarrufu yerine getirme yükümlüsüne yapılan kazandırmayı ya da saklı payı zedeleyen tasarrufl arın orantılı olarak tenkisi istenebilir. Tasarrufu yerine getirme yükümlüsü, mir asçılığı veya kendisine bır akılan kazandırmayı reddetm iş ya da mi rasbır akanda n önce ölmüş veya mirastan yoksun kalmış olsa bile ta sarruf yürürlükte kalır; yerine getirme borcu , bu durumlardan yararlananlara geçer. Yasal veya atanmış mirasçı, mirası reddetm iş olsa bile lehine yapılmı ş bir tasarrufun yerine get irilmesini isteye bilir.
+Madde 519- Tereke mevcudunu veya tasarrufu yerine getirme yükümlüsüne yapılan
+kazandırmayı ya da saklı payı zedeleyen tasarrufların orantılı olarak tenkisi istenebilir.
+Tasarrufu yerine getirme yükümlüsü, mirasçılığı veya kendisine bırakılan kazandırmayı
+reddetmiş ya da mirasbırakandan önce ölmüş veya mirastan yoksun kalmış olsa bile tasarruf
+yürürlükte kalır; yerine getirme borcu, bu durumlardan yararlananlara geçer.
+Yasal veya atanmış mirasçı, mirası reddetmiş olsa bile lehine yapılmış bir tasarrufun
+yerine getirilmesini isteyebilir.
 
 ---
 

@@ -37,8 +37,7 @@ nakitlerinin ilgili yatırım kuruluşu müşterileri için açılacak olan mün
 hesaplarda, yatırım kuruluşunun kendi nakit varlığından ayrı olarak izlenmesi esastır. Müşteri
 hesaplarının bankalarda nemalandırılmasına ilişkin esaslar Kurulca belirlenir. Müşteri
 hesapları kredi teminatı olarak gösterilemez, bu hesaplar üzerinde yatırım kuruluşu
-
-lehine blokaj, rehin ve benzeri takyidat tesis edilemez. Bankaların bu kapsamdaki
+lehine blokaj, rehin ve benzeri takyidat tesis edilemez. Bankaların bu kapsamdaki
 sorumluluğu yatırım kuruluşlarınca yapılan bildirimlerle sınırlıdır. Bu hesaplarda bakiyesi yer
 alan müşterilerle ilgili tedbir, haciz ve benzeri her türlü idari ve adli talepler münhasıran ilgili
 yatırım kuruluşuna bildirilir ve yatırım kuruluşu tarafından yerine getirilir.
@@ -47,6 +46,8 @@ nezdinde açılan hesaplar banka muhasebesinde ayrı bir hesapta izlenir. Bankal
 kuruluşu müşteri nakitlerinin kaydedildiği hesaplara ilişkin olarak Kurulca belirlenen şekilde
 ve sıklıkta Kurula bildirim yapmak zorundadır. Bu yükümlülük Bankacılık Düzenleme ve
 Denetleme Kurumu tarafından Kurula tahsis edilen bir sistem yoluyla da yerine getirilebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

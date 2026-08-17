@@ -15,6 +15,8 @@ Madde 126 – (1) Şüpheli veya sanık ile 45 ve 46 ncı maddelere göre tanık
 çekinebilecek kimseler arasındaki mektuplara ve belgelere; bu kimselerin nezdinde
 bulundukça elkonulamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

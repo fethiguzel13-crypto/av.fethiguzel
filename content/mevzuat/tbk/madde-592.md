@@ -11,7 +11,7 @@ wordCount: 4262
 
 ---
 
-Madde 592 - Alacaklı, kefalet sırasında var olan veya daha sonra asıl borçludan
+MADDE 592- Alacaklı, kefalet sırasında var olan veya daha sonra asıl borçludan
 alacağın özel güvencesi olmak üzere elde ettiği rehin haklarını, güvenceyi ve rüçhan haklarını
 kefilin zararına olarak azaltırsa, zararın daha az olduğu alacaklı tarafından ispat edilmedikçe,
 kefilin sorumluluğu da buna uygun düşen bir miktarda azalır. Kefilin fazladan ödediği

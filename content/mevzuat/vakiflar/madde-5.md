@@ -21,6 +21,8 @@ düzenlenmesine ilişkin usûl ve esaslar yönetmelikle düzenlenir.
 Yabancılar, Türkiye’de, hukukî ve fiilî mütekabiliyet esasına göre yeni vakıf
 kurabilirler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

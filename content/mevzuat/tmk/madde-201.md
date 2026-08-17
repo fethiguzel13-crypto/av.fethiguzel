@@ -11,7 +11,13 @@ wordCount: 4260
 
 ---
 
-Madde 201 - Evlilik birliğinin korunmasına yönelik önlemler konusunda yetkili mahkeme eşlerden herhangi birinin yerleşim yeri mahkemesid ir. E şlerin yerleşim yerleri farklı ve her ikisi de önlem alınması isteminde bulunmuş ise, yetkili mahkeme ilk is temde bulunanın yerleşim yeri mahkemesidir. Önlemlerin değiştirilmesi, tamamlanması veya kaldırılması konusunda yetkili mahkeme, önlem kararını vere n mahkemedir. Ancak, her iki eşin de yerleşim yeri değişmişse, yetkili mahkeme eşlerden herhangi birinin yen i yerleşim yeri mahkemesidir. DÖRDÜNCÜ BÖLÜM EŞLER ARASINDAKİ MAL REJİMİ BİRİNCİ AYIRIM GENEL HÜKÜMLER A. Yasal mal rejimi
+Madde 201 - Evlilik birliğinin korunmasına yönelik önlemler konusunda yetkili mahkeme
+eşlerden herhangi birinin yerleşim yeri mahkemesidir.
+Eşlerin yerleşim yerleri farklı ve her ikisi de önlem alınması isteminde bulunmuş ise,
+yetkili mahkeme ilk istemde bulunanın yerleşim yeri mahkemesidir.
+Önlemlerin değiştirilmesi, tamamlanması veya kaldırılması konusunda yetkili mahkeme,
+önlem kararını veren mahkemedir. Ancak, her iki eşin de yerleşim yeri değişmişse, yetkili
+mahkeme eşlerden herhangi birinin yeni yerleşim yeri mahkemesidir.
 
 ---
 

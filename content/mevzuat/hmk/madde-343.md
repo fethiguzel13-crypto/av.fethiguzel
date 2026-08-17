@@ -21,6 +21,8 @@ mahkemece yukarıdaki fıkraya göre işlem yapıldıktan sonra kararı veren ma
 (4) Dosya, kararı veren mahkemece, istinaf dilekçesinde gösterilen daire ile bağlı
 kalınmaksızın, ilgili bölge adliye mahkemesine gönderilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

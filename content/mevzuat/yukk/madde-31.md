@@ -7,7 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**Kısa dönem ikamet izni**
+**a) Kısa dönem ikamet izni
+b) Aile ikamet izni
+c) Öğrenci ikamet izni
+ç) Uzun dönem ikamet izni
+d) İnsani ikamet izni
+e) İnsan ticareti mağduru ikamet izni
+Kısa dönem ikamet izni**
 
 ---
 
@@ -28,10 +34,9 @@ h) Türkçe öğrenme kurslarına katılacaklar
 ı) Kamu kurumları aracılığıyla Türkiye’de eğitim, araştırma, staj ve kurslara katılacaklar
 i) Türkiye’de yükseköğrenimini tamamlayanlardan mezuniyet tarihinden itibaren altı
 ay içinde müracaat edenler
-
-j) (Ek: 28/7/2016-6735/27 md.) Türkiye’de çalışmayan ancak Cumhurbaşkanınca
+j) (Ek: 28/7/2016-6735/27 md.) Türkiye’de çalışmayan ancak Cumhurbaşkanınca
 belirlenecek kapsam ve tutarda yatırım yapacaklar ile bunların yabancı eşi, kendisinin ve
-eşinin ergin olmayan veya bağımlı yabancı çocuğu12
+eşinin ergin olmayan veya bağımlı yabancı çocuğu
 k) (Ek: 28/7/2016-6735/27 md.) Kuzey Kıbrıs Türk Cumhuriyeti vatandaşları
 (2) (Değişik: 28/7/2016-6735/27 md.) Kısa dönem ikamet izni, birinci fıkranın (j) ve
 (k) bentleri hariç olmak üzere, her defasında en fazla ikişer yıllık sürelerle verilebilir.
@@ -50,6 +55,8 @@ verme süresinin geçmesiyle dosya tekemmül etmiş sayılır. Davacının göst
 tebligat yapılamaması halinde, 6/1/1982 tarihli ve 2577 sayılı İdari Yargılama Usulü
 Kanununun 26 ncı maddesinin üçüncü fıkrasında öngörülen süre iki ay olarak uygulanır.
 Duruşma yapılması mahkemenin takdirine bağlıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

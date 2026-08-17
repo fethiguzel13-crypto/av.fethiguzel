@@ -18,6 +18,8 @@ hâlinde bölge adliye mahkemesi, uyuşmazlığı iki ay içinde kesin olarak ka
 (2) Toplu iş sözleşmesine dayanan eda davalarında, temerrüt tarihinden itibaren
 işletme kredilerine uygulanan en yüksek faiz oranı uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

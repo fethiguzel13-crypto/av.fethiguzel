@@ -21,6 +21,8 @@ mahkemesi hâkiminin aynı hâkim olması hâlinde ise en yakın asliye hukuk ma
 gecikmeksizin gönderilir.
 (3) İtiraz mercii kararını bir hafta içinde verir. İtiraz üzerine verilen kararlar kesindir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

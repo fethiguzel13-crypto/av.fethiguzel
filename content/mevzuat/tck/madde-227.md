@@ -15,10 +15,7 @@ Madde 227- (1) Çocuğu fuhşa teşvik eden, bunun yolunu kolaylaştıran, bu ma
 tedarik eden veya barındıran ya da çocuğun fuhşuna aracılık eden kişi, dört yıldan on yıla
 kadar hapis ve beşbin güne kadar adlî para cezası ile cezalandırılır. Bu suçun işlenişine
 yönelik hazırlık hareketleri de tamamlanmış suç gibi cezalandırılır.
-24/3/2016 tarihli ve 6698 sayılı Kanunun 30 uncu maddesiyle, bu fıkrada yer alan “çocukları” ibaresi
-“çocukları, temsili çocuk görüntülerini veya çocuk gibi görünen kişileri” şeklinde değiştirilmiştir.
-
-(2) Bir kimseyi fuhşa teşvik eden, bunun yolunu kolaylaştıran ya da fuhuş için aracılık
+(2) Bir kimseyi fuhşa teşvik eden, bunun yolunu kolaylaştıran ya da fuhuş için aracılık
 eden veya yer temin eden kişi, iki yıldan dört yıla kadar hapis ve üçbin güne kadar adlî para
 cezası ile cezalandırılır. Fuhşa sürüklenen kişinin kazancından yararlanılarak kısmen veya
 tamamen geçimin sağlanması, fuhşa teşvik sayılır.
@@ -37,7 +34,9 @@ suretiyle işlenmesi halinde, verilecek ceza yarı oranında artırılır.
 işlenmesi halinde, yukarıdaki fıkralara göre verilecek ceza yarı oranında artırılır.
 (7) Bu suçlardan dolayı, tüzel kişiler hakkında bunlara özgü güvenlik tedbirlerine
 hükmolunur.
-(8) Fuhşa sürüklenen kişi, tedaviye veya psikolojik terapiye tâbi tutulabilir.94
+(8) Fuhşa sürüklenen kişi, tedaviye veya psikolojik terapiye tâbi tutulabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**Zirai mahsuller**
+**(Üçüncü fıkra mülga: 30/12/1980-2365/51 md.)
+Zirai mahsuller:**
 
 ---
 
@@ -15,9 +16,7 @@ Madde 276 – Zirai mahsuller maliyet bedeli ile değerlenir. Maliyet bedeli, zi
 mahsullerin hususiyetlerine göre 275 inci maddede yazılı unsurlara mütenazır olarak Maliye
 Bakanlığınca tesbit edilecek esaslar dairesinde hesaplanır.
 
-88
-
-Bu madde başlığı, 24/6/1994 tarih ve 4008 sayılı Kanunun 8 inci maddesi ile değiştirilmiştir.
+---
 
 ### Akademik Yorum ve Analiz
 

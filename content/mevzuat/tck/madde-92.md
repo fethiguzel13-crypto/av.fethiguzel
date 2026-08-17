@@ -15,6 +15,8 @@ Madde 92- (1) Organ veya dokularını satan kişinin içinde bulunduğu sosyal v
 koşullar göz önünde bulundurularak, hakkında verilecek cezada indirim yapılabileceği gibi, ceza
 vermekten de vazgeçilebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

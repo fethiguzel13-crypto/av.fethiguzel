@@ -16,6 +16,8 @@ bir kimsenin tanık sıfatıyla dinlenilmesinin uygun olup olmadığında teredd
 tanıklığından sonraya bırakılabilir.
 (2) Soruşturma evresinde Cumhuriyet savcıları da tanıklara yemin verirler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

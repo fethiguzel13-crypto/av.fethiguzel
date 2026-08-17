@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Reddolunan miraslar**
+**Reddolunan miraslar:**
 
 ---
 
 Madde 180 – Reddolunan mirasların tasfiyesi sekizinci bap hükümlerine göre ait
 olduğu mahkemece yapılır. Terekenin resmen tasfiyesine dair Kanunu Medeni hükümleri
 mahfuzdur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

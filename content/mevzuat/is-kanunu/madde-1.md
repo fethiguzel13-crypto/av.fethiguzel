@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**Amaç ve kapsam**
+**İŞ KANUNU
+BİRİNCİ BÖLÜM
+Genel Hükümler
+Amaç ve kapsam**
 
 ---
 
@@ -17,6 +20,8 @@ Bu Kanun, 4 üncü Maddedeki istisnalar dışında kalan bütün işyerlerine, b
 işverenleri ile işveren vekillerine ve işçilerine faaliyet konularına bakılmaksızın uygulanır.
 İşyerleri, işverenler, işveren vekilleri ve işçiler, 3 üncü maddedeki bildirim gününe
 bakılmaksızın bu Kanun hükümleri ile bağlı olurlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

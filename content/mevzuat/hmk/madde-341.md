@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**İstinaf yoluna başvurulabilen kararlar44**
+**SEKİZİNCİ KISIM
+Kanun Yolları
+BİRİNCİ BÖLÜM
+İstinaf
+İstinaf yoluna başvurulabilen kararlar**
 
 ---
 
@@ -19,7 +23,7 @@ verilen ihtiyati tedbir ve ihtiyati haciz kararları, karşı tarafın yokluğun
 ve ihtiyati haciz kararlarına karşı yapılan itiraz üzerine verilen kararlar.
 (2) Miktar veya değeri üç bin Türk Lirasını geçmeyen malvarlığı davalarına ilişkin
 kararlar kesindir. (Ek cümle: 24/11/2016-6763/41 md.) Ancak manevi tazminat davalarında
-verilen kararlara karşı, miktar veya değere bakılmaksızın istinaf yoluna başvurulabilir.45
+verilen kararlara karşı, miktar veya değere bakılmaksızın istinaf yoluna başvurulabilir.
 (3) Alacağın bir kısmının dava edilmiş olması durumunda üç bin Türk Liralık kesinlik
 sınırı alacağın tamamına göre belirlenir.
 (4) Alacağın tamamının dava edilmiş olması durumunda, kararda asıl talebinin kabul
@@ -27,6 +31,8 @@ edilmeyen bölümü üç bin Türk Lirasını geçmeyen taraf, istinaf yoluna ba
 (5) İlk derece mahkemelerinin diğer kanunlarda temyiz edilebileceği veya haklarında
 Yargıtaya başvurulabileceği belirtilmiş olup da bölge adliye mahkemelerinin görev alanına
 giren dava ve işlere ilişkin nihai kararlarına karşı, bölge adliye mahkemelerine başvurulabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**III. İspat yü kü**
+**III. İspat yükü**
 
 ---
 
-Madde 512 - Mirasçılıktan çıkarma, mirasbırakan ancak buna ilişkin tasarrufunda çıkarma sebebini belirtmiş se geçerlidir. Mirasçılıktan çıkarılan kimse itiraz ederse, b elirtilen sebebin varlığını ispat, çıkarmadan yararlanan mirasçıya veya vasiyet alacakl ısına düşer. Sebebin varlığı ispat edilememiş veya çıkarma sebebi tasarrufta beli rtilmemişse tasarruf, miras çının saklı payı dışında ye rine getiri lir; a ncak, mirasbırakan bu tasarrufu çıkarma sebebi hakkında düş tüğü açık bir yanılma yüzünden yapmışsa, çıka rma geçersiz olur.
+Madde 512- Mirasçılıktan çıkarma, mirasbırakan ancak buna ilişkin tasarrufunda çıkarma
+sebebini belirtmişse geçerlidir.
+Mirasçılıktan çıkarılan kimse itiraz ederse, belirtilen sebebin varlığını ispat, çıkarmadan
+yararlanan mirasçıya veya vasiyet alacaklısına düşer.
+Sebebin varlığı ispat edilememiş veya çıkarma sebebi tasarrufta belirtilmemişse tasarruf,
+mirasçının saklı payı dışında yerine getirilir; ancak, mirasbırakan bu tasarrufu çıkarma sebebi
+hakkında düştüğü açık bir yanılma yüzünden yapmışsa, çıkarma geçersiz olur.
 
 ---
 

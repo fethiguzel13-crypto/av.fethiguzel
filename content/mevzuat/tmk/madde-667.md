@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
-**(Mülga: 30/4/2014 - 6537/9 md.) 4. Yan sınaî işletme**
+**4. Yan sınaî işletme**
 
 ---
 
-Madde 667 - (Mülga: 30/4/2014 - 6537/9 md.) 5. İşletmenin satılması
+Madde 667- (Mülga: 30/4/2014-6537/9 md.)
 
 ---
 

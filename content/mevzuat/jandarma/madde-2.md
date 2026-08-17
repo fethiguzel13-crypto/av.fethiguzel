@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**Kapsam**
+**Kapsam:**
 
 ---
 
 Madde 2 – Bu Kanun, Jandarma Teşkilatındaki karargah, birlik ve kurumlar ile buralarda
 hizmet gören personeli ve bunlarla ilgili faaliyet ve esasları kapsar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

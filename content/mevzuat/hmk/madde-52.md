@@ -14,6 +14,8 @@ wordCount: 4265
 MADDE 52- (1) Medenî hakları kullanma ehliyetine sahip olmayanlar davada kanuni
 temsilcileri, tüzel kişiler ise yetkili organları tarafından temsil edilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

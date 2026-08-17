@@ -18,8 +18,8 @@ hapis cezası ile cezalandırılır.
 işlenmesi halinde verilecek ceza yarı oranında artırılır.
 (3) Bu suçun örgüt faaliyeti çerçevesinde işlenmiş olması halinde, verilecek ceza bir
 kat artırılır.
-SEKİZİNCİ BÖLÜM
-Aile Düzenine Karşı Suçlar
+
+---
 
 ### Akademik Yorum ve Analiz
 

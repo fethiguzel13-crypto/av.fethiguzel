@@ -23,13 +23,16 @@ belirtilenlerden öğrenci olanların sigortalı sayılmaları, bağlanan aylık
 gerektirmez.
 Aylığın kesilmesine yol açan sebebin ortadan kalkması halinde, 34 üncü maddede
 belirtilen şartlar saklı kalmak kaydıyla, müracaat tarihini takip eden ay başından itibaren
-yeniden aylık bağlanır.
+yeniden aylık bağlanır. (Mülga son cümle: 17/4/2008-5754/67 md.)
 Bu madde gereğince aylığı kesilen çocuklardan, sonradan Kurum Sağlık Kurulu kararı
-ile çalışma gücünü en az %60 oranında kaybederek malûllük durumlarının tespitine esas teşkil eden
+ile çalışma gücünü en az %60 oranında kaybederek malûl olduğu anlaşılanlara, 34 üncü
+maddede belirtilen şartları taşımaları halinde, malûllük durumlarının tespitine esas teşkil eden
 rapor tarihini takip eden ay başından itibaren, 94 üncü madde hükmü saklı kalmak kaydıyla
 aylık bağlanır.
 Yeniden bağlanan aylık, aylığın kesildiği tarihten tekrar bağlandığı tarihe kadar geçen
 süre için 55 inci maddenin ikinci fıkrasına göre artırılmak suretiyle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

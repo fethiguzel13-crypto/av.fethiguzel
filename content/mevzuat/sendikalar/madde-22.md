@@ -20,6 +20,8 @@ meydana getirdikleri kuruluşun üyesi olur.
 (4) Katılımın yapıldığı ya da yeni meydana getirilen kuruluş, durumu bir ay içerisinde
 Bakanlığa bildirir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

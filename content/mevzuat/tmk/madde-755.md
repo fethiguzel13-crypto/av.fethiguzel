@@ -11,7 +11,12 @@ wordCount: 4314
 
 ---
 
-Madde 755 - Su yollarını düzeltm e, sulama, bataklık yerlerini kurutma, yol açma, orman yetişti rme, arazileri toplulaştırma gibi iyileştirme işleri, ancak ilgili maliklerin ortak girişi mleriyle yapılabilecekse, arazinin yarısından fazlasına sahip bulunmak koşuluyla maliklerin üçte ikisini n bu yolda karar vermeleri gerekir. Diğer malikler de bu karar a uymak zorundadır. Alınan karar, tapu kütüğünün beyanlar sütununda gösterilir. Bu konular a ilişkin özel kanun hükümleri saklıdır.
+Madde 755- Su yollarını düzeltme, sulama, bataklık yerlerini kurutma, yol açma, orman
+yetiştirme, arazileri toplulaştırma gibi iyileştirme işleri, ancak ilgili maliklerin ortak girişimleriyle
+yapılabilecekse, arazinin yarısından fazlasına sahip bulunmak koşuluyla maliklerin üçte ikisinin
+bu yolda karar vermeleri gerekir. Diğer malikler de bu karara uymak zorundadır. Alınan karar,
+tapu kütüğünün beyanlar sütununda gösterilir.
+Bu konulara ilişkin özel kanun hükümleri saklıdır.
 
 ---
 

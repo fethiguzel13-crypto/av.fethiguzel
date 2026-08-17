@@ -17,6 +17,8 @@ hesaba katılmaz ve süre son günün tatil saatinde biter.
 içindeki karşılık gelen günün tatil saatinde biter. Sürenin bittiği ayda, başladığı güne karşılık
 gelen bir gün yoksa, süre bu ayın son günü tatil saatinde biter.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

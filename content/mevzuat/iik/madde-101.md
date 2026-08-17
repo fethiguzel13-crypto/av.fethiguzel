@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**Önce icrası lazım gelen merasime lüzum olmaksızın iştirak**
+**Önce icrası lazım gelen merasime lüzum olmaksızın iştirak:**
 
 ---
 
@@ -29,6 +29,8 @@ açması lüzumu bildirilir. Bu süre içinde dava açmazsa iştirak hakkı dü�
 basit yargılama usulüne göre bakılır.
 Nafaka ilamına istinat eden alacaklı önce takip merasiminin icrasına lüzum olmaksızın
 her zaman aynı derecede hacze iştirak edebilir. Suiniyet hali müstesnadır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -18,10 +18,9 @@ savunmaya ilişkin esaslı noktalar tercüme edilir.
 noktalar, anlayabilecekleri biçimde anlatılır.
 (3) Birinci ve ikinci fıkra hükümleri, soruşturma evresinde dinlenen şüpheli, mağdur
 veya tanıklar hakkında da uygulanır. Bu evrede tercüman, hâkim veya Cumhuriyet savcısı
-
-tarafından atanır.71
+tarafından atanır.
 (4) (Ek: 24/1/2013-6411/ 1 md.) Ayrıca sanık;
-a) İddianamenin anlatılması,72
+a) İddianamenin anlatılması,
 b) Esas hakkındaki mütalaanın verilmesi,
 üzerine sözlü savunmasını, kendisini daha iyi ifade edebileceğini beyan ettiği başka bir
 dilde yapabilir. Bu durumda tercüme hizmetleri, beşinci fıkra uyarınca oluşturulan listeden,
@@ -33,6 +32,8 @@ yıl düzenlenen listede yer alan kişiler arasından seçilirler. Cumhuriyet sa
 yalnız bulundukları il bakımından oluşturulmuş listelerden değil, diğer illerde oluşturulmuş
 listelerden de tercüman seçebilirler. Bu listelerin düzenlenmesine ilişkin usul ve esaslar
 yönetmelikle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

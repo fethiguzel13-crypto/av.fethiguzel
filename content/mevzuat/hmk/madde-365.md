@@ -19,6 +19,8 @@ verilebilir.
 temyiz defterine kaydolunur ve durum derhâl kararı temyiz edilen mahkemeye bildirilir.
 (3) Temyiz edene ücretsiz bir alındı belgesi verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

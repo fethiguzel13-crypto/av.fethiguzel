@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**Otoparklar**
+**Otoparklar:**
 
 ---
 
@@ -25,6 +25,8 @@ edilir.
 muvafakati, araç giriş ve çıkışlarının trafiği aksatmaması ve ilgili idaresinden izin alınmak
 kaydıyla, zemini geçirimli malzeme ile kaplanarak ve gerekli işaretlemeler yapılarak, yapı
 kapsamına girmeyecek şekilde açık otopark olarak işletilebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

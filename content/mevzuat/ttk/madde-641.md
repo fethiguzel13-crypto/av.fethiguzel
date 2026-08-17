@@ -7,14 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**IV
-- Ayrılma akçesi
+**IV - Ayrılma akçesi
 1. İstem ve tutar**
 
 ---
 
-Madde 641 - (1) Ortak şirketten ayrıldığı takdirde, esas serma ye payının gerçek değerine uyan ayrılma akçesini istem hakkını haizdir.
-(2) Şirket sözleşmesinde öngörülen ayrılma hakkı dolayısıyla, şirket sözleşmeleri ayrılma akçesini farklı bir şekilde düzenleyebilirler.
+MADDE 641- (1) Ortak şirketten ayrıldığı takdirde, esas sermaye payının gerçek
+değerine uyan ayrılma akçesini istem hakkını haizdir.
+(2) Şirket sözleşmesinde öngörülen ayrılma hakkı dolayısıyla, şirket sözleşmeleri
+ayrılma akçesini farklı bir şekilde düzenleyebilirler.
 
 ---
 

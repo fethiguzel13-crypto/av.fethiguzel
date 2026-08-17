@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4275
 ---
 
-**yargılamanın iadesi sebebinin, yargılamanın iadesi davasında öncelikle ispat edilmesi gerekir.**
+**Üçüncü kişilerin hükmün iptalini talep etmesi**
 
 ---
 
 MADDE 376- (1) Davanın taraflarından birisinin alacaklıları veya aleyhine hüküm
 verilen tarafın yerine geçenler, borçluları veya yerine geçmiş oldukları kimselerin aralarında
 anlaşarak, kendilerine karşı hile yapmaları nedeniyle hükmün iptalini isteyebilirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

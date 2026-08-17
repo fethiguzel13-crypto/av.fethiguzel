@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**mahkumiyet3**
+**mahkumiyet**
 
 ---
 
@@ -25,7 +25,10 @@ teminat dahil o iş için pilot veya koordinatör ortağın yüklenmiş olduğu 
 Pilot veya koordinatör ortak dışındaki ortaklardan birinin ölümü, iflası, ağır hastalığı,
 tutukluluğu, özgürlüğü kısıtlayıcı bir cezaya mahkum olması veya dağılması halinde, diğer ortaklar
 teminat dahil işin o ortağa yüklediği sorumlulukları da üstlenerek taahhüdü yerine getirirler.
-3 Bu maddede geçen “pilot” ibareleri, 30/7/2003 tarihli ve 4964 sayılı Kanunun 45 inci maddesiyle “pilot veya koordinatör” olarak değiştirilmiştir.
+Bu maddede geçen “pilot” ibareleri, 30/7/2003 tarihli ve 4964 sayılı Kanunun 45 inci maddesiyle “pilot
+veya koordinatör” olarak değiştirilmiştir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

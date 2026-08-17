@@ -11,7 +11,7 @@ wordCount: 4297
 
 ---
 
-Madde 16 - İmza atamayanlar, imza yerine usulüne göre onaylanmış olması
+MADDE 16- İmza atamayanlar, imza yerine usulüne göre onaylanmış olması
 koşuluyla, parmak izi, el ile yapılmış bir işaret ya da mühür kullanabilirler.
 Kambiyo senetlerine ilişkin hükümler saklıdır.
 

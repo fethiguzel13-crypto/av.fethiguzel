@@ -11,7 +11,8 @@ wordCount: 4302
 
 ---
 
-Madde 144 - Evlenme işlemi, evl enme kütüğü, evlenmeye ilişkin yazışma ve evlenme ile ilgili diğer konular yönetmelikle düzenlenir. DÖRDÜNCÜ AYIRIM BATIL OLAN EVLENMELER A. Mutlak butlan I. Sebepleri
+Madde 144- Evlenme işlemi, evlenme kütüğü, evlenmeye ilişkin yazışma ve evlenme ile
+ilgili diğer konular yönetmelikle düzenlenir.
 
 ---
 

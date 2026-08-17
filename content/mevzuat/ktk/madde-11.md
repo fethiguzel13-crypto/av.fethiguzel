@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**(Ek fıkra: 25/6/1988 - KHK 330/2 md.)15**
+**(Ek fıkra: 25/6/1988 - KHK 330/2 md.)**
 
 ---
 
-Madde 11 – (Mülga: 18/1/1985 - KHK 245/16 md.; Aynen kabul:28/3/19853176/16 md.)
+Madde 11 – (Mülga: 18/1/1985 - KHK 245/16 md.; Aynen kabul:28/3/1985-
+
+---
 
 ### Akademik Yorum ve Analiz
 

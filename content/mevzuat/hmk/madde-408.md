@@ -14,6 +14,8 @@ wordCount: 4271
 MADDE 408- (1) Taşınmaz mallar üzerindeki ayni haklardan veya iki tarafın
 iradelerine tabi olmayan işlerden kaynaklanan uyuşmazlıklar tahkime elverişli değildir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

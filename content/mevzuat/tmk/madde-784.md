@@ -11,7 +11,9 @@ wordCount: 4305
 
 ---
 
-Madde 784 - Yüklü ve yararlana n taşınmazlara aynı kimse malik olursa, bu kişi, irtifak hakkını terkin ettirebilir. Terkin edilmedikçe irtifak, aynî hak olarak varlığını sürdürür.
+Madde 784- Yüklü ve yararlanan taşınmazlara aynı kimse malik olursa, bu kişi, irtifak
+hakkını terkin ettirebilir.
+Terkin edilmedikçe irtifak, aynî hak olarak varlığını sürdürür.
 
 ---
 

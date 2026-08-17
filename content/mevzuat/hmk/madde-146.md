@@ -15,6 +15,8 @@ MADDE 146- (1) Mahkeme, taraflarca gösterilmiş olan delillerin incelenmesinden
 sonra, davanın muhakeme ve hüküm için yeterli derecede aydınlandığını anlarsa, tahkikatın
 bittiğini kendilerine bildirir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

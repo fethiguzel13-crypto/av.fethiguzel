@@ -18,9 +18,7 @@ tutarı bir defaya mahsus olmak üzere evlenme ödeneği olarak peşin ödenir. 
 alan hak sahibinin aylığının kesildiği tarihten itibaren iki yıl içerisinde yeniden hak sahibi
 olması halinde, iki yıllık sürenin sonuna kadar gelir veya aylık bağlanmaz, bu durumda olanlar
 60 ıncı maddenin birinci fıkrasının (f) bendi kapsamında genel sağlık sigortalısı sayılır.
-
-
-Evlenme ödeneği verilmesi halinde, diğer hak sahiplerinin aylık veya gelirleri evlenme
+Evlenme ödeneği verilmesi halinde, diğer hak sahiplerinin aylık veya gelirleri evlenme
 ödeneği verilen sürenin bitimini takip eden ödeme döneminden itibaren 34 üncü maddeye
 göre yeniden belirlenir.
 İş kazası veya meslek hastalığı sonucu veya sürekli iş göremezlik geliri, malûllük,
@@ -37,6 +35,8 @@ tüzel kişilere ödenir.
 ölenlerin hak sahiplerine kendi kurumları tarafından ilgili mevzuat gereği ölüm yardımı hariç
 cenaze gideri, cenaze nakil gideri ödeneği veya bu mahiyette bir ödemenin yapılması halinde,
 Kurum tarafından cenaze ödeneği ödenmez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

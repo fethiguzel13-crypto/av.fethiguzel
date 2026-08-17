@@ -22,6 +22,8 @@ tutanaklar ile kendilerinin yazmış olduğu belgeler okunabilir.
 (2) Cumhuriyet savcısı, katılan veya vekili, sanık veya müdafii birinci fıkrada
 belirtilenlerin dışında kalan tutanakların okunmasına birlikte rıza gösterebilirler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

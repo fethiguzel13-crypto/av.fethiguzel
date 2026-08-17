@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**Ceza kararnamesi**
+**Ceza kararnamesi:**
 
 ---
 
 Madde 352/a- (Ek: 17/7/2003-4949/100 md.; Mülga: 31/5/2005-5358/23 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Acele işlerde elkoyma ve tescil**
+**ÜÇÜNCÜ KISIM
+Aynın İhtilaflı Bulanması Tescil ve Tapuda Kayıtlı Olmayan Taşınmaz Malın
+Kamulaştırma Bedelinin Mahkemece Tespiti ve Zilyedin Hakları
+BİRİNCİ BÖLÜM
+Elkoyma
+Acele işlerde elkoyma ve tescil**
 
 ---
 
 Madde 16 – (Mülga: 24/4/2001 - 4650/21 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

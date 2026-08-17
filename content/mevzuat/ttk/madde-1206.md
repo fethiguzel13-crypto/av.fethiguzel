@@ -11,7 +11,9 @@ wordCount: 4283
 
 ---
 
-Madde 1206 - (1) Taşıyan, üzerinde hapis hakkı kullandığı eşyanın paraya çevrilmesini istemiş, fakat satış sonucunda alacağını tamamen alamamışsa, kendisiyle taşıtan arasında yapılan navlun sö zleşmesinden doğan alacaklarını elde edemediği oranda, taşıtandan isteyebilir.
+MADDE 1206- (1) Taşıyan, üzerinde hapis hakkı kullandığı eşyanın paraya çevrilmesini
+istemiş, fakat satış sonucunda alacağını tamamen alamamışsa, kendisiyle taşıtan arasında yapılan
+navlun sözleşmesinden doğan alacaklarını elde edemediği oranda, taşıtandan isteyebilir.
 
 ---
 

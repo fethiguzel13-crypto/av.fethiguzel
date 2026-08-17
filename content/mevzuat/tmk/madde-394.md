@@ -8,11 +8,13 @@ wordCount: 4258
 ---
 
 **IV. Sona ermesi
-1. Malikin ölümü h âlinde**
+1. Malikin ölümü hâlinde**
 
 ---
 
-Madde 394 - Malikin ölümünden sonra aile yurdunun devam edebilmesi, taşınma zın mirasçılara yurt olarak geçmesine ilişkin bir ölüm e bağlı tas arrufu n yapılmış olmasına bağlıdır. Böyle bir tasarruf yoksa, malik ölünce tapu kütüğündeki yurda ilişkin şerh silinir.
+Madde 394- Malikin ölümünden sonra aile yurdunun devam edebilmesi, taşınmazın
+mirasçılara yurt olarak geçmesine ilişkin bir ölüme bağlı tasarrufun yapılmış olmasına bağlıdır.
+Böyle bir tasarruf yoksa, malik ölünce tapu kütüğündeki yurda ilişkin şerh silinir.
 
 ---
 

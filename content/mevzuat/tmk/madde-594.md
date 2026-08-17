@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**Madde 594**
+**III. Mirasçıların bilinmemesi**
 
 ---
 
-Madde 594 - Mirasbırakanın mirasçısı bulunup bulunmadığı veya mirasçıların tamamı bilinmi yorsa, sulh hâkimi uygun araçlarla ve bir ay ara ile iki defa ilân yapıp hak sahiplerini son ilândan başlayarak en geç bir yıl içinde miras çılık sıfatlarını bildirmeye çağırır. İlân süresinde kimse başvurmazsa ve sulh hâkimi de h içbir mirasçı tespit edemem işse, miras sebebiyle istihkak davası açma hakkı saklı kalmak üzere miras Devlete geçer.
+Madde 594- Mirasbırakanın mirasçısı bulunup bulunmadığı veya mirasçıların tamamı
+bilinmiyorsa, sulh hâkimi uygun araçlarla ve bir ay ara ile iki defa ilân yapıp hak sahiplerini son
+ilândan başlayarak en geç bir yıl içinde mirasçılık sıfatlarını bildirmeye çağırır.
+İlân süresinde kimse başvurmazsa ve sulh hâkimi de hiçbir mirasçı tespit edememişse,
+miras sebebiyle istihkak davası açma hakkı saklı kalmak üzere miras Devlete geçer.
 
 ---
 

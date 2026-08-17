@@ -16,6 +16,8 @@ hısımlarının ve evlatlıklarının, belediye ile ihtilâflı olduğu durumla
 davada belediyenin temsili, meclis birinci başkan vekili, bulunmadığı takdirde ikinci başkan
 vekili veya bunların yetkilendireceği kişiler tarafından yerine getirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

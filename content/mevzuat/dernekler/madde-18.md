@@ -13,7 +13,8 @@ wordCount: 4270
 
 Madde 18- Bu Kanunla ilgili olarak hukuk mahkemelerinde bakılacak davalarda basit
 yargılama usulü uygulanır.
-(Mülga ikinci fıkra: 23/1/2008-5728/578 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

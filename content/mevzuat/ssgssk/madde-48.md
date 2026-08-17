@@ -23,18 +23,17 @@ başkanları için belediye encümeninin, illerin daimi komisyon üyeleri için 
 edenler için daha önce görev yaptıkları son kamu idaresinin en yüksek amirinin,
 d) Kurumların yönetim kurulu üyelerinin istek, malûliyet ve yaş haddi hallerinde,
 atanmalarında atamayı yapan kurumun en yüksek amirinin,
-e) Sayıştay Başkanının aynı halleri için Türkiye Büyük Millet Meclisi Başkanlığı,84
+e) Sayıştay Başkanının aynı halleri için Türkiye Büyük Millet Meclisi Başkanlığı,
 onayı ile tekemmül eder.
 Özel kanun hükümleri hariç olmak üzere yetkili makamın emekliye sevk onayı, talep
 tarihinden itibaren bir ayı geçemez. Bakanlar Kurulu kararı veya müşterek kararname ile
 atananların görevleriyle ilişiklerinin kesilmesi ilgili bakanın onayı ile tekemmül eder.
-84 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 203 üncü maddesiyle bu bentte yer alan “Danıştay Başkanının istek, malûliyet ve yaş haddi hallerinde Başbakanlık,” ibaresi madde metninden çıkarılmıştır.
-
-
-Özelleştirilmeleri sonucu sermayesindeki kamu payı % 50'nin altına düşen kuruluşlar
+Özelleştirilmeleri sonucu sermayesindeki kamu payı % 50'nin altına düşen kuruluşlar
 ile satış veya devri yapılmış olan kuruluşlarda çalışmakta iken emekliye ayrılanlar için
 emekliye sevk onayı aranmaz. Birinci fıkranın (b) bendine göre emekliye ayrılmak isteyenler
 için her durumda, istek tarihinden itibaren bir aylık süre sonunda ilişikleri kesilmiş sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

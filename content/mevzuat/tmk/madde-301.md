@@ -7,22 +7,18 @@ lastReviewed: "2026-07-27"
 wordCount: 3346
 ---
 
-**Çocuk ile baba arasındaki soybağının mahkemece belirlenmesini ana ve**
+**B. Babalık hükmü
+I. Dava hakkı**
 
 ---
 
-Madde 301 - Çocuk ile baba arasındaki soybağının mahkemece belirlenmesini ana ve
+Madde 301- Çocuk ile baba arasındaki soybağının mahkemece belirlenmesini ana ve
 çocuk isteyebilirler.
+Dava babaya, baba ölmüşse mirasçılarına karşı açılır.
+Babalık davası, Cumhuriyet savcısına ve Hazineye; dava ana tarafından açılmışsa
+kayyıma; kayyım tarafından açılmışsa anaya ihbar edilir.
 
-Dava
-babaya, baba ölmüşse mirasçılarına karşı açılır.
-
-Babalık
-davası, Cumhuriyet savcısına ve Hazineye; dava ana tarafından açılmışsa kayyıma;
-kayyım tarafından açılmışsa anaya ihbar edilir.
-
-II.
-Karine
+---
 
 ### Akademik Yorum ve Analiz
 

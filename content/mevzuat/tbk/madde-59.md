@@ -11,7 +11,7 @@ wordCount: 4304
 
 ---
 
-Madde 59 - Ayırt etme gücünü geçici olarak kaybeden kişi, bu sırada verdiği
+MADDE 59- Ayırt etme gücünü geçici olarak kaybeden kişi, bu sırada verdiği
 zararları gidermekle yükümlüdür. Ancak, ayırt etme gücünü kaybetmede kusuru olmadığını
 ispat ederse, sorumluluktan kurtulur.
 

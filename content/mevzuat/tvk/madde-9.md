@@ -7,13 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Sonradan Türk vatandaşlığının kazanılması — Genel çerçeve**
+**Sonradan kazanılan vatandaşlık**
 
 ---
 
-MADDE 9 – (1) Sonradan kazanılan Türk vatandaşlığı, yetkili makam kararı veya evlat edinilme ya da seçme hakkının kullanılması ile gerçekleşir.
-
-**(2) Türkiye'de bulunmuş çocuk aksi sabit olmadıkça Türkiye'de doğmuş sayılır.**
+MADDE 9 – (1) Sonradan kazanılan Türk vatandaşlığı, yetkili makam kararı veya evlat
+edinilme ya da seçme hakkının kullanılması ile gerçekleşir.
 
 ---
 

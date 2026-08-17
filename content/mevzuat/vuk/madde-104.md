@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**İlanın şekli:23**
+**İlanın şekli:**
 
 ---
 
@@ -20,19 +20,17 @@ numaralı bende göre ilan yapılmaz ve ilan yazısının askıya çıkarıldı�
 gün ilan tarihi olarak kabul edilir.
 2. İlan yazısının bir sureti mükellefin bilinen son adresinin bağlı olduğu muhtarlığa
 gönderilir.
-3. İlan ile yapılan tebliğin konusu birmilyar ila yüzmilyar lira arasındaki (30.0003.000.000 TL) vergi veya vergi cezasına taalluk ettiği takdirde ilan, ilgili vergi dairesinin
+3. İlan ile yapılan tebliğin konusu birmilyar ila yüzmilyar lira arasındaki (30.000-
+3.000.000 TL) vergi veya vergi cezasına taalluk ettiği takdirde ilan, ilgili vergi dairesinin
 bulunduğu yerin belediye sınırları içinde çıkan bir veya daha fazla gazetede ve bir internet
 haber sitesinde yayımlanır. Tutarın yüzmilyar lirayı (3.000.000 TL ve üzeri) aşması halinde
-
 Bu maddeye kanunla getirilen miktarlar aynen korunmuş olup, daha sonra 30/12/2025 tarihli ve 33124 (5.
 Mükerrer) sayılı Resmî Gazete'de yayımlanan Hazine ve Maliye Bakanlığının (Gelir İdaresi Başkanlığı) 588 Sıra
 No.’lu Tebliği ile 1/1/2026 tarihinden geçerli olmak üzere tespit edilen miktarlar metne parantez içinde siyah
 punto ile işlenmiştir. Daha önce yapılan değişiklikler için bu Kanunun sonundaki "ÇEŞİTLİ MEVZUAT İLE
 YAPILAN DEĞİŞİKLİKLER CETVELİ" ne bakınız.
-23
-
-ilan, Türkiye genelinde yayın yapan günlük gazetelerden birinde ve bir internet haber
-sitesinde ayrıca yapılır.24
+ilan, Türkiye genelinde yayın yapan günlük gazetelerden birinde ve bir internet haber
+sitesinde ayrıca yapılır.
 4. (Ek:14/10/2021-7338/15 md.) İlan yolu ile yapılan tebliğin konusu her biri için
 ayrı ayrı olmak üzere 3.600 (30.000) Türk lirasından fazla vergi veya vergi cezasına taalluk
 ettiği takdirde ilan ayrıca Hazine ve Maliye Bakanlığına bağlı vergi daireleri açısından Gelir
@@ -43,6 +41,8 @@ adresine ayrıca posta ile gönderilir.
 numaralı bendinde yer alan tutarı on katına kadar artırmaya, sıfıra kadar indirmeye,
 duyurunun kapsamı, şekli, zamanı ve süresi ile maddenin uygulamasına ilişkin usul ve
 esasları belirlemeye yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

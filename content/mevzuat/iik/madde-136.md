@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Taşınmazların satışına ilişkin hükümlerin gemilere uygulanması:57**
+**Taşınmazların satışına ilişkin hükümlerin gemilere uygulanması:**
 
 ---
 
@@ -16,6 +16,8 @@ Taşınmaz malların satışına ilişkin hükümler, bayrağı dikkate alınmak
 siciline kayıtlı bütün gemiler hakkında da uygulanır. Bu hükümlerde geçen “tapu sicili” terimi
 gemi sicilini, “ipotek” terimi gemi ipoteklerini ve “irtifak hakkı” terimi sicile kayıtlı gemiler
 üzerindeki intifa hakkını ifade eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

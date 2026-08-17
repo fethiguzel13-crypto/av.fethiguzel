@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**Paraların paylaştırılması zamanı, masraflar ve vekalet ücreti**
+**4 – Paranın paylaştırılması:
+Paraların paylaştırılması zamanı, masraflar ve vekalet ücreti:**
 
 ---
 
@@ -23,6 +24,8 @@ tarafından avukatlık ücret tarifesine göre hasaplanır. Bu şekilde tayin ol
 takip masraflarına dahildir.
 Muvakkat hacizler için ayrılmış hisseler vaziyet anlaşılıncaya kadar sağlam bir
 bankaya, banka bulunmıyan yerlerde mahkeme veya icra sandıklarına yatırılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

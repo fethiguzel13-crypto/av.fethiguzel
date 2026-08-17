@@ -14,6 +14,8 @@ wordCount: 4261
 MADDE 76 – Mülhak vakıflarda vakıf yönetimine, mülkiyet ve intifa hakkı iddiasına
 ait davalarda vakıf yönetimi ile Genel Müdürlük birlikte hasım gösterilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

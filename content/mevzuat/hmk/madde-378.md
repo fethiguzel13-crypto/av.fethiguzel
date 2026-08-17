@@ -17,6 +17,8 @@ incelenir.
 bulunandan karşı tarafın zarar ve ziyanını karşılayacak uygun bir miktar teminat göstermesini
 isteyebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

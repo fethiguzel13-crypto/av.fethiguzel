@@ -12,8 +12,12 @@ wordCount: 4260
 
 ---
 
-Madde 384 - Ortaklar, aralarında yapacakları sözleşmeyle, yıllık kazançtan kendilerine b elli
-bir pay verilmesi kayd ıyla ortaklığın temsilini ve ortaklığı n mall arının işletilmesini içlerinden birine bırakabilirler. Bu pay, anlaşmayla belirlenmemişse, ortaklık mall arının uygun derecede uzun bir dönemdeki kazancın ortalama miktarı ile işleten or tağın çalışması ve yaptığı harcama göz önünde tutulara k adil bir biçimd e belirlenir.
+Madde 384- Ortaklar, aralarında yapacakları sözleşmeyle, yıllık kazançtan kendilerine belli
+bir pay verilmesi kaydıyla ortaklığın temsilini ve ortaklığın mallarının işletilmesini içlerinden birine
+bırakabilirler.
+Bu pay, anlaşmayla belirlenmemişse, ortaklık mallarının uygun derecede uzun bir
+dönemdeki kazancın ortalama miktarı ile işleten ortağın çalışması ve yaptığı harcama göz önünde
+tutularak adil bir biçimde belirlenir.
 
 ---
 

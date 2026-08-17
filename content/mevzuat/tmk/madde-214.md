@@ -11,7 +11,12 @@ wordCount: 4318
 
 ---
 
-Madde 214 - Eşler veya mirasçılar arasında bir mal rejimi nin tasfiyesine ilişkin davalarda, aşağıdaki m ahkemeler yetkilidir: 1. Mal rejiminin ölümle sona ermesi durumunda ölenin son yerleşim yeri mahk emesi , 2. Boşanmaya, evliliğin iptaline veya hâkim tarafından mal ayrılığına karar verilmesi durumunda, bu davala rda yetkili olan mahkeme, 3. Diğer durumlarda davalı eşin yerleşim yeri mahkemesi.
+Madde 214 - Eşler veya mirasçılar arasında bir mal rejiminin tasfiyesine ilişkin
+davalarda, aşağıdaki mahkemeler yetkilidir:
+1. Mal rejiminin ölümle sona ermesi durumunda ölenin son yerleşim yeri mahkemesi,
+2. Boşanmaya, evliliğin iptaline veya hâkim tarafından mal ayrılığına karar verilmesi
+durumunda, bu davalarda yetkili olan mahkeme,
+3. Diğer durumlarda davalı eşin yerleşim yeri mahkemesi.
 
 ---
 

@@ -7,12 +7,20 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**II
-- Denize, yola ve yüke elverişli gemi**
+**II- Denize, yola ve yüke elverişli gemi**
 
 ---
 
-Madde 932 - (1) Gövde, genel donatım, makine, kazan gibi esas kısımları bakımından, yolculuğun yapılacağı sudan ileri gelen (tamamıyla an ormal tehlikeler hariç) tehlikelere karşı koyabilecek bir gemi “denize elverişli” sayılır. (2) Denize elverişli olan gemi, teşkilatı, yükleme durumu, yakıtı, kumanyası, gemi adamlarının yeterliği ve sayısı bakımından, (tamamıyla anormal tehlikeler hariç) y apacağı yolculuğun tehlikelerine karşı koyabilmek için gerekli niteliklere sahip bulunduğu takdirde “yola elverişli” sayılır. (3) Soğutma tesisatı da dâhil olmak üzere, eşya taşımada kullanılan kısımları eşyanın kabulüne, taşınmasına ve muhafazasına elveri şli olan bir gemi “yüke elverişli” sayılır. (4) Denizde can ve mal koruma ile ilgili mevzuat hükümleri saklıdır.
+MADDE 932- (1) Gövde, genel donatım, makine, kazan gibi esas kısımları
+bakımından, yolculuğun yapılacağı sudan ileri gelen (tamamıyla anormal tehlikeler hariç)
+tehlikelere karşı koyabilecek bir gemi “denize elverişli” sayılır.
+(2) Denize elverişli olan gemi, teşkilatı, yükleme durumu, yakıtı, kumanyası, gemi
+adamlarının yeterliği ve sayısı bakımından, (tamamıyla anormal tehlikeler hariç) yapacağı
+yolculuğun tehlikelerine karşı koyabilmek için gerekli niteliklere sahip bulunduğu takdirde
+“yola elverişli” sayılır.
+(3) Soğutma tesisatı da dâhil olmak üzere, eşya taşımada kullanılan kısımları eşyanın
+kabulüne, taşınmasına ve muhafazasına elverişli olan bir gemi “yüke elverişli” sayılır.
+(4) Denizde can ve mal koruma ile ilgili mevzuat hükümleri saklıdır.
 
 ---
 

@@ -29,11 +29,7 @@ sürecini kapatma kararı verir. YTM, tazmin sürecinin sonuçlarını, yatırı
 alınanların tedricî tasfiyesinin veya iflasının istenmesinin yararlı olup olmayacağına ilişkin
 gerekçeli önerisiyle birlikte Kurula sunar. Tedricî tasfiye veya iflas kararı, tazmin sürecinin
 işleyişini engellemez. YTM, yatırımcıların haklarına, ödediği tazmin tutarı kadar halef olur.
-2/7/2018 tarihli ve 703 sayılı KHK’nin 165 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu”
-ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-8
-
-(5) Yatırımcıları kısmen veya tamamen tazmin edilenlerin yeniden yatırım hizmetleri
+(5) Yatırımcıları kısmen veya tamamen tazmin edilenlerin yeniden yatırım hizmetleri
 ve faaliyetlerinde bulunabilmeleri için, mevzuatta aranan diğer şartlar saklı kalmak üzere,
 tazminden doğan ve YTM tarafından yapılan tüm ödeme ve giderlerini, anapara ve kanuni
 faizi de dâhil olmak üzere ödemeleri zorunludur.
@@ -46,6 +42,8 @@ yatırımcıları bilgilendirme yükümlülükleri, YTM’nin hak ve yükümlül
 değerlendirilmesine ilişkin hususlar, YTM’nin mali tablo, defter ve raporları ile diğer
 hususlara ilişkin usul ve esaslar genel hükümler çerçevesinde Kurulca çıkarılacak bir
 yönetmelikle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

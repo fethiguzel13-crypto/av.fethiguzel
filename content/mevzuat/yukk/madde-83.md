@@ -12,11 +12,13 @@ wordCount: 4298
 ---
 
 MADDE 83 – (1) Mülteci, şartlı mülteci ve ikincil koruma statüsü verilenlere yabancı
-kimlik numarasını içeren kimlik belgesi düzenlenir.24
+kimlik numarasını içeren kimlik belgesi düzenlenir.
 (2) (Değişik:6/12/2019-7196/85 md.) Birinci fıkradaki kimlik belgeleri hiçbir harca
 tabi olmayıp ikamet izni yerine geçer.
 (3) (Değişik:6/12/2019-7196/85 md.) Kimlik belgelerinin şekil, içerik, geçerlilik
 süresi ile uzatılmasına ilişkin usul ve esaslar Bakanlıkça düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

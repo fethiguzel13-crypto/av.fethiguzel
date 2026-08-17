@@ -24,11 +24,8 @@ Medenî Kanununun iyiniyetle mal edinmeye ait hükümleri saklıdır.
 (5) Müteselsil borçlulardan biri veya birkaçı ile alacaklı arasında yahut müteselsil
 alacaklılardan biri veya birkaçı ile borçlu arasında oluşan kesin hüküm, diğerleri hakkında
 geçerli değildir.
-İKİNCİ BÖLÜM
-Hükmün Tashihi, Tavzihi ve Tamamlanması34
-22/7/2020 tarihli ve 7251 sayılı Kanunun 26 ncı maddesiyle, bu bölüm başlığı “Hükmün Tashihi ve
-Tavzihi” iken metne işlendiği şekilde değiştirilmiştir.
-34
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**VI
-- Borçların ödenmesi**
+**VI - Borçların ödenmesi**
 
 ---
 
-Madde 297 - (1) Tasfi ye hâlinde bulunan bir kollektif şirketin vadesi henüz gelmemiş olan borçlarını tasfiye memurları iskonto uygulayarak derhâl ödemeye ve alacaklılar da bu ödeme tarzını kabule zorunludurlar.
+MADDE 297- (1) Tasfiye hâlinde bulunan bir kollektif şirketin vadesi henüz gelmemiş
+olan borçlarını tasfiye memurları iskonto uygulayarak derhâl ödemeye ve alacaklılar da bu
+ödeme tarzını kabule zorunludurlar.
 
 ---
 

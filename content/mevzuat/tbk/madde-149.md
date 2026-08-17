@@ -12,7 +12,7 @@ wordCount: 4304
 
 ---
 
-Madde 149 - Zamanaşımı, alacağın muaccel olmasıyla işlemeye başlar.
+MADDE 149- Zamanaşımı, alacağın muaccel olmasıyla işlemeye başlar.
 Alacağın muaccel olmasının bir bildirime bağlı olduğu hâllerde, zamanaşımı bu
 bildirimin yapılabileceği günden işlemeye başlar.
 

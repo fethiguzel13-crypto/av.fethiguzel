@@ -11,7 +11,7 @@ wordCount: 4262
 
 ---
 
-Madde 403 - Sözleşmeyle işçiye ücretle birlikte üretilenden, cirodan veya kârdan
+MADDE 403- Sözleşmeyle işçiye ücretle birlikte üretilenden, cirodan veya kârdan
 belli bir pay verilmesi kararlaştırılmışsa, hesap dönemi sonunda bu pay, yasal hükümler veya
 genellikle kabul edilmiş ticari esaslar göz önünde tutularak belirlenir.
 İşçiye belli bir pay verilmesi kararlaştırılan hâllerde, payın hesaplanmasında

@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**Madde 691**
+**ÜÇÜNCÜ AYIRIM
+Kabul ve Aval
+A) Kabule arz
+I - Kural**
 
 ---
 
-Madde 691 - (1) Poliçe vadeye kadar hamil veya poliçeyi elinde bulunduran herkes tarafından muhatabın yerleşim yerinde onun kabulüne arzolunabilir.
+MADDE 691- (1) Poliçe vadeye kadar hamil veya poliçeyi elinde bulunduran herkes
+tarafından muhatabın yerleşim yerinde onun kabulüne arzolunabilir.
 
 ---
 

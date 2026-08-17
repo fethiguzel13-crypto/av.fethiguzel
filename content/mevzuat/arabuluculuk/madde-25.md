@@ -14,6 +14,8 @@ wordCount: 4290
 MADDE 25 – (1) Eğitim kuruluşları, eğitimlerini başarıyla tamamlayan kişilere
 arabuluculuk eğitimini tamamladıklarına dair bir belge verir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

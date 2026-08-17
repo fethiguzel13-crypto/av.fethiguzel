@@ -17,8 +17,8 @@ yardım etmeyen ya da durumu derhal ilgili makamlara bildirmeyen kişi, bir yıl
 veya adlî para cezası ile cezalandırılır.
 (2) Yardım veya bildirim yükümlülüğünün yerine getirilmemesi dolayısıyla kişinin
 ölmesi durumunda, bir yıldan üç yıla kadar hapis cezasına hükmolunur.
-BEŞİNCİ BÖLÜM
-Çocuk Düşürtme, Düşürme veya Kısırlaştırma
+
+---
 
 ### Akademik Yorum ve Analiz
 

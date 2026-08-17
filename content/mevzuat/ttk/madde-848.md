@@ -11,7 +11,9 @@ wordCount: 4284
 
 ---
 
-Madde 848 - (1) Makbuz senedi ve varanttan doğan istem hakları, poliçeler hakkındaki zamanaşımı sürelerine tabidir. Cirantalara karşı başvurma için zamanaşımının başlangıcı, eşyanın satış günüdür.
+MADDE 848- (1) Makbuz senedi ve varanttan doğan istem hakları, poliçeler
+hakkındaki zamanaşımı sürelerine tabidir. Cirantalara karşı başvurma için zamanaşımının
+başlangıcı, eşyanın satış günüdür.
 
 ---
 

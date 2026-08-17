@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**XVIII
-- Taşıma süresi**
+**XVIII - Taşıma süresi**
 
 ---
 
-Madde 873 - (1) Taşıyıcı, eşyayı, ka rarlaştırılan sürede, bir süre kararlaştırılmamışsa şartlar dikkate alındığında özenli bir taşıyıcıya tanınabilecek makul bir süre içinde, teslim etmekle yükümlüdür.
+MADDE 873- (1) Taşıyıcı, eşyayı, kararlaştırılan sürede, bir süre kararlaştırılmamışsa
+şartlar dikkate alındığında özenli bir taşıyıcıya tanınabilecek makul bir süre içinde, teslim
+etmekle yükümlüdür.
 
 ---
 

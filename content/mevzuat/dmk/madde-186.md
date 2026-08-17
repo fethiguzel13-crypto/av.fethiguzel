@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Silah altına alınmazdan önce kadrolarından açıkta bulunanların aylıkları**
+**Silah altına alınmazdan önce kadrolarından açıkta bulunanların aylıkları:**
 
 ---
 
@@ -20,6 +20,8 @@ aylıklarının açık aylıklarından fazla veya eksik olmasına göre hakları
 madde hükümleri uygulanır.
 B) (A) bendi dışında kalan ve rütbesiz memurlara kanuni hakları olan açık aylığının
 verilmesine devam olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

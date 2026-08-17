@@ -15,7 +15,7 @@ Madde 268 – (1) Hâkim veya mahkeme kararına karşı itiraz, kanunun ayrıca 
 koymadığı hâllerde 35 inci maddeye göre ilgililerin kararı öğrendiği günden itibaren iki hafta
 içinde kararı veren mercie verilecek bir dilekçe veya tutanağa geçirilmek koşulu ile zabıt
 kâtibine beyanda bulunmak suretiyle yapılır. Tutanakla tespit edilen beyanı ve imzayı
-mahkeme başkanı veya hâkim onaylar. 263 üncü madde hükmü saklıdır.114
+mahkeme başkanı veya hâkim onaylar. 263 üncü madde hükmü saklıdır.
 (2) Kararına itiraz edilen hâkim veya mahkeme, itirazı yerinde görürse kararını düzeltir;
 yerinde görmezse en çok üç gün içinde, itirazı incelemeye yetkili olan mercie gönderir.
 (3) İtirazı incelemeye yetkili merciler aşağıda gösterilmiştir:
@@ -36,11 +36,7 @@ c) Asliye ceza mahkemesi hâkimi tarafından verilen kararlara yapılacak itiraz
 incelenmesi, yargı çevresinde bulundukları ağır ceza mahkemesine ve bu mahkeme ile
 başkanı tarafından verilen kararlar hakkındaki itirazların incelenmesi, o yerde ağır ceza
 mahkemesinin birden çok dairesinin bulunması hâlinde, numara olarak kendisini izleyen
-2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “yedi gün” ibaresi
-“iki hafta” şeklinde değiştirilmiştir.
-114
-
-daireye; son numaralı daire için birinci daireye; o yerde ağır ceza mahkemesinin tek dairesi
+daireye; son numaralı daire için birinci daireye; o yerde ağır ceza mahkemesinin tek dairesi
 varsa, en yakın ağır ceza mahkemesine aittir.
 d) Naip hâkim kararlarına yapılacak itirazların incelenmesi, mensup oldukları ağır
 ceza mahkemesi başkanına, istinabe olunan mahkeme kararlarına karşı yukarıdaki bentlerde
@@ -49,6 +45,8 @@ e) Bölge adliye mahkemesi ceza dairelerinin kararları ile Yargıtay ceza daire
 esas mahkeme olarak baktıkları davalarda verdikleri kararlara yapılan itirazlarda; üyenin
 kararını görevli olduğu dairenin başkanı, daire başkanı ile ceza dairesinin kararını numara
 itibarıyla izleyen ceza dairesi; son numaralı daire söz konusu ise birinci ceza dairesi inceler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**Mükellef ve vergi sorumlusu**
+**İKİNCİ BÖLÜM
+Vergi Sorumluluğu
+Mükellef ve vergi sorumlusu:**
 
 ---
 
@@ -24,6 +26,8 @@ tabiyetinde bulunan her gerçek kişi ile tüzel kişilere bir vergi numarası v
 uygulanmasına ilişkin usul ve esasları tespit etmeye ve vergi numarasının kamu kurum ve
 kuruluşları ile gerçek ve tüzel kişilerce yapılacak işlemlerle ilgili kayıtlarda ve düzenlenecek
 belgelerde kullanılması mecburiyetini getirmeye Maliye Bakanlığı yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,10 +7,6 @@ lastReviewed: "2026-07-20"
 wordCount: 4321
 ---
 
-**ncı madde hükümlerine göre işlem yapılır.10**
-
----
-
 Madde 13- (Değişik: 3/8/2002-4771/10 md.)
 Polis,
 A) Suçüstü hâlinde veya gecikmesinde sakınca bulunan diğer hâllerde suç işlendiğine
@@ -27,13 +23,13 @@ yapmasını engelleyenleri,
 F) Bir kurumda tedavi, eğitim ve ıslahı için kanunlarla ve bu Kanunun uygulanmasını
 gösteren Cumhurbaşkanınca çıkarılan yönetmelikte belirtilen esaslara uygun olarak alınan
 tedbirlerin yerine getirilmesi amacıyla, toplum için tehlike teşkil eden akıl hastası, uyuşturucu
-madde veya alkol bağımlısı serseri veya hastalık bulaştırabilecek kişileri,11
+madde veya alkol bağımlısı serseri veya hastalık bulaştırabilecek kişileri,
 G) Haklarında gözetim altında ıslahına veya yetkili merci önüne çıkarılmasına karar
 verilen küçükleri,
 H) (Ek: 27/3/2015-6638/2 md.) Başkalarının can güvenliğini tehlikeye düşürenleri,
 eylemin veya durumun niteliğine göre; koruma altına alır, uzaklaştırır ya da yakalar ve
 gerekli kanuni işlemleri yapar.Yakalanması belirli bir usule bağlanmış kişilerle ilgili kanun
-hükümleri saklıdır.12
+hükümleri saklıdır.
 Yakalanan kişilerin kaçması veya saldırıda bulunmasının önlenmesi bakımından
 kişinin sağlığına zarar vermeyecek şekilde her türlü tedbir alınabilir.
 Yakalanan kişilere, yakalama sebebi herhalde yazılı ve bunun mümkün olmaması
@@ -43,15 +39,13 @@ Kişinin yakalandığı, istediği kanunî yakınlarına derhal bildirilir.
 Yakalananlardan,
 A) Uyuşturucu madde kullanmış olanlar ile sarhoş olanların,
 B) Zor kullanılarak yakalananların,
-10 24/11/2004 tarihli ve 5259 sayılı Kanunun 4 üncü maddesi ile bu fıkrada yer alan “8 inci” ibaresi, “6 ncı” olarak değiştirilmiştir. 11 2/7/2018 tarihli ve 700 sayılı KHK’nin 14 üncü maddesiyle, bu bentte yer alan “tüzükte” ibaresi “Cumhurbaşkanınca çıkarılan yönetmelikte” şeklinde değiştirilmiştir. 12 27/3/2015 tarihli ve 6638 sayılı Kanunun 2 nci maddesiyle, bu fıkrada yer alan “Yakalar ve gerekli kanuni işlemleri yapar.” ibaresi “eylemin veya durumun niteliğine göre; koruma altına alır, uzaklaştırır ya da yakalar ve gerekli kanuni işlemleri yapar.” şeklinde değiştirilmiştir.
-
-
-C) Haklarında suç soruşturması yapılacak olan şüpheli ve sanıkların,
+C) Haklarında suç soruşturması yapılacak olan şüpheli ve sanıkların,
 Yakalanma anındaki sağlık durumları tabip raporuyla tespit edilir.
 Yakalanan kişilerden suç işlediği şüphesi altında olanlar adlî mercilere sevk edilir.
 Haklarında ıslah veya tedavi tedbiri alınması gerekenler, ilgili kurum yetkilileri tarafından
 teslim alınır. Yakalama sebebi ortadan kalkanlar derhal serbest bırakılır.
-Kayıp çocukların araştırılması
+
+---
 
 ### Akademik Yorum ve Analiz
 

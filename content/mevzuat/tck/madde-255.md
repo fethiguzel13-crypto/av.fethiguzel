@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**Nüfuz ticareti101**
+**Nüfuz ticareti**
 
 ---
 
@@ -34,10 +34,9 @@ hallerde kişiler ayrıca bu suç nedeniyle cezalandırılır.
 (7) Bu madde hükümleri, 252 nci maddenin dokuzuncu fıkrasında sayılan kişiler
 üzerinde nüfuz ticareti yapılması halinde de uygulanır. Bu kişiler hakkında, Türkiye’de
 bulunmaları halinde, vatandaş veya yabancı olduklarına bakılmaksızın, resen soruşturma ve
-2/7/2012 tarihli ve 6352 sayılı Kanunun 89 uncu maddesiyle bu madde başlığı “Yetkili olmadığı bir
-iş için yarar sağlama” iken, metne işlendiği şekilde değiştirilmiştir.
+kovuşturma yapılır.
 
-kovuşturma yapılır.
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -18,8 +18,7 @@ tarafından yetkilendirilen yatırım kuruluşunu,
 b) Başlangıç sermayesi: Kayıtlı sermayeli anonim ortaklıkların sahip olmaları zorunlu
 olan asgari çıkarılmış sermayelerini,
 c) Birlik: Türkiye Sermaye Piyasaları Birliğini,
-
-ç) Borsa: Anonim şirket şeklinde kurulan, sermaye piyasası araçları, kambiyo ve
+ç) Borsa: Anonim şirket şeklinde kurulan, sermaye piyasası araçları, kambiyo ve
 kıymetli madenler ile kıymetli taşların ve Kurulca uygun görülen diğer sözleşmelerin,
 belgelerin ve kıymetlerin serbest rekabet şartları altında kolay ve güvenli bir şekilde alınıp
 satılabilmesini sağlamak ve oluşan fiyatları tespit ve ilan etmek üzere kendisi veya piyasa
@@ -58,8 +57,7 @@ l) Kayıtlı sermaye: Anonim ortaklıkların, esas sözleşmelerinde hüküm bul
 kaydıyla, yönetim kurulu kararı ile 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununun
 esas sermayenin artırılmasına dair hükümlerine tabi olmaksızın pay çıkarabilecekleri azami
 miktarı gösteren, ticaret sicilinde tescil ve ilan edilmiş sermayelerini,
-
-m) Kolektif yatırım kuruluşları: Yatırım fonları ve yatırım ortaklıklarını,
+m) Kolektif yatırım kuruluşları: Yatırım fonları ve yatırım ortaklıklarını,
 n) Kurul: Sermaye Piyasası Kurulunu,
 o) Menkul kıymetler: Para, çek, poliçe ve bono hariç olmak üzere;
 1) Paylar, pay benzeri diğer kıymetler ile söz konusu paylara ilişkin depo sertifikalarını,
@@ -98,8 +96,7 @@ türevleri,
 3) Döviz ve kıymetli madenler ile Kurulca belirlenecek diğer varlıklar üzerine
 yapılacak kaldıraçlı işlemleri,
 ü) TCMB: Türkiye Cumhuriyet Merkez Bankası Anonim Şirketini,
-
-v) Yatırım kuruluşu: Aracı kurumlar ile yatırım hizmeti ve faaliyetinde bulunmak
+v) Yatırım kuruluşu: Aracı kurumlar ile yatırım hizmeti ve faaliyetinde bulunmak
 üzere kuruluş ve faaliyet esasları Kurulca belirlenen diğer sermaye piyasası kurumlarını ve
 bankaları,
 y) YTM: Yatırım kuruluşlarının, yatırım hizmet ve faaliyetinden kaynaklanan nakit
@@ -116,13 +113,7 @@ olarak depolanmasını sağlayan yazılım, donanım, sistem ya da uygulamaları
 bb) (Ek:26/6/2024-7518/1 md.) Kripto varlık: Dağıtık defter teknolojisi veya benzer
 bir teknoloji kullanılarak elektronik olarak oluşturulup saklanabilen, dijital ağlar üzerinden
 dağıtımı yapılan ve değer veya hak ifade edebilen gayri maddi varlıkları,
-cc)
-(Ek:26/6/2024-7518/1
-md.)
-Kripto
-varlık
-hizmet
-sağlayıcı:
+cc) (Ek:26/6/2024-7518/1 md.) Kripto varlık hizmet sağlayıcı:
 Platformları, kripto varlık saklama hizmeti sağlayan kuruluşları ve bu Kanuna dayanılarak
 yapılacak düzenlemelerde kripto varlıkların ilk satış ya da dağıtımı dâhil olmak üzere kripto
 varlıklarla ilgili olarak hizmet sağlamak üzere belirlenmiş diğer kuruluşları,
@@ -136,31 +127,8 @@ veya daha fazlasının gerçekleştirildiği kuruluşları,
 ee) (Ek:26/6/2024-7518/1 md.) TÜBİTAK: Türkiye Bilimsel ve Teknolojik Araştırma
 Kurumunu,
 ifade eder.
-İKİNCİ KISIM
-Sermaye Piyasası Araçlarının İhracı, Kamunun Aydınlatılması ve
-İhraççılara İlişkin Esaslar
-BİRİNCİ BÖLÜM
-Sermaye Piyasası Araçlarının İhracı
-İzahname hazırlama yükümlülüğü
 
-MADDE 4 – (1) Sermaye piyasası araçlarının halka arz edilebilmesi veya borsada
-işlem görebilmesi için izahname hazırlanması ve hazırlanan bu izahnamenin Kurulca
-onaylanması zorunludur. (Ek cümle: 28/11/2017-7061/108 md.) Diğer kanunların yardım ve
-bağış toplanmasına ilişkin hükümleri saklı kalmak kaydıyla kitle fonlaması suretiyle halktan
-para toplanması, Kurulca faaliyet izni verilen kitle fonlama platformları aracılığıyla
-gerçekleştirilir ve bu Kanunun izahname ya da ihraç belgesi hazırlama yükümlüğüne ilişkin
-hükümlerine tabi değildir.
-(2) İzahnamede yer alan bilgiler yatırımcılar tarafından kolaylıkla anlaşılabilecek ve
-değerlendirilebilecek şekilde sunulur.
-(3) İzahnameden sorumlu gerçek kişilerin isimleri ve görevleri ile tüzel kişilerin
-unvanları, merkezleri ve iletişim bilgileri izahnamede açıkça belirtilir.
-(4) İzahname, ihraççıya ve ihraç edilen sermaye piyasası araçlarına ilişkin bilgiler ile
-bir özet bölümü de içermek üzere bir veya birden fazla belge şeklinde düzenlenebilir. Özet
-bölümü ihraççıya, varsa garantöre, garantinin niteliğine ve ihraç edilecek sermaye piyasası
-araçlarına ilişkin temel özellik, hak ve riskleri içerecek şekilde kısa, açık ve anlaşılır
-ifadelerden oluşur.
-(5) Halka arz eden tarafından izahnamenin düzenlenmesi sırasında, ihraççının
-izahname hazırlanmasında kolaylaştırıcı tedbirleri alması zorunludur.
+---
 
 ### Akademik Yorum ve Analiz
 

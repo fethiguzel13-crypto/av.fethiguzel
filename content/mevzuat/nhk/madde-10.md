@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4281
 ---
 
-**Resmî işlemlerde esas alınması**
+**Stajın ilanı:**
 
 ---
 
-MADDE 10- (1) Kurumlarda kişiyle ilgili olarak yapılan işlemlerde nüfus kayıtları esas alınır. Kayıtlar arasında farklılık olması halinde nüfus kayıtlarında değişiklik yapılmaz, usûlüne göre diğer kayıtlar düzeltilir.
+Madde 10 – Staj için başvurma istemi yukarıdaki maddede yazılı hususlarla birlikte
+istem tarihinden itibaren on gün içinde o yerin belediye ve adliye dairesinin münasip bir
+yerinde onbeş gün süre ile asılmak suretiyle ilan olunur.
+Açık delil veya vakıalar göstermek şartiyle herkes bu süre içinde kaydın yapılmaması
+için odaya itirazda bulunabilir.
 
 ---
 

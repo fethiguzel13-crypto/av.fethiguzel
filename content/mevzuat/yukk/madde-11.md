@@ -29,6 +29,8 @@ amaçla verilen vizeler, genel vize verme usulüne uygun olarak Bakanlık ve Dı
 Bakanlığına derhâl bildirilir. Bu vizeler harca tabi değildir.
 (7) Vize türlerine ve işlemlerine ilişkin usul ve esaslar yönetmelikle düzenlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

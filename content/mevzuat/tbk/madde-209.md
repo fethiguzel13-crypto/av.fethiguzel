@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**A. Konusu**
+**İKİNCİ AYIRIM
+Taşınır Satışı
+A. Konusu**
 
 ---
 
-Madde 209 - Taşınır satışı, Türk Medenî Kanunu uyarınca taşınmaz sayılanlar
+MADDE 209- Taşınır satışı, Türk Medenî Kanunu uyarınca taşınmaz sayılanlar
 dışında kalan ve diğer kanunlarda taşınır olarak belirtilen şeylerin satışıdır.
 Ürünler, bir yapının yıkıntıları ve taş ocağından çıkarılacak taşlar gibi, taşınmazdan
 ayrıldıktan sonra mülkiyeti devredilecek bütünleyici parçaların satılması da taşınır satışıdır.

@@ -21,6 +21,8 @@ sonraki oturuma başlanamaz.
 (3) Ret isteminin kabulüne karar verildiğinde, gecikmesinde sakınca bulunan hâl
 nedeniyle yapılmış işlemler dışında, duruşma tekrarlanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

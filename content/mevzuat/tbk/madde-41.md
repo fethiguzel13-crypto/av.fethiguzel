@@ -11,7 +11,7 @@ wordCount: 4319
 
 ---
 
-Madde 41 - Başkası adına ve hesabına temsil kamu hukukundan doğmuşsa, temsil
+MADDE 41- Başkası adına ve hesabına temsil kamu hukukundan doğmuşsa, temsil
 yetkisinin içeriği ve derecesi bu konudaki yasal hükümlere; temsil hukuksal bir işlemden
 doğmuşsa, temsil yetkisinin içeriği ve derecesi o hukuksal işleme göre belirlenir.
 Temsil yetkisi üçüncü kişilere bildirilmişse temsil yetkisinin içeriği ve derecesi, bu

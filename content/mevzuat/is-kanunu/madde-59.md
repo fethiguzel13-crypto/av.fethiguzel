@@ -19,6 +19,8 @@ sözleşmesinin sona erdiği tarihten itibaren başlar.
 bildirim süresiyle, 27 nci madde gereğince işçiye verilmesi zorunlu yeni iş arama izinleri
 yıllık ücretli izin süreleri ile iç içe giremez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

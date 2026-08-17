@@ -23,6 +23,8 @@ d) (Mülga: 28/7/2016-6735/27 md.)
 (2) (Ek: 28/7/2016-6735/27 md.) İkamet izninin yurt dışında kalış süresi bakımından
 iptaline ilişkin usul ve esaslar yönetmelikle düzenlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

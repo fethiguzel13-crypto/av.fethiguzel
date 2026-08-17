@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**Kıymet takdirine ilişkin şikâyet**
+**Kıymet takdirine ilişkin şikâyet:**
 
 ---
 
@@ -29,9 +29,10 @@ birinci fıkrasının (r) bendi uyarınca yetki verilmiş kişi veya kurumlara y
 Kıymet takdirine ilişkin şikâyet yetkisiz icra mahkemesine yapılırsa, icra mahkemesi
 evrak üzerinde inceleme yaparak başvuru tarihinden itibaren en geç on gün içinde yetkisizlik
 kararı verir ve masrafını gider avansından karşılamak suretiyle dosyayı resen yetkili icra
-mahkemesine gönderir.53
+mahkemesine gönderir.
 Bu madde gereğince icra mahkemesinin verdiği kararlar kesindir.
-İhale:
+
+---
 
 ### Akademik Yorum ve Analiz
 

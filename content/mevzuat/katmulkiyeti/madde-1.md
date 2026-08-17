@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4520
 ---
 
-**I – Genel kural**
+**BİRİNCİ BÖLÜM
+Genel Hükümler
+A) Kat mülkiyeti ve kat irtifakı:
+I – Genel kural:**
 
 ---
 
@@ -15,8 +18,11 @@ Madde 1 – Tamamlanmış bir yapının kat, daire, iş bürosu, dükkan, mağaz
 depo gibi bölümlerinden ayrı ayrı ve başlı başına kullanılmaya elverişli olanları üzerinde, o
 gayrimenkulün maliki veya ortak malikleri tarafından, bu Kanun hükümlerine göre, bağımsız
 mülkiyet hakları kurulabilir.
-Yapılmakta veya ileride yapılacak olan bir yapının, birinci fıkrada yazılı nitelikteki bölümleri üzerinde, yapı tamamlandıktan sonra geçilecek kat mülkiyetine esas olmak üzere, arsa maliki
+Yapılmakta veya ileride yapılacak olan bir yapının, birinci fıkrada yazılı nitelikteki bölüm-
+leri üzerinde, yapı tamamlandıktan sonra geçilecek kat mülkiyetine esas olmak üzere, arsa maliki
 veya arsanın ortak malikleri tarafından, bu Kanun hükümlerine göre irtifak hakları kurulabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

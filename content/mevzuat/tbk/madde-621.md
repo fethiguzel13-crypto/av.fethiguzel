@@ -12,7 +12,7 @@ I. Katılım payı**
 
 ---
 
-Madde 621 - Her ortak, para, alacak veya başka bir mal ya da emek olarak, ortaklığa
+MADDE 621- Her ortak, para, alacak veya başka bir mal ya da emek olarak, ortaklığa
 bir katılım payı koymakla yükümlüdür.
 Sözleşmede aksi kararlaştırılmamışsa katılım payları, ortaklığın amacının gerektirdiği
 önem ve nitelikte ve birbirine eşit olmak zorundadır.

@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4280
 ---
 
-**III
-- Yetkili mahkeme**
+**III- Yetkili mahkeme**
 
 ---
 
-Madde 1063 - (1) Donatan aleyhine, bu sıfatı dolayısıyla, herhangi bir alacaktan dolayı geminin bağlama limanının bulunduğu yer mahkemesinde de dava açılabilir.
+MADDE 1063- (1) Donatan aleyhine, bu sıfatı dolayısıyla, herhangi bir alacaktan
+dolayı geminin bağlama limanının bulunduğu yer mahkemesinde de dava açılabilir.
 
 ---
 

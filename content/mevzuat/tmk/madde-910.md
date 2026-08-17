@@ -11,7 +11,9 @@ wordCount: 4304
 
 ---
 
-Madde 910 - İpotekli bor ç senedinin veya irat senedinin düzenlenmesiyle birlikte dayanağı olan borç ilişkisi yenileme yoluyla so na erer. Bunun aksine yapılan sözleşme, sadece tarafları ve iy iniyetli olmayan üçüncü kişileri etkiler.
+Madde 910- İpotekli borç senedinin veya irat senedinin düzenlenmesiyle birlikte
+dayanağı olan borç ilişkisi yenileme yoluyla sona erer.
+Bunun aksine yapılan sözleşme, sadece tarafları ve iyiniyetli olmayan üçüncü kişileri etkiler.
 
 ---
 

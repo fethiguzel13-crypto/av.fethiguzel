@@ -11,7 +11,7 @@ wordCount: 4310
 
 ---
 
-Madde 449 - Pazarlamacılık sözleşmesi, sözleşmenin süresini, sona ermesini,
+MADDE 449- Pazarlamacılık sözleşmesi, sözleşmenin süresini, sona ermesini,
 pazarlamacının yetkilerini, ücret ve masrafların nasıl ödeneceğini, taraflardan birinin yerleşim
 yeri yabancı ülkede ise uygulanacak hukukun ve yetkili mahkemenin hangisi olduğunu içerir.
 Yukarıdaki fıkra uyarınca sözleşmede yer alması öngörülen hususlar taraflarca

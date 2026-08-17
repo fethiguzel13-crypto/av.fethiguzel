@@ -11,7 +11,7 @@ wordCount: 4264
 
 ---
 
-Madde 366 - Kiracı, kiraya verenin rızası olmaksızın kiralananı başkasına kiraya
+MADDE 366- Kiracı, kiraya verenin rızası olmaksızın kiralananı başkasına kiraya
 veremeyeceği gibi, kullanım ve işletme hakkını da başkasına devredemez. Ancak kiracı,
 kiralananda bulunan bazı yerleri, kiraya veren için zarar doğuracak bir değişikliği gerektirmemek
 koşuluyla kiraya verebilir.

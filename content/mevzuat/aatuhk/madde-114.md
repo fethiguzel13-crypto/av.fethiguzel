@@ -7,7 +7,7 @@ lastReviewed: "2026-07-11"
 wordCount: 2551
 ---
 
-**İstenecek bilgileri vermiyenler**
+**İstenecek bilgileri vermiyenler:**
 
 ---
 
@@ -21,6 +21,8 @@ mecburiyetindedirler.
 (Değişik ikinci fıkra: 23/1/2008-5728/166 md.) Bu vazifeyi makbul bir özre
 dayanmadan zamanında yerine getirmeyenler elli güne kadar adlî para cezası ile
 cezalandırılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

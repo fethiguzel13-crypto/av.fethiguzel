@@ -19,6 +19,8 @@ hükümleri saklıdır.
 verginin tecilinde alınacak teminatların türü ve miktarları ile tecil edilen verginin terkinine ilişkin
 usul ve esasları belirlemeye yetkilidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

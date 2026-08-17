@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**askıya alınması ve elkoyma**
+**Bilişim suçlarının işlenmesi suretiyle elde edilen menfaatin bulunduğu hesabın
+askıya alınması ve elkoyma**
 
 ---
 
@@ -22,8 +23,7 @@ da yapılmaya teşebbüs edilen işlemlere konu suçta kullanılan her türlü h
 kadar askıya alınmasına ilgili banka, ödeme hizmeti sağlayıcısı veya kripto varlık hizmet
 sağlayıcısı tarafından karar verilebilir.
 (2) Askıya alma işlemi ve hesap hareketleri, ilgili malî kurum tarafından tüm bilgi ve
-
-belgelerle birlikte derhal Cumhuriyet başsavcılığına bildirilir. Askıya alma işlemi ayrıca
+belgelerle birlikte derhal Cumhuriyet başsavcılığına bildirilir. Askıya alma işlemi ayrıca
 hesap sahibine de bildirilir. Hesap sahibi, askıya alma işleminin kaldırılması için Cumhuriyet
 başsavcılığına başvurabilir. Cumhuriyet savcısı, başvuru hakkında yirmidört saat içinde karar
 verir.
@@ -50,7 +50,8 @@ gönderilmesi zorunludur. İstenen bilgi veya belgenin gönderilmemesi ya da eks
 gönderilmesi halinde Cumhuriyet savcısı tarafından ilgili banka, ödeme hizmeti sağlayıcısı
 veya kripto varlık hizmet sağlayıcısına elli bin Türk Lirasından üç yüz bin Türk Lirasına
 kadar idarî para cezası verilir.
-Postada elkoyma
+
+---
 
 ### Akademik Yorum ve Analiz
 

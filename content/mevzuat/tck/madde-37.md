@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**Faillik**
+**DÖRDÜNCÜ BÖLÜM
+Suça İştirak
+Faillik**
 
 ---
 
@@ -16,6 +18,8 @@ her biri, fail olarak sorumlu olur.
 (2) Suçun işlenmesinde bir başkasını araç olarak kullanan kişi de fail olarak sorumlu
 tutulur. Kusur yeteneği olmayanları suçun işlenmesinde araç olarak kullanan kişinin cezası,
 üçte birden yarısına kadar artırılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

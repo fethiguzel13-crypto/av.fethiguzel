@@ -11,7 +11,7 @@ wordCount: 4267
 
 ---
 
-Madde 464 - Malzeme ve iş araçları işveren tarafından sağlanmışsa, işçi bunları
+MADDE 464- Malzeme ve iş araçları işveren tarafından sağlanmışsa, işçi bunları
 gereken özeni göstererek kullanmak, bundan dolayı hesap vermek, ayrıca kalan malzeme ile
 iş araçlarını da işverene teslim etmekle yükümlüdür.
 İşçi işi görürken, kendisine teslim edilen malzemenin veya iş araçlarının bozuk olduğunu

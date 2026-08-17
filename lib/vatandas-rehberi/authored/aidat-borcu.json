@@ -1,0 +1,128 @@
+{
+  "slug": "aidat-borcu-ve-gecikme-tazminati",
+  "title": "Aidat Borcu: Kim Ne Kadar Öder, Ödemezse Ne Olur?",
+  "description": "Apartman aidatı nasıl paylaşılır, hangi giderler eşit hangileri arsa payına göre bölünür, ödenmezse gecikme tazminatı ne kadar? Kat Mülkiyeti Kanunu m.20 çerçevesinde.",
+  "h1": "Aidat borcu ve gecikme tazminatı",
+  "keywords": [
+    "aidat borcu",
+    "apartman aidatı",
+    "ortak gider",
+    "aidat gecikme tazminatı",
+    "aidat ödememe",
+    "arsa payı"
+  ],
+  "category": "Eşya",
+  "role": "pillar",
+  "related": [
+    "odeme-emrine-itiraz"
+  ],
+  "links": [
+    {
+      "label": "KMK m.20 — Genel giderlere katılma",
+      "href": "/mevzuat/katmulkiyeti/madde-20"
+    },
+    {
+      "label": "İcra kapak hesabı aracı",
+      "href": "/hesaplama/icra-kapak"
+    }
+  ],
+  "lead": "Kat malikleri kapıcı, kaloriferci, bahçıvan ve bekçi giderlerine eşit olarak; sigorta primleri, ortak yerlerin bakım ve onarımı ile yönetici aylığı gibi giderlere ise kendi arsa payı oranında katılmakla yükümlüdür.",
+  "keyInsight": "Ödemede geciken kat maliki, geciktiği günler için aylık yüzde beş hesabıyla gecikme tazminatı öder; bu oran kanunda yazılıdır ve yönetim planıyla düşürülemez.",
+  "sections": [
+    {
+      "heading": "İki farklı paylaşım ölçüsü",
+      "paragraphs": [
+        "Kat Mülkiyeti Kanunu giderleri ikiye ayırır ve her biri için ayrı bir dağıtım ölçüsü koyar. Aralarında başka türlü anlaşma olmadıkça kat maliklerinden her biri, kapıcı, kaloriferci, bahçıvan ve bekçi giderlerine ve bunlar için toplanacak avansa eşit olarak katılır.",
+        "İkinci grup arsa payına bağlanmıştır. Anagayrimenkulün sigorta primlerine, bütün ortak yerlerin bakım, koruma, güçlendirme ve onarım giderlerine, yönetici aylığı gibi diğer giderlere ve ortak tesislerin işletme giderlerine kat malikleri kendi arsa payı oranında katılır.",
+        "Ayrım pratikte önemli bir sonuç doğurur: Küçük bir daire ile büyük bir daire kapıcı giderine aynı tutarda katılırken, çatı onarımına arsa payları oranında katılır. Bu nedenle aidat listesinde tek bir rakam yerine iki kalemin ayrı gösterilmesi doğru olanıdır.",
+        "Kanun anlaşmaya da yer bırakır. Kat malikleri aralarında başka türlü anlaşarak farklı bir dağıtım belirleyebilir; ancak bu anlaşmanın varlığı ispat edilmelidir."
+      ],
+      "bullets": [
+        "Eşit paylaşılan: kapıcı, kaloriferci, bahçıvan, bekçi giderleri ve avansı",
+        "Arsa payı oranında: sigorta primi, ortak yerlerin bakım, koruma, güçlendirme ve onarımı, yönetici aylığı, ortak tesis işletme giderleri"
+      ]
+    },
+    {
+      "heading": "Kullanmıyorum diyerek kaçınılamaz",
+      "paragraphs": [
+        "En sık ileri sürülen itiraz kanunda açıkça karşılanmıştır. Kat malikleri, ortak yer veya tesisler üzerindeki kullanma hakkından vazgeçmek ya da kendi bağımsız bölümünün durumu dolayısıyla bunlardan faydalanmaya lüzum ve ihtiyaç bulunmadığını ileri sürmek suretiyle bu gider ve avans payını ödemekten kaçınamaz.",
+        "Asansörü kullanmayan zemin kat maliki, bahçeye çıkmayan üst kat maliki ya da dairesini boş tutan malik bu hükümle bağlıdır. Yükümlülük kullanmaya değil, kat maliki olmaya bağlanmıştır.",
+        "Daireyi kiraya vermiş olmak da yükümlülüğü tek başına kaldırmaz. Kiracıyla yapılan anlaşma iç ilişkide sonuç doğurur; yönetime karşı sorumluluk kat malikinin üzerindedir."
+      ]
+    },
+    {
+      "heading": "Ödenmezse ne olur?",
+      "paragraphs": [
+        "Kanun iki yol birden açar. Gider veya avans payını ödemeyen kat maliki hakkında, diğer kat maliklerinden her biri veya yönetici tarafından yönetim planına, bu Kanuna ve genel hükümlere göre dava açılabilir ya da icra takibi yapılabilir.",
+        "Dava açma yetkisi yalnız yöneticide değildir. Diğer kat maliklerinden her biri de bu yola başvurabilir; yönetici hareketsiz kalsa dahi komşular takip başlatabilir.",
+        "Gecikmenin bedeli kanunla belirlenmiştir: Gider ve avans payının tamamını ödemeyen kat maliki, ödemede geciktiği günler için aylık yüzde beş hesabıyla gecikme tazminatı ödemekle yükümlüdür.",
+        "Bu oran yıllık değil aylıktır ve gecikilen günler üzerinden işler. Birkaç aylık birikmiş aidatın toplam borcu, asıl alacağın belirgin biçimde üzerine çıkabilir; erken ödeme bu nedenle her zaman lehinizedir."
+      ]
+    },
+    {
+      "heading": "Gidere kusuruyla sebep olan öder",
+      "paragraphs": [
+        "Ortak gider her zaman herkesin sırtına eşit biçimde yüklenmez. Birinci fıkradaki giderlere, kat maliklerinden birinin veya onun bağımsız bölümünden herhangi bir suretle faydalanan kişinin kusurlu bir hareketi sebep olmuşsa, gidere katılanların yaptıkları ödemeler için o kat malikine veya gidere sebep olanlara rücu hakları vardır.",
+        "Tesisatı ihmalle patlatan malikin sebep olduğu onarım gideri örnek verilebilir. Gider önce ortak kasadan karşılansa bile, ödeyenlerin kusurlu kişiye rücu hakkı saklıdır.",
+        "Rücu hakkı kat malikiyle sınırlı değildir. Bağımsız bölümden faydalanan kişi, örneğin kiracı, kusuruyla gidere sebep olmuşsa ona da başvurulabilir."
+      ]
+    },
+    {
+      "heading": "Uyuşmazlık çıkarsa",
+      "paragraphs": [
+        "Aidat uyuşmazlıklarında ilk bakılacak belge yönetim planıdır. Paylaşım ölçüsüne ilişkin farklı bir anlaşma varsa orada yer alır ve tapu sicilinin eki niteliğindedir.",
+        "İkinci belge kat malikleri kurulu kararlarıdır. Aidat tutarının belirlenmesi ve bütçe, kurul kararıyla olur; usulüne uygun alınmamış bir karara dayanan talep tartışmaya açıktır.",
+        "Aleyhinize icra takibi başlatılmışsa ödeme emrine itiraz süresi yedi gündür. Bu süre kaçırıldığında takip kesinleşir ve tartışma çok daha zorlaşır."
+      ]
+    }
+  ],
+  "steps": [
+    "Yönetim planını edinin; farklı bir paylaşım anlaşması var mı, önce ona bakılır.",
+    "Aidat kalemlerini ayırın: eşit paylaşılanlar ile arsa payına göre paylaşılanlar.",
+    "Tapunuzdan arsa payınızı öğrenin; ikinci grup giderler buna göre hesaplanır.",
+    "Kat malikleri kurulu kararını ve bütçeyi isteyin.",
+    "Hesabınızı bu belgelerle karşılaştırın; hatalı kalem varsa yazılı olarak itiraz edin.",
+    "Borç birikmişse erken ödeyin — gecikme tazminatı aylık yüzde beştir.",
+    "İcra takibi başlatılmışsa yedi gün içinde icra dairesine itiraz edin."
+  ],
+  "checklist": [
+    "Tapu senedi — arsa payını gösterir",
+    "Yönetim planı",
+    "Kat malikleri kurulu karar defteri örneği",
+    "İşletme projesi veya bütçe",
+    "Aidat ödeme dekontları",
+    "Varsa ihtarname ve icra dosyası bilgileri"
+  ],
+  "faq": [
+    {
+      "q": "Aidat nasıl paylaşılır?",
+      "a": "Kapıcı, kaloriferci, bahçıvan ve bekçi giderlerine eşit olarak; sigorta primi, ortak yerlerin bakım ve onarımı ile yönetici aylığı gibi giderlere arsa payı oranında katılınır."
+    },
+    {
+      "q": "Asansörü kullanmıyorum, ödemek zorunda mıyım?",
+      "a": "Evet. Kat malikleri, ortak yer veya tesisleri kullanmaktan vazgeçtiklerini ya da ihtiyaçları olmadığını ileri sürerek gider ve avans payını ödemekten kaçınamaz."
+    },
+    {
+      "q": "Aidat gecikme tazminatı ne kadar?",
+      "a": "Geciktiği günler için aylık yüzde beş. Bu oran kanunda yazılıdır."
+    },
+    {
+      "q": "Dairemi kiraya verdim, aidatı kiracı mı öder?",
+      "a": "Yönetime karşı sorumluluk kat malikinin üzerindedir. Kiracıyla yapılan anlaşma yalnız iç ilişkide sonuç doğurur."
+    },
+    {
+      "q": "Yönetici dava açmıyor, ben açabilir miyim?",
+      "a": "Evet. Diğer kat maliklerinden her biri veya yönetici dava açabilir ya da icra takibi yapabilir."
+    },
+    {
+      "q": "Komşunun ihmali yüzünden ortak gider doğdu, ne yapılabilir?",
+      "a": "Gidere kat maliklerinden birinin veya bağımsız bölümünden faydalanan kişinin kusurlu hareketi sebep olmuşsa, ödeme yapanların o kişiye rücu hakkı vardır."
+    },
+    {
+      "q": "Aidata itiraz edebilir miyim?",
+      "a": "Kalem hatalı hesaplanmışsa veya kurul kararı usulüne uygun değilse itiraz edilebilir. İcra takibi başlatılmışsa ödeme emrine itiraz süresi yedi gündür."
+    }
+  ],
+  "updated": "2026-08-16",
+  "sitemapPriority": 0.92
+}

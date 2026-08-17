@@ -21,6 +21,8 @@ yokluğu sebebiyle usulden reddeder.
 edilmemiş, taraflarca ileri sürülmemiş ve fakat hüküm anında bu noksanlık giderilmişse,
 başlangıçtaki dava şartı noksanlığından ötürü, dava usulden reddedilemez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

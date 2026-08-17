@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4280
 ---
 
-**Taksitle ödeme**
+**Taksitle ödeme:**
 
 ---
 
@@ -27,7 +27,8 @@ muamelesi ve süreler kaldığı yerden devam eder.
 ödemeyi taahhüdü veya alacaklı ile borçlunun hacizden önce ya da hacizden sonra borcun
 taksitlendirilmesi için yapacakları sözleşme nedeniyle icra dairesinde düzenlenecek tutanak
 veya kâğıt, damga vergisinden istisnadır.
-Borçluya satış yetkisi verilmesi:
+
+---
 
 ### Akademik Yorum ve Analiz
 

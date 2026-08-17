@@ -7,10 +7,6 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**Hayvanla çekilen, elle sürülen araçları sürenler ile hayvan sürücülerine ait kurallar**
-
----
-
 Madde 69 – Yerleşim birimleri dışındaki karayolunda, taşıt yolu üzerinde zorunlu
 haller dışında hayvan bulundurmak, karayollarının yasaklanmamış, kesimlerinde ise hayvanla
 çekilen veya elle sürülen araçları, hayvanları, hayvan sürülerini ve binek hayvanlarını trafik
@@ -19,8 +15,12 @@ vermek veya başı boş bırakmak yasaktır.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayanlar 1 800 000 lira
 para cezası ile cezalandırılırlar. Ancak, başıboş hayvan bırakma yasağına riayet etmeyerek
 trafik kazasına sebebiyet veren faile üç ay hafif hapis cezası uygulanır.
-Taşıt yolu kullanmak zorunda olan hayvan sürü ve kümelerini sevk ve idare edenler
+Taşıt yolunu kullanmak zorunda olan hayvan sürü ve kümelerini sevk ve idare edenler
 yönetmelikte belirtilen usul ve şartlara uymak zorundadırlar.
+Bu maddenin, ikinci ve dördüncü fıkraları, 21/5/1997 tarih ve 4262 sayılı Kanunun 4 üncü maddesi
+ile birleştirilmek suretiyle maddenin ikinci fıkrası olarak yeniden düzenlenmiştir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

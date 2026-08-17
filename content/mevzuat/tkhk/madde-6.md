@@ -22,6 +22,8 @@ alınması şartına bağlayamaz.
 (4) Bakanlık ve belediyeler, bu madde hükümlerinin uygulanması ve izlenmesine
 ilişkin işleri yürütmekle görevlidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

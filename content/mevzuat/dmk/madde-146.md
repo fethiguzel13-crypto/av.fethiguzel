@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**Kapsam**
+**KISIM - V
+Mali Hükümler
+Kapsam:**
 
 ---
 
@@ -20,13 +22,15 @@ hükümlere tabidir.
 Memurlara kanun, Cumhurbaşkanlığı kararnamesi ve yönetmeliklerin ve amirlerin
 tayin ettiği görevler karşılığında bu Kanunla sağlanan haklar dışında ücret ödenemez, hiçbir
 yarar sağlanamaz. (Gençlik ve Spor hizmetleri uygulamasında fiilen görevlendirilecekler
-hariç.)193
-(Mülga üçüncü fıkra: 2/11/2011 – KHK-659/18 md.)194
+hariç.)
+(Mülga üçüncü fıkra: 2/11/2011 – KHK-659/18 md.)
 (Değişik: 23/2/1995 – KHK-547/9 md.) Bu Kanun gereğince ödenecek aylık, taban
 aylığı, kıdem aylığı zam ve tazminatlar ile diğer ödemeler toplamının brüt tutarı, bulunulan
 yerde İş Kanunu gereğince işçiler için tespit olunan asgari ücretin aylık tutarından az olamaz:
 az olması halinde, aradaki fark memurun diğer özlük hakları ile ilgilendirilmeksizin tazminat
-olarak ödenir.195
+olarak ödenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

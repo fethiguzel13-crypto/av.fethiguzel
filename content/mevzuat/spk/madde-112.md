@@ -7,10 +7,6 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**Yasal defterlerde, muhasebe kayıtlarında ve finansal tablo ve raporlarda usulsüzlük**
-
----
-
 MADDE 112 – (1) Kasıtlı olarak;
 a) Kanunen tutmakla yükümlü oldukları defter ve kayıtları usulüne uygun tutmayanlar,
 b) Saklamakla yükümlü oldukları defter ve belgeleri kanuni süresince saklamayanlar,
@@ -27,6 +23,8 @@ sahtecilik suçundan dolayı cezaya hükmedebilmek için, sahte belgenin kullan�
 (3) Yatırım kuruluşları ile bu Kanunun Üçüncü Kısmının Dördüncü Bölümünde yer
 alan kurumlar, 5237 sayılı Kanunun 244 üncü maddesinde tanımlanan sistemi engelleme,
 bozma, verileri yok etme veya değiştirme suçu açısından banka veya kredi kurumu sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

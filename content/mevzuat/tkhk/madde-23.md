@@ -15,6 +15,8 @@ MADDE 23- (1) Kredi verenin ve varsa kredi aracısının, tüketiciye, teklif et
 kredi sözleşmesinin koşullarını içeren sözleşme öncesi bilgi formunu, sözleşmenin
 kurulmasından makul bir süre önce vermesi zorunludur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

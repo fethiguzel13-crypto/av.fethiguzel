@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4277
 ---
 
-**Geçici maddi yardım yapılması**
+**DÖRDÜNCÜ BÖLÜM
+Mali Hükümler
+Geçici maddi yardım yapılması**
 
 ---
 
@@ -25,6 +27,8 @@ Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre ilgili vergi d
 takip ve tahsil edilir.
 (3) Korunan kişinin gerçeğe aykırı beyanda bulunduğunun tespiti hâlinde yapılan
 yardımlar, bu kişiden 6183 sayılı Kanun hükümlerine göre tahsil edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

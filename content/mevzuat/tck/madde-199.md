@@ -21,6 +21,8 @@ koyan kişi, bir aydan altı aya kadar hapis cezası ile cezalandırılır.
 (4) Damgalı kağıtlar, damga ve posta pulları ve muayyen bir miktar vergi veya harcın
 ödendiğini belgelemek amacıyla kullanılan pullar, kıymetli damga sayılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

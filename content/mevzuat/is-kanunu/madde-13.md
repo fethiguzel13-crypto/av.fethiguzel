@@ -39,6 +39,8 @@ fiilen teslim edildiği tarihten itibaren bu haktan faydalanır.
 işlerde kısmi çalışma yapılabileceği ile uygulamaya ilişkin usul ve esaslar Çalışma ve Sosyal
 Güvenlik Bakanlığınca çıkarılacak yönetmelikle belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

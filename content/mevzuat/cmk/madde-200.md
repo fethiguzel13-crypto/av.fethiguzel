@@ -16,6 +16,8 @@ gerçeği söylemeyeceğinden endişe edilirse, mahkeme, sorgu ve dinleme sıras
 mahkeme salonundan çıkarılmasına karar verebilir.
 (2) Sanık tekrar getirildiğinde, tutanaklar okunur ve gerektiğinde içeriği anlatılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,11 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**Madde 704**
+**İKİNCİ BÖLÜM
+TAŞINMAZ MÜLKİYETİ
+BİRİNCİ AYIRIM
+TAŞINMAZ MÜLKİYETİNİN KONUSU, KAZANILMASI VE KAYBI
+A. Taşınmaz mülkiyetinin konusu**
 
 ---
 
-Madde 704 - Taşınmaz mülkiyetinin konusu şunlardır: 1. Arazi, 2. Tapu kütüğünde ayrı sayfaya kaydedilen bağ ımsız ve sürekli haklar, 3. Kat mülkiyeti kütüğüne kayıtlı bağımsız bölümler.
+Madde 704- Taşınmaz mülkiyetinin konusu şunlardır:
+1. Arazi,
+2. Tapu kütüğünde ayrı sayfaya kaydedilen bağımsız ve sürekli haklar,
+3. Kat mülkiyeti kütüğüne kayıtlı bağımsız bölümler.
 
 ---
 

@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**II. Saldırıya karşı 1. İlke**
+**II. Saldırıya karşı
+1. İlke**
 
 ---
 
-Madde 24 - Hukuka aykırı olarak kişilik hakkına saldırıla n kim se, hâkimden, saldırıda bulunanlara karşı korunmasını isteyebilir. Kişilik hakkı zedelenen kimsenin rızası, daha üstün nitelikte özel veya kamusal yarar ya da kanunun verdiği yetkinin kullanılması sebeplerinden biriyle haklı kılınmadıkça, kişilik hakl arına yapı lan her saldırı hukuka aykırıdır.
+Madde 24- Hukuka aykırı olarak kişilik hakkına saldırılan kimse, hâkimden, saldırıda
+bulunanlara karşı korunmasını isteyebilir.
+Kişilik hakkı zedelenen kimsenin rızası, daha üstün nitelikte özel veya kamusal yarar ya da
+kanunun verdiği yetkinin kullanılması sebeplerinden biriyle haklı kılınmadıkça, kişilik haklarına
+yapılan her saldırı hukuka aykırıdır.
 
 ---
 

@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**Madde 1029**
+**ff) Sigortacının prim ve ödemeleri kabul etmek zorunluluğu**
 
 ---
 
-Madde 1029 - (1) Sigortacı, muaccel olan sigorta primlerini ve sigo rta sözleşmesi gereğince ona yapılması gereken diğer ödemeleri kanunen reddedebileceği durumlarda bile, bunları sigortalıdan ve ipotekli alacaklıdan kabul etmeye zorunludur.
+MADDE 1029- (1) Sigortacı, muaccel olan sigorta primlerini ve sigorta sözleşmesi
+gereğince ona yapılması gereken diğer ödemeleri kanunen reddedebileceği durumlarda bile,
+bunları sigortalıdan ve ipotekli alacaklıdan kabul etmeye zorunludur.
 
 ---
 

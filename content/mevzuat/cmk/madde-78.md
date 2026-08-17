@@ -19,6 +19,8 @@ Alınan örnekler üzerinde bu amaçlar dışında tespitler yapılmasına yöne
 olmayan beden parçaları üzerinde de yapılabilir. Birinci fıkranın ikinci cümlesi, bu hâlde de
 uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

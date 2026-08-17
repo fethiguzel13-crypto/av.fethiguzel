@@ -16,6 +16,8 @@ ya da hata sonucu ele geçirilen eşya üzerinde, iade etmeksizin veya yetkili m
 durumdan haberdar etmeksizin, malik gibi tasarrufta bulunan kişi, şikayet üzerine, bir yıla
 kadar hapis veya adlî para cezası ile cezalandırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

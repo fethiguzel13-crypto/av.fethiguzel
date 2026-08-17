@@ -22,6 +22,8 @@ inci maddenin beşinci fıkrası hükmü uygulanır.
 işverence ücret ve sosyal yardımlar ödenemez, bu süre kıdem tazminatı hesabında dikkate
 alınmaz. Toplu iş sözleşmelerine ve iş sözleşmelerine bunların aksine hüküm konulamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

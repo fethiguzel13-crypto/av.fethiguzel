@@ -17,6 +17,8 @@ birleştirilmesine veya ayrılmasına yüksek görevli mahkemece karar verilebil
 uygulanır.
 (3) İşin esasına girdikten sonra ayrılan davalara aynı mahkemede devam olunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

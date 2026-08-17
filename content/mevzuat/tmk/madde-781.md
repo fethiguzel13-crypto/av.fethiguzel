@@ -11,7 +11,8 @@ wordCount: 4288
 
 ---
 
-Madde 781 - İrtifak hakkının kurulmasına ilişkin sözleşmenin geçerli olm ası, resmî şekilde düzenlenmesine bağlıdır.
+Madde 781- İrtifak hakkının kurulmasına ilişkin sözleşmenin geçerli olması, resmî
+şekilde düzenlenmesine bağlıdır.
 
 ---
 

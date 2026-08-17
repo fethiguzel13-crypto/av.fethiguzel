@@ -12,7 +12,7 @@ I. Konusu**
 
 ---
 
-Madde 336 - Taşınmaz kiralarında kiraya veren, işlemiş bir yıllık ve işlemekte olan
+MADDE 336- Taşınmaz kiralarında kiraya veren, işlemiş bir yıllık ve işlemekte olan
 altı aylık kira bedelinin güvencesi olmak üzere, kiralananda bulunan ve kiralananın
 döşenmesine veya kullanılmasına yarayan taşınırlar üzerinde hapis hakkına sahiptir.
 Kiraya verenin hapis hakkı, alt kiracının asıl kiracıya olan kira borcunu aşmamak

@@ -24,6 +24,8 @@ d) Tedavileri tamamlanıncaya kadar, psikolojik, fiziksel veya cinsel şiddet ma
 (2) Birinci fıkra kapsamındaki değerlendirmeler, herkes için ayrı yapılır. Bu kişilerden,
 belli bir adreste ikamet etmeleri, istenilen şekil ve sürelerde bildirimde bulunmaları istenebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

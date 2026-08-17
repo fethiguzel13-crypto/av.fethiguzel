@@ -11,7 +11,7 @@ wordCount: 4262
 
 ---
 
-Madde 420 - Hizmet sözleşmelerine sadece işçi aleyhine konulan ceza koşulu
+MADDE 420- Hizmet sözleşmelerine sadece işçi aleyhine konulan ceza koşulu
 geçersizdir.
 İşçinin işverenden alacağına ilişkin ibra sözleşmesinin yazılı olması, ibra tarihi
 itibarıyla sözleşmenin sona ermesinden başlayarak en az bir aylık sürenin geçmiş bulunması,

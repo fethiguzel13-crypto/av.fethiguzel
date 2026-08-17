@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**Takibin durması ve düşmesi**
+**Takibin durması ve düşmesi:**
 
 ---
 
@@ -22,6 +22,8 @@ iflastan sonra da takip alacaklıları tarafından iflas masasına karşı devam
 151 inci maddeye göre rehinli alacaklılara paylaştırılır. Artan kısım iflas masasına intikal
 eder. Şu kadar ki, takip alacaklısı, iflastan önce başlamış olduğu rehnin paraya çevrilmesi
 yolu ile takipten vazgeçerek, rehnin 185 inci maddeye göre satılmasını isteyebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

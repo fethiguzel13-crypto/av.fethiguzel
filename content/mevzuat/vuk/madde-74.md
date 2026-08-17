@@ -7,7 +7,7 @@ lastReviewed: "2026-07-11"
 wordCount: 2584
 ---
 
-**Komisyonların görevleri**
+**Komisyonların görevleri:**
 
 ---
 
@@ -25,22 +25,16 @@ Vergisi Kanununun 29 uncu maddesinin birinci fıkrasının (a) bendi uyarınca a
 mahalle ve arsa sayılacak parsellenmemiş arazide her köyün cadde, sokak veya değer
 bakımından farklı bölgeleri (Turistik bölgelerde değer bakımından farklı olanlar ilgili
 valilerce tespit edilecek pafta, ada veya parsel) itibariyle asgari ölçüde birim değer tespit
-etmekle görevlidir.17
+etmekle görevlidir.
 c) 72 nci maddenin üçüncü fıkrasına göre kurulan takdir komisyonu: 1319 sayılı
 Emlak Vergisi Kanununun 29 uncu maddesinin birinci fıkrasının (a) bendi uyarınca her il
 veya ilçe için arazinin cinsi (Kıraç, taban ve sulak) itibariyle asgari ölçüde birim değer tespit
 etmekle görevlidir.
-
-30/5/1985 tarihli ve 3210 sayılı Kanunun 2 nci maddesiyle, parantez içindeki hüküm metne işlendiği şekilde
-değiştirilmiştir.
-17
-Bu bentlerde bulunan “20 nci maddesinin ikinci fıkrası” ibaresi 3/4/2002 tarihli ve 4751 sayılı Kanunla “29
-uncu maddesinin birinci fıkrasının (a) bendi” olarak değiştirilmiştir.
-16
-
-(b) ve (c) fıkralarına göre yapılacak değer tespitinde, Emlak Vergisi Kanununun 31
+(b) ve (c) fıkralarına göre yapılacak değer tespitinde, Emlak Vergisi Kanununun 31
 inci maddesinin ikinci fıkrasında yer alan normlardan ve bu maddeye göre hazırlanmış
-bulunan yönetmelik hükümleri ile gerektiğinde bilirkişiden yararlanılır.1718
+bulunan yönetmelik hükümleri ile gerektiğinde bilirkişiden yararlanılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

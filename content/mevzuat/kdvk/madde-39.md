@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**Vergilendirme dönemi**
+**İKİNCİ BÖLÜM
+Vergilendirme Dönemi ve Beyan Esası
+Vergilendirme dönemi:**
 
 ---
 
@@ -20,10 +22,12 @@ a) Götürü usulde vergilendirilen mükellefler için bir takvim yılı,
 b) Vergi kesintisi yapmakla sorumlu tutulanlar için bir ay,
 c) İthalat, transit ve Türkiye ile yabancı ülkeler arasındaki taşımacılık işlerinde
 (Değişik ibare: 27/1/2000-4503/3 md.) gümrük bölgesine girildiği veya gümrük bölgesinden
-çıkıldığı andır.98
+çıkıldığı andır.
 3. Maliye ve Gümrük Bakanlığı, mükellefleri gruplar içinde toplamaya ve gruplar için
 vergilendirme dönemlerinin başlangıç aylarını tespit etmeye yetkilidir. Bu takdirde üçer aylık
 dönemlerin aynı takvim yılı içinde olması şartı aranmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

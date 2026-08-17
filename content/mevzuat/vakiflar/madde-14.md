@@ -17,6 +17,8 @@ vakıflarda Genel Müdürlüğün; mülhak, cemaat ve esnaf vakıflarında, vak�
 teklifi üzerine bu şartları değiştirmeye; hayır şartlarındaki parasal değerleri güncel vakıf
 gelirlerine uyarlamaya Meclis yetkilidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

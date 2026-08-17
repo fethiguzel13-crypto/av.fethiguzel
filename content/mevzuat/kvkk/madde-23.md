@@ -28,6 +28,8 @@ kamuoyuna duyurur.
 (7) Kurulun çalışma usul ve esasları ile kararların yazımı ve diğer hususlar
 yönetmelikle düzenlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

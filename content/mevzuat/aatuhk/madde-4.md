@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4277
 ---
 
-**Salahiyetliler ve mesuliyetleri**
+**Salahiyetliler ve mesuliyetleri:**
 
 ---
 
 Madde 4 – Amme idarelerinin bu kanunu tatbika salahiyetli memurlarının vazifelerini
 teşkilat ve vazife kanunları veya bu konu ile ilgili diğer kanun veya mevzuat, mesuliyetlerini
-de; mesuliyeti tesis eden kanunlar tayin eder.2
+de; mesuliyeti tesis eden kanunlar tayin eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

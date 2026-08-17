@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**Mevzii tadilat kararı**
+**Mevzii tadilat kararı:**
 
 ---
 
@@ -18,6 +18,8 @@ bulunması,
 ihtiyar meclisinin, mevzii tadilatı gerektiren sebepleri muhtevi olarak tanzim edeceği mazbata
 üzerine il idare kurulunca tadilatın lüzumuna karar verilmesi,
 3. Maliye Bakanlığınca mevzii tadilatın yapılmasına izin verilmesi şarttır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

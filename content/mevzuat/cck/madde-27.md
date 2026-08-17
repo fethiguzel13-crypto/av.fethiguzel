@@ -7,17 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**Mahkemelerin yargı çevresi**
+**Sağlığın korunması kurallarına uyma**
 
 ---
 
-Madde 27- (1) Çocuk mahkemelerinin yargı çevresi, kurulduğu il ve ilçenin mülkî
-sınırlarıyla belirlenir.
-(2) Çocuk ağır ceza mahkemelerinin yargı çevresi, bulundukları il merkezi ve ilçeler
-ile bunlara adlî yönden bağlanan ilçelerin idarî sınırlarıdır.
-(3) Coğrafi durum ve iş yoğunluğu göz önünde tutularak çocuk mahkemeleri ile çocuk
-ağır ceza mahkemelerinin yargı çevresinin belirlenmesine veya değiştirilmesine Adalet
-Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca karar verilir.
+Madde 27- (1) Hükümlü, sağlığının korunması ve salgın hastalıkların önlenmesi için
+gerekli ve alınmış tedbirlere uymak, kişi sağlığı için tehlike doğuran durumları gecikmeksizin
+kurum yönetimine bildirmek, kendi ve içinde yaşadığı ortamın temizliğine uygun davranışlar
+göstermek zorundadır.
+(2) Hükümlü, hem kendi, hem de diğer hükümlülerin sağlığını tehlikeye düşürebilecek
+eylemlerden kaçınmakla yükümlüdür.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -17,6 +17,8 @@ hükme katılmış olan hâkimlerden başkanın seçeceği bir üye tarafından 
 (3) Hükümde gerekçesi ile birlikte karşı oya da yer verilir.
 (4) Hüküm, hükmü veren hâkim veya hâkimler ile zabıt kâtibi tarafından imzalanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

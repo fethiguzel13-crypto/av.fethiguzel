@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**İhalede hazır bulunmayan istekliler**
+**İhalede hazır bulunmayan istekliler:**
 
 ---
 
 Madde 34 – İhale sırasında hazır bulunmayan veya noterden tasdikli vekaletnameyi
 haiz bir vekil göndermeyen istekliler, ihalenin yapılış tarzına ve sonucuna itiraz edemezler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

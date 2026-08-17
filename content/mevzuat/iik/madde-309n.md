@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**Yeniden yapılandırma projesi**
+**Yeniden yapılandırma projesi:**
 
 ---
 
@@ -32,7 +32,8 @@ denetleneceği.
 alacaklarla eşit muameleye tâbi olacağı.
 Hukukî nitelikleri büyük ölçüde birbirine benzer olan alacakların aynı sınıfta yer
 almaları şartıyla, proje, alacaklıları birden fazla sınıf içerisinde gruplandırabilir.
-Başvuruya eklenecek belgeler:
+
+---
 
 ### Akademik Yorum ve Analiz
 

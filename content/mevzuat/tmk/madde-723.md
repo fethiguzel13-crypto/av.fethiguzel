@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**b. Tazmin at**
+**b. Tazminat**
 
 ---
 
-Madde 723 - Malzeme sökülüp alınmazsa arazi maliki, malzeme sahibine uygun bir tazminat ödemekle yükümlüdür. Yapıyı yaptıran arazi maliki iyiniyetli değilse hâkim, malzeme sahibinin uğradığı zararın tamamının tazmin edilmesine karar verebilir. Yapıyı yap tıran malzeme sahibi iyiniyetli değilse, hâkimin hükmedeceği miktar bu malzemenin arazi ma liki için taşıdığı en az de ğeri geçmeyebilir.
+Madde 723- Malzeme sökülüp alınmazsa arazi maliki, malzeme sahibine uygun bir
+tazminat ödemekle yükümlüdür.
+Yapıyı yaptıran arazi maliki iyiniyetli değilse hâkim, malzeme sahibinin uğradığı zararın
+tamamının tazmin edilmesine karar verebilir.
+Yapıyı yaptıran malzeme sahibi iyiniyetli değilse, hâkimin hükmedeceği miktar bu
+malzemenin arazi maliki için taşıdığı en az değeri geçmeyebilir.
 
 ---
 

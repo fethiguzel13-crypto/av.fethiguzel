@@ -11,7 +11,11 @@ wordCount: 4299
 
 ---
 
-Madde 745 - Yükümlü taşınmaz maliki, kendi menfaatinin hakkaniyete uygun bir biçimd e gözetilmesini isteyebilir. Arazinin üzerinden geçecek mecral arda olağanüstü durumlar varsa malik, bu mecraların üzerinden geçirileceği arazi parçasını n uygun bir kısmının, zararını tam olarak karşılayacak bir bedelle satın alınmasını isteyebilir.
+Madde 745- Yükümlü taşınmaz maliki, kendi menfaatinin hakkaniyete uygun bir biçimde
+gözetilmesini isteyebilir.
+Arazinin üzerinden geçecek mecralarda olağanüstü durumlar varsa malik, bu mecraların
+üzerinden geçirileceği arazi parçasının uygun bir kısmının, zararını tam olarak karşılayacak bir
+bedelle satın alınmasını isteyebilir.
 
 ---
 

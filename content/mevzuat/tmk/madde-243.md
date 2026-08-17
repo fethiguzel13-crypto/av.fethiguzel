@@ -11,7 +11,8 @@ wordCount: 4307
 
 ---
 
-Madde 243 - İspat, borçlardan sorumluluk ve paylı mülkün özgülenmesi konuları nda paylaşmalı mal ayrılığı rejimine ilişkin hükümler uygulanır. DÖRDÜNCÜ AYIRIM PAYLAŞMALI MAL AYRILIĞI A. Yönetim, yararlanma ve tasarruf I. Ge nel olarak
+Madde 243- İspat, borçlardan sorumluluk ve paylı mülkün özgülenmesi konularında
+paylaşmalı mal ayrılığı rejimine ilişkin hükümler uygulanır.
 
 ---
 

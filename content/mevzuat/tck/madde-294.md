@@ -7,10 +7,6 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**Kaçmaya imkan sağlama**
-
----
-
 Madde 294- (1) Gözaltına alınanın veya tutuklunun kaçmasını sağlayan kişi, bir
 yıldan üç yıla kadar hapis cezası ile cezalandırılır.
 (2) Hükümlünün kaçmasını sağlayan kişi, çekilecek olan hapis cezasının süresine göre
@@ -21,10 +17,7 @@ Kadar hapis cezasına hükmolunur.
 (3) Bu suçların, cebir veya tehdit kullanılarak işlenmesi halinde, verilecek ceza üçte
 biri oranında artırılır.
 (4) Kaçması sağlanan kişi sayısının birden fazla olması halinde, bu sayı göz önünde
-29/6/2005 tarihli ve 5377 sayılı Kanunun 34 üncü maddesiyle bu fıkrada yer alan "Gözaltına
-alınan," ibaresi madde metninden çıkarılmıştır.
-
-bulundurularak, verilecek ceza üçte birden bir katına kadar artırılır.
+bulundurularak, verilecek ceza üçte birden bir katına kadar artırılır.
 (5) Bu suçların gözaltına alınan, tutuklu veya hükümlünün muhafaza veya nakli ile
 görevli kişiler tarafından işlenmesi halinde, verilecek ceza, üçte biri oranında artırılır.
 (6) Bu suçların üstsoy, altsoy, eş veya kardeş tarafından işlenmesi halinde, verilecek
@@ -35,6 +28,8 @@ durumunda, ayrıca bu suçlara ilişkin hükümlere göre cezaya hükmolunur.
 (8) Gözaltına alınan, tutuklu veya hükümlünün, muhafaza veya nakli ile görevli
 kişinin dikkat ve özen yükümlülüğüne aykırı davranmasından yararlanarak kaçması halinde,
 altı aydan üç yıla kadar hapis cezasına hükmolunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

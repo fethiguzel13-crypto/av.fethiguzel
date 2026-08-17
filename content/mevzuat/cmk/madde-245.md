@@ -14,6 +14,8 @@ wordCount: 4278
 Madde 245 – (1) Adresi bilinmeyen gaibe, mahkeme önüne gelmesi veya adresini
 bildirmesi hususları uygun bir iletişim aracıyla ihtar edilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

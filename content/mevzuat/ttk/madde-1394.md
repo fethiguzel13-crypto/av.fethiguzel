@@ -11,7 +11,8 @@ wordCount: 4272
 
 ---
 
-Madde 1394 - (1) Sıra cetvelinin beşinci sırasına, takip konusu gemiye ilişkin gümrük resmi ile diğer vergiler kaydedilir.
+MADDE 1394- (1) Sıra cetvelinin beşinci sırasına, takip konusu gemiye ilişkin
+gümrük resmi ile diğer vergiler kaydedilir.
 
 ---
 

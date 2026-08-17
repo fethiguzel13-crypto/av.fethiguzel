@@ -22,8 +22,9 @@ Genel Müdürlük; Cumhurbaşkanı kararıyla Genel Müdürlük ve mazbut vakıf
 gelirleri ve akar malları ile iktisadî işletme veya şirket kurmaya yetkilidir. Şirket hisseleri ve
 hakların daha yararlı olanları ile değiştirilmesi, paraya çevrilmesi, değerlendirilmesi ve
 bunlara bağlı her türlü hakkın kullanılması ile ortaklık paylarına bağlı hakların kullanılması
-Genel Müdürlük tarafından yürütülür.9
-Sona eren veya dağıtılan yeni vakıfların mal ve hakları
+Genel Müdürlük tarafından yürütülür.
+
+---
 
 ### Akademik Yorum ve Analiz
 

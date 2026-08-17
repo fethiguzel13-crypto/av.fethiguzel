@@ -17,6 +17,8 @@ huzurunda okunduktan sonra altı isticvap olunan tarafa imzalatılır. İsticvap
 bir gerekçe göstermeksizin tutanağı imzalamaktan kaçınırsa, bu durum hâkim tarafından
 tutanakla tespit olunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

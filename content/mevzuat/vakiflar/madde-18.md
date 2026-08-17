@@ -23,6 +23,8 @@ taşınmaz üzerindeki temliki tasarruflar tapu dairelerince tescil olunmaz.
 Vakıf şerhleri ile ilgili olarak, diğer kanunlarda yer alan zamanaşımı ve hak düşürücü
 sürelere ilişkin hükümler uygulanmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

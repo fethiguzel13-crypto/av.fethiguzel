@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**III. Tesc ilin biçimi
+**III. Tescilin biçimi
 1. Genel olarak**
 
 ---
 
-Madde 1017 - Kütüğe tesciller, istem tarihine ve sırasına göre yapılır. Sici ldeki kaydın bir örneği isteyen ilgiliye verilir. Tescil ve t erkin ile verilecek örneklerin şekli Cumhurbaşkanınca çık arılan yönetmelikle belirlenir. 46 2. Taşınmaz lehine irtifaklarda
+Madde 1017- Kütüğe tesciller, istem tarihine ve sırasına göre yapılır.
+Sicildeki kaydın bir örneği isteyen ilgiliye verilir.
+Tescil ve terkin ile verilecek örneklerin şekli Cumhurbaşkanınca çıkarılan yönetmelikle
+belirlenir.
 
 ---
 

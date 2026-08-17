@@ -20,16 +20,22 @@ suretiyle birinci fıkradaki hükmün uygulama şekillerini tespit etmek yahut b
 çalışmalarına herhangi bir oranda fazla ücret ödenmesi usulünü koymak veyahut gece
 işletilmelerinde ekonomik bir zorunluluk bulunmayan işyerlerinde işçilerin gece çalışmalarını
 yasak etmek üzere yönetmelikler çıkartılabilir.
-İşçilerin gece çalışmaları yedibuçuk saati geçemez. Ancak, turizm, özel güvenlik, sağlık
-hizmeti ve 30/5/2013 tarihli ve 6491 sayılı Türk Petrol Kanunu uyarınca petrol araştırma, arama
-ve sondaj faaliyetleri kapsamında yürütülen işlerde işçinin yazılı onayının alınması şartıyla yedi buçuk
-saatin üzerinde gece çalışması yaptırılabilir.
+İşçilerin gece çalışmaları yedibuçuk saati geçemez. (Ek cümle: 4/4/2015-6645/37 md.)
+Ancak, turizm, özel güvenlik, sağlık hizmeti ve 30/5/2013 tarihli ve 6491 sayılı Türk Petrol
+Kanunu uyarınca petrol araştırma, arama ve sondaj faaliyetleri kapsamında yürütülen işlerde
+işçinin yazılı onayının alınması şartıyla yedi buçuk saatin üzerinde gece çalışması
+yaptırılabilir.
+(Mülga dördüncü fıkra: 20/6/2012-6331/37 md.)
+(Mülga beşinci fıkra: 20/6/2012-6331/37 md.)
+(Mülga altıncı fıkra: 20/6/2012-6331/37 md.)
 Gece ve gündüz işletilen ve nöbetleşe işçi postaları kullanılan işlerde, bir çalışma
 haftası gece çalıştırılan işçilerin, ondan sonra gelen ikinci çalışma haftası gündüz
 çalıştırılmaları suretiyle postalar sıraya konur. Gece ve gündüz postalarında iki haftalık
 nöbetleşme esası da uygulanabilir.
 Postası değiştirilecek işçi kesintisiz en az onbir saat dinlendirilmeden diğer postada
 çalıştırılamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

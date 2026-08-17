@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**Memur vasıtasiyle tebliğlerde zaruri masraflar**
+**Memur vasıtasiyle tebliğlerde zaruri masraflar:**
 
 ---
 
@@ -19,6 +19,8 @@ kendisine tebliğ yapılacak şahsın bulunduğu yerin mesafesine nazaran her ma
 idare heyetleri tarafından o ilin gerek merkez, gerekse bağlı ilçeleri için ayrı ayrı tesbit olunur.
 Yukarıki fıkraya göre kendilerine zaruri masraf verilen memurlara yaptıkları tebliğ
 dolayısiyle 6245 sayılı kanun mucibince ayrıca harcırah verilmez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

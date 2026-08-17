@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**Eğitim birimleri**
+**Eğitim birimleri:**
 
 ---
 
 Madde 215 – Her kurumda, yetiştirme faaliyetlerini düzenlemek, yürütmek ve
 değerlendirmekle görevli bir "Eğitim birimi" kurulur. Birden çok birim kurulan kurumlarda
 bunlardan biri "Merkez Eğitim Birimi" adını alır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -17,6 +17,8 @@ yedi üyeden oluşur. Kurul Başkanı, Başkanlık teşkilatının da başıdır
 diğer hâller ile görevden alınması veya üyeliğinin düşmesi durumlarında ikinci başkan, onun
 da bulunmadığı hâllerde başkan vekili Başkana vekâlet eder.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

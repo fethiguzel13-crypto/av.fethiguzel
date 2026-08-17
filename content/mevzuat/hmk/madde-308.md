@@ -16,6 +16,8 @@ muvafakat etmesidir.
 (2) Kabul, ancak tarafların üzerinde serbestçe tasarruf edebilecekleri davalarda hüküm
 doğurur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**Çekilen ve çekilmiş sayılanların yeniden atanmaları**
+**Çekilen ve çekilmiş sayılanların yeniden atanmaları:**
 
 ---
 
@@ -20,6 +20,8 @@ görevlerinden ayrılanlar bir yıl geçmeden,
 C) 95 inci maddede yazılı zorunluluklara uymayanlar 3 yıl geçmeden,
 D) 96 ncı maddeye aykırı hareket edenler hiçbir surette,
 Devlet memurluğuna alınamazlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

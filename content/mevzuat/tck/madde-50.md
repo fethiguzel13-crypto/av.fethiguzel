@@ -16,10 +16,7 @@ durumuna, yargılama sürecinde duyduğu pişmanlığa ve suçun işlenmesindeki
 a) Adlî para cezasına,
 b) Mağdurun veya kamunun uğradığı zararın aynen iade, suçtan önceki hale getirme
 veya tazmin suretiyle, tamamen giderilmesine,
-2/7/2018 tarihli ve 700 sayılı KHK’nin 156 ncı maddesiyle, bu maddede yer alan “tüzükte” ibaresi
-“Cumhurbaşkanınca çıkarılan yönetmelikte” şeklinde değiştirilmiştir.
-
-c) En az iki yıl süreyle, bir meslek veya sanat edinmeyi sağlamak amacıyla, gerektiğinde
+c) En az iki yıl süreyle, bir meslek veya sanat edinmeyi sağlamak amacıyla, gerektiğinde
 barınma imkanı da bulunan bir eğitim kurumuna devam etmeye,
 d) Mahkûm olunan cezanın yarısından bir katına kadar süreyle, belirli yerlere
 gitmekten veya belirli etkinlikleri yapmaktan yasaklanmaya,
@@ -45,9 +42,11 @@ cezası veya tedbirdir.
 gün içinde seçenek tedbirin gereklerinin yerine getirilmesine başlanmaması veya başlanıp da
 devam edilmemesi halinde, infaz hâkimliği kısa süreli hapis cezasının tamamen veya kısmen
 infazına karar verir ve bu karar derhal infaz edilir. Bu durumda, beşinci fıkra hükmü
-uygulanmaz.78
+uygulanmaz.
 (7) Hükmedilen seçenek tedbirin hükümlünün elinde olmayan nedenlerle yerine
-getirilememesi durumunda, infaz hâkimliğince tedbir değiştirilir.8
+getirilememesi durumunda, infaz hâkimliğince tedbir değiştirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

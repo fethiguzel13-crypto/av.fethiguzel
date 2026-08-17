@@ -18,6 +18,8 @@ mahkemelerde böyle bir durumun gerçekleşmesi hâlinde, hüküm diğer hâkiml
 imzalanır ve başkan veya en kıdemli hâkim tarafından, hükmün altına diğer hâkimin imza
 edememesinin sebebi yazılarak imza olunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

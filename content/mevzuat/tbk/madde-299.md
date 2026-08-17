@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**A. Tanımı**
+**DÖRDÜNCÜ BÖLÜM
+Kira Sözleşmesi
+BİRİNCİ AYIRIM
+Genel Hükümler
+A. Tanımı**
 
 ---
 
-Madde 299 - Kira sözleşmesi, kiraya verenin bir şeyin kullanılmasını veya
+MADDE 299- Kira sözleşmesi, kiraya verenin bir şeyin kullanılmasını veya
 kullanmayla birlikte ondan yararlanılmasını kiracıya bırakmayı, kiracının da buna karşılık
 kararlaştırılan kira bedelini ödemeyi üstlendiği sözleşmedir.
 

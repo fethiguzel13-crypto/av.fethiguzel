@@ -21,6 +21,8 @@ olduğu ileri sürülemez.
 (4) Dava açıldıktan sonra yapılan her türlü delil tespiti talebi hakkında sadece davanın
 görülmekte olduğu mahkeme yetkili ve görevlidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

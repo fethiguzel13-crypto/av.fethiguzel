@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**Esham, tahvilat ve yabancı paralar**
+**Esham, tahvilat ve yabancı paralar:**
 
 ---
 
@@ -18,10 +18,8 @@ muvazaa olduğu anlaşılırsa bu rayiç yerine emsal bedeli esas olur.
 Ticari sermayeye dahil olsun olmasın yabancı paraların ve yabancı paralar üzerinden
 tanzim edilmiş alacak ve borç senetlerinin değerlenmesinde ikinci bölümün hükümleri
 uygulanır.
-Alacak ve borçlar:
 
-Madde 295 – Ticari sermayeye dahil olsun veya olmasın senetli ve senetsiz bütün
-alacak ve borçlar ikinci bölümdeki hükümlere göre değerlenir.
+---
 
 ### Akademik Yorum ve Analiz
 

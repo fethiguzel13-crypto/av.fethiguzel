@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4319
 ---
 
-**Tescil belgesi ve tescil plakası alma zorunluluğu, hurdaya ayrılan ve trafikten çekilen araçlar**
+**çekilen araçlar:**
 
 ---
 
@@ -22,6 +22,12 @@ araçlar eksiklikleri giderilinceye kadar trafikten menedilir. (Ek cümle:12/2/2
 Aykırılığı tespit edilen araç trafikten çekilmiş ise trafikten çekme tarihi itibarıyla trafik tescil
 kaydı açılır ve ilgili vergi dairesine bildirilir.
 Tescil belgesi geçersiz duruma gelince sürekli olarak, üzerinde eksik veya yanlış bilgi
+2/1/2017 tarihli ve 680 Sayılı KHK’nin 51 inci maddesi ile bu maddenin başlığında yer alan “Trafik
+belgesi” ibaresi “Tescil belgesi” şeklinde, birinci fıkrasının birinci cümlesinde yer alan “Trafik
+Belgesi” ibaresi “Tescil Belgesi” şeklinde, aynı fıkranın ikinci cümlesinde yer alan “trafik belgesi”
+ibaresi “tescil belgesi” şeklinde ve dördüncü fıkrasında yer alan “Trafik belgesi, tescil” ibaresi
+“Tescil” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7072 sayılı Kanunun 50 nci
+maddesiyle aynen kabul edilerek kanunlaşmıştır.
 bulunması halinde geçici olarak trafik zabıtasınca geri alınır.
 (Ek:18/10/2018-7148/15 md.) Hurdaya çıkarılmış araçların karayolunda sürülmesi
 yasaktır. Bu araçların karayolunda sürüldüğünün tespiti hâlinde sürücüsüne 46.000 Türk lirası
@@ -29,6 +35,8 @@ idari para cezası verilir ve bu araçlar trafikten menedilir. Ayrıca mülki am
 konulur ve aracın mülkiyeti kamuya geçer.
 (Ek:18/10/2018-7148/15 md.) Araçların hurdaya çıkarılmasına dair usul ve esaslar
 Yönetmelikte belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

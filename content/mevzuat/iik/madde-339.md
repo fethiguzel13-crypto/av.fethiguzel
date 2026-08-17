@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
-**Beyandan sonra mal ve kazançta olan tezayüdü bildirmeyen borçlunun cezası**
+**Beyandan sonra mal ve kazançta olan tezayüdü bildirmeyen borçlunun cezası:**
 
 ---
 
@@ -19,15 +19,8 @@ veya bedel itibariyle mevcut olduğu takdirde, on gün; mal veya kazancını as�
 makbul bir sebep olmaksızın elden çıkarmışsa, bir aya kadar disiplin hapsi ile cezalandırılır.
 Bu cezalara alacaklının şikâyeti üzerine karar verilir. Kişi, icra takibine konu olan
 borcu tamamen ödediği takdirde, bu ceza düşer.
-Borçlunun ödeme şartını ihlali halinde ceza:
 
-Madde 340 – (Değişik: 31/5/2005-5358/11 md.)
-111 inci madde mucibince veya alacaklının muvafakati ile icra dairesinde
-kararlaştırılan borcu ödeme şartını, makbul bir sebep olmaksızın ihlal eden borçlunun,
-alacaklının şikâyeti üzerine, üç aya kadar tazyik hapsine karar verilir. Hapsin tatbikine
-başlandıktan sonra borçlu borcun tamamını veya o tarihe kadar icra veznesine yatırmak
-zorunda olduğu meblağı öderse tahliye edilir; ödemelerini tekrar keserse, hakkında tazyik
-hapsine yeniden karar verilir. Ancak, bir borçtan dolayı tazyik hapsinin süresi üç ayı geçemez.
+---
 
 ### Akademik Yorum ve Analiz
 

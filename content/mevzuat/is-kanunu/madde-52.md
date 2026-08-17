@@ -16,6 +16,8 @@ genel toplamını gösteren bir belgeyi işçilerin kendi aralarından seçecekl
 vermekle yükümlüdür. Bu belgelerin şekli ve uygulama usulleri iş sözleşmelerinde veya toplu
 iş sözleşmelerinde gösterilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

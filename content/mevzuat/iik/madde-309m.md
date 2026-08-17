@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**Uzlaşma yoluyla yeniden yapılandırma**
+**V. SERMAYE ŞİRKETLERİ VE KOOPERATİFLERİN UZLAŞMA
+115116
+YOLUYLA YENİDEN YAPILANDIRILMASI
+Uzlaşma yoluyla yeniden yapılandırma:**
 
 ---
 
@@ -16,18 +19,7 @@ Muaccel para borçlarını ödeyemeyecek durumda olan veya mevcut ve alacakları
 borçlarını karşılamaya yetmeyen ya da bu hallerden birine düşme tehlikesiyle karşı karşıya
 kalması kuvvetle muhtemel olan bir sermaye şirketi veya kooperatif, önceden müzakere
 edilmiş ve projeden etkilenen alacaklılar tarafından gerekli çoğunluk sağlanarak kabul
-
-28/2/2018 tarihli ve 7101 sayılı Kanunun 44 üncü maddesiyle bu fıkrada yer alan “308 inci maddeler”
-ibaresi “308/g maddeleri,” şeklinde değiştirilmiştir.
-115
-Bu üst başlık, 12/2/2004 tarihli ve 5092 sayılı Kanunun 8 inci maddesiyle eklenmiştir.
-116
-28/2/2018 tarihli ve 7101 sayılı Kanunun 38 inci maddesiyle Onikinci Bap Birinci Bölümden sonra gelmek
-üzere “II. REHİNLİ ALACAKLILARLA MÜZAKERE VE BORÇLARIN YAPILANDIRILMASI” başlığıyla İkinci
-Bölüm eklenmiş, diğer bölümler buna göre teselsül ettirilmiştir.
-114
-
-edilmiş olan yeniden yapılandırma projesi ile birlikte, muamele merkezinin bulunduğu yer
+edilmiş olan yeniden yapılandırma projesi ile birlikte, muamele merkezinin bulunduğu yer
 asliye ticaret mahkemesine, uzlaşma yoluyla yeniden yapılandırma için başvurabilir.
 309/m ilâ 309/ü maddelerinde geçen “projeden etkilenen alacaklılar” terimi, yeniden
 yapılandırma projesi ile alacakları, hakları veya menfaatleri yeniden yapılandırılacak
@@ -37,7 +29,8 @@ itibarıyla en az yarısını aşan ve oy kullanan alacaklıların alacakların�
 oluşturan ve projenin kabulü için gerekli olan çoğunluğu ifade eder. Projenin birden fazla
 alacaklı sınıfı içermesi hâlinde, her alacaklı sınıfının kendi içinde projeyi gerekli çoğunluk ile
 kabul etmiş olması gerekir.
-Yeniden yapılandırma projesi:
+
+---
 
 ### Akademik Yorum ve Analiz
 

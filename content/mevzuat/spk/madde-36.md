@@ -16,6 +16,8 @@ hazırlanması ile açıklanmasına ilişkin olarak 14 üncü madde kıyasen uyg
 (2) Kurumsal yönetim ilkelerine ilişkin olarak 17 nci maddenin birinci ve ikinci
 fıkraları sermaye piyasası kurumlarına kıyasen uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

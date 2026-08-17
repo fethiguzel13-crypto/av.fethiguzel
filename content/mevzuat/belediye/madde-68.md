@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**Borçlanma**
+**ÜÇÜNCÜ BÖLÜM
+Borçlanma ve İktisadî Girişimler
+Borçlanma**
 
 ---
 
@@ -30,15 +32,12 @@ sahip oldukları şirketler, en son kesinleşmiş bütçe gelirlerinin, 213 say�
 Kanununa göre belirlenecek yeniden değerleme oranıyla artırılan miktarının yılı içinde toplam
 yüzde onunu geçmeyen iç borçlanmayı belediye meclisinin kararı; yüzde onunu geçen iç
 borçlanma için ise meclis üye tam sayısının salt çoğunluğunun kararı ve Çevre, Şehircilik ve
-İklim Değişikliği Bakanlığının onayı ile yapabilir.3839
+İklim Değişikliği Bakanlığının onayı ile yapabilir.
 f) Belediyelerin ileri teknoloji ve büyük tutarda maddî kaynak gerektiren alt yapı
 yatırımlarında Cumhurbaşkanınca kabul edilen projeleri için yapılacak borçlanmalar (d)
 bendindeki miktarın hesaplanmasında dikkate alınmaz. Dış kaynak gerektiren projelerde
-Hazine ve Maliye Bakanlığının görüşü alınır.4041
-38 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu bent ve fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir. 39 30/3/2023 tarihli ve 7446 sayılı Kanunun 7 nci maddesiyle bu bentte yer alan “Çevre ve Şehircilik” ibaresi “Çevre, Şehircilik ve İklim Değişikliği” şeklinde, değiştirilmiştir. 40 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 200 üncü maddesiyle bu bentte yer alan “Devlet Plânlama Teşkilatı Müsteşarlığının teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-
-
-g) (Ek:30/3/2023-7446/7 md.) Belediyeler ve bağlı kuruluşları ile bunların
+Hazine ve Maliye Bakanlığının görüşü alınır.
+g) (Ek:30/3/2023-7446/7 md.) Belediyeler ve bağlı kuruluşları ile bunların
 sermayesinin yüzde ellisinden fazlasına sahip oldukları şirketler tarafından Avrupa Birliği ile
 katılım öncesi mali işbirliği çerçevesinde desteklenen projelerin finansmanı için yapılan
 borçlanmalar, çok taraflı yatırım ve kalkınma bankaları ile yabancı devlet kuruluşlarından
@@ -51,7 +50,9 @@ hakkında, fiilleri daha ağır bir cezayı gerektirmeyen durumlarda 5237 sayıl
 Kanununun görevi kötüye kullanmaya ilişkin hükümleri uygulanır.
 Belediye, varlık ve yükümlülüklerinin ayrıntılı bir şekilde yer aldığı malî tablolarını
 üçer aylık dönemler hâlinde Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, Hazine ve
-Maliye Bakanlığı ile Strateji ve Bütçe Başkanlığına gönderir.4243
+Maliye Bakanlığı ile Strateji ve Bütçe Başkanlığına gönderir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

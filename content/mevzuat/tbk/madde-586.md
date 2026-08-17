@@ -11,7 +11,7 @@ wordCount: 4319
 
 ---
 
-Madde 586 - Kefil, müteselsil kefil sıfatıyla veya bu anlama gelen herhangi bir
+MADDE 586- Kefil, müteselsil kefil sıfatıyla veya bu anlama gelen herhangi bir
 ifadeyle yükümlülük altına girmeyi kabul etmişse alacaklı, borçluyu takip etmeden veya
 taşınmaz rehnini paraya çevirmeden kefili takip edebilir. Ancak, bunun için borçlunun, ifada
 gecikmesi ve ihtarın sonuçsuz kalması veya açıkça ödeme güçsüzlüğü içinde olması gerekir.

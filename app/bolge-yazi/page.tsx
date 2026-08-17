@@ -79,7 +79,7 @@ export default function BolgeYaziHubPage() {
                 <li key={m.slug}>
                   <Link
                     href={`/bolge-yazi/${m.slug}`}
-                    className="group grid sm:grid-cols-[140px_1fr] gap-4 rounded-2xl border border-charcoal/8 bg-white p-3 sm:p-4 hover:border-accent/35 transition-colors overflow-hidden"
+                    className="group grid sm:grid-cols-[140px_1fr] gap-4 rounded-2xl border border-charcoal/[0.08] bg-white p-3 sm:p-4 hover:border-accent/35 transition-colors overflow-hidden"
                   >
                     <div className="relative aspect-[16/10] sm:aspect-square rounded-xl overflow-hidden bg-charcoal/5">
                       <Image

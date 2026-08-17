@@ -7,11 +7,19 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**Madde 282**
+**İKİNCİ KISIM
+HISIMLIK
+BİRİNCİ BÖLÜM
+SOYBAĞININ KURULMASI
+BİRİNCİ AYIRIM
+GENEL HÜKÜMLER
+A. Genel olarak soybağının kurulması**
 
 ---
 
-Madde 282 - Çocuk ile ana arasında soybağı doğumla kurulur. Çoc uk il e baba arasında soybağı, ana ile evlilik, tanıma veya hâkim hükmüyle kurulur. Soybağı ayrıca evlât edinme yo luyla da kurulur.
+Madde 282- Çocuk ile ana arasında soybağı doğumla kurulur.
+Çocuk ile baba arasında soybağı, ana ile evlilik, tanıma veya hâkim hükmüyle kurulur.
+Soybağı ayrıca evlât edinme yoluyla da kurulur.
 
 ---
 

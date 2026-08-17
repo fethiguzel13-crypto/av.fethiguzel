@@ -20,6 +20,8 @@ d) Geçici olarak görevden uzaklaştırılması,
 Hâllerinde, meclis çalışabilir duruma gelinceye veya yeni meclis seçimi yapılıncaya
 kadar meclis görevi, belediye encümeninin memur üyeleri tarafından yürütülür.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

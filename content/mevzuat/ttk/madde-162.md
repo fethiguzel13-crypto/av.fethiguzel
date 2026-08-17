@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4285
 ---
 
-**2. Bölünmenin uygulanmasına ilişkin hükümler a) Sermayenin azaltılması**
+**2. Bölünmenin uygulanmasına ilişkin hükümler
+a) Sermayenin azaltılması**
 
 ---
 
-Madde 162 - (1) Bölünme sebebiyle devreden şirketin sermayesinin azaltılması hâlinde 473, 474 ve 592 nci maddeler ile kooperatiflerde Kooperatifler Kanunu nun 98 inci maddesine dayanılarak bu Kanunun 473 ve 474 üncü maddeleri uygulanmaz.
+MADDE 162- (1) Bölünme sebebiyle devreden şirketin sermayesinin azaltılması
+hâlinde 473, 474 ve 592 nci maddeler ile kooperatiflerde Kooperatifler Kanununun 98 inci
+maddesine dayanılarak bu Kanunun 473 ve 474 üncü maddeleri uygulanmaz.
 
 ---
 

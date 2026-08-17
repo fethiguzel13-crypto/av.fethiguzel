@@ -7,14 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Tahakkuku tahsile bağlı vergiler**
+**Tahakkuku tahsile bağlı vergiler:**
 
 ---
 
 Madde 24 – Mahiyetleri itibariyle tahakkuku tahsile bağlı vergilerde, verginin tahsili
 tahakkuku da içine alır.
-İKİNCİ KISIM
-Tarh ve Tahakkuk Usulü
+
+---
 
 ### Akademik Yorum ve Analiz
 

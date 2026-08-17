@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**Yatırım hizmetleri ve faaliyetleri**
+**İKİNCİ BÖLÜM
+Yatırım Hizmetleri ve Faaliyetleri
+Yatırım hizmetleri ve faaliyetleri**
 
 ---
 
@@ -25,8 +27,8 @@ aracılık edilmesi
 g) Çok taraflı alım satım sistemlerinin ve borsa dışı diğer teşkilatlanmış pazar
 yerlerinin işletilmesi
 ğ) Sermaye piyasası araçlarının müşteri namına saklanması ve yönetimi ile portföy
-saklanması
-h) Kurulca belirlenecek diğer hizmet ve faaliyetlerde bulunulması
+
+---
 
 ### Akademik Yorum ve Analiz
 

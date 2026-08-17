@@ -20,6 +20,8 @@ onarımı, su, gaz, aydınlatma ve ısıtma giderleri ile rayiç kirayı talep e
 lokavt süresince kısıntıya uğratamaz. Ancak bu hizmetlerin kanuni grev ve lokavt yüzünden
 kısıntıya uğramış olanlarının devamı, işçiler tarafından istenemez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

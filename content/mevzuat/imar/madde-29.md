@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4319
 ---
 
-**Ruhsat müddeti**
+**Ruhsat müddeti:**
 
 ---
 
@@ -20,6 +20,8 @@ artış, bağımsız bölümlerin brüt alanında veya niteliğinde değişme ol
 hesaplanacak harçtan evvelce ödenen harç tutarı, tenzil edilir. Yeni durumda hesaplanan harç
 tutarında azalma olması halinde iade yapılmaz. Diğer kanunlardaki muafiyet hükümleri saklıdır.
 Ruhsat ve eklerinin yapı yerinde bulundurulması mecburidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

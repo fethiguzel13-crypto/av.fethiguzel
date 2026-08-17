@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Küçüklerin ve kısıtlıların ceza muhatabı olmadığı haller**
+**Küçüklerin ve kısıtlıların ceza muhatabı olmadığı haller:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 332 – Velayet ve vesayet altında bulunanlar veya işlerinin idaresi bir
 tevdi edilmiş olanlar, kendilerine izafeten veli, vasi veya kayyımın vergi kanunlarına aykırı
 hareketlerinden dolayı cezaya muhatap tutulmazlar. Bu hallerde cezanın muhatabı, veli, vasi
 veya kayyımdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

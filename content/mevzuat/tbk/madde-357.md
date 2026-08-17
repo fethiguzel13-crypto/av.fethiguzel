@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4318
 ---
 
-**A. Tanımı**
+**ÜÇÜNCÜ AYIRIM
+Ürün Kirası
+A. Tanımı**
 
 ---
 
-Madde 357 - Ürün kirası kiraya verenin, kiracıya, ürün veren bir şeyin veya hakkın
+MADDE 357- Ürün kirası kiraya verenin, kiracıya, ürün veren bir şeyin veya hakkın
 kullanılmasını ve ürünlerin devşirilmesini bedel karşılığında bırakmayı üstlendiği
 sözleşmedir.
 Ürüne katılmalı kira, kira bedelinin devşirilecek ürünün belli bir oranı olarak

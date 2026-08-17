@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**Kaldırılan hükümler**
+**Kaldırılan hükümler:**
 
 ---
 
@@ -16,6 +16,8 @@ yapan kanunlar,
 b) (Değişik: 9/11/1983-2944/1 md.) Diğer Kanunların (15/7/1964 tarih ve 500 sayılı
 Kanun ile 22/10/1981 tarih ve 2542 sayılı Kanun hariç) bu Kanuna uymayan hükümleri.
 Yürürlükten kaldırılmıştır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

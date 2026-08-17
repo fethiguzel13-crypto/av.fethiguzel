@@ -16,6 +16,8 @@ Madde 44 - Ulusal bayram ve genel tatil günlerinde işyerlerinde çalışılıp
 hüküm bulunmaması halinde söz konusu günlerde çalışılması için işçinin onayı gereklidir.
 Bu günlere ait ücretler 47 nci maddeye göre ödenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

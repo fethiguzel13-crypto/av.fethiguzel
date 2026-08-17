@@ -21,6 +21,8 @@ esaslara göre devredebilir.
 veya devrin ilgili kuruluş tarafından kabul edilmemesi hâlinde, tasfiye sonucunda kalacak
 paralar İşsizlik Sigortası Fonuna aktarılır ve mallar Türkiye İş Kurumuna devredilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

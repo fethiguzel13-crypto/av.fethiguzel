@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**IV
-- Kararın ilanı**
+**IV - Kararın ilanı**
 
 ---
 
-Madde 59 - (1) Mahkeme, davayı kazanan tarafın istemiyle, gideri haksız çıkan taraftan alınmak üzere, hükmün kesinle şmesinden sonra ilan edilmesine de karar verebilir. İlanın şeklini ve kapsamını mahkeme belirler.
+MADDE 59- (1) Mahkeme, davayı kazanan tarafın istemiyle, gideri haksız çıkan
+taraftan alınmak üzere, hükmün kesinleşmesinden sonra ilan edilmesine de karar verebilir.
+İlanın şeklini ve kapsamını mahkeme belirler.
 
 ---
 

@@ -16,6 +16,8 @@ asli talebini, aynı dava dilekçesinde ileri sürebilir. Bunun için, birlikte 
 tamamının aynı yargı çeşidi içinde yer alması ve taleplerin tümü bakımından ortak yetkili bir
 mahkemenin bulunması şarttır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

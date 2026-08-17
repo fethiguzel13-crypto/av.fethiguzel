@@ -18,7 +18,7 @@ biri alır.
 (2) Yüksek Hakem Kurulu, uyuşmazlığı dosya üzerinde inceler. Gerekli görüldüğü
 durumlarda taraflar ve ilgililerden uyuşmazlıkla ilgili her türlü bilgi ve belgeyi isteyebilir.
 Taraflar ve diğer bütün ilgililer, Yüksek Hakem Kurulunun istediği bilgi ve belgeyi vermekle
-yükümlüdür. Yüksek Hakem Kurulu, görüşlerini öğrenmek istediği kişileri çağıp dinler veya
+yükümlüdür. Yüksek Hakem Kurulu, görüşlerini öğrenmek istediği kişileri çağırıp dinler veya
 bunların görüşlerini yazı ile bildirmelerini ister. Bunlar hakkında 6100 sayılı Kanunun
 tanıklara ve bilirkişilere ilişkin hükümleri uygulanır. Taraflar da, bilgilendirmek amacıyla
 Kurulda dinlenmelerini isteyebilir, bilgi ve belge sunabilir.
@@ -26,6 +26,8 @@ Kurulda dinlenmelerini isteyebilir, bilgi ve belge sunabilir.
 eşitliği hâlinde başkanın bulunduğu taraf çoğunluğu sağlar.
 (4) Bu madde gereğince yapılacak ödemeleri karşılamak üzere gerekli ödenek
 Bakanlık bütçesine konulur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

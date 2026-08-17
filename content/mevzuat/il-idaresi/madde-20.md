@@ -7,15 +7,14 @@ lastReviewed: "2026-07-27"
 wordCount: 3419
 ---
 
-**Valiler, gereken hallerde il mensuplarına takdirname verirler.**
+**md.)**
 
 ---
 
-Madde 20 - Valiler, gereken hallerde il mensuplarına takdirname verirler.
-Tayinleri merkeze ait olanlar hakkındaki takdir ve tecziye muamelelerini ilgili
-makamlara bildirirler.
+Madde 20 – Valiler, gereken hallerde il mensuplarına takdirname verirler. Tayinleri
+merkeze ait olanlar hakkındaki takdir ve tecziye muamelelerini ilgili makamlara bildirirler.
 
-IV - Vali ile il idare şube başkanlarının münasebetleri
+---
 
 ### Akademik Yorum ve Analiz
 

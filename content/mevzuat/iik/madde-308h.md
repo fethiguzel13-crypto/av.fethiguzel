@@ -7,20 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**Rehinli alacaklılarla müzakere şartları ve yapılandırmanın hükümleri**
+**II. REHİNLİ ALACAKLILARLA MÜZAKERE VE BORÇLARIN
+YAPILANDIRILMASI
+Rehinli alacaklılarla müzakere şartları ve yapılandırmanın hükümleri:**
 
 ---
 
 Madde 308/h- (Ek: 28/2/2018-7101/38 md.)
-2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “on gün” ibareleri “iki hafta”
-şeklinde değiştirilmiştir.
-107
-28/2/2018 tarihli ve 7101 sayılı Kanunun 38 inci maddesiyle Onikinci Bap Birinci Bölümden sonra gelmek
-üzere “II. REHİNLİ ALACAKLILARLA MÜZAKERE VE BORÇLARIN YAPILANDIRILMASI” başlığıyla İkinci
-Bölüm eklenmiş, diğer bölümler buna göre teselsül ettirilmiştir.
-106
-
-Adi konkordatoda borçlu, ön projede belirtmek suretiyle, alacaklı lehine rehin tesis
+Adi konkordatoda borçlu, ön projede belirtmek suretiyle, alacaklı lehine rehin tesis
 edilmiş borçlarının yapılandırılmasını bu madde uyarınca talep eder.
 Komiser, kesin mühlet içinde uygun göreceği zamanda bütün rehinli alacaklıları
 borçlunun anapara indirimi, faiz indirimi, vadelendirme veya diğer ödeme tekliflerini
@@ -58,8 +52,7 @@ Bu madde münhasıran adi konkordatoda borçlunun, alacaklı lehine rehin tesis 
 borçlarının yapılandırılması teklifinde bulunması hâlinde uygulanır. 285 ilâ 309/l maddeleri,
 açıkça belirtilmedikçe rehinli alacaklılar hakkında uygulanmaz.
 
-III. İFLÂSTAN SONRA KONKORDATO108109
-Şartları ve hükümleri:
+---
 
 ### Akademik Yorum ve Analiz
 

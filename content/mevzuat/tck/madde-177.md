@@ -15,6 +15,8 @@ Madde 177- (1) Gözetimi altında bulunan hayvanı başkalarının hayatı veya 
 bakımından tehlikeli olabilecek şekilde serbest bırakan veya bunların kontrol altına
 alınmasında ihmal gösteren kişi, altı aya kadar hapis veya adlî para cezası ile cezalandırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

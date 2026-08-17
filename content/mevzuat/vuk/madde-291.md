@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**Esaslar**
+**ÜÇÜNCÜ BÖLÜM
+Servetleri Değerleme
+Esaslar:**
 
 ---
 
@@ -16,6 +18,8 @@ değerlenmesinde bu bölümde yazılı esaslar cari olur.
 Veraset ve intikal Vergisi Kanununun tatbikında yabancı memleketlerde bulunan
 malların o memlekette cari usul ve esaslara göre tayin ve tesbit olunacak değerleri aynen
 nazara alınır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

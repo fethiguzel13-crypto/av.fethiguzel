@@ -11,7 +11,7 @@ wordCount: 4272
 
 ---
 
-Madde 569 - (1) Kuruluşa, anonim şirketlerin kuruluşuna ilişkin hükümler uygulanır.
+MADDE 569- (1) Kuruluşa, anonim şirketlerin kuruluşuna ilişkin hükümler uygulanır.
 
 ---
 

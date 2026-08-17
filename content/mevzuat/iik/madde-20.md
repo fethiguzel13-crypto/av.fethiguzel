@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Müddetlerin değiştirilmemesi**
+**Müddetlerin değiştirilmemesi:**
 
 ---
 
 Madde 20 – Bu kanunun tayin eylediği müddetleri değiştiren bütün mukaveleler
 hükümsüzdür. Ancak her hangi bir müddetin geçmesinden istifade hakkı olan borçlu bu
 hakkından vazgeçebilir. Bu vazgeçme üçüncü şahıslara tesir etmez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

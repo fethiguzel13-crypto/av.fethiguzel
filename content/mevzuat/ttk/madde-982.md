@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**VI
-- İtiraz veya şerhin kalkması**
+**VI- İtiraz veya şerhin kalkması**
 
 ---
 
-Madde 982 - (1) İtiraz veya şerh bir ihtiyati tedbir kararına dayalı olarak tescil edilmişse, tedbirin kalkması veya düşmesiyle itiraz veya şerh de kalkar.
+MADDE 982- (1) İtiraz veya şerh bir ihtiyati tedbir kararına dayalı olarak tescil
+edilmişse, tedbirin kalkması veya düşmesiyle itiraz veya şerh de kalkar.
 
 ---
 

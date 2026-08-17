@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**Türkiye'deki elçilik veya konsolosluklardan tevdi olunan tebligat evrakı**
+**Türkiye'deki elçilik veya konsolosluklardan tevdi olunan tebligat evrakı:**
 
 ---
 
@@ -18,7 +18,8 @@ Bakanlığına tevdi olunan evrak, ilgili vekalet kanalı ile salahiyetli mercie
 muamelesinin ifasını mütaakıp tasdikli olarak aynı yollardan iade edilir.
 Kuzey Kıbrıs Türk Cumhuriyeti’nde konuşlu askeri birlik, karargâh ve
 kurumlardan Türkiye Cumhuriyeti’nde bulunan kişi veya kurumlara yapılacak tebligat
-usulü:
+
+---
 
 ### Akademik Yorum ve Analiz
 

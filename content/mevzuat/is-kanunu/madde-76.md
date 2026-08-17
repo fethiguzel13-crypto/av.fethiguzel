@@ -21,6 +21,8 @@ Nitelikleri dolayısıyla devamlı çalıştıkları için durmaksızın birbiri
 tatillerine ve gece çalışmalarına ve çalışma ortasındaki zorunlu dinlenmelere dair özel usul ve
 esaslar Çalışma ve Sosyal Güvenlik Bakanlığınca hazırlanacak yönetmeliklerle düzenlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

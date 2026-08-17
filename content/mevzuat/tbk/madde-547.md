@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**A. Ticari temsilci
+**ONİKİNCİ BÖLÜM
+Ticari Temsilciler, Ticari Vekiller ve Diğer Tacir Yardımcıları
+A. Ticari temsilci
 I. Tanımı ve yetki verilmesi**
 
 ---
 
-Madde 547 - Ticari temsilci, işletme sahibinin, ticari işletmeyi yönetmek ve
+MADDE 547- Ticari temsilci, işletme sahibinin, ticari işletmeyi yönetmek ve
 işletmeye ilişkin işlemlerde ticaret unvanı altında, ticari temsil yetkisi ile kendisini temsil
 etmek üzere, açıkça ya da örtülü olarak yetki verdiği kişidir.
 İşletme sahibi, ticari temsilcilik yetkisi verildiğini ticaret siciline tescil ettirmek

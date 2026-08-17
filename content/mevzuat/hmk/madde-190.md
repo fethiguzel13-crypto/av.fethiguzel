@@ -17,6 +17,8 @@ vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir.
 ilişkin ispat yükü altındadır. Kanunda öngörülen istisnalar dışında, karşı taraf, kanuni
 karinenin aksini ispat edebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

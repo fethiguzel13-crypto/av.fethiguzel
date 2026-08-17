@@ -7,11 +7,20 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**Madde 432**
+**ALTINCI AYIRIM
+KORUMA AMACIYLA ÖZGÜRLÜĞÜN KISITLANMASI
+A. Koşulları**
 
 ---
 
-Madde 432 - A kıl hastalığı, akıl zayıflığı, alkol v eya uy uşturucu m adde bağımlılığı, ağır tehlike arzeden bulaşıcı hastalık veya serserilik sebeplerinden biriyle toplum için tehlike oluşturan her ergin kişi, kişisel korunmasının başka şekilde sağlanamaması hâlinde, ted avisi, eğitimi veya ıslahı için elveri şli bi r kuru ma yerleştirilir veya alıkonulabilir. Görevlerini yap arlarken bu sebeplerden birinin varlığını öğr enen kamu görevlileri, bu durumu hemen yetkil i vesayet makamına bildirmek zorunda dırlar. Bu konuda kişinin ç evresine getirdiği külfet de göz önünd e tutu lur. İlgili kişi durumu elverir elvermez kurumdan çıkarılır.
+Madde 432- Akıl hastalığı, akıl zayıflığı, alkol veya uyuşturucu madde bağımlılığı, ağır
+tehlike arzeden bulaşıcı hastalık veya serserilik sebeplerinden biriyle toplum için tehlike
+oluşturan her ergin kişi, kişisel korunmasının başka şekilde sağlanamaması hâlinde, tedavisi,
+eğitimi veya ıslahı için elverişli bir kuruma yerleştirilir veya alıkonulabilir. Görevlerini
+yaparlarken bu sebeplerden birinin varlığını öğrenen kamu görevlileri, bu durumu hemen yetkili
+vesayet makamına bildirmek zorundadırlar.
+Bu konuda kişinin çevresine getirdiği külfet de göz önünde tutulur.
+İlgili kişi durumu elverir elvermez kurumdan çıkarılır.
 
 ---
 

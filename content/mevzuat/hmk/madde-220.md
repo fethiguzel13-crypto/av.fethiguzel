@@ -23,7 +23,8 @@ bilmediğine ilişkin yemin teklif edilir.
 ve aynı sürede, delilleriyle birlikte ibraz etmemesi hakkında kabul edilebilir bir mazeret göstermez
 ya da belgenin elinde bulunduğunu inkâr eder ve teklif edilen yemini kabul veya icra etmezse,
 mahkeme, duruma göre belgenin içeriği konusunda diğer tarafın beyanını kabul edebilir.
-Üçüncü kişinin belgeyi ibraz etmemesi
+
+---
 
 ### Akademik Yorum ve Analiz
 

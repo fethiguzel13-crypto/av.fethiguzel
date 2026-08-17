@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**Finansmanı sağlanan sağlık hizmetleri**
+**İKİNCİ BÖLÜM
+Sağlanan Sağlık Hizmetleri ve Diğer Haklar
+Finansmanı sağlanan sağlık hizmetleri ve süresi**
 
 ---
 
@@ -29,6 +31,9 @@ c) Analık sebebiyle ayakta veya yatarak; hekim tarafından yapılacak muayene,
 hekimin göreceği lüzum üzerine teşhis için gereken klinik muayeneler, doğum, laboratuvar
 tetkik ve tahlilleri ile diğer tanı yöntemleri, konulan teşhise dayalı olarak yapılacak tıbbî
 müdahale ve tedaviler, hasta takibi, rahim tahliyesi, tıbbî sterilizasyon ve acil sağlık
+öğrencileri” şeklinde değiştirilmiş ve yine bu fıkraya “sevk tarihi,” ibaresinden sonra gelmek üzere
+“genel sağlık sigortalısı olmayan yedek personelden seferberlik tatbikatları veya eğitimleri
+maksadıyla silah altına alınanların tatbikat ve eğitim sevk tarihi,” ibaresi eklenmiştir.
 hizmetleri, ilgili kanunları gereğince sağlık meslek mensubu sayılanların hekimlerin kararı
 üzerine yapacakları tıbbî bakım ve tedaviler.
 d) (Değişik: 17/4/2008-5754/40 md.) Kişilerin hastalanmaları halinde ayakta veya
@@ -68,7 +73,6 @@ g) (Ek:9/1/2025-7538/7 md.) Uygulamaya ilişkin usul ve esaslar Kurum tarafında
 desteklenen, Sağlık Bakanlığınca izin ve onay verilen kamu hastaneleri ve devlet
 üniversitelerinde yapılan klinik araştırmalarda, araştırma ürünlerinin sağlanması hariç olmak
 üzere, bu madde kapsamında Kurumca finansmanı sağlanan sağlık hizmetleri.
-
 (Değişik fıkra: 6/2/2014-6518/81 md.) Kurum, finansmanı sağlanacak sağlık
 hizmetlerinin teşhis ve tedavi yöntemleri ile (f) bendinde belirtilen sağlık hizmetlerinin
 türlerini, miktarlarını ve kullanım sürelerini, ödeme usul ve esaslarını Aile ve Sosyal
@@ -94,11 +98,13 @@ bendinin (3) ve (5) numaralı alt bentlerinden muaf tutulur.
 (Ek fıkra: 2/1/2017-KHK-681/76 md.; Aynen kabul: 1/2/2018-7073/75 md.) 60 ıncı
 maddenin onikinci fıkrası kapsamında genel sağlık sigortalısı sayılanlara bu maddeye göre
 yöntem, tür, miktar ve kullanım süreleri belirlenen, Kurumca finansmanı sağlanan sağlık
-hizmetleri dışında sunulan sağlık hizmetleri usul ve esasları İçişleri Bakanlığı, Milli
+hizmetleri dışında sunulan sağlık hizmetlerinin usul ve esasları İçişleri Bakanlığı, Milli
 Savunma Bakanlığı ve Kurumca müştereken belirlenir.
 (Değişik fıkra: 6/2/2014-6518/81 md.) Bu maddenin uygulanmasına ilişkin usul ve
 esaslar, Aile ve Sosyal Politikalar Bakanlığı ve Sağlık Bakanlığının görüşü üzerine Kurum
 tarafından çıkarılacak yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**VI. Ödenen senedin g eri verilmesi**
+**VI. Ödenen senedin geri verilmesi**
 
 ---
 
-Madde 928 - Borcun tamamını ödeyen borçlu, alacaklıdan senedin iptal edilme miş olarak geri verilmesini isteyebilir.
+Madde 928 - Borcun tamamını ödeyen borçlu, alacaklıdan senedin iptal edilmemiş olarak
+geri verilmesini isteyebilir.
 
 ---
 

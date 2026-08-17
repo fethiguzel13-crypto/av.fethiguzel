@@ -7,9 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
+**Şapka ve Türk harfleri**
+
+---
+
 Madde 222- (Mülga: 2/3/2014-6529/16 md.)
-ALTINCI BÖLÜM
-Ulaşım Araçlarına veya Sabit Platformlara Karşı Suçlar
+
+---
 
 ### Akademik Yorum ve Analiz
 

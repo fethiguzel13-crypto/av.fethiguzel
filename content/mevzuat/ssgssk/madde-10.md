@@ -17,7 +17,8 @@ sigortalıların mevzuatlarında belirtilen usûle uygun olarak yurt dışına g
 bendinde sayılanların sigortalılığa esas çalışması nedeniyle yurt dışında bulunmaları halinde,
 bu görevleri yaptıkları sürece, sigortalıların ve işverenlerin sosyal sigortaya ilişkin hak ve
 yükümlülükleri devam eder.
-(Mülga ikinci fıkra: 17/4/2008-5754/67 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

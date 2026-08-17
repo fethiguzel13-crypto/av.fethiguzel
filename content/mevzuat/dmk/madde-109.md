@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Memur bilgi sistemi, özlük dosyası:176**
+**BÖLÜM: 6
+Özlük Dosyası
+Memur bilgi sistemi, özlük dosyası:**
 
 ---
 
@@ -22,6 +24,8 @@ derece yükselmelerinde, emekliye ayrılmalarında veya hizmetle ilişkilerinin 
 hizmet gerekleri yanında özlük dosyaları göz önünde bulundurulur.
 Özlük dosyalarının tutulma esasları ile özlük dosyalarında yer alacak belgelere ilişkin
 usûl ve esaslar Devlet Personel Başkanlığınca belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

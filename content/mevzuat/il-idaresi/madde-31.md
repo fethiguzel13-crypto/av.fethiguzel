@@ -11,7 +11,7 @@ wordCount: 4267
 
 ---
 
-Madde 31 –18 A) Kaymakam kanun, Cumhurbaşkanlığı kararnamesi ve diğer
+Madde 31 –A) Kaymakam kanun, Cumhurbaşkanlığı kararnamesi ve diğer
 mevzuatın neşir ve ilanını, uygulanmasını sağlar ve bunların verdiği yetkileri kullanır ve
 ödevleri yerine getirir. Kaymakam, valinin talimat ve emirlerini yürütmekle ödevlidir;
 B) Valiler, ilçeye ait bütün işleri doğrudan doğruya kaymakama yazarlar.
@@ -37,10 +37,7 @@ bu işlerin görülmesiyle yakın ilgisi bulunan herhangi bir idare veya daire b
 isteyebilir. Bu suretle verilen işlerin yapılması mecburidir;
 G) Kaymakam, ilçedeki idare, daire ve müesseselerde çalışan uzman veya fen
 kollarına dahil memur ve müstahdemlerden ilçenin genel ve mahalli hizmetlerine ilişkin
-18 2/7/2018 tarihli ve 703 sayılı KHK’nin 138 inci maddesiyle, bu maddenin (A) fıkrasında yer alan “kanun, tüzük yönetmelik ve Hükümet kararlarının” ibaresi “kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuatın” şeklinde, (C) fıkrasında yer alan “Kanun, tüzük, yönetmelik ve Hükümet kararları ve” ibaresi “Kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile” şeklinde değiştirilmiştir.
-
-
-işlerin görülmesini asli vazifelerine halel getirmemek şartiyle valiliğe teklif suretiyle
+işlerin görülmesini asli vazifelerine halel getirmemek şartiyle valiliğe teklif suretiyle
 istiyebilir. Valilikten alınacak emir üzerine bu memurlar verilen işleri yapmakla ödevlidirler;
 H) Kaymakam, ilçe memurlarının çalışmalarını ve teşkilatın işlemesini gözetim ve
 denetimi altında bulundurur;
@@ -50,7 +47,7 @@ usulüne göre savunmasını aldıktan sonra uyarma, kınama cezaları verir ve 
 disiplin cezaları verilmesi için özel kanunu hükümlerine göre teklif ve talepte bulunabilir.
 Kaymakamlarca re'sen verilen cezalar kesindir.
 Bu cezalar tebliğ tarihinden itibaren sicile geçer.
-Kaymakam, ilçe memurlarına takdirnamede verebilir.19
+Kaymakam, ilçe memurlarına takdirnamede verebilir.
 J) Kaymakam, ilçe idare şube başkanlarına acele hallerde (8 güne kadar) ve tayini
 kendisine ait memurlara, Memurlar Kanunundaki yıllık izin, süresine mahsup edilmek üzere
 bir aya kadar izin verebilir. Tayinleri kaymakama ait olmıyan memur ve müstahdemlere izin
@@ -59,6 +56,9 @@ K) Kaymakamlar, halkın askerlik muameleleri hakkındaki müracaat ve şikayetle
 kabul ederler. Askerlik şubelerine ve dairelerine yazarlar. Cevabı kafi görmedikleri takdirde
 keyfiyeti valiye bildirirler;
 L) Kaymakam, Cumhuriyet Bayramında ilçede yapılacak resmi törenlere başkanlık
+yapar ve tebrikleri kabul eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

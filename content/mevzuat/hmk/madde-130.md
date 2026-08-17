@@ -16,6 +16,8 @@ bentlerinin cevap dilekçesinde eksik olması hâlinde, bunun giderilmesi için 
 bir haftalık süre verilir; eksikliğin bu süre zarfında da giderilmemesi hâlinde cevap dilekçesi
 verilmemiş sayılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

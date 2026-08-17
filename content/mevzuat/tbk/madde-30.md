@@ -13,7 +13,7 @@ I. Yanılma
 
 ---
 
-Madde 30 - Sözleşme kurulurken esaslı yanılmaya düşen taraf, sözleşme ile bağlı
+MADDE 30- Sözleşme kurulurken esaslı yanılmaya düşen taraf, sözleşme ile bağlı
 olmaz.
 
 ---

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Memurlara ödenecek aylık tutarları**
+**Memurlara ödenecek aylık tutarları:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 155 – (Değişik: 31/7/1970 - 1327/56 md.)
 Bu kanunun 36 ncı maddesinde yer alan sınıflara ait gösterge tablosundaki rakamların,
 genel bütçe kanununda o yıl için tespit edilen katsayı ile çarpılması sonunda bulunacak
 miktar, sınıfların derece ve kademelerindeki memurların aylık tutarlarını gösterir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

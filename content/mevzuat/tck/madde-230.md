@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**Birden çok evlilik, hileli evlenme, dinsel tören**
+**SEKİZİNCİ BÖLÜM
+Aile Düzenine Karşı Suçlar
+Birden çok evlilik, hileli evlenme, dinsel tören**
 
 ---
 
@@ -23,6 +25,8 @@ kararının kesinleştiği tarihten itibaren işlemeye başlar.
 sayılı Kararı ile.)
 (6) (İptal: Anayasa Mahkemesi’nin 27/5/2015 tarihli ve E.: 2014/36, K.: 2015/51
 sayılı Kararı ile.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

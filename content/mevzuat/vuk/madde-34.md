@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**İhbarname esası**
+**İhbarname esası:**
 
 ---
 
 Madde 34 – İkmalen ve re'sen tarh edilen vergiler "İhbarname" ile ilgililere tebliğ
 olunur. Nev'i ve doğuşu ayrı olan vergiler için ayrı ihbarname kullanılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

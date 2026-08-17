@@ -13,8 +13,7 @@ wordCount: 4303
 
 MADDE 35 – (1) Bu Kanuna göre faaliyette bulunabilecek sermaye piyasası
 kurumları aşağıda gösterilmiştir:
-
-a) Yatırım kuruluşları
+a) Yatırım kuruluşları
 b) Kolektif yatırım kuruluşları
 c) Sermaye piyasasında faaliyette bulunacak bağımsız denetim, değerleme ve
 derecelendirme kuruluşları
@@ -26,7 +25,8 @@ g) Merkezî takas kuruluşları
 ğ) Merkezî saklama kuruluşları
 h) Veri depolama kuruluşları
 ı) Kuruluş ve faaliyet esasları Kurulca belirlenen diğer sermaye piyasası kurumları
-Kitle fonlama platformları
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**Müstahsil makbuzu**
+**Müstahsil makbuzu:**
 
 ---
 
@@ -16,7 +16,7 @@ ve defter tutmak mecburiyetinde olan çiftçiler gerçek usulde vergiye tabi olm
 satın aldıkları malların bedelini ödedikleri sırada iki nüsha makbuz tanzim etmeye ve
 bunlardan birini imzalıyarak satıcı çiftçiye vermeye ve diğerini ona imzalatarak almaya
 mecburdurlar. Mal tüccar veya çiftçi adına bir adamı veya mutavassıt tarafından alındığı
-takdirde makbuz bunlar tarafından tanzim ve imza olunur.65
+takdirde makbuz bunlar tarafından tanzim ve imza olunur.
 Çiftçiden avans üzerine yapılan mubayaalarda, makbuz, malın teslimi sırasında verilir.
 Müstahsil makbuzunun tüccar vaya alıcı çiftçi nezdinde kalan nüshası fatura yerine
 geçer.
@@ -29,6 +29,8 @@ adı, unvanı ve adresi;
 Bu maddede yazılı makbuzlar hiçbir resim ve harca tabi değildir.
 (Ek: 30/12/1980-2365/38 md.) Müstahsil makbuzları seri ve sıra numarası dahilinde
 teselsül ettirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

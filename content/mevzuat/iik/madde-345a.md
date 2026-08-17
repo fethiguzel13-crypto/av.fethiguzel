@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Sermaye şirketlerinin iflasını istemek mecburiyetinde olanların cezası**
+**olan hakkında hükmolunur
+(İkinci fıkra mülga: 29/6/1956-6763/42 md.)
+Sermaye şirketlerinin iflasını istemek mecburiyetinde olanların cezası:**
 
 ---
 
@@ -16,7 +18,8 @@ Madde 345/a – (Ek: 18/2/1965-538/137 md.; Değişik: 31/5/2005-5358/16 md.)
 maddeye göre şirketin mevcudunun borçlarını karşılamadığını bildirerek şirketin iflasını
 istemezlerse, alacaklılardan birinin şikâyeti üzerine, on günden üç aya kadar hapis cezası ile
 cezalandırılır.
-Artırmadan çekilme:
+
+---
 
 ### Akademik Yorum ve Analiz
 

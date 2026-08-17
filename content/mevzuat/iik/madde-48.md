@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**Zabıt ve müsadere edilen eşyanın paraya çevrilmesi**
+**Zabıt ve müsadere edilen eşyanın paraya çevrilmesi:**
 
 ---
 
 Madde 48 – Devletin cezai ve mali kanunları mucibince zabıt ve müsadere edilmiş
 olan şeylerin paraya çevrilmesi o kanunların hükümlerine göre yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

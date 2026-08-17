@@ -7,28 +7,21 @@ lastReviewed: "2026-07-27"
 wordCount: 3640
 ---
 
-**Demiryolu geçitlerinde:**
+**Demiryolu geçitleri:**
 
 ---
 
-Madde 76 - Demiryolu geçitlerinde:
+Madde 76 – Demiryolu geçitlerinde:
+a) Sürücülerin demiryolu geçitlerini, geçidin durumuna uygun olmayan hızla
+geçmeleri, ışıklı veya sesli işaretin vereceği “DUR” talimatına uymamaları, taşıt yolu üzerine
+indirilmiş veya indirilmekte olan tam veya yarım bariyerler varken geçide girmeleri yasaktır.
+b) Işıklı işaret ve bariyerle donatılmamış demiryolu geçitlerini geçmeden önce,
+sürücülerin durmaları, herhangi bir demiryolu aracının yaklaşmadığına emin olduktan sonra
+geçmeleri zorunludur.
+(Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayan sürücüler 3 600 000
+lira para cezası ile cezalandırılırlar.
 
-a)
-Sürücülerin demiryolu geçitlerini, geçidin durumuna uygun olmayan hızla geçmeleri,
-ışıklı veya sesli işaretin vereceği “DUR” talimatına uymamaları, taşıt yolu üzerine
-indirilmiş veya indirilmekte olan tam veya yarım bariyerler varken geçide girmeleri
-yasaktır.
-
-b)
-Işıklı işaret ve bariyerle donatılmamış demiryolu geçitlerini geçmeden önce, sürücülerin
-durmaları, herhangi bir demiryolu aracının yaklaşmadığına emin olduktan sonra geçmeleri
-zorunludur.
-
-(Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayan sürücüler 3 600 000 lira para
-cezası ile cezalandırılırlar.
-
-Çocuk, hasta ve engelli taşıtları, gözleri görmeyen yayalar,
-yürüyüş kolları:[67]
+---
 
 ### Akademik Yorum ve Analiz
 

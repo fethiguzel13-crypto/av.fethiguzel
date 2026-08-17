@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**Bilinen adreste tebligat**
+**Bilinen adreste tebligat:**
 
 ---
 
@@ -18,6 +18,8 @@ sisteminde bulunan yerleşim yeri adresi, bilinen en son adresi olarak kabul edi
 buraya yapılır.
 Şu kadar ki; kendisine tebliğ yapılacak şahsın müracaatı veya kabulü şartiyle her yerde
 tebligat yapılması caizdir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

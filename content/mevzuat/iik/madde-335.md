@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Kiracının cezalandırılacağı haller**
+**Kiracının cezalandırılacağı haller:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 335 – Üzerlerinde kiralayanın hapis hakkı tanınmış ve 270 inci mad
 mucibince defteri yapılmış eşyayı kaçıran veya gizleyen borçlu ile tahliyesi emrolunan yeri
 kiralayana zarar vermek maksadiyle işgal ettiren şahıs Türk Ceza Kanununun (276) ncı
 maddesine göre cezalandırılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

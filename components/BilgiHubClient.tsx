@@ -140,7 +140,7 @@ export default function BilgiHubClient({
                 <li key={a.slug}>
                   <Link
                     href={`/bilgi/${a.slug}`}
-                    className="block h-full rounded-2xl border border-charcoal/8 bg-white hover:border-accent/35 p-4 transition-colors"
+                    className="block h-full rounded-2xl border border-charcoal/[0.08] bg-white hover:border-accent/35 p-4 transition-colors"
                   >
                     <p className="text-[10px] uppercase tracking-wider text-accent font-semibold mb-1">
                       {a.category}
@@ -198,7 +198,7 @@ export default function BilgiHubClient({
                         window.scrollTo({ top: 0, behavior: 'smooth' });
                       }
                     }}
-                    className="w-full text-left rounded-2xl border border-charcoal/8 bg-white hover:border-accent/30 p-4 transition-colors"
+                    className="w-full text-left rounded-2xl border border-charcoal/[0.08] bg-white hover:border-accent/30 p-4 transition-colors"
                   >
                     <span className="block font-heading font-bold text-charcoal">{c}</span>
                     <span className="block text-xs text-charcoal/55 mt-1">

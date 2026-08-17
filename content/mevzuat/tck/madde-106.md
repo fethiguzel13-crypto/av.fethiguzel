@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**Tehdit51**
+**YEDİNCİ BÖLÜM
+Hürriyete Karşı Suçlar
+Tehdit**
 
 ---
 
@@ -26,6 +28,8 @@ d) Var olan veya var sayılan suç örgütlerinin oluşturdukları korkutucu gü
 İşlenmesi halinde, fail hakkında iki yıldan yedi yıla kadar hapis cezasına hükmolunur.
 (3) Tehdit amacıyla kasten öldürme, kasten yaralama veya malvarlığına zarar verme
 suçunun işlenmesi halinde, ayrıca bu suçlardan dolayı ceza verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

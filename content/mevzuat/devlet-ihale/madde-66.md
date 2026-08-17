@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**Sözleşmenin devri**
+**Sözleşmenin devri:**
 
 ---
 
 Madde 66 – Sözleşme, ita amirinin yazılı izni ile başkasına devredilebilir. Ancak,
 devir alacaklarda ilk ihaledeki şartlar aranır. İzinsiz devir yapılması halinde, sözleşme bozulur
 ve müteahhit veya müşteri hakkında 62 nci madde hükümleri uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

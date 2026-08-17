@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Tapulu taşınmaz mallarda tescil**
+**İKİNCİ BÖLÜM
+Aynın İhtilaflı Olması ve Tescil
+Tapulu taşınmaz mallarda tescil**
 
 ---
 
 Madde 17 – (Mülga: 24/4/2001 - 4650/21 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,27 +7,18 @@ lastReviewed: "2026-07-27"
 wordCount: 3623
 ---
 
-**İntifa hakkı, taşınırlarda zilyetliğin devri, alacaklarda alacağın**
+**II. Kurulması**
 
 ---
 
-Madde 795 - İntifa hakkı, taşınırlarda zilyetliğin devri, alacaklarda alacağın
-devri, taşınmazlarda tapu kütüğüne tescil ile kurulur.
-
-Taşınır
-ve taşınmazlarda intifa hakkının kazanılması ve tescilinde, aksine düzenleme
+Madde 795- İntifa hakkı, taşınırlarda zilyetliğin devri, alacaklarda alacağın devri,
+taşınmazlarda tapu kütüğüne tescil ile kurulur.
+Taşınır ve taşınmazlarda intifa hakkının kazanılması ve tescilinde, aksine düzenleme
 olmadıkça, mülkiyete ilişkin hükümler uygulanır.
+Taşınmaz üzerindeki yasal intifa hakkı tapu kütüğüne tescil edilmemiş olsa bile, durumu
+bilenlere karşı ileri sürülebilir. Tescil edilmiş ise, herkese karşı ileri sürülebilir.
 
-Taşınmaz
-üzerindeki yasal intifa hakkı tapu kütüğüne tescil edilmemiş olsa bile, durumu
-bilenlere karşı ileri sürülebilir. Tescil edilmiş ise, herkese karşı ileri
-sürülebilir.
-
-III.
-Sona ermesi
-
-1.
-Sona erme sebepleri
+---
 
 ### Akademik Yorum ve Analiz
 

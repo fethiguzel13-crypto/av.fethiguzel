@@ -12,7 +12,7 @@ wordCount: 4290
 ---
 
 MADDE 7 – (1) Aşağıdaki yabancılar, kabul edilemeyen yolcu kapsamına alınır ve
-Türkiye’ye girişlerine izin verilmeyerek geri çevrilir:5
+Türkiye’ye girişlerine izin verilmeyerek geri çevrilir:
 a) Pasaportu, pasaport yerine geçen belgesi, vizesi veya ikamet ya da çalışma izni
 olmayanlar ile bu belgeleri veya izinleri hileli yollarla edindiği veya sahte olduğu anlaşılanlar
 b) Vize, vize muafiyeti veya ikamet izin süresinin bitiminden itibaren en az altmış gün
@@ -24,6 +24,8 @@ Tebligatta, yabancıların karara karşı itiraz haklarını etkin şekilde nas�
 bu süreçteki diğer yasal hak ve yükümlülükleri de yer alır.
 (3) (Ek:6/12/2019-7196/70 md.) Bu madde kapsamındaki yabancılar, işlemleri
 sonuçlanıncaya kadar sınır kapılarında kendileri için belirlenen alanlarda bekletilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

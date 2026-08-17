@@ -22,8 +22,7 @@ e) Uyuşturucu veya uyarıcı madde imal ve ticareti (madde 188), uyuşturucu ve
 uyarıcı madde kullanılmasını kolaylaştırma (madde 190).
 f) Parada sahtecilik (madde 197), para ve kıymetli damgaları imale yarayan araçların
 üretimi ve ticareti (madde 200), mühürde sahtecilik (madde 202).
-
-g) Fuhuş (madde 227).
+g) Fuhuş (madde 227).
 h) (Mülga : 26/6/2009 – 5918/1 md.)
 i) Deniz, demiryolu veya havayolu ulaşım araçlarının kaçırılması veya alıkonulması
 (madde 223, fıkra 2, 3) ya da bu araçlara karşı işlenen zarar verme (madde 152) suçları.
@@ -33,7 +32,9 @@ kapsamına giren suçlardan dolayı Türkiye'de yargılama yapılması, Adalet B
 bağlıdır
 (3) Birinci fıkranın (a) ve (b) bentlerinde yazılı suçlar dolayısıyla yabancı bir ülkede
 mahkûmiyet veya beraat kararı verilmiş olsa bile, Adalet Bakanının talebi üzerine Türkiye'de
-yargılama yapılır.3
+yargılama yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

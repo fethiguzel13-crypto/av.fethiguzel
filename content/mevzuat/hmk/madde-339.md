@@ -19,9 +19,8 @@ en çok bir yıl içinde aylık eşit taksitler hâlinde ödenmesine karar veril
 muaf tutulan yargılama giderlerinin tahsilinin, adli yardımdan yararlananın mağduriyetine
 neden olacağı mahkemece açıkça anlaşılırsa, mahkeme, hükümde tamamen veya kısmen
 ödemeden muaf tutulmasına karar verebilir.
-2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “bir hafta” ibaresi
-“iki hafta” şeklinde değiştirilmiştir.
-43
+
+---
 
 ### Akademik Yorum ve Analiz
 

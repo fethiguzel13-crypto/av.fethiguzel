@@ -8,13 +8,13 @@ wordCount: 4303
 ---
 
 **II. Önceki evlilik
-1. Sona erdiğinin is patı
+1. Sona erdiğinin ispatı
 a. Genel olarak**
 
 ---
 
-Madde 130 - Yeniden evlenmek isteyen kimse, önceki evliliğinin sona ermiş o lduğu nu
-is pat etmek zorundadır.
+Madde 130- Yeniden evlenmek isteyen kimse, önceki evliliğinin sona ermiş olduğunu
+ispat etmek zorundadır.
 
 ---
 

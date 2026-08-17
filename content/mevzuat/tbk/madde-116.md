@@ -11,7 +11,7 @@ wordCount: 4304
 
 ---
 
-Madde 116 - Borçlu, borcun ifasını veya bir borç ilişkisinden doğan hakkın
+MADDE 116- Borçlu, borcun ifasını veya bir borç ilişkisinden doğan hakkın
 kullanılmasını, birlikte yaşadığı kişiler ya da yanında çalışanlar gibi yardımcılarına kanuna
 uygun surette bırakmış olsa bile, onların işi yürüttükleri sırada diğer tarafa verdikleri zararı
 gidermekle yükümlüdür.

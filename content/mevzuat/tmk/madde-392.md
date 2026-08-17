@@ -11,7 +11,9 @@ wordCount: 4302
 
 ---
 
-Madde 392 - Malikin, yoksulluğu sebebi yle aile yurduna alınmaya m uhtaç bulunan ve kabullerine engel olacak durumları ol mayan üstsoyunu, altsoyunu ve kardeşlerini yurda kabul etmesine m ahkeme ce karar verilebilir.
+Madde 392- Malikin, yoksulluğu sebebiyle aile yurduna alınmaya muhtaç bulunan ve
+kabullerine engel olacak durumları olmayan üstsoyunu, altsoyunu ve kardeşlerini yurda kabul
+etmesine mahkemece karar verilebilir.
 
 ---
 

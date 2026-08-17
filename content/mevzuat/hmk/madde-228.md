@@ -18,6 +18,8 @@ bir özrü olmaksızın yemin için tayin olunan gün ve saatte mahkemeye bizzat
 gelip de yemini iade etmediği yahut yemini eda etmekten kaçındığı takdirde, yemin konusu
 vakıaları ikrar etmiş sayılacağı yazılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

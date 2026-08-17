@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**Fatura nizamı**
+**satış fişinin bulunması şartıyla sevk irsaliyesi aranmaz.)
+Fatura nizamı:**
 
 ---
 
@@ -28,20 +29,17 @@ ve Maliye Bakanlığı; mal veya hizmetin nev’i, miktarı, fiyatı, tutarı, s
 faaliyet konusu, sektör veya mükellefiyet türünü ayrı ayrı veya birlikte dikkate alarak, bu
 süreyi indirmeye ya da faturanın malın teslim edildiği veya hizmetin yapıldığı anda
 düzenlenmesi zorunluluğu getirmeye yetkilidir. Bu süreler içerisinde düzenlenmeyen faturalar
-hiç düzenlenmemiş sayılır.6061
+hiç düzenlenmemiş sayılır.
 6. (Ek: 4/12/1985-3239/20 md.) Bu Kanunun 232 nci maddesinin birinci fıkrasına
 göre fatura düzenlemek zorunda olanlar, müşterinin adı ve soyadı ile bağlı olduğu vergi
 dairesi ve hesap numarasının doğruluğundan sorumludur. (Ancak bu sorumluluk, aynı
-Bu bentte yer alan "on gün" ibaresi, 25/12/2003 tarihli ve 5035 sayılı Kanunun 48 inci maddesiyle "yedi gün"
-olarak değiştirilmiştir.
-61
-29/4/2021 tarihli ve 7318 sayılı Kanunun 1 inci maddesiyle, bu bendin son cümlesinde yer alan “süre” ibaresi
-“süreler” şeklinde değiştirilmiştir.
-60
-
-maddenin 2 nci fıkrasının uygulandığı halleri kapsamaz.) Fatura düzenleyenin istemesi
+maddenin 2 nci fıkrasının uygulandığı halleri kapsamaz.) Fatura düzenleyenin istemesi
 halinde müşteri kimliğini ve vergi dairesi hesap numarasını gösterir belgeyi ibraz etmek
 zorundadır.
+Bu bentte yer alan "on gün" ibaresi, 25/12/2003 tarihli ve 5035 sayılı Kanunun 48 inci maddesiyle "yedi gün"
+olarak değiştirilmiştir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

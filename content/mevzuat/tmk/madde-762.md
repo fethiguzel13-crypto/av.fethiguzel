@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Madde 762**
+**ÜÇÜNCÜ BÖLÜM
+TAŞINIR MÜLKİYETİ
+A. Konusu**
 
 ---
 
-Madde 762 - Taşınır mülkiy etinin konusu, nitelikleri itibarıyla taşınabilen maddî şeyler ile edinmeye elverişli olan ve taşınmaz mülkiyetinin kapsamına girmeyen doğal güçlerdir.
+Madde 762- Taşınır mülkiyetinin konusu, nitelikleri itibarıyla taşınabilen maddî şeyler ile
+edinmeye elverişli olan ve taşınmaz mülkiyetinin kapsamına girmeyen doğal güçlerdir.
 
 ---
 

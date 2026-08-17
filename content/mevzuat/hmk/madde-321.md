@@ -19,6 +19,8 @@ açıklanması ile gerçekleşir. Ancak zorunlu hâllerde, hâkim bu durumun seb
 geçirmek suretiyle, sadece hüküm özetini tutanağa yazdırarak kararı tefhim edebilir. Bu
 durumda gerekçeli kararın en geç bir ay içinde yazılarak tebliğe çıkartılması gerekir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

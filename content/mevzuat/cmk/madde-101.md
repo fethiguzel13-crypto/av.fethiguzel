@@ -30,6 +30,8 @@ tarafından görevlendirilecek bir müdafiin yardımından yararlanır.
 (4) Tutuklama kararı verilmezse, şüpheli veya sanık derhâl serbest bırakılır.
 (5) Bu madde ile 100 üncü madde gereğince verilen kararlara itiraz edilebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

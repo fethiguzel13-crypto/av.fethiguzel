@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**A. Genel saklama sözleşmesi
+**ONDÖRDÜNCÜ BÖLÜM
+Saklama Sözleşmeleri
+A. Genel saklama sözleşmesi
 I. Tanımı**
 
 ---
 
-Madde 561 - Saklama sözleşmesi, saklayanın, saklatanın kendisine bıraktığı bir
+MADDE 561- Saklama sözleşmesi, saklayanın, saklatanın kendisine bıraktığı bir
 taşınırı güvenli bir yerde koruma altına almayı üstlendiği sözleşmedir.
 Açıkça öngörüldüğü veya durum ve koşullar gerektirdiği takdirde, saklayan ücret
 isteyebilir.

@@ -11,7 +11,7 @@ wordCount: 4313
 
 ---
 
-Madde 260 - Satıcı, alıcının taksitleri ödemede temerrüde düşmesi sebebiyle
+MADDE 260- Satıcı, alıcının taksitleri ödemede temerrüde düşmesi sebebiyle
 satılanın alıcıya devrinden sonra sözleşmeden dönerse, her iki taraf aldığını geri vermekle
 yükümlüdür. Satıcı, ayrıca hakkaniyete uygun bir kullanım bedeli ve satılanın olağandışı
 kullanılması sebebiyle değerinin azalması hâlinde tazminat da isteyebilir. Ancak satıcı,

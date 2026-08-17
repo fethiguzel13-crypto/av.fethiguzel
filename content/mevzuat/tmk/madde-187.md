@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**III. Kadı nın soyad ı**
+**III. Kadının soyadı**
 
 ---
 
-Madde 187 - (İptal cümle ler : Anayasa Mahkemesi’nin 22/2/2023 Tarihl i ve E.: 2022/155, K.: 2023/38 s ayılı Kararı ile . ) B. Birliğin te msili I. Eşlerin temsil yetkisi
+Madde 187- (İptal cümleler: Anayasa Mahkemesi’nin 22/2/2023 Tarihli ve
 
 ---
 

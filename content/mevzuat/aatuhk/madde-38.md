@@ -7,15 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**Taksitlerin zamanında ödenmemesi**
-
----
-
 Madde 38 – (Mülga: 22/7/1998 – 4369/82 md.)
 
-20/6/2001 tarihli ve 4684 sayılı Kanunla bu madde başlığı; “Birleşme, devir ve şekil değiştirme halleri” iken,
-metne işlendiği şekilde değiştirilmiştir.
-10
+---
 
 ### Akademik Yorum ve Analiz
 

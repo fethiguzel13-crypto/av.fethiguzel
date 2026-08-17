@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**Unvanın kullanılması**
+**ÜÇÜNCÜ BÖLÜM
+Arabulucuların Hak ve Yükümlülükleri
+Unvanın kullanılması**
 
 ---
 
@@ -16,6 +18,8 @@ sağladığı yetkileri kullanma hakkına sahiptirler.
 (2) Arabulucu, arabuluculuk faaliyeti sırasında bu unvanını belirtmek zorundadır.
 (3) (Ek: 12/10/2017-7036/19 md.) Daire Başkanlığı, arabulucuların uzmanlık
 alanlarını ve uzmanlığa ilişkin usul ve esasları belirlemeye yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

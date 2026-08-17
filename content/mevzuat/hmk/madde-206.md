@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**İmza atamayanların durumu21**
+**İmza atamayanların durumu**
 
 ---
 
@@ -24,7 +24,9 @@ başlangıcında hesap defterine veya cüzdanına basılmış olması veya önce
 örneği saklanmak üzere onanmış bulunması yeterli olup, her işlemde ayrıca onamaya bağlı
 değildir.
 (4) Yukarıda belirtilen hükümler dairesinde noterlerce onaylanacak veya düzenlenecek
-olan senetler için ilgilisinden harç, vergi ve değerli kâğıt bedeli alınmaz.22
+olan senetler için ilgilisinden harç, vergi ve değerli kâğıt bedeli alınmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

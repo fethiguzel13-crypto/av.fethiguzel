@@ -7,12 +7,20 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**Soruşturmanın gizliliği**
+**İKİNCİ KİTAP
+Soruşturma
+BİRİNCİ KISIM
+Suçlara İlişkin İhbarlar ve Soruşturma
+BİRİNCİ BÖLÜM
+Soruşturmanın Gizliliği, Suçların İhbarı
+Soruşturmanın gizliliği**
 
 ---
 
 Madde 157 – (1) Kanunun başka hüküm koyduğu hâller saklı kalmak ve savunma
 haklarına zarar vermemek koşuluyla soruşturma evresindeki usul işlemleri gizlidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

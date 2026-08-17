@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**III
-- Ödeme**
+**III - Ödeme**
 
 ---
 
-Madde 772 - (1) Vade geldiğinde ödeme, özellikle vadenin geldiği günün ve ödeme tarihinin hesaplanması, bedeli yabancı bir ülke parasıyla gösterilmiş poliçelerin ödenmesi, poliçenin hangi ülkede ödenmesi gerekiyorsa o ülkede ki hukuka göre belirlenir.
+MADDE 772- (1) Vade geldiğinde ödeme, özellikle vadenin geldiği günün ve ödeme
+tarihinin hesaplanması, bedeli yabancı bir ülke parasıyla gösterilmiş poliçelerin ödenmesi,
+poliçenin hangi ülkede ödenmesi gerekiyorsa o ülkedeki hukuka göre belirlenir.
 
 ---
 

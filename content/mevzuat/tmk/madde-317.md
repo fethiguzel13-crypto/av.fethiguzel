@@ -8,12 +8,14 @@ wordCount: 4311
 ---
 
 **E. Evlâtlık ilişkisinin kaldırılması
-I. Seb epleri
+I. Sebepleri
 1. Rızanın bulunmaması**
 
 ---
 
-Madde 317 - Yasal sebep bulunmaksızın rıza alınmamış sa, rızası alınması gereken kişiler, küçüğün menfaati bunun sonuc unda a ğır biçimde zedelenmeyecekse, hâkimden evlâtlık ilişkisinin kaldırılmasını isteyebilirler.
+Madde 317- Yasal sebep bulunmaksızın rıza alınmamışsa, rızası alınması gereken kişiler,
+küçüğün menfaati bunun sonucunda ağır biçimde zedelenmeyecekse, hâkimden evlâtlık ilişkisinin
+kaldırılmasını isteyebilirler.
 
 ---
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**İş kazası, meslek hastalığı, hastalık ve analık sigortasından sağlanan haklar30**
+**İş kazası, meslek hastalığı, hastalık ve analık sigortasından sağlanan haklar**
 
 ---
 
@@ -40,6 +40,8 @@ Emzirme ödeneğine hak kazanan sigortalılardan 9 uncu maddeye göre sigortalı
 erenlerin, bu tarihten başlamak üzere üçyüz gün içinde çocukları doğarsa, sigortalı kadın veya
 eşi analık sigortası haklarından yararlanacak sigortalı erkek, doğum tarihinden önceki onbeş ay
 içinde en az 120 gün prim ödenmiş olması şartıyla emzirme ödeneğinden yararlandırılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

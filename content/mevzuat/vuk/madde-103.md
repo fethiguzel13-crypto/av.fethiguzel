@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**Tebliğin ilanla yapılacağı haller**
+**ÜÇÜNCÜ BÖLÜM
+İlan Yoliyle Tebliğ Usulü
+Tebliğin ilanla yapılacağı haller:**
 
 ---
 
@@ -19,6 +21,8 @@ sayılan bilinen adreste tebliğ yapılamaması hâlinde, muhatabın adres kayı
 bir adresi bulunmazsa,
 3. Yabancı memleketlerde bulunanlara tebliğ yapılmasına imkân bulunmazsa,
 4. Başkaca nedenlerden dolayı tebliğ yapılmasına imkân bulunmazsa.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,11 @@ wordCount: 4293
 
 ---
 
-Madde 999 - Özel mülkiyete tâbi olmayan ve kamunun yararlanmasına ay rılan taşınmazlar, bunlara ilişkin tescili gerekli bir aynî ha kkın kurulması söz konusu olmadıkça kütüğe kaydolunmaz. Tapuya kayıtlı bir taşınmaz, kayda tâbi olmayan bir taşınmaza dönüşürse, tapu sicilinden çıkarılır.
+Madde 999- Özel mülkiyete tâbi olmayan ve kamunun yararlanmasına ayrılan
+taşınmazlar, bunlara ilişkin tescili gerekli bir aynî hakkın kurulması söz konusu olmadıkça
+kütüğe kaydolunmaz.
+Tapuya kayıtlı bir taşınmaz, kayda tâbi olmayan bir taşınmaza dönüşürse, tapu sicilinden
+çıkarılır.
 
 ---
 

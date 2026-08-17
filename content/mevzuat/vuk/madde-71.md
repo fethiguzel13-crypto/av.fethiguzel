@@ -7,7 +7,7 @@ lastReviewed: "2026-07-11"
 wordCount: 2653
 ---
 
-**Tadilat neticelerinin uygulanması**
+**Tadilat neticelerinin uygulanması:**
 
 ---
 
@@ -29,13 +29,12 @@ bu değişikliğin vuku bulduğu;
 5. Yanan, yıkılan ve sair sebeplerle tamamen veya kısmen harap olan binalarda ve
 ifraz ve taksim edilen birleştirilen bina ve arazide bu olayların vuku bulduğu;
 6. Hal ve heyeti değişen arazide değişikliğin rastladığı;
-
-7. Binanın mütemmimi durumunda olan arazinin mütemmimlik durumundan çıkması,
+7. Binanın mütemmimi durumunda olan arazinin mütemmimlik durumundan çıkması,
 bir arazi ve arsanın bina mütemmimi durumuna girmesi hallerinde bu değişikliğin vuku
 bulduğu;
 tarihi takip eden mali yıldan başlıyarak yürürlüğe konulur.
-DÖRDÜNCÜ KISIM
-Takdir, Zirai Kazançlar ve Özel Komisyonları14
+
+---
 
 ### Akademik Yorum ve Analiz
 

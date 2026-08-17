@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
-**5. Yetkilerin genişletilmesi veya daralt ılması**
+**5. Yetkilerin genişletilmesi veya daraltılması**
 
 ---
 
-Madde 282 - (1) Tasfiye memurlarının kanunen haiz oldukları yetkiler, ortaklar tarafından oybirliğiyle veya haklı sebeplerin bulunması durumunda mahkeme kararı ile daraltılıp genişletilebilir. (2) Tescil ve ilan olunmadıkça yetkilerin daraltılması, iyiniyetli üçüncü kişilere ileri sürülemez.
+MADDE 282- (1) Tasfiye memurlarının kanunen haiz oldukları yetkiler, ortaklar
+tarafından oybirliğiyle veya haklı sebeplerin bulunması durumunda mahkeme kararı ile
+daraltılıp genişletilebilir.
+(2) Tescil ve ilan olunmadıkça yetkilerin daraltılması, iyiniyetli üçüncü kişilere ileri
+sürülemez.
 
 ---
 

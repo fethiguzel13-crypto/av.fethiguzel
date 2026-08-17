@@ -17,6 +17,8 @@ tablolarını ve bu tabloların uygun araçlarla yayınlandığına dair belgeyi
 iştiraklerinin malî tabloları ile yönetmelikle belirlenecek diğer bilgileri içeren beyannameyi
 her takvim yılının ilk altı ayı içerisinde Genel Müdürlüğe verir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

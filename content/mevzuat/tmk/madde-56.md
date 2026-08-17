@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4263
 ---
 
-**Madde 56**
+**İKİNCİ BÖLÜM
+DERNEKLER
+A. Kuruluşu
+I. Tanımı**
 
 ---
 
-Madde 56 - Dernekler, gerçek veya tüzel en az yedi kişinin kaz anç paylaşma dışında belirli ve ortak bir amacı gerç ekleştirmek üzere, bilgi ve çalışmalarını s ürekl i olarak birleştirmek suretiyle oluşturdukları, tüzel kişiliğe sahip kişi topluluklarıdır. 4 Hukuka veya ahlâka aykırı amaçlarla dernek kurulamaz.
+Madde 56- Dernekler, gerçek veya tüzel en az yedi kişinin kazanç paylaşma dışında
+belirli ve ortak bir amacı gerçekleştirmek üzere, bilgi ve çalışmalarını sürekli olarak birleştirmek
+suretiyle oluşturdukları, tüzel kişiliğe sahip kişi topluluklarıdır.
+Hukuka veya ahlâka aykırı amaçlarla dernek kurulamaz.
 
 ---
 

@@ -16,6 +16,8 @@ olurlarsa, tahkim yargılamasına son verilir. Tarafların talebi, ahlâka veya 
 aykırı değilse ya da tahkime elverişli olan bir konuya ilişkin ise sulh, hakem kararı olarak
 tespit edilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -11,10 +11,7 @@ wordCount: 4288
 
 ---
 
-Madde 649 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-6098 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER
-1- 31/3/2011 tarihli ve 6217 sayılı Kanunun hükmüdür:
-GEÇİCİ
+MADDE 649- Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
 ---
 

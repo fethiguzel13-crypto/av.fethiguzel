@@ -11,7 +11,7 @@ wordCount: 4259
 
 ---
 
-Madde 266 - Alıcı satış bedelinin tamamını ödedikten sonra, her zaman malın
+MADDE 266- Alıcı satış bedelinin tamamını ödedikten sonra, her zaman malın
 kendisine devredilmesini isteyebilir. Ancak, satıcı malı başkasından sağlayarak devredecek
 ise alıcı, bunun için kendisine uygun bir süre tanımak zorundadır.
 Satıcının malı alıcıya devredebilmesi için, taksitle satışa ilişkin koşullara uyulması gerekir.

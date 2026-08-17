@@ -13,7 +13,7 @@ I. Kira bedelini ödeme borcu
 
 ---
 
-Madde 313 - Kiracı, kira bedelini ödemekle yükümlüdür.
+MADDE 313- Kiracı, kira bedelini ödemekle yükümlüdür.
 
 ---
 

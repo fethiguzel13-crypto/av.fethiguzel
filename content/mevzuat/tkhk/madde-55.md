@@ -26,6 +26,8 @@ ithalatçıya; tüketiciye verilmesi ve teslim edildiğinin ispat sorumluluğu i
 ve bunlarda bulunması gereken asgari unsurlar ile diğer uygulama usul ve esasları
 yönetmelikle belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

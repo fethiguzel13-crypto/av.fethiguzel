@@ -11,7 +11,11 @@ wordCount: 4318
 
 ---
 
-Madde 1005 - Birden çok bölgede bulunan taşınmaz, diğer bölge sicillerine kayıtlı olduğu belirtilmek suretiyle her bölgedeki sicile ayrı ayrı kaydedilir. Böyle bir taşınmaza ilişkin tescil istemler i ve tescil işlemleri taşınmazın büyük kısmının bulunduğu bölgede yapılır ve yapılan tesci l kütüğe işlenmek üzere diğer bölgelerdeki tapu idarelerine bildirilir.
+Madde 1005- Birden çok bölgede bulunan taşınmaz, diğer bölge sicillerine kayıtlı olduğu
+belirtilmek suretiyle her bölgedeki sicile ayrı ayrı kaydedilir.
+Böyle bir taşınmaza ilişkin tescil istemleri ve tescil işlemleri taşınmazın büyük kısmının
+bulunduğu bölgede yapılır ve yapılan tescil kütüğe işlenmek üzere diğer bölgelerdeki tapu
+idarelerine bildirilir.
 
 ---
 

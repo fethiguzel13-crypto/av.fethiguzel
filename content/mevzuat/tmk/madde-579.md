@@ -11,7 +11,8 @@ wordCount: 4296
 
 ---
 
-Madde 579 - Mirastan yoksunluk, yalnız yoksun olanı etkiler. Mirastan yoksun olanın altsoyu, mirasbırakandan ö nce ölen kimsenin altsoyu gibi mirasçı olur.
+Madde 579- Mirastan yoksunluk, yalnız yoksun olanı etkiler.
+Mirastan yoksun olanın altsoyu, mirasbırakandan önce ölen kimsenin altsoyu gibi mirasçı olur.
 
 ---
 

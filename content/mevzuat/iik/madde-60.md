@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**1 – Ödeme emri ve muhtevası**
+**VI. ÖDEME EMRİ VE İTİRAZ
+1 – Ödeme emri ve muhtevası:**
 
 ---
 
@@ -30,8 +31,7 @@ verileceği,
 Borcun tamamına veya bir kısmına yahut alacaklının takibat icrası hakkına dair bir
 itirazı varsa bunu da aynı süre içinde beyan etmesi,
 İhtarını,
-
-4. Senet veya borca itirazını bildirmediği takdirde yukarda yazılı yedi günlük süre
+4. Senet veya borca itirazını bildirmediği takdirde yukarda yazılı yedi günlük süre
 içinde 74 üncü maddeye göre mal beyanında bulunması ve bulunmazsa hapisle tazyik
 olunacağı; mal beyanında bulunmaz veya hakikate aykırı beyanda bulunursa ayrıca hapisle
 cezalandırılacağı ihtarını,
@@ -41,6 +41,8 @@ cezalandırılacağı ihtarını,
 dosyasına konulur. Alacaklı isterse kendisine ayrıca tasdikli bir nüsha verilir. Nüshalar
 arasında fark bulunduğu takdirde borçludaki muteber sayılır.
 Alacaklıya verilen nüsha hiçbir resim ve harca tabi değildir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

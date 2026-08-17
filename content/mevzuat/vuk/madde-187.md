@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Bina ve arazinin envantere alınması**
+**Bina ve arazinin envantere alınması:**
 
 ---
 
@@ -19,6 +19,8 @@ tamamen kullanılsınlar - değerlerinin tamamı üzerinden envantere alınır.
 apartmanların yarısından fazlası işletmede kullanıldığı takdirde envantere ithal edilir.
 3. Envantere alınan gayrimenkullerin kullanış tarzlarında sonradan vakı olacak
 değişiklikler, hesap yılı içinde nazara alınmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

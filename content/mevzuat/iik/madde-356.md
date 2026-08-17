@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**Yukarıdaki maddeye riayet etmeyenler hakkında hükümler**
+**Yukarıdaki maddeye riayet etmeyenler hakkında hükümler:**
 
 ---
 
@@ -18,6 +18,8 @@ Bunların borçluya kanun hükümleri dairesinde rücu hakkı vardır.
 Yukarki madde hükümlerine riayet etmiyen her hangi bir memur veya amir hakkında
 istenecek malümatın icra dairesine hemen verilmesi bunların mensup olduğu dairenin
 vazifesidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**İşkence**
+**ÜÇÜNCÜ BÖLÜM
+İşkence ve Eziyet
+İşkence**
 
 ---
 
@@ -27,6 +29,8 @@ kadar hapis cezasına hükmolunur.
 (5) Bu suçun ihmali davranışla işlenmesi halinde, verilecek cezada bu nedenle indirim
 yapılmaz.
 (6) (Ek: 11/4/2013-6459/9 md.) Bu suçtan dolayı zamanaşımı işlemez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

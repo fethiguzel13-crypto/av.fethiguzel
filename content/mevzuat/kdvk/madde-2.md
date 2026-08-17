@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**Teslim**
+**Teslim:**
 
 ---
 
@@ -27,7 +27,9 @@ maddelerin geri verilmesinde de aynı hüküm uygulanır.
 5. Trampa iki ayrı teslim hükmündedir. (Ek cümle: 29/3/2018-7104/1 md.) Bu
 Kanunun uygulanmasında arsa karşılığı inşaat işlerinde; arsa sahibi tarafından konut veya
 işyerine karşılık müteahhide arsa payı teslimi, müteahhit tarafından arsa payına karşılık arsa
-sahibine konut veya işyeri teslimi yapılmış sayılır.1
+sahibine konut veya işyeri teslimi yapılmış sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

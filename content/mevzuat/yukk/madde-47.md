@@ -14,6 +14,8 @@ wordCount: 4271
 MADDE 47 – (1) İnsani ikamet izni Bakanlığın onayı alınmak kaydıyla, iznin
 verilmesini zorunlu kılan şartlar ortadan kalktığında valiliklerce iptal edilir ve uzatılmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

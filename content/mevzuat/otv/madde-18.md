@@ -34,9 +34,7 @@ yürürlükten kaldırılmıştır.
 Geçici Madde 1 – Bu Kanunun yürürlüğe girdiği tarihten önce teslimi, iktisabı veya ithali
 gerçekleşen mallara ait vergi, harç, fon ve paylar, bu işlemlerin gerçekleştiği tarihte yürürlükte
 bulunan hükümlere göre tahsil edilir. Maliye Bakanlığı, vergi mükerrerliğini önlemek amacıyla
-
-
-bu Maddenin uygulanmasına ilişkin usul ve esasları belirlemeye yetkilidir.
+bu Maddenin uygulanmasına ilişkin usul ve esasları belirlemeye yetkilidir.
 Geçici Madde 2 – Bu Kanuna ekli (II) sayılı listedeki mallardan ilgili mevzuatı gereğince
 Türkiye’de kayıt ve tescil edilmiş olanların, bu Kanunun yayımlandığı tarihten itibaren
 iktisabında veya vekaletname ile tasarruf hakkının devralınmasında 1318 sayılı Finansman
@@ -66,18 +64,15 @@ Geçici Madde 4 – (Ek: 21/4/2005-5335/20 md.)
 24.11.1994 tarihli ve 4046 sayılı Kanun kapsamına alınan kuruluşlara ait malların, aynı
 Kanun hükümleri kapsamında devredilmesi halinde vergiyi doğuran olay, bu malların devralanlar
 tarafından tesliminde gerçekleşir ve özel tüketim vergisinin mükellefi bu teslimi gerçekleştirenlerdir.
-Geçici Madde 5 – (Ek: 9/7/2008-5784/10 md.)4041
-40 Bu maddenin birinci fıkrasında yer alan “31/12/2012” ibaresi, 22/1/2013 tarihli ve 6408 sayılı Kanunun 4 üncü maddesiyle “31/12/2019” şeklinde değiştirilmiştir. 41 21/3/2018 tarihli ve 7103 sayılı Kanunun 62 nci maddesiyle, bu maddede yer alan “2710.19.61.00.11, 2710.19.63.00.11, 2710.19.65.00.11 ve 2710.19.69.00.11 G.T.İ.P. numaralı” ibaresi “2710.19.62.00.10, 2710.19.62.00.11, 2710.19.64.00.10, 2710.19.64.00.11 ve 2710.19.68.00.11 G.T.İ.P. numaralı” şeklinde ve
-
-
-31/12/2019 tarihine kadar, Kanuna ekli (І) sayılı listenin (A) cetvelinde yer alan
+Geçici Madde 5 – (Ek: 9/7/2008-5784/10 md.)
+31/12/2019 tarihine kadar, Kanuna ekli (І) sayılı listenin (A) cetvelinde yer alan
 2710.19.62.00.10, 2710.19.62.00.11, 2710.19.64.00.10, 2710.19.64.00.11 ve 2710.19.68.00.11
 G.T.İ.P. numaralı malların yalnızca elektrik üretiminde kullanılmak üzere teslimi ile birincil yakıtı
 doğalgaz ve ikincil yakıtı akaryakıt olan santrallara Enerji ve Tabii Kaynaklar Bakanlığı talimatı veya
 onayı ile Kanuna ekli (I) sayılı listenin (A) cetvelinde yer alan 2710.19.43.00.11 ve 2710.20.11.00.11
 G.T.İ.P. numaralı malların aynı amaçla kullanılmak üzere teslimi vergiden müstesnadır.
 Bu maddenin uygulanmasına ilişkin usul ve esasları Maliye Bakanlığı belirlemeye yetkilidir.
-Geçici Madde 6 – (Ek: 16/6/2009-5904/19 md.)4243
+Geçici Madde 6 – (Ek: 16/6/2009-5904/19 md.)
 31/12/2033 tarihine kadar, bu Kanuna ekli (IV) sayılı listede yer alan 8517.12.00.00.11
 G.T.İ.P. numaralı malların karşısında gösterilen orana göre hesaplanan verginin, bu malların her
 bir adedi için 160 Türk Lirasından az olması halinde, orana göre hesaplanan vergi yerine her bir
@@ -86,7 +81,9 @@ alan tutarlar, her yıl bir önceki yıla ilişkin olarak 213 sayılı Vergi Usu
 belirlenen yeniden değerleme oranında artırılmak suretiyle uygulanır. Hesaplanan tutarın 1 lirayı
 aşmayan kesirleri dikkate alınmaz. Cumhurbaşkanı bu tutarı veya yeniden değerleme oranı
 uygulanmak suretiyle belirlenmiş olan tutarı sıfıra kadar indirmeye, üç katına kadar artırmaya
-yetkilidir.44
+Bu maddenin birinci fıkrasında yer alan “31/12/2012” ibaresi, 22/1/2013 tarihli ve 6408 sayılı
+Kanunun 4 üncü maddesiyle “31/12/2019” şeklinde değiştirilmiştir.
+yetkilidir.
 Geçici Madde 7 – (Ek: 20/8/2016-6745/54 md.)
 Bu Kanuna ekli (II) sayılı Listenin 87.02 ve 87.03 tarife pozisyon sıraları kapsamındaki
 taşıtlarla yapılan şehiriçi taksi, dolmuş, servis, minibüs, midibüs ve otobüs taşımacılığı faaliyeti
@@ -98,11 +95,8 @@ suretiyle maliki olduğu taşıtlar vasıtasıyla icra eden gerçek ve tüzel ki
 faaliyetler kapsamında kullanılan taşıtların yenilenmesi amacıyla, aynı tarife pozisyon sıraları
 kapsamındaki taşıtların (87.03 tarife pozisyon sırası kapsamındaki; yarış arabaları, arazi taşıtları,
 ATV olarak adlandırılan üç veya dört tekerlekli taşıtlar, motorlu karavanlar ile motor silindir
-hacmi 1600 cm3’ü geçen binek otomobilleri hariç) bu maddenin yürürlüğe girdiği tarihten
-“2710.19.41.00.11, 2710.19.41.00.13 ve 2710.19.45.00.12 G.T.İ.P. numaralı” ibaresi “2710.19.43.00.11 ve 2710.20.11.00.11 G.T.İ.P. numaralı” şeklinde değiştirilmiştir. 42 24/5/2013 tarihli ve 6487 sayılı Kanunun 29 uncu maddesi ile bu maddede yer alan “31/12/2013” ibaresi “31/12/2023” şeklinde değiştirilmiştir. 43 20/8/2016 tarihli ve 6745 sayılı Kanunun 53 üncü maddesiyle, bu maddede yer alan “40” ibareleri “160” şeklinde değiştirilmiştir. 44 27/12/2023 tarihli ve 7491 sayılı Kanunun 45 inci maddesi ile bu fıkrada yer alan “31/12/2023” ibaresi “31/12/2033” şeklinde, “bu tutarı” ibaresi “bu tutarı veya yeniden değerleme oranı uygulanmak suretiyle belirlenmiş olan tutarı” şeklinde değiştirilmiştir.
-
-
-30/6/2019 tarihine kadar (bu tarih dâhil) ilk iktisabı vergiden müstesnadır.
+hacmi 1600 cm’ü geçen binek otomobilleri hariç) bu maddenin yürürlüğe girdiği tarihten
+30/6/2019 tarihine kadar (bu tarih dâhil) ilk iktisabı vergiden müstesnadır.
 Bu düzenlemeden, bu maddenin yürürlüğe girdiği tarih itibarıyla maliki olunan, trafik
 tescil kuruluşlarınca ticari yolcu veya yük taşımacılığında kullanılmak üzere kayıt ve tescil
 edilmiş her bir taşıt bakımından, aynı cins bir taşıtın ilk iktisabında yararlanılır.
@@ -140,6 +134,8 @@ Standardında yer alan “Tek tütün çeşidinden üretilen sarmalık kıyılm�
 belirlemeye, bu ürünlerin denetim ve kontrolünü sağlamaya Tarım ve Orman Bakanlığı; bu
 maddenin uygulamasına ilişkin usul ve esasları belirlemeye Hazine ve Maliye Bakanlığı
 yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

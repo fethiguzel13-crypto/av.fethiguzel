@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Pay cetvelinin iflas dairesine bırakılması**
+**Pay cetvelinin iflas dairesine bırakılması:**
 
 ---
 
 Madde 249 – Pay cetveli ve son hesap iflas dairesine bırakılır ve orada on gün kalır.
 İflas idaresince bırakılma keyfiyeti ve payının miktarı her alacaklıya bildirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

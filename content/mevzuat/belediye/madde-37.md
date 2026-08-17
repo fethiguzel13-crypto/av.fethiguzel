@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**Belediye başkanı**
+**ÜÇÜNCÜ BÖLÜM
+Belediye Başkanı
+Belediye başkanı**
 
 ---
 
@@ -16,6 +18,8 @@ temsilcisidir. Belediye başkanı, ilgili kanunda gösterilen esas ve usûllere 
 Belediye başkanı, görevinin devamı süresince siyasî partilerin yönetim ve denetim
 organlarında görev alamaz; profesyonel spor kulüplerinin başkanlığını yapamaz ve yönetiminde
 bulunamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

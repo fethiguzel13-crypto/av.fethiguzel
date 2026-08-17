@@ -14,6 +14,8 @@ wordCount: 4260
 MADDE 230- (1)Yeminin konusunu oluşturan vakıa, her iki tarafın değil, yalnızca
 kendisine yemin teklif edilen tarafın şahsından kaynaklanıyorsa yemin iade edilemez
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -12,7 +12,7 @@ wordCount: 4259
 
 ---
 
-Madde 442 - Sözleşmenin sona ermesiyle, sözleşmeden doğan bütün borçlar
+MADDE 442- Sözleşmenin sona ermesiyle, sözleşmeden doğan bütün borçlar
 muaccel olur.
 Muacceliyet anı, işçinin aracılığı suretiyle kurulan hukuki ilişkilerde üçüncü kişinin
 üstlendiği borç, hizmet sözleşmesinin sona ermesinden sonra tamamen veya kısmen ifa

@@ -11,7 +11,7 @@ wordCount: 4262
 
 ---
 
-Madde 213 - Borcunu ifa etmeyen satıcı, alıcının bu yüzden uğradığı zararı gidermekle
+MADDE 213- Borcunu ifa etmeyen satıcı, alıcının bu yüzden uğradığı zararı gidermekle
 yükümlüdür.
 Satıcı borcunu ifa etmezse alıcı, satış bedeli ile kendisine devredilmeyen satılanın
 yerine, bir başkasını satın almak için dürüstlük kurallarına uygun olarak ödediği bedel

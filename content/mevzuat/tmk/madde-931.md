@@ -12,8 +12,9 @@ I. Genel olarak**
 
 ---
 
-Madde 931 - Seri hâlinde çıkarıla n ipotekli borç senetleri ile irat senetleri hakkında, aşağıda ki hükümler saklı kalmak kaydıyla, ipotekli borç senedi ve irat senedine ilişkin genel
-hük ümler uygulanır.
+Madde 931- Seri hâlinde çıkarılan ipotekli borç senetleri ile irat senetleri hakkında,
+aşağıdaki hükümler saklı kalmak kaydıyla, ipotekli borç senedi ve irat senedine ilişkin genel
+hükümler uygulanır.
 
 ---
 

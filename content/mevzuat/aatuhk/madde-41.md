@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Hususi ödeme şekilleri:12**
+**Hususi ödeme şekilleri:**
 
 ---
 
@@ -17,20 +17,7 @@ postaneler vasıta kılınmak suretiyle ödenebilir.
 Maliye Vekaleti bu madde gereğince ödeme yapılmasını ihtiyar ettiği takdirde,
 ödemenin:
 1. Çizgili çek kullanılmak suretiyle,
-31/5/2012 tarihli ve 6322 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan "bu yerin belediye sınırları
-dışındaki" ibaresi "diğer" şeklinde değiştirilmiştir.
-12
-30/7/2003 tarihli ve 4962 sayılı Kanunun 2 nci maddesiyle;
-a) Üçüncü fıkraya, "veya banka kartı, kredi kartı ve benzeri kartlar kullanımı karşılığı olarak ödenmesi gereken"
-ibaresi ve "kredi kartı ile yapılan ödemelerde, işlem tarihini takip eden günden itibaren azami 20,"; beşinci
-fıkrasına "veya banka kartı, kredi kartı ve benzeri kartlar kullanımı karşılığı olarak ödenmesi gereken"; altıncı
-fıkrasına "veya banka kartı, kredi kartı ve benzeri kartlar kullanımından dolayı ödeme yapması gereken"
-ibareleri eklenmiştir.
-b) Dördüncü fıkrası “Maliye ve Gümrük Bakanlığı bu süreyi aşmamak üzere bankalar itibariyle farklı süreler
-tayin etmeye yetkilidir.” iken metne işlendiği şekilde değiştirilmiştir.
-11
-
-2. Mükellef hesabından aynı bankadaki ilgili vergi dairesi veya Merkez Bankası
+2. Mükellef hesabından aynı bankadaki ilgili vergi dairesi veya Merkez Bankası
 hesabına münakale suretiyle,
 3. Vergi dairelerinin veya Merkez Bankasının hesabı bulunan bankalara bu daireler
 hesabına ödeme suretiyle,
@@ -57,21 +44,20 @@ banka kartı, kredi kartı ve benzeri kartlar kullanımından dolayı ödeme yap
 şube müdürleri, tahsil edilen paraların belirlenen sürelerde T.C. Merkez Bankasına
 aktarılmasından, postane veya posta çek merkezi müdürleri ise postane vasıta kılınarak
 yapılan ödemelerin belirlenen sürelerde ilgili vergi dairelerine intikal ettirilmesinden
-sorumludurlar.13
+sorumludurlar.
 (Ek: 31/1/1984 - 2975/1 md.; Değişik: 24/3/1988 - 3418/34 md.; İptal: Anayasa
 Mahkemesinin 23/3/2004 tarihli ve E. 2001/119 , K. 2004/37 sayılı Kararı ile.)
 (Ek: 30/7/2003-4962/2 md.) Bankalar amme alacaklarının kredi kartı, banka kartı ve
 benzeri kartlar ile ödenmesi sırasında amme borçlusundan komisyon alabilirler. Maliye
 Bakanlığı, kredi kartı, banka kartı ve benzeri kartlar kullanılmak suretiyle yapılacak
 ödemelerde komisyon ödenmemesi için amme alacağının vade tarihinden (bu tarih dahil)
-azami 20 gün öncesine kadar belirlenecek bir sürede ödeme yapılması şartını getirmeye,
-
 Bu fıkrada yer alan “postane ve posta çek merkezleri müdürleri” ile ilgili olarak 2/3/1950 tarihli ve 5584
 sayılı Kanunun Mükerrer 66 ncı maddesine bakınız.
-13
+azami 20 gün öncesine kadar belirlenecek bir sürede ödeme yapılması şartını getirmeye,
+ödemelerin; komisyonsuz veya komisyon karşılığı yapılma şekillerinden birini veya her
+ikisini birlikte kullandırmaya yetkilidir.
 
-ödemelerin; komisyonsuz veya komisyon karşılığı yapılma şekillerinden birini veya her
-ikisini birlikte kullandırmaya yetkilidir.14
+---
 
 ### Akademik Yorum ve Analiz
 

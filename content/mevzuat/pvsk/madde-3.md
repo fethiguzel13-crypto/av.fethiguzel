@@ -7,11 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**sorumluluk emri verene aittir.7**
+Madde 3 – (Mülga: 2/6/2007-5681/6 md.)
 
 ---
-
-Madde 3 – (Mülga: 2/6/2007-5681/6 md.)
 
 ### Akademik Yorum ve Analiz
 

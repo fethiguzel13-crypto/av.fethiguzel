@@ -7,16 +7,19 @@ lastReviewed: "2026-07-20"
 wordCount: 4281
 ---
 
-**Kurula şikâyet**
+**Kurula şikâyet
+(1) Başvurunun reddedilmesi, verilen cevabın yetersiz bulunması veya**
 
 ---
 
-MADDE 14- (1) Başvurunun reddedilmesi, verilen cevabın yetersiz bulunması veya
+MADDE 14-
 süresinde başvuruya cevap verilmemesi hâllerinde; ilgili kişi, veri sorumlusunun cevabını
-öğrenildiği tarihten itibaren otuz ve her hâlde başvuru tarihinden itibaren altmış gün içinde
+öğrendiği tarihten itibaren otuz ve her hâlde başvuru tarihinden itibaren altmış gün içinde
 Kurula şikâyette bulunabilir.
 (2) 13 üncü madde uyarınca başvuru yolu tüketilmeden şikâyet yoluna başvurulamaz.
 (3) Kişilik hakları ihlal edilenlerin, genel hükümlere göre tazminat hakkı saklıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

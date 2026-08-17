@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4285
 ---
 
-**Şartnameler**
+**Şartnameler:**
 
 ---
 
@@ -26,9 +26,7 @@ f) İsteklilerde aranılan şartlar ve belgeler,
 g) İhaleyi yapıp yapmamakta ve uygun bedeli tespitte idarenin serbest olduğu,
 h) İhale kararının karar tarihinden itibaren en geç 15 işgünü içinde ita amirince
 onaylanacağı veya iptal edilebileceği,
-
-
-i) Vergi, resim ve harçlarla sözleşme giderlerinin kimin tarafından ödeneceği,
+i) Vergi, resim ve harçlarla sözleşme giderlerinin kimin tarafından ödeneceği,
 j) Ödeme yeri ve şartlarıyla avans verilip verilmeyeceği, verilecekse şartları ve
 miktarı,
 k) Sözleşme konusu işlerin malzeme veya birim fiyatlarındaki değişiklikler nedeniyle
@@ -37,6 +35,8 @@ l) Süre uzatımı verilebilecek haller ve şartları,
 m) İşin süresinden önce bitirilmesinde fayda görülen hallerde erken bitirme primi
 verilecekse miktarı, şartları ve ödeme şekli,
 n) İhtilafların çözüm şekli.
+
+---
 
 ### Akademik Yorum ve Analiz
 

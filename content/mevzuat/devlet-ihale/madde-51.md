@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4278
 ---
 
-**Pazarlık usulüyle yapılacak işler**
+**Pazarlık usulüyle yapılacak işler:**
 
 ---
 
@@ -18,7 +18,7 @@ Kanunun 1 inci maddesinde gösterilen işler,
 b) Silahlı Kuvvetlerin manevra ve planlı tatbikatlarının gerektirdiği ve acele olarak
 temini zorunlu her türlü ihtiyaçları; Silahlı Kuvvetler için Genelkurmay Başkanlığınca,
 güvenlik kuvvetleri için İçişleri Bakanlığınca tespit edilecek özel durumlardaki her türlü
-ihtiyaçları ve taşıma işleri,14
+ihtiyaçları ve taşıma işleri,
 c) (Değişik: 2/3/1984 - 2990/8 md.) Önceden düşünülmesi mümkün olmayan ani ve
 beklenmeyen olayların ortaya çıkması üzerine acele olarak yapılması gerekip, kapalı veya
 açık teklif usulünün uygulanmasına yeterli süre bulunmayan işler; diğer ihale usulleriyle
@@ -38,11 +38,8 @@ hüküm ve tasarrufu altındaki yerlerin kiralanması ve mülkiyetin gayri ayni 
 h) (Değişik: 3/7/2003-4916/20 md.) Hazinenin veya Devlet Su İşleri Genel
 Müdürlüğünün mülkiyetinde veya Devletin hüküm ve tasarrufu altında bulunan yerlerdeki
 baraj, dalyan, voli yerleri, göller, havuzlar, nehirler ve nehir ağızlarındaki av yerleri ile deniz
-14 2/7/2018 tarihli ve 700 sayılı KHK’nin 81 inci maddesiyle, bu bentte yer alan “tatbikatları ile sıkıyönetim faaliyetlerinin” ibaresi “tatbikatlarının” şeklinde değiştirilmiştir.
-
-
-ve iç sularda belirlenmiş yerlerdeki su ürünleri üretim hakkının, 22.3.1971 tarihli ve 1380
-sayılı Su Ürünleri Kanununa göre Tarım ve Orman Bakanlığınca kiraya verilmesi,15
+ve iç sularda belirlenmiş yerlerdeki su ürünleri üretim hakkının, 22.3.1971 tarihli ve 1380
+sayılı Su Ürünleri Kanununa göre Tarım ve Orman Bakanlığınca kiraya verilmesi,
 i) Özellikleri nedeniyle belli isteklilere yaptırılmasında yarar görülen her türlü hizmet,
 eğitim, araştırma, etüt ve proje, planlama, müşavirlik, keşif, harita, fotoğraf, film, baskı, sergileme,
 kontrol, muayene işleri ile teknik, fikri ve güzel sanatlarla ilgili çalışmayı gerektiren diğer işler,
@@ -55,7 +52,7 @@ malların alımı veya kiralanması,
 m) Ordu binek ve yük hayvanları ile damızlık olarak veya aşı, serum üretmek veya
 kontrol ve araştırma işlerinde kullanılmak üzere hayvan alımı,
 n) Milli Güvenlik nedeniyle gizli tutulması zorunluluğu Cumhurbaşkanınca kabul
-edilen işler,16
+edilen işler,
 o) Hazineye mal edilmiş batık gemiler ile denize düşmüş malların çıkarılması,
 p) (Değişik: 2/3/1984 - 2990/8 md.)
 Özellikleri nedeniyle yabancı ülkelerden sağlanması zorunlu olan her türlü alım,
@@ -63,7 +60,8 @@ kiralama, onarım, yaptırma, keşfettirme, montaj, sigorta, taşıma ve hizmet 
 (a), (b), (c), (d), (i), (l) ve (p) bendlerinde yazılı işler için şartname düzenlenmesi,
 tahmini bedel tespiti, teminat alınması ve sözleşme yapılması zorunlu değildir.
 (i), (l) ve (p) bendlerinde yazılı işlerde Maliye Bakanlığının uygun görüşü alınır.
-YARIŞMA USULÜ
+
+---
 
 ### Akademik Yorum ve Analiz
 

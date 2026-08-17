@@ -15,6 +15,8 @@ MADDE 114 – (1) 106 ncı ve 107 nci maddelerde tanımlanan suçların bir tüz
 kişinin yararına olarak işlenmesi hâlinde ilgili tüzel kişi hakkında tüzel kişilere özgü güvenlik
 tedbirlerine hükmolunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

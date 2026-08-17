@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Büyük mağazalarda envanter**
+**Büyük mağazalarda envanter:**
 
 ---
 
@@ -18,6 +18,8 @@ Büyük mağazalardan maksat, çeşitli mal üzerine geniş ölçüde ve peraken
 ticarethanelerdir.
 Maliye Bakanlığı büyük sınai işletmelerin, icabına göre, iki veya üç yılda bir
 envanter çıkarmalarına müsaade edebilir. Bu takdirde yukarıki hüküm uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

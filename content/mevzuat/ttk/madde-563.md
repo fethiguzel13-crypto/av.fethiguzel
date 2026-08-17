@@ -11,7 +11,7 @@ wordCount: 4286
 
 ---
 
-Madde 563 - (Mülga: 26/6/2012 - 6335/43 md.) BEŞİNCİ KISIM Sermayesi Paylara Bölünmüş Komandit Şirket A) Tanımı
+MADDE 563- (Mülga: 26/6/2012-6335/43 md.)
 
 ---
 

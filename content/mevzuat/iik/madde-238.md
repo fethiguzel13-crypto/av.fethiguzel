@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**İkinci alacaklılar toplanmasının yetkisi**
+**İkinci alacaklılar toplanmasının yetkisi:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 238 – İflas idaresi tasfiyenin cereyanı şekline ve alacaklarla borçl
 vaziyetine dair alacaklılar toplanmasına mufassal bir rapor verir.
 Alacaklılar toplanması iflas idaresini vazifelerinde bırakmak isterse bu hususta ve
 masanın menfaati için zaruri gördüğü diğer hususlarda icap eden kararları verir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

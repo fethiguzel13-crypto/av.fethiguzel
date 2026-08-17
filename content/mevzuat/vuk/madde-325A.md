@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**Girişim sermayesi fonu**
+**Girişim sermayesi fonu:**
 
 ---
 
@@ -29,7 +29,7 @@ hisse senetlerinin veya girişim sermayesi yatırım fonu katılma paylarının 
 halinde, bu işlemlerin yapıldığı veya sürenin dolduğu dönemde vergiye tabi tutulur.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar Maliye Bakanlığınca belirlenir.
 
-İlk tesis ve taazzuv giderlerinin ve peştemallıkların itfası:
+---
 
 ### Akademik Yorum ve Analiz
 

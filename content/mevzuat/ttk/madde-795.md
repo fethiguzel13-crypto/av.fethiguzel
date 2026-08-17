@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**II
-- Muacceliyet**
+**II - Muacceliyet**
 
 ---
 
-Madde 795 - (1) Çek görüldüğünde ödenir. Buna aykırı herhangi bir kayıt yazılmamış hükmündedir. (2) Düzenlenme günü olarak gösterilen günden önce ödenmek için ibraz olunan çek, ibraz günü ödenir.
+MADDE 795- (1) Çek görüldüğünde ödenir. Buna aykırı herhangi bir kayıt yazılmamış
+hükmündedir.
+(2) Düzenlenme günü olarak gösterilen günden önce ödenmek için ibraz olunan çek,
+ibraz günü ödenir.
 
 ---
 

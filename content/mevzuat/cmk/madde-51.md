@@ -15,6 +15,8 @@ Madde 51 – (1) 45 inci madde gereğince tanıklıktan çekinebileceklere yemin
 vermemek hâkim veya mahkemenin takdirine bağlıdır. Ancak, tanık yemin etmekten
 çekinebilir. Bu hususun kendisine bildirilmesi gereklidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

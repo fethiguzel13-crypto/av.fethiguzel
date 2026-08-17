@@ -11,7 +11,7 @@ wordCount: 4263
 
 ---
 
-Madde 211 - Aksine sözleşme veya âdet yoksa, ölçme ve tartma gibi devir giderleri
+MADDE 211- Aksine sözleşme veya âdet yoksa, ölçme ve tartma gibi devir giderleri
 satıcıya, satılanı devralmak üzere yapılan giderler ve satılanın ifa yerinden başka yere
 taşınması gerektiğinde, taşıma giderleri alıcıya aittir.
 Gidersiz devir kararlaştırılmışsa, satıcı taşıma giderlerini üstlenmiş sayılır.

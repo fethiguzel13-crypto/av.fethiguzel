@@ -19,6 +19,8 @@ istenen kararın bölge adliye mahkemesinde incelenebilecek kararlardan olmadı�
 başvuranın buna hakkı bulunmadığının anlaşılması hâlinde istinaf başvurusunun reddine,
 Karar verilir. (Ek cümle: 18/6/2014-6545/76 md.) Bu kararlar itiraza tabidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

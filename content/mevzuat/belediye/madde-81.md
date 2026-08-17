@@ -17,6 +17,8 @@ tam sayısının salt çoğunluğu, bunların değiştirilmesine ilişkin kararl
 sayısının üçte iki çoğunluğunun kararı aranır. Bu kararlar mülkî idare amirinin onayı ile
 yürürlüğe girer.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

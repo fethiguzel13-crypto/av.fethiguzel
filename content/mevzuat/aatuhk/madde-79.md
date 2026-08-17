@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**anlaşıldığı haller bu hükümden müstesnadır.**
+**Üçüncü şahıslardaki menkul malların, alacak ve hakların haczi:**
 
 ---
 
@@ -32,8 +32,7 @@ aracılığı ile tebliğ edileceği gibi Maliye Bakanlığınca belirlenecek tu
 için doğrudan bankaların genel müdürlüklerine de tebliğ edilebilir. Haciz bildirisi bankanın
 genel müdürlüğüne de tebliğ edilmiş ise tüm şubelerini kapsayacak şekilde beyanda bulunma
 yükümlülüğü bankanın genel müdürlüğüne aittir.
-
-Haciz bildirisi tebliğ edilen üçüncü şahıs; borcu olmadığı veya malın yedinde
+Haciz bildirisi tebliğ edilen üçüncü şahıs; borcu olmadığı veya malın yedinde
 bulunmadığı veya haczin tebliğinden önce borcun ödendiği veya malın tüketildiği ya da
 kusuru olmaksızın telef olduğu veya alacak borçluya veya emrettiği yere verilmiş olduğu gibi
 bir iddiada ise durumu, haciz bildirisinin kendisine tebliğinden itibaren yedi gün içinde tahsil
@@ -60,6 +59,8 @@ maddesinin birinci fıkrasına göre cezalandırılmasını ve borçlu bulunduğ
 hükmedilmesini isteyebilir.
 Menkul malların aynen teslimi mümkün olmadığı takdirde değeri ödenir. Üçüncü
 şahısların genel hükümler gereğince asıl borçluya rücu hakları saklıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

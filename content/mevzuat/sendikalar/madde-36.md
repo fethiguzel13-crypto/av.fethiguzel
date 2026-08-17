@@ -18,6 +18,8 @@ hükümlerin bulunması hâlinde ise iş sözleşmesinin işçi yararına olan h
 (2) Sona eren toplu iş sözleşmesinin iş sözleşmesine ilişkin hükümleri yenisi yürürlüğe
 girinceye kadar iş sözleşmesi hükmü olarak devam eder.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

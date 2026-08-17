@@ -20,10 +20,8 @@ Baro tarafından görevlendirilir.
 yer barosunca görevlendirilir.
 (3) Şüpheli veya sanığın kendisinin sonradan müdafi seçmesi halinde, baro tarafından
 görevlendirilen avukatın görevi sona erer.
-İKİNCİ KİTAP
-Soruşturma
-BİRİNCİ KISIM
-Suçlara İlişkin İhbarlar ve Soruşturma
+
+---
 
 ### Akademik Yorum ve Analiz
 

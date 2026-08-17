@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4285
 ---
 
-**Karşılıklı olarak yer değiştirme**
+**Karşılıklı olarak yer değiştirme:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 73 – (Değişik: 30/5/1974 – KHK-12; Aynen kabul; 15/5/1975 - 1897/1 m
 Aynı Kurumun başka başka yerlerde bulunan aynı sınıftaki memurları, karşılıklı
 olarak yer değiştirme suretiyle atanmalarını isteyebilirler. Bu isteğin yerine getirilmesi
 atamaya yetkili amirlerince uygun bulunmasına bağlıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

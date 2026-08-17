@@ -17,6 +17,8 @@ birliklerinden isteyebilir.
 Bu makamlar, teşebbüsler ve teşebbüs birliklerinin yetkilileri istenen bilgileri Kurulun
 belirleyeceği süre içinde vermek zorundadır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

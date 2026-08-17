@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**İlgili bakanlık ve kuruluşlarla işbirliğini sağlama**
+**İlgili bakanlık ve kuruluşlarla işbirliğini sağlama:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 130 – Bu Kanunun uygulanmasında trafik hizmetleri açısından İçişl
 Bakanlığı ile işbirliği içinde çalışması gereken ilgili bakanlık ve kuruluşlarla belediyelerin
 görev, yetki ve sorumluluklarının esasları, işbirliğini sağlayacak biçimde yönetmelikte
 düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

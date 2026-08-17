@@ -19,6 +19,8 @@ Komiserliği kaynakları ve diğer kaynaklardan güncel bilgi toplanır.
 sistemin işletilmesi, ilgili kamu kurum ve kuruluşlarının kullanımına açılması Genel
 Müdürlükçe belirlenecek usul ve esaslar çerçevesinde yapılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**C) Sermaye kaybı ve borca batıklık I - Bildirim yükümlülüğü**
+**C) Sermaye kaybı ve borca batıklık
+I - Bildirim yükümlülüğü**
 
 ---
 
-Madde 633 - (1) Esas sermayenin kaybı ya da borca batık olma hâllerinde anonim şirketlere ilişkin ilgili hükümler kıyas yoluyla uygulanır. Ek ödeme yükümlülüğü hakkındaki hükümler sak lıdır.
+MADDE 633- (1) Esas sermayenin kaybı ya da borca batık olma hâllerinde anonim
+şirketlere ilişkin ilgili hükümler kıyas yoluyla uygulanır. Ek ödeme yükümlülüğü hakkındaki
+hükümler saklıdır.
 
 ---
 

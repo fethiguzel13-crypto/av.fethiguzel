@@ -11,7 +11,9 @@ wordCount: 4295
 
 ---
 
-Madde 340 - (1) Esas sözleşme, bu Kanunun anonim şirketlere ilişkin hükümlerinden ancak Kanunda buna açıkça izin verilmişse sapabilir. Diğer kanunların, öngörülmesine izin verdiği tamamlayıcı esas sözleşme h ükümleri o kanuna özgülenmiş olarak hüküm doğururlar.
+MADDE 340- (1) Esas sözleşme, bu Kanunun anonim şirketlere ilişkin hükümlerinden
+ancak Kanunda buna açıkça izin verilmişse sapabilir. Diğer kanunların, öngörülmesine izin
+verdiği tamamlayıcı esas sözleşme hükümleri o kanuna özgülenmiş olarak hüküm doğururlar.
 
 ---
 

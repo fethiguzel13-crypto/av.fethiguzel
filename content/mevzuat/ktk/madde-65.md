@@ -8,7 +8,7 @@ wordCount: 2680
 keywords: ["Araçların Yüklenmesi", "7574 Sayılı Kanun", "Aşırı Tonaj", "Kantar Cezası", "Yük Gönderen", "Müteselsil Sorumluluk", "Kış Lastiği", "Sigorta Rücu"]
 ---
 
-**Yüklü ve yüksüz araçlar:48**
+**Yüklü ve yüksüz araçlar:**
 
 ---
 
@@ -68,7 +68,7 @@ gönderenlerine verilen idari para cezaları tahsil olunmadan anılan araçları
 izin verilmez.
 İşleten ile gönderenin aynı olması halinde birinci fıkraya uymayan işletene idari para
 cezası uygulanır.
-Gönderenin birden fazla olması halinde birinci fıkraya uymayan işleten ve
+Gönderenin birden fazla olması (…)halinde birinci fıkraya uymayan işleten ve
 gönderen için uygulanacak idarî para cezalarının toplamı işletene uygulanır.
 Araçların yüklenmesine ilişkin ölçü ve usuller, ağırlık, boyut ve yükleme kontrolü usul
 ve esasları ile tartı toleransları Ulaştırma ve Altyapı Bakanlığı tarafından yönetmelikle
@@ -77,6 +77,8 @@ Uluslararası yük ve yolcu taşımacılığına ilişkin konularda ikili ve ço
 hükümleri saklıdır.
 Tarım alanlarına yapılacak yük ve yolcu taşımacılığına ilişkin esas ve usuller yönetmelikte
 belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -26,8 +26,8 @@ davası açılmaz, açılmış olan kamu davası düşer, mahkum olunan ceza bü
 ortadan kalkar.
 (6) (Ek: 29/6/2005 – 5377/21 md.) İkinci ve üçüncü fıkra hükümleri, 12 Ekim 2004
 tarihinden önce yapılmış yapılarla ilgili olarak uygulanmaz.
-ÜÇÜNCÜ BÖLÜM
-Kamunun Sağlığına Karşı Suçlar
+
+---
 
 ### Akademik Yorum ve Analiz
 

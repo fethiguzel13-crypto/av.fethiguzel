@@ -15,6 +15,8 @@ MADDE 48- (1) Tazminat davası dilekçesinde hangi sorumluluk sebebine dayanıld
 ve delilleri açıkça belirtilir; varsa belgeler de eklenir.
 (2) Mahkeme, açılan tazminat davasını, ilgili hâkime resen ihbar eder.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

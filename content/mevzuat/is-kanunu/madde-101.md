@@ -11,7 +11,12 @@ wordCount: 4311
 
 ---
 
-Madde 101 - Bu Kanunun 30 uncu maddesindeki hükümlere aykırı olarak engelli ve eski hükümlü çalıştırmayan işveren veya işveren vekiline çalıştırmadığı her engelli ve eski hükümlü ve çalıştırmadığı her ay için binyediyüz Türk Lirası idari para cezası verilir. Kamu kuruluşları da bu para cezasından hiçbir şekilde muaf tutulamaz.
+Madde 101 - Bu Kanunun 30 uncu maddesindeki hükümlere aykırı olarak engelli ve
+eski hükümlü çalıştırmayan işveren veya işveren vekiline çalıştırmadığı her engelli ve eski
+hükümlü ve çalıştırmadığı her ay için binyediyüz Türk Lirası idari para cezası verilir. Kamu
+kuruluşları da bu para cezasından hiçbir şekilde muaf tutulamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,9 +11,10 @@ wordCount: 4301
 
 ---
 
-Madde 427 - Hizmet buluşları üzerinde işçinin ve işverenin hakları, bunların
+MADDE 427- Hizmet buluşları üzerinde işçinin ve işverenin hakları, bunların
 kazanılması ile diğer sınaî ve fikrî mülkiyet hakları konusunda özel kanun hükümleri
 uygulanır.
+
 ---
 
 ### Akademik Yorum ve Analiz

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**Kıymet takdiri**
+**Kıymet takdiri:**
 
 ---
 
@@ -19,7 +19,8 @@ konuda Adalet Bakanlığınca izin verilen bilirkişilere, bunların bulunmamas�
 kayıtlı diğer bilirkişilere yaptırılması zorunludur.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar, Adalet Bakanlığınca yürürlüğe
 konulan yönetmelikle belirlenir.
-Mahcuz malları muhafaza tedbirleri:
+
+---
 
 ### Akademik Yorum ve Analiz
 

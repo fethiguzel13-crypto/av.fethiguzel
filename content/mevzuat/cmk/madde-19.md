@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**Davanın nakli ve duruşmanın başka yerde yapılması1**
+**Davanın nakli ve duruşmanın başka yerde yapılması**
 
 ---
 
@@ -20,9 +20,7 @@ kamu güvenliği için tehlikeli olursa, davanın naklini Adalet Bakanı Yargıt
 duruşmanın il sınırları içinde başka bir yerde yapılmasına karar verebilir. Bu karara karşı itiraz
 yolu açıktır.
 
-Bu madde başlığı “Davanın nakli” iken, 24/11/2016 tarihli ve 6763 sayılı Kanunun 21 inci
-maddesiyle metne işlendiği şekilde değiştirilmiştir.
-1
+---
 
 ### Akademik Yorum ve Analiz
 

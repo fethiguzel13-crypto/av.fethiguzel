@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**İşletme hesabı esasında envanter**
+**Günlük perakende satış ve hasılat defteri:
+Mükerrer Madde 194 – (Ek: 30/12/1980-2365/30 md.; Mülga: 22/7/1998-4369/82
+md.)
+İşletme hesabı esasında envanter:**
 
 ---
 
@@ -15,10 +18,11 @@ Madde 195 – İşletme hesabı esasına göre defter tutanlardan emtia üzerine
 emtia envanteri çıkarmaya mecburdurlar.
 Emtiaya, satmak maksadiyle alınan veya imal edilen mallarla iptidai ve ham maddeler
 ve yardımcı malzeme dahildir. Emtia envanteri, muamelelere ait kayıtlarla karıştırılmamak
-
-şartiyle yeniden işe başlama halinde işletme defterinin baş tarafına, mütaakıben de her hesap
+şartiyle yeniden işe başlama halinde işletme defterinin baş tarafına, mütaakıben de her hesap
 dönemi kapandıktan sonra muamele kayıtlarını takip eden sayfalara yazılır. İstiyenler ayrı bir
 envanter defteri tutarak emtia envanterlerini bu deftere kaydedebilirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

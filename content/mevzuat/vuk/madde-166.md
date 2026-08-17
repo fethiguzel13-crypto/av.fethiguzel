@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**Yeni İnşaat**
+**Yeni İnşaat:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 166 – Mükellefler, şehir ve kasabalarda yeni inşa ettirdikleri binala
 bitmeden kullanılmaya başlanan kısımlarını vergi dairesine bildirmeye mecburdurlar.
 Mevcut binalara yapılan ilaveler ve konulan sabit istihsal, asansör ve kalorifer tesisleri
 yeni inşaat hükmündedir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

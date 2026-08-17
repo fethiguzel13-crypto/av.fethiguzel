@@ -12,7 +12,12 @@ I. Yönetim ve hesap tutma yükümlülüğü**
 
 ---
 
-Madde 454 - Vasi, vesayet altındaki kişinin malvarlığını iy i bir yönetici gibi özenle yönetmek zorundadır. Vasi, yön etimle ilgili hesap tutmak ve vesayet makamının belirlediği tarih lerde ve her hâlde yılda bir defa hesabı onun incelemesine sunmak la yükümlüdür. Vesayet altındaki kişi görüşle rini oluşturma ve açıklama yet eneğine sahip ise, hesabın hâkim tarafından incelen mesi sırasında olanak ölçüs ünde hazır bulundurulur.
+Madde 454- Vasi, vesayet altındaki kişinin malvarlığını iyi bir yönetici gibi özenle
+yönetmek zorundadır.
+Vasi, yönetimle ilgili hesap tutmak ve vesayet makamının belirlediği tarihlerde ve her
+hâlde yılda bir defa hesabı onun incelemesine sunmakla yükümlüdür.
+Vesayet altındaki kişi görüşlerini oluşturma ve açıklama yeteneğine sahip ise, hesabın
+hâkim tarafından incelenmesi sırasında olanak ölçüsünde hazır bulundurulur.
 
 ---
 

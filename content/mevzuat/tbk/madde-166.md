@@ -11,7 +11,7 @@ wordCount: 4262
 
 ---
 
-Madde 166 - Borçlulardan biri, ifa veya takasla borcun tamamını veya bir kısmını
+MADDE 166- Borçlulardan biri, ifa veya takasla borcun tamamını veya bir kısmını
 sona erdirmişse, bu oranda diğer borçluları da borçtan kurtarmış olur.
 Borçlulardan biri, alacaklıya ifada bulunmaksızın borçtan kurtulmuşsa, diğer borçlular
 bundan, ancak durumun veya borcun niteliğinin elverdiği ölçüde yararlanabilirler.

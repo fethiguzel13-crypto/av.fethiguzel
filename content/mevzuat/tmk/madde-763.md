@@ -13,7 +13,10 @@ I. Mülkiyetin nakli
 
 ---
 
-Madde 763 - Taşınır mülkiyetinin nakli için zil yetliğin devri gerekir. Bir taşınırın zilyetliğini iyiniyetle ve malik olmak üzere devralan kimse, devredenin mülkiyeti devir yetkisi olmasa bile, zilye tlik hükümlerine göre kazanmanın korunduğu hâllerde o şeyin maliki olur.
+Madde 763- Taşınır mülkiyetinin nakli için zilyetliğin devri gerekir.
+Bir taşınırın zilyetliğini iyiniyetle ve malik olmak üzere devralan kimse, devredenin
+mülkiyeti devir yetkisi olmasa bile, zilyetlik hükümlerine göre kazanmanın korunduğu hâllerde o
+şeyin maliki olur.
 
 ---
 

@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**Mal ve hizmet ihracatı**
+**İKİNCİ KISIM
+İstisnalar
+BİRİNCİ BÖLÜM
+İhracat İstisnası
+Mal ve hizmet ihracatı:**
 
 ---
 
@@ -43,16 +47,12 @@ Hakkında Kanunun 51 inci maddesine göre belirlenen gecikme zammıyla birlikte 
 olunur. Ancak, ihraç edilmek şartıyla teslim edilen malların Vergi Usul Kanununda belirtilen
 mücbir sebepler nedeniyle ihraç edilmemesi halinde, tecil edilen vergi tecil edildiği tarihten
 itibaren 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48 inci maddesine
-göre ilgili dönemler için geçerli tecil faizi ile birlikte tahsil edilir.6
-9/4/2003 tarihli ve 4842 sayılı Kanunun 21 inci maddesiyle bu alt bentte yer alan "gecikme zammının % 50 fazlası ile
-birlikte" ibaresi "gecikme zammıyla birlikte" olarak değiştirilmiştir.
-6
-
-Tecil veya terkin edilen bu vergiler hakkında ihracatçılar bakımından bu Kanunun 32 nci
+göre ilgili dönemler için geçerli tecil faizi ile birlikte tahsil edilir.
+Tecil veya terkin edilen bu vergiler hakkında ihracatçılar bakımından bu Kanunun 32 nci
 maddesi hükmü uygulanmaz.
 İhracatçılara mal teslim eden imalatçılara iade edilecek Katma Değer Vergisi, ihraç edilen
 mala ilişkin imalatçı satış bedeline göre hesaplanan vergiden imalatçı aleyhine matrahta meydana
-gelen değişikliğe ilişkin verginin düşülmesinden sonra kalan tutardan fazla olamaz.7
+gelen değişikliğe ilişkin verginin düşülmesinden sonra kalan tutardan fazla olamaz.
 İhracatçılara mal teslim eden imalatçılara iade edilmesi gereken Katma Değer Vergisi,
 ihracat işlemlerinin tamamlanmasından sonra yapılır. İade veya tecil olunacak vergi miktarı,
 mükellefin ilgili dönem beyannamesinde yer alan bilgiler mukayese edilmek suretiyle hesaplanır.
@@ -65,6 +65,8 @@ Vergisi tahsil edilmeden teslim edilecek mal miktarını; ihracatçı ve ihracat
 edenlerin her biri için bir önceki yıl iş hacmi, cari yıldaki işlemler ve vergi alacağının emniyet
 altına alınması amacıyla gerekli görülen hallerde sınırlamaya ve bu istisnaların uygulamasına
 ilişkin usul ve esaslar ile istisnanın uygulanacağı asgari miktarları tespite yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

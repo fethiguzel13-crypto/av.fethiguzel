@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
-**II. Rehinli pay senetlerinin t emsili**
+**II. Rehinli pay senetlerinin temsili**
 
 ---
 
-Madde 960 - Ortaklık genel kurulunda rehinli pay senetlerini temsil etmek yetkisi, rehin alacaklıs ına değil, pay sahibine aittir.
+Madde 960- Ortaklık genel kurulunda rehinli pay senetlerini temsil etmek yetkisi, rehin
+alacaklısına değil, pay sahibine aittir.
 
 ---
 

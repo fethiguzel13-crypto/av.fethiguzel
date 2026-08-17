@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**II
-- İflâsın bildirilmesi ve konkordato talebi 94**
+**II- İflâsın bildirilmesi ve konkordato talebi**
 
 ---
 
-Madde 634 - (Değişik: 28/2/2018 - 7101/63 md.) (1) İflâsın bildirilmesi ve konkordato talebine anonim şirket hükümleri uygulanır.
+MADDE 634- (Değişik: 28/2/2018-7101/63 md.)
+(1) İflâsın bildirilmesi ve konkordato talebine anonim şirket hükümleri uygulanır.
 
 ---
 

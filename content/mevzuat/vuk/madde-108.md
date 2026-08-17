@@ -7,7 +7,7 @@ lastReviewed: "2026-07-11"
 wordCount: 2607
 ---
 
-**Hatalı tebliğler**
+**Hatalı tebliğler:**
 
 ---
 
@@ -17,6 +17,8 @@ kıymetlerini kaybetmezler; yalnız vergi ihbarı ile ilgili vesikalarda mükell
 nevi veya miktarının, vergi mahkemesinde dava açma süresinin hiç yazılmamış olması
 veyahut bu vesikaların görevli bir makam tarafından tanzim edilmemiş bulunması vesikayı
 hükümsüz kılar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

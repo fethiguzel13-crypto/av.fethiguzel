@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**Asgari randıman oranları ve birim satış bedelleri**
+**ALTINCI KISIM
+Çeşitli Hükümler
+Asgari randıman oranları ve birim satış bedelleri:**
 
 ---
 
@@ -17,6 +19,8 @@ asgari randıman oranları tespit etmeye, alım - satım ve hizmet işlerinde is
 bedellerini belirlemeye yetkilidir.
 2. Mükelleflerin Katma Değer Vergisi, bu oranlara ve birim satış bedellerine göre
 hesaplanacak Katma Değer Vergisinden aşağı olamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

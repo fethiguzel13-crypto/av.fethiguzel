@@ -25,7 +25,7 @@ danışmanlık, sosyal ve mesleki rehabilitasyon hizmetleri vermek üzere engell
 oluşturulur. Bu birimler, faaliyetlerini engellilere hizmet amacıyla kurulmuş vakıf, dernek ve
 bunların üst kuruluşlarıyla işbirliği hâlinde sürdürürler. Engelli hizmet birimlerinin kuruluş, görev,
 yetki, sorumluluk ve işleyişine ilişkin usûl ve esaslar Özürlüler İdaresi Başkanlığının görüşü
-alınarak Çevre ve Şehircilik Bakanlığınca hazırlanacak yönetmelikle belirlenir.4344
+alınarak Çevre ve Şehircilik Bakanlığınca hazırlanacak yönetmelikle belirlenir.
 Ek Madde 2- (Ek: 6/3/2007-5594/1 md.)
 Birleşme, katılma veya geçici 2 nci madde gereğince büyükşehir belediyesi sınırlarına
 giren belediyelerin yürütmekte olduğu su, kanalizasyon, katı atık, ulaşım, her çeşit yolcu ve yük
@@ -34,10 +34,7 @@ bina, tesis, araç, gereç, taşınır ve taşınmaz malları ve bu hizmetlerin 
 yatırım, alacak ve borçları büyükşehir belediyesine veya ilgili bağlı kuruluşuna devredilir.
 Bu maddenin birinci fıkrasında belirtilen hizmet alanlarında Devlet memuru olarak
 çalışmakta olanlar kadrolarıyla birlikte, 5393 sayılı Belediye Kanununun 49 uncu maddesinin
-42 12/11/2012 tarihli ve 6360 sayılı Kanunun 12 nci maddesiyle, bu maddede yer alan “büyükşehir” ibaresinden sonra gelen “, büyükşehir ilçe ve ilk kademe” ibaresi “ve ilçe” şeklinde değiştirilmiştir. 43 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlülerle”, “özürlü”, “özürlülere” ve “Özürlü” ibareleri sırasıyla “engellilerle”, “engelli”, “engellilere” ve “Engelli”, şeklinde değiştirilmiştir. 44 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkralarda yer alan “İçişleri” ibareleri “Çevre ve Şehircilik” şeklinde değiştirilmiştir.
-
-
-üçüncü fıkrasına göre sözleşmeli personel statüsünde çalışmakta olanlar ise bu şekilde
+üçüncü fıkrasına göre sözleşmeli personel statüsünde çalışmakta olanlar ise bu şekilde
 çalışmalarına esas teşkil eden kadrolar ile birlikte büyükşehir belediyesine veya ilgili bağlı
 kuruluşuna devredilir. Devredilen personelin aylık, ek gösterge, her türlü zam ve tazminatları
 ile diğer malî haklarının ödenmeye devam olunması, atanma ve kadro unvanlarının yeniden
@@ -57,7 +54,7 @@ farklı yeni malî ve sosyal haklar verilmesini sağlayacak hükümler konulamaz
 Bu madde uyarınca personel devri yapılan büyükşehir belediyesinin talebi üzerine,
 büyükşehir belediyesinin veya bağlı kuruluşun norm kadro alt grubunu veya bulunduğu alt
 grup itibarıyla ihdas edilebilecek kadro sayılarını, devir işlemini takip eden bir yıl içerisinde
-tekrar belirlemeye Çevre ve Şehircilik Bakanlığı yetkilidir.44
+tekrar belirlemeye Çevre ve Şehircilik Bakanlığı yetkilidir.
 Bu madde kapsamında yapılacak devir işlemleri, söz konusu belediyelerin temsiline
 imkân verecek şekilde valiliklerce teşekkül ettirilecek komisyonlarca yürütülür.
 Daha önce yapılan devirler hariç olmak üzere, devir işlemleri bu maddenin yayımı
@@ -75,9 +72,7 @@ erişebilirliği, mevcut yapılaşma durumu ve benzeri hususlar dikkate alınara
 belediye meclisinin kararı ve teklifi üzerine büyükşehir belediye meclisinin en geç doksan
 gün içinde alacağı karar ile kırsal yerleşim özelliği taşıdığı tespit edilen mahalleler, kırsal
 mahalle kabul edilir. Bu belirlemenin mahalle düzeyinde yapılması esastır. Ancak; tamamı
-
-
-kırsal mahalle olarak tespit edilmeyen diğer mahallelerde de on bin metrekareden az olmamak
+kırsal mahalle olarak tespit edilmeyen diğer mahallelerde de on bin metrekareden az olmamak
 kaydıyla kırsal yerleşik alan belirlenebilir. Kırsal mahalle veya kırsal yerleşik alan vasfı bu
 fıkrada belirtilen usulle kaldırılabilir.
 Büyükşehir belediyesi, birinci fıkra uyarınca ilçe belediyesinden gelen teklifi aynen
@@ -115,9 +110,7 @@ binası merkez kabul edilmek ve il mülkî sınırları içinde kalmak şartıyl
 kadar olan büyükşehirlerde yarıçapı yirmi kilometre, nüfusu birmilyondan ikimilyona kadar
 olan büyükşehirlerde yarıçapı otuz kilometre, nüfusu ikimilyondan fazla olan büyükşehirlerde
 yarıçapı elli kilometre olan dairenin sınırı büyükşehir belediyesinin sınırını oluşturur.
-
-
-(Mülga ikinci fıkra: 6/3/2008-5747/3 md.)
+(Mülga ikinci fıkra: 6/3/2008-5747/3 md.)
 Bu sınırlar içinde kalan köylerin tüzel kişiliği sona ererek mahalleye dönüşür. Bu
 şekilde oluşan mahallelerin katılacağı ilçe veya ilk kademe belediyesi, büyükşehir belediye
 meclisince belirlenir. Orman köylerinin tüzel kişiliği devam eder. Ancak ormanlarla ilgili
@@ -144,7 +137,7 @@ katıldıkları belediyeye devredilir.
 Büyükşehir belediye kapsamına alınma nedeniyle meydana gelecek mülki sınır
 değişiklikleri katılma durumuna uygun olarak 5442 sayılı İl İdaresi Kanunu hükümlerine göre
 çözülür.
-Geçici Madde 345 - (Değişik birinci fıkra: 26/12/2006-5568/6 md.) Büyükşehir
+Geçici Madde 3- (Değişik birinci fıkra: 26/12/2006-5568/6 md.) Büyükşehir
 belediyeleri ve bunlara bağlı kuruluşlar ile sermayesinin % 50’sinden fazlası büyükşehir
 belediyelerine ait şirketlerin; 31/12/2004 tarihi itibarıyla kamu kurum ve kuruluşlarından olan
 kamu ve özel hukuka tâbi alacakları, bunların diğer kamu kurum ve kuruluşlarına olan borçlarına
@@ -154,10 +147,7 @@ kapsamındaki alacak ve borç ifadesi bu alacak ve borçlara ilişkin fer’iler
 Yukarıdaki fıkra kapsamında yer alan kuruluşların takas ve mahsup işlemine konu olan
 veya olmayan borçları, genel bütçe vergi gelirlerinden her ay ayrılacak paylarının % 40’ını
 geçmemek üzere kesinti yapılarak tahsil edilir.
-45 21/4/2005 tarihli ve 5335 sayılı Kanunun 28 inci maddesiyle ikinci fıkrada geçen “mahsup” ibaresi, “takas ve mahsup”, üçüncü fıkrasında geçen “mahsup ve kesinti işlemleri” ibaresi, “takas, mahsup ve kesinti işlemleri” şeklinde değiştirilmiş dördüncü fıkraya “Sayıştay Başkanlığı” ibaresinden sonra gelmek üzere “Sosyal Sigortalar Kurumu Başkanlığı” ibaresi eklenmiştir.
-
-
-Bu maddeye göre yapılacak takas, mahsup ve kesinti işlemleri yılı bütçe kanunları ile
+Bu maddeye göre yapılacak takas, mahsup ve kesinti işlemleri yılı bütçe kanunları ile
 ilişkilendirilmeksizin ilgili kuruluş ile uzlaşma komisyonu tarafından belirlenir; Hazine
 Müsteşarlığının bağlı olduğu Bakanın önerisi üzerine Bakanlar Kurulu tarafından karara
 bağlanır. Bakanlar Kurulu, ilgili kuruluşların borç ödeme kapasitelerini de dikkate alarak
@@ -178,7 +168,8 @@ de görev yapar.
 Geçici Madde 4- Bu Kanunun yayımı tarihinde profesyonel spor kulüplerinin
 başkanlığını yapan veya yönetiminde bulunan belediye başkanları, en geç 1.1.2005 tarihine
 kadar bu kulüplerin başkanlığından ve yönetimindeki görevlerinden ayrılırlar.
-Geçici Madde 5 – (Ek: 26/12/2006-5568/7 md.; Mülga: 28/1/2010-5951/13 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

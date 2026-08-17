@@ -30,10 +30,11 @@ bulunacak Kurul Başkanı ve üyeleri ile Kurul personeli dışında hiçbir ki�
 verilemez. Mahkeme kararına bağlanmış sır kapsamına giren bilgilerin verilmesinden Kurul
 sorumlu tutulamaz.
 (3) İkinci fıkrada bahsedilen mutabakat zaptı sınırları açıkça tanımlanan bir paylaşma
-
-yetkisi veriyorsa veya mutabakat zaptında karşılıklılık esası yoksa veya karşı taraf aynı
+yetkisi veriyorsa veya mutabakat zaptında karşılıklılık esası yoksa veya karşı taraf aynı
 derecede sır saklama yükümlülüğüne tabi değilse, fıkrada bahsedilen sır saklama ile ilgili
 hükümler kıyasen uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -23,6 +23,8 @@ ifasına başlanan hizmet sözleşmelerinde de tüketici cayma hakkını kullana
 (4) Tüketicinin satıcıyı bulduğu finansal kiralama işlemlerinde cayma hakkı
 kullanılamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**MADDE METNİ BAŞLIĞI**
-### Madde 132
-(1) Kanunlarda aksine hüküm yoksa, şirket sözleşmesiyle ortakların, koydukları sermayeler için faiz ve şirketteki hizmetleri sebebiyle kendilerine ücret verilmesi kabul olunabilir [1].
+**5. Faiz ve ücret alma hakkı**
 
 ---
+
+MADDE 132- (1) Kanunlarda aksine hüküm yoksa, şirket sözleşmesiyle ortakların,
+koydukları sermayeler için faiz ve şirketteki hizmetleri sebebiyle kendilerine ücret verilmesi
+kabul olunabilir.
 
 ---
 

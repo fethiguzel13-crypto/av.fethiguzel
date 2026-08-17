@@ -7,16 +7,19 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**Duruşmanın açıklığı**
+**İKİNCİ BÖLÜM
+Duruşma
+Duruşmanın açıklığı**
 
 ---
 
 Madde 182 – (1) Duruşma herkese açıktır.
 (2) Genel ahlâkın veya kamu güvenliğinin kesin olarak gerekli kıldığı hâllerde,
 duruşmanın bir kısmının veya tamamının kapalı yapılmasına mahkemece karar verilebilir.
-
-(3) Duruşmanın kapalı yapılması konusundaki gerekçeli karar ile hüküm açık duruşmada
+(3) Duruşmanın kapalı yapılması konusundaki gerekçeli karar ile hüküm açık duruşmada
 açıklanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

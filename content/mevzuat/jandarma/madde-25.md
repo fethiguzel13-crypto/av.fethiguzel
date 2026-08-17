@@ -7,27 +7,24 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Yürürlükten kaldırılan ve uygulanmayacak olan hükümler**
+**Yürürlükten kaldırılan ve uygulanmayacak olan hükümler:**
 
 ---
 
-Madde 25 – (Mülga: 27/5/2016-KHK-668/20 md.; Aynen kabul: 8/11/2016
+Madde 25 – (Mülga: 27/5/2016-KHK-668/20 md.; Aynen kabul: 8/11/2016-
 6755/20 md.)
 Ek Madde 1 – (Ek: 20/8/1993 – KHK – 507/3 md.; Değişik: 27/3/2015-6638/54 md.)
-Jandarmanın (...)25 eylem ve işlemleri İçişleri Bakanlığı, mülki idare amirleri ve kendi
-amirleri tarafından denetlenir ve teftiş edilir.25
-Ek Madde 2 – (Ek: 20/8/1993 – KHK – 507/3 md.; Değişik: 27/3/2015-6638/55 md.)26
+Jandarmanın (…)eylem ve işlemleri İçişleri Bakanlığı, mülki idare amirleri ve kendi
+amirleri tarafından denetlenir ve teftiş edilir.
+Ek Madde 2 – (Ek: 20/8/1993 – KHK – 507/3 md.; Değişik: 27/3/2015-6638/55 md.)
 İl jandarma komutanı ile merkez ilçe jandarma komutanı hakkında il valisince, ilçe
 jandarma komutanı hakkında kaymakamın değerlendirmesi alınarak il valisi tarafından her yıl
-sonunda söz konusu kişilerin (...)26 görevleri ile ilgili olarak değerlendirme raporu düzenlenir.
+sonunda söz konusu kişilerin (…)görevleri ile ilgili olarak değerlendirme raporu düzenlenir.
 Değerlendirme raporları; personelin terfi, ödüllendirme, atama ve yer değiştirmesinde
 dikkate alınır.
-Değerlendirme raporlarının içeriği ve düzenlenme esasları, (...)26 İçişleri Bakanlığı
+Değerlendirme raporlarının içeriği ve düzenlenme esasları, (…)İçişleri Bakanlığı
 tarafından çıkarılan yönetmelikle düzenlenir.
-23 2/1/2017 tarihli ve 680 sayılı KHK’nin 46 ncı maddesiyle, bu maddede yer alan “Hizmetleri Sınıfı” ibaresi yürürlükten kaldırılmış, daha sonra bu hüküm 1/2/2018 tarihli ve 7072 sayılı Kanunun 45 inci maddesiyle aynen kabul edilerek kanunlaşmıştır. 24 2/7/2018 tarihli ve 703 sayılı KHK’nin 128 inci maddesiyle, bu fıkrada yer alan “İçişleri Bakanlığı tarafından hazırlanarak Bakanlar Kurulu kararıyla” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir. 25 25/7/2016 tarihli ve 668 sayılı KHK’nin 18 inci maddesiyle bu fıkrada yer alan “askeri görevleri haricindeki diğer görevleriyle ilgili” ibaresi yürürlükten kaldırılmış ve aynı fıkradaki “valiler” ibaresi “mülki idare amirleri” şeklinde değiştirilmiş olup, daha sonra bu hüküm 8/11/2016 tarihli ve 6755 sayılı Kanunun 18 inci maddesiyle kanunlaşmıştır. 26 25/7/2016 tarihli ve 668 sayılı KHK’nin 19 uncu maddesiyle bu maddenin birinci fıkrasında yer alan “askerî görevleri haricindeki diğer” ibaresi ile aynı maddenin üçüncü fıkrasında yer alan “Genelkurmay Başkanlığının görüşü alınarak” ibaresi yürürlükten kaldırılmış olup, daha sonra bu hüküm 8/11/2016 tarihli ve 6755 sayılı Kanunun 19 uncu maddesiyle kanunlaşmıştır.
-
-
-İzinler
+İzinler
 Ek Madde 3 – (Ek: 20/8/1993 – KHK – 507/3 md.) (Başlığı ile Birlikte Değişik:
 6/12/2019-7196/29 md.)
 Subay, sözleşmeli subay, astsubay, sözleşmeli astsubay, uzman jandarma ve uzman
@@ -65,9 +62,7 @@ müteakip istekleri üzerine ayrıca altı aya kadar aylıksız izin verilebilir
 kişi ve aynı vakaya dayalı olarak bir defaya mahsus uygulanır. Aylıksız izinli olarak geçirilen
 süreler mecburi hizmet süresinden, uzman erbaşlar için sözleşme süresinden sayılmaz.
 e) En az yüzde 70 oranında engelli ya da süreğen hastalığı olan çocuğunun (çocuğun
-
-
-evli olması durumunda eşinin de en az yüzde 70 oranında engelli olması kaydıyla) hastalanması
+evli olması durumunda eşinin de en az yüzde 70 oranında engelli olması kaydıyla) hastalanması
 hâlinde hastalık raporuna dayalı olarak ana veya babadan sadece biri tarafından kullanılması
 kaydıyla bir yıl içinde toptan veya bölümler hâlinde on güne kadar mazeret izni verilir.
 f) Bu fıkra kapsamında verilen mazeret izinleri yıllık izne mahsup edilmez.
@@ -106,9 +101,7 @@ gerçekleşmesi nedeniyle doğum öncesi sekiz haftalık izinden kullanılamayan
 sonrası sürelere eklenir. Doğumda veya doğum sonrası aylıklı izin süresi içerisinde annenin
 ölümü halinde, isteği üzerine babaya, bu bentte anne için öngörülmüş olan aylıklı izin süresi
 kadar izin verilir. Doğum yapan personele çocuklarını emzirmeleri için aylıklı izin süresinin
-
-
-bitim tarihinden itibaren ilk altı ayda günde üç saat, ikinci altı ayda günde bir buçuk saat süt
+bitim tarihinden itibaren ilk altı ayda günde üç saat, ikinci altı ayda günde bir buçuk saat süt
 izni verilir. Süt izninin hangi saatler arasında ve kaça bölünerek kullanılacağı personelin
 tercihine bırakılır. Ayrıca doğum yapan personele, aylıklı izinlerinin bitiminden itibaren
 başlamak üzere, en fazla üç yaşında bir çocuğu eşiyle birlikte veya münferit olarak evlat
@@ -122,7 +115,7 @@ jandarma ve uzman erbaş olan eşlerine, çocuğun teslim edildiği tarihten iti
 süre ile aylıklı izin verilir. Bu izin evlatlık kararı verilmeden önce çocuğun fiilen teslim
 edildiği durumlarda da uygulanır. Bir veya daha fazla çocuğa eşiyle birlikte veya münferit
 olarak koruyucu aile olan personele çocuğun koruyucu aile yanına teslim edildiği tarihten
-sonra isteği üzerine on gün izin verilir.27
+sonra isteği üzerine on gün izin verilir.
 d) Görev esnasında veya görev dışında, görevlerinden dolayı bir saldırıya veya kazaya
 uğrayan veya bir meslek hastalığına yakalanan personel bu fıkrada belirtilen sürelere bağlı
 olmaksızın iyileşinceye kadar izinli sayılır.
@@ -141,10 +134,7 @@ b) Bu fıkranın (a) bendinin (5) numaralı alt bendinde belirtilen izin aynı u
 uzman erbaşlara da verilebilir.
 c) Yurt dışı izin verme yetkisi İçişleri Bakanlığınca devredilebilir. Yetki devri
 hâllerinde, verilen yurt dışı izinleri yetki devri yapan makama bildirilir.
-27 22/4/2026 tarihli ve 7578 sayılı Kanunun 24 üncü maddesiyle bu bendin birinci cümlesinde yer alan “doğum yaptığı tarihten itibaren sekiz hafta” ibaresi “doğum yaptığı tarihten itibaren on altı hafta” şeklinde, “toplam on altı hafta” ibaresi “toplam yirmi dört hafta” şeklinde, üçüncü cümlesinde yer alan “önceki üç” ibaresi “önceki iki” şeklinde, “en fazla üç yaşında bir çocuğu evlat edinen kadın personele çocuğun ana ve babasının rızasının kesinleştiği tarihten veya vesayet dairelerinin izin verme tarihinden itibaren” ibaresi “en fazla üç yaşında bir çocuğu eşiyle birlikte veya münferit olarak evlat edinen kadın personele bu bentte geçen sekiz haftalık iznin bitiminden itibaren” şeklinde değiştirilmiştir.
-
-
-ç) Bu fıkra kapsamında verilen izinlerde özlük hakları aynen verilir.
+ç) Bu fıkra kapsamında verilen izinlerde özlük hakları aynen verilir.
 Subay, sözleşmeli subay, astsubay, sözleşmeli astsubay, uzman jandarma ve uzman
 erbaşlardan;
 a) Yabancı memleketlerin emsal kurum ve kuruluşlarında hizmet yapmak üzere
@@ -182,9 +172,7 @@ yollanma tarzları, o yerdeki yaşama ve çalışmalarının ne şekilde takip v
 ne gibi hallerde geri çağırılacakları ile ilgili hususlar İçişleri Bakanlığı tarafından yürürlüğe
 konulacak yönetmelik ile belirlenir.
 Ek Madde 4 - (Ek: 3/4/2003 - 4838/1 md.)
-
-
-Gözaltına alınanların yeme, içme ihtiyaçlarına ve nakillerine ait masraflar Jandarma
+Gözaltına alınanların yeme, içme ihtiyaçlarına ve nakillerine ait masraflar Jandarma
 Genel Komutanlığı bütçesine konulacak ödenekle karşılanır.
 Ek Madde 5 – (Ek: 3/7/2005 – 5397/2 md.)
 Jandarma, bu Kanunun 7 nci maddesinin (a) bendine ilişkin görevleri yerine getirirken
@@ -201,7 +189,7 @@ halde dinlemenin içeriğine ilişkin kayıtlar en geç on gün içinde yok edil
 tespit olunur ve bu tutanak denetimde ibraz edilmek üzere muhafaza edilir. Bu işlemler,
 4.7.1934 tarihli ve 2559 sayılı Polis Vazife ve Selahiyet Kanununun ek 7 nci maddesinin
 onuncu fıkrası hükmüne göre kurulan merkez tarafından yürütülür. 5271 sayılı Kanunun 135
-inci maddesi kapsamında yapılacak dinlemeler de bu merkez üzerinden yapılır.28
+inci maddesi kapsamında yapılacak dinlemeler de bu merkez üzerinden yapılır.
 (Değişik ikinci fıkra: 27/3/2015-6638/6 md.) Yetkili ve görevli hâkim, Ankara ağır
 ceza mahkemesi üyesidir.
 Kararda ve yazılı emirde, hakkında tedbir uygulanacak kişinin kimliği, iletişim
@@ -221,10 +209,7 @@ gerekçesini de göstermek suretiyle yazılı talepte bulunulabilir. Bu kurum ve
 kanuni sebeplerle veya ticari sır gerekçesiyle bu bilgi ve belgeleri vermemeleri halinde ancak
 hâkim kararı ile bu bilgi ve belgelerden yararlanılabilir.
 Bu madde hükümlerine göre yürütülen faaliyetler çerçevesinde elde edilen kayıtlar,
-28 27/3/2015 tarihli ve 6638 sayılı Kanunun 6 ncı maddesiyle, bu fıkranın üçüncü cümlesinde yer alan “yirmidört saat” ibaresi “kırk sekiz saat” şeklinde değiştirilmiştir.
-
-
-birinci fıkrada belirtilen amaçlar dışında kullanılamaz. Elde edilen bilgi ve kayıtların
+birinci fıkrada belirtilen amaçlar dışında kullanılamaz. Elde edilen bilgi ve kayıtların
 saklanmasında ve korunmasında gizlilik ilkesi geçerlidir. Bu fıkra hükümlerine aykırı hareket
 edenler hakkında, görev sırasında veya görevden dolayı işlenmiş olsa bile Cumhuriyet
 savcılarınca doğrudan soruşturma yapılır.
@@ -236,18 +221,18 @@ denetimi; sıralı kurum amirleri, mülki idare amirleri, Jandarma Genel Komutan
 bakanlığın teftiş elemanları tarafından yılda en az bir defa yapılır. Bu faaliyetler
 Cumhurbaşkanlığınca görevlendirilen denetim elemanları tarafından da denetlenebilir. Bu
 kapsamda yapılan denetimlerin sonuçları bir rapor hâlinde Türkiye Büyük Millet Meclisi
-Güvenlik ve İstihbarat Komisyonuna sunulur.29
+Güvenlik ve İstihbarat Komisyonuna sunulur.
 Bu maddede belirlenen usûl ve esaslara aykırı dinlemeler hukuken geçerli sayılmaz ve
 bu şekilde dinleme yapanlar hakkında 26.9.2004 tarihli ve 5237 sayılı Türk Ceza Kanunu
 hükümlerine göre işlem yapılır.
 Bu maddenin uygulanmasına ilişkin esas ve usûller, Cumhurbaşkanınca çıkarılan
-yönetmelikle düzenlenir.29
+yönetmelikle düzenlenir.
 Ek Madde 6 - (Ek: 27/3/2015 - 6638/57 md.)
 İçişleri Bakanı, bu Kanundaki yetkilerinden bir kısmını gerektiğinde sınırlarını yazılı
 olarak açıkça belirlemek şartıyla ilgisine göre Jandarma Genel Komutanına veya valilere
 devredebilir.
 Uygulanacak hükümler:
-Ek Madde 7 - (Ek: 25/7/2016 –KHK- 668/19 md.; Değiştirilerek kabul: 8/11/2016
+Ek Madde 7 - (Ek: 25/7/2016 –KHK- 668/19 md.; Değiştirilerek kabul: 8/11/2016-
 6755/19 md.)
 Diğer kanunlarda bu Kanuna aykırı hükümler bulunması halinde bu Kanun hükümleri
 uygulanır.
@@ -255,15 +240,12 @@ Bu Kanunun uygulanmasıyla ilgili tereddütleri gidermeye ve bu yönde düzenley
 yönlendirici işlemler yapmaya İçişleri Bakanlığı yetkilidir.
 Bu Kanunda bu maddeyi ihdas eden Kanun ile yapılan düzenlemeler sebebiyle
 teşkilat, personel, eğitim ve diğer hususlarla ilgili olarak yeni ihtiyaçların ortaya çıkması
-halinde, buna ilişkin düzenleme yapmaya Cumhurbaşkanı yetkilidir.30
+halinde, buna ilişkin düzenleme yapmaya Cumhurbaşkanı yetkilidir.
 Sosyal tesisler
-29 2/7/2018 tarihli ve 703 sayılı KHK’nin 128 inci maddesiyle, Ek 5 inci maddesinin sekizinci fıkrasında yer alan “Başbakanlık Teftiş Kurulu” ibaresi “Cumhurbaşkanlığınca görevlendirilen denetim elemanları” şeklinde ve onuncu fıkrasında yer alan “Adalet, İçişleri ve Ulaştırma bakanlıklarının görüşü alınarak Başbakanlık tarafından üç ay içinde çıkarılacak” ibaresi “Cumhurbaşkanınca çıkarılan” şeklinde değiştirilmiştir. 30 2/7/2018 tarihli ve 703 sayılı KHK’nin 128 inci maddesiyle, bu fıkrada yer alan “İçişleri Bakanlığının teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-
-
-Ek Madde 8 - (Ek : 3/10/2016-KHK-676/18 md.; Aynen kabul: 1/2/2018-7070/16 md.)
+Ek Madde 8 - (Ek : 3/10/2016-KHK-676/18 md.; Aynen kabul: 1/2/2018-7070/16 md.)
 Jandarma Genel Komutanlığı, vardiya yatakhaneleri, eğitim ve kongre merkezleri,
 sosyal tesisler, gazinolar, moral eğitim merkezleri ve kantinler kurabilir. (Mülga cümle:
-6/12/2019-7196/30 md.) (...)
+6/12/2019-7196/30 md.) (…)
 (Ek fıkra: 25/7/2018-7145/7 md.) Vardiya yatakhaneleri, gazinolar, sosyal tesisler,
 özel, yerel ve kış eğitim merkezlerinin sermayeleri, bu tesislerin gelirleri ile üye aidatlarına
 ilave olarak Jandarma Genel Komutanlığı bütçesine konulacak ödenekten oluşur. Vardiya
@@ -289,14 +271,11 @@ Silahlı Kuvvetlerine ait tesis ve özel bakım merkezlerinden kendi mevzuatlar�
 personelden üye aidatı ve kart ücreti alınır. Bu suretle elde edilen gelirlerin müştereken istifade
 edilen tesislere yönelik harcama usul ve esasları Millî Savunma Bakanlığı ve İçişleri
 Bakanlığınca, Jandarma Genel Komutanlığına ait tesislerin işletilmesi, işlettirilmesi, gelirlerinin
-harcanması, (...)31 genel usul ve esaslar İçişleri Bakanlığı tarafından hazırlanan yönetmelikle
+harcanması, (…)genel usul ve esaslar İçişleri Bakanlığı tarafından hazırlanan yönetmelikle
 düzenlenir.
-Madalyalar ve nakdî ödül3233
+Madalyalar ve nakdî ödül
 Ek Madde 9- (Ek: 2/1/2017-KHK-680/47 md.; Aynen kabul: 1/2/2018-7072/46 md.)
-31 Anayasa Mahkemesi’nin 25/1/2023 Tarihli ve E: 2020/30, K: 2023/12 sayılı Kararı ile bu fıkrada yer alan "...tesislerden istifade edilmesinin yasaklanmasını gerektiren durumlar gibi..." ibaresi iptal edilmiştir. 32 6/12/2019 tarihli ve 7196 sayılı Kanunun 31 inci maddesiyle, bu madde başlığı “Para mükâfatı” iken metne işlendiği şekilde değiştirilmiştir. 33 21/11/2024 tarihli ve 7533 sayılı Kanunun 23 üncü maddesi ile bu maddenin madde başlığı “Madalya ve para mükâfatı:” iken metne işlendiği şekilde değiştirilmiş ve mevcut üçüncü fıkrasına “verilen” ibaresinden sonra gelmek üzere “madalya ve” ibaresi eklenmiştir.
-
-
-3/11/1980 tarihli ve 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında
+3/11/1980 tarihli ve 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında
 Kanun hükümleri saklı kalmak kaydıyla Jandarma Genel Komutanlığı personelinden;
 a) Ülkenin güvenlik ve esenliği, Devletin çıkarları ve kişilerin can, ırz ve mallarını
 korumada yüksek hizmetleri görülenler, fiilen almakta oldukları aylık tutarlarının iki katından
@@ -318,7 +297,7 @@ karşılanır.
 (Ek fıkra: 6/12/2019-7196/31 md.) Bu madde gereğince verilen madalya ve ödüllere
 ilişkin esaslar, teklif ve değerlendirme işlemleri, ödül verme yetkileri, ödül gerekçelerine göre
 verilecek ödülün cinsi ve miktarı ile diğer usul ve esaslar İçişleri Bakanlığınca çıkarılacak
-yönetmelikler ile belirlenir.33
+yönetmelikler ile belirlenir.
 Atıflar
 Ek Madde 10- (Ek: 2/1/2017-KHK-680/47 md.; Aynen kabul: 1/2/2018-7072/46 md.)
 (Değişik fıkra: 6/12/2019-7196/32 md.) 4678 sayılı Kanun, 3269 sayılı Kanun ile
@@ -333,9 +312,7 @@ askerî personele yapılan atıflar Jandarma Genel Komutanlığı kadrolarında 
 sözleşmeli subay, astsubay, sözleşmeli astsubay, uzman jandarma, uzman erbaş, Jandarma ve
 Sahil Güvenlik Akademisi öğrencileri ile bunların adaylarına, erbaş ve erler ile yedek
 personele yapılmış sayılır.
-
-
-(Ek fıkra: 18/10/2018-7148/13 md.) 29/1/1963 tarihli ve 169 sayılı Silahlı Kuvvetler
+(Ek fıkra: 18/10/2018-7148/13 md.) 29/1/1963 tarihli ve 169 sayılı Silahlı Kuvvetler
 Yakacak, Aydınlatma, Isıtma ve Soğutma Kanununda Jandarma Genel Komutanlığı için,
 Türk Silahlı Kuvvetlerine yapılan atıflar Jandarma Genel Komutanlığına, Millî Savunma
 Bakanlığına yapılan atıflar İçişleri Bakanlığına yapılmış sayılır.
@@ -369,12 +346,9 @@ korunması ve kaçakçılığın men, takip ve tahkiki için görevlendirilen ya
 düzenleyici, koruyucu, istihbari ve adli görev ile hizmetlerin yerine getirilmesi sırasında veya bu
 görevlerinden dolayı, karargâh personeli dahil sanık durumuna düşen personelin vekalet verdiği
 avukatın ücreti, olayın mahiyetine ve kusurun derecesine göre durumunun uygun görülmesi
-halinde Jandarma Genel Komutanlığı bütçesine konulan ödenekten karşılanır.34
+halinde Jandarma Genel Komutanlığı bütçesine konulan ödenekten karşılanır.
 Avukat tutma ve ücret ödeme usul ve esasları ile adli yardıma esas olan görevlerin
-34 2/7/2018 tarihli ve 703 sayılı KHK’nin 128 inci maddesiyle, bu fıkrada yer alan “Kanunlarla” ibaresinden sonra gelmek üzere “veya Cumhurbaşkanlığı Kararnameleriyle” ibaresi eklenmiştir.
-
-
-mahiyeti ve sınırları İçişleri Bakanlığı tarafından yönetmelikle düzenlenir.
+mahiyeti ve sınırları İçişleri Bakanlığı tarafından yönetmelikle düzenlenir.
 Yaş haddi
 Ek Madde 12-(Ek: 2/1/2017-KHK-680/47 md.; Aynen kabul: 1/2/2018-7072/46 md.)
 Jandarma Genel Komutanlığına mensup sözleşmeli subay ve astsubaylar için
@@ -411,9 +385,7 @@ içinde tıpta, diş hekimliğinde veya eczacılıkta doktora eğitimini bitiren
 buralarda geçen sürelerin yarısı kadar uzatılır.
 d) Pilotaj eğitimini (pilot adaylarına verilen uçuş eğitimini) bitirenlerin yükümlülükleri
 altı yıl uzatılır.
-
-
-e) Yabancı memleketlere altı ay veya daha fazla süre ile öğrenim, staj, kurs, ihtisas
+e) Yabancı memleketlere altı ay veya daha fazla süre ile öğrenim, staj, kurs, ihtisas
 veya görgü ve bilgilerini artırmak maksadıyla gidenlerin yükümlülükleri, masrafların ödenme
 şekline bakılmaksızın, gidiş ve dönüş tarihleri arasında geçen sürenin iki katı kadar uzatılır.
 f) Yurt dışı sürekli göreve atanan subay veya astsubayların yükümlülükleri, buralarda
@@ -441,7 +413,7 @@ Bu Kanun, 3466 sayılı Kanun ve 4678 sayılı Kanuna göre; Jandarma Genel Komu
 mensubu subay, sözleşmeli subay, astsubay, sözleşmeli astsubay, uzman jandarma ve öğrenciler
 ile bunların adaylarının öğrenim, eğitim ve yetiştirme masraflarının hangi unsurlardan oluşacağı
 ve tahsiline ilişkin usul ve esaslar; İçişleri Bakanlığı ile Hazine ve Maliye Bakanlığı tarafından
-müştereken yürürlüğe konulan yönetmelikle belirlenir.35
+müştereken yürürlüğe konulan yönetmelikle belirlenir.
 Ek Madde 15- (Ek:6/12/2019-7196/34 md.)
 Teröristle mücadele ve sınır ötesi operasyonlar, uluslararası barışı destekleme
 kapsamındaki faaliyetler, üs bölgeleri gibi görevli bulunulan yer ya da görev koşulları itibarıyla
@@ -449,10 +421,7 @@ reçete edilen ilaçların eczanelerden temin edilerek hasta/yaralı personele u
 olduğu, ikinci ve üçüncü basamak sağlık teşkillerine sevklerin emniyetli şekilde ve zamanında
 yapılamadığı hallerde, birlik/kurum envanterindeki mevcut ilaç ve tıbbi sarf malzemesi personel
 tedavisinde kullanılabilir. Bu kapsamda kullanılan ilaç ve tıbbi sarf malzemesi için personelden
-35 21/11/2024 tarihli ve 7533 sayılı Kanunun 24 üncü maddesi ile bu fıkrada yer alan “ile uzman jandarma statüsündeki personelin” ibaresi “, uzman jandarma ve öğrenciler ile bunların adaylarının” şeklinde değiştirilmiştir.
-
-
-herhangi bir ücret veya katılım payı alınmaz. Bu amaçla kullanılan ilaç ve tıbbi sarf
+herhangi bir ücret veya katılım payı alınmaz. Bu amaçla kullanılan ilaç ve tıbbi sarf
 malzemesinin kullanımına ilişkin usul ve esaslar İçişleri Bakanlığınca belirlenir.
 Ek Madde 16- (Ek:6/12/2019-7196/35 md.)
 Uzman jandarmalıktan astsubaylığa geçenlerin rütbe yaş hadleri aşağıda belirtilmiştir:
@@ -486,53 +455,48 @@ Geçici Madde 1 – Bu Kanunun 24 üncü maddesiyle çıkarılması öngörülen
 yürürlüğe girinceye kadar, 1 Aralık 1937 gün ve 2/7756 sayılı Kararname ile yürürlüğe konulmuş
 olan “Jandarma Teşkilat ve Vazife Tüzüğü” ile ek ve değişikliklerinin bu Kanuna aykırı olmayan
 hükümlerinin uygulanmasına devam edilir.
-
-
-Geçici Madde 2 – Jandarma Genel Komutanlığı bünyesindeki deniz birlik ve tesisleri
+Geçici Madde 2 – Jandarma Genel Komutanlığı bünyesindeki deniz birlik ve tesisleri
 ile buralarda hizmet yapan sivil memur ve işçiler; 9/7/1982 gün ve 2692 sayılı Kanunla kurulup
 1985 yılına kadar Jandarma Genel Komutanlığına bağlı olarak görev icra edecek Sahil Güvenlik
 Komutanlığına geçerler.
 Geçici Madde 3 – Bu Kanunun yürürlüğe girdiği tarihte, yeterli polis bulunmaması
 nedeniyle jandarmanın polis sahalarındaki görev ve sorumluluğu devam eder. Polis miktarına
 bağlı olarak jandarma bu sahaları Emniyet Genel Müdürlüğüne devreder.
-Geçici Madde 4- (Ek: 25/7/2016 –KHK- 668/21 md.; Değiştirilerek kabul: 8/11/2016
+Geçici Madde 4- (Ek: 25/7/2016 –KHK- 668/21 md.; Değiştirilerek kabul: 8/11/2016-
 6755/21 md.)
 a) Disiplin işlerine ilişkin özel kanun çıkarılana kadar jandarma personelinin disiplin
 suç ve cezaları Emniyet Teşkilatı disiplin mevzuatına göre belirlenir. Diğer hususlarda 657
 sayılı Devlet Memurları Kanunu hükümleri uygulanır.
 b) Jandarma Hizmetleri Sınıfından bir adet Orgeneral kadrosu ile dört adet Jandarma
 Genel Komutan Yardımcısı kadrosu ihdas edilmiştir.
-Geçici Madde 5- (Ek: 25/7/2016 –KHK- 669/111 md.; Aynen kabul: 9/11/2016
+Geçici Madde 5- (Ek: 25/7/2016 –KHK- 669/111 md.; Aynen kabul: 9/11/2016-
 6756/110 md.)
 Jandarma Genel Komutanlığının er ve erbaş ile askerlik yükümlüsü ihtiyacı, 21/6/1927
 tarihli ve 1111 sayılı Askerlik Kanunu hükümleri çerçevesinde Milli Savunma Bakanlığı
 tarafından üç yıl süreyle karşılanır. Ancak Cumhurbaşkanı kararıyla; bu süre uzatılabilir. Bu
 suretle Jandarma Genel Komutanlığı emrine verilen er ve erbaşlar ile askerlik yükümlüleri
 hakkında, diğer er ve erbaşlar ile askerlik yükümlülerinin tabi olduğu hükümler uygulanır.
-Bunların giderleri Jandarma Genel Komutanlığı bütçesinden karşılanır.36
+Bunların giderleri Jandarma Genel Komutanlığı bütçesinden karşılanır.
 Tamamlanmayan temin ve statü geçiş iptalleri
-Geçici Madde 6- (Ek: 15/8/2016-KHK-674/32 md.; Aynen kabul: 10/11/2016
+Geçici Madde 6- (Ek: 15/8/2016-KHK-674/32 md.; Aynen kabul: 10/11/2016-
 6758/28 md.)
 Jandarma Genel Komutanlığında bu maddenin yürürlüğe girdiği tarih itibarıyla
 tamamlanmamış olan tüm personel temin faaliyetleri ve statü geçiş işlemleri iptal edilmiştir.
 Yürürlükteki anlaşmalar
-Geçici Madde 7- (Ek : 3/10/2016-KHK-676/19 md.; Değiştirilerek kabul: 1/2/2018
+Geçici Madde 7- (Ek : 3/10/2016-KHK-676/19 md.; Değiştirilerek kabul: 1/2/2018-
 7070/17 md.)
 Jandarma Genel Komutanlığının halihazırda devam eden yabancı ülkeler ile eğitim ve
 işbirliği faaliyetleri askeri eğitim işbirliği anlaşmaları ve protokollerinde belirtilen esaslara
-36 2/7/2018 tarihli ve 703 sayılı KHK’nin 128 inci maddesiyle, bu fıkrada yer alan “İçişleri Bakanlığının göstereceği lüzum üzerine ve Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-
-
-göre İçişleri Bakanlığı tarafından yürütülür.
-Geçici Madde 8- (Ek: 3/10/2016-KHK-676/42 md. ; Değiştirilerek kabul: 1/2/2018
-7070/35 md.)37
+göre İçişleri Bakanlığı tarafından yürütülür.
+Geçici Madde 8- (Ek: 3/10/2016-KHK-676/42 md. ; Değiştirilerek kabul: 1/2/2018-
+7070/35 md.)
 13/A maddesinin onyedinci fıkrası ile ihdas edilen kadrolar ile geçici 4 üncü maddenin
 (b) fıkrası uyarınca 190 sayılı Kanun Hükmünde Kararnameye eklenen kadrolar iptal edilmiştir.
 Mecburi hizmet süresi
-Geçici Madde 9- (Ek: 2/1/2017-KHK-680/48 md.; Değiştirilerek kabul: 1/2/2018
+Geçici Madde 9- (Ek: 2/1/2017-KHK-680/48 md.; Değiştirilerek kabul: 1/2/2018-
 7072/47 md.) (Mülga:6/12/2019-7196/37 md.)
 Atama izni
-Geçici Madde 10- (Ek: 15/8/2017-KHK-694/58 md.; Aynen kabul: 1/2/2018
+Geçici Madde 10- (Ek: 15/8/2017-KHK-694/58 md.; Aynen kabul: 1/2/2018-
 7078/54 md.)
 2017 ve 2018 yılları merkezi yönetim bütçe kanunları ve diğer mevzuattaki kısıtlamalara
 tabi olmaksızın; Jandarma ve Sahil Güvenlik Akademisindeki Devlet memuru kadrolarına (200)
@@ -556,7 +520,8 @@ Yüzbaşı 55
 Binbaşı 56
 Yarbay 57
 Albay 60
-37 3/10/2016 tarihli ve 676 sayılı KHK’nin 42 nci maddesiyle eklenen bu maddenin numarası teselsülü sağlamak amacıyla “Geçici Madde 8” olarak değiştirilmiştir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

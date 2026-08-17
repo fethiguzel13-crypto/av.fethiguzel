@@ -33,9 +33,9 @@ kartı, ikamet izni veya geçerli yol izin belgesi olmayan yabancı şahısları
 olarak seyahat etmesine, barınmasına, konaklamasına imkân sağlayan kişiler ile
 mülkiyetindeki gayrimenkulü kiralayanlara, kanunlarda ayrıca suç olarak tanımlanmayan
 eylemler nedeniyle tespit edilen her bir yabancı sayısınca bin Türk Lirası idari para cezası
-verilir.2728
+verilir.
 (3) İdari para cezası öngörülen kabahatlerin bir takvim yılı içinde gerçek kişiler
-tarafından tekrarı hâlinde, para cezaları yarı oranında artırılarak uygulanır.29
+tarafından tekrarı hâlinde, para cezaları yarı oranında artırılarak uygulanır.
 (4) Bu maddedeki idari para cezalarının uygulanması, Kanunda öngörülen diğer idari
 tedbirlerin uygulanmasına engel teşkil etmez.
 (5) Bu maddedeki idari para cezaları, valilik veya Genel Müdürlük ya da kolluk
@@ -43,23 +43,10 @@ birimlerince uygulanır. Verilen para cezaları tebliğ tarihinden itibaren otuz
 ödenir.
 (6) (Ek: 15/8/2017-KHK-694/171 md.; Aynen kabul: 1/2/2018-7078/165 md.)
 Bakanlıkça bu Kanun kapsamında yürürlüğe konulan düzenlemelerde belirtilen yükümlülüklere
-15/8/2017 tarihli ve 694 sayılı KHK’nin 171 inci maddesiyle, 102 nci maddeye birinci fıkradan sonra gelmek
-üzere ikinci fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiş, aynı maddenin mevcut dördüncü
-fıkrasına “valilik veya” ibaresinden sonra gelmek üzere “Genel Müdürlük ya da” ibaresi eklenmiş, daha sonra
-bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun 165 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
-28
-6/12/2019 tarihli ve 7196 sayılı Kanunun 88 inci maddesiyle, bu fıkrada yer alan “imkân sağlayan kişilere”
-ibaresi “, barınmasına, konaklamasına imkân sağlayan kişiler ile mülkiyetindeki gayrimenkulü kiralayanlara”
-şeklinde değiştirilmiştir.
-29
-6/12/2019 tarihli ve 7196 sayılı Kanunun 88 inci maddesiyle, bu fıkraya “bir takvim yılı içinde” ibaresinden
-sonra gelmek üzere “gerçek kişiler tarafından” ibaresi eklenmiştir.
-27
+uymayanlara Genel Müdürlük veya valilikler tarafından beşyüz Türk Lirasından onbin Türk
+Lirasına kadar idari para cezası verilebilir.
 
-uymayanlara Genel Müdürlük veya valilikler tarafından beşyüz Türk Lirasından onbin Türk
-Lirasına kadar idari para cezası verilebilir.30
-BEŞİNCİ KISIM
-Göç İdaresi Genel Müdürlüğü
+---
 
 ### Akademik Yorum ve Analiz
 

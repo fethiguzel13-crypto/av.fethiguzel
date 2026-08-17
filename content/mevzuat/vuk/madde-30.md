@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**Re'sen vergi tarhı**
+**Re'sen vergi tarhı:**
 
 ---
 
@@ -47,8 +47,7 @@ mükellefe takdir olunacak matrah defter ve vesikaları kayıtlarına göre tesb
 miktardan fazla olamaz.
 (Ek: 26/6/1964-485/2 md.; Değişik: 24/6/1994-4008/2 md.) Vergi beyannamesini
 kanuni süresi geçtikten sonra vermiş olanlara bu beyannamede gösterdikleri matrah üzerinden
-
-re'sen gerekli tarhiyat yapılır ve bu beyannameler re'sen takdir için takdir komisyonuna sevk
+re'sen gerekli tarhiyat yapılır ve bu beyannameler re'sen takdir için takdir komisyonuna sevk
 edilmez. Ancak, vergi incelemesine başlanılmasından veya takdir komisyonuna sevk
 edilmesinden sonra kendiliğinden verilen beyannameler için bu hüküm uygulanmaz.
 (Ek: 26/6/1964-485/2 md.) Yukarıdaki bentlerin hükümlerine göre re'sen vergi tarhını
@@ -73,6 +72,8 @@ ilan vergi dairesinin ilan koymaya mahsus mahalline asılır.
 (Değişik: 23/6/1982-2686/6 md.) Verginin tahakkuku ve cezanın kesinleşmesi için
 geçmesi gereken vergi mahkemesinde dava açma süresi; mükellefin bilinen adresinde tebligat
 yapıldığı hallerde tebliğ tarihinden, aksi halde tutanakla tespit olunan ilan tarihinden başlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

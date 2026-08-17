@@ -19,6 +19,8 @@ sağlık mesleği mensubu, üç aydan bir yıla kadar hapis cezası ile cezaland
 belgenin kişiye haksız bir menfaat sağlaması ya da kamunun veya kişilerin zararına bir sonuç
 doğurucu nitelik taşıması halinde, resmi belgede sahtecilik hükümlerine göre cezaya hükmolunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

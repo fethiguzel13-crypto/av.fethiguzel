@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**Sermaye şirketleri ile kooperatiflerin iflâsı:68**
+**Sermaye şirketleri ile kooperatiflerin iflâsı:**
 
 ---
 
@@ -18,7 +18,8 @@ kimseler veya şirket ya da kooperatif tasfiye hâlinde ise tasfiye memurları v
 tarafından beyan ve mahkemece tespit edilirse, önceden takibe hacet kalmaksızın bunların
 iflâsına karar verilir. Türk Ticaret Kanununun 377 nci ve 634 üncü maddeleri ile 24/4/1969
 tarihli ve 1163 sayılı Kooperatifler Kanununun 63 üncü maddesi hükmü saklıdır.
-Erteleme yargılaması:69
+
+---
 
 ### Akademik Yorum ve Analiz
 

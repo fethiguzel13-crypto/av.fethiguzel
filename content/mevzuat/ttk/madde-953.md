@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**E) Yönetmelik 100**
+**E) Yönetmelik**
 
 ---
 
-Madde 953 - (1) Gemi tasdiknamesiyle bayrak şahadetnamesinin nasıl düzenleneceği, gemi nin adının gemi üzerine nasıl yazılacağı ve bu Bölüm hükümlerinin uygulama şekli Cumhurbaşkanınca çıkarılan yönetmelik ile belirlenir. ÜÇÜNCÜ BÖLÜM Gemi Sicili A) Genel hükümler I - Sicil müdürlükleri ve bölgeleri
+MADDE 953- (1) Gemi tasdiknamesiyle bayrak şahadetnamesinin nasıl düzenleneceği,
+geminin adının gemi üzerine nasıl yazılacağı ve bu Bölüm hükümlerinin uygulama şekli
+Cumhurbaşkanınca çıkarılan yönetmelik ile belirlenir.
 
 ---
 

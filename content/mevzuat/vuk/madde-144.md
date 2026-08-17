@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**İncelemede usul**
+**İncelemede usul:**
 
 ---
 
@@ -23,7 +23,8 @@ husustaki yazılı isteği yetkililerce derhal yerine getirilir.
 Şu kadar ki, defter ve vesikaların muhafaza altına alındığı tarihten vergi
 beyannamesinin verileceği tarihe kadar olan süre bir aydan az ise beyanname verme süresi
 kendiliğinden bir ay uzar ve ek süre bu müddetin sonundan başlar. (13 üncü maddenin 1 - 3
-üncü fıkralariyle 17 inci madde hükümleri saklıdır.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

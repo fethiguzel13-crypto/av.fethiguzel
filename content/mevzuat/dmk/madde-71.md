@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**Bir sınıftan başka bir sınıfa geçme**
+**Bir sınıftan başka bir sınıfa geçme:**
 
 ---
 
@@ -16,9 +16,8 @@ Madde 71 – (Değişik: 30/5/1974 – KHK-12; Aynen kabul: 15/5/1975 - 1897/1 m
 derece yükselmesi suretiyle sınıf değiştirmeleri caizdir. Bu şekilde sınıf değiştireceklerin
 geçecekleri sınıf ve görev için bu Kanunda, kuruluş kanunlarında veya Cumhurbaşkanlığı
 kararnamelerinde belirtilen niteliklere sahip olmaları şarttır. Bu durumda sınıfları değişenlerin
-
-eski sınıflarının derecesinde elde ettikleri kademelerde geçirdikleri süreler yeni sınıflardaki
-derecelerinde dikkate alınır.144
+eski sınıflarının derecesinde elde ettikleri kademelerde geçirdikleri süreler yeni sınıflardaki
+derecelerinde dikkate alınır.
 Kurumlar, memurlarını meslekleri ile ilgili sınıftan genel idare hizmetleri sınıfına veya
 genel idare hizmetleri sınıfından meslekleri ile ilgili sınıfa, görev ve unvan eşitliği
 gözetmeden kazanılmış hak aylık dereceleriyle atayabilirler.
@@ -27,6 +26,8 @@ ve kademeden başlamış olup da sınıf değiştirenlerin yeni görevlerindeki 
 eski sınıflarında kazandıkları derece ve kademelere tekabül eden süre kadar uzatılır ve bu süre
 tamamlanıncaya kadar kendilerine sınıf değiştirmeleri sırasında bulundukları derecede
 kademe ilerlemesi verilmez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

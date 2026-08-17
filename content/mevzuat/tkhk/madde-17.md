@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**Taksitle satış sözleşmeleri**
+**DÖRDÜNCÜ KISIM
+Tüketici Sözleşmeleri
+BİRİNCİ BÖLÜM
+Taksitle Satış
+Taksitle satış sözleşmeleri**
 
 ---
 
@@ -18,6 +22,8 @@ bulunduğu finansal kiralama sözleşmeleri hakkında da bu Bölüm hükümleri 
 (3) Taksitle satış sözleşmesi yazılı olarak kurulmadıkça geçerli olmaz. Geçerli bir
 sözleşme yapmamış olan satıcı veya sağlayıcı, sonradan sözleşmenin geçersizliğini tüketicinin
 aleyhine olacak şekilde ileri süremez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

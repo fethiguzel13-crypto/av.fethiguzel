@@ -8,12 +8,12 @@ wordCount: 4283
 ---
 
 **D) Hüküm ve sonuçları
-I
-- Geminin kullanılmasından doğan istemler**
+I- Geminin kullanılmasından doğan istemler**
 
 ---
 
-Madde 1122 - (1) Kiracı, üçüncü kişilerin, geminin işletilmesinden dolayı, kiraya verene karşı yöneltecekleri tüm istemleri karşılamak yükümlülüğü altındadır.
+MADDE 1122- (1) Kiracı, üçüncü kişilerin, geminin işletilmesinden dolayı, kiraya
+verene karşı yöneltecekleri tüm istemleri karşılamak yükümlülüğü altındadır.
 
 ---
 

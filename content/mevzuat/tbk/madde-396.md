@@ -11,7 +11,7 @@ wordCount: 4262
 
 ---
 
-Madde 396 - İşçi, yüklendiği işi özenle yapmak ve işverenin haklı menfaatinin
+MADDE 396- İşçi, yüklendiği işi özenle yapmak ve işverenin haklı menfaatinin
 korunmasında sadakatle davranmak zorundadır.
 İşçi, işverene ait makineleri, araç ve gereçleri, teknik sistemleri, tesisleri ve taşıtları
 usulüne uygun olarak kullanmak ve bunlarla birlikte işin görülmesi için kendisine teslim

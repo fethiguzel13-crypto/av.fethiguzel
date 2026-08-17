@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Vatansızlığın tespiti**
+**ÜÇÜNCÜ BÖLÜM
+Vatansız Kişiler
+Vatansızlığın tespiti**
 
 ---
 
@@ -24,6 +26,8 @@ sürelerinin toplanmasında hesaba katılır.
 birlikte geçerliliğini kaybeder.
 (5) Vatansızlık durumlarının tespiti ve Vatansız Kişi Kimlik Belgesiyle ilgili usul ve
 esaslar yönetmelikle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

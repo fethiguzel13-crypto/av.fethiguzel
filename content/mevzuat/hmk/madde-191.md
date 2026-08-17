@@ -15,6 +15,8 @@ MADDE 191- (1) Diğer taraf, ispat yükünü taşıyan tarafın iddiasının do�
 hakkında delil sunabilir. Karşı ispat faaliyeti için delil sunan taraf, ispat yükünü üzerine almış
 sayılmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

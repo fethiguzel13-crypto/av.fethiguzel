@@ -11,7 +11,7 @@ wordCount: 4285
 
 ---
 
-Madde 562 - Saklatan, sözleşmenin ifasının zorunlu kıldığı bütün masrafları
+MADDE 562- Saklatan, sözleşmenin ifasının zorunlu kıldığı bütün masrafları
 ödemekle yükümlüdür.
 Saklatan, kendi kusurundan ileri gelmediğini ispat etmedikçe, saklayanın saklamadan
 doğan zararlarını gidermekle yükümlüdür.

@@ -7,19 +7,22 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Kurumların memurlarını hizmet içinde yetiştirme esasları**
+**Madde” 4/7/2001 tarih ve 631 sayılı KHK ile bu Kanuna 152 nci madde olarak
+işlenmiştir.)
+KISIM - VII
+Devlet Memurlarının Yetiştirilmesi
+Kurumların memurlarını hizmet içinde yetiştirme esasları:**
 
 ---
 
 Madde 214 – (Değişik : 31/7/1970 - 1327/72 md.)
-
 29/11/1984 tarihli ve 243 Sayılı Kanun Hükmünde Kararnamenin 31 inci maddesi ile bu fıkrada yer alan
 “aile yardımı ödeneğine müstehak” ibaresi kaldırılmıştır.
-280
-
-Devlet memurlarının yetişmelerini sağlamak, verimliliğini artırmak ve daha ileriki
+Devlet memurlarının yetişmelerini sağlamak, verimliliğini artırmak ve daha ileriki
 görevlere hazırlamak amaciyle uygulanacak hizmet içi eğitim, Devlet Personel Başkanlığı
 tarafından ilgili kurumlarla birlikte hazırlanacak yönetmelikler dahilinde yürütülür.
+
+---
 
 ### Akademik Yorum ve Analiz
 

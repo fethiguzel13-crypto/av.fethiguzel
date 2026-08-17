@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
-**Taşınmazlar üzerinde üçüncü şahısların hakları**
+**Taşınmazlar üzerinde üçüncü şahısların hakları:**
 
 ---
 
 Madde 213 – Müflisin taşınmazları üzerinde sicilden anlaşılan üçüncü şahıslara ait
 haklar re’sen deftere işaret olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

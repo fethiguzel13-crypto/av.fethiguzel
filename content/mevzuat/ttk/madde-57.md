@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**II
-- Çalıştıranın sorumlu luğu**
+**II - Çalıştıranın sorumluluğu**
 
 ---
 
-Madde 57 - (1) Haksız rekabet fiili, hizmetlerini veya işlerini gördükleri sırada çalışanlar veya işçiler tarafından işlenmiş olursa, 56 ncı maddenin birinci fıkrasının (a), (b) ve (c) bentlerinde yazılı davalar, çalıştıranlara karşı da açılabilir. (2 ) 56 ncı maddenin birinci fıkrasının (d) ve (e) bentlerinde yazılı davalar hakkında Türk Borçlar Kanunu hükümleri uygulanır.
+MADDE 57- (1) Haksız rekabet fiili, hizmetlerini veya işlerini gördükleri sırada
+çalışanlar veya işçiler tarafından işlenmiş olursa, 56 ncı maddenin birinci fıkrasının (a), (b) ve
+(c) bentlerinde yazılı davalar, çalıştıranlara karşı da açılabilir.
+(2) 56 ncı maddenin birinci fıkrasının (d) ve (e) bentlerinde yazılı davalar hakkında
+Türk Borçlar Kanunu hükümleri uygulanır.
 
 ---
 

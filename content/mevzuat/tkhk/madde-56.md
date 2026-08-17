@@ -25,6 +25,8 @@ Bu talebin yerine getirilmemesi durumunda satıcı, üretici ve ithalatçı müt
 (4) Hangi malların garanti belgesi ile satılmak zorunda olduğu ile diğer uygulama usul
 ve esasları yönetmelikle belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

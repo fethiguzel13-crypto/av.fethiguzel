@@ -17,8 +17,8 @@ hakkında cezaya hükmolunmaz.
 (2) Bu suç haber alındıktan sonra, organ veya dokularını satan kişi, gönüllü olarak,
 suçun meydana çıkmasına ve diğer suçluların yakalanmasına hizmet ve yardım ederse;
 hakkında verilecek cezanın, yardımın niteliğine göre, dörtte birden yarısına kadarı indirilir.
-ÜÇÜNCÜ BÖLÜM
-İşkence ve Eziyet
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**Vergiyi doğuran olayın meydana gelmesi**
+**ÜÇÜNCÜ BÖLÜM
+Vergiyi Doğuran Olay
+Vergiyi doğuran olayın meydana gelmesi:**
 
 ---
 
@@ -27,24 +29,18 @@ g) Su, elektrik, gaz, ısıtma, soğutma ve benzeri enerji dağıtım veya kulla
 bunların bedellerinin tahakkuk ettirilmesi,
 h) (Mülga : 5/11/1986 - 3316/2 md.)
 ı) İthalatta, Gümrük Kanununa göre gümrük vergisi ödeme mükellefiyetinin
-başlaması, gümrük vergisine tabi olmayan işlemlerde ise gümrük beyannamesinin tescili,4
+başlaması, gümrük vergisine tabi olmayan işlemlerde ise gümrük beyannamesinin tescili,
 j) İkametgahı, işyeri, kanuni merkezi ve iş merkezi Türkiye'de bulunmayanlar
 tarafından yabancı ülkeler ile Türkiye arasında yapılan taşımacılık ile transit taşımacılıkta
 (Değişik ibare:27/1/2000-4503/3 md.) gümrük bölgesine girilmesi veya gümrük bölgesinden
-çıkılması5
+çıkılması
 k) (Ek: 16/6/2009-5904/10 md.) 5300 sayılı Tarım Ürünleri Lisanslı Depoculuk
 Kanununa göre düzenlenen ürün senetlerinin temsil ettiği ürünlerin depodan çekilmesi.
 Anında meydana gelir.
-
-22/7/1998 tarihli ve 4369 sayılı Kanunun 81 inci maddesi ile bu bentte yer alan "…fiili ithalin yapılması…"
-ibaresi "… gümrük beyannamesinin tescili," şeklinde değiştirilmiştir.
-5
 27/1/2000 tarihli 4503 sayılı Kanunun 3 üncü maddesiyle bu bentte yer alan "gümrük hattından geçilmesi"
 ibaresi "gümrük bölgesine girilmesi veya gümrük bölgesinden çıkılması" şeklinde değiştirilmiştir.
-4
 
-İKİNCİ KISIM
-İstisnalar
+---
 
 ### Akademik Yorum ve Analiz
 

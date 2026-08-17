@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-**Kanun yolundan vazgeçme**
+**Kanun yolundan vazgeçme:**
 
 ---
 
@@ -22,11 +22,8 @@ edilen vergi tutarına ilişkin vergi ziyaı cezasının %75’i,
 2. Bağlı olduğu vergi aslı dava konusu yapılmayan veya 359 uncu maddede yazılı
 fiillere iştirak nedeniyle kesilen vergi ziyaı cezaları ile usulsüzlük ve özel usulsüzlük
 cezalarının kaldırılan tutarının %25’i ve tasdik edilen tutarının %75’i,
-168
-
 23/6/1982 tarih ve 2686 sayılı Kanunun 51 inci maddesiyle değişik şeklidir.
-
-mükellef için geçerli olan kanun yoluna başvuru süresi içerisinde, dava konusu vergi
+mükellef için geçerli olan kanun yoluna başvuru süresi içerisinde, dava konusu vergi
 ve/veya vergi cezalarının tümü için kanun yolundan vazgeçildiğine ilişkin dilekçenin ilgili
 vergi dairesine verilmesi şartıyla kanun yolundan vazgeçme dilekçesinin verildiği tarih
 itibarıyla başkaca bir işleme gerek kalmaksızın tahakkuk eder.
@@ -49,6 +46,9 @@ Bu madde uyarınca istinaf ve temyiz yolundan vazgeçilen davaya ilişkin kararl
 hükmedilen yargılama giderleri, avukatlık ücretleri ve fer’ileri karşılıklı olarak talep edilmez
 ve bu alacaklar için icra takibi yapılamaz.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar Hazine ve Maliye Bakanlığınca
+belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

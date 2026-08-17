@@ -15,6 +15,8 @@ MADDE 287- (1) Devlet, ödediği tazminat nedeniyle, sorumlu bilirkişiye, ödem
 tarihinden itibaren bir yıl içinde rücu eder. Hükme esas alınan bilirkişi raporu kasten gerçeğe
 aykırı olarak düzenlenmişse, bu durumda, ceza zamanaşımı süresi uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -238,7 +238,7 @@ export default function AvukatFethiGuzelPage() {
                             </Link>
                         </div>
 
-                        <div className="bg-white border border-charcoal/8 rounded-2xl p-5 sm:p-6 mb-6">
+                        <div className="bg-white border border-charcoal/[0.08] rounded-2xl p-5 sm:p-6 mb-6">
                             <h2 className="font-heading font-bold text-charcoal mb-3 text-lg">Ofis</h2>
                             <p className="text-charcoal/60 text-sm leading-relaxed">
                                 {PROFILE.office.street}, {PROFILE.office.locality} / {PROFILE.office.region}.
@@ -246,7 +246,7 @@ export default function AvukatFethiGuzelPage() {
                             </p>
                         </div>
 
-                        <div className="bg-white border border-charcoal/8 rounded-2xl p-5 sm:p-6">
+                        <div className="bg-white border border-charcoal/[0.08] rounded-2xl p-5 sm:p-6">
                             <h2 className="font-heading font-bold text-charcoal mb-3 text-lg">Yayımlanmış eser</h2>
                             <p className="text-charcoal/70 text-sm leading-relaxed mb-3">{PROFILE.book.title}</p>
                             <a
@@ -279,7 +279,7 @@ export default function AvukatFethiGuzelPage() {
                             <Link
                                 key={b.slug}
                                 href={`/${b.slug}`}
-                                className="bg-white border border-charcoal/8 rounded-xl px-4 py-4 text-sm font-semibold text-charcoal hover:border-accent/40 hover:text-accent transition-colors"
+                                className="bg-white border border-charcoal/[0.08] rounded-xl px-4 py-4 text-sm font-semibold text-charcoal hover:border-accent/40 hover:text-accent transition-colors"
                             >
                                 {b.ilce}
                                 <span className="block text-[11px] font-normal text-charcoal/45 mt-1">

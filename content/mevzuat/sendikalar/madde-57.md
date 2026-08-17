@@ -18,6 +18,8 @@ Kurulunun başkan ve üyeleri ile bu Kurulda görevlendirilecek uzman ve raport�
 ücretleri ve görevlendirilmeleri Maliye Bakanlığının görüşü alınarak Bakanlıkça çıkarılacak
 bir yönetmelikle düzenlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

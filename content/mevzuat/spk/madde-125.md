@@ -15,6 +15,8 @@ MADDE 125 – (1) Başkana, başkanlığa ilişkin görevlerinde yardımcı olma
 Kurul kararıyla beş Kurul başkan yardımcısı atanır. Kurul başkan yardımcılarının 119 uncu
 maddenin ikinci fıkrasında belirtilen şartları taşıması zorunludur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

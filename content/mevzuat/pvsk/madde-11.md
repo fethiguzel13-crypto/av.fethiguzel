@@ -7,10 +7,6 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**Eski eserlerden olupta kıymetli olanların satışı bu hükümden müstesnadır.**
-
----
-
 Madde 11 – (Değişik: 16/6/1985 - 3233/3 md.)
 Polis;
 A) Genel ahlak ve edep kurallarına aykırı olarak; utanç verici ve toplum düzeni
@@ -23,6 +19,8 @@ sesli ve görüntülü eserleri, kaydedildiği materyale bakılmaksızın ürete
 Herhangi bir müracaat veya şikayet olmasa bile engeller, davranışlarının devamını
 durdurarak yasaklar, sanıklar hakkında tanzim olunacak evrakı derhal şikayete bağlı suçlar
 hakkındaki evrakı da şikayet ve müracaat vukubulduğu takdirde adliyeye tevdi eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,7 @@ wordCount: 4308
 
 ---
 
-Madde 115 - Borçlunun ağır kusurundan sorumlu olmayacağına ilişkin önceden
+MADDE 115- Borçlunun ağır kusurundan sorumlu olmayacağına ilişkin önceden
 yapılan anlaşma kesin olarak hükümsüzdür.
 Borçlunun alacaklı ile hizmet sözleşmesinden kaynaklanan herhangi bir borç sebebiyle
 sorumlu olmayacağına ilişkin olarak önceden yaptığı her türlü anlaşma kesin olarak

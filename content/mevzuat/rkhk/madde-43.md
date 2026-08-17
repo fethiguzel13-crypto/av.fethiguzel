@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**Soruşturmaya Başlanması, Taahhüt ve Uzlaşma15**
+**Soruşturmaya Başlanması, Taahhüt ve Uzlaşma**
 
 ---
 
@@ -47,16 +47,14 @@ tespitinin ve idari para cezasının yer aldığı bir nihai kararla soruşturma
 (Ek fıkra:16/6/2020-7246/9 md.) Uzlaşma usulü sonucunda idari para cezasında
 yüzde yirmi beşe kadar indirim uygulanabilir. Bu madde uyarınca idari para cezası
 tutarlarında indirim uygulanmış olması 5326 sayılı Kanunun 17 nci maddesinin altıncı fıkrası
-16/6/2020 tarihli ve 7246 sayılı Kanunun 9 uncu maddesiyle, bu maddenin başlığı “Kurulun
-Soruşturmaya Başlaması” iken metne işlendiği şekilde değiştirilmiştir.
-15
-
-kapsamında indirim yapılmasına engel teşkil etmez.
+kapsamında indirim yapılmasına engel teşkil etmez.
 (Ek fıkra:16/6/2020-7246/9 md.) Sürecin uzlaşma ile neticelenmesi halinde, idari
 para cezası ve uzlaşma metninde yer alan hususlar uzlaşmanın taraflarınca dava konusu
 yapılamaz.
 (Ek fıkra:16/6/2020-7246/9 md.) Uzlaşmaya ilişkin diğer usul ve esaslar Kurul
 tarafından çıkarılan yönetmelik ile belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -24,6 +24,8 @@ uygulanır.
 her birine ayrı ayrı ödemek zorundadır. Takım kılavuzu için, takıma dahil işçilerin
 ücretlerinden işe aracılık veya benzeri bir nedenle kesinti yapılamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

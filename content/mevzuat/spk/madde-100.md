@@ -23,6 +23,8 @@ işyerleri geçici olarak kapatılabilir.
 açıklamaların durdurulmasını ve kaldırılmasını isteyebilir.
 Piyasa bozucu eylemler, bilgi suistimali ve piyasa dolandırıcılığı incelemelerinde
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

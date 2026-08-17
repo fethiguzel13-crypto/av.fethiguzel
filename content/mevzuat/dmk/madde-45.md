@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**Memurun başka sınıfta ve derecesinin altında bir görevde çalıştırılmıyacağı**
+**Memurun başka sınıfta ve derecesinin altında bir görevde çalıştırılmıyacağı:**
 
 ---
 
@@ -23,8 +23,8 @@ aynı sınıftan memur atanması mümkündür.
 Bu gibiler, işgal ettikleri kadroda kazanılmış derece ve kademelerinin aylığını almaya
 devam ederler ve kazanılmış aylıklarındaki kademe ilerlemesi ve derece yükselmesi genel
 esaslara göre yapılır. Karşılık gösterilen kadrolar, ilgililer için kazanılmış hak teşkil etmez.
-KISIM - III
-Devlet Memurluğuna Alınma
+
+---
 
 ### Akademik Yorum ve Analiz
 

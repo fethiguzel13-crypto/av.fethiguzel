@@ -7,9 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-MADDE 807- (1) Hesaba geçirilmek üzere düzenlenen bir çekin hamili; muhatabın, çek bedelini kayıtsız ve şartsız bir alacak olarak hesaba geçirmekten kaçındığını veya ödeme yerindeki takas odasının, bu çekin, hamilin borçlarına mahsup edilmek kabiliyetini haiz olmadığını saptattığı takdirde, başvurma hakkını kullanabilir [1].
+**b) Hesaba geçirilmeme hâlinde**
 
 ---
+
+MADDE 807- (1) Hesaba geçirilmek üzere düzenlenen bir çekin hamili; muhatabın,
+çek bedelini kayıtsız ve şartsız bir alacak olarak hesaba geçirmekten kaçındığını veya ödeme
+yerindeki takas odasının, bu çekin, hamilin borçlarına mahsup edilmek kabiliyetini haiz
+olmadığını beyan etmiş bulunduğunu ispat ederse, başvurma haklarını kullanabilir.
 
 ---
 

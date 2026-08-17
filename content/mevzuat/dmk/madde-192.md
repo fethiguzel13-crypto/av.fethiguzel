@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**Devlet memurları için konut kredisi**
+**Devlet memurları için konut kredisi:**
 
 ---
 
@@ -18,6 +18,8 @@ verilebilir.
 Bu krediden faydalanma şartları ile kredi borcunun memurlardan tahsili ve her yıl
 ödenecek toplam kredi tutarı gibi diğer hususlar Toplu Konut ve Kamu Ortaklığı İdaresi
 Başkanlığınca hazırlanacak yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

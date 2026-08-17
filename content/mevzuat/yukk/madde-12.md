@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Vize muafiyeti7**
+**Vize muafiyeti**
 
 ---
 
@@ -23,7 +23,8 @@ kapsamında olduğu anlaşılanlar
 a) Mücbir nedenlerle, Türk hava ve deniz limanlarını kullanmak zorunda kalan
 taşıtlardaki yabancılardan liman şehrine çıkacak kişiler
 b) Deniz limanlarına gelip, yetmiş iki saati geçmemek kaydıyla, liman şehrini veya
-civar illeri turizm amaçlı gezecek kişiler
+
+---
 
 ### Akademik Yorum ve Analiz
 

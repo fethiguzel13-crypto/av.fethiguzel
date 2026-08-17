@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**Pay cetveli ve son hesap**
+**VI. PARALARIN PAYLAŞTlRlLMASl
+Pay cetveli ve son hesap:**
 
 ---
 
 Madde 247 – Satılan malların bedeli tahsil edilip alacaklıların sıra cetveli katileşince
 iflas idaresi paraların pay cetvelini ve son hesabını yapar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

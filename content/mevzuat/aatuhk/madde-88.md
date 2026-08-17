@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Gayrimenkul malların, gemilerin haczi**
+**ÜÇÜNCÜ BÖLÜM
+Gayrimenkul malların haczi ve satışı
+Gayrimenkul malların, gemilerin haczi:**
 
 ---
 
@@ -23,6 +25,8 @@ başkaca bir geliri yoksa kendisinin ve ailesinin geçimleri için kafi miktarda
 satıldıkça bedelinden münasip miktarı borçluya bırakılır.
 Alacaklı tahsil dairesi, haczedilen gayrimenkul ve gemilerin idaresi ve işletilmesi,
 menfaat ve hasılatın toplanması için gereken tedbirleri alır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

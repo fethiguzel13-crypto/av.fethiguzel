@@ -16,6 +16,8 @@ işçisi olarak normal çalışma saatleri dışında hazırlama, tamamlama, tem
 çalışan işçilerin bu işler için aldıkları ücretler ve sosyal yardımlar, ulusal bayram, hafta tatili
 ve genel tatil günleri için verilen ücretlerin tespitinde hesaba katılmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

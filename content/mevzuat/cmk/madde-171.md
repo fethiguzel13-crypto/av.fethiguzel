@@ -13,19 +13,14 @@ wordCount: 4308
 
 Madde 171 – (Değişik: 6/12/2006 – 5560/22 md.)
 (1) Cezayı kaldıran şahsî sebep olarak etkin pişmanlık hükümlerinin uygulanmasını
-8/7/2021 tarihli ve 7331 sayılı Kanunun 19 uncu maddesiyle, bu fıkrada yer alan “açıklanır.”
-ibaresi “açıklanır; yüklenen suçu oluşturan olaylar ve suçun delilleriyle ilgisi bulunmayan bilgilere
-yer verilmez.” şeklinde değiştirilmiştir.
-64
-
-gerektiren koşulların ya da şahsî cezasızlık sebebinin varlığı halinde, Cumhuriyet savcısı
+gerektiren koşulların ya da şahsî cezasızlık sebebinin varlığı halinde, Cumhuriyet savcısı
 kovuşturmaya yer olmadığı kararı verebilir.
 (2) (Değişik:17/10/2019-7188/19 md.) Uzlaştırma ve önödeme kapsamındaki suçlar
 hariç olmak üzere, Cumhuriyet savcısı, üst sınırı üç yıl veya daha az süreli hapis cezasını
 gerektiren suçlardan dolayı, yeterli şüphenin varlığına rağmen, kamu davasının açılmasının
 beş yıl süre ile ertelenmesine karar verebilir. Suçtan zarar gören veya şüpheli, bu karara 173
 üncü madde hükümlerine göre itiraz edebilir.
-(3) Kamu davasının açılmasının ertelenmesine karar verilebilmesi için;65
+(3) Kamu davasının açılmasının ertelenmesine karar verilebilmesi için;
 a) Şüphelinin daha önce kasıtlı bir suçtan dolayı hapis cezası ile mahkûm olmamış
 bulunması,
 b) Yapılan soruşturmanın, kamu davası açılmasının ertelenmesi halinde şüphelinin suç
@@ -50,6 +45,8 @@ b) Kamu görevlisi tarafından görevi sebebiyle veya kamu görevlisine karşı 
 dolayı işlenen suçlar ile asker kişiler tarafından işlenen askerî suçlar,
 c) Cinsel dokunulmazlığa karşı işlenen suçlar,
 hakkında uygulanmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

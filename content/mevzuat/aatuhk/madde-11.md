@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Şahsi kefalet**
+**Şahsi kefalet:**
 
 ---
 
@@ -18,6 +18,8 @@ olunur.
 Şahsi kefaleti ve gösterilen şahsı kabul edip etmemekte alacaklı tahsil dairesi
 muhtardır.
 Amme alacağını ödiyen kefile buna dair bir belge verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4278
 ---
 
-**1 – Usulü**
+**Defter tutulması:
+1 – Usulü:**
 
 ---
 
@@ -15,6 +16,8 @@ Madde 161 – İflas talebinde bulunan alacaklı isterse, mahkeme borçluya ait 
 bir defterinin tutulmasına karar verebilir. Bu defter iflas dairesi tarafından tutulur.
 Boçlunun mallarını göstermemesi ve kilitli yerlerini açmaması gibi hallerde 80 ve 81
 inci maddeler hükmü tatbik olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

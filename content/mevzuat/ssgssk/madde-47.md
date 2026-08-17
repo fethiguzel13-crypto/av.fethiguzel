@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**Vazife Malûllüğü79**
+**Vazife Malûllüğü**
 
 ---
 
@@ -22,7 +22,7 @@ gelen kazadan doğmuş olursa, buna vazife malûllüğü ve bunlara uğrayanlara
 denir.
 Vazife malûllükleri;
 a) Keyif verici içki ve her çeşit maddeler kullanmaktan,
-b) Mevzuat ve emir dışında hareket etmiş olmaktan,80
+b) Mevzuat ve emir dışında hareket etmiş olmaktan,
 c) Yasak fiilleri yapmaktan,
 d) İntihara teşebbüsten,
 e) Her ne suretle olursa olsun kendisine veya başkalarına menfaat sağlama veya zarar
@@ -40,10 +40,7 @@ b) Hastalıklarının sebep ve mahiyetleri dolayısıyla haklarında vazife mal�
 hükümleri uygulanacaklar için, hastalıklarının tedavisinin imkânsız olduğuna dair düzenlenen
 kati raporun onay tarihinden,
 c) Esirlik ve gaiplik hallerinde ise, bu hallerin sona erdiği tarihten,
-79 Bu madde başlığı "Vazife malûllüğü, harp malûllüğü ile harp malûllerine verilecek malûllük zammı ve vazife malûllerine verilecek sürekli iş göremezlik geliri karşılığı " iken, 17/4/2008 tarihli ve 5754 sayılı Kanunun 27 nci maddesiyle metne işlendiği şekilde değiştirilmiştir. 80 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 203 üncü maddesiyle bu bentte yer alan “Kanun, tüzük” ibaresi “Mevzuat” şeklinde değiştirilmiştir.
-
-
-başlar.
+başlar.
 Süresi içerisinde bildirimde bulunulan vazife malûllüğü aylıkları, sigortalının ölüm ya
 da malûliyeti sebebiyle göreviyle ilişiğinin kesildiği tarihi takip eden aybaşından itibaren
 bağlanır. (Ek cümle: 4/7/2012-6353/82 md.; Değişik ikinci cümle: 12/7/2013-6495/97 md.)
@@ -82,9 +79,7 @@ hizmetlerin sebep ve etkileriyle,
 c) Harpte veya harbe hazırlık devresinde her çeşit düşman silâhlarının etkisiyle,
 d) Askerî harekâtı gerektiren iç tedip ve sınır hareketleri sırasında, bu hareketlerin
 sebep ve etkisiyle,
-
-
-e) Barışta veya olağanüstü hallerde, emir veya görev ile uçuş yapan uçucularla hangi
+e) Barışta veya olağanüstü hallerde, emir veya görev ile uçuş yapan uçucularla hangi
 meslek ve sınıftan olursa olsun emirle görevli olarak uçakta bulunanlardan uçuşun havadaki
 ve yerdeki sebepleriyle ve yine emir ve görev ile dalış yapan dalgıçlarla, hangi meslek ve
 sınıftan olursa olsun emirle görevli olarak denizaltı gemisinde veya dalgıç kıtasında
@@ -93,7 +88,7 @@ f) Anayasanın 92 nci maddesi veya Türkiye'nin taraf olduğu uluslararası söz
 uyarınca Türk Silâhlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik
 Komutanlığı mensuplarının yabancı ülkelere gönderilmesini gerektiren durumlarda, birliklerin
 bulundukları yerlerden hareketlerinden itibaren yurt içinde, yurt dışında, yabancı ülkelerde
-veya yurda dönüş sırasında,81
+veya yurda dönüş sırasında,
 vazife malûlü olanlara harp malûlü denir.
 Bunlardan uzman erbaş ve sözleşmeli erbaş ve erlere bulundukları kademenin üç
 ilerisindeki kademenin, uzman jandarmalara bulundukları rütbenin bir üst rütbesinin aynı
@@ -101,10 +96,10 @@ kademesinin; astsubaylarla yarbay rütbesine kadar (yarbay hariç) bir üst rüt
 kademesinin, yarbaylara albay, albaylara kıdemli albay, kıdemli albay ile general ve
 amirallere bir üst rütbenin, bu Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi
 kapsamında bulunan sigortalılara ise bir üst derecesine veya kademesine karşılık gelen prime
-esas kazancı üzerinden aylık bağlanır.82
+esas kazancı üzerinden aylık bağlanır.
 Bulundukları derecenin bir üst derecesi olmayanlar için o derecenin üç ilerisindeki
 kademe göstergesi, üç ilerisindeki kademe göstergesi olmayanlar için de o derecenin son
-kademe göstergesinin prime esas kazancı esas alınır.82
+kademe göstergesinin prime esas kazancı esas alınır.
 Harp malûllerinin, malûllük derecesine göre aşağıdaki yazılı göstergelerin, memur aylık
 katsayısı ile çarpımı sonucu bulunacak miktar "Harp malûllüğü zammı" olarak ayrıca eklenir.
 Malûllük Derecesi Göstergeler
@@ -118,11 +113,8 @@ Harp malûlü sayılanlardan bir harekâtın başarıyla sonuçlanmasını şahs
 örnek tutulacak cesaret ve fedakârlık gösterdiği sıralarda bu malûllüğe uğradıkları usûlüne
 göre sıralı üstlerince saptanan Türk Silâhlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil
 Güvenlik Komutanlığı mensupları ile Türk Silâhlı Kuvvetlerince görevlendirilen sivil
-81 17/4/2017 tarihli ve 690 sayılı KHK’nin 38 inci maddesiyle, bu bentte yer alan “Türk Silâhlı Kuvvetlerinin” ibaresi “Türk Silâhlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı mensuplarının” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7077 sayılı Kanunun 34 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır. 82 10/3/2011 tarihli ve 6191 sayılı Kanunun 10 uncu maddesiyle, sekizinci fıkrada yer alan “uzman erbaş” ibaresinden sonra gelmek üzere “, sözleşmeli erbaş ve er” ibaresi eklenmiş ve dokuzuncu fıkrada yer alan “uzman erbaşlara” ibaresi “uzman erbaş ve sözleşmeli erbaş ve erlere” şeklinde değiştirilmiştir.
-
-
-görevlilere, Genelkurmay Başkanlığının uygun görmesi ve ilgisine göre İçişleri Bakanının
-veya Millî Savunma Bakanının onayı ile harp malûllüğü zamları %25 fazlasıyla bağlanır.83
+görevlilere, Genelkurmay Başkanlığının uygun görmesi ve ilgisine göre İçişleri Bakanının
+veya Millî Savunma Bakanının onayı ile harp malûllüğü zamları %25 fazlasıyla bağlanır.
 Bu madde gereğince vazife malûllüğü aylığı almakta iken veya vazife malûllüğü aylığı
 bağlanması gerekirken ölenlerin, hak sahiplerine, müstahak olmaları halinde harp malûllüğü
 zammı da dahil olmak üzere prim ödeme gün sayısına bakılmaksızın ölüm aylığı bağlanır.
@@ -138,7 +130,7 @@ aylıkları, çalışmaya başladıkları tarihi takip eden ödeme dönemi baş�
 bunlar hakkında uzun vadeli sigorta kolları uygulanır.Bunlardan çalıştıkları süre zarfında 80
 inci maddeye göre belirlenen prime esas kazançları üzerinden 81 inci madde gereğince kısa ve
 uzun vadeli sigorta kolları ile genel sağlık sigortasına ait prim alınır. Bunlar ile 4 üncü
-maddenini birinci fıkrasının (a) bendi kapsamında çalışmaları nedeniyle istekleri üzerine
+maddenin birinci fıkrasının (a) bendi kapsamında çalışmaları nedeniyle istekleri üzerine
 haklarında uzun vadeli sigorta kolları uygulananlardan; yeniden aylık bağlanması için yazılı
 istekte bulunan ya da emekliye ayrılan veya herhangi bir nedenle görevi sona erenler
 hakkında sonraki çalışmaları karşılığında aylığa hak kazanmaları halinde bu süre için, 29 uncu
@@ -159,10 +151,7 @@ değiştirerek 4 üncü maddenin birinci fıkrasının (c) bendi kapsamında ça
 hakkında uzun vadeli sigorta kollarının uygulanmasına devam edilir. Bunların sınıf veya görev
 değiştirdikleri tarihten sonra geçen çalışmaları dolayısıyla yeniden aylık bağlanması için yazılı
 istekte bulunmaları ya da emekliye ayrılmaları veya herhangi bir nedenle görevlerinin sona ermesi
-83 17/4/2017 tarihli ve 690 sayılı KHK’nin 38 inci maddesiyle, bu fıkrada yer alan “Türk Silâhlı Kuvvetleri mensupları” ibaresi “Türk Silâhlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı mensupları” şeklinde ve “Millî Savunma Bakanının” ibaresi “ilgisine göre İçişleri Bakanının veya Millî Savunma Bakanının” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7077 sayılı Kanunun 34 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.
-
-
-halinde, sonraki çalışmaları karşılığında aylığa hak kazanmaları durumunda bu süre için 29 uncu
+halinde, sonraki çalışmaları karşılığında aylığa hak kazanmaları durumunda bu süre için 29 uncu
 maddeye göre aylık hesaplanır. Sonradan geçen çalışmalarından dolayı yaşlılık aylığına hak
 kazanamayanların kendilerine toptan ödeme yapılır, vefatları halinde ise hak sahiplerine ölüm
 aylığı bağlanır veya toptan ödeme yapılır.
@@ -182,6 +171,8 @@ ve yerdeki veya dalgıçlığın çeşitli sebep ve tesiri ile malul olanlar ile
 hakkında sekizinci fıkranın (e) bendi kapsamına girenlere ilişkin hükümler uygulanır.
 Bu maddenin uygulanmasına ilişkin usûl ve esaslar Kurumca çıkarılacak yönetmelikle
 düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

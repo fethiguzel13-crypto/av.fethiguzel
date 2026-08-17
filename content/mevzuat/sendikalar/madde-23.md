@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**İşçi kuruluşu yöneticiliğinin güvencesi**
+**DÖRDÜNCÜ BÖLÜM
+Güvenceler
+İşçi kuruluşu yöneticiliğinin güvencesi**
 
 ---
 
@@ -16,8 +18,6 @@ işçinin iş sözleşmesi askıda kalır. Yönetici dilerse işten ayrıldığ�
 bildirim süresine uymaksızın veya sözleşme süresinin bitimini beklemeksizin fesheder ve
 kıdem tazminatına hak kazanır. Yönetici, yöneticilik süresi içerisinde iş sözleşmesini
 feshederse kıdem tazminatı fesih tarihindeki emsal ücret üzerinden hesaplanır.
-
-
 (2) İş sözleşmesi askıya alınan yönetici; sendikanın tüzel kişiliğinin sona ermesi,
 seçime girmemek, yeniden seçilmemek veya kendi isteği ile çekilmek suretiyle görevinin
 sona ermesi hâlinde, sona erme tarihinden itibaren bir ay içinde ayrıldığı işyerinde işe
@@ -29,6 +29,8 @@ feshedilmiş sayılır.
 ise başvuruları hâlinde işveren tarafından kıdem tazminatı ödenir. Ödenecek tazminatın
 hesabında, işyerinde çalışılmış süreler göz önünde bulundurulur ve fesih anında emsalleri için
 geçerli olan ücret ve diğer hakları esas alınır. İşçinin iş kanunlarından doğan hakları saklıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,7 @@ wordCount: 4307
 
 ---
 
-Madde 490 - Yayımlatan, sözleşmede kararlaştırılan süre sona ermedikçe veya süre
+MADDE 490- Yayımlatan, sözleşmede kararlaştırılan süre sona ermedikçe veya süre
 belirlenmemişse kararlaştırılan baskı adedinin tükenmesi için alışılmış süre geçmedikçe,
 eserin tamamı veya bir bölümü üzerinde, yayımcının zararına olacak biçimde tasarrufta
 bulunamaz.

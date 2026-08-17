@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**seçme serbestisi**
+**Sözleşmeli sağlık hizmeti sunucularının duyurulması ve sağlık hizmet sunucusunu
+seçme serbestisi**
 
 ---
 
@@ -18,6 +19,8 @@ elektronik ortamda veya diğer yöntemlerle duyurulur.
 Genel sağlık sigortalıları ve bakmakla yükümlü olduğu kişiler, sağlık hizmeti
 sunucuları arasından, genel sağlık sigortasıyla ilgili diğer madde hükümlerine uymak şartıyla
 istediğini seçme hakkına sahiptir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

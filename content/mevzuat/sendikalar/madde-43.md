@@ -16,7 +16,6 @@ işçi veya işveren sendikaları veya sendika üyesi olmayan işveren; taraflar
 ikisinin yetki şartlarına sahip olmadığı veya kendisinin bu şartları taşıdığı yolundaki itirazını,
 nedenlerini de göstererek yazının kendilerine tebliğ edildiği tarihten itibaren altı iş günü
 içinde mahkemeye yapabilir.
-7 10/9/2014 tarihli ve 6552 sayılı Kanunun 20 nci maddesiyle, bu maddenin ikinci fıkrasında yer alan “yüzde üçünden” ibaresi “yüzde birinden”, dördüncü fıkrasında yer alan “yüzde üçünü” ibaresi “yüzde birini” olarak değiştirilmiştir.
 (2) İtiraz dilekçesi görevli makama kayıt ettirildikten sonra mahkemeye verilir. Kurulu
 bulunduğu işkolunda çalışan işçilerin yüzde birinden daha az üyesi bulunan işçi sendikası,
 yetki itirazında bulunamaz.
@@ -33,6 +32,8 @@ Mahkeme açılan davayı o işkolunda çalışan işçilerin en az yüzde birini
 sendikaları ile işveren sendikası veya sendika üyesi olmayan işverene de bildirir. Mahkeme
 davayı iki ay içinde sonuçlandırır.
 (5) İtiraz, karar kesinleşinceye kadar yetki işlemlerini durdurur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**Cevap dilekçesinin verilmesi**
+**İKİNCİ BÖLÜM
+Cevap Dilekçesi
+Cevap dilekçesinin verilmesi**
 
 ---
 
@@ -15,6 +17,8 @@ MADDE 126- (1) Davalı, cevap dilekçesini, davanın açılmış olduğu mahkeme
 (2) Cevap dilekçesine davacı sayısı kadar örnek eklenir.
 (3) Cevap dilekçesi, havale edildiği tarihte verilmiş sayılır.
 (4) Cevap dilekçesinin örneği mahkeme tarafından davacıya tebliğ edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

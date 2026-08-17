@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4286
 ---
 
-**Olağanüstü yönetim hallerinde çekilme usulü**
+**Olağanüstü yönetim hallerinde çekilme usulü:**
 
 ---
 
@@ -16,6 +16,8 @@ md.)
 Olağanüstü hal, seferberlik ve savaş hallerinde veya genel hayata müessir afetlere
 uğrayan yerlerdeki Devlet memurları, çekilme istekleri kabul edilmedikçe veya yerine
 atanacaklar gelip işe başlamadıkça görevlerini bırakamazlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

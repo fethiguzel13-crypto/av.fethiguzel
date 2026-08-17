@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**Genel hükümlerin uygulanması**
+**Genel hükümlerin uygulanması:**
 
 ---
 
@@ -19,6 +19,8 @@ arasındaki ilişkide araca gelen zararlardan dolayı sorumluluk, genel hüküml
 Zarar görenin beraberinde bulunan bagaj ve benzeri eşya dışında araçta taşınan
 eşyanın uğradığı zararlardan dolayı işletenin veya araç işleticisinin bağlı olduğu teşebbüs
 sahibinin sorumluluğu da genel hükümlere tabidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

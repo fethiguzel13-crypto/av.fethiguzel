@@ -7,11 +7,9 @@ lastReviewed: "2026-07-27"
 wordCount: 2939
 ---
 
-**(Mülga : 23/12/1972 – KHK-2/5)**
+Madde 238 – (Mülga : 23/12/1972 – KHK-2/5)
 
 ---
-
-Madde 238 - (Mülga : 23/12/1972 – KHK-2/5)
 
 ### Akademik Yorum ve Analiz
 

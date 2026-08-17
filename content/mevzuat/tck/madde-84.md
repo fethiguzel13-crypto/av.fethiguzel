@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**İntihara yönlendirme34**
+**İntihara yönlendirme**
 
 ---
 
@@ -21,6 +21,8 @@ ile cezalandırılır. (Mülga ikinci cümle: 29/6/2005 – 5377/10 md.)
 (4) İşlediği fiilin anlam ve sonuçlarını algılama yeteneği gelişmemiş olan veya ortadan
 kaldırılan kişileri intihara sevk edenlerle cebir veya tehdit kullanmak suretiyle kişileri intihara
 mecbur edenler, kasten öldürme suçundan sorumlu tutulurlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

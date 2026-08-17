@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**İhtiyati haciz kararı**
+**(Ek fıkra: 29/6/1956-6763/42 md.; Mülga dördüncü fıkra: 14/1/2011-6103/41 md.)
+(Ek fıkra: 29/6/1956-6763/42 md.; Mülga beşinci fıkra: 14/1/2011-6103/41 md.)
+İhtiyati haciz kararı:**
 
 ---
 
@@ -20,6 +22,8 @@ Mahkeme iki tarafı dinleyip dinlememekte serbesttir.
 başvurulabilir. Yüzüne karşı aleyhinde ihtiyati haciz kararı verilen taraf da istinaf yoluna
 başvurabilir. Bölge adliye mahkemesi bu başvuruları öncelikle inceler ve verdiği karar
 kesindir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

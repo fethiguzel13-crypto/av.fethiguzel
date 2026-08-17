@@ -11,7 +11,7 @@ wordCount: 4318
 
 ---
 
-Madde 125 - Temerrüde düşen borçlu, verilen süre içinde, borcunu ifa etmemişse
+MADDE 125- Temerrüde düşen borçlu, verilen süre içinde, borcunu ifa etmemişse
 veya süre verilmesini gerektirmeyen bir durum söz konusu ise alacaklı, her zaman borcun
 ifasını ve gecikme sebebiyle tazminat isteme hakkına sahiptir.
 Alacaklı, ayrıca borcun ifasından ve gecikme tazminatı isteme hakkından vazgeçtiğini

@@ -11,7 +11,7 @@ wordCount: 4279
 
 ---
 
-Madde 94 - Borç, alışılmış iş saatlerinde ifa ve kabul edilir.
+MADDE 94- Borç, alışılmış iş saatlerinde ifa ve kabul edilir.
 
 ---
 

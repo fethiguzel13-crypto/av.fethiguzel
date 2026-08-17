@@ -17,6 +17,8 @@ gecikmeksizin haber verilir.
 (2) Yakalanan veya gözaltına alınan yabancı ise, yazılı olarak karşı çıkmaması
 halinde, durumu, vatandaşı olduğu devletin konsolosluğuna bildirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

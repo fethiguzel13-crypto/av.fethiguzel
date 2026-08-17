@@ -11,10 +11,9 @@ wordCount: 4266
 
 ---
 
-Madde 423 - İşçi, bir hizmet yılı içinde kendi kusuruyla toplam bir aydan daha uzun
+MADDE 423- İşçi, bir hizmet yılı içinde kendi kusuruyla toplam bir aydan daha uzun
 bir süreyle hizmeti yerine getirmediği takdirde işveren, çalışılmayan her tam ay için, yıllık
 ücretli izin süresinden bir gün indirim yapabilir.
-
 İşçi, bir hizmet yılı içinde kendi kusuru olmaksızın hastalık, kaza, yasal bir
 yükümlülüğün veya kamu görevinin yerine getirilmesi gibi kişiliğine bağlı sebeplerle en çok
 üç ay süreyle işgörme edimini yerine getiremediği takdirde, işveren yıllık ücretli izin

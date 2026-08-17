@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**Toplu mahkemelerde tahkikat**
+**YEDİNCİ AYIRIM
+Toplu Mahkemelerde Tahkikat
+(Ek:22/7/2020-7251/19 md.)
+Toplu mahkemelerde tahkikat**
 
 ---
 
@@ -23,9 +26,8 @@ karar verebilir.
 tahkikat işlemlerini yapmak üzere, üyelerden birini naip hâkim olarak görevlendirebilir.
 (4) Mahkeme başkanı, mahkemenin uyumlu, verimli ve düzenli çalışmasını sağlar ve
 bu yolda uygun göreceği önlemleri alır.
-ALTINCI BÖLÜM
-Tahkikatın Sona Ermesi ve Sözlü Yargılama
-Tahkikatın sona ermesi
+
+---
 
 ### Akademik Yorum ve Analiz
 

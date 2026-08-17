@@ -44,7 +44,7 @@ export default function EDurusmaHubPage() {
                     (e-duruşma) hakkında nesnel bilgilendirme ve yayımlanmış monografiye erişim.
                 </p>
 
-                <section className="bg-white border border-charcoal/8 rounded-2xl p-6 sm:p-8 mb-8">
+                <section className="bg-white border border-charcoal/[0.08] rounded-2xl p-6 sm:p-8 mb-8">
                     <div className="flex gap-3 mb-4">
                         <BookOpen className="text-accent shrink-0" size={22} />
                         <div>

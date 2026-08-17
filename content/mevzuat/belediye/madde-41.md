@@ -21,6 +21,8 @@ Nüfusu 50.000'in altında olan belediyelerde stratejik plân yapılması zorunl
 Stratejik plân ve performans programı bütçenin hazırlanmasına esas teşkil eder ve
 belediye meclisinde bütçeden önce görüşülerek kabul edilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

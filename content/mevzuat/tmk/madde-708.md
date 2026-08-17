@@ -11,7 +11,14 @@ wordCount: 4267
 
 ---
 
-Madde 708 - Birikme, dolma, toprak kayması veya kamuya a it suların yatağında ya da seviyesinde değişme gibi sebeplerle sahipsiz yerlerde yeniden o luşan yararlanmaya elverişl i arazi Devlete ait olur. Devlet, bu araziyi kamusal bir sakınca bulunmadığı takdirde öncelikle arazisi kayba uğrayana veya bitişik arazi m alikine devredebilir. Toprak parçalarının kendi arazisinden koptuğunu ispat eden malik, bu nları, durumu öğrendiği tar ihten başlayarak bir ve her hâlde oluşumun gerçekleştiği tarihten başlayarak on yıl içinde geri alabilir.
+Madde 708- Birikme, dolma, toprak kayması veya kamuya ait suların yatağında ya da
+seviyesinde değişme gibi sebeplerle sahipsiz yerlerde yeniden oluşan yararlanmaya elverişli arazi
+Devlete ait olur.
+Devlet, bu araziyi kamusal bir sakınca bulunmadığı takdirde öncelikle arazisi kayba
+uğrayana veya bitişik arazi malikine devredebilir.
+Toprak parçalarının kendi arazisinden koptuğunu ispat eden malik, bunları, durumu
+öğrendiği tarihten başlayarak bir ve her hâlde oluşumun gerçekleştiği tarihten başlayarak on yıl
+içinde geri alabilir.
 
 ---
 

@@ -11,7 +11,10 @@ wordCount: 4317
 
 ---
 
-Madde 431 - Vasinin atanması usulüne ilişkin ku rallar, kayyım ve yasal dan ışmanın ata nmasın da da uygulanır. Kayyım veya yasal danışman atanmasına ilişkin karar, ancak vesayet makamının gerekli gö rmesi hâlinde ilân olunur. ALTINCI AYIRIM KORUMA AMACIYLA ÖZGÜRLÜĞÜN KISITLANMAS I A. Koşulları
+Madde 431- Vasinin atanması usulüne ilişkin kurallar, kayyım ve yasal danışmanın
+atanmasında da uygulanır.
+Kayyım veya yasal danışman atanmasına ilişkin karar, ancak vesayet makamının gerekli
+görmesi hâlinde ilân olunur.
 
 ---
 

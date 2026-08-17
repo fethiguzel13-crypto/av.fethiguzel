@@ -30,6 +30,8 @@ her türlü bilgi ve belgeyi vermekle yükümlüdür.
 (7) Görevli makam, uyuşmazlığın kapsamını ve niteliğini de dikkate alarak arabulucuya
 ödenmesi gereken ücreti yönetmelikte belirtilen alt ve üst sınırlar içerisinde belirler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

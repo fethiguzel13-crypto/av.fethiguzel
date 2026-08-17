@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**Madde 404**
+**İKİNCİ AYIRIM
+VESAYETİ GEREKTİREN HÂLLER
+A. Küçüklük**
 
 ---
 
-Madde 404 - Velâyet altında bulunmayan her küçük vesayet altına alınır. Görevlerin i yaparlarken vesayeti gere ktiren böyle bir hâlin varlığını öğren en nüf us memurları, idarî makamlar, noterler ve mahkemeler, bu du rumu hemen yetkili vesayet makamına bildirmek zorundadırlar.
+Madde 404- Velâyet altında bulunmayan her küçük vesayet altına alınır.
+Görevlerini yaparlarken vesayeti gerektiren böyle bir hâlin varlığını öğrenen nüfus
+memurları, idarî makamlar, noterler ve mahkemeler, bu durumu hemen yetkili vesayet makamına
+bildirmek zorundadırlar.
 
 ---
 

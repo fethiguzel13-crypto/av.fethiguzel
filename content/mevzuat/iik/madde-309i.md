@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**Tevdi**
+**Tevdi:**
 
 ---
 
@@ -16,7 +16,8 @@ Konkordato tasfiye memurları tarafından belirlenen sürede hak sahipleri taraf
 tahsil edilmeyen paylar 9 uncu madde hükümlerine göre bankaya yatırılır.
 Beş yıl içinde hak sahipleri tarafından tahsil edilmeyen paylar iflâs dairesi tarafından
 dağıtılır; 255 inci madde kıyas yoluyla uygulanır.
-Faaliyet raporu:
+
+---
 
 ### Akademik Yorum ve Analiz
 

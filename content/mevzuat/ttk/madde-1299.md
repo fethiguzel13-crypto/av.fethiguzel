@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**II
-- Diğer hâller**
+**II- Diğer hâller**
 
 ---
 
-Madde 1299 - (1) Bu Bölüm hükümleri; a) Kurtaranın, mevzuat gereğince kurtarm a yükümlüğünün bulunması, b) Kurtarma faaliyetinde bulunan aracın, kurtarılan araçla aynı malike ait olması, hâllerinde de uygulanır.
+MADDE 1299- (1) Bu Bölüm hükümleri;
+a) Kurtaranın, mevzuat gereğince kurtarma yükümlüğünün bulunması,
+b) Kurtarma faaliyetinde bulunan aracın, kurtarılan araçla aynı malike ait olması,
+hâllerinde de uygulanır.
 
 ---
 

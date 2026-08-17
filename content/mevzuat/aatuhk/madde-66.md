@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Borçlu elinde haczedilen mallara karşı istihkak iddiaları**
+**Borçlu elinde haczedilen mallara karşı istihkak iddiaları:**
 
 ---
 
@@ -22,7 +22,8 @@ içinde itiraz etmediği takdirde istihkak iddiası dinlenmez.
 iddiasına itiraz edilirse, 7 gün içinde mahkemeye müracaat etmesi lüzumu tahsil dairesince
 üçüncü şahsa bildirilir. Müddetinde dava açılmadığı takdirde istihkak iddiasından vazgeçilmiş
 sayılır.
-Üçüncü şahıs elinde haczedilen mallara karşı istihkak iddiaları:
+
+---
 
 ### Akademik Yorum ve Analiz
 

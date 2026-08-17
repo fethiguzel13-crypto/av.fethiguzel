@@ -19,6 +19,8 @@ altı ay içinde Bakanlık tarafından çıkarılır.
 kamu kurumu niteliğindeki meslek kuruluşlarının, sivil toplum kuruluşlarının ve meslek
 örgütlerinin görüşleri alınır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

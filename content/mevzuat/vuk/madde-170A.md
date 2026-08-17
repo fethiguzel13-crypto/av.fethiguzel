@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Kamu kurum ve kuruluşları tarafından yapılan bildirim**
+**Kamu kurum ve kuruluşları tarafından yapılan bildirim:**
 
 ---
 
@@ -16,14 +16,10 @@ Hazine ve Maliye Bakanlığı, bu Kanuna göre mükelleflerin bildirmeye mecbur 
 bilgilerin, kamu kurum ve kuruluşları tarafından Bakanlığa yazılı veya elektronik olarak
 bildirilmesi durumunda, bu bildirimi mükellefler tarafından yapılmış bildirim olarak kabul
 etmeye, bu şekilde kabul edilecek bildirimleri faaliyet konusu, gelir unsuru ile mükellefiyet,
-
-vergi, iş yeri ve şirket türlerini ayrı ayrı veya birlikte dikkate alarak tespit etmeye ve
+vergi, iş yeri ve şirket türlerini ayrı ayrı veya birlikte dikkate alarak tespit etmeye ve
 uygulamaya ilişkin usul ve esasları belirlemeye yetkilidir.
-İKİNCİ KISIM
-Defter Tutma
-BİRİNCİ BÖLÜM
-Genel Esaslar
-Maksat:
+
+---
 
 ### Akademik Yorum ve Analiz
 

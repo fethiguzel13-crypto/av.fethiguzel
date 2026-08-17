@@ -16,6 +16,8 @@ taahhüt edilen süre içinde tüketiciye teslim edilmesi zorunludur. Bu süre h
 sözleşme tarihinden itibaren kırk sekiz ayı geçemez. Kat irtifakının tüketici adına tapu siciline
 tescil edilmesiyle birlikte zilyetliğin devri hâlinde de devir ve teslim yapılmış sayılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

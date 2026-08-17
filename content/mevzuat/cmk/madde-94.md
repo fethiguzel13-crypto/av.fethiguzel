@@ -26,6 +26,8 @@ emredilebilir. Bu hüküm her yakalama emri için ancak bir kez uygulanabilir. T
 yerine getirmeyen kişiye, yakalama emrinin düzenlendiği yer Cumhuriyet savcısı tarafından
 bin Türk lirası idari para cezası verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

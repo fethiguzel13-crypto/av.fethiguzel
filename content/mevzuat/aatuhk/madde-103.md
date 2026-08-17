@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Zamanaşımının kesilmesi**
+**Zamanaşımının kesilmesi:**
 
 ---
 
@@ -15,12 +15,7 @@ Madde 103 – Aşağıdaki hallerde tahsil zamanaşımı kesilir:
 1. Ödeme,
 2. Haciz tatbikı,
 3. Cebren tahsil ve takip muameleleri sonucunda yapılan her çeşit tahsilat,
-30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, bu maddede yer alan “ihale edilen malın
-değeri iki bin lirayı aştığı takdirde” ibaresi, “ihale edilen malın değeri 50.000 Yeni Türk Lirasını aştığı
-takdirde” olarak değiştirilmiştir.
-33
-
-4. Ödeme emri tebliği,
+4. Ödeme emri tebliği,
 5. Mal bildirimi, mal edinme ve mal artmalarının bildirilmesi,
 6. Yukardaki 5 sırada gösterilen muamelelerden her hangi birinin kefile veya yabancı
 şahıs ve kurumlar mümessillerine tatbikı veya bunlar tarafından yapılması,
@@ -36,6 +31,8 @@ yeniden işlemeye başlar. Zamanaşımının bir bozma karariyle kesilmesi halin
 başlangıcı yeni vade gününün rasladığı; amme alacağının teminata bağlanması veya icranın
 kaza mercilerince durdurulması hallerinde zamanaşımı başlangıcı teminatın kalktığı ve durma
 süresinin sona erdiği tarihin rasladığı; takvim yılını takip eden takvim yılının ilk günüdür.
+
+---
 
 ### Akademik Yorum ve Analiz
 

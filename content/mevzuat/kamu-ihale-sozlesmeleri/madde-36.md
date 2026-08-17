@@ -13,6 +13,8 @@ wordCount: 4270
 
 Madde 36- Bu Kanunda hüküm bulunmayan hallerde Borçlar Kanunu hükümleri uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

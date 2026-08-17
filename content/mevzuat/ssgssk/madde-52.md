@@ -17,7 +17,7 @@ ile üst sınırı arasında, sigortalı tarafından belirlenen prime esas aylı
 %21'i malûllük, yaşlılık ve ölüm sigortaları primi, %12'si genel sağlık sigortası primidir. 51 inci
 maddenin üçüncü fıkrasında belirtilenler için 82 nci maddeye göre belirlenen prime esas
 kazancın alt sınırı ile üst sınırı arasında olmak kaydıyla belirlenen günlük kazanç ve gün sayısı
-üzerinden malûllük, yaşlılık ve ölüm sigortaları ile genel sağlık sigortası primi alınır.89
+üzerinden malûllük, yaşlılık ve ölüm sigortaları ile genel sağlık sigortası primi alınır.
 İsteğe bağlı sigortalı olanlar, bakmakla yükümlü olunan kişi olsa dahi, 60 ıncı maddenin
 birinci fıkrasının (b) bendi kapsamında genel sağlık sigortalısı sayılır ve genel sağlık sigortası
 primini de ödemekle yükümlüdürler. Yabancı ülke vatandaşlarından Türkiye’de yerleşik olma
@@ -30,6 +30,8 @@ sigortalılık süresinden sayılmaz. Bu 12 aylık süreden sonra ödenen primle
 İsteğe bağlı sigortalıların zorunlu sigortalılık nedeniyle prim borcunun bulunması
 halinde, isteğe bağlı sigortaya tâbi ödenen primler öncelikle zorunlu sigortalılık nedeniyle
 Kuruma olan borçlarına mahsup edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

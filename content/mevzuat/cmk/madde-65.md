@@ -18,6 +18,8 @@ listelerde yer almış bulunanlar.
 b) İncelemenin yapılması için bilinmesi gerekli fen ve sanatları meslek edinenler.
 c) İncelemenin yapılması için gerekli mesleği yapmaya resmen yetkili olanlar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

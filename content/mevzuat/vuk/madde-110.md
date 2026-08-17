@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Verginin ödeneceği daire**
+**ALTINCI KISIM
+Vergi Alacağının Kalkması
+BİRİNCİ BÖLÜM
+Ödeme
+Verginin ödeneceği daire:**
 
 ---
 
@@ -16,6 +20,8 @@ Madde 110 – Vergi borcu, mükellefin bu bakımdan bağlı olduğu vergi daires
 Mükellef vergi borcunun vergi dairesinin bulunduğu belediye sınırlarının dışındaki
 vergi dairelerine de yatırabilir. Bu takdirde ödemenin hangi vergi dairesi hesabına
 yapıldığının bildirilmesi şarttır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

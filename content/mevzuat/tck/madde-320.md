@@ -19,6 +19,8 @@ olanlar varsa ceza üçte biri oranında artırılır.
 (3) Birinci fıkradaki hizmeti kabul eden kimseye bir yıldan üç yıla kadar hapis cezası
 verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

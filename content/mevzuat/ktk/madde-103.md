@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**Motorsuz taşıtlar ve motorlu bisiklet:77**
+**Motorsuz taşıtlar ve motorlu bisiklet:**
 
 ---
 
 Madde 103 – Motorsuz taşıtlar ile motorlu bisiklet sürücülerinin hukuki sorumluluğu
 genel hükümlere tabidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -16,6 +16,8 @@ Ancak, zorunluluk veya gecikmesinde zarar olan hâllerde, keşif, delillerin tes
 duruşma listesinde yazılı işler gibi işlemlerin, resmî tatil günlerinde veya çalışma saatlerinin
 dışında da yapılmasına karar verilebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

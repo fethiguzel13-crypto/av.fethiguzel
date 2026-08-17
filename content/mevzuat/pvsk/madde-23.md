@@ -7,11 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4286
 ---
 
-**en büyük mülkiye amirlerinin vereceği emirleri, Dahiliye Vekili re'sen verebilir.**
+Madde 23 – Umumi ve hususi kanunlarla polise verilen ve bu kanunda yazılı
+bulunmıyan vazife ve salahiyetlerin hükümleri bakidir.
 
 ---
-
-Madde 23 – Umumi ve hususi kanunlarla polise verilen ve bu kanunda yazılı
 
 ### Akademik Yorum ve Analiz
 

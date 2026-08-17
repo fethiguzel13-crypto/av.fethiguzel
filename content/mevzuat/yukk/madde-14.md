@@ -17,6 +17,8 @@ konsolosluklar tarafından verilir.
 (2) Havalimanı transit vizesi istenecek yabancılar, Bakanlık ve Dışişleri Bakanlığınca
 müştereken belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

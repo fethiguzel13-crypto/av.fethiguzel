@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**(Mülga: 30/4/2014 - 6537/9 md.) d. Öl üme bağlı tasarruf ile düzenleme**
+**d. Ölüme bağlı tasarruf ile düzenleme**
 
 ---
 
-Madde 662 - (Mülga: 30/4/2014 - 6537/9 md.) e. Ergin olmay an mirasçılar
+Madde 662- (Mülga: 30/4/2014-6537/9 md.)
 
 ---
 

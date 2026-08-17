@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**Teşvik**
+**Teşvik:**
 
 ---
 
 Madde 346 – (Mülga: 22/7/1998-4369/82 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

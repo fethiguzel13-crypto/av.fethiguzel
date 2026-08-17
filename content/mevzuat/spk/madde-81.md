@@ -23,8 +23,7 @@ yerine getirir:
 a) 6102 sayılı Kanun ve ilgili diğer mevzuatta yer alan kurumsal yönetim ilkelerine
 şirketlerin uyumunu sağlamaya yönelik olarak şirketler ile ortaklarının ve yatırımcılarının
 iletişiminin sağlanabileceği elektronik bir platform oluşturmak
-
-b) Sermaye piyasalarına ilişkin verilerin tek bir noktada toplanmasını sağlamaya
+b) Sermaye piyasalarına ilişkin verilerin tek bir noktada toplanmasını sağlamaya
 yönelik elektronik bir veri bankası oluşturmak, Kurulun belirleyeceği ilkeler çerçevesinde
 verilerin kullanımını sağlamak
 c) Kurul tarafından sermaye piyasası ve ilgili mevzuat çerçevesinde verilen diğer
@@ -42,6 +41,8 @@ uğrayacağı zararlardan kusurları oranında sorumludur.
 araçlarının kayden izlenmesi ile gerekli gördüğü diğer hususların yerine getirilmesini, her
 türlü bilgi ve belgenin yazılı ya da elektronik ortamda, talebi üzerine veya düzenli olarak
 gönderilmesini MKK ile bu kuruluşun üyelerinden isteyebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

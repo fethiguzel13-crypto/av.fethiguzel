@@ -16,7 +16,7 @@ a) Uzun vadeli sigorta kollarından;
 1) Hem malûllük hem de yaşlılık aylığına hak kazanan sigortalıya, bu aylıklardan
 yüksek olanı, aylıklar eşitse yalnız yaşlılık aylığı,
 2) Malûllük, vazife malûllüğü veya yaşlılık aylığı ile birlikte, ölen eşinden dolayı da
-aylığa hak kazanan sigortalıya her iki aylığı,92
+aylığa hak kazanan sigortalıya her iki aylığı,
 3) Ana ve babasından ayrı ayrı aylığa hak kazanan çocuklara, yüksek olan aylığın
 tamamı, az olan aylığın yarısı,
 4) Birden fazla çocuğundan aylığa hak kazanan ana ve babaya en fazla ödemeye
@@ -43,10 +43,7 @@ olan gelirin yarısı,
 ölüm gelirine hak kazananlara, tercihine göre eşinden ya da ana ve/veya babasından bağlanacak
 geliri,
 5) (Ek: 17/4/2008-5754/34 md.) Evliliğin ölüm nedeniyle sona ermesi durumunda
-92 17/4/2008 tarihli ve 5754 sayılı Kanunun 34 ücü maddesiyle; bu bentte yer alan “Malûllük” ibaresinden sonra gelmek üzere “,vazife malûllüğü” ibaresi eklenmiştir.
-
-
-sonraki eşinden de gelire hak kazananlara tercih ettiği geliri,
+sonraki eşinden de gelire hak kazananlara tercih ettiği geliri,
 bağlanır.
 c) (Değişik: 17/4/2008-5754/34 md.)Malûllük, yaşlılık, ölüm sigortaları ve vazife
 malûllüğü ile iş kazası ve meslek hastalığı sigortasından hak kazanılan aylık ve gelirler
@@ -59,6 +56,8 @@ imkân veren iki dosya üzerinden gelir veya aylık bağlanır, diğer dosya vey
 ve aylık hakları durum değişikliği veya diğer bir dosyadan gelir veya aylığa hak kazanıldığı
 tarihe kadar düşer.
 Gelir ve aylıkların düzeltilmesi, yükseltilmesi, alt sınırı, ödenmesi ve yoklama
+
+---
 
 ### Akademik Yorum ve Analiz
 

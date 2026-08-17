@@ -11,7 +11,7 @@ wordCount: 4277
 
 ---
 
-Madde 600 - Süreli kefalette kefil, sürenin sonunda borcundan kurtulur.
+MADDE 600- Süreli kefalette kefil, sürenin sonunda borcundan kurtulur.
 
 ---
 

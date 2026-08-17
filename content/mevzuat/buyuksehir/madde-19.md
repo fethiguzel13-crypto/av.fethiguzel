@@ -7,13 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**Belediye başkanlığının sona ermesi**
+**(Mülga son fıkra: 12/11/2012-6360/13 md.)
+Belediye başkanlığının sona ermesi**
 
 ---
 
 Madde 19- Belediye Kanunundaki hükümler saklı kalmak kaydıyla büyükşehir
 belediye meclisinin feshine neden olan eylem ve işlemlere katılan büyükşehir ve ilçe belediye
-başkanlarının görevlerine Danıştay kararıyla son verilir.27
+başkanlarının görevlerine Danıştay kararıyla son verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

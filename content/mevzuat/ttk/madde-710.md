@@ -7,12 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**III
-- Vadeden önce ve vadesinde ödeme**
+**III - Vadeden önce ve vadesinde ödeme**
 
 ---
 
-Madde 710 - (1) Poliçenin hamili, vadeden önce ödemeyi kabulle yükümlü değildir. (2) Vadeden önce ödeyen m uhatap, bundan doğacak tehlike kendisine ait olmak üzere hareket etmiş olur. (3) Hile veya ağır bir kusuru bulunmadıkça poliçeyi vadesinde ödeyen kişi borcundan kurtulur. Ödeyen kişi, cirolar arasında düzenli bir teselsülün bulunup bulunmadığını incelemekl e yükümlü ise de cirantaların imzalarının geçerliliğini araştırmak zorunda değildir.
+MADDE 710- (1) Poliçenin hamili, vadeden önce ödemeyi kabulle yükümlü değildir.
+(2) Vadeden önce ödeyen muhatap, bundan doğacak tehlike kendisine ait olmak üzere
+hareket etmiş olur.
+(3) Hile veya ağır bir kusuru bulunmadıkça poliçeyi vadesinde ödeyen kişi borcundan
+kurtulur. Ödeyen kişi, cirolar arasında düzenli bir teselsülün bulunup bulunmadığını
+incelemekle yükümlü ise de cirantaların imzalarının geçerliliğini araştırmak zorunda değildir.
 
 ---
 

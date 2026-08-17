@@ -24,6 +24,8 @@ edilebilmesi için, eşyayı sonradan iktisap eden kişinin 22/11/2001 tarihli v
 Medenî Kanununun iyiniyetin korunmasına ilişkin hükümlerinden yararlanamıyor olması
 gerekir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

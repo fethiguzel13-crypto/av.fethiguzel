@@ -12,7 +12,7 @@ wordCount: 4298
 
 ---
 
-Madde 431 - Taraflardan her birinin, belirsiz süreli sözleşmeyi fesih sürelerine
+MADDE 431- Taraflardan her birinin, belirsiz süreli sözleşmeyi fesih sürelerine
 uyarak feshetme hakkı vardır.
 
 ---

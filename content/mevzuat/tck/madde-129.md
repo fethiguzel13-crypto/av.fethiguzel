@@ -18,6 +18,8 @@ verilecek ceza üçte birine kadar indirilebileceği gibi, ceza vermekten de vaz
 taraflardan her ikisi veya biri hakkında verilecek ceza üçte birine kadar indirilebileceği gibi,
 ceza vermekten de vazgeçilebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -26,6 +26,8 @@ süresi üç yılı geçmemek üzere kiralanmasına karar vermek.
 h) Umuma açık yerlerin açılış ve kapanış saatlerini belirlemek.
 i) Diğer kanunlarda belediye encümenine verilen görevleri yerine getirmek.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

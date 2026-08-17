@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**Nihai rapor ve kapanma kararı**
+**VII. İFLASIN KAPANMASl
+Nihai rapor ve kapanma kararı:**
 
 ---
 
@@ -20,8 +21,10 @@ Mahkeme, tasfiyenin bittiğini anladıktan sonra kapanma kararı verir.
 tebliğ tarihinden itibaren iki hafta içinde istinaf yoluna başvurulabilir. Bölge adliye
 mahkemesi kararına karşı tebliğ tarihinden itibaren iki hafta içinde temyiz yoluna
 başvurulabilir. İstinaf ve temyiz incelemeleri, Hukuk Usulü Muhakemeleri Kanunu
-hükümlerine göre yapılır.79
+hükümlerine göre yapılır.
 İflas dairesi kapanmayı ilan eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

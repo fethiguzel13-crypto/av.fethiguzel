@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**3. Davaya karşı s avunma**
+**3. Davaya karşı savunma**
 
 ---
 
-Madde 987 - Bir taşınırın zilyedi, kendisine karşı açılan her davada üstün hakka sah ip olduğu karinesine dayanabilir. Gasp veya saldırıya ilişkin hükümler saklıdır.
+Madde 987- Bir taşınırın zilyedi, kendisine karşı açılan her davada üstün hakka sahip
+olduğu karinesine dayanabilir.
+Gasp veya saldırıya ilişkin hükümler saklıdır.
 
 ---
 

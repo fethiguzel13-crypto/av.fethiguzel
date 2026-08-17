@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Madde 1074**
+**bb) Defter tutma ve belgeleri saklama yükümlülüğü**
 
 ---
 
-Madde 1074 - (1) Gemi müdürü, iştirak işlerine ilişkin ayrı bir defter tutmak ve iştirak işleri dola yısıyla aldığı belgeleri ve verdiği belgelerin suretlerini düzenli bir şekilde saklamak zorundadır. cc) Bilgi ve hesap verme yükümlülüğü
+MADDE 1074- (1) Gemi müdürü, iştirak işlerine ilişkin ayrı bir defter tutmak ve
+iştirak işleri dolayısıyla aldığı belgeleri ve verdiği belgelerin suretlerini düzenli bir şekilde
+saklamak zorundadır.
 
 ---
 

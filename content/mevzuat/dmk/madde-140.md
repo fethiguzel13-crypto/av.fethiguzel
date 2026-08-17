@@ -7,14 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**Ceza kovuşturması sırasında görevden uzaklaştırma**
+**Ceza kovuşturması sırasında görevden uzaklaştırma:**
 
 ---
 
 Madde 140 – Haklarında mahkemelerce cezai kovuşturma yapılan Devlet memurları
 da 138 inci maddedeki yetkililer tarafından görevden uzaklaştırılabilirler.
 
-Görevden uzaklaştırılan veya görevinden uzak kalan memurların hak ve
+---
 
 ### Akademik Yorum ve Analiz
 

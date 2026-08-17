@@ -11,7 +11,8 @@ wordCount: 4270
 
 ---
 
-Madde 1057 - (1) Yapı üzerinde kurulan gemi ipoteği, yapımı tamamlandıktan sonra eski derecesiyle gemi üzerinde kalır.
+MADDE 1057- (1) Yapı üzerinde kurulan gemi ipoteği, yapımı tamamlandıktan sonra
+eski derecesiyle gemi üzerinde kalır.
 
 ---
 

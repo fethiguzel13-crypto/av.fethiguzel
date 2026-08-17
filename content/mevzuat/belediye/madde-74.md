@@ -17,7 +17,9 @@ Belediye bu teşekkül, organizasyon ve yabancı mahallî idarelerle ortak faali
 hizmet projeleri gerçekleştirebilir veya kardeş kent ilişkisi kurabilir.
 Birinci ve ikinci fıkra gereğince yapılacak faaliyetlerin, dış politikaya ve uluslararası
 anlaşmalara uygun olarak yürütülmesi ve önceden Çevre ve Şehircilik Bakanlığının izninin
-alınması zorunludur.48
+alınması zorunludur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

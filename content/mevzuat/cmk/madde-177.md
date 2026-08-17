@@ -17,6 +17,8 @@ dilekçesini duruşma gününden en az beş gün önce mahkeme başkanına veya 
 (2) Bu dilekçe üzerine verilecek karar, kendisine derhâl bildirilir.
 (3) Sanığın kabul edilen istemleri, Cumhuriyet savcısına da bildirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

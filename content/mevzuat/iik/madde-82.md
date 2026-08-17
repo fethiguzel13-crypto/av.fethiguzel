@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4277
 ---
 
-**Haczi caiz olmıyan mallar ve haklar**
+**Haczi caiz olmıyan mallar ve haklar:**
 
 ---
 
@@ -19,7 +19,7 @@ Aşağıdaki şeyler haczolunamaz:
 3. (Değişik: 2/7/2012-6352/16 md.) Para, kıymetli evrak, altın, gümüş, değerli taş,
 antika veya süs eşyası gibi kıymetli şeyler hariç olmak üzere, borçlu ve aynı çatı altında
 yaşayan aile bireylerine ait kişisel eşya ile ailenin ortak kullanımına hizmet eden tüm ev
-eşyası,36
+eşyası,
 4. Borçlu çiftçi ise kendisinin ve ailesinin geçimi için zaruri olan arazi ve çift
 hayvanları ve nakil vasıtaları ve diğer eklenti ve ziraat aletleri; değilse, sanat ve mesleki için
 lüzumlu olan alat ve edevat ve kitapları ve arabacı, kayıkçı, hamal gibi küçük nakliye
@@ -32,12 +32,7 @@ mahsül için lazım olan tohumluğu,
 geçimi için zaruri olan bağ bahçe ve bu sanat için lüzumlu bulunan alat ve edevat,
 Geçimi hayvan yetiştirmeye münhasır olan borçlunun kendisi ve ailesinin maişetleri
 için zaruri olan miktarı ve bu hayvanların üç aylık yem ve yataklıkları,
-28/3/2023 tarihli ve 7445 sayılı Kanunun 2 nci maddesiyle bu bentte yer alan “bireyleri için lüzumlu eşya;
-aynı amaçla kullanılan eşyanın birden fazla olması durumunda bunlardan biri” ibaresi “bireylerine ait kişisel
-eşya ile ailenin ortak kullanımına hizmet eden tüm ev eşyası” şeklinde değiştirilmiştir.
-36
-
-8. Borçlar Kanununun 510 uncu maddesi mucibince haczolunmamak üzere tesis
+8. Borçlar Kanununun 510 uncu maddesi mucibince haczolunmamak üzere tesis
 edilmiş olan kaydı hayatla iratlar,
 9. Memleketin ordu ve zabıta hizmetlerinde malül olanlara bağlanan emeklilik
 maaşları ile bu hizmetlerden birinin ifası sebebiyle ailelerine bağlanan maaşlar ve ordunun
@@ -51,12 +46,14 @@ kendisine veya ailesine toptan veya irat şeklinde verilen veya verilmesi lazım
 12. (Değişik: 2/7/2012-6352/16 md.) Borçlunun haline münasip evi,
 13. (Ek: 2/7/2012-6352/16 md.) Öğrenci bursları.
 Medeni Kanunun 807 nci maddesi hükmü saklıdır. 2, 4, 5, 7 ve 12 numaralı
-bendlerdeki istisna, borcun bu eşya bedelinden doğmaması haline munhasırdır.37
+bendlerdeki istisna, borcun bu eşya bedelinden doğmaması haline munhasırdır.
 (Ek fıkra: 2/7/2012-6352/16 md.) Birinci fıkranın (2), (4), (7) ve (12) numaralı
 bentlerinde sayılan malların kıymetinin fazla olması durumunda, bedelinden haline münasip
 bir kısmı, ihtiyacını karşılayabilmesi amacıyla borçluya bırakılmak üzere haczedilerek satılır.
 (Ek fıkra: 2/7/2012-6352/16 md.) İcra memuru, haczi talep edilen mal veya hakların
 haczinin caiz olup olmadığını değerlendirir ve talebin kabulüne veya reddine karar verir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

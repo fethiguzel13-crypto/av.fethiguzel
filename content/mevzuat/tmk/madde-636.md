@@ -11,7 +11,8 @@ wordCount: 4301
 
 ---
 
-Madde 636 - Mevcudu borçlarını ödemeye yetmeyen terekenin tasfiyesi, su lh mahkemesince iflâs hüküm lerine göre yapılır. BEŞİNCİ AYIRIM MİRAS SEBEBİYLE İSTİHKAK DAVASI A. Koşulları
+Madde 636- Mevcudu borçlarını ödemeye yetmeyen terekenin tasfiyesi, sulh mahkemesince
+iflâs hükümlerine göre yapılır.
 
 ---
 

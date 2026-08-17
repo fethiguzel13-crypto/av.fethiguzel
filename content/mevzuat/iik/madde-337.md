@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**Yükümlülüklerin yerine getirilmemesi:127**
+**Yükümlülüklerin yerine getirilmemesi:**
 
 ---
 
@@ -17,7 +17,8 @@ Madde 337 – (Değişik: 31/5/2005-5358/7 md.)
 162, 209 ve 216 ncı maddeler hükümlerine muhalefet edenler hakkında da iflas
 idaresinin vereceği müzekkere üzerine, aynı ceza verilir. Bu maddelerde belirtilen
 yükümlülüklerin yerine getirilmesi hâlinde, verilen ceza düşer.
-Ticareti terk edenlerin cezası:
+
+---
 
 ### Akademik Yorum ve Analiz
 

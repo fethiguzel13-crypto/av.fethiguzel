@@ -34,18 +34,13 @@ menfaatine kullanamazlar.
 kuruluşlarında görev alamaz. Bu fıkra hükmüne uymayanlara 2/10/1981 tarihli ve 2531 sayılı
 Kamu Görevlerinden Ayrılanların Yapamayacakları İşler Hakkında Kanunun 4 üncü
 maddesinde belirtilen cezalar verilir.
-2/7/2018 tarihli ve 703 sayılı KHK’nin 165 inci maddesiyle, bu fıkrada yer alan “Başbakanın”
-ibaresi “Cumhurbaşkanının” şeklinde değiştirilmiştir.
-18
-25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesi ile bu fıkrada yer alan “sakatlık” ibaresi
-“engellilik” şeklinde değiştirilmiştir.
-17
-
-(5) Kurul Başkan ve üyeleri 19/4/1990 tarihli ve 3628 sayılı Mal Bildiriminde
+(5) Kurul Başkan ve üyeleri 19/4/1990 tarihli ve 3628 sayılı Mal Bildiriminde
 Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanununa tabidir.
 (6) Kurul meslek personeli, görevden ayrıldıktan sonra, son iki yılda incelemiş veya
 denetlemiş oldukları halka açık ortaklıklarda ve sermaye piyasası kurumlarında iki yıl
 boyunca görev alamazlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

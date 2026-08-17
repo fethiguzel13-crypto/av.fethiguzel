@@ -13,6 +13,8 @@ wordCount: 4263
 
 MADDE 83- (Mülga: 10/1/2013-6385/10 md.)
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

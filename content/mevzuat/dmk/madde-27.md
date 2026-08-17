@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
-**Grev yasağı**
+**Grev yasağı:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 27 – Devlet memurlarının greve karar vermeleri, grev tertiplemeleri, i
 etmeleri, bu yolda propaganda yapmaları yasaktır.
 Devlet memurları, harhangi bir greve veya grev teşebbüsüne katılamaz, grevi
 destekliyemez veya teşvik edemezler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

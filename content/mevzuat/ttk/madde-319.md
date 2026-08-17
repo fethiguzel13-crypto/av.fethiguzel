@@ -8,12 +8,12 @@ wordCount: 4296
 ---
 
 **C) Komanditer ortağın sorumluluğu
-I
-- Genel olarak**
+I - Genel olarak**
 
 ---
 
-Madde 319 - (1) Bir komanditerin sorumluluğu koyduğu veya taahhüt ettiği sermaye miktarını aşamaz.
+MADDE 319- (1) Bir komanditerin sorumluluğu koyduğu veya taahhüt ettiği sermaye
+miktarını aşamaz.
 
 ---
 

@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4263
 ---
 
-**D) Oy h akkı ve kararlar**
+**D) Oy hakkı ve kararlar**
 
 ---
 
-Madde 226 - (1) Her ortak bir oy hakkını haizdir. Buna aykırı sözleşme geçersizdir. (2) Şirket sözleşmesinin her ne şekilde olursa olsun değiştirilmesine ilişkin kararlar oybirliğiyle, diğer kararlar ise, kanunda veya şirket sözleşmesinde aksine hüküm yoksa, ortakların çoğunluğunun oylarıyla verilir. (3) “Oybirliği” şirketteki ortakların tümünün, “çoğunluk” şirketteki ortakların salt çoğunluğunun olumlu oylarıyla alınması gereken kararları ifade eder.
+MADDE 226- (1) Her ortak bir oy hakkını haizdir. Buna aykırı sözleşme geçersizdir.
+(2) Şirket sözleşmesinin her ne şekilde olursa olsun değiştirilmesine ilişkin kararlar
+oybirliğiyle, diğer kararlar ise, kanunda veya şirket sözleşmesinde aksine hüküm yoksa,
+ortakların çoğunluğunun oylarıyla verilir.
+(3) “Oybirliği” şirketteki ortakların tümünün, “çoğunluk” şirketteki ortakların salt
+çoğunluğunun olumlu oylarıyla alınması gereken kararları ifade eder.
 
 ---
 

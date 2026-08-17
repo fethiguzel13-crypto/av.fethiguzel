@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**İmar programları, kamulaştırma ve kısıtlılık hali**
+**İmar programları, kamulaştırma ve kısıtlılık hali:**
 
 ---
 
@@ -23,6 +23,8 @@ bütçelerine konulur.
 İmar programlarında, umumi hizmetlere ayrılan yerler ile özel kanunları gereğince
 kısıtlama konulan gayrimenkuller kamulaştırılıncaya veya umumi hizmetlerle ilgili projeler
 gerçekleştirilinceye kadar bu yerlerle ilgili olarak diğer kanunlarla verilen haklar devam eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,6 +11,7 @@ export const dynamicParams = true;
 export const maxDuration = 30;
 
 import { gunzipSync } from 'node:zlib';
+import { auditCommentary } from '@/lib/content-quality.mjs';
 
 const SITE = 'https://www.avfethiguzel.com';
 
@@ -132,7 +133,11 @@ function resolveArticle(
   return null;
 }
 
-function buildHtml(kanunId: string, id: string, article: PackArticle): string {
+function buildHtml(
+  kanunId: string,
+  id: string,
+  article: PackArticle
+): { html: string; indexable: boolean } {
   const code = kanunId.toUpperCase();
   const n = article.maddeNo;
   const kanun = article.kanun || code;
@@ -142,27 +147,48 @@ function buildHtml(kanunId: string, id: string, article: PackArticle): string {
     .trim()
     .slice(0, 130);
   const shortLead = lead.length > 12 ? lead.slice(0, 42).replace(/\s+\S*$/, '') : '';
-  // Exact query first: "TBK 13"
-  const title = shortLead
-    ? `${code} ${n} | ${code} Madde ${n} (m. ${n}) — ${shortLead} | Av. Fethi Güzel`
-    : `${code} ${n} | ${code} Madde ${n} (m. ${n}) Resmî Metin ve Şerh | Av. Fethi Güzel`;
-  const description = lead
-    ? `${code} ${n} / ${code} madde ${n} / ${code} m. ${n} (${kanun}): ${lead}${lead.length >= 120 ? '…' : ''} Resmî metin + akademik şerh — Av. Fethi Güzel.`
-    : `${code} ${n} — ${kanun} Madde ${n} (${code} m. ${n}) resmî metni ve akademik şerh. Av. Fethi Güzel.`;
+
+  // ── İçerik bütünlüğü denetimi ─────────────────────────────────────────────
+  // 14.08.2026 denetiminde şerhlerin %98,8'inin kalıptan üretildiği ve büyük
+  // kısmının başka kanuna (çek) ait olduğu ölçüldü. Kalıp şerh gösterilmez ve
+  // sayfa indekse verilmez; resmî metin kalır, çünkü o otantiktir.
+  const commentary = String(article.commentary || '').trim();
+  const quality = auditCommentary(kanunId, commentary);
+  const hasCommentary = quality.publishable;
+
+  // Şerh yoksa başlık ve açıklama şerh vaat etmemeli — aksi hâlde arama
+  // sonucunda verilen söz sayfada karşılanmıyor.
+  const title = hasCommentary
+    ? shortLead
+      ? `${code} ${n} | ${code} Madde ${n} (m. ${n}) — ${shortLead} | Av. Fethi Güzel`
+      : `${code} ${n} | ${code} Madde ${n} (m. ${n}) Resmî Metin ve Şerh | Av. Fethi Güzel`
+    : `${code} ${n} | ${code} Madde ${n} (m. ${n}) Resmî Metin | Av. Fethi Güzel`;
+  const description = hasCommentary
+    ? lead
+      ? `${code} ${n} / ${code} madde ${n} / ${code} m. ${n} (${kanun}): ${lead}${lead.length >= 120 ? '…' : ''} Resmî metin + akademik şerh — Av. Fethi Güzel.`
+      : `${code} ${n} — ${kanun} Madde ${n} (${code} m. ${n}) resmî metni ve akademik şerh. Av. Fethi Güzel.`
+    : `${code} ${n} — ${kanun} Madde ${n} (${code} m. ${n}) resmî metni. Şerh yeniden yazılıyor.`;
   const h1 = `${code} ${n} — ${code} Madde ${n} (${code} m. ${n})`;
   const canonical = `${SITE}/mevzuat/${kanunId}/${id}`;
-  // Tam şerh — kesme yok (sayfa zaten portalın kendisi)
-  const commentary = String(article.commentary || '').trim();
   const officialHtml = mdLite(article.official);
-  const commentaryHtml = commentary
-    ? mdLite(commentary)
-    : '<p>Bu madde için şerh henüz eklenmemiştir.</p>';
 
+  const commentaryHtml = hasCommentary
+    ? mdLite(commentary)
+    : `<div class="notice">
+<p><strong>Bu maddenin şerhi yayından kaldırıldı.</strong></p>
+<p>${esc(quality.reason || 'Şerh yeniden yazılıyor.')}</p>
+<p class="muted">Yukarıdaki <strong>resmî metin</strong> Resmî Gazete'de yayımlanan hâliyle doğrudur ve
+değiştirilmemiştir. Bağlayıcı metin için <a href="https://www.mevzuat.gov.tr" rel="nofollow noopener">mevzuat.gov.tr</a>
+esas alınmalıdır.</p>
+</div>`;
+
+  // Şerh yokken sayfa bir "makale" değil, kanun metni alıntısıdır. Article
+  // şeması yazmak, olmayan yazarlık iddiası anlamına gelir.
   const jsonLd = {
     '@context': 'https://schema.org',
     '@graph': [
       {
-        '@type': 'Article',
+        '@type': hasCommentary ? 'Article' : 'WebPage',
         headline: `${code} ${n} | ${code} Madde ${n}`,
         name: `${code} Madde ${n}`,
         alternateName: [
@@ -215,16 +241,22 @@ function buildHtml(kanunId: string, id: string, article: PackArticle): string {
     ],
   };
 
-  return `<!DOCTYPE html>
+  const robots = hasCommentary
+    ? 'index,follow,max-snippet:-1,max-image-preview:large'
+    : 'noindex,follow';
+
+  return {
+    indexable: hasCommentary,
+    html: `<!DOCTYPE html>
 <html lang="tr">
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(description)}"/>
-<meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large"/>
+<meta name="robots" content="${robots}"/>
 <meta name="author" content="Av. Fethi Güzel"/>
-<meta name="keywords" content="${esc(`${code} ${n}, ${code} madde ${n}, ${code} m. ${n}, ${code} m ${n}, ${code} Madde ${n}, ${kanun} madde ${n}, Av. Fethi Güzel, Fethi Güzel, kanun maddesi, akademik şerh`)}"/>
+<meta name="keywords" content="${esc(`${code} ${n}, ${code} madde ${n}, ${code} m. ${n}, ${code} m ${n}, ${code} Madde ${n}, ${kanun} madde ${n}, Av. Fethi Güzel, Fethi Güzel, kanun maddesi${hasCommentary ? ', akademik şerh' : ''}`)}"/>
 <link rel="canonical" href="${canonical}"/>
 <meta property="og:type" content="article"/>
 <meta property="og:locale" content="tr_TR"/>
@@ -255,6 +287,9 @@ h1{font-size:clamp(1.45rem,3vw,2rem);line-height:1.22;margin:.45rem 0 0;font-wei
 .topbar a.brand{font-weight:800;color:#1C1C1C;font-size:.95rem}
 .topbar nav a{margin-left:.85rem;font-size:.8rem;font-weight:600;color:rgba(28,28,28,.65)}
 .prose p{margin:.55rem 0}
+.notice{border-left:3px solid #C45A38;padding:.15rem 0 .15rem 1rem}
+.notice p{margin:.5rem 0}
+.notice strong{color:#C45A38}
 </style>
 </head>
 <body>
@@ -279,19 +314,23 @@ Madde ${n}
 <p class="muted" style="margin-top:.8rem">
 Arama adları: <strong>${code} ${n}</strong> · <strong>${code} madde ${n}</strong> ·
 <strong>${code} m. ${n}</strong> · <strong>${code} m ${n}</strong>
-— resmî metin ve akademik şerh: <strong>Av. Fethi Güzel</strong> Hukuk Portalı.
+— ${hasCommentary ? 'resmî metin ve akademik şerh' : 'resmî metin'}: <strong>Av. Fethi Güzel</strong> Hukuk Portalı.
 </p>
 <section class="box off">
 <p style="font-size:.68rem;letter-spacing:.16em;text-transform:uppercase;opacity:.88;margin:0 0 .8rem">Resmî metin — ${code} Madde ${n}</p>
 <article class="prose">${officialHtml}</article>
 </section>
 <section class="box com">
-<h2 style="font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:#C45A38;margin:0 0 .75rem">Akademik yorum ve analiz — ${code} m. ${n} şerhi</h2>
+<h2 style="font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:#C45A38;margin:0 0 .75rem">${
+      hasCommentary
+        ? `Akademik yorum ve analiz — ${code} m. ${n} şerhi`
+        : `Şerh durumu — ${code} m. ${n}`
+    }</h2>
 <article class="prose">${commentaryHtml}</article>
 </section>
 <aside class="muted" style="font-size:.8rem;margin-top:1.4rem">
 Kaynak ve uyarı: Bilgilendirme amaçlıdır; Resmî Gazete / mevzuat.gov.tr esas alınmalıdır.
-Şerh akademik niteliktedir. Arama: ${code} madde ${n}, ${code} m. ${n}, Fethi Güzel.
+${hasCommentary ? 'Şerh akademik niteliktedir.' : ''} Arama: ${code} madde ${n}, ${code} m. ${n}, Fethi Güzel.
 </aside>
 <p style="margin-top:1.35rem;font-size:.9rem">
 <a href="${SITE}/mevzuat">← Tüm mevzuat</a> ·
@@ -300,7 +339,8 @@ Kaynak ve uyarı: Bilgilendirme amaçlıdır; Resmî Gazete / mevzuat.gov.tr esa
 </p>
 </main>
 </body>
-</html>`;
+</html>`,
+  };
 }
 
 export async function GET(req: Request, ctx: Ctx) {
@@ -341,13 +381,17 @@ export async function GET(req: Request, ctx: Ctx) {
         }
       );
     }
-    const html = buildHtml(kanunId, resolved.key, resolved.article);
+    const { html, indexable } = buildHtml(kanunId, resolved.key, resolved.article);
     return new Response(html, {
       status: 200,
       headers: {
         'Content-Type': 'text/html; charset=utf-8',
         'Cache-Control': 'public, s-maxage=86400, stale-while-revalidate=604800',
-        'X-Robots-Tag': 'index, follow, max-snippet:-1, max-image-preview:large',
+        // Şerhi kalıp olan sayfa indekse verilmez. Başlık etiketiyle birlikte
+        // iki katmanlı: Googlebot HTML'i ayrıştırmadan da başlığı görür.
+        'X-Robots-Tag': indexable
+          ? 'index, follow, max-snippet:-1, max-image-preview:large'
+          : 'noindex, follow',
       },
     });
   } catch (e) {

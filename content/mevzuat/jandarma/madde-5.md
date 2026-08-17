@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Kuruluş ve Teşkilat:3**
+**Kuruluş ve Teşkilat:**
 
 ---
 
-Madde 5 – (Değişik: 25/7/2016-KHK-668/7 md. ; Değiştirilerek kabul: 8/11/2016
+Madde 5 – (Değişik: 25/7/2016-KHK-668/7 md. ; Değiştirilerek kabul: 8/11/2016-
 6755/7 md.)
 Jandarma Genel Komutanlığının kuruluş ve kadrolarıyla konuş yerleri, İçişleri
 Bakanlığınca düzenlenir. Ancak seferberlik ve savaşta Kuvvet Komutanlıkları emrine girecek
@@ -20,6 +20,8 @@ görüşü alınır.
 Jandarma birliklerinin kuruluş ve konuşlarının düzenlenmesinde mülki taksimat esas
 alınır. Ancak geçici olarak birden çok ili içine alan bölge teşkilatı da kurulabilir. Bölge
 komutanı, bölge teşkilatının konuşlu bulunduğu ilin valisine karşı sorumlu olarak görev yapar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

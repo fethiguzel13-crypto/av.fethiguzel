@@ -7,12 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**II
-. Araştırma**
+**II. Araştırma**
 
 ---
 
-Madde 316 - Evlât edinmeye, ancak esaslı sayılan her türlü durum ve koşulların kapsamlı biçimde araştırılmasından, evlât edinen ile edini lenin dinlenmelerinden ve gerektiğinde uzmanların görüşünün alınmasından sonra ka rar verilir. Araştırmada öz ellikle evlât edinen ile edinilenin ki şiliği ve sa ğlığı, karşılıklı ilişkileri, ekonomik d urumları, evlât edinenin eğitme yeteneği, evlât edinmeye y önelten sebepler ve aile ilişkileri ile bakım ilişkilerind eki gelişmelerin açıklı ğa kavuşturulması gerekir. Evlât edinenin altsoyu varsa, onların evlât edinme ile ilgili tavır ve düş ünceleri de değerlendirilir.
+Madde 316- Evlât edinmeye, ancak esaslı sayılan her türlü durum ve koşulların kapsamlı
+biçimde araştırılmasından, evlât edinen ile edinilenin dinlenmelerinden ve gerektiğinde
+uzmanların görüşünün alınmasından sonra karar verilir.
+Araştırmada özellikle evlât edinen ile edinilenin kişiliği ve sağlığı, karşılıklı ilişkileri,
+ekonomik durumları, evlât edinenin eğitme yeteneği, evlât edinmeye yönelten sebepler ve aile
+ilişkileri ile bakım ilişkilerindeki gelişmelerin açıklığa kavuşturulması gerekir.
+Evlât edinenin altsoyu varsa, onların evlât edinme ile ilgili tavır ve düşünceleri de
+değerlendirilir.
 
 ---
 

@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**PTT Teşkilatı olmaması**
+**PTT Teşkilatı olmaması:**
 
 ---
 
 Madde 46 – (Mülga: 6/6/1985-3220/21 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

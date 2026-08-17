@@ -20,6 +20,8 @@ c) Raporun verilme süresi.
 bağlı olarak ve gerekiyorsa mühürlü bir biçimde teslim edilir; ayrıca bu husus tutanakta
 gösterilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

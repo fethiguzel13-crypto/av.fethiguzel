@@ -1,0 +1,160 @@
+{
+  "slug": "icra-takibi-nasil-baslatilir",
+  "title": "İcra Takibi Nasıl Başlatılır? Talepten Hacze Adım Adım",
+  "description": "Alacağınız için icra takibi nasıl açılır, takip talebinde neler yazılır, ödeme emri sonrası ne olur, haciz ne zaman istenir? İİK m.58, 60, 78 ve 106 çerçevesinde.",
+  "h1": "İcra takibi nasıl başlatılır?",
+  "keywords": [
+    "icra takibi başlatma",
+    "takip talebi",
+    "ilamsız icra",
+    "haciz talebi",
+    "UYAP mal sorgulama",
+    "icra dosyası açma"
+  ],
+  "category": "İcra",
+  "role": "pillar",
+  "related": [
+    "odeme-emrine-itiraz",
+    "haczedilemeyen-mallar"
+  ],
+  "links": [
+    {
+      "label": "İİK m.58 — Takip talebi",
+      "href": "/mevzuat/iik/madde-58"
+    },
+    {
+      "label": "İİK m.60 — Ödeme emri",
+      "href": "/mevzuat/iik/madde-60"
+    },
+    {
+      "label": "İİK m.62 — İtiraz",
+      "href": "/mevzuat/iik/madde-62"
+    },
+    {
+      "label": "İİK m.78 — Haciz talebi",
+      "href": "/mevzuat/iik/madde-78"
+    },
+    {
+      "label": "İİK m.106 — Satış isteme süresi",
+      "href": "/mevzuat/iik/madde-106"
+    },
+    {
+      "label": "İcra kapak hesabı aracı",
+      "href": "/hesaplama/icra-kapak"
+    }
+  ],
+  "lead": "Takip talebi icra dairesine yazılı, sözlü ya da elektronik ortamda yapılır. İcra müdürü ödeme emri düzenler; borçlu yedi gün içinde itiraz etmezse takip kesinleşir ve alacaklı haciz isteyebilir.",
+  "keyInsight": "Takip talebinde eksik veya hatalı bilgi, sonradan düzeltilmesi zor sorunlar doğurur: Özellikle borcun sebebi ile faizin türü ve başlangıç tarihi baştan doğru yazılmalıdır.",
+  "sections": [
+    {
+      "heading": "Takip talebi: dosyanın temeli",
+      "paragraphs": [
+        "İİK m.58 başvuru biçimini geniş tutar: Takip talebi icra dairesine yazılı veya sözlü olarak ya da elektronik ortamda yapılır. Uygulamada UYAP üzerinden elektronik başvuru yaygınlaşmıştır.",
+        "Talepte yer alacak unsurlar tek tek sayılmıştır. Alacaklının ve varsa kanuni temsilcisinin ve vekilinin adı soyadı; alacaklı veya vekili adına ödemenin yapılacağı banka adı ile hesap bilgileri; varsa kimlik veya vergi kimlik numarası ile yerleşim yeri gösterilir.",
+        "Yurt dışında oturan alacaklı için ek bir kural vardır: Türkiye’de göstereceği yerleşim yeri belirtilir, gösteremezse icra dairesinin bulunduğu yer yerleşim yeri sayılır.",
+        "Borçlu tarafında da aynı bilgiler istenir. Bir terekeye karşı yapılan taleplerde ise kendilerine tebligat yapılacak mirasçıların adı soyadı, biliniyorsa kimlik numarası ve yerleşim yerleri gösterilir.",
+        "Alacağın kendisi de açık yazılmalıdır: Alacağın veya istenen teminatın Türk parasıyla tutarı, faizli alacaklarda faizin miktarı ile işlemeye başladığı gün belirtilir."
+      ],
+      "bullets": [
+        "Alacaklı ve vekilinin kimlik ve adres bilgileri",
+        "Ödemenin yapılacağı banka ve hesap bilgileri",
+        "Borçlunun kimlik ve adres bilgileri",
+        "Alacağın Türk parasıyla tutarı",
+        "Faizin miktarı ve işlemeye başladığı gün",
+        "Takip yolunun seçimi"
+      ]
+    },
+    {
+      "heading": "Ödeme emri ve yedi gün",
+      "paragraphs": [
+        "Takip talebi şartları taşıyorsa icra müdürü ödeme emri düzenler. İİK m.60 bu emrin borcun yedi gün içinde icra dairesinin banka hesabına ödenmesi ihtarını içermesini zorunlu kılar.",
+        "Aynı emirde borçluya iki uyarı daha yapılır: Takibin dayandığı senet altındaki imzayı reddediyorsa bunu yedi gün içinde açıkça bildirmesi, borca itirazı varsa yine bu süre içinde icra dairesine bildirmesi gerekir.",
+        "Borçlu süresinde itiraz ederse takip durur ve alacaklının ilerlemesi için dava ya da icra mahkemesi yoluna gitmesi gerekir. İtiraz etmezse takip kesinleşir."
+      ]
+    },
+    {
+      "heading": "Haciz aşaması",
+      "paragraphs": [
+        "İİK m.78 haczin ne zaman istenebileceğini belirler: Ödeme emrindeki müddet geçtikten ve borçlu itiraz etmiş ise itirazı kaldırıldıktan sonra, mal beyanını beklemeksizin alacaklı haciz konmasını isteyebilir.",
+        "2020 değişikliği alacaklıya önemli bir araç kazandırdı. Alacaklı dilerse haciz talebinde bulunmaksızın Ulusal Yargı Ağı Bilişim Sistemi üzerinden, bu sisteme entegre bilişim sistemleri vasıtasıyla borçlunun mal, hak veya alacağını sorgulayabilir.",
+        "Sorgulama sonunda sistem, varsa borçlunun mal, hak veya alacağının mahiyeti ve detayı hakkında bilgi verir; bu durumda sistem üzerinden de haciz talep edilebilir ve icra dairesi tespit edilen mal, hak veya alacağı elektronik ortamda haczeder.",
+        "Kanun bu bilgiye bir sınır da koyar: Sorgulama sonunda edinilen bilgiler hukuka aykırı olarak paylaşılamaz."
+      ]
+    },
+    {
+      "heading": "Haciz sonrası: satış isteme",
+      "paragraphs": [
+        "Haciz konulması alacağı kendiliğinden tahsil etmez. İİK m.106 uyarınca alacaklı veya borçlu, hacizden itibaren bir yıl içinde haczolunan malın satışını isteyebilir; borçlunun üçüncü şahıslardaki alacağı da bu hükme tabidir.",
+        "Süre içinde satış istenip de artırma sonucu satış gerçekleştirilemezse, satış isteme süresi, satış isteyen alacaklı bakımından birinci fıkradaki sürenin sona ermesinden itibaren bir yıl daha uzar.",
+        "Satış talebiyle birlikte kıymet takdiri ve satış giderlerinin tamamının peşin olarak yatırılması gerekir. Süresi içinde satış istenmezse haciz kalkar ve emek boşa gider."
+      ]
+    },
+    {
+      "heading": "Hangi takip yolu seçilmeli?",
+      "paragraphs": [
+        "Elinizdeki belge, izleyeceğiniz yolu belirler. Mahkeme ilamı veya ilam niteliğinde belge varsa ilamlı takip yolu açıktır ve borçlunun itiraz imkânı çok daha dardır.",
+        "Elinizde yalnız fatura, sözleşme ya da hiçbir belge yoksa genel haciz yoluyla ilamsız takip yapılır. Bu yolda borçlu, sebep göstermeksizin itiraz ederek takibi durdurabilir.",
+        "Çek, bono ve poliçe gibi kambiyo senetlerine özgü ayrı bir takip yolu vardır ve süreleri farklı işler. Senedin niteliği yanlış değerlendirilirse takip baştan sakatlanır.",
+        "Yol seçimi sonradan kolayca değiştirilemediğinden, takip talebi doldurulmadan önce belge durumunun netleştirilmesi gerekir."
+      ]
+    },
+    {
+      "heading": "Masraf ve faiz",
+      "paragraphs": [
+        "Takip açarken peşin harç ve masraf yatırılır; bunlar tahsil hâlinde borçludan alınır. Dosya kapak hesabı, asıl alacağın yanında bu kalemleri ve işlemiş faizi de içerir.",
+        "Faizin türü ve başlangıç tarihi takip talebinde açıkça yazılmalıdır. Sonradan faiz türünü değiştirmek ya da başlangıcı öne çekmek tartışma doğurur.",
+        "Takip kesinleştikten sonra da faiz işlemeye devam eder. Bu nedenle kapak hesabı, ödeme tarihine göre yeniden hesaplanır."
+      ]
+    }
+  ],
+  "steps": [
+    "Elinizdeki belgeyi değerlendirin ve takip yolunu seçin: ilamlı, ilamsız veya kambiyo.",
+    "Borçlunun kimlik ve adres bilgilerini toplayın.",
+    "Alacağın tutarını, faiz türünü ve faizin başlangıç tarihini netleştirin.",
+    "Takip talebini icra dairesine ya da UYAP üzerinden verin; harç ve masrafı yatırın.",
+    "Ödeme emrinin tebliğini takip edin.",
+    "Yedi günlük itiraz süresi geçtikten sonra takibin kesinleştiğini kontrol edin.",
+    "Haciz talebinde bulunun ya da önce UYAP üzerinden mal, hak ve alacak sorgusu yapın.",
+    "Hacizden itibaren bir yıl içinde satış isteyin — aksi hâlde haciz kalkar."
+  ],
+  "checklist": [
+    "Alacağın dayanağı belge: sözleşme, fatura, senet veya ilam",
+    "Borçlunun kimlik ve adres bilgileri",
+    "Alacak tutarı ve faiz hesabı",
+    "Banka hesap bilgileri — ödemenin yapılacağı hesap",
+    "Harç ve masraf ödemesi",
+    "Varsa vekâletname"
+  ],
+  "faq": [
+    {
+      "q": "İcra takibi nasıl açılır?",
+      "a": "Takip talebi icra dairesine yazılı, sözlü ya da elektronik ortamda yapılır. Talepte tarafların bilgileri, alacağın tutarı ve faizin miktarı ile başlangıcı gösterilir."
+    },
+    {
+      "q": "Borçlu itiraz ederse ne olur?",
+      "a": "Süresinde yapılan itiraz takibi durdurur. Alacaklının ilerlemesi için itirazın iptali davası açması ya da icra mahkemesinden itirazın kaldırılmasını istemesi gerekir."
+    },
+    {
+      "q": "Haczi ne zaman isteyebilirim?",
+      "a": "Ödeme emrindeki süre geçtikten, borçlu itiraz etmişse itirazı kaldırıldıktan sonra; mal beyanını beklemeye gerek yoktur."
+    },
+    {
+      "q": "Borçlunun malını nasıl bulurum?",
+      "a": "Haciz talebinde bulunmaksızın UYAP üzerinden borçlunun mal, hak veya alacağını sorgulayabilirsiniz. Sistem bilgi verirse aynı yerden haciz de talep edilebilir."
+    },
+    {
+      "q": "Haciz koydum, ne kadar sürem var?",
+      "a": "Hacizden itibaren bir yıl içinde satış istemelisiniz. Satış istenip de gerçekleştirilemezse süre bir yıl daha uzar."
+    },
+    {
+      "q": "Elimde belge yok, takip yapabilir miyim?",
+      "a": "Genel haciz yoluyla ilamsız takip belge şartına bağlı değildir. Ancak borçlu sebep göstermeksizin itiraz ederek takibi durdurabilir; bu hâlde alacağı ispat yükü size düşer."
+    },
+    {
+      "q": "Sorgulamada gördüğüm bilgileri paylaşabilir miyim?",
+      "a": "Hayır. Kanun, sorgulama sonunda edinilen bilgilerin hukuka aykırı olarak paylaşılamayacağını açıkça belirtir."
+    }
+  ],
+  "updated": "2026-08-16",
+  "sitemapPriority": 0.94
+}

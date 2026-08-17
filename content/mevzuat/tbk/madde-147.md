@@ -11,7 +11,7 @@ wordCount: 4261
 
 ---
 
-Madde 147 - Aşağıdaki alacaklar için beş yıllık zamanaşımı uygulanır:
+MADDE 147- Aşağıdaki alacaklar için beş yıllık zamanaşımı uygulanır:
 1. Kira bedelleri, anapara faizleri ve ücret gibi diğer dönemsel edimler.
 2. Otel, motel, pansiyon ve tatil köyü gibi yerlerdeki konaklama bedelleri ile lokanta
 ve benzeri yerlerdeki yeme içme bedelleri.
@@ -21,7 +21,6 @@ ile ortaklık arasındaki; bir ortaklığın müdürleri, temsilcileri, denetçi
 ortaklar arasındaki alacaklar.
 5. Vekâlet, komisyon ve acentalık sözleşmelerinden, ticari simsarlık ücreti alacağı
 dışında, simsarlık sözleşmesinden doğan alacaklar.
-
 6. Yüklenicinin yükümlülüklerini ağır kusuruyla hiç ya da gereği gibi ifa etmemesi
 dışında, eser sözleşmesinden doğan alacaklar.
 

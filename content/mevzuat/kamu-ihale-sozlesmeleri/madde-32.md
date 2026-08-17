@@ -20,6 +20,8 @@ onbeş yıl süre ile müteselsilen sorumludur.
 Bu zarar ve ziyan genel hükümlere göre hizmet sunucusuna ikmal ve tazmin ettirilir.
 Ayrıca haklarında 27 nci madde hükümleri uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

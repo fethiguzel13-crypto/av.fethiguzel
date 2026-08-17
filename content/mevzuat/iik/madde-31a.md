@@ -7,20 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**Gemilere ve bunlarla ilgili aynî haklara ilişkin ilamların icrası**
+**Gemilere ve bunlarla ilgili aynî haklara ilişkin ilamların icrası:**
 
 ---
 
 Madde 31/a – (Ek: 14/1/2011-6103/41 md.)
-
-Bu madde başlığı, “Bir işin yapılmasına dair olan ilamlar:” iken, 17/7/2003 tarihli ve 4949 sayılı Kanunun 9
-uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.
-17
-Bu madde başlığı “İrtifak haklariyle gemi üzerindeki intifa haklarına mütedair ilamlar:” iken, 14/1/2011
-tarihli ve 6103 sayılı Kanunun 41 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-16
-
-Bayrağına ve sicile kayıtlı olup olmadığına bakılmaksızın bütün gemilere ve bunlarla
+Bayrağına ve sicile kayıtlı olup olmadığına bakılmaksızın bütün gemilere ve bunlarla
 ilgili aynî haklara ilişkin kararlar, kesinleşmedikçe icra edilemez.
 Sicile kayıtlı Türk gemilerine ve bunlarla ilgili aynî haklara ilişkin davalarda
 davacının lehine hüküm verilirse, mahkeme, davacının istemine gerek kalmaksızın, hükmün
@@ -58,8 +50,7 @@ borçluya ödetilmek üzere peşin olarak alacaklıdan alınıp emin bir yerde v
 yedinde hıfzettirilir ve icra dairesince hemen yapılacak tebligat üzerine borçlu eşyanın
 bulunduğu mahalde ise beş, değil ise otuz gün içinde eşyayı almaktan veya masrafı
 ödemekten kaçınırsa yahut gerek görülürse, icra müdürü, icra mahkemesinin kararıyla bunları
-
-satıp tutarından masrafı öder; fazlası kalırsa borçlunun adına, Adalet Bakanlığınca çıkarılan
+satıp tutarından masrafı öder; fazlası kalırsa borçlunun adına, Adalet Bakanlığınca çıkarılan
 yönetmelikte nitelikleri belirlenen bankalardan birine yatırır.
 Sicile kayıtlı Türk gemileri üzerinde ipotek veya intifa hakkının kurulmasına veya
 kaldırılmasına ilişkin ilâm, icra dairesine verilince, icra müdürü, üçüncü fıkrada yazılı şekilde
@@ -67,8 +58,8 @@ yedi günlük bir icra emri gönderir. Borçlu emri yerine getirmezse, ilâmın 
 olunur.
 Gemiye ilişkin bir işin yapılmasına veya yapılmamasına dair olan ve önceki fıkra
 hükümlerine girmeyen ilâmların icrası hakkında 30 uncu madde uygulanır.
-II. Para ve Teminat Verilmesi Hakkındaki İlamların İcrası:
-İcra emri ve muhtevası:
+
+---
 
 ### Akademik Yorum ve Analiz
 

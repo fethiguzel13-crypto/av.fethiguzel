@@ -11,7 +11,9 @@ wordCount: 4307
 
 ---
 
-Madde 125 - (1) Ticaret şirketleri tüzel kişiliği haizdir. (2) Ticaret şirketleri, Türk Medenî Kanununun 48 inci maddesi çerçevesinde bütün haklardan yararl anabilir ve borçları üstlenebilirler. Bu husustaki kanuni istisnalar saklıdır.
+MADDE 125- (1) Ticaret şirketleri tüzel kişiliği haizdir.
+(2) Ticaret şirketleri, Türk Medenî Kanununun 48 inci maddesi çerçevesinde bütün
+haklardan yararlanabilir ve borçları üstlenebilirler. Bu husustaki kanuni istisnalar saklıdır.
 
 ---
 

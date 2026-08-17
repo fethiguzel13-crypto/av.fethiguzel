@@ -22,6 +22,8 @@ başvurusu üzerine Yargıtay tarafından belirlenir.
 (4) Yabancı ülkelerde bulunup da diplomatik bağışıklıktan yararlanan Türk kamu
 görevlilerinin işledikleri suçlardan dolayı yetkili mahkeme Ankara mahkemesidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

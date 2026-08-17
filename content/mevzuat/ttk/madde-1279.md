@@ -11,7 +11,8 @@ wordCount: 4272
 
 ---
 
-Madde 1279 - (1) Zararın tespiti ve payla ştırılması varma yerinde, eğer buraya varılmazsa yolculuğun bittiği limanda yapılır.
+MADDE 1279- (1) Zararın tespiti ve paylaştırılması varma yerinde, eğer buraya
+varılmazsa yolculuğun bittiği limanda yapılır.
 
 ---
 

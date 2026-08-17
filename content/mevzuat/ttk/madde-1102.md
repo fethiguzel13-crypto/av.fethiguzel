@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4257
 ---
 
-**VIII - Donatanın menfaatlerini koruma**
+**VIII- Donatanın menfaatlerini koruma**
 
 ---
 
-Madde 1102 - (1) Kaptan, gemi zayi olsa bile, gerektiği sürece donatanın menfaatlerini korumakla yükümlüdür.
+MADDE 1102- (1) Kaptan, gemi zayi olsa bile, gerektiği sürece donatanın
+menfaatlerini korumakla yükümlüdür.
 
 ---
 

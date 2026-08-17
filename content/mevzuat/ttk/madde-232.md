@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**Madde 232**
+**ÜÇÜNCÜ BÖLÜM
+Şirketin ve Ortakların Üçüncü Kişilerle İlişkileri
+A) Tüzel kişiliğin kazanılması**
 
 ---
 
-Madde 232 - (1) Kollektif şirket ticaret siciline tescil ile tüzel kişilik kazanır. Aksine sözleşme üçüncü kişilere karşı geçersizdir.
+MADDE 232- (1) Kollektif şirket ticaret siciline tescil ile tüzel kişilik kazanır. Aksine
+sözleşme üçüncü kişilere karşı geçersizdir.
 
 ---
 

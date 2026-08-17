@@ -18,6 +18,8 @@ talep edilir.
 açmakta hukuken korunmaya değer güncel bir yararı bulunmalıdır.
 (3) Maddi vakıalar, tek başlarına tespit davasının konusunu oluşturamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -8,11 +8,16 @@ wordCount: 4263
 ---
 
 **D. Kayyımlıkta ve yasal danışmanlıkta
-I. Gen el olarak**
+I. Genel olarak**
 
 ---
 
-Madde 477 - Temsil kayyımlığı, kayyımın yapmakla görevlendirildiği işin bitirilmesiyle sona ere r. Yönetim kayyımlığı, kayyımın atanmasını gerektiren sebebin ortadan kalkması ve ya kayyımın görevden alınma sıyla sona erer. Yasal danışmanlık, ve sayeti n kaldırılmasın a ilişkin hükümler uyarınca vesayet makamının kararıyla sona erer.
+Madde 477- Temsil kayyımlığı, kayyımın yapmakla görevlendirildiği işin bitirilmesiyle sona
+erer.
+Yönetim kayyımlığı, kayyımın atanmasını gerektiren sebebin ortadan kalkması veya
+kayyımın görevden alınmasıyla sona erer.
+Yasal danışmanlık, vesayetin kaldırılmasına ilişkin hükümler uyarınca vesayet makamının
+kararıyla sona erer.
 
 ---
 

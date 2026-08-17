@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4318
 ---
 
-**2960 Sayılı Boğaziçi Kanunu ile İlgili Hükümler**
+**ALTINCI BÖLÜM
+2960 Sayılı Boğaziçi Kanunu ile İlgili Hükümler**
 
 ---
 
@@ -17,6 +18,9 @@ kurulan organlar kaldırılmıştır. Bu kuruluşların görev ve sorumluluklar�
 Şöyle ki : 2960 sayılı Boğaziçi Kanununun 2 nci maddesinde belirlenen ve 22/7/1983
 onay tarihli plana göre Boğaziçi alanında gösterilen "Boğaziçi Sahil Şeridi" ve "Öngörünüm"
 bölgelerindeki uygulamalar İstanbul Büyük Şehir Belediye Başkanlığınca, "gerigörünüm" ve
+"etkilenme" bölgelerindeki uygulamalar da ilgili İlçe Belediye Başkanlıklarınca yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

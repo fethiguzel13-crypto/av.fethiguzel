@@ -7,12 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4319
 ---
 
-**5. Kor unmaya ilişkin hükümler
-a) Alacaklıların korunması aa) Çağrı**
+**5. Korunmaya ilişkin hükümler
+a) Alacaklıların korunması
+aa) Çağrı**
 
 ---
 
-Madde 174 - (1) Bölünmeye katılan şirketlerin alacaklıları, Türkiye Ticaret Sicili Gazetesinde, (…) 32 yedişer gün aralıklarla üç defa yapılacak ilanla ve sermaye şirketlerinde ayrıca internet sites ine de konulacak ilanla, alacaklarını bildirmeye ve teminat verilmesi için istemde bulunmaya çağrılırlar. bb) Alacakların teminat altına alınması
+MADDE 174- (1) Bölünmeye katılan şirketlerin alacaklıları, Türkiye Ticaret Sicili
+Gazetesinde, (…)yedişer gün aralıklarla üç defa yapılacak ilanla ve sermaye şirketlerinde
+ayrıca internet sitesine de konulacak ilanla, alacaklarını bildirmeye ve teminat verilmesi için
+istemde bulunmaya çağrılırlar.
 
 ---
 

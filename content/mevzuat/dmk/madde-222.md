@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**Seçme usulü**
+**Seçme usulü:**
 
 ---
 
 Madde 222 – Kurumlarca yurt içinde veya yurt dışında okutulacak öğrenciler yarışma
 sınavı ile seçilirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

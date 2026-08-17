@@ -27,8 +27,7 @@ hükümleri uygulanmaz. Kasten öldürme, kasten yaralama, yağma, dolandırıc�
 veya uyarıcı madde imal ve ticareti ile parada veya kıymetli damgada sahtecilik suçları hariç
 olmak üzere; yabancı ülke mahkemelerinden verilen hükümler tekerrüre esas olmaz.
 (5) Fiili işlediği sırada onsekiz yaşını doldurmamış olan kişilerin işlediği suçlar
-
-dolayısıyla tekerrür hükümleri uygulanmaz.
+dolayısıyla tekerrür hükümleri uygulanmaz.
 (6) Tekerrür halinde hükmolunan ceza, mükerrirlere özgü infaz rejimine göre çektirilir.
 Ayrıca, mükerrir hakkında cezanın infazından sonra denetimli serbestlik tedbiri uygulanır.
 (7) Mahkûmiyet kararında, hükümlü hakkında mükerrirlere özgü infaz rejiminin ve
@@ -38,6 +37,8 @@ uygulanması, kanunda gösterilen şekilde yapılır.
 (9) Mükerrirlere özgü infaz rejiminin ve cezanın infazından sonra denetimli serbestlik
 tedbirinin, itiyadi suçlu, suçu meslek edinen kişi veya örgüt mensubu suçlu hakkında da
 uygulanmasına hükmedilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Memurların uyarılmaları**
+**Memurların uyarılmaları:**
 
 ---
 
 Madde 117 – (Mülga: 13/2/2011 - 6111/117 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

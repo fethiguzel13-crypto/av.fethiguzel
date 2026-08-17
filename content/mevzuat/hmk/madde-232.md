@@ -18,6 +18,8 @@ organ yahut kanuni mümessil tarafından eda ya da iade olunabilir.
 (3) Ergin olmayan veya kısıtlı kimselere bizzat dava hakkı tanınan hâllerde, ikinci
 fıkra hükmü uygulanmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

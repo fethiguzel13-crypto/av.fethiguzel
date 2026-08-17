@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**D) Genel hükümlerin uygulanma alanı**
+**D) Genel hükümlerin uygulanma alanı:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 9 – Kat mülkiyetine veya kat irtifakına ait kütük kaydında veya kat
 arasındaki sözleşmede veya yönetim planında veya bu kanunda hüküm bulunmayan hallerde,
 kat mülkiyetinden doğan anlaşmazlıklar, Medeni Kanun ve ilgili diğer kanunlar hükümlerine
 göre karara bağlanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

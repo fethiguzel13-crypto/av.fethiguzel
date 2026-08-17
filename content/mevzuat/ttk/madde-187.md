@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**Madde 187**
+**6. Tür değiştirme planının ve tür değiştirme raporunun denetlenmesi**
 
 ---
 
-Madde 187 - (Mülga: 26/6/2012 - 6335/43 md.) 7. İnceleme hakkı
+MADDE 187- (Mülga: 26/6/2012-6335/43 md.)
 
 ---
 

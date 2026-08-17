@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**Kanunun Şümulü**
+**VERGİ USUL KANUNU
+GİRİŞ
+Kanunun Şümulü**
 
 ---
 
@@ -17,6 +19,8 @@ hakkında uygulanır.
 Yukarıda yazılı vergi, resim ve harçlara bağlı olan vergi, resim ve zamlar da bu
 kanuna tabidir.
 Bu kanunun hükümleri kaldırılan vergi, resim ve harçlar hakkında da uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,7 @@ wordCount: 4320
 
 ---
 
-Madde 351 - Kiralananı sonradan edinen kişi, onu kendisi, eşi, altsoyu, üstsoyu veya
+MADDE 351- Kiralananı sonradan edinen kişi, onu kendisi, eşi, altsoyu, üstsoyu veya
 kanun gereği bakmakla yükümlü olduğu diğer kişiler için konut veya işyeri gereksinimi
 sebebiyle kullanma zorunluluğu varsa, edinme tarihinden başlayarak bir ay içinde durumu
 kiracıya yazılı olarak bildirmek koşuluyla, kira sözleşmesini altı ay sonra açacağı bir davayla

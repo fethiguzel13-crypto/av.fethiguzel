@@ -12,7 +12,8 @@ I. Konusu**
 
 ---
 
-Madde 167 - Boşanma davası açmaya hakkı olan eş, dilerse boşan ma, dilerse ayrılık isteyebilir.
+Madde 167- Boşanma davası açmaya hakkı olan eş, dilerse boşanma, dilerse ayrılık
+isteyebilir.
 
 ---
 

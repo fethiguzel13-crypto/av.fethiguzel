@@ -13,6 +13,8 @@ wordCount: 4292
 
 Madde 6- (Mülga: 12/11/2012-6360/13 md.)
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

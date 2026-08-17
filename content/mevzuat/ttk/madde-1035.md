@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**b) Alacağın muaccel olmasından sonra aa) Gemi malikinin borcu ödeme hakkı**
+**b) Alacağın muaccel olmasından sonra
+aa) Gemi malikinin borcu ödeme hakkı**
 
 ---
 
-Madde 1035 - (1) Alacak, malike karşı muacceliyet kazanır yahut borçl u borcunu ödemek hakkına sahip olursa, malik borcu ödeyebilir. (2) Malik, parayı tevdi veya takas etmek suretiyle de alacaklının hakkını yerine getirebilir. bb) Alacağın malike geçmesi
+MADDE 1035- (1) Alacak, malike karşı muacceliyet kazanır yahut borçlu borcunu
+ödemek hakkına sahip olursa, malik borcu ödeyebilir.
+(2) Malik, parayı tevdi veya takas etmek suretiyle de alacaklının hakkını yerine getirebilir.
 
 ---
 

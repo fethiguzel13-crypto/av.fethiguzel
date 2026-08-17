@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4281
 ---
 
-**b) İmzaya itiraz**
+**b) İmzaya itiraz:**
 
 ---
 
@@ -28,14 +28,15 @@ edilen senede dayanan takip konusu alacağın yüzde yirmisinden aşağı olmama
 tazminatına ve takip konusu alacağın yüzde onu oranında para cezasına mahkûm edilir
 ve itiraz reddedilir. Borçlu menfi tespit veya istirdat davası açarsa, hükmolunan tazminatın ve
 para cezasının tahsili dava sonuna kadar tehir olunur ve davanın borçlu lehine sonuçlanması
-hâlinde daha önce hükmedilmiş olan tazminat ve para cezası kalkar.66
+hâlinde daha önce hükmedilmiş olan tazminat ve para cezası kalkar.
 (Değişik birinci cümle: 17/7/2003-4949/47 md.) İcra mahkemesi, itirazın kabulüne
 karar vermesi hâlinde, senedi takibe koymada kötü niyeti veya ağır kusuru bulunduğu
 takdirde alacaklıyı senede dayanan takip konusu alacağın yüzde yirmisinden aşağı olmamak
 üzere tazminata ve alacağın yüzde onu oranında para cezasına mahkûm eder. Alacaklı genel
 mahkemede dava açarsa, para cezasının tahsili dava sonuna kadar tehir olunur ve bu davayı
 kazanırsa hakkında verilmiş olan para cezası kalkar.
-Borçlunun kambiyo hukuku bakımından şikayeti:
+
+---
 
 ### Akademik Yorum ve Analiz
 

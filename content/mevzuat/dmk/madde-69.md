@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**İdari görevlere atanma**
+**İdari görevlere atanma:**
 
 ---
 
@@ -20,6 +20,8 @@ Bu suretle atanan memurların aylıkları kazanılmış hak dereceleri üzerinde
 Ancak kazanılmış aylık dereceleri ve kariyer hizmet sınıfları için tesbit edilen ek gösterge,
 zam ve tazminatlar ile atandıkları görevlerin ek gösterge, zam ve tazminatlarının farklı olması
 halinde fazla olanı ödenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

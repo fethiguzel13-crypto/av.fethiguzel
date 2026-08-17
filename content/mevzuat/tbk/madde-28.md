@@ -11,7 +11,7 @@ wordCount: 4316
 
 ---
 
-Madde 28 - Bir sözleşmede karşılıklı edimler arasında açık bir oransızlık varsa, bu
+MADDE 28- Bir sözleşmede karşılıklı edimler arasında açık bir oransızlık varsa, bu
 oransızlık, zarar görenin zor durumda kalmasından veya düşüncesizliğinden ya da
 deneyimsizliğinden yararlanılmak suretiyle gerçekleştirildiği takdirde, zarar gören, durumun
 özelliğine göre ya sözleşme ile bağlı olmadığını diğer tarafa bildirerek ediminin geri verilmesini

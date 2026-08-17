@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**V
-- Zarar saptama giderleri**
+**V- Zarar saptama giderleri**
 
 ---
 
-Madde 881 - (1) Taşıyıcı, eşyanın zıyaı veya hasarı hâlinde, 880 inci madde uyarınca ödenmesi gereken tazminattan başka, zararın saptanması için yapılması zorunlu olan giderleri de tazminle yükümlüdür.
+MADDE 881- (1) Taşıyıcı, eşyanın zıyaı veya hasarı hâlinde, 880 inci madde uyarınca
+ödenmesi gereken tazminattan başka, zararın saptanması için yapılması zorunlu olan giderleri
+de tazminle yükümlüdür.
 
 ---
 

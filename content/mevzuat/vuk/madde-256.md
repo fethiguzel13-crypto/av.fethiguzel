@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**Defter ve belgelerle diğer kayıtların ibraz mecburiyeti7677**
+**Defter ve belgelerle diğer kayıtların ibraz mecburiyeti**
 
 ---
 
@@ -24,6 +24,8 @@ hesap ve işlemlerin doğrulanması için gerekli kayıt ve belgelerle sınırl�
 ve işlemlere doğrudan ya da silsile yoluyla taraf olanlara, defter ve belgelerinin tetkiki
 amacıyla yeminli mali müşavirler ve serbest muhasebeci mali müşavirler tarafından yapılan
 talepler için de geçerlidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

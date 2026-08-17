@@ -7,14 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Para cezalarının ödenme süresi**
+**Para cezalarının ödenme süresi:**
 
 ---
 
 Madde 115 – (Değişik: 3/11/1988 – 3493/49 md.)
 (Değişik birinci fıkra: 16/7/2004-5228/46 md.) Ödeme derhal yapılmadığı takdirde
 para cezalarının, tutanağın tebliğ tarihinden itibaren bir ay içinde ödenmesi gerekir. Bir ay
-için ödenmeyen cezalar için her ay % 5 faiz uygulanır. Aylık faizin hesaplanmasında ay
+içinde ödenmeyen cezalar için her ay % 5 faiz uygulanır. Aylık faizin hesaplanmasında ay
 kesirleri tam ay olarak dikkate alınır. Bu suretle bulunacak tutar cezanın iki katını geçemez.
 Süresinde ödenmeyen para cezaları için 6183 sayılı Amme Alacaklarının Tahsil Usulü
 Hakkında Kanun Hükümleri uygulanır.
@@ -38,17 +38,13 @@ aracın ülkeyi terk etmesine izin verilmez. (İptal cümle: Anayasa Mahkemesini
 tarihli ve E.: 2022/45, K.: 2022/89 sayılı Kararı ile.) Bu fıkra ve dokuzuncu fıkra hükümlerinin
 uygulanmasına ilişkin usul ve esaslar İçişleri Bakanlığı, Hazine ve Maliye Bakanlığı, Ulaştırma
 ve Altyapı Bakanlığı ile Ticaret Bakanlığınca müştereken çıkarılan yönetmelikle belirlenir.
-Uluslararası sözleşme hükümleri saklıdır.83
-12/2/2026 tarihli ve 7574 sayılı Kanunun 29 uncu maddesiyle bu fıkrada yer alan “Maliye
-Bakanlığınca” ibaresi “Hazine ve Maliye Bakanlığınca” şeklinde değiştirilmiştir.
-83
-12/2/2026 tarihli ve 7574 sayılı Kanunun 30 uncu maddesiyle bu fıkrada yer alan “Bu fıkra” ibaresi
-“Bu fıkra ve dokuzuncu fıkra” şeklinde, “Gümrük ve Ticaret Bakanlığı, İçişleri Bakanlığı ve Maliye
-
+Uluslararası sözleşme hükümleri saklıdır.
 (Ek fıkra:12/2/2026-7574/30 md.) Bu Kanunun ilgili maddelerinde belirtilen trafik
 kurallarına aykırılık nedeniyle; yabancı uyruklu kişiye uygulanan ve ülkemizden çıkışına
 kadar tahsil edilemeyen idari para cezaları bu kişinin tekrar yurda girişi sırasında tahsil edilir.
 Bu şekilde tahsil edilememesi halinde yabancının yurda girişine izin verilmez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

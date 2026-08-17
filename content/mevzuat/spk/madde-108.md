@@ -12,14 +12,7 @@ wordCount: 4300
 ---
 
 MADDE 108 – (1) Aşağıdaki hâller bilgi suistimali veya piyasa dolandırıcılığı
-20/2/2020 tarihli ve 7222 sayılı Kanunun 37 nci maddesiyle, bu fıkrada yer alan “iki yıldan” ibaresi
-“üç yıldan” şeklinde değiştirilmiştir.
-15
-20/2/2020 tarihli ve 7222 sayılı Kanunun 38 inci maddesiyle, bu fıkralarda yer alan “iki” ibareleri
-“üç” şeklinde değiştirilmiştir.
-14
-
-sayılmaz:
+sayılmaz:
 a) TCMB ya da yetkilendirilmiş başka bir resmî kurum veya bunlar adına hareket eden
 kişiler tarafından para, döviz kuru, kamu borç yönetim politikalarının uygulanması veya
 finansal istikrarın sağlanması amacıyla işlem yapılması
@@ -29,6 +22,8 @@ c) Kurulun bu Kanun kapsamındaki fiyat istikrarını sağlayıcı işlemlere ve
 yapıcılığına ilişkin düzenlemelerine uygun olarak icra edilmeleri kaydıyla, münhasıran bu
 araçların piyasa fiyatının önceden belirlenmiş bir süre için desteklenmesi amacıyla sermaye
 piyasası araçlarının alım veya satımının yapılması yahut emir verilmesi veya emir iptal edilmesi
+
+---
 
 ### Akademik Yorum ve Analiz
 

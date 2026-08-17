@@ -11,7 +11,9 @@ wordCount: 4303
 
 ---
 
-Madde 383 - Ortaklık mallarının payla şılması veya ayrılan ortağ ın payının hesaplanması, ortaklık mallarının paylaşma v eya ayrılma zamanındaki değ erine ve durumuna göre yapı lır. Paylaş ma ve hesaplaşma uygun olmayan bir zamanda istenemez.
+Madde 383- Ortaklık mallarının paylaşılması veya ayrılan ortağın payının hesaplanması,
+ortaklık mallarının paylaşma veya ayrılma zamanındaki değerine ve durumuna göre yapılır.
+Paylaşma ve hesaplaşma uygun olmayan bir zamanda istenemez.
 
 ---
 

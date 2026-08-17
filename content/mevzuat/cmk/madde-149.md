@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Şüphelinin veya sanığın müdafi seçimi**
+**ALTINCI KISIM
+Savunma
+BİRİNCİ BÖLÜM
+Müdafi Seçimi, Görevlendirilmesi, Görev ve Yetkileri
+Şüphelinin veya sanığın müdafi seçimi**
 
 ---
 
@@ -21,6 +25,8 @@ bulunabilir.
 (3) Soruşturma ve kovuşturma evrelerinin her aşamasında avukatın, şüpheli veya
 sanıkla görüşme, ifade alma veya sorgu süresince yanında olma ve hukukî yardımda bulunma
 hakkı engellenemez, kısıtlanamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

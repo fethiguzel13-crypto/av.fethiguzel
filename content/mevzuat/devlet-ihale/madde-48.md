@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**İhale sonucunun karara bağlanması**
+**İhale sonucunun karara bağlanması:**
 
 ---
 
 Madde 48 – Sözlü veya yazılı son teklifler alındıktan sonra, ihale 41 inci maddeye
 göre karara bağlanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

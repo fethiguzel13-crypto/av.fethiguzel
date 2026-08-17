@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**verilenlerin sigortalılıkları ve primleri**
+**Kanunları gereğince görevden uzaklaştırılanlar, tutuklananlar veya görevine son
+verilenlerin sigortalılıkları ve primleri**
 
 ---
 
@@ -33,7 +34,9 @@ izne ayrılanların aylıksız izin sürelerinde bu Kanunun 67 nci maddesinde ar
 aylıksız izinli oldukları süreler için prime esas kazanç alt sınırının altında olmamak kaydıyla
 aylıksız izne ayrıldıkları tarihteki prime esas kazançları üzerinden %12 oranında genel sağlık
 sigortası primi işverenlerince ödenir. Ancak askerlik hizmeti nedeniyle aylıksız izne ayrılanların
-genel sağlık sigortası priminin ödenmesinde, bir yıllık süre sınırı uygulanmaz.75
+genel sağlık sigortası priminin ödenmesinde, bir yıllık süre sınırı uygulanmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

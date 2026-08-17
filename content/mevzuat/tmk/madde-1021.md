@@ -12,7 +12,9 @@ I. Tescilin yapılmamasının sonuçları**
 
 ---
 
-Madde 1021 - Kur ulması kanunen tescile tâbi aynî haklar, tescil edilmedikçe varlık kazanamaz.
+Madde 1021- Kurulması kanunen tescile tâbi aynî haklar, tescil edilmedikçe varlık
+kazanamaz.
+II. Tescilin sonuçları
 
 ---
 

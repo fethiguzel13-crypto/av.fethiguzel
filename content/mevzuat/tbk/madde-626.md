@@ -12,7 +12,7 @@ wordCount: 4299
 
 ---
 
-Madde 626 - Ortaklar, kendilerinin veya üçüncü kişilerin menfaatine olarak, ortaklığın
+MADDE 626- Ortaklar, kendilerinin veya üçüncü kişilerin menfaatine olarak, ortaklığın
 amacını engelleyici veya zarar verici işleri yapamazlar.
 
 ---

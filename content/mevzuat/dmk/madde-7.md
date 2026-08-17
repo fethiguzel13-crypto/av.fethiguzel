@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**Tarafsızlık ve devlete bağlılık**
+**Tarafsızlık ve devlete bağlılık:**
 
 ---
 
@@ -22,6 +22,8 @@ Türkiye Cumhuriyeti Anayasasına ve kanunlarına aykırı olan, memleketin bağ
 bütünlüğünü bozan Türkiye Cumhuriyetinin güvenliğini tehlikeye düşüren herhangi bir
 faaliyette bulunamazlar. Aynı nitelikte faaliyet gösteren herhangi bir harekete, gruplaşmaya,
 teşekküle veya derneğe katılamazlar, bunlara yardım edemezler,
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -30,10 +30,8 @@ tavsiyelerde bulunmak.
 h) Daire Başkanlığının yıllık faaliyet raporu ve plânı hakkında görüş bildirmek.
 ı) Daire Başkanlığının faaliyet planında yer alan konularla ilgili kurum ve kuruluşların
 uygulamaya sağlayabileceği katkıları belirlemek.
-DOKUZUNCU BÖLÜM
 
-
-Ceza Hükümleri
+---
 
 ### Akademik Yorum ve Analiz
 

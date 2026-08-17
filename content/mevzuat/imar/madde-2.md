@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Kapsam**
+**Kapsam:**
 
 ---
 
 Madde 2 – Belediye ve mücavir alan sınırları içinde ve dışında kalan yerlerde
 yapılacak planlar ile inşa edilecek resmi ve özel bütün yapılar bu Kanun hükümlerine tabidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

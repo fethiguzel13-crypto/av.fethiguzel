@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**Reddedilen alacaklar**
+**Reddedilen alacaklar:**
 
 ---
 
@@ -17,6 +17,8 @@ iflas idaresi ipotekle temin edilmiş alacakla ilgili olarak bunu doğuran sebep
 limiti miktarı bakımından red kararı vermeyip, kabul etmediğini ikinci alacaklılar toplantısına
 bildirir. İpoteğin iptali veya miktarının tenzili iddiasını takip hakkı, isteyen alacaklıya 245 inci
 madde hükmü çerçevesinde devrolunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

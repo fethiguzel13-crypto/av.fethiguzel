@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**1 – Süresi ve şekli**
+**İTİRAZ
+1 – Süresi ve şekli:**
 
 ---
 
@@ -23,8 +24,7 @@ tebliğ edilir.
 (Ek fıkra: 17/7/2003-4949/13 md.) Borçlu veya vekili, dava ve takip işlemlerine esas
 olmak üzere borçluya ait yurt içinde bir adresi itirazla birlikte bildirmek zorundadır. Adresini
 değiştiren borçlu yurt içinde yeni adres bildirmediği ve tebliğ memurunca yurt içinde yeni
-
-adresi tespit edilemediği takdirde, takip talebinde gösterilen adrese çıkarılacak tebligat
+adresi tespit edilemediği takdirde, takip talebinde gösterilen adrese çıkarılacak tebligat
 borçlunun kendisine yapılmış sayılır.
 Borcun bir kısmına itiraz eden borçlunun o kısman cihet ve miktarını açıkca
 göstermesi lazımdır. Aksi takdirde itiraz edilmemiş sayılır.
@@ -33,6 +33,8 @@ Borçlu takibin müstenidi olan senet altındaki imzayı reddediyorsa, bunu itir
 ayrıca ve açıkça beyan etmelidir. Aksi takdirde icra takibi yönünden senetteki imzayı kabul
 etmiş sayılır.
 Borçluya, itiraz eylediğine dair bedava ve pulsuz bir belge verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

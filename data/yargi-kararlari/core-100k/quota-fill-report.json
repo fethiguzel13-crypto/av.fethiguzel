@@ -1,0 +1,152 @@
+{
+  "at": "2026-08-10T02:36:57.325Z",
+  "scanned": 2992,
+  "afterUniqueness": 1502,
+  "rejectedSimilar": 1490,
+  "selected": 1502,
+  "targetTotal": 100000,
+  "fillProgress": {
+    "yibk": {
+      "want": 1200,
+      "have": 29,
+      "pool": 29
+    },
+    "hgk": {
+      "want": 12000,
+      "have": 1030,
+      "pool": 1030
+    },
+    "cgk": {
+      "want": 8000,
+      "have": 441,
+      "pool": 441
+    },
+    "kurul-diger": {
+      "want": 1800,
+      "have": 0,
+      "pool": 0
+    },
+    "hukuk-daire": {
+      "want": 32000,
+      "have": 2,
+      "pool": 2
+    },
+    "ceza-daire": {
+      "want": 16000,
+      "have": 0,
+      "pool": 0
+    },
+    "icra-daire": {
+      "want": 6000,
+      "have": 0,
+      "pool": 0
+    },
+    "danistay-iddk": {
+      "want": 4000,
+      "have": 0,
+      "pool": 0
+    },
+    "danistay-vddk": {
+      "want": 4000,
+      "have": 0,
+      "pool": 0
+    },
+    "danistay-daire": {
+      "want": 15000,
+      "have": 0,
+      "pool": 0
+    }
+  },
+  "eraCounts": {
+    "pre2010": 0,
+    "y2010_2019": 1498,
+    "y2020plus": 4,
+    "unknown": 0
+  },
+  "domainCounts": {
+    "usul_hukuk": 314,
+    "ticaret": 239,
+    "ceza_genel": 130,
+    "icra_iflas": 148,
+    "miras": 117,
+    "is_sgk": 242,
+    "diger": 48,
+    "aile": 80,
+    "esya_tapu": 35,
+    "borclar": 36,
+    "idare": 15,
+    "ceza_usul": 60,
+    "vergi": 2,
+    "tuketici": 2,
+    "kamulastirma": 1,
+    "ceza_ozel": 33
+  },
+  "similarityThreshold": 0.85,
+  "topDomains": [
+    [
+      "usul_hukuk",
+      314
+    ],
+    [
+      "is_sgk",
+      242
+    ],
+    [
+      "ticaret",
+      239
+    ],
+    [
+      "icra_iflas",
+      148
+    ],
+    [
+      "ceza_genel",
+      130
+    ],
+    [
+      "miras",
+      117
+    ],
+    [
+      "aile",
+      80
+    ],
+    [
+      "ceza_usul",
+      60
+    ],
+    [
+      "diger",
+      48
+    ],
+    [
+      "borclar",
+      36
+    ],
+    [
+      "esya_tapu",
+      35
+    ],
+    [
+      "ceza_ozel",
+      33
+    ],
+    [
+      "idare",
+      15
+    ],
+    [
+      "vergi",
+      2
+    ],
+    [
+      "tuketici",
+      2
+    ],
+    [
+      "kamulastirma",
+      1
+    ]
+  ],
+  "note": "Seed only: 1502/100000. Continue harvest (HGK/CGK/daire/Danıştay) then re-run."
+}

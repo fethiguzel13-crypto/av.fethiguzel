@@ -27,6 +27,8 @@ uygulanan işyerinde neden olunan maddi zarardan sendika sorumludur. Yetkili iş
 sendikasının kararı olmadan işçi ya da yöneticilerin bireysel eylemlerinden kaynaklanan
 zararlardan kusuru olan yönetici ya da işçi sorumludur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Adayların yetiştirilmesi**
+**Adayların yetiştirilmesi:**
 
 ---
 
@@ -18,7 +18,9 @@ memuru olarak atanabilmeleri için başarılı olmaları şarttır.
 Temel eğitim ile hazırlayıcı eğitim aynı kurumda yapılır.
 Eğitim süreleri, programları, değerlendirme esasları ve hangi kurumların
 sorumluluğunda yapılacağı ve diğer hususlar Cumhurbaşkanınca hazırlanacak bir
-yönetmelikle düzenlenir.116
+yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**2 – Ödeme emri**
+**2 – Ödeme emri:**
 
 ---
 
@@ -18,7 +18,8 @@ maddeye göre birer ödeme gönderir.
 1. Ödeme müddeti otuz gündür.
 2. Yedi gün içinde itiraz olunmaz ve 1 numaralı bendde yazılı müddet içinde borç
 ödenmezse alacaklının taşınmazın satışını istiyebileceği bildirilir.
-Ödeme emrine itiraz:
+
+---
 
 ### Akademik Yorum ve Analiz
 

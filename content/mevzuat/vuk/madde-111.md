@@ -7,7 +7,7 @@ lastReviewed: "2026-07-11"
 wordCount: 2560
 ---
 
-**Ödeme zamanı**
+**Ödeme zamanı:**
 
 ---
 
@@ -17,6 +17,9 @@ Bu kanunun 15, 17 ve 342 nci maddelerinin uygulanması dolayısiyle sürenin uza
 halinde vade uzayan sürenin bittiği gündür.
 Beyannamenin posta ile gönderilmesi halinde, beyan edilen vergi tahakkuk işleminin
 bitmesi beklenmeksizin vadesinde ödenir.
+Bu fıkrada yeralan "Ücret ve kazançları götürü usulde tespit edilen tüccar, hizmet ve serbest meslek
+erbabının" ibaresi, 22/7/1998 tarih ve 4369 sayılı Kanunun 81 inci maddesiyle “Diğer ücret elde eden hizmet
+erbabının” şeklinde değiştirilmiştir.
 500 den fazla mükellefi olan vergi dairelerine para yatırmak bakımından mükelleflere,
 vadenin bitmesini takip eden tarihten başlıyarak 15 gün içinde gün belli etmiye Maliye
 Bakanlığı yetkilidir.
@@ -29,6 +32,8 @@ yıl süreyle uzatmaya yetkilidir. Bu yetki; bölge, il, ilçe, mahal ve afetten
 afetten zarar görme derecesi veya vergi türleri itibarıyla farklı süreler tespit etmek suretiyle de
 kullanılabilir.
 Bu suretle belli edilen günler verginin vadesi yerine geçer.
+
+---
 
 ### Akademik Yorum ve Analiz
 

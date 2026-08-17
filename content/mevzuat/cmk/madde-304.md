@@ -23,8 +23,7 @@ a) İstinaf başvurusunun esastan reddi kararına ilişkin ise dosya, gereği i�
 veren ilk derece mahkemesine,
 b) Hukuka aykırılığın düzeltilerek istinaf başvurusunun esastan reddi kararına ilişkin
 ise dosya, gereği için kararı veren ilk derece mahkemesine ya da bozma kararının içeriği
-
-doğrultusunda Yargıtayca uygun görülmesi halinde bölge adliye mahkemesine,
+doğrultusunda Yargıtayca uygun görülmesi halinde bölge adliye mahkemesine,
 gönderilir. Dosyanın ilk derece mahkemesine gönderildiği hallerde, kararın bir örneği
 de bölge adliye mahkemesine gönderilir.
 (3) Hüküm, mahkemenin hukuka aykırı olarak kendisini görevli veya yetkili görmesinden
@@ -32,6 +31,8 @@ dolayı bozulmuşsa, Yargıtay aynı zamanda dosyayı görevli veya yetkili mahk
 (4) İlk derece mahkemesi tarafından doğrudan temyiz yolu açık bulunan hükümlerle
 ilgili olarak verilen karara ilişkin dosya, hükmü veren ilk derece mahkemesine gönderilmek
 üzere Yargıtay Cumhuriyet Başsavcılığına verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

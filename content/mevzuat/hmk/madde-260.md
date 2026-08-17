@@ -15,6 +15,8 @@ MADDE 260- (1) Tanık dinlenmeden önce hakkında tanıklık yapacağı olayla i
 olarak, hâkim tarafından kendisine bilgi verilir ve tanıklık edeceği konulara ilişkin bildiklerini
 söylemesi istenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

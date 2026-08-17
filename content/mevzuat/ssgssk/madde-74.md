@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4285
 ---
 
-**Genel sağlık sigortası gelirlerinin kullanım amacı, kısa ve uzun vadeli sigorta kolları için yapılan sağlık harcamaları**
+**Genel sağlık sigortası gelirlerinin kullanım amacı, kısa ve uzun vadeli sigorta
+kolları için yapılan sağlık harcamaları**
 
 ---
 
@@ -18,6 +19,8 @@ Uzun ve kısa vadeli sigorta kolları bakımından sürekli iş göremezlik, mal
 sağlık hizmeti giderleri ile 72 nci maddeye göre, usûl ve esasları Kurumca belirlenecek
 gündelik ve yol giderleri, refakatçı giderleri, kısa ve uzun vadeli sigorta kolları prim
 gelirlerinden karşılanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

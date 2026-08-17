@@ -18,18 +18,13 @@ işlerinin yürütülmesiyle ilgili olarak kayyım atayabilir. Atama kararında,
 karar ve işlemlerinin geçerliliğinin kayyımın onayına bağlı kılındığı veya yönetim organının
 yetkilerinin ya da yönetim organının yetkileri ile birlikte ortaklık payları veya menkul
 kıymetler idare yetkilerinin tümüyle kayyıma verildiği açıkça belirtilir. Kayyım tayinine
-ilişkin karar, ticaret sicili gazetesinde ve diğer uygun vasıtalarla ilan olunur.30
+ilişkin karar, ticaret sicili gazetesinde ve diğer uygun vasıtalarla ilan olunur.
 (2) Hâkim veya mahkemenin kayyım hakkında takdir etmiş bulunduğu ücret, şirket
 bütçesinden karşılanır. Ancak, soruşturma veya kovuşturma konusu suçtan dolayı
 kovuşturmaya yer olmadığı veya beraat kararının verilmesi halinde; ücret olarak şirket
 bütçesinden ödenen paranın tamamı, kanunî faiziyle birlikte Devlet Hazinesinden karşılanır.
 (3) İlgililer, atanan kayyımın işlemlerine karşı, görevli mahkemeye 22.11.2001 tarihli
-1/7/2016 tarihli ve 6723 sayılı Kanunun 32 nci maddesiyle, bu fıkrada yer alan “yetkilerinin”
-ibaresinden sonra gelmek üzere “ya da yönetim organının yetkileri ile birlikte ortaklık payları veya
-menkul kıymetler idare yetkilerinin” ibaresi eklenmiştir.
-30
-
-ve 4721 sayılı Türk Medeni Kanunu ve 29.6.1956 tarihli ve 6762 sayılı Türk Ticaret Kanunu
+ve 4721 sayılı Türk Medeni Kanunu ve 29.6.1956 tarihli ve 6762 sayılı Türk Ticaret Kanunu
 hükümlerine göre başvurabilirler.
 (4) Bu madde hükümleri ancak aşağıda sayılan suçlarla ilgili olarak uygulanabilir.
 a) Türk Ceza Kanununda yer alan,
@@ -55,7 +50,8 @@ tanımlanan suçlar.
 ilgili iş ve işlemlerinden dolayı tazminat davaları, 142 ila 144 üncü maddeler uyarınca Devlet
 aleyhine açılır. Devlet, ödediği tazminattan dolayı görevinin gereklerine aykırı hareket etmek
 suretiyle görevini kötüye kullanan kayyımlara bir yıl içinde rücu eder.
-Bilgisayarlarda, bilgisayar programlarında ve kütüklerinde arama, kopyalama
+
+---
 
 ### Akademik Yorum ve Analiz
 

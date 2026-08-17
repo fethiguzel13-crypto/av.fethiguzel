@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4285
 ---
 
-**Senedin geri verilmesi ve ilamın icrası vesikası**
+**Senedin geri verilmesi ve ilamın icrası vesikası:**
 
 ---
 
@@ -21,18 +21,8 @@ olduğuna dair bedava ve pulsuz bir vesika verilir.
 Bir taşınmazı paraya çeviren icra dairesi o taşınmaz üzerindeki irtifak haklarına,
 taşınmaz mükellefiyetlerine ve taşınmaz rehin haklarına dair kayıtların tapu sicilinden terkin
 ve nakillerini de yaptırır.
-(Ek: 29/6/1956-6763/42 md.; Mülga beşinci fıkra: 14/1/2011-6103/41 md.)
-Paranın paylaştırılmasına ilişkin hükümlerin gemilere uygulanması:
 
-Madde 144/a – (Ek: 14/1/2011-6103/41 md.)
-Paranın paylaştırılmasına ilişkin hükümler, gemilerin satışı hâlinde de uygulanır. Şu
-kadar ki, 140 ıncı madde uyarınca yapılacak sıra cetveli, bayrağına ve sicile kayıtlı olup
-olmadığına bakılmaksızın, bütün gemiler hakkında Türk Ticaret Kanununun 1389 ilâ 1397 nci
-maddesi hükümlerine tâbidir.
-Türk gemi siciline kayıtlı olan gemiyi paraya çeviren icra dairesi, sicile kayıtlı ipotek
-ve intifa haklarına ait kayıtların terkin veya nakillerini yaptırır; yabancı sicile kayıtlı
-gemilerde, bu işlemin yapılması için geminin bayrağını taşıdığı devletin en yakın
-konsolosluğuna bildirimde bulunur.
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**VI. Rehin der ecesi
+**VI. Rehin derecesi
 1. Rehin derecesinin hükümleri**
 
 ---
 
-Madde 870 - Rehnin sağladığı güvence, tescilde belirtilen rehin dere cesi ile sınırlıdır. Taşınmaz rehni, sırada kendisinden önce g elecek olanın miktarının tescilde belirtilmesi kaydıyla ikinci veya daha sonraki derecede de kurulabilir.
+Madde 870- Rehnin sağladığı güvence, tescilde belirtilen rehin derecesi ile sınırlıdır.
+Taşınmaz rehni, sırada kendisinden önce gelecek olanın miktarının tescilde belirtilmesi
+kaydıyla ikinci veya daha sonraki derecede de kurulabilir.
 
 ---
 

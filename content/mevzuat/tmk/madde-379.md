@@ -11,7 +11,11 @@ wordCount: 4259
 
 ---
 
-Madde 379 - Ortaklar, ortaklığa giren malların elbirliği hâlinde malikidirler. Orta klar, ortaklığın borçlarından mütesels il ola rak sorumludurlar. Ortakların, ortaklık dışında bıraktıkları mallar ile aksi kararlaştırılmış olmadıkça, ortaklığın devamı sırasında miras yoluyla veya herhangi bir şekilde karşılıksız kazanma yoluyla edindikleri mallar, onların kişisel mallarıdır.
+Madde 379- Ortaklar, ortaklığa giren malların elbirliği hâlinde malikidirler.
+Ortaklar, ortaklığın borçlarından müteselsil olarak sorumludurlar.
+Ortakların, ortaklık dışında bıraktıkları mallar ile aksi kararlaştırılmış olmadıkça, ortaklığın
+devamı sırasında miras yoluyla veya herhangi bir şekilde karşılıksız kazanma yoluyla edindikleri
+mallar, onların kişisel mallarıdır.
 
 ---
 

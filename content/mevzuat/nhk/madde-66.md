@@ -7,19 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Fazla çalışma ücreti**
+**Emanetin hazineye intikali:**
 
 ---
 
-MADDE 66- (Mülga: 11/10/2011-KHK-666/1 md.)27
+Madde 66 – Emanet, değersiz veya satış masrafını korumıyacak ise, 65 inci maddenin
+birinci fıkrası uyarınca yapılan tebliğin semeresiz kalması halinde Hazineye devredilir.
+Noterler tarafından emanet olarak veya 65 inci maddenin son fıkrası hükmünün
+uygulanması sonunda bankaya yatırılan para zamanaşımının dolmasından sonra Hazineye
+aktarılır.
 
-Bu madde başlığı “Ücretlendirme” iken, 25/6/2009 tarihli ve 5917 sayılı Kanunun 39 uncu
-maddesiyle metne işlendiği şekilde değiştirilmiştir.
-27
-11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede yapılan düzenleme; 10/10/2013 tarihli ve 28791
-sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.:
-2012/205 sayılı Kararı ile iptal edilmiştir.
-26
+---
 
 ### Akademik Yorum ve Analiz
 

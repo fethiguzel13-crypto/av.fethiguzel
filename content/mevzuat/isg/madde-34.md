@@ -7,18 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Çalışma Bakanlığı Kadro İhdasları ve Teşkilat Gücü (Madde 34 - 35)**
-
----
-
 MADDE 34 – Ekli (I), (II) ve (III) sayılı listelerde yer alan kadrolar ihdas edilerek 190
 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Çalışma ve Sosyal Güvenlik
 Bakanlığına ait bölümüne eklenmiş, ekli (IV) sayılı listede yer alan kadrolar iptal edilerek 190
 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Çalışma ve Sosyal Güvenlik
 Bakanlığına ait bölümünden çıkarılmıştır.
-
-MADDE 35 – 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu ile ilgili
-olup yerine işlenmiştir.
+Bu maddede yer alan kadrolar için 30/6/2012 tarihli ve 28339 sayılı Resmî Gazete’ye bakınız.
 
 ---
 

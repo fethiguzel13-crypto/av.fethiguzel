@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**Gayrisafi irat**
+**Gayrisafi irat:**
 
 ---
 
@@ -26,6 +26,8 @@ kiraların seviyesi;
 7. Kullanış tarzı.
 Fabrika, değirmen ve imalathanelerin iratlarının takdirinde içerlerinde bulunan sabit
 istihsal tesisatı dahi nazara alınır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

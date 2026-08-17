@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**Yayaların uyacakları kurallar**
+**Hayvan Sürücüleri ve Yarışlar Hakkında Kurallar
+Yayaların uyacakları kurallar:**
 
 ---
 
@@ -33,15 +34,19 @@ Yayalar, bu yerlerden geçerken;
 bu işaretlere uymak,
 2. Geçitte yayalar için ışıklı işaret yoksa ve geçit sadece taşıt trafiği ışıklı işareti veya
 yetkili kişi tarafından yönetiliyorsa geçecekleri doğrultu açıldıktan sonra taşıt yoluna girmek,
+3. (Mülga: 18/10/2018-7148/23 md.)
 Zorundadırlar.
 Ancak, yüz metre kadar mesafede yaya geçidi veya kavşak bulunmayan yerlerde yayalar,
 taşıt trafiği için bir engel teşkil etmemek şartı ile ve yolu kontrol ederek kendi güvenliklerini
 sağladıktan sonra en kısa doğrultuda ve en kısa zamanda taşıt yolunu geçebilirler.
-c) Yaya yollarında, geçitlerde veya zorunlu haller dışında taşıt yolu üzerinde bulunan
+c) Yaya yollarında, geçitlerde veya zorunlu hallerde taşıt yolu üzerinde bulunan
 yayaların, trafiği engelleyecek veya tehlikeye düşürecek şekilde davranışlarda bulunmaları
 veya buraları saygısızca kullanmaları yasaktır.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayan yayalar 1 800 000
 lira para cezası ile cezalandırılırlar.
+Hayvanla çekilen, elle sürülen araçları sürenler ile hayvan sürücülerine ait kurallar:
+
+---
 
 ### Akademik Yorum ve Analiz
 

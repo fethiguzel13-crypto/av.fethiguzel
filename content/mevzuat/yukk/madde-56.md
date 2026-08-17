@@ -20,6 +20,8 @@ açısından tehdit oluşturanlara bu süre tanınmaz.
 (2) Türkiye’den çıkış için süre tanınan kişilere, Çıkış İzin Belgesi verilir. Bu belge hiçbir
 harca tabi değildir. Vize ve ikamet harçları ile bunların cezalarına ilişkin yükümlülükler saklıdır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

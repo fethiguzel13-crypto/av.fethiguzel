@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**Zamanaşımı**
+**Zamanaşımı:**
 
 ---
 
 Madde 120 – (Mülga: 12/7/2013-6495/24 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

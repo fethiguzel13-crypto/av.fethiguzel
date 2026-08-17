@@ -7,15 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**II
-- Faiz yasağı ve hazırlık dönemi faizi MAD DE 609
-- (1) Esas sermayeye ve ek ödemelere faiz verilemez. Şirket sözleşmesiyle hazırlık dönemi faizi ödenmesi öngörülebilir. Bu hâlde anonim şirketlere ilişkin hükümler uygulanır.
-III
-- Finansal tablolar ve yedek akçeler**
+**III - Finansal tablolar ve yedek akçeler**
 
 ---
 
-Madde 610 - (1) Anonim şirketlere ilişkin 514 ilâ 527 nci madde hükümleri limited şirketlere de uygulanır.
+MADDE 610- (1) Anonim şirketlere ilişkin 514 ilâ 527 nci madde hükümleri limited
+şirketlere de uygulanır.
 
 ---
 

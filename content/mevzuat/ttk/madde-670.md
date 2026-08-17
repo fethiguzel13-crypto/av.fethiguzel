@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**Madde 670**
+**DÖRDÜNCÜ KISIM
+Kambiyo Senetleri
+A) Borçlanma ehliyeti**
 
 ---
 
-Madde 670 - (1) Sözleşme ile borçlanmaya ehil olan kişi, kamb iyo senetleri ile borçlanmaya da ehildir. BİRİNCİ BÖLÜM Poliçe BİRİNCİ AYIRIM Poliçenin Düzenlenmesi ve Şekli A) Şekil I - Unsurları 1. Genel olarak
+MADDE 670- (1) Sözleşme ile borçlanmaya ehil olan kişi, kambiyo senetleri ile
+borçlanmaya da ehildir.
 
 ---
 

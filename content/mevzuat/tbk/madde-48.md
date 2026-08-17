@@ -11,11 +11,8 @@ wordCount: 4288
 
 ---
 
-Madde 48 - Ortaklık temsilcileri ile organlarının ve ticari vekillerin yetkisine ilişkin
+MADDE 48- Ortaklık temsilcileri ile organlarının ve ticari vekillerin yetkisine ilişkin
 hükümler saklıdır.
-
-İKİNCİ AYIRIM
-Haksız Fiillerden Doğan Borç İlişkileri
 
 ---
 

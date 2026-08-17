@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**kurulabileceği Cumhurbaşkanınca belirlenir. 38 2. Faiz**
+**2. Faiz**
 
 ---
 
-Madde 852 - Sınırlayıcı hükümler saklı kalmak kaydıyla, taraflar faiz oranını diledikleri gibi kararlaştırabil irler.
+Madde 852- Sınırlayıcı hükümler saklı kalmak kaydıyla, taraflar faiz oranını diledikleri
+gibi kararlaştırabilirler.
 
 ---
 

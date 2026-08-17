@@ -16,6 +16,8 @@ görüşünü aldıktan sonra hâkim veya mahkeme 110 uncu maddenin ikinci fıkr
 gün içinde karar verebilir.
 (2) Adlî kontrole ilişkin kararlara itiraz edilebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

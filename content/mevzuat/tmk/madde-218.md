@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**Madde 218**
+**İKİNCİ AYIRIM
+EDİNİLMİŞ MALLARA KATILMA
+A. Mülkiyet
+I. Kapsamı**
 
 ---
 
-Madde 218 - Edinilmiş mallara k atılma rejimi, edinilmiş mallar ile eşlerden her birinin kişisel mallarını kapsar.
+Madde 218- Edinilmiş mallara katılma rejimi, edinilmiş mallar ile eşlerden her birinin
+kişisel mallarını kapsar.
 
 ---
 

@@ -12,7 +12,7 @@ I. Ülke parası ile**
 
 ---
 
-Madde 99 - Konusu para olan borç Ülke parasıyla ödenir.
+MADDE 99- Konusu para olan borç Ülke parasıyla ödenir.
 Ülke parası dışında başka bir para birimiyle ödeme yapılması kararlaştırılmışsa,
 sözleşmede aynen ödeme veya bu anlama gelen bir ifade bulunmadıkça borç, ödeme
 günündeki rayiç üzerinden Ülke parasıyla da ödenebilir.

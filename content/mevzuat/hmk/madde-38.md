@@ -26,13 +26,9 @@ içinde dosyayı inceler ve ret sebeplerinin kanuna uygun olup olmadığı hakk�
 yazı ile bildirerek, dosyayı hemen merciine gönderilmek üzere yazı işleri müdürüne verir.
 (6) (Mülga:22/7/2020-7251/4 md.)
 (7) (Mülga:22/7/2020-7251/4 md.)
-22/7/2020 tarihli ve 7251 sayılı Kanunun 3 üncü maddesiyle, bu bentte yer alan “etmiş olması.”
-ibaresi “etmiş olması; uyuşmazlıkta arabuluculuk veya uzlaştırmacılık yapmış bulunması.” şeklinde
-değiştirilmiştir.
-5
+(8) Hâkimi çekilmeye davet, hâkimin reddi hükmündedir.
 
-(8) Hâkimi çekilmeye davet, hâkimin reddi hükmündedir.
-(9) (Mülga:22/7/2020-7251/4 md.)
+---
 
 ### Akademik Yorum ve Analiz
 

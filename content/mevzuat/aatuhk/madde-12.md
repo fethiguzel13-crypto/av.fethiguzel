@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**Teminat hükmünde olan eşya**
+**Teminat hükmünde olan eşya:**
 
 ---
 
@@ -21,7 +21,8 @@ eşyaları bu hükümden hariçtir.
 Üçüncü şahısların Medeni Kanunun 688 ve Borçlar Kanununun 222 nci maddelerine
 müsteniden yapacakları istihkak iddiaları mahfuz kalmak şartiyle, bu yerlerdeki mallar
 üzerindeki istihkak iddiaları alacaklı amme idaresinin bu teminat hakkını ihlal etmez.
-II – İhtiyati haciz
+
+---
 
 ### Akademik Yorum ve Analiz
 

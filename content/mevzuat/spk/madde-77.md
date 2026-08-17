@@ -13,8 +13,7 @@ wordCount: 4302
 
 MADDE 77 – (1) Merkezî takas kuruluşları, borsalarda ve teşkilatlanmış diğer pazar
 yerlerinde işlem gören sermaye piyasası araçlarının teslimi, bedellerinin ödenmesi ve bu
-
-işlemlere ilişkin teminat yükümlülüklerinin ifası ile ilgili işlemleri yürüten anonim ortaklık
+işlemlere ilişkin teminat yükümlülüklerinin ifası ile ilgili işlemleri yürüten anonim ortaklık
 şeklindeki özel hukuk tüzel kişiliğini haiz kurumlardır. Merkezî takas kuruluşlarının
 kuruluşuna Kurulun teklifi üzerine ilgili Bakan tarafından izin verilir. Bu kuruluşların
 faaliyete geçmesi Kurulun iznine tabidir. Merkezî takas kuruluşlarının sermayesine, bu Kanun
@@ -49,6 +48,8 @@ gönderilmesini merkezî takas kuruluşları ile bu kuruluşların üyelerinden 
 hususlarda üyelerinden bilgi ve belge istemeye ve inceleme yapmaya yetkilidirler. Üyeler,
 merkezî takas kuruluşlarının görev alanına giren hususlarda özel mevzuatında yer alan
 hükümlere dayanarak bilgi vermekten imtina edemezler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

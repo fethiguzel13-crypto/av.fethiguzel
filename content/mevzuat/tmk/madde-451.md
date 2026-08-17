@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**4. Vesayet altındaki kişinin yapabileceği işl er
+**4. Vesayet altındaki kişinin yapabileceği işler
 a. Vasinin rızası**
 
 ---
 
-Madde 451 - Ayırt etme gücüne sahip olan vesa yet al tındaki kişi, vasinin açık v eya örtülü izni veya sonraki onamasıyla yükümlülük altına girebilir veya bir haktan vazgeçebilir. Yapılan işlem diğer tarafın belirlediği veya başvurusu üzer ine hâkimin belirleyeceği u ygun bir süre içinde onanma zsa, diğer taraf bununla bağlı olmaktan kurtulur.
+Madde 451- Ayırt etme gücüne sahip olan vesayet altındaki kişi, vasinin açık veya örtülü
+izni veya sonraki onamasıyla yükümlülük altına girebilir veya bir haktan vazgeçebilir.
+Yapılan işlem diğer tarafın belirlediği veya başvurusu üzerine hâkimin belirleyeceği
+uygun bir süre içinde onanmazsa, diğer taraf bununla bağlı olmaktan kurtulur.
 
 ---
 

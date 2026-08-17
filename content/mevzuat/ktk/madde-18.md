@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Belediye sınırları içinde bulunan karayolu kenarındaki yapı ve tesisler**
+**Belediye sınırları içinde bulunan karayolu kenarındaki yapı ve tesisler:**
 
 ---
 
-Madde 18 – (Değişik: 18/1/1985 - KHK 245/6 md.; Aynen kabul: 28/3/1985 3176/6 md.)
+Madde 18 – (Değişik: 18/1/1985 - KHK 245/6 md.; Aynen kabul: 28/3/1985 -
+3176/6 md.)
 Belediye sınırları içindeki karayolları kenarında yapılacak veya açılacak 17 nci maddede
 sayılan yapı ve tesisler için;
 a) Belediyelerden izin alınması,
@@ -28,6 +29,8 @@ sorumlulara ait olmak üzere yolun yapım ve bakımı ile ilgili kuruluşlarca o
 yapanlar 72 000 000 lira para cezası ile cezalandırılırlar.
 Bu madde ve 17 nci maddede belirtilen tesislere ait şartlar, izin ve denetim esasları
 Bayındırlık ve İskan Bakanlığınca düzenlenen yönetmelikte gösterilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

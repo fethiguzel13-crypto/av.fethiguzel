@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Belge ve plakaların araçlar üzerinde bulundurulması zorunluluğu**
+**Belge ve plakaların araçlar üzerinde bulundurulması zorunluluğu:**
 
 ---
 
@@ -52,6 +52,8 @@ konusunda gerekli tedbirleri almak ve denetimini yapmakla yükümlüdür.
 ncı maddesinde sayılan görevliler tarafından yapılır. Bu madde kapsamında geri alınan sürücü
 belgelerinin iade edilebilmesi için bu Kanun kapsamında verilen idari para cezalarının
 tamamının tahsil edilmiş olması şarttır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

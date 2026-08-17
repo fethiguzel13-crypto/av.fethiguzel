@@ -22,6 +22,8 @@ veya menfi tespit kararının verildiği tarihten itibaren geçerlidir.
 (c) bendinde belirtilen yanlış ve eksikliğin ilgili teşebbüsün hilesi veya kastı ile
 gerçekleşmesi halinde karar hiç alınmamış sayılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

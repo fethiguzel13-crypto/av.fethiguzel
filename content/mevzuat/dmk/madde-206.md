@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**Çocuk için aile yardımı ödeneği verilmiyecek haller**
+**Çocuk için aile yardımı ödeneği verilmiyecek haller:**
 
 ---
 
@@ -20,6 +20,8 @@ raporuyla tespit edilenler için süresiz olarak ödeneğin verilmesine devam ol
 şekilde olursa olsun menfeat karşılığı çalışan çocuklar (Öğrenim yapmakta iken tatil
 devresinde çalışanlar hariç),
 4. Burs alan veya Devletçe okutulan çocuklar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

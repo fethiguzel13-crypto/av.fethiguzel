@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4322
 ---
 
-**Yürürlük**
+**Yürürlük:**
 
 ---
 
 Madde 26 – Bu Kanun yayımı tarihinde yürürlüğe girer.
+
+---
 
 ### Akademik Yorum ve Analiz
 

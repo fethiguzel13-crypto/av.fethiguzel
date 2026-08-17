@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**Bir suçun işlendiğini öğrenen Cumhuriyet savcısının görevi**
+**İKİNCİ BÖLÜM
+Soruşturma İşlemleri
+Bir suçun işlendiğini öğrenen Cumhuriyet savcısının görevi**
 
 ---
 
@@ -17,6 +19,8 @@ vermek üzere hemen işin gerçeğini araştırmaya başlar.
 (2) Cumhuriyet savcısı, maddî gerçeğin araştırılması ve adil bir yargılamanın
 yapılabilmesi için, emrindeki adlî kolluk görevlileri marifetiyle, şüphelinin lehine ve aleyhine olan
 delilleri toplayarak muhafaza altına almakla ve şüphelinin haklarını korumakla yükümlüdür.
+
+---
 
 ### Akademik Yorum ve Analiz
 

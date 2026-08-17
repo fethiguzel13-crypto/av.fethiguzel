@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4286
 ---
 
-**İlanın uygun olmaması**
+**İlanın uygun olmaması:**
 
 ---
 
@@ -18,7 +18,8 @@ Ancak, işde ivedilik ve ihalede Devletin yararı varsa, ihale ve sözleşme Mal
 uygun görüşü ve birinci derece ita amirinin onayı ile geçerli sayılabilir.
 İhalenin veya sözleşmenin bozulması halinde, müteahhit veya müşterinin fesih tarihine
 kadar yapmış olduğu gerçek masrafları ile, varsa, tahakkuk etmiş hakedişleri verilir.
-8 13/10/2022 tarihli ve 7418 sayılı Kanunun 26 ncı maddesiyle, bu bentte yer alan “başka gazeteler veya” ibaresinden sonra gelmek üzere “internet haber siteleri ya da” ibaresi eklenmiştir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

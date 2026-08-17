@@ -11,7 +11,7 @@ wordCount: 4269
 
 ---
 
-Madde 439 - İşçi, haklı sebep olmaksızın işe başlamadığı veya aniden işi bıraktığı
+MADDE 439- İşçi, haklı sebep olmaksızın işe başlamadığı veya aniden işi bıraktığı
 takdirde işveren, aylık ücretin dörtte birine eşit bir tazminat isteme hakkına sahiptir.
 İşverenin, ayrıca ek zararlarının giderilmesini isteme hakkı da vardır.
 İşveren zarara uğramamışsa veya uğradığı zarar işçinin aylık ücretinin dörtte birinden

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**22 Ocak 1962 tarihli ve 1 sayılı kanunun değiştirilmesi**
+**22 Ocak 1962 tarihli ve 1 sayılı kanunun değiştirilmesi:**
 
 ---
 
@@ -15,11 +15,7 @@ Madde 236 – (22/1/1962 - 1 sayılı Kanunun 1 inci maddesini değiştiren hük
 sözkonusu kanun 9/10/1984 - 3053 sayılı kanunun 6 ncı maddesiyle yürürlükten kaldırılmakla
 hükmü kalmamıştır.)
 EK MADDELER
-2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan
-“Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-287
-
-Ek Madde 1 – (29/12/1966 - 819 sayılı ek Kanunun 1 inci maddesi hükmü olup, ek
+Ek Madde 1 – (29/12/1966 - 819 sayılı ek Kanunun 1 inci maddesi hükmü olup, ek
 madde haline getirilmiştir; Mülga: 25/6/1974 - 1765/7 Geçici md.)
 Ek Madde 2 – (29/12/1966 - 819 sayılı ek Kanunun 2 nci maddesi hükmü olup, ek
 madde haline getirilmiştir.; Mülga: 13/2/2011 - 6111/117 md.)
@@ -33,7 +29,7 @@ Ek Madde 6 – (5/12/1968 - 1069/3 md. ile gelen Ek 1 inci md. hükmü olup madd
 numarası teselsül ettirilmiştir.; Mülga: 13/2/2011 - 6111/117 md.)
 Ek Madde 7 – (5/12/1968 - 1069/3 md. ile gelen Ek 2 nci md. hükmü olup madde
 numarası teselsül ettirilmiştir.; Mülga: 13/2/2011 - 6111/117 md.)
-Kurumlar arası geçici süreli görevlendirme:288
+Kurumlar arası geçici süreli görevlendirme:
 Ek Madde 8 – (31/7/1970 - 1327/74 md. ile gelen Ek 1 inci md. hükmü olup
 madde numarası teselsül ettirilmiştir.; Değişik: 13/2/2011 - 6111/115 md.)
 Memurlar, geçici görevlendirme yapmak isteyen kurumun talebi ve çalıştıkları
@@ -48,11 +44,7 @@ c) Geçici süreli olarak görevlendirilen memurlar, yurtdışında görevlendir
 görevlileri hariç olmak üzere, aylıkları ile diğer malî ve sosyal haklarını kurumlarından alır.
 Bu memurların kadroları ile ilişkileri, kendi sınıf ve derecelerindeki terfi ve emeklilik hakları
 devam eder.
-13/2/2011 tarihli ve 6111 sayılı Kanunun 115 inci maddesiyle bu madde başlığı “Geçici süreli
-görevlendirme:” iken, metne işlendiği şekilde değiştirilmiştir.
-288
-
-d) Geçici süreli görevlendirme süresi bir yılda altı ayı geçemez. Yurtdışında
+d) Geçici süreli görevlendirme süresi bir yılda altı ayı geçemez. Yurtdışında
 görevlendirilen güvenlik görevlileri için geçici görevlendirme süresi en çok iki yıldır; gerekli
 görülmesi hâlinde bu süre bir katına kadar uzatılabilir.
 e) Geçici süreli görevlendirmenin, memurların göreviyle ilgili olması şarttır.
@@ -63,14 +55,15 @@ görüşü alınarak diğer kamu kurum ve kuruluşlarında altı aya kadar geçi
 görevlendirilebilir.
 Geçici süreli görevlendirme şartları:
 Ek Madde 9 – (31/7/1970 - 1327/74 md. ile gelen Ek 2 nci md. hükmü olup madde
-numarası teselsül ettirilmiştir; Değişik: 15/5/1975 - 1897/1 md.; Mülga: 13/2/2011 6111/117 md.)
+numarası teselsül ettirilmiştir; Değişik: 15/5/1975 - 1897/1 md.; Mülga: 13/2/2011 -
+6111/117 md.)
 Ek Madde 10 – (31/7/1970 - 1327/74 md. ile gelen Ek 3 üncü md. hükmü olup
 madde numarası teselsül ettirilmiştir.) Bu kanun konusu ile ilgili hükümler buna ek olarak
 yapılacak kanunlarda yer alır.
 Ek Madde 11 – (31/7/1970 - 1327/74 md. ile gelen Ek 4 üncü md. hükmü olup
 madde numarası teselsül ettirilmiştir; Mülga: 23/12/1972 – KHK-2/5 md.)
 Ek Madde 12 – (31/7/1970 - 1327 sayılı Kanunun 92 nci maddesi hükmü olup, ek
-maddeye çevrilerek madde numarası teselsül ettirilmiştir.) Bu Kanunun289 ve diğer
+maddeye çevrilerek madde numarası teselsül ettirilmiştir.) Bu Kanununve diğer
 personel kanunlarının uygulanması için Maliye Bakanlığı ve Devlet Personel Başkanlığı bu
 kanunlar kapsamına giren kurumlarla Devlet bütçesinden finanse edilen bütün kurumlarda
 organizasyon ve metot araştırmaları, kadro analizleri ve diğer gerekli bütün incelemeleri
@@ -82,19 +75,15 @@ Devlet bütçe uzmanları ile Devlet personel uzmanları, kurumlarda, kadro ve �
 talepleri ile ilişkili her türlü incelemeleri yapmaya ve evrakı tetkik etmeye yetkilidir.
 Diğer hususlar ve çalışma metotlarının ayrıntıları görev ve çalışma yönetmelikleri ile
 düzenlenir.
-
-289
-
 “Bu Kanun” deyimi ile 31/7/1970 tarihli ve 1327 sayılı Kanun kastedilmektedir.
-
-Ek Madde 13 – (31/7/1970 - 1327 sayılı Kanunun 93 üncü maddesi hükmü olup, ek
+Ek Madde 13 – (31/7/1970 - 1327 sayılı Kanunun 93 üncü maddesi hükmü olup, ek
 maddeye çevrilerek madde numarası teselsül ettirilmiştir.; Mülga: 13/2/2011 - 6111/117
 md.)
 Ek Madde 14 – (15/5/1975 - 1897 sayılı Kanunun 3 üncü maddesi hükmü olup, ek
 maddeye çevrilerek madde numarası teselsül ettirilmiştir.) Bu kanunun uygulanması ile
 ilgili konularda kurumlar, bağlı veya ilgili oldukları Bakanlık eliyle Devlet Personel
 Başkanlığına bu dairenin bağlı bulunduğu Devlet Bakanlığı kanaliyle başvururlar. Bu
-başvurmalarla ilgili işlemlerin yürütülme usul ve esasları Cumhurbaşkanınca tespit edilir.290
+başvurmalarla ilgili işlemlerin yürütülme usul ve esasları Cumhurbaşkanınca tespit edilir.
 Ek Madde 15 – (15/5/1975 - 1897 sayılı Kanunun 4 üncü maddesi hükmü olup, ek
 maddeye çevrilerek madde numarası teselsül ettirilmiştir.) Bu kanunda geçen "Devlet
 Memuru" deyimi, belediyeler ve il özel idareleri ile bunların kurdukları birlikler memurlarını
@@ -112,23 +101,16 @@ Kıyafet mecburiyeti:
 Ek Madde 19 – (12/5/1982 - 2670/42 md. ile gelen Ek 1 inci md. hükmü olup
 madde numarası teselsül ettirilmiştir.) Devlet memurları, kanun, Cumhurbaşkanlığı
 kararnamesi ve yönetmeliklerin öngördüğü kılık ve kıyafet kurallarına uymak
-mecburiyetindedirler.291
+mecburiyetindedirler.
 İkamet mecburiyeti:
-
-2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan
-“Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-291
-2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan
-“tüzük” ibaresi “Cumhurbaşkanlığı kararnamesi” şeklinde değiştirilmiştir.
-290
-
-Ek Madde 20 – (12/5/1982 - 2670/42 md. ile gelen Ek 2 nci md. hükmü olup
+Ek Madde 20 – (12/5/1982 - 2670/42 md. ile gelen Ek 2 nci md. hükmü olup
 madde numarası teselsül ettirilmiştir.; Mülga: 13/2/2011 - 6111/117 md.)
 Bazı görevlere atamalar:
 Ek Madde 21 – (12/5/1982 - 2670/42 md. ile gelen ek 3 üncü md. hükmü olup
 madde numarası teselsül ettirilmiştir.; Mülga: 13/2/2011 - 6111/117 md.)
 Ek Madde 22 – (30/12/1982 - 2771 sayılı Kanunun 10 uncu maddesi hükmü olup,
-ek maddeye çevrilerek madde numarası teselsül ettirilmiştir.; Mülga: 31/5/2006 5510/106 md.)
+ek maddeye çevrilerek madde numarası teselsül ettirilmiştir.; Mülga: 31/5/2006 -
+5510/106 md.)
 Ek Madde 23 – (26/6/1984 - KHK-241/35 md. ile gelen madde hükmü olup,
 madde numarası teselsül ettirilmiştir.; Mülga: 12/4/1990 – KHK-420/15 md.)
 Ek Madde 24 – (26/6/1984 – KHK-241/36 md. ile gelen madde hükmü olup,
@@ -136,32 +118,24 @@ madde numarası teselsül ettirilmiştir.)
 Aylıklarını personel kanunlarına göre almakta olanlara müteakip ayın aylığına
 mahsuben Maliye ve Hazine Bakanlığınca belirlenecek esaslar dahilinde avans ödenebilir. Bu
 şekilde yapılacak avans ödemeleri, ait olduğu aylıkla birlikte kanuni kesintilere tabi tutulur ve
-ilgililerin ölümü halinde geri alınmaz.292
+ilgililerin ölümü halinde geri alınmaz.
 Ek Madde 25 – (26/6/1984 – KHK-241/38 md. ile gelen madde hükmü olup,
 madde numarası teselsül ettirilmiştir.; Mülga: 13/2/2011 - 6111/117 md.)
 Ek Madde 26 – (26/6/1984 – KHK-241/39 md. ile gelen madde hükmü olup,
 madde numarası teselsül ettirilmiştir; Değişik: 23/1/1987 – KHK-269/1 md.)
 a) (Değişik: 4/9/1990 – KHK-418/9 md.; iptal Anayasa Mahkemesinin 5/2/1992
-tarih ve E. 1990/22, K. 1992/6 sayılı Kararı ile;Yeniden düzenleme: 18/5/1994 – KHK527/10 md.) Bu Kanuna ekli IV sayılı cetvelde unvanları yazılı görevlerde bulunanlara
+tarih ve E. 1990/22, K. 1992/6 sayılı Kararı ile;Yeniden düzenleme: 18/5/1994 – KHK-
+527/10 md.) Bu Kanuna ekli IV sayılı cetvelde unvanları yazılı görevlerde bulunanlara
 hizalarında gösterilen gösterge rakamlarının memur aylıklarına uygulanan katsayı ile çarpımı
 sonucu bulunan miktarda makam tazminatı ödenir. Makam tazminatı damga vergisi hariç
 herhangi bir vergiye tabi tutulmaz ve ödemelerde aylıklara ilişkin hükümler uygulanır. Bu
 tazminattan yararlananlara ayrıca yüksek hakimlik tazminatı ödenmez.
-b) (Değişik: 18/5/1987 – KHK-281/4 md.) Bu görevlerde (...)293 makam tazminatını
+b) (Değişik: 18/5/1987 – KHK-281/4 md.) Bu görevlerde (...)makam tazminatını
 almaya müstehak oldukları tarihten itibaren toplam iki yıl süre ile çalıştıktan sonra emekliye
-
-2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan
-“Devlet Bakanlığı ve Başbakan Yardımcılığı ile Maliye ve Gümrük Bakanlığınca müştereken” ibaresi “Maliye
-ve Hazine Bakanlığınca” şeklinde değiştirilmiştir.
-293
-1/7/1992 tarih ve 3828 sayılı Kanunun 1 inci maddesi ile bu fıkrada yer alan "Valiler için İl Valiliğinde"
-ibaresi kaldırılmıştır.
-292
-
-ayrılanlara yukarıdaki fıkraya göre bulunacak miktarın tamamı (926 sayılı Kanuna tabi
+ayrılanlara yukarıdaki fıkraya göre bulunacak miktarın tamamı (926 sayılı Kanuna tabi
 profesörlere yarısı) hayatta bulundukları sürece her ay T.C. Emekli Sandığınca ödenir. T.C.
 Emekli Sandığı bu ödemeleri üç aylık devreler halinde faturası karşılığında Hazine'den tahsil
-eder.294
+eder.
 926 sayılı Kanuna tabi bulunan profesörlere bu maddenin (a) ve (b) fıkralarına göre
 ödenecek tazminatın, rütbelerinin karşılığı makam tazminatından az olması halinde,
 rütbelerinin karşılığı makam tazminatı ödenir.
@@ -177,29 +151,18 @@ numarası teselsül ettirilmiştir.)
 Milli İstihbarat Teşkilatında, 657 sayılı Devlet Memurları Kanunu ile diğer kanunların
 sözleşmeli personel çalıştırılmasına dair hükümleriyle bağlı olmaksızın; Cumhurbaşkanı
 tarafından belirlenecek uzmanlığı gerektiren alanlarda, Cumhurbaşkanı onayı ile kadro
-karşılık gösterilmek kaydıyla sözleşmeli personel çalıştırılabilir.295
+karşılık gösterilmek kaydıyla sözleşmeli personel çalıştırılabilir.
 68 yaşını geçmemek kaydıyla Müsteşar sözleşmeli olarak çalıştırılabilir ve sosyal
 güvenlik kurumlarından almakta oldukları aylıkları kesilmez.
 Bu suretle çalıştırılacakların sözleşme usül ve esasları, ücret miktarı ve her çeşit
-ödemeleri ile diğer hakları Cumhurbaşkanı tarafından tesbit edilir.296
+ödemeleri ile diğer hakları Cumhurbaşkanı tarafından tesbit edilir.
 Bu şekilde çalıştırılacak sözleşmeli personel, aksine talepler olmadığı takdirde T.C.
 Emekli Sandığı ile ilgilendirilir; bunlar hakkında 1/11/1983 tarihli ve 2937 sayılı Kanun
 hükümleri uygulanır.
 Ek Madde 30 – (30/12/1987 – KHK-306/4 md. ile gelen madde hükmü olup,
 madde numarası teselsül ettirilmiştir.; Mülga: 13/2/2011 - 6111/117 md.)
-
 Bu konuda 23/12/1988 tarih ve 351 sayılı Kanun Hükmünde Kararnamenin geçici maddesine bakınız.
-15/8/2017 tarihli ve 694 sayılı Kanun Hükmünde Kararnamenin 30 uncu maddesiyle, bu fıkrada yer alan
-“Başbakan” ibareleri “Cumhurbaşkanı” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078
-sayılı Kanunun 30 uncu maddesiyle aynen kabul edilerek kanunlaşmıştır.
-296
-15/8/2017 tarihli ve 694 sayılı KHK’nin 30 uncu maddesiyle, bu fıkrada yer alan “Başbakan” ibaresi
-“Cumhurbaşkanı” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun 30 uncu
-maddesiyle aynen kabul edilerek kanunlaşmıştır.
-294
-295
-
-Ek Madde 31 – (Ek:17/5/1990 - 3649/1 md.)
+Ek Madde 31 – (Ek:17/5/1990 - 3649/1 md.)
 Bu Kanun kapsamına giren ve görevleri sebebiyle haklarında kamu davası açılmış
 olup da beraat edenlerin;
 a) Vekalet verdikleri avukata, Avukatlık Asgari Ücret Tarifesine göre ödedikleri ücret,
@@ -211,9 +174,9 @@ KHK-527/11 md.)
 Eğitim ve öğretim Hizmetleri Sınıfına dahil öğretmen unvanlı kadrolarda görevli olup;
 fiilen öğretmenlik yapanlara (ilköğretim ve okul müdürleri ile yardımcıları, cezaevi
 okullarında çalışan öğretmenler, yönetici, eğitim uzmanı ve eğitim uzman yardımcıları dahil
-(…)297 her öğretim yılında bir defaya mahsus olmak üzere ve öğretim yılının başladığı ay
+(…)her öğretim yılında bir defaya mahsus olmak üzere ve öğretim yılının başladığı ay
 içinde Milli Eğitim Bakanı tarafından belirlenecek tarihte Cumhurbaşkanınca belirlenecek
-miktarda, öğretim yılına hazırlık ödeneği ödenir.298
+miktarda, öğretim yılına hazırlık ödeneği ödenir.
 Bu ödenek damga vergisi hariç diğer vergi ve kesintilere tabi tutulmaz.
 Ek Madde 33 – (Ek: 23/2/1995 – KHK-547/10 md.; Değişik: 21/1/2010 - 5947/10
 md.)
@@ -227,41 +190,21 @@ tutarda nöbet ücreti ödenir. (Ek cümle: 2/1/2014 - 6514/10 md.) Bu ücret yo
 servis ve 112 acil sağlık hizmetlerinde tutulan söz konusu nöbetler için yüzde elli oranında
 artırımlı ödenir. (İptal üçüncü cümle: Anayasa Mahkemesinin 26/11/2025 tarihli ve E.:
 2025/89; K.: 2025/243 sayılı Kararı ile) Bu ücret damga vergisi hariç herhangi bir vergi ve
-kesintiye tabi tutulmaz.299
+kesintiye tabi tutulmaz.
 (Değişik tablo: 27/3/2015-6639/10 md.)
-4/6/2010 tarihli ve 5984 sayılı Kanunun 4 üncü maddesiyle bu maddenin birinci fıkrasında yer alan
-“İlköğretim Müfettişleri hariç” ibaresi madde metninden çıkarılmıştır.
-298
-2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan
-“Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-299
-10/9/2014 tarihli ve 6552 sayılı Kanunun 69 uncu maddesiyle, bu fıkranın birinci cümlesine “ağız ve diş
-sağlığı merkezleri” ibaresinden sonra gelmek üzere “, aile sağlığı merkezleri, toplum sağlığı merkezleri”
-ibaresi, üçüncü cümlesine “ayda” ibaresinden sonra gelmek üzere “aile sağlığı ve toplum sağlığı merkezlerinde
-60 saatten, diğer yerlerde ve hiçbir şekilde” ibaresi eklenmiştir.
-297
-
-a) Eğitim görevlisi, başasistan, uzman tabip
-b) Tabip, tıpta uzmanlık mevzuatında belirtilen dallarda,
-bu mevzuat hükümlerine göre uzmanlık belgesi alan tabip
-dışı personel, aynı dallarda doktora belgesi alanlar
-c) Diş tabibi ve eczacılar
-ç) Mesleki yükseköğrenim görmüş sağlık personeli
-d) Lise dengi mesleki öğrenim görmüş sağlık personeli
-e) Diğer personel
-
 Gösterge
-150
-135
-120
-90
-75
-55
-
+a) Eğitim görevlisi, başasistan, uzman tabip 150
+b) Tabip, tıpta uzmanlık mevzuatında belirtilen dallarda,
+bu mevzuat hükümlerine göre uzmanlık belgesi alan tabip135
+dışı personel, aynı dallarda doktora belgesi alanlar
+c) Diş tabibi ve eczacılar 120
+ç) Mesleki yükseköğrenim görmüş sağlık personeli 90
+d) Lise dengi mesleki öğrenim görmüş sağlık personeli 75
+e) Diğer personel 55
 Bu madde hükmü, üniversitelerin yataklı tedavi kurumlarında çalışan ve 4/11/1981
 tarihli ve 2547 sayılı Yükseköğretim Kanununun 50 nci maddesinin (e) bendi kapsamında
 bulunanlar ile yataklı tedavi kurumlarında çalışan ve 11/4/1928 tarihli ve 1219 sayılı Kanunun
-ek 14 üncü maddesinin dördüncü fıkrası kapsamında bulunanlar hakkında da uygulanır.300
+ek 14 üncü maddesinin dördüncü fıkrası kapsamında bulunanlar hakkında da uygulanır.
 İcap nöbeti tutan ve bu nöbet karşılığında kurumunca izin kullanmasına müsaade
 edilmeyen memurlar ile sözleşmeli personele, izin suretiyle karşılanamayan her bir icap
 nöbeti saati için, icap nöbeti süresi kesintisiz 12 saatten az olmamak üzere, yukarıda nöbet
@@ -276,23 +219,13 @@ yetiştirilmek, eğitilmek, bilgilerini artırmak, staj yapmak veya benzeri bir 
 süreli görevlendirilmek suretiyle, üç ay veya daha fazla süre ile yurtdışına gönderilen kamu
 personeli yurtdışında bulundukları sürenin iki katı kadar mecburi hizmetle yükümlüdürler. Bu
 şekilde yurt dışına gönderilecek personelden, örneği Maliye Bakanlığı tarafından hazırlanmış
-"Yüklenme Senedi ile Muteber İmzalı Müteselsil Kefalet Senedi" alınır.301
+"Yüklenme Senedi ile Muteber İmzalı Müteselsil Kefalet Senedi" alınır.
 Anılan personelin mecburi hizmet yükümlülüğünü yerine getirmeden veya
 tamamlamadan görevinden ayrılması, müstafi sayılması ya da bir ceza ile görevine son
 verilmesi halinde, kendileri için kurumlarınca fiilen döviz olarak yapılmış olan her türlü
 masraflar aynı döviz cins ve miktarı üzerinden borçlandırılır. Döviz borcu toplamından
 mecburi hizmetin tamamlanan kısmı için hesaplanan miktar indirilir. Hesaplanan borç
-
-10/9/2014 tarihli ve 6552 sayılı Kanunun 69 uncu maddesiyle ek 33 üncü maddenin ikinci fıkrasına “(e)
-bendi kapsamında bulunanlar” ibaresinden sonra gelmek üzere “ile yataklı tedavi kurumlarında çalışan ve
-11/4/1928 tarihli ve 1219 sayılı Kanunun ek 14 üncü maddesinin dördüncü fıkrası kapsamında bulunanlar”
-ibaresi eklenmiştir.
-301
-2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan “İlgili
-kanunlarına” ibaresinden sonra gelmek üzere “veya Cumhurbaşkanlığı kararnamelerine” ibaresi eklenmiştir.
-300
-
-miktarı, ilgilinin durumu ve ödettirilecek meblağ dikkate alınarak azami beş yıla kadar
+miktarı, ilgilinin durumu ve ödettirilecek meblağ dikkate alınarak azami beş yıla kadar
 taksitlendirilebilir. Borç miktarı ilgili tarafından Türk Lirası ile ödenir ve yapılan ödeme
 miktarı tahsil tarihindeki T.C. Merkez Bankasınca tespit ve ilan edilen efektif satış kuru
 üzerinden dövize çevrilerek yukarıda belirlenen şekilde hesaplanan döviz borcundan mahsup
@@ -320,33 +253,10 @@ gerek kalmaksızın, mecburi hizmet yükümlülüğü ve tazminat borçları (1.
 önce mecburi hizmet yükümlülüğünü ihlal edenlerin borçları dahil) ortadan kalkar.
 Yurtdışında okutulanlar ile Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı,
 Sahil Güvenlik Komutanlığı ve Emniyet Genel Müdürlüğü tarafından okutulanlar hakkında
-bu madde hükmü uygulanmaz.302
-Bakanlıklararası
-görevlendirme303
-
-Ortak
-
-Kültür
-
-Komisyonu
-
-tarafından
-
-yurt
-
-dışında
-
-6/12/2019 tarihli ve 7196 sayılı Kanunun 16 ncı maddesiyle, bu fıkraya “Türk Silahlı Kuvvetleri” ibaresinden
-sonra gelmek üzere “, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı” ibaresi eklenmiştir.
-303
-2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu maddenin birinci
-fıkrasında yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde ve üçüncü fıkrasında yer alan
-“Dışişleri, Milli Eğitim ve Kültür Bakanlıkları ile Diyanet İşleri Başkanlığı ve Yurtdışı Türkler ve Akraba
-Topluluklar Başkanlığının görüşleri ve Maliye Bakanlığının teklifi üzerine Bakanlar Kurulunca” ibaresi
-“Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-302
-
-Ek Madde 36 – (Ek : 4/7/2001 – KHK-631/8 md.)
+bu madde hükmü uygulanmaz.
+Bakanlıklararası Ortak Kültür Komisyonu tarafından yurt dışında
+görevlendirme
+Ek Madde 36 – (Ek : 4/7/2001 – KHK-631/8 md.)
 Türk kültürünün yurt dışında tanıtılması, yayılması ve korunması, yurt dışındaki Türk
 vatandaşları ile soydaşların kültürel bağlarının korunması, güçlendirilmesi ve dini konularda
 aydınlatılması ile Türk dilinin öğretilmesi amacıyla, bu Kanun ile 2914 sayılı Yükseköğretim
@@ -356,14 +266,14 @@ bunlara ayrıca, görevlendirildikleri ülkede sürekli görevle bulunan ve 9 un
 kademesinden aylık alan bekar meslek memuruna ödenmekte olan yurt dışı aylığının %60’ını
 geçmemek üzere hiçbir vergiye tâbi tutulmaksızın Cumhurbaşkanı tarafından tespit edilecek
 miktarda ödeme yapılır. Bu şekilde yurt dışında görevlendirilen personele ayni veya nakdi
-olarak yapılan diğer ödemeler bu ödemeden mahsup edilir.304
+olarak yapılan diğer ödemeler bu ödemeden mahsup edilir.
 Kapsama dahil personel, yurt dışı görevleri karşılığında diğer kurumlar tarafından
 ödeme yapılması suretiyle Bakanlıklararası Ortak Kültür Komisyonu tarafından bu maddeye
 göre görevlendirilebilir.
 Bu madde uyarınca yurt dışında görevlendirilecek personelin unvanı, sayısı, nitelikleri,
 seçim esas ve usulleri, görev yerleri ve süreleri, izinleri, yurt dışındaki görevlerinin sona
 erdirilmesi ile bu maddenin uygulanmasına ilişkin diğer esas ve usuller, Cumhurbaşkanınca
-belirlenir.305
+belirlenir.
 Ek Madde 37 – (Ek : 4/7/2001 – KHK-631/8 md.)
 36 ncı maddenin “Ortak Hükümler” bölümünün (B) bendinin (3) numaralı alt
 bendinde yer alan hükümlerin, yükselinebilecek derece ve kademeler hakkındaki
@@ -379,15 +289,7 @@ amacıyla yurt dışına gönderilecek kamu görevlilerinin öğrenim konuları,
 birimlerin görev alanları ile doğrudan ilgili olmak zorundadır.
 Bu şekilde gönderileceklerin sayıları, kurum ve kuruluş bütçelerine bu amaçla konulan
 ödenek tutarını aşmayacak şekilde tespit edilir.
-25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “özürlü” ibaresi “engelli”
-şeklinde değiştirilmiştir.
-305
-24/10/2011 tarihli ve 661 sayılı KHK’nın 102 nci maddesiyle bu fıkrada yer alan “Diyanet İşleri
-Başkanlığının” ibaresi “Diyanet İşleri Başkanlığı ve Yurtdışı Türkler ve Akraba Topluluklar Başkanlığının”
-şeklinde değiştirilmiştir.
-304
-
-Ek Madde 39- (Ek: 1/7/2005 - 5378/21 md.)306
+Ek Madde 39- (Ek: 1/7/2005 - 5378/21 md.)
 Devlet memurlarının, hayatını başkasının yardım veya bakımı olmadan devam
 ettiremeyecek derecede engelli olduğu sağlık kurulu raporu ile tespit edilen eşi, çocukları ile
 kardeşlerinin, memuriyet mahalli dışında resmî veya özel eğitim ve öğretim kuruluşlarında
@@ -415,19 +317,10 @@ Yükseköğretim Kurulu Başkanlığında, Yükseköğretim Kalite Kurulunda, Ge
 Başkanlığı ve kuvvet komutanlıklarının merkez karargâhlarında uzman ve uzman yardımcısı
 istihdam edilebilir.
 Uzman yardımcılığına atanabilmek için; 48 inci maddede sayılan şartlara ek olarak,
-yapılacak yarışma sınavında başarılı olma ve (…)307 en az dört yıllık lisans eğitimi veren
+yapılacak yarışma sınavında başarılı olma ve (…)en az dört yıllık lisans eğitimi veren
 hukuk, siyasal bilgiler, iktisat, işletme, iktisadi ve idari bilimler fakültelerinden veya bu
 bakanlıklar ve kurumlarca yürütülen kurumsal hizmet gerekleri çerçevesinde en az dört yıllık
-25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “özürlü” ibaresi “engelli”
-şeklinde değiştirilmiştir.
-307
-12/7/2013 tarihli ve 6495 sayılı Kanunun 8 inci maddesiyle, bu fıkrada yer alan “Adalet Uzman Yardımcılığı,
-Millî Savunma Uzman Yardımcılığı, İçişleri Uzman Yardımcılığı, Dışişleri Uzman Yardımcılığı, Yükseköğretim
-Kurulu Uzman Yardımcılığı ve Bakanlar Kurulunca belirlenen bakanlık bağlı kuruluşlarının uzman yardımcılığı
-için” ibaresi madde metninden çıkarılmıştır.
-306
-
-lisans eğitimi veren ve yönetmelikle belirlenen yükseköğretim kurumlarından ya da bunlara
+lisans eğitimi veren ve yönetmelikle belirlenen yükseköğretim kurumlarından ya da bunlara
 denkliği Yükseköğretim Kurulu tarafından kabul edilen yurtiçindeki veya yurtdışındaki
 öğretim kurumlarından mezun olma şartı aranır.
 Uzman yardımcıları mesleğe özel yarışma sınavı ile alınır. Uzman yardımcılığı giriş
@@ -466,8 +359,7 @@ girmeye hak kazanırlar. Süresi içinde tezlerini sunmayan veya tezleri kabul e
 tezlerini sunmaları veya yeni bir tez hazırlamaları için altı ayı aşmamak üzere ilave süre
 verilir. (Ek cümle:25/12/2024-7537/5 md.) Yeterlik sınavına girmeye hak kazananların
 sınavı en geç altı ay içinde yapılır. Yeterlik sınavında başarılı olanların uzman kadrolarına
-
-atanabilmeleri, Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavından asgari (C),
+atanabilmeleri, Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavından asgari (C),
 Dışişleri Uzmanlığı için asgari (B) düzeyinde veya dil yeterliği bakımından bunlara denkliği
 kabul edilen ve uluslararası geçerliliği bulunan başka bir belgeye yeterlik sınavından itibaren
 en geç iki yıl içinde sahip olma şartına bağlıdır. Sınavda başarılı olamayanlar veya sınava
@@ -479,14 +371,15 @@ getirmeyenler, uzman yardımcısı unvanını kaybederler ve kurumlarında durum
 memur unvanlı kadrolara atanırlar.
 Uzman ve uzman yardımcılarının mesleğe alınmaları, yetiştirilmeleri, yarışma sınavı,
 tez hazırlama ve yeterlik sınavı ile uzman ve uzman yardımcılarıyla ilgili diğer hususlar,
-(…)308 kurumlarınca hazırlanacak yönetmelikle düzenlenir.
+(…)kurumlarınca hazırlanacak yönetmelikle düzenlenir.
 İkinci, üçüncü, dördüncü, beşinci ve altıncı fıkralarda yer alan hükümler, 36 ncı
 maddenin “Ortak Hükümler” bölümünün (A) fıkrasının (11) numaralı bendinde belirtilen
 uzman ve uzman yardımcılarından merkez teşkilatına ait kadrolarda bulunanlar, Türkiye
 Büyük Millet Meclisi Başkanlığı İdari Teşkilatı yasama uzman ve yasama uzman yardımcıları
 ile 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun eki (III) sayılı Cetvelde yer alan
 düzenleyici ve denetleyici kurumlar ile Tasarruf Mevduatı Sigorta Fonunun uzman ve uzman
-yardımcıları hakkında da uygulanır.309310311
+310311312
+yardımcıları hakkında da uygulanır.
 (Değişik fıkra:8/5/2025-7547/2 md.) Bu madde kapsamında istihdam edilen uzman
 ve uzman yardımcıları bakanlıkların merkez teşkilatı kadrolarında bulunan uzman ve uzman
 yardımcıları için mevzuatında öngörülmüş olan mali ve sosyal hak ve yardımlar ile 36 ncı
@@ -498,22 +391,7 @@ Cumhurbaşkanlığı kararnamelerinde öngörülmesi kaydıyla diğer görevleri
 yönetmelikle belirlenen usul ve esaslar çerçevesinde araştırma, analiz, teftiş, denetim,
 inceleme ve soruşturma yaptırılabilir. Denetime tabi gerçek ve tüzel kişiler, denetim için
 gereken gizli dahi olsa bütün belge, defter ve bilgileri talep edildiği takdirde ibraz etmek, para
-
-8/5/2025 tarihli ve 7547 sayılı Kanunun 2 nci maddesiyle bu fıkrada yer alan “Devlet Personel
-Başkanlığının görüşü alınarak” ibaresi madde metninden çıkarılmıştır.
-309
-1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle, bu fıkrada yer alan “Türkiye Büyük
-Millet Meclisi uzman ve uzman yardımcıları” ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı İdari
-Teşkilatı yasama uzman ve yasama uzman yardımcıları” şeklinde değiştirilmiştir.
-310
-12/7/2013 tarihli ve 6495 sayılı Kanunun 8 inci maddesiyle, bu fıkrada yer alan “Üçüncü” ibaresi
-“İkinci, üçüncü” şeklinde değiştirilmiştir.
-311
-8/5/2025 tarihli ve 7547 sayılı Kanunun 2 nci maddesiyle bu fıkrada yer alan “kurumların” ibaresi
-“kurumlar ile Tasarruf Mevduatı Sigorta Fonunun” şeklinde değiştirilmiştir.
-308
-
-ve para hükmündeki evrakı ve ayniyatı ilk talep halinde denetimle görevli uzman ve uzman
+ve para hükmündeki evrakı ve ayniyatı ilk talep halinde denetimle görevli uzman ve uzman
 yardımcılarına göstermek, sayılmasına ve incelemesine yardımcı olmak zorundadır.
 Araştırma, analiz, teftiş, denetim, inceleme ve soruşturma ile görevli uzman ve uzman
 yardımcıları, görevleri sırasında tüm resmi daire, kurum, kuruluş ve kamuya yararlı
@@ -550,12 +428,11 @@ dikkate alınır. Bu kapsamdaki memurun çalışma saatleri ilgili kurum tarafı
 çocuğu eşiyle birlikte veya münferit olarak evlat edinen memurlar ile memur olmayan eşin
 münferit olarak evlat edinmesi hâlinde memur olan eşleri de istekleri üzerine çocuğun fiilen
 teslim edildiği tarihten veya 104 üncü maddenin (A) fıkrası uyarınca sekiz haftalık izin
-
-verilmesi ya da aynı maddenin (F) fıkrası uyarınca izin kullanılması hâlinde bu izinlerin
+verilmesi ya da aynı maddenin (F) fıkrası uyarınca izin kullanılması hâlinde bu izinlerin
 bitiminden itibaren bu fıkra hükümlerinden yararlanır.
 Yarım zamanlı çalışma hakkının kullanımına ilişkin usul ve esaslar ile bu haktan
 yararlanamayacak memurları; hizmet sınıfı, kadro unvanı, kurum veya teşkilat bazında
-birlikte veya ayrı ayrı belirlemeye Cumhurbaşkanı yetkilidir.312
+birlikte veya ayrı ayrı belirlemeye Cumhurbaşkanı yetkilidir.
 Taşra teşkilatında uzman istihdamı
 Ek Madde 44 – (Ek: 2/7/2018 - KHK-703/175 md.) (Başlığı ile Birlikte
 Değişik:8/5/2025-7547/3 md.)
@@ -585,11 +462,7 @@ esaslar çerçevesinde yararlanırlar.
 KISIM - IX
 Geçici Hükümler
 Sınıf hakkındaki tekliflerin iki ay zarfında bildirilmesi:
-2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan
-“Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-312
-
-Geçici Madde 1 – (Mülga: 31/7/1970 - 1327/76 md.)
+Geçici Madde 1 – (Mülga: 31/7/1970 - 1327/76 md.)
 Düzenlenecek kadroların Başbakanlık Devlet Personel Başkanlığı ile Maliye
 Bakanlığına bildirilmesi:
 Geçici Madde 2 – (Mülga: 31/7/1970 - 1327/76 md.)
@@ -616,8 +489,7 @@ geçmiş hizmetlerinin değerlendirilmesi:
 Geçici Madde 12 – (Mülga: 13/2/2011 - 6111/117 md.)
 Sağlık hizmetlerinin sosyalleştirilmesinde çalıştırılan personele uygulanacak mali
 hükümler:
-
-Geçici Madde 13 – (Mülga: 13/2/2011 - 6111/117 md.)
+Geçici Madde 13 – (Mülga: 13/2/2011 - 6111/117 md.)
 İntibak işlerinde uyulacak esas ve ölçüler:
 Geçici Madde 14 – (Mülga: 31/7/1970 - 1327/85 md.)
 Eski hükümlerin kimlere uygulanacağı:
@@ -642,8 +514,7 @@ Geçici Madde 24 – (Mülga: 23/12/1972 – KHK-2/5 md.)
 Geçici Madde 25 – (Ek: 19/3/1969 - 1136/196; Mülga: 26/2/1975 - 1238/6 md.)
 Geçici Madde 26 – (12/5/1982 - 2670/43 md. ile gelen Geçici 1 inci md. hükmü
 olup madde numarası teselsül ettirilmiştir.; Mülga: 13/2/2011 - 6111/117 md.)
-
-Geçici Madde 27 – (12/5/1982 - 2670/43 md. ile gelen Geçici 2 nci md. hükmü olup
+Geçici Madde 27 – (12/5/1982 - 2670/43 md. ile gelen Geçici 2 nci md. hükmü olup
 madde numarası teselsül ettirilmiştir.; Mülga: 13/2/2011 - 6111/117 md.)
 Geçici Madde 28 – (12/5/1982 - 2670/43 md. ile gelen Geçici 3 üncü md. hükmü
 olup madde numarası teselsül ettirilmiştir.; Mülga: 13/2/2011 - 6111/117 md.)
@@ -653,7 +524,7 @@ Geçici Madde 30 – (12/5/1982 - 2670/43 md. ile gelen Geçici 5 inci md. hükm
 olup madde numarası teselsül ettirilmiştir.; Mülga: 13/2/2011 - 6111/117 md.)
 Geçici Madde 31 – (16/6/1988 – KHK-331/8 md. ile gelen geçici madde hükmü
 olup madde numarası teselsül ettirilmiştir.; Mülga: 13/2/2011 - 6111/117 md.)
-Geçici Madde 32313 – (Ek:12/5/1989 – KHK-368/3 md.; Mülga: 13/2/2011-6111/117
+Geçici Madde 32– (Ek:12/5/1989 – KHK-368/3 md.; Mülga: 13/2/2011-6111/117
 md.)
 Geçici Madde 33 – (Ek : 4/7/2001 – KHK-631/9 md.; Mülga: 13/2/2011-6111/117
 md.)
@@ -672,12 +543,8 @@ senedi hükümleri dikkate alınmaksızın ve ilgililere ödeme yapma sonucunu d
 kendilerine döviz olarak yapılmış olan her türlü masraflar için;
 a) Bunlardan 657 sayılı Devlet Memurları Kanununun ek 34 üncü maddesinin
 yürürlüğe girdiği 5/8/1996 tarihinden sonra yüklenme senedi ile muteber imzalı müteselsil
-
-313
-
 4/7/2001 tarih ve 631 sayılı Kanun Hükmünde Kararname ile bu maddenin numarası tesellsül ettirilmiştir.
-
-kefalet senedi alınanlar hakkında, anılan maddenin ikinci fıkrası hükümlerine göre bu
+kefalet senedi alınanlar hakkında, anılan maddenin ikinci fıkrası hükümlerine göre bu
 Kanunun yayımı tarihinden önceki süreler için faiz uygulanmaksızın hesaplama yapılır.
 b) 5/8/1996 tarihinden önce yüklenme senedi ile muteber imzalı müteselsil kefalet
 senedi alınanlar hakkında, ilgili adına fiilen ödemenin yapıldığı tarihteki T.C. Merkez
@@ -715,8 +582,7 @@ kadrolarında hukuk müşaviri ve avukat olarak görev yapanlara, mahkemelerce t
 ilgili idarelerin hesaplarında avukatlık vekâlet ücreti olarak yer alan tutarlardan karşılanmak
 üzere 2003, 2004, 2005 ve 2006 yıllarına ilişkin olarak, bu yıllarda avukatlık vekâlet
 ücretinden yararlanmamış olmaları kaydıyla 146 ncı maddede belirtilen limit çerçevesinde
-
-2/2/1929 tarihli ve 1389 sayılı Devlet Davalarını İntaç Eden Avukat ve Saireye Verilecek
+2/2/1929 tarihli ve 1389 sayılı Devlet Davalarını İntaç Eden Avukat ve Saireye Verilecek
 Ücreti Vekalet Hakkında Kanun hükümleri kıyas yolu ile uygulanmak suretiyle avukatlık
 vekâlet ücreti ödenir.
 Geçiş hükümleri:
@@ -753,8 +619,7 @@ olarak uygulanır.
 D) 657 sayılı Kanunun bu maddenin yürürlük tarihi itibarıyla değiştirilen hükümleri
 gereğince, ilgililere geriye dönük olarak herhangi bir şekilde malî ve sosyal hak sağlanamaz
 ve hiçbir şekilde ödeme yapılmaz.
-
-Geçici Madde 37 – (Ek: 2/6/2011 – KHK-632/1 md.)
+Geçici Madde 37 – (Ek: 2/6/2011 – KHK-632/1 md.)
 Kamu kurum ve kuruluşlarının merkez ve taşra teşkilatı ile bunlara bağlı döner
 sermayeli kuruluşlarda, ayın veya haftanın bazı günleri ya da günün belirli saatleri gibi kısmi
 zamanlı çalışanlar ile yükseköğretim kurumlarının araştırma-geliştirme projelerinde proje
@@ -792,8 +657,7 @@ mahsuplaşma yapılmaz.
 Bu madde kapsamında memur kadrolarına atananlara iş sonu tazminatı ödenmez. Bu
 personelin önceden iş sonu tazminatı ödenmiş süreleri hariç, iş sonu tazminatına esas olan
 toplam hizmet süreleri, 8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı
-
-Kanunu uyarınca ödenecek emekli ikramiyesine esas toplam hizmet süresinin hesabında
+Kanunu uyarınca ödenecek emekli ikramiyesine esas toplam hizmet süresinin hesabında
 dikkate alınır.
 Bu madde kapsamında sözleşmeli personelin atanacağı memur kadroları, 190 sayılı
 Kanun Hükmünde Kararnameye ekli cetvellerde yer alan sınıf, unvan ve derecelerine uygun
@@ -818,7 +682,7 @@ dokuzuncu dereceli üçbin adet uzman yardımcısı kadrosu ihdas edilmiştir. B
 derece ve unvan değişikliği yapmak suretiyle anılan bakanlıklar ve kurumlara tahsis etmeye,
 Cumhurbaşkanı yetkilidir. Bu fıkraya göre tahsis edilen kadrolar, 190 sayılı Kanun
 Hükmünde Kararnameye ekli Cetvellerin anılan bakanlıklar ile kurumlara ait ilgili bölümüne
-eklenmiş sayılır.314
+eklenmiş sayılır.
 190 sayılı Kanun Hükmünde Kararnamenin eki Cetvellerde yer alan kurumların 152
 nci maddenin “II- Tazminatlar” kısmının “(A) Özel Hizmet Tazminatı” bölümünün (ğ)
 bendinde yer alan uzman ve uzman yardımcısı kadrolarından teknik hizmetler sınıfında
@@ -826,13 +690,7 @@ bulunanların hizmet sınıfı, genel idare hizmetleri olarak değiştirilmişti
 bulunanlara, bu maddenin yürürlüğe girdiği tarihten önce uygulanmakta olan özel hizmet
 tazminatı oranının uygulanması sonucunda bulunacak tutar ile hizmet sınıfının değişmesi
 sonucu belirlenen özel hizmet tazminatı oranının uygulanması sonucunda bulunacak tutar
-
-2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan
-“Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde ve “Devlet Personel Başkanlığı ve Maliye
-Bakanlığının teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-314
-
-arasındaki fark, farklılık giderilinceye kadar herhangi bir vergi ve kesintiye tabi olmaksızın
+arasındaki fark, farklılık giderilinceye kadar herhangi bir vergi ve kesintiye tabi olmaksızın
 tazminat olarak ödenir.
 Bu maddenin yürürlüğe girdiği tarihte 36 ncı maddenin “Ortak Hükümler” bölümünün
 (A) fıkrasının (11) numaralı bendinde belirtilen uzman yardımcıları, Türkiye Büyük Millet
@@ -843,7 +701,7 @@ ilgili uzmanlık kadrolarına atanmaları, bu maddenin yürürlüğe girdiği ta
 oldukları mevzuat hükümlerine göre sonuçlandırılır. (Ek cümle: 12/7/2013 - 6495/8 md.)
 Ancak, söz konusu mevzuatta yabancı dil yeterliğine ilişkin şartların ek 41 inci maddede
 öngörülenlerden daha ağır olması hâlinde, yabancı dil yeterliğine ilişkin ek 41 inci madde
-hükümleri uygulanır.315
+hükümleri uygulanır.
 Geçici Madde 40- (Ek: 21/2/2013 - 6428/19 md.)
 Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfına dâhil personelden bu
 maddenin yürürlüğe girdiği tarihten önce haklarında 68 inci maddenin (B) bendi hükmü
@@ -866,13 +724,7 @@ Genel Sekreterliği Kanununun 17 nci maddesi,
 5) 10/10/1984 tarihli ve 3056 sayılı Başbakanlık Teşkilatı Hakkında Kanun Hükmünde
 Kararnamenin Değiştirilerek Kabulü Hakkında Kanunun 35 inci maddesi,
 6) 7/11/1985 tarihli ve 3238 sayılı Kanunun 8 inci maddesi,
-
-1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle, bu fıkrada yer alan “Türkiye Büyük Millet
-Meclisi uzman yardımcıları” ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı yasama uzman
-yardımcıları” şeklinde değiştirilmiştir.
-315
-
-7) 21/5/1986 tarihli ve 3289 sayılı Spor Genel Müdürlüğünün Teşkilat ve Görevleri
+7) 21/5/1986 tarihli ve 3289 sayılı Spor Genel Müdürlüğünün Teşkilat ve Görevleri
 Hakkında Kanunun 30 uncu maddesi,
 8) 09/12/1994 tarihli ve 4059 sayılı Hazine Müsteşarlığının Teşkilat ve Görevleri
 Hakkında Kanunun 7 nci maddesinin (e) fıkrası,
@@ -882,7 +734,7 @@ Kararnamelerde Değişiklik Yapılması Hakkında Kanun,
 10) 23/7/2003 tarihli ve 4954 sayılı Türkiye Adalet Akademisi Kanununun 24 üncü
 maddesi,
 11) 6/11/2003 tarihli ve 5000 sayılı Türk Patent ve Marka Kurumu Kuruluş ve
-Görevleri Hakkında Kanunun 26 ncı maddesi,316
+Görevleri Hakkında Kanunun 26 ncı maddesi,
 12) 5/5/2005 tarihli ve 5345 sayılı Gelir İdaresi Başkanlığının Teşkilat ve Görevleri
 Hakkında Kanunun 29 uncu maddesinin sekizinci fıkrası,
 13) 10/11/2005 tarihli ve 5431 sayılı Sivil Havacılık Genel Müdürlüğü Teşkilat ve
@@ -907,13 +759,7 @@ maddesi,
 22) 3/6/2011 tarihli ve 642 sayılı Doğu Anadolu Projesi, Doğu Karadeniz Projesi ve
 Konya Ovası Projesi Bölge Kalkınma İdaresi Başkanlıklarının Teşkilat ve Görevleri
 Hakkında Kanun Hükmünde Kararnamenin 5 inci maddesinin üçüncü fıkrası,
-
-22/12/2016 tarihli ve 6769 sayılı Kanunun 187 inci maddesiyle, bu alt bentte yer alan “Türk Patent Enstitüsü
-Kuruluş ve Görevleri Hakkında Kanunun” ibaresi “Türk Patent ve Marka Kurumu Kuruluş ve Görevleri
-Hakkında Kanunun” şeklinde değiştirilmiştir.
-316
-
-23) 29/6/2011 tarihli ve 644 sayılı Çevre ve Şehircilik Bakanlığının Teşkilat ve
+23) 29/6/2011 tarihli ve 644 sayılı Çevre ve Şehircilik Bakanlığının Teşkilat ve
 Görevleri Hakkında Kanun Hükmünde Kararnamenin 36/A maddesi,
 24) 24/11/2011 tarihli ve 656 sayılı Türk İşbirliği ve Koordinasyon Ajansı
 Başkanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 16 ncı
@@ -951,8 +797,7 @@ tarihinde askerlik, doğum veya ücretsiz izin nedenleriyle görevlerinde bulunm
 ilgili mevzuatına göre yeniden hizmete alınma şartlarını kaybetmemiş olanlar hakkında da bu
 madde hükümleri uygulanır. Bunlar için birinci fıkrada belirtilen süreler yeniden hizmete
 alındıkları tarihten itibaren başlar.
-
-25/6/2013 tarihinden önce 4 üncü maddenin (B) fıkrası ve 4924 sayılı Kanun uyarınca
+25/6/2013 tarihinden önce 4 üncü maddenin (B) fıkrası ve 4924 sayılı Kanun uyarınca
 çalışmakta iken 24/11/2004 tarihli ve 5258 sayılı Aile Hekimliği Pilot Uygulaması Hakkında
 Kanun hükümlerine göre aile hekimliği uygulamasında görev alanlar hakkında görevlerinden
 ayrılmalarına gerek kalmaksızın bu madde hükümleri uygulanır.
@@ -991,8 +836,7 @@ uygulanır.
 Geçici 37 nci madde kapsamında memur kadrolarına atanamayan sözleşmeli
 personelden, bu maddenin yürürlüğe girdiği tarihten önce idari yargı mercilerine başvuran ve
 açtıkları idari davalarda verilen yargı kararları sonucu memur kadrolarına atanmış olup
-
-davaları henüz bitmemiş olanlardan bu maddenin yürürlüğe girdiği tarihten itibaren otuz gün
+davaları henüz bitmemiş olanlardan bu maddenin yürürlüğe girdiği tarihten itibaren otuz gün
 içinde kurumlarına başvuranlar, halen bulundukları memur kadrolarına bu madde kapsamında
 atanmış ve açmış oldukları idari davalardan vazgeçmiş sayılırlar. Söz konusu davalar için
 ayrıca vekalet ücretine hükmedilmez.
@@ -1029,8 +873,7 @@ uygulanır. Bunlar için birinci fıkrada belirtilen süreler yeniden hizmete al
 itibaren başlar.
 Bu maddenin yürürlüğe girdiği tarihten önce geçici personel pozisyonlarına atanmak
 üzere Devlet Personel Başkanlığına bildirilen ve atama süreci devam edenler ile atamaları
-
-yapılanlar hakkında da bu madde hükümleri uygulanır. Bunlar için birinci fıkrada belirtilen
+yapılanlar hakkında da bu madde hükümleri uygulanır. Bunlar için birinci fıkrada belirtilen
 süreler, geçici personel olarak göreve başladıkları tarihten itibaren başlar.
 4 üncü maddenin mülga (C) fıkrasının ikinci paragrafı kapsamında yer alanlardan
 sözleşmeli personel pozisyonlarına atananların istihdam süreleri hiçbir şekilde sosyal
@@ -1056,24 +899,20 @@ bölümünün (A) fıkrasının (11) numaralı bendi hükmünden aynı usul ve e
 yararlanırlar.
 Geçici Madde 47- (Ek:1/7/2022-7417/5 md.)
 Bu Kanuna ekli (I) sayılı Ek Gösterge Cetvelinin “I- Genel İdare Hizmetleri Sınıfı”
-bölümünün (g) ve (h) bentlerinde sayılan unvanlı kadrolara (…)317 ilgili mevzuat hükümleri
+bölümünün (g) ve (h) bentlerinde sayılan unvanlı kadrolara (…)ilgili mevzuat hükümleri
 uyarınca atanmış olanlar ile 30/5/2019 tarihli ve 7176 sayılı Kanunun geçici 1 inci maddesi
 uyarınca ataması yapılacak olanlardan en az üç yıl süreli yükseköğretim veren fakülte ve
 yüksekokulları bitirmiş olanlar hakkında, anılan bentlerde yer alan diğer şartlar aranmaksızın
 söz konusu bentlerde öngörülen ek göstergeler uygulanır.
-
-Anayasa Mahkemesinin 16/1/2025 tarihli ve E.: 2024/128; K.: 2025/19 sayılı Kararı ile bu fıkrada
-yer alan “…bu maddenin yürürlüğe girdiği tarihten önce…” ibaresi iptal edilmiştir.
-317
-
-Anılan (g) ve (h) bentlerinde sayılan kadro unvanlarında bulunmuş olanlardan emekli,
+Anılan (g) ve (h) bentlerinde sayılan kadro unvanlarında bulunmuş olanlardan emekli,
 adi malullük veya vazife malullüğü aylığı bağlananlar ile bunların dul ve yetimleri hakkında
 da bu madde hükmü uygulanır.
 Bu madde uyarınca geçmişe dönük herhangi bir ödeme yapılmaz.
 Geçici Madde 48- (Ek:19/1/2023-7433/3 md.)
 Kamu kurum ve kuruluşlarının merkez ve taşra teşkilatı ile bunlara bağlı döner
 sermayeli kuruluşlarda; bir yıldan az süreli, ayın veya haftanın bazı günleri ya da günün
-belirli saatleri gibi kısmi zamanlı çalışanlar ile yükseköğretim kurumlarının araştırmageliştirme projelerinde proje süreleriyle sınırlı olarak çalışanlar hariç olmak üzere;
+belirli saatleri gibi kısmi zamanlı çalışanlar ile yükseköğretim kurumlarının araştırma-
+geliştirme projelerinde proje süreleriyle sınırlı olarak çalışanlar hariç olmak üzere;
 a) 28/11/2022 tarihi itibarıyla;
 1) Bu Kanunun 4 üncü maddesinin (B) fıkrası,
 2) 22/6/1965 tarihli ve 633 sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri
@@ -1102,8 +941,7 @@ Düzenlemeler Hakkında Kanun Hükmünde Kararnamenin ek 4 üncü maddesi,
 Kanun Hükmünde Kararnamenin 45/A maddesi,
 22) 656 sayılı Kanun Hükmünde Kararnamenin mülga 16 ncı maddesinin yedinci
 fıkrası,
-
-uyarınca vizelenmiş veya ihdas edilmiş sözleşmeli personel pozisyonlarında
+uyarınca vizelenmiş veya ihdas edilmiş sözleşmeli personel pozisyonlarında
 çalışmakta olanlardan bu maddenin yürürlüğe girdiği tarihte sözleşmesi devam eden ve 48
 inci maddede belirtilen genel şartları taşıyanlardan bu maddenin yürürlüğe girdiği tarihten
 itibaren otuz gün içinde yazılı olarak başvuranlar; pozisyonlarının vizeli olduğu teşkilat ve
@@ -1142,8 +980,7 @@ maddede belirtilen genel şartları taşıyanlardan bu maddenin yürürlüğe gi
 otuz gün içinde yazılı olarak başvuranlar, Devlet Su İşleri Genel Müdürlüğü bölge
 müdürlüklerinde bulunduğu pozisyon unvanıyla aynı unvanlı memur kadrolarına, pozisyon
 unvanlarıyla aynı unvanlı memur kadrosu olmaması hâlinde ise anılan Genel Müdürlüğün
-
-kadro cetvellerinde yer alan kadro unvanlarıyla sınırlı olmak suretiyle Cumhurbaşkanınca
+kadro cetvellerinde yer alan kadro unvanlarıyla sınırlı olmak suretiyle Cumhurbaşkanınca
 belirlenen memur kadrolarına,
 bu maddenin yürürlüğe girdiği tarihten itibaren altmış gün içinde kurumlarınca
 atanırlar.
@@ -1152,13 +989,7 @@ Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmas�
 Kanun Hükmünde Kararnamenin 221 inci maddesinin altıncı fıkrası ile geçici 1 inci
 maddesinin sekizinci fıkrası kapsamında devri yapılan sözleşmeli personel hakkında da
 birinci fıkra hükümleri uygulanır.
-Birinci
-fıkrada
-belirtilen
-mevzuat
-hükümlerine
-göre
-çalışmakta
+Birinci fıkrada belirtilen mevzuat hükümlerine göre çalışmakta
 iken 28/11/2022 tarihinde askerlik, doğum, evlat edinme, görevlendirme, ücretsiz izin gibi
 nedenlerle görevlerinde bulunmayanlardan ilgili mevzuatına göre yeniden hizmete alınma
 şartlarını kaybetmemiş olanlar hakkında da bu madde hükümleri uygulanır. Bunlar için birinci
@@ -1188,8 +1019,7 @@ toplam hizmet süresinin hesabında dikkate alınır.
 Bu maddenin birinci fıkrasının (a), (c) ve (ç) bentleri kapsamında sözleşmeli
 personelin atanacağı memur kadroları, kadro ve pozisyonlara ilişkin mevzuatın eki cetvellerde
 yer alan sınıf, unvan ve derecelerine uygun olmak şartıyla, başka bir işleme gerek kalmaksızın
-
-atama işleminin yapıldığı tarih itibarıyla ihdas edilerek aynı cetvelin ilgili bölümlerine
+atama işleminin yapıldığı tarih itibarıyla ihdas edilerek aynı cetvelin ilgili bölümlerine
 eklenmiş ve memur kadrolarına atananların pozisyonları başka bir işleme gerek kalmaksızın
 iptal edilmiş sayılır. İhdas edilen kadrolar ile iptal edilen pozisyonlar; unvanı, sınıfı, adedi,
 derecesi, teşkilatı ve birimi belirtilmek suretiyle birinci fıkrada belirtilen altmış günlük
@@ -1225,8 +1055,7 @@ sahne gerisinde ihtiyaç duyulan hizmetler için belirlenmiş olan pozisyonlarda
 çalışan ve bu maddenin yürürlüğe girdiği tarihte sözleşmesi devam edenlerden bu maddenin
 yürürlüğe girdiği tarihten itibaren otuz gün içerisinde görev yaptıkları kurumlara yazılı olarak
 başvuruda bulunan;
-
-a) Solist sanatçı ve sanatçılar; ek geçici 12 nci, ek geçici 14 üncü ve ek geçici
+a) Solist sanatçı ve sanatçılar; ek geçici 12 nci, ek geçici 14 üncü ve ek geçici
 16 ncı maddeler ile kurumlarının özel mevzuat hükümleri kapsamında durumlarına uygun
 sanatçı pozisyonlarına,
 b) Sahne üstü ve gerisinde görev yapan personel; ek geçici 12 nci, ek geçici 14 üncü
@@ -1262,8 +1091,7 @@ hak kazanmış olup bu maddenin yürürlüğe girdiği tarih itibarıyla halen k
 yeterlik sınavı yapılmamış olanlar bakımından anılan fıkrada söz konusu sınavın yapılması
 için öngörülen altı aylık süre, bu maddenin yürürlüğe girdiği tarihten itibaren başlar.
 Geçici Madde 52- (Ek:25/12/2024-7537/7 md.)
-
-Geçici 37 nci, geçici 41 inci ve geçici 48 inci madde çerçevesinde sözleşmeli personel
+Geçici 37 nci, geçici 41 inci ve geçici 48 inci madde çerçevesinde sözleşmeli personel
 pozisyonlarından memur kadrolarına atanmış olup bu maddenin yürürlük tarihi itibarıyla
 memur kadrolarında bulunanların söz konusu pozisyonlarda geçen hizmet süreleri, bu
 maddenin yürürlüğe girdiği tarihten itibaren, 64 üncü maddenin dördüncü fıkrası kapsamında
@@ -1298,8 +1126,7 @@ hükümleri saklıdır.)
 d) Özel kanunlarındaki ve 657 sayılı Kanundaki hükme dayanılarak kazai rüşt kararı
 alınmak suretiyle veya mecburi hizmetin ifası nedeniyle öğrenimleri ile ilgili görevlere
 atananların, 18 yaşını bitirilmesinden önce bu görevlerde,
-
-e) Teknik hizmetler sınıfı, sağlık hizmetleri ve yardımcı sağlık hizmetleri sınıfında
+e) Teknik hizmetler sınıfı, sağlık hizmetleri ve yardımcı sağlık hizmetleri sınıfında
 bulunanlar ile bu sınıflara girecek nitelikte olanların yurt içinde veya yurt dışında 87 nci
 madde kapsamına girmeyen yerlerde, (12 yılı geçmemek üzere, meslekleri ile ilgili
 hizmetlerin 3/4'ü),
@@ -1337,8 +1164,7 @@ Hizmet süreleri,
 G) Emekliliğe tabi olmaksızın doktora öğrenimi yapanların yurt içinde veya yurt
 dışında geçirdikleri normal doktora öğrenim sürelerinin 3 yılı,
 H) Aynı süre ve aynı neden hiçbir şekilde mükerreren değerlendirilemez.
-
-İ) (A) bendi uyarınca başlangıç olarak alınacak derece ve kademe üzerine, yukarıdaki
+İ) (A) bendi uyarınca başlangıç olarak alınacak derece ve kademe üzerine, yukarıdaki
 bentler esas alınmak suretiyle değerlendirilmesi gerektiği tespit olunacak sürelerin her yılı
 için bir kademe ve her üç yılı için bir derece verilmek suretiyle bulunacak derecenin ilgili
 kademesine intibak ettirilir. Bu kanunun 92 nci maddesinin 6 ncı fıkrası hükmü mahfuzdur.
@@ -1374,8 +1200,7 @@ tespit olunur.
 İntibakta esas alınacak derece ve kademeleri ayrıca tespit olunanlar:
 Ek Geçici Madde 4 – (Ek: 31/7/1970 - 1327/90 md.; Mülga: 13/2/2011 - 6111/117
 md.)
-
-İstisnai memuriyet kadrolarında olanların durumu:
+İstisnai memuriyet kadrolarında olanların durumu:
 Ek Geçici Madde 5 – (Ek: 31/7/1970 - 1327/90 md.; Mülga: 15/5/1975 - 1897/2
 md.)
 Sonsuz izinli cami görevlilerinin durumu:
@@ -1406,9 +1231,8 @@ kademe ilerlemeleri ve öğrenim derecelerine göre yükselebilecekleri en yüks
 hususunda bu kanunun ilgili hükümleri uygulanır.
 Bu kurumlarda 1, 2, 3 ve 4 üncü derecelerden alınabilecek kadrolar ve ek gösterge
 verilecek görevler genel ve katma bütçeli kuruluşlarda bu derecelere tahsis edilmiş kadroların
-
-sayısı ve görev nitelikleri gözönünde bulundurulmak suretiyle her yıl Cumhurbaşkanı
-tarafından tespit edilir.318
+sayısı ve görev nitelikleri gözönünde bulundurulmak suretiyle her yıl Cumhurbaşkanı
+tarafından tespit edilir.
 Bu kurumlarda yönetim kuruluna katılacak işçi üyeler ile kamu kesimi dışından
 gelecek işveren temsilcisi üyelere diğer yönetim kurulu üyelerine ödenen tutarda (ek gösterge
 dahil) ödeme yapılır.
@@ -1430,26 +1254,17 @@ olunur. Ancak:
 A) 14/7/1970 tarihli ve 1309 sayılı Kanunun 12 nci maddesi ile 14/7/1970 tarih ve
 1310 Sayılı Kanunun 10 uncu maddesinde idari sözleşme ücret limitleri aşağıdaki tutarlara
 yükseltilmiştir.
-Stajyerler
-1650
-Sahne uygulatıcıları (Uzman memurlar)
-1100 - 3700
-Sanat uygulatıcıları (Uygulatıcı uzman memurlar)
-1500 - 5000
-Sanatkar memurlar
-2000 - 7000
+Stajyerler 1650
+Sahne uygulatıcıları (Uzman memurlar) 1100 - 3700
+Sanat uygulatıcıları (Uygulatıcı uzman memurlar) 1500 - 5000
+Sanatkar memurlar 2000 - 7000
 Bu tutarlara 1309 Sayılı Kanunun 17 nci, 1310 Sayılı Kanunun ek 4 üncü maddesine
 göre herhangi bir zam yapılamaz. Yukarıdaki limitler Devlet memurları göstergelerine
 uygulanacak katsayı nedeniyle husule gelecek artış veya eksiliş oranında artırılır veya
 eksiltilir.
 B) Devlet Memurları Kanununun derece yükselmesi ve kademe ilerlemesine ilişkin
 hükümleri gözönünde bulundurulmak suretiyle;
-
-2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan
-“Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-318
-
-1 - Stajyerlerin emekli keseneklerine esas ücret dereceleri, 1327 Sayılı Kanuna ekli
+1 - Stajyerlerin emekli keseneklerine esas ücret dereceleri, 1327 Sayılı Kanuna ekli
 gösterge tablosundaki 10 uncu derecenin ilk kademesinden başlar ve bu derecenin;
 2 - Sanatkarların emeklilik keseneklerine esas ücret dereceleri, 9 uncu derecenin ilk
 kademesinden başlar ve 1 inci derecenin;
@@ -1486,8 +1301,7 @@ nci maddenin (A) bendi ile yükseltilen sınırlardan daha aşağı ücret tesbi
 B) Belediye Opera ve Tiyatroları ile Şehir ve Belediye Konservatuvar ve
 Orkestralarında çalışan ve (A) bendinin dışında kalan personel hakkında bu Kanunun
 belediyeler personeli ile ilgili hükümleri uygulanır.
-
-(Değişik: 25/6/2009 - 5917/16 md.) Sanatçı, stajyer sanatçı, sanat uygulatıcısı ve
+(Değişik: 25/6/2009 - 5917/16 md.) Sanatçı, stajyer sanatçı, sanat uygulatıcısı ve
 sahne uygulatıcılarının sözleşmeli personel olarak istihdamı için kullanılacak olan
 pozisyonların unvanı ve sayısı ile tip sözleşmeleri ve ücretleri için Maliye Bakanlığından vize
 alınması yönünde yılı bütçe kanunları dâhil ilgili mevzuatında düzenlenmiş olan hükümler, bu
@@ -1524,8 +1338,7 @@ Ek geçici 12 ve 13 üncü maddelerde yazılı personelin emeklilik, ek geçici 
 maddenin son fıkrasında ve ek geçici 14 ve 17 nci maddede yazılı personelin aylık
 bakımından intibakında bu maddelerin başlangıç dereceleri esas alınmak suretiyle ve söz
 konusu maddelerde yazılı görevler ile 87 nci maddede sayılan kurumlarda; ek geçici 12, 13 ve
-
-14 üncü maddelerde yazılan sanatkar, sanatkar öğretmen, stajyer sanatkar ve sanatkar
+14 üncü maddelerde yazılan sanatkar, sanatkar öğretmen, stajyer sanatkar ve sanatkar
 niteliğindeki hizmetlerde ve hazırlık kıtası ile okul dönemi dahil yedek subaylıkta
 (muvazzaflık dışında geçen süre dahil), yedek subay öğretmenlikte ve muvazzaf ve ihtiyat
 erlikte geçen süreler her yıl için bir kademe ilerlemesi ve her üç yıl için bir derece yükselmesi
@@ -1549,7 +1362,7 @@ olanlarla 4 üncü fıkrasında belirlenen sahne uygulatıcılarından lise, lis
 derecenin tespitinde 36 ncı madde hükümleri uygulanır.
 Bu madde kapsamına giren personelin intibakları bir defa da ek geçici 2, 3 ve 4 üncü
 maddeler hükümlerine göre yapılır ve bu iki intibaktan personelin lehine olan esas alınır.
-Devlet sanatçıları ve sanatkarlar:319
+Devlet sanatçıları ve sanatkarlar:
 Ek Geçici Madde 16 – (Ek: 31/7/1970 - 1327/90 md.; Değişik: 12/2/1982 - 2595/16
 md.)
 Teknik bünyeye dahil olmayan ve haklarında Devlet Memurları Kanunu hükümlerinin
@@ -1557,24 +1370,21 @@ uygulanması gerekenler hariç, bu Kanunun Ek Geçici 12, l3 ve 14 üncü maddel
 dahil personel ile Kültür ve Turizm Bakanlığının sanatla ilgili merkez ve taşra birimlerine
 bağlı olarak çalışan orkestra, koro ve topluluk sanatçıları, sanatkarları ve sanatçı öğretmenleri
 ile Devlet sanatçıları söz konusu maddelerin mali hükümlerine bağlı kalınmaksızın sözleşmeli
-olarak çalıştırılabilirler.320
-
+olarak çalıştırılabilirler.
 2/9/1983 tarih ve 78 sayılı Kanun Hükmünde Kararnamenin 6 ncı maddesi ile getirilen istisna: "657 sayılı
 Devlet Memurları Kanununun değişik ek geçici 16 ncı maddesine göre üniversitelere bağlı konservatuvarlarda
 istihdam edilecek sanatçılar için kadro şartı aranmaz."
-320
 4/3/1987 tarih ve 272 sayılı Kanun Hükmünde Kararname ile Birinci fıkrada yer alan "Kültür ve Turizm
 Bakanlığının sanatla ilgili merkez ve taşra birimlerine bağlı olarak çalışan orkestra, koro ve topluluk
 sanatçıları" ibaresi eklenmiştir.
-319
-
-Sanatçı sıfatını kazananlardan yönetici kadrolara atananlar da, bu kadrolar karşılık
+Sanatçı sıfatını kazananlardan yönetici kadrolara atananlar da, bu kadrolar karşılık
 gösterilmek suretiyle sözleşmeli olarak çalıştırılabilirler.
 (Değişik: 22/8/1989 – KHK-378/5 md.) Yukarıdaki fıkralara göre sözleşmeli olarak
 çalıştırılacakların sözleşme esasları, bunlara ödenebilecek ücretin üst sınırları ve sağlanacak
-sosyal yardımlar ile diğer mali haklar; Cumhurbaşkanınca kararlaştırılır.321
+sosyal yardımlar ile diğer mali haklar; Cumhurbaşkanınca kararlaştırılır.
 (Değişik: 9/4/1990 – KHK-418/14 md.; İptal: Anayasa Mahkemesinin 5/2/1992
-tarihli ve E. 1990/22, K. 1992/6 sayılı Kararı ile; Yeniden düzenleme: 18/5/1994 – KHK527/12 md.) Bu şekilde sözleşme ile çalıştırılanlar, kesenekleri kendilerince ve kesenek
+tarihli ve E. 1990/22, K. 1992/6 sayılı Kararı ile; Yeniden düzenleme: 18/5/1994 – KHK-
+527/12 md.) Bu şekilde sözleşme ile çalıştırılanlar, kesenekleri kendilerince ve kesenek
 karşılıkları da kurumlarınca karşılanmak üzere, T.C. Emekli Sandığı ile ilgilendirilirler.
 Sanatçı, Sanatkar, Sanatçı Öğretmenler ile Devlet sanatçılarının emeklilik kesenekleri bu
 Kanuna ekli (I) sayılı Ek gösterge cetvelinde kadroları teknik hizmetler sınıfında yer alan
@@ -1600,13 +1410,7 @@ Bu Kanuna tabi kurumlarda işçi statüsünde çalışanlar ile sözleşmeli per
 hakkında uygulanacak hükümler:
 Ek Geçici Madde 18 – (Ek: 31/7/1970 - 1327/90 md.; Mülga: 13/2/2011 - 6111/117
 md.)
-
-2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan “ilgili
-bakanlığın önerisi ve Maliye ve Gümrük Bakanlığının görüşü üzerine Bakanlar Kurulunca” ibaresi
-“Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-321
-
-657 sayılı Kanun kapsamı dışında kalan kurumlar mensuplarına uygulanacak
+657 sayılı Kanun kapsamı dışında kalan kurumlar mensuplarına uygulanacak
 katsayı:
 Ek Geçici Madde 19 – (Ek: 31/7/1970 - 1327/90 md.; Değişik: 23/12/1972 – KHK-2/4
 md.)
@@ -1636,18 +1440,13 @@ verilen kasa tazminatları) eleman temininde güçlük zammı, avukatlık ücret
 yazılı personel hakkında da uygulanır.
 Ek geçici 12 nci ve 13 üncü maddeler kapsamına giren personel hakkında 5441, 1309,
 1310, 37 ve 6940 sayılı kanunların bütün hükümleri aynen uygulanır, Devlet
-Tiyatroları, Devlet Opera ve Balesi,
-Senfoni
-Orkestraları
-ve
-Devlet
+Tiyatroları, Devlet Opera ve Balesi, Senfoni Orkestraları ve Devlet
 Konservatuvarlarında görevli sanatkar ve sanatkar yöneticileri ile, belediyelere bağlı tiyatro,
 opera ve orkestralarda görevli sanatkarların sahne ve sanatla ilgili çalışmalarında bütün
 hizmetlerin yürütülmesinde başka iş ve hizmet yasağına ilişkin hükümler uygulanmaz.
 Ek Geçici Madde 22 – (Ek: 31/7/1970 - 1327/90 md.; Mülga: 13/2/2011-6111/117
 md.)
-
-Ek Geçici Madde 23 – (Ek: 31/7/1970 - 1327/90 md.; Mülga: 13/2/2011-6111/117
+Ek Geçici Madde 23 – (Ek: 31/7/1970 - 1327/90 md.; Mülga: 13/2/2011-6111/117
 md.)
 Ek Geçici Madde 24 – (Ek: 31/7/1970 - 1327/90 md.; Mülga: 13/2/2011-6111/117
 md.)
@@ -1677,8 +1476,7 @@ Kendi özel kanunları çıkıncaya kadar bu Kanun kapsamı dışında kalıp da
 bu Kanuna göre almakta olan ve bu kanunun ek geçici 6, 9, 10, 12, 13 ve 14 üncü maddeleri
 kapsamına giren kurumlarda, sınıfların 1, 2, 3 ve 4 üncü derecelerindeki kadrolarına 68 inci
 maddedeki şartlar ve atanmasındaki usule göre aşağı derecelerden memur atanabilir.
-
-Ek Geçici Madde 32 – (Ek: 31/7/1970 - 1327/90 md.; Mülga: 13/2/2011-6111/117
+Ek Geçici Madde 32 – (Ek: 31/7/1970 - 1327/90 md.; Mülga: 13/2/2011-6111/117
 md.)
 Ek Geçici Madde 33 – (Ek: 31/7/1970 - 1327/90 md.; Mülga: 13/2/2011-6111/117
 md.)
@@ -1705,8 +1503,7 @@ md.)
 Mecburi hizmetlilerin yükümlülüklerinin ortadan kalkması:
 Ek Geçici Madde 42 – (Ek: 23/12/1972 – KHK-2/4 md.; Mülga: 13/2/2011-6111/117
 md.)
-
-1, 2, 3 ve 4 üncü derece görevlere 1/12/1971 tarihinden sonra atananların bu
+1, 2, 3 ve 4 üncü derece görevlere 1/12/1971 tarihinden sonra atananların bu
 görevlerde evvelce geçen sürelerinin değerlendirilmesi:
 Ek Geçici Madde 43 – (Ek: 23/12/1972 – KHK-2/4 md.; Mülga: 13/2/2011-6111/117
 md.)
@@ -1723,25 +1520,18 @@ Toprak ve Tarım Reformu Müsteşarlığı ile Geliştirilecek Haşhaş İkame B
 Teşkilatında çalıştırılacakların istihdam esasları:
 Ek Geçici Madde 47 – (Ek: 23/12/1972 – KHK-2/4 md.; Mülga: 13/2/2011-6111/117
 md.)
-Ek Geçici Madde 48 – (Ek: 23/12/1972 – KHK-2/4 md.)322
+Ek Geçici Madde 48 – (Ek: 23/12/1972 – KHK-2/4 md.)
 Özel kanununda değişiklik yapılıncaya kadar;
 a – MİT Müsteşarlığında özel görevlerin ifası için sözleşmeli olarak çalıştırılacaklar
 hakkında 4 üncü maddedeki sözleşmeli personel istihdamına ilişkin şartlar aranmaz. Bunların
 hizmete alınmalarında, Cumhurbaşkanı yetkilidir.
 b - MİT Mensuplarından Teşkilat'ta çalışmalarında hizmetin gereği olarak sakınca
-görülenler, (…)322 başka bir göreve, Cumhurbaşkanının onayı ile atanırlar.
+görülenler, (…)başka bir göreve, Cumhurbaşkanının onayı ile atanırlar.
 Ek geçici 8 inci madde kapsamına girenlerin intibakı:
 Ek Geçici Madde 49 – (Ek: 30/5/1973 – KHK-5/18 md.; Mülga: 13/2/2011-6111/117
 md.)
 Ek geçici 40 ıncı madde kapsamına girenlerin intibakı:
-
-2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu maddenin birinci
-fıkrasının (a) bendinde yer alan “Başbakan” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiş, (b) bendinde yer
-alan “Başbakanlık Teşkilatında” ibaresi madde metninden çıkarılmış ve “MİT Müsteşarlığının teklifi ve
-Başbakanın” ibaresi “Cumhurbaşkanının” şeklinde değiştirilmiştir.
-322
-
-Ek Geçici Madde 50 – (Ek: 8/10/1973 – KHK-8/22 md.; Mülga: 13/2/2011-6111/117
+Ek Geçici Madde 50 – (Ek: 8/10/1973 – KHK-8/22 md.; Mülga: 13/2/2011-6111/117
 md.)
 Ek Geçici Madde 51 – (Ek: 8/10/1973 – KHK-8/22 md.; Mülga: 13/2/2011-6111/117
 md.)
@@ -1770,13 +1560,10 @@ derece ve kademeleri tespit edilmek suretiyle sınav şartı aranmaksızın boş
 intibak ettirilebilirler.
 Bu Kanunun yayımı tarihinden sonra hizmete alınan Ahıska Türkleri ve
 Bulgaristan'dan zorunlu göçe tabi tutulan soydaşlardan Türk vatandaşlığına geçmiş olanlardan
-
-göreve başladıkları tarihten itibaren 6 ay içinde memurluğa geçmek için yazılı olarak
+göreve başladıkları tarihten itibaren 6 ay içinde memurluğa geçmek için yazılı olarak
 başvuranlar hakkında da yukarıdaki fıkra hükmü uygulanır.
-Ek Geçici Madde – (Ek: 9/4/1990 – KHK-418/15 md.; İptal: Anayasa
-Mahkemenin 5/2/1992 tarihli ve E. 1990/22, K. 1992/6 sayılı Kararı ile.)
-Ek Geçici Madde – (Ek : 22/9/1991 – KHK-458/1 md.; Mülga: 13/2/2011-6111/117
-md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

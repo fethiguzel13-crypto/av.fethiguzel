@@ -11,7 +11,8 @@ wordCount: 4293
 
 ---
 
-Madde 490 - Son rapor ve k esin hesap belli zamanlarda verilen rapor ve hesaplar gibi vesaye t maka mı tarafından incelenir ve onaylanır.
+Madde 490- Son rapor ve kesin hesap belli zamanlarda verilen rapor ve hesaplar gibi
+vesayet makamı tarafından incelenir ve onaylanır.
 
 ---
 

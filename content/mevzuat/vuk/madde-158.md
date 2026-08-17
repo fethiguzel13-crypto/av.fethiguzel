@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4277
 ---
 
-**İş değişikliklerinin bildirilmesi**
+**(İkinci fıkra Mülga : 22/7/1998-4369/82 md.)
+İş değişikliklerinin bildirilmesi:**
 
 ---
 
@@ -17,6 +18,8 @@ b) Mükellefiyet şeklinde değişikliği;
 c) Mükellefiyetten muaflığa geçmeyi;
 gerektirecek surette işlerinde değişiklik olanlar, bu değişiklikleri vergi dairesine
 bildirmeye mecburdurlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

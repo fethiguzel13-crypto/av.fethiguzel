@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**Ödeme şekli, makbuz**
+**Ödeme şekli, makbuz:**
 
 ---
 
@@ -27,6 +27,8 @@ Makbuzun borçluya posta ile gönderilmesi gerektiği hallerde posta masrafı al
 amme idaresine aittir.
 Hususi kanunlarındaki makbuz verilmesinden başka şekillerde yapılan tahsilata ait
 hükümler mahfuzdur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-**Vergi mahkemesinde dava açmaya yetkili olanlar**
+**BEŞİNCİ KİTAP
+Vergi Davaları
+Vergi mahkemesinde dava açmaya yetkili olanlar:**
 
 ---
 
@@ -16,12 +18,9 @@ Mükellefler ve kendilerine vergi cezası kesilenler, tarh edilen vergilere ve k
 cezalara karşı vergi mahkemesinde dava açabilirler.
 Vergi dairesi tadilat ve takdir komisyonlarınca tahmin ve takdir olunan matrahlara
 karşı vergi mahkemesinde dava açabilir.
-
 Bu başlık, 23/6/1982 tarihli ve 2686 sayılı Kanunun 49 uncu maddesi ile değiştirilmiş, ayrıca “1. Kısım” ve
 "1. bölüm" başlıkları da kaldırılmıştır.
-167
-
-Belediyelerde dava açma yetkisini belediye adına varidat müdürü, olmayan yerlerde
+Belediyelerde dava açma yetkisini belediye adına varidat müdürü, olmayan yerlerde
 hesap işleri müdürü veya o görevi yapan kullanır.
 (Değişik dördüncü fıkra: 28/3/2007-5615/20 md.) Vergi dairesi başkanlıkları ile
 vergi daireleri, Maliye Bakanlığı Gelir İdaresi Başkanlığınca belirlenen tutarları aşan
@@ -31,6 +30,8 @@ almadan vergi mahkemesi kararları aleyhine temyiz yoluna gidemezler.
 İdaresi Başkanlığı, tespit edeceği hadlerle sınırlı olmak şartıyla, muvafakat verme yetkisini
 vergi dairesi müdürlüklerinin taraf bulunduğu davalar için vergi dairesi başkanlıklarına
 ve/veya defterdarlıklara devredebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

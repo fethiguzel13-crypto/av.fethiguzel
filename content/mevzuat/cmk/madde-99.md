@@ -18,6 +18,8 @@ başlangıcında ve bu tedbire son verildiğinde hangi tutanakların tutulacağ�
 kişiye hangi belgelerin verileceği ile kolluk tarafından gerçekleştirilen yakalama işlemlerinin
 yürütülmesinde uyulacak kurallar, yönetmelikte gösterilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

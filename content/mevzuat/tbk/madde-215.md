@@ -12,7 +12,7 @@ a. Davanın bildirimi**
 
 ---
 
-Madde 215 - Satılanın elinden alınması tehlikesi ile karşılaşan alıcı, kendisine karşı
+MADDE 215- Satılanın elinden alınması tehlikesi ile karşılaşan alıcı, kendisine karşı
 açılan davayı satıcıya bildirdiği zaman satıcı, durumun gereğine göre ve yargılama usulü
 uyarınca ya alıcının yanında davaya katılmak ya da alıcı yerine geçerek üçüncü kişiye karşı
 davayı takip etmek ve savunmak zorundadır.

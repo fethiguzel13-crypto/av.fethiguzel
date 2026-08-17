@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Tahkikat**
+**Tahkikat:**
 
 ---
 
 Madde 351 – Şikayetçi dilekçe veya beyanında gösterilmiş olduğu delillerle bağlıdır.
 Maznun müdafası için tahkikatın tevsiini ancak bir kere istiyebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

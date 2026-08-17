@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**ÇOCUK MALLARI A. Yönetim I. Genel olarak**
+**YEDİNCİ AYIRIM
+ÇOCUK MALLARI
+A. Yönetim
+I. Genel olarak**
 
 ---
 
-Madde 352 - Ana ve baba, velâyetl eri devam ettiği sürece çoc uğun mallarını yönetme hakk ına sahip v e bunu nla yükümlüdürler; kural olarak hesap ve güvence vermezler. Ana ve babanın yükümlülüklerini yerine getir medikleri durumlarda hâkim müdahale eder.
+Madde 352- Ana ve baba, velâyetleri devam ettiği sürece çocuğun mallarını yönetme
+hakkına sahip ve bununla yükümlüdürler; kural olarak hesap ve güvence vermezler.
+Ana ve babanın yükümlülüklerini yerine getirmedikleri durumlarda hâkim müdahale eder.
 
 ---
 

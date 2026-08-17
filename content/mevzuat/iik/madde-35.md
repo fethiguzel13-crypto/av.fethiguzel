@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**Takibin başlaması**
+**Takibin başlaması:**
 
 ---
 
 Madde 35 – Takip, ilamın icra dairesine tevdii ile başlar. İstiyen alacaklıya kayıt
 numarasını mübeyyin bedava ve pulsuz bir ilmühaber verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

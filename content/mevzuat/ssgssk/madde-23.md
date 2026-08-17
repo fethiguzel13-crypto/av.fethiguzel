@@ -22,7 +22,9 @@ işverene ayrıca ödettirilir.
 4 üncü maddenin birinci fıkrasının (b) bendi kapsamında sigortalı olduğu halde, 8 inci
 maddenin üçüncü fıkrasında belirtilen süre içerisinde bildirimde bulunmayanlara, bildirimde
 bulunulmayan sürede meydana gelen iş kazası, meslek hastalığı, analık halleri sonucu ilgililerin
-gelir ve ödenekleri Kurumca ödenmez.40
+gelir ve ödenekleri Kurumca ödenmez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

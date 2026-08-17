@@ -7,13 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**aylıkları**
+**Görev yeri değiştirilenlerden eski görevlerine devamları tebliğ edilenlerin
+aylıkları:**
 
 ---
 
 Madde 172 – (Değişik: 23/12/1972 – KHK-2/1 md.)
 Görev yerleri değiştirilen memurlardan görevlerine devamları kurumlarınca yazılı
 olarak tebliğ edilenlerin aylıkları eski görev yerlerinde kadro tasarrufundan ödenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

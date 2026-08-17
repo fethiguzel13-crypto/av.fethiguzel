@@ -13,6 +13,8 @@ wordCount: 4313
 
 MADDE 284- (1) Bilirkişi, Türk Ceza Kanunu anlamında kamu görevlisidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

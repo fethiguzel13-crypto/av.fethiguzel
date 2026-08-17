@@ -19,6 +19,8 @@ için işlemler başlatılır. Ancak geri gönderme işlemi gerçekleşinceye ka
 verilir. Bu durum ilgiliye tebliğ edilir. İlgilinin, ilk iltica ülkesi olarak nitelenen ülke
 tarafından kabul edilmemesi hâlinde, başvuruya ilişkin işlemler devam ettirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

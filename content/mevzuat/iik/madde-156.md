@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4277
 ---
 
-**İflas talebi ve müddeti**
+**İflas talebi ve müddeti:**
 
 ---
 
@@ -19,10 +19,8 @@ nüshasının raptedilmesi lazımdır.
 Borçlu ödeme emrine itiraz etmişse takip durur ve alacaklı bu itirazın kaldırılması ile
 beraber borçlunun iflasına karar verilmesini bir dilekçe ile Ticaret Mahkemesinden isteyebilir.
 İflas istemek hakkı ödeme emrinin tebliği tarihinden bir sene sonra düşer.
-Talebin geri alınması ve yenilenmesi:
 
-Madde 157 – İflas talebini geri alan alacaklı bir ay geçmedikçe bu talebini
-yenileyemez.
+---
 
 ### Akademik Yorum ve Analiz
 

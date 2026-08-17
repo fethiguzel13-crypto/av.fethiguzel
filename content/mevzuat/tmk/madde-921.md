@@ -11,7 +11,8 @@ wordCount: 4291
 
 ---
 
-Madde 921 - Usulüne göre düzenlenmiş olan ipotekli borç senedi veya irat senedi, ona iyiniyetle dayanan herkes hakkında, içinde yazılı olanla ra göre geçerlidir.
+Madde 921- Usulüne göre düzenlenmiş olan ipotekli borç senedi veya irat senedi, ona
+iyiniyetle dayanan herkes hakkında, içinde yazılı olanlara göre geçerlidir.
 
 ---
 

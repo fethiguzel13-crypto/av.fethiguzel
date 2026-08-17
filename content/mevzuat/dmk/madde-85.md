@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**sürelerinin kademe ve derece intibakları**
+**Seferde veya talim ve manevra için hazarda silah altına alınanların askerlik
+sürelerinin kademe ve derece intibakları:**
 
 ---
 
@@ -17,6 +18,8 @@ seferde silah altına alınanların kademe ilerlemeleri devam eder. Bu süre iç
 yükselmesi gerektiğinde terhislerinden sonra açık kadro bulunması ve sınav veya seçmede
 başarı göstermeleri şartiyle silah altında geçen süreleri yükselecekleri üst derecenin
 kademelerinde dikkate alınır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

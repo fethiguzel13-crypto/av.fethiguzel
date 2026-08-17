@@ -27,14 +27,13 @@ idari makam tarafından istenemez. Bu beyan veya belgeler, birinci fıkrada öng
 aksine, delil olarak sunulmuş olsa dahi hükme esas alınamaz. Ancak, söz konusu bilgiler bir
 kanun hükmü tarafından emredildiği veya arabuluculuk süreci sonunda varılan anlaşmanın
 uygulanması ve icrası için gerekli olduğu ölçüde açıklanabilir.
-2 12/10/2017 tarihli ve 7036 sayılı Kanunun 18 inci maddesiyle, bu fıkrada yer alan “taraflar da” ibaresi “taraflar ve görüşmelere katılan diğer kişiler de” şeklinde değiştirilmiştir.
-
-
-(4) Yukarıdaki fıkralar, arabuluculuğun konusuyla ilgili olup olmadığına
+(4) Yukarıdaki fıkralar, arabuluculuğun konusuyla ilgili olup olmadığına
 bakılmaksızın, hukuk davası ve tahkimde uygulanır.
 (5) Birinci fıkrada belirtilen sınırlamalar saklı kalmak koşuluyla, hukuk davası ve
 tahkimde ileri sürülebilen deliller, sadece arabuluculukta sunulmaları sebebiyle kabul
 edilemeyecek deliller haline gelmez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

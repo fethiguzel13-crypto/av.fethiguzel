@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**İhtiyati haczin kaldırılması**
+**İhtiyati haczin kaldırılması:**
 
 ---
 
@@ -16,6 +16,8 @@ Borçlu, para veya mahkemece kabul edilecek rehin veya esham yahut tahvilat depo
 etmek veya taşınmaz rehin yahut muteber bir banka kefaleti göstermek şartı ile ihtiyati haczin
 kaldırılmasını mahkemeden istiyebilir. Takibe başlandıktan sonra bu yetki, icra mahkemesine
 geçer.
+
+---
 
 ### Akademik Yorum ve Analiz
 

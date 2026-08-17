@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Denetim faaliyeti ve denetim yetkilileri**
+**BEŞİNCİ KISIM
+Sermaye Piyasalarında Denetim ve Tedbirler
+BİRİNCİ BÖLÜM
+Denetim, Arama ve El Koyma
+Denetim faaliyeti ve denetim yetkilileri**
 
 ---
 
@@ -20,6 +24,8 @@ değerlendirmelerinde dikkate alınacak ölçütleri ve uygulama esaslarını be
 faaliyeti, önemlilik ve öncelik ilkeleri ile risk değerlendirmeleri kapsamında Kurul Başkanı
 tarafından oluşturulacak program uyarınca yürütülür. Kurul Başkanı, oluşturulan program
 dışında incelenmesini gerekli gördüğü hususlarda program dışı denetim yaptırabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

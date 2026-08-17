@@ -29,6 +29,8 @@ verir. İtiraz üzerine mahkeme, tedbir kararını değiştirebilir veya kaldır
 öncelikle incelenir ve kesin olarak karara bağlanır. Kanun yoluna başvurulmuş olması, tedbirin
 uygulanmasını durdurmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

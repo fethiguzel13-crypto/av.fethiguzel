@@ -23,6 +23,8 @@ verilmesini talep edebilir. Bu takdirde hâkim, belgenin aslının verilip veril
 verir. Geri verilmesine karar verildiğinde, aslına uygun olduğu mahkeme mührü ve yazı işleri
 müdürünün imzasıyla onanmış örneği dosyaya konur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -14,6 +14,8 @@ wordCount: 4269
 Madde 42- Belediye başkanı, görev ve yetkilerinden bir kısmını uygun gördüğü
 takdirde, yöneticilik sıfatı bulunan belediye görevlilerine devredebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

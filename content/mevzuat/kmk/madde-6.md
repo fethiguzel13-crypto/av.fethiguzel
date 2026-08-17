@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4275
 ---
 
-**Yolcu beraberinde getirilen kaçak eşya**
+**Yer bakımından uygulama**
 
 ---
 
-MADDE 6 – (1) (Mülga: 28/3/2013-6455/66 md.)
-(2) (Mülga: 28/3/2013-6455/66 md.)
-(3) (Mülga: 28/3/2013-6455/66 md.)
-(4) Yolcuların, beyanlarına aykırı olarak üzerlerinde, eşyası arasında veya taşıma
-araçlarında çıkan eşyanın ticarî mahiyette veya ithali veya ihracının yasak olması halinde 3
-üncü madde hükümleri uygulanır.
+Madde 6- (1) 5237 sayılı Türk Ceza Kanununun yer bakımından uygulamaya ilişkin 8
+inci maddesi hükümleri, kabahatler bakımından da uygulanır. Ancak, kanunlarda aksine
+hüküm bulunan haller saklıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

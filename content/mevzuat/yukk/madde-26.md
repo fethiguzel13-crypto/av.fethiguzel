@@ -20,6 +20,8 @@ kimlik numarası verilebilir.
 tarihinden itibaren en geç yirmi iş günü içinde adres kayıt sistemine kayıtlarını yaptırmak
 zorundadırlar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

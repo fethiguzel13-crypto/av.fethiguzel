@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4283
 ---
 
-**Araçların muayenesi**
+**ÜÇÜNCÜ BÖLÜM
+Araçların Muayenesi ve Muayeneye Yetkili Kuruluşlar
+Araçların muayenesi:**
 
 ---
 
@@ -26,7 +28,7 @@ Karayollarında kullanılmakta olan araçların, teknik şartlara uyup uymadığ
 zabıtasınca kontrol edilerek her an muayeneleri yapılabilir.
 (Değişik:18/10/2018-7148/18 md.) Muayenesi yapılmamış bir araçla trafiğe çıkılması
 hâlinde, araç sahibine 235 Türk lirası idari para cezası verilir. Bu araçlara, muayenelerinin
-yaktırılması için süre ve şartları Karayolları Trafik Yönetmeliğinde belirtilen şekilde izin verilir.
+yaptırılması için süre ve şartları Karayolları Trafik Yönetmeliğinde belirtilen şekilde izin verilir.
 İzin verilen süre sonunda, muayenesi yapılmadan veya muayene sonucunda emniyetsiz raporu
 verilen araçların trafiğe çıkarılması hâlinde, araç sahibine 488 Türk lirası idari para cezası verilir.
 (Ek:16/7/2004-5228/44 md.) Bu araçlar trafikten men edilir ve en yakın muayene
@@ -34,6 +36,8 @@ istasyonuna gönderilirler.
 (Değişik: 18/10/2018-7148/18 md.) Araç muayene sonuçları, Karayolu Düzenleme
 Genel Müdürlüğü ile Emniyet Genel Müdürlüğü arasında yapılacak bir protokol çerçevesinde,
 Emniyet Genel Müdürlüğü ile paylaşılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

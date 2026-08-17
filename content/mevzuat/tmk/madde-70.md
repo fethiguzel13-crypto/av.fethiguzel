@@ -7,12 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**2. Üyel erin yükümlülükleri
+**2. Üyelerin yükümlülükleri
 a. Ödenti verme borcu**
 
 ---
 
-Madde 70 - Üyelerin ödenti verme borcu tüzükle düzenle nir. Tüzükte düzenleme yoksa üyeler, dernek amacının gerçekleşmesi ve borçlarının karşılanması için zorunlu ödentilere eşit olarak katılırlar. Dernekten çıkan ve ya çıkarılan üye, üyelikte bulunduğu sürenin ödentisini vermek zorundadır. Onursal üyeler öden ti ve rmek zorunda değildir.
+Madde 70- Üyelerin ödenti verme borcu tüzükle düzenlenir. Tüzükte düzenleme yoksa
+üyeler, dernek amacının gerçekleşmesi ve borçlarının karşılanması için zorunlu ödentilere eşit
+olarak katılırlar. Dernekten çıkan veya çıkarılan üye, üyelikte bulunduğu sürenin ödentisini vermek
+zorundadır.
+Onursal üyeler ödenti vermek zorunda değildir.
 
 ---
 

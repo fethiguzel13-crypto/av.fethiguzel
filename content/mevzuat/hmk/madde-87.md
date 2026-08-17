@@ -17,6 +17,8 @@ ona göre belirlenir.
 (2) Teminatı gerektiren durum ve koşullarda değişiklik olması hâlinde, hâkim
 teminatın azaltılması, artırılması, değiştirilmesi ya da kaldırılmasına karar verebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

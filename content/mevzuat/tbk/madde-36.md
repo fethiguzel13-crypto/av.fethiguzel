@@ -11,7 +11,7 @@ wordCount: 4315
 
 ---
 
-Madde 36 - Taraflardan biri, diğerinin aldatması sonucu bir sözleşme yapmışsa,
+MADDE 36- Taraflardan biri, diğerinin aldatması sonucu bir sözleşme yapmışsa,
 yanılması esaslı olmasa bile, sözleşmeyle bağlı değildir.
 Üçüncü bir kişinin aldatması sonucu bir sözleşme yapan taraf, sözleşmenin yapıldığı
 sırada karşı tarafın aldatmayı bilmesi veya bilecek durumda olması hâlinde, sözleşmeyle bağlı

@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4277
 ---
 
-**Tahsili, Tahsili Emval Kanununa atfedilen alacaklar**
+**Tahsili, Tahsili Emval Kanununa atfedilen alacaklar:**
 
 ---
 
 Madde 2 – Muhtelif kanunlarda Tahsili Emval Kanununa göre tahsil edileceği
 bildirilen her çeşit alacaklar hakkında da bu kanun hükümleri tatbik olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -16,6 +16,8 @@ vakıanın delili olduğunu da belirterek bildirmek; ellerinde bulunan delilleri
 eklemek ve başka yerlerden getirilecek belge ve dosyalar için de bunların bulunabilmesini
 sağlayan bilgilere dilekçelerinde yer vermek zorundadır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

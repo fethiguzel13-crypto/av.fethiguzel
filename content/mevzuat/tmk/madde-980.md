@@ -11,7 +11,10 @@ wordCount: 4305
 
 ---
 
-Madde 980 - Bir taşıyıcıya veya umumî mağa zaya bırakılmış emtiayı temsil eden kıymetli evrakın teslimi, emtianın teslimi gibi sonuç doğurur. Kıymetli evrakı iyiniyetle teslim alan kimse ile emti ayı iyiniyetle teslim alan kimse arasında uyuşmazlık çıkarsa emtiayı teslim alan tercih olunur.
+Madde 980- Bir taşıyıcıya veya umumî mağazaya bırakılmış emtiayı temsil eden kıymetli
+evrakın teslimi, emtianın teslimi gibi sonuç doğurur.
+Kıymetli evrakı iyiniyetle teslim alan kimse ile emtiayı iyiniyetle teslim alan kimse
+arasında uyuşmazlık çıkarsa emtiayı teslim alan tercih olunur.
 
 ---
 

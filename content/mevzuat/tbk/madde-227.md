@@ -12,7 +12,7 @@ a. Genel olarak**
 
 ---
 
-Madde 227 - Satıcının satılanın ayıplarından sorumlu olduğu hâllerde alıcı, aşağıdaki
+MADDE 227- Satıcının satılanın ayıplarından sorumlu olduğu hâllerde alıcı, aşağıdaki
 seçimlik haklardan birini kullanabilir:
 1. Satılanı geri vermeye hazır olduğunu bildirerek sözleşmeden dönme.
 2. Satılanı alıkoyup ayıp oranında satış bedelinde indirim isteme.

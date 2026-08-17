@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Müddetler**
+**2 – Taşınırların satışı:
+Müddetler:**
 
 ---
 
-Madde 112 – Taşınır mallar satış talebinden nihayet iki ay içinde satılır.47
+Madde 112 – Taşınır mallar satış talebinden nihayet iki ay içinde satılır.
 Yetişmemiş mahsüller, borçlunun muvafakati olmadıkça satılamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

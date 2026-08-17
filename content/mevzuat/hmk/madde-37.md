@@ -14,6 +14,8 @@ wordCount: 4259
 MADDE 37- (1) Hâkim, reddini gerektiren sebeplerden biri varken bizzat çekilmezse,
 iki taraftan biri ret talebinde bulununcaya kadar davaya bakabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

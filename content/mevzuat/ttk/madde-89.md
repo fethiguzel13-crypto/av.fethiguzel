@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4318
 ---
 
-**Madde 89**
+**ALTINCI KISIM
+Cari Hesap
+A) Tanım ve şekil**
 
 ---
 
-Madde 89 - (1) İki kişinin herhangi bir hukuki sebep veya ilişkiden doğan alacaklarını teker teker ve ayrı a yrı istemekten karşılıklı olarak vazgeçip bunları kalem kalem alacak ve borç şekline çevirerek hesabın kesilmesinden sonra çıkacak artan tutarı isteyebileceklerine ilişkin sözleşme cari hesap sözleşmesidir. (2) Bu sözleşme yazılı yapılmadıkça geçerli olma z.
+MADDE 89- (1) İki kişinin herhangi bir hukuki sebep veya ilişkiden doğan
+alacaklarını teker teker ve ayrı ayrı istemekten karşılıklı olarak vazgeçip bunları kalem kalem
+alacak ve borç şekline çevirerek hesabın kesilmesinden sonra çıkacak artan tutarı
+isteyebileceklerine ilişkin sözleşme cari hesap sözleşmesidir.
+(2) Bu sözleşme yazılı yapılmadıkça geçerli olmaz.
 
 ---
 

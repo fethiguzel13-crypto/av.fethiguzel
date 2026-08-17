@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4275
 ---
 
-**İflas idaresinin vazife ve mes’uliyeti**
+**İflas idaresinin vazife ve mes’uliyeti:**
 
 ---
 
@@ -24,7 +24,8 @@ seçer.
 İflas idaresini teşkil edenler kusurlarından ileri gelen zarardan sorumludurlar. Bu
 davalara adliye mahkemelerinde bakılır.
 İflas idaresini teşkil edenler Türk Ceza Kanununun uygulanmasında memur sayılırlar.
-Üçüncü şahısların istihkak iddiaları:
+
+---
 
 ### Akademik Yorum ve Analiz
 

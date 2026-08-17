@@ -7,13 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**II
-- Ticaret unvanının şekli
+**II - Ticaret unvanının şekli
 1. Gerçek kişiler**
 
 ---
 
-Madde 41 - (1) Gerçek kişi olan tacirin ticaret unvanı 46 ncı maddeye uygun olarak yapabileceği ekler ile kısaltılmadan yazılacak adı ve soyadından oluşur.
+MADDE 41- (1) Gerçek kişi olan tacirin ticaret unvanı 46 ncı maddeye uygun olarak
+yapabileceği ekler ile kısaltılmadan yazılacak adı ve soyadından oluşur.
 
 ---
 

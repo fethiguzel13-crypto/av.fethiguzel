@@ -7,10 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-b) Organın temsilcisi, bağımsız temsilci ve kurumsal temsilci
-MADDE 428- (Mülga: 15/2/2018-7099/23 md.) [1]
+**b) Organın temsilcisi, bağımsız temsilci ve kurumsal temsilci**
 
 ---
+
+MADDE 428- (Mülga: 15/2/2018-7099/23 md.)
 
 ---
 

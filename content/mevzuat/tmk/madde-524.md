@@ -12,7 +12,8 @@ wordCount: 4300
 
 ---
 
-Madde 524 - Önmirasçı, mirası at anmış mirasçılar gibi kazan ır. Önmirasçı, mirasa artmirasçıya geç irme y ükümlülüğü ile sahip olur.
+Madde 524- Önmirasçı, mirası atanmış mirasçılar gibi kazanır.
+Önmirasçı, mirasa artmirasçıya geçirme yükümlülüğü ile sahip olur.
 
 ---
 

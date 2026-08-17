@@ -16,12 +16,8 @@ yürürlükten kaldırılmıştır.
 (2) Mevzuatta 4320 sayılı Kanuna yapılan atıflar bu Kanuna yapılmış sayılır.
 (3) Bu Kanunun yürürlüğe girmesinden önce 4320 sayılı Kanun hükümlerine göre
 verilen kararların uygulanmasına devam olunur.
-Şiddet önleme ve izleme merkezlerinin faaliyete geçmesi
-GEÇİCİ MADDE 1 – (1) Bu Kanunun 14 üncü maddesinde kurulması öngörülen
-şiddet önleme ve izleme merkezleri, Kanunun yürürlüğe girdiği tarihten itibaren iki yıl içinde
-Bakanlık tarafından belirlenecek illerde pilot uygulama yapılmak üzere kurulur. Kuruluşları
-tamamlanıncaya kadar merkezlerin görevlerinin Bakanlığın hangi birimlerince yürütüleceği
-Bakanlık tarafından belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,7 @@ wordCount: 4309
 
 ---
 
-Madde 105 - Alacaklı, borç senedini kaybettiğini iddia ederse, borçlunun istemi
+MADDE 105- Alacaklı, borç senedini kaybettiğini iddia ederse, borçlunun istemi
 üzerine, borcu ödeme sırasında, kendisine borç senedinin iptalini ve borcun sona ermiş
 olduğunu gösteren resmen düzenlenmiş veya usulüne göre onaylanmış bir belge vermek
 zorundadır.

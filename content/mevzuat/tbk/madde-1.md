@@ -13,11 +13,14 @@ keywords:
   - "iradelerin uyuşması"
 ---
 
-**1. Genel olarak**
+**Sözleşmeden Doğan Borç İlişkileri
+A. Sözleşmenin kurulması
+I. İrade açıklaması
+1. Genel olarak**
 
 ---
 
-Madde 1 - Sözleşme, tarafların iradelerini karşılıklı ve birbirine uygun olarak
+MADDE 1- Sözleşme, tarafların iradelerini karşılıklı ve birbirine uygun olarak
 açıklamalarıyla kurulur.
 İrade açıklaması, açık veya örtülü olabilir.
 

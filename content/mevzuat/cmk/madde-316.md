@@ -17,6 +17,8 @@ kuvvetli delil bulunmaması dışında bir nedenle ceza soruşturmasına başlan
 sürdürülememişse kabul edilebilir. Bu madde, 311 inci maddenin birinci fıkrasının (e)
 bendinde yazılı hâlde uygulanmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

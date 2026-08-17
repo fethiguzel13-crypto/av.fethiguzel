@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4277
 ---
 
-**2 – İtirazın kaldırılması**
+**2 – İtirazın kaldırılması:**
 
 ---
 
@@ -23,6 +23,8 @@ müracaat hakları saklıdır.
 (Değişik: 9/11/1988-3494/52 md.) Mahkemede açılan davada icra takibi sırasında
 inkar olunan imzanın kendisine ait olduğu anlaşılan kiracı veya kiralayan yüzbin liradan
 beşyüzbin liraya kadar para cezasına mahküm edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

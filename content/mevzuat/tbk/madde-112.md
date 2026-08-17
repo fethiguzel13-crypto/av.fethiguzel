@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**A. Borcun ifa edilmemesi
+**İKİNCİ AYIRIM
+Borçların İfa Edilmemesinin Sonuçları
+A. Borcun ifa edilmemesi
 I. Giderim borcu
 1. Genel olarak**
 
 ---
 
-Madde 112 - Borç hiç veya gereği gibi ifa edilmezse borçlu, kendisine hiçbir kusurun
+MADDE 112- Borç hiç veya gereği gibi ifa edilmezse borçlu, kendisine hiçbir kusurun
 yüklenemeyeceğini ispat etmedikçe, alacaklının bundan doğan zararını gidermekle yükümlüdür.
 
 ---

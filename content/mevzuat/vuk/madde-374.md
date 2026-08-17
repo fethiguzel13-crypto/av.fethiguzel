@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**Ceza kesmede zamanaşımı**
+**Ceza kesmede zamanaşımı:**
 
 ---
 
@@ -24,13 +24,8 @@ cezası ile usulsüzlüğün birleşmesi halinde kesilecek ceza, vergi ziyaı ce
 zamanaşımı süresi içinde kesilir.
 Bu süreler içinde ceza ihbarnamesi tebliğ edilmekle zamanaşımı kesilmiş olur.
 Vergi cezalarında yapılan hatalar:
-14/10/2021 tarihli ve 7338 sayılı Kanunun 42 nci maddesiyle bu bentte yer alan “her hangi bir vergi
-incelemesine başlandığı veya olayın” ibaresi “haber verilen olayın ilgili olduğu vergi türüne ilişkin bir vergi
-incelemesine başlandığı veya olayın ve ilgili olduğu vergi türünün” şeklinde değiştirilmiştir.
-147
 
-Madde 375 – Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli
-edilen usul ve şartlara göre düzeltilir.
+---
 
 ### Akademik Yorum ve Analiz
 

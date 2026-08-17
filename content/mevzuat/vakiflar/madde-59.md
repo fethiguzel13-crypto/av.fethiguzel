@@ -7,13 +7,13 @@ lastReviewed: "2026-07-27"
 wordCount: 3106
 ---
 
-**(Mülga: 2/7/2018/KHK/703/102 md.)**
+**Hukuk Müşavirliği**
 
 ---
 
-Madde 59 - (Mülga: 2/7/2018/KHK/703/102 md.)
+MADDE 59 (Mülga: 2/7/2018/KHK/703/102 md.)
 
-Rehberlik ve Teftiş Başkanlığı
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**İşi bırakmanın bildirilmesi**
+**ÜÇÜNCÜ BÖLÜM
+İşi Bırakma
+İşi bırakmanın bildirilmesi:**
 
 ---
 
@@ -17,6 +19,7 @@ dairesine bildirmeye mecburdurlar.
 (Ek fıkra: 22/7/1998-4369/3 md.; Değişik üçüncü fıkra: 16/7/2004-5228/6 md.) İşi
 bırakma bildiriminde bulunmayan bir mükellefin işi bıraktığının tespit edilmesi veya yapılan
 araştırma ve yoklamalar sonucunda bilinen adreslerinde bulunamaması ve başka bir adreste
+Bu madde ile ilgili olarak 22/7/1998 tarih ve 4369 sayılı Kanunun Geçici 5 inci maddesine bakınız.
 faaliyetine devam ettiğine dair bilgi edinilememesi veya başkaca bir ticarî, ziraî ve meslekî
 faaliyeti olmadığı halde münhasıran sahte belge düzenlemek amacıyla mükellefiyet tesis
 ettirdiğinin vergi incelemesine yetkili olanlarca düzenlenen rapor ile tespit edilmesi ve
@@ -35,7 +38,8 @@ kullanmış oldukları ödeme kaydedici cihazlara ilişkin bilgiler Maliye Bakan
 belirlenecek araçlarla duyurulur.
 (Ek fıkra: 16/7/2004-5228/6 md.) Bu maddenin uygulanmasına ilişkin usulleri
 belirlemeye Maliye Bakanlığı yetkilidir.
-Mükellefiyet kaydının analiz ve değerlendirme sonuçlarına bağlı olarak terkini:
+
+---
 
 ### Akademik Yorum ve Analiz
 

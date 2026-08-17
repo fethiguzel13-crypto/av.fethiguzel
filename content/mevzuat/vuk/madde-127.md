@@ -7,7 +7,11 @@ lastReviewed: "2026-07-11"
 wordCount: 2549
 ---
 
-**Maksat ve yetki**
+**YEDİNCİ KISIM
+Yoklama ve inceleme
+BİRİNCİ BÖLÜM
+Yoklama
+Maksat ve yetki:**
 
 ---
 
@@ -25,8 +29,7 @@ bulundurulmadığını, tasdikli olup olmadığını usulüne göre kayıt yapı
 kanunları uyarınca düzenlenmesi icap eden belgelerin usulüne göre düzenlenip
 düzenlenmediği ile kullanılıp kullanılmadığını, faturasız mal bulunup bulunmadığını, levha
 asma veya kullanma mecburiyetine uyulup uyulmadığını tespit etmek, kanuni defter ve
-
-belgeler dışında kalan ve vergi kaybının bulunduğuna emare teşkil eden defter, belge ve
+belgeler dışında kalan ve vergi kaybının bulunduğuna emare teşkil eden defter, belge ve
 delillerin tespit edilmesi halinde bunları almak,
 d) Nakil vasıtalarını, Maliye ve Gümrük Bakanlığının belirliyeceği özel işaretle
 durdurmak ve taşıtta bulundurulması icap eden taşıt pulu, yolcu listesi, fatura veya sevk
@@ -42,7 +45,9 @@ Yukarıda sayılan yetkilerin hangilerinin ne şekilde ve hangi hallerde kullan�
 belirlemeye, yoklamaya yetkili olanların bu husustaki görev ve yetkilerini sınırlamaya Maliye
 ve Gümrük Bakanlığı yetkilidir.
 Yoklama ve denetimde görevli memurların görevlerini ifa sırasında, güvenliklerinin
-sağlanmasına ilişkin esaslar Cumhurbaşkanınca belirlenir.33
+sağlanmasına ilişkin esaslar Cumhurbaşkanınca belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

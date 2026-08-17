@@ -18,6 +18,8 @@ cezası ile cezalandırılır.
 (2) Suçun, adlî kolluk görevini yapan kişi tarafından işlenmesi halinde, yukarıdaki
 fıkraya göre verilecek ceza yarı oranında artırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

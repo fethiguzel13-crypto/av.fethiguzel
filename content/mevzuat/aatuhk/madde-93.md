@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Gayrimenkul satışında ilan**
+**Gayrimenkul satışında ilan:**
 
 ---
 
@@ -18,6 +18,8 @@ Maliye Vekaletince tayin olunur.
 vasıfları gösterilir.
 İlanın birer örneği, borçluya, vekil veya mümessiline ve gayrimenkulün tapu sicilinde
 hakkı kayıtlı bulunanlardan adresi belli olanlara tebliğ olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

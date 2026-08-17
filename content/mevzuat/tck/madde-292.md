@@ -23,7 +23,8 @@ ağırlaşmış hallerinin veya kasten öldürme suçunun gerçekleşmesi ya da 
 durumunda, ayrıca bu suçlara ilişkin hükümlere göre cezaya hükmolunur.
 (5) Bu maddede yazılı hükümler, ceza infaz kurumu dışında çalıştırılan hükümlüler ile
 hapis cezası adlî para cezasından çevrilmiş olanlar hakkında da uygulanır.
-(6) (Mülga: 29/6/2005 – 5377/33 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

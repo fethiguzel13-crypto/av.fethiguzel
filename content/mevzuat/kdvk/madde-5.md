@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
-**Hizmet sayılan haller**
+**Hizmet sayılan haller:**
 
 ---
 
 Madde 5 – Vergiye tabi bir hizmetten, işletme sahibinin, işletme personelinin veya
 diğer şahısların karşılıksız yararlandırılması hizmet sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

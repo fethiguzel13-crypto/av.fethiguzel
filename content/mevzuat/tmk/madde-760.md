@@ -11,7 +11,9 @@ wordCount: 4319
 
 ---
 
-Madde 760 - Özel mülkiyete tâbi arazide bulunan kaynak, kuyu veya derelerden komşuların ve di ğer kişilerin su içme, su alma veya hayvan sulama ya da benzer yollarla yararlanmaları öze l kanun hükümlerine tâbidir. Özel kanun hükmü yoksa yerel âdet uygulanır.
+Madde 760- Özel mülkiyete tâbi arazide bulunan kaynak, kuyu veya derelerden
+komşuların ve diğer kişilerin su içme, su alma veya hayvan sulama ya da benzer yollarla
+yararlanmaları özel kanun hükümlerine tâbidir. Özel kanun hükmü yoksa yerel âdet uygulanır.
 
 ---
 

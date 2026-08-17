@@ -27,7 +27,7 @@ durdurmaz. Ancak talep edilmesi şartıyla hâkim, tüketici hakem heyeti karar�
 tedbir yoluyla durdurabilir.
 (4) İtiraz olunan kararın, esas yönünden kanuna uygun olup da, kanunun olaya
 uygulanmasında hata edilmiş olmasından dolayı itirazın kabul edilmesi gerektiği veya kanuna
-uymayan husus hakkında yeniden yargılamayı gerekmediği takdirde tüketici mahkemesi
+uymayan husus hakkında yeniden yargılamayı gerektirmediği takdirde tüketici mahkemesi
 evrak üzerinde, kararı değiştirerek veya düzelterek onama kararı verebilir. Tarafların
 kimliklerine, ticari unvanlarına ait yanlışlıklarla, yazı, hesap veya diğer açık ifade yanlışlıkları
 hakkında da bu hüküm uygulanır. Karar, usule ve kanuna uygun olup da gösterilen gerekçe
@@ -45,6 +45,8 @@ verilen kararlarda tebligat ve bilirkişi ücretleri Bakanlıkça karşılanır.
 tüketicinin lehine sonuçlanması durumunda ise, tebligat ve bilirkişi ücretleri 21/7/1953 tarihli
 ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre karşı
 taraftan tahsil olunarak bütçeye gelir kaydedilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

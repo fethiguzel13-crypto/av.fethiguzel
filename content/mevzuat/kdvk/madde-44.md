@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**Tarhiyatın muhatabı**
+**Tarhiyatın muhatabı:**
 
 ---
 
@@ -24,6 +24,8 @@ temsilcisinin mevcudiyeti halinde mükellefin tayin edeceği temsilci; tarhiyat 
 böyle bir tayin yapılmamışsa temsilci lerden herhangi birisi, daimi temsilci mevcut değilse
 işlemleri mükellef adına yapanlar,
 Tarhiyata muhatap tutulurlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

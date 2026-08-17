@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**II
-- Olağanü stü giderlerin karşılanması**
+**II - Olağanüstü giderlerin karşılanması**
 
 ---
 
-Madde 117 - (1) Acente, yükümlülüklerini yerine getirmek için yaptıklarından ancak olağanüstü giderlerin ödenmesini isteyebilir.
+MADDE 117- (1) Acente, yükümlülüklerini yerine getirmek için yaptıklarından ancak
+olağanüstü giderlerin ödenmesini isteyebilir.
 
 ---
 

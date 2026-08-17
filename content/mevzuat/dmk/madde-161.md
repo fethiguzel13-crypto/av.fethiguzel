@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Derece değişikliğinde verilecek aylık**
+**(Mülga ikinci fıkra: 13/2/2011 - 6111/117 md.)
+Derece değişikliğinde verilecek aylık:**
 
 ---
 
@@ -24,10 +25,11 @@ Alt derecede eşit göstergeli kademede geçirilen süre dikkate alınır.
 B) Kazanılmış hak aylık derecelerinden daha aşağı bir dereceye atanan memur,
 kazanılmış hak aylık dereceleri saklı kalmak kaydıyla,
 a) Atandığı derecede eski derecesinde almakta olduğu kademe göstergesine,
-
-b) Atandığı derecede eşit gösterge yok ise, eski göstergesine en yakın kademenin
+b) Atandığı derecede eşit gösterge yok ise, eski göstergesine en yakın kademenin
 göstergesine,
 Tekabül eden aylığı alır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

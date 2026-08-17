@@ -16,9 +16,7 @@ a) Arabuluculuk hizmetlerinin düzenli ve verimli olarak yürütülmesini sağla
 b) Arabuluculukla ilgili yayın yapmak, bu konudaki bilimsel çalışmaları teşvik etmek
 ve desteklemek.
 c) Kurulun çalışması ile ilgili her türlü karar ve işlemi yürütmek ve görevleri ile ilgili
-
-
-bakanlık, diğer kamu kurum ve kuruluşları, üniversiteler, kamu kurumu niteliğindeki meslek
+bakanlık, diğer kamu kurum ve kuruluşları, üniversiteler, kamu kurumu niteliğindeki meslek
 kuruluşları, kamu yararına çalışan vakıf ve dernekler ile uygun görülen gönüllü gerçek ve
 tüzel kişilerle işbirliği yapmak.
 ç) Arabuluculuk kurumunun tanıtımını yapmak, bu konuda kamuoyunu bilgilendirmek,
@@ -40,6 +38,8 @@ yaparak Genel Müdürlüğe öneride bulunmak.
 h) Yıllık faaliyet raporunu ve izleyen yıl faaliyet planını hazırlayarak Kurulun
 bilgisine sunmak.
 ı) Yıllık Arabuluculuk Asgari Ücret Tarifesini hazırlamak.
+
+---
 
 ### Akademik Yorum ve Analiz
 

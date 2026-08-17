@@ -18,6 +18,8 @@ vakıf yönetimine Genel Müdürlükçe her bir eylem için beşyüz Türk Liras
 verilir. İdarî para cezalarına karşı tebliğ tarihinden itibaren onbeş gün içinde 30/3/2005 tarihli
 ve 5326 sayılı Kabahatler Kanunu hükümlerine göre kanun yoluna başvurulabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

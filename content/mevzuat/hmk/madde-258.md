@@ -20,6 +20,8 @@ da cevaben, “Sorulacak sorulara, hiçbir şey saklamadan doğru cevap vereceğ
 şerefim ve kutsal saydığım bütün inanç ve değerlerim üzerine yemin ediyorum.” demekle
 yemin eda edilmiş sayılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

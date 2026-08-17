@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Tüzel kişinin temsili**
+**ÜÇÜNCÜ BÖLÜM
+Tüzel Kişilerin Soruşturmada ve Kovuşturmada Temsili
+Tüzel kişinin temsili**
 
 ---
 
@@ -18,6 +20,8 @@ savunma makamı yanında yer alan sıfatıyla duruşmaya kabul edilir.
 sağladığı haklardan yararlanır.
 (3) Birinci fıkra hükmü, sanığın aynı zamanda tüzel kişinin organ veya temsilcisi
 sıfatını taşıması hâlinde uygulanmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

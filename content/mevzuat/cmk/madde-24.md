@@ -15,9 +15,11 @@ Madde 24 – (1) Hâkimin davaya bakamayacağı hâllerde reddi istenebileceği 
 tarafsızlığını şüpheye düşürecek diğer sebeplerden dolayı da reddi istenebilir.
 (2) Cumhuriyet savcısı; şüpheli, sanık veya bunların müdafii; katılan veya vekili,
 hâkimin reddi isteminde bulunabilirler.
-
-(3) Bunlardan herhangi biri istediği takdirde, karar veya hükme katılacak hâkimlerin
+(3) Bunlardan herhangi biri istediği takdirde, karar veya hükme katılacak hâkimlerin
 isimleri kendisine bildirilir.
+Tarafsızlığını şüpheye düşürecek sebeplerden dolayı hâkimin reddi isteminin süresi
+
+---
 
 ### Akademik Yorum ve Analiz
 

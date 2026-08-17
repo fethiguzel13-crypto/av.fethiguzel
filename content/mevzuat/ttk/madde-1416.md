@@ -11,7 +11,10 @@ wordCount: 4297
 
 ---
 
-Madde 1416 - (1) Sigorta ettiren tarafından yapılacak tebliğler ve bildirimler sigortacıya veya sözleşmeyi yapan ya da yapılmasına aracılık eden acenteye; sigortacı tarafından yapılan tebliğler ve bil dirimler ise, sigorta ettirenin veya gerektiğinde sigortalının ya da lehtarın sigortacıya bildirilmiş son adreslerine yapılır.
+MADDE 1416- (1) Sigorta ettiren tarafından yapılacak tebliğler ve bildirimler
+sigortacıya veya sözleşmeyi yapan ya da yapılmasına aracılık eden acenteye; sigortacı
+tarafından yapılan tebliğler ve bildirimler ise, sigorta ettirenin veya gerektiğinde sigortalının
+ya da lehtarın sigortacıya bildirilmiş son adreslerine yapılır.
 
 ---
 

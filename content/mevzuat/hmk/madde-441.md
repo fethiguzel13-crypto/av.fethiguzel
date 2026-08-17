@@ -24,6 +24,8 @@ e) Bu Kanuna göre mahkemelere yapılacak başvurularda alınan yargı harçlar�
 f) Tahkim yargılamasına ilişkin tebligat giderlerini,
 kapsar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

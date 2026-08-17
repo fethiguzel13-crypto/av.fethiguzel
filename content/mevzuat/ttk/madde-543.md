@@ -11,7 +11,15 @@ wordCount: 4310
 
 ---
 
-Madde 543 - (1) Tasfiye hâlinde bulunan şirke tin borçları ödendikten ve pay bedelleri geri verildikten sonra kalan varlığı, esas sözleşmede aksi kararlaştırılmamışsa pay sahipleri arasında, ödedikleri sermayeler ve imtiyaz hakları oranında dağıtılır. Tasfiye payında imtiyazın varlığı hâlinde esas söz leşmedeki düzenleme uygulanır. (2) Alacaklılara üçüncü kez yapılan çağrı tarihinden itibaren üç ay geçmedikçe kalan varlık dağıtılamaz. Şu kadar ki, hâl ve duruma göre alacaklılar için bir tehlike mevcut olmadığı takdirde mahkeme üç ay geçmeden de dağıtmay a izin verebilir. 73 74 (3) Esas sözleşme ve genel kurul kararında aksine hüküm bulunmadıkça, dağıtma para olarak yapılır.
+MADDE 543- (1) Tasfiye hâlinde bulunan şirketin borçları ödendikten ve pay
+bedelleri geri verildikten sonra kalan varlığı, esas sözleşmede aksi kararlaştırılmamışsa pay
+sahipleri arasında, ödedikleri sermayeler ve imtiyaz hakları oranında dağıtılır. Tasfiye payında
+imtiyazın varlığı hâlinde esas sözleşmedeki düzenleme uygulanır.
+(2) Alacaklılara üçüncü kez yapılan çağrı tarihinden itibaren üç ay geçmedikçe kalan
+varlık dağıtılamaz. Şu kadar ki, hâl ve duruma göre alacaklılar için bir tehlike mevcut
+olmadığı takdirde mahkeme üç ay geçmeden de dağıtmaya izin verebilir.
+(3) Esas sözleşme ve genel kurul kararında aksine hüküm bulunmadıkça, dağıtma para
+olarak yapılır.
 
 ---
 

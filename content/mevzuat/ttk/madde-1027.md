@@ -7,11 +7,19 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**Madde 1027**
+**dd) Sigortacının borcundan kurtulması**
 
 ---
 
-Madde 1027 - (1) Sigortacı, sigo rta ettirenin veya sigortalının fiili yüzünden, tazminat ödeme borcundan kurtulsa bile, ipotekli alacaklıya karşı olan borcu varlığını sürdürür. Sigortacının rizikonun gerçekleşmesinden sonra sözleşmeden cayması hâlinde de aynı hüküm geçerlidir. (2) Sigort acı; a) Sigorta primi zamanında ödenmediği, b) Gemi, denize veya yola elverişsiz bir hâlde yola çıktığı, c) Gemi bildirilen veya mutat rotadan ayrıldığı, için borcundan kurtulursa, birinci fıkranın birinci cümlesi uygulanmaz. ee) İpoteğin ödeyen sigortacı ya geçmesi
+MADDE 1027- (1) Sigortacı, sigorta ettirenin veya sigortalının fiili yüzünden,
+tazminat ödeme borcundan kurtulsa bile, ipotekli alacaklıya karşı olan borcu varlığını
+sürdürür. Sigortacının rizikonun gerçekleşmesinden sonra sözleşmeden cayması hâlinde de
+aynı hüküm geçerlidir.
+(2) Sigortacı;
+a) Sigorta primi zamanında ödenmediği,
+b) Gemi, denize veya yola elverişsiz bir hâlde yola çıktığı,
+c) Gemi bildirilen veya mutat rotadan ayrıldığı,
+için borcundan kurtulursa, birinci fıkranın birinci cümlesi uygulanmaz.
 
 ---
 

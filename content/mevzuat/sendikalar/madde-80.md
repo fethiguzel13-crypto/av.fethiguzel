@@ -20,6 +20,8 @@ düzenleyen diğer kanunların bu Kanuna aykırı olmayan hükümleri uygulanır
 (3) Bu Kanunda aksi öngörülmedikçe, bu Kanunun uygulanmasına ilişkin tebligat
 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümlerine göre yapılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

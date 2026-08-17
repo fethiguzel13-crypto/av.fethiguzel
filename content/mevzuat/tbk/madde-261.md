@@ -11,7 +11,7 @@ wordCount: 4303
 
 ---
 
-Madde 261 - Hâkim, temerrüde düşen alıcının borçlarını ödeyeceği konusunda
+MADDE 261- Hâkim, temerrüde düşen alıcının borçlarını ödeyeceği konusunda
 güvence vermesi ve satıcının da bu yeni düzenleme dolayısıyla herhangi bir zararının söz
 konusu olmaması koşuluyla, alıcıya ödeme kolaylıkları sağlayabilir ve satıcının satılanı geri
 almasını yasaklayabilir.

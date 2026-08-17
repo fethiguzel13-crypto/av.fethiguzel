@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**XII
-- Yetkili mahkeme**
+**XII- Yetkili mahkeme**
 
 ---
 
-Madde 1087 - (1) Paydaş donatanlar aleyhine bu sıfatları dolayısıyla diğer paydaş donatanlar veya üçüncü kişiler tarafından herhangi bir alacaktan dolayı geminin bağlama limanının bulunduğu y er mahkemesinde de dava açılabilir. (2) Davanın paydaş donatanlardan biri veya birkaçı aleyhine açılmış olması hâlinde de aynı hüküm uygulanır. ÜÇÜNCÜ KISIM Kaptan A) özen yükümlülüğü
+MADDE 1087- (1) Paydaş donatanlar aleyhine bu sıfatları dolayısıyla diğer paydaş
+donatanlar veya üçüncü kişiler tarafından herhangi bir alacaktan dolayı geminin bağlama
+limanının bulunduğu yer mahkemesinde de dava açılabilir.
+(2) Davanın paydaş donatanlardan biri veya birkaçı aleyhine açılmış olması hâlinde de
+aynı hüküm uygulanır.
 
 ---
 

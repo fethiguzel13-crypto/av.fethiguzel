@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
-**II
-- Tontin**
+**II - Tontin**
 
 ---
 
-Madde 1488 - (1) Birden çok kişi tarafından verilen katkı payları ile oluşturulan varlıkların, belirli bir tarihte hayatta kalanlar ve ölenin önceden belirlemiş olması hâlinde, lehtarlar arasında paylaştırılması ilkesi uyarınca tontinler kurulabilir.
+MADDE 1488- (1) Birden çok kişi tarafından verilen katkı payları ile oluşturulan
+varlıkların, belirli bir tarihte hayatta kalanlar ve ölenin önceden belirlemiş olması hâlinde,
+lehtarlar arasında paylaştırılması ilkesi uyarınca tontinler kurulabilir.
 
 ---
 

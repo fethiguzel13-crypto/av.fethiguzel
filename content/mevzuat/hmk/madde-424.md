@@ -17,6 +17,8 @@ kararlaştırabilir ya da tahkim kurallarına yollama yaparak belirleyebilirler.
 böyle bir sözleşme yoksa hakem veya hakem kurulu, tahkim yargılamasını, bu Kısmın
 hükümlerini gözeterek uygun bulduğu bir şekilde yürütür.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

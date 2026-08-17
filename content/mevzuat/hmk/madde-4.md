@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Sulh hukuk mahkemelerinin görevi**
+**2012/23 sayılı Kararı ile. )
+Sulh hukuk mahkemelerinin görevi**
 
 ---
 
@@ -20,10 +21,11 @@ karşı açılan davaları,
 b) Taşınır ve taşınmaz mal veya hakkın paylaştırılmasına ve ortaklığın giderilmesine
 ilişkin davaları,
 c) Taşınır ve taşınmaz mallarda, sadece zilyetliğin korunmasına yönelik olan davaları,
-
-ç) Bu Kanun ile diğer kanunların, sulh hukuk mahkemesi veya sulh hukuk hâkimini
+ç) Bu Kanun ile diğer kanunların, sulh hukuk mahkemesi veya sulh hukuk hâkimini
 görevlendirdiği davaları,
 görürler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

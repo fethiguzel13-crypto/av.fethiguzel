@@ -7,13 +7,9 @@ lastReviewed: "2026-07-27"
 wordCount: 3116
 ---
 
-**(Mülga: 31/5/2006 - 5510/106 md.)**
+Madde 107 – (Mülga: 31/5/2006 - 5510/106 md.)
 
 ---
-
-Madde 107 - (Mülga: 31/5/2006 - 5510/106 md.)
-
-Aylıksız izin:[173]
 
 ### Akademik Yorum ve Analiz
 

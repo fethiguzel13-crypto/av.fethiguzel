@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4280
 ---
 
-**b) İpotek sahipleri nin**
+**b) İpotek sahiplerinin**
 
 ---
 
-Madde 1381 - (1) Akdî veya kanuni gemi ipoteği alacaklıları, ipoteğin paraya çevrilmesi yoluyla takip yapabilirler. Bu hüküm, Türk ve yabancı bayraklı bütün gemilere uygulanır.
+MADDE 1381- (1) Akdî veya kanuni gemi ipoteği alacaklıları, ipoteğin paraya
+çevrilmesi yoluyla takip yapabilirler. Bu hüküm, Türk ve yabancı bayraklı bütün gemilere
+uygulanır.
 
 ---
 

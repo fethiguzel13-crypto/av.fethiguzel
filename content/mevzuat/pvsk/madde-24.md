@@ -7,11 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**bulunmıyan vazife ve salahiyetlerin hükümleri bakidir.**
+Madde 24 – Mahsus zabıta teşkilatı olan işlerde bu teşkilata mensup memur
+bulunmadığı yerlerde polis, bunlara ait inzıbati muameleleri yapmağa salahiyetlidir.
 
 ---
-
-Madde 24 – Mahsus zabıta teşkilatı olan işlerde bu teşkilata mensup memur
 
 ### Akademik Yorum ve Analiz
 

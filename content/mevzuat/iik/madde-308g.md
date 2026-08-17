@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**Konkordatoda harç, vergi istisnaları ve teşvik belgeleri**
+**Konkordatoda harç, vergi istisnaları ve teşvik belgeleri:**
 
 ---
 
@@ -25,9 +25,8 @@ hükümlerinden yararlanamaz.
 Konkordato projesine göre borçları yeni bir itfa plânına bağlanan borçlulara ait olan
 teşvik belgelerinin süreleri ile ihracat taahhüt süreleri, geçici mühlet kararının verildiği
 tarihten konkordatonun bağlayıcı hâle geldiği tarihe kadar işlemez.
-II. REHİNLİ ALACAKLILARLA MÜZAKERE VE BORÇLARIN
-YAPILANDIRILMASI107
-Rehinli alacaklılarla müzakere şartları ve yapılandırmanın hükümleri:
+
+---
 
 ### Akademik Yorum ve Analiz
 

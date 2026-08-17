@@ -13,7 +13,7 @@ I. Zilyetliğin devri
 
 ---
 
-Madde 210 - Satıcı, satılanın mülkiyetini geçirmek amacıyla, zilyetliğini alıcıya
+MADDE 210- Satıcı, satılanın mülkiyetini geçirmek amacıyla, zilyetliğini alıcıya
 devretmekle yükümlüdür.
 
 ---

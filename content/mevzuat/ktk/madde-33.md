@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**Taşınması özel izne bağlı yükler ile trafiğe çıkışları özel izne bağlı araçlar**
+**Taşınması özel izne bağlı yükler ile trafiğe çıkışları özel izne bağlı araçlar:**
 
 ---
 
@@ -28,6 +28,8 @@ desteğinin alınması halinde destek verilecek her gün için 16.000 Türk lira
 alınır ve bu bedel her yıl, bir önceki yıla ilişkin olarak 4/1/1961 tarihli ve 213 sayılı Vergi
 Usul Kanununun mükerrer 298 inci maddesi uyarınca tespit ve ilan edilen yeniden değerleme
 oranında artırılarak uygulanır. Bu hizmet bedeli genel bütçeye gelir kaydedilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

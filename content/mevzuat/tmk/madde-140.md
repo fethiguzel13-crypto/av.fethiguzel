@@ -11,7 +11,8 @@ wordCount: 4283
 
 ---
 
-Madde 140 - Evlenme k oşull arını n bulunmadığının anlaşılması veya belgelerin verilmesinden başlayarak altı ayın geçmesi hâlinde, evlendirme memuru evlenme törenini yapamaz.
+Madde 140- Evlenme koşullarının bulunmadığının anlaşılması veya belgelerin verilmesinden
+başlayarak altı ayın geçmesi hâlinde, evlendirme memuru evlenme törenini yapamaz.
 
 ---
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Tanımlar**
+**İKİNCİ BÖLÜM
+Tanımlar
+Tanımlar:**
 
 ---
 
@@ -41,7 +43,7 @@ veya bu yola girerken, ilk geçiş hakkını vermesi gerektiği işaretlerle bel
 Tali yol: Genel olarak üzerindeki trafik yoğunluğu bakımından, bağlandığı yoldan daha
 az önemde olan yoldur.
 Taşıt yolu: (Kaplama): Karayolunun genel olarak taşıt trafiğince kullanılan kısmıdır.
-Yaya yolu (Yaya kaldırı): Karayolunun, taşıt yolu kenarı ile gerçek veya tüzelkişilere
+Yaya yolu (Yaya kaldırımı): Karayolunun, taşıt yolu kenarı ile gerçek veya tüzelkişilere
 ait mülkler arasında kalan ve yalnız yayaların kullanımına ayrılmış olan kısmıdır.
 Bisiklet yolu: (Değişik:24/12/2020-7261/22 md.) Bisiklet ve elektrikli skuter sürüşüne
 ayrılan, taşıt yolu ve yaya alanları ile kesişim noktaları hariç diğer araç ve yaya trafiğine kapalı
@@ -221,6 +223,8 @@ skuter kullanımı için özel olarak belirlenmiş ve yer işaretlemesi ile ayr�
 Bu Kanunun uygulaması ile ilgili diğer tanım ve terimler yönetmelikte gösterilir. (Ek
 cümle: 12/7/2013-6495/13 md.) Bu maddedeki tanım ve terimlerle ilgili olarak vergi kanunları
 hükümleri saklıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

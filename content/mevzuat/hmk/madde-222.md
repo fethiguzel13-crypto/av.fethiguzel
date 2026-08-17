@@ -23,12 +23,14 @@ defterlerini ibraz etmemesi yahut defter kayıtlarının aksinin senet veya diğ
 ispatlanmamış olması gerekir. (Ek cümle:22/7/2020-7251/23 md.) Diğer tarafın ikinci
 fıkrada yazılan şartlara uygun olarak tutulan ticari defterlerinin, ilgili hususta hiçbir kayıt
 içermemesi hâlinde ticari defterler, sahibi lehine delil olarak kullanılamaz. Bu şartlara uygun
-olarak tutulan defterlerdeki sahibi lehine ve aleyhine olan kayıtlar birbirinden ayrılamaz.24
+olarak tutulan defterlerdeki sahibi lehine ve aleyhine olan kayıtlar birbirinden ayrılamaz.
 (4) Açılış veya kapanış onayları bulunmayan ve içerdiği kayıtlar birbirini doğrulamayan
 ticari defter kayıtları, sahibi aleyhine delil olur.
 (5) Taraflardan biri tacir olmasa dahi, tacir olan diğer tarafın ticari defterlerindeki
 kayıtları kabul edeceğini belirtir; ancak, karşı taraf defterlerini ibrazdan kaçınırsa, ibrazı talep
 eden taraf iddiasını ispat etmiş sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

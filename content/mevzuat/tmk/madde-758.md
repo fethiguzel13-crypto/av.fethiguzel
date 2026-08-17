@@ -11,7 +11,10 @@ wordCount: 4259
 
 ---
 
-Madde 758 - Bir taşınmazd a oturmak, onu işletmek veya bir yerin içme ya da kullanma suy unu sağlamak için gerekli olan kaynaklar kesilir ve kirletilirse, kaynağın olabildiği ölçü de eski duruma getirilmesi istenebilir. Bunlar dışında eski duruma getirme, ancak özel hâller haklı göst erdiği takdirde istenebilir.
+Madde 758- Bir taşınmazda oturmak, onu işletmek veya bir yerin içme ya da kullanma
+suyunu sağlamak için gerekli olan kaynaklar kesilir ve kirletilirse, kaynağın olabildiği ölçüde
+eski duruma getirilmesi istenebilir.
+Bunlar dışında eski duruma getirme, ancak özel hâller haklı gösterdiği takdirde istenebilir.
 
 ---
 

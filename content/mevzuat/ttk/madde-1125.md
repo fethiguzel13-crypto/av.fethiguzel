@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**IV
-- Gemiyi kullanma hakkı**
+**IV- Gemiyi kullanma hakkı**
 
 ---
 
-Madde 1125 - (1) Kiracı, gemiyi tahsis amacına uygun olarak sözleşme hükümleri çerçevesinde dilediği gibi kullanabilir. (2) Kiracı, kiraya verenin geminin dona tımı için sözleşme hükümlerine göre gemide bıraktığı her tür malzeme ve teçhizatı, sözleşmenin bitiminde aynı nitelik ve nicelikte teslim etmek şartıyla kullanma hakkına sahiptir.
+MADDE 1125- (1) Kiracı, gemiyi tahsis amacına uygun olarak sözleşme hükümleri
+çerçevesinde dilediği gibi kullanabilir.
+(2) Kiracı, kiraya verenin geminin donatımı için sözleşme hükümlerine göre gemide
+bıraktığı her tür malzeme ve teçhizatı, sözleşmenin bitiminde aynı nitelik ve nicelikte teslim
+etmek şartıyla kullanma hakkına sahiptir.
 
 ---
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**tazmini:70**
+**tazmini:**
 
 ---
 
@@ -24,6 +24,8 @@ zararın vuku bulduğunu ispat etmesi halinde zarar veren işleten veya işletic
 teşebbüs sahibi tazminatla yükümlü tutulur.
 Tazminatla yükümlü olan işletenler veya işleticinin bağlı olduğu teşebbüs sahipleri zarar
 gören işletene veya işleticinin bağlı olduğu teşebbüs sahibine karşı müteselsilen sorumludurlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

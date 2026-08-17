@@ -20,6 +20,8 @@ kesinleşmiş mahkeme kararıyla belirlenirse, mahkeme kararının lokavt yapmı
 işveren sendikasına bildirilmesi ile birlikte lokavt durdurulur. Mahkeme kararına rağmen lokavtın
 uygulanmaya devam edilmesi, işçilere 70 inci madde hükümlerinden yararlanma hakkı verir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

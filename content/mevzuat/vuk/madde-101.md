@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**Bilinen adresler**
+**Bilinen adresler:**
 
 ---
 
@@ -19,8 +19,7 @@ adresleri,
 bir tutanakla tespit edilen işyeri adresleri,
 3. 25/4/2006 tarihli ve 5490 sayılı Nüfus Hizmetleri Kanununa göre oluşturulan adres
 kayıt sisteminde bulunan yerleşim yeri adresi.
-
-Birinci fıkranın (1) ve (2) numaralı bentlerinde yazılı bilinen adreslerden tarih
+Birinci fıkranın (1) ve (2) numaralı bentlerinde yazılı bilinen adreslerden tarih
 itibarıyla tebligat yapacak makama en son olarak bildirilmiş veya bu makamca tespit edilmiş
 olanı dikkate alınır ve tebliğ öncelikle bu adreste yapılır.
 İşyeri adresinde tebliğ yapılacak olanların bu adresinde bulunamaması, işin
@@ -30,6 +29,8 @@ olmayan teşekküllerde ise bunları idare edenler veya varsa temsilcilerinden h
 adres kayıt sisteminde bulunan yerleşim yeri adresinde yapılır.
 İşyeri adresi olmayanlara tebliğ, doğrudan adres kayıt sisteminde bulunan yerleşim
 yeri adresinde yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

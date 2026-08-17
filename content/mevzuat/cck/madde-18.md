@@ -7,13 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Çocuğun nakli**
+**Akıl hastalığı dışında ruhsal rahatsızlığı olan hükümlülerin cezalarının infazı**
 
 ---
 
-Madde 18- (1) Çocuklara zincir, kelepçe ve benzeri aletler takılamaz. Ancak; zorunlu
-hâllerde çocuğun kaçmasını, kendisinin veya başkalarının hayat veya beden bütünlükleri
-bakımından doğabilecek tehlikeleri önlemek için kolluk tarafından gerekli önlem alınabilir.
+Madde 18- (1) Hapsedilme ve diğer nedenlerden kaynaklanan akıl hastalığı dışında
+ruhsal rahatsızlıkları bulunup da ruh ve sinir hastalıkları hastanelerinde tutulmaları gerekli
+görülmeyerek infaz kurumlarına geri gönderilenlerin cezaları, belirlenen infaz kurumlarının
+mahsus bölümlerinde infaz edilir.
+(2) Birinci fıkrada belirtilenlerin cezalarının infazı için belirlenen infaz kurumlarının
+ihtiyaç duyduğu uzman ve diğer tıp görevlileri, Sağlık Bakanlığınca karşılanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

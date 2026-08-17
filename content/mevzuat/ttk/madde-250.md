@@ -7,14 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**II
-- Hükümleri
+**II - Hükümleri
 1. Tescil ve ilan**
 
 ---
 
-Madde 250 - (1) Şirketin sona ermesi hâlinde ortaklar sona ermeyi tescil ve ilan ettirmekle yükümlüdür. İflas sebebiyle şirketin infisahı hâlinde bu yükümlülük iflas memuruna aittir.
-(2) Şirketin feshi bir ortağın ölümünden ileri gelmişse tescil ve ilan dilekçesi, ölen ortağın mirasçılarıyla birlikte diğer tüm ortaklar; mirasçıların katılması mümkün bulunmayan veya güç olan hâllerde, sağ kal an ortaklar tarafından verilir.
+MADDE 250- (1) Şirketin sona ermesi hâlinde ortaklar sona ermeyi tescil ve ilan
+ettirmekle yükümlüdür. İflas sebebiyle şirketin infisahı hâlinde bu yükümlülük iflas memuruna
+aittir.
+(2) Şirketin feshi bir ortağın ölümünden ileri gelmişse tescil ve ilan dilekçesi, ölen
+ortağın mirasçılarıyla birlikte diğer tüm ortaklar; mirasçıların katılması mümkün bulunmayan
+veya güç olan hâllerde, sağ kalan ortaklar tarafından verilir.
 
 ---
 

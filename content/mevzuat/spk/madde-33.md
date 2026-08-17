@@ -35,8 +35,8 @@ olmanın belirli özellikleri taşıyan kişilerle sınırlı tutulması, sermay
 dağılımı gibi şartların varlığı hâlinde resen veya talep üzerine bu Kanundan kaynaklanan
 yükümlülüklerden kısmen veya tamamen muaf tutabileceği gibi tamamen bu Kanun
 kapsamından da çıkarılabilir.
-ÜÇÜNCÜ KISIM
-Sermaye Piyasası Kurumları ve Faaliyetleri
+
+---
 
 ### Akademik Yorum ve Analiz
 

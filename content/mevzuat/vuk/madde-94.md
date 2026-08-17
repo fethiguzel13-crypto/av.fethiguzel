@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Tebliğ yapılacak kimseler**
+**Tebliğ yapılacak kimseler:**
 
 ---
 
@@ -21,7 +21,8 @@ bunlardan birine yapılması kafidir.
 bulunmaması halinde ikametgah adresinde bulunanlardan veya işyerlerinde memur ya da
 müsdahdemlerinden birine yapılır. (Muhatap yerine bu şekilde kendisine tebliğ yapılacak
 kimsenin görünüşüne nazaran 18 yaşından aşağı olmaması ve bariz bir surette ehliyetsiz
-bulunmaması gerekir.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

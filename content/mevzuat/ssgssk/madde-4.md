@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4323
 ---
 
-**Sigortalı sayılanlar**
+**İKİNCİ KISIM
+Sosyal Sigorta Hükümleri
+BİRİNCİ BÖLÜM
+Sigortalılara İlişkin Hükümler
+Sigortalı sayılanlar**
 
 ---
 
@@ -23,10 +27,7 @@ vergisi mükellefi olanlar,
 bölünmüş komandit şirketlerin komandite ortakları, diğer şirket ve donatma iştiraklerinin ise
 tüm ortakları,
 4) Tarımsal faaliyette bulunanlar,
-4 25/3/2020 tarihli ve 7226 sayılı Kanunun 44 üncü maddesiyle bu fıkrada yer alan “alanlar ve bu Kanunun ek 9 uncu maddesinin birinci fıkrasına tabi olarak çalışanlardan” ibaresi “alanlardan” şeklinde değiştirilmiştir.
-
-
-c) Kamu idarelerinde;
+c) Kamu idarelerinde;
 1) Bu maddenin birinci fıkrasının (a) bendine tabi olmayanlardan, kadro ve
 pozisyonlarda sürekli olarak çalışıp ilgili kanunlarında (a) bendi kapsamına girenler gibi
 sigortalı olması öngörülmemiş olanlar,
@@ -65,19 +66,17 @@ yoluyla kamu idarelerinde göreve gelenlerden; bu görevleri sebebiyle kendileri
 kanunlarında Devlet memurları gibi emeklilik hakkı tanınmış olanlardan hizmet akdi ile
 çalışmayanlar,
 b) Başbakan, Cumhurbaşkanı yardımcıları, bakanlar, Türkiye Büyük Millet Meclisi
-
-
-üyeleri, belediye başkanları, il encümeninin seçimle gelen üyeleri,5
+üyeleri, belediye başkanları, il encümeninin seçimle gelen üyeleri,
 c) Birinci fıkranın (c) bendi kapsamında iken, bu kapsamdaki kişilerin kurduğu
 sendikalar ve konfederasyonları ile sendika şubelerinin başkanlıkları ve yönetim kurullarına
 seçilenlerden aylıksız izne ayrılanlar,
 d) Harp okulları ile fakülte ve yüksek okullarda, Milli Savunma Bakanlığı hesabına
 okuyan veya kendi hesabına okumakta iken askerî öğrenci olanlar ile astsubay meslek yüksek
-okulları ve astsubay naspedilmek üzere temel askerlik eğitimine tâbi tutulan adaylar,6
+okulları ve astsubay naspedilmek üzere temel askerlik eğitimine tâbi tutulan adaylar,
 e) Polis Akademisi ile fakülte ve yüksek okullarda, Emniyet Genel Müdürlüğü hesabına
 okuyan veya kendi hesabına okumakta iken Emniyet Genel Müdürlüğü hesabına okumaya
 devam eden öğrenciler ile polis nasbedilmek üzere Polis Meslek Eğitim Merkezlerinde polislik
-eğitimine tabi tutulan adaylar,7
+eğitimine tabi tutulan adaylar,
 f) (Ek: 2/1/2017 - KHK - 680/73 md.; Aynen kabul: 1/2/2018-7072/71 md.)
 Jandarma ve Sahil Güvenlik Akademisi ile fakülte ve yüksekokullarda Jandarma Genel
 Komutanlığı ve Sahil Güvenlik Komutanlığı nam ve hesabına okuyan veya kendi hesabına
@@ -87,11 +86,13 @@ tabi tutulan adaylar,
 hakkında da uygulanır.
 Dördüncü fıkranın (d), (e) ve (f) bentlerinde belirtilen okulları tamamlamadan
 ayrılanlar ile bu okulları tamamlamalarına rağmen görevlerine başlamadan ayrılanların, bu
-okullarda geçen eğitim süreleri sigortalılıklarından sayılmaz.8
+okullarda geçen eğitim süreleri sigortalılıklarından sayılmaz.
 Bu Kanunun kısa vadeli sigorta kollarına ilişkin hükümleri bu maddenin birinci
 fıkrasının (c) bendi kapsamında sigortalı sayılanlara bu kapsamda oldukları sürece uygulanmaz.
 Bu maddenin uygulanmasına ilişkin usûl ve esaslar Kurum tarafından çıkarılacak
 yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

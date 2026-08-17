@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**Yetişmemiş mahsullerin haczi**
+**Yetişmemiş mahsullerin haczi:**
 
 ---
 
@@ -18,6 +18,8 @@ Alacağı taşınmaz rehinle temin edilmiş olan alacaklının mütemmim cüz ol
 merhunun yetişmemiş mahsulleri üzerinde haiz olduğu hakka halel gelmez. Şu kadar ki
 mürtehin rehinin icraca paraya çevrilmesi için mahsullerin yetişmesinden evvel takip
 talebinde bulunmuş olmalıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

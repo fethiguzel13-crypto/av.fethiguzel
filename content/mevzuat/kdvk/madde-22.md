@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**Uluslararası yük ve yolcu taşımalarında matrah**
+**Uluslararası yük ve yolcu taşımalarında matrah:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 22 – İkametgahı, kanuni merkezi ve iş merkezi Türkiye'de bulunmayanl
 tarafından yabancı ülkeler ile Türkiye arasında yapılan taşımacılık ile transit taşımacılıkta
 şahıs ve ton başına kilometre itibariyle yurt içi emsalleri göz önüne alınmak suretiyle matrah
 tespitine Maliye ve Gümrük Bakanlığı yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

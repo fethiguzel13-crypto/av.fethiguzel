@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Kuruluş ve bağımsızlık**
+**YEDİNCİ KISIM
+Sermaye Piyasası Kuruluna İlişkin Esaslar
+Kuruluş ve bağımsızlık**
 
 ---
 
@@ -26,6 +28,8 @@ serbestçe kullanır.
 kullanmak amacıyla yeterli sayı ve nitelikte personeli istihdam eder.
 (5) Kurulun para, evrak ve her türlü malları devlet malı hükmündedir, haczedilemez ve
 rehnedilemez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

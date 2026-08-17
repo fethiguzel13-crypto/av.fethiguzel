@@ -11,7 +11,9 @@ wordCount: 4313
 
 ---
 
-Madde 958 - Rehinli bir alacak üzerinde so nra gelen bir rehnin kurulması, ancak rehnedenin veya sonra ge len rehin alacaklısının durumu önce gelen rehin alacaklısına yazılı olarak bildirmesi hâli nde geçerlidir.
+Madde 958- Rehinli bir alacak üzerinde sonra gelen bir rehnin kurulması, ancak
+rehnedenin veya sonra gelen rehin alacaklısının durumu önce gelen rehin alacaklısına yazılı
+olarak bildirmesi hâlinde geçerlidir.
 
 ---
 

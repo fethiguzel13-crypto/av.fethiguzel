@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4318
 ---
 
-**Hayvanlar**
+**Hayvanlar:**
 
 ---
 
@@ -16,6 +16,8 @@ Zirai işletmelere dahil hayvanlar maliyet bedeli ile değerlenir. Maliyet bedel
 mümkün olmıyan ahvalde maliyet bedeli yerine emsal bedeli alınır. Bu hükmün tatbikında
 emsal bedeli, işletmenin bulunduğu mahal (Gezici hayvancılıkta kışlak) için zirai kazanç
 komisyonlarınca tesbit edilmiş olan ortalama maliyet bedelidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

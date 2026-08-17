@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**Hastalık ve analık sigortası**
+**Hastalık ve analık sigortası:**
 
 ---
 
@@ -20,13 +20,14 @@ Kurumunca uygulanan iş kazaları ile meslek hastalıkları, malûllük ve yaşl
 gelir veya aylık bağlananlar hariç) hastalık ve analık,
 Ç) (C) bendinde belirtilen emekli veya malûllük aylığı alanların aile fertlerinin
 hastalık ve analık,
-
-D) Bir kanuna dayanılarak dul veya yetim aylığı alanların (Sosyal Sigortalar
+D) Bir kanuna dayanılarak dul veya yetim aylığı alanların (Sosyal Sigortalar
 Kurumundan gelir veya aylık alanlar hariç) hastalık ve analık.
 Hallerinde, gerekli sosyal sigorta yardımları sağlanır.
 Bu sigorta yardımları özel kanunlarla düzenlenir.
 Bu sigortalardan tanınan hak ve sağlanan yardımlar, genel sosyal sigorta rejimleri ile
 kabul edilen hak ve yardımlardan az olamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

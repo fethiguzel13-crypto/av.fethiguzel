@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**Çekilme**
+**Çekilme:**
 
 ---
 
 Madde 20 – Devlet memurları, bu kanunda belirtilen esaslara göre memurluktan
 çekilebilirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

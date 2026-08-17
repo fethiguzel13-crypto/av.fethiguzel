@@ -8,12 +8,12 @@ wordCount: 4296
 ---
 
 **B) Tasfiye memurları
-I
-- Genel olarak**
+I - Genel olarak**
 
 ---
 
-Madde 272 - (1) Kollektif şirketin tasfiyesi, iflas dışındaki sona erme hâllerinde tasfiye memurlarına aittir.
+MADDE 272- (1) Kollektif şirketin tasfiyesi, iflas dışındaki sona erme hâllerinde
+tasfiye memurlarına aittir.
 
 ---
 

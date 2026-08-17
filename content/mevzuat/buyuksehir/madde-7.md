@@ -7,21 +7,23 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**Büyükşehir ve ilçe belediyelerinin görev ve sorumlulukları2**
+**ÜÇÜNCÜ BÖLÜM
+Büyükşehir Belediyesinin Görev, Yetki ve Sorumlulukları
+Büyükşehir ve ilçe belediyelerinin görev ve sorumlulukları**
 
 ---
 
 Madde 7- Büyükşehir belediyesinin görev, yetki ve sorumlulukları şunlardır:
-a) İlçe (...)3 belediyelerinin görüşlerini alarak büyükşehir belediyesinin stratejik
+a) İlçe (…)belediyelerinin görüşlerini alarak büyükşehir belediyesinin stratejik
 plânını, yıllık hedeflerini, yatırım programlarını ve bunlara uygun olarak bütçesini
 hazırlamak.
-b) Çevre düzeni plânına uygun olmak kaydıyla, büyükşehir belediye (...)4 sınırları
+b) Çevre düzeni plânına uygun olmak kaydıyla, büyükşehir belediye (…)sınırları
 içinde 1/5.000 ile 1/25.000 arasındaki her ölçekte nazım imar plânını yapmak, yaptırmak ve
 onaylayarak uygulamak; büyükşehir içindeki belediyelerin nazım plâna uygun olarak
 hazırlayacakları uygulama imar plânlarını, bu plânlarda yapılacak değişiklikleri, parselasyon
 plânlarını ve imar ıslah plânlarını aynen veya değiştirerek onaylamak ve uygulanmasını
 denetlemek; nazım imar plânının yürürlüğe girdiği tarihten itibaren bir yıl içinde uygulama
-imar plânlarını ve parselasyon plânlarını yapmayan ilçe (...)3 belediyelerinin uygulama imar
+imar plânlarını ve parselasyon plânlarını yapmayan ilçe (…)belediyelerinin uygulama imar
 plânlarını ve parselasyon plânlarını yapmak veya yaptırmak.
 c) Kanunlarla büyükşehir belediyesine verilmiş görev ve hizmetlerin gerektirdiği
 proje, yapım, bakım ve onarım işleriyle ilgili her ölçekteki imar plânlarını, parselasyon
@@ -30,11 +32,8 @@ plânlarını ve her türlü imar uygulamasını yapmak ve ruhsatlandırmak, 20.
 d) Büyükşehir belediyesi tarafından yapılan veya işletilen alanlardaki işyerlerine
 büyükşehir belediyesinin sorumluluğunda bulunan alanlarda işletilecek yerlere ruhsat vermek
 ve denetlemek.
-e) Belediye Kanununun 69 ve 73 üncü maddelerindeki yetkileri kullanmak.5
-2 Bu madde başlığı “Büyükşehir, ilçe ve ilk kademe belediyelerinin görev ve sorumlulukları” iken, 12/11/2012 tarihli ve 6360 sayılı Kanunun 7 nci maddesiyle metne işlendiği şekilde değiştirilmiştir. 3 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan “ve ilk kademe” ibareleri madde metninden çıkarılmıştır. 4 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu bentte yer alan “ve mücavir alan” ibaresi madde metninden çıkarılmıştır. 5 21/4/2005 tarihli ve 5335 sayılı Kanunun 28 inci maddesiyle, bu bentte yer alan “68 ve 72 nci” ibaresi, “69 ve 73 üncü” şeklinde değiştirilmiştir.
-
-
-f) Büyükşehir ulaşım ana plânını yapmak veya yaptırmak ve uygulamak; ulaşım ve
+e) Belediye Kanununun 69 ve 73 üncü maddelerindeki yetkileri kullanmak.
+f) Büyükşehir ulaşım ana plânını yapmak veya yaptırmak ve uygulamak; ulaşım ve
 toplu taşıma hizmetlerini plânlamak ve koordinasyonu sağlamak; kara, deniz, su ve demiryolu
 üzerinde işletilen her türlü servis ve toplu taşıma araçları ile taksi sayılarını, bilet ücret ve
 tarifelerini, zaman ve güzergâhlarını belirlemek; durak yerleri ile karayolu, yol, cadde, sokak,
@@ -60,7 +59,7 @@ taşınması hariç katı atıkların ve hafriyatın yeniden değerlendirilmesi,
 edilmesine ilişkin hizmetleri yerine getirmek, bu amaçla tesisler kurmak, kurdurmak, işletmek
 veya işlettirmek; sanayi ve tıbbî atıklara ilişkin hizmetleri yürütmek, bunun için gerekli tesisleri
 kurmak, kurdurmak, işletmek veya işlettirmek; deniz araçlarının atıklarını toplamak, toplatmak,
-arıtmak ve bununla ilgili gerekli düzenlemeleri yapmak.6
+arıtmak ve bununla ilgili gerekli düzenlemeleri yapmak.
 j) Gıda ile ilgili olanlar dâhil birinci sınıf gayrisıhhî müesseseleri ruhsatlandırmak ve
 denetlemek, yiyecek ve içecek maddelerinin tahlillerini yapmak üzere laboratuvarlar kurmak
 ve işletmek.
@@ -68,18 +67,15 @@ k) Büyükşehir belediyesinin yetkili olduğu veya işlettiği alanlarda zabıt
 yerine getirmek.
 l) Yolcu ve yük terminalleri, kapalı ve açık otoparklar yapmak, yaptırmak, işletmek,
 işlettirmek veya ruhsat vermek.
-6 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesiyle bu bende, “ağaçlandırma yapmak;" ibaresinden sonra gelmek üzere "gayrisıhhî işyerlerini, eğlence yerlerini, halk sağlığına ve çevreye etkisi olan diğer işyerlerini kentin belirli yerlerinde toplamak; inşaat malzemeleri, hurda depolama alanları ve satış yerlerini," ibaresi eklenmiştir.
-
-
-m) Büyükşehirin bütünlüğüne hizmet eden sosyal donatılar, bölge parkları, hayvanat
+m) Büyükşehirin bütünlüğüne hizmet eden sosyal donatılar, bölge parkları, hayvanat
 bahçeleri, hayvan barınakları, kütüphane, müze, spor, dinlence, eğlence ve benzeri yerleri
 yapmak, yaptırmak, işletmek veya işlettirmek; gerektiğinde amatör spor kulüplerine nakdî yardım
 yapmak, malzeme vermek ve gerekli desteği sağlamak, amatör takımlar arasında spor
 müsabakaları düzenlemek, yurt içi ve yurt dışı müsabakalarda üstün başarı gösteren veya derece
-alan sporculara, teknik yönetici, antrenör ve öğrencilere belediye meclis kararıyla ödül vermek.7
+alan sporculara, teknik yönetici, antrenör ve öğrencilere belediye meclis kararıyla ödül vermek.
 n) Gerektiğinde mabetler ile sağlık, eğitim ve kültür hizmetleri için bina ve tesisler
 yapmak, kamu kurum ve kuruluşlarına ait bu hizmetlerle ilgili bina ve tesislerin her türlü
-bakımını, onarımını yapmak ve gerekli malzeme desteğini sağlamak.8
+bakımını, onarımını yapmak ve gerekli malzeme desteğini sağlamak.
 o) Kültür ve tabiat varlıkları ile tarihî dokunun ve kent tarihi bakımından önem taşıyan
 mekânların ve işlevlerinin korunmasını sağlamak, bu amaçla bakım ve onarımını yapmak,
 korunması mümkün olmayanları aslına uygun olarak yeniden inşa etmek.
@@ -108,10 +104,7 @@ engelliler, kadınlar, gençler ve çocuklara yönelik her türlü sosyal ve kü
 yürütmek, geliştirmek ve bu amaçla sosyal tesisler kurmak, meslek ve beceri kazandırma
 kursları açmak, işletmek veya işlettirmek, bu hizmetleri yürütürken üniversiteler, yüksek
 okullar, meslek liseleri, kamu kuruluşları ve sivil toplum örgütleri ile işbirliği yapmak.
-7 12/11/2012 tarihli ve 6360 sayılı Kanunun 7 nci maddesiyle, bu bentte yer alan “amatör spor kulüplerine” ibaresinden sonra gelmek üzere “nakdî yardım yapmak,” ibaresi ile “derece alan sporculara” ibaresinden sonra gelmek üzere “, teknik yönetici, antrenör ve öğrencilere” ibaresi eklenmiştir. 8 12/11/2012 tarihli ve 6360 sayılı Kanunun 7 nci maddesiyle, bu bentte yer alan “Gerektiğinde” ibaresinden sonra gelmek üzere “mabetler ile” ibaresi eklenmiştir.
-
-
-y) Merkezî ısıtma sistemleri kurmak, kurdurmak, işletmek veya işlettirmek.
+y) Merkezî ısıtma sistemleri kurmak, kurdurmak, işletmek veya işlettirmek.
 z) (Değişik: 12/11/2012-6360/7 md.) Afet riski taşıyan veya can ve mal güvenliği
 açısından tehlike oluşturan binaları tahliye etme ve yıkım konusunda ilçe belediyelerinin
 talepleri hâlinde her türlü desteği sağlamak.
@@ -136,7 +129,7 @@ ya da hat kiralamak suretiyle çalışan ve toplu taşıma hizmeti yürüten ger
 nüfus, hattın uzunluğu ve hattı kullanan sayısı kriterlerini esas alarak tespit edeceği hatlardaki
 toplu taşıma hizmetlerinden ücretsiz veya indirimli olarak yararlananlara ilişkin gelir desteği
 ödemesi yapabilir.
-İlçe (...)9 belediyelerinin görev ve yetkileri şunlardır:
+İlçe (…)belediyelerinin görev ve yetkileri şunlardır:
 a) Kanunlarla münhasıran büyükşehir belediyesine verilen görevler ile birinci fıkrada
 sayılanlar dışında kalan görevleri yapmak ve yetkileri kullanmak.
 b) Büyükşehir katı atık yönetim plânına uygun olarak, katı atıkları toplamak ve
@@ -144,16 +137,14 @@ aktarma istasyonuna taşımak.
 c) Sıhhî işyerlerini, 2 nci ve 3 üncü sınıf gayrisıhhî müesseseleri, umuma açık istirahat
 ve eğlence yerlerini ruhsatlandırmak ve denetlemek.
 d) Birinci fıkrada belirtilen hizmetlerden; 775 sayılı Gecekondu Kanununda
-belediyelere verilen yetkileri kullanmak, (...)10 spor, dinlenme ve eğlence yerleri ile parkları
-9 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu fıkrada yer alan “ve ilk kademe” ibaresi madde metninden çıkarılmıştır. 10 24/12/2020 tarihli ve 7261 sayılı Kanunun 29 uncu maddesiyle, bu bentte yer alan yer alan “otopark,” ibaresi madde metninden çıkarılmış ve bende “ilişkin hizmetler yapmak” ibaresinden
-
-
-yapmak; yaşlılar, engelliler, kadınlar, gençler ve çocuklara yönelik sosyal ve kültürel
+belediyelere verilen yetkileri kullanmak, (…)spor, dinlenme ve eğlence yerleri ile parkları
+yapmak; yaşlılar, engelliler, kadınlar, gençler ve çocuklara yönelik sosyal ve kültürel
 hizmetler sunmak; mesleki eğitim ve beceri kursları açmak; mabetler ile sağlık, eğitim, kültür
 tesis ve binalarının yapım, bakım ve onarımı ile kültür ve tabiat varlıkları ve tarihî dokuyu
 korumak; kent tarihi bakımından önem taşıyan mekânların ve işlevlerinin geliştirilmesine
 ilişkin hizmetler yapmak; bölge otoparkı, kapalı ve açık otoparklar yapmak, yaptırmak,
-işletmek, işlettirmek veya ruhsat vermek.10111213
+10111213
+işletmek, işlettirmek veya ruhsat vermek.
 e) Defin ile ilgili hizmetleri yürütmek.
 f) (Ek: 12/11/2012-6360/7 md.) Afet riski taşıyan veya can ve mal güvenliği
 açısından tehlike oluşturan binaları tahliye etmek ve yıkmak.
@@ -164,6 +155,8 @@ sorumluluklar ile sivil hava ulaşımına açık havaalanları ve bu havaalanlar
 alan tüm tesisler bu Kanunun kapsamı dışındadır.
 (Ek fıkra: 12/11/2012-6360/7 md.) Büyükşehir ve ilçe belediyeleri tarım ve hayvancılığı
 desteklemek amacıyla her türlü faaliyet ve hizmette bulunabilirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

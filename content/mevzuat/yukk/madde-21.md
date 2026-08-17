@@ -22,20 +22,18 @@ eksiklikler tamamlanıncaya kadar ertelenebilir. Eksik olan bilgi ve belgeler il
 iletir. Genel Müdürlük, gerekli gördüğünde ilgili kurumların görüşlerini de alarak başvuruları
 sonuçlandırdıktan sonra, ikamet izninin düzenlenmesi ya da başvurunun reddedilmesi için
 konsolosluğa bilgi verir.
-18/10/2018 tarihli ve 7148 sayılı Kanunun 35 inci maddesiyle bu bentte yer alan “69 uncu maddesinin yedinci
-fıkrası ile” ibaresi madde metninden çıkarılmıştır.
-10
-
-(5) Başvurular, en geç doksan gün içinde sonuçlandırılır.
+(5) Başvurular, en geç doksan gün içinde sonuçlandırılır.
 (6) İkamet izni başvurusunun reddine ilişkin işlemler ilgiliye tebliğ edilir.
 (7) (Ek: 28/7/2016-6735/27 md.) (Değişik:6/12/2019-7196/72 md.) İkamet izni
 başvuruları yetkili aracı kurum tarafından da yapılabilir. İçişleri Bakanlığı tarafından gerekli
 görülen durumlarda ikamet izni başvurularında azami üç yıl geçerli sözleşmelerle ve ikamet
-izni aracılık hizmet bedelinin (…)11 genel bütçeye aktarılması kaydıyla, ikamet izni aracılık
-hizmeti sunacak yetkili aracı kurumlar (…)11 görevlendirilebilir. (İptal üçüncü ve dördüncü
+izni aracılık hizmet bedelinin (…)genel bütçeye aktarılması kaydıyla, ikamet izni aracılık
+hizmeti sunacak yetkili aracı kurumlar (…)görevlendirilebilir. (İptal üçüncü ve dördüncü
 cümle: Anayasa Mahkemesi’nin 25/1/2023 Tarihli ve E: 2020/30, K: 2023/12 Sayılı
 Kararı ile.) Alınacak payın genel bütçeye özel gelir olarak kaydedilmesine ve bakanlık
-bütçesinin ilgili tertiplerine özel ödenek yazılmasına (…)11 yetkilidir.
+bütçesinin ilgili tertiplerine özel ödenek yazılmasına (…)yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

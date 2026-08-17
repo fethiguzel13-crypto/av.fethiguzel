@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Kayıtların yeniden işlenmesi**
+**Kayıtların yeniden işlenmesi:**
 
 ---
 
@@ -17,10 +17,8 @@ verilmesinden sonra idare ile mükellef arasında kararlaştırılan münasip bi
 edilir. Bu süre bir aydan az olamaz.
 Mükellef dilerse defterlerinin muhafaza altına alındığında işlemlerini yeniden tasdik
 ettireceği defterlere kayıt ve iadesi halinde iade edilen defterlere intikal ettirebilir.
-Genel hükümlerin uygulanması:
 
-Madde 147 – Bu bölümde açıkça yazılı olmıyan hallerde Ceza Muhakemeleri Usulü
-Kanununun arama ile ilgili bulunan hükümleri uygulanır.
+---
 
 ### Akademik Yorum ve Analiz
 

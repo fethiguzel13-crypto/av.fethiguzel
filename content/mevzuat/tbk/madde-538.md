@@ -12,9 +12,8 @@ wordCount: 4314
 
 ---
 
-Madde 538 - Komisyoncu, vekâlet verenin yararı için yaptığı bütün giderleri ve
+MADDE 538- Komisyoncu, vekâlet verenin yararı için yaptığı bütün giderleri ve
 ödediği paraları faiziyle birlikte isteyebilir.
-
 Komisyoncu, ardiye ve taşıma bedellerini vekâlet verenin hesabına geçirebilirse de,
 kendi çalışanlarının ücretlerini geçiremez.
 

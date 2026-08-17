@@ -20,7 +20,7 @@ Cumhuriyet savcısı veya sulh ceza hâkimi ile hazır bulunan zabıt kâtibi ta
 (3) Müdafi veya vekil sıfatıyla hazır bulunduğu işlemlerle ilgili tutanakta avukatın
 isim ve imzasına da yer verilir.
 (4) Tutanak, işlemin yapıldığı yeri, tarihi, başlama ve bitiş saatini ve işleme katılan
-veya ilgisi bulunan kimselerin isimlerini içerir.63
+veya ilgisi bulunan kimselerin isimlerini içerir.
 (5) İşlemde hazır bulunan ilgililerce onanmak üzere tutanağın kendilerini ilgilendiren
 kısımları okunur veya okumaları için kendilerine verilir. Bu husus tutanağa yazılarak ilgililere
 imza ettirilir.
@@ -32,13 +32,9 @@ giren suçlarla ilgili yürütülen soruşturma ve kovuşturmalarda, kolluk tara
 tutanaklara, ilgili görevlilerin açık kimlikleri yerine sadece sicil numaraları yazılır. Kolluk
 görevlilerinin ifadesine başvurulması gerektiği hâllerde çıkarılan davetiye veya çağrı kâğıdı,
 kolluk görevlisinin iş yeri adresine tebliğ edilir. Bu kişilere ait ifade ve duruşma tutanaklarında
-21/2/2014 tarihli ve 6526 sayılı Kanunun 16 ncı maddesiyle; bu fıkrada yer alan “zamanı” ibaresi
-“tarihi, başlama ve bitiş saatini” şeklinde değiştirilmiştir.
-63
+adres olarak iş yeri adresleri gösterilir.
 
-adres olarak iş yeri adresleri gösterilir.
-İKİNCİ KISIM
-Kamu Davasının Açılması
+---
 
 ### Akademik Yorum ve Analiz
 

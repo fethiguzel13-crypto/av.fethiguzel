@@ -18,13 +18,7 @@ gerekçeleri gösterilerek altı ay daha uzatılabilir.
 Bu süre, zorunlu hallerde, gerekçesi gösterilerek uzatılabilir; uzatma süresi toplam üç yılı,
 5237 sayılı Türk Ceza Kanununun İkinci Kitap Dördüncü Kısım Dördüncü, Beşinci, Altıncı
 ve Yedinci Bölümünde tanımlanan suçlar ile 12/4/1991 tarihli ve 3713 sayılı Terörle
-
-24/11/2016 tarihli ve 6763 sayılı Kanunun 22 nci maddesiyle, bu fıkrada yer alan “veya” ibaresi
-“suçlarda veya vücut dokunulmazlığına karşı kasten işlenenler hariç olmak üzere” şeklinde
-değiştirilmiştir.
-18
-
-Mücadele Kanunu kapsamına giren suçlarda beş yılı geçemez.19
+Mücadele Kanunu kapsamına giren suçlarda beş yılı geçemez.
 (3) Bu maddede öngörülen uzatma kararları, Cumhuriyet savcısının, şüpheli veya
 sanık ile müdafiinin görüşleri alındıktan sonra verilir.
 (4) (Ek:17/10/2019-7188/18 md.) Soruşturma evresinde tutukluluk süresi, ağır ceza
@@ -36,6 +30,8 @@ bu süre en çok bir yıl altı ay olup, gerekçesi gösterilerek altı ay daha 
 (5) (Ek:17/10/2019-7188/18 md.) Bu maddede öngörülen tutukluluk süreleri, fiili
 işlediği sırada on beş yaşını doldurmamış çocuklar bakımından yarı oranında, on sekiz yaşını
 doldurmamış çocuklar bakımından ise dörtte üç oranında uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,14 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Tutuklama nedenleri**
+**İKİNCİ BÖLÜM
+Tutuklama
+Tutuklama nedenleri**
 
 ---
 
 Madde 100 – (1) Kuvvetli suç şüphesinin varlığını gösteren somut delillerin ve bir
 tutuklama nedeninin bulunması halinde, şüpheli veya sanık hakkında tutuklama kararı
 verilebilir. İşin önemi, verilmesi beklenen ceza veya güvenlik tedbiri ile ölçülü olmaması
-halinde, tutuklama kararı verilemez.13
+halinde, tutuklama kararı verilemez.
 (2) Aşağıdaki hallerde bir tutuklama nedeni var sayılabilir:
 a) Şüpheli veya sanığın kaçması, saklanması veya kaçacağı şüphesini uyandıran somut
 olgular varsa.
@@ -23,24 +25,13 @@ b) Şüpheli veya sanığın davranışları;
 2. Tanık, mağdur veya başkaları üzerinde baskı yapılması girişiminde bulunma,
 Hususlarında kuvvetli şüphe oluşturuyorsa.
 (3) Aşağıdaki suçların işlendiği hususunda somut delillere dayanan kuvvetli şüphe
-sebeplerinin varlığı halinde, tutuklama nedeni var sayılabilir:14
-a) 26.9.2004 tarihli ve 5237 sayılı Türk Ceza Kanununda yer alan;15
+sebeplerinin varlığı halinde, tutuklama nedeni var sayılabilir:
+a) 26.9.2004 tarihli ve 5237 sayılı Türk Ceza Kanununda yer alan;
 1. Soykırım ve insanlığa karşı suçlar (madde 76, 77, 78),
-21/2/2014 tarihli ve 6526 sayılı Kanunun 8 inci maddesiyle bu fıkrada yer alan “olguların” ibaresi
-“somut delillerin” şeklinde değiştirilmiştir.
-14
-8/7/2021 tarihli ve 7331 sayılı Kanunun 13 üncü maddesiyle, bu fıkraya “hususunda” ibaresinden
-sonra gelmek üzere “somut delillere dayanan” ibaresi eklenmiştir.
-15
-Bu bende 6/12/2006 tarihli ve 5560 sayılı Kanunun 17 nci maddesiyle, (2) ve (5) numaralı alt
-bentlerinden sonra gelmek üzere, sırasıyla (3) ve (7) numaralı alt bentler eklenmiş ve diğer alt bent
-numaraları buna göre teselsül ettirilmiştir.
-13
-
-2. (Ek:6/12/2019-7196/58 md.)16 Göçmen kaçakçılığı ve insan ticareti (madde 79, 80)
+2. (Ek:6/12/2019-7196/58 md.)Göçmen kaçakçılığı ve insan ticareti (madde 79, 80)
 3. Kasten öldürme (madde 81, 82, 83),
 4.(Ek: 6/12/2006 – 5560/17 md.) Kasten yaralama (madde 86, fıkra 3, bent b, e ve f)
-ve neticesi sebebiyle ağırlaşmış kasten yaralama (madde 87),17
+ve neticesi sebebiyle ağırlaşmış kasten yaralama (madde 87),
 5. İşkence (madde 94, 95)
 6. Cinsel saldırı (birinci fıkra hariç, madde 102),
 7. Çocukların cinsel istismarı (madde 103),
@@ -58,6 +49,9 @@ d) 10.7.2003 tarihli ve 4926 sayılı Kaçakçılıkla Mücadele Kanununda tanı
 hapis cezasını gerektiren suçlar.
 e) 21.7.1983 tarihli ve 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanununun
 68 ve 74 üncü maddelerinde tanımlanan suçlar.
+Bu bende 6/12/2006 tarihli ve 5560 sayılı Kanunun 17 nci maddesiyle, (2) ve (5) numaralı alt
+bentlerinden sonra gelmek üzere, sırasıyla (3) ve (7) numaralı alt bentler eklenmiş ve diğer alt bent
+numaraları buna göre teselsül ettirilmiştir.
 f) 31.8.1956 tarihli ve 6831 sayılı Orman Kanununun 110 uncu maddesinin dört ve
 beşinci fıkralarında tanımlanan kasten orman yakma suçları.
 g) (Ek: 27/3/2015-6638/14 md.) 6/10/1983 tarihli ve 2911 sayılı Toplantı ve Gösteri
@@ -72,20 +66,14 @@ kurumlarında yönetici, öğretmen, usta öğretici, yabancı uyruklu öğrenci
 yönelik Millî Eğitim Bakanlığı tarafından yürütülen projelerde öğretici/öğretmen veya rehber
 danışman; özel öğretim kurumlarında yönetici, öğretmen, uzman öğretici ve usta öğretici
 olarak görev yapanlar ile Millî Eğitim Bakanlığına bağlı resmî eğitim kurumları ve özel
-6/12/2019 tarihli ve 7196 sayılı Kanunun 58 inci maddesiyle, (1) numaralı alt bentten sonra gelmek
-üzere (2) numaralı alt bent eklenmiş ve diğer alt bentler buna göre teselsül ettirilmiştir.
-17
-12/5/2022 tarihli ve 7406 sayılı Kanunun 9 uncu maddesiyle bu bentte yer alan “Silahla işlenmiş
-kasten yaralama (madde 86, fıkra 3, bent e)” ibaresi “Kasten yaralama (madde 86, fıkra 3, bent b, e
-ve f)” şeklinde değiştirilmiştir.
-16
-
-öğretim kurumlarında ders ücreti karşılığı ders okutanlara ve diğer kamu kurum ve
+öğretim kurumlarında ders ücreti karşılığı ders okutanlara ve diğer kamu kurum ve
 kuruluşlarında görev yapan öğretmenlere karşı görevleri sırasında veya görevleri sebebiyle
 işlenen kasten yaralama suçu.
 (4) (Değişik: 2/7/2012-6352/96 md.) Sadece adlî para cezasını gerektiren suçlarda
 veya vücut dokunulmazlığına karşı kasten işlenenler hariç olmak üzere hapis cezasının üst
-sınırı iki yıldan fazla olmayan suçlarda tutuklama kararı verilemez.18
+sınırı iki yıldan fazla olmayan suçlarda tutuklama kararı verilemez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

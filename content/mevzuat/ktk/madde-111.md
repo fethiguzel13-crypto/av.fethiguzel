@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**Sorumluluğa ilişkin anlaşmalar**
+**Sorumluluğa ilişkin anlaşmalar:**
 
 ---
 
@@ -15,8 +15,8 @@ Madde 111 – Bu Kanunla öngörülen hukuki sorumluluğu kaldıran veya daralta
 anlaşmalar geçersizdir.
 Tazminat miktarlarına ilişkin olup da, yetersiz veya fahiş olduğu açıkça belli olan
 anlaşmalar veya uzlaşmalar yapıldıkları tarihten başlayarak iki yıl içinde iptal edilebilir.
-DOKUZUNCU KISIM
-Adli Kovuşturma ve Cezaların Uygulanması
+
+---
 
 ### Akademik Yorum ve Analiz
 

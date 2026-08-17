@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4321
 ---
 
-**Konkordatonun mahkemede incelenmesi**
+**Konkordatonun mahkemede incelenmesi:**
 
 ---
 
@@ -22,6 +22,8 @@ Konkordato hakkında yapılan yargılamada kesin mühlet içinde bir karar
 verilemeyeceği anlaşılırsa; mahkeme, gerekli görürse komiserden gerekçeli bir rapor da
 alarak, karar verilinceye kadar mühlet hükümlerinin devamına karar verebilir. Bu süre altı
 aydan fazla olamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

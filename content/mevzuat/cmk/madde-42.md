@@ -17,8 +17,8 @@ hükmedecek idiyse, eski hâle getirme dilekçesi hakkında da o mahkeme karar v
 karşı itiraz yoluna gidilebilir.
 (3) Eski hâle getirme dilekçesi, kararın yerine getirilmesini durdurmaz; ancak,
 mahkeme yerine getirmeyi erteleyebilir.
-ÜÇÜNCÜ KISIM
-Tanıklık, Bilirkişi İncelemesi ve Keşif
+
+---
 
 ### Akademik Yorum ve Analiz
 

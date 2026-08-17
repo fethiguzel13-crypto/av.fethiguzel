@@ -11,7 +11,8 @@ wordCount: 4292
 
 ---
 
-Madde 449 - Vesaye t altı ndaki kişi adına kefil olmak, vakıf kurmak ve önemli bağışlarda bulunmak yasaktır.
+Madde 449- Vesayet altındaki kişi adına kefil olmak, vakıf kurmak ve önemli bağışlarda
+bulunmak yasaktır.
 
 ---
 

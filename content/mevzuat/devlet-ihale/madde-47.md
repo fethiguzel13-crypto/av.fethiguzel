@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4278
 ---
 
-**Açık teklif usulünde ihale**
+**Açık teklif usulünde ihale:**
 
 ---
 
@@ -27,6 +27,8 @@ isteklilerin bu durumları ihaleye ait artırma ve eksiltme kağıdına yazılı
 Teklifler yapıldığı sırada, yapılan indirim veya artırımların işi uzatacağı anlaşılırsa;
 isteklilerden komisyon huzurunda son tekliflerini yazılı olarak bildirmeleri istenebilir. Daha
 önce ihaleden çekilmiş olanlar bu durumda yazılı teklif veremezler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

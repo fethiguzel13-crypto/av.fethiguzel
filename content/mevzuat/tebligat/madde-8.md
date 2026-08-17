@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**Tebliğ evrakının nüshaları ve makbuz verilmesi**
+**İKİNCİ FASIL
+Tebligat Esasları
+Tebliğ evrakının nüshaları ve makbuz verilmesi:**
 
 ---
 
@@ -17,6 +19,8 @@ sahibi veya vekilinin imzası bulunur.
 Tebliğ olunmak üzere salahiyetli mercilere verilecek evrakın her nüshasına bu
 mercilerce, verildiği tarih yazılır ve istenirse makbuz verilir.
 Her nevi evrakın tebliğine ve davetiyelere ait tebliğ mazbataları dosyasına konur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

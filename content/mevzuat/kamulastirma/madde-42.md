@@ -7,11 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**olan tüm davalarda ve icra takiplerinde de uygulanır.**
+Madde 42 – Bu Kanun yayımı tarihinde yürürlüğe girer.
 
 ---
-
-Madde 42 – Bu Kanun yayımı tarihinde yürürlüğe girer.
 
 ### Akademik Yorum ve Analiz
 

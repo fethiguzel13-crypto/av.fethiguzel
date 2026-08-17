@@ -7,13 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**İmar planlarında umumi hizmetlere ve kamu hizmetlerine ayrılan yerler**
+**İmar planlarında umumi hizmetlere ve kamu hizmetlerine ayrılan yerler:**
 
 ---
 
 Madde 13 – (Başlığı ile Birlikte Değişik:4/7/2019-7181/7 md.)
 Özel hukuk kişilerinin mülkiyetinde olup uygulama imar planında düzenleme ortaklık
-payına konu kullanımlarda yer alan taşınmazlar;14
+payına konu kullanımlarda yer alan taşınmazlar;
 a) Bu kullanımlardan umumi hizmetlere ayrılan alanlar öncelikle 18 inci maddeye
 göre arazi ve arsa düzenlemesi yapılarak,
 b) (Ek:5/12/2024-7534/5 md.) Tescil harici ve belediye mülkiyetindeki alanlardan
@@ -23,22 +23,14 @@ c) (Ek:5/12/2024-7534/5 md.) İmar hakkı aktarımı yapılarak,
 ç) 4/11/1983 tarihli ve 2942 sayılı Kamulaştırma Kanunu kapsamında sırasıyla,
 ilgisine göre Hazine veya ilgili idarelerin mülkiyetindeki taşınmazlar ile trampa yapılmak
 veya satın alınmak suretiyle,
-kamu mülkiyetine geçirilir.15
+kamu mülkiyetine geçirilir.
 (Ek fıkra:5/12/2024-7534/5 md.) İmar hakkı aktarımı yapılırken, alıcı parselin emsale
 esas inşaat alanı en fazla imar planı ile belirlenmiş oranlar kadar ve her halde alıcı parselin
 %30’unu geçmemek üzere arttırılabilir.
 (Ek fıkra:5/12/2024-7534/5 md.) Verici parselin/parsellerin aktarıma esas inşaat
 hakları, en yakın komşuluğundaki imar parselinin/adasının emsale esas inşaat hakkını
 aşmamak kaydıyla ilgili idarece belirlenir. Aktarma işlemi, alıcı ve verici parselin değer
-5/12/2024 tarihli ve 7534 sayılı Kanunun 5 inci maddesiyle, bu fıkraya (a) bendinden sonra
-gelmek üzere (b) ve (c) bentleri eklenmiş, mevcut (b) bendi buna göre teselsül ettirilmiştir.
-15
-5/12/2024 tarihli ve 7534 sayılı Kanunun 5 inci maddesiyle, bu fıkrada yer alan “ilgili kamu
-kurum ve kuruluşunca kamulaştırılarak kamu mülkiyetine geçirilir” ibaresi “kamu mülkiyetine
-geçirilir” şeklinde değiştirilmiştir.
-14
-
-tespitleri üzerinden yapılır.
+tespitleri üzerinden yapılır.
 (Ek fıkra:5/12/2024-7534/5 md.) Alıcı ve verici parselin aktarıma konu olacak imar
 haklarının değeri, 6362 sayılı Kanuna göre yetkilendirilmiş lisanslı en az iki gayrimenkul
 değerleme kuruluşu tarafından belirlenen değerlerin ortalamasından az olmamak kaydıyla
@@ -57,7 +49,7 @@ plandaki kullanım amacına uygun özel tesis yapılabilir.
 İlgili mevzuat uyarınca hiçbir şekilde yapı yapılamayacak alanlarda muvakkat da olsa yapı
 yapılmasına izin verilmez. Mevcut yapılar kamulaştırılıncaya kadar korunabilir. Bu alanlarda beş
 yıllık imar programı süresi içinde, bu madde hükümlerine göre işlem tesis edilerek parsel, kamu
-mülkiyetine geçirilmek zorundadır. Bu süre en fazla bir yıl uzatılabilir.16
+mülkiyetine geçirilmek zorundadır. Bu süre en fazla bir yıl uzatılabilir.
 Parsel maliklerinin hisselerini idareye hibe etmeleri veya bedelsiz devretmeleri
 durumunda, idare devir işlemlerini bedel almaksızın gerçekleştirmekle yükümlüdür. Bu
 işlemler için parsel maliklerinden hiçbir vergi, resim, harç, döner sermaye ücreti ve herhangi
@@ -67,6 +59,8 @@ mülkiyetindeki alanlarla trampa yapılması hâlinde, şahıs veya özel hukuk 
 vergi, resim, harç, ücret, döner sermaye ücreti ve herhangi bir ad altında bedel alınmaz.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar Bakanlıkça hazırlanan yönetmelikle
 belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

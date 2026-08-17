@@ -11,7 +11,7 @@ wordCount: 4311
 
 ---
 
-Madde 557 - Havale ödeyicisi, çekince belirtmeksizin havaleyi kabul ettiğini havale
+MADDE 557- Havale ödeyicisi, çekince belirtmeksizin havaleyi kabul ettiğini havale
 alıcısına bildirirse, ifa ile yükümlü olur ve ona karşı, ancak aralarındaki ilişkiden veya
 havalenin içeriğinden doğan savunmaları ileri sürebilir; havale eden ile kendi arasındaki
 ilişkiden doğan savunmaları ileri süremez.

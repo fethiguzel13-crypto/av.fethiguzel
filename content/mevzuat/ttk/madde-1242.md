@@ -11,7 +11,10 @@ wordCount: 4285
 
 ---
 
-Madde 1242 - (1) Taşıyanın taşınacak eşyayı teslim aldığını göstermek üzere düzenlediği konişmentodan başka her tür senet, taşıma sözleşmesinin yapılmış ve eşyanın senette yazılı olduğu gibi taşıyan tarafından teslim alı nmış olduğuna karine oluşturur; ancak bu karinenin aksi ispatlanabilir. YEDİNCİ AYIRIM Emredici Hükümler A) Genel olarak
+MADDE 1242- (1) Taşıyanın taşınacak eşyayı teslim aldığını göstermek üzere
+düzenlediği konişmentodan başka her tür senet, taşıma sözleşmesinin yapılmış ve eşyanın
+senette yazılı olduğu gibi taşıyan tarafından teslim alınmış olduğuna karine oluşturur; ancak
+bu karinenin aksi ispatlanabilir.
 
 ---
 

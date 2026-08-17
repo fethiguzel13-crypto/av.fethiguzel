@@ -7,13 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**Nüfus müdürlüklerinin yetkisi**
+**Adalet Bakanlığının kararı:**
 
 ---
 
-MADDE 17- (1) Nüfus müdürlükleri; süresi içerisinde bildirilmemiş çocukların veya nüfusa tescil edilmemiş erginlerin varlığını haber aldıkları takdirde; erginlerin kendilerini, çocukların veli, vasi veya kayyımlarını, bunların bulunmaması halinde; büyük ana, büyük baba veya kardeşlerini ya da çocukları yanlarında bulunduranları veya muhtarları beyana davet etmeye yetkilidirler. İlgililer de bu davet üzerine otuz gün içinde nüfus müdürlüklerine başvurmak ve beyanda bulunmakla görevlidir.
-
-(2) Verilen süre içerisinde bildirim yapılmaması halinde mülkî idare amirinin göreceği lüzum üzerine kolluk kuvvetlerince bunların zorla getirilmesi için gereken işlem yapılarak çocuğun aile kütüklerine tescili sağlanır.
+Madde 17 – Adalet Bakanlığı tarafından, dosyanın gelmesinden itibaren 15 gün
+içinde, stajdan beklenen maksadın hasıl olup olmadığına dair bir karar verilir.
+Stajdan beklenen maksat hasıl olmamışsa, bu karar noter yanındaki stajın altı ay daha
+uzatılması veya stajiyerlikten çıkarma şeklinde olabilir.
+Stajdan beklenen maksat hasıl olmuşsa Adalet Bakanlığı tarafından stajiyere bir noterlik
+belgesi verilir. Bu belge, açık bulunan üçüncü sınıf noterliklerden birine atanma hakkı verir.
+Adalet Bakanlığının bu maddeye göre vereceği kararlar aleyhinde ilgili stajiyer,
+yanında staj yapılan noter ve Türkiye Noterler Birliği Danıştay'a başvurabilirler.
 
 ---
 

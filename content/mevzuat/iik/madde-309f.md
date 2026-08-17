@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**Rehinli taşınmazlar**
+**Rehinli taşınmazlar:**
 
 ---
 
@@ -18,7 +18,8 @@ alacağını tahsil edemeyen rehinli alacaklıların muvafakatıyla mümkündür
 konusu taşınmazlar ancak açık artırma yoluyla paraya çevrilebilir. Taşınmaz üzerindeki
 irtifaklar, taşınmaz yükleri, ipotekler ve şerh edilmiş kişisel hakların varlığı ve sırası, sıra
 cetveline göre belirlenir.
-Taşınır rehinleri:
+
+---
 
 ### Akademik Yorum ve Analiz
 

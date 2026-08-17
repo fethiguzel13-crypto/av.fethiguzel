@@ -7,13 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**Sendikalar Kanununa İlişkin Değişiklik (m.30)**
+**işlenmiştir.)**
 
 ---
 
-Madde 117 - 5.5.1983 tarihli ve 2821 sayılı Sendikalar Kanununun 30 uncu maddesi değiştirilmiştir. 
-
-*(Not: Bu değişiklik ile 2821 sayılı Sendikalar Kanunu'nun 30. maddesinde yer alan mülga 1475 sayılı İş Kanunu'na yapılan atıflar, 4857 sayılı İş Kanunu'nun 18, 19, 20 ve 21. maddelerine (iş güvencesi hükümleri) uyarlanmıştır. 2821 sayılı Kanun, 2012 yılında yürürlüğe giren 6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanunu ile tamamen yürürlükten kaldırılmış olup, güncel temsilci güvencesi 6356 sayılı Kanun'un 24. maddesinde düzenlenmiştir. Hüküm, tarihsel sevk niteliğindedir.)*
+Madde 117 - (5.5.1983 tarihli ve 2821 sayılı Sendikalar Kanunu ile ilgili olup
 
 ---
 

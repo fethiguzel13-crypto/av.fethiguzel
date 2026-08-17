@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-**Sınıf dışında kadro ihdas edilemiyeceği**
+**Sınıf dışında kadro ihdas edilemiyeceği:**
 
 ---
 
 Madde 39 – Bu kanuna tabi kurumlarda sınıflar dışında memurluk kadroları ihdas
 edilemez.
+Memuriyete girişte yaş:
+
+---
 
 ### Akademik Yorum ve Analiz
 

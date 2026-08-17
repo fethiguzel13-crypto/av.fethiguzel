@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**c) Tasfiye hâlindeki bir şirketin birleşmeye katı lması**
+**c) Tasfiye hâlindeki bir şirketin birleşmeye katılması**
 
 ---
 
-Madde 138 - (1) Tasfiye hâlindeki bir şirket, malvarlığının dağıtılmasına başlanmamışsa ve devrolunan şirket olması şartıyla, birleşmeye katılabilir. (2) (Değişik: 26/6/2012 - 6335/10 md.) Birinci fıkradaki şartların varlığı, devralan şirketin merkezini n bulunduğu yerin ticaret sicili müdürlüğüne sunulan belgelerle ispatlanır.
+MADDE 138- (1) Tasfiye hâlindeki bir şirket, malvarlığının dağıtılmasına başlanmamışsa
+ve devrolunan şirket olması şartıyla, birleşmeye katılabilir.
+(2) (Değişik: 26/6/2012-6335/10 md.) Birinci fıkradaki şartların varlığı, devralan
+şirketin merkezinin bulunduğu yerin ticaret sicili müdürlüğüne sunulan belgelerle ispatlanır.
 
 ---
 

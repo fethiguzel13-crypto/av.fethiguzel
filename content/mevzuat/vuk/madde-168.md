@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Süre**
+**BEŞİNCİ BÖLÜM
+Bildirmelerde Süre ve Şekil
+Süre:**
 
 ---
 
@@ -23,6 +25,8 @@ olayın vukuu tarihinden itibaren bir ay içerisinde mükellef tarafından vergi
 Yeni inşaatta inşatın bittiği ve kısmen kullanılmaya başlanılmışsa her kısmın
 kullanılmaya başlandığı ve diğer değişikliklerde (Müstesnalığın sukutu dahil) tadili gerektiren
 halin vukuu tarihinden başlıyarak iki ay.
+
+---
 
 ### Akademik Yorum ve Analiz
 

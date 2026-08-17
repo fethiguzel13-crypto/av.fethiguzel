@@ -11,10 +11,9 @@ wordCount: 4317
 
 ---
 
-Madde 407 - Çalıştırılan işçilerin ücret, prim, ikramiye ve bu nitelikteki her çeşit
+MADDE 407- Çalıştırılan işçilerin ücret, prim, ikramiye ve bu nitelikteki her çeşit
 istihkaktan o ay içinde ödenenlerin özel olarak açılan banka hesabına yatırılmak suretiyle
 ödenmesi hususunda; tabi olduğu vergi mükellefiyeti türü, işletme büyüklüğü, çalıştırdığı işçi
-
 sayısı, işyerinin bulunduğu il ve benzeri unsurları dikkate alarak iş sahiplerini zorunlu
 tutmaya, banka hesabına yatırılacak ücret, prim, ikramiye ve bu nitelikteki her çeşit
 istihkakın, brüt ya da kanuni kesintiler düşüldükten sonra kalan net miktar üzerinden olup
@@ -26,8 +25,6 @@ nitelikteki her çeşit istihkakını özel olarak açılan banka hesapları dı
 nitelikteki her çeşit istihkaklarının özel olarak açılan banka hesabına yatırılmak suretiyle
 ödenmesine ilişkin diğer ûsul ve esaslar, anılan bakanlıklarca müştereken çıkarılacak
 yönetmelikle düzenlenir.
-5
-
 İşveren, işçiden olan alacağı ile ücret borcunu işçinin rızası olmadıkça takas edemez.
 Ancak, işçinin kasten sebebiyet verdiği yargı kararıyla sabit bir zarardan doğan alacaklar,
 ücretin haczedilebilir kısmı kadar takas edilebilir.

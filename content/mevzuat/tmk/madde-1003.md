@@ -11,7 +11,9 @@ wordCount: 4301
 
 ---
 
-Madde 1003 - B ir taşınmazın kütüğe kaydı ve belirlenmesinde resmî bir ölçüme dayanan plân esas alınır. Plânların nasıl hazırlanacağı Cumhurbaşkanınca çık arılan yönetmelikle belirlenir. 44 II. Tapu sicilinin t utulması 1. Bir bölgede
+Madde 1003- Bir taşınmazın kütüğe kaydı ve belirlenmesinde resmî bir ölçüme dayanan
+plân esas alınır.
+Plânların nasıl hazırlanacağı Cumhurbaşkanınca çıkarılan yönetmelikle belirlenir.
 
 ---
 

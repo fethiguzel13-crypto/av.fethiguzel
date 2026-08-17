@@ -7,13 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Defter ve vesikaları muhafaza**
+**ALTINCI KISIM
+Muhafaza ve İbraz Ödevleri
+Defter ve vesikaları muhafaza:**
 
 ---
 
 Madde 253 – Bu Kanuna göre defter tutmak mecburiyetinde olanlar, tuttukları
 defterlerle üçüncü kısımda yazılı vesikaları, ilgili bulundukları yılı takibeden takvim yılından
 başlıyarak beş yıl süre ile muhafaza etmeye mecburdurlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

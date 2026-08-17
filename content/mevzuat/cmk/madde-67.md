@@ -33,6 +33,8 @@ temsilci, yargılama konusu olayla ilgili olarak veya bilirkişi raporunun hazı
 değerlendirilmek üzere ya da bilirkişi raporu hakkında, uzmanından bilimsel mütalaa
 alabilirler. Sadece bu nedenle ayrıca süre istenemez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

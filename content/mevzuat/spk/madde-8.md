@@ -25,6 +25,8 @@ araçlarını satın almak için talepte bulunmuş olan yatırımcılar, izahnam
 değişikliklerin yayımlanmasından itibaren iki iş günü içinde taleplerini geri alma hakkına
 sahiptirler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

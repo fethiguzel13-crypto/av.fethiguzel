@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**b) Konişmentonun eşyayı temsili aa) Genel olarak**
+**b) Konişmentonun eşyayı temsili
+aa) Genel olarak**
 
 ---
 
-Madde 1234 - (1) Eşya, kaptan veya taşıyanın diğer bir temsilcisi tarafından taşınmak üzere teslim alı nınca konişmentonun, konişmento gereğince eşyayı teslim almaya yetkili olan kişiye teslimi, 1235 inci madde hükümleri saklı kalmak şartıyla, Türk Medenî Kanununun 957 ve 980 inci maddelerinde yazılı hukuki sonuçları doğurur. bb) Birden çok konişmento hami li
+MADDE 1234- (1) Eşya, kaptan veya taşıyanın diğer bir temsilcisi tarafından
+taşınmak üzere teslim alınınca konişmentonun, konişmento gereğince eşyayı teslim almaya
+yetkili olan kişiye teslimi, 1235 inci madde hükümleri saklı kalmak şartıyla, Türk Medenî
+Kanununun 957 ve 980 inci maddelerinde yazılı hukuki sonuçları doğurur.
 
 ---
 

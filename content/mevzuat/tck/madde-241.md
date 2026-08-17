@@ -12,9 +12,11 @@ wordCount: 4315
 ---
 
 Madde 241- (1) Kazanç elde etmek amacıyla başkasına ödünç para veren kişi, iki yıldan
-altı yıla kadar hapis ve beşyüz günden beşbin güne kadar adlî para cezası ile cezalandırılır.99
+altı yıla kadar hapis ve beşyüz günden beşbin güne kadar adlî para cezası ile cezalandırılır.
 (2) (Ek:14/4/2020-7242/14 md.) Suçun bir örgütün faaliyeti çerçevesinde işlenmesi
 hâlinde verilecek ceza bir kat artırılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**İhtiyari dava arkadaşlığı**
+**İKİNCİ AYIRIM
+Dava Arkadaşlığı
+İhtiyari dava arkadaşlığı**
 
 ---
 
@@ -19,6 +21,8 @@ b) Ortak bir işlemle hepsinin yararına bir hak doğmuş olması veya kendileri
 şekilde yükümlülük altına girmeleri.
 c) Davaların temelini oluşturan vakıaların ve hukuki sebeplerin aynı veya birbirine
 benzer olması.
+
+---
 
 ### Akademik Yorum ve Analiz
 

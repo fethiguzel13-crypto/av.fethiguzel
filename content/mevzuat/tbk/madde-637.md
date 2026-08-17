@@ -12,7 +12,7 @@ I. Temsil**
 
 ---
 
-Madde 637 - Kendi adına ve ortaklık hesabına bir üçüncü kişi ile işlemde bulunan
+MADDE 637- Kendi adına ve ortaklık hesabına bir üçüncü kişi ile işlemde bulunan
 ortak, bu kişiye karşı bizzat kendisi alacaklı ve borçlu olur.
 Ortaklardan biri, ortaklık veya bütün ortaklar adına bir üçüncü kişi ile işlem yaparsa,
 diğer ortaklar ancak temsile ilişkin hükümler uyarınca, bu kişinin alacaklısı veya borçlusu

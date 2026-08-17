@@ -7,21 +7,23 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Sosyal çalışma görevlilerinin görevleri**
+**Kapıların açılmaması ve temasın önlenmesi**
 
 ---
 
-Madde 34- (1) Sosyal çalışma görevlilerinin görevi;
-a) Görevlendirildikleri çocuk hakkında derhâl sosyal inceleme yapmak, hazırladıkları
-raporları kendilerini görevlendiren mercie sunmak,
-b) Suça sürüklenen çocuğun ifadesinin alınması veya sorgusu sırasında yanında
-bulunmak,
-c) Bu Kanun kapsamında mahkemeler ve çocuk hâkimleri tarafından verilen diğer
-görevleri yerine getirmektir.
-(2) İlgililer, sosyal çalışma görevlilerinin çalışmaları sırasında kendilerine yardımcı
-olmak ve çocuk hakkında istenen bilgileri vermek zorundadır.
-(3) Sosyal çalışma görevlilerinin, görevleri sırasında yaptıkları ve hâkim tarafından
-takdir edilen masrafları Cumhuriyet başsavcılığının suçüstü ödeneğinden ödenir.
+Madde 34- (1) Kapalı ceza infaz kurumlarında oda ve koridor kapıları kapalı tutulur.
+Kapılar aşağıdaki hâllerde açılır:
+a) Kurum hekimine, revir, hamam ve berbere gitme, başka odaya nakil.
+b) Hastane ve duruşmaya gönderme ve başka kuruma nakil.
+c) Tahliye, ziyaret, arama, sayım, denetim, eğitim, öğretim, spor ve iyileştirme çalışmaları,
+kurumda çalıştırma.
+d) Kurullara çağrılma.
+e) Ölüm, deprem veya yangın gibi olağanüstü hâller.
+f) Cezaevi idaresince gerekli görülen hâller.
+(2) Hükümlüler, yukarıda sayılan hâller dışında, diğer odalardaki hükümlüler ve
+kurum görevlileri ile temasta bulunamazlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

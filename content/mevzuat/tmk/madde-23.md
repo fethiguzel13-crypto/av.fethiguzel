@@ -8,11 +8,16 @@ wordCount: 4277
 ---
 
 **B. Kişiliğin korunması
-I. Vazgeçme ve a şırı sınır lamaya karşı**
+I. Vazgeçme ve aşırı sınırlamaya karşı**
 
 ---
 
-Madde 23 - Kimse, hak ve fiil ehliyetlerinden kısmen de olsa vazgeçemez. Kimse özgürlüklerinden vazgeçemez veya onları hukuka ya da ahlâka aykırı olarak sınırlayamaz. Yazılı rıza üzerine insan kökenli biyolojik maddelerin alınması, aş ılanm ası v e nak li mümkündür. Ancak, biyolojik m adde verme borcu altına girmiş olandan edimini yerine getirmesi istenemez; maddî ve manevî tazminat isteminde bulunulamaz.
+Madde 23- Kimse, hak ve fiil ehliyetlerinden kısmen de olsa vazgeçemez.
+Kimse özgürlüklerinden vazgeçemez veya onları hukuka ya da ahlâka aykırı olarak
+sınırlayamaz.
+Yazılı rıza üzerine insan kökenli biyolojik maddelerin alınması, aşılanması ve nakli
+mümkündür. Ancak, biyolojik madde verme borcu altına girmiş olandan edimini yerine getirmesi
+istenemez; maddî ve manevî tazminat isteminde bulunulamaz.
 
 ---
 

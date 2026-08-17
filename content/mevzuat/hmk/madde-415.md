@@ -15,6 +15,8 @@ MADDE 415- (1) Taraflar, hakemin sayısını belirlemekte serbesttir. Ancak, bu 
 tek olmalıdır.
 (2) Hakemlerin sayısı taraflarca kararlaştırılmamışsa üç hakem seçilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

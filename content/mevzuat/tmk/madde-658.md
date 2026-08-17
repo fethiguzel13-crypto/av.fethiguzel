@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4282
 ---
 
-**b. Değeri n belirlenmesi**
+**b. Değerin belirlenmesi**
 
 ---
 
-Madde 658 - Mirasçılar özgülenme değeri üzerinde uyuşamazlarsa, bu değer sulh hâkimi tarafından belirlenir.
+Madde 658- Mirasçılar özgülenme değeri üzerinde uyuşamazlarsa, bu değer sulh hâkimi
+tarafından belirlenir.
 
 ---
 

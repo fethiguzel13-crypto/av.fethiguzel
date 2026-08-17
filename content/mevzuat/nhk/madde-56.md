@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**Sağlık kuruluşlarının görevleri**
+**Yaş tahdidi:**
 
 ---
 
-MADDE 56- (Mülga: 19/10/2017-7039/27 md.)
+Madde 56 – Noterler 65 yaşını tamamladıklarında, yaş tahdidine tabi tutulurlar. Yaşın
+hesabında Türkiye Cumhuriyeti Emekli Sandığı Kanununun hükümleri kıyasen uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

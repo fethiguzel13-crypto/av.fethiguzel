@@ -28,6 +28,8 @@ başvurularda
 h) 20 nci maddenin ikinci fıkrası kapsamında yapılacak ikamet izni başvurularında
 ı) Türkiye’de yükseköğrenimini tamamlayanların, kısa dönem ikamet iznine geçişlerinde
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

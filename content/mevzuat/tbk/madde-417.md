@@ -12,7 +12,7 @@ wordCount: 4261
 
 ---
 
-Madde 417 - İşveren, hizmet ilişkisinde işçinin kişiliğini korumak ve saygı
+MADDE 417- İşveren, hizmet ilişkisinde işçinin kişiliğini korumak ve saygı
 göstermek ve işyerinde dürüstlük ilkelerine uygun bir düzeni sağlamakla, özellikle işçilerin
 psikolojik ve cinsel tacize uğramamaları ve bu tür tacizlere uğramış olanların daha fazla zarar
 görmemeleri için gerekli önlemleri almakla yükümlüdür.

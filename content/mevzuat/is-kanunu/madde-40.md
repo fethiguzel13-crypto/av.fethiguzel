@@ -15,6 +15,8 @@ Madde 40 - 24 ve 25 inci maddelerin (III) numaralı bentlerinde gösterilen zorl
 sebepler dolayısıyla çalışamayan veya çalıştırılmayan işçiye bu bekleme süresi içinde bir
 haftaya kadar her gün için yarım ücret ödenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

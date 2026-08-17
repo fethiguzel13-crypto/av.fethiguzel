@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**Uygulanmayacak Hükümler22**
+**Uygulanmayacak Hükümler**
 
 ---
 
@@ -42,16 +42,12 @@ Geçici Madde 4 – (Ek: 2/7/2005-5388/6 md.)
 Kurul üye sayısı yediye ininceye kadar boşalan üyelikler için seçim ve atama yapılmaz.
 Toplantı ve karar yeter sayısı
 Geçici Madde 5 – (Ek: 1/7/2006-5538/13 md.)
-Bu maddenin uygulanması ile ilgili olarak 10/12/2003 tarihli ve 5018 sayılı Kanunun 81 inci
-maddesine bakınız.
-22
-
-Kurul, en çok yedi üye ile toplanabilir ve karar alabilir. Kurul üye sayısının yediden
+Kurul, en çok yedi üye ile toplanabilir ve karar alabilir. Kurul üye sayısının yediden
 fazla olması halinde, toplantıya sırasıyla hangi üyenin iştirak ettirilmeyeceğini Başkan belirler.
 Geçici Madde 6- (Ek:16/6/2020-7246/12 md.)
 Bu maddenin yürürlüğe girdiği tarihte Kurumda inceleme uzmanı kadrosunda
 bulunanlar rekabet uzmanı kadrolarına ve kıdemli koordinatör ile mesleki koordinatör
-kadrosunda bulunanlar rekabet başuzmanı kadrolarına; (…)23 garaj şefi kadrosunda bulunanlar
+kadrosunda bulunanlar rekabet başuzmanı kadrolarına; (…)garaj şefi kadrosunda bulunanlar
 şoför kadrosuna başkaca bir işleme gerek kalmaksızın kadro dereceleriyle atanmış sayılır. Bu
 şekilde atananların eski kadrolarına bağlı olarak en son ayda fiilî çalışmaya bağlı ödemeler
 hariç mali haklar kapsamında yapılan her türlü ödemeler toplamı net tutarının (bu tutar sabit
@@ -81,13 +77,8 @@ birlikte, rekabet uzman yardımcılığından rekabet uzmanlığına atanmaları
 ayrıca bir derece yükseltmesi uygulanmayanlar, başkaca bir koşul aranmaksızın bir derece
 yükseltmesinden yararlandırılır.
 Yürürlük
-Anayasa Mahkemesinin 9/11/2022 tarihli ve E: 2020/67; K: 2022/139 sayılı Kararı ile bu fıkrada yer alan
-“…Kurum danışmanı, Başkan danışmanı, sistem çözümleyici, veri iletişim uzmanı, programcı, idari hizmet
-yetkilisi ve idari hizmet uzmanı kadrolarında bulunanlar araştırmacı kadrolarına;…” ibaresi iptal edilmiştir.
-23
 
-Madde 64 – Bu Kanunun idari para cezasına ilişkin 16 ncı maddesi ile 17 nci maddesi
-yayımı tarihinden bir yıl sonra, diğer maddeleri yayımı tarihinde yürürlüğe girer.
+---
 
 ### Akademik Yorum ve Analiz
 

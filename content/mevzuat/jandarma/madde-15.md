@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Disiplin ve soruşturma usulleri**
+**Disiplin ve soruşturma usulleri:**
 
 ---
 
-Madde 15 – (Değişik: 25/7/2016-KHK-668/15 md.; Aynen kabul: 8/11/2016
+Madde 15 – (Değişik: 25/7/2016-KHK-668/15 md.; Aynen kabul: 8/11/2016-
 6755/15 md.)
 Jandarma personeli hakkında disiplin ve soruşturma işlemleri aşağıdaki usullere göre yapılır.
 a) Disiplin işleri özel kanun hükümlerine göre yürütülür.
@@ -21,9 +21,7 @@ Görevlilerinin Yargılanması Hakkında Kanun hükümlerine göre işlem yapıl
 c) Adli görevlerinden doğan suçlarda; 4/12/2004 tarihli ve 5271 sayılı Ceza
 Muhakemesi Kanununun 161 inci maddesinin beşinci fıkrası hükmü uygulanır.
 d) (Değişik: 2/7/2018 – KHK/703/128 md.) Jandarma personeline askeri görev verildiği
-
-
-takdirde bu görevlerden doğan suçların muhakemesi, Jandarma personelinin emrine verildiği
+takdirde bu görevlerden doğan suçların muhakemesi, Jandarma personelinin emrine verildiği
 askeri birlik personelini muhakeme etmekle görevli ve yetkili olan mahkemede görülür.
 e) Jandarma personelinin kişisel suçlarında genel hükümlere göre işlem yapılır.
 (Ek fıkra: 15/8/2017/KHK-694/55 md.; Aynen kabul: 1/2/2018-7078/52 md.)
@@ -36,8 +34,9 @@ kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fe
 kaynaklanan malvarlığı değerlerini aklama veya kaçakçılık suçlarından ya da kasten işlenen bir
 suçtan dolayı bir yıl veya daha fazla süreyle hapis cezasına mahkûm olan Jandarma Genel
 Komutanlığında görevli subay, astsubay ve uzman jandarmaların Komutanlıkla ilişikleri İçişleri
-Bakanının onayı ile kesilir.12
-Erbaş ve erlerin üst ve eşyalarının aranması13
+Bakanının onayı ile kesilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

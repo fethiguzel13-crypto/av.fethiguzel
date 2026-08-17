@@ -13,13 +13,13 @@ wordCount: 4270
 
 Madde 13 – Vali, (Dördüncü maddenin son fıkrasında belirtilen adli ve askeri daireler
 hariç) Bakanlıklar ve tüzelkişiliği haiz genel müdürlüklerin il teşkilatında çalışan bütün
-memur ve müstahdemlerinin en büyük amiridir.15
+memur ve müstahdemlerinin en büyük amiridir.
 Bu sıfatla :
 A) Memur ve müstahdemlerin çalışmalarına nezaret eder.
-15 Danıştay 5. Dairesinin 30/6/1977 gün ve E. 1974/5278, K.1977/3905 sayılı kararında bu bent hükmünün, "657 sayılı Kanunun değişik 237/b maddesi gereğince, bu Kanuna aykırı hüküm olması nedeniyle 30/11/1970 tarihinden itibaren uygulanma imkanını kaybettiği" belirtilmiştir.
-
-
-B) Teşkilatın işlemesini denetler.
+Danıştay 5. Dairesinin 30/6/1977 gün ve E. 1974/5278, K.1977/3905 sayılı kararında bu bent hükmünün,
+"657 sayılı Kanunun değişik 237/b maddesi gereğince, bu Kanuna aykırı hüküm olması nedeniyle 30/11/1970
+tarihinden itibaren uygulanma imkanını kaybettiği" belirtilmiştir.
+B) Teşkilatın işlemesini denetler.
 C) (Değişik: 12/5/1964-469/1 md.) Memurin Kanunundaki usulüne göre savunmasını
 aldıktan sonra uyarma, kınama ve beş günlüğe kadar aylıktan kesme cezaları vererek uygular.
 Daha ağır disiplin cezaları verilmesi için özel kanunu hükümlerine göre teklif ve taleplerde
@@ -35,6 +35,9 @@ D) Valiler, emir ve denetimi altında bulunan teşkilatın aldığı kararla yap
 muamelelerden şikayet edenlerin müracaatlarını tetkik eder; memurun haksız veya kanunsuz
 muamelelerini görürse hakkında kanuni muameleye başvurur.
 İnceleme neticesinde vardığı sonuca göre alacağı kararı derhal tatbik ettirir ve ilgiliye
+bildirir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

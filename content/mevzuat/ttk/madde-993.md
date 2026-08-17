@@ -11,7 +11,8 @@ wordCount: 4262
 
 ---
 
-Madde 993 - (1) Sicil müdürlüğünün kararlarına Kanunun 34 üncü maddesine göre itiraz olunabilir.
+MADDE 993- (1) Sicil müdürlüğünün kararlarına Kanunun 34 üncü maddesine göre
+itiraz olunabilir.
 
 ---
 

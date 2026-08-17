@@ -7,16 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**Ret talebinin incelenmesi6**
+**Ret talebinin incelenmesi**
 
 ---
 
 MADDE 42- (1) Hâkimin reddi talebine ilişkin karar, dosya üzerinden inceleme
-22/7/2020 tarihli ve 7251 sayılı Kanunun 5 inci maddesiyle, bu maddeye birinci fıkradan sonra
-gelmek üzere fıkralar eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
-6
-
-yapılarak da verilebilir.
+yapılarak da verilebilir.
 (2) (Ek:22/7/2020-7251/5 md.) Ret sebebi sabit olmasa bile, merci bunu muhtemel
 görürse, ret talebini kabul edebilir.
 (3) (Ek:22/7/2020-7251/5 md.) Ret sebepleri hakkında yemin teklif olunamaz.
@@ -33,6 +29,8 @@ Türk Lirasına kadar disiplin para cezasına hükmolunur.
 verilecek disiplin para cezası, bir önceki disiplin para cezasının iki katından az olamaz.
 (8) Disiplin para cezasının tahsili için, davaya bakan mahkeme, dosyanın geliş
 tarihinden başlayarak iki hafta içinde gereğini yapar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

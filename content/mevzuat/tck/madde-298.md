@@ -28,8 +28,8 @@ sayılır.
 (3) Beslenmenin engellenmesi nedeniyle kasten yaralama suçunun neticesi sebebiyle
 ağırlaşmış hallerinden biri veya ölüm meydana gelmiş ise, ayrıca kasten yaralama veya kasten
 öldürme suçlarına ilişkin hükümlere göre cezaya hükmolunur.
-ÜÇÜNCÜ BÖLÜM
-Devletin Egemenlik Alametlerine ve Organlarının Saygınlığına Karşı Suçlar
+
+---
 
 ### Akademik Yorum ve Analiz
 

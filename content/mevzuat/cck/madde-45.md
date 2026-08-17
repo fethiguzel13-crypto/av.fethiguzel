@@ -7,27 +7,25 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-**Kurumlar**
+**Çocuk hükümlüler hakkında uygulanabilecek disiplin tedbirleri**
 
 ---
 
-Madde 45- (1) Bu Kanunun 5 inci maddesinde yer alan koruyucu ve destekleyici
-tedbirlerden;
-a) (a) ve (e) bentlerinde yazılı danışmanlık ve barınma tedbirleri Milli Eğitim
-Bakanlığı, Sosyal Hizmetler ve Çocuk Esirgeme Kurumu ve yerel yönetimler,
-b) (b) bendinde yazılı eğitim tedbiri Milli Eğitim Bakanlığı ve Çalışma ve Sosyal
-Güvenlik Bakanlığı,
-c) (c) bendinde yazılı bakım tedbiri Sosyal Hizmetler ve Çocuk Esirgeme Kurumu,
-d) (d) bendinde yazılı sağlık tedbiri Sağlık Bakanlığı,
-Tarafından yerine getirilir.
-(2) Bakım ve barınma tedbirlerinin yerine getirilmesi sırasında ihtiyaç duyulan kolluk
-hizmetlerinin yerine getirilmesi, çocukların rehabilitasyonu, eğitimi ve diğer bakanlıkların
-görev alanına giren diğer hususlarla ilgili olarak Sosyal Hizmetler ve Çocuk Esirgeme
-Kurumu tarafından yapılan her türlü yardım ve destek talepleri Milli Eğitim Bakanlığı, İçişleri
-Bakanlığı, Sağlık Bakanlığı, ilgili diğer bakanlıklar ile kamu kurum ve kuruluşları tarafından
-geciktirilmeksizin yerine getirilir.
-(3) Bu tedbirlerin yerine getirilmesinde kurumların koordinasyonu Adalet Bakanlığınca
-sağlanır.
+Madde 45- (1) Çocuk hükümlüler hakkında uygulanabilecek disiplin tedbirleri,
+çocuğun disiplin cezası gerektiren eyleminin gerçekleşme riskinin bulunması hâlinde bu riski
+ortadan kaldırmak veya soruşturma sürerken giderilmesi güç ve imkânsız zararların
+doğmasını önlemek amacıyla uygulanan ve ceza niteliği taşımayan koruma ve önleme amaçlı
+tedbirlerdir.
+(2) Çocuklar hakkında uygulanabilecek disiplin tedbirleri şunlardır:
+a) Teşvik esaslı ayrıcalıkları ertelemek.
+b) Kaldığı odayı ve yatakhaneyi değiştirmek.
+c) Bulunduğu kurumun başka bir kısmına nakletmek.
+d) Meslek eğitiminin bütünlüğünü ve sürekliliğini bozmayacak şekilde çalıştığı
+işyerini veya atölyeyi değiştirmek.
+e) Belli yerlere girmesini yasaklamak.
+f) Bazı eşyaları bulundurmasını veya kullanmasını yasaklamak.
+
+---
 
 ### Akademik Yorum ve Analiz
 

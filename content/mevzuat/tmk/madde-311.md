@@ -12,7 +12,10 @@ a. Koşulları**
 
 ---
 
-Madde 311 - Aşağıdaki hâllerde ana ve babadan birinin rızası aranmaz: l. Kim olduğu veya uzun süreden beri nerede oturduğu bilinmiyo rsa veya ayırt etme gücünden s ürekl i olar ak yoksun bulunuyorsa, 2. Küçüğe kar şı özen yüküm lülüğünü yeterince yerine getirmiyorsa.
+Madde 311- Aşağıdaki hâllerde ana ve babadan birinin rızası aranmaz:
+l. Kim olduğu veya uzun süreden beri nerede oturduğu bilinmiyorsa veya ayırt etme
+gücünden sürekli olarak yoksun bulunuyorsa,
+2. Küçüğe karşı özen yükümlülüğünü yeterince yerine getirmiyorsa.
 
 ---
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**Belediye sınırları dışında karayolu kenarındaki yapı ve tesisler**
+**Belediye sınırları dışında karayolu kenarındaki yapı ve tesisler:**
 
 ---
 
@@ -21,9 +21,10 @@ Verilen izinler, ilgili valiliğe bildirilir.
 İzinsiz yapılan bu gibi tesislerin yapımı ve işletilmesi yetkililerce durdurulacağı gibi,
 yönetmelikteki şartlar yerine getirilmeden işletme izni verilmez ve bağlantı yolu, her türlü
 gider sorumlulara ait olmak üzere yolun yapım ve bakımı ile ilgili kuruluşca ortadan kaldırılır.
-
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayanlar 72 000 000 lira
 para cezası ile cezalandırılırlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

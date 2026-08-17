@@ -12,7 +12,7 @@ wordCount: 4261
 
 ---
 
-Madde 444 - Fiil ehliyetine sahip olan işçi, işverene karşı, sözleşmenin sona
+MADDE 444- Fiil ehliyetine sahip olan işçi, işverene karşı, sözleşmenin sona
 ermesinden sonra herhangi bir biçimde onunla rekabet etmekten, özellikle kendi hesabına
 rakip bir işletme açmaktan, başka bir rakip işletmede çalışmaktan veya bunların dışında,
 rakip işletmeyle başka türden bir menfaat ilişkisine girişmekten kaçınmayı yazılı olarak

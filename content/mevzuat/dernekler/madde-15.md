@@ -25,6 +25,8 @@ sonuçlanıncaya kadar devir işlemi yapılmaz.
 Tasfiye işlemleri sonucu derneklerin defter ve belgelerinin saklanma usulü, süresi ve
 tasfiyeye ilişkin gerekli belgeler yönetmelikte düzenlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

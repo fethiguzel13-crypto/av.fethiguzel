@@ -7,16 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**Fiil ayrılığı**
+**Fiil ayrılığı:**
 
 ---
 
 Madde 337 – (Değişik birinci fıkra: 30/12/1980-2365/63 md.) Ayrı ayrı yapılmış
 olan vergi ziyaı veya usulsüzlükten dolayı ayrı ayrı ceza kesilir. Şu kadarki, 352 nci maddede
 yazılı usulsüzlüklerden, aynı takvim yılı içinde aynı neviden birden fazla yapıldığı takdirde
-birden fazlasının herbiri için, birincisine ait cezanın dörtte biri kesilir.113
+birden fazlasının herbiri için, birincisine ait cezanın dörtte biri kesilir.
 Aynı nevi usulsüzlükten maksat, fiillerin 352 nci maddede gösterilen derece ve fıkralar
 itibariyle yekdiğerine mutabakatıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

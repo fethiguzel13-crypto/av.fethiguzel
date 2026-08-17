@@ -11,7 +11,9 @@ wordCount: 4289
 
 ---
 
-Madde 720 - Her arazi maliki, komşusunun istemi üzerine belli olmayan sınırların belirlenmesi için tapu plânlarının düzeltilmesine veya arz üzeri ne sınır işaretleri konulma sına katkıda bulunmakla yükümlüdür.
+Madde 720- Her arazi maliki, komşusunun istemi üzerine belli olmayan sınırların
+belirlenmesi için tapu plânlarının düzeltilmesine veya arz üzerine sınır işaretleri konulmasına
+katkıda bulunmakla yükümlüdür.
 
 ---
 

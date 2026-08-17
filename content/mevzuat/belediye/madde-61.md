@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Belediye bütçesi**
+**İKİNCİ BÖLÜM
+Belediye Bütçesi
+Belediye bütçesi**
 
 ---
 
@@ -16,12 +18,11 @@ hazırlanan bütçe, belediyenin malî yıl ve izleyen iki yıl içindeki gelir 
 gösterir, gelirlerin toplanmasına ve harcamaların yapılmasına izin verir.
 Bütçeye ayrıntılı harcama programları ile finansman programları eklenir.
 Bütçe yılı Devlet malî yılı ile aynıdır.
-35 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “özürlülere” ibaresi “engellilere” şeklinde değiştirilmiştir.
-
-
-Bütçe dışı harcama yapılamaz.
+Bütçe dışı harcama yapılamaz.
 Belediye başkanı ve harcama yetkisi verilen diğer görevliler, bütçe ödeneklerinin
 verimli, tutumlu ve yerinde harcanmasından sorumludur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

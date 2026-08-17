@@ -14,8 +14,8 @@ wordCount: 4285
 Madde 222 – (1) Duruşmanın nasıl yapıldığı, kanunda belirtilen usul ve esaslara
 uygun olarak yapılıp yapılmadığı, ancak tutanakla ispat olunabilir. Tutanağa karşı yalnız
 sahtecilik iddiası yöneltilebilir.
-İKİNCİ KISIM
-Kamu Davasının Sona Ermesi
+
+---
 
 ### Akademik Yorum ve Analiz
 

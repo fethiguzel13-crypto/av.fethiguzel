@@ -11,7 +11,7 @@ wordCount: 4272
 
 ---
 
-Madde 382 - Bir şeyi birlikte ödünç alanlar, ondan müteselsilen sorumlu olurlar.
+MADDE 382- Bir şeyi birlikte ödünç alanlar, ondan müteselsilen sorumlu olurlar.
 
 ---
 

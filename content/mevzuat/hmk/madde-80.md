@@ -16,6 +16,8 @@ olmadığını görürse, ona uygun bir süre tanıyarak, davasını vekil arac�
 karar verebilir. Verilen karara uymayan taraf hakkında, yokluğu hâlindeki hükümlere göre
 işlem yapılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

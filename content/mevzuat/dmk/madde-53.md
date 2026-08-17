@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**Engelli personel çalıştırma yükümlülüğü:114115**
+**115116
+Engelli personel çalıştırma yükümlülüğü:**
 
 ---
 
@@ -32,6 +33,8 @@ kurumlarınca temin edileceğine, kamu kurum ve kuruluşlarınca engelli persone
 ilgili istatistiksel verilerin bildirilmesine ilişkin usul ve esaslar ile diğer hususlar Özürlüler
 İdaresi Başkanlığının görüşü alınarak Devlet Personel Başkanlığınca hazırlanacak
 yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

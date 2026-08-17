@@ -26,6 +26,8 @@ personel yanına getirilerek tutanak tutulmak suretiyle yapılır.
 (4) Yukarıdaki fıkralar gereğince, çağrı kâğıdının tebliğiyle duruşma günü arasında en
 az bir hafta süre bulunması gerekir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

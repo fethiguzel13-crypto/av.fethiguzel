@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**sözleşmeler3**
+**sözleşmeler**
 
 ---
 
@@ -22,6 +22,8 @@ olmasın Kurulun yazılı şeklin yerine geçebileceğini belirlediği ve bir bi
 haberleşme cihazı üzerinden gerçekleştirilecek ve müşteri kimliğinin doğrulanmasına imkân
 verecek yöntemler yoluyla kurulacak sözleşmeler ile düzenlenir ve buna ilişkin usul ve esaslar
 Kurul tarafından belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

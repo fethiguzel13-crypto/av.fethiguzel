@@ -22,6 +22,8 @@ gerekçeli bilgi verilir.
 kuruluşlarında eğitim faaliyetinin devamlılığının sağlanacağı tespit edilirse, ilgili eğitim
 kuruluşuna en çok üç yıl için geçerli olmak üzere izin verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

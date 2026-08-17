@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**Kanun yolları**
+**Kanun yolları:**
 
 ---
 
@@ -16,8 +16,9 @@ Konkordato hakkında verilen karara karşı borçlu veya konkordato talep eden a
 kararın tebliğinden; itiraz eden diğer alacaklılar ise tasdik kararının ilânından itibaren iki hafta
 içinde istinaf yoluna başvurabilir. Bölge adliye mahkemesi kararına karşı iki hafta içinde
 temyiz yoluna başvurulabilir. İstinaf ve temyiz incelemeleri, Hukuk Muhakemeleri Kanunu
-hükümlerine göre yapılır.105
-Çekişmeli alacaklar hakkında dava:
+hükümlerine göre yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

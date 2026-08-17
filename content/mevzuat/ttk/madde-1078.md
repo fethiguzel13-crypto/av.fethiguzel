@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**VII
-- Paydaş donatanların şahsında değişiklik**
+**VII- Paydaş donatanların şahsında değişiklik**
 
 ---
 
-Madde 1078 - (1) Paydaş donatanlard an birinin şahsında meydana gelecek bir değişiklik, donatma iştirakinin devamına engel olmaz. (2) Paydaş donatanlardan hiçbiri iştirakten çıkarılamaz.
+MADDE 1078- (1) Paydaş donatanlardan birinin şahsında meydana gelecek bir
+değişiklik, donatma iştirakinin devamına engel olmaz.
+(2) Paydaş donatanlardan hiçbiri iştirakten çıkarılamaz.
 
 ---
 

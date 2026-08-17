@@ -11,7 +11,7 @@ wordCount: 4284
 
 ---
 
-Madde 207 - Yetkili mahkeme eşlerden herhangi birinin yerleşim yeri mahkemesidir.
+Madde 207- Yetkili mahkeme eşlerden herhangi birinin yerleşim yeri mahkemesidir.
 
 ---
 

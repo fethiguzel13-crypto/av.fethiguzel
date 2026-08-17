@@ -11,7 +11,7 @@ wordCount: 4293
 
 ---
 
-Madde 653 - (1) Çeşitli kıymetli evraka ilişkin özel hükümler sak lıdır. İKİNCİ KISIM Nama Yazılı Senetler A) Tanımı
+MADDE 653- (1) Çeşitli kıymetli evraka ilişkin özel hükümler saklıdır.
 
 ---
 

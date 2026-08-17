@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Limited şirketlerin amme borçları89**
+**Limited şirketlerin amme borçları**
 
 ---
 
@@ -27,24 +27,14 @@ Tüzel kişilerle küçüklerin ve kısıtlıların, vakıflar ve cemaatler gibi
 olmayan teşekküllerin mal varlığından tamamen veya kısmen tahsil edilemeyen veya tahsil
 edilemeyeceği anlaşılan amme alacakları, kanuni temsilcilerin ve tüzel kişiliği olmayan
 teşekkülü idare edenlerin şahsi mal varlıklarından bu Kanun hükümlerine göre tahsil edilir.
-
-Bu madde başlığı, 22/7/1998 tarih ve 4369 sayılı Kanunun 21 inci maddesiyle değiştirilmiştir.
-4/6/2008 tarihli ve 5766 sayılı Kanunun 3 üncü maddesiyle; bu maddede yer alan "şirketten tahsil imkanı
-bulunmayan" ibaresi "şirketten tamamen veya kısmen tahsil edilemeyen veya tahsil edilemeyeceği anlaşılan"
-şeklinde değiştirilmiş ve metne işlenmiştir.
-8
-9
-
-Bu madde hükmü, yabancı şahıs veya kurumların Türkiye’deki mümessilleri hakkında
+Bu madde hükmü, yabancı şahıs veya kurumların Türkiye’deki mümessilleri hakkında
 da uygulanır.
 Tüzel kişilerin tasfiye haline girmiş veya tasfiye edilmiş olmaları, kanuni temsilcilerin
 tasfiyeye giriş tarihinden önceki zamanlara ait sorumluluklarını kaldırmaz.
 Temsilciler, teşekkülü idare edenler veya mümessiller, bu madde gereğince ödedikleri
 tutarlar için asıl amme borçlusuna rücu edebilirler.
-(Ek fıkra: 4/6/2008-5766/4 md.; İptal fıkra: Anayasa Mahkemesi’nin 19/3/2015
-tarihli ve E.: 2014/144, K.: 2015/29 sayılı Kararı ile.)
-(Ek fıkra: 4/6/2008-5766/4 md.; İptal fıkra: Anayasa Mahkemesi’nin 19/3/2015
-tarihli ve E.: 2014/144, K.: 2015/29 sayılı Kararı ile.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

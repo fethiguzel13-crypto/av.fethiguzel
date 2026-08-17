@@ -11,7 +11,13 @@ wordCount: 4302
 
 ---
 
-Madde 199 - Ailenin ekonomik varlı ğının korunması veya evlilik birliğinden doğan malî bir yükümlülüğün yerine getirilmesi gerektirdiği ölçüde, eşlerden birinin istemi üzerine hâkim, belirleyeceği malvarlığı değerleriyle ilgili tasarrufların anca k onun rızasıyla yapılabileceğine karar vereb ilir. Hâkim bu durumda gerekli önlemleri alır. Hâkim, eşlerden birinin taşınmaz üzerinde tasarruf yetkisini kaldırırsa, re'sen durumun tapu kütüğüne şerhedilmesine karar verir.
+Madde 199 - Ailenin ekonomik varlığının korunması veya evlilik birliğinden doğan malî
+bir yükümlülüğün yerine getirilmesi gerektirdiği ölçüde, eşlerden birinin istemi üzerine hâkim,
+belirleyeceği malvarlığı değerleriyle ilgili tasarrufların ancak onun rızasıyla yapılabileceğine karar
+verebilir.
+Hâkim bu durumda gerekli önlemleri alır.
+Hâkim, eşlerden birinin taşınmaz üzerinde tasarruf yetkisini kaldırırsa, re'sen durumun
+tapu kütüğüne şerhedilmesine karar verir.
 
 ---
 

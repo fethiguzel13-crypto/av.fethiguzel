@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Şikayet üzerine yapılacak muameleler**
+**Şikayet üzerine yapılacak muameleler:**
 
 ---
 
 Madde 17 – Şikayet icra mahkemesince, kabul edilirse şikayet olunan muamele ya
 bozulur, yahut düzeltilir.
 Memurun sebepsiz yapmadığı veya geciktirdiği işlerin icrası emrolunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

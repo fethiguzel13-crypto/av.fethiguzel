@@ -18,6 +18,8 @@ uygun örneğini, dava yahut takip dosyasına konulmak üzere ibraz etmek zorund
 uygun olarak düzenlenip verilmiş olan temsil belgeleri de geçerli olup, ayrıca noterce
 onaylanmasına gerek yoktur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

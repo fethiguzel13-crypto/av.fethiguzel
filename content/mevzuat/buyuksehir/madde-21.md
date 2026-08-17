@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**Büyükşehir belediyesi teşkilâtı**
+**Büyükşehir Belediyesi Teşkilâtı ve Personeli
+Büyükşehir belediyesi teşkilâtı**
 
 ---
 
@@ -22,6 +23,8 @@ atanabilir.
 Büyükşehir belediyesinde hizmetlerin yürütülmesi belediye başkanı adına onun direktifi
 ve sorumluluğu altında mevzuat hükümlerine, belediyenin amaç ve politikalarına, stratejik
 plânına ve yıllık programlarına uygun olarak genel sekreter ve yardımcıları tarafından sağlanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

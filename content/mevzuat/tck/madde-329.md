@@ -21,6 +21,8 @@ hapis cezası verilir.
 altı aydan iki yıla, ikinci fıkrada yazılı hallerden birinin varlığı halinde ise üç yıldan sekiz yıla
 kadar hapis cezası verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

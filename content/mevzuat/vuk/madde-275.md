@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4275
 ---
 
-**İmal edilen emtia**
+**İmal edilen emtia:**
 
 ---
 
@@ -22,7 +22,8 @@ katılması ihtiyaridir.)
 malzemesinin bedeli.
 Mükellefler, imal ettikleri emtianın maliyet bedellerini yukarıki unsurları ihtiva etmek
 şartiyle diledikleri usulde tayin edebilirler.
-(Üçüncü fıkra mülga: 30/12/1980-2365/51 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4281
 ---
 
-**C. Üçüncü kişilere karşı sor umluluk**
+**C. Üçüncü kişilere karşı sorumluluk**
 
 ---
 

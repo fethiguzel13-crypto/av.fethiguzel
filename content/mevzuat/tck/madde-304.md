@@ -21,6 +21,8 @@ hareket olarak kabul edilir.
 (3) Bu maddede tanımlanan suçun işlenmesi dolayısıyla tüzel kişiler hakkında bunlara
 özgü güvenlik tedbirlerine hükmolunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

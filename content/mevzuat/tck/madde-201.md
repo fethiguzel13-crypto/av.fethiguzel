@@ -24,6 +24,8 @@ resmi makamlar tarafından haber alınmadan önce, diğer suç ortaklarını ve 
 yakalanmasını ve bu malzemenin ele geçirilmesini sağlaması halinde, hakkında cezaya
 hükmolunmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

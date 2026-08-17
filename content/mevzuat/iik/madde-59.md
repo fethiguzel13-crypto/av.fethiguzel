@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**Takip masrafları**
+**Takip masrafları:**
 
 ---
 
@@ -16,7 +16,8 @@ Takip masrafları borçluya aittir. Alacaklı, yapılmasını talep ettiği muam
 masrafını ve ayrıca takip talebinde bulunurken borçlunun 62 nci maddeye göre yapabileceği
 itirazın kendisine tebliğ masrafını da avans olarak peşinen öder.
 Alacaklı ilk ödenen paradan masraflarını alabilir.
-VI. ÖDEME EMRİ VE İTİRAZ
+
+---
 
 ### Akademik Yorum ve Analiz
 

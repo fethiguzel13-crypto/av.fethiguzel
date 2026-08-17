@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**İhalenin yapılması:49**
+**İhalenin yapılması:**
 
 ---
 
@@ -18,11 +18,7 @@ gelmesi hâlinde mal, en yüksek teklif verene ihale edilir. Şu kadar ki, artı
 haczedilen malın muhammen kıymetinin yüzde ellisi ile o malla güvence altına alınan ve satış
 isteyenin alacağına rüçhanı olan alacakların toplamından hangisi fazla ise bu miktarı ve ayrıca
 bu miktara ilave olarak paraya çevirme ve paylaştırma masraflarını da geçmesi şarttır.
-Bu madde başlığı “İhalenin yapılması ve geri bırakılması:” iken, 2/7/2012 tarihli ve 6352 sayılı Kanunun 25
-inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-49
-
-Artırmanın sona erdiği gün ve saatte şartların bulunması hâlinde, mal en yüksek teklif
+Artırmanın sona erdiği gün ve saatte şartların bulunması hâlinde, mal en yüksek teklif
 verene ihale edilmiş olur ve malın mülkiyeti ihale alıcısına geçer.
 İhale alıcısının en yüksek teklifi verip de süresi içinde ihale bedelini yatırmaması
 hâlinde alınan teminat iade edilmeyip öncelikle satış masraflarından düşülmek üzere hak
@@ -52,6 +48,8 @@ portalında derhâl duyurur. Bu durumda artırmanın başlangıç tarihi, artır
 uzatılmasına karar verildiği tarihten itibaren üç günü geçemez. Bu süre içinde, daha önce en
 yüksek teklif veren teklifiyle bağlı olacağı gibi yeni istekliler de teminatı yatırmak suretiyle
 artırmaya katılabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -1,0 +1,143 @@
+{
+  "slug": "kvkk-basvuru-ve-sikayet",
+  "title": "KVKK Başvurusu: Verilerimi Nasıl Sildiririm, Nereye Şikâyet Ederim?",
+  "description": "Kişisel verilerinizin silinmesini nasıl istersiniz, veri sorumlusu kaç günde cevap vermek zorunda, Kurula şikâyet süresi nedir? KVKK m.11, 13 ve 14 çerçevesinde.",
+  "h1": "Kişisel veri başvurusu ve şikâyet",
+  "keywords": [
+    "kvkk başvurusu",
+    "kişisel verilerin silinmesi",
+    "veri sorumlusuna başvuru",
+    "kvkk şikayet",
+    "kişisel veri hakları",
+    "unutulma hakkı"
+  ],
+  "category": "Kişisel Veri",
+  "role": "pillar",
+  "related": [
+    "zamanasimi-sureleri"
+  ],
+  "links": [
+    {
+      "label": "KVKK m.11 — İlgili kişinin hakları",
+      "href": "/mevzuat/kvkk/madde-11"
+    },
+    {
+      "label": "KVKK m.13 — Veri sorumlusuna başvuru",
+      "href": "/mevzuat/kvkk/madde-13"
+    },
+    {
+      "label": "KVKK m.14 — Kurula şikâyet",
+      "href": "/mevzuat/kvkk/madde-14"
+    }
+  ],
+  "lead": "Önce veri sorumlusuna başvurulur; veri sorumlusu talebi en geç otuz gün içinde ve kural olarak ücretsiz sonuçlandırmak zorundadır. Cevap yetersizse ya da hiç verilmezse Kurula şikâyet edilir.",
+  "keyInsight": "Doğrudan Kurula şikâyet edilemez: KVKK m.14 açıkça, m.13 uyarınca başvuru yolu tüketilmeden şikâyet yoluna başvurulamayacağını söyler.",
+  "sections": [
+    {
+      "heading": "Hangi haklara sahipsiniz?",
+      "paragraphs": [
+        "KVKK m.11 herkese, veri sorumlusuna başvurarak kullanabileceği bir haklar listesi tanır. Bunların başında kişisel veri işlenip işlenmediğini öğrenme ve işlenmişse buna ilişkin bilgi talep etme gelir.",
+        "Amaç denetimi de bu kapsamdadır: Kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme hakkı vardır. Ayrıca yurt içinde veya yurt dışında verilerin aktarıldığı üçüncü kişileri bilme hakkı tanınmıştır.",
+        "Düzeltme ve silme hakları en sık kullanılanlardır. Kişisel verilerin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme; Kanunun 7. maddesindeki şartlar çerçevesinde silinmesini veya yok edilmesini isteme mümkündür.",
+        "Bu işlemlerin yalnız kendi kayıtlarında kalması da yeterli değildir. Düzeltme ve silme talepleri uyarınca yapılan işlemlerin, kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme hakkı ayrıca sayılmıştır.",
+        "Otomatik sistemlere karşı da bir koruma vardır: İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kişinin aleyhine bir sonuç ortaya çıkmasına itiraz edilebilir."
+      ],
+      "bullets": [
+        "Veri işlenip işlenmediğini öğrenme ve bilgi talep etme",
+        "İşlenme amacını ve amaca uygun kullanılıp kullanılmadığını öğrenme",
+        "Aktarılan üçüncü kişileri bilme",
+        "Eksik veya yanlış işlenen verilerin düzeltilmesini isteme",
+        "Silinmesini veya yok edilmesini isteme",
+        "Düzeltme ve silmenin üçüncü kişilere bildirilmesini isteme",
+        "Otomatik analiz sonucu aleyhe çıkan sonuca itiraz"
+      ]
+    },
+    {
+      "heading": "Birinci adım: veri sorumlusuna başvuru",
+      "paragraphs": [
+        "Süreç her zaman veri sorumlusuyla başlar. KVKK m.13 uyarınca ilgili kişi, Kanunun uygulanmasıyla ilgili taleplerini yazılı olarak veya Kurulun belirleyeceği diğer yöntemlerle veri sorumlusuna iletir.",
+        "Cevap süresi kanunda bellidir: Veri sorumlusu başvuruda yer alan talepleri, talebin niteliğine göre en kısa sürede ve en geç otuz gün içinde ücretsiz olarak sonuçlandırır.",
+        "Ücret istisnadır, kural değildir. Yalnız işlemin ayrıca bir maliyeti gerektirmesi hâlinde Kurulca belirlenen tarifedeki ücret alınabilir; başvurunun veri sorumlusunun hatasından kaynaklanması hâlinde alınan ücret iade edilir.",
+        "Cevabın biçimi de düzenlenmiştir. Veri sorumlusu talebi kabul eder veya gerekçesini açıklayarak reddeder ve cevabını ilgili kişiye yazılı olarak ya da elektronik ortamda bildirir. Gerekçesiz ret geçerli bir cevap sayılmaz."
+      ]
+    },
+    {
+      "heading": "İkinci adım: Kurula şikâyet",
+      "paragraphs": [
+        "İlk başvurudan sonuç alınamazsa ikinci aşamaya geçilir. KVKK m.14 uyarınca başvurunun reddedilmesi, verilen cevabın yetersiz bulunması veya süresinde başvuruya cevap verilmemesi hâllerinde ilgili kişi Kurula şikâyette bulunabilir.",
+        "İki süre birlikte işler: Veri sorumlusunun cevabını öğrendiği tarihten itibaren otuz gün ve her hâlde başvuru tarihinden itibaren altmış gün.",
+        "Sıralamayı atlamak mümkün değildir. Kanun açıkça, m.13 uyarınca başvuru yolu tüketilmeden şikâyet yoluna başvurulamayacağını söyler; doğrudan yapılan şikâyet bu nedenle sonuç doğurmaz.",
+        "Şikâyet yolu tazminat hakkını ortadan kaldırmaz. Kişilik hakları ihlal edilenlerin genel hükümlere göre tazminat hakkı saklıdır; idari süreç ile hukuk davası birbirinden bağımsız yürür."
+      ],
+      "bullets": [
+        "Cevabı öğrendiğiniz tarihten itibaren: 30 gün",
+        "Her hâlde başvuru tarihinden itibaren: 60 gün",
+        "Ön koşul: veri sorumlusuna başvurmuş olmak"
+      ]
+    },
+    {
+      "heading": "Başvuru nasıl yazılır?",
+      "paragraphs": [
+        "Başvurunun sizi kimliklendirmesi ve talebi açıkça ortaya koyması gerekir. Ad soyad, iletişim bilgisi ve hangi hakkı kullandığınız net biçimde yazılmalıdır.",
+        "Talebi somutlaştırmak süreci hızlandırır. Hangi verinin, hangi platformda, hangi tarihte işlendiğini biliyorsanız belirtmek, veri sorumlusunun kaydı bulmasını kolaylaştırır.",
+        "Başvurunun tarihini ispatlayabilmek kritiktir; otuz ve altmış günlük süreler oradan işler. Kayıtlı elektronik posta, noter ihtarnamesi ya da veri sorumlusunun kendi başvuru formu üzerinden alınan referans numarası bu ispatı sağlar."
+      ]
+    },
+    {
+      "heading": "Sık yapılan hatalar",
+      "paragraphs": [
+        "Birinci hata, doğrudan Kurula şikâyet etmektir. Başvuru yolu tüketilmeden yapılan şikâyet reddedilir ve zaman kaybedilir.",
+        "İkincisi, başvuru tarihini belgelememektir. Süreler bu tarihten işlediğinden, ispat edilemeyen bir başvuru şikâyet aşamasında sorun çıkarır.",
+        "Üçüncüsü, altmış günlük üst sınırı gözden kaçırmaktır. Veri sorumlusu hiç cevap vermese dahi süre işlemeye devam eder; sessizliği beklemek hak kaybına yol açar."
+      ]
+    }
+  ],
+  "steps": [
+    "Hangi hakkı kullandığınızı belirleyin: bilgi talebi, düzeltme, silme ya da itiraz.",
+    "Veri sorumlusunun kimliğini ve başvuru kanalını tespit edin.",
+    "Başvurunuzu yazılı olarak veya Kurulun belirlediği yöntemle iletin.",
+    "Başvuru tarihini ispatlayacak bir kayıt saklayın.",
+    "Otuz günlük cevap süresini takip edin.",
+    "Cevap olumsuz, yetersiz ya da hiç gelmediyse; cevabı öğrendiğinizden itibaren otuz, her hâlde başvurudan itibaren altmış gün içinde Kurula şikâyette bulunun.",
+    "Kişilik haklarınız ihlal edilmişse tazminat davasını ayrıca değerlendirin."
+  ],
+  "checklist": [
+    "Kimlik bilgileri ve iletişim adresi",
+    "Başvuru dilekçesi veya form çıktısı",
+    "Başvuru tarihini gösteren kayıt",
+    "Veri sorumlusunun cevabı",
+    "İhlali gösteren ekran görüntüsü veya belge"
+  ],
+  "faq": [
+    {
+      "q": "Verilerimin silinmesini nasıl isterim?",
+      "a": "Önce veri sorumlusuna yazılı olarak ya da Kurulun belirlediği yöntemle başvurursunuz. KVKK m.11, Kanunun 7. maddesindeki şartlar çerçevesinde silme veya yok etme isteme hakkı tanır."
+    },
+    {
+      "q": "Veri sorumlusu kaç günde cevap vermek zorunda?",
+      "a": "Talebin niteliğine göre en kısa sürede ve en geç otuz gün içinde. Cevap kural olarak ücretsizdir."
+    },
+    {
+      "q": "Doğrudan Kurula şikâyet edebilir miyim?",
+      "a": "Hayır. KVKK m.14 uyarınca m.13 kapsamındaki başvuru yolu tüketilmeden şikâyet yoluna başvurulamaz."
+    },
+    {
+      "q": "Şikâyet süresi ne kadar?",
+      "a": "Veri sorumlusunun cevabını öğrendiğiniz tarihten itibaren otuz gün ve her hâlde başvuru tarihinden itibaren altmış gün."
+    },
+    {
+      "q": "Veri sorumlusu hiç cevap vermezse ne olur?",
+      "a": "Süresinde cevap verilmemesi de şikâyet sebebidir. Altmış günlük üst sınır işlemeye devam ettiğinden beklemeden şikâyet edilmelidir."
+    },
+    {
+      "q": "Başvuru ücretli mi?",
+      "a": "Kural olarak ücretsizdir. Yalnız işlem ayrıca bir maliyet gerektiriyorsa Kurulca belirlenen tarifedeki ücret alınabilir; hata veri sorumlusundan kaynaklanıyorsa ücret iade edilir."
+    },
+    {
+      "q": "Şikâyet ettim, tazminat isteyebilir miyim?",
+      "a": "Evet. Kişilik hakları ihlal edilenlerin genel hükümlere göre tazminat hakkı saklıdır."
+    }
+  ],
+  "updated": "2026-08-16",
+  "sitemapPriority": 0.92
+}

@@ -7,13 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**G) Temliki tasarruflar ve önemli işler**
+**G) Temliki tasarruflar ve önemli işler:**
 
 ---
 
-Madde 45 – Anagayrimenkulün bir hakla kayıtlanması veya arsanın bölünmesi ve bölünen kısmın mülkiyetinin başkasına devrolunması gibi temliki tasarruflar veya anayapının
+Madde 45 – Anagayrimenkulün bir hakla kayıtlanması veya arsanın bölünmesi ve bö-
+lünen kısmın mülkiyetinin başkasına devrolunması gibi temliki tasarruflar veya anayapının
 dış duvarlarının, çatı veya damının reklam maksadiyle kiralanması gibi önemli yönetim işleri
 ancak bütün kat maliklerinin oybirliğiyle verecekleri karar üzerine yapılabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

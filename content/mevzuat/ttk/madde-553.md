@@ -7,12 +7,21 @@ lastReviewed: "2026-07-20"
 wordCount: 4318
 ---
 
-**V
-- Kurucuların, yönetim kurulu ü yelerinin, yöneticilerin ve tasfiye memurlarının sorumluluğu**
+**sorumluluğu**
 
 ---
 
-Madde 553 - (1) Kurucular, yönetim kurulu üyeleri, yöneticiler ve tasfiye memurları, kanundan ve esas sözleşmeden doğan yükümlülüklerini kusurlarıyla ihlal ettikleri takdirde, (…) 75 hem şirkete hem pay sahiplerine hem de şirket alacaklılarına karşı verdikleri zarardan sorumludurlar. 76 (2) Kanundan veya esas sözleşmeden doğan bir görevi veya yetkiyi, kanuna dayanarak, başkasına devreden organlar veya kişiler, bu görev ve yetkileri devralan kişilerin s eçiminde makul derecede özen göstermediklerinin ispat edilmesi hâli hariç, bu kişilerin fiil ve kararlarından sorumlu olmazlar. (3) Hiç kimse kontrolü dışında kalan, kanuna veya esas sözleşmeye aykırılıklar veya yolsuzluklar sebebiyle sorumlu tutulamaz; b u sorumlu olmama durumu gözetim ve özen yükümü gerekçe gösterilerek geçersiz kılınamaz.
+MADDE 553- (1) Kurucular, yönetim kurulu üyeleri, yöneticiler ve tasfiye memurları,
+kanundan ve esas sözleşmeden doğan yükümlülüklerini kusurlarıyla ihlal ettikleri takdirde,
+(…)hem şirkete hem pay sahiplerine hem de şirket alacaklılarına karşı verdikleri zarardan
+sorumludurlar.
+(2) Kanundan veya esas sözleşmeden doğan bir görevi veya yetkiyi, kanuna
+dayanarak, başkasına devreden organlar veya kişiler, bu görev ve yetkileri devralan kişilerin
+seçiminde makul derecede özen göstermediklerinin ispat edilmesi hâli hariç, bu kişilerin fiil
+ve kararlarından sorumlu olmazlar.
+(3) Hiç kimse kontrolü dışında kalan, kanuna veya esas sözleşmeye aykırılıklar veya
+yolsuzluklar sebebiyle sorumlu tutulamaz; bu sorumlu olmama durumu gözetim ve özen
+yükümü gerekçe gösterilerek geçersiz kılınamaz.
 
 ---
 

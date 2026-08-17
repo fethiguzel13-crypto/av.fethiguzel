@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Ölümden sonra itibarın yerine gelmesi**
+**Ölümden sonra itibarın yerine gelmesi:**
 
 ---
 
 Madde 316 – Hileli veya taksiratlı yahut adi müflisin itibarının yerine gelmesine
 ölümünden sonra mirasçılarından birinin talebiyle de hükmolunabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

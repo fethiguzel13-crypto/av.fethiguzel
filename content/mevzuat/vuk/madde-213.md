@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Çiftçi işletme defteri**
+**SEKİZİNCİ BÖLÜM
+Zirai Kazançlarda Defter Tutma
+Çiftçi işletme defteri:**
 
 ---
 
@@ -20,6 +22,8 @@ Gider ve hasılat kayıtlarının en az aşağıdaki bilgileri ihtiva etmesi laz
 2. Kayıt tarihi,
 3. Muamelenin nev'i
 4. Meblağ.
+
+---
 
 ### Akademik Yorum ve Analiz
 

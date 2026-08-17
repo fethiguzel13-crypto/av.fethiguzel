@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**Hastalık ve refakat izni:171**
+**Hastalık ve refakat izni:**
 
 ---
 
@@ -37,6 +37,8 @@ hayatı tehlikeye girecek ana, baba, eş ve çocukları ile kardeşlerinden biri
 geçirmesi veya tedavisi uzun süren bir hastalığının bulunması hâllerinde, bu hâllerin sağlık
 kurulu raporuyla belgelendirilmesi şartıyla, aylık ve özlük hakları korunarak, üç aya kadar
 izin verilir. Gerektiğinde bu süre bir katına kadar uzatılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

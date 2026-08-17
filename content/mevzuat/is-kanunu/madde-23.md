@@ -20,6 +20,8 @@ b) Yeni işveren, işçinin bu davranışını bilerek onu işe almışsa.
 c) Yeni işveren işçinin bu davranışını öğrendikten sonra dahi onu çalıştırmaya devam
 ederse.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

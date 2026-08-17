@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Marka renkleri. styles.xml bu üç ismi zorunlu olarak arar; tanımsız
+  bırakıldığında AAPT "resource color/colorPrimary not found" ile derlemeyi
+  kırar. Flavor'a özgü vurgu rengi build.gradle içinde resValue ile ezilir
+  (bkz. scripts/build-flavor.mjs → flavor.properties).
+-->
+<resources>
+    <color name="colorPrimary">#2E4036</color>
+    <color name="colorPrimaryDark">#1F2B24</color>
+    <color name="colorAccent">#CC5833</color>
+
+    <!-- Kabuk / splash zemini -->
+    <color name="brandCream">#F2F0E9</color>
+    <color name="brandInk">#1A1A1A</color>
+</resources>

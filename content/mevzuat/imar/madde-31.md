@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**Kullanma izni alınmamış yapılar**
+**Kullanma izni alınmamış yapılar:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 31 – İnşaatın bitme günü, kullanma izninin verildiği tarihtir. Kul
 verilmeyen ve alınmayan yapılarda izin alınıncaya kadar elektrik, su ve kanalizasyon
 hizmetlerinden ve tesislerinden faydalandırılmazlar. Ancak, kullanma izni alan bağımsız bölümler
 bu hizmetlerden istifade ettirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

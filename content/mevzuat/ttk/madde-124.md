@@ -7,11 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**Madde 124**
+**İKİNCİ KİTAP
+Ticaret Şirketleri
+BİRİNCİ KISIM
+Genel Hükümler
+A) Türleri**
 
 ---
 
-Madde 124 - (1) Ticaret şirketleri; kollektif, komandit, anonim, limited ve kooperatif şirketlerden ibarettir. (2) Bu Kanunda, kollektif ile komandit şirket şahıs; anonim, limited ve sermayesi paylara bölünmüş komandit şirket sermaye şirketi sayılır.
+MADDE 124- (1) Ticaret şirketleri; kollektif, komandit, anonim, limited ve kooperatif
+şirketlerden ibarettir.
+(2) Bu Kanunda, kollektif ile komandit şirket şahıs; anonim, limited ve sermayesi
+paylara bölünmüş komandit şirket sermaye şirketi sayılır.
 
 ---
 

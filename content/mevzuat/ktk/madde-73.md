@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Tedbirsiz ve saygısız araç sürme**
+**Tedbirsiz ve saygısız araç sürme:**
 
 ---
 
@@ -27,6 +27,8 @@ hükümlerine uymayanlara 1.000 Türk lirası idari para cezası uygulanır.
 ncı maddesinde sayılan görevliler tarafından yapılır. Bu madde kapsamında geri alınan sürücü
 belgelerinin iade edilebilmesi için bu Kanun kapsamında verilen idari para cezalarının
 tamamının tahsil edilmiş olması şarttır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

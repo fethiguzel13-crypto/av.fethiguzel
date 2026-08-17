@@ -19,8 +19,10 @@ kuruluşları, sivil toplum kuruluşları, meslek örgütleri veya üniversitele
 c) Kişisel verilerle ilgili uluslararası gelişmeleri izlemek ve değerlendirmek, görev
 alanına giren konularda uluslararası kuruluşlarla iş birliği yapmak, toplantılara katılmak.
 ç) Yıllık faaliyet raporunu Cumhurbaşkanlığına, Türkiye Büyük Millet Meclisi İnsan
-Haklarını İnceleme Komisyonuna (…)3 sunmak.
+Haklarını İnceleme Komisyonuna (…)sunmak.
 d) Kanunlarla verilen diğer görevleri yerine getirmek.
+
+---
 
 ### Akademik Yorum ve Analiz
 

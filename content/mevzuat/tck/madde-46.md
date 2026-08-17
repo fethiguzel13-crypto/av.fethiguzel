@@ -16,6 +16,8 @@ a) Ağırlaştırılmış müebbet hapis cezası.
 b) Müebbet hapis cezası.
 c) Süreli hapis cezası.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

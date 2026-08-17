@@ -12,7 +12,7 @@ I. Öneri ve kabul**
 
 ---
 
-Madde 196 - Borçlunun yerine yenisinin geçmesi ve borcundan kurtarılması, borcu
+MADDE 196- Borçlunun yerine yenisinin geçmesi ve borcundan kurtarılması, borcu
 üstlenen ile alacaklı arasında yapılacak sözleşmeyle olur.
 İç üstlenme sözleşmesinin, üstlenen veya onun izni ile borçlu tarafından alacaklıya
 bildirilmesi, dış üstlenme sözleşmesinin yapılmasına ilişkin öneri anlamına gelir.

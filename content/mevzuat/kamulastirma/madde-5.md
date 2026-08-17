@@ -26,19 +26,17 @@ Yüksek Kurumu yararına kamulaştırmalarda yönetim kurulları,
 idare kurulu,
 9. Bir il sınırları içindeki birden çok ilçeye bağlı köyler ve belediyeler yararına
 kamulaştırmalarda il idare kurulu,
-2 2/7/2018 tarihli ve 700 sayılı KHK’nin 86 ncı maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-3 27/3/2015 tarihli ve 6639 sayılı kanunun 28 inci maddesiyle bu fıkrada yer alan “raylı taşıma sistemleri” ibaresinden sonra gelmek üzere “ile tünel” ibaresi eklenmiştir.
-
-
-10. Ayrı illere bağlı birden çok kamu tüzelkişileri yararına kamulaştırmalarda
-Cumhurbaşkanı,4
-11. Birden çok il sınırları içindeki Devlet yararına kamulaştırmalarda Cumhurbaşkanı.4
+10. Ayrı illere bağlı birden çok kamu tüzelkişileri yararına kamulaştırmalarda
+Cumhurbaşkanı,
+11. Birden çok il sınırları içindeki Devlet yararına kamulaştırmalarda Cumhurbaşkanı.
 b) Kamu kurumları yararına kamulaştırmalarda yönetim kurulu veya idare meclisi,
 bunların olmaması halinde yetkili idare organları,
 c) Gerçek kişiler yararına kamulaştırmalarda bu kişilerin, özel hukuk tüzelkişileri
 yararına kamulaştırmalarda ise; yönetim kurulları veya idare meclislerinin, yoksa yetkili
 yönetim organlarının başvuruları üzerine gördükleri hizmet bakımından denetimine bağlı
 oldukları köy, belediye, özel idare veya bakanlık.
+
+---
 
 ### Akademik Yorum ve Analiz
 

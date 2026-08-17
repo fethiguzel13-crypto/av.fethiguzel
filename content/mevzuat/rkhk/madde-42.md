@@ -16,11 +16,9 @@ yeterli bulması durumunda, ihbar veya şikayet edenlere ileri sürülen iddiala
 bulunduğu ve araştırmaya başlandığı yazılı olarak bildirilir.
 Kurulun, gerek başvuruları açıkca reddetmesi, gerekse süresi içinde bildirimde
 bulunmayarak reddetmiş sayılması durumlarında, doğrudan ya da dolaylı menfaati olduğunu
-17/9/2004 tarihli ve 5234 sayılı Kanunun 29 uncu maddesiyle bu maddeye “(c)” bendi eklenmiş ve
-mevcut “(c)” bendi ise, “(d)” bendi olarak teselsül ettirilmiştir.
-14
+belgeleyen herkes Kurulun red kararına karşı yargı yoluna başvurabilir.
 
-belgeleyen herkes Kurulun red kararına karşı yargı yoluna başvurabilir.
+---
 
 ### Akademik Yorum ve Analiz
 

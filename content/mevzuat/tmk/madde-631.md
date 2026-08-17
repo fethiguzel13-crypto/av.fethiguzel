@@ -11,7 +11,10 @@ wordCount: 4310
 
 ---
 
-Madde 631 - Mirasın De vlete geçmesi hâlinde sulh mahkemesi, re'sen yukarıdaki usuller uyarınca terekenin resmî d efterini düzenler. Devlet, deftere yazılan borçlardan sadece miras yoluyla edindiği değerler ölçüsünde sorumludur. DÖRDÜNCÜ AYIRIM RESMÎ TASFİYE A. Koşulları I. Mir asçıların istemi ile
+Madde 631- Mirasın Devlete geçmesi hâlinde sulh mahkemesi, re'sen yukarıdaki usuller
+uyarınca terekenin resmî defterini düzenler.
+Devlet, deftere yazılan borçlardan sadece miras yoluyla edindiği değerler ölçüsünde
+sorumludur.
 
 ---
 

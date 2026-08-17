@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**VI
-- Ticarete yeni başlayanlar için uygulama**
+**VI - Ticarete yeni başlayanlar için uygulama**
 
 ---
 
-Madde 87 - (1) İşletmesini ticaret siciline tescil ettirmekle yükümlü olan işletme sahipleri için bu Kısım hükümleri, tica ret siciline tescil ettirme yükümlülüğünün doğduğu andan itibaren geçerlidir.
+MADDE 87- (1) İşletmesini ticaret siciline tescil ettirmekle yükümlü olan işletme
+sahipleri için bu Kısım hükümleri, ticaret siciline tescil ettirme yükümlülüğünün doğduğu
+andan itibaren geçerlidir.
 
 ---
 

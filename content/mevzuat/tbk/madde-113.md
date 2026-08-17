@@ -11,7 +11,7 @@ wordCount: 4318
 
 ---
 
-Madde 113 - Yapma borcu, borçlu tarafından ifa edilmediği takdirde alacaklı,
+MADDE 113- Yapma borcu, borçlu tarafından ifa edilmediği takdirde alacaklı,
 masrafı borçluya ait olmak üzere edimin kendisi veya başkası tarafından ifasına izin
 verilmesini isteyebilir; her türlü giderim isteme hakkı saklıdır.
 Yapmama borcuna aykırı davranan borçlu, bu aykırı davranışının doğurduğu zararı

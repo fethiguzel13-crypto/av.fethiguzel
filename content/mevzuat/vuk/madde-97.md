@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**Yabancı memlekette bulunanlara tebliğ**
+**Yabancı memlekette bulunanlara tebliğ:**
 
 ---
 
@@ -23,8 +23,7 @@ başvurulmadığı takdirde tebliğin yapılmış sayılacağı ihtarını içer
 muhataba tebliğ edildiği belgelendirildiğinde, tebliğ tarihinden itibaren otuz gün içinde
 Türkiye elçiliği veya konsolosluğuna başvurulmadığı takdirde tebligat otuzuncu günün
 bitiminde yapılmış sayılır. Muhatap, Türkiye elçiliği veya konsolosluğuna başvurduğu
-
-takdirde tebliğ evrakını almaktan kaçınırsa bu hususta düzenlenecek tutanak tarihinde tebliğ
+takdirde tebliğ evrakını almaktan kaçınırsa bu hususta düzenlenecek tutanak tarihinde tebliğ
 yapılmış sayılır. Evrak bekletilmeksizin merciine iade edilir.
 Yabancı memleketlerde bulunan kimselere tebliğ olunacak evrak, tebligatı çıkaran
 merciin bağlı bulunduğu Bakanlık vasıtasiyle Dışişleri Bakanlığına, oradan da Türkiye elçilik
@@ -36,6 +35,8 @@ Yabancı memlekette resmi görevle bulunan Türk memurlarına tebliğ Dışişle
 Bakanlığı vasıtasiyle yapılır.
 Yabancı memlekette bulunan askeri şahıslara yapılacak tebliğ, bağlı bulundukları kara,
 deniz, hava kuvvetleri komutanlıklariyle Jandarma Genel Komutanlığı vasıtasiyle yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

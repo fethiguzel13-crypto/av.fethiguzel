@@ -24,6 +24,8 @@ ilgili olarak uygulanır.
 (4) Cumhurbaşkanının tanıklığı söz konusu olduğunda sırrın niteliğini ve mahkemeye
 bildirilmesi hususunu kendisi takdir eder.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

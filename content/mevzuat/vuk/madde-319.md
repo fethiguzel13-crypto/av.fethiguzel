@@ -7,14 +7,9 @@ lastReviewed: "2026-07-27"
 wordCount: 2973
 ---
 
-**(Mülga: 17/12/2003-5024/9 md.)**
+Madde 319 – (Mülga: 17/12/2003-5024/9 md.)
 
 ---
-
-Madde 319 - (Mülga: 17/12/2003-5024/9 md.)
-
-b)
-Süre bakımından:
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Teminat gösterilecek hâller**
+**BEŞİNCİ BÖLÜM
+Teminat
+Teminat gösterilecek hâller**
 
 ---
 
@@ -17,12 +19,13 @@ a) Türkiye’de mutad meskeni olmayan Türk vatandaşının dava açması, dava
 davaya müdahil olarak katılması veya takip yapması.
 b) Davacının daha önceden iflasına karar verilmiş, hakkında konkordato veya uzlaşma
 suretiyle yeniden yapılandırma işlemlerinin başlatılmış bulunması; borç ödemeden aciz
-
-belgesinin varlığı gibi sebeplerle, ödeme güçlüğü içinde bulunduğunun belgelenmesi.
+belgesinin varlığı gibi sebeplerle, ödeme güçlüğü içinde bulunduğunun belgelenmesi.
 (2) Davanın görülmesi sırasında teminatı gerektiren durum ve koşulların ortaya
 çıkması hâlinde de mahkeme teminat gösterilmesine karar verir.
 (3) Mecburi dava ve takip arkadaşlığında teminat gösterme yükümlülüğü, bu
 yükümlülüğün tüm davacılar bakımından mevcut olması hâlinde doğar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

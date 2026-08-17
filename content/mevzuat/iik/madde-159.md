@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**Muhafaza tedbirleri**
+**Muhafaza tedbirleri:**
 
 ---
 
@@ -24,6 +24,8 @@ ise teminat aranmaz. Devlet ve adli yardıma nail kimseler de teminat göstermek
 mecburiyetinde değillerdir.
 Bu maddeye göre alınan muhafaza tedbirleri borçlu aleyhindeki icra takiplerine tesir
 etmez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

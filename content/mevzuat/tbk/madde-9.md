@@ -17,7 +17,7 @@ keywords:
 
 ---
 
-Madde 9 - Bir sonucun gerçekleşmesi karşılığında ödül vereceğini ilan yoluyla
+MADDE 9- Bir sonucun gerçekleşmesi karşılığında ödül vereceğini ilan yoluyla
 duyuran kimse, sözünü yerine getirmekle yükümlüdür.
 Ödül sözü veren, sonucun gerçekleşmesinden önce sözünden cayarsa veya sonucun
 gerçekleşmesini engellerse, dürüstlük kurallarına uygun olarak yapılan giderleri ödemekle

@@ -18,6 +18,8 @@ açıklayan kimseye müebbet hapis cezası verilir.
 etkinliğini veya askerî hareketlerini tehlikeyle karşı karşıya bırakmış ise, faile ağırlaştırılmış
 müebbet hapis cezası verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

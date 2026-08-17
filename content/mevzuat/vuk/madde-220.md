@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**Tasdike tabi defterler**
+**ONUNCU BÖLÜM
+Defterlerin Tasdıki
+Tasdike tabi defterler:**
 
 ---
 
@@ -26,6 +28,8 @@ mecburidir:
 11. (Ek: 24/6/1994-4008/5 md.; Mülga: 22/7/1998-4369/82 md.)
 Bu kanunla cevaz verilen hallerde yukarıda yazılı olanların yerine kullanılacak olan
 defterler de tasdike tabi tutulur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

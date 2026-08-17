@@ -14,6 +14,8 @@ wordCount: 4282
 Madde 258 – (1) 256 ncı maddeye göre verilecek hükümlere karşı Cumhuriyet
 savcısı, katılan ve 257 nci maddede belirlenen kişiler için istinaf yolu açıktır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

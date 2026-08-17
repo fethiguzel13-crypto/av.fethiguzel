@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**Madde 645**
+**ÜÇÜNCÜ KİTAP
+Kıymetli Evrak
+BİRİNCİ KISIM
+Genel Hükümler
+A) Kıymetli evrakın tanımı**
 
 ---
 
-Madde 645 - (1) Kıymetli evrak öyle senetlerdir ki, bunların içerdikleri hak, senetten ayrı olarak ileri sürülemediği gibi başkalarına da devredilemez.
+MADDE 645- (1) Kıymetli evrak öyle senetlerdir ki, bunların içerdikleri hak, senetten
+ayrı olarak ileri sürülemediği gibi başkalarına da devredilemez.
 
 ---
 

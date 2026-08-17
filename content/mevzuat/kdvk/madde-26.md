@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**Döviz ile yapılan işlemler**
+**Döviz ile yapılan işlemler:**
 
 ---
 
 Madde 26 – Bedelin döviz ile hesaplanması halinde döviz, vergiyi doğuran olayın
 meydana geldiği andaki cari kur üzerinden Türk parasına çevrilir. Cari kuru belli olmayan
 dövizlerin Türk parasına çevrilmesine ilişkin esasları Maliye ve Gümrük Bakanlığı belirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

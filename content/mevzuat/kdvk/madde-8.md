@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**Mükellef**
+**İKİNCİ BÖLÜM
+Mükellef ve Vergi Sorumlusu
+Mükellef:**
 
 ---
 
@@ -21,8 +23,7 @@ d) PTT İşletme Genel Müdürlüğü ve radyo ve televizyon kurumları,
 e) (Değişik: 14/3/2007-5602/10 md.) Her türlü şans ve talih oyunlarını tertip edenler,
 f) (Mülga: 14/3/2007-5602/11 md.)
 g) 1 inci maddenin 3 üncü fıkrasının (c) bendine giren hallerde bunları tertipleyenler
-
-veya gösterenler,
+veya gösterenler,
 h) Gelir Vergisi Kanununun 70 inci maddesinde belirtilen mal ve hakları kiraya verenler,
 ı) İsteğe bağlı mükellefiyette talepte bulunanlardır.
 2. (Değişik : 3/6/1986 - 3297/2 md.) Vergiye tabi bir işlem sözkonusu olmadığı veya
@@ -35,6 +36,8 @@ Bakanlığının belirleyeceği usul ve esaslara göre işlemi yapan mükellefe 
 cümle: 29/3/2018-7104/2 md.) Şu kadar ki söz konusu iadenin yapılabilmesi için işlemle
 ilgili beyanların düzeltilmesi ve fazla veya yersiz hesaplanan verginin satıcı tarafından alıcıya
 geri verilmesi şarttır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

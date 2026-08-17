@@ -7,15 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**İhtiyati haciz**
+**II – İhtiyati haciz
+İhtiyati haciz:**
 
 ---
 
 Madde 13 – İhtiyati haciz aşağıdaki hallerden herhangi birinin mevcudiyeti takdirinde
 hiçbir müddetle mukayyet olmaksızın alacaklı amme idaresinin mahalli en büyük memurunun
 karariyle, haczin ne suretle yapılacağına dair olan hükümlere göre, derhal tatbik olunur:
-
-1. 9 uncu madde gereğince teminat istenmesini mucip haller mevcut ise,
+1. 9 uncu madde gereğince teminat istenmesini mucip haller mevcut ise,
 2. Borçlunun belli ikametgahı yoksa,
 3. Borçlu kaçmışsa veya kaçması, mallarını kaçırması ve hileli yollara sapması
 ihtimalleri varsa,
@@ -28,6 +28,8 @@ amme davası açılmış ise,
 7. İptali istenen muamele ve tasarrufun mevzuunu teşkil eden mallar, bu mallar elden
 çıkarılmışsa elden çıkaranın diğer malları hakkında uygulanmak üzere, bu kanunun 27, 29, 30
 uncu maddelerinin tatbikını icabettiren haller varsa.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -12,11 +12,18 @@ wordCount: 4267
 ---
 
 MADDE 83 – (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-16 20/11/2017 tarihli ve 696 sayılı Kanun Hükmünde Kararnamenin 136 ncı maddesi uyarınca bu maddenin 2/1/2018 tarihinde yürürlüğe gireceği hüküm altına alınmış, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun 124 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.
-
 6356 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA
 ANAYASA MAHKEMESİ TARAFINDAN VERİLEN İPTAL KARARLARININ
 YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTERİR TABLO
+Değiştiren Kanunun/
+KHK’nin veya İptal Eden6356 Sayılı Kanunun Değişen
+Yürürlüğe Giriş Tarihi
+Anayasa Mahkemesiveya İptal Edilen Maddeleri
+Kararının Numarası
+6385 GEÇİCİ MADDE 6 19/1/2013
+26, 41, 43, EK MADDE 1,
+
+---
 
 ### Akademik Yorum ve Analiz
 

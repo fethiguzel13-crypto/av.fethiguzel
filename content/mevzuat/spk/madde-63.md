@@ -18,6 +18,8 @@ denetim kuruluşları ile derecelendirme ve değerleme kuruluşları, faaliyetle
 düzenledikleri raporlarda yer alan yanlış, yanıltıcı ve eksik bilgiler dolayısıyla neden oldukları
 zararlardan sorumludurlar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

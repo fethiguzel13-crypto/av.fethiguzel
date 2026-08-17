@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**Madde 639**
+**C. Zamanaşımı**
 
 ---
 
-Madde 639 - Miras sebebiyle istihkak davası, davacının kendisinin mirasçı olduğunu ve iyiniyetli davalının terekeyi veya tereke malını elinde bulundurduğunu öğrendiği tarihten başlayarak bir yıl ve her hâlde mirasbıra kanın ölümünün veya vasiyet namenin açılmasının üzerinden on yıl geçmekle zamanaşımına uğrar. İyiniyetli olmayanlara karşı zamanaşımı süresi yirmi yıldır.
-ÜÇÜNCÜ BÖLÜ M MİRASIN PAYLAŞILMASI BİRİNCİ AYIRIM PAYLAŞIMDAN ÖNCE MİRAS ORTAKLIĞI A. Mirasın geçmesi nin sonucu I. Miras ortaklı ğı
+Madde 639- Miras sebebiyle istihkak davası, davacının kendisinin mirasçı olduğunu ve
+iyiniyetli davalının terekeyi veya tereke malını elinde bulundurduğunu öğrendiği tarihten
+başlayarak bir yıl ve her hâlde mirasbırakanın ölümünün veya vasiyetnamenin açılmasının
+üzerinden on yıl geçmekle zamanaşımına uğrar.
+İyiniyetli olmayanlara karşı zamanaşımı süresi yirmi yıldır.
 
 ---
 

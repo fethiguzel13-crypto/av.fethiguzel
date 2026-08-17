@@ -15,6 +15,8 @@ MADDE 31- (1) Hâkim, uyuşmazlığın aydınlatılmasının zorunlu kıldığı
 maddi veya hukuki açıdan belirsiz yahut çelişkili gördüğü hususlar hakkında, taraflara
 açıklama yaptırabilir; soru sorabilir; delil gösterilmesini isteyebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

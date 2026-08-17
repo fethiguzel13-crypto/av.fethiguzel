@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**Takip talebi ve muhtevası**
+**V. TAKİP TALEBİ
+Takip talebi ve muhtevası:**
 
 ---
 
@@ -26,8 +27,7 @@ kimlik numarası, şöhret ve yerleşim yeri;
 Bir terekeye karşı yapılan taleplerde kendilerine tebligat yapılacak mirasçıların adı,
 soyadı, biliniyorsa Türkiye Cumhuriyeti kimlik numarası veya vergi kimlik numarası, şöhret
 ve yerleşim yerleri;
-
-3. (Değişik: 17/7/2003-4949/12 md.) Alacağın veya istenen teminatın Türk parasıyla
+3. (Değişik: 17/7/2003-4949/12 md.) Alacağın veya istenen teminatın Türk parasıyla
 tutarı ve faizli alacaklarda faizin miktarı ile işlemeye başladığı gün, alacak veya teminat
 yabancı para ise alacağın hangi tarihteki kur üzerinden talep edildiği ve faizi;
 4. Senet, senet yoksa borcun sebebi;
@@ -37,6 +37,8 @@ tarafından tasdik edilmiş, borçlu sayısından bir fazla örneğinin takip ta
 dairesine tevdii mecburidir.
 Alacaklıya takip talebinde bulunduğuna ve verdiği belgelere, talep ve takip
 masraflarına dair bedava ve pulsuz bir makbuz verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -28,7 +28,8 @@ yetkilendirilmiş kişiler tarafından tespiti durumunda veya ikinci fıkrada be
 nedeniyle bir yıl içinde üç defa faaliyetten men edilen lokallerde, bu fiiller tekrar işlendiği
 takdirde lokal açma ve işletme belgesi mülki idare amirince iptal edilir.
 Bu maddenin uygulanmasına ilişkin usuller yönetmelikle düzenlenir.
-Kamu yararına çalışan dernekler
+
+---
 
 ### Akademik Yorum ve Analiz
 

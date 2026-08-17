@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**Basit tasfiye**
+**II. ALACAKLILARI DAVET
+Basit tasfiye:**
 
 ---
 
@@ -21,6 +22,8 @@ Basit tasfiyede iflas dairesi alacaklıların menfaatlerine muvafık surette mal
 çevirir ve başka merasime mahal kalmaksızın alacakları tahkik ve sıralarını tayin ederek
 bedellerini dağıtır.
 Tasfiyenin kapandığı ilan olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

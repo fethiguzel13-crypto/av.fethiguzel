@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**V
-- Tevdi**
+**V - Tevdi**
 
 ---
 
-Madde 712 - (1) Bir poliçe 708 inci maddede öngörülen süre içinde ödeme için ibraz edilmediği takdirde borçlu, gideri ve riski hamile ait olmak üzere poliçenin bedelini bir bankaya tevdi edebilir. BEŞİNCİ AYIRIM Kabul Etmeme ve Ödememe Hâllerinde Başvurma Hakları A) Baş vurma hakkı I - Genel olarak
+MADDE 712- (1) Bir poliçe 708 inci maddede öngörülen süre içinde ödeme için ibraz
+edilmediği takdirde borçlu, gideri ve riski hamile ait olmak üzere poliçenin bedelini bir
+bankaya tevdi edebilir.
 
 ---
 

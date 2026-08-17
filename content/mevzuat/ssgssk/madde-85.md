@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**Asgari işçilik uygulaması ve uzlaşma156**
+**Asgari işçilik uygulaması ve uzlaşma**
 
 ---
 
@@ -27,9 +27,6 @@ hesaplanacak gecikme cezası ve gecikme zammı ile birlikte bir ay içinde öden
 işverene tebliğ edilir. Tebliğ edilen prim ve gecikme cezası ve gecikme zammının ödendiği
 veya ödeneceğinin işveren tarafından yazılı olarak taahhüt edilmesi halinde borç kesinleşir.
 Kuruma verilecek taahhütnamede üstlenilen ödeme yükümlülüğünün yerine getirilmemesi
-156 Bu madde başlığı “Asgarî işçilik uygulaması” iken, 17/4/2008 tarihli ve 5754 sayılı Kanunun 49 uncu maddesiyle metne işlendiği şekilde değiştirilmiş, aynı maddenin ikinci ve beşinci fıkralarında yer alan “döner sermayeli kuruluşlar,” ibaresinden sonra gelmek üzere “kanunla kurulan kurum ve kuruluşlar” ibaresi, dokuzuncu fıkrasında yer alan “yapılacak yerinde tespit kriterleri,” ibaresinden sonra gelmek üzere “uzlaşma komisyonlarının oluşumu, çalışma usûl ve esasları” ibaresi eklenmiştir.
-
-
 halinde, işveren hakkında 88 inci ve 89 uncu maddeler uyarınca işlem yapılır. Tebliğ edilen
 prim ve gecikme cezası ve gecikme zammının ödenmemesi, taahhütname verilmemesi veya
 Kurumca işyerinin denetlenmesine gerek görülmesi durumunda Kurumca inceleme yapılır.
@@ -70,8 +67,6 @@ gönderilmesinden önce işverenle uzlaşma yapılabilir. Uzlaşmaya varılması
 tutanakla tespit edilir. Uzlaşılan tutarlar kesin olup, uzlaşma konusu yapılan tutarlar hakkında
 işverence dava açılamaz ve hiçbir mercie şikayet ve itirazda bulunulamaz. Uzlaşılan prim ve
 idari para cezaları, uzlaşma tutanağının düzenlendiği tarihten itibaren bir ay içinde ödenir.
-
-
 İşveren, uzlaşılan idari para cezası tutarı için ayrıca peşin ödeme indiriminden
 yararlandırılmaz. Uzlaşılan tutarların, bu sürede tam olarak ödenmemesi halinde uzlaşma
 bozulur ve uzlaşılan tutarlar kazanılmış hak teşkil etmez. Uzlaşmanın temin edilememiş veya
@@ -87,6 +82,8 @@ teknik elemanların nitelikleri, asgarî işçilik tespitinde uygulanacak yönte
 tamamlanmış veya devam etmekte olan işlerle ilgili yapılacak yerinde tespit kriterleri, uzlaşma
 komisyonlarının oluşumu, çalışma usûl ve esasları ile bu maddenin uygulanmasına ilişkin diğer
 usûl ve esaslar, Kurum tarafından çıkarılacak yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

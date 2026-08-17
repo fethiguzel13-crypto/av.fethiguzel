@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**g) Alt ıncı sıra**
+**g) Altıncı sıra**
 
 ---
 
-Madde 1395 - (1) Sıra cetvelinin altıncı sırasına, akdî veya kanuni bir rehin hakkı ile teminat altına alınmış olup da 1390 ilâ 1394 üncü maddelere girmeyen alacaklar kaydedilir. (2) Birinci fıkrada sayılan alacaklar, her alacağı teminat altına al an rehin hakkını düzenleyen kanunda gösterilen sıraya tabidir.
+MADDE 1395- (1) Sıra cetvelinin altıncı sırasına, akdî veya kanuni bir rehin hakkı ile
+teminat altına alınmış olup da 1390 ilâ 1394 üncü maddelere girmeyen alacaklar kaydedilir.
+(2) Birinci fıkrada sayılan alacaklar, her alacağı teminat altına alan rehin hakkını
+düzenleyen kanunda gösterilen sıraya tabidir.
 
 ---
 

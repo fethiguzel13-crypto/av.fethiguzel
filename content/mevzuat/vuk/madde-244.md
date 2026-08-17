@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**Ekim ve sayım ilmühaberi**
+**Ekim ve sayım ilmühaberi:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 244 – İhtiyar heyetleri, ekim ve sayım defterlerine kaydedilen bilgile
 dayanarak, beyanda bulunan çiftçilere tasdikli bir ekim ve sayım ilmühaberi verirler.
 Muhtar ve ihtiyar heyetlerince verilen ilmühaberler için ücret alınmaz. Ekim ve sayım
 beyanları ile ilmühaberler hiçbir resim ve harca tabi değildir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

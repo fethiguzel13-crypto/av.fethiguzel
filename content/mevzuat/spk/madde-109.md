@@ -19,7 +19,8 @@ adli para cezası ile cezalandırılırlar.
 hapis ve beş bin günden on bin güne kadar adli para cezası ile cezalandırılırlar. Bu kişiler, bu
 suçun icrası kapsamında aynı zamanda birinci fıkrada tanımlanan suçu da işledikleri takdirde,
 sadece bu fıkrada tanımlanan suçtan dolayı cezaya hükmedilir ve ceza yarı oranında artırılır.
-İzinsiz kripto varlık hizmet sağlayıcılığı faaliyeti
+
+---
 
 ### Akademik Yorum ve Analiz
 

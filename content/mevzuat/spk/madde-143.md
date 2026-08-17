@@ -13,6 +13,8 @@ wordCount: 4267
 
 MADDE 143 – (18/5/2004 tarihli ve 5174 sayılı Türkiye Odalar ve Borsalar
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,13 +7,22 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Tescilde dayanak belgesi zorunluluğu**
+**Staja kabul, ret veya kovuşturma sonuna kadar beklenmesi kararı:**
 
 ---
 
-MADDE 12- (1) Nüfus kütüklerine düşülen kişisel durumla ilgili her kayıt ve açıklamanın bu Kanuna göre yetkili kılınmış görevlilerce, usûlüne ve örneğine uygun olarak düzenlenmiş belgelere dayandırılması zorunludur.
-
-(2) Nüfus olaylarını tescil eden memurlar tarafından her işlem sonunda dayanak belgeleri aile kütüklerine işlendikten sonra imzalanır ve bir nüshası arşivlenmek üzere Genel Müdürlüğe gönderilecek olan ilgili özel kütüğe konulur.
+Madde 12 – Oda yönetim kurulu, itiraz süresinin bitmesinden itibaren bir ay içinde 11
+inci maddede yazılı raporu da gözönünde tutarak, adayın stajiyer listesine kabul edilip edilmemesi
+veya kovuşturma sonuna kadar beklenmesi hakkında gerekçeli bir karar verir.
+Bu karar aleyhine, oda yönetim kurulu üyeleri, kararın verildiği yer Cumhuriyet
+savcısı ve alakalı, tebliğ tarihinden itibaren onbeş gün içinde Türkiye Noterler Birliğine
+itirazda bulunabilir.
+Birinci fıkrada yazılı süre içinde bir karar verilmemiş olması halinde talep reddedilmiş
+sayılır. Bu takdirde bir aylık sürenin bitiminden itibaren onbeş gün içinde, staj isteminde
+bulunan, Türkiye Noterler Birliğine itiraz edebilir.
+Oda yönetim kurulunun kabul kararı ve Türkiye Noterler Birliği Yönetim Kurulunun
+itiraz üzerine verdiği karar Adalet Bakanlığının onayı ile kesinleşir. Adalet Bakanlığı kararı
+aleyhine staj isteminde bulunan veya Türkiye Noterler Birliği Danıştay'a başvurabilirler.
 
 ---
 

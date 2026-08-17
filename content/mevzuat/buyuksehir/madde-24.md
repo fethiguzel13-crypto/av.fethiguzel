@@ -15,7 +15,7 @@ Madde 24- Büyükşehir belediyesinin giderleri şunlardır:
 a) Belediye hizmet binaları ve tesislerin temini, bakım ve onarımı için yapılan giderler.
 b) Belediye personeline ve belediyenin seçilmiş organlarının üyelerine ödenen maaş,
 ücret, ödenek, huzur hakkı, yolluklar, hizmete ilişkin eğitim ile diğer giderler.
-c) İlçe (...)31 belediyeleri ile bağlı kuruluşlara yapacakları yardımlar ve ortak proje
+c) İlçe (…)belediyeleri ile bağlı kuruluşlara yapacakları yardımlar ve ortak proje
 giderleri.
 d) Her türlü alt yapı, yapım, onarım ve bakım giderleri.
 e) Belediye zabıta ve itfaiye hizmetleri ile diğer görev ve hizmetlerin yürütülmesi için
@@ -27,7 +27,7 @@ g) Belediyenin kuruluşuna katıldığı şirket, kuruluş ve birliklerle ilgili
 h) Mezarlıkların tesisi, korunması ve bakımına ilişkin giderler.
 i) Faiz, borçlanmaya ilişkin diğer ödemeler ve sigorta giderleri.
 j) Dar gelirli, yoksul, muhtaç ve kimsesizler ile engellilere yapılacak sosyal hizmet ve
-yardımlar.32
+yardımlar.
 k) Dava takip ve icra giderleri.
 l) Temsil, tören, ağırlama ve tanıtım giderleri.
 m) Avukatlık, danışmanlık ve denetim ödemeleri.
@@ -39,6 +39,8 @@ o) Spor, sosyal, kültürel ve bilimsel etkinlikler için yapılan giderler.
 p) Büyükşehir belediye hizmetleriyle ilgili olarak yapılan kamuoyu yoklaması ve
 araştırması giderleri.
 r) Kanunla verilen görevler ve hizmetlerin yürütülmesi için yapılan diğer giderler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

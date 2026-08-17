@@ -12,7 +12,8 @@ I. Genel olarak**
 
 ---
 
-Madde 386 - Konutlar, tarıma veya sanayiye e lverişli taşınmazlar, eklen tileriyle birlikte aile yur du hâline g etiril ebilir.
+Madde 386- Konutlar, tarıma veya sanayiye elverişli taşınmazlar, eklentileriyle birlikte
+aile yurdu hâline getirilebilir.
 
 ---
 

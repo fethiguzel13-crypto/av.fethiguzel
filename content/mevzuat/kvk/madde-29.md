@@ -20,6 +20,8 @@ veya tasfiye ve birleşme hallerinde verilecek beyannamelerde ise beyanname verm
 içinde,
 ödenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

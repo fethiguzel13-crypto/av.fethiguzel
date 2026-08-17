@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Bitim işleri defteri**
+**Bitim işleri defteri:**
 
 ---
 
@@ -15,6 +15,9 @@ Madde 200 – Birinci ve ikinci sınıf tüccarlardan boyama, basma, yazma, kasa
 apre, cilalama gibi ücretle yapılan bitim işleriyle uğraşanlar, imalat defteri yerine, bir "Bitim
 işleri defteri" tutarlar.
 Bu deftere müşterilerden alınan ve işlendikten sonra geri verilen emtianın cinsi ve
+miktarı tarih sırasiyle yazılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

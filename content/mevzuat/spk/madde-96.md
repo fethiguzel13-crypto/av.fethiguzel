@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**uygulanacak tedbirler**
+**Sermaye piyasası kurumlarının hukuka aykırı faaliyet veya işlemlerinde
+uygulanacak tedbirler**
 
 ---
 
@@ -26,6 +27,8 @@ mahkeme kararıyla tespit edilen yönetim kurulu üyelerini görevden almaya ve 
 kurul toplantısına kadar yerlerine yenilerini atamaya yetkilidir. Banka yönetim kurulu üyelerinin
 görevden alınması yönünde işlem tesis edilmeden önce Bankacılık Düzenleme ve Denetleme
 Kurumunun görüşü alınır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

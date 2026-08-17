@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**İcra dairelerinin muhabereleri**
+**İcra dairelerinin muhabereleri:**
 
 ---
 
 Madde 359 – İcra memurları yaptıkları muameleden dolayı her daire ve makam ile
 doğrudan doğruya muhabere edebilirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

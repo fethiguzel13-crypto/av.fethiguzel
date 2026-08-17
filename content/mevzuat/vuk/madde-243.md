@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**Ekim sayım beyanı**
+**DÖRDÜNCÜ KISIM
+Ekim ve Sayım Beyanı
+Ekim sayım beyanı:**
 
 ---
 
@@ -15,7 +17,7 @@ Madde 243 – (Değişik: 19/2/1963-205/16 md.)
 Zirai işletmeleri, Gelir Vergisi Kanununun 54 üncü maddesinde yazılı işletme
 büyüklüklerinin üstünde bulunan çiftçiler, zirai işletmelerinin (Gezici hayvancılıkta
 kışlaklarının) bulundukları köy ve mahallelerin muhtarlıklarına müracaatla ekim sayım
-beyanında bulunurlar.73
+beyanında bulunurlar.
 1. Çiftçinin soyadı ve adı;
 2. Çiftçinin ikametgah adresi;
 3. Zirai işletmenin (Gezici hayvancılıkta kışlaklarının) bulunduğu yer;
@@ -24,23 +26,7 @@ kadar ekilen arazinin genişliği ve ekimin nev'i;
 5. Hayvancılıkta: Beslenen hayvanların cins ve miktarları;
 6. Meyvacılıkta: İcabına göre, meyva verebilecek hale gelmiş ağaç sayısı veya
 bunların dikili bulunduğu arazinin genişliği;
-
-2/7/2018 tarihli ve 700 sayılı KHK’nin 46 ncı maddesiyle, bu paragrafta yer alan “Bakanlar Kurulunca”
-ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-72
-14/10/2021 tarihli ve 7338 sayılı Kanunun 24 üncü maddesiyle bu paragrafta yer alan “tutulması ve
-düzenlenmesi” ibaresi “tutulması, düzenlenmesi ve ibraz edilmesi” şeklinde ve “tutulmasına ve
-düzenlenmesine” ibaresi “tutulmasına, düzenlenmesine ve ibraz edilmesine” şeklinde değiştirilmiş ve paragrafın
-son cümlesine “çalışanları” ibaresinden sonra gelmek üzere “ile elektronik defter, belge ve kayıtların
-oluşturulması, imzalanması, iletilmesi ve saklanması hususlarından herhangi biri için hizmet verme konusunda
-yetkilendirilenlerin ortak, yönetici ve çalışanları” ibaresi eklenmiştir.
-73
-Bu maddede yeralan, "Zirai işletmeleri, Gelir Vergisi Kanununun 12 nci maddesine göre hasılat bildirimine
-esas alınan ölçülerin üstünde bulunan çitfçiler,..." ibaresi, 11/8/1999 tarih ve 4444 sayılı Kanunun 13 üncü
-maddesiyle metne işlendiği şekilde değiştirilmiştir.
-71
-
-Adi ortaklıklarda beyanın ortaklardan biri aile reisi beyanında aile rsisi tarafından
+Adi ortaklıklarda beyanın ortaklardan biri aile reisi beyanında aile rsisi tarafından
 yapılması kafidir. Bu takdirde diğer ortaklarla eş ve çocukların ad ve soyadları, ikametgah
 adresleri ve hisseleri beyanda bulunan tarafından deftere yazdırılır.
 Ekim ve sayım beyanı her yılın Kasım ayında yapılır.
@@ -52,6 +38,8 @@ Beyan varakaları iki nüsha olarak tanzim ve bir nüshası beyan süresinin son
 itibaren 15 gün içinde ilgili vergi dairesine makbuz karşılığında teslim edilir.
 Kayıt işlerini kendi imkanları ile tekemmül ettiremiyecek durumda olan muhtarlıklara
 valiliklerce gerekli yardımda bulunulur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

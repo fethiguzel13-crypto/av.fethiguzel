@@ -7,13 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**Yürürlük**
+**Geçici Madde 5 – (Ek: 26/12/2006-5568/7 md.; Mülga: 28/1/2010-5951/13 md.)
+Yürürlük**
 
 ---
 
 Madde 32- Bu Kanunun 23 üncü maddesinin birinci fıkrasının (b) bendi 1.1.2005
 tarihinde, aynı maddenin ikinci fıkrası yayımını izleyen ay başında, diğer maddeleri ise
 yayımı tarihinde yürürlüğe girer.
+
+---
 
 ### Akademik Yorum ve Analiz
 

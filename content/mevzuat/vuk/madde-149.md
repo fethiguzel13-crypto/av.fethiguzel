@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**Devamlı bilgi verme**
+**Devamlı bilgi verme:**
 
 ---
 
@@ -16,6 +16,8 @@ Kamu idare ve müesseseleri (Kamu hizmeti ifa eden kurum ve kuruluşlar dahil) i
 gerçek ve tüzelkişiler vergilendirmeye ilişkin olaylarla ilgili olarak Maliye ve Gümrük
 Bakanlığı ve vergi dairesince kendilerinden yazı ile istenecek bilgileri belli fasılalarla ve
 devamlı olarak yazı ile vermeye mecburdurlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

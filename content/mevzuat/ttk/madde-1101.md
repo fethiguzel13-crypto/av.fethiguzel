@@ -11,7 +11,8 @@ wordCount: 4264
 
 ---
 
-Madde 1101 - (1) Tutanağın aslı mahkemece veya konsoloslukça saklanır. İlgililerden isteye nlere onaylanmış örnekleri verilir.
+MADDE 1101- (1) Tutanağın aslı mahkemece veya konsoloslukça saklanır.
+İlgililerden isteyenlere onaylanmış örnekleri verilir.
 
 ---
 

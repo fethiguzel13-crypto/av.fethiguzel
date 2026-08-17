@@ -18,6 +18,8 @@ getirilmemesi ve benzeri nedenlerle ortaya çıkan zarar ve ziyandan doğrudan s
 zarar ve ziyan genel hükümlere göre hizmet sunucusuna ikmal ve tazmin ettirilir. Ayrıca
 haklarında 27 nci madde hükümleri uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

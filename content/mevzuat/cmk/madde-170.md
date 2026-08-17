@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**Kamu davasını açma görevi**
+**İKİNCİ KISIM
+Kamu Davasının Açılması
+BİRİNCİ BÖLÜM
+Kamu Davasının Açılması
+Kamu davasını açma görevi**
 
 ---
 
@@ -31,13 +35,15 @@ tarihleri ile bunların süreleri,
 Gösterilir.
 (4) İddianamede, yüklenen suçu oluşturan olaylar, mevcut delillerle ilişkilendirilerek
 açıklanır; yüklenen suçu oluşturan olaylar ve suçun delilleriyle ilgisi bulunmayan bilgilere yer
-verilmez.64
+verilmez.
 (5) İddianamenin sonuç kısmında, şüphelinin sadece aleyhine olan hususlar değil,
 lehine olan hususlar da ileri sürülür.
 (6) İddianamenin sonuç kısmında, işlenen suç dolayısıyla ilgili kanunda öngörülen
 ceza ve güvenlik tedbirlerinden hangilerine hükmedilmesinin istendiği; suçun tüzel kişinin
 faaliyeti çerçevesinde işlenmesi halinde, ilgili tüzel kişi hakkında uygulanabilecek olan
 güvenlik tedbiri açıkça belirtilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

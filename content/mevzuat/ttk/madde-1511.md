@@ -8,12 +8,12 @@ wordCount: 4279
 ---
 
 **C) Hastalık ve sağlık sigortası
-I
-- Sigortanın yaptırılması**
+I - Sigortanın yaptırılması**
 
 ---
 
-Madde 1511 - (1) Hastalık ve sağlık sigortaları, sigortalı lehine yapılabilir; hastalık sigortalarında lehtar da belirlenebilir.
+MADDE 1511- (1) Hastalık ve sağlık sigortaları, sigortalı lehine yapılabilir; hastalık
+sigortalarında lehtar da belirlenebilir.
 
 ---
 

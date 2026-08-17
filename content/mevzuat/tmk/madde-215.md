@@ -11,7 +11,8 @@ wordCount: 4295
 
 ---
 
-Madde 215 - Eş ler den birinin açık veya örtülü olarak mallarının yönetimini diğer eşe bırakması hâlinde, aksi kararlaştırıl mış olmadıkça vekâlet hükümleri uygulanır.
+Madde 215 - Eşlerden birinin açık veya örtülü olarak mallarının yönetimini diğer eşe
+bırakması hâlinde, aksi kararlaştırılmış olmadıkça vekâlet hükümleri uygulanır.
 
 ---
 

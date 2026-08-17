@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Madde 36**
+**İKİNCİ BÖLÜM
+KİŞİSEL DURUM SİCİLİ
+A. Genel olarak
+I. Sicil**
 
 ---
 
-Madde 36 - Kişisel durum, bu amaçla tutulan resmî sicille belirlenir. Bu sicilin tutu lmasına ve zorunlu bildirimlerin yapılmasına ilişkin esaslar, ilgili kanunda gösterilir.
+Madde 36- Kişisel durum, bu amaçla tutulan resmî sicille belirlenir.
+Bu sicilin tutulmasına ve zorunlu bildirimlerin yapılmasına ilişkin esaslar, ilgili kanunda
+gösterilir.
 
 ---
 

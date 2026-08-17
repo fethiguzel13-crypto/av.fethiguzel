@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**Değersiz alacaklar**
+**ayrı bir karşılık hesabında toplanması caizdir
+İKİNCİ BÖLÜM
+Alacaklarda ve Sermayede Amortisman
+Değersiz alacaklar:**
 
 ---
 
@@ -17,6 +20,8 @@ Değersiz alacaklar, bu mahiyete girdikleri tarihte tasarruf değerlerini kaybed
 mukayyet kıymetleriyle zarara geçirilerek yok edilirler.
 İşletme hesabı esasına göre defter tutan mükelleflerin bu madde hükmüne giren
 değersiz alacakları, gider kaydedilmek suretiyle yok edilirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -15,6 +15,8 @@ Madde 40 – (1) Kusuru olmaksızın bir süreyi geçirmiş olan kişi, eski hal
 isteminde bulunabilir.
 (2) Kanun yoluna başvuru hakkı kendisine bildirilmemesi halinde de, kişi kusursuz sayılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

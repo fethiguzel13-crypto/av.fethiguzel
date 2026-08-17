@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**İhbarnamenin muhteviyatı**
+**İhbarnamenin muhteviyatı:**
 
 ---
 
@@ -26,6 +26,8 @@ Madde 38 – Tahrir ihbarnamesi aşağıda yazılı malümatı ihtiva eder:
 12. Verginin miktarı;
 13. İtiraz süresi;
 14. İtiraz şekli.
+
+---
 
 ### Akademik Yorum ve Analiz
 

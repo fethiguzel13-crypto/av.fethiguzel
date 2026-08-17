@@ -12,7 +12,7 @@ wordCount: 4315
 
 ---
 
-Madde 309 - Bir üçüncü kişinin kiralananda kiracının hakkıyla bağdaşmayan bir hak
+MADDE 309- Bir üçüncü kişinin kiralananda kiracının hakkıyla bağdaşmayan bir hak
 ileri sürmesi durumunda kiraya veren, kiracının bildirimi üzerine davayı üstlenmek ve
 kiracının uğradığı her türlü zararı gidermekle yükümlüdür.
 

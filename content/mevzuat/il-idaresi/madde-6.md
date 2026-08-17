@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**I - İl memurlarının tayin usulü**
+**(Mülga ikinci fıkra: 2/7/2018 - KHK/703/138 md.)
+I - İl memurlarının tayin usulü**
 
 ---
 
-Madde 6 – (Mülga: 2/7/2018 - KHK/703/138 md.)7
+Madde 6 – (Mülga: 2/7/2018 - KHK/703/138 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

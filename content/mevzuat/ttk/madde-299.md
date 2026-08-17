@@ -7,13 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**VIII
-- Tasfiyeden arta kalanın dağıtılması
+**VIII - Tasfiyeden arta kalanın dağıtılması
 1. Geçici ödemeler**
 
 ---
 
-Madde 299 - (1) Tasfiye memurları, alacaklıla rın ve ortakların ilerde doğması muhtemel hak ve alacaklarına yetecek tutarı alıkoymak şartıyla, mevcut parayı geçici olarak ortaklar arasında dağıtabilirler.
+MADDE 299- (1) Tasfiye memurları, alacaklıların ve ortakların ilerde doğması
+muhtemel hak ve alacaklarına yetecek tutarı alıkoymak şartıyla, mevcut parayı geçici olarak
+ortaklar arasında dağıtabilirler.
 
 ---
 

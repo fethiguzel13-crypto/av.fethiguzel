@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4263
 ---
 
-**Muhabere evrakı**
+**Muhabere evrakı:**
 
 ---
 
@@ -16,12 +16,7 @@ aldıkları mektuplar (Telgraflar ve hesap hulasaları dahil) muhabere evrakın�
 Gönderilen ve gelen muhabere evrakının, işlerinin icabına göre dosyada muhafaza edilmesi
 mecburidir.
 Mükerrer Madde 241 – (Ek: 28/8/1991-3762/2 md.)
-
-22/7/1998 tarih ve 4369 sayılı Kanunun 81 inci maddesiyle bu fıkrada yeralan parantez içersindeki "(götürü
-usulde vergiye tabi olanlar dahil)" ibaresi metne işlendiği şekilde değiştirilmiştir.
-67
-
-Mükelleflerin sattıkları emtia veya yaptıkları işler nedeniyle ortaya çıkan alacak ve
+Mükelleflerin sattıkları emtia veya yaptıkları işler nedeniyle ortaya çıkan alacak ve
 borçları için bono veya poliçe düzenlemeleri halinde, bu poliçe veya bonoların Türk Ticaret
 Kanunu uyarınca bulunması gereken bilgilerin yanısıra aşağıdaki hususları da ihtiva etmesi
 zorunludur.
@@ -30,6 +25,8 @@ zorunludur.
 Bono, poliçe, çek, senet, tahvil, hisse senedi, finansman bonosu, kar ortaklığı belgesi
 ve benzeri kıymetli evrakın vergi belge düzenini sağlamak açısından ihtiva edeceği bilgileri
 belirlemeye Maliye ve Gümrük Bakanlığı yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

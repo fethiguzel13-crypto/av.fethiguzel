@@ -7,12 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**D. Sonuçları
-I. Beyana çağrı**
-
----
-
-Madde 626 - Defteri inceleme süresi bittikten sonra her mirasçı, mah kemece bir ay içinde beyanda bulunmaya çağrılır. Koşullar gerektirdiği takdirde sulh mahke mesi, tereke mallarına yeni değer biçilmesi, uyuşmazlıkların çözümü ve benzeri durumlar için ek süre verebilir.
+Madde 626- Defteri inceleme süresi bittikten sonra her mirasçı, mahkemece bir ay içinde
+beyanda bulunmaya çağrılır.
+Koşullar gerektirdiği takdirde sulh mahkemesi, tereke mallarına yeni değer biçilmesi,
+uyuşmazlıkların çözümü ve benzeri durumlar için ek süre verebilir.
 
 ---
 

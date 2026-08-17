@@ -22,8 +22,7 @@ kıymeti kendisinin veya başkasının menfaatine satmak, kullanmak, rehnetmek, 
 inkâr etmek
 b) Yönetim, denetim veya sermaye bakımından dolaylı veya dolaysız olarak ilişkili
 bulunduğu diğer bir teşebbüs veya şahısla emsallerine göre bariz şekilde farklı fiyat, ücret ve
-
-bedel uygulamak (…)16 örtülü işlemlerde bulunarak halka açık ortaklıkların kârını veya mal
+bedel uygulamak (…)örtülü işlemlerde bulunarak halka açık ortaklıkların kârını veya mal
 varlığını azaltmak
 c) Halka açık ortaklıklar ve kolektif yatırım kuruluşları ile bunların iştirak ve bağlı
 ortaklıklarının, yönetim, denetim veya sermaye bakımından doğrudan veya dolaylı olarak
@@ -45,7 +44,8 @@ a) Henüz soruşturma başlamadan önce ödediği takdirde, hakkında cezaya hü
 b) Soruşturma evresinde ödediği takdirde, verilecek ceza yarısı oranında indirilir,
 c) Kovuşturma evresinde hüküm verilinceye kadar ödediği takdirde, verilecek ceza
 üçte biri oranında indirilir.
-Kripto varlık hizmet sağlayıcılarda zimmet
+
+---
 
 ### Akademik Yorum ve Analiz
 

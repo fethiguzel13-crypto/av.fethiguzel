@@ -17,6 +17,8 @@ bütün işlemlerde zabıt kâtibinin hazır bulunması zorunludur.
 gecikmesinde sakınca bulunursa, görevin niteliğine uygun yemin ettirilmek koşuluyla, başka
 bir kimse, zabıt kâtibi olarak görevlendirilebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

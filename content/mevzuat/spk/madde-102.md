@@ -20,8 +20,8 @@ bildirim yükümlülüğünün usul ve esaslarını belirler.
 çerçevesinde yapılan bildirimler ve bildirimde bulunulanlar hakkında, mahkeme, savcılık ve
 Mali Suçları Araştırma Kurulu Başkanlığı dışında, işleme taraf olanlar dâhil, üçüncü kişiler
 ile kurum ve kuruluşlara bilgi veremez.
-ALTINCI KISIM
-İdari Para Cezası Gerektiren Fiiller ve Sermaye Piyasası Suçları
+
+---
 
 ### Akademik Yorum ve Analiz
 

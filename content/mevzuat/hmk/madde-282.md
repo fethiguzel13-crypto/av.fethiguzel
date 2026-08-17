@@ -14,6 +14,8 @@ wordCount: 4309
 MADDE 282- (1) Hâkim, bilirkişinin oy ve görüşünü diğer delillerle birlikte serbestçe
 değerlendirir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

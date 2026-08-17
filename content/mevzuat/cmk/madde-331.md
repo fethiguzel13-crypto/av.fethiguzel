@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**Adlî tatil**
+**İKİNCİ KISIM
+Çeşitli Hükümler
+Adlî tatil**
 
 ---
 
@@ -23,6 +25,8 @@ ilişkin veya Meşhud Suçların Muhakeme Usulü Kanunu gereğince görülen iş
 incelemelerini yapar.
 (4) Adlî tatile rastlayan süreler işlemez. Bu süreler tatilin bittiği günden itibaren üç
 gün uzatılmış sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

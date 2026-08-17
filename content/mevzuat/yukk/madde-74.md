@@ -30,6 +30,8 @@ Sözleşmeye uygun olarak koruma elde etme imkânının bulunması
 sahibinin ilgili üçüncü ülkeye gönderilmesini makul kılacak bu kişi ve ülke arasındaki
 bağlantılar da dâhil olmak üzere, her başvuru sahibi için ayrı olarak değerlendirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

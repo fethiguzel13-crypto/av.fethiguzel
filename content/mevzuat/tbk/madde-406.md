@@ -12,7 +12,7 @@ a. Ödeme süresi**
 
 ---
 
-Madde 406 - Aksine âdet olmadıkça, işçiye ücreti her ayın sonunda ödenir. Ancak,
+MADDE 406- Aksine âdet olmadıkça, işçiye ücreti her ayın sonunda ödenir. Ancak,
 hizmet sözleşmesi veya toplu iş sözleşmesiyle daha kısa ödeme süreleri belirlenebilir.
 Daha kısa bir ödeme süresi kararlaştırılmamışsa veya aksine âdet yoksa, aracılık ücreti
 her ayın sonunda ödenir. Ancak, işlemlerin yapılması altı aydan daha uzun bir süre

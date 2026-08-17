@@ -18,6 +18,8 @@ ve mercilere göstermek zorundadır.
 İşveren, işçi hakkında edindiği bilgileri dürüstlük kuralları ve hukuka uygun olarak
 kullanmak ve gizli kalmasında işçinin haklı çıkarı bulunan bilgileri açıklamamakla yükümlüdür.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

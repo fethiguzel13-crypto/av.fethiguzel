@@ -11,7 +11,9 @@ wordCount: 4295
 
 ---
 
-Madde 500 - (1) Şirket, iktisap edenin yanlış beyanı sonucu pay defterine yapılan kaydı, ilgililerin görüşlerin i alarak silebilir. Söz konusu kişilere, silinmeye ilişkin yazılı bilgi derhâl verilir.
+MADDE 500- (1) Şirket, iktisap edenin yanlış beyanı sonucu pay defterine yapılan
+kaydı, ilgililerin görüşlerini alarak silebilir. Söz konusu kişilere, silinmeye ilişkin yazılı bilgi
+derhâl verilir.
 
 ---
 

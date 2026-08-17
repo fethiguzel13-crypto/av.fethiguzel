@@ -11,7 +11,13 @@ wordCount: 4320
 
 ---
 
-Madde 555 - Vasiyeti yerine getirme görevlisi, görevinin yerine getirilmesinde sulh hâkiminin denetimi ne tâbidir. Hâkim, şikâyet üzerine veya re'sen gereken önlemleri alır. Vasiyeti yerine getirme görevlisinin yetersiz olduğu, görevini kötüye kullandığı veya ağır ihma li tespit edilirse, sulh hâkimi tarafından görevine son verilir. Bu karara karşı tebliğind en başlayarak onbeş gün içi nde asliye mahkemesine itiraz edilebilir. İtiraz üzerine verilen karar kesindir.
+Madde 555- Vasiyeti yerine getirme görevlisi, görevinin yerine getirilmesinde sulh
+hâkiminin denetimine tâbidir.
+Hâkim, şikâyet üzerine veya re'sen gereken önlemleri alır.
+Vasiyeti yerine getirme görevlisinin yetersiz olduğu, görevini kötüye kullandığı veya ağır
+ihmali tespit edilirse, sulh hâkimi tarafından görevine son verilir. Bu karara karşı tebliğinden
+başlayarak onbeş gün içinde asliye mahkemesine itiraz edilebilir. İtiraz üzerine verilen karar
+kesindir.
 
 ---
 

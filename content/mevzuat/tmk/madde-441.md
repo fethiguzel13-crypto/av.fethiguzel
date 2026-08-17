@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**IV. Paraların yatırılması 1.Yatırma zorunluluğu**
+**IV. Paraların yatırılması
+1.Yatırma zorunluluğu**
 
 ---
 
-Madde 441 - Vesayet altın daki kişinin k endisi veya malvarlığının yönetimi için gerekli olmayan paralar, fa iz getirmek üzere, vesayet makamı tarafından belirlenen millî bir banka ya yatırılır veya Hazine tarafından çıkarılan menkul kıymet lere çevrilir. Paranın yatırılmasını bir ayda n fazla geciktiren vasi, faiz kaybını ödemekle yükümlüdür.
+Madde 441- Vesayet altındaki kişinin kendisi veya malvarlığının yönetimi için gerekli
+olmayan paralar, faiz getirmek üzere, vesayet makamı tarafından belirlenen millî bir bankaya
+yatırılır veya Hazine tarafından çıkarılan menkul kıymetlere çevrilir.
+Paranın yatırılmasını bir aydan fazla geciktiren vasi, faiz kaybını ödemekle yükümlüdür.
+Söz konusu düzenleme, yürürlüğe girdiği tarihte Mevzuat Bilgi Sistemine işlenecek olup mezkur
+düzenlemeyi görmek için 31/7/2026 tarihli ve 33326 sayılı Resmî Gazete’ye bakınız.
 
 ---
 

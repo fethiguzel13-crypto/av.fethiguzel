@@ -11,7 +11,8 @@ wordCount: 4293
 
 ---
 
-Madde 212 - Mal ayrılığına geçildiği takdirde, kanunda aksine hüküm bulunmadıkça, eşl er ar asında önceki mal rejiminin tasfiyesi, bu rejime ilişkin hükümlere göre yapılır.
+Madde 212 - Mal ayrılığına geçildiği takdirde, kanunda aksine hüküm bulunmadıkça,
+eşler arasında önceki mal rejiminin tasfiyesi, bu rejime ilişkin hükümlere göre yapılır.
 
 ---
 

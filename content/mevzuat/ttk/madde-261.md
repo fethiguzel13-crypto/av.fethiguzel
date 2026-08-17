@@ -11,7 +11,8 @@ wordCount: 4292
 
 ---
 
-Madde 261 - (1) Çıkarılan veya çıkan ortak, 260 ıncı madde uyarınca hesaplanan payını şirketten ancak nakden alabilir.
+MADDE 261- (1) Çıkarılan veya çıkan ortak, 260 ıncı madde uyarınca hesaplanan
+payını şirketten ancak nakden alabilir.
 
 ---
 

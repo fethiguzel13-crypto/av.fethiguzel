@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-**C. D evletin sorumluluğu**
+**C. Devletin sorumluluğu**
 
 ---
 
-Madde 468 - Devlet, vesay et dairelerinde görevli olanların hukuka aykırı olarak sebebiyet verdikleri zararlardan doğrudan doğruya sorumlu olduğu gibi; vasi, kayyım ve yasal danışmanlara tazmin ettirilemeyen zar arlardan da sorumludur. Za rarı tazmin eden Devlet, zararın meyda na gel mesinde kusurlu olanlara rücu eder . Zararın doğmasına kusurları ile sebep olanlar, rücu hakkını kullanan Devlete karşı müteselsilen sorumludurlar.
+Madde 468- Devlet, vesayet dairelerinde görevli olanların hukuka aykırı olarak sebebiyet
+verdikleri zararlardan doğrudan doğruya sorumlu olduğu gibi; vasi, kayyım ve yasal danışmanlara
+tazmin ettirilemeyen zararlardan da sorumludur.
+Zararı tazmin eden Devlet, zararın meydana gelmesinde kusurlu olanlara rücu eder.
+Zararın doğmasına kusurları ile sebep olanlar, rücu hakkını kullanan Devlete karşı
+müteselsilen sorumludurlar.
 
 ---
 

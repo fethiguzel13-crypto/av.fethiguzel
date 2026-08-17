@@ -12,7 +12,7 @@ I. Hakkın kullanılması**
 
 ---
 
-Madde 609 - Sözleşmede aksi kararlaştırılmamışsa ömür boyu gelir, her altı ayda bir
+MADDE 609- Sözleşmede aksi kararlaştırılmamışsa ömür boyu gelir, her altı ayda bir
 ve peşin olarak ödenir.
 Gelirin süresi ömrüne bağlanmış olan kişi, peşin ödeme öngörülen dönemin sona
 ermesinden önce ölse bile, o döneme ait gelirin tamamı gelir borçlusu tarafından borçlanılmış

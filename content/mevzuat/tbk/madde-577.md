@@ -11,7 +11,7 @@ wordCount: 4262
 
 ---
 
-Madde 577 - Kıymetli eşya veya oldukça önemli miktarda para veya kıymetli evrak,
+MADDE 577- Kıymetli eşya veya oldukça önemli miktarda para veya kıymetli evrak,
 işletene saklanması için bırakılmamışsa, işleten ancak kendisinin veya çalışanlarının kusuru
 hâlinde sorumlu olur.
 İşleten, bunları saklamak üzere almış veya almaktan kaçınmışsa, eşyanın tam değerinden

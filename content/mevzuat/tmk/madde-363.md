@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**II. A na ve babanın sorumluluğu**
+**II. Ana ve babanın sorumluluğu**
 
 ---
 
-Madde 363 - A na ve baba, çocuk mallarının geri verilmesinde vekil gibi sorumludurlar. Dürüstlük kuralına uygun olarak başka sına devrettikleri malların yerine sa dece aldıkları karşılığı geri vermekle yüküm lüdürler. Kanuna uygun olar ak çocuk veya aile için yaptıkları har camala rdan dolayı tazminatla yükümlü tutulmazlar.
-İKİNCİ BÖLÜM AİLE BİRİNCİ AYIRIM NAFAKA YÜKÜMLÜLÜĞÜ A. Naf aka yükümlüleri
+Madde 363- Ana ve baba, çocuk mallarının geri verilmesinde vekil gibi sorumludurlar.
+Dürüstlük kuralına uygun olarak başkasına devrettikleri malların yerine sadece aldıkları
+karşılığı geri vermekle yükümlüdürler.
+Kanuna uygun olarak çocuk veya aile için yaptıkları harcamalardan dolayı tazminatla
+yükümlü tutulmazlar.
 
 ---
 

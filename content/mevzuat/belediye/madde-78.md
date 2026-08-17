@@ -13,6 +13,8 @@ wordCount: 4259
 
 Madde 78- Belediye, kamu kurum ve kuruluşlarıyla doğrudan yazışabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

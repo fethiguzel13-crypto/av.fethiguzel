@@ -8,7 +8,7 @@ wordCount: 2540
 keywords: ["Kavşak Geçiş Hakkı", "Sağdan Gelen Araç", "Tali Yol Anayol", "Dönel Kavşak", "Kavşak Blokesi", "Asli Kusur", "7574 Sayılı Kanun", "Kusur Oranı"]
 ---
 
-**Kavşaklarda geçiş hakkı**
+**Kavşaklarda geçiş hakkı:**
 
 ---
 
@@ -31,18 +31,20 @@ ise;
 1. Motorsuz araç sürücüleri motorlu araçlara,
 2. Motorlu araçlardan soldaki sağdan gelen araca,
 Geçiş hakkını vermek zorundadırlar.
-d) Işıklı trafik işaretleri izin verse bile trafik akımı;
+d) (Ek: 21/5/1997-4262/4 md.) Işıklı trafik işaretleri izin verse bile trafik akımı;
 kendisini kavşak içinde durmaya zorlayacak veya diğer doğrultudaki trafiğin geçişine engel
 olacak ise, sürücülerin kavşağa girmeleri yasaktır.
-e) Trafik zabıtası, yetkili kişi veya trafik ışıklı işareti ile
+e) (Ek: 21/5/1997-4262/4 md.) Trafik zabıtası, yetkili kişi veya trafik ışıklı işareti ile
 yönetilen kavşaklarda, sürücüler, kavşağı en kısa zamanda geçmek zorundadırlar. Sürücülerin
 gereksiz olarak yavaşlamaları, durmaları, taşıttan inmeleri, taşıt veya araçların motorlarını
 durdurmaları yasaktır.
-f) Aksine bir işaret olmadıkça, bütün kavşaklarda araçlar
+f) (Ek: 21/5/1997-4262/4 md.) Aksine bir işaret olmadıkça, bütün kavşaklarda araçlar
 ray üzerinde hareket eden taşıtlara ilk geçiş hakkını vermek zorundadır.
 (Değişik ikinci fıkra:12/2/2026-7574/17 md.) Birinci fıkranın (d) ve (e) bentlerine
 uymayan sürücüler 1.000 Türk lirası, diğer hükümlerine uymayan sürücüler ise 5.000 Türk lirası
 idari para cezası ile cezalandırılırlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

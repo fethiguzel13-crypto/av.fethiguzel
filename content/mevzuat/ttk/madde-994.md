@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**K) Yönetmelik 101**
+**K) Yönetmelik**
 
 ---
 
-Madde 994 - (1) Gemi sicilinin kuruluşu ve nasıl tutulacağı, müdür ve memurlarının sahip olmaları gereken nitelikleri, hukuki ilişkilerin nasıl belgelenece kleri ve tescil olunacakları, kayıtların düzeltilmesi, değiştirilmesi ve silinmesine ilişkin tamamlayıcı hükümler Cumhurbaşkanınca çıkarılan yönetmelik ile belirlenir.
+MADDE 994- (1) Gemi sicilinin kuruluşu ve nasıl tutulacağı, müdür ve memurlarının
+sahip olmaları gereken nitelikleri, hukuki ilişkilerin nasıl belgelenecekleri ve tescil
+olunacakları, kayıtların düzeltilmesi, değiştirilmesi ve silinmesine ilişkin tamamlayıcı
+hükümler Cumhurbaşkanınca çıkarılan yönetmelik ile belirlenir.
 
 ---
 

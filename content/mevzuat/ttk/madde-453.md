@@ -8,12 +8,17 @@ wordCount: 4259
 ---
 
 **B) Usul
-I
-- Gümrük ve Ticaret Bakanlığı nın izni ve genel kurul kararı**
+I - Gümrük ve Ticaret Bakanlığının izni ve genel kurul kararı**
 
 ---
 
-Madde 453 - (1) Genel kurul, esas sözleşmenin değiştirilmesi için toplantıya çağrıldığı takdirde; 333 üncü madde uyarınca Gümrük ve Ticaret Bakanlığının izninin alınması nın gerekli olduğu şirketlerde izni alınmış, diğer şirketlerde, yönetim kurulunca karara bağlanmış bulunan değişiklik taslağının, değiştirilecek mevcut hükümlerle birlikte 414 üncü maddenin birinci fıkrasının birinci cümlesinde belirtildiği şekilde ilanı gerekir. Genel kurulun kararına 421 inci maddede öngörülen nisaplar uygulanır.
+MADDE 453- (1) Genel kurul, esas sözleşmenin değiştirilmesi için toplantıya
+çağrıldığı takdirde; 333 üncü madde uyarınca Gümrük ve Ticaret Bakanlığının izninin
+alınmasının gerekli olduğu şirketlerde izni alınmış, diğer şirketlerde, yönetim kurulunca
+karara bağlanmış bulunan değişiklik taslağının, değiştirilecek mevcut hükümlerle birlikte
+414 üncü maddenin birinci
+fıkrasının birinci cümlesinde belirtildiği şekilde ilanı gerekir. Genel kurulun kararına
+421 inci maddede öngörülen nisaplar uygulanır.
 
 ---
 

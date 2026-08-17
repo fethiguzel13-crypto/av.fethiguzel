@@ -22,6 +22,8 @@ hususu önceden hatırlatılır.
 zorunlu ise mahkeme kararı ile gerekli incelemeyi yapabilir. Bu işlemin icrası sırasında
 taraflar da hazır bulunabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

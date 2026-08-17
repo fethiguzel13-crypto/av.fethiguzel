@@ -11,7 +11,7 @@ wordCount: 4307
 
 ---
 
-Madde 58 - Kişilik hakkının zedelenmesinden zarar gören, uğradığı manevi zarara
+MADDE 58- Kişilik hakkının zedelenmesinden zarar gören, uğradığı manevi zarara
 karşılık manevi tazminat adı altında bir miktar para ödenmesini isteyebilir.
 Hâkim, bu tazminatın ödenmesi yerine, diğer bir giderim biçimi kararlaştırabilir veya
 bu tazminata ekleyebilir; özellikle saldırıyı kınayan bir karar verebilir ve bu kararın

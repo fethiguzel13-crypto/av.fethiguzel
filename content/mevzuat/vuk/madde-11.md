@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4319
 ---
 
-**Vergi kesenlerin sorumluluğu**
+**Vergi kesenlerin sorumluluğu:**
 
 ---
 
@@ -21,7 +21,7 @@ kesintisi yapmak ve vergi dairesine yatırmak zorunda olanların, bu yükümlül
 getirmemeleri halinde verginin ödenmesinden, alım satıma, taraf olanlar, hizmetten
 yararlananlar ve aralarında doğrudan veya hısımlık nedeniyle ya da sermaye, organizasyon
 veya yönetimine katılmak veya menfaat sağlamak suretiyle dolaylı olarak ilişkide bulunduğu
-tespit olunanlar müteselsilen sorumludurlar.5
+tespit olunanlar müteselsilen sorumludurlar.
 (Ek: 4/12/1985-3239/2 md.) Ancak üçüncü fıkrada belirtilen müteselsilen sorumluluk
 mal üreten çiftçiler ile nihai tüketiciler için söz konusu değildir.
 (Ek: 24/3/1988-3418/30 md.) Maliye ve Gümrük Bakanlığı zirai ürünlerin (işlenmiş
@@ -32,28 +32,21 @@ her bir ürün için ayrı ayrı belirlemeye yetkilidir. Maliye ve Gümrük Baka
 Bu fıkrada yer alan, "..alım satıma taraf olanlar ile hizmetten yararlanan lar, aralarında zımnen dahi olsa
 irtibat olduğu tespit olunanlar..." ibaresi, 22/7/1998 tarih ve 4369 sayılı Kanunun 81 inci maddesiyle metne
 işlendiği şekilde değiştirilmiştir.
-5
-
-belirlenen safhadan önceki safhalarda tevkif yoluyla alınan vergiler iade edilmez ve süresinde
+belirlenen safhadan önceki safhalarda tevkif yoluyla alınan vergiler iade edilmez ve süresinde
 ilgili vergi dairesine yatırılır.
 (Ek: 4/12/1985-3239/2 md.) Müteselsil sorumluluğun şartları, sınırları ve bu konuya
 ilişkin usul ve esaslar Maliye ve Gümrük Bakanlığınca belirlenir.
 (Ek fıkra: 20/8/2016-6745/9 md.) Cumhurbaşkanı, ödeme yapılan kişilerin mükellef
 olup olmamasına, ödeme yapan veya ödemeye aracılık edenlerin vergi kanunlarına göre vergi
 kesintisi yapmak zorunluluğu bulunup bulunmamasına, ödemenin konusunun mal veya
-hizmet
-alım
-satımı
-olup
-olmamasına,
-elektronik
-ortamda
-gerçekleştirilip
+hizmet alım satımı olup olmamasına, elektronik ortamda gerçekleştirilip
 gerçekleştirilmemesine, ödeme yapılanın bu tutarı vergi matrahının tespitinde indirim konusu
 yapıp yapmamasına bakılmaksızın, vergiye tabi işlemlere taraf veya aracı olanlara vergi
 kesintisi yaptırmaya, iş grupları, iş nevileri, sektörler ve emtia grupları itibarıyla, vergiye tabi
 işlemle ilgili, vergi kanunlarında belirtilen alt ve üst limitler arasında olmak şartıyla, farklı
-kesinti oranları tespit etmeye yetkilidir.6
+kesinti oranları tespit etmeye yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

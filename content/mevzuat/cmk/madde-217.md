@@ -15,6 +15,8 @@ Madde 217 – (1) Hâkim, kararını ancak duruşmaya getirilmiş ve huzurunda t
 delillere dayandırabilir. Bu deliller hâkimin vicdanî kanaatiyle serbestçe takdir edilir.
 (2) Yüklenen suç, hukuka uygun bir şekilde elde edilmiş her türlü delille ispat edilebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

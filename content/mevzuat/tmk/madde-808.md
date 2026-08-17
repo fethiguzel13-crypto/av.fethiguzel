@@ -7,14 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**2. Malikin hakları
-a. Gözetim Madde 80 7
-- Malik, hakkın konusu olan malın hukuka aykırı ya da niteliğine uygun düşmeyen kullanılı ş biçimine itiraz edebilir.
-b. Güvence isteme**
+**b. Güvence isteme**
 
 ---
 
-Madde 808 - Haklarının tehlikeye düştüğünü ispat eden mali k, intifa hakkı sahibinden güvence isteyebilir. İntifa hakkını n konusu tüketilebilen şey veya kıymetli evrak ise, malik tehlikenin ispatına gerek olmaks ızın teslimden önce de güvence isteyebilir. Kıymetli evrakın güvenilir bir yere tevdi edilmesi güvence y erine geçer.
+Madde 808- Haklarının tehlikeye düştüğünü ispat eden malik, intifa hakkı sahibinden
+güvence isteyebilir.
+İntifa hakkının konusu tüketilebilen şey veya kıymetli evrak ise, malik tehlikenin ispatına
+gerek olmaksızın teslimden önce de güvence isteyebilir.
+Kıymetli evrakın güvenilir bir yere tevdi edilmesi güvence yerine geçer.
 
 ---
 

@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**IX
-- Yargılama ve takip giderleri**
+**IX - Yargılama ve takip giderleri**
 
 ---
 
-Madde 1349 - (1) Yargılama ve takip giderleri için sorumluluk sınırlanamaz; bir fon kurulmuş olsa bile, davalı veya takip borçlusu, bu giderleri ayrıca ödemek zorundadır. SEKİZİNCİ KISIM Cebrî İcraya İli şkin Özel Hükümler A) Uygulanacak hukuk
+MADDE 1349- (1) Yargılama ve takip giderleri için sorumluluk sınırlanamaz; bir fon
+kurulmuş olsa bile, davalı veya takip borçlusu, bu giderleri ayrıca ödemek zorundadır.
 
 ---
 

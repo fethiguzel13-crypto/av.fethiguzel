@@ -7,10 +7,6 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**çalışmaktan meneder.**
-
----
-
 Madde 20 – (Değişik: 26/6/1973 - 1775/4 md.)
 Zabıta, imdat istenmesi veya yangın, su baskını ve boğulma gibi büyük tehlikelerin
 haber verilmesi veya görülmesi halleri ile ağır cezalı bir suçun işlenmesine veya yapılmakta
@@ -22,11 +18,13 @@ görülmeyen olayların çıkması ihtimali karşısında rektör, acele hallerd
 kuruluş yetkililerinin zabıtadan yardım talep etmeleri halinde,
 B) Herhangi bir davet veya izne bağlı olmaksızın suç ve suçluların kovuşturulması için
 her zaman,
-Fıkranın (A) bendinde gösterilen hallerde talep derhal yerine getirilir, (...)16
-14 Bu hükmün uygulanmasında Ek 3 üncü maddeye bakınız. 15 Bu hükmün uygulanmasında Ek 4 üncü maddeye bakınız.
+Fıkranın (A) bendinde gösterilen hallerde talep derhal yerine getirilir, (...)
+Bu hükmün uygulanmasında Ek 3 üncü maddeye bakınız.
+Bu hükmün uygulanmasında Ek 4 üncü maddeye bakınız.
+İlgili kurumlar kovuşturma dolayısiyle zabıta kuvvetlerine gereken her türlü yardım ve
+kolaylığı göstermekle yükümlüdürler.
 
-
-İlgili kurumlar kovuşturma dolayısiyle zabıta kuvvetlerine gereken her türlü yardım ve
+---
 
 ### Akademik Yorum ve Analiz
 

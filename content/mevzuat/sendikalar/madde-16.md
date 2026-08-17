@@ -17,6 +17,8 @@ serbest, eşit, gizli oy, açık sayım ve döküm esasına ve tüzük hükümle
 iki gün içinde yapılacak itirazlar, mahkeme tarafından kesin olarak karara bağlanır. Delege
 seçiminin mahkeme tarafından iptal edilmesi hâlinde, seçimler on beş gün içinde yenilenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

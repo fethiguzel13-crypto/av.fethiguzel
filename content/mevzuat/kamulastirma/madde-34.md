@@ -7,13 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4263
 ---
 
-**Mal sahibinin sağladığı yararları geri alma hakkı**
+**SEKİZİNCİ KISIM
+Çeşitli Hükümler
+Mal sahibinin sağladığı yararları geri alma hakkı**
 
 ---
 
 Madde 34 – Mal sahiplerinin 31 inci maddedeki yasaklara rağmen avukat veya dava
 vekillerine veya bu Kanuna göre görevlendirilenlere veya üçüncü şahıslara verdikleri paraları
 veya sağladıkları yararlar karşılığını bir yıl içinde geri almaya hakları vardır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

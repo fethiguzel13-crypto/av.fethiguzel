@@ -22,6 +22,7 @@ function parseArgs() {
   const opts = {
     maxPerBatch: null,
     budgetWaitMs: null,
+    endpointDownWaitMs: null,
     once: false,
     logFile: null,
     errorBackoffMs: 60_000,
@@ -30,6 +31,8 @@ function parseArgs() {
     if (a === "--once") opts.once = true;
     else if (a.startsWith("--max-per-batch=")) opts.maxPerBatch = parseInt(a.split("=")[1], 10);
     else if (a.startsWith("--budget-wait-ms=")) opts.budgetWaitMs = parseInt(a.split("=")[1], 10);
+    else if (a.startsWith("--endpoint-down-wait-ms="))
+      opts.endpointDownWaitMs = parseInt(a.split("=")[1], 10);
     else if (a.startsWith("--log=")) opts.logFile = a.slice("--log=".length);
     else if (a.startsWith("--error-backoff-ms="))
       opts.errorBackoffMs = parseInt(a.split("=")[1], 10);
@@ -197,14 +200,18 @@ async function main() {
     log(`spawn archive-yargitay.mjs ${args.join(" ")}`, opts.logFile);
     const result = await runArchive(args, opts.logFile);
 
-    // Bakanlık getDokuman kapalıysa indirme turunu boşuna çevirme — bekle, sonra tekrar dene
+    // Bakanlık getDokuman kapalıysa indirme turunu boşuna çevirme — kısa bekle, sonra tekrar dene
+    // (uzun 5–30 dk molalar yok; ban koruması tam metinler arası random delay ile)
     if (
       result.out &&
       /endpoint-down|getDokuman API kapalı/i.test(result.out)
     ) {
-      const waitMs = opts.budgetWaitMs ?? 30 * 60 * 1000; // 30 dk
+      const waitMs =
+        opts.endpointDownWaitMs ??
+        opts.budgetWaitMs ??
+        20_000; // default 20s; not multi-minute
       log(
-        `getDokuman endpoint-down detected — waiting ${(waitMs / 60000).toFixed(0)} min before retry (search queue preserved)`,
+        `getDokuman endpoint-down detected — waiting ${(waitMs / 1000).toFixed(0)}s before retry (search queue preserved)`,
         opts.logFile
       );
       if (opts.once) {

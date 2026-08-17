@@ -1,0 +1,150 @@
+{
+  "slug": "veraset-ilami-nasil-alinir",
+  "title": "Veraset İlamı: Noterden mi, Mahkemeden mi Alınır?",
+  "description": "Mirasçılık belgesi nereden alınır, noter hangi hâllerde verir, belge yanlışsa ne yapılır? TMK m.598 ve m.599 çerçevesinde adım adım.",
+  "h1": "Veraset ilamı nasıl alınır?",
+  "keywords": [
+    "veraset ilamı",
+    "mirasçılık belgesi",
+    "noterden veraset ilamı",
+    "veraset belgesi nasıl alınır",
+    "mirasçılık belgesinin iptali"
+  ],
+  "category": "Miras",
+  "role": "pillar",
+  "related": [
+    "miras-paylasimi-nasil-yapilir",
+    "mirasin-reddi",
+    "tenkis-davasi-ve-sakli-pay"
+  ],
+  "links": [
+    {
+      "label": "TMK m.598 — Mirasçılık belgesi",
+      "href": "/mevzuat/tmk/madde-598"
+    },
+    {
+      "label": "TMK m.599 — Mirasın kazanılması",
+      "href": "/mevzuat/tmk/madde-599"
+    },
+    {
+      "label": "TMK m.606 — Mirasın reddi süresi",
+      "href": "/mevzuat/tmk/madde-606"
+    },
+    {
+      "label": "Miras paylaşımı hesaplama aracı",
+      "href": "/hesaplama/miras"
+    }
+  ],
+  "lead": "Başvurusu üzerine yasal mirasçı oldukları belirlenenlere, sulh mahkemesince veya noterlikçe mirasçılık sıfatlarını gösteren bir belge verilir. Yani yasal mirasçılar için noter yolu açıktır ve çoğu dosyada aynı gün sonuç alınır.",
+  "keyInsight": "Belgeyi almak mirası kabul etmek anlamına gelmez; ne var ki mirasın reddi için üç aylık süre ölümün öğrenildiği tarihten işlemeye başlar ve belge beklenirken tükenebilir.",
+  "sections": [
+    {
+      "heading": "Nereden alınır?",
+      "paragraphs": [
+        "TMK m.598 iki yol tanır ve bunu tek cümlede söyler: Başvurusu üzerine yasal mirasçı oldukları belirlenenlere, sulh mahkemesince veya noterlikçe mirasçılık sıfatlarını gösteren bir belge verilir.",
+        "Yasal mirasçılık nüfus kayıtlarından anlaşılabiliyorsa noter yolu en hızlısıdır. Noter kayıtları elektronik ortamda görebildiğinden başvuru çoğu zaman aynı gün sonuçlanır.",
+        "Bazı durumlarda noter belge veremez ve sulh hukuk mahkemesine başvurmak gerekir. Yabancılık unsuru bulunması, nüfus kayıtlarının çelişkili ya da eksik olması, mirasçılığın tanıma veya babalık hükmüne dayanması bu hâllerin başında gelir.",
+        "Atanmış mirasçı ve vasiyet alacaklısı bakımından yol farklıdır ve zorunlu olarak mahkemeden geçer."
+      ],
+      "bullets": [
+        "Yasal mirasçı, kayıtlar açık: noter — genellikle aynı gün",
+        "Yabancılık unsuru, çelişkili kayıt, tanıma veya babalık hükmü: sulh hukuk mahkemesi",
+        "Atanmış mirasçı ve vasiyet alacaklısı: sulh mahkemesi"
+      ]
+    },
+    {
+      "heading": "Atanmış mirasçıda bir aylık bekleme",
+      "paragraphs": [
+        "Vasiyetnameyle atanan mirasçı ya da vasiyet alacaklısı için kanun bir bekleme süresi öngörür. Mirasçı atamaya veya vasiyete ilişkin ölüme bağlı tasarrufa, mirasçılar veya başka vasiyet alacaklıları tarafından kendilerine bildirilmesinden başlayarak bir ay içinde itiraz edilmedikçe, lehine tasarrufta bulunulan kimseye sulh mahkemesince atanmış mirasçı veya vasiyet alacaklısı olduğunu gösteren belge verilir.",
+        "Süre bildirimden işler. Vasiyetnamenin açılıp ilgililere bildirilmesi bu nedenle sürecin başlangıç noktasıdır.",
+        "İtiraz edilirse belge verilmez ve uyuşmazlık yargılamayla çözülür. İtiraz edilmezse belge düzenlenir; bu, tasarrufun geçerliliğinin kesin olarak tespit edildiği anlamına gelmez."
+      ]
+    },
+    {
+      "heading": "Belge yanlışsa ne olur?",
+      "paragraphs": [
+        "Mirasçılık belgesi kesin hüküm gücü taşımaz. Kanun bunu açıkça söyler: Mirasçılık belgesinin geçersizliği her zaman ileri sürülebilir.",
+        "Yani belgede adı geçmeyen bir mirasçı ya da payı hatalı gösterilen bir kişi, sonradan bu belgeye dayanarak yapılan işlemleri tartışmaya açabilir.",
+        "Ayrıca ölüme bağlı tasarrufun iptaline ilişkin dava hakkı saklıdır. Vasiyetnamenin geçerliliğine yönelik itirazlar, belge verilmiş olsa dahi ayrıca ileri sürülebilir.",
+        "Bu esneklik iki yönlüdür. Belgeye güvenerek işlem yapan üçüncü kişiler için risk doğurur; hakkı gözden kaçmış mirasçı içinse bir güvence sağlar."
+      ]
+    },
+    {
+      "heading": "Belge almak mirası kabul etmek midir?",
+      "paragraphs": [
+        "Hayır. Mirasçılık belgesi, mirasçı sıfatını tespit eden bir belgedir; mirasın kabulü ayrı bir iradedir.",
+        "Ne var ki arka planda işleyen bir mekanizma vardır. TMK m.599 uyarınca mirasçılar, mirasbırakanın ölümü ile mirası bir bütün olarak kanun gereğince kazanırlar ve mirasbırakanın borçlarından kişisel olarak sorumlu olurlar.",
+        "Yani miras ölümle kendiliğinden geçer; kişi bunu istemiyorsa reddetmek zorundadır. Ret için TMK m.606 uyarınca üç aylık süre vardır ve süre, yasal mirasçılar bakımından ölümün öğrenildiği tarihten işler.",
+        "Bu yüzden terekenin borç durumu belirsizken belge almak için beklemek risklidir. Üç aylık süre, belge çıkarılırken işlemeye devam eder.",
+        "Pratik sıralama şudur: Önce terekenin borç durumunu araştırın, sonra kabul ya da ret kararınızı verin; mirasçılık belgesini bu karardan bağımsız olarak alabilirsiniz."
+      ]
+    },
+    {
+      "heading": "Belge ne işe yarar?",
+      "paragraphs": [
+        "Mirasçılık belgesi, resmî işlemlerin çoğunda ilk istenen evraktır. Tapu devri, banka hesaplarına erişim, araç intikali ve sigorta işlemleri bu belgeye dayanır.",
+        "Belgede mirasçılar ve payları gösterilir. Paylar TMK m.495 ve devamındaki zümre sistemine göre belirlenir; sağ kalan eşin payı ise m.499 uyarınca birlikte bulunduğu zümreye göre değişir.",
+        "Terekede taşınmaz varsa intikal işlemi ayrıca yapılır. Mirasçılık belgesi tek başına tapuyu devretmez; tapu müdürlüğüne intikal başvurusu gerekir.",
+        "Veraset ve intikal vergisi beyannamesi de ayrı bir yükümlülüktür ve kendi süresi içinde verilir."
+      ]
+    },
+    {
+      "heading": "Sık yapılan hatalar",
+      "paragraphs": [
+        "Birinci hata, belge alınmasını mirasın kabulü sanıp süreci geciktirmektir. Oysa asıl saat, ret için işleyen üç aylık süredir.",
+        "İkincisi, nüfus kayıtlarını kontrol etmeden başvurmaktır. Eksik ya da çelişkili kayıt, noter yolunu kapatır ve dosyayı mahkemeye taşır.",
+        "Üçüncüsü, belgeyi kesin ve tartışılamaz saymaktır. Geçersizliği her zaman ileri sürülebildiğinden, belgeye dayanarak yapılan devirlerde dikkatli olunmalıdır."
+      ]
+    }
+  ],
+  "steps": [
+    "Vukuatlı nüfus kayıt örneği alarak mirasçıları çıkarın.",
+    "Kayıtlarda eksik veya çelişki var mı kontrol edin — noter yolunun açık olup olmadığını belirler.",
+    "Terekenin borç durumunu araştırın: e-Devlet icra sorgusu, banka ve tapu kayıtları.",
+    "Ret düşünüyorsanız üç aylık süreyi kaçırmadan sulh hukuk mahkemesine başvurun.",
+    "Mirasçılık belgesi için notere ya da sulh hukuk mahkemesine başvurun.",
+    "Atanmış mirasçı veya vasiyet alacaklısıysanız bildirimden itibaren bir aylık itiraz süresinin geçmesini bekleyin.",
+    "Belgeyle tapu intikali, banka ve araç işlemlerini yürütün.",
+    "Veraset ve intikal vergisi beyannamesini süresinde verin."
+  ],
+  "checklist": [
+    "Ölüm belgesi",
+    "Vukuatlı nüfus kayıt örneği",
+    "Kimlik",
+    "Vekâletname — vekil aracılığıyla başvuruluyorsa",
+    "Varsa vasiyetname ve açılma tutanağı",
+    "Terekeye ilişkin tapu ve banka bilgileri"
+  ],
+  "faq": [
+    {
+      "q": "Veraset ilamını noterden alabilir miyim?",
+      "a": "Yasal mirasçılar için evet. TMK m.598, mirasçılık belgesinin sulh mahkemesince veya noterlikçe verileceğini söyler."
+    },
+    {
+      "q": "Hangi hâllerde mahkemeye gitmem gerekir?",
+      "a": "Yabancılık unsuru bulunması, nüfus kayıtlarının eksik veya çelişkili olması ile atanmış mirasçı ve vasiyet alacaklısı olma hâllerinde."
+    },
+    {
+      "q": "Belge almak mirası kabul etmek midir?",
+      "a": "Hayır. Ancak miras ölümle kendiliğinden geçtiğinden, istemiyorsanız reddetmeniz gerekir; ret süresi üç aydır ve ölümü öğrendiğiniz tarihten işler."
+    },
+    {
+      "q": "Belgede adım yok, ne yapabilirim?",
+      "a": "Mirasçılık belgesinin geçersizliği her zaman ileri sürülebilir. Belgeye dayanılarak yapılmış işlemler de bu çerçevede tartışılabilir."
+    },
+    {
+      "q": "Vasiyetname var, ne kadar beklemem gerekir?",
+      "a": "Tasarrufun kendilerine bildirilmesinden başlayarak bir ay içinde itiraz edilmezse, lehine tasarrufta bulunulana sulh mahkemesince belge verilir."
+    },
+    {
+      "q": "Belge ile tapu doğrudan devredilir mi?",
+      "a": "Devredilmez. Mirasçılık belgesi mirasçı sıfatını gösterir; tapu müdürlüğüne ayrıca intikal başvurusu yapılması gerekir."
+    },
+    {
+      "q": "Mirasbırakanın borçlarından sorumlu muyum?",
+      "a": "TMK m.599 uyarınca mirasçılar mirasbırakanın borçlarından kişisel olarak sorumlu olur. Bunu istemiyorsanız üç aylık süre içinde mirası reddetmelisiniz."
+    }
+  ],
+  "updated": "2026-08-16",
+  "sitemapPriority": 0.95
+}

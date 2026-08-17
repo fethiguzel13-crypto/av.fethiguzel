@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**İmar planlarında Bakanlığın yetkisi**
+**İmar planlarında Bakanlığın yetkisi:**
 
 ---
 
@@ -19,10 +19,10 @@ belediyeyi ilgilendiren metropoliten imar planlarının veya içerisinden veya c
 demiryolu veya karayolu geçen, hava meydanı bulunan veya havayolu veya denizyolu
 bağlantısı bulunan yerlerdeki imar ve yerleşme planlarının tamamını veya bir kısmını, ilgili
 belediyelere veya diğer idarelere bu yolda bilgi vererek ve gerektiğinde işbirliği sağlayarak
-yapmaya, yaptırmaya, değiştirmeye ve re'sen onaylamaya yetkilidir.10
+yapmaya, yaptırmaya, değiştirmeye ve re'sen onaylamaya yetkilidir.
 (Ek : 24/11/1994 - 4046/41 md.) Belediye hudutları ve mücavir alanlar içerisinde
 bulunan ve özelleştirme programına alınmış kuruluşlara ait arsa ve arazilerin, ilgili
-kuruluşlardan gerekli görüş, (Belediye)11 alınarak Çevre İmar bütünlüğünü bozmayacak (Ek
+kuruluşlardan gerekli görüş, (Belediye)alınarak Çevre İmar bütünlüğünü bozmayacak (Ek
 ibare: 3/4/1997 - 4232/4 md.) imar tadilatları ve mevzi imar planlarının ve buna uygun imar
 durumlarının Başbakanlık Özelleştirme İdaresi Başkanlığınca hazırlanarak Özelleştirme
 Yüksek Kurulunca onaylanmak suretiyle yürürlüğe girer ve ilgili Belediyeler bu arsa ve
@@ -39,22 +39,14 @@ ve onaylanması safhasında ortaya çıkabilecek ihtilafları halleder, gerekti�
 Kesinleşen planlar ilgili belediyelere ve valiliklere tebliğ edilir. Bu planların uygulanması
 mecburidir.
 Re'sen yapılan planlardaki değişiklikler de yukarıdaki usullere tabidir.
-Anayasa Mahkemesi’nin 4/12/2014 tarihli ve E:2013/114, K:2014/184 sayılı Kararı ile, bu bentte
-yer alan “…eser sözleşmesinde işleme izni verilenler ile…” ibaresi iptal edilmiştir.
-10
-9/7/2008 tarihli ve 5784 sayılı Kanunun 24 üncü maddesiyle; bu fıkrada yer alan “ile ilgili” ibaresi
-“ve enerji tesisleriyle ilgili alt yapı, üst yapı ve iletim hatlarına ilişkin” şeklinde değiştirilmiştir.
-11
-Parantez içi hüküm; 3/4/1997 tarih ve 4232 sayılı Kanunun 4 üncü maddesi ile metne işlendiği
-şekilde değiştirilmiştir.
-9
-
-(Ek fıkra: 3/7/2005 - 5398/19 md.) 4046 sayılı Kanun kapsamında gelir ortaklığı
+(Ek fıkra: 3/7/2005 - 5398/19 md.) 4046 sayılı Kanun kapsamında gelir ortaklığı
 modeli ve işin gereğine uygun sair hukuki tasarruflar yöntemine göre özelleştirme işlemleri
 yapılan hizmet özelleştirilmesi niteliğindeki yatırımların yapılacağı yerlerde hazırlanan veya
 hazırlattırılan plânları, Özelleştirme İdaresince değerlendirilmek ve sözleşmeye uygunluğu
-konusundaki görüşü de alınmak kaydı ile (…)12 re'sen onaylamaya Bayındırlık ve İskan
+konusundaki görüşü de alınmak kaydı ile (…)re'sen onaylamaya Bayındırlık ve İskan
 Bakanlığı yetkili olup, her türlü ruhsatı ilgili belediye en geç iki ay içinde verir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

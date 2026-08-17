@@ -16,6 +16,8 @@ bakımından niteliği itibarıyla gizli kalması gereken bilgileri, diğer bir 
 siyasal veya askerî casusluk maksadıyla temin eden vatandaşa veya bunu Türkiye'de temin
 etmiş bulunan yabancıya bir yıldan dört yıla kadar hapis cezası verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

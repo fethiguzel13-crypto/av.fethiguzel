@@ -12,7 +12,7 @@ I. Asıl borç**
 
 ---
 
-Madde 582 - Kefalet sözleşmesi, mevcut ve geçerli bir borç için yapılabilir. Ancak,
+MADDE 582- Kefalet sözleşmesi, mevcut ve geçerli bir borç için yapılabilir. Ancak,
 gelecekte doğacak veya koşula bağlı bir borç için de, bu borç doğduğunda veya koşul
 gerçekleştiğinde hüküm ifade etmek üzere kefalet sözleşmesi kurulabilir.
 Yanılma veya ehliyetsizlik sebebiyle borçlunun sorumlu olmadığı bir borç için kişisel

@@ -11,7 +11,7 @@ wordCount: 4311
 
 ---
 
-Madde 627 - Ortaklardan birinin ortaklık işleri için yaptığı giderlerden veya
+MADDE 627- Ortaklardan birinin ortaklık işleri için yaptığı giderlerden veya
 üstlendiği borçlardan dolayı diğer ortaklar, ona karşı sorumlu olurlar; bu ortağın, yönetim
 işleri yüzünden doğrudan doğruya uğradığı zararlar ile ortaklığın yönetiminden kaynaklanan
 tehlikeler sonucunda doğan zararları, diğer ortaklar gidermekle yükümlüdürler.

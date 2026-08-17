@@ -13,6 +13,8 @@ wordCount: 4315
 
 Madde 228 – (1) Müzakereyi mahkeme başkanı yönetir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

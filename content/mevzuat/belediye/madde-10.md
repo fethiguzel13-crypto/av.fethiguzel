@@ -16,6 +16,8 @@ Madde 10- Bir beldenin adı, belediye meclisi üye tam sayısının en az dörtt
 karar Resmî Gazetede yayımlanır. Beldenin adının değişmesi ile belediyenin adı da değişmiş
 sayılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

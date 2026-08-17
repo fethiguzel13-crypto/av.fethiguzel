@@ -7,15 +7,22 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**İddianamenin kabulü ve duruşma hazırlığı**
+**ÜÇÜNCÜ KİTAP
+Kovuşturma Evresi
+BİRİNCİ KISIM
+Kamu Davasının Yürütülmesi
+BİRİNCİ BÖLÜM
+Duruşma Hazırlığı
+İddianamenin kabulü ve duruşma hazırlığı**
 
 ---
 
 Madde 175 – (1) İddianamenin kabulüyle, kamu davası açılmış olur ve kovuşturma
 evresi başlar.
-
-(2) Mahkeme, iddianamenin kabulünden sonra duruşma gününü belirler ve duruşmada
+(2) Mahkeme, iddianamenin kabulünden sonra duruşma gününü belirler ve duruşmada
 hazır bulunması gereken kişileri çağırır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

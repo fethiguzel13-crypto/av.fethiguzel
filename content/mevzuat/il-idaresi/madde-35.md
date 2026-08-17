@@ -7,13 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**amirlerinin birinci derecede, diğer memurların ikinci derecede sicil amiridirler.**
-
----
-
 Madde 35 – İlçe çevresindeki belediyelerin başkanlariyle köy muhtarları, üst
 makamlara kendi idarelerinin iş ve ihtiyaçlariyle ilgili yazışmalarını kaymakamlık vasıtasiyle
 yaparlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

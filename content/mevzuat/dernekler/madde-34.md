@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Cemiyetler ve Dernekler kanunlarına yapılan atıflar**
+**(Mülga dördüncü fıkra: 23/1/2008-5728/578 md.)
+(Mülga beşinci fıkra: 23/1/2008-5728/578 md.)
+YEDİNCİ BÖLÜM
+Diğer Hükümler
+Cemiyetler ve Dernekler kanunlarına yapılan atıflar**
 
 ---
 
@@ -16,6 +20,8 @@ Kanunu veya 2908 sayılı Dernekler Kanunu ile bunların ek ve değişikliklerin
 maddelerine yapılan atıflar, bu Kanuna veya bu Kanunun aynı konuları düzenleyen madde
 veya maddelerine yapılmış sayılır. Bu Kanunda hüküm bulunmayan hallerde aynı konuları
 düzenleyen 4721 sayılı Türk Medeni Kanununun ilgili hükümlerine atıf yapılmış sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

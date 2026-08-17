@@ -14,6 +14,8 @@ wordCount: 4265
 Madde 199 – (1) Mahkeme, sanığın hazır bulunmasına ve zorla getirme kararı veya
 yakalama emriyle getirilmesine her zaman karar verebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

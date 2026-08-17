@@ -11,7 +11,7 @@ wordCount: 4305
 
 ---
 
-Madde 573 - Ardiyeci açıkça yetkili kılınmadıkça, aynı tür ve nitelikteki mislî
+MADDE 573- Ardiyeci açıkça yetkili kılınmadıkça, aynı tür ve nitelikteki mislî
 şeyleri birbirine karıştıramaz.
 Yetkiye dayanılarak karıştırılan bu gibi şeyler üzerinde, saklatanlardan her biri, hakkıyla
 orantılı bir pay isteyebilir.

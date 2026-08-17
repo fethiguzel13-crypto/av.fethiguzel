@@ -12,7 +12,14 @@ a. Katlanma yükümlülüğü**
 
 ---
 
-Madde 744 - Her taşınmaz maliki, uğrayacağı zararın tamamının önceden ödenmesi koşuluyla, su yol u, kurutma kanalı, gaz ve benzerlerine ait boruların, elektrik hat ve kablolarının, başka yerden geçiril mesi olanaksız veya aşırı ölçüde masraflı olduğu takdirde, ken di arazisinin altından veya üstünden geçirilmesine katlanmakla yükümlüdür. Mecra geçirilme sinin kamulaştırma kurallarına bağlı olması hâlinde, bu Kanunun mecralara ilişkin komşuluk hükümleri uyg ulanmaz. Mecrayı geçirme hakkı, hak sahibinin istemi üzerine v e giderleri ödemesi koşuluyla tapu kütüğüne tescil edilir.
+Madde 744- Her taşınmaz maliki, uğrayacağı zararın tamamının önceden ödenmesi
+koşuluyla, su yolu, kurutma kanalı, gaz ve benzerlerine ait boruların, elektrik hat ve kablolarının,
+başka yerden geçirilmesi olanaksız veya aşırı ölçüde masraflı olduğu takdirde, kendi arazisinin
+altından veya üstünden geçirilmesine katlanmakla yükümlüdür.
+Mecra geçirilmesinin kamulaştırma kurallarına bağlı olması hâlinde, bu Kanunun mecralara
+ilişkin komşuluk hükümleri uygulanmaz.
+Mecrayı geçirme hakkı, hak sahibinin istemi üzerine ve giderleri ödemesi koşuluyla tapu
+kütüğüne tescil edilir.
 
 ---
 

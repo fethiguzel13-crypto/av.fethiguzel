@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**Yetkililer**
+**Yetkililer:**
 
 ---
 
@@ -19,6 +19,8 @@ c) İllerde valiler;
 şarttır.)
 Valiler ve kaymakamlar tarafından alınan görevden uzaklaştırma tedbiri, memurun
 kurumuna derhal bildirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

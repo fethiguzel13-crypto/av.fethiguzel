@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**II
-- Kısmi kabul ve ödeme**
+**II - Kısmi kabul ve ödeme**
 
 ---
 
-Madde 771 - (1) Kabulün, poliçedeki bedelin bir kısmına özgülenip özgülenmeyeceği ve hamilin kısmi ödemeyi kabule zorunlu bulunup bulunmadığı, ödeme yerind eki hukuka tabidir.
+MADDE 771- (1) Kabulün, poliçedeki bedelin bir kısmına özgülenip
+özgülenmeyeceği ve hamilin kısmi ödemeyi kabule zorunlu bulunup bulunmadığı, ödeme
+yerindeki hukuka tabidir.
 
 ---
 

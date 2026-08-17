@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**II. Genel k urul kararı ile**
+**II. Genel kurul kararı ile**
 
 ---
 
-Madde 88 - Genel kurul, her zaman derneğin feshine karar verebilir.
+Madde 88- Genel kurul, her zaman derneğin feshine karar verebilir.
 
 ---
 

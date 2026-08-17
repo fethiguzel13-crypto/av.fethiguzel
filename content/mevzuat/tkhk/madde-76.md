@@ -22,8 +22,10 @@ kapsamında değerlendirilmez.
 çevreye zarar vermemeli, uygulanması zorunlu her türlü idari ve teknik düzenlemeye uygun
 olmalıdır.
 (4) Bakanlık sorumlu olduğu tüketici ürünlerinin piyasa gözetimi ve denetimini
-ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanun hükümlerine
+Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanun hükümlerine
 göre yerine getirmekle görevlidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

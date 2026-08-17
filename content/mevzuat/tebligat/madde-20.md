@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Muhatabın muvakkaten başka yere gitmesi**
+**Muhatabın muvakkaten başka yere gitmesi:**
 
 ---
 
@@ -21,7 +21,9 @@ imzadan imtina ederse, tebliğ eden bu beyanı şerh ve imza eder. Bu durumda ve
 evrakının kabulden çekinme halinde tebligat, 21 inci maddeye göre yapılır. (Değişik son
 cümle: 19/3/2003-4829/4 md.) Bu maddeye göre yapılacak tebligatlarda tebliğ, tebliğ
 evrakının 13, 14, 16, 17 ve 18 inci maddelerde yazılı kişilere verildiği tarihte veya ihbarname
-kapıya yapıştırılmışsa bu tarihten itibaren onbeş gün sonra yapılmış sayılır.6
+kapıya yapıştırılmışsa bu tarihten itibaren onbeş gün sonra yapılmış sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -18,6 +18,8 @@ sorumlu olacağı gibi, kesin kabul onay tarihinden itibaren de onbeş yıl sür
 sorumludur. Bu zarar ve ziyan genel hükümlere göre yüklenici ve alt yüklenicilere ikmal ve
 tazmin ettirilir. Ayrıca haklarında 27 nci madde hükümleri uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

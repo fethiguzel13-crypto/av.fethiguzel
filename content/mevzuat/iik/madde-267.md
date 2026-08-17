@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4280
 ---
 
-**İhtiyati hacizde iflas yolu ile takip**
+**İhtiyati hacizde iflas yolu ile takip:**
 
 ---
 
@@ -22,6 +22,8 @@ Borçlu ödeme emrine itiraz etmezse, bu durum hemen alacaklıya tebliğ olunur.
 Alacaklı, tebliğ tarihinden itibaren yedi gün içinde ticaret mahkemesine başvurarak borçlunun
 iflasına karar verilmesini istemeye mecburdur.
 264 üncü maddenin 4 üncü fıkrası hükmü kıyasen uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

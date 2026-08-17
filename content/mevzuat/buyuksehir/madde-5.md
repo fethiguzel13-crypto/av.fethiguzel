@@ -15,6 +15,8 @@ Madde 5- (Değişik: 12/11/2012-6360/6 md.)
 Büyükşehir belediyelerinin sınırları, il mülki sınırlarıdır.
 İlçe belediyelerinin sınırları, bu ilçelerin mülki sınırlarıdır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

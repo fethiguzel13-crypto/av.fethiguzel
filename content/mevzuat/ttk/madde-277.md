@@ -11,7 +11,8 @@ wordCount: 4279
 
 ---
 
-Madde 277 - (1 ) 276 ncı madde, mahkeme tarafından atanan tasfiye memurlarının görevden alınmalarına da uygulanır.
+MADDE 277- (1) 276 ncı madde, mahkeme tarafından atanan tasfiye memurlarının
+görevden alınmalarına da uygulanır.
 
 ---
 

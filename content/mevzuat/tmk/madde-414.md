@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4318
 ---
 
-**II. Eşin ve hısımların ön celiği**
+**II. Eşin ve hısımların önceliği**
 
 ---
 
-Madde 414 - Haklı sebepler engel olmadıkça, vesayet makamı, vesayet altına alınacak kişinin öncelikle eş ini veya yakın hısımlarından birini, vasilik koşullarına sahip olmaları kaydıyla bu göreve atar. Bu atamada yerleşim yerlerinin yakınlığı ve kişis el ili şkiler göz önünde tutulur.
+Madde 414- Haklı sebepler engel olmadıkça, vesayet makamı, vesayet altına alınacak
+kişinin öncelikle eşini veya yakın hısımlarından birini, vasilik koşullarına sahip olmaları kaydıyla
+bu göreve atar. Bu atamada yerleşim yerlerinin yakınlığı ve kişisel ilişkiler göz önünde tutulur.
 
 ---
 

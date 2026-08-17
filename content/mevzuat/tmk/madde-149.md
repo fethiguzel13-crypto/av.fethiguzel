@@ -11,7 +11,11 @@ wordCount: 4259
 
 ---
 
-Madde 149 - Aşa ğıdak i dur umlarda eşlerden biri evlenmenin iptalini dava edebilir: 1. Evlenmeyi hiç istemediği veya evlendiği kişiyle evlenmeyi düşünmediği hâlde yanılarak bu ev lenmeye razı olmuşsa, 2. Eşinde bulunmaması onunla birlikte yaşamayı kendisi için çekilmez bir durum a sokacak derecede önemli bir nitelikte yanılarak evlenmişse.
+Madde 149- Aşağıdaki durumlarda eşlerden biri evlenmenin iptalini dava edebilir:
+1. Evlenmeyi hiç istemediği veya evlendiği kişiyle evlenmeyi düşünmediği hâlde
+yanılarak bu evlenmeye razı olmuşsa,
+2. Eşinde bulunmaması onunla birlikte yaşamayı kendisi için çekilmez bir duruma
+sokacak derecede önemli bir nitelikte yanılarak evlenmişse.
 
 ---
 

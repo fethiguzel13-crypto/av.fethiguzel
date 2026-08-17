@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**yapılması**
+**İtirazın Cumhuriyet savcısına ve karşı tarafa tebliği ile inceleme ve araştırma
+yapılması**
 
 ---
 
@@ -17,6 +18,8 @@ gerekli gördüğünde bunların yapılmasını da emredebilir.
 (2) (Ek: 11/4/2013-6459/20 md.) 101 ve 105 inci maddeler uyarınca yapılan itiraz
 üzerine Cumhuriyet savcısından görüş alınması durumunda, bu görüş şüpheli, sanık veya
 müdafiine bildirilir. Şüpheli, sanık veya müdafii üç gün içinde görüşünü bildirebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

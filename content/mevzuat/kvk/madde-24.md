@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**Beyan esası**
+**İKİNCİ BÖLÜM
+Beyan
+Beyan esası**
 
 ---
 
@@ -17,6 +19,8 @@ MADDE 24- (1) Kurumlar vergisi, mükellefin veya vergi sorumlusunun beyanı
 (3) Mükelleflerin şubeleri, ajansları, alım-satım büro ve mağazaları, imalâthaneleri
 veya kendilerine bağlı diğer iş yerleri için, bunların bağımsız muhasebeleri ve ayrılmış
 sermayeleri olsa dahi ayrı beyanname verilmez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

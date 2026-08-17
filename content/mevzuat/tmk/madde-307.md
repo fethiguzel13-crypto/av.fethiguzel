@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**III . Tek başın a evlâ t edinme**
+**III. Tek başına evlât edinme**
 
 ---
 
-Madde 307 - Evli olmay an kişi otuz yaşını doldurmuş ise tek başına evlât edinebilir. Otuz yaşını doldurmuş olan eş, diğer eşin ayırt etme gücünden sürekli olarak yoksunlu ğu veya iki yılı aşkın süreden beri nerede olduğunun bilinmem esi y a da m ahkeme kararıyla iki yılı aşkın süre den beri eşinden ayrı yaşamakta olma sı yüzünden birlikte evlât edinmesinin mümkün olmadığını ispat etmesi hâlinde, tek başına evlât edinebilir.
+Madde 307- Evli olmayan kişi otuz yaşını doldurmuş ise tek başına evlât edinebilir.
+Otuz yaşını doldurmuş olan eş, diğer eşin ayırt etme gücünden sürekli olarak yoksunluğu
+veya iki yılı aşkın süreden beri nerede olduğunun bilinmemesi ya da mahkeme kararıyla iki yılı
+aşkın süreden beri eşinden ayrı yaşamakta olması yüzünden birlikte evlât edinmesinin mümkün
+olmadığını ispat etmesi hâlinde, tek başına evlât edinebilir.
 
 ---
 

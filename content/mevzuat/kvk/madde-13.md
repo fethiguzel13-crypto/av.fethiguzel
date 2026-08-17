@@ -31,7 +31,7 @@ bulunan kişilerle yapılmış tüm işlemler, ilişkili kişilerle yapılmış 
 durumların örtülü kazanç dağıtımı kapsamında sayılması için en az %10 oranında ortaklık, oy
 veya kâr payı hakkının olması şartı aranır. Ortaklık ilişkisi olmadan doğrudan veya dolaylı
 olarak en az %10 oranında oy veya kâr payı hakkının olduğu durumlarda da taraflar ilişkili
-kişi sayılır. İlişkili kişiler açısından bu oranlar topluca dikkate alınır.33
+kişi sayılır. İlişkili kişiler açısından bu oranlar topluca dikkate alınır.
 (3) Emsallere uygunluk ilkesi, ilişkili kişilerle yapılan mal veya hizmet alım ya da
 satımında uygulanan fiyat veya bedelin, aralarında böyle bir ilişkinin bulunmaması
 durumunda oluşacak fiyat veya bedele uygun olmasını ifade eder. Emsallere uygunluk ilkesi
@@ -68,12 +68,7 @@ tespit edilen süre ve şartlar dahilinde kesinlik taşır. (Ek cümleler: 15/7/
 Mükellef ve Bakanlık, belirlenen yöntemin zamanaşımına uğramamış geçmiş vergilendirme
 dönemlerine de tatbik edilmesini, Vergi Usul Kanununun pişmanlık ve ıslah hükümlerinin
 uygulanmasının mümkün olması ile anlaşma koşullarının bu dönemlerde de geçerli olması
-
-2/7/2018 tarihli ve 700 sayılı KHK’nin 173 üncü maddesiyle, bu fıkrada yer alan “Bakanlar
-Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-33
-
-hâlinde, anlaşma kapsamına almak suretiyle sağlayabilir. Bu durumda, imzalanan anlaşma söz
+hâlinde, anlaşma kapsamına almak suretiyle sağlayabilir. Bu durumda, imzalanan anlaşma söz
 konusu hükümlerde yer alan haber verme dilekçesi yerine geçer, beyan ve ödeme işlemleri
 buna göre tekemmül ettirilir. Anlaşmanın geçmiş vergilendirme dönemlerine uygulanması
 sebebiyle daha önceden ödenen vergiler ret ve iade edilmez.
@@ -94,77 +89,18 @@ ettirilmesidir.
 zamanında yerine getirilmiş olması kaydıyla, örtülü olarak dağıtılan kazanç nedeniyle
 zamanında tahakkuk ettirilmemiş veya eksik tahakkuk ettirilmiş vergiler için vergi ziyaı
 cezası (Vergi Usul Kanununun 359 uncu maddesinde yazılı fiillerle vergi ziyaına sebebiyet
-verilmesi hali hariç) %50 indirimli olarak uygulanır.34
+verilmesi hali hariç) %50 indirimli olarak uygulanır.
 (9) (Değişik: 15/7/2016-6728/59 md.) Cumhurbaşkanı; ikinci fıkrada yer alan
 oranları, gerçek kişiler, kurumlar, doğrudan veya dolaylı ortaklar itibarıyla ya da ortaklık
 payının edinim şekline göre topluca veya ayrı ayrı %1’e kadar indirmeye, %25’e kadar
 çıkarmaya, oran şartını kaldırmaya; beşinci fıkrada yer alan süreyi beş yıla kadar artırmaya,
 belgelendirme yükümlülükleri ve bu yükümlülükler kapsamına, uluslararası anlaşmalar
 doğrultusunda, yurt dışında yer alan ilişkili kişilerin faaliyetlerine ilişkin bilgilerin dâhil
-edilmesi zorunluyu getirmeye; bu bilgilerin uluslararası anlaşmalar çerçevesinde diğer
+edilmesi zorunluluğu getirmeye; bu bilgilerin uluslararası anlaşmalar çerçevesinde diğer
 ülkelerle karşılıklı olarak paylaşılmasına ilişkin usullerle transfer fiyatlandırması ile ilgili
-diğer usul ve esasları belirlemeye yetkilidir.35
+diğer usul ve esasları belirlemeye yetkilidir.
 
-İKİNCİ BÖLÜM
-Beyan
-Beyan esası
-
-MADDE 14- (1) Kurumlar vergisi, mükellefin veya vergi sorumlusunun beyanı
-üzerine tarh olunur. Beyanname, ilgili bulunduğu hesap döneminin sonuçlarını içerir.
-(2) Her mükellef vergiye tâbi kazancının tamamı için bir beyanname verir. Ancak,
-tüzel kişiliği bulunmayan iktisadî kamu kuruluşları ile dernek ve vakıflara ait iktisadî
-işletmelerden her biri için, bunların bağlı olduğu kamu tüzel kişileri ile dernek ve vakıflar
-tarafından ayrı beyanname verilir.
-(3) Kurumlar vergisi beyannamesi, hesap döneminin kapandığı ayı izleyen dördüncü
-ayın birinci gününden yirmibeşinci günü akşamına kadar mükellefin bağlı olduğu vergi
-dairesine verilir.
-(4) Mükelleflerin şubeleri, ajansları, alım-satım büro ve mağazaları, imalâthaneleri
-veya kendilerine bağlı diğer iş yerleri için, bunların bağımsız muhasebeleri ve ayrılmış
-sermayeleri olsa dahi ayrı beyanname verilmez.
-(5) Kooperatiflerin gelirlerinin vergi kesintisine tâbi tutulan taşınmaz kira
-gelirlerinden ibaret olması halinde, bu gelirler için beyanname verilmez.
-(6) Mükellefin bağlı olduğu vergi dairesi, kurumun kanunî veya iş merkezinin
-bulunduğu yerin vergi dairesidir.
-(7) Maliye Bakanlığı, mükelleflerin bağlı oldukları vergi dairelerini, kanunî veya iş
-merkezlerine bakmaksızın belirlemeye yetkilidir.
-(8) Beyannamelerin şekil, içerik ve ekleri Maliye Bakanlığınca belirlenir. Mükellefler
-beyanlarını bu beyanname ile yapmak veya bu beyannamelerde yazılı bilgilere uygun olarak
-bildirmek zorundadır.
-
-31/5/2012 tarihli ve 6322 sayılı Kanunun 36 ncı maddesiyle bu bentte yer alan “Türkiye Kızılay
-Derneğine” ibaresinden sonra gelmek üzere “ve Türkiye Yeşilay Cemiyetine” ibaresi eklenmiştir.
-25
-22/4/2026 tarihli ve 7578 sayılı Kanunun 20 nci maddesiyle bu bende “İktisadi işletmeleri hariç,”
-ibaresinden sonra gelmek üzere “Darülacezeye,” ibaresi eklenmiştir.
-26
-15/7/2016 tarihli ve 6728 sayılı Kanunun 58 inci maddesi ile bu maddenin birinci paragrafında yer
-alan “çağrı merkezi ve veri saklama hizmeti” ibaresi “çağrı merkezi, ürün testi, sertifikasyon, veri
-saklama, veri işleme, veri analizi ve ilgili bakanlıkların görüşü alınmak suretiyle Maliye Bakanlığınca
-belirlenen mesleki eğitim” şeklinde değiştirilmiş ve aynı maddenin üçüncü paragrafına “hizmet
-alanları” ibaresinden sonra gelmek üzere “ve kazanç tutarları” ibaresi eklenmiştir.
-27
-27/12/2023 tarihli ve 7491 sayılı Kanunun 59 uncu maddesi ile bu bendin birinci paragrafında yer
-alan “kazancın %50’si.” ibaresi “kazancın, elde edildiği hesap dönemine ilişkin kurumlar vergisi
-beyannamesinin verilmesi gereken tarihe kadar tamamının Türkiye’ye transfer edilmesi şartıyla,
-%80’i.” şeklinde ve üçüncü paragrafında yer alan “%100’e kadar artırmaya” ibaresi “%100’e kadar
-artırmaya ve Türkiye’ye transfer edilecek kazanç tutarını sıfıra kadar indirmeye veya kanuni
-seviyesine kadar artırmaya” şeklinde değiştirilmiştir.
-28
-Bu bendin uygulanması ile ilgili olarak 30/4/2026 tarihli ve 33239 sayılı Resmî Gazete’de
-yayımlanan 11257 sayılı Cumhurbaşkanı Kararına bakınız.
-24
-30
-2/7/2018 tarihli ve 700 sayılı KHK’nin 173 üncü maddesiyle, bu paragrafta yer alan “Bakanlar
-Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-29
-34
-4/6/2008 tarihli ve 5766 sayılı Kanunun 21 inci maddesiyle (7) numaralı fıkra eklenmiş ve mevcut
-yedinci fıkra (8) olarak teselsül ettirilmiştir. Daha sonra 15/7/2016 tarihli ve 6728 sayılı Kanunun 59
-uncu maddesi ile yedinci fıkrasından sonra gelmek üzere (8) numaralı fıkra eklenmiş ve mevcut
-sekizinci fıkra buna göre teselsül ettirilmiştir.
-35
-2/7/2018 tarihli ve 700 sayılı KHK’nin 173 üncü maddesiyle, bu fıkrada yer alan “Bakanlar
-Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+---
 
 ### Akademik Yorum ve Analiz
 

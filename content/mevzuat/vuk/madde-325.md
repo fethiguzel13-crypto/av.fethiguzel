@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-**Sermayenin itfası**
+**Sermayenin itfası:**
 
 ---
 
@@ -16,7 +16,8 @@ olarak Devlete veya Devletçe tensip olunan bir teşekküle veya belediyeye inti
 imtiyazname gereğinden bulunduğu, imtiyaz mukavelenamesinde de sermayenin itfası için
 yıllık belli bir nispet veya miktar ayrılması gösterilmiş olduğu takdirde, bu nispet veya miktar
 üzerinden sermaye itfa olunur.
-Girişim sermayesi fonu:
+
+---
 
 ### Akademik Yorum ve Analiz
 

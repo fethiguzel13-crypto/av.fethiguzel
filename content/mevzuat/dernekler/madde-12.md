@@ -7,18 +7,13 @@ lastReviewed: "2026-07-27"
 wordCount: 3610
 ---
 
-**Dernekler, tüzüklerinde yazılı olmak ve sağlanan kârı üyelerine**
-
----
-
-Madde 12 - Dernekler, tüzüklerinde yazılı olmak ve sağlanan kârı üyelerine
+Madde 12- Dernekler, tüzüklerinde yazılı olmak ve sağlanan kârı üyelerine
 paylaştırmamak, gelir, faiz veya başka adlarla üyelerine aktarmamak şartıyla üyelerinin
-yiyecek, giyecek gibi zarurî ihtiyaç maddelerini ve diğer mal ve hizmetlerle kısa
-vadeli kredi ihtiyaçlarını karşılamak amacıyla sandık kurabilirler.
-
+yiyecek, giyecek gibi zarurî ihtiyaç maddelerini ve diğer mal ve hizmetlerle kısa vadeli kredi
+ihtiyaçlarını karşılamak amacıyla sandık kurabilirler.
 Bu sandıkların kuruluş ve çalışma esasları yönetmelikte düzenlenir.
 
-Dernek görevlileri ve ücretleri
+---
 
 ### Akademik Yorum ve Analiz
 

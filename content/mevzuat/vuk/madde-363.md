@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**Mükelleflerin özel işlerini yapan memurlar**
+**Mükelleflerin özel işlerini yapan memurlar:**
 
 ---
 
@@ -23,14 +23,7 @@ BİRİNCİ BÖLÜM
 Ceza Kesme
 Cezayı gerektiren olayın tesbiti:
 
-Bu madde başlığı “İştirak”iken, 23/1/2008 tarihli ve 5728 sayılı Kanunun 277 nci maddesiyle metne işlendiği
-şekilde değiştirilmiştir.
-139
-
-Madde 364 – Vergi cezalarını gerektiren olaylar vergi dairelerince veya yoklamaya ve
-vergi incelemesine yetkili olanlar tarafından tesbit olunur. Yoklama ve vergi incelemesi
-sırasında raslanan, vergi cezasını gerektirici olayların, raporlarda gösterilmesi, delillerin
-kaybolması ihtimalinin bulunduğu hallerde bunların tutanakla tesbit edilmesi mecburidir.
+---
 
 ### Akademik Yorum ve Analiz
 

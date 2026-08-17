@@ -37,8 +37,7 @@ tedavisinin sağlanması.
 bentlerinde yer alan tedbirler, ilgili kolluk amirlerince de alınabilir. Kolluk amiri evrakı en
 geç kararın alındığı tarihi takip eden ilk işgünü içinde hâkimin onayına sunar. Hâkim
 tarafından yirmidört saat içinde onaylanmayan tedbirler kendiliğinden kalkar.
-
-(3) Bu Kanunda belirtilen tedbirlerle birlikte hâkim, 3/7/2005 tarihli ve 5395 sayılı
+(3) Bu Kanunda belirtilen tedbirlerle birlikte hâkim, 3/7/2005 tarihli ve 5395 sayılı
 Çocuk Koruma Kanununda yer alan koruyucu ve destekleyici tedbirler ile 4721 sayılı Kanun
 hükümlerine göre velayet, kayyım, nafaka ve kişisel ilişki kurulması hususlarında karar
 vermeye yetkilidir.
@@ -46,6 +45,8 @@ vermeye yetkilidir.
 kişi ise 4721 sayılı Kanun hükümlerine göre nafakaya hükmedilmemiş olması kaydıyla
 hâkim, şiddet mağdurunun yaşam düzeyini göz önünde bulundurarak talep edilmese dahi
 tedbir nafakasına hükmedebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -18,6 +18,8 @@ kurulunca olayın özelliklerine göre belirlenir.
 önceden taraflara bildirmek kaydıyla bir başka yerde de toplanabilir; duruşma, keşif gibi
 benzeri işlemleri de yapabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

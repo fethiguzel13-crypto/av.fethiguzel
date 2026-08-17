@@ -24,6 +24,8 @@ Genel Müdür bu yetkisini kısmen veya tamamen Genel Müdür yardımcılarına,
 Hukuk Müşavirine veya bölge müdürlerine devredebilir.
 Bu maddenin uygulanmasına ve miktarların tespitine ilişkin hususlar Meclisçe belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

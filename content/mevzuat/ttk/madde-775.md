@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**VI
-- İptal kararı**
+**VI - İptal kararı**
 
 ---
 
-Madde 775 - (1) Poliçenin kaybolması veya çalınması hâlinde alınacak tedbirleri, ödeme yerindeki hukuk belirler. İKİNCİ BÖLÜM Bono veya Emre Yazılı Senet A) Unsurlar
+MADDE 775- (1) Poliçenin kaybolması veya çalınması hâlinde alınacak tedbirleri,
+ödeme yerindeki hukuk belirler.
 
 ---
 

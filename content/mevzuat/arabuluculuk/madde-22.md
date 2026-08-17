@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Arabuluculuk eğitimi**
+**YEDİNCİ BÖLÜM
+Arabuluculuk Eğitimi ve Eğitim Kuruluşları
+Arabuluculuk eğitimi**
 
 ---
 
@@ -15,6 +17,8 @@ MADDE 22 – (1) Arabuluculuk eğitimi, hukuk fakültesinin tamamlanmasından so
 alınan, arabuluculuk faaliyetinin yürütülmesiyle ilgili temel bilgileri, iletişim teknikleri,
 müzakere ve uyuşmazlık çözüm yöntemleri ve davranış psikolojisi ile yönetmelikte
 gösterilecek olan diğer teorik ve pratik bilgileri içeren eğitimi ifade eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

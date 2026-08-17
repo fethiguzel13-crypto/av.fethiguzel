@@ -19,6 +19,8 @@ koşulu ile işçilerin hepsi veya bir kısmına fazla çalışma yaptırılabil
 Şu kadar ki, zorunlu sebeplerle yapılan fazla çalışmalar için 41 inci maddenin birinci,
 ikinci ve üçüncü fıkraları hükümleri uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

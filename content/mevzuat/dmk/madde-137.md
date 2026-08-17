@@ -7,14 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4275
 ---
 
-**Görevden uzaklaştırma**
+**BÖLÜM: 8
+Görevden Uzaklaştırma
+Görevden uzaklaştırma:**
 
 ---
 
 Madde 137 – Görevden uzaklaştırma, Devlet kamu hizmetlerinin gerektirdiği
-hallerinde, görevi başında kalmasında sakınca görülecek Devlet memurları hakkında alınan
+hallerde, görevi başında kalmasında sakınca görülecek Devlet memurları hakkında alınan
 ihtiyati bir tedbirdir.
 Görevden uzaklaştırma tedbiri, soruşturmanın herhangi bir safhasında da alınabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

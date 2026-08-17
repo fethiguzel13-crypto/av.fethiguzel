@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**III. Za manaşımı**
+**III. Zamanaşımı**
 
 ---
 
-Madde 864 - Rehnin tapu kütüğüne tescil edilmesinden s onra alacak için zamanaşımı işlemez.
+Madde 864- Rehnin tapu kütüğüne tescil edilmesinden sonra alacak için zamanaşımı
+işlemez.
 
 ---
 

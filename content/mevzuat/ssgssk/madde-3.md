@@ -26,14 +26,12 @@ veya aylık bağlanmasına veya toptan ödeme yapılmasına hak kazanan eş, ço
 8) Genel sağlık sigortası: Kişilerin öncelikle sağlıklarının korunmasını, sağlık riskleri
 ile karşılaşmaları halinde ise oluşan harcamaların finansmanını sağlayan sigortayı,
 9) Genel sağlık sigortalısı: Bu Kanunun 60 ıncı maddesinde sayılan kişileri,
-
-
-10) (Değişik: 17/4/2008-5754/1 md.) Bakmakla yükümlü olduğu kişi: 5 inci
+10) (Değişik: 17/4/2008-5754/1 md.) Bakmakla yükümlü olduğu kişi: 5 inci
 maddenin birinci fıkrasının (b) bendi ile 60 ıncı maddenin birinci fıkrasının (c) bendinin (1),
 (2) ve (7) numaralı alt bentleri ile yedinci ve sekizinci fıkraları ile onikinci fıkrasındaki askeri
 öğrenci adayları ile Jandarma ve Sahil Güvenlik Akademisi öğrenci adayları dışında kalan
 genel sağlık sigortalısının, sigortalı sayılmayan veya isteğe bağlı sigortalı olmayan, kendi
-sigortalılığı nedeniyle gelir veya aylık bağlanmamış olan;123
+sigortalılığı nedeniyle gelir veya aylık bağlanmamış olan;
 a) Eşini,
 b) 18 yaşını, lise ve dengi öğrenim veya 5/6/1986 tarihli ve 3308 sayılı Meslekî Eğitim
 Kanununda belirtilen aday çıraklık ve çıraklık eğitimi ile işletmelerde meslekî eğitim görmesi
@@ -57,10 +55,7 @@ otuz gün olarak değerlendirilen süreyi,
 maddenin birinci fıkrasının (a) ve (c) bentleri kapsamındaki sigortalılar için, 15 Ocak
 tarihinden ertesi yılın 15 Ocak tarihine kadar geçen, diğer sigortalılar için ise 1 Ocak ilâ 31
 Aralık tarihleri arasında geçen ve 360 gün olarak değerlendirilen süreyi,
-1 13/2/2011 tarihli ve 6111 sayılı Kanunun 23 üncü maddesiyle, (10) numaralı bentte yer alan “Bu Kanunun 60 ıncı maddesinin birinci fıkrasının (c) bendinin (1) ve (2) numaralı alt bentlerinin dışında kalan genel sağlık sigortalısının,” ibaresi “5 inci maddenin birinci fıkrasının (b) bendi ile 60 ıncı maddenin birinci fıkrasının (c) bendinin (1), (2) ve (7) numaralı alt bentleri ile yedinci ve sekizinci fıkralarının dışında kalan genel sağlık sigortalısının,” olarak, aynı bendin (c) alt bendinde yer alan “sigortalı” ibaresi “genel sağlık sigortalısı” olarak değiştirilmiştir. 2 2/1/2017 tarihli ve 681 sayılı KHK’nin 73 üncü maddesiyle bu bentte yer alan “60 ıncı maddenin birinci fıkrasının (c) bendinin (1), (2) ve (7) numaralı alt bentleri ile yedinci ve sekizinci” ibaresi “60 ıncı maddenin birinci fıkrasının (c) bendinin (1), (2) ve (7) numaralı alt bentleri ile yedinci, sekizinci ve onikinci” şeklinde 1/3/2017 tarihinden geçerli olmak üzere değiştirilmiş; daha sonra bu hüküm 1/2/2018 tarihli ve 7073 sayılı Kanunun 72 nci maddesiyle aynen kabul edilerek 1/3/2017 tarihinde yürürlüğe girmek üzere kanunlaşmıştır. 3 17/1/2019 tarihli ve 7161 sayılı Kanunun 40 ıncı maddesiyle, bu maddenin birinci fıkrasının (10) numaralı bendinde yer alan “yedinci, sekizinci ve onikinci fıkralarının” ibaresi “yedinci ve sekizinci fıkraları ile onikinci fıkrasındaki askeri öğrenci adayları ile Jandarma ve Sahil Güvenlik Akademisi öğrenci adayları” şeklinde değiştirilmiştir.
-
-
-16) Gelir: İş kazası veya meslek hastalığı halinde sigortalıya veya sigortalının ölümü
+16) Gelir: İş kazası veya meslek hastalığı halinde sigortalıya veya sigortalının ölümü
 halinde hak sahiplerine, yapılan sürekli ödemeyi,
 17) (Değişik: 17/4/2008-5754/1 md.) Aylık: Malûllük, yaşlılık ve ölüm sigortaları ile
 vazife malûllüğü halinde yapılan sürekli ödemeyi,
@@ -100,9 +95,7 @@ veya şartlı mülteci statüsü sahibi veya vatansız olarak tanınan kişileri
 28) Peşin sermaye değeri: Kurumca, bu Kanunun ilgili maddelerinde belirtilen
 giderlerin yaş, kesilme ihtimali ve Kurumca belirlenecek iskonto oranı dikkate alınarak
 hesaplanan tutarı,
-
-
-29) (Değişik: 17/4/2008-5754/1 md.) Güncelleme katsayısı: Her yılın Aralık ayına
+29) (Değişik: 17/4/2008-5754/1 md.) Güncelleme katsayısı: Her yılın Aralık ayına
 göre Türkiye İstatistik Kurumu tarafından açıklanan en son temel yıllı tüketici fiyatları genel
 indeksindeki değişim oranının % 100’ü ile sabit fiyatlarla gayri safi yurtiçi hasıla gelişme
 hızının % 30’unun toplamına (1) tam sayısının ilâve edilmesi sonucunda bulunan değeri,
@@ -120,9 +113,9 @@ maddelerine göre kısmi süreli veya çağrı üzerine çalışanlar, ay içeri
 saatlerinde çalışıp, çalıştığı saat karşılığında ücret alanlardan ay içerisinde otuz günden eksik
 prim ödeme gün sayısı bulunanlar, sigortalı çalışmama şartı hariç birinci fıkranın (10)
 numaralı bendinde yer verilen diğer şartları haiz olmaları kaydıyla otuz günden eksik günleri
-için genel sağlık sigortalısının bakmakla yükümlü olduğu kişi sayılır.4
-İKİNCİ KISIM
-Sosyal Sigorta Hükümleri
+için genel sağlık sigortalısının bakmakla yükümlü olduğu kişi sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

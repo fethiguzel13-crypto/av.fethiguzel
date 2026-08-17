@@ -11,7 +11,8 @@ wordCount: 4289
 
 ---
 
-Madde 288 - (1) Tasfiye memurları tasfiye işlemlerinin güvenliğini sağlamak için gereken defterle ri tutmakla yükümlüdür.
+MADDE 288- (1) Tasfiye memurları tasfiye işlemlerinin güvenliğini sağlamak için
+gereken defterleri tutmakla yükümlüdür.
 
 ---
 

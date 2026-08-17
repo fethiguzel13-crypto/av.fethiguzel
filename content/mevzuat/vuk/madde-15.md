@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**Mücbir sebeplerle gecikme**
+**Mücbir sebeplerle gecikme:**
 
 ---
 
@@ -31,6 +31,8 @@ halinin vukua geldiği tarihin rastladığı ayı izleyen on sekizinci ayın son
 kaydıyla uzatabilir, bu fıkra kapsamında yetkisini, vergi türleri ve iş yerleri itibarıyla;
 beyannamelerin toplulaştırılması, yeni beyanname verme süreleri belirlenmesi ve beyanname
 verme zorunluluğunun kaldırılması şeklinde de kullanabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

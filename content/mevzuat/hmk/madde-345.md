@@ -7,13 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**Başvuru süresi**
-
----
-
 MADDE 345- (1) İstinaf yoluna başvuru süresi iki haftadır. Bu süre, ilamın usulen
 taraflardan her birine tebliğiyle işlemeye başlar. İstinaf yoluna başvuru süresine ilişkin özel
 kanun hükümleri saklıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

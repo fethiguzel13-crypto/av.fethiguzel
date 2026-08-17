@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Cezai kovuşturma ile disiplin kovuşturmasının bir arada yürütülmesi**
+**Cezai kovuşturma ile disiplin kovuşturmasının bir arada yürütülmesi:**
 
 ---
 
@@ -18,10 +18,12 @@ cezasının uygulanmasına engel olamaz.
 (Ek: 6/10/1983 - 2910/1 md.) 160 sayılı Devlet Personel Dairesi Kurulması Hakkında
 Kanunun 4 üncü maddesinde sayılan kuruluşlarda çalışan personel hakkında; görevden doğan
 veya görevi sırasında işledikleri suçlarla kişisel suçları sebebiyle Cumhuriyet savcıları veya
-(…)187 sorgu hakimlikleri veya Memurin Muhakematı Hakkında Kanun uyarınca yetkili
+(…)sorgu hakimlikleri veya Memurin Muhakematı Hakkında Kanun uyarınca yetkili
 kurullarca yapılan soruşturma sonunda düzenlenen takipsizlik, meni muhakeme, iddianame,
 talepname veya lüzumu muhakeme karar suretleri ile ilgili mahkemelerce verilen kesinleşmiş
-karar suretleri bu personelin bağlı olduğu bakanlık veya kurum veya kuruluşa gönderilir.188
+karar suretleri bu personelin bağlı olduğu bakanlık veya kurum veya kuruluşa gönderilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

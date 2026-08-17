@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**Müteahhit veya müşterinin sözleşmenin bozulmasına neden olması**
+**Müteahhit veya müşterinin sözleşmenin bozulmasına neden olması:**
 
 ---
 
@@ -18,6 +18,8 @@ nedenleri açıkça belirtilen ihtarına rağmen aynı durumun devam etmesi hali
 protesto çekmeye ve hüküm almaya gerek kalmaksızın kesin teminatı gelir kaydedilir ve
 sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir.
 Gelir kaydedilen kesin teminat, müteahhit veya müşterinin borcuna mahsup edilemez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

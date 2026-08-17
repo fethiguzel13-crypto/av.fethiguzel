@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Diğer hükümler42**
+**Diğer hükümler**
 
 ---
 
 Madde 28- Belediye Kanunu ve diğer ilgili Kanunların bu kanuna aykırı olmayan
 hükümleri ilgisine göre büyükşehir ve ilçe belediyeleri hakkında da uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

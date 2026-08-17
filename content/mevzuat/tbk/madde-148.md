@@ -11,7 +11,7 @@ wordCount: 4270
 
 ---
 
-Madde 148 - Bu ayırımda belirlenen zamanaşımı süreleri, sözleşmeyle değiştirilemez.
+MADDE 148- Bu ayırımda belirlenen zamanaşımı süreleri, sözleşmeyle değiştirilemez.
 
 ---
 

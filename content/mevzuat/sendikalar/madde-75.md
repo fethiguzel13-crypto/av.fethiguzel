@@ -27,6 +27,8 @@ işçilerin dörtte üçünün sendika üyeliğinden ayrıldıklarının tespiti
 grevin sona erdirilmesi için mahkemeye başvurabilir. Mahkemece belirlenecek tarihte grevin
 sona ereceği ikinci fıkradaki usule göre ilan edilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

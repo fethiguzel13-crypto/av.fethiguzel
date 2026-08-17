@@ -19,6 +19,8 @@ c) Doğruyu söyleyeceği hususunda yemin edeceği,
 terk edemeyeceği ve gerekirse diğer tanıklarla yüzleştirilebileceği,
 anlatılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

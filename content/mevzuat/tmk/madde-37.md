@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**II. Görev liler**
+**II. Görevliler**
 
 ---
 
-Madde 37 - Kişisel durum sicili, Devletçe atanan memurlar tarafından tutulur. Sicil kayıtlarını tutmak ve örnek vermek bu memurların görevidir. Yabancı memlek etlerdeki Türkiye temsilcilerine, Cumhurbaşkanlığının onayı ile nüfus
-memurluğu yetkisi veril ebilir. 2 III. Sorumluluk
+Madde 37- Kişisel durum sicili, Devletçe atanan memurlar tarafından tutulur. Sicil
+kayıtlarını tutmak ve örnek vermek bu memurların görevidir.
+Yabancı memleketlerdeki Türkiye temsilcilerine, Cumhurbaşkanlığının onayı ile nüfus
+memurluğu yetkisi verilebilir.
 
 ---
 

@@ -8,6 +8,7 @@ import {
   getNote,
   resolveNoteCourseCode,
 } from '@/lib/ders-notlari';
+import { auditLectureNote } from '@/lib/content-quality.mjs';
 
 type Props = {
   params: Promise<{ uni: string; ders: string }>;
@@ -15,19 +16,9 @@ type Props = {
 };
 
 export function generateStaticParams() {
-  // PDF sayfaları da tam SSG yapmaz — build bütçesi
-  return getAllNoteParams()
-    .filter((p) =>
-      [
-        'ankara-yildirim-beyazit',
-        'ankara',
-        'istanbul',
-        'marmara',
-        'bilkent',
-        'bogazici',
-      ].includes(p.uni)
-    )
-    .slice(0, 120);
+  // Notların tamamı kalıp metin olduğu ve indekse girmediği için önceden
+  // üretim yapılmaz; hepsi dynamicParams ile karşılanır.
+  return getAllNoteParams().slice(0, 0);
 }
 
 export const dynamicParams = true;
@@ -54,6 +45,12 @@ export default async function DersNotuPdfPage({ params, searchParams }: Props) {
   const note = getNote(uni, ders);
   const hub = getHub(uni);
   if (!note || !hub) notFound();
+
+  // Kalıp metni PDF olarak indirtmek, kaldırma kararını anlamsız kılar.
+  if (!auditLectureNote(note).publishable) {
+    permanentRedirect(`/ders-notlari/${uni}/${ders}`);
+  }
+
   const autoPrint = sp?.print === '1' || sp?.print === 'true';
 
   return (

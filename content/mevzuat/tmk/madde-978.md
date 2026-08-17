@@ -11,7 +11,7 @@ wordCount: 4281
 
 ---
 
-Madde 978 - Temsil ciye yapılan teslim, temsil edilene yapılmış gibi zilyetliği geçirir.
+Madde 978- Temsilciye yapılan teslim, temsil edilene yapılmış gibi zilyetliği geçirir.
 
 ---
 

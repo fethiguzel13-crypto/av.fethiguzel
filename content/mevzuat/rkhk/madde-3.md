@@ -12,7 +12,7 @@ wordCount: 4280
 ---
 
 Madde 3 – Bu Kanunun uygulanmasında;
-Bakanlık: (Değişik: 24/10/2011-KHK-661/53 md.) Ticaret Bakanlığını,1
+Bakanlık: (Değişik: 24/10/2011-KHK-661/53 md.) Ticaret Bakanlığını,
 Rekabet : Mal ve hizmet piyasalarındaki teşebbüsler arasında özgürce ekonomik
 kararlar verilebilmesini sağlayan yarışı,
 Hakim Durum : Belirli bir piyasadaki bir veya birden fazla teşebbüsün, rakipleri ve
@@ -25,14 +25,11 @@ haiz ya da tüzelkişiliği olmayan her türlü birlikleri,
 Mal : Ticarete konu olan her türlü taşınır ve taşınmaz eşyayı,
 Hizmet : Bir bedel veya menfaat karşılığında yapılan bedeni, fikri veya her ikisi
 beraber olan faaliyetleri,
-16/6/2020 tarihli ve 7246 sayılı Kanunun 14 üncü maddesiyle, bu tanımda yer alan “Gümrük ve
-Ticaret Bakanlığını” ibaresi “Ticaret Bakanlığını” şeklinde değiştirilmiştir.
-1
-
-Kurum : Rekabet Kurumunu,
+Kurum : Rekabet Kurumunu,
 Kurul : Rekabet Kurulunu,
 ifade eder.
-İKİNCİ KISIM
+
+---
 
 ### Akademik Yorum ve Analiz
 

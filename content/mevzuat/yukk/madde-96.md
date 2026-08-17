@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Uyum**
+**DÖRDÜNCÜ KISIM
+Yabancılar ve Uluslararası Korumaya İlişkin
+Ortak Hükümler
+Uyum**
 
 ---
 
@@ -26,6 +29,8 @@ faaliyetlere erişim, sosyal ve kültürel iletişim, temel sağlık hizmeti alm
 kurslar, uzaktan eğitim ve benzeri sistemlerle tanıtım ve bilgilendirme etkinlikleri Genel
 Müdürlükçe kamu kurum ve kuruluşları ile sivil toplum kuruluşlarıyla da iş birliği yapılarak
 yaygınlaştırılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**III
-- Sözleşme yapma yetkisi**
+**III - Sözleşme yapma yetkisi**
 
 ---
 
-Madde 107 - (1 ) Özel ve yazılı bir yetki almadan acente, müvekkili adına sözleşme yapmaya yetkili değildir. (2) Acentelere müvekkilleri adına sözleşme yapma yetkisi veren belgelerin, acente tarafından tescil ve ilan ettirilmesi zorunludur.
+MADDE 107- (1) Özel ve yazılı bir yetki almadan acente, müvekkili adına sözleşme
+yapmaya yetkili değildir.
+(2) Acentelere müvekkilleri adına sözleşme yapma yetkisi veren belgelerin, acente
+tarafından tescil ve ilan ettirilmesi zorunludur.
 
 ---
 

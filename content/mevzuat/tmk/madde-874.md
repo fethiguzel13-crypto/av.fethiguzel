@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**2. Satış bedelinin dağıtı lması**
+**2. Satış bedelinin dağıtılması**
 
 ---
 
-Madde 874 - Rehinli taşınmazın satış bedeli, alacaklılar arasında sıralarına göre dağ ıtılır. Aynı sırada olan alacaklılar arasında o sıraya düşen satış bedeli alacakları oranında dağıtılır.
+Madde 874- Rehinli taşınmazın satış bedeli, alacaklılar arasında sıralarına göre dağıtılır.
+Aynı sırada olan alacaklılar arasında o sıraya düşen satış bedeli alacakları oranında
+dağıtılır.
 
 ---
 

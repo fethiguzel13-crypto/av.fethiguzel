@@ -14,6 +14,8 @@ wordCount: 4305
 MADDE 69- (1) Tüketici hakem heyetleri uyuşmazlık konusuna ilişkin her türlü bilgi
 ve belgeyi taraflardan, ilgili kurum veya kuruluşlardan isteyebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

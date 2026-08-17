@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Madde 321**
+**BEŞİNCİ AYIRIM
+SOYBAĞININ HÜKÜMLERİ
+A. Soyadı**
 
 ---
 
-Madde 321 - Çocuk, an a ve baba evli ise ailenin; (…) 24 soyadını taşır. A ncak, ana önceki evliliğinden dolay ı çifte soyadı taşıyorsa çocu k onun bekârlık soyadını taşır.
+Madde 321- Çocuk, ana ve baba evli ise ailenin; (…)soyadını taşır. Ancak, ana önceki
+evliliğinden dolayı çifte soyadı taşıyorsa çocuk onun bekârlık soyadını taşır.
 
 ---
 

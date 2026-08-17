@@ -19,14 +19,14 @@ b) 75 inci maddede yer alan afet ve savaş hali nedeniyle sağlanan sağlık hiz
 c) Aile hekimi muayeneleri ve kişiye yönelik koruyucu sağlık hizmetleri.
 d) Sağlık raporu ile belgelendirilmek şartıyla; Kurumca belirlenen kronik hastalıklar
 ve hayati önemi haiz 68 inci maddenin birinci fıkrasının (b) bendi kapsamındaki sağlık
-hizmetleri ile organ, doku ve kök hücre; nakli.121
+hizmetleri ile organ, doku ve kök hücre; nakli.
 e) (Değişik: 17/4/2008-5754/65 md.) 94 üncü maddede tanımlanan kontrol
 muayeneleri,
 f) (Değişik: 4/7/2012-6353/83 md.) 60 ıncı maddenin birinci fıkrasının (c) bendinin
 (4) numaralı alt bendinde belirtilen kişiler ile bunların eşleri, (6) ve (8) numaralı alt
 bentlerinde sayılanlar ile bunların bakmakla yükümlü olduğu kişiler, (5) ve (7) numaralı alt
 bentlerinde sayılanlar, vazife malulleri ile 4 üncü maddenin dördüncü fıkrasının (d), (e) ve (f)
-bentlerinde sayılanlar.122
+bentlerinde sayılanlar.
 g) (Ek: 4/7/2012-6353/83 md.) 3713 sayılı Kanunun 21 inci maddesinde sayılan
 olaylara maruz kalmaları nedeniyle yaralananların tedavileri sonuçlanıncaya veya
 maluliyetleri kesinleşinceye kadar sağlanacak sağlık hizmetleri.
@@ -35,6 +35,8 @@ maddenin onikinci, onüçüncü ve ondördüncü fıkraları kapsamında genel s
 sayılanlar.
 Bu madde gereğince katılım payı alınmayacak sağlık hizmetlerini tek tek veya
 gruplandırarak tespite Kurum yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

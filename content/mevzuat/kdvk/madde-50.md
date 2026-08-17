@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Muhatap**
+**Muhatap:**
 
 ---
 
@@ -16,6 +16,8 @@ bulunan mükellefe, kanuni temsilcisine, adına hareket eden komisyoncusu ile g�
 geçiş işlemine muhatap olanlara tebliğ edilir.
 2. Bu tebliğ üzerine açılacak davalar için Gümrük Vergisinin tabi olduğu usul ve esaslar
 uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

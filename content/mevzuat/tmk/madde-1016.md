@@ -11,7 +11,11 @@ wordCount: 4296
 
 ---
 
-Madde 1016 - Tasarruf yetkisine ve hukukî sebebe ilişkin belgel er tamam değilse istem reddedilir. Bununla birlikte, hukukî sebebe ilişkin belgeler tamam olmasına rağme n, tasarruf yetkisini belirten belgenin tamamlanması gereken h âllerde, malikin rızası veya hâkimin kararıyla geçici tescil şerhi verilebilir.
+Madde 1016- Tasarruf yetkisine ve hukukî sebebe ilişkin belgeler tamam değilse istem
+reddedilir.
+Bununla birlikte, hukukî sebebe ilişkin belgeler tamam olmasına rağmen, tasarruf
+yetkisini belirten belgenin tamamlanması gereken hâllerde, malikin rızası veya hâkimin kararıyla
+geçici tescil şerhi verilebilir.
 
 ---
 

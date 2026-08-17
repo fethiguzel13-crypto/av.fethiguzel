@@ -13,7 +13,7 @@ I. Alacaklının hakları
 
 ---
 
-Madde 179 - Bir sözleşmenin hiç veya gereği gibi ifa edilmemesi durumu için bir
+MADDE 179- Bir sözleşmenin hiç veya gereği gibi ifa edilmemesi durumu için bir
 ceza kararlaştırılmışsa, aksi sözleşmeden anlaşılmadıkça alacaklı, ya borcun ya da cezanın
 ifasını isteyebilir.
 Ceza, borcun belirlenen zaman veya yerde ifa edilmemesi durumu için kararlaştırılmışsa

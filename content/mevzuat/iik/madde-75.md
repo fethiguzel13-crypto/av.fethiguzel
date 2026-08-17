@@ -7,21 +7,18 @@ lastReviewed: "2026-07-27"
 wordCount: 3627
 ---
 
-**(Değişik: 6/6/1985-3222/8 md.)**
+**Beyan mecburiyeti müddeti, başlangıcı:**
 
 ---
 
-Madde 75 - (Değişik: 6/6/1985-3222/8 md.)
+Madde 75 – (Değişik: 6/6/1985-3222/8 md.)
+İtirazının iptaline veya kat’i veya muvakkat surette kaldırılmasına karar verilen borçlu,
+bu kararın kendisine tebliğinden itibaren üç gün içinde yukarıdaki maddede gösterildiği üzere
+beyanda bulunmaya mecburdur.
+İptal veya kaldırma kararı borçlunun vicahında verilmiş ise bu müddet, kararın
+tefhiminden başlar.
 
-İtirazının
-iptaline veya kat’i veya muvakkat surette kaldırılmasına karar verilen borçlu,
-bu kararın kendisine tebliğinden itibaren üç gün içinde yukarıdaki maddede
-gösterildiği üzere beyanda bulunmaya mecburdur.
-
-İptal veya kaldırma kararı borçlunun
-vicahında verilmiş ise bu müddet, kararın tefhiminden başlar.
-
-Hapis ile tazyik:
+---
 
 ### Akademik Yorum ve Analiz
 

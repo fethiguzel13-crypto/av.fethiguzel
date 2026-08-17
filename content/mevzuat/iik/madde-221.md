@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**İlk alacaklılar toplanması**
+**III. MASANIN İDARESİ
+İlk alacaklılar toplanması:**
 
 ---
 
@@ -24,6 +25,8 @@ Reylerin muteber olup olmayacağı hakkındaki ihtilafı büro halleder. Büronu
 işlemlerine karşı ilgililer toplantı tarihinden itibaren yedi gün içinde icra mahkemesine
 şikayette bulunabilirler. Şikayet sebebinin yerinde görülmesi ancak karar ekseriyetinin
 bozulması halinde nazara alınır. Aksi takdirde şikayet red olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

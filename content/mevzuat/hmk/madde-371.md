@@ -19,6 +19,8 @@ c) Taraflardan birinin davasını ispat için dayandığı delillerin kanuni bir
 kabul edilmemesi.
 ç) Karara etki eden yargılama hatası veya eksiklikleri bulunması.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

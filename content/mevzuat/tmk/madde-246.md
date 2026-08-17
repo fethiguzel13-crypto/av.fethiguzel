@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**B. Bor çlardan sorumluluk**
+**B. Borçlardan sorumluluk**
 
 ---
 
-Madde 246 - Eşlerden her biri, kendi borçlarından bütün malvarlığıyla sorumludur.
+Madde 246- Eşlerden her biri, kendi borçlarından bütün malvarlığıyla sorumludur.
 
 ---
 

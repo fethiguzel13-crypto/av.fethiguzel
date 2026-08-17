@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Dönüş kuralları**
+**ÜÇÜNCÜ BÖLÜM
+Sürücülerin Uyacağı Diğer Kurallar
+Dönüş kuralları:**
 
 ---
 
@@ -55,6 +57,8 @@ işaretlenmek suretiyle sadece dönüşlere ayrılabilir, ayrılmış bu şeritl
 Bu dönüşler için yukarıdaki (a) ve (b) bentlerindekine benzer manevra yapılır.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayan sürücüler 1 800 000
 lira para cezası ile cezalandırılırlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

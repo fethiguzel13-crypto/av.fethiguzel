@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Düz metin HTTP her yerde kapalı. Uygulama yalnız kendi alan adına ve
+  Play/Google uçlarına HTTPS ile bağlanır.
+-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>

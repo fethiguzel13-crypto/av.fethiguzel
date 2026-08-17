@@ -7,13 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**Kapsamı ve sayısı**
+**ALTINCI AYIRIM
+Islah ve Maddi Hataların Düzeltilmesi
+Kapsamı ve sayısı**
 
 ---
 
 MADDE 176- (1) Taraflardan her biri, yapmış olduğu usul işlemlerini kısmen veya
 tamamen ıslah edebilir.
 (2) Aynı davada, taraflar ancak bir kez ıslah yoluna başvurabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

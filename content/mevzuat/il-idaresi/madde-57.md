@@ -7,15 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**İl ve İlçe İdare Kurulları**
+**BÖLÜM : V
+İl ve İlçe İdare Kurulları**
 
 ---
 
 Madde 57 – İl idare kurulu, valinin başkanlığı altında hukuk işleri müdürü, defterdar,
 milli egitim, bayındırlık, sağlık ve sosyal yardım, tarım ve veteriner müdürlerinden teşekkül
+eder.
+Vali, idare kuruluna başkanlık etmek üzere vali muavinini görevlendirebilir.
 
-
-eder.
+---
 
 ### Akademik Yorum ve Analiz
 

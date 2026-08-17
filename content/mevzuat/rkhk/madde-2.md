@@ -18,6 +18,8 @@ teşebbüslerin bu hakimiyetlerini kötüye kullanmaları ve rekabeti önemli ö
 birleşme ve devralma niteliğindeki her türlü hukuki işlem ve davranışlar, rekabetin korunmasına
 yönelik tedbir, tespit, düzenleme ve denetlemeye ilişkin işlemler bu Kanun kapsamına girer.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

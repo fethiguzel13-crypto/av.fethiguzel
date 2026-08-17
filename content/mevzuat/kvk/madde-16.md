@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**Vergilendirme dönemi ve tarhiyat**
+**ÜÇÜNCÜ BÖLÜM
+Verginin Tarhı
+Vergilendirme dönemi ve tarhiyat**
 
 ---
 
@@ -24,7 +26,9 @@ fonun kurucusu adına; iş ortaklıklarında ise verginin ödenmesinden mütesel
 olmak üzere yönetici ortak veya ortaklardan herhangi birisi adına tarh olunur.
 (5) Kurumlar vergisi, bağlı olunan vergi dairesine beyannamenin verildiği günde,
 beyanname posta ile gönderilmişse, vergiyi tarh edecek daireye geldiği tarihi izleyen üç gün
-inside tarh edilir.
+içinde tarh edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

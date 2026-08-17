@@ -7,19 +7,14 @@ lastReviewed: "2026-07-27"
 wordCount: 3627
 ---
 
-**Alacaklı haczedilen malların muhafaza ve idare ve**
+**Mahcuz malların muhafazası masrafları:**
 
 ---
 
-Madde 95 - Alacaklı haczedilen malların muhafaza ve idare ve
-işletilmesi masraflarını istenildiği takdirde peşin vermeğe mecburdur.
+Madde 95 – Alacaklı haczedilen malların muhafaza ve idare ve işletilmesi
+masraflarını istenildiği takdirde peşin vermeğe mecburdur.
 
-İstihkak
-iddiasına itiraz:
-
-A – Borçlunun zilyedliği:
-
-1 – Hazırlık safhası:
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**Sürücülerin sağlık şartlarında sonradan meydana gelen değişiklikler:39**
+**:
+Sürücülerin sağlık şartlarında sonradan meydana gelen değişiklikler**
 
 ---
 
@@ -18,8 +19,8 @@ kuruluşlarında muayenesi istenir. Sağlık şartları bakımından sürücül�
 veya mevcut olan bu hâlin daha sonra ortadan kalktığı sağlık raporuyla tespit edildiği takdirde,
 sürücü belgesi kişiye iade edilir.
 Bu maddenin uygulanmasına ilişkin diğer usul ve esaslar yönetmelikle belirlenir.
-ALTINCI KISIM
-Trafik Kuralları
+
+---
 
 ### Akademik Yorum ve Analiz
 

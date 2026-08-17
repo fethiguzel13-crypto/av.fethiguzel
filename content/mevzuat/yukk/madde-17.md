@@ -14,6 +14,8 @@ wordCount: 4268
 MADDE 17 – (1) Vize talebinin reddi ya da vizenin iptaline ilişkin işlemler ilgiliye
 tebliğ edilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

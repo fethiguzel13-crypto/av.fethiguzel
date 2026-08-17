@@ -15,6 +15,8 @@ Madde 27- Belediye başkanı ve meclis üyeleri, münhasıran kendileri, ikinci 
 dâhil kan ve kayın hısımları ve evlatlıkları ile ilgili işlerin görüşüldüğü meclis toplantılarına
 katılamazlar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

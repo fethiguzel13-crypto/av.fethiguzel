@@ -15,6 +15,8 @@ MADDE 160- (1) Zabıt kâtibi, dosya içindeki her tür belgeyi gösteren bir di
 düzenlemek zorundadır. Dosyaya ibraz edilen veya çıkarılan belgeler derhâl bu listeye
 kaydedilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

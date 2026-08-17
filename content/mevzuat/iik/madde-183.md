@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Reddolunmuş bir miras tasfiyesinin durdurulması**
+**Reddolunmuş bir miras tasfiyesinin durdurulması:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 183 – Bir tereke 180 inci madde mucibince tasfiye halinde bulunur ve
 tasfiyenin kapanmasından evvel mirasçılardan biri gelerek mirası kabul eylediğini bildirirse
 borçların ödenmesi için mirasçının teminat göstermesi mukabilinde mahkeme tasfiyeyi
 durdurur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

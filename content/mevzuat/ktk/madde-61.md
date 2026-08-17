@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Park etmenin yasak olduğu yerler ve haller**
+**Park etmenin yasak olduğu yerler ve haller:**
 
 ---
 
@@ -42,6 +42,8 @@ kaldırılıp götürüleceği, götürülme sırasında zarara ve ziyana uğrat
 önlemler ile kaldırma ve götürme giderlerinin tahsili usul ve esasları yönetmelikte gösterilir.
 Kaldırılıp götürülen araçların giderleri ile verilen ceza, sürücüsü veya sahibince
 ödenmeden araç teslim edilmez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

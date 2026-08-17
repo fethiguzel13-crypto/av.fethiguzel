@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**Kamu personeli yüksek kurulu karar verme usulü**
+**Kamu personeli yüksek kurulu karar verme usulü:**
 
 ---
 
 Madde 228 – (Mülga: 30/5/1974 – KHK-12/7 md.; aynen kabul: 15/5/1975 - 1897/7
-md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

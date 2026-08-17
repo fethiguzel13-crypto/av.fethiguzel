@@ -1,0 +1,134 @@
+{
+  "slug": "kamulastirma-sureci",
+  "title": "Kamulaştırma: Satın Alma Usulü, Bedel Tespiti ve Tescil Davası",
+  "description": "İdare taşınmazınızı kamulaştırmak istiyor. Satın alma usulü nasıl işler, uzlaşma sağlanmazsa ne olur, bedel tespiti davası nasıl yürür? 2942 sayılı Kanun m.8 ve m.10 çerçevesinde.",
+  "h1": "Kamulaştırma süreci nasıl işler?",
+  "keywords": [
+    "kamulaştırma",
+    "kamulaştırma bedeli",
+    "satın alma usulü",
+    "uzlaşma komisyonu",
+    "bedel tespiti ve tescil davası",
+    "kamulaştırmaya itiraz"
+  ],
+  "category": "İdare",
+  "role": "pillar",
+  "related": [
+    "zilyetlikle-tapu-tescili"
+  ],
+  "links": [
+    {
+      "label": "2942 s.K. m.8 — Satın alma usulü",
+      "href": "/mevzuat/kamulastirma/madde-8"
+    },
+    {
+      "label": "2942 s.K. m.10 — Bedel tespiti ve tescil",
+      "href": "/mevzuat/kamulastirma/madde-10"
+    },
+    {
+      "label": "2942 s.K. m.11 — Bedelin tespiti esasları",
+      "href": "/mevzuat/kamulastirma/madde-11"
+    }
+  ],
+  "lead": "İdareler tapuda kayıtlı taşınmazların kamulaştırılmasında öncelikle satın alma usulünü uygulamak zorundadır. Uzlaşma sağlanamazsa idare, asliye hukuk mahkemesinde bedel tespiti ve tescil davası açar.",
+  "keyInsight": "İdare uzlaşma görüşmesine, kıymet takdir komisyonunun belirlediği tahmini bedeli açıklamadan çağırır: Malikin kendi değerlendirmesini hazırlamadan masaya oturmaması bu yüzden önemlidir.",
+  "sections": [
+    {
+      "heading": "Önce satın alma denenir",
+      "paragraphs": [
+        "Kamulaştırma doğrudan davayla başlamaz. 2942 sayılı Kanun m.8 uyarınca idarelerin, bu Kanuna göre tapuda kayıtlı olan taşınmaz mallar hakkında yapacağı kamulaştırmalarda satın alma usulünü öncelikle uygulamaları esastır.",
+        "Bu bir usul tercihi değil, kanuni zorunluluktur. Satın alma aşaması atlanarak açılan dava, usul yönünden sorunludur.",
+        "Kamulaştırma kararı alındıktan sonra idare iki ayrı komisyon kurar. Birincisi bedeli takdir eder: İdare, Kanunun 11. maddesindeki esaslara göre ve konuyla ilgili uzman kişi, kurum veya kuruluşlardan da rapor alarak, gerektiğinde Sanayi ve Ticaret Odalarından ve mahalli emlak alım satım bürolarından alacağı bilgilerden de faydalanarak taşınmazın tahmini bedelini tespit etmek üzere kendi bünyesinden en az üç kişilik bir veya birden fazla kıymet takdir komisyonu görevlendirir.",
+        "İkincisi pazarlığı yürütür: İdare, tahmin edilen bedel üzerinden pazarlıkla satın alma ve trampa işlemlerini yürütmek ve sonuçlandırmak üzere kendi bünyesinden en az üç kişilik bir veya birden fazla uzlaşma komisyonu görevlendirir."
+      ]
+    },
+    {
+      "heading": "Uzlaşma görüşmesinde ne olur?",
+      "paragraphs": [
+        "Kanunun bir ayrıntısı malik açısından belirleyicidir: İdare, kıymet takdir komisyonunca tespit edilen tahmini bedeli belirtmeksizin maliki görüşmeye çağırır.",
+        "Yani masaya oturduğunuzda idarenin kendi hesabında hangi rakamın bulunduğunu bilmezsiniz. Bu asimetri, hazırlıksız gidildiğinde malik aleyhine sonuç doğurur.",
+        "Görüşmeye kendi değerlendirmenizle gitmek bu yüzden önemlidir. Emsal satışlar, taşınmazın konumu, imar durumu ve gelir getiriyorsa net geliri, kendi rakamınızın dayanağını oluşturur.",
+        "Uzlaşma sağlanırsa tutanak düzenlenir ve devir gerçekleşir. Bu, dava sürecini ve yıllara yayılan belirsizliği ortadan kaldırır; ne var ki kabul edilen bedel sonradan tartışılamaz."
+      ]
+    },
+    {
+      "heading": "Uzlaşma olmazsa: bedel tespiti ve tescil davası",
+      "paragraphs": [
+        "Anlaşma sağlanamazsa süreç mahkemeye taşınır. m.10 uyarınca kamulaştırmanın satın alma usulü ile yapılamaması hâlinde idare, 7. maddeye göre topladığı bilgi ve belgelerle 8. madde uyarınca yaptırmış olduğu bedel tespitini ve diğer bilgi ve belgeleri bir dilekçeye ekleyerek taşınmazın bulunduğu yer asliye hukuk mahkemesine başvurur.",
+        "Talebin içeriği de bellidir: İdare, taşınmazın kamulaştırma bedelinin tespitiyle, bu bedelin peşin veya kamulaştırma 3. maddenin ikinci fıkrasına göre yapılmışsa taksitle ödenmesi karşılığında, idare adına tesciline karar verilmesini ister.",
+        "Davayı idare açar, malik değil. Malik davalı sıfatındadır ve savunmasını bedel üzerinde yoğunlaştırır.",
+        "Mahkeme hızlı hareket etmek zorundadır. İdarenin başvuru tarihinden itibaren en geç otuz gün sonrası için bir duruşma günü belirlenir ve bu gün, dava dilekçesi ile idare tarafından verilen belgelerin birer örneği de eklenerek taşınmazın malikine meşruhatlı davetiye ile bildirilir.",
+        "Adresi bulunamayan malikler için Tebligat Kanunu hükümleri devreye girer; ilanen tebligat bu davaların olağan parçasıdır."
+      ]
+    },
+    {
+      "heading": "Bedel neye göre belirlenir?",
+      "paragraphs": [
+        "Kamulaştırma bedelinin tespitinde ölçütler Kanunun 11. maddesinde sayılmıştır ve mahkeme bilirkişi incelemesi yaptırarak karar verir.",
+        "Arazi ile arsa için farklı yöntemler işler. Arazide gelir yöntemi, arsada emsal karşılaştırma yöntemi öne çıkar; taşınmazın niteliğinin doğru belirlenmesi bu yüzden bedeli doğrudan etkiler.",
+        "Malikin en güçlü aracı emsaldir. Yakın tarihli, benzer nitelikli ve yakın konumlu satışları dosyaya sunmak, bilirkişi raporunun dayanağını değiştirebilir.",
+        "Bilirkişi raporuna itiraz hakkı vardır ve süresi içinde kullanılmalıdır. İtirazın gerekçeli olması, yalnız rakama karşı çıkmaktan çok daha etkilidir."
+      ]
+    },
+    {
+      "heading": "Malik ne yapmalı?",
+      "paragraphs": [
+        "İlk adım süreci ciddiye almaktır. Meşruhatlı davetiye elinize geçtiğinde duruşma tarihi çoktan belirlenmiştir ve süre kısadır.",
+        "İkincisi hazırlıktır: Taşınmazın imar durumu, emsal satışlar, üzerindeki yapı ve ağaçlar, gelir getiriyorsa geliri belgelenmelidir. Kamulaştırma bedeli yalnız arsanın değil, üzerindeki muhdesatın da karşılığını içerir.",
+        "Üçüncüsü kısmî kamulaştırma denetimidir. Taşınmazın bir kısmı kamulaştırılıyor ve kalan kısım kullanılamaz hâle geliyorsa, bu durumun ortaya konulması gerekir.",
+        "Dördüncüsü faizdir. Bedelin ödenmesinde gecikme olursa faiz talebi gündeme gelir; bu talebin dosyada açıkça ileri sürülmesi gerekir."
+      ]
+    }
+  ],
+  "steps": [
+    "Kamulaştırma kararının tebliğini ve dayanağını inceleyin.",
+    "Uzlaşma görüşmesine çağrıldığınızda kendi değerlendirmenizle gidin; idare tahmini bedeli açıklamaz.",
+    "Emsal satışları, imar durumunu ve taşınmazın gelirini önceden belgeleyin.",
+    "Uzlaşma sağlanırsa tutanağı dikkatle okuyun — kabul edilen bedel sonradan tartışılamaz.",
+    "Dava açılırsa meşruhatlı davetiyedeki duruşma gününü kaçırmayın.",
+    "Keşif ve bilirkişi incelemesine katılın; emsallerinizi dosyaya sunun.",
+    "Bilirkişi raporuna süresi içinde ve gerekçeli olarak itiraz edin.",
+    "Kalan kısım kullanılamaz hâle geliyorsa bunu açıkça ileri sürün."
+  ],
+  "checklist": [
+    "Kamulaştırma kararı ve tebligat",
+    "Tapu senedi ve tapu kayıt örneği",
+    "İmar durum belgesi",
+    "Emsal satış bilgileri",
+    "Taşınmaz üzerindeki yapı ve ağaçlara ilişkin belgeler",
+    "Gelir getiriyorsa gelir belgeleri",
+    "Meşruhatlı davetiye"
+  ],
+  "faq": [
+    {
+      "q": "İdare doğrudan dava açabilir mi?",
+      "a": "Kural olarak hayır. Tapuda kayıtlı taşınmazlarda satın alma usulünün öncelikle uygulanması esastır; dava ancak satın alma ile sonuç alınamazsa açılır."
+    },
+    {
+      "q": "Uzlaşma görüşmesinde idare bedeli söyler mi?",
+      "a": "Söylemez. Kanun, idarenin kıymet takdir komisyonunca tespit edilen tahmini bedeli belirtmeksizin görüşmeye çağıracağını öngörür."
+    },
+    {
+      "q": "Davayı kim açar?",
+      "a": "İdare açar. Malik davalı sıfatındadır ve savunmasını bedel üzerinde yoğunlaştırır."
+    },
+    {
+      "q": "Duruşma ne zaman yapılır?",
+      "a": "Mahkeme, idarenin başvuru tarihinden itibaren en geç otuz gün sonrası için duruşma günü belirler ve bunu malike meşruhatlı davetiye ile bildirir."
+    },
+    {
+      "q": "Bedel neye göre belirlenir?",
+      "a": "Kanunun 11. maddesindeki esaslara göre, bilirkişi incelemesi yaptırılarak. Arazi ile arsada farklı değerleme yöntemleri uygulanır."
+    },
+    {
+      "q": "Uzlaşırsam bedeli sonradan artırabilir miyim?",
+      "a": "Uzlaşma tutanağıyla kabul edilen bedel bağlayıcıdır. Bu nedenle tutanak imzalanmadan önce değerlendirmenin tamamlanması gerekir."
+    },
+    {
+      "q": "Taşınmazımın yalnız bir kısmı kamulaştırılıyor, kalan kısım işe yaramaz hâle geliyor.",
+      "a": "Bu durumun dosyada açıkça ortaya konulması gerekir; kalan kısmın kullanılamaz hâle gelmesi ayrı bir değerlendirme konusudur."
+    }
+  ],
+  "updated": "2026-08-16",
+  "sitemapPriority": 0.91
+}

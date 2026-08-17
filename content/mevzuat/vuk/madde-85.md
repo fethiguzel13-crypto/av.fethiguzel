@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**Zirai kazançlar merkez komisyonu**
+**Zirai kazançlar merkez komisyonu:**
 
 ---
 
@@ -18,6 +18,8 @@ Gelirler Genel Müdürü ile Gelirler Genel Müdürlüğünün iki, Tarım ve Or
 temsilcisinden kurulur.
 Başkanın mazereti halinde komisyona, başkanın, üyelerden veya hariçten tevkil
 edeceği kimse başkanlık eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

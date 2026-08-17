@@ -19,6 +19,8 @@ Türk Borçlar Kanununun ön ödemeli taksitle satış hükümleri uygulanır.
 yükümlülükleri, cayma hakkı, erken ödeme ile diğer hususlara ilişkin usul ve esaslar
 yönetmelikle belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

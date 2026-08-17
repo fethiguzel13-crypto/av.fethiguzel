@@ -7,17 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**Tedbir kararlarında usûl**
+**Gözlem ve sınıflandırma merkezleri**
 
 ---
 
-Madde 13- (1) Bu Kanunun 7 nci maddesinin yedinci fıkrasında öngörülen durumlar
-hariç olmak üzere, suça sürüklenen ve ceza sorumluluğu olmayan çocuklarla korunma ihtiyacı
-olan çocuklar hakkında duruşma yapılmaksızın tedbir kararı verilir. Ancak, hâkim zaruret
-gördüğü hâllerde duruşma yapabilir.
-(2) Tedbir kararının verilmesinden önce yeterli idrak gücüne sahip olan çocuğun
-görüşü alınır, ilgililer dinlenebilir, çocuk hakkında sosyal inceleme raporu düzenlenmesi
-istenebilir.
+Madde 13- (1) Hükümlülerin durumlarına uygun kurumlara ayrımı, 23 üncü maddede
+belirtilen gözlem ve sınıflandırma merkezlerince yapılır.
+(2) Gözlem ve sınıflandırma merkezlerinin kuruluş, görev, çalışma esas ve usûlleri
+yönetmelikte gösterilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

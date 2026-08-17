@@ -11,7 +11,7 @@ wordCount: 4319
 
 ---
 
-Madde 316 - Kiracı, kiralananı, sözleşmeye uygun olarak özenle kullanmak ve
+MADDE 316- Kiracı, kiralananı, sözleşmeye uygun olarak özenle kullanmak ve
 kiralananın bulunduğu taşınmazda oturan kişiler ile komşulara gerekli saygıyı göstermekle
 yükümlüdür.
 Kiracının bu yükümlülüğüne aykırı davranması durumunda kiraya veren, konut ve

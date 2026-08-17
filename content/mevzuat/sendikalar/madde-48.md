@@ -20,6 +20,8 @@ veya Yüksek Hakem Kurulu kararı ile toplu hak uyuşmazlıklarında verilmiş m
 özel hakem kararlarını, işyeri veya işyerlerinde işçiler tarafından görülebilecek yerlere
 asmakla yükümlüdür.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

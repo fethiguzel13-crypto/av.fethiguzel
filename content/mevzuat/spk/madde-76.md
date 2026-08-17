@@ -18,11 +18,7 @@ Türkiye Değerleme Uzmanları Birliğine üye olmak için başvurmak zorundadı
 Türkiye Değerleme Uzmanları Birliğine gerekli başvuruyu yapmakla yükümlüdür. Anılan
 yükümlülüğe uymayanların lisansı Kurulca iptal edilir.
 (3) Değerleme kuruluşları, değerleme kuruluşu niteliğini kazandığı andan itibaren üç ay
-2/7/2018 tarihli ve 703 sayılı KHK’nin 165 inci maddesiyle, bu fıkrada yer alan “uygun görüşü”
-ibaresi “teklifi” şeklinde ve “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-7
-
-içinde üyelik için Türkiye Değerleme Uzmanları Birliğine gerekli başvuruyu yapmakla
+içinde üyelik için Türkiye Değerleme Uzmanları Birliğine gerekli başvuruyu yapmakla
 yükümlüdür. Bu yükümlülüğe uyulmaması hâlinde, Kurul, bu kuruluşlar hakkında faaliyetlerinin
 durdurulması ve yetkilerinin iptali dâhil her türlü tedbiri almaya yetkilidir.
 (4) Türkiye Değerleme Uzmanları Birliği, gayrimenkul piyasasının ve gayrimenkul
@@ -60,6 +56,8 @@ sağlanması için Sermaye Piyasası Kurulundan gerekli tedbirlerin alınmasın�
 gibi Birliğin her türlü işlem ve hesaplarını denetlemeye de yetkilidir. Birliğin yetkili
 organlarınca alınan kararlara karşı, kararın ilgiliye tebliğini izleyen on iş günü içinde Kurul
 nezdinde itiraz edilebilir. İtiraza ilişkin olarak Kurulca verilecek kararlar kesindir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

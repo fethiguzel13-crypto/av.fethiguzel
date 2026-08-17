@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**Matrah ve indirim miktarlarının değişmesi**
+**Matrah ve indirim miktarlarının değişmesi:**
 
 ---
 
@@ -17,6 +17,8 @@ olan mükellef bunlar için borçlandığı vergiyi bu işlemlere muhatap olan m
 hakkı bulunan vergiyi değişikliğin mahiyetine uygun şekilde ve değişikliğin vukubulduğu
 dönem içinde düzeltilir. Şu kadar ki, iade olunan malların fiilen işletmeye girmiş olması ve bu
 girişin defter kayıtları ile beyannamede gösterilmesi şarttır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

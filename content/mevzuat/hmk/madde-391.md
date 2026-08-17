@@ -26,6 +26,8 @@ olarak verilir ve bu karara karşı kanun yoluna başvurulabilir. Yüzüne karş
 tedbir kararı verilen taraf da kanun yoluna başvurabilir. Bu başvurular öncelikle incelenir ve
 kesin olarak karara bağlanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4285
 ---
 
-**Trafik kazalarında yükümlülük**
+**Trafik kazalarında yükümlülük:**
 
 ---
 
@@ -24,6 +24,8 @@ bir araç gelince gecikmeksizin zabıtaya haber vermeye ve bunları bir deftere 
 Zorunludurlar.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayanlar 3 600 000 lira
 para cezası ile cezalandırılırlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

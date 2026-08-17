@@ -11,7 +11,7 @@ wordCount: 4309
 
 ---
 
-Madde 493 - Yayımcının menfaatlerini zedelememek ve onun sorumluluğunu
+MADDE 493- Yayımcının menfaatlerini zedelememek ve onun sorumluluğunu
 artırmamak koşuluyla, eser sahibi eserde düzeltme ve iyileştirme, halefleri ise ancak
 güncelleştirme yapabilir. Bu düzeltme ve iyileştirme gerektirdiği hâlde sözleşmede
 öngörülmemiş giderler, yayımlatan tarafından karşılanır.

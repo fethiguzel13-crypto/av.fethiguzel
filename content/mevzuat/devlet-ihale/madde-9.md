@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4285
 ---
 
-**Tahmin edilen bedelin tespiti**
+**İKİNCİ KISIM
+İhale İşlemleri
+BİRİNCİ BÖLÜM
+İhaleye Hazırlık
+Tahmin edilen bedelin tespiti:**
 
 ---
 
@@ -18,6 +22,8 @@ bedel, bunun dayanaklarının da eklendiği bir hesap tutanağında gösterilir 
 arasında saklanır. Bu bedel gerektiğinde ihale komisyonlarınca tahkik ettirilir.
 Ancak, yapım işlerinde bu işler için kanunların verdiği yetkiye dayanılarak ilgili
 dairelerce tespit edilmiş birim fiyatları varsa, bunlar uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

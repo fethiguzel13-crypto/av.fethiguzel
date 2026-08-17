@@ -19,6 +19,8 @@ edilmesi veya uğranılan zararın tamamen tazmin edilmesi halinde, verilecek ce
 indirilir. Etkin pişmanlığın hükümden önce gerçekleşmesi halinde, verilecek cezanın üçte biri
 indirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

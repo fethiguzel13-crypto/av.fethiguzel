@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**IV
-- Tescili zorunlu gemiler**
+**IV- Tescili zorunlu gemiler**
 
 ---
 
-Madde 957 - (1) Onsekiz gros tonilatoda ve daha büyük her ticaret gemisinin maliki, tescil isteminde bulunmak zorunda dır.
+MADDE 957- (1) Onsekiz gros tonilatoda ve daha büyük her ticaret gemisinin maliki,
+tescil isteminde bulunmak zorundadır.
 
 ---
 

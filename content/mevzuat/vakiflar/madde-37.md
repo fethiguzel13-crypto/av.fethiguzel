@@ -13,6 +13,8 @@ wordCount: 4314
 
 MADDE 37 – (Mülga: 2/7/2018/KHK/703/102 md.)
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

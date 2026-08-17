@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4282
 ---
 
-**kurtulması veya sorumluluğun azaltılması:70**
+**kurtulması veya sorumluluğun azaltılması:**
 
 ---
 
@@ -19,6 +19,8 @@ kişinin ağır kusurundan ileri geldiğini ispat ederse sorumluluktan kurtulur.
 Sorumluluktan kurtulamayan işleten veya araç işleticisinin bağlı olduğu teşebbüs
 sahibi, kazanın oluşunda zarar görenin kusurunun bulunduğunu ispat ederse, hakim, durum ve
 şartlara göre tazminat miktarını indirebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

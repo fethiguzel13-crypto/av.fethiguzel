@@ -22,7 +22,11 @@ Bu tespitte görev yapan muhtar veya vekili, ihtiyar kurulu üyeleri ile bilirki
 çalıştıkları günler için 29 uncu maddeye göre ödeme yapılır.
 İKİNCİ KISIM
 Kamulaştırma Bedelinin Mahkemece Tespiti, İdare Adına Tescil ve
-Bedelin Tespiti Esasları, Dava Hakkı ve Bilirkişiler6
+Bedelin Tespiti Esasları, Dava Hakkı ve Bilirkişiler
+BİRİNCİ BÖLÜM
+Kamulaştırma Bedelinin Mahkemece Tespiti ve İdare Adına Tescil,
+
+---
 
 ### Akademik Yorum ve Analiz
 

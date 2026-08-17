@@ -29,6 +29,8 @@ Kurulun görev alanıyla ilgili projelerine katkıda bulunulması konularında k
 ve yetkilerinden (d), (e), (ı) bentlerinde belirtilenleri, kapsamını açıkça belirtmek ve yazılı
 olmak kaydıyla Kurul Başkanına devredebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

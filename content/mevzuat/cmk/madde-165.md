@@ -15,6 +15,8 @@ Madde 165 – (1) Gerektiğinde veya Cumhuriyet savcısının talebi halinde, di
 birimleri de adlî kolluk görevini yerine getirmekle yükümlüdür. Bu durumda, kolluk
 görevlileri hakkında, adlî görevleri dolayısıyla bu Kanun hükümleri uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

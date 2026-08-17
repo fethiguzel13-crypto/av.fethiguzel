@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**İvazsız tasarrufların butlanı**
+**İvazsız tasarrufların butlanı:**
 
 ---
 
@@ -25,6 +25,8 @@ değerine göre borçlunun ivaz olarak pek aşağı bir fiyatla kabul ettiği s�
 c) Uygun bir karşılığın sağlandığı ispatlanmadıkça, borçlunun kendisine veya üçüncü
 bir kişi yararına ömür boyu gelir sözleşmesi ya da intifa hakkı tesis ettiği sözleşmeler yahut
 ölünceye kadar bakma sözleşmeleri.
+
+---
 
 ### Akademik Yorum ve Analiz
 

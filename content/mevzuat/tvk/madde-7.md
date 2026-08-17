@@ -18,6 +18,8 @@ vatandaşıdır.
 (3) Türk vatandaşı baba ve yabancı anadan evlilik birliği dışında doğan çocuk ise soy bağı
 kurulmasını sağlayan usul ve esasların yerine getirilmesi halinde Türk vatandaşlığını kazanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -11,7 +11,12 @@ wordCount: 4267
 
 ---
 
-Madde 294 - Ana ve babanın yasal mirasçıları, çocuk ve Cumhuriyet savcısı sonradan evlenme yoluyla soybağının kurulmasına itiraz edebilirler. İ tiraz eden, kocanın baba olmadığını ispatla yük ümlüdür. Çocuğun altsoyu da, çocuğun ölmüş ya da ayırt etme gücünü sürekli olarak kaybetmiş olması hâlinde itiraz hakkına sahiptir. Tanımanın iptali ne ilişkin hüküm ler kıyas yoluyla uygulanır. ÜÇÜNCÜ AYIRIM T ANIMA VE BA BALIK HÜKMÜ A. Tanıma I. Koşulları v e şekli
+Madde 294- Ana ve babanın yasal mirasçıları, çocuk ve Cumhuriyet savcısı sonradan
+evlenme yoluyla soybağının kurulmasına itiraz edebilirler. İtiraz eden, kocanın baba olmadığını
+ispatla yükümlüdür.
+Çocuğun altsoyu da, çocuğun ölmüş ya da ayırt etme gücünü sürekli olarak kaybetmiş
+olması hâlinde itiraz hakkına sahiptir.
+Tanımanın iptaline ilişkin hükümler kıyas yoluyla uygulanır.
 
 ---
 

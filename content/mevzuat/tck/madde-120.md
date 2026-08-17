@@ -14,6 +14,8 @@ wordCount: 4301
 Madde 120- (1) Hukuka aykırı olarak bir kimsenin üstünü veya eşyasını arayan kamu
 görevlisine üç aydan bir yıla kadar hapis cezası verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

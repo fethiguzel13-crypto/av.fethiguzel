@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**Sendika üyeliği ve üyeliğin kazanılması**
+**ÜÇÜNCÜ BÖLÜM
+Üyelik
+Sendika üyeliği ve üyeliğin kazanılması**
 
 ---
 
@@ -28,6 +30,8 @@ otuz gün içinde reddedilmediği takdirde üyelik talebi kabul edilmiş sayıl�
 gösterilmeden üyelik başvurusu kabul edilmeyenler, bu kararın kendilerine tebliğinden
 itibaren otuz gün içinde dava açabilir. Mahkemenin kararı kesindir. Mahkemenin davacı
 lehine karar vermesi hâlinde üyelik, red kararının alındığı tarihte kazanılmış sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

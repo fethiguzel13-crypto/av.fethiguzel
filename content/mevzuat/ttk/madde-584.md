@@ -11,7 +11,8 @@ wordCount: 4287
 
 ---
 
-Madde 584 - (1) Şirket sözleşmesinde intifa senetlerinin çıkarılması öngörülebilir; bu konuda anonim şir ketlere ilişkin hükümler kıyas yoluyla uygulanır.
+MADDE 584- (1) Şirket sözleşmesinde intifa senetlerinin çıkarılması öngörülebilir;
+bu konuda anonim şirketlere ilişkin hükümler kıyas yoluyla uygulanır.
 
 ---
 

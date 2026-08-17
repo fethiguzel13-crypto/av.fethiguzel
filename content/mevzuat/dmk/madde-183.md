@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**Hazarda eğitim ve manevra için silah altına alınanların aylıklarının ödenmesi**
+**Hazarda eğitim ve manevra için silah altına alınanların aylıklarının ödenmesi:**
 
 ---
 
@@ -17,7 +17,8 @@ Devlet memurlarından rütbeli olanların rütbe aylığı tutarı, bağlı bulu
 kurumdan aldıkları aylık tutarından fazla olanlara, aradaki fark askeri kurumlarına katılmaları
 veya yeni rütbeyi kazandıkları tarihten itibaren silah altında bulundukları sürece Milli
 Savunma Bakanlığı tarafından ödenir.
-Seferde muvazzaflık hizmeti dışında silah altına alınan memurların aylıklarının
+
+---
 
 ### Akademik Yorum ve Analiz
 

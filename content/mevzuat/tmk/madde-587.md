@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**III. Gaibin hem mirasbırakan, hem mirasçı olm ası**
+**III. Gaibin hem mirasbırakan, hem mirasçı olması**
 
 ---
 
-Madde 587 - Gaibin miras çıları tereke mallarını teslim aldıktan sonra gaibe bir miras düşerse, ona düşen miras payı gaiplik sebebiyle kendilerine kalacak olanlar, ayrıca bir gaiplik kararı almak zorunda kalmaksızın bu miras payının teslimini isteyebilir ler. Gaibe düşen miras payı nı teslim alanların elde ettikleri gaiplik kararına aynı şekilde gaibin mirasçıları da dayanabilirler.
+Madde 587- Gaibin mirasçıları tereke mallarını teslim aldıktan sonra gaibe bir miras
+düşerse, ona düşen miras payı gaiplik sebebiyle kendilerine kalacak olanlar, ayrıca bir gaiplik
+kararı almak zorunda kalmaksızın bu miras payının teslimini isteyebilirler.
+Gaibe düşen miras payını teslim alanların elde ettikleri gaiplik kararına aynı şekilde
+gaibin mirasçıları da dayanabilirler.
 
 ---
 

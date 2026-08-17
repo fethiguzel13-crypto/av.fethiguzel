@@ -25,6 +25,8 @@ beş gün içinde karara bağlanır. (Değişik cümle: 12/10/2017-7036/32 md.) 
 istinaf yoluna başvurulması hâlinde bölge adliye mahkemesi on beş gün içinde kesin olarak
 karar verir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

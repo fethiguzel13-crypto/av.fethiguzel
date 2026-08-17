@@ -25,7 +25,7 @@ ikinci fıkralar dışında kalan ticarî, sınaî ve ziraî işletmeler iktisad
 maddenin birinci ve ikinci fıkraları dışında kalan ticarî, sınaî ve ziraî işletmeler, iktisadî kamu
 kuruluşu gibi değerlendirilir.
 (5) Dernek veya vakıflara ait iktisadî işletmeler: Dernek veya vakıflara ait veya bağlı
-op faaliyetleri devamlı bulunan ve bu maddenin birinci ve ikinci fıkraları dışında kalan
+olup faaliyetleri devamlı bulunan ve bu maddenin birinci ve ikinci fıkraları dışında kalan
 ticarî, sınaî ve ziraî işletmeler ile benzer nitelikteki yabancı işletmeler, dernek veya vakıfların
 iktisadî işletmeleridir. Bu Kanunun uygulanmasında sendikalar dernek; cemaatler ise vakıf
 sayılır.
@@ -39,6 +39,8 @@ tahsis edilmesi bunların iktisadî niteliğini değiştirmez.
 ortaklıkları ya da gerçek kişilerle, belli bir işin birlikte yapılmasını ortaklaşa yüklenmek ve
 kazancını paylaşmak amacıyla kurdukları ortaklıklardan bu şekilde mükellefiyet tesis edilmesini
 talep edenler iş ortaklıklarıdır. Bunların tüzel kişiliklerinin olmaması mükellefiyetlerini etkilemez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

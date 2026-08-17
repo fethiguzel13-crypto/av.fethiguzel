@@ -11,7 +11,7 @@ wordCount: 4318
 
 ---
 
-Madde 373 - Kiralanan teslim edilirken tutanağa geçirilmiş olan eşyalara değer
+MADDE 373- Kiralanan teslim edilirken tutanağa geçirilmiş olan eşyalara değer
 biçilmişse kiracı, kira sözleşmesi sona erince, bunları özdeş tür ve değerde olmak üzere geri
 vermekle veya değer eksikliklerini gidermekle yükümlüdür.
 Kiracı, kiraya verenin kusurunu ya da mücbir sebebin varlığını ispat ederek geri

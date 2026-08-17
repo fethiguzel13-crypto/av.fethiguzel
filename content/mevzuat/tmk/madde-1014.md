@@ -11,7 +11,8 @@ wordCount: 4292
 
 ---
 
-Madde 1014 - Bir tescilin terkin edilmesi veya değiş tirilmesi, ancak bu kaydın kendilerine hak sağladığı kimseleri n yazılı beyanı üzerine yapılabilir.
+Madde 1014- Bir tescilin terkin edilmesi veya değiştirilmesi, ancak bu kaydın kendilerine
+hak sağladığı kimselerin yazılı beyanı üzerine yapılabilir.
 
 ---
 

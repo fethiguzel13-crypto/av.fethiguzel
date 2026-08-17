@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4277
 ---
 
-**Madde 1072**
+**cc) Sınırlandırılması**
 
 ---
 
-Madde 1072 - (1) Gemi müdürünün kanuni temsil yetkisinin sınırlandırılması, donatma iştiraki tarafından ancak işlemin yapıldığı anda bunu bilen üçüncü kişilere karşı ileri sürülebilir.
+MADDE 1072- (1) Gemi müdürünün kanuni temsil yetkisinin sınırlandırılması,
+donatma iştiraki tarafından ancak işlemin yapıldığı anda bunu bilen üçüncü kişilere karşı ileri
+sürülebilir.
 
 ---
 

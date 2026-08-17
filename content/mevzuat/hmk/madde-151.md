@@ -22,6 +22,8 @@ olmayan söz veya davranış, ayrıca bir suç oluşturuyor ise bu durum bir tut
 başsavcılığına gönderilir ve gerekiyorsa, avukatlar hariç, fiili işleyenin tutuklanmasına da karar
 verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

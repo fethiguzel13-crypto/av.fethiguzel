@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**Sıra cetveline itiraz ve neticeleri**
+**Sıra cetveline itiraz ve neticeleri:**
 
 ---
 
@@ -17,7 +17,7 @@ itibaren onbeş gün içinde iflasa karar verilen yerdeki ticaret mahkemesine da
 mecburdurlar. 223 üncü maddenin üçüncü fıkrası hükmü mahfuzdur. Bu davaya bakan
 mahkeme, davacının isteği halinde ikinci alacaklılar toplantısına katılıp katılmaması ve ne
 nisbette katılması gerektiği konusunda 302 nci maddenin altıncı fıkrasına kıyasen onbeş gün
-zarfında karar verir.75
+zarfında karar verir.
 İtiraz eden, talebinin haksız olarak ret veya tenzil edildiğini iddia ederse dava masaya
 karşı açılır. Muteriz başkasının kabul edilen alacağına veya ona verilen sıraya itiraz ediyorsa
 davasını o alacaklı aleyhine açar.
@@ -27,6 +27,8 @@ verilir ve artanı da diğer alacaklılara sıra cetveline göre dağıtılır. 
 ile görülür.
 Ancak, itiraz alacağın esas veya miktarına taallük etmeyip yalnız sıraya dair ise
 şikayet yoliyle icra mahkemesine arz olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

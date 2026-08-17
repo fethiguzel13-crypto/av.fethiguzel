@@ -17,6 +17,8 @@ düzenlenmesi ile ilgili hükümlerden hangilerinin uygulanmayacağı yahut ne g
 şartlar ve usullerle uygulanacağı Çalışma ve Sosyal Güvenlik Bakanlığı tarafından
 hazırlanacak bir yönetmelikte gösterilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

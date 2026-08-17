@@ -11,7 +11,7 @@ wordCount: 4284
 
 ---
 
-Madde 71 - (1) Finansal tablolar, tacir tarafından tarih atılarak imzalanır.
+MADDE 71- (1) Finansal tablolar, tacir tarafından tarih atılarak imzalanır.
 
 ---
 

@@ -12,7 +12,7 @@ a. Güvence verilmesini ve borçtan kurtarılmasını isteme hakkı**
 
 ---
 
-Madde 595 - Kefil, aşağıdaki durumlarda asıl borçludan güvence verilmesini ve borç
+MADDE 595- Kefil, aşağıdaki durumlarda asıl borçludan güvence verilmesini ve borç
 muaccel olmuşsa, borçtan kurtarılmasını isteyebilir:
 1. Asıl borçlu, kefile karşı üstlendiği yükümlülüklere, özellikle belli bir süre içinde
 kendisini borçtan kurtarma vaadine aykırı davranmışsa.

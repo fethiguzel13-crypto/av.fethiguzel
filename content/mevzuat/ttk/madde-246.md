@@ -7,14 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-*Önemli Açıklama: İncelenen mevcut kaynaklarda 6102 sayılı Türk Ticaret Kanunu'nun 246. maddesinin lafzi metni ve münhasıran bu maddeye özgülenmiş bir doktriner analiz yer almamaktadır. Bu nedenle, aşağıda yer alan Madde 246 metni ile maddeye özgü doğrudan açıklamalar kaynak dışı genel hukuk müktesebatına dayanılarak hazırlanmıştır; bu bilgilerin bağımsız olarak teyit edilmesi tavsiye olunur. Bununla birlikte, şerhin omurgasını oluşturan "haklı sebep" kavramı, "işletmenin devamlılığı (ultima ratio)" ilkesi, usul hukuku kuralları ve feshe alternatif çözümler, incelenen kaynaklardaki şirketler hukuku verileriyle doğrudan desteklenerek akademik bir zemine oturtulmuştur.*
-
-
-### Madde 246
-**(1)** Şirketin feshini isteme hakkı, haklı bir sebepten doğmuş olup da bu sebep bir veya birkaç ortağın şahsından kaynaklanıyorsa, mahkeme, diğer ortakların istemi üzerine, şirketin feshine karar vermek yerine, o ortağın veya ortakların şirketten çıkarılmasına ve şirketin kalan ortaklar arasında devamına karar verebilir.
-**(2)** Çıkarma kararı verildiği takdirde, çıkarılan ortağın payı, 260 ilâ 262 nci maddeler hükümlerine göre ödenir.
+**4. Özel durumlar
+a) Sermaye koyma borcunun yerine getirilmemesi**
 
 ---
+
+MADDE 246- (1) Sermaye koyma borcunun yerine getirilmemesinden dolayı fesih
+davası açabilmek için önce ortağa noter aracılığıyla uygun süreyi içeren bir ihbar gönderilir.
+İhbar, verilen süre içinde borcun yerine getirilmesi ihtarını da içerir.
 
 ---
 

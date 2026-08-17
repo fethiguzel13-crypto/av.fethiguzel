@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Park ücretinin alınması, araçların çektirilmesi ve kaldırılması ile muhafazası:67**
+**Park ücretinin alınması, araçların çektirilmesi ve kaldırılması ile muhafazası:**
 
 ---
 
@@ -23,6 +23,8 @@ hapis ve beş bin güne kadar adli para cezası ile cezalandırılır.
 Trafikten men edilen veya çeşitli nedenlerle muhafaza altına alınan araçların, çektirilmesi
 ya da kaldırılıp götürülmesi ile bu araçların koyulacağı yerler ve bu işlemlerin ücretlerine ilişkin
 usul ve esaslar yönetmelikte belirtilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

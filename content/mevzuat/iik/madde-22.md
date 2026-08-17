@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
-**İcranın durdurulması**
+**İcranın durdurulması:**
 
 ---
 
 Madde 22 – Şikayet, icra mahkemesince karar verilmedikçe icrayı durdurmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -17,8 +17,8 @@ taraflardan birinin talebi üzerine duruşma iki haftadan az olmamak üzere erte
 bulunsun veya bulunmasın sözlü yargılama için taraflara ayrıca davetiye gönderilmez.
 (2) Sözlü yargılamada mahkeme, taraflara son sözlerini sorar ve hükmünü verir. (Ek
 cümle:22/7/2020-7251/20 md.) Şu kadar ki, 150 nci madde hükmü saklıdır.
-DÖRDÜNCÜ KISIM
-İspat ve Deliller
+
+---
 
 ### Akademik Yorum ve Analiz
 

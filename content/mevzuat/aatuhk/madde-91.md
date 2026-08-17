@@ -7,15 +7,14 @@ lastReviewed: "2026-07-27"
 wordCount: 3194
 ---
 
-**Satışa çıkarılacak gayrimenkullere bilirkişinin**
+**Gayrimenkullere değer biçme:**
 
 ---
 
-Madde 91 - Satışa çıkarılacak gayrimenkullere bilirkişinin
-mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
+Madde 91 – Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak
+suretiyle satış komisyonu tarafından rayiç değer biçilir.
 
-Gayrimenkullerin
-satış şartnamesi:
+---
 
 ### Akademik Yorum ve Analiz
 

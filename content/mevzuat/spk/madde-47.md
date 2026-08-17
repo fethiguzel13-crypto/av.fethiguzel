@@ -40,8 +40,7 @@ araçların değerini borçlunun yükümlülüklerinden mahsup etme hakkına sah
 b) Mülkiyetin teminat verende kaldığı teminat sözleşmelerinde; teminat alan, teminat
 konusu sermaye piyasası araçlarını, bunlar borsa veya teşkilatlanmış diğer piyasalarda kote ise
 bu piyasalardaki değerlerinden aşağı olmamak üzere, satarak satım bedelinden alacağını
-
-karşılama veya bu araçları mülkiyetine geçirerek değerini borçlunun yükümlülüklerinden
+karşılama veya bu araçları mülkiyetine geçirerek değerini borçlunun yükümlülüklerinden
 mahsup etme hakkına sahiptir. Teminat alanın bu şekilde teminat konusu sermaye piyasası
 araçlarını mülkiyetine geçirebilmesi için taraflar arasındaki teminat sözleşmesinde, bu hakkın
 kullanılabileceğinin ve sermaye piyasası aracı borsa veya teşkilatlanmış diğer piyasalarda kote
@@ -59,6 +58,8 @@ işlemler bakımından da teminatın söz konusu karardan önce verilmiş ve tem
 niyetli olması kaydıyla geçerlidir.
 (6) Bu madde hükümleri, hüküm ve sonuçları özel kanunlarla düzenlenen teminat
 sözleşmeleri ve teminat hükümleri hakkında uygulanmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

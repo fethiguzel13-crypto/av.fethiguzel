@@ -81,12 +81,12 @@ function Card({ id, icon, title, tag, children, fav, onToggleFav, onOpen }: {
   };
 
   return (
-    <div id={id} className={`bg-white border rounded-2xl sm:rounded-[2rem] overflow-hidden shadow-sm transition-colors ${open ? "border-accent/25 shadow-md" : "border-charcoal/6"}`}>
+    <div id={id} className={`bg-white border rounded-2xl sm:rounded-[2rem] overflow-hidden shadow-sm transition-colors ${open ? "border-accent/25 shadow-md" : "border-charcoal/[0.06]"}`}>
       <div className="flex items-stretch">
         <button
           type="button"
           onClick={toggle}
-          className="flex-1 flex items-center justify-between p-4 sm:p-6 text-left hover:bg-charcoal/2 transition-colors min-w-0"
+          className="flex-1 flex items-center justify-between p-4 sm:p-6 text-left hover:bg-charcoal/[0.02] transition-colors min-w-0"
           aria-expanded={open}
         >
           <div className="flex items-center gap-3 sm:gap-4 min-w-0">
@@ -104,7 +104,7 @@ function Card({ id, icon, title, tag, children, fav, onToggleFav, onOpen }: {
           <button
             type="button"
             onClick={(e) => { e.stopPropagation(); onToggleFav(id); }}
-            className="px-3 sm:px-4 border-l border-charcoal/6 text-charcoal/30 hover:text-accent transition-colors"
+            className="px-3 sm:px-4 border-l border-charcoal/[0.06] text-charcoal/30 hover:text-accent transition-colors"
             aria-label={fav ? "Favorilerden çıkar" : "Favorilere ekle"}
             title={fav ? "Favorilerden çıkar" : "Favorilere ekle"}
           >
@@ -136,7 +136,7 @@ function Card({ id, icon, title, tag, children, fav, onToggleFav, onOpen }: {
             {children}
           </KartBaslikContext.Provider>
           {meta?.ilgili && meta.ilgili.length > 0 && (
-            <div className="mt-5 pt-4 border-t border-charcoal/6">
+            <div className="mt-5 pt-4 border-t border-charcoal/[0.06]">
               <p className="text-[10px] font-bold uppercase tracking-wider text-charcoal/35 mb-2">İlgili araçlar</p>
               <div className="flex flex-wrap gap-1.5">
                 {meta.ilgili.map(rid => {
@@ -288,7 +288,7 @@ function Result({ rows, note, baslik }: { rows: [string, string][]; note?: strin
           </button>
         </div>
       )}
-      <div className="divide-y divide-charcoal/8">
+      <div className="divide-y divide-charcoal/[0.08]">
         {rows.map(([k, v], i) => (
           <div key={`${k}-${i}`} className="flex flex-col sm:flex-row sm:justify-between sm:items-center py-2.5 first:pt-0 last:pb-0 gap-0.5 sm:gap-3">
             <span className="text-xs sm:text-sm text-charcoal/55 leading-snug">{k}</span>
@@ -404,7 +404,7 @@ function KidemIhbarTazminati() {
       <Field label="Kıdem Tavanı (TL) — opsiyonel (boşsa ayrılış tarihine göre otomatik)">
         <MoneyInput value={ozelTavan} onChange={setOzelTavan} placeholder="Örn. 2026/II: 73.729,87" />
       </Field>
-      <div className="col-span-full text-[11px] text-charcoal/45 leading-relaxed bg-charcoal/4 rounded-xl px-4 py-3">
+      <div className="col-span-full text-[11px] text-charcoal/45 leading-relaxed bg-charcoal/[0.04] rounded-xl px-4 py-3">
         <strong className="text-charcoal/70">Otomatik tavan dönemleri:</strong>{" "}
         2026/I (01.01–30.06) = 64.948,77 TL · 2026/II (01.07–31.12) = 73.729,87 TL · 2025/II = 53.919,68 TL.
         Ayrılış tarihine göre seçilir; isterseniz alanı elle geçersiz kılın.
@@ -1227,7 +1227,7 @@ function FaizHesaplama() {
             </button>
           </div>
           {donemler.map((d, i) => (
-            <div key={d.id} className="grid grid-cols-1 sm:grid-cols-4 gap-2 p-3 rounded-xl bg-cream/80 border border-charcoal/8">
+            <div key={d.id} className="grid grid-cols-1 sm:grid-cols-4 gap-2 p-3 rounded-xl bg-cream/80 border border-charcoal/[0.08]">
               <Field label={`Dilim ${i + 1} baş`}>
                 <input type="date" value={d.bas} onChange={e => guncelleDonem(d.id, { bas: e.target.value })} className={inp} />
               </Field>
@@ -1268,7 +1268,7 @@ function FaizHesaplama() {
       {result ? (
         <div className="col-span-full flex flex-col gap-3">
           {result.mod === "donemsel" && result.dilimler.length > 0 && (
-            <div className="overflow-x-auto rounded-xl border border-charcoal/8">
+            <div className="overflow-x-auto rounded-xl border border-charcoal/[0.08]">
               <table className="w-full text-sm">
                 <thead className="bg-charcoal/5 text-[10px] uppercase tracking-wider text-charcoal/50">
                   <tr>
@@ -3737,7 +3737,7 @@ export function HesaplamaToolBody({ id, title }: { id: string; title: string }) 
   }
   return (
     <KartBaslikContext.Provider value={title}>
-      <div className="bg-white border border-charcoal/8 rounded-2xl p-4 sm:p-6 shadow-sm">
+      <div className="bg-white border border-charcoal/[0.08] rounded-2xl p-4 sm:p-6 shadow-sm">
         {comp}
       </div>
     </KartBaslikContext.Provider>
@@ -3850,7 +3850,7 @@ export default function HesaplamaHub() {
               esas alınarak hazırlanmış {ARACLAR.length} hesaplama aracı. Kartı açın, hesaplayın;
               sonucu kopyalayın, paylaşın veya yazdırın.
             </p>
-            <p className="mt-3 sm:mt-4 inline-flex items-start gap-2 text-[10px] sm:text-[11px] text-charcoal/35 font-mono bg-charcoal/4 px-3 sm:px-4 py-1.5 sm:py-2 rounded-2xl leading-relaxed">
+            <p className="mt-3 sm:mt-4 inline-flex items-start gap-2 text-[10px] sm:text-[11px] text-charcoal/35 font-mono bg-charcoal/[0.04] px-3 sm:px-4 py-1.5 sm:py-2 rounded-2xl leading-relaxed">
               <Info size={11} className="shrink-0 mt-0.5" />
               <span>2026 mevzuat · Oran/harcı işlem tarihine göre teyit edin · Bilgi amaçlıdır, garanti değildir</span>
             </p>
@@ -3869,7 +3869,7 @@ export default function HesaplamaHub() {
               { k: "Favori", v: String(favs.length) },
               { k: "Sonuç", v: String(filtrelenmis.length) },
             ].map(s => (
-              <div key={s.k} className="rounded-2xl bg-white border border-charcoal/8 px-3 py-3 text-center">
+              <div key={s.k} className="rounded-2xl bg-white border border-charcoal/[0.08] px-3 py-3 text-center">
                 <p className="text-lg sm:text-xl font-bold text-charcoal">{s.v}</p>
                 <p className="text-[10px] font-bold uppercase tracking-wider text-charcoal/40">{s.k}</p>
               </div>

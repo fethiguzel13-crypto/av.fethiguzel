@@ -7,13 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**mahkeme, duruma göre belgenin içeriği konusunda diğer tarafın beyanını kabul edebilir.**
+**Üçüncü kişinin belgeyi ibraz etmemesi**
 
 ---
 
 MADDE 221- (1) Mahkeme, üçüncü kişi veya kurumun elinde bulunan bir belgenin
-
-taraflarca ileri sürülen hususun ispatı için zorunlu olduğuna karar verirse, bu belgenin ibrazını
+taraflarca ileri sürülen hususun ispatı için zorunlu olduğuna karar verirse, bu belgenin ibrazını
 emreder.
 (2) Belgeyi ibraz etmesine karar verilen herkes, elindeki belgeyi ibraz etmek; belgeyi
 ibraz edememesi hâlinde ise bunun sebebini delilleri ile birlikte açıklamak zorundadır.
@@ -21,6 +20,8 @@ Mahkeme yapılan açıklamayı yeterli görmezse, bu kimseyi tanık olarak dinle
 (3) Belgeyi ibraz zorunda olanlar, tanıklıktan çekinmeye ilişkin hükümlere göre,
 belgeyi ibrazdan veya bu konudaki tanıklıktan çekinebilirler. Belgeyi ibraz veya bu konuda
 tanıklık yapmak zorunda olanlar hakkında, tanıklara ilişkin hükümler uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

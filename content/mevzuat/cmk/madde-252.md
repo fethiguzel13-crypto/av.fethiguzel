@@ -20,15 +20,7 @@ yerde birden fazla asliye ceza mahkemesi bulunması hâlinde tevzi kriterlerine 
 asliye ceza mahkemesine gönderilir ve bu mahkemece duruşma açılarak genel hükümlere
 göre yargılamaya devam olunur. Tek asliye ceza mahkemesinin bulunduğu yerlerde ise, aynı
 mahkemede yetkili başka bir hakim varsa bu hakim tarafından; aksi hâlde adli yargı ilk derece
-2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “on beş gün” ibaresi
-“iki hafta” şeklinde değiştirilmiştir.
-97
-
-Anayasa Mahkemesinin 5/11/2024 Tarihli ve E: 2024/66, K: 2024/188 Sayılı Kararı ile bu fıkrada yer alan
-"…sağır ve dilsizlik..." ibaresi iptal edilmiştir.
-98
-
-mahkemesi adalet komisyonu başkanınca görevlendirilen hakim tarafından duruşma açılır ve
+mahkemesi adalet komisyonu başkanınca görevlendirilen hakim tarafından duruşma açılır ve
 genel hükümlere göre yargılamaya devam olunur. Taraflar gelmese bile duruşma yapılır ve
 yokluklarında 223 üncü madde uyarınca hüküm verilebilir. Taraflara gönderilecek davetiyede
 bu husus yazılır. Duruşmadan önce itirazdan vazgeçilmesi hâlinde duruşma yapılmaz ve itiraz
@@ -53,6 +45,16 @@ uygulanır. Mercii bu sebepler yönünden incelemesini yapar ve kararını gere�
 mahkemesine gönderir.
 İKİNCİ KISIM
 Uzlaşma ve Müsadere
+BİRİNCİ BÖLÜM
+Uzlaşma
+9899100
+Uzlaştırma
+Bu madde başlığı “Uzlaşma” iken, 24/11/2016 tarihli ve 6763 sayılı Kanunun 34 üncü maddesiyle
+metne işlendiği şekilde değiştirilmiş, aynı maddenin birinci fıkrasının (b) bendine mevcut (2) ve (3)
+numaralı alt bentlerinden sonra gelmek üzere (3), (5) ve (6) numaralı alt bentler eklenmiş ve diğer alt
+bentler buna göre teselsül ettirilmiştir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

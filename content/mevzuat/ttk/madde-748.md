@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Madde 748**
+**YEDİNCİ AYIRIM
+Çeşitli Hükümler
+A) Senet metnindeki değişiklikler**
 
 ---
 
-Madde 748 - (1) Bir poliçe metni değiştirildiği takdirde, değiştirmeden sonra poliçe üzerine imza koymuş olan kişiler, değişmiş metne ve ondan önce imzasını koyanlar ise eski metne göre sorumlu olurlar.
+MADDE 748- (1) Bir poliçe metni değiştirildiği takdirde, değiştirmeden sonra poliçe
+üzerine imza koymuş olan kişiler, değişmiş metne ve ondan önce imzasını koyanlar ise eski
+metne göre sorumlu olurlar.
 
 ---
 

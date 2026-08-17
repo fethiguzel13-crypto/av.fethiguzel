@@ -17,6 +17,8 @@ sahip olmadığı bildirilen sendikanın itirazı sonucunda yetki şartlarına s
 eden kesinleşmiş mahkeme kararının tebliğ edildiği tarihten itibaren altı iş günü içinde; ilgili
 sendikaya, Bakanlıkça bir yetki belgesi verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

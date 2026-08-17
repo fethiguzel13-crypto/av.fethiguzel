@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**Yargılama usulü**
+**Yargılama usulü:**
 
 ---
 
@@ -24,6 +24,8 @@ miktar meblağın mahkeme veznesine depo edilmesini borçluya veya iflas davası
 temsil etmiş olan vekiline, dava vicahda devam ediyorsa duruşmada, aksi takdirde Tebligat
 Kanunu hükümleri dairesinde yapılacak tebliğ ile emreder. Borçlu imtina ederse ilk oturumda
 iflasına karar verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

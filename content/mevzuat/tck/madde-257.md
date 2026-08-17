@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**Görevi kötüye kullanma102**
+**Görevi kötüye kullanma**
 
 ---
 
@@ -19,7 +19,8 @@ hapis cezası ile cezalandırılır.
 yapmakta ihmal veya gecikme göstererek, kişilerin mağduriyetine veya kamunun zararına
 neden olan ya da kişilere haksız bir menfaat sağlayan kamu görevlisi, üç aydan bir yıla kadar
 hapis cezası ile cezalandırılır.
-(3) (Mülga: 2/7/2012-6352/105 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

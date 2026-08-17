@@ -18,6 +18,8 @@ talebi ise temyiz usulüne göre yapılır ve incelenir.
 hâle geldiğini kararında belirtir. Islahla geçersiz kılınamayan işlemler, eski hâle getirme
 talebinden de etkilenmez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -11,7 +11,7 @@ wordCount: 4309
 
 ---
 
-Madde 121 - Faiz veya irat borcunu ya da bağışladığı bir miktar parayı ödemekte
+MADDE 121- Faiz veya irat borcunu ya da bağışladığı bir miktar parayı ödemekte
 temerrüde düşen borçlu, icra takibine girişildiği veya dava açıldığı günden başlayarak,
 temerrüt faizi ödemekle yükümlüdür.
 Buna aykırı olarak yapılan anlaşmalar, ceza koşulu hükümlerine tabi olur.

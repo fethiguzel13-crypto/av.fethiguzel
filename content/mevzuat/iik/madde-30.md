@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Bir işin yapılmasına veya yapılmamasına dair olan ilamlar:16**
+**Bir işin yapılmasına veya yapılmamasına dair olan ilamlar:**
 
 ---
 
@@ -28,6 +28,8 @@ hükmü borçluya aynı müddetli bir emirle tebliğ olunur. Bu emirde ilam hük
 olan ilâm hükmü yerine getirildikten sonra borçlu, ilâm hükmünü ortadan kaldıracak bir
 eylemde bulunursa, mahkemeden ayrıca hüküm almaya gerek kalmadan, önceki ilâm hükmü
 tekrar zorla yerine getirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

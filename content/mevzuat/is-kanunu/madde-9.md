@@ -16,6 +16,8 @@ kalmak koşuluyla, ihtiyaçlarına uygun türde düzenleyebilirler.
 İş sözleşmeleri belirli veya belirsiz süreli yapılır. Bu sözleşmeler çalışma biçimleri
 bakımından tam süreli veya kısmî süreli yahut deneme süreli ya da diğer türde oluşturulabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

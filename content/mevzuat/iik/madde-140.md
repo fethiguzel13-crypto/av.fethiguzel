@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**Sıra cetveli**
+**Sıra cetveli:**
 
 ---
 
@@ -16,6 +16,8 @@ icra dairesi alacaklıların bir sıra cetvelini yapar.
 Alacaklılar 206 ncı madde mucibince iflas halinde hangi sıraya girmeleri lazım
 geliyorsa o sıraya kabul olunurlar.
 Bununla beraber ilk üç sıraya kayıt için muteber olan tarih haciz talebi tarihidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

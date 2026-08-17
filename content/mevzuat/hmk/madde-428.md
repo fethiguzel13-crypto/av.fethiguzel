@@ -24,6 +24,8 @@ yarattığını ve diğer durum ve koşulları dikkate alarak, böyle bir deği�
 izin vermeyebilir. İddia veya savunma tahkim sözleşmesinin kapsamı dışına çıkacak şekilde
 değiştirilemez veya genişletilemez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

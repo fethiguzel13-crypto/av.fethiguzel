@@ -7,23 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Askerlik çağına girenlerin listesi**
+**Emanetin saklanması:**
 
 ---
 
-MADDE 63- (Değişik: 19/10/2017-7039/22 md.)
-(1) Aile kütüklerinde kayıtlı olanlardan askerlik çağına giren erkek nüfusun listesi Millî
-Savunma Bakanlığınca Kimlik Paylaşımı Sistemi üzerinden alınır.
+Madde 63 – Emanetler, noter tarafından uygun şekilde saklanır.
+İlgili isterse, emanet bir muhafazaya konulup, kendisi ile noter tarafından mühürlenerek
+milli bir bankada, banka bulunmıyan yerlerde demir kasa veya sağlam bir dolapta saklanır.
 
-19/10/2017 tarihli ve 7039 sayılı Kanunun 19 uncu maddesiyle, bu maddenin birinci fıkrasında yer
-alan “vekillik belgesi” ibaresi “vekâletname” şeklinde değiştirilmiştir.
-24
-19/10/2017 tarihli ve 7039 sayılı Kanunun 20 nci maddesiyle, bu maddenin birinci fıkrasında yer alan
-“Nüfus olayları” ibaresinden sonra gelmek üzere “ve adres” ibaresi eklenmiştir.
-25
-Bu madde başlığı “Atik veya işlemden kaldırılmış kütükler” iken, 19/10/2017 tarihli ve 7039 sayılı
-Kanunun 21 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-23
+---
 
 ### Akademik Yorum ve Analiz
 

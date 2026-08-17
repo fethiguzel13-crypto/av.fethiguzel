@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4318
 ---
 
-**Tüzel kişilerin sorumluluğu**
+**Tüzel kişilerin sorumluluğu:**
 
 ---
 
@@ -20,7 +20,8 @@ uncu maddesinde yazılı fiillerin işlenmesi halinde bu fiiller için 359 ve 36
 öngörülen cezalar bu fiilleri işleyenler hakkında hükmolunur.
 Bu maddenin parantez içi hükmünde yeralan “kaçakçılık, ağır kusur, kusur” ibaresi, 22/7/1998 tarihli ve
 4369 sayılı Kanunun 81 inci maddesiyle “vergi ziyaı cezası...” şeklinde değiştirilmiştir.
-110
+
+---
 
 ### Akademik Yorum ve Analiz
 

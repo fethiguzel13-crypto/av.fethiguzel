@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**Müşterek borçluların bir zamanda iflası**
+**Müşterek borçluların bir zamanda iflası:**
 
 ---
 
@@ -17,6 +17,8 @@ Toplanan hisseler alacak yekünundan fazla ise bu fazla müşterek borçlusuna k
 mükellef olduğu hisseden ziyade ödemede bulunmuş olan masalara intikal eder.
 Ödedikleri hisselerin mecmuu alacak miktarını geçmedikçe masaların yekdiğerine
 rücu hakları yoktur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,13 @@ wordCount: 4258
 
 ---
 
-Madde 385 - İşletme ve temsili üzerine alan ortak, malları gereği gibi işletmediği veya yükümlülüklerini ye rine getirmediği takdirde, ortakl arın ortaklığın feshini ist eme hakları vardır. Ortaklardan birini n, hak lı sebeplere dayanarak istemde bulunması üzerine hâkim, mirastaki paylaşma kurallarını göz önünde bulund urarak, bu ortağın işletme ve temsili üzerine alan ortakla birlikte yönetime ve o rtaklık mallarından yararla nmaya katılmasına karar ver ebilir. Or taklar ın elbirliği ile işlettikleri ortaklığa ilişkin kurallar, kazanç paylı aile malları ortaklığında da uygu lanır.
+Madde 385- İşletme ve temsili üzerine alan ortak, malları gereği gibi işletmediği veya
+yükümlülüklerini yerine getirmediği takdirde, ortakların ortaklığın feshini isteme hakları vardır.
+Ortaklardan birinin, haklı sebeplere dayanarak istemde bulunması üzerine hâkim,
+mirastaki paylaşma kurallarını göz önünde bulundurarak, bu ortağın işletme ve temsili üzerine
+alan ortakla birlikte yönetime ve ortaklık mallarından yararlanmaya katılmasına karar verebilir.
+Ortakların elbirliği ile işlettikleri ortaklığa ilişkin kurallar, kazanç paylı aile malları
+ortaklığında da uygulanır.
 
 ---
 

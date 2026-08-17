@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4263
 ---
 
-**Mevkuf ve mahkümlara tebligat**
+**Mevkuf ve mahkümlara tebligat:**
 
 ---
 
 Madde 19 – Mevkuf ve mahkümlara ait tebliğlerin yapılmasını, bunların bulunduğu
 müessese müdür veya memuru temin eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,14 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**B) Özel değiş iklikler
-I
-- Esas sermayenin artırılması
+**B) Özel değişiklikler
+I - Esas sermayenin artırılması
 1. İlke**
 
 ---
 
-Madde 590 - (1) Şirketin kuruluşu hakkındaki hükümlere ve özellikle sermayenin ayın olarak konması ve bir işletme ile ayınların devralınmasına dair kurallara uymak şartıyla esas sermaye artırılabilir.
+MADDE 590- (1) Şirketin kuruluşu hakkındaki hükümlere ve özellikle sermayenin
+ayın olarak konması ve bir işletme ile ayınların devralınmasına dair kurallara uymak şartıyla
+esas sermaye artırılabilir.
 
 ---
 

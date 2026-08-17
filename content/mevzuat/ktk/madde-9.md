@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Tarım Orman ve Köyişleri Bakanlığının görev ve yetkileri**
+**Tarım Orman ve Köyişleri Bakanlığının görev ve yetkileri:**
 
 ---
 
@@ -18,13 +18,7 @@ a) Orman yollarında;
 orman yollarında işaretlemeler yaparak tedbirler almak ve aldırmak,
 2. Bu Kanunla ve bu Kanuna göre çıkarılan yönetmeliklerle orman yolları için verilen
 trafikle ilgili diğer görevleri yapmak,
-23/1/2026 tarihli ve 7573 sayılı Kanunun 4 üncü maddesiyle bu alt bende “idari para cezasına dair tutanak
-düzenlemek” ibaresinden sonra gelmek üzere “, paylaşımlı elektrikli skuter işletmeciliği faaliyetinde bulunanları
-denetlemek, aykırı görülen hususlarla ilgili olarak sorumlular hakkında idari para cezasına dair tutanak
-düzenlemek.” ibaresi eklenmiştir.
-14
-
-b) Köy yollarında;
+b) Köy yollarında;
 1. Trafik düzeni ve güvenliği açısından gerekli düzenleme ve işaretlemeleri yaparak,
 tedbir almak ve aldırmak,
 2. Yol güvenliğini ilgilendiren konulardaki; kavşak durak yeri, yol dışı park yeri,
@@ -38,6 +32,8 @@ almak,
 trafikle ilgili diğer görevleri yapmak.
 Köy yolları için sayılan görev ve hizmetlerden zorunlu ve gerekli görülenler orman
 yolları için de uygulanabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

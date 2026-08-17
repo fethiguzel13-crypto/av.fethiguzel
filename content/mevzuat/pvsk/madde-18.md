@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**(Fıkra dört ve beş-Ek : 16/6/1985 - 3233/6 md.; Mülga: 2/6/2007-5681/6 md.)**
+**(Fıkra iki ve üç: Ek: 19/2/1980 - 2261/1 md.; Mülga: 2/6/2007-5681/6 md.)
+(Fıkra dört ve beş-Ek : 16/6/1985 - 3233/6 md.; Mülga: 2/6/2007-5681/6 md.)**
 
 ---
 
 Madde 18 – (Mülga: 20/2/1948 - 5188/1 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

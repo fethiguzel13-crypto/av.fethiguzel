@@ -12,7 +12,11 @@ a. İlân**
 
 ---
 
-Madde 388 - Alacaklı lar ve ai le yurdu kurulması yüzünden h akları nın ze delenmesi ihtimali bulunan kişiler, kuruluştan önce mahkemece yapılan ilânla itirazlarını iki ay i çinde bildirmeye çağrılırlar. Durum, alacakları taşınmaz rehniyle güvenceye bağla nmış olanlara ve hacizli al acaklılara ayrıca bildirili r.
+Madde 388- Alacaklılar ve aile yurdu kurulması yüzünden haklarının zedelenmesi
+ihtimali bulunan kişiler, kuruluştan önce mahkemece yapılan ilânla itirazlarını iki ay içinde
+bildirmeye çağrılırlar.
+Durum, alacakları taşınmaz rehniyle güvenceye bağlanmış olanlara ve hacizli alacaklılara
+ayrıca bildirilir.
 
 ---
 

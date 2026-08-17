@@ -19,6 +19,8 @@ aldıkları izinler iptal olanlar, bu hizmet ve faaliyetlerde bulunamayacakları
 sözleşmelerinde, ticaret unvanlarında veya ilan ve reklamlarında bu hizmetler ve faaliyetlerde
 bulundukları intibaını uyandıracak hiçbir kelime veya ibare kullanamazlar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

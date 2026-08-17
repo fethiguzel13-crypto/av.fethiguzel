@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**Elektronik tebligat**
+**Elektronik tebligat:**
 
 ---
 
@@ -42,11 +42,8 @@ Anonim Şirketi tarafından kurulan ve işletilen Ulusal Elektronik Tebligat Sis
 yürütülür. Posta ve Telgraf Teşkilatı Anonim Şirketi, sistemin güvenliğini ve bu sistemde
 kayıtlı verilerin muhafazasını sağlayacak her türlü tedbiri alır.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar yönetmelikle belirlenir.
-İKİNCİ FASIL
 
-
-Tebligat Esasları
-Tebliğ evrakının nüshaları ve makbuz verilmesi:
+---
 
 ### Akademik Yorum ve Analiz
 

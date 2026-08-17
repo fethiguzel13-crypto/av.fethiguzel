@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**6 – Borçlunun ağır hastalığı halinde**
+**6 – Borçlunun ağır hastalığı halinde:**
 
 ---
 
@@ -16,6 +16,8 @@ Takip borçlunun mümessil tayin edemiyecek derecede ağır hastalığı halinde
 bir zaman için icra memurluğunca talik olunabilir. Ağır hastalığın resmi belge ile tahakkuku
 lazımdır.
 Mal kaçırılması ihtimali olan hallerde hastalığın devamı sırasında da haciz yapılabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

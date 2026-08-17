@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**3. Diğe r mal varlığı değerleri**
+**3. Diğer malvarlığı değerleri**
 
 ---
 
-Madde 280 - Bir eş, üstün bir yararının varlığını ispat etmek suretiyle diğer malvarl ığı değerlerinin de payına mahsuben kendisine verilmesini isteyebilir.
+Madde 280- Bir eş, üstün bir yararının varlığını ispat etmek suretiyle diğer malvarlığı
+değerlerinin de payına mahsuben kendisine verilmesini isteyebilir.
 
 ---
 

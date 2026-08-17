@@ -31,6 +31,8 @@ göre hesaplanacak vergiden az olamaz. Bu tarhiyata vergi ziyaı cezası uygulan
 satanlara, bu satışları ile ilgili vergi inceleme raporuna dayanılarak özel tüketim vergisi tarhiyatı
 yapıldığı takdirde, ayrıca alıcıdan özel tüketim vergisi ve buna ilişkin ceza aranmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

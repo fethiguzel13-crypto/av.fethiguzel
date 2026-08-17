@@ -7,18 +7,15 @@ lastReviewed: "2026-07-27"
 wordCount: 3614
 ---
 
-**Mirastan feragat eden, tenkis sebebiyle terekeye bir malı veya diğer bir**
+**II. Geri verme**
 
 ---
 
-Madde 574 - Mirastan feragat eden, tenkis sebebiyle terekeye bir malı veya diğer bir
-değeri geri vermekle yükümlü olursa; dilerse tenkise tâbi değeri geri verir,
-dilerse almış olduklarının tamamını terekeye geri vererek mirastan feragat
-etmemiş gibi paylaşmaya katılır.
+Madde 574- Mirastan feragat eden, tenkis sebebiyle terekeye bir malı veya diğer bir
+değeri geri vermekle yükümlü olursa; dilerse tenkise tâbi değeri geri verir, dilerse almış
+olduklarının tamamını terekeye geri vererek mirastan feragat etmemiş gibi paylaşmaya katılır.
 
-İKİNCİ KISIM
-
-MİRASIN GEÇMESİ
+---
 
 ### Akademik Yorum ve Analiz
 

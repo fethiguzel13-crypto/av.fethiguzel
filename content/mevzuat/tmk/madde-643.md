@@ -11,7 +11,9 @@ wordCount: 4295
 
 ---
 
-Madde 643 - Mirasın açıldığı tarihte, mirasçı olabilecek bir cenin varsa paylaşma doğumuna ka dar ertelenir. Ana muhtaç ise, doğuma kadar geçim giderlerinin terekeden sağlanmasını iste yebilir.
+Madde 643- Mirasın açıldığı tarihte, mirasçı olabilecek bir cenin varsa paylaşma
+doğumuna kadar ertelenir.
+Ana muhtaç ise, doğuma kadar geçim giderlerinin terekeden sağlanmasını isteyebilir.
 
 ---
 

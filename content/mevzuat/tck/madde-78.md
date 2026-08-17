@@ -16,8 +16,8 @@ veya yöneten kişi, on yıldan onbeş yıla kadar hapis cezası ile cezalandır
 olanlara beş yıldan on yıla kadar hapis cezası verilir.
 (2) Bu suçlardan dolayı tüzel kişiler hakkında da güvenlik tedbirine hükmolunur.
 (3) Bu suçlardan dolayı zamanaşımı işlemez.
-İKİNCİ BÖLÜM
-Göçmen Kaçakçılığı ve İnsan Ticareti
+
+---
 
 ### Akademik Yorum ve Analiz
 

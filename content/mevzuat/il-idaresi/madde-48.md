@@ -7,15 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**emrine tayin olunurlar.**
-
----
-
 Madde 48 – İlk defa bucak müdürü olabilmek için:
 A) En az lise veya bu dereceli okul mezunu olmak;
 B) Bilfiil askerlik hizmetini bitirmiş ve yaşı 30 u geçmemiş olmak;
 C) Vücutça sağlam olmakla beraber memleketin her ikliminde vazife görmeye ve her
 vasıta ile dolaşmaya kabiliyetli oldukları hastaneler sağlık kurullarınca tasdik edilmiş
+bulunmak lazımdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

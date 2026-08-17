@@ -11,7 +11,7 @@ wordCount: 4262
 
 ---
 
-Madde 477 - Eserin açıkça veya örtülü olarak kabulünden sonra, yüklenici her türlü
+MADDE 477- Eserin açıkça veya örtülü olarak kabulünden sonra, yüklenici her türlü
 sorumluluktan kurtulur; ancak, onun tarafından kasten gizlenen ve usulüne göre gözden
 geçirme sırasında fark edilemeyecek olan ayıplar için sorumluluğu devam eder.
 İşsahibi, gözden geçirmeyi ve bildirimde bulunmayı ihmal ederse, eseri kabul etmiş

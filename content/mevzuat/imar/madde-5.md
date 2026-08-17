@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Tanımlar**
+**Tanımlar:**
 
 ---
 
@@ -48,8 +48,7 @@ Mücavir Alan; imar mevzuatı bakımından belediyelerin kontrol ve mesuliyeti a
 verilmiş olan alanlardır.
 Çevre düzeni planı; (Değişik:29/11/2018-7153/10 md.) varsa mekânsal strateji
 planlarının hedef ve stratejilerine uygun olarak yerleşim, gelişme alanları ve sektörlere ilişkin
-
-alt ölçek planlarını yönlendiren genel arazi kullanım kararları çerçevesinde ilke ve kriterleri
+alt ölçek planlarını yönlendiren genel arazi kullanım kararları çerçevesinde ilke ve kriterleri
 belirleyen, bölge, havza veya il bütününde hazırlanan, plan hükümleri ve raporuyla bir bütün
 olan plandır.
 (Ek : 26/4/1989 - 3542/1 md.) Fen adamları; yapı, elektrik tesisatı, sıhhi tesisat ve
@@ -63,6 +62,8 @@ kararları yönlendiren, ülke bütününde ve gerekli görülen bölgelerde haz
 bütün olan plandır.
 Ayrıca, bu Kanunda adı geçen diğer tanımlar Bakanlıkça hazırlanacak yönetmelikte
 tarif edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

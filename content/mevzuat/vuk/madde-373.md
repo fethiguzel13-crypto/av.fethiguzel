@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**Mücbir sebepler**
+**Mücbir sebepler:**
 
 ---
 
 Madde 373 – Bu kanunda yazılı mücbir sebeplerden her hangi birinin vukua geldiği
 malüm ise veya tevsik ve ispat olunursa vergi cezası kesilmez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,8 +11,13 @@ wordCount: 4269
 
 ---
 
-Madde 312 - Küçük, gelecekte evlât edinilmek amacıyla bir kuruma yerleştirilir ve ana ve babadan birinin rızası eksik olursa, evlât edinenin veya e vlât edinme de aracılık yapan kurumun
-istemi üze rine ve kural olarak küçüğün yerleşt irilmesinden önce, onun oturduğu yer mahkemesi bu rızanın aranıp aranmamasına karar verir. Diğer hâllerde, bu ko nudaki karar evlât ed inme işlemleri sırasında verilir. Ana ve baba dan bi rinin küçüğe karşı özen yükümlülüğün ü yeterince yerine getirmemesi sebeb iyle rızasının aranmaması hâlinde, bu konudaki karar kendisine yazılı olarak bildirilir.
+Madde 312- Küçük, gelecekte evlât edinilmek amacıyla bir kuruma yerleştirilir ve ana ve
+babadan birinin rızası eksik olursa, evlât edinenin veya evlât edinmede aracılık yapan kurumun
+istemi üzerine ve kural olarak küçüğün yerleştirilmesinden önce, onun oturduğu yer mahkemesi
+bu rızanın aranıp aranmamasına karar verir.
+Diğer hâllerde, bu konudaki karar evlât edinme işlemleri sırasında verilir.
+Ana ve babadan birinin küçüğe karşı özen yükümlülüğünü yeterince yerine getirmemesi
+sebebiyle rızasının aranmaması hâlinde, bu konudaki karar kendisine yazılı olarak bildirilir.
 
 ---
 

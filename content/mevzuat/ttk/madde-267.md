@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**Madde 267**
+**BEŞİNCİ BÖLÜM
+Tasfiye
+A) Genel hükümler
+I - Sözleşme serbestisi
+1. Kural**
 
 ---
 
-Madde 267 - (1) Şirket sözleşmesinde farklı bir düzenleme bulunmayan durumlarda tasfiye, bu Bölümdeki hükümlere göre yapılır.
+MADDE 267- (1) Şirket sözleşmesinde farklı bir düzenleme bulunmayan durumlarda
+tasfiye, bu Bölümdeki hükümlere göre yapılır.
 
 ---
 

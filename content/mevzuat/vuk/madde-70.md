@@ -7,7 +7,7 @@ lastReviewed: "2026-07-11"
 wordCount: 2516
 ---
 
-**Yüz ölçümü fazla veya noksan tesbit edilen arazi**
+**Yüz ölçümü fazla veya noksan tesbit edilen arazi:**
 
 ---
 
@@ -18,6 +18,8 @@ arazinin kayıtlı kıymetinden beher metre kareye isabet eden kıymet esas tutu
 veya fazlaya ait kıymetler tesbit ve kayıtlı kıymete ilave veya mezkür kıymetten tenzil olunur.
 Bu ilave ve tenziller dolayısiyle noksan veya fazla alındığı anlaşılan vergiler
 mükelleften tahsil veya kendisine iade edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

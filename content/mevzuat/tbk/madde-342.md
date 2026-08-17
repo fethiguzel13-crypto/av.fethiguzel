@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**2**
+**D. Kiracının güvence vermesi**
 
 ---
 
-Madde 342 - Konut ve çatılı işyeri kiralarında sözleşmeyle kiracıya güvence verme
+MADDE 342- Konut ve çatılı işyeri kiralarında sözleşmeyle kiracıya güvence verme
 borcu getirilmişse, bu güvence üç aylık kira bedelini aşamaz.
 Güvence olarak para veya kıymetli evrak verilmesi kararlaştırılmışsa kiracı, kiraya
 verenin onayı olmaksızın çekilmemek üzere, parayı vadeli bir tasarruf hesabına yatırır,
@@ -20,10 +20,6 @@ icra takibinin kesinleşmesiyle ya da kesinleşmiş mahkeme kararına dayanarak 
 Kiraya veren, kira sözleşmesinin sona ermesini izleyen üç ay içinde kiracıya karşı kira
 sözleşmesiyle ilgili bir dava açtığını veya icra ya da iflas yoluyla takibe giriştiğini bankaya yazılı
 olarak bildirmemişse banka, kiracının istemi üzerine güvenceyi geri vermekle yükümlüdür.
-
-E. Kira bedeli
-I. Genel olarak
-2
 
 ---
 

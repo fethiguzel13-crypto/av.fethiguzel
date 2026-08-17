@@ -11,7 +11,9 @@ wordCount: 4271
 
 ---
 
-Madde 83 – (Mülga: 20/6/2012-6331/37 md.)
+Madde 83 - (Mülga: 20/6/2012-6331/37 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

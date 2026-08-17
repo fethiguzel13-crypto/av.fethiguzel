@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**Ticari işletmede yöneticinin sorumluluğu**
+**Ticari işletmede yöneticinin sorumluluğu:**
 
 ---
 
@@ -21,7 +21,8 @@ Birinci fıkradaki suç taksirle işlendiği takdirde, alacaklının şikâyeti 
 hakkında zararın ağırlığına göre ikibin güne kadar adlî para cezasına hükmolunur.
 Konkordatoda veya sermaye şirketleri ile kooperatiflerin uzlaşma yoluyla
 yeniden yapılandırılmasında yetkili kimseleri hataya düşüren ya da konkordato veya
-uzlaşma yoluyla yeniden yapılandırma koşullarına uymayan borçlunun cezası:126
+
+---
 
 ### Akademik Yorum ve Analiz
 

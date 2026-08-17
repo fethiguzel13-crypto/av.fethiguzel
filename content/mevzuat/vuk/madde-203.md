@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**Sınai müesseselerde kayıt serbestliği**
+**Sınai müesseselerde kayıt serbestliği:**
 
 ---
 
@@ -21,7 +21,8 @@ gösterebilirler.
 (Mülga üçüncü fıkra: 4/12/1985-3239/136 md.)
 İmalat defterine kaydolunan malümatı ihtiva edecek şekilde sınai muhasebe tutanlar,
 Maliye Bakanlığından müsaade almak şartiyle ayrıca imalat defteri tutmazlar.
-(Mülga beşinci fıkra: 4/12/1985-3239/136 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

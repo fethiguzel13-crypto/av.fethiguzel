@@ -12,7 +12,7 @@ a. Giderim yükümlülüğü**
 
 ---
 
-Madde 69 - Bir binanın veya diğer yapı eserlerinin maliki, bunların yapımındaki
+MADDE 69- Bir binanın veya diğer yapı eserlerinin maliki, bunların yapımındaki
 bozukluklardan veya bakımındaki eksikliklerden doğan zararı gidermekle yükümlüdür.
 İntifa ve oturma hakkı sahipleri de, binanın bakımındaki eksikliklerden doğan
 zararlardan, malikle birlikte müteselsilen sorumludurlar.

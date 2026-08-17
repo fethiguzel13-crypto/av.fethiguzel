@@ -7,24 +7,40 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Aile kütüklerinde bulunması gereken kişisel bilgiler**
+**Stajiyerlik şartları:**
 
 ---
 
-MADDE 7- (1) Her mahalle veya köy için ayrı aile kütüğü tutulur. Aile kütüklerinde aşağıdaki bilgiler bulunur:
-a) Türkiye Cumhuriyeti kimlik numarası.
-b) Kayıtlı bulunduğu il, ilçe, köy veya mahalle adı ile cilt, aile ve birey sıra numarası.
-c) Kişinin adı ve soyadı, cinsiyeti, baba ve ana adı ile soyadları, evli kadınların önceki soyadları.
-ç) Doğum yeri ile gün, ay ve yıl olarak doğum tarihi ve kütüğe kayıt tarihi.
-d) Evlenme, boşanma, soybağının kurulması veya reddi, ölüm, vatandaşlığın kazanılması veya kaybedilmesi gibi kişisel durumda meydana gelen değişiklik veya yetkili makamlarca yapılan düzeltmeler.
-e) Dini.
-f) Medenî hali.
-g) Yerleşim yeri adresi.
-ğ) Fotoğrafı.
-h) Biyometrik verisi.
-ı) Velayete ve vesayete ilişkin bilgileri.
-
-(2) Türkiye'de aile kütüğü bulunmayan ve yabancı ülkelerde oturan vatandaşlar Bakanlığın göstereceği bir nüfus müdürlüğünde açılacak aile kütüğüne kaydedilir.
+Madde 7 – Noterlik stajına kabul edilebilmek için:
+1. Türkiye Cumhuriyeti vatandaşı olmak,
+2. (Değişik: 13/6/2000 - 4579/1 md.) 21 yaşını bitirmiş ve 40 yaşını doldurmamış olmak,
+3. Türk hukuk fakültelerinin birinden mezun olmak veya yabancı bir memleket hukuk
+fakültesinden mezun olup da, Türkiye hukuk fakülteleri programlarına göre noksan kalan
+derslerden başarılı sınav vermiş bulunmak,
+4. (Mülga: 13/6/2000 - 4579/1 md.) (Yeniden Düzenleme:17/10/2019-7188/4 md.)
+Hukuk Mesleklerine Giriş Sınavında başarılı olmak,
+5.(Değişik: 23/1/2008-5728/345 md.) 14/7/1965 tarihli ve 657 sayılı Devlet Memurları
+Kanununun 48 inci maddesine göre devlet memurluğuna atanmaya engel bir mahkûmiyeti
+bulunmamak,
+6. Kesinleşmiş bir ceza veya disiplin kararı sonucunda hakim, savcı, memur yahut
+avukat olmak niteliğini kaybetmiş bulunmamak,
+7. Noterlik mesleğine yaraşmıyacak tutum ve davranışları çevresince bilinmiş olmamak,
+8. Noterlikle ve noter stajiyerliği ile birleşemiyen bir işle uğraşmamak,
+9. Mahkeme kararı ile kısıtlanmış olmamak,
+10. İflas etmiş ise itibarı iade edilmiş olmak, (Hileli ve taksirli müflisler itibarları iade
+edilmiş olsa bile kabul olunmazlar.)
+11. Hakkında aciz vesikası verilmiş ise bunu kaldırmış bulunmak,
+12. Noterlik görevini devamlı ve gereği gibi yapmaya engel vücut veya akılca malul
+olmamak,
+13. Staj yapılacak yerde ikametgahı bulunmak, gerektir.
+(Değişik ikinci fıkra: 23/1/2008-5728/345 md.) Noterlik stajına engel mahkûmiyeti
+olanlar ile terör örgütleriyle iltisaklı veya irtibatlı bulunanlar, noterliğe kabul edilemezler.
+(Değişik üçüncü fıkra: 23/1/2008-5728/345 md.) Staj isteminde bulunan kişi hakkında
+noterliğe engel bir suçtan dolayı soruşturma veya kovuşturma yapılması halinde, stajyerliğe
+alınma isteği hakkındaki kararın bu soruşturma ve kovuşturmanın sonuna kadar bekletilmesine
+karar verilebilir.
+Şu kadar ki, ceza kovuşturmasının sonucu ne olursa olsun, stajiyerliğe kabul isteğinin
+geri çevrilmesi gereken hallerde, sonuç beklenmeden istek karara bağlanır.
 
 ---
 

@@ -27,7 +27,8 @@ isteyebilir ve bu takdirde yüklenici taahhüdünü tamamlamak zorundadır. Anca
 yüklenici hakkında 26 ncı madde hükmüne göre işlem yapılır ve yükleniciden kesin teminat ve
 varsa ek kesin teminatların tutarı kadar ceza tahsil edilir. Bu ceza hakedişlerden kesinti yapılmak
 suretiyle de tahsil edilebilir.
-4 20/11/2008 tarihli ve 5812 sayılı Kanunun 34 üncü maddesiyle; bu bentte yer alan “yirmi gün” ibaresi “on gün” olarak değiştirilmiştir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -172,7 +172,7 @@ export default async function HesaplamaSlugPage({ params }: Props) {
                                     <li key={b.href}>
                                         <Link
                                             href={b.href}
-                                            className="flex items-center gap-2 p-3 rounded-xl bg-white border border-charcoal/8 hover:border-accent/40 text-sm font-semibold text-charcoal transition-colors"
+                                            className="flex items-center gap-2 p-3 rounded-xl bg-white border border-charcoal/[0.08] hover:border-accent/40 text-sm font-semibold text-charcoal transition-colors"
                                         >
                                             <span className="text-accent" aria-hidden>
                                                 →
@@ -223,7 +223,7 @@ export default async function HesaplamaSlugPage({ params }: Props) {
                                     <li key={a.id}>
                                         <Link
                                             href={`/hesaplama/${a.id}`}
-                                            className="flex gap-2 items-center p-3 rounded-xl bg-white border border-charcoal/8 hover:border-accent/40 text-sm font-semibold text-charcoal"
+                                            className="flex gap-2 items-center p-3 rounded-xl bg-white border border-charcoal/[0.08] hover:border-accent/40 text-sm font-semibold text-charcoal"
                                         >
                                             <span aria-hidden>{a.icon}</span>
                                             {a.baslik}

@@ -7,10 +7,6 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**Davanın ve cezanın düşmesi ile ceza verilemeyecek hâller132**
-
----
-
 Madde 354 – Kanunun bu babında yazılı suçlardan takibi şikayete bağlı olanların
 müştekisi feragat eder veya borcun itfa edildiği sabit olursa dava ve bütün neticeleriyle
 beraber ceza düşer.
@@ -22,6 +18,8 @@ sonra yerine getirilmez.
 miktarı Asgari Ücret Tespit Komisyonu tarafından her yıl belirlenen aylık en yüksek brüt
 asgari ücret tutarının altında kalan takiplerde bu Kanunda öngörülen disiplin ve tazyik hapsi
 uygulanmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

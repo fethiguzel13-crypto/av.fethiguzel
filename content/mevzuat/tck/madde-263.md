@@ -7,13 +7,13 @@ lastReviewed: "2026-07-27"
 wordCount: 3358
 ---
 
-**(Mülga – 17/4/2013-6460/13 md.)**
+**Kanuna aykırı eğitim kurumu**
 
 ---
 
-Madde 263 - (Mülga – 17/4/2013-6460/13 md.)
+Madde 263 – (Mülga – 17/4/2013-6460/13 md.)
 
-Özel işaret ve kıyafetleri usulsüz kullanma
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**A. Geciktirici koşul
+**İKİNCİ AYIRIM
+Koşullar
+A. Geciktirici koşul
 I. Genel olarak**
 
 ---
 
-Madde 170 - Bir sözleşmenin hüküm ifade etmesi, gerçekleşip gerçekleşmeyeceği
+MADDE 170- Bir sözleşmenin hüküm ifade etmesi, gerçekleşip gerçekleşmeyeceği
 bilinmeyen bir olguya bırakılmışsa, sözleşme geciktirici koşula bağlanmış olur.
 Aksi kararlaştırılmamışsa, geciktirici koşula bağlı sözleşme, ancak koşulun gerçekleştiği
 andan başlayarak hüküm ifade eder.

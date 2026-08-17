@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**Aylığın ödeme zamanı ve Esasları:269**
+**Aylığın ödeme zamanı ve Esasları:**
 
 ---
 
@@ -26,9 +26,7 @@ Devlet memurları ve diğer kamu görevlileri (sözleşmeli statüdeki personel 
 özel kesimde iş kanunlarına göre istihdam edilen işçilere çeşitli adlar altında yapılan nakdi ve
 433 sayılı KHK'nin 2 nci maddesi ile bu maddenin başlığı "Aylığın ödeme zamanı" iken metne işlendiği
 şekilde değiştirilmiştir.
-269
-
-ayni nitelikteki tüm ödemelerin hesaplanma kolaylığını ve basitliğini sağlamak amacıyla,
+ayni nitelikteki tüm ödemelerin hesaplanma kolaylığını ve basitliğini sağlamak amacıyla,
 bordro düzenlemesine, tahakkuk ve ödeme işlem ve sürelerine ilişkin esas ve usulleri tesbit
 etmeye, aydan daha kısa ya da daha uzun sürelerde yapılan ödemelerin aylık dönemler
 itibariyle tahakkuk ettirilmesi ve ödenmesine karar vermeye Maliye ve Gümrük Bakanlığı
@@ -39,6 +37,8 @@ md.) Üçüncü fıkra kapsamına giren personelin her türlü özlük hakların
 işlemlerinin belli merkezlerden yapılabilmesi ve ödemelerin bankacılık sistemi aracılığı ile
 gerçekleştirilmesi için gerekli düzenlemeleri yapmaya ve gerekli tedbirleri almaya Maliye
 Bakanlığı yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

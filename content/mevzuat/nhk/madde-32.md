@@ -7,20 +7,20 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Ölüm karinesi**
+**Dördüncü sınıf noterliklerin yönetimi:**
 
 ---
 
-MADDE 32- (1) Bir kimse ölümüne kesin gözle bakılmayı gerektiren durumlar içinde
-kaybolursa, cesedi bulunamamış olsa bile müracaat edilen yerin mülkî idare amirinin emri ile
-ölüm tutanağı düzenlenerek ölüm olayı işlenir.
-(2) Bu madde uyarınca işlem yapılabilmesi için ölüm karinesi bulunan kişinin alt veya
-üst soyundan bir kişinin ya da kardeşlerinin, bunlar yoksa mirasçılarının dilekçe ile başvurarak
-olayı belgelendirmeleri ya da yetkili makamların durumu resmî bir yazı ile nüfus müdürlüğüne
-bildirmeleri gereklidir.
-(3) Dilekçeye ekli belgeler ve gerektiğinde nüfus müdürlüğünce yaptırılacak soruşturma
-olayın doğruluğunu ve öldüğü iddia edilen kişinin de olayın meydana geldiği sırada orada
-bulunduğunu kanıtlamaya yeterli görülürse mülkî idare amirinin emri ile ölüm kaydı düşülür.
+Madde 32 – (Değişik birinci fıkra: 2/3/2005-5309/2 md.) Dördüncü sınıf noterlikler, o
+yerin bağlı bulunduğu adalet komisyonunun inhası üzerine, Adalet Bakanlığınca görevlendirilecek
+icra müdürü, icra müdür yardımcısı veya kâtip sınıfından bir adalet memuru tarafından geçici
+olarak yönetilir.
+Bu gibilere, geçici yetkili noter yardımcısı adı verilir.
+(Ek fıkra: 2/3/2005-5309/2 md.) Asliye mahkemesinin bulunmadığı ilçelerde açılacak
+olan dördüncü sınıf noterlikler için, öncelikle hükûmet konaklarında imkânlar ölçüsünde yeterli
+nitelikte yer ayırmakla mülkî amirler görevlidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

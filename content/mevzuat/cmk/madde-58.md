@@ -29,6 +29,8 @@ güvenliğinin sağlanması hususunda alınacak önlemler, ilgili kanunda düzen
 (5) İkinci, üçüncü ve dördüncü fıkra hükümleri, ancak bir örgütün faaliyeti
 çerçevesinde işlenen suçlarla ilgili olarak uygulanabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

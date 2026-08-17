@@ -11,7 +11,8 @@ wordCount: 4292
 
 ---
 
-Madde 11 - Erginlik onsekiz yaşın doldurulmasıyla başlar. Evlenme kişiyi ergin kılar.
+Madde 11 - Erginlik onsekiz yaşın doldurulmasıyla başlar.
+Evlenme kişiyi ergin kılar.
 
 ---
 

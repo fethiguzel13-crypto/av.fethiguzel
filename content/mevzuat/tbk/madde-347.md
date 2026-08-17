@@ -13,7 +13,7 @@ I. Bildirim yoluyla
 
 ---
 
-Madde 347 - Konut ve çatılı işyeri kiralarında kiracı, belirli süreli sözleşmelerin
+MADDE 347- Konut ve çatılı işyeri kiralarında kiracı, belirli süreli sözleşmelerin
 süresinin bitiminden en az onbeş gün önce bildirimde bulunmadıkça, sözleşme aynı koşullarla
 bir yıl için uzatılmış sayılır. Kiraya veren, sözleşme süresinin bitimine dayanarak sözleşmeyi
 sona erdiremez. Ancak, on yıllık uzama süresi sonunda kiraya veren, bu süreyi izleyen her

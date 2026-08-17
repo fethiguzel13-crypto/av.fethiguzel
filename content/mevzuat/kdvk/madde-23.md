@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**Özel matrah şekilleri:69**
+**Özel matrah şekilleri:**
 
 ---
 
@@ -21,19 +21,9 @@ sporcuların katıldığı sportif faaliyetler, maçlar ve yarışlar ve yarış
 gösterilmesinde bunların icra edildiği mahallere giriş karşılığında alınan bedel ile bu
 mahallerde yapılan teslim ve hizmetlerin bedeli,
 d) (Değişik: 16/6/2009-5904/15 md.) Gümrük depolarında ve müzayede mahallerinde
+yapılan satışlarda kesin satış bedeli ile 5300 sayılı Tarım Ürünleri Lisanslı Depoculuk Kanunu
 22/7/1998 tarih ve 4369 sayılı Kanunun 81 inci maddesi ile; bu bentte yer alan "fiili ithalata" ibaresi
 “Gümrük beyannamesinin tescil tarihine” şeklinde değiştirilmiştir.
-68
-28/12/2001 tarihli ve 4731 sayılı Kanunun 5 inci maddesi ile bu bentte yer alan “diğer giderler ve ödemeler”
-ibaresi “diğer giderler ve ödemelerden vergilendirilmeyenler” şeklinde değiştirilmiştir.
-69
-29/3/2018 tarihli ve 7104 sayılı Kanunun 6 ncı maddesiyle, bu maddenin birinci fıkrasına (e) bendinden sonra
-gelmek üzere (f) bendi eklenmiş ve mevcut (f) bendi (g) bendi şeklinde teselsül ettirilmiş ve aynı Kanunun 29
-uncu maddesiyle bu hükmün 6/4/2018 tarihini izleyen ikinci aybaşında yürürlüğe girmesi hüküm altına
-alınmıştır.
-67
-
-yapılan satışlarda kesin satış bedeli ile 5300 sayılı Tarım Ürünleri Lisanslı Depoculuk Kanunu
 kapsamında düzenlenen ürün senetlerinin, senedin temsil ettiği ürünü depodan çekecek
 olanlara tesliminde, senedin en son işlem gördüğü borsada oluşan değeri.
 e) (Ek : 6/12/1984 - 3099/2 md.) Altından mamül veya altın ihtiva eden ziynet eşyaları ile
@@ -45,6 +35,8 @@ satılan ikinci el motorlu kara taşıtı veya taşınmazların tesliminde matra
 düşüldükten sonra kalan tutardır.
 g) (Ek : 6/12/1984 - 3099/2 md.) Maliye ve Gümrük Bakanlığı işin mahiyetini
 gözönünde tutarak özel matrah şekilleri tespit etmeye yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

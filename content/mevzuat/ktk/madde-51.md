@@ -8,7 +8,7 @@ wordCount: 2650
 keywords: ["Hız Sınırı İhlali", "7574 Sayılı Kanun", "Radar", "Ehliyete El Konulması", "Radar Tespit Cihazı", "Ağır Kusur", "Sigorta Rücu", "Olası Kast"]
 ---
 
-**Hız sınırlarına uyma zorunluluğu:45**
+**Hız sınırlarına uyma zorunluluğu:**
 
 ---
 
@@ -43,17 +43,13 @@ a) (7) numaralı alt bendinin ihlali halinde her seferinde 30 gün,
 b) (8) numaralı alt bendinin ihlali halinde her seferinde 60 gün,
 c) (9) numaralı alt bendinin ihlali halinde ise her seferinde 90 gün,
 süre ile sürücülerin sürücü belgeleri geri alınır.
-18/10/2018 tarihli ve 7148 sayılı Kanunun 21 inci maddesiyle bu madde başlığı “Hız sınırlarına
-uyma:” iken metne işlendiği şekilde değiştirilmiştir.
-45
-
-Sürücüler tarafından bu maddenin ikinci fıkrasının (b) bendinin;
+Sürücüler tarafından bu maddenin ikinci fıkrasının (b) bendinin;
 a) (7) numaralı alt bendinin ihlali halinde her seferinde 30 gün,
 b) (8) numaralı alt bendinin ihlali halinde her seferinde 60 gün,
 c) (9) numaralı alt bendinin ihlali halinde ise her seferinde 90 gün,
 süre ile sürücülerin sürücü belgeleri geri alınır.
 Bu madde kapsamında geri alınan sürücü belgelerinin iade edilebilmesi için bu Kanun
-kapsamından verilen idari para cezalarının tamamının tahsil edilmiş olması şarttır. Ayrıca bu
+kapsamında verilen idari para cezalarının tamamının tahsil edilmiş olması şarttır. Ayrıca bu
 madde kapsamında son ihlalin gerçekleştiği tarihten geriye doğru bir yıl içerisinde beşinci kez
 geri alınan sürücü belgeleri, geri alma süresi sonunda sürücünün psiko-teknik
 değerlendirmeden ve psikiyatri uzmanının muayenesinden geçirilerek sürücü belgesi almasına
@@ -68,6 +64,8 @@ Bu cihazları imal ve ithal edenlere fiil başka bir suç oluştursa bile ayrıc
 lirası, cihazları araçlarında bulunduran işletene ise 185.000 Türk lirası idari para cezası
 uygulanır. Ayrıca bu cihazlara mülki amir tarafından el konulur ve mülki amir tarafından
 mülkiyetinin kamuya geçirilmesine karar verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

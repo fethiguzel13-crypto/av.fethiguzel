@@ -7,21 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Yürütmeye memur olanlar**
+**Yürütmeye memur olanlar:**
 
 ---
 
 Madde 118 – Bu kanun hükümlerini İcra Vekilleri Heyeti yürütür.
-
-4/6/2008 tarihli ve 5766 sayılı Kanunun 7 nci maddesiyle bu fıkrada yer alan "31.12.2007" ibaresi
-"31/12/2009" şeklinde, daha sonra 28/1/2010 tarihli ve 5951 sayılı Kanunun 2 nci maddesiyle “31/12/2009”
-ibaresi “31/12/2014” şeklinde değiştirilmiştir.
-43
-27/12/2023 tarihli ve 7491 sayılı Kanunun 5 inci maddesiyle, bu fıkrada yer alan “31/12/2023” ibaresi
-“31/12/2028” şeklinde değiştirilmiştir.
-42
-
-21/7/1953 TARİHLİ VE 6183 SAYILI ANA KANUNA
+21/7/1953 TARİHLİ VE 6183 SAYILI ANA KANUNA
 İŞLENEMEYEN GEÇİCİ MADDELER
 1 –13/6/1963 tarihli ve 251 sayılı Kanunun Geçici Maddesi:
 Geçici madde — Bu kanunun yürürlüğe girmesinden önce mer'i 60 ıncı maddeye göre
@@ -59,8 +50,7 @@ Geçici Madde 2 – 30/6/2008 tarihine kadar (bu tarih dahil) yapılacak müraca
 uygulanmak üzere; Gençlik ve Spor Genel Müdürlüğü, Türkiye Futbol Federasyonu ve özerk
 spor federasyonlarına tescil edilmiş olan ve Türkiye’de sportif alanda faaliyette bulunan spor
 kulüplerinin, Maliye Bakanlığına bağlı vergi dairelerine ödenmesi gereken ve 21/7/1953
-
-tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre takip edilen
+tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre takip edilen
 borçları ile sigorta primi, sosyal güvenlik destek primi, işsizlik sigortası primi, idari para
 cezaları borçları ve bunlara ilişkin gecikme zammı ve gecikme cezasından oluşan borçları ve
 16/8/1997 tarihli ve 4306 sayılı Kanuna göre alınan eğitime katkı payı ve buna bağlı gecikme
@@ -99,8 +89,7 @@ teklifi üzerine Maliye Bakanı yetkilidir. Madde kapsamında mahsuba konu olaca
 Geçici Madde 4 – Üniversite hastanelerinin (vakıf üniversiteleri hariç), tedavi
 giderleri genel bütçe kapsamındaki kamu idareleri tarafından karşılanan kişiler ile 3816 sayılı
 Ödeme Gücü Olmayan Vatandaşların Tedavi Giderlerinin Yeşil Kart Verilerek Devlet
-
-Tarafından Karşılanması Hakkında Kanuna göre tedavi yardımı karşılanan kişilere sundukları
+Tarafından Karşılanması Hakkında Kanuna göre tedavi yardımı karşılanan kişilere sundukları
 tedavi hizmetleri karşılığı olarak, 31/3/2008 tarihinden önce (31/3/2008 dahil) düzenledikleri
 fatura bedellerinden, bu maddenin yürürlüğe girdiği tarihten itibaren iki ay içinde Maliye
 Bakanlığı ile varılacak mutabakat çerçevesinde tahsil edemedikleri tespit edilen
@@ -138,9 +127,10 @@ göre takip ve tahsil edilir. Bu madde hükmü, yeni bir bildirime gerek bulunma
 süresinden sonra verilmiş cevapları da kapsar.
 Bu madde kapsamındaki bildirimlerin hüküm ifade edebilmesi için madde kapsamına
 giren haciz bildirileri veya bu haciz bildirileri üzerine düzenlenen ödeme emirleri ile ilgili
-
-açılmış davalardan feragat edilmesi şarttır. Bu maddenin uygulamasına ilişkin usul ve esasları
+açılmış davalardan feragat edilmesi şarttır. Bu maddenin uygulamasına ilişkin usul ve esasları
 belirlemeye Maliye Bakanı yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

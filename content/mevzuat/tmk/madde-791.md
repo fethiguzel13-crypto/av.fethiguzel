@@ -12,7 +12,14 @@ wordCount: 4258
 
 ---
 
-Madde 791 - İrtifak hakkı yüklü taşınmazın yalnı z belli bir kısmının kullanılması koşuluyla kurulmuşsa, bu taşınmazın maliki, menfaatini i spat etmek ve giderleri üstlenmek kaydıyla; irtifakın, hakkın kullanılmasını güçleştirmeyecek biçimde ta şınmazın başka bir yerine naklini isteyebilir. İrtifak hakkını n kullanılacağı yer tapu kütüğünde belirtilmiş olsa bile yüklü taşınmaz maliki bu yetkiyi kullanabilir. Mecraların bir yerden başka bir yere naklinde komşuluk hukuku kuralları da göz önünde tutu lur.
+Madde 791- İrtifak hakkı yüklü taşınmazın yalnız belli bir kısmının kullanılması
+koşuluyla kurulmuşsa, bu taşınmazın maliki, menfaatini ispat etmek ve giderleri üstlenmek
+kaydıyla; irtifakın, hakkın kullanılmasını güçleştirmeyecek biçimde taşınmazın başka bir yerine
+naklini isteyebilir.
+İrtifak hakkının kullanılacağı yer tapu kütüğünde belirtilmiş olsa bile yüklü taşınmaz
+maliki bu yetkiyi kullanabilir.
+Mecraların bir yerden başka bir yere naklinde komşuluk hukuku kuralları da göz önünde
+tutulur.
 
 ---
 

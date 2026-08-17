@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**Gerçek usulde vergilendirme**
+**DÖRDÜNCÜ KISIM
+Verginin Tarhı ve Ödenmesi
+BİRİNCİ BÖLÜM
+Vergilendirme Usulleri
+Gerçek usulde vergilendirme:**
 
 ---
 
 Madde 37 – Aksine hüküm bulunmadıkça mükellefler gerçek usulde vergilendirilirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

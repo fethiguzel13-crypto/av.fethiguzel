@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**Faturanın şekli**
+**Faturanın şekli:**
 
 ---
 
@@ -18,12 +18,7 @@ Faturada en az aşağıdaki bilgiler bulunur:
 ve hesap numarası;
 3. Müşterinin adı, ticaret unvanı, adresi, varsa vergi dairesi ve hesap numarası;
 4. Malın veya işin nev'i, miktarı, fiyatı ve tutarı;
-14/10/2021 tarihli ve 7338 sayılı Kanunun 22 nci maddesiyle bu fıkranın birinci cümlesinde yer alan “tasdik
-raporunu zamanında ibraz etmeyen mükellefler tasdike konu hakdan yararlanamazlar.” ibaresi “tasdik
-raporunun zamanında ibrazı şarttır.” şeklinde değiştirilmiştir.
-59
-
-5. (Değişik: 4/12/1985-3239/19 md.) Satılan malların teslim tarihi ve irsaliye
+5. (Değişik: 4/12/1985-3239/19 md.) Satılan malların teslim tarihi ve irsaliye
 numarası, (Malın alıcıya teslim edilmek üzere satıcı tarafından taşındığı veya taşıttırıldığı
 hallerde satıcının, teslim edilen malın alıcı tarafından taşınması veya taşıttırılması halinde
 alıcının taşınan veya taşıttırılan mallar için sevk irsaliyesi düzenlemesi ve taşıtta
@@ -35,7 +30,8 @@ ve bedel ile ilgili bilgiler hariç olmak üzere, bu madde hükmü ile 231 inci 
 uygulanır. İrsaliyelerde malın nereye ve kime gönderildiği ayrıca belirtilir.
 Şu kadar ki nihai tüketicilerin tüketim amacıyla perakende olarak satın aldıkları
 malları kendilerinin taşıması veya taşıttırması halinde bu mallara ait fatura veya perakende
-satış fişinin bulunması şartıyla sevk irsaliyesi aranmaz.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

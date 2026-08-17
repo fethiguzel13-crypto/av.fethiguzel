@@ -11,7 +11,8 @@ wordCount: 4270
 
 ---
 
-Madde 1480 - (1) Sigortacı, zarar görene ödeyeceği sigorta tazminatını, sigorta sözleşmesinden doğan alacakları ile takas edemez.
+MADDE 1480- (1) Sigortacı, zarar görene ödeyeceği sigorta tazminatını, sigorta
+sözleşmesinden doğan alacakları ile takas edemez.
 
 ---
 

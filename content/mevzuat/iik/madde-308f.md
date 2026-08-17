@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**Konkordatonun tamamen feshi**
+**Konkordatonun tamamen feshi:**
 
 ---
 
@@ -17,7 +17,8 @@ olan mahkemeden isteyebilir.
 Konkordatonun tamamen feshi kararı kesinleştiğinde durum 288 inci madde uyarınca
 ilân edilir ve ilgili yerlere bildirilir.
 308 inci madde hükmü bu hâlde de uygulanır.
-Konkordatoda harç, vergi istisnaları ve teşvik belgeleri:
+
+---
 
 ### Akademik Yorum ve Analiz
 

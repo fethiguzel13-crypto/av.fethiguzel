@@ -12,7 +12,8 @@ wordCount: 4264
 ---
 
 Madde 295 – (Mülga:2/3/2024-7499/21 md.)
-Temyiz isteminin kabule değer sayılmamasından dolayı hükmü veren
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Menkul malları koruyacak olanların mecburiyet ve mesuliyetleri**
+**Menkul malları koruyacak olanların mecburiyet ve mesuliyetleri:**
 
 ---
 
@@ -18,6 +18,8 @@ Bu mecburiyeti yerine getirmiyenler, haklarında yapılacak ceza takibinden baş
 malların kendilerine atfolunamıyacak bir sebepten dolayı telef veya zayi olduğunu ispat
 edemedikleri takdirde, geri verilmiyen malların değerleri tutarınca borçlu sayılıp bu kanun
 hükümleri gereğince takip olunurlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

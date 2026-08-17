@@ -7,25 +7,23 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Yürütme ve Kanun Değişiklik Tablosu**
+**Yürütme**
 
 ---
 
-MADDE 49 – (1) Bu Kanun hükümlerini Cumhurbaşkanı yürütür. *(Orijinal metinde "Bakanlar Kurulu" olan ibare, 700 sayılı KHK ile "Cumhurbaşkanı" olarak değiştirilmiştir.)*
-
----
-
-**5901 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUAT TABLOSU**
-
-| Değiştiren Kanun/KHK | Değiştirilen Maddeler | Yürürlük Tarihi |
-|---------------------|-----------------------|-----------------|
-| 6304 | m.28 | 18/05/2012 |
-| 6735 | m.12 | 13/08/2016 |
-| KHK/680 | m.29 | 06/01/2017 |
-| 7039 | m.10, 11, 12, 15, 20, 39, 43, Ek Madde 1 | 03/11/2017 |
-| 7072 | m.29 | 08/03/2018 |
-| KHK/700 | m.12, 14, 28, 29, 30, 46 | 09/07/2018 |
-| 7196 | m.27 | 24/12/2019 |
+MADDE 49 – (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+5901 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA
+ANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞE GİRİŞ
+TARİHLERİNİ GÖSTERİR TABLO
+Değiştiren Kanunun/
+KHK’nin veya İptal Eden5901 Sayılı Kanunun Değişen
+Yürürlüğe Giriş Tarihi
+Anayasa Mahkemesiveya İptal Edilen Maddeleri
+Kararının Numarası
+6304 28 18/5/2012
+6735 12 13/8/2016
+KHK/680 29 6/1/2017
+10, 11, 12, 15, 20, 39,
 
 ---
 

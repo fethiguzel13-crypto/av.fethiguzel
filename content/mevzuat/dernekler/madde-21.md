@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Yurt dışı yardımlar6**
+**Yurt dışı yardımlar**
 
 ---
 
@@ -17,6 +17,8 @@ içeriği yönetmelikte düzenlenir. Nakdî yardımların bankalar aracılığı
 (Ek fıkra:27/12/2020-7262/14 md.) Yurt dışına yapılacak yardımlar ise, yardım
 yapılmadan önce dernekler tarafından mülki idare amirliğine bildirilir. Bildirimin şekli ve
 içeriği ile yurt dışına yapılacak yardımlara ilişkin usul ve esaslar yönetmelikte düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

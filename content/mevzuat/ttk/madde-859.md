@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**IV
-- Yük senedi**
+**IV - Yük senedi**
 
 ---
 
-Madde 859 - (1) Taşıma senedi düzenlenmemişse, gönderenin istemi üzerine taşıyıcı, eşya ve taşıma hakkında yeterli bilgileri içeren bir yük senedi imzalayıp gönderene vermek zorundadır.
+MADDE 859- (1) Taşıma senedi düzenlenmemişse, gönderenin istemi üzerine
+taşıyıcı, eşya ve taşıma hakkında yeterli bilgileri içeren bir yük senedi imzalayıp gönderene
+vermek zorundadır.
 
 ---
 

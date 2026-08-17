@@ -20,6 +20,8 @@ mülkiyetinde olup doğrudan vakfedilen veya mevcut olup olmadığına bakılmak
 kaynaklarından inşa edilmiş, onarılmış veya ilaveler yapılmak suretiyle katkı sağlanmış vakıf
 kültür varlıkları, vakıf yoluyla meydana gelmiş sayılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

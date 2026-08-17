@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**Madde 547**
+**b. Sözleşmeden dönme yolu ile**
 
 ---
 
-Madde 547 - Miras sözleşmesi gereğinc e sağl araras ı edimleri ist eme hakkı bulunan taraf, bu edimlerin sözleşmeye uygun olarak yerine getirilmemesi v eya güvenceye bağlanmaması hâlinde borçlar hukuku kuralları uyarınca sözleşmeden dönebilir.
+Madde 547- Miras sözleşmesi gereğince sağlararası edimleri isteme hakkı bulunan taraf,
+bu edimlerin sözleşmeye uygun olarak yerine getirilmemesi veya güvenceye bağlanmaması
+hâlinde borçlar hukuku kuralları uyarınca sözleşmeden dönebilir.
 
 ---
 

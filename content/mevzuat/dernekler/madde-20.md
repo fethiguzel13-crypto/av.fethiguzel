@@ -19,6 +19,8 @@ Mülkî idare amirinin kararı yirmidört saat içinde görevli hâkimin onayın
 kararını el koymadan itibaren kırksekiz saat içinde açıklar; aksi halde, el koyma kendiliğinden
 kalkar. Hâkim kararı, mülkî idare amiri tarafından dernek yöneticilerine yazıyla duyurulur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

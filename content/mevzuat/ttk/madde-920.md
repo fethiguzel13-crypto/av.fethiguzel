@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4277
 ---
 
-**III
-- Ücretin muacceliyeti**
+**III - Ücretin muacceliyeti**
 
 ---
 
-Madde 920 - (1) Eşyanın, taşıyıcıya veya taşıyana teslimi üzerine, komisyoncunun ücreti ödenir.
+MADDE 920- (1) Eşyanın, taşıyıcıya veya taşıyana teslimi üzerine, komisyoncunun
+ücreti ödenir.
 
 ---
 

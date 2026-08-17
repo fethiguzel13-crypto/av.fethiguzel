@@ -11,7 +11,9 @@ wordCount: 4305
 
 ---
 
-Madde 300 - (1) Şirketin net varlığı, şirket sözleşmesine veya sonradan verilece k karara göre, tasfiye memurları tarafından dağıtılır. Sözleşmede aksine hüküm veya ortakların kararı bulunmadığı takdirde dağıtma para olarak yapılır.
+MADDE 300- (1) Şirketin net varlığı, şirket sözleşmesine veya sonradan verilecek
+karara göre, tasfiye memurları tarafından dağıtılır. Sözleşmede aksine hüküm veya ortakların
+kararı bulunmadığı takdirde dağıtma para olarak yapılır.
 
 ---
 

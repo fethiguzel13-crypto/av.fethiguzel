@@ -11,7 +11,7 @@ wordCount: 4263
 
 ---
 
-Madde 584 - Eşlerden biri mahkemece verilmiş bir ayrılık kararı olmadıkça veya
+MADDE 584- Eşlerden biri mahkemece verilmiş bir ayrılık kararı olmadıkça veya
 yasal olarak ayrı yaşama hakkı doğmadıkça, ancak diğerinin yazılı rızasıyla kefil olabilir; bu
 rızanın sözleşmenin kurulmasından önce ya da en geç kurulması anında verilmiş olması
 şarttır.

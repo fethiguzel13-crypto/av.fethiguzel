@@ -37,7 +37,7 @@ kişiler ile bunlara fon sağlayanlar arasındaki ilişkiler genel hükümlere t
 formunu imzalayan gerçek ve tüzel kişiler bilgi formunda yer alan yanlış, yanıltıcı veya eksik
 bilgilerden kaynaklanan zararlardan müteselsilen sorumludur.
 
-Kripto varlık hizmet sağlayıcıları ve kripto varlıklara ilişkin hükümler
+---
 
 ### Akademik Yorum ve Analiz
 

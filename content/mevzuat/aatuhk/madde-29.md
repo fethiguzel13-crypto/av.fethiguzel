@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**Hükümsüz sayılan diğer tasarruflar**
+**Hükümsüz sayılan diğer tasarruflar:**
 
 ---
 
@@ -21,6 +21,8 @@ tasarruflardan aşağıda belirtilenler hükümsüzdür:
 2. Borca karşılık para veya mütat ödeme vasıtalarından gayrı bir suretle yapılan
 ödemeler,
 3. Vadesi gelmemiş bir borç için yapılan ödemeler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

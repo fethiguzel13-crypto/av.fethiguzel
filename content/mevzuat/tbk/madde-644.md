@@ -11,7 +11,7 @@ wordCount: 4262
 
 ---
 
-Madde 644 - Ortaklığın sona ermesi hâlinde tasfiye, yönetici olmayan ortaklar da
+MADDE 644- Ortaklığın sona ermesi hâlinde tasfiye, yönetici olmayan ortaklar da
 dâhil olmak üzere, bütün ortakların elbirliğiyle yapılır. Ancak, ortaklık sözleşmesinde,
 ortaklardan biri tarafından kendi adına ve ortaklık hesabına belirli bazı işlemlerin yapılması
 öngörülmüşse, bu ortak, ortaklığın sona ermesinden sonra da o işlemleri tek başına yapmak ve

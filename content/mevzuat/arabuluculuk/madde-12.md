@@ -15,6 +15,8 @@ MADDE 12 – (1) Arabuluculardan sicile kayıtlarında giriş aidatı ve her yı
 aidat alınır.
 (2) Giriş aidatı ve yıllık aidatlar genel bütçeye gelir kaydedilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

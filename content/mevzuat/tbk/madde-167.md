@@ -12,7 +12,7 @@ wordCount: 4260
 
 ---
 
-Madde 167 - Aksi kararlaştırılmadıkça veya borçlular arasındaki hukuki ilişkinin
+MADDE 167- Aksi kararlaştırılmadıkça veya borçlular arasındaki hukuki ilişkinin
 niteliğinden anlaşılmadıkça, borçlulardan her biri, alacaklıya yapılan ifadan, birbirlerine karşı
 eşit paylarla sorumludurlar.
 Kendisine düşen paydan fazla ifada bulunan borçlunun, ödediği fazla miktarı diğer

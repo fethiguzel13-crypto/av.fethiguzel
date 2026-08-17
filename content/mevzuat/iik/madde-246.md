@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Aile yurtları**
+**Aile yurtları:**
 
 ---
 
 Madde 246 – Aile yurtları hakkındaki Kanunu Medeni hükümleri mahfuzdur.
-VI. PARALARIN PAYLAŞTlRlLMASl
+
+---
 
 ### Akademik Yorum ve Analiz
 

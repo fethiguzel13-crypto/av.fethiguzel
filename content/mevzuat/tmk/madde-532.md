@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**2. Resmî vasiyetnam e
+**2. Resmî vasiyetname
 a. Düzenlenmesi**
 
 ---
 
-Madde 532 - Resmî va siyetn ame, iki tanığın katılmasıyla resmî memur tarafından düzenlenir. Resmî memur, sulh hâkimi, noter veya ka nunla kendisine bu yetki verilmiş diğer bir görevli olabilir.
+Madde 532 - Resmî vasiyetname, iki tanığın katılmasıyla resmî memur tarafından düzenlenir.
+Resmî memur, sulh hâkimi, noter veya kanunla kendisine bu yetki verilmiş diğer bir görevli
+olabilir.
 
 ---
 

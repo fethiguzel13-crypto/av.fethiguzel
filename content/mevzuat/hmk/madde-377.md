@@ -11,7 +11,7 @@ wordCount: 4305
 
 ---
 
-MADDE 377- (1) Yargılamanın iadesi süresi; 65
+MADDE 377- (1) Yargılamanın iadesi süresi;
 a) Mahkemenin kanuna uygun olarak teşekkül etmemiş olduğunun öğrenildiği,
 b) 375 inci maddenin birinci fıkrasının (b) ve (c) bentlerinde öngörülen hâllerde,
 kararın davalıya veya gerçek vekil veya temsilciye tebliğ edildiği; alacaklı veya davalı yerine
@@ -28,6 +28,8 @@ tarihten itibaren üç ay ve her hâlde iade talebine konu olan hükmün kesinle
 itibaren on yıldır.
 (2) 375 inci maddenin birinci fıkrasının (ı) bendinde yazılan sebepten dolayı
 yargılamanın yenilenmesi süresi ilama ilişkin zamanaşımı süresi kadardır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,7 @@ wordCount: 4303
 
 ---
 
-Madde 178 - Cayma parası kararlaştırılmışsa, taraflardan her biri sözleşmeden
+MADDE 178- Cayma parası kararlaştırılmışsa, taraflardan her biri sözleşmeden
 caymaya yetkili sayılır; bu durumda parayı vermiş olan cayarsa verdiğini bırakır; almış olan
 cayarsa aldığının iki katını geri verir.
 

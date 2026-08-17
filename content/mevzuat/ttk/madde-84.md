@@ -7,13 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**III
-- Uyuşmazlıklarda suret alınması**
+**III - Uyuşmazlıklarda suret alınması**
 
 ---
 
-Madde 84 - (1) Bir hukuki uyuşmazlıkta ticari defterler ibraz edilmişse, defterlerin 24 1/7/2022 tarihli ve 7417 sayılı Kanunun 55 inci maddesiyle, bu fıkrada yer alan ‘’onbeş’’ ibaresi ‘’otuz’’ şeklinde değişti rilmiştir.
-uyuşmazlıkla ilgili kısımları tarafların katılımı ile incelenir. Gerekli görül ürse, defterlerin ilgili yapraklarından suret alınır. (Mülga son cümle: 26/6/2012 - 6335/43 md.) (…) IV - Defterlerin tümüyle incelenmesi
+MADDE 84- (1) Bir hukuki uyuşmazlıkta ticari defterler ibraz edilmişse, defterlerin
+uyuşmazlıkla ilgili kısımları tarafların katılımı ile incelenir. Gerekli görülürse, defterlerin
+ilgili yapraklarından suret alınır. (Mülga son cümle: 26/6/2012-6335/43 md.) (…)
 
 ---
 

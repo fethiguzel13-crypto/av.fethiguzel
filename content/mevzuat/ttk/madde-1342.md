@@ -7,12 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**II
-- Kişisel sorumlulukta fon kurulması**
+**II - Kişisel sorumlulukta fon kurulması**
 
 ---
 
-Madde 1342 - (1) 1976 ve 1992 tarihli sözleşmeler uyarınca sorumluluğunu sınırlama hakkına sahip olan bir tüzel kişinin veya adi şirketin yahut donatma iştirakinin adına fon kurulmazsa, tüzel kişinin veya adi şirketin yahut donatma iştirakinin o borcundan ötürü ş ahsen sorumlu tutulabilecek her kişi, fon kurarak sorumluluğunu sınırlayabilir. Fonun, toplam sorumluluk sınırı üzerinden kurulması şarttır; fon kuran kişinin, tüzel kişideki veya adi şirketteki yahut donatma iştirakindeki pay oranı dikkate alınmaz. Bu mad de uyarınca kurulan bir fon, 1976 ve 1992 tarihli sözleşmeler uyarınca kurulmuş bir fon hükmündedir.
+MADDE 1342- (1) 1976 ve 1992 tarihli sözleşmeler uyarınca sorumluluğunu
+sınırlama hakkına sahip olan bir tüzel kişinin veya adi şirketin yahut donatma iştirakinin adına
+fon kurulmazsa, tüzel kişinin veya adi şirketin yahut donatma iştirakinin o borcundan ötürü
+şahsen sorumlu tutulabilecek her kişi, fon kurarak sorumluluğunu sınırlayabilir. Fonun,
+toplam sorumluluk sınırı üzerinden kurulması şarttır; fon kuran kişinin, tüzel kişideki veya adi
+şirketteki yahut donatma iştirakindeki pay oranı dikkate alınmaz. Bu madde uyarınca kurulan
+bir fon, 1976 ve 1992 tarihli sözleşmeler uyarınca kurulmuş bir fon hükmündedir.
 
 ---
 

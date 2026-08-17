@@ -7,14 +7,19 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Amaç**
+**VAKIFLAR KANUNU
+BİRİNCİ KISIM
+Amaç, Kapsam ve Tanımlar
+Amaç**
 
 ---
 
 MADDE 1 – Bu Kanun; vakıfların yönetimi, faaliyetleri ve denetimine, yurt içi ve
 yurt dışındaki taşınır ve taşınmaz vakıf kültür varlıklarının tescili, muhafazası, onarımı ve
 yaşatılmasına, vakıf varlıklarının ekonomik şekilde işletilmesi ve değerlendirilmesinin
-sağlanmasına ilişkin usûl ve esasların belirlenmesi (…)2 amacıyla hazırlanmıştır.
+sağlanmasına ilişkin usûl ve esasların belirlenmesi (…)amacıyla hazırlanmıştır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -12,7 +12,7 @@ a. İş verme**
 
 ---
 
-Madde 411 - İşçi, sözleşme gereğince yalnız bir işveren için sadece parça başına
+MADDE 411- İşçi, sözleşme gereğince yalnız bir işveren için sadece parça başına
 veya götürü iş yapmayı üstlenmişse işveren, ona yeterli iş vermekle yükümlüdür.
 İşveren, kendi kusuru olmaksızın sözleşmede öngörülen parça başına veya götürü iş
 sağlayamayacak durumda bulunduğu veya işletme koşulları geçici olarak gerektirdiği takdirde

@@ -7,11 +7,13 @@ lastReviewed: "2026-07-27"
 wordCount: 3308
 ---
 
-**Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.**
+**D. Devlet**
 
 ---
 
-Madde 501 - Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
+Madde 501- Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
+
+---
 
 ### Akademik Yorum ve Analiz
 

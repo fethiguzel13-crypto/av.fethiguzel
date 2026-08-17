@@ -11,7 +11,7 @@ wordCount: 4260
 
 ---
 
-Madde 587 - Birden çok kişi, aynı borca birlikte kefil oldukları takdirde, her biri
+MADDE 587- Birden çok kişi, aynı borca birlikte kefil oldukları takdirde, her biri
 kendi payı için adi kefil gibi, diğerlerinin payı için de kefile kefil gibi sorumlu olur.
 Borçluyla birlikte veya kendi aralarında müteselsil kefil olarak yükümlülük altına
 giren kefillerden her biri, borcun tamamından sorumlu olur. Ancak, bir kefil, kendisiyle

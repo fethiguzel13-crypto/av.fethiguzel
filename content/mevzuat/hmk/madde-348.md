@@ -18,6 +18,8 @@ başvurabilir. İstinaf yoluna asıl başvuran taraf, buna karşı iki hafta iç
 mahkemesi tarafından esasa girilmeden reddedilirse, katılma yolu ile başvuranın talebi de
 reddedilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

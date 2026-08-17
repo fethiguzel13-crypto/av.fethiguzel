@@ -15,8 +15,7 @@ MADDE 35/C- (Ek:26/6/2024-7518/4 md.)
 (1) Kripto varlık hizmet sağlayıcıları ile bunlarda işlem yapmak isteyen müşteriler
 arasında imzalanan sözleşmeler, yazılı şekilde veya uzaktan iletişim araçlarının kullanılması
 suretiyle mesafeli olarak ya da mesafeli olsun olmasın Kurulun yazılı şeklin yerine
-
-geçebileceğini belirlediği ve bir bilişim veya elektronik haberleşme cihazı üzerinden
+geçebileceğini belirlediği ve bir bilişim veya elektronik haberleşme cihazı üzerinden
 gerçekleştirilecek ve müşteri kimliğinin doğrulanmasına imkân verecek yöntemler yoluyla
 kurulabilir ve buna ilişkin usul ve esaslar Kurul tarafından belirlenir. Kurul, kripto varlık
 hizmet sağlayıcılarla müşterileri arasında sözleşmelerin düzenlenmesine, kapsamına,
@@ -56,8 +55,7 @@ düzenlenen yatırımcı tazmin hükümlerine tabi değildir.
 (5) Müşterilerin kripto varlık transferlerinin gerçekleştirildiği cüzdanlara ve fon
 transferlerinin gerçekleştirildiği hesaplara ilişkin kayıtlar kripto varlık hizmet sağlayıcıları
 tarafından güvenli, erişilebilir ve takip edilebilir şekilde tutulur. Tüm işlem kayıtlarının
-
-bütünlüğü, doğruluğu ve gizliliği sağlanır. Müşterilerin kripto varlık transfer işlemlerinde
+bütünlüğü, doğruluğu ve gizliliği sağlanır. Müşterilerin kripto varlık transfer işlemlerinde
 Kurul ve Mali Suçları Araştırma Kurulu Başkanlığı tarafından yapılan düzenlemelere uyulur.
 Bu düzenlemelerde transfer mesajlarında gönderici ve alıcıya ilişkin olarak yer alması
 öngörülen bilgi ve veriler kripto varlık hizmet sağlayıcıları tarafından yine düzenlemelerde
@@ -91,7 +89,8 @@ ticari iletişimle ilgili olarak Kurulca belirlenen esaslara uyar.
 (10) Kripto varlık hizmet sağlayıcılara icra edecekleri faaliyetleri gösteren yetki
 belgesi verilir. Bankalar için Bankacılık Düzenleme ve Denetleme Kurumunun uygun görüşü
 aranır.
-Ortak hükümler
+
+---
 
 ### Akademik Yorum ve Analiz
 

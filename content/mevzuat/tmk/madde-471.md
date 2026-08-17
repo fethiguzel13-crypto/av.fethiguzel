@@ -7,11 +7,11 @@ lastReviewed: "2026-07-27"
 wordCount: 3640
 ---
 
-**(Değişik:2/3/2024-7499/8 md.)**
+**B. Hükümlülerde**
 
 ---
 
-Madde 471 - (Değişik:2/3/2024-7499/8 md.)
+Madde 471- (Değişik:2/3/2024-7499/8 md.)
 Özgürlüğü bağlayıcı cezaya mahkûmiyet sebebiyle kısıtlı bulunan kişi üzerindeki vesayet,
 hapis hâlinin hukuka uygun bir şekilde sona ermesiyle kendiliğinden ortadan kalkar.
 Hapis hâlinin devamı süresince aşağıdaki şartların varlığı hâlinde vesayet sona
@@ -21,7 +21,8 @@ kararları bakımından kişinin isteminin bulunması,
 2. Toplam beş yıl veya daha fazla kesinleşmiş hapis cezasının infazına bağlı olarak verilen
 kısıtlama kararları bakımından kişinin talebi üzerine kişiliğinin veya malvarlığının korunması
 sebebinin ortadan kalkması.
-C. Diğer kısıtlılarda
+
+---
 
 ### Akademik Yorum ve Analiz
 

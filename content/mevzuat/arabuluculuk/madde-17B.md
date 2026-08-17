@@ -7,15 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**uyuşmazlıklarda arabuluculuk**
+**Taşınmazın devrine veya taşınmaz üzerinde sınırlı ayni hak kurulmasına ilişkin
+uyuşmazlıklarda arabuluculuk**
 
 ---
 
 MADDE 17/B- (Ek:28/3/2023-7445/34 md.)
-3 12/10/2017 tarihli ve 7036 sayılı Kanunun 23 üncü maddesiyle, bu fıkrada yer alan “taraflar veya vekillerince” ibareleri “taraflar, kanuni temsilcileri veya avukatlarınca” şeklinde değiştirilmiştir. 4 28/3/2023 tarihli ve 7445 sayılı Kanunun 32 nci maddesiyle bu fıkrada yer alan “yapar.” ibaresi “yapar ve taraflar hazır değilse her türlü iletişim vasıtasını kullanarak hazır bulunmayan tarafları bilgilendirir.” şeklinde değiştirilmiştir.
-
-
-(1) Taşınmazın devrine veya taşınmaz üzerinde sınırlı ayni hak kurulmasına ilişkin
+(1) Taşınmazın devrine veya taşınmaz üzerinde sınırlı ayni hak kurulmasına ilişkin
 uyuşmazlıklar arabuluculuğa elverişlidir.
 (2) Birinci fıkra kapsamındaki uyuşmazlıklarda, tarafların yazılı olarak kararlaştırması
 ve arabulucunun bu kararı tutanak altına alması halinde arabulucunun talebiyle, arabuluculuk
@@ -38,7 +36,8 @@ hususlar hakkında 18 inci madde hükmü uygulanır.
 edilebilirlik şerhi verilmesinden sonra tapu müdürlüğünden tescil talebinde bulunabilir. Tapu
 müdürlüğünce taşınmaza ilişkin mevzuatta öngörülen gerekli inceleme ve değerlendirme
 yapıldıktan sonra resmi senet düzenlenmeksizin tescil talebi yerine getirilir.
-Tarafların anlaşması5
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**Köylerde haciz**
+**Köylerde haciz:**
 
 ---
 
@@ -17,6 +17,8 @@ haciz varakası üzerine köy ihtiyar kurullarınca yapılır.
 Bakanlığınca tespit ve ilan edilecek vergiler için muhtarın veya ihtiyar kurulu üyelerinden
 birinin huzuriyle tahsil dairesine menkul mal haczi yaptırmaya o mahallin en büyük mal
 memuru yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

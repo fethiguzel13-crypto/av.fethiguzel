@@ -23,6 +23,8 @@ yararlanma hakları devam eder. Bu haklar için sınır kâğıdına şerh konul
 d) Çizilen sınırların geçtiği yerlerin bilinen adları sınır kâğıdına yazılır. Ayrıca yetkili
 fen elemanı tarafından düzenlenen kroki sınır tespit tutanağına eklenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

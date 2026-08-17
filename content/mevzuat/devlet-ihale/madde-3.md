@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**İhale yetkilisi**
+**İhale yetkilisi:**
 
 ---
 
 Madde 3 – Bu Kanunda yazılı işleri yaptırmaya ve ihaleye, idarelerin ita amirleri
 yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

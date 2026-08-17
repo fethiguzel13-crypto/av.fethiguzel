@@ -11,7 +11,7 @@ wordCount: 4307
 
 ---
 
-Madde 352 - Kiracı, kiralananın teslim edilmesinden sonra, kiraya verene karşı,
+MADDE 352- Kiracı, kiralananın teslim edilmesinden sonra, kiraya verene karşı,
 kiralananı belli bir tarihte boşaltmayı yazılı olarak üstlendiği hâlde boşaltmamışsa kiraya
 veren, kira sözleşmesini bu tarihten başlayarak bir ay içinde icraya başvurmak veya dava
 açmak suretiyle sona erdirebilir.

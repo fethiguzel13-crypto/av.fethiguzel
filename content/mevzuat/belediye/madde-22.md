@@ -28,6 +28,8 @@ Oylama gizli, işaretle veya ad okunarak yapılır. Oy verme kabul, ret veya çe
 Kararlar, meclis başkanı ve kâtip üyeler tarafından imzalanır ve bir sonraki toplantıda
 üyelere dağıtılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

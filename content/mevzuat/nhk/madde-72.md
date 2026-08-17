@@ -7,14 +7,21 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**Diğer kanunların değiştirilen hükümleri**
+**DOKUZUNCU KISIM
+Noterlik İşlemlerinin Şekli
+BİRİNCİ BÖLÜM
+Noterlik İşlemlerinde Uyulması Gerekli Genel Hükümler
+Hukuki işlemler ve ilgilileri:**
 
 ---
 
-MADDE 72- (1) 1774 sayılı Kanunun 6 ncı maddesinin (c) bendinden sonra gelmek üzere
-"tarafından örneğine uygun kimlik belgesi doldurularak üç gün içinde genel kolluk örgütüne
-verilmesi zorunludur." ibaresi eklenmiş ve aynı maddenin ikinci fıkrasında yer alan "olanlar ile (d)
-bendinde belirtilen yerlerde kalanların" ibaresi "olanların" şeklinde değiştirilmiştir.
+Madde 72 – Noterler, ilgililerin istemi üzerine, hukuki işlemleri belgelendirirler.
+Belgelendirme, bu kısım hükümleri ile diğer kanunlar ve yönetmelikte gösterilen şekilde yapılır.
+İlgili, belgelendirme isteminde bulunan kişidir.
+Noter, iş yaptıracak kimselerin kimlik, adres ve yeteneğini ve gerçek isteklerini tamamen
+öğrenmekle yükümlüdür.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,13 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**Araçların teknik şartlara uygunluğu**
-
----
-
 Madde 30 – Araçların, esasları yönetmelikte belirtilen şekilde ve tarzda teknik şartlara
 uygun durumda bulundurulması zorunludur.
-
 a) (Değişik: 21/5/1997-4262/4 md.) Servis freni, lastikleri, dış ışık donanımından
 yakını ve uzağı gösteren ışıklar ile park, fren ve dönüş ışıkları noksan, bozuk veya teknik
 şartlara aykırı olan araçları kullanan sürücüler 1 800 000 lira para cezası,
@@ -24,10 +19,12 @@ eşya ve çıkıntıları olan araçları kullananlarla, karayolunu kullananlar 
 gürültü çıkaran araçları kullanan sürücüler 3 600 000 lira para cezası,
 İle cezalandırılırlar.
 Bu maddenin (a) bendinde belirtilen eksiklik ve bozuklukları bulunan araçlar, teknik
-şartlara uygun duruma getirilinceye kadar trafikten men edilebilir. (b)
+şartlara uygun duruma getirilinceye kadar trafik zabıtasınca trafikten men edilebilir. (b)
 bendindeki şartlara uymayan ve uyumsuzluğu trafik emniyetini tehlikeye düşürmeyecek nitelikte
 olan araçların şartlara uygun duruma getirilmesi ihtar olunur. İhtarda verilen süre için teknik
 şartlara uygun duruma getirilmediğinin tespiti halinde araç trafik zabıtasınca trafikten men edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

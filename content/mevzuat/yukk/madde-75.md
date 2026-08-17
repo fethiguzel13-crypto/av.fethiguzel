@@ -29,6 +29,8 @@ kişiye tebliğ edilir. Mülakat tarihleri arasında en az on gün bulunur.
 yapılan kişi bilgilendirilir. Her mülakatın sonunda tutanak düzenlenir, bir örneği mülakat
 yapılan kişiye verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

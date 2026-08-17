@@ -12,9 +12,8 @@ I. Yayımlatma hakkının geçişi ve sorumluluk**
 
 ---
 
-Madde 489 - Yayım sözleşmesiyle eser sahibinin hakları, sözleşmenin ifasının
+MADDE 489- Yayım sözleşmesiyle eser sahibinin hakları, sözleşmenin ifasının
 gerektirdiği ölçüde ve süreyle yayımcıya geçer.
-
 Yayımlatan, yayımcıya karşı, sözleşmenin kurulduğu anda eseri yayımlatma hakkının
 bulunmamasından sorumlu olduğu gibi, eser korunmakta ise, telif hakkının olmamasından da
 sorumludur.

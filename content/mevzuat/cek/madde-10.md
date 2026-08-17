@@ -13,6 +13,8 @@ wordCount: 5350
 
 MADDE 10 – (1) Bu Kanun yayımı tarihinde yürürlüğe girer.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

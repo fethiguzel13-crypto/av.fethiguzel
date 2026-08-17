@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**Yayımlandığı Düstur : Tertip: 3 Cilt: 15 Sayfa: 575**
+**POLİS VAZİFE VE SALȂHİYET KANUNU**
 
 ---
 
@@ -15,6 +15,9 @@ Madde 1 – Polis, asayişi amme, şahıs, tasarruf emniyetini ve mesken masuniy
 korur. Halkın ırz, can ve malını muhafaza ve ammenin istirahatini temin eder.
 Yardım istiyenlerle yardıma muhtaç olan çocuk, alil ve acizlere muavenet eder.
 Kanun, Cumhurbaşkanlığı kararnameleri ve ilgili mevzuatın kendisine verdiği vazifeleri
+yapar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

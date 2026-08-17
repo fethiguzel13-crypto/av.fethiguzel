@@ -20,6 +20,8 @@ maksadıyla bir kişinin şeref veya saygınlığına zarar verecek nitelikteki 
 açıklanacağı veya isnat edileceği tehdidinde bulunulması halinde de birinci fıkraya göre
 cezaya hükmolunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

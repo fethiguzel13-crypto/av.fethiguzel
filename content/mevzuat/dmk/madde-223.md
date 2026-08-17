@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
-**Öğrenci okutma şartlarını düzenliyen yönetmelikler**
+**Öğrenci okutma şartlarını düzenliyen yönetmelikler:**
 
 ---
 
@@ -20,6 +20,8 @@ Devlet Personel Başkanlığının birlikte hazırlıyacakları yönetmeliklerde
 Öğrenimi sırasında Devlet hesabına okuma hakkını kaybeden veya öğrenim kurumunu
 terk edenler için kurumlarınca yapılmış masraflar kendilerinden faizi ile birlikte tahsil olunur.
 Özel kanun ve yüklenme senedi hükümleri saklıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

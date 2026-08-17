@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4277
 ---
 
-**Takip talebi**
+**BEŞİNCİ BAP
+I – TAŞINIR REHNİNİN PARAYA ÇEVRİLMESİ
+Takip talebi:**
 
 ---
 
@@ -16,6 +18,8 @@ Alacağı taşınır rehni ile sağlanmış alacaklı, takip talebinde 58 inci m
 hususlardan başka merhunun ne olduğunu ve merhun üçüncü şahıs tarafından verilmiş veya
 merhunun mülkiyeti üçüncü şahsa geçmiş ise onun ve merhun üzerinde sonra gelen rehin
 hakkı mevcut ise bu hakka sahip olan şahsın ismini de bildirir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

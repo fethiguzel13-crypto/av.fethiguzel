@@ -19,7 +19,8 @@ egemenlik alameti olarak kullanılan her türlü işaret hakkında uygulanır.
 cezalandırılır.
 (3) Bu maddede tanımlanan suçların yabancı bir ülkede bir Türk vatandaşı tarafından
 işlenmesi halinde, verilecek ceza üçte bir oranında artırılır.
-Türk Milletini, Türkiye Cumhuriyeti Devletini, Devletin kurum ve organlarını
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**VII
-- Sonraki komisyoncu**
+**VII - Sonraki komisyoncu**
 
 ---
 
-Madde 924 - (1) Taşımaya, taşıyıcıdan başka, bir de taşıma işleri komisyoncusu k atılıyorsa ve eşyayı bu komisyoncu teslim edecekse, komisyoncu hakkında taşıma sözleşmesine ilişkin 892 nci madde hükmü kıyas yoluyla uygulanır.
+MADDE 924- (1) Taşımaya, taşıyıcıdan başka, bir de taşıma işleri komisyoncusu
+katılıyorsa ve eşyayı bu komisyoncu teslim edecekse, komisyoncu hakkında taşıma
+sözleşmesine ilişkin 892 nci madde hükmü kıyas yoluyla uygulanır.
 
 ---
 

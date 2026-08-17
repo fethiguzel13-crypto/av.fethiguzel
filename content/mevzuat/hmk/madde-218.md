@@ -20,6 +20,8 @@ engel olunması hâlinde hâkim tarafından, engel olan kişi hakkında sebep ol
 beşyüz Türk Lirasından beşbin Türk Lirasına kadar disiplin para cezasına hükmolunur.
 Gerektiğinde zor kullanılmasına da karar verilebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

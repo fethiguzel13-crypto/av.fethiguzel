@@ -36,8 +36,9 @@ müebbet hapis cezası verilir.
 ceza verilir.
 (7) Yukarıdaki fıkralarda yazılı fiillerin Türkiye Devleti ile aralarında savaş için ittifak
 veya iştirak olan devlet zararına olarak Türkiye'de işlenmesi halinde de bu madde hükümleri
+uygulanır.
 
-uygulanır.
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**Delil ve olayın geç bildirilmesi**
+**(4) (Mülga: 25/5/2005 - 5353/29 md.)
+Delil ve olayın geç bildirilmesi**
 
 ---
 
 Madde 207 – (1) Delilin ortaya konulması istemi, bunun veya ispat edilmek istenen
 olayın geç bildirilmiş olması nedeniyle reddedilemez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

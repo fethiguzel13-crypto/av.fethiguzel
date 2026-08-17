@@ -7,13 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**Haciz yapan memurun yetkisi**
+**Haciz yapan memurun yetkisi:**
 
 ---
 
 Madde 80 – (Değişik: 3/7/1940-3890/1 md.)
-
-İcra memuru haczi kendi yapabileceği gibi yardımcı veya katiplerinden birinede
+İcra memuru haczi kendi yapabileceği gibi yardımcı veya katiplerinden birinede
 yaptırabilir.
 Borçlu haciz sırasında malın bulunduğu yerde bulunmaz ve hemen bulundurulması
 mümkün olmazsa haciz, gıyabında yapılır.
@@ -22,6 +21,8 @@ mecburdur. Bu yerler icabında zorla açtırılır.
 (Değişik: 18/2/1965-538/45 md.) Haczi yapan memur, borçlunun üzerinde para,
 kıymetli evrak, altın veya gümüş veya diğer kıymetli şeyleri sakladığını anlar ve borçlu
 bunları vermekten kaçınırsa, borçlunun şahsına karşı kuvvet istimal edilebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

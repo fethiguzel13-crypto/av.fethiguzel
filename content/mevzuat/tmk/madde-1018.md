@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**Madde 1018**
+**2. Taşınmaz lehine irtifaklarda**
 
 ---
 
-Madde 1018 - Taşınmaz lehine irtifakların tescil ve terkini hem yüklü, h em yararlanan taşınmazların sayfalarına kaydedilir.
+Madde 1018- Taşınmaz lehine irtifakların tescil ve terkini hem yüklü, hem yararlanan
+taşınmazların sayfalarına kaydedilir.
 
 ---
 

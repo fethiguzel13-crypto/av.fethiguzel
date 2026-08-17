@@ -15,6 +15,8 @@ MADDE 238- (1) Hâkim, yemin eden kimsenin beyanını dinleyip tutanağa geçiri
 yazılanları yüksek sesle huzurunda okur; beyanında ısrar edip etmediğini sorar ve verilen
 cevabı tutanağa kaydeder.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

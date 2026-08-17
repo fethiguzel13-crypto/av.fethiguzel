@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4286
 ---
 
-**İptal davası açılması**
+**İptal davası açılması:**
 
 ---
 
 Madde 24 – Amme borçlusunun bu kanunun 27, 28, 29 ve 30 uncu maddelerinde
 yazılı tasarruf ve muamelelerinin iptali için umumi mahkemelerde dava açılır ve bu davalara
 diğer işlere takdimen umumi hükümlere göre bakılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

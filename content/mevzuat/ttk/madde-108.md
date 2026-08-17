@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**IV
-- Yetkisizlik**
+**IV - Yetkisizlik**
 
 ---
 
-Madde 108 - (1) Acente, yetkisi olmaksızın veya yetki sınırlarını aşarak, müvekkili adına bir sözleşme yaparsa müvekkili bunu haber alır almaz icazet verebilir; vermediği
+MADDE 108- (1) Acente, yetkisi olmaksızın veya yetki sınırlarını aşarak, müvekkili
+adına bir sözleşme yaparsa müvekkili bunu haber alır almaz icazet verebilir; vermediği
 takdirde acente sözleşmeden kendisi sorumlu olur.
 
 ---

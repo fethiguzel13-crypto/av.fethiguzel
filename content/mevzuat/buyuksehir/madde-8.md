@@ -14,7 +14,7 @@ wordCount: 4283
 Madde 8- Büyükşehir içindeki alt yapı hizmetlerinin koordinasyon içinde yürütülmesi
 amacıyla büyükşehir belediye başkanı ya da görevlendirdiği kişinin başkanlığında,
 yönetmelikle belirlenecek kamu kurum ve kuruluşları ile özel kuruluşların temsilcilerinin
-katılacağı alt yapı koordinasyon merkezi kurulur. Büyükşehir ilçe (...)14 belediye başkanları
+katılacağı alt yapı koordinasyon merkezi kurulur. Büyükşehir ilçe (…)belediye başkanları
 kendi belediyesini ilgilendiren konuların görüşülmesinde koordinasyon merkezlerine üye
 olarak katılırlar. Alt yapı koordinasyon merkezi toplantılarına ayrıca gündemdeki konularla
 ilgili kamu kurumu niteliğindeki meslek kuruluşlarının (oda üst kuruluşu bulunan yerlerde üst
@@ -24,10 +24,9 @@ tarafından büyükşehir içinde yapılacak alt yapı yatırımları için kalk
 programlara uygun olarak yapılacak taslak programları birleştirerek kesin program hâline
 getirir. Bu amaçla, kamu kurum ve kuruluşları ile özel kuruluşlar alt yapı koordinasyon
 merkezinin isteyeceği coğrafî bilgi sistemleri dâhil her türlü bilgi ve belgeyi vermek
-sonra gelmek üzere “; bölge otoparkı, kapalı ve açık otoparklar yapmak, yaptırmak, işletmek, işlettirmek veya ruhsat vermek” ibaresi eklenmiştir. 11 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesiyle bu bende, “belirtilen hizmetlerden” ibaresinden sonra gelmek üzere “775 sayılı Gecekondu Kanununda belediyelere verilen yetkileri kullanmak,”ibaresi eklenmiştir. 12 12/11/2012 tarihli ve 6360 sayılı Kanunun 7 nci maddesiyle, bu bentte yer alan “beceri kursları açmak;” ibaresinden sonra gelmek üzere “mabetler ile” ibaresi eklenmiştir. 13 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “özürlüler” ibaresi “engelliler” şeklinde değiştirilmiştir. 14 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan “ve ilk kademe” ibaresi madde metninden çıkarılmıştır.
-
-
-zorundadırlar. Kesin programlarda birden fazla kamu kurum ve kuruluşu tarafından aynı anda
+sonra gelmek üzere “; bölge otoparkı, kapalı ve açık otoparklar yapmak, yaptırmak, işletmek,
+işlettirmek veya ruhsat vermek” ibaresi eklenmiştir.
+zorundadırlar. Kesin programlarda birden fazla kamu kurum ve kuruluşu tarafından aynı anda
 yapılması gerekenler ortak programa alınır. Ortak programa alınan alt yapı hizmetleri için
 belediye ve diğer bütün kamu kurum ve kuruluşlarının bütçelerine konulan ödenekler, alt yapı
 koordinasyon merkezi bünyesinde oluşturulacak alt yapı yatırım hesabına aktarılır.
@@ -47,7 +46,9 @@ Alt yapı koordinasyon merkezinin çalışma esas ve usulleri ile bu kurullara k
 kamu kurum ve kuruluş temsilcileri, Çevre ve Şehircilik Bakanlığı tarafından çıkarılacak
 yönetmelikle belirlenir. Çevre ve Şehircilik Bakanlığı, çıkarılacak bu yönetmeliğin, alt yapı
 yatırım hesabının kullanılması ve ödenek tahsisi ve aktarmasına ilişkin kısımları hakkında,
-Maliye Bakanlığı ve Devlet Plânlama Teşkilâtı Müsteşarlığının görüşünü alır.15
+Maliye Bakanlığı ve Devlet Plânlama Teşkilâtı Müsteşarlığının görüşünü alır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

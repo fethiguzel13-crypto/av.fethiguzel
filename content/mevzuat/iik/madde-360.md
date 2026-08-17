@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Haczedilen malların istinabe suretiyle satışı**
+**Haczedilen malların istinabe suretiyle satışı:**
 
 ---
 
 Madde 360 – Haczedilen mallar başka bir yerde bulunduğu takdirde satış, istinabe
 suretiyle yapılır. Artırma ve ihaleye mütedair ihtilaflar istinabe olunan icra dairesinin tabi
 bulunduğu icra mahkemesince hallolunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

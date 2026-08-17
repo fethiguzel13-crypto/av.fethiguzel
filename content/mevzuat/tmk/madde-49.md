@@ -7,16 +7,15 @@ lastReviewed: "2026-07-27"
 wordCount: 3621
 ---
 
-**Tüzel kişiler,**
+**C. Fiil ehliyeti
+I. Koşulu**
 
 ---
 
-Madde 49 - Tüzel kişiler,
-kanuna ve kuruluş belgelerine göre gerekli organlara sahip olmakla, fiil ehliyetini
-kazanırlar.
+Madde 49- Tüzel kişiler, kanuna ve kuruluş belgelerine göre gerekli organlara sahip olmakla,
+fiil ehliyetini kazanırlar.
 
-II.
-Kullanılması
+---
 
 ### Akademik Yorum ve Analiz
 

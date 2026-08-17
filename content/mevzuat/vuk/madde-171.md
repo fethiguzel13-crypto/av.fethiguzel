@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Maksat**
+**İKİNCİ KISIM
+Defter Tutma
+BİRİNCİ BÖLÜM
+Genel Esaslar
+Maksat:**
 
 ---
 
@@ -21,6 +25,8 @@ incelemek;
 5. (Değişik: 30/12/1980-2365/23 md.) Mükellefin hesap ve kayıtlarının yardımıyla
 üçüncü şahısların vergi karşısındaki durumlarını (emanet mahiyetindeki değerler dahil)
 kontrol etmek ve incelemek.
+
+---
 
 ### Akademik Yorum ve Analiz
 

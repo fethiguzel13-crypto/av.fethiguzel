@@ -7,12 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**Madde 272**
+**II. Kişisel mala ekleme**
 
 ---
 
-Madde 272 - Eşlerden birine sosyal güvenlik veya sosyal yardım kurumlarınca yapılmış olan toptan ödemeler veya iş gücünü n kay bı dolayısıyla ödenmiş olan tazminat, toptan ödeme veya tazminat yerine ilgili sosyal güvenlik veya sosyal y ardım kurumunca uygulanan usule göre ömür boyunca irat bağlanmış olsaydı, mal rejiminin sona erdiği tarihte bundan sonraki döneme
-ait iradın pe şin s ermay eye çevrilmiş değeri ne olacak idiyse, tasfiyede o miktarda kişisel mal olarak hesaba katılır.
+Madde 272 - Eşlerden birine sosyal güvenlik veya sosyal yardım kurumlarınca yapılmış
+olan toptan ödemeler veya iş gücünün kaybı dolayısıyla ödenmiş olan tazminat, toptan ödeme
+veya tazminat yerine ilgili sosyal güvenlik veya sosyal yardım kurumunca uygulanan usule göre
+ömür boyunca irat bağlanmış olsaydı, mal rejiminin sona erdiği tarihte bundan sonraki döneme
+ait iradın peşin sermayeye çevrilmiş değeri ne olacak idiyse, tasfiyede o miktarda kişisel mal
+olarak hesaba katılır.
 
 ---
 

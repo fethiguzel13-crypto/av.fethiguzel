@@ -14,6 +14,8 @@ wordCount: 4281
 Madde 152 – (1) Yararları birbirine uygun olan birden fazla şüpheli veya sanığın
 savunması aynı müdafie verilebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

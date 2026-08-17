@@ -15,8 +15,7 @@ MADDE 115 – (1) Bu Kanunda tanımlanan veya atıfta bulunulan suçlardan dolay
 soruşturma yapılması, Kurul tarafından Cumhuriyet başsavcılığına yazılı başvuruda
 bulunulmasına bağlıdır. Bu başvuru muhakeme şartı niteliğindedir.
 (2) Başvuru üzerine kamu davası açılması hâlinde iddianamenin kabulü ile birlikte, bir
-
-örneği Kurula tebliğ edilir ve Kurul aynı zamanda katılan sıfatını kazanır.
+örneği Kurula tebliğ edilir ve Kurul aynı zamanda katılan sıfatını kazanır.
 (3) Bu Kanunda tanımlanan veya atıfta bulunulan suçlardan dolayı yapılan
 soruşturmada Cumhuriyet savcısı, Kurul meslek personelinden yararlanabilir. Bu suçlardan
 dolayı şüpheli veya tanık sıfatıyla kişilerin ifadesinin alınması sırasında Kurul meslek
@@ -26,7 +25,8 @@ kovuşturmaya yer olmadığı kararının verilmesi hâlinde, Kurul bu karara ka
 (5) 4/5/2007 tarihli ve 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi
 ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanunun 8 inci
 maddesi, 109 uncu maddede yer alan suçlar bakımından da uygulanır.
-Kripto varlıkların zimmet suçuna özel soruşturma usulü
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4318
 ---
 
-**A. Tanımı ve hükümleri**
+**İKİNCİ KISIM
+Özel Borç İlişkileri
+BİRİNCİ BÖLÜM
+Satış Sözleşmesi
+BİRİNCİ AYIRIM
+Genel Hükümler
+A. Tanımı ve hükümleri**
 
 ---
 
-Madde 207 - Satış sözleşmesi, satıcının, satılanın zilyetlik ve mülkiyetini alıcıya
+MADDE 207- Satış sözleşmesi, satıcının, satılanın zilyetlik ve mülkiyetini alıcıya
 devretme, alıcının ise buna karşılık bir bedel ödeme borcunu üstlendiği sözleşmedir.
 Sözleşme ile aksi kararlaştırılmadıkça veya aksine bir âdet bulunmadıkça, satıcı ve
 alıcı borçlarını aynı anda ifa etmekle yükümlüdürler.

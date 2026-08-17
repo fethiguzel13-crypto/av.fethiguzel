@@ -24,8 +24,7 @@ seçilmelerinden sonraki bir ay içinde üçüncü hakemi belirlemezlerse, taraf
 ç) Üçten fazla hakem seçilecek ise son hakemi seçecek olan hakemler yukarıdaki
 bentte belirtilen usule göre taraflarca eşit sayıda belirlenir.
 d) Hakemin birden fazla kişiden oluşması hâlinde en az birinin kendi alanında beş yıl
-
-ve daha fazla kıdeme sahip bir hukukçu olması şarttır.
+ve daha fazla kıdeme sahip bir hukukçu olması şarttır.
 (2) Hakemlerin seçim usulünü kararlaştırmış olmalarına rağmen;
 a) Taraflardan biri sözleşmeye uymazsa,
 b) Kararlaştırılmış olan usule göre tarafların veya taraflarca seçilen hakemlerin hakem
@@ -37,7 +36,9 @@ hakem veya hakem kurulunun seçimi, taraflardan birinin talebi üzerine mahkeme
 tarafından yapılır. Mahkemenin, gerektiğinde tarafları dinledikten sonra bu fıkra hükümlerine
 göre verdiği kararlara karşı kanun yoluna başvurulamaz. Mahkeme, hakem seçiminde
 tarafların sözleşmesini ve hakemlerin bağımsız ve tarafsız olması ilkelerini göz önünde
-bulundurur. Üçten fazla hakem seçilecek hâllerde de aynı usul uygulanır.68
+bulundurur. Üçten fazla hakem seçilecek hâllerde de aynı usul uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

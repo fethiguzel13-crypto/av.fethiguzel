@@ -11,7 +11,10 @@ wordCount: 4307
 
 ---
 
-Madde 485 - Vesayet makamı, ancak gere kli araştırmayı yaptıktan v e vasiyi di nledik ten sonra onu görevden alabilir. Vesayet makamı, ağır olmayan hâllerde vasiye görevden alınacağı konusun da uyarıda bulunur.
+Madde 485- Vesayet makamı, ancak gerekli araştırmayı yaptıktan ve vasiyi dinledikten
+sonra onu görevden alabilir.
+Vesayet makamı, ağır olmayan hâllerde vasiye görevden alınacağı konusunda uyarıda
+bulunur.
 
 ---
 

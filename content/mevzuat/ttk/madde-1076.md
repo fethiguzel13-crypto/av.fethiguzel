@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4277
 ---
 
-**V - Kazanca ve zarara katılma**
+**V- Kazanca ve zarara katılma**
 
 ---
 
-Madde 1076 - (1) İştirakin kazancı ve zararı, paydaş donatanlara gemideki paylarına göre dağıtılır. (2) Kazanç ve zarar hesabı ile kazancın dağıtılması takvim yılı so nunda yapılır.
+MADDE 1076- (1) İştirakin kazancı ve zararı, paydaş donatanlara gemideki paylarına
+göre dağıtılır.
+(2) Kazanç ve zarar hesabı ile kazancın dağıtılması takvim yılı sonunda yapılır.
 
 ---
 

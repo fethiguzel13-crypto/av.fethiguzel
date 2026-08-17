@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4281
 ---
 
-**İadenin şümulü**
+**İadenin şümulü:**
 
 ---
 
@@ -28,6 +28,8 @@ Batıl bir tasarruf neticesinde kendisine ödenilen şeyi geri veren alacaklı e
 muhafaza eder.
 Kendisine bağış yapılan iyi niyetli ise yalnız dava zamanında elinde bulunan miktarı
 geri vermeye mecburdur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

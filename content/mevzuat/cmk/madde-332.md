@@ -20,6 +20,8 @@ Ceza Kanununun 257 nci maddesine aykırılık oluşturabileceği yazılır. Bu d
 kamu davasının açılması, izin veya karar alınmasına bağlı bulunan kişiler hakkında, yasama
 dokunulmazlığı saklı kalmak üzere, doğrudan soruşturma yapılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

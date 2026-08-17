@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Prim alınması zorunluluğu**
+**DÖRDÜNCÜ KISIM
+Primlere İlişkin Hükümler
+BİRİNCİ BÖLÜM
+Prim Alınması, Prime Esas Kazanç, Prim Oranları ve Asgarî İşçilik
+Prim alınması zorunluluğu**
 
 ---
 
@@ -16,6 +20,8 @@ MADDE 79- Kısa ve uzun vadeli sigortalar ile genel sağlık sigortası için, b
 ilgililer de prim ödemek zorundadır.
 Kurumca tahsil edilen genel sağlık sigortası primleri, tahsil edilmesini müteakip
 doğrudan Kurum bütçesinin genel sağlık sigortası kalemine aktarılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,11 @@ wordCount: 4270
 
 ---
 
-Madde 336 - Evlilik devam ettiği sürece ana ve baba ve lâyeti birlikte kullanırlar . Ortak hayata son verilmiş veya ayrıl ık hâl i gerç ekleşmişse hâkim, velâye ti eşlerden birine verebilir. Velâyet, ana ve babadan birinin ölümü hâlind e sağ kalana, boşanmada ise çocuk kendisine bırakılan tarafa aittir.
+Madde 336- Evlilik devam ettiği sürece ana ve baba velâyeti birlikte kullanırlar.
+Ortak hayata son verilmiş veya ayrılık hâli gerçekleşmişse hâkim, velâyeti eşlerden birine
+verebilir.
+Velâyet, ana ve babadan birinin ölümü hâlinde sağ kalana, boşanmada ise çocuk kendisine
+bırakılan tarafa aittir.
 
 ---
 

@@ -11,7 +11,7 @@ wordCount: 4319
 
 ---
 
-Madde 551 - Ticari vekil, bir ticari işletme sahibinin, kendisine ticari temsilcilik
+MADDE 551- Ticari vekil, bir ticari işletme sahibinin, kendisine ticari temsilcilik
 yetkisi vermeksizin, işletmesini yönetmek veya işletmesinin bazı işlerini yürütmek için
 yetkilendirdiği kişidir.
 Bu yetki, işletmenin alışılmış bütün işlemlerini kapsar. Ancak, ticari vekil açıkça

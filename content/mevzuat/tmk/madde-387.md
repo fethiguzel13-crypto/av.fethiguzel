@@ -12,7 +12,11 @@ wordCount: 4264
 
 ---
 
-Madde 387 - Aile yurdu hâline getirilecek taşınmazların büyüklüğü, üz erindeki rehin haklarına ve malikin diğer mallarına bakılm aksızın, bir ailenin no rmal geçimine ve barınmasın a yetecek ölçüden fazla ola maz. Mahkem ece ha klı sebeplere dayanılarak geçici bir istisna kabul edilmiş olmadıkça malikin, taşınmazı veya üzerindeki tesisi kendisinin işletmesi ya da konutta oturması zorunludur.
+Madde 387- Aile yurdu hâline getirilecek taşınmazların büyüklüğü, üzerindeki rehin
+haklarına ve malikin diğer mallarına bakılmaksızın, bir ailenin normal geçimine ve barınmasına
+yetecek ölçüden fazla olamaz.
+Mahkemece haklı sebeplere dayanılarak geçici bir istisna kabul edilmiş olmadıkça
+malikin, taşınmazı veya üzerindeki tesisi kendisinin işletmesi ya da konutta oturması zorunludur.
 
 ---
 

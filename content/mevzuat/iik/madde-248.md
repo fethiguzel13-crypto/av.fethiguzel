@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**İflas masrafları ve masanın borçları**
+**İflas masrafları ve masanın borçları:**
 
 ---
 
 Madde 248 – İflasın açılmasından ve tasfiyeden doğan masraflar önce çıkarılır.
 Rehinlerin bedelinden yalnız rehinin muhafaza ve paraya çevrilmesi masrafları çıkarılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

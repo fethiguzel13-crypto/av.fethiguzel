@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**Sınav şartı**
+**Sınav şartı:**
 
 ---
 
@@ -17,9 +17,8 @@ Devlet memurluğu sınavlarına girmeleri ve sınavı kazanmaları şarttır.
 Sınavların yapılmasına dair usul ve esaslar ile sınava tabi tutulmadan girilebilecek
 hizmet ve görevler ve bunların tabi olacağı esaslar Devlet Personel Başkanlığınca
 hazırlanacak bir genel yönetmelikle düzenlenir.
-(Mülga üçüncü fıkra: 13/2/2011-6111/99 md.)
-(Ek: 30/5/1997 – KHK-572/14 md.; Mülga dördüncü fıkra: 13/2/2011 - 6111/99
-md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

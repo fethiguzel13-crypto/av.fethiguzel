@@ -7,7 +7,7 @@ import { BookOpen, ArrowRight } from 'lucide-react';
  */
 export default function RegionsPreview() {
     return (
-        <section className="py-16 sm:py-24 px-5 sm:px-6 bg-charcoal/3 border-y border-charcoal/5">
+        <section className="py-16 sm:py-24 px-5 sm:px-6 bg-charcoal/[0.03] border-y border-charcoal/5">
             <div className="max-w-7xl mx-auto">
                 <div className="flex flex-col md:flex-row md:items-end md:justify-between gap-6 mb-10">
                     <div>
@@ -37,7 +37,7 @@ export default function RegionsPreview() {
                         <Link
                             key={b.href}
                             href={b.href}
-                            className="group flex items-start gap-3 bg-white border border-charcoal/8 rounded-xl px-4 py-4 text-sm hover:border-accent/40 transition-colors"
+                            className="group flex items-start gap-3 bg-white border border-charcoal/[0.08] rounded-xl px-4 py-4 text-sm hover:border-accent/40 transition-colors"
                         >
                             <BookOpen size={16} className="text-accent shrink-0 mt-0.5" aria-hidden />
                             <span>

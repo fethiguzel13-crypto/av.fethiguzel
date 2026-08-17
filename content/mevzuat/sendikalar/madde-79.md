@@ -15,6 +15,8 @@ MADDE 79 – (1) Bu Kanunun uygulanmasından doğan uyuşmazlıklar iş davalar�
 bakmakla görevli ve yetkili mahkemelerde görülür. Ancak yedinci ila on birinci bölümlerin
 uygulanmasından doğan uyuşmazlıklar için, görevli makamın bulunduğu yer mahkemesi yetkilidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

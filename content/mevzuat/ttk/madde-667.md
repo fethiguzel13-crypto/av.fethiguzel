@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4319
 ---
 
-**II
-- Kuponlarda usul**
+**II - Kuponlarda usul**
 
 ---
 
-Madde 667 - (1) Münferit kuponların zıyaı hâlinde hak sahibinin istemi üzerine, mahkeme, bedelin vadesinde, vade dolmuşsa derhâl mahkemeye yatırılmasına karar verir. (2) Üç yıl geçtikten sonra hiçbir hak sahibi başvurmaz ve vadenin dolmasından itibaren üç yıl geçmiş olursa, mahkeme kararıyla bedel dilekçe sahibine verilir.
+MADDE 667- (1) Münferit kuponların zıyaı hâlinde hak sahibinin istemi üzerine,
+mahkeme, bedelin vadesinde, vade dolmuşsa derhâl mahkemeye yatırılmasına karar verir.
+(2) Üç yıl geçtikten sonra hiçbir hak sahibi başvurmaz ve vadenin dolmasından
+itibaren üç yıl geçmiş olursa, mahkeme kararıyla bedel dilekçe sahibine verilir.
 
 ---
 

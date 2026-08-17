@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
-**Olağanüstü hallerde ve savaşta karayolunda trafiğin düzenlenmesi ve denetimi**
+**ONBİRİNCİ KISIM
+Çeşitli Hükümler
+Olağanüstü hallerde ve savaşta karayolunda trafiğin düzenlenmesi ve denetimi:**
 
 ---
 
@@ -17,7 +19,7 @@ belirtilir.
 Barışta, bu düzenleme ve yönetimi denemek için yapılacak manevra ve tatbikatlarda
 Genelkurmay Başkanlığının istemi üzerine özel uygulamalar yapılabilir.
 
-Madde 127 – (Mülga: 18/1/1985 – KHK 245/16 md.)
+---
 
 ### Akademik Yorum ve Analiz
 

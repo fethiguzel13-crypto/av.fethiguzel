@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Envanterde amortisman kayıtları**
+**Envanterde amortisman kayıtları:**
 
 ---
 
@@ -22,6 +22,8 @@ bunların amortismanlarının evvelki yıllara ait kayıtlarda devam ettirilmesi
 Amortisman defteri veya listelerinin kayıtları envanter kaydı hükmündedir.
 Yukarıdaki esaslara göre kayıtlarda gösterilen iktisadi kıymetlere ait değerler envanter
 defterine toplu olarak geçirilebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

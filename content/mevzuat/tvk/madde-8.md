@@ -15,6 +15,8 @@ MADDE 8 – (1) Türkiye'de doğan ve yabancı ana ve babasından dolayı doğum
 herhangi bir ülkenin vatandaşlığını kazanamayan çocuk, doğumdan itibaren Türk vatandaşıdır.
 (2) Türkiye'de bulunmuş çocuk aksi sabit olmadıkça Türkiye'de doğmuş sayılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

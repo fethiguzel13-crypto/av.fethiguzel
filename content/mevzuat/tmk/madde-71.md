@@ -11,7 +11,9 @@ wordCount: 4303
 
 ---
 
-Madde 71 - Üyeler, dernek düzenine uymak ve derneğe sadakat göstermekle yükümlüdürler. Her üye, derneğin ama cına uygun davranmak, özellikle amacın gerçekleşmesini güçleştirici veya engelleyici davranışla rdan kaçınmakla yükümlüdür.
+Madde 71- Üyeler, dernek düzenine uymak ve derneğe sadakat göstermekle yükümlüdürler.
+Her üye, derneğin amacına uygun davranmak, özellikle amacın gerçekleşmesini güçleştirici
+veya engelleyici davranışlardan kaçınmakla yükümlüdür.
 
 ---
 

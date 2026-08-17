@@ -11,7 +11,7 @@ wordCount: 4291
 
 ---
 
-Madde 87 - Seçimlik borçlarda, hukuki ilişkiden ve işin özelliğinden aksi
+MADDE 87- Seçimlik borçlarda, hukuki ilişkiden ve işin özelliğinden aksi
 anlaşılmadıkça, edimlerden birinin seçimi borçluya aittir.
 
 ---

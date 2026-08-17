@@ -8,11 +8,15 @@ wordCount: 4266
 ---
 
 **C. Görevden alınma
-I. Se bepleri**
+I. Sebepleri**
 
 ---
 
-Madde 483 - Vasi, görevini ağır surette savsaklar, yetkilerini kötüye kullanır veya güveni sarsıc ı davranışlarda bulunur ya da borç ödemede acze düşerse, vesayet makamı tarafında n görevden alınır. Vasinin görevini yapmakta yetersizliği sebebiy le ves ayet altındaki kişinin menfaatleri tehli keye düşerse, vesayet makamı kusuru olmasa bile vasiyi görevden alabilir.
+Madde 483- Vasi, görevini ağır surette savsaklar, yetkilerini kötüye kullanır veya güveni
+sarsıcı davranışlarda bulunur ya da borç ödemede acze düşerse, vesayet makamı tarafından görevden
+alınır.
+Vasinin görevini yapmakta yetersizliği sebebiyle vesayet altındaki kişinin menfaatleri
+tehlikeye düşerse, vesayet makamı kusuru olmasa bile vasiyi görevden alabilir.
 
 ---
 

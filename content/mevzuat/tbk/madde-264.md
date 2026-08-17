@@ -12,7 +12,7 @@ wordCount: 4261
 
 ---
 
-Madde 264 - Ön ödemeli taksitle satış, alıcının taşınır bir malın satış bedelini
+MADDE 264- Ön ödemeli taksitle satış, alıcının taşınır bir malın satış bedelini
 önceden kısım kısım ödemeyi, satıcının da bedelin tamamen ödenmesinden sonra satılanı
 alıcıya devretmeyi üstlendikleri satıştır.
 Ön ödemeli taksitle satış sözleşmesi, yazılı şekilde yapılmadıkça geçerli olmaz.
@@ -25,6 +25,8 @@ Sözleşmede aşağıdaki hususlar belirtilir:
 6. Alıcıya karşı üstlenilen faiz miktarı.
 7. Alıcının yedi gün içinde sözleşme yapılması konusundaki irade açıklamasını geri
 alma hakkı.
+8. Alıcının sözleşmeden cayma hakkı ve bu sebeple ödeyeceği cayma parası.
+9. Sözleşmenin kurulduğu yer ve tarih.
 
 ---
 

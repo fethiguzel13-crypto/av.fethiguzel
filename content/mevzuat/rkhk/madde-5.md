@@ -32,6 +32,8 @@ Kurul, birinci fıkrada gösterilen şartların gerçekleşmesi halinde, belirli
 anlaşma türlerine bir grup olarak muafiyet tanınmasını sağlayan ve bunların şartlarını
 gösteren tebliğler çıkarabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,25 +7,23 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**Bildirimle yükümlü diğer görevliler4**
+**Noterlik belgesine sahip olanların defteri:**
 
 ---
 
-MADDE 18- (1) 2828 sayılı Kanunun yetkili kıldığı kuruluş yetkilileri, yetiştirme
-yurtları, bakım evleri ve benzeri yerlerin sorumluları ile kişiler; yanlarında çalıştırdıkları veya
-barındırdıkları çocuk veya erginlerin kimlik kartlarını kontrol etmek, aile kütüklerine kayıtlı
-olmayanların tescillerini sağlamak için nüfus müdürlüklerine beyanda bulunmak ve gerekli
-işlemleri yaptırmakla görevlidirler.
-(2) Kolluk görevlileri; kimlik kontrolleri veya herhangi bir işlem nedeniyle kimliğini
-ispat edemeyenlerle, nüfusta kayıtlı olmadığını tespit ettikleri kişileri, haklarında gerekli
-işlemleri yaptıktan sonra düzenleyecekleri evrakı o yerdeki nüfus müdürlüğüne bildirmekle
-yükümlüdürler.
-(3) Okul müdürleri; okula kayıt için başvuran çocuklardan nüfusa kayıtlı olmayanların
-beyana dayalı kimlikleri ile baba, ana, vasi veya kayyımlarının kimliklerini ve adreslerini o
-yerin nüfus müdürlüğüne bildirmekle görevlidirler.
-(4) Kamu veya özel kurumlar iş verecekleri kişilerden kimlik kartı istemekle, nüfusta
-kayıtlı olmadıklarını anladıkları kişilerin beyana dayalı kimlik ve adreslerini nüfus
-müdürlüklerine bildirmekle yükümlüdürler.
+Madde 18 – Adalet Bakanlığında tutulacak bir deftere, noterlik belgesine sahip
+olanlar, belge sıra numaralarına göre kaydedilir.
+Defterdeki kaydı silinmiş olanların başvurmaları üzerine yeniden kayıtları, 25 inci
+maddenin ikinci fıkrası gereğince tespit edilecek başvurma tarihlerine göre yapılır. Bu
+durumda olup aynı gün başvuran birden çok istekli arasında sıralama, belge sıra numaralarına
+göre yapılır. Aynı gün kayıtları yapılacaklar arasında, birinci fıkraya göre kaydı gerekenler de
+varsa, birinci fıkraya göre yapılacak kayıt öncelik kazanır.
+Deftere ilgilinin durumunu gösteren ve yönetmelikte belirtilecek diğer hususlar da
+yazılır.
+İlgilinin noterliğe atanması, ölümü, noterliğe atanma şartlarını daimi olarak kaybetmesi ve
+bu kanunda gösterilen diğer hallerde defterdeki kaydın silinmesi şekli yönetmelikte gösterilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -16,6 +16,8 @@ olarak yazılır. Gerekçenin yazımında 230 uncu madde göz önünde bulunduru
 örneklerinde karşı oylar da gösterilir.
 (2) Kararlarda, başvurulabilecek kanun yolu, süresi, mercii ve şekilleri belirtilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

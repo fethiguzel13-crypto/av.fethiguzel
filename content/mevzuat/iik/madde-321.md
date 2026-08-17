@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**Defter tanzimi, komiser**
+**Defter tanzimi, komiser:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 321 – İcra mahkemesi, mühlet kararını vermezden evvel veya verirken 
 tutulmasını emreder ve alacaklıların haklarını korumak maksadiyle diğer bütün tedbirleri alır.
 İcra mahkemesi mühlet vermekle beraber borçlunun muamelelerine nezaret etmek
 üzere bir komiser tayin edebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

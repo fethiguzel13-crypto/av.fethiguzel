@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**Ön inceleme duruşması15**
+**Ön inceleme duruşması**
 
 ---
 
@@ -17,7 +17,7 @@ savunmaları çerçevesinde, anlaştıkları ve anlaşamadıkları hususları te
 (2) Uyuşmazlık konularının tespitinden sonra hâkim, tarafları sulh ve arabuluculuğun
 esasları, süreci ve hukuki sonuçları hakkında aydınlatarak sulhe veya arabuluculuğa teşvik
 eder; bu konuda sonuç alınacağı kanaatine varırsa, bir defaya mahsus olmak üzere yeni bir
-duruşma günü tayin eder.16
+duruşma günü tayin eder.
 (3) Ön inceleme duruşmasının sonunda, tarafların sulh veya arabuluculuk faaliyetinden
 bir sonuç alıp almadıkları, sonuç alamadıkları takdirde anlaşamadıkları hususların nelerden
 ibaret olduğu tutanakla tespit edilir. Bu tutanağın altı, duruşmada hazır bulunan taraflarca
@@ -27,6 +27,8 @@ olmak üzere yeni bir duruşma günü tayin edilir.
 (5) (Değişik:22/7/2020-7251/14 md.) 139 uncu madde uyarınca yapılan ihtara rağmen
 dilekçelerinde gösterdikleri belgeleri sunmayan veya belgelerin getirtilmesi için gerekli
 açıklamayı yapmayan tarafın bu delillere dayanmaktan vazgeçmiş sayılmasına karar verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

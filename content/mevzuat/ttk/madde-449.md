@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**II
-- Kararın yürütülmesinin geri bırakılması**
+**II - Kararın yürütülmesinin geri bırakılması**
 
 ---
 
-Madde 449 - (1) Genel kurul kararı aleyhine iptal veya butlan davası açıldığı takdirde mahkeme, yönetim kurulu üyelerinin görüşünü aldıktan sonra, dava konusu kararın yürütülmesinin geri bırakılmasına karar verebilir.
+MADDE 449- (1) Genel kurul kararı aleyhine iptal veya butlan davası açıldığı
+takdirde mahkeme, yönetim kurulu üyelerinin görüşünü aldıktan sonra, dava konusu kararın
+yürütülmesinin geri bırakılmasına karar verebilir.
 
 ---
 

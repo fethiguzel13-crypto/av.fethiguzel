@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Kasten yaralamanın ihmali davranışla işlenmesi44**
+**Kasten yaralamanın ihmali davranışla işlenmesi**
 
 ---
 
 Madde 88-(1) Kasten yaralamanın ihmali davranışla işlenmesi halinde, verilecek ceza
 üçte ikisine kadar indirilebilir. Bu hükmün uygulanmasında kasten öldürmenin ihmali
 davranışla işlenmesine ilişkin koşullar göz önünde bulundurulur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

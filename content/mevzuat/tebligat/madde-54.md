@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**Tebliğ evrakının muhatabına verilmemesi ve tebligatı kabulden kaçınma**
+**Tebliğ evrakının muhatabına verilmemesi ve tebligatı kabulden kaçınma:**
 
 ---
 
@@ -18,6 +18,8 @@ cezasıyla cezalandırılır.
 Kendisine yapılması gereken tebligatı almayan muhatap ile muhatap adına tebligatı
 kabule mecbur olup da tebligatı kabul etmeyenler hakkında da yukarıda belirtilen cezalar
 uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

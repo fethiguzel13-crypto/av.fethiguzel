@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**Karayolu yapısı ve trafik işaretlerinin korunması**
+**Karayolu yapısı ve trafik işaretlerinin korunması:**
 
 ---
 
@@ -24,6 +24,8 @@ bozukluk ve eksiklikler yolun yapım ve bakımından sorumlu kuruluşca derhal g
 karşılıkları ve masrafları sorumlulara ödetilir.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükmüne uymayanlara 7 200 000 lira
 para cezası verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

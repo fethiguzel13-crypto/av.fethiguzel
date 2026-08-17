@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**Boş satır bırakılamıyacağı, sayfaların yok edilmiyeceği**
+**Boş satır bırakılamıyacağı, sayfaların yok edilmiyeceği:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 218 – Defterlerde kayıtlar arasında usulen yazılmaya mahsus olan sat�
 çizilmeksizin boş bırakılamaz ve atlanamaz.
 Ciltli defterlerde, defter sayfaları ciltten koparılamaz. Tasdikli müteharrik yapraklarda
 bu yaprakların sırası bozulamaz ve bunlar yırtılamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4283
 ---
 
-**1 – Müddet ve şekli**
+**İtiraz:
+1 – Müddet ve şekli:**
 
 ---
 
@@ -16,6 +17,8 @@ Madde 274 – (Değişik: 3/7/1940-3890/1 md.)
 dilekçe ile veya şifahen icra dairesine bildirir.
 Bu suretle yapılan itiraz tahliye takibini durdurur.
 63, 64 ve 65 inci maddeler hükmü tahliye takiplerinde de caridir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

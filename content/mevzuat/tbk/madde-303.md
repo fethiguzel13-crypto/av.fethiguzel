@@ -11,7 +11,7 @@ wordCount: 4289
 
 ---
 
-Madde 303 - Kiraya veren, kiralananın kullanımıyla ilgili olmak üzere, kendisi veya
+MADDE 303- Kiraya veren, kiralananın kullanımıyla ilgili olmak üzere, kendisi veya
 üçüncü kişi tarafından yapılan yan giderlere katlanmakla yükümlüdür.
 
 ---

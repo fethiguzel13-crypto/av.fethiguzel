@@ -12,7 +12,7 @@ wordCount: 4292
 
 ---
 
-Madde 232 - Mal rejiminin tasfiyesinde malların sürüm değerleri esas a lınır.
+Madde 232- Mal rejiminin tasfiyesinde malların sürüm değerleri esas alınır.
 
 ---
 

@@ -13,14 +13,13 @@ I. Türlerine göre
 
 ---
 
-Madde 585 - Adi kefalette alacaklı, borçluya başvurmadıkça, kefili takip edemez;
+MADDE 585- Adi kefalette alacaklı, borçluya başvurmadıkça, kefili takip edemez;
 ancak, aşağıdaki hâllerde doğrudan doğruya kefile başvurabilir:
 1. Borçlu aleyhine yapılan takibin sonucunda kesin aciz belgesi alınması.
 2. Borçlu aleyhine Türkiye’de takibatın imkânsız hâle gelmesi veya önemli ölçüde
 güçleşmesi.
 3. Borçlunun iflasına karar verilmesi.
 4. Borçluya konkordato mehli verilmiş olması.
-
 Alacak, kefaletten önce veya kefalet sırasında rehinle de güvence altına alınmışsa, adi
 kefalette kefil, alacağın öncelikle rehin konusundan alınmasını isteyebilir. Ancak, borçlunun
 iflasına veya kendisine konkordato mehli verilmesine karar verilmişse, bu hüküm uygulanmaz.

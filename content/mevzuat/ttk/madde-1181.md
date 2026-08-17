@@ -11,7 +11,10 @@ wordCount: 4290
 
 ---
 
-Madde 1181 - (1) Taşıyan, müşterek avarya hâli hariç, denizde can ve eşya kurtarmadan veya kurtarma teşebbüsünden ileri gelen zararlardan sorumlu değildir. Teşebbüs, sadece eşya kurtarmaya yöneliks e, aynı zamanda makul bir hareket tarzı oluşturması gerekir.
+MADDE 1181- (1) Taşıyan, müşterek avarya hâli hariç, denizde can ve eşya
+kurtarmadan veya kurtarma teşebbüsünden ileri gelen zararlardan sorumlu değildir. Teşebbüs,
+sadece eşya kurtarmaya yönelikse, aynı zamanda makul bir hareket tarzı oluşturması gerekir.
+III- Taşıyanın kusursuzluk ve uygun illiyet bağı karinelerinden yararlandığı hâller
 
 ---
 

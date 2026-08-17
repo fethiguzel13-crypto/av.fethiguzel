@@ -11,7 +11,11 @@ wordCount: 4269
 
 ---
 
-Madde 21 - Velâyet altında bulunan çocuğun yerleşim yeri, ana ve ba basının; ana ve babanın ortak yerleşim yeri yoksa, çocuğun kendisine bırakıldığı ana veya babanın yerleşim yeridir. Diğer hâllerde çocuğun oturma yeri, onun yerleşim yeri sayılır. Vesayet altındaki kişilerin yerleşim yeri, bağlı oldukları vesayet maka mının bulu nduğu yerdir.
+Madde 21- Velâyet altında bulunan çocuğun yerleşim yeri, ana ve babasının; ana ve
+babanın ortak yerleşim yeri yoksa, çocuğun kendisine bırakıldığı ana veya babanın yerleşim yeridir.
+Diğer hâllerde çocuğun oturma yeri, onun yerleşim yeri sayılır.
+Vesayet altındaki kişilerin yerleşim yeri, bağlı oldukları vesayet makamının bulunduğu
+yerdir.
 
 ---
 

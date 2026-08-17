@@ -11,7 +11,7 @@ wordCount: 4298
 
 ---
 
-Madde 155 - Zamanaşımı müteselsil borçlulardan veya bölünemeyen borcun
+MADDE 155- Zamanaşımı müteselsil borçlulardan veya bölünemeyen borcun
 borçlularından birine karşı kesilince, diğerlerine karşı da kesilmiş olur.
 Zamanaşımı asıl borçluya karşı kesilince, kefile karşı da kesilmiş olur.
 Zamanaşımı kefile karşı kesilince, asıl borçluya karşı kesilmiş olmaz.

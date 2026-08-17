@@ -29,9 +29,10 @@ hiçbir şekilde sınırlandırılamaz. Üye kuruluşa veya teminatı tesis eden
 mühleti tanınması, konkordatosunun tasdiki, iflastan sonra konkordato veya mal varlığının
 terki suretiyle konkordato süreci içine girmesi, uzlaşma yoluyla yeniden yapılandırılması,
 iflası, iflasının ertelenmesi veya 2004 sayılı Kanun çerçevesindeki diğer takip prosedürleri ya
-
-da bu Kanunun tedricî tasfiye ile ilgili hükümleri merkezî takas kuruluşunun söz konusu
+da bu Kanunun tedricî tasfiye ile ilgili hükümleri merkezî takas kuruluşunun söz konusu
 teminatlar üzerindeki hak ve yetkileri kullanmasını hiçbir şekilde sınırlandıramaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

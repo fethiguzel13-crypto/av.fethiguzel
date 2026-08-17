@@ -11,8 +11,7 @@ wordCount: 4277
 
 ---
 
-Madde 648 - Bu Kanun 1 Temmuz 2012 tarihinde yürürlüğe girer.
-Yürütme
+MADDE 648- Bu Kanun 1 Temmuz 2012 tarihinde yürürlüğe girer.
 
 ---
 

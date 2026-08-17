@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**Devletin birliğini ve ülke bütünlüğünü bozmak**
+**DÖRDÜNCÜ BÖLÜM
+Devletin Güvenliğine Karşı Suçlar
+Devletin birliğini ve ülke bütünlüğünü bozmak**
 
 ---
 
@@ -21,8 +23,7 @@ dolayı ilgili hükümlere göre cezaya hükmolunur.
 (3) Bu maddede tanımlanan suçların işlenmesi dolayısıyla tüzel kişiler hakkında
 bunlara özgü güvenlik tedbirlerine hükmolunur.
 
-30/4/2008 tarihli ve 5759 sayılı Kanunun 1 inci maddesiyle bu madde başlığı “Türklüğü,
-Cumhuriyeti, Devletin kurum ve organlarını aşağılama” iken metne işlendiği şekilde değiştirilmiştir.
+---
 
 ### Akademik Yorum ve Analiz
 

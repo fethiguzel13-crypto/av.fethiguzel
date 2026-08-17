@@ -1,7 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
+<!--
+  DİKKAT — burada app_name / title_activity_main / package_name /
+  custom_url_scheme TANIMLANMAZ.
+
+  Bu dört dizgi flavor'a göre değiştiği için app/build.gradle içinde
+  resValue ile üretilir. Aynı adı burada da tanımlamak AGP'de
+  "Duplicate resources" hatası verir ve derlemeyi kırar.
+
+  Değer değiştirmek için: mobile/galaxy/catalog.json → npm run galaxy
+-->
 <resources>
-    <string name="app_name">Av. Fethi Güzel</string>
-    <string name="title_activity_main">Av. Fethi Güzel</string>
-    <string name="package_name">com.avfethiguzel.hukuk</string>
-    <string name="custom_url_scheme">com.avfethiguzel.hukuk</string>
+    <string name="app_disclaimer">Bu uygulama bilgilendirme amaçlıdır; resmî tavsiye veya vekâlet yerine geçmez.</string>
 </resources>

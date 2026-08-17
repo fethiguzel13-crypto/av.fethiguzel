@@ -11,9 +11,8 @@ wordCount: 4264
 
 ---
 
-Madde 394 - Hizmet sözleşmesi, kanunda aksine bir hüküm olmadıkça özel bir şekle
+MADDE 394- Hizmet sözleşmesi, kanunda aksine bir hüküm olmadıkça özel bir şekle
 bağlı değildir.
-
 Bir kimse, durumun gereklerine göre ancak ücret karşılığında yapılabilecek bir işi belli
 bir zaman için görür ve bu iş de işveren tarafından kabul edilirse, aralarında hizmet sözleşmesi
 kurulmuş sayılır.

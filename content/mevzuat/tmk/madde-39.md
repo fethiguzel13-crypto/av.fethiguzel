@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**IV. Düzeltm e
+**IV. Düzeltme
 1. Genel olarak**
 
 ---
 
-Madde 39 - Mahkeme kararı olmadıkça, kişisel durum sicilinin hiçbir kaydında düzeltme yapılamaz.
+Madde 39- Mahkeme kararı olmadıkça, kişisel durum sicilinin hiçbir kaydında düzeltme
+yapılamaz.
 
 ---
 

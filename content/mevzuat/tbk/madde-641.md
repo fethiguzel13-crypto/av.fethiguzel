@@ -11,7 +11,7 @@ wordCount: 4310
 
 ---
 
-Madde 641 - Ortaklık, fesih bildiriminden başka bir yolla sona ererse, bir ortağın
+MADDE 641- Ortaklık, fesih bildiriminden başka bir yolla sona ererse, bir ortağın
 ortaklık işlerini yönetme konusundaki yetkisi, sona ermeyi öğrendiği veya durumun
 gerektirdiği özeni gösterseydi öğrenebileceği zamana kadar, kendisi hakkında devam eder.
 Ortaklık, ortaklardan birinin ölümüyle sona ererse, ölen ortağın mirasçısı, durumu

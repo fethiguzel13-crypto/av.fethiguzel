@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**2. Hu kuki koruma**
+**2. Hukuki koruma**
 
 ---
 
-Madde 1474 - (1) Sigortalı aleyhine bir istem ileri sürüldüğünde, isteme ilişkin makul giderler sigortacı tarafından karşılanır; sigorta bedelini aşan giderlerin ödenebilmesi için sözleşmede hüküm bulunmalıdır. (2) Sigortacı, sigortalının istem i üzerine, giderler için avans vermek zorundadır.
+MADDE 1474- (1) Sigortalı aleyhine bir istem ileri sürüldüğünde, isteme ilişkin
+makul giderler sigortacı tarafından karşılanır; sigorta bedelini aşan giderlerin ödenebilmesi
+için sözleşmede hüküm bulunmalıdır.
+(2) Sigortacı, sigortalının istemi üzerine, giderler için avans vermek zorundadır.
 
 ---
 

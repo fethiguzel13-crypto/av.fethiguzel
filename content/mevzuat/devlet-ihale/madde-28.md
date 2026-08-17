@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**Uygun bedelin tespiti**
+**İKİNCİ BÖLÜM
+Tekliflerin Değerlendirilmesi ve İhale Kararları
+Uygun bedelin tespiti:**
 
 ---
 
@@ -21,10 +23,9 @@ tahmini yapılmamışsa uygun bedel, teklif edilen bedellerin tercihe layık gö
 gerekçeleri kararlarda belirtilir. Ancak, bedel tahmini yapılmamış kapalı teklif usulü
 ihalelerde, ihalenin geçerli sayılması bizzat ilgili bakanın onayına bağlıdır.
 Milli firmalar lehine hangi orana kadar ayırım yapılabileceği Cumhurbaşkanınca tespit
-9 Bu fıkraya "Bankalarca" ibaresinden sonra gelmek üzere, 17/9/2004 tarihli ve 5234 sayılı Kanunun 9 uncu maddesiyle "ve özel finans kurumlarınca" ibaresi eklenmiş ve metne işlenmiştir. 10 2/7/2018 tarihli ve 700 sayılı KHK’nin 81 inci maddesiyle, bu maddede yer alan “, kararname, tüzük ve yönetmeliklere” ibaresi “ve diğer mevzuata” şeklinde değiştirilmiştir.
-
-
-edilir.11
+Bu fıkraya "Bankalarca" ibaresinden sonra gelmek üzere, 17/9/2004 tarihli ve 5234 sayılı Kanunun
+9 uncu maddesiyle "ve özel finans kurumlarınca" ibaresi eklenmiş ve metne işlenmiştir.
+edilir.
 (Değişik: 2/3/1984 - 2990/6 md.) Uygun bedelin tercihinde kullanılacak kriterler ile
 eksiltmelerde kabul edilecek azami indirim miktar veya oranları; işin niteliği, nevi ve miktarı,
 birim fiyatları, istekli tarafından talep edilen avans miktarı ve isteklinin buna benzer teknik ve
@@ -32,6 +33,8 @@ mali yeterliği ile ilgili diğer hususlar da gözönünde bulundurulmak ve gere
 bakanlıkların da görüşleri alınmak suretiyle her yıl Bayındırlık ve İskan Bakanının
 koordinatörlüğünde Milli Savunma, Maliye ve Gümrük, Tarım Orman ve Köy İşleri, Enerji ve
 Tabii Kaynaklar Bakanlarınca tespit olunarak Resmi Gazete'de yayımlanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,9 +11,8 @@ wordCount: 4315
 
 ---
 
-Madde 574 - Ardiyeci, kararlaştırılmış veya alışılmış olan ardiye ücretini ve
+MADDE 574- Ardiyeci, kararlaştırılmış veya alışılmış olan ardiye ücretini ve
 saklamadan doğmayan bakım, taşıma ve gümrük gibi bütün giderlerini isteyebilir.
-
 Bu giderler hemen; ardiye ücreti ise her üç ayda bir ve her hâlde malların tümünün
 veya bir bölümünün geri alınması sırasında ödenir.
 Ardiyeci, mallara zilyet bulunduğu veya eşyayı temsil eden herhangi bir senet

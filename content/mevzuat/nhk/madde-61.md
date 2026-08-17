@@ -7,13 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4282
 ---
 
-**Sürelerin hesaplanması**
+**İKİNCİ BÖLÜM
+Özel Olarak
+Tespit işleri:**
 
 ---
 
-MADDE 61- (1) Bu Kanunda belirtilen sürelerin hesaplanmasında olayın meydana
-geldiği tarihi izleyen gün başlangıç olarak alınır. Süreler; tayin edilen müddetin son günü, son
-gün resmî tatile rastlarsa tatili izleyen ilk iş günü çalışma saatinin bitiminde sona erer.
+Madde 61 – Noterler bir şeyin veya bir yerin hal ve şeklini, kıymetini, ilgili şahısların
+kimlik ve ifadelerini tespit ederler ve davet edildiklerinde piyango ve özel kuruluşların kur'a,
+seçim ve toplantılarında hazır bulunarak durumu belgelendirirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

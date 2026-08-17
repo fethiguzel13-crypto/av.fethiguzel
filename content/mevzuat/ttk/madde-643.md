@@ -11,7 +11,7 @@ wordCount: 4293
 
 ---
 
-Madde 643 - (1) Tasfiye usulü ile tasfiyede şirket organlarının yetkileri hakkında anonim şirketlere ilişkin hükümler uygulanır: E) Uygulanacak hükümler
+MADDE 643- (1) Tasfiye usulü ile tasfiyede şirket organlarının yetkileri hakkında
 
 ---
 

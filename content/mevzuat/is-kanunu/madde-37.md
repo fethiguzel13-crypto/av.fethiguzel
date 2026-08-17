@@ -19,6 +19,8 @@ sigorta primi, avans mahsubu, nafaka ve icra gibi her çeşit kesintilerin ayrı
 gerekir.
 Bu işlemler damga vergisi ve her çeşit resim ve harçtan muaftır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

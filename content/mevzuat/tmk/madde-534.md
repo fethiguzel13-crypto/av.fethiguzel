@@ -7,23 +7,18 @@ lastReviewed: "2026-07-27"
 wordCount: 3606
 ---
 
-**Vasiyetnameye tarih ve imza konulduktan hemen sonra mirasbırakan,**
+**c. Tanıkların katılması**
 
 ---
 
 Madde 534 - Vasiyetnameye tarih ve imza konulduktan hemen sonra mirasbırakan,
-vasiyetnameyi okuduğunu, bunun son arzularını içerdiğini memurun huzurunda iki
-tanığa beyan eder.
+vasiyetnameyi okuduğunu, bunun son arzularını içerdiğini memurun huzurunda iki tanığa beyan
+eder.
+Tanıklar, bu beyanın kendi önlerinde yapıldığını ve mirasbırakanı tasarrufa ehil
+gördüklerini vasiyetnameye yazarak veya yazdırarak altını imzalarlar.
+Vasiyetname içeriğinin tanıklara bildirilmesi zorunlu değildir.
 
-Tanıklar,
-bu beyanın kendi önlerinde yapıldığını ve mirasbırakanı tasarrufa ehil gördüklerini
-vasiyetnameye yazarak veya yazdırarak altını imzalarlar.
-
-Vasiyetname
-içeriğinin tanıklara bildirilmesi zorunlu değildir.
-
-d.
-Mirasbırakan tarafından okunmaksızın ve imzalanmaksızın düzenleme
+---
 
 ### Akademik Yorum ve Analiz
 

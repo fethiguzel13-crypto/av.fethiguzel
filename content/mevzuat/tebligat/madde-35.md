@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**Adres değiştirmenin bildirilmesi mecburiyeti**
+**Adres değiştirmenin bildirilmesi mecburiyeti:**
 
 ---
 
@@ -29,6 +29,8 @@ kayıt sisteminden de yerleşim yeri adresi tespit edilemezse, bu kişinin yurt 
 tebligat yapılan adresine Türkiye Büyükelçiliği veya Konsolosluğunca 25/a maddesine göre
 gönderilen bildirimin adrese ulaştığının belgelendiği tarihten itibaren otuz gün sonra tebligat
 yapılmış sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Duruşma tutanağı**
+**BEŞİNCİ BÖLÜM
+Duruşma Tutanağı
+Duruşma tutanağı**
 
 ---
 
@@ -17,6 +19,8 @@ kayda alınması halinde, bu kayıtlar vakit geçirilmeksizin yazılı tutanağa
 mahkeme başkanı veya hâkim ile zabıt kâtibi tarafından imzalanır.
 (2) Mahkeme başkanının mazereti bulunursa tutanak, üyelerin en kıdemlisi tarafından
 imzalanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

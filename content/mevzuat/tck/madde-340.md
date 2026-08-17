@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**Yabancı devlet başkanına karşı suç**
+**SEKİZİNCİ BÖLÜM
+Yabancı Devletlerle Olan İlişkilere Karşı Suçlar
+Yabancı devlet başkanına karşı suç**
 
 ---
 
@@ -16,6 +18,8 @@ verilecek ceza, sekizde biri oranında artırılır. Suçun müebbet hapis cezas
 halinde, ağırlaştırılmış müebbet hapis cezasına hükmolunur.
 (2) Fiil, soruşturulması ve kovuşturulması şikayete bağlı suçlardan ise, soruşturma ve
 kovuşturma yabancı devletin şikayetine bağlıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

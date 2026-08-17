@@ -11,7 +11,8 @@ wordCount: 4294
 
 ---
 
-Madde 718 - (1) Kabul, poliçedeki bedelin bir kısmına özgülenm iş bulunup da, bu yüzden protesto düzenlenirse poliçenin bir sureti çıkarılarak protesto bu suret üzerine yazılır.
+MADDE 718- (1) Kabul, poliçedeki bedelin bir kısmına özgülenmiş bulunup da, bu
+yüzden protesto düzenlenirse poliçenin bir sureti çıkarılarak protesto bu suret üzerine yazılır.
 
 ---
 

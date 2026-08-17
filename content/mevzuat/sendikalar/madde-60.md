@@ -32,6 +32,8 @@ sayılı Kararı ile.)
 uyuşmazlığın çözümü için bizzat arabuluculuk yapabileceği gibi bir kişiyi de arabulucu olarak
 görevlendirebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

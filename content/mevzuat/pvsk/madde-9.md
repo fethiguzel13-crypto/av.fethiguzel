@@ -37,9 +37,7 @@ koşula uygun olarak girilecek yüksek öğretim kurumlarının içinde, bunlar�
 giriş ve çıkışlarında.
 d) Umumî veya umuma açık yerlerde.
 e) Her türlü toplu taşıma araçlarında, seyreden taşıtlarda.
-
-
-Konutta, yerleşim yerinde ve kamuya açık olmayan işyerlerinde ve eklentilerinde
+Konutta, yerleşim yerinde ve kamuya açık olmayan işyerlerinde ve eklentilerinde
 önleme araması yapılamaz.
 Spor karşılaşması, miting, konser, festival, toplantı ve gösteri yürüyüşünün
 düzenlendiği veya aniden toplulukların oluştuğu hallerde gecikmesinde sakınca bulunan hal
@@ -50,6 +48,9 @@ ve eşyasını teknik cihazlarla, gerektiğinde el ile kontrol etmeye ve aramaya
 yerlere girmek isteyenler kimliklerini sorulmaksızın ibraz etmek zorundadırlar. Milletlerarası
 anlaşmalar hükümleri saklıdır.
 Önleme aramasının sonucu, arama kararı veya emri veren merci veya makama bir
+tutanakla bildirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

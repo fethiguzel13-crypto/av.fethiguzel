@@ -14,6 +14,8 @@ wordCount: 4283
 Madde 56- (1) Çocuklara özgü güvenlik tedbirlerinin neler olduğu ve ne suretle
 uygulanacakları ilgili kanunda gösterilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

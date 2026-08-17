@@ -11,7 +11,7 @@ wordCount: 4300
 
 ---
 
-Madde 19 - Bir sözleşmenin türünün ve içeriğinin belirlenmesinde ve yorumlanmasında,
+MADDE 19- Bir sözleşmenin türünün ve içeriğinin belirlenmesinde ve yorumlanmasında,
 tarafların yanlışlıkla veya gerçek amaçlarını gizlemek için kullandıkları sözcüklere bakılmaksızın,
 gerçek ve ortak iradeleri esas alınır.
 Borçlu, yazılı bir borç tanımasına güvenerek alacağı kazanmış olan üçüncü kişiye

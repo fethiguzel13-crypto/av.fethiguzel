@@ -11,7 +11,7 @@ wordCount: 4293
 
 ---
 
-Madde 33 - Sözleşmenin kurulmasına yönelik iradenin haberci veya çevirmen gibi bir
+MADDE 33- Sözleşmenin kurulmasına yönelik iradenin haberci veya çevirmen gibi bir
 aracı ya da bir araç tarafından yanlış iletilmiş olması hâlinde de yanılma hükümleri uygulanır.
 
 ---

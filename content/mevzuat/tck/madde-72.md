@@ -16,6 +16,8 @@ Bir gün, yirmidört saat; bir ay, otuz gündür. Yıl, resmi takvime göre hesa
 (2) Dava ve ceza zamanaşımı re'sen uygulanır ve bundan şüpheli, sanık ve hükümlü
 vazgeçemezler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

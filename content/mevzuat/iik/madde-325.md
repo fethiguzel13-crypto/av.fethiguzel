@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4280
 ---
 
-**B – Yetkili makam tarafından alınan hususi tedbirler hakkında**
+**B – Yetkili makam tarafından alınan hususi tedbirler hakkında:**
 
 ---
 
@@ -21,6 +21,8 @@ uncu maddenin üçüncü fıkrasında bahsolunan taksitlerin tediyesi için muva
 lüzum yoktur.
 Fevkalade mühlet kararında yukardaki kayıtlar bulunursa bunlar da ilana yazılır ve
 fevkalade mühlet tapu siciline temlik hakkının tahdidi suretiyle geçirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

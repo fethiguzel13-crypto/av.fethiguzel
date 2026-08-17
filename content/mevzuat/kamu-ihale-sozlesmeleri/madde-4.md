@@ -20,6 +20,8 @@ uygulanmasında eşit hak ve yükümlülüklere sahiptir. İhale dokümanı ve s
 bu prensibe aykırı maddelere yer verilemez. Kanunun yorum ve uygulanmasında bu prensip göz
 önünde bulundurulur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

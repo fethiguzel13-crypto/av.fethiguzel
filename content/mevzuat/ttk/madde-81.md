@@ -8,9 +8,11 @@ wordCount: 4274
 ---
 
 **4. Değerlemeyi basitleştirici yöntemler**
-MADDE 81- (1) Şartların gerçekleşmesi hâlinde Türkiye Muhasebe Standartlarında öngörülen değerlemeyi basitleştirici yöntemler uygulanır. [1]
 
 ---
+
+MADDE 81- (1) Şartların gerçekleşmesi hâlinde Türkiye Muhasebe Standartlarında
+öngörülen değerlemeyi basitleştirici yöntemler uygulanır.
 
 ---
 

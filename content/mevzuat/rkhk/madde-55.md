@@ -18,6 +18,8 @@ işlerden sayılır.
 Kurul kararlarına karşı yargı yoluna başvurulması kararların uygulanmasını ve idarî
 para cezalarının takip ve tahsilini durdurmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

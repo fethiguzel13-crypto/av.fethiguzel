@@ -20,6 +20,8 @@ hapis cezası verilir.
 (3) Fiil, failin taksiri sonucu meydana gelmiş ise, birinci fıkrada yazılı olan halde faile
 altı aydan iki yıla, ikinci fıkrada yazılı halde üç yıldan sekiz yıla kadar hapis cezası verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

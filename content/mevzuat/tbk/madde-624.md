@@ -11,7 +11,7 @@ wordCount: 4280
 
 ---
 
-Madde 624 - Ortaklığın kararları, bütün ortakların oybirliğiyle alınır.
+MADDE 624- Ortaklığın kararları, bütün ortakların oybirliğiyle alınır.
 Sözleşmede kararların oy çokluğuyla alınacağı belirtilmişse çoğunluk, ortak sayısına
 göre belirlenir.
 

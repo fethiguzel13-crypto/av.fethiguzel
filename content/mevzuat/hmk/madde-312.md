@@ -17,15 +17,8 @@ sadece bir kısmına ilişkin ise yargılama giderlerine mahkûmiyet, ona göre 
 (2) Davalı, davanın açılmasına kendi hâl ve davranışıyla sebebiyet vermemiş ve
 yargılamanın ilk duruşmasında da davacının talep sonucunu kabul etmiş ise yargılama
 giderlerini ödemeye mahkûm edilmez.
-Sulh
 
-MADDE 313- (1) Sulh, görülmekte olan bir davada, tarafların aralarındaki uyuşmazlığı
-kısmen veya tamamen sona erdirmek amacıyla, mahkeme huzurunda yapmış oldukları bir
-sözleşmedir.
-(2) Sulh, ancak tarafların üzerinde serbestçe tasarruf edebilecekleri uyuşmazlıkları
-konu alan davalarda yapılabilir.
-(3) Dava konusunun dışında kalan hususlar da sulhun kapsamına dâhil edilebilir.
-(4) Sulh, şarta bağlı olarak da yapılabilir.
+---
 
 ### Akademik Yorum ve Analiz
 

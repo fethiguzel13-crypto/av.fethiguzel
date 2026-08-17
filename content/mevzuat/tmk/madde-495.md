@@ -7,11 +7,21 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Madde 495**
+**ÜÇÜNCÜ KİTAP
+MİRAS HUKUKU
+BİRİNCİ KISIM
+MİRASÇILAR
+BİRİNCİ BÖLÜM
+YASAL MİRASÇILAR
+A. Kan hısımları
+I. Altsoy**
 
 ---
 
-Madde 495 - Mirasbırakanın birinci derece miras çıları, onun altsoyudur. Ço cuklar eşit olarak mirasçıdırlar. Mira sbırak andan önce ölmüş olan çocukların yerini, her derecede halefiyet yoluyla kendi altsoyları alır.
+Madde 495- Mirasbırakanın birinci derece mirasçıları, onun altsoyudur.
+Çocuklar eşit olarak mirasçıdırlar.
+Mirasbırakandan önce ölmüş olan çocukların yerini, her derecede halefiyet yoluyla kendi
+altsoyları alır.
 
 ---
 

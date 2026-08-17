@@ -11,8 +11,15 @@ wordCount: 4318
 
 ---
 
-Madde 113 - Durum ve koşullardaki değişmeler yüzünden vakı f senedinde yazılı amaca bağlı kalınması vakfed enin arzusuna açıkça uymayacak hâle gelmiş ise m ahkem e, vakfın yönetim organı veya denetim makamının başvurusu üzerine diğerinin yazılı görüşünü aldıktan sonra 13 Anayasa Mahkemesi’nin 27/11/20 07 tarihli ve E.:2002/162, K.:2007/89 sayılı Kararıyla; bu fıkrada y er alan “…tüzükte gösterilen sebeplerle…” ibaresi iptal edilmiştir.
-vakfın amacını değiştirebilir. Amacın gerçekleşme sini önemli ölçüde güçleştiren veya engelleyen koşulların ve yükümlülüklerin kaldırılmasında ve ya de ğiştirilmesinde de aynı hüküm uygulanır. Amaca özgülenen mal ve hakların daha yararlı olanları ile değiştirilmesini veya paraya çevrilmesini haklı kılan seb epler varsa mahkeme, vakfın yönetim organı veya denetim makamının başvurusu üzerine diğerinin y azılı görü şünü aldıktan sonra gerekli değişikliğe izin verebilir.
+Madde 113- Durum ve koşullardaki değişmeler yüzünden vakıf senedinde yazılı amaca
+bağlı kalınması vakfedenin arzusuna açıkça uymayacak hâle gelmiş ise mahkeme, vakfın yönetim
+organı veya denetim makamının başvurusu üzerine diğerinin yazılı görüşünü aldıktan sonra
+vakfın amacını değiştirebilir.
+Amacın gerçekleşmesini önemli ölçüde güçleştiren veya engelleyen koşulların ve
+yükümlülüklerin kaldırılmasında veya değiştirilmesinde de aynı hüküm uygulanır.
+Amaca özgülenen mal ve hakların daha yararlı olanları ile değiştirilmesini veya paraya
+çevrilmesini haklı kılan sebepler varsa mahkeme, vakfın yönetim organı veya denetim makamının
+başvurusu üzerine diğerinin yazılı görüşünü aldıktan sonra gerekli değişikliğe izin verebilir.
 
 ---
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Kaldırılan hükümler**
+**BİRİNCİ BÖLÜM
+Kaldırılan Hükümler
+Kaldırılan hükümler:**
 
 ---
 
@@ -35,9 +37,7 @@ Değer Vergisine tabi tutulurlar.
 7524 sayılı Kanunun 22 nci maddesi ile 1/1/2030 tarihinde yürürlüğe girmek üzere bu maddeye fıkralar
 eklenmiştir. Söz konusu düzenleme, yürürlüğe girdiği tarihte Mevzuat Bilgi Sistemine işlenecek olup mezkur
 düzenlemeyi görmek için 2/8/2024 tarihli ve 32620 sayılı Resmî Gazete’ye bakınız.
-104
-
-Geçici Madde 2 – 1. Bu Kanunun yürürlüğe girdiği tarihten önce fatura veya benzeri
+Geçici Madde 2 – 1. Bu Kanunun yürürlüğe girdiği tarihten önce fatura veya benzeri
 belge düzenlenmiş veya ödeme yapılmış olmakla beraber, bu belge veya ödeme ile ilgili
 işlemler Kanunun yürürlüğünden sonra yapılmış ise, işlemin tamamı hakkında bu Kanun
 hükümleri uygulanır.
@@ -62,7 +62,7 @@ yapmak üzere 1985 yılından başlamak üzere 10 yıl süre ile Bütçe Kanunla
 Gümrük Bakanlığına ait (A) cetvelini 112 kod numaralı "Devlet Gelirlerine İlişkin Hizmetler
 Yönetim - Uygulama, Denetim ve Yargı Hizmetleri" programında yer alan toplam ödeneklerin
 her yıl için % 30'una kadar kısmını bir fonda toplamaya ve her harcama kaleminden ne
-kadarının fona aktarılacağını belirlemeye, Maliye ve Gümrük Bakanı yetkilidir.105
+kadarının fona aktarılacağını belirlemeye, Maliye ve Gümrük Bakanı yetkilidir.
 2. Bu fondan; bina satın alınarak veya kiralanarak yeni vergi dairelerinin kurulması,
 vergi dairelerinin döşenmesi, mekanizasyon, basılı kağıtların hazırlanması ve diğer uygulama
 hizmetleri ile eğitim ve tanıtma çalışmaları yapılmasına ilişkin her türlü harcamalar, 1050 ve
@@ -73,9 +73,7 @@ Kanunları ve diğer mevzuatla sınırlı olmaksızın fazla mesai ve yolluk öd
 hizmetlerde çalıştırılmak üzere geçici personel istihdamına Maliye ve Gümrük Bakanlığı
 Geçici 5 inci maddenin 1 inci fıkrasındaki 6 yıllık süre 14/6/1989 tarih ve 3571 sayılı Kanunun 10 uncu maddesiyle
 10 yıla yükseltilmiş ve yerine işlenmiştir.
-105
-
-yetkilidir.
+yetkilidir.
 4. Katma Değer Vergisi ile ilgili basılı kağıtların basım, depolama ve dağıtım
 hizmetleri Gelirler Genel Müdürlüğü tarafından yürütülür.
 Geçici Madde 6 – (Ek : 26/3/1987 - 3336/1 md.)
@@ -97,7 +95,7 @@ komisyonlarınca yapılan ticari plaka satışları, 31/12/1987 tarihine kadar k
 müstesnadır.
 Geçici Madde 8 – (Ek : 19/6/1987 - 3393/4 md.)
 Net alanı 150 m2'ye kadar konutların teslimi ile konut yapı kooperatiflerine yapılan
-inşaat taahhüt işleri, 31/12/1997 tarihine kadar katma değer vergisinden müstesnadır.106
+inşaat taahhüt işleri, 31/12/1997 tarihine kadar katma değer vergisinden müstesnadır.
 Geçici Madde 9 – (Ek : 3/12/1988 - 3505/Geçici md.)
 Sadece 150 m2'yi aşmayan konutlar için yapılan inşaat taahhüt işlerine münhasır
 olmak üzere, Kanunla kurulmuş sosyal güvenlik kuruluşları ile belediyelere yapılan inşaat
@@ -110,9 +108,7 @@ Bu şekilde teslim edilen kıymetlerin iktisabında yüklenilen ve teslimin yap�
 Bu maddelerde yer alan "31/12/1992" tarihi, 23/12/1992 tarih ve 3858 sayılı Kanunun 1 inci maddesi ile
 "31/12/1995" olarak; daha sonra 18/11/1995 tarih ve 4134 sayılı Kanunun 1 inci maddesi ile de “31/12/1997”
 olarak değiştirilmiştir.
-106
-
-dönemde indirilemeyen katma değer vergisi, bu hesap dönemine ait kurumlar vergisi
+dönemde indirilemeyen katma değer vergisi, bu hesap dönemine ait kurumlar vergisi
 matrahının tespitinde gider olarak kabul edilir.
 Şu kadar ki; satış nedeniyle oluşan kazancın tamamının, teslimi takip eden hesap
 dönemi başından itibaren ikinci hesap dönemi sonuna kadar ödenmiş sermayeye
@@ -146,8 +142,7 @@ ilişkin olarak;
 a) Konut yapı kooperatiflerine yapılan inşaat taahhüt işleri,
 b) Sadece 150 m2'yi aşmayan konutlara münhasır olmak üzere kanunla kurulmuş
 sosyal güvenlik kuruluşları ve belediyelere yapılan inşaat taahhüt işleri,
-
-Katma değer vergisinden müstesnadır.
+Katma değer vergisinden müstesnadır.
 Geçici Madde 16 – (Ek : 22/7/1998 - 4369/62 md.)
 Katma Değer Vergisi Kanununun 28 inci maddesi uyarınca Bakanlar Kurulu tarafından
 vergi nispeti indirilen teslim ve hizmtlerle ilgili olup bu Kanunun yayımını izleyen ayın sonuna
@@ -162,49 +157,18 @@ sektörler veya mal grupları itibariyle işlem yaptırmaya Cumhurbaşkanı yetk
 maddenin uygulanmasında ihracat süresi olarak anılan bentteki süre yerine bu rejimlerle
 öngörülen süreler esas alınır. İhracatın şartlara uygun olarak gerçekleştirilmemesi halinde
 zamanında alınmayan vergi, vergi ziyaı cezası uygulanarak gecikme faizi ile birlikte alıcıdan
-tahsil edilir.111
+tahsil edilir.
 Geçici Madde 18- (Ek: 9/4/2003-4842/24 md.)
 Bu Kanunun 13 üncü maddesinin (d) bendi hükmü, teşvik belgesine sahip katma değer
 vergisi mükellefiyeti bulunmayanlara bu maddenin yürürlüğe girdiği tarihe kadar belge
 kapsamında yapılan makine ve teçhizat teslimlerinde de uygulanır.
 Geçici Madde 19 - (Ek: 9/4/2003-4842/24 md.; Değişik: 16/7/2004-5228/19 md.)
-Türkiye'nin
-
-taraf
-
-olduğu
-
-uluslararası
-
-anlaşmalar
-
-çerçevesinde
-
-Türkiye'de
-
+Türkiye'nin taraf olduğu uluslararası anlaşmalar çerçevesinde Türkiye'de
 gerçekleştirilecek toplantıları düzenleyenlere bu amaçla yapılacak teslim ve hizmetler ile bu
 toplantılara katılan yabancı heyetlerin konaklamaları ve bunlara görevlerinin ifası kapsamında
 yapılacak teslim ve hizmetler 31.12.2005 tarihine kadar katma değer vergisinden müstesnadır.
 Bu kapsamda teslim edilen mal ve hizmetler için yüklenilen vergiler, vergiye tâbi
-18/2/2009 tarihli ve 5838 sayılı Kanunun 32 nci maddesiyle; bu maddede yer alan “31/12/2008” ibaresi
-“31/12/2010” şeklinde değiştirilmiş ve aynı Kanunun 33 üncü maddesiyle bu ibarenin 1/1/2009 tarihinden
-geçerli olmak üzere uygulanacağı hüküm altına alınmış, daha sonra 13/2/2011 tarihli ve 6111 sayılı Kanunun 86
-ncı maddesiyle, “31/12/2010” ibaresi “31/12/2015” olarak değiştirilmiştir.
-108
-25/12/2015 tarihli ve 6655 sayılı Kanunun 3 üncü maddesiyle, bu maddede yer alan “31/12/2015” ibaresi
-“31/12/2020” şeklinde değiştirilmiştir.
-109
-11/11/2020 tarihli ve 7256 sayılı Kanunun 23 üncü maddesiyle bu fıkrada yer alan “31/12/2020” ibaresi
-“31/12/2025” şeklinde değiştirilmiştir.
-110
-2/7/2018 tarihli ve 700 sayılı KHK’nin 90 ıncı maddesiyle, bu maddede yer alan “Bakanlar Kurulu” ibaresi
-“Cumhurbaşkanı” şeklinde değiştirilmiştir.
-111
-23/1/2026 tarihli 7573 sayılı Kanunun 5 inci maddesiyle bu fıkrada yer alan “31/12/2025” ibaresi
-“31/12/2030” şeklinde değiştirilmiştir.
-107
-
-işlemler nedeniyle hesaplanan vergiden indirilir. İndirimle giderilemeyen vergiler iade
+işlemler nedeniyle hesaplanan vergiden indirilir. İndirimle giderilemeyen vergiler iade
 edilmez. Bakanlar Kurulu, 213 sayılı Vergi Usul Kanununun 232 nci maddesinde yer alan ve
 ilgili yılda uygulanmakta olan haddi, istisna uygulamasında asgari tutar olarak belirlemeye ve
 belirlenen bu tutarı iki katına kadar artırmaya, sıfıra kadar indirmeye yetkilidir.
@@ -218,7 +182,8 @@ bölgelerde ürettikleri ve sistem yönetimi, veri yönetimi, iş uygulamaları,
 oyun, mobil ve askeri komuta kontrol uygulama yazılımı şeklindeki teslim ve hizmetleri katma
 değer vergisinden müstesnadır. (Ek cümle: 29/3/2018-7104/14 md.) Bu kapsamda istisna
 edilen işlemler bakımından bu Kanunun 30 uncu maddesinin birinci fıkrasının (a) bendi
-hükmü uygulanmaz.112113
+112113
+hükmü uygulanmaz.
 Maliye Bakanlığı; program ve lisans türleri itibarıyla istisnadan yararlanılacak bedele
 ilişkin olarak asgari sınır belirlemeye, istisna uygulanacak yazılım programlarını tanımlamaya
 ve uygulamaya ilişkin usul ve esasları tespit etmeye yetkilidir.
@@ -234,20 +199,9 @@ Kanunla değiştirilmeden önceki hükmüne göre işlem yapılır.
 Geçici Madde 21- (Ek: 16/7/2004-5228/20 md.)
 Karayolları Genel Müdürlüğünce yapılacak taşınmaz mal teslimleri ile Orman Genel
 Müdürlüğü Döner Sermaye sabit kıymetlerinde kayıtlı tapulu taşınmaz malların teslimleri
-31.12.2006 tarihine kadar katma değer vergisinden müstesnadır.114
+31.12.2006 tarihine kadar katma değer vergisinden müstesnadır.
 Geçici Madde 22 - (Ek: 10/11/2004-5255/14 md.; Değişik: 3/7/2005 - 5398/25 md.)
-16/2/2016 tarihli ve 6676 sayılı Kanunun 6 ncı maddesiyle, bu fıkrada yer alan “teknoloji geliştirme
-bölgesinde” ibaresinden sonra gelmek üzere “ve ihtisas teknoloji geliştirme bölgesinde” ibaresi eklenmiştir.
-113
-29/3/2018 tarihli ve 7104 sayılı Kanunun 14 üncü maddesiyle, bu maddenin (1) numaralı fıkrasının birinci
-paragrafına “internet,” ibaresinden sonra gelmek üzere “oyun,” ibaresi ve paragrafa cümle eklenmiş ve aynı
-Kanunun 29 uncu maddesiyle bu değişikliğin 1/1/2019 tarihinde yürürlüğe girmesi hüküm altına alınmıştır.
-114
-30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, bu maddede yer alan “31.12.2004 tarihine
-kadar” ibaresi, “31.12.2006 tarihine kadar” olarak değiştirilmiştir.
-112
-
-2005 yılında İzmir Kentinde yapılacak Dünya Üniversitelerarası Spor Oyunlarına
+2005 yılında İzmir Kentinde yapılacak Dünya Üniversitelerarası Spor Oyunlarına
 ilişkin olmak üzere İzmir Universiade Oyunları Hazırlık ve Düzenleme Kurulu ile bu
 oyunlarda kullanılmak şartıyla söz konusu Düzenleme Kurulunun onayladığı kurum ve
 kuruluşlara yapılacak teslim ve hizmet ifaları ve bu maddenin yürürlüğe girdiği tarih itibarıyla
@@ -262,7 +216,7 @@ hizmetleri tanımlamaya, istisnaya ilişkin usûl ve esasları belirlemeye yetki
 Geçici Madde 23- (Ek: 30/12/2004-5281/35 md.)
 Millî Eğitim Bakanlığına bilgisayar ve donanımlarının bedelsiz teslimleri ile bunlara
 ilişkin yazılım teslimi ve hizmetleri, bu mal ve hizmetlerin bağışı yapacak olanlara teslim ve
-ifası 31/12/2023 tarihine kadar Katma Değer Vergisinden müstesnadır.115
+ifası 31/12/2023 tarihine kadar Katma Değer Vergisinden müstesnadır.
 Bu kapsamda yapılan teslim ve hizmet ifaları için yüklenilen vergiler, vergiye tâbi
 işlemler nedeniyle hesaplanan vergiden indirilir. İndirimle giderilemeyen vergiler iade
 edilmez. Maliye Bakanlığı, istisnaya ilişkin usûl ve esasları belirlemeye yetkilidir.
@@ -282,13 +236,7 @@ fıkrasının (s) bendinde düzenlenen istisnadan vazgeçen mükelleflerin, bu m
 tarihini izleyen ayın sonuna kadar istisnadan vazgeçme taleplerini geri almaları halinde, 18
 inci maddenin (3) numaralı fıkrasının ikinci cümlesinde yer alan hüküm uygulanmaz. Bu
 hükmün uygulanmasına ilişkin usul ve esasları belirlemeye Maliye Bakanlığı yetkilidir.
-13/2/2011 tarihli ve 6111 sayılı Kanunun 86 ncı maddesiyle, bu maddede yer alan “31.12.2010” ibaresi
-“31/12/2015” olarak değiştirilmiş olup, daha sonra 25/12/2015 tarihli ve 6655 sayılı Kanunun 3 üncü
-maddesiyle bu ibare “31/12/2020” şeklinde ve daha sonra 11/11/2020 tarihli 7256 sayılı Kanunun 24 üncü
-maddesiyle “31/12/2023” şeklinde değiştirilmiştir.
-115
-
-Geçici Madde 26 - (Ek: 4/6/2008-5766/12 md.)
+Geçici Madde 26 - (Ek: 4/6/2008-5766/12 md.)
 (Değişik birinci fıkra: 27/3/2015-6637/3 md.) Ev sahibi hükümet anlaşmaları veya
 ülkemizin taraf olduğu diğer anlaşmalar çerçevesinde Türkiye’de faaliyet gösteren uluslararası
 kuruluşlar ile bu kuruluşlara bağlı program, fon, temsilcilik ve özel ihtisas kuruluşlarının resmî
@@ -326,9 +274,9 @@ Millî Eğitim Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmün
 eğitim öğretim tesislerine ilişkin projelerden bu maddenin yürürlüğe girdiği tarihten önce
 ihale veya görevlendirme ilanı yayımlanmış ancak teklif alınmamış olanlar ile 31/12/2028
 tarihine kadar ihale veya görevlendirme ilanı yayımlanacak olanların; ihale edilmesi ile
-
-görevlendirilen veya projeyi üstlenenlere yatırım döneminde proje kapsamında yapılan mal
-teslimleri ve hizmet ifaları katma değer vergisinden müstesnadır.116117
+görevlendirilen veya projeyi üstlenenlere yatırım döneminde proje kapsamında yapılan mal
+116117
+teslimleri ve hizmet ifaları katma değer vergisinden müstesnadır.
 Bu maddenin yürürlüğe girdiği tarihten önce teklifleri alınmış ya da ihalesi veya
 görevlendirmesi yapılmış işlerde; görevli şirketin veya yüklenicinin bu maddenin yürürlüğe
 girdiği tarihten itibaren üç ay içinde talepte bulunması halinde bu maddenin yürürlük
@@ -347,10 +295,10 @@ edilemeyen vergiler bu Kanunun 32 nci maddesi hükmü uyarınca istisna kapsamı
 yapan mükellefin talebi üzerine iade edilir.
 Maliye Bakanlığı, istisna kapsamına girecek teslim ve hizmetleri tanımlamaya, istisna
 ve iadeye ilişkin usul ve esasları belirlemeye yetkilidir.
-Büyük (…)118 yatırımlarda iade:
+Büyük (…)yatırımlarda iade:
 Geçici Madde 30 – (Ek: 31/5/2012-6322/25 md.)
 31/12/2023 tarihine kadar uygulanmak üzere, yatırım teşvik belgeleri kapsamında
-asgari 500 milyon Türk Lirası tutarında sabit yatırım öngörülen (…)118 yatırımlara ilişkin
+asgari 500 milyon Türk Lirası tutarında sabit yatırım öngörülen (…)yatırımlara ilişkin
 inşaat işleri nedeniyle yüklenilen ve takvim yılı sonuna kadar indirim yoluyla telafi
 edilemeyen katma değer vergisi, izleyen yıl talep edilmesi halinde belge sahibi mükellefe iade
 olunur. Teşvik belgesine konu yatırımın tamamlanmaması halinde, iade edilen vergiler, vergi
@@ -359,20 +307,7 @@ vergiler ve cezalarında zamanaşımı, verginin tarhını veya cezanın kesilme
 durumun meydana geldiği tarihi takip eden takvim yılı başında başlar.
 (Ek fıkra: 20/8/2016-6745/36 md.) Bu madde kapsamında yer alan asgari sabit
 yatırım tutarını sektörler itibarıyla veya topluca 50 milyon Türk lirasına kadar indirmeye veya
-31/5/2012 tarihli ve 6322 sayılı Kanunun 24 üncü maddesiyle bu fıkrada yer alan “sağlık tesislerine ilişkin
-projelerden” ibaresi “sağlık tesislerine ilişkin projeler ve 25/8/2011 tarihli ve 652 sayılı Millî Eğitim
-Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 23 üncü maddesine göre
-Bakanlık tarafından kiralama karşılığı yaptırılmasına karar verilen eğitim öğretim tesislerine ilişkin
-projelerden” şeklinde değiştirilmiştir.
-117
-27/12/2023 tarihli ve 7491 sayılı Kanunun 34 üncü maddesiyle bu fıkrada yer alan “31/12/2023” ibaresi
-“31/12/2028” şeklinde değiştirilmiştir.
-118
-20/8/2016 tarihli ve 6745 sayılı Kanunun 36 ncı maddesiyle, bu maddenin başlığında yer alan “ve stratejik”
-ibaresi ile birinci fıkrasının birinci cümlesinde yer alan “stratejik” ibaresi madde metninden çıkarılmıştır.
-116
-
-iki katına kadar artırmaya Cumhurbaşkanı yetkilidir.119
+iki katına kadar artırmaya Cumhurbaşkanı yetkilidir.
 Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Maliye Bakanlığı
 yetkilidir.
 Geçici Madde 31 – (Ek: 13/6/2012-6327/13 md.)
@@ -385,7 +320,7 @@ planları kapsamındaki yurt içi ya da yurt dışındaki birikimler ve taahhüt
 kısmen veya tamamen bireysel emeklilik sistemine aktarılması amacıyla taşınmaz ve iştirak
 hisselerinin (müzayede mahallinde satışı dahil) devir ve teslimi 31/12/2017 tarihine kadar
 uygulanmak üzere katma değer vergisinden müstesnadır. Bu istisna, aktarılan tutarla orantılı
-olarak uygulanır.120
+olarak uygulanır.
 Maliye Bakanlığı, bu maddenin uygulamasına ilişkin usul ve esasları belirlemeye
 yetkilidir.
 Geçici Madde 32 – (Ek: 24/5/2013-6487/23 md.)
@@ -393,7 +328,7 @@ Geçici Madde 32 – (Ek: 24/5/2013-6487/23 md.)
 bunların hatları, istasyonları, yolcu terminalleri ve durakları ve bu iş ve işlemlerle ilgili
 tesisler ile eklenti veya bütünleyici parçalarının Ulaştırma, Denizcilik ve Haberleşme
 Bakanlığı, belediyeler ve bunların bağlı kuruluşları arasında yapılacak devir ve teslimleri
-31/12/2028 tarihine kadar katma değer vergisinden müstesnadır.121
+31/12/2028 tarihine kadar katma değer vergisinden müstesnadır.
 Bu kapsamda yapılan teslim ve hizmet ifaları için yüklenilen vergiler, vergiye tabi
 işlemler nedeniyle hesaplanan vergiden indirilir. İndirimle giderilemeyen vergiler iade
 edilmez. Maliye Bakanlığı, istisnaya ilişkin usul ve esasları belirlemeye yetkilidir.
@@ -402,25 +337,9 @@ Geçici Madde 33 – (Ek: 10/9/2014-6552/27 md.)
 Kanununun geçici 41 inci maddesi kapsamında taşınmazların Sosyal Güvenlik Kurumuna
 devir ve teslimi ile bu taşınmazların Sosyal Güvenlik Kurumu tarafından (müzayede
 mahallerinde yapılan satışlar dâhil) devir ve teslimi 31/12/2028 tarihine kadar katma değer
-vergisinden müstesnadır.122
+vergisinden müstesnadır.
 Bu kapsamda vergiden istisna edilen işlemler bakımından 30 uncu maddenin birinci
-2/7/2018 tarihli ve 700 sayılı KHK’nin 90 ıncı maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi
-“Cumhurbaşkanı” şeklinde değiştirilmiştir.
-120
-25/12/2015 tarihli ve 6655 sayılı Kanunun 3 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan
-“31/12/2015” ibaresi “31/12/2017” şeklinde değiştirilmiştir.
-121
-27/12/2023 tarihli ve 7491 sayılı Kanunun 35 inci maddesiyle bu fıkrada yer alan “31/12/2023” ibaresi
-“31/12/2028” şeklinde değiştirilmiştir.
-119
-
-122
-
-27/12/2023 tarihli ve 7491 sayılı Kanunun 36 ncı maddesiyle bu fıkrada yer alan “31/12/2023” ibaresi
-
-“31/12/2028” şeklinde değiştirilmiştir.
-
-fıkrasının (a) bendi hükmü uygulanmaz. Maliye Bakanlığı, istisnaya ilişkin usul ve esasları
+fıkrasının (a) bendi hükmü uygulanmaz. Maliye Bakanlığı, istisnaya ilişkin usul ve esasları
 belirlemeye yetkilidir.
 Geçici Madde 34 – (Ek: 27/3/2015-6637/24 md.)
 Bu maddenin yürürlüğe girdiği tarihten önce usulüne uygun olarak yürürlüğe giren ve
@@ -441,7 +360,7 @@ belirlenen ve sınırları ve koordinatları gösterilen alanda yapılacak iyile
 dönüşüm projeleri kapsamında, trampa yolu ile kamulaştırılan taşınmazların Hazineye devir
 ve teslimi işlemleri 31/12/2020 tarihine kadar katma değer vergisi, damga vergisi ve tapu
 harcından müstesnadır. Bu taşınmazların 31/12/2020 tarihine kadar Hazineye devrinden
-dolayı Gelir ve Kurumlar Vergisi Kanunlarına göre kazanç oluşmuş sayılmaz.123
+dolayı Gelir ve Kurumlar Vergisi Kanunlarına göre kazanç oluşmuş sayılmaz.
 Geçici Madde 36- (Ek: 18/1/2017 - 6770/9 md.)
 Bu maddenin yürürlüğe girdiği tarihten önce belediyeler ve il özel idareleri tarafından
 iktisadi işletme oluşturmaksızın yapılan taşınmaz teslimlerinde katma değer vergisi aranmaz,
@@ -453,15 +372,8 @@ yetkilidir.
 Geçici Madde 37- (Ek: 18/1/2017-6770/10 md.) (Değişik:8/4/2022-7394/11 md.)
 İmalat sanayii ile turizme yönelik yatırım teşvik belgesi sahibi mükelleflere belge
 kapsamındaki inşaat işlerine ilişkin mal teslimleri ve hizmet ifaları 31/12/2025 tarihine kadar
-katma değer vergisinden müstesnadır.124
-17/1/2019 tarihli ve 7161 sayılı Kanunun 19 uncu maddesiyle bu fıkrada yer alan “31/12/2018” ibareleri
-“31/12/2020” şeklinde değiştirilmiştir.
-124
-1/5/2025 tarihli ve 32887 sayılı Resmî Gazete’de yayımlanan 9770 sayılı Cumhurbaşkanı Kararı ile bu
-fıkrada yer alan sürenin 31/12/2028 tarihine kadar uzatılmasına karar verilmiştir.
-123
-
-Teşvik belgesine konu yatırımın tamamlanmaması halinde, zamanında alınmayan
+katma değer vergisinden müstesnadır.
+Teşvik belgesine konu yatırımın tamamlanmaması halinde, zamanında alınmayan
 vergiler, vergi ziyaı cezası uygulanarak gecikme faizi ile birlikte yatırım teşvik belgesi sahibi
 alıcıdan tahsil edilir. Bu vergiler ve cezalarda zamanaşımı, verginin tarhını veya cezanın
 kesilmesini gerektiren durumun meydana geldiği tarihi takip eden takvim yılı başından başlar.
@@ -501,8 +413,7 @@ uygunluğunu tevsik edici belgeleri düzenlemeye Millî Eğitim Bakanlığı yet
 d) Proje bileşenlerine ilişkin olarak 4760 sayılı Kanuna ekli (IV) sayılı listede yer alan
 malların, Millî Eğitim Bakanlığına ya da proje yüklenicisine teslimi veya bunlar tarafından
 ithali özel tüketim vergisinden müstesnadır (Maliye Bakanlığı istisnaya ilişkin usul ve esasları
-
-belirlemeye yetkilidir.).
+belirlemeye yetkilidir.).
 e) 406 sayılı Kanun uyarınca Bilgi Teknolojileri ve İletişim Kurumuyla görev veya
 imtiyaz sözleşmesi imzalamak suretiyle veya 5/11/2008 tarihli ve 5809 sayılı Elektronik
 Haberleşme Kanunu uyarınca bu Kuruma bildirim yapılması veya bu Kurumca kullanım hakkı
@@ -531,7 +442,7 @@ halinde bu şirket, yalnızca ilgili mevzuatına göre kendi ödemesi gereken ve
 yükümlülüklerden sorumlu olup, ihale yüklenicisinin ödemesi gereken Hazine payı, Kurum
 masraflarına katkı payı, evrensel hizmet katkı payı, idari ücret, özel iletişim vergisi ve telsiz
 ücretlerinden sorumlu tutulmaz.
-Geçici Madde 39- (Ek: 21/3/2018-7103/31 md.)125
+Geçici Madde 39- (Ek: 21/3/2018-7103/31 md.)
 17/4/1957 tarihli ve 6948 sayılı Sanayi Sicili Kanununa göre sanayi sicil belgesini haiz
 katma değer vergisi mükelleflerine münhasıran imalat sanayiinde kullanılmak üzere yapılan
 yeni makina ve teçhizat teslimleri ile 26/6/2001 tarihli ve 4691 sayılı Teknoloji Geliştirme
@@ -544,14 +455,12 @@ kullanılmak üzere, 213 sayılı Kanunun Geçici 30 uncu maddesine göre amorti
 göre katma değer vergisi istisnası kapsamında teslim edilecek yeni makine ve teçhizat için 5/5/2018 tarihli ve
 30412 sayılı Resmî Gazete’de yayımlanan, 30/4/2018 tarihli ve 2018/11674 sayılı Bakanlar Kurulu Kararı eki
 Kararın 4 üncü maddesi ile Karara ekli listeye bakınız.
-125
-
-bölgesinde, 28/2/2008 tarihli ve 5746 sayılı Araştırma, Geliştirme ve Tasarım Faaliyetlerinin
+bölgesinde, 28/2/2008 tarihli ve 5746 sayılı Araştırma, Geliştirme ve Tasarım Faaliyetlerinin
 Desteklenmesi Hakkında Kanun kapsamındaki Ar-Ge ve tasarım merkezlerinde, 3/7/2014
 tarihli ve 6550 sayılı Araştırma Altyapılarının Desteklenmesine Dair Kanun kapsamındaki
 araştırma laboratuvarlarında Ar-Ge, yenilik ve tasarım faaliyetlerinde bulunanlara, münhasıran
 bu faaliyetlerinde kullanılmak üzere yapılan yeni makina ve teçhizat teslimleri 31/12/2022
-tarihine kadar katma değer vergisinden müstesnadır.126
+tarihine kadar katma değer vergisinden müstesnadır.
 Bu kapsamda yapılan teslimler nedeniyle yüklenilen vergiler, vergiye tabi işlemler
 üzerinden hesaplanan vergiden indirilir. İndirim yoluyla telafi edilemeyen vergiler, bu
 Kanunun 32 nci maddesi hükmü uyarınca istisna kapsamında işlem yapan mükellefin talebi
@@ -564,37 +473,21 @@ vergi cezalarında zamanaşımı, verginin tarhını veya cezanın kesilmesini g
 meydana geldiği tarihi takip eden takvim yılının başından itibaren başlar.
 İmalat sanayiinde kullanılmak üzere istisna kapsamında teslim edilecek makina ve
 teçhizatı belirlemeye ve birinci fıkrada yer alan süreyi iki yıla kadar uzatmaya Cumhurbaşkanı, bu
-maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Maliye Bakanlığı yetkilidir.127128
+127128
+maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Maliye Bakanlığı yetkilidir.
 Geçici Madde 40- (Ek:18/1/2019-7162/6 md.)
 2023 UEFA Şampiyonlar Ligi Finali müsabakasına ilişkin olmak üzere Avrupa Futbol
 Federasyonları Birliği (UEFA), katılımcı futbol kulüpleri ve organizasyonda görevli tüzel
 kişilerden iş yeri, kanuni ve iş merkezi Türkiye’de bulunmayanlara, bu müsabakalar
 dolayısıyla yapılacak mal teslimleri ve hizmet ifaları ile bunların bu müsabakalar dolayısıyla
-yapacakları mal teslimleri ve hizmet ifaları katma değer vergisinden müstesnadır.129130
+129130
+yapacakları mal teslimleri ve hizmet ifaları katma değer vergisinden müstesnadır.
 Bu maddede düzenlenen istisnalar dolayısıyla yüklenilen vergiler, vergiye tabi
 işlemler üzerinden hesaplanan vergilerden indirilir. İndirim yoluyla telafi edilemeyen vergiler
 ise 32 nci madde hükümleri uyarınca istisna kapsamında işlem yapan mükellefin talebi
 üzerine nakden veya mahsuben iade edilir.
 Hazine ve Maliye Bakanlığı istisna ve iadenin uygulamasına ilişkin usul ve esasları
-
-21/12/2019 tarihli ve 7201 sayılı Kanunun 8 inci maddesiyle, bu fıkrada yer alan “31/12/2019” ibaresi
-“31/12/2022” şeklinde değiştirilmiştir.
-127
-2/7/2018 tarihli ve 700 sayılı KHK’nin 90 ıncı maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi
-“Cumhurbaşkanı” şeklinde değiştirilmiştir.
-128
-21/12/2019 tarihli ve 7201 sayılı Kanunun 8 inci maddesiyle, bu fıkraya “makine ve teçhizatı belirlemeye”
-ibaresinden sonra gelmek üzere “ve birinci fıkrada yer alan süreyi iki yıla kadar uzatmaya” ibaresi eklenmiştir.
-129
-11/11/2020 tarihli ve 7256 sayılı Kanunun 25 inci maddesiyle bu fıkrada yer alan “2020” ibaresi “2021”
-şeklinde değiştirilmiştir.
-130
-12/1/2023 tarihli ve 7431 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “2019 UEFA Süper Kupa Finali ve
-2021 UEFA Şampiyonlar Ligi Finali müsabakalarına” ibaresi “2023 UEFA Şampiyonlar Ligi Finali müsabakasına”
-şeklinde değiştirilmiştir.
-126
-
-belirlemeye yetkilidir.
+belirlemeye yetkilidir.
 Geçici Madde 41- (Ek:25/11/2020-7257/1 md.)
 18/4/2001 tarihli ve 4646 sayılı Doğal Gaz Piyasası Kanununun ek 1 inci maddesi
 kapsamındaki devirler katma değer vergisinden müstesnadır. Bu kapsamda yapılan işlemler
@@ -628,8 +521,7 @@ Geçici Madde 44- (Ek: 14/7/2023-7456/9 md.)
 6/2/2023 tarihinde meydana gelen depremler nedeniyle genel hayata etkili afet bölgesi
 olarak kabul edilen yerlerde, Afet ve Acil Durum Yönetimi Başkanlığı ile imzalanan protokol
 kapsamında afetzedelere bağışlanacak konutların inşası dolayısıyla kamu kurumu
-
-niteliğindeki meslek kuruluşlarına yapılan teslim ve hizmetler, 31/12/2024 tarihine kadar
+niteliğindeki meslek kuruluşlarına yapılan teslim ve hizmetler, 31/12/2024 tarihine kadar
 katma değer vergisinden müstesnadır.
 Bu kapsamda yapılan teslim ve hizmetler nedeniyle yüklenilen vergiler, vergiye tabi
 işlemler üzerinden hesaplanan vergiden indirilir. İndirim yoluyla telafi edilemeyen vergiler bu
@@ -647,7 +539,7 @@ merkezi, kütüphane gibi taşınmazların inşasına ilişkin yabancı devlet k
 1/1/2024 tarihinden itibaren yapılan teslim ve hizmetler ile bu yerlerde genel bütçeli kamu
 idareleri ile yabancı devlet kurum ve kuruluşları arasında imzalanan protokol kapsamında
 genel bütçeli kamu idarelerine bağışlanacak konutların yabancı devlet kurum ve kuruluşlarına
-teslimi 31/12/2025 tarihine kadar katma değer vergisinden müstesnadır.
+teslimi 31/12/2028 tarihine kadar katma değer vergisinden müstesnadır.
 Bu kapsamda yapılan teslim ve hizmetler nedeniyle yüklenilen vergiler, vergiye tabi
 işlemler üzerinden hesaplanan vergiden indirilir. İndirim yoluyla telafi edilemeyen vergiler bu
 Kanunun 32 nci maddesi hükmü uyarınca istisna kapsamında işlem yapan mükellefin talebi
@@ -666,9 +558,32 @@ Bu maddede düzenlenen istisnalar dolayısıyla yüklenilen vergiler, vergiye ta
 işlemler üzerinden hesaplanan vergilerden indirilir. İndirim yoluyla telafi edilemeyen vergiler
 ise 32 nci madde hükümleri uyarınca istisna kapsamında işlem yapan mükellefin talebi
 üzerine nakden veya mahsuben iade edilir.
-
-Hazine ve Maliye Bakanlığı istisna ve iadenin uygulamasına ilişkin usul ve esasları
+Hazine ve Maliye Bakanlığı istisna ve iadenin uygulamasına ilişkin usul ve esasları
 belirlemeye yetkilidir.
+Geçici Madde 47- (Ek:24/7/2026-7590/9 md.)
+(1) 31/12/2045 tarihine kadar uygulanmak üzere, nükleer enerji santrallerinde elektrik
+enerjisi üretimi faaliyetinde bulunmak için önlisans ve/veya lisans alan mükelleflerin yatırım
+teşvik belgeleri kapsamında nükleer enerji santralleri yatırımlarına ilişkin inşaat işleri
+nedeniyle bu maddenin yürürlüğe girdiği tarihten itibaren yüklenilen ve takvim yılının altı
+aylık dönemleri itibarıyla indirim yoluyla telafi edilemeyen katma değer vergisi, altı aylık
+dönemleri izleyen bir yıl içinde talep edilmesi halinde mükellefe iade edilir.
+(2) 31/12/2045 tarihine kadar uygulanmak üzere, nükleer enerji santrallerinde elektrik
+enerjisi üretimi faaliyetinde bulunmak için önlisans ve/veya lisans alan mükelleflerin yatırım
+teşvik belgeleri kapsamında nükleer enerji santralleri yatırımlarına ilişkin yapılacak makine
+ve teçhizat teslimleri katma değer vergisinden müstesnadır. Bu kapsamda yapılan teslimler
+nedeniyle yüklenilen vergiler, vergiye tabi işlemler üzerinden hesaplanan vergiden indirilir.
+İndirim yoluyla telafi edilemeyen vergiler, 32 nci madde hükmü uyarınca istisna kapsamında
+işlem yapan mükellefin talebi üzerine iade edilir.
+(3) Yatırımın tamamlanmaması halinde, bu madde kapsamında zamanında alınmayan
+veya iade edilen vergiler yatırımcıdan, vergi ziyaı cezası uygulanarak gecikme faizi ile
+birlikte tahsil edilir. Bu vergiler ile vergi cezalarında zamanaşımı, verginin tarhını veya
+cezanın kesilmesini gerektiren durumun meydana geldiği tarihi takip eden takvim yılının
+başından itibaren başlar.
+(4) Cumhurbaşkanı birinci ve ikinci fıkrada yer alan süreleri 31/12/2050 tarihine kadar
+uzatmaya; Hazine ve Maliye Bakanlığı bu maddenin uygulanmasına ilişkin usul ve esasları
+belirlemeye yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

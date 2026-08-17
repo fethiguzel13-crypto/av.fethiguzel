@@ -7,7 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**Safî kurum kazancı**
+**İKİNCİ KISIM
+Tam Mükellefiyet Esasında
+Verginin Tarhı ve Ödenmesi
+BİRİNCİ BÖLÜM
+Matrahın Tayini
+Safî kurum kazancı**
 
 ---
 
@@ -21,6 +26,8 @@ dikkate alınır.
 Kanununun 376 ncı maddesi uyarınca sermayenin tamamlanmasına karar verilen şirketin
 ortakları tarafından zarar sebebiyle karşılıksız kalan kısmı kapatacak miktarda aktarılan
 tutarlar kurum kazancının tespitinde dikkate alınmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

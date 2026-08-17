@@ -7,15 +7,17 @@ lastReviewed: "2026-07-27"
 wordCount: 3619
 ---
 
-**İpotekli borç senedi, taşınmaz rehniyle güvence altına alınmış kişisel**
+**ÜÇÜNCÜ AYIRIM
+İPOTEKLİ BORÇ SENEDİ VE İRAT SENEDİ
+A. İpotekli borç senedi
+I. Amaç ve nitelik**
 
 ---
 
-Madde 898 - İpotekli borç senedi, taşınmaz rehniyle güvence altına alınmış kişisel
-bir alacak meydana getirir.
+Madde 898- İpotekli borç senedi, taşınmaz rehniyle güvence altına alınmış kişisel bir
+alacak meydana getirir.
 
-II.
-Değer biçilmesi
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-**İhbarnamenin muhteviyatı**
+**İhbarnamenin muhteviyatı:**
 
 ---
 
@@ -26,6 +26,8 @@ Madde 35 – İhbarname aşağıda yazılı malümatı ihtiva eder:
 12. (Değişik: 23/6/1982-2686/7 md.) Vergi mahkemesinde dava açma şekli.
 Takdir komisyonunun kararı üzerine tarh edilen vergilerde kararın ve re'sen takdiri
 gerektiren inceleme raporunun birer sureti ihbarnameye eklenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

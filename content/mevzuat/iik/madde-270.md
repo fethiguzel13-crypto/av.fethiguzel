@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**Hapis hakkı için defter yapılması**
+**Hapis hakkı için defter yapılması:**
 
 ---
 
@@ -18,6 +18,8 @@ Teahhurunda tehlike varsa zabıtanın yahut nahiye müdürünün de yardımı is
 İcra dairesi üzerlerinde hapis hakkı bulunan eşyanın bir defterini yapar ve rehinleri
 paraya çevirme yoliyle takip talebinde bulunması için kiralıyana on beş günü geçmemek
 üzere münasip bir mühlet verir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

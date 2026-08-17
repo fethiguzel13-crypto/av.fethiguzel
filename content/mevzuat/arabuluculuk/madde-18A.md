@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4321
 ---
 
-**Dava şartı olarak arabuluculuk**
+**BEŞİNCİ BÖLÜM
+Dava Şartı Olarak Arabuluculuk
+Dava şartı olarak arabuluculuk**
 
 ---
 
@@ -29,10 +31,7 @@ başkanlıklarına bildirir. Komisyon başkanlıkları, bu listeleri kendi yarg�
 arabuluculuk bürolarına, arabuluculuk bürosu kurulmayan yerlerde ise görevlendirecekleri
 sulh hukuk mahkemesi yazı işleri müdürlüğüne gönderir.
 (4) Başvuru, uyuşmazlığın konusuna göre yetkili mahkemenin bulunduğu yer
-6 28/3/2023 tarihli ve 7445 sayılı Kanunun 35 inci maddesiyle bu fıkrada yer alan “Taraflar ve avukatları ile arabulucunun” ibaresi “Kanunlarda icra edilebilirlik şerhi alınmasının zorunlu kılındığı haller hariç, taraflar ve avukatları ile arabulucunun, ticari uyuşmazlıklar bakımından ise avukatlar ile arabulucunun” şeklinde değiştirilmiştir.
-
-
-arabuluculuk bürosuna, arabuluculuk bürosu kurulmayan yerlerde ise görevlendirilen yazı
+arabuluculuk bürosuna, arabuluculuk bürosu kurulmayan yerlerde ise görevlendirilen yazı
 işleri müdürlüğüne yapılır.
 (5) Arabulucu, komisyon başkanlıklarına bildirilen listeden büro tarafından belirlenir.
 Ancak tarafların listede yer alan herhangi bir arabulucu üzerinde anlaşmaları hâlinde bu
@@ -69,12 +68,9 @@ sebebiyle arabuluculuk faaliyetinin sona ermesi durumunda toplantıya katılmaya
 tutanakta belirtilir ve bu taraf davada kısmen veya tamamen haklı çıksa bile karşı tarafın
 ödemekle yükümlü olduğu yargılama giderlerinin yarısından sorumlu tutulur. (Değişik ikinci
 cümle:7/11/2024-7531/25 md.) Ayrıca bu taraf lehine Avukatlık Asgari Ücret Tarifesine göre
-7 6/12/2018 tarihli ve 7155 sayılı Kanunun 23 üncü maddesiyle Kanuna Dördüncü Bölümden sonra gelmek üzere “Dava Şartı Olarak Arabuluculuk” başlığıyla Beşinci Bölüm eklenmiş, diğer bölümler buna göre teselsül ettirilmiştir.
-
-
-belirlenen vekâlet ücretinin yarısına hükmedilir. Her iki tarafın da ilk toplantıya katılmaması
+belirlenen vekâlet ücretinin yarısına hükmedilir. Her iki tarafın da ilk toplantıya katılmaması
 sebebiyle sona eren arabuluculuk faaliyeti üzerine açılacak davalarda tarafların yaptıkları
-yargılama giderleri kendi üzerlerinde bırakılır.8
+yargılama giderleri kendi üzerlerinde bırakılır.
 (12) Tarafların arabuluculuk faaliyeti sonunda anlaşmaları hâlinde, arabuluculuk
 ücreti, Arabuluculuk Asgari Ücret Tarifesinin eki Arabuluculuk Ücret Tarifesinin İkinci
 Kısmına göre aksi kararlaştırılmadıkça taraflarca eşit şekilde karşılanır. Bu durumda ücret,
@@ -108,15 +104,13 @@ görevlendiren büronun bağlı bulunduğu adli yargı ilk derece mahkemesi adal
 yetki alanı içinde yürütülür.
 (18) Özel kanunlarda tahkim veya başka bir alternatif uyuşmazlık çözüm yoluna
 başvurma zorunluluğunun olduğu veya tahkim sözleşmesinin bulunduğu hâllerde, dava şartı
-8 7/11/2024 tarihli ve 7531 sayılı Kanunun 25 inci maddesiyle bu fıkranın birinci cümlesinde yer alan “bu taraf davada kısmen veya tamamen haklı çıksa bile yargılama giderinin tamamından sorumlu tutulur.” ibaresi “bu taraf davada kısmen veya tamamen haklı çıksa bile karşı tarafın ödemekle yükümlü olduğu yargılama giderlerinin yarısından sorumlu tutulur.” şeklinde değiştirilmiştir.
-
-
-olarak arabuluculuğa ilişkin hükümler uygulanmaz.
+olarak arabuluculuğa ilişkin hükümler uygulanmaz.
 (19) İlgili kanunlarda dava şartı olarak arabuluculuğa ilişkin kabul edilen özel
 hükümler saklıdır.
 (20) Bu bölümde hüküm bulunmayan hâllerde niteliğine uygun düştüğü ölçüde bu
 Kanunun diğer hükümleri uygulanır.
-Bazı uyuşmazlıklarda dava şartı olarak arabuluculuk
+
+---
 
 ### Akademik Yorum ve Analiz
 

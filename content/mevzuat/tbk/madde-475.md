@@ -11,7 +11,7 @@ wordCount: 4311
 
 ---
 
-Madde 475 - Eserdeki ayıp sebebiyle yüklenicinin sorumlu olduğu hâllerde işsahibi,
+MADDE 475- Eserdeki ayıp sebebiyle yüklenicinin sorumlu olduğu hâllerde işsahibi,
 aşağıdaki seçimlik haklardan birini kullanabilir:
 1. Eser işsahibinin kullanamayacağı veya hakkaniyet gereği kabule zorlanamayacağı
 ölçüde ayıplı ya da sözleşme hükümlerine aynı ölçüde aykırı olursa sözleşmeden dönme.

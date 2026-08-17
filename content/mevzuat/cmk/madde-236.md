@@ -23,8 +23,7 @@ uzman bir kişi bulundurulur. (Mülga cümle:17/10/2019-7188/22 md.)
 beyanının özel ortamda alınması gerektiği ya da şüpheli veya sanık ile yüz yüze gelmesinde
 sakınca bulunduğu değerlendirilen çocuk veya mağdurların ifade ve beyanları özel ortamda
 uzmanlar aracılığıyla alınır.
-
-(5) (Ek:17/10/2019-7188/22 md.) Türk Ceza Kanununun 103 üncü maddesinin ikinci
+(5) (Ek:17/10/2019-7188/22 md.) Türk Ceza Kanununun 103 üncü maddesinin ikinci
 fıkrasında düzenlenen suçlardan mağdur olan çocukların soruşturma evresindeki beyanları,
 bunlara yönelik hizmet veren merkezlerde Cumhuriyet savcısının nezaretinde uzmanlar
 aracılığıyla alınır. Mağdur çocuğun beyan ve görüntüleri kayda alınır. Kovuşturma evresinde
@@ -46,6 +45,8 @@ müdafii, mağdur, vekil veya kanuni temsilciye verilir. Beyan ve görüntü kay
 soruşturma ve kovuşturma makamlarının gözetiminde gizliliği korunmak suretiyle izletilebilir.
 (9) (Ek:14/11/2024-7532/17 md.) Beşinci ve altıncı fıkrada belirtilen merkezler, devlet
 üniversiteleri tarafından da kurulabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

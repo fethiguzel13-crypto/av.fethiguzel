@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4285
 ---
 
-**Hüviyet ibrazı mecburiyeti**
+**Hüviyet ibrazı mecburiyeti:**
 
 ---
 
@@ -16,6 +16,8 @@ bir vesika bulunur.
 Yoklama yapanlar bu vesikayı, kendilerinden sorulmasa bile, nezdinde yoklama
 yapılan kimseye gösterirler.
 Toplu yoklamalarda kolbaşının vesikayı ibraz etmesi kafidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

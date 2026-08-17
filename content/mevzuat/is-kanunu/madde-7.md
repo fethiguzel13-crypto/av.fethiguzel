@@ -36,8 +36,6 @@ hariç toplam sekiz ayı geçmemek üzere en fazla iki defa yenilenebilir. Geçi
 işveren, belirtilen sürenin sonunda aynı iş için altı ay geçmedikçe yeniden geçici işçi
 çalıştıramaz.
 Bu Kanunun 29 uncu maddesi kapsamında toplu işçi çıkarılan işyerlerinde sekiz ay
-
-
 süresince, kamu kurum ve kuruluşlarında ve yer altında maden çıkarılan işyerlerinde bu
 maddenin ikinci fıkrası kapsamında geçici iş ilişkisi kurulamaz.
 Geçici işçi çalıştıran işveren, grev ve lokavtın uygulanması sırasında 18/10/2012
@@ -77,8 +75,6 @@ geçici iş ilişkisi, geçici işçi ile iş sözleşmesi, geçici işçi çal�
 sağlama sözleşmesi yapmak suretiyle yazılı olarak kurulur. Özel istihdam bürosu ile geçici
 işçi çalıştıran işveren arasında yapılacak geçici işçi sağlama sözleşmesinde; sözleşmenin
 başlangıç ve bitiş tarihi, işin niteliği, özel istihdam bürosunun hizmet bedeli, varsa geçici işçi
-
-
 çalıştıran işverenin ve özel istihdam bürosunun özel yükümlülükleri yer alır. Geçici işçinin,
 Türkiye İş Kurumundan veya bir başka özel istihdam bürosundan hizmet almasını ya da iş
 görme edimini yerine getirdikten sonra geçici işçi olarak çalıştığı işveren veya farklı bir
@@ -111,6 +107,8 @@ eder. Geçici iş ilişkisi kurulan işveren, işçinin kendisinde çalıştığ
 birlikte sorumludur. Dördüncü, beşinci, onuncu ve on dördüncü fıkralar ve dokuzuncu
 fıkranın (a) ve (f) bentleri ile (d) bendinin birinci cümlesinde düzenlenen hak ve
 yükümlülükler bu fıkraya göre kurulan geçici iş ilişkisinde de uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

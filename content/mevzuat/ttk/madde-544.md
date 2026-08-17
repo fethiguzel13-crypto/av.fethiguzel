@@ -11,7 +11,8 @@ wordCount: 4280
 
 ---
 
-Madde 544 - (1) Tasfiyenin sonunda defterler ve tasfiyeye ilişkin olanlar da dâhil, belgeler 82 nci madde uyarı nca saklanır.
+MADDE 544- (1) Tasfiyenin sonunda defterler ve tasfiyeye ilişkin olanlar da dâhil,
+belgeler 82 nci madde uyarınca saklanır.
 
 ---
 

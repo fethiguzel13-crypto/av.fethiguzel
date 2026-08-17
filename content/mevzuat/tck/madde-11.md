@@ -16,10 +16,11 @@ kanunlarına göre aşağı sınırı bir yıldan az olmayan hapis cezasını ge
 ülkede işlediği ve kendisi Türkiye'de bulunduğu takdirde, bu suçtan dolayı yabancı ülkede
 hüküm verilmemiş olması ve Türkiye'de kovuşturulabilirliğin bulunması koşulu ile Türk
 kanunlarına göre cezalandırılır.
-
-(2) Suç, aşağı sınırı bir yıldan az hapis cezasını gerektirdiğinde yargılama yapılması
+(2) Suç, aşağı sınırı bir yıldan az hapis cezasını gerektirdiğinde yargılama yapılması
 zarar görenin veya yabancı hükûmetin şikayetine bağlıdır. Bu durumda şikayet, vatandaşın
 Türkiye'ye girdiği tarihten itibaren altı ay içinde yapılmalıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

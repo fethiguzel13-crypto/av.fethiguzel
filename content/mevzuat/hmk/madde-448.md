@@ -14,6 +14,8 @@ wordCount: 4264
 MADDE 448- (1) Bu Kanun hükümleri, tamamlanmış işlemleri etkilememek kaydıyla
 derhâl uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

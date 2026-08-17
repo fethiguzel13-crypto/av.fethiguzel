@@ -24,6 +24,8 @@ uygun cevap vereceğime ve hiçbir şey saklamayacağıma namusum, şerefim ve k
 bütün inanç ve değerlerim üzerine yemin ediyorum." demekle yemin eda edilmiş sayılır.
 (5) Yemin eda edilirken, hâkim de dâhil olmak üzere hazır bulunan herkes ayağa kalkar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

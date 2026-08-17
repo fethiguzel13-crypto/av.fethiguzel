@@ -7,22 +7,25 @@ lastReviewed: "2026-07-20"
 wordCount: 4263
 ---
 
-**Adlî kontrol**
+**DÖRDÜNCÜ BÖLÜM
+Hükümlülerin Ceza İnfaz Kurumlarına Kabul İşlemleri
+Cumhuriyet Başsavcılığınca yapılacak işlemler**
 
 ---
 
-Madde 20- (1) Suça sürüklenen çocuklar hakkında soruşturma veya kovuşturma
-evrelerinde adlî kontrol tedbiri olarak Ceza Muhakemesi Kanununun 109 uncu maddesinde
-sayılanlar ile aşağıdaki tedbirlerden bir ya da birkaçına karar verilebilir:
-a) Belirlenen çevre sınırları dışına çıkmamak.
-b) Belirlenen bazı yerlere gidememek veya ancak bazı yerlere gidebilmek.
-c) Belirlenen kişi ve kuruluşlarla ilişki kurmamak.
-(2) Ancak bu tedbirlerden sonuç alınamaması, sonuç alınamayacağının anlaşılması
-veya tedbirlere uyulmaması durumunda tutuklama kararı verilebilir.
-(3) (Ek:14/4/2020-7242/54 md.) Denetimli serbestlik müdürlüğü tarafından takip
+Madde 20- (1) Hapis cezasını içeren kesinleşmiş mahkûmiyet kararları, mahkemece,
+hangi hükümlü ve hangi cezanın infazına ilişkin olduğu açıkça belirtilmek suretiyle
+Cumhuriyet Başsavcılığına verilir.
+(2) Cumhuriyet Başsavcılığınca infaz defterine kaydedilen ilâmdaki cezanın süresi
+gözetilerek hükümlü hakkında çağrı kâğıdı veya yakalama emri çıkarılır.
+(3) Çağrı kâğıdı, hükümde gösterilen adrese tebliğ edilir. Hükümlü, adres değişikliklerini
+mahkemeye veya Cumhuriyet Başsavcılığına bildirmekle yükümlüdür. Aksi hâlde hükümde
+gösterilen adreste yapılan tebligat geçerlidir.
+(4) Hükümlüye, Cumhuriyet Başsavcılığınca düzenlenen ceza infaz kurumuna alındığı
+ve salıverileceği tarih ile ceza süresini ve cezanın hangi hükme ilişkin bulunduğunu belirten
+bir belge verilir.
 
-edilen çocuk için adli kontrol süresince rehberlik edecek bir uzman görevlendirilir ve çocuk
-hakkında yapılacak ihtiyaç değerlendirmesine göre iyileştirme çalışmaları yürütülür.
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**Çevrenin kasten kirletilmesi**
+**İKİNCİ BÖLÜM
+Çevreye Karşı Suçlar
+Çevrenin kasten kirletilmesi**
 
 ---
 
@@ -25,6 +27,10 @@ artıklarla ilgili olarak işlenmesi halinde, beş yıldan az olmamak üzere hap
 güne kadar adlî para cezasına hükmolunur.
 (5) Bu maddenin iki, üç ve dördüncü fıkrasındaki fiillerden dolayı tüzel kişiler
 hakkında bunlara özgü güvenlik tedbirlerine hükmolunur.
+cezalandırılır.” ibaresi “altı aydan iki yıla kadar hapis cezası ile cezalandırılır.” şeklinde
+değiştirilmiştir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

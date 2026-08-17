@@ -20,6 +20,8 @@ mahkemeye bildirir.
 ve tespiti ile bazı kayıt ve belgelerin getirtilmesine ihtiyaç duyuyorsa, bunun sağlanması için, bir
 hafta içinde kendisini görevlendiren mahkemeye bilgi verir ve talepte bulunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

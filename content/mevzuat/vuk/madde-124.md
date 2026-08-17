@@ -7,7 +7,7 @@ lastReviewed: "2026-07-11"
 wordCount: 2576
 ---
 
-**Şikayet yolu ile müracaat**
+**Şikayet yolu ile müracaat:**
 
 ---
 
@@ -16,6 +16,8 @@ Vergi mahkemesinde dava açma süresi geçtikten sonra yaptıkları düzeltme ta
 reddolunanlar şikayet yolu ile Maliye Bakanlığına müracaat edebilirler.
 Bu madde gereğince il özel idare vergileri hakında valiliğe ve belediye vergileri
 hakkında belediye başkanlığına müracaat edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

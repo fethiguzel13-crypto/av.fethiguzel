@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**Matraha dahil olan unsurlar**
+**Matraha dahil olan unsurlar:**
 
 ---
 
@@ -17,7 +17,9 @@ boşaltma giderleri,
 b) Ambalaj giderleri, sigorta, komisyon ve benzeri gider karşılıkları ile vergi, resim,
 harç, pay, fon karşılığı gibi unsurlar,
 c) Vade farkı, fiyat farkı, kur farkı, faiz, prim gibi çeşitli gelirler ile servis ve benzer
-adlar altında sağlanan her türlü menfaat, hizmet ve değerler.70
+adlar altında sağlanan her türlü menfaat, hizmet ve değerler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

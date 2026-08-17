@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**Adaylık devresi içinde göreve son verme**
+**Adaylık devresi içinde göreve son verme:**
 
 ---
 
@@ -19,6 +19,8 @@ atamaya yetkili amirin onayı ile ilişikleri kesilir. İlişikleri kesilenler i
 Kamu Personel Bilgi Sisteminin bulunduğu kuruma bildirilir.
 Bu madde hükümlerine göre ilişikleri kesilenler (sağlık nedenleri hariç) üç yıl süre ile
 Devlet memurluğuna alınmazlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

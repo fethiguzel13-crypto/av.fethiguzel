@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**İvazsız tasarrufların hükümsüzlüğü**
+**İvazsız tasarrufların hükümsüzlüğü:**
 
 ---
 
@@ -16,6 +16,8 @@ tazyikına rağmen mal beyanında bulunmıyanlarla, malı bulunmadığını bild
 ettiği malların borcuna kifayetsizliği anlaşılanların ödeme müddetinin başladığı tarihten
 geriye doğru iki yıl içinde veya ödeme müddetinin başlamasından sonra yaptıkları
 bağışlamalar ve ivazsız tasarruflar hükümsüzdür.
+
+---
 
 ### Akademik Yorum ve Analiz
 

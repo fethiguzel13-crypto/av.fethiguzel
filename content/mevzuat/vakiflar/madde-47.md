@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4257
 ---
 
-**Merkez teşkilâtı**
+**(Mülga üçüncü fıkra: 2/7/2018/KHK/703/102 md.)
+ÜÇÜNCÜ BÖLÜM
+Teşkilât
+Merkez teşkilâtı**
 
 ---
 
 MADDE 47 – (Mülga: 2/7/2018/KHK/703/102 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

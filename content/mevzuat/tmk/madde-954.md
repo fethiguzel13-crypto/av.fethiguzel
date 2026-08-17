@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Madde 954**
+**İKİNCİ AYIRIM
+ALACAKLAR VE DİĞER HAKLAR ÜZERİNDE REHİN
+A. Genel olarak**
 
 ---
 
-Madde 954 - Ba şkasına devredilebilen alacaklar ve diğer haklar rehnedilebilir. Aksine bir hüküm bulunmad ıkça, bunların rehni hakkında da teslime bağlı rehin hükümleri uygulanır.
+Madde 954- Başkasına devredilebilen alacaklar ve diğer haklar rehnedilebilir.
+Aksine bir hüküm bulunmadıkça, bunların rehni hakkında da teslime bağlı rehin hükümleri
+uygulanır.
 
 ---
 

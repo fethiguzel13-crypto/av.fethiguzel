@@ -11,7 +11,7 @@ wordCount: 4284
 
 ---
 
-Madde 252 - Zina veya hayata kast neden iyle boşanma hâlinde hâkim, kusurlu eşin
+Madde 252- Zina veya hayata kast nedeniyle boşanma hâlinde hâkim, kusurlu eşin
 payının hakkaniyete uygun olarak azaltılmasına veya kaldırılmasına karar verebilir.
 
 ---

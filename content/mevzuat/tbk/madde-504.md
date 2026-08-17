@@ -12,9 +12,8 @@ I. Vekâletin kapsamı**
 
 ---
 
-Madde 504 - Vekâletin kapsamı, sözleşmede açıkça gösterilmemişse, görülecek işin
+MADDE 504- Vekâletin kapsamı, sözleşmede açıkça gösterilmemişse, görülecek işin
 niteliğine göre belirlenir.
-
 Vekâlet, özellikle vekilin üstlendiği işin görülmesi için gerekli hukuki işlemlerin
 yapılması yetkisini de kapsar.
 Vekil, özel olarak yetkili kılınmadıkça dava açamaz, sulh olamaz, hakeme başvuramaz,

@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**İnşa ve imal giderleri**
+**İnşa ve imal giderleri:**
 
 ---
 
 Madde 271 – İnşa edilen binalarda ve gemilerde, imal edilen makina ve tesisatta
 bunların inşa ve imal giderleri, satın alma bedeli yerine geçer.
 Gayrimenkullerde veya elektrik üretim ve dağıtım varlıklarında maliyet bedelinin
+
+---
 
 ### Akademik Yorum ve Analiz
 

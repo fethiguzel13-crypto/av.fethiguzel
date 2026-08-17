@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**Genel esas**
+**Genel esas:**
 
 ---
 
 Madde 3 – Herhangi bir saha, her ölçekteki plan esaslarına, bulunduğu bölgenin
 şartlarına ve yönetmelik hükümlerine aykırı maksatlar için kullanılamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

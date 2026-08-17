@@ -7,18 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**A. Uygulama alanı**
+**İKİNCİ AYIRIM
+Konut ve Çatılı İşyeri Kiraları
+A. Uygulama alanı**
 
 ---
 
-Madde 339 - Konut ve çatılı işyeri kiralarına ilişkin hükümler, bunlarla birlikte kullanımı
+MADDE 339- Konut ve çatılı işyeri kiralarına ilişkin hükümler, bunlarla birlikte kullanımı
 kiracıya bırakılan eşya hakkında da uygulanır. Ancak bu hükümler, niteliği gereği geçici kullanıma
 özgülenmiş taşınmazların altı ay ve daha kısa süreyle kiralanmalarında uygulanmaz.
 Kamu kurum ve kuruluşlarının, hangi usul ve esaslar içinde olursa olsun yaptıkları
 bütün kira sözleşmelerine de bu hükümler uygulanır.
-
-B. Bağlantılı sözleşme
-2
 
 ---
 

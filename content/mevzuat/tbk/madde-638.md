@@ -11,7 +11,7 @@ wordCount: 4310
 
 ---
 
-Madde 638 - Ortaklık için edinilen veya ortaklığa devredilen şeyler, alacaklar ve
+MADDE 638- Ortaklık için edinilen veya ortaklığa devredilen şeyler, alacaklar ve
 ayni haklar, ortaklık sözleşmesi çerçevesinde elbirliği hâlinde bütün ortaklara ait olur.
 Ortaklık sözleşmesinde aksine bir hüküm bulunmadıkça, bir ortağın alacaklıları,
 haklarını ancak o ortağın tasfiyedeki payı üzerinde kullanabilirler.

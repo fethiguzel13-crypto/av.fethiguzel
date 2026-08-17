@@ -19,6 +19,8 @@ değişikliklerinde büyükşehir belediye meclisinin de görüşü alınır.
 İl ve ilçe sınırlarının değiştirilmesini gerektirecek sınır uyuşmazlıklarında 5442 sayılı
 İl İdaresi Kanunu hükümleri uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

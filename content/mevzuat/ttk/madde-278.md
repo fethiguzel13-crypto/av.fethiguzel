@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**IV
-- İşlem biçimine ilişkin hükümler
+**IV - İşlem biçimine ilişkin hükümler
 1. Birlikte hareket**
 
 ---
 
-Madde 278 - (1) Şirket sözleşmesi veya sonradan verilen bir kararla tasfiye işlerini yalnız başı na görmeye yetkili kılınmamış olan tasfiye memurları birlikte hareket ederler. (2) Tasfiye memuru tasfiyeye yalnız başına yetkiliyse, bu durum kanunda öngörüldüğü şekilde tescil ve ilan olunur.
+MADDE 278- (1) Şirket sözleşmesi veya sonradan verilen bir kararla tasfiye işlerini
+yalnız başına görmeye yetkili kılınmamış olan tasfiye memurları birlikte hareket ederler.
+(2) Tasfiye memuru tasfiyeye yalnız başına yetkiliyse, bu durum kanunda öngörüldüğü
+şekilde tescil ve ilan olunur.
 
 ---
 

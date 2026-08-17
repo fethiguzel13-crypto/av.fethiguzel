@@ -11,7 +11,8 @@ wordCount: 4298
 
 ---
 
-Madde 12 - Onbeş yaşını dolduran küçük, kendi isteği ve velisinin rızasıyla mahkemece ergin kılı nabil ir.
+Madde 12 - Onbeş yaşını dolduran küçük, kendi isteği ve velisinin rızasıyla mahkemece
+ergin kılınabilir.
 
 ---
 

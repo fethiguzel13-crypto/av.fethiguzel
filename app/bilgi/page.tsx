@@ -4,13 +4,16 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import BilgiHubClient from '@/components/BilgiHubClient';
 import {
-  VATANDAS_ARTICLES,
-  getVatandasCategories,
-} from '@/lib/vatandas-rehberi';
+  PUBLISHED_ARTICLES,
+  WITHDRAWN_COUNT,
+  getPublishedCategories,
+} from '@/lib/vatandas-rehberi/published';
 
 const SITE = 'https://www.avfethiguzel.com';
-const N = VATANDAS_ARTICLES.length;
-const pillars = VATANDAS_ARTICLES.filter((a) => a.role === 'pillar');
+// Sayı, yayınlanabilir rehberlerden gelir. Kalıp metin içerenleri saymak,
+// mağaza ve arama sonucunda karşılığı olmayan bir vaat üretiyordu.
+const N = PUBLISHED_ARTICLES.length;
+const pillars = PUBLISHED_ARTICLES.filter((a) => a.role === 'pillar');
 
 export const metadata: Metadata = {
   title: {
@@ -43,8 +46,8 @@ export const metadata: Metadata = {
 };
 
 export default function BilgiIndexPage() {
-  const categories = getVatandasCategories();
-  const cards = VATANDAS_ARTICLES.map((a) => ({
+  const categories = getPublishedCategories();
+  const cards = PUBLISHED_ARTICLES.map((a) => ({
     slug: a.slug,
     h1: a.h1,
     title: a.title,
@@ -96,7 +99,7 @@ export default function BilgiIndexPage() {
           Kıdem, boşanma, icra, kira, veraset, trafik cezası: kısa cevap, sırayla adımlar, gerekli
           belgeler. Genel bilgidir; somut dosyada süre ve merci değişebilir.
         </p>
-        <p className="text-[12px] text-charcoal/45 mb-8">
+        <p className="text-[12px] text-charcoal/45 mb-6">
           <Link href="/mevzuat" className="text-accent font-semibold hover:underline">
             Kanun maddeleri
           </Link>
@@ -105,6 +108,16 @@ export default function BilgiIndexPage() {
             Hesaplama araçları
           </Link>
         </p>
+
+        {WITHDRAWN_COUNT > 0 && (
+          <aside className="mb-8 rounded-2xl border border-charcoal/[0.12] bg-white/70 px-4 py-3.5">
+            <p className="text-[13px] text-charcoal/65 leading-relaxed m-0">
+              <strong className="text-charcoal">Şeffaflık notu:</strong> {WITHDRAWN_COUNT} rehber,
+              yeterli hukuki içerik taşımadığı tespit edildiği için listeden çıkarıldı ve yeniden
+              yazılıyor. Burada gördükleriniz denetimden geçenlerdir.
+            </p>
+          </aside>
+        )}
 
         <BilgiHubClient articles={cards} categories={categories} />
       </main>

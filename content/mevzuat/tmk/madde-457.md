@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**E. Va sinin ücreti**
+**E. Vasinin ücreti**
 
 ---
 
-Madde 457 - Vasi, vesayet altındaki kişinin malvarlığından, olanak b ulunmadığı takdirde Hazined en karşılanmak üzere kendis ine bir ücr et ver ilmesini isteyebilir. Ödenecek ücret, yönetimin gerektirdiğ i emek ve yönetilen malvarlığının geliri göz önünde tutulmak suretiyle her hesap dönemi iç in vesayet makamı tarafından belirle nir. İKİNCİ AYIRIM KAYYIM IN GÖREVLERİ A. Kayyımın konumu
+Madde 457 - Vasi, vesayet altındaki kişinin malvarlığından, olanak bulunmadığı takdirde
+Hazineden karşılanmak üzere kendisine bir ücret verilmesini isteyebilir. Ödenecek ücret,
+yönetimin gerektirdiği emek ve yönetilen malvarlığının geliri göz önünde tutulmak suretiyle her
+hesap dönemi için vesayet makamı tarafından belirlenir.
 
 ---
 

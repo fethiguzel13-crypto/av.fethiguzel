@@ -15,6 +15,8 @@ Madde 136 – (1) Şüpheli veya sanığa yüklenen suç dolayısıyla müdafiin
 konutu ve yerleşim yerindeki telekomünikasyon araçları hakkında, 135 inci madde hükmü
 uygulanamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

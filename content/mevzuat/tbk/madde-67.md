@@ -12,7 +12,7 @@ a. Giderim yükümlülüğü**
 
 ---
 
-Madde 67 - Bir hayvanın bakımını ve yönetimini sürekli veya geçici olarak üstlenen
+MADDE 67- Bir hayvanın bakımını ve yönetimini sürekli veya geçici olarak üstlenen
 kişi, hayvanın verdiği zararı gidermekle yükümlüdür.
 Hayvan bulunduran, bu zararın doğmasını engellemek için gerekli özeni gösterdiğini
 ispat ederse sorumlu olmaz.

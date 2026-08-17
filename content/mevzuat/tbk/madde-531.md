@@ -11,9 +11,7 @@ wordCount: 4279
 
 ---
 
-Madde 531 - İşsahibi yapılan işi uygun bulmuşsa, vekâlet hükümleri uygulanır.
-ONBİRİNCİ BÖLÜM
-Komisyon Sözleşmesi
+MADDE 531- İşsahibi yapılan işi uygun bulmuşsa, vekâlet hükümleri uygulanır.
 
 ---
 

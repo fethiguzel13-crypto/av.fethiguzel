@@ -19,9 +19,10 @@ b) Fon iç tüzüğü ile yönetim ve saklama sözleşmelerinin düzenlenmesine,
 değiştirilmesine, tescil ve ilanına, katılma paylarının değerine, ihraç ve geri alım fiyatlarının
 hesaplanmasına ve ilanına, alım satım ilkelerine, fon yönetim ve saklama ücretlerine,
 c) Katılma paylarının ihracına,
-
-ç) Fonların izahname ve diğer kamuyu aydınlatma yükümlülüklerine,
+ç) Fonların izahname ve diğer kamuyu aydınlatma yükümlülüklerine,
 ilişkin usul ve esasları belirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

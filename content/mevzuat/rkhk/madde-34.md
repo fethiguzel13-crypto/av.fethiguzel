@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**Kurum Personelinin Statüsü**
+**ÜÇÜNCÜ BÖLÜM
+Kurum Personelinin Statüsü**
 
 ---
 
@@ -22,12 +23,14 @@ tarihli ve E: 2020/67; K: 2022/139 sayılı Kararı ile) (Yeniden Düzenleme:23/
 md.) Bu Kanunun ekinde yer alan (I) sayılı cetveldeki toplam kadro sayısı geçilmemek ve
 anılan cetvelde yer alan kadro unvanları ile kadro ve pozisyonlara ilişkin mevzuatın eki
 cetvellerde yer alan kadro unvanlarıyla sınırlı olmak kaydıyla dolu kadrolarda derece
-değişikliği ile boş kadrolarda sınıf, unvan ve derece değişiklikleri Kurul kararıyla yapılır.9
+değişikliği ile boş kadrolarda sınıf, unvan ve derece değişiklikleri Kurul kararıyla yapılır.
 Geçicilik veya belli bir ihtisas gerektiren nitelikteki hizmetler Başkanlıkça tespit olunur. Bu
 işlerde çalışacak personel hakkında vekalet veya istisna akdi hükümleri uygulanır. Bu fıkraya göre
 istihdam edileceklerden sosyal güvenlik kuruluşlarından almakta oldukları aylıkları kesilmez.
 Yabancı uzmanlar da Başkanlığın hazırlayıp Kurulun onayı ile yürürlüğe konacak
 yönetmelik esaslarına göre istihdam edilebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

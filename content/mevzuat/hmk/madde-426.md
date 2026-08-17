@@ -21,6 +21,8 @@ yoluyla çözülmesi talebinin karşı tarafça alındığı tarihte açılmış
 hafta içinde tahkim davasını açmak zorundadır. Aksi hâlde ihtiyati tedbir veya ihtiyati haciz
 kendiliğinden ortadan kalkar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

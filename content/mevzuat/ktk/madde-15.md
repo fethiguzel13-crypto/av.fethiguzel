@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Trafik işaretleri**
+**Trafik işaretleri:**
 
 ---
 
@@ -19,6 +19,9 @@ sürekliliği ve işlerliği sağlanır.
 Görülen eksiklikler ilgili kuruluşlara bildirilerek giderilmesi sağlatılır.
 Trafik işaretlerinin standart, anlam, nicelik ve nitelikleri ile diğer esasları İçişleri
 Bakanlığının görüşü alınarak Bayındırlık Bakanlığınca çıkarılacak yönetmelikte gösterilir.
+Karayolu dışında, kenarında veya üzerindeki diğer levhalar, ışıklar ve işaretlemeler:
+
+---
 
 ### Akademik Yorum ve Analiz
 

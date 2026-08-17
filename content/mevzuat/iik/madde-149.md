@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**1 – İcra emri**
+**1 – İcra emri:**
 
 ---
 
@@ -19,7 +19,8 @@ gönderir.
 Bu icra emrinde borcun otuz gün içinde ödenmesi ve bu müddet içinde borç ödenmez
 ve icra mahkemesinden icranın geri bırakılmasına dair bir karar getirilmezse, alacaklının
 taşınmazın satışını istiyebileceği bildirilir.
-İcranın geri bırakılması:
+
+---
 
 ### Akademik Yorum ve Analiz
 

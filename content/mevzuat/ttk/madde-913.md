@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
-**II
-- Taşıyıcının hapis hakkı**
+**II- Taşıyıcının hapis hakkı**
 
 ---
 
-Madde 913 - (1) Taşıyıcı, seyahat ücretinin teminatı olarak, Türk Medenî Kanununun 950 i lâ 953 üncü maddeleri uyarınca bagaj üzerinde hapis hakkını haizdir.
+MADDE 913- (1) Taşıyıcı, seyahat ücretinin teminatı olarak, Türk Medenî
+Kanununun 950 ilâ 953 üncü maddeleri uyarınca bagaj üzerinde hapis hakkını haizdir.
 
 ---
 

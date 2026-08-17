@@ -11,7 +11,7 @@ wordCount: 4300
 
 ---
 
-Madde 74/A - (Ek:21/3/2018-7103/2 md.)30
+Madde 74/A - (Ek:21/3/2018-7103/2 md.)
 Maliye Bakanlığına bağlı tahsil dairelerince haczedilen mal üzerindeki hacizler
 aşağıdaki şartların sağlanması halinde kaldırılır.
 1. Mahcuz malın bu Kanunun 10 uncu maddesinin birinci fıkrasının (5) numaralı
@@ -29,11 +29,7 @@ tarihten itibaren üç ay müddetle Maliye Bakanlığına bağlı tahsil dairele
 üncü maddesi hükümleri saklı kalmak kaydıyla, haciz tatbik edilemez. Bu hüküm, haczi
 kaldırılan malın üçüncü şahıslar tarafından amme borçlusu lehine teminat olarak gösterilen
 mal olması halinde, üçüncü şahsın bu Kanun kapsamına giren borçları için uygulanmaz.
-21/3/2018 tarihli ve 7103 sayılı Kanunun 93 üncü maddesiyle, bu maddenin 27/3/2018 tarihini izleyen
-aybaşında yürürlüğe gireceği hüküm altına alınmıştır.
-30
-
-Bu madde hükmünden yararlanmak üzere başvuruda bulunarak hacze karşı açtığı
+Bu madde hükmünden yararlanmak üzere başvuruda bulunarak hacze karşı açtığı
 davalardan vazgeçen borçlunun, haczi kaldırılan mal ile ilgili açtığı davalar mahkemelerce
 incelenmez; herhangi bir sebeple incelenir ve karara bağlanırsa bu karar hükümsüz sayılır.
 Tahsil edilen paralar, söz konusu malın aynından doğan motorlu taşıtlar vergisi ve bu
@@ -43,7 +39,8 @@ geçmemiş olan ve tecil edilmiş bulunan alacaklarına, haciz sırasına göre 
 sonra haciz tatbik etmemiş dairelerin bu fıkrada belirtilen alacaklarına garameten taksim
 edilir.
 Bu maddenin uygulamasına ilişkin usul ve esaslar Maliye Bakanlığınca belirlenir.
-Aciz hali:
+
+---
 
 ### Akademik Yorum ve Analiz
 

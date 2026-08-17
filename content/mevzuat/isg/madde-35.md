@@ -7,13 +7,10 @@ lastReviewed: "2026-07-27"
 wordCount: 3621
 ---
 
-**14/7/1965**
+MADDE 35 – 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu ile ilgili
+olup yerine işlenmiştir.
 
 ---
-
-Madde 35 - 14/7/1965
-tarihli ve 657 sayılı Devlet Memurları Kanunu ile ilgili olup yerine
-işlenmiştir.
 
 ### Akademik Yorum ve Analiz
 

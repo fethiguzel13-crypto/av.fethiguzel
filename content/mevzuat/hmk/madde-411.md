@@ -14,6 +14,8 @@ wordCount: 4266
 MADDE 411- (1) Tahkim yargılamasına mahkemelerin yardımı, bu Kısımda açıkça
 izin verilmiş olan hâllerde mümkündür.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

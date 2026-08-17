@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**II
-- Sürelerin hesabı**
+**II - Sürelerin hesabı**
 
 ---
 
-Madde 817 - (1) Kanunun bu Kısmında gösterilen süreler hesap edilirken bunların başladığı gün sayılmaz.
+MADDE 817- (1) Kanunun bu Kısmında gösterilen süreler hesap edilirken bunların
+başladığı gün sayılmaz.
 
 ---
 

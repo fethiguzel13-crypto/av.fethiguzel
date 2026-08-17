@@ -7,11 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**III. Aynı yataktan beslenen kayn aklar**
+**III. Aynı yataktan beslenen kaynaklar**
 
 ---
 
-Madde 759 - Değişik maliklere ait komşu kaynaklar, ortak bir ana kaynaktan beslenmekt e ise maliklerden her biri, bu kaynakların birlikte tutulmasını ve suyun hak sahiplerine o zamana kadark i yararlanmaları oranında dağıtılmasını isteyebilir. Hak sahip leri, ortak tesis masraflarını yararlanmaları oranında üstlenirler. Birinin karşı çıkması hâlinde, hak sahiplerinden her biri, diğer kaynaklardaki su azalacak olsa bile, kendi kaynağındaki suyu n tutulup akıtılması için gerekli işleri yapabilir ve kendi ka ynağına gelen suyun miktarı bu işler sonunda çoğaldığı takdirde, ancak bu çoğalma oranında bir bedel vermekle yükümlü olur.
+Madde 759- Değişik maliklere ait komşu kaynaklar, ortak bir ana kaynaktan beslenmekte
+ise maliklerden her biri, bu kaynakların birlikte tutulmasını ve suyun hak sahiplerine o zamana
+kadarki yararlanmaları oranında dağıtılmasını isteyebilir.
+Hak sahipleri, ortak tesis masraflarını yararlanmaları oranında üstlenirler.
+Birinin karşı çıkması hâlinde, hak sahiplerinden her biri, diğer kaynaklardaki su azalacak
+olsa bile, kendi kaynağındaki suyun tutulup akıtılması için gerekli işleri yapabilir ve kendi
+kaynağına gelen suyun miktarı bu işler sonunda çoğaldığı takdirde, ancak bu çoğalma oranında
+bir bedel vermekle yükümlü olur.
 
 ---
 

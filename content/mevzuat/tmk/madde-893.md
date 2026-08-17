@@ -7,11 +7,19 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**II. Tescile tâb i kanunî ipotekler 1. Hâller**
+**II. Tescile tâbi kanunî ipotekler
+1. Hâller**
 
 ---
 
-Madde 893 - Aşağıdaki alacaklılar, kanunî ipotek hakkının tescilini isteyebilirler: 1. Satıştan doğan alacağı için satılan t aşınmaz üzerinde satıcı, 2. Elbirliği ortaklığına giren taşınmazlarda paylaşmadan doğan alacakları için birlikte mirasçı olanlar veya diğer elbirliği ortakları, 3. Bi r taşınmaz üzerinde yapılan yapı veya diğer işlerde malzeme vererek veya vermeden emek sar f ettikleri için malzeme ve emek karşılığı olarak malik veya yükleniciden alacaklı olan alt yüklenici ve ya zanaatkârlar. Alacaklıların, bu kanunî ipotek hakkından önc eden feragat etmeleri geçerli değildir.
+Madde 893- Aşağıdaki alacaklılar, kanunî ipotek hakkının tescilini isteyebilirler:
+1. Satıştan doğan alacağı için satılan taşınmaz üzerinde satıcı,
+2. Elbirliği ortaklığına giren taşınmazlarda paylaşmadan doğan alacakları için birlikte
+mirasçı olanlar veya diğer elbirliği ortakları,
+3. Bir taşınmaz üzerinde yapılan yapı veya diğer işlerde malzeme vererek veya vermeden
+emek sarf ettikleri için malzeme ve emek karşılığı olarak malik veya yükleniciden alacaklı olan
+alt yüklenici veya zanaatkârlar.
+Alacaklıların, bu kanunî ipotek hakkından önceden feragat etmeleri geçerli değildir.
 
 ---
 

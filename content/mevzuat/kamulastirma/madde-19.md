@@ -27,9 +27,7 @@ malın bulunduğu yer asliye hukuk mahkemesine verilerek, taşınmaz malın kamu
 bedelinin tespitiyle, bu bedelin peşin veya kamulaştırma bu Kanunun 3 üncü maddesinin
 ikinci fıkrasına göre yapılmış ise taksitle ödenmesi karşılığında idare adına tesciline karar
 verilmesi istenir.
-
-
-Mahkeme, taşınmaz malın kamulaştırma bedelini 10 uncu maddede belirtilen usulde
+Mahkeme, taşınmaz malın kamulaştırma bedelini 10 uncu maddede belirtilen usulde
 ve sürede tespit eder. Mahkeme, idarece verilen bilgi ve belgelerden, zilyedin kamulaştırma
 tarihinde taşınmaz malı Türk Kanunu Medenisi hükümleri dairesinde ve zilyetlikle iktisap
 etmiş olduğunu belirtmeye yeterli gördüğü takdirde, kamulaştırma bedelinin tespitine ilişkin
@@ -37,7 +35,7 @@ bilirkişi raporunu idareye, bu raporla birlikte idarece verilen diğer belgeler
 zilyede tebliğ eder.
 Ayrıca taşınmaz malın durumu, o yerine en büyük mal memuruna bildirilmekle
 beraber, taşınmaz malın bulunduğu yerde çıkan bir yerel gazete ve bir internet haber sitesi ile
-Türkiye genelinde yayımlanan bir gazetede en az birer defa ilan edilir.23
+Türkiye genelinde yayımlanan bir gazetede en az birer defa ilan edilir.
 İlanda:
 a) Taşınmaz malın bulunduğu yeri, mevkii, sınırı, miktarı,
 b) Zilyedin kimliği,
@@ -64,14 +62,9 @@ Kamulaştırma bedelinin zilyede verilmiş olması, o taşınmaz malda hak iddia
 genel hükümler dairesinde zilyet aleyhine, bedele istihkak davası açmak hakkını düşürmez.
 (Ek fıkra: 26/5/2004-5177/35 md.) Başkası adına tapulu, sahipsiz ve/veya zilyedi
 tarafından iktisap edilmemiş yerin kamulaştırmasında binaların asgarî levazım bedeli,
-23 13/10/2022 tarihli ve 7418 sayılı Kanunun 28 inci maddesiyle, bu fıkrada yer alan “mahalli
-gazetede ve” ibaresi “bir yerel gazete ve bir internet haber sitesi ile” şeklinde ve aynı fıkrada yer alan
-“en az bir defa” ibaresi “en az birer defa” şeklinde değiştirilmiştir.
+ağaçların ise 11 inci madde çerçevesinde takdir olunan bedeli zilyedine ödenir.
 
-
-ağaçların ise 11 inci madde çerçevesinde takdir olunan bedeli zilyedine ödenir.
-DÖRDÜNCÜ KISIM
-Kamulaştırmada Boşaltma, Vazgeçme ve Geri Alma
+---
 
 ### Akademik Yorum ve Analiz
 

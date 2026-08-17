@@ -12,7 +12,7 @@ I. Genel olarak**
 
 ---
 
-Madde 20 - Genel işlem koşulları, bir sözleşme yapılırken düzenleyenin, ileride çok
+MADDE 20- Genel işlem koşulları, bir sözleşme yapılırken düzenleyenin, ileride çok
 sayıdaki benzer sözleşmede kullanmak amacıyla, önceden, tek başına hazırlayarak karşı tarafa
 sunduğu sözleşme hükümleridir. Bu koşulların, sözleşme metninde veya ekinde yer alması,
 kapsamı, yazı türü ve şekli, nitelendirmede önem taşımaz.

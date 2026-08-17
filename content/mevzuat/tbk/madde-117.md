@@ -12,7 +12,7 @@ I. Koşulları**
 
 ---
 
-Madde 117 - Muaccel bir borcun borçlusu, alacaklının ihtarıyla temerrüde düşer.
+MADDE 117- Muaccel bir borcun borçlusu, alacaklının ihtarıyla temerrüde düşer.
 Borcun ifa edileceği gün, birlikte belirlenmiş veya sözleşmede saklı tutulan bir hakka
 dayanarak taraflardan biri usulüne uygun bir bildirimde bulunmak suretiyle belirlemişse, bu
 günün geçmesiyle; haksız fiilde fiilin işlendiği, sebepsiz zenginleşmede ise zenginleşmenin

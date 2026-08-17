@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Envanter çıkarmak**
+**Günlük kasa defteri:
+Mükerrer Madde 185 – (Ek: 30/12/1980-2365/28 md.; Mülga: 22/7/1998-4369/82 md.)
+Envanter çıkarmak:**
 
 ---
 
@@ -17,6 +19,8 @@ etmektir.
 Şu kadar ki, ticari teamüle göre tartılması, sayılması ve ölçülmesi mutat olmıyan
 malların değerleri tahminen tesbit olunur.
 Mevcutlar, alacaklar ve borçlar işletmeye dahil iktisadi kıymetleri ifade eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

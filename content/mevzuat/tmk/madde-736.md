@@ -11,7 +11,9 @@ wordCount: 4311
 
 ---
 
-Madde 736 - Tapu kütüğüne şerh verilen alım ve geri alım hakları, şerhde belirtilen süre içinde her malike karşı kullanılabilir. Şerhin etkisi, he r durumda, şerhin verildiği tarihin üzerinden on yıl geçmekle sona erer.
+Madde 736- Tapu kütüğüne şerh verilen alım ve geri alım hakları, şerhde belirtilen süre
+içinde her malike karşı kullanılabilir.
+Şerhin etkisi, her durumda, şerhin verildiği tarihin üzerinden on yıl geçmekle sona erer.
 
 ---
 

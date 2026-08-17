@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**İnşaat, tamirat ve bahçe tanzimi ile ilgili tedbirler ve mükellefiyetler**
+**İnşaat, tamirat ve bahçe tanzimi ile ilgili tedbirler ve mükellefiyetler:**
 
 ---
 
@@ -27,6 +27,8 @@ seviyedeki ön bahçeleri yayaya açık bulundurulacak, yayaların can emniyetin
 düşürecek duvar ve manialar yapılamaz.
 Bu gibi yerlerde ve parsel hudutlarına merdiven yapılması zaruri hallerde rıht
 yüksekliği 0,15 metreden fazla olamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

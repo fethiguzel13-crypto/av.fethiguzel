@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**Önaraştırma**
+**hesapta toplanır. (Mülga son cümle: 1/8/2003-4971/25 md.)
+DÖRDÜNCÜ KISIM
+Kurulun İnceleme ve Araştırmalarında Usul
+Önaraştırma**
 
 ---
 
@@ -18,6 +21,8 @@ soruşturma açılmasına ya da soruşturma açılmasına gerek olup olmadığı
 uzmanlardan bir ya da birkaçını raportör olarak görevlendirir.
 Önaraştırma yapmakla görevlendirilen raportör 30 gün içinde elde ettiği bilgileri, her
 türlü delilleri ve konu hakkındaki görüşlerini Kurula yazılı olarak bildirir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

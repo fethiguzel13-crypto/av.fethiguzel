@@ -43,6 +43,8 @@ payların çoğunluğu ile karar alınır. Bu işlemlerde, 6102 sayılı Kanunun
 fıkrasına göre taraf olan ortaklar bu işlemlerin onaylanacağı genel kurul toplantılarında oy
 kullanamazlar. Bu fıkrada belirtilen nisapları hafifleten esas sözleşme hükümleri geçersizdir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -15,6 +15,8 @@ Madde 284 – (1) Bölge adliye mahkemesi karar ve hükümlerine karşı direnil
 bunlara karşı herhangi bir kanun yoluna gidilemez.
 (2) İtiraz ve temyize ilişkin hükümler saklıdır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Duruşma**
+**Duruşma:**
 
 ---
 
 Madde 350 – İcra mahkemesi iki tarafı ve delillerini dinler ve gerek tarafların gerek
 şahitlerin ifadelerini duruşma tutanağına geçirir.
 Cumhuriyet Savcısı hazır bulundurulmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

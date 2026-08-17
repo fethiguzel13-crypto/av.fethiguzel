@@ -7,13 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**II
-- Zorunlu sorumluluk si gortaları
+**II - Zorunlu sorumluluk sigortaları
 1. Sözleşme yapma zorunluluğu**
 
 ---
 
-Madde 1483 - (1) Sigortacılar, diğer kanunlardaki hükümler saklı kalmak üzere, faaliyet gösterdikleri dalların kapsamında bulunan zorunlu sigortaları yapmaktan kaçınamazlar.
+MADDE 1483- (1) Sigortacılar, diğer kanunlardaki hükümler saklı kalmak üzere,
+faaliyet gösterdikleri dalların kapsamında bulunan zorunlu sigortaları yapmaktan kaçınamazlar.
 
 ---
 

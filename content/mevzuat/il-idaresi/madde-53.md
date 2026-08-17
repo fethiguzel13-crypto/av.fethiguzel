@@ -7,11 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4283
 ---
 
-**müzakere usulü İçişleri Bakanlığınca yönetmelikle tesbit edilir.**
+Madde 53 – Bucak meclisi yılda bir defa Ekim ayının başında toplanır. Toplantı
+süresini meclis belirtir.
 
 ---
-
-Madde 53 – Bucak meclisi yılda bir defa Ekim ayının başında toplanır. Toplantı
 
 ### Akademik Yorum ve Analiz
 

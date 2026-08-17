@@ -11,7 +11,12 @@ wordCount: 4304
 
 ---
 
-Madde 190 - Eşlerden biri birliği temsil yetkisini aşar veya bu yetkiyi kullanmada yetersiz kalırsa hâkim, diğer eşin istemi üzerine temsil yetk isini kaldırabilir veya sınırlayabilir. İstemde bulunan eş, temsil yetkisinin kaldırıldığını veya sınırlandığını, üçüncü kişilere sadece kişisel duyuru yoluyla bildirebilir. Temsil yetkisinin kaldırılmasının veya sınırlanmasının iyiniyetli üçüncü kişilere karşı sonu ç doğurması, durumun hâkimin kararıyla ilân edilmesine bağlıdır.
+Madde 190- Eşlerden biri birliği temsil yetkisini aşar veya bu yetkiyi kullanmada yetersiz
+kalırsa hâkim, diğer eşin istemi üzerine temsil yetkisini kaldırabilir veya sınırlayabilir. İstemde
+bulunan eş, temsil yetkisinin kaldırıldığını veya sınırlandığını, üçüncü kişilere sadece kişisel
+duyuru yoluyla bildirebilir.
+Temsil yetkisinin kaldırılmasının veya sınırlanmasının iyiniyetli üçüncü kişilere karşı
+sonuç doğurması, durumun hâkimin kararıyla ilân edilmesine bağlıdır.
 
 ---
 

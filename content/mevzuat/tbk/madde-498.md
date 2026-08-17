@@ -12,7 +12,7 @@ I. Eserin yok olması**
 
 ---
 
-Madde 498 - Eser, yayımcıya teslimden sonra beklenmedik hâl sonucu yok olsa bile,
+MADDE 498- Eser, yayımcıya teslimden sonra beklenmedik hâl sonucu yok olsa bile,
 yayımcı bedeli ödemekle yükümlüdür.
 Eserin başka bir örneği kendisinde varsa, eser sahibinin bu örneği yayımcıya vermesi
 gerekir; başka bir örneği bulunmamakla birlikte, az bir çabayla yeniden meydana

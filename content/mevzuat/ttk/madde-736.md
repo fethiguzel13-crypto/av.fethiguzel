@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Madde 736**
+**2. Şekil**
 
 ---
 
-Madde 736 - (1) Araya girerek kabul, poliçe üzerine yazılır ve araya giren tarafından imza edilir. Kabul beyanında kimin lehine araya girildiği gösterilir; gösterilmemişse düzenleyen lehine kabul edilmiş sayılır.
+MADDE 736- (1) Araya girerek kabul, poliçe üzerine yazılır ve araya giren tarafından
+imza edilir. Kabul beyanında kimin lehine araya girildiği gösterilir; gösterilmemişse
+düzenleyen lehine kabul edilmiş sayılır.
 
 ---
 

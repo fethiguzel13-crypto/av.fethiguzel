@@ -29,6 +29,8 @@ halinde ise ülkeyi terk etmesinden önceki onbeş gün içinde verilir.
 beyanlarını bu beyanname ile yapmak veya bu beyannamelerde yazılı bilgilere uygun olarak
 bildirmek zorundadır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

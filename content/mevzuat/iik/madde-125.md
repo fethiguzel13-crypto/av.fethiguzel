@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4281
 ---
 
-**2 – Münderecatı**
+**(Mülga ikinci fıkra:24/11/2021-7343/19 md.)
+(Mülga üçüncü fıkra:24/11/2021-7343/19 md.)
+(Mülga dördüncü fıkra:24/11/2021-7343/19 md.)
+2 – Münderecatı:**
 
 ---
 
@@ -21,6 +24,8 @@ itibaren bir sene içinde kendisine bildirmemiş olmasına bağlıdır. (K. M. 8
 Taşınmaz rehinle temin edilmiş muaccel borçlar, müşteriye devredilmeyip satış
 bedelinden tercihen ödenir.
 Artırma şartnamesinde hangi masrafların müşteriye ait olacağı tasrih olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

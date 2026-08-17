@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4286
 ---
 
-**Nispi İdarî Para Cezası5**
+**Nispi İdarî Para Cezası**
 
 ---
 
@@ -28,6 +28,8 @@ kararlardaki yükümlülüklere uyulması için belirlenen sürenin dolmasından
 bendindeki fiile ilişkin idarî para cezası, yükümlülük getirilen kararda herhangi bir süre
 belirlenmemiş ise, bu kararın tebliğini takip eden günden itibaren verilebilir. (b) bendindeki
 fiillere ilişkin idarî para cezası ise, fiilin gerçekleştiği günü takip eden günden itibaren verilebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

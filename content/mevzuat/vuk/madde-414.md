@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**Özel kanunlardaki hükümlerin saklı olduğu**
+**Son Hükümler
+Özel kanunlardaki hükümlerin saklı olduğu:**
 
 ---
 
@@ -32,7 +33,9 @@ ilişkin olarak bu Kanun uyarınca belirlenen yeniden değerleme oranında artı
 uygulanır. Bu şekilde hesaplanan maktu had ve miktarların yüzde beşini aşmayan kesirler
 dikkate alınmaz. Cumhurbaşkanı, bu suretle tespit edilen had ve miktarları yarısına kadar
 artırmaya veya indirmeye, nispi hadleri ise iki katına kadar artırmaya veya yarısına kadar
-indirmeye veya tekrar kanuni seviyesine getirmeye yetkilidir.171
+indirmeye veya tekrar kanuni seviyesine getirmeye yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

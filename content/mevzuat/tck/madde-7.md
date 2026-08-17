@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**Zaman bakımından uygulama**
+**İKİNCİ BÖLÜM
+Kanunun Uygulama Alanı
+Zaman bakımından uygulama**
 
 ---
 
@@ -22,6 +24,8 @@ kanunların hükümleri farklı ise, failin lehine olan kanun uygulanır ve infa
 ve tekerrürle ilgili olanlar hariç; infaz rejimine ilişkin hükümler, derhal uygulanır.
 (4) Geçici veya süreli kanunların, yürürlükte bulundukları süre içinde işlenmiş olan
 suçlar hakkında uygulanmasına devam edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

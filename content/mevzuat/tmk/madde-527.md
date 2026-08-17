@@ -8,11 +8,15 @@ wordCount: 4260
 ---
 
 **H. Miras sözleşmeleri
-I. Olumlu miras sözleşme si**
+I. Olumlu miras sözleşmesi**
 
 ---
 
-Madde 527 - Mirasbırakan, miras sözleşmesiyle mirasını veya belirli malını sözl eşme yaptığı kimseye ya da üçüncü bir kişiye bırakma y ükümlülüğü altına gireb ilir. Mirasbırakan, malvarlığında eskisi gibi serbestçe tasarruf edebilir; ancak, miras sözleşmesi ndeki yükümlülüğü ile bağdaşmayan ölüme bağlı tasarruflarına veya bağışlamalarına itiraz edilebilir.
+Madde 527- Mirasbırakan, miras sözleşmesiyle mirasını veya belirli malını sözleşme
+yaptığı kimseye ya da üçüncü bir kişiye bırakma yükümlülüğü altına girebilir.
+Mirasbırakan, malvarlığında eskisi gibi serbestçe tasarruf edebilir; ancak, miras
+sözleşmesindeki yükümlülüğü ile bağdaşmayan ölüme bağlı tasarruflarına veya bağışlamalarına itiraz
+edilebilir.
 
 ---
 

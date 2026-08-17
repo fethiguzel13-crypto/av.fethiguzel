@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4318
 ---
 
-**Nafakaya ilişkin kararlara uymayanların cezası:128**
+**Nafakaya ilişkin kararlara uymayanların cezası:**
 
 ---
 
@@ -18,6 +18,8 @@ gereği yerine getirilirse, borçlu tahliye edilir.
 Borçlunun, nafakanın kaldırılması veya azaltılması talebiyle dava açmış olması
 halinde, ileri sürdüğü sebepler göz önünde bulundurularak, tazyik hapsinin uygulanması bu
 davanın sonuna bırakılabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

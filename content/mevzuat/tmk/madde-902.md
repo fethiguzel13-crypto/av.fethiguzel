@@ -11,7 +11,8 @@ wordCount: 4295
 
 ---
 
-Madde 902 - İpotekli borç senedinin gü vencesi olan taşınmazın devrine veya bölünmesine ilişkin sonuç lar hakkında ipotek hükümleri uygulanır.
+Madde 902- İpotekli borç senedinin güvencesi olan taşınmazın devrine veya bölünmesine
+ilişkin sonuçlar hakkında ipotek hükümleri uygulanır.
 
 ---
 

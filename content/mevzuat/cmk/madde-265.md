@@ -16,6 +16,8 @@ sanık lehine bozulabilir veya değiştirilebilir. Cumhuriyet savcısı, kanun y
 başvurduğunda, yeniden verilen hüküm önceki hükümde tayin edilmiş olan cezadan daha ağır
 bir cezayı içeremez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

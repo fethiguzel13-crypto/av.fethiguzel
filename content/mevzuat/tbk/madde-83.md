@@ -7,12 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**A. Genel olarak
+**İKİNCİ BÖLÜM
+Borç İlişkisinin Hükümleri
+BİRİNCİ AYIRIM
+Borçların İfası
+A. Genel olarak
 I. Şahsen ifa zorunluluğunun olmaması**
 
 ---
 
-Madde 83 - Borcun, bizzat borçlu tarafından ifa edilmesinde alacaklının menfaati
+MADDE 83- Borcun, bizzat borçlu tarafından ifa edilmesinde alacaklının menfaati
 bulunmadıkça borçlu, borcunu şahsen ifa etmekle yükümlü değildir.
 
 ---

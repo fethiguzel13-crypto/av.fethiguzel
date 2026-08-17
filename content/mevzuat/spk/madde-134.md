@@ -14,6 +14,8 @@ wordCount: 4275
 MADDE 134 – (1) Kurul kararlarına karşı açılacak idari davalar idare mahkemelerinde
 görülür. Kurul kararlarına karşı yapılan başvurular acele işlerden sayılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

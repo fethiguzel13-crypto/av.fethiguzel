@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**III
-- Faiz isteme hakkı**
+**III - Faiz isteme hakkı**
 
 ---
 
-Madde 118 - (1) Avans ve olağanüstü giderler hakkında 20 nci maddenin birin ci fıkrasının ikinci cümlesi hükmü uygulanır.
+MADDE 118- (1) Avans ve olağanüstü giderler hakkında 20 nci maddenin birinci
+fıkrasının ikinci cümlesi hükmü uygulanır.
 
 ---
 

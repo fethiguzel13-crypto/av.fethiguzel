@@ -22,6 +22,8 @@ ihraçları, bu Kanun kapsamı dışındadır.
 bulunmayan ve diğer kanunlarda bu Kanunun uygulanmayacağının belirtildiği hâllerde genel
 hükümler uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

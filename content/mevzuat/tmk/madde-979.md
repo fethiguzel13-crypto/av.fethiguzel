@@ -11,7 +11,12 @@ wordCount: 4259
 
 ---
 
-Madde 979 - B ir üçüncü kişi veya zilyetliği devreden, özel bir hukukî ilişk iye dayanarak zilyet olmakta devam ederse zilyetlik, teslim gerçekleşmeksizin kazanılmış o lur. Zilyetliğin bu yolla devri, zilyet olmakta devam eden üçüncü kişiye karşı, ancak durumun devreden t arafından kendisine bildirildiği andan başlayarak hüküm doğuru r. Üçüncü kişi, zilyetliği devredene karşı ileri sürebileceği sebeplerle şeyi edinene verm ekten kaçınabilir.
+Madde 979- Bir üçüncü kişi veya zilyetliği devreden, özel bir hukukî ilişkiye dayanarak
+zilyet olmakta devam ederse zilyetlik, teslim gerçekleşmeksizin kazanılmış olur.
+Zilyetliğin bu yolla devri, zilyet olmakta devam eden üçüncü kişiye karşı, ancak durumun
+devreden tarafından kendisine bildirildiği andan başlayarak hüküm doğurur.
+Üçüncü kişi, zilyetliği devredene karşı ileri sürebileceği sebeplerle şeyi edinene vermekten
+kaçınabilir.
 
 ---
 

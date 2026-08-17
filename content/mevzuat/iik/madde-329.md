@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**Fevkalade mühlet içinde kondordato ve yeniden mühlet verilmemesi**
+**Fevkalade mühlet içinde kondordato ve yeniden mühlet verilmemesi:**
 
 ---
 
@@ -16,15 +16,8 @@ arzusunda bulunan borçlu vesikalarını ve komiserin mütalaanamesiyle birlikte
 projesini mühletin bitmesinden evvel vermeğe mecburdur.
 Fevkalade müddetin bitmesinden sonra başlıyan altı ay içinde konkordato mühleti
 verilemiyeceği gibi yeniden fevkalade mühlet de verilemez.
-2/3/2005 tarihli ve 5311 sayılı Kanunun 21 inci maddesiyle 327 inci maddenin beşinci fıkrasının ikinci
-cümlesinde geçen “temyize müracaat olunabilir.” İbaresi, “istinaf yoluna başvurulabilir.”; altıncı fıkrasında
-geçen “Temyiz” ibaresi, “Bölge adliye mahkemesi” şeklinde değiştirilmiştir.
-124
-2/3/2005 tarihli ve 5311 sayılı Kanunun 21 inci maddesiyle bu fıkranın üçüncü cümlesinde geçen “temyiz de”
-ibaresi, “bölge adliye mahkemesi de” şeklinde değiştirilmiştir.
-123
 
-İflâsın ertelenmesi ile ilişki:
+---
 
 ### Akademik Yorum ve Analiz
 

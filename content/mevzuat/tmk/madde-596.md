@@ -11,7 +11,11 @@ wordCount: 4310
 
 ---
 
-Madde 596 - Vasiyetname, geçerli olup olmadığına ba kılmaksızın tesliminden başlayarak bir ay içinde mirasbırakanın yerleşim yeri sulh hâkimi tarafından açılır ve ilgili lere okunur. Bilinen mirasçılar ve diğer ilgililer vasiyetnamenin açılması sırasında diledikleri takdirde hazır bulunmak üzere çağrılır. Mi rasbırakanın sonradan ortaya çıkan vasiyetnameleri için de aynı işlemler yapılır. 30 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu bentte yer ala n “tüzükte” ibaresi “Cumhurbaşkanınca ç ıkarılan yönetmelikte” şeklinde değiştirilm iştir.
+Madde 596- Vasiyetname, geçerli olup olmadığına bakılmaksızın tesliminden başlayarak
+bir ay içinde mirasbırakanın yerleşim yeri sulh hâkimi tarafından açılır ve ilgililere okunur.
+Bilinen mirasçılar ve diğer ilgililer vasiyetnamenin açılması sırasında diledikleri takdirde
+hazır bulunmak üzere çağrılır.
+Mirasbırakanın sonradan ortaya çıkan vasiyetnameleri için de aynı işlemler yapılır.
 
 ---
 

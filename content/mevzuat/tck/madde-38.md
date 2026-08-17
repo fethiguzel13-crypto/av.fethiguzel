@@ -22,6 +22,8 @@ fail veya diğer suç ortağı hakkında ağırlaştırılmış müebbet hapis c
 yirmibeş yıla kadar, müebbet hapis cezası yerine onbeş yıldan yirmi yıla kadar hapis cezasına
 hükmolunabilir. Diğer hallerde verilecek cezada, üçte bir oranında indirim yapılabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

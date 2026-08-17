@@ -11,7 +11,7 @@ wordCount: 4311
 
 ---
 
-Madde 78 - Borçlanmadığı edimi kendi isteğiyle yerine getiren kimse, bunu ancak,
+MADDE 78- Borçlanmadığı edimi kendi isteğiyle yerine getiren kimse, bunu ancak,
 kendisini borçlu sanarak yerine getirdiğini ispat ederse geri isteyebilir.
 Zamanaşımına uğramış bir borcun ifasından veya ahlaki bir ödevin yerine getirilmiş
 olmasından kaynaklanan zenginleşmeler geri istenemez.

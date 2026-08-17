@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**V
-- Karşılığın hamile geçmesi**
+**V - Karşılığın hamile geçmesi**
 
 ---
 
-Madde 774 - (1) Bir poliçe hamilinin, senedin düzenlenmesine sebep olan alacağı iktisap edip etmeyeceğini, senedin düzenlendiği yerdeki huku k belirler.
+MADDE 774- (1) Bir poliçe hamilinin, senedin düzenlenmesine sebep olan alacağı
+iktisap edip etmeyeceğini, senedin düzenlendiği yerdeki hukuk belirler.
 
 ---
 

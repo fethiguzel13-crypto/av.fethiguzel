@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**C. Mirasçıları n üçüncü kişilere karşı sorumluluğu I. Müteselsil sorumluluk**
+**C. Mirasçıların üçüncü kişilere karşı sorumluluğu
+I. Müteselsil sorumluluk**
 
 ---
 
-Madde 681 - Mirasçılar, bölünm esine veya nakline alacaklı tarafından açık veya örtülü olarak rıza gösterilmemiş olan tereke borçlarından dolayı, paylaşmadan sonra da bütün malvarlıklarıyla mütesel silen sorumludurlar. Paylaşmanın gerçekleştiği tarihin veya daha sonra yerine getirilecek borçlarda muacceliyet tarih inin üzerinden beş yıl geçmekle teselsül sona erer.
+Madde 681- Mirasçılar, bölünmesine veya nakline alacaklı tarafından açık veya örtülü
+olarak rıza gösterilmemiş olan tereke borçlarından dolayı, paylaşmadan sonra da bütün
+malvarlıklarıyla müteselsilen sorumludurlar.
+Paylaşmanın gerçekleştiği tarihin veya daha sonra yerine getirilecek borçlarda muacceliyet
+tarihinin üzerinden beş yıl geçmekle teselsül sona erer.
 
 ---
 

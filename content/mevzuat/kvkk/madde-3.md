@@ -26,13 +26,15 @@ açıklanması, aktarılması, devralınması, elde edilebilir hâle getirilmesi
 kullanılmasının engellenmesi gibi veriler üzerinde gerçekleştirilen her türlü işlemi,
 f) Kurul: Kişisel Verileri Koruma Kurulunu,
 g) Kurum: Kişisel Verileri Koruma Kurumunu,
-h) Veri işleyen: Veri sorumlusunun verdiği yetkiye dayanarak onun adına kişisel
+ğ) Veri işleyen: Veri sorumlusunun verdiği yetkiye dayanarak onun adına kişisel
 verileri işleyen gerçek veya tüzel kişiyi,
 h) Veri kayıt sistemi: Kişisel verilerin belirli kriterlere göre yapılandırılarak işlendiği
 kayıt sistemini,
 ı) Veri sorumlusu: Kişisel verilerin işleme amaçlarını ve vasıtalarını belirleyen, veri
 kayıt sisteminin kurulmasından ve yönetilmesinden sorumlu olan gerçek veya tüzel kişiyi,
 ifade eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

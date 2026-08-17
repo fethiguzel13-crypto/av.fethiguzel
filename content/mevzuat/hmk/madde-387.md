@@ -15,6 +15,8 @@ MADDE 387- (1) Çekişmesiz yargı işlerinde verilen kararlara karşı hukuki y
 bulunan ilgililer, özel kanuni düzenlemeler saklı kalmak kaydıyla, kararın öğrenilmesinden
 itibaren iki hafta içinde, bu Kanun hükümleri dairesinde istinaf yoluna başvurabilirler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -23,6 +23,8 @@ talep edemez.
 (3) Satıcının aldığı bedeli ve tüketiciyi borç altına sokan her türlü belgeyi iade ettiği
 tarihten itibaren, tüketici on gün içinde edinimlerini iade eder.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

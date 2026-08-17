@@ -7,11 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
-**tarafından aynen temin edilir veya bedelleri, Emniyet Genel Müdürlüğü bütçesinden ödenir.**
+Madde 27 – Bu kanun neşri tarihinden muteberdir.
 
 ---
-
-Madde 27 – Bu kanun neşri tarihinden muteberdir.
 
 ### Akademik Yorum ve Analiz
 

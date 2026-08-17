@@ -11,11 +11,8 @@ wordCount: 4291
 
 ---
 
-Madde 204 - Mirasın paylaşılması ve rehinli taşınmazların devri konusundaki borcun
+MADDE 204- Mirasın paylaşılması ve rehinli taşınmazların devri konusundaki borcun
 üstlenilmesine ilişkin özel hükümler saklıdır.
-
-ÜÇÜNCÜ AYIRIM
-Sözleşmenin Devri ve Sözleşmeye Katılma
 
 ---
 

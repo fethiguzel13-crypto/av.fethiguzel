@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
-**Okul, radyo ve televizyonlarda trafik eğitimi:86**
+**Okul, radyo ve televizyonlarda trafik eğitimi:**
 
 ---
 
 Madde 125 – (Değişik birinci fıkra: 17/10/1996-4199/41 md.) Milli Eğitim
-Banaklığınca, ilköğretim ve ortaöğretim okullarında ders programlarına eğitim amacı ile
+Bakanlığınca, ilköğretim ve ortaöğretim okullarında ders programlarına eğitim amacı ile
 zorunlu uygulamalı trafik ve ilk yardım dersleri konulur. Bu dersler için valilik ve
 kaymakamlıkça yükseköğrenim görmüş emniyet görevlileri görevlendirilebilir.
 (Ek: 17/10/1996-4199/41 md.) Üniversite ve yüksekokullar ile lise ve dengi
@@ -28,6 +28,8 @@ uymayan ulusal, bölgesel, yerel radyo ve televizyonlar hakkında 13.4.1994 tari
 sayılı Radyo ve Televizyonların Kuruluş ve Yayınları Hakkında Kanun hükümleri uygulanır.
 Silahlı Kuvvetler bünyesindeki birlik ve er eğitimi merkezlerine eğitim amacı ile
 yeteri kadar trafik dersi konulması Genelkurmay Başkanlığınca düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

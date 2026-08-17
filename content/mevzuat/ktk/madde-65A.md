@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Kış lastiği ve kar zinciri zorunluluğu**
+**Kış lastiği ve kar zinciri zorunluluğu:**
 
 ---
 
@@ -31,6 +31,9 @@ akışına engel olan kamyon, çekici ve otobüs cinsi araçların sürücüsün
 cezası uygulanır.
 Bu maddeye ilişkin usul ve esaslar Ulaştırma ve Altyapı Bakanlığı ile İçişleri Bakanlığınca
 müştereken belirlenir.
+Bisiklet, elektrikli skuter, motorlu bisiklet ve motosiklet sürücüleri ile ilgili kurallar:
+
+---
 
 ### Akademik Yorum ve Analiz
 

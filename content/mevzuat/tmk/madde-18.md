@@ -11,7 +11,9 @@ wordCount: 4310
 
 ---
 
-Madde 18 - Eşlerden biri ile diğer eşin kan hısı mları , aynı tür ve dereceden kayın hısımları olur. Kayın hısımlığı, kendisini meydana getiren evliliğin sona ermesiyle ortadan kalkmaz.
+Madde 18- Eşlerden biri ile diğer eşin kan hısımları, aynı tür ve dereceden kayın hısımları
+olur.
+Kayın hısımlığı, kendisini meydana getiren evliliğin sona ermesiyle ortadan kalkmaz.
 
 ---
 

@@ -7,11 +7,21 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**Madde 550**
+**BEŞİNCİ AYIRIM
+VASİYETİ YERİNE GETİRME GÖREVLİSİ
+A. Atanması
+I. Atanma ve ehliyet**
 
 ---
 
-Madde 550 - Mirasbırakan, vasiyetnameyle bir vey a birden çok vasiyeti yerin e getirme görevlisi atayabilir. Vasiye ti yer ine getirme görevlisinin, göreve başladığı sırada fiil ehliyetine sahip olması gerekir. Vasiyet i yerine getirme görevlisine sulh hâkimi tarafından bu görevi bildirilir; bildirim tarihin den başlayarak onbeş gün iç inde kabul edilmediği sulh hâkimine bi ldiril mezse, görev kabul edilmiş sayılır. Vasiyeti yerine getirme görevlisi hizmetinin karşılığında uygun bir ücret isteyebilir.
+Madde 550- Mirasbırakan, vasiyetnameyle bir veya birden çok vasiyeti yerine getirme
+görevlisi atayabilir.
+Vasiyeti yerine getirme görevlisinin, göreve başladığı sırada fiil ehliyetine sahip olması
+gerekir.
+Vasiyeti yerine getirme görevlisine sulh hâkimi tarafından bu görevi bildirilir; bildirim
+tarihinden başlayarak onbeş gün içinde kabul edilmediği sulh hâkimine bildirilmezse, görev
+kabul edilmiş sayılır.
+Vasiyeti yerine getirme görevlisi hizmetinin karşılığında uygun bir ücret isteyebilir.
 
 ---
 

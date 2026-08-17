@@ -7,14 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**fabrika ve müesseseler, askerlik daire ve şubeleri bu madde hükmünden müstesnadır.**
-
----
-
 Madde 5 – İllerde, valilerin tayin ve tesbit ettiği işlerde yardımcılığını ve valinin
 bulunmadığı zamanlarda vekilliğini yapmak üzere vali muavinleri bulunur. Valiliğin yazı
 işlerinin düzenlenmesinden de vali muavini sorumludur.
-(Mülga ikinci fıkra: 2/7/2018 - KHK/703/138 md.)6
+
+---
 
 ### Akademik Yorum ve Analiz
 

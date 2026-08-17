@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**İsteğe bağlı sigorta başlangıcı ve sona ermesi88**
+**İsteğe bağlı sigorta başlangıcı ve sona ermesi**
 
 ---
 
@@ -22,11 +22,8 @@ madde uyarınca prim ödeme gün sayısı, ay içindeki toplam çalışma saatin
 Kanuna göre belirlenen günlük normal çalışma saatine bölünmesi suretiyle hesaplanan
 sigortalıların aynı ay içerisinde isteğe bağlı sigortaya prim ödemeleri halinde, primi ödenen
 süreler zorunlu sigortalılığa ilişkin prim ödeme gün sayısına otuz günü geçmemek üzere
-eklenir ve eklenen bu süreler, 4 üncü maddenin birinci fıkrasının (a) bendi kapsamında 
-88 13/2/2011 tarihli ve 6111 sayılı Kanunun 32 nci maddesiyle, bu maddenin üçüncü fıkrasında yer alan “(b) bendi” ibaresi “(a) bendi”, beşinci fıkrasında yer alan “bu süreler” ibaresi “söz konusu süreler, bu maddenin üçüncü fıkrası hükmü saklı olmak üzere” şeklinde değiştirilmiştir.
-
-
-sigortalılık süreleri olarak kabul edilir.
+eklenir ve eklenen bu süreler, 4 üncü maddenin birinci fıkrasının (a) bendi kapsamında
+sigortalılık süresi olarak kabul edilir.
 İsteğe bağlı sigortalılık;
 a) İsteğe bağlı sigortalılığını sona erdirme talebinde bulunanların, primi ödenmiş son
 günü takip eden günden,
@@ -37,6 +34,8 @@ itibaren sona erer.
 genel sağlık sigortası hükümlerinin uygulamasında dikkate alınır ve söz konusu süreler, bu
 maddenin üçüncü fıkrası hükmü saklı olmak üzere 4 üncü maddenin birinci fıkrasının (b)
 bendi kapsamında sigortalılık süresi olarak kabul edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

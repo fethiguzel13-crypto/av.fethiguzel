@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**İrtifak hakları**
+**İrtifak hakları:**
 
 ---
 
@@ -17,9 +17,7 @@ derinliğindeki kısmı üzerinde kamu yararı amacıyla irtifak hakkı tesis ed
 Belediyeler veya valilikler, mümkün olan yer ve hallerde mal sahibinin muvafakatiyle,
 bedelsiz irtifak hakkı verme karşılığında, bedelsiz irtifak hakkı tesis edebilir.
 
-5/12/2024 tarihli ve 7534 sayılı Kanunun 5 inci maddesiyle, bu fıkrada yer alan “birinci
-fıkranın (a) ve (b) bentlerine” ibaresi “bu madde hükümlerine” şeklinde değiştirilmiştir.
-16
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -17,6 +17,8 @@ gösteren sağlık mesleği mensubu, bir yıla kadar hapis cezası ile cezaland�
 (2) Sağlık mesleği mensubu deyiminden tabip, diş tabibi, eczacı, ebe, hemşire ve
 sağlık hizmeti veren diğer kişiler anlaşılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

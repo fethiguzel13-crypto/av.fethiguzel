@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**Tahsil edilen amme alacaklarından yapılacak reddiyat sebebiyle mahsuplar**
+**Tahsil edilen amme alacaklarından yapılacak reddiyat sebebiyle mahsuplar:**
 
 ---
 
@@ -17,6 +17,8 @@ edilmek suretiyle reddolunur.
 Umumi bütçeden reddedilen paralar arasında hususi idarelerle belediyelere ait olan
 kısımları ret ve mahsup olunduğu senede bu idareler nam ve hesabına ayrılacak hisselerden
 Hazinece tevkif ve mahsup olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

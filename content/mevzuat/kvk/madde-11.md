@@ -12,15 +12,15 @@ wordCount: 4300
 ---
 
 MADDE 11- (1) Kurum kazancının tespitinde aşağıdaki indirimlerin yapılması kabul
-edilmez:31
+edilmez:
 a) Öz sermaye üzerinden ödenen veya hesaplanan faizler.
 b) Örtülü sermaye üzerinden ödenen veya hesaplanan faiz, kur farkları ve benzeri
 giderler.
 c) Transfer fiyatlandırması yoluyla örtülü olarak dağıtılan kazançlar.
-ch) Her ne şekilde ve ne isimle olursa olsun ayrılan yedek akçeler (Türk Ticaret
+ç) Her ne şekilde ve ne isimle olursa olsun ayrılan yedek akçeler (Türk Ticaret
 Kanununa, kurumların kuruluş kanunlarına, Cumhurbaşkanlığı kararnamelerine, tüzüklerine,
 ana statülerine veya sözleşmelerine göre safî kazançlardan ayırdıkları tüm yedek akçeler ile
-Bankacılık Kanununa göre bankaların ayırdıkları genel karşılıklar dahil).32
+Bankacılık Kanununa göre bankaların ayırdıkları genel karşılıklar dahil).
 d) Bu Kanuna göre hesaplanan kurumlar vergisi ile her türlü para cezaları, vergi
 cezaları, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun
 hükümlerine göre ödenen cezalar, gecikme zamları ve faizler ile Vergi Usul Kanunu
@@ -35,15 +35,7 @@ g) Sözleşmelerde ceza şartı olarak konulan tazminatlar hariç olmak üzere k
 kendisinin, ortaklarının, yöneticilerinin ve çalışanlarının suçlarından doğan maddî ve manevî
 zarar tazminat giderleri.
 h) Basın yoluyla işlenen fiillerden veya radyo ve televizyon yayınlarından doğacak
-2/7/2018 tarihli ve 700 sayılı KHK’nin 173 üncü maddesiyle, (ı) bendinde yer alan “Bakanlar
-Kurulu” ibaresi “Cumhurbaşkanı” şeklinde, (i) bendinde yer alan “Bakanlar Kurulunca” ibaresi
-“Cumhurbaşkanınca” ve “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-32
-2/7/2018 tarihli ve 700 sayılı KHK’nin 173 üncü maddesiyle, bu bentte yer alan “kanunlarına,”
-ibaresinden sonra gelmek üzere “Cumhurbaşkanlığı kararnamelerine,” ibaresi eklenmiştir.
-31
-
-maddî ve manevî zararlardan dolayı ödenen tazminat giderleri.
+maddî ve manevî zararlardan dolayı ödenen tazminat giderleri.
 ı) Her türlü alkol ve alkollü içkiler ile tütün ve tütün mamullerine ait ilan ve reklam
 giderlerinin % 50’si. Cumhurbaşkanı bu oranı % 100’e kadar artırmaya veya sıfıra kadar
 indirmeye yetkilidir.
@@ -61,6 +53,8 @@ Edilmesi Hakkında Kanunun ek 4 üncü maddesi kapsamında hakkında reklam yasa
 uygulananlara verilen reklamların giderleri.
 k) (Ek:2/4/2026-7577/11 md.) Her türlü şans ve bahis oyunlarına ait ilan ve reklam
 giderleri.
+
+---
 
 ### Akademik Yorum ve Analiz
 

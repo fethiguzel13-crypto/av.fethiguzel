@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**Hediye alma, menfaat sağlama yasağı**
+**Hediye alma, menfaat sağlama yasağı:**
 
 ---
 
@@ -18,6 +18,8 @@ veya iş sahiplerinden borç para istemeleri ve almaları yasaktır.
 yasağının kapsamını belirlemeye ve en az genel müdür veya eşiti seviyedeki üst düzey kamu
 görevlilerince alınan hediyelerin listesini gerektiğinde her takvim yılı sonunda bu
 görevlilerden istemeye yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

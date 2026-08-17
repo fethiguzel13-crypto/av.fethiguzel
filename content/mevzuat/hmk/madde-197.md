@@ -22,6 +22,8 @@ hususu sağlamak için, taraflara incelemenin yapılacağı tarih ve yer bildiri
 taraflar istinabe olunan mahkemede hazır bulunmasalar dahi deliller incelenir veya beyanlar
 dinlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

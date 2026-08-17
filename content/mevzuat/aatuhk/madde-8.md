@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**Tebliğler ve müddetlerin hesaplanması**
+**Tebliğler ve müddetlerin hesaplanması:**
 
 ---
 
 Madde 8 – Hilafına bir hüküm bulunmadıkça bu kanunda yazılı müddetlerin
 hesaplanmasında ve tebliğlerin yapılmasında Vergi Usul Kanunu hükümleri tatbik olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

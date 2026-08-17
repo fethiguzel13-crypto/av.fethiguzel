@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**b) İtirazın kesin olarak kaldırılması:28**
+**b) İtirazın kesin olarak kaldırılması:**
 
 ---
 
@@ -16,20 +16,7 @@ Madde 68 – (Değişik: 18/2/1965-538/38 md.)
 takibi, imzası ikrar veya noterlikçe tasdik edilen borç ikrarını içeren bir senede yahut resmî
 dairelerin veya yetkili makamların yetkileri dahilinde ve usulüne göre verdikleri bir makbuz
 veya belgeye müstenitse, alacaklı itirazın kendisine tebliği tarihinden itibaren altı ay içinde
-
-17/7/2003 tarihli ve 4949 sayılı Kanunun 15 inci maddesiyle 67 nci maddenin üst başlığı “6– İtirazın iptali:”
-iken, “6-İtirazın hükümden düşürülmesi:”; başlığı “a) Mahkemeye başvurmak suretiyle:” iken, “a) İtirazın
-iptali:”; 68 inci maddenin başlığı “b) İtirazın kesin olarak kaldırılması suretiyle:” iken “ b) İtirazın kesin olarak
-kaldırılması:” olarak değiştirilmiştir.
-27
-2/7/2012 tarihli ve 6352 sayılı Kanunun 11 inci maddesiyle, bu fıkrada yer alan “yüzde kırkından” ibaresi
-“yüzde yirmisinden” şeklinde değiştirilmiştir.
-28
-17/7/2003 tarihli ve 4949 sayılı Kanunun 15 inci maddesiyle 68 inci maddenin başlığı “b) İtirazın kesin olarak
-kaldırılması suretiyle:” iken “ b) İtirazın kesin olarak kaldırılması:” olarak değiştirilmiştir.
-26
-
-itirazın kaldırılmasını isteyebilir. Bu süre içerisinde itirazın kaldırılması istenilmediği takdirde
+itirazın kaldırılmasını isteyebilir. Bu süre içerisinde itirazın kaldırılması istenilmediği takdirde
 yeniden ilâmsız takip yapılamaz.
 Borçlu itirazını varit gösterecek hiçbir belge ibraz edemezse icra mahkemesi itirazın
 kaldırılmasına karar verir.
@@ -57,8 +44,9 @@ hâlinde borçlu, talebin aynı nedenlerle reddi hâlinde ise alacaklı, diğer 
 yüzde yirmiden aşağı olmamak üzere tazminata mahkûm edilir. Borçlu, menfi tespit ve
 istirdat davası açarsa, yahut alacaklı genel mahkemede dava açarsa, hükmolunan tazminatın
 tahsili dava sonuna kadar tehir olunur ve dava lehine sonuçlanan taraf için, daha önce
-hükmedilmiş olan tazminat kalkar.29
-c) İtirazın geçici olarak kaldırılması:30
+hükmedilmiş olan tazminat kalkar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

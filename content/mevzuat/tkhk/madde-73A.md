@@ -31,6 +31,8 @@ Arabuluculuk Ücret Tarifesinin Birinci Kısmına göre iki saatlik ücret tutar
 hâlinde arabuluculuk ücreti, 6183 sayılı Kanun hükümlerine göre davalıdan tahsil olunarak
 bütçeye gelir kaydedilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -20,8 +20,7 @@ c) Hâkim: Aile mahkemesi hâkimini,
 ç) Kadına yönelik şiddet: Kadınlara, yalnızca kadın oldukları için uygulanan veya
 kadınları etkileyen cinsiyete dayalı bir ayrımcılık ile kadının insan hakları ihlaline yol açan ve
 bu Kanunda şiddet olarak tanımlanan her türlü tutum ve davranışı,
-
-d) Şiddet: Kişinin, fiziksel, cinsel, psikolojik veya ekonomik açıdan zarar görmesiyle veya
+d) Şiddet: Kişinin, fiziksel, cinsel, psikolojik veya ekonomik açıdan zarar görmesiyle veya
 acı çekmesiyle sonuçlanan veya sonuçlanması muhtemel hareketleri, buna yönelik tehdit ve
 baskıyı ya da özgürlüğün keyfî engellenmesini de içeren, toplumsal, kamusal veya özel alanda
 meydana gelen fiziksel, cinsel, psikolojik, sözlü veya ekonomik her türlü tutum ve davranışı,
@@ -37,6 +36,8 @@ uygulayan veya uygulama tehlikesi bulunan kişileri,
 hakkında hâkim, kolluk görevlileri ve mülkî amirler tarafından, istem üzerine veya resen
 verilecek tedbir kararlarını,
 ifade eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

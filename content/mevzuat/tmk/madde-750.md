@@ -11,7 +11,8 @@ wordCount: 4291
 
 ---
 
-Madde 750 - Her taşınmaz maliki, komşuluk huk ukundan doğan yetkilerin kullanılması için gerekli işlere ve bunların giderlerine, kendi yararlanması or anında katılmakla yükümlüdür.
+Madde 750- Her taşınmaz maliki, komşuluk hukukundan doğan yetkilerin kullanılması
+için gerekli işlere ve bunların giderlerine, kendi yararlanması oranında katılmakla yükümlüdür.
 
 ---
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**Memurluktan çekilenlerin yeniden atanmaları**
+**Memurluktan çekilenlerin yeniden atanmaları:**
 
 ---
 
@@ -32,8 +32,7 @@ yürürlüğe girdiği tarihten sonra memurluktan kendi istekleriyle çekilenler
 memurluğa dönmek isteyenler, haklarında güvenlik soruşturması yapılması ve iki defadan
 fazla olmamak kaydıyla bu maddede yer alan diğer şartlar aranmaksızın ve başkaca bir işleme
 gerek kalmaksızın ayrıldıkları kadrolarına, ayrılmadan önceki özlük hakları korunarak
-
-başvurmalarını takiben en geç üç ay içinde atanırlar. Bu fıkraya göre atananların kadroları
+başvurmalarını takiben en geç üç ay içinde atanırlar. Bu fıkraya göre atananların kadroları
 başka bir işleme gerek kalmaksızın ihdas edilmiş ve kurumların kadro cetvellerinin ilgili
 bölümlerine eklenmiş sayılır. Bu şekilde ihdas edilen kadrolar, herhangi bir şekilde boşalması
 hâlinde başka bir işleme gerek kalmaksızın iptal edilmiş sayılır. Bu fıkra hükümleri,
@@ -43,6 +42,8 @@ geçici 15 inci maddesi kapsamında ilgili kadrolara atananlar veya atanmış sa
 sayılı Kanun Hükmünde Kararnamenin 221 inci maddesinin ilgili hükümleri kapsamında
 Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatında müşavir unvanlı kadrolara
 atananlar hakkında da uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**Kıymet rayiçleri**
+**Kıymet rayiçleri:**
 
 ---
 
 Madde 310 – Arazi kıymetinin tahmininde genel tahririn veya mevzii tadilatın
 başladığı, ferdi tadilat halinde tadilatın yapıldığı yılda cari satış kıymetleri esas tutulur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

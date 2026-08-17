@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4275
 ---
 
-**Dağıtma**
+**Dağıtma:**
 
 ---
 
@@ -17,6 +17,8 @@ Dağıtıma yukarıdaki maddede yazılı bırakılma müddeti bittikten sonra ba
 oranda ertelenebilir. 144 üncü madde hükümleri burada da uygulanır. Tâlikî bir şarta veya
 belirli olmayan bir vadeye bağlı alacaklar için ayrılan paylar hakkında 9 uncu madde
 hükümleri uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

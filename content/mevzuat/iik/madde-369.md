@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Meriyet zamanı**
+**Geçici Madde 20- (Ek:28/3/2023-7445/6 md.) (İptal:Anayasa Mahkemesinin
+Meriyet zamanı:**
 
 ---
 
 Madde 369 – Bu kanunun meriyeti 4 Eylül 1932 tarihinden başlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,9 @@ wordCount: 4312
 
 ---
 
-Madde 165 - Eşlerden biri akıl hastası olup da bu yüzden ortak hayat diğer eş için çeki lmez hâle gelirse, hastalığın geçmesine olanak bulunmadığı resmî sağlık kuru lu raporuyla tespit edil mek koşuluyla bu eş boşanma davası açabilir.
+Madde 165- Eşlerden biri akıl hastası olup da bu yüzden ortak hayat diğer eş için
+çekilmez hâle gelirse, hastalığın geçmesine olanak bulunmadığı resmî sağlık kurulu raporuyla
+tespit edilmek koşuluyla bu eş boşanma davası açabilir.
 
 ---
 

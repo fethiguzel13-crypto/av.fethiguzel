@@ -17,6 +17,8 @@ dosyayı inceleyebilir.
 (2) Gizli olarak saklanmasına karar verilen belge ve tutanakların incelenebilmesi
 hâkimin açık iznine bağlıdır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

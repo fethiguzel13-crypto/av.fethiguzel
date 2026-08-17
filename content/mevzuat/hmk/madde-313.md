@@ -7,25 +7,19 @@ lastReviewed: "2026-07-27"
 wordCount: 3620
 ---
 
-**(1) Sulh, görülmekte olan bir davada, tarafların aralarındaki uyuşmazlığı**
+**Sulh**
 
 ---
 
-Madde 313 - (1) Sulh, görülmekte olan bir davada, tarafların aralarındaki uyuşmazlığı
+MADDE 313- (1) Sulh, görülmekte olan bir davada, tarafların aralarındaki uyuşmazlığı
 kısmen veya tamamen sona erdirmek amacıyla, mahkeme huzurunda yapmış oldukları bir
 sözleşmedir.
+(2) Sulh, ancak tarafların üzerinde serbestçe tasarruf edebilecekleri uyuşmazlıkları
+konu alan davalarda yapılabilir.
+(3) Dava konusunun dışında kalan hususlar da sulhun kapsamına dâhil edilebilir.
+(4) Sulh, şarta bağlı olarak da yapılabilir.
 
-(2) Sulh, ancak tarafların
-üzerinde serbestçe tasarruf edebilecekleri uyuşmazlıkları konu alan davalarda yapılabilir.
-
-(3) Dava konusunun dışında
-kalan hususlar da sulhun kapsamına dâhil edilebilir.
-
-(4) Sulh, şarta bağlı olarak
-da yapılabilir.
-
-Sulhun
-zamanı
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -16,6 +16,8 @@ cezanın değiştirilmesi amacıyla yargılamanın yenilenmesi kabul edilemez.
 (2) Hatanın giderilebilmesini sağlayacak başka bir yol varsa, yargılamanın
 yenilenmesi yoluna gidilemez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

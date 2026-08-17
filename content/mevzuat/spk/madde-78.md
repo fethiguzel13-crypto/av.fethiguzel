@@ -15,8 +15,7 @@ MADDE 78 – (1) (Değişik: 14/4/2016 - 6704/27 md.) Kurul, merkezî takas
 kuruluşlarının, alıcıya karşı satıcı, satıcıya karşı da alıcı rolünü üstlenerek takasın
 tamamlanmasını taahhüt ettikleri merkezî karşı taraf uygulamasını, piyasalar veya sermaye
 piyasası araçları itibarıyla zorunlu tutabilir. Borsalar veya teşkilatlanmış diğer pazar yerleri de
-
-nezdinde işlem gören sermaye piyasası araçlarıyla ilgili merkezî karşı taraf uygulamasına
+nezdinde işlem gören sermaye piyasası araçlarıyla ilgili merkezî karşı taraf uygulamasına
 geçmek üzere Kurula başvurabilirler. Merkezî takas kuruluşları organize para piyasalarında
 merkezî karşı taraf uygulamasına geçmek üzere Kurula başvurabilirler.
 (2) (Değişik: 14/4/2016 - 6704/27 md.) Takas kuruluşlarının merkezî karşı taraf
@@ -57,8 +56,7 @@ birimleri, risk yönetim ve bilgi işlem altyapılarının güvenilirliğini ve 
 aylık dönemler itibarıyla kontrol etmek ve sonuçlarını Kurula bildirmekle yükümlüdürler.
 Kurul, söz konusu kontrolün daha sıklıkla yapılmasına karar verebilir ve söz konusu hususlara
 ilişkin bağımsız denetim yapılmasını isteyebilir. Ayrıca Kurul, merkezî karşı taraf hizmeti
-
-verecek kuruluşun mali yeterliliğinin stres testleri de dâhil olmak üzere öngöreceği
+verecek kuruluşun mali yeterliliğinin stres testleri de dâhil olmak üzere öngöreceği
 yöntemlerle değerlendirilmesini istemeye, gerekli görmesi hâlinde kredi derecelendirmesi
 yapılmasını talep etmeye yetkilidir.
 (6) Kurul, finansal istikrarın korunmasını teminen sistemik öneme sahip olan bu
@@ -80,6 +78,8 @@ kaynaklar, alınan teminatlar ve oluşturulan garanti fonları amaçları dış�
 Sermaye piyasalarına ilişkin olarak sunulan merkezî karşı taraf hizmeti kapsamında alınan
 teminatlar ve garanti fonu varlıkları, para piyasalarına ilişkin olarak aynı kapsamda alınan
 teminatlar ve garanti fonu varlıklarından ayrı olarak izlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

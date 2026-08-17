@@ -7,13 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-**II. Te scilin ve terkinin koşulları
+**II. Tescilin ve terkinin koşulları
 1. İstem
 a. Tescil için**
 
 ---
 
-Madde 1013 - Tescil, tasarrufa konu o lan taşınmaz malikinin yazılı beyanı üzerine yapılır. Edinen kimse, kanun hükmüne, kesinleşmiş mahkeme kararına veya buna eşdeğer bir belgeye dayanıyorsa, bu beyana gerek yoktur. Bir aynî hakkı tescilden önce kazanan kimse, gerekli belgeleri ibraz ederek tescili isteyebilir.
+Madde 1013- Tescil, tasarrufa konu olan taşınmaz malikinin yazılı beyanı üzerine yapılır.
+Edinen kimse, kanun hükmüne, kesinleşmiş mahkeme kararına veya buna eşdeğer bir
+belgeye dayanıyorsa, bu beyana gerek yoktur.
+Bir aynî hakkı tescilden önce kazanan kimse, gerekli belgeleri ibraz ederek tescili isteyebilir.
 
 ---
 

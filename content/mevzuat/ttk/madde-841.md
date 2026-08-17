@@ -8,12 +8,13 @@ wordCount: 4297
 ---
 
 **C) Mallar üzerinde tasarruflar
-I
-- Yapılamayacak işlemler**
+I - Yapılamayacak işlemler**
 
 ---
 
-Madde 841 - (1) Varant ile makbuz senedinin zıyaından, mirastan veya iflastan kaynaklanan uyuşmazlıklar hariç olmak üzere, umumi mağazalara tevdi olunan şeyler üzerinde haciz, el koyma veya rehin yapılamaz.
+MADDE 841- (1) Varant ile makbuz senedinin zıyaından, mirastan veya iflastan
+kaynaklanan uyuşmazlıklar hariç olmak üzere, umumi mağazalara tevdi olunan şeyler
+üzerinde haciz, el koyma veya rehin yapılamaz.
 
 ---
 

@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
-**VIII
-- Primli paylar**
+**VIII - Primli paylar**
 
 ---
 
-Madde 347 - (1) İtibarî değerinden aşağı bedelle pay çıkarılamaz. Payların itibarî değerinden yüksek bir bedelle çıkarılabilmeleri için esas sözleşmede hüküm veya genel kur ul kararı bulunmalıdır.
+MADDE 347- (1) İtibarî değerinden aşağı bedelle pay çıkarılamaz. Payların itibarî
+değerinden yüksek bir bedelle çıkarılabilmeleri için esas sözleşmede hüküm veya genel kurul
+kararı bulunmalıdır.
 
 ---
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**Yargılama usulleri**
+**Yargılama usulleri:**
 
 ---
 
@@ -23,7 +23,8 @@ takdirde ilgilileri en kısa zamanda duruşmaya çağırır ve gelmeseler bile g
 Duruşma yapılmayan işlerde icra mahkemesi, işin kendisine geldiği tarihten itibaren en geç on
 gün içinde kararını verir. Duruşmalar, ancak zorunluluk hâlinde ve otuz günü geçmemek
 üzere ertelenebilir.
-MÜDDETLER
+
+---
 
 ### Akademik Yorum ve Analiz
 

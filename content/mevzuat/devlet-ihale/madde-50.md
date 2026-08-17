@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Pazarlık usulünde ihale**
+**PAZARLIK USULÜ
+Pazarlık usulünde ihale:**
 
 ---
 
@@ -16,6 +17,8 @@ değildir. İhaleler, komisyon tarafından işin nitelik ve gereğine göre, bir
 istekliden yazılı veya sözlü teklif almak ve bedel üzerinde anlaşmak suretiyle yapılır.
 Pazarlığın ne suretle yapıldığı ve ne gibi tekliflerde bulunulduğu ve üzerine ihale
 yapılanların neden dolayı tercih edildiği pazarlık kararında gösterilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

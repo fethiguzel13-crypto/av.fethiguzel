@@ -18,6 +18,8 @@ başkanı, yargılama usulü ile ilgili belirli konularda tek başına karar ver
 (3) Hakem veya hakem kurulu, ancak tarafların açıkça yetkili kılmış olmaları şartıyla
 hakkaniyet ve nasafet kurallarına göre veya dostane çözüm yoluyla karar verebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

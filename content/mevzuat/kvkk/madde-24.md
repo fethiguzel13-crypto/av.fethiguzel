@@ -34,6 +34,10 @@ g) Kurumun diğer kuruluşlarla ilişkilerini yürütmek.
 ğ) Kurum Başkanı adına imzaya yetkili personelin görev ve yetki alanını belirlemek.
 h) Kurumun yönetim ve işleyişine ilişkin diğer görevleri yerine getirmek.
 (4) Kurum Başkanının yokluğunda İkinci Başkan, Başkana vekalet eder.
+Başkanlığın oluşumu ve görevleri
+(1) Başkanlık; Başkan Yardımcısı ve hizmet birimlerinden oluşur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

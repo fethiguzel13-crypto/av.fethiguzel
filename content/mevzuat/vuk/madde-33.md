@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**Re'sen tarhta mahsup**
+**Re'sen tarhta mahsup:**
 
 ---
 
 Madde 33 – Re'sen takdir olunan matrah, mükellef tarafından bildirilen matrahtan
 fazla değilse, re'sen vergi tarh edilmez; fazla ise sadece aradaki fark üzerinden vergi tarh
 olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

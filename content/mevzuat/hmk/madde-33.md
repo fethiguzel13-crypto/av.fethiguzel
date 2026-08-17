@@ -12,8 +12,8 @@ wordCount: 4316
 ---
 
 MADDE 33- (1) Hâkim, Türk hukukunu resen uygular.
-ÜÇÜNCÜ BÖLÜM
-Hâkimin Yasaklılığı, Reddi ve Hukuki Sorumluluğu
+
+---
 
 ### Akademik Yorum ve Analiz
 

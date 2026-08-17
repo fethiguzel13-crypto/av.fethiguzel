@@ -8,13 +8,14 @@ wordCount: 4289
 ---
 
 **B) Geminin tescili
-I
-- İstem
+I- İstem
 1. Şekli**
 
 ---
 
-Madde 959 - (1) Gemi, ancak malikin veya maliklerinden birinin istemi üzerine gemi siciline tescil olunur. ( 2) İstem dilekçeyle yapılır.
+MADDE 959- (1) Gemi, ancak malikin veya maliklerinden birinin istemi üzerine
+gemi siciline tescil olunur.
+(2) İstem dilekçeyle yapılır.
 
 ---
 

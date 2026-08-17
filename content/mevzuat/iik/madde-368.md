@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**İlga edilen kanunlar**
+**İlga edilen kanunlar:**
 
 ---
 
@@ -22,21 +22,9 @@ takvim yılı başından geçerli olmak üzere, önceki yılda uygulanan parasal
 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükümleri uyarınca Maliye
 Bakanlığınca her yıl tespit ve ilân edilen yeniden değerleme oranında artırılması suretiyle
 uygulanır. Bu şekilde belirlenen sınırların bin Türk lirasını aşmayan kısımları dikkate
-alınmaz.141142
-
-2/3/2005 tarihli ve 5311 sayılı Kanunun 26 ncı maddesiyle bu maddenin başlığı “Yargıtay kararları:” iken
-metne işlendiği şekilde değiştirilmiştir.
-140
-
-20/2/2019 tarihli ve 7165 sayılı Kanunun 2 nci maddesiyle bu fıkrada yer alan 326 ve 363 üncü”
-ibaresi “326, 363 ve 364 üncü” şeklinde, “onmilyon lirayı” ibaresi “on Türk lirasını” şeklinde
-değiştirilmiştir.
-142
-7/11/2024 tarihli ve 7531 sayılı Kanunun 2 nci maddesiyle bu fıkrada yer alan “on” ibaresi “bin”
-şeklinde değiştirilmiştir.
-141
-
-(Değişik ikinci fıkra:24/12/2025-7571/3 md.) 363 ve 364 üncü maddelerdeki parasal
+141142
+alınmaz.
+(Değişik ikinci fıkra:24/12/2025-7571/3 md.) 363 ve 364 üncü maddelerdeki parasal
 sınırların uygulanmasında şikâyet başvurusunun yapıldığı veya davanın açıldığı tarihteki
 miktar esas alınır.
 (Ek fıkra:7/11/2024-7531/2 md.) (Mülga üçüncü fıkra:4/6/2025-7550/1 md.)
@@ -72,8 +60,7 @@ Geçici Madde 1 – (2004 sayılı Kanunun kendi numarasız geçici maddesi olup
 teselsül için numaralandırılmıştır.)
 1 – Cezai hükümlerin şümul dairesi Türk Ceza Kanununun ikinci maddesi
 hükümlerine tabidir.
-
-2 – Bu kanunun mer’i olmasından evvel konulmuş haciz veya rehinin paraya
+2 – Bu kanunun mer’i olmasından evvel konulmuş haciz veya rehinin paraya
 çevrilmesi hakkında yapılmış taleplere, bu kanunun hükümleri tatbik olunmaz.
 3 – İlamların icrası hakkındaki ikinci babın hükümleri bu kanunun mer’iyetinden
 evvel icraya tevdi edilmiş olan ilamlara da şamildir.
@@ -107,8 +94,7 @@ Geçici Madde 4- (Ek: 17/7/2003-4949/105 md.)
 Adalet Bakanlığı veya Adalet Teşkilâtını Güçlendirme Vakfınca mahcuz malların
 muhafazası için depo ve garajlar açılıncaya kadar, özel depo ve garajlarda, Adalet
 Bakanlığınca çıkartılan ilgili yönetmelik ve ücret tarifelerinin uygulanmasına devam olunur.
-
-Geçici Madde 5- (Ek: 17/7/2003-4949/105 md.) Bu Kanun ile değiştirilen 2004 sayılı
+Geçici Madde 5- (Ek: 17/7/2003-4949/105 md.) Bu Kanun ile değiştirilen 2004 sayılı
 İcra ve İflâs Kanununun;
 1- 4, 13, 26 ve 250 nci maddeleri ile 88 inci maddesinin dördüncü ve beşinci
 fıkralarında değişiklik yapan hükümleri, Kanunun yürürlüğe girmesinden itibaren üç ay
@@ -145,9 +131,8 @@ beşinci fıkrasında değişiklik yapan hükmü, eski düzenlemeye göre ikinci
 gönderilmiş ve menfi tespit davası açma süresi sona ermişse açılacak davalarda,
 15- 91 inci maddesinde değişiklik yapan hükmü, Kanunun yürürlüğe girmesinden
 sonra vuku bulacak el değiştirmelerde,
-
-16- 111 inci maddesinde değişiklik yapan hükmü, Kanunun yürürlüğe girmesinden
-önce yapılan sözleşmelerde de,143
+16- 111 inci maddesinde değişiklik yapan hükmü, Kanunun yürürlüğe girmesinden
+önce yapılan sözleşmelerde de,
 17- 114, 115, 116, 126 ve 129 uncu maddelerinde değişiklik yapan hükümleri,
 Kanunun yürürlüğe girmesinden sonra yapılacak ve ilan metni Kanunun yürürlüğe girdiği
 tarihte Basın-İlan Kurumuna henüz gönderilmemiş bulunan satışlarda,
@@ -182,12 +167,7 @@ ertelenmesi taleplerinde,
 devam eden iflâs tasfiyelerinde,
 31- 206 ncı maddesinde değişiklik yapan hükmü, Kanunun yürürlüğe girmesinden
 sonra düzenlenecek sıra cetvellerinde,
-
-12/2/2004 tarihli ve 5092 sayılı Kanunun 10 uncu maddesiyle bu bendde “sözleşmelerde” ibaresinden sonra
-gelmek üzere “de” ibaresi eklenmiştir.
-143
-
-32- 222 nci maddesinde değişiklik yapan hükmü, Kanunun yürürlüğe girmesinden
+32- 222 nci maddesinde değişiklik yapan hükmü, Kanunun yürürlüğe girmesinden
 sonra yapılacak ilk alacaklılar toplanmalarında,
 33- 223 üncü maddesinde değişiklik yapan hükmü, bu Kanunun yürürlüğe
 girmesinden sonra yapılacak iflâs idaresi toplantılarında,
@@ -204,7 +184,7 @@ fıkrasına eklenen dördüncü cümlesi ise Kanunun yürürlüğe girmesinden i
 37- 257, 258, 261, 264, 265 ve 268 inci maddelerinde değişiklik yapan hükümleri,
 Kanunun yürürlüğe girmesinden sonra yapılacak ihtiyatî haciz taleplerinde,
 38- 280 inci maddesinde değişiklik yapan hükmü, Kanunun yürürlüğe girmesinden
-önce açılmış ve derdest olan iptal davalarında da,144
+önce açılmış ve derdest olan iptal davalarında da,
 39- 285, 286, 287, 288, 289, 290, 291, 292, 296, 297, 298, 300, 301, 302, 303 ve 309
 uncu maddelerinde değişiklik yapan hükümleri ile bu Kanunla getirilen 298/a ve 309/a ilâ
 309/l maddeleri hükümleri, Kanunun yürürlüğe girmesinden sonra yapılacak konkordato
@@ -221,12 +201,7 @@ Geçici Madde 7- (Ek: 2/3/2005-5311/29 md.)
 Bölge adliye mahkemelerinin, 26.9.2004 tarihli ve 5235 sayılı Adlî Yargı İlk Derece
 Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında
 Kanunun geçici 2 nci maddesi uyarınca göreve başlama tarihinden önce verilen kararlar
-
-12/2/2004 tarihli ve 5092 sayılı Kanunun 10 uncu maddesiyle bu bentte “davalarında” ibaresinden sonra
-gelmek üzere “da” ibaresi eklenmiştir.
-144
-
-hakkında, kesinleşinceye kadar İcra ve İflâs Kanununun bu Kanunla yapılan değişiklikten
+hakkında, kesinleşinceye kadar İcra ve İflâs Kanununun bu Kanunla yapılan değişiklikten
 önceki temyiz ve karar düzeltmeye ilişkin hükümleri uygulanır.
 Geçici Madde 8- (Ek: 21/2/2007-5582/6 md.)
 Bu Kanunun 128 inci maddesinin üçüncü fıkrası ile 128/a maddesinin ikinci fıkrasının
@@ -237,14 +212,14 @@ alacaklarının takibinde, taşınmaz için kıymet takdiri veya bilirkişi ince
 Piyasası Kanununun 22 nci maddesinin birinci fıkrasının ® bendi uyarınca gayrimenkul
 değerleme faaliyeti konusunda yetki verilmiş kişi veya kurumların yanı sıra diğer uzman
 bilirkişiler marifetiyle de yapılabilir.
-Geçici Madde 9- (Ek: 2/7/2012-6352/38 md.)145
+Geçici Madde 9- (Ek: 2/7/2012-6352/38 md.)
 9 uncu maddenin ikinci fıkrası gereği ödeme yapılabilmesi için ilgilisi tarafından,
 anılan maddenin yürürlüğe girdiği tarihten itibaren altı ay içinde banka hesap numarasının
 bildirilmesi gerekir.
 Geçici Madde 10- (Ek: 2/7/2012-6352/38 md.)
 Bu Kanunun ilgili hükümlerinin yürürlüğe girdiği tarihten önce başlatılan takip
 işlemleri hakkında, değişiklikten önceki hükümlerin uygulanmasına devam edilir.
-Geçici Madde 11- (Ek: 2/7/2012-6352/38 md.)146
+Geçici Madde 11- (Ek: 2/7/2012-6352/38 md.)
 Adalet Bakanlığı, 88 inci maddenin beşinci fıkrası gereğince hukuki ve teknik her
 türlü altyapıyı anılan maddenin yürürlüğe girdiği tarihten itibaren bir yıl içinde tamamlar.
 Lisanslı yediemin depoları faaliyete geçinceye kadar o yerdeki mevcut depo ve garajlarda
@@ -258,14 +233,7 @@ Ancak, satış yapılamazsa Adalet Bakanlığı tarafından görevlendirilecek i
 müdürünün başkanlığında kaymakamlık, belediye, ilgili yer baro başkanlığı ve ticaret odası
 tarafından bildirilecek birer kişinin katılımıyla oluşturulacak değer tespit komisyonu
 tarafından tespit edilecek değer üzerinden, yedieminin alacağına mahsup için malın mülkiyeti
-2/7/2012 tarihli ve 6352 sayılı Kanunun 106 ncı maddesiyle, bu maddenin 5/1/2013 tarihinde yürürlüğe
-girmesi hüküm altına alınmıştır.
-146
-2/7/2012 tarihli ve 6352 sayılı Kanunun 106 ncı maddesiyle, bu maddenin 5/1/2013 tarihinde yürürlüğe
-girmesi hüküm altına alınmıştır.
-145
-
-yediemine devredilebilir; komisyon, ekonomik bir değerinin kalmadığına karar verirse mal bir
+yediemine devredilebilir; komisyon, ekonomik bir değerinin kalmadığına karar verirse mal bir
 tutanakla imha edilir.
 Satılan veya mülkiyeti devredilen malın bedelinden, muhafaza ve diğer giderler
 mahsup edildikten sonra varsa artan miktar talep halinde ilgilisine ödenir.
@@ -300,8 +268,7 @@ devam olunur.
 Hakimler ve Savcılar Kurulu, 26/9/2004 tarihli ve 5235 sayılı Adlî Yargı İlk Derece
 Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında
 Kanunun 5 inci maddesinin beşinci fıkrasındaki belirleme yetkisi kapsamında iflâs ve
-
-konkordato konusunda uzman asliye ticaret mahkemesini, bu maddenin yürürlüğe girdiği
+konkordato konusunda uzman asliye ticaret mahkemesini, bu maddenin yürürlüğe girdiği
 tarihten itibaren iki hafta içinde belirler.
 Geçici Madde 15- (Ek:6/12/2018-7155/17 md.)
 Bu maddenin yürürlüğe girdiği tarihte görülmekte olan konkordato talepleri hakkında
@@ -336,8 +303,7 @@ sitesinde duyurulur. Bu değişikliklerin uygulanmasında aşağıdaki esaslar d
 hakkında, bu maddeyi ihdas eden Kanunla değiştirilen 87, 106 ve 110 uncu madde hükümleri
 uygulanır. Geçiş tarihinden önce haczedilen mallar hakkında ise değişikliklerden önceki
 hükümler ile ilga edilen hükümlerin uygulanmasına devam olunur.
-
-2. Uygulamaya geçilen il ve ilçelerde, geçiş tarihinden sonra ilanı yapılacak açık
+2. Uygulamaya geçilen il ve ilçelerde, geçiş tarihinden sonra ilanı yapılacak açık
 artırmalar hakkında, bu maddeyi ihdas eden Kanunla değiştirilen 88, 114, 115, 118, 124, 126,
 127, 129 ve 130 uncu maddeler, 134 üncü maddenin dokuz ve onuncu fıkraları ile ihdas
 edilen 111/b maddesi uygulanır. Geçiş tarihinden önce ilanı yapılmış açık artırmalar hakkında
@@ -372,8 +338,8 @@ numaralı bendi ile ikinci fıkrasında yapılan değişiklikler, bu maddenin y�
 tarihten önce haczedilmiş eşyalar hakkında uygulanmaz. Bu değişikliklerin yürürlüğe girdiği
 tarihten önce haczedilen eşyalar hakkında, bu değişikliklerden önceki hükümlerin
 uygulanmasına devam olunur.
-Geçici Madde 20- (Ek:28/3/2023-7445/6 md.) (İptal:Anayasa Mahkemesinin
-27/3/2025 Tarihli ve E: 2024/205, K: 2025/88 Sayılı Kararı ile)
+
+---
 
 ### Akademik Yorum ve Analiz
 

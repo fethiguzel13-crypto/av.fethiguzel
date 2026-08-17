@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**II
-– Yönetim kurulunun yıllık faaliyet raporu**
+**II – Yönetim kurulunun yıllık faaliyet raporu**
 
 ---
 
-Madde 518 - (1) Topluluğa ilişkin yıllık faaliyet raporu ana şirketin yön etim kurulu tarafından 516 ncı maddeye göre düzenlenir.
+MADDE 518- (1) Topluluğa ilişkin yıllık faaliyet raporu ana şirketin yönetim kurulu
+tarafından 516 ncı maddeye göre düzenlenir.
 
 ---
 

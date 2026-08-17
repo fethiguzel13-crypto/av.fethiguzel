@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**Vergi beyannamesinin postayla veya elektronik ortamda gönderilmesi7**
+**Vergi beyannamesinin postayla veya elektronik ortamda gönderilmesi**
 
 ---
 
@@ -31,6 +31,8 @@ Mükerrer Madde 28 – (Ek: 28/3/2007-5615/19 md.)
 Maliye Bakanlığı Gelir İdaresi Başkanlığı, beyannamelerin verilme ve ödeme
 sürelerinin son gününü, kanunî süresinden itibaren bir ayı geçmeyecek şekilde yeniden
 belirlemeye yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

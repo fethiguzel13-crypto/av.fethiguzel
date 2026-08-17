@@ -8,12 +8,14 @@ wordCount: 4258
 ---
 
 **G) Genel kurul kararlarının iptali
-I
-- İptal sebepleri**
+I - İptal sebepleri**
 
 ---
 
-Madde 445 - (1) 446 ncı madde de belirtilen kişiler, kanun veya esas sözleşme hükümlerine ve özellikle dürüstlük kuralına aykırı olan genel kurul kararları aleyhine, karar tarihinden itibaren üç ay içinde, şirket merkezinin bulunduğu yerdeki asliye ticaret mahkemesinde iptal davası aça bilirler.
+MADDE 445- (1) 446 ncı maddede belirtilen kişiler, kanun veya esas sözleşme
+hükümlerine ve özellikle dürüstlük kuralına aykırı olan genel kurul kararları aleyhine, karar
+tarihinden itibaren üç ay içinde, şirket merkezinin bulunduğu yerdeki asliye ticaret mahkemesinde
+iptal davası açabilirler.
 
 ---
 

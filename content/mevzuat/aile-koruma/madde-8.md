@@ -25,8 +25,7 @@ Kanunun amacını gerçekleştirmeyi tehlikeye sokabilecek şekilde geciktirilem
 talebinin reddine ilişkin karar ise sadece korunan kişiye tebliğ edilir. Gecikmesinde sakınca
 bulunan hâllerde ilgili kolluk birimi tarafından verilen tedbir kararı şiddet uygulayana bir
 tutanakla derhâl tebliğ edilir.
-
-(5) Tedbir kararının tefhim ve tebliğ işlemlerinde, tedbir kararına aykırılık hâlinde
+(5) Tedbir kararının tefhim ve tebliğ işlemlerinde, tedbir kararına aykırılık hâlinde
 şiddet uygulayan hakkında zorlama hapsinin uygulanacağı ihtarı yapılır.
 (6) Gerekli bulunması hâlinde, tedbir kararı ile birlikte talep üzerine veya resen,
 korunan kişi ve diğer aile bireylerinin kimlik bilgileri veya kimliğini ortaya çıkarabilecek
@@ -35,6 +34,8 @@ resmi kayıtlarda gizli tutulur. Yapılacak tebligatlara ilişkin ayrı bir adre
 bilgileri hukuka aykırı olarak başkasına veren, ifşa eden veya açıklayan kişi hakkında
 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun ilgili hükümleri uygulanır.
 (7) Talep hâlinde ilgililere kişisel eşya ve belgelerinin kolluk marifetiyle teslimi sağlanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

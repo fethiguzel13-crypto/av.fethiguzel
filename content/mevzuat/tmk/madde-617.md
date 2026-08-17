@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**VII. Mirasçıların alacaklılarını n korunması**
+**VII. Mirasçıların alacaklılarının korunması**
 
 ---
 
-Madde 617 - Malvarlığı borcuna yetmeyen mirasçı, alacaklılarına zarar vermek amacıyla mirası reddederse; alacaklıları veya iflâs idaresi, kendilerine yeterli bir güvence verilmediği takdirde, ret tarihinden başlayarak altı ay içinde reddin iptal i hakkında dava açabilirler. Reddin iptaline karar verilirse, miras resmen tasfiye edilir. Bu suretle tasfiye edilen mirastan reddeden mira sçının payına bir şey düşerse bundan, önce itiraz eden alacaklıların, daha sonra diğer ala caklıların alacakları ödeni r. Arta kalan değerler ise, ret geçerli olsa idi bundan yararlanacak olan mirasçılara verilir.
+Madde 617- Malvarlığı borcuna yetmeyen mirasçı, alacaklılarına zarar vermek amacıyla
+mirası reddederse; alacaklıları veya iflâs idaresi, kendilerine yeterli bir güvence verilmediği
+takdirde, ret tarihinden başlayarak altı ay içinde reddin iptali hakkında dava açabilirler.
+Reddin iptaline karar verilirse, miras resmen tasfiye edilir.
+Bu suretle tasfiye edilen mirastan reddeden mirasçının payına bir şey düşerse bundan,
+önce itiraz eden alacaklıların, daha sonra diğer alacaklıların alacakları ödenir. Arta kalan değerler
+ise, ret geçerli olsa idi bundan yararlanacak olan mirasçılara verilir.
 
 ---
 

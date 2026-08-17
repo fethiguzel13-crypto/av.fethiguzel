@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Trafik kazalarında sürücü kusurlarının tespiti ve asli kusur sayılan haller**
+**Trafik kazalarında sürücü kusurlarının tespiti ve asli kusur sayılan haller:**
 
 ---
 
@@ -15,8 +15,7 @@ Madde 84 – Araç sürücüleri trafik kazalarında;
 a) Kırmızı ışıklı trafik işaretinde veya yetkili memurun dur işaretinde geçme,
 b) Taşıt giremez trafik işareti bulunan karayoluna veya bölünmüş karayolunda karşı
 yönden gelen trafiğin kullandığı şerit, rampa ve bağlantı yollarına girme,
-
-c) İkiden fazla şeritli taşıt yollarında, karşı yönden gelen trafiğin kullandığı şerit veya
+c) İkiden fazla şeritli taşıt yollarında, karşı yönden gelen trafiğin kullandığı şerit veya
 yol bölümüne girme,
 d) Arkadan çarpma,
 e) Geçme yasağı olan yerlerde geçme,
@@ -36,8 +35,11 @@ kısıtlamalara ve talimatlara uyulmaması nedenlerinden doğmuşsa, karayolunu 
 kusur oranı yönetmelikte belirtilen esaslara göre tespit edilir.
 SEKİZİNCİ KISIM
 Hukuki Sorumluluk ve Sigorta
-BİRİNCİ BÖLÜM69
+BİRİNCİ BÖLÜM
 İşletenin Hukuki Sorumluluğu
+İşleten ve araç işleticisinin bağlı olduğu teşebbüs sahibinin hukuki sorumluluğu:
+
+---
 
 ### Akademik Yorum ve Analiz
 

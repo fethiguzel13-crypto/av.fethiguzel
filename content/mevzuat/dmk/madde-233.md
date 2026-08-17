@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**hükümler**
+**Türk Silahlı Kuvvetlerinde çalışan memurlara uygulanmaya devam olunacak
+hükümler:**
 
 ---
 
@@ -16,7 +17,8 @@ maddelerindeki hükümlerin Türk Silahlı Kuvvetlerinde çalışan sivil memurl
 ve yevmiyeli personel hakkında uygalanmasından, Türk Silahlı Kuvvetleri İç Hizmet Kanun
 ve Yönetmeliği, Askeri Mahkemeler Kuruluş ve Yargılama Usulü Kanunu ve konu ile ilgili
 diğer hükümleri saklıdır.
-İktisadi ve Ticari İlimler Akademileri öğrenim üyeleri ve yardımcılarına
+
+---
 
 ### Akademik Yorum ve Analiz
 

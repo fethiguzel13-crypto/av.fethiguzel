@@ -24,6 +24,8 @@ hâllerinde, vizeyi veren makamlar veya valiliklerce iptal edilir.
 (2) Vizenin geçerlilik süresi içinde yabancıyla ilgili sınır dışı etme kararı alınması
 hâlinde vize iptal edilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

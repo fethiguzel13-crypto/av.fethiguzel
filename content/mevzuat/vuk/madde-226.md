@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Defter tasdikine ait bordrolar**
+**Defter tasdikine ait bordrolar:**
 
 ---
 
@@ -21,7 +21,8 @@ büyük malmemuruna tevdi ederler:
 5. Defterin hangi yıl için tasdik edildiği;
 6. Defter sahibinin bağlı olduğu vergi dairesi.
 Tasdik makamları yukardaki bilgileri münferit fişlerle de bildirebilirler.
-Elektronik olarak tutulan defterlerde tasdik:
+
+---
 
 ### Akademik Yorum ve Analiz
 

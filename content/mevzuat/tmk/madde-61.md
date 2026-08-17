@@ -7,14 +7,13 @@ lastReviewed: "2026-07-27"
 wordCount: 2972
 ---
 
-**(Mülga: 4/11/2004-5253/38 md.)**
+**3. Dernek tüzüğünün ilânı**
 
 ---
 
-Madde 61 - (Mülga: 4/11/2004-5253/38 md.)
+Madde 61- (Mülga: 4/11/2004-5253/38 md.)
 
-4.
-İlk genel kurul toplantısı
+---
 
 ### Akademik Yorum ve Analiz
 

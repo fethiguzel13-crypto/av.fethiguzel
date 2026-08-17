@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
-**Memurların sosyal tesis ihtiyaçları**
+**Memurların sosyal tesis ihtiyaçları:**
 
 ---
 
@@ -16,6 +16,8 @@ Devlet Memurları için lüzum ve ihtiyaç görülen yerlerde çocuk bakımevi v
 tesisler kurulabilir.
 Bunların kuruluş ve işletme esas ve usulleri Devlet Personel Başkanlığı ile Maliye ve
 Gümrük Bakanlığınca birlikte hazırlanacak genel yönetmelikle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

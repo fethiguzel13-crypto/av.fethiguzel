@@ -14,6 +14,8 @@ wordCount: 4293
 Madde 69- (1) Cezaya bağlı olan veya hükümde belirtilen hak yoksunluklarının süresi
 ceza zamanaşımı doluncaya kadar devam eder.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

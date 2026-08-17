@@ -11,7 +11,11 @@ wordCount: 4290
 
 ---
 
-Madde 1361 - (1) İhtiyati ha ciz kararı veren mahkeme, haksız çıkan alacaklı aleyhine açılacak tazminat davasını da görmeye yetkilidir. (2) Deniz alacağının esası hakkında yurtiçinde veya yurt dışında mahkemede veya hakem önünde dava açılmışsa, bu davanın sonuçlanması, tazminat davası yönünden bekletici sorun oluşturur.
+MADDE 1361- (1) İhtiyati haciz kararı veren mahkeme, haksız çıkan alacaklı
+aleyhine açılacak tazminat davasını da görmeye yetkilidir.
+(2) Deniz alacağının esası hakkında yurtiçinde veya yurt dışında mahkemede veya
+hakem önünde dava açılmışsa, bu davanın sonuçlanması, tazminat davası yönünden bekletici
+sorun oluşturur.
 
 ---
 

@@ -12,7 +12,7 @@ I. Genel olarak**
 
 ---
 
-Madde 136 - Borcun ifası borçlunun sorumlu tutulamayacağı sebeplerle imkânsızlaşırsa,
+MADDE 136- Borcun ifası borçlunun sorumlu tutulamayacağı sebeplerle imkânsızlaşırsa,
 borç sona erer.
 Karşılıklı borç yükleyen sözleşmelerde imkânsızlık sebebiyle borçtan kurtulan borçlu,
 karşı taraftan almış olduğu edimi sebepsiz zenginleşme hükümleri uyarınca geri vermekle

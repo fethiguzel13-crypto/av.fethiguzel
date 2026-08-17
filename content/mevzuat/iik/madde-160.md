@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**Masrafların peşin verilmesi**
+**Masrafların peşin verilmesi:**
 
 ---
 
@@ -16,7 +16,7 @@ Madde 160 – (Değişik: 18/2/1965-538/77 md.)
 (Değişik: 9/11/1988-3494/27 md.) Mahkeme, bu masraflar ile iflas kararının kanun
 yolları için gerekli bütün tebliğ masraflarının peşin verilmesini ister.
 
-Defter tutulması:
+---
 
 ### Akademik Yorum ve Analiz
 

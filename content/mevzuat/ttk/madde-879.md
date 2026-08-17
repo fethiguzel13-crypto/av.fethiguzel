@@ -7,20 +7,17 @@ lastReviewed: "2026-07-27"
 wordCount: 3637
 ---
 
-**(1) Taşıyıcı;**
+**III - Yardımcıların kusuru**
 
 ---
 
-Madde 879 - (1) Taşıyıcı;
-
+MADDE 879- (1) Taşıyıcı;
 a) Kendi adamlarının,
-
 b) Taşımanın yerine getirilmesi için yararlandığı kişilerin,
+görevlerini yerine getirmeleri sırasındaki fiil ve ihmallerinden, kendi fiil ve ihmali gibi
+sorumludur.
 
-görevlerini yerine getirmeleri sırasındaki fiil ve ihmallerinden,
-kendi fiil ve ihmali gibi sorumludur.
-
-IV - Tazminatta esas alınacak değer
+---
 
 ### Akademik Yorum ve Analiz
 

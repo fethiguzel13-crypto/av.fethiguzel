@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**Ticari reklam**
+**ALTINCI KISIM
+Ticari Reklam ve Haksız Ticari Uygulamalar
+Ticari reklam**
 
 ---
 
@@ -33,6 +35,8 @@ yükümlüdür.
 uymakla yükümlüdür.
 (8) Ticari reklamlara ilişkin getirilecek sınırlamalar ile bu reklamlarda uyulması
 gereken usul ve esaslar yönetmelikle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

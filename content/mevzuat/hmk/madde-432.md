@@ -14,6 +14,8 @@ wordCount: 4267
 MADDE 432- (1) Taraflardan biri, hakem veya hakem kurulunun onayı ile delillerin
 toplanmasında mahkemeden yardım isteyebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

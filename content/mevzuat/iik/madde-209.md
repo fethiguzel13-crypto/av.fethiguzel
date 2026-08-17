@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**Müflisin vazifeleri**
+**Müflisin vazifeleri:**
 
 ---
 
@@ -18,9 +18,7 @@ kimselerin reşit olanlarına düşer.
 İflas dairesi bu mecburiyet kandilerine teveccüh eden kimselere kanunun hükmünü
 ihtar eder.
 
-28/2/2018 tarihli ve 7101 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “üç” ibaresi “iki” şeklinde
-değiştirilmiştir.
-72
+---
 
 ### Akademik Yorum ve Analiz
 

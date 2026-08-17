@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4263
 ---
 
-**Zamanaşımı süreleri**
+**Zamanaşımı süreleri:**
 
 ---
 
@@ -27,9 +27,7 @@ takvim yılı başından itibaren başlar.
 zamanaşımına uğrayan evrakın hükmünden tarh zamanaşımı süresi dolduktan sonra
 faydalanıldığı takdirde mezkür evraka ait vergi alacağı yeniden doğar.
 
-31/5/2012 tarihli ve 6322 sayılı Kanunun 14 üncü maddesiyle bu maddeye (5) numaralı fıkra eklenmiş ve
-mevcut (5) numaralı fıkra (6) numaralı fıkra olarak teselsül ettirilmiştir.
-30
+---
 
 ### Akademik Yorum ve Analiz
 

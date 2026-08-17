@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**Tevsiki zaruri olmıyan kayıtlar**
+**Tevsiki zaruri olmıyan kayıtlar:**
 
 ---
 
@@ -18,6 +18,8 @@ giderler;
 3. Vergi kanunlarına göre götürü olarak tesbit edilen giderler.
 1 ve 2 numaralı fıkralarda yazılı giderlerin gerçek miktarları üzerinden kayıtlara
 geçirilmesi ve miktarlarının işin genişliğine ve mahiyetine uygun bulunması şarttır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

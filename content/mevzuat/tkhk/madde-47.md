@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4281
 ---
 
-**İş yeri dışında kurulan sözleşmeler**
+**BEŞİNCİ BÖLÜM
+Diğer Tüketici Sözleşmeleri
+İş yeri dışında kurulan sözleşmeler**
 
 ---
 
@@ -45,9 +47,11 @@ kullanımı sebebiyle meydana gelen değişiklik ve bozulmalardan sorumlu değil
 etmesi veya tüketiciyi cayma hakkı konusunda gerektiği şekilde bilgilendirmemesi
 durumunda, tüketici cayma hakkını kullanmak için on dört günlük süreyle bağlı değildir. Her
 hâlükârda bu süre cayma süresinin bittiği tarihten itibaren bir yıl sonra sona erer.
-(7) Sözleşmenin zorunlu içeriği, kapsam dışı sözleşmeler, (…) tüketici ile satıcı ve
+(7) Sözleşmenin zorunlu içeriği, kapsam dışı sözleşmeler, (…)tüketici ile satıcı ve
 sağlayıcının hak ve yükümlülükleri, cayma hakkı, bilgilendirme yükümlülüğü, teslimat, satış
 yapacaklarda aranacak nitelikler ile diğer uygulama usul ve esasları yönetmelikle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

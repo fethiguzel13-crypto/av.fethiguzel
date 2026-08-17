@@ -11,7 +11,7 @@ wordCount: 4288
 
 ---
 
-Madde 141 - Üçüncü kişi yararına borçlanan kişi, bu borcu ile sözleşmenin diğer
+MADDE 141- Üçüncü kişi yararına borçlanan kişi, bu borcu ile sözleşmenin diğer
 tarafından olan alacağını takas edemez.
 
 ---

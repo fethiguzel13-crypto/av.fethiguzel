@@ -13,6 +13,8 @@ wordCount: 4258
 
 Madde 186 – (1) Açıklığın kaldırılması kararı, nedenleriyle birlikte tutanağa geçirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

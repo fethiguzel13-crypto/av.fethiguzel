@@ -14,6 +14,8 @@ wordCount: 4281
 Madde 329 – (1) Suç uydurup iftirada bulunduğu sabit olan kimse, bu nedenle
 yapılmış giderleri ödemeye mahkûm edilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

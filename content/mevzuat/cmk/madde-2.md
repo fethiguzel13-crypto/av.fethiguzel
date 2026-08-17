@@ -26,30 +26,10 @@ g) İfade alma: Şüphelinin kolluk görevlileri veya Cumhuriyet savcısı taraf
 soruşturma konusu suçla ilgili olarak dinlenmesini,
 h) Sorgu: Şüpheli veya sanığın hâkim veya mahkeme tarafından soruşturma veya
 kovuşturma konusu suçla ilgili olarak dinlenmesini,
-i)
-
-Malen
-
-sorumlu:
-
-Yargılama
-
-konusu
-
-işin
-
-hükme
-
-bağlanması
-
-ve
-
-bunun
-
+i) Malen sorumlu: Yargılama konusu işin hükme bağlanması ve bunun
 kesinleşmesinden sonra, maddî ve malî sorumluluk taşıyarak hükmün sonuçlarından etkilenecek
 veya bunlara katlanacak kişiyi,
-
-j) Suçüstü:
+j) Suçüstü:
 1. İşlenmekte olan suçu,
 2. Henüz işlenmiş olan fiil ile fiilin işlenmesinden hemen sonra kolluk, suçtan zarar
 gören veya başkaları tarafından takip edilerek yakalanan kişinin işlediği suçu,
@@ -62,6 +42,8 @@ dolayısıyla verilen, seçenek yaptırımlara çevrilemeyen, önödeme uygulana
 esas olmayan, şartla salıverilme hükümleri uygulanamayan, ertelenemeyen ve adlî sicil
 kayıtlarına geçirilmeyen hapsi,
 İfade eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

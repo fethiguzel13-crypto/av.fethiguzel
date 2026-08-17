@@ -33,8 +33,7 @@ g) Kurul Karar Organı tarafından atanması öngörülenler dışındaki Kurul 
 atamak
 ğ) Kurul adına basın ve yayın organlarına beyan ve açıklamalarda bulunmak
 h) Kurul bütçesinin uygulanmasını, gelirlerinin toplanmasını ve Kurul Karar
-
-Organının yetkisi dâhilinde bulunmayan harcamaların yapılmasını sağlamak
+Organının yetkisi dâhilinde bulunmayan harcamaların yapılmasını sağlamak
 ı) 128 inci maddenin birinci fıkrasının (ı) bendinde düzenlenen bilimsel araştırmaların
 yapılmasını sağlamak üzere gerekli iç teşkilatın kurulmasına ve işleyişine ilişkin esasları
 belirlemek
@@ -44,6 +43,8 @@ gerektiren alanlara ilişkin olması hâlinde, kamu kurum ve kuruluşlarından b
 üzere uzman personel ya da belirli bir konuda çalışma raporu talep etmek
 (3) Başkan, Kurul Karar Organına ilişkin olmayan görev ve yetkilerinden bir
 bölümünü, sınırlarını açıkça belirlemek ve yazılı olmak kaydıyla alt kademelere devredebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

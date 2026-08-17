@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Toplu eylem ve hareketlerde bulunma yasağı**
+**BÖLÜM: 4
+Yasaklar
+Toplu eylem ve hareketlerde bulunma yasağı:**
 
 ---
 
@@ -17,6 +19,8 @@ Devlet memurlarının kamu hizmetlerini aksatacak şekilde memurluktan kasıtlı
 birlikte çekilmeleri veya görevlerine gelmemeleri veya görevlerine gelipte Devlet
 hizmetlerinin ve işlerinin yavaşlatılması veya aksatılması sonucunu doğuracak eylem ve
 hareketlerde bulunmaları yasaktır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

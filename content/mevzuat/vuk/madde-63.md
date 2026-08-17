@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**Tadilat sebepleri**
+**Tadilat sebepleri:**
 
 ---
 
@@ -38,6 +38,8 @@ arazinin müstesnalıktan çıkması;
 edilmesi de ifraz hükmündedir.);
 10. Mütaaddit arazi ve arsaların tek bir arazi ve arsa haline getirilmesi veya mütaaddit
 hisselere ayrılmış olan bir binanın bütün hisselerinin birleştirilmesi.
+
+---
 
 ### Akademik Yorum ve Analiz
 

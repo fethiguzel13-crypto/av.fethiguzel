@@ -11,7 +11,10 @@ wordCount: 4318
 
 ---
 
-Madde 308 - Evlât edinilenin, evlât ed inend en en az onsekiz yaş küçük olması şarttır. Ayırt etme gücüne sahip olan küçük, rızası olmadıkça evlât edinilemez. Vesayet altındaki küçük, ayırt etme gücüne sahip olup olmadığına bakılmaksız ın vesayet dairelerinin izniyle evlât edinilebilir.
+Madde 308- Evlât edinilenin, evlât edinenden en az onsekiz yaş küçük olması şarttır.
+Ayırt etme gücüne sahip olan küçük, rızası olmadıkça evlât edinilemez.
+Vesayet altındaki küçük, ayırt etme gücüne sahip olup olmadığına bakılmaksızın vesayet
+dairelerinin izniyle evlât edinilebilir.
 
 ---
 

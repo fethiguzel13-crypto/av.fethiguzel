@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**B. Üyelik I. Kazanılması 1. Kural**
+**B. Üyelik
+I. Kazanılması
+1. Kural**
 
 ---
 
-Madde 63 - Hiç ki mse, bir derneğe üye olmaya ve hiçbir dernek de üye kabul etmeye zorlanamaz.
+Madde 63- Hiç kimse, bir derneğe üye olmaya ve hiçbir dernek de üye kabul etmeye
+zorlanamaz.
 
 ---
 

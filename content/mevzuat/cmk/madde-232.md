@@ -21,7 +21,7 @@ c) Beraat kararı dışında, suçun işlendiği yer, tarih ve zaman dilimi,
 d) Sanığın gözaltında veya tutuklu kaldığı tarih ve süre ile halen tutuklu olup olmadığı,
 Yazılır.
 (3) Hükmün gerekçesi ve varsa karşı oy gerekçesi, tümüyle tutanağa geçirilmemişse
-açıklanmasından itibaren en geç onbeş gün içinde dava dosyasına konulur.78
+açıklanmasından itibaren en geç onbeş gün içinde dava dosyasına konulur.
 (4) Karar ve hükümler bunlara katılan hâkimler tarafından imzalanır.
 (5) (Değişik: 24/11/2016-6763/31 md.) Hüküm sonucu tefhim edildikten sonra
 gerekçeli karar imzalanmadan hâkim ölür veya herhangi bir sebeple kararı imzalayamayacak
@@ -35,12 +35,8 @@ tazminat isteme olanağının bulunup bulunmadığının, başvuru olanağı var
 merciinin tereddüde yer vermeyecek şekilde açıkça gösterilmesi gerekir.
 (7) Hükümlerin nüshaları ve özetleri mahkeme başkanı veya hâkim ile zabıt kâtibi
 tarafından imzalanır ve mühürlenir.
-24/11/2016 tarihli ve 6763 sayılı Kanunun 31 inci maddesiyle, bu fıkrada yer alan “Hükmün
-gerekçesi” ibaresinden sonra gelmek üzere “ve varsa karşı oy gerekçesi” ibaresi eklenmiştir.
-78
 
-DÖRDÜNCÜ KİTAP
-Mağdur, Şikâyetçi, Malen Sorumlu, Katılan
+---
 
 ### Akademik Yorum ve Analiz
 

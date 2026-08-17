@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Trafik kazalarına karışanlar ile ilgili kurallar**
+**YEDİNCİ KISIM
+Trafik Kazaları
+Trafik kazalarına karışanlar ile ilgili kurallar:**
 
 ---
 
@@ -28,17 +30,19 @@ yazılı bilgi bırakmak, ilgili zabıtaya en kısa zamanda bilgi vermek,
 Zorundadırlar.
 Yalnız maddi hasar meydana gelen kazalarda, kazaya dahil kişilerin tümü, yetkili ve
 görevli kişinin gelmesine lüzum görmezlerse, bunu aralarında yazılı olarak saptamak suretiyle
-kaza yerinden ayrabilirler.
+kaza yerinden ayrılabilirler.
 (Değişik üçüncü fıkra:12/2/2026-7574/27 md.) Anlaşma hali dışında maddi hasarlı,
 ölümlü veya yaralanmalı trafik kazalarında, zabıtanın iznini almadan zaruret dışında olay
 yerinden ayrılan veya birinci fıkranın (b) bendi hükümlerine uymayan sürücüler 46.000 Türk
 lirası idari para cezası ile cezalandırılır. Ölümlü veya yaralanmalı trafik kazalarında, zabıtanın
 iznini almadan zaruret dışında olay yerinden ayrılan sürücülere bir yıldan üç yıla kadar hapis
 cezası verilir. Bu fıkranın ikinci cümlesi kapsamında olay yerinden ayrılan sürücülerin sürücü
-belgesi bu Kanun'un 6 ncı maddesinde sayılan görevliler tarafından iki yıl süreyle geri alınır.
+belgesi bu Kanunun 6 ncı maddesinde sayılan görevliler tarafından iki yıl süreyle geri alınır.
 Bu şekilde geri alınan sürücü belgelerinin iade edilebilmesi için bu Kanun kapsamında verilen
 idari para cezalarının tamamının tahsil edilmiş olması şarttır.
 Bu maddenin diğer hükümlerine uymayanlar 3 600 000 lira para cezası ile cezalandırılırlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

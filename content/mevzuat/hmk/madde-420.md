@@ -20,6 +20,8 @@ karar verilmesini isteyebilir. Mahkemenin vereceği karar kesindir.
 (3) Hakemin görevinden çekilmesi veya diğer tarafın hakemin yetkisinin sona
 ermesine muvafakat etmesi, hakemin ret sebeplerinin varlığının kabulü anlamına gelmez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

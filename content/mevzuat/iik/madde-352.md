@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**Karar**
+**Karar:**
 
 ---
 
@@ -16,7 +16,8 @@ müdafaalarını dinledikten sonra nihayet beş gün içinde kararını verir ve
 Cumhuriyet Savcısına bildirir.
 (Ek fıkra: 17/7/2003-4949/99 md.) Takibi şikâyete bağlı suçlarda dava ve cezanın
 354 üncü maddede yazılı sebeplerle düşeceği kararda belirtilir.
-Ceza kararnamesi:
+
+---
 
 ### Akademik Yorum ve Analiz
 

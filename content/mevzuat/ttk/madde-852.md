@@ -8,12 +8,12 @@ wordCount: 4284
 ---
 
 **C) Saklı tutulan hükümler
-I
-- Kural**
+I- Kural**
 
 ---
 
-Madde 852 - (1) Deniz, demir ve hava yoluyla taşıma ile posta idaresine ilişkin özel hükümler saklıdır.
+MADDE 852- (1) Deniz, demir ve hava yoluyla taşıma ile posta idaresine ilişkin özel
+hükümler saklıdır.
 
 ---
 

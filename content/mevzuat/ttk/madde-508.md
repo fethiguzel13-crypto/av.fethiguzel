@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**II
-- Hesaplama biçimi**
+**II - Hesaplama biçimi**
 
 ---
 
-Madde 508 - (1) Esas sözleşmede aksine bir hüküm yoksa, kâr ve tasfiye payı pay sahibinin sermaye payı için şirkete yaptığı ödemelerle orantılı olarak hesap edilir. (2) Yıllık kâr, yıllık bilançoya göre be lirlenir.
+MADDE 508- (1) Esas sözleşmede aksine bir hüküm yoksa, kâr ve tasfiye payı pay
+sahibinin sermaye payı için şirkete yaptığı ödemelerle orantılı olarak hesap edilir.
+(2) Yıllık kâr, yıllık bilançoya göre belirlenir.
 
 ---
 

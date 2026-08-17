@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
-**Rehinli taşınır veya taşınmazın paraya çevrilmesinin ertelenmesi**
+**Rehinli taşınır veya taşınmazın paraya çevrilmesinin ertelenmesi:**
 
 ---
 
 Madde 298/a- (Ek: 17/7/2003-4949/78 md.; Mülga: 28/2/2018-7101/65 md.)
-Alacaklıları alacaklarını bildirmeye davet:104
+
+---
 
 ### Akademik Yorum ve Analiz
 

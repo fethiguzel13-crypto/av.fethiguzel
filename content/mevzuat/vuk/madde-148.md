@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**Bilgi verme**
+**DÖRDÜNCÜ BÖLÜM
+Bilgi Toplama
+Bilgi verme:**
 
 ---
 
@@ -19,6 +21,8 @@ tekit ve cevap vermeleri için kendilerine münasip bir mühlet tayin olunur. Bi
 üzere ilgililer vergi dairesine zorla getirilemez.
 Memleket dışı imtiyazlarından faydalanan yabancı Devlet memurları bilgi verme
 mecburiyetine tabi olamazlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

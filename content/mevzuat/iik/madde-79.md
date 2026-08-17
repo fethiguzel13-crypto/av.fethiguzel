@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**2 – Hacze başlama müddeti**
+**2 – Hacze başlama müddeti:**
 
 ---
 
@@ -17,7 +17,8 @@ yapılmasını malların bulunduğu yerin icra dairesine hemen yazar. Bu halde h
 şikayetler, istinabe olunan icra dairesinin tabi bulunduğu icra mahkemesince çözümlenir. (Ek
 cümle: 17/7/2003-4949/19 md.) Resmî sicile kayıtlı malların haczi, takibin yapıldığı icra
 dairesince, kaydına işletilmek suretiyle doğrudan da yapılabilir.
-Konutta haciz:
+
+---
 
 ### Akademik Yorum ve Analiz
 

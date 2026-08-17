@@ -11,7 +11,7 @@ wordCount: 4287
 
 ---
 
-Madde 333 - Kiracının ölmesi durumunda mirasçıları, yasal fesih bildirim süresine
+MADDE 333- Kiracının ölmesi durumunda mirasçıları, yasal fesih bildirim süresine
 uyarak en yakın fesih dönemi sonu için sözleşmeyi feshedebilirler.
 
 ---

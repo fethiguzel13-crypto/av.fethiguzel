@@ -11,7 +11,9 @@ wordCount: 4298
 
 ---
 
-Madde 649 - (1) Devredilebilen bütün kıymetli evrakın, senedin içeriğinden veya niteliğinden aksi anlaşılmadıkça, ciro edi lmesi ve zilyetliğin geçirilmesiyle cirantanın hakları ciro edilene devrolunur.
+Madde 649- (1) Devredilebilen bütün kıymetli evrakın, senedin içeriğinden veya
+niteliğinden aksi anlaşılmadıkça, ciro edilmesi ve zilyetliğin geçirilmesiyle cirantanın hakları
+ciro edilene devrolunur.
 
 ---
 

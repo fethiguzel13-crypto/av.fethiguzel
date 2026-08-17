@@ -20,6 +20,8 @@ bulunması hâlinde bu araçlardan yararlanılmak suretiyle de tanığa bildiril
 (2) Fiilî hizmette bulunan askerler hakkındaki zorla getirme kararı askerî makamlar
 aracılığıyla infaz olunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

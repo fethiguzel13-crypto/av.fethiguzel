@@ -7,13 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**Amaç**
+**KİŞİSEL VERİLERİN KORUNMASI KANUNU
+BİRİNCİ BÖLÜM
+Amaç, Kapsam ve Tanımlar
+Amaç**
 
 ---
 
 MADDE 1- (1) Bu Kanunun amacı, kişisel verilerin işlenmesinde başta özel hayatın
 gizliliği olmak üzere kişilerin temel hak ve özgürlüklerini korumak ve kişisel verileri işleyen
-gerçek ve tüzel kişilerin yükümlülükleri ile uyacakları usul ve esaslar düzenlemektir.
+gerçek ve tüzel kişilerin yükümlülükleri ile uyacakları usul ve esasları düzenlemektir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -18,6 +18,8 @@ Türkiye’deki şube veya temsilcilikleri ile Türkiye’de faaliyette veya iş
 izinleri hakkında da ceza hükümleri ile birlikte uygulanır. Bu Kanunda hüküm bulunmayan
 hâllerde Türk Medenî Kanunu hükümleri uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

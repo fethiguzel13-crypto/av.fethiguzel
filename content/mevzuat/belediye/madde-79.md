@@ -19,6 +19,8 @@ Belediye tarafından deniz, akarsu ve gölden doldurma suretiyle kazanılan alan
 Kanunu ve ilgili mevzuata uygun olarak kullanılmak şartıyla Maliye Bakanlığı tarafından
 belediyelerin, büyükşehirlerde büyükşehir belediyelerinin tasarrufuna bırakılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

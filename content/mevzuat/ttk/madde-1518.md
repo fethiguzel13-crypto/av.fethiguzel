@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**VII
-- Bilgi isteme hakkı**
+**VII - Bilgi isteme hakkı**
 
 ---
 
-Madde 1518 - (1) Sigortacı, ifa yükümlülüğünü incelerken, ilgili kişinin veya onun kanuni temsilcis inin istemesi hâlinde, bunlar tarafından belirlenen doktora, teminat kapsamındaki hastalığın gerçekleşip gerçekleşmediği ve tıbbi tedavi uygulanmasının gerekliliği konusunda aldığı rapor hakkında bilgi ve rapor üzerinde inceleme imkânı vermek zorundadır.
+MADDE 1518- (1) Sigortacı, ifa yükümlülüğünü incelerken, ilgili kişinin veya onun
+kanuni temsilcisinin istemesi hâlinde, bunlar tarafından belirlenen doktora, teminat
+kapsamındaki hastalığın gerçekleşip gerçekleşmediği ve tıbbi tedavi uygulanmasının
+gerekliliği konusunda aldığı rapor hakkında bilgi ve rapor üzerinde inceleme imkânı vermek
+zorundadır.
 
 ---
 

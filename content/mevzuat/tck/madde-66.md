@@ -35,6 +35,8 @@ günden itibaren işlemeye başlar.
 veya müebbet veya on yıldan fazla hapis cezalarını gerektiren suçların yurt dışında işlenmesi
 halinde dava zamanaşımı uygulanmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

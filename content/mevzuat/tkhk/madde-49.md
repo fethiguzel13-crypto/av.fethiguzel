@@ -19,13 +19,7 @@ kullanılması suretiyle kurulan sözleşmelerdir.
 (2) Finansal hizmetlere ilişkin mesafeli sözleşmelerde, tüketicinin sözleşmenin
 kurulmasına ilişkin iradesini açıklamadan önce, cayma hakkı, tüketicinin kabul beyanı
 vermesi hâlinde yükümlülük altına gireceği ve ayrıntıları Bakanlıkça belirlenen diğer
-24/3/2022 tarihli ve 7392 sayılı Kanunun 7 nci maddesiyle bu maddeye beşinci fıkradan sonra
-gelmek üzere fıkra eklenmiş, mevcut altıncı fıkra yedinci fıkra olarak teselsül ettirilmiş, mevcut altıncı
-fıkrada yer alan “tüketici ile satıcı ve sağlayıcının” ibaresi “tüketici, satıcı ve sağlayıcı ile mesafeli
-sözleşme kurulmasına aracılık eden aracı hizmet sağlayıcının” şeklinde değiştirilmiştir.
-13
-
-hususlarda, açık, anlaşılır ve kullanılan iletişim araçlarına uygun bir şekilde bilgilendirilmesi
+hususlarda, açık, anlaşılır ve kullanılan iletişim araçlarına uygun bir şekilde bilgilendirilmesi
 zorunludur. Bu bilgilendirmenin ticari amaçla yapıldığı anlaşılır olmalı ve sesli iletişim
 araçlarının kullanıldığı hâllerde sağlayıcının kimliği ile görüşme talebinin sebebi her
 görüşmenin başında belirtilmelidir. Tüketicinin sözleşmenin kurulmasına dair kabul beyanı
@@ -54,6 +48,8 @@ koşullar içeren bir yöntem kullanmak zorunda bırakılamaz.
 (7) Finansal hizmetlere ilişkin mesafeli sözleşmelerde, uzaktan iletişim araçlarının
 kullanılması, kapsam dışı sözleşmeler, kartla ödeme, tüketici ile sağlayıcının hak ve
 yükümlülükleri, cayma hakkı ile diğer uygulama usul ve esasları yönetmelikle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

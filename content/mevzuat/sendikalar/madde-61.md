@@ -34,6 +34,8 @@ işyeri için ayrıca belirlenir.
 (6) Grev oylamasının usul ve esasları Bakanlıkça çıkarılacak bir yönetmelikle
 düzenlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

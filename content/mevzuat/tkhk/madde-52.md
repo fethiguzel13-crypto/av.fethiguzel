@@ -39,6 +39,8 @@ bir sistem kurup bu sistemi kesintisiz olarak açık tutmakla yükümlüdür.
 (7) Sözleşmenin zorunlu içeriği, tüketici ile satıcı ve sağlayıcının hak ve
 yükümlülükleri ile diğer uygulama usul ve esasları yönetmelikle belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

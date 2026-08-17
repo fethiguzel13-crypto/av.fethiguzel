@@ -11,8 +11,9 @@ wordCount: 4297
 
 ---
 
-Madde 204 - (1) Bağlı şirketin ödeme gücünü açıkça aşan, varlığını tehlikeye
-düşürebilecek olan veya önemli varlıklarını kaybetmesine yol açabilecek nitelik taşıyan talimat verilemez.
+MADDE 204- (1) Bağlı şirketin ödeme gücünü açıkça aşan, varlığını tehlikeye
+düşürebilecek olan veya önemli varlıklarını kaybetmesine yol açabilecek nitelik taşıyan
+talimat verilemez.
 
 ---
 

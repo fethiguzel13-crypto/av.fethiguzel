@@ -19,6 +19,8 @@ verilecek ceza yarı oranında artırılır.
 (3) Bu suçun üstsoy, altsoy, eş, kardeş veya diğer suç ortağı tarafından işlenmesi
 halinde, cezaya hükmolunmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

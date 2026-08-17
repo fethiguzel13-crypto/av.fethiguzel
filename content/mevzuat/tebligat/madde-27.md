@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Yabancı memlekette Türk memurlarına ve askeri şahıslarına tebligat**
+**Yabancı memlekette Türk memurlarına ve askeri şahıslarına tebligat:**
 
 ---
 
@@ -16,6 +16,8 @@ tebligat, Dışişleri Bakanlığı vasıtasiyle yapılır.
 Yabancı memleketlerde bulunan askeri şahıslara yapılacak tebligat bağlı bulundukları
 Kara, Deniz, Hava Kuvvetleri Kumandanlıkları ile Jandarma Genel Komutanlığı vasıtasiyle
 yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

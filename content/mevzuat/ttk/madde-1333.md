@@ -7,22 +7,20 @@ lastReviewed: "2026-07-27"
 wordCount: 3634
 ---
 
-**(1) Sınırlamaya esas olan alacağın,**
+**VI- Sondaj işlemi gemileri**
 
 ---
 
-Madde 1333 - (1) Sınırlamaya esas olan alacağın,
-geminin sondaj işlemi için kullanılmak üzere sondaj yerinde bulunduğu sırada doğmuş
-olması şartıyla, 1976 tarihli Sözleşmenin 15 inci maddesinin dördüncü paragrafında
-sayılan gemiler hakkında aşağıdaki sorumluluk sınırları uygulanır:
+MADDE 1333- (1) Sınırlamaya esas olan alacağın, geminin sondaj işlemi için
+kullanılmak üzere sondaj yerinde bulunduğu sırada doğmuş olması şartıyla, 1976 tarihli
+Sözleşmenin 15 inci maddesinin dördüncü paragrafında sayılan gemiler hakkında aşağıdaki
+sorumluluk sınırları uygulanır:
+a) 1976 tarihli Sözleşmenin 6 ncı maddesinin birinci paragrafının (a) bendinde sayılan
+alacaklar için 32.000.000 Özel Çekme Hakkı.
+b) 1976 tarihli Sözleşmenin 6 ncı maddesinin birinci paragrafının (b) bendinde sayılan
+alacaklar için 20.000.000 Özel Çekme Hakkı.
 
-a) 1976 tarihli Sözleşmenin 6 ncı maddesinin birinci paragrafının
-(a) bendinde sayılan alacaklar için 32.000.000 Özel Çekme Hakkı.
-
-b) 1976 tarihli Sözleşmenin 6 ncı maddesinin birinci paragrafının
-(b) bendinde sayılan alacaklar için 20.000.000 Özel Çekme Hakkı.
-
-VII- Öncelik
+---
 
 ### Akademik Yorum ve Analiz
 

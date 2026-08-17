@@ -20,6 +20,8 @@ açık ve ağır ihlaller hariç olmak üzere, piyasada rekabeti kayda değer ö
 anlaşma, uyumlu eylem ve teşebbüs birliği karar ve eylemlerini soruşturma konusu yapmayabilir.
 Bu fıkranın uygulanmasına ilişkin usul ve esaslar Kurul tarafından çıkarılan tebliğ ile belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

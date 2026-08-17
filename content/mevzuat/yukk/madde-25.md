@@ -20,6 +20,8 @@ ertelenebilir.
 temsilcisine veya avukatına tebliğ edilir. Tebligatta, yabancının karara karşı itiraz haklarını
 etkin şekilde nasıl kullanabileceği ve bu süreçteki diğer yasal hak ve yükümlülükleri de yer alır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

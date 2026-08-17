@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**Madde 1528**
+**2. Uygulama kuralları**
 
 ---
 
-Madde 1528 - (1) Elektronik ortamı kullanmak isteyen ortaklar, pay sahipleri ve yönetim kurulu üyeleri elektronik posta adreslerini şirkete bildirirler.
+MADDE 1528- (1) Elektronik ortamı kullanmak isteyen ortaklar, pay sahipleri ve
+yönetim kurulu üyeleri elektronik posta adreslerini şirkete bildirirler.
 
 ---
 

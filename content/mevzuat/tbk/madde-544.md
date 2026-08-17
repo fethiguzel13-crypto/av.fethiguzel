@@ -11,7 +11,7 @@ wordCount: 4288
 
 ---
 
-Madde 544 - Komisyoncu, kendisinin doğrudan doğruya alıcı veya satıcı olabildiği
+MADDE 544- Komisyoncu, kendisinin doğrudan doğruya alıcı veya satıcı olabildiği
 durumlarda, sözleşmenin diğer tarafını göstermeksizin vekâletin yerine getirildiğini vekâlet
 verene bildirirse, işlemi kendisiyle yapmış sayılır.
 

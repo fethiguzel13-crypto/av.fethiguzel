@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**Tebellüğ edecek şahsın hasım olması**
+**Tebellüğ edecek şahsın hasım olması:**
 
 ---
 
 Madde 39 – Bu kanun hükümlerine göre kendilerine tebliğ yapılması caiz olan
 kimselerin o davada hasım olarak alakaları varsa muhatap namına kendilerine tebliğ
 yapılamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

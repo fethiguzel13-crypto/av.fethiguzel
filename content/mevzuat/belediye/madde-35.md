@@ -20,13 +20,13 @@ başkanın bulunduğu taraf çoğunluk sayılır. Çekimser oy kullanılamaz.
 Encümen gündemi belediye başkanı tarafından hazırlanır. Encümen üyeleri, başkanının
 uygun görüşü ile gündem maddesi teklif edebilir. Belediye başkanı tarafından havale edilmeyen
 konular encümende görüşülemez.
-
-
-Encümene havale edilen konular bir hafta içinde görüşülerek karara bağlanır.
+Encümene havale edilen konular bir hafta içinde görüşülerek karara bağlanır.
 Alınan kararlar başkan ve toplantıya katılan üyeler tarafından imzalanır. Karara
 muhalif kalanlar gerekçelerini de açıklar.
 Encümen başkan ve üyeleri, münhasıran kendileri, ikinci derece dâhil kan ve kayın
 hısımları ve evlatlıkları ile ilgili işlerin görüşüldüğü encümen toplantılarına katılamazlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

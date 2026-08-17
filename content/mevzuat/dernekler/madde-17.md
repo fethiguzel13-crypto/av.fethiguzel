@@ -16,6 +16,8 @@ Kanunu ile bunlara dayanılarak çıkarılan yönetmeliklerin hükümlerine ayk�
 edilmesi halinde, konusu suç teşkil etmeyen hata ve noksanlıkların mülkî idare amirinin yazılı
 istemi üzerine, ilgili dernek tarafından otuz gün içerisinde giderilmesi zorunludur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

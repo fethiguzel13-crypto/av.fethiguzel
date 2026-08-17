@@ -7,13 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Amaç**
+**Amaç ve Temel İlkeler
+BİRİNCİ BÖLÜM
+Kanunun Amacı
+Amaç**
 
 ---
 
-Madde 1- (1) Bu Kanunun amacı, korunma ihtiyacı olan veya suça sürüklenen
-çocukların korunmasına, haklarının ve esenliklerinin güvence altına alınmasına ilişkin usûl ve
-esasları düzenlemektir.
+Madde 1- (1) Bu Kanunun amacı, ceza ve güvenlik tedbirlerinin infazına ilişkin usûl
+ve esasları düzenlemektir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

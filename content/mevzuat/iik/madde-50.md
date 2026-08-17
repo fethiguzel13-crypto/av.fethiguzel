@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4281
 ---
 
-**Yetki ve itirazları**
+**II. YETKİ
+Yetki ve itirazları:**
 
 ---
 
@@ -19,8 +20,8 @@ Yetki itirazı esas hakkındaki itirazla birlikte yapılır. İcra mahkemesi tar
 yetki meselesi tetkik ve kati surette karara raptolunur.
 İki icra mahkemesi arasında yetki noktasından ihtilaf çıkarsa Hukuk Usulü
 Muhakemeleri Kanununun 25 inci maddesi hükmü tatbik olunur.
-III. TATİLLER VE TALİKLER
-Tatiller:
+
+---
 
 ### Akademik Yorum ve Analiz
 

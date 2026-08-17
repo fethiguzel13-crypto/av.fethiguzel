@@ -11,7 +11,8 @@ wordCount: 4277
 
 ---
 
-Madde 847 - (1) Varantın hamili, sigorta edilen malın zıya veya hasarı hâlinde sigorta bedelinden alacağını tahsil eder.
+MADDE 847- (1) Varantın hamili, sigorta edilen malın zıya veya hasarı hâlinde
+sigorta bedelinden alacağını tahsil eder.
 
 ---
 

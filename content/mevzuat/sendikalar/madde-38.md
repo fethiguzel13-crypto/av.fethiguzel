@@ -23,6 +23,8 @@ hükmü olarak devam eder.
 olan bir işverence devralınması durumunda işyeri, işletme toplu iş sözleşmesi kapsamına
 girer.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

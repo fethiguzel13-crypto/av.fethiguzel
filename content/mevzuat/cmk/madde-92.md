@@ -17,6 +17,8 @@ nezarethaneleri, varsa ifade alma odalarını, bu kişilerin durumlarını, göz
 ve sürelerini, gözaltına alınma ile ilgili tüm kayıt ve işlemleri denetler; sonucunu
 Nezarethaneye Alınanlar Defterine kaydederler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

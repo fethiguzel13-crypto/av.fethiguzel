@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Ders görevi**
+**Ders görevi:**
 
 ---
 
@@ -17,7 +17,9 @@ Akademiler dahil), okul, kurs veya yaygın eğitim yapan kurumlarda ve benzeri k
 öğretmen veya öğretim üyesi bulunmaması halinde öğretmenlere, öğretim üyelerine veya
 diğer memurlara veyahut açıktan atanacaklara ücret ile ek ders görevi verilebilir.
 Ücretle okutulacak ders saatlerinin sayısı, ders görevi alacakların nitelikleri ve diğer
-hususlar Cumhurbaşkanı kararı ile tespit olunur.158
+hususlar Cumhurbaşkanı kararı ile tespit olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

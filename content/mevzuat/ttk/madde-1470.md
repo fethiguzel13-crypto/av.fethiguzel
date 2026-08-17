@@ -11,7 +11,8 @@ wordCount: 4318
 
 ---
 
-Madde 1470 - (1) Sigorta edilen menfaatin sahib inin değişmesi hâlinde, aksine sözleşme yoksa, sigorta ilişkisi sona erer.
+MADDE 1470- (1) Sigorta edilen menfaatin sahibinin değişmesi hâlinde, aksine
+sözleşme yoksa, sigorta ilişkisi sona erer.
 
 ---
 

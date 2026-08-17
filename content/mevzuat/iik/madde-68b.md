@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**itirazın kesin olarak kaldırılması:32**
+**itirazın kesin olarak kaldırılması:**
 
 ---
 
@@ -35,7 +35,8 @@ hesabının kesilmesi ve borcun ödenmesine ilişkin ihtarnameden önce tebliğ 
 edilmeyerek kesinleşmiş bulunan faiz tahakkuk dönemlerine ilişkin hesap özetlerinin
 muhtevasına itiraz edilmemiş olmasının sonuçlarını ortadan kaldırmaz. Bu durumda, önceki
 dönemlere ilişkin kesinleşmiş hesap özetleri hakkında ikinci fıkra hükümleri uygulanır.
-İtirazın muvakkaten kaldırılmasının hükümleri:
+
+---
 
 ### Akademik Yorum ve Analiz
 

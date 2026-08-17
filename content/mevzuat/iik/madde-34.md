@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**İcranın nereden isteneceği**
+**III. Müşterek Hükümler:
+İcranın nereden isteneceği:**
 
 ---
 
 Madde 34 – İlamların icrası her icra dairesinden talep olunabilir. Alacaklı yerleşim
 yerini değiştirirse takibin yeni yerleşim yerini icra dairesine havalesini isteyebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -20,6 +20,8 @@ duruşmalı işlerde inceleme raporu okunmadan önce verilir. Bu aşamalardan so
 iddiasında bulunulamayacağı gibi mahkemeler de bu hususta re'sen karar veremez.
 (3) Yetkisizlik kararlarına karşı itiraz yoluna gidilebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

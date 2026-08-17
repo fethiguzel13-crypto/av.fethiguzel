@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**Yetkili mahkeme**
+**DÖRDÜNCÜ BÖLÜM
+Yetki
+Yetkili mahkeme**
 
 ---
 
@@ -22,13 +24,14 @@ mahkemesi de yetkilidir.
 mağdurun yerleşim yerinde veya oturduğu yerde dağıtılmışsa, o yer mahkemesi de yetkilidir.
 Mağdur, suçun işlendiği yer dışında tutuklu veya hükümlü bulunuyorsa, o yer mahkemesi de
 yetkilidir.
-
-(5) Görsel veya işitsel yayınlarda da bu maddenin üçüncü fıkrası hükmü uygulanır.
+(5) Görsel veya işitsel yayınlarda da bu maddenin üçüncü fıkrası hükmü uygulanır.
 Görsel ve işitsel yayın, mağdurun yerleşim yerinde ve oturduğu yerde işitilmiş veya
 görülmüşse o yer mahkemesi de yetkilidir.
 (6) (Ek:8/7/2021-7331/10 md.) Bilişim sistemlerinin, banka veya kredi kurumlarının
 ya da banka veya kredi kartlarının araç olarak kullanılması suretiyle işlenen suçlarda
 mağdurun yerleşim yeri mahkemeleri de yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

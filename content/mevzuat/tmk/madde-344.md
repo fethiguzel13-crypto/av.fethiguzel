@@ -11,7 +11,8 @@ wordCount: 4300
 
 ---
 
-Madde 344 - Velâyet altındaki çocuk, ayırt etme gücüne sahip ise ana ve babanın rızasıyla aile adına hukukî işlemler yapabilir; bu işlemlerden do layı ana ve baba borç altın a girer.
+Madde 344- Velâyet altındaki çocuk, ayırt etme gücüne sahip ise ana ve babanın rızasıyla
+aile adına hukukî işlemler yapabilir; bu işlemlerden dolayı ana ve baba borç altına girer.
 
 ---
 

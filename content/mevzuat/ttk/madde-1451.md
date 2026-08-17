@@ -11,7 +11,8 @@ wordCount: 4317
 
 ---
 
-Madde 1451 - (1) Bu Kanunda hüküm bulunmayan hâllerde sigorta sözleşmesi hakkı nda Türk Borçlar Kanunu hükümleri uygulanır.
+MADDE 1451- (1) Bu Kanunda hüküm bulunmayan hâllerde sigorta sözleşmesi
+hakkında Türk Borçlar Kanunu hükümleri uygulanır.
 
 ---
 

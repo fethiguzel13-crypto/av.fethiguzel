@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**III
-- Yerleşim yeri hukuku**
+**III - Yerleşim yeri hukuku**
 
 ---
 
-Madde 823 - (1) Muhatap ve yerleşim yerli çeki ödeyecek olan üçüncü kişi aleyhine sebepsiz zenginleşmeden doğan istemler, b u kişilerin yerleşim yerlerinin bulunduğu ülkenin hukukuna göre belirlenir. BEŞİNCİ KISIM Kambiyo Senetlerine Benzeyen Senetler ve Diğer Emre Yazılı Senetler A) Emre yazılı senet I - Tanımı
+MADDE 823- (1) Muhatap ve yerleşim yerli çeki ödeyecek olan üçüncü kişi aleyhine
+sebepsiz zenginleşmeden doğan istemler, bu kişilerin yerleşim yerlerinin bulunduğu ülkenin
+hukukuna göre belirlenir.
 
 ---
 

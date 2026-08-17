@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**Suçun niteliğinin değişmesi**
+**İKİNCİ BÖLÜM
+Suç Niteliğinde Değişiklik
+Suçun niteliğinin değişmesi**
 
 ---
 
@@ -22,6 +24,8 @@ hazırlaması için süre verilir.
 ve varsa müdafie yapılır. Müdafii sanığa tanınan haklardan onun gibi yararlanır. Sanığın
 dosyada var olan son adresine bildirim yapılamaması veya bildirime rağmen duruşmaya
 gelmemesi halinde müdafie yapılan bildirimler yeterli kabul edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

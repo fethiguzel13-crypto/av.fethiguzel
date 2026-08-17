@@ -22,6 +22,8 @@ yapılması.
 getirilmemesi.
 d) Eğitim faaliyetinin devamlılığının sağlanmadığının tespit edilmesi.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

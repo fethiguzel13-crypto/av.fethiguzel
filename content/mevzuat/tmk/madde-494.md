@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**E. Vesayet altındaki kişinin ala cağı**
+**E. Vesayet altındaki kişinin alacağı**
 
 ---
 
-Madde 494 - Vesayet alt ındaki kişinin vasi veya Devlete karşı alaca kları imtiyazlı alacaktır. ÜÇÜNCÜ KİTAP MİRAS HUKUKU BİRİNCİ KISIM MİRASÇILAR BİRİNCİ BÖLÜM YASAL MİR ASÇILAR A. Kan hısımları I. Altsoy
+Madde 494- Vesayet altındaki kişinin vasi veya Devlete karşı alacakları imtiyazlı alacaktır.
 
 ---
 

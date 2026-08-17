@@ -7,12 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4263
 ---
 
-**b. Üçün cü kiş ilerin haklarının korunması**
+**b. Üçüncü kişilerin haklarının korunması**
 
 ---
 
-Madde 389 - Aile yurdu hâline getirilecek taşınmazda yurt olabilmesi için ger ekli koşullar
-bulunur ve yurdun kurulmasına üçüncü kişiler itiraz etmez veya itir azın haksız olduğu anlaşılı rsa, mahkeme kuruluşa izin verir. Süre si içi nde itiraz eden alacaklıların ilgilerinin kesildiği ispat edilmedikçe veya taşınmaz üzerinde bulunan reh in ve hacizler kaldırılmadıkça, aile yurdu kurulmasına izin verilemez. Borç, itir az eden veya rehinli alacak lı lehine vadeye bağlı olsa bile, aile yurdu kurmak isteyen borçlu hemen ödemede bulunabilir.
+Madde 389- Aile yurdu hâline getirilecek taşınmazda yurt olabilmesi için gerekli koşullar
+bulunur ve yurdun kurulmasına üçüncü kişiler itiraz etmez veya itirazın haksız olduğu anlaşılırsa,
+mahkeme kuruluşa izin verir.
+Süresi içinde itiraz eden alacaklıların ilgilerinin kesildiği ispat edilmedikçe veya taşınmaz
+üzerinde bulunan rehin ve hacizler kaldırılmadıkça, aile yurdu kurulmasına izin verilemez. Borç,
+itiraz eden veya rehinli alacaklı lehine vadeye bağlı olsa bile, aile yurdu kurmak isteyen borçlu
+hemen ödemede bulunabilir.
 
 ---
 

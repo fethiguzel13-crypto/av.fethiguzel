@@ -11,7 +11,7 @@ wordCount: 4307
 
 ---
 
-Madde 144 - Aşağıdaki alacaklar takas haklarının doğumundan sonra, ancak
+MADDE 144- Aşağıdaki alacaklar takas haklarının doğumundan sonra, ancak
 alacaklıların rızasıyla takas edilebilir:
 1. Tevdi edilmiş eşyanın geri verilmesine veya bedeline ilişkin alacaklar.
 2. Haksız olarak alınmış veya aldatma sonucunda alıkonulmuş eşyanın geri

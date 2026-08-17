@@ -25,10 +25,9 @@ belirtilen esaslar dairesinde tayin edilen bedelinden artan değerin çıkarılm
 miktardır.
 Şu kadar ki, (c) bendi gereğince yapılacak indirme, kamulaştırma bedelinin yüzde
 ellisinden fazla olamaz.
-16 Bu arada yer alan "kamulaştırma tarihindeki" ibaresi, Anayasa Mahkemesi’nin 9/4/2003 tarihli ve E.:2002/79, K.:2003/29 sayılı Kararı ile iptal edildiğinden metinden çıkarılmıştır. 17 Anayasa Mahkemesinin 10/4/2019 tarihli ve E.:2018/156; K.:2019/22 Sayılı kararı ile bu bentte yer alan “...arazi bedelinin yarısını geçmemek ve...” ibaresinin iptali nedeniyle uygulanma olanağı kalmayan, aynı bentte yer alan “Bu fıkrada belirtilen unsurlara göre tespit edilen...”ibaresinin de iptaline karar verilmiştir.
-
-
-(b) ve (c) bentlerinde sözü edilen bedelin düşüş ve artış miktarları, 11 inci maddede
+Bu arada yer alan "kamulaştırma tarihindeki" ibaresi, Anayasa Mahkemesi’nin 9/4/2003 tarihli ve
+E.:2002/79, K.:2003/29 sayılı Kararı ile iptal edildiğinden metinden çıkarılmıştır.
+(b) ve (c) bentlerinde sözü edilen bedelin düşüş ve artış miktarları, 11 inci maddede
 belirtilen esaslara göre bedel takdiri suretiyle tespit olunur.
 Kamulaştırma dışında kalan kısım, imar mevzuatına göre yararlanmaya elverişli olduğu
 takdirde;kesilen bina, ihata duvarı, kanalizasyon, su, elektrik, havagazı kanalları, makine gibi
@@ -53,7 +52,7 @@ valilik komisyonuna başvurulması dava şartıdır. Bu fıkranın uygulanmasın
 Cumhurbaşkanınca yürürlüğe konulan yönetmelikle düzenlenir. Bu suretle kamulaştırılan
 mücavir taşınmaz mallar hakkında 22 nci ve 23 üncü maddeler uygulanmaz. İdare, bu
 taşınmaz mallar üzerinde imar mevzuatı hükümlerini de göz önünde tutarak dilediği gibi
-tasarrufta bulunabilir ve gerektiğinde Hazineye bedelsiz olarak devredebilir.18
+tasarrufta bulunabilir ve gerektiğinde Hazineye bedelsiz olarak devredebilir.
 Kısmen kamulaştırılan paylı mülkiyete konu taşınmaz mal, evvelce paydaşlar arasında
 fiilen bölünerek bir veya birkaç paydaşın tasarruf ve yararlanmasına bırakılmış ve yapılan
 kısmi kamulaştırma bu yerin tamamını veya bir kısmını kapsıyor ise, bu durumda
@@ -63,7 +62,8 @@ kısım için dava hakları vardır. Taşınmaz malın kamulaştırılmayan kıs
 kalmaz ve adları paydaşlar arasından çıkarılır. Kamulaştırılan bu yerler tapu sicilinde idare
 adına tescil olunur.
 Bu maddenin uygulanmasından doğacak anlaşmazlıklar adli yargıda çözümlenir.
-18 2/7/2018 tarihli ve 700 sayılı KHK’nin 86 ncı maddesiyle, bu fıkrada yer alan “İçişleri, Maliye, Çevre ve Şehircilik, Gıda, Tarım ve Hayvancılık ile Enerji ve Tabii Kaynaklar Bakanlıklarının görüşü alınmak suretiyle Devlet Su İşleri Genel Müdürlüğünün bağlı bulunduğu Bakanlıkça hazırlanarak Bakanlar Kurulunca bir yıl içinde” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

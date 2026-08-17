@@ -7,14 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**II. Mi rastan feragat sözleşmesi
-1. Kapsamı M adde 5 28
-- Mirasbırakan, bir mirasçısı ile karşılıksız veya bir karşılık sağlanarak mirastan feragat sözleşmes i yapabilir. Feragat eden, mirasçılık sıfatını kaybeder. Bir karşılık sağlanarak mirastan feragat, sözleşmed e aksi öngörülmedikçe ferag at edenin a ltsoyu için de sonuç doğurur.
-2. Hükümden düşmesi**
+**2. Hükümden düşmesi**
 
 ---
 
-Madde 529 - Mirastan feragat sözleşmesi belli bir kişi lehin e yapılmış olup bu kişinin herhangi bir sebeple m irasçı olamaması hâlinde, feraga t hükümden düşer. Mirastan feragat sözleşmesi belli bir kişi lehi ne yap ılmamışsa, en yakın ortak kökün altsoyu l ehine yapılmış sayılır ve bunların herhangi bir sebeple mirasçı olamaması hâlinde, feragat yine hükümden düşer.
+Madde 529- Mirastan feragat sözleşmesi belli bir kişi lehine yapılmış olup bu kişinin
+herhangi bir sebeple mirasçı olamaması hâlinde, feragat hükümden düşer.
+Mirastan feragat sözleşmesi belli bir kişi lehine yapılmamışsa, en yakın ortak kökün
+altsoyu lehine yapılmış sayılır ve bunların herhangi bir sebeple mirasçı olamaması hâlinde,
+feragat yine hükümden düşer.
 
 ---
 

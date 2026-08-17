@@ -14,6 +14,8 @@ wordCount: 4266
 MADDE 423- (1) Taraflar, tahkim yargılamasında eşit hak ve yetkiye sahiptirler.
 Taraflara hukuki dinlenilme hakkını kullanma imkânı tanınır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**Teslim sayılan haller**
+**Teslim sayılan haller:**
 
 ---
 
@@ -18,12 +18,8 @@ ikramiye, hediye, teberru gibi namlarla verilmesi,
 b) Vergiye tabi malların, üretilip teslimi vergiden istisna edilmiş olan mallar için her
 ne suretle olursa olsun kullanılması veya sarfı,
 c) Mülkiyeti muhafaza kaydıyla yapılan satışlarda zilyedliğin devri,
-29/3/2018 tarihli ve 7104 sayılı Kanunun 29 uncu maddesiyle; 7104 sayılı Kanunun 1 inci maddesiyle eklenen
-bu cümlenin 6/4/2018 tarihinden sonra yapılan teslimlere uygulanmak üzere 6/4/2018 tarihinde yürürlüğe
-gireceği hüküm altına alınmıştır.
-1
 
-d) (Mülga : 22/7/1998 - 4369/82 md.)
+---
 
 ### Akademik Yorum ve Analiz
 

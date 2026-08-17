@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**II. Mirasbırakanın alacaklılarının i stemi ile**
+**II. Mirasbırakanın alacaklılarının istemi ile**
 
 ---
 
-Madde 633 - Mirasb ırakanın alacaklarını elde edemeyeceklerinden inandırıcı sebeplerle kuşku duyan alacaklıları, istedikleri hâlde alacakları ödenmediği veya kendilerine güvence verilmediği takdirde, mirasbırakanın ölümünden ya da vasiyetnamenin aç ılmasından başlayarak üç ay içinde, terekenin resmî tasfiyesini isteyebilirler. Aynı koşulların varlığı hâlinde vasiyet alacaklıları da, haklarının korunması için ger ekli önlemlerin alınmasını isteyebilirler.
+Madde 633- Mirasbırakanın alacaklarını elde edemeyeceklerinden inandırıcı sebeplerle
+kuşku duyan alacaklıları, istedikleri hâlde alacakları ödenmediği veya kendilerine güvence
+verilmediği takdirde, mirasbırakanın ölümünden ya da vasiyetnamenin açılmasından başlayarak
+üç ay içinde, terekenin resmî tasfiyesini isteyebilirler.
+Aynı koşulların varlığı hâlinde vasiyet alacaklıları da, haklarının korunması için gerekli
+önlemlerin alınmasını isteyebilirler.
 
 ---
 

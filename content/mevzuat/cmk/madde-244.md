@@ -7,7 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Gaibin tanımı ve yapılabilecek işlemler**
+**BEŞİNCİ KİTAP
+Özel Yargılama Usulleri
+BİRİNCİ KISIM
+Gaiplerin ve Kaçakların Yargılanması, Tüzel Kişilerin Soruşturmada ve
+Kovuşturmada Temsili, Bazı Suçlara İlişkin Muhakeme Usulü
+BİRİNCİ BÖLÜM
+Gaiplerin Yargılanması
+Gaibin tanımı ve yapılabilecek işlemler**
 
 ---
 
@@ -18,6 +25,8 @@ korunması amacıyla gerekli işlemleri yapar.
 (3) Bu işlemler naip hâkim veya istinabe olunan mahkeme aracılığıyla da yapılabilir.
 (4) Bu işlemler sırasında sanığın müdafii veya kanunî temsilcisi veya eşi hazır
 bulunabilir. Gerektiğinde, mahkemece barodan bir müdafi görevlendirilmesi istenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

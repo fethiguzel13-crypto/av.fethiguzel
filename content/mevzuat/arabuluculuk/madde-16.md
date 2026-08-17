@@ -22,6 +22,8 @@ işlemeye başlar.
 (2) Arabuluculuk sürecinin başlamasından sona ermesine kadar geçirilen süre,
 zamanaşımı ve hak düşürücü sürelerin hesaplanmasında dikkate alınmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

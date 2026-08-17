@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**Avukat katiplerine ve stajyerlerine tebligat**
+**Avukat katiplerine ve stajyerlerine tebligat:**
 
 ---
 
 Madde 37 – Celse esnasında kazai merci tarafından sıfatları tesbit edilen avukat
 katiplerine ve stajyerlerine mütaakip celse gün ve saatinin bildirilmesi avukata tebliğ
 hükmündedir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

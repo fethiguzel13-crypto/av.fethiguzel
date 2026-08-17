@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**Yönetmelik**
+**Yönetmelik:**
 
 ---
 
@@ -26,16 +26,7 @@ faaliyetlerinin denetlenmesine, kayıtlarının tutulmasına ve değerlendirilme
 mühendis unvanlı şantiye şefi çalıştırılması mecburi ve yapı müteahhidi olmaksızın da
 yapılması mümkün olan yapılara; şantiye şeflerine, yapım ve denetim işlerinde istihdam
 edilecek fen adamlarına ve yetki belgeli ustalara ilişkin usul ve esaslar ile diğer hususlar,
-7/5/2026 tarihli ve 7579 sayılı Kanunun 14 üncü maddesiyle bu fıkranın ikinci cümlesinde yer alan
-“ve diğer sorumluluklarını yerine getirmemesi hallerinde” ibaresi “halinde” şeklinde değiştirilmiş,
-cümleye “Bakanlıkça” ibaresinden sonra gelmek üzere “veya Bakanlıkça yetkilendirilmiş idare
-tarafından” ibaresi, dördüncü cümlesinde yer alan “Yetki belgeli yapı müteahhidi olmaksızın”
-ibaresinden sonra gelmek üzere “ya da sahte veya gerçeğe aykırı belge kullanılarak temin edilen
-müteahhitlik sınıflandırma belgesi ile” ibaresi, “yapı mühürlenir” ibaresinden sonra gelmek üzere
-“ve beş yıl süre ile belge numarası iptal edilir” ibaresi eklenmiştir.
-45
-
-Milli Eğitim Bakanlığı, Çalışma ve Sosyal Güvenlik Bakanlığı, Mesleki Yeterlilik Kurumu,
+Milli Eğitim Bakanlığı, Çalışma ve Sosyal Güvenlik Bakanlığı, Mesleki Yeterlilik Kurumu,
 Türkiye Odalar ve Borsalar Birliği, Türkiye Esnaf ve Sanatkarlar Konfederasyonu, Türk
 Mühendis ve Mimar Odaları Birliğinin görüşleri alınarak,
 f) İmar planı yapımı ve değişiklikleriyle ilgili kriterlerin tespiti ve imarla ilgili diğer
@@ -65,6 +56,8 @@ III - Otopark ayrılması gereken bina ve tesisler ile diğer hususlar Bakanlık
 Otopark yapılmasını gerektiren bina ve tesislerin neler olduğu, otopark ihtiyacının
 miktar, ölçü ve diğer şartları ile bu ihtiyacın nasıl tespit olunup giderileceği ise, bu
 yönetmelikte belirtilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

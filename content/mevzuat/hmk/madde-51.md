@@ -13,6 +13,8 @@ wordCount: 4318
 
 MADDE 51- (1) Dava ehliyeti, medenî hakları kullanma ehliyetine göre belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

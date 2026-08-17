@@ -12,7 +12,10 @@ wordCount: 4310
 
 ---
 
-Madde 946 - Alacaklı, ödenmeyen alacağının rehnin p araya çevrilmesi yoluyla ödenmesini isteyebilir. Rehin hakkı, alacaklıya asıl alacak ile birlikte sözleşme faizlerinin, takip giderlerinin ve gecikme f aizinin güvencesini sağlar.
+Madde 946- Alacaklı, ödenmeyen alacağının rehnin paraya çevrilmesi yoluyla
+ödenmesini isteyebilir.
+Rehin hakkı, alacaklıya asıl alacak ile birlikte sözleşme faizlerinin, takip giderlerinin ve
+gecikme faizinin güvencesini sağlar.
 
 ---
 

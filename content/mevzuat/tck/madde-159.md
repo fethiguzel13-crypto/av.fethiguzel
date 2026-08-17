@@ -15,6 +15,8 @@ Madde 159- (1) Dolandırıcılığın, bir hukuki ilişkiye dayanan alacağı ta
 işlenmesi halinde, şikayet üzerine, altı aydan bir yıla kadar hapis veya adlî para cezasına
 hükmolunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

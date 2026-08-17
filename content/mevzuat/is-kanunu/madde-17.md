@@ -34,12 +34,12 @@ ve 21 inci maddelerinin uygulanma alanı dışında kalan işçilerin iş sözle
 hakkının kötüye kullanılarak sona erdirildiği durumlarda işçiye bildirim süresinin üç katı
 tutarında tazminat ödenir. Fesih için bildirim şartına da uyulmaması ayrıca dördüncü fıkra
 uyarınca tazminat ödenmesini gerektirir.
-
-
-Bu maddeye göre ödenecek tazminatlar ile bildirim sürelerine ait peşin ödenecek
+Bu maddeye göre ödenecek tazminatlar ile bildirim sürelerine ait peşin ödenecek
 ücretin hesabında 32 nci maddenin birinci fıkrasında yazılan ücrete ek olarak işçiye sağlanmış
 para veya para ile ölçülmesi mümkün sözleşme ve Kanundan doğan menfaatler de göz önünde
 tutulur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

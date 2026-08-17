@@ -18,6 +18,8 @@ Bakanlıkça mahkemede dava yolu ile ileri sürülebilir.
 (2) Talep hâlinde mahkeme, toplu iş sözleşmesinin uygulanmasını dava sonuna kadar
 durdurabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

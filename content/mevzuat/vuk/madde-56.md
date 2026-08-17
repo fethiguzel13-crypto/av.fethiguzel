@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**Genel Tahrir**
+**İKİNCİ BÖLÜM
+Genel Tahrir**
 
 ---
 
 Madde 56 – 62 – (Mülga: 29/7/1970-1319/41 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

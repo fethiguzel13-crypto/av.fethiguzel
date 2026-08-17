@@ -28,6 +28,8 @@ sözleşmesinin henüz doğmamış olan bir uyuşmazlığa ilişkin olduğu itir
 (5) Yargılama sırasında tarafların tahkim yoluna başvurma konusunda anlaşmaları
 hâlinde, dava dosyası mahkemece ilgili hakem veya hakem kuruluna gönderilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

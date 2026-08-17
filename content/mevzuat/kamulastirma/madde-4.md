@@ -20,7 +20,10 @@ alınması kaydıyla, kamu yararına dayalı olarak taşınmazların üstünde t
 ulaşım hatları ile her türlü köprü, taşınmazların altında metro ve benzeri raylı taşıma
 sistemleri ile tünel yapılabilir. Taşınmazların mülkiyet hakkının kullanımının engellenmemesi
 hâlinde, taşınmazlara ilişkin herhangi bir kamulaştırma yapılmaz. (İptal üçüncü cümle:
-Anayasa Mahkemesi’nin 14/5/2015 tarihli ve E.: 2014/177, K.: 2015/49 sayılı Kararı ile.) (...) Yapılan yatırım nedeniyle taşınmaz maliklerinden değer artış bedeli alınamaz.3
+Anayasa Mahkemesi’nin 14/5/2015 tarihli ve E.: 2014/177, K.: 2015/49 sayılı Kararı ile.)
+(…) Yapılan yatırım nedeniyle taşınmaz maliklerinden değer artış bedeli alınamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

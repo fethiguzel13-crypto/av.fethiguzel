@@ -7,17 +7,24 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Kamu davasının açılmasının ertelenmesi**
+**Yakalama emri**
 
 ---
 
-Madde 19- (Değişik: 6/12/2006-5560/39 md.)
-(1) Çocuğa yüklenen suçtan dolayı Ceza Muhakemesi Kanunundaki koşulların varlığı
-halinde, kamu davasının açılmasının ertelenmesi kararı verilebilir. Ancak, bu kişiler açısından
-erteleme süresi üç yıldır.
-(2) (Ek:17/10/2019-7188/33 md.) Ceza Muhakemesi Kanununun 171 inci maddesinin
-ikinci fıkrasında belirtilen hapis cezasının üst sınırı, on beş yaşını doldurmamış çocuklar
-bakımından beş yıl olarak uygulanır.
+Madde 19- (1) Hükümlü, hapis cezası veya güvenlik tedbirinin infazı için gönderilen
+çağrı kâğıdının tebliği üzerine on gün içinde gelmez, kaçar ya da kaçacağına dair şüphe
+uyandırırsa, Cumhuriyet savcısı yakalama emri çıkarır.
+(2) (Değişik: 24/1/2013-6411/5 md.) Kasten işlenen suçlarda üç yıl, taksirle işlenen
+suçlarda ise beş yıldan fazla hapis cezasının infazı için doğrudan yakalama emri çıkarılır.
+(3) (Ek: 24/1/2013-6411/5 md.) Adlî para cezasından çevrilen hapsin infazında
+hükümlüye öncelikle çağrı kâğıdı gönderilir.
+(4) (Ek:14/4/2020-7242/21 md.) Hakkında yakalama emri çıkarılan hükümlünün
+yakalanabilmesi amacıyla gerektiğinde konutta, işyerinde ve kamuya açık olmayan kapalı
+alanlarda arama yapılabilmesi bakımından Ceza Muhakemesi Kanununun 119 uncu maddesi
+hükümleri uygulanır. Hâkim tarafından verilecek arama kararları sulh ceza hâkimi tarafından
+verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

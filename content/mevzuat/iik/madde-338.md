@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**Hakikata muhalif beyanda bulunanların cezası**
+**Hakikata muhalif beyanda bulunanların cezası:**
 
 ---
 
@@ -30,6 +30,8 @@ Borçlunun nafaka borçluları dahil üçüncü şahıstan yardım görmesi, asg
 veznesine yatırmak mükellefiyetini ortadan kaldırmaz.
 İkinci fıkradaki hükmün tatbikini birden fazla aciz vesikası hamili alacaklı talep etmiş
 ise, bunlar talep tarihi sırasıyla öncelik hakkını haizdir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

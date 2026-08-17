@@ -28,6 +28,8 @@ sesli iletişim tekniğinin kullanılması suretiyle dinlenebilmeleri olanağın
 yöntem uygulanarak ifade alınır. Buna olanak verecek teknik donanımın kurulmasına ve
 kullanılmasına ilişkin esas ve usuller yönetmelikte gösterilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

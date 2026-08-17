@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**V
-- Kısmi çarter sözleşmelerinde**
+**V- Kısmi çarter sözleşmelerinde**
 
 ---
 
-Madde 1175 - (1) Geminin kısımları veya belli yerleri için birden çok taşıtan ile bağımsız yolculuk çarteri sözleşmeleri yapılmışsa, 1168 i lâ 1174 üncü maddeler her sözleşme için ayrı ayrı uygulanır.
+MADDE 1175- (1) Geminin kısımları veya belli yerleri için birden çok taşıtan ile
+bağımsız yolculuk çarteri sözleşmeleri yapılmışsa, 1168 ilâ 1174 üncü maddeler her sözleşme
+için ayrı ayrı uygulanır.
 
 ---
 

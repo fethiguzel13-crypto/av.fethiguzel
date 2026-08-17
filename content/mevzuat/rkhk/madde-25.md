@@ -40,6 +40,8 @@ nezdinde temsil edemez.
 edenlere 2/10/1981 tarihli ve 2531 sayılı Kamu Görevlerinden Ayrılanların Yapamayacakları
 İşler Hakkında Kanunun 4 üncü maddesinde belirtilen ceza verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

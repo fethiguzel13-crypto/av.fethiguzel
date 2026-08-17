@@ -7,10 +7,6 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
-**Bakanlık Teşkilat Entegrasyonu (Madde 36)**
-
----
-
 MADDE 36 – 9/1/1985 tarihli ve 3146 sayılı Çalışma ve Sosyal Güvenlik
 Bakanlığının Teşkilat ve Görevleri Hakkında Kanunla ilgili olup yerine işlenmiştir.
 

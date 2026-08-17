@@ -1,21 +1,48 @@
-# Add project specific ProGuard rules here.
-# You can control the set of applied configuration files using the
-# proguardFiles setting in build.gradle.
+# ─────────────────────────────────────────────────────────────────────────────
+# R8 kuralları — release'te minifyEnabled true.
 #
-# For more details, see
-#   http://developer.android.com/guide/developing/tools/proguard.html
+# Capacitor köprüsü eklentileri ve @PluginMethod işaretli metotları çalışma
+# anında reflection ile bulur. Bu sınıflar küçültülürse uygulama derlenir,
+# kurulur ve ilk eklenti çağrısında sessizce çöker — bu yüzden aşağıdaki
+# kurallar isteğe bağlı değildir.
+# ─────────────────────────────────────────────────────────────────────────────
 
-# If your project uses WebView with JS, uncomment the following
-# and specify the fully qualified class name to the JavaScript interface
-# class:
-#-keepclassmembers class fqcn.of.javascript.interface.for.webview {
-#   public *;
-#}
+# Capacitor çekirdeği ve tüm eklentiler
+-keep class com.getcapacitor.** { *; }
+-keep @com.getcapacitor.annotation.CapacitorPlugin class * { *; }
+-keepclassmembers class * {
+    @com.getcapacitor.PluginMethod public <methods>;
+}
+-keep class * extends com.getcapacitor.Plugin { *; }
 
-# Uncomment this to preserve the line number information for
-# debugging stack traces.
-#-keepattributes SourceFile,LineNumberTable
+# Cordova köprüsü (capacitor-cordova-android-plugins modülü)
+-keep class org.apache.cordova.** { *; }
 
-# If you keep the line number information, uncomment this to
-# hide the original source file name.
-#-renamesourcefileattribute SourceFile
+# JavaScript arayüzüne açılan metotlar
+-keepclassmembers class * {
+    @android.webkit.JavascriptInterface <methods>;
+}
+
+# WebView JS köprüsü genel koruması
+-keepattributes JavascriptInterface
+-keepattributes *Annotation*
+-keepattributes Signature
+-keepattributes EnclosingMethod
+-keepattributes InnerClasses
+
+# Yığın izlerinin okunabilir kalması (Play Console çökme raporları)
+-keepattributes SourceFile,LineNumberTable
+-renamesourcefileattribute SourceFile
+
+# AndroidX splash screen
+-keep class androidx.core.splashscreen.** { *; }
+
+# Uygulama giriş noktası
+-keep class com.avfethiguzel.hukuk.MainActivity { *; }
+
+# JSON model sınıfları (eklentiler JSONObject üzerinden konuşur)
+-keep class org.json.** { *; }
+
+# Uyarı bastırma — isteğe bağlı bağımlılıklar
+-dontwarn org.apache.cordova.**
+-dontwarn com.google.android.gms.**

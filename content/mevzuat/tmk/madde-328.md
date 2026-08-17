@@ -11,7 +11,10 @@ wordCount: 4320
 
 ---
 
-Madde 328 - Ana ve babanın bakı m borcu, çocuğun erg in olmasına kadar devam eder. Çocuk ergin olduğu halde eğiti mi devam ediyorsa, ana ve b aba durum ve koşullara göre kendilerin den be klenebilecek ölçüde olmak üzere, eğitimi sona erinceye kada r çocuğa bakmakla yükümlüdürler.
+Madde 328- Ana ve babanın bakım borcu, çocuğun ergin olmasına kadar devam eder.
+Çocuk ergin olduğu halde eğitimi devam ediyorsa, ana ve baba durum ve koşullara göre
+kendilerinden beklenebilecek ölçüde olmak üzere, eğitimi sona erinceye kadar çocuğa bakmakla
+yükümlüdürler.
 
 ---
 

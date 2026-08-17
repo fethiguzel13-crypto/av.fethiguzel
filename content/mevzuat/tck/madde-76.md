@@ -7,7 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**Soykırım**
+**İKİNCİ KİTAP
+Özel Hükümler
+BİRİNCİ KISIM
+Uluslararası Suçlar
+BİRİNCİ BÖLÜM
+Soykırım ve İnsanlığa Karşı Suçlar
+Soykırım**
 
 ---
 
@@ -20,12 +26,13 @@ c) Grubun, tamamen veya kısmen yokedilmesi sonucunu doğuracak koşullarda yaş
 zorlanması.
 d) Grup içinde doğumlara engel olmaya yönelik tedbirlerin alınması.
 e) Gruba ait çocukların bir başka gruba zorla nakledilmesi.
-
-(2) Soykırım suçu failine ağırlaştırılmış müebbet hapis cezası verilir. Ancak, soykırım
+(2) Soykırım suçu failine ağırlaştırılmış müebbet hapis cezası verilir. Ancak, soykırım
 kapsamında işlenen kasten öldürme ve kasten yaralama suçları açısından, belirlenen mağdur
 sayısınca gerçek içtima hükümleri uygulanır.
 (3) Bu suçlardan dolayı tüzel kişiler hakkında da güvenlik tedbirine hükmolunur.
 (4) Bu suçlardan dolayı zamanaşımı işlemez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

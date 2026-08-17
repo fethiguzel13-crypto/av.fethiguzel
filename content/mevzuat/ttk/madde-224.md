@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**III
-- Faiz verme borcu**
+**III - Faiz verme borcu**
 
 ---
 
-Madde 224 - (1) Ortak, yet kisiz olarak şirketten çektiği ve şirket hesabına bir yerden tahsil ettiği parayı, derhâl; şirketten aldığı ödüncü, aldığı tarihten itibaren faiziyle şirkete vermek zorundadır.
+MADDE 224- (1) Ortak, yetkisiz olarak şirketten çektiği ve şirket hesabına bir yerden
+tahsil ettiği parayı, derhâl; şirketten aldığı ödüncü, aldığı tarihten itibaren faiziyle şirkete
+vermek zorundadır.
 
 ---
 

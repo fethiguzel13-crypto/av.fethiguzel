@@ -36,6 +36,8 @@ hâlinde, bunların işçilerinin ücretlerinin ödenip ödenmediğini işçinin
 aylık olarak resen kontrol etmekle ve varsa ödenmeyen ücretleri hak edişlerinden keserek
 işçilerin banka hesabına yatırmakla yükümlüdür.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

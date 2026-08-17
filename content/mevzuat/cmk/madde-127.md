@@ -28,6 +28,8 @@ tarafından yerine getirilir. Gecikmesinde sakınca bulunan hâllerde Cumhuriyet
 yazılı emriyle de askerî makamların katılımıyla adlî kolluk görevlileri tarafından elkoyma
 işlemi yapılabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

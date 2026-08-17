@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4286
 ---
 
-**Ölüm**
+**Ölüm:**
 
 ---
 
 Madde 372 – Ölüm halinde vergi cezası düşer.
+
+---
 
 ### Akademik Yorum ve Analiz
 

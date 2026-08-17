@@ -11,9 +11,8 @@ wordCount: 4314
 
 ---
 
-Madde 244 - Aksine sözleşme olmadıkça, satılan taşınmaz, satış sözleşmesinde yazılı
+MADDE 244- Aksine sözleşme olmadıkça, satılan taşınmaz, satış sözleşmesinde yazılı
 yüzölçümü tutarını kapsamıyorsa satıcı, eksiği için alıcıya tazminat ödemekle yükümlüdür.
-
 Satılan taşınmaz, resmî bir ölçüme dayanılarak tapu siciline yazılmış olan yüzölçümü
 tutarını içermiyorsa satıcı, özellikle üstlenmiş olmadıkça tazminat ile yükümlü değildir.
 Bir yapının ayıplı olmasından doğan davalar, mülkiyetin geçmesinden başlayarak beş

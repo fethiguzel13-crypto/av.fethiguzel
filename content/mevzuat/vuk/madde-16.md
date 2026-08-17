@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**Ölüm halinde sürenin uzaması**
+**Ölüm halinde sürenin uzaması:**
 
 ---
 
 Madde 16 – (Değişik: 23/6/1982-2686/4 md.)
 Vergi kanunlarında hüküm bulunmayan hallerde ölüm dolayısıyla mirasçılara geçen
 ödevlerin yerine getirilmesinde bildirme ve beyanname verme sürelerine üç ay eklenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

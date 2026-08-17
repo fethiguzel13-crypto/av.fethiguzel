@@ -11,7 +11,7 @@ wordCount: 4313
 
 ---
 
-Madde 275 - Satıcı artırma koşullarında aksi yönde bir irade açıklamasında
+MADDE 275- Satıcı artırma koşullarında aksi yönde bir irade açıklamasında
 bulunmamışsa, herkesin katılabileceği isteğe bağlı açık artırmalarda satış sözleşmesi,
 artırmayı yönetenin en yüksek bedeli öneren kişiye ihale etmesiyle kurulmuş olur.
 Cebrî artırma yoluyla satış, artırmayı yöneten memurun en yüksek bedeli öneren

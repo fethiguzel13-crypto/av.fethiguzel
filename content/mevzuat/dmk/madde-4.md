@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**İstihdam şekilleri**
+**İstihdam şekilleri:**
 
 ---
 
@@ -16,7 +16,6 @@ md.)
 Kamu hizmetleri; memurlar, sözleşmeli personel, geçici personel ve işçiler eliyle
 gördürülür.
 A) Memur:
-
 Mevcut kuruluş biçimine bakılmaksızın, Devlet ve diğer kamu tüzel kişiliklerince
 genel idare esaslarına göre yürütülen asli ve sürekli kamu hizmetlerini ifa ile
 görevlendirilenler, bu Kanunun uygulanmasında memur sayılır.
@@ -29,13 +28,13 @@ hazırlanması, gerçekleştirilmesi, işletilmesi ve işlerliği için şart ol
 münhasır olmak üzere özel bir meslek bilgisine ve ihtisasına ihtiyaç gösteren geçici işlerde,
 Cumhurbaşkanınca belirlenen esas ve usuller çerçevesinde, ihdas edilen pozisyonlarda, mali
 yılla sınırlı olarak sözleşme ile çalıştırılmasına karar verilen ve işçi sayılmayan kamu hizmeti
-görevlileridir. 
+görevlileridir.
 (Mülga ikinci paragraf: 4/4/2007 - 5620/4 md.)
-Namun, yabancı uyrukluların; (…) Millî Eğitim Bakanlığında norm kadro sonucu
+Ancak, yabancı uyrukluların; (…)Millî Eğitim Bakanlığında norm kadro sonucu
 ortaya çıkan öğretmen ihtiyacının kadrolu öğretmen istihdamıyla kapatılamaması hallerinde
 öğretmenlerin; hizmetine kısmi zamanlı olarak ihtiyaç duyulacakların; Adli Tıp Müessesesi
 uzmanlarının; Devlet Konservatuvarları sanatçı öğretim üyelerinin; İstanbul Belediyesi
-Konservatuvarı sanatçılarının; (…) dış kuruluşlarda ve yurtdışı teşkilatlarında belirli bazı
+Konservatuvarı sanatçılarının; (…)dış kuruluşlarda ve yurtdışı teşkilatlarında belirli bazı
 hizmetlerde çalıştırılacak personelin de zorunlu hallerde sözleşme ile istihdamları caizdir.
 (Ek paragraf: 19/1/2023 - 7433/2 md.) Bu fıkranın diğer paragraflarındaki hükümler
 ile özel kanunlarındaki hükümler saklı kalmak kaydıyla, bu Kanuna tâbi kamu idarelerinde
@@ -64,19 +63,22 @@ atama tarihinden itibaren iki ay içinde Kamu Personel Bilgi Sisteminin bulundu�
 bildirilir.
 (Ek paragraf: 4/4/2007 - 5620/4 md.) Sözleşmeli personel seçiminde uygulanacak
 sınav ile istisnaları, bunlara ödenebilecek ücretlerin üst sınırları ile verilecek iş sonu tazminatı
-miktarı, kullandırılacak izinler, pozisyon unvan ve nitelikleri, (…) sözleşme fesih halleri,
+miktarı, kullandırılacak izinler, pozisyon unvan ve nitelikleri, (…)sözleşme fesih halleri,
 pozisyonların iptali, istihdamına dair hususlar ile sözleşme esas ve usulleri yurtdışı
 teşkilatlarında istihdam edilecek personel için ayrıca olmak üzere Cumhurbaşkanınca
 belirlenir. (Ek cümle: 19/1/2023 - 7433/2 md.) Yurtdışı teşkilatlarında bu fıkra kapsamında
 istihdam edilecek sözleşmeli personelin hizmet sözleşmesi süreleri, zorunlu hâllerde mali
-yılla sınırlı olma şartı aranmaksızın Cumhurbaşkanınca belirlenebilir. (Ek cümle: 25/6/2009 5917/47 md.) Bu şekilde istihdam edilenler, hizmet sözleşmesi esaslarına aykırı hareket
+yılla sınırlı olma şartı aranmaksızın Cumhurbaşkanınca belirlenebilir. (Ek cümle: 25/6/2009 -
+5917/47 md.) Bu şekilde istihdam edilenler, hizmet sözleşmesi esaslarına aykırı hareket
 etmesi nedeniyle kurumlarınca sözleşmelerinin feshedilmesi veya sözleşme dönemi içerisinde
 Cumhurbaşkanı kararı ile belirlenen istisnalar hariç sözleşmeyi tek taraflı feshetmeleri halinde
 fesih tarihinden, sözleşmeyi yenilememeleri hâlinde sözleşmenin bitiminden itibaren bir yıl
+121314
 geçmedikçe kurumların sözleşmeli personel pozisyonlarında istihdam edilemezler.
 (Ek paragraf: 20/11/2017 -KHK-696/17 md.; Aynen kabul: 1/2/2018-7079/17 md.)
 Bir yıldan az süreli veya mevsimlik hizmet olduğuna Cumhurbaşkanınca karar verilen
-görevlerde (…) sözleşme ile çalıştırılanlar da bu fıkra kapsamında istihdam edilebilir.
+15 15
+görevlerde (…)sözleşme ile çalıştırılanlar da bu fıkra kapsamında istihdam edilebilir.
 (Ek paragraf: 20/11/2017-KHK-696/17 md.; Aynen kabul: 1/2/2018-7079/17 md.)
 Özelleştirme uygulamaları sebebiyle iş akitleri kamu veya özel sektör işverenince feshedilen
 ve 24/11/1994 tarihli ve 4046 sayılı Özelleştirme Uygulamaları Hakkında Kanun kapsamında
@@ -100,6 +102,8 @@ belirsiz süreli iş sözleşmeleriyle çalıştırılan sürekli işçiler ile 
 işlerinde ya da orman yangınıyla mücadele hizmetlerinde ilgili mevzuatına göre geçici iş
 pozisyonlarında altı aydan az olmak üzere belirli süreli iş sözleşmeleriyle çalıştırılan geçici
 işçilerdir. Bunlar hakkında bu Kanun hükümleri uygulanmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

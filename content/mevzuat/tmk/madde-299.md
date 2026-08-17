@@ -11,7 +11,10 @@ wordCount: 4262
 
 ---
 
-Madde 299 - Davacı, tanıyanın baba olmadığını ispatla yükümlüdür. Ana veya çocuk tarafından tanıya nın baba olmadığı iddiasıyla açı lan iptal davasında ispat yük ü, ta nıyanı n, geb e kalma döneminde ana ile cins el ilişkide bulunduğuna ilişkin inandırıcı kanıtları göstermesinden sonra doğar.
+Madde 299- Davacı, tanıyanın baba olmadığını ispatla yükümlüdür.
+Ana veya çocuk tarafından tanıyanın baba olmadığı iddiasıyla açılan iptal davasında ispat
+yükü, tanıyanın, gebe kalma döneminde ana ile cinsel ilişkide bulunduğuna ilişkin inandırıcı
+kanıtları göstermesinden sonra doğar.
 
 ---
 

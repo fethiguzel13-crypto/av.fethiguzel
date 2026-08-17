@@ -7,13 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**II
-- Hükümleri
+**II - Hükümleri
 1. Tescil ve ilan**
 
 ---
 
-Madde 532 - (1) Sona erme, iflastan ve mahkeme kararından başka bir sebepten ileri gelmişse, yönetim kurulunca ticaret siciline tescil ve ilan ettirilir.
+MADDE 532- (1) Sona erme, iflastan ve mahkeme kararından başka bir sebepten ileri
+gelmişse, yönetim kurulunca ticaret siciline tescil ve ilan ettirilir.
 
 ---
 

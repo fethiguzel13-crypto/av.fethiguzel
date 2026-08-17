@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**artması:87**
+**artması:**
 
 ---
 
@@ -29,6 +29,8 @@ giderler de bu hükümdedir.
 Gayrimenkuller veya elektrik üretim ve dağıtım varlıkları için yapılan giderler hem
 tamir, hem de kıymet artırma giderlerinden terekküp ettiği takdirde, mükellef bu giderlerden
 maliyet bedeline eklenecek kısmı ayrı göstermek mecburiyetindedir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

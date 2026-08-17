@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
-**(Mülga: 30/4/2014 - 6537/9 md.) c. Özgülenmenin hangi mirasçıya yapılacağı**
+**c. Özgülenmenin hangi mirasçıya yapılacağı**
 
 ---
 
-Madde 661 - (Mülga: 30/4/2014 - 6537/9 md.) d. Öl üme bağlı tasarruf ile düzenleme
+Madde 661- (Mülga: 30/4/2014-6537/9 md.)
 
 ---
 

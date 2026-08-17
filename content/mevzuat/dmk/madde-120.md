@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**Olumsuz sicil**
+**Olumsuz sicil:**
 
 ---
 
 Madde 120 – (Mülga: 13/2/2011 - 6111/117 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

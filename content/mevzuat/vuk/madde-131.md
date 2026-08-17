@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**Yoklama fişi**
+**Yoklama fişi:**
 
 ---
 
@@ -19,6 +19,9 @@ yoklama yapılan veya yetkili adamına imza ettirilir; bunlar bulunmaz veya imza
 bu Kanunun 132/A maddesi kapsamında, koordinat bazlı konum bilgisini ve yoklama yapılan
 yere ilişkin fotoğrafları içerecek şekilde elektronik ortamda tanzim edildiği durumlarda polis,
 jandarma, muhtar veya ihtiyar meclisi üyelerinin imzası aranmaz.
+Yoklama neticelerinin bildirilmesi:
+
+---
 
 ### Akademik Yorum ve Analiz
 

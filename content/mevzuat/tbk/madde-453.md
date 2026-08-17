@@ -12,7 +12,7 @@ I. Faaliyet alanı**
 
 ---
 
-Madde 453 - Pazarlamacıya belirli bir pazarlama alanında veya belirli bir müşteri
+MADDE 453- Pazarlamacıya belirli bir pazarlama alanında veya belirli bir müşteri
 çevresinde faaliyette bulunma yetkisi verilmiş ve aksine yazılı anlaşma da yapılmamışsa
 işveren, başkalarına aynı alan veya çevrede faaliyette bulunma yetkisi veremez; ancak,
 kendisi üçüncü kişilerle işlem yapabilir.

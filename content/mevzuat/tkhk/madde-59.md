@@ -21,6 +21,8 @@ hâlinde her ay düzenli olarak Radyo ve Televizyon Üst Kuruluna bildirilir. Bu
 yapılan yayınlar, aylık on beş dakikalık süreye dâhil edilmez. Bu süreler, Radyo ve
 Televizyon Üst Kurulu tarafından denetlenir ve sonuçları Bakanlığa bildirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -14,6 +14,8 @@ wordCount: 4267
 MADDE 231- (1) Yemin edecek taraf gerçek kişi olup, yeminden evvel ölür veya fiil
 ehliyetini kaybederse yemin teklif edilmemiş sayılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -11,7 +11,8 @@ wordCount: 4260
 
 ---
 
-MADDE 46 – (1) Bu Kanunun uygulanmasına ilişkin usul ve esaslar Cumhurbaşkanı tarafından çıkarılacak yönetmelikle düzenlenir.
+MADDE 46 – (1) Bu Kanunun uygulanmasına ilişkin usul ve esaslar Cumhurbaşkanı
+tarafından çıkarılacak yönetmelikle düzenlenir.
 
 ---
 

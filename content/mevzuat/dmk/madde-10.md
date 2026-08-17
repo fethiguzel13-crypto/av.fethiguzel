@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Amir durumda olan devlet memurlarının görev ve sorumlulukları:16**
+**Amir durumda olan devlet memurlarının görev ve sorumlulukları:**
 
 ---
 
@@ -21,6 +21,8 @@ kanun ve diğer mevzuatta belirtilen esaslar içinde kullanır.
 Amir, maiyetindeki memurlara kanunlara ve Cumhurbaşkanlığı kararnamelerine aykırı
 emir veremez ve maiyetindeki memurdan hususi bir menfaat temin edecek bir talepte
 bulunamaz, hediyesini kabul edemez ve borç alamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

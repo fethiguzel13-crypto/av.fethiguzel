@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**Mukayyet değer**
+**Mukayyet değer:**
 
 ---
 
 Madde 265 -– Mukayyet değer, bir iktisadi kıymetin muhasebe kayıtlarında gösterilen
 hesap değeridir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

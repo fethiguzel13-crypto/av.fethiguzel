@@ -14,6 +14,8 @@ wordCount: 4306
 MADDE 2- (1) Bu Kanun, her türlü tüketici işlemi ile tüketiciye yönelik uygulamaları
 kapsar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

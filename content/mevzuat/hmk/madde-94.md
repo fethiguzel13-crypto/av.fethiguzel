@@ -20,6 +20,8 @@ isteyebilir; bu şekilde verilecek ikinci süre kesindir ve yeniden süre verile
 (3) Kesin süre içinde yapılması gereken işlemi, süresinde yapmayan tarafın, o işlemi
 yapma hakkı ortadan kalkar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

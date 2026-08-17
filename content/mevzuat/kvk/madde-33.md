@@ -21,6 +21,8 @@ vergilendirilecek kazancı üzerinden hesaplanan kurumlar vergisinden mahsup edi
 25’ine sahip olduğu yurt dışı iştiraklerinden elde ettikleri kâr payları üzerinden Türkiye’de
 ödenecek kurumlar vergisinden, iştiraklerin bulunduğu ülkelerdeki kâr payı dağıtımına kaynak
 oluşturan kazançlar üzerinden ödenen gelir ve kurumlar vergisi benzeri vergilerin kâr payı tutarına
+21/5/2026 tarihli ve7582 sayılı Kanunun 9 uncu maddesiyle bu bentte yer alan “(g) ve (h)” ibaresi
+“(g), (h), (i) ve (j)” şeklinde değiştirilmiştir.
 isabet eden kısmı mahsup edilebilir. Kazanca ilave edilen kâr payı, bu kazançlar üzerinden yurt
 dışında ödenen gelir ve kurumlar vergisi benzeri vergiler dahil edilmek suretiyle dikkate alınır.
 (4) Yurt dışı kazançlar üzerinden Türkiye’de tarh olunacak vergilere mahsup
@@ -51,6 +53,8 @@ olduğunun anlaşılması halinde, ertelenen vergiler için Amme Alacaklarının
 Hakkında Kanun hükümlerine göre gecikme zammı hesaplanır.
 (9) Bu madde hükmünün uygulanmasında, yabancı para ile ödenen vergilere, bunların
 ilgili bulunduğu kazançların genel sonuç hesaplarına intikali esnasındaki kur uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

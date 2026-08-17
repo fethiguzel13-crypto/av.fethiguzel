@@ -12,7 +12,7 @@ a. Genel olarak**
 
 ---
 
-Madde 223 - Alıcı, devraldığı satılanın durumunu işlerin olağan akışına göre imkân
+MADDE 223- Alıcı, devraldığı satılanın durumunu işlerin olağan akışına göre imkân
 bulunur bulunmaz gözden geçirmek ve satılanda satıcının sorumluluğunu gerektiren bir ayıp
 görürse, bunu uygun bir süre içinde ona bildirmek zorundadır.
 Alıcı gözden geçirmeyi ve bildirimde bulunmayı ihmal ederse, satılanı kabul etmiş

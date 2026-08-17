@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**Alacaklılar sıra cetvelinin müddet ve şekli**
+**Alacaklılar sıra cetvelinin müddet ve şekli:**
 
 ---
 
@@ -22,6 +22,8 @@ durumu icra mahkemesine intikal ettirmesi üzerine iflâs idaresi üyelerinin va
 verilir ve sebketmiş hizmetleri için kendilerine bir ücret tahakkuk ettirilmez. Mahkeme ayrıca
 bu üyelerin bir yıldan az olmamak ve üç yılı geçmemek kaydıyla herhangi bir iflâs idaresinde
 görev almalarını yasaklayabilir, bu karar kesindir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

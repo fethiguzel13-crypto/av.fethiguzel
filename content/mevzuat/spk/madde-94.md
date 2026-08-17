@@ -19,6 +19,8 @@ için dava açmaya yetkilidir.
 (2) (Değişik: 2/1/2017-KHK-684/7 md.; Aynen kabul: 1/2/2018-7074/6 md.) 92 nci
 maddenin birinci ve üçüncü fıkraları bu madde bakımından da uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

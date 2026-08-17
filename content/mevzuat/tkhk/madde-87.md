@@ -13,6 +13,8 @@ wordCount: 4298
 
 MADDE 87- (1) Bu Kanun yayımı tarihinden itibaren altı ay sonra yürürlüğe girer.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

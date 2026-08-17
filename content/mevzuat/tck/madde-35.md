@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**Suça teşebbüs**
+**ÜÇÜNCÜ BÖLÜM
+Suça Teşebbüs
+Suça teşebbüs**
 
 ---
 
@@ -15,10 +17,11 @@ Madde 35- (1) Kişi, işlemeyi kastettiği bir suçu elverişli hareketlerle do�
 doğruya icraya başlayıp da elinde olmayan nedenlerle tamamlayamaz ise teşebbüsten dolayı
 sorumlu tutulur.
 (2) Suça teşebbüs halinde fail, meydana gelen zarar veya tehlikenin ağırlığına göre,
-
-ağırlaştırılmış müebbet hapis cezası yerine ondört yıldan yirmibir yıla kadar, müebbet hapis
+ağırlaştırılmış müebbet hapis cezası yerine ondört yıldan yirmibir yıla kadar, müebbet hapis
 cezası yerine on yıldan onsekiz yıla kadar hapis cezası ile cezalandırılır. Diğer hallerde
-verilecek cezanın dörtte birinden dörtte üçüne kadarı indirilir.4
+verilecek cezanın dörtte birinden dörtte üçüne kadarı indirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,14 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**Konkordato**
+**Konkordato:**
 
 ---
 
 Madde 101 – Amme idaresi tarafından iflas talebinde bulunulsa dahi tasdik edilen
 konkordato amme alacakları için mecburi değildir.
-ÜÇÜNCÜ KISIM
-Zamanaşımı, terkin, yasaklar ve cezalar ve son hükümler
+
+---
 
 ### Akademik Yorum ve Analiz
 

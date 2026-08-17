@@ -7,19 +7,19 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**Ruhsatsız veya ruhsat ve eklerine aykırı olarak başlanan yapılar**
+**Ruhsatsız veya ruhsat ve eklerine aykırı olarak başlanan yapılar:**
 
 ---
 
 Madde 32 – Bu Kanun hükümlerine göre; ruhsat alınmadan yapıya başlandığı veya
 ruhsat ve eklerine veya ruhsat alınmadan yapılabilecek yapılarda projelerine ve ilgili
-mevzuatına aykırı yapı yapıldığı ilgili idarece tespiti, fenni mesulce (...)36 tespiti ve ihbarı
+mevzuatına aykırı yapı yapıldığı ilgili idarece tespiti, fenni mesulce (...)tespiti ve ihbarı
 veya herhangi bir şekilde bu duruma muttali olunması üzerine, belediye veya valiliklerce o
 andaki inşaat durumu tespit edilir. Yapı mühürlenerek inşaat derhal durdurulur. (Ek
 cümleler:14/2/2020-7221/10 md.) Yapının imar mevzuatına aykırı olduğuna dair bilgi, tapu
 kayıtlarının beyanlar hanesine kaydedilmek üzere ilgili idaresince tapu dairesine en geç yedi
 gün içinde yazılı olarak bildirilir. Aykırılığın giderildiğine dair ilgili idaresince tapu dairesine
-bildirim yapılmadan beyanlar hanesindeki kayıt kaldırılamaz.37
+bildirim yapılmadan beyanlar hanesindeki kayıt kaldırılamaz.
 Durdurma, yapı tatil zaptının yapı yerine asılmasıyla yapı sahibine tebliğ edilmiş
 sayılır. (Değişik cümle:14/2/2020-7221/10 md.) Bu tebligatın bir nüshası muhtara bırakılır,
 bir nüshası da Çevre ve Şehircilik İl Müdürlüğüne gönderilir.
@@ -28,28 +28,15 @@ getirerek veya ruhsat alarak, belediyeden veya valilikten mühürün kaldırılm
 Ruhsata aykırılık olan yapıda, bu aykırılığın giderilmiş olduğu veya ruhsat alındığı ve
 yapının bu ruhsata uygunluğu, inceleme sonunda anlaşılırsa, mühür, belediye veya valilikçe
 kaldırılır ve inşaatın devamına izin verilir.
-, Anayasa Mahkemesinin 11/12/1986 tarih ve E. 1985/11, K. 1986/29 sayılı kararı ile bu fıkrada yer
-alan "... veya yeminli serbest mimarlık ve mühendislik büroları ..." ibaresi ile bu fıkranın sonunda
-bulunan "... Ancak müracaat yeminli serbest mimarlık ve mühendislik bürosuna yapılmış ise bu hüküm
-uygulanmaz. Yeminli büro, müracaatı bu süre içerisinde müsbet veya menfi mutlaka sonuçlandırmak
-zorundadır ..." biçimindeki son iki cümle iptal edilmiştir.
-36
-Anayasa Mahkemesinin (1) nolu dipnotda yazılı Kararı ile bu fıkrada yer alan "... veya yeminli
-serbest mimarlık ve mühendislik bürosunca .." ibaresi iptal edilmiştir.
-37
-29/11/2018 tarihli ve 7153 sayılı Kanunun 15 inci maddesiyle bu fıkraya “ruhsat ve eklerine”
-ibaresinden sonra gelmek üzere “veya ruhsat alınmadan yapılabilecek yapılarda projelerine ve ilgili
-mevzuatına” ibaresi eklenmiş, fıkrada yer alan “ruhsat alınmadan yapılabilecek yapılar hariç”
-ibaresi madde metninden çıkarılmıştır.
-35
-
-Aksi takdirde, ruhsat iptal edilir, ruhsata aykırı veya ruhsatsız yapılan bina, belediye
+Aksi takdirde, ruhsat iptal edilir, ruhsata aykırı veya ruhsatsız yapılan bina, belediye
 encümeni veya il idare kurulu kararını müteakip, belediye veya valilikçe yıktırılır ve masrafı
 yapı sahibinden tahsil edilir. (Ek cümleler:14/2/2020-7221/10 md.) Yapı tatil tutanağının
 düzenlendiği tarihten itibaren bir ay içinde yapı sahibi tarafından yapının ruhsata uygun hale
 getirilmediğinin veya ruhsat alınmadığının ilgili idaresince tespit edilmesine rağmen iki ay
 içinde hakkında yıkım kararı alınmayan yapılar ile hakkında yıkım kararı alınmış olmasına
 rağmen altı ay içinde ilgili idaresince yıkılmayan yapılar, yıkım maliyetleri döner sermaye
+Anayasa Mahkemesinin (1) nolu dipnotda yazılı Kararı ile bu fıkrada yer alan "... veya yeminli
+serbest mimarlık ve mühendislik bürosunca .." ibaresi iptal edilmiştir.
 işletmesi gelirlerinden karşılanmak üzere Bakanlıkça yıkılabilir veya yıktırılabilir. Yıkım
 maliyetleri %100 fazlası ile ilgili idaresinden tahsil edilir. Bu şekilde tahsil edilememesi
 halinde ilgili idarenin 5779 sayılı Kanun gereğince aktarılan paylarından kesilerek tahsil
@@ -59,6 +46,8 @@ kaydedilir.
 aykırılıkların giderilemeyeceği tespit edilen yapıların ruhsatı üçüncü fıkrada düzenlenen bir
 aylık süre beklenmeden iptal edilir ve mevzuata aykırı imalatlar hakkında beşinci fıkra
 hükümleri uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

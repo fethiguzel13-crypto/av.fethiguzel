@@ -18,6 +18,8 @@ Türk Lirasına kadar disiplin para cezasına hükmolunur. Zorla getirtilen tan�
 gelmemesini haklı gösterecek sebepleri sonradan bildirirse, aleyhine hükmedilen giderler ve
 disiplin para cezası kaldırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

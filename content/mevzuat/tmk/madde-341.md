@@ -11,7 +11,9 @@ wordCount: 4302
 
 ---
 
-Madde 341 - Ç ocuğun dinî eğitimini belirleme hakkı ana ve babaya aittir. Ana ve babanın bu konudaki haklarını sınırlayacak her türlü sözleşme geçersizdir. Ergin, dinini seçmekte özgürdür.
+Madde 341- Çocuğun dinî eğitimini belirleme hakkı ana ve babaya aittir.
+Ana ve babanın bu konudaki haklarını sınırlayacak her türlü sözleşme geçersizdir.
+Ergin, dinini seçmekte özgürdür.
 
 ---
 

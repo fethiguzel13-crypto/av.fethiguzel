@@ -12,7 +12,10 @@ I. Bütünleyici parça**
 
 ---
 
-Madde 684 - Bir şeye ma lik olan kimse, o şeyin büt ünleyici parçalarına da malik olur. Bütünleyici parça, yerel âdetlere göre asıl şeyin temel unsuru olan ve o şey yok edilmedikçe, zarara uğ ratılmadıkça veya yapısı değiştirilmedikçe ondan ayrılmasına olanak bulunmayan parçadır.
+Madde 684- Bir şeye malik olan kimse, o şeyin bütünleyici parçalarına da malik olur.
+Bütünleyici parça, yerel âdetlere göre asıl şeyin temel unsuru olan ve o şey yok
+edilmedikçe, zarara uğratılmadıkça veya yapısı değiştirilmedikçe ondan ayrılmasına olanak
+bulunmayan parçadır.
 
 ---
 

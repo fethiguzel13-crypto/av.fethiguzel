@@ -19,12 +19,13 @@ yükümlülükleri bütünüyle veya kısmen kaldırabilir, değiştirebilir vey
 bazılarına uymaktan geçici olarak muaf tutabilir.
 (3) 109 uncu madde ile bu maddenin birinci ve ikinci fıkra hükümleri, gerekli
 görüldüğünde, görevli ve yetkili diğer yargı mercileri tarafından da, kovuşturma evresinin her
-aşamasında uygulanır.25
+aşamasında uygulanır.
 (4) (Ek:8/7/2021-7331/16 md.) Şüpheli veya sanığın adli kontrol yükümlülüğünün
 devamının gerekip gerekmeyeceği hususunda en geç dört aylık aralıklarla; soruşturma evresinde
 Cumhuriyet savcısının istemi üzerine sulh ceza hâkimi, kovuşturma evresinde ise resen
 mahkeme tarafından 109 uncu madde hükümleri göz önünde bulundurularak karar verilir.
-Adli kontrol altında geçecek süre
+
+---
 
 ### Akademik Yorum ve Analiz
 

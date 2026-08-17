@@ -16,6 +16,8 @@ tutanağın ilgili kısmı okunarak hatırlamasına yardım edilir.
 (2) Tanığın duruşmadaki ifadesiyle önceki ifadesi arasında çelişki bulunduğunda,
 evvelce alınmış ifadesi okunarak çelişkinin giderilmesine çalışılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

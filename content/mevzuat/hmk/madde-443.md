@@ -17,9 +17,10 @@ Bölümü hükümleri, niteliğine uygun düştüğü şekilde tahkime de uygula
 fıkrasının (b), (c), (e), (f), (g), (h), (ı) ve (i) bentleri uygulanır. Yargılamanın iadesi davası
 mahkemede görülür.
 (3) Yargılamanın iadesi talebi kabul edilirse mahkeme, hakem kararını iptal eder ve
-
-uyuşmazlığı yeniden bir karar verilebilmesi için yeni hakeme veya hakem kuruluna gönderir.
+uyuşmazlığı yeniden bir karar verilebilmesi için yeni hakeme veya hakem kuruluna gönderir.
 Bu durumda hakem veya hakem kurulu 421 inci maddeye göre yeniden seçilir veya oluşturulur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

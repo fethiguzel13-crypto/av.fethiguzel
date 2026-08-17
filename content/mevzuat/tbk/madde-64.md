@@ -11,7 +11,7 @@ wordCount: 4264
 
 ---
 
-Madde 64 - Haklı savunmada bulunan, saldıranın şahsına veya mallarına verdiği
+MADDE 64- Haklı savunmada bulunan, saldıranın şahsına veya mallarına verdiği
 zarardan sorumlu tutulamaz.
 Kendisini veya başkasını açık ya da yakın bir zarar tehlikesinden korumak için diğer
 bir kişinin mallarına zarar verenin, bu zararı giderim yükümlülüğünü hâkim hakkaniyete göre

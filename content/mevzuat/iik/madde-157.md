@@ -7,15 +7,14 @@ lastReviewed: "2026-07-27"
 wordCount: 3591
 ---
 
-**İflas talebini geri alan alacaklı bir ay geçmedikçe bu**
+**Talebin geri alınması ve yenilenmesi:**
 
 ---
 
-Madde 157 - İflas talebini geri alan alacaklı bir ay geçmedikçe bu
-talebini yenileyemez.
+Madde 157 – İflas talebini geri alan alacaklı bir ay geçmedikçe bu talebini
+yenileyemez.
 
-Yargılama
-usulü:
+---
 
 ### Akademik Yorum ve Analiz
 

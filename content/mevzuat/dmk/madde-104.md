@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Mazeret izni:165166167**
+**166167168
+Mazeret izni:**
 
 ---
 
@@ -27,21 +28,10 @@ kullanılırken annenin ölümü hâlinde, isteği üzerine memur olan babaya an
 süre kadar izin verilir. (Ek cümleler: 29/1/2016 - 6663/6 md.) Üç yaşını doldurmamış bir
 çocuğu eşiyle birlikte veya münferit olarak evlat edinen memurlar ile memur olmayan eşin
 münferit olarak evlat edinmesi hâlinde memur olan eşlerine, çocuğun teslim edildiği tarihten
-
-20/2/2014 tarihli ve 6525 sayılı Kanunun 7 nci maddesiyle, bu maddeye (E) fıkrası eklenmiş, mevcut (E)
-fıkrası (F) olarak teselsül ettirilmiştir.
-166
-29/1/2016 tarihli ve 6663 sayılı Kanunun 6 ncı maddesiyle, bu maddeye (E) fıkrasından sonra gelmek üzere
-(F) fıkrası eklenmiş, mevcut (F) fıkrası (G) fıkrası olarak teselsül ettirilmiştir.
-167
-Bu maddenin uygulanması ile ilgili olarak 13/4/2016 tarihli ve 29683 sayılı Resmi Gazete’de yayımlanan
-Kamu Personeli Genel Tebliği’ne (Seri No: 6) bakınız.
-165
-
-itibaren sekiz hafta süre ile izin verilir. Bu izin evlatlık kararı verilmeden önce çocuğun fiilen
+itibaren sekiz hafta süre ile izin verilir. Bu izin evlatlık kararı verilmeden önce çocuğun fiilen
 teslim edildiği durumlarda da uygulanır. (Ek cümle:22/4/2026-7578/2 md.) Bir veya daha
 fazla çocuğa eşiyle birlikte veya münferit olarak koruyucu aile olan memura çocuğun
-koruyucu aile yanına teslim edildiği tarihten sonra isteği üzerine on gün izin verilir.168
+koruyucu aile yanına teslim edildiği tarihten sonra isteği üzerine on gün izin verilir.
 B) Memura, eşinin doğum yapması hâlinde, isteği üzerine on gün babalık izni;
 kendisinin veya çocuğunun evlenmesi ya da eşinin, çocuğunun, kendisinin veya eşinin ana,
 baba ve kardeşinin ölümü hâllerinde isteği üzerine yedi gün izin verilir.
@@ -69,20 +59,11 @@ olarak uygulanır. Üç yaşını doldurmamış bir çocuğu eşiyle birlikte ve
 edinen memurlar ile memur olmayan eşin münferit olarak evlat edinmesi hâlinde memur olan
 eşleri de, istekleri üzerine (A) fıkrası uyarınca verilen sekiz haftalık iznin bitiminden itibaren
 bu haktan aynı esaslar çerçevesinde yararlanır. Memurun çalışacağı süreler ilgili kurum
-tarafından belirlenir.169
+tarafından belirlenir.
+G) Yıllık izin ve mazeret izinleri sırasında fiili çalışmaya bağlı her türlü ödemeler
+hariç malî haklar ile sosyal yardımlara dokunulmaz.
 
-22/4/2026 tarihli ve 7578 sayılı Kanunun 2 nci maddesiyle bu fıkranın birinci cümlesinde yer alan
-“doğumdan sonra sekiz” ibaresi “doğumdan sonra onaltı” şeklinde, “toplam onaltı” ibaresi “toplam
-yirmidört” şeklinde, üçüncü cümlesinde yer alan “üç” ibaresi “iki” şeklinde değiştirilmiştir.
-169
-10/02/2016 tarihli ve 29620 sayılı Resmî Gazete’de aslına uygun olarak yayımlanan 6663 sayılı
-Kanunun 6 ncı maddesi ile bu Kanunun 104 üncü maddesine eklenen (F) fıkrası, 16/2/2016 tarihli ve
-29626 sayılı Resmi Gazete’de yayımlanan Cumhurbaşkanlığının 15/02/2016 tarihli ve 68244839160.04-1-108 sayılı yazısına istinaden söz konusu fıkranın sonuna “Memurun çalışacağı süreler ilgili
-kurum tarafından belirlenir.” cümlesi eklenerek düzeltilmiştir.
-168
-
-G) Yıllık izin ve mazeret izinleri sırasında fiili çalışmaya bağlı her türlü ödemeler
-hariç malî haklar ile sosyal yardımlara dokunulmaz.170
+---
 
 ### Akademik Yorum ve Analiz
 

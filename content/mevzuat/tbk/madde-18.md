@@ -11,7 +11,7 @@ wordCount: 4285
 
 ---
 
-Madde 18 - Borcun sebebini içermemiş olsa bile borç tanıması geçerlidir.
+MADDE 18- Borcun sebebini içermemiş olsa bile borç tanıması geçerlidir.
 
 ---
 

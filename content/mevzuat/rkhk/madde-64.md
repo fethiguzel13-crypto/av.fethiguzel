@@ -7,15 +7,10 @@ lastReviewed: "2026-07-27"
 wordCount: 3626
 ---
 
-**Bu Kanunun idari para cezasına ilişkin 16 ncı maddesi ile**
+Madde 64 – Bu Kanunun idari para cezasına ilişkin 16 ncı maddesi ile 17 nci maddesi
+yayımı tarihinden bir yıl sonra, diğer maddeleri yayımı tarihinde yürürlüğe girer.
 
 ---
-
-Madde 64 - Bu Kanunun idari para cezasına ilişkin 16 ncı maddesi ile
-17 nci maddesi yayımı tarihinden bir yıl sonra, diğer maddeleri yayımı tarihinde
-yürürlüğe girer.
-
-Yürütme
 
 ### Akademik Yorum ve Analiz
 

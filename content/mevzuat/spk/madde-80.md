@@ -34,6 +34,8 @@ hususların yerine getirilmesini, her türlü bilgi ve belgenin talebi üzerine 
 gönderilmesini merkezî saklama kuruluşları ile bu kuruluşların üyelerinden isteyebilir.
 (5) 44 üncü madde merkezî saklama kuruluşlarına da uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,12 +7,20 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Madde 1050**
+**bbb) Alacaklının feragati**
 
 ---
 
-Madde 1050 - (1) İpotek, alacaklının feragati ve bunun üzerine sicilden ipotek kaydının silinmesi ile düşer. Şu kadar ki, ipotek üzerinde hak sahibi kişiler vars a onların da onayları şarttır. (2) Malik, ipoteğin ileri sürülmesini sürekli olarak imkânsız kılan bir def’e sahip bulunduğu takdirde, alacaklıdan ipotekten feragatini isteyebilir. (3) Vazgeçme beyanı imzası noterce onaylı bir senetle veya sicil müdürlüğün de yapılır. (4) Alacaklı ipotekten vazgeçmek veya diğer bir ipoteğe öncelik hakkı tanımak
-suretiyle borçluyu ipotekten hakkını almak imkânından yoksun bıraktığı oranda borçlu borcundan kurtulur. ccc) İpoteğin süresinin dolması
+MADDE 1050- (1) İpotek, alacaklının feragati ve bunun üzerine sicilden ipotek
+kaydının silinmesi ile düşer. Şu kadar ki, ipotek üzerinde hak sahibi kişiler varsa onların da
+onayları şarttır.
+(2) Malik, ipoteğin ileri sürülmesini sürekli olarak imkânsız kılan bir def’e sahip
+bulunduğu takdirde, alacaklıdan ipotekten feragatini isteyebilir.
+(3) Vazgeçme beyanı imzası noterce onaylı bir senetle veya sicil müdürlüğünde
+yapılır.
+(4) Alacaklı ipotekten vazgeçmek veya diğer bir ipoteğe öncelik hakkı tanımak
+suretiyle borçluyu ipotekten hakkını almak imkânından yoksun bıraktığı oranda borçlu
+borcundan kurtulur.
 
 ---
 

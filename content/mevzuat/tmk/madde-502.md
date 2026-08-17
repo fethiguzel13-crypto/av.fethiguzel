@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**Madde 502**
+**İKİNCİ BÖLÜM
+ÖLÜME BAĞLI TASARRUFLAR
+BİRİNCİ AYIRIM
+TASARRUF EHLİYETİ
+A. Ehliyet
+I. Vasiyette**
 
 ---
 
-Madde 502 - Vasiyet yapabilmek için ayırt etme gücüne sahip ve onbeş yaşını doldu rmuş olmak gerekir.
+Madde 502- Vasiyet yapabilmek için ayırt etme gücüne sahip ve onbeş yaşını doldurmuş
+olmak gerekir.
 
 ---
 

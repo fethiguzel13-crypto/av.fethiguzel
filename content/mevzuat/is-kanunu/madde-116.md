@@ -7,13 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4319
 ---
 
-**Basın İş Kanununa İlişkin Değişiklik**
-
----
-
-Madde 116 - 13.6.1952 tarihli ve 5953 sayılı Basın Mesleğinde Çalışanlarla Çalıştıranlar Arasındaki Münasebetlerin Tanzimi Hakkında Kanunun 6 ncı maddesinin son fıkrası aşağıdaki şekilde değiştirilmiştir:
-
-*(Değiştirilen fıkra: "Bu Kanunun 5 inci maddesinde yazılı ihbar önelleri, 4857 sayılı İş Kanununun 17 nci maddesinde yazılı sürelerin tamamlanmasından önce uygulanmaz." Hüküm, ilgili kanun olan 5953 sayılı Kanun metnine işlenmiştir.)*
+Madde 116 - (13.6.1952 tarihli ve 5953 sayılı Basın Mesleğinde Çalışanlarla
+Çalıştıranlar Arasındaki Münasebetlerin Tanzimi Hakkında Kanun ile ilgili olup yerine
 
 ---
 

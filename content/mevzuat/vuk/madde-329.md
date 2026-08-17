@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**Amortismana tabi malların sigorta tazminatı**
+**Amortismana tabi malların sigorta tazminatı:**
 
 ---
 
@@ -37,12 +37,11 @@ eklenir.
 ç) Tazminatın alındığı yılı takip eden üçüncü takvim yılının sonundan önce işin terki,
 devri veya işletmenin tasfiyesi hâlinde pasifte geçici bir hesapta tutulan tazminat fazlası o
 yılın kâr ve zarar hesabına eklenir.
-
-(Ek fıkra: 30/12/1980-2365/57 md.) (Değişik üçüncü fıkra:14/10/2021-7338/37
+(Ek fıkra: 30/12/1980-2365/57 md.) (Değişik üçüncü fıkra:14/10/2021-7338/37
 md.) Maddenin uygulamasına ilişkin usul ve esasları belirlemeye Hazine ve Maliye Bakanlığı
 yetkilidir.
-(Ek fıkra: 30/12/1980-2365/57 md.) (Mülga dördüncü fıkra:14/10/2021-7338/37
-md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

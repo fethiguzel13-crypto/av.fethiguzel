@@ -12,7 +12,7 @@ a. Götürü bedel**
 
 ---
 
-Madde 480 - Bedel götürü olarak belirlenmişse yüklenici, eseri o bedelle meydana
+MADDE 480- Bedel götürü olarak belirlenmişse yüklenici, eseri o bedelle meydana
 getirmekle yükümlüdür. Eser, öngörülenden fazla emek ve masrafı gerektirmiş olsa bile
 yüklenici, belirlenen bedelin artırılmasını isteyemez.
 Ancak, başlangıçta öngörülemeyen veya öngörülebilip de taraflarca göz önünde

@@ -25,8 +25,7 @@ temsilciliklerini de ilgili üyenin daimi çalışma yeri olarak belirleyebilir.
 (2) Görev, izin ve hastalık gibi geçerli mazereti olmaksızın bir takvim yılında toplam
 beş toplantıya katılmayan Kurul üyesi üyelikten çekilmiş sayılır. Bu durum, Kurul kararı ile
 tespit edilir ve ilgili Bakana bildirilir.
-
-(3) Kurul Karar Organı, en az beş üye ile toplanır ve en az dört üyenin aynı yöndeki
+(3) Kurul Karar Organı, en az beş üye ile toplanır ve en az dört üyenin aynı yöndeki
 oyuyla karar alır. Üyeler çekimser oy kullanamaz. Oyların eşitliği hâlinde Başkanın, Başkanın
 yokluğunda İkinci Başkanın oyu doğrultusunda karar alınmış sayılır.
 (4) Kurul Başkan ve üyeleri kendisi, eşi, evlatlıkları ve üçüncü derece dâhil kan ve
@@ -42,6 +41,8 @@ kararlarını internet ortamı başta olmak üzere uygun vasıtalarla kamuoyuna 
 (7) Kurul üyeleri ile Kurul personelinin uyacakları mesleki ve etik ilkeler ile Kurul
 Karar Organının çalışma usul ve esaslarına ilişkin diğer hususlar Kurul tarafından çıkarılacak
 yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -16,6 +16,8 @@ a) Dinlendiği sırada onbeş yaşını bitirmemiş olanlar.
 b) Yeminin niteliğini ve önemini kavrayamayacak derecede ayırt etme gücüne sahip
 olmayanlar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -16,6 +16,8 @@ bulunması sağlanır ve savuşmasının önüne geçmek için mahkeme gereken t
 (2) Sanık savuşur veya ara vermeyi izleyen oturuma gelmezse, önceden sorguya çekilmiş
 ve artık hazır bulunmasına mahkemece gerek görülmezse, dava yokluğunda bitirilebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

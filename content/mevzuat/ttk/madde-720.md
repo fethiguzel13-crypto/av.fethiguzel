@@ -11,7 +11,8 @@ wordCount: 4290
 
 ---
 
-Madde 720 - (1) Protestoyu düzenleyen noter poliçenin bir suretini protesto belgesi ile birlikte saklamakla yükümlüdür.
+MADDE 720- (1) Protestoyu düzenleyen noter poliçenin bir suretini protesto belgesi
+ile birlikte saklamakla yükümlüdür.
 
 ---
 

@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4286
 ---
 
-**Madde 1437**
+**ccc) Bağlantı**
 
 ---
 
-Madde 1437 - (1) Tazminat ve bedel ödemelerinde, bildirilmeyen veya yanlış bildirilen bir husus ile rizikonun gerçekleşmesi arasındaki bağlantı, 1439 uncu maddede öngörülen kurallar uyarınca dikkate alınır. ddd) Sigortacı tarafından gerçek durumun bilinmesi
+MADDE 1437- (1) Tazminat ve bedel ödemelerinde, bildirilmeyen veya yanlış
+bildirilen bir husus ile rizikonun gerçekleşmesi arasındaki bağlantı, 1439 uncu maddede
+öngörülen kurallar uyarınca dikkate alınır.
 
 ---
 

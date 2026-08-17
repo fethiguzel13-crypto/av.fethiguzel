@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**VI
-- Doktor incelemesi**
+**VI - Doktor incelemesi**
 
 ---
 
-Madde 1492 - (1) Sigorta ettiren ile sigortacı arasında, sigorta edilecek kişinin doktor incelemesinden geçmesi kararlaştırılmış olsa bile, sigortacı sigortalanacak kişiyi bu incelemeyi yaptırmaya z orlayamaz.
+MADDE 1492- (1) Sigorta ettiren ile sigortacı arasında, sigorta edilecek kişinin
+doktor incelemesinden geçmesi kararlaştırılmış olsa bile, sigortacı sigortalanacak kişiyi bu
+incelemeyi yaptırmaya zorlayamaz.
 
 ---
 

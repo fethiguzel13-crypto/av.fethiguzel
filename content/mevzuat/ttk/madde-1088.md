@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4275
 ---
 
-**Madde 1088**
+**ÜÇÜNCÜ KISIM
+Kaptan
+A) özen yükümlülüğü**
 
 ---
 
-Madde 1088 - (1) Kaptan, bütün işlerinde, özellikle ifası kendisine düşe n sözleşmelerin yerine getirilmesinde tedbirli bir kaptan gibi hareket etmek zorundadır.
+MADDE 1088- (1) Kaptan, bütün işlerinde, özellikle ifası kendisine düşen
+sözleşmelerin yerine getirilmesinde tedbirli bir kaptan gibi hareket etmek zorundadır.
 
 ---
 

@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4285
 ---
 
-**III - Değişiklikler**
+**III- Değişiklikler**
 
 ---
 
-Madde 970 - (1) Gemi siciline geçirilen her kayıt gecikmeksizin gemi tasdiknamesine de yazılır. Bir gemi payının devrinin sınırlanmasına ilişkin kayıtlar hakkında bu hüküm uygulanmaz.
+MADDE 970- (1) Gemi siciline geçirilen her kayıt gecikmeksizin gemi
+tasdiknamesine de yazılır. Bir gemi payının devrinin sınırlanmasına ilişkin kayıtlar hakkında
+bu hüküm uygulanmaz.
 
 ---
 

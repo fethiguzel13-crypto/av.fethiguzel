@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**İdarenin görev ve sorumluluğu**
+**İdarenin görev ve sorumluluğu:**
 
 ---
 
@@ -18,10 +18,10 @@ yükümlüdür. Bu yükümlülüğün yerine getirilmemesi halinde, müteahhit v
 bitmesinden itibaren en çok 15 gün içinde, 10 gün müddetli bir noter ihbarnamesi ile bildirmek
 şartıyla, taahhüdünden vazgeçebilir. Bu takdirde teminat geri verilir. Müteahhit veya müşteri,
 ihaleye girmek ve teminat vermek için yaptığı masrafları istemeye hak kazanır.
-
-
-Tebligatın 32 nci maddedeki sürede yapılmamasından dolayı idarenin zararına sebep
+Tebligatın 32 nci maddedeki sürede yapılmamasından dolayı idarenin zararına sebep
 olanlar hakkında kanuni işlem yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

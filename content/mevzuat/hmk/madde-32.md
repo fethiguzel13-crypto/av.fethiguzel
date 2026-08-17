@@ -17,6 +17,8 @@ bozulmaması için gerekli her türlü tedbiri alır.
 için uygun bir süre verilir ve bu dilekçe dosyada kalır. Verilen süre içinde yeni bir dilekçe
 düzenlenmezse, tekrar süre verilemez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

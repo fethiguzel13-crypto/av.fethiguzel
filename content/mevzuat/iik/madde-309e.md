@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**Paraya çevirme**
+**Paraya çevirme:**
 
 ---
 
@@ -17,7 +17,8 @@ Konkordato masasını oluşturan malvarlığı ayrı ayrı veya bir bütün hâl
 satılması, diğer mallar için pazarlık veya açık artırma yoluyla gerçekleştirilir.
 Paraya çevirmenin usulü ve zamanı konkordato tasfiye memurlarının teklifi üzerine
 alacaklılar kurulunca kararlaştırılır.
-Rehinli taşınmazlar:
+
+---
 
 ### Akademik Yorum ve Analiz
 

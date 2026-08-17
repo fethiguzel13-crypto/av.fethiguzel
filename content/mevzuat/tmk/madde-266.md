@@ -11,7 +11,9 @@ wordCount: 4294
 
 ---
 
-Madde 266 - Mal ortaklığının sona ermesi hâlinde, eşlerden her biri ortaklık malıyla ilgili işlemlerden dolayı vekil gibi sor umludur. Yönetim giderleri ortaklık mallarından karşılanır.
+Madde 266- Mal ortaklığının sona ermesi hâlinde, eşlerden her biri ortaklık malıyla ilgili
+işlemlerden dolayı vekil gibi sorumludur.
+Yönetim giderleri ortaklık mallarından karşılanır.
 
 ---
 

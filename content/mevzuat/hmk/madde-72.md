@@ -15,6 +15,8 @@ MADDE 72- (1) Davanın vekil aracılığıyla açılması ve takip edilmesinde,
 kanunlardaki özel hükümler saklı kalmak üzere, 22/4/1926 tarihli ve 818 sayılı Borçlar
 Kanununun temsile ilişkin hükümleri uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

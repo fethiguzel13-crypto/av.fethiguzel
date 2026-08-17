@@ -34,6 +34,8 @@ tüm yolcu ve mürettebat bilgilerini isteyebilir.
 esaslar, Bakanlık ve Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca müştereken çıkarılacak
 yönetmelikle belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

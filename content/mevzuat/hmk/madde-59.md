@@ -15,6 +15,8 @@ MADDE 59- (1) Maddi hukuka göre, bir hakkın birden fazla kimse tarafından bir
 kullanılması veya birden fazla kimseye karşı birlikte ileri sürülmesi ve tamamı hakkında tek
 hüküm verilmesi gereken hâllerde, mecburi dava arkadaşlığı vardır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

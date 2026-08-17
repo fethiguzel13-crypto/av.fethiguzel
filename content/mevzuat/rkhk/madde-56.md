@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**Bu Kanuna Aykırı Anlaşma ve Kararların Hukuki Niteliği**
+**BEŞİNCİ KISIM
+Rekabetin Sınırlanmasının Özel Hukuk Alanındaki Sonuçları
+Bu Kanuna Aykırı Anlaşma ve Kararların Hukuki Niteliği**
 
 ---
 
@@ -16,6 +18,8 @@ birlikleri kararı geçersizdir. Bu anlaşmalardan ve kararlardan doğan edimler
 Daha önce yerine getirilmiş edimlerin geçersizliği nedeniyle geri istenmesi halinde tarafların
 iade borcu Borçlar Kanununun 63 ve 64 üncü maddelerine tabidir.
 Borçlar Kanununun 65 inci maddesi hükmü bu Kanundan doğan ihtilaflara uygulanmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

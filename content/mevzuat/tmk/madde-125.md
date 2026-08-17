@@ -7,12 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**II
-. Ayırt etme gücü**
+**II. Ayırt etme gücü**
 
 ---
 
-Madde 125 - Ayırt etme gücüne sahip olmayanlar evlenemez.
+Madde 125- Ayırt etme gücüne sahip olmayanlar evlenemez.
 
 ---
 

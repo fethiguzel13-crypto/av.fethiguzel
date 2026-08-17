@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**II
-. Paylaşma sözleşmesinin ge çersizliği**
+**II. Paylaşma sözleşmesinin geçersizliği**
 
 ---
 
-Madde 680 - Borçlar Kanununun geçersizliğe ilişkin genel hükümleri, paylaşma sözleşmeleri hakkında da uygulanır.
+Madde 680- Borçlar Kanununun geçersizliğe ilişkin genel hükümleri, paylaşma sözleşmeleri
+hakkında da uygulanır.
 
 ---
 

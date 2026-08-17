@@ -30,6 +30,8 @@ fonksiyonlarındaki etkisine göre sekiz yıldan onbeş yıla kadar hapis cezas�
 (4) İşkence sonucunda ölüm meydana gelmişse, ağırlaştırılmış müebbet hapis cezasına
 hükmolunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

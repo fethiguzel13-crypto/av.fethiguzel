@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Vergiye uyumlu mükelleflerin borçlarının tecili**
+**Vergiye uyumlu mükelleflerin borçlarının tecili:**
 
 ---
 
@@ -35,21 +35,11 @@ Amme borçlusunun alacaklı tahsil daireleri itibarıyla tecil edilen borçları
 beşyüz bin Türk lirasını (bu tutar dâhil) aşmadığı takdirde teminat şartı aranmaz. Bu tutarın
 üzerindeki amme alacaklarının tecilinde, gösterilmesi zorunlu teminat tutarı beşyüz bin Türk
 lirasını aşan kısmın %25’idir.
-Cumhurbaşkanı;22
+Cumhurbaşkanı;
 1. Teminatsız tecil tutarını; yarısına kadar indirmeye, yeniden kanuni tutarına
 getirmeye, zorunlu teminat oranını %50’ye kadar artırmaya, sıfıra kadar indirmeye, yeniden
 kanuni orana getirmeye,
-kapsamındaki amme borçlularının, mücbir sebep halinin sona erdiği tarihe kadar ödemeleri gereken amme
-borçları ile mücbir sebep nedeniyle ödeme süreleri ertelenen amme borçlarını faiz alınmaksızın veya
-yürürlükteki faiz oranından daha düşük faiz oranıyla tecil etmeye” ibaresi eklenmiştir.
-21
-18/5/2017 tarihli ve 7020 sayılı Kanunun 6 ncı maddesiyle, bu fıkrada yer alan “doğal afetler nedeniyle”
-ibaresi “Maliye Bakanlığınca” şeklinde değiştirilmiştir.
-22
-2/7/2018 tarihli ve 700 sayılı KHK’nin 28 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi
-“Cumhurbaşkanı” şeklinde değiştirilmiştir.
-
-2. Borçlunun çok zor durum hâlinin tespitinde kullanılmak üzere varlıklar,
+2. Borçlunun çok zor durum hâlinin tespitinde kullanılmak üzere varlıklar,
 yükümlülükler ve nakit akımlarını esas alan mali göstergeler ile mali durumu tespite yarayan
 diğer ölçütlere dayalı kriterleri belirlemeye, belirlenen kriterler çerçevesinde çok zor durum
 hâlini derecelendirmeye ve bu dereceleri dikkate alarak;
@@ -88,8 +78,7 @@ durumunda, yapılan ödemeler nispetinde kaldırılır.
 Tecil edilen amme alacağının ikimilyon Türk lirasını (bu tutar dâhil) aşmaması,
 mahcuz malın 10 uncu maddenin birinci fıkrasının (5) numaralı bendinde sayılan mal olması
 ve bu Kanuna göre belirlenmiş değerinin %50’sinden aşağı olmamak üzere satış bedelinin
-
-%50’sinin tahsil dairesine ödenmesi şartıyla mahcuz malın satışına izin verilir. Bu takdirde,
+%50’sinin tahsil dairesine ödenmesi şartıyla mahcuz malın satışına izin verilir. Bu takdirde,
 kalan tecilli borç tutarı için zorunlu teminat tutarını karşılayacak mahcuz mal ve/veya teminat
 bulunması şartıyla satılan mal üzerindeki haciz kaldırılır. Bu hüküm ikimilyon Türk lirasını
 aşan tecilli borçlarda, değeri ikimilyon Türk lirasına kadar olan mahcuz mallar için uygulanır.
@@ -102,7 +91,8 @@ oranları esas alınarak hesaplanmış olması hâlinde gecikme zammı hesabı 5
 göre düzeltilir.
 Muhtelif kanunlarda vergi borcu bulunmadığına ilişkin şartları içeren hükümler
 çerçevesinde 48 inci maddeye yapılan atıflar bu maddeye de yapılmış sayılır.
-İcranın kaza mercilerince tehiri:
+
+---
 
 ### Akademik Yorum ve Analiz
 

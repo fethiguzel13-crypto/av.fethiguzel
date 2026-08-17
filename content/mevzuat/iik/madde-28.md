@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**Taşınmaz davalarında hükümlerin tapu sicil dairesine tebliği:15**
+**(Ek: 29/6/1956-6763/42 md.; Mülga ikinci fıkra: 14/1/2011-6103/41 md.)
+Taşınmaz davalarında hükümlerin tapu sicil dairesine tebliği:**
 
 ---
 
@@ -18,6 +19,8 @@ talebine hacet kalmaksızın hükmün tefhimi ile beraber hulasasını tapu sici
 Kanununun 1010 uncu maddesinin ikinci fıkrası hükmüne tâbidir.
 Taşınmaz davası üzerine verilen karar ileride davacının aleyhine kesinleşirse
 mahkeme, derhal bu hükmün hulasasını da tapu sicili dairesine bildirir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

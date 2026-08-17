@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**b) Di ğer sebeplerin varlığında**
+**b) Diğer sebeplerin varlığında**
 
 ---
 
-Madde 258 - (1) İki kişiden oluşan bir şirkette, ortaklardan birinin kişisel alacaklısı, 248, 249 ve 256 ncı maddelere göre sahip olduğu itiraz veya fesih hakkını kullanır veya ortaklardan biri iflas ederse, diğer ortak, 257 nci m addeden yararlanabilir.
+MADDE 258- (1) İki kişiden oluşan bir şirkette, ortaklardan birinin kişisel alacaklısı,
+248, 249 ve 256 ncı maddelere göre sahip olduğu itiraz veya fesih hakkını kullanır veya
+ortaklardan biri iflas ederse, diğer ortak, 257 nci maddeden yararlanabilir.
 
 ---
 

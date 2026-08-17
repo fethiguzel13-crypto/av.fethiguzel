@@ -11,7 +11,12 @@ wordCount: 4320
 
 ---
 
-Madde 513 - Mirasbırakan, hakkında borç ödemeden aciz bel gesi bulunan al tsoyun u, saklı payının yarısı için mirasçılıktan çıkarabilir. Ancak, bu yarıyı mirasçılıktan çıkarılanın doğmu ş ve doğacak çocuklarına özgülemesi şarttır. Miras açıldığı zaman borç ödemeden a ciz belgesinin hükmü kalmam ışsa veya belgenin kapsadığı borç tuta rı mir asçılı ktan çıkarılanın miras payının yarısını aşmıyorsa, mi rasçılıktan çıkarılanın istemi üzerine çıkarm a iptal olunur. ÜÇÜNCÜ AYIRIM ÖLÜME BAĞLI TASARRUFLARIN ÇEŞİTLERİ A. Genel olara k
+Madde 513- Mirasbırakan, hakkında borç ödemeden aciz belgesi bulunan altsoyunu, saklı
+payının yarısı için mirasçılıktan çıkarabilir. Ancak, bu yarıyı mirasçılıktan çıkarılanın doğmuş ve
+doğacak çocuklarına özgülemesi şarttır.
+Miras açıldığı zaman borç ödemeden aciz belgesinin hükmü kalmamışsa veya belgenin
+kapsadığı borç tutarı mirasçılıktan çıkarılanın miras payının yarısını aşmıyorsa, mirasçılıktan
+çıkarılanın istemi üzerine çıkarma iptal olunur.
 
 ---
 

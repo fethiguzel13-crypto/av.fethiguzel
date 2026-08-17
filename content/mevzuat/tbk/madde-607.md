@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-**A. Tanımı**
+**ONYEDİNCİ BÖLÜM
+Ömür Boyu Gelir ve Ölünceye Kadar Bakma Sözleşmeleri
+BİRİNCİ AYIRIM
+Ömür Boyu Gelir Sözleşmesi
+A. Tanımı**
 
 ---
 
-Madde 607 - Ömür boyu gelir sözleşmesi, gelir borçlusunun gelir alacaklısına,
+MADDE 607- Ömür boyu gelir sözleşmesi, gelir borçlusunun gelir alacaklısına,
 içlerinden birinin veya üçüncü bir kişinin ömrü boyunca belirli dönemsel edimlerde bulunmayı
 üstlendiği sözleşmedir.
 Sözleşme, aksine açık bir hüküm yoksa, gelir alacaklısının ömrü boyunca yapılmış

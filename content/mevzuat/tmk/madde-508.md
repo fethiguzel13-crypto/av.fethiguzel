@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4283
 ---
 
-**2. Sağlararası karşılık sız kazandırmalar**
+**2. Sağlararası karşılıksız kazandırmalar**
 
 ---
 
-Madde 508 - Mirasbırakanın sağlararası karşılıks ız kaz andırm aları, tenkise tâbi olduk ları ölçüde, tasarruf edilebilir kısmın hesabında terekeye eklenir.
+Madde 508- Mirasbırakanın sağlararası karşılıksız kazandırmaları, tenkise tâbi oldukları
+ölçüde, tasarruf edilebilir kısmın hesabında terekeye eklenir.
 
 ---
 

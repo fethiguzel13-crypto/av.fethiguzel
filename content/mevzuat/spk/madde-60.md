@@ -33,9 +33,10 @@ kabul edilebilir. İhraç yapısı, ipotek ve varlık teminatlı menkul kıymetl
 edilen kurumun genel yükümlülüğünde kalacak şekilde oluşturulur.
 (5) İpotek finansmanı kuruluşlarının; kuruluşuna, kurucularına, ortaklarına, yönetim
 ve organizasyon yapısına, faaliyet ilke ve esaslarına, faaliyet izin esaslarına, ipotekli sermaye
-
-piyasası aracı ihracına ve tabi olacakları diğer yükümlülüklere ilişkin usul ve esaslar Kurul
+piyasası aracı ihracına ve tabi olacakları diğer yükümlülüklere ilişkin usul ve esaslar Kurul
 tarafından belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

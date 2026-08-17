@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4256
 ---
 
-**Yasak fiil ve davranışlar**
+**ÜÇÜNCÜ KISIM
+Yasaklar ve Sorumluluklar
+Yasak fiil ve davranışlar**
 
 ---
 
@@ -24,6 +26,8 @@ aykırı hareket etmek.
 f) Mücbir sebepler dışında, ihale dokümanı ve sözleşme hükümlerine uygun olarak
 taahhüdünü yerine getirmemek.
 g) Sözleşmenin 16 ncı madde hükmüne aykırı olarak devredilmesi veya devir alınması.
+
+---
 
 ### Akademik Yorum ve Analiz
 

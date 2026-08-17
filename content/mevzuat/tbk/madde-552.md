@@ -11,7 +11,7 @@ wordCount: 4317
 
 ---
 
-Madde 552 - Toptan, yarı toptan veya perakende satışlarla uğraşan ticari işletmelerin
+MADDE 552- Toptan, yarı toptan veya perakende satışlarla uğraşan ticari işletmelerin
 görevli veya hizmetlileri, o ticari işletme içinde, müşterilerin kolaylıkla görebilecekleri bir
 yerde ve kolayca okuyabilecekleri bir biçimde, yazıyla aksine duyuru yapılmış olmadıkça,
 aşağıdaki işlemler için yetkilidirler:

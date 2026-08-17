@@ -7,11 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**Madde 295**
+**ÜÇÜNCÜ AYIRIM
+TANIMA VE BABALIK HÜKMÜ
+A. Tanıma
+I. Koşulları ve şekli**
 
 ---
 
-Madde 295 - Tanıma, babanın, nüfus memuruna veya mahkemeye yazılı başvurusu ya da resmî senette veya vasiyetnamesinde yapacağı beyanla olur. Tanıma beyanında bulunan kimse küçük veya kısıtlı ise, veli v eya v asisin in de rızası gereklidir. Başka bir e rkek ile so ybağı bulunan çocuk, bu bağ geçersiz kılınmadıkça tanınamaz.
+Madde 295- Tanıma, babanın, nüfus memuruna veya mahkemeye yazılı başvurusu ya da
+resmî senette veya vasiyetnamesinde yapacağı beyanla olur.
+Tanıma beyanında bulunan kimse küçük veya kısıtlı ise, veli veya vasisinin de rızası
+gereklidir.
+Başka bir erkek ile soybağı bulunan çocuk, bu bağ geçersiz kılınmadıkça tanınamaz.
 
 ---
 

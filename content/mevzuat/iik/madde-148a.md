@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**Adres gösterme zorunluluğu**
+**Adres gösterme zorunluluğu:**
 
 ---
 
@@ -17,7 +17,8 @@ bunların halefleri, tapu sicili müdürlüğüne yurt içinde bir tebligat adre
 zorundadırlar. Aksi takdirde ilgililerin tescil talebi, tapu sicili müdürlüğünce reddolunur.
 Adresin değiştirilmesi tapu sicil müdürlüğüne bildirilmesi hâlinde sonuç doğurur. Yeni
 adresin bildirilmemesi hâlinde tebligatların eski adrese ulaştığı tarih tebellüğ tarihi sayılır.
-1 – İcra emri:
+
+---
 
 ### Akademik Yorum ve Analiz
 

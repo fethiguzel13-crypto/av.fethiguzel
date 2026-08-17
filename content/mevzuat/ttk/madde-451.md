@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4318
 ---
 
-**IV
-- Kötüniyetle iptal ve butlan davası açanların sorumluluğu**
+**IV - Kötüniyetle iptal ve butlan davası açanların sorumluluğu**
 
 ---
 
-Madde 451 - (1) Genel kurulun kararına karşı, kötüniyetle iptal veya butlan davası açıldığı takdirde, davacılar bu sebeple şirketin uğradığı zararlardan müteselsilen sorumludurlar. BEŞİNCİ BÖLÜM Esa s Sözleşmenin Değiştirilmesi BİRİNCİ AYIRIM Genel Olarak A) İlke
+MADDE 451- (1) Genel kurulun kararına karşı, kötüniyetle iptal veya butlan davası
+açıldığı takdirde, davacılar bu sebeple şirketin uğradığı zararlardan müteselsilen sorumludurlar.
 
 ---
 

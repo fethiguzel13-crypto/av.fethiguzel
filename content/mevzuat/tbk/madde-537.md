@@ -11,7 +11,7 @@ wordCount: 4304
 
 ---
 
-Madde 537 - Yetkisi olmaksızın veresiye mal satması dışında, komisyoncu işlemde
+MADDE 537- Yetkisi olmaksızın veresiye mal satması dışında, komisyoncu işlemde
 bulunduğu borçluların ödememelerinden ve diğer borçlarını ifa etmemelerinden sorumlu
 olmaz. Ancak, komisyoncu açıkça garanti vermişse veya bulunduğu yerdeki ticari teamül
 gerektiriyorsa sorumlu olur.

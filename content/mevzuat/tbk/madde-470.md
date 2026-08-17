@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**A. Tanımı**
+**YEDİNCİ BÖLÜM
+Eser Sözleşmesi
+A. Tanımı**
 
 ---
 
-Madde 470 - Eser sözleşmesi, yüklenicinin bir eser meydana getirmeyi, işsahibinin
+MADDE 470- Eser sözleşmesi, yüklenicinin bir eser meydana getirmeyi, işsahibinin
 de bunun karşılığında bir bedel ödemeyi üstlendiği sözleşmedir.
 
 ---

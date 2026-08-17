@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Kamulaştırma bedelinin mahkemece tespiti ve taşınmaz malın idare adına tescili8**
+**Bedelin Tespiti Esasları
+Kamulaştırma bedelinin mahkemece tespiti ve taşınmaz malın idare adına tescili**
 
 ---
 
@@ -20,6 +21,10 @@ bedelin, peşin veya kamulaştırma 3 üncü maddenin ikinci fıkrasına göre y
 ödenmesi karşılığında, idare adına tesciline karar verilmesini ister.
 Mahkeme, idarenin başvuru tarihinden itibaren en geç otuz gün sonrası için belirlediği
 duruşma gününü, dava dilekçesi ve idare tarafından verilen belgelerin birer örneği de
+Bu kısım başlığı; “Kamulaştırma Bedeli, Tebligat, Dava Hakkı ve Bilirkişiler” iken, 24/4/2001
+tarihli ve 4650 sayılı Kanunun 4 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
+Bu bölüm başlığı; “Kamulaştırma Bedelinin Tespiti” iken, 24/4/2001 tarihli ve 4650 sayılı Kanunun
+4 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 eklenerek taşınmaz malın malikine meşruhatlı davetiye ile veya idarece yapılan araştırmalar
 sonucunda adresleri bulunamayanlara, 11.2.1959 tarihli ve 7201 sayılı Tebligat Kanununun
 28 inci maddesi gereğince ilan yoluyla tebligat suretiyle bildirerek duruşmaya katılmaya
@@ -35,7 +40,7 @@ kamulaştırma işlemine idari yargıda iptal veya adli yargıda maddi hatalara 
 davası açabilecekleri,
 e) Açılacak davalarda husumetin kime yöneltileceği,
 f) 14 üncü maddede öngörülen süre içerisinde, kamulaştırma işlemine karşı idari
-yargıda iptal davası açanların, dava açtıklarını (...) belgelendirmedikleri takdirde,
+yargıda iptal davası açanların, dava açtıklarını (…)belgelendirmedikleri takdirde,
 kamulaştırma işleminin kesinleşeceği ve mahkemece tespit edilen kamulaştırma bedeli
 üzerinden taşınmaz malın kamulaştırma yapan idare adına tescil edileceği,
 g) Mahkemece tespit edilen kamulaştırma bedelinin hak sahibi adına hangi bankaya
@@ -69,7 +74,7 @@ beyanlarından yararlanarak adil ve hakkaniyete uygun bir kamulaştırma bedeli 
 Mahkemece tespit edilen bu bedel, taşınmaz mal, kaynak veya irtifak hakkının kamulaştırılma
 bedelidir. Tarafların anlaşması halinde kamulaştırma bedeli olarak anlaşılan miktar peşin ve
 nakit olarak, hak sahibi adına bankaya yatırılır. Tarafların anlaşamaması halinde hâkim
-tarafından kamulaştırma bedeli olarak tespit edilen bedelin (...) mahkemece belirlenecek
+tarafından kamulaştırma bedeli olarak tespit edilen bedelin (…) mahkemece belirlenecek
 banka hesabına yatırılması ve yatırıldığına dair makbuzun ibraz edilmesi için idareye onbeş
 gün süre verilir. Kamulaştırma bu Kanunun 3 üncü maddesinin ikinci fıkrasına göre yapılmış
 ise ilk taksitin yine peşin ve nakit olarak hak sahibi adına, hak sahibi tespit edilememiş ise
@@ -77,7 +82,7 @@ ileride ortaya çıkacak hak sahibine verilmek üzere 10 uncu maddeye göre mahk
 yapılacak davetiye ve ilanda belirtilen bankaya yatırılması ve yatırıldığına dair makbuzun
 ibraz edilmesi için idareye onbeş gün süre verilir. Gereken hallerde bu süre bir defaya mahsus
 olmak üzere mahkemece uzatılabilir. İdarece, kamulaştırma bedelinin hak sahibi adına
-yatırıldığına, hâkim tarafından kamulaştırma bedeli olarak tespit edilen bedelin (...) veya
+yatırıldığına, hâkim tarafından kamulaştırma bedeli olarak tespit edilen bedelin (…)veya
 hak sahibinin tespit edilemediği durumlarda ise ileride ortaya çıkacak hak sahibine verilmek
 üzere bloke edildiğine dair makbuzun ibrazı halinde mahkemece, taşınmaz malın idare adına
 tesciline ve kamulaştırma bedelinin hak sahibine ödenmesine karar verilir ve bu karar, tapu
@@ -87,6 +92,8 @@ kesinleşen kamulaştırma bedeli, hak sahibine peşin ve nakit olarak ödenen t
 olması durumunda aradaki fark ilgilisinden talep edilir. İdare tarafından hak sahibi adına
 yapılan ödeme tarihi ile geri ödemeye ilişkin yazının ilgilisine tebliğ edildiği tarih arasındaki
 süre için faiz alınmaz.
+(Ek fıkra: 11/4/2013-6459/6 md.) (İptal fıkra: Anayasa Mahkemesinin 5/4/2023
+tarihli ve E: 2022/83, K: 2023/69 sayılı Kararı ile.) (…)
 Bu maddede öngörülen işlemler, mahkemenin davetine uymayanlar olduğu takdirde
 ilgilinin yokluğunda yapılır.
 Hak sahibinin tespit edilemediği durumlarda mahkemece, kamulaştırma bedelinin üçer
@@ -96,10 +103,14 @@ kaydı gerekmeyen bir niteliğe dönüşmüş ise, istek halinde mahkemece sicil
 karar verilir.
 Bu tescil ve terkin işlemi sırasında mal sahiplerinin bu taşınmaz mal nedeniyle vergi
 ilişkisi aranmaz. Ancak, tapu dairesi durumu ilgili vergi dairesine bildirir.
+(İptal ondördüncü fıkra: Anayasa Mahkemesinin 25/12/2024 Tarihli ve E:
+2024/101, K: 2024/232 Sayılı Kararı ile.)
 Kamulaştırma işlemine karşı idari yargıda iptal veya maddi hatalara karşı adli
 mahkemelerde açılacak düzeltim davalarında hangi idareye husumet yöneltileceğinin davetiye
 ve ilanda açıkça belirtilmemiş veya yanlış gösterilmiş olması nedeniyle davada husumet
 yanlış yöneltilmiş ise, gerçek hasma tebligat yapılmak suretiyle davaya devam olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

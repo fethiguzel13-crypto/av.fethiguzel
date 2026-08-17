@@ -11,7 +11,10 @@ wordCount: 4309
 
 ---
 
-Madde 533 - Mirasbırakan, a rzularını resmî memura bildirir. Bunun üzeri ne memur, vasiyetnameyi yazar veya yazdırır ve o kuması için mirasbırakana verir. Vasiyetname, mirasbırak an tarafından okunup im zalanır. Memur, vasiyetnameyi tarih koyarak imzalar.
+Madde 533 - Mirasbırakan, arzularını resmî memura bildirir. Bunun üzerine memur,
+vasiyetnameyi yazar veya yazdırır ve okuması için mirasbırakana verir.
+Vasiyetname, mirasbırakan tarafından okunup imzalanır.
+Memur, vasiyetnameyi tarih koyarak imzalar.
 
 ---
 

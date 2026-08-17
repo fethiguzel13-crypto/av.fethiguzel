@@ -14,6 +14,8 @@ wordCount: 4319
 MADDE 63- (1) Dava kendisine ihbar edilen kişi, davayı kazanmasında hukuki yararı
 olan taraf yanında davaya katılabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

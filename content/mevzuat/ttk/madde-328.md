@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**Madde 328**
+**DÖRDÜNCÜ BÖLÜM
+Şirketin Sona Ermesi ve Tasfiyesi
+A) Uygulanacak hükümler**
 
 ---
 
-Madde 328 - (1) Kollektif şirketlerin sona ermesine, tasfiyesine ve ortakların şirketten çıkma ve çıkarılmasına ilişkin 243 ilâ 303 üncü madde hükümleri komandit şirketlerde de uygulanır. Ancak, şirket sözleşm esinde aksine bir hüküm bulunmadıkça komanditerin ölümü veya kısıtlanması şirketin sona ermesi sonucunu doğurmaz. DÖRDÜNCÜ KISIM Anonim Şirket BİRİNCİ BÖLÜM Genel Hükümler, Kuruluş ve Temel İlkeler A) Genel Hükümler I - Tanım
+MADDE 328- (1) Kollektif şirketlerin sona ermesine, tasfiyesine ve ortakların
+şirketten çıkma ve çıkarılmasına ilişkin 243 ilâ 303 üncü madde hükümleri komandit
+şirketlerde de uygulanır. Ancak, şirket sözleşmesinde aksine bir hüküm bulunmadıkça
+komanditerin ölümü veya kısıtlanması şirketin sona ermesi sonucunu doğurmaz.
 
 ---
 

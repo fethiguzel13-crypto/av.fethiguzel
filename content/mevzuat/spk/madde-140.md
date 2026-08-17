@@ -7,11 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4257
 ---
 
-**hükümlerine yapılmış sayılır.**
+MADDE 140 – 3/10/1983 tarihli ve 91 sayılı Menkul Kıymetler Borsaları Hakkında
+Kanun Hükmünde Kararname yürürlükten kaldırılmıştır.
 
 ---
-
-MADDE 140 – 3/10/1983 tarihli ve 91 sayılı Menkul Kıymetler Borsaları Hakkında
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**İhalenin neticesi ve feshi**
+**İhalenin neticesi ve feshi:**
 
 ---
 
@@ -28,8 +28,7 @@ sınırlı ayni hak sahipleri ile pey sürmek suretiyle ihaleye iştirak edenler
 göstermek koşuluyla icra mahkemesinden şikâyet yolu ile ihale tarihinden itibaren yedi gün
 içinde isteyebilirler. (Ek cümle:24/12/2025-7571/1 md.) Belirtilen kişiler dışında kalan
 kişilerce ihalenin feshinin talep edilmesi halinde mahkemece ihalenin feshi talebi dosya
-
-üzerinden ve kesin olarak reddedilir. İlgililerin ihale yapıldığı ana kadar cereyan eden
+üzerinden ve kesin olarak reddedilir. İlgililerin ihale yapıldığı ana kadar cereyan eden
 muamelelerdeki yolsuzluklara en geç ihale günü ıttıla peyda ettiği kabul edilir.
 (Ek fıkra:24/11/2021-7343/27 md.) Satış isteyen alacaklı, borçlu, resmî sicilde kayıtlı
 ilgililer ile sınırlı ayni hak sahipleri dışında kalan kişilerce yapılan ihalenin feshi talebi, ihale
@@ -66,14 +65,13 @@ talebin reddine karar verirse ihalenin feshini talep edeni feshi istenen ihale b
 yüzde onuna kadar para cezasına mahkûm eder.
 (Ek fıkra: 21/2/2007-5582/4 md.) 2499 sayılı Sermaye Piyasası Kanununun 38/A
 maddesinin birinci fıkrasında tanımlanan konut finansmanından kaynaklanan alacaklar ile
-
-Toplu Konut İdaresi Başkanlığının rehinle temin edilmiş alacaklarının takibinde, beşinci
-fıkrada yer alan oran yüzde yirmi olarak uygulanır.54
+Toplu Konut İdaresi Başkanlığının rehinle temin edilmiş alacaklarının takibinde, beşinci
+fıkrada yer alan oran yüzde yirmi olarak uygulanır.
 (Ek fıkra: 17/7/2003-4949/38 md.) İhalenin feshine ilişkin şikâyet görevsiz veya
 yetkisiz icra mahkemesi veya mahkemeye yapılırsa, icra mahkemesi veya mahkeme evrak
 üzerinde inceleme yaparak başvuru tarihinden itibaren en geç on gün içinde görevsizlik veya
 yetkisizlik kararı verir ve masrafını gider avansından karşılamak suretiyle dosyayı resen
-görevli veya yetkili icra mahkemesine gönderir. Bu kararlar kesindir.55
+görevli veya yetkili icra mahkemesine gönderir. Bu kararlar kesindir.
 (Ek fıkra: 17/7/2003-4949/38 md.) Taşınmazı satın alanlar, ihaleye alacağına
 mahsuben iştirak etmemiş olmak kaydıyla, ihalenin feshi talep edilmiş olsa bile, satış bedelini
 derhâl veya 130 uncu maddeye göre verilen süre içinde nakden ödemek zorundadırlar. İcra
@@ -88,13 +86,14 @@ durumlarda ihale icra müdürü tarafından iptal olunarak ihale bedeli alıcıs
 Satış ilanı tebliğ edilmemiş veya satılan malın esaslı vasıflarındaki hataya veya ihalede
 fesada bilahare vakıf olunmuşsa şikayet müddeti ıttıla tarihinden başlar. Şu kadar ki, bu
 müddet ihalenin yapıldığına ilişkin kararın elektronik satış portalında ilan edildiği tarihten
-itibaren bir seneyi geçemez.56
+itibaren bir seneyi geçemez.
 İhalenin feshini şikayet yolu ile talep eden ilgili, vakı yolsuzluk neticesinde kendi
 menfaatlerinin muhtel olduğunu ispata mecburdur.
 Tescil için tapu idaresine yapılacak tebligat, şikayet için muayyen müddetin
 geçmesinden veya şikayet edilmişse şikayeti neticelendiren kararın kesinleşmesinden sonra
 yapılır.
-(Mülga son fıkra: 17/7/2003-4949/103 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

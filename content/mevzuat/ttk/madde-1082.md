@@ -7,14 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4285
 ---
 
-**X
-- Sona ermesi
+**X- Sona ermesi
 1. Sona erme sebepleri
 a) Fesih kararı**
 
 ---
 
-Madde 1082 - (1) Donatma iştiraki, çoğunluk kararı ile fesih olunabilir. Geminin devri hakkındaki karar da iştirakin feshi kararı hükmündedir.
+MADDE 1082- (1) Donatma iştiraki, çoğunluk kararı ile fesih olunabilir. Geminin
+devri hakkındaki karar da iştirakin feshi kararı hükmündedir.
 
 ---
 

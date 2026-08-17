@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**III. Mahke me ka rarı ile**
+**III. Mahkeme kararı ile**
 
 ---
 
-Madde 89 - Derneğin amacı, kanuna veya ahlâka aykırı hâle gelirse; Cumhuriyet savcısının veya bir ilgilinin istemi üzerine mahkeme, derneğin feshin e karar verir. Mahkeme, dava sırasında faaliyetten alıkoyma dahil gerekli bütün önlemleri alır.
+Madde 89- Derneğin amacı, kanuna veya ahlâka aykırı hâle gelirse; Cumhuriyet savcısının
+veya bir ilgilinin istemi üzerine mahkeme, derneğin feshine karar verir. Mahkeme, dava sırasında
+faaliyetten alıkoyma dahil gerekli bütün önlemleri alır.
 
 ---
 

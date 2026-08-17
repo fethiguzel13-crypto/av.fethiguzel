@@ -7,13 +7,20 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Kapsam**
+**İKİNCİ BÖLÜM
+Temel İlkeler
+İnfazda temel ilke**
 
 ---
 
-Madde 2- (1) Bu Kanun, korunma ihtiyacı olan çocuklar hakkında alınacak tedbirler
-ile suça sürüklenen çocuklar hakkında uygulanacak güvenlik tedbirlerinin usûl ve esaslarına,
-çocuk mahkemelerinin kuruluş, görev ve yetkilerine ilişkin hükümleri kapsar.
+Madde 2- (1) Ceza ve güvenlik tedbirlerinin infazına ilişkin kurallar hükümlülerin ırk,
+dil, din, mezhep, milliyet, renk, cinsiyet, doğum, felsefî inanç, millî veya sosyal köken ve
+siyasî veya diğer fikir yahut düşünceleri ile ekonomik güçleri ve diğer toplumsal konumları
+yönünden ayırım yapılmaksızın ve hiçbir kimseye ayrıcalık tanınmaksızın uygulanır.
+(2) Ceza ve güvenlik tedbirlerinin infazında zalimane, insanlık dışı, aşağılayıcı ve onur
+kırıcı davranışlarda bulunulamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -16,6 +16,8 @@ mahkemeye sunmak zorundadır.
 (2) Mahkeme kendiliğinden veya diğer tarafın talebi üzerine, belgenin resmî tercümesini
 de isteyebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

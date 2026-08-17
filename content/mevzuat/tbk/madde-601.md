@@ -11,7 +11,7 @@ wordCount: 4258
 
 ---
 
-Madde 601 - Süreli olmayan kefalette kefil, asıl borç muaccel olunca, adi kefalette
+MADDE 601- Süreli olmayan kefalette kefil, asıl borç muaccel olunca, adi kefalette
 her zaman ve müteselsil kefalette ise, kanunun öngördüğü hâllerde, alacaklıdan, bir ay içinde
 borçluya karşı dava ve takip haklarını kullanmasını, varsa rehnin paraya çevrilmesi yoluyla
 takibe geçmesini ve ara vermeden takibe devam etmesini isteyebilir.

@@ -11,7 +11,9 @@ wordCount: 4302
 
 ---
 
-Madde 721 - (1) Noter tarafından imza edilen protes to kanuna uygun olarak düzenlenmediği veya içindeki kayıtlar yanlış olduğu takdirde de geçerlidir. (2) Noter hakkında disiplin hükümleri saklıdır.
+MADDE 721- (1) Noter tarafından imza edilen protesto kanuna uygun olarak
+düzenlenmediği veya içindeki kayıtlar yanlış olduğu takdirde de geçerlidir.
+(2) Noter hakkında disiplin hükümleri saklıdır.
 
 ---
 

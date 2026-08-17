@@ -16,7 +16,8 @@ yahut birbirine aykırı fıkralar içeriyorsa, icrası tamamlanıncaya kadar ta
 hükmün açıklanmasını veya tereddüt ya da aykırılığın giderilmesini isteyebilir.
 (2) Hüküm fıkrasında taraflara tanınan haklar ve yüklenen borçlar, tavzih yolu ile
 sınırlandırılamaz, genişletilemez ve değiştirilemez.
-Hükmün tamamlanması
+
+---
 
 ### Akademik Yorum ve Analiz
 

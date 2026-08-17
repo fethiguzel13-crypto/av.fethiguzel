@@ -20,6 +20,8 @@ hırsızlık, sabotaj gibi risklere karşı, geçici kabul tarihinden kesin kabu
 süreye ilişkin ise kapsamı ihale dokümanında belirtilen genişletilmiş bakım devresi teminatını
 içeren sigorta yaptırmak zorundadır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

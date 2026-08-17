@@ -15,6 +15,8 @@ Madde 28 – (1) Ret isteminin kabulüne ilişkin kararlar kesindir; kabul edilm
 ilişkin kararlara karşı itiraz yoluna gidilebilir. İtiraz üzerine verilen ret kararı hükümle birlikte
 incelenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

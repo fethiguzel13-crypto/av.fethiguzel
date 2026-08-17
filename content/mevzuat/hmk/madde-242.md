@@ -16,10 +16,12 @@ gereğince sır olarak saklamak zorunda oldukları hususlar hakkında, sırrın 
 makamın yazılı izni olmadıkça tanık olarak dinlenemezler. Bu izin, milletvekilleri hakkında
 Türkiye Büyük Millet Meclisi üyeleri, Cumhurbaşkanı yardımcıları ve bakanlar hakkında
 Cumhurbaşkanı ve diğerleri hakkında bağlı oldukları bakan veya kuruluşun amiri tarafından
-verilir.26
+verilir.
 (2) Tanıklık kamu yararına aykırı bulunmadıkça izin verilmesinden kaçınılamaz.
 (3) Bu izin, mahkeme kararı üzerine yazı ile istenir ve izin verilince tanık davet
 edilerek dinlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

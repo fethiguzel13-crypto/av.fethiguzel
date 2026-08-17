@@ -18,6 +18,8 @@ taraflarca kamuya açıklanır.
 ihraççıya bildirimi, istisnai hâllerde açıklamanın ertelenmesi veya açıklama yapılmamasına
 ilişkin usul ve esaslar Kurulca belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

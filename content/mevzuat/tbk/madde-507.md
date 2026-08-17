@@ -11,7 +11,7 @@ wordCount: 4316
 
 ---
 
-Madde 507 - Vekil, yetkisi dışına çıkarak işi başkasına gördürdüğünde, onun
+MADDE 507- Vekil, yetkisi dışına çıkarak işi başkasına gördürdüğünde, onun
 fiilinden kendisi yapmış gibi sorumludur.
 Vekil başkasına vekâlet vermeye yetkili ise, sadece seçmede ve talimat vermede
 gerekli özeni göstermekle yükümlüdür.

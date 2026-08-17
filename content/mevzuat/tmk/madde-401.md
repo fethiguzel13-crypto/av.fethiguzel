@@ -11,7 +11,9 @@ wordCount: 4297
 
 ---
 
-Madde 401 - Aile meclis i üyeleri, görevlerini gereği gibi yerine getireceklerine dair güvence vermek zor undadırlar. Güvence sağlanm adan özel vesay et kurulamaz.
+Madde 401- Aile meclisi üyeleri, görevlerini gereği gibi yerine getireceklerine dair
+güvence vermek zorundadırlar.
+Güvence sağlanmadan özel vesayet kurulamaz.
 
 ---
 

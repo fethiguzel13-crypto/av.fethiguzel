@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-**iadesinin ertelenmesi**
+**Rehinli malların muhafaza ve satışı ile finansal kiralama konusu malların
+iadesinin ertelenmesi:**
 
 ---
 
@@ -37,8 +38,7 @@ etmiş olmalıdır.
 Birinci ve üçüncü fıkrada belirtilen alacaklılar yazılı görüşlerini konkordatonun
 tasdikine ilişkin duruşmadan önce sunmaya davet edilirler; bu alacaklılar ayrıca tasdik
 duruşmasına çağırılırlar.
-
-Borçlu, rehinli veya finansal kiralama konusu malı rızasıyla devreder, iflâs eder veya
+Borçlu, rehinli veya finansal kiralama konusu malı rızasıyla devreder, iflâs eder veya
 ölürse, erteleme kendiliğinden hükümsüz hâle gelir.
 Konkordatoyu tasdik eden mahkeme, ilgili alacaklının talebi üzerine ve borçluyu da
 davet ederek aşağıdaki hâllerden birinin varlığının yaklaşık olarak ispat edilmesi kaydıyla
@@ -48,6 +48,8 @@ b) Borçlunun serveti ve gelirleri artmış ve borçlu, ekonomik varlığını t
 sokmadan borcu ödeyebilecek hâle gelmişse.
 c) Rehinli malın paraya çevrilmesi veya finansal kiralama konusu malın iadesi,
 borçlunun ekonomik varlığını artık tehlikeye sokmayacaksa.
+
+---
 
 ### Akademik Yorum ve Analiz
 

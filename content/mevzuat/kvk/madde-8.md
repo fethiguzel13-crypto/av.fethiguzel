@@ -17,7 +17,6 @@ a) Menkul kıymet ihraç giderleri.
 b) Kuruluş ve örgütlenme giderleri.
 c) Genel kurul toplantıları için yapılan giderler ile birleşme, devir, bölünme, fesih ve
 tasfiye giderleri.
- 
 ç) Sermayesi paylara bölünmüş komandit şirketlerde komandite ortağın kâr payı.
 d) Katılım bankalarınca katılma hesabı karşılığında ödenen kâr payları.
 e) Sigorta ve reasürans şirketlerinde bilânço gününde hükmü devam eden sigorta
@@ -43,6 +42,8 @@ katastrofik riskleri karşılamak üzere sadece deprem ve mühendislik sigorta b
 deprem teminatı için hesaplanan dengeleme karşılıklarından oluşur.
 5) Bir bilânço döneminde ayrılan sigorta teknik karşılıkları, ertesi bilânço döneminde
 aynen kâra eklenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 #### 1. Maddenin Sistematiği ve Genel Açıklama

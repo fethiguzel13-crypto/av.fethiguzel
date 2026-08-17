@@ -30,6 +30,8 @@ ile mahkûm olur.
 (5) Şu kadar ki kanun işbu sıfatı esasen nazarıitibara almış ise cezayı çoğaltmaya
 mahal yoktur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4285
 ---
 
-**IV
-- Sözleşmenin uygulanmayacağı alacaklar**
+**IV- Sözleşmenin uygulanmayacağı alacaklar**
 
 ---
 
-Madde 1331 - (1) 1976 tarihli Sözleşmenin 2 nci maddesinin bi rinci fıkrasının (d) ve (e) bentleri ile 3 üncü maddesinde sayılan alacaklara karşı sorumluluk sınırlandırılamaz.
+MADDE 1331- (1) 1976 tarihli Sözleşmenin 2 nci maddesinin birinci fıkrasının (d) ve
+(e) bentleri ile 3 üncü maddesinde sayılan alacaklara karşı sorumluluk sınırlandırılamaz.
 
 ---
 

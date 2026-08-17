@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**VI
-- Yetkili mahkeme**
+**VI - Yetkili mahkeme**
 
 ---
 
-Madde 561 - (1) Sorumlular aleyhinde şirketin merkezinin bulunduğu yer asliye ticaret mahkemesinde dava açılabilir. ONİKİNCİ BÖLÜM Cezai Sorumluluk A) Suçlar ve cezalar 78 79
+MADDE 561- (1) Sorumlular aleyhinde şirketin merkezinin bulunduğu yer asliye
+ticaret mahkemesinde dava açılabilir.
 
 ---
 

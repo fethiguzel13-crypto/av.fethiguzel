@@ -11,7 +11,8 @@ wordCount: 4294
 
 ---
 
-Madde 891 - İpotekle güvence altına alınmış bir alacağın devrinin geçerli olması, d evrin tapu kütüğüne tescil edilmesine bağlı değildir.
+Madde 891- İpotekle güvence altına alınmış bir alacağın devrinin geçerli olması, devrin
+tapu kütüğüne tescil edilmesine bağlı değildir.
 
 ---
 

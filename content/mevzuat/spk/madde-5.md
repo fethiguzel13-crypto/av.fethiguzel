@@ -19,6 +19,8 @@ yayımlanmış bilgilere atıfta bulunulmasına, satış şartlarına, onaylanan
 yapılmasına ve izahname hazırlama ve yayımlanmasından kısmen veya tamamen muafiyete
 ilişkin usul ve esasları belirler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

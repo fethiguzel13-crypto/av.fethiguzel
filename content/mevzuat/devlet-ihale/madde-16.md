@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**İsteklilerde aranacak nitelikler ve istenecek belgeler**
+**(Son fıkra Mülga: 2/3/1984 - 2990/5 md.)
+İsteklilerde aranacak nitelikler ve istenecek belgeler:**
 
 ---
 
@@ -19,7 +20,9 @@ adres göstermek zorundadır.
 Yapım işleriyle her türlü etüt, proje, kontrollük ve müşavirlik hizmetlerine ait ihalelerde,
 isteklilerde aranacak niteliklerin ve istenecek belgelerin neler olacağı, ne yolda ve kimlerce
 verileceği ve müteahhit sicillerinin ne biçimde tutulacağı Cumhurbaşkanınca çıkarılan
-yönetmelikle gösterilir.6
+yönetmelikle gösterilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

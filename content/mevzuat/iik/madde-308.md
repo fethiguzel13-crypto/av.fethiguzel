@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**Konkordatonun tasdik edilmemesi ve borçlunun iflâsı**
+**Konkordatonun tasdik edilmemesi ve borçlunun iflâsı:**
 
 ---
 
@@ -20,7 +20,8 @@ mahkeme, borçlunun iflâsına resen karar verir.
 kararını veren mahkeme tasfiyenin basit veya adi tasfiye usulüne göre yapılmasına ve
 gerektiğinde adi tasfiyenin komiserler tarafından yerine getirilmesine karar verir. Bu hâlde
 iflâs idaresine ait görev ve yetkiler komiserler tarafından kullanılır.
-Kanun yolları:
+
+---
 
 ### Akademik Yorum ve Analiz
 

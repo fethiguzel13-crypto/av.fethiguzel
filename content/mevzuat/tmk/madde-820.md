@@ -12,7 +12,12 @@ a. Yararlanmanın kapsamı**
 
 ---
 
-Madde 820 - Bir alacak üzerindeki intifa hak kı, onun getirisini edinme yetkisi verir. Borçluya karşı yapı lacak ödeme isteminin ve kıymetli evrak üzerindeki tasarrufların alacaklı ve intifa hakkı sahibi tarafından birlikte yapılması, borcunu ödemek üzere borçlu tarafından yapılacak bildirimin de bun ların her ikisine yöneltilmesi gerekir. Alacak tehlikeye düşe rse, alacaklı ve intifa hakkı sahibinden her biri, diğerinden iyi bir yönetimin gerektirdi ği önlemleri almaya katılmasını isteyebilir.
+Madde 820- Bir alacak üzerindeki intifa hakkı, onun getirisini edinme yetkisi verir.
+Borçluya karşı yapılacak ödeme isteminin ve kıymetli evrak üzerindeki tasarrufların
+alacaklı ve intifa hakkı sahibi tarafından birlikte yapılması, borcunu ödemek üzere borçlu
+tarafından yapılacak bildirimin de bunların her ikisine yöneltilmesi gerekir.
+Alacak tehlikeye düşerse, alacaklı ve intifa hakkı sahibinden her biri, diğerinden iyi bir
+yönetimin gerektirdiği önlemleri almaya katılmasını isteyebilir.
 
 ---
 

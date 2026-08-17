@@ -11,7 +11,7 @@ wordCount: 4320
 
 ---
 
-Madde 614 - Bakım alacaklısı, sözleşmenin kurulmasıyla bakım borçlusunun aile
+MADDE 614- Bakım alacaklısı, sözleşmenin kurulmasıyla bakım borçlusunun aile
 topluluğuna katılmış olur. Bakım borçlusu, almış olduğu malların değerine ve bakım
 alacaklısının daha önce sahip olduğu sosyal durumuna göre hakkaniyetin gerektirdiği
 edimleri, bakım alacaklısına ifa etmekle yükümlüdür.

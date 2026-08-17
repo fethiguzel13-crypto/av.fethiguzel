@@ -12,7 +12,7 @@ wordCount: 4291
 
 ---
 
-Madde 126 - Küçük, yasal temsilc isinin izni olmadıkça evlenemez.
+Madde 126- Küçük, yasal temsilcisinin izni olmadıkça evlenemez.
 
 ---
 

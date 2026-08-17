@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Bilgilerini artırmak üzere dış memleketlere gönderilme**
+**Bilgilerini artırmak üzere dış memleketlere gönderilme:**
 
 ---
 
@@ -18,7 +18,8 @@ a) Kurumlarınca açılacak seçme veya yarışma sınavlarında başarı göste
 b) Dış burslara dayanılarak gönderilenlere,
 İki yıla kadar ayrılma müsaadesi verilebilir.
 Gerekirse bu süre en çok bir kat uzatılabilir.
-Bilgilerini artırmak için yabancı memlekete gönderilenlerin hak ve
+
+---
 
 ### Akademik Yorum ve Analiz
 

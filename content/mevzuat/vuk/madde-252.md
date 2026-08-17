@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**Karnelerin şekli, resim ve harçlardan muaf olduğu:75**
+**Karnelerin şekli, resim ve harçlardan muaf olduğu:**
 
 ---
 
@@ -16,6 +16,8 @@ tesbit olunur.
 Gerek karneler, gerek bunların ihtiva ettiği kayıtlar hiçbir resme ve harca tabi değildir.
 Tasdik dolayısiyle muhtarların yüzbin (35.00 TL) lirayı geçmemek şartiyle harç almaları
 caizdir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

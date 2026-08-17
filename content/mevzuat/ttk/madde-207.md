@@ -7,13 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-**IX
-- Çeşitli hük ümler
+**IX - Çeşitli hükümler
 1. Özel denetim**
 
 ---
 
-Madde 207 - (1) Denetçi, (…) 37 özel denetçi, riskin erken saptanması ve yönetimi komitesi; bağlı şirketin, hâkim şirketle veya diğer bağlı bir şirketle ilişkilerinde hilenin veya dolanın varlığını belirtir şekilde görüş bildirmişse, bağ lı şirketin her pay sahibi, bu konunun açıklığa kavuşturulması amacıyla, şirket merkezinin bulunduğu yerdeki asliye ticaret mahkemesinden özel denetçi atanmasını isteyebilir.
+MADDE 207- (1) Denetçi, (…)özel denetçi, riskin erken saptanması ve yönetimi
+komitesi; bağlı şirketin, hâkim şirketle veya diğer bağlı bir şirketle ilişkilerinde hilenin veya
+dolanın varlığını belirtir şekilde görüş bildirmişse, bağlı şirketin her pay sahibi, bu konunun
+açıklığa kavuşturulması amacıyla, şirket merkezinin bulunduğu yerdeki asliye ticaret
+mahkemesinden özel denetçi atanmasını isteyebilir.
 
 ---
 

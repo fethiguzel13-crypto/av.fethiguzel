@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**Tasfiye**
+**DÖRDÜNCÜ BÖLÜM
+Tasfiye, Birleşme, Devir, Bölünme ve Hisse Değişimi
+Tasfiye**
 
 ---
 
@@ -22,7 +24,7 @@ b) Tasfiyenin başladığı takvim yılı içinde sona ermesi halinde tasfiye d�
 kurumun tasfiyeye girdiği tarihten başlar ve tasfiyenin bittiği tarihe kadar devam eder.
 c) Tasfiyenin zararla kapanması halinde tasfiye sonucu, önceki tasfiye dönemlerine
 doğru düzeltilir ve anılan dönemlerde fazla ödenen vergi mükellefe iade edilir.
-(ç) Bir yıldan fazla süren tasfiyelerde tarh zamanaşımı, tasfiyenin sona erdiği dönemi
+ç) Bir yıldan fazla süren tasfiyelerde tarh zamanaşımı, tasfiyenin sona erdiği dönemi
 izleyen yıldan itibaren başlar.
 d) Tasfiyeden vazgeçilmesi halinde, kurum hakkında tasfiye hükümleri uygulanmaz.
 Böyle bir durumda, tasfiyeden vazgeçme kararı, bu kararın alındığı dönemin başından itibaren
@@ -53,7 +55,7 @@ satışın, devrin veya iadenin yapıldığı gün itibarıyla belirlenir.
 c) Bu maddeye göre tasfiye kârının hesaplanması sırasında, Kanunun 8, 9, 10 ve 11
 inci madde hükümleri de ayrıca dikkate alınır.
 (5) Servet değeri: Tasfiye döneminin başındaki ve sonundaki servet değeri, kurumun
-tasfiye dönemi başındaki ve sonundaki bilânço değeridir. Bir yıldan fazla
+tasfiye dönemi başındaki ve sonundaki bilânçosunda görülen öz sermayesidir. Bir yıldan fazla
 süren tasfiyelerde izleyen tasfiye dönemlerinin başındaki servet değeri, bir önceki dönemin
 son bilânçosunda görülen servet değeridir.
 (6) Aşağıda belirtilenler dışında kalan her çeşit karşılıklar ile dağıtılmamış kazançlar
@@ -83,11 +85,13 @@ tasfiye memurları, işlemlerinin vergi kanunları yönünden incelenmesini bir 
 Dilekçenin verilmesinden itibaren en geç üç ay içinde vergi incelemelerine başlanarak
 aralıksız devam edilir. Vergi incelemesinin bitmesini izleyen otuz gün içinde vergi dairesi
 sonucu tasfiye memurlarına yazı ile bildirir. Buna göre kurumdan aranan vergilerin sonucu
-alınıyaya kadar tasfiye memurlarının, yedinci fıkrada yazılı sorumluluğu devam eder.
+alınıncaya kadar tasfiye memurlarının, yedinci fıkrada yazılı sorumluluğu devam eder.
 (9) (Ek: 16/6/2009-5904/6 md.) (Mülga: 21/3/2018-7103/74 md.)
 (10) Maliye Bakanlığı, mükelleflerin hukukî statülerini, faaliyet gösterdikleri alanları
 ve tasfiyeye giriş tarihindeki aktif büyüklüklerini dikkate almak suretiyle tasfiye işlemlerine
-yönelik inceleme yaptırmamaya yetkilidir.42
+yönelik inceleme yaptırmamaya yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,9 @@ wordCount: 4296
 
 ---
 
-Madde 93 - Türkiye'de yerleşme hakkına sahip olan yabancı gerçe k kişiler, (...) 11 dernek kurabilirler veya kurulmuş derneklere üye olabilirler. Onursal üyelik için bu koşul aranmaz.
+Madde 93- Türkiye'de yerleşme hakkına sahip olan yabancı gerçek kişiler, (...)dernek
+kurabilirler veya kurulmuş derneklere üye olabilirler.
+Onursal üyelik için bu koşul aranmaz.
 
 ---
 

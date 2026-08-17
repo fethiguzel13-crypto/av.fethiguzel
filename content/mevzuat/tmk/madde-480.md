@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**B. Sürenin sona ermesi ve uzatılmaması I. Süre nin dolması**
+**B. Sürenin sona ermesi ve uzatılmaması
+I. Sürenin dolması**
 
 ---
 
-Madde 480 - Vasi lik görevi, uzatılmadığı takdirde, sür enin d olmasıyla sona erer.
+Madde 480- Vasilik görevi, uzatılmadığı takdirde, sürenin dolmasıyla sona erer.
 
 ---
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**Pazarlık suretiyle satış**
+**Pazarlık suretiyle satış:**
 
 ---
 
@@ -20,6 +20,8 @@ verilirse,
 4 – 113 üncü maddenin ikinci fıkrasında gösterilen haller bulunursa,
 5 – (Değişik: 17/7/2003-4949/31 md.) Mahcuz malın tahmin edilen değeri birmilyar
 lirayı geçmezse.
+
+---
 
 ### Akademik Yorum ve Analiz
 

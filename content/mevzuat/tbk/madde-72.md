@@ -12,7 +12,7 @@ I. Kural**
 
 ---
 
-Madde 72 - Tazminat istemi, zarar görenin zararı ve tazminat yükümlüsünü
+MADDE 72- Tazminat istemi, zarar görenin zararı ve tazminat yükümlüsünü
 öğrendiği tarihten başlayarak iki yılın ve her hâlde fiilin işlendiği tarihten başlayarak on yılın
 geçmesiyle zamanaşımına uğrar. Ancak, tazminat ceza kanunlarının daha uzun bir
 zamanaşımı öngördüğü cezayı gerektiren bir fiilden doğmuşsa, bu zamanaşımı uygulanır.

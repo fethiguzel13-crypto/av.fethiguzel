@@ -12,8 +12,10 @@ a. Genel olarak**
 
 ---
 
-Madde 606 - Miras, üç ay içinde re ddolunabilir. Bu süre, yasal mirasçılar için mirasçı olduklarını daha sonra öğrendikleri i spat edilmedikçe mirasbırak anın ölümünü öğrendikleri; vasiyetname ile atanmış mirasçılar için mirasbırakanın
-tasarrufunun kendilerine resmen bildirildiği tarihten işl emeye başlar.
+Madde 606- Miras, üç ay içinde reddolunabilir.
+Bu süre, yasal mirasçılar için mirasçı olduklarını daha sonra öğrendikleri ispat edilmedikçe
+mirasbırakanın ölümünü öğrendikleri; vasiyetname ile atanmış mirasçılar için mirasbırakanın
+tasarrufunun kendilerine resmen bildirildiği tarihten işlemeye başlar.
 
 ---
 

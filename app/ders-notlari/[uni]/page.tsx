@@ -3,7 +3,8 @@ import { notFound } from 'next/navigation';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import { UniHubView } from '@/components/DersNotuView';
-import { getAllUniSlugs, getHub } from '@/lib/ders-notlari';
+import { getAllUniSlugs, getHub, getNotesForUni } from '@/lib/ders-notlari';
+import { auditLectureNote } from '@/lib/content-quality.mjs';
 
 const SITE = 'https://www.avfethiguzel.com';
 
@@ -11,6 +12,17 @@ type Props = { params: Promise<{ uni: string }> };
 
 export function generateStaticParams() {
   return getAllUniSlugs().map((uni) => ({ uni }));
+}
+
+/**
+ * Fakülte sayfası, yayınlanabilir en az bir not varsa indekse girer.
+ *
+ * 84 fakülte sayfasının tamamı aynı ~160 dersi listeliyor ve notların hepsi
+ * kalıp metin. Hiçbiri açılamıyorken sayfayı indekste tutmak, Google'a
+ * içeriği olmayan 84 giriş kapısı sunmak demektir.
+ */
+function hasPublishableNote(uniSlug: string): boolean {
+  return getNotesForUni(uniSlug).some((n) => auditLectureNote(n).publishable);
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -32,7 +44,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: hub.description,
       url: `${SITE}/ders-notlari/${uni}`,
     },
-    robots: { index: true, follow: true },
+    robots: hasPublishableNote(uni)
+      ? { index: true, follow: true }
+      : { index: false, follow: true },
   };
 }
 

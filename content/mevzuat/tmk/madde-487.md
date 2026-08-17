@@ -11,7 +11,8 @@ wordCount: 4302
 
 ---
 
-Madde 487 - Vesay et makamı, görevden alma ve uyarıda bulunmanın yanı sı ra, vesayet altın daki k işinin korunması için gerekli diğer önlemleri de alma kla yükümlüdür.
+Madde 487- Vesayet makamı, görevden alma ve uyarıda bulunmanın yanı sıra, vesayet
+altındaki kişinin korunması için gerekli diğer önlemleri de almakla yükümlüdür.
 
 ---
 

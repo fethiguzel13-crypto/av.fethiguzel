@@ -7,28 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**Usulsüzlük dereceleri ve cezaları:118**
+**Usulsüzlük dereceleri ve cezaları:**
 
 ---
 
-Madde 352 – (Değişik: 30/12/1980-2365/76 md.)119
-
-Bu madde başlığı 24/6/1994 tarih ve 4008 sayılı Kanunun 16 ncı maddesi ile metne işlendiği şekilde
-değiştirilmiştir.
-117
+Madde 352 – (Değişik: 30/12/1980-2365/76 md.)
 Bu bölüm başlığı "üçüncü Bölüm" iken, 22/7/1998 tarih ve 4369 sayılı Kanunun 81 inci maddesiyle metne
 işlendiği şekilde değiştirilmiştir.
-118
 Bu maddede yer alan miktarların 1/1/2026 tarihinden itibaren uygulanması ile ilgili olarak 30/12/2026
 tarihli ve 33124 5. Mükerrer sayılı Resmî Gazete’de yayımlanan Hazine ve Maliye Bakanlığının (Gelir İdaresi
 Başkanlığı) 588 Sıra No.’lu Tebliğ ekine bakınız.
-119
-28/7/2024 tarihli ve 7524 sayılı Kanunun 10 uncu maddesi ile bu maddenin birinci fıkrasının birinci
-cümlesinde yer alan “bağlı cetvele” ibaresi “bağlı 1 sayılı cetvele” şeklinde, ikinci cümlesinde yer alan “bağlı
-cetvelde” ibaresi “bağlı 1 sayılı cetvelde” şeklinde değiştirilmiştir.
-116
-
-Usulsüzlükler, aşağıda yazılı derecelere ve bu kanuna bağlı 1 sayılı cetvele göre
+Usulsüzlükler, aşağıda yazılı derecelere ve bu kanuna bağlı 1 sayılı cetvele göre
 cezalandırılır. Usulsüzlük fiili re'sen takdiri gerektirirse, bağlı 1 sayılı cetvelde yazılı cezalar
 iki kat olarak kesilir.
 I inci derece usulsüzlükler:
@@ -43,13 +32,13 @@ yapılmasına imkan vermeyecek derecede noksan, usulsüz veya karışık olması
 yapılan davete müddetinde icabet edilmemesi;
 6. Bu Kanunun kayıt nizamına ait hükümlerine (Madde 215 - 219 ile mükerrer madde
 242) uyulmamış olması (Her incelemede inceleme tarihine kadar aynı takvim yılı için tespit
-edilen usulsüzlükler tek fiil sayılır);120
+edilen usulsüzlükler tek fiil sayılır);
 7. İşe başlamanın zamanında bildirilmemesi;
 8. Tasdiki mecburi olan defterlerden hernangi birinin tasdik muamelesinin
 yaptırılmamış olması (Kanuni sürenin sonundan başlıyarak 1 ay geçtikten sonra tasdik
 ettirilenler, tasdik ettirilmemiş sayılır.);
 9. Diğer ücretler üzerinden alınan Gelir Vergisinde, tarh zamanı geçtiği halde verginin
-tarh ettirilmemiş olması;121
+tarh ettirilmemiş olması;
 10. (Mülga: 18/4/1984-2995/4 md.)
 11. (Ek: 4/12/1985-3239/25 md.) Veraset ve intikal vergisi beyannamesinin 342 nci
 maddenin ikinci fıkrasında belirtilen süre içerisinde verilmiş olması.
@@ -64,22 +53,15 @@ edecek doğru bir şekilde yapılmaması;
 zamanında yapılmamış olması (işe başlamayı bildirmek hariç);
 5. Vergi karnesinin süresinin sonundan başlayarak 15 gün geçtiği halde alınmamış
 olması;
-14/10/2021 tarihli ve 7338 sayılı Kanunun 39 uncu maddesiyle bu bentte yer alan “(Madde 215 - 219)”
-ibaresi “(Madde 215 - 219 ile mükerrer madde 242)” şeklinde değiştirilmiştir.
-121
-Bu bentte yer alan "Götürü matrahlar" ibaresi, 22/7/1998 tarihli ve 4369 sayılı Kanunun 81 inci maddesiyle
-metne işlendiği şekilde değiştirilmiştir.
-120
-
-6. Tasdiki mecburi olan defterlerden herhangi birinin tasdik muamelesinin, süresinin
+6. Tasdiki mecburi olan defterlerden herhangi birinin tasdik muamelesinin, süresinin
 sonundan başlayarak bir ay içinde yaptırılmış olması;
 7. (Değişik: 4/12/1985-3239/25 md.) Vergi beyannameleri, bildirimler, evrak ve
 vesikaların kanunen belli şekil ve muhteviyatı ve ekleri ile bunlarla ilgili olarak yapılan diğer
 düzenlemelere ilişkin hükümlere uyulmamış olması;
 8. Hesap veya muamelelerin doğruluk veya açıklığını bozmamak şartıyla bazı evrak ve
 vesikaların bulunmaması veya ibraz edilmemesi.
-Özel usulsüzlükler ve cezaları:
-a) Fatura ve benzeri evrak verilmemesi ve alınmaması ile diğer şekil ve usul
+
+---
 
 ### Akademik Yorum ve Analiz
 

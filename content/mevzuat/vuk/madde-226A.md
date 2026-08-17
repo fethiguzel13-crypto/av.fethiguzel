@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Elektronik olarak tutulan defterlerde tasdik**
+**Elektronik olarak tutulan defterlerde tasdik:**
 
 ---
 
@@ -19,12 +19,8 @@ ortamda tutulan diğer defterlerin ise Hazine ve Maliye Bakanlığı tarafından
 esas ve süreler dahilinde onaylanması bu Kanun uygulamasında tasdik hükmündedir.
 Berat ve onayın belirlenen usul, esas ve süreler dahilinde alınmaması veya
 yapılmaması durumunda defterler tasdik ettirilmemiş sayılır.
-ÜÇÜNCÜ KISIM
-Vesikalar
 
-BİRİNCİ BÖLÜM
-Kayıtların Tevsiki
-İspat edici kağıtlar:
+---
 
 ### Akademik Yorum ve Analiz
 

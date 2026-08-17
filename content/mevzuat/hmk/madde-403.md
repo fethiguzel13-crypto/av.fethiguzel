@@ -17,6 +17,8 @@ yapılmasından sonra, tespit dilekçesi, tespit kararı, tespit tutanağı ve v
 bir örneği mahkemece kendiliğinden diğer tarafa tebliğ olunur. Karşı taraf tebliğden itibaren
 bir hafta içinde delil tespiti kararına itiraz edebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

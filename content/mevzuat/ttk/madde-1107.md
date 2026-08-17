@@ -11,7 +11,8 @@ wordCount: 4318
 
 ---
 
-Madde 1107 - (1) Kaptanla yaptığı sözleşmenin feshini bildiren donata n, kaptanın, feshi bildirim süresi içinde, yetkilerini kullanmasını yasaklayabilir.
+MADDE 1107- (1) Kaptanla yaptığı sözleşmenin feshini bildiren donatan, kaptanın,
+feshi bildirim süresi içinde, yetkilerini kullanmasını yasaklayabilir.
 
 ---
 

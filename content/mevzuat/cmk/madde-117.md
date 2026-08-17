@@ -19,6 +19,8 @@ yerlerde bulunduğunun kabul edilebilmesine olanak sağlayan olayların varlığ
 (3) Bu sınırlama, şüphelinin veya sanığın bulunduğu yerler ile, izlendiği sırada girdiği
 yerler hakkında geçerli değildir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

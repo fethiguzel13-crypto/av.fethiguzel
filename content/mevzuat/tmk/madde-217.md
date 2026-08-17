@@ -11,8 +11,10 @@ wordCount: 4261
 
 ---
 
-Madde 217 - Mal rejimi, eşler arasındaki borçların muacce l olm asını önlemez. Bununla beraber bir borcun yerine getirilmesi, borçlu eşi evlilik birliğini tehlikeye düşürec ek derecede önemli güçlüklere sokacaksa, bu eş ödeme için süre isteyebilir. Durum ve koşullar gerektiriyorsa , hâkim istemde bulunan eşi güvence göst ermekle yükümlü tutar.
-İKİNCİ AYIRIM EDİNİLMİŞ MALLARA KATILMA A. Mülkiyet I. Kapsamı
+Madde 217- Mal rejimi, eşler arasındaki borçların muaccel olmasını önlemez. Bununla
+beraber bir borcun yerine getirilmesi, borçlu eşi evlilik birliğini tehlikeye düşürecek derecede
+önemli güçlüklere sokacaksa, bu eş ödeme için süre isteyebilir. Durum ve koşullar gerektiriyorsa,
+hâkim istemde bulunan eşi güvence göstermekle yükümlü tutar.
 
 ---
 

@@ -16,6 +16,8 @@ sayılı Tebligat Kanunu hükümlerine göre yapılır.
 (2) Bu maddenin uygulanmasına ilişkin usul ve esaslar ilgilinin yabancı olduğu ve
 varsa özel durumları da dikkate alınarak yönetmelikle düzenlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,11 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4319
 ---
 
-**Madde 646**
+**İKİNCİ AYIRIM
+PAYLAŞMANIN NASIL YAPILACAĞI
+A. Genel olarak**
 
 ---
 
-Madde 646 - Yas al mirasçılar, gerek kendi aralarında, gerek atanmış mirasçılarla birlikte mirası aynı kurallara göre paylaşırlar. Aksine düzenleme olmadıkça mirasçılar, paylaşmanın nasıl yapılacağını serbestçe kararlaştırırlar. Tereke mallarına zilyet olan veya mirasbıra kana borçlu bulunan mirasçı lar, paylaşma sırasında bu konuda eksiksiz bilgi vermekle yükümlüdürler.
+Madde 646- Yasal mirasçılar, gerek kendi aralarında, gerek atanmış mirasçılarla birlikte
+mirası aynı kurallara göre paylaşırlar.
+Aksine düzenleme olmadıkça mirasçılar, paylaşmanın nasıl yapılacağını serbestçe
+kararlaştırırlar.
+Tereke mallarına zilyet olan veya mirasbırakana borçlu bulunan mirasçılar, paylaşma
+sırasında bu konuda eksiksiz bilgi vermekle yükümlüdürler.
 
 ---
 

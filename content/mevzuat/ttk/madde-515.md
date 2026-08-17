@@ -11,7 +11,11 @@ wordCount: 4310
 
 ---
 
-Madde 515 - (1) Anon im şirketlerin finansal tabloları, Türkiye Muhasebe Standartlarına göre şirketin malvarlığını, borç ve yükümlülüklerini, öz kaynaklarını ve faaliyet sonuçlarını tam, anlaşılabilir, karşılaştırılabilir, ihtiyaçlara ve işletmenin niteliğine uygun bir şekilde ; şeffaf ve güvenilir olarak; gerçeği dürüst, aynen ve aslına sadık surette yansıtacak şekilde çıkarılır.
+MADDE 515- (1) Anonim şirketlerin finansal tabloları, Türkiye Muhasebe
+Standartlarına göre şirketin malvarlığını, borç ve yükümlülüklerini, öz kaynaklarını ve
+faaliyet sonuçlarını tam, anlaşılabilir, karşılaştırılabilir, ihtiyaçlara ve işletmenin niteliğine
+uygun bir şekilde; şeffaf ve güvenilir olarak; gerçeği dürüst, aynen ve aslına sadık surette
+yansıtacak şekilde çıkarılır.
 
 ---
 

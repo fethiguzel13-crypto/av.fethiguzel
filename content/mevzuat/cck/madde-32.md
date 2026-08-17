@@ -7,18 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Görevlilerin eğitimleri**
+**Ücret ve sosyal haklar**
 
 ---
 
-Madde 32- (1) Mahkemelerde görevlendirilecek hâkimler ve Cumhuriyet savcıları ile
-sosyal çalışma görevlilerine ve denetimli serbestlik ve yardım merkezi şube müdürlüğünde
-görevli denetim görevlilerine, adaylık dönemlerinde Adalet Bakanlığınca belirlenen esaslara
-uygun çocuk hukuku, sosyal hizmet, çocuk gelişimi ve psikolojisi gibi konularda eğitim
-verilir.
-(2) Mahkemelere görevlendirilenlerin, görevleri süresince, alanlarında uzmanlaşmalarını
-sağlama ve kendilerini geliştirmelerine yönelik hizmet içi eğitim almaları sağlanır.1
-(3) Hizmet öncesi ve hizmet içi eğitimin usûl ve esasları yönetmelikle belirlenir.
+Madde 32- (1) Çalışan hükümlülere ürettiklerinden elde edilen gelirden, çalışmaları
+karşılığı ücret ödenir ve bu hükümlüler sosyal haklardan yararlandırılırlar.
+(2) Sosyal güvenlik kurumlarına tâbi olanlar ile bunların hak sahiplerine yapılan her türlü
+yardım ve giderler, kendi mevzuatları çerçevesinde ilgili sosyal güvenlik kurumunca karşılanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

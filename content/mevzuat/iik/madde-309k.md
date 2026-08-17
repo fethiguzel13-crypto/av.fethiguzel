@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**Hukukî işlemlerin iptali**
+**Hukukî işlemlerin iptali:**
 
 ---
 
@@ -20,7 +20,8 @@ yerini tutar.
 Konkordato masasına yöneltilen taleplerin tasarrufun iptali yoluyla kısmen veya
 tamamen reddini sağlamak mümkün ise konkordato tasfiye memurları, def’î yoluyla iptal
 talebinde bulunmaya yetkili ve yükümlüdürler.
-Uygulanacak ortak hükümler:
+
+---
 
 ### Akademik Yorum ve Analiz
 

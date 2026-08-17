@@ -25,8 +25,7 @@ suçlardan dolayı hakkında suç duyurusunda bulunulan kişilere yapılacak öd
 suçlara ilişkin soruşturmanın başlamasından mahkeme kararının kesinleşmesine kadar durur.
 (4) Aşağıda sayılan kişi ve kurumlar tazmin edilmez:
 a) Yatırımcıları tazmin kararı verilen yatırım kuruluşlarının yönetim kurulu üyeleri,
-
-yöneticileri ve şahsen sorumlu ortakları, yüzde beş veya daha fazla paya sahip ortakları,
+yöneticileri ve şahsen sorumlu ortakları, yüzde beş veya daha fazla paya sahip ortakları,
 denetim kurulu üyeleri veya ilgili yatırım kuruluşları ile aynı grup içinde yer alan diğer
 şirketlerde benzer konumda olan kişiler ile bu kişilerin eş ve ikinci dereceye kadar kan ve
 kayın hısımları ile bu kişiler adına hareket eden üçüncü kişiler
@@ -43,7 +42,9 @@ Bu tutar her yıl ilan edilen yeniden değerleme katsayısı oranında artırıl
 hesap sayısı, türü ve para birimine bakılmaksızın, bir yatırımcının aynı kuruluştan olan
 taleplerinin tümünü kapsar. YTM tarafından ödenecek azami tutarın üzerinde kalan tutarın
 başka bir yatırımcıya ödenmesi amacıyla devredilmiş olması hâlinde devralana YTM
-tarafından ödeme yapılmaz.8
+tarafından ödeme yapılmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

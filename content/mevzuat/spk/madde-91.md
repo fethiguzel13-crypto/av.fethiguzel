@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**hâlinde uygulanacak tedbirler9**
+**İKİNCİ BÖLÜM
+Tedbirler
+Kanuna aykırı ihraçlar ile izahnamede yer alan bilgi ve açıklamalara aykırılık
+hâlinde uygulanacak tedbirler**
 
 ---
 
@@ -25,7 +28,7 @@ kendisinden para toplanan gerçek ve tüzel kişiler ortaklığın bulunduğu ye
 mahkemesine itiraz edebilir. Söz konusu listenin kesinleşmesi üzerine, ilgili ihracı
 gerçekleştiren kişi tarafından hak sahiplerine iade yapılır. Bu iade işlemi tamamlanmadan
 birinci fıkra uyarınca konulan ihtiyati tedbir ve ihtiyati haciz kaldırılamaz.
-(3) (Ek:20/2/2020-7222/36 md.)10 İzahnamede yer alan yatırımcıların yatırım kararını
+(3) (Ek:20/2/2020-7222/36 md.)İzahnamede yer alan yatırımcıların yatırım kararını
 etkileyecek nitelikteki taahhüt ve açıklamalara aykırı davranılması veya taahhütlerin makul
 süre içerisinde yerine getirilmemesi ve Kurulun ilgili düzenlemelerine uygun olarak taahhüt
 ve açıklamalarda değişiklik yapılmamış olması hâlinde, her türlü hukuki ve cezai sorumluluk
@@ -46,16 +49,9 @@ için dava açmaya da yetkilidir.
 ihracın doğurduğu sonuçlar tamamen ortadan kaldırılmazsa, Kurul, nakit ve diğer varlıkların
 hak sahiplerine iadesi veya ortaklığın tasfiyesi için dava açmaya yetkilidir.
 (5) Kendilerinden para toplanan kişilerin genel hükümlerden kaynaklanan hakları
-20/2/2020 tarihli ve 7222 sayılı Kanunun 35 inci maddesiyle, bu madde başlığı “Kanuna aykırı
-ihraçlarda uygulanacak tedbirler” iken metne işlendiği şekilde değiştirilmiştir.
-10
-20/2/2020 tarihli ve 7222 sayılı Kanunun 35 inci maddesiyle, maddeye ikinci fıkradan sonra gelmek
-üzere fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
-9
+saklıdır.
 
-saklıdır.
-
-İhraççıların hukuka aykırı işlemleri ile sermayeyi veya mal varlığını azaltıcı
+---
 
 ### Akademik Yorum ve Analiz
 

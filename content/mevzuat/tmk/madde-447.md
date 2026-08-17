@@ -11,7 +11,11 @@ wordCount: 4314
 
 ---
 
-Madde 447 - Va si, kı sıtlıy ı korumak ve bütün kişisel işlerinde ona yardım etmekle yükümlüdür. Gecikmesinde sakınca bulunan h âllerde vasi, koruma amacıyla özgürlüğün kısıtlanmasına ilişkin hükümlere göre kı sıtlıyı bir kuruma yerleşti rebilir veya orada alıkoyab ilir ve dur umu de rhal vesayet makamına bildirir.
+Madde 447- Vasi, kısıtlıyı korumak ve bütün kişisel işlerinde ona yardım etmekle
+yükümlüdür.
+Gecikmesinde sakınca bulunan hâllerde vasi, koruma amacıyla özgürlüğün kısıtlanmasına
+ilişkin hükümlere göre kısıtlıyı bir kuruma yerleştirebilir veya orada alıkoyabilir ve durumu
+derhal vesayet makamına bildirir.
 
 ---
 

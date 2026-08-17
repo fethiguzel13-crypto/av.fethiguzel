@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Parselasyon planlarının hazırlanması ve tescili**
+**Parselasyon planlarının hazırlanması ve tescili:**
 
 ---
 
@@ -21,6 +21,8 @@ Bir parsel üzerinde birden fazla bina ve tesislerin yapımı gerektiğinde (Koo
 evleri, siteler, toplu konut inşatı gibi) imar parselasyon planları ifraza gerek kalmadan bu
 ihtiyacı karşılayacak şekilde düzenlenir veya değiştirilir ve burada, talep halinde, Kat Mülkiyeti
 Kanunu hükümleri uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

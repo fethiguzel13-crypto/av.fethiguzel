@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**Takasa itiraz**
+**Takasa itiraz:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 201 – Müflisin borçlusu iflasın açılmasından evvel alacaklısını
 bulunduğunu bilerek masanın zararına kendisine veya üçüncü bir şahsa takas suretiyle bir
 menfaat temin etmek için müflise karşı bir alacak ihdas ederse bu takasa mahkemede itiraz
 olunabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

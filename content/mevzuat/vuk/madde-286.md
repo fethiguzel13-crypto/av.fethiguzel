@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4285
 ---
 
-**Tahviller**
+**Tahviller:**
 
 ---
 
 Madde 286 – Eshamlı şirketlerle iktisadi kamu müesseseleri çıkardıkları tahvilleri
 itibari değerleriyle değerlemeye mecburdurlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

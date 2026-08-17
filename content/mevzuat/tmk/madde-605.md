@@ -8,12 +8,14 @@ wordCount: 4309
 ---
 
 **B. Ret
-I. Ret be yanı
+I. Ret beyanı
 1. Ret hakkı**
 
 ---
 
-Madde 605 - Yasal ve atanmış mirasçılar mirası reddedebilirler. Ölümü tar ihinde mirasbırakanın ödeme den aczi açıkça belli veya resmen tespit edilmiş ise, miras reddedilmiş sayılır.
+Madde 605-Yasal ve atanmış mirasçılar mirası reddedebilirler.
+Ölümü tarihinde mirasbırakanın ödemeden aczi açıkça belli veya resmen tespit edilmiş
+ise, miras reddedilmiş sayılır.
 
 ---
 

@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**Diğer mali tebligat**
+**Diğer mali tebligat:**
 
 ---
 
 Madde 51 – Mali tebliğler, kendi kanunlarında sarahat bulunmıyan hallerde, bu
 kanunun umumi hükümlerine tevfikan yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

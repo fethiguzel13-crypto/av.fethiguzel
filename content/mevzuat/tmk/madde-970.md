@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4318
 ---
 
-**Madde 970**
+**DÖRDÜNCÜ AYIRIM
+REHİNLİ TAHVİL
+A. Niteliği**
 
 ---
 
-Madde 970 - İşletme o larak taşınmaz rehni karşılığında ödünç verme işiyle uğraşmak üzere yetkili makamdan izin alanlar, özel bir rehin sözleşmesi ve teslim yükümlülüğü olmasa bile, taşınmaz rehniyle güvence altına a lınmış alacakları ile cari işlerinden doğan alacaklarını karşı lık göstererek rehinli tahvil çıkarabilirler.
+Madde 970- İşletme olarak taşınmaz rehni karşılığında ödünç verme işiyle uğraşmak
+üzere yetkili makamdan izin alanlar, özel bir rehin sözleşmesi ve teslim yükümlülüğü olmasa
+bile, taşınmaz rehniyle güvence altına alınmış alacakları ile cari işlerinden doğan alacaklarını
+karşılık göstererek rehinli tahvil çıkarabilirler.
 
 ---
 

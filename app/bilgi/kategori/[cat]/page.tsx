@@ -4,9 +4,9 @@ import { notFound } from 'next/navigation';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import {
-  VATANDAS_ARTICLES,
-  getVatandasCategories,
-} from '@/lib/vatandas-rehberi';
+  PUBLISHED_ARTICLES,
+  getPublishedCategories,
+} from '@/lib/vatandas-rehberi/published';
 import { BookOpen } from 'lucide-react';
 
 const SITE = 'https://www.avfethiguzel.com';
@@ -14,13 +14,13 @@ const SITE = 'https://www.avfethiguzel.com';
 type Props = { params: Promise<{ cat: string }> };
 
 export function generateStaticParams() {
-  return getVatandasCategories().map((cat) => ({ cat }));
+  return getPublishedCategories().map((cat) => ({ cat }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { cat: raw } = await params;
   const cat = decodeURIComponent(raw);
-  const items = VATANDAS_ARTICLES.filter((a) => a.category === cat);
+  const items = PUBLISHED_ARTICLES.filter((a) => a.category === cat);
   if (!items.length) return { title: 'Kategori bulunamadı' };
   const url = `${SITE}/bilgi/kategori/${encodeURIComponent(cat)}`;
   return {
@@ -41,7 +41,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function BilgiKategoriPage({ params }: Props) {
   const { cat: raw } = await params;
   const cat = decodeURIComponent(raw);
-  const items = VATANDAS_ARTICLES.filter((a) => a.category === cat).sort((a, b) => {
+  const items = PUBLISHED_ARTICLES.filter((a) => a.category === cat).sort((a, b) => {
     const ra = a.role === 'pillar' ? 0 : 1;
     const rb = b.role === 'pillar' ? 0 : 1;
     return ra - rb || a.h1.localeCompare(b.h1, 'tr');
@@ -86,7 +86,7 @@ export default async function BilgiKategoriPage({ params }: Props) {
             <li key={a.slug}>
               <Link
                 href={`/bilgi/${a.slug}`}
-                className="block h-full rounded-2xl border border-charcoal/8 bg-white/60 hover:bg-white hover:border-accent/30 p-4 transition-colors"
+                className="block h-full rounded-2xl border border-charcoal/[0.08] bg-white/60 hover:bg-white hover:border-accent/30 p-4 transition-colors"
               >
                 <div className="flex gap-2">
                   <BookOpen className="text-accent shrink-0 mt-0.5" size={16} />

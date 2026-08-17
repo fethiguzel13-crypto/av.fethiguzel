@@ -29,6 +29,8 @@ yargılama başka bir güne bırakılamaz. Ancak, dosyanın incelenmemiş olmas�
 dayanıyorsa, hâkim bir defaya mahsus olmak üzere, kısa bir süre verebilir. Verilen süre
 sonunda, dosya incelenmemiş olsa bile davaya devam olunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

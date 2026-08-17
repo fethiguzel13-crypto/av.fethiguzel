@@ -23,6 +23,8 @@ için diğer tedbirlerin yeterli olmayacağının anlaşılması hâlinde ve ilg
 rızasına dayalı olarak 27/12/2007 tarihli ve 5726 sayılı Tanık Koruma Kanunu hükümlerine
 göre kimlik ve ilgili diğer bilgi ve belgelerinin değiştirilmesi.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

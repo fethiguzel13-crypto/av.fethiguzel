@@ -11,7 +11,7 @@ wordCount: 4304
 
 ---
 
-Madde 291 - Bağışlayan bağışlamasına yüklemeler koyabilir.
+MADDE 291- Bağışlayan bağışlamasına yüklemeler koyabilir.
 Bağışlayan, sözleşme gereğince bağışlanan tarafından kabul edilmiş olan yüklemelerin
 yerine getirilmesini isteyebilir.
 Kamu yararına olarak bağışlamaya konulmuş olan bir yüklemenin yerine getirilmesini

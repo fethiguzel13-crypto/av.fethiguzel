@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**Kişisel sorumluluk ve zarar**
+**Kişisel sorumluluk ve zarar:**
 
 ---
 
@@ -21,6 +21,8 @@ Zararların ödettirilmesinde bu konudaki genel hükümler uygulanır. Ancak fii
 meydana geldiği tarihte en alt derecenin birinci kademesinde bulunan memurun brüt aylığının
 yarısını geçmeyen zararlar, kabul etmesi halinde disiplin amiri veya yetkili disiplin kurulu
 kararına göre ilgili memurca ödenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

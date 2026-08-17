@@ -18,8 +18,7 @@ a) Temyiz eden ile karşı tarafın davadaki sıfatları, adı, soyadı, Türkiy
 kimlik numarası ve adresleri.
 b) Bunların varsa kanuni temsilci ve vekillerinin adı, soyadı ve adresleri.
 c) Temyiz edilen kararın hangi bölge adliye mahkemesi hukuk dairesinden verilmiş
-
-olduğu, tarihi ve sayısı.
+olduğu, tarihi ve sayısı.
 ç) Yargıtayın bozma kararı üzerine, bozmaya uygun olarak ilk derece mahkemesince
 verilen yeni kararın veya direnme kararına karşı temyizde direnme kararının, hangi mahkemeye
 ait olduğu, tarihi ve sayısı.
@@ -31,6 +30,8 @@ g) Duruşma istenmesi hâlinde bu istek.
 (3) Temyiz dilekçesinin, temyiz edenin kimliği ve imzasıyla temyiz olunan kararı yeteri
 kadar belli edecek kayıtları taşıması hâlinde, diğer şartlar bulunmasa bile reddolunmayıp temyiz
 incelemesi yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

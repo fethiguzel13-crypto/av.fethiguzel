@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**2. Ana ve babanın çocuğa yeterli ilgiyi g österm emesi veya ona karşı yükümlülükleri ni ağır biçimde savsaklaması. Velâyet ana ve babanın her ikisinden ka ldırılırsa çocuğa bir vasi atanır. Kararda aksi belirtilmedikçe, velâyetin kaldı rılması mevcut ve doğacak b ütün çocukları kapsar.
-2. Ana veya ba banın yenide n evlenmesi hâlinde**
+**2. Ana veya babanın yeniden evlenmesi hâlinde**
 
 ---
 
-Madde 349 - Velâyete sahip ana veya babanın yeniden evlenmesi, velâyetin kaldı rılmasını gerektirmez. Ancak, çocuğun menfaati gerektirdiğinde velâ yet sahibi değ iştirilebileceği gibi, duru m ve koşullara göre velâyet kaldırılar ak çoc uğa vasi de atanabilir.
+Madde 349- Velâyete sahip ana veya babanın yeniden evlenmesi, velâyetin kaldırılmasını
+gerektirmez. Ancak, çocuğun menfaati gerektirdiğinde velâyet sahibi değiştirilebileceği gibi,
+durum ve koşullara göre velâyet kaldırılarak çocuğa vasi de atanabilir.
 
 ---
 

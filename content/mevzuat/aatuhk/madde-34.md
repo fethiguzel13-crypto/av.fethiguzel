@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**Ortaklığın feshini isteme**
+**Ortaklığın feshini isteme:**
 
 ---
 
@@ -17,6 +17,8 @@ takdirde, borçlunun sermayesi eshama münkasim olmıyan ortaklıklardaki hissel
 alacağının tahsili için genel hükümler dairesinde ortaklığın feshi istenebilir.
 Sermayesi eshama münkasim komandit şirketlerinin komandite şeriklerinin borçları
 için bu madde hükmü mezkür şirketler hakkında da tatbik olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

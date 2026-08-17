@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**Konut finansmanı sözleşmeleri**
+**ÜÇÜNCÜ BÖLÜM
+Konut Finansmanı
+Konut finansmanı sözleşmeleri**
 
 ---
 
@@ -17,7 +19,9 @@ kiralanması, sahip oldukları konutların teminatı altında tüketicilere kred
 bu kredilerin yeniden finansmanı amacıyla kredi kullandırılmasına yönelik sözleşmedir.
 (2) Konut finansmanı sözleşmesi yazılı veya mesafeli olarak kurulmadıkça geçerli
 olmaz. Geçerli bir sözleşme yapmamış olan konut finansmanı kuruluşu, sonradan sözleşmenin
-geçersizliğini tüketicinin aleyhine olacak şekilde ileri süremez.6
+geçersizliğini tüketicinin aleyhine olacak şekilde ileri süremez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

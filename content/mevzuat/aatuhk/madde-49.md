@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**İcranın kaza mercilerince tehiri**
+**İcranın kaza mercilerince tehiri:**
 
 ---
 
@@ -18,7 +18,9 @@ müddet içinde ve kaza mercilerinin tehiri dolayısiyle zamanında ödenmemiş 
 birlikte yeniden taksite bağlanarak alınır. Kaza mercilerinin tehir müddeti tecil müddetinden
 çok ise; evvelce yapılan tecil hükümsüzdür.
 Takibatın kaza mercilerince tehiri kanuni tecil müddetini aştığı takdirde tecil müddeti
-uzatılmaz.23
+uzatılmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**İstinaf**
+**İKİNCİ BÖLÜM
+İstinaf
+İstinaf**
 
 ---
 
@@ -19,12 +21,14 @@ mahkemesince re'sen incelenir.
 (3) Ancak;
 a) (Değişik: 31/3/2011-6217/23 md.) Hapis cezasından çevrilen adlî para cezaları
 hariç olmak üzere, sonuç olarak belirlenen onbeşbin Türk Lirası dâhil adlî para cezasına
-mahkûmiyet hükümlerine,115
+mahkûmiyet hükümlerine,
 b) Üst sınırı beşyüz günü geçmeyen adlî para cezasını gerektiren suçlardan beraat
 hükümlerine,
 c) Kanunlarda kesin olduğu yazılı bulunan hükümlere,
 Karşı istinaf yoluna başvurulamaz. (Ek cümle:14/4/2020-7242/17 md.) Bu suretle
 verilen hükümler tekerrüre esas olmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

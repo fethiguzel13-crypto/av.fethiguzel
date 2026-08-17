@@ -15,6 +15,8 @@ Madde 10- (1) Yabancı ülkede Türkiye namına memuriyet veya görev üstlenmi�
 da bundan dolayı bir suç işleyen kimse, bu fiile ilişkin olarak yabancı ülkede hakkında
 mahkûmiyet hükmü verilmiş bulunsa bile, Türkiye'de yeniden yargılanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**Alacaklılar toplantısı ve projenin kabulü için gerekli çoğunluk**
+**Alacaklılar toplantısı ve projenin kabulü için gerekli çoğunluk:**
 
 ---
 
@@ -16,6 +16,8 @@ Komiser alacaklılar toplantısına başkanlık eder ve borçlunun durumu hakkı
 rapor verir.
 Borçlu gerekli açıklamaları yapmak üzere toplantıda hazır bulunmaya mecburdur.
 Konkordato projesi;
+Bu maddenin “Kanun yollarına başvurma:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı Kanunun 27 nci
+maddesiyle metne işlendiği şekilde değiştirilmiştir.
 a) Kaydedilmiş olan alacaklıların ve alacakların yarısını veya
 b) Kaydedilmiş olan alacaklıların dörtte birini ve alacakların üçte ikisini,
 aşan bir çoğunluk tarafından imza edilmiş ise kabul edilmiş sayılır.
@@ -34,6 +36,8 @@ içinde gerçekleşen iltihaklar da kabul olunur.
 Komiser, iltihak süresinin bitmesinden itibaren en geç yedi gün içinde konkordatoya
 ilişkin bütün belgeleri, konkordato projesinin kabul edilip edilmediğine ve tasdikinin uygun
 olup olmadığına dair gerekçeli raporunu mahkemeye tevdi eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

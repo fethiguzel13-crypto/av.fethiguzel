@@ -25,8 +25,7 @@ ya da verilmemesine dair kararlar aleyhine, tebliğ tarihinden itibaren on beş 
 nezdinde itiraz yoluna başvurulabilir. İzin verilmiş olsa dahi, itiraz süresi geçene kadar veya
 Danıştaya yapılan itiraz sonucunda hüküm tesis olunana kadar soruşturma başlatılamaz.
 (3) Kurul Başkan ve üyeleri ile Kurul personelinin, görevden ayrılmış olsalar dahi,
-
-görevleriyle bağlantılı olarak işledikleri iddia edilen suçlardan dolayı başlatılan soruşturma ve
+görevleriyle bağlantılı olarak işledikleri iddia edilen suçlardan dolayı başlatılan soruşturma ve
 kovuşturmalar, ilgili üye veya personelin talebi hâlinde, bunlarla vekâlet akdi yapmak
 suretiyle görevlendirilecek bir avukat tarafından takip edilir. Söz konusu davalara ilişkin dava
 giderleri ve Türkiye Barolar Birliğince açıklanan asgari ücret tarifesinde belirlenen avukatlık
@@ -40,6 +39,8 @@ sonucunda Kurul aleyhine karar verilmesi ve kararın kesinleşmesi nedeniyle Kur
 yapması hâlinde, Kurul bu meblağı, ilgililerinden talep eder. Kurulun, yaptığı ödemeleri
 ilgililerinden talep edebilmesi için, bu kişiler hakkında kusurlu olduklarına ilişkin mahkeme
 kararının kesinleşmesi gerekir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

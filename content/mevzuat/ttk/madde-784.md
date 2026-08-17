@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**II
-- Kabul yasağı**
+**II - Kabul yasağı**
 
 ---
 
-Madde 784 - (1) Çek hakkında kabul işlemi yapılamaz. Çek üzerine yazılmış bir kabul kaydı, yazılmamış sayılır.
+MADDE 784- (1) Çek hakkında kabul işlemi yapılamaz. Çek üzerine yazılmış bir
+kabul kaydı, yazılmamış sayılır.
 
 ---
 

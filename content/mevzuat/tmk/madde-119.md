@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**B. Nişanlılığın h ükümleri
+**B. Nişanlılığın hükümleri
 I. Dava hakkının bulunmaması**
 
 ---
 
-Madde 119 - Nişanlılık, evlenmeye zorlamak için dava hakkı verm ez. Evlenmeden kaçınma hâli için öngörülen cayma tazminatı veya ceza şartı dava edilemez; ancak yapılan ödemeler de geri istenemez.
+Madde 119- Nişanlılık, evlenmeye zorlamak için dava hakkı vermez.
+Evlenmeden kaçınma hâli için öngörülen cayma tazminatı veya ceza şartı dava edilemez;
+ancak yapılan ödemeler de geri istenemez.
 
 ---
 

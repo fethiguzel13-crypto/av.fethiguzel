@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Yayalara ilk geçiş hakkı verilmesi**
+**Yayalara ilk geçiş hakkı verilmesi:**
 
 ---
 
@@ -18,6 +18,8 @@ yavaşlamak, varsa buralardan geçen veya geçmek üzere bulunan yayalara durara
 hakkını vermek zorundadırlar.
 Bu madde hükümlerine uymayan sürücüler 488 Türk lirası idari para cezası ile
 cezalandırılırlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -27,9 +27,10 @@ getirilmesi,
 d) Belirli bir piyasadaki hakimiyetin yaratmış olduğu finansal, teknolojik ve ticari
 avantajlardan yararlanarak başka bir mal veya hizmet piyasasındaki rekabet koşullarını
 bozmayı amaçlayan eylemler,
-
-e) Tüketicinin zararına olarak üretimin, pazarlamanın ya da teknik gelişmenin
+e) Tüketicinin zararına olarak üretimin, pazarlamanın ya da teknik gelişmenin
 kısıtlanması.
+
+---
 
 ### Akademik Yorum ve Analiz
 

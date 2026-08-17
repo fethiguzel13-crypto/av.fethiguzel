@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**Delil tespitinin istenebileceği hâller**
+**İKİNCİ BÖLÜM
+Delil Tespiti ve Diğer Geçici Hukuki Korumalar
+Delil tespitinin istenebileceği hâller**
 
 ---
 
@@ -18,6 +20,8 @@ yapılmasını talep edebilir.
 (2) Delil tespiti istenebilmesi için hukuki yararın varlığı gerekir. Kanunda açıkça
 öngörülen hâller dışında, delilin hemen tespit edilmemesi hâlinde kaybolacağı yahut ileri
 sürülmesinin önemli ölçüde zorlaşacağı ihtimal dâhilinde bulunuyorsa hukuki yarar var sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

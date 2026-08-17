@@ -18,6 +18,8 @@ Plâtformlar, kanunların dernekler için yasakladığı amaç ve faaliyet konul
 doğrultusunda kurulamazlar ve faaliyet gösteremezler. Bu yasağa aykırı hareket edenler
 hakkında, bu Kanun ve ilgili kanunların cezaî hükümleri uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

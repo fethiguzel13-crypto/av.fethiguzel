@@ -12,8 +12,7 @@ wordCount: 4292
 ---
 
 MADDE 57/A- (Ek:6/12/2019-7196/78 md.)
-
-(1) 57 nci maddenin ikinci fıkrasında sayılan yabancılara ya da idari gözetimi
+(1) 57 nci maddenin ikinci fıkrasında sayılan yabancılara ya da idari gözetimi
 sonlandırılan yabancılara aşağıdaki idari gözetime alternatif yükümlülükler getirilebilir:
 a) Belirli adreste ikamet etme
 b) Bildirimde bulunma
@@ -41,7 +40,8 @@ alınabilir.
 içerisinde mücbir sebepler ve mahkeme sürecinin sona ermemesi halleri saklı kalmak
 kaydıyla Türkiye’den çıkmaması durumunda teminat Hazineye irat kaydedilir.
 (8) Bu maddenin uygulanmasına ilişkin usul ve esaslar Bakanlıkça düzenlenir.
-Geri gönderme merkezleri
+
+---
 
 ### Akademik Yorum ve Analiz
 

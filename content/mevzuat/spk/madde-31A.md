@@ -35,7 +35,8 @@ kabul edildiği tarih itibarıyla durur, ihtiyati tedbir ve ihtiyati haciz karar
 takip muamelesi ile kesilebilen zamanaşımı ve hak düşüren müddetler işlemez. Borçlanma
 aracından doğan tüm borçlar ifa edildikten sonra duran takipler düşer.
 (6) Kurul, bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye yetkilidir.
-Teminat yönetim sözleşmesi ve teminat yöneticisi
+
+---
 
 ### Akademik Yorum ve Analiz
 

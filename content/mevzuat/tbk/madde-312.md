@@ -11,7 +11,7 @@ wordCount: 4288
 
 ---
 
-Madde 312 - Taşınmaz kiralarında, sözleşmeyle kiracının kiracılık hakkının tapu
+MADDE 312- Taşınmaz kiralarında, sözleşmeyle kiracının kiracılık hakkının tapu
 siciline şerhi kararlaştırılabilir.
 
 ---

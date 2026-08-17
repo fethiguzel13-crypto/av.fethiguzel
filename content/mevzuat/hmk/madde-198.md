@@ -13,6 +13,8 @@ wordCount: 4296
 
 MADDE 198- (1) Kanuni istisnalar dışında hâkim delilleri serbestçe değerlendirir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

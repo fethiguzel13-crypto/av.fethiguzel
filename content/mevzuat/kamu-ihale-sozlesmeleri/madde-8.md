@@ -7,20 +7,21 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**Fiyat farkı verilebilmesi**
+**İKİNCİ KISIM
+Sözleşmenin Uygulanması
+BİRİNCİ BÖLÜM
+Fiyat Farkı, Sigorta, Mücbir Sebepler, Denetim, Muayene ve Kabul İşlemleri
+Fiyat farkı verilebilmesi**
 
 ---
 
 Madde 8- Sözleşme türlerine göre fiyat farkı verilebilmesine ilişkin esas ve usulleri
-tespite Kamu İhale Kurumunun teklifi üzerine Cumhurbaşkanı yetkilidir.2
+tespite Kamu İhale Kurumunun teklifi üzerine Cumhurbaşkanı yetkilidir.
 Sözleşmelerde yer alan fiyat farkına ilişkin esas ve usullerde sözleşme imzalandıktan
 sonra değişiklik yapılamaz.
 (Ek fıkra: 10/9/2014-6552/13 md.) 4/1/2002 tarihli ve 4734 sayılı Kamu İhale
 Kanununun 62 nci maddesinin birinci fıkrasının (e) bendi uyarınca ihale edilen işlerde, 22/5/2003
-2 2/7/2018 tarihli ve 700 sayılı KHK’nin 140 ıncı maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-
-
-tarihli ve 4857 sayılı İş Kanununun 2 nci maddesinde tanımlanan asıl işveren-alt işveren ilişkisi
+tarihli ve 4857 sayılı İş Kanununun 2 nci maddesinde tanımlanan asıl işveren-alt işveren ilişkisi
 çerçevesinde alt işveren tarafından münhasıran bu Kanun kapsamına giren kamu kurum ve
 kuruluşlarına ait işyerlerinde çalıştırılan işçileri kapsayacak olan toplu iş sözleşmeleri; alt
 işverenin yetkilendirmesi kaydıyla merkezi yönetim kapsamındaki kamu idarelerinin üyesi
@@ -41,6 +42,8 @@ yapılmış işler ile devam eden işlerin, 22/9/2012 tarihinden sonra gerçekle
 kullanılan akaryakıta ilişkin olarak özel tüketim vergisinde gerçekleşen artış nedeniyle fiyat farkı
 hesaplanmasında 3l/8/20l3 tarihli ve 28751 sayılı Resmî Gazete’de yayımlanan 2013/5217 sayılı
 Bakanlar Kurulu Kararı hükümleri uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

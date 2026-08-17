@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**Neticeler, takipler ve müddetler**
+**Neticeler, takipler ve müddetler:**
 
 ---
 
@@ -22,6 +22,9 @@ veya iflâsa karar verilemez.
 süresince uzatılır. Aynı kural, aynî teminatlarda, taşınmaz rehni ile temin edilmiş alacakların
 faizleri için de geçerlidir.
 Borçlunun tasarruf hakları:
+A – Umumiyetle:
+
+---
 
 ### Akademik Yorum ve Analiz
 

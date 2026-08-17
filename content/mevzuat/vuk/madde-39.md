@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**Tekalif cetveli**
+**Tekalif cetveli:**
 
 ---
 
@@ -20,6 +20,8 @@ Tekalif cetvellerinde aşağıdaki malümat bulunur:
 binaların iradı ve arazinin kıymeti toplam olarak gösterilir);
 4. Binaların safi iradı;
 5. Tahakkuk eden vergi.
+
+---
 
 ### Akademik Yorum ve Analiz
 

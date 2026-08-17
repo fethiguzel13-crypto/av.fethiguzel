@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Devlete ve Kamu Kuruluşlarına Ait Araçlar**
+**Devlete ve Kamu Kuruluşlarına Ait Araçlar:**
 
 ---
 
@@ -19,6 +19,8 @@ oldukları zararlardan dolayı, bu Kanunun işletenin hukuki sorumluluğuna ili�
 uygulanır. Bu kuruluşlar, 85 inci maddenin birinci fıkrasına göre olan sorumluluklarının
 karşılanmasını sağlamak üzere 101 inci maddedeki şartları haiz milli sigorta şirketlerine mali
 sorumluluk sigortası yaptırmakla yükümlüdürler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

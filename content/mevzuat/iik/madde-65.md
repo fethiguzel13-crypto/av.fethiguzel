@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4286
 ---
 
-**4 – Gecikmiş itiraz**
+**4 – Gecikmiş itiraz:**
 
 ---
 
@@ -28,6 +28,8 @@ Daha önce borçlunun mallarına haciz konulmuşsa mazeretin kabulü kararının
 veya tebliği tarihinden itibaren alacaklı yedi gün içinde, icra mahkemesinden itirazın
 kaldırılmasını istemez veya aynı süre içinde 67 nci maddeye göre mahkemeye başvurmazsa
 haciz kalkar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

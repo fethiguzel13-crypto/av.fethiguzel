@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Malûl sayılma**
+**DÖRDÜNCÜ BÖLÜM
+Uzun Vadeli Sigorta Hükümleri
+Malûl sayılma**
 
 ---
 
@@ -25,7 +27,7 @@ gücünün %60'ını veya vazifesini yapamayacak derecede meslekte kazanma güc�
 aylığından yararlanamaz.
 Yedek subay, yedek astsubay veya erbaş ve er olarak ya da talim, manevra, seferberlik
 veya harp dolayısıyla görevleri ile ilgileri kesilmeksizin silâh altına alındıkları dönemde malûl
-olüp, bu malûllükleri asıl görevlerini veya işlerini yapmaya mani olmayanlar hakkında, bu
+olup, bu malûllükleri asıl görevlerini veya işlerini yapmaya mani olmayanlar hakkında, bu
 hastalık veya engellilik hâlleri sebebiyle malûllük sigortasına ilişkin hükümler uygulanmaz.
 4 üncü maddenin birinci fıkrasının (c) bendi kapsamındaki sigortalıların yazılı talepleri
 halinde, haklarında bu madde hükümleri uygulanmaksızın malûllüklerinin mani olmadığı başka
@@ -38,7 +40,7 @@ almadıkça bu haklarını kullanamazlar.
 4 üncü maddenin birinci fıkrasının (c) bendi kapsamındaki sigortalılardan, vazifelerini
 yapamayacak derecede hastalığa uğrayanlar, hastalıkları kanunlarında tayin edilen sürelerden
 fazla devam etmesi halinde, hastalıklarının mahiyetlerine ve doğuş sebeplerine göre birinci
-fıkra uyarınca malûl veya 47 nci madde hükümlerine göre vazife malûlü sayılırler.
+fıkra uyarınca malûl veya 47 nci madde hükümlerine göre vazife malûlü sayılırlar.
 4 üncü maddenin birinci fıkrasının (c) bendi kapsamındaki sigortalılardan; personel
 kanunlarına tabi olmayanların hastalık sebebiyle malûl sayılmalarına esas alınacak hastalık
 süresi hakkında kendi özel kanunları yürürlüğe girinceye kadar 657 sayılı Devlet Memurları
@@ -47,6 +49,8 @@ geçen hastalığı en çok bir yıl içinde nüksetmesi halinde eski ve yeni ha
 birleştirilmek suretiyle işlem yapılır.
 Bu maddenin uygulanmasına ilişkin usûl ve esaslar, Kurum tarafından çıkarılacak
 yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

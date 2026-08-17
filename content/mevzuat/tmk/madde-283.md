@@ -12,7 +12,8 @@ I. Yetki**
 
 ---
 
-Madde 283 - Soybağına ilişkin davalar, taraflardan birinin dava veya doğum sıra sında ki ye rleşim yeri mahkemesinde açılır.
+Madde 283 - Soybağına ilişkin davalar, taraflardan birinin dava veya doğum sırasındaki
+yerleşim yeri mahkemesinde açılır.
 
 ---
 

@@ -7,14 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**III
-- Tarafların borç ve yükümlülükleri
+**III - Tarafların borç ve yükümlülükleri
 1. Sigortacının borç ve yükümlülükleri
-a) Rizikoyu taşıma yükümlülüğü aa) Genel olarak**
+a) Rizikoyu taşıma yükümlülüğü
+aa) Genel olarak**
 
 ---
 
-Madde 1421 - (1) Aksine sözleşme yoksa, sigortacının sorumluluğu primin veya ilk taksidinin ödenmesi ile başlar; kara ve denizde eşya taşıma işlerine ilişkin sigortalarda, sigortacı, sözleşmenin yapılmasıyla sorumlu olur. (2) 1430 uncu madde hükmü saklıdır. bb) İmkânsızlık
+MADDE 1421- (1) Aksine sözleşme yoksa, sigortacının sorumluluğu primin veya ilk
+taksidinin ödenmesi ile başlar; kara ve denizde eşya taşıma işlerine ilişkin sigortalarda,
+sigortacı, sözleşmenin yapılmasıyla sorumlu olur.
+(2) 1430 uncu madde hükmü saklıdır.
 
 ---
 

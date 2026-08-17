@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**Kağıtların ve plakaların basım ve dağıtımı ile ilgili gelirden pay ayrılması**
+**Kağıtların ve plakaların basım ve dağıtımı ile ilgili gelirden pay ayrılması:**
 
 ---
 
@@ -15,10 +15,10 @@ Madde 131 – (Değişik: 19/4/1989 – 3538/2 md.)
 Trafik şube veya bürolarında ve Milli Eğitim Bakanlığınca açılma izni verilmiş
 motorlu taşıt sürücüleri kurslarında iş sahipleri ve kursiyerlerce verilmesi ve kullanılması
 lüzumlu basılı kağıtlarla plakaların cins ve nevileri İçişleri Bakanlığı ile Bayındırlık ve İskan
-Banaklığınca tespit edilir.
+Bakanlığınca tespit edilir.
 Basılı kağıtlar ile plakalar Türkiye Şöförler ve Otomobilciler Federasyonunca bastırılır
 ve maliyetleri nazari itibara alınmak suretiyle İçişleri Bakanlığı ile Bayındırlık ve İskan
-Banaklığı ve Türkiye Şoförler ve Otomobilciler Federasyonunca birlikte tespit edilecek bedel
+Bakanlığı ve Türkiye Şoförler ve Otomobilciler Federasyonunca birlikte tespit edilecek bedel
 mukabilinde il merkezlerinde veya kuruluşu bulunan ilçelerde, adı geçen Federasyonca
 İçişleri Bakanlığının tespit edeceği esaslara göre verilir.
 (Değişik: 21/2/2001 – 4629/6 md.) Basılı kağıtlar ve plakaların tespit edilen bedel
@@ -45,6 +45,8 @@ ile diğer hususlar İçişleri Bakanlığınca belirlenir.
 kâğıtlar ve tescil plakalarının yetkilendirilenler dışında basımını veya dağıtımını yapanlara
 10.000 Türk Lirası idari para cezası verilir. Ayrıca bu kişiler Türk Ceza Kanununun 204 üncü
 maddesi hükmüne göre cezalandırılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

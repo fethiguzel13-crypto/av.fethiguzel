@@ -43,7 +43,7 @@ function SisterInner({ compact = false, variant = 'light' }: Props) {
               className={
                 dark
                   ? 'flex flex-col gap-0.5 rounded-xl border border-cream/10 bg-cream/5 px-3 py-2.5 transition-colors hover:border-accent/50 hover:bg-accent/15'
-                  : 'flex flex-col gap-0.5 rounded-xl border border-charcoal/8 bg-cream/60 px-3 py-2.5 transition-colors hover:border-accent/40 hover:bg-accent/5'
+                  : 'flex flex-col gap-0.5 rounded-xl border border-charcoal/[0.08] bg-cream/60 px-3 py-2.5 transition-colors hover:border-accent/40 hover:bg-accent/5'
               }
               style={{ borderLeftWidth: 3, borderLeftColor: a.accent }}
             >

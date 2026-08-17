@@ -19,6 +19,8 @@ ilişkinse, rizikonun gerçekleştiği yerde de açılabilir.
 açılacak davalarda onların yerleşim yeri mahkemesi kesin yetkilidir.
 (3) Bu hüküm deniz sigortalarından doğan davalarda uygulanmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

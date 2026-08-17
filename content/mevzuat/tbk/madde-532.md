@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**A. Alım veya satım komisyonculuğu
+**ONBİRİNCİ BÖLÜM
+Komisyon Sözleşmesi
+A. Alım veya satım komisyonculuğu
 I. Tanımı**
 
 ---
 
-Madde 532 - Alım veya satım komisyonculuğu, komisyoncunun ücret karşılığında,
+MADDE 532- Alım veya satım komisyonculuğu, komisyoncunun ücret karşılığında,
 kendi adına ve vekâlet verenin hesabına kıymetli evrak ve taşınırların alım veya satımını
 üstlendiği sözleşmedir.
 Bu bölümdeki hükümler saklı kalmak üzere, komisyon sözleşmelerine vekâlet

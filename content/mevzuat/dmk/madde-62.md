@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**Atamalarda görev yerine hareket ve işe başlama süresi**
+**Atamalarda görev yerine hareket ve işe başlama süresi:**
 
 ---
 
@@ -16,9 +16,8 @@ Madde 62 – (Değişik: 23/12/1972 – KHK-2/1 md.)
 a) Aynı yerdeki görevlere atananlar atama emirlerinin kendilerine tebliğ gününü,
 b) Başka yerdeki görevlere atananlar, atama emirlerinin kendilerine tebliğ tarihinden
 itibaren 15 gün içerisinde o yere hareket ederek belli yol süresini,
-
-izleyen iş günü içinde işe başlamak zorundadırlar. Savaş ve olağanüstü hallerde bu
-süre Cumhurbaşkanı Kararı ile kısaltılabilir.139
+izleyen iş günü içinde işe başlamak zorundadırlar. Savaş ve olağanüstü hallerde bu
+süre Cumhurbaşkanı Kararı ile kısaltılabilir.
 Yukarıdaki süreler;
 1 - Kanuni izinlerin kullanılması veya geçici bir görevin yapılması sırasında başka bir
 göreve atanan memurlar için iznin veya geçici görevin bitimi,
@@ -33,6 +32,8 @@ saymanlıklarca derhal ödenir. Memurun izinli ve raporlu olması tebligata enge
 beraber (a) ve (b) bentlerindeki süreler izin ve rapor müddetinin bitmesinde başlar.
 Bu maddede geçen "yer" deyiminin kapsamı İçişleri ve Maliye Bakanlıklarınca
 birlikte belirtilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

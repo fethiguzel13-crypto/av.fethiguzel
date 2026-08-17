@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Yalan beyan**
+**Yalan beyan:**
 
 ---
 
@@ -20,11 +20,11 @@ c) Muhatap olmadığı veya muhatap namına tebellüğ etmeye yetkisi bulunmadı
 tebliğ memuruna hüviyet ve sıfatı hakkında yalan beyanda bulunarak tebliğ evrakını alan
 kimse,
 her bir bentte tanımlanan fiil dolayısıyla bir yıla kadar hapis cezasıyla cezalandırılır.
-
-
-Yukarıki bentlerde yazılı hallerde bir gecikme veya umumi veyahut hususi bir zarar
+Yukarıki bentlerde yazılı hallerde bir gecikme veya umumi veyahut hususi bir zarar
 husule gelirse fail hakkında ayrıca (a) ve (b) bentlerindeki fiiller için üç aydan bir yıla ve (c)
 bendindeki fiil için bir yıldan beş yıla kadar hapis cezası hükmolunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

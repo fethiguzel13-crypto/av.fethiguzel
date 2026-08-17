@@ -23,6 +23,8 @@ yaparlar.
 (4) Bir borsa kotunda bulunan bir sermaye piyasası aracı, bu Kanun ve ilgili
 düzenlemeler çerçevesinde başka bir borsada da kota alınabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

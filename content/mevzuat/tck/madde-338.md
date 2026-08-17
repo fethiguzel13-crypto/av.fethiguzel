@@ -18,6 +18,8 @@ taksirle davranan faile altı aydan üç yıla kadar hapis cezası verilir.
 etkinliğini veya askerî hareketlerini tehlikeyle karşı karşıya bırakmış ise, taksirle davranan
 faile üç yıldan sekiz yıla kadar hapis cezası verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

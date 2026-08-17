@@ -7,21 +7,19 @@ lastReviewed: "2026-07-27"
 wordCount: 3640
 ---
 
-**Eşlerden biri zina ederse, diğer eş boşanma davası açabilir.**
+**İKİNCİ BÖLÜM
+BOŞANMA
+A. Boşanma sebepleri
+I. Zina**
 
 ---
 
-Madde 161 - Eşlerden biri zina ederse, diğer eş boşanma davası açabilir.
-
-Davaya
-hakkı olan eşin boşanma sebebini öğrenmesinden başlayarak altı ay ve her hâlde
+Madde 161- Eşlerden biri zina ederse, diğer eş boşanma davası açabilir.
+Davaya hakkı olan eşin boşanma sebebini öğrenmesinden başlayarak altı ay ve her hâlde
 zina eyleminin üzerinden beş yıl geçmekle dava hakkı düşer.
+Affeden tarafın dava hakkı yoktur.
 
-Affeden
-tarafın dava hakkı yoktur.
-
-II.
-Hayata kast, pek kötü veya onur kırıcı davranış
+---
 
 ### Akademik Yorum ve Analiz
 

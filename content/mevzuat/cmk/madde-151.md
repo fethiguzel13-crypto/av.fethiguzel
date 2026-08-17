@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**yasaklanma54**
+**Müdafi görevini yerine getirmediğinde yapılacak işlem ve müdafilik görevinden
+yasaklanma**
 
 ---
 
@@ -18,15 +19,11 @@ yapar. Bu durumda mahkeme oturuma ara verebileceği gibi oturumun ertelenmesine 
 verebilir.
 (2) Eğer yeni müdafi savunmasını hazırlamak için yeterli zaman olmadığını açıklarsa
 oturum ertelenir.
-Bu madde başlığı " Müdafi görevini yerine getirmediğinde yapılacak işlem" iken 25/5/2005 tarihli
-ve 5353 sayılı Kanunun 22 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-54
-
-(3) (Ek:25/5/2005 - 5353/22 md.) 149 uncu maddeye göre seçilen veya 150 nci
+(3) (Ek:25/5/2005 - 5353/22 md.) 149 uncu maddeye göre seçilen veya 150 nci
 maddeye göre görevlendirilen ve Türk Ceza Kanununun 220 ve 314 üncü maddesinde sayılan
 suçlar ile terör suçlarından şüpheli, sanık veya hükümlü olanların müdafilik veya vekillik
 görevini üstlenen avukat, hakkında bu fıkrada sayılan suçlar nedeniyle kovuşturma bulunması
-halinde müdafilik veya vekillik görevini üstlenmekten yasaklanabilir.5556
+halinde müdafilik veya vekillik görevini üstlenmekten yasaklanabilir.
 (4) (Ek:25/5/2005 - 5353/22 md.) Cumhuriyet savcısının yasaklamaya ilişkin talebi
 hakkında, hâkim veya mahkeme tarafından gecikmeksizin karar verilir. Bu kararlara karşı
 itiraz edilebilir. İtiraz sonucunda yasaklama kararının kaldırılması halinde avukat görevini
@@ -34,12 +31,14 @@ devam ettirir. Müdafilik görevinden yasaklama kararı, kovuşturma konusu suç
 üzere, bir yıl süre ile verilebilir. Ancak, kovuşturmanın niteliği itibariyle bu süreler altı aydan
 fazla olmamak üzere en fazla iki defa uzatılabilir. Soruşturma sonunda kovuşturmaya yer
 olmadığına dair karar verilmesi veya kovuşturma sonunda mahkûmiyet dışında bir karar
-verilmesi halinde, kesinleşmesi beklenmeksizin yasaklama kararı kendiliğinden kalkar.5758
+verilmesi halinde, kesinleşmesi beklenmeksizin yasaklama kararı kendiliğinden kalkar.
 (5) (Ek:25/5/2005 - 5353/22 md.) Görevden yasaklama kararı, şüpheli, sanık veya
-hükümlü ile yeni bir müdafi görevlendirilmesi için derhal ilgili baro başkanlığına bildirilir.59
+hükümlü ile yeni bir müdafi görevlendirilmesi için derhal ilgili baro başkanlığına bildirilir.
 (6) (Ek:25/5/2005 - 5353/22 md.) Müdafi veya vekil görevden yasaklanmış
 bulunduğu sürece başka davalarla ilgili olsa bile müdafiliğini veya vekilliğini üstlendiği kişiyi
 ceza infaz kurumunda veya tutukevinde ziyaret edemez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

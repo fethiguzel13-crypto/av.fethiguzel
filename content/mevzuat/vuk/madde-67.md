@@ -7,13 +7,15 @@ lastReviewed: "2026-07-11"
 wordCount: 2510
 ---
 
-**Ferdi tadilat isteği**
+**Ferdi tadilat isteği:**
 
 ---
 
 Madde 67 – Ferdi tadilat yapılabilmesi için ilgili mükellefin binası veya arazisi için
 tadilat isteğinde bulunması gerekli ve kafidir.
 Vergi daireleri ferdi tadilat isteğinde bulunamazlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

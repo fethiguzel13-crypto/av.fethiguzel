@@ -21,6 +21,8 @@ yanılgıya dayanıyorsa, hâkim karşı tarafın rızasını aramaksızın tara
 edebilir. Bu durumda hâkim, davanın tarafı olmaktan çıkarılan ve aleyhine dava açılmasına
 sebebiyet vermeyen kişi lehine yargılama giderlerine hükmeder.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

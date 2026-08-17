@@ -33,10 +33,12 @@ bu kurullarda işçi temsilciliği görevlerini yapmaları, çalışma hayatı i
 kurulan meclis, kurul, komisyon ve toplantılara yahut işçilik konuları ile ilgili uluslararası
 kuruluşların konferans, kongre veya kurullarına işçi veya sendika temsilcisi olarak katılması
 sebebiyle işlerine devam edemedikleri günler.
-ı) Ek 2 nci maddede sayılan izin süreleri,
+ı) (Değişik: 4/4/2015-6645/35 md.) Ek 2 nci maddede sayılan izin süreleri,
 j) İşveren tarafından verilen diğer izinler ile 65 inci maddedeki kısa çalışma süreleri.
 k) Bu Kanunun uygulanması sonucu olarak işçiye verilmiş bulunan yıllık ücretli izin
 süresi.
+
+---
 
 ### Akademik Yorum ve Analiz
 

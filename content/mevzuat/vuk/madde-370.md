@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4319
 ---
 
-**İzaha davet:145146**
+**145146
+İzaha davet:**
 
 ---
 
-Madde 370 – (Mülga: 30/12/1980-2365/89 md.; Yeniden düzenleme: 15/7/20166728/22 md.) (Değişik:5/12/2019-7194/25 md.)
+Madde 370 – (Mülga: 30/12/1980-2365/89 md.; Yeniden düzenleme: 15/7/2016-
+6728/22 md.) (Değişik:5/12/2019-7194/25 md.)
 a) Vergi incelemesine başlanılmadan veya takdir komisyonuna sevk edilmeden önce
 verginin ziyaa uğradığına delalet eden emareler bulunduğuna dair yetkili merciler tarafından
 yapılmış ön tespitler hakkında tespit tarihine kadar ihbarda bulunulmamış olması kaydıyla
@@ -30,21 +32,7 @@ düzeltilmesi ve ödeme süresi geçmiş bulunan vergilerin, ödemenin geciktiğ
 Bu fıkra, 22/7/1998 tarih ve 4369 sayılı Kanunun 16 ncı maddesiyle eklenmiş, ancak 1/1/2003 tarihinde
 yürürlüğe gireceği için metne işlenmeden, 11/8/1999 tarih ve 4444 sayılı Kanunun 14 üncü maddesiyle
 yürürlükten kaldırılmıştır. (Sözkonusu fıkra için bakınız: Kanunlar külliyatı 6 ncı cilt sayfa 7598)
-144
-Bu madde başlığı “Yanılma:” iken 23/7/2010 tarihli ve 6009 sayılı Kanunun 14 üncü maddesiyle metne
-işlendiği şekilde değiştirilmiştir.
-145
-15/7/2016 tarihli ve 6728 sayılı Kanunun 20 nci maddesiyle, bu madde başlığı metne işlendiği şekilde yeniden
-düzenlenmiştir.
-146
-Bu maddeye kanunla getirilen miktarlar aynen korunmuş olup, daha sonra 30/12/2025 tarihli ve 33124 (5.
-Mükerrer) sayılı Resmî Gazete'de yayımlanan Hazine ve Maliye Bakanlığının (Gelir İdaresi Başkanlığı) 588 Sıra
-No.’lu Tebliği ile 1/1/2026 tarihinden geçerli olmak üzere tespit edilen miktarlar metne parantez içinde siyah
-punto ile işlenmiştir. Daha önce yapılan değişiklikler için bu Kanunun sonundaki "ÇEŞİTLİ MEVZUAT İLE
-YAPILAN DEĞİŞİKLİKLER CETVELİ" ne bakınız.
-143
-
-için, 6183 sayılı Kanunun 51 inci maddesinde belirtilen nispette uygulanacak gecikme zammı
+için, 6183 sayılı Kanunun 51 inci maddesinde belirtilen nispette uygulanacak gecikme zammı
 oranında bir zamla aynı sürede ödenmesi şartıyla vergi ziyaı cezası, ziyaa uğratılan vergi
 üzerinden %20 oranında kesilir. Bu durum vergi incelemesi yapılmasına ve gerekirse
 tarhiyatın ikmaline engel teşkil etmez.
@@ -70,6 +58,8 @@ c) Hazine ve Maliye Bakanlığı bu madde uyarınca ön tespiti ve/veya izaha da
 yapacak ve yapılan izahı değerlendirecek mercii, yapılacak ön tespitin ve/veya izaha davetin
 şekli ve kapsamını, davet yapılacakları, yapılan izahın değerlendirme süresini, yapılan izahta
 kullanılacak bilgi ve belgeler ile uygulamaya ilişkin usul ve esasları belirlemeye yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -16,7 +16,8 @@ MADDE 305/A- (Ek:22/7/2020-7251/27 md.)
 ileri sürülmesine veya kendiliğinden hükme geçirilmesi gerekli olmasına rağmen hakkında
 tamamen veya kısmen karar verilmeyen hususlarda, ek karar verilmesini isteyebilir. Bu karara
 karşı kanun yoluna başvurulabilir.
-Tavzih ve tamamlama talebi ile usulü35
+
+---
 
 ### Akademik Yorum ve Analiz
 

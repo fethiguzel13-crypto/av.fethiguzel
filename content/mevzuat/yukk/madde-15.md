@@ -18,12 +18,9 @@ b) Türkiye’ye girişleri yasaklı olanlar
 c) Kamu düzeni veya kamu güvenliği açısından sakıncalı görülenler
 2/7/2018 tarihli 703 sayılı KHK’nin 71 inci maddesiyle, bu maddede yer alan “Bakanlar Kurulu” ibaresi
 “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-8
 2/7/2018 tarihli 703 sayılı KHK’nin 71 inci maddesiyle, bu maddede yer alan “Bakanlar Kurulunca” ibaresi
 “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-7
-
-ç) Kamu sağlığına tehdit olarak nitelendirilen hastalıklardan birini taşıyanlar
+ç) Kamu sağlığına tehdit olarak nitelendirilen hastalıklardan birini taşıyanlar
 d) Türkiye Cumhuriyeti’nin taraf olduğu anlaşmalar uyarınca, suçluların geri verilmesine
 esas olan suç veya suçlardan sanık olanlar ya da hükümlü bulunanlar
 e) Kalacağı süreyi kapsayan geçerli sağlık sigortası bulunmayanlar
@@ -36,6 +33,8 @@ gereken alacakları ödemeyi kabul etmeyenler veya 26/9/2004 tarihli ve 5237 say
 Kanununa göre takip edilen borç ve cezalarını ödemeyi kabul etmeyenler
 (2) Bu madde kapsamında olmasına rağmen vize verilmesinde yarar görülenlere
 Bakanın onayıyla vize verilebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

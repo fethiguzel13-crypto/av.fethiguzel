@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**Sınıf**
+**KISIM - II
+Sınıflandırma
+Sınıf:**
 
 ---
 
 Madde 32 – (Mülga: 30/5/1974 - KHK-12/7 md.; Aynen kabul: 15/5/1975 - 1897/7
-md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

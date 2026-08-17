@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**Sayman ve sayman mutemetlerinin devir süreleri ve aylıkları**
+**Sayman ve sayman mutemetlerinin devir süreleri ve aylıkları:**
 
 ---
 
@@ -16,7 +16,8 @@ Hesaplarını, görevi devralanlara devir zorunluluğu bulunan saymanların devi
 yedi gündür. Devir teslim süresinin aylık ödeme zamanına rastlaması halinde bu aya ait
 aylıkları eski görev yerinde, kadro tasarrufundan ödenir.
 Sayman mutemetleri için devir süresi iki gündür.
-Görev yeri değiştirilenlerden eski görevlerine devamları tebliğ edilenlerin
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -8,12 +8,12 @@ wordCount: 4276
 ---
 
 **E) Yolcunun yükümlülükleri
-I
-- Kaptanın talimatına uyma**
+I- Kaptanın talimatına uyma**
 
 ---
 
-Madde 1251 - (1) Yolcu, kaptanın, gemide düzenin sağlanmasına yönelik tüm talimatına uymak zorundadır.
+MADDE 1251- (1) Yolcu, kaptanın, gemide düzenin sağlanmasına yönelik tüm
+talimatına uymak zorundadır.
 
 ---
 

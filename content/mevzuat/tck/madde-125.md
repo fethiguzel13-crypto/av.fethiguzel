@@ -7,13 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**Hakaret**
+**SEKİZİNCİ BÖLÜM
+Şerefe Karşı Suçlar
+Hakaret**
 
 ---
 
 Madde 125- (1) Bir kimseye onur, şeref ve saygınlığını rencide edebilecek nitelikte
-
-somut bir fiil veya olgu isnat eden (...)56 veya sövmek suretiyle bir kimsenin onur, şeref ve
+somut bir fiil veya olgu isnat eden (...)veya sövmek suretiyle bir kimsenin onur, şeref ve
 saygınlığına saldıran kişi, üç aydan iki yıla kadar hapis veya adlî para cezası ile cezalandırılır.
 Mağdurun gıyabında hakaretin cezalandırılabilmesi için fiilin en az üç kişiyle ihtilat ederek
 işlenmesi gerekir.
@@ -31,6 +32,8 @@ biri oranında artırılır.
 (5) (Değişik: 29/6/2005 – 5377/15 md.) Kurul hâlinde çalışan kamu görevlilerine
 görevlerinden dolayı hakaret edilmesi hâlinde suç, kurulu oluşturan üyelere karşı işlenmiş
 sayılır. Ancak, bu durumda zincirleme suça ilişkin madde hükümleri uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

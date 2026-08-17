@@ -15,6 +15,8 @@ MADDE 267- (1) Mahkeme, bilirkişi olarak, yalnızca bir kişiyi görevlendirebi
 Ancak, gerekçesi açıkça gösterilmek suretiyle, tek sayıda, birden fazla kişiden oluşacak bir
 kurulun bilirkişi olarak görevlendirilmesi de mümkündür.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

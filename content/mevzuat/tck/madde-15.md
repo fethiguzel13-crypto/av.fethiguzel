@@ -15,6 +15,8 @@ Madde 15- (1) Miktarının soruşturma koşulu oluşturduğu hallerde ceza, soru
 evresinde ileri sürülen kanuni ağırlaştırıcı nedenlerin aşağı sınırı ve kanuni hafifletici
 nedenlerin yukarı sınırı göz önünde bulundurularak hesaplanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

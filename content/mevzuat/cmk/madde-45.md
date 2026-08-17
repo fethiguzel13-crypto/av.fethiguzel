@@ -26,6 +26,8 @@ karar veremez.
 (3) Tanıklıktan çekinebilecek olan kimselere, dinlenmeden önce tanıklıktan
 çekinebilecekleri bildirilir. Bu kimseler, dinlenirken de her zaman tanıklıktan çekinebilirler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

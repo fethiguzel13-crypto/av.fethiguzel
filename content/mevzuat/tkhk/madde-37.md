@@ -23,6 +23,8 @@ erken ödenen tutarın kalan vadesi otuz altı ayı aşmayan kredilerde yüzde b
 otuz altı ayı aşan kredilerde ise yüzde ikisini geçemez. Oranların değişken olarak belirlenmesi
 hâlinde tüketiciden erken ödeme tazminatı talep edilemez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

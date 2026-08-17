@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**Madenlerde amortisman**
+**Madenlerde amortisman:**
 
 ---
 
@@ -16,6 +16,8 @@ kaybeden madenlerin ve taş ocaklarının imtiyaz veya maliyet bedelleri, ilgili
 müracaatları üzerine bunların büyüklük ve mahiyetleri göz önünde tutulmak ve her maden
 veya taş ocağı için ayrı ayrı olmak üzere Maliye ve Sanayi Bakanlıklarınca belli edilecek
 nispetler üzerinden yok edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

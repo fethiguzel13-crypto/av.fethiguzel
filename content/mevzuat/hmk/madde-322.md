@@ -16,8 +16,8 @@ hüküm bulunmayan hâllerde, yazılı yargılama usulüne ilişkin hükümler u
 (2) Paylaştırma ve ortaklığın giderilmesi için satış yapılması gereken hâllerde, hâkim
 satış için bir memur görevlendirir. Taşınır ve taşınmaz malların satışı İcra ve İflas Kanunu
 hükümlerine göre yapılır.
-YEDİNCİ KISIM
-Yargılama Giderleri ve Adli Yardım
+
+---
 
 ### Akademik Yorum ve Analiz
 

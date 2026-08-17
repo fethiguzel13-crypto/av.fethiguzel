@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**3. Ölenin desteğinden yoksun kalan kişilerin bu sebeple uğradıkları kayıplar.
-b. Bedensel zarar**
+**b. Bedensel zarar**
 
 ---
 
-Madde 54 - Bedensel zararlar özellikle şunlardır:
+MADDE 54- Bedensel zararlar özellikle şunlardır:
+1. Tedavi giderleri.
+2. Kazanç kaybı.
+3. Çalışma gücünün azalmasından ya da yitirilmesinden doğan kayıplar.
+4. Ekonomik geleceğin sarsılmasından doğan kayıplar.
 
 ---
 

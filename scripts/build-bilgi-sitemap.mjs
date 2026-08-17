@@ -2,18 +2,18 @@
  * Tüm /bilgi sayfaları için ayrı sitemap (Google crawl budget).
  * public/bilgi-sitemap.xml
  */
-import { readFileSync, writeFileSync } from 'node:fs';
+import { writeFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { readPublished } from './lib/read-guides.mjs';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const SITE = 'https://www.avfethiguzel.com';
-const src = readFileSync(join(root, 'lib/vatandas-rehberi/data.ts'), 'utf8');
-const m = src.match(
-  /export const VATANDAS_ARTICLES: VatandasArticle\[\] = (\[[\s\S]*?\n\]);\r?\n\r?\nexport function/
-);
-if (!m) throw new Error('Cannot parse VATANDAS_ARTICLES');
-const articles = JSON.parse(m[1]);
+
+// Kalıp metin içeren rehberler site haritasına GİRMEZ. Sayfa noindex olduğu
+// hâlde sitemap'te durursa Google'a çelişkili sinyal verilir ve tarama
+// bütçesi boşa harcanır. Elle yazılanlar koşulsuz girer.
+const { published: articles, authored, withdrawn } = readPublished(root);
 
 // pillar önce
 articles.sort((a, b) => {
@@ -57,4 +57,8 @@ ${urls
 
 const out = join(root, 'public', 'bilgi-sitemap.xml');
 writeFileSync(out, xml, 'utf8');
-console.log(`[bilgi-sitemap] ${urls.length} URLs → ${out}`);
+console.log(`[bilgi-sitemap] ${urls.length} URL → ${out}`);
+console.log(`[bilgi-sitemap]   ${authored.length} elle yazılan · ${articles.length - authored.length} denetimden geçen`);
+if (withdrawn > 0) {
+  console.log(`[bilgi-sitemap] ${withdrawn} rehber kalıp metin nedeniyle haritaya alınmadı`);
+}

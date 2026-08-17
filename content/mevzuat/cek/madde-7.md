@@ -46,6 +46,8 @@ talep edilmesi üzerine düzenleyicinin banka kayıtlarındaki adreslerinin kend
 hâlinde, ilgili bankaya Cumhuriyet savcısı tarafından beşyüz Türk Lirasından beşbin Türk
 Lirasına kadar idarî para cezası verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

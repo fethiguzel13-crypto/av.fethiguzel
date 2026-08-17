@@ -11,7 +11,7 @@ wordCount: 4287
 
 ---
 
-Madde 110 - Borcun konusu bir şeyin teslimini gerektirmiyorsa, alacaklının temerrüdü
+MADDE 110- Borcun konusu bir şeyin teslimini gerektirmiyorsa, alacaklının temerrüdü
 hâlinde borçlu, borçlunun temerrüdüne ilişkin hükümlere göre sözleşmeden dönebilir.
 
 ---

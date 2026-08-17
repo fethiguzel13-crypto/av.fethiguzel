@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**2. Birden çok kişiye ait ta şınmazlarda**
+**2. Birden çok kişiye ait taşınmazlarda**
 
 ---
 
-Madde 857 - Paylı mülkiyette paydaş kendi payını rehnedebilir. Pay üzerinde reh in kurulduktan sonra paydaşlar malın tamamını rehnedemezler. Elbirliği mülkiyetine tâbi taşınmaz, ancak bütün olarak ve maliklerin tamamı adına 38 2/7/2018 tarihli ve 7 00 sayılı KHK’nin 139 uncu mad desiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+Madde 857- Paylı mülkiyette paydaş kendi payını rehnedebilir.
+Pay üzerinde rehin kurulduktan sonra paydaşlar malın tamamını rehnedemezler.
+Elbirliği mülkiyetine tâbi taşınmaz, ancak bütün olarak ve maliklerin tamamı adına
 rehnolunabilir.
 
 ---

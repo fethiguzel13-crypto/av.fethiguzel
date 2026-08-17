@@ -18,6 +18,8 @@ gönderilmez ve kararı veren mahkemece başvurunun reddine karar verilir. Dosya
 adliye mahkemesine gönderilmiş ve henüz karara bağlanmamış ise başvuru feragat nedeniyle
 reddolunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

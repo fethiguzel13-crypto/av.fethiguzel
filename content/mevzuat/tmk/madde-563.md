@@ -12,7 +12,12 @@ wordCount: 4260
 
 ---
 
-Madde 563 - Tenkis, mirasbırakanın arzusunun başka türlü olduğu tasarruftan anlaşılmadıkça, mira sçı atanması yoluyla veya diğer bir ölüme bağlı tasarrufla elde edilen kazandırmaların tam amında, orantılı olarak yap ılır. Ölüme bağlı tasarrufla kazandırma elde eden kimse, bazı vasiyetleri yerine getirmekle yükümlü kılınmışsa, kazandırmanın tenkise tâbi tutulması hâlinde, bu kimse mirasbırakanın arzusunun başka türlü olduğu tasarruftan anlaşı lmadıkça vasiyet borçlarını n da aynı oranda tenkis
+Madde 563- Tenkis, mirasbırakanın arzusunun başka türlü olduğu tasarruftan
+anlaşılmadıkça, mirasçı atanması yoluyla veya diğer bir ölüme bağlı tasarrufla elde edilen
+kazandırmaların tamamında, orantılı olarak yapılır.
+Ölüme bağlı tasarrufla kazandırma elde eden kimse, bazı vasiyetleri yerine getirmekle
+yükümlü kılınmışsa, kazandırmanın tenkise tâbi tutulması hâlinde, bu kimse mirasbırakanın
+arzusunun başka türlü olduğu tasarruftan anlaşılmadıkça vasiyet borçlarının da aynı oranda tenkis
 edilmesini isteyebilir.
 
 ---

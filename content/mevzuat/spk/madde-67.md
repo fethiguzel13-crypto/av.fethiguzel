@@ -31,8 +31,7 @@ onaylanan yönetmeliklerle belirlenir.
 a) Kambiyo ve kıymetli madenler ile kıymetli taşların işlem gördüğü borsalarda işlem
 yapma yetkisi verilmesine ilişkin esaslar ile yetki verilenlerin yükümlülüklerinin belirlendiği
 yönetmelik için Hazine Müsteşarlığının,
-
-b) Enerji ürünlerinin işlem gördüğü borsalarda işlem yapma yetkisi verilmesine ilişkin
+b) Enerji ürünlerinin işlem gördüğü borsalarda işlem yapma yetkisi verilmesine ilişkin
 esaslar ile yetki verilenlerin yükümlülüklerinin belirlendiği yönetmelik için Enerji ve Tabii
 Kaynaklar Bakanlığı ile Enerji Piyasası Düzenleme Kurumunun,
 görüşleri alınır.
@@ -40,6 +39,8 @@ görüşleri alınır.
 ilgili olarak düzenlemeler yapmaya ve bunları uygulamaya, bu düzenlemelere tabi kurum ve
 kuruluşlar nezdinde bunlara uygun hareket edilip edilmediğini ve kendilerine gönderilen
 bilgilerin doğru olup olmadığını denetlemeye görevli ve yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

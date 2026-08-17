@@ -11,7 +11,10 @@ wordCount: 4308
 
 ---
 
-Madde 172 - Süre bitince ayrılık durumu kendiliğinden sona erer. Ortak hayat yeniden kurulmamışsa, eşlerden her biri boşanma davası açabilir. Boşanmanın sonuçları düzenlenirken ilk davada ispatlan mış o lan o laylar ve ayrılık süresinde ortaya çıkan durumlar göz önünde tutulur.
+Madde 172- Süre bitince ayrılık durumu kendiliğinden sona erer.
+Ortak hayat yeniden kurulmamışsa, eşlerden her biri boşanma davası açabilir.
+Boşanmanın sonuçları düzenlenirken ilk davada ispatlanmış olan olaylar ve ayrılık
+süresinde ortaya çıkan durumlar göz önünde tutulur.
 
 ---
 

@@ -11,7 +11,8 @@ wordCount: 4319
 
 ---
 
-Madde 976 - Fiilî hâkimiyetin geçici ni telikteki sebeplerle kullanılmaması veya kullanma olanağının o rtadan kalkması zilyetliği sona erdirmez. B. Zilyetliğin devri I. Hazırlar arasında Madd e 977 - Zilyetlik, şeyin veya şey üzerinde hâkimiyeti sağlayacak araçların, edinene teslimi veya edinenin önceki zilyedin rızasıyla şey üzerinde hâkimiyeti kullanacak duruma gelmesi hâlinde devredilmiş olur.
+Madde 976- Fiilî hâkimiyetin geçici nitelikteki sebeplerle kullanılmaması veya kullanma
+olanağının ortadan kalkması zilyetliği sona erdirmez.
 
 ---
 

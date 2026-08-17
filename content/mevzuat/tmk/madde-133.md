@@ -11,7 +11,8 @@ wordCount: 4294
 
 ---
 
-Madde 133 - Akıl hastaları, evlenmelerinde tıbbî sakınca bulun madığı resmî sağlık kurulu raporuyla anlaşılmadıkça evlenemezler. ÜÇÜNCÜ AYIRIM EVLENME BAŞVURUSU VE TÖRENİ A. Başvuru I. Başvuru makamı
+Madde 133- Akıl hastaları, evlenmelerinde tıbbî sakınca bulunmadığı resmî sağlık kurulu
+raporuyla anlaşılmadıkça evlenemezler.
 
 ---
 

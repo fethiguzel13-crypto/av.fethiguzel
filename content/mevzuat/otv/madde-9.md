@@ -15,6 +15,8 @@ Madde 9 – Özel tüketim vergisine tâbi malların, yer aldığı listedeki ba
 imalinde kullanılması halinde ödenen vergi, Maliye Bakanlığınca belirlenen esaslara göre
 ödenecek vergiden indirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

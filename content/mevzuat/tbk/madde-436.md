@@ -11,7 +11,7 @@ wordCount: 4285
 
 ---
 
-Madde 436 - İşverenin ödeme güçsüzlüğüne düşmesi hâlinde işçi, sözleşmeden
+MADDE 436- İşverenin ödeme güçsüzlüğüne düşmesi hâlinde işçi, sözleşmeden
 doğan hakları uygun bir süre içinde işveren tarafından güvenceye bağlanmazsa, sözleşmeyi
 derhâl feshedebilir.
 

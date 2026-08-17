@@ -17,6 +17,8 @@ b) Bina çökmesine, toprak kaymasına, çığ düşmesine, sel veya taşkına,
 Neden olan kişi, fiilin başkalarının hayatı, sağlığı veya malvarlığı bakımından tehlikeli
 olması halinde, üç aydan bir yıla kadar hapis cezası ile cezalandırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

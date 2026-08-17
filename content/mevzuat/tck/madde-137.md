@@ -16,6 +16,8 @@ a) Kamu görevlisi tarafından ve görevinin verdiği yetki kötüye kullanılma
 b) Belli bir meslek ve sanatın sağladığı kolaylıktan yararlanmak suretiyle,
 İşlenmesi halinde, verilecek ceza yarı oranında artırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

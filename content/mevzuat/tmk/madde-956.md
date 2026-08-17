@@ -7,19 +7,16 @@ lastReviewed: "2026-07-27"
 wordCount: 3600
 ---
 
-**Hamile yazılı senetlerin rehni için senetlerin rehin alacaklısına**
+**II. Kıymetli evrakta**
 
 ---
 
-Madde 956 - Hamile yazılı senetlerin rehni için senetlerin rehin alacaklısına
-teslimi yeterlidir.
+Madde 956- Hamile yazılı senetlerin rehni için senetlerin rehin alacaklısına teslimi
+yeterlidir.
+Diğer kıymetli evrakın rehni için senedin ciro edilmiş veya yazılı devir beyanı yapılmış
+olarak teslimi gerekir.
 
-Diğer
-kıymetli evrakın rehni için senedin ciro edilmiş veya yazılı devir beyanı
-yapılmış olarak teslimi gerekir.
-
-III.
-Emtiayı temsil eden senetlerde
+---
 
 ### Akademik Yorum ve Analiz
 

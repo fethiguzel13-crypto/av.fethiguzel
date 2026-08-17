@@ -7,11 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**Kanun Hükmünde Kararname yürürlükten kaldırılmıştır.**
+MADDE 141 – (9/12/1994 tarihli ve 4059 sayılı Hazine Müsteşarlığının Teşkilat
 
 ---
-
-MADDE 141 – (9/12/1994 tarihli ve 4059 sayılı Hazine Müsteşarlığının Teşkilat
 
 ### Akademik Yorum ve Analiz
 

@@ -13,8 +13,7 @@ wordCount: 4262
 
 Madde 226- (1) a) Bir çocuğa müstehcen görüntü, yazı veya sözleri içeren ürünleri
 veren ya da bunların içeriğini gösteren, okuyan, okutan veya dinleten,
-
-b) Bunların içeriklerini çocukların girebileceği veya görebileceği yerlerde ya da alenen
+b) Bunların içeriklerini çocukların girebileceği veya görebileceği yerlerde ya da alenen
 gösteren, görülebilecek şekilde sergileyen, okuyan, okutan, söyleyen, söyleten,
 c) Bu ürünleri, içeriğine vakıf olunabilecek şekilde satışa veya kiraya arz eden,
 d) Bu ürünleri, bunların satışına mahsus alışveriş yerleri dışında, satışa arz eden, satan
@@ -31,7 +30,7 @@ cezası ile cezalandırılır.
 hapis ve beşbin güne kadar adlî para cezası ile cezalandırılır. Bu ürünleri ülkeye sokan,
 çoğaltan, satışa arz eden, satan, nakleden, depolayan, ihraç eden, bulunduran ya da başkalarının
 kullanımına sunan kişi, iki yıldan beş yıla kadar hapis ve beşbin güne kadar adlî para cezası ile
-cezalandırılır.93
+cezalandırılır.
 (4) Şiddet kullanılarak, hayvanlarla, ölmüş insan bedeni üzerinde veya doğal olmayan
 yoldan yapılan cinsel davranışlara ilişkin yazı, ses veya görüntüleri içeren ürünleri üreten,
 ülkeye sokan, satışa arz eden, satan, nakleden, depolayan, başkalarının kullanımına sunan
@@ -45,6 +44,8 @@ cezalandırılır.
 hükmolunur.
 (7) Bu madde hükümleri, bilimsel eserlerle; üçüncü fıkra hariç olmak ve çocuklara
 ulaşması engellenmek koşuluyla, sanatsal ve edebi değeri olan eserler hakkında uygulanmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

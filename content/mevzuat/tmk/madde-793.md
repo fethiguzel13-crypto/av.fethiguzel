@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**b. Yüklü taşınmazın b ölünmesi**
+**b. Yüklü taşınmazın bölünmesi**
 
 ---
 
-Madde 793 - Yüklü taşınmazın parsellere bölünmesi hâli nde kural, irtifak hakkının her parsel üzerinde devam etmesidir. Ancak, irtifak hakkı beli rli parseller üzerinde kullanılmıyorsa, durum ve koşullara göre de kullanılamayacaksa, bu parsellerin ma liklerinden her biri, kendi taşınmazı üzerindeki irtifak hakkı nın terkinini isteyebilir. Tapu sicil memuru, bu istemi irtifak hakkı sahibine bildirir ve onun bir ay içinde itiraz etmemesi hâlinde irtifak hakkını terkin eder. İKİNCİ AYIRIM İNTİFA HAKKI VE DİĞER İRTİFAK HAKLARI A. İntifa hakkı I. Konusu
+Madde 793- Yüklü taşınmazın parsellere bölünmesi hâlinde kural, irtifak hakkının her
+parsel üzerinde devam etmesidir.
+Ancak, irtifak hakkı belirli parseller üzerinde kullanılmıyorsa, durum ve koşullara göre de
+kullanılamayacaksa, bu parsellerin maliklerinden her biri, kendi taşınmazı üzerindeki irtifak
+hakkının terkinini isteyebilir.
+Tapu sicil memuru, bu istemi irtifak hakkı sahibine bildirir ve onun bir ay içinde itiraz
+etmemesi hâlinde irtifak hakkını terkin eder.
 
 ---
 

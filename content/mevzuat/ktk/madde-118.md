@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**geri alınması:85**
+**geri alınması:**
 
 ---
 
@@ -28,6 +28,9 @@ Ceza puanlarının tespit ve uygulanmasına ait usul ve esaslar yönetmelikte g�
 (Değişik: 21/5/1997-4262/4 md.) Bu madde ve diğer ilgili maddelerdeki hükümlere
 göre sürücü belgeleri geri alınanlardan, geri alma süresi içinde araç kullandığı tespit edilenler,
 bu Kanunun 36 ncı maddesinin üçüncü fıkrasına göre cezalandırılırlar.
+İşlenen suçlar nedeniyle sürücü belgelerinin geri alınması ve yerine getirilmesi:
+
+---
 
 ### Akademik Yorum ve Analiz
 

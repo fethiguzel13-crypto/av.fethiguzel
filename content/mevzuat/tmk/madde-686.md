@@ -12,7 +12,11 @@ wordCount: 4266
 
 ---
 
-Madde 686 - Bir şeye ilişkin tasarruflar, aksi belirtilmedikçe onun eklentisi ni de kapsar. Eklenti, asıl şey malikinin anlaşılabilen arzusuna veya yerel âdetlere göre, işletilmesi, korunması vey a yarar sağlaması için asıl şeye sürekli olarak özgülenen ve kullanılmasında birleştirme, takma veya başka bir biçimde asıl şeye bağlı kılı nan taşınır maldır. Eklenti, asıl şeyden geçici olarak ayrılmakla bu niteliğini kaybetmez .
+Madde 686- Bir şeye ilişkin tasarruflar, aksi belirtilmedikçe onun eklentisini de kapsar.
+Eklenti, asıl şey malikinin anlaşılabilen arzusuna veya yerel âdetlere göre, işletilmesi,
+korunması veya yarar sağlaması için asıl şeye sürekli olarak özgülenen ve kullanılmasında
+birleştirme, takma veya başka bir biçimde asıl şeye bağlı kılınan taşınır maldır.
+Eklenti, asıl şeyden geçici olarak ayrılmakla bu niteliğini kaybetmez.
 
 ---
 

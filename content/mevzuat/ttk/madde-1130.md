@@ -11,7 +11,8 @@ wordCount: 4276
 
 ---
 
-Madde 1130 - (1) Bu Bölümde hüküm bulunm ayan hâllerde Türk Borçlar Kanununun adi kira sözleşmeleri hakkındaki hükümleri nitelikleri elverdiği ölçüde uygulanır. İKİNCİ BÖLÜM Zaman Çarteri Sözleşmesi A) Tanımı
+MADDE 1130- (1) Bu Bölümde hüküm bulunmayan hâllerde Türk Borçlar
+Kanununun adi kira sözleşmeleri hakkındaki hükümleri nitelikleri elverdiği ölçüde uygulanır.
 
 ---
 

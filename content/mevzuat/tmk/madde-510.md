@@ -12,7 +12,12 @@ I. Sebepleri**
 
 ---
 
-Madde 510 - Aşağıdaki durumlarda mirasbırakan, ölüme bağlı bir ta sarrufla saklı paylı mirasçısını mirasçılıktan çıkarab ilir: 1. Mirasçı, mirasbıra kana veya mirasbırakanın ya kınlarından birine karşı ağ ır bir suç işlemi şse, 2. Mirasçı, mirasbırakana veya mirasbırakanın ailesi üyelerine karşı aile hukukundan doğan yükümlül üklerini önemli ölçüde yerine getirmemişse.
+Madde 510- Aşağıdaki durumlarda mirasbırakan, ölüme bağlı bir tasarrufla saklı paylı
+mirasçısını mirasçılıktan çıkarabilir:
+1. Mirasçı, mirasbırakana veya mirasbırakanın yakınlarından birine karşı ağır bir suç
+işlemişse,
+2. Mirasçı, mirasbırakana veya mirasbırakanın ailesi üyelerine karşı aile hukukundan
+doğan yükümlülüklerini önemli ölçüde yerine getirmemişse.
 
 ---
 

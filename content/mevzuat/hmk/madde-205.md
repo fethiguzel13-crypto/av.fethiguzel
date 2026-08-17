@@ -18,6 +18,8 @@ hükmündedir.
 (3) Hâkim, mahkemeye delil olarak sunulan elektronik imzalı belgenin, güvenli
 elektronik imza ile oluşturulmuş olup olmadığını resen inceler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

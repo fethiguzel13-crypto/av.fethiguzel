@@ -17,6 +17,8 @@ düzenlenmesi, uzmanlık dallarına göre hangi bölümlerde çalıştırılacak
 bu Kanunun yürürlük tarihinden itibaren altı ay içinde Adalet ve İçişleri Bakanlıklarınca
 müştereken çıkarılacak yönetmelikte belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

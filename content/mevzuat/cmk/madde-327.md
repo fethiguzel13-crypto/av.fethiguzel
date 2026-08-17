@@ -15,6 +15,8 @@ Madde 327 – (1) Hakkında beraat veya ceza verilmesine yer olmadığına karar
 kişi, sadece kendi kusurundan ileri gelen giderleri ödemeye mahkûm edilir.
 (2) Bu kişinin önceden ödemek zorunda kaldığı giderler, Devlet Hazinesince üstlenilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

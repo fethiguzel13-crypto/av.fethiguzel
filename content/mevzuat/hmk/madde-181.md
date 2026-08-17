@@ -15,6 +15,8 @@ MADDE 181- (1) Kısmen ıslaha başvuran tarafa, ıslah ettiği usul işlemini y
 için bir haftalık süre verilir. Bu süre içinde ıslah edilen işlem yapılmazsa, ıslah hiç
 yapılmamış gibi davaya devam edilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

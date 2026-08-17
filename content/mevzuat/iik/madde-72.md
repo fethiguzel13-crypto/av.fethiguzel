@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**Menfi tesbit ve istirdat davaları:35**
+**Menfi tesbit ve istirdat davaları:**
 
 ---
 
@@ -22,19 +22,9 @@ durdurulmasına karar verilemez. Ancak, borçlu gecikmeden doğan zararları kar
 alacağın yüzde onbeşinden aşağı olmamak üzere göstereceği teminat karşılığında,
 mahkemeden ihtiyati tedbir yoluyle icra veznesindeki paranın alacaklıya verilmemesini
 istiyebilir.
-
 Bu fıkrada yer alan “kararı temyiz eden” ibaresi, 2/3/2005 tarihli ve 5311 sayılı Kanunun 8 inci maddesiyle
 “karara karşı istinaf yoluna başvuran” şeklinde değiştirilmiştir.
-34
-2/7/2012 tarihli ve 6352 sayılı Kanunun 14 üncü maddesiyle, bu fıkrada yer alan “yüzde kırkından” ibaresi
-“yüzde yirmisinden” şeklinde değiştirilmiştir.
-35
-2/7/2012 tarihli ve 6352 sayılı Kanunun 15 inci maddesiyle, 72 nci maddenin dördüncü fıkrasında yer alan
-“yüzde kırktan” ibaresi “yüzde yirmiden” ve beşinci fıkrasında yer alan “yüzde kırkından” ibaresi “yüzde
-yirmisinden” olarak değiştirilmiştir.
-33
-
-(Değişik: 9/11/1988-3494/6 md.) Dava alacaklı lehine neticelenirse ihtiyati tedbir
+(Değişik: 9/11/1988-3494/6 md.) Dava alacaklı lehine neticelenirse ihtiyati tedbir
 kararı kalkar. Buna dair hükmün kesinleşmesi halinde alacaklı ihtiyati tedbir dolayısıyla
 alacağını geç almış bulunmaktan doğan zararlarını gösterilen teminattan alır. Alacaklının
 uğradığı zarar aynı davada takdir olunarak karara bağlanır. Bu zarar herhalde yüzde yirmiden
@@ -53,6 +43,8 @@ umumi hükümler dairesinde mahkemeye başvurarak paranın geriye alınmasını 
 Menfi tesbit ve istirdat davaları, takibi yapan icra dairesinin bulunduğu yer
 mahkemesinde açılabileceği gibi, davalının yerleşim yeri mahkemesinde de açılabilir. Davacı
 istirdat davasında yalnız paranın verilmesi lazımgelmediğini ispata mecburdur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

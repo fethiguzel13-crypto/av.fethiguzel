@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Değerlemede esas**
+**Değerlemede esas:**
 
 ---
 
 Madde 260 – Değerlemede, iktisadi kıymetlerden her biri tek başına nazara alınır.
 Teamülen aynı cinsten sayılan malları ve düşük kıymetli müteferik eşyayı toplu olarak
 değerlemek caizdir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,14 +7,13 @@ lastReviewed: "2026-07-11"
 wordCount: 2630
 ---
 
-**İfraz ve birleştirme**
+**İfraz ve birleştirme:**
 
 ---
 
 Madde 69 – Bir bina veya arazinin taksim veya ifraz edilmesi (Arazinin parsellenmek
 suretiyle arsalar haline getirilmesi hariç) dolayısiyle yapılacak tadilatta binanın gayrısafi iradı
-
-ve arazinin kıymeti yeniden takdir edilmeyip vergide kayıtlı gayrısafi irat veya kıymet müfrez
+ve arazinin kıymeti yeniden takdir edilmeyip vergide kayıtlı gayrısafi irat veya kıymet müfrez
 parçalar veya hisseler arasında her parça veya hissenin yüz ölçümüne ve mevki ve şerefine
 göre taksim olunur.
 63 üncü maddenin 10 uncu bendinde yazılı halde yapılacak tadilatta birleştirilen bina
@@ -24,6 +23,8 @@ veya kıymeti olur.
 Birleştirilen parçalardan bir kısmının vergide kayıtlı gayrısafi irat veya kıymeti
 bulunmadığı hallerde yalnız bu parça veya hisselere gayrısafi irat veya kıymet takdir olunarak
 yukarıki fıkra gereğince işlem yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

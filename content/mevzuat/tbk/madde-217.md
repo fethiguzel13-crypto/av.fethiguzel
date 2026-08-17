@@ -12,7 +12,7 @@ a. Tam zapt hâlinde**
 
 ---
 
-Madde 217 - Satılanın tamamı alıcının elinden alınmışsa, satış sözleşmesi
+MADDE 217- Satılanın tamamı alıcının elinden alınmışsa, satış sözleşmesi
 kendiliğinden sona ermiş sayılır ve alıcı satıcıdan aşağıdaki istemlerde bulunabilir:
 1. Satılandan elde ettiği veya elde etmeyi ihmal eylediği ürünlerin değeri indirilerek,
 ödemiş olduğu satış bedelinin faizi ile birlikte geri verilmesini.

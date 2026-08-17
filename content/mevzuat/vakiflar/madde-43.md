@@ -24,6 +24,8 @@ kadroya atanırlar. Bu durumda Genel Müdürlükte geçirdikleri süreler atand�
 geçmiş gibi değerlendirilir. Akademik unvanların kazanılmasına ilişkin hükümler saklı
 kalmak kaydıyla üniversitelerden gelen personel hakkında da aynı hükümler uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

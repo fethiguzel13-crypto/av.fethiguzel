@@ -7,12 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4283
 ---
 
-**Mülki İdare Bölümlerinin Kuruluşları**
+**İL İDARESİ KANUNU
+BÖLÜM : I
+Mülki İdare Bölümlerinin Kuruluşları**
 
 ---
 
 Madde 1 – (Değişik: 12/5/1964-469/1 md.)
 Türkiye, merkezi idare kuruluşu bakımından coğrafya durumuna, iktisadi şartlara ve
+kamu hizmetlerinin gereklerine göre illere; iller ilçelere ve ilçeler de bucaklara bölünmüştür.
+
+---
 
 ### Akademik Yorum ve Analiz
 

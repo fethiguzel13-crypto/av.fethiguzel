@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4277
 ---
 
-**Emsal bedeli ve emsal ücreti**
+**Emsal bedeli ve emsal ücreti:**
 
 ---
 
@@ -20,11 +20,7 @@ değerlemenin yapılacağı ayda veya bir evvelki veya bir daha evvelki aylarda 
 emsal bedeli bu satışların miktar ve tutarına göre mükellef tarafından çıkarılacak olan
 "Ortalama satış fiyatı" ile hesaplanır. Bu esasın uygulanması için, aylık satış miktarının, emsal
 bedeli tayin olunacak her bir malın miktarına nazaran % 25 ten az olmaması şarttır.
-28/7/2024 tarihli ve 7524 sayılı Kanunun 7 nci maddesi ile bu fıkraya “ticaret” ibaresinden sonra
-gelmek üzere “ve kıymetli madenler” ibaresi eklenmiştir.
-85
-
-İkinci sıra: (Maliyet bedeli esası) Emsal bedeli belli edilecek malın, maliyet bedeli
+İkinci sıra: (Maliyet bedeli esası) Emsal bedeli belli edilecek malın, maliyet bedeli
 bilinir veya çıkarılması mümkün olursa, bu takdirde mükellef bu maliyet bedeline, toptan
 satışlar için % 5, perakende satışlar için % 10 ilave etmek suretiyle emsal bedelini bizzat belli
 eder.
@@ -37,9 +33,11 @@ mahfuzdur. Ancak, dava açılması verginin tahakkuk ve tahsilini durdurmaz.
 Emsal bedelinin mükellef tarafından bizzat hesaplandığı hallerde, bu hesaplara ait
 kayıt ve cetveller ispat edici kağıtlar olarak muhafaza edilir.
 Yukarıdaki esaslarla mukayyet olmaksızın kaza mercilerinin re'sen biçtikleri değerler
-ile zirai kazanç ölçülerini tesbit eden kararlarda yer alan unsurlar emsal bedeli yerine geçer. 86
+ile zirai kazanç ölçülerini tesbit eden kararlarda yer alan unsurlar emsal bedeli yerine geçer.
 Ücretle yapılan imalatta ücretin gerçek miktarının bilinmemesi veya doğru olarak
 tayin edilememesi hallerinde tesbit edilecek emsal ücret de aynı esaslara göre tayin olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

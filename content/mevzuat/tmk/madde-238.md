@@ -11,7 +11,10 @@ wordCount: 4311
 
 ---
 
-Madde 238 - Mahkemece evliliğin iptal veya boşanma sebebiyle sona erdirilmesine veya m al ay rılığına geçilmesine karar verilmesi hâllerinde, kanundaki artık değere katılmaya ilişkin düzenlemeden farkl ı anlaşmalar, ancak mal rejimi sözleşmesinde bunun açıkça öngörülmüş olması hâlinde geçerlidir.
+Madde 238- Mahkemece evliliğin iptal veya boşanma sebebiyle sona erdirilmesine veya
+mal ayrılığına geçilmesine karar verilmesi hâllerinde, kanundaki artık değere katılmaya ilişkin
+düzenlemeden farklı anlaşmalar, ancak mal rejimi sözleşmesinde bunun açıkça öngörülmüş
+olması hâlinde geçerlidir.
 
 ---
 

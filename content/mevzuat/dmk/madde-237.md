@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Yürürlükten kaldırılan hükümler**
+**Ek Geçici Madde – (Ek: 9/4/1990 – KHK-418/15 md.; İptal: Anayasa
+Mahkemenin 5/2/1992 tarihli ve E. 1990/22, K. 1992/6 sayılı Kararı ile.)
+Ek Geçici Madde – (Ek : 22/9/1991 – KHK-458/1 md.; Mülga: 13/2/2011-6111/117
+md.)
+Yürürlükten kaldırılan hükümler:**
 
 ---
 
@@ -35,12 +39,10 @@ uncu maddeleri, 12/10/1960 tarihli ve 99 sayılı Kanunun 1 inci maddesi, 933 sa
 4 ve 8 inci maddeleri hükümleri saklıdır.
 Hizmet sözleşmesi esasları Bakanlar Kurulu kararı ile tespit olunur.
 f) (Ek : 25/6/1973 – 1757/224 md.) Toprak ve Tarım Reformu Kanununun 189, 191,
-192, 193, 195, 197, 199 ve 200 üncü maddeleri hükümleri saklıdır.323
+192, 193, 195, 197, 199 ve 200 üncü maddeleri hükümleri saklıdır.
 Kanunun yürürlüğe girmesi:
 
-Anayasa Mahkemesinin 19/10/1976 tarihli ve E. 1973/42, K.1976/48 sayılı Kararı ile 25/6/1973 tarihli ve
-1757 sayılı Toprak ve Tarım Reformu Kanunu iptal edilmiştir.
-323
+---
 
 ### Akademik Yorum ve Analiz
 

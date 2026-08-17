@@ -11,7 +11,9 @@ wordCount: 4313
 
 ---
 
-Madde 85 - Yönetim kurulu, derneğin yürütme ve temsil organıdır; bu görevini kanuna ve dernek tüz üğüne uygun olarak yerine getirir. Temsil görevi, yönetim kurulunca, üyelerden birine veya bir üçün cü kişiye verilebilir.
+Madde 85- Yönetim kurulu, derneğin yürütme ve temsil organıdır; bu görevini kanuna ve
+dernek tüzüğüne uygun olarak yerine getirir.
+Temsil görevi, yönetim kurulunca, üyelerden birine veya bir üçüncü kişiye verilebilir.
 
 ---
 

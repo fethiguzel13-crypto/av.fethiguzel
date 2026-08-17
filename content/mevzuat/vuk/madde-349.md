@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Ağır Kusurda Ceza**
+**Ağır Kusurda Ceza:**
 
 ---
 
@@ -16,6 +16,8 @@ Kusurda ceza:
 Mükerrer madde 349 – (Ek: 30/12/1980-2365/75 md.; Mülga: 22/7/1998-4369/82
 md.)
 Tahrire dayanan vergiler ile kanuni süresi geçtikten sonra kendiliğinden verilen
+
+---
 
 ### Akademik Yorum ve Analiz
 

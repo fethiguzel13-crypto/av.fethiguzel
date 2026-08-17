@@ -11,7 +11,9 @@ wordCount: 4287
 
 ---
 
-Madde 1276 - (1) Geminin 1279 uncu ma ddeye göre zararın tespiti ve paylaştırılması gereken limandan ayrılabilmesi için, gemiye düşen garame paylarına karşılık olarak yükle ilgililere teminat gösterilmesi zorunludur.
+MADDE 1276- (1) Geminin 1279 uncu maddeye göre zararın tespiti ve paylaştırılması
+gereken limandan ayrılabilmesi için, gemiye düşen garame paylarına karşılık olarak yükle
+ilgililere teminat gösterilmesi zorunludur.
 
 ---
 

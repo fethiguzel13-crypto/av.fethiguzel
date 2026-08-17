@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**3. S igorta alacakları**
+**3. Sigorta alacakları**
 
 ---
 
-Madde 509 - Mirasbırakanın kendi ölümünde ödenmek üzere üçüncü k işi lehine hayat sigortası sözleşmesi yapması veya böy le bir kişi yi son radan lehdar olarak tayin etmesi ya da sigortacıya karşı ol an istem hakkını sağlararası veya ölüme bağlı tasarrufla karşılıksız olarak üçüncü kişiye devretmesi hâlinde, sigorta alacağın ın mirasbırakanın ölümü zam anındaki satın alma değeri terekeye ek lenir.
+Madde 509- Mirasbırakanın kendi ölümünde ödenmek üzere üçüncü kişi lehine hayat
+sigortası sözleşmesi yapması veya böyle bir kişiyi sonradan lehdar olarak tayin etmesi ya da
+sigortacıya karşı olan istem hakkını sağlararası veya ölüme bağlı tasarrufla karşılıksız olarak
+üçüncü kişiye devretmesi hâlinde, sigorta alacağının mirasbırakanın ölümü zamanındaki satın
+alma değeri terekeye eklenir.
 
 ---
 

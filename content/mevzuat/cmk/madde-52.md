@@ -22,6 +22,8 @@ Tanıklığında bu kayıt zorunludur.
 (4) Üçüncü fıkra hükmünün uygulanması suretiyle elde edilen ses ve görüntü kayıtları,
 sadece ceza muhakemesinde kullanılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

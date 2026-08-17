@@ -11,7 +11,8 @@ wordCount: 4281
 
 ---
 
-Madde 809 - İntifa hakkı k endisinde kalmak üzere yapılan bağışlamalarda bağışlayandan güvence istenemez.
+Madde 809- İntifa hakkı kendisinde kalmak üzere yapılan bağışlamalarda bağışlayandan
+güvence istenemez.
 
 ---
 

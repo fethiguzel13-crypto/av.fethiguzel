@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Arazide amortisman**
+**Arazide amortisman:**
 
 ---
 
@@ -17,6 +17,8 @@ Ancak:
 güllüklerle incir bahçeleri ve bağlar gibi tarım tesisleri;
 2. İşletmede inşa edilmiş olan her nevi yollar ve harklar;
 Amortismana tabi tutulur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

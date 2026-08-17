@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Sürelerin hesabı**
+**Sürelerin hesabı:**
 
 ---
 
 Madde 92 – Bu Kanunda yazılı sürelerin hesaplanmasında hüküm bulunmayan
 hallerde, Borçlar Kanunu hükümleri uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

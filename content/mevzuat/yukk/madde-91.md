@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Geçici koruma25**
+**DÖRDÜNCÜ BÖLÜM
+Geçici Koruma ve Uluslararası Korumaya İlişkin Diğer Hükümler
+Geçici koruma**
 
 ---
 
@@ -19,6 +21,8 @@ Türkiye’den çıkışlarında yapılacak işlemler, kitlesel hareketlere kar�
 ulusal ve uluslararası kurum ve kuruluşlar arasındaki iş birliği ve koordinasyon, merkez ve
 taşrada görev alacak kurum ve kuruluşların görev ve yetkilerinin belirlenmesi,
 Cumhurbaşkanı tarafından çıkarılacak yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**B) Yönetim ku rulu kararıyla**
+**B) Yönetim kurulu kararıyla**
 
 ---
 
-Madde 505 - (1) Aksi kanunda öngörülmemişse, genel kurul herhangi bir menkul kıymetin çıkarılmasını ve hükümleriyle şartlarını saptamak (…) 72 yetkisini, en çok onbeş ay için yönetim kuruluna bırakabilir. 421 inci maddenin üçüncü ve dördüncü fı kra hükümleri yetkilendirme kararına da uygulanır.
+MADDE 505- (1) Aksi kanunda öngörülmemişse, genel kurul herhangi bir menkul
+kıymetin çıkarılmasını ve hükümleriyle şartlarını saptamak (…)yetkisini, en çok onbeş ay
+için yönetim kuruluna bırakabilir. 421 inci maddenin üçüncü ve dördüncü fıkra hükümleri
+yetkilendirme kararına da uygulanır.
 
 ---
 

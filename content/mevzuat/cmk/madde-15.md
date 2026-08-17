@@ -22,6 +22,8 @@ suçlarda, bunların ilk ulaştığı yer mahkemesi de yetkilidir.
 dışında işlendiği takdirde, suçun işlendiği yere en yakın veya geminin Türkiye'de ilk uğradığı
 limanın bulunduğu yer mahkemesi yetkilidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

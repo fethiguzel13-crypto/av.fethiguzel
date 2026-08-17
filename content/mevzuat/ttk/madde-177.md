@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4286
 ---
 
-**Madde 177**
+**bb) Ortakların kişisel sorumluluğu**
 
 ---
 
-Madde 177 - (1) Ortakların kişisel sorumlulukları hakkında 158 inci madde hükmü uygulanır.
+MADDE 177- (1) Ortakların kişisel sorumlulukları hakkında 158 inci madde hükmü
+uygulanır.
 
 ---
 

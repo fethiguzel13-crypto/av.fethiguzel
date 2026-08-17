@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**Fevkalade amortisman**
+**Fevkalade amortisman:**
 
 ---
 
@@ -22,6 +22,8 @@ Menkul ve gayrimenkullerle haklara, mükelleflerin müracaatları üzerine ve il
 Bakanlıkların mütalaası alınmak suretiyle, Maliye Bakanlığınca her işletme için işin
 mahiyetine göre ayrı ayrı belli edilen "Fevkalade ekonomik ve teknik amortisman nispetleri"
 uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

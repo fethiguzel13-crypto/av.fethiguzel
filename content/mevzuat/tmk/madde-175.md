@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**2. Yoksulluk naf akası**
+**2. Yoksulluk nafakası**
 
 ---
 
-Madde 175 - Boşanma yüzünden yoksulluğa düşecek taraf, kusuru daha ağır olmamak
-koşuluyla geçimi için diğer taraftan malî gücü oranında süresiz olarak nafaka isteyebilir. Nafaka yükümlüsünün kusuru aranmaz.
+Madde 175- Boşanma yüzünden yoksulluğa düşecek taraf, kusuru daha ağır olmamak
+koşuluyla geçimi için diğer taraftan malî gücü oranında süresiz olarak nafaka isteyebilir.
+Nafaka yükümlüsünün kusuru aranmaz.
 
 ---
 

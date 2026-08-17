@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**IV. İntifa hakkının hükümleri 1. İntifa hakkı sahibinin hakları a. Genel olara k**
+**IV. İntifa hakkının hükümleri
+1. İntifa hakkı sahibinin hakları
+a. Genel olarak**
 
 ---
 
-Madde 803 - İntifa hakkı sahibi, hakkın konusu olan malı zilyetliğinde bulundurma, yönetme, kullanma ve ondan yararlanma yetkilerine sahiptir. İntifa hakkı sahibi, b u yetkilerini kullanırken iyi bir yönetici gibi özen göstermek zorundadır.
+Madde 803- İntifa hakkı sahibi, hakkın konusu olan malı zilyetliğinde bulundurma,
+yönetme, kullanma ve ondan yararlanma yetkilerine sahiptir.
+İntifa hakkı sahibi, bu yetkilerini kullanırken iyi bir yönetici gibi özen göstermek zorundadır.
 
 ---
 

@@ -16,6 +16,8 @@ tarafından Kanunun yürürlüğe girdiği tarihten itibaren altı ay içinde ç
 yönetmelikler çıkarılıncaya kadar, mevcut yönetmeliklerin bu Kanuna aykırı olmayan
 hükümlerinin uygulanmasına devam olunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

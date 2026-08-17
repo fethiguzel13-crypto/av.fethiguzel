@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**İşi bırakmanın tarifi**
+**İşi bırakmanın tarifi:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 161 – Vergiye tabi olmayı gerektiren muamelelerin tamamen durdurulması
 sona ermesi işi bırakmayı ifade eder.
 İşlerin her hangi bir sebep yüzünden geçici bir süre için durdurulması işi bırakma
 sayılmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

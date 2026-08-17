@@ -7,13 +7,20 @@ lastReviewed: "2026-07-20"
 wordCount: 4319
 ---
 
-**A. Kişilik
-I. Genel olarak
-1. Hak ehliyeti**
+**BİRİNCİ KİTAP
+KİŞİLER HUKUKU
+BİRİNCİ KISIM
+GERÇEK KİŞİLER
+BİRİNCİ BÖLÜM
+KİŞİLİK
+A. Genel olarak
+I. Hak ehliyeti**
 
 ---
 
-Madde 8 - Her insanın hak ehliyeti vardır. Buna göre bütün insanlar, hukuk düzeninin sınırları içinde, haklar a ve borçlara ehil olmada eşittirler.
+Madde 8 - Her insanın hak ehliyeti vardır.
+Buna göre bütün insanlar, hukuk düzeninin sınırları içinde, haklara ve borçlara ehil
+olmada eşittirler.
 
 ---
 

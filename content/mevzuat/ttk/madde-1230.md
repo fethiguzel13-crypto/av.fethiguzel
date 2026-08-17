@@ -7,14 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**III
-- Hükümleri
-1. Kıy metli evrak olma niteliği
-a) Eşyanın yetkili konişmento hamiline teslimi aa) Genel olarak**
+**III- Hükümleri
+1. Kıymetli evrak olma niteliği
+a) Eşyanın yetkili konişmento hamiline teslimi
+aa) Genel olarak**
 
 ---
 
-Madde 1230 - (1) Konişmentonun meşru hamili, eşyayı teslim almaya yetkilidir. (2) Konişmento birden çok nüsha olarak düzenlenmişse, eşya, tek nüshanın meşru hamiline t eslim edilir. bb) Birden çok konişmento hamilinin başvurusu
+MADDE 1230- (1) Konişmentonun meşru hamili, eşyayı teslim almaya yetkilidir.
+(2) Konişmento birden çok nüsha olarak düzenlenmişse, eşya, tek nüshanın meşru
+hamiline teslim edilir.
 
 ---
 

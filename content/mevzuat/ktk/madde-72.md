@@ -7,13 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**Ses, müzik, görüntü ve haberleşme cihazlarının kullanılması**
+**Ses, müzik, görüntü ve haberleşme cihazlarının kullanılması:**
 
 ---
 
 Madde 72 – Araçlarda ses, müzik, görüntü ve haberleşme cihazları yönetmelikte
 gösterilen şartlara uygun olarak ve kamunun rahat ve huzurunu bozmayacak şekilde kullanılabilir.
-(Ek cümle:12/2/2026-7574/24 md.) Bu fıkra hükmüne uymayanlara 3.000 Türk lirası idari
+(Ek cümle:12/2/2026-7574/24 md.) Bu fıkra hükümlerine uymayanlara 3.000 Türk lirası idari
 para cezası uygulanır.
 (Değişik ikinci fıkra:12/2/2026-7574/24 md.) Araçlarda Kanun ve yönetmelikte
 belirtilen şartlara uymayan ses, müzik, görüntü ve haberleşme cihazları ile sürücünün izleme
@@ -23,6 +23,8 @@ araçlar otuz gün süreyle trafikten menedilir.
 Kanun ve yönetmelikte belirtilen şartlara uymayan ses, müzik, görüntü ve haberleşme
 cihazları ile sürücünün izleme ve kullanma sahası içinde kalan görüntü cihazları araçlardan
 söktürülür.
+
+---
 
 ### Akademik Yorum ve Analiz
 

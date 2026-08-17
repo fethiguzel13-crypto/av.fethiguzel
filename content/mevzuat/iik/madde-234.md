@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**Alacaklılar sıra cetveli, ilan ve ihbar**
+**Alacaklılar sıra cetveli, ilan ve ihbar:**
 
 ---
 
@@ -16,6 +16,8 @@ sıra cetvelini iflas dairesine verir ve alacaklıları 166 ncı maddenin 2 nci 
 göre ilan yoluyla haberdar eder.
 İddialarının tamamı veya bir kısmı reddedilen yahut iddia ettikleri sıraya kabul
 edilmiyen alacaklılara doğrudan doğruya haber verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

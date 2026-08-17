@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Beyana bağlılık**
+**Beyana bağlılık:**
 
 ---
 
 Madde 76 – Mükellefin evvelce beyan ettiği bir matraha ait olan takdir işlerinde,
 takdir olunan matrah mükellefin beyanından düşük olamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

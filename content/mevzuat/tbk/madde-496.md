@@ -12,7 +12,7 @@ wordCount: 4260
 
 ---
 
-Madde 496 - Sözleşmede aksi kararlaştırılmış olmadıkça yayımlatan, bedel
+MADDE 496- Sözleşmede aksi kararlaştırılmış olmadıkça yayımlatan, bedel
 ödenmesini isteyebilir.
 Bedel ödenmesi gereken hâllerde ödenecek miktar belli değilse bedel, hâkim
 tarafından belirlenir.

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**İhtiyati haciz kararına itiraz ve temyiz:81**
+**İhtiyati haciz kararına itiraz ve temyiz:**
 
 ---
 
@@ -24,15 +24,12 @@ Mahkeme, gösterilen sebeplere hasren tetkikat yaparak itirazı kabul veya redde
 itiraz üzerine iki tarafı davet edip gelenleri dinledikten sonra, itirazı varit görürse kararını
 değiştirebilir veya kaldırabilir. Şu kadar ki, iki taraf da gelmezse evrak üzerinde inceleme
 yapılarak karar verilir.
-
-Bu madde başlığı “İhtiyati haciz kararına itiraz “iken, 17/7/2003 tarihli ve 4949 sayılı Kanunun 63 üncü
-maddesiyle metne işlendiği şekilde değiştirilmiştir.
-81
-
-(Ek fıkra: 17/7/2003-4949/63 md.; Değişik:2/3/2005-5311/17 md.) İtiraz üzerine
+(Ek fıkra: 17/7/2003-4949/63 md.; Değişik:2/3/2005-5311/17 md.) İtiraz üzerine
 verilen karara karşı istinaf yoluna başvurulabilir. Bölge adliye mahkemesi bu başvuruyu
 öncelikle inceler ve verdiği karar kesindir. İstinaf yoluna başvuru, ihtiyatî haciz kararının
 icrasını durdurmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

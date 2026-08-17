@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**İcra mahkemesince yapılacak tetkikler**
+**İcra mahkemesince yapılacak tetkikler:**
 
 ---
 
@@ -18,6 +18,8 @@ Alacaklılar tayin olunan günden evvel dosyayı tetkik edebilirler; alacaklıla
 talebine karşı tahriri itirazlarını dermeyan etmek yetkileri de vardır.
 İcra mahkemesi kısa bir müddette kararını verir; mühlet vermekle beraber borçluyu bir
 veya mütaaddit taksitlerle ödemeğe de mecbur edebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

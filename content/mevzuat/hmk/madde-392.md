@@ -19,6 +19,8 @@ verebilir. Adli yardımdan yararlanan kimsenin teminat göstermesi gerekmez.
 (2) Asıl davaya ilişkin hükmün kesinleşmesinden veya ihtiyati tedbir kararının
 kalkmasından itibaren bir ay içinde tazminat davasının açılmaması üzerine teminat iade edilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

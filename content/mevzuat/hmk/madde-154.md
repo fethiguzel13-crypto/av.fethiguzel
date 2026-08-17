@@ -36,6 +36,8 @@ sayılır.
 (5) Tahkikat ve yargılama sırasında yapılan işlemler teknik araçlarla kayda alınırsa, bu
 durum bir tutanakla tespit olunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

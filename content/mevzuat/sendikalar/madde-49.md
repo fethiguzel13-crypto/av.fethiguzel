@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4319
 ---
 
-**Uyuşmazlığın tespiti**
+**DOKUZUNCU BÖLÜM
+Toplu İş Uyuşmazlıklarının Çözümü
+Uyuşmazlığın tespiti**
 
 ---
 
@@ -17,7 +19,8 @@ toplantıya devam etmezse veya taraflar toplu görüşme süresi içerisinde anl
 tutanakla tespit ederlerse ya da toplu görüşme süresi anlaşma olmaksızın sona ererse,
 taraflardan biri uyuşmazlığı altı iş günü içinde görevli makama bildirir. Aksi takdirde işçi
 sendikasının yetkisi düşer.
-Arabulucluk
+
+---
 
 ### Akademik Yorum ve Analiz
 

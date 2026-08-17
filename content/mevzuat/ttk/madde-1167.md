@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**II
-- Bo şaltma giderleri**
+**II- Boşaltma giderleri**
 
 ---
 
-Madde 1167 - (1) Sözleşme, boşaltma limanı düzenlemeleri ve bunlar yoksa yerel teamül ile aksi öngörülmüş olmadıkça, eşyanın gemiden çıkartılması gideri taşıyana, geri kalan boşaltma giderleri ise gönderilene aittir.
+MADDE 1167- (1) Sözleşme, boşaltma limanı düzenlemeleri ve bunlar yoksa yerel
+teamül ile aksi öngörülmüş olmadıkça, eşyanın gemiden çıkartılması gideri taşıyana, geri
+kalan boşaltma giderleri ise gönderilene aittir.
 
 ---
 

@@ -12,10 +12,9 @@ wordCount: 4260
 
 ---
 
-Madde 630 - Kanunun bu bölümünde veya ortaklık sözleşmesinde aksine hüküm
+MADDE 630- Kanunun bu bölümünde veya ortaklık sözleşmesinde aksine hüküm
 bulunmadıkça, yönetici ortaklar ile diğer ortaklar arasındaki ilişkiler, vekâlet sözleşmesine
 ilişkin hükümlere tabidir.
-
 Ortaklığı yönetme yetkisi bulunmayan bir ortağın, ortaklığın işlerini görmesi veya bu
 yetkiye sahip ortağın yetkisini aşması hâllerinde, vekâletsiz işgörmeye ilişkin hükümler
 uygulanır.

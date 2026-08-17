@@ -11,7 +11,7 @@ wordCount: 4288
 
 ---
 
-Madde 786 - (1) Çekte öngörülen herhangi bir faiz şartı yazıl mamış sayılır.
+MADDE 786- (1) Çekte öngörülen herhangi bir faiz şartı yazılmamış sayılır.
 
 ---
 

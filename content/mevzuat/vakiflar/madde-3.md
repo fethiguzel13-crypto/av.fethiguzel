@@ -23,18 +23,7 @@ verdikleri beyannameyi,
 Vakıf senedi: Mülga 743 sayılı Türk Kanunu Medenisi ile 22/11/2001 tarihli ve 4721
 sayılı Türk Medenî Kanunu hükümlerine göre kurulan vakıfların, malvarlığını ve vakıf
 şartlarını içeren belgeyi,
-Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2021/125, K: 2023/213 Sayılı Kararı ile bu Kanunun 35.
-Maddesinin, 36. Maddesinin birinci fıkrası ile ikinci fıkrasının birinci cümlesinin, 37 ila 42. Maddelerinin,
-43. Maddesinin birinci ve üçüncü fıkralarının, 44. ve 45. Maddelerinin, 46. Maddesinin üçüncü fıkrasının,
-47 ila 51. Maddelerinin, 52. Maddesinin (a), (b), (c), (f), (g) ve (h) bentlerinin, 53 ila 71., 73., 74., geçici 1
-ila geçici 4. Maddeleri ile ekli (I) ve (II) sayılı cetvellerin yürürlükten kaldırılması iptal edilmiştir.
-2
-2/7/2018 tarihli ve 703 sayılı KHK’nin 102 nci maddesiyle, bu fıkrada yer alan “; Vakıflar Genel
-Müdürlüğünün kuruluşu ile Genel Müdürlüğün teşkilât, görev, yetki ve sorumluluklarının düzenlenmesi”
-ibaresi madde metninden çıkarılmıştır.
-1
-
-Mazbut vakıf: Bu Kanun uyarınca Genel Müdürlükçe yönetilecek ve temsil edilecek
+Mazbut vakıf: Bu Kanun uyarınca Genel Müdürlükçe yönetilecek ve temsil edilecek
 vakıflar ile mülga 743 sayılı Türk Kanunu Medenisinin yürürlük tarihinden önce kurulmuş ve
 2762 sayılı Vakıflar Kanunu gereğince Vakıflar Genel Müdürlüğünce yönetilen vakıfları,
 Mülhak vakıf: Mülga 743 sayılı Türk Kanunu Medenisinin yürürlük tarihinden önce
@@ -72,8 +61,7 @@ vakfiyelerindeki hayrat hizmetlerin ifasından sonra kalan miktarı,
 bırakılmış galle fazlaları ve hakları,
 ifade eder.
 
-İKİNCİ KISIM
-Vakıflarla İlgili Hükümler
+---
 
 ### Akademik Yorum ve Analiz
 

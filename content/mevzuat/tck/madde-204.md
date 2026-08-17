@@ -21,6 +21,8 @@ hapis cezası ile cezalandırılır.
 (3) Resmi belgenin, kanun hükmü gereği sahteliği sabit oluncaya kadar geçerli olan
 belge niteliğinde olması halinde, verilecek ceza yarısı oranında artırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,18 +7,12 @@ lastReviewed: "2026-07-27"
 wordCount: 3622
 ---
 
-**(1) Sanık, yokluğunda aleyhine verilen hükümlere**
+Madde 274 – (1) Sanık, yokluğunda aleyhine verilen hükümlere karşı eski hâle getirme
+isteminde bulunabilir. Eski hâle getirme süresi içinde de istinaf süresi işler. Sanığın eski hâle
+getirme isteminde bulunduğu hâllerde, ayrıca istinaf isteminde bulunması gerekir. Bu hâlde istinaf
+istemi ile ilişkili işler, eski hâle getirme istemi hakkında karar verilinceye kadar ertelenir.
 
 ---
-
-Madde 274 - (1) Sanık, yokluğunda aleyhine verilen hükümlere
-karşı eski hâle getirme isteminde bulunabilir. Eski hâle getirme süresi içinde
-de istinaf süresi işler. Sanığın eski hâle getirme isteminde bulunduğu
-hâllerde, ayrıca istinaf isteminde bulunması gerekir. Bu hâlde istinaf istemi
-ile ilişkili işler, eski hâle getirme istemi hakkında karar verilinceye kadar
-ertelenir.
-
-İstinaf başvurusunun etkisi
 
 ### Akademik Yorum ve Analiz
 

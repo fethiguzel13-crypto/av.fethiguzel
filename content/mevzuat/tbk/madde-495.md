@@ -11,7 +11,7 @@ wordCount: 4287
 
 ---
 
-Madde 495 - Çeviri hakkının yayımcıya geçebilmesi, bunun sözleşmede açıkça
+MADDE 495- Çeviri hakkının yayımcıya geçebilmesi, bunun sözleşmede açıkça
 belirtilmiş olmasına bağlıdır.
 
 ---

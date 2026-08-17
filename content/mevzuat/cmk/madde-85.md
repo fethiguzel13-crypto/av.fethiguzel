@@ -19,6 +19,8 @@ suçlar söz konusu olduğunda, adli kolluk amiri de yer gösterme işlemi yapt�
 hazır bulunabilir.
 (3) Yer gösterme işlemi, 169 uncu maddeye uygun olarak tutanağa bağlanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4282
 ---
 
-**Tahsil zamanaşımı**
+**ÜÇÜNCÜ KISIM
+Zamanaşımı, terkin, yasaklar ve cezalar ve son hükümler
+BİRİNCİ BÖLÜM
+Zamanaşımı ve terkin
+Tahsil zamanaşımı:**
 
 ---
 
@@ -15,6 +19,8 @@ Madde 102 – Amme alacağı, vadesinin rasladığı takvim yılını takip eden
 başından itibaren 5 yıl içinde tahsil edilmezse zamanaşımına uğrar. Para cezalarına ait hususi
 kanunlarındaki zamanaşımı hükümleri mahfuzdur.
 Zamanaşımından sonra mükellefin rızaen yapacağı ödemeler kabul olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

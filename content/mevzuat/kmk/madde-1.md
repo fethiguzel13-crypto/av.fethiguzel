@@ -7,12 +7,23 @@ lastReviewed: "2026-07-20"
 wordCount: 4263
 ---
 
-**Amaç**
+**Genel Hükümler
+BİRİNCİ BÖLÜM
+Amaç ve Kapsam, Tanım, Kanunîlik İlkesi ve Kanunun Uygulama Alanı
+Amaç ve kapsam**
 
 ---
 
-MADDE 1 – (1) Bu Kanunun amacı, kaçakçılık fiilleri ve yaptırımları ile kaçakçılığı
-önleme, izleme, araştırma usûl ve esaslarını belirlemektir.
+Madde 1- (1) Bu Kanunda; toplum düzenini, genel ahlâkı, genel sağlığı, çevreyi ve
+ekonomik düzeni korumak amacıyla;
+a) Kabahatlere ilişkin genel ilkeler,
+b) Kabahatler karşılığında uygulanabilecek olan idarî yaptırımların türleri ve sonuçları,
+c) Kabahatler dolayısıyla karar alma süreci,
+d) İdarî yaptırıma ilişkin kararlara karşı kanun yolu,
+e) İdarî yaptırım kararlarının yerine getirilmesine ilişkin esaslar,
+Belirlenmiş ve çeşitli kabahatler tanımlanmıştır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

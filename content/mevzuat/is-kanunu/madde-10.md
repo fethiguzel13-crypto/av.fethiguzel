@@ -18,6 +18,8 @@ Bu Kanunun 3, 8, 12, 13, 14, 15, 17, 23, 24, 25, 26, 27, 28, 29, 30, 31, 34, 53,
 uygulanmaz. Süreksiz işlerde, bu maddelerde düzenlenen konularda Borçlar Kanunu hükümleri
 uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

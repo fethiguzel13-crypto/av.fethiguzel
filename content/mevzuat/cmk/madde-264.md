@@ -16,6 +16,8 @@ belirlenmesinde yanılma, başvuranın haklarını ortadan kaldırmaz.
 (2) Bu hâlde başvurunun yapıldığı merci, başvuruyu derhâl görevli ve yetkili olan
 mercie gönderir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

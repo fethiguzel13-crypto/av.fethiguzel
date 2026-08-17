@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Ulaşım araçlarının hareketinin engellenmesi, kaçırılması veya alıkonulması**
+**ALTINCI BÖLÜM
+Ulaşım Araçlarına veya Sabit Platformlara Karşı Suçlar
+Ulaşım araçlarının hareketinin engellenmesi, kaçırılması veya alıkonulması**
 
 ---
 
@@ -25,6 +27,8 @@ bir suçun işlenmesi halinde ayrıca bu suçtan dolayı ceza verilir.
 (5) Kanunda öngörülen şekil, şart ve usullere uygun olarak düzenlenen toplantı ve
 gösteri yürüyüşleri esnasında birinci ve ikinci fıkrada belirtilen fillerin işlenmesi halinde bu
 fıkralardaki suç oluşmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

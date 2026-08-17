@@ -1,0 +1,161 @@
+{
+  "slug": "ise-iade-davasi-nasil-acilir",
+  "title": "İşe İade Davası: Bir Aylık Süre, Arabuluculuk ve Tazminat",
+  "description": "İşe iade davası şartları nelerdir, bir aylık süre ne zaman başlar, arabuluculuk zorunlu mu, işe başlatmama tazminatı ne kadar? 4857 sayılı Kanun m.18-21 çerçevesinde.",
+  "h1": "İşe iade davası nasıl açılır?",
+  "keywords": [
+    "işe iade davası",
+    "işe iade şartları",
+    "işe iade süresi",
+    "işe başlatmama tazminatı",
+    "boşta geçen süre ücreti",
+    "geçerli sebep"
+  ],
+  "category": "İş",
+  "role": "pillar",
+  "related": [
+    "kidem-tazminati-nasil-alinir"
+  ],
+  "links": [
+    {
+      "label": "İş K. m.18 — Feshin geçerli sebebe dayandırılması",
+      "href": "/mevzuat/is-kanunu/madde-18"
+    },
+    {
+      "label": "İş K. m.19 — Fesihte usul",
+      "href": "/mevzuat/is-kanunu/madde-19"
+    },
+    {
+      "label": "İş K. m.20 — İtiraz ve usulü",
+      "href": "/mevzuat/is-kanunu/madde-20"
+    },
+    {
+      "label": "İş K. m.21 — Geçersiz feshin sonuçları",
+      "href": "/mevzuat/is-kanunu/madde-21"
+    },
+    {
+      "label": "İşe iade hesaplama aracı",
+      "href": "/hesaplama/ise-iade"
+    }
+  ],
+  "lead": "İşe iade talebinde bulunacak işçi, fesih bildiriminin tebliğinden itibaren bir ay içinde arabulucuya başvurmak zorundadır. Anlaşma sağlanamazsa son tutanağın düzenlendiği tarihten itibaren iki hafta içinde iş mahkemesinde dava açılır.",
+  "keyInsight": "Feshin geçerli bir sebebe dayandığını ispat yükü işverendedir; işçinin yapması gereken süreyi kaçırmamaktır.",
+  "sections": [
+    {
+      "heading": "Kimler işe iade isteyebilir?",
+      "paragraphs": [
+        "İş güvencesi herkesi kapsamaz. 4857 m.18 üç koşulu birlikte arar: İşyerinde otuz veya daha fazla işçi çalışması, işçinin en az altı aylık kıdeminin bulunması ve sözleşmenin belirsiz süreli olması.",
+        "Otuz işçi ölçütü tek bir şubeye göre değil, işverenin aynı işkolundaki işyerlerinin toplamına göre değerlendirilir. Altı aylık kıdemin hesabında ise Kanunun 66. maddesindeki çalışılmış gibi sayılan süreler dikkate alınır.",
+        "Kanun bir istisna tanır. 6552 sayılı Kanunla eklenen cümle uyarınca yer altı işlerinde çalışan işçilerde kıdem şartı aranmaz; bu işçiler ilk günden iş güvencesi kapsamındadır."
+      ],
+      "bullets": [
+        "İşyerinde otuz veya daha fazla işçi",
+        "En az altı aylık kıdem — yer altı işlerinde aranmaz",
+        "Belirsiz süreli iş sözleşmesi"
+      ]
+    },
+    {
+      "heading": "Geçerli sebep nedir, ne değildir?",
+      "paragraphs": [
+        "İşveren belirsiz süreli sözleşmeyi feshederken keyfî davranamaz; işçinin yeterliliğinden veya davranışlarından ya da işletmenin, işyerinin veya işin gereklerinden kaynaklanan geçerli bir sebebe dayanmak zorundadır.",
+        "Kanun bazı gerekçeleri baştan geçersiz sayar. Sendika üyeliği, çalışma saatleri dışında veya işverenin rızasıyla çalışma saatleri içinde sendikal faaliyete katılmak, işyeri sendika temsilciliği yapmak ve mevzuattan doğan hakları takip için idari veya adli makamlara başvurmak fesih için geçerli sebep oluşturmaz.",
+        "Geçerli sebep ile haklı sebep karıştırılmamalıdır. Haklı sebep, 4857 m.25/II kapsamındaki ahlak ve iyiniyet kurallarına aykırılık hâlleridir ve derhal feshe imkân verir; geçerli sebep ise daha düşük yoğunlukta olup bildirim süresine uyulmasını gerektirir."
+      ]
+    },
+    {
+      "heading": "İşverenin uymak zorunda olduğu usul",
+      "paragraphs": [
+        "Sebebin varlığı tek başına yetmez, usulüne de uyulmalıdır. 4857 m.19 uyarınca işveren fesih bildirimini yazılı olarak yapmak ve fesih sebebini açık ve kesin bir şekilde belirtmek zorundadır.",
+        "Sözlü yapılan ya da sebebi belirtilmeyen bir fesih bu yükümlülüğü karşılamaz. Bildirimde yazılan sebep sonradan genişletilemez; işveren davada başka bir gerekçeye sığınamaz.",
+        "Davranış veya verim gerekçesiyle fesihte ek bir koşul daha vardır: Hakkındaki iddialara karşı savunması alınmadan bir işçinin belirsiz süreli sözleşmesi, davranışı veya verimi ile ilgili nedenlerle feshedilemez. İşverenin m.25/II şartlarına uygun fesih hakkı ise saklıdır."
+      ]
+    },
+    {
+      "heading": "Bir ay ve iki hafta: kaçırılmaması gereken iki süre",
+      "paragraphs": [
+        "Süreç 2017 değişikliğiyle iki aşamalı hâle geldi. 7036 sayılı Kanunla değiştirilen m.20 uyarınca işçi, fesih bildiriminde sebep gösterilmediği veya gösterilen sebebin geçerli olmadığı iddiasıyla, fesih bildiriminin tebliği tarihinden itibaren bir ay içinde işe iade talebiyle arabulucuya başvurmak zorundadır.",
+        "Arabuluculuk faaliyeti sonunda anlaşmaya varılamazsa, son tutanağın düzenlendiği tarihten itibaren iki hafta içinde iş mahkemesinde dava açılabilir. Taraflar anlaşırsa uyuşmazlık aynı sürede mahkeme yerine özel hakeme de götürülebilir.",
+        "Arabulucuya başvurmadan doğrudan dava açılırsa dava usulden reddedilir. Kanun bu ihtimalde bir kurtarma yolu bırakır: Ret kararı taraflara resen tebliğ edilir ve kesinleşen ret kararının resen tebliğinden itibaren iki hafta içinde arabulucuya başvurulabilir.",
+        "İspat yükü konusunda denge işçi lehinedir. Feshin geçerli bir sebebe dayandığını ispat yükümlülüğü işverene aittir; işçi ancak feshin başka bir sebebe dayandığını iddia ederse bu iddiasını ispatla yükümlü olur."
+      ]
+    },
+    {
+      "heading": "Dava kazanılırsa ne olur?",
+      "paragraphs": [
+        "Feshin geçersizliğine karar verildiğinde işveren, işçiyi bir ay içinde işe başlatmak zorundadır. Başlatmazsa işçiye en az dört aylık ve en çok sekiz aylık ücreti tutarında tazminat ödemekle yükümlü olur.",
+        "Bunun yanında boşta geçen süre için ödeme yapılır: Kararın kesinleşmesine kadar çalıştırılmadığı süre için işçiye en çok dört aya kadar doğmuş bulunan ücret ve diğer hakları ödenir.",
+        "Mahkeme yalnız geçersizliğe hükmetmez; işe başlatılmama hâlinde ödenecek tazminat miktarını da belirler. 7036 sayılı Kanunla eklenen fıkra uyarınca bu tazminat ile boşta geçen süre ücreti, dava tarihindeki ücret esas alınarak parasal olarak belirlenir.",
+        "İşçi işe başlatılırsa mahsup devreye girer. Peşin ödenen bildirim süresine ait ücret ile kıdem tazminatı, yapılacak ödemeden düşülür. İşe başlatılmayan işçiye bildirim süresi verilmemiş veya ücreti peşin ödenmemişse, bu sürelere ait ücret ayrıca ödenir."
+      ]
+    },
+    {
+      "heading": "On işgünlük başvuru: en sık kaçırılan adım",
+      "paragraphs": [
+        "Davayı kazanmak tek başına yetmez. İşçi, kesinleşen mahkeme veya özel hakem kararının tebliğinden itibaren on işgünü içinde işe başlamak için işverene başvuruda bulunmak zorundadır.",
+        "Bu süre içinde başvurulmazsa sonuç ağırdır: İşverence yapılmış olan fesih geçerli bir fesih sayılır ve işveren sadece bunun hukuki sonuçlarıyla sorumlu olur. Yani kazanılan dava, işe başlatmama tazminatı bakımından işlevsiz kalır.",
+        "Başvurunun samimi olması ve belgelenmesi gerekir. Noter aracılığıyla ya da tebliğ edildiği ispatlanabilir bir yolla yapılması, sonradan çıkacak tartışmayı baştan keser."
+      ]
+    },
+    {
+      "heading": "Sık yapılan hatalar",
+      "paragraphs": [
+        "Birinci hata, bir aylık süreyi tebliğ tarihi yerine işten fiilen ayrılma tarihinden saymaktır. Süre fesih bildiriminin tebliğinden işler.",
+        "İkincisi, arabuluculuk aşamasını atlayıp doğrudan dava açmaktır. Bu, davanın usulden reddiyle sonuçlanır ve değerli zaman kaybettirir.",
+        "Üçüncüsü, kazanılan karardan sonra on işgünlük başvuruyu yapmamak ya da yaptığını belgeleyememektir. Uygulamada en pahalıya mal olan ihmal budur."
+      ]
+    }
+  ],
+  "steps": [
+    "Fesih bildiriminin tebliğ tarihini belgeleyin; bir aylık süre o tarihten işler.",
+    "Bildirimin yazılı olup olmadığını ve sebebin açık ve kesin belirtilip belirtilmediğini kontrol edin.",
+    "İşyerindeki işçi sayısını ve kendi kıdeminizi tespit edin — otuz işçi ve altı ay şartları.",
+    "Bir ay içinde işe iade talebiyle arabulucuya başvurun.",
+    "Anlaşma olmazsa son tutanağın tarihinden itibaren iki hafta içinde iş mahkemesinde dava açın.",
+    "Karar kesinleşince on işgünü içinde işe başlamak için işverene başvurun ve bunu belgeleyin.",
+    "İşveren bir ay içinde başlatmazsa işe başlatmama tazminatı ile boşta geçen süre ücretini talep edin."
+  ],
+  "checklist": [
+    "Fesih bildirimi ve tebliğ belgesi",
+    "İş sözleşmesi",
+    "SGK hizmet dökümü — kıdem tespiti için",
+    "İşyerindeki işçi sayısına ilişkin bilgi ve belgeler",
+    "Savunma istem yazısı — varsa",
+    "Arabuluculuk son tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "İşe iade davası açma süresi ne kadar?",
+      "a": "Fesih bildiriminin tebliğinden itibaren bir ay içinde arabulucuya başvurulur. Anlaşma sağlanamazsa son tutanağın düzenlendiği tarihten itibaren iki hafta içinde dava açılır."
+    },
+    {
+      "q": "Arabuluculuk zorunlu mu?",
+      "a": "Evet. Arabulucuya başvurmaksızın doğrudan açılan dava usulden reddedilir. Kesinleşen ret kararının resen tebliğinden itibaren iki hafta içinde arabulucuya başvurulabilir."
+    },
+    {
+      "q": "Kaç işçi çalışan işyerinde işe iade istenebilir?",
+      "a": "Otuz veya daha fazla işçi çalıştıran işyerlerinde. Ayrıca en az altı aylık kıdem ve belirsiz süreli sözleşme aranır; yer altı işlerinde kıdem şartı yoktur."
+    },
+    {
+      "q": "Feshin geçerli olduğunu kim ispatlar?",
+      "a": "İşveren. Feshin geçerli bir sebebe dayandığını ispat yükümlülüğü işverene aittir. İşçi feshin başka bir sebebe dayandığını iddia ederse yalnız o iddiasını ispatlar."
+    },
+    {
+      "q": "İşe başlatmama tazminatı ne kadar?",
+      "a": "En az dört aylık, en çok sekiz aylık ücret tutarındadır. Miktarı mahkeme belirler ve dava tarihindeki ücret esas alınır."
+    },
+    {
+      "q": "Boşta geçen süre için ne alırım?",
+      "a": "Kararın kesinleşmesine kadar çalıştırılmadığınız süre için en çok dört aya kadar doğmuş ücret ve diğer haklarınız ödenir."
+    },
+    {
+      "q": "Davayı kazandım, ne yapmalıyım?",
+      "a": "Kesinleşen kararın tebliğinden itibaren on işgünü içinde işe başlamak için işverene başvurmalısınız. Başvurmazsanız fesih geçerli sayılır ve işe başlatmama tazminatı istenemez."
+    },
+    {
+      "q": "İşveren beni işe başlatırsa kıdem tazminatım ne olur?",
+      "a": "İşe başlatılırsanız peşin ödenmiş bildirim süresi ücreti ile kıdem tazminatı, yapılacak ödemeden mahsup edilir."
+    }
+  ],
+  "updated": "2026-08-16",
+  "sitemapPriority": 0.96
+}

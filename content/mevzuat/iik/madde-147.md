@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4280
 ---
 
-**Ödeme emrine itiraz**
+**Ödeme emrine itiraz:**
 
 ---
 
@@ -20,7 +20,7 @@ artık tartışma konusu olamaz.
 yoliyle takipten vazgeçerek, takibin haciz yolu ile devamını istiyebilir. Bu takdirde, borçluya
 mal beyanında bulunması için yedi gün mühlet verilir.
 
-II – İPOTEĞİN PARAYA ÇEVRİLMESİ
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**2. Ödünç vere nin hakları**
+**2. Ödünç verenin hakları**
 
 ---
 
-Madde 968 - Ödünç veren, taşınırın rehinden kurtarı ldığı aya ait faizin tamamının ödenmesini isteyebilir. Ödünç veren, makbuzu kim getirirse taşınırı ona geri verme hakkını açıkça saklı tutmuşsa, makbuzun hamilinin bunu haksız olarak ele geçirdi ğini bilmedikçe ve bilmesi gerekmedikçe bu yetkisini kullanabi lir.
+Madde 968- Ödünç veren, taşınırın rehinden kurtarıldığı aya ait faizin tamamının
+ödenmesini isteyebilir.
+Ödünç veren, makbuzu kim getirirse taşınırı ona geri verme hakkını açıkça saklı tutmuşsa,
+makbuzun hamilinin bunu haksız olarak ele geçirdiğini bilmedikçe ve bilmesi gerekmedikçe bu
+yetkisini kullanabilir.
 
 ---
 

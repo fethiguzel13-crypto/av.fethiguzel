@@ -18,6 +18,8 @@ b) 15 inci Maddesinin 2 numaralı fıkrasının (b) bendi 1.8.2003 tarihinden ge
 c) Diğer hükümleri 1.8.2002 tarihinden geçerli olmak üzere yayımı tarihinde,
 yürürlüğe girer.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

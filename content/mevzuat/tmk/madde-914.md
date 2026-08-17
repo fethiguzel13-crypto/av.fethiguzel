@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Madde 914**
+**4. Alacaklının belirlenmesi
+a. Düzenleme sırasında**
 
 ---
 
-Madde 914 - İpotekl i borç senedi ve irat senedi nama veya hamile yazılı düzenlenebilir. Bu senetler, yüklü taşınmazın mali ki adına da düzenlenebilir.
+Madde 914- İpotekli borç senedi ve irat senedi nama veya hamile yazılı düzenlenebilir.
+Bu senetler, yüklü taşınmazın maliki adına da düzenlenebilir.
 
 ---
 

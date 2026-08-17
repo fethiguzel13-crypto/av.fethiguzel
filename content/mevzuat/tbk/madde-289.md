@@ -11,7 +11,7 @@ wordCount: 4280
 
 ---
 
-Madde 289 - Elden bağışlama, bağışlayanın bir taşınırını bağışlanana teslim
+MADDE 289- Elden bağışlama, bağışlayanın bir taşınırını bağışlanana teslim
 etmesiyle kurulmuş olur.
 
 ---

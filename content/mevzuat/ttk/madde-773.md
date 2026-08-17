@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**IV
-- Sebepsiz zenginleşmeden doğan haklar**
+**IV - Sebepsiz zenginleşmeden doğan haklar**
 
 ---
 
-Madde 773 - (1) Muhatap, yerleşim yerli poliçeyi ödeyecek olan üçüncü kişi ve düzenleyenin, poliçeyi hesabına düzenlediği kişi veya ticari işletme aleyhine sebepsiz zenginleşmeden doğan i stemler, bu kişilerin yerleşim yerlerinin bulunduğu ülkenin hukukuna göre belirlenir.
+MADDE 773- (1) Muhatap, yerleşim yerli poliçeyi ödeyecek olan üçüncü kişi ve
+düzenleyenin, poliçeyi hesabına düzenlediği kişi veya ticari işletme aleyhine sebepsiz
+zenginleşmeden doğan istemler, bu kişilerin yerleşim yerlerinin bulunduğu ülkenin hukukuna
+göre belirlenir.
 
 ---
 

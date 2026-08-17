@@ -21,6 +21,8 @@ işlerde hazır bulundurulmasını isteyebilir. Ancak, hâkim veya mahkeme taraf
 sayılan hâllerde tutuklu bulunan şüpheli veya sanığın da bu tür işlerde hazır bulunmasına
 karar verilebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

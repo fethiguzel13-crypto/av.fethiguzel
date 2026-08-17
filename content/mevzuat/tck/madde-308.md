@@ -26,8 +26,8 @@ Türkiye'de oturan yabancıya iki yıldan beş yıla kadar hapis ve onbin güne 
 cezası verilir.
 (4) Yukarıdaki fıkralarda yazılı fiillerin düşman devletle aralarında savaş için ittifak
 veya iştirak olan devlet yararına işlenmesi halinde de bu madde hükümleri uygulanır.
-BEŞİNCİ BÖLÜM
-Anayasal Düzene ve Bu Düzenin İşleyişine Karşı Suçlar
+
+---
 
 ### Akademik Yorum ve Analiz
 

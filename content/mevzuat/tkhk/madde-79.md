@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**Yiyecek taklidi ürünler**
+**DOKUZUNCU KISIM
+Çeşitli Hükümler
+Yiyecek taklidi ürünler**
 
 ---
 
@@ -26,6 +28,8 @@ alınacak önlemler ile bu önlemlerin Avrupa Komisyonuna bildirilmesi hususunda
 (4) Bakanlık, bu kapsamdaki ürünlerin piyasa gözetimi ve denetimini yapmakla görevlidir.
 (5) Yiyecek taklidi ürünleri satın alan tüketicilerin uğradıkları maddi ve manevi
 zararlar nedeniyle dava açma hakları saklıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

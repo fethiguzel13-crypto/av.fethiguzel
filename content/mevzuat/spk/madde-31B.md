@@ -24,8 +24,7 @@ hak tesis edilen teminat konusu varlıkların sevk ve idaresinin sağlanması, k
 muhafazası, hukuki yollara müracaat edilmesi, temerrüt hâlinde ya da kanun veya sözleşme
 hükümlerinde öngörülen sebeplerle, teminattan alacağın karşılanması söz konusu olduğunda;
 teminata konu varlığın paraya çevrilmesi, teminata konu varlıkların satış tutarının yatırımcılar
-
-arasında paylaştırılması, yatırımcıların alacağı karşılandıktan sonra arta kalan değer olursa
+arasında paylaştırılması, yatırımcıların alacağı karşılandıktan sonra arta kalan değer olursa
 bunun teminat verene iade edilmesi, borcun sona ermesi ile birlikte teminat konusu varlıkların
 teminat verene iade edilmesi, yatırımcıların menfaatlerinin korunması da dâhil diğer her türlü
 iş ve muamelelerin yerine getirilmesi için ihraçtan önce, ihraççı ile yazılı olarak akdedilecek
@@ -65,7 +64,7 @@ dışında kullanması durumunda 5237 sayılı Kanunun 155 inci maddesinin ikinc
 hükmedilecek ceza beş yıldan az olamaz.
 (11) Kurul, bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye yetkilidir.
 
-Kamuyu aydınlatma belgelerinden doğan sorumluluk
+---
 
 ### Akademik Yorum ve Analiz
 

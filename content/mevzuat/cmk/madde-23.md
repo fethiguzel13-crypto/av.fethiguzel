@@ -18,6 +18,8 @@ görev yapamaz.
 (3) Yargılamanın yenilenmesi halinde, önceki yargılamada görev yapan hâkim, aynı
 işte görev alamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

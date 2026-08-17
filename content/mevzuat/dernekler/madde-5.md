@@ -19,6 +19,8 @@ Yabancı dernekler, Dışişleri Bakanlığının görüşü alınmak suretiyle 
 izniyle Türkiye'de faaliyette veya işbirliğinde bulunabilir, temsilcilik veya şube açabilir, dernek
 veya üst kuruluş kurabilir veya kurulmuş dernek veya üst kuruluşlara katılabilirler.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

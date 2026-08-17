@@ -11,7 +11,8 @@ wordCount: 4283
 
 ---
 
-Madde 275 - Mal rejimi sona erince, mevcut ortaklık mallarının değerlend irilmesinde tasfiye anı esas alınır.
+Madde 275 - Mal rejimi sona erince, mevcut ortaklık mallarının değerlendirilmesinde
+tasfiye anı esas alınır.
 
 ---
 

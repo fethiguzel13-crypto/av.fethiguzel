@@ -21,6 +21,8 @@ kadardır. Ancak zorlama hapsinin toplam süresi altı ayı geçemez.
 (3) Zorlama hapsine ilişkin kararlar, Cumhuriyet başsavcılığınca yerine getirilir. Bu
 kararlar Bakanlığın ilgili il ve ilçe müdürlüklerine bildirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

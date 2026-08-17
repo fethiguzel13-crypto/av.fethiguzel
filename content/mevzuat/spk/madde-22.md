@@ -19,6 +19,8 @@ usul ve esasları düzenler.
 (2) Halka açık ortaklık paylarının, söz konusu ortaklığın konsolide bilançosuna dâhil
 edilen ortaklıklar tarafından satın alınması da bu madde hükümlerine tabidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

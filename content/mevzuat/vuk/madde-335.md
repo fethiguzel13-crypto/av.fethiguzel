@@ -7,13 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**a) Muhtelif vergi ziyaına sebebiyet verilmesi:111**
+**Tek fiil ve çeşitli suç işlenmesi:
+a) Muhtelif vergi ziyaına sebebiyet verilmesi:**
 
 ---
 
 Madde 335 – (Değişik: 30/12/1980-2365/61 md.)
 Vergi ziyaı cezasında cezayı istilzam eden tek bir fiil ile başka neviden birkaç vergi
 ziyaa uğramış olursa her vergi bakımından ayrı ayrı ceza kesilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

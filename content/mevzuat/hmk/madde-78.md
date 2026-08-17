@@ -14,6 +14,8 @@ wordCount: 4263
 MADDE 78- (1) Kendisinin de hazır olduğu duruşmada, vekili tarafından yapılan
 açıklamalara derhâl ve açıkça itiraz etmeyen taraf, bu açıklamalara rıza göstermiş sayılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

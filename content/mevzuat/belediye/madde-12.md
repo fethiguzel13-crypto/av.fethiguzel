@@ -21,20 +21,17 @@ beldenin köye dönüştürülmesine dair kararlar ilk mahallî idareler seçiml
 seçimler bu yerlerin yeni durumlarına göre yapılır.
 (Ek fıkra: 6/3/2007-5594/2 md.) Birleşme, katılma veya tüzel kişiliğin kaldırılması
 sonucu tüzel kişiliği ilk mahallî idare seçimlerine kadar devam edecek olan belediye ve
-köylerde, birleşme ve katılma işleminin gerçekleştiği (...)6 tarihten itibaren yeni nazım ve
+köylerde, birleşme ve katılma işleminin gerçekleştiği (…)tarihten itibaren yeni nazım ve
 uygulama planı yapılmaz; mevcut planlarda yapılması gereken zorunlu değişiklik ve her türlü
 imar uygulaması katılınacak belediyenin uygun görüşü alınarak yapılır. Uygun görüş
-verilmeyen plan değişiklikleri yapılamaz.78
+verilmeyen plan değişiklikleri yapılamaz.
 (Ek fıkra: 6/3/2007-5594/2 md.) Tüzel kişiliği sona erecek belediye ve köylerin
 taşınmazlarının satılması ile vadesi tüzel kişiliğin sona ereceği tarihi aşan borçlanma
-yapılması Çevre ve Şehircilik Bakanlığının onayına tabidir.9
+yapılması Çevre ve Şehircilik Bakanlığının onayına tabidir.
 (Ek fıkra: 6/3/2007-5594/2 md.) Belediye ihbar ve kıdem tazminatlarının ödenmesi
 konusunda, 68 inci maddenin (d) bendinde öngörülen sınırlamaya bağlı olmaksızın Çevre ve
 Şehircilik Bakanlığının onayı ile borçlanma yapabilir. Bu amaçla yapılan borçlanmalar ihbar
-6 Anayasa Mahkemesinin 7/12/2023 tarihli ve E.:2018/117; K.:2023/212 sayılı Kararı ile bu fıkrada yer alan “veya ... yayımlandığı” ibaresi iptal edilmiştir. 7 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 200 üncü maddesiyle bu fıkrada yer alan “müşterek kararnamenin” ibaresi “Cumhurbaşkanı kararının” şeklinde değiştirilmiştir. 8 18/6/2025 tarihli ve 7551 sayılı Kanunun 15 inci maddesi ile bu fıkrada yer alan “gerçekleşmesi” ibaresi “gerçekleştiği” şeklinde değiştirilmiştir. 9 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkralarda yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.
-
-
-ve kıdem tazminatı dışında hiçbir gider için kullanılamaz.9
+ve kıdem tazminatı dışında hiçbir gider için kullanılamaz.
 Bu Kanunda öngörülen nüfus büyüklüğü için Devlet İstatistik Enstitüsü Başkanlığınca
 bildirilen nüfus esas alınır.
 (Ek fıkra: 12/11/2012-6360/16 md.) Mevzuatla orman köyleri ve orman köylüsüne
@@ -44,6 +41,8 @@ tanınan hak, sorumluluk ve imtiyazlardan yararlanan mahalleye dönüştürülen
 geçerlidir. Bir belediyeye katılarak mahalleye dönüşen köy, köy bağlısı ve belediyelerce
 kullanılan mera, yaylak, kışlak gibi yerlerden bu mahalle sakinleri ve varsa diğer hak sahipleri
 25/2/1998 tarihli ve 4342 sayılı Mera Kanunu hükümleri çerçevesinde yararlanmaya devam eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

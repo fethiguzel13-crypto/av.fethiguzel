@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**Türkiye Sermaye Piyasaları Birliği**
+**Merkezî Takas Kuruluşları, Merkezî Saklama Kuruluşları ve
+Merkezî Kayıt Kuruluşu
+Türkiye Sermaye Piyasaları Birliği**
 
 ---
 
@@ -17,7 +19,7 @@ Kurulca uygun görülenler ile kitle fonlama platformları ve kripto varlık hiz
 kişiliği haiz kamu kurumu niteliğinde bir meslek kuruluşu olan Türkiye Sermaye Piyasaları
 Birliğine üye olmak için başvurmak zorundadırlar. Söz konusu kuruluşlar yetki belgelerini
 almalarından itibaren üç ay içinde gerekli başvuruyu yapmakla yükümlüdür. Anılan yükümlülüğe
-uymayan kuruluşların faaliyetleri Kurulca durdurulur.6
+uymayan kuruluşların faaliyetleri Kurulca durdurulur.
 (2) Birlik;
 a) Sermaye piyasalarının ve üye kuruluşların faaliyetlerinin gelişmesini sağlamak
 üzere araştırmalar yapmak,
@@ -36,6 +38,8 @@ tahkim yoluyla çözümüne ilişkin gerekli altyapıyı kurmak ve yönetmek,
 ile görevli ve yetkilidir.
 (3) Birlik, yapacağı düzenlemelerde ve alacağı kararlarda, bu Kanuna ve ilgili
 mevzuata uymakla yükümlüdür.
+
+---
 
 ### Akademik Yorum ve Analiz
 

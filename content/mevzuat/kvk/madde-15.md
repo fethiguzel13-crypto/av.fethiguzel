@@ -7,10 +7,6 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Vergi kesintisi36**
-
----
-
 MADDE 15- (1) Kamu idare ve kuruluşları, iktisadî kamu kuruluşları, sair kurumlar,
 ticaret şirketleri, iş ortaklıkları, dernekler, vakıflar, dernek ve vakıfların iktisadî işletmeleri,
 kooperatifler, yatırım fonu yönetenler, gerçek gelirlerini beyan etmeye mecbur olan ticaret ve
@@ -30,7 +26,7 @@ Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanuna göre kuru
 kiralama şirketleri, Özelleştirme İdaresince çıkarılan menkul kıymetler ve varlık kiralama
 şirketleri tarafından ihraç edilen kira sertifikalarından sağlanan gelirler (Döviz cinsinden
 yahut dövize, altına veya başka bir değere endeksli menkul kıymetlerin itfası sırasında oluşan
-değer artışları kesintiye tâbi tutulmaz.)3738
+değer artışları kesintiye tâbi tutulmaz.)
 ç) Mevduat faizleri.
 d) Katılım bankaları tarafından katılma hesabı karşılığında ödenen kâr payları.
 e) Kâr ve zarar ortaklığı belgesi karşılığı ödenen kâr payları.
@@ -40,11 +36,13 @@ g) (Ek: 31/5/2012-6322/38 md.) Başbayiler hariç olmak üzere 5602 sayılı Kan
 tanımlanan şans oyunlarına ilişkin bilet, kupon ve benzerlerini satanlara, düzenlenen her türlü
 bahis ve şans oyunlarının oynatılmasına aracılık edenlere, diğer kişilerce çıkartılan bu
 nitelikteki biletleri satanlara yapılan komisyon, prim ve benzeri ödemelerden.
+ğ) (Ek: 20/8/2016-6745/65 md.) Vergi Usul Kanununun 11 inci maddesinin yedinci
+fıkrası kapsamındaki ödemelerden.
 h) (Ek:28/7/2024-7524/33 md.) 23/10/2014 tarihli ve 6563 sayılı Elektronik Ticaretin
 Düzenlenmesi Hakkında Kanun hükümlerine göre aracı hizmet sağlayıcılarının ve elektronik
 ticaret aracı hizmet sağlayıcılarının, mezkûr Kanun kapsamındaki faaliyetleri dolayısıyla
 hizmet sağlayıcılarına ve elektronik ticaret hizmet sağlayıcılarına yaptıkları ödemelerden.
-i) (Ek:28/7/2024-7524/33 md.) Cumhurbaşkanınca belirlenen sektörler veya faaliyet
+ı) (Ek:28/7/2024-7524/33 md.) Cumhurbaşkanınca belirlenen sektörler veya faaliyet
 konularına ilişkin mal ve hizmet alımlarına yönelik yapılan ödemelerden.
 (2) Vergiden muaf olan kurumlara dağıtılan (Kârın sermayeye eklenmesi kâr dağıtımı
 sayılmaz.) Gelir Vergisi Kanununun 75 inci maddesinin ikinci fıkrasının (1), (2) ve (3)
@@ -63,7 +61,8 @@ idare kapsamında olup olmamasına, süresine, nev’ine ve yüklenicinin; ana y
 yüklenici ya da tam ve dar mükellef olmasına göre, birinci fıkranın; (h) bendi kapsamındaki
 vergi kesintisine konu ödemeleri faaliyet konuları ve ödeme türleri itibarıyla, (ı) bendi
 kapsamında vergi kesintisine konu mal ve hizmetleri ise faaliyet konuları, sektörler, iş
-grupları, iş nevileri itibarıyla ayrı ayrı veya birlikte belirlemeye yetkilidir.39 40 41
+39 40 41
+grupları, iş nevileri itibarıyla ayrı ayrı veya birlikte belirlemeye yetkilidir.
 (5) Bu madde gereğince vergi kesintisi yapmak zorunda olanlar, bu vergileri ödeme veya
 tahakkukun yapıldığı yer itibarıyla bağlı oldukları vergi dairesine, vergilendirme dönemini izleyen
 ayın yirminci günü akşamına kadar muhtasar beyanname ile bildirmeye mecburdurlar. Gelir
@@ -79,12 +78,7 @@ kesintisi, ödenen tutar ile ödemeyi yapanın yüklendiği verginin toplamı ü
 (8) Bu maddede belirtilen ödemelerden yapılan vergi kesintisi, kesinti yapanların kayıt
 ve hesaplarında ayrıca gösterilir.
 
-30/3/2025 tarihli ve 32857 sayılı Resmî Gazete’de yayımlanan 9707 sayılı Cumhurbaşkanı Kararına bakınız.
-36
-13/2/2011 tarihli ve 6111 sayılı Kanunun 91 inci maddesiyle, bu bentte yer alan “ve Özelleştirme İdaresince çıkarılan menkul kıymetlerden” ibaresi “Özelleştirme İdaresince çıkarılan menkul kıymetler ve varlık kiralama şirketleri tarafından ihraç edilen kira sertifikalarından” şeklinde değiştirilmiştir.
-38
-31/5/2012 tarihli ve 6322 sayılı Kanunun 38 inci maddesiyle bu bentte yer alan “Toplu Konut İdaresi” ibaresinden sonra gelmek üzere “, 28/3/2002 tarihli ve 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanuna göre kurulan varlık kiralama şirketleri,” ibaresi eklenmiştir.
-37
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -42,7 +42,7 @@ export default function BookmarkletPage() {
                     Tıklamak çalışmaz; yer imine <strong>sürüklemeniz</strong> gerekir.
                 </p>
 
-                <div className="mt-8 p-4 rounded-xl bg-white border border-charcoal/8">
+                <div className="mt-8 p-4 rounded-xl bg-white border border-charcoal/[0.08]">
                     <p className="text-xs font-bold text-charcoal/50 mb-2">Manuel ekleme</p>
                     <code className="text-[10px] break-all text-charcoal/60 block leading-relaxed">
                         {CODE}

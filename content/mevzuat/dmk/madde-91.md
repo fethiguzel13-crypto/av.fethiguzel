@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Kadroları kaldırılan devlet memurları**
+**Kadroları kaldırılan devlet memurları:**
 
 ---
 
@@ -22,11 +22,7 @@ Söz konusu memurların eski kadrolarına ait en son ayda aldığı malî haklar
 fiilen yapılmakta olan her türlü ödemeler toplamının net tutarının, atandıkları yeni kadrolarına
 ait malî haklar kapsamında fiilen yapılmakta olan her türlü ödemeler toplamının net
 tutarından fazla olması hâlinde, aradaki fark, farklılık giderilinceye kadar, atandıkları
-2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan “ilgili
-Bakanlığın teklifi ve Bakanlar Kurulunun” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-158
-
-kadrolarda veya bu kadrolardan istekleri dışında atandıkları başka kadrolarda kaldıkları
+kadrolarda veya bu kadrolardan istekleri dışında atandıkları başka kadrolarda kaldıkları
 sürece, herhangi bir vergi ve kesintiye tabi tutulmaksızın tazminat olarak ödenir. Aylık mutad
 olarak yapılmayıp belirli bir dönemi kapsayan ödemelerin ödendiği tarih itibarıyla net
 tutarları toplamının yılı içinde çalışılan aylara bölünmesi suretiyle bulunacak tutarı, en son
@@ -42,6 +38,8 @@ kuruluşuna intikalinden itibaren otuz gün içinde bu kurum ve kuruluş tarafı
 işlemlerinin yapılması zorunludur. Bunlardan unvanları müdür ve daha üst olanlar ile danışma
 işlevlerine ilişkin kadrolarda çalışanlar Araştırmacı kadrolarına, diğerleri ise durumlarına
 uygun kadrolara atanırlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

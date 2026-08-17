@@ -7,10 +7,6 @@ lastReviewed: "2026-07-20"
 wordCount: 4324
 ---
 
-**Malûllük aylığının hesaplanması, başlangıcı, kesilmesi ve yeniden bağlanması**
-
----
-
 MADDE 27- (Değişik: 17/4/2008-5754/15 md.)
 Malûllük aylığı; prim gün sayısı 9000 günden az olan sigortalılar için 9000 gün
 üzerinden, 9000 gün ve daha fazla olanlar için ise toplam prim ödeme gün sayısı üzerinden,
@@ -33,7 +29,7 @@ kapsamında çalışmaya başlayanların malûllük aylıkları, çalışmaya ba
 eden ödeme dönemi başında kesilir ve bu Kanuna tabi olarak çalıştıkları süre zarfında 80 inci
 maddeye göre belirlenen prime esas kazançları üzerinden 81 inci madde gereğince kısa ve
 uzun vadeli sigorta kolları ile genel sağlık sigortasına ait prim alınır. Bunlardan işten ayrılarak
-yenien malûllük aylığı bağlanması için yazılı istekte bulunan ya da emekliye ayrılan veya
+yeniden malûllük aylığı bağlanması için yazılı istekte bulunan ya da emekliye ayrılan veya
 sevkedilenlere; kontrol muayenesine tabi tutulmak ve ilk aylığına esas malûllüğünün devam
 ettiği anlaşılmak kaydıyla, 4 üncü maddenin birinci fıkrasının (c) bendi kapsamında
 çalışıyorsa görevinden ayrıldığı tarihi, diğerlerine ise istek tarihlerini takip eden ödeme
@@ -51,7 +47,9 @@ maddenin birinci fıkrasına göre hesaplanan aylığın emeklilik sonrası prim
 orantılı bölümü kadardır. Yeni aylık, eski aylığın kesildiği tarihten sonra aylıklara yapılan
 artışlar uygulanmak suretiyle bulunan tutarın altında olamaz.
 Yukarıdaki (a) ve (b) bentlerinde belirtilen 9000 prim gün sayısı, 4 üncü maddenin
-birinici fıkrasının (a) bendi kapsamında sigortalı sayılanlar için 7200 gün olarak uygulanır.
+birinci fıkrasının (a) bendi kapsamında sigortalı sayılanlar için 7200 gün olarak uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**Halk arasında korku ve panik yaratmak amacıyla tehdit**
+**BEŞİNCİ BÖLÜM
+Kamu Barışına Karşı Suçlar
+Halk arasında korku ve panik yaratmak amacıyla tehdit**
 
 ---
 
@@ -16,6 +18,8 @@ sağlık, vücut veya cinsel dokunulmazlık ya da malvarlığı bakımından ale
 kişi, iki yıldan dört yıla kadar hapis cezası ile cezalandırılır.
 (2) Suçun silahla işlenmesi halinde, verilecek ceza, kullanılan silahın niteliğine göre
 yarı oranına kadar artırılabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

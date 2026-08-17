@@ -11,7 +11,8 @@ wordCount: 4270
 
 ---
 
-MADDE 24 – (1) Yetkili makam kararı ile Türk vatandaşlığının kaybı, çıkma veya kaybettirme ya da vatandaşlığa alınmanın iptali ile gerçekleşir.
+MADDE 24 – (1) Yetkili makam kararı ile Türk vatandaşlığının kaybı, çıkma veya
+kaybettirme ya da vatandaşlığa alınmanın iptali ile gerçekleşir.
 
 ---
 

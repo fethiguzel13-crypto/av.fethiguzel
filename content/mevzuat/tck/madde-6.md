@@ -17,7 +17,7 @@ b) Çocuk deyiminden; henüz onsekiz yaşını doldurmamış kişi,
 c) Kamu görevlisi deyiminden; kamusal faaliyetin yürütülmesine atama veya seçilme
 yoluyla ya da herhangi bir surette sürekli, süreli veya geçici olarak katılan kişi,
 d) Yargı görevi yapan deyiminden; yüksek mahkemeler, adlî ve idarî mahkemeler üye
-ve hakimleri ile Cumhuriyet savcısı ve avukatlar,2
+ve hakimleri ile Cumhuriyet savcısı ve avukatlar,
 e) Gece vakti deyiminden; güneşin batmasından bir saat sonra başlayan ve doğmasından
 bir saat evvele kadar devam eden zaman süresi,
 f) Silah deyiminden;
@@ -39,11 +39,8 @@ kazançla sağlamaya alışmış kişi,
 j) Örgüt mensubu suçlu deyiminden; bir suç örgütünü kuran, yöneten, örgüte katılan
 veya örgüt adına diğerleriyle birlikte veya tek başına suç işleyen kişi,
 anlaşılır.
-2/7/2018 tarihli ve 700 sayılı KHK’nin 156 ncı maddesiyle, bu bentte yer alan “ve adlî, idarî ve
-askerî” ibaresi “, adlî ve idarî” şeklinde değiştirilmiştir.
 
-İKİNCİ BÖLÜM
-Kanunun Uygulama Alanı
+---
 
 ### Akademik Yorum ve Analiz
 

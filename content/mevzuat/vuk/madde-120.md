@@ -7,7 +7,7 @@ lastReviewed: "2026-07-11"
 wordCount: 2624
 ---
 
-**Düzeltme yetkisi ve reddiyat**
+**Düzeltme yetkisi ve reddiyat:**
 
 ---
 
@@ -21,8 +21,7 @@ başlıyarak bir yıl içinde parasını geri almak üzere müracaat etmediği t
 veya yersiz olarak tahsil edildiği anlaşılan vergilerde ve kanunları gereğince mükelleflere
 yapılacak iade ve mahsup işlemlerinde, düzeltmeye dayanak teşkil edecek belgeler ile bu
 işlemlere ait usul ve esaslar Maliye Bakanlığınca belirlenir.
-
-(Ek fıkra: 28/3/2007-5615/20 md.) Bu Kanunun 4 üncü maddesinde yazılı vergi
+(Ek fıkra: 28/3/2007-5615/20 md.) Bu Kanunun 4 üncü maddesinde yazılı vergi
 dairesinin görev ve yetkilerini haiz olarak faaliyete geçen vergi dairesi başkanlıklarında
 düzeltme yetkisi vergi dairesi başkanına ait olup, başkan bu yetkisini ilgili grup müdürlerine
 ve/veya müdürlere devredebilir.
@@ -31,6 +30,8 @@ mükellefiyet türü ile düzeltmeye konu tutarı ayrı ayrı veya birlikte dikk
 yetkisinin devredilmesi ile düzeltmenin bağlı olunan vergi dairesi dışındaki vergi daireleri
 tarafından yapılmasına izin vermeye ve uygulamaya ilişkin usul ve esasları belirlemeye
 yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

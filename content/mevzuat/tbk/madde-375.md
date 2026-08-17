@@ -11,7 +11,7 @@ wordCount: 4317
 
 ---
 
-Madde 375 - Kiralananı geri veren kiracı, düzenli bir işletmenin gerektirdiği oranda,
+MADDE 375- Kiralananı geri veren kiracı, düzenli bir işletmenin gerektirdiği oranda,
 son yılın samanlarını, hayvan yataklarını, kuru ot ve gübrelerini kiralananda bırakmakla
 yükümlüdür.
 Kiracı, almış olduğundan daha fazlasını bırakıyorsa, bıraktığı fazlalık için tazminat

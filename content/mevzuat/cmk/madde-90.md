@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**Yakalama ve yakalanan kişi hakkında yapılacak işlemler**
+**DÖRDÜNCÜ KISIM
+Koruma Tedbirleri
+BİRİNCİ BÖLÜM
+Yakalama ve Gözaltı
+Yakalama ve yakalanan kişi hakkında yapılacak işlemler**
 
 ---
 
@@ -26,12 +30,13 @@ karşı işlenen suçüstü hallerinde kişinin yakalanması şikâyete bağlı 
 kendisine veya başkalarına zarar vermesini önleyecek tedbirleri aldıktan sonra, yakalanan
 kişiye kanunî haklarını derhal bildirir.
 (5) (Değişik: 25/5/2005 – 5353/7 md.) Birinci fıkraya göre yakalanıp kolluğa teslim
-
-edilen veya ikinci fıkra uyarınca görevlilerce yakalanan kişi ve olay hakkında Cumhuriyet
+edilen veya ikinci fıkra uyarınca görevlilerce yakalanan kişi ve olay hakkında Cumhuriyet
 savcısına hemen bilgi verilerek, emri doğrultusunda işlem yapılır.
 (6) Yakalama emrine konu işlemin yerine getirilmesi nedeniyle yakalama emrinin
 çıkarılma amacının ortadan kalkması durumunda mahkeme, hâkim veya Cumhuriyet savcısı
 tarafından yakalama emrinin derhâl iadesi istenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

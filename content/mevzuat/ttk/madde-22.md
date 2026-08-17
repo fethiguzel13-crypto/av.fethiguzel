@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**4. Ücret ve söz leşme cezasının indirilmesi**
+**4. Ücret ve sözleşme cezasının indirilmesi**
 
 ---
 
-Madde 22 - (1) Tacir sıfatını haiz borçlu, Türk Borçlar Kanununun 121 inci maddesinin ikinci fıkrasıyla 182 nci maddesinin üçüncü fıkrasında ve 525 inci maddesinde yazılı hâllerde, aşırı ücret veya ceza kararlaştırılmış olduğu id diasıyla ücret veya sözleşme cezasının indirilmesini mahkemeden isteyemez.
+MADDE 22- (1) Tacir sıfatını haiz borçlu, Türk Borçlar Kanununun 121 inci
+maddesinin ikinci fıkrasıyla 182 nci maddesinin üçüncü fıkrasında ve 525 inci maddesinde
+yazılı hâllerde, aşırı ücret veya ceza kararlaştırılmış olduğu iddiasıyla ücret veya sözleşme
+cezasının indirilmesini mahkemeden isteyemez.
 
 ---
 

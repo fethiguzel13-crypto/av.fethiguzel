@@ -27,12 +27,7 @@ kendi isteğiyle Türkiye’den ayrılırsa, üçüncü bir ülkenin korumasınd
 bir ülkeye insani nedenler veya yeniden yerleştirme kapsamında kabul edilirse, üçüncü bir
 ülkeye çıkış yaparsa ya da ölürse,
 uluslararası koruma statüsü sona erer.
-6/12/2019 tarihli ve 7196 sayılı Kanunun 85 inci maddesiyle bu fıkraya “Mülteci” ibaresinden sonra gelmek
-üzere “, şartlı mülteci ve ikincil koruma” ibaresi eklenmiş ve bu fıkrada yer alan “üçer yıl süreli” ibaresi madde
-metninden çıkarılmıştır.
-24
-
-(2) Birinci fıkranın (d) ve (e) bentlerinin incelenmesinde, statü verilmesine neden olan
+(2) Birinci fıkranın (d) ve (e) bentlerinin incelenmesinde, statü verilmesine neden olan
 şartların ortadan kalkıp kalkmadığı veya önemli ve kalıcı bir şekilde değişip değişmediği göz
 önünde bulundurulur.
 (3) İkincil koruma statüsü verilmesine neden olan şartlar ortadan kalktığında veya
@@ -47,6 +42,8 @@ yazılı şekilde sunabilmesine fırsat verilir.
 yasal temsilcisine ya da avukatına tebliğ edilir. İlgili kişi bir avukat tarafından temsil
 edilmiyorsa kararın sonucu, itiraz usulleri ve süreleri hakkında kendisi veya yasal temsilcisi
 bilgilendirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

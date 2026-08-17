@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**A. Süreler
+**İKİNCİ AYIRIM
+Zamanaşımı
+A. Süreler
 I. On yıllık zamanaşımı**
 
 ---
 
-Madde 146 - Kanunda aksine bir hüküm bulunmadıkça, her alacak on yıllık
+MADDE 146- Kanunda aksine bir hüküm bulunmadıkça, her alacak on yıllık
 zamanaşımına tabidir.
 
 ---

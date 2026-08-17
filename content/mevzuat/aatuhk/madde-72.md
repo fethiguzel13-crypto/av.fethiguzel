@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**Yetişmemiş mahsullerin haczi**
+**Yetişmemiş mahsullerin haczi:**
 
 ---
 
@@ -19,6 +19,8 @@ Bu hüküm alacağı gayrimenkul rehni ile sağlanmış olan alacaklının, müt
 olarak gayrimenkulün yetişmemiş mahsulleri üzerinde haiz olduğu hakkı kaldırmaz. Şu kadar
 ki, alacaklı rehnin paraya çevrilmesi için mahsullerin yetişmesinden önce takip isteğinde
 bulunmuş olmalıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

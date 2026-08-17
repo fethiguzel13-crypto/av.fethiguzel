@@ -7,13 +7,9 @@ lastReviewed: "2026-07-27"
 wordCount: 2908
 ---
 
-**(Mülga: 31/5/2006-5510/106 md.)**
+Madde 209 – (Mülga: 31/5/2006-5510/106 md.)
 
 ---
-
-Madde 209 - (Mülga: 31/5/2006-5510/106 md.)
-
-Cenaze giderleri:
 
 ### Akademik Yorum ve Analiz
 

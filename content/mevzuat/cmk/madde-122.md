@@ -20,6 +20,8 @@ vekili çağrılır; çağrıya uyulmadığında gerekli işlem yapılır.
 (3) İnceleme sonucu soruşturma veya kovuşturma konusu suça ilişkin olmadığı
 anlaşılan belge veya kâğıtlar ilgilisine geri verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

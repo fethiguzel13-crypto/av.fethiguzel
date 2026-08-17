@@ -11,7 +11,10 @@ wordCount: 4311
 
 ---
 
-Madde 95 - (1) 8 inci maddedeki şartların varlığı hâlinde, alacak ile borç kalemlerinin birbirinden çıkarılması sonucunda bulunan bakiyeye, belirlenip hesaba kaydedildiği tariht en itibaren faiz işler; bileşik faize yol açabilecek uygulama yapılamaz; bu hükme aykırı sözleşme öngörülemez.
+MADDE 95- (1) 8 inci maddedeki şartların varlığı hâlinde, alacak ile borç kalemlerinin
+birbirinden çıkarılması sonucunda bulunan bakiyeye, belirlenip hesaba kaydedildiği tarihten
+itibaren faiz işler; bileşik faize yol açabilecek uygulama yapılamaz; bu hükme aykırı sözleşme
+öngörülemez.
 
 ---
 

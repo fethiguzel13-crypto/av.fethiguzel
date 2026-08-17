@@ -11,8 +11,9 @@ wordCount: 4305
 
 ---
 
-Madde 211 - Alacaklı tatmin edildiği takdirde eşlerden birinin istemi üzerine hâkim, mal o rtaklığının yeniden kurulmasına karar verebilir.
-Eşler, mal rejimi sözleşmesiyle edinilmiş mallara katılma r ejimini kabul edebilirler.
+Madde 211- Alacaklı tatmin edildiği takdirde eşlerden birinin istemi üzerine hâkim, mal
+ortaklığının yeniden kurulmasına karar verebilir.
+Eşler, mal rejimi sözleşmesiyle edinilmiş mallara katılma rejimini kabul edebilirler.
 
 ---
 

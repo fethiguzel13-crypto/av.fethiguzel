@@ -33,6 +33,8 @@ işvereni temsilen katılanlar, toplu iş sözleşmesinden yararlanamaz.
 olarak çalışanlar dışında işyerinde çalışmış olanlar aksine hüküm bulunmadıkça
 yararlanamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

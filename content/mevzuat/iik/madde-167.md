@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4275
 ---
 
-**Takibin kabulü şartları**
+**III – KAMBİYO SENETLERİ (ÇEK, POLİÇE VE EMRE MUHARRER
+SENET) HAKKINDAKİ HUSUSİ TAKİP USULLERİ:
+Takibin kabulü şartları:**
 
 ---
 
@@ -18,7 +20,8 @@ tabi şahıslardan ise iflas yolu ile takipte bulunabilir.
 Alacaklı, takip talebinde 58 inci maddedeki hususlardan başka iflasa tabi borçlusu
 aleyhine haciz ve iflas yollarından hangisini istediğini bildirmeğe ve takip talebine kambiyo
 senedinin aslını ve borçlu adedi kadar tasdikli örneğini eklemeğe mecburdur.
-A) Haciz yolu ile takip:
+
+---
 
 ### Akademik Yorum ve Analiz
 

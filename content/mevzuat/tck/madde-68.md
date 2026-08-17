@@ -28,6 +28,8 @@ geçmesiyle infaz edilmez.
 (5) Ceza zamanaşımı, hükmün kesinleştiği veya infazın herhangi bir suretle kesintiye
 uğradığı günden itibaren işlemeye başlar ve kalan ceza miktarı esas alınarak süre hesaplanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

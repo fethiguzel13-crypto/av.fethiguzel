@@ -11,7 +11,10 @@ wordCount: 4304
 
 ---
 
-Madde 355 - Ana ve baba, çocuk mallarının gelirlerini öncelikle çocuğu n bakımı, yetiştirilmesi ve eğitimi için; hakkaniyete uyduğ u ölçüde de aile ihtiy açlarını karşılamak üzere s arfedebilirler. Gelir fazlası, çocuk m alları na kat ılır.
+Madde 355- Ana ve baba, çocuk mallarının gelirlerini öncelikle çocuğun bakımı,
+yetiştirilmesi ve eğitimi için; hakkaniyete uyduğu ölçüde de aile ihtiyaçlarını karşılamak üzere
+sarfedebilirler.
+Gelir fazlası, çocuk mallarına katılır.
 
 ---
 

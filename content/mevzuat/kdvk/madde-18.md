@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**İstisnadan vazgeçme**
+**YEDİNCİ BÖLÜM
+İstisnadan Vazgeçme ve İstisnaların Sınırı
+İstisnadan vazgeçme:**
 
 ---
 
@@ -21,11 +23,13 @@ Cumhurbaşkanınca vergi muafiyeti tanınan vakıfların kuruluş amaçlarına u
 işletmek veya yönetmek suretiyle ifa ettikleri teslim ve hizmetlere ilişkin istisnalar hariç
 olmak üzere, 17 nci maddenin (1) ve (2) numaralı fıkralarıyla (3) numaralı fıkranın (a) ve (4)
 numaralı fıkranın (e) bentlerinde yazılı istisnalar hakkında yukarıdaki (1) numaralı fıkra
-hükmü uygulanmaz.66
+hükmü uygulanmaz.
 3. İstisnadan vazgeçeceklerin talepleri üzerine, vergi dairesince, vergi mükellefiyetleri
 talep tarihinden itibaren tesis olunur. Bu şekilde mükellef olanlar üç yıl geçmedikçe
 mükellefiyetten çıkamazlar. Mükellefler üç yıllık sürenin bitiminden önce mükellefiyetten
 çıkma talebinde bulunmadıkları takdirde mükellefiyet yeniden üç yıl süre ile uzatılmış sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -15,6 +15,8 @@ Madde 183- (1) İlgili kanunlarla belirlenen yükümlülüklere aykırı olarak,
 kimsenin sağlığının zarar görmesine elverişli bir şekilde gürültüye neden olan kişi, iki aydan
 iki yıla kadar hapis veya adlî para cezası ile cezalandırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

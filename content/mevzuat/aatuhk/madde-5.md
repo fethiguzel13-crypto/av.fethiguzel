@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**Takibata salahiyetli tahsil dairesi**
+**Takibata salahiyetli tahsil dairesi:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 5 – Takibat, alacaklı amme idaresinin mahalli tahsil dairesince yapıl�
 Borçlu veya malları başka mahallerde bulunduğu takdirde, tahsil dairesi borçlunun
 veya mallarının bulunduğu mahalde yapılacak takipleri o mahaldeki aynı neviden amme
 idaresinin tahsil dairelerine niyabeten yaptırır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

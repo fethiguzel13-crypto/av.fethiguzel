@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**Ödeme süresi**
+**BEŞİNCİ BÖLÜM
+Verginin Ödenmesi
+Ödeme süresi**
 
 ---
 
@@ -27,6 +29,8 @@ b) Diğer hallerde ise beyanname verme süresi içerisinde, devralan veya birle�
 kurumlarca ödenir.
 (4) Muhtasar beyanname ile bildirilen vergiler, beyannamenin verildiği ayın
 yirmialtıncı günü akşamına kadar ödenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

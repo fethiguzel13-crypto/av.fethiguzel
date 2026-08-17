@@ -11,7 +11,9 @@ wordCount: 4293
 
 ---
 
-Madde 900 - İpotekli borç senedindeki alacak, aksi kararlaştırılmış olmadıkça, fai zlerin ödenmesi gereken tarihte, bu tarihten en az altı ay önce alacaklı veya borçlu taraf ından diğer tarafa yapılacak bildirimle muaccel olur.
+Madde 900- İpotekli borç senedindeki alacak, aksi kararlaştırılmış olmadıkça, faizlerin
+ödenmesi gereken tarihte, bu tarihten en az altı ay önce alacaklı veya borçlu tarafından diğer
+tarafa yapılacak bildirimle muaccel olur.
 
 ---
 

@@ -7,14 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**Bilgi suistimali**
+**İKİNCİ BÖLÜM
+Sermaye Piyasası Suçları
+Bilgi suistimali**
 
 ---
 
 MADDE 106 – (1) Doğrudan ya da dolaylı olarak sermaye piyasası araçları ya da
 ihraççılar hakkında, ilgili sermaye piyasası araçlarının fiyatlarını, değerlerini veya yatırımcıların
-
-kararlarını etkileyebilecek nitelikteki ve henüz kamuya duyurulmamış bilgilere dayalı olarak
+kararlarını etkileyebilecek nitelikteki ve henüz kamuya duyurulmamış bilgilere dayalı olarak
 ilgili sermaye piyasası araçları için alım ya da satım emri veren veya verdiği emri değiştiren
 veya iptal eden ve bu suretle kendisine veya bir başkasına menfaat temin eden;
 a) İhraççıların veya bunların bağlı veya hâkim ortaklıklarının yöneticileri,
@@ -26,7 +27,9 @@ d) Sahip oldukları bilginin bu fıkrada belirtilen nitelikte bulunduğunu bilen
 edilmesi hâlinde bilmesi gereken kişiler,
 üç yıldan beş yıla kadar hapis veya adli para cezası ile cezalandırılırlar. Ancak, bu
 suçtan dolayı adli para cezasına hükmedilmesi hâlinde verilecek ceza elde edilen menfaatin
-iki katından az olamaz.14
+iki katından az olamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

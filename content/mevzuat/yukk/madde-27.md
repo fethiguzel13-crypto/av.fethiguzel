@@ -17,6 +17,8 @@ Muafiyet Teyit Belgesi, ikamet izni sayılır. (Mülga ikinci cümle: 28/7/2016-
 (2) Çalışma izni verilebilmesi veya iznin uzatılabilmesi için yabancının 7 nci madde
 kapsamına girmemesi şartı aranır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**İflas takiplerinde yetkili merci**
+**ALTINCI BAP
+İflas yoliyle takip
+I – YETKİ:
+İflas takiplerinde yetkili merci:**
 
 ---
 
@@ -21,7 +24,8 @@ Borçlu ile alacaklı yetkili icra dairesini yazılı anlaşma ile tayin etmişl
 dairesi dahi iflas takibi için yetkili sayılır. Şu kadar ki, iflas davaları için yetki sözleşmesi
 yapılamaz ve iflas davası mutlaka borçlunun muamele merkezinin bulunduğu yer ticaret
 mahkemesinde açılır.
-II – İFLAS YOLİYLE ADİ TAKİP:
+
+---
 
 ### Akademik Yorum ve Analiz
 

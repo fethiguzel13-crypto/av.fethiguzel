@@ -25,16 +25,13 @@ Bu Kanun ile büyükşehir belediyesine verilen trafik hizmetlerini plânlama,
 koordinasyon ve güzergâh belirlemesi ile taksi, dolmuş ve servis araçlarının durak ve araç
 park yerleri ile sayısının tespitine ilişkin yetkiler ile büyükşehir sınırları dahilinde il trafik
 komisyonunun yetkileri ulaşım koordinasyon merkezi tarafından kullanılır.
-15 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibareleri “Çevre ve Şehircilik” şeklinde değiştirilmiştir.
-
-
-Ulaşım koordinasyon merkezi kararları, büyükşehir belediye başkanının onayı ile
+Ulaşım koordinasyon merkezi kararları, büyükşehir belediye başkanının onayı ile
 yürürlüğe girer.
 Ulaşım koordinasyon merkezi tarafından toplu taşıma ile ilgili alınan kararlar,
 belediyeler ve bütün kamu kurum ve kuruluşlarıyla ilgililer için bağlayıcıdır.
 Koordinasyon merkezinin çalışma esas ve usulleri ile bu kurullara katılacak kamu
 kurum ve kuruluş temsilcileri, Çevre ve Şehircilik Bakanlığı ile İçişleri Bakanlığı tarafından
-müştereken çıkarılan yönetmelikle belirlenir.16
+müştereken çıkarılan yönetmelikle belirlenir.
 Büyükşehir belediyelerine bu Kanun ile verilen görev ve yetkilerin uygulanmasında,
 13.10.1983 tarihli ve 2918 sayılı Karayolları Trafik Kanununun bu Kanuna aykırı hükümleri
 uygulanmaz.
@@ -44,6 +41,8 @@ ulaşım ana planlarında bisikletli ulaşıma yer verilmesi ya da bisikletli ul
 hazırlanması esastır. Bakanlıkça, talep hâlinde mahalli idarelere teknik destek verilebilir. Bu
 fıkraya ilişkin idari ve teknik usul ve esaslar Çevre ve Şehircilik Bakanlığınca çıkarılan
 yönetmelikle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

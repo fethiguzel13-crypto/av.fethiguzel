@@ -22,6 +22,8 @@ cezası ile cezalandırılır.
 (2) Cebir veya tehdit kullanılarak ya da hukuka aykırı başka bir davranışla bir siyasi
 partinin faaliyetlerinin engellenmesi halinde, iki yıldan beş yıla kadar hapis cezasına hükmolunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

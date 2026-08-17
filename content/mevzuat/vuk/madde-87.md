@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**Komisyonlara seçilecek üyelerde aranacak vasıflar**
+**Komisyonlara seçilecek üyelerde aranacak vasıflar:**
 
 ---
 
@@ -19,7 +19,7 @@ itimadını kazanmış bulunmak.
 2. Medeni haklardan ıskat edilmiş bulunmamak.
 3. Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş olsa bile;
 kasten işlenen bir suçtan dolayı beş yıl veya daha fazla süreyle hapis cezasına ya da devletin
-güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, (…)21
+güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, (…)
 zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli
 iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı
 değerlerini aklama, kaçakçılık veya vergi kaçakçılığı suçlarından mahkûm olmamak.
@@ -27,6 +27,8 @@ değerlerini aklama, kaçakçılık veya vergi kaçakçılığı suçlarından m
 5. Tadilat ve zirai kazançlar il komisyonlarına seçileceklerde ayrıca mensup olduğu
 şehir veya kasabanın iktisadi şartlarına ve emlak ve ziraat işlerine vukufu olmak ve yirmibeş
 yaşını bitirmiş bulunmak.
+
+---
 
 ### Akademik Yorum ve Analiz
 

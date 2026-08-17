@@ -16,6 +16,8 @@ eksilme olduğu takdirde; vakıf senedindeki hükümlere göre, hüküm bulunmam
 vakıf senedi değişikliğine yetkili organın, bunun bulunmaması halinde ise icraya yetkili
 organın kararı ve Genel Müdürlüğün görüşü alınarak mahkemece yenisi seçilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

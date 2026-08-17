@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Serbest meslek erbabının tesisleri**
+**Serbest meslek erbabının tesisleri:**
 
 ---
 
@@ -37,8 +37,7 @@ zarar olarak işleme tâbi tutulur.
 hakkı, bu Kanunun mükerrer 298 inci maddesi ve üçüncü kitabının üçüncü kısmının birinci
 bölümünde kiralama konusu iktisadî kıymet için belirlenmiş esaslar çerçevesinde yeniden
 değerlemeye ve amortismana tâbi tutulur.
-
-Kiralayan tarafından, finansal kiralamaya konu iktisadî kıymetin bu maddenin (1)
+Kiralayan tarafından, finansal kiralamaya konu iktisadî kıymetin bu maddenin (1)
 numaralı fıkrasının üçüncü paragrafına göre belirlenen değeri üzerinden amortisman
 ayrılmaya devam olunur.
 Bu madde kapsamında değerlenen borç ve alacak tutarları reeskonta tâbi tutulmaz.
@@ -77,8 +76,7 @@ durumunda ödenmesi gereken bedelin toplamıdır.
 Kira Ödemelerinin Bugünkü Değeri: Kira ödemelerinin, sözleşme tarihinde,
 kiralamada kullanılan faiz oranının dikkate alınması suretiyle hesaplanan bugünkü
 değerlerinin toplamıdır.
-
-Kiralamada kullanılan faiz oranı tespit edilemiyorsa, kiracının kiralamaya konu
+Kiralamada kullanılan faiz oranı tespit edilemiyorsa, kiracının kiralamaya konu
 iktisadî kıymeti satın almak için aynı vade ile alması gereken borç için katlanacağı faiz oranı
 kullanılır.
 Kiralamada Kullanılan Faiz Oranı: Kira ödemeleri ile garanti edilmemiş kalan değer
@@ -86,6 +84,8 @@ toplamının bugünkü değerini, kiralamaya konu iktisadî kıymetin rayiç bed
 iskonto oranıdır.
 4. Maliye Bakanlığı, bu maddenin uygulamasına yönelik usul ve esasları belirlemeye
 yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

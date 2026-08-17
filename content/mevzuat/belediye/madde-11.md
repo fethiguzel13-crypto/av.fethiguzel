@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**Tüzel kişiliğin sona erdirilmesi5**
+**Tüzel kişiliğin sona erdirilmesi**
 
 ---
 
@@ -24,10 +24,7 @@ K.:2023/212 sayılı Kararı ile) (Yeniden Düzenlenen cümle:18/6/2025-7551/14 
 Nüfusu 2.000’in altına düşen belediyeler köye dönüştürülür. Tüzel kişiliği kaldırılan
 belediyenin tasfiyesi il özel idaresi tarafından yapılır. Bu belediyenin taşınır ve taşınmaz
 malları ile hak, alacak ve borçları ilgili köy tüzel kişiliğine intikal eder. İntikal eden borçların
-5 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 200 üncü maddesiyle bu maddenin birinci fıkrasında yer alan “Danıştayın görüşü alınarak, İçişleri Bakanlığının teklifi üzerine müşterek kararname” ibaresi “Cumhurbaşkanı kararı” şeklinde ve ikinci fıkrasında yer alan “Danıştayın görüşü alınarak, İçişleri Bakanlığının önerisi üzerine müşterek kararname” ibaresi “Cumhurbaşkanı kararı” şeklinde değiştirilmiştir.
-
-
-karşılanamayan kısımları il özel idaresi tarafından üstlenilir ve vali tarafından İller Bankasına
+karşılanamayan kısımları il özel idaresi tarafından üstlenilir ve vali tarafından İller Bankasına
 bildirilir. İller Bankası bu miktarı, takip eden ayın genel bütçe vergi gelirleri tahsilat
 toplamının belediyelere ayrılan kısmından keserek ilgili il özel idaresi hesabına aktarır.
 (Ek fıkra: 6/3/2008-5747/3 md.) Tüzel kişiliği kaldırılan belediyelerin bulunduğu
@@ -39,6 +36,8 @@ yürütmek üzere hizmet birimleri kurulabilir. Büyükşehir belediye sınırla
 hizmet birimlerini yönetmek üzere, büyükşehir belediye meclis üyeleri veya diğer belediye
 personeli arasından görevlendirme yapılabilir. Mahalli hizmetlerin aksamadan yürütülmesi için
 vali veya kaymakamlar ilgili kuruluşlar arasında koordinasyonu sağlar ve gerekli tedbirleri alır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -34,8 +34,7 @@ yetkili kılınması şarttır. Yeni pay alma hakkını kısıtlama yetkisi, pay
 eşitsizliğe yol açacak şekilde kullanılamaz. 6102 sayılı Kanunun 461 inci maddesinin ikinci
 ve üçüncü fıkraları hükümleri halka açık ortaklıklar için uygulanmaz.
 (6) Yönetim kurulunun bu maddedeki esaslar çerçevesinde aldığı kararlar aleyhine,
-
-6102 sayılı Kanunun genel kurul kararlarının iptaline ilişkin hükümleri çerçevesinde yönetim
+6102 sayılı Kanunun genel kurul kararlarının iptaline ilişkin hükümleri çerçevesinde yönetim
 kurulu üyeleri veya hakları ihlal edilen pay sahipleri, kararın ilanından itibaren otuz gün
 içinde ortaklık merkezinin bulunduğu yer ticaret mahkemesinde iptal davası açabilirler.
 (7) Sermaye artırımının bu madde hükümlerine uygun olarak gerçekleştirilmesinden
@@ -51,6 +50,8 @@ kayıtlı sermayeyi aşamaz.
 Kurulca çıkarılma ve şarta bağlı sermaye artırımı usul ve esasları Kurulca belirlenir. Daha
 önce 6102 sayılı Kanun uyarınca bu sisteme geçmiş olup da sonradan halka açık hâle gelen
 ortaklıklar da bu fıkra hükmüne tabidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

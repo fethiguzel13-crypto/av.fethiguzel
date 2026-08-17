@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Devletin sorumluluğu ve rücu**
+**İKİNCİ AYIRIM
+Hâkimin Hukuki Sorumluluğu
+Devletin sorumluluğu ve rücu**
 
 ---
 
@@ -29,9 +31,7 @@ yahut mahkûmiyet şartına bağlanamaz.
 (3) Devlet, ödediği tazminat nedeniyle, sorumlu hâkime ödeme tarihinden itibaren bir
 yıl içinde rücu eder.
 
-2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “tefhim veya” ibaresi
-madde metninden çıkarılmış ve “bir hafta” ibaresi “iki hafta” şeklinde değiştirilmiştir.
-8
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Madde 854**
+**2.Belirli olma
+a. Taşınmaz tek ise**
 
 ---
 
-Madde 854 - Rehin kurulurken, konusu olan taşınmazın belirtilmesi gerekir. Bölünen taşınmazın par selleri tapu kütüğüne ayrı ayrı kaydedilmedikçe rehne konu ola maz.
+Madde 854- Rehin kurulurken, konusu olan taşınmazın belirtilmesi gerekir.
+Bölünen taşınmazın parselleri tapu kütüğüne ayrı ayrı kaydedilmedikçe rehne konu olamaz.
 
 ---
 

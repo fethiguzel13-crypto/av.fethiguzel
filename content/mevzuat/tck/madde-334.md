@@ -17,6 +17,8 @@ yasakladığı ve niteliği bakımından gizli kalması gereken bilgileri temin 
 (2) Fiil, Devletin savaş hazırlıklarını veya savaş etkinliğini veya askerî hareketlerini
 tehlikeyle karşı karşıya bırakmış ise faile beş yıldan on yıla kadar hapis cezası verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

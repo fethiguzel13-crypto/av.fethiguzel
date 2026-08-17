@@ -16,12 +16,7 @@ denetleme kuruludur.
 (2) Birliğin organlarının seçiminin yapılacağı genel kurul toplantısından en az on beş
 gün önce, seçimlere katılacak Birlik üyelerini ve temsilcilerini belirleyen liste, toplantının
 gündemini, yerini, gününü, saatini ve çoğunluk olmadığı takdirde yapılacak ikinci toplantıya
-26/6/2024 tarihli ve 7518 sayılı Kanunun 6 ncı maddesi ile bu fıkraya “sermaye piyasalarında
-faaliyet gösteren kurumlardan Kurulca uygun görülenler” ibaresinden sonra gelmek üzere “ile kitle
-fonlama platformları ve kripto varlık hizmet sağlayıcıları” ibaresi eklenmiştir.
-6
-
-ilişkin hususları belirten bir yazı ile birlikte üç nüsha olarak Yüksek Seçim Kurulunca
+ilişkin hususları belirten bir yazı ile birlikte üç nüsha olarak Yüksek Seçim Kurulunca
 belirlenecek seçim kurulu başkanı hâkime tevdi edilir. Hâkim gerekli incelemeyi yaparak
 listeyi ve diğer hususları onaylar, bir sandık kurulu başkanı ve iki sandık kurulu üyesi ile
 bunlar için birer yedek üye atar. Oy verme işlemi, gizli oy ve açık tasnif esasına göre yapılır.
@@ -34,7 +29,7 @@ tarafından yapılan itiraz da aynı şekilde incelenir ve karara bağlanır.
 geçici ve sürekli çıkarma esasları, Kurulun önerisi ve ilgili Bakanlığın teklifi üzerine
 Cumhurbaşkanı kararı ile yürürlüğe konulan Statüsüyle düzenlenir. Kurul, Birliğin talebi
 üzerine ya da resen gerekli görülen hâllerde Statüde değişiklik yapılmasını ilgili Bakanlığa
-teklif edebilir.7
+teklif edebilir.
 (4) 74 üncü maddede belirlenen tüm Birlik üyelerinin, Birlik yönetim kurulunda temsil
 edilmeleri esastır. Bu esası teminen izlenmesi gereken aday olma ve aday gösterme usulleri
 Birlik Statüsünde belirtilir.
@@ -50,6 +45,8 @@ sağlanması için Sermaye Piyasası Kurulundan gerekli tedbirlerin alınmasın�
 gibi Birliğin her türlü işlem ve hesaplarını denetlemeye de yetkilidir. Birliğin yetkili
 organlarınca alınan kararlara karşı, kararın ilgiliye tebliğini izleyen on iş günü içinde Kurul
 nezdinde itiraz edilebilir. İtiraza ilişkin olarak Kurulca verilecek kararlar kesindir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

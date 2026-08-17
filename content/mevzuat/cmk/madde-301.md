@@ -15,6 +15,8 @@ Madde 301 – (1) Yargıtay, yalnız temyiz başvurusunda belirtilen hususlar il
 istemi usule ilişkin noksanlardan kaynaklanmışsa, temyiz başvurusunda bunu belirten olaylar
 hakkında incelemeler yapar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

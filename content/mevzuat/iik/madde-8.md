@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4282
 ---
 
-**Tutanaklar**
+**Tutanaklar:**
 
 ---
 
@@ -19,7 +19,8 @@ memuru veya yardımcısı veya katibi tarafından imzalanır.
 olarak tutanaklara yazılır.
 İlgililer bu tutanakları görebilir ve bunların örneğini alabilir.
 İcra ve iflas dairelerinin tutanakları, hilafı sabit oluncaya kadar muteberdir.
-Elektronik işlemler:6
+
+---
 
 ### Akademik Yorum ve Analiz
 

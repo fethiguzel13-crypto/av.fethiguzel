@@ -14,6 +14,8 @@ wordCount: 4288
 Madde 253- (1) Rüşvet suçunun işlenmesi suretiyle yararına haksız menfaat sağlanan
 tüzel kişiler hakkında bunlara özgü güvenlik tedbirlerine hükmolunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

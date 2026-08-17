@@ -11,7 +11,7 @@ wordCount: 4313
 
 ---
 
-Madde 137 - Borcun ifası borçlunun sorumlu tutulamayacağı sebeplerle kısmen
+MADDE 137- Borcun ifası borçlunun sorumlu tutulamayacağı sebeplerle kısmen
 imkânsızlaşırsa borçlu, borcunun sadece imkânsızlaşan kısmından kurtulur. Ancak, bu kısmi
 ifa imkânsızlığı önceden öngörülseydi taraflarca böyle bir sözleşmenin yapılmayacağı açıkça
 anlaşılırsa, borcun tamamı sona erer.

@@ -22,17 +22,12 @@ karar ve işlemler, üçüncü kişilere menfaat temini amacıyla yapıldığı 
 eden kişiler hakkında da temin ettikleri menfaat üzerinden uygulanır. Haklarında şahsi iflas
 kararı verilenlerin aktiflerinden nakit olanlar doğrudan doğruya, olmayanlar ise paraya
 çevrilmek suretiyle, müşterilerin zararlarının ödenmesinde kullanılır. Aktiflerden öncelikle
-müşteri
-zararları
-ödenir.
-Müşteri
-zararlarının
-tamamının
-karşılanamaması
+müşteri zararları ödenir. Müşteri zararlarının tamamının karşılanamaması
 hâlinde garameten ödeme yapılır. Müşteri zararları tamamen karşılandıktan sonra artan kısım
 haklarında şahsi iflas kararı verilenlere iade edilir. Bu madde hükmüne göre iflası istenenler
 hakkında mahkemece 2004 sayılı Kanunun 257 nci ve izleyen maddeleri hükümleri uygulanır.
-Bilgi ve belge vermeme, denetimin engellenmesi
+
+---
 
 ### Akademik Yorum ve Analiz
 

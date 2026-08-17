@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**Arazinin hal ve heyetinde değişiklik**
+**Arazinin hal ve heyetinde değişiklik:**
 
 ---
 
@@ -19,6 +19,8 @@ yüzünden tarıma elverişsiz hale gelmesi;
 4. Tarım yapılmıyan bir arazinin tarıma elverişli hale getirilmesi;
 5. Arazinin üzerine veya altına inşaat yapılması;
 6. Arazinin parsellenmek suretiyle arsalar haline getirilmesi.
+
+---
 
 ### Akademik Yorum ve Analiz
 

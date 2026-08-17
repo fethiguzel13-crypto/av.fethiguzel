@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
-**Mükellefiyet kaydının analiz ve değerlendirme sonuçlarına bağlı olarak terkini**
+**Mükellefiyet kaydının analiz ve değerlendirme sonuçlarına bağlı olarak terkini:**
 
 ---
 
@@ -20,8 +20,7 @@ yüksek olduğu tespit edilen mükellefler vergi incelemesine sevk edilir ve bun
 yoklama yapılır.
 Yoklamayı müteakip, Hazine ve Maliye Bakanlığı tarafından belirlenen esaslar
 çerçevesinde vergi dairesinin mükellefin sahte belge düzenleme riskinin yüksek olduğuna
-
-ilişkin görüşü ve ilgisine göre vergi dairesi başkanı veya defterdarın onayı ile mükellefiyet
+ilişkin görüşü ve ilgisine göre vergi dairesi başkanı veya defterdarın onayı ile mükellefiyet
 kaydı terkin edilir ve bu durum mükellefe tebliğ edilir. Tebliğ tarihinden itibaren bir ay
 içerisinde 153/A maddesinin birinci fıkrasında yer alan asgari teminat tutarından az olmamak
 üzere, sahte belge düzenleme riskinin yüksek olduğu dönemlerde düzenlenen belgelerde yer
@@ -60,10 +59,10 @@ esaslara göre duyurulur. Bu kapsamda yapılan duyurular vergi mahremiyetinin ih
 sayılmaz.
 Hazine ve Maliye Bakanlığı, madde kapsamındaki işlemlere ilişkin süreleri, elektronik
 ortamda belge düzenleme zorunluluğunun başlayacağı tarihi, bu madde kapsamındaki
-
-mükelleflerin tahsilat ve ödemelerinin tevsiki ile bu maddenin uygulanmasına ilişkin diğer
+mükelleflerin tahsilat ve ödemelerinin tevsiki ile bu maddenin uygulanmasına ilişkin diğer
 usul ve esasları belirlemeye yetkilidir.
-İşi bırakmanın tarifi:
+
+---
 
 ### Akademik Yorum ve Analiz
 

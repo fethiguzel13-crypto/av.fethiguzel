@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Planların hazırlanması ve yürürlüğe konulması:5**
+**Planların hazırlanması ve yürürlüğe konulması:**
 
 ---
 
@@ -23,11 +23,12 @@ sınırları içinde kalan yerlerin nazım ve uygulama imar planları ilgili bel
 yaptırılır. (Ek cümle:14/2/2020-7221/6 md.) Planlar, plan değişiklikleri ve plan revizyonları;
 kayıt altına alınmak ve arşivlenmek üzere Bakanlıkça oluşturulan elektronik ortama
 yüklenmek ve aynı sistem üzerinden Plan İşlem Numarası almak zorundadır. Planlar, belediye
-meclisince onaylanarak yürürlüğe girer. (Yeniden düzenleme dördüncü cümle: 12/7/20136495/73 md.) Bu planlar onay tarihinden itibaren belediye başkanlığınca tespit edilen ilan
+meclisince onaylanarak yürürlüğe girer. (Yeniden düzenleme dördüncü cümle: 12/7/2013-
+6495/73 md.) Bu planlar onay tarihinden itibaren belediye başkanlığınca tespit edilen ilan
 yerlerinde ve ilgili idarelerin internet sayfalarında bir ay süreyle eş zamanlı olarak ilan edilir.
 Bir aylık ilan süresi içinde planlara itiraz edilebilir. Belediye başkanlığınca belediye meclisine
 gönderilen itirazlar ve planları belediye meclisi onbeş gün içinde inceleyerek kesin karara
-bağlar.6
+bağlar.
 Belediye ve mücavir alan dışında kalan yerlerde yapılacak planlar valilik veya
 ilgilisince yapılır veya yaptırılır. Valilikçe uygun görüldüğü takdirde onaylanarak yürürlüğe
 girer. (Yeniden düzenleme üçüncü cümle: 12/7/2013-6495/73 md.) Onay tarihinden itibaren
@@ -35,19 +36,7 @@ valilikçe tespit edilen ilan yerinde ve ilgili idarelerin internet sayfalarınd
 zamanlı olarak ilan edilir. Bir aylık ilan süresi içinde planlara itiraz edilebilir. İtirazlar valiliğe
 yapılır, valilik itirazları ve planları onbeş gün içerisinde inceleyerek kesin karara bağlar.
 (Ek paragraf:14/2/2020-7221/6 md.) İmar planları ve bu planlardaki değişikliklerin
-14/2/2020 tarihli ve 7221 sayılı Kanunun 5 inci maddesiyle, bu bentte yer alan “mevzi” ibaresi
-madde metninden çıkarılmıştır.
-5
-Bu maddenin birinci fıkrasının (b) bendinin dördüncü cümlesi ile ikinci fıkrasının üçüncü cümlesi,
-Anayasa Mahkemesi’nin 29/1/2012 tarihli ve E.: 2011/106, K.: 2012/192 sayılı Kararı ile iptal edilmiş
-olup, daha sonra 12/7/2013 tarihli ve 6495 sayılı Kanunun 73 üncü maddesiyle yeniden
-düzenlenmiştir.
-6
-14/2/2020 tarihli ve 7221 sayılı Kanunun 6 ncı maddesiyle, bu bentte yer alan “Belediye” ibaresi
-“Planlar, belediye” şeklinde değiştirilmiştir.
-4
-
-nerede askıya çıktığına dair bilgilendirme ilanı, askı süresi ile eş zamanlı olarak ilgili
+nerede askıya çıktığına dair bilgilendirme ilanı, askı süresi ile eş zamanlı olarak ilgili
 muhtarlıkların panosunda duyurulur. Ayrıca plan değişikliği hakkında, değişikliğe konu
 alanda görülebilir bir şekilde en az 2 adet tabela ile 30 gün süreyle bilgilendirme yapılır.
 (Ek paragraf:14/2/2020-7221/6 md.) Kentsel tasarım projeleri uygulama imar
@@ -56,7 +45,7 @@ esaslar Bakanlıkça belirlenir.
 Onaylanmış planlarda yapılacak değişiklikler de yukarıdaki usullere tabidir.
 Kesinleşen imar planlarının bir kopyası, Bakanlıkça oluşturulan elektronik ortamdaki
 Ulusal Coğrafi Bilgi Sistemi Altyapısı üzerinden, ilgili idaresi tarafından, arşivlenmek üzere
-Bakanlığa gönderilir.7
+Bakanlığa gönderilir.
 İmar planları alenidir. Bu aleniyeti sağlamak ilgili idarelerin görevidir. Belediye
 Başkanlığı ve mülki amirlikler, imar planının tamamını veya bir kısmını kopyalar veya
 kitapçıklar haline getirip çoğaltarak tespit edilecek ücret karşılığında isteyenlere verir.
@@ -64,7 +53,7 @@ kitapçıklar haline getirip çoğaltarak tespit edilecek ücret karşılığın
 planlarına karşı kesinleşme tarihinden itibaren her halde beş yıl içinde dava açılabilir.
 (Ek paragraf:14/2/2020-7221/6 md.) Sanayi alanları, ileri atıksu arıtma tesisleri,
 ibadethane alanları ve tarımsal amaçlı silo yapıları hariç olmak üzere imar planlarında bina
-yükseklikleri yençok: serbest olarak belirlenemez.8
+yükseklikleri yençok: serbest olarak belirlenemez.
 (Ek paragraf:14/2/2020-7221/6 md.) Sanayi alanları, ibadethane alanları ve tarımsal
 amaçlı silo yapıları hariç olmak üzere mer’i imar planlarında yençok: serbest olarak
 belirlenmiş yükseklikler; emsal değerde değişiklik yapılmaksızın çevredeki mevcut
@@ -82,16 +71,7 @@ Kanununda belirtilen izinler alınmadan; tarımsal amaç dışında kullanılama
 köy ve/veya mezraların yerleşik alanı ve civarı veya yerleşik alan olarak tespit edilemez.
 ç) (Ek: 12/7/2013-6495/73 md.) (Değişik:14/2/2020-7221/6 md.) Bakanlıkça
 belirlenen tanım ve esaslara göre hazırlanıp onaylanan plan, plan değişikliği ve
-14/2/2020 tarihli ve 7221 sayılı Kanunun 6 ncı maddesiyle, bu paragrafa “kopyası,” ibaresinden
-sonra gelmek üzere “Bakanlıkça oluşturulan elektronik ortamdaki Ulusal Coğrafi Bilgi Sistemi
-Altyapısı üzerinden, ilgili idaresi tarafından, arşivlenmek üzere” ibaresi eklenmiştir.
-8
-10/6/2022 tarihli ve 7410 sayılı Kanunun 9 uncu maddesiyle bu paragrafta yer alan “İmar
-planlarında” ibaresi “Sanayi alanları, ileri atıksu arıtma tesisleri, ibadethane alanları ve tarımsal
-amaçlı silo yapıları hariç olmak üzere imar planlarında” şeklinde değiştirilmiştir.
-7
-
-revizyonlarının, parselasyon planlarının, yapı ruhsatı ve yapı kullanma izin belgelerinin, imar
+revizyonlarının, parselasyon planlarının, yapı ruhsatı ve yapı kullanma izin belgelerinin, imar
 mevzuatına konu edilen orto-görüntüler ile diğer coğrafi veri ve bilgilerin, ilgili idareler ile
 kurum ve kuruluşlarca; Cumhurbaşkanınca belirlenen usul, esas ve ilgili standartlara uygun
 şekilde ve sayısal olarak; üretilmesi, elektronik ortamda ilan edilmesi, Ulusal Coğrafi Bilgi
@@ -131,8 +111,7 @@ kararı almaya ve yıkımı gerçekleştirmeye, ilgililer hakkında idari yaptı
 yetkilidir. Bu görevlerden, yapı tatil tutanağı tanzim etmeye, mühürlemeye ve yıkım kararına
 ilişkin rapor düzenleme işi ile denetlemeye ilişkin görevler, Bakanlığın merkez ve taşra
 teşkilatında, denetçi belgesini haiz personel tarafından gerçekleştirilir. İlgililer Bakanlık
-
-denetçileri tarafından istenilen her türlü bilgi ve belgeyi, istenilen süre içerisinde vermek
+denetçileri tarafından istenilen her türlü bilgi ve belgeyi, istenilen süre içerisinde vermek
 zorundadırlar. Bakanlık denetçilerinin seçimi, eğitimleri, görev, yetki ve sorumlulukları ile
 çalışma usul ve esasları Bakanlıkça belirlenir.
 ğ) (Ek: 12/7/2013-6495/73 md.) (Değişik cümle:14/2/2020-7221/6 md.) Büyükşehir
@@ -170,12 +149,13 @@ j) (Ek: 12/7/2013-6495/73 md.) İlgili idareler, Bakanlıkça belirlenen esaslar
 mimari estetik komisyonu kurar. Komisyon, yapıların ve onaylı mimari projelerinin özgün fikir
 ifade edip etmediğine karar vermeye yetkilidir. Özgün fikir ifade etmeyenlerde yapılacak
 değişikliklerde ilk müellifin görüşü aranmaz. Özgün fikir ifade eden mimarlık eser ve
-
-projelerinde; (…)9 eserin bütünlüğünü bozmadığına, estetik görünümünü değiştirmediğine,
+projelerinde; (…)eserin bütünlüğünü bozmadığına, estetik görünümünü değiştirmediğine,
 teknik, yönetsel amaçlar ve kullanım amacı nedeniyle zorunlu olduğuna karar verilen
 değişiklikler müellifinin izni alınmaksızın yapılabilir. Bu durumda ilk müellif tarafından talep
 edilebilecek telif ücreti; ilgili meslek odasınca belirlenen mimari proje asgari hizmet bedelinin,
 tamamlanan yapılarda yüzde yirmisini, inşaatı süren yapılarda yüzde on beşini geçemez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -19,6 +19,8 @@ yerleşim yeri mahkemesinden başka bir mahkemeye getirmek amacıyla açıldığ
 belirtilerle anlaşılırsa, mahkeme, ilgili davalının itirazı üzerine, onun hakkındaki davayı
 ayırarak yetkisizlik kararı verir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

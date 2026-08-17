@@ -7,11 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4275
 ---
 
-**Madde 356 – (Mülga: 30/12/2004-5281/44 md.)**
+Madde 357 – (Mülga: 30/12/1980-2365/81 md.)
 
 ---
-
-Madde 357 – (Mülga: 30/12/1980-2365/81 md.)
 
 ### Akademik Yorum ve Analiz
 

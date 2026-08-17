@@ -11,7 +11,7 @@ wordCount: 4261
 
 ---
 
-Madde 255 - Taksitle satış sözleşmesi, alıcı bakımından, taraflarca imzalanmış
+MADDE 255- Taksitle satış sözleşmesi, alıcı bakımından, taraflarca imzalanmış
 sözleşmenin bir nüshasının eline geçmesinden yedi gün sonra hüküm ve sonuçlarını doğurur.
 Alıcı, bu süre içinde irade açıklamasını geri aldığını satıcıya yazılı olarak bildirebilir. Bu
 haktan önceden feragat edilemez. Geri alma bildiriminin sürenin son gününde postaya

@@ -15,6 +15,8 @@ Madde 58 - Yıllık ücretli iznini kullanmakta olan işçinin izin süresi içi
 karşılığı bir işte çalıştığı anlaşılırsa, bu izin süresi içinde kendisine ödenen ücret işveren
 tarafından geri alınabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

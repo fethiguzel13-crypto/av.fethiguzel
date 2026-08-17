@@ -1,35 +1,80 @@
 apply plugin: 'com.android.application'
 
+// ─────────────────────────────────────────────────────────────────────────────
+// Flavor kimliği — scripts/build-flavor.mjs tarafından üretilir.
+//
+// Galaxy modelinde tek Android modülünden dört ayrı Play uygulaması çıkar.
+// Kimliği belirleyen tüm alanlar (applicationId, sürüm, görünen ad, şema,
+// derin bağlantı yolu) bu dosyadan okunur; hiçbiri gradle içine gömülmez.
+// Dosya yoksa portal varsayılanları geçerlidir, böylece Android Studio'da
+// proje jeneratör çalıştırılmadan da açılır.
+// ─────────────────────────────────────────────────────────────────────────────
+def flavorPropsFile = file('flavor.properties')
+def flavorProps = new Properties()
+if (flavorPropsFile.exists()) {
+    flavorPropsFile.withInputStream { flavorProps.load(it) }
+}
+
+def flavorId          = flavorProps.getProperty('id', 'portal')
+def flavorAppId       = flavorProps.getProperty('applicationId', 'com.avfethiguzel.hukuk')
+def flavorAppName     = flavorProps.getProperty('appName', 'Av. Fethi Güzel')
+def flavorVersionCode = Integer.parseInt(flavorProps.getProperty('versionCode', '1'))
+def flavorVersionName = flavorProps.getProperty('versionName', '1.0.0')
+def flavorAccent      = flavorProps.getProperty('accent', '#2E4036')
+def flavorAccentDark  = flavorProps.getProperty('accentDark', '#1F2B24')
+def flavorScheme      = flavorProps.getProperty('scheme', 'avfethiguzel')
+def flavorLinkHost    = flavorProps.getProperty('linkHost', 'www.avfethiguzel.com')
+
 // Play yükleme imzası: android/keystore.properties (git'e eklenmez)
-// storeFile=../upload.jks
-// storePassword=...
-// keyAlias=fethiguzel
-// keyPassword=...
 def keystorePropertiesFile = rootProject.file('keystore.properties')
 def keystoreProperties = new Properties()
 if (keystorePropertiesFile.exists()) {
-    keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+    keystorePropertiesFile.withInputStream { keystoreProperties.load(it) }
 }
+def hasReleaseSigning = keystorePropertiesFile.exists() &&
+        keystoreProperties['storeFile'] != null &&
+        file(keystoreProperties['storeFile'] as String).exists()
 
 android {
+    // namespace = R / BuildConfig paketi. Kaynak ağacı com.avfethiguzel.hukuk
+    // altında olduğu için sabit kalır; mağazadaki kimlik applicationId'dir.
     namespace "com.avfethiguzel.hukuk"
     compileSdk rootProject.ext.compileSdkVersion
+
     defaultConfig {
-        applicationId "com.avfethiguzel.hukuk"
+        applicationId flavorAppId
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 3
-        versionName "1.2.0"
+        versionCode flavorVersionCode
+        versionName flavorVersionName
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-        aaptOptions {
-             // Files and dirs to omit from the packaged assets dir, modified to accommodate modern web apps.
-             // Default: https://android.googlesource.com/platform/frameworks/base/+/282e181b58cf72b6ca770dc7ca5f91f135444502/tools/aapt/AaptAssets.cpp#61
-            ignoreAssetsPattern '!.svn:!.git:!.ds_store:!*.scc:.*:!CVS:!thumbs.db:!picasa.ini:!*~'
-        }
+
+        // strings.xml'de tanımlı DEĞİL — çift kaynak hatası olmasın diye
+        // yalnızca burada üretilir.
+        resValue "string", "app_name", flavorAppName
+        resValue "string", "title_activity_main", flavorAppName
+        resValue "string", "package_name", flavorAppId
+        resValue "string", "custom_url_scheme", flavorAppId
+        resValue "color", "colorPrimary", flavorAccent
+        resValue "color", "colorPrimaryDark", flavorAccentDark
+
+        manifestPlaceholders = [
+                appLinkHost   : flavorLinkHost,
+                customScheme  : flavorScheme,
+                flavorId      : flavorId,
+        ]
+
     }
+
+    androidResources {
+        // Modern web app varlıkları paketlensin diye Capacitor'ın gevşetilmiş
+        // deseni. (aaptOptions AGP 9'da kaldırılıyor; androidResources kalıcı ad.)
+        ignoreAssetsPattern '!.svn:!.git:!.ds_store:!*.scc:.*:!CVS:!thumbs.db:!picasa.ini:!*~'
+    }
+
     signingConfigs {
         release {
-            if (keystorePropertiesFile.exists()) {
+            if (hasReleaseSigning) {
                 keyAlias keystoreProperties['keyAlias']
                 keyPassword keystoreProperties['keyPassword']
                 storeFile file(keystoreProperties['storeFile'])
@@ -37,19 +82,46 @@ android {
             }
         }
     }
+
     buildTypes {
         release {
-            minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-            if (keystorePropertiesFile.exists()) {
+            // R8: küçültme + kaynak temizliği. WebView köprüsü reflection
+            // kullandığı için kurallar proguard-rules.pro içinde.
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            if (hasReleaseSigning) {
                 signingConfig signingConfigs.release
             }
         }
+        debug {
+            applicationIdSuffix '.debug'
+            versionNameSuffix '-debug'
+        }
+    }
+
+    bundle {
+        language {
+            // Play "dil başına indirme" bölmesi kapalı: uygulama TR/EN dizgileri
+            // çalışma anında seçiyor, bölünmüş APK'da eksik dil oluşmasın.
+            enableSplit = false
+        }
+    }
+
+    packagingOptions {
+        resources {
+            excludes += ['META-INF/*.kotlin_module', 'META-INF/DEPENDENCIES']
+        }
+    }
+
+    lint {
+        abortOnError false
+        checkReleaseBuilds false
     }
 }
 
 repositories {
-    flatDir{
+    flatDir {
         dirs '../capacitor-cordova-android-plugins/src/main/libs', 'libs'
     }
 }
@@ -68,11 +140,24 @@ dependencies {
 
 apply from: 'capacitor.build.gradle'
 
+// Derleme başında hangi kimliğin üretildiğini yaz — yanlış flavor ile AAB
+// üretip mağazaya yüklemek bu projede yaşanmış bir hata sınıfıdır.
+tasks.register('printFlavorIdentity') {
+    doLast {
+        println "── Galaxy flavor: ${flavorId}"
+        println "   applicationId : ${flavorAppId}"
+        println "   versionName   : ${flavorVersionName} (${flavorVersionCode})"
+        println "   appName       : ${flavorAppName}"
+        println "   signing       : ${hasReleaseSigning ? 'release keystore' : 'YOK — imzasız çıktı'}"
+    }
+}
+preBuild.dependsOn 'printFlavorIdentity'
+
 try {
     def servicesJSON = file('google-services.json')
     if (servicesJSON.text) {
         apply plugin: 'com.google.gms.google-services'
     }
-} catch(Exception e) {
+} catch (Exception e) {
     logger.info("google-services.json not found, google-services plugin not applied. Push Notifications won't work")
 }

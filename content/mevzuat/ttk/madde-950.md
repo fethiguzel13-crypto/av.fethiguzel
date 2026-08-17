@@ -11,7 +11,9 @@ wordCount: 4284
 
 ---
 
-Madde 950 - (1) Sicile kayıtlı bir geminin bordasının iki yanına adının, kıçına da adı ile bağlama limanının usulüne uygun olarak yazılması yükümlülüğüne uymayan kaptan üç aya kadar hapis veya adli para cezasıyla cezalandırılır.
+MADDE 950- (1) Sicile kayıtlı bir geminin bordasının iki yanına adının, kıçına da adı
+ile bağlama limanının usulüne uygun olarak yazılması yükümlülüğüne uymayan kaptan üç
+aya kadar hapis veya adli para cezasıyla cezalandırılır.
 
 ---
 

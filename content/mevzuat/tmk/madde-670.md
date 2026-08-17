@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**B. Mirasçılık sıfatının ka ybı hâlinde**
+**B. Mirasçılık sıfatının kaybı hâlinde**
 
 ---
 
-Madde 670 - Mira sın açılmasından önce veya sonra mirasçılık sıfatını kaybeden mirasçıya ait geri verme yükümlülüğü, onun yerini alan mirasçılara, miras pay larında meydana gelen artış oranında geçer.
+Madde 670- Mirasın açılmasından önce veya sonra mirasçılık sıfatını kaybeden mirasçıya
+ait geri verme yükümlülüğü, onun yerini alan mirasçılara, miras paylarında meydana gelen artış
+oranında geçer.
 
 ---
 

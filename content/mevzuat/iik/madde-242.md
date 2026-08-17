@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**Artırmanın ilanı**
+**Artırmanın ilanı:**
 
 ---
 
 Madde 242 – (Değişik birinci fıkra:24/11/2021-7343/30 md.) Artırma ilanı ve
 hazırlık tedbirleri 126 ncı madde hükmü uyarınca yapılır.
 İpotek alacaklısına ilandan bir nüsha verilir ve kendisine tahmin edilen bedel bildirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**Haczedilemiyecek mallar**
+**Haczedilemiyecek mallar:**
 
 ---
 
@@ -32,8 +32,7 @@ a) Borçlu çiftçi ise ayrıca gelecek mahsul için gerekli olan tohumluğu,
 b) Borçlu bağ, bahçe veya meyva ve sebze yetiştiricisi ise kendisinin ve ailesinin
 geçimleri için zaruri olan bağ, bahçe ve bu işler için gerekli bulunan alat ve edevatı,
 malzemesi ve fide ve tohumluğu,
-
-c) Geçimi hayvan yetiştirmeye munhasır olan borçlunun kendisinin ve ailesinin
+c) Geçimi hayvan yetiştirmeye munhasır olan borçlunun kendisinin ve ailesinin
 geçimleri için zaruri olan miktarda hayvan ile bu hayvanların üç aylık yem ve yataklıkları,
 7. Memleketin ordu ve zabıta hizmetlerinde malül olanlara bağlanan emekli aylıkları
 ile, bu kabil kimselerin dul ve yetimlerine bağlanan aylıklar ve ordunun hava ve denizaltı
@@ -48,6 +47,8 @@ sayılı kanun gereğince verilen tekel beyiyeleri,
 münasip bir yer alınabilecek miktarı borçluya bırakılmak üzere haczedilerek satılabilir",
 12. (Değişik: 26/11/1980 - 2347/8 md.) Harcırah Kanununa göre yapılan ödemeler,
 13. (Ek: 26/11/1980-2347/8 md.) 2022 sayılı Kanun uyarınca bağlanan aylıklar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

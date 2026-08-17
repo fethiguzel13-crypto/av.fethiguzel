@@ -7,14 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**II
-- Sorumluluktan kurtulma
+**II - Sorumluluktan kurtulma
 1. Genel olarak
 a) Taşıyıcının özeni**
 
 ---
 
-Madde 876 - (1) Zıya, hasar ve gecikme, taşıyıcının en yüksek özeni göstermesine rağmen kaçınamayacağı ve sonuçlarını önleyemeyeceği sebeplerden meydana gelmişse, taşıyıcı sorumluluktan kurtulur.
+MADDE 876- (1) Zıya, hasar ve gecikme, taşıyıcının en yüksek özeni göstermesine
+rağmen kaçınamayacağı ve sonuçlarını önleyemeyeceği sebeplerden meydana gelmişse,
+taşıyıcı sorumluluktan kurtulur.
 
 ---
 

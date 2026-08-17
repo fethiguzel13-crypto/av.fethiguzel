@@ -11,7 +11,8 @@ wordCount: 4283
 
 ---
 
-Madde 387 - (1) Şirketi n kendi paylarını iktisap edebileceğine ilişkin diğer kanunlardaki hükümler saklıdır.
+MADDE 387- (1) Şirketin kendi paylarını iktisap edebileceğine ilişkin diğer
+kanunlardaki hükümler saklıdır.
 
 ---
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**Cephe hattı**
+**Cephe hattı:**
 
 ---
 
@@ -17,6 +17,8 @@ uygun bina inşaatına yetmiyorsa, beş yıllık imar programı içinde olup olm
 uncu maddede belirtilen müddetler içerisinde 18 inci madde hükümleri tatbik edilmediği veya
 başka bir şekilde halline imkan bulunmadığı takdirde mal sahibinin yazılı müracaatı üzerine,
 bu arsanın tamamı ilgili idarelerce kamulaştırılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

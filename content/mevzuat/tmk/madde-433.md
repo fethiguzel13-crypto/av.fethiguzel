@@ -11,7 +11,9 @@ wordCount: 4311
 
 ---
 
-Madde 433 - Yerleştirme veya alık oymaya karar verme yet kisi, ilgilinin yerleşim yeri veya gecikmesinde sakınca bul unan hâllerde bulunduğu yer vesayet makamına aittir. Yerleştirme veya a lıkoym aya karar veren vesayet makamı, kurumdan çıkarmaya da yetkilidir.
+Madde 433- Yerleştirme veya alıkoymaya karar verme yetkisi, ilgilinin yerleşim yeri
+veya gecikmesinde sakınca bulunan hâllerde bulunduğu yer vesayet makamına aittir.
+Yerleştirme veya alıkoymaya karar veren vesayet makamı, kurumdan çıkarmaya da yetkilidir.
 
 ---
 

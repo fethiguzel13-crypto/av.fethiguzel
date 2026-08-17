@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**Rehin ve ipotekle temin edilmiş alacaklar**
+**Rehin ve ipotekle temin edilmiş alacaklar:**
 
 ---
 
@@ -20,12 +20,11 @@ edilmiş alacaklar ile Toplu Konut İdaresi Başkanlığının rehinle temin edi
 takibinde, rehnin paraya çevrilmesi yoluyla takip yapılabilir veya haciz yoluna başvurulabilir.
 Police ve emre muharrer senetlerle çekler hakkındaki 167 nci madde hükmü
 mahfuzdur.
-
-İpotekle temin edilmiş faiz ve senelik taksit alacaklarında, alacaklının intihabına ve
+İpotekle temin edilmiş faiz ve senelik taksit alacaklarında, alacaklının intihabına ve
 borçlunun sıfatına göre, rehinin paraya çevrilmesi veya haciz yahut iflas yollarına müracaat
 olunabilir.
-(Ek fıkra: 27/5/1933-2228/1 md.; Mülga: 29/6/1956-6763/42 md.)
-Haciz yoliyle takip:
+
+---
 
 ### Akademik Yorum ve Analiz
 

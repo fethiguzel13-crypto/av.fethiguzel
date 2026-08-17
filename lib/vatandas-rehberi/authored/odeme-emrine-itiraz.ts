@@ -1,0 +1,144 @@
+import type { VatandasArticle } from '../types';
+
+/**
+ * Kaynak doğrulaması — hepsi content-packs/iik.json.gz resmî metninden:
+ *   İİK m.60  ödeme emrinin muhtevası · yedi günlük ödeme ihtarı
+ *   İİK m.62  itirazın süresi ve şekli · yedi gün · dilekçe veya sözlü
+ *   İİK m.66  müddeti içinde yapılan itiraz takibi durdurur
+ *   İİK m.67  itirazın iptali · bir yıl · %20'den az olmamak üzere tazminat
+ *
+ * Doğrulama: node scripts/madde.mjs iik 60-68
+ */
+export const odemeEmrineItiraz: VatandasArticle = {
+  slug: 'odeme-emrine-itiraz',
+  title: 'Ödeme Emrine İtiraz: Yedi Günlük Süre ve Sonuçları',
+  description:
+    'İcra dairesinden ödeme emri geldi. Yedi gün içinde nereye, nasıl itiraz edilir; itiraz takibi durdurur mu, alacaklı ne yapabilir? İİK m.60-67 çerçevesinde.',
+  h1: 'Ödeme emrine nasıl itiraz edilir?',
+  keywords: [
+    'ödeme emrine itiraz',
+    'icra takibine itiraz',
+    'ödeme emri 7 gün',
+    'itirazın iptali davası',
+    'borca itiraz dilekçesi',
+    'imzaya itiraz',
+  ],
+  category: 'İcra',
+  role: 'pillar',
+  related: ['icra-takibi-nedir'],
+  links: [
+    { label: 'İİK m.60 — Ödeme emri', href: '/mevzuat/iik/madde-60' },
+    { label: 'İİK m.62 — İtirazın süresi ve şekli', href: '/mevzuat/iik/madde-62' },
+    { label: 'İİK m.66 — İtirazın hükmü', href: '/mevzuat/iik/madde-66' },
+    { label: 'İİK m.67 — İtirazın iptali', href: '/mevzuat/iik/madde-67' },
+  ],
+  lead:
+    'Ödeme emrine itiraz süresi, tebliğ tarihinden itibaren yedi gündür. İtiraz, takibi yapan icra dairesine dilekçeyle ya da sözlü olarak bildirilir; süresinde yapılan itiraz takibi kendiliğinden durdurur.',
+  keyInsight:
+    'Yedi gün geçerse takip kesinleşir ve haciz aşamasına geçilir; itiraz için mahkemeye gitmek gerekmez, icra dairesine başvurmak yeterlidir.',
+  sections: [
+    {
+      heading: 'Ödeme emri elinize geçtiğinde ne oluyor?',
+      paragraphs: [
+        'İcra müdürü, takip talebinin kanundaki şartları taşıdığına karar verirse ödeme emri düzenler. İİK m.60 bu emrin içeriğini sayar ve borcun yedi gün içinde icra dairesinin banka hesabına ödenmesi ihtarını zorunlu kılar.',
+        'Aynı emirde, takibin dayandığı senet altındaki imza size ait değilse bunu da yedi gün içinde açıkça bildirmeniz istenir. Bu ayrım önemsiz görünmekle birlikte, sonradan imzaya itiraz edememenin kapısını kapatır.',
+        'Tebligatı elinize aldığınız gün süre işlemeye başlar. Zarfın üzerindeki tebliğ tarihi bu yüzden dosyanın en kritik bilgisidir; itiraz dilekçesini yazmadan önce ilk bakılacak yer orasıdır.',
+      ],
+    },
+    {
+      heading: 'Yedi gün içinde ne yapmalısınız?',
+      paragraphs: [
+        'İİK m.62 borçluya iki yol tanır: İtiraz, ödeme emrinin tebliği tarihinden itibaren yedi gün içinde dilekçe ile veya sözlü olarak icra dairesine bildirilir. Mahkemeye başvurmaya gerek yoktur; muhatap doğrudan takibi yürüten icra dairesidir.',
+        'İtiraz başka bir icra dairesine yapılırsa o daire gereken masrafı alarak itirazı derhal yetkili daireye gönderir. Farklı şehirde bulunan borçlu bu sayede yerinde başvurabilir, ne var ki masrafı yatırmayı unutmamak gerekir.',
+        'Kanun ayrıca borçluya bir yükümlülük yükler: Borçlu veya vekili, dava ve takip işlemlerine esas olmak üzere yurt içinde bir adres bildirmek zorundadır. Adres bildirilmez ve sonradan yeni adres tespit edilemezse, takip talebindeki adrese çıkarılan tebligat borçluya yapılmış sayılır.',
+      ],
+      bullets: [
+        'Süre: tebliğden itibaren yedi gün',
+        'Merci: takibi yapan icra dairesi',
+        'Biçim: dilekçe veya sözlü beyan',
+        'Zorunlu: yurt içinde bir adres bildirimi',
+      ],
+    },
+    {
+      heading: 'Neye itiraz ediyorsunuz?',
+      paragraphs: [
+        'İtirazın kapsamı sonucu belirlediğinden, dilekçede neye karşı çıktığınızı açıkça yazmanız gerekir. Borcun tamamına itiraz edilebileceği gibi bir kısmına da itiraz edilebilir; ancak kısmî itirazda borçlunun itiraz ettiği kısmın cihet ve miktarını açıkça göstermesi şarttır, aksi hâlde itiraz edilmemiş sayılır.',
+        'Senede dayalı takiplerde imza da tartışma konusu olabilir. Borçlu, takibin dayanağı senet altındaki imzayı reddediyorsa bunu itirazında açıkça belirtmelidir; genel bir borcum yoktur beyanı imzaya itiraz sayılmaz.',
+        'Yetkiye itiraz da bu aşamada ileri sürülür. İcra dairesinin yetkisiz olduğunu düşünüyorsanız, itirazınızda yetkili icra dairesini de göstermeniz beklenir.',
+      ],
+    },
+    {
+      heading: 'İtiraz takibi durdurur mu?',
+      paragraphs: [
+        'İİK m.66 sonucu tek cümleyle koyar: Müddeti içinde yapılan itiraz takibi durdurur. Bu, haciz işlemlerinin bir kenara bırakılması anlamına gelir; alacaklının ilerlemesi için artık mahkemeye gitmesi gerekir.',
+        'İtiraz süresinde değilse tablo tersine döner ve alacaklının talebi üzerine icra memuru takip işlemlerine alacağın tamamı için devam eder. Kısmî itirazda ise takip, borçlunun kabul ettiği miktar için sürer.',
+        'Takibin durması borcun ortadan kalkması değildir. Uyuşmazlık yalnızca yer değiştirir: Alacaklı, itirazı bertaraf etmek için dava veya icra mahkemesi yoluna başvuracaktır.',
+      ],
+    },
+    {
+      heading: 'Alacaklı bundan sonra ne yapar?',
+      paragraphs: [
+        'İİK m.67 alacaklıya itirazın iptali davasını açar. Takip talebine itiraz edilen alacaklı, itirazın tebliği tarihinden itibaren bir sene içinde mahkemeye başvurarak alacağının varlığını genel hükümler dairesinde ispat suretiyle itirazın iptalini dava edebilir.',
+        'Bu davanın tazminat boyutu her iki taraf için de risklidir. Borçlunun itirazının haksızlığına karar verilirse borçlu, alacaklı takibinde haksız ve kötü niyetli görülürse alacaklı, diğer tarafın talebi üzerine reddedilen veya hükmolunan meblağın yüzde yirmisinden aşağı olmamak üzere uygun bir tazminata mahkûm edilir.',
+        'İtiraz eden veli, vasi veya mirasçı ise ölçüt yumuşar; bu kişiler hakkında tazminata hükmedilmesi kötü niyetin ispatına bağlıdır. Bir yıllık süreyi kaçıran alacaklının genel hükümlere göre dava açma hakkı ise saklıdır.',
+        'Elinde kanunda sayılan nitelikte bir belge bulunan alacaklının ikinci bir yolu daha vardır; icra mahkemesinden itirazın kaldırılmasını isteyebilir. Bu yol daha hızlı işlemekle birlikte, dar bir inceleme yapıldığından her dosyaya uygun düşmez.',
+      ],
+    },
+    {
+      heading: 'Sık yapılan hatalar',
+      paragraphs: [
+        'Birinci hata beklemektir. Yedi günlük süre hak düşürücüdür ve kaçırıldığında takip kesinleşir; artık itiraz değil, ancak menfi tespit veya istirdat gibi çok daha yorucu yollar kalır.',
+        'İkincisi yanlış mercie başvurmaktır. İtiraz icra dairesine yapılır; doğrudan mahkemeye verilen dilekçe süreyi korumaz.',
+        'Üçüncüsü belirsiz dilekçedir. Böyle bir borcum yok cümlesi imzaya itiraz sayılmadığı gibi, kısmî itirazda miktarı göstermeyen beyan da hiç yapılmamış kabul edilir.',
+      ],
+    },
+  ],
+  steps: [
+    'Tebliğ tarihini zarftan ya da tebligat belgesinden tespit edin; yedi gün o tarihten işler.',
+    'Takibin hangi icra dairesinde, hangi esas numarasıyla yürüdüğünü not edin.',
+    'İtirazınızın kapsamını belirleyin: borcun tamamı mı, bir kısmı mı, imza mı, yetki mi.',
+    'İtiraz dilekçenizi hazırlayın; kısmî itirazda kabul ettiğiniz miktarı açıkça yazın.',
+    'Dilekçeyi takibi yapan icra dairesine verin ya da sözlü beyanınızı tutanağa geçirtin.',
+    'Yurt içinde bir tebligat adresi bildirin — kanunen zorunludur.',
+    'İtirazın kaydedildiğine dair belgeyi alın ve saklayın.',
+  ],
+  checklist: [
+    'Ödeme emri ve tebligat zarfı',
+    'Tebliğ tarihini gösteren belge',
+    'Varsa ödeme dekontları ve yazışmalar',
+    'Senede dayalı takipte senedin örneği',
+    'Kimlik ve gerekiyorsa vekâletname',
+  ],
+  faq: [
+    {
+      q: 'Ödeme emrine itiraz süresi kaç gündür?',
+      a: 'Yedi gündür. İİK m.62 bu süreyi ödeme emrinin tebliği tarihinden başlatır ve itirazın icra dairesine dilekçeyle veya sözlü olarak bildirilmesini ister.',
+    },
+    {
+      q: 'İtirazı mahkemeye mi yapacağım?',
+      a: 'Hayır. İtiraz, takibi yapan icra dairesine yapılır. Mahkeme aşaması ancak alacaklı itirazın iptalini dava ederse başlar.',
+    },
+    {
+      q: 'İtiraz edersem haciz gelir mi?',
+      a: 'Süresinde yapılan itiraz takibi durdurur; İİK m.66 bunu açıkça söyler. Alacaklı ilerlemek isterse dava açmak ya da icra mahkemesine başvurmak zorundadır.',
+    },
+    {
+      q: 'Borcun bir kısmına itiraz edebilir miyim?',
+      a: 'Evet, ancak itiraz ettiğiniz kısmın cihet ve miktarını açıkça göstermeniz gerekir. Aksi hâlde itiraz hiç yapılmamış sayılır ve takip tamamı için sürer.',
+    },
+    {
+      q: 'İmza bana ait değil, ne yapmalıyım?',
+      a: 'İmzayı reddettiğinizi itirazınızda açıkça belirtmelisiniz. Genel bir borç itirazı imzaya itiraz yerine geçmez.',
+    },
+    {
+      q: 'Alacaklı ne kadar süre içinde dava açabilir?',
+      a: 'İtirazın kendisine tebliğinden itibaren bir yıl içinde itirazın iptali davası açabilir. Bu süreyi geçirirse genel hükümlere göre alacak davası açma hakkı saklı kalır.',
+    },
+    {
+      q: 'İtirazım haksız çıkarsa ne olur?',
+      a: 'İtirazın haksızlığına karar verilirse, karşı tarafın talebi üzerine reddedilen veya hükmolunan meblağın yüzde yirmisinden aşağı olmamak üzere icra inkâr tazminatına mahkûm edilebilirsiniz.',
+    },
+  ],
+  updated: '2026-08-15',
+  sitemapPriority: 0.95,
+};

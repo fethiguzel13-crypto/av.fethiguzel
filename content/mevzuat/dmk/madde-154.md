@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**Katsayı**
+**Katsayı:**
 
 ---
 
@@ -18,8 +18,10 @@ aylığı göstergesine uygulanacak taban aylık katsayısı üçer veya altış
 itibariyle uygulanmak üzere Genel Bütçe Kanunu ile tespit olunur. Ancak mali yılın ikinci
 yarısında, memleketin ekonomik gelişmesi genel geçim şartları ve Devletin mali imkanları
 gözönünde bulundurulmak suretiyle Cumhurbaşkanı bu katsayıları ikinci yarının tamamı veya
-üçer aylık dönemleri itibariyle uygulanmak üzere değiştirmeye yetkilidir.266
+üçer aylık dönemleri itibariyle uygulanmak üzere değiştirmeye yetkilidir.
 Katsayılardaki değişiklik aylıklarda artış veya eksiliş sayılmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

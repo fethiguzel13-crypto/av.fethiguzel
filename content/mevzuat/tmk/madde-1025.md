@@ -7,12 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**E. Terk in ve değiştirme
+**E. Terkin ve değiştirme
 I. Yolsuz tescilde**
 
 ---
 
-Madde 1025 - Bir aynî hak y olsuz olarak tescil edilmiş veya bir tescil yolsuz olarak terkin olunmuş ya da değiştirilm iş ise, bu yüzden aynî hakkı zedelenen kimse tapu sicilinin düzeltilmesini dava edebilir. İyiniyetli üçü ncü kişilerin bu tescile dayanarak kazandıkları aynî haklar ve her türlü tazminat istemi saklıdır.
+Madde 1025- Bir aynî hak yolsuz olarak tescil edilmiş veya bir tescil yolsuz olarak terkin
+olunmuş ya da değiştirilmiş ise, bu yüzden aynî hakkı zedelenen kimse tapu sicilinin
+düzeltilmesini dava edebilir.
+İyiniyetli üçüncü kişilerin bu tescile dayanarak kazandıkları aynî haklar ve her türlü
+tazminat istemi saklıdır.
 
 ---
 

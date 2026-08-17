@@ -17,6 +17,8 @@ Kanunla tanınan haklarına aykırı hükümler konulamaz.
 Bu hususlarda işçilere daha elverişli hak ve menfaatler sağlayan kanun, toplu iş
 sözleşmesi, iş sözleşmesi veya gelenekten doğan kazanılmış haklar saklıdır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

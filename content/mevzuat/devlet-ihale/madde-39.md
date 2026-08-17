@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**Dış zarfların açılması**
+**Dış zarfların açılması:**
 
 ---
 
@@ -18,6 +18,8 @@ istenilen belgelerin ve geçici teminatın tam olarak verilmiş olup olmadığı
 Belgeleri ile teminatı usulüne uygun ve tam olmayan isteklilerin teklif mektubunu
 taşıyan iş zarfları açılmayarak başkaca işleme konulmadan, diğer belgelerle birlikte
 kendilerine veya vekillerine iade olunur. Bunlar ihaleye katılamazlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

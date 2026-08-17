@@ -11,12 +11,11 @@ wordCount: 4320
 
 ---
 
-Madde 473 - Yüklenicinin işe zamanında başlamaması veya sözleşme hükümlerine
+MADDE 473- Yüklenicinin işe zamanında başlamaması veya sözleşme hükümlerine
 aykırı olarak işi geciktirmesi ya da işsahibine yüklenemeyecek bir sebeple ortaya çıkan
 gecikme yüzünden bütün tahminlere göre yüklenicinin işi kararlaştırılan zamanda
 bitiremeyeceği açıkça anlaşılırsa, işsahibi teslim için belirlenen günü beklemek zorunda
 olmaksızın sözleşmeden dönebilir.
-
 Meydana getirilmesi sırasında, eserin yüklenicinin kusuru yüzünden ayıplı veya
 sözleşmeye aykırı olarak meydana getirileceği açıkça görülüyorsa, işsahibi bunu önlemek
 üzere vereceği veya verdireceği uygun bir süre içinde yükleniciye, ayıbın veya aykırılığın

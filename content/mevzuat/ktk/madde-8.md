@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**Bakanlığının görev ve yetkileri:13**
+**(Son fıkra Mülga: 28/3/1985 - 3176/16 md.)
+Millî Eğitim Bakanlığı, Sağlık Bakanlığı ve Ulaştırma, Denizcilik ve Haberleşme
+Bakanlığının görev ve yetkileri:**
 
 ---
 
@@ -32,15 +34,7 @@ acil yardım ambulansı bulundurmak
 4. Trafik kazalarında yaralanıp sağlık kuruluşlarına sevk edilenlerden kazanın sebep
 ve tesiriyle otuz gün içinde ölenlerin kayıtlarını tutmak ve takip eden ayın sonuna kadar
 Emniyet Genel Müdürlüğüne bildirmek
-24/12/2020 tarihli ve 7261 sayılı Kanunun 23 üncü maddesiyle, bu maddeye (n) bendinden sonra
-gelmek üzere bentler eklenmiş ve diğer bent buna göre teselsül ettirilmiştir.
-13
-Bu madde başlığı “Milli Eğitim Gençlik ve Spor, Sağlık ve Sosyal Yardım ve Ulaştırma Bakanlıklarının
-görev ve yetkileri şunlardır:” iken, 12/7/2013 tarihli ve 6495 sayılı Kanunun 14 üncü maddesiyle metne
-işlendiği şekilde değiştirilmiştir.
-12
-
-c) Ulaştırma, Denizcilik ve Haberleşme Bakanlığı:
+c) Ulaştırma, Denizcilik ve Haberleşme Bakanlığı:
 1. Ulaştırma, Denizcilik ve Haberleşme Bakanlığının ilgili birimleri: Bu Kanun ve diğer
 mevzuatla verilen hizmetleri yapmak, bu Kanun açısından karayolu taşımasına ilişkin gerekli
 koordinasyonu sağlamak, tescile bağlı araçların muayenelerini yapmak veya yaptırmak,
@@ -50,7 +44,7 @@ trafik zabıtasının görev ve yetkileri saklı kalmak üzere, araçların ağ�
 yapmak veya yaptırmak ve denetlemek, aykırı görülen hususlarla ilgili olarak sorumlular
 hakkında idari para cezasına dair tutanak düzenlemek, paylaşımlı elektrikli skuter işletmeciliği
 faaliyetinde bulunanları denetlemek, aykırı görülen hususlarla ilgili olarak sorumlular hakkında
-idari para cezasına dair tutanak düzenlemek.14
+idari para cezasına dair tutanak düzenlemek.
 2. Araçların ağırlık ve boyut kontrollerini yapmak üzere yetkilendirilenler, Ulaştırma,
 Denizcilik ve Haberleşme Bakanlığınca denetlenir ve aykırı hareketi tespit edilen işletme
 sahipleri 1.700 Türk Lirası idari para cezası ile cezalandırılır. Yetkilendirme konusu işletme
@@ -67,6 +61,8 @@ Haberleşme Bakanlığınca yetkilendirme yapılması hâlinde tahsis edilen ta�
 devredilen tesisat ve teçhizatın kullanılması hususunda, Maliye Bakanlığının görüşü alınarak,
 Ulaştırma, Denizcilik ve Haberleşme Bakanlığı ile yetkilendirilenler arasında özel hukuk
 hükümleri gereğince sözleşme yapılabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

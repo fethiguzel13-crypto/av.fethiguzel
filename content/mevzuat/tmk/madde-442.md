@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**2. Yatırımların dönüş türülmesi**
+**2. Yatırımların dönüştürülmesi**
 
 ---
 
-Madde 442 - Yeteri kadar güven verici olmayan yatırımlar , güve nli yatırımlara dönüştürülür. Dönüştürme işleminin uygun zamanda ve vesayet altındaki kişinin menfaati g özetilerek yapılması gerekir.
+Madde 442- Yeteri kadar güven verici olmayan yatırımlar, güvenli yatırımlara dönüştürülür.
+Dönüştürme işleminin uygun zamanda ve vesayet altındaki kişinin menfaati gözetilerek
+yapılması gerekir.
 
 ---
 

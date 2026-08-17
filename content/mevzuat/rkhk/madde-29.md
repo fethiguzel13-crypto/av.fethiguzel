@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**Başkanlık**
+**İKİNCİ BÖLÜM
+Başkanlık**
 
 ---
 
@@ -17,6 +18,8 @@ Kurul Başkanı Kurumun en üst amiri olup, Kurumun genel yönetim ve temsilinde
 sorumludur.
 Bu sorumluluk, Kurumun çalışmalarının genel çerçevede düzenlenmesi, denetlenmesi,
 değerlendirilmesi ve gerektiğinde kamuya duyurulması görev ve yetkilerini kapsar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

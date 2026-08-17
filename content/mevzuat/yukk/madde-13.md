@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Sınır kapılarında verilen vizeler8**
+**civar illeri turizm amaçlı gezecek kişiler
+Sınır kapılarında verilen vizeler**
 
 ---
 
@@ -19,6 +20,8 @@ sınırda görevli kolluk birimine devredebilir. Cumhurbaşkanınca farklı bir 
 sürece, bu vize Türkiye’de en fazla on beş gün kalma hakkı sağlar.
 (3) Sınır vizesinin verilmesinde, insani nedenlere bağlı olarak sağlık sigortası şartı
 aranmayabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

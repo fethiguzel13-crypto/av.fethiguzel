@@ -18,6 +18,8 @@ tutuklamayı bir yakınına veya belirlediği bir kişiye bizzat bildirmesine de
 (3) Şüpheli veya sanık yabancı olduğunda tutuklanma durumu, yazılı olarak karşı
 çıkmaması halinde, vatandaşı olduğu devletin konsolosluğuna bildirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

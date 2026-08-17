@@ -11,7 +11,10 @@ wordCount: 4300
 
 ---
 
-Madde 343 - Velâyet altındaki çocuğun fiil ehliyeti, ve sayet altındaki kişinin ehliyeti gibidir. Çocuk, borçlarından ana ve babanın çocu k malları üzerindeki haklar ına bakılmaksızın kendi mal varlığı ile sorum ludur.
+Madde 343- Velâyet altındaki çocuğun fiil ehliyeti, vesayet altındaki kişinin ehliyeti
+gibidir.
+Çocuk, borçlarından ana ve babanın çocuk malları üzerindeki haklarına bakılmaksızın
+kendi malvarlığı ile sorumludur.
 
 ---
 

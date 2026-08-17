@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**İcra iflas dairelerinin birleştirilmesi**
+**İcra iflas dairelerinin birleştirilmesi:**
 
 ---
 
 Madde 3 – İcra ve iflas işleri bir dairede birleştirilebilir.
-İcra daireleri başkanlığı:
+
+---
 
 ### Akademik Yorum ve Analiz
 

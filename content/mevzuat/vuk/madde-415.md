@@ -7,18 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**Kaldırılan hükümler**
+**Kaldırılan hükümler:**
 
 ---
 
 Madde 415 – 5432 sayılı Vergi Usul Kanunu ile bu kanunun bazı hükümlerini
 değiştiren 5815, 6094 ve 6935 sayılı kanunlar ile 5887 sayılı Harçlar Kanununun 116 ncı
 maddesi, 120 inci maddesinin ikinci ve üçüncü fıkraları, 121 inci maddesinin dördüncü fıkrası
-2/7/2018 tarihli ve 700 sayılı KHK’nin 46 ncı maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi
-“Cumhurbaşkanı” şeklinde değiştirilmiştir.
-171
-
-ile 123 üncü maddesi, 6085 sayılı Karayolları Trafik Kanununun 9 uncu maddesinin (E)
+ile 123 üncü maddesi, 6085 sayılı Karayolları Trafik Kanununun 9 uncu maddesinin (E)
 fıkrası, 6802 sayılı Gider Vergileri Kanununun 64 üncü maddesi,
 6936 sayılı Hususi Otomobil vergisi Kanununun 12 nci maddesi, 7338 sayılı Veraset
 ve İntikal Vergisi Kanununun 15 inci maddesi ve diğer kanunların bu kanuna uymıyan
@@ -48,13 +44,10 @@ yazılı hükümler dairesinde değerlendirirler. Maliyet bedeli ile değerlenme
 kıymetlerin bu bedeli bilinmiyorsa maliyet bedeli yerine mükelleflerin bizzat belli edecekleri
 alış emsal bedeli değerlemeye esas tutulur.
 Vergi incelemesi neticesinde alış emsal bedelinin fazla hesap edildiğinin anlaşılması
-halinde mükellef hakkında vergi ziyaı veya usulsüzlük cezaları uygulanmaz.172
-
+halinde mükellef hakkında vergi ziyaı veya usulsüzlük cezaları uygulanmaz.
 22/7/1998 tarih ve 4369 sayılı Kanununun 81 inci maddesiyle bu maddede yeralan "kusur" ibaresi “vergi
 ziyaı” şeklinde değiştirilmiştir.
-172
-
-Amortismana tabi iktisadi kıymetlerin değerlenmesi:
+Amortismana tabi iktisadi kıymetlerin değerlenmesi:
 Geçici Madde 5 – (Değişik: 19/2/1963-205/24 md.)
 Bu kanunun mer'iyete girdiği tarihte veya mütaakıp yıllarda ticari, zirai veya mesleki
 kazançları dolayısiyle yeniden Gelir Vergisine girecek veya basit usulden gerçek usule
@@ -63,7 +56,7 @@ amortismana tabi iktisadi kıymetleri maliyet bedeli, maliyet bedeli bilinmiyors
 kendilerince alış tarihindeki rayice göre tahmin olunacak bedeli ile değerlenir. Şu kadar ki, bu
 kıymetlerin alış tarihleri ile mükellefiyete giriş veya gerçek usule geçiş tarihi arasındaki
 yıllara ait amortismanlar tutarı bu değerden düşülür ve bakiyesinin amortismanına devam
-olunur.173
+olunur.
 Mükellefçe tahmin olunacak bedelin fazla hesaplandığının tesbiti halinde bundan
 dolayı adına ceza kesilmez.
 Ceza hükümlerinin şümulü:
@@ -90,9 +83,7 @@ Bu Kanunun belediye vergi ve resimlerine uygulanacağı tarih:
 kazançlarda götürü gider usulü dahil) gerçek usule geçecek olan mükelleflerin" ibaresi “veya basit usulden
 gerçek usule geçecek olan mükellefler ile öteden beri faaliyete devam eden serbest meslek erbabınının” şeklinde
 değiştirilmiştir.
-173
-
-Geçici Madde 9 – Belediyelere ait vergi, resim ve harclar hakkında bu kanunun vergi
+Geçici Madde 9 – Belediyelere ait vergi, resim ve harclar hakkında bu kanunun vergi
 hatalarına ve bunların düzeltilmesine ve vergi ihtilaflarına mütaallik hükümleri yayımı
 tarihinden ve diğer hükümleri 1 Ocak 1963 tarihinden başlıyarak uygulanır.
 Müdevver mahsullerin değerlenmesi:
@@ -128,8 +119,7 @@ hükümlerine göre kurulan takdir komisyonlarının asgari ölçüde arsa metre
 tespitine ilişkin görev ve yetkileri 1 Mart 1986 tarihine kadar, bu değerlerle ilgili olarak
 açılacak davalarla ilgili görev ve yetkileri söz konusu davalar sonuçlanıncaya kadar devam
 eder.
-
-Geçici Madde 13 – (Ek: 4/12/1985-3239/38 md.)
+Geçici Madde 13 – (Ek: 4/12/1985-3239/38 md.)
 Vergi Usul Kanununun 177 nci maddesinde yer alan ve bu Kanunla artırılan hadler,
 önceki yılların hadlerine bağlı olmaksızın 1986 yılında tutulacak defterler için de uygulanır.
 Geçici Madde 14 – (Ek: 4/12/1985-3239/38 md.; İptal: Anayasa Mahkemesinin
@@ -161,8 +151,7 @@ Geçici Madde 19 – (Ek: 22/7/1998-4369/20 md.)
 İşletme hesabı esasında defter tutan mükellefler diledikleri takdirde, Vergi Usul
 Kanununun 180 inci maddesindeki şartlar dikkate alınmaksızın 31/12/2000 tarihine kadar
 işletme hesabı esasına göre defter tutmaya devam ederler.
-
-Geçici Madde 20 – (Ek: 22/7/1998-4369/20 md.)
+Geçici Madde 20 – (Ek: 22/7/1998-4369/20 md.)
 1998 yılı geçici vergi uygulaması bakımından; Hazine Bonosu, Devlet Tahvilleri ve
 Toplu Konut İdaresi, Kamu Ortaklığı İdaresi ve Özelleştirme İdaresi Başkanlıklarınca
 çıkarılan menkul kıymetler alış bedeli ile değerlenir.
@@ -170,7 +159,7 @@ Geçici Madde 21 – (Ek: 22/7/1998-4369/20 md.)
 Bu Kanunun yürürlüğe girmesinden önce işlenmiş fiiller hakkında kesilecek cezalarda,
 bu fiillerin işlendiği tarihte 213 sayılı Vergi Usul Kanununun yürürlükte bulunan vergi
 cezalarına ait hükümleri; hükmolunacak cezalar hakkında ise, bu fiillerin işlendiği tarihte
-yürürlükte bulunan hükümler ile bu Kanun hükümlerinden lehe olanı uygulanır. (...)174
+yürürlükte bulunan hükümler ile bu Kanun hükümlerinden lehe olanı uygulanır. (...)
 Geçici Madde 22 – (Ek: 22/7/1998-4369/20 md.)
 Diğer kanunlarda Vergi Usul Kanununun bu Kanunla yürürlükten kaldırılan
 kaçakçılık, ağır kusur ve kusur cezalarına yapılan atıflar Vergi Usul Kanununun 344 üncü
@@ -192,13 +181,10 @@ Karşılık ayrılmak veya zarar yazılmak istenen alacak;
 Borçlunun mal varlığının en az üçte birini kaybettiğine ilişkin olarak açılmış tespit
 davası üzerine verilen karar, alacağın dava veya icra safhasına geldiğini gösterir ve bu nevi
 alacaklar için pasifte karşılık ayrılabilir.
-
 Bu kısımda yer alan “Şu kadar ki, bu Kanunun yürürlüğe girmesinden önce kesinleşmiş mahkumiyet kararları
 hakkında bu Kanun hükümleri uygulanmaz” şeklindeki son tümce, Anayasa Mahkemesinin 6/7/2000 tarih ve E.:
 2000/21, K.: 2000/16 sayılı kararı ile iptal edildiği için metinden çıkarılmıştır.
-174
-
-Alacaklı ve borçlunun her türlü muvazaadan ari olarak sulh olmaları ve bu konuda
+Alacaklı ve borçlunun her türlü muvazaadan ari olarak sulh olmaları ve bu konuda
 düzenleyecekleri bir belgeyi karşılıklı olarak imzalamaları halinde bu belge kanaat verici
 belge sayılır ve belgeye konu alacak değersiz alacak addolunur.
 Maliye Bakanlığı 3568 sayılı Kanuna göre yetki almış meslek mensubunca
@@ -235,8 +221,7 @@ d) Birikmiş amortismanlar, ait oldukları kıymetin bilanço tarihindeki değer
 düzeltme sonrasında ortaya çıkan artış oranı dikkate alınarak düzeltilir.
 e) Öz sermaye kalemlerinin düzeltilmesinde, 1.1.2004 tarihinden önce ayrılan yeniden
 değerleme değer artış fonu gibi fonlar öz sermayeden düşülür. Bu ve benzeri fonların
-
-sermayeye ilavesi nedeniyle oluşan sermaye artışları sermaye artışı olarak dikkate alınmaz ve
+sermayeye ilavesi nedeniyle oluşan sermaye artışları sermaye artışı olarak dikkate alınmaz ve
 enflasyon düzeltmesine tâbi tutulmaz.
 f) 2003 yılı hesap dönemine ait beyannamede yer alan indirilemeyen geçmiş yıl malî
 zararları ile carî dönem malî zararları matrahın tespitinde mukayyet değerleri ile dikkate
@@ -248,7 +233,8 @@ toplamının çıkarılması sonucu bulunan fark, geçmiş yıllar kâr/zararı 
 kabul edilmez.
 Pasif kalemlere ait enflasyon fark hesapları, herhangi bir suretle başka bir hesaba
 nakledildiği veya işletmeden çekildiği takdirde, bu işlemlerin yapıldığı dönemlerin kazancı ile
-ilişkilendirilmeksizin, bu dönemde vergiye tâbi tutulur. (Değişik ikinci cümle: 16/7/20045228/11 md.) Ancak öz sermaye kalemlerine ait enflasyon farkları düzeltme sonucu oluşan
+ilişkilendirilmeksizin, bu dönemde vergiye tâbi tutulur. (Değişik ikinci cümle: 16/7/2004-
+5228/11 md.) Ancak öz sermaye kalemlerine ait enflasyon farkları düzeltme sonucu oluşan
 geçmiş yıl zararlarına mahsup edilebilir veya kurumlar vergisi mükelleflerince sermayeye
 ilave edilebilir; bu işlemler kâr dağıtımı sayılmaz.
 h) Sermaye Piyasası Kurulu ve Bankacılık Düzenleme ve Denetleme Kurumunun
@@ -272,8 +258,7 @@ kadar ki, amortismana tâbi olmayan kıymetlerin düzeltilmiş değerinin altın
 satılması halinde, düzeltilmiş değerle düzeltme öncesi değer arasındaki farka isabet eden
 zarar, gelir veya kurumlar vergisi matrahının tespitinde dikkate alınmaz.
 Geçici Madde 26 – (Ek: 17/12/2003-5024/5 md.)
-
-Bu maddenin yürürlüğe girdiği tarihten önce aktife giren iktisadi kıymetler hakkında
+Bu maddenin yürürlüğe girdiği tarihten önce aktife giren iktisadi kıymetler hakkında
 aktife alındıkları yılda yürürlükte olan sürelere göre amortisman ayrılmasına devam olunur.
 Geçici Madde 27 – (Ek: 30/3/2006-5479/13 md.)
 1/1/2006 tarihinden önceki dönemlere ilişkin olarak bu tarihten sonra ortaya çıkan ve
@@ -292,7 +277,8 @@ Fazla veya yersiz tahsilatta faiz ödemesi:
 Geçici Madde 29 – (Ek: 31/5/2012-6322/16 md.)
 Bu Kanunun 112 nci maddesinin (4) numaralı fıkrası, bu maddenin yürürlüğe girdiği
 tarihten sonra fazla veya yersiz olarak tahsil edilen vergilerin iadesinde uygulanır.
-Geçici Madde 30 – (Ek: 21/3/2018-7103/16 md.)175176
+175176
+Geçici Madde 30 – (Ek: 21/3/2018-7103/16 md.)
 Bu maddenin yürürlüğe girdiği tarihten sonra, 17/4/1957 tarihli ve 6948 sayılı Sanayi
 Sicili Kanununa göre sanayi sicil belgesini haiz mükelleflerce münhasıran imalat sanayiinde
 veya 26/6/2001 tarihli ve 4691 sayılı Teknoloji Geliştirme Bölgeleri Kanunu, 28/2/2008
@@ -308,12 +294,7 @@ alınarak hesaplanabilecek ve 3065 sayılı Kanunun Geçici 39 uncu maddesine g�
 kapsamında teslim edilecek yeni makine ve teçhizat için 5/5/2018 tarihli ve 30412 sayılı Resmî Gazete’de
 yayımlanan, 30/4/2018 tarihli ve 2018/11674 sayılı Bakanlar Kurulu Kararı eki Kararın 4 üncü maddesi ile
 Karara ekli listeye bakınız.
-176
-2/7/2018 tarihli ve 700 sayılı KHK’nin 46 ncı maddesiyle, bu maddede yer alan “Bakanlar Kurulu” ibaresi
-“Cumhurbaşkanı” şeklinde değiştirilmiştir.
-175
-
-makina ve teçhizat ile aynı tarihe kadar yatırım teşvik belgesi kapsamında iktisap edilen yeni
+makina ve teçhizat ile aynı tarihe kadar yatırım teşvik belgesi kapsamında iktisap edilen yeni
 makina ve teçhizat için uygulanacak amortisman oran ve süreleri, Maliye Bakanlığınca bu
 Kanunun 315 inci maddesine göre tespit ve ilan edilen faydalı ömür sürelerinin yarısı dikkate
 alınmak suretiyle hesaplanabilir. Bu şekilde yapılacak hesaplamada faydalı ömür süresinin
@@ -326,7 +307,7 @@ uygulamaya ilişkin usul ve esasları belirlemeye Maliye Bakanlığı yetkilidir
 tarihten 31/12/2024 tarihine (bu tarihler dâhil) kadar, birinci fıkrada belirtilen kapsam ve
 şartlar dâhilinde iktisap edilen yeni makina ve teçhizat için aynı fıkra uygulamasından
 yararlanılabilir. Bu fıkranın uygulamasına ilişkin usul ve esasları belirlemeye Hazine ve
-Maliye Bakanlığı yetkilidir.177
+Maliye Bakanlığı yetkilidir.
 Geçici Madde 31 – (Ek: 16/5/2018-7144/5 md.)
 Tam mükellefiyete tabi ve bilanço esasına göre defter tutan gelir ve kurumlar vergisi
 mükellefleri (finans ve bankacılık sektöründe faaliyet gösterenler, sigorta ve reasürans
@@ -348,12 +329,7 @@ Kanunun mükerrer 298 inci maddesine göre enflasyon düzeltmesine tabi tutulan;
 i) En son bilançoda yer alan taşınmazlar ve bunların amortismanları için, bu maddenin
 yürürlüğe girdiği tarihten bir önceki aya ilişkin Yİ-ÜFE değerinin, söz konusu bilançonun ait
 olduğu tarihi takip eden aya ilişkin Yİ-ÜFE değerine bölünmesi ile bulunan oran,
-
-27/12/2023 tarihli ve 7491 sayılı Kanunun 16 ncı maddesiyle, bu fıkrada yer alan “31/12/2023” ibaresi
-“31/12/2024” şeklinde değiştirilmiştir.
-177
-
-ii) En son bilanço tarihinden sonra iktisap edilen taşınmazlar ve bunların
+ii) En son bilanço tarihinden sonra iktisap edilen taşınmazlar ve bunların
 amortismanları için, bu maddenin yürürlüğe girdiği tarihten bir önceki aya ilişkin Yİ-ÜFE
 değerinin, taşınmazın iktisap edildiği ayı izleyen aya ilişkin Yİ-ÜFE değerine bölünmesi ile
 bulunan oran,
@@ -391,8 +367,7 @@ düşülmek suretiyle mezkûr madde uyarınca enflasyon düzeltmesi yapılır.
 (Ek yedinci fıkra:3/6/2021-7326/11 md.) Birinci fıkrada sayılan mükellefler bu
 fıkranın yürürlüğe girdiği tarih itibarıyla aktiflerine kayıtlı bulunan taşınmazlar ile
 amortismana tabi diğer iktisadi kıymetlerini (sat-kirala-geri al işlemine veya kira sertifikası
-
-ihracına konu edilen taşınmaz ve iktisadi kıymetler hariç) 31/12/2021 tarihine kadar yukarıda
+ihracına konu edilen taşınmaz ve iktisadi kıymetler hariç) 31/12/2021 tarihine kadar yukarıda
 yer alan kapsam, şart ve hükümlere uymak koşuluyla yeniden değerleyebilirler. Şu kadar ki;
 a) Birinci fıkranın (b) bendinin (i) ve (ii) alt bentlerinde belirtilen durumlarda yeniden
 değerleme oranının belirlenmesine ilişkin hesaplamada; maddenin yürürlüğe girdiği tarihten
@@ -429,12 +404,12 @@ b) Taşınmazlar ve amortismana tabi diğer iktisadi kıymetlerin (a) bendine g�
 edilen değerleri ve bunlara ilişkin amortismanların yeniden değerleme oranı ile çarpılması
 suretiyle yeniden değerleme sonrası değerleri bulunur.
 Yapılacak değerlemede esas alınacak yeniden değerleme oranı olarak;
-
-1. Bu Kanunun mükerrer 298 inci maddesinin (A) fıkrasına göre enflasyon
+1. Bu Kanunun mükerrer 298 inci maddesinin (A) fıkrasına göre enflasyon
 düzeltmesine tabi tutulan;
 i) En son bilançoda yer alan taşınmazlar ve amortismana tabi diğer iktisadi kıymetler
 ile bunların amortismanları için, anılan maddenin (Ç) fıkrası kapsamında yapılacak yeniden
-değerlemenin ilgili olduğu hesap döneminden önceki hesap döneminin son ayına ilişkin YİÜFE değerinin, söz konusu bilançonun ait olduğu tarihi takip eden aya ilişkin Yİ-ÜFE
+değerlemenin ilgili olduğu hesap döneminden önceki hesap döneminin son ayına ilişkin Yİ-
+ÜFE değerinin, söz konusu bilançonun ait olduğu tarihi takip eden aya ilişkin Yİ-ÜFE
 değerine bölünmesi ile bulunan oran,
 ii) En son bilanço tarihinden sonra iktisap edilen taşınmazlar ve amortismana tabi
 diğer iktisadi kıymetler ile bunların amortismanları için, anılan maddenin (Ç) fıkrası
@@ -444,7 +419,8 @@ Yİ-ÜFE değerine bölünmesi ile bulunan oran,
 2. Daha önce Kanunun geçici 31 inci maddesinin;
 i) Birinci fıkrasında yer alan tarihe kadar yeniden değerlemeye tabi tutulan taşınmazlar
 ve amortismanları için, mükerrer 298 inci maddenin (Ç) fıkrası kapsamında yapılacak yeniden
-değerlemenin ilgili olduğu hesap döneminden önceki hesap döneminin son ayına ilişkin YİÜFE değerinin, 2018 yılı Mayıs ayına ilişkin Yİ-ÜFE değerine bölünmesi ile bulunan oran,
+değerlemenin ilgili olduğu hesap döneminden önceki hesap döneminin son ayına ilişkin Yİ-
+ÜFE değerinin, 2018 yılı Mayıs ayına ilişkin Yİ-ÜFE değerine bölünmesi ile bulunan oran,
 ii) Yedinci fıkrasında yer alan tarihe kadar yeniden değerlemeye tabi tutulan
 taşınmazlar ve amortismana tabi diğer iktisadi kıymetler ile bunların amortismanları için,
 mükerrer 298 inci maddenin (Ç) fıkrası kapsamında yapılacak yeniden değerlemenin ilgili
@@ -466,8 +442,7 @@ bulunan değeri ifade eder.
 Taşınmaz ve amortismana tabi diğer iktisadi kıymetlerini bu madde kapsamında
 yeniden değerlemeye tabi tutan mükellefler bunları, yapılan yeniden değerleme sonrasında
 bulunan değerleri üzerinden amortismana tabi tutmaya devam ederler.
-
-Pasifte özel bir fon hesabında gösterilen değer artışı tutarı üzerinden %2 oranında
+Pasifte özel bir fon hesabında gösterilen değer artışı tutarı üzerinden %2 oranında
 hesaplanan vergi, yeniden değerleme işleminin yapıldığı tarihi izleyen ayın sonuna kadar bir
 beyanname ile gelir veya kurumlar vergisi yönünden bağlı olunan vergi dairesine beyan edilir
 ve ilk taksiti beyanname verme süresi içinde, izleyen taksitler beyanname verme süresini takip
@@ -498,16 +473,12 @@ mezkûr madde uyarınca enflasyon düzeltmesi yapılır.
 Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Hazine ve Maliye
 Bakanlığı yetkilidir.
 Geçici Madde 33 – (Ek: 20/1/2022-7352/1 md.)
-Geçici vergi dönemleri de dahil olmak üzere (…)178 ve 2022 hesap dönemleri
+Geçici vergi dönemleri de dahil olmak üzere (…)ve 2022 hesap dönemleri
 (kendilerine özel hesap dönemi tayin edilenlerde 2022 ve 2023 yılında biten hesap dönemleri
 itibarıyla) ile 2023 hesap dönemi geçici vergi dönemlerinde mükerrer 298 inci madde
 kapsamındaki enflasyon düzeltmesine ilişkin şartların oluşup oluşmadığına bakılmaksızın
 mali tablolar enflasyon düzeltmesine tabi tutulmaz.
-Anayasa Mahkemesinin 30/11/2023 tarihli ve E.: 2023/105; K.: 2023/208 sayılı Kararı ile bu fıkrada yer alan
-“…2021…” ibaresi iptal edilmiştir.
-178
-
-Mükerrer 298 inci maddenin (Ç) fıkrası uygulaması açısından, birinci fıkrada
+Mükerrer 298 inci maddenin (Ç) fıkrası uygulaması açısından, birinci fıkrada
 enflasyon düzeltmesi yapılmayacağı belirtilen dönemler enflasyon düzeltmesi şartlarının
 gerçekleşmediği dönem olarak değerlendirilir.
 31/12/2023 tarihli mali tablolar, enflasyon düzeltmesi şartlarının oluşup oluşmadığına
@@ -534,21 +505,13 @@ düzeltmesi uygulanır. Tasfiyeden vazgeçilmesi veya iflasın kaldırılması h
 uyarınca dönem kazancında dikkate alınmayan tutarlar tasfiyeden vazgeçildiği veya iflasın
 kaldırıldığı dönem kazancının tespitinde dikkate alınır. Bu fıkra kapsamında belirlenen
 dönemleri geçici vergi dönemleri de dahil olmak üzere bir hesap dönemi kadar uzatmaya
-Cumhurbaşkanı yetkilidir.179
+Cumhurbaşkanı yetkilidir.
 Bu maddenin birinci, ikinci ve üçüncü fıkrası hükümleri, mükerrer 298 inci maddenin
 (A) fıkrasının (9) numaralı bendi kapsamında olan mükellefler bakımından geçerli değildir.
 Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Hazine ve Maliye
 Bakanlığı yetkilidir.
 Geçici Madde 34- (Ek:8/4/2022-7394/6 md.)
-
-24/10/2024 tarihli ve 7529 sayılı Kanunun 12 nci maddesi ile bu fıkranın birinci cümlesinde yer alan “ile
-sigorta ve reasürans şirketleri ve emeklilik şirketleri” ibaresi “, sigorta ve reasürans şirketleri, emeklilik
-şirketleri, tasfiye ve iflas hallerindeki şirketler, 8/6/1984 tarihli ve 233 sayılı Kamu İktisadi Teşebbüsleri
-Hakkında Kanun Hükmünde Kararname kapsamındaki iktisadi devlet teşekkülleri ile kamu iktisadi kuruluşları”
-şeklinde değiştirilmiştir.
-179
-
-Haklarında hüküm verilmiş olup da dosyası infaz aşamasında olanlar, 359 uncu
+Haklarında hüküm verilmiş olup da dosyası infaz aşamasında olanlar, 359 uncu
 maddede yazılı fiillerle verginin ziyaa uğratıldığının tespit edilmesine bağlı olarak tarh edilen
 verginin, gecikme faizi ve gecikme zammının tamamı ile kesilen cezaların yarısı ve buna
 isabet eden gecikme zammını, bu maddeyi ihdas eden Kanunun yürürlüğe girdiği tarihten
@@ -556,7 +519,7 @@ itibaren bir yıl içinde Hazineye ödedikleri takdirde 359 uncu maddede bu madd
 Kanunla soruşturma evresi için yapılan etkin pişmanlık düzenlemesinden faydalanabilir. Bu
 fıkrada belirtilen ceza indiriminden faydalanabilmek için vergi mahkemesinde dava
 açılmaması, açılmışsa feragat edilmesi, kanun yollarına başvurulmaması veya başvurulmuşsa
-vazgeçilmesi şarttır.180
+vazgeçilmesi şarttır.
 Birinci fıkra hükümleri bu maddeyi ihdas eden Kanunun yayımı tarihinde soruşturma
 ve kovuşturma evresinde bulunan dosyalar hakkında da uygulanır. Bu takdirde, ödemenin
 hüküm verilinceye kadar yapılması şarttır.
@@ -583,12 +546,7 @@ ilçelerinde, deprem tarihi itibarıyla mükellefiyet kaydı bulunan ve 30/11/20
 mücbir sebep hali sona eren mükelleflerin mücbir sebep halini, bu maddeyi ihdas eden
 Kanunla değiştirilen 15 inci madde hükmü çerçevesinde 1/12/2024 tarihinden itibaren her
 defasında altı ayı geçmeyen süreler halinde bir yıla kadar uzatmaya yetkilidir.
-Anayasa Mahkemesinin 28/9/2022 tarihli ve E: 2022/59, K: 2022/111 sayılı Kararı ile bu cümle; birinci
-fıkranın birinci cümlesinde yer alan “…infaz…” ibaresi yönünden ve ikinci fıkrada yer alan “…kovuşturma…”
-ibaresi yönünden iptal edilmiştir.
-180
-
-Geçici Madde 37- (Ek:24/12/2025-7571/34 md.)
+Geçici Madde 37- (Ek:24/12/2025-7571/34 md.)
 2025 hesap dönemi ile geçici vergi dönemleri de dahil olmak üzere 2026 ve 2027
 hesap dönemlerinde (kendilerine özel hesap dönemi tayin edilenlerde 2026, 2027 ve 2028
 yılında biten hesap dönemleri itibarıyla) mükerrer 298 inci madde kapsamındaki enflasyon
@@ -604,6 +562,10 @@ Bu maddenin birinci ve ikinci fıkrası hükümleri, mükerrer 298 inci maddenin
 fıkrasının (9) numaralı bendi kapsamında olan mükellefler bakımından geçerli değildir.
 Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Hazine ve Maliye
 Bakanlığı yetkilidir.
+Geçici Madde 38- (Ek:24/6/2026-7587/11 md.)
+Bu maddenin yürürlüğe girdiği tarihten önce bu Kanunun 107/A maddesi kapsamında
+elektronik tebligat sistemine dâhil olanlar, yeni bir başvuru yapmaksızın elektronik tebligat
+sistemini kullanmaya devam eder.
 Ceza hükümlerinde uygulama:
 Ek Geçici Madde 1 – (Ek: 30/12/1980-2365/97 md.)
 Bu Kanun yürürlüğe girmesinden önce işlenmiş fiiller hakkında, bu filllerin işlendiği
@@ -621,8 +583,7 @@ olan diğer ceza hükümleri ile birlikte aynı Kanunun 360 ncı maddesi hükmü
 Ek Geçici Madde 4 – (Ek: 30/12/1980-2365/97 md.)
 213 sayılı Vergi Usul Kanununun 221 inci maddesinde yer alan defter tasdik süreleri,
 1981 takvim yılında tutulacak defterler için bir ay uzatılmıştır.
-
-Ek Geçici Madde 5 – (Ek: 30/12/1980-2365/97 md.)
+Ek Geçici Madde 5 – (Ek: 30/12/1980-2365/97 md.)
 193 sayılı Gelir Vergisi Kanununun 46 ncı maddesinde yapılan değişiklik nedeniyle,
 1981 yılında götürü matrahlara ilişkin olarak yapılacak takdirler için 213 sayılı Vergi Usul
 Kanununun 40 ıncı maddesinin 2 numaralı bendinde yazılı olan süre 1981 yılı Mart ayı
@@ -654,8 +615,7 @@ bedel takdirleri dolayısıyla anılan Kanunun 257 nci maddesinin bu Kanunun 33
 Ek Geçici Madde 11 – (Ek: 23/6/1982-2686/52 md.)
 213 sayılı Vergi Usul Kanununun 353 üncü maddesinin 2 numaralı bendi uyarınca her
 bir belge nevine ilişkin olarak kesilmiş bulunan özel usulsüzlük cezalarının, her bir tespit için
-
-50.000,- lirayı ve bir takvim yılı içinde 500.000,- lirayı aşan miktarı tahsil edilmemişse terkin,
+50.000,- lirayı ve bir takvim yılı içinde 500.000,- lirayı aşan miktarı tahsil edilmemişse terkin,
 tahsil edilmişse red ve iade edilir.
 Ek Geçici Madde 12 – (Ek: 23/6/1982-2686/52 md.)
 Gelir Vergisi Kanununun 2454 sayılı Kanunun 14 üncü maddesiyle değişik mükerrer
@@ -674,6 +634,8 @@ değer tespitlerine ilişkin süreleri Emlak Vergisi 1983 Genel Beyan Dönemi il
 b) 1983 yılında yapılacak olan Genel Beyan dolayısıyla vergi dairelerine verilecek
 Emlak Vergisi beyannamelerini iki ay önceden kabul etmeye;
 Maliye Bakanı yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

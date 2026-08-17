@@ -12,7 +12,7 @@ wordCount: 4289
 
 ---
 
-Madde 656 - Taşınmazların bölünmelerine il işkin kanun hükümleri saklı dır.
+Madde 656- Taşınmazların bölünmelerine ilişkin kanun hükümleri saklıdır.
 
 ---
 

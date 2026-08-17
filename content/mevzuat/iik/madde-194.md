@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**Hukuk davalarının tatili**
+**Hukuk davalarının tatili:**
 
 ---
 
@@ -19,7 +19,7 @@ tecavüzden, vücut üzerinde ika olunan zararlardan doğan tazminat davaları i
 ilgili olarak açılmış olan hukuk davalarına tatbik olunmaz.
 Dava durduğu müddetçe zamanaşımı ve hakkı düşüren müddetler işlemez.
 
-II. ALACAKLILARIN HAKLARI ÜZERİNE İFLASIN TESİRLERİ
+---
 
 ### Akademik Yorum ve Analiz
 

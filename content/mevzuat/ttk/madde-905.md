@@ -11,7 +11,10 @@ wordCount: 4296
 
 ---
 
-Madde 905 - (1) Değişik tür araçlarla taşıma sözleşmesinin konusunu taşınma eşyası oluşturuyorsa, sözleşmeye, bu Kitabın Üçüncü Kısım hükümleri uygulanır. Zararın meydana geldiğ i taşıma kısmı hakkında, Kanunun 903 üncü maddesi hükmü ancak Türkiye Cumhuriyeti için bağlayıcı olan milletlerarası sözleşmelerden biri geçerliyse uygulanır. BEŞİNCİ KISIM Yolcu Taşıma A) Kurallara uyma zorunluluğu
+MADDE 905- (1) Değişik tür araçlarla taşıma sözleşmesinin konusunu taşınma eşyası
+oluşturuyorsa, sözleşmeye, bu Kitabın Üçüncü Kısım hükümleri uygulanır. Zararın meydana
+geldiği taşıma kısmı hakkında, Kanunun 903 üncü maddesi hükmü ancak Türkiye
+Cumhuriyeti için bağlayıcı olan milletlerarası sözleşmelerden biri geçerliyse uygulanır.
 
 ---
 

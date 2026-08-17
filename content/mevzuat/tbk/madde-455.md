@@ -11,7 +11,7 @@ wordCount: 4259
 
 ---
 
-Madde 455 - Pazarlamacı, belirli bir pazarlama alanı veya belirli bir müşteri
+MADDE 455- Pazarlamacı, belirli bir pazarlama alanı veya belirli bir müşteri
 çevresinde faaliyette bulunma yetkisi sadece kendisine verilmişse, kendisinin veya işverenin
 bu alan veya çevrede yaptığı bütün işlerde kararlaştırılmış ya da alışılmış olan komisyonun
 ödenmesini isteyebilir.

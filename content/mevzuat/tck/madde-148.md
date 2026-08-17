@@ -24,6 +24,8 @@ karşı koymamaya mecbur edilmesi halinde de aynı ceza verilir.
 (3) Mağdurun, herhangi bir vasıta ile kendisini bilmeyecek ve savunamayacak hale
 getirilmesi de, yağma suçunda cebir sayılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

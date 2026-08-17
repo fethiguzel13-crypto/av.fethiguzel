@@ -25,6 +25,8 @@ k) Varsa karşı oy yazıları.
 Verilen karar ile taraflara yüklenen görevler ve tanınan haklar şüphe ve tereddüde yol
 açmayacak şekilde açık yazılmalıdır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

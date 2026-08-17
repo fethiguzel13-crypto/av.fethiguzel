@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**III. K işisel mal ile ortaklık malı arasındaki denkleştirme**
+**III. Kişisel mal ile ortaklık malı arasındaki denkleştirme**
 
 ---
 
-Madde 273 - Bir eşin kişisel mallara ilişkin borçları, ortaklık mallarından veya ortaklık mall arına ilişkin borçları kişisel mallarından ödenmiş ise; tasfiye sırasında denkleştirme istenebilir. Her bor ç, ilişkin bulunduğu mal kesimini yükümlülük altına sokar. Hangi kesime ait olduğu anlaşılamayan borç ortaklık mallarına ilişkin sayılır.
+Madde 273 - Bir eşin kişisel mallara ilişkin borçları, ortaklık mallarından veya ortaklık
+mallarına ilişkin borçları kişisel mallarından ödenmiş ise; tasfiye sırasında denkleştirme istenebilir.
+Her borç, ilişkin bulunduğu mal kesimini yükümlülük altına sokar. Hangi kesime ait
+olduğu anlaşılamayan borç ortaklık mallarına ilişkin sayılır.
 
 ---
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**Ücretler**
+**Ücretler:**
 
 ---
 
@@ -21,9 +21,9 @@ Maliye Bakanlığınca tayin olunacak miktarda ücret verilir.
 Zirai Kazançlar Merkez Komisyonu, Ortalama Kar Hadleri Merkez Komisyonu,
 Merkez Uzlaşma Komisyonları ile Gelir Vergisi Kanununun 31 nci maddesinde zikredilen
 yönetmelik hükümlerine göre kurulan Komisyonun Başkan ve Üyelerine bu komisyonlardaki
-çalışmaları dolayısıyla verilecek ücret Cumhurbaşkanı kararıyla tayin olunur.22
-BEŞİNCİ KISIM
-Tebliğler
+çalışmaları dolayısıyla verilecek ücret Cumhurbaşkanı kararıyla tayin olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

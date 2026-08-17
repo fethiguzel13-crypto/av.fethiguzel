@@ -7,7 +7,7 @@ lastReviewed: "2026-07-11"
 wordCount: 2525
 ---
 
-**İlanın neticeleri**
+**İlanın neticeleri:**
 
 ---
 
@@ -16,6 +16,8 @@ bildirenlere ise posta ile tebliğ yapılır.
 Posta ile yapılan bu tebliğ hakkında da 100 üncü madde hükmü cari olur.
 İlan tarihinden başlıyarak bir ay içinde ne vergi dairesine müracaat yapmış ve ne de
 adresini bildirmiş olanlara bir ayın sonunda tebliğ yapılmış sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

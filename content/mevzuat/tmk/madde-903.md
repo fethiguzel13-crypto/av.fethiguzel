@@ -12,7 +12,11 @@ I. Amaç ve nitelik**
 
 ---
 
-Madde 903 - İra t senedi, bir taşınmaz üzerinde taşınmaz yükü şeklinde kurulmuş bir alacak hakkı meydana getirir. İrat senedinin güvencesini ancak tarım arazisi, konutlar ve üzerind e bina yapılabilecek arsalar oluşturabilir. İrat senedi, kişisel borç doğurmaz ve borcun s ebebini de göstermez.
+Madde 903- İrat senedi, bir taşınmaz üzerinde taşınmaz yükü şeklinde kurulmuş bir
+alacak hakkı meydana getirir.
+İrat senedinin güvencesini ancak tarım arazisi, konutlar ve üzerinde bina yapılabilecek
+arsalar oluşturabilir.
+İrat senedi, kişisel borç doğurmaz ve borcun sebebini de göstermez.
 
 ---
 

@@ -27,6 +27,8 @@ c) Sanığa, yüklenen suç hakkında açıklamada bulunmamasının kanunî hakk
 d) Sanık açıklamada bulunmaya hazır olduğunu bildirdiğinde, usulüne göre sorgusu
 yapılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**A. Şekil**
+**ÜÇÜNCÜ AYIRIM
+Taşınmaz Satışı ve Satış İlişkisi Doğuran Haklar
+A. Şekil**
 
 ---
 
-Madde 237 - Taşınmaz satışının geçerli olabilmesi için, sözleşmenin resmî şekilde
+MADDE 237- Taşınmaz satışının geçerli olabilmesi için, sözleşmenin resmî şekilde
 düzenlenmesi şarttır.
 Taşınmaz satışı vaadi, geri alım ve alım sözleşmeleri, resmî şekilde düzenlenmedikçe
 geçerli olmaz.

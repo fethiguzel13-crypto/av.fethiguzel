@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**Kaldırılan hükümler**
+**Kaldırılan hükümler:**
 
 ---
 
@@ -42,9 +42,7 @@ Elektronik tebligat adresi, Posta ve Telgraf Teşkilatı Anonim Şirketi tarafı
 maddesi kapsamında kalan her bir gerçek kişi için kimlik numarası, tüzel kişi için ise tabi
 oldukları sistem numarası esas alınmak suretiyle sadece bir tane olacak şekilde oluşturulur ve
 sistemde kaydedilir.
-
-
-Oluşturulan elektronik tebligat adresleri, adres sahiplerine teslim edilmek üzere, ilgili
+Oluşturulan elektronik tebligat adresleri, adres sahiplerine teslim edilmek üzere, ilgili
 kurum, kuruluş veya birliğe gönderilir; 7/a maddesinin ikinci fıkrası kapsamında kalan
 kişilere ise doğrudan teslim edilir. Bu adresler, adres sahibine teslim edildikten sonra 1 inci
 madde uyarınca tebligat çıkarmaya yetkili makam ve mercilerin kullanımına sunulur.
@@ -73,16 +71,13 @@ Bu maddenin yürürlüğe girdiği tarihten itibaren bir ay içinde Posta ve Tel
 Anonim Şirketi, elektronik tebligat adreslerini oluşturmak amacıyla ihtiyaç duyduğu tüm bilgi
 ve belgeleri;
 1. İlgili kamu kurum veya kuruluşundan,
-2. Mahallî idareler bakımından Çevre ve Şehircilik Bakanlığından,16
+2. Mahallî idareler bakımından Çevre ve Şehircilik Bakanlığından,
 3. İlgili kamu iktisadi teşebbüsünden,
 4. İlgili kamuya ait ortaklıktan,
 5. Şirketler ve kooperatifler bakımından Gümrük ve Ticaret Bakanlığından,
 6. İlgili kamu kurumu niteliğindeki meslek kuruluşu veya üst kuruluşundan,
 7. Türkiye Noterler Birliğinden,
-16 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 nci maddesiyle bu bentte yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.
-
-
-8. Türkiye Barolar Birliğinden,
+8. Türkiye Barolar Birliğinden,
 ister.
 İlgili kurum, kuruluş veya birlik, talep edilen bilgileri bir ay içinde Posta ve Telgraf
 Teşkilatı Anonim Şirketine bildirmek zorundadır. Posta ve Telgraf Teşkilatı Anonim Şirketi,
@@ -91,6 +86,8 @@ Posta ve Telgraf Teşkilatı Anonim Şirketi oluşturulan elektronik tebligat ad
 adres sahiplerine teslim edilmek üzere, ilgili kurum, kuruluş veya birliğe gönderir ve teslim
 işlemi gerçekleştikten sonra bu adresleri, 1 inci madde uyarınca tebligat çıkarmaya yetkili
 makam ve mercilerin kullanımına sunar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

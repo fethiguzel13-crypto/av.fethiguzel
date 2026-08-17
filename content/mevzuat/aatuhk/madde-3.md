@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Kanundaki terimler**
+**Kanundaki terimler:**
 
 ---
 
@@ -19,14 +19,13 @@ kanuni temsilci veya mirasçılarını ve vergi mükelleflerini, vergi sorumlusu
 yabancı şahıs ve kurumlar temsilcilerini,
 Alacaklı amme idaresi terimi:
 Devleti, vilayet hususi idarelerini ve belediyeleri,
-
-Tahsil dairesi terimi:
+Tahsil dairesi terimi:
 Alacaklı amme idaresinin bu kanunu tatbik etmekle vazifeli dairesini, servisini, memur
 veya memurlarını,
 Yalnızca mal olarak geçen terim:
 Menkul, gayrimenkul "gemiler dahil" mallarla, her çeşit hak ve alacakları,
 Para cezaları terimi:
-Adli ve idari para cezalarını,1
+Adli ve idari para cezalarını,
 (Ek: 4/6/2008-5766/1 md.) Tahsil edilemeyen amme alacağı terimi:
 Amme borçlusunun bu Kanun hükümlerine göre yapılan mal varlığı araştırması
 sonucunda haczi kabil herhangi bir mal varlığının bulunmaması, haczedilen mal varlığının
@@ -41,6 +40,8 @@ amme borçlusundan tahsil edilemeyeceği ortaya çıkan amme alacaklarını,
 Takibat giderleri terimi:
 Cebri icradan mütevellit muameleler sırasında yapılan zor kullanma, ilan, haciz, nakil
 ve muhafaza giderleri gibi her türlü giderleri, ifade eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

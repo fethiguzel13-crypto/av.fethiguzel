@@ -24,8 +24,8 @@ değilse Ankara, İstanbul veya İzmir mahkemelerinden birinden istenebilir.
 (3) İcra edilebilirlik şerhinin verilmesine ilişkin inceleme dosya üzerinden, Sözleşme
 hükümleri ile 18 inci madde hükmüne göre yapılır. Mahkeme, gerektiğinde gerekçesini de
 göstererek duruşma açabilir.
-Taşınmazın devrine veya taşınmaz üzerinde sınırlı ayni hak kurulmasına ilişkin
-uyuşmazlıklarda arabuluculuk
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4261
 ---
 
-**3 – Diğer haklar için**
+**3 – Diğer haklar için:**
 
 ---
 
 Madde 90 – İcra dairesi haczedilen hakların muhafazasına ve alacaklardan günü
 gelenlerin tahsiline çalışır ve lazım gelen masrafların peşin ödenmesini istiyebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

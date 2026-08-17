@@ -21,6 +21,8 @@ hiçbir şekilde Konseyin toplam üye sayısının yüzde ellisinden fazla olama
 (3) Reklam Konseyinin üyeleri, çalışma usul ve esasları ile diğer hususlar
 yönetmelikle belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**1 – Talep Müddeti**
+**II. HACİZ
+Haciz:
+1 – Talep Müddeti**
 
 ---
 
@@ -27,8 +29,7 @@ Bilişim Sistemi ile kendi sistemleri arasında entegrasyonu sağlar. Sorgulaman
 ve sınırı ile diğer hususlar Adalet Bakanlığınca yürürlüğe konulan yönetmelikle belirlenir.
 (Değişik:6/6/1985-3222/9 md.) Haciz istemek hakkı, ödeme emrinin tebliği tarihinden
 itibaren bir sene geçmekle düşer. İtiraz veya dava halinde bunların vukuundan hükmün
-
-katileşmesine kadar veya alacaklıyla borçlunun icra dairesinde taksit sözleşmeleri yapmaları
+katileşmesine kadar veya alacaklıyla borçlunun icra dairesinde taksit sözleşmeleri yapmaları
 halinde taksit sözleşmesinin ihlaline kadar geçen zaman hesaba katılmaz.
 Alacaklı isterse, haciz talebinin vukuuna dair bir vesika verilir. Bu vesika hiç bir harç
 ve resme tabi değildir.
@@ -37,6 +38,8 @@ içinde yenilenmezse dosya muameleden kaldırılır.
 Yeniden haciz istemek, alacaklı tarafından vukubulan yenileme talebinin borçluya
 tebliğine mütevakkıftır. İlama müstenit olmayan takiplerde yenileme talebi üzerine yeniden
 harc alınır. Yenileme masraf ve harcları borçluya tahmil edilmez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

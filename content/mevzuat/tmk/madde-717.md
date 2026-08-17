@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**C. Taşınmaz mülkiyetinin kayb ı**
+**C. Taşınmaz mülkiyetinin kaybı**
 
 ---
 
-Madde 717 - Taşınmaz mülkiyeti, terkin veya taşınmazın tamamen yok olmasıyla sona erer. Kamulaştırma hâlinde mülkiyetin ne zaman sona erec eği özel kanunla belirlenir İKİNCİ AYIRIM TAŞINMAZ MÜLKİYETİNİN İÇERİĞİ VE KISITLAMALARI A. Taşınmaz mülkiyetinin i çeriği I. Kapsam
+Madde 717- Taşınmaz mülkiyeti, terkin veya taşınmazın tamamen yok olmasıyla sona erer.
 
 ---
 

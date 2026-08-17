@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4275
 ---
 
-**Kanunun hükmü ve amirin emri**
+**İKİNCİ BÖLÜM
+Ceza Sorumluluğunu Kaldıran veya Azaltan Nedenler
+Kanunun hükmü ve amirin emri**
 
 ---
 
@@ -18,6 +20,8 @@ uygulayan sorumlu olmaz.
 getiren ile emri veren sorumlu olur.
 (4) Emrin, hukuka uygunluğunun denetlenmesinin kanun tarafından engellendiği
 hallerde, yerine getirilmesinden emri veren sorumlu olur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

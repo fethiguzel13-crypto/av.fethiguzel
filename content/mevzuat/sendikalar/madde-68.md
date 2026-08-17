@@ -25,6 +25,8 @@ işverence haklı nedenle feshedilebilir. Ancak kısmi süreli iş sözleşmesi 
 kanuni haftalık çalışma süresini tamamlayacak süreyi aşmamak üzere başka bir işverenin
 işyerinde çalışabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

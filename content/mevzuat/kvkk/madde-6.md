@@ -7,15 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4286
 ---
 
-**Özel nitelikli kişisel verilerin işlenme şartları**
-
----
-
-MADDE 6- (1) Kişilerin ırkı, etnik kökeni, siyasi düşüncesi, felsefi inancı, dini,
+MADDE 6-
 mezhebi veya diğer inançları, kılık ve kıyafeti, dernek, vakıf ya da sendika üyeliği, sağlığı,
 cinsel hayatı, ceza mahkûmiyeti ve güvenlik tedbirleriyle ilgili verileri ile biyometrik ve
 genetik verileri özel nitelikli kişisel veridir.
-(2) (Mülga:2/3/2024-7499/33 md.)
+(2)
+(Mülga:2/3/2024-7499/33 md.)
 (3) (Değişik:2/3/2024-7499/33 md.) Özel nitelikli kişisel verilerin işlenmesi yasaktır.
 Ancak bu verilerin işlenmesi;
 a) İlgili kişinin açık rızasının olması,
@@ -40,6 +37,8 @@ temasta olan kişilere yönelik olması,
 halinde mümkündür.
 (4) Özel nitelikli kişisel verilerin işlenmesinde, ayrıca Kurul tarafından belirlenen
 yeterli önlemlerin alınması şarttır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

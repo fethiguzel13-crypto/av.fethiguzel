@@ -16,8 +16,8 @@ suçunun soruşturulması ve kovuşturulması, mağdurun şikayetine bağlıdır
 (2) Mağdur, şikayet etmeden önce ölürse, veya suç ölmüş olan kişinin hatırasına karşı
 işlenmiş ise; ölenin ikinci dereceye kadar üstsoy ve altsoyu, eş veya kardeşleri tarafından
 şikayette bulunulabilir.
-DOKUZUNCU BÖLÜM
-Özel Hayata ve Hayatın Gizli Alanına Karşı Suçlar
+
+---
 
 ### Akademik Yorum ve Analiz
 

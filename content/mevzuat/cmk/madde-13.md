@@ -18,6 +18,8 @@ bulunduğu yer mahkemesi yetkilidir.
 (3) Mahkemenin bu suretle de belirlenmesi olanağı yoksa, ilk usul işleminin yapıldığı
 yer mahkemesi yetkilidir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**Tahakkuk fişi esası**
+**İKİNCİ KISIM
+Tarh ve Tahakkuk Usulü
+BİRİNCİ BÖLÜM
+Beyannameye Dayanan Tarh
+Tahakkuk fişi esası:**
 
 ---
 
@@ -19,6 +23,8 @@ tevdi edene verilir. Bu suretle vergi tahakkuk etmiş olur. Tahakkuk fişinin m�
 nüshası aynı zamanda beyannamenin makbuzu yerine geçer.
 Lüzum görülen hallerde beyana dayanan vergi tahakkuk fişi yerine ihbarname ile
 tebliğ olunabilir. Kanunen belli hallerde tebliğ tekalif cetvelinin ilaniyle yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

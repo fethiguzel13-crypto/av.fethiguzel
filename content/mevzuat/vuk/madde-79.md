@@ -7,7 +7,7 @@ lastReviewed: "2026-07-11"
 wordCount: 2536
 ---
 
-**Yetki**
+**Yetki:**
 
 ---
 
@@ -21,14 +21,11 @@ istiyebilirler;
 4. Fabrika, değirmen ve imalathanelerin iratlarının takdirinde içlerinde bulunan sabit
 istihsal tesislerinin kıymetlerini tesbit için lüzum gördükleri takdirde bilirkişiye müracaat
 edebilirler.
-
-2/7/2018 tarihli ve 700 sayılı KHK’nin 46 ncı maddesiyle, bu fıkrada yer alan “tüzük” ibaresi “yönetmelik”
-şeklinde değiştirilmiştir.
-18
-
-Çalışma saatleri dışında veya tatil günlerinde, bina ve arazi, bunları işgal edenlerin
+Çalışma saatleri dışında veya tatil günlerinde, bina ve arazi, bunları işgal edenlerin
 muvafakati olmaksızın gezilemez. Binaların gezilmesi sırasında, komisyon başkan ve üyeleri,
 ev halkının rahatsız edilmemesine dikkat etmiye mecburdurlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

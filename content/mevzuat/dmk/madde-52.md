@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Kurumların memur ihtiyaçlarını karşılama şekli**
+**Kurumların memur ihtiyaçlarını karşılama şekli:**
 
 ---
 
@@ -18,6 +18,8 @@ Müteakip sınav dönemine kadar kurumların acil ihtiyaçları; sınavlara giri
 ancak yeterli kadro olmaması nedeni ile ataması yapılamayanlardan; yayınlanan başarı
 sırasına göre karşılanabilir.
 Yapılan atamalar, ilgili kurumlarca derhal Devlet Personel Başkanlığına bildirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

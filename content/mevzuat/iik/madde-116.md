@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**İkinci artırma**
+**İkinci artırma:**
 
 ---
 
 Madde 116 – (Mülga: 2/7/2012-6352/105 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,12 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**III. Resmî defte re göre kabulün sonuçları
+**III. Resmî deftere göre kabulün sonuçları
 1. Deftere yazılanlardan sorumluluk**
 
 ---
 
-Madde 628 - Resmî deftere gör e kabul edilen miras, miras çıya sadece deftere yazılmış borçlarla geçer. Bu suretle mirasın geçmesi, mirasın açıldığı tarihten başlayarak hüküm ifade eder. Mirasçı, mirasbırakanın deftere yazılmış olan borçlarından hem tereke malları, hem kendi malvarlığı ile sorumludur.
+Madde 628- Resmî deftere göre kabul edilen miras, mirasçıya sadece deftere yazılmış
+borçlarla geçer.
+Bu suretle mirasın geçmesi, mirasın açıldığı tarihten başlayarak hüküm ifade eder.
+Mirasçı, mirasbırakanın deftere yazılmış olan borçlarından hem tereke malları, hem kendi
+malvarlığı ile sorumludur.
 
 ---
 

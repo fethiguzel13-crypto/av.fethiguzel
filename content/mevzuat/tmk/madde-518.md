@@ -11,7 +11,11 @@ wordCount: 4272
 
 ---
 
-Madde 518 - Bırakılan beli rli mal, mirası n açılması anındaki durumuyla teslim olunur; yarar ve hasar, miras ın açılması anında kendisin e belirli mal bırakılana ge çer. Tasarr ufu ye rine getirme ile yükümlü olan kimse, mirasın açılmasından sonra bırakılan belirli mala yaptığı harcamala r ve mala verdiği zararlardan dolayı, vekâletsiz iş görenin haklarına sahip ve bo rçlarıyla yükümlü olur. II I. Tereke ile ilgisi
+Madde 518- Bırakılan belirli mal, mirasın açılması anındaki durumuyla teslim olunur;
+yarar ve hasar, mirasın açılması anında kendisine belirli mal bırakılana geçer.
+Tasarrufu yerine getirme ile yükümlü olan kimse, mirasın açılmasından sonra bırakılan
+belirli mala yaptığı harcamalar ve mala verdiği zararlardan dolayı, vekâletsiz iş görenin haklarına
+sahip ve borçlarıyla yükümlü olur.
 
 ---
 

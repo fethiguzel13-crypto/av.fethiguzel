@@ -28,8 +28,8 @@ kullanılmasına ilişkin mevzuata riayet edilir.
 gerçekleştiren gerçek ve tüzel kişilerin, Kurulca belirlenecek bir kurumdan tanımlayıcı bir
 kod veya numara almalarını zorunlu tutabilir. Bu fıkranın uygulanmasına ilişkin usul ve
 esaslar Kurulca düzenlenir.
-BEŞİNCİ KISIM
-Sermaye Piyasalarında Denetim ve Tedbirler
+
+---
 
 ### Akademik Yorum ve Analiz
 

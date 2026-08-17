@@ -30,7 +30,7 @@ function PhotoFigure({ photo, priority = false }: { photo: MakaleFoto; priority?
 function GraphicBlock({ g }: { g: MakaleGrafik }) {
   if (g.kind === 'timeline') {
     return (
-      <figure className="my-10 rounded-2xl border border-charcoal/8 bg-white p-5 sm:p-7 shadow-soft">
+      <figure className="my-10 rounded-2xl border border-charcoal/[0.08] bg-white p-5 sm:p-7 shadow-soft">
         <figcaption className="text-[11px] font-mono uppercase tracking-widest text-accent mb-5">
           Zaman çizelgesi · {g.title}
         </figcaption>
@@ -54,7 +54,7 @@ function GraphicBlock({ g }: { g: MakaleGrafik }) {
   }
   if (g.kind === 'flow') {
     return (
-      <figure className="my-10 rounded-2xl border border-charcoal/8 bg-white p-5 sm:p-7 shadow-soft">
+      <figure className="my-10 rounded-2xl border border-charcoal/[0.08] bg-white p-5 sm:p-7 shadow-soft">
         <figcaption className="text-[11px] font-mono uppercase tracking-widest text-accent mb-5">
           Akış · {g.title}
         </figcaption>
@@ -73,7 +73,7 @@ function GraphicBlock({ g }: { g: MakaleGrafik }) {
   }
   if (g.kind === 'compare') {
     return (
-      <figure className="my-10 overflow-x-auto rounded-2xl border border-charcoal/8 bg-white p-5 sm:p-7 shadow-soft">
+      <figure className="my-10 overflow-x-auto rounded-2xl border border-charcoal/[0.08] bg-white p-5 sm:p-7 shadow-soft">
         <figcaption className="text-[11px] font-mono uppercase tracking-widest text-accent mb-4">
           Karşılaştırma · {g.title}
         </figcaption>
@@ -104,7 +104,7 @@ function GraphicBlock({ g }: { g: MakaleGrafik }) {
   }
   if (g.kind === 'bars') {
     return (
-      <figure className="my-10 rounded-2xl border border-charcoal/8 bg-white p-5 sm:p-7 shadow-soft">
+      <figure className="my-10 rounded-2xl border border-charcoal/[0.08] bg-white p-5 sm:p-7 shadow-soft">
         <figcaption className="text-[11px] font-mono uppercase tracking-widest text-accent mb-5">
           {g.title}
         </figcaption>
@@ -126,7 +126,7 @@ function GraphicBlock({ g }: { g: MakaleGrafik }) {
   }
   // map-hint
   return (
-    <figure className="my-10 rounded-2xl border border-charcoal/8 bg-white p-5 sm:p-7 shadow-soft">
+    <figure className="my-10 rounded-2xl border border-charcoal/[0.08] bg-white p-5 sm:p-7 shadow-soft">
       <figcaption className="text-[11px] font-mono uppercase tracking-widest text-accent mb-4">
         Harita notu · {g.title}
       </figcaption>
@@ -295,7 +295,7 @@ export default function BolgeMakaleView({
           <h2 className="text-lg font-heading font-bold text-charcoal mb-4">Sık sorulanlar</h2>
           <div className="space-y-3">
             {makale.faq.map((f) => (
-              <details key={f.q} className="group bg-white border border-charcoal/6 rounded-xl">
+              <details key={f.q} className="group bg-white border border-charcoal/[0.06] rounded-xl">
                 <summary className="cursor-pointer list-none p-4 font-semibold text-sm text-charcoal flex justify-between gap-3">
                   {f.q}
                   <span className="text-charcoal/30 group-open:rotate-45 transition-transform">+</span>
@@ -314,7 +314,7 @@ export default function BolgeMakaleView({
             <Link
               key={l.href}
               href={l.href}
-              className="group flex items-center justify-between gap-3 bg-white border border-charcoal/8 rounded-xl px-4 py-3.5 hover:border-accent/40 transition-colors"
+              className="group flex items-center justify-between gap-3 bg-white border border-charcoal/[0.08] rounded-xl px-4 py-3.5 hover:border-accent/40 transition-colors"
             >
               <span className="flex items-center gap-2 text-sm font-semibold text-charcoal">
                 <BookOpen size={15} className="text-accent shrink-0" />

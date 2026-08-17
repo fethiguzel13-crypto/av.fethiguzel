@@ -19,6 +19,8 @@ Kurum tarafından sağlanmaya devam edilir. Ancak, afet veya savaş hallerine ba
 nedenlerden dolayı Kurumca yapılan sağlık hizmeti giderleri, giderlerin ödendiği takvim yılı
 sonu esas alınarak genel bütçeden Kuruma bir yıl içinde transfer edilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

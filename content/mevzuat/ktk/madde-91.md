@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4281
 ---
 
-**Mali sorumluluk sigortası yaptırma zorunluluğu**
+**Sigorta
+Mali sorumluluk sigortası yaptırma zorunluluğu:**
 
 ---
 
@@ -35,6 +36,8 @@ ve zararların tazmini konularının özel bir anlaşmayla düzenlendiği haller
 Türkiye’ye girecek yabancı askerî araçlar bakımından bu madde hükmü uygulanmaz.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükmüne uymayanlar 1 800 000 lira para
 cezası ile cezalandırılırlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

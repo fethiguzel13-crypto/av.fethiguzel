@@ -24,6 +24,8 @@ sözleşmesi hükmündedir.
 (4) Uyuşmazlığın her safhasında taraflar anlaşarak özel hakem olarak Yüksek Hakem
 Kurulunu da seçebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

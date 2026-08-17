@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**C. Rapor ve hesapların in celenm esi**
+**C. Rapor ve hesapların incelenmesi**
 
 ---
 
-Madde 464 - Vesayet makamı, vasinin belli dönemlerde vereceği rapor ve hesapları inceler; gerekli gör düğü hâllerde bunların tamamlanması veya düzeltilmesini ister. Vesayet makamı, ra por ve hesapları kabul veya reddeder; gerektiğinde ves ayet altınd aki ki şinin menfaatini korumak için uygun önlemleri alır.
+Madde 464- Vesayet makamı, vasinin belli dönemlerde vereceği rapor ve hesapları
+inceler; gerekli gördüğü hâllerde bunların tamamlanması veya düzeltilmesini ister.
+Vesayet makamı, rapor ve hesapları kabul veya reddeder; gerektiğinde vesayet altındaki
+kişinin menfaatini korumak için uygun önlemleri alır.
 
 ---
 

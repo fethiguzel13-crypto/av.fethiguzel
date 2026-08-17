@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**Jandarmanın görev ve sorumluluk alanı**
+**Jandarmanın görev ve sorumluluk alanı:**
 
 ---
 
@@ -28,15 +28,14 @@ tarihten itibaren en geç üç ay içerisinde sorumluluk alanları yeniden düze
 tarafından alınan kararlar İçişleri Bakanının onayıyla yürürlüğe girer. Belirlenen sorumluluk
 alanlarının sınırları karara eklenen bir harita veya kroki üzerinde gösterilir.
 Jandarma, kendisine verilen görevlerin ifası ile ilgili olarak diğer güvenlik kuvvetleri
-5 2/7/2018 tarihli ve 703 sayılı KHK’nin 128 inci maddesiyle, bu bentte yer alan “Kanunlarla” ibaresinden sonra gelmek üzere “ve Cumhurbaşkanlığı kararnameleriyle” ibaresi eklenmiştir. 6 15/8/2016 tarihli ve 674 sayılı KHK’nin 31 inci maddesiyle, bu maddenin başlığında yer alan “sıkıyönetim,” ibaresi yürürlükten kaldırılmış olup, daha sonra bu hüküm 10/11/2016 tarihli ve 6758 sayılı Kanunun 27 nci maddesiyle aynen kabul edilerek kanunlaşmıştır. 7 2/7/2018 tarihli ve 703 sayılı KHK’nin 128 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-
-
-ile işbirliği ve koordinasyonda bulunur.
+ile işbirliği ve koordinasyonda bulunur.
 Jandarma veya Emniyet Teşkilatı, kendi sorumluluk sahasında yetersiz kaldıkları veya
 kalacaklarının değerlendirilmesi halinde, mahalli mülki amirler tarafından birbirlerinin
 sorumluluk sahalarında geçici olarak görevlendirilebilirler.
 Jandarmanın diğer güvenlik kuvvetleriyle işbirliği ve koordinasyon esasları ve emir
 komuta ilişkileri yönetmelikle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

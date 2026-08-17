@@ -7,20 +7,16 @@ lastReviewed: "2026-07-27"
 wordCount: 3623
 ---
 
-**Vesayet işleri**
+**II. Geçici önlemler**
 
 ---
 
-Madde 420 - Vesayet işleri
-zorunlu kıldığı takdirde vesayet makamı, vasinin atanmasından önce de re'sen gerekli
-önlemleri alır; özellikle, kısıtlanması istenen kişinin fiil ehliyetini geçici
-olarak kaldırabilir ve ona bir temsilci atayabilir.
+Madde 420- Vesayet işleri zorunlu kıldığı takdirde vesayet makamı, vasinin atanmasından
+önce de re'sen gerekli önlemleri alır; özellikle, kısıtlanması istenen kişinin fiil ehliyetini geçici olarak
+kaldırabilir ve ona bir temsilci atayabilir.
+Vesayet makamının kararı ilân olunur.
 
-Vesayet
-makamının kararı ilân olunur.
-
-III.
-Tebliğ ve ilân
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,15 +7,14 @@ lastReviewed: "2026-07-27"
 wordCount: 3397
 ---
 
-**Resmî vasiyetnameyi düzenleyen memur, vasiyetnamenin aslını saklamakla**
+**f. Vasiyetnamenin saklanması**
 
 ---
 
-Madde 537 - Resmî vasiyetnameyi düzenleyen memur, vasiyetnamenin aslını saklamakla
+Madde 537- Resmî vasiyetnameyi düzenleyen memur, vasiyetnamenin aslını saklamakla
 yükümlüdür.
 
-3.
-El yazılı vasiyetname
+---
 
 ### Akademik Yorum ve Analiz
 

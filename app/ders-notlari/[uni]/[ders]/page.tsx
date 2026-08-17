@@ -1,159 +1,26 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 import { notFound, permanentRedirect } from 'next/navigation';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import { DersNotuView } from '@/components/DersNotuView';
-import {
-  getAllNoteParams,
-  getHub,
-  getNote,
-  resolveNoteCourseCode,
-} from '@/lib/ders-notlari';
+import { getHub, getNote, resolveNoteCourseCode } from '@/lib/ders-notlari';
+import { auditLectureNote } from '@/lib/content-quality.mjs';
 
 const SITE = 'https://www.avfethiguzel.com';
 
 type Props = { params: Promise<{ uni: string; ders: string }> };
 
 /**
- * 3360 notun tamamını SSG etmek Vercel build süresini şişirir.
- * Öncelikli ~600 not önceden üretilir; diğerleri dynamicParams ile runtime.
+ * Önceden üretim yok.
+ *
+ * 14.08.2026 denetiminde 7.999 ders notunun tamamının aynı kalıptan üretildiği
+ * ve ~160 gerçek dersin 84 üniversiteye çoğaltıldığı ölçüldü. Hiçbiri indekse
+ * girmediği için yüzlerce sayfayı derleme anında üretmek boşa harcanan build
+ * süresidir; tamamı dynamicParams ile çalışma anında karşılanır.
  */
 export function generateStaticParams() {
-  const all = getAllNoteParams();
-  // Öncelik: bilinen yüksek arama uni slug’ları + ilk dilim
-  const priority = new Set([
-    'ankara-yildirim-beyazit',
-    'ankara',
-    'istanbul',
-    'marmara',
-    'galatasaray',
-    'dokuz-eylul',
-    'hacettepe',
-    'bilkent',
-    'koc',
-    'tobb-etu',
-    'bogazici',
-    'ozyegin',
-    'yeditepe',
-  ]);
-  const first = all.filter((p) => priority.has(p.uni));
-  // Borçlar Genel üçlü paket — öncelikli fakültelerde mutlaka SSG
-  const borclarTriple = all.filter(
-    (p) =>
-      priority.has(p.uni) &&
-      (p.ders === 'borclar-genel-donem-1' ||
-        p.ders === 'borclar-genel-donem-2' ||
-        p.ders === 'borclar-genel-yillik' ||
-        p.ders === 'borclar-ozel-donem-1' ||
-        p.ders === 'borclar-ozel-donem-2' ||
-        p.ders === 'borclar-ozel-yillik' ||
-        p.ders === 'esya-hukuku-donem-1' ||
-        p.ders === 'esya-hukuku-donem-2' ||
-        p.ders === 'esya-hukuku-yillik' ||
-        p.ders === 'miras-hukuku-donem-1' ||
-        p.ders === 'miras-hukuku-donem-2' ||
-        p.ders === 'miras-hukuku-yillik' ||
-        p.ders === 'tmk-1-kitap-donem-1' ||
-        p.ders === 'tmk-1-kitap-donem-2' ||
-        p.ders === 'tmk-1-kitap-yillik' ||
-        p.ders === 'tmk-2-kitap-donem-1' ||
-        p.ders === 'tmk-2-kitap-donem-2' ||
-        p.ders === 'tmk-2-kitap-yillik' ||
-        p.ders === 'hmk-donem-1' ||
-        p.ders === 'hmk-donem-2' ||
-        p.ders === 'hmk-yillik' ||
-        p.ders === 'icra-donem-1' ||
-        p.ders === 'icra-donem-2' ||
-        p.ders === 'icra-yillik' ||
-        p.ders === 'iflas-donem-1' ||
-        p.ders === 'iflas-donem-2' ||
-        p.ders === 'iflas-yillik' ||
-        p.ders === 'sirketler-donem-1' ||
-        p.ders === 'sirketler-donem-2' ||
-        p.ders === 'sirketler-yillik' ||
-        p.ders === 'kiymetli-evrak-donem-1' ||
-        p.ders === 'kiymetli-evrak-donem-2' ||
-        p.ders === 'kiymetli-evrak-yillik' ||
-        p.ders === 'sigorta-hukuku-donem-1' ||
-        p.ders === 'sigorta-hukuku-donem-2' ||
-        p.ders === 'sigorta-hukuku-yillik' ||
-        p.ders === 'ticari-isletme-donem-1' ||
-        p.ders === 'ticari-isletme-donem-2' ||
-        p.ders === 'ticari-isletme-yillik' ||
-        p.ders === 'ceza-genel-donem-1' ||
-        p.ders === 'ceza-genel-donem-2' ||
-        p.ders === 'ceza-genel-yillik' ||
-        p.ders === 'ceza-ozel-donem-1' ||
-        p.ders === 'ceza-ozel-donem-2' ||
-        p.ders === 'ceza-ozel-yillik' ||
-        p.ders === 'cmk-donem-1' ||
-        p.ders === 'cmk-donem-2' ||
-        p.ders === 'cmk-yillik' ||
-        p.ders === 'idare-hukuku-donem-1' ||
-        p.ders === 'idare-hukuku-donem-2' ||
-        p.ders === 'idare-hukuku-yillik' ||
-        p.ders === 'idari-yargilama-donem-1' ||
-        p.ders === 'idari-yargilama-donem-2' ||
-        p.ders === 'idari-yargilama-yillik' ||
-        p.ders === 'hukuk-felsefesi-donem-1' ||
-        p.ders === 'hukuk-felsefesi-donem-2' ||
-        p.ders === 'hukuk-felsefesi-yillik' ||
-        p.ders === 'hukuk-ingilizcesi-donem-1' ||
-        p.ders === 'hukuk-ingilizcesi-donem-2' ||
-        p.ders === 'hukuk-ingilizcesi-yillik' ||
-        p.ders === 'saglik-hukuku-donem-1' ||
-        p.ders === 'saglik-hukuku-donem-2' ||
-        p.ders === 'saglik-hukuku-yillik' ||
-        p.ders === 'tuketici-hukuku-donem-1' ||
-        p.ders === 'tuketici-hukuku-donem-2' ||
-        p.ders === 'tuketici-hukuku-yillik' ||
-        p.ders === 'insaat-hukuku-donem-1' ||
-        p.ders === 'insaat-hukuku-donem-2' ||
-        p.ders === 'insaat-hukuku-yillik' ||
-        p.ders === 'arabuluculuk-donem-1' ||
-        p.ders === 'arabuluculuk-donem-2' ||
-        p.ders === 'arabuluculuk-yillik' ||
-        p.ders === 'devletler-ozel-donem-1' ||
-        p.ders === 'devletler-ozel-donem-2' ||
-        p.ders === 'devletler-ozel-yillik' ||
-        p.ders === 'hukuka-giris-donem-1' ||
-        p.ders === 'hukuka-giris-donem-2' ||
-        p.ders === 'hukuka-giris-yillik' ||
-        p.ders === 'anayasa-donem-1' ||
-        p.ders === 'anayasa-donem-2' ||
-        p.ders === 'anayasa-yillik' ||
-        p.ders === 'roma-hukuku-donem-1' ||
-        p.ders === 'roma-hukuku-donem-2' ||
-        p.ders === 'roma-hukuku-yillik' ||
-        p.ders === 'milletlerarasi-hukuk-donem-1' ||
-        p.ders === 'milletlerarasi-hukuk-donem-2' ||
-        p.ders === 'milletlerarasi-hukuk-yillik' ||
-        p.ders === 'hukuk-sosyolojisi-donem-1' ||
-        p.ders === 'hukuk-sosyolojisi-donem-2' ||
-        p.ders === 'hukuk-sosyolojisi-yillik' ||
-        p.ders === 'is-hukuku-donem-1' ||
-        p.ders === 'is-hukuku-donem-2' ||
-        p.ders === 'is-hukuku-yillik' ||
-        p.ders === 'adli-tip-donem-1' ||
-        p.ders === 'adli-tip-donem-2' ||
-        p.ders === 'adli-tip-yillik' ||
-        p.ders === 'deniz-ticareti-donem-1' ||
-        p.ders === 'deniz-ticareti-donem-2' ||
-        p.ders === 'deniz-ticareti-yillik' ||
-        p.ders === 'turk-hukuk-tarihi-donem-1' ||
-        p.ders === 'turk-hukuk-tarihi-donem-2' ||
-        p.ders === 'turk-hukuk-tarihi-yillik')
-  );
-  const rest = all.filter((p) => !priority.has(p.uni)).slice(0, 200);
-  const seen = new Set<string>();
-  const out: { uni: string; ders: string }[] = [];
-  for (const p of [...borclarTriple, ...first, ...rest]) {
-    const k = `${p.uni}/${p.ders}`;
-    if (seen.has(k)) continue;
-    seen.add(k);
-    out.push(p);
-  }
-  return out;
+  return [];
 }
 
 export const dynamicParams = true;
@@ -162,17 +29,26 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { uni, ders } = await params;
   const note = getNote(uni, ders);
   if (!note) return { title: 'Not bulunamadı' };
+
+  const quality = auditLectureNote(note);
+
   return {
-    title: { absolute: `${note.title} | Av. Fethi Güzel` },
-    description: note.description,
-    keywords: note.keywords,
+    title: quality.publishable
+      ? { absolute: `${note.title} | Av. Fethi Güzel` }
+      : { absolute: `${note.h1} — yeniden yazılıyor | Av. Fethi Güzel` },
+    description: quality.publishable
+      ? note.description
+      : 'Bu ders notu yeniden yazılıyor. Kanun metinleri ve hesaplama araçları kullanılabilir durumda.',
+    keywords: quality.publishable ? note.keywords : undefined,
     alternates: { canonical: `${SITE}/ders-notlari/${uni}/${ders}` },
     openGraph: {
       title: note.h1,
-      description: note.description,
+      description: quality.publishable ? note.description : 'Yeniden yazılıyor.',
       url: `${SITE}/ders-notlari/${uni}/${ders}`,
     },
-    robots: { index: true, follow: true },
+    robots: quality.publishable
+      ? { index: true, follow: true }
+      : { index: false, follow: true },
   };
 }
 
@@ -186,13 +62,98 @@ export default async function DersNotuPage({ params }: Props) {
   const hub = getHub(uni);
   if (!note || !hub) notFound();
 
+  const quality = auditLectureNote(note);
+
   return (
     <div className="bg-cream min-h-screen">
       <Navbar />
       <main className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-3xl mx-auto">
-        <DersNotuView note={note} hub={hub} />
+        {quality.publishable ? (
+          <DersNotuView note={note} hub={hub} />
+        ) : (
+          <WithdrawnNote
+            h1={note.h1}
+            uni={hub.uni.shortName || hub.uni.name || uni}
+            reason={quality.reason}
+          />
+        )}
       </main>
       <Footer />
     </div>
+  );
+}
+
+/**
+ * Yayından kaldırılmış ders notu ekranı.
+ *
+ * 404 vermez: bağlantı kırılmasın ve öğrenci ne olduğunu görsün. İçerik
+ * gösterilmez; gerçekten işe yarar olan yere yönlendirilir.
+ */
+function WithdrawnNote({
+  h1,
+  uni,
+  reason,
+}: {
+  h1: string;
+  uni: string;
+  reason?: string;
+}) {
+  return (
+    <>
+      <nav className="text-[11px] text-charcoal/40 mb-5 flex flex-wrap gap-1.5">
+        <Link href="/" className="hover:text-accent">
+          Ana sayfa
+        </Link>
+        <span>/</span>
+        <Link href="/ders-notlari" className="hover:text-accent">
+          Ders notları
+        </Link>
+        <span>/</span>
+        <span className="text-charcoal/60">{uni}</span>
+      </nav>
+
+      <h1 className="text-2xl sm:text-3xl font-heading font-bold text-charcoal mb-6 leading-tight">
+        {h1}
+      </h1>
+
+      <aside className="rounded-2xl border border-accent/30 bg-accent/[0.06] px-5 py-5 mb-10">
+        <p className="text-[11px] font-mono tracking-[0.16em] uppercase text-accent font-bold m-0 mb-2">
+          Bu not yayından kaldırıldı
+        </p>
+        <p className="text-[15px] text-charcoal/80 leading-relaxed m-0">
+          {reason ??
+            'Bu ders notu, tüm üniversite ve ders kombinasyonlarına çoğaltılmış kalıp metindir.'}
+        </p>
+        <p className="text-sm text-charcoal/60 leading-relaxed mt-3 mb-0">
+          Sınavına çalışan bir öğrenciye yanlış veya içi boş not vermektense hiç
+          vermemeyi tercih ediyoruz.
+        </p>
+      </aside>
+
+      <section>
+        <h2 className="text-lg font-heading font-bold text-charcoal mb-3">
+          Bunun yerine kullanabilecekleriniz
+        </h2>
+        <ul className="flex flex-col gap-2 m-0 p-0 list-none">
+          {[
+            { href: '/mevzuat', label: 'Kanun maddeleri — resmî metinler' },
+            { href: '/hesaplama', label: 'Hesaplama araçları — 33 araç' },
+            { href: '/icthat', label: 'Güncel içtihat takibi' },
+          ].map((l) => (
+            <li key={l.href}>
+              <Link
+                href={l.href}
+                className="flex items-center gap-2 rounded-xl border border-charcoal/[0.08] bg-white px-3.5 py-3 text-sm text-charcoal font-semibold hover:border-accent/40 hover:text-accent transition-colors"
+              >
+                <span className="text-accent" aria-hidden>
+                  →
+                </span>
+                {l.label}
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </section>
+    </>
   );
 }

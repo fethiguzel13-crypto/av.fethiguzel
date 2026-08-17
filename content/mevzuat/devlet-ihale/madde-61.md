@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**Sözleşme yapılması ve kesin teminat alınması zorunlu olmayan haller**
+**Sözleşme yapılması ve kesin teminat alınması zorunlu olmayan haller:**
 
 ---
 
 Madde 61 – 57 nci maddede yazılı süre içinde taahhüdün şartname hükümlerine göre
 yerine getirilmesi ve bunun idarece uygun bulunması halinde, sözleşme yapılması ve kesin
 teminat alınması zorunlu değildir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

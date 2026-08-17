@@ -7,14 +7,19 @@ lastReviewed: "2026-07-20"
 wordCount: 4277
 ---
 
-**Nüfus müdürlüklerinin yetkisi**
+**BEŞİNCİ KISIM
+Noterlerin Andiçmesi, Teminatı, İmza ve Mühür Örnekleri
+Noterlerin andiçmesi:**
 
 ---
 
-MADDE 37- (1) Genel Müdürlük ve nüfus müdürlükleri, mahkemece verilen kararlar
-hakkında her türlü kanun yoluna başvurmaya yetkilidir.
-(2) Genel Müdürlük ve nüfus müdürlükleri kanunî harç ve her türlü mahkeme
-masraflarından muaftır.
+Madde 37 – İlk defa noterliğe atananlar, işe başlamadan önce, bağlı bulundukları
+asliye hukuk veya münferit sulh mahkemesinde, kendilerine verilen bu görevi doğru ve
+tarafsız olarak yapacaklarına dair vicdan ve namusları üzerine andiçerler. Tutulacak üç nüsha
+tutanağın bir nüshası Adalet Bakanlığına gönderilir. Diğer nüshalardan biri Cumhuriyet
+Savcılığında, öbürü de noterlikteki dosyasında saklanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

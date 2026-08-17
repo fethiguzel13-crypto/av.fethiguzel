@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**2 – Ödeme emrinin tebliği**
+**2 – Ödeme emrinin tebliği:**
 
 ---
 
@@ -23,7 +23,8 @@ Kanunen eklenmesi gereken müddetler saklıdır.
 Borçlu hakkında bir icra dairesinde ayrı ayrı günlerde birden ziyade takip talebinde
 bulunulmuş ise bunlardan hiçbirinde kendisinden daha eski olan talepten önce ödeme emri
 tebliğe gönderilemez.
-İTİRAZ
+
+---
 
 ### Akademik Yorum ve Analiz
 

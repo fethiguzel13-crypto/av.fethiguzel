@@ -30,9 +30,7 @@ Anayasa Mahkemesinin 20/12/2018 tarihli ve E.: 2016/181 K.: 2018/111 sayılı Ka
 K.: 2018/111 sayılı Kararı ile)
 (İptal dördüncü fıkra: Anayasa Mahkemesinin 20/12/2018 tarihli ve E.: 2016/181
 K.: 2018/111 sayılı Kararı ile)
-
-
-Ek Madde 2- (Ek:21/12/2019-7201/5 md.)
+Ek Madde 2- (Ek:21/12/2019-7201/5 md.)
 29/4/1969 tarihli ve 1164 sayılı Arsa Üretimi ve Değerlendirilmesi Hakkında Kanun
 kapsamında 8/12/2004 tarihinden önce yapılmış olan kamulaştırma ve avans karşılığı
 kamulaştırma iş ve işlemlerine ilişkin davalar, Çevre ve Şehircilik Bakanlığı aleyhine açılır.
@@ -69,9 +67,7 @@ Bu Kanun uyarınca yapılacak icra takiplerinde idare, 9/6/1932 tarihli ve 2004 
 idarenin teminat gösterme zorunluluğu yoktur.
 Bu Kanun kapsamında açılan davalarda verilen bedel ve tazminat kararlarına ilişkin
 mahkeme ve icra harçları, davalı idare tarafından ödenmek üzere maktu olarak belirlenir.
-
-
-Geçici Madde 1 – Bu Kanunun yürürlüğe girmesinden önce verilmiş olan kamu yararı
+Geçici Madde 1 – Bu Kanunun yürürlüğe girmesinden önce verilmiş olan kamu yararı
 ve kamulaştırma kararları geçerlidir. Ancak, idarece henüz kıymet takdir edilmemiş olan
 işlerde, kıymet takdir işlemleri ile sonraki işlemler bu Kanun hükümlerine göre yapılır.
 Bu Kanunun yürürlüğe girmesinden önce açılmış ve henüz kesin hükme bağlanmamış
@@ -91,7 +87,7 @@ eski malik, zilyed veya bunların halefleri tarafından açılmış ve kesin hü
 davalarda sözü edilen 221 sayılı Kanunun hükümleri uygulanır.
 Geçici Madde 5 – (Ek: 24/4/2001 - 4650/21 md.) Bu Kanunun değişik 15 inci
 maddesinde öngörülen yönetmelik çıkarılıncaya kadar bilirkişiler önceki hükme göre seçilir.
-Kamulaştırılmaksızın kamu hizmetine ayrılan taşınmazların bedel tespiti32
+Kamulaştırılmaksızın kamu hizmetine ayrılan taşınmazların bedel tespiti
 Geçici Madde 6 – (Ek: 18/6/2010-5999/1 md.; Değişik: 24/5/2013-6487/ 21 md.)
 Kamulaştırma işlemleri tamamlanmamış veya kamulaştırması hiç yapılmamış
 olmasına rağmen 9/10/1956 tarihi ile 4/11/1983 tarihi arasında fiilen kamu hizmetine ayrılan
@@ -102,12 +98,11 @@ edilmesi hâlinde bedel tespiti ve diğer işlemler bu madde hükümlerine göre
 maddeye göre yapılacak işlemlerde öncelikle uzlaşma usulünün uygulanması dava şartıdır.
 İdarenin daveti veya malikin müracaatı üzerine, fiilen el konulan taşınmazın veya
 üzerinde tesis edilen irtifak hakkının idarenin daveti veya malikin müracaat ettiği tarihteki
+24/52013 tarihli ve 6487 sayılı Kanunun 21 inci maddesi ile bu maddenin başlığı “Kamulaştırmasız
+el koyma sebebiyle tazmin” iken metne işlendiği şekilde değiştirilmiştir.
 tahmini değeri; bu Kanunun 8 inci maddesinin ikinci fıkrasına göre teşkil edilen kıymet takdir
 komisyonu marifetiyle, taşınmazın el koyma tarihindeki nitelikleri esas alınmak ve bu Kanunun
-32 24/52013 tarihli ve 6487 sayılı Kanunun 21 inci maddesi ile bu maddenin başlığı “Kamulaştırmasız el koyma sebebiyle tazmin” iken metne işlendiği şekilde değiştirilmiştir.
-
-
-11 inci ve 12 nci maddelerine göre hesaplanmak suretiyle tespit edilir. Tespitten sonra, bu
+11 inci ve 12 nci maddelerine göre hesaplanmak suretiyle tespit edilir. Tespitten sonra, bu
 Kanunun 8 inci maddesinin üçüncü fıkrasına göre teşkil olunan uzlaşma komisyonunca,
 idarenin daveti veya malikin müracaat tarihinden itibaren en geç altı ay içinde 7201 sayılı
 Kanun hükümlerine göre tebliğ edilen bir yazı ile, tahmini değer bildirilmeksizin, talep sahibi
@@ -146,9 +141,7 @@ idareleri ile bağlı idareleri için en son kesinleşmiş bütçe gelirleri top
 için en son kesinleşmiş bütçe giderleri toplamının en az yüzde ikisi oranında yılı bütçelerinde
 pay ayrılır. Kesinleşen alacakların toplam tutarının ayrılan ödeneğin toplam tutarını aşması
 hâlinde, ödemeler, sonraki yıllara sâri olacak şekilde, garameten ve taksitlerle gerçekleştirilir.
-
-
-Taksitlendirmede, bütçe imkanları ile alacakların tutarları dikkate alınır. Taksitli ödeme
+Taksitlendirmede, bütçe imkanları ile alacakların tutarları dikkate alınır. Taksitli ödeme
 süresince, 3095 sayılı Kanuna göre ayrıca kanuni faiz ödenir. İdare tarafından, mahkeme
 kararı gereğince nakdi ödeme yerine, üçüncü fıkrada belirtilen diğer uzlaşma yolları da teklif
 edilebilir ve bu maddenin uzlaşmaya ilişkin hükümlerine göre işlem yapılabilir.
@@ -179,17 +172,16 @@ K.: 2014/176 sayılı Kararı ile.)
 (Ek fıkra: 3/11/2016-6754/40 md.) Bu madde uyarınca açılacak davalarda 15 inci
 maddede düzenlenen bilirkişiliğe ilişkin hükümler uygulanır.
 Geçici Madde 7 – (Ek: 24/5/2013-6487/ 22 md.; İptal; Anayasa Mahkemesi’nin
-13/11/2014 tarihli ve E.: 2013/95, K.: 2014/176 sayılı Kararı ile)33
+13/11/2014 tarihli ve E.: 2013/95, K.: 2014/176 sayılı Kararı ile)
 Geçici Madde 8 – (Ek: 12/7/2013-6495/28 md.)
 Bu Kanunun 22 nci maddesinin birinci fıkrasının son cümlesi hükmü, bu maddenin
 yürürlüğe girdiği tarihten önce gerçekleştirilen kamulaştırma işlemleri nedeniyle, kamulaştırılan
+Söz konusu İptal Kararı Resmî Gazete’de yayımlandığı 13/3/2015 tarihinden başlayarak altı ay
+sonra yürürlüğe girmiştir.
 taşınmazların eski malikleri veya mirasçıları tarafından bu taşınmazların geri alınması, bedel
 veya tazminat talebiyle açılan ve henüz kesinleşmeyen davalarda da uygulanır.
-33 Söz konusu İptal Kararı Resmî Gazete’de yayımlandığı 13/3/2015 tarihinden başlayarak altı ay sonra yürürlüğe girmiştir.
-
-
-Geçici Madde 9 – (Ek: 10/9/2014-6552/101 md.)
-Bu maddeyi ihdas eden Kanunla değiştirilen veya eklenen bu Kanunun (...)34 23 üncü
+Geçici Madde 9 – (Ek: 10/9/2014-6552/101 md.)
+Bu maddeyi ihdas eden Kanunla değiştirilen veya eklenen bu Kanunun (…)23 üncü
 maddesinin üçüncü fıkrası hükmü; bu maddenin yürürlüğe girdiği tarihten önce
 gerçekleştirilen kamulaştırma işlemleri nedeniyle, kamulaştırılan taşınmaz malların eski
 malikleri veya mirasçıları tarafından bu taşınmaz malların geri alınması, bedel veya tazminat
@@ -212,18 +204,21 @@ Geçici Madde 11- (Ek: 20/8/2016-6745/34 md.)
 K: 2018/34 sayılı kararıyla.)
 (İptal ikinci fıkra: Anayasa Mahkemesinin 28/3/2018 tarihli ve E: 2016/196 ve K:
 2018/34 sayılı kararıyla.)
-Geçici Madde 12- (Ek: 20/8/2016-6745/35 md.)35
+Geçici Madde 12- (Ek: 20/8/2016-6745/35 md.)
 24/2/1984 tarihli ve 2981 sayılı İmar ve Gecekondu Mevzuatına Aykırı Yapılara
 Uygulanacak Bazı İşlemler ve 6785 sayılı İmar Kanununun Bir Maddesinin Değiştirilmesi
 Hakkında Kanun hükümlerine göre yapılan imar uygulamalarından doğan idarelerin taraf
 olduğu her türlü alacak ve bedel artırım davalarında taşınmazın değeri; uygulamanın tapuda
 tescil edildiği tarih değerlendirme tarihi olarak esas alınmak ve o tarihteki nitelikleri
+Bu maddenin birinci cümlesinde yer alan “…22 nci maddesinin birinci, ikinci ve üçüncü fıkra
+hükümleri ile…” ibaresi, Anayasa Mahkemesi’nin 14/5/2015 tarihli ve E.: 2014/177, K.: 2015/49
+sayılı Kararı ile iptal edilmiştir.
+Bu maddenin ikinci fıkrasının ikinci cümlesinde yer alan "icra takipleri" ibaresinin, maddenin ikinci
+fıkrasının birinci cümlesinde yer alan “on birinci” ibaresi yönünden Anayasa Mahkemesi’nin
+13/2/2019 tarihli ve E.:2018/108, K.:2019/5 sayılı Kararı ile iptaline karar verilmiştir.
 gözetilmek suretiyle tespit edilir. Tespit edilen bu bedel, Türkiye İstatistik Kurumu tarafından
 açıklanan Yurt İçi Üretici Fiyat Endeksi tablosu esas alınmak suretiyle dava tarihi itibarıyla
-34 Bu maddenin birinci cümlesinde yer alan “...22 nci maddesinin birinci, ikinci ve üçüncü fıkra hükümleri ile...” ibaresi, Anayasa Mahkemesi’nin 14/5/2015 tarihli ve E.: 2014/177, K.: 2015/49 sayılı Kararı ile iptal edilmiştir. 35 Bu maddenin ikinci fıkrasının ikinci cümlesinde yer alan "icra takipleri" ibaresinin, maddenin ikinci fıkrasının birinci cümlesinde yer alan “on birinci” ibaresi yönünden Anayasa Mahkemesi’nin 13/2/2019 tarihli ve E.:2018/108, K.:2019/5 sayılı Kararı ile iptaline karar verilmiştir.
-
-
-güncellenir ve ortaya çıkan gerçek bedel hak sahibine ödenir.
+güncellenir ve ortaya çıkan gerçek bedel hak sahibine ödenir.
 Bu Kanunun geçici 6 ncı maddesinin üçüncü, yedinci, sekizinci ve on birinci fıkra
 hükümleri, bu madde kapsamındaki davalar ve icra takipleri için de uygulanır. Devam eden
 dava ve icra takipleri ise, bu madde hükümlerine göre sonuçlandırılır.
@@ -257,9 +252,7 @@ eden davalar, (İptal ibare: Anayasa Mahkemesinin 4/5/2023 Tarihli ve E: 2019/93
 2023/87 Sayılı Kararı ile) sonuçlandırılır.
 Geçici Madde 16- (Ek:9/6/2021-7327/21 md.)
 (İptal birinci cümle: Anayasa Mahkemesi’nin 30/6/2022 tarihli ve E.: 2021/127,
-
-
-K.: 2022/85 sayılı Kararı ile.) (İptal ikinci cümle: Anayasa Mahkemesi’nin 30/6/2022
+K.: 2022/85 sayılı Kararı ile.) (İptal ikinci cümle: Anayasa Mahkemesi’nin 30/6/2022
 tarihli ve E.: 2021/127, K.: 2022/85 sayılı Kararı ile.)
 Geçici Madde 17- (Ek:9/6/2021-7327/22 md.)
 Bu maddeyi ihdas eden Kanunla bu Kanunun ek 3 üncü maddesine eklenen cümle, bu
@@ -287,6 +280,34 @@ gerçekleştirilir. Taksitlendirmede, bütçe imkânları ile alacakların tutar
 dördüncü cümle: Anayasa Mahkemesinin 27/6/2024 Tarihli ve E: 2024/4, K: 2024/129
 Sayılı Kararı ile.)
 Birinci fıkra, bu maddenin yürürlüğe girdiği tarih itibarıyla bedel ve tazminatı ödenmemiş
+olan tüm davalarda ve icra takiplerinde de uygulanır.
+Geçici Madde 20- (Ek:2/7/2026-7588/8 md.)
+Mülga 6830 sayılı Kanunun yürürlüğe girdiği 8/10/1956 tarihine kadar, kamulaştırma
+işlemlerine dayanmaksızın kamulaştırma kanunlarının amacına uygun olarak fiilen kamu
+hizmetine tahsis edilmiş olan taşınmazlar, ilgili kamu kurum ve kuruluşları adına tahsis
+tarihinde kamulaştırılmış sayılır.
+Taşınmazda kamu hizmetinin nitelik ve amacına uygun şekilde tesis veya yapının inşa
+edilmiş olması, bu Kanunun uygulanması bakımından fiilen tahsis kabul edilir.
+Birinci fıkrada yazılı taşınmazlardan tapuda kayıtlı olanların kayıt sahipleri veya
+mirasçıları; tapuda kayıtlı olmayan taşınmazların zilyetleri ya da mirasçıları tahsis tarihi
+itibarıyla zilyetlikle iktisap şartlarının gerçekleşmiş ve fiili tahsis tarihinden itibaren on yıl
+geçmemiş olması koşuluyla, Anayasa Mahkemesi tarafından iptal edilen 221 sayılı Kanunun
+belirlediği süre içinde sadece taşınmazın fiili tahsis tarihindeki rayiç bedelini isteyebilir.
+Bu madde kapsamındaki taşınmazlar hakkında 12/1/1963 tarihine kadar açılmış ve
+kanun yolu incelemesinde olanlar dâhil görülmekte olan bedel davalarında bu madde
+hükümleri uygulanır.
+Birinci fıkraya göre kamulaştırılmış sayılan taşınmazlar hakkında 12/1/1963 tarihinden
+sonra bu taşınmazlara bağlı olarak bedel dâhil ileri sürülen talepler kabul edilmez. Bu
+hüküm, 12/1/1963 tarihinden sonra açılmış ve kanun yolu incelemesinde olanlar dâhil
+görülmekte olan davalar hakkında da uygulanır.
+Bu madde kapsamında açılan ve görülmekte olan davalarda mahkeme ve icra harçları
+ile her türlü vekâlet ücretleri maktu olarak belirlenir.
+Birinci fıkra uyarınca kamulaştırılmış sayılan taşınmazlar, tapuda kayıtlı ise ilgili
+kamu kurum ve kuruluşlarının talebi üzerine açılacak dava ile ilgili idare adına tescil edilir.
+Tapu kaydı olmayan taşınmazlar, tahsisin mahiyeti bakımından tescile tabi ise ilgili idare
+adına kayıt tesis olunur. Bu işlemler harca tabi değildir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

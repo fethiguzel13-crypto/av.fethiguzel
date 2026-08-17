@@ -11,7 +11,7 @@ wordCount: 4300
 
 ---
 
-Madde 81 - Hukuka veya ahlaka aykırı bir sonucun gerçekleşmesi amacıyla verilen şey
+MADDE 81- Hukuka veya ahlaka aykırı bir sonucun gerçekleşmesi amacıyla verilen şey
 geri istenemez. Ancak, açılan davada hâkim, bu şeyin Devlete mal edilmesine karar verebilir.
 
 ---

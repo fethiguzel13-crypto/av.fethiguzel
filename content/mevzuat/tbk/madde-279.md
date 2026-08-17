@@ -11,7 +11,7 @@ wordCount: 4315
 
 ---
 
-Madde 279 - Artırmada taşınır bir mal alan kişi, onun mülkiyetini ihale anında
+MADDE 279- Artırmada taşınır bir mal alan kişi, onun mülkiyetini ihale anında
 kazanır. Artırmadan alınan taşınmazın mülkiyeti, ancak tapu siciline tescille alıcıya geçer.
 Artırma görevlisi, satış tutanağında gösterilen taşınmazın alıcı adına tescilini hemen
 tapu idaresine bildirir.

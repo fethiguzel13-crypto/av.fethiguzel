@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Talep belgesi13**
+**Personel:**
 
 ---
 
-MADDE 42- (Değişik: 14/1/2016-6661/13 md.)
-(1) Kimlik kartı ve uluslararası aile cüzdanlarının verilebilmesi için şekli ve kapsamı
-Bakanlıkça belirlenen ve bastırılan talep belgeleri kullanılır. Doğum tutanaklarına dayanılarak
-kimlik kartı düzenlemesinde talep belgesi aranmaz.
-(2) Talep belgelerini uygulamaya koymaya veya uygulamadan kaldırmaya ve bunların
-saklama sürelerini belirlemeye Bakanlık yetkilidir.
+Madde 42 – Noterlik dairesi personeli, noterin emri altında bulunan işe yeter sayıdaki
+katip ve hizmetliden meydana gelir.
+En az iki katip bulunan noterliklerde, bunlardan biri başkatiplik görevini yapar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

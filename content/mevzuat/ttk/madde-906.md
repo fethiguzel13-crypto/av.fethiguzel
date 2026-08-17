@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4275
 ---
 
-**Madde 906**
+**BEŞİNCİ KISIM
+Yolcu Taşıma
+A) Kurallara uyma zorunluluğu**
 
 ---
 
-Madde 906 - (1) Yolcu, taşıyıcı tarafın dan iç hizmetleri düzenlemek için konulmuş kurallara uymak zorundadır.
+MADDE 906- (1) Yolcu, taşıyıcı tarafından iç hizmetleri düzenlemek için konulmuş
+kurallara uymak zorundadır.
 
 ---
 

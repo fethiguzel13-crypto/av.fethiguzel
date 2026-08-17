@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**Ödeme emri ve münderecatı**
+**II – İFLAS YOLİYLE ADİ TAKİP:
+Ödeme emri ve münderecatı:**
 
 ---
 
@@ -17,6 +18,8 @@ gün içinde borç ödenmediği takdirde alacaklının mahkemeye müracaatla ifl
 bulunabileceği ve borçlunun gerek borcu olmadığına ve gerek kendisinin iflasa tabi
 kimselerden bulunmadığına dair itirazı varsa bu müddet içinde dilekçe ile icra dairesine
 bildirmesi lüzumu ve konkordato teklif edebileceği ilave olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

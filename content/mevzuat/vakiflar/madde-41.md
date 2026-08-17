@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4257
 ---
 
-**Meclisin oluşumu**
+**İKİNCİ BÖLÜM
+Vakıflar Meclisi
+Meclisin oluşumu**
 
 ---
 
 MADDE 41 – (Mülga: 2/7/2018/KHK/703/102 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Hüküm, hükmün verilmesi ve tefhimi**
+**BEŞİNCİ KISIM
+Hüküm ve Davaya Son Veren Taraf İşlemleri
+BİRİNCİ BÖLÜM
+Hüküm
+Hüküm, hükmün verilmesi ve tefhimi**
 
 ---
 
@@ -21,6 +25,8 @@ kararın tefhim tarihinden başlayarak bir ay içinde yazılması gerekir.
 (5) Hükmün tefhimini, duruşmada bulunanlar ayakta dinler.
 (6) Hükme ilişkin hususlar, niteliğine aykırı düşmedikçe, usule ilişkin nihai kararlar
 hakkında da uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

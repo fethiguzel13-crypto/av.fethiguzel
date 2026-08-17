@@ -7,16 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**memurların ikinci derecede sicil amiridirler.**
+Madde 19 – (Mülga: 2/1/2017-KHK-682/37 md.; Aynen kabul: 31/1/2018-7068/37
 
 ---
-
-Madde 19 – (Mülga: 2/1/2017-KHK-682/37 md.; Aynen kabul: 31/1/2018-7068/37
-md.)
-
-
-Madde 20 – Valiler, gereken hallerde il mensuplarına takdirname verirler. Tayinleri
-merkeze ait olanlar hakkındaki takdir ve tecziye muamelelerini ilgili makamlara bildirirler.
 
 ### Akademik Yorum ve Analiz
 

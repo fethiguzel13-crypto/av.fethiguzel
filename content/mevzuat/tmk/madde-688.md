@@ -13,7 +13,11 @@ I. Paylı mülkiyet
 
 ---
 
-Madde 688 - Paylı mülkiyette birden çok kimse, maddî olarak böl ünmüş olmayan bir şeyin tamamına belli paylarla maliktir. Başka türlü belirlenmedikçe, pay lar eşit sayılır. Paydaşlar dan her biri kendi payı bakımından malik hak ve yükümlülüklerine sahip olur. Pay devredilebilir, rehnedilebilir ve alacaklılar tarafından h aczettirilebilir.
+Madde 688- Paylı mülkiyette birden çok kimse, maddî olarak bölünmüş olmayan bir
+şeyin tamamına belli paylarla maliktir.
+Başka türlü belirlenmedikçe, paylar eşit sayılır.
+Paydaşlardan her biri kendi payı bakımından malik hak ve yükümlülüklerine sahip olur.
+Pay devredilebilir, rehnedilebilir ve alacaklılar tarafından haczettirilebilir.
 
 ---
 

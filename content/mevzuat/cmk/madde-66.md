@@ -39,12 +39,13 @@ yapılması hususlarında karar verilmesini isteyebilir.
 hâkim veya Cumhuriyet savcısı aracılığı ile soru sorabilir. Ancak, mahkeme başkanı, hâkim
 veya Cumhuriyet savcısı, bilirkişinin doğrudan soru sormasına da izin verebilir. Muayene ile
 görevlendirilen hekim bilirkişi, görevini yerine getirirken zorunlu saydığı soruları, hâkim,
-
-Cumhuriyet savcısı ve müdafi bulunmadan da mağdur, şüpheli veya sanığa doğrudan doğruya
+Cumhuriyet savcısı ve müdafi bulunmadan da mağdur, şüpheli veya sanığa doğrudan doğruya
 yöneltebilir.
 (7) Bilirkişiye inceleyeceği şeyler mühür altında verilmeden önce bunların listesi ve
 sayımı yapılır. Bu hususlar bir tutanakla belirlenir. Bilirkişi, mühürlerin açılmasını ve yeniden
 konulmasını yine tutanakla belirtmek ve bir liste düzenlemekle yükümlüdür.
+
+---
 
 ### Akademik Yorum ve Analiz
 

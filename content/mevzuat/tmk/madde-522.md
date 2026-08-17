@@ -11,7 +11,12 @@ wordCount: 4320
 
 ---
 
-Madde 522 - Tasarrufta geçiş anı belirtilmemişse miras, önmirasçının ölümüyle art mirasçıya geçer. Tasarrufta geçiş anı gösterilmiş olup önmirasçının ölümünde bu a n henüz gelmemişse miras, g üvence göstermeleri koşuluy la önmirasç ının m irasçı larına teslim edilir. Mirasın artmirasçıya geçmesine herhangi bir sebeple olanak kalmadığı anda mi ras, önmirasçıya; önmirasçı ölmüşse onun mirasçılarına kesin olarak kalır.
+Madde 522- Tasarrufta geçiş anı belirtilmemişse miras, önmirasçının ölümüyle artmirasçıya
+geçer.
+Tasarrufta geçiş anı gösterilmiş olup önmirasçının ölümünde bu an henüz gelmemişse
+miras, güvence göstermeleri koşuluyla önmirasçının mirasçılarına teslim edilir.
+Mirasın artmirasçıya geçmesine herhangi bir sebeple olanak kalmadığı anda miras,
+önmirasçıya; önmirasçı ölmüşse onun mirasçılarına kesin olarak kalır.
 
 ---
 

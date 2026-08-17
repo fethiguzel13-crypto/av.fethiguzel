@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**İhaleye fesat karıştırma**
+**DOKUZUNCU BÖLÜM
+Ekonomi, Sanayi ve Ticarete İlişkin Suçlar
+İhaleye fesat karıştırma**
 
 ---
 
@@ -23,8 +25,7 @@ sağlamak,
 3. Teklif edilen malları, şartnamesinde belirtilen niteliklere sahip olduğu halde, sahip
 olmadığından bahisle değerlendirme dışı bırakmak,
 4. Teklif edilen malları, şartnamesinde belirtilen niteliklere sahip olmadığı halde, sahip
-
-olduğundan bahisle değerlendirmeye almak.
+olduğundan bahisle değerlendirmeye almak.
 b) Tekliflerle ilgili olup da ihale mevzuatına veya şartnamelere göre gizli tutulması
 gereken bilgilere başkalarının ulaşmasını sağlamak.
 c) Cebir veya tehdit kullanmak suretiyle ya da hukuka aykırı diğer davranışlarla,
@@ -47,6 +48,8 @@ kuruluşlarının ya da kamu kurumu niteliğindeki meslek kuruluşlarının işt
 şirketler, bunların bünyesinde faaliyet icra eden vakıflar, kamu yararına çalışan dernekler
 veya kooperatifler adına yapılan mal veya hizmet alım veya satımlarına ya da kiralamalara
 fesat karıştırılması halinde de uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

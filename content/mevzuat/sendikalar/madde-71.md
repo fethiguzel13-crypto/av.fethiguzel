@@ -19,6 +19,8 @@ olarak karar verir. Verilecek karar, tarafları, işçi ve işveren sendikasın�
 ceza davaları için kesin delil teşkil eder.
 (2) Hâkim tedbir olarak dava konusu grev veya lokavtın durdurulmasına karar verebilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

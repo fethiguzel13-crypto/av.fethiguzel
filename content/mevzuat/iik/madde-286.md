@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**Konkordato talebine eklenecek belgeler:86**
+**Konkordato talebine eklenecek belgeler:**
 
 ---
 
@@ -23,20 +23,7 @@ b) Borçlunun malvarlığının durumunu gösterir belgeler; borçlu defter tutm
 kişilerden ise Türk Ticaret Kanununa göre hazırlanan son bilanço, gelir tablosu, nakit akım
 tablosu, hem işletmenin devamlılığı esasına göre hem de aktiflerin muhtemel satış fiyatları
 üzerinden hazırlanan ara bilançolar, ticari defterlerin açılış ve kapanış tasdikleri ile elektronik
-Onikinci Babın başlığı, “Konkordato” iken, 12/2/2004 tarihli ve 5092 sayılı Kanunun 8 inci maddesiyle metne
-işlendiği şekilde değiştirilmiştir.
-84
-28/2/2018 tarihli ve 7101 sayılı Kanunun 38 inci maddesiyle Onikinci Bap Birinci Bölümden sonra gelmek
-üzere “II. REHİNLİ ALACAKLILARLA MÜZAKERE VE BORÇLARIN YAPILANDIRILMASI” başlığıyla İkinci
-Bölüm eklenmiş, diğer bölümler buna göre teselsül ettirilmiştir.
-85
-Bu üst başlık 17/7/2003 tarihli ve 4949 sayılı Kanunun 67 nci maddesiyle eklenmiştir.
-86
-Bu maddenin “Konkordato talebinin nazara alınması şartları:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
-Kanunun 14 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
-83
-
-ortamda oluşturulan defterlere ilişkin e-defter berat bilgileri, borçlunun malî durumunu
+ortamda oluşturulan defterlere ilişkin e-defter berat bilgileri, borçlunun malî durumunu
 açıklayıcı diğer bilgi ve belgeler, maddi ve maddi olmayan duran varlıklara ait olup defter
 değerlerini içeren listeler, tüm alacak ve borçları vadeleri ile birlikte gösteren liste ve belgeler.
 c) Alacaklıları, alacak miktarlarını ve alacaklıların imtiyaz durumunu gösteren liste.
@@ -46,6 +33,8 @@ karşılaştırmalı olarak gösteren tablo.
 e) (Değişik:6/12/2018-7155/13 md.) Kamu Gözetimi, Muhasebe ve Denetim
 Standartları Kurumunca yetkilendirilen bağımsız denetim kuruluşu tarafından Türkiye
 Denetim Standartlarına göre yapılacak denetim kapsamında hazırlanan ve konkordato ön
+Bu maddenin “Konkordato talebinin nazara alınması şartları:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
+Kanunun 14 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 projesinde yer alan teklifin gerçekleşeceği hususunda makul güvence veren denetim raporu ile
 dayanakları.
 (Mülga fıkra:6/12/2018-7155/13 md.)
@@ -59,6 +48,8 @@ Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun Teşkilat ve Görevl
 Hakkında Kanun Hükmünde Kararname hükümleri uygulanır.
 (Ek fıkra:6/12/2018-7155/13 md.) Bu maddenin uygulanmasına ilişkin usul ve
 esaslar Adalet Bakanlığınca yürürlüğe konulan yönetmelikle belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

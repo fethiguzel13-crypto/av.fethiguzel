@@ -26,6 +26,8 @@ kendiliğinden isteyebilir.
 (3) Mahkeme, gerçeğin ortaya çıkması için gerekli görürse, yeni görevlendireceği
 bilirkişi aracılığıyla, tekrar inceleme de yaptırabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

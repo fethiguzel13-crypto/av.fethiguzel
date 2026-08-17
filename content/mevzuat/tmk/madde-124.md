@@ -7,11 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**Madde 124**
+**İKİNCİ AYIRIM
+EVLENME EHLİYETİ VE ENGELLERİ
+A. Ehliyetin koşulları
+I. Yaş**
 
 ---
 
-Madde 124 - Erke k veya kadın onyedi yaşını doldurmadıkça evlenemez. Ancak, hâkim olağanüstü durumlarda ve pek önemli bir sebeple onaltı yaşını doldurmuş olan erkek veya kad ının evlenmesine izin verebilir. Olanak bulundukça karardan önce ana ve baba veya vasi dinlenir .
+Madde 124- Erkek veya kadın onyedi yaşını doldurmadıkça evlenemez.
+Ancak, hâkim olağanüstü durumlarda ve pek önemli bir sebeple onaltı yaşını doldurmuş
+olan erkek veya kadının evlenmesine izin verebilir. Olanak bulundukça karardan önce ana ve
+baba veya vasi dinlenir.
 
 ---
 

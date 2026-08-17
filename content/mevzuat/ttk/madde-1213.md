@@ -11,7 +11,8 @@ wordCount: 4265
 
 ---
 
-Madde 1213 - (1) Denize elverişsiz hâle gelmiş gemi, mahkemenin tespit kararıyla zayi olmuş sayılır.
+MADDE 1213- (1) Denize elverişsiz hâle gelmiş gemi, mahkemenin tespit kararıyla
+zayi olmuş sayılır.
 
 ---
 

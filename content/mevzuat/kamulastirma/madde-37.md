@@ -15,6 +15,8 @@ Madde 37 – Bu Kanundan doğan tüm anlaşmazlıkların adli yargıda çözüml
 gerekenleri, taşınmaz malın bulunduğu yer asliye hukuk mahkemelerinde basit yargılama
 usulü ile görülür.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

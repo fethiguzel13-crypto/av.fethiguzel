@@ -18,7 +18,6 @@ b) (Değişik: 25/6/2009-5917/40 md.) Vücut dışı protez ve ortezler
 c) Ayakta tedavide sağlanan ilaçlar.
 d) (Ek: 25/6/2009-5917/40 md.) Kurumca belirlenecek hastalık gruplarına göre
 yatarak tedavide finansmanı sağlanan sağlık hizmetleri.
-
 (Değişik ikinci fıkra: 17/1/2012-6270/9 md.) Katılım payı, birinci fıkranın (a)
 bendindeki sağlık hizmetleri için 20 Türk Lirası olarak uygulanır. Katılım payı, (b) ve (c)
 bentlerindeki sağlık hizmetleri için gereksiz kullanımı azaltma, sağlık hizmetlerinin niteliği
@@ -44,9 +43,8 @@ farklı belirlemeye yetkilidir. Birinci fıkranın (d) bendinde belirtilen sağl
 bedelinin %1’ine kadar katılım payı alınabilir. %1’ine kadar tespit edilen katılım payını
 almamaya, yarısına kadar indirmeye Kurum yetkilidir. (Değişik cümle:9/1/2025-7538/9 md.)
 Bu fıkrada belirtilen 1 Türk lirası, 20 Türk lirası ve 3 Türk lirası, 4/1/1961 tarihli ve 213 sayılı
-Vergi Usul Kanunu uyarınca belirlenen yeniden değerleme oranı kadar her yıl artırılır.119
+Vergi Usul Kanunu uyarınca belirlenen yeniden değerleme oranı kadar her yıl artırılır.
 (Mülga üçüncü fıkra: 17/4/2008-5754/43 md.)
-
 (Değişik dördüncü fıkra: 25/6/2009-5917/40 md.) Genel sağlık sigortalısı ve
 bakmakla yükümlü olduğu kişilerin birinci fıkranın (b) bendi gereği ödeyecekleri katılım
 payının tutarı, sağlık hizmetinin alındığı tarihteki asgarî ücretin %75’ini, (d) bendi gereği
@@ -71,6 +69,8 @@ ettikleri katılım payı düşüldükten sonra kalan tutar ödenir.
 72 nci maddeye göre tespit edilen sağlık hizmeti tutarları esas alınır.
 Katılım paylarının ödenme usûlleri ile bu maddenin uygulanmasına ilişkin diğer usûl
 ve esaslar, Kurum tarafından çıkarılacak yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

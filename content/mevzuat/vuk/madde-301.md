@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**Yıllık irat**
+**Yıllık irat:**
 
 ---
 
@@ -16,6 +16,8 @@ kiraya verilmesi veya ikamet edilmesi mütat olan binaların bu süreye ait irat
 Yılın belli zamanlarında işliyebilen değirmenler ile belli mevsimlerde çalışan fabrika
 ve imalathanelerin ve mevsimlik işliyen otel, banyo, plaj gibi gayrimenkullerin işletme
 süresine ait iratları da keza yıllık sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

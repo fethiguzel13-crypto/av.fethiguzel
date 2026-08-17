@@ -11,7 +11,7 @@ wordCount: 4299
 
 ---
 
-Madde 11 - Hazır olmayanlar arasında kurulan sözleşmeler, kabulün gönderildiği
+MADDE 11- Hazır olmayanlar arasında kurulan sözleşmeler, kabulün gönderildiği
 andan başlayarak hüküm doğurur.
 Açık bir kabulün gerekli olmadığı durumlarda, sözleşme önerinin ulaşma anından
 başlayarak hüküm doğurur.

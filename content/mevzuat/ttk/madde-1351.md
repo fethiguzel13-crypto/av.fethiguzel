@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4280
 ---
 
-**Madde 1351**
+**B) Tamamlayıcı hükümler**
 
 ---
 
-Madde 1351 - (1) Bu Kısımda özel olarak düzenlenmeyen hususlarda, İcra ve İflas Kanunu hükümleri, 936 ncı madde ile 937 nci maddenin birinci fıkrasında öngörüldüğü şekilde uygulanır.
+MADDE 1351- (1) Bu Kısımda özel olarak düzenlenmeyen hususlarda, İcra ve İflas
+Kanunu hükümleri, 936 ncı madde ile 937 nci maddenin birinci fıkrasında öngörüldüğü
+şekilde uygulanır.
 
 ---
 

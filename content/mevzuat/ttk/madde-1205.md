@@ -8,11 +8,13 @@ wordCount: 4296
 ---
 
 **3. Rücu hakkı
-a) Eşyanın teslimi hâ linde**
+a) Eşyanın teslimi hâlinde**
 
 ---
 
-Madde 1205 - (1) Eşyayı gönderilene teslim etmiş olan taşıyan, 1203 üncü maddeye göre gönderilenden istenebilecek olan alacakların ödenmesini taşıtandan isteyemez. Ancak, taşıtanın, taşıyanın zararına olarak sebepsiz zenginleştiği oranda, taşıyan taşı tana rücu edebilir.
+MADDE 1205- (1) Eşyayı gönderilene teslim etmiş olan taşıyan, 1203 üncü maddeye
+göre gönderilenden istenebilecek olan alacakların ödenmesini taşıtandan isteyemez. Ancak,
+taşıtanın, taşıyanın zararına olarak sebepsiz zenginleştiği oranda, taşıyan taşıtana rücu edebilir.
 
 ---
 

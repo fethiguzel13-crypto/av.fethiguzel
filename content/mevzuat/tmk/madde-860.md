@@ -7,16 +7,15 @@ lastReviewed: "2026-07-27"
 wordCount: 3636
 ---
 
-**Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan**
+**2. Borçlunun taşınmazı rehinden kurtarması**
 
 ---
 
-Madde 860 - Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan
-alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında
-karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
+Madde 860- Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın
+borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı
+rehinden kurtarabilir.
 
-3.
-Bedel olarak ödenen para
+---
 
 ### Akademik Yorum ve Analiz
 

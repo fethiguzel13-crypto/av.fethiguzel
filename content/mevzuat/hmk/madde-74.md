@@ -21,6 +21,8 @@ karşı tarafı ibra ve davasını kabul edemez, yargılamanın iadesi yoluna gi
 fiilleri sebebiyle Devlet aleyhine tazminat davası açamaz, hangileri hakkında yetki verildiği
 açıklanmadıkça kişiye sıkı sıkıya bağlı haklarla ilgili davaları açamaz ve takip edemez.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

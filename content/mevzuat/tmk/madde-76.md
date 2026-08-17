@@ -11,7 +11,10 @@ wordCount: 4307
 
 ---
 
-Madde 76 - Bütün üyelerin bir araya gelmeksizin yazılı katılımıyla alı nan kararlar ile dernek üyelerinin tamamının kanunda yazılı çağrı usulüne uymaksızın bir araya geler ek aldığı kararlar geçerlidir. Bu şekilde karar alınması olağan toplantı yerine geçmez.
+Madde 76- Bütün üyelerin bir araya gelmeksizin yazılı katılımıyla alınan kararlar ile
+dernek üyelerinin tamamının kanunda yazılı çağrı usulüne uymaksızın bir araya gelerek aldığı
+kararlar geçerlidir.
+Bu şekilde karar alınması olağan toplantı yerine geçmez.
 
 ---
 

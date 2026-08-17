@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4274
 ---
 
-**Borçtan birlikte sorumlu olanlara karşı haklar**
+**Borçtan birlikte sorumlu olanlara karşı haklar:**
 
 ---
 
@@ -20,6 +20,8 @@ az on gün önce haber vermek şartıyla bu hükümden yararlanır.
 Alacaklı müracaat hakkına halel gelmeksizin borçtan birlikte sorumlu olan kişilere
 konkordato müzakerelerine katılma yetkisini verebilir ve onların kararını kabul taahhüdünde
 bulunabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

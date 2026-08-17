@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**2. Defter e yazılmayanlardan sorumluluk**
+**2. Deftere yazılmayanlardan sorumluluk**
 
 ---
 
-Madde 629 - Alacaklarını süresi içinde yazdırmayan alacaklılara karşı mirasçı, kendi kişisel mallarıyla sorum lu olmadığı gibi; terekeden kendisine geçen mallarla da sorumlu tutulamaz. Ancak, alacaklı nın kusuru olmadan deftere yazdıramadığı veya bildirdiği hâlde deftere yazılmamış alacakları için mirasçı, zenginleşmesi ölçüsünde sorumlu kalır. Alacakları, tereke m allarıyla güvence altına alınmış olan alacaklılar deftere geçirilmemiş olsa bile bu haklar ını güvenceden alabilirler.
+Madde 629- Alacaklarını süresi içinde yazdırmayan alacaklılara karşı mirasçı, kendi kişisel
+mallarıyla sorumlu olmadığı gibi; terekeden kendisine geçen mallarla da sorumlu tutulamaz.
+Ancak, alacaklının kusuru olmadan deftere yazdıramadığı veya bildirdiği hâlde deftere
+yazılmamış alacakları için mirasçı, zenginleşmesi ölçüsünde sorumlu kalır.
+Alacakları, tereke mallarıyla güvence altına alınmış olan alacaklılar deftere geçirilmemiş
+olsa bile bu haklarını güvenceden alabilirler.
 
 ---
 

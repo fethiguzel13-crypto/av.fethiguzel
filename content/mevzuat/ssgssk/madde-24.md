@@ -21,6 +21,8 @@ d) Sigortalının greve iştirak etmesi veya işverenin lokavt yapması hallerin
 veya hastalığın anlaşıldığı yahut doğumun olduğu tarihten önceki bir yılın hesabında da
 dikkate alınmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -7,14 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**lazımgelen kimselerle yapılan bütün muameleler tarihleri ne olursa olsun hükümsüzdür.**
+**Üçüncü şahısların hakları ve mecburiyetleri:**
 
 ---
 
 Madde 31 – 27, 28, 29 ve 30 uncu maddelerde sözü edilen tasarruf ve muamelelerden
 faydalananlar elde ettiklerini, elden çıkarmışlarsa takdir edilecek bedelini vermeye bu kanun
-hükümleri dairesinde vermeye mecburdurlar. Bunlar karşılık olarak verdikleri şeyden dolayı
-alacaklı amme idaresinden bir talepte bulunamazlar.
+hükümleri dairesinde mecburdurlar. Bunlar karşılık olarak verdikleri şeyden dolayı alacaklı
+amme idaresinden bir talepte bulunamazlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

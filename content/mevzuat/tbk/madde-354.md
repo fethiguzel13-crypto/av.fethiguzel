@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4286
 ---
 
-**2**
+**4. Dava sebeplerinin sınırlılığı**
 
 ---
 
-Madde 354 - Dava yoluyla kira sözleşmesinin sona erdirilmesine ilişkin hükümler,
+MADDE 354- Dava yoluyla kira sözleşmesinin sona erdirilmesine ilişkin hükümler,
 kiracı aleyhine değiştirilemez.
 
 ---

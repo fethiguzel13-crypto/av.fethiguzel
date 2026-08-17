@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4285
 ---
 
-**Ek vergi**
+**Ek vergi:**
 
 ---
 
 Madde 60 – (Mülga: 6/6/2002-4760/18 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

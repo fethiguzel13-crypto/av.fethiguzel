@@ -18,6 +18,8 @@ hakkında eski hâle getirme isteminde bulunabilir.
 (2) Ancak, sanık kendi istemi üzerine duruşmadan bağışık tutulmuş veya müdafii
 aracılığıyla temsil edilmek yetkisini kullanmış olursa artık eski hâle getirme isteminde bulunamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

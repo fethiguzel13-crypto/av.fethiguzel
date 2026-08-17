@@ -17,6 +17,8 @@ kimseye ağırlaştırılmış müebbet hapis cezası verilir.
 (2) Bu suçun işlenmesi sırasında başka suçların işlenmesi halinde, ayrıca bu suçlardan
 dolayı ilgili hükümlere göre cezaya hükmolunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

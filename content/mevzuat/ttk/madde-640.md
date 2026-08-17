@@ -7,12 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**III
-- Çıkarma**
+**III - Çıkarma**
 
 ---
 
-Madde 640 - (1) Şirket sözleşmesinde, bir ortağın genel kurul kararı ile şirketten çıkarılabileceği sebepler öngörülebilir. (2) Çıkarma kararına karşı ortak, kararın noter aracılığıyla kendisine bildirilmesinden itiba ren üç ay içinde iptal davası açabilir. (3) Şirketin istemi üzerine ortağın mahkeme kararıyla haklı sebebe dayanılarak şirketten çıkarılması hâli saklıdır.
+MADDE 640- (1) Şirket sözleşmesinde, bir ortağın genel kurul kararı ile şirketten
+çıkarılabileceği sebepler öngörülebilir.
+(2) Çıkarma kararına karşı ortak, kararın noter aracılığıyla kendisine bildirilmesinden
+itibaren üç ay içinde iptal davası açabilir.
+(3) Şirketin istemi üzerine ortağın mahkeme kararıyla haklı sebebe dayanılarak
+şirketten çıkarılması hâli saklıdır.
 
 ---
 

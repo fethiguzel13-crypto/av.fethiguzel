@@ -1,0 +1,114 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+  Flavor vurgusu tek yerden. main.tsx açılışta --brand'i katalogdan yazar,
+  böylece aynı kaynak ağacı dört farklı renk kimliğiyle derlenir.
+*/
+:root {
+  --brand: #2e4036;
+  --brand-dark: #1f2b24;
+  --brand-soft: rgba(46, 64, 54, 0.08);
+}
+
+html,
+body {
+  margin: 0;
+  background: #f2f0e9;
+  color: #1a1a1a;
+  -webkit-font-smoothing: antialiased;
+  overscroll-behavior-y: none;
+}
+
+body {
+  /* Android 16 kenardan kenara zorunlu — içerik çentik ve gezinme çubuğunun
+     altında kalmasın. */
+  padding-top: env(safe-area-inset-top);
+}
+
+/* WebView'da uzun basınca çıkan seçim/ vurgulama menüsü uygulama hissini bozar */
+button,
+a,
+[role='button'] {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+}
+
+/* Metin içerikte seçim serbest kalsın — içtihat ve madde kopyalanabilmeli */
+.selectable,
+.prose,
+p,
+li,
+td {
+  -webkit-user-select: text;
+  user-select: text;
+}
+
+input,
+textarea,
+select {
+  /* iOS/Android otomatik yakınlaştırmasını engelleyen asgari boyut */
+  font-size: 16px;
+}
+
+@layer components {
+  .tap {
+    @apply active:scale-[0.985] transition-transform duration-100;
+  }
+
+  .card {
+    @apply bg-white rounded-2xl border border-charcoal/[0.08] shadow-soft;
+  }
+
+  .pill {
+    @apply inline-flex items-center gap-1.5 rounded-full px-3 py-1.5 text-xs font-semibold;
+  }
+
+  .btn-brand {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-3
+           font-bold text-white text-sm tap;
+    background: var(--brand);
+  }
+
+  .btn-ghost {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-3
+           font-bold text-sm border border-charcoal/15 bg-white text-charcoal tap;
+  }
+
+  /* Alt gezinme yüksekliği + güvenli alan kadar boşluk bırakan sarmalayıcı */
+  .page {
+    @apply px-4 pb-[calc(5.5rem+env(safe-area-inset-bottom))] pt-3;
+  }
+}
+
+/* Yükleme iskeletleri — çevrimdışı veri açılırken boş ekran görünmesin */
+@keyframes shimmer {
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.skeleton {
+  position: relative;
+  overflow: hidden;
+  background: rgba(26, 26, 26, 0.06);
+}
+
+.skeleton::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  transform: translateX(-100%);
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.6), transparent);
+  animation: shimmer 1.4s infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .skeleton::after {
+    animation: none;
+  }
+  .tap {
+    transition: none;
+  }
+}

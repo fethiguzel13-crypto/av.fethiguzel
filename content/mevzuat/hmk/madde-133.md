@@ -16,6 +16,8 @@ bir dilekçe verilmek suretiyle açılır.
 (2) Süresinden sonra karşı dava açılması hâlinde, mahkeme davaların ayrılmasına
 karar verir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

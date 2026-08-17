@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**Mecburi hizmetle ilgili yükümlülükler**
+**Mecburi hizmetle ilgili yükümlülükler:**
 
 ---
 
@@ -27,26 +27,17 @@ c) Atanıp da yükümlü bulundukları mecburi hizmeti bitmeden ayrılmış veya
 sebebiyle memurluktan çıkarılmış olanlar mecburi hizmetlerinin eksik kalan kısmı ile orantılı
 tutarı yüzde elli fazlasiyle ödemek zorundadırlar.
 d) Hizmetlerine lüzum olmadığına Cumhurbaşkanınca karar verilenlerin mecburi
-hizmet yükümlülükleri krediye dönüştürülebilir.285
+hizmet yükümlülükleri krediye dönüştürülebilir.
 e) İlk ve orta dereceli okullar ile, kurslarda Milli Eğitim Bakanlığı tarafından okutulan
 parasız yatılı öğrencilerin mecburi hizmetlerine, bu kanuna tabi kurum ve kuruluşlarda ihtiyaç
-
-29/11/1984 tarihli ve 243 sayılı Kanun Hükmünde Kararnamenin 55 inci maddesi uyarınca; 13/12/1960 tarih
-ve 160 sayılı Kanunun 4 üncü maddesine yapılan atıflar, 8/6/1984 gün ve 217 sayılı Kanun Hükmünde
-Kararnamenin ilgili maddesine yapılmış sayılmaktadır. Bu bakımdan bu maddede zikredilen 4 üncü madde, 217
-sayılı Kanun Hükmünde Kararnamenin 2 nci maddesi olarak dikkate alınmalıdır.
-285
-2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan “ilgili
-kurumun teklifi ve Maliye Bakanlığının uygun görüşüne dayanılarak Bakanlar Kurulunca” ibaresi
-“Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-284
-
-olmaması halinde Milli Eğitim Bakanlığı bunların mecburi hizmet yükümlülüğünü
+olmaması halinde Milli Eğitim Bakanlığı bunların mecburi hizmet yükümlülüğünü
 kaldırmaya yetkilidir. Bu fıkraya göre kurumların, ihtiyaci olup olmadığı bir aylık süre
 verilmek ve Resmî Gazete'de ilan edilmek suretiyle tespit olunur.
 Askerlikte geçen süre mecburi hizmetten sayılmaz.
 Mecburi hizmetini yapmakta iken yasama organına seçilenlerin yükümlülükleri
 seçildikleri sürece ertelenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

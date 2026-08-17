@@ -11,7 +11,7 @@ wordCount: 4286
 
 ---
 
-Madde 627 - (1) Müdürler ortaklara eşit şartlar altında eşit işlem yaparlar.
+MADDE 627- (1) Müdürler ortaklara eşit şartlar altında eşit işlem yaparlar.
 
 ---
 

@@ -14,6 +14,8 @@ wordCount: 4319
 MADDE 23 – Vakıfların malları üzerinde zilyetlik yoluyla kazanma hükümleri
 uygulanmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

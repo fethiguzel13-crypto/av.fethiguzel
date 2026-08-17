@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-**2 – Alacaklar ve üçüncü şahıs elinde haczedilen mallar hakkında**
+**2 – Alacaklar ve üçüncü şahıs elinde haczedilen mallar hakkında:**
 
 ---
 
@@ -26,8 +26,7 @@ olmaksızın telef olmuş veya malın borçluya ait olmadığı veya malın kend
 olduğu veya alacak borçluya veya emrettiği yere verilmiş olduğu gibi bir iddiada ise,
 keyfiyeti, haciz ihbarnamesinin kendisine tebliğinden itibaren yedi gün içinde icra dairesine
 yazılı veya sözlü olarak bildirmeye mecburdur.
-
-(Değişik üçüncü fıkra: 17/7/2003-4949/22 md.) Üçüncü şahıs, haciz ihbarnamesinin
+(Değişik üçüncü fıkra: 17/7/2003-4949/22 md.) Üçüncü şahıs, haciz ihbarnamesinin
 kendisine tebliğinden itibaren yedi gün içinde itiraz etmezse, mal yedinde veya borç
 zimmetinde sayılır ve kendisine gönderilen haciz ihbarnamesine süresinde itiraz etmediği, bu
 nedenle de malın yedinde veya borcun zimmetinde sayıldığı ikinci bir ihbarname ile bildirilir.
@@ -35,8 +34,7 @@ Bu ikinci ihbarnamede ayrıca, üçüncü şahsın ihbarnamenin kendisine tebli�
 gün içinde ikinci fıkrada belirtilen sebeplerle itirazda bulunması, itirazda bulunmadığı takdirde
 zimmetinde sayılan borcu icra dairesine ödemesi veya yedinde sayılan malı icra dairesine teslim
 etmesi istenir. İkinci ihbarnameye süresi içinde itiraz etmeyen ve zimmetinde sayılan
-borcu icra dairesine ödemeyen veya
-yedinde sayılan malı icra dairesine teslim etmeyen
+borcu icra dairesine ödemeyen veya yedinde sayılan malı icra dairesine teslim etmeyen
 üçüncü şahsa onbeş gün içinde parayı icra dairesine ödemesi veya yedinde sayılan malı
 teslim etmesi yahut bu süre içinde menfi tespit davası açması, aksi takdirde zimmetinde
 sayılan borcu ödemeye veya yedinde sayılan malı teslime zorlanacağı bildirilir. Bu bildirimi
@@ -48,7 +46,7 @@ Bu süre içinde 106 ncı maddede belirtilen süreler işlemez. Bu davada üçü
 borçlusuna borçlu olmadığını veya malın takip borçlusuna ait olmadığını ispat etmeye
 mecburdur. Üçüncü şahıs açtığı bu davayı kaybederse, mahkemece, dava konusu şeyin yüzde
 yirmisinden aşağı olmamak üzere bir tazminata mahkûm edilir. Bu fıkraya göre açılacak
-menfi tespit davaları maktu harca tabidir.40
+menfi tespit davaları maktu harca tabidir.
 Üçüncü şahıs, haciz ihbarnamesine müddeti içinde itiraz ederse, alacaklı, üçüncü
 şahsın verdiği cevabın aksini icra mahkemesinde ispat ederek üçüncü şahsın 338 inci
 maddenin 1 inci fıkrası hükmüne göre cezalandırılmasını ve ayrıca tazminata mahküm
@@ -65,16 +63,14 @@ alacaklarının bulunabileceği bir tüzel kişinin veya müessesenin şubesine 
 kapsayacak şekilde merkezine tebliğ edilir. Haciz ihbarnamesinin tebliğ edildiği merkez, tüm
 şubeleri veya birimlerini kapsayacak şekilde beyanda bulunmakla yükümlüdür.
 Üçüncü şahsın beyanı hiçbir harc ve resme tabi değildir.
-2/7/2012 tarihli ve 6352 sayılı Kanunun 18 inci maddesiyle, bu fıkrada yer alan “yüzde kırkından” ibaresi
-“yüzde yirmisinden” şeklinde değiştirilmiştir.
-40
-
-Bu madde hükmü, memuriyeti hasebiyle hakikate muhalif beyanda bulunan memurlar
+Bu madde hükmü, memuriyeti hasebiyle hakikate muhalif beyanda bulunan memurlar
 hakkında da uygulanır.
 (Ek fıkra:6/12/2018-7155/12 md.) Bu madde uyarınca haciz ihbarnamelerinin
 bildirimi ve bu ihbarnamelere verilecek cevaplar, güvenli elektronik imza kullanılmak
 suretiyle Ulusal Yargı Ağı Bilişim Sistemi ve bu sisteme entegre bilişim sistemleri üzerinden
 de yapılabilir. Bu usulle yapılan bildirim tebliğ yerine geçer.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**A) Genel kurul**
+**BEŞİNCİ BÖLÜM
+Anagayrimenkulün Yönetimi
+A) Genel kurul:**
 
 ---
 
-Madde 27 – Anagayrimenkul, kat malikleri kurulunca yönetilir ve yönetim tarzı, kanunların emredici hükümleri saklı kalmak şartiyle, bu kurul tarafından kararlaştırılır.
+Madde 27 – Anagayrimenkul, kat malikleri kurulunca yönetilir ve yönetim tarzı, ka-
+nunların emredici hükümleri saklı kalmak şartiyle, bu kurul tarafından kararlaştırılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4280
 ---
 
-**Hükmi şahısların memur ve müstahdemlerine tebligat**
+**Hükmi şahısların memur ve müstahdemlerine tebligat:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 13 – Hükmi şahıslar namına kendilerine tebliğ yapılacak kimseler h
 bir sebeple mütat iş saatlerinde iş yerinde bulunmadıkları veya o sırada evrakı bizzat
 alamıyacak bir halde oldukları takdirde tebliğ, orada hazır bulunan memur veya
 müstahdemlerinden birine yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

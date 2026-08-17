@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4286
 ---
 
-**Mal bildirimi**
+**Mal bildirimi:**
 
 ---
 
 Madde 14 – Devlet memurları, kendileriyle, eşlerine ve velayetleri altındaki
 çocuklarına ait taşınır ve taşınmaz malları, alacak ve borçları hakkında, özel kanunda yazılı
 hükümler uyarınca, mal bildirimi verirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

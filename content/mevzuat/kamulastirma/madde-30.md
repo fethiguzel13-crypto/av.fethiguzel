@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**Bir idareye ait taşınmaz malın diğer idareye devri**
+**İKİNCİ BÖLÜM
+Kamu Kurumları ve Tüzelkişileri Arasında Taşınmaz Mal Devri
+Bir idareye ait taşınmaz malın diğer idareye devri**
 
 ---
 
@@ -40,15 +42,13 @@ duyduğu, kamu kurum ve kuruluşları, belediyeler ve il özel idareleri dâhil 
 diğer kamu tüzel kişilerine ait taşınmazlar, kaynak veya irtifak hakları, Cumhurbaşkanı
 kararıyla resen Hazine adına tescil ve İçişleri Bakanlığına tahsis edilir. Taşınmazın bedeli,
 tescil işleminden itibaren altmış gün içinde bu Kanunun 11 inci maddesinde belirtilen kriterler
-
-
-de dikkate alınmak suretiyle valiliklerce resen tespit edilir. Bedele ilişkin itirazlar Danıştaya
+de dikkate alınmak suretiyle valiliklerce resen tespit edilir. Bedele ilişkin itirazlar Danıştaya
 yapılır. İtirazlar tescil işlemini durdurmaz. Mahkemelerce ihtiyati tedbir ve yürütmenin
 durdurulması kararları verilemez, 3533 sayılı Kanun hükümleri uygulanmaz. Bu taşınmazlara
 ilişkin olarak ihtiyaç duyulan imar planı değişiklikleri Çevre ve Şehircilik Bakanlığınca resen
-yapılır veya yaptırılır.31
-YEDİNCİ KISIM
-Yasak İşler ve Ceza Hükümleri
+yapılır veya yaptırılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

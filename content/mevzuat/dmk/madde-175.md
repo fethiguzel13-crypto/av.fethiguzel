@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**Vekalet, ikinci görev aylık ve ücretleri ile diğer ödemeler**
+**Vekalet, ikinci görev aylık ve ücretleri ile diğer ödemeler:**
 
 ---
 
@@ -21,17 +21,18 @@ Harcırah Kanununun geçici görevle başka yere gönderilenlere ilişkin hükü
 (Ek : 4/7/2001 – KHK-631/5 md.) Ancak, kurum içinden veya diğer kurumlardan
 vekalet edenlere vekalet aylığı ödenebilmesi için, vekilin asilde aranan şartları taşıması
 zorunludur.
-
-(Değişik: 26/6/1984 – KHK-241/9 md.) 88 inci maddeye göre ikinci görev verilen
+(Değişik: 26/6/1984 – KHK-241/9 md.) 88 inci maddeye göre ikinci görev verilen
 memurlara, bu görevleri karşılığında aylık ödenebilmesi için boş bir kadroya ait görevin
 ikinci görev olarak yürütülmesi gerekir. Bu şekilde görevlendirilenlere, görevlendirildikleri
 kadro derecesinin ilk kademe aylığının üçte ikisi ödenir. Ancak, sağlık grup başkanlığı,
 baştabip ve baştabip yardımcılığı hizmetlerinin ikinci görev olarak yürütülmesi halinde kadro
 şartı aranmaz ve bu hizmetleri yürütenlere almakta oldukları aylığın üçte ikisi ikinci görev
-aylığı olarak ödenir.270
+aylığı olarak ödenir.
 (Değişik: 22/8/1989 – KHK-378/4 md) Açıktan vekil olarak atananlar bu Kanunla
 memurlara tanınan sosyal haklardan da yararlanırlar ve bunlara ödenecek vekalet aylığının
 hesabına memuriyet taban aylığı da dahil edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

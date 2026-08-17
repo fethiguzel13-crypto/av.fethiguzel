@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**Suçların takibi**
+**Suçların takibi:**
 
 ---
 
@@ -17,6 +17,8 @@ Bu suçlar bir hükmi şahsın idare ve muamelelerini görme sırasında işlenm
 hükmi şahsın ortaklarından, mümessil ve vekillerinden, tasfiye memurlarından idare meclisi
 reis ve azasından, murakıp ve müfettişlerinden veya müstahdemlerinden muameleyi yapmış
 olanlar hakkında hükmolunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

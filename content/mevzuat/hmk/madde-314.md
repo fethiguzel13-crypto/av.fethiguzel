@@ -19,6 +19,8 @@ ve ilk derece mahkemesi veya bölge adliye mahkemesince sulh doğrultusunda ek k
 sonra yapılmışsa, Yargıtay temyiz incelemesi yapmaksızın dosyayı sulh hususunda ek karar
 verilmek üzere hükmü veren mahkemeye gönderir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

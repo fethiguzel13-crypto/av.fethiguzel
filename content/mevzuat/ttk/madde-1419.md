@@ -11,7 +11,8 @@ wordCount: 4276
 
 ---
 
-Madde 1419 - (1) Sigorta sözleşmesi sona erdiği takdirde, Kanunda aksi öngörülmemişse, işlemeyen günlere ait ödenmiş primler sigorta e ttirene geri verilir.
+MADDE 1419- (1) Sigorta sözleşmesi sona erdiği takdirde, Kanunda aksi
+öngörülmemişse, işlemeyen günlere ait ödenmiş primler sigorta ettirene geri verilir.
 
 ---
 

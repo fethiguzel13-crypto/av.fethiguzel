@@ -7,14 +7,13 @@ lastReviewed: "2026-07-27"
 wordCount: 2940
 ---
 
-**Verginin tahsili, kanuna uygun surette ödenmesidir.**
+**Tahsil:**
 
 ---
 
-Madde 23 - Verginin tahsili, kanuna uygun surette ödenmesidir.
+Madde 23 – Verginin tahsili, kanuna uygun surette ödenmesidir.
 
-Tahakkuku
-tahsile bağlı vergiler:
+---
 
 ### Akademik Yorum ve Analiz
 

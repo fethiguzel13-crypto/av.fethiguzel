@@ -16,6 +16,8 @@ alametlerini alenen tahkir eden kimseye üç aydan bir yıla kadar hapis cezası
 (2) Bu suçtan dolayı soruşturma ve kovuşturma yapılması, ilgili devletin şikayetine
 bağlıdır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

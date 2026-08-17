@@ -11,7 +11,7 @@ wordCount: 4291
 
 ---
 
-Madde 361 - Kiraya veren, kira süresi içinde yapılması zorunlu olan esaslı
+MADDE 361- Kiraya veren, kira süresi içinde yapılması zorunlu olan esaslı
 onarımları, kiracı tarafından bildirilir bildirilmez, gideri kendisine ait olmak üzere yapmakla
 yükümlüdür.
 

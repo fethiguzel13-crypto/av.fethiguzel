@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**(Mülga: 26/6/2012 - 6335/43 md.) III - Özet fin ansal tabloları**
+**III - Özet finansal tabloları**
 
 ---
 
-Madde 526 - (Mülga: 26/6/2012 - 6335/43 md.) IV - Sır saklama yükümü
+MADDE 526- (Mülga: 26/6/2012-6335/43 md.)
 
 ---
 

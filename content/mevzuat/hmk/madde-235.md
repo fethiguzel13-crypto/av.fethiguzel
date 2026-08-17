@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**Hasta veya engellilerin mahkeme dışında yemini25**
+**Hasta veya engellilerin mahkeme dışında yemini**
 
 ---
 
 MADDE 235- (1) Yemin edecek kimse, mahkemeye gelemeyecek kadar hasta veya
 engelli ise hâkim, bulunduğu yerde o kimseye yemin ettirir. Bu sırada isterlerse taraf vekilleri
 ve karşı taraf da hazır bulunabilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

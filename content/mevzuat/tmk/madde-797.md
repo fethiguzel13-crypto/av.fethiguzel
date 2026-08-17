@@ -11,7 +11,9 @@ wordCount: 4308
 
 ---
 
-Madde 797 - İntifa hakkı, gerçek kişilerde ha k sahibinin ölümü; tüzel kişilerde kararlaştırılan sürenin dolması, süre kararlaştırılmamı şsa kişiliğin ortadan kalkmasıyla sona erer. Tüzel kişilerin intifa hakkı, en çok yüz yıl devam edebilir .
+Madde 797- İntifa hakkı, gerçek kişilerde hak sahibinin ölümü; tüzel kişilerde
+kararlaştırılan sürenin dolması, süre kararlaştırılmamışsa kişiliğin ortadan kalkmasıyla sona erer.
+Tüzel kişilerin intifa hakkı, en çok yüz yıl devam edebilir.
 
 ---
 

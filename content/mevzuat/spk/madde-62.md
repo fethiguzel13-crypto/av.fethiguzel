@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Faaliyet esasları**
+**ALTINCI BÖLÜM
+Bağımsız Denetim, Derecelendirme ve Değerleme Kuruluşları
+Faaliyet esasları**
 
 ---
 
@@ -27,6 +29,8 @@ uluslararası standartlara uyumunun sağlanması amacıyla düzenleme, gözetim 
 yapar. Bu kuruluşların yetkilendirilmesi, yönetici ve çalışanlarının lisanslanması ve bu
 kuruluşlar hakkındaki sicil bilgileri ile bu bilgilerin kamuya açıklanmasına ilişkin usul ve
 esaslar Kurul tarafından belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

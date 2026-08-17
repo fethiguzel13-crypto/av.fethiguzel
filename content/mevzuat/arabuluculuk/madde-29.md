@@ -14,6 +14,8 @@ wordCount: 4289
 MADDE 29 – (1) Daire Başkanlığı, bir daire başkanı, yeteri kadar tetkik hâkimi ve
 diğer personelden oluşur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

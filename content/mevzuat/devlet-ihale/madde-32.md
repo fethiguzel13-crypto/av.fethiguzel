@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**Kesinleşen ihale kararlarının bildirilmesi**
+**Kesinleşen ihale kararlarının bildirilmesi:**
 
 ---
 
@@ -17,6 +17,8 @@ taahhütlü mektupla tebligat adresine postalanır. (İptal ikinci cümle: Anaya
 18/6/2013 tarihli ve E.: 2013/71, K.: 2013/77 sayılı Kararı ile.)
 İhale kararlarının ita amirince iptal edilmesi halinde de, durum istekliye aynı şekilde
 bildirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

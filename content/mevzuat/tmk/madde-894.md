@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**2. Satıcılar, mirasçılar ve diğer elbirliği ortak ları bakımından**
+**2. Satıcılar, mirasçılar ve diğer elbirliği ortakları bakımından**
 
 ---
 
-Madde 894 - Satıcıların, mirasçıların ve diğer elbirliği ortaklarının kanunî ipotek hakla rının, mülkiyetin naklini izleyen üç ay içinde tapu kütüğüne t escil edilmiş olması gerekir.
+Madde 894- Satıcıların, mirasçıların ve diğer elbirliği ortaklarının kanunî ipotek
+haklarının, mülkiyetin naklini izleyen üç ay içinde tapu kütüğüne tescil edilmiş olması gerekir.
 
 ---
 

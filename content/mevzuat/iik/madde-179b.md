@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
-**Erteleme kararı ve sonuçları:70**
+**Erteleme kararı ve sonuçları:**
 
 ---
 
 Madde 179/b- (Ek: 17/7/2003-4949/50 md.; Mülga: 28/2/2018-7101/65 md.)
-Kanun yolları:
+
+---
 
 ### Akademik Yorum ve Analiz
 

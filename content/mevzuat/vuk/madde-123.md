@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
-**Düzeltme talebinin incelenmesi**
+**Düzeltme talebinin incelenmesi:**
 
 ---
 
@@ -16,6 +16,8 @@ Vergi dairesinin ilgili servisi düzeltme talebini kendi mütalaasını da ilave
 düzeltme merciine gönderir.
 Düzeltme mercii talebi yerinde gördüğü takdirde, düzeltmenin yapılmasını emreder;
 yerinde görmediği takdirde, keyfiyet düzeltmeyi isteyene yazı ile tebliğ olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,8 @@ wordCount: 4290
 
 ---
 
-Madde 155 - Evlendirmeye yetkili memur önünde yapılmış olan bir evliliğin kanun un diğer şekil kurallarına uyulmaması sebebiyle butlanına karar veri lemez.
+Madde 155- Evlendirmeye yetkili memur önünde yapılmış olan bir evliliğin kanunun
+diğer şekil kurallarına uyulmaması sebebiyle butlanına karar verilemez.
 
 ---
 

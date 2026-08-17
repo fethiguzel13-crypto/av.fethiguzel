@@ -7,18 +7,20 @@ lastReviewed: "2026-07-27"
 wordCount: 3619
 ---
 
-**(1) Geminin ilk Türk maliki,**
+**İKİNCİ BÖLÜM
+Geminin Kimliği
+A) Geminin adı
+I- Seçme serbestisi**
 
 ---
 
-Madde 938 - (1) Geminin ilk Türk maliki,
-gemiye dilediği adı vermekte serbesttir. Şu kadar ki, seçilen ad karıştırılmaya
-yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır.
+MADDE 938- (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir.
+Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı
+olmalıdır.
+(2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve
+Haberleşme Bakanlığının izniyle değiştirilebilir.
 
-(2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma,
-Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir.
-
-II- Gövde üzerine yazılma zorunluluğu
+---
 
 ### Akademik Yorum ve Analiz
 

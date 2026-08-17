@@ -14,6 +14,8 @@ wordCount: 4259
 Madde 9 – (1) Bağlantılı suçlardan her biri değişik mahkemelerin görevine giriyorsa,
 bunlar hakkında birleştirilmek suretiyle yüksek görevli mahkemede dava açılabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

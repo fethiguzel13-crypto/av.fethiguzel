@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**Müflise ödeme**
+**Müflise ödeme:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 192 – İflasın açılmasından sonra müflis hiçbir ödeme kabul edeme
 ödemede bulunan kimse müflisin alacaklılarına karşı ancak masaya giren para veya kıymet
 nispetinde borcundan kurtulur. Bununla beraber iflasın ilanından evvel müflise ödemede
 bulunan borçlu iflastan haberi yoksa borcundan kurtulur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

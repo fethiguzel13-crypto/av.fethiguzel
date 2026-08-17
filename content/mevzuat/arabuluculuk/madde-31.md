@@ -11,7 +11,7 @@ wordCount: 4271
 
 ---
 
-MADDE 31 – (1) Kurul aşağıdaki üyelerden oluşur:12
+MADDE 31 – (1) Kurul aşağıdaki üyelerden oluşur:
 a) Hukuk İşleri Genel Müdürü.
 b) Daire Başkanı.
 c) Hâkimler ve Savcılar Kurulu tarafından hukuk mahkemelerinde görev yapmakta
@@ -22,10 +22,7 @@ e) Yükseköğretim Kurulu tarafından seçilen özel hukuk alanından bir öğr
 f) Adalet Bakanı tarafından seçilecek üç arabulucu.
 g) Türkiye Odalar ve Borsalar Birliğinden bir temsilci.
 ğ) (Ek: 12/10/2017-7036/27 md.) Kendisine mensup işçi sayısı en çok olan üç işçi
-12 12/10/2017 tarihli ve 7036 sayılı Kanunun 27 nci maddesiyle, bu maddenin birinci fıkrasının (c) bendinde yer alan “Hâkimler ve Savcılar Yüksek Kurulu” ibaresi “Hâkimler ve Savcılar Kurulu” şeklinde değiştirilmiş, (g) bendinden sonra gelmek üzere (ğ) ve (h) bentleri eklenmiş, diğer bentler buna göre teselsül ettirilmiş ve mevcut (h) bendinde yer alan “Müdürü” ibaresi “Başkanı” şeklinde değiştirilmiştir.
-
-
-sendikaları konfederasyonunca seçilecek birer temsilci.
+sendikaları konfederasyonunca seçilecek birer temsilci.
 h) (Ek: 12/10/2017-7036/27 md.) En çok işveren mensubu olan işveren sendikaları
 konfederasyonunca seçilecek bir temsilci.
 ı) Türkiye Esnaf ve Sanatkarları Konfederasyonundan bir temsilci.
@@ -43,6 +40,8 @@ süresi dolan üyeler yeniden görevlendirilebilir.
 zorunlu giderleri 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümlerine göre Bakanlıkça
 karşılanır.
 (8) Kurulun çalışma usul ve esasları yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

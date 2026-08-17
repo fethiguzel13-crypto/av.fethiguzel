@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4285
 ---
 
-**Beyanname verme yükümlülüğü ve denetim**
+**(Mülga ikinci fıkra: 23/1/2008-5728/578 md.)
+ÜÇÜNCÜ BÖLÜM
+Denetim ve Bildirimler
+Beyanname verme yükümlülüğü ve denetim**
 
 ---
 
@@ -24,7 +27,7 @@ görevlendirilemez. İçişleri Bakanlığı ve mülkî idare amirlerinin yapaca
 saatleri içerisinde yapılır. Bu denetimler en az yirmidört saat önce derneklere bildirilir. (Ek
 cümleler:27/12/2020-7262/13 md.) (İptal altıncı cümle: Anayasa Mahkemesinin 18/1/2024
 Tarihli ve E: 2021/28, K: 2024/11 Sayılı Kararı ile.) Bu denetimlerde görevlendirileceklere
-ilişkin usul ve esaslar yönetmelikte düzenlenir.5
+ilişkin usul ve esaslar yönetmelikte düzenlenir.
 Denetim sırasında görevli memurlar tarafından istenecek her türlü bilgi, belge ve
 kayıtların, dernek yetkilileri tarafından gösterilmesi veya verilmesi, yönetim yerleri,
 müesseseler ve eklentilerine girme isteğinin yerine getirilmesi zorunludur.
@@ -34,15 +37,13 @@ müesseseler ve eklentilerine girme isteğinin yerine getirilmesi zorunludur.
 18/1/2024 Tarihli ve E: 2021/28, K: 2024/11 Sayılı Kararı ile.)
 (Ek fıkra:27/12/2020-7262/13 md.) Denetim sırasında, uzmanlık veya teknik bilgi
 gerektiren durumlarda İçişleri Bakanlığı, valilikler ve kaymakamlıklar tarafından bilirkişi
-27/12/2020 tarihli ve 7262 sayılı Kanunun 13 üncü maddesiyle bu fıkranın birinci cümlesine
-“tarafından” ibaresinden sonra gelmek üzere “kamu görevlilerine” ibaresi eklenmiştir.
-5
-
-görevlendirilebilir. Bilirkişinin görevlendirilmesine ilişkin usul ve esaslar yönetmelikte düzenlenir.
+görevlendirilebilir. Bilirkişinin görevlendirilmesine ilişkin usul ve esaslar yönetmelikte düzenlenir.
 Bilirkişiye verilecek ücretin tutarı İçişleri Bakanlığı ile Hazine ve Maliye Bakanlığınca birlikte
 tespit olunur ve bu ücret İçişleri Bakanlığı bütçesine konulacak ödenekten karşılanır.
 Denetim sırasında, suç teşkil eden fiillerin tespit edilmesi hâlinde, mülkî idare amiri
 durumu derhal Cumhuriyet savcılığına ve derneğe bildirir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

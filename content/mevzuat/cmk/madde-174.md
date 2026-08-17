@@ -33,10 +33,8 @@ verilmesini gerektiren bir durumun bulunmaması halinde, yeniden iddianame düze
 dosyayı mahkemeye gönderir. İlk kararda belirtilmeyen sebeplere dayanılarak yeniden
 iddianamenin iadesi yoluna gidilemez.
 (5) İade kararına karşı Cumhuriyet savcısı itiraz edebilir.
-ÜÇÜNCÜ KİTAP
-Kovuşturma Evresi
-BİRİNCİ KISIM
-Kamu Davasının Yürütülmesi
+
+---
 
 ### Akademik Yorum ve Analiz
 

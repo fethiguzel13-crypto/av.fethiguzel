@@ -7,13 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**gözetim ve denetimine yetkilidirler.**
-
----
-
 Madde 16 – Valiler, denetlemeleri sırasında iş başında kalmalarında mahzur
 gördükleri bütün memur ve müstahdemlere sorumluluğu altında işten elçektirilebilirler ve
 hizmetin aksamaması için gereken tedbirleri aldırırlar. Bu takdirde işi gerekçesiyle ait olduğu
+makama derhal bildirirler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

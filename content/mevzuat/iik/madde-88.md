@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4277
 ---
 
-**1 – Taşınırlar hakkında**
+**Mahcuz malları muhafaza tedbirleri:
+1 – Taşınırlar hakkında:**
 
 ---
 
@@ -17,8 +18,7 @@ senetler ile altın, gümüş ve diğer kıymetli şeyleri icra dairesi muhafaza
 Diğer taşınır mallar, masrafı peşinen alacaklıdan alınarak muhafaza altına alınır.
 Alacaklı muvafakat ederse, istenildiği zaman verilmek şartıyla, muvakkaten borçlu yedinde
 veya üçüncü şahıs nezdinde bırakılabilir. Üçüncü şahsın elinde bulunan taşınır mallar
-
-haczedildiğinde, üçüncü şahsın kabulü hâlinde üçüncü şahsa yediemin olarak bırakılır.
+haczedildiğinde, üçüncü şahsın kabulü hâlinde üçüncü şahsa yediemin olarak bırakılır.
 (Değişik cümle:24/11/2021-7343/7 md.) Haczedilmiş ancak muhafaza altına alınmamış
 mallar satış talebi üzerine muhafaza altına alınır veya ihale alıcısına teslime hazır hâle
 getirilir, aksi takdirde satış yapılamaz. (Ek cümle:24/11/2021-7343/7 md.) Sicile kayıtlı
@@ -49,7 +49,8 @@ tarafından düzenlenecek tarifeyle belirlenir.
 İcra müdürlüklerinin talebi üzerine kolluk kuvvetleri tarafından yakalanan araçlar, en
 geç üç iş günü içinde en yakın icra müdürlüğüne teslim edilir. Aracı teslim alan icra
 müdürlüğü, aracın yakalanmasını isteyen icra müdürlüğüne bildirimde bulunur.
-Muhafazasına gerek kalmayan malların tasfiyesi:
+
+---
 
 ### Akademik Yorum ve Analiz
 

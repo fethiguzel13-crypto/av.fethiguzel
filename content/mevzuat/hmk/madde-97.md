@@ -15,6 +15,8 @@ MADDE 97- (1) Eski hâle getirme, dilekçeyle talep edilir. Dilekçede, talebin
 dayandığı sebepler ile bunların delil veya emareleri gösterilir. Süresinde yapılamayan işlemin
 de eski hâle getirme talebinde bulunmak için öngörülen süre içinde yapılması zorunludur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

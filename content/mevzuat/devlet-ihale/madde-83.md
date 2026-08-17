@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**Yasak fiil ve davranışlar**
+**Yasak fiil ve davranışlar:**
 
 ---
 
@@ -23,6 +23,8 @@ teşebbüs etmek, taahhüdünü kötü niyetle yerine getirmemek, taahhüdünü 
 idareye zarar verecek işler yapmak veya işin yapılması veya teslimi sırasında hileli malzeme,
 araç veya usuller kullanmak,
 Yasaktır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

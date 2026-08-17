@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**talebi üzerine uzatılabileceği gibi kısaltılabilir.**
+**Sonradan delil gösterilmesi**
 
 ---
 
@@ -15,6 +15,8 @@ MADDE 145- (1) Taraflar, Kanunda belirtilen süreden sonra delil gösteremezler.
 Ancak bir delilin sonradan ileri sürülmesi yargılamayı geciktirme amacı taşımıyorsa veya
 süresinde ileri sürülememesi ilgili tarafın kusurundan kaynaklanmıyorsa, mahkeme o delilin
 sonradan gösterilmesine izin verebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

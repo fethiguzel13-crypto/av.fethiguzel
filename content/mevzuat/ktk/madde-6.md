@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
-**yürütmeye ilişkin yetkisi**
+**yürütmeye ilişkin yetkisi:**
 
 ---
 
@@ -24,7 +24,9 @@ dışında kullanılamaz.
 b) (Değişik: 21/5/1997-4262/1 md.) Genel Zabıta:
 Trafik zabıtasının bulunmadığı veya yeterli olmadığı yerlerde sorumluluk bölgesine
 göre genel zabıta ilgili mevzuatta belirtilen esas ve usullere uygun olarak trafiği düzenlemeye
-ve trafik suçlarına el koymaya görevli ve yetkilidir.6
+ve trafik suçlarına el koymaya görevli ve yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

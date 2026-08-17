@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4284
 ---
 
-**Su ürünleri istihsali hakkı kiralarında süre**
+**Su ürünleri istihsali hakkı kiralarında süre:**
 
 ---
 
@@ -18,6 +18,8 @@ Ancak, kiracı tarafından kurulacak ve tesisat yapılacak olan üretme yerleri 
 kadar kiraya verilebilir.
 Bu madde kapsamına giren kira işlerinde, kira bedeli her yıl şartname ve sözleşmesindeki
 esaslara göre yeniden tespit olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

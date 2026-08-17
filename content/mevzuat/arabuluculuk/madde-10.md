@@ -15,6 +15,8 @@ MADDE 10 – (1) Arabulucuların iş elde etmek için reklam sayılabilecek her 
 teşebbüs ve harekette bulunmaları ve özellikle tabelalarında ve basılı kâğıtlarında arabulucu,
 avukat ve akademik unvanlarından başka sıfat kullanmaları yasaktır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

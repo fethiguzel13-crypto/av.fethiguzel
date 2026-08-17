@@ -7,11 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**görüşü alınarak çıkarılacak yönetmelikle düzenlenir.**
-
----
-
-Madde 6 – (Mülga: 13/1/1986 - 3257/13 md.; Yeniden düzenleme: 24/11/2004
+Madde 6 – (Mülga: 13/1/1986 - 3257/13 md.; Yeniden düzenleme: 24/11/2004-
 5259/1 md.)
 Umuma açık istirahat ve eğlence yerlerinden;
 a) Faaliyetten geçici olarak men edildiği halde süresinden önce açılan,
@@ -29,6 +25,9 @@ karar kesindir. İtiraz, zaruret görülmeyen hallerde evrak üzerinde inceleme 
 sürede sonuçlandırılır. İdarî para cezaları 6183 sayılı Âmme Alacaklarının Tahsil Usulü
 Hakkında Kanun hükümlerine göre tahsil olunur.
 Bu maddede belirtilen aynı fiillerin bir yıl içinde tekrarı halinde, en son uygulanan
+para cezası bir kat artırılarak uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

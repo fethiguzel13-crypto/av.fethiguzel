@@ -11,7 +11,8 @@ wordCount: 4298
 
 ---
 
-Madde 425 - Atama kararı kesinleşince vesaye t makamı vasinin göreve baş laması için gerek li işlemleri yapar. BEŞİNCİ AYIRIM KAYYIMLIK VE YASAL DANIŞMANLIK A. Kayyımlığı gerektiren hâller I. Te msil
+Madde 425- Atama kararı kesinleşince vesayet makamı vasinin göreve başlaması için
+gerekli işlemleri yapar.
 
 ---
 

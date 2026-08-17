@@ -8,7 +8,7 @@ wordCount: 2850
 keywords: ["Alkollü Araç Kullanma", "Uyuşturucu Altında Sürüş", "7574 Sayılı Kanun", "Promil Sınırı", "Test Reddetme", "Ehliyet İptali", "Sigorta Rücu", "TCK m. 179", "Bilinçli Taksir", "Münhasırlık İlişkisi"]
 ---
 
-**Alkol, uyuşturucu veya uyarıcı maddelerin etkisi altında araç sürme yasağı**
+**Alkol, uyuşturucu veya uyarıcı maddelerin etkisi altında araç sürme yasağı:**
 
 ---
 
@@ -16,13 +16,9 @@ Madde 48 – (Değişik: 24/5/2013 - 6487/19 md.)
 Uyuşturucu veya uyarıcı maddeleri almış olan sürücüler ile alkollü olan sürücülerin
 karayolunda araç sürmeleri yasaktır.
 Uyuşturucu veya uyarıcı maddelerin kullanılıp kullanılmadığı ya da alkolün kandaki
-miktarını tespit amacıyla, kollukça teknik cihazlar/test kitleri kullanılır.42
+miktarını tespit amacıyla, kollukça teknik cihazlar/test kitleri kullanılır.
 Kişinin yaralanmalı veya ölümlü ya da kollukça müdahil olunan maddi hasarlı trafik
-12/2/2026 tarihli ve 7574 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “teknik cihazlar”
-ibaresi “teknik cihazlar/test kitleri” şeklinde değiştirilmiştir.
-42
-
-kazasına karışması hâlinde, ikinci fıkrada belirtilen muayeneye tabi tutulması zorunludur.
+kazasına karışması hâlinde, ikinci fıkrada belirtilen muayeneye tabi tutulması zorunludur.
 Teknik cihaz ile yapılan ölçüme itiraz eden veya bu cihaz ile ölçüm yapılmasına müsaade
 etmeyen bu sürücüler, en yakın adli tıp kurumuna veya adli tabipliğe veya Sağlık Bakanlığına
 bağlı sağlık kuruluşlarına götürülerek uyuşturucu veya uyarıcı madde ya da alkol tespitinde
@@ -41,7 +37,7 @@ itibaren geriye doğru beş yıl içinde; ikinci defasında 50.000 Türk lirası
 ve sürücü belgeleri iki yıl süreyle, üç veya üçten fazlasında ise, 150.000 Türk lirası idari para
 cezası verilir ve sürücü belgeleri her seferinde beşer yıl süreyle geri alınır. Sürücü belgelerinin
 herhangi bir nedenle geçici olarak geri alınmış olması hâlinde belirtilen süreler, geçici alma
-süresinin bitiminde başlar.43
+süresinin bitiminde başlar.
 Yapılan tespit sonucunda, 1.00 promilin üzerinde alkollü olduğu tespit edilen sürücüler
 hakkında ayrıca Türk Ceza Kanununun 179 uncu maddesinin üçüncü fıkrası hükümleri uygulanır.
 Hususi otomobil sürücüleri bakımından 0.50 promilin, diğer araç sürücüleri bakımından
@@ -59,12 +55,7 @@ değerlendirmeden geçmesi ve resmî sağlık kurumlarından sürücülüğe eng
 bulunmadığını gösteren sağlık kurulu raporunun sürücü kursuna ibrazı zorunludur.
 (Değişik dokuzuncu fıkra:12/2/2026-7574/12 md.) Uyuşturucu veya uyarıcı
 maddelerin kullanılıp kullanılmadığının ya da alkolün kandaki miktarının kolluk tarafından
-12/2/2026 tarihli ve 7574 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “700 Türk Lirası”
-ibaresi “25.000 Türk lirası” şeklinde, “877 Türk Lirası” ibaresi “50.000 Türk lirası” şeklinde,
-“1.407 Türk Lirası” ibaresi “150.000 Türk lirası” şeklinde değiştirilmiştir.
-43
-
-tespit edilmesi için ölçüm yaptırmayan sürücülere 150.000 Türk lirası idari para cezası verilir
+tespit edilmesi için ölçüm yaptırmayan sürücülere 150.000 Türk lirası idari para cezası verilir
 ve sürücü belgesi beş yıl süreyle geri alınır.
 Sürücünün uyuşturucu veya uyarıcı madde kullandığından şüphe edilmesi hâlinde
 5271 sayılı Kanunun adli kolluğa ilişkin hükümleri uygulanır.
@@ -92,7 +83,9 @@ kurumlarından sürücülüğe engel hâli bulunmadığını gösteren sağlık 
 kursuna ibrazı zorunludur.
 Alkol, uyuşturucu veya uyarıcı maddelerin tespiti için kullanılacak teknik
 cihazların/test kitlerinin sahip olacağı asgari koşullar ile diğer usul ve esaslar yönetmelikte
-gösterilir.44
+gösterilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

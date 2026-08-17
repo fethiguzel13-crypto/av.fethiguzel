@@ -7,11 +7,18 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**V. Vasilikten kaçınma se bepleri**
+**V. Vasilikten kaçınma sebepleri**
 
 ---
 
-Madde 417 - Aşağıdak i kişiler vasiliği kabul etmeyebilirle r: l. Altmış yaşını doldurmuş olanlar, 2. Bedensel engelleri veya sürekli hastalıkları sebebiyle bu görev i güç lükle yapabilecek olanlar, 27 3. Dörtten çok çocuğun velisi olanlar, 4. Üzerinde va silik görevi olanlar, 5. Cu mhurbaşkanı, Türkiye Büyük Millet Mecl isi üy eleri, Cumhurbaşkanı yardımcıları, ba kanlar, hâkimlik ve savcılık mesleği mensupları. 28 VI. Vasiliğe eng el olan sebepler
+Madde 417- Aşağıdaki kişiler vasiliği kabul etmeyebilirler:
+l. Altmış yaşını doldurmuş olanlar,
+2. Bedensel engelleri veya sürekli hastalıkları sebebiyle bu görevi güçlükle yapabilecek
+olanlar,
+3. Dörtten çok çocuğun velisi olanlar,
+4. Üzerinde vasilik görevi olanlar,
+5. Cumhurbaşkanı, Türkiye Büyük Millet Meclisi üyeleri, Cumhurbaşkanı yardımcıları,
+bakanlar, hâkimlik ve savcılık mesleği mensupları.
 
 ---
 

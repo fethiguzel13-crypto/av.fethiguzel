@@ -7,24 +7,20 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**uzlaşma yoluyla yeniden yapılandırma koşullarına uymayan borçlunun cezası:126**
+**uzlaşma yoluyla yeniden yapılandırma koşullarına uymayan borçlunun cezası:**
 
 ---
 
 Madde 334- (Değişik: 31/5/2005-5358/5 md.)
 Konkordato mühleti elde etmek veya konkordato veya sermaye şirketleri ile
 kooperatiflerin uzlaşma yoluyla yeniden yapılandırma projesini tasdik ettirmek için hileli
-Bu madde başlığı “Konkordatoda yetkili kimseleri hataya düşüren veya konkordato koşullarına uymayan
-borçlunun cezası:” iken, 12/2/2004 tarihli ve 5092 sayılı Kanunun 9 uncu maddesiyle metne işlendiği şekilde
-değiştirilmiştir.
-126
-
-tutum ve davranışlarıyla malî durumu hakkında alacaklıları, komiseri, ara dönem denetçisini
+tutum ve davranışlarıyla malî durumu hakkında alacaklıları, komiseri, ara dönem denetçisini
 veya yetkili memuru hataya düşürmek veya konkordato projesine ya da sermaye şirketleri ve
 kooperatiflerin uzlaşma yoluyla yeniden yapılandırılması projesine uymamak yoluyla kasten
 zarara sebebiyet veren borçlu, ilgilinin şikâyeti üzerine altı aydan bir yıla kadar hapis cezası
 ile cezalandırılır.
-Konkordato komiserinin sorumluluğu:
+
+---
 
 ### Akademik Yorum ve Analiz
 

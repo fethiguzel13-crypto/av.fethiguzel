@@ -19,6 +19,8 @@ hüküm hakkında görüşme yapılamaz.
 hazır bulunan hâkim bulunmuyorsa, gerekli görüldüğü takdirde tarafların sözlü açıklamaları
 tekrar dinlendikten sonra müzakere edilir ve hüküm verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

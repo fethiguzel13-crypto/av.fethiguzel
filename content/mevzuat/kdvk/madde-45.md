@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Tarh zamanı**
+**Tarh zamanı:**
 
 ---
 
 Madde 45 – Katma Değer Vergisi beyannamenin verildiği günde, beyanname posta ile
 gönderilmişse, vergiyi tarh edecek daireye geldiği tarihi takibeden yedi gün içinde tarhedilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

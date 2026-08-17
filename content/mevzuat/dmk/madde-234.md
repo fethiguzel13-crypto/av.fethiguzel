@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**uygulanmıyacak maddeler**
+**İktisadi ve Ticari İlimler Akademileri öğrenim üyeleri ve yardımcılarına
+uygulanmıyacak maddeler:**
 
 ---
 
 Madde 234 – (Mülga: 23/12/1972 – KHK-2/5 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,17 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**Hak düşürücü müddet**
+**Hak düşürücü müddet:**
 
 ---
 
 Madde 284 – (Değişik: 18/2/1965-538/119 md.)
 İptal davası hakkı, batıl tasarrufun vukuu tarihinden itibaren beş sene geçmekle düşer.
 
-ONİKİNCİ BAP
-Konkordato ile Sermaye Şirketleri ve Kooperatiflerin
-Uzlaşma Yoluyla Yeniden Yapılandırılması8384
-I. ADÎ KONKORDATO85
+---
 
 ### Akademik Yorum ve Analiz
 

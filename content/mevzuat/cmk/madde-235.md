@@ -19,6 +19,8 @@ nedeniyle tebligat yapılamaması hâllerinde adresin araştırılması gerekmez
 (4) Bu kimselerin beyanının alınması zorunlu görüldüğü hâllerde üçüncü fıkra
 uygulanmaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

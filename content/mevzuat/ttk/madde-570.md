@@ -8,12 +8,12 @@ wordCount: 4299
 ---
 
 **D) Yönetim
-I
-- Uygulanacak hükümler**
+I - Uygulanacak hükümler**
 
 ---
 
-Madde 570 - (1) Anonim şirketlerin yönetim kurulunun görevleriyle sorumluluklarına ilişkin hükümleri, yönetici olan komandite ortaklar hakkında da geçerlidir.
+MADDE 570- (1) Anonim şirketlerin yönetim kurulunun görevleriyle sorumluluklarına
+ilişkin hükümleri, yönetici olan komandite ortaklar hakkında da geçerlidir.
 
 ---
 

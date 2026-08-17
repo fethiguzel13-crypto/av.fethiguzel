@@ -11,7 +11,8 @@ wordCount: 4300
 
 ---
 
-Madde 366 - Korun maya muhtaç kişilerin bakımı, bununla yükümlü kurumlar tarafından sağlanır. Bu ku rumlar, yaptıkları masrafla rı nafaka yükümlüsü hısımla rdan isteye bilirl er. İKİNCİ AYIRIM EV DÜZENİ A. Koşulları
+Madde 366- Korunmaya muhtaç kişilerin bakımı, bununla yükümlü kurumlar tarafından
+sağlanır. Bu kurumlar, yaptıkları masrafları nafaka yükümlüsü hısımlardan isteyebilirler.
 
 ---
 

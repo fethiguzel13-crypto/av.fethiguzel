@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Duyurma**
+**Duyurma:**
 
 ---
 
@@ -18,15 +18,11 @@ personelin genel ve özel şartlarını, en son başvurma tarihini, başvurulaca
 yerlerini ve zamanlarını ve gerek görülen diğer bilgileri başvurma süresinin bitiminden en az
 15 gün önce Resmi Gazete, internet haber sitesi, radyo, televizyon ve ülke çapında tirajı
 yüksek gazeteler ve Basın İlân Kurumu İlan Portalından asgari biri ve uygun görülecek diğer
-araçlar ile duyurur.110
-
-13/10/2022 tarihli ve 7418 sayılı Kanunun 28 inci maddesiyle; bu fıkraya “Resmî Gazete,” ibaresinden sonra
-gelmek üzere “internet haber sitesi,” ibaresi eklenmiş ve aynı fıkrada yer alan “gazetelerden” ibaresi
-“gazeteler ve Basın İlân Kurumu İlan Portalından” şeklinde değiştirilmiştir.
-110
-
-Sınavsız atama yapılacak yerlere kadro adedinden fazla istekli bulunduğu takdirde
+araçlar ile duyurur.
+Sınavsız atama yapılacak yerlere kadro adedinden fazla istekli bulunduğu takdirde
 açılacak sınavın gün ve yeri yukarıdaki şartlara uygun olarak ayrıca duyurulur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

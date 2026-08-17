@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
-**Motorlu araç römorkları**
+**ÜÇÜNCÜ BÖLÜM
+Özel Durumlar
+Motorlu araç römorkları:**
 
 ---
 
@@ -21,10 +23,7 @@ dolayı sorumluluğunu da kapsar.
 yaptırılarak tüm katarın en az zorunlu mali sorumluluk sigortası tutarlarının kapsamına
 girmesi sağlanmadıkça, trafiğe çıkarılamaz.
 
-14/4/2016 tarihli ve 6704 sayılı Kanunun 6 ncı maddesiyle, bu fıkrada yer alan “kaza veya zarara
-ilişkin tespit tutanağını veya bilirkişi raporunu” ibaresi “zorunlu mali sorumluluk sigortası genel
-şartlarıyla belirlenen belgeleri” şeklinde değiştirilmiştir.
-76
+---
 
 ### Akademik Yorum ve Analiz
 

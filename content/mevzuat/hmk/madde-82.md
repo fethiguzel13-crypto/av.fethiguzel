@@ -18,6 +18,8 @@ vekil de görevlendirmez ise tarafın yokluğu hâlinde uygulanacak hükümlere 
 (3) Yukarıdaki fıkralarda yer alan hususlar, istifa eden vekilin istifa dilekçesi ile
 birlikte vekâlet verene ihtaren bildirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

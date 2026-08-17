@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Kıymet takdiri**
+**Kıymet takdiri:**
 
 ---
 
 Madde 214 – Deftere geçirilen her malın kıymeti takdir olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

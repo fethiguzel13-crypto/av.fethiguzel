@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**2 – Tahliye ve teslim**
+**2 – Tahliye ve teslim:**
 
 ---
 
@@ -16,7 +16,8 @@ müddetin hitamında zorla tahliye ve kiralıyana teslim olunur. Ancak tahliye e
 müddetin geçmesi lazımdır.
 Tahliye edilecek yerde kiralıyana ait olmıyan eşya bulunursa 26 ncı maddenin hükmü
 kıyas yoliyle tatbik olunur.
-İtiraz:
+
+---
 
 ### Akademik Yorum ve Analiz
 

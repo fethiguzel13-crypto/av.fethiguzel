@@ -32,10 +32,8 @@ Serbest Muhasebecilik, Serbest Muhasebeci Malî Müşavirlik ve Yeminli Malî M�
 Kanununa göre yetki verilmiş serbest muhasebeci malî müşavirler ile yeminli malî müşavirler
 tarafından işyeri kayıtlarının incelenmesi sonucunda Kuruma bildirildiği tespit edilen işçilik
 tutarlarının uygunluğu, Kurumun denetim yetkisi saklı kalmak kaydıyla, esas alınabilir.
-
-
 Usûl ve esasları Kurumca belirlenmiş hesaplama yöntemine uygun olarak serbest
-muasebeci malî müşavirler ile yeminli malî müşavirlerce düzenlenen rapor ile Kuruma
+muhasebeci malî müşavirler ile yeminli malî müşavirlerce düzenlenen rapor ile Kuruma
 yeterli işçilik bildirilmediği anlaşılan işyeri ve işverenlerinin, tespit edilen fark işçilik tutarı
 üzerinden hesaplanacak prim, gecikme cezası ve gecikme zammı tutarını 102 nci maddenin
 birinci fıkrasının (d) bendi ile (e) bendinin (4) numaralı alt bendi uyarınca verilecek idarî para
@@ -55,11 +53,11 @@ olmadığını da tespit ederek, sigortasız çalıştırılanları Kuruma bildi
 kurumlar ayrıca kendi mevzuatları gereğince yaptıkları inceleme ve tespitler sırasında bu
 Kanuna göre sigortalı sayılanların prime esas kazançlarının veya sigortalı gün sayılarının eksik
 bildirilmesi sonucunu doğuran tespitlerini de en geç bir ay içinde Kuruma bildirirler. Kurum bu
-bildirimleri esas almak üzere gerekli yasal işlemi yapar. İlgililerin itiraz hakları saklıdır.96
+bildirimleri esas almak üzere gerekli yasal işlemi yapar. İlgililerin itiraz hakları saklıdır.
 Bu maddenin uygulanmasına ilişkin usûl ve esaslar, Kurum tarafından çıkarılacak
 yönetmelikle düzenlenir.
-ÜÇÜNCÜ KISIM
-Genel Sağlık Sigortası Hükümleri
+
+---
 
 ### Akademik Yorum ve Analiz
 

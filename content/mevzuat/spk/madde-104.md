@@ -19,6 +19,8 @@ yirmi bin Türk Lirasından beş yüz bin Türk Lirasına kadar idari para cezas
 suretle menfaat temin edilmiş olması hâlinde verilecek idari para cezasının miktarı bu
 menfaatin iki katından az olamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

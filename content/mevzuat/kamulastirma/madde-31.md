@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4296
 ---
 
-**Yasak işler ve eylemler**
+**YEDİNCİ KISIM
+Yasak İşler ve Ceza Hükümleri
+BİRİNCİ BÖLÜM
+Yasak İşler
+Yasak işler ve eylemler**
 
 ---
 
@@ -26,6 +30,8 @@ e) Kamulaştırma bedelinin tamamının veya bir kısmının avukat veya dava ve
 onlar adına hareket edenlere ait olacağının kararlaştırılması.
 f)Yukarıda yazılı bentlerde yasaklanan fiillerin avukat veya dava vekillerince bizzat
 veya aracı ile mal sahibine teklif edilmesi veya bunlara yardımcı olunması.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -27,12 +27,13 @@ takas işlemlerine ilişkin düzenlemeleri saklıdır.
 (4) Kurul, sermaye piyasası araçlarının halka satışında, yatırımcıların bunları
 almalarını kolaylaştırıcı, hak ve yararlarını koruyucu tedbirlerin alınmasını ihraççıdan, halka
 arz edenlerden, satışı yapanlardan ve ilgili borsalardan isteyebilir.
-
-(5) Sermaye artırımı nedeniyle Kurula yapılan başvurularda Kurulda geçen inceleme
+(5) Sermaye artırımı nedeniyle Kurula yapılan başvurularda Kurulda geçen inceleme
 süresi, 6102 sayılı Kanunun 456 ncı maddesindeki sermayenin tescil edilmesine ilişkin
 sürenin hesaplanmasında dikkate alınmaz.
 (6) 6102 sayılı Kanunun 346 ncı maddesi ile 462 nci maddesinin üçüncü fıkrası halka
 açık ve halka açılmak üzere Kurula başvuran ortaklıklara uygulanmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

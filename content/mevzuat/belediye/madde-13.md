@@ -23,6 +23,8 @@ Belediye sınırları içinde oturan, bulunan veya ilişiği olan her şahıs, b
 kanunlara dayanan kararlarına, emirlerine ve duyurularına uymakla ve belediye vergi, resim,
 harç, katkı ve katılma paylarını ödemekle yükümlüdür.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

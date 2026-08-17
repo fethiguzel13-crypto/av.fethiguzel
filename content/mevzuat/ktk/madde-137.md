@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4303
 ---
 
-**Yürürlüğe girme**
+**Yürürlüğe girme:**
 
 ---
 
@@ -19,6 +19,8 @@ maddesindeki işlemler tamamlandıktan sonra,
 c) (Değişik: 16/10/1984 – 3058/2 md.) Diğer maddeleri de bu Kanunun yayımı tarihinden
 20 ay sonra,
 Yürürlüğe girer.
+
+---
 
 ### Akademik Yorum ve Analiz
 

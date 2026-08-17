@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**Madde 1029**
+**Yürürlük**
 
 ---
 
-Madde 1029 - Bu Kanun 1 Ocak 2002 tarihinde yürürlüğe girer. Yürütme
+Madde 1029- Bu Kanun 1 Ocak 2002 tarihinde yürürlüğe girer.
 
 ---
 

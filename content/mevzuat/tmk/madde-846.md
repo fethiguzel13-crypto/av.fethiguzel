@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**c. Yükte n kurtarma bedeli**
+**c. Yükten kurtarma bedeli**
 
 ---
 
-Madde 846 - Gerçek değerinin daha düşük olduğ unu ispat etme hakkı saklı kalmak kaydıyla, yükten kurtarma, taşınmaz yükünün değeri olara k tapu kütüğünde gösterilen miktar üzerinden gerçekleştirilir.
+Madde 846- Gerçek değerinin daha düşük olduğunu ispat etme hakkı saklı kalmak
+kaydıyla, yükten kurtarma, taşınmaz yükünün değeri olarak tapu kütüğünde gösterilen miktar
+üzerinden gerçekleştirilir.
 
 ---
 

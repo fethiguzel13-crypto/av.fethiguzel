@@ -7,12 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**II
-- Gövde üzerine yazılma zorunluluğu**
+**II- Gövde üzerine yazılma zorunluluğu**
 
 ---
 
-Madde 939 - (1) Sicile kayıtlı bir geminin bordasının her iki tarafına adı, kıçına da adı ile bağlama limanı; silinmez, bozulmaz ve kolayca okunacak harflerle yazılır.
+MADDE 939- (1) Sicile kayıtlı bir geminin bordasının her iki tarafına adı, kıçına da
+adı ile bağlama limanı; silinmez, bozulmaz ve kolayca okunacak harflerle yazılır.
 
 ---
 

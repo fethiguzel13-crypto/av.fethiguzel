@@ -11,7 +11,7 @@ wordCount: 4269
 
 ---
 
-Madde 26- (Değişik: 29/3/2011-6215/21 md.)36
+Madde 26- (Değişik: 29/3/2011-6215/21 md.)
 Büyükşehir belediyesi kendisine verilen görev ve hizmet alanlarında, ilgili mevzuatta
 belirtilen usullere göre sermaye şirketleri kurabilir. Genel sekreter ile belediye ve bağlı
 kuruluşlarında yöneticilik sıfatını haiz personel bu şirketlerin yönetim ve denetim kurullarında
@@ -22,6 +22,8 @@ yerlerin belediye veya bağlı kuruluşlarının % 50’sinden fazlasına ortak 
 Devlet İhale Kanunu hükümlerine tabi olmaksızın belediye meclisince belirlenecek süre ve
 bedelle işletilmesini devredebilir. (Ek cümle: 12/11/2012-6360/10 md.) Ancak, bu yerlerin
 belediye şirketlerince üçüncü kişilere devri 2886 sayılı Kanun hükümlerine tabidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

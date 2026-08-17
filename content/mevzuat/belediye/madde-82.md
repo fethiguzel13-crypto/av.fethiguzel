@@ -17,6 +17,8 @@ bağlanarak karşı taraftan tahsil olunan vekâlet ücretlerinin; avukatlara (4
 1389 sayılı Devlet Davalarını İntaç Eden Avukat ve Saireye Verilecek Ücreti Vekâlet
 Hakkında Kanun hükümleri kıyas yolu ile uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

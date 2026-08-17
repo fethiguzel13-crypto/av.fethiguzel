@@ -20,6 +20,8 @@ kamuya duyurulmasına ilişkin usul ve esasları belirler.
 (3) İhraç belgesinde yer alan bilgilerin yanlış, yanıltıcı ve eksik olmasından
 kaynaklanan sorumluluk hakkında 32 nci madde uygulanır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

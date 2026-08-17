@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Duruşmanın sona ermesi ve hüküm**
+**İKİNCİ KISIM
+Kamu Davasının Sona Ermesi
+BİRİNCİ BÖLÜM
+Duruşmanın Sona Ermesi ve Hüküm
+Duruşmanın sona ermesi ve hüküm**
 
 ---
 
@@ -23,8 +27,7 @@ nedeninin bulunması,
 e) Yüklenen suçun sanık tarafından işlendiğinin sabit olmaması,
 Hallerinde verilir.
 (3) Sanık hakkında;
-
-a) Yüklenen suçla bağlantılı olarak yaş küçüklüğü, akıl hastalığı veya sağır ve dilsizlik
+a) Yüklenen suçla bağlantılı olarak yaş küçüklüğü, akıl hastalığı veya sağır ve dilsizlik
 hali ya da geçici nedenlerin bulunması,
 b) (Değişik: 25/5/2005 - 5353/30 md.) Yüklenen suçun hukuka aykırı fakat bağlayıcı
 emrin yerine getirilmesi suretiyle veya zorunluluk hali ya da cebir veya tehdit etkisiyle işlenmesi,
@@ -54,6 +57,8 @@ verilir. Bu karara itiraz edilebilir.
 olmadığı kararı verilemez.
 (10) Adlî yargı dışındaki bir yargı merciine yönelik görevsizlik kararı kanun yolu
 bakımından hüküm sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

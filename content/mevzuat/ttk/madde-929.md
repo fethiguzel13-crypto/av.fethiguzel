@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4294
 ---
 
-**II
-- Yardımcıların kusuru**
+**II - Yardımcıların kusuru**
 
 ---
 
-Madde 929 - (1) Taşıma işleri komisyoncusu; a) Kendi adamlarının, b) Taşımanın yerine getirilmesi için yararlandığı ki şilerin, görevlerini yapmaları sırasındaki fiil ve ihmallerinden, kendi fiil ve ihmali gibi sorumludur.
+MADDE 929- (1) Taşıma işleri komisyoncusu;
+a) Kendi adamlarının,
+b) Taşımanın yerine getirilmesi için yararlandığı kişilerin,
+görevlerini yapmaları sırasındaki fiil ve ihmallerinden, kendi fiil ve ihmali gibi
+sorumludur.
 
 ---
 

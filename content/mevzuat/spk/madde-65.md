@@ -7,13 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Borsalar ve piyasa işleticileri**
+**Türkiye Sermaye Piyasaları Birliği ve Diğer Kurumlar
+BİRİNCİ BÖLÜM
+Borsalar
+Borsalar ve piyasa işleticileri**
 
 ---
 
 MADDE 65 – (1) Borsaların ve piyasa işleticilerinin kuruluşuna Kurulun uygun
 görüşü üzerine Cumhurbaşkanı tarafından izin verilir. Bu kuruluşların faaliyete geçmesi
-Kurulun iznine tabidir.5
+Kurulun iznine tabidir.
 (2) Kuruluş izni verilebilmesi için, borsalar ve piyasa işleticilerinin;
 a) Anonim şirket şeklinde kurulmaları,
 b) Paylarının tamamının nama yazılı olması,
@@ -28,11 +31,7 @@ gerekir.
 işleticisi tarafından yapılabilir. Borsalar ve piyasa işleticilerinin kurulmasına izin verilirken,
 yurt içi ve yurt dışı finansal piyasaların genel durumu ile sistemik risk unsurları göz önünde
 bulundurulur.
-2/7/2018 tarihli ve 703 sayılı KHK’nin 165 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu”
-ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-5
-
-(4) Kuruluşuna izin verilen borsanın kuruluş izninin alınmasını takiben en geç bir yıl
+(4) Kuruluşuna izin verilen borsanın kuruluş izninin alınmasını takiben en geç bir yıl
 içinde Kuruldan faaliyet izni almak üzere başvuruda bulunulması şarttır. Faaliyet izin
 başvuruları, başvuru sırasında aranan bilgi ve belgelerin eksiksiz olarak Kurula
 sunulmasından itibaren altı ay içinde Kurul tarafından karara bağlanır ve keyfiyet ilgililere
@@ -72,8 +71,7 @@ faaliyetlerin denetimine, faaliyetlerinin geçici ve sürekli olarak durdurulmas
 işleticisine ilişkin ilke ve esaslar Kurul tarafından çıkarılacak bir yönetmelikle belirlenir. Söz
 konusu hususlar, ilgili borsa tarafından hazırlanarak Kurul tarafından onaylanan bir
 yönetmelikle de belirlenebilir.
-
-(10) Bu Kanunda yer alan hükümler saklı kalmak kaydıyla, borsalar özel hukuk
+(10) Bu Kanunda yer alan hükümler saklı kalmak kaydıyla, borsalar özel hukuk
 hükümlerine tabi olup, bu Kanunla verilen görev ve yetkileri kendi sorumlulukları altında
 bağımsız olarak yerine getirirler ve kullanırlar. Borsalar, bütçelerini ve personel kadrolarını
 esas sözleşmelerinde belirtilen organları aracılığıyla kendileri belirler. Borsalar, bunların bağlı
@@ -84,6 +82,8 @@ hükümlerine, kısıtlamalarına ve uygulamalarına tabi tutulamaz.
 ve 4857 sayılı İş Kanununa göre çalışan personel ile ihtilaflarında iş mahkemeleri görevlidir.
 (12) Borsa başkanı ve yönetim kurulu üyeleri ve üst yönetimi hakkında, bu Kanunda
 yer alan faaliyetleri nedeniyle soruşturma yapılabilmesi Kurulun yazılı iznine bağlıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,27 +7,21 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Evlenmenin bildirilmesi ve tescili**
+**Başvurma usulü:**
 
 ---
 
-MADDE 23- (1) 22 nci madde uyarınca evlendirme işlemini yapanlar; evlenmenin
-yapıldığı tarihten itibaren on gün içinde düzenlenecek evlenme bildirimini nüfus müdürlüğüne
-göndermekle, nüfus müdürlüğü de tescil etmekle yükümlüdür.
-(2) Evlenen kadının kaydı kocasının hanesine taşınır. Kocası ölen kadın yeniden
-evlenmedikçe ölen kocasının aile kütüğünde kalır. Ancak dilerse babasının kütüğüne dönebilir.
-(3) Dış temsilciliklerce yapılan evlenmeler, evlenmenin yapıldığı tarihten itibaren otuz
-gün içinde nüfus müdürlüklerine bildirilir.
-(4) Mülga 743 sayılı Türk Kanunu Medenisinin yürürlüğe girdiği 4/10/1926 tarihinden
-önce eski hükümlere göre yapılıp da halen nüfus kütüklerine tescil edilmemiş olan evlenmeler
-ilgililerin mahkemeden karar almaları suretiyle aile kütüğüne tescil edilir.
+Madde 23 – (Değişik: 13/6/2000 - 4579/2 md.)
+İlan edilen noterliğe başvuranlar, 7 nci maddenin (1), (5) ve sonraki bentlerinde yazılı
+şartları kaybetmediklerini gösterir belgeleri ile askerlik hizmetini yaptıklarına veya askerlik
+hizmetine elverişli olmadıklarına ilişkin belgeyi Adalet Bakanlığına veya Bakanlığa gönderilmek
+üzere bulundukları yer Cumhuriyet Savcılığına verecekleri dilekçelerine iliştirmek zorundadırlar.
+Adalet Bakanlığınca verilen süre içerisinde noksan belgelerini tamamlamıyan kişilerin
+istemi nazara alınmaz.
+Başvurma tarihinde noter bulunanlar hakkında yukarıki fıkralar hükmü uygulanmaz.
+9 uncu maddenin son fıkrası hükmü bu halde de uygulanır.
 
-29/5/2009 tarihli ve 5901 sayılı Kanunun 47 nci maddesiyle; bu fıkrada bulunan "il ve ilçe" ibaresi
-yürürlükten kaldırılmıştır.
-7
-19/10/2017 tarihli ve 7039 sayılı Kanunun 6 ncı maddesiyle, bu fıkraya “dış temsilciliklere”
-ibaresinden sonra gelmek üzere “, il ve ilçe müftülüklerine” ibaresi eklenmiştir.
-6
+---
 
 ### Akademik Yorum ve Analiz
 

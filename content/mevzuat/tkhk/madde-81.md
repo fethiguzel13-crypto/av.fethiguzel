@@ -18,6 +18,8 @@ hâlinde buna ilişkin tüm giderler üretici veya ithalatçıdan Amme Alacaklar
 Hakkında Kanun hükümlerine göre tahsil olunur. Tahsil olunan test ve muayene ücretleri
 bütçeye gelir kaydedilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

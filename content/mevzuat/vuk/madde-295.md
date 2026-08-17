@@ -7,14 +7,14 @@ lastReviewed: "2026-07-27"
 wordCount: 3605
 ---
 
-**Ticari sermayeye dahil olsun veya olmasın senetli ve**
+**Alacak ve borçlar:**
 
 ---
 
-Madde 295 - Ticari sermayeye dahil olsun veya olmasın senetli ve
-senetsiz bütün alacak ve borçlar ikinci bölümdeki hükümlere göre değerlenir.
+Madde 295 – Ticari sermayeye dahil olsun veya olmasın senetli ve senetsiz bütün
+alacak ve borçlar ikinci bölümdeki hükümlere göre değerlenir.
 
-Haklar:
+---
 
 ### Akademik Yorum ve Analiz
 

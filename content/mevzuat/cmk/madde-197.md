@@ -7,14 +7,14 @@ lastReviewed: "2026-07-27"
 wordCount: 3283
 ---
 
-**md.; Yeniden düzenleme: 24/11/2016-6763/25 md.) Suç işlemek amacıyla örgüt kurma (**
+**Sanığın müdafi gönderebilmesi**
 
 ---
 
-Madde 197 - ),
+Madde 197 – (1) Sanık hazır bulunmasa da müdafii bütün oturumlarda hazır
+bulunmak yetkisine sahiptir.
 
-10. (Mülga: 21/2/2014 – 6526/10
-md.; Yeniden düzenleme: 24/11/2016-6763/25 md.) Suç işlemek amacıyla örgüt kurma (
+---
 
 ### Akademik Yorum ve Analiz
 

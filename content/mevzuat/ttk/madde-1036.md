@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**Madde 1036**
+**bb) Alacağın malike geçmesi**
 
 ---
 
-Madde 1036 - (1) Malik aynı zamanda borçlu değilse, alacaklının hakkını yerine getirdiği ölçüde alacak kendisine geçer. Geçiş, alacaklının zararına ileri sürülemez. (2) Borçlunun malik ile olan hukuki ilişkilerinden doğan itiraz hakları saklıdır. (3) Alacak için birlikte gemi ipoteği mevcutsa, 1046 ncı madde hükmü uygulanır. cc) Gemi malikinin belgelerin verilmesini istem hakkı
+MADDE 1036- (1) Malik aynı zamanda borçlu değilse, alacaklının hakkını yerine
+getirdiği ölçüde alacak kendisine geçer. Geçiş, alacaklının zararına ileri sürülemez.
+(2) Borçlunun malik ile olan hukuki ilişkilerinden doğan itiraz hakları saklıdır.
+(3) Alacak için birlikte gemi ipoteği mevcutsa, 1046 ncı madde hükmü uygulanır.
 
 ---
 

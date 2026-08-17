@@ -7,17 +7,20 @@ lastReviewed: "2026-07-20"
 wordCount: 4318
 ---
 
-**Derece yükselmesinin usul ve şartları**
+**Derece yükselmesinin usul ve şartları:**
 
 ---
 
 Madde 68 – (Değişik: 12/2/1982 - 2595/5 md.)
-
+4/7/2001 tarih ve 631 sayılı Kanun Hükmünde Kararnamenin 3 üncü maddesi ile; bu maddede yer alan
+“boş” ibaresi, metinden çıkarılmış ve “bir üst derecesine yükseltilebilir” ibaresi, “üst derecelerine
+yükseltilir” şeklinde değiştirilmiştir.
 A) Derece yükselmesi yapılabilmesi için:
 a) (Değişik: 26/6/1984 - KHK 241/4 md.) Üst derecelerden boş bir kadronun
 bulunması,
 b) Derecesi içinde en az 3 yıl ve bu derecenin 3 üncü kademesinde 1 yıl bulunmuş,
 c) Kadronun tahsis edildiği görev için öngörülen nitelikleri elde etmiş,
+d) (Mülga: 13/2/2011 - 6111/101 md.)
 olması şarttır.
 B) (Değişik: 4/5/1984 – KHK-199/1 md.) Eğitim ve Öğretim Hizmetleri Sınıfı ile
 Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfı hariç, sınıfların 1, 2, 3 ve 4 üncü
@@ -41,17 +44,15 @@ sürelerin tamamı ile yükseköğrenim gördükten sonra özel kurumlarda veya 
 müsteşar yardımcıları ile en üst yönetici konumundaki genel müdür ve başkan kadrolarına
 atanacaklar için tamamı, diğer kadrolara atanacaklar için altı yılı geçmemek üzere dörtte üçü
 dikkate alınır.
+(Ek fıkra: 26/8/1993 – KHK-501/1 md.; İptal Anayasa Mahkemesinin 6/10/1993
+tarihli ve E. 1993/32, K. 1993/32 sayılı kararı ile)
 Bu bent hükümlerine göre atananlar atandıkları kadronun aylık (Ek gösterge dahil) ve
 diğer haklarından yararlanırlar. Bu suretle üst dereceye atananların bu kadrolarda geçirdikleri
 her yıl kademe ilerlemesi ve her "3" yıl derece yükselmesi sayılmak suretiyle kazanılmış hak
 ve emeklilik keseneğine esas aylık derecelerinin yükselmesinde gözönüne alınır. Ancak
 atandıkları kadro aylıkları, başka görevlere atanma halinde kazanılmış hak sayılmaz.
-(Ek paragraf: 2/7/2018 - KHK-703/172 md.) Cumhurbaşkanı onayıyla yapılan
-atamalarda Cumhurbaşkanlığı kararnamesinde öngörülen hizmet süresi şartları aranır. Üst
-kademe kamu yöneticisi sayılmayan daire başkanı ve bu kadrolara denk yönetici kadrolarına
-yapılacak atamalarda bu bentte öngörülen hizmet süresi yükseköğrenim gördükten sonra beş
-yıl olarak uygulanır. Ancak bu beş yıllık sürenin hesabında Devlet memurlarının kazanılmış
-hak aylık derece ve kademesinde değerlendirilen hizmet süreleri esas alınır.
+(Ek paragraf: 2/7/2018 - KHK-703/172 md.) (Mülga paragraf:24/7/2026-7590/2
+md.)
 C) (Ek: 13/2/2011 - 6111/101 md.) Derece yükselmesi ile ilgili onay mercii atamaya
 yetkili amirdir. Müşterek kararla atanmış olanların derece yükselmeleri, ilgili bakanın veya
 yetkili kıldığı makamın onayı ile yapılır. Üst derece kadroya atanmış olup da kazanılmış hak
@@ -59,6 +60,8 @@ ve emeklilik keseneğine esas aylık dereceleri daha aşağıda bulunanların (4
 ikinci fıkrasına göre yapılan atamalar hariç), kazanılmış hak ve emeklilik keseneğine esas
 aylık derecelerinin yükseltilmeleri için, bu hâlin devamı süresince yukarıda belirtilen onay
 aranmaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

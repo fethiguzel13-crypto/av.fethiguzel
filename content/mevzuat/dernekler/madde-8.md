@@ -17,6 +17,8 @@ sona erme hükümleri uygulanır.
 Federasyonlar ve konfederasyonlar temsilcilik dışında her ne ad altında olursa olsun,
 başka bir örgüt kuramazlar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

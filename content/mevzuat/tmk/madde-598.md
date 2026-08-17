@@ -11,7 +11,14 @@ wordCount: 4317
 
 ---
 
-Madde 598 - Başvurusu üzerine yasal mirasçı oldukları belirlenenlere, sulh mahkemesince veya noter likçe mirasçılık sıfatlarını gösteren bir belge verilir. 31 Mirasçı atamaya veya vasiyete il işkin ölüme bağlı tasarrufa mirasçılar veya başka vasiyet alacaklıları tarafından kendilerine bildirilmesinden başlayarak bir ay içinde itiraz edilmedikçe, lehine tas arrufta bulunulan kimseye, sulh mahkemesince atanmış mirasçı veya vasiyet alacaklısı olduğ unu gösteren bir belge veri lir. Mirasçılık belgesinin geçersizliği her zaman ileri sürülebilir. Ölüme bağlı tasarrufun iptaline ilişkin dava hakkı saklıdır. İKİNCİ A YIRIM MİRASIN KAZANILMASI A. Kazanma I. Mirasçılar tarafından
+Madde 598- Başvurusu üzerine yasal mirasçı oldukları belirlenenlere, sulh mahkemesince
+veya noterlikçe mirasçılık sıfatlarını gösteren bir belge verilir.
+Mirasçı atamaya veya vasiyete ilişkin ölüme bağlı tasarrufa mirasçılar veya başka vasiyet
+alacaklıları tarafından kendilerine bildirilmesinden başlayarak bir ay içinde itiraz edilmedikçe,
+lehine tasarrufta bulunulan kimseye, sulh mahkemesince atanmış mirasçı veya vasiyet alacaklısı
+olduğunu gösteren bir belge verilir.
+Mirasçılık belgesinin geçersizliği her zaman ileri sürülebilir.
+Ölüme bağlı tasarrufun iptaline ilişkin dava hakkı saklıdır.
 
 ---
 

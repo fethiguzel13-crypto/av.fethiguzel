@@ -7,11 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
-**özel usulsüzlük cezası kesilmesini gerektirmesi halinde bu cezalardan en ağırı kesilir.**
+Madde 356 – (Mülga: 30/12/2004-5281/44 md.)
 
 ---
-
-Madde 356 – (Mülga: 30/12/2004-5281/44 md.)
 
 ### Akademik Yorum ve Analiz
 

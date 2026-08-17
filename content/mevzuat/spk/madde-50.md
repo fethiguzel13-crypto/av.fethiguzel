@@ -24,8 +24,7 @@ belirlenen esaslar çerçevesinde Kurul iznine tabidir. Kurul onayı alınmaksı
 kurucu pay devirleri pay defterine kaydolunmaz ve bu hükme aykırı olarak pay defterine
 yapılan kayıtlar hükümsüzdür. Yatırımcı payları, sahibine idari haklar vermez.
 (3) Değişken sermayeli yatırım ortaklıkları, bu Kanundaki hükümlere uygun olarak, pay
-
-ihraç eder ve ihraç olunan payları itfa eder. Değişken sermayeli yatırım ortaklıkları, pay sahibinin
+ihraç eder ve ihraç olunan payları itfa eder. Değişken sermayeli yatırım ortaklıkları, pay sahibinin
 talebi üzerine payları itfa etmek ve ortaklık sermayesinde buna karşılık gelen pay bedelini geri
 ödemekle yükümlüdür. Payların itfa edilmesine ilişkin usul ve esaslar esas sözleşmede gösterilir.
 (4) Değişken sermayeli yatırım ortaklıklarının kurucu paylarının değerinin Kurulca
@@ -44,6 +43,8 @@ Kurulca belirlenir.
 portföyünde bulunan varlıkların ve hakların değerlemesine, varlıklarının saklanmasına, portföy
 sınırlamalarına, izahnameye ve izahnamenin yayımlanmasına, paylarının ihraç, satış, itfa ve
 itfasının durdurulmasına, tasfiye ve sona ermelerine ilişkin usul ve esaslar Kurulca belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

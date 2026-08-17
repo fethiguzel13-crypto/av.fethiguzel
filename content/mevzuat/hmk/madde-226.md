@@ -18,6 +18,8 @@ görülmediği hâller.
 c) Yemin edecek kimsenin namus ve onurunu etkileyecek veya onu ceza soruşturması
 ya da kovuşturması ile karşı karşıya bırakacak vakıalar.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

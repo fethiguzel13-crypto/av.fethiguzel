@@ -7,14 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**8. Alıcının sözleşmeden cayma hakkı ve bu sebeple ödeyeceği cayma parası.
-9. Sözleşmenin kurulduğu yer ve tarih.
-2. Tarafların hak ve borçları
+**2. Tarafların hak ve borçları
 a. Ödemelerin güvenceye bağlanması**
 
 ---
 
-Madde 265 - Ödeme süresi bir yıldan daha uzun veya belirsiz olan sözleşmelerde
+MADDE 265- Ödeme süresi bir yıldan daha uzun veya belirsiz olan sözleşmelerde
 alıcı, ödemeleri sözleşmede belirtilen bir bankada kendi adına açılacak gelir getiren bir
 tasarruf veya yatırım hesabına yatırmakla yükümlüdür.
 Banka, her iki tarafın çıkarlarını gözetmek zorundadır. Açılan hesaptan her iki tarafın

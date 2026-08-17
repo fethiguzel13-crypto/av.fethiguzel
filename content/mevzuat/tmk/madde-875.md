@@ -11,7 +11,13 @@ wordCount: 4260
 
 ---
 
-Madde 875 - Taşınmaz rehninin alacaklıy a sağladığı güvencenin kapsamına şunlar girer: 1. Ana para, 2. Takip giderleri ve gecikme faizi, 3. İflâsın açıldığı veya rehnin paraya çevrilmesinin istendiği tarihe kadar muaccel olmuş üç yıll ık faiz ile son vadeden başlayarak işleyen faiz. Daha önce bel irlenmiş olan faiz oranı, sonradan gelen alacaklıların zararına olarak artırılamaz.
+Madde 875- Taşınmaz rehninin alacaklıya sağladığı güvencenin kapsamına şunlar girer:
+1. Ana para,
+2. Takip giderleri ve gecikme faizi,
+3. İflâsın açıldığı veya rehnin paraya çevrilmesinin istendiği tarihe kadar muaccel olmuş
+üç yıllık faiz ile son vadeden başlayarak işleyen faiz.
+Daha önce belirlenmiş olan faiz oranı, sonradan gelen alacaklıların zararına olarak
+artırılamaz.
 
 ---
 

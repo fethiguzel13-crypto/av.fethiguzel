@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4290
 ---
 
-**Madde 824**
+**BEŞİNCİ KISIM
+Kambiyo Senetlerine Benzeyen Senetler ve Diğer Emre Yazılı Senetler
+A) Emre yazılı senet
+I - Tanımı**
 
 ---
 
-Madde 824 - (1) Emre yazılı olan veya kanunen böyle sayılan kıymet li evrak, emre yazılı senetlerdendir.
+MADDE 824- (1) Emre yazılı olan veya kanunen böyle sayılan kıymetli evrak, emre
+yazılı senetlerdendir.
 
 ---
 

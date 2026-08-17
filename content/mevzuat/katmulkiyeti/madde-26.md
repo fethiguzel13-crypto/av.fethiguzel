@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**B) Kat irtifakı sahiplerinin borçları**
+**B) Kat irtifakı sahiplerinin borçları:**
 
 ---
 
@@ -18,9 +18,13 @@ kolaylaştırmakla, karşılıklı olarak yükümlüdürler.
 (Değişik ikinci fıkra: 14/11/2007-5711/13 md.) Kat irtifakı sahiplerinden biri kendine
 düşen borçları, noter aracılığıyla yapılan ihtara rağmen, bu ihtar tarihinden başlayarak iki ay
 içinde yerine getirmezse diğerlerinin yazılı istemi üzerine hâkim, onun arsa payının ve kat
-irtifakının hükme en yakın tarihteki değeri karşılığında, öteki paydaşlara, arsa payları oranında devrine karar verir.
-Kat irtifakı sahiplerinden birinin kusuru yüzünden, yapının kanuni süre içinde yapılamaması sebebiyle kat irtifakı düşerse, kusurlu taraf diğerlerinin bu yüzden uğradıkları zararı
+irtifakının hükme en yakın tarihteki değeri karşılığında, öteki paydaşlara, arsa payları oranın-
+da devrine karar verir.
+Kat irtifakı sahiplerinden birinin kusuru yüzünden, yapının kanuni süre içinde yapıla-
+maması sebebiyle kat irtifakı düşerse, kusurlu taraf diğerlerinin bu yüzden uğradıkları zararı
 tazminle yükümlüdür.
+
+---
 
 ### Akademik Yorum ve Analiz
 

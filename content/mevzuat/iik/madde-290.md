@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**Konkordato komiseri ve alacaklılar kurulu ile bunların görevleri:90**
+**Konkordato komiseri ve alacaklılar kurulu ile bunların görevleri:**
 
 ---
 
@@ -21,11 +21,7 @@ c) Bu kanunda verilen görevleri yapmak.
 d) Mahkemenin istediği konularda ve uygun göreceği sürelerde ara raporlar sunmak.
 e) Alacaklılar kurulunu konkordatonun seyri hakkında düzenli aralıklarla
 bilgilendirmek.
-Bu maddenin “Mühletin borçlu bakımından sonuçları:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
-Kanunun 18 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-90
-
-f) Talepte bulunan diğer alacaklılara konkordatonun seyri ve borçlunun güncel malî
+f) Talepte bulunan diğer alacaklılara konkordatonun seyri ve borçlunun güncel malî
 durumu hakkında bilgi vermek.
 g) Mahkeme tarafından verilen diğer görevleri yerine getirmek.
 8 inci, 10 uncu, 11 inci, 16 ncı, 21 inci ve 359 uncu maddeler hükümleri kıyas yoluyla
@@ -37,6 +33,8 @@ tarafından oluşturulan komiser listesinden seçilir. Listeye kayıt için Adal
 tarafından izin verilen kurumlardan alınacak eğitimin tamamlanmış olması zorunludur.
 Ayrıca, Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu, komiser olarak
 görevlendirilebilecek, yetkilendirilmiş bağımsız denetçileri liste hâlinde bilirkişilik bölge
+Bu maddenin “Mühletin borçlu bakımından sonuçları:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
+Kanunun 18 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 kurullarına bildirir. Listede görevlendirilecek komiser bulunmaması hâlinde liste dışından
 görevlendirme yapılır ve bu durum bölge kuruluna bildirilir. Bir kişi eş zamanlı olarak beşten
 fazla dosyada geçici komiser ve komiser olarak görev yapamaz. Komiserin sorumlulukları
@@ -49,6 +47,8 @@ bulunabilir ve kanunun öngördüğü hâllerde mahkemeye görüş bildirir. Ala
 komiserin faaliyetlerini yeterli bulmazsa, mahkemeden komiserin değiştirilmesini gerekçeli
 bir raporla isteyebilir. Mahkeme bu talep hakkında borçluyu ve komiseri dinledikten sonra
 kesin olarak karar verir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

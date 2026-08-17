@@ -16,6 +16,8 @@ belirtilen hizmetlerle ilgili olarak, çocuk ve kadının insan hakları ile kad
 konusunda eğitim almış ve ilgili kolluk birimlerince belirlenmiş olan yeteri kadar personel
 tarafından yerine getirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

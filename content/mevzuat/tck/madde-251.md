@@ -16,6 +16,8 @@ denetimle yükümlü kamu görevlisi, işlenen suçun müşterek faili olarak so
 (2) Denetim görevini ihmal ederek, zimmet veya irtikap suçunun işlenmesine imkan
 sağlayan kamu görevlisi, üç aydan üç yıla kadar hapis cezası ile cezalandırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -11,7 +11,10 @@ wordCount: 4291
 
 ---
 
-Madde 1007 - Tapu sicilinin tutulmasından doğan bütün zararlardan Devlet sorumludur. Devlet, zararın doğmasında kusuru bulunan gör evlilere rücu eder. Devletin sorumluluğuna ilişkin davalar, t apu sicilinin bulunduğu yer mahkemesinde görülür.
+Madde 1007- Tapu sicilinin tutulmasından doğan bütün zararlardan Devlet sorumludur.
+Devlet, zararın doğmasında kusuru bulunan görevlilere rücu eder.
+Devletin sorumluluğuna ilişkin davalar, tapu sicilinin bulunduğu yer mahkemesinde
+görülür.
 
 ---
 

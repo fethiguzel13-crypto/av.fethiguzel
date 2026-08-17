@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4273
 ---
 
-**Zehirli madde katma**
+**ÜÇÜNCÜ BÖLÜM
+Kamunun Sağlığına Karşı Suçlar
+Zehirli madde katma**
 
 ---
 
@@ -17,6 +19,8 @@ kişilerin hayatını ve sağlığını tehlikeye düşüren kimseye iki yıldan
 cezası verilir.
 (2) Yukarıdaki fıkrada belirtilen fiillerin dikkat ve özen yükümlülüğüne aykırı olarak
 işlenmesi halinde, üç aydan bir yıla kadar hapis cezasına hükmolunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

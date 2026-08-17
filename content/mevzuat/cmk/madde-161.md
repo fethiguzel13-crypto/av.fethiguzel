@@ -15,13 +15,7 @@ Madde 161 – (1) Cumhuriyet savcısı, doğrudan doğruya veya emrindeki adlî 
 görevlileri aracılığı ile her türlü araştırmayı yapabilir; yukarıdaki maddede yazılı sonuçlara
 varmak için bütün kamu görevlilerinden her türlü bilgiyi isteyebilir. Cumhuriyet savcısı, adlî
 görevi gereğince nezdinde görev yaptığı mahkemenin yargı çevresi dışında bir işlem yapmak
-
-15/8/2017 tarihli ve 694 sayılı KHK’nin 145 inci maddesiyle, bu fıkra eklenmiş ve diğer fıkra buna
-göre teselsül ettirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun 140 ıncı
-maddesiyle aynen kabul edilerek kanunlaşmıştır.
-60
-
-ihtiyacı ortaya çıkınca, bu hususta o yer Cumhuriyet savcısından söz konusu işlemi yapmasını
+ihtiyacı ortaya çıkınca, bu hususta o yer Cumhuriyet savcısından söz konusu işlemi yapmasını
 ister.
 (2) Adlî kolluk görevlileri, elkoydukları olayları, yakalanan kişiler ile uygulanan
 tedbirleri emrinde çalıştıkları Cumhuriyet savcısına derhâl bildirmek ve bu Cumhuriyet
@@ -39,7 +33,7 @@ veya ihmalleri görülen kolluk âmir ve memurları hakkında Cumhuriyet savcıl
 doğruya soruşturma yapılır. Vali ve kaymakamlar hakkında 2.12.1999 tarihli ve 4483 sayılı
 Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun hükümleri, en üst
 dereceli kolluk amirleri hakkında ise, hâkimlerin görevlerinden dolayı tâbi oldukları yargılama
-usulü uygulanır.61
+usulü uygulanır.
 (6) (Değişik: 2/1/2017-KHK-680/9 md.; Aynen kabul: 1/2/2018-7072/8 md.) Vali
 ve kaymakamların kişisel suçları hakkında soruşturma ve kovuşturma yapma yetkisi, ilgilinin
 görev yaptığı yerin bağlı olduğu bölge adliye mahkemesinin bulunduğu yerdeki il Cumhuriyet
@@ -61,14 +55,14 @@ Bu fıkraya 25/5/2005 tarihli ve 5353 sayılı Kanunun 24 üncü maddesiyle; "44
 Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun Hükümleri" ibaresinden sonra gelmek
 üzere ", en üst dereceli kolluk amirleri hakkında ise, hâkimlerin görevlerinden dolayı tâbi oldukları
 yargılama usulü" ibaresi eklenmiştir.
-61
-
-kovuşturma yapma yetkisi, Ankara Cumhuriyet Başsavcılığı ve bu yer ağır ceza mahkemesine
+kovuşturma yapma yetkisi, Ankara Cumhuriyet Başsavcılığı ve bu yer ağır ceza mahkemesine
 aittir. Soruşturmayı Cumhuriyet Başsavcısı veya görevlendireceği vekili bizzat yapar.
 Başsavcı veya vekili, suçun işlendiği yer Cumhuriyet savcısından soruşturmanın kısmen veya
 tamamen yapılmasını isteyebilir. Gecikmesinde sakınca bulunan hâllerde suçun işlendiği yer
 Cumhuriyet savcısı zorunlu olan delilleri toplar ve gerekmesi hâlinde alınacak kararlar
 bakımından bulunduğu yer sulh ceza hâkimliğinden talepte bulunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

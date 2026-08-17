@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**İcranın geri bırakılması**
+**İcranın geri bırakılması:**
 
 ---
 
@@ -24,10 +24,10 @@ Toplu Konut İdaresi Başkanlığının rehinle temin edilmiş alacaklarının t
 fıkrada yer alan oran yüzde otuz olarak uygulanır. İstinaf talebinin reddi halinde, teminat
 olarak alınan tutarın yarısı tazminat olarak alacaklıya ödenir. Alacaklının satış talebinden
 sonra takdir edilen ve kesinleşen kıymete göre, merhunun alacağı karşılamayacağı anlaşılırsa
-
-kalan tutar teminatın geriye kalan kısmından karşılanır, varsa teminatın kalan kısmı teminatı
+kalan tutar teminatın geriye kalan kısmından karşılanır, varsa teminatın kalan kısmı teminatı
 yatırana iade edilir.
-2 – Ödeme emri:
+
+---
 
 ### Akademik Yorum ve Analiz
 

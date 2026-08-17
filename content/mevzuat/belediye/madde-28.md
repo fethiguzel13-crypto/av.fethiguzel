@@ -16,6 +16,8 @@ iki yıl süreyle, meclis üyeleri ise görevleri süresince ve görevlerinin so
 bir yıl süreyle, belediye ve bağlı kuruluşlarına karşı doğrudan doğruya veya dolaylı olarak
 taahhüde giremez, komisyonculuk ve temsilcilik yapamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

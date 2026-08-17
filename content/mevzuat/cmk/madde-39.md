@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Sürelerin hesaplanması**
+**İKİNCİ BÖLÜM
+Süreler ve Eski Hâle Getirme
+Sürelerin hesaplanması**
 
 ---
 
@@ -19,6 +21,8 @@ itibarıyla karşılığı olan günün mesai saati bitiminde sona erer.
 karşılığı olan günün mesai saati bitiminde sona erer. Son bulduğu ayda sayı itibarıyla karşılığı
 olan gün yoksa; süre, ayın son günü mesai saati bitiminde sona erer.
 (4) Son gün bir tatile rastlarsa süre, tatilin ertesi günü biter.
+
+---
 
 ### Akademik Yorum ve Analiz
 

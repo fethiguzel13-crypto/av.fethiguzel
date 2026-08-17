@@ -22,6 +22,8 @@ lehine kusur etmiş ise.
 c) Sanık beraat ettikten sonra suçla ilgili olarak hâkim önünde güvenilebilir nitelikte
 ikrarda bulunmuşsa.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

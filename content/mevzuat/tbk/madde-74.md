@@ -12,7 +12,7 @@ I. Ceza hukuku ile ilişkisinde**
 
 ---
 
-Madde 74 - Hâkim, zarar verenin kusurunun olup olmadığı, ayırt etme gücünün
+MADDE 74- Hâkim, zarar verenin kusurunun olup olmadığı, ayırt etme gücünün
 bulunup bulunmadığı hakkında karar verirken, ceza hukukunun sorumlulukla ilgili
 hükümleriyle bağlı olmadığı gibi, ceza hâkimi tarafından verilen beraat kararıyla da bağlı
 değildir.

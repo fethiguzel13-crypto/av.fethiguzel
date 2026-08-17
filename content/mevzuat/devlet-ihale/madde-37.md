@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**Tekliflerin hazırlanması**
+**KAPALI TEKLİF USULÜ
+Tekliflerin hazırlanması:**
 
 ---
 
@@ -21,6 +22,8 @@ Teklif mektuplarının istekli tarafından imzalanması ve bu mektuplarda şartn
 eklerinin tamamen okunup kabul edildiğinin belirtilmesi, teklif edilen fiyatın rakam ve yazı
 ile açık olarak yazılması zorunludur. Bunlardan herhangi birine uygun olmayan veya üzerinde
 kazıntı, silinti veya düzeltme bulunan teklifler reddolunarak hiç yapılmamış sayılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

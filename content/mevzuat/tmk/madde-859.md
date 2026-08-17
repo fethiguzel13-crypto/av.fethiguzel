@@ -7,12 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**III. Taşınmazların birleştirilmes i
+**III. Taşınmazların birleştirilmesi
 1. Rehnin başka taşınmaz üzerine geçmesi**
 
 ---
 
-Madde 859 - Yetkili kamu kurum veya kuruluşu tarafından gerçekleştirilen parsel birleştirilmesi ve dağıtımı iş lemi sonucunda birleştirilen parsel üzerindeki rehinler, sıralarını koruyarak o parselin yerine verilen taşınmaz üzerine geçer. Birleştirme sonucunda meydana gelen ta şınmaz, değişik alacaklar için rehinli veya bazıları rehinsiz birden çok parselin yerini a lırsa; bu taşınmaz üzerine geçen rehin hakları, taşınmazı bütün olarak kapsar ve olanak ölçüsünde sırala rını korurlar.
+Madde 859- Yetkili kamu kurum veya kuruluşu tarafından gerçekleştirilen parsel
+birleştirilmesi ve dağıtımı işlemi sonucunda birleştirilen parsel üzerindeki rehinler, sıralarını
+koruyarak o parselin yerine verilen taşınmaz üzerine geçer.
+Birleştirme sonucunda meydana gelen taşınmaz, değişik alacaklar için rehinli veya
+bazıları rehinsiz birden çok parselin yerini alırsa; bu taşınmaz üzerine geçen rehin hakları,
+taşınmazı bütün olarak kapsar ve olanak ölçüsünde sıralarını korurlar.
 
 ---
 

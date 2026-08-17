@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Amaç ve kapsam1**
+**Amaç ve kapsam**
 
 ---
 
@@ -16,6 +16,8 @@ konfederasyonlar, merkezleri yurt dışında bulunan dernekler ve vakıflar ile 
 gütmeyen kuruluşların Türkiye'deki şube veya temsilciliklerinin yasak ve izne tâbi faaliyetlerini,
 yükümlülüklerini, denetimlerini ve uygulanacak cezalar ile bunlara ilişkin diğer hususları
 düzenlemektir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

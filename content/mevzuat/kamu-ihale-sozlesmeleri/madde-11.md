@@ -22,6 +22,8 @@ tarafından belirli aşamalarda ve aralıklarla denetlenebilir.
 Taahhüdün tamamlanan ve müstakil kullanıma elverişli bölümleri için kısmî kabul
 yapılabilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

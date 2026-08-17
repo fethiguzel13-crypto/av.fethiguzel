@@ -20,11 +20,8 @@ c) Aile ekonomisi sınırları içinde kalan tarımla ilgili her çeşit yapı i
 d) Bir ailenin üyeleri ve 3 üncü dereceye kadar (3 üncü derece dahil) hısımları
 arasında dışardan başka biri katılmayarak evlerde ve el sanatlarının yapıldığı işlerde,
 e) Ev hizmetlerinde,
-f) (...)4 çıraklar hakkında,
+f) (…)çıraklar hakkında,
 g) Sporcular hakkında,
-2 10/9/2014 tarihli ve 6552 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “altı iş günü” ibareleri “otuz iş günü” şeklinde değiştirilmiştir. 3 10/9/2014 tarihli ve 6552 sayılı Kanunun 1 inci maddesiyle, bu fıkranın beşinci cümlesinin değiştirilmesi hüküm altına alınmış olmakla birlikte, iki cümle şeklindeki düzenleme yerine işlenmiştir. 4 20/6/2012 tarihli ve 6331 sayılı Kanunun 37 nci maddesiyle, bu bentte yer alan “İş sağlığı ve güvenliği hükümleri saklı kalmak üzere” ibaresi madde metninden çıkarılmıştır.
-
-
 h) Rehabilite edilenler hakkında,
 ı) 507 sayılı Esnaf ve Sanatkârlar Kanununun 2 nci maddesinin tarifine uygun üç
 kişinin çalıştığı işyerlerinde.
@@ -40,6 +37,8 @@ işleri,
 f) Deniz İş Kanunu kapsamına girmeyen ve tarım işlerinden sayılmayan, denizlerde
 çalışan su ürünleri üreticileri ile ilgili işler,
 Bu Kanun hükümlerine tabidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

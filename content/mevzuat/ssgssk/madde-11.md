@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**İşyeri, işyerinin bildirilmesi, devri, intikali ve nakli**
+**(Mülga ikinci fıkra: 17/4/2008-5754/67 md.)
+İKİNCİ BÖLÜM
+İşyerleri ve İşverenlere İlişkin Hükümler
+İşyeri, işyerinin bildirilmesi, devri, intikali ve nakli**
 
 ---
 
@@ -22,9 +25,7 @@ başladığı tarihte, Kuruma vermekle yükümlüdür. (Değişik ikinci cümle:
 Şirket kuruluşunun ticaret sicili memurluklarına bildirilmesi halinde yapılan bu bildirim Kuruma
 yapılmış sayılır ve ilgililerce ayrıca işyeri bildirgesi düzenlenmez. Ticaret sicili memurlukları,
 kendilerine yapılan bu bildirimi en geç on gün içinde Kuruma bildirmek zorundadır.
-
-
-29/6/1956 tarihli ve 6762 sayılı Türk Ticaret Kanunu hükümlerine tâbi şirketlerin
+29/6/1956 tarihli ve 6762 sayılı Türk Ticaret Kanunu hükümlerine tâbi şirketlerin
 nevilerinin değişmesi, birleşmesi veya diğer bir şirkete katılması durumunda, bu hususların
 ticaret siciline tesciline ilişkin ilân tarihini; adi şirketlerde şirkete yeni ortak alınması
 durumunda ise en geç yeni ortağın alındığı tarihi takip eden on gün içinde, işyeri bildirgesi ile
@@ -52,6 +53,8 @@ kayıtlı olduğu dosyadan bildirir.
 İşyeri bildirgesinin verilmemesi veya geç verilmesi, bu Kanunda belirtilen hak ve
 yükümlülükleri ortadan kaldırmaz. İşyeri bildirgesinin şekli ve içeriği ile bu maddenin
 uygulanmasına ilişkin usûl ve esaslar Kurum tarafından çıkarılacak yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

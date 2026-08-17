@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4275
 ---
 
-**Bilirkişiye başvurulmasını gerektiren hâller**
+**BEŞİNCİ BÖLÜM
+Bilirkişi İncelemesi
+Bilirkişiye başvurulmasını gerektiren hâller**
 
 ---
 
@@ -18,6 +20,8 @@ tecrübeyle ya da hâkimlik mesleğinin gerektirdiği hukukî bilgiyle çözüml
 konularda bilirkişiye başvurulamaz. (Ek cümle: 3/11/2016-6754/49 md.) Hukuk öğrenimi
 görmüş kişiler, hukuk alanı dışında ayrı bir uzmanlığa sahip olduğunu belgelendirmedikçe,
 bilirkişi olarak görevlendirilemez.
+
+---
 
 ### Akademik Yorum ve Analiz
 

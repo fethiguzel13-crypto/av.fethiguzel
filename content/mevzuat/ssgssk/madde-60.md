@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4322
 ---
 
-**Genel sağlık sigortalısı sayılanlar**
+**ÜÇÜNCÜ KISIM
+Genel Sağlık Sigortası Hükümleri
+BİRİNCİ BÖLÜM
+Kapsamdaki Kişiler ve Tescili
+Genel sağlık sigortalısı sayılanlar**
 
 ---
 
@@ -20,12 +24,9 @@ b) İsteğe bağlı sigortalı olan kişiler,
 c) Yukarıdaki (a) ve (b) bentlerine göre sigortalı sayılmayanlardan;
 1) Harcamaları, taşınır ve taşınmazları ile bunlardan doğan hakları da dikkate alınarak,
 Kurumca belirlenecek test yöntemleri ve veriler kullanılarak tespit edilecek aile içindeki geliri
-96 17/4/2008 tarihli ve 5754 sayılı Kanunun 65 inci maddesiyle; bu fıkrada yer alan “denetim ve kontrolle görevlendirilmiş memurları,” ibaresi “denetim elemanları” şeklinde değiştirilmiştir.
-
-
-kişi başına düşen aylık tutarı asgari ücretin üçte birinden az olan vatandaşlar ile gelir tespiti
+kişi başına düşen aylık tutarı asgari ücretin üçte birinden az olan vatandaşlar ile gelir tespiti
 yapılmaksızın genel sağlık sigortalılığı ya da bakmakla yükümlü olduğu kişi bulunmayan
-Türk vatandaşlarından 18 yaşını doldurmamış çocuklar,97
+Türk vatandaşlarından 18 yaşını doldurmamış çocuklar,
 2) (Değişik: 4/4/2013-6458/123 md.) Uluslararası koruma başvurusu veya statüsü
 sahibi ve vatansız olarak tanınan kişiler,
 3) 1/7/1976 tarihli ve 2022 sayılı 65 Yaşını Doldurmuş Muhtaç, Güçsüz ve Kimsesiz
@@ -40,9 +41,9 @@ Kanun hükümlerine göre aylık alan kişiler,
 7) 24/5/1983 tarihli ve 2828 sayılı Sosyal Hizmetler ve Çocuk Esirgeme Kurumu
 Kanunu hükümlerine göre korunma, bakım ve rehabilitasyon hizmetlerinden ücretsiz
 faydalanan kişiler ile ana ve babası olmayan Türk vatandaşlarından 18 yaşını doldurmamış
-çocuklar,98
+çocuklar,
 8) Harp malûllüğü aylığı alanlar ile Terörle Mücadele Kanunu kapsamında aylık alanlar,
-9) 18/3/1924 tarihli ve 442 sayılı Köy Kanununun (...)99 ek 16 ncı maddesine göre aylık
+9) 18/3/1924 tarihli ve 442 sayılı Köy Kanununun (…)ek 16 ncı maddesine göre aylık
 alan kişiler,
 10) 11/10/1983 tarihli ve 2913 sayılı Dünya Olimpiyat ve Avrupa Şampiyonluğu
 Kazanmış Sporculara ve Bunların Ailelerine Aylık Bağlanması Hakkında Kanun hükümlerine
@@ -50,11 +51,8 @@ göre aylık alan kişiler,
 d) Mütekabiliyet esası da dikkate alınmak şartıyla, oturma izni almış yabancı ülke
 vatandaşlarından yabancı bir ülke mevzuatı kapsamında sigortalı olmayan kişiler,
 e) 25/8/1999 tarihli ve 4447 sayılı Kanun gereğince işsizlik ödeneği, Esnaf Ahilik Sandığı
-ödeneğinin ve ilgili kanunları gereğince kısa çalışma ödeneğinden yararlandırılan kişiler,100
-97 21/5/2013 tarihli ve 6486 sayılı Kanunun 1 inci maddesiyle bu alt bentte yer alan “üçte birinden az olan vatandaşlar” ibaresinden sonra gelmek üzere “ile gelir tespiti yapılmaksızın genel sağlık sigortalılığı ya da bakmakla yükümlü olduğu kişi bulunmayan Türk vatandaşlarından 18 yaşını doldurmamış çocuklar” ibaresi eklenmiştir. 98 21/5/2013 tarihli ve 6486 sayılı Kanunun 1 inci maddesiyle bu alt bentte yer alan “ücretsiz faydalanan kişiler” ibaresinden sonra gelmek üzere “ile ana ve babası olmayan Türk vatandaşlarından 18 yaşını doldurmamış çocuklar” ibaresi eklenmiştir. 99 17/4/2017 tarihli ve 690 sayılı KHK’nin 42 nci maddesiyle, bu alt bentte yer alan “74 üncü maddesinin ikinci fıkrasına göre görevlendirilen kişiler ile aynı Kanunun” ibaresi yürürlükten kaldırılmış, daha sonra bu hüküm 1/2/2018 tarihli ve 7077 sayılı Kanunun 38 inci maddesiyle aynen kabul edilerek kanunlaşmıştır. 100 23/2/2017 tarihli ve 6824 sayılı Kanunun 12 nci maddesi ile, bu bentte yer alan “işsizlik ödeneği” ibaresinden sonra gelmek üzere “, Esnaf Ahilik Sandığı ödeneğinin” ibaresi eklenmiştir. 6824 sayılı Kanunun 25 inci maddesiyle, söz konusu ibarenin 1/1/2018 tarihinde yürürlüğe gireceği hüküm altına alınmıştır.
-
-
-f) Bu Kanun veya bu Kanundan önce yürürlükte bulunan sosyal güvenlik kanunlarına
+ödeneğinin ve ilgili kanunları gereğince kısa çalışma ödeneğinden yararlandırılan kişiler,
+f) Bu Kanun veya bu Kanundan önce yürürlükte bulunan sosyal güvenlik kanunlarına
 göre gelir veya aylık alan kişiler,
 g) Yukarıdaki bentlerin dışında kalan ve başka bir ülkede sağlık sigortasından
 yararlanma hakkı bulunmayan vatandaşlar,
@@ -71,7 +69,7 @@ kurumları ile tutukevleri bünyesinde bulunan hükümlü ve tutuklular, birinci
 kapsamına girenlerden Türkiye'de bir yıldan kısa süreyle yerleşik olanlar, (f) bendi
 kapsamında olup mülga 30/5/1978 tarihli ve 2147 sayılı ve 8/5/1985 tarihli ve 3201 sayılı
 kanunlara göre borçlanarak aylık bağlanan kişilerden ise Türkiye’de ikamet etmeyenler genel
-sağlık sigortalısı ve genel sağlık sigortalısının bakmakla yükümlü olduğu kişi sayılmazlar.101
+sağlık sigortalısı ve genel sağlık sigortalısının bakmakla yükümlü olduğu kişi sayılmazlar.
 Birinci fıkranın (d) ve (g) bentlerinin uygulanmasında evli olanlar için, eşlerden
 hangisinin bu maddeye göre genel sağlık sigortalısı, hangisinin bakmakla yükümlü olunan
 kişi olacağının tespiti kendi tercihlerine bırakılır. Diğer bentler gereği eşlerin her ikisinin de
@@ -89,10 +87,7 @@ ikinci fıkrasının ikinci cümlesindeki şartlar aranmaksızın eğitim öğre
 tarihinden itibaren üç ay içinde talepte bulunmaları hâlinde genel sağlık sigortalısı sayılır.
 (Mülga cümle:9/1/2025-7538/6 md.) Kendilerince 82 nci maddeye göre belirlenen prime
 esas günlük kazanç alt sınırının üçte birinin 30 günlük tutarı üzerinden genel sağlık sigortası
-101 2/1/2017 tarihli ve 681 sayılı KHK’nin 74 üncü maddesiyle bu fıkrada yer alan “6 ncı maddenin birinci fıkrasının (d),” ibaresi “6 ncı maddenin birinci fıkrasının” şeklinde 1/3/2017 tarihinden geçerli olmak üzere değiştirilmiş; daha sonra bu hüküm 1/2/2018 tarihli ve 7073 sayılı Kanunun 73 üncü maddesiyle aynen kabul edilerek 1/3/2017 tarihinde yürürlüğe girmek üzere kanunlaşmıştır.
-
-
-primi ödenir.102
+primi ödenir.
 (Ek fıkra: 13/2/2011-6111/34 md.) 19/3/1969 tarihli ve 1136 sayılı Avukatlık
 Kanunu uyarınca avukatlık stajı yapmakta olanlardan bu Kanuna göre genel sağlık sigortalısı
 veya bakmakla yükümlü olunan kişi durumunda olmayanlar staj süresi ile sınırlı olmak üzere
@@ -130,11 +125,9 @@ ve Jandarma ve Sahil Güvenlik Akademisi öğrencileri devre kaybettikleri süre
 ilgili kamu idaresi tarafından karşılanmak suretiyle genel sağlık sigortalısı sayılır. Bu sürenin
 hesabında, mevzuatı uyarınca askerlik hizmet süresinden sayılmayan haller (disiplin kurulları
 tarafından verilen cezalar ve sağlık sebepleri hariç) dikkate alınmaz. Bu kapsamda genel sağlık
-102 9/1/2025 tarihli ve 7538 sayılı Kanunun 6 ncı maddesi ile bu fıkranın birinci cümlesinde yer alan “ilk kayıt tarihinden” ibaresi “eğitim öğretim yılı başlangıç tarihinden” şeklinde, “olurlar” ibaresi “sayılır” şeklinde değiştirilmiştir.
-
-
-sigortalısı sayıldıkları sürece bu maddenin diğer fıkraları kapsamında genel sağlık sigortalısı ve
-genel sağlık sigortalısının bakmakla yükümlü olduğu kişi sayılmazlar.103104
+sigortalısı sayıldıkları sürece bu maddenin diğer fıkraları kapsamında genel sağlık sigortalısı ve
+103104
+genel sağlık sigortalısının bakmakla yükümlü olduğu kişi sayılmazlar.
 (Ek fıkra: 2/1/2017-KHK-681/74 md.; Aynen kabul: 1/2/2018-7073/73 md.)
 Uluslararası Askeri Eğitim İşbirliği Anlaşmaları kapsamında Türkiye’de eğitim ve öğretim
 gören yabancı uyruklu misafir askeri personel ile bakmakla yükümlü oldukları aile
@@ -160,6 +153,9 @@ veya Uluslararası Öğrenciler Değerlendirme Kurulu kararı ile burslandırıl
 sigortası primleri, 82 nci maddenin birinci fıkrasına göre belirlenen prime esas kazanç alt
 sınırının %4’üdür. Bu kişiler hakkında 3 üncü maddenin birinci fıkrasının (10) numaralı bendi
 uygulanmaz.
+Genel sağlık sigortalılığının başlangıcı, bildirimi ve tescili
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -27,12 +27,13 @@ ihalelerine katılmaktan yasaklanır.
 Bu madde hükümlerine göre; mahkeme kararı ile yasaklananlar ve ceza hükmolunanlar,
 Cumhuriyet Savcılıklarınca sicillerine işlenmek üzere Kamu İhale Kurumuna, meslek sicillerine
 işlenmek üzere de ilgili meslek odalarına bildirilir.
-8 Bu fıkrada geçen “en geç otuz gün” ibaresi, 30/7/2003 tarihli ve 4964 sayılı Kanunun 47 nci maddesiyle “en geç kırkbeş gün” olarak değiştirilmiş ve metne işlenmiştir.
-
-
-Sürekli olarak kamu ihalelerine katılmaktan yasaklanmış olanlara ilişkin mahkeme kararları,
+Bu fıkrada geçen “en geç otuz gün” ibaresi, 30/7/2003 tarihli ve 4964 sayılı Kanunun 47 nci maddesiyle
+“en geç kırkbeş gün” olarak değiştirilmiş ve metne işlenmiştir.
+Sürekli olarak kamu ihalelerine katılmaktan yasaklanmış olanlara ilişkin mahkeme kararları,
 Kamu İhale Kurumunca bildirimi izleyen onbeş gün içinde Resmi Gazetede yayımlanmak suretiyle
 duyurulur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

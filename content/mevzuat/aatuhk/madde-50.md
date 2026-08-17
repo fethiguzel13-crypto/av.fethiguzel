@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**Ölüm halinde takibin geri bırakılması**
+**Ölüm halinde takibin geri bırakılması:**
 
 ---
 
@@ -17,6 +17,9 @@ Borçlunun ölümü halinde terekenin borçlarından dolayı ölüm günü ile b
 için takip geri bırakılır. Üç günün bitiminde terekenin borçları için takibata devam olunur.
 Mirasçılar, mirası kabul veya ret etmemişlerse bu hususta Medeni Kanundaki
 muayyen müddetler geçinceye kadar takip geri bırakılır.
+Gecikme Zammı, Nispet ve Hesabı:
+
+---
 
 ### Akademik Yorum ve Analiz
 

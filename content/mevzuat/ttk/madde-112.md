@@ -7,12 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**IV
-- Ödeme borcu**
+**IV - Ödeme borcu**
 
 ---
 
-Madde 112 - (1) Acente, müvekkiline ait olan parayı göndermekle veya teslim etmekle yükümlü olup da bunu yapmazsa, yükümlülüğün do ğduğu tarihten itibaren faiz ödemek ve gerekirse ayrıca tazminat vermek zorundadır.
+MADDE 112- (1) Acente, müvekkiline ait olan parayı göndermekle veya teslim
+etmekle yükümlü olup da bunu yapmazsa, yükümlülüğün doğduğu tarihten itibaren faiz
+ödemek ve gerekirse ayrıca tazminat vermek zorundadır.
 
 ---
 

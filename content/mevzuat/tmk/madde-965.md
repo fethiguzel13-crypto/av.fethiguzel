@@ -7,13 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**II
-. Hükümleri
+**II. Hükümleri
 1. Rehnin paraya çevrilmesi**
 
 ---
 
-Madde 965 - Borç vadesinde ödenmezse, ödünç veren, borçluya önceden noter aracılığı ile borcunu ödemesini ihtar ettikten sonra rehni icra yoluyla paraya çe virtebilir. Borçlu, ödünç verene karşı kişisel olarak sorumlu değildir.
+Madde 965- Borç vadesinde ödenmezse, ödünç veren, borçluya önceden noter aracılığı
+ile borcunu ödemesini ihtar ettikten sonra rehni icra yoluyla paraya çevirtebilir.
+Borçlu, ödünç verene karşı kişisel olarak sorumlu değildir.
 
 ---
 

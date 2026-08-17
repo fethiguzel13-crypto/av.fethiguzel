@@ -11,7 +11,7 @@ wordCount: 4263
 
 ---
 
-Madde 263 - Taksitle satışa ilişkin hükümler, aynı ekonomik amaçla yapılan
+MADDE 263- Taksitle satışa ilişkin hükümler, aynı ekonomik amaçla yapılan
 işlemlere de uygulanır.
 Bir taşınırı edinme amacıyla yapılan ödünç sözleşmelerinde satıcının, mülkiyeti saklı
 tutma kaydı ile birlikte veya bundan bağımsız olarak satış bedeli alacağını ödünç verene

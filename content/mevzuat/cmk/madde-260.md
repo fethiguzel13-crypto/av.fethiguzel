@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**Kanun yollarına başvurma hakkı**
+**ALTINCI KİTAP
+Kanun Yolları
+BİRİNCİ KISIM
+Genel Hükümler
+Kanun yollarına başvurma hakkı**
 
 ---
 
@@ -20,10 +24,8 @@ savcıları, ağır ceza mahkemesinin yargı çevresindeki asliye ceza mahkemele
 mahkemesinde bulunan Cumhuriyet savcıları, bölge adliye mahkemelerinin kararlarına karşı
 kanun yollarına başvurabilirler.
 (3) Cumhuriyet savcısı, sanık lehine olarak da kanun yollarına başvurabilir.
-Avukatın başvurma hakkı
 
-Madde 261 – (1) Avukat, müdafiliğini veya vekilliğini üstlendiği kişilerin açık
-arzusuna aykırı olmamak koşuluyla kanun yollarına başvurabilir.
+---
 
 ### Akademik Yorum ve Analiz
 

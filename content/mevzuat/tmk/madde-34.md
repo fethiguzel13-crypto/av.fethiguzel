@@ -11,7 +11,8 @@ wordCount: 4308
 
 ---
 
-Madde 34 - Gaipliğine karar verilecek kişi, ilân sür esi dolmadan ortaya çıkar veya kendisinden haber alınırsa ya da öldüğü tarih tespit edilirse ga iplik istemi düşer.
+Madde 34- Gaipliğine karar verilecek kişi, ilân süresi dolmadan ortaya çıkar veya
+kendisinden haber alınırsa ya da öldüğü tarih tespit edilirse gaiplik istemi düşer.
 
 ---
 

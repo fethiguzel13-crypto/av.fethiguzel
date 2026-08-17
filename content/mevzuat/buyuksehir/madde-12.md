@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**Büyükşehir belediye meclisi**
+**DÖRDÜNCÜ BÖLÜM
+Büyükşehir Belediyesinin Organları
+Büyükşehir belediye meclisi**
 
 ---
 
@@ -15,8 +17,10 @@ Madde 12- Büyükşehir belediye meclisi, büyükşehir belediyesinin karar orga
 ilgili kanunda gösterilen esas ve usullere göre seçilen üyelerden oluşur.
 Büyükşehir belediye başkanı büyükşehir belediye meclisinin başkanı olup, büyükşehir
 içindeki diğer belediyelerin başkanları, büyükşehir belediye meclisinin doğal üyesidir.
-Büyükşehir ilçe (...)19 belediye meclisleri ile bunların çalışma usul ve esaslarına
+Büyükşehir ilçe (…)belediye meclisleri ile bunların çalışma usul ve esaslarına
 ilişkin diğer hususlarda Belediye Kanunu hükümleri uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

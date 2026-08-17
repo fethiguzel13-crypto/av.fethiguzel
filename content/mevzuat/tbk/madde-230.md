@@ -11,7 +11,7 @@ wordCount: 4264
 
 ---
 
-Madde 230 - Birden çok mal veya birden çok parçadan oluşan bir mal, birlikte
+MADDE 230- Birden çok mal veya birden çok parçadan oluşan bir mal, birlikte
 satılmış olup da bunlardan bazıları ayıplı çıkarsa, dönme hakkı bunlardan ancak ayıplı
 çıkanlar için kullanılabilir. Ancak, alıcıya veya satıcıya önemli bir zarar vermeksizin ayıplı
 parçanın diğerinden ayrılmasına imkân yoksa, dönme hakkının satılanın tamamını kapsaması

@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**Paraya çevirme müddeti**
+**III – MÜŞTEREK HÜKÜMLER
+Paraya çevirme müddeti:**
 
 ---
 
@@ -19,7 +20,8 @@ Satış yukarıdaki fıkrada gösterilen müddetler içinde istenmez veya talep 
 bu müddetler içinde yenilenmezse takip düşer.
 78 inci maddenin 2 nci fıkrası hükmü rehnin paraya çevrilmesi yoliyle takipte de
 kıyasen uygulanır.
-Muvakkat rehin açığı belgesi:
+
+---
 
 ### Akademik Yorum ve Analiz
 

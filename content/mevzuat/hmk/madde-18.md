@@ -17,6 +17,8 @@ kesin yetki hâllerinde, yetki sözleşmesi yapılamaz.
 kaynaklandığı hukuki ilişkinin belirli veya belirlenebilir olması ve yetkili kılınan mahkeme
 veya mahkemelerin gösterilmesi şarttır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

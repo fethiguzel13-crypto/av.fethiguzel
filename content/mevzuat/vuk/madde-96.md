@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**Vasıtalı tebliğ**
+**Vasıtalı tebliğ:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 96 – Kara, deniz, hava ve jandarma eratına yapılacak tebliğler kıta 
 veya müessese amiri gibi en yakın üst vasıtasiyle yapılır. Bu evrakı derhal tebliğ olunacak
 kimseye vermediği takdirde üst tazminle mahküm olur. Bu cihetin tebliğ evrakında yazılı
 olması şarttır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4286
 ---
 
-**Taşıt kullanma sürelerine uyma zorunluluğu**
+**Taşıt kullanma sürelerine uyma zorunluluğu:**
 
 ---
 
@@ -17,11 +17,7 @@ sürelerine aykırı olarak kullanılması ve kullandırılması yasaktır. İş
 olup olmadığına bakmaksızın aracın bu maddede ve yönetmelikte belirtilen hükümlere aykırı
 olarak kullanılmaması hususunda gerekli tedbirleri almak ve denetimini yapmakla
 yükümlüdür.
-12/2/2026 tarihli ve 7574 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “teknik cihazların”
-ibaresi “teknik cihazların/test kitlerinin” şeklinde değiştirilmiştir.
-44
-
-Bu taşıtları kullanacakların taşıt kullanma, mola ve dinlenme süreleri ile taşıtta birden
+Bu taşıtları kullanacakların taşıt kullanma, mola ve dinlenme süreleri ile taşıtta birden
 fazla sürücü görevlendirilmesi gereken haller, sürücülerin taşıtta bulunmaları gereken zaman
 aralığı, işletenlerin sorumlulukları ile denetimlerde uygulanacak usul ve esaslar yönetmelikte
 belirtilir.
@@ -49,6 +45,8 @@ ilişkin hususlar yönetmelikte belirlenir.
 Araç kullanmak üzere birden fazla sürücünün görevlendirilmesinin zorunlu olduğu
 hallerde araçta bulunması gereken sürücülere ilişkin yönetmelikte belirtilen hususlara
 uymayan işletene 10.000 Türk lirası idari para cezası uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

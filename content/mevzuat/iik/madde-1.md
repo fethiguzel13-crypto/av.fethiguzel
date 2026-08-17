@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4283
 ---
 
-**İcra daireleri:3**
+**İcra daireleri:**
 
 ---
 
@@ -23,37 +23,17 @@ icra müdürünün yetkilerini haiz bir icra başmüdürü görevlendirilebilir.
 uygulanmasına ilişkin usul ve esaslar, yönetmelikle düzenlenir.
 İcra müdür ve icra müdür yardımcıları, Adalet Bakanlığı tarafından yaptırılacak yazılı
 sınav ve Adalet Bakanlığı tarafından yapılacak sözlü sınav sonucuna göre atanırlar. İcra
-18/2/1965 tarihli ve 538 sayılı Kanunun 143 üncü maddesi gereğince, bu kanunda yazılı olan aşağıdaki
-terimler, karşılarında gösterildiği şekilde değiştirilmiştir.
-Cumhuriyet Müddeiumumisi
-: Cumhuriyet Savcısı
-İstida
-: Dilekçe
+Cumhuriyet Müddeiumumisi : Cumhuriyet Savcısı
+İstida : Dilekçe
 İtirazın ref'i (Ref'i itiraz) : İtirazın kaldırılması
-Kaza Dairesi
-: Yargı çevresi
-Muavin
-: Yardımcı
-Muhakeme usulü
-: Yargılama usulü
-Müruru zaman
-: Zamanaşımı
-Salahiyet
-: Yetki
-Temyiz Mahkemesi
-: Yargıtay
-Zabıt (Varakası)
-: Tutanak
-2
-12/2/2004 tarihli ve 5092 sayılı Kanunun 11 inci maddesiyle, bu Kanunda yer alan "icra tetkik mercii", "tetkik
-mercii" ve "mercii" ibareleri "icra mahkemesi"; "icra mercii hâkimi" ve "mercii hâkimi" ibareleri "icra hâkimi"
-olarak değiştirilmiştir.
-3
-Bu madde başlığı “İcra daireleri ve memurları:” iken, 2/7/2012 tarihli ve 6352 sayılı Kanunun 1 inci
-maddesiyle metne işlendiği şekilde değiştirilmiştir.
-1
-
-katipleri arasından Adalet Bakanlığı tarafından yaptırılacak yazılı sınav ve Adalet Bakanlığı
+Kaza Dairesi : Yargı çevresi
+Muavin : Yardımcı
+Muhakeme usulü : Yargılama usulü
+Müruru zaman : Zamanaşımı
+Salahiyet : Yetki
+Temyiz Mahkemesi : Yargıtay
+Zabıt (Varakası) : Tutanak
+katipleri arasından Adalet Bakanlığı tarafından yaptırılacak yazılı sınav ve Adalet Bakanlığı
 tarafından yapılacak sözlü sınav sonucuna göre de icra müdür veya icra müdür yardımcılığı
 kadrolarına atama yapılabilir.
 İcra katipliğine ilk defa atanacaklar, kamu görevlerine ilk defa atanacaklar için
@@ -61,7 +41,7 @@ yapılacak merkezî sınavda başarılı olanlar arasından Adalet Bakanlığı 
 konuda yetki vereceği adli yargı ilk derece mahkemesi adalet komisyonları tarafından
 yapılacak uygulama ve sözlü sınav sonucuna göre; unvan değişikliği suretiyle atanacaklar ise
 uygulama ve sözlü sınav sonucuna göre atanırlar. Unvan değişikliği suretiyle icra katipliğine
-atanacaklar tahsis edilen kadronun yüzde ellisini geçemez.4
+atanacaklar tahsis edilen kadronun yüzde ellisini geçemez.
 İcra müdür ve icra müdür yardımcıları ile icra katiplerinin, yazılı sınav, sözlü sınav,
 görevlendirme, nakil, unvan değişikliği, görevde yükselme ve diğer hususları yönetmelikle
 düzenlenir.
@@ -73,6 +53,8 @@ yokluğu halinde görev ve yetkileri, adli yargı ilk derece mahkemesi adalet ko
 tarafından görevlendirilecek yazı işleri müdürü veya zabıt katibi tarafından yerine getirilir.
 Adalet Bakanlığı, icra dairelerini bir arada bulundurmaya ve aynı icra mahkemesine
 bağlamaya yetkilidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

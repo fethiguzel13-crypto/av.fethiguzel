@@ -7,12 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**Tahmin esası**
+**İKİNCİ BÖLÜM
+Arazi Kıymetlerinin Tesbiti
+Tahmin esası:**
 
 ---
 
 Madde 308 – Arazinin vergi değerine esas tutulan kıymetleri, tahrir ve tadilat
 komisyonlarınca bu bölümde yazılı esaslara göre tahmin olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

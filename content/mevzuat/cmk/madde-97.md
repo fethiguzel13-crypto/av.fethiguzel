@@ -16,6 +16,8 @@ hangi suç nedeniyle, hangi koşullarda, hangi yer ve zamanda yakalandığı, ya
 kimlerin yaptığı, hangi kolluk mensubunca tespit edildiği, haklarının tam olarak anlatıldığı
 açıkça yazılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

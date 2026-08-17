@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**Vaktinden evvel satış**
+**Vaktinden evvel satış:**
 
 ---
 
 Madde 113 – Alacaklı talep etmeden borçlunun talebiyle de satış yapılabilir.
 İcra memuru kıymeti süratle düşen veyahut muhafazası masraflı olan malların
 satılmasına her zaman karar verebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

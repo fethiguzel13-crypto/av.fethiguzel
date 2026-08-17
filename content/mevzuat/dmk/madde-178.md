@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**Fazla çalışma ücreti**
+**Fazla çalışma ücreti:**
 
 ---
 
@@ -23,7 +23,7 @@ kurumlarca hizmetin gereği olarak işçi ile birlikte çalışma saatleri ve g�
 zorunlu bulunması,
 hallerine münhasır olmak üzere, yapılan fazla çalışmalar ücretle karşılanır.
 Yukarıda sayılan hallerde yaptırılacak fazla çalışmanın süresi ve saat başına ödenecek
-ücret Cumhurbaşkanı kararı ile belirlenir.272
+ücret Cumhurbaşkanı kararı ile belirlenir.
 B) (İptal: Anayasa Mahkemesinin 14/2/1997 tarihli ve E: 1997/20, K: 1997/32
 sayılı Kararı ile; Yeniden düzenleme: 3/4/1998 - 4359/4) Kurumlar gerektiği takdirde
 personelini günlük çalışma saatleri dışında fazla çalışma ücreti vermeksizin çalıştırabilirler.
@@ -33,7 +33,9 @@ yılı içinde kullandırılabilir.
 Fazla çalışmanın uygulama esas ve usulleri Devlet Personel Başkanlığı ile Maliye
 Bakanlığınca müştereken belirlenir.
 Milli İstihbarat Teşkilatı mensuplarına ödenecek fazla çalışma ücretleri ve diğer
-hususlar Cumhurbaşkanı tarafından onaylanacak bir talimatla tesbit edilir.273
+hususlar Cumhurbaşkanı tarafından onaylanacak bir talimatla tesbit edilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

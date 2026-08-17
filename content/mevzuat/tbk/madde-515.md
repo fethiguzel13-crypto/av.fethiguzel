@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**A. Kredi mektubu**
+**İKİNCİ AYIRIM
+Kredi Mektubu ve Kredi Emri
+A. Kredi mektubu**
 
 ---
 
-Madde 515 - Kredi mektubu, mektup gönderenin gönderilene bir üst sınır
+MADDE 515- Kredi mektubu, mektup gönderenin gönderilene bir üst sınır
 belirleyerek veya belirlemeksizin, kredi mektubundan yararlanacak belirli kişiye istemde
 bulunacağı miktarda para ve benzeri şeyleri verme konusundaki vekâletini içeren belgedir.
 Kredi mektubu, vekâlet sözleşmesi ve havale hükümlerine tabidir.

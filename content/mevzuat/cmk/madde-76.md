@@ -7,17 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-**Diğer kişilerin beden muayenesi ve vücuttan örnek alınması8**
+**Diğer kişilerin beden muayenesi ve vücuttan örnek alınması**
 
 ---
 
 Madde 76 – (Değişik: 25/5/2005 – 5353/3 md.)
 (1) Bir suça ilişkin delil elde etmek amacıyla, mağdurun vücudu üzerinde dış veya iç
-Bu madde başlığı “Diğer kişilerin beden muayenesi “ iken, 25/5/2005 tarihli ve 5353 sayılı Kanunun
-3 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
-8
-
-beden muayenesi yapılabilmesine veya vücudundan kan veya benzeri biyolojik örneklerle saç,
+beden muayenesi yapılabilmesine veya vücudundan kan veya benzeri biyolojik örneklerle saç,
 tükürük, tırnak gibi örnekler alınabilmesine; sağlığını tehlikeye düşürmemek ve cerrahî bir
 müdahalede bulunmamak koşuluyla; Cumhuriyet savcısının istemiyle ya da re'sen hâkim veya
 mahkeme, gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısı tarafından karar
@@ -35,6 +31,8 @@ olması hâlinde, görüşü de alınır. Kanunî temsilci de şüpheli veya san
 tarafından karar verilir. Ancak, bu hâlde elde edilen deliller davanın ileri aşamalarında
 şüpheli veya sanık olmayan kanunî temsilcinin izni olmadıkça kullanılamaz.
 (5) Bu madde gereğince verilen hâkim veya mahkeme kararlarına itiraz edilebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

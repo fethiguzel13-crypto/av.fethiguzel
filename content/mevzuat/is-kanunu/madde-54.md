@@ -30,6 +30,8 @@ süreler ve kamu iktisadi teşebbüsleri yahut özel kanuna veya Cumhurbaşkanl�
 dayanılarak kurulan banka ve kuruluşlar veya bunlara bağlı işyerlerinde geçen süreler, işçinin
 yıllık ücretli izin hakkının hesaplanmasında göz önünde bulundurulur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

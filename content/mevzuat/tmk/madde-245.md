@@ -11,7 +11,9 @@ wordCount: 4303
 
 ---
 
-Madde 245 - Belirli bir malın eşlerden birine ait olduğunu iddia eden kimse, iddiasını ispat etme kle y ükümlüdür. Eşlerden hangisine ait olduğu ispat edilemeyen mallar onların paylı mülkiyetinde sayılır.
+Madde 245- Belirli bir malın eşlerden birine ait olduğunu iddia eden kimse, iddiasını
+ispat etmekle yükümlüdür.
+Eşlerden hangisine ait olduğu ispat edilemeyen mallar onların paylı mülkiyetinde sayılır.
 
 ---
 

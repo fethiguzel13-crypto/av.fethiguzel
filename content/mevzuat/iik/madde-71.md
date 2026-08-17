@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**İcra mahkemesinin karariyle takibin talik veya iptali**
+**İcra mahkemesinin karariyle takibin talik veya iptali:**
 
 ---
 
@@ -17,6 +17,8 @@ yahut alacaklının kendisine bir mühlet verdiğini noterden tasdikli veya imza
 bir belge ile ispat ederse, takibin iptal veya talikini her zaman icra mahkemesinden istiyebilir.
 Borçlu, takibin kesinleşmesinden sonraki devrede borcun zamanaşımına uğradığını
 ileri sürecek olursa, 33 a. Maddesi hükmü kıyasen uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

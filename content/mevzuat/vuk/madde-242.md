@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Diğer vesikalar**
+**Diğer vesikalar:**
 
 ---
 
@@ -24,31 +24,23 @@ numaralı bendine göre vergi matrahlarının tesbitinde gerçek giderleri nazar
 mükellefler, bu giderlerini tevsik edecek vesikaları saklamaya mecburdurlar.
 (Ek fıkra: 19/2/1963-205/15 md.) Gelir Vergisi Kanununa göre diğer kazanç ve
 iratları üzerinden vergilendirilecek mükellefler, vergi matrahının tesbitinde nazara alınacak
-giderlerini isbat edecek vesikaları muhafaza etmek mecburiyetindedirler.68
-Elektronik ortamdaki kayıtlar ve eletronik cihazla belge düzenleme:69
+giderlerini isbat edecek vesikaları muhafaza etmek mecburiyetindedirler.
+Elektronik ortamdaki kayıtlar ve eletronik cihazla belge düzenleme:
 Mükerrer Madde 242 – (Ek: 28/8/1991-3762/3 md.)
 1. Maliye ve Gümrük Bakanlığı; mükelleflere, niteliklerini belirlediği elektronik
 cihazları kullandırmak suretiyle belge düzenlettirmeye ve kullanılacak özel cihazlardan
 çıkarılan pulları belgelere ekletmeye yetkilidir. Elektronik cihazlarla düzenlenen belgeler ile
 özel cihazlardan çıkarılan pulları ihtiva eden belgeler bu Kanun hükümlerine uygun olarak
-düzenlenmiş belge hükmündedir.70
-
-Bu fıkrada yeralan "Gelir Vergisi Kanununa göre sair kazanç ve iratları üzerinden" ibaresi, 11/8/1999 tarih
-ve 4444 sayılı Kanunun 13 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
-69
-Bu madde başlığı; “Elektronik Cihazla veya Tayin Olunacak Usulle Belge Düzenleme:” iken, 28/12/2001
-tarihli ve 4731 sayılı Kanunun 4 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
-70
-Bu fıkranın başında bulunan “1.” Ibaresi, 28/12/2001 tarihli ve 4731 sayılı Kanunla eklenmiştir.
-68
-
-Elektronik cihazların belirlenen niteliklere uygunluğu 6.12.1984 gün ve 3100 sayılı
+düzenlenmiş belge hükmündedir.
+Elektronik cihazların belirlenen niteliklere uygunluğu 6.12.1984 gün ve 3100 sayılı
 Kanunun 5 inci maddesine göre kurulan komisyonun görüşü alınarak Maliye ve Gümrük
 Bakanlığınca onaylanır.
 Maliye ve Gümrük Bakanlığı, elektronik cihazlarla veya kullanılacak özel cihazlardan
 çıkarılan pulları ekletmek suretiyle belge düzenletme yetkisini; iş grupları, sektörler, bölgeler,
 yerleşim birimleri, yıllık hasılat tutarları itibariyle veya sabit bir işyerinde faaliyet gösterilip
 gösterilmediğine göre ayrı ayrı veya topluca kullanabilir.
+Bu fıkrada yeralan "Gelir Vergisi Kanununa göre sair kazanç ve iratları üzerinden" ibaresi, 11/8/1999 tarih
+ve 4444 sayılı Kanunun 13 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 Mükellefler, 3100 sayılı Kanuna göre nitelikleri belirlenen ödeme kaydedici cihazlar
 ile birinci fıkrada belirtilen cihazları piyasadan temin edebilecekleri gibi, Maliye ve Gümrük
 Bakanlığından da temin edebilirler. Maliye ve Gümrük Bakanlığı bu cihazları temin etmeye,
@@ -81,8 +73,7 @@ kayıtlara ilişkin usul ve esaslardan farklı usul ve esaslar belirlemeye yetki
 (Ek: 28/12/2001-4731/4 md.; Değişik: 4/6/2008-5766/17 md.) Maliye Bakanlığı;
 elektronik defter, belge ve kayıtların oluşturulması, kaydedilmesi, iletilmesi, muhafaza ve
 ibrazı ile defter ve belgelerin elektronik ortamda tutulması, düzenlenmesi ve ibraz edilmesi
-
-uygulamasına ilişkin usul ve esasları belirlemeye, elektronik ortamda tutulmasına,
+uygulamasına ilişkin usul ve esasları belirlemeye, elektronik ortamda tutulmasına,
 düzenlenmesine ve ibraz edilmesine izin verilen defter ve belgelerde yer alması gereken
 bilgileri internet de dahil olmak üzere her türlü elektronik bilgi iletişim araç ve ortamında
 Maliye Bakanlığına veya Maliye Bakanlığının gözetim ve denetimine tabi olup, kuruluşu,
@@ -94,7 +85,9 @@ düzenlemeye ve denetlemeye yetkilidir. Bu Kanunun vergi mahremiyetine ilişkin 
 bu kapsamda kurulan şirketin ortak, yönetici ve çalışanları ile elektronik defter, belge ve
 kayıtların oluşturulması, imzalanması, iletilmesi ve saklanması hususlarından herhangi biri
 için hizmet verme konusunda yetkilendirilenlerin ortak, yönetici ve çalışanları hakkında da
-uygulanır.7172
+uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

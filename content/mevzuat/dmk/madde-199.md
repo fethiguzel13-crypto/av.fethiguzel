@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**Öğrenim bursları ve yurtları**
+**Öğrenim bursları ve yurtları:**
 
 ---
 
@@ -21,6 +21,8 @@ bütçesinden ödenir.
 Ancak, memurlar çocuklarını daha yüksek ücretli okul pansiyonlarından veya Milli
 Eğitim Bakanlığının denetimi altında faaliyette bulunan özel pansiyonlardan faydalandırmak
 isterlerse aradaki ücret farkı kendileri tarafından ödenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

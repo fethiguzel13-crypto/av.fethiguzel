@@ -7,15 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**Tebliğ evrakının zıyaı halinde masraflar**
+**Tebliğ evrakının zıyaı halinde masraflar:**
 
 ---
 
-Madde 6 – PTT İşletmesi (...)4 mücbir haller dışında her hangi bir sebeple zıyaa
+Madde 6 – PTT İşletmesi (...)mücbir haller dışında her hangi bir sebeple zıyaa
 uğrıyan tebliğ evrakının yeniden tanzim ve tebliği için gerekli masraflar, Posta Kanununun
 taahhütlü müraselata mütaallik hükümlerine göre ödenir.
 Telgraf servisinde zıya veya gecikme vukuunda Telgraf ve Telefon Kanunu hükümleri
 tatbik olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

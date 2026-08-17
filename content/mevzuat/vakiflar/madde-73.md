@@ -7,11 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**Görev ve yetki**
+**DÖRDÜNCÜ KISIM
+Çeşitli Hükümler
+Görev ve yetki**
 
 ---
 
 MADDE 73 – (Mülga: 2/7/2018/KHK/703/102 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -19,6 +19,8 @@ günde mahkemeye gelmek zorunda değildir.
 (3) Mahkeme, duruşmada bulunan tarafları dinledikten sonra tanıklıktan çekinmenin
 haklı olup olmadığına karar verir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

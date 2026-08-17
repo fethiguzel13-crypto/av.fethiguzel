@@ -11,7 +11,9 @@ wordCount: 4297
 
 ---
 
-Madde 884 - Borçtan şahsen sorumlu olmayan rehinli taşınmaz maliki, borçluya ait koşullar içinde borcu ödeyerek taşınmazın üzerindeki ipoteğin kaldırılmasını isteyebilir. Alacak, b orcu ödeyen malike geçer.
+Madde 884- Borçtan şahsen sorumlu olmayan rehinli taşınmaz maliki, borçluya ait
+koşullar içinde borcu ödeyerek taşınmazın üzerindeki ipoteğin kaldırılmasını isteyebilir.
+Alacak, borcu ödeyen malike geçer.
 
 ---
 

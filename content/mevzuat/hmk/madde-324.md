@@ -19,6 +19,8 @@ yatırabilir. Aksi hâlde talep olunan delilin ikamesinden vazgeçilmiş sayıl�
 (3) Tarafların üzerinde serbestçe tasarruf edemeyeceği dava ve işler hakkındaki
 hükümler saklıdır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

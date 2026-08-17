@@ -7,11 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**D) Sorumluluğun kaldırılmasına veya hafifletilmesine ait hükümlerin geçersizliği**
-
----
-
-Madde 854 - (1) Kanunun, t aşıyıcıya, taşıma işleri komisyoncusuuna ve faaliyetleri Devlet iznine bağlı taşıma işletmelerine yüklediği sorumlulukların, önceden hafifletilmesi veya kaldırılmasın sonucunu doğuran tüm sözleşme hükümleri geçersizdir. Bu hükümlerin, işletme tüzüklerinde, g enel işlem şartlarında, biletlerde, tarifelerde veya benzer diğer belgelerde öngörülmüş olmaları hâlinde de hüküm aynıdır.
+MADDE 854- (1) Kanunun, taşıyıcıya, taşıma işleri komisyoncusuna ve faaliyetleri
+Devlet iznine bağlı taşıma işletmelerine yüklediği sorumlulukların, önceden hafifletilmesi
+veya kaldırılması sonucunu doğuran tüm sözleşme hükümleri geçersizdir. Bu hükümlerin,
+işletme tüzüklerinde, genel işlem şartlarında, biletlerde, tarifelerde veya benzer diğer
+belgelerde öngörülmüş olmaları hâlinde de hüküm aynıdır.
 
 ---
 

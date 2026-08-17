@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
-**Tasarruf ilkesi**
+**İKİNCİ BÖLÜM
+Yargılamaya Hâkim Olan İlkeler
+Tasarruf ilkesi**
 
 ---
 
@@ -17,6 +19,8 @@ davayı inceleyemez ve karara bağlayamaz.
 hakkını talep etmeye zorlanamaz.
 (3) Tarafların üzerinde serbestçe tasarruf edebilecekleri dava konusu hakkında, dava
 açıldıktan sonra da tasarruf yetkisi devam eder.
+
+---
 
 ### Akademik Yorum ve Analiz
 

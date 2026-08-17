@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
-**İlanın ihtiva edeceği kayıtlar**
+**İlanın ihtiva edeceği kayıtlar:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 30 – İlanda, alakalıların ad ve soyadları, işleri, ikametgah veya m
 iş yerleri, tebliğ olunacak evrak muhteviyatının hulasası, tebliğin anlaşılabilecek şekilde
 mevzuu, sebebi, ilanın hangi merciden verildiği, ilan daveti tazammun ediyorsa nerede ve ne
 için, hangi gün ve saatte hazır bulunulacağı yazılmak lazımdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

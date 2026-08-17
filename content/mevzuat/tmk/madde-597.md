@@ -7,11 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4307
 ---
 
-**III. İl gililere tebliğ**
+**III. İlgililere tebliğ**
 
 ---
 
-Madde 597 - Mirasta hak sahibi olanların her birine gideri terekeye ait olmak üzere, vasiyetnamenin kendilerine ilişkin kısımlarının onaylı bir örneği hâkim tarafından tebliğ edilir. Nerede olduğu bilinmeyenlere vasiyetnamenin kendilerine il işkin kısımları ilân yolu i le tebliğ olunur.
+Madde 597- Mirasta hak sahibi olanların her birine gideri terekeye ait olmak üzere,
+vasiyetnamenin kendilerine ilişkin kısımlarının onaylı bir örneği hâkim tarafından tebliğ edilir.
+Nerede olduğu bilinmeyenlere vasiyetnamenin kendilerine ilişkin kısımları ilân yolu ile tebliğ
+olunur.
 
 ---
 

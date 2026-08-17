@@ -7,16 +7,14 @@ lastReviewed: "2026-07-27"
 wordCount: 3587
 ---
 
-**Taşınır mülkiyeti, malik tarafından terk edilmedikçe veya başkası**
+**C. Kaybedilmesi**
 
 ---
 
-Madde 778 - Taşınır mülkiyeti, malik tarafından terk edilmedikçe veya başkası
-tarafından kazanılmadıkça yalnız zilyetliğin kaybıyla sona ermez.
+Madde 778- Taşınır mülkiyeti, malik tarafından terk edilmedikçe veya başkası tarafından
+kazanılmadıkça yalnız zilyetliğin kaybıyla sona ermez.
 
-İKİNCİ KISIM
-
-SINIRLI AYNÎ HAKLAR
+---
 
 ### Akademik Yorum ve Analiz
 

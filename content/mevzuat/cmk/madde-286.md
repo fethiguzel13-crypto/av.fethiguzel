@@ -7,19 +7,21 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**Temyiz**
+**ÜÇÜNCÜ BÖLÜM
+Temyiz
+Temyiz**
 
 ---
 
 Madde 286 – (1) Bölge adliye mahkemesi ceza dairelerinin bozma dışında kalan
 hükümleri temyiz edilebilir.
-(2) Ancak;131
+(2) Ancak;
 a) İlk derece mahkemelerinden verilen beş yıl veya daha az hapis cezaları ile miktarı
 ne olursa olsun adlî para cezalarına karşı istinaf başvurusunun esastan reddine dair bölge
 adliye mahkemesi kararları,
 b) İlk derece mahkemelerinden verilen beş yıl veya daha az hapis cezalarını
 artırmayan bölge adliye mahkemesi kararları,
-c) (Ek: 20/7/2017-7035/20 md.)132 Hapis cezasından çevrilen seçenek yaptırımlara ilişkin
+c) (Ek: 20/7/2017-7035/20 md.)Hapis cezasından çevrilen seçenek yaptırımlara ilişkin
 ilk derece mahkemesi kararları ile ilgili olarak bölge adliye mahkemesince verilen; seçenek
 yaptırımlara ilişkin her türlü kararlar ve istinaf başvurusunun esastan reddine dair kararlar,
 d) (Anayasa Mahkemesinin 27/12/2018 tarihli ve E.:2018/71 K.:2018/118 sayılı
@@ -39,19 +41,7 @@ reddine dair kararları,
 h) (Değişik: 18/6/2014-6545/78 md.) Davanın düşmesine, ceza verilmesine yer
 olmadığına, güvenlik tedbirine ilişkin ilk derece mahkemesi kararları ile ilgili olarak bölge
 adliye mahkemesince verilen bu tür kararlar veya istinaf başvurusunun esastan reddine dair
-20/7/2017 tarihli ve 7035 sayılı Kanunun 19 uncu maddesiyle, bu fıkrada yer alan “Türk Ceza
-Kanununun” ibaresi “23/4/2016 tarihli ve 6706 sayılı Cezaî Konularda Uluslararası Adlî İş Birliği
-Kanununun” şeklinde değiştirilmiştir.
-131
-18/6/2014 tarihli ve 6545 sayılı Kanunun 78 inci maddesiyle bu fıkranın (d) bendinde yer alan “suç
-niteliğini değiştirmeyen” ibaresi “her türlü” şeklinde değiştirilmiş; (f) bendinde yer alan “bölge adliye
-mahkemesince verilen beraat kararları ile” ibaresi madde metninden çıkarılmıştır.
-132
-20/7/2017 tarihli ve 7035 sayılı Kanunun 20 nci maddesiyle, (b) bendinden sonra gelmek üzere (c)
-bendi eklenmiş ve diğer bentler buna göre teselsül ettirilmiştir.
-130
-
-kararlar,
+kararlar,
 ı) Yukarıdaki bentlerde yer alan sınırlar içinde kalmak koşuluyla aynı hükümde,
 cezalardan ve kararlardan birden fazlasını içeren bölge adliye mahkemesi kararları,
 Temyiz edilemez.
@@ -65,7 +55,7 @@ a) Türk Ceza Kanununda yer alan;
 4. Suçu ve suçluyu övme (madde 215),
 5. Halkı kin ve düşmanlığa tahrik veya aşağılama (madde 216),
 6. Kanunlara uymamaya tahrik (madde 217),
-7. (Ek:13/10/2022-7418/30 md.)133 Halkı yanıltıcı bilgiyi alenen yayma (madde
+7. (Ek:13/10/2022-7418/30 md.)Halkı yanıltıcı bilgiyi alenen yayma (madde
 217/A),
 8. Cumhurbaşkanına hakaret (madde 299),
 9. Devletin egemenlik alametlerini aşağılama (madde 300),
@@ -78,6 +68,8 @@ b) Terörle Mücadele Kanununun 6 ncı maddesinin ikinci ve dördüncü fıkras�
 maddesinin ikinci fıkrasında yer alan suçlar.
 c) Toplantı ve Gösteri Yürüyüşleri Kanununun 28 inci maddesinin birinci fıkrası, 31
 inci maddesi ve 32 nci maddesinde yer alan suçlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

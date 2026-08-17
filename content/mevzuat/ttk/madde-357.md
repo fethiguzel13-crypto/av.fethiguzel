@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
-**D) Temel ilkeler I - Eşit işlem ilkesi**
+**D) Temel ilkeler
+I - Eşit işlem ilkesi**
 
 ---
 
-Madde 357 - (1) Pay sahipleri eşit şartlarda eşit işle me tabi tutulur.
+MADDE 357- (1) Pay sahipleri eşit şartlarda eşit işleme tabi tutulur.
 
 ---
 

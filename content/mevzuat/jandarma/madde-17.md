@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**Görevden uzaklaştırmanın hukuki ve mali sonuçları:16**
+**6755/20 md.)
+Görevden uzaklaştırmanın hukuki ve mali sonuçları:**
 
 ---
 
-Madde 17 – (Mülga: 25/7/2016-KHK-668/20 md.; Aynen Kabul: 8/11/2016
-6755/20 md.)
+Madde 17 – (Mülga: 25/7/2016-KHK-668/20 md.; Aynen Kabul: 8/11/2016-
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,10 +7,6 @@ lastReviewed: "2026-07-20"
 wordCount: 4282
 ---
 
-**III – İdare ve işletme.**
-
----
-
 Madde 92 – (Değişik: 18/2/1965-538/51 md.)
 Bir taşınmazın haczi hasılat ve menfaatlerine de şamildir. Haciz taşınmaz kendilerine
 rehnedilmiş olan alacaklıların haklarına halel getirmez.
@@ -22,12 +18,8 @@ taşınmazda kiracı varsa bu kiracıya, işleyecek kiraları icra dairesine öd
 görme ihtimali bulunan eklenti, rehin alacaklısının talebi üzerine, işletmenin faaliyetine engel
 olmayacak şekilde muhafaza altına alınır. İdare ve muhafaza masrafları satış bedelinden
 öncelikle ödenir.
-14/1/2011 tarihli ve 6103 sayılı Kanunun 41 inci maddesiyle, bu maddenin birinci fıkrasının ikinci cümlesinde
-yer alan “tapuya ve mahcuz gemi ise kayıtlı bulunduğu daireye” ibaresi “tapu siciline” olarak; ikinci fıkrasında
-yer alan “yukarda adı geçen dairelere” ibaresi “tapu siciline” olarak değiştirilmiştir.
-41
 
-(Mülga dördüncü fıkra: 14/1/2011-6103/41 md.)
+---
 
 ### Akademik Yorum ve Analiz
 

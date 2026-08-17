@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4281
 ---
 
-**Sefer hali**
+**Sefer hali:**
 
 ---
 
 Madde 15 – Sefer halinde olan birlik veya müesseseye mensup askeri şahıslara
 tebligat, bağlı bulundukları Kara, Deniz veya Hava kuvvetleri kumandanlıkları vasıtasiyle
 yapılır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

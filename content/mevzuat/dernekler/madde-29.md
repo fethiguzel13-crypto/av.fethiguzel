@@ -7,17 +7,12 @@ lastReviewed: "2026-07-27"
 wordCount: 3168
 ---
 
-**Derneklerin, mevcut veya mahkeme kararıyla kapatılmış veya**
+Madde 29- Derneklerin, mevcut veya mahkeme kararıyla kapatılmış veya feshedilmiş
+bir siyasî partinin, bir sendikanın veya üst kuruluşun, bir derneğin veya üst kuruluşun adını,
+amblemini, rumuzunu, rozetini ve benzeri işaretleri ya da başka bir ülkeye ve daha önce
+kurulmuş Türk devletlerine ait bayrak, amblem ve flamaları kullanmaları yasaktır.
 
 ---
-
-Madde 29 - Derneklerin, mevcut veya mahkeme kararıyla kapatılmış veya
-feshedilmiş bir siyasî partinin, bir sendikanın veya üst kuruluşun, bir derneğin
-veya üst kuruluşun adını, amblemini, rumuzunu, rozetini ve benzeri işaretleri ya
-da başka bir ülkeye ve daha önce kurulmuş Türk devletlerine ait bayrak, amblem ve
-flamaları kullanmaları yasaktır.
-
-Kurulması yasak olan dernekler ve yasak faaliyetler
 
 ### Akademik Yorum ve Analiz
 

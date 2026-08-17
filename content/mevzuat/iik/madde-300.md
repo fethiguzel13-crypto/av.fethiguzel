@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**Alacaklar hakkında borçlunun beyana daveti**
+**Alacaklar hakkında borçlunun beyana daveti:**
 
 ---
 
@@ -16,6 +16,8 @@ Komiser, borçluyu iddia olunan alacaklar hakkında açıklamada bulunmaya davet
 Komiser, alacakların varit olup olmadığı hakkında borçlunun defterleri ve belgeleri üzerinde
 gerekli incelemelerde bulunarak bunların neticesini 302 nci madde gereğince vereceği raporda
 belirtir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

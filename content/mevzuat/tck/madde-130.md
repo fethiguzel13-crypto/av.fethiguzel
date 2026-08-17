@@ -18,6 +18,8 @@ hakaretin alenen işlenmesi halinde, altıda biri oranında artırılır.
 kemikler hakkında tahkir edici fiillerde bulunan kişi, üç aydan iki yıla kadar hapis cezası ile
 cezalandırılır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

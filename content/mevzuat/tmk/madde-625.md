@@ -11,7 +11,12 @@ wordCount: 4303
 
 ---
 
-Madde 625 - Resmî defter tutulması devam ettiği sürece mirasbıra kanın borçları için icra takibi yapılamaz. Bu süre içinde zamanaşımı işlemez. Acele hâller dışında, davalara devam ed ilemiyeceği gibi, yeni dava da açılamaz.
+Madde 625- Resmî defter tutulması devam ettiği sürece mirasbırakanın borçları için icra
+takibi yapılamaz.
+Bu süre içinde zamanaşımı işlemez.
+Acele hâller dışında, davalara devam edilemiyeceği gibi, yeni dava da açılamaz.
+D. Sonuçları
+I. Beyana çağrı
 
 ---
 

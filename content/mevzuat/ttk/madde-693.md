@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
-**III
-- Görüldükten belirli bir süre sonra ödenmesi gereken poliçelerde**
+**III - Görüldükten belirli bir süre sonra ödenmesi gereken poliçelerde**
 
 ---
 
-Madde 693 - (1) Görüldükten belirli bir süre sonra ödenmesi şart kılın an poliçelerin, düzenlenme gününden itibaren bir yıl içinde kabule arz edilmesi gerekir. (2) Düzenleyen bu süreyi kısaltabileceği gibi, daha uzun bir süre de şart koşabilir. (3) Cirantalar kabule arz sürelerini kısaltabilirler.
+MADDE 693- (1) Görüldükten belirli bir süre sonra ödenmesi şart kılınan poliçelerin,
+düzenlenme gününden itibaren bir yıl içinde kabule arz edilmesi gerekir.
+(2) Düzenleyen bu süreyi kısaltabileceği gibi, daha uzun bir süre de şart koşabilir.
+(3) Cirantalar kabule arz sürelerini kısaltabilirler.
 
 ---
 

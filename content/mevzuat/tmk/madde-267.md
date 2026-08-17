@@ -7,15 +7,15 @@ lastReviewed: "2026-07-27"
 wordCount: 3625
 ---
 
-**Eşlerden her biri, yasal sınırlar içerisinde kendi kişisel mallarını yönetme ve**
+**II. Kişisel mallar**
 
 ---
 
-Madde 267 - Eşlerden her biri, yasal sınırlar içerisinde kendi kişisel mallarını yönetme ve
+Madde 267- Eşlerden her biri, yasal sınırlar içerisinde kendi kişisel mallarını yönetme ve
 bunlar üzerinde tasarrufta bulunma hakkına sahiptir.
 Kişisel mallara giren gelirler varsa, yönetim giderleri bu gelirlerden karşılanır.
 
-C. Üçüncü kişilere karşı sorumluluk
+---
 
 ### Akademik Yorum ve Analiz
 

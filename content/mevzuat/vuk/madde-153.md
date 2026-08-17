@@ -7,7 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**İşe başlamayı bildirme:42**
+**İKİNCİ KİTAP
+Mükellefin Ödevleri
+BİRİNCİ KISIM
+Bildirmeler
+BİRİNCİ BÖLÜM
+İşe Başlama
+İşe başlamayı bildirme:**
 
 ---
 
@@ -26,8 +32,8 @@ memurları hakkında işe başlamanın zamanında bildirilmemesine ilişkin usul
 hükümleri uygulanır. (Ek cümle: 15/7/2016-6728/19 md.) Başvuru evraklarının elektronik
 ortamda intikaline ilişkin usul ve esaslar Maliye Bakanlığı ile Gümrük ve Ticaret
 Bakanlığınca müştereken belirlenir.
-(Mülga fıkra: 22/7/2003-4369/82 md.)
-Teminat uygulaması:
+
+---
 
 ### Akademik Yorum ve Analiz
 

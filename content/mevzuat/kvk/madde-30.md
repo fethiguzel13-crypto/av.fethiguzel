@@ -8,7 +8,9 @@ wordCount: 2550
 keywords: ["kvk 30 dar mükellef stopaj", "branch profit tax türkiye", "vergi cenneti %30 stopaj listesi", "kar payı stopajı yabancı", "gayrimaddi hak ödemeleri vergi", "7524 sayılı kanun dar mükellef stopaj", "çifte vergilendirmeyi önleme anlaşması stopaj"]
 ---
 
-**Dar mükellefiyette vergi kesintisi4445**
+**BEŞİNCİ BÖLÜM
+Vergi Kesintisi ve Muhtasar Beyanname
+Dar mükellefiyette vergi kesintisi**
 
 ---
 
@@ -16,11 +18,11 @@ MADDE 30- (1) Dar mükellefiyete tâbi kurumların aşağıdaki kazanç ve iratl
 üzerinden, bu kazanç ve iratları avanslar da dahil olmak üzere nakden veya hesaben ödeyen
 veya tahakkuk ettirenler tarafından % 15 oranında kurumlar vergisi kesintisi yapılır:
 a) Gelir Vergisi Kanununda belirtilen esaslara göre birden fazla takvim yılına yaygın
-inşaat ve onarım işleri ile uğraşan kurumlara bu işleri ile ilgili olarak yapılan hak ediş
+inşaat ve onarım işleri ile uğraşan kurumlara bu işleri ile ilgili olarak yapılan ak ediş
 ödemeleri.
 b) Serbest meslek kazançları.
 c) Gayrimenkul sermaye iratları.
-ch) Gelir Vergisi Kanununun 75 inci maddesinin ikinci fıkrasının (1), (2), (3) ve (4)
+ç) Gelir Vergisi Kanununun 75 inci maddesinin ikinci fıkrasının (1), (2), (3) ve (4)
 numaralı bentlerinde sayılanlar hariç olmak üzere menkul sermaye iratları.
 d) (Ek:20/8/2016-6745/65 md.) Vergi Usul Kanununun 11 inci maddesinin yedinci
 fıkrası kapsamındaki ödemelerden.
@@ -41,6 +43,8 @@ aracılığıyla kâr payı elde edenler hariç olmak üzere dar mükellef kurum
 vergisinden muaf olan dar mükelleflere dağıtılan (Kârın sermayeye eklenmesi kâr dağıtımı
 sayılmaz.) ve Gelir Vergisi Kanununun 75 inci maddesinin ikinci fıkrasının (1), (2) ve (3)
 numaralı bentlerinde sayılan kâr payları üzerinden bu Kanunun 15 inci maddesinin üçüncü
+Bu maddede yer alan vergi kesinti oranlarıyla ilgili olarak 30/3/2025 tarihli ve 32857 sayılı Resmî
+Gazete’de yayımlanan 9707 sayılı Cumhurbaşkanı Kararına bakınız.
 fıkrası uyarınca vergi kesintisine tâbi tutulan kazançlar hariç olmak üzere % 15 oranında
 kurumlar vergisi kesintisi yapılır.
 (4) Kanunun 5 inci maddesinin birinci fıkrasının (c) bendinde belirtilen kurumlar
@@ -67,8 +71,8 @@ yapılır.
 ödemeler, emsaline uygun fiyatlarla deniz ve hava ulaştırma araçlarının kiralanması için
 yapılan ödemeler ile yapılan işin tamamlanabilmesi bakımından zorunluluk arz eden geçiş
 ücreti, liman ücreti gibi ödemeler üzerinden yapılacak kesinti oranını; her bir ödeme türü,
-faiz ve kâr payı ödemeleri ile sigorta ve reasürans ödemeleri üzerinden bu fıkra uyarınca vergi
-kesintisi yapılmaz.
+faaliyet konusu ya da sektör itibarıyla ayrı ayrı belirlemeye, sıfıra kadar indirmeye veya
+kanunî seviyesine kadar getirmeye Cumhurbaşkanı yetkilidir.
 b) Yurtdışındaki finans kuruluşlarından temin edilen borçlanmalara ilişkin ana para,
 faiz ve kâr payı ödemeleri ile sigorta ve reasürans ödemeleri üzerinden bu fıkra uyarınca vergi
 kesintisi yapılmaz.
@@ -83,14 +87,15 @@ kapsamında olup olmamasına, süresine, nev’ine ve yüklenicinin; ana yüklen
 ya da tam ve dar mükellef olmasına göre, birinci fıkranın; (e) bendi kapsamındaki vergi
 kesintisine konu ödemeleri faaliyet konuları ve ödeme türleri itibarıyla, (f) bendi kapsamında
 vergi kesintisine konu mal ve hizmetleri ise faaliyet konuları, sektörler, iş grupları, iş nevileri
-itibarıyla ayrı ayrı veya birlikte belirlemeye yetkilidir.46 47
+46 47
+itibarıyla ayrı ayrı veya birlikte belirlemeye yetkilidir.
 (9) Ticari ve zirai kazançlar hariç olmak üzere bu maddeye göre vergisi kesinti yoluyla
 alınan kazanç ve iratlar için Kanunun 24 veya 26 ncı maddelerine göre beyanname verilmesi
 veya bu madde kapsamına girmeyen kazanç ve iratlar için verilecek beyannamelere söz
-konusu kazanç iratların dahil edilmesi ihtiyaridir. Şu kadar ki, Gelir Vergisi Kanununun 75
+konusu kazanç ve iratların dahil edilmesi ihtiyaridir. Şu kadar ki, Gelir Vergisi Kanununun 75
 inci maddesinin ikinci fıkrasının (5), (7) ve (14) numaralı bentlerinde yer alan menkul
 sermaye iratları ile fonların katılma belgelerinden ve yatırım ortaklıklarının hisse
-senetlerinden elde edilen kâr paylarının verilecek beyannamelere dahil edilmesi zorunludur.48
+senetlerinden elde edilen kâr paylarının verilecek beyannamelere dahil edilmesi zorunludur.
 (10) Bu maddede geçen hesaben ödeme deyimi, kesintiye tâbi kazanç ve iratları
 ödeyenleri hak sahiplerine karşı borçlu durumda gösteren her türlü kayıt ve işlemleri ifade
 eder.
@@ -101,12 +106,7 @@ hesaplanır.
 (12) Bu Kanuna göre vergi kesintisi yapanlar, yaptıkları vergi kesintisini kayıt ve
 hesaplarında ayrıca gösterirler.
 
-30/3/2025 tarihli ve 32857 sayılı Resmî Gazete’de yayımlanan 9707 sayılı Cumhurbaşkanı Kararına bakınız.
-45
-2/7/2018 tarihli ve 700 sayılı KHK’nin 173 üncü maddesiyle, 30 uncu maddenin yedinci fıkrasında
-yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde, aynı fıkranın (a) bendinde ve
-sekizinci fıkrasında yer alan “Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-44
+---
 
 ### Akademik Yorum ve Analiz
 

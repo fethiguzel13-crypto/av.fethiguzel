@@ -13,6 +13,8 @@ wordCount: 4291
 
 Madde 48- (1) Müebbet hapis cezası, hükümlünün hayatı boyunca devam eder.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

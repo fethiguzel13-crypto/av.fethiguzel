@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**Tayın bedeli**
+**Tayın bedeli:**
 
 ---
 
 Madde 23 – (Mülga: 24/5/2007-5668/12 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

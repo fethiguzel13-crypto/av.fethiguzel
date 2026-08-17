@@ -17,6 +17,8 @@ yetkili makam tarafından, 9 uncu maddenin ikinci fıkrası kapsamında olan yab
 valilikler tarafından yapılır. Tebligatta, yabancıların karara karşı itiraz haklarını etkin şekilde
 nasıl kullanabilecekleri ve bu süreçteki diğer yasal hak ve yükümlülükleri de yer alır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

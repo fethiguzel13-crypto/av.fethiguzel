@@ -11,7 +11,7 @@ wordCount: 4314
 
 ---
 
-Madde 500 - Eser sahibi eseri tamamlamadan önce ölür veya tamamlama yeteneğini
+MADDE 500- Eser sahibi eseri tamamlamadan önce ölür veya tamamlama yeteneğini
 yitirir ya da eseri tamamlaması kendi kusuru olmaksızın imkânsız duruma gelirse, sözleşme
 kendiliğinden sona erer. Ancak, sözleşmenin tamamı veya bir bölümünün yerine getirilmesi
 mümkün ve hakkaniyete uygun bulunursa hâkim, sözleşme ilişkisinin devam etmesine ve

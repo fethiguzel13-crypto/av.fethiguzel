@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4320
 ---
 
-**2 – Borçlunun ailesinden birinin ölümü halinde**
+**2 – Borçlunun ailesinden birinin ölümü halinde:**
 
 ---
 
 Madde 52 – Karısı yahut kocası ve kan ve sıhriyet itibariyle usul veya füruundan
 birisi ölen bir borçlu aleyhindeki takip, ölüm günü ile beraber üç gün için talik olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

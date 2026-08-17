@@ -17,6 +17,8 @@ a) 122 nci maddesi, 123 üncü maddesinin birinci, ikinci, beşinci ve yedinci f
 b) Diğer hükümleri yayımı tarihinden bir yıl sonra,
 yürürlüğe girer.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

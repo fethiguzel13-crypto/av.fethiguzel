@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Her sınıfın son aylık derecesi ve en çok aylık miktarı**
+**Her sınıfın son aylık derecesi ve en çok aylık miktarı:**
 
 ---
 
 Madde 153 – (Mülga: 23/12/1972 – KHK-2/5 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

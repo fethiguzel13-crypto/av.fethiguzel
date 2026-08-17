@@ -7,14 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**Artırma ve İhale**
+**Artırma ve İhale:**
 
 ---
 
 Madde 243 – İflas idaresi tarafından artırma ile satılacak taşınır ve taşınmaz malların
 ihalesi 115 ve 129 uncu maddelerin 185 inci maddeye muhalif olmıyan hükümlerine göre
 yapılır.
-Taşınır satışlarında 242 nci madde hükmü tatbik olunur.77
+Taşınır satışlarında 242 nci madde hükmü tatbik olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

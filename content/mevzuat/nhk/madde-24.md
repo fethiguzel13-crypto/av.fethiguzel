@@ -7,22 +7,23 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**Yurt dışında yapılan evlendirmeler**
+**İKİNCİ BÖLÜM
+Üçüncü Sınıf Noterliğe Atama
+İlan üzerine atama:**
 
 ---
 
-MADDE 24- (1) Yurt dışında yabancı yetkili makamlar önünde Türk vatandaşlarının
-yaptığı evlenmeler, 22/11/2001 tarihli ve 4721 sayılı Türk Medenî Kanunu hükümlerine uygun
-olmak ve butlanla batıl olmayı gerektiren bir sebep bulunmamak kaydıyla geçerlidir. Bu
-evliliklerin koca, kocanın yabancı olması halinde kadın tarafından en geç otuz gün içerisinde
-evlenmeyi yapan yabancı makamdan alınmış belgenin o yerdeki dış temsilciliğe verilmesi veya
-dış temsilciliğe gönderilmesi suretiyle yapılır. Beyanı alan dış temsilcilik evlenme bildirimini
-usûlüne göre düzenleyerek nüfus müdürlüklerine göndermekle yükümlüdür.
-(2) O yerde dış temsilcilik bulunmadığı veya dış temsilciliğe bildirimde bulunulamadığı
-takdirde, evlenme bildirimi; yabancı makamlardan alınan evlenme belgesinin Türkçeye çevrilip
-usûlüne göre onaylanmış ve Dışişleri Bakanlığınca tasdik edilmiş olması şartıyla yurt içinde
-nüfus müdürlüğüne verilmek suretiyle de yapılabilir. Bu belgeye dayanılarak düzenlenecek
-evlenme bildirimi ile kütüğe tescil işlemi yapılır.
+Madde 24 – 22 nci maddeye göre ilan edilen üçüncü sınıf noterliğe, ancak noterlik
+belgesini almış olan bir kimse atanabilir.
+Adalet Bakanlığı, Resmi Gazete’de ilan tarihinden itibaren bir ay tamamlandıktan ve
+her halde 23 üncü maddenin 2 nci fıkrasına göre verilen sürenin bitiminden sonra isteklilerden
+18 inci maddede gösterilen defterdeki sırada en önde bulunanı, engel bir hali olmamak
+şartiyle, noterliğe atar.
+(Ek fıkra: 2/12/2014-6572/2 md.) Noterlere Türkiye Noterler Birliği tarafından
+verilen kimlik kartı, tüm resmî ve özel kuruluşlar tarafından kabul edilecek resmî kimlik
+hükmündedir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

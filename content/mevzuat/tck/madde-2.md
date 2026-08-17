@@ -18,6 +18,8 @@ ceza ve güvenlik tedbirine hükmolunamaz.
 (3) Kanunların suç ve ceza içeren hükümlerinin uygulanmasında kıyas yapılamaz. Suç
 ve ceza içeren hükümler, kıyasa yol açacak biçimde geniş yorumlanamaz.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

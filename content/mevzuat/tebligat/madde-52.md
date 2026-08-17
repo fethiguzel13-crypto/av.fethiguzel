@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**Kanunu tatbik ile mükellef olanların işliyecekleri suçlar**
+**ÜÇÜNCÜ BAP
+Cezai Hükümler
+Kanunu tatbik ile mükellef olanların işliyecekleri suçlar:**
 
 ---
 
@@ -16,6 +18,8 @@ vazifeli bulunan memur ve hizmetliler ile mahalle, köy muhtar ve ihtiyar heyeti
 azaları işledikleri suçlar ile kendilerine karşı işlenen suçlardan dolayı, Türk Ceza Kanununun
 kamu görevlisine ilişkin hükümlerine göre cezalandırılır.
 Yukardaki fıkra hükmüne göre yapılacak takibat inzıbati ceza tatbikına mani değildir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

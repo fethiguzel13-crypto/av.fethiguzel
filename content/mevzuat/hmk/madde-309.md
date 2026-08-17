@@ -19,6 +19,8 @@ bağlı değildir.
 yahut tutanakta açıkça gösterilmesi gerekir.
 (4) Feragat ve kabul, kayıtsız ve şartsız olmalıdır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

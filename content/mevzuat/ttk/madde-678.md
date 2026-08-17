@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
-**II
-- Yetkisiz imza**
+**II - Yetkisiz imza**
 
 ---
 
-Madde 678 - (1) Temsile yetkili olmadığı hâlde bir kişinin temsilcisi sıfatıyla bir poliçeye imzasını koyan kişi, o poliçeden dolayı bizzat sorumludur; bu poliçeyi ödediği takdirde, temsil olunduğu kabul edilen ki şinin haiz olabileceği haklara sahip olur. Yetkisini aşan temsilci için de hüküm böyledir.
+MADDE 678- (1) Temsile yetkili olmadığı hâlde bir kişinin temsilcisi sıfatıyla bir
+poliçeye imzasını koyan kişi, o poliçeden dolayı bizzat sorumludur; bu poliçeyi ödediği
+takdirde, temsil olunduğu kabul edilen kişinin haiz olabileceği haklara sahip olur. Yetkisini
+aşan temsilci için de hüküm böyledir.
 
 ---
 

@@ -7,13 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4276
 ---
 
-**Tasdiki yenileme**
+**Tasdiki yenileme:**
 
 ---
 
 Madde 222 – Defterlerini ertesi yılda da kullanmak isteyenler Ocak ayı, hesap
 dönemleri Maliye Bakanlığınca tesbit edilenler bu dönemin ilk ayı içinde tasdiki yeniletmeye
 mecburdurlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

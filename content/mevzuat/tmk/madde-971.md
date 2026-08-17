@@ -11,7 +11,8 @@ wordCount: 4298
 
 ---
 
-Madde 971 - Alacaklılar, rehinli ta hvillerin öngörülen zamandan önce ödenmesini isteyemezler. Tahviller hamile veya nama yazılı olarak çıka rılır ve hamile yazılı kuponları bulunur.
+Madde 971- Alacaklılar, rehinli tahvillerin öngörülen zamandan önce ödenmesini isteyemezler.
+Tahviller hamile veya nama yazılı olarak çıkarılır ve hamile yazılı kuponları bulunur.
 
 ---
 

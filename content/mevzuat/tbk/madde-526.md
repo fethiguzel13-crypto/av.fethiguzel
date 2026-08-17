@@ -7,12 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**A. İşgörenin hak ve borçları
+**ONUNCU BÖLÜM
+Vekâletsiz İşgörme
+A. İşgörenin hak ve borçları
 I. İşin görülmesi**
 
 ---
 
-Madde 526 - Vekâleti olmaksızın başkasının hesabına işgören, o işi sahibinin
+MADDE 526- Vekâleti olmaksızın başkasının hesabına işgören, o işi sahibinin
 menfaatine ve varsayılan iradesine uygun olarak görmekle yükümlüdür.
 
 ---

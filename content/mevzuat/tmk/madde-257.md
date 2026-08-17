@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**II. Ortaklık ma lları
+**II. Ortaklık malları
 1. Genel mal ortaklığı**
 
 ---
 
-Madde 257 - Genel mal ortaklığında eşlerin kanun gereğince kişisel mal sayılanlar dışındaki malları ile gelirleri o rtakl ık mallarını oluşturur. Eşler, ortaklık mallarına bölünmemiş bir bütün olarak sahip olurlar. Hiçbir eş, ort aklık payı üze rinde tek başına tasarruf hakkına sahip değildir.
+Madde 257- Genel mal ortaklığında eşlerin kanun gereğince kişisel mal sayılanlar
+dışındaki malları ile gelirleri ortaklık mallarını oluşturur.
+Eşler, ortaklık mallarına bölünmemiş bir bütün olarak sahip olurlar.
+Hiçbir eş, ortaklık payı üzerinde tek başına tasarruf hakkına sahip değildir.
 
 ---
 

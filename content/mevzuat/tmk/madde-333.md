@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**2. Babalığ ın tes piti nden önce**
+**2. Babalığın tespitinden önce**
 
 ---
 
-Madde 333 - Babalık davası ile birlikte nafaka istenir ve hâkim, babalık olasılığını kuvve tli bulursa, hükümden önce çocuğun ihtiyaçları için uygun bir nafakaya karar ve re bilir.
+Madde 333- Babalık davası ile birlikte nafaka istenir ve hâkim, babalık olasılığını
+kuvvetli bulursa, hükümden önce çocuğun ihtiyaçları için uygun bir nafakaya karar verebilir.
 
 ---
 

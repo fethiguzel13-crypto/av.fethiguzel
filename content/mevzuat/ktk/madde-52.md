@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
-**Hızın gerekli şartlara uygunluğunu sağlamak**
+**Hızın gerekli şartlara uygunluğunu sağlamak:**
 
 ---
 
@@ -24,6 +24,8 @@ esaslara uygun olarak diğer araçların güvenle girebilecekleri açıklıklar 
 Zorundadırlar.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükmüne uymayan sürücüler 1 800 000
 lira para cezası ile cezalandırılırlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

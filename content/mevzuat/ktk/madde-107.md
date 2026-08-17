@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4283
 ---
 
-**Çalınan veya gasbedilen araçlarda sorumluluk**
+**Çalınan veya gasbedilen araçlarda sorumluluk:**
 
 ---
 
@@ -19,7 +19,8 @@ sorumludur. İşleten, kendisinin veya eylemlerinden sorumlu olduğu kişilerden
 İşleten, sorumlu olduğu durumlarda diğer sorumlulara rücu edebilir.
 Aracın çalındığını veya gasbedildiğini bilerek binen yolculara karşı sorumluluk, genel
 hükümlere tabidir.
-(Mülga üçüncü fıkra : 3/6/2007-5684/45 md.)
+
+---
 
 ### Akademik Yorum ve Analiz
 

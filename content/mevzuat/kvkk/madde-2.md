@@ -7,13 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4275
 ---
 
-**Kapsam**
+**Kapsam
+(1) Bu Kanun hükümleri, kişisel verileri işlenen gerçek kişiler ile bu**
 
 ---
 
-MADDE 2- (1) Bu Kanun hükümleri, kişisel verileri işlenen gerçek kişiler ile bu
+MADDE 2-
 verileri tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin parçası
 olmak kaydıyla otomatik olmayan yollarla işleyen gerçek ve tüzel kişiler hakkında uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

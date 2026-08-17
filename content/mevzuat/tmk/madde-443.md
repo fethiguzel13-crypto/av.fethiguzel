@@ -11,7 +11,9 @@ wordCount: 4306
 
 ---
 
-Madde 443 - Vesayet a ltındaki kişinin malvarlığı içinde ticarî, sınaî veya benzeri bir işlet me var sa; vesayet makamı, bunların işletilmesinin devamı ve ya tasfiyesi için gerekli talimatı verir.
+Madde 443- Vesayet altındaki kişinin malvarlığı içinde ticarî, sınaî veya benzeri bir
+işletme varsa; vesayet makamı, bunların işletilmesinin devamı veya tasfiyesi için gerekli talimatı
+verir.
 
 ---
 

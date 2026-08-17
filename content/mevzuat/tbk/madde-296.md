@@ -11,7 +11,7 @@ wordCount: 4270
 
 ---
 
-Madde 296 - Bağışlama sözü veren, aşağıdaki durumlarda sözünü geri alabilir ve
+MADDE 296- Bağışlama sözü veren, aşağıdaki durumlarda sözünü geri alabilir ve
 onu ifadan kaçınabilir:
 1. Elden bağışlanılan bir malın geri verilmesini isteyebileceği sebeplerden biri varsa.
 2. Mali durumu, sonradan sözün yerine getirilmesini kendisi için olağanüstü ağır

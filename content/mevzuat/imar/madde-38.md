@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4308
 ---
 
-**uygulanması**
+**BEŞİNCİ BÖLÜM
+Çeşitli Hükümler
+Halihazır haritaların, imar planlarının ve yapı projelerinin hazırlanması ve
+uygulanması:**
 
 ---
 
@@ -18,6 +21,8 @@ mühendisler, mimarlar, şehir plancıları deruhte ederler.
 resim ve hesaplarının hazırlanmasını ve bunların uygulanmasıyla ilgili fenni mesuliyetleri,
 uzmanlık konularına ve ilgili kanunlarına göre mühendisler, mimarlar ile görev, yetki ve
 sorumlulukları yönetmelikle düzenlenecek olan fen adamları deruhte ederler.
+
+---
 
 ### Akademik Yorum ve Analiz
 

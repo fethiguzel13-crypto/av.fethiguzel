@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4288
 ---
 
-**Aciz hali**
+**Aciz hali:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 75 – Yapılan takip sonunda, borçlunun haczi caiz malı olmadığı vey
 malların satış bedeli borcunu karşılamadığı takdirde borçlu aciz halinde sayılır.
 Yapılan takip safhalariyle bakıye borç miktarı bir aciz fişinde gösterilerek aciz hali
 tesbit olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

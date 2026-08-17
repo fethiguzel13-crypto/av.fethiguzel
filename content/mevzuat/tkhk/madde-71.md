@@ -16,6 +16,8 @@ görevlendirilen diğer kamu personeline ödenecek huzur hakkı ve huzur ücreti
 ücreti ve bu ödemelere ilişkin usul ve esaslar Maliye Bakanlığının uygun görüşü alınarak
 Bakanlıkça belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

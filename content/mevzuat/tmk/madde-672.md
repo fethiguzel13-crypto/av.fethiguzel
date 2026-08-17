@@ -7,11 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4299
 ---
 
-**II. Miras payını aşan kazandır malar**
+**II. Miras payını aşan kazandırmalar**
 
 ---
 
-Madde 672 - Yapılan kazandırma miras payını aştığı takdirde mirasçı, mirasbırakanın bunu kendisine bırakmak istediğini ispat ederse, b u fazlalık denkleştirmeye tâbi olmaz. Diğer mirasçıların tenkise ilişkin hakları saklıdır.
+Madde 672- Yapılan kazandırma miras payını aştığı takdirde mirasçı, mirasbırakanın
+bunu kendisine bırakmak istediğini ispat ederse, bu fazlalık denkleştirmeye tâbi olmaz. Diğer
+mirasçıların tenkise ilişkin hakları saklıdır.
 
 ---
 

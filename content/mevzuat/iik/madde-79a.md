@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4278
 ---
 
-**Konutta haciz**
+**Konutta haciz:**
 
 ---
 
@@ -27,7 +27,8 @@ verilen haciz kararı üzerine yapılan haciz işlemi sırasında, bu yerin konu
 borçlu da haczin yapılmasına rıza göstermez ise haciz işlemine son verilir ve müteakip
 işlemler hakkında birinci ve ikinci fıkra hükümleri uygulanır.
 İhtiyati haciz hakkında, bu madde hükmü uygulanmaz.
-Haciz yapan memurun yetkisi:
+
+---
 
 ### Akademik Yorum ve Analiz
 

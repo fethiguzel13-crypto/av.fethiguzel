@@ -11,7 +11,8 @@ wordCount: 4267
 
 ---
 
-Madde 48 - Tüzel kişil er, c ins, yaş, hısımlık gibi yaradılış gereği insana özgü niteliklere bağlı olanlar dışındaki bütün haklara ve borçlara ehildirler. C. Fiil ehliyeti I. Koşulu M adde 49 - Tüzel kişiler, kanuna ve kuruluş belgelerine göre gerekli organlara sahip olmakla, fii l ehl iyetini kazanırlar.
+Madde 48- Tüzel kişiler, cins, yaş, hısımlık gibi yaradılış gereği insana özgü niteliklere
+bağlı olanlar dışındaki bütün haklara ve borçlara ehildirler.
 
 ---
 

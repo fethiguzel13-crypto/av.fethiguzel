@@ -25,6 +25,8 @@ rıza açıklamasının meşru bir amaca yönelik olması gerekir.
 (4) Fiilin, cebir veya tehdit kullanılmak suretiyle ya da gece vakti işlenmesi halinde,
 bir yıldan üç yıla kadar hapis cezasına hükmolunur.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

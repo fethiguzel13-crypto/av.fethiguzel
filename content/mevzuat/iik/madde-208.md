@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4278
 ---
 
-**Defter tanzimi**
+**SEKİZİNCİ BAP
+İflasın tasfiyesi
+I – MASANIN TEŞKİLİ:
+Defter tanzimi:**
 
 ---
 
@@ -17,7 +20,9 @@ Başka bir kaza dahilinde bulunan mallar hakkında bu muamele ora iflas dairesi
 vesatatiyle yapılır.
 (Ek: 9/11/1988-3494/43 md.) İflas dairesi iflas kararının kendisine tebliğinden
 itibaren en geç iki ay içinde tasfiyenin adi veya basit şekilde yapılacağına karar vermek
-zorundadır.72
+zorundadır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

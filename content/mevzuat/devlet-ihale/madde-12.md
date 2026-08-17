@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4263
 ---
 
-**Şartnamelerin verilmesi**
+**Şartnamelerin verilmesi:**
 
 ---
 
@@ -15,6 +15,8 @@ Madde 12 – İhalesi yapılacak işe ait şartnameler ve ekleri, özel kanunlar
 hükümler saklı kalmak kaydıyla, ilgili idarelerce hazırlanır ve tasdikli örnekleri bedelsiz veya
 özelliklerine göre idarelerce takdir edilecek bir bedel karşılığında isteyenlere verilir.
 Şartname ve ekleri idarede bedelsiz görülebilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

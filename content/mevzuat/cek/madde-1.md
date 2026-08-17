@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4520
 ---
 
-**Amaç ve kapsam**
+**ÇEK KANUNU
+Amaç ve kapsam**
 
 ---
 
@@ -17,6 +18,8 @@ denetim altına alınması önlemlerine katkıda bulunmaya ilişkin esaslar ile 
 çıkması ve belirlenen diğer yükümlülüklere aykırılık hâllerinde ilgililer hakkında uygulanacak
 yaptırımları belirlemektir.
 (2) Bu Kanunda hüküm bulunmayan hâllerde genel hükümler uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

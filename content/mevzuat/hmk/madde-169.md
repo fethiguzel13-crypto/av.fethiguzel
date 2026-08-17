@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4277
 ---
 
-**Konusu**
+**BEŞİNCİ AYIRIM
+İsticvap
+Konusu**
 
 ---
 
@@ -15,6 +17,8 @@ MADDE 169- (1) Mahkeme, kendiliğinden veya talep üzerine taraflardan her birin
 isticvabına karar verebilir.
 (2) İsticvap, davanın temelini oluşturan vakıalar ve onunla ilişkisi bulunan hususlar
 hakkında olur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

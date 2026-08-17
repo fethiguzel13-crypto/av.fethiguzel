@@ -55,6 +55,8 @@ düzeltmede örtülü sermayeye ilişkin kur farklarını da kapsayacak şekilde
 mükellefler nezdinde buna göre düzeltilir. Şu kadar ki, bu düzeltmenin yapılması için örtülü
 sermaye kullanan kurum adına tarh edilen vergilerin kesinleşmiş ve ödenmiş olması şarttır.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

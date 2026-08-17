@@ -15,6 +15,8 @@ MADDE 386- (1) Mühürleme, deftere geçirme ve yemin tutanağı gibi işlerin
 düzenlenmesi usulü, bu Kanun gereğince, Adalet Bakanlığı tarafından çıkarılacak yönetmelikte
 belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

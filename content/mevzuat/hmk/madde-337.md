@@ -23,8 +23,10 @@ olarak kendisini izleyen daireye, son numaralı daire için birinci daireye, o y
 talebi yapılan hukuk mahkemesinin tek dairesi bulunması hâlinde ise aynı işlere bakmakla
 görevli en yakın mahkemeye gönderir. İtiraz incelemesi neticesinde verilen karar kesindir.
 Adli yardım talebi reddedilirse, ödeme gücünde sonradan gerçekleşen ciddi bir azalmaya
-dayanılarak tekrar talepte bulunulabilir.43
+dayanılarak tekrar talepte bulunulabilir.
 (3) Adli yardım, daha önce yapılan yargılama giderlerini kapsamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

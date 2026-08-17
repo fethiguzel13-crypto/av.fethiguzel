@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**Yönetmelikte yer alacak diğer esaslar**
+**Yönetmelikte yer alacak diğer esaslar:**
 
 ---
 
@@ -15,12 +15,14 @@ Madde 121 – Para cezalarının tahsilinde ve takibinde uygulanacak esas ve usu
 kullanılacak makbuzun, suç ve ceza tutanağının şekli ve kullanma esasları ile Bayındırlık
 Bakanlığı mensuplarından hangi niteliklere sahip kişilerin, hangi şartlarda, suç ve ceza
 tutanağı düzenleyeceği, genel zabıtaya mensup kişilerin bu Kanuna göre düzenleyecekleri
-tunaklar hakkında yapılacak işlemler, yetki sınırları, koordinasyon ve işbirliği esasları
+tutanaklar hakkında yapılacak işlemler, yetki sınırları, koordinasyon ve işbirliği esasları
 İçişleri, Maliye ve Bayındırlık bakanlıklarınca müştereken çıkarılacak yönetmelikte gösterilir.
 Makbuz ve tutanaklar Maliye Bakanlığınca bastırılır ve trafik kuruluşlarına dağıtım
 sağlanır. (Ek cümle: 25/6/2010-6001/34 md.) Söz konusu tutanaklar elektronik ortamda da
 üretilebilir ve düzenlenebilir. Buna dair usul ve esaslar İçişleri ve Maliye bakanlıklarınca
 müştereken belirlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

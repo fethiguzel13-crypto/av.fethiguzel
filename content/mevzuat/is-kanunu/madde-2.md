@@ -41,8 +41,6 @@ gerektiren işlerde iş alan ve bu iş için görevlendirdiği işçilerini sade
 ilişkisi denir. Bu ilişkide asıl işveren, alt işverenin işçilerine karşı o işyeri ile ilgili olarak bu
 Kanundan, iş sözleşmesinden veya alt işverenin taraf olduğu toplu iş sözleşmesinden doğan
 yükümlülüklerinden alt işveren ile birlikte sorumludur.
-
-
 Asıl işverenin işçilerinin alt işveren tarafından işe alınarak çalıştırılmaya devam
 ettirilmesi suretiyle hakları kısıtlanamaz veya daha önce o işyerinde çalıştırılan kimse ile alt
 işveren ilişkisi kurulamaz. Aksi halde ve genel olarak asıl işveren alt işveren ilişkisinin
@@ -53,7 +51,7 @@ uzmanlık gerektiren işler dışında asıl iş bölünerek alt işverenlere ve
 dayanılarak kurulan kamu kurum ve kuruluşları ile bunların doğrudan veya dolaylı olarak
 sermayesinin en az yüzde ellisine sahip oldukları ortaklıklarda, 4734 sayılı Kamu İhale
 Kanunu veya diğer kanun hükümleri çerçevesinde, hizmet alımı amacıyla yapılan sözleşmeler
-gereğince, yüklenici aracılığıyla çalıştırılanlar, bu şekilde çalışmış olmalarına dayanarak;1
+gereğince, yüklenici aracılığıyla çalıştırılanlar, bu şekilde çalışmış olmalarına dayanarak;
 a) Bu kurum, kuruluş ve ortaklıklara ait kadro veya pozisyonlara atanmaya,
 b) Bu kurum, kuruluş ve ortaklıklara ait işyerlerinin kadro veya pozisyonlarında
 çalışanlar için toplu iş sözleşmesi, personel kanunları veya ilgili diğer mevzuat hükümlerine
@@ -73,6 +71,8 @@ kuruluşları ve ortaklıklarına bırakılması,
 b) Hizmet alım sözleşmeleri çerçevesinde ya da geçici işçi olarak aynı iş yerinde daha
 önce çalışmış olanların çalıştırılmasına devam olunması,
 yönünde hükümler konulamaz.
+
+---
 
 ### Akademik Yorum ve Analiz
 

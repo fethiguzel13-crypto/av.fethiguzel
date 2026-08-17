@@ -20,8 +20,7 @@ gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısının kararı ile elk
 gönderilerin içinde bulunduğu zarfları veya paketleri açamazlar. Elkonulan gönderiler, ilgili
 posta görevlilerinin huzuru ile mühür altına alınıp derhâl elkoyma kararını veya emrini veren
 hâkim veya Cumhuriyet savcısına teslim edilir.
-
-(3) (Ek:20/11/2017-KHK-696/94 md.; Aynen kabul: 1/2/2018-7079/89 md.)29
+(3) (Ek:20/11/2017-KHK-696/94 md.; Aynen kabul: 1/2/2018-7079/89 md.)
 Elkoyma kararı veya emrinin aşağıda sayılan suçlarla ilgili olarak verilmesi halinde gönderilerin
 bulunduğu zarf veya paketler Cumhuriyet savcısının talimatıyla kolluk memurları tarafından
 açılabilir.
@@ -37,6 +36,8 @@ c) 21/7/1983 tarihli ve 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma 
 alınmış tedbirler ilgililere bildirilir.
 (5) Açılmamasına veya açılıp da içeriği bakımından adliyenin eli altında tutulmasına
 gerek bulunmadığına karar verilen gönderiler, hemen ilgililerine teslim olunur.
+
+---
 
 ### Akademik Yorum ve Analiz
 

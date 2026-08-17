@@ -21,6 +21,8 @@ verilir. Aksi hâlde, geçerli mazereti dışında, güvence Devlet Hazinesine g
 (3) Hükümlülük hâlinde güvence 113 üncü maddenin birinci fıkrasının (b) bendinde
 yer alan hükümlere göre kullanılır, fazlası geri verilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

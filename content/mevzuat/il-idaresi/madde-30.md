@@ -7,15 +7,13 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**Madde 29 – (Mülga: 2/7/2018 - KHK/703/138 md.)**
-
----
-
 Madde 30 – Sekizinci maddenin (A) fıkrası haricinde kalan ilçe idare şube başkanları
 il idare şube başkanlarının inhası üzerine valilerce tayin ve aynı usule göre nakil ve tahvil
 edilirler. İlçenin sekizinci maddenin (B) fıkrası dışında kalan memurları ilçe idare şube
 başkanlarının inhası üzerine kaymakamlarca tayin ve memuriyetleri valilerce tasdik ve aynı
 usule göre nakil ve tahvil olunurlar.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**Madde 113 – (Mülga: 13/2/2011 - 6111/117 md.)**
+Madde 114 – (Mülga: 12/5/1989 – KHK-368/2 md.)
 
 ---
-
-Madde 114 – (Mülga: 12/5/1989 – KHK-368/2 md.)
 
 ### Akademik Yorum ve Analiz
 

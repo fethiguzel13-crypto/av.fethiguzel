@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
-**Tüccarlarda işe başlamanın belirtileri**
+**Tüccarlarda işe başlamanın belirtileri:**
 
 ---
 
@@ -17,7 +17,9 @@ gösterir:
 faaliyete geçmek demektir. Bir yerin ne maksatla olursa olsun sadece tutulmuş olması veya
 içinde tertibat ve tesisat yapılmakta bulunması iş yerinin açıldığını göstermez);
 2. İş yeri açılmamış olsa bile ticaret siciline veya mesleki bir teşekkülle kaydolunmak;
-3. Kazançları basit usulde tesbit edilen tüccarlar için işle bilfiil uğraşmaya başlamak.48
+3. Kazançları basit usulde tesbit edilen tüccarlar için işle bilfiil uğraşmaya başlamak.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,11 +7,12 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**Madde 1149**
+**3. Bilgi**
 
 ---
 
-Madde 1149 - (1) Taşıyanın veya acentesinin bilgisi 1146 ilâ 1148 inci maddelerdeki hâllerde kaptanın bilgisi hükmündedir.
+MADDE 1149- (1) Taşıyanın veya acentesinin bilgisi 1146 ilâ 1148 inci maddelerdeki
+hâllerde kaptanın bilgisi hükmündedir.
 
 ---
 

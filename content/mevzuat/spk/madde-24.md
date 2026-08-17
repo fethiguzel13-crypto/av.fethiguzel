@@ -34,6 +34,8 @@ hususlarda ortaklıkların niteliğine göre farklı usul ve esaslar belirleyebi
 işlem görmeyen ortaklıklarda satım fiyatının hesaplanmasına ilişkin usul ve esaslar Kurul
 tarafından belirlenir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

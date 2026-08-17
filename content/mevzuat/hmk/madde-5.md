@@ -7,12 +7,16 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
-**Genel kural**
+**İKİNCİ AYIRIM
+Yetki
+Genel kural**
 
 ---
 
 MADDE 5- (1) Mahkemelerin yetkisi, diğer kanunlarda yer alan yetkiye ilişkin
 hükümler saklı kalmak üzere, bu Kanundaki hükümlere tabidir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,12 +7,17 @@ lastReviewed: "2026-07-20"
 wordCount: 4267
 ---
 
-**Bütçe**
+**6755/20 md.)
+BEŞİNCİ KISIM
+Mali Hükümler
+Bütçe:**
 
 ---
 
 Madde 18 – Jandarma Genel Komutanlığının bütçesi, İçişleri Bakanlığının bünyesinde ve
 bu Bakanlığın bütçesinden ayrı olarak düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

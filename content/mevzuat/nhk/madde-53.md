@@ -7,14 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
-**Koordinasyon ve işbirliği**
+**Emredici hükümlere uyma zorunluğu:**
 
 ---
 
-MADDE 53- (1) Genel Müdürlük, ulusal adres veri tabanının etkin, süratli ve güncel
-bir şekilde oluşturulmasını sağlamak ve devam ettirmek için kurumlar arası koordinasyonla
-sorumludur. Kurumlar, adrese ve adres bileşenlerine ilişkin ellerindeki bilgileri Genel
-Müdürlükle ve ilgili kurumlarla paylaşmakla yükümlüdür.
+Madde 53 – Noterler, kanunların emredici hükümlerine aykırı hususlarda işlem
+yapamazlar. Bu hüküm, imza onaylaması yapılan işlemlerin münderecatı hakkında da uygulanır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

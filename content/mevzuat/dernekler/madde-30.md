@@ -19,7 +19,8 @@ fiilleri gerçekleştirmek amacıyla kurulamaz.
 c) Askerliğe, millî savunma ve genel kolluk hizmetlerine hazırlayıcı öğretim ve eğitim
 faaliyetlerinde bulunamaz, bu amaçları gerçekleştirmek üzere kamp veya eğitim yerleri
 açamazlar. Üyeleri için özel kıyafet veya üniforma kullanamazlar.
-Görevden uzaklaştırma ve faaliyetten geçici alıkoyma
+
+---
 
 ### Akademik Yorum ve Analiz
 

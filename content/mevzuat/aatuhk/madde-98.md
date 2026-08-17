@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**Gayrimenkullerin teferruğu ve geri verilmesi**
+**Gayrimenkullerin teferruğu ve geri verilmesi:**
 
 ---
 
@@ -23,6 +23,8 @@ alacağını, gecikme zamları ile birlikte ödediği takdirde gayrimenkul kendi
 Ferağ masrafı borçluya aittir.
 Teferruğ kararı verilmeden evvel biçilen rayiç bedelin % 75 i veya fazlasiyle hariçten
 talip çıkarsa alacaklı amme idaresi teferruğdan vazgeçer.
+
+---
 
 ### Akademik Yorum ve Analiz
 

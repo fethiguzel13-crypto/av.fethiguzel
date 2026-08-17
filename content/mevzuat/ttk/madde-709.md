@@ -7,12 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4318
 ---
 
-**II
-- Makbuz istemek hakkı**
+**II - Makbuz istemek hakkı**
 
 ---
 
-Madde 709 - (1) Muhatap, poliçeyi öderken hamil tarafından bir ibra şerhi yazılarak poliçenin kendisine verilmesini isteyebilir. (2) Hamil kısmi ödemeyi reddedemez. (3) Kısm i ödeme hâlinde muhatap bu ödemenin poliçe üzerine yazılmasını ve kendisine bir makbuz verilmesini isteyebilir.
+MADDE 709- (1) Muhatap, poliçeyi öderken hamil tarafından bir ibra şerhi yazılarak
+poliçenin kendisine verilmesini isteyebilir.
+(2) Hamil kısmi ödemeyi reddedemez.
+(3) Kısmi ödeme hâlinde muhatap bu ödemenin poliçe üzerine yazılmasını ve
+kendisine bir makbuz verilmesini isteyebilir.
 
 ---
 

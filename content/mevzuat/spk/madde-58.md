@@ -22,11 +22,7 @@ gösterilerek ihraç edilen sermaye piyasası araçlarıdır.
 hüküm bulunması şartıyla kredi almak, türev araç işlemleri, açığa satış işlemleri veya fon adına
 taraf olunan benzer nitelikteki işlemlerde bulunmak haricinde teminat gösterilemez ve
 rehnedilemez. Fonun mal varlığı, kurucunun, fona hizmet sağlayanların ve fon portföyüne
-4/3/2021 tarihli ve 7292 sayılı Kanunun 20 nci maddesiyle, bu fıkrada yer alan “ve finansman”
-ibaresi “, finansman şirketleri ve tasarruf finansman” şeklinde değiştirilmiştir.
-4
-
-alacaklarını veya varlıklarını devredenlerin mal varlığından ayrıdır. Fon mal varlığı, ipoteğe
+alacaklarını veya varlıklarını devredenlerin mal varlığından ayrıdır. Fon mal varlığı, ipoteğe
 veya varlığa dayalı menkul kıymetler itfa edilinceye kadar; kurucunun, fona hizmet
 sağlayanların ve fon portföyüne alacak veya varlıklarını devredenlerin yönetiminin veya
 denetiminin kamu kurumlarına devredilmesi hâlinde dahi başka bir amaçla tasarruf edilemez,
@@ -54,6 +50,8 @@ bağlı olan ve konut veya varlık finansmanı fonu portföyüne alınan varlık
 siciline veya ilgili sicile fon adına tescil edilir. Tapuda, ticaret sicilinde ve diğer resmî
 sicillerde fon adına yapılacak işlemler, fon kurucusu ile fon kurulunu temsil eden birer
 yetkilinin müşterek imzalarıyla gerçekleştirilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

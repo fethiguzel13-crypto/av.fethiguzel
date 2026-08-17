@@ -7,20 +7,17 @@ lastReviewed: "2026-07-27"
 wordCount: 3625
 ---
 
-**(1) Senetle ispat zorunluluğu bulunan**
+**Delil başlangıcı**
 
 ---
 
-Madde 202 - (1) Senetle ispat zorunluluğu bulunan
-hâllerde delil başlangıcı bulunursa tanık dinlenebilir.
+MADDE 202- (1) Senetle ispat zorunluluğu bulunan hâllerde delil başlangıcı
+bulunursa tanık dinlenebilir.
+(2) Delil başlangıcı, iddia konusu hukuki işlemin tamamen ispatına yeterli olmamakla
+birlikte, söz konusu hukuki işlemi muhtemel gösteren ve kendisine karşı ileri sürülen kimse
+veya temsilcisi tarafından verilmiş veya gönderilmiş belgedir.
 
-(2) Delil başlangıcı, iddia
-konusu hukuki işlemin tamamen ispatına yeterli olmamakla birlikte, söz konusu hukuki
-işlemi muhtemel gösteren ve kendisine karşı ileri sürülen kimse veya temsilcisi
-tarafından verilmiş veya gönderilmiş belgedir.
-
-Senetle
-ispat zorunluluğunun istisnaları
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,9 @@ wordCount: 4301
 
 ---
 
-Madde 934 - Se netler, sayıları gösterilmek suretiyle tapu kütüğüne tescil olunur; ödüncün tamamı için bi r tescil yapılır. Senet sayısı az ise, her senet ayrı tescil edilebilir.
+Madde 934- Senetler, sayıları gösterilmek suretiyle tapu kütüğüne tescil olunur; ödüncün
+tamamı için bir tescil yapılır.
+Senet sayısı az ise, her senet ayrı tescil edilebilir.
 
 ---
 

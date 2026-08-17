@@ -7,7 +7,11 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**Kentsel dönüşüm ve gelişim alanı**
+**ALTINCI KISIM
+Çeşitli ve Son Hükümler
+BİRİNCİ BÖLÜM
+Çeşitli Hükümler
+Kentsel dönüşüm ve gelişim alanı**
 
 ---
 
@@ -21,13 +25,10 @@ olarak ilan edilebilmesi için yukarıda sayılan hususlardan birinin veya bir k
 gerçekleşmesi ve bu alanın belediye veya mücavir alan sınırları içerisinde bulunması şarttır.
 Ancak, kamunun mülkiyetinde veya kullanımında olan yerlerde kentsel dönüşüm ve gelişim
 proje alanı ilan edilebilmesi ve uygulama yapılabilmesi için ilgili belediyenin talebi ve
-Cumhurbaşkanınca bu yönde karar alınması şarttır. 4647
+Cumhurbaşkanınca bu yönde karar alınması şarttır.
 Kentsel dönüşüm ve gelişim proje alanı olarak ilan edilecek alanın; üzerinde yapı olan
 veya olmayan imarlı veya imarsız alanlar olması, yapı yükseklik ve yoğunluğunun
-44 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri Bakanlığı ile Bayındırlık ve İskân Bakanlığı tarafından müştereken” ibaresi “Çevre ve Şehircilik Bakanlığı tarafından” şeklinde değiştirilmiştir. 45 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir. 46 16/5/2012 tarihli ve 6306 sayılı Kanunun 17 nci maddesiyle, bu maddenin birinci fıkrasının üçüncü cümlesinde yer alan “yapılabilmesi Bakanlar Kurulu kararına bağlıdır.” ibaresi “yapılabilmesi için ilgili belediyenin talebi ve Çevre ve Şehircilik Bakanlığının teklifi üzerine Bakanlar Kurulunca bu yönde karar alınması şarttır.” şeklinde değiştirilmiştir. 47 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 200 üncü maddesiyle bu fıkrada yer alan “Çevre ve Şehircilik Bakanlığının teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-
-
-belirlenmesi, alanın büyüklüğünün en az 5 en çok 500 hektar arasında olması, etaplar halinde
+belirlenmesi, alanın büyüklüğünün en az 5 en çok 500 hektar arasında olması, etaplar halinde
 yapılabilmesi hususlarının takdiri münhasıran belediye meclisinin yetkisindedir. Toplamı 5
 hektardan az olmamak kaydı ile proje alanı ile ilişkili birden fazla yer tek bir dönüşüm alanı
 olarak belirlenebilir.
@@ -66,9 +67,7 @@ inşaatların tamamı belediyeler tarafından yapılır veya yaptırılır. Bele
 yapmayan veya belediyece kamulaştırılmasına gerek duyulmayan gayrimenkul sahiplerinden
 proje alanında kendilerine 3194 sayılı Kanunun 18 inci maddesine göre ayrı ada ve parselde
 imar hakkı verilmemiş olanlar kamulaştırmasız el atma davası açabilir.
-
-
-Kentsel dönüşüm ve gelişim proje alanlarında yapılacak alt yapı ve rekreasyon
+Kentsel dönüşüm ve gelişim proje alanlarında yapılacak alt yapı ve rekreasyon
 harcamaları, proje ortak gideri sayılır. Belediyelere ait inşaatların proje ortak giderleri
 belediyeler tarafından karşılanır. Kendilerine ayrı ada veya parsel tahsis edilen gayrimenkul
 sahipleri ile kamulaştırma dışı kalan gayrimenkul sahipleri, sahip oldukları inşaatın toplam
@@ -82,7 +81,7 @@ meydana gelen değişiklikler belediyeye bildirilir.
 Kentsel dönüşüm ve gelişim alanı ilan edilen yerlerde; ifraz, tevhit, sınırlı ayni hak
 tesisi ve terkini, cins değişikliği ve yapı ruhsatı verilmesine ilişkin işlemler belediyenin izni
 ile yapılır. (İptal ikinci, üçüncü, dördüncü cümleler: Anayasa Mahkemesinin 18/10/2012
-tarihli ve E.: 2010/82, K.:2012/159 sayılı Kararı ile) (...)
+tarihli ve E.: 2010/82, K.:2012/159 sayılı Kararı ile) (…)
 Belediye, kentsel dönüşüm ve gelişim projelerini gerçekleştirmek amacıyla; imar
 uygulaması yapmaya, imar uygulaması yapılan alanlardaki taşınmazların değerlerini tespit
 etmeye ve bu değer üzerinden hak sahiplerine dağıtım yapmaya veya hasılat paylaşımını esas
@@ -109,13 +108,13 @@ kat maliklerinin arsa payı çoğunluğu ile verecekleri karara göre yapılır.
 gelişim alanı ilan edilen alanlar ile 5366 sayılı Kanuna göre yenileme alanı ilan edilen
 alanlarda veya bu Kanunun 75 inci maddesine göre kamu kurum ve kuruluşları ile protokol
 yapmaları hâlinde, büyükşehir belediye meclisi kararı ile, yıkılan ibadethane ve yurtların
-
-
-yerine veya ihtiyaç duyulan yerlerde ibadethane ve yurt inşa edilebilir.
+yerine veya ihtiyaç duyulan yerlerde ibadethane ve yurt inşa edilebilir.
 Kentsel dönüşüm ve gelişim projesi kapsamındaki işler, kamu idareleriyle 75 inci
 madde çerçevesinde ortak hizmet projeleri aracılığıyla gerçekleştirilebilir.
 Bu Kanunun konusu ile ilgili hususlarda Başbakanlık Toplu Konut İdaresine 2985
 sayılı Kanun ve diğer kanunlarla verilen yetkiler saklıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

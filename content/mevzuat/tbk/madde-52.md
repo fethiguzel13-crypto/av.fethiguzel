@@ -11,7 +11,7 @@ wordCount: 4315
 
 ---
 
-Madde 52 - Zarar gören, zararı doğuran fiile razı olmuş veya zararın doğmasında ya
+MADDE 52- Zarar gören, zararı doğuran fiile razı olmuş veya zararın doğmasında ya
 da artmasında etkili olmuş yahut tazminat yükümlüsünün durumunu ağırlaştırmış ise
 hâkim, tazminatı indirebilir veya tamamen kaldırabilir.
 Zarara hafif kusuruyla sebep olan tazminat yükümlüsü, tazminatı ödediğinde

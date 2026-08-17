@@ -14,6 +14,8 @@ wordCount: 4300
 Madde 249- (1) Zimmet suçunun konusunu oluşturan malın değerinin azlığı nedeniyle,
 verilecek ceza üçte birden yarıya kadar indirilir.
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

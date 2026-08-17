@@ -7,19 +7,22 @@ lastReviewed: "2026-07-20"
 wordCount: 4265
 ---
 
-**Ziraat birimleri**
+**(Mülga yedinci fıkra: 1/5/1981-2455/2 md.)
+(Ek sekizinci fıkra: 30/12/1980-2365/7 md.; Mülga: 1/5/1981-2455/2 md.)
+Ziraat birimleri:**
 
 ---
 
 Madde 47 – Ziraat birimleri:
 a) Tarla, bağ ve sebze ziraati ile ormancılıkta dönüm;
 b) Ölçü olarak ağaç kabul edilenlerde ürün verecek hale gelmiş ağaç sayısı;
-
-c) Hayvancılıkta hayvan sayısı;
+c) Hayvancılıkta hayvan sayısı;
 dır.
 Özellik gösteren ziraat nevilerinde Maliye ve Tarım Bakanlıklarınca bu zi raat
 çeşitlerinin mahiyetlerine uygun olarak müştereken belli edilecek diğer birimler kullanılır.
 Bu kanunun uygulanmasında dönüm bin metre karelik toprak parçasıdır.
+
+---
 
 ### Akademik Yorum ve Analiz
 

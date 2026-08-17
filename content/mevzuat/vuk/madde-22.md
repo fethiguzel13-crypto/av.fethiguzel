@@ -7,15 +7,14 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
-**Tahakkuk**
+**Tahakkuk:**
 
 ---
 
 Madde 22 – Verginin tahakkuku, tarh ve tebliğ edilen bir verginin ödenmesi gereken
 bir safhaya gelmesidir.
-Tahsil:
 
-Madde 23 – Verginin tahsili, kanuna uygun surette ödenmesidir.
+---
 
 ### Akademik Yorum ve Analiz
 

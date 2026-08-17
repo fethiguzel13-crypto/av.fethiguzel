@@ -7,15 +7,14 @@ lastReviewed: "2026-07-27"
 wordCount: 3336
 ---
 
-**(1) Delil gösteren taraf, karşı**
+**Delilden vazgeçme**
 
 ---
 
-Madde 196 - (1) Delil gösteren taraf, karşı
-tarafın açık izni olmadıkça, o delile dayanmaktan vazgeçemez.
+MADDE 196- (1) Delil gösteren taraf, karşı tarafın açık izni olmadıkça, o delile
+dayanmaktan vazgeçemez.
 
-Delillerin
-incelenmesi ve istinabe
+---
 
 ### Akademik Yorum ve Analiz
 

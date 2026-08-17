@@ -7,7 +7,8 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-**Göreve ilişkin sırrın açıklanması**
+**(3) (Mülga: 2/7/2012-6352/105 md.)
+Göreve ilişkin sırrın açıklanması**
 
 ---
 
@@ -17,6 +18,8 @@ yayınlayan veya ne suretle olursa olsun başkalarının bilgi edinmesini kolayl
 görevlisine, bir yıldan dört yıla kadar hapis cezası verilir.
 (2) Kamu görevlisi sıfatı sona erdikten sonra, birinci fıkrada yazılı fiilleri işleyen
 kimseye de aynı ceza verilir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -11,7 +11,9 @@ wordCount: 4306
 
 ---
 
-Madde 163 - Eşlerden biri küçük düşür ücü b ir suç işler veya haysiyetsiz bir hayat sürer ve bu sebeplerden ötürü onunla birlikte yaşaması diğer eşten beklenemezse, bu eş her zaman boşanma davası açab ilir.
+Madde 163- Eşlerden biri küçük düşürücü bir suç işler veya haysiyetsiz bir hayat sürer ve bu
+sebeplerden ötürü onunla birlikte yaşaması diğer eşten beklenemezse, bu eş her zaman boşanma davası
+açabilir.
 
 ---
 

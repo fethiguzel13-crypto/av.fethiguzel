@@ -7,7 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4279
 ---
 
-**Kısmen haczi caiz olan şeyler**
+**Kısmen haczi caiz olan şeyler:**
 
 ---
 
@@ -19,7 +19,8 @@ edildikten sonra haczolunabilir.
 (Değişik: 12/4/1968 – 1045/1 md.) Ancak haczolunacak miktar bunların dörtte
 birinden az olamaz. Birden fazla haciz var ise sıraya konur. Sırada önde olan haczin kesintisi
 bitmedikçe sonraki haciz için kesintiye geçilemez.
-Önceden yapılan anlaşmalar:
+
+---
 
 ### Akademik Yorum ve Analiz
 

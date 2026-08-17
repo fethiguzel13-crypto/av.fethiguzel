@@ -22,17 +22,18 @@ sağlık hizmetleri bedeline ek olarak, genel sağlık sigortalısı ve bakmakla
 kişilerden sağlık hizmeti sunucularının giderleri ve ürettikleri sağlık hizmetlerinin maliyetleri,
 yapılan sübvansiyonlar gibi kriterler dikkate alınarak bu bedellerin iki katına kadar
 alınabilecek ilave ücretin tavanını belirlemeye Cumhurbaşkanı yetkilidir. Bu tavan dahilinde
-alınabilecek ilave ücret oranları Kurumca belirlenir. Ancak (...)127 60 ıncı maddenin birinci
+alınabilecek ilave ücret oranları Kurumca belirlenir. Ancak (…)60 ıncı maddenin birinci
 fıkrasının (c) bendinin (4), (6) ve (8) numaralı alt bentleri kapsamında sayılanlar ile bakmakla
 yükümlü oldukları kişiler ile aynı maddenin onikinci, onüçüncü ve ondördüncü fıkraları
 kapsamında genel sağlık sigortalısı sayılan kişilerden ilave ücret alınamaz. Sağlık Hizmetleri
 Fiyatlandırma Komisyonunca belirlenen eşdeğer ilaçların, azami fiyatı ile kişinin talep ettiği
 eşdeğer ilacın fiyatı arasında oluşacak fark ve optik için tavan uygulanmaz ve bu fıkra
-kapsamında değerlendirilmez. 128129
-
+128129
+kapsamında değerlendirilmez.
 Kamu idaresi sağlık hizmeti sunucuları ise otelcilik hizmeti ile dördüncü fıkrada belirtilen
 istisnai sağlık hizmetleri dışında, sağladıkları sağlık hizmetleri için genel sağlık sigortalısı ve
-bakmakla yükümlü olduğu kişilerden ilave ücret talep edemez. (Mülga ikinci cümle: 21/1/2010-5947/19 md.) (...) (Ek cümleler: 21/5/2013-6486/4) Ancak yükseköğretim kurumlarına ait
+bakmakla yükümlü olduğu kişilerden ilave ücret talep edemez. (Mülga ikinci cümle: 21/1/2010-
+5947/19 md.) (…) (Ek cümleler: 21/5/2013-6486/4) Ancak yükseköğretim kurumlarına ait
 sağlık hizmeti sunucularında öğretim üyeleri tarafından mesai saatleri dışında bizzat verilen sağlık
 hizmetleri için Kurumca belirlenmiş sağlık hizmetleri bedelinin, poliklinik muayenelerinde bir
 katını, diğer hizmetlerde yüzde ellisini geçmemek üzere, üniversite yönetim kurulu kararıyla
@@ -72,7 +73,7 @@ talep edemez. Götürü bedel üzerinden hizmet alım sözleşmesiyle temin edil
 Kuruma ayrıca fatura ve dayanağı belge gönderilmez. Bu fıkranın uygulanmasına ilişkin usul
 ve esaslar Sağlık Bakanlığı ile müştereken belirlenir.
 Sağlık hizmeti sunucuları, genel sağlık sigortalısı ve bakmakla yükümlü olduğu
-kişilerin sağlık hizmetlerden yararlanmaya müstahak olup olmadığını, Kurumun elektronik
+kişilerin sağlık hizmetlerinden yararlanmaya müstahak olup olmadığını, Kurumun elektronik
 veya diğer ortamlarda sağlayacağı yöntemlere uygun olarak kontrol etmek ve belgelemek
 zorundadır.
 (Ek fıkra: 4/7/2012-6353/84 md.) 3713 sayılı Kanuna göre aylık bağlanmış maluller,
@@ -89,7 +90,7 @@ gereçler herhangi bir kısıtlama getirilmeksizin Sosyal Güvenlik Kurumunca ka
 (Değişik cümle: 10/9/2014-6552/49 md.) Ancak, 72 nci maddede belirtilen usullere göre
 bedelleri karşılanacak olan bu kapsamdaki ürünler, garanti süresi kapsamında veya aynı
 amaca yönelik ürün talepleri Kurum tarafından yayınlanan ürün listelerinden, yine Kurum
-by Kurum tarafından belirlenen usul ve esaslara göre karşılanır.
+tarafından belirlenen usul ve esaslara göre karşılanır.
 (Ek fıkra: 4/7/2012-6353/84 md.) Genel sağlık sigortalısı ile bakmakla yükümlü
 olduğu kişilerden, 3713 sayılı Kanunun 21 inci maddesinde sayılan olaylara maruz kalmaları
 nedeniyle yaralananlar, tedavileri sonuçlanıncaya veya maluliyetleri kesinleşinceye kadar
@@ -111,6 +112,8 @@ usul ve esaslar Kurumca belirlenir.
 Sağlık hizmeti satın alma sözleşmelerinin hazırlanması ve akdedilmesi, sağlık hizmeti
 giderlerinin ödenmesi ve bu maddenin uygulanmasına ilişkin diğer usûl ve esaslar, Kurum
 tarafından çıkarılacak yönetmelikle düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,9 @@ lastReviewed: "2026-07-20"
 wordCount: 4309
 ---
 
-**Yan hizmetler**
+**saklanması
+h) Kurulca belirlenecek diğer hizmet ve faaliyetlerde bulunulması
+Yan hizmetler**
 
 ---
 
@@ -21,8 +23,8 @@ c) Sermaye piyasası araçlarına ilişkin işlemlerle ilgili yatırım araştı
 analiz yapılması veya genel tavsiyede bulunulması
 ç) Aracılık yükleniminin yürütülmesi ile ilgili hizmetlerin sunulması
 d) Borçlanma veya başka yollardan finansman sağlanmasında aracılık hizmeti sunulması
-e) Servet yönetimi ve finansal planlama yapılması
-f) Kurulca belirlenecek diğer hizmet ve faaliyetlerde bulunulması
+
+---
 
 ### Akademik Yorum ve Analiz
 

@@ -7,7 +7,10 @@ lastReviewed: "2026-07-20"
 wordCount: 4266
 ---
 
-**İş kazasının tanımı, bildirilmesi ve soruşturulması**
+**ÜÇÜNCÜ BÖLÜM
+Hizmet Akdiyle veya Kendi Adına ve Hesabına Bağımsız Çalışan Sigortalıların
+Tabi Olduğu Kısa Vadeli Sigorta Hükümleri
+İş kazasının tanımı, bildirilmesi ve soruşturulması**
 
 ---
 
@@ -20,12 +23,9 @@ yere gönderilmesi nedeniyle asıl işini yapmaksızın geçen zamanlarda,
 d) (Değişik: 17/4/2008-5754/8 md.) Bu Kanunun 4 üncü maddesinin birinci fıkrasının
 (a) bendi kapsamındaki emziren kadın sigortalının, iş mevzuatı gereğince çocuğuna süt
 vermek için ayrılan zamanlarda,
-23 17/4/2008 tarihli ve 5754 sayılı Kanunun 65 inci maddesiyle; 12 nci maddesinin üçüncü fıkrasında yer alan “üçüncü” ibaresi “dördüncü”olarak değiştirilmiş; aynı Kanunun 66 ncı maddesiyle “işçi sendikaları” ibaresinden sonra gelmek üzere “ve konfederasyonları” ibaresi eklenmiştir. 24 Bu bölüm başlığı “Kısa Vadeli Sigorta Hükümleri” iken, 17/4/2008 tarihli ve 5754 sayılı Kanunun 65 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-
-
-e) Sigortalıların, işverence sağlanan bir taşıtla işin yapıldığı yere gidiş gelişi sırasında,
+e) Sigortalıların, işverence sağlanan bir taşıtla işin yapıldığı yere gidiş gelişi sırasında,
 meydana gelen ve sigortalıyı hemen veya sonradan bedenen ya da ruhen engelli hâle
-getiren olaydır.25
+getiren olaydır.
 İş kazasının 4 üncü maddenin birinci fıkrasının;
 a) (a) bendi ile 5 inci madde kapsamında bulunan sigortalılar bakımından bunları
 çalıştıran işveren tarafından, o yer yetkili kolluk kuvvetlerine derhal ve Kuruma da en geç
@@ -46,8 +46,12 @@ anlaşılırsa, Kurumca bu olay için yersiz olarak yapılmış bulunan ödemele
 yapıldığı tarihten itibaren gerçeğe aykırı bildirimde bulunanlardan, 96 ncı madde hükmüne
 göre tahsil edilir.
 İş kazası ve meslek hastalığı bildirgesinin şekli ve içeriği, verilme usûlü ile bu
+Bu bölüm başlığı “Kısa Vadeli Sigorta Hükümleri” iken, 17/4/2008 tarihli ve 5754 sayılı Kanunun
+65 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 maddenin uygulanmasına ilişkin usûl ve esaslar, Kurum tarafından çıkarılacak yönetmelikle
 düzenlenir.
+
+---
 
 ### Akademik Yorum ve Analiz
 
