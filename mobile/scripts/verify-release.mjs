@@ -18,7 +18,7 @@
  */
 import { readFileSync, readdirSync, existsSync, statSync } from 'node:fs';
 import { createHash } from 'node:crypto';
-import { join, dirname } from 'node:path';
+import { join, dirname, isAbsolute } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const here = dirname(fileURLToPath(import.meta.url));
@@ -90,7 +90,18 @@ function checkAndroidModule() {
   } else {
     const p = readSafe(ksProps) || '';
     const storeFile = /storeFile\s*=\s*(.+)/.exec(p)?.[1]?.trim();
-    if (!storeFile || !existsSync(join(root, 'android', storeFile))) {
+    /*
+     * Göreli storeFile, android/app/build.gradle'daki Gradle `file()`
+     * çağrısının kendisiyle AYNI temele göre çözülmeli — o çağrı app/
+     * modülünün proje dizininden (android/app/) çalışır, keystore.properties
+     * dosyasının bulunduğu android/'den değil. Burada android/'e göre
+     * çözülüp Gradle'da android/app/'e göre çözülmesi, ikisinin FARKLI
+     * dosyalara bakması ve Gradle'ın hatasızca sessizce imzasız derlemesi
+     * demekti — tam olarak bu projede yaşanmış somut bir hataydı.
+     */
+    const resolved =
+      storeFile && (isAbsolute(storeFile) ? storeFile : join(root, 'android', 'app', storeFile));
+    if (!resolved || !existsSync(resolved)) {
       fail(`keystore.properties var ama storeFile bulunamıyor: ${storeFile}`);
     } else ok('release imza anahtarı yerinde');
   }
