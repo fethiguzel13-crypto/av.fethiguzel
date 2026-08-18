@@ -4,6 +4,37 @@ import { App as CapApp } from '@capacitor/app';
 import { StatusBar, Style } from '@capacitor/status-bar';
 import { SplashScreen } from '@capacitor/splash-screen';
 
+/**
+ * Marka fontları — kendi barındırılan (self-hosted).
+ *
+ * Bu uygulama çevrimdışı çalışmak zorunda (Play mağaza politikası bunu
+ * istiyor); bir CDN'den font çekmek yanlış çözüm olurdu. `@fontsource`
+ * paketleri woff2 dosyalarını doğrudan pakete gömer, Vite derleme
+ * çıktısına kopyalar.
+ *
+ * `latin-ext` alt kümesi seçildi (yalnız `latin` değil) — Türkçe İ/ı/ğ/Ş/Ç
+ * gibi karakterler temel Latin kümesinde yok. Portalın kendi font
+ * yüklemesiyle aynı alt küme (`app/layout.tsx` → `subsets: ['latin',
+ * 'latin-ext']`).
+ *
+ * Ağırlıklar kod tabanında GERÇEKTEN kullanılanlarla sınırlı — kullanılmayan
+ * ağırlık indirmek çevrimdışı bir uygulamada saf israf.
+ *
+ * Cormorant Garamond ("drama" — vurgu serifi) bilinçli olarak YOK: tailwind
+ * config'de tanımlı ama mobil kaynağın hiçbir yerinde `font-drama` sınıfı
+ * kullanılmıyor. Gerçekten kullanılmaya başlanırsa o zaman eklenir.
+ */
+import '@fontsource/plus-jakarta-sans/latin-ext-400.css';
+import '@fontsource/plus-jakarta-sans/latin-ext-500.css';
+import '@fontsource/plus-jakarta-sans/latin-ext-600.css';
+import '@fontsource/plus-jakarta-sans/latin-ext-700.css';
+import '@fontsource/outfit/latin-ext-500.css';
+import '@fontsource/outfit/latin-ext-600.css';
+import '@fontsource/outfit/latin-ext-700.css';
+import '@fontsource/ibm-plex-mono/latin-ext-400.css';
+import '@fontsource/ibm-plex-mono/latin-ext-500.css';
+import '@fontsource/ibm-plex-mono/latin-ext-600.css';
+
 import './app.css';
 import { APP, APP_ID, appName } from './lib/config';
 import { navigate } from './lib/router';

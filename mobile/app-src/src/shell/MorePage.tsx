@@ -16,40 +16,49 @@ import { navigate } from '../lib/router';
 export default function MorePage() {
   return (
     <div className="page">
-      <section className="mb-7">
-        <h2 className="text-[11px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
-          Aynı ailedeki diğer uygulamalar
-        </h2>
-        <ul className="space-y-2">
-          {SIBLINGS.map((app) => (
-            <li key={app.id}>
-              <button
-                type="button"
-                onClick={() => void openExternal(playUrl(app))}
-                className="w-full card p-3.5 flex items-center gap-3 text-left tap"
-              >
-                <span
-                  className="w-10 h-10 rounded-xl grid place-items-center text-white text-sm font-bold shrink-0"
-                  style={{ background: app.accent }}
-                  aria-hidden
+      {/*
+        SIBLINGS boşsa (dört uygulama birleştikten sonra hep boş) bölüm
+        TAMAMEN atlanır. Yalnız listeyi boş göstermek yetmez — başlığı
+        görünür bırakıp altını boş bırakmak "bitmemiş uygulama" izlenimi
+        veriyordu; bir Play incelemecisinin ya da bu uygulamayı denetleyen
+        bir meslektaşın ilk fark edeceği şey tam olarak buydu.
+      */}
+      {SIBLINGS.length > 0 && (
+        <section className="mb-7">
+          <h2 className="text-[12px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
+            Aynı ailedeki diğer uygulamalar
+          </h2>
+          <ul className="space-y-2">
+            {SIBLINGS.map((app) => (
+              <li key={app.id}>
+                <button
+                  type="button"
+                  onClick={() => void openExternal(playUrl(app))}
+                  className="w-full card p-3.5 flex items-center gap-3 text-left tap"
                 >
-                  {appName(app).slice(0, 1)}
-                </span>
-                <span className="flex-1 min-w-0">
-                  <span className="block text-[14px] font-bold leading-snug">{appName(app)}</span>
-                  <span className="block text-[11.5px] text-charcoal/45 leading-snug mt-0.5">
-                    {appShort(app)}
+                  <span
+                    className="w-10 h-10 rounded-xl grid place-items-center text-white text-sm font-bold shrink-0"
+                    style={{ background: app.accent }}
+                    aria-hidden
+                  >
+                    {appName(app).slice(0, 1)}
                   </span>
-                </span>
-                <ExternalLink size={15} className="text-charcoal/25 shrink-0" aria-hidden />
-              </button>
-            </li>
-          ))}
-        </ul>
-      </section>
+                  <span className="flex-1 min-w-0">
+                    <span className="block text-[14px] font-bold leading-snug">{appName(app)}</span>
+                    <span className="block text-[12px] text-charcoal/45 leading-snug mt-0.5">
+                      {appShort(app)}
+                    </span>
+                  </span>
+                  <ExternalLink size={15} className="text-charcoal/25 shrink-0" aria-hidden />
+                </button>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
 
       <section className="mb-7">
-        <h2 className="text-[11px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
+        <h2 className="text-[12px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
           Bilgi
         </h2>
         <ul className="space-y-2">
@@ -85,12 +94,12 @@ export default function MorePage() {
         Ayarlar
       </button>
 
-      <div className="rounded-2xl p-4 text-[11.5px] leading-relaxed text-charcoal/50 bg-white/70 border border-charcoal/[0.08]">
+      <div className="rounded-2xl p-4 text-[12px] leading-relaxed text-charcoal/50 bg-white/70 border border-charcoal/[0.08]">
         <p className="mb-2">
           Bu uygulama bilgilendirme amaçlıdır; resmî hukuki tavsiye veya vekâlet ilişkisi
           kurmaz. Somut uyuşmazlığınızda bir avukata danışın.
         </p>
-        <p className="text-charcoal/35 font-mono text-[10.5px]">
+        <p className="text-charcoal/35 font-mono text-[12px]">
           {appName()} · s{APP.versionName} ({APP.versionCode})
           {BUILT_AT ? ` · ${BUILT_AT.slice(0, 10)}` : ''}
         </p>

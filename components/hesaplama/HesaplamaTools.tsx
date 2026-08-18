@@ -4,7 +4,13 @@ import React, { useState, useMemo, useEffect, useCallback } from "react";
 import Link from "next/link";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import { ChevronDown, ChevronUp, Info, Copy, Check, Search, Printer, Share2, Star, Clock, ExternalLink } from "lucide-react";
+import {
+  ChevronDown, ChevronUp, Info, Copy, Check, Search, Printer, Share2, Star, Clock, ExternalLink,
+  Landmark, ShieldCheck, Briefcase, RotateCcw, FileStack, Palmtree, Receipt, Banknote, LifeBuoy,
+  HeartPulse, Users, CalendarClock, PieChart, Percent, FolderOpen, Gavel, Home, LineChart, Stamp,
+  Car, Scale, Building2, Handshake, CalendarDays, Hourglass, History, Layers, AlertTriangle, Lock,
+  ReceiptText, TimerReset, FileSignature, type LucideIcon,
+} from "lucide-react";
 import { HESAPLAMA_ARACLAR as META_ARACLAR } from "@/lib/hesaplama-meta";
 import { matchHesaplamaTool } from "@/lib/hesaplama-search";
 import { loadFavorites, toggleFavorite, loadRecent, pushRecent } from "@/lib/hesaplama-prefs";
@@ -53,8 +59,8 @@ const TAG_COLORS: Record<string, string> = {
   "Vergi": "bg-yellow-50 text-yellow-700",
 };
 
-function Card({ id, icon, title, tag, children, fav, onToggleFav, onOpen }: {
-  id: string; icon: string; title: string; tag: string; children: React.ReactNode;
+function Card({ id, icon: Icon, title, tag, children, fav, onToggleFav, onOpen }: {
+  id: string; icon: LucideIcon; title: string; tag: string; children: React.ReactNode;
   fav?: boolean; onToggleFav?: (id: string) => void; onOpen?: (id: string) => void;
 }) {
   const [open, setOpen] = useState(false);
@@ -90,7 +96,12 @@ function Card({ id, icon, title, tag, children, fav, onToggleFav, onOpen }: {
           aria-expanded={open}
         >
           <div className="flex items-center gap-3 sm:gap-4 min-w-0">
-            <span className="text-2xl sm:text-3xl shrink-0">{icon}</span>
+            <span
+              className="w-10 h-10 sm:w-12 sm:h-12 rounded-xl sm:rounded-2xl grid place-items-center shrink-0 bg-accent/10 text-accent"
+              aria-hidden
+            >
+              <Icon size={22} strokeWidth={2} />
+            </span>
             <div className="min-w-0">
               <span className={`text-[9px] sm:text-[10px] font-bold uppercase tracking-widest px-2 sm:px-2.5 py-0.5 rounded-full ${TAG_COLORS[tag] ?? "bg-charcoal/5 text-charcoal/40"}`}>
                 {tag}
@@ -3682,39 +3693,39 @@ function IsKazasiGecici() {
 // ─── ARAÇLAR LİSTESİ ──────────────────────────────────────────────────────────
 
 const ARACLAR = [
-  { id: "miras", icon: "🏛️", baslik: "Miras Paylaşımı (Yasal Mirasçılık)", tag: "Miras Hukuku", comp: <MirasPaylasimi /> },
-  { id: "sakli-pay", icon: "🔏", baslik: "Saklı Pay Hesabı (TMK)", tag: "Miras Hukuku", comp: <SakliPayHesabi /> },
-  { id: "kidem", icon: "💼", baslik: "Kıdem & İhbar Tazminatı", tag: "İş Hukuku", comp: <KidemIhbarTazminati /> },
-  { id: "ise-iade", icon: "🔄", baslik: "İşe İade Tazminatı Tahmini", tag: "İş Hukuku", comp: <IseIadeTazminat /> },
-  { id: "kidem-ise-iade", icon: "📑", baslik: "Kıdem + İhbar + İşe İade (Birleşik Rapor)", tag: "İş Hukuku", comp: <KidemIseIadeBirlesik /> },
-  { id: "fazla-mesai", icon: "⏰", baslik: "Fazla Mesai Ücreti", tag: "İş Hukuku", comp: <FazlaMesai /> },
-  { id: "yillik-izin", icon: "🏖️", baslik: "Yıllık İzin Ücreti", tag: "İş Hukuku", comp: <YillikIzin /> },
-  { id: "smm", icon: "🧾", baslik: "Serbest Meslek Makbuzu (SMM)", tag: "İş Hukuku", comp: <SmmHesaplama /> },
-  { id: "net-brut-maas", icon: "💵", baslik: "Net / Brüt Maaş (2026 Bordro)", tag: "İş Hukuku", comp: <NetBrutMaas /> },
-  { id: "issizlik-maasi", icon: "🛟", baslik: "İşsizlik Maaşı (Ödeneği) 2026", tag: "İş Hukuku", comp: <IssizlikMaasi /> },
-  { id: "is-kazasi", icon: "🩹", baslik: "İş Kazası — Geçici İş Göremezlik Kabaca", tag: "İş Hukuku", comp: <IsKazasiGecici /> },
-  { id: "nafaka", icon: "👨‍👩‍👧", baslik: "Nafaka Artış / Azaltış Hesaplayıcı", tag: "Aile Hukuku", comp: <NafakaArtisi /> },
-  { id: "iddet", icon: "📅", baslik: "İddet Müddeti Hesabı", tag: "Aile Hukuku", comp: <IddetMuddeti /> },
-  { id: "mal-rejimi", icon: "💍", baslik: "Mal Rejimi — Edinilmiş Mallara Katılma", tag: "Aile Hukuku", comp: <MalRejimiKatilma /> },
-  { id: "faiz", icon: "📊", baslik: "Faiz Hesaplama (Yasal / Ticari / Avans)", tag: "Alacak", comp: <FaizHesaplama /> },
-  { id: "icra-kapak", icon: "📁", baslik: "İcra Dosyası Kapak Hesabı & Harçlar (2026)", tag: "Alacak", comp: <IcraKapakHesabi /> },
-  { id: "inkar-tazminati", icon: "⚖️", baslik: "İcra İnkâr Tazminatı", tag: "Alacak", comp: <IcraInkarTazminati /> },
-  { id: "kira", icon: "🏠", baslik: "Kira Artış Oranı", tag: "Gayrimenkul", comp: <KiraArtis /> },
-  { id: "kira-tespit", icon: "📈", baslik: "Kira Tespit — ÜFE Senaryosu", tag: "Gayrimenkul", comp: <KiraTespitUfe /> },
-  { id: "tapu", icon: "📋", baslik: "Tapu Harcı Hesaplama", tag: "Gayrimenkul", comp: <TapuHarci /> },
-  { id: "arac-deger-kaybi", icon: "🚗", baslik: "Araç Değer Kaybı Analizi", tag: "Sigorta", comp: <AracDegerKaybi /> },
-  { id: "vekalet", icon: "⚖️", baslik: "Vekalet Ücreti (Nispi / Maktu — AAÜT)", tag: "Dava Masrafı", comp: <NispiVekalet /> },
-  { id: "dava-harci", icon: "🏛️", baslik: "Dava Açma Harcı ve Gider Avansı", tag: "Dava Masrafı", comp: <DavaAcmaHarci /> },
-  { id: "arabuluculuk", icon: "🤝", baslik: "Arabuluculuk Asgari Ücret", tag: "Dava Masrafı", comp: <ArabuluculukUcret /> },
-  { id: "sure", icon: "📆", baslik: "Süre Hesabı (Tebliğden — HMK/İİK)", tag: "Usul", comp: <SureHesabi /> },
-  { id: "zamanasimi", icon: "⏱️", baslik: "Zamanaşımı Kontrol Sihirbazı", tag: "Usul", comp: <ZamanAsimiKontrol /> },
-  { id: "ceza-zamanasimi", icon: "⌛", baslik: "Ceza Zamanaşımı (TCK kabaca)", tag: "Usul", comp: <CezaZamanasimi /> },
-  { id: "istinaf-temyiz", icon: "📨", baslik: "İstinaf / Temyiz Harç ve Süre 2026", tag: "Usul", comp: <IstinafTemyizHarc /> },
-  { id: "risk", icon: "🔍", baslik: "Dava Risk ve Maliyet Analizi", tag: "Analiz", comp: <DavaRiskAnalizi /> },
-  { id: "infaz", icon: "⛓️", baslik: "İnfaz (Yatar) Hesaplama 2026", tag: "Ceza İnfaz", comp: <InfazHesaplama /> },
-  { id: "kdv", icon: "🧮", baslik: "KDV Hesaplama (Dahil / Hariç)", tag: "Vergi", comp: <KdvHesaplama /> },
-  { id: "gecikme-zammi", icon: "⏳", baslik: "Gecikme Zammı (Amme Alacağı 2026)", tag: "Vergi", comp: <GecikmeZammi /> },
-  { id: "damga-vergisi", icon: "📜", baslik: "Damga Vergisi (Sözleşme) 2026", tag: "Vergi", comp: <DamgaVergisi /> },
+  { id: "miras", icon: Landmark, baslik: "Miras Paylaşımı (Yasal Mirasçılık)", tag: "Miras Hukuku", comp: <MirasPaylasimi /> },
+  { id: "sakli-pay", icon: ShieldCheck, baslik: "Saklı Pay Hesabı (TMK)", tag: "Miras Hukuku", comp: <SakliPayHesabi /> },
+  { id: "kidem", icon: Briefcase, baslik: "Kıdem & İhbar Tazminatı", tag: "İş Hukuku", comp: <KidemIhbarTazminati /> },
+  { id: "ise-iade", icon: RotateCcw, baslik: "İşe İade Tazminatı Tahmini", tag: "İş Hukuku", comp: <IseIadeTazminat /> },
+  { id: "kidem-ise-iade", icon: FileStack, baslik: "Kıdem + İhbar + İşe İade (Birleşik Rapor)", tag: "İş Hukuku", comp: <KidemIseIadeBirlesik /> },
+  { id: "fazla-mesai", icon: Clock, baslik: "Fazla Mesai Ücreti", tag: "İş Hukuku", comp: <FazlaMesai /> },
+  { id: "yillik-izin", icon: Palmtree, baslik: "Yıllık İzin Ücreti", tag: "İş Hukuku", comp: <YillikIzin /> },
+  { id: "smm", icon: Receipt, baslik: "Serbest Meslek Makbuzu (SMM)", tag: "İş Hukuku", comp: <SmmHesaplama /> },
+  { id: "net-brut-maas", icon: Banknote, baslik: "Net / Brüt Maaş (2026 Bordro)", tag: "İş Hukuku", comp: <NetBrutMaas /> },
+  { id: "issizlik-maasi", icon: LifeBuoy, baslik: "İşsizlik Maaşı (Ödeneği) 2026", tag: "İş Hukuku", comp: <IssizlikMaasi /> },
+  { id: "is-kazasi", icon: HeartPulse, baslik: "İş Kazası — Geçici İş Göremezlik Kabaca", tag: "İş Hukuku", comp: <IsKazasiGecici /> },
+  { id: "nafaka", icon: Users, baslik: "Nafaka Artış / Azaltış Hesaplayıcı", tag: "Aile Hukuku", comp: <NafakaArtisi /> },
+  { id: "iddet", icon: CalendarClock, baslik: "İddet Müddeti Hesabı", tag: "Aile Hukuku", comp: <IddetMuddeti /> },
+  { id: "mal-rejimi", icon: PieChart, baslik: "Mal Rejimi — Edinilmiş Mallara Katılma", tag: "Aile Hukuku", comp: <MalRejimiKatilma /> },
+  { id: "faiz", icon: Percent, baslik: "Faiz Hesaplama (Yasal / Ticari / Avans)", tag: "Alacak", comp: <FaizHesaplama /> },
+  { id: "icra-kapak", icon: FolderOpen, baslik: "İcra Dosyası Kapak Hesabı & Harçlar (2026)", tag: "Alacak", comp: <IcraKapakHesabi /> },
+  { id: "inkar-tazminati", icon: Gavel, baslik: "İcra İnkâr Tazminatı", tag: "Alacak", comp: <IcraInkarTazminati /> },
+  { id: "kira", icon: Home, baslik: "Kira Artış Oranı", tag: "Gayrimenkul", comp: <KiraArtis /> },
+  { id: "kira-tespit", icon: LineChart, baslik: "Kira Tespit — ÜFE Senaryosu", tag: "Gayrimenkul", comp: <KiraTespitUfe /> },
+  { id: "tapu", icon: Stamp, baslik: "Tapu Harcı Hesaplama", tag: "Gayrimenkul", comp: <TapuHarci /> },
+  { id: "arac-deger-kaybi", icon: Car, baslik: "Araç Değer Kaybı Analizi", tag: "Sigorta", comp: <AracDegerKaybi /> },
+  { id: "vekalet", icon: Scale, baslik: "Vekalet Ücreti (Nispi / Maktu — AAÜT)", tag: "Dava Masrafı", comp: <NispiVekalet /> },
+  { id: "dava-harci", icon: Building2, baslik: "Dava Açma Harcı ve Gider Avansı", tag: "Dava Masrafı", comp: <DavaAcmaHarci /> },
+  { id: "arabuluculuk", icon: Handshake, baslik: "Arabuluculuk Asgari Ücret", tag: "Dava Masrafı", comp: <ArabuluculukUcret /> },
+  { id: "sure", icon: CalendarDays, baslik: "Süre Hesabı (Tebliğden — HMK/İİK)", tag: "Usul", comp: <SureHesabi /> },
+  { id: "zamanasimi", icon: Hourglass, baslik: "Zamanaşımı Kontrol Sihirbazı", tag: "Usul", comp: <ZamanAsimiKontrol /> },
+  { id: "ceza-zamanasimi", icon: History, baslik: "Ceza Zamanaşımı (TCK kabaca)", tag: "Usul", comp: <CezaZamanasimi /> },
+  { id: "istinaf-temyiz", icon: Layers, baslik: "İstinaf / Temyiz Harç ve Süre 2026", tag: "Usul", comp: <IstinafTemyizHarc /> },
+  { id: "risk", icon: AlertTriangle, baslik: "Dava Risk ve Maliyet Analizi", tag: "Analiz", comp: <DavaRiskAnalizi /> },
+  { id: "infaz", icon: Lock, baslik: "İnfaz (Yatar) Hesaplama 2026", tag: "Ceza İnfaz", comp: <InfazHesaplama /> },
+  { id: "kdv", icon: ReceiptText, baslik: "KDV Hesaplama (Dahil / Hariç)", tag: "Vergi", comp: <KdvHesaplama /> },
+  { id: "gecikme-zammi", icon: TimerReset, baslik: "Gecikme Zammı (Amme Alacağı 2026)", tag: "Vergi", comp: <GecikmeZammi /> },
+  { id: "damga-vergisi", icon: FileSignature, baslik: "Damga Vergisi (Sözleşme) 2026", tag: "Vergi", comp: <DamgaVergisi /> },
 ];
 
 
@@ -3881,39 +3892,45 @@ export default function HesaplamaHub() {
             <div className="mb-6 space-y-3">
               {favTools.length > 0 && (
                 <div>
-                  <p className="text-[10px] font-bold uppercase tracking-wider text-charcoal/40 mb-2 flex items-center gap-1.5">
+                  <p className="text-[12px] font-bold uppercase tracking-wider text-charcoal/40 mb-2 flex items-center gap-1.5">
                     <Star size={12} className="text-accent fill-accent" /> Favoriler
                   </p>
                   <div className="flex flex-wrap gap-2">
-                    {favTools.map(a => (
-                      <a
-                        key={a.id}
-                        href={`#${a.id}`}
-                        onClick={() => { window.location.hash = a.id; }}
-                        className="inline-flex items-center gap-1.5 text-xs font-semibold px-3 py-1.5 rounded-full bg-accent/10 text-accent hover:bg-accent hover:text-white transition-colors"
-                      >
-                        <span aria-hidden>{a.icon}</span> {a.baslik}
-                      </a>
-                    ))}
+                    {favTools.map(a => {
+                      const Icon = a.icon;
+                      return (
+                        <a
+                          key={a.id}
+                          href={`#${a.id}`}
+                          onClick={() => { window.location.hash = a.id; }}
+                          className="inline-flex items-center gap-1.5 text-xs font-semibold px-3 py-1.5 rounded-full bg-accent/10 text-accent hover:bg-accent hover:text-white transition-colors"
+                        >
+                          <Icon size={13} aria-hidden /> {a.baslik}
+                        </a>
+                      );
+                    })}
                   </div>
                 </div>
               )}
               {recentTools.length > 0 && (
                 <div>
-                  <p className="text-[10px] font-bold uppercase tracking-wider text-charcoal/40 mb-2 flex items-center gap-1.5">
+                  <p className="text-[12px] font-bold uppercase tracking-wider text-charcoal/40 mb-2 flex items-center gap-1.5">
                     <Clock size={12} /> Son kullandıklarınız
                   </p>
                   <div className="flex flex-wrap gap-2">
-                    {recentTools.map(a => (
-                      <a
-                        key={a.id}
-                        href={`#${a.id}`}
-                        onClick={() => { window.location.hash = a.id; }}
-                        className="inline-flex items-center gap-1.5 text-xs font-medium px-3 py-1.5 rounded-full bg-white border border-charcoal/10 text-charcoal/65 hover:border-accent hover:text-accent"
-                      >
-                        <span aria-hidden>{a.icon}</span> {a.baslik}
-                      </a>
-                    ))}
+                    {recentTools.map(a => {
+                      const Icon = a.icon;
+                      return (
+                        <a
+                          key={a.id}
+                          href={`#${a.id}`}
+                          onClick={() => { window.location.hash = a.id; }}
+                          className="inline-flex items-center gap-1.5 text-xs font-medium px-3 py-1.5 rounded-full bg-white border border-charcoal/10 text-charcoal/65 hover:border-accent hover:text-accent"
+                        >
+                          <Icon size={13} aria-hidden /> {a.baslik}
+                        </a>
+                      );
+                    })}
                   </div>
                 </div>
               )}

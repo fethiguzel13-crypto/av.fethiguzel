@@ -32,11 +32,11 @@ export default function SettingsPage() {
 
   return (
     <div className="page">
-      <h2 className="text-base font-heading font-bold mb-4">Ayarlar</h2>
+      <h2 className="text-[20px] font-heading font-bold mb-4">Ayarlar</h2>
 
       {/* Yazı boyutu */}
       <section className="card p-4 mb-3">
-        <h3 className="flex items-center gap-2 text-[13.5px] font-bold mb-1">
+        <h3 className="flex items-center gap-2 text-[14px] font-bold mb-1">
           <Type size={16} className="text-charcoal/40" aria-hidden /> Yazı boyutu
         </h3>
         <p className="text-[12px] text-charcoal/50 leading-relaxed mb-3">
@@ -100,7 +100,7 @@ export default function SettingsPage() {
 
       {/* Veri */}
       <section className="card p-4 mt-3">
-        <h3 className="flex items-center gap-2 text-[13.5px] font-bold mb-1">
+        <h3 className="flex items-center gap-2 text-[14px] font-bold mb-1">
           <Database size={16} className="text-charcoal/40" aria-hidden /> Verileriniz
         </h3>
         <p className="text-[12px] text-charcoal/50 leading-relaxed mb-3">
@@ -144,7 +144,7 @@ function Toggle({
         {icon}
       </span>
       <div className="flex-1 min-w-0">
-        <h3 className="text-[13.5px] font-bold mb-0.5">{title}</h3>
+        <h3 className="text-[14px] font-bold mb-0.5">{title}</h3>
         <p className="text-[12px] text-charcoal/50 leading-relaxed">{body}</p>
       </div>
       <button

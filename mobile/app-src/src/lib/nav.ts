@@ -93,14 +93,24 @@ export function sectionOf(path: string): string | null {
   return null;
 }
 
-/** Verilen yol hangi sekmeye ait? En uzun eşleşen önek kazanır. */
+/**
+ * Verilen yol hangi sekmeye ait? En uzun eşleşen önek kazanır.
+ *
+ * Eşleşme yoksa BOŞ döner — ilk sekmeye düşmez. `/diger` ve `/ayarlar`
+ * kabuğa ait olup hiçbir sekmenin sahiplenmediği yollardır; önceki sürüm
+ * burada `APP_TABS[0]` (Ana) döndürüyordu, bu da kullanıcı "Diğer"
+ * sayfasındayken alt menünün "Ana"yı vurgulaması demekti — nerede
+ * olduğuna dair yanlış bilgi. Boş dönüş, `BottomNav`'ın hiçbir sekmeyi
+ * etkin işaretlememesini sağlar (`tab.id === active` hiçbir sekme için
+ * doğru olmaz).
+ */
 export function activeTabId(path: string): string {
   // Birleşik uygulamada sekme kimliği bölüm kimliğiyle aynıdır; böylece
   // `/arac/5` gibi alt yollar da kendi sekmesini işaretler.
   const section = sectionOf(path);
   if (section && APP_TABS.some((t) => t.id === section)) return section;
 
-  let best = APP_TABS[0]?.id ?? '';
+  let best = '';
   let bestLen = -1;
   for (const t of APP_TABS) {
     if (t.path === '/') {

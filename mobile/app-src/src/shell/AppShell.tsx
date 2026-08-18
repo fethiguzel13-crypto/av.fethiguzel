@@ -127,7 +127,7 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
         {!online && (
           <div
             role="status"
-            className="flex items-center gap-2 px-4 py-1.5 text-[11.5px] font-semibold bg-black/25"
+            className="flex items-center gap-2 px-4 py-1.5 text-[12px] font-semibold bg-black/25"
           >
             <WifiOff size={13} aria-hidden />
             <span>Çevrimdışısınız — indirilmiş içerik ve hesaplamalar çalışmaya devam eder.</span>

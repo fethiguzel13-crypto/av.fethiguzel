@@ -1,5 +1,5 @@
 import React, { useMemo, useState } from 'react';
-import { Search, Star, Clock, X, ExternalLink, ChevronRight, Info } from 'lucide-react';
+import { Search, Star, Clock, X, ExternalLink, ChevronRight, Info, type LucideIcon } from 'lucide-react';
 
 import { ARACLAR, HesaplamaToolBody } from '@/components/hesaplama/HesaplamaTools';
 import { HESAPLAMA_ARACLAR } from '@/lib/hesaplama-meta';
@@ -13,7 +13,7 @@ import MorePage from '../shell/MorePage';
 import SettingsPage from '../shell/SettingsPage';
 import EmptyState from '../shell/EmptyState';
 
-type ToolRow = { id: string; icon: string; baslik: string; tag: string };
+type ToolRow = { id: string; icon: LucideIcon; baslik: string; tag: string };
 
 const TOOLS: ToolRow[] = ARACLAR.map(({ id, icon, baslik, tag }) => ({ id, icon, baslik, tag }));
 const META = new Map(HESAPLAMA_ARACLAR.map((m) => [m.id, m]));
@@ -148,9 +148,7 @@ function HubPage() {
                 onClick={() => open(t.id)}
                 className="shrink-0 card px-3.5 py-2.5 text-left tap"
               >
-                <span className="text-base mr-1.5" aria-hidden>
-                  {t.icon}
-                </span>
+                <t.icon size={15} className="inline mr-1.5 -mt-0.5 text-accent" aria-hidden />
                 <span className="text-[13px] font-semibold">{shortTitle(t.baslik)}</span>
               </button>
             ))}
@@ -182,7 +180,7 @@ function HubPage() {
         ))
       )}
 
-      <p className="mt-8 text-[11px] leading-relaxed text-charcoal/40">
+      <p className="mt-8 text-[12px] leading-relaxed text-charcoal/40">
         Hesaplar bilgilendirme amaçlıdır ve resmî tavsiye yerine geçmez. Tüm hesaplama
         cihazınızda yapılır; girdiğiniz veriler hiçbir sunucuya gönderilmez.
       </p>
@@ -221,14 +219,17 @@ function ToolPage({ id }: { id: string }) {
   return (
     <div className="page">
       <div className="flex items-start gap-3 mb-1">
-        <span className="text-2xl leading-none mt-0.5" aria-hidden>
-          {tool.icon}
+        <span
+          className="w-11 h-11 rounded-2xl grid place-items-center shrink-0 bg-accent/10 text-accent"
+          aria-hidden
+        >
+          <tool.icon size={22} strokeWidth={2} />
         </span>
         <div className="flex-1 min-w-0">
-          <p className="text-[10px] font-mono tracking-widest uppercase text-charcoal/40">
+          <p className="text-[12px] font-mono tracking-widest uppercase text-charcoal/40">
             {tool.tag}
           </p>
-          <h2 className="text-lg font-heading font-bold leading-tight">{tool.baslik}</h2>
+          <h2 className="text-[24px] font-heading font-bold leading-tight">{tool.baslik}</h2>
         </div>
         <button
           type="button"
@@ -250,7 +251,7 @@ function ToolPage({ id }: { id: string }) {
       </div>
 
       {meta?.aciklama && (
-        <p className="text-[13.5px] text-charcoal/60 leading-relaxed mb-4">{meta.aciklama}</p>
+        <p className="text-[14px] text-charcoal/60 leading-relaxed mb-4">{meta.aciklama}</p>
       )}
 
       <HesaplamaToolBody id={id} title={tool.baslik} />
@@ -285,13 +286,13 @@ function ToolPage({ id }: { id: string }) {
                   onClick={() => void openOnSite(m.href)}
                   className="w-full card px-3.5 py-3 flex items-center gap-2 text-left tap"
                 >
-                  <span className="flex-1 text-[13.5px] font-semibold">{m.label}</span>
+                  <span className="flex-1 text-[14px] font-semibold">{m.label}</span>
                   <ExternalLink size={14} className="text-charcoal/30" aria-hidden />
                 </button>
               </li>
             ))}
           </ul>
-          <p className="mt-2 text-[11px] text-charcoal/35">
+          <p className="mt-2 text-[12px] text-charcoal/35">
             Mevzuat metinleri sitede açılır; bağlantı için internet gerekir.
           </p>
         </section>
@@ -362,7 +363,7 @@ function ListPage({ mode }: { mode: 'fav' | 'recent' }) {
 
   return (
     <div className="page">
-      <h2 className="text-base font-heading font-bold mb-3">
+      <h2 className="text-[20px] font-heading font-bold mb-3">
         {mode === 'fav' ? 'Favorileriniz' : 'Son kullandıklarınız'}
       </h2>
       <ul className="space-y-2">
@@ -424,7 +425,7 @@ function Section({
 }) {
   return (
     <section className="mb-6">
-      <h2 className="flex items-center gap-1.5 text-[11px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
+      <h2 className="flex items-center gap-1.5 text-[12px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
         {icon}
         {title}
       </h2>
@@ -441,13 +442,16 @@ function ToolRowButton({ tool }: { tool: ToolRow }) {
       onClick={() => open(tool.id)}
       className="w-full card px-4 py-3.5 flex items-center gap-3 text-left tap"
     >
-      <span className="text-xl leading-none" aria-hidden>
-        {tool.icon}
+      <span
+        className="w-9 h-9 rounded-xl grid place-items-center shrink-0 bg-accent/10 text-accent"
+        aria-hidden
+      >
+        <tool.icon size={17} strokeWidth={2} />
       </span>
       <span className="flex-1 min-w-0">
         <span className="block text-[14px] font-bold leading-snug">{tool.baslik}</span>
         {meta?.aciklama && (
-          <span className="block text-[11.5px] text-charcoal/45 leading-snug mt-0.5 line-clamp-1">
+          <span className="block text-[13px] text-charcoal/45 leading-snug mt-0.5 line-clamp-1">
             {meta.aciklama}
           </span>
         )}
@@ -464,10 +468,13 @@ function MiniCard({ tool }: { tool: ToolRow }) {
       onClick={() => open(tool.id)}
       className="card p-3 text-left tap flex flex-col gap-1.5 min-h-[76px]"
     >
-      <span className="text-lg leading-none" aria-hidden>
-        {tool.icon}
+      <span
+        className="w-8 h-8 rounded-lg grid place-items-center bg-accent/10 text-accent"
+        aria-hidden
+      >
+        <tool.icon size={15} strokeWidth={2} />
       </span>
-      <span className="text-[12.5px] font-bold leading-snug">{shortTitle(tool.baslik)}</span>
+      <span className="text-[13px] font-bold leading-snug">{shortTitle(tool.baslik)}</span>
     </button>
   );
 }

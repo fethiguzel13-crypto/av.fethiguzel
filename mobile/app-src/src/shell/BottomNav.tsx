@@ -70,7 +70,7 @@ export default function BottomNav() {
                 }}
               >
                 <Icon size={20} strokeWidth={isActive ? 2.5 : 1.8} />
-                <span className={`text-[10.5px] leading-none ${isActive ? 'font-bold' : 'font-medium'}`}>
+                <span className={`text-[12px] leading-none ${isActive ? 'font-bold' : 'font-medium'}`}>
                   {tab.label}
                 </span>
               </button>

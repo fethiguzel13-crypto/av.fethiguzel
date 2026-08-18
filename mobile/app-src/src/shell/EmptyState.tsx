@@ -23,7 +23,7 @@ export default function EmptyState({
     <div className="page grid place-items-center min-h-[55dvh] text-center">
       <div className="max-w-[19rem]">
         <div
-          className="w-14 h-14 rounded-2xl grid place-items-center mx-auto mb-4 text-xl"
+          className="w-14 h-14 rounded-2xl grid place-items-center mx-auto mb-4 text-[14px]l"
           style={{ background: 'var(--brand-soft)', color: 'var(--brand)' }}
           aria-hidden
         >

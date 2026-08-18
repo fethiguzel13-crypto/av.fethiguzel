@@ -120,13 +120,18 @@ function HomePage() {
   return (
     <div className="page">
       <header className="pt-2 pb-6">
-        <p className="text-[11px] font-mono tracking-[0.2em] uppercase text-charcoal/40">
-          {BRAND}
-        </p>
-        <h2 className="mt-1.5 text-[26px] leading-[1.15] font-heading font-bold text-charcoal">
-          Hukuk Asistanı
+        {/*
+          Küçük etiket + büyük başlık ikilisi yerine tek, kendi ağırlığını
+          taşıyan başlık: marka adı ve "Hukuk Asistanı" aynı satırda, aynı
+          ölçekte. Uygulama çubuğu zaten tam adı taşıyor; burada tekrar
+          etmek yerine bölmek yalnız markayı görünmez küçük bir etikete
+          indirgemiş oluyordu — kullanıcının adının öne çıkmasını istediği
+          tam da bu ekrandı.
+        */}
+        <h2 className="text-[26px] leading-[1.15] font-heading font-bold text-charcoal">
+          {BRAND} Hukuk Asistanı
         </h2>
-        <p className="mt-2.5 text-[14px] leading-relaxed text-charcoal/55">
+        <p className="mt-2.5 text-[15px] leading-relaxed text-charcoal/55">
           Mevzuat metni, hesaplama araçları, günlük içtihat ve vatandaş rehberi —
           tamamı cihazınızda, internet olmadan.
         </p>
@@ -151,11 +156,11 @@ function HomePage() {
                   <span className="block text-[15px] font-bold leading-snug text-charcoal">
                     {c.label}
                   </span>
-                  <span className="block text-[12.5px] leading-snug text-charcoal/50 mt-0.5">
+                  <span className="block text-[13px] leading-snug text-charcoal/50 mt-0.5">
                     {c.desc}
                   </span>
                   {c.stat ? (
-                    <span className="block text-[11px] font-mono text-charcoal/35 mt-1">
+                    <span className="block text-[12px] font-mono text-charcoal/35 mt-1">
                       {c.stat}
                     </span>
                   ) : null}
@@ -176,7 +181,7 @@ function HomePage() {
         Diğer ve ayarlar
       </button>
 
-      <p className="mt-6 text-[11.5px] leading-relaxed text-charcoal/45 text-center px-2">
+      <p className="mt-6 text-[13px] leading-relaxed text-charcoal/45 text-center px-2">
         Bilgilendirme amaçlıdır; hukuki tavsiye veya vekâlet ilişkisi kurmaz.
       </p>
     </div>

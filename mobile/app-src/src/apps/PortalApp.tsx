@@ -156,14 +156,14 @@ function KanunListPage() {
         <Search size={17} style={{ color: 'var(--brand)' }} aria-hidden />
         <span className="flex-1">
           <span className="block text-[14px] font-bold">Madde metninde ara</span>
-          <span className="block text-[11.5px] text-charcoal/45 mt-0.5">
+          <span className="block text-[12px] text-charcoal/45 mt-0.5">
             «TBK 13» yazarsanız doğrudan maddeye gider
           </span>
         </span>
         <ChevronRight size={16} className="text-charcoal/25" aria-hidden />
       </button>
 
-      <p className="text-[11px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
+      <p className="text-[12px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
         {packs.length} kanun · {manifest.totalArticles.toLocaleString('tr-TR')} madde
       </p>
 
@@ -179,7 +179,7 @@ function KanunListPage() {
               className="w-full card px-4 py-3.5 flex items-center gap-3 text-left tap"
             >
               <span
-                className="w-10 h-10 rounded-xl grid place-items-center text-[11px] font-bold shrink-0"
+                className="w-10 h-10 rounded-xl grid place-items-center text-[12px] font-bold shrink-0"
                 style={{ background: 'var(--brand-soft)', color: 'var(--brand)' }}
                 aria-hidden
               >
@@ -187,7 +187,7 @@ function KanunListPage() {
               </span>
               <span className="flex-1 min-w-0">
                 <span className="block text-[14px] font-bold leading-snug">{p.name}</span>
-                <span className="block text-[11.5px] text-charcoal/45 mt-0.5">
+                <span className="block text-[12px] text-charcoal/45 mt-0.5">
                   {p.articles} madde
                   {p.commentaries > 0 ? ` · ${p.commentaries} şerh` : ''}
                 </span>
@@ -198,7 +198,7 @@ function KanunListPage() {
         ))}
       </ul>
 
-      <p className="mt-8 text-[11px] leading-relaxed text-charcoal/40">
+      <p className="mt-8 text-[12px] leading-relaxed text-charcoal/40">
         Metinler Resmî Gazete'de yayımlanan hâlleriyle uygulamaya gömülüdür; okumak için
         internet gerekmez. Bağlayıcı metin için mevzuat.gov.tr esastır.
       </p>
@@ -250,7 +250,7 @@ function KanunPage({ kanunId }: { kanunId: string }) {
 
   return (
     <div className="page">
-      <h2 className="text-base font-heading font-bold leading-snug">
+      <h2 className="text-[20px] font-heading font-bold leading-snug">
         {meta?.name || kanunId.toUpperCase()}
       </h2>
       <p className="text-[12px] text-charcoal/50 mb-3">{Object.keys(pack).length} madde</p>
@@ -293,22 +293,22 @@ function KanunPage({ kanunId }: { kanunId: string }) {
                 className="w-full card px-4 py-3 flex items-start gap-3 text-left tap"
               >
                 <span
-                  className="text-[11px] font-mono font-bold shrink-0 mt-0.5 min-w-[2.5rem]"
+                  className="text-[12px] font-mono font-bold shrink-0 mt-0.5 min-w-[2.5rem]"
                   style={{ color: 'var(--brand)' }}
                 >
                   m.{r.n}
                 </span>
                 <span className="flex-1 min-w-0">
-                  <span className="block text-[13.5px] font-semibold leading-snug">
+                  <span className="block text-[14px] font-semibold leading-snug">
                     {stripKanunPrefix(r.t)}
                   </span>
-                  <span className="block text-[11.5px] text-charcoal/45 leading-snug mt-0.5 line-clamp-1">
+                  <span className="block text-[12px] text-charcoal/45 leading-snug mt-0.5 line-clamp-1">
                     {plain(r.o).slice(0, 90)}
                   </span>
                 </span>
                 {r.c && (
                   <span
-                    className="text-[9px] font-bold px-1.5 py-0.5 rounded shrink-0 mt-0.5"
+                    className="text-[12px] font-bold px-1.5 py-0.5 rounded shrink-0 mt-0.5"
                     style={{ background: 'var(--brand-soft)', color: 'var(--brand)' }}
                   >
                     ŞERH
@@ -352,10 +352,10 @@ function MaddePage({ kanunId, maddeKey }: { kanunId: string; maddeKey: string })
 
   return (
     <div className="page selectable">
-      <p className="text-[10px] font-mono tracking-widest uppercase text-charcoal/40">
+      <p className="text-[12px] font-mono tracking-widest uppercase text-charcoal/40">
         {meta?.name || code}
       </p>
-      <h2 className="text-lg font-heading font-bold leading-tight mb-1">
+      <h2 className="text-[24px] font-heading font-bold leading-tight mb-1">
         {code} m. {entry.n}
       </h2>
       <p className="text-[13px] text-charcoal/55 leading-snug mb-4">
@@ -396,7 +396,7 @@ function MaddePage({ kanunId, maddeKey }: { kanunId: string; maddeKey: string })
 
       {entry.x === 1 && (
         <section className="rounded-2xl border-2 border-amber-400 bg-amber-50 p-4 mb-4">
-          <p className="text-[9.5px] tracking-[0.16em] uppercase font-bold text-amber-700 mb-1.5">
+          <p className="text-[12px] tracking-[0.16em] uppercase font-bold text-amber-700 mb-1.5">
             Bu maddenin metni eksik
           </p>
           <p className="text-[13px] leading-relaxed text-charcoal/75 m-0">
@@ -410,7 +410,7 @@ function MaddePage({ kanunId, maddeKey }: { kanunId: string; maddeKey: string })
         className="rounded-2xl p-4 mb-5 text-white"
         style={{ background: 'var(--brand)' }}
       >
-        <p className="text-[9.5px] tracking-[0.16em] uppercase opacity-80 mb-2">
+        <p className="text-[12px] tracking-[0.16em] uppercase opacity-80 mb-2">
           {entry.x === 1 ? 'Resmî metin — eksik' : 'Resmî metin'}
         </p>
         <div className="text-[14.5px] leading-relaxed whitespace-pre-wrap">
@@ -421,7 +421,7 @@ function MaddePage({ kanunId, maddeKey }: { kanunId: string; maddeKey: string })
       {entry.c ? (
         <section className="card p-4 mb-5">
           <h3
-            className="text-[9.5px] tracking-[0.16em] uppercase font-bold mb-2.5"
+            className="text-[12px] tracking-[0.16em] uppercase font-bold mb-2.5"
             style={{ color: 'var(--brand)' }}
           >
             Akademik şerh
@@ -430,7 +430,7 @@ function MaddePage({ kanunId, maddeKey }: { kanunId: string; maddeKey: string })
         </section>
       ) : (
         <section className="rounded-2xl border border-charcoal/10 bg-white/60 p-4 mb-5">
-          <p className="text-[12.5px] text-charcoal/60 leading-relaxed m-0">
+          <p className="text-[13px] text-charcoal/60 leading-relaxed m-0">
             Bu madde için şerh henüz yazılmadı. Uygulamaya yalnız denetimden geçmiş şerhler
             alınır; yukarıdaki resmî metin Resmî Gazete'deki hâliyle doğrudur.
           </p>
@@ -445,7 +445,7 @@ function MaddePage({ kanunId, maddeKey }: { kanunId: string; maddeKey: string })
         <ExternalLink size={15} /> Sitede aç
       </button>
 
-      <p className="mt-5 text-[11px] leading-relaxed text-charcoal/40">
+      <p className="mt-5 text-[12px] leading-relaxed text-charcoal/40">
         Bilgilendirme amaçlıdır. Bağlayıcı metin için mevzuat.gov.tr esas alınmalıdır.
       </p>
     </div>
@@ -544,7 +544,7 @@ function SearchPage() {
       </div>
 
       {!ready && (
-        <p className="text-[11.5px] text-charcoal/45 mb-3">
+        <p className="text-[12px] text-charcoal/45 mb-3">
           Çekirdek kanunlar belleğe alınıyor… ({loadedPacks().length}/{CORE.length})
         </p>
       )}
@@ -567,17 +567,17 @@ function SearchPage() {
               >
                 <span className="flex items-center gap-2 mb-1">
                   <span
-                    className="text-[10px] font-mono font-bold"
+                    className="text-[12px] font-mono font-bold"
                     style={{ color: 'var(--brand)' }}
                   >
                     {h.kanunId.toUpperCase()} m.{h.maddeNo}
                   </span>
-                  <span className="text-[10px] text-charcoal/35 truncate">{h.kanunName}</span>
+                  <span className="text-[12px] text-charcoal/35 truncate">{h.kanunName}</span>
                 </span>
-                <span className="block text-[13.5px] font-semibold leading-snug">
+                <span className="block text-[14px] font-semibold leading-snug">
                   {stripKanunPrefix(h.title)}
                 </span>
-                <span className="block text-[11.5px] text-charcoal/50 leading-snug mt-1">
+                <span className="block text-[12px] text-charcoal/50 leading-snug mt-1">
                   {h.excerpt}
                 </span>
               </button>
@@ -609,7 +609,7 @@ function SavedPage() {
 
   return (
     <div className="page">
-      <h2 className="text-base font-heading font-bold mb-1">Kaydettikleriniz</h2>
+      <h2 className="text-[20px] font-heading font-bold mb-1">Kaydettikleriniz</h2>
       <p className="text-[12px] text-charcoal/50 mb-3">{saved.length} madde</p>
       <ul className="space-y-2">
         {saved.map((id) => {
@@ -624,12 +624,12 @@ function SavedPage() {
                 className="w-full card px-4 py-3.5 flex items-center gap-3 text-left tap"
               >
                 <span
-                  className="text-[11px] font-mono font-bold shrink-0"
+                  className="text-[12px] font-mono font-bold shrink-0"
                   style={{ color: 'var(--brand)' }}
                 >
                   m.{no}
                 </span>
-                <span className="flex-1 text-[13.5px] font-semibold truncate">{name}</span>
+                <span className="flex-1 text-[14px] font-semibold truncate">{name}</span>
                 <ChevronRight size={16} className="text-charcoal/25" aria-hidden />
               </button>
             </li>
@@ -666,12 +666,29 @@ function stripKanunPrefix(title: string): string {
     .trim() || String(title || '');
 }
 
-/** Resmî metnin başındaki markdown başlık ve ayraçları temizler. */
+/**
+ * Resmî metnin markdown işaretlerini temizler.
+ *
+ * Resmî metin markdown olarak saklanır: kenar başlığı `**kalın**`, ardından
+ * `---` ayracı, sonra madde metni, sonunda bir ayraç daha. Mobilde bu blok
+ * düz metin olarak basıldığı için işaretlerin temizlenmesi gerekir.
+ *
+ * Başlık ÇOK SATIRLI olabilir ("BAŞLANGIÇ\nA. Hukukun uygulanması…"): resmî
+ * metin 17.08.2026'da mevzuat.gov.tr kaynağından yeniden yazılınca kenar
+ * başlıkları olduğu gibi alındı ve çoğu iki satır. Önceki desen `.+?`
+ * kullanıyordu; nokta satır sonunu geçmediği için bu başlıklarda hiç
+ * eşleşmiyor ve kullanıcı madde metninin ortasında ham `---` görüyordu —
+ * uygulamanın tek vaadi olan resmî metnin tam ortasında.
+ */
 function cleanOfficial(md: string): string {
   return String(md || '')
     .replace(/\r/g, '')
-    .replace(/^\*\*(.+?)\*\*\s*\n+---\s*\n+/, '$1\n\n')
+    // Baştaki "**başlık**" + ayraç → yalnız başlık ([\s\S] satır sonunu geçer)
+    .replace(/^\*\*([\s\S]+?)\*\*\s*\n+---\s*\n+/, '$1\n\n')
+    // Kalan ayraç satırları (metnin sonundaki dâhil) tamamen atılır
+    .replace(/^[ \t]*---[ \t]*$/gm, '')
     .replace(/\*\*/g, '')
+    .replace(/\n{3,}/g, '\n\n')
     .trim();
 }
 
@@ -691,14 +708,14 @@ function Markdown({ text }: { text: string }) {
           return (
             <h4
               key={i}
-              className={`font-bold leading-snug ${level <= 4 ? 'text-[13.5px]' : 'text-[12.5px]'} mt-3`}
+              className={`font-bold leading-snug ${level <= 4 ? 'text-[14px]' : 'text-[13px]'} mt-3`}
             >
               {h[2].replace(/\*\*/g, '')}
             </h4>
           );
         }
         return (
-          <p key={i} className="text-[13.5px] leading-relaxed text-charcoal/75">
+          <p key={i} className="text-[14px] leading-relaxed text-charcoal/75">
             {b.replace(/\*\*(.+?)\*\*/g, '$1').replace(/^[-*]\s+/gm, '• ')}
           </p>
         );

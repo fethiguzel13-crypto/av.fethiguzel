@@ -42,11 +42,11 @@ export default class ErrorBoundary extends React.Component<
     return (
       <div className="min-h-[100dvh] grid place-items-center px-6 text-center bg-cream">
         <div className="max-w-sm">
-          <div className="w-14 h-14 rounded-2xl grid place-items-center mx-auto mb-4 text-2xl"
+          <div className="w-14 h-14 rounded-2xl grid place-items-center mx-auto mb-4 text-[13px]xl"
                style={{ background: 'var(--brand-soft)' }}>
             §
           </div>
-          <h1 className="text-lg font-heading font-bold mb-2">Bir şeyler ters gitti</h1>
+          <h1 className="text-[20px] font-heading font-bold mb-2">Bir şeyler ters gitti</h1>
           <p className="text-sm text-charcoal/60 leading-relaxed mb-5">
             Ekran yüklenirken beklenmedik bir hata oluştu. Verileriniz cihazınızda duruyor;
             yeniden başlatmak çoğu durumda yeterli oluyor.
@@ -71,7 +71,7 @@ export default class ErrorBoundary extends React.Component<
               Bu ekranı atla
             </button>
           </div>
-          <p className="mt-4 text-[11px] text-charcoal/35 font-mono break-words">
+          <p className="mt-4 text-[12px] text-charcoal/35 font-mono break-words">
             {error.message}
           </p>
         </div>

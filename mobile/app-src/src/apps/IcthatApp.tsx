@@ -184,7 +184,7 @@ function TodayPage() {
     <div className="page">
       <div className="flex items-start justify-between gap-3 mb-4">
         <div className="min-w-0">
-          <h2 className="text-base font-heading font-bold leading-tight">
+          <h2 className="text-[20px] font-heading font-bold leading-tight">
             {daily.dateLabel || 'Günün kararları'}
           </h2>
           <p className="text-[12px] text-charcoal/50 mt-0.5">
@@ -218,7 +218,7 @@ function TodayPage() {
       ) : (
         groups.map((g) => (
           <section key={g.key} className="mb-6">
-            <h3 className="text-[11px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
+            <h3 className="text-[12px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
               {g.label} · {g.items.length}
             </h3>
             <ul className="space-y-2">
@@ -232,7 +232,7 @@ function TodayPage() {
         ))
       )}
 
-      <p className="mt-6 text-[11px] leading-relaxed text-charcoal/40">
+      <p className="mt-6 text-[12px] leading-relaxed text-charcoal/40">
         Özetler bilgilendirme amaçlıdır; bağlayıcı olan karar metninin kendisidir. Kaynak
         bağlantısı için internet gerekir.
       </p>
@@ -247,27 +247,27 @@ function DailyCard({ item, isNew }: { item: DailyItem; isNew: boolean }) {
       <div className="flex items-start gap-2 mb-1.5">
         {isNew && (
           <span
-            className="text-[9px] font-bold px-1.5 py-0.5 rounded shrink-0 mt-0.5"
+            className="text-[12px] font-bold px-1.5 py-0.5 rounded shrink-0 mt-0.5"
             style={{ background: 'var(--brand)', color: '#fff' }}
           >
             YENİ
           </span>
         )}
-        <h4 className="flex-1 text-[13.5px] font-bold leading-snug">{title}</h4>
+        <h4 className="flex-1 text-[14px] font-bold leading-snug">{title}</h4>
       </div>
 
       {item.kunye && item.kunye !== title && (
-        <p className="text-[11px] font-mono text-charcoal/45 mb-1.5">{item.kunye}</p>
+        <p className="text-[12px] font-mono text-charcoal/45 mb-1.5">{item.kunye}</p>
       )}
 
-      <p className="text-[12.5px] text-charcoal/65 leading-relaxed selectable">
+      <p className="text-[13px] text-charcoal/65 leading-relaxed selectable">
         {item.publicSummary || item.konu}
       </p>
 
       <div className="flex gap-2 mt-3">
         <button
           type="button"
-          className="text-[11.5px] font-bold flex items-center gap-1 tap"
+          className="text-[12px] font-bold flex items-center gap-1 tap"
           style={{ color: 'var(--brand)' }}
           onClick={() => void openExternal(item.url)}
         >
@@ -275,7 +275,7 @@ function DailyCard({ item, isNew }: { item: DailyItem; isNew: boolean }) {
         </button>
         <button
           type="button"
-          className="text-[11.5px] font-bold flex items-center gap-1 text-charcoal/45 tap"
+          className="text-[12px] font-bold flex items-center gap-1 text-charcoal/45 tap"
           onClick={() =>
             void share({ title, text: item.publicSummary || item.konu, url: item.url })
           }
@@ -385,7 +385,7 @@ function ArchivePage() {
         </div>
       </div>
 
-      <p className="text-[11px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
+      <p className="text-[12px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
         {results.length === 200 ? 'ilk 200' : results.length} sonuç
       </p>
 
@@ -409,14 +409,14 @@ function ArchivePage() {
                 className="w-full card px-4 py-3.5 flex items-start gap-3 text-left tap"
               >
                 <span className="flex-1 min-w-0">
-                  <span className="block text-[10px] font-mono tracking-wide uppercase text-charcoal/35">
+                  <span className="block text-[12px] font-mono tracking-wide uppercase text-charcoal/35">
                     {r.a} · {r.t}
                   </span>
                   <span className="block text-[13px] font-semibold leading-snug mt-0.5">
                     {r.k}
                   </span>
                   {r.w?.length > 0 && (
-                    <span className="block text-[11px] text-charcoal/45 mt-1 line-clamp-1">
+                    <span className="block text-[12px] text-charcoal/45 mt-1 line-clamp-1">
                       {r.w.join(' · ')}
                     </span>
                   )}
@@ -454,11 +454,11 @@ function ArchiveDetail({ id }: { id: string }) {
 
   return (
     <div className="page selectable">
-      <p className="text-[10px] font-mono tracking-widest uppercase text-charcoal/40">
+      <p className="text-[12px] font-mono tracking-widest uppercase text-charcoal/40">
         {row.a} · {row.t}
       </p>
       <h2 className="text-[16px] font-heading font-bold leading-snug mb-1">{row.k}</h2>
-      {row.d && <p className="text-[12.5px] text-charcoal/55 mb-4">{row.d}</p>}
+      {row.d && <p className="text-[13px] text-charcoal/55 mb-4">{row.d}</p>}
 
       {row.w?.length > 0 && (
         <div className="flex flex-wrap gap-1.5 mb-5">
@@ -475,7 +475,7 @@ function ArchiveDetail({ id }: { id: string }) {
       )}
 
       <div className="rounded-2xl border border-charcoal/10 bg-white/60 p-4 mb-5">
-        <p className="text-[12.5px] text-charcoal/60 leading-relaxed m-0">
+        <p className="text-[13px] text-charcoal/60 leading-relaxed m-0">
           Karar künyesi ve konu etiketleri cihazınızda saklanır. Kararın tam metni site
           üzerinden açılır; bunun için internet gerekir.
         </p>
@@ -541,8 +541,8 @@ function FollowPage() {
 
   return (
     <div className="page">
-      <h2 className="text-base font-heading font-bold mb-1">Takip</h2>
-      <p className="text-[12.5px] text-charcoal/55 leading-relaxed mb-5">
+      <h2 className="text-[20px] font-heading font-bold mb-1">Takip</h2>
+      <p className="text-[13px] text-charcoal/55 leading-relaxed mb-5">
         İlgilendiğiniz alanları işaretleyin; günlük özet açıldığında bunlar üste gelir.
         Bildirim cihazınızda üretilir, hiçbir veri sunucuya gönderilmez.
       </p>
@@ -552,12 +552,12 @@ function FollowPage() {
           {daily ? <Bell size={16} /> : <BellOff size={16} />}
         </span>
         <div className="flex-1 min-w-0">
-          <h3 className="text-[13.5px] font-bold mb-0.5">Günlük hatırlatma</h3>
+          <h3 className="text-[14px] font-bold mb-0.5">Günlük hatırlatma</h3>
           <p className="text-[12px] text-charcoal/50 leading-relaxed">
             Her sabah 08.30'da o günün özetini hatırlatır.
           </p>
           {denied && (
-            <p className="text-[11.5px] text-red-600 mt-1.5">
+            <p className="text-[12px] text-red-600 mt-1.5">
               Bildirim izni verilmedi. Cihaz ayarlarından açabilirsiniz.
             </p>
           )}
@@ -592,12 +592,12 @@ function FollowPage() {
         </button>
       </section>
 
-      <h3 className="text-[11px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
+      <h3 className="text-[12px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
         İlgi alanları
       </h3>
 
       {alanlar.length === 0 ? (
-        <p className="text-[12.5px] text-charcoal/45">Arşiv yükleniyor…</p>
+        <p className="text-[13px] text-charcoal/45">Arşiv yükleniyor…</p>
       ) : (
         <div className="flex flex-wrap gap-2">
           {alanlar.map(([a, n]) => {

@@ -170,7 +170,7 @@ function HomePage() {
           />
         ) : (
           <>
-            <p className="text-[11px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
+            <p className="text-[12px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
               {results.length} sonuç
             </p>
             <ul className="space-y-2">
@@ -185,7 +185,7 @@ function HomePage() {
       ) : (
         <>
           <section className="mb-6">
-            <h2 className="text-[11px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
+            <h2 className="text-[12px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
               Konu başlıkları
             </h2>
             <div className="grid grid-cols-2 gap-2">
@@ -205,7 +205,7 @@ function HomePage() {
           </section>
 
           <section className="mb-6">
-            <h2 className="text-[11px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
+            <h2 className="text-[12px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
               Tüm rehberler ({guides.length})
             </h2>
             <ul className="space-y-2">
@@ -217,7 +217,7 @@ function HomePage() {
             </ul>
           </section>
 
-          <p className="text-[11px] leading-relaxed text-charcoal/40">
+          <p className="text-[12px] leading-relaxed text-charcoal/40">
             Rehberler cihazınıza kurulur; okumak için internet gerekmez. Arşiv yeniden
             yazılıyor — her güncellemede yeni konular ekleniyor. Bilgilendirme amaçlıdır.
           </p>
@@ -236,7 +236,7 @@ function CategoriesPage() {
 
   return (
     <div className="page">
-      <h2 className="text-base font-heading font-bold mb-3">Konu başlıkları</h2>
+      <h2 className="text-[20px] font-heading font-bold mb-3">Konu başlıkları</h2>
       <div className="grid grid-cols-2 gap-2">
         {cats.map(([name, n]) => (
           <CategoryCard key={name} name={name} count={n} />
@@ -264,8 +264,8 @@ function CategoryPage({ cat }: { cat: string }) {
 
   return (
     <div className="page">
-      <h2 className="text-base font-heading font-bold">{cat}</h2>
-      <p className="text-[12px] text-charcoal/50 mb-3">{rows.length} rehber</p>
+      <h2 className="text-[20px] font-heading font-bold">{cat}</h2>
+      <p className="text-[13px] text-charcoal/50 mb-3">{rows.length} rehber</p>
       <ul className="space-y-2">
         {rows.map((g) => (
           <li key={g.slug}>
@@ -304,16 +304,16 @@ function ArticlePage({ slug }: { slug: string }) {
 
   return (
     <div className="page selectable">
-      <p className="text-[10px] font-mono tracking-widest uppercase text-charcoal/40">
+      <p className="text-[12px] font-mono tracking-widest uppercase text-charcoal/40">
         {g.category}
       </p>
-      <h2 className="text-[19px] font-heading font-bold leading-tight mb-3">{g.h1}</h2>
+      <h2 className="text-[24px] font-heading font-bold leading-tight mb-3">{g.h1}</h2>
 
       <div className="flex gap-2 mb-5">
         <button
           type="button"
           aria-pressed={isSaved}
-          className="btn-ghost flex-1 !py-2.5 text-[13px]"
+          className="btn-ghost flex-1 !py-2.5 text-[14px]"
           onClick={() => {
             void tapFeedback();
             setSaved((prev) => (isSaved ? prev.filter((s) => s !== slug) : [slug, ...prev]));
@@ -328,7 +328,7 @@ function ArticlePage({ slug }: { slug: string }) {
         </button>
         <button
           type="button"
-          className="btn-ghost flex-1 !py-2.5 text-[13px]"
+          className="btn-ghost flex-1 !py-2.5 text-[14px]"
           onClick={() =>
             void share({
               title: g.h1,
@@ -347,16 +347,16 @@ function ArticlePage({ slug }: { slug: string }) {
         style={{ background: 'var(--brand-soft)', borderColor: 'var(--brand-soft)' }}
       >
         <p
-          className="text-[9.5px] tracking-[0.16em] uppercase font-bold mb-1.5"
+          className="text-[12px] tracking-[0.16em] uppercase font-bold mb-1.5"
           style={{ color: 'var(--brand)' }}
         >
           Kısa cevap
         </p>
-        <p className="text-[14px] leading-relaxed text-charcoal/85 m-0">{g.lead}</p>
+        <p className="text-[15px] leading-relaxed text-charcoal/85 m-0">{g.lead}</p>
       </aside>
 
       {g.keyInsight && (
-        <p className="text-[13px] font-semibold leading-relaxed mb-6 pl-3 border-l-2"
+        <p className="text-[14px] font-semibold leading-relaxed mb-6 pl-3 border-l-2"
            style={{ borderColor: 'var(--brand)' }}>
           {g.keyInsight}
         </p>
@@ -370,12 +370,12 @@ function ArticlePage({ slug }: { slug: string }) {
             {g.steps.map((s, i) => (
               <li key={i} className="flex gap-3">
                 <span
-                  className="shrink-0 w-7 h-7 rounded-full grid place-items-center text-[12px] font-bold text-white"
+                  className="shrink-0 w-7 h-7 rounded-full grid place-items-center text-[13px] font-bold text-white"
                   style={{ background: 'var(--brand)' }}
                 >
                   {i + 1}
                 </span>
-                <p className="flex-1 text-[13.5px] leading-relaxed text-charcoal/75 m-0 pt-0.5">
+                <p className="flex-1 text-[14px] leading-relaxed text-charcoal/75 m-0 pt-0.5">
                   {s}
                 </p>
               </li>
@@ -389,14 +389,14 @@ function ArticlePage({ slug }: { slug: string }) {
         <section key={sec.heading} className="mb-7">
           <h3 className="text-[15px] font-heading font-bold mb-2.5">{sec.heading}</h3>
           {(sec.paragraphs ?? []).map((p) => (
-            <p key={p.slice(0, 40)} className="text-[13.5px] leading-relaxed text-charcoal/75 mb-2.5">
+            <p key={p.slice(0, 40)} className="text-[14px] leading-relaxed text-charcoal/75 mb-2.5">
               {p}
             </p>
           ))}
           {(sec.bullets ?? []).length > 0 && (
             <ul className="space-y-1.5 list-none p-0 m-0 mt-2">
               {(sec.bullets ?? []).map((b) => (
-                <li key={b} className="flex gap-2 text-[13px] leading-relaxed text-charcoal/70">
+                <li key={b} className="flex gap-2 text-[14px] leading-relaxed text-charcoal/70">
                   <span style={{ color: 'var(--brand)' }} aria-hidden>
                     ·
                   </span>
@@ -413,7 +413,7 @@ function ArticlePage({ slug }: { slug: string }) {
         <section className="mb-7">
           <h3 className="text-[15px] font-heading font-bold mb-2.5">{g.table.caption}</h3>
           <div className="overflow-x-auto -mx-4 px-4">
-            <table className="w-full min-w-[18rem] text-left border-collapse text-[12.5px]">
+            <table className="w-full min-w-[18rem] text-left border-collapse text-[13px]">
               <thead>
                 <tr style={{ background: 'var(--brand)' }} className="text-white">
                   {g.table.headers.map((h) => (
@@ -448,9 +448,9 @@ function ArticlePage({ slug }: { slug: string }) {
           <h3 className="text-[15px] font-heading font-bold mb-2.5">Kontrol listesi</h3>
           <ul className="space-y-2 list-none p-0 m-0">
             {g.checklist.map((item, i) => (
-              <li key={item} className="card px-3.5 py-3 flex gap-3 text-[13px] leading-relaxed">
+              <li key={item} className="card px-3.5 py-3 flex gap-3 text-[14px] leading-relaxed">
                 <span
-                  className="shrink-0 w-6 h-6 rounded-md grid place-items-center text-[11px] font-bold"
+                  className="shrink-0 w-6 h-6 rounded-md grid place-items-center text-[12px] font-bold"
                   style={{ background: 'var(--brand-soft)', color: 'var(--brand)' }}
                 >
                   {i + 1}
@@ -469,11 +469,11 @@ function ArticlePage({ slug }: { slug: string }) {
           <div className="space-y-2">
             {g.faq.map((f) => (
               <details key={f.q} className="card overflow-hidden">
-                <summary className="cursor-pointer list-none p-3.5 text-[13px] font-semibold flex gap-2 [&::-webkit-details-marker]:hidden">
+                <summary className="cursor-pointer list-none p-3.5 text-[14px] font-semibold flex gap-2 [&::-webkit-details-marker]:hidden">
                   <span className="flex-1">{f.q}</span>
                   <span className="text-charcoal/25 text-lg leading-none">+</span>
                 </summary>
-                <p className="px-3.5 pb-3.5 -mt-1 text-[13px] leading-relaxed text-charcoal/70 m-0">
+                <p className="px-3.5 pb-3.5 -mt-1 text-[14px] leading-relaxed text-charcoal/70 m-0">
                   {f.a}
                 </p>
               </details>
@@ -494,7 +494,7 @@ function ArticlePage({ slug }: { slug: string }) {
                   onClick={() => void openOnSite(l.href)}
                   className="w-full card px-3.5 py-3 flex items-center gap-2 text-left tap"
                 >
-                  <span className="flex-1 text-[13px] font-semibold">{l.label}</span>
+                  <span className="flex-1 text-[14px] font-semibold">{l.label}</span>
                   <ExternalLink size={14} className="text-charcoal/30" aria-hidden />
                 </button>
               </li>
@@ -516,7 +516,7 @@ function ArticlePage({ slug }: { slug: string }) {
         </section>
       )}
 
-      <p className="text-[11px] leading-relaxed text-charcoal/40 border-t border-charcoal/10 pt-4">
+      <p className="text-[12px] leading-relaxed text-charcoal/40 border-t border-charcoal/10 pt-4">
         Genel bilgilendirme. Somut dosyada süre ve merci değişebilir; güncel metin ve
         gerektiğinde avukat esastır.{g.updated ? ` Güncelleme: ${g.updated}` : ''}
       </p>
@@ -547,7 +547,7 @@ function SavedPage() {
 
   return (
     <div className="page">
-      <h2 className="text-base font-heading font-bold mb-3">Kaydettikleriniz</h2>
+      <h2 className="text-[20px] font-heading font-bold mb-3">Kaydettikleriniz</h2>
       <ul className="space-y-2">
         {rows.map((g) => (
           <li key={g.slug}>
@@ -584,11 +584,11 @@ function GuideRow({ g }: { g: Guide }) {
       className="w-full card px-4 py-3.5 flex items-start gap-3 text-left tap"
     >
       <span className="flex-1 min-w-0">
-        <span className="block text-[10px] font-mono tracking-widest uppercase text-charcoal/35">
+        <span className="block text-[12px] font-mono tracking-widest uppercase text-charcoal/35">
           {g.category}
         </span>
-        <span className="block text-[14px] font-bold leading-snug mt-0.5">{g.h1}</span>
-        <span className="block text-[11.5px] text-charcoal/45 leading-snug mt-1 line-clamp-2">
+        <span className="block text-[15px] font-bold leading-snug mt-0.5">{g.h1}</span>
+        <span className="block text-[13px] text-charcoal/45 leading-snug mt-1 line-clamp-2">
           {firstSentence(g.lead)}
         </span>
       </span>
@@ -607,8 +607,8 @@ function CategoryCard({ name, count }: { name: string; count: number }) {
       }}
       className="card p-3.5 text-left tap min-h-[70px] flex flex-col"
     >
-      <span className="text-[13.5px] font-bold leading-snug flex-1">{name}</span>
-      <span className="text-[10.5px] font-mono mt-1.5" style={{ color: 'var(--brand)' }}>
+      <span className="text-[14px] font-bold leading-snug flex-1">{name}</span>
+      <span className="text-[12px] font-mono mt-1.5" style={{ color: 'var(--brand)' }}>
         {count} rehber
       </span>
     </button>
