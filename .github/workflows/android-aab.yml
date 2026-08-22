@@ -16,6 +16,7 @@ on:
       - 'mobile/**'
       - 'content-packs/**'
       - 'lib/content-quality.mjs'
+      - 'lib/__tests__/**'
       - '.github/workflows/android-aab.yml'
 
 concurrency:
