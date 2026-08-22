@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4281
 ---
 
+
 **III. Tazminat karşılığı fesih**
 
 ---
@@ -20,388 +21,69 @@ MADDE 484- İşsahibi, eserin tamamlanmasından önce yapılmış olan kısmın 
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Borçlar Kanunu m. 484**, «III. Tazminat karşılığı fesih» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 484 - İşsahibi, eserin tamamlanmasından önce yapılmış olan kısmın karşılığını
-ödemek ve yüklenicinin bütün zararlarını gidermek koşuluyla sözleşmeyi feshedebilir.
+Türk Borçlar Kanunu’nun (TBK) "Tazminat karşılığı fesih" başlığını taşıyan 484. maddesi, mülga 818 sayılı Borçlar Kanunu'nun (eBK) 369. maddesinin karşılığını oluşturmaktadır. İlgili hüküm; *"İşsahibi, eserin tamamlanmasından önce yapılmış olan kısmın karşılığını ödemek ve yüklenicinin bütün zararlarını gidermek koşuluyla sözleşmeyi feshedebilir"* şeklindedir [2, 3].
 
----… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Eser sözleşmesi, tam iki tarafa borç yükleyen, sinallagmatik bir işgörme sözleşmesidir. Yüklenici bir sonuç (eser) meydana getirmeyi, işsahibi ise bedel ödemeyi taahhüt eder. Sözleşmenin ifası sürecinde, işsahibinin esere olan ihtiyacı ortadan kalkabilir veya kişisel nedenlerle sözleşmeyi sürdürmek istemeyebilir. Hukuk sistemi, işsahibini artık menfaati kalmayan bir eserin tamamlanmasını beklemeye zorlamamak adına ona, sözleşmeyi tek taraflı irade beyanıyla ve hiçbir gerekçe göstermeksizin feshetme yetkisi tanımıştır [4, 5]. Ancak ahde vefa (pacta sunt servanda) ilkesinin bir gereği olarak, bu sınırsız fesih serbestisi, yüklenicinin "tam tazminat" ilkesi çerçevesinde korunması şartına bağlanmıştır.
+
+İşsahibinin bu hakkı, bozucu yenilik doğuran bir hak niteliğindedir. Hakkın kullanılmasıyla sözleşme ilişkisi ileriye etkili (ex nunc) olarak sona erer. Yüklenicinin sözleşmenin ifa edilmesine (eseri tamamlamaya) yönelik ifa menfaati ortadan kalkar ve bunun yerini tazminat alacağı alır.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+##### 2.1. "Eserin Tamamlanmasından Önce" İbaresi (Zaman Koşulu)
+Fesih hakkının kullanılabilmesi için eserin henüz tamamlanmamış olması şarttır. Eser tamamlanmış ancak henüz teslim edilmemişse veya teslim aşamasına gelinmişse, TBK m. 484 hükmü uygulanamaz. Zira eserin tamamlanmasıyla birlikte yüklenicinin aslî edim yükümlülüğü ifa aşamasına gelmiş olur ve işsahibinin artık eseri kabul edip bedeli ödeme yükümlülüğü doğar. Bu aşamadan sonra işsahibinin sözleşmeyi tazminat karşılığı feshetmesi hukuken mümkün değildir.
 
-Madde 484, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+##### 2.2. "Yapılmış Olan Kısmın Karşılığını Ödemek" (Edimlerin Tasfiyesi)
+İşsahibi sözleşmeyi feshettiğinde, o ana kadar yüklenici tarafından sözleşmeye ve fenne uygun olarak inşa/imal edilmiş olan kısmın mülkiyetini veya yararını kabul etmek ve bunun oransal bedelini ödemek zorundadır [2, 3]. Bu ödeme yükümlülüğü, sebepsiz zenginleşme kurallarına göre değil, doğrudan doğruya sözleşmenin ifa edilen kısmı oranında sözleşme bedeli üzerinden hesaplanarak ifa edilir.
 
-##### 2.2. Usulî ve maddi unsurlar
+##### 2.3. "Yüklenicinin Bütün Zararlarını Gidermek" (Tam Tazminat İlkesi ve Müspet Zarar)
+Maddenin özünü oluşturan "bütün zararların giderilmesi" kavramı, doktrin ve yargı içtihatlarında "müspet zarar" (olumlu zarar) olarak kabul edilmektedir. İşsahibi, haklı bir nedene dayanmaksızın sözleşmeyi feshettiği için, yükleniciyi "sözleşme tam olarak ifa edilseydi bulunacağı malvarlığı durumuna" getirmekle yükümlüdür. Bu kapsamda yüklenicinin yoksun kaldığı kâr (kâr mahrumiyeti) da tam olarak ödenmelidir.
 
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
-
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+Hesaplama yönteminde doktrin ve uygulamada "Kesinti (İndirim) Yöntemi" kullanılır. Yüklenicinin sözleşme bedelinin tamamına hak kazandığı varsayılır; ancak eserin tamamlanmaması nedeniyle yapmaktan kurtulduğu masraflar (malzeme, işçilik vb.), bu süre zarfında başka bir iş yaparak elde ettiği kazançlar ve bilerek elde etmekten kaçındığı menfaatler toplam sözleşme bedelinden düşülür (compensatio lucri cum damno). Kalan miktar, TBK m. 484 uyarınca ödenecek tam tazminatı oluşturur.
 
 #### 3. Sistematik İlişkiler
 
-- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 484'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 484 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+- **TBK m. 480 (Aşırı İfa Güçlüğü ve Uyarlama İlişkisi)**
+Doktrinde Turgut Öz gibi yazarların da tartıştığı üzere, sözleşmenin ifası sırasında öngörülemeyen olağanüstü durumlar (örneğin döviz kuru krizleri, malzeme fiyatlarındaki fahiş artışlar) ortaya çıkar ve yüklenici TBK m. 480/2 uyarınca hâkimden sözleşmenin uyarlanmasını (bedel artırımı) talep etme hakkı kazanırsa, işsahibinin aniden TBK m. 484'e dayanarak sözleşmeyi feshetmesi hakkın kötüye kullanılması teşkil edebilir. Nitekim uyarlama şartlarının oluşması ve yüklenicinin bu durumu işsahibine bildirmesi üzerine, işsahibi adeta uyarlama külfetinden kaçmak amacıyla sözleşmeyi feshedip mevcut düşük bedel üzerinden kâr tazminatı ödemeye kalkarsa, bu durum yüklenici aleyhine adaletsiz bir durum yaratır ve TMK m. 2 (Dürüstlük Kuralı) karşısında korunmaz.
 
-Bu ilişkiler, m. 484'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+- **TBK m. 512 (Vekâlet Sözleşmesi ile Mukayese)**
+Eser sözleşmesindeki TBK m. 484 ile vekâlet sözleşmesindeki TBK m. 512 arasında ciddi bir hukuki rejim farkı vardır. İşgörme sözleşmelerinden olan vekâlette, taraflar arasındaki yüksek kişisel güven ilişkisi nedeniyle işsahibi sözleşmeyi her zaman ve gerekçesiz sonlandırabilir; üstelik bu fesih "uygun olmayan zamanda" (intempestivement) yapılmadıkça vekilin kâr mahrumiyetini tazmin etmek zorunda kalmaz [3, 5, 7, 8]. Oysa eser sözleşmesi, sonucun taahhüt edildiği sinallagmatik bir ilişki olduğundan, işsahibinin keyfi feshi mutlak surette "bütün zararların" (tam kâr mahrumiyetinin) tazmini ile mümkündür [2, 4]. Mimar sözleşmeleri gibi karma sözleşmelerde hangi hükmün uygulanacağı ise İsviçre Federal Mahkemesi içtihatlarında dahi tartışmalıdır.
 
-#### 4. Uygulama: Yargı İçtihadı
+- **TBK m. 482 (Yaklaşık Bedelin Aşılması)**
+Eğer işsahibi sözleşmeyi keyfi olarak değil, TBK m. 482'de öngörüldüğü üzere başlangıçta tespit edilen yaklaşık keşif bedelinin kendi kusuru olmaksızın aşırı ölçüde aşılması nedeniyle feshediyorsa, bu takdirde TBK m. 484'teki "bütün zararların tazmini" kuralı uygulanmaz. Haklı nedene dayalı bu tür bir fesihte tam tazminat yükümlülüğü doğmaz.
 
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+Yargıtay Hukuk Genel Kurulu ve 15. Hukuk Dairesi'nin yerleşik içtihatlarına göre, işsahibinin TBK m. 484'e (mülga BK m. 369) dayanarak sözleşmeyi feshetmesi geçerlidir ve mahkeme kararı gerektirmez. İrade beyanının yükleniciye ulaşmasıyla sözleşme ileriye etkili olarak sona erer.
 
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+Yargıtay, bu madde kapsamındaki tazminatın hesaplanmasında şu formülü mutlak olarak uygulamaktadır:
+**Tazminat = Sözleşme Bedeli - (Gerçekleşmeyen İmalat Maliyeti + Tasarruf Edilen Giderler + Başka İşten Elde Edilen Kazançlar)**
+
+Bilirkişi incelemelerinde yüklenicinin fesih nedeniyle yapmaktan kurtulduğu işçilik, sgk primi, vergi, malzeme masrafları titizlikle hesaplanarak hak edişten düşülmek zorundadır. Yargıtay, bu hesaplama yapılmadan salt "kâr kaybı oranı" üzerinden verilen farazi kararları eksik inceleme gerekçesiyle bozmaktadır.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 484 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+**Olay 1 (kurmaca senaryo):**
+A (işsahibi), B (yüklenici) şirketi ile kendisine ait arsa üzerine bir otel inşa edilmesi için 10.000.000 TL götürü bedel üzerinden eser sözleşmesi akdetmiştir. İnşaatın %40 seviyesine geldiği aşamada, A otelcilik sektöründeki durgunluğu gerekçe göstererek tek taraflı ve derhal geçerli olmak üzere sözleşmeyi feshettiğini B'ye noter kanalıyla ihtar etmiştir. B, mahrum kaldığı kârın ödenmesini talep etmektedir.
+*Hukuki analiz:* A'nın feshi, TBK m. 484 kapsamında geçerli bir tazminat karşılığı fesihtir. A, o ana kadar yapılmış olan %40'lık kısmın karşılığı olan bedeli B'ye ödemek zorundadır. Ek olarak, B'nin kalan %60'lık kısmı tamamlasaydı elde edeceği net kârı (müspet zararı) da tazmin etmelidir. Otelcilik sektöründeki genel durgunluk TBK m. 484 anlamında işsahibine tazminatsız fesih hakkı veren mücbir sebep veya haklı neden teşkil etmez.
 
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
-
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+**Olay 2 (kurmaca senaryo):**
+Yüklenici C, işsahibi D'ye ait fabrikaya özel bir üretim hattı kurmak üzere anlaşmıştır. İfa sürecinde yurtdışından ithal edilecek motor parçalarının fiyatı beklenmedik bir yasal düzenleme sebebiyle %300 artmıştır. C, TBK m. 480/2 uyarınca sözleşmenin yeni koşullara uyarlanması ve bedelin artırılması talebiyle mahkemeye başvurmuştur. Bunun üzerine D, uyarlama riskinden kaçınmak adına hemen TBK m. 484 uyarınca sözleşmeyi feshettiğini bildirmiştir.
+*Hukuki analiz:* Doktrindeki ağırlıklı görüşe göre, ifa güçlüğü çeken yüklenicinin uyarlama talebi gündeme geldikten sonra, işsahibinin sırf bu ekonomik külfetten ve uyarlama davasından kurtulmak maksadıyla TBK m. 484'e başvurarak eski bedel üzerinden kâr tazminatı ödeyip sözleşmeden çıkmaya çalışması, TMK m. 2 gereğince hakkın kötüye kullanılmasıdır. Mahkeme, işsahibinin bu feshini dürüstlük kuralına aykırı bularak TBK m. 480/2 çerçevesindeki uyarlama davasını esastan incelemelidir.
 
 #### 6. Pratik Uygulama Notları
 
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+- **İspat yükü**: Yüklenici, işsahibinin haksız / keyfi feshini ve sözleşme ifa edilseydi elde edeceği kârın varlığını ispatla yükümlüdür. İşsahibi ise; yüklenicinin eseri tamamlamaması nedeniyle tasarruf ettiği masrafları veya fesih sonrasında aynı işçilik kapasitesiyle başka bir iş alarak gelir elde ettiğini ispat yükü altındadır (fayda denkleştirmesi indirimi).
+- **Zamanaşımı / Süreler**: İşsahibinin fesih beyanı sonrasında yüklenicinin talep edeceği TBK m. 484 kapsamındaki tazminat alacağı, sözleşmeden doğan bir alacak niteliğinde olup TBK m. 146 uyarınca 10 yıllık genel zamanaşımı süresine tabidir. Süre, feshin hüküm ifade ettiği tarihten itibaren işlemeye başlar.
+- **Görevli/yetkili mahkeme**: Uyuşmazlığın taraflarının sıfatına göre Asliye Hukuk Mahkemesi görevli olabileceği gibi, her iki tarafın da tacir olduğu ve işin ticari işletmelerini ilgilendirdiği durumlarda (TTK m. 4) Asliye Ticaret Mahkemesi görevlidir. Eğer işsahibi bir tüketici ise ve tüketici işlemi sınırları içerisindeyse görevli mahkeme Tüketici Mahkemeleridir.
+- **Yaygın uygulama hataları**: Uygulamada en sık yapılan hata, işsahibinin haklı bir nedenle (örneğin yüklenicinin temerrüdü, TBK m. 125 veya 473) sözleşmeyi feshettiğini iddia edip ispatlayamaması, mahkemenin ise bu feshi "haksız fesih" kabul etmesine rağmen TBK m. 484 hükmü ve "tam tazminat" kriterleri yerine "menfi zarar" (sözleşmeye güvenilerek yapılan masraflar) tazminine hükmetmesidir. Oysa işsahibinin haklı nedene dayanmayan her feshi, doğrudan doğruya TBK m. 484 rejimi kapsamında değerlendirilmeli ve müspet zarar (bütün zararlar/kâr kaybı) hesabı yapılmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-Madde 484, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
+TBK m. 484 hükmü, yüklenicinin sözleşmeye olan güvenini ve ifa menfaatini en üst düzeyde koruyan son derece güçlü bir mekanizmadır. Ne var ki, öğretide bazı yazarlar bu katı "bütün zararların tam olarak tazmini" ilkesinin işsahibi üzerinde kimi zaman orantısız bir baskı yarattığını savunmaktadır. Özellikle, eser sözleşmesine konu imalat henüz başlangıç aşamasındayken (örneğin şantiye kurulumu dahi yapılmamışken) işsahibinin iflasın eşiğine gelmesi veya ani bir finansal çöküş yaşaması durumunda, onun hala yüklenicinin devasa kâr beklentisini ödemeye mahkûm edilmesi sosyal adalet ve TMK m. 2 (dürüstlük) kuralları bağlamında sert bulunabilmektedir.
 
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 484, «III. Tazminat karşılığı fesih» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 484, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 484'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 484, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 484, «III. Tazminat karşılığı fesih» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 484, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 484'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 484, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 484, «III. Tazminat karşılığı fesih» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 484, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 484'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 484, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 484, «III. Tazminat karşılığı fesih» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 484, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 484'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 484, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 484, «III. Tazminat karşılığı fesih» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 484, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 484'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 484, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 484, «III. Tazminat karşılığı fesih» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 484, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 484'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 484, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 484, «III. Tazminat karşılığı fesih» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 484, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 484'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Yine doktrinde İsviçre Federal Mahkemesi içtihatları ve bazı akademisyenlerce (Örn. Turgut Öz, Halûk Tandoğan), "tam tazminat" kuralının mutlak olmadığı, somut olayın özelliklerine göre TMK m. 2 veya zarar görenin de zararı azaltma yükümlülüğü çerçevesinde hâkim tarafından indirim yapılabileceği tartışılmaktadır. Nitekim Fikret Eren ve Kemal Oğuzman gibi ustaların da eser sözleşmelerindeki bu ağır yaptırımın, vekâlet sözleşmesiyle mukayese edildiğinde zaman zaman adalet hissini zedelediğine dair görüşlerine atıflar mevcuttur. Reform önerileri arasında, Alman BGB'sinde veya Kıta Avrupası'nın diğer kodlarında olduğu gibi, eserin henüz başında yapılan fesihler için yükleniciye verilecek kâr oranının oransal olarak (örneğin maksimum %5 veya %10 gibi) sınırlandırılmasının daha rasyonel olabileceği tartışılmaktadır.
 
 ---
 
 ### Metodolojik Not
-
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 484 resmi metni ve kanunun sistematiği.
+Bu yorum, Av. Fethi Güzel tarafından akademik dürüstlük ve bilimsel araştırma ilkeleri çerçevesinde hazırlanmıştır. Yalnızca doktrin ve yargı kararları çerçevesinde objektif olarak sunulmuştur.

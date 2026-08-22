@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
+
 **Ortaklığın feshini isteme:**
 
 ---
@@ -23,390 +24,49 @@ için bu madde hükmü mezkür şirketler hakkında da tatbik olunur.
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
+**6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun’un 34. maddesi; amme borçlusunun şahsi malvarlığının kamu borcunu karşılamaya yetmediği hallerde, borçlunun üyesi olduğu şahıs ortaklıklarındaki payının cebri icra yoluyla nakde çevrilmesini sağlamak üzere amme idaresine ortaklığın feshini dava etme yetkisi tanıyan; ortaklığın devamlılığı ilkesi ile kamu alacağının tahsil kabiliyeti arasında usuli bir denge kuran, kamu düzenine müteallik emredici ve kurucu bir koruma normudur.**
 
-**Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 34**, «Ortaklığın feshini isteme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 34 – Borçluya ait mal bulunmadığı veya amme alacağını karşılamaya
-yetmediği yahut borçlu veya ortaklık tarafından bu kanuna göre teminat gösterilmediği
-takdirde, borçlunun sermayesi eshama münkasim olmıyan ortaklıklardaki hisselerinden amme
-alacağının tahsili için genel hükümler dairesinde ortaklığın feshi istenebilir.
-Sermayesi eshama münkasim komandit şirketlerinin komandite şeriklerinin b… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Madde, Kanun’un "İkinci Kısım: Amme Alacaklarının Korunması" başlığı altındaki "IV - Diğer korunma hükümleri" alt bölümünde, tasfiye halinde mesuliyeti tanzim eden 33. maddeden hemen sonra ve limited şirket ortaklarının sorumluluğunu düzenleyen 35. maddeden önce, otuz dördüncü sırada konumlandırılmıştır. Bu sistematik yerleşim; kanun koyucunun borçlunun bireysel malvarlığına (m. 13, m. 62) ve tasfiye süreçlerindeki haklarına (m. 32, m. 33) yönelik koruma tedbirlerini belirledikten sonra, borçlunun üçüncü kişilerle kurduğu ve sermayesi paylara bölünmemiş olan ortaklık yapılarındaki iktisadi haklarını kamu alacağına tahsis etmek amacıyla özel bir "ortaklığı sona erdirme" yetkisini (m. 34 dairesinde) tanzim etme iradesinin doğrudan bir neticesidir. Maddenin iki fıkradan oluşan emredici kurgusu; birinci fıkrada borçlunun şahsi malının bulunmaması veya yetmemesi ya da teminat gösterilmemesi halinde sermayesi paylara bölünmemiş ortaklıklardaki hisseleri için genel hükümler dairesinde fesih talep edilebileceğini düzenlemekte, ikinci fıkrada ise bu kuralın sermayesi paylara bölünmüş komandit şirketlerin komandite (sınırsız sorumlu) ortaklarının şahsi borçları için de aynen uygulanacağını hükme bağlamaktadır.
+
+Öğretide genel kabul gören görüşe göre, m. 34 hükümleri, amme idaresine tanınmış olağanüstü bir "son çare" (*ultima ratio*) yetkisidir. Şahıs ortaklıklarında ortakların kişisel emek ve mesaileri ön planda olduğundan, bir ortağın şahsi borcu nedeniyle ortaklığın doğrudan feshedilmesi hem diğer ortakların kazanılmış haklarını hem de işletmenin iktisadi bütünlüğünü tehlikeye sokar. Bu nedenle kanun koyucu, bu yola başvurulabilmesini borçlunun diğer tüm malvarlığı unsurlarının tükenmiş olması ve hiçbir teminat sunulamaması gibi son derece katı objektif ön şartlara bağlayarak ticari hayatın istikrarını korumayı da hedeflemiştir.
 
 #### 2. Maddedeki Kavramların Analizi
-
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 34, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
-
-##### 2.2. Usulî ve maddi unsurlar
-
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
-
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+Madde metninde yer alan ve ortaklığın feshini isteme rejimini şekillendiren temel yasal kavramların analizi şu şekildedir:
+* **Borçluya Ait Mal Bulunmadığı veya Amme Alacağını Karşılamaya Yetmediği:** Maddenin uygulanabilmesi için aranan birincil objektif ön şarttır (aciz ve yetersizlik durumu). İdare, borçlunun şahsi aktifleri üzerinde her türlü haciz ve takip işlemini gerçekleştirmesine rağmen borcu tahsil edemediğini resmi haciz varakaları ve aciz vesikası benzeri tespitlerle kanıtlamak zorundadır.
+* **Teminat Gösterilmediği Takdirde:** Borçlu mükellefin veya bizzat ortaklığın, AATUHK m. 10 dairesinde kamu borcunu tamamen karşılayacak miktarda geçerli bir teminat (örneğin banka teminat mektubu, gayrimenkul rehni vb.) sunmamış olması halidir. Eğer yeterli teminat gösterilirse, idarenin fesih talep etme hakkı yasal olarak engellenir.
+* **Sermayesi Eshama (Paylara) Münkasim Olmayan Ortaklıklar:** Maddenin kapsam sınırını çizen en kritik kavramdır. Buraya sermayesi paylara bölünmemiş olan **Adi Ortaklıklar (TBK dairesinde)**, **Kolektif Şirketler (TTK dairesinde)** ve **Adi Komandit Şirketler (TTK dairesinde)** girer. Anonim şirketler ve limited şirketler bu kapsama dahil değildir; zira bu sermaye şirketlerindeki ortaklık payları (hisseleri), şirketin feshedilmesine gerek kalmaksızın doğrudan haczedilip üçüncü kişilere satılabilen bağımsız iktisadi değerlerdir.
+* **Genel Hükümler Dairesinde Fesih İstenebilmesi:** Amme idaresinin doğrudan bir idari işlemle ortaklığı kapatamayacağını, aksine genel adli yargıda (Asliye Ticaret Mahkemesinde) genel hukuk kurallarına (Türk Ticaret Kanunu ve Türk Borçlar Kanunu) dayanarak bir **ortaklığın feshi ve tasfiyesi davası** açmak zorunda olduğunu belirten usuli atıftır.
+* **Sermayesi Eshama Münkasim Komandit Şirketlerin Komandite Şerikleri:** Sermayesi paylara bölünmüş komandit şirketlerde, şirket borçlarından dolayı kolektif şirket ortakları gibi sınırsız ve şahsen sorumlu olan ortaklardır (komandite ortaklar). Bunların şahsi amme borçları nedeniyle de m. 34 hükümleri tatbik edilir.
 
 #### 3. Sistematik İlişkiler
+Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 34 hükümleri, anayasal düzeyde hukuk devleti ilkesini kuran **Anayasa m. 2**, mülkiyet hakkını koruyan **Anayasa m. 35**, hak arama hürriyeti ve adil yargılanma hakkını vadeden **Anayasa m. 36**, çalışma ve sözleşme hürriyeti ile teşebbüs özgürlüğünü tanzim eden **Anayasa m. 48** ile herkesin mali gücüne göre vergi ödemekle yükümlü olduğunu emreden **Anayasa m. 73** ile doğrudan dikey ilişki içerisindedir. Tek bir ortağın şahsi borcu yüzünden dürüst ve borçsuz diğer ortakların teşebbüs hürriyetlerine ve mülkiyet haklarına müdahale edilmesi, dikey düzeyde ölçülülük ve mülkiyet hakkı sınırlarının en hassas tartışma alanlarından biridir.
 
-- **Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1** — Amaç ve kapsam: m. 34'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 5** — Ceza ve yasak rejimi: m. 34 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+Kanun içi sistematiğinde ise; "borçlu" tanımını kuran **AATUHK m. 3**, teminat türlerini belirleyen **AATUHK m. 10**, ihtiyati haciz rejimini tanzim eden **AATUHK m. 13**, davanın genel adli yargı yerini sabitleyen **AATUHK m. 24**, ödeme emrini tanzim eden **AATUHK m. 55** ile haciz ve satış usullerini kuran **AATUHK m. 62-90** hükümleriyle sarmal ve bölünmez bir bütünlük sergiler. m. 34, borçlunun şahsi malvarlığına yönelik haciz işlemlerinin (m. 62) sonuçsuz kalması üzerine devreye giren en radikal ve nihai cebri icra adımıdır.
 
-Bu ilişkiler, m. 34'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+Doktrinde bu husus şu şekilde değerlendirilmektedir: AATUHK m. 34 hükümleri, özel icra hukukunda bir ortağın şahsi borcu nedeniyle ortaklığın feshini ve payın tasfiyesini tanzim eden **2004 sayılı İcra ve İflas Kanunu’nun 121. maddesi**, adi ortaklıkların sona erme nedenlerini ve tasfiye usullerini kuran **6098 sayılı Türk Borçlar Kanunu’nun 639 ve 640. maddeleri**, ticaret şirketlerinin infisah, fesih ve tasfiye kurallarını belirleyen **6102 sayılı Türk Ticaret Kanunu’nun ilgili hükümleri** ile dürüstlük kuralını sabitleyen **4721 sayılı Türk Medeni Kanunu’nun 2. maddesi** hükümleriyle doğrudan yatay, tamamlayıcı ve etkileşimli bir ilişki içerisindedir. Fesih davasının özel hukuk dairesindeki yargılama usulü TTK, TBK ve HMK kuralları dairesinde, özel hukuk icra takipleriyle olan usuli paralellik ise İİK m. 121 ile AATUHK m. 34’in yatay etkileşiminde çözümlenir.
 
 #### 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
-
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
 
 #### 5. Pratik Örnek Olaylar
-
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 34 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
-
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
-
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+* **(kurmaca senaryo) 1 (Adi Ortaklıkta Kişisel Borç Nedeniyle Fesih Talebi):** İki mühendis ortak A ve B, bir inşaat projesini yürütmek üzere adi ortaklık kurmuştur. Ortaklardan A’nın vergi dairesine olan şahsi gelir vergisi borcu kesinleşmiş ve ödenmemiştir. İdare A'nın tüm şahsi banka hesaplarını ve taşınmazlarını haczetmesine rağmen borcu tahsil edememiştir. A ve ortaklık herhangi bir teminat göstermemiştir. Vergi dairesi m. 34 dairesinde Asliye Hukuk Mahkemesinde adi ortaklığın feshini talep etmiştir. Analizde; borçlunun şahsi aktiflerinin yetersiz olduğu, teminat sunulmadığı, adi ortaklığın eshama münkasim olmayan bir yapı olduğu saptanmış ve mahkemece ortaklığın feshi ile A'nın tasfiye payının devlete ödenmesine karar verilmiştir.
+* **(kurmaca senaryo) 2 (Limited Şirkette Yanlışlıkla Açılan Fesih Davası):** Vergi borçlusu C'nin, iki ortaklı bir Limited Şirkette %50 payı bulunmaktadır. Vergi dairesi C'nin borçları için limited şirketin feshini talep eden bir dava ikame etmiştir. Limited şirket ortakları davanın reddini savunmuştur. Analizde; limited şirketlerin "sermayesi eshama münkasim olmayan ortaklık" kategorisinde yer almadığı, şirket hisselerinin şirket feshedilmeksizin haczedilip satılabileceği, dolayısıyla m. 34'ün limited şirketlere uygulanamayacağı saptanarak idarenin davası esastan reddedilmiştir.
+* **(kurmaca senaryo) 3 (Teminat Gösterilmesiyle Fesih Davasının Engellenmesi):** Kolektif Şirket ortağı D’nin şahsi amme borçları nedeniyle vergi dairesi kolektif şirketin feshini dava etmek üzere hazırlık yapmıştır. Durumu öğrenen diğer ortak E, şirketin ticari faaliyetlerinin durmasını engellemek amacıyla vergi dairesine borç tutarında kesin ve sınırsız banka teminat mektubunu (teminat) sunmuştur. Analizde; m. 34 uyarınca "borçlu veya ortaklık tarafından bu kanuna göre teminat gösterilmediği takdirde" fesih istenebileceği, geçerli teminat sunulmasıyla birlikte idarenin fesih dava etme hakkının hukuken ortadan kalktığı saptanarak takip bu aşamada durdurulmuştur.
 
 #### 6. Pratik Uygulama Notları
-
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+Uygulamada ortaklığın feshini isteme süreçlerini ve bundan doğan uyuşmazlıkları yöneten hukukçuların ve idari birimlerin aşağıdaki pratik hususlara dikkat etmesi gerekir:
+* **Asliye Ticaret Mahkemesinin Görevi:** M. 34 uyarınca açılacak fesih davaları idari yargıda değil, genel adli yargıda açılır. Eğer ortaklık bir ticaret şirketi (kolektif veya komandit) ise dava **Asliye Ticaret Mahkemesinde**; adi ortaklık ise genel yetkili **Asliye Hukuk Mahkemesinde** ikame edilmek zorundadır.
+* **İspat Yükü ve "Son Çare" Kanıtı:** Davacı amme idaresi, dava dilekçesine borçlu ortağın şahsi malvarlığının bulunmadığını veya yetmediğini gösteren haciz tutanaklarını, banka sorgu kayıtlarını ve tapu sorgularını eklemekle yükümlüdür. Bu belgelerin eksikliği halinde mahkemece idareye süre verilmeli, aciz durumu ispatlanamazsa dava reddedilmelidir.
+* **İİK m. 121 ile Farkı (Yetki Belgesi Muafiyeti):** Özel icra hukukunda (İİK m. 121) alacaklı, ortaklığın feshini istemeden önce icra mahkemesinden özel bir "yetki belgesi" almak zorundadır. Ancak kamu icra hukukunda amme idaresi, AATUHK m. 34'ün doğrudan verdiği yasal yetkiye dayanarak, hiçbir icra mahkemesinden ayrıca yetki belgesi almaksızın doğrudan fesih davası açabilir.
+* **Diğer Ortakların Haklarının Korunması:** Diğer ortaklar, şirketin feshini önlemek adına borçlu ortağın borcunu amme idaresine bizzat ödeyebilirler. Bu durumda ödeme yapan ortakların, borçlu ortağa karşı rücu hakları ve ortaklıktan çıkarma talep etme hakları (TTK dairesinde) saklı kalır.
 
 #### 7. Eleştirel Değerlendirme
+AATUHK m. 34’ün tanzim ettiği "şahsi borç nedeniyle ortaklığın feshini dava etme" modeli, kamu alacaklarının tahsil kabiliyetini artırmada son derece radikal bir yetki sunsa da, dürüst ve borçsuz ortakların ticari geleceklerini felç etmesi, istihdamı zedelemesi ve modern şirketler hukuku prensipleri yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, tek bir ortağın kişisel borcu yüzünden tüm ortaklığın tasfiyesini talep etmenin, ticari işletmelerin yaşatılması ve korunması yönündeki modern iktisadi ve hukuki eğilimlerle açıkça çeliştiği; borçla hiçbir ilgisi olmayan diğer ortakların mülkiyet haklarını (Anayasa m. 35) ve teşebbüs hürriyetlerini (Anayasa m. 48) ölçüsüzce ihlal ettiği; nitekim fesih yerine borçlu ortağın sadece payının cebren diğer ortaklara rayiç bedelle satılması veya borçlunun ortaklıktan çıkarılması gibi çok daha hafif ve yapıcı usullerle kamu alacağı tahsil edilebilecekken doğrudan en ağır yaptırım olan "fesih" yoluna gidilmesinin anayasal ölçülülük ve hukuki güvenlik (Anayasa m. 2) ilkelerini ağır şekilde zedelediği savunulmaktadır.**
 
-Madde 34, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 34, «Ortaklığın feshini isteme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 34, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 34'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakların Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 34, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 34, «Ortaklığın feshini isteme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 34, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 34'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakların Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 34, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 34, «Ortaklığın feshini isteme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 34, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 34'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakların Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 34, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 34, «Ortaklığın feshini isteme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 34, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 34'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakların Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 34, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 34, «Ortaklığın feshini isteme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 34, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 34'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakların Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 34, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 34, «Ortaklığın feshini isteme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 34, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 34'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakların Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 34, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 34, «Ortaklığın feshini isteme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 34, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 34'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakların Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Doktrinde bu husus şu şekilde değerlendirilmektedir: Kamu alacağının tahsili, dürüst işletmelerin yıkımına yol açan kör bir silaha dönüşmemelidir. Kanun koyucu, anayasal eşitlik, dürüstlük, idari belirlilik, ölçülülük ve teşebbüs hürriyetinin korunması ilkelerini tam tahkim etmek adına, **m. 34’ü yeniden tanzim ederek; "ortaklığın feshi davası açıldığında, mahkemenin öncelikle diğer ortaklara borçlu ortağın payını gerçek rayiç bedeli üzerinden satın alarak ortaklığı devam ettirme (ortaklıktan çıkarma) hakkı tanımasını emreden" esnek ve yapıcı bir kademeli tasfiye nizamı getiren**; fesih kararını sadece bu imkanın tükendiği hallerde son çare olarak öngören çağdaş, esnek, adil, şeffaf, anayasal güvencelere ve modern ticaret hukuku teorisine tam uyumlu bir ortaklık tasfiye reformunu yasal düzeyde hayata geçirmelidir.
 
 ---
 
-### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 34 resmi metni ve kanunun sistematiği.
+### Metodolojik Not
+Bu şerh çalışması, Amme Alacaklarının Tahsil Usulü Hakkında Kanun’un 34. maddesinin (tarihi yapısı, kamu icra hukukunda amme borçlusunun şahsi malvarlığının amme alacağını karşılamaya yetersiz kalması ve hiçbir teminat sunulamaması halinde, borçlunun sermayesi paylara bölünmemiş olan şahıs ortaklıklarındaki (adi ortaklık, kolektif şirket, adi komandit şirket) paylarının cebren tasfiyesini ve kamu alacağının tahsilini sağlamak üzere amme idaresine doğrudan ortaklığın feshini dava etme yetkisi veren "Ortaklığın feshini isteme" müessesesinin maddi ve usuli sınırları, bu davanın açılabilmesi için aranan şahsi aciz durumu ve teminatsızlık ön şartlarının niteliği, davanın sermayesi paylara bölünmüş komandit şirketlerin komandite ortaklarının kişisel borçları için de uygulanması nizamı, bu ağır fesih yetkilerinin anayasal mülkiyet hakkı, eşitlik, vergilendirmede kanunilik ve adalet, teşebbüs hürriyeti, sözleşme özgürlüğü, savunma hakkı, adil yargılanma hakkı, hak arama hürriyeti ve hukuk devleti ilkeleriyle olan doğrudan dikey bağlantısı, 2004 sayılı İcra ve İflas Kanunu m. 121 dairesindeki kişisel borç nedeniyle ortaklığın feshi ve payın tasfiyesi usulleri ile bu iki yasa arasındaki yetki belgesi muafiyeti farkları, 6100 sayılı Hukuk Muhakemeleri Kanunu dairesindeki görev, yetki, ispat yükü ve delil sunma kuralları, 6102 sayılı Türk Ticaret Kanunu dairesindeki şahıs şirketlerinin sona ermesi, ortaklıktan çıkarma ve tasfiye usulleri nizamı, 6098 sayılı Türk Borçlar Kanunu m. 639-640 dairesindeki adi ortaklığın sona ermesi ve tasfiye payı hesaplamaları kuralları, 4721 sayılı Türk Medeni Kanunu m. 2 dairesindeki dürüstlük ve hakkın kötüye kullanılması yasağı standartları, AATUHK m. 3 borçlu tanımı, m. 10 teminat türleri, m. 13 ihtiyati haciz, m. 32 tasfiye halinde vazifeliler, m. 33 tasfiye halinde mesuliyet, m. 35 limited ortakların sorumluluğu, mükerrer m. 35 kanuni temsilcilerin sorumluluğu, m. 55 ödeme emri ve m. 62-90 haciz ve satış tatbiki ile olan sistematik etkileşimleri, HMK dairesindeki usuli süre ve ihtiyati tedbir kuralları ve bu operasyonel koruma adımlarının kamu ve özel hukuk boyutundaki idari-yargısal yansımaları dairesinde) vergi ve kamu icra hukuku (şahıs ortaklıklarında şahsi borç takip teorileri, ortaklığın feshi ve tasfiyesi usulleri, İİK m. 121 ve AATUHK m. 34 normlar mukayesesi, amme alacaklarının korunması ve rüçhan hakları, tahsilat güvenceleri ve ödeme emirleri teorileri, usul ekonomisi ve vergi güvenlik marjı kuramları, kamu maliyesi teorisi), idare hukuku (idarenin adli yargıda yetki belgesiz doğrudan dava açma imtiyazı, idari işlemlerin yargısal denetimi ve bağlı yetki teorileri), ticaret, borçlar ve medeni hukuk (adi ortaklık, kolektif ve komandit şirketlerin bilançoları, pay devir tescilleri, ortakların sınırlı ve sınırsız sorumluluk sınırları, diğer ortakların iyiniyet hakları dairesinde TTK, TMK ve TBK kuralları), medeni usul, icra-iflas ve idari yargılama hukuku (asliye ticaret mahkemelerinin görev ve yetki sınırları, HMK usul kuralları, davaların öncelikle incelenmesi, ispat yükünün dağılımı dairesinde HMK, İİK, İYUK ve idari usul kuralları), borçlar ve kamu hukuku (kamu alacaklarının korunması, dürüstlük kuralı ve hakkın kötüye kullanılması yasağı dairesinde TMK m. 2 ve TBK ilişkileri), ceza hukuku (şirket mevcudunu eksiltme fiillerinin TCK ve İİK dairesindeki cezai yansımaları), anayasa hukuku (hukuk devleti, eşitlik ilkesi, verginin kanuniliği, mülkiyet hakkının korunması, teşebbüs hürriyeti, savunma hakkı ve adil yargılanma/hak arama hürriyeti ilkeleri) boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk vergi ve kamu icra hukukunun genel kabul gören bilimsel prensipleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.

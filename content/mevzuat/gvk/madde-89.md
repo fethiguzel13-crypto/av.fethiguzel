@@ -3,8 +3,8 @@ title: "Gelir Vergisi Kanunu Madde 89"
 kanun: "Gelir Vergisi Kanunu"
 maddeNo: 89
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3629
+lastReviewed: "2026-08-22"
+wordCount: 1146
 ---
 
 **(Değişik:16/7/2004-5228/28 md.)**
@@ -216,209 +216,88 @@ teşkil eden mal veya hakkın varsa mukayyet değeri, yoksa Vergi Usul Kanunu h�
 göre Takdir Komisyonunca tespit edilecek değeri esas alınır.
 Matrahtan ve gelir unsurlarından indirilmiyecek giderler:
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Gelir Vergisi Kanunu m. 89** (193 sayılı), «(Değişik:16/7/2004-5228/28 md.)» başlığı altında gelir vergisi içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+Gelir Vergisi Kanunu'nın 89. maddesi (Değişik:16/7/2004-5228/28 md.) kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: Madde 89 - (Değişik:16/7/2004-5228/28 md.) Gelir vergisi matrahının tespitinde, gelir vergisi beyannamesinde bildirilecek gelirlerden aşağıdaki indirimler yapılabilir: 1. (Değişik: 13/6/2012-6327/8 md.) Beyan edilen gelirin %15’ini ve asgari ücretin yıllık tutarını aşmamak şartıyla (Bu şartın tespitinde işverenler tarafından ücretliler adına bireysel emeklilik sistemine ödenen Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 89 izole okunmamalı; GVK’nın ilgili bölüm/ayırım bütünlüğü ve gelir unsurları ilkesiyle birlikte yorumlanmalıdır.
+Madde aynı kanunun sistematiği içinde okunur zira komşu hükümler uygulama sırasını ve istisnaları taşır. Yakın maddeler arasında m.88 (Zararların karlara takas ve mahsubu) öne çıkar. Uygulayıcı önce hangi fıkranın somut vakıaya denk düştüğünü yazar, sonra sonuca geçer.
 
-Ratio legis, gelir unsurları, matrah, istisna–muafiyet ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: (Değişik:16/7/2004-5228/28 md.) Gelir vergisi matrahının tespitinde, gelir vergisi beyannamesinde bildirilecek gelirlerden aşağıdaki indirimler yapılabilir: 1. Cumhurbaşkanı bu bentte yer alan oranları yarısına kadar indirmeye, iki katına kadar artırmaya ve belirtilen haddi, asgari ücretin yıllık tutarının iki katını geçmemek üzere yeniden belirlemeye yetkilidir.
+Hükmün ikinci katmanı şu cümlede toplanır: 1. (Değişik: 13/6/2012-6327/8 md.) Beyan edilen gelirin %15’ini ve asgari ücretin yıllık tutarını aşmamak şartıyla (Bu şartın tespitinde işverenler tarafından ücretliler adına bireysel emeklilik sistemine ödenen katkı payları ile 63 üncü maddenin birinci fıkrasının (3) numaralı bendi ve bu bent kapsamında indirim konusu yapılacak prim Bu katman birinci fıkradaki ana kuralı tamamlar veya sınırlar, ikisini birbirine karıştırmak yanlış hukuki sonuç doğurur.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Somut uyuşmazlıkta maddenin hangi tarih itibarıyla yürürlükte olduğu ve değişiklik fıkralarının vakıaya uygulanıp uygulanmayacağı ayrıca denetlenir. Geçiş hükümleri yok sayılırsa eski lafızla yeni lafız birbirine karışır, karar gerekçesi çöker.
+
+Bu maddeye özgü okuma lafzı başka kanunların kalıp şerhlerine taşımaz. Korunan menfaat (Değişik:16/7/2004-5228/28 md.) başlığının işaret ettiği ilişkidir ve şerh de o ilişki üzerinden yürür.
+
+Uygulama, maddenin emredici çekirdeği ile idareye veya taraflara bırakılan hareket alanını ayırarak ilerler. Çekirdek aşıldığında işlem sakatlanır, hareket alanı içinde kalan tercihler ise gerekçeyle savunulabilir. Somut dosyada bu ayrım yazılmadan verilen sonuç, temyizde lafzı taşımadığı gerekçesiyle döner.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Uygulama alanı
 
-Madde 89, «(Değişik:16/7/2004-5228/28 md.)» ekseninde vergisi ve matrahının kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak gelir vergisi içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+(Değişik:16/7/2004-5228/28 md.) bakımından bu dilim şu metne dayanır: Madde 89 - (Değişik:16/7/2004-5228/28 md.) Gelir vergisi matrahının tespitinde, gelir vergisi beyannamesinde bildirilecek gelirlerden aşağıdaki indirimler yapılabilir: Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.2. Unsurlar
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 89 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+##### 2.2. Şart ve sonuç bağı
 
-Metinden çıkan somut vurgular: Serbest meslek faaliyetinde bulunan (…)94 engellilerin beyan edilen gelirlerine, 31 inci maddede yer alan esaslara göre hesaplanan yıllık indirim (Bu indirimden bakmakla yükümlü olduğu engelli kişi bulunan serbest meslek erbabı ile hizmet erbabı (tevkifat matrahı dahil) da yararlanır.). 93 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, (2) numaralı bentde yer alan “gelirin %5’ini aşmaması” ibaresi, “gelirin %10’unu aşmaması olarak değiştirilmiştir.
+(Değişik:16/7/2004-5228/28 md.) bakımından bu dilim şu metne dayanır: 1. (Değişik: 13/6/2012-6327/8 md.) Beyan edilen gelirin %15’ini ve asgari ücretin yıllık tutarını aşmamak şartıyla (Bu şartın tespitinde işverenler tarafından ücretliler adına bireysel emeklilik sistemine ödenen katkı payları ile 63 üncü maddenin birinci fıkrasının (3) numaralı Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.3. Korunan menfaat
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 89 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Korunan menfaat, bireysel hak sahibi ile matrah arasındaki dengede aranır. GVK m. 89, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. payları kavramı bu dengede anahtar rol oynar.
+##### 2.3. Yetki ve usul
 
-##### 2.4. Sonuç ve yaptırım
+(Değişik:16/7/2004-5228/28 md.) bakımından bu dilim şu metne dayanır: 2. Beyan edilen gelirin % 10’unu aşmaması, Türkiye’de yapılması ve gelir veya kurumlar vergisi mükellefiyeti bulunan gerçek veya tüzel kişilerden alınacak belgelerle tevsik edilmesi şartıyla, mükellefin kendisi, eşi ve küçük çocuklarına ilişkin olarak yapılan eğitim ve sağlık Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 89 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
+
+##### 2.4. İstisna ve sınır
+
+(Değişik:16/7/2004-5228/28 md.) bakımından bu dilim şu metne dayanır: 3. Serbest meslek faaliyetinde bulunan (…)94 engellilerin beyan edilen gelirlerine, 31 inci maddede yer alan esaslara göre hesaplanan yıllık indirim (Bu indirimden bakmakla yükümlü olduğu engelli kişi bulunan serbest meslek erbabı ile hizmet erbabı (tevkifat matrahı dahil) da Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
+
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 89 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
+
+##### 2.5. İspat yükü
+
+(Değişik:16/7/2004-5228/28 md.) bakımından bu dilim şu metne dayanır: 4. Genel ve özel bütçeli kamu idareleri, il özel idareleri, belediyeler, köyler ile kamu yararına çalışan dernekler ve Cumhurbaşkanınca vergi muafiyeti tanınan vakıflara yıllık toplamı beyan edilecek gelirin % 5’ini (kalkınmada öncelikli yöreler için % 10’unu) aşmamak üzere, Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
+
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 89 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
 #### 3. Sistematik İlişkiler
 
-- **GVK komşu maddeler:** m. 89 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle (Değişik:16/7/2004-5228/28 md.) temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** gelir unsurları; matrah; istisna–muafiyet; stopaj.
-- **Yatay mevzuat:** VUK; KVK; AATUHK.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**m. 88 — Zararların karlara takas ve mahsubu** Gelir Vergisi Kanunu m. 88 (Zararların karlara takas ve mahsubu) ile m. 89 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu ilişkiler, m. 89’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
-
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
-
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (vergisi / şirketi karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
-
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
-
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: 94 14/10/2021 tarihli ve 7338 sayılı Kanunun 5 inci maddesiyle bu bentte yer alan “veya basit usulde vergilendirilen” ibaresi madde metninden çıkarılmıştır. Fakirlere yardım amacıyla gıda bankacılığı faaliyetinde bulunan Darülacezeye, dernek ve vakıflara Maliye Bakanlığınca belirlenen usul ve esaslar çerçevesinde bağışlanan gıda, temizlik, giyecek ve yakacak maddelerinin maliyet bedelinin tamamı.9798 7.
+Yerel arşivde bu maddeye yapısal atıf yapan tam künyeli karar bulunamadı ve içtihat bölümü bu yüzden boş bırakılır; künye uydurulmaz.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında (değişik:16/7/2004-5228/28 md.) ile bağlantılı bir uyuşmazlık çıkar. Davacı, GVK m. 89’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. (Değişik:16/7/2004-5228/28 md.) Gelir vergisi matrahının tespitinde, gelir vergisi beyannamesinde bildirilecek gelirlerden aşağıdaki indirimler yapılabilir: 1. cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Bir uyuşmazlıkta taraf (Değişik:16/7/2004-5228/28 md.) hükmüne dayanarak talep yöneltti ve karşı taraf maddenin şartlarının oluşmadığını ileri sürdü. Mahkeme resmi lafızdaki unsurları dosyadaki belgelerle tek tek eşlemek zorunda kaldı ve eksik unsur varsa talebi bu maddeye dayandırmadı.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 89 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** İdare veya taraf m. 89 yetkisini acele kullandı ve ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, matrahının gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* GVK’nın iyiniyet ve dürüstlük ilkeleri ile m. 89’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Yürürlük tartışmasında eski ve yeni lafız iç içe geçti ve uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. 89 uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; vergisi ile payları’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **GVK madde 89**, **GVK m. 89**, **GVK 89** ve **Gelir Vergisi Kanunu madde 89** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Dilekçede Gelir Vergisi Kanunu m. 89 dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.
+
+Belge listesi maddenin şartlarını karşılayan olgulara bağlanmalıdır, genel anlatım yetmez.
+
+Karşı tarafın savunması unsur eksikliğine mi yoksa sonuç tartışmasına mı yöneldiği ayrılmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-GVK m. 89, gelir vergisi içinde (Değişik:16/7/2004-5228/28 md.) temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve gelir unsurları ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Hükmün lafzı ile uygulamanın pratik ihtiyaçları her somut dosyada ayrıca tartılır. (Değişik:16/7/2004-5228/28 md.) başlığı geniş okunursa madde her uyuşmazlığa çekilir, dar okunursa koruma boşalır.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 89 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Öğreti bu tür hükümlerde lafzın sınırını dosyanın vakıalarıyla test etmeyi önerir ve sayfa ve baskı yılı uydurulmaz.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: Gelir Vergisi Kanunu m. 89 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 89 uygulamasında «(Değişik:16/7/2004-5228/28 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik:16/7/2004-5228/28 md.) Gelir vergisi matrahının tespitinde, gelir vergisi beyannamesinde bildirilecek gelirlerden aşağıdaki indirimler yapılabilir: 1.
-
-Öğretide genel kabul gören görüşe göre, GVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Cumhurbaşkanı bu bentte yer alan oranları yarısına kadar indirmeye, iki katına kadar artırmaya ve belirtilen haddi, asgari ücretin yıllık tutarının iki katını geçmemek üzere yeniden belirlemeye yetkilidir.
-
-Uygulayıcı, gelir unsurları ile matrah arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Serbest meslek faaliyetinde bulunan (…)94 engellilerin beyan edilen gelirlerine, 31 inci maddede yer alan esaslara göre hesaplanan yıllık indirim (Bu indirimden bakmakla yükümlü olduğu engelli kişi bulunan serbest meslek erbabı ile hizmet erbabı (tevkifat matrahı dahil) da yararlanır.).
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. 93 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, (2) numaralı bentde yer alan “gelirin %5’ini aşmaması” ibaresi, “gelirin %10’unu aşmaması olarak değiştirilmiştir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 89 sonuçlarının fiilen elde edilmesi için belirleyicidir. 94 14/10/2021 tarihli ve 7338 sayılı Kanunun 5 inci maddesiyle bu bentte yer alan “veya basit usulde vergilendirilen” ibaresi madde metninden çıkarılmıştır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Fakirlere yardım amacıyla gıda bankacılığı faaliyetinde bulunan Darülacezeye, dernek ve vakıflara Maliye Bakanlığınca belirlenen usul ve esaslar çerçevesinde bağışlanan gıda, temizlik, giyecek ve yakacak maddelerinin maliyet bedelinin tamamı.9798 7.
-
-Sonuç olarak, GVK madde 89 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. 96 20/2/2014 tarihli ve 6525 sayılı Kanunun 5 inci maddesiyle, bu bentte yer alan “Diyanet İşleri Başkanlığı denetiminde yaygın din eğitimi verilen tesislerin” ibaresinden sonra gelmek üzere “ve Gençlik ve Spor Bakanlığına ait gençlik merkezleri ile gençlik ve izcilik kamplarının” ibaresi eklenmiştir.
-
-Bu bağlamda m. 89 uygulamasında «(Değişik:16/7/2004-5228/28 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 97 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, (6) numaralı bentde yer alan “gıda maddelerinin” ibaresi, “gıda, temizlik, giyecek ve yakacak maddelerinin” olarak değiştirilmiştir.
-
-Öğretide genel kabul gören görüşe göre, GVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. 98 22/4/2026 tarihli ve 7578 sayılı Kanunun 1 inci maddesiyle bu bende “faaliyetinde bulunan” ibaresinden sonra gelmek üzere “Darülacezeye,” ibaresi eklenmiştir.
-
-Uygulayıcı, gelir unsurları ile matrah arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. 99 2/7/2018 tarihli ve 700 sayılı KHK’nin 45 inci maddesiyle, bu bentte yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde, “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. 3289 sayılı Gençlik ve Spor Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanun ile 17.6.1992 tarihli ve 3813 sayılı Türkiye Futbol Federasyonu Kuruluş ve Görevleri Hakkında Kanun kapsamında yapılan sponsorluk harcamalarının;
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 89 sonuçlarının fiilen elde edilmesi için belirleyicidir. amatör spor dalları için tamamı, profesyonel spor dalları için % 50’si.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Mülga: 15/7/2016-6728/15 md.) 10.
-
-Sonuç olarak, GVK madde 89 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Değişik: 10/9/2014-6552/92 md.) Cumhurbaşkanınca başlatılan yardım kampanyalarına makbuz karşılığı yapılan ayni ve nakdî bağışların tamamı.100 11.
-
-Bu bağlamda m. 89 uygulamasında «(Değişik:16/7/2004-5228/28 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik:16/7/2004-5228/28 md.) Gelir vergisi matrahının tespitinde, gelir vergisi beyannamesinde bildirilecek gelirlerden aşağıdaki indirimler yapılabilir: 1.
-
-Öğretide genel kabul gören görüşe göre, GVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Cumhurbaşkanı bu bentte yer alan oranları yarısına kadar indirmeye, iki katına kadar artırmaya ve belirtilen haddi, asgari ücretin yıllık tutarının iki katını geçmemek üzere yeniden belirlemeye yetkilidir.
-
-Uygulayıcı, gelir unsurları ile matrah arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Serbest meslek faaliyetinde bulunan (…)94 engellilerin beyan edilen gelirlerine, 31 inci maddede yer alan esaslara göre hesaplanan yıllık indirim (Bu indirimden bakmakla yükümlü olduğu engelli kişi bulunan serbest meslek erbabı ile hizmet erbabı (tevkifat matrahı dahil) da yararlanır.).
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. 93 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, (2) numaralı bentde yer alan “gelirin %5’ini aşmaması” ibaresi, “gelirin %10’unu aşmaması olarak değiştirilmiştir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 89 sonuçlarının fiilen elde edilmesi için belirleyicidir. 94 14/10/2021 tarihli ve 7338 sayılı Kanunun 5 inci maddesiyle bu bentte yer alan “veya basit usulde vergilendirilen” ibaresi madde metninden çıkarılmıştır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Fakirlere yardım amacıyla gıda bankacılığı faaliyetinde bulunan Darülacezeye, dernek ve vakıflara Maliye Bakanlığınca belirlenen usul ve esaslar çerçevesinde bağışlanan gıda, temizlik, giyecek ve yakacak maddelerinin maliyet bedelinin tamamı.9798 7.
-
-Sonuç olarak, GVK madde 89 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. 96 20/2/2014 tarihli ve 6525 sayılı Kanunun 5 inci maddesiyle, bu bentte yer alan “Diyanet İşleri Başkanlığı denetiminde yaygın din eğitimi verilen tesislerin” ibaresinden sonra gelmek üzere “ve Gençlik ve Spor Bakanlığına ait gençlik merkezleri ile gençlik ve izcilik kamplarının” ibaresi eklenmiştir.
-
-Bu bağlamda m. 89 uygulamasında «(Değişik:16/7/2004-5228/28 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 97 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, (6) numaralı bentde yer alan “gıda maddelerinin” ibaresi, “gıda, temizlik, giyecek ve yakacak maddelerinin” olarak değiştirilmiştir.
-
-Öğretide genel kabul gören görüşe göre, GVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. 98 22/4/2026 tarihli ve 7578 sayılı Kanunun 1 inci maddesiyle bu bende “faaliyetinde bulunan” ibaresinden sonra gelmek üzere “Darülacezeye,” ibaresi eklenmiştir.
-
-Uygulayıcı, gelir unsurları ile matrah arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. 99 2/7/2018 tarihli ve 700 sayılı KHK’nin 45 inci maddesiyle, bu bentte yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde, “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. 3289 sayılı Gençlik ve Spor Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanun ile 17.6.1992 tarihli ve 3813 sayılı Türkiye Futbol Federasyonu Kuruluş ve Görevleri Hakkında Kanun kapsamında yapılan sponsorluk harcamalarının;
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 89 sonuçlarının fiilen elde edilmesi için belirleyicidir. amatör spor dalları için tamamı, profesyonel spor dalları için % 50’si.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Mülga: 15/7/2016-6728/15 md.) 10.
-
-Sonuç olarak, GVK madde 89 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Değişik: 10/9/2014-6552/92 md.) Cumhurbaşkanınca başlatılan yardım kampanyalarına makbuz karşılığı yapılan ayni ve nakdî bağışların tamamı.100 11.
-
-Bu bağlamda m. 89 uygulamasında «(Değişik:16/7/2004-5228/28 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik:16/7/2004-5228/28 md.) Gelir vergisi matrahının tespitinde, gelir vergisi beyannamesinde bildirilecek gelirlerden aşağıdaki indirimler yapılabilir: 1.
-
-Öğretide genel kabul gören görüşe göre, GVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Cumhurbaşkanı bu bentte yer alan oranları yarısına kadar indirmeye, iki katına kadar artırmaya ve belirtilen haddi, asgari ücretin yıllık tutarının iki katını geçmemek üzere yeniden belirlemeye yetkilidir.
-
-Uygulayıcı, gelir unsurları ile matrah arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Serbest meslek faaliyetinde bulunan (…)94 engellilerin beyan edilen gelirlerine, 31 inci maddede yer alan esaslara göre hesaplanan yıllık indirim (Bu indirimden bakmakla yükümlü olduğu engelli kişi bulunan serbest meslek erbabı ile hizmet erbabı (tevkifat matrahı dahil) da yararlanır.).
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. 93 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, (2) numaralı bentde yer alan “gelirin %5’ini aşmaması” ibaresi, “gelirin %10’unu aşmaması olarak değiştirilmiştir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 89 sonuçlarının fiilen elde edilmesi için belirleyicidir. 94 14/10/2021 tarihli ve 7338 sayılı Kanunun 5 inci maddesiyle bu bentte yer alan “veya basit usulde vergilendirilen” ibaresi madde metninden çıkarılmıştır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Fakirlere yardım amacıyla gıda bankacılığı faaliyetinde bulunan Darülacezeye, dernek ve vakıflara Maliye Bakanlığınca belirlenen usul ve esaslar çerçevesinde bağışlanan gıda, temizlik, giyecek ve yakacak maddelerinin maliyet bedelinin tamamı.9798 7.
-
-Sonuç olarak, GVK madde 89 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. 96 20/2/2014 tarihli ve 6525 sayılı Kanunun 5 inci maddesiyle, bu bentte yer alan “Diyanet İşleri Başkanlığı denetiminde yaygın din eğitimi verilen tesislerin” ibaresinden sonra gelmek üzere “ve Gençlik ve Spor Bakanlığına ait gençlik merkezleri ile gençlik ve izcilik kamplarının” ibaresi eklenmiştir.
-
-Bu bağlamda m. 89 uygulamasında «(Değişik:16/7/2004-5228/28 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 97 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, (6) numaralı bentde yer alan “gıda maddelerinin” ibaresi, “gıda, temizlik, giyecek ve yakacak maddelerinin” olarak değiştirilmiştir.
-
-Öğretide genel kabul gören görüşe göre, GVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. 98 22/4/2026 tarihli ve 7578 sayılı Kanunun 1 inci maddesiyle bu bende “faaliyetinde bulunan” ibaresinden sonra gelmek üzere “Darülacezeye,” ibaresi eklenmiştir.
-
-Uygulayıcı, gelir unsurları ile matrah arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. 99 2/7/2018 tarihli ve 700 sayılı KHK’nin 45 inci maddesiyle, bu bentte yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde, “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. 3289 sayılı Gençlik ve Spor Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanun ile 17.6.1992 tarihli ve 3813 sayılı Türkiye Futbol Federasyonu Kuruluş ve Görevleri Hakkında Kanun kapsamında yapılan sponsorluk harcamalarının;
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 89 sonuçlarının fiilen elde edilmesi için belirleyicidir. amatör spor dalları için tamamı, profesyonel spor dalları için % 50’si.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Mülga: 15/7/2016-6728/15 md.) 10.
-
-Sonuç olarak, GVK madde 89 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Değişik: 10/9/2014-6552/92 md.) Cumhurbaşkanınca başlatılan yardım kampanyalarına makbuz karşılığı yapılan ayni ve nakdî bağışların tamamı.100 11.
-
-Bu bağlamda m. 89 uygulamasında «(Değişik:16/7/2004-5228/28 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik:16/7/2004-5228/28 md.) Gelir vergisi matrahının tespitinde, gelir vergisi beyannamesinde bildirilecek gelirlerden aşağıdaki indirimler yapılabilir: 1.
-
-Öğretide genel kabul gören görüşe göre, GVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Cumhurbaşkanı bu bentte yer alan oranları yarısına kadar indirmeye, iki katına kadar artırmaya ve belirtilen haddi, asgari ücretin yıllık tutarının iki katını geçmemek üzere yeniden belirlemeye yetkilidir.
-
-Uygulayıcı, gelir unsurları ile matrah arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Serbest meslek faaliyetinde bulunan (…)94 engellilerin beyan edilen gelirlerine, 31 inci maddede yer alan esaslara göre hesaplanan yıllık indirim (Bu indirimden bakmakla yükümlü olduğu engelli kişi bulunan serbest meslek erbabı ile hizmet erbabı (tevkifat matrahı dahil) da yararlanır.).
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. 93 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, (2) numaralı bentde yer alan “gelirin %5’ini aşmaması” ibaresi, “gelirin %10’unu aşmaması olarak değiştirilmiştir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 89 sonuçlarının fiilen elde edilmesi için belirleyicidir. 94 14/10/2021 tarihli ve 7338 sayılı Kanunun 5 inci maddesiyle bu bentte yer alan “veya basit usulde vergilendirilen” ibaresi madde metninden çıkarılmıştır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Fakirlere yardım amacıyla gıda bankacılığı faaliyetinde bulunan Darülacezeye, dernek ve vakıflara Maliye Bakanlığınca belirlenen usul ve esaslar çerçevesinde bağışlanan gıda, temizlik, giyecek ve yakacak maddelerinin maliyet bedelinin tamamı.9798 7.
-
-Sonuç olarak, GVK madde 89 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. 96 20/2/2014 tarihli ve 6525 sayılı Kanunun 5 inci maddesiyle, bu bentte yer alan “Diyanet İşleri Başkanlığı denetiminde yaygın din eğitimi verilen tesislerin” ibaresinden sonra gelmek üzere “ve Gençlik ve Spor Bakanlığına ait gençlik merkezleri ile gençlik ve izcilik kamplarının” ibaresi eklenmiştir.
-
-Bu bağlamda m. 89 uygulamasında «(Değişik:16/7/2004-5228/28 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 97 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, (6) numaralı bentde yer alan “gıda maddelerinin” ibaresi, “gıda, temizlik, giyecek ve yakacak maddelerinin” olarak değiştirilmiştir.
-
-Öğretide genel kabul gören görüşe göre, GVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. 98 22/4/2026 tarihli ve 7578 sayılı Kanunun 1 inci maddesiyle bu bende “faaliyetinde bulunan” ibaresinden sonra gelmek üzere “Darülacezeye,” ibaresi eklenmiştir.
-
-Uygulayıcı, gelir unsurları ile matrah arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. 99 2/7/2018 tarihli ve 700 sayılı KHK’nin 45 inci maddesiyle, bu bentte yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde, “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. 3289 sayılı Gençlik ve Spor Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanun ile 17.6.1992 tarihli ve 3813 sayılı Türkiye Futbol Federasyonu Kuruluş ve Görevleri Hakkında Kanun kapsamında yapılan sponsorluk harcamalarının;
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 89 sonuçlarının fiilen elde edilmesi için belirleyicidir. amatör spor dalları için tamamı, profesyonel spor dalları için % 50’si.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Mülga: 15/7/2016-6728/15 md.) 10.
-
-Sonuç olarak, GVK madde 89 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Değişik: 10/9/2014-6552/92 md.) Cumhurbaşkanınca başlatılan yardım kampanyalarına makbuz karşılığı yapılan ayni ve nakdî bağışların tamamı.100 11.
-
-Bu bağlamda m. 89 uygulamasında «(Değişik:16/7/2004-5228/28 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik:16/7/2004-5228/28 md.) Gelir vergisi matrahının tespitinde, gelir vergisi beyannamesinde bildirilecek gelirlerden aşağıdaki indirimler yapılabilir: 1.
-
-Öğretide genel kabul gören görüşe göre, GVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Cumhurbaşkanı bu bentte yer alan oranları yarısına kadar indirmeye, iki katına kadar artırmaya ve belirtilen haddi, asgari ücretin yıllık tutarının iki katını geçmemek üzere yeniden belirlemeye yetkilidir.
-
-Uygulayıcı, gelir unsurları ile matrah arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Serbest meslek faaliyetinde bulunan (…)94 engellilerin beyan edilen gelirlerine, 31 inci maddede yer alan esaslara göre hesaplanan yıllık indirim (Bu indirimden bakmakla yükümlü olduğu engelli kişi bulunan serbest meslek erbabı ile hizmet erbabı (tevkifat matrahı dahil) da yararlanır.).
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. 93 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, (2) numaralı bentde yer alan “gelirin %5’ini aşmaması” ibaresi, “gelirin %10’unu aşmaması olarak değiştirilmiştir.
+Bu yorum maddenin resmi metni ve yerel karar arşivi esas alınarak hazırlanmıştır. Künyeler arşivden birebir alınır, uydurulmaz ve örnek olaylar kurmacadır.

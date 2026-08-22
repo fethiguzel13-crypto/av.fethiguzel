@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4278
 ---
 
+
 **Meşru savunma ve zorunluluk hali**
 
 ---
@@ -24,384 +25,99 @@ arasında orantı bulunmak koşulu ile işlenen fiillerden dolayı faile ceza ve
 
 ### Akademik Yorum ve Analiz
 
-#### 1. Maddenin Sistematiği ve Genel Açıklama
-
-**Türk Ceza Kanunu m. 25**, «Meşru savunma ve zorunluluk hali» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 25- (1) Gerek kendisine ve gerek başkasına ait bir hakka yönelmiş,
-gerçekleşen, gerçekleşmesi veya tekrarı muhakkak olan haksız bir saldırıyı o anda hal ve
-koşullara göre saldırı ile orantılı biçimde defetmek zorunluluğu ile işlenen fiillerden dolayı
-faile ceza verilmez.
-(2) Gerek kendisine gerek başkasına ait bir hakka yönelik olup, bilerek neden olmadığı
-ve başka suretle korunmak olanağı b… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
-
-#### 2. Maddedeki Kavramların Analizi
-
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 25, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
-
-##### 2.2. Usulî ve maddi unsurlar
-
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
-
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
-
-#### 3. Sistematik İlişkiler
-
-- **Türk Ceza Kanunu m. 1** — Amaç ve kapsam: m. 25'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Türk Ceza Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Türk Ceza Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Türk Ceza Kanunu m. 5** — Ceza ve yasak rejimi: m. 25 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
-
-Bu ilişkiler, m. 25'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
-
-#### 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
-
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
-
-#### 5. Pratik Örnek Olaylar
-
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Ceza Kanunu m. 25 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
-
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
-
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
-
-#### 6. Pratik Uygulama Notları
-
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
-
-#### 7. Eleştirel Değerlendirme
-
-Madde 25, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Ceza Kanunu m. 25, «Meşru savunma ve zorunluluk hali» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt t Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 25, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Ceza Kanunu m. 1 — Amaç ve kapsam: m. 25'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Ceza Kanunu m. 2 — Hesap açılışı ve defte Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 25, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Ceza Kanunu m. 25, «Meşru savunma ve zorunluluk hali» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt t Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 25, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Ceza Kanunu m. 1 — Amaç ve kapsam: m. 25'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Ceza Kanunu m. 2 — Hesap açılışı ve defte Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 25, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Ceza Kanunu m. 25, «Meşru savunma ve zorunluluk hali» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt t Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 25, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Ceza Kanunu m. 1 — Amaç ve kapsam: m. 25'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Ceza Kanunu m. 2 — Hesap açılışı ve defte Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 25, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Ceza Kanunu m. 25, «Meşru savunma ve zorunluluk hali» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt t Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 25, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Ceza Kanunu m. 1 — Amaç ve kapsam: m. 25'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Ceza Kanunu m. 2 — Hesap açılışı ve defte Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 25, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Ceza Kanunu m. 25, «Meşru savunma ve zorunluluk hali» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt t Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 25, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Ceza Kanunu m. 1 — Amaç ve kapsam: m. 25'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Ceza Kanunu m. 2 — Hesap açılışı ve defte Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 25, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Ceza Kanunu m. 25, «Meşru savunma ve zorunluluk hali» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt t Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 25, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Ceza Kanunu m. 1 — Amaç ve kapsam: m. 25'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Ceza Kanunu m. 2 — Hesap açılışı ve defte Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 25, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Ceza Kanunu m. 25, «Meşru savunma ve zorunluluk hali» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt t Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 25, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Ceza Kanunu m. 1 — Amaç ve kapsam: m. 25'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Ceza Kanunu m. 2 — Hesap açılışı ve defte Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+# TCK Madde 25 – Meşru Savunma ve Zorunluluk Hali
 
 ---
 
-### Metodolojik Not
+## 1. Maddenin Sistematiği ve Genel Açıklama
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Ceza Kanunu m. 25 resmi metni ve kanunun sistematiği.
+TCK m. 25, ceza hukukunun hukuka uygunluk nedenleri başlığı altında iki ayrı kurumu tek madde bünyesinde düzenlemektedir: **meşru savunma** (m. 25/1) ve **zorunluluk hali** (m. 25/2). Her iki kurum da, normalde suç tipine uygun ve hukuka aykırı olan bir fiilin, belirli koşulların varlığı halinde hukuka uygun sayılmasını ya da en azından cezalandırılmamasını sağlayan **hukuka uygunluk nedeni** niteliği taşımaktadır.
+
+Kanunun sistematik yapısı incelendiğinde, m. 24 (kanun hükmünü ve amirin emrini icra) ile birlikte m. 25'in, Birinci Kitap, İkinci Kısım, İkinci Bölüm'de yer aldığı görülmektedir. Bu bölüm, "Ceza Sorumluluğunu Kaldıran veya Azaltan Nedenler" başlığını taşımaktadır. Kanun koyucu, meşru savunma ve zorunluluk halini **hukuka uygunluk nedeni** olarak konumlandırmış; bu yola başvurulduğunda fiilin suç niteliğini yitireceğini benimsemiştir.
+
+Doktrinde hâkim görüşe göre hukuka uygunluk nedenleri, **tipikliği** değil **hukuka aykırılığı** ortadan kaldırmaktadır. Bu yapı gereği, meşru savunma ya da zorunluluk hali koşullarının gerçekleştiği bir olayda fail önce tipik bir fiil işlemekte; ancak söz konusu nedenin varlığı bu tipik fiilin hukuka aykırı olmadığını ortaya koymaktadır (Özgenç; Koca/Üzülmez). Dolayısıyla hukuka uygunluk nedenlerinin saptanması, suç teorisinin **basamaklı yapısında** tipikliğin tespitinden sonra gelen ikinci aşamayı oluşturmaktadır.
+
+İki kurumun tek maddede yer alması, aralarındaki **yapısal ortaklıktan** kaynaklanmaktadır: Her ikisinde de korunan bir hak söz konusudur, her ikisinde de orantılılık ilkesi aranmaktadır ve her ikisinde de fiilin kaçınılmazlığı temel koşul olarak öngörülmüştür. Ne var ki iki kurumun dayandığı hukuki temeller, uygulama alanları ve koşulları birbirinden önemli ölçüde ayrışmaktadır. Bu nedenle her iki fıkra ayrı ayrı incelenecektir.
+
+---
+
+## 2. Maddedeki Kavramların Analizi
+
+### 2.1. Meşru Savunma (m. 25/1)
+
+#### 2.1.1. Genel Yapı ve Hukuki Temeli
+
+Meşru savunma, bir saldırıya karşı yapılan savunma fiilinin hukuka uygun sayılmasını sağlayan bir hukuka uygunluk nedenidir. Hukuki temeli bakımından doktrinde iki farklı yaklaşım ileri sürülmektedir:
+
+- **Bireysel haklar teorisi**: Meşru savunma, bireyin kendi haklarını ve varlığını koruma hakkından kaynaklanmaktadır.
+- **Hukuk düzeninin korunması teorisi**: Meşru savunma yalnızca bireysel bir hakkı değil, hukuk düzeninin kendisini de korumaktadır; zira haksız saldırı hukuk düzenine meydan okumaktadır.
+
+Hâkim öğreti ve Yargıtay uygulaması, her iki yaklaşımı da bünyesinde barındıran **karma teoriye** yakın durmaktadır (Özgenç; Koca/Üzülmez; Hakeri). Bu yaklaşım çerçevesinde meşru savunma, hem korunan bireyin hem de genel hukuk düzeninin menfaatine hizmet etmektedir.
+
+#### 2.1.2. Saldırıya İlişkin Koşullar
+
+**a) Haksız Saldırı**
+
+Meşru savunmada temel unsur, bir **haksız saldırının** varlığıdır. Haksızlık, saldırının hukuk düzeni tarafından onaylanmamış olması anlamına gelir. Saldırının suç teşkil etmesi zorunlu değildir; küçük çocuk ya da akıl hastası tarafından gerçekleştirilen bir saldırı da haksız nitelik taşımaktadır; zira haksızlık, kusur yeteneğinden bağımsız olarak değerlendirilir (Centel/Zafer/Çakmut; Demirbaş). Bu noktada **haksız saldırı** ile **mazur görülebilir saldırı** arasındaki ayrım önem kazanmaktadır: Mazur görülebilir bir saldırı, kural olarak zorunluluk halinin konusunu oluşturur; ancak hukuka aykırı olduğu sürece bu saldırıya karşı da meşru savunmaya başvurulabilir.
+
+**b) Saldırının Gerçekleşmesi, Gerçekleşmesi veya Tekrarı Muhakkak Olması**
+
+Kanun, üç zaman dilimini belirtmektedir:
+
+1. **Gerçekleşen saldırı**: Saldırı hâlihazırda sürmektedir.
+2. **Gerçekleşmesi muhakkak olan saldırı**: Saldırı henüz başlamamış olmakla birlikte başlayacağı kesindir; bu "başlamak üzere olan saldırı" olarak da ifade edilir.
+3. **Tekrarı muhakkak olan saldırı**: Saldırı geçici olarak durmuş ancak yeniden başlayacağı kesindir.
+
+Bu düzenleme, saldırının **güncelliği** (hâlihazırlık) ilkesini içermektedir. Saldırı henüz başlamamış ve başlayıp başlamayacağı da belirsizse ya da saldırı tamamen sona ermişse meşru savunmadan söz edilemez. Geçmişte kalan saldırılara karşı gösterilen tepkiler **intikam** niteliği taşır ve meşru savunma kapsamı dışında kalır.
+
+**c) Bir Hakka Yönelik Olması**
+
+Saldırının korunan bir hakka yönelmiş olması gerekmektedir. "Hak" kavramı geniş yorumlanmakta; yaşam, vücut bütünlüğü, özgürlük, mülkiyet ve diğer bireysel hakları kapsamaktadır. Önemli olan husus, saldırıya maruz kalan kişinin bu hakkın sahibi olup olmadığı değil, o hakkın hukuk düzeni tarafından korunan bir hak niteliği taşımasıdır.
+
+Madde, "gerek kendisine gerek başkasına ait bir hakka yönelik" ifadesine yer vermektedir. Bu sayede **üçüncü kişilerin korunması amacıyla** da meşru savunmaya başvurmak mümkündür. Saldırıya uğrayan kişi ile savunma yapan kişinin farklı olması, kurumun işletilmesine engel değildir (Toroslu/Toroslu; Hafızoğulları/Özen).
+
+#### 2.1.3. Savunmaya İlişkin Koşullar
+
+**a) Zorunluluk**
+
+Savunmanın zorunlu olması, saldırıyı başka türlü defetme imkânının bulunmaması anlamına gelir. Kaçma ya da üçüncü kişilerden yardım isteme imkânı bulunup bulunmadığı, somut olayın koşullarına göre değerlendirilir. Ancak doktrinde **kaçma yükümlülüğü bulunmadığı** hususu kabul görmektedir; yani fail, saldırıdan kaçabilecek konumda olsa bile savunma yapma hakkını kullanabilir (Özgenç; Özbek/Kanbur/Doğan/Bacaksız/Tepe).
+
+**b) Orantılılık**
+
+Savunmanın saldırı ile orantılı olması zorunludur. Orantılılık ilkesi, kullanılan savunma aracının ve şiddetin saldırıyla ölçülü olmasını ifade eder. Ancak bu, eşit güçte bir savunma zorunluluğu anlamına gelmez; saldırıyı def edecek ölçüdeki savunma yeterlidir. Orantılılık değerlendirmesi, **olayın özelliklerine ve failin o andaki algısına** göre yapılır.
+
+Orantılılık sınırının aşılması **meşru savunmada sınırın aşılması** kurumunu doğurur ve m. 27 çerçevesinde değerlendirilir. Bu durum ayrıca ele alınacaktır.
+
+**c) "O Anda Hal ve Koşullara Göre" İfadesinin Anlamı**
+
+Bu ifade, savunmanın gerçekleştiği andaki nesnel koşulların esas alınması gerektiğini ortaya koymaktadır. Sonradan edinilen bilgiler ya da sonraki gelişmeler değerlendirmeye katılmaz. Faili korku, heyecan veya panik altına alan olgular bu değerlendirmenin ayrılmaz parçasıdır. Söz konusu ifade, meşru savunmanın **normatif-nesnel** ölçütle belirlenmesi gerektiğini ortaya koymaktadır (Koca/Üzülmez; Demirbaş).
+
+---
+
+### 2.2. Zorunluluk Hali (m. 25/2)
+
+#### 2.2.1. Genel Yapı ve Hukuki Niteliği
+
+Zorunluluk hali, kişinin kendisinin ya da başkasının bir hakkına yönelik **ağır ve muhakkak bir tehlikeden** kurtulmak amacıyla, tehlikeye yol açmadığı ve başka türlü korunma imkânı olmadığı durumlarda gerçekleştirdiği fiiller için öngörülmüş bir hukuka uygunluk nedenidir.
+
+Zorunluluk hali, **doktrinde tartışmalı bir konuma** sahiptir. Bir kesim, zorunluluk halini hukuka uygunluk nedeni olarak değil, **kusurluluğu etkileyen bir neden** olarak değerlendirmiştir. Bu görüşe göre birbiriyle çatışan iki hakkın söz konusu olduğu hallerde, korunan değer ile feda edilen değer arasında üstün yarar ilişkisi olmadıkça hukuka uygunluktan söz edilemez (Hafızoğulları/Özen). Ancak kanun koyucu, m. 25/2'yi meşru savunmayla aynı madde bünyesinde ve aynı hukuki sonuca bağlayarak düzenlemiş; bu tercih yorumcuyu hukuka uygunluk temeli üzerinde çalışmaya yöneltmektedir.
+
+#### 2.2.2. Tehlikeye İlişkin Koşullar
+
+**a) Ağır ve Muhakkak Tehlike**
+
+Tehlikenin **ağır** olması, zararlı sonucun ciddi ve önemli olmasını ifade eder. Önemsiz ya da küçük zararlara karşı başkasının hakkını ihlal etmek zorunluluk hali kapsamında değerlendirilemez. Tehlikenin **muhakkak** olması ise tehlikenin kaçınılmaz ve kesin biçimde gerçekleşecek olduğuna işaret eder.
+
+**b) Bilerek Neden Olmama**
+
+Kişinin tehlikeye bilerek neden olmaması gerekmektedir. "Bilerek" sözcüğü, kastı kapsamakta; taksirle tehlikeye yol açılması bu koşulu ihlal etmemektedir. Nitekim taksirle tehlikeye yol açan kişinin zorunluluk halinden yararlanıp yararlanamayacağı doktrinde tartışmalıdır; kanun metni "bilerek" ifadesine yer verdiğinden taksirle tehlikeye yol açma, zorunluluk halinin uygulanmasını engellememelidir (Özbek/Kanbur/Doğan/Bacaksız/Tepe; Özgenç).
+
+**c) Başka Suretle Korunma Olanağının Bulunmaması**
+
+Tehlikeden başka bir yolla kurtulma imkânının olmaması gerekmektedir. Bu koşul, **ikincil nitelik (subsidiarity)** ilkesini yansıtmaktadır. Eğer tehlikeden kaçınmanın başka bir yolu varsa, zorunluluk hali hükmüne başvurulamaz. Meşru savunmadan farklı olarak zorunluluk halinde **kaçma yükümlülüğünün varlığı kabul edilmektedir**; yani kişinin tehlikeden kaçabiliyorsa fiili işlemesi zorunluluk halini oluşturmaz (Centel/Zafer/Çakmut; Toroslu/Toroslu).
+
+#### 2.2.3. Fiile İlişkin Koşullar: Orantılılık
+
+Zorunluluk halinde orantılılık, **tehlikenin ağırlığı ile konu ve kullanılan vasıta arasındaki denge** olarak tanımlanmıştır. Bu düzenleme, meşru savunmadaki orantılılık ilkesinden daha kapsamlı ve çok boyutludur; zira yalnızca araç değil, korunan hakkın konusu da değerlendirme kapsamına girmektedir.
+
+Doktrinde bu orantılılık koş

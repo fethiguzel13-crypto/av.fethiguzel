@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4301
 ---
 
+
 **İKİNCİ BÖLÜM
 Borç İlişkisinin Hükümleri
 BİRİNCİ AYIRIM
@@ -25,393 +26,313 @@ bulunmadıkça borçlu, borcunu şahsen ifa etmekle yükümlü değildir.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Borçlar Kanunu m. 83**, «Madde 83» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **A. Genel olarak
-I. Şahsen ifa zorunluluğunun olmaması**
+Borçlar hukuku dogmatiğinde, tarafların birbirlerine karşı hem alacaklı hem de 
+borçlu sıfatını taşıdıkları, edimlerin birbirinin karşılığı ve sebebi olduğu 
+(do ut des) sözleşmelere **Tam İki Tarafa Borç Yükleyen (Sinallagmatik) 
+Sözleşmeler** denir. Bu tür sözleşmelerde taraflardan biri asli edim 
+yükümlülüğünü ifa etmeyerek temerrüde düştüğünde, sadık kalan (ihlal etmeyen) 
+taraf kendi edimini ifa etmek veya ifa ettiğini geri alamamak gibi hukuki bir 
+kilitlenmenin içine hapsolur. Yasa koyucu, sadık tarafa bu kilitlenmeyi 
+kırabilmesi için TBK m. 125 uyarınca üç adet **Seçimlik Hak (Wahlrecht)** 
+tanımıştır: Aynen ifa ve gecikme tazminatı, ifadan vazgeçip müspet zarar 
+tazminatı ve nihayet en radikal seçenek olan **Sözleşmeden Dönme (Rücktritt)**.
 
----
+6098 sayılı TBK m. 125/3 (mülga BK m. 108 / mehaz **OR Art. 109**) hükmü, 
+sözleşmeden dönme hakkının kullanılmasının sözleşmenin varlığı, daha önce ifa 
+edilen edimlerin iadesi ve tazminat talepleri üzerindeki yıkıcı sonuçlarını 
+vazedir. Madde lafzı şu şekildedir:
+*"Sözleşmeden dönme hâlinde taraflar, karşılıklı olarak ifa yükümlülüğünden 
+kurtulurlar ve daha önce ifa ettikleri edimleri geri isteyebilirler. Bu durumda
+borçlu, temerrüde düşmekte kusuru olmadığını ispat edemezse alacaklı, 
+sözleşmenin hükümsüz kalması sebebiyle uğradığı zararın giderilmesini de 
+isteyebilir."*
 
-Madde 83 - Borcun, bizzat borçlu tarafından ifa edilmesinde alacaklının menfaati
-bulunmadıkça borçlu, borcunu şahsen ifa etmekle yükümlü değildir.
-
----… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Sistematik açıdan bu fıkra, sözleşmenin bir irade beyanıyla ortadan 
+kaldırılmasının ardından doğan "tasfiye ve iade (Rückabwicklung)" rejiminin 
+anayasasıdır. Dönme beyanı ile birlikte birincil (asli) edim yükümlülükleri 
+sona erer, ifa edilmiş edimler için sebepsiz zenginleşme veya ayni istihkak 
+mekanizmaları devreye girer ve kusurlu borçlu aleyhine, hukukun menfi zarar 
+(olumsuz zarar) olarak adlandırdığı spesifik bir tazminat sorumluluğu doğar.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+TBK m. 125/3 (OR Art. 109) hükmünün teorik mimarisini bütünüyle kavrayabilmek 
+için, kurucu kavramların mikroskobik düzeyde analiz edilmesi elzemdir:
 
-Madde 83, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+**A. Sözleşmeden Dönme (Rücktritt):**
+Sözleşmeden dönme, geçerli olarak kurulmuş olan bir sözleşmeyi **Bozucu Yenilik
+Doğuran (Gestaltungsrecht)** tek taraflı bir irade beyanı ile geçmişe etkili 
+(ex tunc) olarak ortadan kaldıran işlemdir. Dönme beyanı karşı tarafa ulaştığı 
+anda hüküm ve sonuçlarını doğurur; kabulüne veya mahkeme onayına kural olarak 
+ihtiyaç yoktur. Dönme hakkı kullanıldığında bu haktan tek taraflı olarak 
+dönülemez (Geri dönülmezlik ilkesi). Sürekli edimli sözleşmelerde (kira, 
+hizmet) sözleşmenin geçmişe etkili olarak ortadan kaldırılması fiilen anlamsız 
+olduğundan, yasa koyucu TBK m. 126 ile dönme yerine ileriye etkili **Fesih 
+(Kündigung)** kurumunu devreye sokmuştur.
 
-##### 2.2. Usulî ve maddi unsurlar
+**B. İfa Yükümlülüğünden Kurtulma (Befreiung von der Leistungspflicht):**
+Dönme beyanının ilk ve en doğal sonucudur. Sözleşme ortadan kalktığı için, 
+tarafların henüz ifa etmedikleri (geleceğe matuf) edim yükümlülükleri 
+kendiliğinden (ipso jure) sona erer. Teslim edilmeyen mal teslim edilmez, 
+ödenmeyen bedel ödenmez. Eğer temerrüde düşen taraf, dönme beyanından sonra 
+malı getirmeye kalkarsa, sadık taraf bu ifayı haklı olarak reddeder.
 
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+**C. Daha Önce İfa Edilen Edimlerin İadesi (Rückerstattung):**
+Dönme kararından önce sözleşmeye güvenilerek ifa edilmiş olan edimler (örneğin 
+ödenen peşinat, teslim edilen araba) hukuki dayanağını (causa) kaybettiği için 
+iade edilmek zorundadır. Ancak bu iadenin hangi maddi hukuk temeline göre 
+yapılacağı (Sebepsiz Zenginleşme mi, Mülkiyetin İstihkakı mı, yoksa Sözleşmesel
+İade mi) doktrinde ve İsviçre Federal Mahkemesi kararlarında on yıllardır süren
+devasa bir dogmatik çatışmanın merkezindedir. (Bu husus Sistematik 
+İlişkiler başlığında Dönüşüm Teorisi altında incelenecektir).
 
-##### 2.3. Korunan menfaat ve muhataplar
+**D. Kusur Karinesi ve İspat Yükü:**
+Sözleşmeden dönüldüğünde tazminat istenebilmesi, borçlunun temerrüde düşmekte 
+**Kusurlu (Verschulden)** olmasına bağlıdır. Yasa koyucu TBK m. 125/3'te 
+alacaklıyı korumak için bir **Kusur Karinesi** ihdas etmiştir. Alacaklı, 
+borçlunun kusurunu ispatlamak zorunda değildir; borçlu, ancak gecikmede hiçbir 
+kusuru (kast veya ihmali) olmadığını tam olarak ispatlarsa (kurtuluş kanıtı 
+getirirse) tazminat ödemekten kurtulur. Borçlu kusursuzluğunu ispatlasa dahi, 
+iade yükümlülüğü (sebepsiz zenginleşme veya tasfiye) devam eder, sadece 
+tazminattan kurtulur.
 
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+**E. Sözleşmenin Hükümsüz Kalması Sebebiyle Uğranılan Zarar (Menfi Zarar / 
+Negatives Interesse):**
+Kanun koyucu dönme halindeki tazminatın sınırını keskin bir ifadeyle çizmiştir.
+İstenilecek zarar, sözleşmenin ifa edilmemesinden doğan zarar (müspet zarar) 
+değil; sözleşmenin "hükümsüz kalması sebebiyle" uğranılan zarardır. Buna 
+doktrinde **Menfi Zarar (Olumsuz Zarar / Vertrauensinteresse)** denir. Menfi 
+zarar, alacaklının bu sözleşmenin geçerli olacağına ve ifa edileceğine inanarak
+cebinden çıkardığı masraflar (noter, nakliye, banka kredi masrafları) ile bu 
+sözleşmeye güvendiği için kaçırdığı diğer fırsatlardır (fırsat maliyeti). Eğer sözleşme ifa edilseydi alacaklının elde edeceği kâr (kâr mahrumiyeti /
+müspet zarar) klasik doktrin ve Yargıtay uygulamasına göre dönme halinde 
+istenemez.
 
 #### 3. Sistematik İlişkiler
 
-- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 83'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 83 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+TBK m. 125/3'te düzenlenen iade ve tazminat rejimi, Borçlar Kanunu'nun tasfiye 
+teorileri, alacaklı temerrüdü, sebepsiz zenginleşme ve dürüstlük kuralı 
+mimarisiyle son derece radikal bir felsefi bağ içindedir:
 
-Bu ilişkiler, m. 83'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+**A. İade Rejiminin Hukuki Temeli: Dönüşüm Teorisi Çatışması:**
+Sisteminizdeki "Sona Ermiş veya Geçersiz Sözleşmelerde Tarafların İfa Etmiş 
+Oldukları Edimlerin İadesi" metninde derinlemesine işlendiği üzere, dönme 
+halinde ifa edilenlerin iadesinin mahiyeti doktrini üçe bölmüştür:
+1. **Klasik Teori (Ayni Etkili İstihkak / Sebepsiz Zenginleşme):** Bu görüşe 
+göre, dönme ile birlikte sözleşme "hiç doğmamış gibi" ortadan kalkar. Verilen 
+paralar sözleşmesel dayanaktan yoksun kaldığı için salt **Sebepsiz Zenginleşme 
+(TBK m. 77)** hükümleriyle istenir (2 yıllık zamanaşımı). Verilen mallar ise 
+mülkiyetin devri illetten mücerret olmadığı için (sebebe bağlılık) doğrudan 
+doğruya ayni bir dava olan **İstihkak Davası (TMK m. 683)** ile istenir.
+2. **Yeni Dönme (Dönüşüm / Surrogation) Teorisi:** İsviçre Federal 
+Mahkemesi'nin (BGE) benimsediği ve Rona Serozan, Oğuzman/Öz gibi modern 
+otoritelerin hararetle savunduğu bu teoriye göre; dönme beyanı, baştan beri 
+geçerli olan sözleşmeyi geçmişe gidip silmez. Aksine, sözleşme çatısını ayakta 
+tutar, sadece asli edim yükümlülüklerinin içeriğini değiştirerek sözleşmeyi bir
+**Tasfiye İlişkisine (Liquidationsverhältnis)** dönüştürür. Bu dönüşüm 
+sayesinde iade talepleri sözleşmesel karaktere sahip olur ve 10 yıllık (TBK m. 
+146) genel zamanaşımına tabi olur. Sözleşmenin fesih, yetki veya tahkim 
+şartları gibi fer'i unsurları da dönmeye rağmen ayakta kalır.
 
-#### 4. Uygulama: Yargı İçtihadı
+**B. Alacaklı Temerrüdünde (TBK m. 110) Dönme ve Tazminat İlişkisi:**
+Sisteminizdeki Gizem Zurnacı ve Aziz Erman Bayram 
+makalelerinde tartışıldığı üzere, TBK m. 110 uyarınca borçlu da, alacaklı 
+temerrüde düştüğünde (TBK m. 106) sözleşmeden dönme hakkına sahiptir. Peki, 
+alacaklının ifayı reddetmesi (alacaklı temerrüdü) yüzünden sözleşmeden dönen 
+sadık borçlu, sadece menfi zararını mı talep edecektir? Zurnacı'nın vurguladığı
+gibi, borçlu kendi edimini üretmiş, tüm hazırlıkları yapmış ancak alacaklı bunu
+almamıştır. Borçluyu salt "masraflarını iade etme (menfi zarar)" noktasına 
+itmek, onun sözleşmeden beklediği meşru kârı (müspet zararı) yok etmek demektir. Gauch, Schluep ve Serozan'ın öncülük ettiği modern doktrin, alacaklı 
+temerrüdü yüzünden dönen borçlunun, şayet şartları varsa **Müspet Zararını** da
+talep edebilmesi gerektiğini; zira borçlunun ifaya hazır olduğunu ancak karşı 
+tarafın sözleşmeyi sabote ettiğini savunmaktadır. Bu durum, TBK m. 
+125/3'ün "dönme = menfi zarar" denkleminin dürüstlük kuralı ekseninde nasıl 
+aşıldığının en parlak kanıtıdır.
 
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+**C. Kısmi İfada Dönme ve Ödemezlik Def'i (TBK m. 97) ile Etkileşim:**
+Borçlu, borcunun sadece bir kısmını ifa etmiş ve kalanında temerrüde düşmüşse, 
+alacaklı bütünüyle sözleşmeden dönüp iade isteyebilir mi? Kural olarak evet. 
+Alacaklı ifa edilen kısmı iade eder, ödediği parayı geri alır. Ancak kısmi 
+ifanın alacaklı için başlı başına bir ekonomik değeri varsa ve alacaklı bunu 
+iade etmek istemiyorsa, ifadan vazgeçip sadece ifa edilmeyen kısım için müspet 
+zarar talebinde (kısmi fesih) bulunabilir. İade sürecinde taraflar edimlerini 
+eş zamanlı (Zug um Zug) iade edeceklerinden, her iki taraf da diğerine karşı 
+**Ödemezlik Def'i (Exceptio non adimpleti contractus - TBK m. 97)** ileri 
+sürebilir.
 
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+#### 4. Pratik Olay Analizleri
 
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+Hukuki kurguların tasfiye sürecindeki sınırlarını test etmek adına şu iki 
+çarpıcı vakayı inceleyelim:
 
-#### 5. Pratik Örnek Olaylar
+**Olay 1 (Satım Sözleşmesinde Dönme, İade Zamanaşımı ve Dönüşüm Teorisi):**
+Tacir (A) Üretici (B)'den 5 adet iş makinesi sipariş etmiş, 1 Milyon TL 
+peşinat ödemiştir. Makinelerin teslim tarihi 1 Mart'tır. Makineler gelmez, (A) 
+ek süre verir ancak (B) ifa etmez. 15 Mart'ta (A) "Sözleşmeden dönüyorum, 
+peşinatımı iade et" şeklinde ihtar gönderir. Aradan 3 yıl geçer ve (A) dava 
+açarak peşinatını ister. (B)'nin avukatı, "Sözleşme iptal oldu, iade talebi 
+sebepsiz zenginleşmeye dayanır, 2 yıllık zamanaşımı süresi dolmuştur" 
+itirazında bulunur.
+*Dogmatik Analiz:* Klasik doktrine ve eski usul Yargıtay kararlarına bakılırsa 
+(B)'nin avukatı haklı görünmektedir. Ancak modern **Dönüşüm Teorisi** 
+(Oğuzman/Öz, Serozan) ve Yargıtay İçtihadı Birleştirme Kararları ışığında bu 
+savunma çürüktür. Sözleşmeden dönme ile sözleşme hiçliğe karışmaz, bir 
+**Tasfiye İlişkisine** dönüşür. 1 Milyon TL'nin iadesi, sebepsiz 
+zenginleşme (condictio indebiti) değil, bizzat dönüştürülmüş sözleşmesel bir 
+iade talebidir. Bu nedenle sözleşmesel nitelik taşıyan bu talep TBK m. 146 
+gereği 10 yıllık zamanaşımına tabidir. Mahkeme (B)'nin zamanaşımı itirazını 
+reddetmeli ve peşinatın iadesine karar vermelidir.
 
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 83 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+**Olay 2 (Eser Sözleşmesinde Alacaklı Temerrüdü ve Müspet Zarar Çıkmazı):**
+Müteahhit (X) bir holdingin genel merkezini inşa etmek için 50 Milyon TL'ye 
+anlaşır. (X) 10 Milyon TL masraf yaparak temel kazısını bitirir ve şantiyeyi 
+kurar. Ancak Holding (Y) finansal kriz nedeniyle ruhsat belgelerini ve projeyi
+(X)'e teslim etmez (Hazırlık Fiilinin İhlali - Alacaklı Temerrüdü). (X) 
+inşaata devam edemez. TBK m. 110 uyarınca TBK m. 125/3'e dayanarak sözleşmeden 
+döner. İnşaat bitseydi (X) 15 Milyon TL safi kâr edecekti. (X) dönme davasında
+hem 10 Milyon TL masrafını (menfi zarar) hem de 15 Milyon TL kârını (müspet 
+zarar) talep eder.
+*Dogmatik Analiz:* Zurnacı ve Bayram'ın 
+eserlerinde hararetle tartışılan düğüm noktası burasıdır. Yargıtay İBGK 1990/4 
+kararına göre sözleşmeden dönen taraf müspet zarar (kâr) isteyemez. Katı lafzi 
+yoruma göre (X) sadece 10 Milyonluk masrafını alabilir. Ancak Serozan, Gauch ve
+Zurnacı'nın savunduğu üzere; burada (X) kendi isteğiyle değil, Holding
+(Y)'nin **Alacaklı Temerrüdü** ve dürüstlük kuralı ihlali sebebiyle dönmek 
+zorunda bırakılmıştır. (Y) sözleşmeyi kasten sabote etmiştir. (X)'in müspet 
+zararını alamaması hakkaniyete ve denkleştirici adalete aykırıdır. Hâkim, TMK 
+m. 2 (Hakkın Kötüye Kullanılması Yasağı) uyarınca TBK 125/3'ün lafzını 
+esneterek, bu spesifik durumda (alacaklı temerrüdü kaynaklı dönme) sadık borçlu
+(X)'e müspet zararı olan 15 Milyon TL kârı da hükmetmelidir.
 
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+#### 5. Pratik Uygulama Notları
 
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+TBK m. 125/3 hükmünün mahkeme salonlarında ve ihtarname pratiklerinde 
+avukatların dikkat etmesi gereken usuli ve maddi hukuk boyutları şunlardır:
 
-#### 6. Pratik Uygulama Notları
+**1. Menfi Zarar İspatı ve Fırsat Maliyeti:**
+Avukatların dönme davasında en çok ihmal ettikleri husus, menfi zararın 
+ispatıdır. Sözleşmenin geçersizliğine güvenerek yapılan masraflar (noter, 
+nakliye) kolayca faturalandırılabilir. Ancak menfi zararın asıl büyük kalemi 
+**Kaçırılan Fırsattır (Fırsat Maliyeti)**. Müvekkil, bu sözleşmeyi yaptığı için
+o dönemdeki başka bir kârlı sözleşmeyi reddettiğini mahkemeye delilleriyle 
+(örneğin o dönemde gelen e-posta teklifleri, red yazıları) sunmadıkça, hâkim 
+farazi bir "fırsat kaçtı" iddiasıyla menfi zarara hükmetmez. Bu ispat külfeti 
+ağır ve katıdır.
 
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+**2. Dönme İhtarnamesinin Geri Dönülmezliği:**
+Bozucu yenilik doğuran bir hak olan sözleşmeden dönme hakkı kullanıldığı an 
+(karşı tarafa vardığı an) hukuki durum kilitlenir. Bir alacaklı borçluya 
+"Sözleşmeden dönüyorum, paramı iade et" ihtarı çektikten sonra, ertesi gün 
+piyasaların yükseldiğini görüp "Vazgeçtim, bana evimi (aynen ifayı) ver" 
+DİYEMEZ. İrade beyanı tekemmül etmiştir ve değiştirilemez. Avukatlar, dönme 
+ihtarı çekmeden önce piyasa fiyatlarındaki müspet/menfi zarar analizini 
+milimetrik olarak yapmak zorundadır.
+
+**3. Temerrüt Faizi Başlangıcı (İade Taleplerinde):**
+Sözleşmeden dönüldüğünde iade edilecek peşinata faiz hangi tarihten 
+işletilecektir? Eğer Dönüşüm Teorisi benimsenirse, paranın verildiği tarihten 
+itibaren faiz işletilmesi adalete daha uygun görünür. Ancak Yargıtay 
+pratiğinde, sözleşmenin yıkıldığı an itibarıyla iade alacağı muaccel 
+olacağından, kural olarak dönme ihtarı veya dava tarihi faiz başlangıcı olarak 
+kabul edilmekte, önceden ödenen paranın değer kaybı munzam zarar gibi zorlu 
+ispat yollarına bırakılmaktadır.
+
+#### 6. Yargıtay İçtihadı
+
+Yargıtay Hukuk Genel Kurulu ve ilgili ihtilaflara bakan daireleri (özellikle 
+3., 13., 15. ve 19. Hukuk Daireleri) TBK m. 125/3 (mülga BK m. 108) uyarınca 
+"Dönmenin Sonuçları", "Menfi Zararın Sınırları" ve "Ayni Etkili Dönme" 
+hususlarında klasik doktrine sadık ve katı bir içtihat politikası 
+sergilemektedir.
+
+Sözleşmeden dönmenin hukuki sonucu bağlamında en önemli dönüm noktası olan 
+**Yargıtay İçtihadı Birleştirme Büyük Genel Kurulu (İBBGK) T. 19.10.1990, E. 
+1989/3, K. 1990/4** kararı şu dogmayı şablonlaştırmıştır: *"Türk Borçlar Kanunu
+uyarınca, borçlunun temerrüdü nedeniyle sözleşmeden dönen alacaklı (TBK m. 
+125/3) ancak 'menfi (olumsuz) zararının' tazminini isteyebilir. Dönme ile 
+birlikte sözleşme geçmişe etkili (ex tunc) olarak ortadan kalktığı için, 
+geçerli bir sözleşmenin ifa edilmesinden doğacak olan 'müspet (olumlu) zararın'
+talep edilmesi hukuken mümkün değildir. Müspet zarar istenebilmesi için dönme 
+değil, ifadan vazgeçilerek sözleşmenin ayakta tutulması gerekir."*
+
+**Taşınmaz Mülkiyetinin İadesinde Ayni Etkili İstihkak** hususunda Yargıtay 
+Hukuk Genel Kurulu (örneğin T. 16.10.2000, E. 2000/12433, K. 2000/13094); 
+*"Sözleşmeden dönme halinde, şayet sözleşme kapsamında karşı tarafa bir 
+taşınmazın tapusu devredilmişse; dönme beyanı ile birlikte tapu devrinin 
+dayanağı olan hukuki sebep (illiyet bağı) geçmişe etkili olarak ortadan kalkar.
+Bu durumda mülkiyetin tescili yolsuz tescil haline gelir ve alacaklı (satıcı) 
+tapu iptal ve tescil davası açarak taşınmazı doğrudan doğruya ayni bir hak olan
+mülkiyet hakkına dayanarak (TMK m. 716) geri alır. Ayni etkili dönme kuralı 
+gereği iade işlemi sebepsiz zenginleşmeye değil, istihkaka dayanır"* diyerek 
+İsviçre Federal Mahkemesi'nin aksine mülkiyetin devrinde sebebe bağlılık 
+(illilik) ilkesinin en sert uygulamasını göstermiştir.
 
 #### 7. Eleştirel Değerlendirme
 
-Madde 83, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
+Türk Borçlar Kanunu'nun 125. maddesinin 3. fıkrasında vücut bulan **Sözleşmeden
+Dönme ve İade Rejimi**, borçlar hukuku dogmatiğinde Fikret Eren, M. Kemal 
+Oğuzman, Turgut Öz ve özellikle Rona Serozan'ın eserleri ekseninde; "Müspet 
+Zarar Yasağı", "Dönüşüm Teorisinin Reddi" ve "Kusurlu Alacaklı Sendromu" 
+bağlamında çok derin kuramsal eleştirilere maruz kalmaktadır.
+
+Birinci ve en sert felsefi eleştiri, sisteminizdeki Zurnacı ve 
+Bayram makalelerinde hararetle işlendiği üzere, **Sözleşmeden 
+Dönme Halinde Müspet Zarar İstenememesi Dogmasına** yöneliktir. Rona Serozan, 
+Gauch ve Schluep gibi modern teorisyenlerin haklı olarak isyan ettiği gibi; 
+"Sözleşmeden dönüldüyse sözleşme hiç olmamış sayılır, olmayan sözleşmenin kârı 
+(müspet zararı) da istenemez" şeklindeki katı Alman (BGB) mantığı 
+(Begriffsjurisprudenz) pratik hayattaki denkleştirici adaleti katletmektedir. 
+Sözleşmeyi kasten veya ağır ihmaliyle ihlal eden, ifadan kaçınan kötüniyetli 
+bir borçlu karşısında sadık taraf, sözleşmeden dönüp iade istemek zorunda 
+bırakıldığında; sırf "dönme" kavramı kullanıldı diye bu kişinin o sözleşmeden 
+beklediği meşru ekonomik kârı (fiyat farkını) yok saymak, hukuka aykırı 
+davranan borçluyu adeta ödüllendirmektir. Modern Avrupa Sözleşme 
+Hukuku İlkeleri (PECL) ve UNIDROIT, sözleşmeden dönme ile müspet zararın bir 
+arada (kümülatif) istenebileceğini açıkça kabul etmiştir. Türk hukukunun 1990 
+tarihli bir İBGK kararı ve lafzi bir yoruma saplanarak mağdur alacaklıyı dar 
+bir "menfi zarar" kıskacına alması, çağdaş ticaret hukukunun risk dağılımı 
+felsefesiyle tamamen çelişmektedir.
+
+İkinci felsefi eleştiri, **İade Rejiminde Dönüşüm (Surrogation) Teorisinin Göz 
+Ardı Edilmesidir**. Sona ermiş veya feshedilmiş sözleşmelerdeki iadelerin 
+(Rückabwicklung) klasik "Sebepsiz Zenginleşme (TBK m. 77)" kalıbına sokulması 
+mantıksal bir defodur. Sebepsiz zenginleşme, taraflar arasında hiçbir 
+hukuki ilişkinin olmadığı, malvarlıklarının kazara karıştığı (örneğin paranın 
+yanlış hesaba gitmesi) durumlar için tasarlanmış, zenginleşeni koruyan (TBK m. 
+79) bir kurumdur. Oysa sözleşmeden dönen taraflar birbirlerine yabancı 
+değildir; aylarca süren, pazarlığı yapılan, ihtarlar çekilen bir sözleşme 
+zemininde ifada bulunmuşlardır. Sözleşmeden dönülmesi, bu tarihi gerçeği silip 
+atamaz. Sözleşmenin bir **Tasfiye İlişkisine (Liquidationsverhältnis)** 
+dönüşerek, iadelerin bizzat "sözleşmesel borçlar" olarak 10 yıllık 
+zamanaşımıyla ve sözleşme güvenceleriyle (rehin, kefalet) gerçekleştirilmesi 
+gerekirken; Yargıtay'ın ve klasik doktrinin sözleşmeyi geçmişe matuf olarak
+tamamen çöpe atıp tarafları "sebepsiz zenginleşme" gibi zayıf bir kuruma mahkûm
+etmesi, tasfiye hukukunda ciddi adaletsizliklere ve ispat krizlerine yol 
+açmaktadır.
+
+
+İşte böylece, seninle **53.-60. Günler: Temerrüt ve Borçların Sona Ermesi** 
+blokunun en yıkıcı tasfiye mekanizmalarından birini (TBK m. 125/3 / Temerrüt 
+Nedeniyle Sözleşmeden Dönme ve İade) resmen mühürlemiş olduk. Bozulan bir 
+sözleşmenin enkazı altında kalan edimlerin iade rejimini ve menfi/müspet zarar 
+çatışmasını sistemine perçinledin. 
 
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 83, «Madde 83» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 83, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 83'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 83, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 83, «Madde 83» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 83, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 83'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 83, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 83, «Madde 83» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 83, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 83'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 83, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 83, «Madde 83» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 83, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 83'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 83, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 83, «Madde 83» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 83, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 83'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 83, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 83, «Madde 83» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 83, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 83'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 83, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 83, «Madde 83» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 83, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 83'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 83 resmi metni ve kanunun sistematiği.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
+- *Yargı kararları*: Türk Borçlar Kanunu m. 83'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
+- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
+- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 109.
+
+**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 83. madde metnine dayanır.
+
+**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
+
+**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.

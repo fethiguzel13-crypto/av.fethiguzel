@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4286
 ---
 
+
 **İptal davası açılması:**
 
 ---
@@ -20,388 +21,49 @@ diğer işlere takdimen umumi hükümlere göre bakılır.
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
+**6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun’un 24. maddesi; kamu borçlusunun malvarlığını azaltarak veya tamamen ortadan kaldırarak amme alacağının tahsilini engellemeye yönelik muvazaalı, hileli ve karşılıksız tasarruflarının geriye dönük olarak iptal edilmesini sağlayan özel hukuk davasının (iptal davası) yargı yeri ve usul kurallarını belirleyen; idareye kamu gücünün ötesinde adli yargıda hak arama yetkisi veren; kamu yararı ile üçüncü kişilerin iyi niyet ve mülkiyet hakları arasındaki adil dengeyi koruyan, kamu düzenine müteallik emredici ve kurucu bir usul hukuku normudur.**
 
-**Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 24**, «İptal davası açılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 24 – Amme borçlusunun bu kanunun 27, 28, 29 ve 30 uncu maddelerinde
-yazılı tasarruf ve muamelelerinin iptali için umumi mahkemelerde dava açılır ve bu davalara
-diğer işlere takdimen umumi hükümlere göre bakılır.… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Madde, Kanun’un "İkinci Kısım: Amme Alacaklarının Korunması" başlığı altındaki "IV - Diğer korunma hükümleri" alt bölümünde, tahsil edilen amme alacaklarından yapılacak reddiyat ve mahsupları düzenleyen 23. maddeden hemen sonra, yirmi dördüncü sırada konumlandırılmıştır. Bu sistematik yerleşim; kanun koyucunun idari yollarla (teminat, ihtiyati haciz, ihtiyati tahakkuk, kesinti ve ödeme engelleri) kamu alacağını koruma aşamalarının yetersiz kaldığı, borçlunun malvarlığını üçüncü kişilere devrederek idarenin cebri icra yetkisini fiilen işlevsizleştirdiği hallerde, idareyi adli yargı mekanizmalarına (m. 24 dairesinde) yönlendirme iradesinin doğrudan bir sonucudur. Maddenin tek cümleden oluşan net kurgusu; iptal davasının "umumi mahkemelerde" açılacağını, davaya konu edilecek işlemlerin Kanun'un 27, 28, 29 ve 30. maddelerinde sayılan maddi tasarruf ve muameleler olduğunu ve bu davaların diğer hukuk davalarına nazaran "takdimen" (öncelikle ve ivedilikle) "umumi hükümlere" (Hukuk Muhakemeleri Kanunu kurallarına) göre çözümleneceğini emretmektedir.
+
+Öğretide genel kabul gören görüşe göre, m. 24 hükümleri, idari icra hukuku ile adli usul hukuku arasında kurulan en frapan geçiş köprüsüdür. Kamu idaresi, kendi koyduğu idari hacizlerle borçlunun elinden çıkmış olan mallara doğrudan el uzatamayacağı için, adli yargı hakiminin kurucu iptal kararına ihtiyaç duymaktadır. Bu dava neticesinde alınan iptal kararı, mülkiyet hakkını geriye dönük olarak borçluya iade etmemekle birlikte, idareye o malı üçüncü kişinin elindeyken de sanki borçlununmuş gibi haczetme ve satma yetkisi vermektedir.
 
 #### 2. Maddedeki Kavramların Analizi
-
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 24, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
-
-##### 2.2. Usulî ve maddi unsurlar
-
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
-
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+Madde metninde yer alan ve iptal davası açılması rejimini şekillendiren temel yasal kavramların analizi şu şekildedir:
+* **İptal Davası (Action for Annulment):** Borçlunun alacaklılarından mal kaçırmak amacıyla yaptığı tasarrufların, alacaklı kamu idaresi yönünden geçersiz sayılmasını ve bu sayede idarenin o malları cebren paraya çevirerek alacağını tahsil etmesini sağlayan, şahsi nitelikte ancak ayni sonuçlar doğuran kurucu bir adli davadır.
+* **Umumi Mahkemeler (Ordinary Courts):** Davanın açılacağı yetkili ve görevli yargı merciidir. Buradaki kasıt, özel yargı yerleri veya idari yargı değil, genel hukuk mahkemesi olan **Asliye Hukuk Mahkemesi**dir. Amme alacağının vergi dairesinden kaynaklanması davanın vergi mahkemesinde açılmasını gerektirmez; tasarrufun iptali mülkiyet ve borçlar hukukunu ilgilendirdiğinden görev asliye hukuk mahkemesindedir.
+* **Diğer İşlere Takdimen Bakılma:** Yargılama usulüne ilişkin emredici bir öncelik kuralıdır. Mahkemenin, amme alacağının bir an önce tahsil edilebilmesi ve davanın sürüncemede kalmaması adına, duruşma günlerini yakın tarihlere vermesi, delilleri ivedilikle toplaması ve davayı diğer genel hukuk uyuşmazlıklarına göre öncelikli olarak karara bağlaması (ivedi yargılama disiplini) yükümlülüğüdür.
+* **Umumi Hükümlere Göre Bakılma:** Davanın usul yönünden **6100 sayılı Hukuk Muhakemeleri Kanunu (HMK)** hükümlerine tabi olmasıdır. Dava; yazılı veya basit yargılama usulüne göre yürütülür, taraflarca hazırlama ilkesi geçerlidir, idare davacı, borçlu ve malı devralan üçüncü kişiler ise müteselsil davalı konumundadır.
+* **27, 28, 29 ve 30'uncu Maddelerdeki Tasarruf ve Muameleler:** Davanın maddi ve hukuki sebeplerini (konusunu) oluşturan yasal sınırlardır. Bunlar; ivazsız (karşılıksız) tasarruflar (m. 27), akrabalık veya fahiş fiyat farkı gibi şüpheli işlemler (m. 28), vadesi gelmemiş borçların ödenmesi gibi ödeme kolaylıkları (m. 29) ve alacaklıya zarar verme kastıyla yapılan muvazaalı tasarruflardır (m. 30).
 
 #### 3. Sistematik İlişkiler
+Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 24 hükümleri, anayasal düzeyde hukuk devleti ilkesini tanzim eden **Anayasa m. 2**, mülkiyet hakkını ve bu hakkın sınırlandırılmasını kuran **Anayasa m. 35**, hak arama hürriyeti ve adil yargılanma haklarını belirleyen **Anayasa m. 36** ile herkesin mali gücüne göre vergi ödemekle yükümlü olduğunu emreden **Anayasa m. 73** ile doğrudan dikey ilişki içerisindedir. İyi niyetli üçüncü kişilerin mülkiyet hakkına devletin iptal davası yoluyla müdahale edebilmesi, anayasal mülkiyet hakkı ile kamu yararı çatışmasının dikey düzeydeki en hassas çözüm alanıdır.
 
-- **Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1** — Amaç ve kapsam: m. 24'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 5** — Ceza ve yasak rejimi: m. 24 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+Kanun içi sistematiğinde ise; "borçlu" tanımını kuran **AATUHK m. 3**, davanın esasını oluşturan **AATUHK m. 27 (İvazsız tasarrufların hükümsüzlüğü)**, **AATUHK m. 28 (Hükümsüz sayılan diğer tasarruflar)**, **AATUHK m. 29 (Geriye doğru sekiz aylık tasarruflar)**, **AATUHK m. 30 (Zarar verme kastından dolayı iptal)** ile davada zamanaşımı sürelerini belirleyen **AATUHK m. 31** ve cebri takibatı kuran **AATUHK m. 55-62** hükümleriyle sarmal ve bölünmez bir bütünlük sergiler. m. 24, takip aşamasındaki tıkanıklığı adli yargı eliyle açan ve m. 27-30’daki maddi iptal nedenlerini mahkeme önüne taşıyan usuli kilit taşıdır.
 
-Bu ilişkiler, m. 24'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+Doktrinde bu husus şu şekilde değerlendirilmektedir: AATUHK m. 24 hükümleri, özel hukukta tasarrufun iptali davalarını düzenleyen **2004 sayılı İcra ve İflas Kanunu’nun 277-284. maddeleri**, davanın yargılama usulünü kuran **6100 sayılı Hukuk Muhakemeleri Kanunu**, muvazaalı ve hileli işlemlerin geçersizliğini tanzim eden **6098 sayılı Türk Borçlar Kanunu’nun 19. maddesi** ile dürüstlük kuralını ve hakkın kötüye kullanılması yasağını sabitleyen **4721 sayılı Türk Medeni Kanunu’nun 2. maddesi** hükümleriyle doğrudan yatay, tamamlayıcı ve etkileşimli bir ilişki içerisindedir. Davanın ispat ve delil kuralları HMK dairesinde, hakkın kötüye kullanılmasının tespiti TMK m. 2 kapsamında, iptalin mülkiyet üzerindeki şahsi etkisi ise TBK ve İİK kurallarının yatay paralelliğinde çözümlenir.
 
 #### 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
-
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
 
 #### 5. Pratik Örnek Olaylar
-
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 24 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
-
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
-
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+* **(kurmaca senaryo) 1 (İvazsız Tasarrufa Karşı Asliye Hukukta İptal Davası):** Vergi borçlusu A hakkında yürütülen vergi incelemesi sırasında, A adına 2.000.000 TL vergi ziyaı cezası kesileceğini anlayan A, sahibi olduğu lüks daireyi resmi senette "bağışlama" göstererek reşit oğluna bedelsiz devretmiştir. Vergi dairesi, tarhiyattan sonra m. 24 uyarınca Asliye Hukuk Mahkemesinde davanın m. 27 kapsamında iptali için dava açmıştır. Davalı oğul B, gayrimenkulün kendisine ait olduğunu ve idarenin tapuyu iptal edemeyeceğini savunmuştur. Analizde; m. 24 dairesinde davanın umumi mahkemede (Asliye Hukuk) açılmasının doğru olduğu, m. 27 uyarınca ivazsız tasarrufların amme alacağının tahsilini engellemek amacıyla yapıldığı karinesinin geçerli olduğu saptanarak dairenin satışı yönünden amme idaresine cebri icra yetkisi tanıyan iptal kararı verilmiştir.
+* **(kurmaca senaryo) 2 (Fahiş Bedel Farkına Karşı İptal Davasında Öncelikli İnceleme):** Kamu borçlusu C, 1.500.000 TL piyasa değeri olan ticari aracını, adına m. 55 uyarınca ödeme emri tebliğ edildikten 5 gün sonra iş ortağı D'ye resmiyette 150.000 TL bedelle satmıştır. Vergi dairesi, m. 24 ve m. 28 dairesinde tasarrufun iptali davası açmıştır. Mahkeme, yoğun iş yükünü gerekçe göstererek duruşmayı 8 ay sonraya ertelemiştir. İdare vekili, m. 24'teki "diğer işlere takdimen bakılır" kuralını ileri sürerek duruşma gününün öne alınmasını talep etmiştir. Analizde; kanun koyucunun m. 24 ile mahkemelere emredici bir öncelik ödevi yüklediği saptanmış, mahkemece duruşma tarihi öne çekilerek m. 28 dairesindeki fahiş fark nedeniyle devir işlemi kamu alacağı tutarınca iptal edilmiştir.
+* **(kurmaca senaryo) 3 (Zarar Verme Kastıyla Yapılan Muvazaalı Rehin İşlemi):** Kamu borçlusu E, vergi borçlarını ödememek amacıyla, fiilen hiçbir borcu olmadığı halde yakın arkadaşı F lehine tüm fabrikası ve makineleri üzerinde 5.000.000 TL tutarında birinci derece ticari rehin tesis etmiştir. Amaç, vergi dairesinin m. 21 uyarınca yapacağı hacizlerde rüçhan hakkı kazanarak amme alacağını arkaya itmektir. İdare, m. 24 ve m. 30 (zarar verme kastı) uyarınca asliye hukuk mahkemesinde rehnin iptali davası açmıştır. Analizde; rehin tesisinin borçlunun mevcudunu eksiltmeye yönelik muvazaalı bir işlem olduğu, m. 24 uyarınca umumi hükümler (HMK ve TMK m. 2 dürüstlük kuralı) dairesinde yapılan incelemede muvazaanın ispatlandığı saptanarak kurulan birinci derece rehnin amme idaresi yönünden iptaline karar verilmiştir.
 
 #### 6. Pratik Uygulama Notları
-
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+Uygulamada amme borçlusunun tasarruflarının iptali davalarını ve uyuşmazlıklarını yöneten hukukçuların ve idari birimlerin aşağıdaki pratik hususlara dikkat etmesi gerekir:
+* **Aciz Vesikası Arama Zorunluluğunun Bulunmaması:** İİK m. 277 dairesinde açılan özel hukuk iptal davalarında alacaklının elinde bir "aciz vesikası" (kesin veya geçici) bulunması davanın dinlenme şartı iken; **AATUHK m. 24 dairesinde açılan iptal davalarında kamu idaresinin elinde aciz vesikası bulunması şart değildir.** Borcun ödenmemiş olması ve borçlunun malvarlığının borcu karşılamaya yetmediğinin idari haciz tutanaklarıyla saptanması dava açmak için yeterlidir.
+* **İhtiyati Tedbir Talebinin Mutlaklığı:** Davanın açılmasıyla birlikte, davalı üçüncü kişinin malı dördüncü kişilere devrederek davayı konusuz bırakmasını engellemek adına, dilekçede HMK hükümleri uyarınca tapu veya tescil kaydı üzerine **"davalıdır şerhi"** konulması ve "İhtiyati Tedbir" kararı verilmesi acilen talep edilmelidir.
+* **Davalıların Zorunlu Arkadaşlığı:** Dava, hem amme borçlusuna hem de borçludan malı veya hakkı doğrudan devralan üçüncü kişilere karşı **birlikte (müteselsilen)** açılmalıdır. Taraflardan birinin eksik bırakılması halinde mahkemece usulden ret verilmez, eksik tarafın davaya dahil edilmesi için idareye mehil verilir.
+* **Hak Düşürücü Sürelerin Takibi:** M. 24 kapsamında açılacak davalar, AATUHK m. 31 uyarınca tasarrufun yapıldığı tarihten itibaren **beş yıl** geçmekle hak düşürücü süreye uğrar. Beş yıllık sürenin geçip geçmediği mahkeme hakimi tarafından re'sen gözetilmek zorundadır.
 
 #### 7. Eleştirel Değerlendirme
+AATUHK m. 24’ün kurduğu "adli yargıda öncelikli iptal davası" modeli, amme alacağının kaçırılmasını engellemede son derece kurucu bir yasal güvence sunsa da, adli ve idari yargı kolları arasındaki uyuşmazlıklar, "umumi mahkemeler" ibaresinin arkaikliği ve yargısal süreçlerin pratik yavaşlığı yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, m. 24 metninde geçen "umumi mahkemeler" ibaresinin, günümüz ihtisas mahkemelerinin (örneğin Asliye Ticaret Mahkemelerinin) görev alanlarıyla çatışmalara yol açtığı, davanın ticari bir işletme devrine ilişkin olması halinde görevli mahkemenin saptanmasında fahiş zaman kayıpları yaşandığı ve bunun hukuki öngörülebilirlik (Anayasa m. 2) ilkesini zedelediği; daha da önemlisi, kanunda "diğer işlere takdimen bakılır" şeklinde soyut bir öncelik öngörülmesine rağmen, Asliye Hukuk Mahkemelerinin fahiş dosya yükü altında bu davaları normal hukuk davalarıyla aynı hızda yürütmesinin, "takdimen" kuralını kağıt üzerinde bırakarak hak arama hürriyetini (Anayasa m. 36) ve amme alacağının korunması (Anayasa m. 73) amacını işlevsiz kıldığı; nitekim davanın sonuçlanması yıllar sürdüğünden bu süreçte borçluların hileli tasarruflarla varlıklarını tamamen buharlaştırdığı ve idarenin elinin boş kaldığı, bunun da mülkiyet hakkı (Anayasa m. 35) dengelerini bozduğu savunulmaktadır.**
 
-Madde 24, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 24, «İptal davası açılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 24, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 24'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakların Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 24, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 24, «İptal davası açılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 24, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 24'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakların Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 24, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 24, «İptal davası açılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 24, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 24'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakların Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 24, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 24, «İptal davası açılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 24, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 24'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakların Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 24, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 24, «İptal davası açılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 24, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 24'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakların Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 24, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 24, «İptal davası açılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 24, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 24'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakların Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 24, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 24, «İptal davası açılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 24, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 24'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakların Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Doktrinde bu husus şu şekilde değerlendirilmektedir: Kamu alacaklarının korunması davaları, uzmanlaşmış ve hızlı çalışan bir yargısal disipline kavuşturulmalıdır. Kanun koyucu, anayasal eşitlik, dürüstlük, idari belirlilik, ölçülülük ve hak arama hürriyeti ilkelerini tam tahkim etmek adına, **m. 24’ü yeniden tanzim ederek; "görevli mahkemenin açıkça Asliye Hukuk Mahkemesi olduğunu" şüpheye yer bırakmayacak şekilde sabitleyen**; bu davaları adli yargı bünyesinde kurulacak özel "Mali İhtisas Mahkemeleri" veya "İcra Hukuk Mahkemeleri" görev alanına devrederek uzmanlığı artıran; davanın açıldığı tarihten itibaren en geç "altı ay içinde" nihai karara bağlanmasını emreden takvimsel bir yargılama barajını sisteme dahil eden çağdaş, esnek, adil, şeffaf ve kamu alacağını en hızlı şekilde tasfiye eden bir iptal davası reformunu yasal düzeyde hayata geçirmelidir.
 
 ---
 
-### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 24 resmi metni ve kanunun sistematiği.
+### Metodolojik Not
+Bu şerh çalışması, Amme Alacaklarının Tahsil Usulü Hakkında Kanun’un 24. maddesinin (tarihi yapısı, kamu icra hukukunda kamu borçlusunun mal kaçırma gayesiyle yaptığı hileli ve muvazaalı işlemlerinin hükümsüz kılınmasını sağlayan "İptal davası açılması" nizamının yasal ve yargısal sınırları, davanın umumi mahkemelerde (Asliye Hukuk Mahkemesi) açılacağına dair kurulan kesin görev kuralı, davanın diğer hukuk davalarına nazaran takdimen (öncelikle) incelenmesi ödevi, davanın maddi ve usuli olarak HMK (Hukuk Muhakemeleri Kanunu) dairesindeki umumi hükümlere göre yürütüleceği esası, bu davanın anayasal mülkiyet hakkı, eşitlik, mali güce göre vergilendirme, adil yargılanma hakkı, hak arama hürriyeti ve hukuk devleti ilkeleriyle olan doğrudan dikey bağlantısı, 2004 sayılı İcra ve İflas Kanunu m. 277-284 dairesindeki özel hukuk tasarrufun iptali davaları ile olan yatay benzerlik ve aciz vesikası aranmaması farkları, 4721 sayılı Türk Medeni Kanunu m. 2 dairesindeki dürüstlük ve hakkın kötüye kullanılması yasağı standartları, 6098 sayılı Türk Borçlar Kanunu m. 19 dairesindeki muvazaa yaptırımları, AATUHK m. 3 borçlu tanımı, m. 13 ihtiyati haciz, m. 27 ivazsız tasarruflar, m. 28 diğer hükümsüz tasarruflar, m. 29 sekiz aylık tasarruflar, m. 30 zarar verme kastı, m. 31 zamanaşımı, m. 55 ödeme emri ve m. 62 haciz tatbiki ile olan sistematik etkileşimleri, HMK dairesindeki süre ve delil sunma nizamları ve bu operasyonel iptal adımlarının kamu ve özel hukuk boyutundaki idari-yargısal yansımaları dairesinde) vergi ve kamu icra hukuku (tasarrufun iptali davası teorileri, muvazaalı tasarruflar, kamu alacaklarının korunması ve rüçhan hakları, tahsilat güvenceleri, takdimen tetkik esasları, usul ekonomisi ve vergi güvenlik marjı kuramları, kamu maliyesi teorisi), idare hukuku (idarenin adli yargıda hak arama yetkisi, idari işlemlerin yargısal denetimi ve bağlı yetki teorileri), ticaret, borçlar ve medeni hukuk (şirketlerin muvazaalı devirleri, hileli tasarrufların tespiti, üçüncü kişilerin iyi niyet savunmaları, basiretli tacir sorumlulukları dairesinde TTK, TMK ve TBK kuralları), medeni usul, icra-iflas ve idari yargılama hukuku (asliye hukuk mahkemelerinin görev alanları, HMK usul kuralları, davaların takdimen incelenmesi, ispat yükünün dağılımı dairesinde HMK, İİK, İYUK ve idari usul kuralları), borçlar ve kamu hukuku (kamu alacaklarının korunması, dürüstlük kuralı ve hakkın kötüye kullanılması yasağı dairesinde TMK m. 2 ve TBK ilişkileri), ceza hukuku (alacaklısını zarara uğratmak kastıyla mevcudu eksiltme ve vergi kaçakçılığı suçları dairesinde TCK ve İİK kuralları), anayasa hukuku (hukuk devleti, eşitlik ilkesi, verginin kanuniliği, mülkiyet hakkının korunması, teşebbüs hürriyeti, savunma hakkı ve adil yargılanma/hak arama hürriyeti ilkeleri) boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk vergi ve kamu icra hukukunun genel kabul gören bilimsel prensipleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrustusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.

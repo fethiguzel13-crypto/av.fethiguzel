@@ -3,8 +3,8 @@ title: "Karayolları Trafik Kanunu Madde 109"
 kanun: "Karayolları Trafik Kanunu"
 maddeNo: 109
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3625
+lastReviewed: "2026-08-22"
+wordCount: 1259
 ---
 
 **BEŞİNCİ BÖLÜM
@@ -31,225 +31,80 @@ Diğer hususlarda, genel hükümler uygulanır.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Karayolları Trafik Kanunu m. 109** (2918 sayılı), «Motorlu araç kazalarından doğan maddi zararların tazminine» başlığı altında trafik hukuku içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+Karayolları Trafik Kanunu'nın 109. maddesi BEŞİNCİ BÖLÜM · Ortak Hükümler · Zamanaşımı: kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: Madde 109 – Motorlu araç kazalarından doğan maddi zararların tazminine ilişkin talepler, zarar görenin, zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yıl ve herhalde, kaza gününden başlayarak on yıl içinde zamanaşımına uğrar. Dava, cezayı gerektiren bir fiilden doğar ve ceza kanunu bu fiil için daha uzun bir zaman aşımı süresi öngörmüş bulunursa, bu süre, Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 109 izole okunmamalı; KTK’nın ilgili bölüm/ayırım bütünlüğü ve işleten sorumluluğu ilkesiyle birlikte yorumlanmalıdır.
+Madde aynı kanunun sistematiği içinde okunur zira komşu hükümler uygulama sırasını ve istisnaları taşır. Yakın maddeler arasında m.108 ((Mülga üçüncü fıkra : 3/6/2007-5684/45 md.) · Karayolu Trafik Garanti Sigortası ), m.110 (Görevli ve Yetkili Mahkeme:), m.111 (Sorumluluğa ilişkin anlaşmalar:) öne çıkar. Uygulayıcı önce hangi fıkranın somut vakıaya denk düştüğünü yazar, sonra sonuca geçer.
 
-Ratio legis, işleten sorumluluğu, trafik güvenliği, idari yaptırım ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: Motorlu araç kazalarından doğan maddi zararların tazminine ilişkin talepler, zarar görenin, zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yıl ve herhalde, kaza gününden başlayarak on yıl içinde zamanaşımına uğrar. Dava, cezayı gerektiren bir fiilden doğar ve ceza kanunu bu fiil için daha uzun bir zaman aşımı süresi öngörmüş bulunursa, bu süre, maddi tazminat talepleri için de geçerlidir.
+Hüküm tek parça gibi görünse de uygulama şart-sonuç ayrımını dosyada açık yazmayı gerektirir. Şart gerçekleşmeden yetki veya yaptırım konuşulmaz ve gerekçe boş kalır.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Somut uyuşmazlıkta maddenin hangi tarih itibarıyla yürürlükte olduğu ve değişiklik fıkralarının vakıaya uygulanıp uygulanmayacağı ayrıca denetlenir. Geçiş hükümleri yok sayılırsa eski lafızla yeni lafız birbirine karışır, karar gerekçesi çöker.
+
+Bu maddeye özgü okuma lafzı başka kanunların kalıp şerhlerine taşımaz. Korunan menfaat BEŞİNCİ BÖLÜM · Ortak Hükümler · Zamanaşımı: başlığının işaret ettiği ilişkidir ve şerh de o ilişki üzerinden yürür.
+
+Uygulama, maddenin emredici çekirdeği ile idareye veya taraflara bırakılan hareket alanını ayırarak ilerler. Çekirdek aşıldığında işlem sakatlanır, hareket alanı içinde kalan tercihler ise gerekçeyle savunulabilir. Somut dosyada bu ayrım yazılmadan verilen sonuç, temyizde lafzı taşımadığı gerekçesiyle döner.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Uygulama alanı
 
-Madde 109, «Motorlu araç kazalarından doğan maddi zararların tazminine» ekseninde tazminat ve zamanaşımına kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak trafik hukuku içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+BEŞİNCİ BÖLÜM · Ortak Hükümler · Zamanaşımı: bakımından bu dilim şu metne dayanır: Madde 109 – Motorlu araç kazalarından doğan maddi zararların tazminine ilişkin talepler, zarar görenin, zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yıl ve herhalde, kaza gününden başlayarak on yıl içinde zamanaşımına uğrar. Dava, cezayı gerektiren bir Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.2. Unsurlar
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 109 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+##### 2.2. Şart ve sonuç bağı
 
-Metinden çıkan somut vurgular: Zamanaşımı, tazminat yükümlüsüne karşı kesilirse, sigortacıya karşı da kesilmiş olur. Sigortacı bakımından kesilen zamanaşımı, tazminat yükümlüsü bakımından da kesilmiş sayılır.
+BEŞİNCİ BÖLÜM · Ortak Hükümler · Zamanaşımı: bakımından bu dilim şu metne dayanır: Madde 109 – Motorlu araç kazalarından doğan maddi zararların tazminine ilişkin talepler, zarar görenin, zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yıl ve herhalde, kaza gününden başlayarak on yıl içinde zamanaşımına uğrar. Dava, cezayı gerektiren bir Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.3. Korunan menfaat
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 109 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Korunan menfaat, bireysel hak sahibi ile trafik güvenliği arasındaki dengede aranır. KTK m. 109, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. dava kavramı bu dengede anahtar rol oynar.
+##### 2.3. Yetki ve usul
 
-##### 2.4. Sonuç ve yaptırım
+BEŞİNCİ BÖLÜM · Ortak Hükümler · Zamanaşımı: bakımından bu dilim şu metne dayanır: Madde 109 – Motorlu araç kazalarından doğan maddi zararların tazminine ilişkin talepler, zarar görenin, zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yıl ve herhalde, kaza gününden başlayarak on yıl içinde zamanaşımına uğrar. Dava, cezayı gerektiren bir Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 109 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
 #### 3. Sistematik İlişkiler
 
-- **KTK komşu maddeler:** m. 109 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle Motorlu araç kazalarından doğan maddi zararların tazminine temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** işleten sorumluluğu; trafik güvenliği; idari yaptırım; tazminat.
-- **Yatay mevzuat:** TBK haksız fiil; TCK; Zorunlu mali sorumluluk sigortası mevzuatı.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**m. 108 — (Mülga üçüncü fıkra : 3/6/2007-5684/45 md.) · Karayolu Trafik Garanti Sigortası** Karayolları Trafik Kanunu m. 108 ((Mülga üçüncü fıkra : 3/6/2007-5684/45 md.) · Karayolu Trafik Garanti Sigortası ) ile m. 109 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu ilişkiler, m. 109’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+**m. 110 — Görevli ve Yetkili Mahkeme:** Karayolları Trafik Kanunu m. 110 (Görevli ve Yetkili Mahkeme:) ile m. 109 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
+**m. 111 — Sorumluluğa ilişkin anlaşmalar:** Karayolları Trafik Kanunu m. 111 (Sorumluluğa ilişkin anlaşmalar:) ile m. 109 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (tazminat / cezayı karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
+Yerel arşivde bu maddeye atıf yapan kararda mahkeme lafzın somut vakıaya nasıl taşındığını göstermiştir. yoksun kalma tazminatı talebi halinde 2918 sayılı Karayolları Trafik Kanunu'nun 109. maddesi uyarınca ceza zamanaşımı süresinin uygulanıp uygulanamayacağı noktasında toplanmaktadır. Bilindiği üzere trafik kazaları bir Kararın künyesi şerhte birebir korunur ve (Yargıtay Hukuk Genel Kurulu, E. 2015/437, K. 2015/1471, T. 29.05.2015).
 
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
+Yerel arşivde bu maddeye atıf yapan kararda mahkeme lafzın somut vakıaya nasıl taşındığını göstermiştir. şımına uğrayacağı kabul edilmektedir. 2918 sayılı Karayolları Trafik Kanunu'nun 109. maddesinde ise Borçlar Kanununun 60. maddesindeki genel kural olan bir yıllık zamanaşımı süresinden farklı olarak iki yıllık Kararın künyesi şerhte birebir korunur. (Yargıtay Hukuk Genel Kurulu, E. 2013/544, K. 2014/315, T. 12.03.2014).
 
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: Motorlu araç kazalarında tazminat yükümlülerinin birbirlerine karşı rücu hakları, kendi yükümlülüklerini tam olarak yerine getirdikleri ve rücu edilecek kimseyi öğrendikleri günden başlayarak iki yılda zamanaşımına uğrar. Diğer hususlarda, genel hükümler uygulanır.
+Yerel arşivde bu maddeye atıf yapan kararda mahkeme lafzın somut vakıaya nasıl taşındığını göstermiştir. de 128 ] 818 S ve bORÇLAR KANUNU [ Madde 41 ] 2918 S. KARAYOLLARI TRAFİK KANUNU [ Madde 109 ] 6762 S ve tÜRK TİCARET KANUNU [ Madde 1263 ] 6762 S. TÜRK TİCARET KANUNU [ Madde 1301 ] "İçtihat Metni" Taraflar arasındaki Kararın künyesi şerhte birebir korunur. (Yargıtay Hukuk Genel Kurulu, E. 2011/569, K. 2011/710, T. 30.11.2011).
+
+Yerel arşivde bu maddeye atıf yapan kararda mahkeme lafzın somut vakıaya nasıl taşındığını göstermiştir. dde 60 ] 818 S ve bORÇLAR KANUNU [ Madde 41 ] 2918 S. KARAYOLLARI TRAFİK KANUNU [ Madde 109 ] "İçtihat Metni" Hukuk Genel Kurulu'nca incelenerek direnme kararının süresinde temyiz edildiği anlaşıldıktan ve dosyadaki Kararın künyesi şerhte birebir korunur. (Yargıtay Hukuk Genel Kurulu, E. 2011/427, K. 2011/519, T. 13.07.2011).
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında motorlu araç kazalarından doğan maddi zararların tazminine ile bağlantılı bir uyuşmazlık çıkar. Davacı, KTK m. 109’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. Motorlu araç kazalarından doğan maddi zararların tazminine ilişkin talepler, zarar görenin, zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yıl ve herhalde, kaza gününden başlayarak on yıl içinde zamanaşımına uğrar. cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Bir uyuşmazlıkta taraf BEŞİNCİ BÖLÜM · Ortak Hükümler · Zamanaşımı: hükmüne dayanarak talep yöneltti. Karşı taraf maddenin şartlarının oluşmadığını ileri sürdü. Mahkeme resmi lafızdaki unsurları dosyadaki belgelerle tek tek eşlemek zorunda kaldı ve eksik unsur varsa talebi bu maddeye dayandırmadı.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 109 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** İdare veya taraf m. 109 yetkisini acele kullandı ve ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, zamanaşımına gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* KTK’nın iyiniyet ve dürüstlük ilkeleri ile m. 109’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Yürürlük tartışmasında eski ve yeni lafız iç içe geçti ve uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. 109 uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; tazminat ile dava’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **KTK madde 109**, **KTK m. 109**, **KTK 109** ve **Karayolları Trafik Kanunu madde 109** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Dilekçede Karayolları Trafik Kanunu m. 109 dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.
+
+Belge listesi maddenin şartlarını karşılayan olgulara bağlanmalıdır, genel anlatım yetmez.
+
+Karşı tarafın savunması unsur eksikliğine mi yoksa sonuç tartışmasına mı yöneldiği ayrılmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-KTK m. 109, trafik hukuku içinde Motorlu araç kazalarından doğan maddi zararların tazminine temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve işleten sorumluluğu ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Hükmün lafzı ile uygulamanın pratik ihtiyaçları her somut dosyada ayrıca tartılır. BEŞİNCİ BÖLÜM · Ortak Hükümler · Zamanaşımı: başlığı geniş okunursa madde her uyuşmazlığa çekilir, dar okunursa koruma boşalır.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 109 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Öğreti bu tür hükümlerde lafzın sınırını dosyanın vakıalarıyla test etmeyi önerir ve sayfa ve baskı yılı uydurulmaz.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: Karayolları Trafik Kanunu m. 109 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 109 uygulamasında «Motorlu araç kazalarından doğan maddi zararların tazminine» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Motorlu araç kazalarından doğan maddi zararların tazminine ilişkin talepler, zarar görenin, zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yıl ve herhalde, kaza gününden başlayarak on yıl içinde zamanaşımına uğrar.
-
-Öğretide genel kabul gören görüşe göre, KTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Dava, cezayı gerektiren bir fiilden doğar ve ceza kanunu bu fiil için daha uzun bir zaman aşımı süresi öngörmüş bulunursa, bu süre, maddi tazminat talepleri için de geçerlidir.
-
-Uygulayıcı, işleten sorumluluğu ile trafik güvenliği arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Zamanaşımı, tazminat yükümlüsüne karşı kesilirse, sigortacıya karşı da kesilmiş olur.
-
-Yatay mevzuat (TBK haksız fiil) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Sigortacı bakımından kesilen zamanaşımı, tazminat yükümlüsü bakımından da kesilmiş sayılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 109 sonuçlarının fiilen elde edilmesi için belirleyicidir. Motorlu araç kazalarında tazminat yükümlülerinin birbirlerine karşı rücu hakları, kendi yükümlülüklerini tam olarak yerine getirdikleri ve rücu edilecek kimseyi öğrendikleri günden başlayarak iki yılda zamanaşımına uğrar.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Diğer hususlarda, genel hükümler uygulanır.
-
-Sonuç olarak, KTK madde 109 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Görevli ve Yetkili Mahkeme:[79]
-
-Bu bağlamda m. 109 uygulamasında «Motorlu araç kazalarından doğan maddi zararların tazminine» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Motorlu araç kazalarından doğan maddi zararların tazminine ilişkin talepler, zarar görenin, zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yıl ve herhalde, kaza gününden başlayarak on yıl içinde zamanaşımına uğrar.
-
-Öğretide genel kabul gören görüşe göre, KTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Dava, cezayı gerektiren bir fiilden doğar ve ceza kanunu bu fiil için daha uzun bir zaman aşımı süresi öngörmüş bulunursa, bu süre, maddi tazminat talepleri için de geçerlidir.
-
-Uygulayıcı, işleten sorumluluğu ile trafik güvenliği arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Zamanaşımı, tazminat yükümlüsüne karşı kesilirse, sigortacıya karşı da kesilmiş olur.
-
-Yatay mevzuat (TBK haksız fiil) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Sigortacı bakımından kesilen zamanaşımı, tazminat yükümlüsü bakımından da kesilmiş sayılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 109 sonuçlarının fiilen elde edilmesi için belirleyicidir. Motorlu araç kazalarında tazminat yükümlülerinin birbirlerine karşı rücu hakları, kendi yükümlülüklerini tam olarak yerine getirdikleri ve rücu edilecek kimseyi öğrendikleri günden başlayarak iki yılda zamanaşımına uğrar.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Diğer hususlarda, genel hükümler uygulanır.
-
-Sonuç olarak, KTK madde 109 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Görevli ve Yetkili Mahkeme:[79]
-
-Bu bağlamda m. 109 uygulamasında «Motorlu araç kazalarından doğan maddi zararların tazminine» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Motorlu araç kazalarından doğan maddi zararların tazminine ilişkin talepler, zarar görenin, zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yıl ve herhalde, kaza gününden başlayarak on yıl içinde zamanaşımına uğrar.
-
-Öğretide genel kabul gören görüşe göre, KTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Dava, cezayı gerektiren bir fiilden doğar ve ceza kanunu bu fiil için daha uzun bir zaman aşımı süresi öngörmüş bulunursa, bu süre, maddi tazminat talepleri için de geçerlidir.
-
-Uygulayıcı, işleten sorumluluğu ile trafik güvenliği arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Zamanaşımı, tazminat yükümlüsüne karşı kesilirse, sigortacıya karşı da kesilmiş olur.
-
-Yatay mevzuat (TBK haksız fiil) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Sigortacı bakımından kesilen zamanaşımı, tazminat yükümlüsü bakımından da kesilmiş sayılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 109 sonuçlarının fiilen elde edilmesi için belirleyicidir. Motorlu araç kazalarında tazminat yükümlülerinin birbirlerine karşı rücu hakları, kendi yükümlülüklerini tam olarak yerine getirdikleri ve rücu edilecek kimseyi öğrendikleri günden başlayarak iki yılda zamanaşımına uğrar.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Diğer hususlarda, genel hükümler uygulanır.
-
-Sonuç olarak, KTK madde 109 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Görevli ve Yetkili Mahkeme:[79]
-
-Bu bağlamda m. 109 uygulamasında «Motorlu araç kazalarından doğan maddi zararların tazminine» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Motorlu araç kazalarından doğan maddi zararların tazminine ilişkin talepler, zarar görenin, zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yıl ve herhalde, kaza gününden başlayarak on yıl içinde zamanaşımına uğrar.
-
-Öğretide genel kabul gören görüşe göre, KTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Dava, cezayı gerektiren bir fiilden doğar ve ceza kanunu bu fiil için daha uzun bir zaman aşımı süresi öngörmüş bulunursa, bu süre, maddi tazminat talepleri için de geçerlidir.
-
-Uygulayıcı, işleten sorumluluğu ile trafik güvenliği arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Zamanaşımı, tazminat yükümlüsüne karşı kesilirse, sigortacıya karşı da kesilmiş olur.
-
-Yatay mevzuat (TBK haksız fiil) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Sigortacı bakımından kesilen zamanaşımı, tazminat yükümlüsü bakımından da kesilmiş sayılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 109 sonuçlarının fiilen elde edilmesi için belirleyicidir. Motorlu araç kazalarında tazminat yükümlülerinin birbirlerine karşı rücu hakları, kendi yükümlülüklerini tam olarak yerine getirdikleri ve rücu edilecek kimseyi öğrendikleri günden başlayarak iki yılda zamanaşımına uğrar.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Diğer hususlarda, genel hükümler uygulanır.
-
-Sonuç olarak, KTK madde 109 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Görevli ve Yetkili Mahkeme:[79]
-
-Bu bağlamda m. 109 uygulamasında «Motorlu araç kazalarından doğan maddi zararların tazminine» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Motorlu araç kazalarından doğan maddi zararların tazminine ilişkin talepler, zarar görenin, zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yıl ve herhalde, kaza gününden başlayarak on yıl içinde zamanaşımına uğrar.
-
-Öğretide genel kabul gören görüşe göre, KTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Dava, cezayı gerektiren bir fiilden doğar ve ceza kanunu bu fiil için daha uzun bir zaman aşımı süresi öngörmüş bulunursa, bu süre, maddi tazminat talepleri için de geçerlidir.
-
-Uygulayıcı, işleten sorumluluğu ile trafik güvenliği arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Zamanaşımı, tazminat yükümlüsüne karşı kesilirse, sigortacıya karşı da kesilmiş olur.
-
-Yatay mevzuat (TBK haksız fiil) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Sigortacı bakımından kesilen zamanaşımı, tazminat yükümlüsü bakımından da kesilmiş sayılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 109 sonuçlarının fiilen elde edilmesi için belirleyicidir. Motorlu araç kazalarında tazminat yükümlülerinin birbirlerine karşı rücu hakları, kendi yükümlülüklerini tam olarak yerine getirdikleri ve rücu edilecek kimseyi öğrendikleri günden başlayarak iki yılda zamanaşımına uğrar.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Diğer hususlarda, genel hükümler uygulanır.
-
-Sonuç olarak, KTK madde 109 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Görevli ve Yetkili Mahkeme:[79]
-
-Bu bağlamda m. 109 uygulamasında «Motorlu araç kazalarından doğan maddi zararların tazminine» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Motorlu araç kazalarından doğan maddi zararların tazminine ilişkin talepler, zarar görenin, zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yıl ve herhalde, kaza gününden başlayarak on yıl içinde zamanaşımına uğrar.
-
-Öğretide genel kabul gören görüşe göre, KTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Dava, cezayı gerektiren bir fiilden doğar ve ceza kanunu bu fiil için daha uzun bir zaman aşımı süresi öngörmüş bulunursa, bu süre, maddi tazminat talepleri için de geçerlidir.
-
-Uygulayıcı, işleten sorumluluğu ile trafik güvenliği arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Zamanaşımı, tazminat yükümlüsüne karşı kesilirse, sigortacıya karşı da kesilmiş olur.
-
-Yatay mevzuat (TBK haksız fiil) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Sigortacı bakımından kesilen zamanaşımı, tazminat yükümlüsü bakımından da kesilmiş sayılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 109 sonuçlarının fiilen elde edilmesi için belirleyicidir. Motorlu araç kazalarında tazminat yükümlülerinin birbirlerine karşı rücu hakları, kendi yükümlülüklerini tam olarak yerine getirdikleri ve rücu edilecek kimseyi öğrendikleri günden başlayarak iki yılda zamanaşımına uğrar.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Diğer hususlarda, genel hükümler uygulanır.
-
-Sonuç olarak, KTK madde 109 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Görevli ve Yetkili Mahkeme:[79]
-
-Bu bağlamda m. 109 uygulamasında «Motorlu araç kazalarından doğan maddi zararların tazminine» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Motorlu araç kazalarından doğan maddi zararların tazminine ilişkin talepler, zarar görenin, zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yıl ve herhalde, kaza gününden başlayarak on yıl içinde zamanaşımına uğrar.
-
-Öğretide genel kabul gören görüşe göre, KTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Dava, cezayı gerektiren bir fiilden doğar ve ceza kanunu bu fiil için daha uzun bir zaman aşımı süresi öngörmüş bulunursa, bu süre, maddi tazminat talepleri için de geçerlidir.
-
-Uygulayıcı, işleten sorumluluğu ile trafik güvenliği arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Zamanaşımı, tazminat yükümlüsüne karşı kesilirse, sigortacıya karşı da kesilmiş olur.
-
-Yatay mevzuat (TBK haksız fiil) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Sigortacı bakımından kesilen zamanaşımı, tazminat yükümlüsü bakımından da kesilmiş sayılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 109 sonuçlarının fiilen elde edilmesi için belirleyicidir. Motorlu araç kazalarında tazminat yükümlülerinin birbirlerine karşı rücu hakları, kendi yükümlülüklerini tam olarak yerine getirdikleri ve rücu edilecek kimseyi öğrendikleri günden başlayarak iki yılda zamanaşımına uğrar.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Diğer hususlarda, genel hükümler uygulanır.
-
-Sonuç olarak, KTK madde 109 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Görevli ve Yetkili Mahkeme:[79]
-
-Bu bağlamda m. 109 uygulamasında «Motorlu araç kazalarından doğan maddi zararların tazminine» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Motorlu araç kazalarından doğan maddi zararların tazminine ilişkin talepler, zarar görenin, zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yıl ve herhalde, kaza gününden başlayarak on yıl içinde zamanaşımına uğrar.
-
-Öğretide genel kabul gören görüşe göre, KTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Dava, cezayı gerektiren bir fiilden doğar ve ceza kanunu bu fiil için daha uzun bir zaman aşımı süresi öngörmüş bulunursa, bu süre, maddi tazminat talepleri için de geçerlidir.
-
-Uygulayıcı, işleten sorumluluğu ile trafik güvenliği arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Zamanaşımı, tazminat yükümlüsüne karşı kesilirse, sigortacıya karşı da kesilmiş olur.
-
-Yatay mevzuat (TBK haksız fiil) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Sigortacı bakımından kesilen zamanaşımı, tazminat yükümlüsü bakımından da kesilmiş sayılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 109 sonuçlarının fiilen elde edilmesi için belirleyicidir. Motorlu araç kazalarında tazminat yükümlülerinin birbirlerine karşı rücu hakları, kendi yükümlülüklerini tam olarak yerine getirdikleri ve rücu edilecek kimseyi öğrendikleri günden başlayarak iki yılda zamanaşımına uğrar.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Diğer hususlarda, genel hükümler uygulanır.
-
-Sonuç olarak, KTK madde 109 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Görevli ve Yetkili Mahkeme:[79]
-
-Bu bağlamda m. 109 uygulamasında «Motorlu araç kazalarından doğan maddi zararların tazminine» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Motorlu araç kazalarından doğan maddi zararların tazminine ilişkin talepler, zarar görenin, zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yıl ve herhalde, kaza gününden başlayarak on yıl içinde zamanaşımına uğrar.
-
-Öğretide genel kabul gören görüşe göre, KTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Dava, cezayı gerektiren bir fiilden doğar ve ceza kanunu bu fiil için daha uzun bir zaman aşımı süresi öngörmüş bulunursa, bu süre, maddi tazminat talepleri için de geçerlidir.
-
-Uygulayıcı, işleten sorumluluğu ile trafik güvenliği arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Zamanaşımı, tazminat yükümlüsüne karşı kesilirse, sigortacıya karşı da kesilmiş olur.
-
-Yatay mevzuat (TBK haksız fiil) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Sigortacı bakımından kesilen zamanaşımı, tazminat yükümlüsü bakımından da kesilmiş sayılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 109 sonuçlarının fiilen elde edilmesi için belirleyicidir. Motorlu araç kazalarında tazminat yükümlülerinin birbirlerine karşı rücu hakları, kendi yükümlülüklerini tam olarak yerine getirdikleri ve rücu edilecek kimseyi öğrendikleri günden başlayarak iki yılda zamanaşımına uğrar.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Diğer hususlarda, genel hükümler uygulanır.
-
-Sonuç olarak, KTK madde 109 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Görevli ve Yetkili Mahkeme:[79]
-
-Bu bağlamda m. 109 uygulamasında «Motorlu araç kazalarından doğan maddi zararların tazminine» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Motorlu araç kazalarından doğan maddi zararların tazminine ilişkin talepler, zarar görenin, zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yıl ve herhalde, kaza gününden başlayarak on yıl içinde zamanaşımına uğrar.
-
-Öğretide genel kabul gören görüşe göre, KTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Dava, cezayı gerektiren bir fiilden doğar ve ceza kanunu bu fiil için daha uzun bir zaman aşımı süresi öngörmüş bulunursa, bu süre, maddi tazminat talepleri için de geçerlidir.
-
-Uygulayıcı, işleten sorumluluğu ile trafik güvenliği arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Zamanaşımı, tazminat yükümlüsüne karşı kesilirse, sigortacıya karşı da kesilmiş olur.
-
-Yatay mevzuat (TBK haksız fiil) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Sigortacı bakımından kesilen zamanaşımı, tazminat yükümlüsü bakımından da kesilmiş sayılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 109 sonuçlarının fiilen elde edilmesi için belirleyicidir. Motorlu araç kazalarında tazminat yükümlülerinin birbirlerine karşı rücu hakları, kendi yükümlülüklerini tam olarak yerine getirdikleri ve rücu edilecek kimseyi öğrendikleri günden başlayarak iki yılda zamanaşımına uğrar.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Diğer hususlarda, genel hükümler uygulanır.
-
-Sonuç olarak, KTK madde 109 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Görevli ve Yetkili Mahkeme:[79]
+Bu yorum maddenin resmi metni ve yerel karar arşivi esas alınarak hazırlanmıştır. Künyeler arşivden birebir alınır, uydurulmaz ve örnek olaylar kurmacadır.

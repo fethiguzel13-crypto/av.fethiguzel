@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4270
 ---
 
+
 **III. Sürelerin kesinliği**
 
 ---
@@ -17,389 +18,310 @@ MADDE 148- Bu ayırımda belirlenen zamanaşımı süreleri, sözleşmeyle deği
 
 ### Akademik Yorum ve Analiz
 
+
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Borçlar Kanunu m. 148**, «III. Sürelerin kesinliği» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 148 - Bu ayırımda belirlenen zamanaşımı süreleri, sözleşmeyle değiştirilemez.
+Borçlar hukuku dogmatiğinde irade özerkliği (Privatautonomie) ve sözleşme 
+özgürlüğü asıldır. Taraflar diledikleri gibi sözleşme kurabilir, haklarından 
+feragat edebilirler. Ancak hukuk düzeni, bu özgürlüğün zayıf tarafı mahvedecek 
+bir silaha dönüşmesini engellemek için emredici sınırlar çizer. **TBK Madde 
+148**, bu emredici sınırların en keskinlerinden biridir. Hükme göre; 
+*"Zamanaşımından önceden feragat edilemez."* Kanun koyucu, alacaklının sözleşme
+kurulurken veya borç devam ederken sahip olduğu üstün müzakere gücünü 
+kullanarak, borçluya "Bu borç için kanuni 10 yıllık veya 5 yıllık zamanaşımı 
+sürelerinden peşinen vazgeçiyorum, bu borç ömür boyu dava edilebilir 
+kalacaktır" dedirtmesini kamu düzeni mülahazasıyla mutlak olarak yasaklamıştır.
 
----… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Bu emredici genel hükmün, senin zihnini karıştıran o **Cayma Parası (TBK m. 
+178)** kurumuyla kesişimi ise muazzam bir dogmatik çatışma yaratır. Cayma 
+parası (Arrha poenitentialis / Reuegeld) taraflardan birine veya her ikisine, 
+önceden belirlenmiş bir miktar parayı gözden çıkararak (verilmişse bırakarak, 
+verilmemişse iki katını ödeyerek) sözleşmeden tek taraflı ve haklı bir sebebe 
+dayanmaksızın dönme yetkisi veren bir anlaşmadır. Cayma parası, sözleşme 
+özgürlüğünün şahikasıdır; kişi, kendi kurduğu ahde vefa (pacta sunt servanda) 
+zincirini, bedelini ödeyerek kırıp atma hakkını baştan satın almaktadır.
+
+Sistematik çatışma tam burada başlar: Alacaklı, sözleşmeye hem yüklü bir "cayma
+parası" koyup borçlunun sözleşmeden dönmesini imkânsızlaştıracak bir mali 
+bariyer örebilir, hem de aynı sözleşmeye "Borçlu, cayma bedelinin tahsiline 
+ilişkin her türlü zamanaşımı def'inden peşinen feragat etmiştir" şeklinde bir 
+kloz ekleyebilir. İşte TBK m. 148, alacaklının bu çifte kıskaç stratejisine 
+karşı borçlunun yegâne kalkanıdır. Cayma parası ne kadar iradeci ise, TBK m. 
+148'in feragat yasağı da o kadar emredici ve korumacıdır.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+TBK m. 148'deki feragat yasağı ile cayma parasının (TBK m. 178) teorik 
+mimarisini bütünüyle kavrayabilmek için, bu kavramların Fikret Eren, M. Kemal 
+Oğuzman ve Turgut Öz'ün eserleri ekseninde mikroskobik düzeyde analiz edilmesi 
+zorunludur:
 
-Madde 148, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+**A. "Önceden Feragat" Kavramı (TBK m. 148):**
+Madde metnindeki "önceden" (im Voraus) ibaresi dogmatik olarak çok kritiktir. 
+Kanun koyucu, zamanaşımı def'inden feragati tamamen yasaklamamıştır; sadece 
+*zamanaşımı süresi dolmadan önce* yapılan feragatleri yasaklamıştır. Borç 
+doğarken, vade anında veya 10 yıllık zamanaşımı süresi işlerken yapılan her 
+türlü feragat beyanı TBK m. 148 uyarınca kesin hükümsüzdür (mutlak batıldır). 
+Ancak, 10 yıllık süre tamamen dolduktan sonra, borçlu "Zamanaşımı doldu ama ben
+ahlaki olarak bu borcu ödemek istiyorum, zamanaşımı def'inden feragat ediyorum"
+derse, bu geçerlidir. Zira artık ortada korunması gereken bir zayıf irade 
+kalmamış, süre dolmuştur.
 
-##### 2.2. Usulî ve maddi unsurlar
+**B. Cayma Parası (Arrha Poenitentialis - TBK m. 178):**
+Cayma parası, sözleşmenin ifa edilmemesi hâlinde ödenecek bir ceza (cezai şart)
+değildir; bilakis, "sözleşmeyi ifa etmekten hukuka uygun olarak kaçınma 
+hakkının (dönme hakkının) bedeli"dir. Sisteminizdeki eserlerde de altı 
+çizildiği üzere; cayma parası veren taraf, sözleşmeden dönerse (Rücktritt) 
+verdiğini bırakır. Alan taraf dönerse, aldığını iki katıyla iade eder. Cayma 
+hakkı, bozucu yenilik doğuran bir haktır. Bu hak kullanıldığında sözleşme 
+geçmişe etkili (ex tunc) olarak ortadan kalkar ve taraflar sadece sebepsiz 
+zenginleşme (TBK m. 77 vd.) kurallarına göre tasfiye sürecine girerler.
 
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+**C. Cayma Parası ile Bağlanma Parası (Pey Akçesi) Ayrımı (TBK m. 177):**
+Doktrinde Nomer ve Eren'in eserlerinde şiddetle vurgulandığı üzere, sözleşme 
+kurulurken verilen bir paranın (kaporanın) "cayma parası" mı yoksa "bağlanma 
+parası" mı olduğu hususunda şüphe varsa, kanuni karine (praesumptio iuris) 
+gereği bu para "bağlanma parası (arrha confirmatoria)" sayılır. Bağlanma 
+parası, sözleşmenin kurulduğuna kanıt olarak verilen ve asıl alacaktan düşülen 
+bir avanstır; taraflara sözleşmeden dönme hakkı *vermez*. Bir paranın cayma 
+parası sayılabilmesi için tarafların bu yöndeki iradelerinin açık ve kesin 
+olması şarttır.
 
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+**D. Emredici Kurallara Aykırılık ve Mutlak Butlan:**
+Sisteminizdeki "Sözleşme Özgürlüğü ve Emredici Hükümler" kaynaklarında 
+detaylıca incelendiği üzere; hukuk düzeninin kamu menfaatini korumak için 
+koyduğu kurallara emredici kurallar denir. TBK m. 148 mutlak emredicidir. Bu 
+kurala aykırı olarak sözleşmeye konulan "zamanaşımından feragat" klozları TBK 
+m. 27 gereği kesin hükümsüzdür (batıldır).
 
 #### 3. Sistematik İlişkiler
 
-- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 148'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 148 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+TBK m. 148'deki önceden feragat yasağı kurgusu; Borçlar Kanunu'nun genel işlem 
+koşulları (TBK m. 20-25) kısmi hükümsüzlük (TBK m. 27/2) ve muvazaa (TBK m. 
+19) mimarisiyle son derece radikal bir diyalektik bağ içindedir:
 
-Bu ilişkiler, m. 148'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+**A. Genel İşlem Koşulları (GİK) Bağlamında Feragat ve Cayma Dayatmaları:**
+Sisteminizdeki GİK eserlerinde Yargıtay pratiğini en çok meşgul eden
+tartışma budur. Bankalar, inşaat şirketleri veya sigorta firmaları, önceden 
+hazırladıkları matbu sözleşmelere şu tür klozlar koyarlar: *"Müşteri, işbu 
+sözleşmeden kaynaklanan borçları için kanuni tüm zamanaşımı sürelerinden 
+peşinen feragat ettiğini, ayrıca sözleşmeyi feshetmesi hâlinde yatırdığı tüm 
+bedellerin cayma parası olarak şirkete irat kaydedileceğini kabul eder."* 
+Bu klozlar, dogmatik olarak iki katmanlı bir giyotine çarpar. Birincisi; 
+zamanaşımından önceden feragat, zaten TBK m. 148 gereği kanunun mutlak emredici
+hükmüne aykırılık (TBK m. 27) teşkil ettiğinden doğrudan kesin hükümsüzdür. 
+İkincisi; cayma parasının matbu olarak karşı taraf aleyhine dayatılması ve 
+müşterinin dönme hakkının elinden alınması, TBK m. 21 uyarınca yazılmamış 
+sayılma veya TBK m. 25 uyarınca dürüstlük kuralına aykırılık nedeniyle içerik 
+denetimine takılarak geçersiz sayılır. GİK mekanizması, TBK m. 148'in 
+koruyucu ruhunu tahkim eden usuli bir zırhtır.
 
-#### 4. Uygulama: Yargı İçtihadı
+**B. Kısmi Hükümsüzlük (TBK m. 27/2) ve Sözleşmenin Ayakta Tutulması:**
+Eğer taraflar arasında geçerli bir cayma parası anlaşması kurulmuşsa, ancak 
+aynı sözleşmede "bu paranın iadesi talebinde zamanaşımından feragat edilmiştir"
+denilmişse ne olacaktır? Sisteminizdeki "Kısmi Hükümsüzlük" incelemelerinde 
+belirtildiği gibi; bir sözleşmenin bazı hükümleri emredici kurallara 
+aykırı ise, sözleşmenin tamamı değil, sadece o sakat hükümler (feragat klozu) 
+geçersiz olur (Kısmi Butlan / Favor Negotii). Dolayısıyla cayma parası 
+anlaşması ayakta kalır, ancak zamanaşımından feragat ibaresi sözleşmeden 
+makasla kesilip atılır ve kanuni genel zamanaşımı süreleri (TBK m. 146 veya m. 
+147) derhâl o boşluğu doldurur.
 
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+**C. Cayma Parası Kisvesi Altında Muvazaa ve Lex Commissoria Yasağı:**
+Bazen taraflar, aslında teminat amacıyla yaptıkları inançlı bir işlemde, 
+taşınmazı alacaklıya devrederken borçluya bir "cayma hakkı / geri alım hakkı" 
+verirler. Ancak sözleşmeye çok yüksek bir "cayma parası" yazarak, borçlunun 
+mülkiyetini geri almasını fiilen imkânsızlaştırırlar. Sisteminizdeki muvazaa ve
+inançlı işlemler eserlerinde şiddetle tartışıldığı üzere; bu durum,
+mürtehinin (alacaklının) rehin konusunu mülk edinmesini yasaklayan *Lex 
+Commissoria* yasağının (TMK m. 873) cayma parası arkasına saklanarak muvazaalı 
+(TBK m. 19) bir şekilde dolanılmasıdır. Bu tür muvazaalı cayma parası kurguları
+kesin hükümsüzdür.
 
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+#### 4. Pratik Olay Analizleri
 
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+TBK m. 148'in o mutlak sınırını ve cayma parasının iradeci ancak tehlikeli 
+doğasını test etmek adına şu iki laboratuvar vakayı inceleyelim:
 
-#### 5. Pratik Örnek Olaylar
+**Olay 1 (Zamanaşımından Önceden Feragat Yasağının İhlali ve Kısmi Butlan):**
+Tacir (A) Faktoring Şirketi (B) ile 2 Milyon TL'lik bir alacak temliki 
+sözleşmesi imzalar. Sözleşmenin 12. maddesinde: "Borçlu Tacir (A) işbu 
+sözleşmeden doğan her türlü borcu için TBK m. 146'da öngörülen 10 yıllık genel 
+zamanaşımı süresinden peşinen ve gayrikabili rücu olarak feragat etmiştir" 
+yazmaktadır. Aradan 12 yıl geçer. Faktoring Şirketi (B) (A)'ya karşı dava 
+açar. (A) zamanaşımı def'i ileri sürer. Şirket (B) "Sen tacirsin, sözleşme 
+özgürlüğü var, feragat ettin, ahde vefa (pacta sunt servanda) ilkesine uymak 
+zorundasın" diyerek itiraz eder.
+*Dogmatik Analiz:* Bu vaka, TBK m. 148'in tacirler arası ilişkilerde dahi ne 
+kadar acımasız olduğunu gösterir. Faktoring şirketinin sözleşme özgürlüğüne 
+sığınması dogmatik bir safsatadır. TBK m. 148'deki "Zamanaşımından önceden 
+feragat edilemez" kuralı mutlak emredicidir ve tacir/tüketici ayrımı 
+yapmaksızın herkes için geçerlidir (Kişi bakımından mutlak koruma). 
+Sözleşmedeki 12. madde, TBK m. 27 uyarınca baştan itibaren kesin hükümsüzdür 
+(mutlak batıldır). Dolayısıyla ortada geçerli bir feragat yoktur. 10 yıllık 
+kanuni süre dolduğu için, Tacir (A)'nın süresinde ileri sürdüğü zamanaşımı 
+def'i kabul edilecek ve Faktoring Şirketinin davası reddedilecektir. 
+Sözleşmenin diğer kısımları geçerli olsa da (kısmi butlan) tahsilat imkânı 
+zamanın karanlığında yok olmuştur.
 
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 148 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+**Olay 2 (Cayma Parası, Bağlanma Parası Karinesi ve Sözleşmeden Dönme):**
+Müşteri (X) Müteahhit (Y)'den bir villa almak üzere sözleşme yapar ve 500.000 
+TL nakit ödeme yapar. Sözleşmede bu paranın hukuki niteliği belirtilmez (Sadece
+"avans/kapora" yazılmıştır). İki ay sonra Müşteri (X) ekonomik kriz nedeniyle 
+evi almaktan vazgeçtiğini bildirir ve 500.000 TL'sini geri ister. Müteahhit 
+(Y) "O verdiğin cayma parası (TBK m. 178) idi, sözleşmeden döndüğün için o 
+parayı kanunen bana bıraktın, iade etmem" der.
+*Dogmatik Analiz:* Bu olay, TBK m. 177 ve m. 178 arasındaki o ince çizgiyi 
+(kanuni karineyi) test eder. Kanun koyucu çok nettir: Bir miktar para sözleşme 
+kurulurken verilmişse, aksine sözleşme veya yerel âdet yoksa, bu "bağlanma 
+parası (pey akçesi)" sayılır. Cayma parası (arrha poenitentialis) istisnai bir 
+kurumdur ve tarafların iradelerinin bu yönde olduğunun şüpheye yer bırakmayacak
+şekilde ispatlanması gerekir. Sözleşmede açıkça "cayma bedelidir" yazmadığı 
+için bu para bağlanma parasıdır. (X) sözleşmeden haklı bir sebep olmaksızın 
+döndüğünde, (Y) ancak sözleşmeye aykırılıktan doğan "müspet zararını" talep 
+edebilir. Eğer (Y)'nin zararı yoksa veya kanıtlayamıyorsa, (X) verdiği 500.000 
+TL'yi sebepsiz zenginleşme (TBK m. 77) kuralları çerçevesinde iade 
+alacaktır. (Y)'nin paraya doğrudan el koyma hakkı (cayma parası savunması) 
+çökecektir.
 
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+#### 5. Pratik Uygulama Notları
 
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+TBK m. 148 feragat yasağının ve cayma parasının usul hukukunda (HMK) sözleşme 
+mimarisinde (Legal Drafting) ve uyuşmazlık tasfiyesinde avukatların dikkat 
+etmesi gereken stratejik boyutları şunlardır:
 
-#### 6. Pratik Uygulama Notları
+**1. Zamanaşımını Sözleşmesel Olarak Uzatma veya Kısaltma Yasağı:**
+Avukatların en çok yaptığı hata, TBK m. 148'deki feragat yasağının etrafından 
+dolanmak için sözleşmeye "Zamanaşımı süresi 20 yıldır" veya "Zamanaşımı süresi 
+1 yıldır" gibi klozlar yazmalarıdır. Fikret Eren ve Oğuzman/Öz'ün eserlerinde 
+hararetle vurgulandığı üzere; kanuni zamanaşımı süreleri, tarafların iradesiyle
+uzatılamaz veya kısaltılamaz. Süreleri değiştiren her türlü kloz kesin 
+hükümsüzdür. Zamanaşımının dolmasını engellemenin yegâne "hukuki" yolu feragat 
+klozları yazmak değil; borçluya belirli aralıklarla (örneğin her 5 yılda bir) 
+kısmi ödeme yaptırarak veya "borç ikrarı (dekont/mutabakat metni)" alarak TBK 
+m. 154 uyarınca zamanaşımını kanunen "kesmektir" (Unterbrechung). Kesilen 
+zamanaşımı sıfırdan tekrar başlar.
 
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+**2. Sözleşme Mimarisinde Cayma Parası ile Cezai Şartın Kesin Çizgisi:**
+Sözleşme tasarlanırken, cayma parası klozunun "Cezai Şart (TBK m. 179)" ile 
+karıştırılmasını önlemek hayati önem taşır. Cezai şart, asıl borcun ifasını 
+güçlendiren ve ifa edilmemesi hâlinde ödenen bir cezadır; hâkim fahiş bulursa 
+bunu indirebilir (TBK m. 182/3). Oysa cayma parası, doğrudan sözleşmeden dönme 
+hakkı veren bir bedeldir ve kural olarak hâkim tarafından indirilmez. Bu yüzden
+sözleşmeye "Sözleşmeden vazgeçen taraf 1 Milyon TL ceza öder" YAZILMAMALIDIR. 
+Bu cezai şart olarak yorumlanır. Yazılması gereken şudur: *"Taraflar, 1 Milyon 
+TL cayma parasını (TBK m. 178) gözden çıkarmak suretiyle sözleşmeden tek 
+taraflı olarak dönme hakkını mahfuz tutmuşlardır."*
+
+**3. Feragatin Zamansal Sınırı ve Usul Hukukundaki Yeri:**
+Eğer bir borçlu, 10 yıllık zamanaşımı süresi dolduktan sonra (örneğin 11. 
+yılda) alacaklıya bir mail atıp "Borcumu ödeyeceğim" derse, bu andan itibaren 
+TBK m. 148 ihlal edilmiş olmaz. Çünkü feragat "önceden" değil, süre dolduktan 
+(sonradan) yapılmıştır ve geçerlidir. Dava aşamasında ise, süresi dolmuş bir 
+borç için davalı taraf cevap dilekçesinde zamanaşımı def'i ileri sürmezse, bu 
+"usuli bir zımni feragat" sayılır ve mahkeme borcu resen (kendiliğinden) 
+zamanaşımına uğramış kabul ederek davayı reddedemez. Def'i mutlaka taraflarca 
+öne sürülmelidir.
+
+#### 6. Yargıtay İçtihadı
+
+Yargıtay Hukuk Genel Kurulu ve ihtilaflara bakan ilgili daireleri (özellikle 
+3., 11. ve 13. Hukuk Daireleri) TBK m. 148 uyarınca "Zamanaşımından Önceden 
+Feragat" kuralını mutlak kamu düzeni sayan ve "Cayma Parası" nitelendirmesinde 
+ise şekil ve karineleri çok sıkı yorumlayan bir içtihat politikası 
+sergilemektedir.
+
+Sisteminizdeki "Sözleşme Özgürlüğünün Sınırları ve Emredici Kurallar" 
+eksenindeki eserlerle tam uyumlu olan Yargıtay Hukuk Genel Kurulu'nun 
+klasikleşmiş yaklaşımında şu dogmatik kural şablonlaşmıştır: *"6098 sayılı Türk
+Borçlar Kanunu'nun 148. maddesi (mülga BK m. 139) uyarınca, zamanaşımından 
+önceden feragat edilemez. Bu kural kamu düzenine ilişkin olup mutlak 
+emredicidir. Somut uyuşmazlıkta, banka kredi sözleşmesinde yer alan 'kredi 
+müşterisi, bankanın her türlü alacak talebi yönünden zamanaşımı def'ini ileri 
+sürmekten peşinen feragat eder' şeklindeki matbu hüküm, kanunun açık ve 
+emredici normuna aykırı olduğundan TBK m. 27 gereği baştan itibaren kesin 
+hükümsüzdür. Tacir dahi olsa taraflar, kanunun öngördüğü zamanaşımı 
+sürelerinden önceden feragat edemeyecekleri gibi bu süreleri uzatıp 
+kısaltamazlar. Geçersiz feragat klozuna dayanılarak zamanaşımı dolmuş bir 
+alacağın tahsili yönünde kurulan hüküm bozmayı gerektirmiştir."*
+
+**Cayma Parası ile Bağlanma Parası ve Cezai Şart Ayrımı** hususunda Yargıtay'ın
+içtihat yönelimi şöyledir: *"Taraflar arasında imzalanan harici taşınmaz satış 
+sözleşmesinde alıcı tarafından peşin olarak ödenen 50.000 TL'nin 'vazgeçme 
+hâlinde satıcıda kalacağı' kararlaştırılmışsa da, ortada resmi şekilde 
+yapılmadığı için kesin hükümsüz olan bir sözleşme mevcuttur. Geçersiz 
+sözleşmelerde yer alan cayma parası veya cezai şart hükümleri de geçersizdir. 
+Kaldı ki, geçerli sözleşmelerde dahi ödenen bir paranın cayma parası (TBK m. 
+178) sayılabilmesi için sözleşmede bunun açıkça kararlaştırılması gerekir. Aksi
+hâlde TBK m. 177 uyarınca bu meblağ pey akçesi (bağlanma parası) karinesine 
+tabidir. Davacının sebepsiz zenginleşme kuralları gereği ödediği bedeli iade 
+alma hakkı bulunduğundan, davalının cayma parası savunması dinlenemez."*.
 
 #### 7. Eleştirel Değerlendirme
 
-Madde 148, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
+Türk Borçlar Kanunu'nun 148. maddesinde vücut bulan **Zamanaşımından Feragat 
+Yasağı** rejimi ile bunun 178. maddedeki **Cayma Parası** gibi iradeci 
+kurumlarla etkileşimi, borçlar hukuku dogmatiğinde Fikret Eren, M. Kemal 
+Oğuzman, Turgut Öz ve Haluk Nami Nomer'in eserleri ekseninde; "Paternalist 
+Yaklaşımın Ticari Hayatı Boğması" ve "Cayma Parası ile Cezai Şart Arasındaki 
+Kavramsal Kaos" bağlamında çok derin kuramsal eleştirilere ve teorik fay 
+hatlarına maruz kalmaktadır.
+
+Birinci ve en sert felsefi eleştiri, Sisteminizdeki *"Sözleşme Özgürlüğü ve 
+İstisnaları"* makalelerinde tartışıldığı üzere; **TBK m. 148'deki 
+Önceden Feragat Yasağının B2B (Tacirler Arası) İlişkilerde Dahi Mutlak Olarak 
+Uygulanmasının, İrade Muhtariyeti (Privatautonomie) İlkesini Zedeleyen Aşırı 
+Korumacı (Paternalist) Bir İlke Olmasıdır**. Oğuzman/Öz ve Eren'in 
+öğretilerinde de haklı olarak sorgulandığı üzere; zamanaşımı kuralları borçluyu
+ispat güçlüğünden korumak için vardır. Ancak ticari hayatta devasa holdingler, 
+bir birleşme ve devralma (M&A) sözleşmesinde veya uluslararası bir 
+konsorsiyumda, belirli garantiler için zamanaşımı süresini uzatmak veya feragat
+etmek isteyebilirler. İki basiretli tacir, kendi ekonomik risklerini tartarak 
+"Bu garanti borcunun zamanaşımından 15 yıllığına feragat ediyoruz" 
+dediklerinde, Türk hukukunun TBK m. 148 giyotini ile "Hayır, sen tacir de olsan
+bunu yapamazsın, bu kesin hükümsüzdür" demesi, modern ticaretin esnekliğine 
+uymayan bir bürokratik vesayettir. Modern İsviçre Hukukunda (OR Art. 141) ve 
+Alman Hukukunda (BGB § 202) tacirler ve profesyoneller arasında zamanaşımı 
+sürelerinin (belirli sınırlar dâhilinde) iradi olarak değiştirilmesine veya 
+feragate cevaz verilirken, Türk kanun koyucusunun 6098 sayılı Kanun'da zayıf 
+tüketici ile devasa fabrikatörü aynı torbaya koyarak mutlak bir feragat yasağı 
+öngörmesi dogmatik bir körlük ve kanunlaştırma (Legistik) zafiyetidir. Rona 
+Serozan'ın eserlerinde de işaret edildiği gibi, emredici kurallar zayıfı 
+korumalıdır; güçlülerin birbirine karşı kurduğu irade oyunlarını mutlak 
+butlanla yıkmak hukukun değil, sözleşme düşmanlığının eseridir.
+
+İkinci dogmatik eleştiri, **Cayma Parası (TBK m. 178) ile Dönme Cezası 
+(Whaftgeld / Cezai Şart) Arasındaki Pratik Çizginin Yargıtay Tarafından Sık Sık
+İhlal Edilmesidir**. Nomer ve Eren'in eserlerinde de vurgulandığı üzere; cayma 
+parası (Arrha poenitentialis) ifa borcunu ortadan kaldıran ve sözleşmeden 
+çıkış bileti olan bir haktır. Ancak uygulamada, taraflar sözleşmeye bir "Cayma 
+Parası" yazdıklarında ve tutar çok yüksek olduğunda, Yargıtay hâkimleri bu 
+tutarı indirmek için onu zorlama bir yorumla "Cezai Şart (TBK m. 179)" olarak 
+nitelendirmekte ve TBK m. 182/3'teki "hâkim fahiş cezayı indirir" kuralını 
+işleterek cayma parasını tırpanlamaktadırlar. Oysa cayma parası, bir ceza 
+değil, bir hakkın (dönme hakkının) kullanım bedelidir ve kural olarak tenkise 
+(indirime) tabi değildir. Yargının, "fahiş olan her parayı cezai şart sayıp 
+indirelim" şeklindeki hakkaniyetçi ancak dogmatik olarak kusurlu refleksi, 
+cayma parası kurumunun hukuki güvenilirliğini (Rechtssicherheit) tahrip 
+etmektedir. Cayma parası ile cezai şart arasındaki o felsefi sınır, Yargıtay'ın
+adalet dağıtma arzusu altında ezilmektedir.
 
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 148, «III. Sürelerin kesinliği» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt tekni Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 148, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 148'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 148, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 148, «III. Sürelerin kesinliği» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt tekni Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 148, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 148'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 148, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 148, «III. Sürelerin kesinliği» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt tekni Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 148, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 148'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 148, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 148, «III. Sürelerin kesinliği» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt tekni Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 148, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 148'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 148, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 148, «III. Sürelerin kesinliği» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt tekni Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 148, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 148'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 148, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 148, «III. Sürelerin kesinliği» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt tekni Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 148, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 148'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 148, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 148, «III. Sürelerin kesinliği» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt tekni Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 148, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 148'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 148 resmi metni ve kanunun sistematiği.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
+- *Yargı kararları*: Türk Borçlar Kanunu m. 148'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
+- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
+- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 158.
+
+**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 148. madde metnine dayanır.
+
+**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
+
+**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.

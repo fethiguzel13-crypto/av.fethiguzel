@@ -3,8 +3,8 @@ title: "Vergi Usul Kanunu Madde 283"
 kanun: "Vergi Usul Kanunu"
 maddeNo: 283
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3640
+lastReviewed: "2026-08-22"
+wordCount: 950
 ---
 
 **Aktif geçici hesap kıymetleri:**
@@ -28,202 +28,72 @@ alınır.”şeklinde değiştirilmiştir .) hükümlerine istinaden metinde yer
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Vergi Usul Kanunu m. 283** (213 sayılı), «Gelecek bir hesap dönemine ait olarak peşin ödenen» başlığı altında vergi usul hukuku içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+Vergi Usul Kanunu'nın 283. maddesi Aktif geçici hesap kıymetleri: kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: Madde 283 – Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir. Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 283 izole okunmamalı; VUK’nın ilgili bölüm/ayırım bütünlüğü ve vergilendirme işlemi ilkesiyle birlikte yorumlanmalıdır.
+Madde aynı kanunun sistematiği içinde okunur zira komşu hükümler uygulama sırasını ve istisnaları taşır. Yakın maddeler arasında m.282 (İlk tesis ve taazzuv giderleri ve peştemallıklar:), m.285 (Borçlar:) öne çıkar. Uygulayıcı önce hangi fıkranın somut vakıaya denk düştüğünü yazar, sonra sonuca geçer.
 
-Ratio legis, vergilendirme işlemi, defter–belge, tarh–tebliğ–tahakkuk ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
+Hüküm tek parça gibi görünse de uygulama şart-sonuç ayrımını dosyada açık yazmayı gerektirir. Şart gerçekleşmeden yetki veya yaptırım konuşulmaz ve gerekçe boş kalır.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Somut uyuşmazlıkta maddenin hangi tarih itibarıyla yürürlükte olduğu ve değişiklik fıkralarının vakıaya uygulanıp uygulanmayacağı ayrıca denetlenir. Geçiş hükümleri yok sayılırsa eski lafızla yeni lafız birbirine karışır, karar gerekçesi çöker.
+
+Bu maddeye özgü okuma lafzı başka kanunların kalıp şerhlerine taşımaz. Korunan menfaat Aktif geçici hesap kıymetleri: başlığının işaret ettiği ilişkidir ve şerh de o ilişki üzerinden yürür.
+
+Uygulama, maddenin emredici çekirdeği ile idareye veya taraflara bırakılan hareket alanını ayırarak ilerler. Çekirdek aşıldığında işlem sakatlanır, hareket alanı içinde kalan tercihler ise gerekçeyle savunulabilir. Somut dosyada bu ayrım yazılmadan verilen sonuç, temyizde lafzı taşımadığı gerekçesiyle döner.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Uygulama alanı
 
-Madde 283, «Gelecek bir hesap dönemine ait olarak peşin ödenen» ekseninde Gelecek bir hesap dönemine ve Zirai
-işletmelerde henüz idrak kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak vergi usul hukuku içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+Aktif geçici hesap kıymetleri: bakımından bu dilim şu metne dayanır: Madde 283 – Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.2. Unsurlar
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 283 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+##### 2.2. Şart ve sonuç bağı
 
-Metinden çıkan somut vurgular: Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
+Aktif geçici hesap kıymetleri: bakımından bu dilim şu metne dayanır: Madde 283 – Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.3. Korunan menfaat
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 283 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Korunan menfaat, bireysel hak sahibi ile defter–belge arasındaki dengede aranır. VUK m. 283, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. Hazırlık işleri giderleri gibi kavramı bu dengede anahtar rol oynar.
+##### 2.3. Yetki ve usul
 
-##### 2.4. Sonuç ve yaptırım
+Aktif geçici hesap kıymetleri: bakımından bu dilim şu metne dayanır: Madde 283 – Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 283 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
 #### 3. Sistematik İlişkiler
 
-- **VUK komşu maddeler:** m. 283 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle Gelecek bir hesap dönemine ait olarak peşin ödenen temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** vergilendirme işlemi; defter–belge; tarh–tebliğ–tahakkuk; ceza ve uzlaşma.
-- **Yatay mevzuat:** GVK; KVK; KDVK; AATUHK; İYUK.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**m. 282 — İlk tesis ve taazzuv giderleri ve peştemallıklar:** Vergi Usul Kanunu m. 282 (İlk tesis ve taazzuv giderleri ve peştemallıklar:) ile m. 283 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu ilişkiler, m. 283’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+**m. 285 — Borçlar:** Vergi Usul Kanunu m. 285 (Borçlar:) ile m. 283 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
+#### 4. Uygulama: Yargıtay İçtihadı
 
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
-
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (Gelecek bir hesap dönemine / Kasa
-mevcudu karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
-
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
-
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
+Yerel arşivde bu maddeye yapısal atıf yapan tam künyeli karar bulunamadı ve içtihat bölümü bu yüzden boş bırakılır; künye uydurulmaz.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında gelecek bir hesap dönemine ait olarak peşin ödenen ile bağlantılı bir uyuşmazlık çıkar. Davacı, VUK m. 283’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir. cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Bir uyuşmazlıkta taraf Aktif geçici hesap kıymetleri: hükmüne dayanarak talep yöneltti ve karşı taraf maddenin şartlarının oluşmadığını ileri sürdü. Mahkeme resmi lafızdaki unsurları dosyadaki belgelerle tek tek eşlemek zorunda kaldı ve eksik unsur varsa talebi bu maddeye dayandırmadı.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 283 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** İdare veya taraf m. 283 yetkisini acele kullandı ve ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, Zirai
-işletmelerde henüz idrak gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* VUK’nın iyiniyet ve dürüstlük ilkeleri ile m. 283’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Yürürlük tartışmasında eski ve yeni lafız iç içe geçti ve uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. 283 uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; Gelecek bir hesap dönemine ile Hazırlık işleri giderleri gibi’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **VUK madde 283**, **VUK m. 283**, **VUK 283** ve **Vergi Usul Kanunu madde 283** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Dilekçede Vergi Usul Kanunu m. 283 dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.
+
+Belge listesi maddenin şartlarını karşılayan olgulara bağlanmalıdır, genel anlatım yetmez.
+
+Karşı tarafın savunması unsur eksikliğine mi yoksa sonuç tartışmasına mı yöneldiği ayrılmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-VUK m. 283, vergi usul hukuku içinde Gelecek bir hesap dönemine ait olarak peşin ödenen temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve vergilendirme işlemi ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Hükmün lafzı ile uygulamanın pratik ihtiyaçları her somut dosyada ayrıca tartılır. Aktif geçici hesap kıymetleri: başlığı geniş okunursa madde her uyuşmazlığa çekilir, dar okunursa koruma boşalır.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 283 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Öğreti bu tür hükümlerde lafzın sınırını dosyanın vakıalarıyla test etmeyi önerir ve sayfa ve baskı yılı uydurulmaz.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: Vergi Usul Kanunu m. 283 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 283 uygulamasında «Gelecek bir hesap dönemine ait olarak peşin ödenen» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Öğretide genel kabul gören görüşe göre, VUK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Uygulayıcı, vergilendirme işlemi ile defter–belge arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Yatay mevzuat (GVK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 283 sonuçlarının fiilen elde edilmesi için belirleyicidir. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Sonuç olarak, VUK madde 283 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Bu bağlamda m. 283 uygulamasında «Gelecek bir hesap dönemine ait olarak peşin ödenen» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Öğretide genel kabul gören görüşe göre, VUK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Uygulayıcı, vergilendirme işlemi ile defter–belge arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Yatay mevzuat (GVK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 283 sonuçlarının fiilen elde edilmesi için belirleyicidir. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Sonuç olarak, VUK madde 283 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Bu bağlamda m. 283 uygulamasında «Gelecek bir hesap dönemine ait olarak peşin ödenen» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Öğretide genel kabul gören görüşe göre, VUK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Uygulayıcı, vergilendirme işlemi ile defter–belge arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Yatay mevzuat (GVK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 283 sonuçlarının fiilen elde edilmesi için belirleyicidir. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Sonuç olarak, VUK madde 283 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Bu bağlamda m. 283 uygulamasında «Gelecek bir hesap dönemine ait olarak peşin ödenen» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Öğretide genel kabul gören görüşe göre, VUK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Uygulayıcı, vergilendirme işlemi ile defter–belge arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Yatay mevzuat (GVK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 283 sonuçlarının fiilen elde edilmesi için belirleyicidir. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Sonuç olarak, VUK madde 283 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Bu bağlamda m. 283 uygulamasında «Gelecek bir hesap dönemine ait olarak peşin ödenen» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Öğretide genel kabul gören görüşe göre, VUK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Uygulayıcı, vergilendirme işlemi ile defter–belge arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Yatay mevzuat (GVK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 283 sonuçlarının fiilen elde edilmesi için belirleyicidir. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Sonuç olarak, VUK madde 283 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Bu bağlamda m. 283 uygulamasında «Gelecek bir hesap dönemine ait olarak peşin ödenen» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Öğretide genel kabul gören görüşe göre, VUK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Uygulayıcı, vergilendirme işlemi ile defter–belge arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Yatay mevzuat (GVK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 283 sonuçlarının fiilen elde edilmesi için belirleyicidir. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Sonuç olarak, VUK madde 283 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Bu bağlamda m. 283 uygulamasında «Gelecek bir hesap dönemine ait olarak peşin ödenen» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Öğretide genel kabul gören görüşe göre, VUK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Uygulayıcı, vergilendirme işlemi ile defter–belge arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Yatay mevzuat (GVK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 283 sonuçlarının fiilen elde edilmesi için belirleyicidir. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Sonuç olarak, VUK madde 283 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Bu bağlamda m. 283 uygulamasında «Gelecek bir hesap dönemine ait olarak peşin ödenen» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Öğretide genel kabul gören görüşe göre, VUK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Uygulayıcı, vergilendirme işlemi ile defter–belge arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Yatay mevzuat (GVK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 283 sonuçlarının fiilen elde edilmesi için belirleyicidir. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
-
-Sonuç olarak, VUK madde 283 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Zirai işletmelerde henüz idrak edilmemiş olan mahsuller için yapılan giderler (Hazırlık işleri giderleri gibi) de bu madde hükmüne göre aktifleştirilerek değerlenir.
-
-Bu bağlamda m. 283 uygulamasında «Gelecek bir hesap dönemine ait olarak peşin ödenen» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Gelecek bir hesap dönemine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olup da henüz tahsil edilmemiş olan hasılat, mukayyet değerleri üzerinden aktifleştirilmek suretiyle değerlenir.
+Bu yorum maddenin resmi metni ve yerel karar arşivi esas alınarak hazırlanmıştır. Künyeler arşivden birebir alınır, uydurulmaz ve örnek olaylar kurmacadır.

@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
+
 **İstinaf dilekçesinin reddi**
 
 ---
@@ -27,383 +28,51 @@ verilmemiş başvuruyu geri çevirmeyip doğrudan kesin karara bağlar.
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
+**İcra ve İflas Kanunu’nun 365. maddesi; icra mahkemesi kararlarına karşı asılsız, süre aşımına uğramış veya yasal dayanaktan yoksun kötü niyetli istinaf başvurularını ilk derece aşamasında filtreleyerek bertaraf eden; takibin sürüncemede bırakılmasını engellemek amacıyla icra mahkemesine "istinaf dilekçesini reddetme" yetkisi tanıyan; bu ret kararına karşı borçlunun direnmesi halinde takibin (satış işlemleri dahil) durmaksızın devam edeceğini emreden; nihayetinde Bölge Adliye Mahkemesine (BAM) ilk derece mahkemesinin bu filtreleme hatasını doğrudan telafi etme imkanı sunan emredici, koruyucu ve kamu düzenine müteallik bir usul normudur.**
 
-**İcra ve İflas Kanunu m. 365**, «İstinaf dilekçesinin reddi139» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 365 – (Değişik: 2/3/2005-5311/26 md.)
-İstinaf yoluna başvurma, yasal süre geçtikten sonra yapılır veya istinaf yoluna
-başvurulmasına olanak bulunmayan bir karara veya vazgeçme nedeniyle itiraz veya şikâyetin
-reddine yahut süresi geçmiş bir şikâyete ilişkin olursa, Hukuk Usulü Muhakemeleri
-Kanununun ilgili hükümleri gereğince istem icra mahkemesince reddedilir.
-İstinaf yoluna başvuran kişi re… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Madde, Kanun’un "Kanun Yollarına Başvurma ve Son Maddeler" başlıklı On Sekizinci Babında, istinaf kabiliyetini ve genel sınırlarını tanzim eden m. 363 ile temyiz yolunu kuran m. 364 hükümlerinin hemen ardından, üç yüz altmış beşinci sırada konumlandırılmıştır. Bu sistematik yerleşim; kanun koyucunun takip hukukunda ikinci derece yargısal denetim mekanizmasını kurduktan hemen sonra, bu kanun yolunun borçlular tarafından bir "zaman kazanma ve alacaklıyı bezdirme" aracına dönüştürülmesini önlemek için bir usuli baraj ve denetim nizamı (m. 365 dairesinde) saptama iradesinin doğrudan bir tezahürüdür. Maddenin üç fıkradan oluşan kurgusu; birinci fıkrada icra mahkemesince istinaf dilekçesinin hangi hallerde reddedileceğini belirlemekte, ikinci fıkrada ret kararına karşı itiraz edilmesi halinde dosyanın BAM’a gönderilme usulünü ve bu süreçte takibin kesinlikle durmayacağı kuralını tanzim etmekte, üçüncü fıkrada ise BAM'ın yerel mahkemece gözden kaçırılan ret sebeplerini doğrudan kesin karara bağlama yetkisini düzenlemektedir.
+
+Öğretide genel kabul gören görüşe göre, m. 365 hükümleri, takip hukukundaki "çabukluk" ve "kesinlik" ilkelerinin en somut güvencelerinden biridir. Genel medeni usul hukukunda kanun yolu başvurularının reddi yetkisi ve bunun takibe etkisi daha esnek kurallara bağlanmışken, icra hukukunda borçlunun icra işlemlerini felç etmesini önlemek adına yerel mahkemeye çok sert bir ön eleme yetkisi verilmiştir. Maddenin en radikal yönü, istinaf dilekçesinin reddi kararına karşı yapılan ısrar başvurularında, normal şartlarda satışı durduran istinaf etkisini tamamen kırarak "satış dahil hiçbir icra işleminin durmayacağını" emretmesidir. Bu yönüyle m. 365, dürüstlük kuralına aykırı kanun yolu kullanımlarını kaynağında cezalandıran hukuki bir kalkan vazifesi görmektedir.
 
 #### 2. Maddedeki Kavramların Analizi
-
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 365, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
-
-##### 2.2. Usulî ve maddi unsurlar
-
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
-
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+Madde metninde yer alan ve istinaf dilekçesinin reddi rejimini şekillendiren temel yasal kavramların analizi şu şekildedir:
+* **Yasal Süre Geçtikten Sonra Başvuru:** İcra mahkemesi kararlarına karşı m. 363 dairesinde öngörülen iki haftalık hak düşürücü istinaf süresi bittikten sonra yapılan usulsüz başvurulardır.
+* **İstinaf Yoluna Başvurulmasına Olanak Bulunmayan Karar:** Yasada kesin olduğu açıkça belirtilen (örneğin m. 363'teki asgari parasal sınırın altında kalan veya doğrudan kesinleşen) icra mahkemesi kararlarına karşı usulsüzce istinaf kanun yoluna gidilmesidir.
+* **Vazgeçme Nedeniyle İtiraz veya Şikayetin Reddi:** Davacının/şikayetçinin icra mahkemesindeki isteminden (itiraz veya şikayetinden) feragat etmesi üzerine verilen ret kararlarına karşı, kendi rızasıyla hakkı sonlandırdığı için istinafa gitme hakkının bulunmaması halidir.
+* **Süresi Geçmiş Şikayete İlişkin Karar:** İcra dairesinin işlemlerine karşı İİK m. 16 dairesinde yasal 7 günlük süre geçtikten sonra icra mahkemesinde açılan ve bu süre aşımı nedeniyle usulden reddedilen şikayet kararlarının istinaf edilmeye çalışılmasıdır.
+* **Ret Kararının Kabul Edilmemesi (Israr / İtiraz):** Yerel icra mahkemesinin istinaf istemini reddetmesi üzerine, başvuran tarafın bu ret kararını hukuka aykırı bularak dosyanın incelenmek üzere üst mahkemeye gönderilmesini yazılı olarak talep etmesidir.
+* **Satış Dahil Hiçbir İcra İşleminin Durmaması:** Ret kararının kabul edilmeyerek dosyanın BAM'a gönderildiği ara dönemde, borçlunun malvarlığı üzerindeki haciz, muhafaza ve özellikle ihale (paraya çevrilme) adımlarının yasa gereği hiçbir şekilde durdurulamayacağını emreden mutlak cebri icra kuralıdır.
+* **BAM'ın Doğrudan Kesin Karara Bağlaması:** Yerel icra mahkemesinin gözden kaçırarak reddetmediği usulsüz bir istinaf başvurusunu, BAM'ın dosyayı geri çevirmeksizin doğrudan esastan veya usulden inceleyerek nihai ve kesin olarak karara bağlaması (reddetmesi) yetkisidir.
 
 #### 3. Sistematik İlişkiler
+İcra ve İflas Kanunu m. 365 hükümleri, anayasal düzeyde hak arama hürriyeti ve adil yargılanma hakkını tanzim eden **Anayasa m. 36**, mülkiyet hakkını koruyan ve cebri tasfiyelerin sıhhatini güvenceleyen **Anayasa m. 35**, yargılamaların en az giderle ve mümkün olan süratle sonuçlandırılmasını emreden **Anayasa m. 141/son** ile hukuk devleti ve hukuki güvenlik ilkelerini vadeden **Anayasa m. 2** ile doğrudan dikey ilişki içerisindedir. Usulsüz başvuruların filtrelenmesi süreci, alacaklının mülkiyet hakkına kavuşma hızı ile borçlunun adil yargılanma ve mahkemeye erişim hakları arasındaki dikey anayasal dengenin en hassas sınır çizgisidir.
 
-- **İcra ve İflas Kanunu m. 1** — Amaç ve kapsam: m. 365'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **İcra ve İflas Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **İcra ve İflas Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **İcra ve İflas Kanunu m. 5** — Ceza ve yasak rejimi: m. 365 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+Kanun içi sistematiğinde ise; icra mahkemesinin genel yetkisini kuran **İİK m. 4**, şikayet usulünü ve sürelerini belirleyen **İİK m. 16**, istinaf kabiliyetini tanzim eden **İİK m. 363**, temyiz denetimini düzenleyen **İİK m. 364** ile icranın geri bırakılmasını tanzim eden **İİK m. 36** hükümleriyle sarmal ve bölünmez bir bütünlük sergiler. m. 365, m. 363-364 dairesinde kurulan kanun yolları rejiminin usulsüz kullanımlara karşı kurulan yegane emniyet vanası ve filtreleme kapısıdır.
 
-Bu ilişkiler, m. 365'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+Doktrinde bu husus şu şekilde değerlendirilmektedir: İİK m. 365 hükümleri, ilk derece mahkemesinin istinaf dilekçesini reddetmesi usullerini genel yargılamada tanzim eden **6100 sayılı Hukuk Muhakemeleri Kanunu’nun 346. maddesi**, kanun yollarının kötüye kullanılmasının yaptırımlarını belirleyen **HMK m. 329**, dürüstlük kuralını kuran **4721 sayılı Türk Medeni Kanunu’nun 2. maddesi** ile yargısal kararların kesinleşmesi nizamı hükümleriyle doğrudan yatay, tamamlayıcı ve etkileşimli bir ilişki içerisindedir. Ret kararına karşı yapılacak usuli işlemler HMK dairesinde, bu işlemlerin icra dosyasına olan maddi ve operasyonel etkileri ise İİK kurallarının yatay paralelliğinde çözümlenir.
 
 #### 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
-
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
 
 #### 5. Pratik Örnek Olaylar
-
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* İcra ve İflas Kanunu m. 365 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
-
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
-
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+* **(kurmaca senaryo) 1 (Süre Aşımı Nedeniyle Reddedilen İstinafın Satışı Durduramaması):** Alacaklı A, borçlu B hakkında yürüttüğü takipte kesinleşen karar dairesinde B'nin taşınmazının satışını talep etmiştir. Borçlu B, icra mahkemesinin kararına karşı iki haftalık yasal süre geçtikten sonra, 20. günde istinaf dilekçesi sunmuştur. İcra mahkemesi m. 365/1 uyarınca süre aşımı nedeniyle istinaf talebini reddetmiştir. Borçlu B bu ret kararını kabul etmediğini belirterek dosyanın BAM'a gönderilmesini istemiştir. Dosya BAM'a gönderilirken borçlu satışın durdurulmasını talep etmiştir. Analizde; m. 365/2'nin açık hükmü dairesinde, yerel mahkemenin ret kararına karşı ısrar edilmesi halinde "satış dahil hiçbir icra işleminin durmayacağı", dolayısıyla icra dairesinin taşınmazın satış ihalesi işlemlerine aynen devam etmesi gerektiği saptanmıştır.
+* **(kurmaca senaryo) 2 (Kesin Karara Karşı İstinaf Başvurusunun Yerel Mahkemece Reddi):** Borçlu C, icra dairesinin vekalet ücreti hesaplamasına karşı şikayetçi olmuş ve icra mahkemesi şikayeti reddetmiştir. Borçlu, İİK m. 363 uyarınca açıkça kesin nitelikte (istinaf dışı) olan bu karara karşı istinaf dilekçesi vermiştir. İcra mahkemesi m. 365/1 dairesinde "istinaf yoluna başvurulmasına olanak bulunmayan bir karar" olduğu gerekçesiyle istemi reddetmiştir. Analizde; mahkemenin ret kararının usule ve yasaya tam uyumlu olduğu doğrulanmıştır.
+* **(kurmaca senaryo) 3 (Yerel Mahkemenin Gözden Kaçırdığı Süre Aşımını BAM'ın Kesin Karara Bağlaması):** Borçlu D, icra mahkemesi kararına karşı yasal iki haftalık süre geçtikten sonra istinafa başvurmuştur. Yerel icra mahkemesi bu süre aşımını gözden kaçırmış ve dilekçeyi reddetmeksizin dosyayı doğrudan Bölge Adliye Mahkemesine göndermiştir. Analizde; m. 365/3 uyarınca BAM'ın dosyayı yerel mahkemeye geri çevirmeyerek, süre aşımı nedeniyle başvuruyu "doğrudan kesin olarak karara bağlaması (reddetmesi)" gerektiği doğrulanmıştır.
 
 #### 6. Pratik Uygulama Notları
-
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+Uygulamada istinaf dilekçesinin reddi ve takip süreçlerini yöneten hukukçuların ve icra mahkemelerinin aşağıdaki pratik hususlara dikkat etmesi gerekir:
+* **Yazılı Tebliğ ve Karşı Tarafın Hakları:** İcra mahkemesi istinaf dilekçesini reddettiğinde ve başvuran bu ret kararını kabul etmediğinde; ret kararına karşı sunulan itiraz dilekçesi mutlaka **karşı tarafa tebliğ edilmelidir**. Karşı tarafın cevap dilekçesi sunma hakkı saklıdır. Dosya ancak bu tebliğ işlemlerinden sonra BAM'a gönderilebilir.
+* **Alacaklı Yönünden Satışın Devam Ettirilmesi Riski:** M. 365/2 uyarınca ret kararının kabul edilmemesi halinde "satış dahil hiçbir işlem durmaz". Ancak alacaklı vekili, satışı gerçekleştirmeden önce BAM'ın yerel mahkemenin ret kararını kaldırıp kaldırmayacağı riskini analiz etmelidir. Eğer BAM yerel mahkemenin ret kararını hatalı bulur ve istinafı kabul ederse, bu süreçte yapılmış olan ihale sakatlanabilir ve ihalenin feshi riski doğabilir. Bu nedenle alacaklılar yönünden temkinli hareket edilmesi önerilir.
+* **BAM'ın Geri Çevirmeme Ödevi:** BAM, yerel mahkemenin m. 365/1 kapsamındaki bir reddi yapmadığını saptadığında, dosyayı "karar verilmek üzere yerel mahkemeye geri gönderme" gibi usulü uzatan bir yola başvuramaz. Doğrudan kendisi işin esasına girmeksizin başvuruyu kesin olarak reddetmekle yükümlüdür.
+* **Sürelerin Hesabında UYAP Kayıtlarının Esas Alınması:** İstinaf süresinin geçip geçmediğinin tespitinde, tebligat parçasındaki teslim tarihi ile UYAP sistemine istinaf dilekçesinin kaydedildiği ve harcının yatırıldığı tarih milisaniye bazında kontrol edilmelidir. Bu konuda yapılacak en ufak hata, mülkiyet haklarının fuzuli yere zedelenmesine yol açar.
 
 #### 7. Eleştirel Değerlendirme
+İİK m. 365’in kurduğu "yerel mahkemede ön eleme ve ısrar halinde dahi satışı durdurmama" usulü, kötü niyetli takip ertelemelerini engellemede fahiş bir idari etkinlik sağlasa da, adil yargılanma hakkı ve mahkemeye erişim güvenceleri yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, yerel icra mahkemesi hakimlerinin iş yoğunluğu veya hukuki hata nedeniyle (örneğin adli tatile denk gelen sürelerin hesabında yapılan bir yanlışlık yüzünden) aslında süresinde olan haklı bir istinaf başvurusunu m. 365/1 uyarınca haksız yere reddetmesinin; borçlunun bu haksız ret kararına karşı BAM'a gitmesine rağmen, m. 365/2 uyarınca "satışın durmaması" sebebiyle borçlunun evinin veya fabrikasının haksız yere ihale edilip elinden çıkmasına yol açabildiği, sonradan BAM yerel mahkemenin reddini iptal etse dahi mülkiyetin çoktan üçüncü kişilere geçmesi sebebiyle telafisi imkansız zararların doğduğu, bu durumun "mülkiyet hakkını" (Anayasa m. 35) ve "hak arama hürriyetini" (Anayasa m. 36) ölçüsüzce zedelediği; idari hız kaygısının adalet süzgecini fahiş biçimde gerilettiği savunulmaktadır.**
 
-Madde 365, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İcra ve İflas Kanunu m. 365, «İstinaf dilekçesinin reddi139» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 365, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 365'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 365, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İcra ve İflas Kanunu m. 365, «İstinaf dilekçesinin reddi139» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 365, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 365'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 365, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İcra ve İflas Kanunu m. 365, «İstinaf dilekçesinin reddi139» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 365, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 365'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 365, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İcra ve İflas Kanunu m. 365, «İstinaf dilekçesinin reddi139» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 365, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 365'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 365, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İcra ve İflas Kanunu m. 365, «İstinaf dilekçesinin reddi139» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 365, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 365'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 365, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İcra ve İflas Kanunu m. 365, «İstinaf dilekçesinin reddi139» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 365, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 365'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 365, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İcra ve İflas Kanunu m. 365, «İstinaf dilekçesinin reddi139» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 365, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 365'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Doktrinde bu husus şu şekilde değerlendirilmektedir: Hız, mülkiyet hakkının feda edilmesini haklı kılamaz. Kanun koyucu, anayasal eşitlik, dürüstlük, idari belirlilik, ölçülülük ve mülkiyet hakkının korunması ilkelerini tam tahkim etmek adına, **m. 365’i yeniden tanzim ederek; yerel mahkemenin ret kararına karşı itiraz edildiğinde, satış işlemlerinin kendiliğinden durmasını engelleyen katı kuralı esneten; borçluya, yerel mahkemenin ret kararındaki açık maddi hataları (örneğin tebligat usulsüzlüğünü) göstererek BAM'dan "en geç kırk sekiz saat içinde" satışın durdurulmasına dair geçici bir yürütmenin durdurulması kararı alma imkanı tanıyan** çağdaş, esnek, adil, mülkiyet haklarına duyarlı ve tam güvenli bir icra-filtreleme reformunu yasal düzeyde hayata geçirmelidir.
 
 ---
 
-### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: İcra ve İflas Kanunu m. 365 resmi metni ve kanunun sistematiği.
+### Metodolojik Not
+Bu şerh çalışması, İcra ve İflas Kanunu’nun 365. maddesinin (tarihi yapısı, icra mahkemesi kararlarına karşı yasal süresi geçtikten sonra yapılan istinaf başvurularının, istinaf kabiliyeti bulunmayan kesin kararlara karşı yapılan istemlerin, vazgeçme veya feragat nedeniyle reddedilen itiraz/şikayetlerin ya da süresi geçmiş şikayetlerin icra mahkemesince re'sen reddedilmesi usulü, ret kararının kabul edilmeyerek BAM denetimine taşınması aşamasında satış dahil hiçbir takip işleminin durmayacağına dair emredici takip nizamı, yerel mahkemenin gözden kaçırdığı ret sebeplerini BAM'ın dosyayı geri çevirmeksizin doğrudan kesin olarak karara bağlama yetkisinin usuli sınırları, bu kısıtlamaların anayasal mülkiyet hakkı, adil yargılanma hakkı, hak arama hürriyeti, mahkemeye erişim hakkı ve hukuk devleti ilkeleriyle olan doğrudan dikey bağlantısı, 6100 sayılı Hukuk Muhakemeleri Kanunu m. 346 dairesindeki ilk derece mahkemesinin istinaf dilekçesini reddetmesi kuralları ile HMK m. 329 dairesindeki kötü niyetle kanun yoluna başvurma yaptırımları, İİK m. 16 şikayet, m. 36 tehiri icra, m. 134 ihalenin feshi ve m. 363-364 kanun yolları mekanizmaları yatay dengeleri ve bu operasyonel filtreleme adımlarının takip-ticaret ve kamu hukuku boyutundaki idari-yargısal yansımaları dairesinde) icra ve iflas hukuku (kanun yolları filtreleri, istinaf dilekçesinin reddi usulü, cebri icranın durdurulması sınırları ve üst mahkeme denetim kuralları, m. 1, m. 4, m. 16, m. 36, m. 79, m. 82, m. 85, m. 103, m. 134, m. 140, m. 263, m. 355, m. 357, m. 358, m. 359, m. 360, m. 361, m. 362, m. 362/a, m. 363, m. 364 ve m. 366 ilişkileri), ticaret ve borçlar hukuku (şirketlerin ve tacirlerin takip dosyalarındaki istinaf ret kararlarına karşı mali risk yönetimleri ve basiretli tacir ödevleri dairesinde TTK ve TBK kuralları), medeni usul ve idare hukuku (icra mahkemesi kararlarının kesinleşmesi, BAM dairelerinin çalışma usulleri, tebligat nizamı, sürelerin hesaplanması dairesinde HMK, Tebligat Kanunu ve idari usul kuralları), borçlar ve kamu hukuku (mülkiyetin cebrî tasfiyesi, dürüstlük kuralı ve hakkın kötüye kullanılması yasağı dairesinde TMK m. 2 ve TBK ilişkileri), ceza hukuku (görevi ihmal ve kötüye kullanma suçları dairesinde TCK kuralları), anayasa hukuku (hukuk devleti, eşitlik ilkesi, adil yargılanma hakkı, mülkiyet hakkının korunması, savunma hakkı ve hak arama hürriyeti ilkeleri) boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk icra ve iflas hukukunun genel kabul gören doktrinel ilkeleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.

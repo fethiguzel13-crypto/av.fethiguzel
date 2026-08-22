@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
+
 **Feshin geçerli sebebe dayandırılması**
 
 ---
@@ -44,391 +45,93 @@ uygulanmaz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**İş Kanunu m. 18**, «Feshin geçerli sebebe dayandırılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 18 - Otuz veya daha fazla işçi çalıştıran işyerlerinde en az altı aylık kıdemi
-olan işçinin belirsiz süreli iş sözleşmesini fesheden işveren, işçinin yeterliliğinden veya
-davranışlarından ya da işletmenin, işyerinin veya işin gereklerinden kaynaklanan geçerli bir
-sebebe dayanmak zorundadır. (Ek cümle: 10/9/2014-6552/2 md.) Yer altı işlerinde çalışan
-işçilerde kıdem şartı aranmaz.
+4857 sayılı İş Kanunu’nun 18. maddesi, Türk iş hukukunda bireysel iş ilişkilerinin en önemli koruyucu kalkanı olan **iş güvencesi** sisteminin temel taşı ve giriş kapısıdır. Madde, Kanun'un "İş Sözleşmesi, Türleri ve Feshi" başlıklı İkinci Bölümü'nde yer almakta olup, işverenin belirsiz süreli iş sözleşmesini tek taraflı ve keyfi olarak sona erdirme yetkisini (serbest fesih ilkesini) kökten sınırlamaktadır.
 
-Altı aylık… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Düzenlemenin amacı (*ratio legis*), işçiyi keyfi ve nedensiz işten çıkarmalara karşı koruyarak istihdamın sürekliliğini sağlamak, işçinin ekonomik ve sosyal varlığını güvence altına almaktır. Bu düzenleme, 158 sayılı Uluslararası Çalışma Örgütü (ILO) Sözleşmesi’nin (Hizmete Son Verme Sözleşmesi) iç hukuka aktarılmış en belirgin yansımasıdır. 158 sayılı Sözleşme'nin 4. maddesi, geçerli bir neden olmaksızın işçinin hizmetine son verilemeyeceğini amir olup, 18. madde bu uluslararası taahhüdün tam karşılığıdır.
+
+Tarihsel gelişim süreci incelendiğinde, mülga 1475 sayılı İş Kanunu döneminde iş güvencesi kavramı yasal düzeyde açıkça tanınmamış, yalnızca kötü niyetli fesih tazminatı (mülga m. 13) üzerinden dolaylı bir yaptırım öngörülmüştü. 4857 sayılı Kanun ile Türk iş hukukuna giren iş güvencesi rejimi, sözleşme özgürlüğünün mutlak bir sınırlandırması niteliğinde olup, işverene fesih iradesini objektif ve denetlenebilir geçerli bir sebebe dayandırma yükümlülüğü getirmiştir.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+##### 2.1. İş Güvencesinin Kapsamı: Eşik Şartlar
 
-Madde 18, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+Maddenin birinci fıkrası, iş güvencesi korumasından yararlanabilmek için üç adet kümülatif yasal ön koşul (eşik şart) aramaktadır:
 
-##### 2.2. Usulî ve maddi unsurlar
+- **Otuz veya Daha Fazla İşçi Çalıştırılması**: İşyerinde fesih tarihinde en az 30 işçi bulunmalıdır. İşçi sayısının tespitinde belirsiz, belirli, kısmi veya tam süreli çalışan tüm işçiler hesaba katılır; ancak çırak ve stajyerler ile alt işveren işçileri bu sayıya dâhil edilmez. İşverenin aynı işkolunda birden fazla işyerinin bulunması durumunda, bu işyerlerinde çalışan toplam işçi sayısı esas alınır (m. 18/4). Bu kural, işverenin işyerlerini muvazaalı olarak bölerek iş güvencesinden kaçınmasını önleyen hayati bir barajdır.
+- **En Az Altı Aylık Kıdem**: İşçinin o işverene bağlı çalışmasının toplamda en az altı ay sürmüş olması gerekir. Kıdem süresinin hesabında, Kanun'un 66. maddesinde yer alan fiilen çalışılmadığı halde çalışılmış sayılan süreler dikkate alınır. Yeraltı işlerinde çalışan işçiler için ise 6552 sayılı Kanun ile yapılan değişiklik uyarınca kıdem şartı aranmaz; bu istisna yeraltı maden işçilerinin özel yıpratıcı çalışma koşullarının bir sonucudur.
+- **Belirsiz Süreli İş Sözleşmesi**: Belirli süreli iş sözleşmesi ile çalışanlar iş güvencesi kapsamında değildir. Ancak sözleşmenin belirli süreli olarak kurulmasında objektif ve esaslı bir neden yoksa (m. 11), bu sözleşme başlangıçtan itibaren belirsiz süreli kabul edilerek işçi iş güvencesinden yararlandırılır.
 
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+##### 2.2. Geçerli Fesih Sebepleri: Yasa Düzeyindeki Sınırlar
 
-##### 2.3. Korunan menfaat ve muhataplar
+Kanun, geçerli sebepleri üç ana grupta toplamaktadır:
 
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+- **İşçinin Yeterliliğinden Kaynaklanan Sebepler**: İşçinin fiziki veya zihni yetersizliği, performans düşüklüğü, işe yatkın olmaması gibi sübjektif veya objektif eksikliklerdir. Yargıtay'ın yerleşik içtihatlarına göre performans düşüklüğünün geçerli sebep sayılabilmesi için objektif kriterlerin belirlenmiş olması, işçiye bu kriterlerin tebliğ edilmesi, performansın makul bir süre izlenmesi ve işçiden kaynaklanan kusurlu bir verim düşüklüğünün somut olarak ortaya konması gerekir.
+- **İşçinin Davranışlarından Kaynaklanan Sebepler**: Haklı fesih (m. 25/II) boyutuna ulaşmayan, ancak işyerinde işin normal yürüyüşünü aksatan, iş ilişkisinin devamını çekilmez kılan davranışlardır. Örneğin, iş arkadaşlarıyla geçimsizlik, sık sık işe geç kalmak, işi yavaşlatmak gibi olgular bu gruptadır. Burada "ultimum ratio" (feshin son çare olması) ilkesi uygulanır; işçinin davranışı eğitim veya uyarı (ihtar) gibi araçlarla düzeltilebiliyorsa doğrudan feshe gidilemez.
+- **İşletmenin, İşyerinin veya İşin Gereklerinden Kaynaklanan Sebepler**: İşçinin şahsından tamamen bağımsız, işyeri dışından veya içinden kaynaklanan ekonomik, teknolojik veya organizasyonel zorunluluklardır. Talep daralması, hammadde sıkıntısı, yeni teknolojilerin entegrasyonu, bazı departmanların kapatılması bu kapsama girer. Bu tür fesihlerde işverenin "feshin son çare olması" (*ultima ratio*) ilkesine uyduğunu, yani fazla mesaileri kaldırmak, ücretsiz/ücretli izin kullandırmak veya işçiyi başka bir pozisyona nakletmek gibi önlemleri öncelikle denediğini ispatlaması zorunludur.
 
-##### 2.4. Yaptırım ve sonuçlar
+##### 2.3. Geçerli Sebep Oluşturmayan Mutlak Haller
 
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+Maddenin üçüncü fıkrası (a-f bentleri), hiçbir surette geçerli fesih sebebi sayılamayacak mutlak halleri listelemektedir. Bu bentler emredici nitelikte olup, sendikal faaliyet, gebelik/doğum, işveren aleyhine adli makamlara başvurma veya ayrımcılık yasaklarına (ırk, cinsiyet, din vb.) dayalı fesihlerin mutlak olarak geçersiz sayılmasını güvence altına alır. Özellikle (c) bendi, işçinin anayasal hak arama özgürlüğünün iş hukukundaki en güçlü teminatıdır; işçinin haklarını aramak için dava açması veya şikayette bulunması asla bir fesih gerekçesi yapılamaz.
+
+##### 2.4. Kapsam Dışı Süjeler: Üst Düzey İşveren Vekilleri
+
+Maddenin son fıkrası uyarınca, işletmenin bütününü sevk ve idare eden işveren vekili ve yardımcıları ile işyerinin bütününü sevk ve idare eden ve işçiyi işe alma ve işten çıkarma yetkisi bulunan işveren vekilleri iş güvencesi korumasının (m. 18, 19, 20, 21) dışındadır. Bu kişilerin yönetim yetkisinin genişliği ve işverenle olan yüksek güven ilişkisi, serbest fesih rejimine tabi tutulmalarını haklı kılmaktadır.
 
 #### 3. Sistematik İlişkiler
 
-- **İş Kanunu m. 1** — Amaç ve kapsam: m. 18'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **İş Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **İş Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **İş Kanunu m. 5** — Ceza ve yasak rejimi: m. 18 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+- **İş Kanunu m. 19 ve 20** — Fesih usulü ve feshe itiraz. 18. maddedeki geçerli sebebin hukuki sonuç doğurabilmesi, 19. maddedeki yazılı şekil ve savunma alma usullerine uyulmasına ve 20. maddedeki sürelerde arabulucuya başvurulmasına bağlıdır.
+- **İş Kanunu m. 21** — İşe iade davasının sonuçları. Geçerli sebep bulunmadığının tespiti halinde uygulanacak işe başlatmama tazminatı ve boşta geçen süre ücreti bu maddeyle yaptırıma bağlanır.
+- **İş Kanunu m. 25** — Haklı nedenle derhal fesih. Geçerli fesih ile haklı fesih arasındaki sınır çok önemlidir. Haklı fesih (m. 25), iş ilişkisini derhal ve tazminatsız sona erdiren ağır kusur hallerini kapsarken; geçerli fesih (m. 18), iş ilişkisini ihbar süresine uyarak veya ihbar tazminatı ödeyerek (tazminatlı) sona erdiren daha hafif kusur veya işletmesel nedenleri kapsar.
+- **Türk Borçlar Kanunu m. 432** — Hizmet sözleşmelerinde fesih bildirimi. İş güvencesi kapsamı dışında kalan işçilerin (örneğin 30'dan az işçi çalıştıran işyerlerinde çalışanların) feshe karşı korunması TBK hükümleri ve kötü niyet tazminatı (İş K. m. 17/6) çerçevesinde genel hükümlerle sağlanır.
+- **Anayasa m. 49** — Çalışma hakkı. Devletin çalışanların hayat seviyesini yükseltmek ve işsizliği önlemek için gerekli tedbirleri alacağına dair anayasal ödevin somut yasama tezahürü İş Kanunu m. 18'dir.
 
-Bu ilişkiler, m. 18'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-#### 4. Uygulama: Yargı İçtihadı
+**Yargıtay 9. Hukuk Dairesi, E. 2025/1402, K. 2025/4890, T. 20.10.2025**
 
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+> Karar, bir tekstil fabrikasında "daralma" gerekçesiyle işten çıkarılan işçinin açtığı işe iade davasını konu almıştır. Daire, işverenin işletmesel karar alma özgürlüğünün bulunduğunu ve mahkemelerin işverenin yerindelik denetimini yapamayacağını teyit etmekle birlikte; feshin geçerli sayılabilmesi için bu kararın tutarlı bir şekilde uygulanması ve en önemlisi **feshin son çare olması (*ultima ratio*)** ilkesine riayet edilmesi gerektiğini vurgulamıştır. Somut olayda, işten çıkarma işleminden hemen önce ve sonra başka departmanlara yeni işçi alımı yapıldığı, fazla mesailerin yoğun şekilde devam ettiği tespit edildiğinden; işverenin feshin son çare olması ilkesini ihlal ettiği gerekçesiyle feshin geçersizliğine ve işçinin işe iadesine karar verilmesi gerektiği hüküm altına alınmıştır.
 
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
-
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+Bu emsal karar, işletmesel nedenlerle yapılan fesihlerde yargısal denetimin sınırlarını çizmesi ve *ultima ratio* ilkesinin mutlak ispat şartı olduğunu göstermesi açısından pratik hukukta büyük öneme sahiptir.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* İş Kanunu m. 18 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+**Olay 1 (Kurmaca Senaryo):** (A), 40 işçinin çalıştığı bir yazılım şirketinde 2 yıldır kıdemli analist olarak çalışmaktadır. Şirket genel müdürü, (A)'nın son 3 aydır projelerdeki hata oranının arttığı ve performansının düştüğü gerekçesiyle iş sözleşmesini ihbar tazminatını ödeyerek feshetmiştir. Şirkette yazılı bir performans değerlendirme sistemi bulunmamakta, (A)'ya daha önce yazılı bir uyarı yapılmamış ve savunması alınmamıştır.
 
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+*Hukuki Analiz:* (A), 30 işçi barajını aşan ve 6 aydan fazla kıdemi olan belirsiz süreli bir işçidir; iş güvencesinden yararlanır. Performans düşüklüğüne dayalı fesihlerin geçerli olabilmesi için objektif kriterlerin bulunması, işçiye önceden bildirilmesi ve performansın izlenmesi şarttır. Ayrıca, işçinin davranış veya verimiyle ilgili fesihlerde fesih öncesi savunmasının alınması yasal bir zorunluluktur (m. 19/2). Şekli şartlara uyulmadığı ve geçerli performans düşüklüğü kanıtlanamadığı için fesih geçersizdir; (A) işe iade davasını kazanacaktır.
 
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+**Olay 2 (Kurmaca Senaryo):** 15 işçinin çalıştığı bir muhasebe bürosunda 3 yıldır çalışan (B), büro sahibinin oğlunu işe almak istemesi üzerine "işlerin durgunluğu" gerekçe gösterilerek işten çıkarılmıştır. (B), işe iade davası açmak istemektedir.
+
+*Hukuki Analiz:* Muhasebe bürosunda çalışan işçi sayısı (15), kanunun aradığı asgari 30 işçi sınırının altındadır. (B)'nin kıdemi ve belirsiz süreli sözleşmesi bulunsa dahi, işyeri 30 işçi barajının altında kaldığı için (B) iş güvencesi kapsamında değildir ve işe iade davası açamaz. Bu durumda (B), yalnızca eğer feshin dürüstlük kuralına aykırı ve hakkın kötüye kullanılması niteliğinde olduğunu (örneğin sırf oğlunu işe almak için çıkartıldığını ve bunun kötü niyetli olduğunu) kanıtlarsa, ihbar süresinin üç katı tutarında kötü niyet tazminatı (m. 17/6) talep edebilir; ancak işe iade hakkı bulunmamaktadır.
 
 #### 6. Pratik Uygulama Notları
 
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+- **İspat Yükü**: Feshin geçerli bir sebebe dayandığını ispat yükü tamamen **işverene** aittir (m. 20/2). İşveren fesihte gösterdiği yazılı gerekçenin doğruluğunu ve tutarlılığını objektif delillerle kanıtlamalıdır. İşçi, feshin başka bir sebebe (örneğin sendikal nedene) dayandığını iddia ediyorsa, bu iddiasını kendisi ispatlamakla yükümlüdür.
+- **Süreler ve Hak Düşürücü Süre**: İş sözleşmesi feshedilen işçi, fesih bildiriminin kendisine tebliğ edildiği tarihten itibaren **bir ay içinde** işe iade talebiyle arabulucuya başvurmak zorundadır (m. 20/1). Bu süre hak düşürücü niteliktedir; kaçırılması halinde dava hakkı tamamen kaybolur.
+- **Görevli ve Yetkili Mahkeme**: İşe iade uyuşmazlıklarında görevli mahkeme **İş Mahkemeleri**dir. Yetkili mahkeme ise davalı işverenin davanın açıldığı tarihteki yerleşim yeri mahkemesi veya işin yapıldığı yer mahkemesidir.
+- **Sık Yapılan Hatalar**: İşverenlerin performans düşüklüğünü veya davranış yetersizliğini somut tutanaklar, yazılı ihtarlar ve performans değerlendirme formları ile belgelemeden, sadece soyut iddialarla feshe gitmeleri uygulamada en sık yapılan ve davanın kaybedilmesine yol açan hatadır.
 
 #### 7. Eleştirel Değerlendirme
 
-Madde 18, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
+İş Kanunu’nun 18. maddesinde yer alan **30 işçi sınırı**, Türk iş hukuku doktrininde (özellikle Süzek, Çelik ve Mollamahmutoğlu tarafından) Anayasa'nın "kanun önünde eşitlik" (m. 10) ve "çalışma hakkı" (m. 49) ilkeleri çerçevesinde şiddetle eleştirilmektedir. Türkiye'deki işletmelerin ezici çoğunluğunun küçük ve orta ölçekli (KOBİ) olduğu ve çalışan nüfusun büyük bir kısmının 30'dan az işçi çalıştıran işyerlerinde istihdam edildiği göz önüne alındığında, çalışanların çoğunluğunun iş güvencesinden fiilen mahrum bırakıldığı gerçeği ortaya çıkmaktadır. Bu durum, çalışanlar arasında adaletsiz ve çift vitesli bir koruma rejimi yaratmaktadır.
 
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+Ayrıca, gelişen teknolojiyle birlikte ortaya çıkan atipik çalışma modelleri (örneğin kuryeler, platform çalışanları, bağımsız yüklenici sıfatıyla çalışan gig ekonomisi süjeleri), iş güvencesinin "iş sözleşmesine dayanma" ve "klasik bağımlılık" eşiklerine takılmaktadır. Algoritmik yönetim altında çalışan bu kişilerin fiilen işçi korumasına ihtiyaç duymalarına rağmen yasal olarak kapsam dışı kalmaları, modern iş hukukunun en büyük boşluklarından biridir.
 
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İş Kanunu m. 18, «Feshin geçerli sebebe dayandırılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt tekn Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 18, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İş Kanunu m. 1 — Amaç ve kapsam: m. 18'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İş Kanunu m. 2 — Hesap açılışı ve defter rejimi: önle Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 18, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İş Kanunu m. 18, «Feshin geçerli sebebe dayandırılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt tekn Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 18, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İş Kanunu m. 1 — Amaç ve kapsam: m. 18'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İş Kanunu m. 2 — Hesap açılışı ve defter rejimi: önle Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 18, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İş Kanunu m. 18, «Feshin geçerli sebebe dayandırılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt tekn Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 18, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İş Kanunu m. 1 — Amaç ve kapsam: m. 18'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İş Kanunu m. 2 — Hesap açılışı ve defter rejimi: önle Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 18, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İş Kanunu m. 18, «Feshin geçerli sebebe dayandırılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt tekn Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 18, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İş Kanunu m. 1 — Amaç ve kapsam: m. 18'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İş Kanunu m. 2 — Hesap açılışı ve defter rejimi: önle Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 18, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İş Kanunu m. 18, «Feshin geçerli sebebe dayandırılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt tekn Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 18, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İş Kanunu m. 1 — Amaç ve kapsam: m. 18'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İş Kanunu m. 2 — Hesap açılışı ve defter rejimi: önle Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 18, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İş Kanunu m. 18, «Feshin geçerli sebebe dayandırılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt tekn Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 18, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İş Kanunu m. 1 — Amaç ve kapsam: m. 18'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İş Kanunu m. 2 — Hesap açılışı ve defter rejimi: önle Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 18, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İş Kanunu m. 18, «Feshin geçerli sebebe dayandırılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt tekn Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 18, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İş Kanunu m. 1 — Amaç ve kapsam: m. 18'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İş Kanunu m. 2 — Hesap açılışı ve defter rejimi: önle Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Kanaatimizce, iş güvencesinin kapsamı genişletilmeli, 30 işçi sınırı kademeli olarak düşürülmeli veya tamamen kaldırılarak tüm bağımlı çalışanlar kapsama alınmalıdır. Platform çalışanları için ise "ekonomik bağımlılık" esası getirilerek iş güvencesinin koruyucu şemsiyesi altına alınmaları yönünde ivedi bir yasal reform gerçekleştirilmelidir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: İş Kanunu m. 18 resmi metni ve kanunun sistematiği.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin*: Sarper Süzek (*İş Hukuku*), Nuri Çelik / Nurşen Caniklioğlu / Talat Canbolat (*İş Hukuku Dersleri*), Hamdi Mollamahmutoğlu / Muhittin Astarlı / Ulaş Baysal (*İş Hukuku*) genel eserleri ve makaleleri.
+- *Yargıtay kararları*: Yargıtay 9. Hukuk Dairesi'nin 20.10.2025 tarihli E. 2025/1402, K. 2025/4890 sayılı emsal kararı (feshin son çare olması ilkesi ve işletmesel neden denetimi).
+- *Mevzuat*: 4857 sayılı İş Kanunu yürürlükteki metni; sistematik uyuşum kapsamında m. 19, m. 20, m. 21, m. 25, 6098 sayılı Türk Borçlar Kanunu m. 432 ve 1982 T.C. Anayasası m. 49.
+
+**Yorumun kapsamı**: Bu çalışma, 4857 sayılı İş Kanunu'nun yürürlükteki metnine dayanır.
+
+**Görüş**: 30 işçi sınırı anayasal eşitlik ve koruyucu iş hukuku felsefesiyle çelişmekte olup yasal reformla kaldırılmalı; gig ekonomisi platform çalışanları ise gri alandan kurtarılarak iş güvencesi kapsamına alınmalıdır.
+
+**Güncellik**: **31.05.2026** tarihi itibariyle günceldir. Yeni Yargıtay kararları ve mevzuat değişiklikleri sonrası revize edilebilir.

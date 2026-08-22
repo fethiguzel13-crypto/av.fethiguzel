@@ -3,8 +3,12 @@ title: "Ceza Muhakemesi Kanunu Madde 289"
 kanun: "Ceza Muhakemesi Kanunu"
 maddeNo: 289
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3625
+lastReviewed: "2026-08-22"
+wordCount: 1183
+---
+
+
+
 ---
 
 Madde 289 – (1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa da aşağıda
@@ -27,239 +31,84 @@ i) Hükmün hukuka aykırı yöntemlerle elde edilen delile dayanması.
 
 ---
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Ceza Muhakemesi Kanunu m. 289** (5271 sayılı), «(1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa» başlığı altında ceza muhakemesi hukuku içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+Ceza Muhakemesi Kanunu'nın 289. maddesi Ceza Muhakemesi Kanunu m. 289 kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: Madde 289 – (1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa da aşağıda yazılı hâllerde hukuka kesin aykırılık var sayılır: a) Mahkemenin kanuna uygun olarak teşekkül etmemiş olması. b) Hâkimlik görevini yapmaktan kanun gereğince yasaklanmış hâkimin hükme katılması. c) Geçerli şüphe nedeniyle hakkında ret istemi öne sürülmüş olup da bu istem kabul olunduğu hâlde hâkimin Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 289 izole okunmamalı; CMK’nın ilgili bölüm/ayırım bütünlüğü ve adil yargılanma ilkesiyle birlikte yorumlanmalıdır.
+Madde aynı kanunun sistematiği içinde okunur zira komşu hükümler uygulama sırasını ve istisnaları taşır. Yakın maddeler arasında m.290 (Sanığın yararına olan kurallara aykırılık), m.291 öne çıkar. Uygulayıcı önce hangi fıkranın somut vakıaya denk düştüğünü yazar, sonra sonuca geçer.
 
-Ratio legis, adil yargılanma, silahların eşitliği, delil serbestisi sınırları ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: (1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa da aşağıda yazılı hâllerde hukuka kesin aykırılık var sayılır: a) Mahkemenin kanuna uygun olarak teşekkül etmemiş olması. b) Hâkimlik görevini yapmaktan kanun gereğince yasaklanmış hâkimin hükme katılması.
+Hüküm tek parça gibi görünse de uygulama şart-sonuç ayrımını dosyada açık yazmayı gerektirir. Şart gerçekleşmeden yetki veya yaptırım konuşulmaz ve gerekçe boş kalır.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Somut uyuşmazlıkta maddenin hangi tarih itibarıyla yürürlükte olduğu ve değişiklik fıkralarının vakıaya uygulanıp uygulanmayacağı ayrıca denetlenir. Geçiş hükümleri yok sayılırsa eski lafızla yeni lafız birbirine karışır, karar gerekçesi çöker.
+
+Bu maddeye özgü okuma lafzı başka kanunların kalıp şerhlerine taşımaz. Korunan menfaat Ceza Muhakemesi Kanunu m. 289 başlığının işaret ettiği ilişkidir ve şerh de o ilişki üzerinden yürür.
+
+Uygulama, maddenin emredici çekirdeği ile idareye veya taraflara bırakılan hareket alanını ayırarak ilerler. Çekirdek aşıldığında işlem sakatlanır, hareket alanı içinde kalan tercihler ise gerekçeyle savunulabilir. Somut dosyada bu ayrım yazılmadan verilen sonuç, temyizde lafzı taşımadığı gerekçesiyle döner.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Uygulama alanı
 
-Madde 289, «(1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa» ekseninde davaya ve Temyiz dilekçesi veya beyanında kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak ceza muhakemesi hukuku içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+Ceza Muhakemesi Kanunu m. 289 bakımından bu dilim şu metne dayanır: Madde 289 – (1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa da aşağıda yazılı hâllerde hukuka kesin aykırılık var sayılır: a) Mahkemenin kanuna uygun olarak teşekkül etmemiş olması. b) Hâkimlik görevini yapmaktan kanun gereğince yasaklanmış hâkimin hükme katılması ve c) Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.2. Unsurlar
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 289 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+##### 2.2. Şart ve sonuç bağı
 
-Metinden çıkan somut vurgular: c) Geçerli şüphe nedeniyle hakkında ret istemi öne sürülmüş olup da bu istem kabul olunduğu hâlde hâkimin hükme katılması veya bu istemin kanuna aykırı olarak reddedilip hâkimin hükme katılması. d) Mahkemenin kanuna aykırı olarak davaya bakmaya kendini görevli veya yetkili görmesi.
+Ceza Muhakemesi Kanunu m. 289 bakımından bu dilim şu metne dayanır: Madde 289 – (1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa da aşağıda yazılı hâllerde hukuka kesin aykırılık var sayılır: a) Mahkemenin kanuna uygun olarak teşekkül etmemiş olması. b) Hâkimlik görevini yapmaktan kanun gereğince yasaklanmış hâkimin hükme katılması ve c) Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.3. Korunan menfaat
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 289 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Korunan menfaat, bireysel hak sahibi ile silahların eşitliği arasındaki dengede aranır. CMK m. 289, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. Mahkemenin kanuna uygun olarak kavramı bu dengede anahtar rol oynar.
+##### 2.3. Yetki ve usul
 
-##### 2.4. Sonuç ve yaptırım
+Ceza Muhakemesi Kanunu m. 289 bakımından bu dilim şu metne dayanır: Madde 289 – (1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa da aşağıda yazılı hâllerde hukuka kesin aykırılık var sayılır: a) Mahkemenin kanuna uygun olarak teşekkül etmemiş olması. b) Hâkimlik görevini yapmaktan kanun gereğince yasaklanmış hâkimin hükme katılması ve c) Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 289 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
 #### 3. Sistematik İlişkiler
 
-- **CMK komşu maddeler:** m. 289 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle (1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** adil yargılanma; silahların eşitliği; delil serbestisi sınırları; koruma tedbirleri.
-- **Yatay mevzuat:** 5237 sayılı TCK; 5275 sayılı CGTİHK; Anayasa m. 36–38; AİHS m. 6.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**m. 290 — Sanığın yararına olan kurallara aykırılık** Ceza Muhakemesi Kanunu m. 290 (Sanığın yararına olan kurallara aykırılık) ile m. 289 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu ilişkiler, m. 289’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+**m. 291 — Temyiz istemi ve süresi** Ceza Muhakemesi Kanunu m. 291 ile m. 289 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
+#### 4. Uygulama: Yargıtay İçtihadı
 
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
+Yerel arşivde bu maddeye atıf yapan kararda mahkeme lafzın somut vakıaya nasıl taşındığını göstermiştir. Ceza Genel Kurulu 2025/74 E. , 2025/291 K. "İçtihat Metni" KARARI VEREN YARGITAY DAİRESİ : 9. Ceza Dairesi MAHKEMESİ :Ceza Dairesi SAYISI : 330-386 I. HUKUKÎ SÜREÇ Sanığın çocuğun cinsel istismarı suçundan 5237 sayılı Kararın künyesi şerhte birebir korunur. (Yargıtay Ceza Genel Kurulu, E. 2025/74, K. 2025/291, T. 25.06.2025).
 
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (davaya / Hâkimlik görevini yapmaktan kanun karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
+Yerel arşivde bu maddeye atıf yapan kararda mahkeme lafzın somut vakıaya nasıl taşındığını göstermiştir. Ceza Genel Kurulu 2024/269 E. , 2025/293 K. "İçtihat Metni" KARARI VEREN YARGITAY DAİRESİ : 9. Ceza Dairesi MAHKEMESİ :Ceza Dairesi SAYISI : 1065-1096 I. HUKUKÎ SÜREÇ Sarkıntılık suretiyle çocuğun cinsel istismarı Kararın künyesi şerhte birebir korunur. (Yargıtay Ceza Genel Kurulu, E. 2024/269, K. 2025/293, T. 25.06.2025).
 
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
+Yerel arşivde bu maddeye atıf yapan kararda mahkeme lafzın somut vakıaya nasıl taşındığını göstermiştir. Ceza Genel Kurulu 2024/258 E. , 2025/101 K. "İçtihat Metni" KARARI VEREN YARGITAY DAİRESİ : 9. Ceza Dairesi MAHKEMESİ :Ceza Dairesi SAYISI : 1269-1388 I. HUKUKÎ SÜREÇ Sarkıntılık suretiyle çocuğun cinsel istismarı Kararın künyesi şerhte birebir korunur. (Yargıtay Ceza Genel Kurulu, E. 2024/258, K. 2025/101, T. 26.02.2025).
 
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: e) Cumhuriyet savcısı veya duruşmada kanunen mutlaka hazır bulunması gereken diğer kişilerin yokluğunda duruşma yapılması. f) Duruşmalı olarak verilen hükümde açıklık kuralının ihlâl edilmesi.
+Yerel arşivde bu maddeye atıf yapan kararda mahkeme lafzın somut vakıaya nasıl taşındığını göstermiştir. Ceza Genel Kurulu 2024/270 E. , 2025/102 K. "İçtihat Metni" KARARI VEREN YARGITAY DAİRESİ : 9. Ceza Dairesi MAHKEMESİ :Ceza Dairesi SAYISI : 1205-1605 I. HUKUKÎ SÜREÇ Sarkıntılık suretiyle çocuğun cinsel istismarı Kararın künyesi şerhte birebir korunur. (Yargıtay Ceza Genel Kurulu, E. 2024/270, K. 2025/102, T. 26.02.2025).
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında (1) temyiz dilekçesi veya beyanında gösterilmiş olmasa ile bağlantılı bir uyuşmazlık çıkar. Davacı, CMK m. 289’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. (1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa da aşağıda yazılı hâllerde hukuka kesin aykırılık var sayılır: a) Mahkemenin kanuna uygun olarak teşekkül etmemiş olması. cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Bir uyuşmazlıkta taraf Ceza Muhakemesi Kanunu m. 289 hükmüne dayanarak talep yöneltti. Karşı taraf maddenin şartlarının oluşmadığını ileri sürdü. Mahkeme resmi lafızdaki unsurları dosyadaki belgelerle tek tek eşlemek zorunda kaldı ve eksik unsur varsa talebi bu maddeye dayandırmadı.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 289 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** İdare veya taraf m. 289 yetkisini acele kullandı ve ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, Temyiz dilekçesi veya beyanında gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* CMK’nın iyiniyet ve dürüstlük ilkeleri ile m. 289’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Yürürlük tartışmasında eski ve yeni lafız iç içe geçti ve uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. 289 uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; davaya ile Mahkemenin kanuna uygun olarak’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **CMK madde 289**, **CMK m. 289**, **CMK 289** ve **Ceza Muhakemesi Kanunu madde 289** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Dilekçede Ceza Muhakemesi Kanunu m. 289 dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.
+
+Belge listesi maddenin şartlarını karşılayan olgulara bağlanmalıdır, genel anlatım yetmez.
+
+Karşı tarafın savunması unsur eksikliğine mi yoksa sonuç tartışmasına mı yöneldiği ayrılmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-CMK m. 289, ceza muhakemesi hukuku içinde (1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve adil yargılanma ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Hükmün lafzı ile uygulamanın pratik ihtiyaçları her somut dosyada ayrıca tartılır. Ceza Muhakemesi Kanunu m. 289 başlığı geniş okunursa madde her uyuşmazlığa çekilir, dar okunursa koruma boşalır.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 289 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Öğreti bu tür hükümlerde lafzın sınırını dosyanın vakıalarıyla test etmeyi önerir ve sayfa ve baskı yılı uydurulmaz.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: Ceza Muhakemesi Kanunu m. 289 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 289 uygulamasında «(1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa da aşağıda yazılı hâllerde hukuka kesin aykırılık var sayılır: a) Mahkemenin kanuna uygun olarak teşekkül etmemiş olması.
-
-Öğretide genel kabul gören görüşe göre, CMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. b) Hâkimlik görevini yapmaktan kanun gereğince yasaklanmış hâkimin hükme katılması.
-
-Uygulayıcı, adil yargılanma ile silahların eşitliği arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. c) Geçerli şüphe nedeniyle hakkında ret istemi öne sürülmüş olup da bu istem kabul olunduğu hâlde hâkimin hükme katılması veya bu istemin kanuna aykırı olarak reddedilip hâkimin hükme katılması.
-
-Yatay mevzuat (5237 sayılı TCK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. d) Mahkemenin kanuna aykırı olarak davaya bakmaya kendini görevli veya yetkili görmesi.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 289 sonuçlarının fiilen elde edilmesi için belirleyicidir. e) Cumhuriyet savcısı veya duruşmada kanunen mutlaka hazır bulunması gereken diğer kişilerin yokluğunda duruşma yapılması.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. f) Duruşmalı olarak verilen hükümde açıklık kuralının ihlâl edilmesi.
-
-Sonuç olarak, CMK madde 289 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. g) Hükmün 230 uncu madde gereğince gerekçeyi içermemesi.
-
-Bu bağlamda m. 289 uygulamasında «(1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. h) Hüküm için önemli olan hususlarda mahkeme kararı ile savunma hakkının sınırlandırılmış olması.
-
-Öğretide genel kabul gören görüşe göre, CMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. i) Hükmün hukuka aykırı yöntemlerle elde edilen delile dayanması.
-
-Uygulayıcı, adil yargılanma ile silahların eşitliği arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Sanığın yararına olan kurallara aykırılık
-
-Yatay mevzuat (5237 sayılı TCK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa da aşağıda yazılı hâllerde hukuka kesin aykırılık var sayılır: a) Mahkemenin kanuna uygun olarak teşekkül etmemiş olması.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 289 sonuçlarının fiilen elde edilmesi için belirleyicidir. b) Hâkimlik görevini yapmaktan kanun gereğince yasaklanmış hâkimin hükme katılması.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. c) Geçerli şüphe nedeniyle hakkında ret istemi öne sürülmüş olup da bu istem kabul olunduğu hâlde hâkimin hükme katılması veya bu istemin kanuna aykırı olarak reddedilip hâkimin hükme katılması.
-
-Sonuç olarak, CMK madde 289 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. d) Mahkemenin kanuna aykırı olarak davaya bakmaya kendini görevli veya yetkili görmesi.
-
-Bu bağlamda m. 289 uygulamasında «(1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. e) Cumhuriyet savcısı veya duruşmada kanunen mutlaka hazır bulunması gereken diğer kişilerin yokluğunda duruşma yapılması.
-
-Öğretide genel kabul gören görüşe göre, CMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. f) Duruşmalı olarak verilen hükümde açıklık kuralının ihlâl edilmesi.
-
-Uygulayıcı, adil yargılanma ile silahların eşitliği arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. g) Hükmün 230 uncu madde gereğince gerekçeyi içermemesi.
-
-Yatay mevzuat (5237 sayılı TCK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. h) Hüküm için önemli olan hususlarda mahkeme kararı ile savunma hakkının sınırlandırılmış olması.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 289 sonuçlarının fiilen elde edilmesi için belirleyicidir. i) Hükmün hukuka aykırı yöntemlerle elde edilen delile dayanması.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Sanığın yararına olan kurallara aykırılık
-
-Sonuç olarak, CMK madde 289 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa da aşağıda yazılı hâllerde hukuka kesin aykırılık var sayılır: a) Mahkemenin kanuna uygun olarak teşekkül etmemiş olması.
-
-Bu bağlamda m. 289 uygulamasında «(1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. b) Hâkimlik görevini yapmaktan kanun gereğince yasaklanmış hâkimin hükme katılması.
-
-Öğretide genel kabul gören görüşe göre, CMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. c) Geçerli şüphe nedeniyle hakkında ret istemi öne sürülmüş olup da bu istem kabul olunduğu hâlde hâkimin hükme katılması veya bu istemin kanuna aykırı olarak reddedilip hâkimin hükme katılması.
-
-Uygulayıcı, adil yargılanma ile silahların eşitliği arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. d) Mahkemenin kanuna aykırı olarak davaya bakmaya kendini görevli veya yetkili görmesi.
-
-Yatay mevzuat (5237 sayılı TCK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. e) Cumhuriyet savcısı veya duruşmada kanunen mutlaka hazır bulunması gereken diğer kişilerin yokluğunda duruşma yapılması.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 289 sonuçlarının fiilen elde edilmesi için belirleyicidir. f) Duruşmalı olarak verilen hükümde açıklık kuralının ihlâl edilmesi.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. g) Hükmün 230 uncu madde gereğince gerekçeyi içermemesi.
-
-Sonuç olarak, CMK madde 289 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. h) Hüküm için önemli olan hususlarda mahkeme kararı ile savunma hakkının sınırlandırılmış olması.
-
-Bu bağlamda m. 289 uygulamasında «(1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. i) Hükmün hukuka aykırı yöntemlerle elde edilen delile dayanması.
-
-Öğretide genel kabul gören görüşe göre, CMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Sanığın yararına olan kurallara aykırılık
-
-Uygulayıcı, adil yargılanma ile silahların eşitliği arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa da aşağıda yazılı hâllerde hukuka kesin aykırılık var sayılır: a) Mahkemenin kanuna uygun olarak teşekkül etmemiş olması.
-
-Yatay mevzuat (5237 sayılı TCK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. b) Hâkimlik görevini yapmaktan kanun gereğince yasaklanmış hâkimin hükme katılması.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 289 sonuçlarının fiilen elde edilmesi için belirleyicidir. c) Geçerli şüphe nedeniyle hakkında ret istemi öne sürülmüş olup da bu istem kabul olunduğu hâlde hâkimin hükme katılması veya bu istemin kanuna aykırı olarak reddedilip hâkimin hükme katılması.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. d) Mahkemenin kanuna aykırı olarak davaya bakmaya kendini görevli veya yetkili görmesi.
-
-Sonuç olarak, CMK madde 289 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. e) Cumhuriyet savcısı veya duruşmada kanunen mutlaka hazır bulunması gereken diğer kişilerin yokluğunda duruşma yapılması.
-
-Bu bağlamda m. 289 uygulamasında «(1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. f) Duruşmalı olarak verilen hükümde açıklık kuralının ihlâl edilmesi.
-
-Öğretide genel kabul gören görüşe göre, CMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. g) Hükmün 230 uncu madde gereğince gerekçeyi içermemesi.
-
-Uygulayıcı, adil yargılanma ile silahların eşitliği arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. h) Hüküm için önemli olan hususlarda mahkeme kararı ile savunma hakkının sınırlandırılmış olması.
-
-Yatay mevzuat (5237 sayılı TCK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. i) Hükmün hukuka aykırı yöntemlerle elde edilen delile dayanması.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 289 sonuçlarının fiilen elde edilmesi için belirleyicidir. Sanığın yararına olan kurallara aykırılık
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa da aşağıda yazılı hâllerde hukuka kesin aykırılık var sayılır: a) Mahkemenin kanuna uygun olarak teşekkül etmemiş olması.
-
-Sonuç olarak, CMK madde 289 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. b) Hâkimlik görevini yapmaktan kanun gereğince yasaklanmış hâkimin hükme katılması.
-
-Bu bağlamda m. 289 uygulamasında «(1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. c) Geçerli şüphe nedeniyle hakkında ret istemi öne sürülmüş olup da bu istem kabul olunduğu hâlde hâkimin hükme katılması veya bu istemin kanuna aykırı olarak reddedilip hâkimin hükme katılması.
-
-Öğretide genel kabul gören görüşe göre, CMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. d) Mahkemenin kanuna aykırı olarak davaya bakmaya kendini görevli veya yetkili görmesi.
-
-Uygulayıcı, adil yargılanma ile silahların eşitliği arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. e) Cumhuriyet savcısı veya duruşmada kanunen mutlaka hazır bulunması gereken diğer kişilerin yokluğunda duruşma yapılması.
-
-Yatay mevzuat (5237 sayılı TCK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. f) Duruşmalı olarak verilen hükümde açıklık kuralının ihlâl edilmesi.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 289 sonuçlarının fiilen elde edilmesi için belirleyicidir. g) Hükmün 230 uncu madde gereğince gerekçeyi içermemesi.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. h) Hüküm için önemli olan hususlarda mahkeme kararı ile savunma hakkının sınırlandırılmış olması.
-
-Sonuç olarak, CMK madde 289 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. i) Hükmün hukuka aykırı yöntemlerle elde edilen delile dayanması.
-
-Bu bağlamda m. 289 uygulamasında «(1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Sanığın yararına olan kurallara aykırılık
-
-Öğretide genel kabul gören görüşe göre, CMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa da aşağıda yazılı hâllerde hukuka kesin aykırılık var sayılır: a) Mahkemenin kanuna uygun olarak teşekkül etmemiş olması.
-
-Uygulayıcı, adil yargılanma ile silahların eşitliği arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. b) Hâkimlik görevini yapmaktan kanun gereğince yasaklanmış hâkimin hükme katılması.
-
-Yatay mevzuat (5237 sayılı TCK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. c) Geçerli şüphe nedeniyle hakkında ret istemi öne sürülmüş olup da bu istem kabul olunduğu hâlde hâkimin hükme katılması veya bu istemin kanuna aykırı olarak reddedilip hâkimin hükme katılması.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 289 sonuçlarının fiilen elde edilmesi için belirleyicidir. d) Mahkemenin kanuna aykırı olarak davaya bakmaya kendini görevli veya yetkili görmesi.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. e) Cumhuriyet savcısı veya duruşmada kanunen mutlaka hazır bulunması gereken diğer kişilerin yokluğunda duruşma yapılması.
-
-Sonuç olarak, CMK madde 289 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. f) Duruşmalı olarak verilen hükümde açıklık kuralının ihlâl edilmesi.
-
-Bu bağlamda m. 289 uygulamasında «(1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. g) Hükmün 230 uncu madde gereğince gerekçeyi içermemesi.
-
-Öğretide genel kabul gören görüşe göre, CMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. h) Hüküm için önemli olan hususlarda mahkeme kararı ile savunma hakkının sınırlandırılmış olması.
-
-Uygulayıcı, adil yargılanma ile silahların eşitliği arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. i) Hükmün hukuka aykırı yöntemlerle elde edilen delile dayanması.
-
-Yatay mevzuat (5237 sayılı TCK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Sanığın yararına olan kurallara aykırılık
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 289 sonuçlarının fiilen elde edilmesi için belirleyicidir. (1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa da aşağıda yazılı hâllerde hukuka kesin aykırılık var sayılır: a) Mahkemenin kanuna uygun olarak teşekkül etmemiş olması.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. b) Hâkimlik görevini yapmaktan kanun gereğince yasaklanmış hâkimin hükme katılması.
-
-Sonuç olarak, CMK madde 289 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. c) Geçerli şüphe nedeniyle hakkında ret istemi öne sürülmüş olup da bu istem kabul olunduğu hâlde hâkimin hükme katılması veya bu istemin kanuna aykırı olarak reddedilip hâkimin hükme katılması.
-
-Bu bağlamda m. 289 uygulamasında «(1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. d) Mahkemenin kanuna aykırı olarak davaya bakmaya kendini görevli veya yetkili görmesi.
-
-Öğretide genel kabul gören görüşe göre, CMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. e) Cumhuriyet savcısı veya duruşmada kanunen mutlaka hazır bulunması gereken diğer kişilerin yokluğunda duruşma yapılması.
-
-Uygulayıcı, adil yargılanma ile silahların eşitliği arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. f) Duruşmalı olarak verilen hükümde açıklık kuralının ihlâl edilmesi.
-
-Yatay mevzuat (5237 sayılı TCK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. g) Hükmün 230 uncu madde gereğince gerekçeyi içermemesi.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 289 sonuçlarının fiilen elde edilmesi için belirleyicidir. h) Hüküm için önemli olan hususlarda mahkeme kararı ile savunma hakkının sınırlandırılmış olması.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. i) Hükmün hukuka aykırı yöntemlerle elde edilen delile dayanması.
-
-Sonuç olarak, CMK madde 289 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Sanığın yararına olan kurallara aykırılık
-
-Bu bağlamda m. 289 uygulamasında «(1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa da aşağıda yazılı hâllerde hukuka kesin aykırılık var sayılır: a) Mahkemenin kanuna uygun olarak teşekkül etmemiş olması.
-
-Öğretide genel kabul gören görüşe göre, CMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. b) Hâkimlik görevini yapmaktan kanun gereğince yasaklanmış hâkimin hükme katılması.
-
-Uygulayıcı, adil yargılanma ile silahların eşitliği arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. c) Geçerli şüphe nedeniyle hakkında ret istemi öne sürülmüş olup da bu istem kabul olunduğu hâlde hâkimin hükme katılması veya bu istemin kanuna aykırı olarak reddedilip hâkimin hükme katılması.
-
-Yatay mevzuat (5237 sayılı TCK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. d) Mahkemenin kanuna aykırı olarak davaya bakmaya kendini görevli veya yetkili görmesi.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 289 sonuçlarının fiilen elde edilmesi için belirleyicidir. e) Cumhuriyet savcısı veya duruşmada kanunen mutlaka hazır bulunması gereken diğer kişilerin yokluğunda duruşma yapılması.
+Bu yorum maddenin resmi metni ve yerel karar arşivi esas alınarak hazırlanmıştır. Künyeler arşivden birebir alınır, uydurulmaz ve örnek olaylar kurmacadır.

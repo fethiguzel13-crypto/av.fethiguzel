@@ -3,8 +3,8 @@ title: "Türk Ticaret Kanunu Madde 1522"
 kanun: "Türk Ticaret Kanunu"
 maddeNo: 1522
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3649
+lastReviewed: "2026-08-22"
+wordCount: 1025
 ---
 
 **B) Ölçeklerine göre işletmeler**
@@ -23,239 +23,74 @@ Resmî Gazetede yayımlanır. Bu ölçütler bu Kanunun ilgili tüm hükümlerin
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Ticaret Kanunu m. 1522** (6102 sayılı), «(Değişik: 26/6/2012-6335/33» başlığı altında ticaret hukuku (ticari işletme, şirketler, kıymetli evrak, taşıma, sigorta) içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+Türk Ticaret Kanunu'nın 1522. maddesi B) Ölçeklerine göre işletmeler kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: MADDE 1522- (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir. Yönetmelik, Resmî Gazetede yayımlanır. Bu ölçütler bu Kanunun ilgili tüm hükümlerine Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 1522 izole okunmamalı; TTK’nın ilgili bölüm/ayırım bütünlüğü ve tacir ve ticari iş karinesi ilkesiyle birlikte yorumlanmalıdır.
+Madde aynı kanunun sistematiği içinde okunur zira komşu hükümler uygulama sırasını ve istisnaları taşır. Yakın maddeler arasında m.1521 (SON HÜKÜMLER · A) Şirket davalarında yargılama usulü), m.1523 (C) Ölçeklerine göre sermaye şirketleri), m.1524 (D) Elektronik işlemler ve bilgi toplumu hizmetleri · I - İnternet sitesi) öne çıkar. Uygulayıcı önce hangi fıkranın somut vakıaya denk düştüğünü yazar, sonra sonuca geçer.
 
-Ratio legis, tacir ve ticari iş karinesi, şirketler hukuku ve organ sorumluluğu, kıymetli evrak tedavül güvenliği ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir. Yönetmelik, Resmî Gazetede yayımlanır.
+Hükmün ikinci katmanı şu cümlede toplanır: (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir. Yönetmelik, Resmî Gazetede yayımlanır ve bu ölçütler bu Kanunun ilgili tüm hükümlerine uygulanır. Bu katman birinci fıkradaki ana kuralı tamamlar veya sınırlar, ikisini birbirine karıştırmak yanlış hukuki sonuç doğurur.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Somut uyuşmazlıkta maddenin hangi tarih itibarıyla yürürlükte olduğu ve değişiklik fıkralarının vakıaya uygulanıp uygulanmayacağı ayrıca denetlenir. Geçiş hükümleri yok sayılırsa eski lafızla yeni lafız birbirine karışır, karar gerekçesi çöker.
+
+Bu maddeye özgü okuma lafzı başka kanunların kalıp şerhlerine taşımaz. Korunan menfaat B) Ölçeklerine göre işletmeler başlığının işaret ettiği ilişkidir ve şerh de o ilişki üzerinden yürür.
+
+Uygulama, maddenin emredici çekirdeği ile idareye veya taraflara bırakılan hareket alanını ayırarak ilerler. Çekirdek aşıldığında işlem sakatlanır, hareket alanı içinde kalan tercihler ise gerekçeyle savunulabilir. Somut dosyada bu ayrım yazılmadan verilen sonuç, temyizde lafzı taşımadığı gerekçesiyle döner.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Uygulama alanı
 
-Madde 1522, «(Değişik: 26/6/2012-6335/33» ekseninde çeklerine ve şirketleri kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak ticaret hukuku (ticari işletme, şirketler, kıymetli evrak, taşıma, sigorta) içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+B) Ölçeklerine göre işletmeler bakımından bu dilim şu metne dayanır: MADDE 1522- (Değişik: 26/6/2012-6335/33 md.) Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.2. Unsurlar
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 1522 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+##### 2.2. Şart ve sonuç bağı
 
-Metinden çıkan somut vurgular: Bu ölçütler bu Kanunun ilgili tüm hükümlerine uygulanır. C) Ölçeklerine göre sermaye şirketleri
+B) Ölçeklerine göre işletmeler bakımından bu dilim şu metne dayanır: (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir. Yönetmelik, Resmî Gazetede Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.3. Korunan menfaat
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 1522 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Korunan menfaat, bireysel hak sahibi ile şirketler hukuku ve organ sorumluluğu arasındaki dengede aranır. TTK m. 1522, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. Değişik kavramı bu dengede anahtar rol oynar.
+##### 2.3. Yetki ve usul
 
-##### 2.4. Sonuç ve yaptırım
+B) Ölçeklerine göre işletmeler bakımından bu dilim şu metne dayanır: MADDE 1522- (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 1522 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
 #### 3. Sistematik İlişkiler
 
-- **TTK komşu maddeler:** m. 1522 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle (Değişik: 26/6/2012-6335/33 temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** tacir ve ticari iş karinesi; şirketler hukuku ve organ sorumluluğu; kıymetli evrak tedavül güvenliği; ticari defter ve sicil; haksız rekabet.
-- **Yatay mevzuat:** 6098 sayılı TBK; 6362 sayılı SPK; 2004 sayılı İİK; 6100 sayılı HMK; 5941 sayılı Çek Kanunu.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**m. 1521 — SON HÜKÜMLER · A) Şirket davalarında yargılama usulü** Türk Ticaret Kanunu m. 1521 (SON HÜKÜMLER · A) Şirket davalarında yargılama usulü) ile m. 1522 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu ilişkiler, m. 1522’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+**m. 1523 — C) Ölçeklerine göre sermaye şirketleri** Türk Ticaret Kanunu m. 1523 (C) Ölçeklerine göre sermaye şirketleri) ile m. 1522 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
+**m. 1524 — D) Elektronik işlemler ve bilgi toplumu hizmetleri · I - İnternet sitesi** Türk Ticaret Kanunu m. 1524 (D) Elektronik işlemler ve bilgi toplumu hizmetleri · I - İnternet sitesi) ile m. 1522 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (çeklerine / Küçük ve orta büyüklükteki karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
-
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
-
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir. Yönetmelik, Resmî Gazetede yayımlanır.
+Yerel arşivde bu maddeye yapısal atıf yapan tam künyeli karar bulunamadı ve içtihat bölümü bu yüzden boş bırakılır; künye uydurulmaz.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında (değişik: 26/6/2012-6335/33 ile bağlantılı bir uyuşmazlık çıkar. Davacı, TTK m. 1522’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir. cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Bir uyuşmazlıkta taraf B) Ölçeklerine göre işletmeler hükmüne dayanarak talep yöneltti ve karşı taraf maddenin şartlarının oluşmadığını ileri sürdü. Mahkeme resmi lafızdaki unsurları dosyadaki belgelerle tek tek eşlemek zorunda kaldı ve eksik unsur varsa talebi bu maddeye dayandırmadı.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 1522 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** İdare veya taraf m. 1522 yetkisini acele kullandı ve ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, şirketleri gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* TTK’nın iyiniyet ve dürüstlük ilkeleri ile m. 1522’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Yürürlük tartışmasında eski ve yeni lafız iç içe geçti ve uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. 1522 uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; çeklerine ile Değişik’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **TTK madde 1522**, **TTK m. 1522**, **TTK 1522** ve **Türk Ticaret Kanunu madde 1522** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Dilekçede Türk Ticaret Kanunu m. 1522 dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.
+
+Belge listesi maddenin şartlarını karşılayan olgulara bağlanmalıdır, genel anlatım yetmez.
+
+Karşı tarafın savunması unsur eksikliğine mi yoksa sonuç tartışmasına mı yöneldiği ayrılmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-TTK m. 1522, ticaret hukuku (ticari işletme, şirketler, kıymetli evrak, taşıma, sigorta) içinde (Değişik: 26/6/2012-6335/33 temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve tacir ve ticari iş karinesi ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Hükmün lafzı ile uygulamanın pratik ihtiyaçları her somut dosyada ayrıca tartılır. B) Ölçeklerine göre işletmeler başlığı geniş okunursa madde her uyuşmazlığa çekilir, dar okunursa koruma boşalır.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 1522 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Öğreti bu tür hükümlerde lafzın sınırını dosyanın vakıalarıyla test etmeyi önerir ve sayfa ve baskı yılı uydurulmaz.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: Türk Ticaret Kanunu m. 1522 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 1522 uygulamasında «(Değişik: 26/6/2012-6335/33» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir.
-
-Öğretide genel kabul gören görüşe göre, TTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Yönetmelik, Resmî Gazetede yayımlanır.
-
-Uygulayıcı, tacir ve ticari iş karinesi ile şirketler hukuku ve organ sorumluluğu arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Bu ölçütler bu Kanunun ilgili tüm hükümlerine uygulanır.
-
-Yatay mevzuat (6098 sayılı TBK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. C) Ölçeklerine göre sermaye şirketleri
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 1522 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Yönetmelik, Resmî Gazetede yayımlanır.
-
-Sonuç olarak, TTK madde 1522 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Bu ölçütler bu Kanunun ilgili tüm hükümlerine uygulanır.
-
-Bu bağlamda m. 1522 uygulamasında «(Değişik: 26/6/2012-6335/33» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. C) Ölçeklerine göre sermaye şirketleri
-
-Öğretide genel kabul gören görüşe göre, TTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir.
-
-Uygulayıcı, tacir ve ticari iş karinesi ile şirketler hukuku ve organ sorumluluğu arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Yönetmelik, Resmî Gazetede yayımlanır.
-
-Yatay mevzuat (6098 sayılı TBK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Bu ölçütler bu Kanunun ilgili tüm hükümlerine uygulanır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 1522 sonuçlarının fiilen elde edilmesi için belirleyicidir. C) Ölçeklerine göre sermaye şirketleri
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir.
-
-Sonuç olarak, TTK madde 1522 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Yönetmelik, Resmî Gazetede yayımlanır.
-
-Bu bağlamda m. 1522 uygulamasında «(Değişik: 26/6/2012-6335/33» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Bu ölçütler bu Kanunun ilgili tüm hükümlerine uygulanır.
-
-Öğretide genel kabul gören görüşe göre, TTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. C) Ölçeklerine göre sermaye şirketleri
-
-Uygulayıcı, tacir ve ticari iş karinesi ile şirketler hukuku ve organ sorumluluğu arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir.
-
-Yatay mevzuat (6098 sayılı TBK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Yönetmelik, Resmî Gazetede yayımlanır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 1522 sonuçlarının fiilen elde edilmesi için belirleyicidir. Bu ölçütler bu Kanunun ilgili tüm hükümlerine uygulanır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. C) Ölçeklerine göre sermaye şirketleri
-
-Sonuç olarak, TTK madde 1522 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir.
-
-Bu bağlamda m. 1522 uygulamasında «(Değişik: 26/6/2012-6335/33» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Yönetmelik, Resmî Gazetede yayımlanır.
-
-Öğretide genel kabul gören görüşe göre, TTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bu ölçütler bu Kanunun ilgili tüm hükümlerine uygulanır.
-
-Uygulayıcı, tacir ve ticari iş karinesi ile şirketler hukuku ve organ sorumluluğu arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. C) Ölçeklerine göre sermaye şirketleri
-
-Yatay mevzuat (6098 sayılı TBK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 1522 sonuçlarının fiilen elde edilmesi için belirleyicidir. Yönetmelik, Resmî Gazetede yayımlanır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Bu ölçütler bu Kanunun ilgili tüm hükümlerine uygulanır.
-
-Sonuç olarak, TTK madde 1522 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. C) Ölçeklerine göre sermaye şirketleri
-
-Bu bağlamda m. 1522 uygulamasında «(Değişik: 26/6/2012-6335/33» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir.
-
-Öğretide genel kabul gören görüşe göre, TTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Yönetmelik, Resmî Gazetede yayımlanır.
-
-Uygulayıcı, tacir ve ticari iş karinesi ile şirketler hukuku ve organ sorumluluğu arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Bu ölçütler bu Kanunun ilgili tüm hükümlerine uygulanır.
-
-Yatay mevzuat (6098 sayılı TBK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. C) Ölçeklerine göre sermaye şirketleri
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 1522 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Yönetmelik, Resmî Gazetede yayımlanır.
-
-Sonuç olarak, TTK madde 1522 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Bu ölçütler bu Kanunun ilgili tüm hükümlerine uygulanır.
-
-Bu bağlamda m. 1522 uygulamasında «(Değişik: 26/6/2012-6335/33» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. C) Ölçeklerine göre sermaye şirketleri
-
-Öğretide genel kabul gören görüşe göre, TTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir.
-
-Uygulayıcı, tacir ve ticari iş karinesi ile şirketler hukuku ve organ sorumluluğu arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Yönetmelik, Resmî Gazetede yayımlanır.
-
-Yatay mevzuat (6098 sayılı TBK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Bu ölçütler bu Kanunun ilgili tüm hükümlerine uygulanır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 1522 sonuçlarının fiilen elde edilmesi için belirleyicidir. C) Ölçeklerine göre sermaye şirketleri
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir.
-
-Sonuç olarak, TTK madde 1522 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Yönetmelik, Resmî Gazetede yayımlanır.
-
-Bu bağlamda m. 1522 uygulamasında «(Değişik: 26/6/2012-6335/33» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Bu ölçütler bu Kanunun ilgili tüm hükümlerine uygulanır.
-
-Öğretide genel kabul gören görüşe göre, TTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. C) Ölçeklerine göre sermaye şirketleri
-
-Uygulayıcı, tacir ve ticari iş karinesi ile şirketler hukuku ve organ sorumluluğu arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir.
-
-Yatay mevzuat (6098 sayılı TBK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Yönetmelik, Resmî Gazetede yayımlanır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 1522 sonuçlarının fiilen elde edilmesi için belirleyicidir. Bu ölçütler bu Kanunun ilgili tüm hükümlerine uygulanır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. C) Ölçeklerine göre sermaye şirketleri
-
-Sonuç olarak, TTK madde 1522 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir.
-
-Bu bağlamda m. 1522 uygulamasında «(Değişik: 26/6/2012-6335/33» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Yönetmelik, Resmî Gazetede yayımlanır.
-
-Öğretide genel kabul gören görüşe göre, TTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bu ölçütler bu Kanunun ilgili tüm hükümlerine uygulanır.
-
-Uygulayıcı, tacir ve ticari iş karinesi ile şirketler hukuku ve organ sorumluluğu arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. C) Ölçeklerine göre sermaye şirketleri
-
-Yatay mevzuat (6098 sayılı TBK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 1522 sonuçlarının fiilen elde edilmesi için belirleyicidir. Yönetmelik, Resmî Gazetede yayımlanır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Bu ölçütler bu Kanunun ilgili tüm hükümlerine uygulanır.
-
-Sonuç olarak, TTK madde 1522 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. C) Ölçeklerine göre sermaye şirketleri
-
-Bu bağlamda m. 1522 uygulamasında «(Değişik: 26/6/2012-6335/33» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir.
-
-Öğretide genel kabul gören görüşe göre, TTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Yönetmelik, Resmî Gazetede yayımlanır.
-
-Uygulayıcı, tacir ve ticari iş karinesi ile şirketler hukuku ve organ sorumluluğu arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Bu ölçütler bu Kanunun ilgili tüm hükümlerine uygulanır.
-
-Yatay mevzuat (6098 sayılı TBK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. C) Ölçeklerine göre sermaye şirketleri
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 1522 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Yönetmelik, Resmî Gazetede yayımlanır.
-
-Sonuç olarak, TTK madde 1522 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Bu ölçütler bu Kanunun ilgili tüm hükümlerine uygulanır.
-
-Bu bağlamda m. 1522 uygulamasında «(Değişik: 26/6/2012-6335/33» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. C) Ölçeklerine göre sermaye şirketleri
-
-Öğretide genel kabul gören görüşe göre, TTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir.
-
-Uygulayıcı, tacir ve ticari iş karinesi ile şirketler hukuku ve organ sorumluluğu arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Yönetmelik, Resmî Gazetede yayımlanır.
-
-Yatay mevzuat (6098 sayılı TBK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Bu ölçütler bu Kanunun ilgili tüm hükümlerine uygulanır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 1522 sonuçlarının fiilen elde edilmesi için belirleyicidir. C) Ölçeklerine göre sermaye şirketleri
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir.
-
-Sonuç olarak, TTK madde 1522 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Yönetmelik, Resmî Gazetede yayımlanır.
-
-Bu bağlamda m. 1522 uygulamasında «(Değişik: 26/6/2012-6335/33» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Bu ölçütler bu Kanunun ilgili tüm hükümlerine uygulanır.
-
-Öğretide genel kabul gören görüşe göre, TTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. C) Ölçeklerine göre sermaye şirketleri
-
-Uygulayıcı, tacir ve ticari iş karinesi ile şirketler hukuku ve organ sorumluluğu arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir.
-
-Yatay mevzuat (6098 sayılı TBK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Yönetmelik, Resmî Gazetede yayımlanır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 1522 sonuçlarının fiilen elde edilmesi için belirleyicidir. Bu ölçütler bu Kanunun ilgili tüm hükümlerine uygulanır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. C) Ölçeklerine göre sermaye şirketleri
-
-Sonuç olarak, TTK madde 1522 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Değişik: 26/6/2012-6335/33 md.) (1) Küçük ve orta büyüklükteki işletmeleri tanımlayan ölçütler, Türkiye Odalar ve Borsalar Birliği ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun görüşleri alınarak, Gümrük ve Ticaret Bakanlığı tarafından yönetmelikle düzenlenir.
+Bu yorum maddenin resmi metni ve yerel karar arşivi esas alınarak hazırlanmıştır. Künyeler arşivden birebir alınır, uydurulmaz ve örnek olaylar kurmacadır.

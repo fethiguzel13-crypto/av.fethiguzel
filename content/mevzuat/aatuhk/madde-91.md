@@ -3,8 +3,8 @@ title: "Amme Alacaklarının Tahsil Usulü Hakkında Kanun Madde 91"
 kanun: "Amme Alacaklarının Tahsil Usulü Hakkında Kanun"
 maddeNo: 91
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3194
+lastReviewed: "2026-08-22"
+wordCount: 1051
 ---
 
 **Gayrimenkullere değer biçme:**
@@ -20,248 +20,82 @@ suretiyle satış komisyonu tarafından rayiç değer biçilir.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 91** (6183 sayılı), «Satışa çıkarılacak gayrimenkullere bilirkişinin» başlığı altında kamu alacağı tahsili içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+Amme Alacaklarının Tahsil Usulü Hakkında Kanun 91. maddesi, kamu alacağının tahsili amacıyla haczedilen gayrimenkullerin paraya çevrilme sürecinde en kritik aşamalardan biri olan değerleme işlemini düzenlemektedir. İdare, kamu alacağını tahsil ederken mülkiyet hakkına müdahale ettiğinden, gayrimenkulün gerçek değerinin tespiti hem borçlunun haklarını korumak hem de kamu alacağının azami ölçüde karşılanmasını sağlamak adına elzemdir. Kanun koyucu, bu süreci teknik bir uzmanlık ve idari bir takdir yetkisinin bileşimi olarak kurgulamış olup, sürecin hukuka uygunluğunu bilirkişi raporu ile komisyon kararı arasındaki dengeye bağlamıştır. Değerleme işlemi, sadece bir fiyat belirleme süreci değil, aynı zamanda mülkiyetin tasfiyesine giden yolda idarenin şeffaflık yükümlülüğünün bir gereğidir.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 91 izole okunmamalı; AATUHK’nın ilgili bölüm/ayırım bütünlüğü ve ödeme emri ilkesiyle birlikte yorumlanmalıdır.
+Madde metninde açıkça ifade edildiği üzere, değerleme süreci bilirkişinin mütalaası ile başlamaktadır. Bilirkişi, gayrimenkulün konumu, imar durumu, yapı özellikleri ve benzeri fiziksel niteliklerini teknik veriler ışığında inceleyerek bir rapor hazırlamakla yükümlüdür. Bu mütalaa, satış komisyonunun karar alırken dayanak edindiği teknik bir belge niteliğinde olup, idarenin takdir yetkisini kullanırken keyfi bir tutum sergilemesini önleyen bir denetim mekanizması işlevi görmektedir. Uzmanın görüşü, taşınmazın piyasadaki muhtemel satış değerini yansıtan objektif bir çerçeve sunar.
 
-Ratio legis, ödeme emri, haciz, rüçhan ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir. Gayrimenkullerin satış şartnamesi:
+Satış komisyonu, bilirkişinin sunduğu mütalaayı değerlendirerek gayrimenkule rayiç değer biçme yetkisini kullanan nihai organdır. Komisyon, bilirkişi raporu ile bağlı olmamakla birlikte, raporun içeriğindeki teknik verileri göz ardı etmesi durumunda gerekçesini açıkça ortaya koymak zorundadır. Rayiç değer, taşınmazın satış tarihinde piyasada alıcı bulabileceği makul bedeli ifade ederken, bu bedelin belirlenmesinde idarenin kamu yararı ve borçlunun mülkiyet hakkı arasında adil bir denge kurması beklenmektedir. Komisyonun kararı, satış sürecinin sonraki aşamaları olan ilan ve şartname düzenlenmesi için hukuki temel teşkil etmektedir.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Uygulamada değerleme aşaması, cebri icra hukukunun genel prensipleri ile idare hukukunun kamu gücü kullanımı arasındaki etkileşimin en yoğun hissedildiği alandır. İdarenin bu aşamada atacağı hatalı bir adım, satışın iptaline veya kamu alacağının eksik tahsil edilmesine yol açarak idari sorumluluğu doğurabilmektedir. Dolayısıyla, 91. madde kapsamındaki işlemlerin, güncel piyasa koşullarına uygun ve uzman görüşüne dayalı olarak gerçekleştirilmesi bir zorunluluktur. Kanaatimizce, bilirkişi seçimi ve komisyonun değerleme süreci, kamu alacağının tahsilinde hukuki güvenlik ilkesinin somutlaşmış bir yansıması olarak kabul edilmelidir.
+
+Sonuç olarak, 91. madde, mülkiyet hakkına yönelik yapılan müdahalenin ölçülülük ilkesine uygunluğunu denetleyen bir işlev üstlenmektedir. Bilirkişinin teknik uzmanlığı ile komisyonun idari sorumluluğunun birleştiği bu süreç, cebri satışlarda adil bir değer tespiti yapılmasını güvence altına almaktadır. İdarenin bu yetkisini kullanırken yasal sınırlar içerisinde kalması ve değerleme sürecini objektif kriterlere dayandırması, kamu alacağının tahsili kadar hukuki belirlilik ilkesinin de korunmasını sağlar.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Bilirkişi Mütalaası ve Teknik Gereklilik
 
-Madde 91, «Satışa çıkarılacak gayrimenkullere bilirkişinin» ekseninde Satışa çıkarılacak gayrimenkullere bilirkişinin ve Gayrimenkullerin
-satış şartnamesi kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak kamu alacağı tahsili içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+Bilirkişi mütalaası, gayrimenkulün fiziksel ve hukuki durumunun uzman gözüyle tespiti için zorunlu bir aşamadır. Uzman, taşınmazın yerinde incelemesini yaparak piyasa değerini etkileyen unsurları raporunda detaylandırmalıdır ve bu rapor, komisyonun takdir yetkisini kullanırken başvuracağı temel teknik veridir.
 
-##### 2.2. Unsurlar
+Raporda yer alan tespitlerin güncel piyasa verileriyle desteklenmesi, değerlemenin doğruluğu açısından kritiktir. İdare, bilirkişi seçerken uzmanlık alanına uygun kişileri belirlemeli ve raporun tarafsızlığını gözetmelidir.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+##### 2.2. Satış Komisyonunun Takdir Yetkisi
 
-Metinden çıkan somut vurgular: Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir. Gayrimenkullerin satış şartnamesi:
+Satış komisyonu, mütalaa ışığında gayrimenkulün rayiç değerini belirleyen yetkili organdır. Komisyon, bilirkişi raporunu bir veri kaynağı olarak kullanır ancak nihai bedeli belirleme yetkisi münhasıran kendisine aittir. Bu yetkinin kullanılması, idari işlem niteliğinde olup denetlenebilir bir gerekçeye dayanmalıdır.
 
-##### 2.3. Korunan menfaat
+Komisyon, değerleme yaparken sadece bilirkişi mütalaası ile sınırlı kalmayıp, idarenin elindeki güncel emsal verileri de değerlendirmelidir. Bu durum, idari takdirin keyfilikten uzak ve objektif kriterlere dayalı olmasını zorunlu kılar.
 
-Korunan menfaat, bireysel hak sahibi ile haciz arasındaki dengede aranır. AATUHK m. 91, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. Satışa çıkarılacak gayrimenkullere bilirkişinin kavramı bu dengede anahtar rol oynar.
+##### 2.3. Rayiç Değerin Hukuki Niteliği
 
-##### 2.4. Sonuç ve yaptırım
+Rayiç değer, gayrimenkulün satışa çıkarıldığı tarihteki gerçek piyasa değerini ifade eder ve bu bedel, satışın başlangıç noktası olup, ihalenin muhammen bedelini belirler. Rayiç değerin piyasa gerçeklerinden kopuk olması, satışın başarısız olmasına veya borçlunun mülkiyet hakkının ihlaline sebebiyet verebilir.
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Rayiç değerin tespiti, idarenin kamu alacağını tahsil etme hedefi ile borçlunun malvarlığı üzerindeki tasarruf yetkisi arasındaki dengeyi temsil eder.
+
+##### 2.4. Mülkiyet Hakkının Korunması
+
+Devletin kamu alacağını tahsil etme yetkisi, mülkiyet hakkının özüne dokunmadan kullanılmalıdır. Değerleme süreci, borçlunun malının gerçek değerinde paraya çevrilmesini sağlayarak mülkiyet hakkına yönelik müdahalenin meşruiyetini artırır.
+
+Hatalı değerleme, borçlunun malının değerinin altında satılmasına yol açarak mülkiyet hakkı ihlaline neden olabilir. Bu nedenle 91. madde, mülkiyetin korunması bağlamında idareyi sınırlandıran bir güvence hükmüdür.
 
 #### 3. Sistematik İlişkiler
 
-- **AATUHK komşu maddeler:** m. 91 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle Satışa çıkarılacak gayrimenkullere bilirkişinin temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** ödeme emri; haciz; rüçhan; tecil–terkin.
-- **Yatay mevzuat:** VUK; İİK (kıyasen sınırlı); İYUK.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**m.90 — Satış ve satış komisyonları** 90. maddede düzenlenen satış komisyonları, 91. madde uyarınca rayiç değer belirleme yetkisini kullanan organdır; bu iki madde birbirini tamamlayan bir yapı sergiler.
 
-Bu ilişkiler, m. 91’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+**m.92 — Gayrimenkullerin satış şartnamesi** 91. madde uyarınca belirlenen rayiç değer, 92. madde kapsamındaki satış şartnamesinin esaslı unsurlarından olan muhammen bedelin temelini oluşturur.
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
+**m.93 — Gayrimenkul satışında ilan** 91. maddede tespit edilen rayiç değer, 93. madde uyarınca yapılacak ilanda borçlunun ve üçüncü kişilerin bilgilendirilmesi gereken en önemli veridir.
 
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (Satışa çıkarılacak gayrimenkullere bilirkişinin / Gayrimenkullerin
-satış şartnamesi karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
-
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
-
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir. Gayrimenkullerin satış şartnamesi:
+Yerel arşivde bu maddeye yapısal atıf yapan tam künyeli karar bulunamadı ve içtihat bölümü bu yüzden boş bırakılır; künye uydurulmaz.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında satışa çıkarılacak gayrimenkullere bilirkişinin ile bağlantılı bir uyuşmazlık çıkar. Davacı, AATUHK m. 91’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir. cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Vergi dairesi, borçlu A'ya ait bir arsayı haczetmiş ve değerleme süreci için bir bilirkişi görevlendirmiştir. Bilirkişi, arsanın imar durumunu yanlış değerlendirerek değerini piyasa rayicinin çok altında belirlemiştir. Satış komisyonu, bilirkişi raporunu hiç incelemeden onaylamış ve taşınmazı bu düşük bedel üzerinden satışa çıkarmıştır. Borçlu A, değerleme raporuna ve komisyon kararına karşı idari yargıda dava açmıştır.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 91 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** Satış komisyonu, bilirkişinin raporunda öngördüğü değerin piyasa koşullarına göre düşük kaldığını tespit etmiştir. Komisyon, bilirkişi mütalaasının aksine, çevredeki benzer satışları baz alarak daha yüksek bir rayiç değer belirlemiştir. Borçlu, komisyonun bilirkişi raporunun üzerine çıkamayacağını iddia ederek işlemin iptalini talep etmiştir. Mahkeme, idarenin takdir yetkisinin kapsamını değerlendirerek komisyon kararının hukuka uygunluğunu denetlemiştir.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, Gayrimenkullerin
-satış şartnamesi gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* AATUHK’nın iyiniyet ve dürüstlük ilkeleri ile m. 91’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Haczedilen bir binanın değerlemesi sırasında bilirkişi, binanın yapı kalitesini ve iç donanımını incelemeden sadece arsa payı üzerinden değer biçmiştir. Satış komisyonu, bu eksik raporu esas alarak bir satış bedeli belirlemiştir ve ihale aşamasında, binanın gerçek değerinin belirlenmemesi sebebiyle satışın iptali gündeme gelmiştir.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; Satışa çıkarılacak gayrimenkullere bilirkişinin ile Satışa çıkarılacak gayrimenkullere bilirkişinin’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **AATUHK madde 91**, **AATUHK m. 91**, **AATUHK 91** ve **Amme Alacaklarının Tahsil Usulü Hakkında Kanun madde 91** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Bilirkişi mütalaası, sadece teknik bir rapor değil, idarenin takdir yetkisini sınırlayan bir rehberdir.
+
+Satış komisyonu, bilirkişi raporuna bağlı kalmaksızın piyasa gerçeklerini yansıtan bir değer belirlemelidir.
+
+Değerleme işleminde emsal piyasa verilerinin kullanılmaması, işlemin iptaline neden olabilir.
+
+Hatalı değerleme, kamu alacağının tahsilini zora soktuğu gibi idarenin tazminat sorumluluğunu doğurur.
 
 #### 7. Eleştirel Değerlendirme
 
-AATUHK m. 91, kamu alacağı tahsili içinde Satışa çıkarılacak gayrimenkullere bilirkişinin temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve ödeme emri ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Bilirkişi mütalaasının komisyon üzerindeki bağlayıcılığının belirsizliği, uygulamada keyfi kararlara zemin hazırlayabilmektedir.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 91 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+İdarenin teknik uzmanlık gerektiren değerleme süreçlerinde, bilirkişi raporlarını yeterince denetlemeden kabul etmesi hukuki güvenlik ilkesini zedelemektedir.
+
+Rayiç değerin belirlenmesinde kullanılan yöntemlerin standartlaştırılmamış olması, farklı komisyonlar arasında uygulama birliğini bozmaktadır.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 91 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 91 uygulamasında «Satışa çıkarılacak gayrimenkullere bilirkişinin» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Gayrimenkullerin satış şartnamesi:
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Gayrimenkullerin satış şartnamesi:
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 91 sonuçlarının fiilen elde edilmesi için belirleyicidir. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Gayrimenkullerin satış şartnamesi:
-
-Sonuç olarak, AATUHK madde 91 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Bu bağlamda m. 91 uygulamasında «Satışa çıkarılacak gayrimenkullere bilirkişinin» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Gayrimenkullerin satış şartnamesi:
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Gayrimenkullerin satış şartnamesi:
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 91 sonuçlarının fiilen elde edilmesi için belirleyicidir. Gayrimenkullerin satış şartnamesi:
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Sonuç olarak, AATUHK madde 91 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Gayrimenkullerin satış şartnamesi:
-
-Bu bağlamda m. 91 uygulamasında «Satışa çıkarılacak gayrimenkullere bilirkişinin» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Gayrimenkullerin satış şartnamesi:
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Gayrimenkullerin satış şartnamesi:
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 91 sonuçlarının fiilen elde edilmesi için belirleyicidir. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Gayrimenkullerin satış şartnamesi:
-
-Sonuç olarak, AATUHK madde 91 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Bu bağlamda m. 91 uygulamasında «Satışa çıkarılacak gayrimenkullere bilirkişinin» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Gayrimenkullerin satış şartnamesi:
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Gayrimenkullerin satış şartnamesi:
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 91 sonuçlarının fiilen elde edilmesi için belirleyicidir. Gayrimenkullerin satış şartnamesi:
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Sonuç olarak, AATUHK madde 91 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Gayrimenkullerin satış şartnamesi:
-
-Bu bağlamda m. 91 uygulamasında «Satışa çıkarılacak gayrimenkullere bilirkişinin» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Gayrimenkullerin satış şartnamesi:
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Gayrimenkullerin satış şartnamesi:
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 91 sonuçlarının fiilen elde edilmesi için belirleyicidir. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Gayrimenkullerin satış şartnamesi:
-
-Sonuç olarak, AATUHK madde 91 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Bu bağlamda m. 91 uygulamasında «Satışa çıkarılacak gayrimenkullere bilirkişinin» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Gayrimenkullerin satış şartnamesi:
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Gayrimenkullerin satış şartnamesi:
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 91 sonuçlarının fiilen elde edilmesi için belirleyicidir. Gayrimenkullerin satış şartnamesi:
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Sonuç olarak, AATUHK madde 91 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Gayrimenkullerin satış şartnamesi:
-
-Bu bağlamda m. 91 uygulamasında «Satışa çıkarılacak gayrimenkullere bilirkişinin» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Gayrimenkullerin satış şartnamesi:
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Gayrimenkullerin satış şartnamesi:
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 91 sonuçlarının fiilen elde edilmesi için belirleyicidir. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Gayrimenkullerin satış şartnamesi:
-
-Sonuç olarak, AATUHK madde 91 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Bu bağlamda m. 91 uygulamasında «Satışa çıkarılacak gayrimenkullere bilirkişinin» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Gayrimenkullerin satış şartnamesi:
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Gayrimenkullerin satış şartnamesi:
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 91 sonuçlarının fiilen elde edilmesi için belirleyicidir. Gayrimenkullerin satış şartnamesi:
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Sonuç olarak, AATUHK madde 91 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Gayrimenkullerin satış şartnamesi:
-
-Bu bağlamda m. 91 uygulamasında «Satışa çıkarılacak gayrimenkullere bilirkişinin» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Gayrimenkullerin satış şartnamesi:
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Gayrimenkullerin satış şartnamesi:
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 91 sonuçlarının fiilen elde edilmesi için belirleyicidir. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Gayrimenkullerin satış şartnamesi:
-
-Sonuç olarak, AATUHK madde 91 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Bu bağlamda m. 91 uygulamasında «Satışa çıkarılacak gayrimenkullere bilirkişinin» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Gayrimenkullerin satış şartnamesi:
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Gayrimenkullerin satış şartnamesi:
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 91 sonuçlarının fiilen elde edilmesi için belirleyicidir. Gayrimenkullerin satış şartnamesi:
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Sonuç olarak, AATUHK madde 91 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Gayrimenkullerin satış şartnamesi:
-
-Bu bağlamda m. 91 uygulamasında «Satışa çıkarılacak gayrimenkullere bilirkişinin» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Gayrimenkullerin satış şartnamesi:
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Gayrimenkullerin satış şartnamesi:
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 91 sonuçlarının fiilen elde edilmesi için belirleyicidir. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Gayrimenkullerin satış şartnamesi:
-
-Sonuç olarak, AATUHK madde 91 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Bu bağlamda m. 91 uygulamasında «Satışa çıkarılacak gayrimenkullere bilirkişinin» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Gayrimenkullerin satış şartnamesi:
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Satışa çıkarılacak gayrimenkullere bilirkişinin mütalaası alınmak suretiyle satış komisyonu tarafından rayiç değer biçilir.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Gayrimenkullerin satış şartnamesi:
+Doktrin genel görüşleri ve AATUHK 91. madde hükümleri esas alınmıştır. İçtihat bölümü, yerel arşiv kayıtlarında bu maddeye dair spesifik bir atıf bulunmadığından boş bırakılmıştır.

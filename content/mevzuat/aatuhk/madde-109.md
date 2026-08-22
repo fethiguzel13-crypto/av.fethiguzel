@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
+
 **Takdir muamelelerine ve kararlara iştirak edemiyecek olanlar:**
 
 ---
@@ -27,391 +28,50 @@ edemezler.
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
+**6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun’un 109. maddesi; cebri icra, kıymet takdiri ve idari itiraz süreçlerinde görev alan kamu görevlilerinin, bilirkişilerin ve kurul üyelerinin tamamen tarafsız, objektif ve dürüst kurallar altında karar vermesini temin eden; tarafların şahsi, ailevi veya temsili yakınlıkları nedeniyle ortaya çıkabilecek çıkar çatışmalarını (bias) proaktif olarak engelleyen "takdir muamelelerine ve kararlara iştirak yasağı" müessesesini tanzim eden; yasağın sınırlarını nişanlıları, boşanmış eşleri, üçüncü dereceye kadar kan ve sıhri hısımları ile kanuni temsilcisi olunan kişileri kapsayacak şekilde son derece geniş ve emredici olarak belirleyen; vergilendirmede dürüstlük, idari belirlilik, silahların eşitliği, mülkiyet hakkının korunması ve adil yargılanma ilkelerini güvence altına alan, kamu düzenine müteallik kurucu bir usul hukuku normudur.**
 
-**Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 109**, «Takdir muamelelerine ve kararlara iştirak edemiyecek olanlar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 109 – Bu kanunun tatbikına satış komisyonu reis ve azasiyle, bilirkişiler ve
-yine bu kanunun tatbikı münasebetiyle kendilerine intikal edecek hadiselerin karara
-bağlanmasında itiraz komisyonları reis ve azası:
-1. Kendilerine, nişanlılarına ve boşanmış olsalar bile eşlerine,
-2. Kan veya sıhri usul ve furuuna, evlatlığına veya kendisini evlat edinene yahut kan
-hısımlığında üçüncü (bu derece da… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Sistematik açıdan bu madde; Kanun’un "Üçüncü Kısım" ortak başlığı altında düzenlenen "Zamanaşımı, terkin, yasaklar ve cezalar ve son hükümler" bölümünün sekizinci sırasında, satış ihalelerine katılma yasaklarını tanzim eden 108. maddeden hemen sonra, yüz dokuzuncu sırada konumlandırılmıştır. Bu sistematik yerleşim; kanun koyucunun amme alacağının cebren tahsili aşamasında görev yapan personelin dürüstlük ve tarafsızlık sınırlarını tanzim ederken, maddi ihalelerin güvenliğini (m. 108) kurduktan hemen sonra, bu ihalelere ve takiplere esas teşkil eden "kıymet takdirleri ile bunlara karşı yapılan idari itirazların karara bağlanması" (m. 109 kapsamında "Takdir muamelelerine ve kararlara iştirak edemeyecek olanlar" başlığı altında) süreçlerindeki fikri ve hukuki tarafsızlığı tahkim etme iradesinin doğrudan bir tezahürüdür. Maddenin yapısı; satış komisyonu başkan ve üyelerini, bilirkişileri ve itiraz komisyonu yetkililerini hedef almakta; maddede üç bent halinde sayılan yakınlık derecelerine sahip kişilere ait işlerin değerleme ve karar adımlarına iştirak edilmesini kesin olarak yasaklamaktadır.
+
+Öğretide genel kabul gören görüşe göre, m. 109 hükümleri, kamu icra hukukunda **"doğal kurul/hakim"** ve **"idari dürüstlük"** ilkelerinin idari aşamadaki en kritik güvencelerinden biridir. Devletin borçlunun mallarına el koyarak bunları satması tek taraflı bir egemenlik tasarrufudur. Bu tasarrufun adil olabilmesi, biçilecek değerin (kıymet takdirinin) ve bu değere karşı yapılacak itirazların tamamen yansız uzmanlarca karara bağlanmasına bağlıdır. Değer takdir eden bilirkişinin veya itirazı inceleyen komisyon üyesinin borçluyla veya alacaklıyla kişisel, ailevi veya vekalet ilişkisinin bulunması, alınacak kararların sıhhatini ve kamu vicdanını peşinen sakatlar. Kanun koyucu bu tehlikeyi önlemek adına, subjektif bir şüphenin varlığını aramaksızın, maddede sayılan akrabalık ve temsil ilişkilerinin varlığı halinde iştiraki mutlak olarak yasaklamıştır.
 
 #### 2. Maddedeki Kavramların Analizi
-
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 109, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
-
-##### 2.2. Usulî ve maddi unsurlar
-
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
-
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+Madde metninde yer alan ve iştirak yasağı rejimini şekillendiren temel yasal kavramların analizi şu şekildedir:
+* **Satış Komisyonu Reis ve Azası:** Haczedilen malların paraya çevrilmesi süreçlerini yöneten, ihale şartnamelerini hazırlayan ve ihaleyi gerçekleştiren resmi kurulun başkan ve üyeleridir.
+* **Bilirkişiler (Experts):** Haczedilen menkul veya gayrimenkul malların teknik özelliklerini, yıpranma paylarını ve piyasa koşullarını gözeterek bunlara biçilecek nakdi değeri (kıymet takdirini) belirlemekle görevlendirilen fenni uzmanlardır.
+* **İtiraz Komisyonu Reis ve Azası:** Kıymet takdirlerine, idari kararlara veya takip işlemlerine karşı kanun uyarınca kurulan ve bu itirazları idari düzeyde nihai karara bağlayan kurulların başkan ve üyeleridir.
+* **Nişanlılar ve Boşanmış Eşler (m. 109/1):** Yasağın getirdiği en hassas şahsi sınırlardandır. Evlilik birliği hukuken hiç kurulmamış olsa dahi (nişanlılık hali) veya evlilik birliği mahkeme kararıyla tamamen sona ermiş olsa dahi (boşanmış eş), taraflar arasındaki duygusal veya geçmişe dayalı bağların tarafsızlığı zedeleyeceği varsayılarak yasak kapsamına alınmışlardır.
+* **Usul, Füru ve Hısımlık Sınırları (m. 109/2):** Yasak; memurun veya bilirkişinin anne, baba, büyük anne, büyük babasını (usul), çocuklarını, torunlarını (füru), evlatlıklarını ve kendisini evlat edinenleri kapsar. Ayrıca kan hısımlığında 3. derece dahil (kardeşler, amca, dayı, hala, teyze, yeğenler) civar hısımları ile sıhri (kayın) hısımlıkta evlilik bağı ortadan kalkmış olsa dahi yine 3. dereceye kadar olan civar hısımları (baldız, kayınbirader, görümce vb.) bu yasak dairesindedir.
+* **Kanuni Temsilci veya Vekil (m. 109/3):** Vesayet, velayet veya yasal kayyımlık gibi kanuni temsil ilişkileri ile resmi vekaletnameye dayalı vekillik ilişkisi bulunan şahıslara ait işleri kapsayan hukuki sınırlandırmadır.
 
 #### 3. Sistematik İlişkiler
+Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 109 hükümleri, anayasal düzeyde hukuk devleti ilkesini tanzim eden **Anayasa m. 2**, kanun önünde eşitlik ilkesini belirleyen **Anayasa m. 10**, mülkiyet hakkını ve sınırlarını koruyan **Anayasa m. 35**, hak arama hürriyeti ve adil yargılanma haklarını güvenceleyen **Anayasa m. 36** ile herkesin mali gücüne göre vergilendirilmesini emreden **Anayasa m. 73** ile doğrudan dikey ilişki içerisindedir. Yasaklılık sınırları ihlal edilerek tesis edilen idari kıymet takdirleri ve komisyon kararları, dikey düzeyde anayasal adil yargılanma/adil yönetim ilkelerini ve mülkiyet hakkını doğrudan sakatlar.
 
-- **Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1** — Amaç ve kapsam: m. 109'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 5** — Ceza ve yasak rejimi: m. 109 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+Kanun içi sistematiğinde ise; "menkul malların biçilecek değerini" tanzim eden **AATUHK m. 81**, "gayrimenkul malların değer tespitini" düzenleyen **AATUHK m. 91**, "ihalelerin feshini ve neticelerini" belirleyen **AATUHK m. 99**, "tahsil zamanaşımını" kuran **AATUHK m. 102** ile "artırmalara katılamayacak olanları" tanzim eden **AATUHK m. 108** hükümleriyle sarmal ve bölünmez bir bütünlük sergiler. m. 109, cebri icranın hazırlık aşaması olan değer biçme adımlarının sıhhatini denetleyen, dolaylı olarak m. 99 dairesinde açılacak ihalenin feshi davalarının zeminini hazırlayan usuli bir ön önlemdir.
 
-Bu ilişkiler, m. 109'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+Doktrinde bu husus şu şekilde değerlendirilmektedir: AATUHK m. 109 hükümleri, özel hukukta dürüstlük kuralını sabitleyen **4721 sayılı Türk Medeni Kanunu’nun 2. maddesi**, soybağı ve hısımlık derecelerini düzenleyen **TMK m. 17-18**, genel icra hukukunda icra memurunun kendisi ve yakınları hakkındaki işlemlere bakma yasağını tanzim eden **2004 sayılı İcra ve İflas Kanunu’nun 10. maddesi**, hukuk yargılamasında hakimin davaya bakmaktan yasaklılığı ve reddi müesseselerini kuran **6100 sayılı Hukuk Muhakemeleri Kanunu’nun 34-36. maddeleri**, bilirkişinin yasaklılığını belirleyen **HMK m. 272**, idari işlemlerin yetki ve şekil sakatlıkları nedeniyle açılacak iptal davalarını düzenleyen **2577 sayılı İdari Yargılama Usulü Kanunu** ile ceza hukukunda görevi kötüye kullanma suçunu tanzim eden **5237 sayılı Türk Ceza Kanunu’nun 257. maddesi** hükümleriyle doğrudan yatay, tamamlayıcı ve etkileşimli bir ilişki içerisindedir. Yasaklılık derecelerinin hesabı TMK m. 17-18 dairesinde yürütülürken, bu kurallara aykırı kararlara karşı açılacak davalar İYUK ve HMK yatay dengeleri dairesinde çözümlenir.
 
 #### 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
-
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
 
 #### 5. Pratik Örnek Olaylar
-
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 109 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
-
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
-
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+* **(kurmaca senaryo) 1 (Boşanmış Eşin Malına Kıymet Takdir Eden Bilirkişi):** Borçlu A’ya ait haczedilen fabrikadaki makinelerin değerini tespit etmek üzere vergi dairesince mühendis B bilirkişi olarak görevlendirilmiştir. Ancak bilirkişi B, borçlu A’nın 3 yıl önce boşandığı eski eşidir. Bilirkişi B bu durumu gizleyerek kıymet takdir raporunu hazırlamış ve imzalamıştır. Borçlu A bu rapora dayanarak yapılan ihalenin feshini talep etmiştir. Analizde; m. 109/1 uyarınca boşanmış olsalar dahi eşlerin işlerine ait takdir muamelelerine bilirkişilerin iştirak etmesinin kesinlikle yasak olduğu, bu kuralın ihlal edilmesinin raporu ve buna dayalı tüm ihale işlemlerini esastan sakatladığı saptanarak ihale feshedilmiştir.
+* **(kurmaca senaryo) 2 (Nişanlının Şirketine Ait Taşınmazın Satış Kıymet Takdiri):** Gayrimenkul satış komisyonu üyesi C, borçlu limited şirkete ait bir binanın rayiç bedelinin belirlenmesi ve satış kararı alınması sürecine iştirak etmiştir. Ancak söz konusu borçlu şirketin tek pay sahibi ve müdürü, komisyon üyesi C’nin resmi olarak nişanlı olduğu D’dir. Analizde; m. 109/1 dairesinde nişanlılara ait işlerin takdir ve karar süreçlerine iştirak edilmesinin mutlak olarak yasaklandığı, nişanlılık bağının tespiti halinde komisyon kararının şekil ve yetki unsurları yönünden ağır şekilde sakatlanacağı saptanarak karar mahkemece iptal edilmiştir.
+* **(kurmaca senaryo) 3 (Üçüncü Derece Sıhri Hısımlık Bağı Bulunan Üyenin İtirazı İncelemesi):** Mükellef E, aracına biçilen kıymet takdirine karşı itiraz komisyonuna başvurmuştur. İtiraz komisyonu toplantısına katılarak mükellef lehine oy kullanan ve kararı imzalayan üye F, mükellef E’nin eşinin öz dayısıdır (F ile E'nin eşi arasında 3. derece kan hısımlığı vardır). Analizde; m. 109/2 uyarınca, sıhri hısımlıkta bu hısımlığı meydana getiren evlilik devam ediyor olsa dahi 3. dereceye kadar olan civar hısımlarının (eşin öz dayısının) işlerine ilişkin kararlara iştirak edilemeyeceği, bu iştirakin kararın sıhhatini bozduğu saptanarak komisyon kararı usul yönünden usulsüz bulunmuştur.
 
 #### 6. Pratik Uygulama Notları
-
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+Uygulamada takdir işlemlerinde ve kararlarda iştirak yasaklarını ve bunlardan doğan uyuşmazlıkları yöneten hukukçuların ve idari birimlerin aşağıdaki pratik hususlara dikkat etmesi gerekir:
+* **MERNİS ve Soyağacı Sorgulamalarının Yapılması:** Hukukçular, müvekkillerine ait malların kıymet takdir raporlarında imzası bulunan **bilirkişilerin ve satış komisyonu üyelerinin isimlerini, vukuatlı nüfus kayıt örnekleri ve soyağacı tabloları üzerinden** titizlikle taramalıdır. İhale alıcısı, borçlu, bilirkişi ve komisyon üyeleri arasında gizli bir akrabalık bağı (özellikle 3. dereceye kadar sıhri ve kan hısımlığı) olup olmadığı araştırılmalıdır.
+* **"Evlenme Ortadan Kalkmış Olsa Bile" İstisnasının İzlenmesi:** Sıhri hısımlıklarda (kayın hısımlığı), memurun veya bilirkişinin eşinden boşanmış olması ya da eşinin vefat etmiş olması yasağı kaldırmaz. m. 109/2’nin parantez içi hükmü uyarınca, **evlenme ortadan kalkmış olsa dahi eski eşin akrabalarıyla olan 3. dereceye kadar sıhri hısımlık yasağı** aynen devam eder.
+* **Kanuni Temsil ve Vekalet İlişkilerinin Kontrolü:** Değer takdiri veya komisyon karar tarihinde, görevli personelin borçlu veya üçüncü şahıslarla **aktif bir vekalet ilişkisinin, şirket ortaklığının ya da kanuni temsilcilik (vasi/kayyım) sıfatının** bulunup bulunmadığı ticaret sicil gazeteleri ve baro kayıtları üzerinden geriye dönük sorgulanmalıdır.
+* **İptal ve Fesih Davalarında İlk Usul Def'i Olarak İleri Sürülmesi:** m. 109’a aykırılık, idari işlemin yetki ve şekil unsurlarını sakatlayan mutlak bir hukuka aykırılık sebebidir. Hukukçular, **vergi mahkemesinde açacakları iptal davalarında veya genel mahkemelerde açacakları ihalenin feshi davalarında** bu iştirak yasağı ihlalini öncelikli ve asli iptal gerekçesi olarak dava dilekçelerinin başına yazmalıdır.
 
 #### 7. Eleştirel Değerlendirme
+AATUHK m. 109’da tanzim edilen "takdir muamelelerine ve kararlara iştirak yasakları", cebri takip ve değerleme süreçlerinin tarafsızlığı yönünden kağıt üzerinde kusursuz bir koruma ağı örse de, yasaklılık durumlarının tespitinin tamamen tesadüflere bırakılması, proaktif bir dijital filtreleme sisteminin bulunmaması ve ihlallere karşı idari disiplin mekanizmalarının pasif kalması yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, tamamen elektronik ortama aktarılan amme alacağı satışlarında ve e-satış (AATUHK m. 97/A) süreçlerinde, görevlendirilen bilirkişilerin veya komisyon üyelerinin borçlu mükelleflerle olan akrabalık, nişanlılık ya da vekalet bağlarının (sistemler arası entegrasyon noksanlığı sebebiyle) otomatik olarak denetlenememesinin, yasağın etkinliğini ağır şekilde zayıflattığı ve mükellefleri mülkiyet hakkı (Anayasa m. 35) ile adil yargılanma hakkı (Anayasa m. 36) yönünden güvencesiz bıraktığı; ihlallerin ancak borçlunun kendi çabasıyla akrabalığı saptayıp dava açması halinde (m. 99 dairesinde) çözülebildiği, bunun da hukuk devleti belirlilik (Anayasa m. 2) ilkesini hırpaladığı savunulmaktadır.**
 
-Madde 109, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 109, «Takdir muamelelerine ve kararlara iştirak edemiyecek olanlar» başlığı altında, kanunun koruma amacını ve uygulama mimari Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 109, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 109'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakları Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 109, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 109, «Takdir muamelelerine ve kararlara iştirak edemiyecek olanlar» başlığı altında, kanunun koruma amacını ve uygulama mimari Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 109, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 109'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakları Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 109, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 109, «Takdir muamelelerine ve kararlara iştirak edemiyecek olanlar» başlığı altında, kanunun koruma amacını ve uygulama mimari Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 109, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 109'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakları Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 109, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 109, «Takdir muamelelerine ve kararlara iştirak edemiyecek olanlar» başlığı altında, kanunun koruma amacını ve uygulama mimari Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 109, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 109'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakları Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 109, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 109, «Takdir muamelelerine ve kararlara iştirak edemiyecek olanlar» başlığı altında, kanunun koruma amacını ve uygulama mimari Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 109, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 109'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakları Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 109, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 109, «Takdir muamelelerine ve kararlara iştirak edemiyecek olanlar» başlığı altında, kanunun koruma amacını ve uygulama mimari Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 109, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 109'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakları Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 109, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 109, «Takdir muamelelerine ve kararlara iştirak edemiyecek olanlar» başlığı altında, kanunun koruma amacını ve uygulama mimari Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 109, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 109'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakları Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Doktrinde bu husus şu şekilde değerlendirilmektedir: Çıkar çatışmalarının ve tarafgirliğin önlenmesi, bireylerin beyanına veya tesadüfi ihbarlara bırakılamayacak kadar hayati bir kamu güveni konusudur. Kanun koyucu, anayasal eşitlik, dürüstlük, idari belirlilik, ölçülülük ve vergi adaleti ilkelerini tam tahkim etmek adına, **m. 109’u çağdaş bir vizyonla yeniden tanzim ederek; bilirkişi görevlendirmeleri ile satış/itiraz komisyonu üye atamalarının yapıldığı anda, Gelir İdaresi Başkanlığı (VEDOP) ve Adalet Bakanlığı UYAP sistemleri ile Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü (MERNİS) veritabanlarını ortak bir yapay zeka algoritması üzerinden anlık olarak tarayan; atanan uzman ile borçlu arasındaki nişanlılık, boşanmış eş, vekalet veya 3. derece dahil kan/sıhri hısımlık bağlarını milisaniyeler içinde saptayarak atama işlemini otomatik olarak bloke eden ve dosyayı başka bir tarafsız uzmana re'sen yönlendiren "Otomatik Çıkar Çatışması Engelleme Yazılımını"** yasal düzeyde zorunlu kılmalıdır. Böylece idari belirlilik (Anayasa m. 2) ve mükelleflerin mülkiyet hakları (Anayasa m. 35) tamamen teknolojik güvencelerle korunmuş olacaktır.
 
 ---
 
-### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 109 resmi metni ve kanunun sistematiği.
+### Metodolojik Not
+Bu şerh çalışması, Amme Alacaklarının Tahsil Usulü Hakkında Kanun’un 109. maddesinin (tarihi yapısı, kamu icra hukukunda kıymet takdiri, cebri satışlar ve idari itiraz aşamalarında görev alan aktörlerin tarafsızlığını ve dürüstlüğünü korumayı amaçlayan "Takdir muamelelerine ve kararlara iştirak edemeyecek olanlar" müessesesini, bu çerçevede satış komisyonu başkan ve üyelerinin, bilirkişilerin ve itiraz komisyonu başkan ve üyelerinin kendilerine, nişanlılarına, boşanmış olsalar bile eşlerine, kan veya sıhri usul ve füruuna, evlatlıklarına veya kendilerini evlat edinenlere, 3. derece dahil kan hısımlarına, evlilik birliği ortadan kalkmış olsa dahi 3. dereceye kadar sıhri hısımlarına, kanuni temsilcisi veya vekili bulundukları şahıslara ait işlerin değerleme ve karar adımlarına iştirak edemeyeceklerini emreden kurucu yasak sınırlarını, bu emredici iştirak engellerinin ihlal edilmesiyle tesis edilen idari işlemlerin, kıymet takdir raporlarının ve ihale kararlarının sıhhati, iptali ve AATUHK m. 99 dairesinde ihalenin feshi üzerindeki maddi ve usuli yansımalarını, bu etik ve idari sınırların anayasal mülkiyet hakkı, eşitlik ilkesi, adil yargılanma hakkı, mahkemeye erişim hakkı, savunma hakkı, hak arama hürriyeti ve hukuk devleti ilkeleriyle olan doğrudan dikey bağlantısını, İcra ve İflas Kanunu’nun 10. maddesindeki icra dairesi çalışanlarının kendileri ve yakınları hakkındaki işlemlere bakamaması kuralları ile olan dikey ve yatay benzerlik ve farklarını, 4721 sayılı Türk Medeni Kanunu’nun 2. maddesindeki dürüstlük kuralı ve 17-18. maddesindeki hısımlık derecesi hesaplama kuralları ile olan sivil hukuk entegrasyonunu, 2577 sayılı İdari Yargılama Usulü Kanunu dairesinde usulsüz takdir ve komisyon kararlarına karşı açılacak iptal davaları, dava açma sürelerinin hesaplanması ve yürütmenin durdurulması müesseseleriyle olan yatay etkileşimlerini, 6100 sayılı Hukuk Muhakemeleri Kanunu dairesindeki ispat yükü, bilirkişilerin yasaklılığı, resmi kayıtların delil gücü ve süre hesaplamaları yatay dengelerini, AATUHK m. 3 borçlu tanımı, m. 10 teminat türleri, m. 13 ihtiyati haciz, m. 21 amme alacaklarında rüçhan hakkı, m. 22/A borçsuzluk belgesi, m. 35 limited ortakların sorumluluğu, mükerrer m. 35 kanuni temsilcilerin sorumluluğu, m. 41 tahsilat yetkisi, m. 55 ödeme emri, m. 58 ödeme emrine dava açılması, m. 62 haciz varakası, m. 70-71 haczedilemeyecek mallar, m. 74 malların satışı, m. 75 aciz hali, m. 77 menkul haczı, m. 81 değerleme, m. 82 menkulün korunması, m. 84 menkul satışı takvimi, m. 85 menkul satışı nizamı, m. 86 müşterinin temerrüdü yaptırımları, m. 87 satılamayan menkul mallar, m. 88 gayrimenkul haczinin yapılışı, m. 89 haczin rehinli alacaklılara bildirilmesi, m. 90-91 gayrimenkul satış komisyonu ve rayiç değer tespiti, m. 92 gayrimenkul satış şartnamesi, m. 93 gayrimenkul satış ilanı, m. 94 gayrimenkul birinci artırma nizamı, m. 95 gayrimenkul ikinci artırma nizamı, m. 96 gayrimenkul ihalelerinin başarısızlığı ve haczinin devamı, m. 97 gayrimenkul ihale bedelinin ödenmemesi ve feshin sonuçları, m. 97/A elektronik ortamda satış, m. 98 teferruğ ve geri verme, m. 99 ihalenin neticesi, m. 100 iflas yoluyla takip, m. 101 konkordato, m. 102 tahsil zamanaşımı, m. 103 zamanaşımının kesilmesi, m. 104 zamanaşımının işlememesi, m. 105 tabii afet terkin kuralları, m. 106 tahsil imkansızlığı terkini, m. 107 sırrın ifşası kuralları ve m. 108 artırmalara katılamayacak olanlar kuralları ile olan sistematik etkileşimleri dairesinde) vergi ve kamu icra hukukunun genel kabul gören bilimsel prensipleri esas alınarak kaleme alınmıştır. Çalışmada, Türk vergi hukukunun genel kabul gören bilimsel prensipleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.

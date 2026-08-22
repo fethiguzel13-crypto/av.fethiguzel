@@ -3,8 +3,8 @@ title: "Bankacılık Kanunu Madde 132"
 kanun: "Bankacılık Kanunu"
 maddeNo: 132
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3611
+lastReviewed: "2026-08-22"
+wordCount: 1061
 ---
 
 **Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci**
@@ -109,203 +109,80 @@ düzenlenir.
 Sorumluluk
 davalarına ilişkin istisnai yetkiler
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Bankacılık Kanunu m. 132** (5411 sayılı), «Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci» başlığı altında bankacılık regülasyonu içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+Bankacılık Kanunu'nın 132. maddesi Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: Madde 132 - Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci ve 135 inci maddesindeki alacaklarının takip ve tahsilinde 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır. Fon, bu Kanunun 108 inci maddesinde sayılan alacakların takibine, banka kaynağının kullanıldığı tarihten itibaren banka defter, kayıt ve belgelerine göre Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 132 izole okunmamalı; BankK’nın ilgili bölüm/ayırım bütünlüğü ve izin ilkesiyle birlikte yorumlanmalıdır.
+Madde aynı kanunun sistematiği içinde okunur zira komşu hükümler uygulama sırasını ve istisnaları taşır. Yakın maddeler arasında m.131 (Fonun borçlanma ve avans yetkisi), m.133 (Sorumluluk davalarına ilişkin istisnai yetkiler), m.134 (Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona) öne çıkar. Uygulayıcı önce hangi fıkranın somut vakıaya denk düştüğünü yazar, sonra sonuca geçer.
 
-Ratio legis, izin, ihtiyat, sır ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci ve 135 inci maddesindeki alacaklarının takip ve tahsilinde 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır. Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun uygulamasında anılan Kanunun Maliye Bakanlığı tahsil dairesi ve diğer makam, merci ve komisyonlara verdiği yetkileri kullanır.
+Hüküm tek parça gibi görünse de uygulama şart-sonuç ayrımını dosyada açık yazmayı gerektirir. Şart gerçekleşmeden yetki veya yaptırım konuşulmaz ve gerekçe boş kalır.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Somut uyuşmazlıkta maddenin hangi tarih itibarıyla yürürlükte olduğu ve değişiklik fıkralarının vakıaya uygulanıp uygulanmayacağı ayrıca denetlenir. Geçiş hükümleri yok sayılırsa eski lafızla yeni lafız birbirine karışır, karar gerekçesi çöker.
+
+Bu maddeye özgü okuma lafzı başka kanunların kalıp şerhlerine taşımaz. Korunan menfaat Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci başlığının işaret ettiği ilişkidir ve şerh de o ilişki üzerinden yürür.
+
+Uygulama, maddenin emredici çekirdeği ile idareye veya taraflara bırakılan hareket alanını ayırarak ilerler. Çekirdek aşıldığında işlem sakatlanır, hareket alanı içinde kalan tercihler ise gerekçeyle savunulabilir. Somut dosyada bu ayrım yazılmadan verilen sonuç, temyizde lafzı taşımadığı gerekçesiyle döner.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Uygulama alanı
 
-Madde 132, «Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci» ekseninde alacaklarının ve alacakların kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak bankacılık regülasyonu içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci bakımından bu dilim şu metne dayanır: Madde 132 - Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci ve 135 inci maddesindeki alacaklarının takip ve tahsilinde 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır. Fon, bu Kanunun 108 inci maddesinde sayılan alacakların Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.2. Unsurlar
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 132 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+##### 2.2. Şart ve sonuç bağı
 
-Metinden çıkan somut vurgular: Borçlu veya borçlunun malları başka mahallerde bulunduğu takdirde, Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerini, kendi tahsil dairesi aracılığı ile uygulayabileceği gibi, tahsil dairesi bulunmayan mahallerde, o mahaldeki Maliye Bakanlığı tahsil dairesi aracılığıyla da uygulayabilir. Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun uyarınca takip ettiği alacaklarına ilişkin her türlü teminatın paraya çevrilmesinde de anılan Kanun hükümlerini uygulayabilir.
+Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci bakımından bu dilim şu metne dayanır: Madde 132 - Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci ve 135 inci maddesindeki alacaklarının takip ve tahsilinde 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır. Fon, bu Kanunun 108 inci maddesinde sayılan alacakların Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.3. Korunan menfaat
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 132 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Korunan menfaat, bireysel hak sahibi ile ihtiyat arasındaki dengede aranır. BankK m. 132, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. alacak kavramı bu dengede anahtar rol oynar.
+##### 2.3. Yetki ve usul
 
-##### 2.4. Sonuç ve yaptırım
+Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci bakımından bu dilim şu metne dayanır: Madde 132 - Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci ve 135 inci maddesindeki alacaklarının takip ve tahsilinde 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır. Fon, bu Kanunun 108 inci maddesinde sayılan alacakların Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 132 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
 #### 3. Sistematik İlişkiler
 
-- **BankK komşu maddeler:** m. 132 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** izin; ihtiyat; sır; TMSF; faaliyet sınırları.
-- **Yatay mevzuat:** TTK; TBK; SPK; TCK.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**m. 131 — Fonun borçlanma ve avans yetkisi** Bankacılık Kanunu m. 131 (Fonun borçlanma ve avans yetkisi) ile m. 132 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu ilişkiler, m. 132’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+**m. 133 — Sorumluluk davalarına ilişkin istisnai yetkiler** Bankacılık Kanunu m. 133 (Sorumluluk davalarına ilişkin istisnai yetkiler) ile m. 132 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
+**m. 134 — Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona** Bankacılık Kanunu m. 134 (Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona) ile m. 132 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (alacaklarının / alacaklara karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
-
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
-
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre yapacağı satışlarda; satış bedelinin vadeli tahsiline karar verebilir.
+Yerel arşivde bu maddeye yapısal atıf yapan tam künyeli karar bulunamadı ve içtihat bölümü bu yüzden boş bırakılır; künye uydurulmaz.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında fonun, bu kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci ile bağlantılı bir uyuşmazlık çıkar. Davacı, BankK m. 132’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci ve 135 inci maddesindeki alacaklarının takip ve tahsilinde 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır. cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Bir uyuşmazlıkta taraf Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci hükmüne dayanarak talep yöneltti. Karşı taraf maddenin şartlarının oluşmadığını ileri sürdü. Mahkeme resmi lafızdaki unsurları dosyadaki belgelerle tek tek eşlemek zorunda kaldı ve eksik unsur varsa talebi bu maddeye dayandırmadı.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 132 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** İdare veya taraf m. 132 yetkisini acele kullandı ve ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, alacakların gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* BankK’nın iyiniyet ve dürüstlük ilkeleri ile m. 132’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Yürürlük tartışmasında eski ve yeni lafız iç içe geçti ve uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. 132 uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; alacaklarının ile alacak’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **BankK madde 132**, **BankK m. 132**, **BankK 132** ve **Bankacılık Kanunu madde 132** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Dilekçede Bankacılık Kanunu m. 132 dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.
+
+Belge listesi maddenin şartlarını karşılayan olgulara bağlanmalıdır, genel anlatım yetmez.
+
+Karşı tarafın savunması unsur eksikliğine mi yoksa sonuç tartışmasına mı yöneldiği ayrılmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-BankK m. 132, bankacılık regülasyonu içinde Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve izin ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Hükmün lafzı ile uygulamanın pratik ihtiyaçları her somut dosyada ayrıca tartılır. Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci başlığı geniş okunursa madde her uyuşmazlığa çekilir, dar okunursa koruma boşalır.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 132 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Öğreti bu tür hükümlerde lafzın sınırını dosyanın vakıalarıyla test etmeyi önerir ve sayfa ve baskı yılı uydurulmaz.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: Bankacılık Kanunu m. 132 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 132 uygulamasında «Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci ve 135 inci maddesindeki alacaklarının takip ve tahsilinde 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır.
-
-Öğretide genel kabul gören görüşe göre, BankK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun uygulamasında anılan Kanunun Maliye Bakanlığı tahsil dairesi ve diğer makam, merci ve komisyonlara verdiği yetkileri kullanır.
-
-Uygulayıcı, izin ile ihtiyat arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Borçlu veya borçlunun malları başka mahallerde bulunduğu takdirde, Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerini, kendi tahsil dairesi aracılığı ile uygulayabileceği gibi, tahsil dairesi bulunmayan mahallerde, o mahaldeki Maliye Bakanlığı tahsil dairesi aracılığıyla da uygulayabilir.
-
-Yatay mevzuat (TTK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun uyarınca takip ettiği alacaklarına ilişkin her türlü teminatın paraya çevrilmesinde de anılan Kanun hükümlerini uygulayabilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 132 sonuçlarının fiilen elde edilmesi için belirleyicidir. Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre yapacağı satışlarda;
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. satış bedelinin vadeli tahsiline karar verebilir.
-
-Sonuç olarak, BankK madde 132 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Ancak, bu durumun ve vadeli satış şartlarının, satış ilânında ve satış şartnamesinde belirtilmesi zorunludur.
-
-Bu bağlamda m. 132 uygulamasında «Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre satışa arz ettiği mal, hak ve alacaklarla ilgili ihaleye katılmaya, pey sürmeye ve alacağına mahsuben ihaleden mal, hak ve alacakları satın almaya yetkilidir.
-
-Öğretide genel kabul gören görüşe göre, BankK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bu Kanunun 107 nci maddesi uyarınca devralınan alacaklar nedeniyle Fona borçlu olanların iflası hâlinde 2004 sayılı İcra ve İflas Kanununun 221 inci maddesindeki iflas bürosu Fon temsilcisinin katılımıyla teşekkül eder.
-
-Uygulayıcı, izin ile ihtiyat arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. 2004 sayılı İcra ve İflas Kanununun 223 üncü maddesindeki iflas idaresinin, Fonun talep etmesi hâlinde üyelerinden en az biri, Fonun göstereceği iki kat aday arasından icra tetkik mercii tarafından seçilir.
-
-Yatay mevzuat (TTK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Fon, alacağının tahsili bakımından gerekli görürse iflas idaresinin en az iki üyesinin önereceği iki katı aday arasından seçilmesini talep etmeye yetkilidir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 132 sonuçlarının fiilen elde edilmesi için belirleyicidir. Bu durumda, icra tetkik mercii iflas idaresinin asgarî iki üyesini Fonun önereceği adaylar arasından seçer.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Fon bir üye seçtirmişse icra tetkik mercii diğer bir üyeyi alacak tutarı itibarıyla çoğunlukta olanların göstereceği iki aday arasından, bir üyeyi de alacaklı sayısı itibarıyla çoğunlukta olanların göstereceği adaylar arasından seçer.
-
-Sonuç olarak, BankK madde 132 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Fon iki üye seçtirmişse, diğer bir üye icra tetkik mercii tarafından alacaklı sayısı itibarıyla çoğunlukta olanların göstereceği iki aday arasından seçilir.
-
-Bu bağlamda m. 132 uygulamasında «Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci ve 135 inci maddesindeki alacaklarının takip ve tahsilinde 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır.
-
-Öğretide genel kabul gören görüşe göre, BankK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun uygulamasında anılan Kanunun Maliye Bakanlığı tahsil dairesi ve diğer makam, merci ve komisyonlara verdiği yetkileri kullanır.
-
-Uygulayıcı, izin ile ihtiyat arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Borçlu veya borçlunun malları başka mahallerde bulunduğu takdirde, Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerini, kendi tahsil dairesi aracılığı ile uygulayabileceği gibi, tahsil dairesi bulunmayan mahallerde, o mahaldeki Maliye Bakanlığı tahsil dairesi aracılığıyla da uygulayabilir.
-
-Yatay mevzuat (TTK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun uyarınca takip ettiği alacaklarına ilişkin her türlü teminatın paraya çevrilmesinde de anılan Kanun hükümlerini uygulayabilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 132 sonuçlarının fiilen elde edilmesi için belirleyicidir. Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre yapacağı satışlarda;
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. satış bedelinin vadeli tahsiline karar verebilir.
-
-Sonuç olarak, BankK madde 132 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Ancak, bu durumun ve vadeli satış şartlarının, satış ilânında ve satış şartnamesinde belirtilmesi zorunludur.
-
-Bu bağlamda m. 132 uygulamasında «Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre satışa arz ettiği mal, hak ve alacaklarla ilgili ihaleye katılmaya, pey sürmeye ve alacağına mahsuben ihaleden mal, hak ve alacakları satın almaya yetkilidir.
-
-Öğretide genel kabul gören görüşe göre, BankK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bu Kanunun 107 nci maddesi uyarınca devralınan alacaklar nedeniyle Fona borçlu olanların iflası hâlinde 2004 sayılı İcra ve İflas Kanununun 221 inci maddesindeki iflas bürosu Fon temsilcisinin katılımıyla teşekkül eder.
-
-Uygulayıcı, izin ile ihtiyat arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. 2004 sayılı İcra ve İflas Kanununun 223 üncü maddesindeki iflas idaresinin, Fonun talep etmesi hâlinde üyelerinden en az biri, Fonun göstereceği iki kat aday arasından icra tetkik mercii tarafından seçilir.
-
-Yatay mevzuat (TTK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Fon, alacağının tahsili bakımından gerekli görürse iflas idaresinin en az iki üyesinin önereceği iki katı aday arasından seçilmesini talep etmeye yetkilidir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 132 sonuçlarının fiilen elde edilmesi için belirleyicidir. Bu durumda, icra tetkik mercii iflas idaresinin asgarî iki üyesini Fonun önereceği adaylar arasından seçer.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Fon bir üye seçtirmişse icra tetkik mercii diğer bir üyeyi alacak tutarı itibarıyla çoğunlukta olanların göstereceği iki aday arasından, bir üyeyi de alacaklı sayısı itibarıyla çoğunlukta olanların göstereceği adaylar arasından seçer.
-
-Sonuç olarak, BankK madde 132 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Fon iki üye seçtirmişse, diğer bir üye icra tetkik mercii tarafından alacaklı sayısı itibarıyla çoğunlukta olanların göstereceği iki aday arasından seçilir.
-
-Bu bağlamda m. 132 uygulamasında «Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci ve 135 inci maddesindeki alacaklarının takip ve tahsilinde 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır.
-
-Öğretide genel kabul gören görüşe göre, BankK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun uygulamasında anılan Kanunun Maliye Bakanlığı tahsil dairesi ve diğer makam, merci ve komisyonlara verdiği yetkileri kullanır.
-
-Uygulayıcı, izin ile ihtiyat arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Borçlu veya borçlunun malları başka mahallerde bulunduğu takdirde, Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerini, kendi tahsil dairesi aracılığı ile uygulayabileceği gibi, tahsil dairesi bulunmayan mahallerde, o mahaldeki Maliye Bakanlığı tahsil dairesi aracılığıyla da uygulayabilir.
-
-Yatay mevzuat (TTK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun uyarınca takip ettiği alacaklarına ilişkin her türlü teminatın paraya çevrilmesinde de anılan Kanun hükümlerini uygulayabilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 132 sonuçlarının fiilen elde edilmesi için belirleyicidir. Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre yapacağı satışlarda;
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. satış bedelinin vadeli tahsiline karar verebilir.
-
-Sonuç olarak, BankK madde 132 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Ancak, bu durumun ve vadeli satış şartlarının, satış ilânında ve satış şartnamesinde belirtilmesi zorunludur.
-
-Bu bağlamda m. 132 uygulamasında «Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre satışa arz ettiği mal, hak ve alacaklarla ilgili ihaleye katılmaya, pey sürmeye ve alacağına mahsuben ihaleden mal, hak ve alacakları satın almaya yetkilidir.
-
-Öğretide genel kabul gören görüşe göre, BankK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bu Kanunun 107 nci maddesi uyarınca devralınan alacaklar nedeniyle Fona borçlu olanların iflası hâlinde 2004 sayılı İcra ve İflas Kanununun 221 inci maddesindeki iflas bürosu Fon temsilcisinin katılımıyla teşekkül eder.
-
-Uygulayıcı, izin ile ihtiyat arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. 2004 sayılı İcra ve İflas Kanununun 223 üncü maddesindeki iflas idaresinin, Fonun talep etmesi hâlinde üyelerinden en az biri, Fonun göstereceği iki kat aday arasından icra tetkik mercii tarafından seçilir.
-
-Yatay mevzuat (TTK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Fon, alacağının tahsili bakımından gerekli görürse iflas idaresinin en az iki üyesinin önereceği iki katı aday arasından seçilmesini talep etmeye yetkilidir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 132 sonuçlarının fiilen elde edilmesi için belirleyicidir. Bu durumda, icra tetkik mercii iflas idaresinin asgarî iki üyesini Fonun önereceği adaylar arasından seçer.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Fon bir üye seçtirmişse icra tetkik mercii diğer bir üyeyi alacak tutarı itibarıyla çoğunlukta olanların göstereceği iki aday arasından, bir üyeyi de alacaklı sayısı itibarıyla çoğunlukta olanların göstereceği adaylar arasından seçer.
-
-Sonuç olarak, BankK madde 132 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Fon iki üye seçtirmişse, diğer bir üye icra tetkik mercii tarafından alacaklı sayısı itibarıyla çoğunlukta olanların göstereceği iki aday arasından seçilir.
-
-Bu bağlamda m. 132 uygulamasında «Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci ve 135 inci maddesindeki alacaklarının takip ve tahsilinde 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır.
-
-Öğretide genel kabul gören görüşe göre, BankK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun uygulamasında anılan Kanunun Maliye Bakanlığı tahsil dairesi ve diğer makam, merci ve komisyonlara verdiği yetkileri kullanır.
-
-Uygulayıcı, izin ile ihtiyat arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Borçlu veya borçlunun malları başka mahallerde bulunduğu takdirde, Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerini, kendi tahsil dairesi aracılığı ile uygulayabileceği gibi, tahsil dairesi bulunmayan mahallerde, o mahaldeki Maliye Bakanlığı tahsil dairesi aracılığıyla da uygulayabilir.
-
-Yatay mevzuat (TTK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun uyarınca takip ettiği alacaklarına ilişkin her türlü teminatın paraya çevrilmesinde de anılan Kanun hükümlerini uygulayabilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 132 sonuçlarının fiilen elde edilmesi için belirleyicidir. Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre yapacağı satışlarda;
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. satış bedelinin vadeli tahsiline karar verebilir.
-
-Sonuç olarak, BankK madde 132 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Ancak, bu durumun ve vadeli satış şartlarının, satış ilânında ve satış şartnamesinde belirtilmesi zorunludur.
-
-Bu bağlamda m. 132 uygulamasında «Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre satışa arz ettiği mal, hak ve alacaklarla ilgili ihaleye katılmaya, pey sürmeye ve alacağına mahsuben ihaleden mal, hak ve alacakları satın almaya yetkilidir.
-
-Öğretide genel kabul gören görüşe göre, BankK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bu Kanunun 107 nci maddesi uyarınca devralınan alacaklar nedeniyle Fona borçlu olanların iflası hâlinde 2004 sayılı İcra ve İflas Kanununun 221 inci maddesindeki iflas bürosu Fon temsilcisinin katılımıyla teşekkül eder.
-
-Uygulayıcı, izin ile ihtiyat arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. 2004 sayılı İcra ve İflas Kanununun 223 üncü maddesindeki iflas idaresinin, Fonun talep etmesi hâlinde üyelerinden en az biri, Fonun göstereceği iki kat aday arasından icra tetkik mercii tarafından seçilir.
-
-Yatay mevzuat (TTK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Fon, alacağının tahsili bakımından gerekli görürse iflas idaresinin en az iki üyesinin önereceği iki katı aday arasından seçilmesini talep etmeye yetkilidir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 132 sonuçlarının fiilen elde edilmesi için belirleyicidir. Bu durumda, icra tetkik mercii iflas idaresinin asgarî iki üyesini Fonun önereceği adaylar arasından seçer.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Fon bir üye seçtirmişse icra tetkik mercii diğer bir üyeyi alacak tutarı itibarıyla çoğunlukta olanların göstereceği iki aday arasından, bir üyeyi de alacaklı sayısı itibarıyla çoğunlukta olanların göstereceği adaylar arasından seçer.
-
-Sonuç olarak, BankK madde 132 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Fon iki üye seçtirmişse, diğer bir üye icra tetkik mercii tarafından alacaklı sayısı itibarıyla çoğunlukta olanların göstereceği iki aday arasından seçilir.
-
-Bu bağlamda m. 132 uygulamasında «Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri ile 108 inci ve 135 inci maddesindeki alacaklarının takip ve tahsilinde 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır.
+Bu yorum maddenin resmi metni ve yerel karar arşivi esas alınarak hazırlanmıştır. Künyeler arşivden birebir alınır, uydurulmaz ve örnek olaylar kurmacadır.

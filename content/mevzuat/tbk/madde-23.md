@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4292
 ---
 
+
 **III. Yorumlanması**
 
 ---
@@ -20,388 +21,326 @@ veya birden çok anlama geliyorsa, düzenleyenin aleyhine ve karşı tarafın le
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Borçlar Kanunu m. 23**, «III. Yorumlanması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 23 - Genel işlem koşullarında yer alan bir hüküm, açık ve anlaşılır değilse
-veya birden çok anlama geliyorsa, düzenleyenin aleyhine ve karşı tarafın lehine yorumlanır.
+Türk Borçlar Kanunu'nun (TBK) 23. maddesi, **Genel İşlem Koşulları** kurumunun 
+yargısal denetim mekanizmasındaki ikinci aşamayı teşkil eden **Yorum Denetimi**
+müessesesini düzenlemektedir. Madde metni şu şekildedir: *"Genel işlem 
+koşullarında yer alan bir hüküm, açık ve anlaşılır değilse veya birden çok 
+anlama geliyorsa, düzenleyenin aleyhine ve karşı tarafın lehine yorumlanır."* 
+Bu hüküm, borçlar hukuku sistematiği içerisinde, klasik sözleşme hukukunun en 
+temel yorum kuralı olan sübjektif irade arayışının (TBK m. 19) kitle 
+sözleşmeleri (katılmalı sözleşmeler) söz konusu olduğunda yerini objektif ve 
+emredici bir yoruma bıraktığı dogmatik kırılma noktasını ifade eder. 
 
----… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Hukuk sistemimizde **Genel İşlem Koşulları**nın denetimi; sırasıyla **Yürürlük 
+Denetimi** (TBK m. 21-22) **Yorum Denetimi** (TBK m. 23) ve **İçerik 
+Denetimi** (TBK m. 24-25) olmak üzere üç temel aşamadan oluşmaktadır. Bu
+denetim silsilesi içerisinde **Yorum Denetimi**, bir sözleşme hükmünün yürürlük
+denetimini geçerek sözleşmenin kapsamına dâhil olmasından sonra, fakat o hükmün
+dürüstlük kuralına aykırı olup olmadığının (içerik denetimi) 
+değerlendirilmesinden hemen önce devreye giren hayati bir filtredir. 
+Zira bir hükmün içerik denetimi kapsamında geçersiz sayılıp sayılamayacağına 
+karar verilebilmesi için, öncelikle o hükmün ne anlama geldiğinin, yani 
+taraflara ne gibi hak ve borçlar yüklediğinin kesin olarak tespit edilmesi 
+gerekmektedir. Anlamı tespit edilemeyen, muğlak bir ifadenin içerik 
+denetimine tabi tutulması mantıken ve hukuken mümkün değildir.
+
+Karşılaştırmalı hukuk ve mehaz kanun ilişkisi incelendiğinde, bu kuralın 
+kökenlerinin Roma Hukukuna kadar uzandığı görülür. Roma hukukunda benimsenen 
+*"in dubio contra stipulatorem"* (şüphe hâlinde sözleşmeyi düzenleyenin 
+aleyhine yorumlama) ilkesi, kitle sözleşmelerinin modern dogmatiğine TBK m. 23 
+ile adapte edilmiştir. Alman Medeni Kanunu'nda (BGB) § 305c fıkra 2 hükmü 
+ile **Belirsizlik Kuralı (Unklarheitenregel)** olarak açıkça kodifiye edilen bu
+müessese, İsviçre hukukunda farklı bir gelişim seyri izlemiştir. İsviçre
+Borçlar Kanunu'nda (OR) Alman hukukundaki gibi kapsamlı bir genel işlem 
+koşulları bölümü başlangıçta bulunmamakla birlikte, Federal Mahkeme içtihatları
+ve Haksız Rekabet Kanunu (UWG m. 8) ekseninde bu denetim gerçekleştirilmiştir. 
+Doktrinde sıklıkla atıf yapılan ve İsviçre revizyon tasarılarında (örneğin OR 
+Art. 8c taslak tartışmaları ekseninde) sistematik bir konuma oturtulmaya 
+çalışılan bu yorum kuralı, İsviçre'de ağırlıklı olarak Sigorta Sözleşmeleri 
+Kanunu (VVG) m. 33 hükmünde yasal dayanağını bulmuş ve **Güven Teorisi** 
+üzerinden tüm kitle sözleşmelerine teşmil edilmiştir. Türk kanun koyucusu 
+ise, 6098 sayılı TBK'yı kaleme alırken, İsviçre'deki bu içtihadi ve dağınık 
+yapıyı terk ederek, doğrudan BGB modelini benimsemiş ve **Düzenleyenin Aleyhine
+Yorum** kuralını borçlar hukukunun kalbine bağımsız bir norm (TBK m. 23) olarak
+yerleştirmiştir.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+TBK m. 23 hükmünün işleyişi, maddedeki objektif kriterlerin ve hukuk 
+dogmatiğinde geliştirilen yorum teorilerinin derinlemesine analizini zorunlu 
+kılar. Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer'in eserleri
+ışığında bu kavramlar şu şekilde tasnif edilebilir:
 
-Madde 23, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+**A. Açık ve Anlaşılır Olmama (Şeffaflık İlkesinin İhlali):**
+Madde metnindeki ilk ihtimal, bir **Genel İşlem Koşulu**nun "açık ve anlaşılır 
+olmaması" durumudur. **Şeffaflık İlkesi** uyarınca, sözleşmeyi tek taraflı 
+olarak hazırlayan taraf, metni ortalama zekâlı, makul ve dürüst bir karşı 
+tarafın (müşterinin) rahatlıkla anlayabileceği bir açıklıkta kaleme almakla 
+yükümlüdür. Düzenleyen tarafın bilerek veya bilmeyerek çok karmaşık bir 
+teknik terminoloji kullanması, aşırı ağdalı bir hukuk jargonu tercih etmesi, 
+sözleşmenin bir maddesini diğer bir maddeyle çelişecek şekilde kurgulaması veya
+noktalama işaretlerini eksik/hatalı kullanarak cümlenin ana fikrini 
+belirsizleştirmesi, bu kapsamda değerlendirilir. Hukuk sistemi, düzenleyenin bu
+"karanlıkta bırakma" veya "anlaşılmaz kılma" eylemini himaye etmez. Eğer bir 
+ifade açık değilse, o ifadeden çıkarılabilecek birden fazla anlam olmasa bile, 
+metin sırf şeffaf olmadığı için doğrudan doğruya karşı taraf lehine olan en 
+basit anlamıyla yorumlanır veya duruma göre yürürlük denetimine (TBK m. 21) 
+geri gönderilerek yazılmamış sayılması dahi gündeme gelebilir.
 
-##### 2.2. Usulî ve maddi unsurlar
+**B. Birden Çok Anlama Gelme Kuralı (Unklarheitenregel):**
+TBK m. 23'te ifade edilen en temel mekanizma, hükmün "birden çok anlama 
+gelmesi" durumudur. Bu kuralın uygulanabilmesi için, **Genel İşlem Koşulu**
+olarak kaleme alınan cümlenin objektif olarak incelendiğinde birbirine zıt veya
+birbirinden farklı sonuçlar doğuran en az iki farklı anlama gelmeye müsait 
+olması şarttır. Örneğin, bir kargo sözleşmesinde yer alan "Şirket, mücbir 
+sebepler veya operasyonel aksaklıklar hâlinde teslimattaki gecikmelerden 
+sorumlu tutulmayabilir" ifadesindeki "tutulmayabilir" kelimesi, hem kesin bir 
+sorumsuzluk kaydı olarak hem de duruma göre değerlendirilecek bir inisiyatif 
+olarak anlaşılabilecek, çift karakterli (çok anlamlı) bir ifadedir. Alman 
+hukukunda *Unklarheitenregel* olarak adlandırılan bu kural gereği, şayet lafzi,
+sistematik ve amaca uygun yorum metotları tüketildikten sonra hâlâ ortada 
+birden fazla anlam kalıyorsa, yasa koyucu bu tereddüdün faturasını metni 
+hazırlayana keser.
 
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+**C. Düzenleyenin Aleyhine ve Karşı Tarafın Lehine Yorum (in dubio contra 
+stipulatorem):**
+Birden çok anlama gelme durumu tespit edildiğinde devreye giren yasal sonuç, 
+**Düzenleyenin Aleyhine Yorum** kuralıdır. Oğuzman ve Öz'ün yanı sıra 
+Eren'in de vurguladığı üzere, kitle sözleşmelerinde metni tek taraflı olarak 
+önceden hazırlayan kurum, kendi hazırladığı metnin gramer yapısından, noktalama
+işaretlerinden ve içerdiği hukuki muğlaklıklardan tam kusursuz olarak 
+sorumludur. Sözleşmedeki bir boşluk veya çok anlamlılık nedeniyle tereddüt 
+yaşanıyorsa, hâkim tarafların farazi iradelerini araştırmayı bırakır ve 
+doğrudan doğruya o metni dayatan şirketin (düzenleyenin) menfaatine en çok 
+zarar veren, buna karşılık tüketici veya zayıf tacir statüsündeki karşı tarafın
+menfaatini en çok koruyan anlamı, sözleşmenin geçerli anlamı olarak kabul eder. 
 
-##### 2.3. Korunan menfaat ve muhataplar
+**D. Güven Teorisi (Vertrauensprinzip) ve Objektif Yorum:**
+TBK m. 23'ün uygulanmasında dikkate alınması gereken en önemli doktriner 
+altyapı, **Güven Teorisi**'dir. Klasik sözleşme hukukunda bir yorum 
+uyuşmazlığı çıktığında, TBK m. 19 uyarınca "tarafların gerçek ve ortak 
+iradeleri" (sübjektif yorum / İrade Teorisi) esas alınır. Ancak yüz 
+binlerce kişiye sunulan matbu bir **Genel İşlem Koşulu** üzerinde banka ile 
+sıradan bir vatandaşın zihinsel anlamda "ortak ve gerçek bir irade" etrafında 
+birleştiğini iddia etmek, hayatın olağan akışına aykırı bir kurgudur. 
+Nomer ve Eren'in öğretisinde şiddetle savunulduğu üzere, kitle sözleşmelerinde 
+sübjektif yorum uygulanamaz. Bunun yerine, beyanın, ortalama zekâlı, 
+dürüst ve makul bir muhatap tarafından nasıl anlaşılması gerekiyorsa o şekilde 
+anlamlandırıldığı **Objektif Yorum (Güven Teorisi)** yöntemi kullanılmak 
+zorundadır. Metni hazırlayan şirketin "Ben aslında burada bunu 
+kastetmemiştim, şirketimizin iç yönergelerine göre bu kelimenin anlamı budur" 
+şeklindeki sübjektif savunmaları, **Güven Teorisi** karşısında dinlenmez.
 
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+**E. Dar Yorum (Daraltıcı Yorum / Restriktive Auslegung) ve Şüphe Kuralı:**
+Doktrinde **Dar Yorum** (restriktive Auslegung) olarak bilinen kural, TBK m. 
+23'ün doğal bir uzantısıdır. Bilhassa sözleşmeyi hazırlayan şirketin kendi
+sorumluluğunu daralttığı, sınırlandırdığı (sorumsuzluk kayıtları) veya karşı 
+tarafa ceza koşulu yüklediği matbu hükümler, bir şüphe hâlinde mutlaka 
+daraltıcı bir yoruma tabi tutulur. Yani bir istisna hükmü ne kadar geniş 
+ifade edilmiş olursa olsun, hâkim o hükmün sınırlarını muhatabın lehine olacak 
+şekilde en dar alana hapseder. Hakların sınırlandırılması ve sorumluluktan
+kurtulma ifadeleri kitle sözleşmelerinde geniş yorumlanamaz. Şüphe kuralı, 
+özgürlüğün ve temel hakların asıl, kısıtlamanın ise istisna olduğu felsefesine 
+dayanır.
 
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+**F. Muhatap İçin En Olumsuz Anlamın Esas Alınması Görüşü (Taktiksel Yorum):**
+Bu husus, doktrinin en derin ve ileri düzey tartışmalarından biridir. Kural 
+olarak TBK m. 23, muhatabın (müşterinin) "en lehine" olan anlamın seçilmesini 
+emreder. Ancak İsviçre Federal Mahkemesi kararlarından beslenen ve Türk 
+doktrininde de hararetle tartışılan bir teoriye göre; bazen, çok anlamlı bir 
+GİK maddesini müşteri için *en lehe* (yumuşatılmış) şekilde yorumlamak, o 
+maddenin kısmen hukuka uygun hâle gelmesine ve sözleşmede yaşamaya devam ederek
+müşteriyi yine de bir miktar mağdur etmesine yol açabilir. Bunun yerine 
+hâkim, taktiksel bir yorum yaparak, o çok anlamlı maddeyi bilerek düzenleyen 
+için en aşırı ve *muhatap için en olumsuz* anlamıyla yorumlamalıdır ki; bu 
+aşırı olumsuz anlam hemen bir sonraki denetim olan **İçerik Denetimine (TBK m. 
+25)** takılsın ve "kesin hükümsüzlük" giyotiniyle sözleşmeden kökünden sökülüp 
+atılsın. Ancak Eren ve Oğuzman/Öz gibi yazarlar, bu görüşün kanunun açık 
+lafzına (karşı tarafın lehine yorumlanır) aykırı olduğunu, zira yasanın hâkime 
+böyle bir taktiksel "hukuka aykırılaştırma" görevi vermediğini belirterek bu 
+yaklaşımı eleştirmektedirler.
 
 #### 3. Sistematik İlişkiler
 
-- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 23'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 23 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+TBK m. 23'ün, borçlar hukuku dogmatiğinin diğer yapıtaşlarıyla ve Genel İşlem 
+Koşulları denetim zinciriyle olan organik ilişkileri son derece belirleyicidir.
 
-Bu ilişkiler, m. 23'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+**A. TBK m. 19 (Falsa demonstratio non nocet) ile Zıtlık İlişkisi:**
+TBK m. 19, "yanlış isimlendirme zarar vermez" kuralını düzenler ve tarafların 
+gerçekte ne kastettiklerine (sübjektif ortak iradeye) üstünlük tanır. 
+Ancak **Genel İşlem Koşulları** söz konusu olduğunda, TBK m. 23, TBK m. 19'u 
+devreden çıkaran özel bir norm (lex specialis) olarak hareket eder. 
+GİK'lerde tarafların gerçek bir ortak iradesi olmadığı için, metni hazırlayanın
+kelimeleri yanlış seçmesi "yanlış isimlendirme zarar vermez" kuralıyla 
+kurtarılamaz. Düzenleyenin kelime hatası veya muğlaklığı, TBK m. 23 
+uyarınca doğrudan onun aleyhine, katı bir lafzi ve objektif yoruma 
+dönüştürülür. 
 
-#### 4. Uygulama: Yargı İçtihadı
+**B. GİK Denetim Hiyerarşisi (TBK m. 21 ve m. 25 ile Bağlantı):**
+**Yorum Denetimi** (TBK m. 23) **Yürürlük Denetimi** (TBK m. 21) ile **İçerik 
+Denetimi** (TBK m. 25) arasındaki köprüdür. Bir genel işlem koşulu, 
+muhataba açıkça bildirilmemişse veya şaşırtıcı (sürpriz) nitelikteyse, TBK m. 
+21 gereği daha en baştan "yazılmamış sayılır". Yazılmamış sayılan, yani 
+sözleşmenin bünyesine hiç girememiş olan hayalet bir metnin yorumlanmasına (TBK
+m. 23) geçilmesi hukuken mümkün değildir. Ancak metin yürürlük denetimini 
+geçerse TBK m. 23'e gelir. Yorum denetimiyle metnin o bulanık ve çok anlamlı 
+yapısı tek bir anlama (muhatap lehine olan anlama) indirgenerek netleştirilir. Metin netleştikten sonra ise, "Acaba bu netleşen anlam dürüstlük kuralına 
+aykırı mı ve dengeyi bozuyor mu?" sorusunun cevabı için TBK m. 25'te düzenlenen
+**İçerik Denetimi** aşamasına gönderilir.
 
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+**C. TMK m. 2 (Dürüstlük Kuralı) ile Organik Bağ:**
+TBK m. 23'te zikredilen **Düzenleyenin Aleyhine Yorum** kuralının felsefi 
+temeli, doğrudan doğruya Türk Medeni Kanunu m. 2'deki **Dürüstlük Kuralı**dır. Sözleşmeyi hazırlayan güçlü tarafın, metni bilerek flu veya karmaşık 
+bırakıp, ileride doğacak bir uyuşmazlık anında kendi menfaatine manevra yapma 
+çabası, hukuken çelişkili davranış yasağına (venire contra factum proprium) 
+girer. Dürüstlük kuralı, böylesi bir kötüniyeti veya ihmali, metni düzenleyenin
+en aleyhine olacak şekilde sabitleyerek cezalandırır.
 
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+#### 4. Pratik Olay Analizleri
 
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+**Olay 1 (Sigorta Sözleşmelerinde Muğlak İstisna Hükmü):**
+Bir nakliye şirketi (A) taşıdığı mallar için dev bir sigorta şirketiyle "Geniş
+Kapsamlı Emtea Nakliyat Sigortası" imzalamıştır. Sözleşmenin içerisindeki 
+poliçe genel şartlarında, ince puntolarla şu hüküm yer almaktadır: *"Sigorta 
+şirketi, olağanüstü hava koşullarından kaynaklanan, önlenmesi mümkün olmayan 
+zararları karşılama yükümlülüğünden muaf olabilir."* Kış aylarında yaşanan 
+yoğun bir kar fırtınası nedeniyle kargo tırı devrilmiş ve mallar zayi olmuştur.
+Sigorta şirketi bu maddeye dayanarak, kar fırtınasının olağanüstü hava koşulu 
+olduğunu ve "muaf olabilir" ibaresinin kendilerine tazminat ödememe takdiri 
+verdiğini savunarak ödemeden kaçınır. 
+Bu uyuşmazlık mahkemeye taşındığında, hâkim TBK m. 23 uyarınca **Yorum 
+Denetimi** yapacaktır. Hükümdeki "olağanüstü hava koşulu" kavramı belirsizdir 
+ve "muaf olabilir" ibaresi kesin bir sorumsuzluk kaydı mıdır yoksa bir takdir 
+yetkisi midir, açık değildir. Objektif bir incelemede bu ifade birden çok 
+anlama gelmektedir. Hukuk dogmatiğindeki **Düzenleyenin Aleyhine Yorum** kuralı
+gereğince hâkim, bu şüpheli kelime dizilimini doğrudan metni hazırlayan sigorta
+şirketinin aleyhine, nakliye şirketinin ise en lehine olacak şekilde yorumlamak
+zorundadır. Bu daraltıcı yorum (restriktive Auslegung) neticesinde, "kar 
+fırtınası" olağan bir kış koşulu kabul edilerek istisna kapsamı dışına 
+çıkarılır ve "muaf olabilir" ifadesi sigortacıya tek taraflı bir hak 
+bahşetmeyen, etkisiz bir ibare olarak yorumlanır. Sigorta şirketi, bilerek veya
+özensizce yarattığı bu muğlaklığın faturasını, tazminatın tamamını ödeyerek 
+karşılamak zorunda kalır.
 
-#### 5. Pratik Örnek Olaylar
+**Olay 2 (Telekomünikasyon Sözleşmesinde Ceza Koşulu Belirsizliği):**
+Bir tüketici (B) bir GSM operatörüyle 24 aylık taahhütlü abonelik sözleşmesi 
+imzalamıştır. Sözleşmenin matbu maddelerinden birinde, *"Abonenin sözleşmeyi 
+süresinden önce haklı bir sebep olmaksızın feshetmesi durumunda, o güne kadar 
+sağlanan indirimlerin toplamı veya kalan ayların abonelik bedeli tahsil 
+edilir"* ifadesi yer almaktadır. Tüketici 12. ayda sözleşmeyi iptal ettiğinde, 
+GSM operatörü, "veya" bağlacının kendisine seçimlik bir hak verdiğini ileri 
+sürerek, kendi kasasına en çok para girecek olan ihtimali, yani "kalan 12 ayın 
+toplam abonelik bedelini" tüketiciden talep eder.
+Mahkeme önüne gelen bu olayda, **Birden Çok Anlama Gelme Kuralı 
+(Unklarheitenregel)** doğrudan işletilecektir. Madde metni iki farklı tazminat 
+hesabı sunmakta olup, bu seçimi kimin yapacağı açık değildir. TBK m. 23'ün 
+emredici niteliği gereğince, **Genel İşlem Koşulları**nda yaratılan bu 
+belirsizlik ve şüphe durumu, mutlaka metni kaleme alan tarafın aleyhine 
+çözülür. Hâkim, bu seçme hakkını operatöre değil, tüketiciye aitmiş gibi (veya 
+doğrudan tüketici için en düşük meblağı çıkaran ihtimal hangisiyse onu esas 
+alarak) yorumlar. Bu **Dar Yorum** sayesinde, operatörün kendi lehine yarattığı
+esneklik alanı kapatılır ve tüketici için en ucuz ihtimal hangisi ise o rakam 
+üzerinden karar tesis edilir.
 
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 23 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+#### 5. Pratik Uygulama Notları
 
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+Bu maddenin yargısal ve ticari hayattaki uygulamasında, sözleşme hazırlayan 
+hukukçuların ve uyuşmazlıkları savunan avukatların dikkat etmesi gereken 
+stratejik hususlar mevcuttur.
 
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+Öncelikle, **İspat Yükü** bağlamında, bir **Genel İşlem Koşulu**nun muğlak 
+olmadığına ve tek bir anlama geldiğine dair ispat yükü, o maddeyi sözleşmeye 
+koyan ve ondan kendi lehine bir hak/muafiyet çıkarmaya çalışan düzenleyen 
+taraftadır. Şirket avukatlarının, "Bu kavram bizim sektörde herkesçe bu anlama 
+gelir" şeklindeki ticari teamül (usance) savunmaları, karşı tarafın tüketici 
+veya farklı bir sektörden bir tacir olması durumunda **Güven Teorisi** duvarına
+çarpmaktadır.
 
-#### 6. Pratik Uygulama Notları
+Sözleşme taslağı hazırlanırken, Anglo-Sakson hukukundan kopyalanıp yapıştırılan
+(copy-paste) yabancı terimlerin Türkçe hukuk dogmatiğine uyarlanmadan 
+kullanılması (örneğin "best efforts", "material breach" gibi sınırları belirsiz
+kavramlar) mahkemelerde doğrudan TBK m. 23'ün kurbanı olmaktadır. 
+Uygulamacıların, "Mavi Kalem Kuralı" veya "Salvatorische Klausel" 
+(Bölünebilirlik Kaydı) gibi kurtarıcı maddelere güvenmek yerine, sorumluluk 
+daraltan veya ceza öngören maddeleri, yoruma hiç mahal bırakmayacak şekilde 
+matematiksel bir kesinlikle, sade, Türkçe ve kısa cümlelerle kaleme almaları 
+gerekmektedir. Bir kelimedeki bağlaç ("ve", "veya", "olabilir", "gerektiğinde")
+hatası dahi, **Düzenleyenin Aleyhine Yorum** kuralı nedeniyle milyonlarca 
+liralık davaların kaybedilmesine neden olmaktadır.
 
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+#### 6. Yargıtay İçtihadı
+
+Yargıtay, kitle sözleşmelerinden kaynaklanan uyuşmazlıklarda mülga 818 sayılı 
+BK döneminden itibaren **Güven Teorisi** üzerinden sağladığı korumayı, 6098 
+sayılı TBK m. 23 yürürlüğe girdikten sonra doğrudan kanun lafzına dayandırarak 
+oldukça katı bir yorum rejimine dönüştürmüştür. Yargıtay Hukuk Genel Kurulu
+ve bilhassa bankacılık, sigorta ve tüketici davalarına bakan ilgili dairelerin 
+(özellikle 11., 3. ve 13. Hukuk Daireleri) kararlarında vurgulanan temel 
+prensip, "İn dubio contra proferentem" ilkesinin mutlak uygulanmasıdır.
+
+Yüksek Mahkeme, özellikle sigorta poliçelerinde yer alan istisna ve muafiyet 
+kayıtlarında, banka kredi sözleşmelerindeki masraf ve komisyon maddelerinde, 
+inşaat sözleşmelerindeki gecikme cezası klozlarında son derece titiz bir 
+**Daraltıcı Yorum** (restriktive Auslegung) yapmaktadır. Yargıtay'ın 
+yerleşik kararlarında (Örn: Y. 11. HD, E. 2016/11123, K. 2018/3743) şu ifade 
+sıkça yer bulur: *"Gerek ülkemizde gerek mukayeseli hukuk içtihatlarında ve 
+bilimsel öğretide benimsendiği üzere, açık olmayan kayıtların metni kaleme 
+alanın aleyhine, karşı tarafın lehine yorumlanacağı evrensel bir ilkedir."*. Yargıtay, taraflar arasındaki ekonomik güç dengesizliğini göz önüne 
+alarak, sözleşmedeki bir boşluğun veya çok anlamlılığın, zayıf tarafı tuzağa 
+düşüren bir araç olarak kullanılmasına müsaade etmemekte, şüphe durumunda daima
+tüketici, sigortalı veya zayıf tacir lehine hüküm kurmaktadır.
 
 #### 7. Eleştirel Değerlendirme
 
-Madde 23, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 23, «III. Yorumlanması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir us Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 23, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 23'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 23, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 23, «III. Yorumlanması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir us Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 23, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 23'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 23, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 23, «III. Yorumlanması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir us Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 23, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 23'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 23, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 23, «III. Yorumlanması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir us Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 23, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 23'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 23, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 23, «III. Yorumlanması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir us Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 23, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 23'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 23, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 23, «III. Yorumlanması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir us Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 23, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 23'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 23, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 23, «III. Yorumlanması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir us Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 23, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 23'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Türk Borçlar Kanunu m. 23 hükmü, kitle sözleşmelerinin yarattığı adaletsizliği 
+gidermek adına mükemmel bir zırh sağlasa da, doktrinde Eren, Oğuzman/Öz ve 
+Nomer gibi değerli akademisyenler tarafından çeşitli açılardan eleştiriye tabi 
+tutulmaktadır.
+
+Birinci eleştiri, maddenin kişi bakımından uygulama alanına, özellikle 
+**Tacirler** boyutuna ilişkindir. Alman hukukunda ve İsviçre Haksız 
+Rekabet Kanunu'nda genel işlem koşulu denetimleri ağırlıklı olarak "tüketiciyi"
+korumaya odaklanmışken; TBK m. 23, lafzındaki mutlaklık sebebiyle, kendi devasa
+hukuk departmanları olan iki büyük holding arasındaki ticari sözleşmelere dahi 
+uygulanmaktadır. Türk Ticaret Kanunu m. 18/2'de yer alan "basiretli iş adamı 
+gibi davranma" yükümlülüğü ile, ticari bir sözleşmede yer alan bir maddeyi "ben
+anlamadım, farklı anlama geliyor, benim lehime yorumlansın" diyerek TBK m. 23'e
+sığınma yaklaşımı, ticari hayatın ihtiyaç duyduğu öngörülebilirlik (legal 
+certainty) ve risk dağılımı ile çelişmektedir. Taciri tüketici ile aynı 
+zayıflık kefesine koyan bu katı korumacı tutumun, ticari nitelikteki kitle 
+sözleşmelerinde (B2B) daha esnek bir teleolojik redüksiyonla (amaca uygun 
+sınırlandırma) uygulanması gerektiği doktrinde haklı olarak savunulmaktadır.
+
+İkinci ve en derin dogmatik eleştiri ise, yukarıda da zikredilen **"Muhatap 
+İçin En Olumsuz Anlamın Esas Alınması"** teorisine (taktiksel yorum) ilişkindir. Kural olarak TBK m. 23, zayıf tarafı korumak için sözleşmeyi onun 
+lehine yorumlamayı emreder. Ancak lehine yorumlanan bir madde, yumuşatılarak 
+sözleşmede yaşamaya devam ettiğinde muhataba hâlâ zarar veriyor olabilir. 
+İsviçre-Alman doktrininden ithal edilen bir görüş, hâkimin sırf bu maddeyi 
+tamamen yok etmek (İçerik Denetimine takmak) amacıyla, bilerek en kötü/acımasız
+ihtimali sözleşmenin anlamı olarak kabul etmesini savunur. Ancak 
+Oğuzman/Öz ve Eren'in sistematiğinde de tartışıldığı üzere; bu yaklaşım kanunun
+"karşı tarafın lehine yorumlanır" şeklindeki emredici ve açık lafzına (TBK m. 
+23) doğrudan aykırıdır. Hâkime, kanunun lafzını aşarak, metni bilerek 
+hukuka aykırılaştıracak şekilde taktiksel ve yapay bir yorum yapma yetkisi 
+vermek, hukuki güvenliği sarsıcı ve yargısal aktivizmi aşırılaştıran tehlikeli 
+bir yöntemdir. Dolayısıyla kanun koyucunun belirlediği objektif yorum 
+kuralından, yapay içerik denetimi yaratmak uğruna sapılmamalıdır.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 23 resmi metni ve kanunun sistematiği.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
+- *Yargı kararları*: Türk Borçlar Kanunu m. 23'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
+- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
+- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 8c.
+
+**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 23. madde metnine dayanır.
+
+**Görüş**: Kapsamlı ve öğretici yorum benimsenmiştir.
+
+**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.

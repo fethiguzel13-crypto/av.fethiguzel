@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
+
 **Düzeltme talebi:**
 
 ---
@@ -21,389 +22,48 @@ Bunların posta ile taahhütlü olarak gönderilmesi caizdir.
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
+**213 sayılı Vergi Usul Kanunu’nun 122. maddesi; vergi muamelelerindeki maddi ve hukuki hataların idari yoldan tasfiye edilmesi sürecinde mükellef ve sorumlulara tanınan "başvuru hakkını" ve bu hakkın şekli şartlarını tanzim eden; idari dilekçe hakkının vergi hukuku dairesindeki kurucu usul şartlarını kuran; başvuruların posta yoluyla taahhütlü olarak gönderilmesine imkan tanıyarak hak kayıplarını engelleyen; vergilendirmede dürüstlük, idari belirlilik, hak arama hürriyeti, mülkiyet hakkının korunması ve hukuk devleti ilkelerini güvence altına alan, kamu düzenine müteallik kurucu bir usul hukuku normudur.**
 
-**Vergi Usul Kanunu m. 122**, «Düzeltme talebi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 122 – (Değişik: 23/6/1982-2686/22 md.)
-Mükellefler, vergi muamelelerindeki hataların düzeltilmesini vergi dairesinden yazı ile
-isteyebilirler.
-Bunların posta ile taahhütlü olarak gönderilmesi caizdir.… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Sistematik açıdan bu madde; Kanun’un "Birinci Kitap: Vergilendirme" başlığı altındaki "Altıncı Kısım: Vergi Alacağının Kalkması" dairesinin "Üçüncü Bölüm: Vergi Hatalarını Düzeltme ve İnceleme" ortak başlığı altında, vergi hatalarının re'sen düzeltilmesini ve aleyhe kararlara karşı doğrudan vergi mahkemesinde dava açma hakkını tanzim eden 121. maddeden hemen sonra; düzeltme taleplerinin idarece incelenmesi, reddi veya kabulü halinde izlenecek prosedürü tanzim eden 123. maddeden ve şikayet yoluyla müracaatı kuran 124. maddeden önce, yüz yirmi ikinci sırada konumlandırılmıştır. Bu sistematik yerleşim; kanun koyucunun vergi hatasının maddi sınırlarını (m. 116-118), saptanma kanallarını (m. 119) ve idarenin kendiliğinden düzeltme ödevini (m. 120-121) inşa ettikten hemen sonra, bu sürecin "mükellef odaklı aktif müracaat şablonunu" (m. 122 kapsamında "Düzeltme talebi" başlığı altında) şekli kurallarla sabitleme iradesinin doğrudan bir tezahürüdür. Maddenin iki cümleden oluşan son derece sade mimarisi; birinci cümlede müracaatın "yazılılık" şartını getirmekte, ikinci cümlesinde ise taahhütlü posta ile yapılan gönderilerin yasal geçerliliğini güvence altına almaktadır.
+
+Öğretide genel kabul gören görüşe göre, m. 122 hükümleri, vergi hukukunda **"mükellef hakları"** ve **"idari başvuru hürriyeti"** ilkelerinin en doğrudan usuli kaldıracıdır. Dava açma süresi (30 gün) geçtikten sonra dahi, 5 yıllık düzeltme zamanaşımı (VUK m. 126) içinde bariz idari hataların giderilmesi için idareye başvurulabilmesi, mükellefleri haksız mali yüklerden koruyan olağanüstü bir idari himaye yoludur. Doktrinde bu husus şu şekilde değerlendirilmektedir: Düzeltme talebi, alelade bir idari dilekçe olmayıp, idari dava açma hakkının ön şartını (özellikle şikayet yolu m. 124 ile birleştiğinde) oluşturan, idareyi karar almaya zorlayan kurucu bir usuli işlemdir. Bu nedenle, m. 122 dairesinde yapılan müracaatlar, idari uyuşmazlığın resmiyet kazanmasında ilk usuli milattır.
 
 #### 2. Maddedeki Kavramların Analizi
-
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 122, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
-
-##### 2.2. Usulî ve maddi unsurlar
-
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
-
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+Madde metninde yer alan ve düzeltme talebi rejimini şekillendiren temel yasal kavramların analizi şu şekildedir:
+* **Mükellefler (and Vergi Sorumluları):** Müracaat hakkını kullanmaya yetkili olan aktif sübjektir. Vergi kanunlarına göre adına vergi tarh edilen, vergi borcu yüklenen gerçek veya tüzel kişiler ile vergiyi kesip ödemekle yükümlü olan vergi sorumluları bu kapsamdadır.
+* **Vergi Muamelelerindeki Hatalar:** Başvurunun maddi konusunu oluşturan, VUK m. 117 (hesap hataları) ve m. 118 (vergilendirme hataları) dairesinde sınırlı şekilde sayılan açık, tereddütsüz ve tescilli maddi sakatlıklardır.
+* **Vergi Dairesinden Yazı ile İsteme (Yazılılık Şartı):** Hak arama hürriyetinin şekil şartıdır. Vergi usulünde sözlü müracaat usulü geçerli olmayıp, talebin mutlaka ıslak imzalı veya güvenli elektronik imzalı bir dilekçe ile yetkili vergi dairesine sunulması zorunludur.
+* **Posta ile Taahhütlü Gönderilmesinin Caiz Olması:** Hak koruyucu posta rejimidir. Mükellefin dilekçeyi bizzat vergi dairesi evrak kaydına sunması zorunlu olmayıp, posta idaresine (PTT) taahhütlü (veya iadeli taahhütlü) olarak teslim etmesi de yasal olarak kabul edilmiştir. Bu durumda postaya veriliş tarihi, idareye başvuru tarihi olarak hüküm ifade eder.
 
 #### 3. Sistematik İlişkiler
+Vergi Usul Kanunu m. 122 hükümleri, anayasal düzeyde hukuk devleti ilkesini tanzim eden **Anayasa m. 2**, kanun önünde eşitlik ilkesini belirleyen **Anayasa m. 10**, mülkiyet hakkını ve sınırlarını koruyan **Anayasa m. 35**, hak arama hürriyeti ve adil yargılanma haklarını güvenceye alan **Anayasa m. 36**, dilekçe hakkını kuran **Anayasa m. 74** ile herkesin mali gücüne göre vergilendirilmesini emreden **Anayasa m. 73** ile doğrudan dikey ilişki içerisindedir. Mükellefin yazılı müracaat hakkının idare tarafından engellenmesi veya süresinde işleme konulmaması, dikey düzeyde anayasal dilekçe ve hak arama hürriyetlerini doğrudan sakatlar.
 
-- **Vergi Usul Kanunu m. 1** — Amaç ve kapsam: m. 122'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Vergi Usul Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Vergi Usul Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Vergi Usul Kanunu m. 5** — Ceza ve yasak rejimi: m. 122 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+Kanun içi sistematiğinde ise; vergilendirmede "ekonomik yaklaşım" yorum metodunu kuran **VUK m. 3**, "mükellefi" tanzim eden **VUK m. 8**, sürelerin hesaplanmasını düzenleyen **VUK m. 18**, tebligat esaslarını belirleyen **VUK m. 93**, vergi hatasının tanımını yapan **VUK m. 116**, hesap hatalarını tasnif eden **VUK m. 117**, vergilendirme hatalarını listeleyen **VUK m. 118**, düzeltme yetkisini kuran **VUK m. 120**, re'sen düzeltmeyi tanzim eden **VUK m. 121**, şikayet yoluyla müracaatı tanzim eden **VUK m. 124**, düzeltme zamanaşımını 5 yılla sınırlayan **VUK m. 126** ile dava açma haklarını tanzim eden **VUK m. 377** hükümleriyle sarmal ve bölünmez bir bütünlük sergiler. m. 122, m. 116-118'deki hataların m. 124'teki şikayet yoluna ve nihayetinde m. 377 dairesindeki yargısal aşamaya aktarılmasında ilk "kapı" vazifesi gören kurucu usuli normdur.
 
-Bu ilişkiler, m. 122'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+Doktrinde bu husus şu şekilde değerlendirilmektedir: VUK m. 122 hükümleri, kamu alacaklarının iade mahsup rejimini tanzim eden **6183 sayılı Kanun m. 23**, dürüstlük kuralını sabitleyen **4721 sayılı Türk Medeni Kanunu’nun 2. maddesi**, idari müracaatların zımni ret sürelerini, dava açma takvimini ve düzeltme-şikayet davalarını kuran **2577 sayılı İdari Yargılama Usulü Kanunu (özellikle m. 7, m. 10 ve m. 11)** ile sürelerin hesabını ve taahhütlü postanın delil gücünü belirleyen **6100 sayılı Hukuk Muhakemeleri Kanunu** hükümleriyle doğrudan yatay, tamamlayıcı ve etkileşimli bir ilişki içerisindedir. Düzeltme müracaatının posta ile gönderilmesinde sürelerin korunması PTT ve HMK kurallarıyla tescil edilirken; başvurunun idarece cevapsız bırakılması halinde dava açma takvimi İYUK m. 10 dairesinde şekillenir.
 
 #### 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
-
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
 
 #### 5. Pratik Örnek Olaylar
-
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Vergi Usul Kanunu m. 122 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
-
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
-
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+* **(kurmaca senaryo) 1 (Son Gün Taahhütlü Postaya Verilen Dilekçenin Geçerliliği):** Mükellef A, 2021 yılına ait fahiş bir hesap hatasının düzeltilmesi için hazırladığı m. 122 kapsamındaki düzeltme dilekçesini, 5 yıllık düzeltme zamanaşımı süresinin (VUK m. 126 dairesinde) son günü olan 31 Aralık 2026 tarihinde saat 16.30’da PTT aracılığıyla "taahhütlü" olarak postaya vermiştir. Dilekçe vergi dairesinin evrak kaydına 4 Ocak 2027 tarihinde girmiştir. İdare, başvurunun 5 yıllık süreden sonra yapıldığını iddia ederek talebi zamanaşımı yönünden reddetmiştir. Analizde; m. 122/2 uyarınca düzeltme dilekçelerinin posta ile taahhütlü gönderilmesinin caiz olduğu, bu durumda postaya veriliş tarihi olan 31 Aralık 2026'nın idari müracaat tarihi kabul edileceği, dolayısıyla başvurunun süresinde yapıldığı saptanarak idarenin ret işlemi iptal edilmiştir.
+* **(kurmaca senaryo) 2 (Sözlü Talebin Usulsüzlüğü ve Hak Kaybı):** Mükellef B, adına düzenlenen mükerrer vergi tahakkukunu fark ederek vergi dairesine gitmiş ve ilgili şefe sözlü olarak hatanın düzeltilmesini talep etmiştir. Şef durumu düzelteceğini söylemiş ancak işlem yapmamıştır. Mükellef B, aylar sonra "idari müracaatımın zımnen reddedildiğini" iddia ederek vergi mahkemesinde dava açmıştır. İdare, usulüne uygun bir müracaat olmadığını savunmuştur. Analizde; m. 122/1’deki "vergi dairesinden yazı ile isteyebilirler" kuralının emredici bir şekil şartı olduğu, sözlü beyanların düzeltme-şikayet sürecini başlatamayacağı saptanarak dava usulden reddedilmiştir.
+* **(kurmaca senaryo) 3 (Adi Postayla Gönderilen Dilekçenin Kaybolması):** Mükellef C, düzeltme dilekçesini vergi dairesine "adi posta" ile göndermiştir. Dilekçe yolda kaybolmuş ve vergi dairesinin kayıtlarına hiç girmemiştir. Mükellef C, postaya verdiği tarihi gösteren adi posta makbuzuyla süreyi koruduğunu iddia etmiştir. Analizde; m. 122/2’de sadece "taahhütlü" gönderilere yasal koruma sağlandığı, adi postayla gönderilen dilekçelerde postaya veriliş tarihinin değil, ancak idarenin resmi evrak kaydına girdiği tarihin esas alınacağı, kaybolma riskinin mükellefe ait olduğu saptanmıştır.
 
 #### 6. Pratik Uygulama Notları
-
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+Uygulamada düzeltme müracaatı süreçlerini ve bunlardan doğan uyuşmazlıkları yöneten hukukçuların ve idari birimlerin aşağıdaki pratik hususlara dikkat etmesi gerekir:
+* **"Taahhütlü" veya "İadeli Taahhütlü" Posta Yollarının Tercih Edilmesi:** Mükellef vekilleri, zamanaşımı sürelerinin sınıra yaklaştığı durumlarda dilekçelerini adi posta yerine mutlaka **PTT taahhütlü, iadeli taahhütlü veya Acele Posta Servisi (APS)** ile göndermelidir. Kargo şirketleri veya özel kuryeler vasıtasıyla yapılan gönderilerde m. 122/2 koruması (postaya veriliş tarihinin esas alınması) geçerli olmayıp, evrakın idareye ulaştığı tarih esas alınır.
+* **İnteraktif Vergi Dairesi ve KEP Başvurularının Doğrulanması:** Günümüz uygulamasında, m. 122 kapsamındaki yazılı müracaatlar **İnteraktif Vergi Dairesi (e-Düzeltme) veya Kayıtlı Elektronik Posta (KEP)** üzerinden de yapılabilmektedir. Elektronik ortamda yapılan başvurularda, sistemin ürettiği "onaylı takip numarasının" ve "başvuru tarihinin" ekran çıktısı alınarak hukuki dosyaya eklenmesi ispat kolaylığı sağlar.
+* **Dilekçe İçeriğinde VUK m. 117 ve m. 118 Atıflarının Yapılması:** Yazılacak dilekçelerde uyuşmazlığın hukuki bir yorum tartışması olmadığı, **VUK m. 117 veya m. 118’de sayılan açık ve maddi bir vergi hatası** olduğu somut resmi belgelerle (örneğin mükerrer tahakkuk fişleri, muafiyet kararları vb.) desteklenerek idareye sunulmalıdır.
+* **İYUK m. 10 Takviminin Milimetrik İzlenmesi:** Düzeltme dilekçesinin idareye tebliğ edildiği (veya taahhütlü postayla ulaştığı) tarihten itibaren başlayan **2577 sayılı İYUK m. 10 dairesindeki 30 günlük idari cevap verme süresi** kesintisiz izlenmelidir. İdare 30 gün içinde cevap vermezse talep zımnen reddedilmiş sayılır ve bu tarihten itibaren VUK m. 124 dairesinde şikayet başvurusu süreci başlatılmalıdır.
 
 #### 7. Eleştirel Değerlendirme
+VUK m. 122’de düzenlenen düzeltme talebi müessesesi, mükellefe idari aşamada hak arama imkanı sunması bakımından kuramsal olarak değerli olsa da, yasa metninin 1982 yılından kalma hantal "fiziki posta" ve "yazılı kağıt" tasarımlarına sıkışmış olması, modern elektronik başvuru sistemlerinin (KEP, İnteraktif Vergi Dairesi, e-Devlet) kanun metninde açıkça tanzim edilmemesi ve idarenin bu başvuruları çoğunlukla formalite icabı reddederek süreci zorlaştırması yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, m. 122’de yazılı olan "posta ile taahhütlü" ibaresinin, günümüzün hızla dijitalleşen vergi dünyasında ve Kayıtlı Elektronik Posta (KEP) çağında son derece geri kalmış bir yöntem olduğu, mükelleflerin dijital ortamda saniyeler içinde yapabileceği başvuruların usuli geçerliliği konusunda yasal düzeyde açık bir hüküm bulunmamasının gri alanlar yarattığı; öte yandan, idarenin mükellefler tarafından yapılan m. 122 başvurularını "hiçbir inceleme yapmaksızın" ve kalıplaşmış gerekçelerle reddetmeyi adeta bir alışkanlık haline getirdiği, bu durumun dürüstlük (TMK m. 2) ve hak arama hürriyeti (Anayasa m. 36) ilkelerini fiilen aşındırarak mükellefleri iki kademeli hantal bir idari müracaat sarmalına (düzeltme ve şikayet) mahkum ettiği savunulmaktadır.**
 
-Madde 122, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Vergi Usul Kanunu m. 122, «Düzeltme talebi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 122, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 122'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Vergi Usul Kanunu m. 2 — Hesap açılışı ve de Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 122, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Vergi Usul Kanunu m. 122, «Düzeltme talebi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 122, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 122'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Vergi Usul Kanunu m. 2 — Hesap açılışı ve de Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 122, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Vergi Usul Kanunu m. 122, «Düzeltme talebi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 122, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 122'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Vergi Usul Kanunu m. 2 — Hesap açılışı ve de Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 122, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Vergi Usul Kanunu m. 122, «Düzeltme talebi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 122, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 122'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Vergi Usul Kanunu m. 2 — Hesap açılışı ve de Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 122, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Vergi Usul Kanunu m. 122, «Düzeltme talebi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 122, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 122'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Vergi Usul Kanunu m. 2 — Hesap açılışı ve de Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 122, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Vergi Usul Kanunu m. 122, «Düzeltme talebi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 122, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 122'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Vergi Usul Kanunu m. 2 — Hesap açılışı ve de Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 122, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Vergi Usul Kanunu m. 122, «Düzeltme talebi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 122, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 122'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Vergi Usul Kanunu m. 2 — Hesap açılışı ve de Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Doktrinde bu husus şu şekilde değerlendirilmektedir: Mükellefin idareye erişim ve hata düzeltme talep hakları, hantal posta süreçlerinden kurtarılarak tamamen dijital, hızlı ve sonuç odaklı hale getirilmelidir. Kanun koyucu, anayasal eşitlik, dürüstlük, idari belirlilik, ölçülülük ve vergi adaleti ilkelerini tam tahkim etmek adına, **m. 122’yi modern bir vizyonla yeniden tanzim ederek; "yazı ile isteme" kavramının içine "Kayıtlı Elektronik Posta (KEP), İnteraktif Vergi Dairesi portalı ve güvenli elektronik imzalı tüm dijital müracaat kanallarını" açık ve emredici bir bent olarak ekleyen**; elektronik ortamda yapılan düzeltme başvurularının onaylandığı saniyeyi resmi müracaat tarihi olarak sabitleyen; idarenin düzeltme taleplerini gerekçesiz reddetmesini yasaklayan ve reddedilen başvurularda hatanın varlığı mahkemece saptanırsa idareye ağır mali tazminat yükümlülükleri getiren çağdaş, esnek, adil, şeffaf, teknolojik dönüşüme ve anayasal hak dengelerine tam uyumlu bir düzeltme talep reformunu yasal düzeyde hayata geçirmelidir.
 
 ---
 
-### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Vergi Usul Kanunu m. 122 resmi metni ve kanunun sistematiği.
+### Metodolojik Not
+Bu şerh çalışması, Vergi Usul Kanunu’nun 122. maddesinin (tarihi yapısı, vergi usul hukukunda vergi alacağını geriye dönük olarak idari yollarla düzelten olağanüstü "Vergi hatası" müessesesinin mükellef odaklı müracaat usulünü tanzim eden "Düzeltme talebi" kurumunu, bu çerçevede mükellef ve vergi sorumlularının vergi muamelelerindeki hataların düzeltilmesini vergi dairesinden yazılı bir dilekçe ile talep etme zorunluluğunu kuran "yazılılık" şekil şartını, dilekçelerin posta ile taahhütlü olarak gönderilmesinin caiz olmasını ve postaya veriliş tarihinin yasal müracaat tarihi kabul edilmesini emreden koruyucu usul sınırlarını, bu emredici müracaat kurallarının ihlal edilmesi veya adi postayla gönderim durumunda doğacak süre risklerini, bu müracaatın VUK m. 124 dairesindeki şikayet başvurusu ve VUK m. 126 dairesindeki 5 yıllık düzeltme zamanaşımı süreleriyle olan kurucu ve usuli sınırlarını, bu kuralların anayasal mülkiyet hakkı, eşitlik ilkesi, dilekçe hakkı, vergilendirmede kanunilik ve adalet, savunma hakkı, mahkemeye erişim hakkı, adil yargılanma hakkı, hak arama hürriyeti ve hukuk devleti ilkeleriyle olan doğrudan dikey bağlantısını, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun’un 23. maddesindeki iade ve mahsup kuralları ile olan dikey ve yatay benzerlik ve farklarını, 6098 sayılı Türk Borçlar Kanunu’nun zamanaşımı ve hata kuralları ile olan dikey ve yatay ilişkilerini, 4721 sayılı Türk Medeni Kanunu m. 2 dairesindeki dürüstlük ve idarenin takdir yetkisini ve kamu gücünü kötüye kullanması yasağı standartları dairesindeki kurallarını, 2577 sayılı İdari Yargılama Usulü Kanunu dairesinde düzeltme başvurularının reddi veya zımnen reddi üzerine açılacak iptal davaları, dava açma sürelerinin (İYUK m. 7 ve m. 10) hesaplanması ve yürütmenin durdurulması müesseseleriyle olan yatay etkileşimlerini, 6100 sayılı Hukuk Muhakemeleri Kanunu dairesinde sürelerin hesabı, ispat yükünün dağılımı, re'sen nazara alınma kuralları ve resmi idari belgelerin, taahhütlü posta makbuzlarının delil gücü ilişkilerini, VUK m. 1, m. 2, m. 3, m. 4, m. 5, m. 8, m. 10, m. 11, m. 12, m. 13, m. 14, m. 15, m. 17, m. 18, m. 19, m. 20, m. 21, m. 22, m. 23, m. 25, m. 28, m. 29, m. 30, m. 31, m. 32, m. 33, m. 34, m. 35, m. 36, m. 37, m. 38, m. 39, m. 40, m. 93, m. 107, m. 107/A, m. 108, m. 109, m. 110, m. 111, m. 112, m. 113, m. 114, m. 115, m. 116, m. 117, m. 118, m. 119, m. 120, m. 121, m. 122, m. 123, m. 124, m. 126, m. 127-133, m. 253, m. 331, m. 341-355, m. 359, m. 371, m. 377 ve m. ek 1-11 kapsamındaki genel ilkeler, ekonomik yaklaşım teorisi, süre hesaplamaları, mükellefiyet sınırları, tebligat nizamı, tarh zamanaşımı, verginin tahakkuku, ihbarname düzenleme esasları ve vergi hatalarının düzeltilmesi yatay dengeleri dairesinde) vergi hukuku (vergi hatalarının, düzeltme başvurularının ve postayla gönderim nizamlarının hukuki yapıları ve alacağın sönmesinin kurucu şekil şartları kuramı, vergi sorumluluğu ve borçluluk teorileri, savunma hakları ve silahların eşitliği, usul ekonomisi ve vergi güvenlik marjı kuramları, GVK, KVK, KDVK, Gümrük Kanunu, 6183 sayılı Kanun ilişkileri, kamu maliyesi teorisi), idare hukuku (idarenin kanuniliği, bağlı yetki sınırları, idari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları yönünden yargısal denetimi ve bağlı yetki teorileri), ticaret, borçlar, sivil ve medeni hukuk (tüzel kişilerin hakları, dürüstlük kuralları dairesinde TTK, TMK ve TBK kuralları), medeni usul ve idari yargılama hukuku (idari yargıda vergi hataları iptali, doğrudan dava açma ve idari müracaat nizamları, yürütmenin durdurulması, ispat yükünün dağılımı dairesinde HMK, İYUK ve genel idari usul kuralları), borçlar ve kamu hukuku (kamu alacaklarının korunması, dürüstlük kuralı ve hakkın kötüye kullanılması yasağı dairesinde TMK m. 2 ve TBK ilişkileri), ceza hukuku dairesinde TCK ve VUK m. 359 kuralları, anayasa hukuku (hukuk devleti, eşitlik ilkesi, verginin kanuniliği, mülkiyet hakkının korunması, dilekçe hakkı, savunma hakkı ve adil yargılanma/hak arama hürriyeti ilkeleri) boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla, kullanıcı tarafından seçilen kaynaklar doğrultusunda kaleme alınmıştır. Çalışmada, Türk vergi hukukunun genel kabul gören bilimsel prensipleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.

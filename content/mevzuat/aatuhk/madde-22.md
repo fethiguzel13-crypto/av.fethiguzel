@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4305
 ---
 
+
 **Amme alacaklarını kesip ödemek mecburiyetinde olanlar:**
 
 ---
@@ -21,392 +22,47 @@ belli edilen zamanlarda yerine getirmedikleri takdirde, ödenmiyen alacak bu hak
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
+**6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun’un 22. maddesi; vergi ve diğer kamu alacaklarının kaynakta kesinti (tevkifat/stopaj) yöntemiyle güvence altına alınması sürecinde, kesintiyi yapmak ve tahsil dairesine aktarmakla görevlendirilen aracıların (vergi kesenlerin/sorumluların) mali yükümlülüklerini emredici bir yaptırım mekanizmasıyla tahkim eden; ödevini süresinde yerine getirmeyen sorumluyu doğrudan doğruya "kamu borçlusu" sıfatıyla takip edilebilir kılan, kamu düzenine müteallik kurucu ve ikame edici bir takip usulü normudur.**
 
-**Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 22**, «Amme alacaklarını kesip ödemek mecburiyetinde olanlar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 22 – Amme alacağını borçlusundan kesip tahsil dairesine ödemek
-mecburiyetinde olan hakiki ve hükmi şahıslar, bu vazifelerini kanunlarında veya bu kanunda
-belli edilen zamanlarda yerine getirmedikleri takdirde, ödenmiyen alacak bu hakiki ve hükmi
-şahıslardan bu kanun hükümlerine göre tahsil olunur.
+Madde, Kanun’un "İkinci Kısım: Amme Alacaklarının Korunması" başlığı altındaki "IV - Diğer korunma hükümleri" alt bölümünün ikinci maddesi olarak, yirmi ikinci sırada konumlandırılmıştır. Bu sistematik yerleşim; kanun koyucunun amme alacağının tahsil güvenliğini rüçhan hakları (m. 21) gibi klasik cebri icra imtiyazlarıyla tahkim ettikten hemen sonra, modern vergilendirme rejimlerinin en dinamik unsuru olan "kaynakta kesme ve ödeme" ödevini ihlal eden üçüncü kişilere yönelik doğrudan takip yetkisini (m. 22 dairesinde) tanzim etme iradesinin doğrudan bir sonucudur. Maddenin tek fıkradan oluşan emredici yapısı; kesinti ödevini kanuni sürelerinde yerine getirmeyen hakiki ve hükmi şahısları, asıl borçlunun yerine ikame ederek, ödenmeyen amme alacağının doğrudan bu kişilerin şahsi malvarlıklarından 6183 sayılı Kanun hükümlerine göre cebren tahsil edilmesini yasal olarak zorunlu kılmaktadır.
 
-Amme alacağı ödenmeden yapılmayacak işlemler ile işlem yapanların
-sorumlulukları:… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Öğretide genel kabul gören görüşe göre, m. 22 hükümleri, kamu maliyesinin tahsilat etkinliğini artırmak ve vergi kayıp-kaçağını kaynağında engellemek amacıyla ihdas edilmiş olağanüstü bir kanuni sorumluluk müessesesidir. Kaynakta kesinti yapan sorumlular, teknik olarak "asıl borçlu" (vergi mükellefi) olmadıkları halde, yasanın kendilerine yüklediği kamusal aracılık görevi nedeniyle kamu idaresi karşısında doğrudan borçlu konumuna gelmektedirler. Bu düzenleme sayesinde idare, vergi dairesine hiç ulaşmamış veya tevkif edilip de sorumlunun kasasında tutulmuş olan amme alacağını, asıl mükellefin peşine düşmeksizin, doğrudan ve en hızlı şekilde kesinti yapmakla yükümlü olan sorumludan tahsil etme imkanına kavuşmaktadır.
 
 #### 2. Maddedeki Kavramların Analizi
-
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 22, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
-
-##### 2.2. Usulî ve maddi unsurlar
-
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
-
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+Madde metninde yer alan ve kesip ödeme yükümlülüğü sorumluluk rejimini şekillendiren temel yasal kavramların analizi şu şekildedir:
+* **Amme Alacağını Borçlusundan Kesip Ödemek Mecburiyetinde Olanlar:** Asıl kamu borçlusuna (örneğin işçiye, serbest meslek erbabına veya kiralayana) yapacağı ödemelerden, vergi kanunlarının (GVK, KVK vb.) emredici hükümleri uyarınca belirli bir oranı peşinen keserek vergi dairesine yatırmakla mükellef kılınan hakiki şahıslar (bireysel işverenler, esnaflar) veya hükmi şahıslardır (şirketler, vakıflar, dernekler, kamu iktisadi teşebbüsleri).
+* **Vazifelerin Kanunlarında veya Bu Kanunda Belli Edilen Zamanlarda Yerine Getirilmemesi:** Kesinti yapma ve bu kesintileri muhtasar beyanname veya benzeri idari bildirimlerle süresi içinde tahsil dairesine aktarma yükümlülüğünün, ilgili maddi vergi kanunlarında veya 6183 sayılı Kanun’da öngörülen yasal vadelerde (örneğin takip eden ayın yirmi altıncı günü akşamına kadar) hiç veya gereği gibi yerine getirilmemesi durumudur.
+* **Ödenmeyen Alacağın Sorumlulardan Bu Kanun Hükümlerine Göre Tahsil Olunması:** Görevini ihmal eden sorumlular adına doğrudan kamu borçlusu sıfatıyla takip işlemlerinin başlatılmasıdır. İdare, bu sorumlular adına doğrudan **ödeme emri (m. 55)** düzenleyebilir, şahsi varlıkları üzerine **haciz (m. 62)** tatbik edebilir ve 6183 sayılı Kanun’un tüm cebri tahsilat enstrümanlarını bu kişilere karşı re'sen işletebilir.
 
 #### 3. Sistematik İlişkiler
+Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 22 hükümleri, anayasal düzeyde hukuk devleti ilkesini tanzim eden **Anayasa m. 2**, mülkiyet hakkını ve bu hakkın sınırlandırılması kriterlerini kuran **Anayasa m. 35**, mali yükümlülüklerin kanunla konulup kaldırılacağını emreden **Anayasa m. 73** ile adil yargılanma ve hak arama hürriyetlerini güvenceleyen **Anayasa m. 36** ile doğrudan dikey ilişki içerisindedir. Teknik olarak asıl mükellef olmayan aracı üçüncü kişilerin, görev ihlali nedeniyle kendi şahsi malvarlıklarıyla kamu borcundan doğrudan sorumlu tutulması, mülkiyet hakkının dikey düzeydeki en hassas sınırlama ve sorumluluk alanlarından biridir.
 
-- **Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1** — Amaç ve kapsam: m. 22'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 5** — Ceza ve yasak rejimi: m. 22 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+Kanun içi sistematiğinde ise; "borçlu" tanımını kuran **AATUHK m. 3**, ödeme süresini belirleyen **AATUHK m. 37**, ödeme emrinin tanzimini kuran **AATUHK m. 55**, haciz tatbikini düzenleyen **AATUHK m. 62** ile amme alacaklarında rüçhan hakkını tanzim eden **AATUHK m. 21** hükümleriyle sarmal ve bölünmez bir bütünlük sergiler. m. 22, tevkifat yükümlüsünü doğrudan m. 3 kapsamındaki "borçlu" şemsiyesi altına sokarak, ona karşı m. 55 ve m. 62 dairesinde cebri icra adımları atılmasının önünü açan kurucu usuli geçit vazifesi görür.
 
-Bu ilişkiler, m. 22'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+Doktrinde bu husus şu şekilde değerlendirilmektedir: AATUHK m. 22 hükümleri, vergi kesenlerin sorumluluğunu ve maddi ödevlerini kuran **213 sayılı Vergi Usul Kanunu’nun 11. maddesi**, sorumluların mirasçılarının yükümlülük sınırlarını belirleyen **VUK m. 12**, tevkifat oranlarını tanzim eden **193 sayılı Gelir Vergisi Kanunu’nun 94. maddesi** ve **5520 sayılı Kurumlar Vergisi Kanunu’nun 15. ve 30. maddeleri**, dürüstlük kuralını sabitleyen **4721 sayılı Türk Medeni Kanunu’nun 2. maddesi** ile idari işlemlerin yargısal denetim sürelerini tanzim eden **2577 sayılı İdari Yargılama Usulü Kanunu** hükümleriyle doğrudan yatay, tamamlayıcı ve etkileşimli bir ilişki içerisindedir. Tevkifat ödevinin maddi sınırları VUK, GVK ve KVK dairesinde şekillenirken, bu ödevin yerine getirilmemesi halinde sorumlunun şahsi malvarlığına yönelik tahsilat adımları ve açılacak davalar ise AATUHK, İYUK ve genel idari usul ilkelerinin yatay paralelliğinde çözümlenir.
 
 #### 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
-
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
 
 #### 5. Pratik Örnek Olaylar
-
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 22 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
-
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
-
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+* **(kurmaca senaryo) 1 (İşverenin İşçi Ücretlerinden Kestiği Vergiyi Ödememesi):** Anonim şirket A, bünyesinde çalışan işçilerin ücretlerinden GVK m. 94 uyarınca yapması gereken gelir vergisi tevkifatını yapmış ve muhtasar beyanname ile beyan etmiştir. Ancak şirket, beyan ettiği bu vergileri süresinde vergi dairesine yatırmamıştır. Vergi dairesi, ödenmeyen vergi borcu için doğrudan anonim şirket A adına 6183 sayılı Kanun m. 55 uyarınca ödeme emri tanzim ederek takibe başlamıştır. Şirket, asıl vergi borçlusunun kendisi değil işçiler olduğunu ileri sürerek ödeme emrine itiraz etmiştir. Analizde; m. 22’nin emredici hükmü dairesinde, kesip ödemek mecburiyetinde olanların bu vazifeyi yapmamaları halinde ödenmeyen alacağın doğrudan kendilerinden tahsil edileceği saptanmış ve şirketin itirazı reddedilmiştir.
+* **(kurmaca senaryo) 2 (Kira Ödemesinde Stopaj Yapmayan Şirketin Takibi):** Limited şirket B, gayrimenkul sahibi hakiki şahıs C’den kiraladığı iş yeri için ödediği brüt kira bedeli üzerinden vergi kesintisi yapmamış ve beyanda bulunmamıştır. Vergi dairesi yapılan bir incelemede bu durumu saptamış ve ödenmeyen tevkifat tutarını doğrudan kiracı limited şirket B adına tarh ve tahakkuk ettirerek ödeme emriyle talep etmiştir. Şirket B, mülk sahibi C'nin gelir vergisi ödemesi gerektiğini savunmuştur. Analizde; VUK m. 11 ve AATUHK m. 22 uyarınca kesinti yapmak zorunda olan sorumlunun bu ödevini yerine getirmemesi halinde idarenin doğrudan sorumlu limited şirkete yönelebileceği saptanmış ve idarenin işlemi hukuka uygun bulunmuştur.
+* **(kurmaca senaryo) 3 (Mücbir Sebep Döneminde Sorumlunun Durumu):** Sorumlu D’nin iş yeri, beyanname verme süresinin bitimine 2 gün kala meydana gelen feci bir sel afeti nedeniyle tamamen sular altında kalmış ve VUK m. 13 uyarınca mücbir sebep ilan edilmiştir. Vergi dairesi, bu süreçte ödenmeyen tevkifat vergileri için D adına gecikme zammı işleterek cebri takip başlatmıştır. Sorumlu D dava açmıştır. Analizde; m. 22’deki "kanunlarında veya bu kanunda belli edilen zamanlarda" ifadesinin, VUK m. 15 dairesinde mücbir sebep nedeniyle duran ve uzayan süreleri de kapsadığı, mücbir sebep süresince sorumlunun "vazifeyi zamanında yerine getirmeme" kusurundan bahsedilemeyeceği saptanarak idari takip işlemleri iptal edilmiştir.
 
 #### 6. Pratik Uygulama Notları
-
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+Uygulamada amme alacaklarını kesip ödemek mecburiyetinde olanların sorumluluk süreçlerini ve uyuşmazlıklarını yöneten hukukçuların ve idari birimlerin aşağıdaki pratik hususlara dikkat etmesi gerekir:
+* **Asıl Mükellefe Rücu Hakkı:** M. 22 uyarınca vergi kesen sorumlu, asıl mükellefin yerine geçerek ödediği tevkifat tutarlarını, aralarındaki özel hukuk sözleşmesine veya sebepsiz zenginleşme hükümlerine dayanarak asıl mükellefe (örneğin işçiye veya kiralayana) rücu edebilir. Ancak bu rücu ilişkisi idareyi bağlamaz; idare doğrudan tevkifat sorumlusunu muhatap alır.
+* **Ödeme Emrindeki Usuli Detaylar:** Sorumluya gönderilecek ödeme emirlerinde, borcun kaynağının tevkifata (stopaja) dayandığı, hangi dönem muhtasar beyannamesinden veya idari tespitten kaynaklandığı net bir şekilde belirtilmelidir. Aksi halde ödeme emri şekil yönünden iptal davasına konu edilebilir.
+* **VUK m. 11 ile Entegrasyon:** Sorumluluk takibinde VUK m. 11’deki "vergi kesenlerin sorumluluğu" sınırları dikkate alınmalıdır. Eğer asıl mükellef ile sorumlu arasında mal veya hizmet alımına dayalı muvazaalı bir ilişki saptanırsa, idare her iki tarafı da müteselsilen sorumlu tutarak takibi genişletebilir.
+* **Cezai Sorumluluğun Ayrılığı:** M. 22 uyarınca sorumludan yapılan tahsilat maddi borca (vergi aslına ve gecikme zammına) ilişkindir. Eğer tevkifatın yapılmaması veya gizlenmesi fiili VUK m. 359 kapsamında bir vergi kaçakçılığı suçu oluşturuyorsa, sorumlunun şahsi cezai yargılaması bu idari tahsilat adımlarından bağımsız olarak Ceza Mahkemelerinde yürütülür.
 
 #### 7. Eleştirel Değerlendirme
+6183 sayılı Kanun’un 22. maddesinin tanzim ettiği "kesinti sorumlularının doğrudan şahsi malvarlığıyla takibi" modeli, kamu alacaklarının hızlıca tahsil edilmesinde üstün bir kamusal verimlilik sağlasa da, kusursuz sorumluluk sınırları, rücu mekanizmalarının yetersizliği ve vergilendirmede adalet ilkeleri yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, m. 22 hükmünün, sorumlunun hiçbir şahsi kusuru veya ihmali bulunmayan hallerde dahi (örneğin asıl mükellefin sahte belge sunarak sorumluyu yanıltması durumunda) idareye doğrudan ve re'sen sorumluya müracaat etme ve onun banka hesaplarını bloke etme yetkisi vermesinin; mülkiyet hakkını (Anayasa m. 35) ve teşebbüs hürriyetini (Anayasa m. 48) ölçüsüzce zedelediği; nitekim asıl mükellefin elde ettiği kazancın vergisini ödemesi asıl kural iken, idarenin kolaycılığa kaçarak tüm takip yükünü ve finansal riski dürüst stopaj sorumlularının omuzlarına yıkmasının mali güce göre vergilendirme (Anayasa m. 73) ve adalet ilkelerini hırpaladığı; ayrıca sorumluların ödedikleri bu tutarları asıl mükelleflerden tahsil edebilmelerini kolaylaştıracak hızlı ve etkin bir "idari rücu ve mahsup mekanizmasının" kanunda düzenlenmemiş olmasının dürüst esnaf ve şirketleri korumasız bırakarak hukuki güvenlik (Anayasa m. 2) ilkesini aşındırdığı savunulmaktadır.**
 
-Madde 22, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 22, «Amme alacaklarını kesip ödemek mecburiyetinde olanlar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini som Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 22, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 22'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakların Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 22, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 22, «Amme alacaklarını kesip ödemek mecburiyetinde olanlar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini som Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 22, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 22'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakların Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 22, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 22, «Amme alacaklarını kesip ödemek mecburiyetinde olanlar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini som Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 22, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 22'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakların Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 22, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 22, «Amme alacaklarını kesip ödemek mecburiyetinde olanlar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini som Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 22, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 22'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakların Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 22, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 22, «Amme alacaklarını kesip ödemek mecburiyetinde olanlar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini som Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 22, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 22'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakların Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 22, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 22, «Amme alacaklarını kesip ödemek mecburiyetinde olanlar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini som Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 22, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 22'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakların Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 22, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 22, «Amme alacaklarını kesip ödemek mecburiyetinde olanlar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini som Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 22, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 22'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakların Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Doktrinde bu husus şu şekilde değerlendirilmektedir: Kamu alacağını toplama hızı, dürüst aracıların finansal çöküşüne yol açmamalıdır. Kanun koyucu, anayasal eşitlik, dürüstlük, idari belirlilik, ölçülülük ve mülkiyet hakkının korunması ilkelerini tam tahkim etmek adına, **m. 22’yi yeniden tanzim ederek; sorumlunun iyi niyetli olduğunu ve gerekli basireti gösterdiğini kanıtlaması halinde sorumluluğunu kaldıran veya asgariye indiren bir "İyi Niyet Koruma Filtresi" kuran**; idareye öncelikle asıl mükellefe müracaat etme ödevi yükleyen; sorumlunun ödediği vergileri sonraki dönem muhtasar beyannamelerinden doğrudan re'sen mahsup edebilmesine yasal imkan tanıyan çağdaş, esnek, adil, şeffaf ve ticaret hayatının güvenliğine en üst düzeyde hizmet eden bir vergi sorumluluğu reformunu yasal düzeyde hayata geçirmelidir.
 
 ---
 
-### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 22 resmi metni ve kanunun sistematiği.
+### Metodolojik Not
+Bu şerh çalışması, Amme Alacaklarının Tahsil Usulü Hakkında Kanun’un 22. maddesinin (tarihi yapısı, kamu icra hukukunda kaynakta kesinti ödevini üstlenen sorumluların bu yükümlülüklerini yasal sürelerinde yerine getirmemeleri halinde ödenmeyen amme alacağının doğrudan kendi şahsi malvarlıklarından tahsil edilmesine dair kurulan "Amme alacaklarını kesip ödemek mecburiyetinde olanların sorumluluğu" kuralının maddi ve usuli sınırları, vergi kesenlerin hukuki statüsü ve asıl borçlu yerine ikame edilme nizamı, bu ağır mali yaptırımların anayasal mülkiyet hakkı, teşebbüs hürriyeti, vergilendirmede kanunilik ve adalet, adil yargılanma hakkı, hak arama hürriyeti ve hukuk devleti ilkeleriyle olan doğrudan dikey bağlantısı, 213 sayılı Vergi Usul Kanunu m. 11 dairesindeki vergi kesenlerin sorumluluğu prensipleri, m. 12 dairesinde mirasçıların takibi sınırları, 193 sayılı Gelir Vergisi Kanunu m. 94 ile 5520 sayılı Kurumlar Vergisi Kanunu m. 15 ve m. 30 dairesindeki stopaj/tevkifat oranları ve beyan vadeleri, 4721 sayılı Türk Medeni Kanunu m. 2 dairesindeki dürüstlük ve hakkın kötüye kullanılması yasağı standartları, 2577 sayılı İYUK nezdindeki dava açma süreleri ve idari yargı yolları, AATUHK m. 3 borçlu tanımı, m. 21 rüçhan hakkı, m. 37 ödeme süreleri, m. 55 ödeme emri, m. 62 haciz tatbiki ve m. 103 zamanaşımı ile olan sistematik etkileşimleri, HMK dairesindeki süre hesaplama nizamları ve bu operasyonel takip adımlarının kamu ve özel borçlar hukuku boyutundaki idari-yargısal yansımaları dairesinde) vergi ve kamu icra hukuku (vergi sorumluluğu teorileri, stopaj ve tevkifat sistemleri, sorumlunun şahsi malvarlığıyla takibi, amme alacaklarının korunması ve rüçhan hakları, tahsilat güvenceleri ve ödeme emirleri teorileri, usul ekonomisi ve vergi güvenlik marjı kuramları, kamu maliyesi teorisi), idare hukuku (idarenin kanuniliği, idari işlemlerin yetki, şekil, sebep ve konu unsurları yönünden yargısal denetimi ve bağlı yetki teorileri), ticaret, borçlar ve medeni hukuk (şirketlerin stopaj yükümlülükleri, sorumluların asıl mükelleflere rücu hakları, sebepsiz zenginleşme davaları, basiretli tacir sorumlulukları dairesinde TTK, TMK ve TBK kuralları), medeni usul ve idari yargılama hukuku (ödeme emirlerine karşı açılacak iptal davaları, yürütmenin durdurulması, ispat yükünün dağılımı dairesinde HMK, İYUK ve idari usul kuralları), borçlar ve kamu hukuku (kamu alacaklarının korunması, dürüstlük kuralı ve hakkın kötüye kullanılması yasağı dairesinde TMK m. 2 ve TBK ilişkileri), ceza hukuku (vergi kaçakçılığı suçlarında sorumluların iştirak durumları dairesinde TCK ve VUK m. 359 kuralları), anayasa hukuku (hukuk devleti, eşitlik ilkesi, verginin kanuniliği, mülkiyet hakkının korunması, teşebbüs hürriyeti, savunma hakkı ve adil yargılanma/hak arama hürriyeti ilkeleri) boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk vergi ve kamu icra hukukunun genel kabul gören bilimsel prensipleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.

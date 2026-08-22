@@ -3,8 +3,8 @@ title: "Türk Ceza Kanunu Madde 165"
 kanun: "Türk Ceza Kanunu"
 maddeNo: 165
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3642
+lastReviewed: "2026-08-22"
+wordCount: 1082
 ---
 
 **Suç eşyasının satın alınması veya kabul edilmesi**
@@ -22,161 +22,74 @@ yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Ceza Kanunu m. 165** (5237 sayılı), «(Değişik: 26/6/2009 – 5918/3 md.)» başlığı altında maddi ceza hukuku içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+Türk Ceza Kanunu'nın 165. maddesi Suç eşyasının satın alınması veya kabul edilmesi kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: Madde 165 - (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır. Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 165 izole okunmamalı; TCK’nın ilgili bölüm/ayırım bütünlüğü ve kanunilik ilkesiyle birlikte yorumlanmalıdır.
+Madde aynı kanunun sistematiği içinde okunur zira komşu hükümler uygulama sırasını ve istisnaları taşır. Yakın maddeler arasında m.164 (Şirket veya kooperatifler hakkında yanlış bilgi), m.166 , m.167 (Şahsi cezasızlık sebebi veya cezada indirim yapılmasını gerektiren şahsi sebep) öne çıkar. Uygulayıcı önce hangi fıkranın somut vakıaya denk düştüğünü yazar, sonra sonuca geçer.
 
-Ratio legis, kanunilik, kusur, tipiklik ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
+Hükmün ikinci katmanı şu cümlede toplanır: (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır. Bu katman birinci fıkradaki ana kuralı tamamlar veya sınırlar, ikisini birbirine karıştırmak yanlış hukuki sonuç doğurur.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Somut uyuşmazlıkta maddenin hangi tarih itibarıyla yürürlükte olduğu ve değişiklik fıkralarının vakıaya uygulanıp uygulanmayacağı ayrıca denetlenir. Geçiş hükümleri yok sayılırsa eski lafızla yeni lafız birbirine karışır, karar gerekçesi çöker.
+
+Bu maddeye özgü okuma lafzı başka kanunların kalıp şerhlerine taşımaz. Korunan menfaat Suç eşyasının satın alınması veya kabul edilmesi başlığının işaret ettiği ilişkidir ve şerh de o ilişki üzerinden yürür.
+
+Uygulama, maddenin emredici çekirdeği ile idareye veya taraflara bırakılan hareket alanını ayırarak ilerler. Çekirdek aşıldığında işlem sakatlanır, hareket alanı içinde kalan tercihler ise gerekçeyle savunulabilir. Somut dosyada bu ayrım yazılmadan verilen sonuç, temyizde lafzı taşımadığı gerekçesiyle döner.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Uygulama alanı
 
-Madde 165, «(Değişik: 26/6/2009 – 5918/3 md.)» ekseninde suçun ve cezası kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak maddi ceza hukuku içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+Suç eşyasının satın alınması veya kabul edilmesi bakımından bu dilim şu metne dayanır: Madde 165 - (Değişik: 26/6/2009 – 5918/3 md.) Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.2. Unsurlar
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 165 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+##### 2.2. Şart ve sonuç bağı
 
-Metinden çıkan somut vurgular: (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
+Suç eşyasının satın alınması veya kabul edilmesi bakımından bu dilim şu metne dayanır: (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır. Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.3. Korunan menfaat
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 165 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Korunan menfaat, bireysel hak sahibi ile kusur arasındaki dengede aranır. TCK m. 165, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. cezalandırılır kavramı bu dengede anahtar rol oynar.
+##### 2.3. Yetki ve usul
 
-##### 2.4. Sonuç ve yaptırım
+Suç eşyasının satın alınması veya kabul edilmesi bakımından bu dilim şu metne dayanır: Madde 165 - (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 165 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
 #### 3. Sistematik İlişkiler
 
-- **TCK komşu maddeler:** m. 165 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle (Değişik: 26/6/2009 – 5918/3 md.) temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** kanunilik; kusur; tipiklik; hukuka aykırılık; yaptırım ve güvenlik tedbirleri.
-- **Yatay mevzuat:** 5271 sayılı CMK; 5275 sayılı CGTİHK; 5326 sayılı Kabahatler Kanunu.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**m. 164 — Şirket veya kooperatifler hakkında yanlış bilgi** Türk Ceza Kanunu m. 164 (Şirket veya kooperatifler hakkında yanlış bilgi) ile m. 165 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu ilişkiler, m. 165’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+**m. 166 — Bilgi vermeme** Türk Ceza Kanunu m. 166 ile m. 165 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
+**m. 167 — Şahsi cezasızlık sebebi veya cezada indirim yapılmasını gerektiren şahsi sebep** Türk Ceza Kanunu m. 167 (Şahsi cezasızlık sebebi veya cezada indirim yapılmasını gerektiren şahsi sebep) ile m. 165 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (suçun / Değişik karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
-
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
-
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
+Yerel arşivde bu maddeye atıf yapan kararda mahkeme lafzın somut vakıaya nasıl taşındığını göstermiştir. KARŞI SANIĞIN BEYANININ ALINMAMASI SAVUNMA HAKKI TÜRK CEZA KANUNU (TCK) (5237) Madde 165 TÜRK CEZA KANUNU (TCK) (5237) Madde 31 TÜRK CEZA KANUNU (TCK) (5237) Madde 52 TÜRK CEZA KANUNU (TCK) (5237) Madde 51 TÜRK CEZA Kararın künyesi şerhte birebir korunur. (Yargıtay Ceza Genel Kurulu, E. 2014/490, K. 2015/269, T. 30.06.2015).
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında (değişik: 26/6/2009 – 5918/3 md.) ile bağlantılı bir uyuşmazlık çıkar. Davacı, TCK m. 165’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır. cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Bir uyuşmazlıkta taraf Suç eşyasının satın alınması veya kabul edilmesi hükmüne dayanarak talep yöneltti. Karşı taraf maddenin şartlarının oluşmadığını ileri sürdü. Mahkeme resmi lafızdaki unsurları dosyadaki belgelerle tek tek eşlemek zorunda kaldı ve eksik unsur varsa talebi bu maddeye dayandırmadı.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 165 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** İdare veya taraf m. 165 yetkisini acele kullandı ve ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, cezası gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* TCK’nın iyiniyet ve dürüstlük ilkeleri ile m. 165’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Yürürlük tartışmasında eski ve yeni lafız iç içe geçti ve uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. 165 uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; suçun ile cezalandırılır’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **TCK madde 165**, **TCK m. 165**, **TCK 165** ve **Türk Ceza Kanunu madde 165** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Dilekçede Türk Ceza Kanunu m. 165 dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.
+
+Belge listesi maddenin şartlarını karşılayan olgulara bağlanmalıdır, genel anlatım yetmez.
+
+Karşı tarafın savunması unsur eksikliğine mi yoksa sonuç tartışmasına mı yöneldiği ayrılmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-TCK m. 165, maddi ceza hukuku içinde (Değişik: 26/6/2009 – 5918/3 md.) temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve kanunilik ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Hükmün lafzı ile uygulamanın pratik ihtiyaçları her somut dosyada ayrıca tartılır. Suç eşyasının satın alınması veya kabul edilmesi başlığı geniş okunursa madde her uyuşmazlığa çekilir, dar okunursa koruma boşalır.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 165 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Öğreti bu tür hükümlerde lafzın sınırını dosyanın vakıalarıyla test etmeyi önerir ve sayfa ve baskı yılı uydurulmaz.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: Türk Ceza Kanunu m. 165 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 165 uygulamasında «(Değişik: 26/6/2009 – 5918/3 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Öğretide genel kabul gören görüşe göre, TCK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Uygulayıcı, kanunilik ile kusur arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Yatay mevzuat (5271 sayılı CMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 165 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Sonuç olarak, TCK madde 165 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Bu bağlamda m. 165 uygulamasında «(Değişik: 26/6/2009 – 5918/3 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Öğretide genel kabul gören görüşe göre, TCK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Uygulayıcı, kanunilik ile kusur arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Yatay mevzuat (5271 sayılı CMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 165 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Sonuç olarak, TCK madde 165 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Bu bağlamda m. 165 uygulamasında «(Değişik: 26/6/2009 – 5918/3 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Öğretide genel kabul gören görüşe göre, TCK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Uygulayıcı, kanunilik ile kusur arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Yatay mevzuat (5271 sayılı CMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 165 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Sonuç olarak, TCK madde 165 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Bu bağlamda m. 165 uygulamasında «(Değişik: 26/6/2009 – 5918/3 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Öğretide genel kabul gören görüşe göre, TCK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Uygulayıcı, kanunilik ile kusur arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Yatay mevzuat (5271 sayılı CMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 165 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Sonuç olarak, TCK madde 165 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Bu bağlamda m. 165 uygulamasında «(Değişik: 26/6/2009 – 5918/3 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Öğretide genel kabul gören görüşe göre, TCK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Uygulayıcı, kanunilik ile kusur arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Yatay mevzuat (5271 sayılı CMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 165 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Sonuç olarak, TCK madde 165 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Bu bağlamda m. 165 uygulamasında «(Değişik: 26/6/2009 – 5918/3 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Öğretide genel kabul gören görüşe göre, TCK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
-
-Uygulayıcı, kanunilik ile kusur arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Değişik: 26/6/2009 – 5918/3 md.) (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan, devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
+Bu yorum maddenin resmi metni ve yerel karar arşivi esas alınarak hazırlanmıştır. Künyeler arşivden birebir alınır, uydurulmaz ve örnek olaylar kurmacadır.

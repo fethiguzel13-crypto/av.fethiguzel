@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4263
 ---
 
+
 **Zamanaşımı süreleri:**
 
 ---
@@ -32,382 +33,50 @@ faydalanıldığı takdirde mezkür evraka ait vergi alacağı yeniden doğar.
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
+**213 sayılı Vergi Usul Kanunu’nun 114. maddesi; devletin egemenlik gücüne dayanarak tek taraflı irade beyanıyla vergi matrahını belirleme, hesaplama ve mükellefe yükleme yetkisini zamansal bir nihai barajla sınırlayan "tarh zamanaşımı" (tahakkuk zamanaşımı) müessesesini tanzim eden; vergi alacağının doğduğu takvim yılını takip eden yılın başından itibaren başlayan 5 yıllık asli süreyi emredici şekilde sabitleyen; bu sürenin dolması halinde vergi dairesinin tarh ve tebliğ yetkisini bütünüyle söndüren; takdir komisyonuna sevk işlemlerinin zamanaşımını durdurma gücünü azami bir yıl ile sınırlayarak anayasal güvenceye kavuşturan; şarta bağlı muafiyet ihlalleri ile damga vergisindeki istisnai süre başlangıç rejimlerini düzenleyen; vergilendirmede kanunilik, hukuki belirlilik, idari intizam, hak arama hürriyeti ve mülkiyet hakkının korunması ilkelerini güvence altına alan, kamu düzenine müteallik kurucu bir usul hukuku normudur.**
 
-**Vergi Usul Kanunu m. 114**, «Zamanaşımı süreleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 114 – Vergi alacağının doğduğu takvim yılını takip eden yılın başından
-başlıyarak beş yıl içinde tarh ve mükellefe tebliğ edilmiyen vergiler zamanaşımına uğrar.
-(İptal ikinci fıkra: Anayasa Mahkemesinin 15/10/2009 tarihli ve E.: 2006/124, K.:
-2009/146 sayılı Kararı ile.; Yeniden düzenleme: 23/7/2010-6009/8 md.) Şu kadar ki, vergi
-dairesince matrah takdiri için takdir komisyonuna başvurulması… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Sistematik açıdan bu madde; Kanun’un "Birinci Kitap: Vergilendirme" başlığı altındaki "Altıncı Kısım: Vergi Alacağının Kalkması" dairesinin "İkinci Bölüm: Zamanaşımı" ortak başlığı altında, zamanaşımının tanımını ve kamusal mahiyetini re'sen dikkate alınma nizamıyla birlikte kuran 113. maddeden hemen sonra; zamanaşımına uğramış dönemlere ilişkin düzeltme talep sürelerini sınırlayan 115. maddeden önce, yüz on dördüncü sırada konumlandırılmıştır. Bu sistematik yerleşim; kanun koyucunun vergi borcunun ödenmesi ve ödeme zamanı kurallarını kurduktan hemen sonra, borcun ödeme dışındaki en radikal ve tarafların iradesinden bağımsız objektif sona erme biçimi olan zamanaşımının zamansal sınırlarını tüm istisnalarıyla birlikte inşa etme iradesinin doğrudan bir tezahürüdür. Maddenin yapısı; birinci fıkrada genel 5 yıllık tarh ve tebliğ süresini belirlemekte; ikinci fıkrada takdir komisyonuna başvurulmasının zamanaşımını en fazla bir yıl süreyle durdurabileceğini emretmekte; üçüncü fıkrada şarta bağlı istisna veya muafiyet ihlallerinde sürenin ihlal yılını izleyen takvim yılı başından başlayacağını tanzim etmekte; dördüncü fıkrada ise damga vergisinde zamanaşımına uğramış belgelerin sonradan hükmünden faydalanılması halinde vergi alacağının yeniden doğacağına yönelik tarihi ve istisnai bir canlandırma rejimi kurmaktadır.
+
+Öğretide genel kabul gören görüşe göre, m. 114 hükümleri, vergi hukukunda sürelerin hak söndürücü etkisini ve idari gevşekliğin mükellefe ciro edilemeyeceği ilkelerini teyit etmektedir. Vergi borcu, mükellefin malvarlığı üzerinde süresiz bir idari ipotek veya tehdit olarak kalamaz. Devlet, sahip olduğu teknolojik ve kurumsal denetim gücüyle, vergi doğurucu olayın gerçekleştiği yılı takip eden 5 yıl içinde incelemelerini tamamlamak, vergiyi tarh etmek ve en önemlisi bu işlemi mükellefe hukuken geçerli şekilde tebliğ etmek zorundadır. Anayasa Mahkemesinin tarihi iptal kararı sonrasında yapılan yeniden düzenleme, takdir komisyonuna sevk mekanizmasının idare tarafından ucu açık bir zamanaşımı uzatma yöntemi olarak kullanılmasını engellemiş, durma süresini bir yılla sınırlayarak silahların eşitliği ve adil yargılanma haklarını tahkim etmiştir.
 
 #### 2. Maddedeki Kavramların Analizi
-
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 114, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
-
-##### 2.2. Usulî ve maddi unsurlar
-
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
-
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+Madde metninde yer alan ve tarh zamanaşımı rejimini şekillendiren temel yasal kavramların analizi şu şekildedir:
+* **Vergi Alacağının Doğduğu Yıl (Vergi Doğurucu Olay):** Vergi kanunlarının vergiyi bağladığı olayın veya hukuki durumun tekemmül ettiği takvim yılıdır. Zamanaşımı hesabı bu yılın dolmasıyla başlar.
+* **Tarh ve Tebliğ Edilmeme:** Vergi dairesinin 5 yıllık süre içinde vergiyi sadece hesaplayıp karar defterine yazması yeterli olmayıp, bu tarhiyata ilişkin ihbarnameyi mükellefe usulüne uygun olarak tebliğ etmiş olması da şarttır. Tebligat 5 yıllık sürenin son günü saat 24:00'e kadar tamamlanamazsa zamanaşımı gerçekleşir.
+* **Takdir Komisyonuna Başvuru ve Durma:** Matrah takdiri için dosyanın takdir komisyonuna sevk edilmesiyle, 5 yıllık sürenin akışının durmasıdır. Sevk tarihi itibariyle duran süre, komisyon kararının vergi dairesi kayıtlarına girdiği tarihi takip eden gün kaldığı yerden işlemeye devam eder.
+* **Azami Bir Yıllık Sınır:** Takdir komisyonunda geçen sürenin ne kadar uzun olursa olsun, zamanaşımını durdurma etkisinin en fazla bir yıl (365 gün) olabileceğini emreden emniyet sınırıdır. Bir yılı aşan komisyon gecikmeleri zamanaşımını durdurmaz, süre arka planda işlemeye devam eder.
+* **Şarta Bağlı İstisna veya Muafiyet İhlali:** Belirli şartların gelecekte korunması sözüyle vergilendirilmeyen olaylarda, zamanaşımının başlangıç anını orijinal vergi doğurucu olay tarihinden kopartarak, şartın fiilen ihlal edildiği tarihi izleyen yılın başına öteleyen istisnai kuraldır.
+* **Damga Vergisinde Yeniden Doğuş:** Zamanaşımına uğramış damga vergisine tabi bir evrakın mahkemeye sunulması, icraya konulması veya bir resmi işleme dayanak yapılması halinde, zamanaşımı geçmiş olmasına rağmen vergi alacağının kanun gereği yeniden doğarak muaccel hale gelmesidir.
 
 #### 3. Sistematik İlişkiler
+Vergi Usul Kanunu m. 114 hükümleri, anayasal düzeyde hukuk devleti ve hukuki belirlilik ilkelerini tanzim eden **Anayasa m. 2**, kanun önünde eşitlik ilkesini belirleyen **Anayasa m. 10**, mülkiyet hakkını ve sınırlarını koruyan **Anayasa m. 35**, hak arama hürriyeti ve adil yargılanma haklarını güvenceye alan **Anayasa m. 36** ile herkesin mali gücüne göre vergilendirilmesini emreden **Anayasa m. 73** ile doğrudan dikey ilişki içerisindedir. Zamanaşımı sınırları aşılarak tesis edilen vergilendirme işlemleri, dikey düzeyde anayasal mülkiyet hakkının, kanunilik ilkesinin ve idari belirliliğin açık ihlali niteliğindedir.
 
-- **Vergi Usul Kanunu m. 1** — Amaç ve kapsam: m. 114'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Vergi Usul Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Vergi Usul Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Vergi Usul Kanunu m. 5** — Ceza ve yasak rejimi: m. 114 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+Kanun içi sistematiğinde ise; ekonomik yaklaşım yorum metodunu kuran **VUK m. 3**, mükellefi tanzim eden **VUK m. 8**, sürelerin hesaplanmasını düzenleyen **VUK m. 18**, tebligat esaslarını ve elektronik tebligatı belirleyen **VUK m. 93 ve m. 107/A**, zamanaşımının re'sen dikkate alınma mahiyetini kuran **VUK m. 113**, düzeltme zamanaşımını sınırlayan **VUK m. 115**, vergi hatalarının düzeltilmesini tanzim eden **VUK m. 116-126**, defter ve belgeleri muhafaza ödevini sabitleyen **VUK m. 253**, kaçakçılık suçlarını belirleyen **VUK m. 359**, pişmanlık hükümlerini tanzim eden **VUK m. 371** ile dava açma konularını tanzim eden **VUK m. 377** hükümleriyle sarmal ve bölünmez bir bütünlük sergiler. m. 114, vergilendirme yetkisinin sınırlarını çizen en kritik idari denetim vanasıdır.
 
-Bu ilişkiler, m. 114'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+Doktrinde bu husus şu şekilde değerlendirilmektedir: VUK m. 114 hükümleri, kesinleşmiş amme alacaklarının tahsil edilmesine ilişkin 5 yıllık süreyi tanzim eden **6183 sayılı Kanun’un 102. maddesi**, dürüstlük kuralını sabitleyen **4721 sayılı Türk Medeni Kanunu’nun 2. maddesi**, özel borçlar hukukundaki hak düşürücü süreleri ve zamanaşımını tanzim eden **6098 sayılı Türk Borçlar Kanunu**, vergi mahkemelerinde açılacak davaları ve yürütmenin durdurulması süreçlerini düzenleyen **2577 sayılı İdari Yargılama Usulü Kanunu** ile resmi evrakların delil gücünü belirleyen **6100 sayılı Hukuk Muhakemeleri Kanunu** hükümleriyle doğrudan yatay, tamamlayıcı ve etkileşimli bir ilişki içerisindedir. Elektronik tebligatın kesinleşme anları VUK m. 107/A ve İYUK dairesinde çözümlenirken, zamanaşımının re'sen tespiti HMK ispat standartları ve TMK m. 2 dairesinde denetlenir.
 
 #### 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
-
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
 
 #### 5. Pratik Örnek Olaylar
-
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Vergi Usul Kanunu m. 114 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
-
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
-
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+* **(kurmaca senaryo) 1 (Takdir Komisyonundaki Bir Yıllık Durma Sınırının Aşılması):** Mükellef A’nın 2020 yılına ait hesapları incelenmiş ve vergi dairesi zamanaşımını durdurmak amacıyla 15 Aralık 2025 tarihinde dosyayı takdir komisyonuna sevk etmiştir. Takdir komisyonu kararını ancak 20 Şubat 2027 tarihinde vergi dairesine tevdi etmiş, vergi dairesi de bu karara dayanarak düzenlenen ihbarnameyi 5 Mart 2027 tarihinde mükellefe tebliğ etmiştir. Mükellef A dava açmıştır. Analizde; 2020 yılı vergisinin normal zamanaşımının 31 Aralık 2025'te dolacağı, takdir komisyonuna sevk ile sürenin durduğu ancak m. 114/2 uyarınca işlemeyen sürenin azami bir yılı (365 günü) aşamayacağı, dolayısıyla durma etkisinin 15 Aralık 2026'da sona erdiği, geri kalan günlerin akarak zamanaşımını 31 Aralık 2026'dan önce tükettiği, 2027 yılındaki tebligatın zamanaşımına uğradığı saptanarak tarhiyat iptal edilmiştir.
+* **(kurmaca senaryo) 2 (Sadece Tarh Edilip Tebliğ Edilemeyen İhbarname):** Mükellef B adına 2020 vergilendirme dönemine ilişkin olarak vergi dairesi 28 Aralık 2025 tarihinde kurumlar vergisi tarhiyatı yapmış ve ihbarnameyi postaya vermiştir. Ancak ihbarname posta gecikmesi nedeniyle mükellef B’ye 3 Ocak 2026 tarihinde tebliğ edilmiştir. İdare tarh işleminin süresinde yapıldığını savunmuştur. Analizde; m. 114/1 dairesinde verginin 5 yıl içinde sadece tarh edilmesinin yetmediği, aynı zamanda mükellefe "tebliğ" edilmiş olmasının da zorunlu bir kümülatif şart olduğu saptanarak, 3 Ocak'ta yapılan tebligatın zamanaşımı sınırının dışında kaldığı gerekçesiyle tarhiyat iptal edilmiştir.
+* **(kurmaca senaryo) 3 (Damga Vergisinde Hükmünden Faydalanma ve Yeniden Doğuş):** Mükellef C, 2015 yılında imzaladığı damga vergisine tabi bir adi sözleşmeye ilişkin vergiyi ödememiş ve bu vergi 31 Aralık 2020 tarihinde tarh zamanaşımına uğramıştır. Ancak mükellef C, 2026 yılında bu sözleşmeye dayanarak bir alacak davası açmış ve sözleşmeyi mahkemeye delil olarak sunmuştur. Vergi dairesi bu durumu tespit ederek sözleşme üzerinden damga vergisi ve vergi ziyaı cezası tarh etmiştir. Analizde; m. 114/4 uyarınca zamanaşımına uğramış damga vergisine tabi evrakın hükmünden yararlanıldığı anda vergi alacağının kanunen yeniden doğacağı, dolayısıyla idarenin 2026 yılındaki tarh işleminin hukuka uygun olduğu saptanmıştır.
 
 #### 6. Pratik Uygulama Notları
-
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+Uygulamada tarh zamanaşımı sürelerini ve bunlardan doğan uyuşmazlıkları yöneten hukukçuların ve idari birimlerin aşağıdaki pratik hususlara dikkat etmesi gerekir:
+* **Sevk ve Tevdi Tarihlerinin Karşılaştırılması:** Hukukçular, takdir komisyonu sevklerinde Takdir Komisyonuna Sevk Fişi üzerindeki tarih ile komisyon kararının vergi dairesinin evrak kayıt sistemine girdiği kayıt tarihini resmi olarak karşılaştırmalıdır. Bu iki tarih arasında geçen günlerin durma sınırını (en fazla 1 yıl) aşıp aşmadığı gün bazında hesaplanmalıdır.
+* **e-Tebligatta Beş Günlük Sürenin Hesaplanması:** VUK m. 107/A uyarınca, elektronik ortamda tebliğ edilen ihbarnameler, mükellefin elektronik posta hesabına ulaştığı tarihi izleyen beşinci günün sonunda tebliğ edilmiş sayılır. Yıl sonlarında (örneğin 28 Aralık'ta) e-tebligat sistemine gönderilen bir ihbarnamenin tebliğ sayılma anının 1 Ocak sonrasına sarkması durumunda, tebliğin zamanaşımı süresi geçtikten sonra tamamlandığı savunulmalıdır.
+* **Yıl İçi Vergilendirme Dönemlerinde Başlangıç Sınırı:** Geçici vergi dönemleri veya katma değer vergisi gibi aylık beyan edilen vergilerde dahi zamanaşımının, o dönemin ait olduğu takvim yılını takip eden takvim yılı başından (1 Ocak) itibaren başlayacağı unutulmamalıdır; aylık dönemlerin kendi bitim tarihleri zamanaşımı başlangıcını öne çekmez.
+* **Defter ve Belgeleri Muhafaza Hakkının Savunulması:** VUK m. 253 dairesindeki 5 yıllık defter saklama süresi dolduktan sonra, idarenin zamanaşımını takdir komisyonuyla durdurduğunu iddia ederek mükelleften defter ibraz etmesini istemesi hukuka aykırıdır. Süre bittikten sonra defter ibraz etmeme gerekçesiyle re'sen matrah takdir edilemez ve ceza kesilemez.
 
 #### 7. Eleştirel Değerlendirme
+VUK m. 114’te yer alan tarh zamanaşımını durduran takdir komisyonuna sevk mekanizması, idarenin inceleme sürelerini korumayı amaçlasa da, vergi daireleri tarafından inceleme süresini uzatma ve zamanaşımı barajını delme yöntemi olarak kullanılması yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, vergi dairelerinin tarh zamanaşımının dolmasına günler kala (özellikle aralık ayının son haftasında) hiçbir somut inceleme ve matrah araştırması yapmaksızın, sırf zamanaşımını durdurmak amacıyla dosyaları takdir komisyonuna sevk etmesinin, zamanaşımı kurumunun getirdiği hukuki güvenlik, istikrar ve öngörülebilirlik (Anayasa m. 2) güvencelerini fiilen işlevsiz kıldığı, bu durumun dürüstlük kuralını (TMK m. 2) zedelediği ve mükellefleri haksız bir idari baskı altında bıraktığı; öte yandan, damga vergisindeki zamanaşımının belgenin hükmünden faydalanılması şartıyla (m. 114/4) ucu açık şekilde canlandırılmasının, vergi hukukundaki zamanaşımının mutlak söndürücü karakteriyle çelişen ve hukuki güvenliği aşındıran bir kural olduğu savunulmaktadır.**
 
-Madde 114, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Vergi Usul Kanunu m. 114, «Zamanaşımı süreleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir u Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 114, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 114'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Vergi Usul Kanunu m. 2 — Hesap açılışı ve de Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 114, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Vergi Usul Kanunu m. 114, «Zamanaşımı süreleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir u Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 114, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 114'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Vergi Usul Kanunu m. 2 — Hesap açılışı ve de Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 114, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Vergi Usul Kanunu m. 114, «Zamanaşımı süreleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir u Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 114, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 114'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Vergi Usul Kanunu m. 2 — Hesap açılışı ve de Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 114, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Vergi Usul Kanunu m. 114, «Zamanaşımı süreleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir u Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 114, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 114'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Vergi Usul Kanunu m. 2 — Hesap açılışı ve de Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 114, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Vergi Usul Kanunu m. 114, «Zamanaşımı süreleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir u Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 114, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 114'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Vergi Usul Kanunu m. 2 — Hesap açılışı ve de Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 114, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Vergi Usul Kanunu m. 114, «Zamanaşımı süreleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir u Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 114, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 114'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Vergi Usul Kanunu m. 2 — Hesap açılışı ve de Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 114, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Vergi Usul Kanunu m. 114, «Zamanaşımı süreleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir u Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 114, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 114'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Vergi Usul Kanunu m. 2 — Hesap açılışı ve de Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Doktrinde bu husus şu şekilde değerlendirilmektedir: Tamamen dijitalleşen, e-fatura, e-defter, e-arşiv ve yapay zeka destekli risk analiz sistemleriyle donatılmış modern bir mali idarede, 5 yıllık tarh ve tebliğ süresi oldukça uzundur. Kanun koyucu, anayasal eşitlik, dürüstlük, idari belirlilik, ölçülülük ve vergi adaleti ilkelerini tam tahkim etmek adına, m. 114’ü yeniden tanzim ederek; genel tarh ve tebliğ zamanaşımı süresini 5 yıldan 3 yıla indiren; takdir komisyonuna sevk edilmekle zamanaşımının durması şeklindeki hükmü tamamen yürürlükten kaldıran; damga vergisindeki zamanaşımı canlandırma istisnasını sona erdiren çağdaş, şeffaf, teknolojik gelişmelere ve anayasal hak dengelerine uyumlu bir tarh zamanaşımı reformunu yasal düzeyde hayata geçirmelidir.
 
 ---
 
-### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Vergi Usul Kanunu m. 114 resmi metni ve kanunun sistematiği.
+### Metodolojik Not
+Bu şerh çalışması, Vergi Usul Kanunu’nun 114. maddesinin (tarihi yapısı, vergi usul hukukunda vergi alacağını ve idarenin tarh yetkisini tamamen ortadan kaldıran hak düşürücü "Tarh zamanaşımı" müessesesinin asli 5 yıllık süresini ve bu sürenin vergi alacağının doğduğu takvim yılını takip eden yılın başından itibaren başlayacağını emreden kurucu zaman sınırlarını, tarh işleminin tamamlanabilmesi için ihbarnamenin mükellefe usulüne uygun şekilde tebliğ edilmiş olmasını zorunlu kılan kümülatif bildirim koşulunu, matrah takdiri amacıyla vergi dairesince takdir komisyonuna başvurulmasının zamanaşımını durdurma gücünü, duran sürenin kararın daireye tevdi edildiği tarihi izleyen gün kaldığı yerden işlemeye başlamasını, durma etkisinin anayasal silahların eşitliği gereği azami bir yıl (365 gün) ile sınırlandırılmasını emreden yasal barajları, şarta bağlı muafiyet ve istisna ihlallerinde zamanaşımının ihlal yılını izleyen yılın başından itibaren işlemeye başlamasını tanzim eden özel süre başlangıç kurallarını, damga vergisinde zamanaşımına uğrayan evrakın hükmünden sonradan yararlanılması durumunda vergi alacağının kanunen yeniden doğmasına yönelik canlandırma rejimlerini, bu emredici zamanaşımı kurallarının ve süre sınırlarının ihlal edilmesinin idari işlemler, inceleme raporları ve ihbarnamelerin geçerliliği üzerindeki mutlak iptal edici yansımalarını, bu usuli sınırların anayasal mülkiyet hakkı, eşitlik ilkesi, vergilendirmede kanunilik ve adalet, savunma hakkı, mahkemeye erişim hakkı, adil yargılanma hakkı, hak arama hürriyeti ve hukuk devleti ilkeleriyle olan doğrudan dikey bağlantısını, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun’un 102. maddesindeki tahsil zamanaşımı, 103. maddesindeki zamanaşımının kesilmesi ve 104. maddesindeki zamanaşımının işlememesi kuralları ile olan dikey ve yatay benzerlik ve farklarını, 6098 sayılı Türk Borçlar Kanunu’nun zamanaşımı ve durma kuralları ile olan dikey ve yatay ilişkilerini, 4721 sayılı Türk Medeni Kanunu m. 2 dairesindeki dürüstlük ve idarenin takdir yetkisini kötüye kullanması yasağı standartları dairesindeki kurallarını, 2577 sayılı İdari Yargılama Usulü Kanunu dairesinde zamanaşımına uğramış dönemlere ilişkin tarhiyatlara karşı açılacak iptal davaları, dava açma sürelerinin tebliğ veya e-tebligat kayıtlarına göre hesaplanması ve yürütmenin durdurulması müesseseleriyle olan yatay etkileşimlerini, 6100 sayılı Hukuk Muhakemeleri Kanunu dairesinde sürelerin hesabı, ispat yükünün dağılımı, re'sen nazara alınma kuralları ve resmi belgelerin ispat gücü ilişkileri, VUK m. 1, m. 2, m. 3, m. 5, m. 8, m. 10, m. 11, m. 12, m. 13, m. 14, m. 15, m. 17, m. 18, m. 19, m. 20, m. 21, m. 22, m. 23, m. 25, m. 28, m. 29, m. 30, m. 31, m. 32, m. 33, m. 34, m. 35, m. 36, m. 37, m. 38, m. 39, m. 40, m. 93, m. 107, m. 107/A, m. 108, m. 109, m. 110, m. 111, m. 112, m. 113, m. 114, m. 115, m. 116, m. 116-126, m. 127-133, m. 253, m. 331, m. 341-355, m. 359, m. 371, m. 377 ve m. ek 1-11 kapsamındaki genel ilkeler, ekonomik yaklaşım teorisi, süre hesaplamaları, mükellefiyet sınırları, tebligat nizamı, tarh zamanaşımı, verginin tahakkuku, ihbarname düzenleme esasları ve vergi hatalarının düzeltilmesi yatay dengeleri dairesinde) vergi hukuku (zamanaşımının ve durma sürelerinin hukuki yapıları ve alacağın kalkmasının kurucu şekil şartları kuramı, vergi sorumluluğu ve borçluluk teorileri, savunma hakları ve silahların eşitliği, usul ekonomisi ve vergi güvenlik marjı kuramları, GVK, KVK, KDVK, Gümrük Kanunu, 6183 sayılı Kanun ilişkileri, kamu maliyesi teorisi), idare hukuku (idarenin kanuniliği, yetki sınırları, takdir komisyonlarının hukuki statüsü, idari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları yönünden yargısal denetimi ve bağlı yetki teorileri), ticaret, borçlar, sivil ve medeni hukuk (tüzel kişilerin zamanaşımı hakları, dürüstlük kuralları dairesinde TTK, TMK ve TBK kuralları), medeni usul ve idari yargılama hukuku (idari yargıda zamanaşımı iptali ve vergilendirme davaları, yürütmenin durdurulması, ispat yükünün dağılımı dairesinde HMK, İYUK ve genel idari usul kuralları), borçlar ve kamu hukuku (kamu alacaklarının korunması, dürüstlük kuralı ve hakkın kötüye kullanılması yasağı dairesinde TMK m. 2 ve TBK ilişkileri), ceza hukuku dairesinde TCK ve VUK m. 359 kuralları, anayasa hukuku (hukuk devleti, eşitlik ilkesi, verginin kanuniliği, mülkiyet hakkının korunması, savunma hakkı ve adil yargılanma/hak arama hürriyeti ilkeleri) boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk vergi hukukunun genel kabul gören bilimsel prensipleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.

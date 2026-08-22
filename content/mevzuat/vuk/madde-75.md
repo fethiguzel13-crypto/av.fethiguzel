@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4258
 ---
 
+
 **Komisyonun yetkileri:**
 
 ---
@@ -25,383 +26,48 @@ kurulan takdir komisyonları 79 uncu maddede yazılı yetkileri haizdir.
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
+**213 sayılı Vergi Usul Kanunu’nun 75. maddesi; vergi matrahının veya servet unsurlarının takdiri sürecinde idari karar organı olan takdir komisyonlarının maddi gerçeğe ulaşmasını sağlamak amacıyla donatıldığı usuli ve fenni yetkilerin sınırlarını çizen; bu çerçevede komisyonlara Kanun’da yazılı "vergi inceleme yetkisini" açıkça bahşeden; teknik, sanatsal ve özel uzmanlık gerektiren kıymetlerin (servet, sınai haklar, telifler, madenler vb.) değerlemesinde "bilirkişi müessesesine başvurma" imkanını tanzim eden; emlak vergisine esas teşkil eden arsa ve arazi takdir komisyonlarının bilgi isteme yetkilerini sabitleyen; vergilendirmede maddi gerçeklik, idari belirlilik, silahların eşitliği, mülkiyet hakkının korunması ve hukuk devleti ilkelerini güvence altına alan, kamu düzenine müteallik kurucu ve yetkilendirici bir usul hukuku normudur.**
 
-**Vergi Usul Kanunu m. 75**, «Komisyonun yetkileri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 75 – (Değişik birinci fıkra: 4/12/1985-3239/7 md.) 72 nci maddenin birinci
-fıkrasına göre kurulan takdir komisyonu 74 üncü maddedeki görevleri dolayısıyla bu Kanunda
-yazılı inceleme yetkisine haizdir.
-(Değişik: 30/12/1980-2365/10 md.) Komisyon, servetleri, sınai hakları ve telif
-haklarını, imtiyazları, madenleri, mücevheratı, eski eserleri ve sanat eserlerini değerlemede
-bilirkişiye müracaat… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Sistematik açıdan bu madde; Kanun’un "Birinci Kitap: Vergilendirme" başlığı altındaki "İkinci Kısım: Vergi Muameleleri" dairesinin "Dördüncü Kısım: Takdir, Zirai Kazançlar ve Özel Komisyonları" ortak başlığının "Birinci Bölüm: Takdir Komisyonları" altında, komisyonun görevlerini belirleyen 74. maddeden hemen sonra; takdir komisyonu kararlarının imza ve tebliğ nizamını kuran müteakip maddelerden önce, yetmiş beşinci sırada konumlandırılmıştır. Bu sistematik yerleşim; kanun koyucunun takdir komisyonunun kuruluşu (m. 72), üye seçimi (m. 73) ve görev alanını (m. 74) belirledikten hemen sonra, bu görevlerin yerine getirilebilmesi için kurula hangi "kamu gücü yetkilerinin" (m. 75 kapsamında "Komisyonun yetkileri" başlığı altında) devredildiğini gösterme iradesinin doğrudan bir tezahürüdür. Maddenin yapısı; birinci fıkrada genel takdir komisyonuna VUK dairesindeki vergi inceleme yetkilerini devretmekte; ikinci fıkrada özel uzmanlık alanlarında bilirkişi incelemesi yaptırma serbestisini düzenlemekte; son fıkrada ise arsa ve arazi takdir kurullarına VUK m. 79 dairesindeki geniş bilgi isteme ve defter tahlili yetkilerini tanımaktadır.
+
+Öğretide genel kabul gören görüşe göre, m. 75 hükümleri, takdir komisyonlarının sadece "masa başında gıyabi rakam belirleyen" pasif kurullar olmadığını, aksine maddi gerçeği aramakla ödevli proaktif birer "idari tahkikat organı" olduğunu teyit etmektedir. Takdir komisyonunun, vergi dairesi tarafından gönderilen sevk dosyasındaki verilerle yetinmeyip, VUK m. 134 ve devamındaki inceleme yetkilerini (yoklama yapma, defter ve belge isteme, yerinde tespit yapma) bizzat kullanabilmesi, matrahın hukuka ve gerçeğe en yakın şekilde saptanmasını sağlar. Öte yandan, sanat eseri, antika, maden veya fikri haklar gibi sıradan bir maliye memurunun teknik bilgisiyle değer biçemeyeceği alanlarda bilirkişi görüşü alınmasının yasal bir hak ve bazen zorunluluk olarak kurulması, idarenin keyfilik riskini sınırlayan ve adil vergilendirme ilkesini tahkim eden kurucu bir güvencedir.
 
 #### 2. Maddedeki Kavramların Analizi
-
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 75, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
-
-##### 2.2. Usulî ve maddi unsurlar
-
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
-
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+Madde metninde yer alan ve komisyonun yetki rejimini şekillendiren temel yasal kavramların analizi şu şekildedir:
+* **Kanunda Yazılı İnceleme Yetkisi (m. 75/1):** VUK m. 134-141 arasında düzenlenen "vergi incelemesi" yetkileridir. Bu yetki uyarınca takdir komisyonu; mükellefin defter ve belgelerini ibraz etmesini isteyebilir, işletmesinde yoklama yapabilir, envanter çıkartabilir ve mükelleften yazılı veya sözlü izahat talep edebilir.
+* **Özel Değerleme Alanları (m. 75/2):** Maddede "servetler, sınai haklar, telif hakları, imtiyazlar, madenler, mücevherat, eski eserler ve sanat eserleri" şeklinde sayılan kıymetlerdir. Bu varlıkların her biri piyasa dinamikleri, sanatsal değerleri veya fenni özellikleri itibariyle özel bir ihtisas dalıdır.
+* **Bilirkişiye Müracaat Yetkisi (m. 75/2):** Komisyonun, karmaşık ve teknik değerleme gerektiren durumlarda, o alanın fenni uzmanından (örneğin arkeolog, maden mühendisi, sarraf veya patent uzmanı) teknik rapor alma yetkisidir. Bu müracaat, kararın fenni sıhhati için usuli bir araçtır.
+* **Madde 79'daki Yetkiler (m. 75/3):** Arsa ve arazi takdir komisyonlarına (m. 72/2-3) tanınan; kamu dairelerinden, belediyelerden, muhtarlıklardan, tapu idarelerinden ve ilgili mükelleflerden doğrudan bilgi isteme, yazılı beyan talep etme ve resmi kayıtları inceleme yetkileridir.
 
 #### 3. Sistematik İlişkiler
+Vergi Usul Kanunu m. 75 hükümleri, anayasal düzeyde hukuk devleti ve idari belirlilik ilkelerini tanzim eden **Anayasa m. 2**, kanun önünde eşitlik ilkesini belirleyen **Anayasa m. 10**, mülkiyet hakkını ve sınırlarını koruyan **Anayasa m. 35**, hak arama hürriyeti ve adil yargılanma haklarını güvenceye alan **Anayasa m. 36** ile herkesin mali gücüne göre vergilendirilmesini emreden **Anayasa m. 73** ile doğrudan dikey ilişki içerisindedir. Komisyonun, teknik bilgi gerektiren bir sanat eserine fenni bilirkişi raporu almaksızın (m. 75/2 ihlaliyle) tamamen keyfi bir matrah takdir etmesi, dikey düzeyde mülkiyet hakkını ve adil yargılanma/savunma haklarını doğrudan zedeler.
 
-- **Vergi Usul Kanunu m. 1** — Amaç ve kapsam: m. 75'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Vergi Usul Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Vergi Usul Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Vergi Usul Kanunu m. 5** — Ceza ve yasak rejimi: m. 75 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+Kanun içi sistematiğinde ise; vergilendirmede "ekonomik yaklaşım" yorum metodunu kuran **VUK m. 3**, re'sen vergi tarhı ve takdir komisyonuna sevk usullerini tanzim eden **VUK m. 30**, takdir komisyonlarının kuruluş yapısını kuran **VUK m. 72**, sivil üyelerin katılım nizamını belirleyen **VUK m. 73**, komisyonun genel görevlerini belirleyen **VUK m. 74**, bilgi isteme yetkilerini tanzim eden **VUK m. 79**, tebligat esaslarını belirleyen **VUK m. 93**, takdir komisyonuna sevk nedeniyle tarh zamanaşımının durmasını düzenleyen **VUK m. 114**, vergi hatalarının düzeltilmesini tanzim eden **VUK m. 116-126**, vergi inceleme usulünü düzenleyen **VUK m. 134-141** ile komisyon kararlarına karşı dava açma haklarını tanzim eden **VUK m. 377** hükümleriyle sarmal ve bölünmez bir bütünlük sergiler. m. 75, komisyonun görevlerini yaparken ihtiyaç duyduğu maddi ve fenni delil araçlarını (inceleme ve bilirkişi) yasal zemine kavuşturan kurucu bir yetki normudur.
 
-Bu ilişkiler, m. 75'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+Doktrinde bu husus şu şekilde değerlendirilmektedir: VUK m. 75 hükümleri, yatay düzeyde **1319 sayılı Emlak Vergisi Kanunu’nun asgari arsa ve arazi değer tespit kuralları**, dürüstlük kuralını sabitleyen **4721 sayılı Türk Medeni Kanunu’nun 2. maddesi**, fenni uyuşmazlıklarda bilirkişi görevlendirilmesini, bilirkişinin niteliklerini ve raporun bağlayıcılığını tanzim eden **6100 sayılı Hukuk Muhakemeleri Kanunu’nun 266-287. maddeleri**, usulsüz inceleme veya bilirkişisiz yetki aşımıyla sakatlanan takdir kararlarına karşı açılacak iptal davalarını ve yürütmenin durdurulmasını tanzim eden **2577 sayılı İdari Yargılama Usulü Kanunu** ile ceza hukukunda bilirkişilerin gerçeğe aykırı rapor düzenlemesi suçlarını kuran **5237 sayılı Türk Ceza Kanunu** hükümleriyle doğrudan yatay, tamamlayıcı ve etkileşimli bir ilişki içerisindedir. Değerleme kararlarına karşı açılacak davalar İYUK dairesinde idari yargıda çözümlenirken; bilirkişilerin fenni sorumlulukları ve raporların geçerliliği HMK ve TCK standartlarında denetlenir.
 
 #### 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
-
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
 
 #### 5. Pratik Örnek Olaylar
-
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Vergi Usul Kanunu m. 75 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
-
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
-
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+* **(kurmaca senaryo) 1 (Bilirkişiye Başvurmaksızın Yapılan Antika Değerlemesinin Sakatlığı):** Mükellef A’ya miras yoluyla kalan ve veraset vergisine konu olan tarihi antika porselen takımları ve tablolar için takdir komisyonu, m. 75/2 kapsamında alanında uzman bir sanat tarihçisi veya antika uzmanı bilirkişiye başvurmamıştır. Komisyon, sadece internetteki benzer görsellere bakarak fahiş bir servet değeri takdir etmiş ve vergilendirme yapılmıştır. Analizde; m. 75/2 uyarınca eski eserler ve sanat eserlerinin değerlemesinde bilirkişiye müracaat yetkisinin idarenin keyfiliğini önleyen kurucu bir unsur olduğu, fenni rapor alınmaksızın komisyon üyelerinin kişisel tahminleriyle yapılan değerlemenin hukuka aykırı olduğu saptanarak takdir kararı mahkemece iptal edilmiştir.
+* **(kurmaca senaryo) 2 (Komisyonun Vergi İnceleme Yetkisini Kullanarak Defter İstemesi):** Vergi dairesince re'sen matrah takdiri için dosyası gönderilen mükellef B, takdir komisyonunun defter ve belge ibrazı yönündeki yazılı tebligatına uymamıştır. Komisyon, mükellefin bu eylemsizliği üzerine VUK m. 134 dairesindeki yetkilerini kullanarak mükellefin iş yerinde e-yoklama yaptırmış ve matrahı bu verilere göre saptamıştır. Analizde; m. 75/1 uyarınca komisyonun "bu Kanunda yazılı inceleme yetkisine haiz" olduğu, mükelleften defter istemesinin ve yoklama yapmasının tamamen yasal sınırlar içinde olduğu saptanmıştır.
+* **(kurmaca senaryo) 3 (Maden Ruhsatı Değerlemesinde Bilirkişi Raporunun İhmal Edilmesi):** Bir şirkete ait maden arama imtiyaz hakkının takdiri sürecinde, takdir komisyonu bölgedeki maden rezervlerinin derinliği ve fenni tespiti için maden mühendisinden rapor almıştır. Ancak komisyon, raporda yazılı bilimsel verileri ve rezerv tahminlerini hiçbir haklı ve teknik gerekçe göstermeksizin tamamen bir kenara iterek raporda yazanın 10 katı değer takdir etmiştir. Analizde; bilirkişi raporu hakimi veya komisyonu mutlak bağlamasa da, rapordan ayrılmanın ancak HMK m. 282 ve TMK m. 2 dairesinde fenni ve haklı gerekçelerle mümkün olabileceği, nedensiz fahiş sapmanın yetki aşımı teşkil ettiği saptanmıştır.
 
 #### 6. Pratik Uygulama Notları
-
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+Uygulamada takdir komisyonunun inceleme ve bilirkişi yetkilerinden kaynaklanan uyuşmazlıkları yöneten hukukçuların ve idari birimlerin aşağıdaki pratik hususlara dikkat etmesi gerekir:
+* **Bilirkişi Atama Kararının ve Raporunun Celp Edilmesi:** Hukukçular, servet, fikri haklar veya sanat eseri değerleme davalarında (İYUK dairesinde), takdir kararı ekinde **bilirkişi görevlendirme yazısının, bilirkişinin uzmanlık sertifikasının (veya oda kayıt belgesinin) ve imzalı fenni raporunun** bulunup bulunmadığını idari işlem dosyasından denetlemelidir. Dosyada bilirkişi raporu yoksa usul ihlali ileri sürülmelidir.
+* **Defter İbrazı Sürelerinin VUK m. 14'e Uygunluğunun Kontrolü:** Komisyonun m. 75/1 dairesinde vergi inceleme yetkisini kullanarak mükelleften defter ve belge talep etmesi halinde, mükellefe verilecek ibraz süresinin **VUK m. 14 uyarınca 15 günden az olamayacağı** kuralı gözetilmelidir. 15 günden az süre verilerek yapılan tebligatlar usulsüzdür.
+* **Bilirkişi Raporuna Karşı İtiraz Haklarının Kullanılması:** Komisyon tarafından atanan bilirkişinin raporu mükellefe tebliğ edilmemişse, bu durum savunma hakkını (Anayasa m. 36) kısıtlar. Hukukçular, **bilirkişi raporunun içeriğindeki fenni ve maddi hataları saptayarak**, komisyona veya dava aşamasında mahkemeye teknik itiraz dilekçeleri sunmalıdır.
+* **Yoklama ve İnceleme Tutanaklarındaki İmzaların İncelenmesi:** Komisyonun bizzat yaptığı yoklamalarda veya yerinde incelemelerde, **VUK m. 141 dairesinde tanzim edilen yoklama/inceleme tutanağının ıslak imzalı veya e-imzalı bir örneğinin mükellefe teslim edilip edilmediği** ve tutanakta mükellefin şerhlerinin bulunup bulunmadığı denetlenmelidir.
 
 #### 7. Eleştirel Değerlendirme
+VUK m. 75’te tanzim edilen "takdir komisyonunun inceleme yetkisi" ve "bilirkişi müracaatı" modeli, maddi gerçeğe ulaşılması yönünden kuramsal olarak güçlü görünse de, uygulamada komisyonların bu geniş yetkileri bizzat kullanmak yerine tamamen vergi dairelerinin hazırladığı taslak raporlara dayanması, bilirkişi müessesesinin "ihtiyari" bırakılmasının keyfi ve fenni dayanaktan yoksun kıymet takdirlerine yol açması yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, komisyonun vergi inceleme yetkisini (m. 75/1) bizzat kullanacak teknik ve uzman personele sahip olmamasının, bu yetkiyi tamamen atıl bıraktığı, komisyonların vergi dairesinin tek taraflı sevk iddialarını aynen onaylayan kurullara dönüştüğü, bunun da silahların eşitliği ve adil yargılanma (Anayasa m. 36) ilkelerini hırpaladığı; öte yandan, sınai haklar, telifler ve madenler gibi karmaşık finansal değerleme gerektiren alanlarda bilirkişiye başvurmanın (m. 75/2) emredici bir "zorunluluk" değil, komisyonun keyfine bırakılmış bir "ihtiyari imkan" olarak tanzim edilmesinin, mükellefleri mülkiyet hakkı (Anayasa m. 35) yönünden fahiş ve öngörülemez takdirlerle karşı karşıya bıraktığı savunulmaktadır.**
 
-Madde 75, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Vergi Usul Kanunu m. 75, «Komisyonun yetkileri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir u Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 75, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 75'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Vergi Usul Kanunu m. 2 — Hesap açılışı ve def Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 75, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Vergi Usul Kanunu m. 75, «Komisyonun yetkileri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir u Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 75, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 75'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Vergi Usul Kanunu m. 2 — Hesap açılışı ve def Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 75, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Vergi Usul Kanunu m. 75, «Komisyonun yetkileri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir u Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 75, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 75'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Vergi Usul Kanunu m. 2 — Hesap açılışı ve def Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 75, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Vergi Usul Kanunu m. 75, «Komisyonun yetkileri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir u Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 75, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 75'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Vergi Usul Kanunu m. 2 — Hesap açılışı ve def Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 75, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Vergi Usul Kanunu m. 75, «Komisyonun yetkileri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir u Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 75, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 75'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Vergi Usul Kanunu m. 2 — Hesap açılışı ve def Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 75, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Vergi Usul Kanunu m. 75, «Komisyonun yetkileri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir u Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 75, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 75'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Vergi Usul Kanunu m. 2 — Hesap açılışı ve def Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 75, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Vergi Usul Kanunu m. 75, «Komisyonun yetkileri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir u Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 75, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 75'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Vergi Usul Kanunu m. 2 — Hesap açılışı ve def Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Doktrinde bu husus şu şekilde değerlendirilmektedir: Maddi gerçeğin saptanması ve değerleme işlemlerinin fenni güvenceye kavuşturulması, idari kurulların kişisel inisiyatiflerine veya atıl yetkilerine bırakılamaz. Kanun koyucu, anayasal eşitlik, dürüstlük, idari belirlilik, ölçülülük ve vergi adaleti ilkelerini tam tahkim etmek adına, **m. 75’i çağdaş bir vizyonla yeniden tanzim ederek; fikri haklar, madenler, sanat eserleri ve karmaşık iktisadi kıymetlerin değerlemesinde bilirkişiye müracaat edilmesini ihtiyarilikten çıkarıp kurucu bir "yasal zorunluluk" haline getiren**; görevlendirilecek bilirkişilerin bağımsız SPK lisanslı değerleme uzmanları, üniversitelerin ilgili kürsüleri veya meslek birlikleri arasından otomatik algoritmayla atanmasını zorunlu kılan; komisyonların bizzat yürüteceği inceleme süreçlerini e-Defter ve e-Fatura veritabanları üzerinden yapay zeka analizleriyle yürütebilecekleri bir **"Otomatik e-İnceleme ve Veri Analiz Yetkisi"** ihdas eden çağdaş, esnek, adil, şeffaf, teknolojik dönüşüme ve anayasal hak dengelerine tam uyumlu bir takdir yetki reformunu yasal düzeyde hayata geçirmelidir.
 
 ---
 
-### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Vergi Usul Kanunu m. 75 resmi metni ve kanunun sistematiği.
+### Metodolojik Not
+Bu şerh çalışması, Vergi Usul Kanunu’nun 75. maddesinin (tarihi yapısı, vergi usul hukukunda re'sen vergilendirme yetkisinin en kritik karar basamağını oluşturan takdir komisyonlarının donatıldığı kamu gücü sınırlarını düzenleyen "Komisyonun yetkileri" müessesesini, genel takdir komisyonunun (m. 72/1) görevlerini ifa ederken VUK dairesindeki vergi incelemesi yetkilerine haiz olmasını emreden kurucu kurallarını, servetlerin, sınai hakların, telif haklarının, imtiyazların, madenlerin, mücevheratın, eski eserlerin ve sanat eserlerinin değerlemesinde komisyona tanınan bilirkişiye müracaat etme yetkisinin usuli sınırlarını, arsa ve arazi takdir komisyonlarının (m. 72/2-3) emlak vergisi taban değerlerini belirlerken VUK m. 79 dairesindeki geniş bilgi isteme ve defter tahlili yetkilerine sahip olmasını öngören kurucu nizamını, bu emredici yetki ve araştırma sınırlarının ihlal edilmesiyle (örneğin fenni bilirkişi raporu alınmaksızın veya usulsüz inceleme adımlarıyla) alınan kararların tarhiyatlar, takdir kararlarının idari geçerliliği ve tarh zamanaşımı sürelerinin (VUK m. 114) durması üzerindeki mutlak usuli yansımalarını, bu teknik yetki ve şekil sınırlarının anayasal mülkiyet hakkı, eşitlik ilkesi, vergilendirmede kanunilik ve adalet, savunma hakkı, mahkemeye erişim hakkı, adil yargılanma hakkı, hak arama hürriyeti ve hukuk devleti ilkeleriyle olan doğrudan dikey bağlantısını, 1319 sayılı Emlak Vergisi Kanunu’nun 20, 29, 31 ve 41. maddelerindeki emlak değer tespiti ve muafiyet kuralları ile olan dikey ve yatay benzerlik ve farklarını, 4721 sayılı Türk Medeni Kanunu m. 2 dairesindeki dürüstlük ve idarenin kamu gücünü kötüye kullanması yasağı standartları dairesindeki kurallarını, 2577 sayılı İdari Yargılama Usulü Kanunu dairesinde usulsüz takdir yetkisi kullanımına karşı açılacak iptal davaları, dava açma sürelerinin hesaplanması ve yürütmenin durdurulması müesseseleriyle olan yatay etkileşimlerini, 6100 sayılı Hukuk Muhakemeleri Kanunu dairesinde sürelerin hesabı, ispat yükünün dağılımı, re'sen nazara alınma kuralları ve resmi komisyon kararları ile bilirkişi raporlarının delil gücü ilişkilerini, VUK m. 1, m. 2, m. 3, m. 5, m. 8, m. 10, m. 11, m. 12, m. 13, m. 14, m. 15, m. 18, m. 19, m. 20, m. 21, m. 22, m. 23, m. 25, m. 28, m. 29, m. 30, m. 31, m. 32, m. 33, m. 34, m. 35, m. 36, m. 37, m. 38, m. 39, m. 40, m. 72, m. 73, m. 74, m. 75, m. 79, m. 93, m. 107, m. 107/A, m. 108, m. 109, m. 110, m. 111, m. 112, m. 113, m. 114, m. 115, m. 116, m. 116-126, m. 127-133, m. 134, m. 135, m. 136, m. 137, m. 138, m. 139, m. 140, m. 141, m. 253, m. 331, m. 341-355, m. 359, m. 371, m. 377 ve m. ek 1-11 kapsamındaki genel ilkeler, ekonomik yaklaşım teorisi, süre hesaplamaları, mükellefiyet sınırları, tebligat nizamı, tarh zamanaşımı, verginin tahakkuku, ihbarname düzenleme esasları ve vergi hatalarının düzeltilmesi yatay dengeleri dairesinde) vergi hukuku (takdir komisyonunun idari tahkikat sınırları, vergi inceleme yetkisinin devredilebilirliği, vergi sorumluluğu ve borçluluk teorileri, savunma hakları ve silahların eşitliği, usul ekonomisi ve vergi güvenlik marjı kuramları, GVK, KVK, KDVK, Gümrük Kanunu, 6183 sayılı Kanun ilişkileri, kamu maliyesi teorisi), idare hukuku (idarenin kanuniliği, yetki sınırları, takdir komisyonlarının bağımsız kurul statüsü, idari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları yönünden yargısal denetimi ve bağlı yetki teorileri), ticaret, borçlar, sivil ve medeni hukuk (mahalli temsil, sivil meslek kuruluşlarının kurumsal yapıları, gayrimaddi hakların hukuki niteliği, dürüstlük kuralları dairesinde TTK, TMK ve TBK kuralları), medeni usul ve idari yargılama hukuku (idari yargıda komisyon kararı iptali, değer tespit davaları, yürütmenin durdurulması, ispat yükünün dağılımı dairesinde HMK, İYUK ve genel idari usul kuralları), borçlar ve kamu hukuku (kamu alacaklarının korunması, dürüstlük kuralı ve hakkın kötüye kullanılması yasağı dairesinde TMK m. 2 ve TBK ilişkileri), ceza hukuku dairesinde TCK ve VUK m. 359 kuralları, anayasa hukuku (hukuk devleti, eşitlik ilkesi, verginin kanuniliği, mülkiyet hakkının korunması, yerinden yönetim esası, savunma hakkı ve adil yargılanma/hak arama hürriyeti ilkeleri) boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla, kullanıcı tarafından seçilen kaynaklar doğrultusunda kaleme alınmıştır. Çalışmada, Türk vergi hukukunun genel kabul gören bilimsel prensipleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.

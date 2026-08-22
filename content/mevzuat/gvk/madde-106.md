@@ -3,8 +3,8 @@ title: "Gelir Vergisi Kanunu Madde 106"
 kanun: "Gelir Vergisi Kanunu"
 maddeNo: 106
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3646
+lastReviewed: "2026-08-22"
+wordCount: 989
 ---
 
 **Gelir Vergisi, mükellefin ikametgahının bulunduğu**
@@ -35,243 +35,82 @@ vergi dairesince tarh olunur.
 Tarhiyatın
 muhatabı:
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Gelir Vergisi Kanunu m. 106** (193 sayılı), «Gelir Vergisi, mükellefin ikametgahının bulunduğu» başlığı altında gelir vergisi içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+Gelir Vergisi Kanunu'nın 106. maddesi Gelir Vergisi, mükellefin ikametgahının bulunduğu kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: Madde 106 - Gelir Vergisi, mükellefin ikametgahının bulunduğu mahal vergi dairesince tarh edilir. Şu kadar ki; 1. İş yeri ve ikametgahı ayrı vergi daireleri bölgesinde bulunan mükelleflerin vergileri, Maliye Bakanlığınca uygun görüldüğü takdirde ve mükellefe de evvelden bildirilmek kaydiyle iş yerinin bulunduğu; 2. Gezici olarak çalışanların ticaret ve serbest meslek Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 106 izole okunmamalı; GVK’nın ilgili bölüm/ayırım bütünlüğü ve gelir unsurları ilkesiyle birlikte yorumlanmalıdır.
+Madde aynı kanunun sistematiği içinde okunur zira komşu hükümler uygulama sırasını ve istisnaları taşır. Komşu madde kenar başlığı dosyada sınırlıdır, bu yüzden yorum lafzın kendi iç düzenine yaslanır. Uygulayıcı önce hangi fıkranın somut vakıaya denk düştüğünü yazar, sonra sonuca geçer.
 
-Ratio legis, gelir unsurları, matrah, istisna–muafiyet ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: Gelir Vergisi, mükellefin ikametgahının bulunduğu mahal vergi dairesince tarh edilir. İş yeri ve ikametgahı ayrı vergi daireleri bölgesinde bulunan mükelleflerin vergileri, Maliye Bakanlığınca uygun görüldüğü takdirde ve mükellefe de evvelden bildirilmek kaydiyle iş yerinin bulunduğu;
+Hükmün ikinci katmanı şu cümlede toplanır: 1. İş yeri ve ikametgahı ayrı vergi daireleri bölgesinde bulunan mükelleflerin vergileri, Maliye Bakanlığınca uygun görüldüğü takdirde ve mükellefe de evvelden bildirilmek kaydiyle iş yerinin bulunduğu; Bu katman birinci fıkradaki ana kuralı tamamlar veya sınırlar, ikisini birbirine karıştırmak yanlış hukuki sonuç doğurur.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Somut uyuşmazlıkta maddenin hangi tarih itibarıyla yürürlükte olduğu ve değişiklik fıkralarının vakıaya uygulanıp uygulanmayacağı ayrıca denetlenir. Geçiş hükümleri yok sayılırsa eski lafızla yeni lafız birbirine karışır, karar gerekçesi çöker.
+
+Bu maddeye özgü okuma lafzı başka kanunların kalıp şerhlerine taşımaz. Korunan menfaat Gelir Vergisi, mükellefin ikametgahının bulunduğu başlığının işaret ettiği ilişkidir ve şerh de o ilişki üzerinden yürür.
+
+Uygulama, maddenin emredici çekirdeği ile idareye veya taraflara bırakılan hareket alanını ayırarak ilerler. Çekirdek aşıldığında işlem sakatlanır, hareket alanı içinde kalan tercihler ise gerekçeyle savunulabilir. Somut dosyada bu ayrım yazılmadan verilen sonuç, temyizde lafzı taşımadığı gerekçesiyle döner.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Uygulama alanı
 
-Madde 106, «Gelir Vergisi, mükellefin ikametgahının bulunduğu» ekseninde vergisi ve vergi kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak gelir vergisi içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+Gelir Vergisi, mükellefin ikametgahının bulunduğu bakımından bu dilim şu metne dayanır: Madde 106 - Gelir Vergisi, mükellefin ikametgahının bulunduğu mahal vergi dairesince tarh edilir. Şu kadar ki; Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.2. Unsurlar
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 106 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+##### 2.2. Şart ve sonuç bağı
 
-Metinden çıkan somut vurgular: Gezici olarak çalışanların ticaret ve serbest meslek kazançlarının vergileri bu (…)134 kazanç sahiplerinin ikametgahtarının bulunduğu yerin vergi dairesince tarh edilmemişse, faaliyetlerini icra ettikleri;[134] 3. Dar mükellefiyete tabi olanların vergileri, beyannamelerini vermeye mecbur oldukları;
+Gelir Vergisi, mükellefin ikametgahının bulunduğu bakımından bu dilim şu metne dayanır: 1. İş yeri ve ikametgahı ayrı vergi daireleri bölgesinde bulunan mükelleflerin vergileri, Maliye Bakanlığınca uygun görüldüğü takdirde ve mükellefe de evvelden bildirilmek kaydiyle iş yerinin bulunduğu; Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.3. Korunan menfaat
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 106 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Korunan menfaat, bireysel hak sahibi ile matrah arasındaki dengede aranır. GVK m. 106, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. vergileri kavramı bu dengede anahtar rol oynar.
+##### 2.3. Yetki ve usul
 
-##### 2.4. Sonuç ve yaptırım
+Gelir Vergisi, mükellefin ikametgahının bulunduğu bakımından bu dilim şu metne dayanır: 2. Gezici olarak çalışanların ticaret ve serbest meslek kazançlarının vergileri bu (…)134 kazanç sahiplerinin ikametgahtarının bulunduğu yerin vergi dairesince tarh edilmemişse, faaliyetlerini icra ettikleri;[134] Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 106 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
+
+##### 2.4. İstisna ve sınır
+
+Gelir Vergisi, mükellefin ikametgahının bulunduğu bakımından bu dilim şu metne dayanır: 3. Dar mükellefiyete tabi olanların vergileri, beyannamelerini vermeye mecbur oldukları; Yerin vergi dairesince tarh olunur. Tarhiyatın muhatabı: Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
+
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 106 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
 #### 3. Sistematik İlişkiler
 
-- **GVK komşu maddeler:** m. 106 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle Gelir Vergisi, mükellefin ikametgahının bulunduğu temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** gelir unsurları; matrah; istisna–muafiyet; stopaj.
-- **Yatay mevzuat:** VUK; KVK; AATUHK.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**Kanunun aynı ayırımı** Gelir Vergisi Kanunu m. 106 aynı ayırımdaki komşu maddelerle birlikte uygulanır. Sistematik bağ kurulmadan verilen karar, lafzı doğru okusa bile uygulama sırasını kaçırır.
 
-Bu ilişkiler, m. 106’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
-
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
-
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (vergisi / Gelir karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
-
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
-
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: Yerin vergi dairesince tarh olunur. Gelir Vergisi, mükellefin ikametgahının bulunduğu mahal vergi dairesince tarh edilir.
+Yerel arşivde bu maddeye yapısal atıf yapan tam künyeli karar bulunamadı ve içtihat bölümü bu yüzden boş bırakılır; künye uydurulmaz.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında gelir vergisi, mükellefin ikametgahının bulunduğu ile bağlantılı bir uyuşmazlık çıkar. Davacı, GVK m. 106’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. Gelir Vergisi, mükellefin ikametgahının bulunduğu mahal vergi dairesince tarh edilir. cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Bir uyuşmazlıkta taraf Gelir Vergisi, mükellefin ikametgahının bulunduğu hükmüne dayanarak talep yöneltti. Karşı taraf maddenin şartlarının oluşmadığını ileri sürdü. Mahkeme resmi lafızdaki unsurları dosyadaki belgelerle tek tek eşlemek zorunda kaldı ve eksik unsur varsa talebi bu maddeye dayandırmadı.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 106 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** İdare veya taraf m. 106 yetkisini acele kullandı ve ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, vergi gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* GVK’nın iyiniyet ve dürüstlük ilkeleri ile m. 106’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Yürürlük tartışmasında eski ve yeni lafız iç içe geçti ve uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. 106 uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; vergisi ile vergileri’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **GVK madde 106**, **GVK m. 106**, **GVK 106** ve **Gelir Vergisi Kanunu madde 106** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Dilekçede Gelir Vergisi Kanunu m. 106 dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.
+
+Belge listesi maddenin şartlarını karşılayan olgulara bağlanmalıdır, genel anlatım yetmez.
+
+Karşı tarafın savunması unsur eksikliğine mi yoksa sonuç tartışmasına mı yöneldiği ayrılmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-GVK m. 106, gelir vergisi içinde Gelir Vergisi, mükellefin ikametgahının bulunduğu temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve gelir unsurları ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Hükmün lafzı ile uygulamanın pratik ihtiyaçları her somut dosyada ayrıca tartılır. Gelir Vergisi, mükellefin ikametgahının bulunduğu başlığı geniş okunursa madde her uyuşmazlığa çekilir, dar okunursa koruma boşalır.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 106 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Öğreti bu tür hükümlerde lafzın sınırını dosyanın vakıalarıyla test etmeyi önerir ve sayfa ve baskı yılı uydurulmaz.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: Gelir Vergisi Kanunu m. 106 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 106 uygulamasında «Gelir Vergisi, mükellefin ikametgahının bulunduğu» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Gelir Vergisi, mükellefin ikametgahının bulunduğu mahal vergi dairesince tarh edilir.
-
-Öğretide genel kabul gören görüşe göre, GVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. İş yeri ve ikametgahı ayrı vergi daireleri bölgesinde bulunan mükelleflerin vergileri, Maliye Bakanlığınca uygun görüldüğü takdirde ve mükellefe de evvelden bildirilmek kaydiyle iş yerinin bulunduğu;
-
-Uygulayıcı, gelir unsurları ile matrah arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Gezici olarak çalışanların ticaret ve serbest meslek kazançlarının vergileri bu (…)134 kazanç sahiplerinin ikametgahtarının bulunduğu yerin vergi dairesince tarh edilmemişse, faaliyetlerini icra ettikleri;[134] 3.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Dar mükellefiyete tabi olanların vergileri, beyannamelerini vermeye mecbur oldukları;
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 106 sonuçlarının fiilen elde edilmesi için belirleyicidir. Yerin vergi dairesince tarh olunur.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Gelir Vergisi, mükellefin ikametgahının bulunduğu mahal vergi dairesince tarh edilir.
-
-Sonuç olarak, GVK madde 106 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. İş yeri ve ikametgahı ayrı vergi daireleri bölgesinde bulunan mükelleflerin vergileri, Maliye Bakanlığınca uygun görüldüğü takdirde ve mükellefe de evvelden bildirilmek kaydiyle iş yerinin bulunduğu;
-
-Bu bağlamda m. 106 uygulamasında «Gelir Vergisi, mükellefin ikametgahının bulunduğu» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Gezici olarak çalışanların ticaret ve serbest meslek kazançlarının vergileri bu (…)134 kazanç sahiplerinin ikametgahtarının bulunduğu yerin vergi dairesince tarh edilmemişse, faaliyetlerini icra ettikleri;[134] 3.
-
-Öğretide genel kabul gören görüşe göre, GVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Dar mükellefiyete tabi olanların vergileri, beyannamelerini vermeye mecbur oldukları;
-
-Uygulayıcı, gelir unsurları ile matrah arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Yerin vergi dairesince tarh olunur.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Gelir Vergisi, mükellefin ikametgahının bulunduğu mahal vergi dairesince tarh edilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 106 sonuçlarının fiilen elde edilmesi için belirleyicidir. İş yeri ve ikametgahı ayrı vergi daireleri bölgesinde bulunan mükelleflerin vergileri, Maliye Bakanlığınca uygun görüldüğü takdirde ve mükellefe de evvelden bildirilmek kaydiyle iş yerinin bulunduğu;
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Gezici olarak çalışanların ticaret ve serbest meslek kazançlarının vergileri bu (…)134 kazanç sahiplerinin ikametgahtarının bulunduğu yerin vergi dairesince tarh edilmemişse, faaliyetlerini icra ettikleri;[134] 3.
-
-Sonuç olarak, GVK madde 106 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Dar mükellefiyete tabi olanların vergileri, beyannamelerini vermeye mecbur oldukları;
-
-Bu bağlamda m. 106 uygulamasında «Gelir Vergisi, mükellefin ikametgahının bulunduğu» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Yerin vergi dairesince tarh olunur.
-
-Öğretide genel kabul gören görüşe göre, GVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Gelir Vergisi, mükellefin ikametgahının bulunduğu mahal vergi dairesince tarh edilir.
-
-Uygulayıcı, gelir unsurları ile matrah arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. İş yeri ve ikametgahı ayrı vergi daireleri bölgesinde bulunan mükelleflerin vergileri, Maliye Bakanlığınca uygun görüldüğü takdirde ve mükellefe de evvelden bildirilmek kaydiyle iş yerinin bulunduğu;
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Gezici olarak çalışanların ticaret ve serbest meslek kazançlarının vergileri bu (…)134 kazanç sahiplerinin ikametgahtarının bulunduğu yerin vergi dairesince tarh edilmemişse, faaliyetlerini icra ettikleri;[134] 3.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 106 sonuçlarının fiilen elde edilmesi için belirleyicidir. Dar mükellefiyete tabi olanların vergileri, beyannamelerini vermeye mecbur oldukları;
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Yerin vergi dairesince tarh olunur.
-
-Sonuç olarak, GVK madde 106 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Gelir Vergisi, mükellefin ikametgahının bulunduğu mahal vergi dairesince tarh edilir.
-
-Bu bağlamda m. 106 uygulamasında «Gelir Vergisi, mükellefin ikametgahının bulunduğu» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. İş yeri ve ikametgahı ayrı vergi daireleri bölgesinde bulunan mükelleflerin vergileri, Maliye Bakanlığınca uygun görüldüğü takdirde ve mükellefe de evvelden bildirilmek kaydiyle iş yerinin bulunduğu;
-
-Öğretide genel kabul gören görüşe göre, GVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Gezici olarak çalışanların ticaret ve serbest meslek kazançlarının vergileri bu (…)134 kazanç sahiplerinin ikametgahtarının bulunduğu yerin vergi dairesince tarh edilmemişse, faaliyetlerini icra ettikleri;[134] 3.
-
-Uygulayıcı, gelir unsurları ile matrah arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Dar mükellefiyete tabi olanların vergileri, beyannamelerini vermeye mecbur oldukları;
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Yerin vergi dairesince tarh olunur.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 106 sonuçlarının fiilen elde edilmesi için belirleyicidir. Gelir Vergisi, mükellefin ikametgahının bulunduğu mahal vergi dairesince tarh edilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. İş yeri ve ikametgahı ayrı vergi daireleri bölgesinde bulunan mükelleflerin vergileri, Maliye Bakanlığınca uygun görüldüğü takdirde ve mükellefe de evvelden bildirilmek kaydiyle iş yerinin bulunduğu;
-
-Sonuç olarak, GVK madde 106 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Gezici olarak çalışanların ticaret ve serbest meslek kazançlarının vergileri bu (…)134 kazanç sahiplerinin ikametgahtarının bulunduğu yerin vergi dairesince tarh edilmemişse, faaliyetlerini icra ettikleri;[134] 3.
-
-Bu bağlamda m. 106 uygulamasında «Gelir Vergisi, mükellefin ikametgahının bulunduğu» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Dar mükellefiyete tabi olanların vergileri, beyannamelerini vermeye mecbur oldukları;
-
-Öğretide genel kabul gören görüşe göre, GVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Yerin vergi dairesince tarh olunur.
-
-Uygulayıcı, gelir unsurları ile matrah arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Gelir Vergisi, mükellefin ikametgahının bulunduğu mahal vergi dairesince tarh edilir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İş yeri ve ikametgahı ayrı vergi daireleri bölgesinde bulunan mükelleflerin vergileri, Maliye Bakanlığınca uygun görüldüğü takdirde ve mükellefe de evvelden bildirilmek kaydiyle iş yerinin bulunduğu;
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 106 sonuçlarının fiilen elde edilmesi için belirleyicidir. Gezici olarak çalışanların ticaret ve serbest meslek kazançlarının vergileri bu (…)134 kazanç sahiplerinin ikametgahtarının bulunduğu yerin vergi dairesince tarh edilmemişse, faaliyetlerini icra ettikleri;[134] 3.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Dar mükellefiyete tabi olanların vergileri, beyannamelerini vermeye mecbur oldukları;
-
-Sonuç olarak, GVK madde 106 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Yerin vergi dairesince tarh olunur.
-
-Bu bağlamda m. 106 uygulamasında «Gelir Vergisi, mükellefin ikametgahının bulunduğu» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Gelir Vergisi, mükellefin ikametgahının bulunduğu mahal vergi dairesince tarh edilir.
-
-Öğretide genel kabul gören görüşe göre, GVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. İş yeri ve ikametgahı ayrı vergi daireleri bölgesinde bulunan mükelleflerin vergileri, Maliye Bakanlığınca uygun görüldüğü takdirde ve mükellefe de evvelden bildirilmek kaydiyle iş yerinin bulunduğu;
-
-Uygulayıcı, gelir unsurları ile matrah arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Gezici olarak çalışanların ticaret ve serbest meslek kazançlarının vergileri bu (…)134 kazanç sahiplerinin ikametgahtarının bulunduğu yerin vergi dairesince tarh edilmemişse, faaliyetlerini icra ettikleri;[134] 3.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Dar mükellefiyete tabi olanların vergileri, beyannamelerini vermeye mecbur oldukları;
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 106 sonuçlarının fiilen elde edilmesi için belirleyicidir. Yerin vergi dairesince tarh olunur.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Gelir Vergisi, mükellefin ikametgahının bulunduğu mahal vergi dairesince tarh edilir.
-
-Sonuç olarak, GVK madde 106 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. İş yeri ve ikametgahı ayrı vergi daireleri bölgesinde bulunan mükelleflerin vergileri, Maliye Bakanlığınca uygun görüldüğü takdirde ve mükellefe de evvelden bildirilmek kaydiyle iş yerinin bulunduğu;
-
-Bu bağlamda m. 106 uygulamasında «Gelir Vergisi, mükellefin ikametgahının bulunduğu» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Gezici olarak çalışanların ticaret ve serbest meslek kazançlarının vergileri bu (…)134 kazanç sahiplerinin ikametgahtarının bulunduğu yerin vergi dairesince tarh edilmemişse, faaliyetlerini icra ettikleri;[134] 3.
-
-Öğretide genel kabul gören görüşe göre, GVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Dar mükellefiyete tabi olanların vergileri, beyannamelerini vermeye mecbur oldukları;
-
-Uygulayıcı, gelir unsurları ile matrah arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Yerin vergi dairesince tarh olunur.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Gelir Vergisi, mükellefin ikametgahının bulunduğu mahal vergi dairesince tarh edilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 106 sonuçlarının fiilen elde edilmesi için belirleyicidir. İş yeri ve ikametgahı ayrı vergi daireleri bölgesinde bulunan mükelleflerin vergileri, Maliye Bakanlığınca uygun görüldüğü takdirde ve mükellefe de evvelden bildirilmek kaydiyle iş yerinin bulunduğu;
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Gezici olarak çalışanların ticaret ve serbest meslek kazançlarının vergileri bu (…)134 kazanç sahiplerinin ikametgahtarının bulunduğu yerin vergi dairesince tarh edilmemişse, faaliyetlerini icra ettikleri;[134] 3.
-
-Sonuç olarak, GVK madde 106 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Dar mükellefiyete tabi olanların vergileri, beyannamelerini vermeye mecbur oldukları;
-
-Bu bağlamda m. 106 uygulamasında «Gelir Vergisi, mükellefin ikametgahının bulunduğu» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Yerin vergi dairesince tarh olunur.
-
-Öğretide genel kabul gören görüşe göre, GVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Gelir Vergisi, mükellefin ikametgahının bulunduğu mahal vergi dairesince tarh edilir.
-
-Uygulayıcı, gelir unsurları ile matrah arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. İş yeri ve ikametgahı ayrı vergi daireleri bölgesinde bulunan mükelleflerin vergileri, Maliye Bakanlığınca uygun görüldüğü takdirde ve mükellefe de evvelden bildirilmek kaydiyle iş yerinin bulunduğu;
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Gezici olarak çalışanların ticaret ve serbest meslek kazançlarının vergileri bu (…)134 kazanç sahiplerinin ikametgahtarının bulunduğu yerin vergi dairesince tarh edilmemişse, faaliyetlerini icra ettikleri;[134] 3.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 106 sonuçlarının fiilen elde edilmesi için belirleyicidir. Dar mükellefiyete tabi olanların vergileri, beyannamelerini vermeye mecbur oldukları;
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Yerin vergi dairesince tarh olunur.
-
-Sonuç olarak, GVK madde 106 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Gelir Vergisi, mükellefin ikametgahının bulunduğu mahal vergi dairesince tarh edilir.
-
-Bu bağlamda m. 106 uygulamasında «Gelir Vergisi, mükellefin ikametgahının bulunduğu» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. İş yeri ve ikametgahı ayrı vergi daireleri bölgesinde bulunan mükelleflerin vergileri, Maliye Bakanlığınca uygun görüldüğü takdirde ve mükellefe de evvelden bildirilmek kaydiyle iş yerinin bulunduğu;
-
-Öğretide genel kabul gören görüşe göre, GVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Gezici olarak çalışanların ticaret ve serbest meslek kazançlarının vergileri bu (…)134 kazanç sahiplerinin ikametgahtarının bulunduğu yerin vergi dairesince tarh edilmemişse, faaliyetlerini icra ettikleri;[134] 3.
-
-Uygulayıcı, gelir unsurları ile matrah arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Dar mükellefiyete tabi olanların vergileri, beyannamelerini vermeye mecbur oldukları;
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Yerin vergi dairesince tarh olunur.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 106 sonuçlarının fiilen elde edilmesi için belirleyicidir. Gelir Vergisi, mükellefin ikametgahının bulunduğu mahal vergi dairesince tarh edilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. İş yeri ve ikametgahı ayrı vergi daireleri bölgesinde bulunan mükelleflerin vergileri, Maliye Bakanlığınca uygun görüldüğü takdirde ve mükellefe de evvelden bildirilmek kaydiyle iş yerinin bulunduğu;
-
-Sonuç olarak, GVK madde 106 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Gezici olarak çalışanların ticaret ve serbest meslek kazançlarının vergileri bu (…)134 kazanç sahiplerinin ikametgahtarının bulunduğu yerin vergi dairesince tarh edilmemişse, faaliyetlerini icra ettikleri;[134] 3.
-
-Bu bağlamda m. 106 uygulamasında «Gelir Vergisi, mükellefin ikametgahının bulunduğu» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Dar mükellefiyete tabi olanların vergileri, beyannamelerini vermeye mecbur oldukları;
-
-Öğretide genel kabul gören görüşe göre, GVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Yerin vergi dairesince tarh olunur.
-
-Uygulayıcı, gelir unsurları ile matrah arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Gelir Vergisi, mükellefin ikametgahının bulunduğu mahal vergi dairesince tarh edilir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İş yeri ve ikametgahı ayrı vergi daireleri bölgesinde bulunan mükelleflerin vergileri, Maliye Bakanlığınca uygun görüldüğü takdirde ve mükellefe de evvelden bildirilmek kaydiyle iş yerinin bulunduğu;
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 106 sonuçlarının fiilen elde edilmesi için belirleyicidir. Gezici olarak çalışanların ticaret ve serbest meslek kazançlarının vergileri bu (…)134 kazanç sahiplerinin ikametgahtarının bulunduğu yerin vergi dairesince tarh edilmemişse, faaliyetlerini icra ettikleri;[134] 3.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Dar mükellefiyete tabi olanların vergileri, beyannamelerini vermeye mecbur oldukları;
-
-Sonuç olarak, GVK madde 106 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Yerin vergi dairesince tarh olunur.
-
-Bu bağlamda m. 106 uygulamasında «Gelir Vergisi, mükellefin ikametgahının bulunduğu» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Gelir Vergisi, mükellefin ikametgahının bulunduğu mahal vergi dairesince tarh edilir.
-
-Öğretide genel kabul gören görüşe göre, GVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. İş yeri ve ikametgahı ayrı vergi daireleri bölgesinde bulunan mükelleflerin vergileri, Maliye Bakanlığınca uygun görüldüğü takdirde ve mükellefe de evvelden bildirilmek kaydiyle iş yerinin bulunduğu;
-
-Uygulayıcı, gelir unsurları ile matrah arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Gezici olarak çalışanların ticaret ve serbest meslek kazançlarının vergileri bu (…)134 kazanç sahiplerinin ikametgahtarının bulunduğu yerin vergi dairesince tarh edilmemişse, faaliyetlerini icra ettikleri;[134] 3.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Dar mükellefiyete tabi olanların vergileri, beyannamelerini vermeye mecbur oldukları;
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 106 sonuçlarının fiilen elde edilmesi için belirleyicidir. Yerin vergi dairesince tarh olunur.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Gelir Vergisi, mükellefin ikametgahının bulunduğu mahal vergi dairesince tarh edilir.
-
-Sonuç olarak, GVK madde 106 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. İş yeri ve ikametgahı ayrı vergi daireleri bölgesinde bulunan mükelleflerin vergileri, Maliye Bakanlığınca uygun görüldüğü takdirde ve mükellefe de evvelden bildirilmek kaydiyle iş yerinin bulunduğu;
+Bu yorum maddenin resmi metni ve yerel karar arşivi esas alınarak hazırlanmıştır. Künyeler arşivden birebir alınır, uydurulmaz ve örnek olaylar kurmacadır.

@@ -3,8 +3,8 @@ title: "Bankacılık Kanunu Madde 134"
 kanun: "Bankacılık Kanunu"
 maddeNo: 134
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3608
+lastReviewed: "2026-08-22"
+wordCount: 1020
 ---
 
 **Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona**
@@ -246,221 +246,80 @@ müdürlüklerince vergi, resim ve harca tabi olmaksızın resen tescil ve ilan 
 Sigortaya tâbi mevduat ve katılım fonu tutarının eksik beyanı hâlinde uygulanacak
 takip ve tahsil usulleri
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Bankacılık Kanunu m. 134** (5411 sayılı), «Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona» başlığı altında bankacılık regülasyonu içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+Bankacılık Kanunu'nın 134. maddesi Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: Madde 134 - Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona borçlu olup olmadıklarına bakılmaksızın, Fon bankalarının; a) Yönetim ve denetimine sahip olduğu iştiraklerinin, b) Hâkim ortağı olan tüzel kişilerin, c) Gerçek ve tüzel kişi hâkim ortaklarının hâkim ortak olduğu şirketlerin, d) Yukarıda sayılan kişiler adına hareket eden veya onlar hesabına kendi Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 134 izole okunmamalı; BankK’nın ilgili bölüm/ayırım bütünlüğü ve izin ilkesiyle birlikte yorumlanmalıdır.
+Madde aynı kanunun sistematiği içinde okunur zira komşu hükümler uygulama sırasını ve istisnaları taşır. Yakın maddeler arasında m.133 (Sorumluluk davalarına ilişkin istisnai yetkiler), m.135 , m.136 (Fon alacaklarının yasal teminatı) öne çıkar. Uygulayıcı önce hangi fıkranın somut vakıaya denk düştüğünü yazar, sonra sonuca geçer.
 
-Ratio legis, izin, ihtiyat, sır ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona borçlu olup olmadıklarına bakılmaksızın, Fon bankalarının; Bu şirket ve iştiraklerin yüzde kırkdokuzundan fazlası ile bunlara ait her türlü mal, hak ve varlıklar, gayrimenkullerle ilgili özel kanunlarındaki kısıtlamalar saklı kalmak kaydıyla yabancı gerçek ve tüzel kişilere satılabilir.
+Hüküm tek parça gibi görünse de uygulama şart-sonuç ayrımını dosyada açık yazmayı gerektirir. Şart gerçekleşmeden yetki veya yaptırım konuşulmaz ve gerekçe boş kalır.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Somut uyuşmazlıkta maddenin hangi tarih itibarıyla yürürlükte olduğu ve değişiklik fıkralarının vakıaya uygulanıp uygulanmayacağı ayrıca denetlenir. Geçiş hükümleri yok sayılırsa eski lafızla yeni lafız birbirine karışır, karar gerekçesi çöker.
+
+Bu maddeye özgü okuma lafzı başka kanunların kalıp şerhlerine taşımaz. Korunan menfaat Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona başlığının işaret ettiği ilişkidir ve şerh de o ilişki üzerinden yürür.
+
+Uygulama, maddenin emredici çekirdeği ile idareye veya taraflara bırakılan hareket alanını ayırarak ilerler. Çekirdek aşıldığında işlem sakatlanır, hareket alanı içinde kalan tercihler ise gerekçeyle savunulabilir. Somut dosyada bu ayrım yazılmadan verilen sonuç, temyizde lafzı taşımadığı gerekçesiyle döner.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Uygulama alanı
 
-Madde 134, «Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona» ekseninde borçlu ve çek kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak bankacılık regülasyonu içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona bakımından bu dilim şu metne dayanır: Madde 134 - Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona borçlu olup olmadıklarına bakılmaksızın, Fon bankalarının; a) Yönetim ve denetimine sahip olduğu iştiraklerinin, b) Hâkim ortağı olan tüzel kişilerin, c) Gerçek ve tüzel kişi hâkim ortaklarının hâkim Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.2. Unsurlar
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 134 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+##### 2.2. Şart ve sonuç bağı
 
-Metinden çıkan somut vurgular: (Ek cümle:26/5/2022-7407/9 md.) Bu şartlara uygun olmayan müracaatlar Fon tarafından işleme alınmaz. Fon Kurulu, satış kararıyla birlikte, bu satışı gerçekleştirmek üzere en az üç kişiden oluşan bir satış komisyonu oluşturur ve başkanını belirler.
+Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona bakımından bu dilim şu metne dayanır: Madde 134 - Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona borçlu olup olmadıklarına bakılmaksızın, Fon bankalarının; a) Yönetim ve denetimine sahip olduğu iştiraklerinin, b) Hâkim ortağı olan tüzel kişilerin, c) Gerçek ve tüzel kişi hâkim ortaklarının hâkim Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.3. Korunan menfaat
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 134 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Korunan menfaat, bireysel hak sahibi ile ihtiyat arasındaki dengede aranır. BankK m. 134, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. şirketlerin kavramı bu dengede anahtar rol oynar.
+##### 2.3. Yetki ve usul
 
-##### 2.4. Sonuç ve yaptırım
+Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona bakımından bu dilim şu metne dayanır: Madde 134 - Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona borçlu olup olmadıklarına bakılmaksızın, Fon bankalarının; a) Yönetim ve denetimine sahip olduğu iştiraklerinin, b) Hâkim ortağı olan tüzel kişilerin, c) Gerçek ve tüzel kişi hâkim ortaklarının hâkim Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 134 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
 #### 3. Sistematik İlişkiler
 
-- **BankK komşu maddeler:** m. 134 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** izin; ihtiyat; sır; TMSF; faaliyet sınırları.
-- **Yatay mevzuat:** TTK; TBK; SPK; TCK.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**m. 133 — Sorumluluk davalarına ilişkin istisnai yetkiler** Bankacılık Kanunu m. 133 (Sorumluluk davalarına ilişkin istisnai yetkiler) ile m. 134 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu ilişkiler, m. 134’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+**m. 135 — takip ve tahsil usulleri** Bankacılık Kanunu m. 135 ile m. 134 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
+**m. 136 — Fon alacaklarının yasal teminatı** Bankacılık Kanunu m. 136 (Fon alacaklarının yasal teminatı) ile m. 134 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (borçlu / şirketlerde karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
-
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
-
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: Satış komisyonu, toplam üye sayısının salt çoğunluğu ile toplanır ve toplam üye sayısının salt çoğunluğu ile karar alır. Ticarî ve iktisadî bütünlük oluşturan mahcuzlar üzerinde birden fazla kişinin aynî veya şahsî hakkının bulunması veya bunların mülkiyetinin birden fazla kişiye ait olması durumunda, bu mal, hak ve/veya varlıkların değeri ayrı ayrı tespit edilir.
+Yerel arşivde bu maddeye yapısal atıf yapan tam künyeli karar bulunamadı ve içtihat bölümü bu yüzden boş bırakılır; künye uydurulmaz.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında fon, alacağının tahsili bakımından yarar görmesi hâlinde ve fona ile bağlantılı bir uyuşmazlık çıkar. Davacı, BankK m. 134’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona borçlu olup olmadıklarına bakılmaksızın, Fon bankalarının; cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Bir uyuşmazlıkta taraf Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona hükmüne dayanarak talep yöneltti. Karşı taraf maddenin şartlarının oluşmadığını ileri sürdü. Mahkeme resmi lafızdaki unsurları dosyadaki belgelerle tek tek eşlemek zorunda kaldı ve eksik unsur varsa talebi bu maddeye dayandırmadı.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 134 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** İdare veya taraf m. 134 yetkisini acele kullandı ve ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, çek gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* BankK’nın iyiniyet ve dürüstlük ilkeleri ile m. 134’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Yürürlük tartışmasında eski ve yeni lafız iç içe geçti ve uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. 134 uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; borçlu ile şirketlerin’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **BankK madde 134**, **BankK m. 134**, **BankK 134** ve **Bankacılık Kanunu madde 134** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Dilekçede Bankacılık Kanunu m. 134 dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.
+
+Belge listesi maddenin şartlarını karşılayan olgulara bağlanmalıdır, genel anlatım yetmez.
+
+Karşı tarafın savunması unsur eksikliğine mi yoksa sonuç tartışmasına mı yöneldiği ayrılmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-BankK m. 134, bankacılık regülasyonu içinde Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve izin ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Hükmün lafzı ile uygulamanın pratik ihtiyaçları her somut dosyada ayrıca tartılır. Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona başlığı geniş okunursa madde her uyuşmazlığa çekilir, dar okunursa koruma boşalır.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 134 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Öğreti bu tür hükümlerde lafzın sınırını dosyanın vakıalarıyla test etmeyi önerir ve sayfa ve baskı yılı uydurulmaz.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: Bankacılık Kanunu m. 134 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 134 uygulamasında «Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona borçlu olup olmadıklarına bakılmaksızın, Fon bankalarının;
-
-Öğretide genel kabul gören görüşe göre, BankK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bu şirket ve iştiraklerin yüzde kırkdokuzundan fazlası ile bunlara ait her türlü mal, hak ve varlıklar, gayrimenkullerle ilgili özel kanunlarındaki kısıtlamalar saklı kalmak kaydıyla yabancı gerçek ve tüzel kişilere satılabilir.
-
-Uygulayıcı, izin ile ihtiyat arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Ek cümle:26/5/2022-7407/9 md.) Bu şartlara uygun olmayan müracaatlar Fon tarafından işleme alınmaz.
-
-Yatay mevzuat (TTK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Fon Kurulu, satış kararıyla birlikte, bu satışı gerçekleştirmek üzere en az üç kişiden oluşan bir satış komisyonu oluşturur ve başkanını belirler.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 134 sonuçlarının fiilen elde edilmesi için belirleyicidir. Satış komisyonu, toplam üye sayısının salt çoğunluğu ile toplanır ve toplam üye sayısının salt çoğunluğu ile karar alır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Ticarî ve iktisadî bütünlük oluşturan mahcuzlar üzerinde birden fazla kişinin aynî veya şahsî hakkının bulunması veya bunların mülkiyetinin birden fazla kişiye ait olması durumunda, bu mal, hak ve/veya varlıkların değeri ayrı ayrı tespit edilir.
-
-Sonuç olarak, BankK madde 134 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Bu madde hükümleri uyarınca yapılacak satış sürecinde, satış ilânının Resmî Gazetede yayımlanması ilgililere yapılacak tebliğ hükmündedir.
-
-Bu bağlamda m. 134 uygulamasında «Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Ticarî ve iktisadî bütünlük oluşturduğuna karar verilen mahcuzların satışı, kapalı zarf veya açık artırma usûllerinden biri veya ikisi birlikte uygulanmak suretiyle yapılır.
-
-Öğretide genel kabul gören görüşe göre, BankK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bundan sonra, Fon Kurulunun gerekli görmesi hâlinde, ihalelere pazarlık usûlü ile devam edilebilir.
-
-Uygulayıcı, izin ile ihtiyat arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Bu usûllerden hangisinin uygulanacağına, ticarî ve iktisadî bütünlük oluşturan mal, hak ve varlıkların nitelikleri dikkate alınarak Fon Kurulu tarafından karar verilir.
-
-Yatay mevzuat (TTK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İhale bedelinin dağıtımına esas sıra cetveli satış komisyonu tarafından düzenlenir ve Resmî Gazetede ilan edilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 134 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Ek cümle:26/5/2022-7407/9 md.) Sıra cetveline itiraz süresi, sıra cetvelinin Resmî Gazetede yayımlanmasından itibaren 15 gündür.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. İhalenin sonuçlanması, Fon Kurulunun onayına bağlıdır.
-
-Sonuç olarak, BankK madde 134 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Bu hüküm uyarınca yapılan satışlarla ilgili ihalenin feshi davaları, Fonun merkezinin bulunduğu yer idare mahkemelerinde görülür.
-
-Bu bağlamda m. 134 uygulamasında «Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona borçlu olup olmadıklarına bakılmaksızın, Fon bankalarının;
-
-Öğretide genel kabul gören görüşe göre, BankK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bu şirket ve iştiraklerin yüzde kırkdokuzundan fazlası ile bunlara ait her türlü mal, hak ve varlıklar, gayrimenkullerle ilgili özel kanunlarındaki kısıtlamalar saklı kalmak kaydıyla yabancı gerçek ve tüzel kişilere satılabilir.
-
-Uygulayıcı, izin ile ihtiyat arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Ek cümle:26/5/2022-7407/9 md.) Bu şartlara uygun olmayan müracaatlar Fon tarafından işleme alınmaz.
-
-Yatay mevzuat (TTK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Fon Kurulu, satış kararıyla birlikte, bu satışı gerçekleştirmek üzere en az üç kişiden oluşan bir satış komisyonu oluşturur ve başkanını belirler.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 134 sonuçlarının fiilen elde edilmesi için belirleyicidir. Satış komisyonu, toplam üye sayısının salt çoğunluğu ile toplanır ve toplam üye sayısının salt çoğunluğu ile karar alır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Ticarî ve iktisadî bütünlük oluşturan mahcuzlar üzerinde birden fazla kişinin aynî veya şahsî hakkının bulunması veya bunların mülkiyetinin birden fazla kişiye ait olması durumunda, bu mal, hak ve/veya varlıkların değeri ayrı ayrı tespit edilir.
-
-Sonuç olarak, BankK madde 134 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Bu madde hükümleri uyarınca yapılacak satış sürecinde, satış ilânının Resmî Gazetede yayımlanması ilgililere yapılacak tebliğ hükmündedir.
-
-Bu bağlamda m. 134 uygulamasında «Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Ticarî ve iktisadî bütünlük oluşturduğuna karar verilen mahcuzların satışı, kapalı zarf veya açık artırma usûllerinden biri veya ikisi birlikte uygulanmak suretiyle yapılır.
-
-Öğretide genel kabul gören görüşe göre, BankK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bundan sonra, Fon Kurulunun gerekli görmesi hâlinde, ihalelere pazarlık usûlü ile devam edilebilir.
-
-Uygulayıcı, izin ile ihtiyat arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Bu usûllerden hangisinin uygulanacağına, ticarî ve iktisadî bütünlük oluşturan mal, hak ve varlıkların nitelikleri dikkate alınarak Fon Kurulu tarafından karar verilir.
-
-Yatay mevzuat (TTK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İhale bedelinin dağıtımına esas sıra cetveli satış komisyonu tarafından düzenlenir ve Resmî Gazetede ilan edilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 134 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Ek cümle:26/5/2022-7407/9 md.) Sıra cetveline itiraz süresi, sıra cetvelinin Resmî Gazetede yayımlanmasından itibaren 15 gündür.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. İhalenin sonuçlanması, Fon Kurulunun onayına bağlıdır.
-
-Sonuç olarak, BankK madde 134 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Bu hüküm uyarınca yapılan satışlarla ilgili ihalenin feshi davaları, Fonun merkezinin bulunduğu yer idare mahkemelerinde görülür.
-
-Bu bağlamda m. 134 uygulamasında «Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona borçlu olup olmadıklarına bakılmaksızın, Fon bankalarının;
-
-Öğretide genel kabul gören görüşe göre, BankK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bu şirket ve iştiraklerin yüzde kırkdokuzundan fazlası ile bunlara ait her türlü mal, hak ve varlıklar, gayrimenkullerle ilgili özel kanunlarındaki kısıtlamalar saklı kalmak kaydıyla yabancı gerçek ve tüzel kişilere satılabilir.
-
-Uygulayıcı, izin ile ihtiyat arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Ek cümle:26/5/2022-7407/9 md.) Bu şartlara uygun olmayan müracaatlar Fon tarafından işleme alınmaz.
-
-Yatay mevzuat (TTK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Fon Kurulu, satış kararıyla birlikte, bu satışı gerçekleştirmek üzere en az üç kişiden oluşan bir satış komisyonu oluşturur ve başkanını belirler.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 134 sonuçlarının fiilen elde edilmesi için belirleyicidir. Satış komisyonu, toplam üye sayısının salt çoğunluğu ile toplanır ve toplam üye sayısının salt çoğunluğu ile karar alır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Ticarî ve iktisadî bütünlük oluşturan mahcuzlar üzerinde birden fazla kişinin aynî veya şahsî hakkının bulunması veya bunların mülkiyetinin birden fazla kişiye ait olması durumunda, bu mal, hak ve/veya varlıkların değeri ayrı ayrı tespit edilir.
-
-Sonuç olarak, BankK madde 134 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Bu madde hükümleri uyarınca yapılacak satış sürecinde, satış ilânının Resmî Gazetede yayımlanması ilgililere yapılacak tebliğ hükmündedir.
-
-Bu bağlamda m. 134 uygulamasında «Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Ticarî ve iktisadî bütünlük oluşturduğuna karar verilen mahcuzların satışı, kapalı zarf veya açık artırma usûllerinden biri veya ikisi birlikte uygulanmak suretiyle yapılır.
-
-Öğretide genel kabul gören görüşe göre, BankK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bundan sonra, Fon Kurulunun gerekli görmesi hâlinde, ihalelere pazarlık usûlü ile devam edilebilir.
-
-Uygulayıcı, izin ile ihtiyat arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Bu usûllerden hangisinin uygulanacağına, ticarî ve iktisadî bütünlük oluşturan mal, hak ve varlıkların nitelikleri dikkate alınarak Fon Kurulu tarafından karar verilir.
-
-Yatay mevzuat (TTK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İhale bedelinin dağıtımına esas sıra cetveli satış komisyonu tarafından düzenlenir ve Resmî Gazetede ilan edilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 134 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Ek cümle:26/5/2022-7407/9 md.) Sıra cetveline itiraz süresi, sıra cetvelinin Resmî Gazetede yayımlanmasından itibaren 15 gündür.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. İhalenin sonuçlanması, Fon Kurulunun onayına bağlıdır.
-
-Sonuç olarak, BankK madde 134 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Bu hüküm uyarınca yapılan satışlarla ilgili ihalenin feshi davaları, Fonun merkezinin bulunduğu yer idare mahkemelerinde görülür.
-
-Bu bağlamda m. 134 uygulamasında «Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona borçlu olup olmadıklarına bakılmaksızın, Fon bankalarının;
-
-Öğretide genel kabul gören görüşe göre, BankK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bu şirket ve iştiraklerin yüzde kırkdokuzundan fazlası ile bunlara ait her türlü mal, hak ve varlıklar, gayrimenkullerle ilgili özel kanunlarındaki kısıtlamalar saklı kalmak kaydıyla yabancı gerçek ve tüzel kişilere satılabilir.
-
-Uygulayıcı, izin ile ihtiyat arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Ek cümle:26/5/2022-7407/9 md.) Bu şartlara uygun olmayan müracaatlar Fon tarafından işleme alınmaz.
-
-Yatay mevzuat (TTK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Fon Kurulu, satış kararıyla birlikte, bu satışı gerçekleştirmek üzere en az üç kişiden oluşan bir satış komisyonu oluşturur ve başkanını belirler.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 134 sonuçlarının fiilen elde edilmesi için belirleyicidir. Satış komisyonu, toplam üye sayısının salt çoğunluğu ile toplanır ve toplam üye sayısının salt çoğunluğu ile karar alır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Ticarî ve iktisadî bütünlük oluşturan mahcuzlar üzerinde birden fazla kişinin aynî veya şahsî hakkının bulunması veya bunların mülkiyetinin birden fazla kişiye ait olması durumunda, bu mal, hak ve/veya varlıkların değeri ayrı ayrı tespit edilir.
-
-Sonuç olarak, BankK madde 134 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Bu madde hükümleri uyarınca yapılacak satış sürecinde, satış ilânının Resmî Gazetede yayımlanması ilgililere yapılacak tebliğ hükmündedir.
-
-Bu bağlamda m. 134 uygulamasında «Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Ticarî ve iktisadî bütünlük oluşturduğuna karar verilen mahcuzların satışı, kapalı zarf veya açık artırma usûllerinden biri veya ikisi birlikte uygulanmak suretiyle yapılır.
-
-Öğretide genel kabul gören görüşe göre, BankK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bundan sonra, Fon Kurulunun gerekli görmesi hâlinde, ihalelere pazarlık usûlü ile devam edilebilir.
-
-Uygulayıcı, izin ile ihtiyat arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Bu usûllerden hangisinin uygulanacağına, ticarî ve iktisadî bütünlük oluşturan mal, hak ve varlıkların nitelikleri dikkate alınarak Fon Kurulu tarafından karar verilir.
-
-Yatay mevzuat (TTK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İhale bedelinin dağıtımına esas sıra cetveli satış komisyonu tarafından düzenlenir ve Resmî Gazetede ilan edilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 134 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Ek cümle:26/5/2022-7407/9 md.) Sıra cetveline itiraz süresi, sıra cetvelinin Resmî Gazetede yayımlanmasından itibaren 15 gündür.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. İhalenin sonuçlanması, Fon Kurulunun onayına bağlıdır.
-
-Sonuç olarak, BankK madde 134 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Bu hüküm uyarınca yapılan satışlarla ilgili ihalenin feshi davaları, Fonun merkezinin bulunduğu yer idare mahkemelerinde görülür.
-
-Bu bağlamda m. 134 uygulamasında «Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona borçlu olup olmadıklarına bakılmaksızın, Fon bankalarının;
-
-Öğretide genel kabul gören görüşe göre, BankK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bu şirket ve iştiraklerin yüzde kırkdokuzundan fazlası ile bunlara ait her türlü mal, hak ve varlıklar, gayrimenkullerle ilgili özel kanunlarındaki kısıtlamalar saklı kalmak kaydıyla yabancı gerçek ve tüzel kişilere satılabilir.
-
-Uygulayıcı, izin ile ihtiyat arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Ek cümle:26/5/2022-7407/9 md.) Bu şartlara uygun olmayan müracaatlar Fon tarafından işleme alınmaz.
-
-Yatay mevzuat (TTK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Fon Kurulu, satış kararıyla birlikte, bu satışı gerçekleştirmek üzere en az üç kişiden oluşan bir satış komisyonu oluşturur ve başkanını belirler.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 134 sonuçlarının fiilen elde edilmesi için belirleyicidir. Satış komisyonu, toplam üye sayısının salt çoğunluğu ile toplanır ve toplam üye sayısının salt çoğunluğu ile karar alır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Ticarî ve iktisadî bütünlük oluşturan mahcuzlar üzerinde birden fazla kişinin aynî veya şahsî hakkının bulunması veya bunların mülkiyetinin birden fazla kişiye ait olması durumunda, bu mal, hak ve/veya varlıkların değeri ayrı ayrı tespit edilir.
-
-Sonuç olarak, BankK madde 134 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Bu madde hükümleri uyarınca yapılacak satış sürecinde, satış ilânının Resmî Gazetede yayımlanması ilgililere yapılacak tebliğ hükmündedir.
-
-Bu bağlamda m. 134 uygulamasında «Fon, alacağının tahsili bakımından yarar görmesi hâlinde ve Fona» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Ticarî ve iktisadî bütünlük oluşturduğuna karar verilen mahcuzların satışı, kapalı zarf veya açık artırma usûllerinden biri veya ikisi birlikte uygulanmak suretiyle yapılır.
-
-Öğretide genel kabul gören görüşe göre, BankK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bundan sonra, Fon Kurulunun gerekli görmesi hâlinde, ihalelere pazarlık usûlü ile devam edilebilir.
-
-Uygulayıcı, izin ile ihtiyat arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Bu usûllerden hangisinin uygulanacağına, ticarî ve iktisadî bütünlük oluşturan mal, hak ve varlıkların nitelikleri dikkate alınarak Fon Kurulu tarafından karar verilir.
+Bu yorum maddenin resmi metni ve yerel karar arşivi esas alınarak hazırlanmıştır. Künyeler arşivden birebir alınır, uydurulmaz ve örnek olaylar kurmacadır.

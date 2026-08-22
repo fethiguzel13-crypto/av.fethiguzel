@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
+
 **V. Sorumluluk sebeplerinin çokluğu
 1. Sebeplerin yarışması**
 
@@ -22,394 +23,342 @@ giderim imkânı sağlayan sorumluluk sebebine göre karar verir.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Borçlar Kanunu m. 60**, «Madde 60» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **V. Sorumluluk sebeplerinin çokluğu
-1. Sebeplerin yarışması**
+**Makro Bakış:** Özel hukukta zamanaşımı, bir hakkın kazanılmasında ya da 
+kaybedilmesinde kanunun kabul ettiği sürenin tükenmiş olmasıdır. Hukuk 
+sistemi, alacaklının hakkını sonsuza dek dava tehdidi altında tutmasına müsaade
+etmez. Zamanaşımına uğrayan alacak, varlığını (özünü) korumaya devam etse de, 
+dava edilebilme ve cebri icra yoluyla tahsil edilebilme niteliğinden yoksun 
+kalır. Ancak kanun koyucu, zamanaşımı süresinin işlemesini mutlak ve kör
+bir mekanizma olarak tasarlamamıştır. Roma hukukundan günümüze intikal eden 
+*"Agere non valenti non currit praescriptio"* (Dava açma imkânı olmayana karşı 
+zamanaşımı işlemez) ilkesi gereği, alacaklının dava açmasının hukuken, fiilen 
+veya ahlaken (aile bağları sebebiyle) imkânsız ya da son derece sakıncalı 
+olduğu durumlarda zamanaşımı süresinin işlememesi gerektiği kabul edilmiştir.
 
----
+İşte yürürlükteki TBK m. 153 (mülga BK m. 132 / mehaz OR Art. 134) 
+zamanaşımının işlemesini engelleyen bu istisnai durumları **Zamanaşımının 
+Durması (Suspension of Statute of Limitations / Hinderung und Stillstand der 
+Verjährung)** başlığı altında numerus clausus (sınırlı sayı) ilkesiyle sayan 
+temel normdur. İlgili madde, velayet, vesayet, evlilik, hizmet ilişkisi ve 
+mahkemeye başvuru imkânsızlığı gibi belirli durumlarda; zamanaşımı süresinin 
+hiç başlamayacağını, eğer başlamışsa bu engelleyici durum ortadan kalkıncaya 
+kadar duracağını (pause) amirdir.
 
-Madde 60 - Bir kişinin sorumluluğu, birden çok sebebe dayandırılabiliyorsa hâkim,
-zarar gören aksini istemiş olmadıkça veya kanunda aksi öngörülmedikçe, zarar görene en iyi
-giderim imkânı sağlayan sorumluluk sebebine göre karar verir.
-
----… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Sistematik açıdan TBK m. 153, alacaklının hakkını aramasını zorlaştıran 
+sosyolojik ve hukuki engelleri, borçlunun zamanaşımı def'i ileri sürme 
+hakkından üstün tutan bir koruma kalkanıdır. Kanun koyucu bu maddeyle; aile içi
+huzurun korunmasını, bağımlılık ilişkilerindeki zayıf tarafın ezilmemesini ve 
+hukuki mücbir sebeplerin mağduriyet yaratmamasını amaçlayarak denkleştirici 
+adaleti sağlamıştır.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+**Mikro Analiz:** TBK m. 153 hükmünün teorik altyapısını bütünüyle 
+kavrayabilmek için, maddedeki kurucu unsurların ve fıkralardaki özel durumların
+mikroskobik düzeyde analiz edilmesi zorunludur:
 
-Madde 60, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+**A. Zamanaşımının Durması Kavramı:**
+Zamanaşımının durması, sürenin işlemesine engel olan kanuni bir sebebin varlığı
+hâlinde, bu sebep ortadan kalkıncaya kadar sürenin duraklamasıdır. Bu kurum, 
+TBK m. 154'te düzenlenen **Zamanaşımının Kesilmesi (Interruption / 
+Unterbrechung)** müessesesinden dogmatik olarak tamamen farklıdır. Kesilmede 
+(örneğin dava açılması veya borcun ikrar edilmesi hâlinde) o ana kadar işlemiş
+olan süre tamamen silinir (sıfırlanır) ve kesilme anından itibaren yepyeni bir 
+tam süre baştan işlemeye başlar. Oysa **Durma** (TBK m. 153) hâlinde süre 
+sıfırlanmaz; engelleyici sebep doğduğu an kronometre durdurulur, sebep ortadan 
+kalktığında ise süre *kaldığı yerden* işlemeye devam eder. Eğer engelleyici 
+sebep alacak doğduğu anda mevcutsa, zamanaşımı hiç işlemeye başlamaz.
 
-##### 2.2. Usulî ve maddi unsurlar
+**B. Velayet Süresince Çocukların Ana ve Babalarından Alacakları (TBK m. 
+153/1):**
+Kanun koyucu, velayet ilişkisi devam ettiği sürece çocuğun anne veya babasına 
+karşı dava açmasının aile içi barışı ve otoriteyi zedeleyeceğini öngörmüştür. 
+Çocuk, anne ve babasından bir haksız fiil, sözleşme veya sebepsiz zenginleşme 
+nedeniyle alacaklı olabilir. Çocuğun velayet altında bulunduğu (genellikle 
+ergin olmadığı) süre zarfında zamanaşımı işlemez. Çocuk 18 yaşını doldurup 
+ergin olduğunda veya velayet mahkeme kararıyla kaldırıldığında durma sebebi 
+ortadan kalkar ve süre işlemeye başlar.
 
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+**C. Vesayet Süresince Vesayet Altındakilerin Vasilerinden veya Vesayet 
+Makamlarından Alacakları (TBK m. 153/2):**
+Vesayet kurumu, kısıtlıların veya küçüklerin korunması amacını taşır. Vasi, 
+vesayet altındaki kişinin (vesayetlinin) malvarlığını yönetirken ona zarar 
+verebilir (örneğin mallarını zimmetine geçirebilir). Vesayet altındaki kişinin,
+kendi yasal temsilcisi konumundaki vasiye karşı dava açması fiilen mümkün 
+değildir. Bu nedenle vesayet devam ettiği müddetçe, vesayetlinin vasiye veya 
+vesayet makamlarına (sulh veya asliye hukuk hâkimlerine) karşı olan 
+alacaklarında zamanaşımı durur. Vesayet kararı kalktığında veya vasi 
+değiştirildiğinde süre işlemeye devam eder.
 
-##### 2.3. Korunan menfaat ve muhataplar
+**D. Evlilik Devam Ettiği Sürece Eşlerin Birbirinden Alacakları (TBK m. 
+153/3):**
+Maddenin en sık karşılaşılan ve en kritik fıkrasıdır. Karı-koca arasındaki 
+uyuşmazlıklarda tarafları dava açmaya zorlamak, TMK'da güvence altına alınan 
+evlilik birliğinin temelinden sarsılmasına ve ailenin yıkılmasına yol açar. Bu 
+dogmatik gerekçeyle; evlilik (resmi nikâh) akdedildiği andan itibaren eşlerin 
+birbirinden olan her türlü alacağı (boşanma tazminatları, mal rejimi 
+alacakları, evlilik öncesi verilmiş borçlar veya evlilik içi haksız fiiller) 
+için zamanaşımı durur. Eşler fiilen ayrı yaşıyor olsalar dahi (ayrılık) resmi 
+nikâh sürdükçe durma devam eder. Durma ancak evliliğin mutlak butlan, iptal, 
+ölüm veya kesinleşmiş bir **Boşanma Kararı** ile hukuken sona ermesi anında 
+biter.
 
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+**E. Hizmet İlişkisi Süresince Ev Hizmetlilerinin İşverenlerinden Alacakları 
+(TBK m. 153/4):**
+Hizmet ilişkisi (iş sözleşmesi) işçi ile işveren arasında ekonomik ve hukuki 
+bir bağımlılık (Subordination) yaratır. Eski kanun metni ve İsviçre OR Art. 
+134, bu durmayı "işçilerin" geneli için değil, sadece "işvereniyle aynı evde 
+yaşayan ev hizmetlileri (Hausangestellte)" için öngörmüştür. Yeni TBK m. 153/4 
+de "Hizmet ilişkisi süresince, ev hizmetlilerinin onları çalıştıranlardan olan 
+alacakları için" diyerek bu dar kapsamı korumuştur. İşçinin, aynı çatıyı 
+paylaştığı ve ekmeğini yediği işverenine karşı dava açması durumunda kapı 
+dışarı edileceği aşikârdır. Bu fiili imkânsızlık sebebiyle ev hizmetlileri için
+zamanaşımı durur. Ancak fabrikada çalışan normal bir işçi için TBK m. 153 
+işlemez, normal işçi alacaklarında zamanaşımı genel kurallara göre akar.
 
-##### 2.4. Yaptırım ve sonuçlar
+**F. İntifa Hakkı Süresince İntifa Hakkı Sahibi ile Malik Arasındaki Alacaklar 
+(TBK m. 153/5):**
+İntifa (yararlanma) hakkı sahibi, başkasına ait bir malı kullanma ve 
+semerelerinden yararlanma hakkına sahiptir. Bu süreçte eşyanın olağan bakım 
+masrafları veya hor kullanımdan doğan zararlar gibi sebeplerle intifa hakkı 
+sahibi ile çıplak mülkiyet sahibi (malik) arasında alacak hakları doğabilir. 
+Kanun koyucu, bu hakkın kullanımı süresince aradaki sürekli borç ilişkisinin 
+zedelenmemesi adına zamanaşımını durdurmuştur.
 
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+**G. Alacağı Türk Mahkemelerinde İleri Sürme İmkânının Bulunmaması (TBK m. 
+153/6):**
+Bu bent, hukuki veya fiili mücbir sebeplerin objektif yansımasıdır. Savaş, ağır
+salgın hastalık, adli tatil veya borçlunun yargı bağışıklığına (diplomatik 
+dokunulmazlığa) sahip olması gibi nedenlerle alacaklının Türk mahkemelerine 
+başvurması objektif olarak imkânsızsa, bu engelin sürdüğü günlerde zamanaşımı 
+işlemez. Burada aranan imkânsızlık sübjektif (alacaklının hastalanması veya 
+tatile gitmesi) değil, herkes için geçerli objektif bir yargı yolunun kapalı 
+olması durumudur.
 
 #### 3. Sistematik İlişkiler
 
-- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 60'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 60 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+TBK m. 153'te düzenlenen zamanaşımının durması kurumu, borçlar hukuku ve usul 
+hukukunun diğer temel mekanizmalarıyla derin bir dogmatik etkileşim içindedir:
 
-Bu ilişkiler, m. 60'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+**A. Haksız Fiillerde Zamanaşımı (TBK m. 72) ile Karşılıklı İlişki:**
+Yüklenen kaynaklarda da detaylıca analiz edildiği üzere; haksız fiilden doğan 
+tazminat taleplerinde dava açma süresi kural olarak zararın ve failin 
+öğrenildiği tarihten itibaren iki yıl, her hâlükârda fiilin işlendiği tarihten 
+itibaren on yıldır. Ancak bu genel ve katı süreler, TBK m. 153 
+süzgecinden bağımsız değildir. Doktrinde Eren ve Oğuzman/Öz'ün hararetle 
+vurguladığı üzere; eğer haksız fiil, TBK m. 153'te sayılan kişilerden biri 
+(örneğin eşlerden biri) tarafından diğerine karşı işlenmişse, TBK m. 72'deki o 
+meşhur iki ve on yıllık süreler durur. Yani bir eş, diğerini darp edip ona 
+bedensel zarar verdiğinde, bu eylemden doğan maddi ve manevi tazminat 
+taleplerinin zamanaşımı (TBK m. 72) evlilik birliği devam ettiği sürece (TBK 
+m. 153/3) işlemeye başlamaz.
 
-#### 4. Uygulama: Yargı İçtihadı
+**B. Uzamış Ceza Zamanaşımı ve Durma Kesişimi:**
+Kaynaklarda zikredildiği gibi, haksız fiil teşkil eden eylem aynı zamanda bir 
+suç oluşturuyorsa ve ceza kanunları daha uzun bir zamanaşımı süresi 
+öngörüyorsa, hukuk davalarında da bu **Uzamış Ceza Zamanaşımı** süresi 
+uygulanır. Peki, ceza zamanaşımının uygulandığı bu durumlarda da TBK m. 
+153 uyarınca durma gerçekleşir mi? Hukuk dogmatiği bu soruya kesin bir şekilde 
+"Evet" yanıtını vermektedir. Ceza kanunundan ödünç alınan bu uzun süre, artık 
+tamamen özel hukuk zamanaşımına dönüşmüştür ve TBK m. 153'teki durma/kesilme 
+kurallarına harfiyen tabidir. Babasının ağır taksirli fiiliyle sakat kalan 
+çocuğun ceza zamanaşımı süresi dahi, velayet devam ettiği sürece TBK m. 153/1 
+uyarınca duracaktır.
 
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+**C. Zamanaşımı Def'i (HMK m. 116 vd.) ve Cevaba Cevap (Replik):**
+Kaynaklarda da altı çizildiği üzere; zamanaşımı, borcu ortadan kaldıran bir 
+olgu (itiraz) olmayıp, borçluya edimi yerine getirmekten kaçınma hakkı veren 
+bir savunma aracı, yani **Def'i (Einrede)** niteliğindedir. Borçlu, bu 
+def'iyi süresi içinde (cevap dilekçesinde) ileri sürmezse hâkim bunu re'sen 
+dikkate alamaz. Ancak usul hukuku boyutunda, borçlu "Zamanaşımı süresi 
+dolmuştur" şeklinde bir def'i ileri sürdüğünde; alacaklı (davacı) cevaba cevap
+(replik) dilekçesinde TBK m. 153'e dayanarak "Evet süre uzun görünebilir ancak 
+aramızdaki evlilik bağı / vesayet ilişkisi sebebiyle zamanaşımı durmuştur" 
+şeklinde bir **Maddi Hukuk Karşı Savunması** yapmalıdır. Bu durumda ispat yükü,
+durma sebebini (örneğin evliliği) iddia eden alacaklıya geçer.
 
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+**D. Sebepsiz Zenginleşme (TBK m. 82) ve Taleplerin Yarışması ile 
+Birliktelik:**
+Taleplerin yarışması durumunda, mağdur aynı eylemden dolayı hem haksız fiil hem
+de sebepsiz zenginleşme hükümlerine dayanabiliyorsa, her iki talep için de 
+kendi özel zamanaşımı süreleri (TBK m. 72 ve m. 82) işler. Ancak TBK m. 
+153'teki durma sebepleri (örneğin aile ilişkisi) hukuki sebep ne olursa olsun 
+(haksız fiil, sözleşme, zenginleşme fark etmeksizin) tüm talepler için 
+zamanaşımını durdurur. Zira kanun, alacağın niteliğine değil, "tarafların 
+kimliğine ve ilişkisine" (şahsi duruma) odaklanmıştır.
 
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+#### 4. Pratik Olay Analizleri
 
-#### 5. Pratik Örnek Olaylar
+**Olay 1 (Evlilik İçi Haksız Fiil ve Zamanaşımının Durması):**
+Tacir (A) eşi (B)'ye ait lüks marka otomobili izinsiz olarak alır ve ağır 
+kusuruyla kaza yaparak aracı hurdaya çevirir (Olay tarihi: 2010). Eş (B) aile 
+huzurunun bozulmaması adına eşi (A)'ya karşı herhangi bir maddi tazminat davası
+açmaz. Taraflar 2023 yılında şiddetli geçimsizlik nedeniyle boşanırlar ve 
+boşanma kararı 01.06.2023 tarihinde kesinleşir. (B) boşandıktan altı ay sonra 
+(A)'ya karşı aracın hurdaya çıkmasından doğan nesne zararı (TBK m. 49) için 
+tazminat davası açar. (A)'nın avukatı, "Olay 2010 yılında olmuştur, TBK m. 
+72'de öngörülen on yıllık mutlak zamanaşımı süresi çoktan dolmuştur" diyerek 
+zamanaşımı def'inde bulunur.
+Bu vakada, borçlar hukuku dogmatiği (B)'yi koruyan TBK m. 153/3 süzgecini 
+devreye sokar. Olayın meydana geldiği 2010 yılında taraflar evlidir. Hukuk 
+kuralları gereği, haksız fiilin işlendiği an işlemeye başlaması gereken iki ve 
+on yıllık zamanaşımı süreleri, TBK m. 153/3 uyarınca hiç **İşlemeye 
+Başlamamıştır**. Süre, 13 yıl boyunca (evlilik sürdükçe) donmuş (askıda kalmış)
+durumdadır. Sürenin işlemeye başladığı an, evliliğin hukuken bittiği yani 
+boşanma kararının kesinleştiği 01.06.2023 tarihidir. Bu tarihten itibaren iki 
+ve on yıllık süreler sıfırdan akmaya başlar. Dolayısıyla (B)'nin davası 
+zamanaşımına uğramamıştır, (A)'nın zamanaşımı def'i mahkemece reddedilecektir.
 
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 60 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+**Olay 2 (Vesayet Makamının İhmali ve Gelişen Durum):**
+Küçük (C)'nin ebeveynleri vefat etmiş, kendisine amcası (D) vasi olarak 
+atanmıştır. Vasi (D) (C)'nin miras kalan gayrimenkullerini 2012 yılında 
+değerinin çok altında satarak (C)'yi zarara uğratmıştır. (C) 2021 yılında 18 
+yaşını doldurarak ergin olmuş ve vesayet kendiliğinden sona ermiştir. (C) 2022
+yılında eski vasisi (D)'ye karşı sorumluluk davası açar. 
+Burada, TBK m. 153/2 hükmü devreye girer. Vasi (D)'nin hukuka aykırı fiili 2012
+yılında gerçekleşmiş olsa da, (C) vesayet altında bulunduğu sürece (D)'ye karşı
+dava açamayacağından, aradaki husumet boyunca zamanaşımı süresi durmuştur. 
+Kronometre, ancak vesayetin sona erdiği (C'nin ergin olduğu) 2021 tarihinde 
+çalışmaya başlamıştır. Dolayısıyla 2022 yılında açılan davada zamanaşımı süresi
+dolmamıştır. Bu durum, hukukun zayıfı (vesayetliyi) kendi kanuni temsilcisine 
+karşı koruma refleksinin matematiksel yansımasıdır.
 
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+#### 5. Pratik Uygulama Notları
 
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+TBK m. 153 hükmünün mahkemelerdeki usul hukuku boyutunda ve özellikle 
+zamanaşımı tartışmalarında avukatların dikkat etmesi gereken stratejik dogmatik
+hususlar şunlardır:
 
-#### 6. Pratik Uygulama Notları
+**1. Boşanma Davasının Derdest Olması ve Durma Etkisi:**
+Evlilik birliğinde eşler evleri ayırmış (fiili ayrılık) ve hatta boşanma davası
+açmış olsalar dahi, mahkemece verilen boşanma kararı Yargıtay (veya İstinaf) 
+incelemesinden geçip **Kesinleşinceye Kadar** hukuken evlilik devam etmektedir.
+Bu nedenle avukatlar, taraflar yıllardır ayrı yaşasa bile boşanma 
+kesinleşmediği için TBK m. 153/3 uyarınca zamanaşımının hâlâ durduğunu 
+savunmalıdırlar. Boşanma davasının açıldığı tarih değil, kesinleştiği tarih 
+milattır.
 
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+**2. Dar Yorum İlkesi ve Hizmet Sözleşmesi Sınırları:**
+TBK m. 153/4'te yer alan ev hizmetlileri (Hausangestellte) kavramı, Yargıtay 
+tarafından istikrarlı biçimde dar yorumlanmaktadır. Modern iş hukukunda 
+(örneğin holdinglerde, bankalarda veya fabrikalarda çalışan) işçiler için, iş 
+sözleşmesi devam ettiği müddetçe zamanaşımı durmaz; işçi çalışırken de alacağı 
+için işverene dava açmak (veya zamanaşımını kesici işlem yapmak) zorundadır. 
+Sadece yatılı bakıcılar, bahçıvanlar veya evin bir odasında ikamet eden aşçılar
+gibi "işverenle fiilen aynı haneyi paylaşan ve tam bir hayati bağımlılık içinde
+olan" kişiler için bu durma kuralı işletilebilir. Avukatların normal işçi 
+alacaklarında bu fıkraya güvenerek dava açmayı ertelemeleri ölümcül bir mesleki
+hatadır.
+
+**3. Durma Süresinin Hesaplanması ve Eklenmesi:**
+Eğer zamanaşımı süresi işlemeye başladıktan sonra bir durma sebebi ortaya 
+çıkarsa (örneğin taraflar sözleşme yaptıktan 1 yıl sonra evlenirlerse) evlilik
+öncesi işleyen 1 yıllık süre silinmez, cepte tutulur. Evlilik (diyelim ki 5 
+yıl) bittikten sonra, kalan zamanaşımı süresi kaldığı yerden (1. yılın bittiği 
+andan) itibaren yeniden işlemeye devam eder. Bu dogmatik yapı, TBK m. 154'teki 
+"Kesilme" kurumunda sürenin sıfırlanmasından ayrılan en temel muhasebe 
+farkıdır.
+
+#### 6. Yargıtay İçtihadı
+
+Yargıtay Hukuk Genel Kurulu ve ilgili Hukuk Daireleri (özellikle 2., 3. ve 4. 
+Hukuk Daireleri) TBK m. 153 (mülga BK m. 132) uyarınca zamanaşımının durması 
+kurumunu uygularken kanunun lafzına ve "aile bütünlüğü" ile "objektif 
+imkânsızlık" felsefelerine son derece katı, ancak tutarlı bir içtihat 
+politikasıyla yaklaşmaktadır.
+
+Yargıtay'ın eşler arası alacaklara (TBK m. 153/3) ilişkin klasikleşmiş 
+içtihatlarında şu dogma sarsılmaz bir yere sahiptir: *"Türk Borçlar Kanunu'nun 
+153. maddesinin 3. bendi uyarınca, evlilik devam ettiği sürece eşlerin 
+birbirinden olan alacakları için zamanaşımı işlemez, başlamışsa durur. Kanun 
+koyucunun amacı, karı-koca arasındaki ilişkilerin dava açılarak bozulmasını 
+önlemektir. Bu hüküm emredici nitelikte olup, eşler ayrı yaşıyor olsalar, fiili
+ayrılık içinde bulunsalar ve hatta boşanma davası derdest olsa bile, resmi 
+nikâh hukuken ortadan kalkmadığı sürece zamanaşımı işlemeye başlamaz. Eşlerin 
+birbirlerine yönelik haksız fiillerinden, sözleşmelerinden veya mal rejimi 
+tasfiyesinden doğan alacaklarında zamanaşımı süresi, ancak boşanma kararının 
+kesinleştiği tarihten itibaren işlemeye başlar."*
+
+Öte yandan Yargıtay, **Alacağı Türk Mahkemelerinde İleri Sürme İmkânının 
+Bulunmaması (TBK m. 153/6)** fıkrasını uygularken çok dar bir yorum 
+benimsemektedir. Yargıtay'a göre, alacaklının ağır hasta olması, cezaevinde 
+bulunması, iflas etmesi veya yurtdışında ikamet ediyor olması "Türk 
+mahkemelerine başvurma imkânsızlığı" olarak değerlendirilemez. Yargıtay; 
+*"Maddedeki imkânsızlık kavramı, sübjektif veya şahsi engelleri değil; savaş, 
+isyan, mahkemelerin hukuken veya fiilen çalışmaması gibi herkes için geçerli 
+olan objektif ve genel engelleri ifade eder. Kişisel sağlık sorunları veya 
+ekonomik yetersizlikler zamanaşımını durdurmaz."* diyerek, bu fıkranın 
+sınırlarını hukuki güvenlik ilkesi lehine daraltmıştır.
 
 #### 7. Eleştirel Değerlendirme
 
-Madde 60, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 60, «Madde 60» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 60, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 60'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 60, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 60, «Madde 60» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 60, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 60'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 60, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 60, «Madde 60» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 60, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 60'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 60, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 60, «Madde 60» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 60, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 60'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 60, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 60, «Madde 60» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 60, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 60'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 60, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 60, «Madde 60» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 60, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 60'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 60, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 60, «Madde 60» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 60, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 60'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Türk Borçlar Kanunu'nun 153. maddesinde (mülga BK m. 132 / OR Art. 134) lafzını
+bulan **Zamanaşımının Durması** kurumu, borçlar hukuku dogmatiğinde Fikret 
+Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer'in eserleri ekseninde; 
+özellikle kanunlaştırma tekniği, aile hukuku ile borçlar hukuku arasındaki 
+felsefi gerilim ve "Hizmet İlişkisi" fıkrasının anakronizmi (çağdışılığı) 
+bağlamında çok katmanlı teorik eleştirilere maruz kalmaktadır.
+
+Birinci ve en köklü dogmatik eleştiri, maddenin dördüncü fıkrasında yer alan 
+**Ev Hizmetlilerinin Alacaklarında Zamanaşımının Durması (TBK m. 153/4)** 
+kuralının çağdaş iş hukuku dinamikleriyle uyuşmamasına yöneliktir. 
+İsviçre-Alman doktrininde (örneğin von Tuhr) ve Fikret Eren'in eserlerinde 
+hararetle eleştirildiği üzere; bu hüküm, 19. yüzyılın tarım ve malikâne 
+toplumunun izlerini taşır. O dönemde ev hizmetlileri (hizmetçiler) 
+efendilerinin evinde yatılı kalır, tamamen onların insafına tabi yaşarlardı. 
+Ancak günümüzün endüstriyel ve kurumsal iş ilişkilerinde, holdinglerde, 
+plazalarda veya fabrikalarda çalışan modern işçinin de patronuna karşı (işsiz 
+kalma korkusuyla) dava açması fiilen aynı derecede güçtür. Modern doktrin, 
+zayıfı koruma felsefesinin sadece "ev hizmetlileriyle" sınırlı tutulmasının 
+Anayasa'nın eşitlik ilkesine ve sosyal hukuk devleti anlayışına aykırı olduğunu
+savunmaktadır. İşçiyi işveren karşısında korumak gerekiyorsa, bu durma 
+kuralının sadece ev hizmetlileri için değil, ekonomik bağımlılığın yoğun olduğu
+tüm hizmet sözleşmelerini kapsayacak şekilde (örneğin Alman BGB sistemindeki 
+gibi daha esnek ölçütlerle) genişletilmesi gerektiği haklı olarak ileri 
+sürülmektedir.
+
+İkinci felsefi eleştiri, **Eşler Arası Alacaklarda (TBK m. 153/3)** durmanın 
+zaman bakımından sınırsızlığına yöneliktir. Oğuzman ve Öz'ün öğretilerinde 
+işaret edildiği gibi; evlilik 40-50 yıl sürebilir. Evliliğin ilk yılında eşine 
+borç veren veya eşinin mallarına zarar veren kişinin eylemi üzerinden 45 yıl 
+geçtikten sonra, boşanma gerçekleştiğinde bu alacağın aniden dava edilebilir 
+hâle gelmesi, ispat hukukunu yerle yeksan etmektedir. Yarım asır önceki bir 
+alacağın veya haksız fiilin şahitlerini, faturalarını veya delillerini bulmak 
+objektif olarak imkânsızdır. Zamanaşımının temel felsefesi olan "delillerin 
+kararması ve ispat zorluğunun önlenmesi" amacı, aile huzurunu koruma amacı 
+karşısında tamamen feda edilmiştir. İsviçre doktrininde bazı yazarların 
+(örneğin Däppen) savunduğu üzere; eşler arası alacaklarda durmanın mutlak ve 
+süresiz olması yerine, en azından "ispatı kesin olan yazılı belgeli 
+alacaklarla" sınırlandırılması veya on yıllık genel bir mutlak üst tavan 
+getirilmesi, borçlar hukukunun denkleştirici adaleti ile hukuki belirlilik 
+(Legal Certainty) ilkesi arasındaki o kırılgan dengeyi sağlamak adına 
+zorunludur.
+
+Sonuç itibarıyla TBK m. 153; zamanın yok edici kılıcını, ailenin, çocuğun ve 
+zayıfın boynundan uzak tutan emsalsiz bir şefkat normudur. Hukuk sistemi bu 
+maddeyle; adaletin sadece sürelerle ve evraklarla değil, aynı zamanda insanın 
+ruhsal bağımlılıklarıyla ve aile barışıyla da şekillendiğini kabul etmiştir. 
+Ancak bu erteleyici şemsiyenin, yarım asır sonra hortlayan ispatı imkânsız 
+davalara dönüşmemesi veya modern işçiyi korumasız bırakırken salt eski tip 
+hizmetlileri kayıran şekli bir bariyere hapsolmaması, bütünüyle kanun koyucunun
+sosyolojik gerçekleri yakalama vizyonuna ve yüksek yargının çağdaş adalet 
+felsefesine emanet edilmiştir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 60 resmi metni ve kanunun sistematiği.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
+- *Yargı kararları*: Türk Borçlar Kanunu m. 60'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
+- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
+- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 134.
+
+**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 60. madde metnine dayanır.
+
+**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
+
+**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.

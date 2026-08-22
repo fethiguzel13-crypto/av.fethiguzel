@@ -3,8 +3,8 @@ title: "Kaçakçılıkla Mücadele Kanunu Madde 23"
 kanun: "Kaçakçılıkla Mücadele Kanunu"
 maddeNo: 23
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3613
+lastReviewed: "2026-08-22"
+wordCount: 1006
 ---
 
 **Cumhuriyet savcısının karar verme yetkisi**
@@ -26,203 +26,74 @@ kuruluşu tarafından idarî yaptırım kararı verilmemiş olması gerekir.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Kaçakçılıkla Mücadele Kanunu m. 23** (5607 sayılı), «(1) Kaçak zannı ile eşya yakalanması halinde muhbir ve elkoyma» başlığı altında kaçakçılıkla mücadele içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+Kaçakçılıkla Mücadele Kanunu'nın 23. maddesi Cumhuriyet savcısının karar verme yetkisi kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: Madde 23- (1) Cumhuriyet savcısı, kanunda açıkça hüküm bulunan hallerde bir kabahat dolayısıyla idarî yaptırım kararı vermeye yetkilidir. (2) Bir suç dolayısıyla başlatılan soruşturma kapsamında bir kabahatin işlendiğini öğrenmesi halinde Cumhuriyet savcısı durumu ilgili kamu kurum ve kuruluşuna bildirebileceği gibi, kendisi de idarî yaptırım kararı verebilir. (3) Soruşturma Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 23 izole okunmamalı; KMK’nın ilgili bölüm/ayırım bütünlüğü ve suç tipleri ilkesiyle birlikte yorumlanmalıdır.
+Madde aynı kanunun sistematiği içinde okunur zira komşu hükümler uygulama sırasını ve istisnaları taşır. Yakın maddeler arasında m.22 (DÖRDÜNCÜ BÖLÜM · Karar Verme Yetkisi ve Kanun Yolları · İdarî yaptırım kararı ve), m.24 , m.25 (İdarî yaptırım kararı) öne çıkar. Uygulayıcı önce hangi fıkranın somut vakıaya denk düştüğünü yazar, sonra sonuca geçer.
 
-Ratio legis, suç tipleri, elkoyma, müsadere ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: 3 üncü maddenin on sekizinci ve on dokuzuncu fıkraları kapsamında gerçekleştirilen yakalamalarda ise, Cumhurbaşkanınca paket, kilogram ve litre bazında tespit edilecek sabit rakamların memur aylık katsayısı ile çarpımı sonucu bulunacak değerinin; Sahipsiz yakalanan eşyanın değeri, mahallin en büyük mülkî amirinin görevlendireceği Maliye Bakanlığı, Gümrük Müsteşarlığı ve sanayi ve ticaret odası temsilcilerinden oluşan üç kişilik heyet tarafından belirlenir.
+Hükmün ikinci katmanı şu cümlede toplanır: (2) Bir suç dolayısıyla başlatılan soruşturma kapsamında bir kabahatin işlendiğini öğrenmesi halinde Cumhuriyet savcısı durumu ilgili kamu kurum ve kuruluşuna bildirebileceği gibi, kendisi de idarî yaptırım kararı verebilir. Bu katman birinci fıkradaki ana kuralı tamamlar veya sınırlar, ikisini birbirine karıştırmak yanlış hukuki sonuç doğurur.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Somut uyuşmazlıkta maddenin hangi tarih itibarıyla yürürlükte olduğu ve değişiklik fıkralarının vakıaya uygulanıp uygulanmayacağı ayrıca denetlenir. Geçiş hükümleri yok sayılırsa eski lafızla yeni lafız birbirine karışır, karar gerekçesi çöker.
+
+Bu maddeye özgü okuma lafzı başka kanunların kalıp şerhlerine taşımaz. Korunan menfaat Cumhuriyet savcısının karar verme yetkisi başlığının işaret ettiği ilişkidir ve şerh de o ilişki üzerinden yürür.
+
+Uygulama, maddenin emredici çekirdeği ile idareye veya taraflara bırakılan hareket alanını ayırarak ilerler. Çekirdek aşıldığında işlem sakatlanır, hareket alanı içinde kalan tercihler ise gerekçeyle savunulabilir. Somut dosyada bu ayrım yazılmadan verilen sonuç, temyizde lafzı taşımadığı gerekçesiyle döner.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Uygulama alanı
 
-Madde 23, «(1) Kaçak zannı ile eşya yakalanması halinde muhbir ve elkoyma» ekseninde suçlarından ve ceza kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak kaçakçılıkla mücadele içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+Cumhuriyet savcısının karar verme yetkisi bakımından bu dilim şu metne dayanır: Madde 23- (1) Cumhuriyet savcısı, kanunda açıkça hüküm bulunan hallerde bir kabahat dolayısıyla idarî yaptırım kararı vermeye yetkilidir. Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.2. Unsurlar
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 23 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+##### 2.2. Şart ve sonuç bağı
 
-Metinden çıkan somut vurgular: (2) (Değişik:18/10/2018-7148/33 md.) Dağıtılacak ikramiyenin yüzde ellisi muhbirlere, yüzde ellisi elkoyma ikramiyesine hak kazananlara verilir. İhbarsız yakalama olaylarında ikramiyenin tamamı elkoyma ikramiyesine hak kazananlara ödenir.
+Cumhuriyet savcısının karar verme yetkisi bakımından bu dilim şu metne dayanır: (2) Bir suç dolayısıyla başlatılan soruşturma kapsamında bir kabahatin işlendiğini öğrenmesi halinde Cumhuriyet savcısı durumu ilgili kamu kurum ve kuruluşuna bildirebileceği gibi, kendisi de idarî yaptırım kararı verebilir. Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.3. Korunan menfaat
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 23 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Korunan menfaat, bireysel hak sahibi ile elkoyma arasındaki dengede aranır. KMK m. 23, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. davasının kavramı bu dengede anahtar rol oynar.
+##### 2.3. Yetki ve usul
 
-##### 2.4. Sonuç ve yaptırım
+Cumhuriyet savcısının karar verme yetkisi bakımından bu dilim şu metne dayanır: (3) Soruşturma konusu fiilin kabahat oluşturduğunun anlaşılması halinde Cumhuriyet savcısı bu nedenle idarî yaptırım kararı verir. Ancak, bunun için ilgili kamu kurum ve kuruluşu tarafından idarî yaptırım kararı verilmemiş olması gerekir. Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 23 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
 #### 3. Sistematik İlişkiler
 
-- **KMK komşu maddeler:** m. 23 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle (1) Kaçak zannı ile eşya yakalanması halinde muhbir ve elkoyma temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** suç tipleri; elkoyma; müsadere; gümrük.
-- **Yatay mevzuat:** TCK; CMK; Gümrük Kanunu.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**m. 22 — DÖRDÜNCÜ BÖLÜM · Karar Verme Yetkisi ve Kanun Yolları · İdarî yaptırım kararı ve** Kaçakçılıkla Mücadele Kanunu m. 22 (DÖRDÜNCÜ BÖLÜM · Karar Verme Yetkisi ve Kanun Yolları · İdarî yaptırım kararı ve) ile m. 23 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu ilişkiler, m. 23’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+**m. 24 — Mahkemenin karar verme yetkisi** Kaçakçılıkla Mücadele Kanunu m. 24 ile m. 23 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
+**m. 25 — İdarî yaptırım kararı** Kaçakçılıkla Mücadele Kanunu m. 25 (İdarî yaptırım kararı) ile m. 23 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (suçlarından / memur karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
-
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
-
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: Kaçakçılığı önleme, izleme ve soruşturmakla yükümlü olanlara muhbir ikramiyesi ödenmez. Kaçakçılığı 18/10/2018 tarihli ve 7148 sayılı Kanunun 33 üncü maddesiyle bu fıkrada yer alan “elkoyanlara” ibaresi “elkoyma ikramiyesine hak kazananlara” şeklinde değiştirilmiştir.
+Yerel arşivde bu maddeye yapısal atıf yapan tam künyeli karar bulunamadı ve içtihat bölümü bu yüzden boş bırakılır; künye uydurulmaz.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında (1) kaçak zannı ile eşya yakalanması halinde muhbir ve elkoyma ile bağlantılı bir uyuşmazlık çıkar. Davacı, KMK m. 23’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. 3 üncü maddenin on sekizinci ve on dokuzuncu fıkraları kapsamında gerçekleştirilen yakalamalarda ise, Cumhurbaşkanınca paket, kilogram ve litre bazında tespit edilecek sabit rakamların memur aylık katsayısı ile çarpımı sonucu bulunacak değerinin; cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Bir uyuşmazlıkta taraf Cumhuriyet savcısının karar verme yetkisi hükmüne dayanarak talep yöneltti. Karşı taraf maddenin şartlarının oluşmadığını ileri sürdü. Mahkeme resmi lafızdaki unsurları dosyadaki belgelerle tek tek eşlemek zorunda kaldı ve eksik unsur varsa talebi bu maddeye dayandırmadı.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 23 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** İdare veya taraf m. 23 yetkisini acele kullandı ve ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, ceza gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* KMK’nın iyiniyet ve dürüstlük ilkeleri ile m. 23’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Yürürlük tartışmasında eski ve yeni lafız iç içe geçti ve uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. 23 uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; suçlarından ile davasının’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **KMK madde 23**, **KMK m. 23**, **KMK 23** ve **Kaçakçılıkla Mücadele Kanunu madde 23** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Dilekçede Kaçakçılıkla Mücadele Kanunu m. 23 dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.
+
+Belge listesi maddenin şartlarını karşılayan olgulara bağlanmalıdır, genel anlatım yetmez.
+
+Karşı tarafın savunması unsur eksikliğine mi yoksa sonuç tartışmasına mı yöneldiği ayrılmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-KMK m. 23, kaçakçılıkla mücadele içinde (1) Kaçak zannı ile eşya yakalanması halinde muhbir ve elkoyma temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve suç tipleri ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Hükmün lafzı ile uygulamanın pratik ihtiyaçları her somut dosyada ayrıca tartılır. Cumhuriyet savcısının karar verme yetkisi başlığı geniş okunursa madde her uyuşmazlığa çekilir, dar okunursa koruma boşalır.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 23 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Öğreti bu tür hükümlerde lafzın sınırını dosyanın vakıalarıyla test etmeyi önerir ve sayfa ve baskı yılı uydurulmaz.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: Kaçakçılıkla Mücadele Kanunu m. 23 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 23 uygulamasında «(1) Kaçak zannı ile eşya yakalanması halinde muhbir ve elkoyma» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 3 üncü maddenin on sekizinci ve on dokuzuncu fıkraları kapsamında gerçekleştirilen yakalamalarda ise, Cumhurbaşkanınca paket, kilogram ve litre bazında tespit edilecek sabit rakamların memur aylık katsayısı ile çarpımı sonucu bulunacak değerinin;
-
-Öğretide genel kabul gören görüşe göre, KMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Sahipsiz yakalanan eşyanın değeri, mahallin en büyük mülkî amirinin görevlendireceği Maliye Bakanlığı, Gümrük Müsteşarlığı ve sanayi ve ticaret odası temsilcilerinden oluşan üç kişilik heyet tarafından belirlenir.
-
-Uygulayıcı, suç tipleri ile elkoyma arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (2) (Değişik:18/10/2018-7148/33 md.) Dağıtılacak ikramiyenin yüzde ellisi muhbirlere, yüzde ellisi elkoyma ikramiyesine hak kazananlara verilir.
-
-Yatay mevzuat (TCK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İhbarsız yakalama olaylarında ikramiyenin tamamı elkoyma ikramiyesine hak kazananlara ödenir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 23 sonuçlarının fiilen elde edilmesi için belirleyicidir. Kaçakçılığı önleme, izleme ve soruşturmakla yükümlü olanlara muhbir ikramiyesi ödenmez.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Kaçakçılığı 18/10/2018 tarihli ve 7148 sayılı Kanunun 33 üncü maddesiyle bu fıkrada yer alan “elkoyanlara” ibaresi “elkoyma ikramiyesine hak kazananlara” şeklinde değiştirilmiştir.
-
-Sonuç olarak, KMK madde 23 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. 20 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 180 inci maddesiyle bu bentte yer alan “Bakanlar Kurulunca” ibareleri “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-
-Bu bağlamda m. 23 uygulamasında «(1) Kaçak zannı ile eşya yakalanması halinde muhbir ve elkoyma» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 21 28/3/2013 tarihli ve 6455 sayılı Kanunun 61 inci maddesiyle, bu bentte yer alan “ya da mülkiyetinin kamuya geçirilmesine” ibaresi madde metninden çıkarılmıştır.
-
-Öğretide genel kabul gören görüşe göre, KMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (3) Bu maddeye göre ödenecek ikramiyeler, damga vergisi hariç vergi, resim ve harca tâbi tutulmaz.
-
-Uygulayıcı, suç tipleri ile elkoyma arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (4) (Değişik: 28/3/2013-6455/61 md.) Bu madde gereğince elkoyma ikramiyesine hak kazananlara verilecek ikramiyenin tutarı olay başına (30.000) gösterge rakamının, kamu davasının açılması, mahkûmiyet, müsadere kararının kesinleştiği tarihteki memur aylık katsayısı ile çarpımı sonucu bulunacak tutarı geçemez.
-
-Yatay mevzuat (TCK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Ancak bir yılda ödenecek ikramiye (120.000) gösterge rakamının memur aylık katsayısıyla çarpımı sonucu bulunacak tutarı geçemez.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 23 sonuçlarının fiilen elde edilmesi için belirleyicidir. Bu fıkra hükmü bu maddenin altıncı fıkrası kapsamında yapılacak ikramiye ödemeleri hakkında uygulanmaz.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Kaçak akaryakıta ilişkin mahkûmiyet hükmünün veya müsadere kararının kesinleşmesini takip eden üç ay içinde (d) bendine göre belirlenecek tutara göre hesaplanacak toplamın yüzde on beşi tutarında ihbar edene, yüzde on beşi tutarında yakalama eylemine bizzat ve fiilen katılan kamu görevlilerine ilave ikramiye ödenir.
-
-Sonuç olarak, KMK madde 23 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. b) Bir ihbar olmadan kaçak akaryakıtın sahipli yakalanması halinde (d) bendine göre belirlenecek tutara göre hesaplanacak toplamın yüzde onu tutarında elkoyma ikramiyesine hak kazananlara kamu davasının açılmasını takip eden üç ay içinde ikramiye ödenir.
-
-Bu bağlamda m. 23 uygulamasında «(1) Kaçak zannı ile eşya yakalanması halinde muhbir ve elkoyma» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 3 üncü maddenin on sekizinci ve on dokuzuncu fıkraları kapsamında gerçekleştirilen yakalamalarda ise, Cumhurbaşkanınca paket, kilogram ve litre bazında tespit edilecek sabit rakamların memur aylık katsayısı ile çarpımı sonucu bulunacak değerinin;
-
-Öğretide genel kabul gören görüşe göre, KMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Sahipsiz yakalanan eşyanın değeri, mahallin en büyük mülkî amirinin görevlendireceği Maliye Bakanlığı, Gümrük Müsteşarlığı ve sanayi ve ticaret odası temsilcilerinden oluşan üç kişilik heyet tarafından belirlenir.
-
-Uygulayıcı, suç tipleri ile elkoyma arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (2) (Değişik:18/10/2018-7148/33 md.) Dağıtılacak ikramiyenin yüzde ellisi muhbirlere, yüzde ellisi elkoyma ikramiyesine hak kazananlara verilir.
-
-Yatay mevzuat (TCK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İhbarsız yakalama olaylarında ikramiyenin tamamı elkoyma ikramiyesine hak kazananlara ödenir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 23 sonuçlarının fiilen elde edilmesi için belirleyicidir. Kaçakçılığı önleme, izleme ve soruşturmakla yükümlü olanlara muhbir ikramiyesi ödenmez.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Kaçakçılığı 18/10/2018 tarihli ve 7148 sayılı Kanunun 33 üncü maddesiyle bu fıkrada yer alan “elkoyanlara” ibaresi “elkoyma ikramiyesine hak kazananlara” şeklinde değiştirilmiştir.
-
-Sonuç olarak, KMK madde 23 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. 20 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 180 inci maddesiyle bu bentte yer alan “Bakanlar Kurulunca” ibareleri “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-
-Bu bağlamda m. 23 uygulamasında «(1) Kaçak zannı ile eşya yakalanması halinde muhbir ve elkoyma» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 21 28/3/2013 tarihli ve 6455 sayılı Kanunun 61 inci maddesiyle, bu bentte yer alan “ya da mülkiyetinin kamuya geçirilmesine” ibaresi madde metninden çıkarılmıştır.
-
-Öğretide genel kabul gören görüşe göre, KMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (3) Bu maddeye göre ödenecek ikramiyeler, damga vergisi hariç vergi, resim ve harca tâbi tutulmaz.
-
-Uygulayıcı, suç tipleri ile elkoyma arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (4) (Değişik: 28/3/2013-6455/61 md.) Bu madde gereğince elkoyma ikramiyesine hak kazananlara verilecek ikramiyenin tutarı olay başına (30.000) gösterge rakamının, kamu davasının açılması, mahkûmiyet, müsadere kararının kesinleştiği tarihteki memur aylık katsayısı ile çarpımı sonucu bulunacak tutarı geçemez.
-
-Yatay mevzuat (TCK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Ancak bir yılda ödenecek ikramiye (120.000) gösterge rakamının memur aylık katsayısıyla çarpımı sonucu bulunacak tutarı geçemez.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 23 sonuçlarının fiilen elde edilmesi için belirleyicidir. Bu fıkra hükmü bu maddenin altıncı fıkrası kapsamında yapılacak ikramiye ödemeleri hakkında uygulanmaz.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Kaçak akaryakıta ilişkin mahkûmiyet hükmünün veya müsadere kararının kesinleşmesini takip eden üç ay içinde (d) bendine göre belirlenecek tutara göre hesaplanacak toplamın yüzde on beşi tutarında ihbar edene, yüzde on beşi tutarında yakalama eylemine bizzat ve fiilen katılan kamu görevlilerine ilave ikramiye ödenir.
-
-Sonuç olarak, KMK madde 23 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. b) Bir ihbar olmadan kaçak akaryakıtın sahipli yakalanması halinde (d) bendine göre belirlenecek tutara göre hesaplanacak toplamın yüzde onu tutarında elkoyma ikramiyesine hak kazananlara kamu davasının açılmasını takip eden üç ay içinde ikramiye ödenir.
-
-Bu bağlamda m. 23 uygulamasında «(1) Kaçak zannı ile eşya yakalanması halinde muhbir ve elkoyma» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 3 üncü maddenin on sekizinci ve on dokuzuncu fıkraları kapsamında gerçekleştirilen yakalamalarda ise, Cumhurbaşkanınca paket, kilogram ve litre bazında tespit edilecek sabit rakamların memur aylık katsayısı ile çarpımı sonucu bulunacak değerinin;
-
-Öğretide genel kabul gören görüşe göre, KMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Sahipsiz yakalanan eşyanın değeri, mahallin en büyük mülkî amirinin görevlendireceği Maliye Bakanlığı, Gümrük Müsteşarlığı ve sanayi ve ticaret odası temsilcilerinden oluşan üç kişilik heyet tarafından belirlenir.
-
-Uygulayıcı, suç tipleri ile elkoyma arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (2) (Değişik:18/10/2018-7148/33 md.) Dağıtılacak ikramiyenin yüzde ellisi muhbirlere, yüzde ellisi elkoyma ikramiyesine hak kazananlara verilir.
-
-Yatay mevzuat (TCK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İhbarsız yakalama olaylarında ikramiyenin tamamı elkoyma ikramiyesine hak kazananlara ödenir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 23 sonuçlarının fiilen elde edilmesi için belirleyicidir. Kaçakçılığı önleme, izleme ve soruşturmakla yükümlü olanlara muhbir ikramiyesi ödenmez.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Kaçakçılığı 18/10/2018 tarihli ve 7148 sayılı Kanunun 33 üncü maddesiyle bu fıkrada yer alan “elkoyanlara” ibaresi “elkoyma ikramiyesine hak kazananlara” şeklinde değiştirilmiştir.
-
-Sonuç olarak, KMK madde 23 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. 20 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 180 inci maddesiyle bu bentte yer alan “Bakanlar Kurulunca” ibareleri “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-
-Bu bağlamda m. 23 uygulamasında «(1) Kaçak zannı ile eşya yakalanması halinde muhbir ve elkoyma» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 21 28/3/2013 tarihli ve 6455 sayılı Kanunun 61 inci maddesiyle, bu bentte yer alan “ya da mülkiyetinin kamuya geçirilmesine” ibaresi madde metninden çıkarılmıştır.
-
-Öğretide genel kabul gören görüşe göre, KMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (3) Bu maddeye göre ödenecek ikramiyeler, damga vergisi hariç vergi, resim ve harca tâbi tutulmaz.
-
-Uygulayıcı, suç tipleri ile elkoyma arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (4) (Değişik: 28/3/2013-6455/61 md.) Bu madde gereğince elkoyma ikramiyesine hak kazananlara verilecek ikramiyenin tutarı olay başına (30.000) gösterge rakamının, kamu davasının açılması, mahkûmiyet, müsadere kararının kesinleştiği tarihteki memur aylık katsayısı ile çarpımı sonucu bulunacak tutarı geçemez.
-
-Yatay mevzuat (TCK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Ancak bir yılda ödenecek ikramiye (120.000) gösterge rakamının memur aylık katsayısıyla çarpımı sonucu bulunacak tutarı geçemez.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 23 sonuçlarının fiilen elde edilmesi için belirleyicidir. Bu fıkra hükmü bu maddenin altıncı fıkrası kapsamında yapılacak ikramiye ödemeleri hakkında uygulanmaz.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Kaçak akaryakıta ilişkin mahkûmiyet hükmünün veya müsadere kararının kesinleşmesini takip eden üç ay içinde (d) bendine göre belirlenecek tutara göre hesaplanacak toplamın yüzde on beşi tutarında ihbar edene, yüzde on beşi tutarında yakalama eylemine bizzat ve fiilen katılan kamu görevlilerine ilave ikramiye ödenir.
-
-Sonuç olarak, KMK madde 23 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. b) Bir ihbar olmadan kaçak akaryakıtın sahipli yakalanması halinde (d) bendine göre belirlenecek tutara göre hesaplanacak toplamın yüzde onu tutarında elkoyma ikramiyesine hak kazananlara kamu davasının açılmasını takip eden üç ay içinde ikramiye ödenir.
-
-Bu bağlamda m. 23 uygulamasında «(1) Kaçak zannı ile eşya yakalanması halinde muhbir ve elkoyma» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 3 üncü maddenin on sekizinci ve on dokuzuncu fıkraları kapsamında gerçekleştirilen yakalamalarda ise, Cumhurbaşkanınca paket, kilogram ve litre bazında tespit edilecek sabit rakamların memur aylık katsayısı ile çarpımı sonucu bulunacak değerinin;
-
-Öğretide genel kabul gören görüşe göre, KMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Sahipsiz yakalanan eşyanın değeri, mahallin en büyük mülkî amirinin görevlendireceği Maliye Bakanlığı, Gümrük Müsteşarlığı ve sanayi ve ticaret odası temsilcilerinden oluşan üç kişilik heyet tarafından belirlenir.
-
-Uygulayıcı, suç tipleri ile elkoyma arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (2) (Değişik:18/10/2018-7148/33 md.) Dağıtılacak ikramiyenin yüzde ellisi muhbirlere, yüzde ellisi elkoyma ikramiyesine hak kazananlara verilir.
-
-Yatay mevzuat (TCK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İhbarsız yakalama olaylarında ikramiyenin tamamı elkoyma ikramiyesine hak kazananlara ödenir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 23 sonuçlarının fiilen elde edilmesi için belirleyicidir. Kaçakçılığı önleme, izleme ve soruşturmakla yükümlü olanlara muhbir ikramiyesi ödenmez.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Kaçakçılığı 18/10/2018 tarihli ve 7148 sayılı Kanunun 33 üncü maddesiyle bu fıkrada yer alan “elkoyanlara” ibaresi “elkoyma ikramiyesine hak kazananlara” şeklinde değiştirilmiştir.
-
-Sonuç olarak, KMK madde 23 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. 20 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 180 inci maddesiyle bu bentte yer alan “Bakanlar Kurulunca” ibareleri “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-
-Bu bağlamda m. 23 uygulamasında «(1) Kaçak zannı ile eşya yakalanması halinde muhbir ve elkoyma» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 21 28/3/2013 tarihli ve 6455 sayılı Kanunun 61 inci maddesiyle, bu bentte yer alan “ya da mülkiyetinin kamuya geçirilmesine” ibaresi madde metninden çıkarılmıştır.
-
-Öğretide genel kabul gören görüşe göre, KMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (3) Bu maddeye göre ödenecek ikramiyeler, damga vergisi hariç vergi, resim ve harca tâbi tutulmaz.
-
-Uygulayıcı, suç tipleri ile elkoyma arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (4) (Değişik: 28/3/2013-6455/61 md.) Bu madde gereğince elkoyma ikramiyesine hak kazananlara verilecek ikramiyenin tutarı olay başına (30.000) gösterge rakamının, kamu davasının açılması, mahkûmiyet, müsadere kararının kesinleştiği tarihteki memur aylık katsayısı ile çarpımı sonucu bulunacak tutarı geçemez.
-
-Yatay mevzuat (TCK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Ancak bir yılda ödenecek ikramiye (120.000) gösterge rakamının memur aylık katsayısıyla çarpımı sonucu bulunacak tutarı geçemez.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 23 sonuçlarının fiilen elde edilmesi için belirleyicidir. Bu fıkra hükmü bu maddenin altıncı fıkrası kapsamında yapılacak ikramiye ödemeleri hakkında uygulanmaz.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Kaçak akaryakıta ilişkin mahkûmiyet hükmünün veya müsadere kararının kesinleşmesini takip eden üç ay içinde (d) bendine göre belirlenecek tutara göre hesaplanacak toplamın yüzde on beşi tutarında ihbar edene, yüzde on beşi tutarında yakalama eylemine bizzat ve fiilen katılan kamu görevlilerine ilave ikramiye ödenir.
-
-Sonuç olarak, KMK madde 23 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. b) Bir ihbar olmadan kaçak akaryakıtın sahipli yakalanması halinde (d) bendine göre belirlenecek tutara göre hesaplanacak toplamın yüzde onu tutarında elkoyma ikramiyesine hak kazananlara kamu davasının açılmasını takip eden üç ay içinde ikramiye ödenir.
-
-Bu bağlamda m. 23 uygulamasında «(1) Kaçak zannı ile eşya yakalanması halinde muhbir ve elkoyma» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 3 üncü maddenin on sekizinci ve on dokuzuncu fıkraları kapsamında gerçekleştirilen yakalamalarda ise, Cumhurbaşkanınca paket, kilogram ve litre bazında tespit edilecek sabit rakamların memur aylık katsayısı ile çarpımı sonucu bulunacak değerinin;
-
-Öğretide genel kabul gören görüşe göre, KMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Sahipsiz yakalanan eşyanın değeri, mahallin en büyük mülkî amirinin görevlendireceği Maliye Bakanlığı, Gümrük Müsteşarlığı ve sanayi ve ticaret odası temsilcilerinden oluşan üç kişilik heyet tarafından belirlenir.
-
-Uygulayıcı, suç tipleri ile elkoyma arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (2) (Değişik:18/10/2018-7148/33 md.) Dağıtılacak ikramiyenin yüzde ellisi muhbirlere, yüzde ellisi elkoyma ikramiyesine hak kazananlara verilir.
+Bu yorum maddenin resmi metni ve yerel karar arşivi esas alınarak hazırlanmıştır. Künyeler arşivden birebir alınır, uydurulmaz ve örnek olaylar kurmacadır.

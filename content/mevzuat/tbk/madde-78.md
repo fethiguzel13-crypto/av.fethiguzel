@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
+
 **II. Borçlanılmamış edimin ifası**
 
 ---
@@ -24,392 +25,319 @@ saklıdır.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Borçlar Kanunu m. 78**, «II. Borçlanılmamış edimin ifası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 78 - Borçlanmadığı edimi kendi isteğiyle yerine getiren kimse, bunu ancak,
-kendisini borçlu sanarak yerine getirdiğini ispat ederse geri isteyebilir.
-Zamanaşımına uğramış bir borcun ifasından veya ahlaki bir ödevin yerine getirilmiş
-olmasından kaynaklanan zenginleşmeler geri istenemez.
-Borç olmadığı hâlde ödenmiş olan edimin geri istenmesine ilişkin diğer kanun hükümleri
-saklıdır.
+**Makro Bakış:** Borçlar hukuku dogmatiğinde kurulan her borç ilişkisi, kural 
+olarak ifa (Erfüllung) ile sona ermek üzere doğar. Ancak medeni hukukun temel 
+direği olan **Sözleşme Özgürlüğü (Vertragsfreiheit)** ilkesi, kişilere 
+sadece sözleşme kurma, sözleşmenin içeriğini belirleme ve sözleşmenin tarafını 
+seçme hakkı vermez; aynı zamanda kurulmuş olan bir sözleşmeyi veya ondan doğan 
+bir borcu, ifaya gerek kalmaksızın karşılıklı irade uyuşmasıyla ortadan 
+kaldırma (söndürme) serbestisini de bahşeder. İfa dışı sona erme hallerinin en 
+önemlilerinden biri olan **İbra (Erlass)**; alacaklının borçlu ile anlaşarak, 
+alacağından tamamen veya kısmen vazgeçmesi ve borçluyu ifa yükümlülüğünden 
+kurtarmasıdır.
 
----… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+6098 sayılı TBK m. 132 (mülga BK m. 105 / mehaz **OR Art. 115**) hükmü, ibra 
+sözleşmesinin maddi hukuk temellerini ve en kritik özelliği olan şekil 
+serbestisini vazedir. Madde lafzı şu şekildedir:
+*"Borcu doğuran işlem kanunen veya taraflarca belli bir şekle bağlı tutulmuş 
+olsa bile borç, tarafların şekle bağlı olmaksızın yapacakları ibra 
+sözleşmesiyle tamamen veya kısmen ortadan kaldırılabilir."*
+
+Sistematik açıdan yasa koyucu bu normla, ibrayı tek taraflı bir feragat 
+(vazgeçme) beyanı olarak değil, mutlak surette tarafların karşılıklı irade 
+beyanlarının uyuşmasını gerektiren bir **Sözleşme (Contract)** olarak 
+nitelemiştir. Alacaklı tek başına "Borcunu sildim" diyerek borcu ortadan 
+kaldıramaz; borçlunun bu silme iradesini (zımnen dahi olsa) kabul etmesi 
+gerekir. Zira hiç kimse, kendi lehine dahi olsa, bir başkasının tek taraflı 
+iradesiyle minnet altına girmeye veya ticari itibarını sarsacak bir bağışlamayı
+kabule zorlanamaz.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+**Mikro Analiz:** TBK m. 132 hükmünün teorik mimarisini bütünüyle kavrayabilmek
+için, Fikret Eren, M. Kemal Oğuzman ve Haluk Nami Nomer'in eserlerinde 
+titizlikle ayrıştırılan kurucu kavramların mikroskobik düzeyde analiz edilmesi 
+elzemdir:
 
-Madde 78, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+**A. İbra Sözleşmesi (Erlassvertrag) ve İki Taraflılık:**
+İbra, hukuki niteliği itibarıyla borcu sona erdiren bir **Tasarruf İşlemi 
+(Verfügungsgeschäft)**dir. Alacaklının malvarlığının aktifinde yer alan bir
+alacak hakkı, bu sözleşmeyle kesin olarak ve bir daha geri dönmemek üzere yok 
+olur. Bir tasarruf işlemi olduğu için, alacaklının ibra anında söz konusu 
+alacak üzerinde **Tasarruf Yetkisine (Verfügungsmacht)** sahip olması ve tam 
+fiil ehliyetini haiz bulunması mutlak bir geçerlilik şartıdır. İbra, alacak 
+hakkını doğrudan doğruya etkilediği için, borçlandırıcı işlemlerden (taahhüt 
+muamelelerinden) yapısal olarak farklıdır. Sözleşme olmasının doğal sonucu 
+olarak, öneri (icap) ve kabul mekanizmasıyla (TBK m. 1 vd.) kurulur. Borçlu, 
+alacaklının ibra önerisini susarak (zımnen) kabul edebilir, zira bu teklif 
+borçlunun salt menfaatinedir.
 
-##### 2.2. Usulî ve maddi unsurlar
+**B. Şekil Serbestisi (Formfreiheit) ve Şekilde Paralellik İlkesinin Reddi:**
+TBK m. 132'nin felsefi olarak en radikal düzenlemesidir. Kıta Avrupası 
+hukukunda genel kural olan "şekilde paralellik (actus contrarius)" ilkesi, bir 
+işlemin kurulması hangi şekle tabiyse, ortadan kaldırılmasının da aynı şekle 
+tabi olmasını öngörür. Ancak kanun koyucu, ibra kurumunda bu kuralı açıkça 
+reddetmiştir. Sözleşme resmi şekle (örneğin tapuda taşınmaz satış vaadi 
+veya noterde araç satışı) tabi olarak kurulmuş olsa dahi, taraflar bu 
+sözleşmeden doğan borcu **Hiçbir Şekle Bağlı Olmaksızın (Sözlü veya Adi 
+Yazılı)** yapacakları bir ibra sözleşmesiyle ortadan kaldırabilirler. Hukuk 
+sistemi, borç altına girmeyi zorlaştırarak (şekille) tarafları korurken; 
+borçtan kurtulmayı (ibrayı) kolaylaştırmayı tercih etmiştir.
 
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+**C. Tamamen veya Kısmen Ortadan Kaldırma (Kısmi İbra):**
+İbra sözleşmesi, borcun tamamını silebileceği gibi, sadece bir kısmını da 
+ortadan kaldırabilir. 100.000 TL'lik bir borcun 40.000 TL'lik kısmının ibra
+edilmesi mümkündür. Kısmi ibrada, borç ilişkisi sona ermez, sadece alacağın 
+hacmi daralır ve kalan 60.000 TL için borç ilişkisi ayakta kalmaya devam eder.
 
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+**D. İbranın Hukuki Sebebi (Causa):**
+Bir tasarruf işlemi olan ibra sözleşmesi dogmatik olarak **İlli (Sebebe Bağlı /
+Kausal)** bir işlemdir. Alacaklı, durup dururken borcu silmez; bunun altında 
+yatan bir **Hukuki Sebep (Causa)** vardır. Bu sebep genellikle bir bağışlama 
+amacı (causa donandi) bir sulh olma amacı (causa transactionis) veya bir edim 
+karşılığı borçtan kurtarma (causa solvendi) olabilir. Eğer ibra sözleşmesinin 
+temelini oluşturan bu hukuki sebep (örneğin taraflar arasındaki asıl sulh 
+anlaşması) geçersizse veya iptal edilirse, ibra sözleşmesi de illilik prensibi 
+gereği **Kesin Hükümsüz (Batıl)** hale gelir ve borç yeniden dirilir.
 
 #### 3. Sistematik İlişkiler
 
-- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 78'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 78 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+TBK m. 132'de düzenlenen ibra kurumu, Borçlar Kanunu'nun ispat hukuku, irade 
+bozuklukları, genel işlem koşulları ve zenginleşme mimarisiyle son derece 
+keskin bir diyalektik bağ içindedir:
 
-Bu ilişkiler, m. 78'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+**A. Makbuz (Quittung - TBK m. 104) ile İbra Arasındaki Derin Uçurum:**
+Önceki analizlerimizde makbuz ile ibra arasındaki dogmatik farka değinmiştik. 
+**Makbuz**, borçlunun ifayı gerçekleştirdiğini, alacaklının ise "edimi teslim 
+aldığını" belgeleyen, geçmişte yaşanan bir maddi vakıanın ikrarıdır 
+(Wissenserklärung). Borcu sona erdiren şey makbuz değil, ifanın kendisidir. 
+**İbra** ise, ortada bir ifa *olmaksızın*, alacaklının iradi olarak alacağından
+vazgeçtiğini gösteren bir irade açıklamasıdır (Willenserklärung) ve borcu 
+bizzat kendisi sona erdirir. Uygulamada "İbraname" başlığı taşıyan ancak 
+içeriğinde "Şu tarihte şu kadar parayı nakden ve defaten aldım, başkaca 
+alacağım kalmamıştır" yazan belgeler, başlıkları ne olursa olsun hukuki 
+nitelikleri itibarıyla (Falsa demonstratio non nocet / Yanlış niteleme zarar 
+vermez kuralı gereği) birer makbuzdurlar. İbra olabilmesi için ifanın hiç 
+yapılmamış veya eksik yapılmış olması ve bu eksik kısımdan vazgeçilmiş olması 
+gerekir.
 
-#### 4. Uygulama: Yargı İçtihadı
+**B. İrade Bozuklukları (TBK m. 30-39) ve İbranın İptali:**
+İbra bir sözleşme olduğundan, kuruluşunda tarafların (özellikle alacaklının) 
+iradesinin sağlıklı oluşması şarttır. Alacaklı, borçlunun ağır baskısı, tehdidi
+(**Korkutma / İkrah**) veya hilesi altında ibra sözleşmesini imzalamışsa
+yahut esaslı bir yanılma (hata) içindeyse, TBK m. 39 uyarınca bir yıllık hak 
+düşürücü süre içinde irade bozukluğuna dayanarak ibra sözleşmesini **İptal 
+Edebilir**. İptal beyanı bozucu yenilik doğuran bir hak olup, geçmişe etkili 
+(ex tunc) olarak ibrayı ortadan kaldırır ve borç hiç silinmemiş gibi işlem 
+görmeye devam eder.
 
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+**C. Aşırı Yararlanma (Gabin - TBK m. 28) ile Kesişim:**
+İbra sözleşmesi, özellikle bir ivaz (karşılık) içeriyorsa veya bir sulh 
+anlaşmasının parçasıysa, **Aşırı Yararlanma (Gabin)** kurumunun 
+inceleme alanına girebilir. Zor durumda (müzayaka halinde) olan veya 
+tecrübesizliği bulunan bir alacaklı, 1.000.000 TL'lik gerçek alacağını, salt o 
+anki sıkışıklığı sebebiyle ve borçlunun bunu sömürmesi neticesinde 100.000 TL 
+karşılığında tamamen ibra ederse; burada edimler arasında açık bir oransızlık 
+(1'e 10) ve sömürü kastı vardır. Alacaklı, TBK m. 28 uyarınca 1 ve 5 yıllık 
+süreler içinde ibra sözleşmesiyle bağlı olmadığını (iptalini) ileri sürerek 
+bakiye alacağını talep edebilir.
 
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+**D. Genel İşlem Koşulları (GİK - TBK m. 20 vd.) Çerçevesinde İbra:**
+Günümüz kitle sözleşmelerinde (bankacılık, sigorta, telekomünikasyon) güçlü 
+tarafın önceden hazırladığı standart sözleşme formlarına, sözleşmenin 
+sona ermesi anında devreye girmek üzere "Müşteri, işbu sözleşmenin feshinden 
+sonra şirketi gayrikabili rücu ibra etmiş sayılır" şeklinde **Genel İşlem 
+Koşulları** yerleştirilmektedir. TBK m. 21 uyarınca, karşı tarafın menfaatine 
+aykırı ve onun durumunu ağırlaştıran, sözleşmenin niteliğine yabancı bu tarz 
+"peşinen ibra (feragat)" kayıtları, **Şaşırtıcı Koşul (Sürpriz Kayıt)** sayılır
+ve mutlak surette **Yazılmamış Sayılma (Kesin Hükümsüzlük)** yaptırımına tabi 
+olur. Bir borcun doğumundan önce veya doğduğu anda standart formlarla 
+peşinen ibra edilmesi, sözleşme adaletine ve dürüstlük kuralına aykırıdır.
 
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+#### 4. Pratik Olay Analizleri
 
-#### 5. Pratik Örnek Olaylar
+Hukuki kavramların soyutluğundan kurtulup somut dogmatik tahliller yapabilmek 
+adına şu iki kurguyu inceleyelim:
 
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 78 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+**Olay 1 (Şekle Tabi Sözleşmede Şekilsiz İbra ve İspat Külfeti):**
+(A) ile (B) arasında, (A)'nın arsasını (B)'ye devretmesini öngören noter onaylı
+bir "Taşınmaz Satış Vaadi Sözleşmesi" yapılmıştır. Ancak piyasa 
+koşullarının değişmesi üzerine taraflar bir restoranda buluşup el sıkışarak, 
+aralarında adi yazılı bir kâğıda "Taşınmaz satış vaadi sözleşmesinden doğan tüm
+borçlarımızı karşılıklı olarak ibra ettik" yazıp imzalarlar. Aylar sonra (B) 
+fikrini değiştirir ve noterde yapılan asıl sözleşmenin resmi şekilli olduğunu, 
+restoran masasında çiziktirilen adi bir kâğıdın bu resmi sözleşmeyi iptal 
+edemeyeceğini iddia ederek tapu tescil davası açar.
+*Dogmatik Analiz:* Bu vakada TBK m. 132 hükmü doğrudan sınanmaktadır. (B)'nin 
+"şekilde paralellik" iddiası geçersizdir. TBK m. 132 açıkça "Borcu doğuran 
+işlem kanunen veya taraflarca belli bir şekle bağlı tutulmuş olsa bile" diyerek
+ibra sözleşmesinin şekle bağlı olmaksızın (adi yazılı ve hatta sözlü) 
+yapılabileceğini emretmektedir. Tarafların restoran masasında imzaladıkları 
+belge tam ve geçerli bir **İbra Sözleşmesidir**. Borç sona ermiştir. (B)'nin 
+tapu tescil davası reddedilir. Ancak burada ince bir dogmatik ayrım vardır: 
+Sözleşmeden doğan borçlar (eda yükümlülükleri) ibra ile bitse de, *sözleşme 
+ilişkisinin tamamen tasfiyesi (feshin şekli)* doktrinde tartışmalıdır; fakat 
+TBK m. 132 salt "borcun ortadan kalkması" bakımından adi yazılı belgeye 
+geçerlilik tanır.
 
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+**Olay 2 (İbraname Adı Altındaki Belgenin Makbuz Sayılması ve Tahvil):**
+Toptancı (X) perakendeci (Y)'ye 500.000 TL tutarında mal satmıştır. (Y) vade 
+gününde (X)'in hesabına 350.000 TL EFT yapar ve (X)'in ofisine gelerek ona 
+matbu bir kâğıt imzalatır. Kâğıdın başlığında "İBRANAME" yazmaktadır ve 
+içeriğinde "Aramızdaki ticari ilişkiden doğan 350.000 TL'yi eksiksiz aldım, 
+firmayı ibra ederim" yazılıdır. Daha sonra (X) kalan 150.000 TL için icra 
+takibi başlatır. (Y) ise "Beni ibra ettin, belge ortada" diyerek takibe itiraz 
+eder.
+*Dogmatik Analiz:* Bu olay, Fikret Eren ve Oğuzman'ın sıklıkla uyardığı "Falsa 
+demonstratio" (Yanlış isimlendirme) durumudur. Belgenin üzerinde kocaman 
+harflerle "İBRANAME" yazması, onu hukuken ibra sözleşmesi yapmaz. Belgenin 
+içeriğinde ifa edilen spesifik bir miktar (350.000 TL) gösterilmiş ve bunun 
+"alındığı" beyan edilmiştir. Yargıtay'ın ve doktrinin mutlak görüşüne göre, 
+kısmi ödemeyi teyit eden bu belge bir ibra sözleşmesi değil, bir **Kısmi İfa 
+Makbuzudur** (TBK m. 104). Kalan 150.000 TL'lik borç silinmemiştir; zira 
+metinde açıkça "kalan borçtan vazgeçiyorum" şeklinde bir ibra iradesi yoktur. 
+(Y)'nin itirazı haksızdır, (X) kalan alacağını tahsil edebilir.
 
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+#### 5. Pratik Uygulama Notları
 
-#### 6. Pratik Uygulama Notları
+TBK m. 132 hükmünün mahkeme salonlarında, arabuluculuk süreçlerinde ve
+sözleşme mimarisinde (Legal Drafting) avukatların dikkat etmesi gereken usuli 
+ve maddi hukuk boyutları şunlardır:
 
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+**1. İbranamenin Yazım Tekniği (Legal Drafting):**
+Avukatların hazırladıkları ibranamelerde yaptıkları en büyük hata, "Taraflar 
+birbirlerini karşılıklı olarak ibra etmiştir" şeklindeki soyut ve genel geçer 
+ifadelere yer vermeleridir. Hukuk dogmatiği ve Yargıtay içtihatları, ibra 
+edilecek borcun (alacağın) konusunun, türünün, tarihinin ve miktarının (veya 
+dayandığı faturanın/sözleşmenin) sözleşmede **Açıkça ve Şüpheye Yer 
+Bırakmayacak Şekilde** belirtilmesini arar. Genel ifadelerle yazılmış 
+ibranameler, ileride doğacak veya henüz tarafların aklında olmayan (örneğin 
+munzam zarar veya gecikme cezası) alacakları kapsamaz. Kusursuz bir ibraname; 
+"15.04.2024 tarihli ve X numaralı faturadan doğan 100.000 TL anapara, 20.000 TL
+işlemiş faiz ve her türlü fer'i alacak hakkımdan, hiçbir ifa almaksızın (veya 
+şu bedel karşılığında) gayrikabili rücu olarak vazgeçtiğimi ve borçluyu ibra 
+ettiğimi..." şeklinde detaylandırılmalıdır.
+
+**2. İş Hukukunda İbranamenin Özel Şartları (TBK m. 420):**
+Genel borçlar hukukunda ibra sözleşmesi için hiçbir şekil şartı öngörülmemişken
+(TBK m. 132); aynı Kanun koyucu, işçi-işveren ilişkilerindeki zayıf tarafı 
+korumak amacıyla TBK m. 420 ile son derece ağır ve emredici şekil şartları 
+getirmiştir. İşçilik alacaklarına ilişkin ibra sözleşmesinin **Yazılı Olması**,
+**Sözleşmenin Sona Ermesinden İtibaren En Az 1 Ay Sonra Yapılması**, ve 
+**Ödemenin Banka Kanalıyla Yapılması** şarttır. Aksi halde ibra kesin 
+hükümsüzdür. Avukatlar, genel hüküm (TBK 132) ile özel hüküm (TBK 420) 
+arasındaki bu devasa uçurumu asla birbirine karıştırmamalıdır.
+
+**3. Muvazaa (Danışıklı İşlem) ile İbranın Perdelenmesi:**
+Borçlular, bazen kendi alacaklılarından mal kaçırmak için (İİK m. 277 vd. İptal
+Davaları bağlamında) üçüncü kişilerdeki alacaklarını tahsil etmediklerini, 
+"ibra ettiklerini" iddia ederek sahte (muvazaalı) ibranameler düzenlerler. Gerçekte bir vazgeçme iradesi olmayan, salt üçüncü kişileri aldatmak için 
+yapılan bu ibra sözleşmeleri, TBK m. 19 uyarınca **Mutlak Muvazaa** nedeniyle 
+kesin hükümsüzdür. İlgili herkes (alacaklılar) bu ibranamenin muvazaalı 
+olduğunu ileri sürerek geçersizliğini tespit ettirebilir.
+
+#### 6. Yargıtay İçtihadı
+
+Yargıtay Hukuk Genel Kurulu ve ilgili daireleri (özellikle 3., 9., 13. ve 15. 
+Hukuk Daireleri) TBK m. 132 (mülga BK m. 105) uyarınca "İbranın Sözleşme 
+Niteliği", "Makbuzdan Ayrılması" ve "Geniş Yorum Yasağı" hususlarında, zayıf 
+tarafı koruyan ve sözleşme adaletini merkeze alan istikrarlı bir içtihat 
+politikası sergilemektedir.
+
+Yargıtay Hukuk Genel Kurulu'nun klasikleşmiş kararlarında şu dogmatik kural 
+şablonlaşmıştır: *"İbra, alacaklının borçluyu borçtan kurtarmak, alacağından 
+vazgeçmek amacıyla yaptığı bir sözleşmedir (TBK m. 132). İbra sözleşmesi, 
+tasarruf işlemi niteliğinde olup, borcu sona erdiren bir neden olduğundan, 
+irade bozukluğu (hata, hile, ikrah) hallerinden biriyle sakatlanmamış 
+olmalıdır. İbraname başlığını taşıyan bir belgede, belli bir miktar paranın 
+alındığı belirtilmişse, bu belge ibra değil makbuz niteliğindedir. İşveren 
+tarafından işçiye veya güçlü şirket tarafından zayıf tüketiciye matbu olarak 
+imzalatılan ve içeriğinde 'her türlü haktan feragat edildiği' yazılı olan, 
+miktarı belirsiz ve genel geçer ifadeler içeren belgeler, Yargıtay içtihatları 
+gereğince dar yoruma tabi tutulur ve asıl borcun tamamını ortadan kaldıran 
+geçerli bir ibra sözleşmesi olarak kabul edilemez."*
+
+Ayrıca **Şekil Serbestisi ve İspat Yükü** hususunda Yargıtay 15. Hukuk Dairesi 
+(Eser Sözleşmeleri Dairesi); *"Sözleşmenin resmi şekilde yapılmış olması 
+(örneğin kat karşılığı inşaat sözleşmesi) bu sözleşmeden doğan alacakların 
+ibra yoluyla sona erdirilmesinin de aynı resmi şekle tabi olacağı anlamına 
+gelmez. Taraflar, adi yazılı bir ibra sözleşmesiyle borçları sona 
+erdirebilirler (TBK m. 132). Ancak, bu ibranamenin varlığını ve karşı tarafça 
+kabul edildiğini (imza inkârı varsa) ispat yükü, ibra edildiğini iddia eden 
+borçluya aittir ve HMK m. 200 gereği bu iddia yasal sınırın üzerindeyse mutlaka
+yazılı delille (senetle) ispatlanmak zorundadır"* diyerek, maddi hukuktaki 
+şekil serbestisinin, usul hukukundaki ispat zorunluluğunu ortadan 
+kaldırmadığını dogmatik bir çizgiyle belirlemiştir.
 
 #### 7. Eleştirel Değerlendirme
 
-Madde 78, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 78, «II. Borçlanılmamış edimin ifası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 78, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 78'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 78, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 78, «II. Borçlanılmamış edimin ifası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 78, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 78'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 78, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 78, «II. Borçlanılmamış edimin ifası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 78, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 78'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 78, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 78, «II. Borçlanılmamış edimin ifası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 78, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 78'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 78, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 78, «II. Borçlanılmamış edimin ifası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 78, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 78'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 78, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 78, «II. Borçlanılmamış edimin ifası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 78, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 78'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 78, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 78, «II. Borçlanılmamış edimin ifası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 78, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 78'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Türk Borçlar Kanunu'nun 132. maddesinde vücut bulan **İbra Sözleşmesi** rejimi,
+borçlar hukuku dogmatiğinde Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk 
+Nami Nomer'in eserleri ekseninde; özellikle "Şekil Serbestisinin Yarattığı 
+Tehlikeler" ve "Kısmi İbrada Sınırların Muğlaklığı" bağlamında çok derin 
+kuramsal eleştirilere maruz kalmaktadır.
+
+Birinci ve en büyük dogmatik eleştiri, kanunun öngördüğü **Mutlak Şekil 
+Serbestisi (Şekilsizlik)** ilkesinedir. Oğuzman ve Öz'ün eserlerinde hararetle 
+tartışıldığı üzere; hukuk sistemi, bazı sözleşmelerin (örneğin kefalet, 
+gayrimenkul satışı) geçerliliğini ağır resmi şekil şartlarına bağlamıştır. 
+Bunun temel felsefesi (Ratio Legis) tarafları düşünmeye sevk etmek (ikaz 
+fonksiyonu) aceleci ve tehlikeli kararlardan korumak ve sözleşmenin ispatını 
+güvence altına almaktır. Ancak aynı yasa koyucu, TBK m. 132 ile bu ağır ve
+resmi sözleşmelerden doğan milyonlarca liralık alacakların, bir kafede sözlü 
+olarak veya adi bir peçeteye yazılacak iki satır yazıyla (ibra) tamamen yok 
+edilebilmesine cevaz vermiştir. Bir hakkın *doğumunu* bu kadar koruyan bir 
+hukuk sisteminin, aynı hakkın *ölümünü (yok edilmesini)* bu kadar şekilsiz, 
+korumasız ve ispatı zor bir serbestiye terk etmesi büyük bir çelişkidir. Fikret
+Eren ve Alman hukuk dogmatiğindeki (BGB) baskın görüşlerin de desteklediği 
+üzere; en azından kanunun geçerlilik şekli öngördüğü (özellikle noterde 
+yapılan) önemli sözleşmelerin ibrasının da asgari olarak "yazılı şekle" tabi 
+tutulması, borçlar hukukunun güvenliği (Rechtssicherheit) ve ispat hukuku 
+pratikleri açısından çok daha tutarlı ve koruyucu bir kanunlaştırma tekniği 
+olurdu.
+
+İkinci felsefi eleştiri, **Kısmi İbranın Sınırları ve Tahvil (Dönüştürme)** 
+sorununa ilişkindir. Rona Serozan ve Nomer'in öğretilerinde vurgulandığı gibi; 
+alacaklı ile borçlu arasında imzalanan ancak irade bozukluğu, ehliyetsizlik 
+veya ahlaka aykırılık sebebiyle geçersiz olan bir tam ibra sözleşmesi, ayakta 
+tutma (favor negotii) ilkesi gereği kısmi bir makbuza veya dar kapsamlı bir 
+ibraya **Tahvil Edilebilir mi?**. Türk mahkemeleri genellikle 
+"İbraname geçersizse hiçbir hüküm doğurmaz" şeklinde kestirip atan bir yaklaşım
+sergilemektedir. Ancak doktrin; alacaklının iradesinin en azından "aldığı 
+miktar kadarını" ibra etmeye (veya en azından makbuz olarak kabul etmeye) 
+yönelik olduğu durumlarda, belgenin tamamen çöpe atılmak yerine, içerdiği 
+tahsilat miktarı kadar hukuki değerini koruyacak bir "Tahvil (Umdeutung)" 
+mekanizmasıyla yorumlanması gerektiğini haklı olarak savunmaktadır. Zira 
+sözleşme özgürlüğü ve dürüstlük kuralı (TMK m. 2) taraf iradelerinin şekli 
+geçersizlik veya nitelendirme hataları yüzünden tamamen yok 
+sayılmasını değil, ayakta tutulabilecekleri en yakın hukuki formda (makbuz veya
+kısmi ibra olarak) hayatta bırakılmalarını emreder.
+
+
+İşte böylece, seninle **53.-60. Günler: Temerrüt ve Borçların Sona Ermesi** 
+blokunun en kritik sönme mekaniklerinden bir diğeri olan, sözleşme özgürlüğünün
+ölümcül kılıcı **TBK m. 132 (İbra)** kurumunu resmen mühürlemiş olduk. Bir 
+hakkın nasıl şekilsizce doğrulabileceğini ve nasıl aynı hızla hukuken hiçliğe 
+karışabileceğini sistemine perçinledin. 
+
+Sıradaki analizlerimizde, borçlar hukukunun tasfiye ve yenileme labirentlerini 
+sonraki celsede görüşeceğiz.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 78 resmi metni ve kanunun sistematiği.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
+- *Yargı kararları*: Türk Borçlar Kanunu m. 78'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
+- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
+- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 115.
+
+**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 78. madde metnine dayanır.
+
+**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
+
+**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.

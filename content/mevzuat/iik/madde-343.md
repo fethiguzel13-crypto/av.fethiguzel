@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4289
 ---
 
+
 **30 ve 31 inci maddeler hükmüne muhalefet edenlerin cezası:**
 
 ---
@@ -23,382 +24,51 @@ ilâmın gereği yerine getirilirse, borçlu tahliye edilir.
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
+**İcra ve İflas Kanunu’nun 343. maddesi; maddi değeri para ile ölçülebilen edimlerin ötesinde, doğrudan borçlunun şahsı tarafından yerine getirilmesi gereken (şahsen ifası zaruri) olumlu veya olumsuz edimler ile mülkiyet hukukuna ilişkin irtifak haklarının yargısal kararlara uygun olarak tesis edilmesini veya kaldırılmasını güvence altına alan; mahkeme ilamlarının otoritesini tazyik hapsi yaptırımıyla tahkim eden emredici, tamamlayıcı ve kamu düzenini koruyucu bir takip ceza normudur.**
 
-**İcra ve İflas Kanunu m. 343**, «30 ve 31 inci maddeler hükmüne muhalefet edenlerin cezası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 343 – (Değişik: 31/5/2005-5358/14 md.)
-Yalnız kendisi tarafından yapılacak olan bir işin yapılması veya bir işin yapılmaması
-yahut bir irtifak hakkının tesisi veya kaldırılması hakkındaki ilâm hükümlerine makbul
-mazerete müstenit olmayarak muhalefet eden borçluların, lehine hüküm verilmiş kimsenin
-şikâyeti üzerine, üç aya kadar tazyik hapsine karar verilir. Hapsin tatbikine başlandıktan sonr… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Madde, Kanun’un "Ceza Hükümleri" başlıklı On Altıncı Babında, icra dairesince teslim edilen taşınmaza tekrar girenlerin cezalandırılmasını tanzim eden m. 342 hükmünün hemen ardından ve genel ceza hükümlerinin uygulanma sınırlarını belirleyen müteakip maddelerin hemen önünde, üç yüz kırk üçüncü sırada konumlandırılmıştır. Bu sistematik yerleşim; kanun koyucunun maddi teslimat ve tahliye yükümlülüklerine aykırılıkları (m. 341-342) düzenledikten hemen sonra, yapma, yapmama ve katlanma (irtifak) ödevleri gibi doğrudan doğruya borçlunun iradi davranışına bağlı olan ve cebri icra vasıtalarıyla doğrudan yerine getirilmesi hukuken imkansız olan ilamların infaz güvenliğini müstakil bir yaptırım şemsiyesi altına alma iradesinin doğrudan bir ürünüdür. Maddenin tarihsel gelişimine bakıldığında; **31/5/2005 tarihli ve 5358 sayılı Kanun’un 14. maddesiyle** yapılan kapsamlı değişiklik ile suçun unsurları netleştirilmiş, yaptırım türü doğrudan "tazyik hapsi" olarak tescil edilerek bugünkü yürürlükteki modern şekline kavuşturulmuştur.
+
+Öğretide genel kabul gören görüşe göre, mahkeme ilamlarının icra edilmesi hukuk devleti ilkesinin en temel gereğidir. Ancak bazı ilamlar vardır ki, bunların konusu bir üçüncü kişi tarafından borçlu hesabına yerine getirilemez (örneğin sadece o borçlunun entelektüel veya sanatsal yeteneğiyle yapabileceği bir iş) ya da bir işin yapılmamasını (menfi edimi) veya bir hakka katlanılmasını gerektirir. Bu tür durumlarda devletin icra memuru borçlu yerine geçerek edimi zorla ifa edemez. Bu noktada m. 343, borçlunun şahsi iradesini mahkeme kararı doğrultusunda bükmek ve adli itaati sağlamak amacıyla "tazyik hapsi" mekanizmasını devreye sokar. Borçlunun hürriyetini kısıtlayan bu tazyik süreci, klasik bir cezalandırma amacı gütmeyip, borçluyu ilamın gereğini yerine getirmeye zorlayan kamusal bir icra aracı niteliğindedir.
 
 #### 2. Maddedeki Kavramların Analizi
-
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 343, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
-
-##### 2.2. Usulî ve maddi unsurlar
-
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
-
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+Madde metninde yer alan ve borçlunun cezai-disipliner sorumluluğunu şekillendiren temel yasal kavramların analizi şu şekildedir:
+* **Yalnız Kendisi Tarafından Yapılacak Bir İş (Şahsen İfası Zorunlu Edim):** Borçlunun kişisel yeteneği, bilgisi, sanatsal veya teknik uzmanlığı nedeniyle, bir başkası tarafından ikame edilmesi ve borçlu hesabına ifa ettirilmesi maddi ve hukuki açıdan imkansız olan olumlu (müspet) edimlerdir.
+* **Bir İşin Yapılmaması (Menfi Edim):** Borçlunun belirli bir davranışı gerçekleştirmekten, eylemde bulunmaktan veya bir faaliyeti yürütmekten kaçınmasını, durdurmasını veya o işi yapmamasını emreden yargısal kararlardır (örneğin haksız rekabet teşkil eden faaliyetin durdurulması, gürültü yapılmaması veya imar planına aykırı yapılaşmadan kaçınılması).
+* **İrtifak Hakkının Tesisi veya Kaldırılması:** Taşınmaz lehine veya belirli bir kişi lehine kurulan katlanma veya yapmama borçlarını tanzim eden ayni hakların (geçit hakkı, kaynak hakkı, manzara kapatmama borcu vb.) mahkeme kararı doğrultusunda tapu siciline tescil edilmesi veya sicilden terkin edilmesidir.
+* **İlâm Hükümlerine Muhalefet:** İcra dairesi tarafından borçluya gönderilen icra emrine ve tanınan yasal süreye rağmen, borçlunun ilamda yazılı emri yerine getirmekten imtina etmesi veya yasaklanan eylemi gerçekleştirmeye devam etmesidir.
+* **Makbul Mazeret:** Borçlunun ilam gereğini yerine getirmesini objektif olarak engelleyen, iradesi dışındaki fiili veya hukuki engellerdir (örneğin ağır felç, koma hali, cezaevinde bulunma veya ifayı imkansız kılan idari/yargısal ihtiyati tedbir kararları).
+* **Lehine Hüküm Verilmiş Kimsenin Şikâyeti:** Bu disiplin yaptırımının uygulanabilmesi için ilam alacaklısının (lehine hüküm tesis edilen kişinin) icra mahkemesine yazılı olarak müracaat etmesi şarttır. İcra dairesi veya mahkeme re'sen tazyik hapsi kararı veremez.
+* **Tazyik Hapsi (Coercive Imprisonment):** Borçluyu teslimiyete zorlamak amacıyla uygulanan, en fazla üç aya kadar sürebilen, borçlu ilamın gereğini yerine getirdiği (işi yaptığı, yapmadığı işi durdurduğu veya hakkı tesis ettiği) anda derhal son bulan ve adli sicile işlenmeyen idari/disipliner hürriyeti bağlayıcı önlemdir.
 
 #### 3. Sistematik İlişkiler
+İcra ve İflas Kanunu m. 343 hükümleri, anayasal düzeyde hak arama hürriyetini ve adil yargılanmayı tanzim eden **Anayasa m. 36**, mahkeme kararlarının yasama, yürütme ve idare dahil tüm organları bağlayacağını kuran **Anayasa m. 138/son**, kişi hürriyeti ve güvenliğini koruyan **Anayasa m. 19**, zorla çalıştırma yasağını tanzim eden **Anayasa m. 18** ile hukuk devleti ilkesini vadeden **Anayasa m. 2** ile doğrudan dikey ilişki içerisindedir. Şahsen ifası gereken edimlerin tazyik hapsiyle zorlanması, Anayasa m. 18'deki "zorla çalıştırma yasağı" sınırlarıyla dikey bir denge oluşturur. Doktrinde bu husus şu şekilde değerlendirilmektedir: Mahkeme kararlarının ifasını sağlamak amacıyla uygulanan tazyik hapsi, kişiyi zorla çalıştırmak veya angaryaya tabi tutmak amacını taşımayıp, yargısal otoritenin korunmasını hedeflediğinden anayasal yasakların dışındadır ve dikey olarak hukuka uygundur.
 
-- **İcra ve İflas Kanunu m. 1** — Amaç ve kapsam: m. 343'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **İcra ve İflas Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **İcra ve İflas Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **İcra ve İflas Kanunu m. 5** — Ceza ve yasak rejimi: m. 343 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+Kanun içi sistematiğinde ise; yapma ve yapmama işlerine ilişkin ilamların icra usulünü kuran **İİK m. 30**, irtifak haklarıyla ilgili ilamların icrasını tanzim eden **İİK m. 31**, borçlunun ödeme taahhüdünü ihlal yaptırımını tanzim eden **İİK m. 340**, şikayet sürelerini kuran **İİK m. 347** ve icra ceza mahkemelerinin yargılama usulünü belirleyen **İİK m. 349-354** hükümleriyle sarmal ve bölünmez bir bütünlük sergiler. m. 343, m. 30 ve m. 31 hükümleriyle düzenlenen maddi takip usulünün yegane cezai ve disipliner yaptırım motorudur.
 
-Bu ilişkiler, m. 343'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+Yatay ilişkiler bağlamında İİK m. 343; ayni hakların ve irtifakların tesis ve terkin usullerini kuran **4721 sayılı Türk Medeni Kanunu’nun 779-838. maddeleri**, dürüstlük kuralını tanzim eden **TMK m. 2**, şahsi edimlerin ifasını, borca aykırılığı ve yapma-yapmama borçlarına aykırılığın maddi sonuçlarını kuran **6098 sayılı Türk Borçlar Kanunu’nun 113. maddesi** ile disiplin hapislerinin infaz rejimini tanzim eden genel ceza mevzuatı hükümleriyle doğrudan yatay, tamamlayıcı ve etkileşimli bir ilişki içerisindedir. Edimin şahsi niteliğinin tespiti TBK dairesinde, irtifakın hukuki yapısı TMK dairesinde, yaptırımın infazı ise İİK ve ceza usul kurallarına göre yatay olarak çözümlenir.
 
 #### 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
-
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
 
 #### 5. Pratik Örnek Olaylar
-
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* İcra ve İflas Kanunu m. 343 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
-
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
-
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+* **(kurmaca senaryo) 1 (Yalnız Kendisi Tarafından Yapılacak Şifre Teslimi İlamının İhlali):** Yazılım mühendisi A, eski ortağı B ile girdiği hukuki uyuşmazlık neticesinde, şirkete ait kritik bir veri tabanının şifrelerini ve kaynak kodlarını bizzat teslim etmeye mahkum edilmiştir. İlamın icrası için icra emri gönderilmesine rağmen, mühendis A makbul bir mazereti olmaksızın şifreleri teslim etmemiştir. Alacaklı B şikayetçi olmuştur. Analizde; şifrelerin ve kaynak kodlarının sadece A'nın şahsi bilgisi dahilinde olduğu, bu işin bir üçüncü şahsa yaptırılamayacağı (şahsen ifası gereken iş niteliğinde olduğu), bu nedenle A'nın eyleminin m. 343 dairesinde doğrudan ihlal oluşturduğu saptanmış ve sanık A hakkında üç aya kadar tazyik hapsine karar verilmiştir.
+* **(kurmaca senaryo) 2 (Bir İşin Yapılmaması İlamına Muhalefet ve Duvar Örme Eylemi):** Taşınmaz sahibi C, komşusu D'nin kendi manzarasını kapatacak şekilde imara aykırı olarak bahçe duvarı yükseltmesini engellemek amacıyla dava açmış ve mahkemeden "duvarın yükseltilmemesi ve eski haline getirilmesi" yönünde ilam almıştır. İcra dairesince D'ye ilam tebliğ edilmiş ve duvar eski haline getirilmiştir. Ancak tahliyeden iki ay sonra borçlu D, mahkeme ilamını hiçe sayarak duvarı yeniden aynı yüksekliğe ulaştırmıştır. Komşu C şikayetçi olmuştur. Analizde; borçlu D'nin mahkemece verilen "bir işin yapılmaması" yönündeki menfi edim ilamına açıkça ve makbul mazereti olmaksızın muhalefet ettiği saptanmış, eyleminin m. 343 kapsamında tazyik hapsini gerektirdiği doğrulanmıştır.
+* **(kurmaca senaryo) 3 (Geçit İrtifakının Kaldırılması İlamına Rağmen Kullanıma Devam Edilmesi):** Mahkeme kararıyla, borçlu E lehine alacaklı F'nin arazisi üzerinde kurulmuş olan geçit irtifakının (geçit hakkının) hukuken kaldırılmasına karar verilmiş ve bu karar tapuda terkin edilmiştir. Ancak borçlu E, hakkın kaldırılmasına dair ilamın infazına rağmen, F'nin arazisindeki özel yolu araçlarıyla zorla kullanmaya ve yolu engellemeye devam etmiştir. Alacaklı F şikayetçi olmuştur. Analizde; irtifak hakkının kaldırılmasına ilişkin ilama fiilen muhalefet edildiği, m. 343'ün doğrudan bu tür irtifak uyuşmazlıklarındaki yargısal emirleri koruduğu saptanmış ve borçlu E hakkında tazyik hapsine hükmedilmiştir.
 
 #### 6. Pratik Uygulama Notları
-
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+Uygulamada yalnız kendisi tarafından yapılacak işlerin, menfi edimlerin ve irtifak haklarının infazını ve şikayet süreçlerini yöneten hukukçuların ve icra mahkemelerinin aşağıdaki pratik hususlara dikkat etmesi gerekir:
+* **İcra Emrinin Doğru Şekilde Tebliği:** Borçlu hakkında m. 343 uyarınca tazyik hapsi istenebilmesi için, öncelikle icra dairesi tarafından düzenlenmiş olan ve **İİK m. 30 veya m. 31 dairesindeki yasal ihtar ve süreleri barındıran icra emrinin** borçluya usulüne uygun olarak tebliğ edilmiş olması ve tebliğden itibaren belirlenen sürenin sessizce geçirilmiş olması kurucu bir pratik şarttır.
+* **Hak Düşürücü Sürelerin Sıkı Denetimi:** İİK m. 347 uyarınca, alacaklının ilama aykırı muhalefet eylemini **öğrendiği tarihten itibaren 3 ay** ve her halükarda **eylemin (muhalefetin) vuku bulduğu tarihten itibaren 1 yıl** içinde icra mahkemesine şikayette bulunması gerekir. Bu süreler geçtikten sonra yapılan şikayetler re'sen reddedilmelidir.
+* **İlamın İfa Edilmesiyle Derhal Tahliye:** Tazyik hapsinin yegane amacı borçluyu ifaya zorlamaktır. Bu nedenle, tazyik hapsi kararı kesinleşip infaza başlandıktan sonra dahi, borçlu ilamın gereğini yerine getirdiğini (örneğin anahtarı/şifreyi teslim ettiğini veya engeli kaldırdığını) ispat ederse, icra mahkemesi veya infaz savcılığı tarafından **re'sen ve derhal tahliye kararı** verilmelidir.
+* **Üçüncü Kişiler Tarafından Yapılabilecek İşlerin Ayıklanması:** Eğer mahkeme ilamındaki edim borçlunun şahsı dışında bir başkası tarafından da ikame edilebiliyorsa (örneğin basit bir moloz kaldırma veya standart bir boya işi), KDV'si ve masrafı borçludan alınarak alacaklı tarafından yaptırılabileceğinden (İİK m. 30/1 dairesinde), bu tür edimler için m. 343 tazyik hapsi uygulanamaz. Edimin münhasıran şahsi niteliği mahkemece titizlikle denetlenmelidir.
 
 #### 7. Eleştirel Değerlendirme
+İİK m. 343’ün tanzim ettiği tazyik hapsi yaptırımı, mahkeme kararlarının uygulanmasını sağlamada teorik açıdan güçlü bir zorlama aracı olsa da, çağdaş ceza hukuku ilkeleri ve insan hakları doktrini yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, borçlunun bizzat yapması gereken olumlu edimlerin (örneğin bir projenin çizilmesi veya sanatsal bir eserin tamamlanması) hürriyeti bağlayıcı ceza tehdidi altında zorla yaptırılmaya çalışılmasının; kişileri rızası hilafına çalışmaya zorlama riski barındırdığı, bunun ise Anayasa m. 18'deki angarya ve zorla çalıştırma yasağını ihlal etme tehlikesi taşıdığı; ayrıca "makbul mazeret" kavramının yasa metninde nesnel ve sınırlandırıcı ölçütlerle tanımlanmamasının, icra mahkemelerine fahiş derecede geniş ve keyfi bir takdir marjı tanıdığı ve bu durumun hukuki belirlilik (Anayasa m. 2) ilkesini hırpaladığı; en önemlisi, modern kıta Avrupası hukuk sistemlerinde şahsi edimlerin zorlanmasında fiziki hapis yerine doğrudan doğruya günlük bazda artan fahiş mali zorlama cezalarının (astreint kurumu) başarıyla uygulandığı, Türk hukukunun ise hala insan bedenini hapsederek ifa devşirme şeklindeki hantal ve ilkel tazyik yönteminde ısrar etmesinin çağdaş yaptırımlar teorisine ve ölçülülük ilkelerine aykırılık teşkil ettiği savunulmaktadır.**
 
-Madde 343, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İcra ve İflas Kanunu m. 343, «30 ve 31 inci maddeler hükmüne muhalefet edenlerin cezası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükü Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 343, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 343'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 343, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İcra ve İflas Kanunu m. 343, «30 ve 31 inci maddeler hükmüne muhalefet edenlerin cezası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükü Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 343, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 343'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 343, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İcra ve İflas Kanunu m. 343, «30 ve 31 inci maddeler hükmüne muhalefet edenlerin cezası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükü Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 343, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 343'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 343, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İcra ve İflas Kanunu m. 343, «30 ve 31 inci maddeler hükmüne muhalefet edenlerin cezası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükü Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 343, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 343'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 343, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İcra ve İflas Kanunu m. 343, «30 ve 31 inci maddeler hükmüne muhalefet edenlerin cezası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükü Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 343, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 343'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 343, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İcra ve İflas Kanunu m. 343, «30 ve 31 inci maddeler hükmüne muhalefet edenlerin cezası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükü Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 343, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 343'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 343, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İcra ve İflas Kanunu m. 343, «30 ve 31 inci maddeler hükmüne muhalefet edenlerin cezası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükü Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 343, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 343'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Doktrinde bu husus şu şekilde değerlendirilmektedir: Mahkeme kararlarına itaat sağlanırken, bireyin şahsi hürriyeti ve bedensel bütünlüğü en son çare olarak hedef alınmalıdır. Kanun koyucu, anayasal eşitlik, dürüstlük, idari belirlilik, ölçülülük ve adil yargılanma ilkelerini tam tahkim etmek adına, **m. 343’ü yeniden tanzim ederek; şahsi edimlerin ifasını zorlamada öncelikle borçlunun malvarlığına yönelik, yerine getirilmeyen her gün için katlanarak artan "Adli Zorlama Para Cezası (Astreint) Sistemi"ni kuran**; tazyik hapsi yaptırımını sadece menfi edimlerin (bir işi yapmama borçlarının) ve kamu sağlığını/güvenliğini ilgilendiren ayni hakların ihlali halleriyle kesin olarak sınırlandıran çağdaş, esnek, adil ve tam güvenli bir takip-ceza reformunu yasal düzeyde hayata geçirmelidir.
 
 ---
 
-### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: İcra ve İflas Kanunu m. 343 resmi metni ve kanunun sistematiği.
+### Metodolojik Not
+Bu şerh çalışması, İcra ve İflas Kanunu’nun 5358 sayılı Kanun ile değişik 343. maddesinin (tarihi yapısı, yapma ve yapmama borçlarına ilişkin İİK m. 30 ve irtifak haklarının tesis/terkinine ilişkin İİK m. 31 hükümleriyle olan sarmal bağı, yalnızca borçlunun şahsı tarafından yerine getirilebilecek olumlu veya olumsuz edim ilamlarına mazeretsiz muhalefet edilmesinin cezai yaptırım sınırları, şikayet usulü ve üç aya kadar tazyik hapsinin hukuki niteliği, ilam gereğinin yerine getirilmesiyle cezanın düşmesi ve borçlunun tahliye edilmesi mekanizmaları, bu zorlama araçlarının anayasal zorla çalıştırma yasağı, kişi hürriyeti, hak arama hürriyeti ve dürüstlük ilkeleriyle olan doğrudan dikey ilişkisi, Türk Borçlar Kanunu ve Türk Medeni Kanunu dairesindeki edim teorileri ve ayni hak yatay dengeleri ve bu operasyonel cezai adımların takip-ticaret ve ceza hukuku boyutundaki idari-yargısal yansımaları dairesinde) icra ve iflas hukuku (ceza hükümleri ve tazyik yaptırımları teorisi, yapma-yapmama ve katlanma ilamlarının infazı müesseseleri, m. 18, m. 19, m. 30, m. 31, m. 340, m. 342, m. 346, m. 347 ve m. 349-354 ilişkileri), ticaret hukuku (ticari nitelikteki menfi edim taahhütleri ve şirket yöneticilerinin şahsi sorumlulukları dairesinde TTK kuralları), medeni usul ve ceza usul hukuku (tazyik hapislerinin yargılama usulü, şikayet süreleri, ispat kuralları, resmi icra dosyalarının delil gücü, yetki ve görev sınırları dairesinde HMK ve CMK kuralları), borçlar ve eşya hukuku (şahsen ifası gereken edimler, borca aykırılık, ifa imkansızlığı, irtifak haklarının hukuki yapısı, dürüstlük kuralı ve hakkın kötüye kullanılması yasağı dairesinde TMK m. 2, m. 779 vd. ve TBK m. 113 vd. ilişkileri), ceza hukuku (tazyik hapsi ile disiplin hapsinin cezai karakterleri, suçta ve cezada belirlilik ilkesi dairesinde TCK m. 2, m. 7 kuralları), anayasa hukuku (hukuk devleti, eşitlik ilkesi, adil yargılanma hakkı, suç ve cezaların kanuniliği, kişi hürriyeti ve güvenliği, zorla çalıştırma ve angarya yasağı, mülkiyet hakkının korunması ve hak arama hürriyeti ilkeleri) boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk icra ve iflas hukukunun genel kabul gören doktrinel ilkeleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.

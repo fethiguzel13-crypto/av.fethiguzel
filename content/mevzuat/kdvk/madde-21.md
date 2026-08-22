@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4321
 ---
 
+
 **İthalatta matrah:**
 
 ---
@@ -28,391 +29,50 @@ tüketim vergisi tutarı.
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
+**Katma Değer Vergisi Kanunu’nun 21. maddesi; gümrük sınırlarını aşarak Türkiye Cumhuriyeti vergi egemenlik alanına ithal edilen malların KDV matrahını kümülatif ve katmanlı bir formülle inşa eden; yurt içi teslimler ile ithal teslimler arasında tam bir vergisel tarafsızlık (simetri) sağlamayı hedefleyen; ithal emtianın yerli üretim aleyhine haksız rekabet yaratmasını önlemek amacıyla gümrük kıymetine tüm ithalat vergilerini, masraflarını ve gümrükleme anına kadar oluşan kur/fiyat farklarını ekleyen emredici, kurucu ve koruyucu bir temel matrah normudur.**
 
-**Katma Değer Vergisi Kanunu m. 21**, «İthalatta matrah» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 21 – İthalatta, verginin matrahı aşağıda gösterilen unsurların toplamıdır:
-a) İthal edilen malın gümrük vergisi tarhına esas olan kıymeti, gümrük vergisinin
-kıymet esasına göre alınmaması veya malın gümrük vergisinden muaf olması halinde sigorta
-ve navlun bedelleri dahil (CIF) değeri, bunun belli olmadığı hallerde malın gümrükçe tespit
-edilecek değeri,
-b) İthalat sırasında ödenen her türlü v… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Madde, Kanun’un "Üçüncü Kısım: Matrah, Nispet ve İndirim" başlığı altındaki "Birinci Bölüm: Matrah" kısmında, yurt içi teslimlerdeki genel matrahı tanzim eden 20. maddeden hemen sonra ve uluslararası yükümlülüklerden doğan özel matrah şekillerini belirleyen 23. maddeden önce, yirmi birinci sırada konumlandırılmıştır. Bu sistematik yerleşim; kanun koyucunun iç piyasadaki vergilendirilebilir matrahı (bedeli) kurduktan hemen sonra, dış ticaretin ithalat bacağını da kendi fiziki ve mali şartlarına özgü kümülatif unsurlarla matrah altına alma iradesinin doğrudan bir sonucudur. Maddenin geçirdiği yasal reformlara bakıldığında; ithalat süreçlerinde KDV matrahının tespiti gümrük mevzuatı ile sürekli senkronize edilmiş; en son **20/7/2025 tarihli ve 7555 sayılı Kanun’un 8. maddesiyle** eklenen (ç) fıkrası dairesinde, Özel Tüketim Vergisi Kanunu hükümleri çerçevesinde teminat karşılığı ithal edilen mallarda KDV matrahına teminatın hesaplanmasına esas ÖTV tutarının da dahil edilmesi sağlanarak vergi güvenlik marjları en üst düzeye çıkarılmıştır.
+
+Öğretide genel kabul gören görüşe göre, ithalatta KDV matrahının sadece malın çıplak fatura bedeli (fob bedeli) üzerinden hesaplanması, yerli üreticiyi fahiş bir vergi adaletsizliğiyle karşı karşıya bırakır. Çünkü yerli bir üretici mal üretirken gümrük vergisi, navlun, sigorta, liman içi elleçleme, depolama masrafları ve diğer vergisel yükleri kendi maliyetine eklemekte ve bu birikmiş maliyet üzerinden KDV hesaplamaktadır. İthal emtiada da aynı maliyet birikimini ve vergisel yükü yapay olarak oluşturmak adına m. 21, gümrük kıymetinin üzerine tüm gümrük vergilerini (b fıkrası) ve tescil tarihine kadar yapılan her türlü harici harcamayı (c fıkrası) ekleyerek **"vergisel eşitleme"** sağlamaktadır. Bu yönüyle madde, destinasyon (varış ülkesinde vergilendirme) ilkesinin en kusursuz takip hukuku enstrümanıdır.
 
 #### 2. Maddedeki Kavramların Analizi
-
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 21, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
-
-##### 2.2. Usulî ve maddi unsurlar
-
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
-
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+Madde metninde yer alan ve ithalat KDV matrahını kümülatif olarak inşa eden temel yasal kavramların analizi şu şekildedir:
+* **Gümrük Vergisi Tarhına Esas Kıymet:** Gümrük Kanunu hükümleri dairesinde belirlenen, ithal emtianın gümrük idaresince kabul edilen ve üzerine gümrük vergisi oranlarının uygulanacağı beyan değeridir. Bu değer genellikle fiili satış bedeline dayanmakla birlikte, gümrük kıymetine dahil edilmesi gereken her türlü ilave unsuru (örneğin lisans-royalty ödemeleri, yurt dışı kalıp maliyetleri vb.) barındırır.
+* **CIF Değeri (Cost, Insurance, Freight):** Mal bedeli, sigorta ve Türkiye gümrük kapısına kadar olan nakliye (navlun) masraflarının tamamını içeren gümrükleme öncesi fiziki maliyet değeridir. Gümrük vergisinden muaf olan veya maktu vergiye tabi mallarda KDV matrahının asgari taban sınırını oluşturur.
+* **İthalat Sırasında Ödenen Vergi, Resim, Harç ve Paylar:** Malın gümrükten çekilmesi anında tahsil edilen gümrük vergisi, dampinge karşı vergi, ek mali yükümlülükler, toplu konut fonu payı, TRT bandrol ücreti ve tescil damga vergisi gibi KDV dışındaki tüm kamusal yüklerdir. Bu unsurların matraha eklenmesi, **"verginin de vergilendirilmesi"** yoluyla kümülatif ithalat değerinin eksiksiz kavranmasını sağlar.
+* **Gümrük Beyannamesinin Tescil Tarihine Kadar Yapılan Diğer Giderler:** Malın gümrük sahasına girdiği andan beyannamenin resmi olarak tescil edildiği güne kadar yapılan ardiye, depolama, liman hizmetleri, lokal nakliye, elleçleme, tahmil-tahliye ve demuraj (konteyner gecikme) masraflarıdır. Bu masraflardan KDV'den muaf olanlar veya henüz vergilendirilmemiş olanlar matraha dahil edilir.
+* **Fiyat Farkı ve Kur Farkı:** Yabancı para cinsinden ithal edilen emtiada, faturanın kesildiği tarih ile gümrük beyannamesinin tescil edildiği tarih arasında döviz kurunun yükselmesi nedeniyle oluşan Türk Lirası bazındaki değer artışıdır (kur farkı). Gümrükleme anına kadar satıcı lehine oluşan fiyat farkları da bu kapsamdadır ve matraha dahil edilmeleri zorunludur.
+* **Teminatın Hesaplanmasına Esas ÖTV Tutarı:** 7555 sayılı Kanun ile eklenen (ç) bendi çerçevesinde; ithalatta ÖTV'nin teminata bağlandığı özel geçici ithalat veya dahilde işleme gibi rejimlerde, KDV matrahının eksik hesaplanmasını önlemek amacıyla, teminat hesabında dikkate alınan hayali veya fiili ÖTV tutarının da KDV matrah silsilesine eklenmesi zorunluluğudur.
 
 #### 3. Sistematik İlişkiler
+Katma Değer Vergisi Kanunu m. 21 hükümleri, anayasal düzeyde verginin kanuniliği ilkesini tanzim eden **Anayasa m. 73**, devletin dış ticareti ülke ekonomisi yararına düzenleme yetkisini kuran **Anayasa m. 167**, mülkiyet hakkını güvenceleyen **Anayasa m. 35** ile hukuk devleti ve idari belirlilik ilkelerini vadeden **Anayasa m. 2** ile doğrudan dikey ilişki içerisindedir. Gümrük vergilerinin ve harici masrafların KDV matrahına dahil edilmesi, anayasal ölçülülük ve dış ticaret dengesinin kurulması ilkelerinin doğrudan dikey yansımalarıdır.
 
-- **Katma Değer Vergisi Kanunu m. 1** — Amaç ve kapsam: m. 21'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Katma Değer Vergisi Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Katma Değer Vergisi Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Katma Değer Vergisi Kanunu m. 5** — Ceza ve yasak rejimi: m. 21 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+Kanun içi sistematiğinde ise; verginin konusunu ithalat yönünden kuran **KDVK m. 1/2**, ithalatta mükellefi belirleyen **KDVK m. 8/1-b**, ithalat istisnalarını tanzim eden **KDVK m. 16**, yurt içi teslim matrahını kuran **KDVK m. 20**, matraha dahil olan ve olmayan diğer genel unsurları listeleyen **KDVK m. 24-25** ve ithalat vergisinin tarh, tahakkuk ve ödeme usullerini tanzim eden **KDVK m. 48** hükümleriyle sarmal ve bölünmez bir bütünlük sergiler. m. 21, ithalat matrahını tanzim ederek, m. 16'daki istisnaların ve m. 29'daki indirim haklarının doğru rasyolarla işletilmesine zemin hazırlar.
 
-Bu ilişkiler, m. 21'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+Doktrinde bu husus şu şekilde değerlendirilmektedir: KDVK m. 21 hükümleri, ekonomik yaklaşım ve fiili durumun tespiti ilkelerini kuran **213 sayılı Vergi Usul Kanunu’nun 3. maddesi**, ithalatta gümrük kıymetinin belirlenmesi usullerini, beyanname tescilini ve cezalı tarhiyat kurallarını tanzim eden **4458 sayılı Gümrük Kanunu**, ithalatta özel tüketim vergisi uygulamalarını kuran **4760 sayılı Özel Tüketim Vergisi Kanunu** (özellikle m. 16) ve sınır ötesi emtia satış sözleşmelerindeki yabancı para birimlerinin Türk Lirası karşılıklarını tanzim eden **6098 sayılı Türk Borçlar Kanunu** hükümleriyle doğrudan yatay, tamamlayıcı ve etkileşimli bir ilişki içerisindedir. Gümrük kıymeti uyuşmazlıklarının çözümünde Gümrük Kanunu ve VUK hükümleri birincil yatay belirleyicidir.
 
 #### 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
-
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
 
 #### 5. Pratik Örnek Olaylar
-
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Katma Değer Vergisi Kanunu m. 21 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
-
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
-
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+* **(kurmaca senaryo) 1 (Gümrükleme Öncesi Oluşan Kur Farkının Matraha Eklenmesi):** İthalatçı A firması, ABD'den 100.000 Dolar bedelli hammadde satın almış ve hammaddeyi taşıyan gemi 10 Mart 2026 tarihinde limana varmıştır. Fatura tarihi itibarıyla Merkez Bankası dolar kuru 30 TL'dir. Ancak gümrük beyannamesinin tescil edildiği tarih olan 15 Mart 2026 günü döviz kuru 32 TL'ye yükselmiştir. İthalatçı A, gümrük beyanında mal bedelini eski kur olan 30 TL üzerinden (3.000.000 TL) beyan etmek istemiştir. Analizde; m. 21/c fıkrası uyarınca, gümrük beyannamesinin tescil tarihine kadar yapılan her türlü "kur farkı" ödeme ve hesaplamalarının ithalat KDV matrahına dahil edilmesinin emredici bir zorunluluk olduğu, bu nedenle 2 TL'lik kur artışından doğan 200.000 TL kur farkının matraha eklenerek toplam matrahın 3.200.000 TL üzerinden tescil edilmesi gerektiği saptanmıştır.
+* **(kurmaca senaryo) 2 (Tescil Öncesi Ardiye ve Depolama Giderlerinin Gizlenmesi):** Sanayici B firması, ithal ettiği makinelerin gümrük gözetiminde kaldığı geçici depolama sahası için özel liman işletmesine 50.000 TL ardiye ve elleçleme ücreti ödemiştir. Bu ödeme beyanname tescil tarihinden önce fiilen yapılmış ve KDV uygulanmamıştır. Sanayici B, bu 50.000 TL’lik liman masrafını gümrük idaresine bildirmeksizin sadece malın fatura bedeli üzerinden KDV matrahı beyan etmiştir. Analizde; m. 21/c uyarınca beyannamenin tescil tarihine kadar yapılan ve vergilendirilmeyen her türlü diğer giderlerin matraha dahil edilmesinin zorunlu olduğu, liman masrafının bildirilmemesinin KDV matrahını noksanlaştırarak vergi ziyaına sebebiyet verdiği saptanmış ve eksik kısım üzerinden KDV ve vergi ziyaı cezası uygulanmasına karar verilmiştir.
+* **(kurmaca senaryo) 3 (Yeni Mevzuat Çerçevesinde Teminatlı ÖTV'nin Matraha Dahil Edilmesi):** İthalatçı C firması, Temmuz 2025 sonrasında yürürlüğe giren yeni mevzuat çerçevesinde, ÖTV Kanunu m. 16/4 uyarınca teminat göstermek suretiyle özel tüketime tabi lüks binek otomobil ithal etmiştir. Firma, gümrükte KDV matrahını hesaplarken teminata bağlanan ÖTV tutarını matraha dahil etmemiştir. Analizde; m. 21/ç fıkrasının (7555 sayılı Kanun ile eklenen emredici bendin) açık hükmü uyarınca, teminat karşılığı ithal edilen mallarda teminatın hesaplanmasına esas ÖTV tutarının da KDV matrahına dahil edilmesinin zorunlu kılındığı saptanmış, ithalatçı C'nin KDV matrahının bu ÖTV tutarı da eklenerek revize edilmesi gerektiğine hükmedilmiştir.
 
 #### 6. Pratik Uygulama Notları
-
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+Uygulamada ithalat KDV matrahını belirleyen, gümrük beyannamelerini düzenleyen ve mali denetimleri yürüten hukukçuların, gümrük müşavirlerinin ve mali müşavirlerin aşağıdaki pratik hususlara dikkat etmesi gerekir:
+* **Tescil Tarihinin Milat Kabul Edilmesi:** Matraha dahil edilecek kur farkları, fiyat farkları, demuraj ve ardiye masrafları için **beyannamenin resmi olarak tescil edildiği saat ve tarih** kesin sınır çizgisi (milat) kabul edilmelidir. Tescil tarihinden sonra oluşan kur farkları ithalat KDV matrahına dahil edilmez, bunlar iç piyasadaki ödeme usullerine göre (KDVK m. 24 dairesinde) gerekirse yurt içi işleme tabi tutulur.
+* **Vergilendirilmeyen Giderlerin Ayrımı:** M. 21/c fıkrasında yer alan "diğer giderler ve ödemelerden vergilendirilmeyenler" ibaresi uyarınca; gümrük kapısında yapılan liman, ardiye, elleçleme hizmeti için ödenen bedeller eğer KDV'den istisna edilmişse (örneğin KDVK m. 17/4-ı kapsamında) ithalat matrahına eklenir. Ancak bu hizmetler için liman işletmesince yurt içinde KDV hesaplanarak fatura kesilmişse, mükerrer vergilendirmeyi önlemek adına ithalat KDV matrahına dahil edilmemelidir.
+* **Liman ve Acente Faturalarının Zamanında Temini:** Beyannamenin tescil edileceği gün itibarıyla acentelerden veya liman işletmesinden fiili ardiye ve lokal nakliye faturaları henüz düzenlenmemiş olabilmektedir. Bu durumlarda, gümrükte cezalı duruma düşmemek adına, tescil anına kadar oluşan masrafların **proforma veya tahmini masraf bildirimleriyle** KDV matrahına eklenmesi ve beyannamenin bu şekilde tescil ettirilmesi pratik bir güvenlik önlemidir.
+* **7555 Sayılı Kanun Uyarınca ÖTV Entegrasyonu:** Gümrük idarelerinin otomasyon sistemlerinde, ÖTV teminat takip yazılımları ile KDV matrah hesaplama modülleri senkronize çalışmalıdır. Teminata bağlanan her bir ÖTV birimi, m. 21/ç uyarınca ithalat KDV matrah tabanına sistem tarafından otomatik olarak yansıtılmalı, manuel hatalara meydan verilmemelidir.
 
 #### 7. Eleştirel Değerlendirme
+KDVK m. 21’in tanzim ettiği kümülatif ve katmanlı ithalat matrahı sistemi, dış ticaret dengesini ve yerli üreticiyi korumada kurucu bir işlev üstlense de, vergi tekniğindeki bazı adaletsizlikler ve muğlaklıklar yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, m. 21/b ve ç fıkralarında yer alan gümrük vergilerinin, ÖTV'nin, diğer fon ve payların KDV matrahına dahil edilmesinin, vergi hukukunun en temel direklerinden olan "verginin de vergilendirilmesi" (tax on tax) yasağını ve mali güce göre vergilendirme (Anayasa m. 73) ilkelerini zedelediği, zira mükellefin ödeme gücü aşırı vergisel yüklerle yapay olarak şişirilmiş bir matrah üzerinden haksızca KDV ödemek zorunda bırakıldığı; ayrıca m. 21/c fıkrasında yer alan "tescil tarihine kadar yapılan diğer giderler" ibaresinin sınırlarının yasa metninde nesnel olarak çizilmemesinin, gümrük idareleri ile mükellefler arasında özellikle "demuraj", "konteyner temizleme" ve "yurt dışı temsilcilik masrafları" gibi giderlerin matraha dahil edilip edilmeyeceği konusunda fahiş uyuşmazlıklara yol açtığı ve bu durumun hukuki güvenlik (Anayasa m. 2) ilkesini hırpaladığı; en önemlisi, 7555 sayılı Kanun ile eklenen ç bendi dairesinde, henüz fiilen ödenmemiş ve sadece teminata bağlanmış olan sanal ÖTV tutarlarının dahi KDV matrahına dahil edilmesinin, ithalatçı teşebbüslerin finansal likiditelerini ve sınır ötesi ticaret akışlarını haksız ve ölçüsüz bir finansman bloke yükü altına soktuğu savunulmaktadır.**
 
-Madde 21, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Katma Değer Vergisi Kanunu m. 21, «İthalatta matrah» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 21, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 21'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 21, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Katma Değer Vergisi Kanunu m. 21, «İthalatta matrah» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 21, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 21'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 21, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Katma Değer Vergisi Kanunu m. 21, «İthalatta matrah» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 21, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 21'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 21, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Katma Değer Vergisi Kanunu m. 21, «İthalatta matrah» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 21, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 21'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 21, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Katma Değer Vergisi Kanunu m. 21, «İthalatta matrah» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 21, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 21'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 21, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Katma Değer Vergisi Kanunu m. 21, «İthalatta matrah» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 21, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 21'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 21, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Katma Değer Vergisi Kanunu m. 21, «İthalatta matrah» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 21, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 21'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Doktrinde bu husus şu şekilde değerlendirilmektedir: İthalat matrahı tespiti süreçleri, dış ticareti yavaşlatmayacak, haksız vergisel katmanlar yaratmayacak ve mükellefleri muğlak gider tanımları arasında cezalandırmayacak rasyonel sınırlarda tanzim edilmelidir. Kanun koyucu, anayasal eşitlik, dürüstlük, idari belirlilik ve adil yargılanma ilkelerini tam tahkim etmek adına, **m. 21’i yeniden tanzim ederek; "diğer giderler" kavramını gümrük sahasındaki somut ve belgelenebilir asli lojistik hizmetlerle (depolama ve tahliye gibi) sınırlandırarak açıkça listeleyen**; verginin de vergilendirilmesi adaletsizliğini gidermek amacıyla KDV dışındaki diğer dolaylı vergileri matrah tabanından kademeli olarak arındıran veya bu vergileri KDV matrahında "indirim/mahsup" konusu yapabilen; teminatlı ÖTV entegrasyonunda nakit bloke yükünü tamamen ortadan kaldıran çağdaş, esnek, adil ve tam güvenli bir ithalat matrah reformunu yasal düzeyde hayata geçirmelidir.
 
 ---
 
-### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Katma Değer Vergisi Kanunu m. 21 resmi metni ve kanunun sistematiği.
+### Metodolojik Not
+Bu şerh çalışması, Katma Değer Vergisi Kanunu’nun 21. maddesinin (tarihi yapısı, 7555 sayılı Kanun ile tanzim edilen teminat karşılığı ithal edilen mallarda teminatın hesaplanmasına esas ÖTV tutarının KDV matrahına dahil edilmesi reformu, ithal edilen malın gümrük vergisi tarhına esas kıymetinin tespiti esasları, gümrük vergisinden muaf veya kıymet esasına tabi olmayan mallarda CIF (maliyet, sigorta, navlun) değerinin taban sınır kabul edilmesi kuralı, ithalat sırasında ödenen KDV dışındaki diğer vergi, resim, harç ve fonların matraha eklenmesi rejimi, gümrük beyannamesinin tescil tarihine kadar oluşan ve vergilendirilmeyen diğer giderler, fiyat farkları ve kur farklarının matraha yansıtılması usulü ve bu sınır ötesi işlemlerin dolaylı vergi hukuku boyutundaki idari-yargısal yansımaları dairesinde) vergi hukuku (ithalat vergilendirme kuramları, kümülatif matrah inşası, vergi üstüne vergi yasağı ve destinasyon teorileri, m. 19, m. 1, m. 8, m. 10, m. 16, m. 20, m. 23, m. 24, m. 25, m. 29, m. 30, m. 32, m. 34, m. 39-41, m. 48 ve VUK m. 3, m. 114, m. 116-126, m. 229, m. 231/5, m. 369, ÖTV Kanunu m. 16, Gümrük Kanunu kıymet hükümleri, kamu maliyesi teorisi), idare hukuku (idarenin gümrük sınırları ve dış ticaret vergilendirmesi üzerindeki yetki ve denetim sınırları), ticaret ve gümrük hukuku (uluslararası teslim şekilleri, CIF-FOB kuralları, liman işletmeciliği ve ithalat muhasebesi dairesinde TTK ve Gümrük kuralları), borçlar hukuku (döviz üzerinden kurulan sözleşmeler, kur riskleri, ifa vadesi ve hasar geçişleri dairesinde TBK ilişkileri), anayasa hukuku (hukuk devleti, eşitlik ilkesi, verginin kanuniliği, dış ticaretin düzenlenmesi ödevi, mülkiyet hakkının korunması, teşebbüs hürriyeti ve hak arama hürriyeti ilkeleri) boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk vergi hukukunun genel kabul gören doktrinel ilkeleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.

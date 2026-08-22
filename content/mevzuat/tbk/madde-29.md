@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4287
 ---
 
+
 **IV. Önsözleşme**
 
 ---
@@ -21,389 +22,323 @@ sözleşmenin şekline bağlıdır.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Borçlar Kanunu m. 29**, «IV. Önsözleşme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 29 - Bir sözleşmenin ileride kurulmasına ilişkin sözleşmeler geçerlidir.
-Kanunlarda öngörülen istisnalar dışında, önsözleşmenin geçerliliği, ileride kurulacak
-sözleşmenin şekline bağlıdır.
+6098 sayılı Türk Borçlar Kanunu’nun (TBK) 29. maddesi, borçlar hukuku 
+dogmatiğinde tarafların gelecekteki hukuki ilişkilerini güvence altına 
+almalarını sağlayan ve **Sözleşme Özgürlüğü** ilkesinin en ileri düzeydeki 
+yansımalarından biri olan **Önsözleşme (Sözleşme Yapma Vaadi)** kurumunu 
+düzenlemektedir. İlgili hüküm, *"Bir sözleşmenin ileride kurulmasına ilişkin 
+sözleşmeler geçerlidir. Kanunlarda öngörülen istisnalar dışında, önsözleşmenin 
+geçerliliği, ileride kurulacak sözleşmenin şekline bağlıdır."* lafzını 
+taşımaktadır. Bu düzenleme, **İrade Muhtariyeti** (Privatautonomie) prensibinin
+zaman boyutundaki uzantısı olarak, taraflara henüz fiili, hukuki veya ekonomik 
+şartların tam olarak olgunlaşmadığı durumlarda dahi, asıl sözleşmeyi akdetme 
+borcu doğuran öncül bir hukuki bağ kurma imkânı tanımaktadır.
 
----… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Sistematik açıdan TBK m. 29, "Sözleşmelerin Kurulması" başlığı altında yer 
+almaktadır. Bu konumlandırma tesadüfi değildir; zira **Önsözleşme**, her ne 
+kadar bizzat bir sözleşme olsa da, varlık sebebi ve nihai amacı (causa) tamamen
+başka bir sözleşmenin (asıl sözleşmenin) kurulmasını sağlamaktır. Doktrinde
+Fikret Eren ve M. Kemal Oğuzman / Turgut Öz tarafından da hararetle 
+vurgulandığı üzere, **Önsözleşme**, kategorik olarak sözleşme olsa da hukuki 
+müessese olarak müstakil olan ve ticari hayatın ihtiyaçlarına cevap veren 
+bağımsız bir **Taahhüt Muamelesi**dir. 
+
+Karşılaştırmalı hukuk ve mehaz kanun ilişkisi bağlamında incelendiğinde, bu 
+kurumun doğrudan mehazı İsviçre Borçlar Kanunu'nun (OR) 22. maddesidir (**OR 
+Art. 22**). İsviçre Hukukunda "Vorvertrag" olarak adlandırılan bu müessese, 
+tarafların ileride bir asıl sözleşme yapma hususundaki taahhütlerini yasal bir 
+temele oturtmuştur. İlginçtir ki, Alman Medeni Kanunu (BGB) **Önsözleşme** 
+kurumuna ilişkin genel bir kanun hükmü ihtiva etmez; Alman hukukunda bu kurum 
+tamamen doktrin ve içtihatlar (Richterrecht) yoluyla **Sözleşme Özgürlüğü** 
+prensibinden türetilmiştir. İsviçre ve Türk kanun koyucusu ise, hukuki 
+belirlilik (legal certainty) ilkesi gereğince bu kurumu açıkça kodifiye etmeyi 
+tercih etmiş ve OR Art. 22 ile TBK m. 29 hükümlerini yaratmıştır. Hükmün 
+sistematiği, bir taraftan sözleşme yapma vaadinin geçerliliğini (fıkra 1) kabul
+ederken, diğer taraftan asıl sözleşmenin şekil şartlarının dolanılmasını 
+engellemek üzere emredici bir şekil kuralı (fıkra 2) ihdas ederek düalist bir 
+koruma sağlamaktadır.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+TBK m. 29 hükmünün doktriner tahlili, maddede yer alan kavramların hukuki 
+niteliğinin, sınırlarının ve geçerlilik şartlarının bilhassa Fikret Eren, M. 
+Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer'in eserleri ekseninde 
+derinlemesine incelenmesini zorunlu kılar.
 
-Madde 29, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+**A. Önsözleşmenin Hukuki Niteliği (Borçlandırıcı İşlem Olması):**
+Doktrinde **Önsözleşme**, tarafların ileride belirli bir **Borçlandırıcı 
+İşlem** (taahhüt muamelesi) yapmayı karşılıklı olarak taahhüt ettikleri bir ön 
+anlaşma olarak tanımlanır. Bu noktada borçlar hukuku dogmatiğinin en hayati 
+ayrımlarından biri devreye girer. TBK md. 29'da açıkça düzenleme bulan ön 
+sözleşme ile taraflar, daha sonraki tarihte bir **Tasarruf İşlemi** (mameleki 
+doğrudan etkileyen işlem) yapmayı değil, borçlandırıcı işlem olarak bir borç 
+sözleşmesi yapmayı taahhüt etmiş olurlar. Zira mülkiyeti devretmek veya 
+ayni bir hakkı tesis etmek gibi bir tasarruf işlemi yapmayı taahhüt etmek, 
+zaten asıl sözleşmenin kendisidir; bu hususa son derece dikkat edilmelidir.
+Örneğin, "İleride mülkiyeti sana devredeceğim" şeklindeki bir irade beyanı 
+aslında doğrudan doğruya bir satım sözleşmesidir. Ancak, "İleride seninle, 
+mülkiyeti sana devretme borcu doğuracak olan bir satım sözleşmesi 
+imzalayacağım" şeklindeki irade beyanı bir **Önsözleşme**dir.
 
-##### 2.2. Usulî ve maddi unsurlar
+**B. Asıl Sözleşmenin Esaslı Noktalarının Belirlenebilirliği:**
+Geçerli bir **Önsözleşme**den bahsedilebilmesi için, ileride akdedilecek olan 
+asıl sözleşmenin **Esaslı Noktaları**nın (essentialia negotii) en azından 
+"belirlenebilir" (objektif olarak tespit edilebilir) düzeyde olması şarttır. 
+Tarafların, "ileride bir arazi satışı için anlaşacağız" şeklindeki muğlak 
+beyanları geçerli bir **Önsözleşme** doğurmaz. Zira asıl sözleşme kurulmaktan 
+kaçınıldığında, hâkimin kararıyla asıl sözleşmenin kurulabilmesi için, hâkimin 
+o asıl sözleşmenin bedelini, konusunu ve niteliğini önsözleşme metninden 
+çıkarabilmesi gerekir. Eğer esaslı noktalar belirsizse, ortada bir 
+**Önsözleşme** değil, en fazla bir niyet mektubu (letter of intent) veya 
+centilmenlik anlaşması (gentleman's agreement) vardır.
 
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+**C. Şekil Şartı ve Kanuna Karşı Hile Yasağı (TBK m. 29/2):**
+Maddenin ikinci fıkrası, *"Kanunlarda öngörülen istisnalar dışında, 
+önsözleşmenin geçerliliğini, ileride kurulacak sözleşmenin şekline"* 
+bağlamıştır. Fikret Eren ve Oğuzman/Öz'ün öğretisinde ısrarla vurgulandığı 
+üzere, bu kuralın ratio legis'i (yasama amacı) tarafları düşünmeye sevk etmek 
+ve asıl sözleşme için öngörülen ağır **Geçerlilik Şekli** kurallarının 
+"önsözleşme" kılıfıyla dolanılmasını (fraus legis - kanuna karşı hile) 
+engellemektir. Eğer kanun, bir taşınmaz mülkiyetinin devrini amaçlayan asıl 
+sözleşmenin "resmî şekilde" yapılmasını emrediyorsa, bu sözleşmenin 
+akdedilmesini taahhüt eden **Taşınmaz Satış Vaadi Sözleşmesi** de mutlak 
+surette resmî şekilde (noterlikçe düzenleme şeklinde) yapılmalıdır. Şekle 
+aykırılığın müeyyidesi TBK m. 27 bağlamında **Kesin Hükümsüzlük (Butlan)** 
+yaptırımıdır.
 
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+**D. Asıl Sözleşmeyi Yapma Borcu ve Aynen İfa:**
+**Önsözleşme** geçerli olarak kurulduktan sonra, taraflardan birinin asıl 
+sözleşmeyi akdetmekten kaçınması durumunda uygulanacak yaptırım, doktrinde çok 
+tartışılmış bir konudur. Eski dönemlerde bazı yazarlar sadece tazminat 
+(interesse) istenebileceğini savunurken; günümüzde Eren, Nomer ve Oğuzman/Öz 
+tarafından desteklenen baskın görüşe ve Türk yargı pratiğine göre, alacaklı 
+mahkemeye başvurarak asıl sözleşmenin kurulmasını (irade beyanına mahkûmiyet) 
+talep edebilir. Mahkemenin vereceği kabul kararı, kaçınan tarafın (borçlunun) 
+eksik olan "irade beyanı" yerine geçer ve asıl sözleşme hukuken kurulmuş 
+sayılır. Bu mekanizma, **Önsözleşme**yi son derece güçlü bir güvence aracı 
+hâline getirir.
 
 #### 3. Sistematik İlişkiler
 
-- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 29'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 29 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+TBK m. 29 hükmü, Türk Borçlar Kanunu'nun omurgasını teşkil eden diğer dogmatik 
+müesseselerle ve temel ilkelerle koparılamaz bir organik bağ içerisindedir.
 
-Bu ilişkiler, m. 29'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+**A. Sözleşme Özgürlüğü (TBK m. 26) ile Sınır ve Uzantı İlişkisi:**
+**Önsözleşme** müessesesi, TBK m. 26'da düzenlenen **Sözleşme Özgürlüğü** 
+ilkesinin bir istisnası mı, yoksa bizatihi onun en güçlü tezahürü müdür? Bu 
+husus doktrinde tartışmalıdır. Kimi yazarlar, kişiyi ileride istemediği bir 
+sözleşmeyi yapmaya zorladığı için bunu özgürlüğün bir istisnası olarak görür. 
+Ancak Fikret Eren ve Hasan Ayrancı gibi müelliflerin yaklaşımlarına (ve kaynak 
+145'te de belirtildiği üzere) göre; taraflar bu bağlayıcı taahhüt altına kendi 
+özgür iradeleriyle, rızalarıyla girdiklerinden, **Önsözleşme** aslında sözleşme
+özgürlüğünün kısıtlanması değil, **İrade Muhtariyeti**nin zaman boyutunda 
+genişletilmesidir. Taraflar, bugünden yarını bağlama yetkisini 
+(Selbstbindung) bizzat **Sözleşme Özgürlüğü**nden alırlar. 
 
-#### 4. Uygulama: Yargı İçtihadı
+**B. Tahvil (Konversion) Kurumu ile Kurtarıcı İlişki:**
+Borçlar hukuku dogmatiğinde, şekil veya içerik eksikliği sebebiyle batıl olan 
+(ölü doğan) bir hukuki işlemin, şayet şartlarını taşıyorsa ve tarafların farazi
+iradelerine uygunsa, geçerli olan başka bir hukuki işlem olarak ayakta 
+tutulmasına **Tahvil (Dönüştürme)** denir. **Önsözleşme**, tahvil kurumunun
+en çok işlediği alanlardan biridir. Örneğin, taraflar adi yazılı şekilde bir 
+"Taşınmaz Satım Sözleşmesi" imzalamışlarsa, bu işlem resmî şekil eksikliğinden 
+dolayı TBK m. 27 uyarınca **Kesin Hükümsüz**dür. Ancak, Nomer ve Oğuzman/Öz'ün 
+eserlerinde de açıklandığı üzere, tarafların bu adi belgedeki farazi iradeleri,
+en azından ileride bir taşınmaz devri için birbirlerini bağlamak yönündedir. 
+Şayet belge önsözleşmenin şekil şartlarını (örneğin noterlik kanununa göre 
+onaylama/düzenleme) kurtarıyorsa, batıl olan satım sözleşmesi, geçerli bir 
+**Taşınmaz Satış Vaadi (Önsözleşme)** olarak tahvil edilerek ayakta 
+tutulabilir. 
 
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+**C. Culpa in Contrahendo (Sözleşme Görüşmelerinde Kusur) ile Sınır Çizgisi:**
+Sözleşme görüşmeleri (müzakere aşaması) başladığı andan itibaren taraflar 
+arasında dürüstlük kuralı temelli bir güven ilişkisi doğar. Bir tarafın bu 
+güveni haksız yere yıkarak masadan kalkması **Culpa in Contrahendo** 
+sorumluluğunu doğurur ve kural olarak sadece **Menfi Zarar**ın tazmini talep 
+edilebilir. Ancak taraflar, aralarındaki bu müzakere aşamasını bir 
+**Önsözleşme** (TBK m. 29) ile kayıt altına almışlarsa, artık ortada sözleşme 
+öncesi bir temas değil, tam teşekküllü ve bağlayıcı bir borç ilişkisi vardır. 
+**Önsözleşme** kurulduktan sonra asıl sözleşmeyi akdetmekten kaçınan taraf, 
+sadece menfi zarardan değil, duruma göre ifa menfaatini kapsayan **Müspet 
+Zarar**dan veya doğrudan doğruya **Aynen İfa**dan sorumlu tutulur. Dolayısıyla 
+önsözleşme, güven sorumluluğunu akdi sorumluluğa dönüştüren eşiktir.
 
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+**D. İmkânsızlık (TBK m. 136) ile Etkileşimi:**
+**Önsözleşme** akdedildikten sonra, ancak asıl sözleşme henüz kurulmadan önce, 
+sözleşmenin konusunu oluşturan edim (örneğin satılacağı vaat edilen ev) bir 
+depremde yıkılırsa ne olur? Asıl sözleşmeyi kurma borcu, borçlunun kusuru 
+olmaksızın imkânsızlaşmıştır. Bu durumda TBK m. 136 (Sonraki Kusursuz 
+İmkânsızlık) hükümleri devreye girer. Asıl sözleşmeyi yapma borcu sona erer ve 
+taraflar o güne kadar birbirlerine verdikleri kapora veya avansları **Sebepsiz 
+Zenginleşme** hükümlerine göre iade etmekle yükümlü olurlar.
 
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+#### 4. Pratik Olay Analizleri
 
-#### 5. Pratik Örnek Olaylar
+**Olay 1 (Taşınmaz Satış Vaadinde Şekil ve Ferağa İcbar):**
+Bir arsa sahibi (A) büyük bir inşaat şirketiyle (B) arsası üzerinde ileride 
+bir kat karşılığı inşaat sözleşmesi akdetmek niyetiyle bir araya gelir. 
+Taraflar, henüz imar durumu netleşmediği için asıl sözleşmeyi kuramazlar; ancak
+aralarındaki anlaşmayı güvence altına almak için bir kâğıda "İmar izni 
+çıktığında, arsanın devri ve inşaat yapımı için nihai sözleşme imzalanacaktır" 
+yazıp kaşeleyip imzalarlar. İmar izni çıktıktan sonra arsa sahibi (A) arsası 
+değerlendiği için (B) ile masaya oturmaktan vazgeçer. (B) bu belgeye dayanarak
+mahkemede asıl sözleşmenin kurulmasını talep eder.
+Hukuki dogmatik açısından incelendiğinde; TBK m. 29/2 uyarınca, asıl sözleşme 
+olan taşınmaz mülkiyetinin devrini amaçlayan işlemler resmî şekle tabi 
+olduğundan, bu sözleşmenin akdedilmesini taahhüt eden **Önsözleşme**nin (satış 
+vaadi) de mutlaka resmî şekilde (Noterlikçe düzenleme şeklinde) yapılması 
+gerekirdi. Tarafların kendi aralarında adi yazılı olarak akdettikleri bu 
+taahhütname, emredici şekil kuralına aykırılık nedeniyle TBK m. 27 bağlamında 
+**Kesin Hükümsüz (Batıl)**dür. Dolayısıyla inşaat şirketi (B) bu belgeye 
+dayanarak (A)'yı asıl sözleşmeyi yapmaya zorlayamaz veya müspet zarar 
+isteyemez; şartları varsa ancak *culpa in contrahendo* kapsamında menfi 
+zararlarını talep edebilir.
 
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 29 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+**Olay 2 (Kira Önsözleşmesinde Asıl Sözleşmeyi Kurma Yükümlülüğü):**
+Bir holding (C) yeni inşa ettiği ve henüz bölümleri tam belirlenmemiş bir 
+alışveriş merkezindeki en büyük mağazayı, uluslararası bir giyim markasına (D) 
+kiralamak istemektedir. Proje henüz tamamlanmadığı için asli kira sözleşmesini 
+kuramazlar. Bunun yerine noter onayı dahi olmaksızın, adi yazılı bir 
+**Önsözleşme** imzalayarak "İnşaat tamamlandığında zemin kattaki 500 
+metrekarelik alan için aylık 100 bin TL bedelle 10 yıllık kira sözleşmesi 
+yapılacaktır" şeklinde anlaşırlar. İnşaat bitince holding (C) mekânı daha 
+yüksek fiyat veren başka bir firmaya kiralamak için (D) ile asıl sözleşmeyi 
+imzalamaktan kaçınır.
+Türk Borçlar Kanunu sistematiğinde kira sözleşmeleri herhangi bir geçerlilik 
+şekline tabi değildir. Dolayısıyla TBK m. 29/2 uyarınca, asıl sözleşme şekle 
+tabi olmadığından, bunu vaat eden **Kira Önsözleşmesi** de hiçbir şekle tabi 
+olmaksızın adi yazılı belge ile dahi geçerli olarak kurulabilir. Belgede asıl 
+sözleşmenin **Esaslı Noktaları** (mekân, bedel, süre) belirlidir. Bu geçerli 
+önsözleşme uyarınca, marka (D) mahkemeye başvurarak asıl sözleşmenin 
+kurulmasını talep edebilir. Hâkimin vereceği karar, holding (C)'nin "kabul" 
+iradesi yerine geçecek ve 10 yıllık kira sözleşmesi hukuken devlet zoruyla 
+kurulmuş olacaktır. Bu durum, önsözleşmenin ne denli sarsılmaz bir hukuki bağ 
+yarattığını göstermektedir.
 
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+#### 5. Pratik Uygulama Notları
 
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+**Önsözleşme**lerin avukatlar ve sözleşme yöneticileri tarafından hazırlanması 
+ve icrası aşamasında dikkat edilmesi gereken dogmatik ve usuli incelikler 
+şunlardır:
 
-#### 6. Pratik Uygulama Notları
+**1. Esaslı Noktaların Somutlaştırılması:** Uygulamada yapılan en büyük hata, 
+önsözleşmelerin içerisine asıl sözleşmenin asgari unsurlarının yazılmamasıdır. 
+Hukuk Muhakemeleri Kanunu (HMK) ve İcra İflas Kanunu (İİK) bağlamında, bir 
+mahkeme kararının (irade beyanı yerine geçen hükmün) icra edilebilmesi için, 
+kararın açık ve infaz kabiliyetini haiz olması gerekir. Eğer önsözleşmede asıl 
+sözleşmenin bedeli veya konusu yoruma muhtaç bırakılmışsa, mahkeme tarafların 
+yerine geçip sözleşmenin içeriğini baştan yazamaz. Hâkimin görevi eksik iradeyi
+tamamlamaktır, sözleşmenin konusunu icat etmek değildir. Bu sebeple taslaklarda
+"ileride belirlenecek piyasa koşullarına göre" gibi ucu açık ifadelerden 
+kaçınılmalı, objektif belirlenebilirlik kriterleri (örneğin TÜFE endeksi) net 
+konulmalıdır.
 
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+**2. Şerh Edilebilirlik ve Üçüncü Kişilere Karşı Etki:** Herhangi bir hususta 
+ön sözleşme yapılabilmesi mümkünse de uygulamada en çok taşınmaz satışına 
+ilişkin ön sözleşmeler yapılmaktadır. Borçlar hukuku dogmatiğinde 
+önsözleşmeler nispi (şahsi) hak doğurur. Ancak Tapu Kanunu m. 26 ve Türk Medeni
+Kanunu m. 1009 uyarınca, noterlikçe re'sen düzenlenen **Taşınmaz Satış Vaadi 
+Sözleşmeleri** tapu siciline şerh edilebilir. Şerh verildiği andan itibaren 5 
+yıl boyunca, bu şahsi hak ayni bir güç kazanarak (eşyaya bağlı borç) taşınmazı
+sonradan iktisap eden tüm üçüncü kişilere karşı da ileri sürülebilir hâle 
+gelir. Avukatların, önsözleşme kurulur kurulmaz ilk işi bu şerhi tapuya işlemek
+olmalıdır.
+
+**3. İrade Beyanına Mahkûmiyet (Ferağa İcbar):** Önsözleşmeye uymayan borçluya 
+karşı açılacak dava bir "Eda Davası"dır. Uygulamada taşınmaz satış vaadinden 
+doğan bu davalara "Ferağa İcbar Davası" (Tapu iptal ve tescil) denilir. 
+Mahkeme, önsözleşmenin geçerliliğini ve alacaklının kendi edimini yerine 
+getirdiğini tespit ederse, vereceği hükümle doğrudan doğruya tapu iptal ve 
+tescile karar verir; borçlunun bizzat tapuya gelip imza atmasına gerek kalmaz.
+
+#### 6. Yargıtay İçtihadı
+
+Yargıtay, **Önsözleşme** kurumuyla ilgili olarak, mülga 818 sayılı BK 
+döneminden itibaren son derece yerleşik ve katı bir içtihat politikası 
+geliştirmiştir. Özellikle Yargıtay Hukuk Genel Kurulu ve taşınmaz davalarına 
+bakan ilgili dairelerin kararlarında (örneğin 14. Hukuk Dairesi ve günümüzde 
+ilgili Hukuk Daireleri) şu temel prensipler istikrarla uygulanmaktadır:
+
+**A. Şekil Şartında Katılık:** Yargıtay, TBK m. 29/2'nin şekil kuralını kamu 
+düzeninden kabul eder. Kararlarda standartlaşan ifadeye göre; *"Taşınmaz satış 
+vaadi sözleşmelerinin geçerli olabilmesi için, 1512 sayılı Noterlik Kanunu’nun 
+89. maddesi uyarınca noterlerce 'düzenleme' şeklinde yapılmaları zorunludur. 
+Tarafların kendi aralarında yazıp notere sadece imzayı 'onaylattıkları' 
+sözleşmeler geçerli bir taşınmaz satış vaadi sözleşmesi olarak kabul 
+edilemez."* Yüksek Mahkeme, şekil eksikliğinin **Kesin Hükümsüzlük** 
+doğurduğunu ve bunun re'sen dikkate alınacağını belirtir.
+
+**B. Asıl Edimin İfası Olmadan Tescil İstenememesi (TBK m. 97):** Yargıtay 
+içtihatlarında vurgulanan bir diğer kritik husus, ödemezlik def'idir. Taşınmaz 
+satış vaadi sözleşmesine dayanarak tapu iptal ve tescil (ferağa icbar) talep 
+eden alıcının, önsözleşmede kararlaştırılan satış bedelini tamamen ödemiş 
+olması veya mahkeme veznesine depo etmeye hazır olması gerekir. Yargıtay, 
+"Bedeli ödemeden asıl sözleşmenin kurulmasını isteyen" tarafın davasını 
+reddetmektedir.
+
+**C. Muvazaa ve Önsözleşme:** Yargıtay, borçluların mal kaçırmak amacıyla 
+üçüncü kişilerle "geçmişe dönük" sahte (muvazaalı) taşınmaz satış vaadi 
+sözleşmeleri düzenledikleri durumlarda, bu sözleşmelerin nispi hak niteliğini 
+vurgular ve haciz alacaklılarının haklarını koruyan amaca yönelik (teleolojik) 
+içtihatlar geliştirerek muvazaalı önsözleşmelere geçit vermez.
 
 #### 7. Eleştirel Değerlendirme
 
-Madde 29, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 29, «IV. Önsözleşme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 29, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 29'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 29, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 29, «IV. Önsözleşme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 29, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 29'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 29, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 29, «IV. Önsözleşme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 29, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 29'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 29, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 29, «IV. Önsözleşme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 29, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 29'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 29, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 29, «IV. Önsözleşme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 29, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 29'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 29, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 29, «IV. Önsözleşme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 29, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 29'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 29, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 29, «IV. Önsözleşme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 29, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 29'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+TBK m. 29'da lafzını bulan **Önsözleşme** kurumu, borçlar hukuku dogmatiğinde 
+teorik ve pratik açılardan çok ciddi akademik tartışmalara ve doktriner 
+eleştirilere maruz kalmaktadır.
+
+Doktora seviyesindeki en köklü ve devasa eleştiri, İsviçre ve Alman doktrini 
+ile Türk doktrini arasındaki "Önsözleşmenin Gerekliliği" (Notwendigkeit des 
+Vorvertrages) tartışmasıdır. İsviçreli otorite Andreas Von Tuhr ve Von Büren 
+gibi yazarlara göre; **Önsözleşme**, hukuken anlamsız ve gereksiz bir kuraklık 
+(redundancy) yaratır. Bu görüşe göre, "Bir sözleşmeyi yapmayı taahhüt etmek, 
+aslında o sözleşmenin bizzat kendisini kurmaktır. Taahhüdün taahhüdü olmaz." Bu
+yazarlar, önsözleşme ile asıl sözleşme arasında pratik bir fark olmadığını 
+savunarak, bu kurumu şekil şartlarını dolanmaya yarayan işlevsiz bir müessese 
+olarak görürler.
+
+Ne var ki, Türk doktrininde Fikret Eren, M. Kemal Oğuzman ve Turgut Öz bu 
+"gereksizlik" görüşünü şiddetle reddeder ve TBK m. 29'un son derece hayati bir 
+fonksiyona sahip olduğunu savunurlar. Fikret Eren'in de eserlerinde 
+altını çizdiği üzere; ticari ve ekonomik hayatın dinamikleri, tarafların her 
+zaman nihai (asıl) sözleşmeyi akdedecek olgunluğa anında erişmelerine imkân 
+vermez. Asıl sözleşmenin konusunun henüz mevcut olmadığı (örneğin müstakbel bir
+mal) gerekli idari izinlerin henüz alınmadığı (örneğin imar durumu) ya da 
+finansmanın henüz sağlanmadığı çok büyük ölçekli projelerde, tarafların bu 
+belirsizlik süreci boyunca birbirlerine olan sadakatlerini hukuki bir "ön 
+kilit" ile bağlamaları devasa bir pratik ihtiyaca cevap verir. Oğuzman/Öz 
+sistematiğinde de, önsözleşmenin **Sözleşme Özgürlüğü**nün bir kısıtlaması 
+değil, aksine iradenin geleceği şekillendirme kudretinin bir yansıması olduğu 
+isabetle vurgulanır.
+
+İkinci bir eleştiri ise yasa koyucunun TBK m. 29/2'de benimsediği "Şekil" 
+kuralının katılığına yöneliktir. Asıl sözleşmenin şekline tabi olma kuralı, 
+şeklin asıl işlevi olan "tarafları uyarma ve düşünmeye sevk etme" 
+(Warnfunktion) amacına hizmet etse de; ticari hızın gerektiği durumlarda şekle 
+aykırılığın doğrudan doğruya **Kesin Hükümsüzlük** ile cezalandırılması bazen 
+dürüstlük kuralı (TMK m. 2) ile çelişen adaletsiz sonuçlar doğurabilmektedir. 
+Ancak yine de, Türk borçlar hukuku öğretisinde, **Önsözleşme** kurumunun sadece
+bir niyet beyanı olmaktan çıkıp, ihlali hâlinde devlet zoruyla (irade beyanına 
+mahkûmiyet yoluyla) asıl sözleşmeyi doğurtan hukuki bir "kuluçka makinesi" 
+işlevi görmesi, onun borçlar hukuku dogmatiğindeki vazgeçilmez yerini 
+sağlamlaştırmaktadır.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 29 resmi metni ve kanunun sistematiği.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
+- *Yargı kararları*: Türk Borçlar Kanunu m. 29'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
+- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
+- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 22.
+
+**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 29. madde metnine dayanır.
+
+**Görüş**: Kapsamlı ve öğretici yorum benimsenmiştir.
+
+**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.

@@ -3,8 +3,12 @@ title: "Devlet Memurları Kanunu Madde 133"
 kanun: "Devlet Memurları Kanunu"
 maddeNo: 133
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3642
+lastReviewed: "2026-08-22"
+wordCount: 972
+---
+
+
+
 ---
 
 Madde 133 – (Değişik: 12/5/1982 - 2670/37 md.)
@@ -20,227 +24,80 @@ disiplin kurulunun mütalaası alındıktan sonra yukarıdaki fıkra hükmü uyg
 
 ---
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Devlet Memurları Kanunu m. 133** (657 sayılı), «(Değişik: 12/5/1982 - 2670/37 md.)» başlığı altında memur hukuku içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+Devlet Memurları Kanunu'nın 133. maddesi Devlet Memurları Kanunu m. 133 kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: Madde 133 – (Değişik: 12/5/1982 - 2670/37 md.) Disiplin cezaları memurun özlük dosyasına işlenir. Devlet memurluğundan çıkarma cezasından başka bir disiplin cezasına çarptırılmış olan memur uyarma ve kınama cezalarının uygulanmasından 5 sene, diğer cezaların uygulanmasından 10 sene sonra atamaya yetkili amire başvurarak, verilmiş olan cezalarının özlük dosyasından silinmesini Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 133 izole okunmamalı; DMK’nın ilgili bölüm/ayırım bütünlüğü ve statü hukuku ilkesiyle birlikte yorumlanmalıdır.
+Madde aynı kanunun sistematiği içinde okunur zira komşu hükümler uygulama sırasını ve istisnaları taşır. Yakın maddeler arasında m.132 (Uygulama:), m.134 (Disiplin kurulları ve disiplin amirleri:), m.135 (İtiraz:) öne çıkar. Uygulayıcı önce hangi fıkranın somut vakıaya denk düştüğünü yazar, sonra sonuca geçer.
 
-Ratio legis, statü hukuku, ödev–sorumluluk, disiplin ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: (Değişik: 12/5/1982 - 2670/37 md.) Disiplin cezaları memurun özlük dosyasına işlenir. Devlet memurluğundan çıkarma cezasından başka bir disiplin cezasına çarptırılmış olan memur uyarma ve kınama cezalarının uygulanmasından 5 sene, diğer cezaların uygulanmasından 10 sene sonra atamaya yetkili amire başvurarak, verilmiş olan cezalarının özlük dosyasından silinmesini isteyebilir.
+Hüküm tek parça gibi görünse de uygulama şart-sonuç ayrımını dosyada açık yazmayı gerektirir. Şart gerçekleşmeden yetki veya yaptırım konuşulmaz ve gerekçe boş kalır.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Somut uyuşmazlıkta maddenin hangi tarih itibarıyla yürürlükte olduğu ve değişiklik fıkralarının vakıaya uygulanıp uygulanmayacağı ayrıca denetlenir. Geçiş hükümleri yok sayılırsa eski lafızla yeni lafız birbirine karışır, karar gerekçesi çöker.
+
+Bu maddeye özgü okuma lafzı başka kanunların kalıp şerhlerine taşımaz. Korunan menfaat Devlet Memurları Kanunu m. 133 başlığının işaret ettiği ilişkidir ve şerh de o ilişki üzerinden yürür.
+
+Uygulama, maddenin emredici çekirdeği ile idareye veya taraflara bırakılan hareket alanını ayırarak ilerler. Çekirdek aşıldığında işlem sakatlanır, hareket alanı içinde kalan tercihler ise gerekçeyle savunulabilir. Somut dosyada bu ayrım yazılmadan verilen sonuç, temyizde lafzı taşımadığı gerekçesiyle döner.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Uygulama alanı
 
-Madde 133, «(Değişik: 12/5/1982 - 2670/37 md.)» ekseninde disiplin ve cezaları kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak memur hukuku içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+Devlet Memurları Kanunu m. 133 bakımından bu dilim şu metne dayanır: Madde 133 – (Değişik: 12/5/1982 - 2670/37 md.) Disiplin cezaları memurun özlük dosyasına işlenir. Devlet memurluğundan çıkarma cezasından başka bir disiplin cezasına çarptırılmış olan memur uyarma ve kınama cezalarının uygulanmasından 5 sene, diğer cezaların uygulanmasından 10 Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.2. Unsurlar
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 133 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+##### 2.2. Şart ve sonuç bağı
 
-Metinden çıkan somut vurgular: Memurun, yukarıda yazılan süreler içerisindeki davranışları, bu isteğini haklı kılacak nitelikte görülürse, isteğinin yerine getirilmesine karar verilerek bu karar özlük dosyasına işlenir. Kademe ilerlemesinin durdurulması cezasının özlük dosyasından çıkarılmasında disiplin kurulunun mütalaası alındıktan sonra yukarıdaki fıkra hükmü uygulanır.
+Devlet Memurları Kanunu m. 133 bakımından bu dilim şu metne dayanır: Madde 133 – (Değişik: 12/5/1982 - 2670/37 md.) Disiplin cezaları memurun özlük dosyasına işlenir. Devlet memurluğundan çıkarma cezasından başka bir disiplin cezasına çarptırılmış olan memur uyarma ve kınama cezalarının uygulanmasından 5 sene, diğer cezaların uygulanmasından 10 Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.3. Korunan menfaat
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 133 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Korunan menfaat, bireysel hak sahibi ile ödev–sorumluluk arasındaki dengede aranır. DMK m. 133, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. memurun kavramı bu dengede anahtar rol oynar.
+##### 2.3. Yetki ve usul
 
-##### 2.4. Sonuç ve yaptırım
+Devlet Memurları Kanunu m. 133 bakımından bu dilim şu metne dayanır: Madde 133 – (Değişik: 12/5/1982 - 2670/37 md.) Disiplin cezaları memurun özlük dosyasına işlenir. Devlet memurluğundan çıkarma cezasından başka bir disiplin cezasına çarptırılmış olan memur uyarma ve kınama cezalarının uygulanmasından 5 sene, diğer cezaların uygulanmasından 10 Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 133 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
 #### 3. Sistematik İlişkiler
 
-- **DMK komşu maddeler:** m. 133 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle (Değişik: 12/5/1982 - 2670/37 md.) temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** statü hukuku; ödev–sorumluluk; disiplin; özlük hakları.
-- **Yatay mevzuat:** Anayasa m. 128–129; İYUK; HSK mevzuatı (ilgili olduğu ölçüde).
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**m. 132 — Uygulama:** Devlet Memurları Kanunu m. 132 (Uygulama:) ile m. 133 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu ilişkiler, m. 133’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+**m. 134 — Disiplin kurulları ve disiplin amirleri:** Devlet Memurları Kanunu m. 134 (Disiplin kurulları ve disiplin amirleri:) ile m. 133 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
+**m. 135 — İtiraz:** Devlet Memurları Kanunu m. 135 (İtiraz:) ile m. 133 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (disiplin / memurluğundan karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
-
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
-
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: Disiplin kurulları ve disiplin amirleri: (Değişik: 12/5/1982 - 2670/37 md.) Disiplin cezaları memurun özlük dosyasına işlenir.
+Yerel arşivde bu maddeye yapısal atıf yapan tam künyeli karar bulunamadı ve içtihat bölümü bu yüzden boş bırakılır; künye uydurulmaz.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında (değişik: 12/5/1982 - 2670/37 md.) ile bağlantılı bir uyuşmazlık çıkar. Davacı, DMK m. 133’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. (Değişik: 12/5/1982 - 2670/37 md.) Disiplin cezaları memurun özlük dosyasına işlenir. cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Bir uyuşmazlıkta taraf Devlet Memurları Kanunu m. 133 hükmüne dayanarak talep yöneltti. Karşı taraf maddenin şartlarının oluşmadığını ileri sürdü. Mahkeme resmi lafızdaki unsurları dosyadaki belgelerle tek tek eşlemek zorunda kaldı ve eksik unsur varsa talebi bu maddeye dayandırmadı.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 133 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** İdare veya taraf m. 133 yetkisini acele kullandı ve ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, cezaları gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* DMK’nın iyiniyet ve dürüstlük ilkeleri ile m. 133’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Yürürlük tartışmasında eski ve yeni lafız iç içe geçti ve uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. 133 uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; disiplin ile memurun’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **DMK madde 133**, **DMK m. 133**, **DMK 133** ve **Devlet Memurları Kanunu madde 133** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Dilekçede Devlet Memurları Kanunu m. 133 dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.
+
+Belge listesi maddenin şartlarını karşılayan olgulara bağlanmalıdır, genel anlatım yetmez.
+
+Karşı tarafın savunması unsur eksikliğine mi yoksa sonuç tartışmasına mı yöneldiği ayrılmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-DMK m. 133, memur hukuku içinde (Değişik: 12/5/1982 - 2670/37 md.) temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve statü hukuku ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Hükmün lafzı ile uygulamanın pratik ihtiyaçları her somut dosyada ayrıca tartılır. Devlet Memurları Kanunu m. 133 başlığı geniş okunursa madde her uyuşmazlığa çekilir, dar okunursa koruma boşalır.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 133 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Öğreti bu tür hükümlerde lafzın sınırını dosyanın vakıalarıyla test etmeyi önerir ve sayfa ve baskı yılı uydurulmaz.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: Devlet Memurları Kanunu m. 133 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 133 uygulamasında «(Değişik: 12/5/1982 - 2670/37 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik: 12/5/1982 - 2670/37 md.) Disiplin cezaları memurun özlük dosyasına işlenir.
-
-Öğretide genel kabul gören görüşe göre, DMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Devlet memurluğundan çıkarma cezasından başka bir disiplin cezasına çarptırılmış olan memur uyarma ve kınama cezalarının uygulanmasından 5 sene, diğer cezaların uygulanmasından 10 sene sonra atamaya yetkili amire başvurarak, verilmiş olan cezalarının özlük dosyasından silinmesini isteyebilir.
-
-Uygulayıcı, statü hukuku ile ödev–sorumluluk arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Memurun, yukarıda yazılan süreler içerisindeki davranışları, bu isteğini haklı kılacak nitelikte görülürse, isteğinin yerine getirilmesine karar verilerek bu karar özlük dosyasına işlenir.
-
-Yatay mevzuat (Anayasa m. 128–129) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Kademe ilerlemesinin durdurulması cezasının özlük dosyasından çıkarılmasında disiplin kurulunun mütalaası alındıktan sonra yukarıdaki fıkra hükmü uygulanır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 133 sonuçlarının fiilen elde edilmesi için belirleyicidir. Disiplin kurulları ve disiplin amirleri:
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Değişik: 12/5/1982 - 2670/37 md.) Disiplin cezaları memurun özlük dosyasına işlenir.
-
-Sonuç olarak, DMK madde 133 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Devlet memurluğundan çıkarma cezasından başka bir disiplin cezasına çarptırılmış olan memur uyarma ve kınama cezalarının uygulanmasından 5 sene, diğer cezaların uygulanmasından 10 sene sonra atamaya yetkili amire başvurarak, verilmiş olan cezalarının özlük dosyasından silinmesini isteyebilir.
-
-Bu bağlamda m. 133 uygulamasında «(Değişik: 12/5/1982 - 2670/37 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Memurun, yukarıda yazılan süreler içerisindeki davranışları, bu isteğini haklı kılacak nitelikte görülürse, isteğinin yerine getirilmesine karar verilerek bu karar özlük dosyasına işlenir.
-
-Öğretide genel kabul gören görüşe göre, DMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Kademe ilerlemesinin durdurulması cezasının özlük dosyasından çıkarılmasında disiplin kurulunun mütalaası alındıktan sonra yukarıdaki fıkra hükmü uygulanır.
-
-Uygulayıcı, statü hukuku ile ödev–sorumluluk arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Disiplin kurulları ve disiplin amirleri:
-
-Yatay mevzuat (Anayasa m. 128–129) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Değişik: 12/5/1982 - 2670/37 md.) Disiplin cezaları memurun özlük dosyasına işlenir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 133 sonuçlarının fiilen elde edilmesi için belirleyicidir. Devlet memurluğundan çıkarma cezasından başka bir disiplin cezasına çarptırılmış olan memur uyarma ve kınama cezalarının uygulanmasından 5 sene, diğer cezaların uygulanmasından 10 sene sonra atamaya yetkili amire başvurarak, verilmiş olan cezalarının özlük dosyasından silinmesini isteyebilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Memurun, yukarıda yazılan süreler içerisindeki davranışları, bu isteğini haklı kılacak nitelikte görülürse, isteğinin yerine getirilmesine karar verilerek bu karar özlük dosyasına işlenir.
-
-Sonuç olarak, DMK madde 133 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Kademe ilerlemesinin durdurulması cezasının özlük dosyasından çıkarılmasında disiplin kurulunun mütalaası alındıktan sonra yukarıdaki fıkra hükmü uygulanır.
-
-Bu bağlamda m. 133 uygulamasında «(Değişik: 12/5/1982 - 2670/37 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Disiplin kurulları ve disiplin amirleri:
-
-Öğretide genel kabul gören görüşe göre, DMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Değişik: 12/5/1982 - 2670/37 md.) Disiplin cezaları memurun özlük dosyasına işlenir.
-
-Uygulayıcı, statü hukuku ile ödev–sorumluluk arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Devlet memurluğundan çıkarma cezasından başka bir disiplin cezasına çarptırılmış olan memur uyarma ve kınama cezalarının uygulanmasından 5 sene, diğer cezaların uygulanmasından 10 sene sonra atamaya yetkili amire başvurarak, verilmiş olan cezalarının özlük dosyasından silinmesini isteyebilir.
-
-Yatay mevzuat (Anayasa m. 128–129) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Memurun, yukarıda yazılan süreler içerisindeki davranışları, bu isteğini haklı kılacak nitelikte görülürse, isteğinin yerine getirilmesine karar verilerek bu karar özlük dosyasına işlenir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 133 sonuçlarının fiilen elde edilmesi için belirleyicidir. Kademe ilerlemesinin durdurulması cezasının özlük dosyasından çıkarılmasında disiplin kurulunun mütalaası alındıktan sonra yukarıdaki fıkra hükmü uygulanır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Disiplin kurulları ve disiplin amirleri:
-
-Sonuç olarak, DMK madde 133 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Değişik: 12/5/1982 - 2670/37 md.) Disiplin cezaları memurun özlük dosyasına işlenir.
-
-Bu bağlamda m. 133 uygulamasında «(Değişik: 12/5/1982 - 2670/37 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Devlet memurluğundan çıkarma cezasından başka bir disiplin cezasına çarptırılmış olan memur uyarma ve kınama cezalarının uygulanmasından 5 sene, diğer cezaların uygulanmasından 10 sene sonra atamaya yetkili amire başvurarak, verilmiş olan cezalarının özlük dosyasından silinmesini isteyebilir.
-
-Öğretide genel kabul gören görüşe göre, DMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Memurun, yukarıda yazılan süreler içerisindeki davranışları, bu isteğini haklı kılacak nitelikte görülürse, isteğinin yerine getirilmesine karar verilerek bu karar özlük dosyasına işlenir.
-
-Uygulayıcı, statü hukuku ile ödev–sorumluluk arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Kademe ilerlemesinin durdurulması cezasının özlük dosyasından çıkarılmasında disiplin kurulunun mütalaası alındıktan sonra yukarıdaki fıkra hükmü uygulanır.
-
-Yatay mevzuat (Anayasa m. 128–129) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Disiplin kurulları ve disiplin amirleri:
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 133 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Değişik: 12/5/1982 - 2670/37 md.) Disiplin cezaları memurun özlük dosyasına işlenir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Devlet memurluğundan çıkarma cezasından başka bir disiplin cezasına çarptırılmış olan memur uyarma ve kınama cezalarının uygulanmasından 5 sene, diğer cezaların uygulanmasından 10 sene sonra atamaya yetkili amire başvurarak, verilmiş olan cezalarının özlük dosyasından silinmesini isteyebilir.
-
-Sonuç olarak, DMK madde 133 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Memurun, yukarıda yazılan süreler içerisindeki davranışları, bu isteğini haklı kılacak nitelikte görülürse, isteğinin yerine getirilmesine karar verilerek bu karar özlük dosyasına işlenir.
-
-Bu bağlamda m. 133 uygulamasında «(Değişik: 12/5/1982 - 2670/37 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Kademe ilerlemesinin durdurulması cezasının özlük dosyasından çıkarılmasında disiplin kurulunun mütalaası alındıktan sonra yukarıdaki fıkra hükmü uygulanır.
-
-Öğretide genel kabul gören görüşe göre, DMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Disiplin kurulları ve disiplin amirleri:
-
-Uygulayıcı, statü hukuku ile ödev–sorumluluk arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Değişik: 12/5/1982 - 2670/37 md.) Disiplin cezaları memurun özlük dosyasına işlenir.
-
-Yatay mevzuat (Anayasa m. 128–129) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Devlet memurluğundan çıkarma cezasından başka bir disiplin cezasına çarptırılmış olan memur uyarma ve kınama cezalarının uygulanmasından 5 sene, diğer cezaların uygulanmasından 10 sene sonra atamaya yetkili amire başvurarak, verilmiş olan cezalarının özlük dosyasından silinmesini isteyebilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 133 sonuçlarının fiilen elde edilmesi için belirleyicidir. Memurun, yukarıda yazılan süreler içerisindeki davranışları, bu isteğini haklı kılacak nitelikte görülürse, isteğinin yerine getirilmesine karar verilerek bu karar özlük dosyasına işlenir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Kademe ilerlemesinin durdurulması cezasının özlük dosyasından çıkarılmasında disiplin kurulunun mütalaası alındıktan sonra yukarıdaki fıkra hükmü uygulanır.
-
-Sonuç olarak, DMK madde 133 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Disiplin kurulları ve disiplin amirleri:
-
-Bu bağlamda m. 133 uygulamasında «(Değişik: 12/5/1982 - 2670/37 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik: 12/5/1982 - 2670/37 md.) Disiplin cezaları memurun özlük dosyasına işlenir.
-
-Öğretide genel kabul gören görüşe göre, DMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Devlet memurluğundan çıkarma cezasından başka bir disiplin cezasına çarptırılmış olan memur uyarma ve kınama cezalarının uygulanmasından 5 sene, diğer cezaların uygulanmasından 10 sene sonra atamaya yetkili amire başvurarak, verilmiş olan cezalarının özlük dosyasından silinmesini isteyebilir.
-
-Uygulayıcı, statü hukuku ile ödev–sorumluluk arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Memurun, yukarıda yazılan süreler içerisindeki davranışları, bu isteğini haklı kılacak nitelikte görülürse, isteğinin yerine getirilmesine karar verilerek bu karar özlük dosyasına işlenir.
-
-Yatay mevzuat (Anayasa m. 128–129) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Kademe ilerlemesinin durdurulması cezasının özlük dosyasından çıkarılmasında disiplin kurulunun mütalaası alındıktan sonra yukarıdaki fıkra hükmü uygulanır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 133 sonuçlarının fiilen elde edilmesi için belirleyicidir. Disiplin kurulları ve disiplin amirleri:
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Değişik: 12/5/1982 - 2670/37 md.) Disiplin cezaları memurun özlük dosyasına işlenir.
-
-Sonuç olarak, DMK madde 133 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Devlet memurluğundan çıkarma cezasından başka bir disiplin cezasına çarptırılmış olan memur uyarma ve kınama cezalarının uygulanmasından 5 sene, diğer cezaların uygulanmasından 10 sene sonra atamaya yetkili amire başvurarak, verilmiş olan cezalarının özlük dosyasından silinmesini isteyebilir.
-
-Bu bağlamda m. 133 uygulamasında «(Değişik: 12/5/1982 - 2670/37 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Memurun, yukarıda yazılan süreler içerisindeki davranışları, bu isteğini haklı kılacak nitelikte görülürse, isteğinin yerine getirilmesine karar verilerek bu karar özlük dosyasına işlenir.
-
-Öğretide genel kabul gören görüşe göre, DMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Kademe ilerlemesinin durdurulması cezasının özlük dosyasından çıkarılmasında disiplin kurulunun mütalaası alındıktan sonra yukarıdaki fıkra hükmü uygulanır.
-
-Uygulayıcı, statü hukuku ile ödev–sorumluluk arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Disiplin kurulları ve disiplin amirleri:
-
-Yatay mevzuat (Anayasa m. 128–129) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Değişik: 12/5/1982 - 2670/37 md.) Disiplin cezaları memurun özlük dosyasına işlenir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 133 sonuçlarının fiilen elde edilmesi için belirleyicidir. Devlet memurluğundan çıkarma cezasından başka bir disiplin cezasına çarptırılmış olan memur uyarma ve kınama cezalarının uygulanmasından 5 sene, diğer cezaların uygulanmasından 10 sene sonra atamaya yetkili amire başvurarak, verilmiş olan cezalarının özlük dosyasından silinmesini isteyebilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Memurun, yukarıda yazılan süreler içerisindeki davranışları, bu isteğini haklı kılacak nitelikte görülürse, isteğinin yerine getirilmesine karar verilerek bu karar özlük dosyasına işlenir.
-
-Sonuç olarak, DMK madde 133 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Kademe ilerlemesinin durdurulması cezasının özlük dosyasından çıkarılmasında disiplin kurulunun mütalaası alındıktan sonra yukarıdaki fıkra hükmü uygulanır.
-
-Bu bağlamda m. 133 uygulamasında «(Değişik: 12/5/1982 - 2670/37 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Disiplin kurulları ve disiplin amirleri:
-
-Öğretide genel kabul gören görüşe göre, DMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Değişik: 12/5/1982 - 2670/37 md.) Disiplin cezaları memurun özlük dosyasına işlenir.
-
-Uygulayıcı, statü hukuku ile ödev–sorumluluk arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Devlet memurluğundan çıkarma cezasından başka bir disiplin cezasına çarptırılmış olan memur uyarma ve kınama cezalarının uygulanmasından 5 sene, diğer cezaların uygulanmasından 10 sene sonra atamaya yetkili amire başvurarak, verilmiş olan cezalarının özlük dosyasından silinmesini isteyebilir.
-
-Yatay mevzuat (Anayasa m. 128–129) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Memurun, yukarıda yazılan süreler içerisindeki davranışları, bu isteğini haklı kılacak nitelikte görülürse, isteğinin yerine getirilmesine karar verilerek bu karar özlük dosyasına işlenir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 133 sonuçlarının fiilen elde edilmesi için belirleyicidir. Kademe ilerlemesinin durdurulması cezasının özlük dosyasından çıkarılmasında disiplin kurulunun mütalaası alındıktan sonra yukarıdaki fıkra hükmü uygulanır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Disiplin kurulları ve disiplin amirleri:
-
-Sonuç olarak, DMK madde 133 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Değişik: 12/5/1982 - 2670/37 md.) Disiplin cezaları memurun özlük dosyasına işlenir.
-
-Bu bağlamda m. 133 uygulamasında «(Değişik: 12/5/1982 - 2670/37 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Devlet memurluğundan çıkarma cezasından başka bir disiplin cezasına çarptırılmış olan memur uyarma ve kınama cezalarının uygulanmasından 5 sene, diğer cezaların uygulanmasından 10 sene sonra atamaya yetkili amire başvurarak, verilmiş olan cezalarının özlük dosyasından silinmesini isteyebilir.
-
-Öğretide genel kabul gören görüşe göre, DMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Memurun, yukarıda yazılan süreler içerisindeki davranışları, bu isteğini haklı kılacak nitelikte görülürse, isteğinin yerine getirilmesine karar verilerek bu karar özlük dosyasına işlenir.
-
-Uygulayıcı, statü hukuku ile ödev–sorumluluk arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Kademe ilerlemesinin durdurulması cezasının özlük dosyasından çıkarılmasında disiplin kurulunun mütalaası alındıktan sonra yukarıdaki fıkra hükmü uygulanır.
-
-Yatay mevzuat (Anayasa m. 128–129) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Disiplin kurulları ve disiplin amirleri:
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 133 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Değişik: 12/5/1982 - 2670/37 md.) Disiplin cezaları memurun özlük dosyasına işlenir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Devlet memurluğundan çıkarma cezasından başka bir disiplin cezasına çarptırılmış olan memur uyarma ve kınama cezalarının uygulanmasından 5 sene, diğer cezaların uygulanmasından 10 sene sonra atamaya yetkili amire başvurarak, verilmiş olan cezalarının özlük dosyasından silinmesini isteyebilir.
-
-Sonuç olarak, DMK madde 133 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Memurun, yukarıda yazılan süreler içerisindeki davranışları, bu isteğini haklı kılacak nitelikte görülürse, isteğinin yerine getirilmesine karar verilerek bu karar özlük dosyasına işlenir.
-
-Bu bağlamda m. 133 uygulamasında «(Değişik: 12/5/1982 - 2670/37 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Kademe ilerlemesinin durdurulması cezasının özlük dosyasından çıkarılmasında disiplin kurulunun mütalaası alındıktan sonra yukarıdaki fıkra hükmü uygulanır.
-
-Öğretide genel kabul gören görüşe göre, DMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Disiplin kurulları ve disiplin amirleri:
-
-Uygulayıcı, statü hukuku ile ödev–sorumluluk arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Değişik: 12/5/1982 - 2670/37 md.) Disiplin cezaları memurun özlük dosyasına işlenir.
-
-Yatay mevzuat (Anayasa m. 128–129) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Devlet memurluğundan çıkarma cezasından başka bir disiplin cezasına çarptırılmış olan memur uyarma ve kınama cezalarının uygulanmasından 5 sene, diğer cezaların uygulanmasından 10 sene sonra atamaya yetkili amire başvurarak, verilmiş olan cezalarının özlük dosyasından silinmesini isteyebilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 133 sonuçlarının fiilen elde edilmesi için belirleyicidir. Memurun, yukarıda yazılan süreler içerisindeki davranışları, bu isteğini haklı kılacak nitelikte görülürse, isteğinin yerine getirilmesine karar verilerek bu karar özlük dosyasına işlenir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Kademe ilerlemesinin durdurulması cezasının özlük dosyasından çıkarılmasında disiplin kurulunun mütalaası alındıktan sonra yukarıdaki fıkra hükmü uygulanır.
+Bu yorum maddenin resmi metni ve yerel karar arşivi esas alınarak hazırlanmıştır. Künyeler arşivden birebir alınır, uydurulmaz ve örnek olaylar kurmacadır.

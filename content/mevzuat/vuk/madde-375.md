@@ -3,8 +3,12 @@ title: "Vergi Usul Kanunu Madde 375"
 kanun: "Vergi Usul Kanunu"
 maddeNo: 375
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3571
+lastReviewed: "2026-08-22"
+wordCount: 947
+---
+
+
+
 ---
 
 Madde 375 – Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli
@@ -12,250 +16,80 @@ edilen usul ve şartlara göre düzeltilir.
 
 ---
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Vergi Usul Kanunu m. 375** (213 sayılı), «Vergi cezalarında yapılan hatalar, bu kanunda vergi» başlığı altında vergi usul hukuku içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+Vergi Usul Kanunu'nın 375. maddesi Vergi Usul Kanunu m. 375 kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: Madde 375 – Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir. --- Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 375 izole okunmamalı; VUK’nın ilgili bölüm/ayırım bütünlüğü ve vergilendirme işlemi ilkesiyle birlikte yorumlanmalıdır.
+Madde aynı kanunun sistematiği içinde okunur zira komşu hükümler uygulama sırasını ve istisnaları taşır. Yakın maddeler arasında m.374 (Ceza kesmede zamanaşımı:), m.376 (Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme), m.377 (BEŞİNCİ KİTAP · Vergi Davaları · Vergi mahkemesinde dava açmaya yetkili olanlar:) öne çıkar. Uygulayıcı önce hangi fıkranın somut vakıaya denk düştüğünü yazar, sonra sonuca geçer.
 
-Ratio legis, vergilendirme işlemi, defter–belge, tarh–tebliğ–tahakkuk ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
+Hüküm tek parça gibi görünse de uygulama şart-sonuç ayrımını dosyada açık yazmayı gerektirir. Şart gerçekleşmeden yetki veya yaptırım konuşulmaz ve gerekçe boş kalır.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Somut uyuşmazlıkta maddenin hangi tarih itibarıyla yürürlükte olduğu ve değişiklik fıkralarının vakıaya uygulanıp uygulanmayacağı ayrıca denetlenir. Geçiş hükümleri yok sayılırsa eski lafızla yeni lafız birbirine karışır, karar gerekçesi çöker.
+
+Bu maddeye özgü okuma lafzı başka kanunların kalıp şerhlerine taşımaz. Korunan menfaat Vergi Usul Kanunu m. 375 başlığının işaret ettiği ilişkidir ve şerh de o ilişki üzerinden yürür.
+
+Uygulama, maddenin emredici çekirdeği ile idareye veya taraflara bırakılan hareket alanını ayırarak ilerler. Çekirdek aşıldığında işlem sakatlanır, hareket alanı içinde kalan tercihler ise gerekçeyle savunulabilir. Somut dosyada bu ayrım yazılmadan verilen sonuç, temyizde lafzı taşımadığı gerekçesiyle döner.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Uygulama alanı
 
-Madde 375, «Vergi cezalarında yapılan hatalar, bu kanunda vergi» ekseninde vergi ve cezalarında kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak vergi usul hukuku içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+Vergi Usul Kanunu m. 375 bakımından bu dilim şu metne dayanır: Madde 375 – Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir. --- Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.2. Unsurlar
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 375 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+##### 2.2. Şart ve sonuç bağı
 
-Metinden çıkan somut vurgular: Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
+Vergi Usul Kanunu m. 375 bakımından bu dilim şu metne dayanır: Madde 375 – Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir. --- Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.3. Korunan menfaat
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 375 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Korunan menfaat, bireysel hak sahibi ile defter–belge arasındaki dengede aranır. VUK m. 375, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. Vergi cezalarında yapılan hatalar kavramı bu dengede anahtar rol oynar.
+##### 2.3. Yetki ve usul
 
-##### 2.4. Sonuç ve yaptırım
+Vergi Usul Kanunu m. 375 bakımından bu dilim şu metne dayanır: Madde 375 – Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir. --- Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 375 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
 #### 3. Sistematik İlişkiler
 
-- **VUK komşu maddeler:** m. 375 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle Vergi cezalarında yapılan hatalar, bu kanunda vergi temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** vergilendirme işlemi; defter–belge; tarh–tebliğ–tahakkuk; ceza ve uzlaşma.
-- **Yatay mevzuat:** GVK; KVK; KDVK; AATUHK; İYUK.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**m. 374 — Ceza kesmede zamanaşımı:** Vergi Usul Kanunu m. 374 (Ceza kesmede zamanaşımı:) ile m. 375 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu ilişkiler, m. 375’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+**m. 376 — Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme** Vergi Usul Kanunu m. 376 (Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme) ile m. 375 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
+**m. 377 — BEŞİNCİ KİTAP · Vergi Davaları · Vergi mahkemesinde dava açmaya yetkili olanlar:** Vergi Usul Kanunu m. 377 (BEŞİNCİ KİTAP · Vergi Davaları · Vergi mahkemesinde dava açmaya yetkili olanlar:) ile m. 375 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (vergi / Vergi
-ziyaı karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
-
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
-
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
+Yerel arşivde bu maddeye yapısal atıf yapan tam künyeli karar bulunamadı ve içtihat bölümü bu yüzden boş bırakılır; künye uydurulmaz.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında vergi cezalarında yapılan hatalar, bu kanunda vergi ile bağlantılı bir uyuşmazlık çıkar. Davacı, VUK m. 375’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir. cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Bir uyuşmazlıkta taraf Vergi Usul Kanunu m. 375 hükmüne dayanarak talep yöneltti. Karşı taraf maddenin şartlarının oluşmadığını ileri sürdü. Mahkeme resmi lafızdaki unsurları dosyadaki belgelerle tek tek eşlemek zorunda kaldı ve eksik unsur varsa talebi bu maddeye dayandırmadı.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 375 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** İdare veya taraf m. 375 yetkisini acele kullandı ve ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, cezalarında gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* VUK’nın iyiniyet ve dürüstlük ilkeleri ile m. 375’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Yürürlük tartışmasında eski ve yeni lafız iç içe geçti ve uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. 375 uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; vergi ile Vergi cezalarında yapılan hatalar’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **VUK madde 375**, **VUK m. 375**, **VUK 375** ve **Vergi Usul Kanunu madde 375** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Dilekçede Vergi Usul Kanunu m. 375 dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.
+
+Belge listesi maddenin şartlarını karşılayan olgulara bağlanmalıdır, genel anlatım yetmez.
+
+Karşı tarafın savunması unsur eksikliğine mi yoksa sonuç tartışmasına mı yöneldiği ayrılmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-VUK m. 375, vergi usul hukuku içinde Vergi cezalarında yapılan hatalar, bu kanunda vergi temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve vergilendirme işlemi ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Hükmün lafzı ile uygulamanın pratik ihtiyaçları her somut dosyada ayrıca tartılır. Vergi Usul Kanunu m. 375 başlığı geniş okunursa madde her uyuşmazlığa çekilir, dar okunursa koruma boşalır.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 375 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Öğreti bu tür hükümlerde lafzın sınırını dosyanın vakıalarıyla test etmeyi önerir ve sayfa ve baskı yılı uydurulmaz.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: Vergi Usul Kanunu m. 375 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 375 uygulamasında «Vergi cezalarında yapılan hatalar, bu kanunda vergi» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Öğretide genel kabul gören görüşe göre, VUK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Uygulayıcı, vergilendirme işlemi ile defter–belge arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Yatay mevzuat (GVK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 375 sonuçlarının fiilen elde edilmesi için belirleyicidir. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Sonuç olarak, VUK madde 375 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Bu bağlamda m. 375 uygulamasında «Vergi cezalarında yapılan hatalar, bu kanunda vergi» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Öğretide genel kabul gören görüşe göre, VUK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Uygulayıcı, vergilendirme işlemi ile defter–belge arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Yatay mevzuat (GVK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 375 sonuçlarının fiilen elde edilmesi için belirleyicidir. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Sonuç olarak, VUK madde 375 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Bu bağlamda m. 375 uygulamasında «Vergi cezalarında yapılan hatalar, bu kanunda vergi» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Öğretide genel kabul gören görüşe göre, VUK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Uygulayıcı, vergilendirme işlemi ile defter–belge arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Yatay mevzuat (GVK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 375 sonuçlarının fiilen elde edilmesi için belirleyicidir. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Sonuç olarak, VUK madde 375 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Bu bağlamda m. 375 uygulamasında «Vergi cezalarında yapılan hatalar, bu kanunda vergi» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Öğretide genel kabul gören görüşe göre, VUK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Uygulayıcı, vergilendirme işlemi ile defter–belge arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Yatay mevzuat (GVK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 375 sonuçlarının fiilen elde edilmesi için belirleyicidir. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Sonuç olarak, VUK madde 375 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Bu bağlamda m. 375 uygulamasında «Vergi cezalarında yapılan hatalar, bu kanunda vergi» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Öğretide genel kabul gören görüşe göre, VUK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Uygulayıcı, vergilendirme işlemi ile defter–belge arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Yatay mevzuat (GVK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 375 sonuçlarının fiilen elde edilmesi için belirleyicidir. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Sonuç olarak, VUK madde 375 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Bu bağlamda m. 375 uygulamasında «Vergi cezalarında yapılan hatalar, bu kanunda vergi» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Öğretide genel kabul gören görüşe göre, VUK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Uygulayıcı, vergilendirme işlemi ile defter–belge arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Yatay mevzuat (GVK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 375 sonuçlarının fiilen elde edilmesi için belirleyicidir. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Sonuç olarak, VUK madde 375 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Bu bağlamda m. 375 uygulamasında «Vergi cezalarında yapılan hatalar, bu kanunda vergi» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Öğretide genel kabul gören görüşe göre, VUK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Uygulayıcı, vergilendirme işlemi ile defter–belge arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Yatay mevzuat (GVK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 375 sonuçlarının fiilen elde edilmesi için belirleyicidir. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Sonuç olarak, VUK madde 375 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Bu bağlamda m. 375 uygulamasında «Vergi cezalarında yapılan hatalar, bu kanunda vergi» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Öğretide genel kabul gören görüşe göre, VUK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Uygulayıcı, vergilendirme işlemi ile defter–belge arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Yatay mevzuat (GVK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 375 sonuçlarının fiilen elde edilmesi için belirleyicidir. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Sonuç olarak, VUK madde 375 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Bu bağlamda m. 375 uygulamasında «Vergi cezalarında yapılan hatalar, bu kanunda vergi» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Öğretide genel kabul gören görüşe göre, VUK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Uygulayıcı, vergilendirme işlemi ile defter–belge arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Yatay mevzuat (GVK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 375 sonuçlarının fiilen elde edilmesi için belirleyicidir. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Sonuç olarak, VUK madde 375 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Bu bağlamda m. 375 uygulamasında «Vergi cezalarında yapılan hatalar, bu kanunda vergi» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Öğretide genel kabul gören görüşe göre, VUK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Uygulayıcı, vergilendirme işlemi ile defter–belge arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Yatay mevzuat (GVK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 375 sonuçlarının fiilen elde edilmesi için belirleyicidir. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Sonuç olarak, VUK madde 375 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Bu bağlamda m. 375 uygulamasında «Vergi cezalarında yapılan hatalar, bu kanunda vergi» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Öğretide genel kabul gören görüşe göre, VUK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Uygulayıcı, vergilendirme işlemi ile defter–belge arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Yatay mevzuat (GVK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 375 sonuçlarının fiilen elde edilmesi için belirleyicidir. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Sonuç olarak, VUK madde 375 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Bu bağlamda m. 375 uygulamasında «Vergi cezalarında yapılan hatalar, bu kanunda vergi» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
-
-Öğretide genel kabul gören görüşe göre, VUK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli edilen usul ve şartlara göre düzeltilir.
-
-Uygulayıcı, vergilendirme işlemi ile defter–belge arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
+Bu yorum maddenin resmi metni ve yerel karar arşivi esas alınarak hazırlanmıştır. Künyeler arşivden birebir alınır, uydurulmaz ve örnek olaylar kurmacadır.

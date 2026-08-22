@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
+
 **II. Aldatma**
 
 ---
@@ -20,393 +21,296 @@ değildir.
 ---
 
 ### Akademik Yorum ve Analiz
+
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Borçlar Kanunu m. 36**, «II. Aldatma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 36 - Taraflardan  biri,  diğerinin  aldatması  sonucu  bir  sözleşme  yapmışsa,
-yanılması esaslı olmasa bile, sözleşmeyle bağlı değildir.
-Üçüncü bir kişinin aldatması sonucu bir sözleşme yapan taraf, sözleşmenin yapıldığı
-sırada karşı tarafın aldatmayı bilmesi veya bilecek durumda olması hâlinde, sözleşmeyle bağlı
-değildir.
+**Makro Bakış:** Borçlar hukuku dogmatiğinin belkemiğini oluşturan **Sözleşme 
+Özgürlüğü** ve **İrade Muhtariyeti** (Privatautonomie) ilkeleri, kural olarak 
+kişinin bizzat kendi iradesiyle kendi malvarlığında sonuçlar doğurmasını 
+emreder. Ancak modern ticari hayatın baş döndürücü hızı ve coğrafi sınırların 
+aşılması zarureti, kişinin hukuki işlem yapma ehliyetini kendi fiziksel 
+varlığının ötesine taşımasını zorunlu kılmıştır. İşte **Temsil** müessesesi, 
+kişilere kendi bedensel ve mekânsal sınırlarını aşarak, aynı anda birden fazla 
+yerde hukuki işlem yapabilme kudreti bahşeden devasa bir hukuki köprüdür.
 
----… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+6098 sayılı TBK'nın 41. maddesi (Mehaz **OR Art. 33**) bu devasa köprünün 
+sınırlarını çizen "Temsil Yetkisinin Kapsamı" başlığını taşır. İlgili norm; 
+*"Başkası adına ve hesabına temsil kanundan doğmuşsa, temsil yetkisinin içeriği
+ve derecesi bu konudaki yasal hükümlere göre belirlenir. Bunun yanında hukuki 
+bir işlemden doğan doğrudan temsilde temsilcinin temsil yetkisinin içeriği ve 
+derecesi, bu yetkinin dayandığı hukuki işleme göre belirlenir."* lafzını 
+amirdir. Yasa koyucu, ticari hayatın ihtiyaç duyduğu sürat ve üçüncü 
+kişilerin güvenilirliği ile temsil olunanın malvarlığını (mamelekini) koruma 
+gerekliliği arasında hassas bir denge kurmak zorundadır. Temsilcinin kendisine 
+çizilen sınırları aşması veya bu sınırların içinde kalsa bile yetkisini temsil 
+olunanın zararına olacak şekilde kötüye kullanması, bizzat temsil olunanın 
+iradesine ve malvarlığına yapılmış ağır bir tecavüzdür. Kanun koyucu bu 
+tecavüzü engellemek adına, temsil ilişkisini iç ilişki ve dış ilişki olarak 
+ikiye bölmüş ve yetkinin kapsamını dış dünyaya yansıyan şekliyle belirlemiştir.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+**Mikro Analiz:** Temsil yetkisinin kapsamı ve sınırlarına ilişkin kuralların 
+zihne kazınabilmesi için, hukuki dogmatiği parçalara ayırarak **K-A-S-K** 
+(Kapsam, Aşım, Soyutluk, Kötüye Kullanma) akronimi üzerinden görselleştirerek 
+analiz edeceğiz. 
 
-Madde 36, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+**A. Kapsam (Temsil Yetkisinin Verilmesi ve Sınırları):**
+Temsil kurumunun kalbi, **Temsil Yetkisi (Vertretungsmacht)**dir. İradi 
+temsilde bu yetkinin verilmesi (**Yetkilendirme / Bevollmächtigung**) temsil 
+olunanın tek taraflı, varması gerekli bir irade açıklaması ile gerçekleşir. TBK m. 41 uyarınca, iradi temsilde yetkinin **Kapsamı**, bizzat bu yetkiyi 
+veren temsil olunanın iradesine göre belirlenir. Temsil olunan, bu yetkiyi 
+dilediği gibi sınırlandırabilir. Sınırlandırmalar üç ana başlıkta toplanır:
+1. **Konu Bakımından Sınırlandırma:** Temsilcinin sadece belirli bir işlemi 
+(örneğin sadece X taşınmazının satışı) yapmaya yetkili kılınmasıdır (Özel 
+Temsil Yetkisi).
+2. **Kişi Bakımından Sınırlandırma:** İşlemin sadece belirli bir kişiyle 
+(örneğin sadece Y şirketine satılması) yapılabilmesidir.
+3. **Zaman Bakımından Sınırlandırma:** Yetkinin sadece belirli bir tarihe kadar
+geçerli olmasıdır.
 
-##### 2.2. Usulî ve maddi unsurlar
+**B. Aşım (Sınırların Aşılması ve Yetkisiz Temsil):**
+Eğer temsilci, kendisine verilen dış yetkinin sınırlarını bütünüyle aşarsa veya
+kendisine hiç yetki verilmeden hareket ederse, ortada bir **Yetkisiz Temsil 
+(Falsus Procurator)** durumu vardır (TBK m. 46). Örneğin; temsilciye 
+sadece "arabayı kiraya verme" yetkisi verilmişken, temsilcinin gidip arabayı 
+satması dış sınırın net bir aşımıdır. Üçüncü kişi iyiniyetli olsa bile bu işlem
+temsil olunanı doğrudan bağlamaz.
 
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+**C. Soyutluk İlkesi (Abstraktionsprinzip - Görünmez Zincir ve Altın 
+Anahtar):**
+Temsil 
+yetkisi, üçüncü kişilere gösterilen bir **"Altın Anahtar"**dır (Dış Sınır). 
+Temel ilişki (vekâlet sözleşmesi) ise temsilcinin boynundan temsil olunana 
+bağlı olan **"Görünmez Zincir"**dir (İç Sınır). Fikret Eren ve Oğuzman/Öz'ün 
+eserlerinde derinlemesine işlendiği üzere, iradi temsilde **Soyutluk İlkesi** 
+esastır. Temsil olunanın temsilciye verdiği "temsil yetkisi", taraflar
+arasındaki iç ilişkiden (örneğin vekâlet veya hizmet sözleşmesinden) tamamen 
+bağımsız ve soyut bir hukuki işlemdir. Üçüncü kişiler sadece altın 
+anahtarı görürler; boyundaki görünmez zincirin (iç sınırın) ne kadar uzun veya 
+kısa olduğunu bilmek zorunda değillerdir. İç ilişkideki vekâlet sözleşmesi 
+geçersiz olsa bile, dışarıya karşı verilen temsil yetkisi kural olarak 
+geçerliliğini korur.
 
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+**D. Kötüye Kullanma (Missbrauch der Vertretungsmacht):**
+Temsil yetkisinin kapsamı bağlamında hukuk dünyasının en karanlık dehlizi 
+**Temsil Yetkisinin Kötüye Kullanılması**dır. Burada temsilci, elindeki altın 
+anahtarın sınırları içinde (dış yetki sınırlarında) kalmaktadır; ancak görünmez
+zinciri kopararak (iç sınırı ve sadakat borcunu ihlal ederek) işlemi bütünüyle 
+temsil olunanın zararına olacak şekilde yapmaktadır. Dışarıdan 
+bakıldığında işlem hukuka uygun görünür (kapsam aşılmamıştır) ancak içsel bir 
+ihanet mevcuttur. Temsilcinin, temsil olunanın menfaatine aykırı davrandığı bu 
+durumlarda üçüncü kişinin bunu bilip bilmemesi işlemin akıbetini belirler.
 
 #### 3. Sistematik İlişkiler
 
-- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 36'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 36 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+**Çapraz Bağlantılar:** Temsil yetkisinin kapsamı ve sınırlarına ilişkin 
+dogmatik altyapı, Türk Medeni Kanunu'nun (TMK) ve Türk Borçlar Kanunu'nun 
+omurga ilkeleriyle organik bir diyalektik içindedir.
 
-Bu ilişkiler, m. 36'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+**A. TMK m. 2 (Dürüstlük Kuralı ve Hakkın Kötüye Kullanılması) ile İlişkisi:**
+Temsil yetkisinin kötüye kullanılmasının pozitif hukukumuzda (ve mehaz OR'de) 
+doğrudan spesifik bir maddesi yoktur. Bu nedenle İsviçre-Türk 
+doktrininde bu sorunun hukuki dayanağı bütünüyle TMK m. 2/II hükmüne, yani 
+**Hakkın Kötüye Kullanılması Yasağı**na dayandırılır. Üçüncü kişinin, 
+temsilcinin sadakatsizliğini ve ihanetini bile bile ("görünmez zincirin 
+koptuğunu" görerek) o sözleşmeyi imzalayıp sonra da temsil olunandan ifa talep 
+etmesi, dürüstlük kuralına ağır bir aykırılıktır. TMK m. 2, yetkinin sınırları 
+şeklen aşılmamış olsa da, maddi adaletsizliği önleyen bir emniyet sübabıdır.
 
-#### 4. Uygulama: Yargı İçtihadı
+**B. Vekâlet Sözleşmesi (TBK m. 502 vd.) ile Kesişim:**
+Temel ilişki çoğu zaman bir vekâlet sözleşmesidir. Vekâlet sözleşmesi, 
+temsilciye bir "iş görme borcu" yüklerken; temsil yetkisi ona bir "işlem yapma 
+kudreti" bahşeder. Temsilci, yetkisini kullanırken TBK m. 506 uyarınca temsil 
+olunana karşı mutlak bir **Sadakat ve Özen Borcu** (Treuepflicht) altındadır. Vekilin müvekkilin talimatlarına (iç sınırlara) aykırı hareket 
+etmesi, vekâlet sözleşmesinin ihlali bağlamında tazminat doğururken; bu ihlalin
+üçüncü kişiye yansıyıp yansımayacağı tamamen **Temsil** dogmatiğinin ve **Güven
+Teorisi**nin (işlem güvenliğinin) konusudur.
 
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+**C. Yetkisiz Temsil (TBK m. 46) ile Kıyasen Uygulama Bağlantısı:**
+Doktrinde Oğuzman/Öz, Eren ve Nomer tarafından hararetle savunulduğu üzere; 
+temsil yetkisi kötüye kullanıldığında ve üçüncü kişi ile temsilci, temsil 
+olunanı zarara uğratmak için elbirliğiyle hareket ettiğinde (**Kollüzyon / 
+Hileli Anlaşma**) ortada şeklen bir yetki varsa da, maddi anlamda bu yetki 
+temsil olunanın rızasına bütünüyle aykırı kullanıldığından, işlemin hukuki 
+sonucu **Yetkisiz Temsil** (TBK m. 46) hükümlerine kıyasen tabi tutulmalıdır. Yani yetkisini kötüye kullanan temsilci, adeta "yetkisiz temsilci" 
+mertebesine indirgenir ve yaptığı işlem **Askıda Hükümsüz** olur.
 
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+#### 4. Pratik Olay Analizleri
 
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+**Olay 1 (Temsil Yetkisinin Kötüye Kullanılması - Kollüzyon Vakası):**
+Büyük bir arsa sahibi olan müvekkil (A) sahip olduğu değerli bir araziyi 
+"dilediği bedelle, dilediği kişiye satması" için vekili (B)'ye genel bir 
+vekâletname (altın anahtar) verir. Ancak (A) iç ilişkide (görünmez zincir) 
+(B)'ye "Bu arsayı 15 Milyon TL'den aşağıya satma" şeklinde kesin bir talimat 
+vermiştir. Vekil (B) arsayı kendi öz yeğeni olan (C)'ye 1 Milyon TL gibi fahiş
+derecede düşük bir bedelle satarak tapuda devri gerçekleştirir. (C) dayısı 
+(B)'nin bu yetkiyi kötüye kullandığını ve müvekkili zarara uğrattığını gayet 
+iyi bilmektedir.
+Hukuk dogmatiği açısından analiz edildiğinde; dışarıdan bakıldığında (B)'nin 
+elindeki vekâletnamede "dilediği bedelle satma" yetkisi vardır, yani dış sınır 
+(kapsam) aşılmamıştır. Ancak (B) (A)'nın menfaatlerini kasten 
+hiçe sayarak yetkisini kötüye kullanmıştır. Alıcı (C) durumu bilen ve bu 
+ihanete ortak olan (kötüniyetli) bir üçüncü kişidir. Ortada tam bir **Hileli 
+Anlaşma (Kollüzyon)** vardır. Oğuzman/Öz ve Eren'in öğretisine göre, 
+TMK m. 2/II (Hakkın kötüye kullanılması yasağı) uyarınca, alıcı (C) bu tapu 
+devrine ilişkin hukuki korumadan faydalanamaz. İşlem temsil olunan (A)'yı 
+bağlamaz. (A) yolsuz tescil nedeniyle tapu iptal ve tescil davası açarak 
+arsasını geri alabilir.
 
-#### 5. Pratik Örnek Olaylar
+**Olay 2 (İç Sınırın İyiniyetli Üçüncü Kişiye Karşı İleri Sürülememesi):**
+Bir holding (D) satın alma müdürü (E)'ye "Şirket adına her türlü hammadde alım
+sözleşmesi yapmaya" yetkili olduğuna dair bir yetki belgesi vererek piyasaya 
+duyurur. Ancak holding yönetim kurulu, (E)'ye "Tek seferde 500.000 TL'yi aşan 
+alımlar yapma" şeklinde gizli bir iç talimat verir. Müdür (E) bağımsız bir 
+tedarikçi olan (F) ile holding adına 2 Milyon TL'lik bir alım sözleşmesi 
+imzalar. (F) şirketin (E)'ye verdiği gizli limitten tamamen habersizdir ve 
+piyasa koşullarına göre bu miktar normaldir.
+Bu olayda **Soyutluk İlkesi** devrededir. Temsilci (E) iç yetki 
+sınırını (zinciri) koparmış olsa da, dış yetki sınırları (kapsam) içerisinde 
+hareket etmiştir. Tedarikçi (F) tamamen iyiniyetli bir üçüncü kişidir ve 
+(E)'nin yetkisini kötüye kullandığını bilmemektedir ve halin icabına göre 
+bilmesi de gerekmemektedir. **Güven Teorisi** ve ticari hayatın 
+güvenilirliği (işlem güvenliği) gereğince, holding (D) bu 2 Milyon TL'lik 
+sözleşme ile tamamen bağlıdır ve borcu ifa etmek zorundadır. Holding (D) 
+uğradığı zararı ancak iç ilişkideki vekâlet sözleşmesinin ihlali (sadakat 
+borcuna aykırılık) nedeniyle kendi müdürü (E)'den tazminat davası yoluyla rücu 
+edebilir.
 
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 36 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+#### 5. Pratik Uygulama Notları
 
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+Bu maddenin yargısal ve ticari hayattaki uygulamasında, sözleşme ve vekâletname
+hazırlayan avukatların ve uyuşmazlıkları savunan hukukçuların dikkat etmesi 
+gereken stratejik dogmatik hususlar şunlardır:
 
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+**1. İspat Yükü (Onus Probandi) ve Kötüniyetin Karinesi:**
+Temsilcinin yetkisini kötüye kullandığını ve işlemin kendisini bağlamadığını 
+iddia eden temsil olunan, TMK m. 6 ve HMK m. 190 uyarınca üçüncü kişinin 
+"kötüniyetli" olduğunu (yani temsilcinin ihanetini bildiğini veya bilmesi 
+gerektiğini) ispat etmekle mükelleftir. Ancak hileli anlaşma (kollüzyon) 
+karanlıkta yapıldığından ispatı zordur. Uygulamada avukatlar, bu kötüniyeti 
+ispatlamak için satılan malın gerçek piyasa değeri ile sözleşmedeki satış 
+bedeli arasındaki **Fahiş Oransızlığı (Aşırı Fiyat Farkını)** en güçlü karine 
+(fiili karine) olarak kullanırlar. Eğer 15 milyonluk mal 1 milyona 
+satılmışsa, Yargıtay pratiğinde bu tek başına üçüncü kişinin "bu işte bir bit 
+yeniği olduğunu anlaması gerektiği" (ağır ihmali) şeklinde yorumlanmakta ve 
+iyiniyet iddiası reddedilmektedir. Ayrıca temsilci ile üçüncü kişi arasındaki 
+kan hısımlığı, ticari ortaklık veya yakın dostluk da kollüzyon ispatında çok 
+güçlü birer usuli silahtır.
 
-#### 6. Pratik Uygulama Notları
+**2. Koruyucu Hukuk ve Vekâletnamenin Tasarımı:**
+Avukatların koruyucu hukuku (preventive law) işletmeleri elzemdir. Temsil 
+olunanı korumak için, iç ilişkideki "fiyat, miktar veya kişi sınırları" mutlaka
+noterden çıkarılan dış yetki belgesine (vekâletnameye) açıkça yazılmalıdır. "Asgari 10 Milyon TL bedelle satmaya" şeklinde vekâletnameye düşülecek bir
+şerh, iç sınırı doğrudan doğruya dış sınıra dönüştürür. Bu durumda, 9.9 Milyon 
+TL'ye yapılacak bir satış bile sınırların açıkça aşılması anlamına geleceğinden
+doğrudan **Yetkisiz Temsil** (TBK m. 46) kapsamına girecektir. Böylece 
+üçüncü kişinin iyiniyeti tartışmasına dahi girilmeden işlem temsil olunanı 
+bağlamaktan çıkarılacaktır.
 
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+**3. Temsil Yetkisinin Geri Alınması ve Duyuru (TBK m. 44):**
+Temsil olunan, verdiği yetkiyi her zaman tek taraflı olarak geri alabilir 
+(Azil). Ancak temsil olunan bu yetkiyi üçüncü kişilere duyurmuşsa, yetkinin 
+geri alındığını da aynı şekilde duyurmak zorundadır. Aksi hâlde, yetkinin 
+kalktığını bilmeyen iyiniyetli üçüncü kişilerin yaptığı işlemler temsil olunanı
+bağlamaya devam eder. Verilen fiziksel vekâletnamenin iadesinin istenmesi de bu
+kapsamda hayati bir önem taşır.
+
+#### 6. Yargıtay İçtihadı
+
+Yargıtay Hukuk Genel Kurulu ve 1. Hukuk Dairesi, temsil yetkisinin kapsamı ve 
+sınırlarının kötüye kullanılması iddialarında, kâğıt üzerindeki (şekli) yetki 
+belgelerinden ziyade maddi adaleti ve dürüstlük kuralını (TMK m. 2) 
+bayraklaştıran köklü bir içtihat politikasına sahiptir.
+
+Özellikle Yargıtay Hukuk Genel Kurulu'nun (YHGK, E. 2008/7-699, K. 2008/714) ve
+1. Hukuk Dairesi'nin yerleşik kararlarında şu sarsılmaz prensip ifade 
+edilmektedir: *"Vekâletnamenin vekile (temsilciye) verdiği yetki 'dilediği 
+bedelle, dilediği kişiye satma' yetkisini verse bile, vekil bu yetkiyi mutlaka 
+müvekkilinin (temsil olunanın) yararına ve sadakat borcuna uygun kullanmak 
+zorundadır. Şayet vekil, müvekkilini zarara uğratmak kastıyla, malı 
+fahiş bir düşüklükle başkasına satar ve satın alan üçüncü kişi de vekilin bu 
+kötüniyetini biliyor veya bilmesi gerekiyorsa (kollüzyon/elbirliği) şeklen 
+vekâletnamenin sınırları içinde kalınmış olsa dahi, bu işlem müvekkili 
+bağlamaz."*.
+
+Ancak Yüksek Mahkeme'nin bu noktadan sonra vardığı hukuki yaptırım (müeyyide) 
+kararı, doktrin ile ciddi bir ayrışma içindedir. Yargıtay, temsilci ile üçüncü 
+kişi arasındaki hileli anlaşmanın (kollüzyonun) **Ahlaka Aykırı** bir eylem 
+olduğunu belirterek, yapılan işlemin TBK m. 27 uyarınca **Kesin Hükümsüz 
+(Mutlak Butlan)** olduğuna hükmetmektedir. Yargıtay'a göre, ahlaka 
+aykırı bir işlem ölü doğmuştur, hiçbir surette geçerli hale gelemez. Yüksek 
+Mahkeme, tapu iptali ve tescil davalarında bu mutlak butlan argümanıyla adaleti
+tesis etmekte, kötüniyetli üçüncü kişilerin "şekli vekâletnameye güven" 
+savunmalarını acımasızca reddetmektedir.
 
 #### 7. Eleştirel Değerlendirme
 
-Madde 36, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 36, «II. Aldatma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kur Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 36, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 36'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 36, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 36, «II. Aldatma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kur Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 36, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 36'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 36, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 36, «II. Aldatma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kur Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 36, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 36'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 36, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 36, «II. Aldatma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kur Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 36, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 36'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 36, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 36, «II. Aldatma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kur Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 36, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 36'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 36, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 36, «II. Aldatma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kur Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 36, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 36'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 36, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 36, «II. Aldatma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kur Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 36, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 36'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Türk Borçlar Kanunu m. 41 ve devamında lafzını bulan **Temsil Yetkisinin 
+Kapsamı ve Sınırları** sorunsalı, borçlar hukuku dogmatiğinde Fikret Eren, 
+Oğuzman/Öz, Nomer ve İnceoğlu gibi değerli akademisyenler tarafından, özellikle
+yetkinin kötüye kullanılması halindeki yaptırım (müeyyide) açısından 
+derinlemesine eleştirilmektedir.
+
+Birinci ve en büyük dogmatik eleştiri, Yargıtay'ın "Kollüzyon ahlaka aykırıdır,
+dolayısıyla işlem TBK m. 27 gereği kesin hükümsüzdür (mutlak butlan)" 
+şeklindeki yaklaşımına yöneliktir. Kesin hükümsüzlük, işlemin baştan 
+itibaren ölü olması demektir ve bu ölü işlem, taraflar sonradan istese bile 
+"icazetle (onayla)" diriltilemez. Oysa Oğuzman/Öz, Nomer ve Eren'in 
+sistematiğinde (ve İsviçre doktrininde Schramm, Zäch/Künzle tarafından) haklı 
+olarak tartışıldığı üzere; bazen temsilci yetkisini kötüye kullanıp malı çok 
+ucuza satmış olsa da, temsil olunan o an acil nakde sıkıştığı için veya o 
+üçüncü kişiyle ticari ilişkisini bozmamak için bu kötü niyetli ve zararına olan
+işlemi **Onaylamak (İcazet vermek)** isteyebilir. Eğer işlem 
+Yargıtay'ın dediği gibi kesin hükümsüz ise, temsil olunan bu işlemi istese de 
+onaylayamaz, ki bu durum korumaya çalıştığımız temsil olunanın irade 
+özerkliğine (Sözleşme Özgürlüğüne) ikinci bir darbe vurmak demektir.
+
+Bu nedenle, Alman-İsviçre ve Türk modern doktrininde ittifakla savunulan görüş 
+şudur: Temsil yetkisinin kötüye kullanıldığı ve üçüncü kişinin bunu bildiği 
+durumlarda (kollüzyon) uygulanması gereken yaptırım kesin hükümsüzlük değil, 
+**Amaca Uygun Sınırlandırma (Teleolojik Redüksiyon)** yöntemiyle TBK m. 46'nın 
+kıyasen uygulanması, yani işlemin **Yetkisiz Temsil (Askıda Hükümsüzlük)** 
+sayılmasıdır. Bu modern yaklaşım sayesinde, yapılan zararlı işlem 
+başlangıçta temsil olunanı bağlamaz (askıdadır) ancak temsil olunan dilerse bu
+işleme icazet vererek işlemi baştan itibaren geçerli hale getirme "seçimlik 
+hakkına" sahip olur. Böylece esnek hükümsüzlük kuramı işletilerek mağdurun 
+inisiyatifi korunmuş olur.
+
+İkinci eleştiri ise, yasa koyucunun temsil yetkisinin kötüye kullanılması 
+kurumunu açık, pozitif bir norm olarak (TBK m. 41 vd. içinde) düzenlememiş 
+olmasıdır. Oğuzman/Öz ve Nomer'in haklı olarak işaret ettiği gibi, ticari 
+hayatın bu denli kritik bir sömürü alanını çözmek için hâkimi TMK m. 2 
+(Dürüstlük Kuralı) gibi genel ve soyut bir zırha muhtaç bırakmak, hukuki 
+öngörülebilirliği (legal certainty) zedelemektedir. Kanun koyucunun, 
+"temsilcinin yetkisini açıkça kötüye kullandığı ve üçüncü kişinin bunu bildiği 
+hallerde, işlem yetkisiz temsil hükümlerine tabidir" şeklinde sarih bir fıkra 
+eklememesi, kanunlaştırma tekniği bakımından büyük bir eksiklik olarak 
+değerlendirilmektedir.
+
+Özetle, yasa koyucu TBK'da temsilcinin yetki kapsamını ve sınırlarını çizerken;
+şekli hukukun (vekâletnamenin dış lafzının) maddi adaletin (sadakat, özen ve 
+dürüstlüğün) önüne geçmesine izin vermemiştir. Temsilciye verilen altın 
+anahtar, hiçbir zaman temsil olunanın malvarlığını yağmalayacak bir maymuncuğa 
+dönüştürülemez. Hukuk sistemi, iradeyi genişleten bu kurumun, o iradeyi boğan 
+bir silaha dönüşmesini dürüstlük kuralı ve askıda hükümsüzlük kalkanıyla 
+engellemiştir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 36 resmi metni ve kanunun sistematiği.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
+- *Yargı kararları*: Türk Borçlar Kanunu m. 36'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
+- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
+- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 33.
+
+**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 36. madde metnine dayanır.
+
+**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
+
+**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.

@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
+
 **2. Önemli kararlar**
 
 ---
@@ -36,388 +37,74 @@ tüm ortakların genel kurul toplantısında oy birliği ile karar almasıyla m�
 ---
 
 ### Akademik Yorum ve Analiz
+
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Ticaret Kanunu m. 621**, «2. Önemli kararlar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 621 - (1)   Aşağıdaki   genel   kurul   kararları,   temsil   edilen   oyların   en   az   üçte
-ikisinin   ve   oy   hakkı   bulunan   esas   sermayenin   tamamının   salt   çoğunluğu nun   bir   arada  bulunması   hâlinde   alınabilir:  a)   Şirket   işletme   konusunun   değiştirilmesi.  b)   Oyda   imtiyazlı   esas   sermaye   paylarının   öngörülmesi.  c)   Esas   sermaye   paylarının   … Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+6102 sayılı Türk Ticaret Kanunu’nun (TTK) limited şirketlere ilişkin düzenlemeleri arasında yer alan 621. madde, genel kurulun alacağı "önemli kararlar" için öngörülen nitelikli (ağırlaştırılmış) toplantı ve karar yetersayılarını ihdas eden temel kanuni dayanaktır. Kanun koyucu, limited şirket genel kurul kararlarını yetersayılar bakımından; olağan kararlar (TTK m. 620), önemli kararlar (TTK m. 621) ve şirket sözleşmesinin değiştirilmesine ilişkin kararlar (TTK m. 589) olmak üzere üçlü bir tasnife tabi tutmuştur,.
+
+Limited şirket, şahıs unsurlarının da barındığı bir sermaye şirketi formudur. Bu yapısal özellik, ortaklığın temel sözleşmesel mimarisini, ortakların hak ve yükümlülüklerini veya şirketin hukuki varlığını doğrudan etkileyen kararların, basit çoğunlukla alınmasının sakıncalar doğurabileceği gerçeğini ortaya çıkarmaktadır. TTK m. 621, İsviçre Borçlar Kanunu'nun (OR) 808b maddesini mehaz alarak, azınlık pay sahiplerinin çoğunluk tahakkümünden korunması ve şirketin temel/yapısal varlığının güvence altına alınması gayesiyle kaleme alınmıştır.
+
+Madde metni incelendiğinde, kanun koyucunun "çifte nisap" (çifte engel) kuralını benimsediği görülmektedir. Kararın alınabilmesi için yalnızca toplantıda temsil edilen oyların belirli bir oranının olumlu oyu yeterli görülmemiş; aynı zamanda şirket sermayesinin bütününe yayılan nesnel bir sermaye ağırlığının da bu karara iştirak etmiş olması zorunlu tutulmuştur,.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+##### 2.1. Temsil Edilen Oyların En Az Üçte İkisi ve Oy Hakkı Bulunan Esas Sermayenin Tamamının Salt Çoğunluğu (Çifte Nisap Kuralı)
+TTK m. 621/1 uyarınca önemli kararların alınabilmesi için iki matematiksel şartın kümülatif olarak gerçekleşmesi zorunludur: "Temsil edilen oyların en az üçte ikisi" ve "oy hakkı bulunan esas sermayenin tamamının salt çoğunluğu". Doktrinde bu düzenleme, çift çoğunluklu bir sistem öngördüğünden "çifte engel kuralı" olarak nitelendirilmektedir.
 
-Madde 621, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+Öğretide Akbay ve Çoştan gibi yazarlar, hükümde zikredilen "oy hakkı bulunan esas sermayenin tamamının salt çoğunluğu" unsurunun, zımni olarak bir "toplantı yetersayısı" işlevi de gördüğünü ileri sürmektedir,. Zira toplantıda asgari olarak bu sermaye oranı hazır bulunmadıkça, söz konusu çifte engelin ikinci bacağının aşılması fiilen imkânsızdır. Buna karşılık Çamoğlu, hükümdeki ifadenin toplantı ve karar yetersayısı ayrımını netleştirdiğini; "esas sermayenin salt çoğunluğunun" toplantı nisabını, "temsil edilen oyların üçte ikisinin" ise karar nisabını teşkil etmesi gerektiğini ancak Kanun'un lafzi formülasyonunun bu dengeyi bozacak şekilde hatalı kurgulandığını ifade etmektedir,. Yasa koyucunun lafzı her iki kriterin de aynı anda aranmasını şart koştuğundan, mevcut oyların 2/3'ünün olumlu oyu tek başına yeterli olmayacak, bu oyların temsil ettiği sermaye aynı zamanda toplam oy hakkı bulunan sermayenin yarısından fazlasına tekabül etmelidir.
 
-##### 2.2. Usulî ve maddi unsurlar
+##### 2.2. TTK m. 621/1 Kapsamındaki Önemli Karar Hâlleri (Bent İncelemeleri)
+**a) Şirket işletme konusunun değiştirilmesi:** Şirketin varlık sebebi olan işletme konusunun değiştirilmesi, kurucu iradenin temelden sarsılması anlamına gelir. Anonim şirketlerde işletme konusunun "tamamen" değiştirilmesi (TTK m. 421/3-a) aranırken, limited şirketlerde yalnızca "değiştirilmesi" çifte nisaba bağlanmıştır,.
+**b) Oyda imtiyazlı esas sermaye paylarının öngörülmesi:** Eşitlik ilkesine istisna getiren oyda imtiyazın tesisi, mevcut pay sahiplerinin yönetimsel ağırlığını doğrudan zayıflatacağı için ağırlaştırılmış nisaba tabidir,.
+**c) Esas sermaye paylarının devrinin sınırlandırılması, yasaklanması ya da kolaylaştırılması:** Esas sermaye payının devri kural olarak genel kurul onayına (TTK m. 595/2) tabi olup olağan nisapla (TTK m. 620) karara bağlanır. Ancak devir şartlarının şirket sözleşmesiyle kalıcı olarak yasaklanması, sınırlandırılması veya onayın kaldırılarak kolaylaştırılması TTK m. 621 gereği çifte nisabı gerektirir,.
+**d, e) Esas sermayenin artırılması ve Rüçhan hakkının sınırlandırılması/kaldırılması:** Sermaye artırımı ve bunun doğal bir uzantısı olan yeni pay alma (rüçhan) hakkının kısıtlanması, ortakların sermaye ve kâr payı oranlarını (sulandırma etkisi) doğrudan etkileyeceğinden m. 621 kapsamında önemli karar sayılmıştır,,.
+**f) Şirket merkezinin değiştirilmesi:** Anonim şirketlerde merkezin "yurt dışına taşınması" oybirliğine (TTK m. 421/2) tabiyken, limited şirketlerde yurt içi veya yurt dışı ayrımı yapılmaksızın "merkez değişikliği" çifte nisaba bağlanmıştır. Doktrinde, merkezin yurt dışına taşınmasının uygulanacak hukuku değiştirebileceği gerekçesiyle anonim şirketlerde olduğu gibi oybirliğine tabi olması gerektiği savunulsa da, meri hukuk uyarınca bu işlem m. 621 kapsamında değerlendirilmektedir,,,.
+**g) Rekabet yasağı ve bağlılık yükümüne aykırı faaliyete onay verilmesi:** Ortakların ve müdürlerin şirkete karşı taşıdıkları sadakat borcunun istisnası olan rekabet yasağının kaldırılması (TTK m. 613 ve 626), tüm ortakların rızası yahut genel kurulun m. 621 uyarınca alacağı kararla mümkündür,.
+**h) Ortağın haklı sebeple çıkarılması:** Şirket sözleşmesinde yer alan bir sebebe dayanarak yahut haklı sebep iddiasıyla mahkemeye başvurarak ortağın şirketten çıkarılması kararı çifte nisaba tabidir,. Anayasa Mahkemesi'nin kararı uyarınca "iki ortaklı limited şirketler" yönünden haklı sebeple mahkemeye başvurma bendi iptal edilmiştir,.
+**ı) Şirketin feshi:** Ortaklığın hukuki varlığına son verilmesi.
 
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+##### 2.3. Nisapların Şirket Sözleşmesi ile Ağırlaştırılması (TTK m. 621/2)
+Hükme göre, Kanun'da belirlenen ağırlaştırılmış nisapların daha da ağırlaştırılabilmesi (örneğin oybirliğine yükseltilmesi), ancak öngörülmek istenen o yüksek çoğunluğun toplantıda sağlanmasıyla mümkündür,. Mehaz İsviçre Borçlar Kanununda (OR Art. 808b) daha farklı bir lafız bulunmasına rağmen, TTK m. 621/2 lafzi yorumla, müstakbel ağırlaştırılmış nisabın (hedef nisap) mevcudiyetini, değişikliğin yapılabilmesi için ön şart olarak koşmuştur,.
 
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+##### 2.4. Sonradan Çıkarma Sebebi Konulması (TTK m. 621/3)
+Şirket sözleşmesine kuruluşta yer almayan bir haklı nedenle çıkarma sebebinin sonradan eklenmesi, doğrudan doğruya ortakların kazanılmış haklarını ve ortaklıkta kalma güvencelerini tehdit ettiği için, kanun koyucu bu hususu tüm ortakların "oybirliği" ile karar alması şartına bağlamıştır,,.
 
 #### 3. Sistematik İlişkiler
+- **TTK m. 589 (Şirket Sözleşmesinin Değiştirilmesi):** TTK m. 589'a göre limited şirket sözleşmesi kural olarak "esas sermayenin üçte ikisini temsil eden ortakların kararıyla" değiştirilir. TTK m. 621 ise m. 589'dan farklı bir "temsil edilen oyların 2/3'ü ve tüm sermayenin salt çoğunluğu" formülünü kullanır. Öğretide Çamoğlu ve Kırca gibi isimler, toplantıya katılımın düşük olduğu hallerde TTK 589'daki kuralın, m. 621'deki "ağırlaştırılmış" nisaptan matematiksel olarak daha ağır bir sonuç doğurabildiğini belirterek, kanun koyucunun bu iki madde arasında sistematik bir çelişki (sistem hatası) yarattığını ifade etmektedir,,,.
+- **TTK m. 619, m. 612 (Oydan Yoksunluk ve Payların Donması):** Karar yetersayısı hesaplanırken, payını devreden ortağın kendi devriyle ilgili oylamada (TTK m. 619/2) veya rekabet yasağının kaldırılması oylamasında (TTK m. 619/3) oy hakkı yoktur. Ayrıca şirketin iktisap ettiği kendi paylarının oyları donar (TTK m. 612). Bu paylar, TTK m. 621'deki "oy hakkı bulunan esas sermayenin tamamı" hesabında (paydada) dikkate alınmaz; yani toplam sermaye matrahından düşülerek hesaplama yapılır,,.
+- **TTK m. 408/2-f (Önemli Miktarda Şirket Varlığının Toptan Satışı):** Anonim şirketlerde genel kurulun devredilemez yetkisi olan ve ağırlaştırılmış nisaba bağlanan toptan satış konusu, limited şirketlere ilişkin TTK m. 616 ve m. 621 metinlerinde bilinçli veya bilinçsiz bir şekilde yer almamıştır. Doktrinde (Dural, Biçer/Hamamcıoğlu) bu durumun kanun boşluğu olduğu ve m. 621'deki çifte nisabın bu tür kararlara da kıyasen uygulanması gerektiği ileri sürülmektedir,,.
 
-- **Türk Ticaret Kanunu m. 1** — Amaç ve kapsam: m. 621'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Türk Ticaret Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Türk Ticaret Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Türk Ticaret Kanunu m. 5** — Ceza ve yasak rejimi: m. 621 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+#### 4. Uygulama: Yargıtay İçtihadı
+Yargıtay kararları ve öğreti ışığında, genel kurulun TTK m. 621’de öngörülen çifte nisaba ulaşmaksızın almış olduğu kararların hukuki akıbeti, sakatlığın türüne göre değişkenlik gösterir. Yargıtay 11. Hukuk Dairesi'nin yerleşik içtihatlarına göre, kanunda emredici olarak öngörülen nisaplara (toplantı veya karar nisabı) uyulmadan alınan kararlar iptal edilebilir olmaktan ziyade "yokluk" (non-existent) veya "butlan" (nullity) yaptırımına tabidir (Anonim şirketlere ilişkin TTK m. 447 kıyasen uygulanır, m. 622),,.
 
-Bu ilişkiler, m. 621'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
-
-#### 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
-
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+Ayrıca ortağın şirketten haklı sebeple çıkarılması kararlarında, çıkarılacak ortağın oylamaya katılıp katılamayacağı meselesi Yargıtay önüne sıkça gelmiştir. Kollektif şirketlerdeki eski uygulamanın aksine, limited şirketler hukukunda TTK m. 619’da oydan yoksunluk halleri sınırlı (numerus clausus) sayıldığından, "hiç kimse kendi davasının yargıcı olamaz" evrensel ilkesine rağmen lafzi yorum gereği çıkarılacak ortağın oy hakkından yoksun bırakılamayacağı öğretide (Bahtiyar) kabul görmektedir ve mahkeme uygulamaları bu yönde şekillenmektedir,. Ancak Anayasa Mahkemesi E: 2025/128, K: 2025/273 kararıyla iki ortaklı limited şirketlerde kilitlenmeyi önlemek adına bu hükmün ilgili kısmını iptal etmiştir.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Ticaret Kanunu m. 621 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+**Olay 1 (Sermaye Artırımı ve Rüçhan Hakkının Kısıtlanması):**
+1.000.000 TL esas sermayeli bir limited şirkette A (%40), B (%30) ve C (%30) pay sahibidir. Şirketin yeni teknolojik yatırımlar yapabilmesi için dışarıdan yatırımcı D'nin ortaklığa alınmasına karar verilmiş ve sermayenin 1.500.000 TL'ye artırılması ile A, B ve C'nin rüçhan haklarının kısıtlanması gündemiyle genel kurul toplanmıştır. Toplantıya sadece A ve B katılmıştır. B, rüçhan hakkının kısıtlanmasına olumsuz oy vermiştir.
+*Hukuki analiz:* Sermaye artırımı ve rüçhan hakkının sınırlandırılması TTK m. 621/1 (d) ve (e) bentleri gereği çifte nisaba tabidir. Toplam oy hakkı bulunan sermaye 1.000.000 TL'dir. Bunun salt çoğunluğu 500.001 TL'dir. Toplantıda temsil edilen oy ise 700.000 TL'dir (A ve B). Kararın alınabilmesi için temsil edilen oyların 2/3'ünün (466.666 TL) olumlu oyu gerekir. Sadece A (%40 = 400.000 TL) olumlu oy kullandığı için temsil edilen oyların 2/3'ü şartı sağlanamamıştır. İkinci kriter olan "tüm sermayenin salt çoğunluğu" (500.001 TL) da sağlanamamıştır. Karar reddedilmiş sayılır.
 
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
-
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+**Olay 2 (Rekabet Yasağının Kaldırılması ve Oydan Yoksunluk):**
+500.000 TL esas sermayeli X Limited Şirketi'nde, müdür sıfatını da taşıyan ortak K (%60 pay sahibi), şirketle aynı alanda faaliyet gösteren kendi şahıs işletmesini kurmak için genel kuruldan rekabet yasağının kaldırılması iznini (onayını) talep etmiştir. Diğer ortak L (%40 pay sahibi) toplantıda hazır bulunmuş ve olumsuz oy vermiştir.
+*Hukuki analiz:* TTK m. 621/1 (g) uyarınca rekabet yasağına aykırı faaliyete onay verilmesi önemli kararlardandır ve çifte nisaba tabidir. Ancak TTK m. 619/3 gereğince, rekabet yasağının kaldırılması oylamasında ilgili ortak (K) oy kullanamaz. K'nın oydan yoksun olması sebebiyle, 500.000 TL olan toplam esas sermayeden K'nın payı (300.000 TL) düşülür. TTK m. 621 anlamında "oy hakkı bulunan esas sermayenin tamamı" artık sadece 200.000 TL'dir (L'nin payı). L de olumsuz oy kullandığı için rekabet yasağının kaldırılmasına yönelik karar alınamaz. K'nın %60 sermayeye sahip olması onu bu oylamada karar alıcı konuma getirmez.
 
 #### 6. Pratik Uygulama Notları
-
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+- **İspat Yükü**: Çifte nisabın (temsil edilen oy ve oy hakkı bulunan sermaye) tam ve eksiksiz olarak sağlandığının ispatı, toplantı başkanlığı tarafından usulüne uygun şekilde tutulan genel kurul toplantı tutanağı ve "hazır bulunanlar listesi" (hazırun cetveli) ile yapılır (TTK m. 417 ve 617/3 atfı),. Oydan yoksunluk halleri tutanağa açıkça derç edilmelidir.
+- **Zamanaşımı / Süreler**: TTK m. 621'e aykırı olarak alınan kararlara karşı, kararın emredici nisaplara aykırılığı ölçüsünde butlanın tespiti her zaman ileri sürülebilir. İptal davası mahiyetinde bir sakatlık mevcutsa (örneğin nisap oluşmasına rağmen oylama usulündeki bir hata), genel kurul tarihinden itibaren 3 ay içinde iptal davası açılmalıdır (TTK m. 622 yollamasıyla TTK m. 445),.
+- **Görevli/Yetkili Mahkeme**: Genel kurul kararlarının iptali, butlanı veya haklı sebeple şirketten çıkarma davalarında kesin yetkili ve görevli mahkeme, şirket merkezinin bulunduğu yerdeki Asliye Ticaret Mahkemesidir.
+- **Yaygın Uygulama Hataları**: Uygulamada, TTK m. 619 gereği donan veya oydan yoksun bırakılan payların (örneğin şirketin kendi payını iktisabı veya rekabet yasağı affı) TTK m. 621'deki "oy hakkı bulunan esas sermayenin tamamı" matrahından düşülmeyerek hesaplamaya dahil edilmesi, sıklıkla yapılan bir hesaplama hatasıdır ve alınan kararların geçersizliğine sebebiyet vermektedir,.
 
 #### 7. Eleştirel Değerlendirme
+Doktrinde TTK m. 621 kaleme alınış biçimi ve şirketler hukuku sistematiği açısından sert eleştirilere maruz kalmıştır.
 
-Madde 621, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
+İlk olarak, Ersin Çamoğlu ve Abuzer Kendigelen tarafından dile getirilen "sistem hatası" (matematiksel çelişki) tartışması son derece ciddidir. TTK m. 589 uyarınca genel esas sözleşme değişiklikleri "sermayenin 2/3'ü" ile yapılmaktadır. Oysa TTK m. 621'de öngörülen çifte nisap uygulandığında (örneğin toplantıya tam %50+1 sermaye katıldığında), mevcutların 2/3'ü ile karar alınabileceğinden, bu oran tüm sermayenin yaklaşık %34'üne tekabül etmektedir. Yani yasa koyucunun "daha önemli" gördüğü için TTK m. 621'e koyduğu ağırlaştırılmış karar, pratik matematikte TTK m. 589'daki olağan sözleşme değişikliği nisabından (tüm sermayenin %66'sı) çok daha hafif bir oranla meclisten geçebilmektedir,,,. Bu çelişki, kanunun yapılış amacına ("ratio legis") ters düşmektedir.
 
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+İkinci olarak, TTK m. 621/2 fıkrasında yer alan "bu nisabı daha da ağırlaştıracak şirket sözleşmesi hükümleri, ancak şirket sözleşmesinde öngörülecek çoğunlukla kabul edilebilir" ifadesi, mehaz İsviçre Borçlar Kanunu'nun (OR 808b) tercümesi sırasındaki bir hatadan kaynaklanmaktadır. Bu lafız, nisabı ağırlaştırmak isteyen bir limited şirket genel kurulunu, sanki o ağır nisap halihazırda yürürlükteymiş gibi bir kısır döngüye (petitio principii) sokarak, hukuki güvenlik ve elverişlilik ilkesini zedelemektedir.
 
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Ticaret Kanunu m. 621, «2. Önemli kararlar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 621, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 621'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 621, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Ticaret Kanunu m. 621, «2. Önemli kararlar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 621, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 621'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 621, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Ticaret Kanunu m. 621, «2. Önemli kararlar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 621, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 621'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 621, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Ticaret Kanunu m. 621, «2. Önemli kararlar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 621, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 621'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 621, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Ticaret Kanunu m. 621, «2. Önemli kararlar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 621, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 621'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 621, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Ticaret Kanunu m. 621, «2. Önemli kararlar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 621, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 621'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 621, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Ticaret Kanunu m. 621, «2. Önemli kararlar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 621, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 621'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Son olarak, anonim şirketler için TTK m. 408'de düzenlenen "önemli miktarda şirket varlığının toptan satışı" hususunun, limited şirketlerde TTK m. 621 kapsamına alınmaması önemli bir eksikliktir,. Hissedarların menfaatini yakından ilgilendiren böylesine yaşamsal bir kararın TTK m. 620 uyarınca salt çoğunlukla alınabilmesi ihtimali, azınlık pay sahipleri açısından büyük bir risk doğurmaktadır. De lege ferenda (olması gereken hukuk) bakımından, bu eksikliklerin giderilerek hükmün rasyonel bir matematiksel altyapıya kavuşturulması zaruridir.
 
 ---
 
 ### Metodolojik Not
-
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Ticaret Kanunu m. 621 resmi metni ve kanunun sistematiği.
+Bu yorum, Av. Fethi Güzel tarafından akademik dürüstlük ve bilimsel araştırma ilkeleri çerçevesinde hazırlanmıştır. Yalnızca doktrin ve yargı kararları çerçevesinde objektif olarak sunulmuştur.

@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
+
 **3. Ekler**
 
 ---
@@ -25,387 +26,74 @@ Cumhurbaşkanı kararıyla konabilir.
 ---
 
 ### Akademik Yorum ve Analiz
+
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Ticaret Kanunu m. 46**, «3. Ekler» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 46 - (1)   Tacirin   kimliği,   işletmesinin   genişliği,   önemi   ve   finansal   durumu  hakkında,   üçüncü   kiş ilerde   yanlış   bir   görüşün   oluşmasına   sebep   olacak   nitelikte   bulunmamak,  gerçeğe   ve   kamu   düzenine   aykırı   olmamak   şartıyla;   her   ticaret   unvanına,   işletmenin  özelliklerini   belirten   veya   unvanda   yer   alan   kişilerin   kimliklerini   … Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+6102 sayılı Türk Ticaret Kanunu’nun (TTK) 46. maddesi, ticaret unvanlarına yapılabilecek eklerin hukuki çerçevesini, sınırlarını ve yasaklarını düzenleyen temel bir normdur. Ticaret unvanı, kural olarak zorunlu nitelikteki bir "çekirdek" unsurdan ve bu çekirdeğe ilave edilen "ek" unsurundan meydana gelmektedir. TTK, ticaret unvanlarının asli (çekirdek) unsurları bakımından emredici kurallar (gerçek kişiler için ad ve soyad, ticaret şirketleri için şirket türünü gösteren ibareler vb.) sevk etmişken, eklerin kullanımı kural olarak tacirin serbest iradesine ve takdirine bırakılmıştır,,.
+
+Tacirler; ticari hayatta akılda kalıcılığı artırmak, müşteri çevresini genişletmek, işletmelerinin hacmini, faaliyet alanını veya coğrafi aidiyetini vurgulamak amacıyla ticaret unvanlarına ihtiyari olarak çeşitli ekler yapabilmektedir,. Ne var ki, bu serbesti sınırsız değildir. TTK m. 46, ticaret unvanlarına yapılacak eklerin sınırlarını objektif iyiniyet kuralları, haksız rekabet yasağı ve kamu düzeni ekseninde çizmiştir,. Madde lafzında yer alan kriterler, numerus clausus (sınırlı sayı) prensibine tabi olmayıp, yol gösterici nitelikte kabul edilmelidir. Bir ekin ticaret siciline tescil edilebilmesi için, söz konusu maddenin birinci fıkrasında belirtilen olumlu şartları taşıması ve olumsuz şartlardan (yasaklardan) arınmış olması gerekmektedir,.
+
+Ticaret unvanlarına ek yapılması kural olarak ihtiyari (isteğe bağlı) olmakla birlikte, Türkiye'nin herhangi bir sicil dairesinde daha önce tescil edilmiş olan bir unvandan ayırt edilebilmeyi sağlamak amacıyla TTK m. 45 uyarınca ayırt edici ek kullanılması kanuni bir zorunluluktur,,. Dolayısıyla TTK m. 46, hem ihtiyari olarak seçilen eklerin hem de m. 45 gereği zorunlu olarak alınan ayırt edici eklerin tabi olduğu hukuki ve ahlaki sınırları tayin eden, ticari dürüstlüğü ve üçüncü kişilerin korunmasını amaçlayan emredici bir niteliğe sahiptir,,.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+##### 2.1. İzin Verilen Ek Türleri (Olumlu Şartlar)
+TTK m. 46/1 hükmü, ticaret unvanlarına yapılabilecek eklerin içeriğine dair üç temel kategori öngörmüştür:
+- **İşletmenin Özelliklerini Belirten Ekler:** Ticari işletmenin faaliyet konusunu, niteliğini veya ölçeğini gösteren eklerdir. Doktrinde sıklıkla örneklendirildiği üzere, "Şinasi Eryürek Emlakçılık", "Ahmet Ökmen İlaç Fabrikası" veya "Organik Tarım Ahmet Kârsever" gibi ibareler bu kapsama dâhildir.
+- **Kişilerin Kimliklerini Gösteren Ekler:** İşletme ile bağlantılı kişilerin mesleki kimlikleri, akademik unvanları veya diğer şahsi özelliklerini yansıtan eklerdir. Örneğin, "Şükran Solmaz Yerli Kumaşları" veya "Mühendis Ahmet Ökmen ve Ortakları" ibarelerindeki nitelemeler, kimlik gösteren eklerdir. Tacirin mesleğine ilişkin (örn. makine yüksek mühendisi) bilgileri ek olarak kullanmasına hukuki bir engel bulunmamaktadır,.
+- **Hayalî Adlardan İbaret Ekler:** Kelime anlamı itibarıyla fantastik, ütopik, imgesel veya gerçekte var olmayan kavramları ifade eden ibarelerdir. "Bossa Ticaret ve Sanayi İşletmeleri TAŞ" veya "Birlik Olup Sanayi Sektörüne Atılalım" gibi ibareler bu çerçevede değerlendirilir. Hayali ismin mutlaka rasyonel bir anlama sahip olması gerekmez.
 
-Madde 46, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+##### 2.2. Ek Kullanımındaki Kanuni Sınırlar (Olumsuz Şartlar)
+Maddenin birinci fıkrası, ticaret unvanlarına alınacak eklerin sınırlarını katı bir biçimde çizmiştir. Bu sınırlar aynı zamanda sicil memurunun inceleme yükümlülüğünün sınırlarını da oluşturur [15]:
+- **Üçüncü Kişilerde Yanlış Bir Görüş (İltibas/Yanılma) Uyandırmama Yasağı:** Eklerin; işletmenin kimliği, genişliği, önemi ve finansal durumu hakkında üçüncü kişileri (tüketiciler, alacaklılar, rakipler) yanıltmaması şarttır,. Ticari işletmenin hacminden daha büyükmüş gibi gösterilmesi yasaktır. Örneğin, bir tuhafiye işletmesi sahibinin "Ahmet Kara Tekstil Fabrikası" ekini alması bu yasağın ihlalidir.
+- **Gerçeğe Aykırılık Yasağı:** Ekler, yalan veya asılsız bir hususu ifade etmemelidir,. Örneğin, gerçekte oğlu olmayan bir tacirin "Hacı Hasan Aslan ve Oğulları" şeklinde bir ek kullanması, dürüstlük kuralına ve gerçeğe aykırılık teşkil edeceğinden kullanılamaz. Benzer şekilde, doktor olmadığı halde bir işletme sahibinin "Dr." ibaresini kullanması gerçeğe aykırılık oluşturur.
+- **Kamu Düzenine Aykırılık Yasağı:** Ticaret unvanında yer alan eklerin toplumun ahlaki değerleri, ulusal çıkarlar, birlik ve beraberlik, tarihi ve kültürel değerlerle bağdaşmaması halinde kamu düzenine aykırılık söz konusu olur,,,. Küfür içeren, toplumun belli bir kesimini ötekileştiren veya yasa dışı faaliyetleri çağrıştıran (örn. "Necmi Bayraktar Randevu Evi İşletmeciliği") ibarelerin sicile tescili kanunen mümkün değildir.
 
-##### 2.2. Usulî ve maddi unsurlar
+##### 2.3. Tek Başına Ticaret Yapanlarda Şirket İzlenimi Yasağı
+TTK m. 46/2 uyarınca, gerçek kişi tacirlerin (tek başlarına ticaret yapanların) ticaret unvanlarına, tüzel kişiliği haiz bir şirket veya şirketler topluluğu (holding, grup) izlenimi yaratacak ekler yapmaları kesin olarak yasaklanmıştır,,. Bu doğrultuda, "Ahmet Kara Holding", "XYZ Şirketi" veya "Grup" gibi ekler, gerçek kişi ticari işletmelerinin unvanlarında yer alamaz. Bu emredici kuralın oranı (ratio legis), ticari hayattaki üçüncü kişilerin (özellikle alacaklıların) muhataplarının sorumluluk rejimine ve sermaye yapısına dair aldatılmasını önlemektir.
 
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+##### 2.4. İzne Tabi Ekler ve İstisnaları
+TTK m. 46/3 gereğince "Türk", "Türkiye", "Cumhuriyet" ve "Millî" kelimelerinin bir ticaret unvanına ek olarak konulabilmesi, Cumhurbaşkanı kararına tabidir,,. Bu sözcüklerin devleti ve milleti temsil niteliği haiz olması, sıradan bir işletmenin bu kelimeler aracılığıyla haksız bir güven ve itibar devşirmesinin engellenmesini zorunlu kılmıştır. Ancak, Ticaret Unvanları Hakkında Tebliğ m. 4/4 ile bu kurala getirilen bir istisna mevcuttur: Şayet "Türk" veya "Milli" gibi ibareler, gerçek kişi tacirin kendi nüfus kaydında yer alan "adı veya soyadı" ise (örn. Ahmet Türk), bu durumda ek kullanımından söz edilemeyeceğinden (çekirdek unsur olduğundan), herhangi bir makamın iznine gerek olmaksızın tescil edilmesi yasal bir zorunluluktur,.
 
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+##### 2.5. Yabancı Dilde Ek Kullanımı
+Ticaret Unvanları Hakkında Tebliğ (m. 4/1) uyarınca, işletme konusunu gösteren ibarelerin Türkçe olması zorunludur,,. TTK'da yer almayan bu sınırlandırıcı ikincil mevzuat kuralına göre, ticaret unvanındaki asli çekirdek unsurlar ve işletme konusunu tanıtan ekler Türkçe olmalı, ancak bunun dışındaki ayırt edici ekler ve yabancı kelimeler belli şartlar altında (örneğin yabancı ortaklı şirketlerde) unvanda yer alabilmektedir,,.
 
 #### 3. Sistematik İlişkiler
+- **TTK m. 39 ve m. 40:** Tacirin ticari işletmesi ile ilgili işlemlerde, tescil edilmiş unvanı ekleriyle bir bütün olarak kullanma yükümlülüğünün doğduğu maddelerdir,.
+- **TTK m. 45:** Seçimlik olan eklerin (TTK m. 46/1), tescilli bir unvandan ayırt edilme ihtiyacı doğduğunda hukuki bir "zorunluluğa" dönüştüğünü gösteren emredici normdur,.
+- **TTK m. 51/3 (Ceza Hükümleri):** Madde 46 hükmünün ihlali, sadece hukuki bir yaptırıma (tescilin reddi veya terkini) tabi değildir. TTK m. 51/3 gereğince, 46. maddeyi ihlal ederek haksız ve yasaklı ekler kullanan tacirler, "üç aydan iki yıla kadar hapis veya adli para cezası" ile cezalandırılır,,. Bu, kanun koyucunun ek kullanımındaki suiistimallere karşı cezai koruma getirdiğini gösterir.
+- **TTK m. 54 vd. (Haksız Rekabet):** Gerçeğe aykırı, yanıltıcı ve üçüncü kişileri aldatıcı eklerin kullanılması, aynı zamanda TTK m. 54 ve devamı uyarınca dürüstlük kuralına aykırı haksız rekabet teşkil eder,,.
+- **TMK m. 2 (Dürüstlük Kuralı):** Ek seçiminde başkalarının şöhretinden haksız yere yararlanma amacı güdülmesi (örn. ünlü bir markanın ek olarak seçilmesi) dürüstlük kuralının ihlalidir,.
 
-- **Türk Ticaret Kanunu m. 1** — Amaç ve kapsam: m. 46'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Türk Ticaret Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Türk Ticaret Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Türk Ticaret Kanunu m. 5** — Ceza ve yasak rejimi: m. 46 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+#### 4. Uygulama: Yargıtay İçtihadı
+Yargıtay 11. Hukuk Dairesi ve Hukuk Genel Kurulu'nun (HGK) ticari ekler ve ticaret unvanları hususundaki yerleşik içtihatlarına göre; iki unvanın çekirdek kısımları (asli unsurları) aynı veya ayırt edilemeyecek derecede benzer ise, sonradan eklenen faaliyet konusuna ilişkin sıradan ekler (örneğin; "İnşaat", "Turizm", "Otomotiv") unvanlar arasındaki "iltibas" (karıştırılma) tehlikesini ortadan kaldırmaz,,,.
 
-Bu ilişkiler, m. 46'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
-
-#### 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
-
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+Yargıtay içtihatlarında, özellikle tanınmışlık düzeyi yüksek ve ayırt edici nitelikteki ibarelerin (kılavuz sözcüklerin) haksız bir şekilde ticaret unvanına ek olarak alınması "ticari dürüstlüğe aykırı kullanım" kapsamında değerlendirilerek, sonradan tescil edilen unvandan bu ekin terkin edilmesine karar verilmektedir,. Örneğin, Yargıtay 11. HD, "KONYALI" ibaresini çekirdek olarak kullanan iki unvan arasında faaliyet konuları ("Konyalı Saat" ile "Konyalı Optik Saat") gibi ilave eklerin bulunmasının, tescilli ilk unvan sahibinin hakkına tecavüzü engellemediğine hükmetmiştir,. Keza Yargıtay, ayırt edici vasfı yüksek sözcüklerin bölünerek veya harf oyunlarıyla ("ENCOTHERM" ve "ECOTHERM" örneği) ek veya çekirdek olarak kullanılmasını iltibas yaratıcı bulmuştur,.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Ticaret Kanunu m. 46 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+**Olay 1 (Gerçeğe Aykırı Ek ve Şirket İzlenimi Yaratılması):**
+Mersin'de tek başına ticaret yapan (gerçek kişi tacir) tekstil ürünleri perakendecisi Ahmet Yıldız, ticari itibarını artırmak ve piyasadaki tedarikçilere büyük bir organizasyonmuş gibi görünmek amacıyla ticaret siciline "Ahmet Yıldız Tekstil ve Yatırım Holding" unvanını tescil ettirmek üzere başvurmuştur. İşletmesinde fiilen hazır giyim perakende faaliyeti yürütmektedir.
+*Hukuki analiz:* Başvuru TTK m. 46 ekseninde birden fazla hukuki ihlal barındırmaktadır. İlk olarak, gerçek kişi tacirin "Holding" ibaresini unvanında ek olarak kullanması, TTK m. 46/2 hükmünde düzenlenen "tek başlarına ticaret yapan gerçek kişilerin şirket var olduğu izlenimi uyandıran ekler yapamayacağı" kuralının açık ve mutlak bir ihlalidir,,. İkinci olarak, tacirin yatırım holdingi vasfı bulunmadığı halde bu ibareyi kullanması, işletmesinin genişliği ve önemi hususunda üçüncü kişileri (kreditörler, tüketiciler) aldatıcı mahiyette olup TTK m. 46/1'deki gerçeğe aykırılık ve yanıltıcılık yasağına aykırıdır,. Sicil müdürlüğünün bu unvanı reddetmesi zorunludur; şayet sehven tescil edilirse ilgililer iptalini isteyebilir ve tacir hakkında TTK m. 51/3 uyarınca cezai yaptırım gündeme gelir.
 
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
-
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+**Olay 2 (İzne Tabi Eklerin İzinsiz Kullanımı):**
+İstanbul'da kurulan yeni bir anonim şirket, unvanını "Türkiye Çelik ve Demir Döküm Sanayi Anonim Şirketi" olarak belirleyerek ticaret siciline tescil ettirmek istemiş, sicil memurluğu herhangi bir izin sorgulaması yapmadan unvanı tescil etmiştir.
+*Hukuki analiz:* TTK m. 46/3 hükmü çok nettir: "Türkiye" kelimesi ticaret unvanına ancak Cumhurbaşkanı kararıyla (izniyle) eklenebilir,,. Herhangi bir idari makam veya şirketin kendi iradesi ile bu unvanın alınması hukuken geçersizdir. Kanun hükümlerine aykırı tescil gerçekleştirildiği için, durumu öğrenen noterler, mahkemeler veya sanayi odaları (TTK m. 51/1) durumu yetkili makamlara bildirmekle yükümlüdür. Şirket, bu ihlal sebebiyle unvanın düzeltilmesi davasıyla karşı karşıya kalacak ve sorumlular hakkında adli para veya hapis cezası uygulanabilecektir.
 
 #### 6. Pratik Uygulama Notları
-
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+- **İspat yükü**: Ticaret unvanında yer alan ekin, üçüncü kişilerde yanıltıcı bir izlenim doğurduğunun, gerçeğe aykırı olduğunun veya başkasının unvanıyla iltibas (karıştırılma tehlikesi) yarattığının ispat yükü, bu iddiayı ileri sürerek terkin veya tecavüzün önlenmesi davası açan davacıya aittir.
+- **Zamanaşımı / Süreler**: Ticaret unvanına haksız bir ek kullanımı sebebiyle açılacak haksız rekabet ve tecavüzün önlenmesi, terkin ve tazminat davaları (TTK m. 60 gereği), mağdur tarafın bu hukuka aykırılığı ve faili öğrendiği tarihten itibaren bir (1) yıl ve her halde zararı doğuran eylemin gerçekleştiği (hakkın doğduğu) tarihten itibaren üç (3) yıl içinde açılmalıdır,. Ayrıca, usulüne aykırı bir kullanım uzun süre devam etmiş ve hak sahibi buna "uzun süre sessiz kalmışsa", Yargıtay içtihatları uyarınca *sessiz kalma yoluyla hak kaybı* ilkesi gereği iptal veya terkin davası açılamaz,.
+- **Görevli/yetkili mahkeme**: Ticaret unvanı ve eklerinden kaynaklanan her türlü tecavüzün tespiti, önlenmesi, unvanın veya haksız ekin sicilden terkini (silinmesi) ve tazminat davaları, TTK m. 4/1 uyarınca mutlak ticari dava niteliğindedir,. Dolayısıyla görevli mahkeme *Asliye Ticaret Mahkemesi'dir*.
+- **Yaygın uygulama hataları**: Uygulamada, Ticaret Sicil Müdürlükleri tarafından sıklıkla yapılan bir hata, daha önce tescilli bir çekirdek unvan bulunduğunda, unvana eklenen "işletme konusunu gösteren ibarelerin" yerlerinin değiştirilmesi suretiyle (Örn: "A İnşaat Otomotiv" yerine "A Otomotiv İnşaat") yeni unvanın tesciline izin verilmesidir,,. Ticaret Unvanları Hakkında Tebliğ m. 5/3'ün bu şekildeki hatalı yönlendirmesi TTK m. 45 ve 52 hükümlerindeki iltibas yasağına ve kanunun lafzına açıkça aykırıdır,.
 
 #### 7. Eleştirel Değerlendirme
+Türk ticaret hukuku doktrininde (örneğin Sabih Arkan, Hüseyin Ülgen, Mehmet Bahtiyar, Tamer Bozkurt gibi yazarlar tarafından), TTK'nın 46. maddesinde ve ilgili ikincil mevzuatta (Ticaret Unvanları Hakkında Tebliğ) yer alan bazı düzenlemeler şiddetle eleştirilmektedir,,,.
 
-Madde 46, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
+Doktriner eleştirilerin odak noktası; Tebliğ m. 5/3 düzenlemesidir. TTK m. 45'te açıkça, daha önce tescil edilmiş unvanlardan ayırt ediciliği sağlamak amacıyla yeterli eklerin kullanılması öngörülmüştür. Ancak bahsi geçen Tebliğ hükmü, aynı olan iki ek arasında sırf faaliyet alanlarını gösteren sözcüklerin yerlerinin değiştirilmesini (Örn: "İnşaat Tekstil" ile "Tekstil İnşaat" şeklinde) "ayırt edici ek" olarak kabul etmekte ve tescile cevaz vermektedir,,. Doktrin ve Yargıtay uygulamaları, bu durumun ortalama tüketici nezdinde çok açık bir karıştırılma (iltibas) tehlikesi yarattığını ve Tebliğ hükmünün, hiyerarşik olarak daha üstün olan TTK m. 52 (dürüstlüğe aykırı kullanımın yasaklanması) ile çeliştiğini haklı olarak savunmaktadır,.
 
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Ticaret Kanunu m. 46, «3. Ekler» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 46, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 46'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Ticaret Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 46, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Ticaret Kanunu m. 46, «3. Ekler» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 46, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 46'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Ticaret Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 46, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Ticaret Kanunu m. 46, «3. Ekler» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 46, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 46'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Ticaret Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 46, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Ticaret Kanunu m. 46, «3. Ekler» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 46, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 46'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Ticaret Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 46, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Ticaret Kanunu m. 46, «3. Ekler» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 46, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 46'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Ticaret Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 46, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Ticaret Kanunu m. 46, «3. Ekler» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 46, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 46'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Ticaret Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 46, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Ticaret Kanunu m. 46, «3. Ekler» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 46, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 46'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Ticaret Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Bunun dışında, yeni TTK ile gerçek kişi tacir unvanlarının da tıpkı tüzel kişiler gibi tüm Türkiye sathında korunmasının kabul edilmesi (eski TTK m. 47'deki sicil dairesi sınırı kaldırılarak) eleştirilmektedir,. Türkiye gibi geniş ve isim benzerliğinin çok yoğun olduğu bir ülkede, Edirne'deki bir "Ahmet Yılmaz"ın tescili yüzünden, Kars'taki bir diğer "Ahmet Yılmaz"ın kendi adıyla ticaret yaparken zorunlu, anlamsız ve aşırı uzun ekler almak zorunda bırakılması, ticaret unvanının "tefrik" ve "tanıtma" işlevini zedelemektedir,,. Bu bağlamda, unvan çekirdeğinin asli unsur olma özelliğinin zayıflayarak eklere kaydığı ve gerçek kişi tacirler açısından bölgesel korumanın terkinin yerinde bir yasal tercih olmadığı bilimsel çevrelerce ifade edilmektedir,.
 
 ---
 
 ### Metodolojik Not
-
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Ticaret Kanunu m. 46 resmi metni ve kanunun sistematiği.
+[Bu yorum, Av. Fethi Güzel tarafından akademik dürüstlük ve bilimsel araştırma ilkeleri çerçevesinde hazırlanmıştır. Yalnızca doktrin ve yargı kararları çerçevesinde objektif olarak sunulmuştur.]

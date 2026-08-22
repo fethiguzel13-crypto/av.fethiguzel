@@ -3,8 +3,8 @@ title: "Amme Alacaklarının Tahsil Usulü Hakkında Kanun Madde 68"
 kanun: "Amme Alacaklarının Tahsil Usulü Hakkında Kanun"
 maddeNo: 68
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3638
+lastReviewed: "2026-08-22"
+wordCount: 863
 ---
 
 **İstihkak iddiaları ile ilgili diğer hükümler:**
@@ -25,241 +25,72 @@ dava mevzuunu teşkil eden mahcuz malın değerinin % 10 u tutarında tazminat h
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 68** (6183 sayılı), «İstihkak davalarına bakmaya haczi yapan tahsil» başlığı altında kamu alacağı tahsili içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+Amme Alacaklarının Tahsil Usulü Hakkında Kanun 68. maddesi, amme alacağının tahsiline yönelik haciz işlemlerinde karşılaşılan istihkak iddialarının yargısal çözüm sürecini düzenlemektedir. Madde, usul hukukunun genel prensiplerinden ayrılan özel bir yetki kuralı getirerek tahsil dairesinin bulunduğu yer mahkemesini görevli ve yetkili kılmaktadır. Amme alacaklarının tahsilindeki ivedilik prensibi, bu tür davaların diğer işlere nazaran öncelikle görülmesini zorunlu kılar. Kanun koyucu, hacizli mal üzerindeki mülkiyet veya sınırlı ayni hak iddialarının, amme alacağının tahsiline engel teşkil etmemesi için dengeleyici hükümler öngörmüştür.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 68 izole okunmamalı; AATUHK’nın ilgili bölüm/ayırım bütünlüğü ve ödeme emri ilkesiyle birlikte yorumlanmalıdır.
+İstihkak davası açılması, haciz işleminin kendiliğinden durmasına yol açmaz. Davacının takibin tehirini talep etmesi halinde mahkeme, mevcut delillerin niteliğini değerlendirerek teminat karşılığında yürütmeyi durdurma kararı verebilir. Bu mekanizma, hem idarenin tahsilat hakkını korumayı hem de üçüncü şahısların muhtemel hak kayıplarını engellemeyi amaçlar. Mahkemece belirlenecek teminat miktarı, haczedilen malın değeri ile orantılı olmalı ve idarenin olası zararını karşılayacak düzeyde tutulmalıdır.
 
-Ratio legis, ödeme emri, haciz, rüçhan ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: İstihkak davalarına bakmaya haczi yapan tahsil dairesinin bulunduğu mahal mahkemesi salahiyetlidir. İstihkak davaları diğer işlere takdimen görülür.
+Takibin tehirine karar verilmesine rağmen davanın reddedilmesi durumunda, kanun özel bir yaptırım öngörmüştür. Mahcuz malın değerinin yüzde onu oranında tazminata hükmedilmesi, haksız yere takibi durduran üçüncü şahıslar üzerinde caydırıcı bir etki yaratır. Bu tazminat, davacı tarafından verilen teminatın bir kısmının veya tamamının idareye irat kaydedilmesi suretiyle tahsil edilebilir. Söz konusu düzenleme, yargı sürecinin suistimal edilmesini engelleyen bir güvence niteliği taşır.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Kanaatimizce, 68. madde amme alacaklısının alacağına kavuşma hızını korumakla birlikte, mülkiyet hakkının korunması ile kamu yararı arasında hassas bir denge kurmaktadır. Mahkemelerin, takibin tehirine dair talepleri değerlendirirken sadece delillerin kuvvetini değil, aynı zamanda idarenin tahsilat kapasitesini de göz önünde bulundurması gerekir. İstihkak davası, borçlunun malvarlığı ile üçüncü şahsın hak iddiası arasındaki çatışmayı çözmek için elverişli bir hukuki araçtır. Uygulamada bu düzenleme, amme alacaklarının tahsilinde yaşanabilecek yargısal gecikmeleri minimize etmeyi hedefler.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Yetkili Mahkeme
 
-Madde 68, «İstihkak davalarına bakmaya haczi yapan tahsil» ekseninde davalarına ve davaları kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak kamu alacağı tahsili içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+68. madde uyarınca istihkak davasına bakmaya yetkili mahkeme, haczi yapan tahsil dairesinin bulunduğu mahkeme olarak belirlenmiştir. Bu düzenleme, tahsilat sürecinin yerindelik ilkesine uygun olarak yürütülmesini sağlar. Genel yetki kurallarından bağımsız olan bu hüküm, amme alacağının tahsiline ilişkin uyuşmazlıkların hızlıca çözülmesini temin eder. Mahkeme, haciz işlemini gerçekleştiren idari birimin coğrafi sınırları dahilinde yetkili kılınmıştır.
 
-##### 2.2. Unsurlar
+##### 2.2. Takibin Tehiri
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+İstihkak iddiasında bulunan üçüncü şahıs, takibin durdurulmasını mahkemeden talep edebilir. Mahkeme, bu talebi değerlendirirken sunulan delillerin ispat gücünü ve ihtimal dahilindeki zararları dikkate alır. Takibin tehirine karar verilebilmesi için mutlaka yeterli teminatın alınması şart koşulmuştur. Bu şart, idarenin alacağının güvence altına alınması noktasında kritik bir öneme sahiptir.
 
-Metinden çıkan somut vurgular: Davacı takibin tehirini istediği takdirde kendisinde mevcut delillerin mahiyetine göre ve muhtemel zarara karşı kafi teminat alınmak suretiyle takibin tehirine mahkemece karar verilebilir. İstihkak davası üzerine takibin tehirine karar verilir ve neticede dava reddolunursa, dava mevzuunu teşkil eden mahcuz malın değerinin % 10 u tutarında tazminat hükmolunur.
+##### 2.3. Tazminat Sorumluluğu
 
-##### 2.3. Korunan menfaat
+Davanın reddi halinde hükmedilen yüzde on oranındaki tazminat, davanın kötü niyetle veya haksız yere açılmasının önüne geçmeyi amaçlar. Söz konusu tazminat, mahcuz malın değeri üzerinden hesaplanarak idarenin uğradığı gecikme zararını telafi eder. Bu yaptırım, yargısal süreci bir oyalama aracı olarak kullanmak isteyen davacılar için caydırıcı bir nitelik taşır. Hükmedilecek tazminat, mahkeme kararının kesinleşmesiyle birlikte icra edilebilir hale gelir.
 
-Korunan menfaat, bireysel hak sahibi ile haciz arasındaki dengede aranır. AATUHK m. 68, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. davacı kavramı bu dengede anahtar rol oynar.
+##### 2.4. İvedilik İlkesi
 
-##### 2.4. Sonuç ve yaptırım
-
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+İstihkak davalarının diğer işlere takdimen görülmesi hükmü, amme alacağının tahsilindeki kamu yararını yansıtır. Mahkemeler, bu tür davaları gündemlerinin ilk sıralarına alarak karara bağlamalıdır. Bu usuli öncelik, hacizli malların uzun süre beklemesini engeller ve tahsilatın verimliliğini artırır. Hukuki güvenlik ile kamu menfaati, bu ivedilik kuralı sayesinde dengelenmektedir.
 
 #### 3. Sistematik İlişkiler
 
-- **AATUHK komşu maddeler:** m. 68 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle İstihkak davalarına bakmaya haczi yapan tahsil temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** ödeme emri; haciz; rüçhan; tecil–terkin.
-- **Yatay mevzuat:** VUK; İİK (kıyasen sınırlı); İYUK.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**m. 67 — Üçüncü şahıs elindeki mallar** 67. madde ile başlayan istihkak iddiası süreci, 68. maddedeki usul kurallarıyla yargısal bir zemine oturmaktadır. Üçüncü şahısların hak iddiaları, bu madde kapsamında mahkeme önüne taşınır.
 
-Bu ilişkiler, m. 68’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+**m. 69 — Amme idareleri arası haciz** Amme idarelerinin hacze iştiraki durumunda istihkak iddialarının nasıl yönetileceği, 68. maddedeki genel usul kuralları ile birlikte değerlendirilmelidir.
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
+**m. 70 — Haczedilemeyecek mallar** Haczedilemeyecek mallar üzerindeki istihkak iddiaları, 70. madde ile korunan haklar kapsamında kalıp 68. maddedeki usul hükümlerine göre yargısal incelemeye tabidir.
 
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (davalarına / davası karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
-
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
-
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: Amme idareleri arasında hacze iştirak: İstihkak davalarına bakmaya haczi yapan tahsil dairesinin bulunduğu mahal mahkemesi salahiyetlidir.
+Yerel arşivde bu maddeye yapısal atıf yapan tam künyeli karar bulunamadı. İçtihat bölümü bu yüzden boş bırakılır; künye uydurulmaz.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında istihkak davalarına bakmaya haczi yapan tahsil ile bağlantılı bir uyuşmazlık çıkar. Davacı, AATUHK m. 68’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. İstihkak davalarına bakmaya haczi yapan tahsil dairesinin bulunduğu mahal mahkemesi salahiyetlidir. cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Vergi dairesi, mükellefin deposunda bulunan bir makineyi haczetmiştir. Depoda bulunan Ahmet, makinenin kendisine ait olduğunu iddia ederek istihkak davası açmıştır. Mahkeme, Ahmet'in sunduğu faturaları yeterli bulmayarak takibin tehirine karar vermemiştir. Haciz işlemi devam etmiş ve idare alacağını tahsil etmiştir.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 68 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** Bir şirket, amme borcu nedeniyle haczedilen kamyonu için istihkak davası açmış ve teminat yatırarak takibin durdurulmasını sağlamıştır. Dava sonucunda mahkeme, kamyonun borçluya ait olduğunu tespit ederek davayı reddetmiştir. Mahkeme, kamyonun değerinin yüzde onu kadar tazminata hükmetmiştir. Şirketin yatırdığı teminat, bu tazminatın ödenmesi için idare tarafından kullanılmıştır.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, davaları gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* AATUHK’nın iyiniyet ve dürüstlük ilkeleri ile m. 68’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Tahsil dairesi, borçluya ait olduğu gerekçesiyle bir araca el koymuştur. Üçüncü bir şahıs, aracın kiralandığını iddia ederek dava açmış ve ivedilikle sonuç talep etmiştir. Mahkeme, 68. madde gereği diğer dosyaları bekletmeksizin bu davayı öncelikle incelemeye almıştır. Delillerin incelenmesi neticesinde istihkak iddiası yerinde görülmüş ve haciz kaldırılmıştır.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; davalarına ile davacı’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **AATUHK madde 68**, **AATUHK m. 68**, **AATUHK 68** ve **Amme Alacaklarının Tahsil Usulü Hakkında Kanun madde 68** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+İstihkak davalarında mahkemenin takdir yetkisi, teminatın miktarı konusunda oldukça geniştir.
+
+Tazminat miktarı, hacizli malın güncel piyasa değeri üzerinden hesaplanmalıdır.
+
+Davacının takibin tehirini talep etmemesi halinde, dava devam ederken hacizli malın satışı idare tarafından gerçekleştirilebilir.
+
+Mahkemenin ivedilikle karar vermesi, idarenin tahsilat başarısını doğrudan etkileyen bir unsurdur.
 
 #### 7. Eleştirel Değerlendirme
 
-AATUHK m. 68, kamu alacağı tahsili içinde İstihkak davalarına bakmaya haczi yapan tahsil temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve ödeme emri ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Yüzde on tazminatın, malın değerindeki değişimlere göre yetersiz kalma riski mevcuttur.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 68 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Teminat miktarı belirlenirken mahkemelerin farklı kriterler uygulaması hukuki belirsizlik yaratmaktadır.
+
+İstihkak davalarında sunulan delillerin niteliği konusunda kanunda daha somut bir çerçeve çizilmesi beklenirdi.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 68 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 68 uygulamasında «İstihkak davalarına bakmaya haczi yapan tahsil» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. İstihkak davalarına bakmaya haczi yapan tahsil dairesinin bulunduğu mahal mahkemesi salahiyetlidir.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. İstihkak davaları diğer işlere takdimen görülür.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Davacı takibin tehirini istediği takdirde kendisinde mevcut delillerin mahiyetine göre ve muhtemel zarara karşı kafi teminat alınmak suretiyle takibin tehirine mahkemece karar verilebilir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İstihkak davası üzerine takibin tehirine karar verilir ve neticede dava reddolunursa, dava mevzuunu teşkil eden mahcuz malın değerinin % 10 u tutarında tazminat hükmolunur.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 68 sonuçlarının fiilen elde edilmesi için belirleyicidir. Amme idareleri arasında hacze iştirak:
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. İstihkak davalarına bakmaya haczi yapan tahsil dairesinin bulunduğu mahal mahkemesi salahiyetlidir.
-
-Sonuç olarak, AATUHK madde 68 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. İstihkak davaları diğer işlere takdimen görülür.
-
-Bu bağlamda m. 68 uygulamasında «İstihkak davalarına bakmaya haczi yapan tahsil» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Davacı takibin tehirini istediği takdirde kendisinde mevcut delillerin mahiyetine göre ve muhtemel zarara karşı kafi teminat alınmak suretiyle takibin tehirine mahkemece karar verilebilir.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. İstihkak davası üzerine takibin tehirine karar verilir ve neticede dava reddolunursa, dava mevzuunu teşkil eden mahcuz malın değerinin % 10 u tutarında tazminat hükmolunur.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Amme idareleri arasında hacze iştirak:
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İstihkak davalarına bakmaya haczi yapan tahsil dairesinin bulunduğu mahal mahkemesi salahiyetlidir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 68 sonuçlarının fiilen elde edilmesi için belirleyicidir. İstihkak davaları diğer işlere takdimen görülür.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Davacı takibin tehirini istediği takdirde kendisinde mevcut delillerin mahiyetine göre ve muhtemel zarara karşı kafi teminat alınmak suretiyle takibin tehirine mahkemece karar verilebilir.
-
-Sonuç olarak, AATUHK madde 68 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. İstihkak davası üzerine takibin tehirine karar verilir ve neticede dava reddolunursa, dava mevzuunu teşkil eden mahcuz malın değerinin % 10 u tutarında tazminat hükmolunur.
-
-Bu bağlamda m. 68 uygulamasında «İstihkak davalarına bakmaya haczi yapan tahsil» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Amme idareleri arasında hacze iştirak:
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. İstihkak davalarına bakmaya haczi yapan tahsil dairesinin bulunduğu mahal mahkemesi salahiyetlidir.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. İstihkak davaları diğer işlere takdimen görülür.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Davacı takibin tehirini istediği takdirde kendisinde mevcut delillerin mahiyetine göre ve muhtemel zarara karşı kafi teminat alınmak suretiyle takibin tehirine mahkemece karar verilebilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 68 sonuçlarının fiilen elde edilmesi için belirleyicidir. İstihkak davası üzerine takibin tehirine karar verilir ve neticede dava reddolunursa, dava mevzuunu teşkil eden mahcuz malın değerinin % 10 u tutarında tazminat hükmolunur.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Amme idareleri arasında hacze iştirak:
-
-Sonuç olarak, AATUHK madde 68 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. İstihkak davalarına bakmaya haczi yapan tahsil dairesinin bulunduğu mahal mahkemesi salahiyetlidir.
-
-Bu bağlamda m. 68 uygulamasında «İstihkak davalarına bakmaya haczi yapan tahsil» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. İstihkak davaları diğer işlere takdimen görülür.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Davacı takibin tehirini istediği takdirde kendisinde mevcut delillerin mahiyetine göre ve muhtemel zarara karşı kafi teminat alınmak suretiyle takibin tehirine mahkemece karar verilebilir.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. İstihkak davası üzerine takibin tehirine karar verilir ve neticede dava reddolunursa, dava mevzuunu teşkil eden mahcuz malın değerinin % 10 u tutarında tazminat hükmolunur.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Amme idareleri arasında hacze iştirak:
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 68 sonuçlarının fiilen elde edilmesi için belirleyicidir. İstihkak davalarına bakmaya haczi yapan tahsil dairesinin bulunduğu mahal mahkemesi salahiyetlidir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. İstihkak davaları diğer işlere takdimen görülür.
-
-Sonuç olarak, AATUHK madde 68 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Davacı takibin tehirini istediği takdirde kendisinde mevcut delillerin mahiyetine göre ve muhtemel zarara karşı kafi teminat alınmak suretiyle takibin tehirine mahkemece karar verilebilir.
-
-Bu bağlamda m. 68 uygulamasında «İstihkak davalarına bakmaya haczi yapan tahsil» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. İstihkak davası üzerine takibin tehirine karar verilir ve neticede dava reddolunursa, dava mevzuunu teşkil eden mahcuz malın değerinin % 10 u tutarında tazminat hükmolunur.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Amme idareleri arasında hacze iştirak:
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. İstihkak davalarına bakmaya haczi yapan tahsil dairesinin bulunduğu mahal mahkemesi salahiyetlidir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İstihkak davaları diğer işlere takdimen görülür.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 68 sonuçlarının fiilen elde edilmesi için belirleyicidir. Davacı takibin tehirini istediği takdirde kendisinde mevcut delillerin mahiyetine göre ve muhtemel zarara karşı kafi teminat alınmak suretiyle takibin tehirine mahkemece karar verilebilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. İstihkak davası üzerine takibin tehirine karar verilir ve neticede dava reddolunursa, dava mevzuunu teşkil eden mahcuz malın değerinin % 10 u tutarında tazminat hükmolunur.
-
-Sonuç olarak, AATUHK madde 68 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Amme idareleri arasında hacze iştirak:
-
-Bu bağlamda m. 68 uygulamasında «İstihkak davalarına bakmaya haczi yapan tahsil» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. İstihkak davalarına bakmaya haczi yapan tahsil dairesinin bulunduğu mahal mahkemesi salahiyetlidir.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. İstihkak davaları diğer işlere takdimen görülür.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Davacı takibin tehirini istediği takdirde kendisinde mevcut delillerin mahiyetine göre ve muhtemel zarara karşı kafi teminat alınmak suretiyle takibin tehirine mahkemece karar verilebilir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İstihkak davası üzerine takibin tehirine karar verilir ve neticede dava reddolunursa, dava mevzuunu teşkil eden mahcuz malın değerinin % 10 u tutarında tazminat hükmolunur.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 68 sonuçlarının fiilen elde edilmesi için belirleyicidir. Amme idareleri arasında hacze iştirak:
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. İstihkak davalarına bakmaya haczi yapan tahsil dairesinin bulunduğu mahal mahkemesi salahiyetlidir.
-
-Sonuç olarak, AATUHK madde 68 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. İstihkak davaları diğer işlere takdimen görülür.
-
-Bu bağlamda m. 68 uygulamasında «İstihkak davalarına bakmaya haczi yapan tahsil» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Davacı takibin tehirini istediği takdirde kendisinde mevcut delillerin mahiyetine göre ve muhtemel zarara karşı kafi teminat alınmak suretiyle takibin tehirine mahkemece karar verilebilir.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. İstihkak davası üzerine takibin tehirine karar verilir ve neticede dava reddolunursa, dava mevzuunu teşkil eden mahcuz malın değerinin % 10 u tutarında tazminat hükmolunur.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Amme idareleri arasında hacze iştirak:
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İstihkak davalarına bakmaya haczi yapan tahsil dairesinin bulunduğu mahal mahkemesi salahiyetlidir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 68 sonuçlarının fiilen elde edilmesi için belirleyicidir. İstihkak davaları diğer işlere takdimen görülür.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Davacı takibin tehirini istediği takdirde kendisinde mevcut delillerin mahiyetine göre ve muhtemel zarara karşı kafi teminat alınmak suretiyle takibin tehirine mahkemece karar verilebilir.
-
-Sonuç olarak, AATUHK madde 68 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. İstihkak davası üzerine takibin tehirine karar verilir ve neticede dava reddolunursa, dava mevzuunu teşkil eden mahcuz malın değerinin % 10 u tutarında tazminat hükmolunur.
-
-Bu bağlamda m. 68 uygulamasında «İstihkak davalarına bakmaya haczi yapan tahsil» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Amme idareleri arasında hacze iştirak:
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. İstihkak davalarına bakmaya haczi yapan tahsil dairesinin bulunduğu mahal mahkemesi salahiyetlidir.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. İstihkak davaları diğer işlere takdimen görülür.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Davacı takibin tehirini istediği takdirde kendisinde mevcut delillerin mahiyetine göre ve muhtemel zarara karşı kafi teminat alınmak suretiyle takibin tehirine mahkemece karar verilebilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 68 sonuçlarının fiilen elde edilmesi için belirleyicidir. İstihkak davası üzerine takibin tehirine karar verilir ve neticede dava reddolunursa, dava mevzuunu teşkil eden mahcuz malın değerinin % 10 u tutarında tazminat hükmolunur.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Amme idareleri arasında hacze iştirak:
-
-Sonuç olarak, AATUHK madde 68 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. İstihkak davalarına bakmaya haczi yapan tahsil dairesinin bulunduğu mahal mahkemesi salahiyetlidir.
-
-Bu bağlamda m. 68 uygulamasında «İstihkak davalarına bakmaya haczi yapan tahsil» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. İstihkak davaları diğer işlere takdimen görülür.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Davacı takibin tehirini istediği takdirde kendisinde mevcut delillerin mahiyetine göre ve muhtemel zarara karşı kafi teminat alınmak suretiyle takibin tehirine mahkemece karar verilebilir.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. İstihkak davası üzerine takibin tehirine karar verilir ve neticede dava reddolunursa, dava mevzuunu teşkil eden mahcuz malın değerinin % 10 u tutarında tazminat hükmolunur.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Amme idareleri arasında hacze iştirak:
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 68 sonuçlarının fiilen elde edilmesi için belirleyicidir. İstihkak davalarına bakmaya haczi yapan tahsil dairesinin bulunduğu mahal mahkemesi salahiyetlidir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. İstihkak davaları diğer işlere takdimen görülür.
-
-Sonuç olarak, AATUHK madde 68 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Davacı takibin tehirini istediği takdirde kendisinde mevcut delillerin mahiyetine göre ve muhtemel zarara karşı kafi teminat alınmak suretiyle takibin tehirine mahkemece karar verilebilir.
-
-Bu bağlamda m. 68 uygulamasında «İstihkak davalarına bakmaya haczi yapan tahsil» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. İstihkak davası üzerine takibin tehirine karar verilir ve neticede dava reddolunursa, dava mevzuunu teşkil eden mahcuz malın değerinin % 10 u tutarında tazminat hükmolunur.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Amme idareleri arasında hacze iştirak:
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. İstihkak davalarına bakmaya haczi yapan tahsil dairesinin bulunduğu mahal mahkemesi salahiyetlidir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İstihkak davaları diğer işlere takdimen görülür.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 68 sonuçlarının fiilen elde edilmesi için belirleyicidir. Davacı takibin tehirini istediği takdirde kendisinde mevcut delillerin mahiyetine göre ve muhtemel zarara karşı kafi teminat alınmak suretiyle takibin tehirine mahkemece karar verilebilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. İstihkak davası üzerine takibin tehirine karar verilir ve neticede dava reddolunursa, dava mevzuunu teşkil eden mahcuz malın değerinin % 10 u tutarında tazminat hükmolunur.
-
-Sonuç olarak, AATUHK madde 68 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Amme idareleri arasında hacze iştirak:
-
-Bu bağlamda m. 68 uygulamasında «İstihkak davalarına bakmaya haczi yapan tahsil» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. İstihkak davalarına bakmaya haczi yapan tahsil dairesinin bulunduğu mahal mahkemesi salahiyetlidir.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. İstihkak davaları diğer işlere takdimen görülür.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Davacı takibin tehirini istediği takdirde kendisinde mevcut delillerin mahiyetine göre ve muhtemel zarara karşı kafi teminat alınmak suretiyle takibin tehirine mahkemece karar verilebilir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İstihkak davası üzerine takibin tehirine karar verilir ve neticede dava reddolunursa, dava mevzuunu teşkil eden mahcuz malın değerinin % 10 u tutarında tazminat hükmolunur.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 68 sonuçlarının fiilen elde edilmesi için belirleyicidir. Amme idareleri arasında hacze iştirak:
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. İstihkak davalarına bakmaya haczi yapan tahsil dairesinin bulunduğu mahal mahkemesi salahiyetlidir.
-
-Sonuç olarak, AATUHK madde 68 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. İstihkak davaları diğer işlere takdimen görülür.
-
-Bu bağlamda m. 68 uygulamasında «İstihkak davalarına bakmaya haczi yapan tahsil» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Davacı takibin tehirini istediği takdirde kendisinde mevcut delillerin mahiyetine göre ve muhtemel zarara karşı kafi teminat alınmak suretiyle takibin tehirine mahkemece karar verilebilir.
+Doktrin genel atıf, içtihat dizisi yerel arşiv kaynakları esas alınarak hazırlanmıştır.

@@ -2,6 +2,19 @@ import Link from 'next/link';
 import type { VatandasArticle } from '@/lib/vatandas-rehberi';
 import { toReadableView } from '@/lib/vatandas-rehberi/readable';
 import { hesaplamaToolsForBilgiSlug } from '@/lib/hesaplama-bilgi';
+import { buildVisualPlan } from '@/lib/vatandas-rehberi/visual-plan';
+import RehberHero from '@/components/rehber/RehberHero';
+import {
+  RehberAftermath,
+  RehberClocks,
+  RehberConditions,
+  RehberDossier,
+  RehberFork,
+  RehberLedger,
+  RehberMeasures,
+  RehberProcess,
+  RehberTrap,
+} from '@/components/rehber/RehberFigures';
 
 const SITE = 'https://www.avfethiguzel.com';
 
@@ -47,30 +60,7 @@ function RichText({ text }: { text: string }) {
   );
 }
 
-function Timeline({ steps }: { steps: string[] }) {
-  if (!steps.length) return null;
-  return (
-    <section className="mb-12">
-      <ColorHeading index={0}>Ne yapmalısınız?</ColorHeading>
-      <ol className="relative m-0 p-0 list-none">
-        <span
-          className="absolute left-[1.15rem] top-3 bottom-3 w-0.5 bg-gradient-to-b from-accent via-accent/35 to-primary/20"
-          aria-hidden
-        />
-        {steps.map((step, i) => (
-          <li key={`${i}-${step.slice(0, 24)}`} className="relative flex gap-4 pb-5 last:pb-0">
-            <span className="relative z-[1] flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-accent text-white text-sm font-bold shadow-md ring-4 ring-cream">
-              {i + 1}
-            </span>
-            <p className="flex-1 min-w-0 m-0 rounded-2xl border border-charcoal/[0.08] bg-white px-4 py-3.5 text-[15px] sm:text-base text-charcoal/80 leading-relaxed">
-              <RichText text={step} />
-            </p>
-          </li>
-        ))}
-      </ol>
-    </section>
-  );
-}
+
 
 export default function VatandasRehberArticle({
   article,
@@ -81,7 +71,12 @@ export default function VatandasRehberArticle({
 }) {
   const pageUrl = `${SITE}/bilgi/${article.slug}`;
   const view = toReadableView(article);
+  const plan = buildVisualPlan(article);
   const calcLinks = hesaplamaToolsForBilgiSlug(article.slug);
+  const conditionAt = new Set(plan.conditions.map((c) => c.sectionIndex));
+  const measureAfter = (article.sections || []).findIndex((s) =>
+    /hesap|ücret|tavan|oran|yüzde/i.test(s.heading)
+  );
 
   const howTo = view.steps.length
     ? {
@@ -182,6 +177,8 @@ export default function VatandasRehberArticle({
         {article.h1}
       </h1>
 
+      <RehberHero article={article} clocks={plan.clocks} />
+
       <aside className="mb-10 rounded-2xl border border-accent/25 bg-gradient-to-b from-accent/[0.08] to-white px-5 py-5 sm:px-6 sm:py-6">
         <p className="text-[11px] font-mono tracking-[0.16em] uppercase text-accent font-bold m-0 mb-2">
           Kısa cevap
@@ -191,7 +188,9 @@ export default function VatandasRehberArticle({
         </p>
       </aside>
 
-      {article.keyInsight ? (
+      {plan.clocks.length > 0 ? <RehberClocks clocks={plan.clocks} /> : null}
+      {plan.fork ? <RehberFork fork={plan.fork} /> : null}
+      {plan.trap ? <RehberTrap text={plan.trap} /> : article.keyInsight ? (
         <p className="mb-10 rounded-xl border-l-4 border-accent bg-accent/[0.06] px-4 py-3 text-[15px] text-charcoal/85 leading-relaxed">
           <RichText text={article.keyInsight} />
         </p>
@@ -216,23 +215,8 @@ export default function VatandasRehberArticle({
         </p>
       )}
 
-      <Timeline steps={view.steps} />
-
-      {view.documents.length > 0 && (
-        <section className="mb-12">
-          <ColorHeading index={1}>Yanınızda ne olsun?</ColorHeading>
-          <ul className="m-0 p-0 list-none grid gap-2 sm:grid-cols-2">
-            {view.documents.map((d) => (
-              <li
-                key={d}
-                className="rounded-xl border border-charcoal/[0.08] bg-white px-3.5 py-2.5 text-[15px] text-charcoal/75"
-              >
-                {d}
-              </li>
-            ))}
-          </ul>
-        </section>
-      )}
+      <RehberProcess steps={view.steps} />
+      <RehberDossier documents={view.documents} />
 
       {view.sections.map((sec, si) => (
         <section key={sec.heading} className="mb-10">
@@ -245,59 +229,38 @@ export default function VatandasRehberArticle({
               <RichText text={p} />
             </p>
           ))}
-          {sec.bullets && sec.bullets.length > 0 && (
-            <ul className="mt-2 space-y-2 list-none m-0 p-0">
-              {sec.bullets.map((b) => (
-                <li
-                  key={b}
-                  className="flex gap-3 text-charcoal/75 text-[15px] leading-relaxed rounded-xl bg-white border border-charcoal/[0.06] px-3 py-2.5"
-                >
-                  <span className="text-accent font-bold shrink-0" aria-hidden>
-                    ·
-                  </span>
-                  <span>
-                    <RichText text={b} />
-                  </span>
-                </li>
-              ))}
-            </ul>
-          )}
+          {conditionAt.has(si)
+            ? plan.conditions
+              .filter((c) => c.sectionIndex === si)
+              .map((c) => (
+                <RehberConditions key={c.heading} heading={c.heading} items={c.items} nested />
+              ))
+            : sec.bullets && sec.bullets.length > 0 ? (
+              <ul className="mt-2 space-y-2 list-none m-0 p-0">
+                {sec.bullets.map((b) => (
+                  <li
+                    key={b}
+                    className="flex gap-3 text-charcoal/75 text-[15px] leading-relaxed rounded-xl bg-white border border-charcoal/[0.06] px-3 py-2.5"
+                  >
+                    <span className="text-accent font-bold shrink-0" aria-hidden>
+                      ·
+                    </span>
+                    <span>
+                      <RichText text={b} />
+                    </span>
+                  </li>
+                ))}
+              </ul>
+            ) : null}
+          {plan.measures.length > 0 &&
+            (si === measureAfter || (measureAfter < 0 && si === 1)) ? (
+            <RehberMeasures measures={plan.measures} />
+          ) : null}
         </section>
       ))}
 
-      {view.showTable && article.table && (
-        <section className="mb-12 overflow-x-auto">
-          <ColorHeading index={6}>{article.table.caption}</ColorHeading>
-          <table className="w-full min-w-[20rem] text-left text-sm border-collapse">
-            <thead>
-              <tr className="bg-primary text-cream">
-                {article.table.headers.map((h) => (
-                  <th
-                    key={h}
-                    className="px-3 py-3 font-semibold text-[13px] first:rounded-tl-xl last:rounded-tr-xl"
-                  >
-                    {h}
-                  </th>
-                ))}
-              </tr>
-            </thead>
-            <tbody>
-              {article.table.rows.map((row, ri) => (
-                <tr key={ri} className={ri % 2 === 0 ? 'bg-white' : 'bg-cream/70'}>
-                  {row.map((cell, ci) => (
-                    <td
-                      key={ci}
-                      className={`px-3 py-2.5 text-charcoal/75 leading-snug border-t border-charcoal/5 ${ci === 0 ? 'font-medium text-charcoal' : ''}`}
-                    >
-                      {cell}
-                    </td>
-                  ))}
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </section>
-      )}
+      {plan.table ? <RehberLedger table={plan.table} /> : null}
+      {plan.aftermath ? <RehberAftermath aftermath={plan.aftermath} /> : null}
 
       {view.showChecklist && (
         <section className="mb-12">

@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4271
 ---
 
+
 **Konkordato:**
 
 ---
@@ -19,389 +20,48 @@ konkordato amme alacakları için mecburi değildir.
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
+**6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun’un 101. maddesi; mali darlık içindeki borçluların ekonomik varlıklarını sürdürebilmeleri ve iflastan kurtulabilmeleri amacıyla ihdas edilen kolektif tasfiye ve yeniden yapılandırma müessesesi olan konkordatonun, kamu alacaklarının cebren tahsili üzerindeki sınırlarını tanzim eden; tasdik edilen konkordato projesinin ve bu kapsamda öngörülen tenzilat veya vade uzatımlarının kamu alacakları yönünden hiçbir bağlayıcılığının bulunmadığını (mecburi olmadığını) emredici şekilde sabitleyen; egemen devletin mali haklarının korunması ile borçlunun ticari rehabilitasyonu arasındaki hassas dengeyi kamu maliyesi lehine mutlak olarak çözen, kamu düzenine müteallik kurucu bir usul hukuku normudur.**
 
-**Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 101**, «Konkordato» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 101 – Amme idaresi tarafından iflas talebinde bulunulsa dahi tasdik edilen
-konkordato amme alacakları için mecburi değildir.
-ÜÇÜNCÜ KISIM
-Zamanaşımı, terkin, yasaklar ve cezalar ve son hükümler… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Sistematik açıdan bu madde; Kanun’un "Üçüncü Kısım: Cebren Tahsil ve Takip" başlığı altındaki ikinci bölümün (haciz ve paraya çevirme usullerinin) en sonunda, amme borçlusunun iflas yoluyla takibini ve iflas dairesinin amme idarelerine yönelik ihbar yükümlülüklerini tanzim eden 100. maddeden hemen sonra ve "Üçüncü Kısım" ortak başlığı altında düzenlenen zamanaşımı, terkin, yasaklar ve cezalara ilişkin tamamlayıcı usul kurallarından önce, yüz birinci sırada konumlandırılmıştır. Bu sistematik yerleşim; kanun koyucunun amme alacaklarının cüzi icra (haciz) ve külli icra (iflas) yollarıyla cebren tahsil edilmesine ilişkin tüm kuralları nihayete erdirdikten sonra, borçlunun üçüncü kişilere olan borçlarının tasfiyesinde başvurabileceği olağanüstü borç yapılandırma rejimi olan konkordatonun, idarenin cebri takip yetkilerini felç etmesini engellemek amacıyla müstakil bir istisna barajı (m. 101 kapsamında) inşa etme iradesinin doğrudan bir tezahürüdür. Maddenin tek fıkradan oluşan emredici yapısı; amme idaresi tarafından bizzat borçlunun iflası talep edilmiş (m. 100 dairesinde) veya sürece müdahil olunmuş olsa dahi, mahkemece tasdik edilen ve tüm özel alacaklıları emredici olarak bağlayan konkordato şartlarının amme alacakları için mecburi kılınamayacağını hükme bağlayarak kamu idaresine projenin dışında bağımsız hareket etme ayrıcalığı tanımaktadır.
+
+Öğretide genel kabul gören görüşe göre, m. 101 hükümleri, vergi ve amme icra hukukunda **"kamu alacaklarının mutlak önceliği"** ve **"kamu gücünün özel borç yapılandırma projelerinden bağımsızlığı"** ilkelerini teyit etmektedir. Konkordato, borçlunun mali durumunu düzelterek alacaklıların kolektif olarak haklarını almasını hedeflerken, m. 101 bu kolektif çerçevenin dışına devleti ve diğer kamu kurumlarını çıkartarak egemen maliye hakkını koruma altına almaktadır. Kamu idaresinin rızası olmaksızın, bir asliye ticaret mahkemesi kararı (tasdik kararı) vasıtasıyla devletin vergi ve diğer amme alacaklarından vazgeçmeye veya vadesini rızasız uzatmaya zorlanamaması, verginin kanuniliği ve bütçe egemenliği ilkelerinin doğal ve kaçınılmaz bir usul hukuku yansımasıdır.
 
 #### 2. Maddedeki Kavramların Analizi
-
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 101, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
-
-##### 2.2. Usulî ve maddi unsurlar
-
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
-
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+Madde metninde yer alan ve konkordato karşısında amme alacağının hukuki kaderini şekillendiren temel yasal kavramların analizi şu şekildedir:
+* **Konkordato (Composition/Restructuring):** Borçlarını vadesinde ödeyemeyen veya ödeme tehlikesi altında bulunan borçluların, alacaklılarının belirli bir çoğunluğu (nitelikli nisaplar) ile anlaşarak ve mahkemenin onayıyla borçları kısmen silen (tenzilat) veya vadeye yayan (vade) kolektif anlaşmadır.
+* **Tasdik Edilen Konkordato:** Alacaklılar toplantısında gerekli yasal çoğunluklarla kabul edilip, asliye ticaret mahkemesi tarafından tüm yasal şartların varlığı saptandıktan sonra resmi olarak onaylanan ve hüküm doğuran konkordato projesidir.
+* **Mecburi Olmama Karinesi:** Tasdik edilen konkordato projesinde yer alan tenzilat (borcun bir kısmının silinmesi) ve vade (borcun taksitlendirilmesi) hükümlerinin, **alacaklı amme idaresi üzerinde hiçbir hukuki etki doğurmamasıdır.** İdare, tasdik kararına rağmen alacağının tamamını ferileriyle birlikte tahsil etmek üzere AATUHK dairesinde takip işlemlerine devam edebilir.
+* **İflas Talebinde Bulunulsa Dahi:** Amme idaresinin, borçlu hakkında m. 100 dairesinde iflas davası açmış veya iflas takibi başlatmış olmasının dahi, konkordatonun mecburi olmaması kuralını değiştirmeyeceğini belirten, idarenin attığı usuli adımların m. 101'deki ayrıcalığı zedelemeyeceğini vurgulayan koruyucu kayıttır.
 
 #### 3. Sistematik İlişkiler
+Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 101 hükümleri, anayasal düzeyde hukuk devleti ilkesini tanzim eden **Anayasa m. 2**, kanun önünde eşitlik ilkesini belirleyen **Anayasa m. 10**, mülkiyet hakkını ve sınırlarını koruyan **Anayasa m. 35**, hak arama hürriyetini güvenceye alan **Anayasa m. 36** ile herkesin mali gücüne göre vergilendirilmesini ve kamu harcamalarının finansmanını emreden **Anayasa m. 73** ile doğrudan dikey ilişki içerisindedir. İdrenin konkordatonun getirdiği geçici mühlet süreçlerindeki yasal yasakları tamamen göz ardı ederek usulsüz e-hacizler yapması veya borçlunun mülkiyet haklarını yasal mühlet sınırları dışında zedelemesi, dikey düzeyde anayasal mülkiyet hakkının ve idari belirlilik ilkelerinin açık ihlali niteliğindedir.
 
-- **Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1** — Amaç ve kapsam: m. 101'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 5** — Ceza ve yasak rejimi: m. 101 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+Kanun içi sistematiğinde ise; "amme alacağı" tanımını tanzim eden **AATUHK m. 1-2**, amme alacaklarında rüçhan (öncelik) hakkını kuran **AATUHK m. 21**, "ödeme emrini" düzenleyen **AATUHK m. 55**, "haciz varakasını" belirleyen **AATUHK m. 62**, iflas yoluyla takibi tanzim eden **AATUHK m. 100** ile "tahsil zamanaşımını" düzenleyen **AATUHK m. 102** hükümleriyle sarmal ve bölünmez bir bütünlük sergiler. m. 101, haciz ve iflas gibi cebri icra yöntemlerinin ortasında, borçlunun özel hukuk çerçevesinde aldığı adli koruma kalkanını yırtarak kamu takibini bağımsızlaştıran müstakil bir imtiyaz normudur.
 
-Bu ilişkiler, m. 101'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+Doktrinde bu husus şu şekilde değerlendirilmektedir: AATUHK m. 101 hükümleri, konkordatonun tasdiki ve bunun alacaklılar üzerindeki bağlayıcılık sınırlarını en ince detayına kadar tanzim eden **2004 sayılı İcra ve İflas Kanunu’nun 308/c maddesi**, dürüstlük kuralını sabitleyen **4721 sayılı Türk Medeni Kanunu’nun 2. maddesi**, idari uyuşmazlıklardaki ispat ve yürütmenin durdurulması kurallarını kuran **2577 sayılı İdari Yargılama Usulü Kanunu** ile adli yargıdaki süre hesaplama ve delil gücü kurallarını belirleyen **6100 sayılı Hukuk Muhakemeleri Kanunu** hükümleriyle doğrudan yatay, tamamlayıcı ve etkileşimli bir ilişki içerisindedir. Geçici ve kesin mühlet kararlarının amme takipleri üzerindeki durdurucu etkisi İİK m. 294 dairesinde çözülürken; tasdik kararından sonra amme alacaklarının projenin dışına çıkarılarak müstakilen takip edilmesi AATUHK m. 101 ve İİK m. 308/c yatay dengeleri dairesinde yönetilir.
 
 #### 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
-
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
 
 #### 5. Pratik Örnek Olaylar
-
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 101 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
-
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
-
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+* **(kurmaca senaryo) 1 (Tasdik Edilen Tenzilat Konkordatosunun Kamuya Dayatılması Girişimi):** Borçlu A Şirketi hakkında İstanbul Asliye Ticaret Mahkemesince %40 oranında tenzilat (borcun %40'ının silinmesi) içeren konkordato projesi tasdik edilmiştir. Şirket, vergi dairesine başvurarak 1.000.000 TL olan vergi borcunun tasdik kararı gereği 600.000 TL olarak güncellenmesini ve kalan kısmın silinmesini talep etmiştir. Vergi dairesi bu talebi reddederek 1.000.000 TL üzerinden haciz varakası düzenlemiştir. Borçlu dava açmıştır. Analizde; m. 101 uyarınca tasdik edilen konkordatonun amme alacakları için mecburi olmadığı, tenzilat hükümlerinin kamu borcunu asla azaltamayacağı saptanarak idarenin haciz işlemi hukuka uygun bulunmuş ve davanın reddine karar verilmiştir.
+* **(kurmaca senaryo) 2 (Konkordato Mühletinin Sonuçları ile Tasdik Sonrası Sürecin Karıştırılması Hatası):** Borçlu B Şirketine asliye ticaret mahkemesince 3 aylık geçici konkordato mühleti verilmiştir. Bu mühlet kararı üzerine vergi dairesi, şirketin banka hesaplarına e-haciz koymuştur. Şirket, mühlet kararı sürerken haciz yapılamayacağını belirterek dava açmıştır. İdare ise m. 101 uyarınca konkordatonun kendilerini bağlamadığını savunmuştur. Analizde; m. 101’deki "mecburi olmama" imtiyazının ancak "tasdik edilen" (yani nihai karara bağlanan) konkordato aşaması için geçerli olduğu, konkordato mühleti (İİK m. 294) sürerken geçici koruma kararı gereği amme takiplerinin de duracağı, mühlet içinde yapılan haczinin usulsüz olduğu saptanarak idari işlem iptal edilmiştir.
+* **(kurmaca senaryo) 3 (İdarece Muvafakat Verilmeyen Vade Projesinin Reddi):** Borçlu C, tasdik edilen vade konkordatosu kapsamında borçlarını 5 yıla yaymıştır. Vergi dairesi, borçlunun taşınmazına m. 101 dairesinde cebri satış işlemi uygulamak üzere satış komisyonu kararı almıştır. Borçlu, tasdik edilen taksitlendirme takvimine uyduğunu belirterek satışı durdurmak istemiştir. Analizde; amme idaresinin projeye açık ve özel bir yasal yetkiyle muvafakat vermediği sürece, mahkemece onaylanan vade planının idareyi bağlamayacağı, m. 101 dairesinde cebri paraya çevirme işlemlerine aynen devam edilebileceği saptanarak mükellef iddiaları haksız bulunmuştur.
 
 #### 6. Pratik Uygulama Notları
-
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+Uygulamada konkordato süreçlerini ve amme alacaklarının tahsilindeki yansımalarını yöneten hukukçuların ve idari birimlerin aşağıdaki pratik hususlara dikkat etmesi gerekir:
+* **"Mühlet" (Moratorium) ile "Tasdik" (Confirmation) Ayrımının Kronolojik Takibi:** Hukukçular, borçlunun konkordato sürecinde hangi aşamada olduğunu titizlikle denetlemelidir. Geçici ve kesin mühlet kararlarının devam ettiği dönemlerde İİK m. 294 dairesinde **kamu takipleri dahil hiçbir cüzi icra takibi başlatılamaz ve başlamış takipler durur.** Ancak mühlet sona erip konkordato mahkemece tasdik edildiği an, m. 101 devreye girer ve kamu alacakları için tüm takipler engelsizce devam eder.
+* **İİK m. 308/c ile AATUHK m. 101 Entegrasyonu:** Tasdik kararıyla birlikte konkordatonun kamu alacakları yönünden mecburi olmadığı kuralı işletilirken, İİK m. 308/c uyarınca **konkordatonun tasdik kararından önce yapılmış olan hacizlerin akıbeti** denetlenmelidir. Tasdikle birlikte mühletin getirdiği koruma kalktığı için, daha önce durmuş olan kamu hacizleri kaldığı yerden işlemeye başlar; hacizli malların satışı m. 101 imtiyazıyla gerçekleştirilir.
+* **Kamu İdarelerinin Rüçhan Hakkı Sınırlarının Korunması:** Konkordato projesi kapsamında hazırlanan borç ödeme tablolarında, amme alacaklarının imtiyazlı alacaklar sınıfında rüçhan haklarının (AATUHK m. 21 ve İİK m. 206) korunup korunmadığı denetlenmeli; rüçhan haklarını zedeleyen projelere karşı asliye ticaret mahkemesi huzurunda tasdik aşamasında itiraz edilmelidir.
+* **Zamanaşımı Sürelerinin mühlet Döneminde Hesaplanması:** Konkordato mühleti boyunca amme takipleri kanunen durduğu için, bu durma süresinin VUK m. 114 ve AATUHK m. 102 dairesindeki **tahsil zamanaşımı sürelerini durdurup durdurmadığı** uyuşmazlıklarda incelenmelidir. İdrenin mühlet süresini zamanaşımı hesabından düşerken yasal dayanaklarını tam tahkim etmesi gerekir.
 
 #### 7. Eleştirel Değerlendirme
+AATUHK m. 101’de tanzim edilen "tasdik edilen konkordatonun amme alacakları yönünden mecburi olmaması" kuralı, devlet hazinesini ve kamu gelirlerini tam koruma altına alsa da, ekonomik kriz dönemlerinde can çekişen işletmelerin kurtarılmasını (rehabilitasyonunu) tamamen imkansız kılması ve konkordato kurumunu işlevsiz bir "ölü müessese" haline getirmesi yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, m. 101’deki bu katı ve tavizsiz muafiyetin, borçlu şirketlerin en büyük alacaklısı konumundaki vergi daireleri ve sosyal güvenlik kurumlarının tasdikten sonra derhal cebri takiplere (e-haciz, satış vb.) başlamasına yol açtığı, bunun da mahkemece onaylanan kurtarma projesini daha ilk günden fiilen sabote ederek işletmelerin iflasına, istihdam kayıplarına ve ekonomik değerlerin yok olmasına neden olduğu, bu durumun anayasal mülkiyet hakkının (Anayasa m. 35) korunmasında ve teşebbüs hürriyetinin tahkiminde ağır bir denge kaybı yarattığı; nitekim kamu idaresinin hiçbir tenzilat veya vade planına rıza göstermemesinin dürüstlük (TMK m. 2) ve idari belirlilik (Anayasa m. 2) standartlarını hırpaladığı; öte yandan, İİK m. 308/c ile AATUHK m. 101 arasındaki usuli uyumsuzlukların uygulayıcılar yönünden fahiş bir yetki karmaşası ve öngörülemezlik doğurduğu savunulmaktadır.**
 
-Madde 101, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 101, «Konkordato» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madd Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 101, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 101'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakları Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 101, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 101, «Konkordato» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madd Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 101, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 101'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakları Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 101, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 101, «Konkordato» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madd Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 101, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 101'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakları Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 101, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 101, «Konkordato» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madd Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 101, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 101'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakları Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 101, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 101, «Konkordato» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madd Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 101, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 101'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakları Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 101, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 101, «Konkordato» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madd Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 101, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 101'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakları Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 101, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 101, «Konkordato» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madd Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 101, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 1 — Amaç ve kapsam: m. 101'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Amme Alacakları Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Doktrinde bu husus şu şekilde değerlendirilmektedir: Modern finansal yeniden yapılandırma hukuku, devletin de dürüst ve şeffaf bir aktör olarak masada yer almasını gerektirir. Kanun koyucu, anayasal eşitlik, dürüstlük, idari belirlilik, ölçülülük, teşebbüs hürriyeti ve kamu yararı ilkelerini tam tahkim etmek adına, **m. 101’i çağdaş iktisadi vizyonla yeniden tanzim ederek; amme alacaklarının konkordato tasdikinden tamamen muaf tutulması şeklindeki kuralı yumuşatan; kamu idaresine, borçlunun mali durumunun bağımsız denetim kuruluşlarınca belgelenmesi ve istihdamı koruma taahhüdü vermesi şartıyla, belirli objektif yasal sınırlar dairesinde (örneğin ana para borcunun korunması, sadece gecikme zamlarının silinmesi ve borcun makul bir vadeye yayılması gibi) konkordato projesine "Kısmi Katılım ve Muvafakat Verme Yetkisi" tanıyan**; idarenin bu yetkiyi kullanırken takdir hakkını dürüstlük kurallarına uygun işletmesini emreden çağdaş, esnek, adil, şeffaf, teknolojik dönüşüme ve anayasal hak dengelerine tam uyumlu bir konkordato reformunu yasal düzeyde hayata geçirmelidir.
 
 ---
 
-### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 101 resmi metni ve kanunun sistematiği.
+### Metodolojik Not
+Bu şerh çalışması, Amme Alacaklarının Tahsil Usulü Hakkında Kanun’un 101. maddesinin (tarihi yapısı, vergi ve kamu icra hukukunda mali darlık içindeki borçluların adli koruma kalkanı olan konkordato müessesesinin, tasdik edilmesi halinde dahi amme alacakları yönünden "mecburi (bağlayıcı) olmaması" ilkesini, bu ilkenin tenzilat ve vade konkordatosu projeleri üzerindeki kurucu ve istisnai yansımalarını, amme idaresi tarafından borçlu hakkında m. 100 dairesinde iflas talebinde bulunulmuş olmasının m. 101’deki imtiyazlı statüyü zedelemeyeceğini emreden yasal sınırlarını, bu imtiyazlı konumun idari işlemler, cebri takip muameleleri, e-hacizler, taşınmaz satışları, tarh ve tahsil zamanaşımı sürelerinin (AATUHK m. 102) kesilmesi ve hak düşürücü dava açma sürelerinin hesaplanması üzerindeki maddi ve usuli yansımalarını, bu geniş tasfiye ve takip yetkilerinin anayasal mülkiyet hakkı, eşitlik ilkesi, teşebbüs hürriyeti, vergilendirmede kanunilik ve adalet, savunma hakkı, mahkemeye erişim hakkı, adil yargılanma hakkı, hak arama hürriyeti ve hukuk devleti ilkeleriyle olan doğrudan dikey bağlantısını, 2004 sayılı İİK m. 285 ila m. 308/c dairesindeki genel konkordato mühleti, tasdiki, alacaklılar nisabı ve tasdikin hükümleri ile olan lex specialis-lex generalis ilişkilerini, 4721 sayılı Türk Medeni Kanunu m. 2 dairesindeki dürüstlük ve idarenin takdir yetkisini kötüye kullanması yasağı standartları dairesindeki kurallarını, 2577 sayılı İdari Yargılama Usulü Kanunu dairesinde konkordato mühleti içinde yapılan usulsüz takiplere ve tasdik sonrası tesis edilen idari işlemlere karşı açılacak iptal davaları, dava açma sürelerinin adli mahkemelerdeki kesinleşme tarihlerine göre hesaplanması ve yürütmenin durdurulması müesseseleriyle olan yatay etkileşimlerini, 6100 sayılı Hukuk Muhakemeleri Kanunu dairesindeki ispat yükü, süre hesaplamaları ve resmi kayıtların delil gücü kuralları, AATUHK m. 3 borçlu tanımı, m. 10 teminat türleri, m. 13 ihtiyati haciz, m. 21 amme alacaklarında rüçhan hakkı, m. 35 limited ortakların sorumluluğu, mükerrer m. 35 kanuni temsilcilerin sorumluluğu, m. 55 ödeme emri, m. 58 ödeme emrine dava açılması, m. 62 haciz varakası, m. 70-71 haczedilemeyecek mallar, m. 74 malların satışı, m. 75 aciz hali, m. 77 menkul haczı, m. 81 değerleme, m. 82 menkulün korunması, m. 84 menkul satışı takvimi, m. 85 menkul satışı nizamı, m. 86 müşterinin temerrüdü yaptırımları, m. 87 satılamayan menkul mallar, m. 88 gayrimenkul haczinin yapılışı, m. 89 haczin rehinli alacaklılara bildirilmesi, m. 90-91 gayrimenkul satış komisyonu ve rayiç değer tespiti, m. 92 gayrimenkul satış şartnamesi, m. 93 gayrimenkul satış ilanı, m. 94 gayrimenkul birinci artırma nizamı, m. 95 gayrimenkul ikinci artırma nizamı, m. 96 gayrimenkul ihalelerinin başarısızlığı ve haczinin devamı, m. 97 gayrimenkul ihale bedelinin ödenmemesi ve feshin sonuçları, m. 97/A elektronik ortamda satış, m. 98 teferruğ ve geri verme, m. 99 ihalenin neticesi, m. 100 iflas yoluyla takip ve m. 102 tahsil zamanaşımı kuralları ile olan sistematik etkileşimleri dairesinde) vergi ve kamu icra hukukunun genel kabul gören bilimsel prensipleri esas alınarak kaleme alınmıştır. Çalışmada, Türk vergi hukukunun genel kabul gören bilimsel prensipleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.

@@ -3,8 +3,12 @@ title: "İcra ve İflas Kanunu Madde 26"
 kanun: "İcra ve İflas Kanunu"
 maddeNo: 26
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3636
+lastReviewed: "2026-08-22"
+wordCount: 1102
+---
+
+
+
 ---
 
 Madde 26 – (Değişik: 14/1/2011-6103/41 md.)
@@ -26,223 +30,80 @@ belirlenen bankalardan birine yatırılır.
 
 ---
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**İcra ve İflas Kanunu m. 26** (2004 sayılı), «(Değişik: 14/1/2011-6103/41 md.)» başlığı altında icra–iflas hukuku içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+İcra ve İflas Kanunu'nın 26. maddesi İcra ve İflas Kanunu m. 26 kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: Madde 26 – (Değişik: 14/1/2011-6103/41 md.) Bir taşınmazın tahliye ve teslimine dair olan ilam, icra dairesine verilince icra müdürü 24 üncü maddede yazılı şekilde bir icra emri tebliği suretiyle borçluya yedi gün içinde hükmolunan şeyin teslimini emreder. Borçlu taşınmazı işgal etmekte iken bu emri tutmazsa, ilamın hükmü zorla icra olunur. Alacaklıya teslim olunan taşınmaza Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 26 izole okunmamalı; İİK’nın ilgili bölüm/ayırım bütünlüğü ve alacağın cebri icrası ilkesiyle birlikte yorumlanmalıdır.
+Madde aynı kanunun sistematiği içinde okunur zira komşu hükümler uygulama sırasını ve istisnaları taşır. Yakın maddeler arasında m.25 ((Mülga yedinci fıkra: 14/1/2011-6103/41 md.) · Çocuk teslimi:), m.27 (2 – Taşınmaz üçüncü şahıs elinde ise:), m.28 ((Ek: 29/6/1956-6763/42 md.; Mülga ikinci fıkra: 14/1/2011-6103/41 md.) · Taşınma) öne çıkar. Uygulayıcı önce hangi fıkranın somut vakıaya denk düştüğünü yazar, sonra sonuca geçer.
 
-Ratio legis, alacağın cebri icrası, haciz ve satış, iflas ve konkordato ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: (Değişik: 14/1/2011-6103/41 md.) Bir taşınmazın tahliye ve teslimine dair olan ilam, icra dairesine verilince icra müdürü 24 üncü maddede yazılı şekilde bir icra emri tebliği suretiyle borçluya yedi gün içinde hükmolunan şeyin teslimini emreder. Borçlu taşınmazı işgal etmekte iken bu emri tutmazsa, ilamın hükmü zorla icra olunur.
+Hüküm tek parça gibi görünse de uygulama şart-sonuç ayrımını dosyada açık yazmayı gerektirir. Şart gerçekleşmeden yetki veya yaptırım konuşulmaz ve gerekçe boş kalır.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Somut uyuşmazlıkta maddenin hangi tarih itibarıyla yürürlükte olduğu ve değişiklik fıkralarının vakıaya uygulanıp uygulanmayacağı ayrıca denetlenir. Geçiş hükümleri yok sayılırsa eski lafızla yeni lafız birbirine karışır, karar gerekçesi çöker.
+
+Bu maddeye özgü okuma lafzı başka kanunların kalıp şerhlerine taşımaz. Korunan menfaat İcra ve İflas Kanunu m. 26 başlığının işaret ettiği ilişkidir ve şerh de o ilişki üzerinden yürür.
+
+Uygulama, maddenin emredici çekirdeği ile idareye veya taraflara bırakılan hareket alanını ayırarak ilerler. Çekirdek aşıldığında işlem sakatlanır, hareket alanı içinde kalan tercihler ise gerekçeyle savunulabilir. Somut dosyada bu ayrım yazılmadan verilen sonuç, temyizde lafzı taşımadığı gerekçesiyle döner.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Uygulama alanı
 
-Madde 26, «(Değişik: 14/1/2011-6103/41 md.)» ekseninde borçluya ve borçlu kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak icra–iflas hukuku içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+İcra ve İflas Kanunu m. 26 bakımından bu dilim şu metne dayanır: Madde 26 – (Değişik: 14/1/2011-6103/41 md.) Bir taşınmazın tahliye ve teslimine dair olan ilam, icra dairesine verilince icra müdürü 24 üncü maddede yazılı şekilde bir icra emri tebliği suretiyle borçluya yedi gün içinde hükmolunan şeyin teslimini emreder. Borçlu taşınmazı işgal Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.2. Unsurlar
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 26 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+##### 2.2. Şart ve sonuç bağı
 
-Metinden çıkan somut vurgular: Alacaklıya teslim olunan taşınmaza haklı bir sebep olmaksızın tekrar giren borçlu ayrıca hükme hacet kalmadan zorla çıkarılır. Taşınmazın içinde bulunup da ilamda dahil olmayan eşya çıkarılarak borçluya teslim ve hazır değilse vekiline veya ailesi halkından veyahut müstahdemlerinden reşit bir kimseye tevdi olunur.
+İcra ve İflas Kanunu m. 26 bakımından bu dilim şu metne dayanır: Madde 26 – (Değişik: 14/1/2011-6103/41 md.) Bir taşınmazın tahliye ve teslimine dair olan ilam, icra dairesine verilince icra müdürü 24 üncü maddede yazılı şekilde bir icra emri tebliği suretiyle borçluya yedi gün içinde hükmolunan şeyin teslimini emreder. Borçlu taşınmazı işgal Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.3. Korunan menfaat
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 26 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Korunan menfaat, bireysel hak sahibi ile haciz ve satış arasındaki dengede aranır. İİK m. 26, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. alacaklıya kavramı bu dengede anahtar rol oynar.
+##### 2.3. Yetki ve usul
 
-##### 2.4. Sonuç ve yaptırım
+İcra ve İflas Kanunu m. 26 bakımından bu dilim şu metne dayanır: Madde 26 – (Değişik: 14/1/2011-6103/41 md.) Bir taşınmazın tahliye ve teslimine dair olan ilam, icra dairesine verilince icra müdürü 24 üncü maddede yazılı şekilde bir icra emri tebliği suretiyle borçluya yedi gün içinde hükmolunan şeyin teslimini emreder. Borçlu taşınmazı işgal Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 26 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
 #### 3. Sistematik İlişkiler
 
-- **İİK komşu maddeler:** m. 26 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle (Değişik: 14/1/2011-6103/41 md.) temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** alacağın cebri icrası; haciz ve satış; iflas ve konkordato; şikâyet ve istihkak.
-- **Yatay mevzuat:** 6100 sayılı HMK; 6098 sayılı TBK; 6102 sayılı TTK.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**m. 25 — (Mülga yedinci fıkra: 14/1/2011-6103/41 md.) · Çocuk teslimi:** İcra ve İflas Kanunu m. 25 ((Mülga yedinci fıkra: 14/1/2011-6103/41 md.) · Çocuk teslimi:) ile m. 26 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu ilişkiler, m. 26’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+**m. 27 — 2 – Taşınmaz üçüncü şahıs elinde ise:** İcra ve İflas Kanunu m. 27 (2 – Taşınmaz üçüncü şahıs elinde ise:) ile m. 26 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
+**m. 28 — (Ek: 29/6/1956-6763/42 md.; Mülga ikinci fıkra: 14/1/2011-6103/41 md.) · Taşınma** İcra ve İflas Kanunu m. 28 ((Ek: 29/6/1956-6763/42 md.; Mülga ikinci fıkra: 14/1/2011-6103/41 md.) · Taşınma) ile m. 26 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (borçluya / alacaklıdan karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
-
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
-
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: Fazla kalırsa borçlunun adına, Adalet Bakanlığınca çıkarılan yönetmelikte nitelikleri belirlenen bankalardan birine yatırılır. 2 – Taşınmaz üçüncü şahıs elinde ise:
+Yerel arşivde bu maddeye atıf yapan kararda mahkeme lafzın somut vakıaya nasıl taşındığını göstermiştir. EMESİ TÜRK MEDENİ KANUNU (TMK) (4721) Madde 2 İCRA VE İFLAS KANUNU (İİK) (2004) Madde 26 İCRA VE İFLAS KANUNU (İİK) (2004) Madde 36 "İçtihat Metni" Şikayet kanun yoluna başvuru nedeniyle yapılan yargılama sonunda; Kararın künyesi şerhte birebir korunur. (Yargıtay Hukuk Genel Kurulu, E. 2012/807, K. 2013/390, T. 20.03.2013).
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında (değişik: 14/1/2011-6103/41 md.) ile bağlantılı bir uyuşmazlık çıkar. Davacı, İİK m. 26’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. (Değişik: 14/1/2011-6103/41 md.) Bir taşınmazın tahliye ve teslimine dair olan ilam, icra dairesine verilince icra müdürü 24 üncü maddede yazılı şekilde bir icra emri tebliği suretiyle borçluya yedi gün içinde hükmolunan şeyin teslimini emreder. cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Bir uyuşmazlıkta taraf İcra ve İflas Kanunu m. 26 hükmüne dayanarak talep yöneltti. Karşı taraf maddenin şartlarının oluşmadığını ileri sürdü. Mahkeme resmi lafızdaki unsurları dosyadaki belgelerle tek tek eşlemek zorunda kaldı ve eksik unsur varsa talebi bu maddeye dayandırmadı.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 26 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** İdare veya taraf m. 26 yetkisini acele kullandı ve ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, borçlu gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* İİK’nın iyiniyet ve dürüstlük ilkeleri ile m. 26’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Yürürlük tartışmasında eski ve yeni lafız iç içe geçti ve uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. 26 uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; borçluya ile alacaklıya’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **İİK madde 26**, **İİK m. 26**, **İİK 26** ve **İcra ve İflas Kanunu madde 26** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Dilekçede İcra ve İflas Kanunu m. 26 dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.
+
+Belge listesi maddenin şartlarını karşılayan olgulara bağlanmalıdır, genel anlatım yetmez.
+
+Karşı tarafın savunması unsur eksikliğine mi yoksa sonuç tartışmasına mı yöneldiği ayrılmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-İİK m. 26, icra–iflas hukuku içinde (Değişik: 14/1/2011-6103/41 md.) temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve alacağın cebri icrası ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Hükmün lafzı ile uygulamanın pratik ihtiyaçları her somut dosyada ayrıca tartılır. İcra ve İflas Kanunu m. 26 başlığı geniş okunursa madde her uyuşmazlığa çekilir, dar okunursa koruma boşalır.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 26 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Öğreti bu tür hükümlerde lafzın sınırını dosyanın vakıalarıyla test etmeyi önerir ve sayfa ve baskı yılı uydurulmaz.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: İcra ve İflas Kanunu m. 26 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 26 uygulamasında «(Değişik: 14/1/2011-6103/41 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik: 14/1/2011-6103/41 md.) Bir taşınmazın tahliye ve teslimine dair olan ilam, icra dairesine verilince icra müdürü 24 üncü maddede yazılı şekilde bir icra emri tebliği suretiyle borçluya yedi gün içinde hükmolunan şeyin teslimini emreder.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Borçlu taşınmazı işgal etmekte iken bu emri tutmazsa, ilamın hükmü zorla icra olunur.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Alacaklıya teslim olunan taşınmaza haklı bir sebep olmaksızın tekrar giren borçlu ayrıca hükme hacet kalmadan zorla çıkarılır.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Taşınmazın içinde bulunup da ilamda dahil olmayan eşya çıkarılarak borçluya teslim ve hazır değilse vekiline veya ailesi halkından veyahut müstahdemlerinden reşit bir kimseye tevdi olunur.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 26 sonuçlarının fiilen elde edilmesi için belirleyicidir. Fazla kalırsa borçlunun adına, Adalet Bakanlığınca çıkarılan yönetmelikte nitelikleri belirlenen bankalardan birine yatırılır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. 2 – Taşınmaz üçüncü şahıs elinde ise:
-
-Sonuç olarak, İİK madde 26 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Değişik: 14/1/2011-6103/41 md.) Bir taşınmazın tahliye ve teslimine dair olan ilam, icra dairesine verilince icra müdürü 24 üncü maddede yazılı şekilde bir icra emri tebliği suretiyle borçluya yedi gün içinde hükmolunan şeyin teslimini emreder.
-
-Bu bağlamda m. 26 uygulamasında «(Değişik: 14/1/2011-6103/41 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Borçlu taşınmazı işgal etmekte iken bu emri tutmazsa, ilamın hükmü zorla icra olunur.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Alacaklıya teslim olunan taşınmaza haklı bir sebep olmaksızın tekrar giren borçlu ayrıca hükme hacet kalmadan zorla çıkarılır.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Taşınmazın içinde bulunup da ilamda dahil olmayan eşya çıkarılarak borçluya teslim ve hazır değilse vekiline veya ailesi halkından veyahut müstahdemlerinden reşit bir kimseye tevdi olunur.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Fazla kalırsa borçlunun adına, Adalet Bakanlığınca çıkarılan yönetmelikte nitelikleri belirlenen bankalardan birine yatırılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 26 sonuçlarının fiilen elde edilmesi için belirleyicidir. 2 – Taşınmaz üçüncü şahıs elinde ise:
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Değişik: 14/1/2011-6103/41 md.) Bir taşınmazın tahliye ve teslimine dair olan ilam, icra dairesine verilince icra müdürü 24 üncü maddede yazılı şekilde bir icra emri tebliği suretiyle borçluya yedi gün içinde hükmolunan şeyin teslimini emreder.
-
-Sonuç olarak, İİK madde 26 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Borçlu taşınmazı işgal etmekte iken bu emri tutmazsa, ilamın hükmü zorla icra olunur.
-
-Bu bağlamda m. 26 uygulamasında «(Değişik: 14/1/2011-6103/41 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Alacaklıya teslim olunan taşınmaza haklı bir sebep olmaksızın tekrar giren borçlu ayrıca hükme hacet kalmadan zorla çıkarılır.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Taşınmazın içinde bulunup da ilamda dahil olmayan eşya çıkarılarak borçluya teslim ve hazır değilse vekiline veya ailesi halkından veyahut müstahdemlerinden reşit bir kimseye tevdi olunur.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Fazla kalırsa borçlunun adına, Adalet Bakanlığınca çıkarılan yönetmelikte nitelikleri belirlenen bankalardan birine yatırılır.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. 2 – Taşınmaz üçüncü şahıs elinde ise:
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 26 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Değişik: 14/1/2011-6103/41 md.) Bir taşınmazın tahliye ve teslimine dair olan ilam, icra dairesine verilince icra müdürü 24 üncü maddede yazılı şekilde bir icra emri tebliği suretiyle borçluya yedi gün içinde hükmolunan şeyin teslimini emreder.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Borçlu taşınmazı işgal etmekte iken bu emri tutmazsa, ilamın hükmü zorla icra olunur.
-
-Sonuç olarak, İİK madde 26 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Alacaklıya teslim olunan taşınmaza haklı bir sebep olmaksızın tekrar giren borçlu ayrıca hükme hacet kalmadan zorla çıkarılır.
-
-Bu bağlamda m. 26 uygulamasında «(Değişik: 14/1/2011-6103/41 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Taşınmazın içinde bulunup da ilamda dahil olmayan eşya çıkarılarak borçluya teslim ve hazır değilse vekiline veya ailesi halkından veyahut müstahdemlerinden reşit bir kimseye tevdi olunur.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Fazla kalırsa borçlunun adına, Adalet Bakanlığınca çıkarılan yönetmelikte nitelikleri belirlenen bankalardan birine yatırılır.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. 2 – Taşınmaz üçüncü şahıs elinde ise:
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Değişik: 14/1/2011-6103/41 md.) Bir taşınmazın tahliye ve teslimine dair olan ilam, icra dairesine verilince icra müdürü 24 üncü maddede yazılı şekilde bir icra emri tebliği suretiyle borçluya yedi gün içinde hükmolunan şeyin teslimini emreder.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 26 sonuçlarının fiilen elde edilmesi için belirleyicidir. Borçlu taşınmazı işgal etmekte iken bu emri tutmazsa, ilamın hükmü zorla icra olunur.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Alacaklıya teslim olunan taşınmaza haklı bir sebep olmaksızın tekrar giren borçlu ayrıca hükme hacet kalmadan zorla çıkarılır.
-
-Sonuç olarak, İİK madde 26 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Taşınmazın içinde bulunup da ilamda dahil olmayan eşya çıkarılarak borçluya teslim ve hazır değilse vekiline veya ailesi halkından veyahut müstahdemlerinden reşit bir kimseye tevdi olunur.
-
-Bu bağlamda m. 26 uygulamasında «(Değişik: 14/1/2011-6103/41 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Fazla kalırsa borçlunun adına, Adalet Bakanlığınca çıkarılan yönetmelikte nitelikleri belirlenen bankalardan birine yatırılır.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. 2 – Taşınmaz üçüncü şahıs elinde ise:
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Değişik: 14/1/2011-6103/41 md.) Bir taşınmazın tahliye ve teslimine dair olan ilam, icra dairesine verilince icra müdürü 24 üncü maddede yazılı şekilde bir icra emri tebliği suretiyle borçluya yedi gün içinde hükmolunan şeyin teslimini emreder.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Borçlu taşınmazı işgal etmekte iken bu emri tutmazsa, ilamın hükmü zorla icra olunur.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 26 sonuçlarının fiilen elde edilmesi için belirleyicidir. Alacaklıya teslim olunan taşınmaza haklı bir sebep olmaksızın tekrar giren borçlu ayrıca hükme hacet kalmadan zorla çıkarılır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Taşınmazın içinde bulunup da ilamda dahil olmayan eşya çıkarılarak borçluya teslim ve hazır değilse vekiline veya ailesi halkından veyahut müstahdemlerinden reşit bir kimseye tevdi olunur.
-
-Sonuç olarak, İİK madde 26 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Fazla kalırsa borçlunun adına, Adalet Bakanlığınca çıkarılan yönetmelikte nitelikleri belirlenen bankalardan birine yatırılır.
-
-Bu bağlamda m. 26 uygulamasında «(Değişik: 14/1/2011-6103/41 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 2 – Taşınmaz üçüncü şahıs elinde ise:
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Değişik: 14/1/2011-6103/41 md.) Bir taşınmazın tahliye ve teslimine dair olan ilam, icra dairesine verilince icra müdürü 24 üncü maddede yazılı şekilde bir icra emri tebliği suretiyle borçluya yedi gün içinde hükmolunan şeyin teslimini emreder.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Borçlu taşınmazı işgal etmekte iken bu emri tutmazsa, ilamın hükmü zorla icra olunur.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Alacaklıya teslim olunan taşınmaza haklı bir sebep olmaksızın tekrar giren borçlu ayrıca hükme hacet kalmadan zorla çıkarılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 26 sonuçlarının fiilen elde edilmesi için belirleyicidir. Taşınmazın içinde bulunup da ilamda dahil olmayan eşya çıkarılarak borçluya teslim ve hazır değilse vekiline veya ailesi halkından veyahut müstahdemlerinden reşit bir kimseye tevdi olunur.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Fazla kalırsa borçlunun adına, Adalet Bakanlığınca çıkarılan yönetmelikte nitelikleri belirlenen bankalardan birine yatırılır.
-
-Sonuç olarak, İİK madde 26 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. 2 – Taşınmaz üçüncü şahıs elinde ise:
-
-Bu bağlamda m. 26 uygulamasında «(Değişik: 14/1/2011-6103/41 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik: 14/1/2011-6103/41 md.) Bir taşınmazın tahliye ve teslimine dair olan ilam, icra dairesine verilince icra müdürü 24 üncü maddede yazılı şekilde bir icra emri tebliği suretiyle borçluya yedi gün içinde hükmolunan şeyin teslimini emreder.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Borçlu taşınmazı işgal etmekte iken bu emri tutmazsa, ilamın hükmü zorla icra olunur.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Alacaklıya teslim olunan taşınmaza haklı bir sebep olmaksızın tekrar giren borçlu ayrıca hükme hacet kalmadan zorla çıkarılır.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Taşınmazın içinde bulunup da ilamda dahil olmayan eşya çıkarılarak borçluya teslim ve hazır değilse vekiline veya ailesi halkından veyahut müstahdemlerinden reşit bir kimseye tevdi olunur.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 26 sonuçlarının fiilen elde edilmesi için belirleyicidir. Fazla kalırsa borçlunun adına, Adalet Bakanlığınca çıkarılan yönetmelikte nitelikleri belirlenen bankalardan birine yatırılır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. 2 – Taşınmaz üçüncü şahıs elinde ise:
-
-Sonuç olarak, İİK madde 26 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Değişik: 14/1/2011-6103/41 md.) Bir taşınmazın tahliye ve teslimine dair olan ilam, icra dairesine verilince icra müdürü 24 üncü maddede yazılı şekilde bir icra emri tebliği suretiyle borçluya yedi gün içinde hükmolunan şeyin teslimini emreder.
-
-Bu bağlamda m. 26 uygulamasında «(Değişik: 14/1/2011-6103/41 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Borçlu taşınmazı işgal etmekte iken bu emri tutmazsa, ilamın hükmü zorla icra olunur.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Alacaklıya teslim olunan taşınmaza haklı bir sebep olmaksızın tekrar giren borçlu ayrıca hükme hacet kalmadan zorla çıkarılır.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Taşınmazın içinde bulunup da ilamda dahil olmayan eşya çıkarılarak borçluya teslim ve hazır değilse vekiline veya ailesi halkından veyahut müstahdemlerinden reşit bir kimseye tevdi olunur.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Fazla kalırsa borçlunun adına, Adalet Bakanlığınca çıkarılan yönetmelikte nitelikleri belirlenen bankalardan birine yatırılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 26 sonuçlarının fiilen elde edilmesi için belirleyicidir. 2 – Taşınmaz üçüncü şahıs elinde ise:
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Değişik: 14/1/2011-6103/41 md.) Bir taşınmazın tahliye ve teslimine dair olan ilam, icra dairesine verilince icra müdürü 24 üncü maddede yazılı şekilde bir icra emri tebliği suretiyle borçluya yedi gün içinde hükmolunan şeyin teslimini emreder.
-
-Sonuç olarak, İİK madde 26 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Borçlu taşınmazı işgal etmekte iken bu emri tutmazsa, ilamın hükmü zorla icra olunur.
-
-Bu bağlamda m. 26 uygulamasında «(Değişik: 14/1/2011-6103/41 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Alacaklıya teslim olunan taşınmaza haklı bir sebep olmaksızın tekrar giren borçlu ayrıca hükme hacet kalmadan zorla çıkarılır.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Taşınmazın içinde bulunup da ilamda dahil olmayan eşya çıkarılarak borçluya teslim ve hazır değilse vekiline veya ailesi halkından veyahut müstahdemlerinden reşit bir kimseye tevdi olunur.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Fazla kalırsa borçlunun adına, Adalet Bakanlığınca çıkarılan yönetmelikte nitelikleri belirlenen bankalardan birine yatırılır.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. 2 – Taşınmaz üçüncü şahıs elinde ise:
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 26 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Değişik: 14/1/2011-6103/41 md.) Bir taşınmazın tahliye ve teslimine dair olan ilam, icra dairesine verilince icra müdürü 24 üncü maddede yazılı şekilde bir icra emri tebliği suretiyle borçluya yedi gün içinde hükmolunan şeyin teslimini emreder.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Borçlu taşınmazı işgal etmekte iken bu emri tutmazsa, ilamın hükmü zorla icra olunur.
-
-Sonuç olarak, İİK madde 26 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Alacaklıya teslim olunan taşınmaza haklı bir sebep olmaksızın tekrar giren borçlu ayrıca hükme hacet kalmadan zorla çıkarılır.
-
-Bu bağlamda m. 26 uygulamasında «(Değişik: 14/1/2011-6103/41 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Taşınmazın içinde bulunup da ilamda dahil olmayan eşya çıkarılarak borçluya teslim ve hazır değilse vekiline veya ailesi halkından veyahut müstahdemlerinden reşit bir kimseye tevdi olunur.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Fazla kalırsa borçlunun adına, Adalet Bakanlığınca çıkarılan yönetmelikte nitelikleri belirlenen bankalardan birine yatırılır.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. 2 – Taşınmaz üçüncü şahıs elinde ise:
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Değişik: 14/1/2011-6103/41 md.) Bir taşınmazın tahliye ve teslimine dair olan ilam, icra dairesine verilince icra müdürü 24 üncü maddede yazılı şekilde bir icra emri tebliği suretiyle borçluya yedi gün içinde hükmolunan şeyin teslimini emreder.
+Bu yorum maddenin resmi metni ve yerel karar arşivi esas alınarak hazırlanmıştır. Künyeler arşivden birebir alınır, uydurulmaz ve örnek olaylar kurmacadır.

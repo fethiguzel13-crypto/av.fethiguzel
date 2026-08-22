@@ -122,4 +122,4 @@ Bu şerh, 4760 sayılı ÖTVK m. 3’ün vergiyi doğuran olay rejimini; teslim,
 
 ---
 
-📊 ÖTVK m. 3 şerhi tamamlanmıştır.
+ ÖTVK m. 3 şerhi tamamlanmıştır.

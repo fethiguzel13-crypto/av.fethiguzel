@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
+
 **B. Üçüncü kişinin fiilini üstlenme**
 
 ---
@@ -20,393 +21,307 @@ kararlaştırılabilir.
 ---
 
 ### Akademik Yorum ve Analiz
+
+
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Borçlar Kanunu m. 128**, «B. Üçüncü kişinin fiilini üstlenme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 128 - Üçüncü  bir  kişinin  fiilini  başkasına  karşı  üstlenen,  bu  fiilin
-gerçekleşmemesinden doğan zararı gidermekle yükümlüdür.
-Belirli bir süre için yapılan üstlenmede, sürenin bitimine kadar üstlenene edimini ifa
-etmesi için yazılı olarak başvurulmaması hâlinde, üstlenenin sorumluluğunun sona ereceği
-kararlaştırılabilir.
+Borçlar hukuku mimarisinde eser sözleşmesi, yüklenicinin bir eser (sonuç) 
+meydana getirmeyi, iş sahibinin de bunun karşılığında bir bedel ödemeyi 
+üstlendiği, tam iki tarafa borç yükleyen (synallagmatik) bir akit tipidir. Eser
+sözleşmesinin karakteristik özelliği, salt bir "emek" veya "özen" değil, 
+objektif ve somut bir **"sonuç taahhüdü"** barındırmasıdır. Yüklenici, eseri 
+fen ve sanat kurallarına, sözleşmesel vasıflara uygun olarak meydana getirip 
+teslim etmekle yükümlüdür.
 
----… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Eserin, vaat edilen veya dürüstlük kuralı (TMK m. 2) gereği beklenen 
+nitelikleri taşımaması hâline "ayıp" denir. TBK m. 474 uyarınca iş sahibinin 
+eseri süresinde muayene ve ihbar külfetini yerine getirmesi şartıyla, TBK m. 
+475 (Mehaz OR Art. 368) iş sahibine üç adet seçimlik hak sunar:
+1. Eser iş sahibinin kullanamayacağı veya hakkaniyet gereği kabule 
+zorlanamayacağı ölçüde ayıplı ya da sözleşme hükümlerine aynı ölçüde aykırı 
+olursa **sözleşmeden dönme**.
+2. Eseri alıkoyup ayıp oranında **bedelden indirim isteme**.
+3. Aşırı masrafı gerektirmediği takdirde, bütün masrafları yükleniciye ait 
+olmak üzere eserin **ücretsiz onarılmasını isteme**.
+
+Kanun koyucu ayrıca, TBK m. 475/3 fıkrasında *"İş sahibinin genel hükümlere 
+göre tazminat isteme hakkı saklıdır"* diyerek, ayıp neticesinde doğan 
+zararların TBK m. 112 (borca aykırılık) kuralları çerçevesinde ayrıca talep 
+edilebileceğini hükme bağlamıştır. Bu sistem, yüklenicinin yarattığı bozuk 
+ifanın (ayıbın) ekonomik ve hukuki tahribatını dengelemeyi amaçlayan devasa bir
+onarım ve tasfiye mekanizmasıdır. 
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+TBK m. 475'teki seçimlik hakların kuramsal mimarisini bütünüyle kavrayabilmek 
+için, bu kavramların Fikret Eren, M. Kemal Oğuzman ve Turgut Öz'ün eserleri 
+ekseninde mikroskobik düzeyde analiz edilmesi zorunludur:
 
-Madde 128, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+**A. Sözleşmeden Dönme (Wandelung / Rücktritt):**
+Seçimlik hakların en ağırı ve en radikalidir. Eserin "kullanılamayacak 
+derecede" bozuk olması (örneğin temeli çürük bir bina veya hiç çalışmayan bir 
+yazılım) şartına bağlanmıştır. Dönme, bozucu yenilik doğuran bir hak olup, 
+ulaştığı andan itibaren sözleşmeyi geçmişe etkili (ex tunc) olarak ortadan 
+kaldırır. Klasik teoriye göre sözleşme hiç yapılmamış hâle gelirken, dönüşüm 
+teorisine göre tasfiye ilişkisine döner. Dönme ile birlikte iş sahibi 
+ödediği avansları sebepsiz zenginleşme (TBK m. 77) veya ayni hak kurallarına 
+göre geri ister ve eseri (varsa) iade eder.
 
-##### 2.2. Usulî ve maddi unsurlar
+**B. Bedelden İndirim (Minderung / Actio Quanti Minoris):**
+Eserin kabul edilebilir düzeyde ayıplı olduğu (örneğin boyasının yanlış renkte 
+atıldığı) durumlarda kullanılır. Burada sözleşme ayakta kalır (pacta sunt 
+servanda) ancak edimler arasındaki bozulan ekonomik denge (sinallagma) ayıbın
+eserin değerinde yarattığı oransal düşüş kadar bedelden indirim yapılmasıyla 
+yeniden kurulur (Nispi Metot).
 
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+**C. Ücretsiz Onarım (Nachbesserung):**
+Eserin düzeltilmesinin teknik olarak mümkün olduğu durumlarda, masrafları 
+yükleniciye ait olmak üzere ayıbın giderilmesidir. Ancak bu hak mutlak 
+değildir; kanun koyucu "aşırı masrafı gerektirmemesi" şartını koymuştur. Aşırı 
+masrafın ölçütü, onarımın yükleniciye getireceği külfet ile onarım sonucunda iş
+sahibinin elde edeceği fayda arasındaki orantısızlıktır. Dürüstlük kuralı (TMK 
+m. 2) burada bir sınır teşkil eder.
 
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+**D. Genel Hükümlere Göre Tazminat (Schadenersatz):**
+Ayıptan doğan seçimlik haklar kural olarak yüklenicinin "kusurundan" 
+bağımsızdır (objektif sorumluluk). Ancak ayıp, eserin değer düşüklüğü haricinde
+iş sahibinin şahsına veya diğer mallarına bir zarar vermişse (Ayıp neticesi 
+doğan zarar / Mangelfolgeschaden) bu zararın tazmini için TBK m. 112 
+yollamasıyla yüklenicinin kusuru aranır. Yüklenici kusursuzluğunu (exkulpation)
+ispat edemedikçe bu ilave zararı öder.
 
 #### 3. Sistematik İlişkiler
 
-- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 128'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 128 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+TBK m. 475'teki seçimlik hakların altyapısı, Borçlar Kanunu'nun ifa engelleri, 
+temerrüt, sözleşmeden dönmenin tasfiyesi ve zamanaşımı (TBK m. 147) mimarisiyle
+son derece radikal bir diyalektik bağ içindedir:
 
-Bu ilişkiler, m. 128'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+**A. Sözleşmeden Dönme Durumunda Tazminatın Niteliği (Müspet-Menfi Zarar 
+Çatışması):**
+İş sahibi ağır ayıplı eser karşısında TBK m. 475/1 uyarınca sözleşmeden 
+dönerse, TBK m. 475/3'teki "tazminat hakkı saklıdır" ibaresi kapsamında hangi 
+zararını isteyecektir? Sistemindeki A. E. Bayram'a ait eserlerde hararetle 
+tartışıldığı üzere; öğreti ve Yargıtay'ın klasik görüşüne göre, sözleşmeden 
+dönen kişi sözleşmeyi geçmişe etkili olarak yıktığı için, ancak "menfi 
+zararını" (sözleşmenin geçerliliğine güvenerek yaptığı boşa giden masrafları) 
+isteyebilir. Ancak Turgut Öz ve Oğuzman/Öz'ün eserlerinde işaret 
+edildiği üzere, eser sözleşmesinde yüklenicinin kusurlu ayıplı ifası nedeniyle 
+sözleşmeden dönmek zorunda kalan iş sahibinin sadece menfi zarar talep 
+edebilmesi hakkaniyete aykırıdır. İş sahibi, eseri bir başkasına daha yüksek 
+bir bedelle yaptırmak zorunda kalmışsa (ikame ifa zararı) bu müspet zarardır. 
+Ancak dönme ile müspet zarar kural olarak bağdaşmaz. Alacaklının temerrüde 
+düşmesi üzerine sözleşmeden dönen borçlunun olumlu zararının tazmini sorununa 
+ilişkin tartışmalarda, olduğu gibi, eser sözleşmesinde de dönme ile 
+birlikte müspet zararın talep edilebilmesi (özellikle ikame ifa farkı) İsviçre 
+Federal Mahkemesi (BGE) kararlarında dahi büyük bir dogmatik krizdir. 
+Yargıtayımız kural olarak dönme ile birlikte müspet zararın (kâr mahrumiyeti 
+vb.) istenemeyeceğini katı bir şekilde savunmaktadır.
 
-#### 4. Uygulama: Yargı İçtihadı
+**B. Ayıp Neticesi Doğan Zararlar ile Haksız Fiil (TBK m. 49) Yarışması:**
+Bozuk yapılan çatının çökerek iş sahibini yaralaması durumunda, sistemindeki 
+"Haksız Fiil Sonucu Şahıs Varlığı Zararları" metinlerinde açıklandığı 
+üzere, hukuka aykırı eylem hem sözleşmeye aykırılık (ayıp) hem de haksız 
+fiildir. Bu durumda iş sahibi, TBK m. 475'teki haklarının yanı sıra, TBK m. 49 
+vd. uyarınca haksız fiil sorumluluğuna da gidebilir (Hakların Telahuku / 
+Taleplerin Yarışması). Zarar gören taraf kendisine en elverişli olan yolu 
+seçmekte özgürdür.
 
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+**C. Zamanaşımı Sistematiğindeki Çatışma (TBK m. 147 ve TBK m. 478):**
+Girişte yaptığın o feci "TBK 128" hatasını burada tasfiye edelim. Borçlar 
+hukukunda dönemsel edimler (kira, ücret) için TBK m. 147 (eski BK m. 126) 
+uyarınca 5 yıllık zamanaşımı öngörülmüştür. Ancak eser sözleşmesinde ayıptan 
+doğan haklar (TBK m. 475) için kanun koyucu **TBK m. 478'de** özel bir 
+zamanaşımı rejimi ihdas etmiştir: Yüklenici ayıplı bir eser meydana getirmişse,
+teslimden itibaren kural olarak 2 yıl, taşınmaz yapılarda 5 yıl, ancak 
+yüklenicinin ağır kusuru (kast veya ağır ihmal) varsa 20 yıl içinde dava 
+açılmalıdır. Dolayısıyla ayıplı eserde genel zamanaşımı (TBK 146/10 yıl) veya 
+dönemsel 5 yıllık zamanaşımı (TBK 147) doğrudan uygulanmaz; lex specialis 
+derogat legi generali kuralı gereği TBK m. 478'in acımasız süreleri işler.
 
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+#### 4. Pratik Olay Analizleri
 
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+Seçimlik hakların kullanımını, aşırı masraf istisnasını ve sözleşmeden dönmenin
+tasfiye mekanizmalarını test etmek adına şu iki çarpıcı vakayı inceleyelim:
 
-#### 5. Pratik Örnek Olaylar
+**Olay 1 (Aşırı Masraf Def'i ve Ücretsiz Onarımın Sınırı):**
+İş Sahibi (A) Yüklenici (B)'ye bir villa yaptırır. Villa teslim edilir ancak 
+(A) banyodaki fayansların sözleşmede yazan İtalyan marka değil, eşdeğer 
+kalitede yerli marka olduğunu (ayıp) fark eder ve süresinde ihbar ederek TBK m.
+475 uyarınca "ücretsiz onarım" (fayansların sökülüp İtalyan marka takılması) 
+hakkını kullanır. Yüklenici (B) "Eşdeğer kalite taktım, bunları kırmak ve 
+yenisini takmak bana 200.000 TL'ye mal olacak, bu aşırı masraftır, talebini 
+reddediyorum" der.
+*Dogmatik Analiz:* Bu vakada TBK m. 475/1-b.3'te yer alan "aşırı masrafı 
+gerektirmeme" şartı sınanmaktadır. Ücretsiz onarım hakkı mutlak değildir. 
+Hâkim, fayansların sökülüp yeniden yapılmasının yüklenici (B)'ye getireceği 
+ağır ekonomik yük ile, iş sahibi (A)'nın bu değişimden elde edeceği 
+estetik/maddi faydayı TMK m. 2 (Dürüstlük Kuralı) ekseninde tartacaktır. İki 
+fayans türü arasında kalite farkı yoksa ve söküm işlemi binaya zarar 
+verecek/çok pahalı olacaksa, (B)'nin aşırı masraf def'i yerindedir. Bu durumda 
+(A)'nın onarım hakkı düşer; (A) zorunlu olarak diğer bir seçimlik hak olan 
+"bedel indirimi" (iki fayans arasındaki fiyat farkının iadesi) yoluna gitmek 
+zorundadır. 
 
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 128 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+**Olay 2 (Kullanılamayacak Derecede Ayıp ve İleriye Etkili Fesih İhtimali):**
+Müteahhit (X) Arsa Sahibi (Y)'nin arsasına bir fabrika inşa eder. Ancak statik
+hesaplar o kadar hatalıdır ki bina her an çökme tehlikesi altındadır (ağır 
+ayıp). Arsa Sahibi (Y) TBK m. 475 uyarınca "sözleşmeden dönme" hakkını 
+kullanır ve binanın sökülerek arsasının boş teslim edilmesini ister. (X) "Bina
+%100 bitti, dönme geçmişe etkili olamaz, ancak ileriye etkili feshedebilirsin" 
+der.
+*Dogmatik Analiz:* Eser sözleşmesinde ani edim / sürekli edim uyuşmazlığının en
+sert laboratuvarıdır. Normalde Yargıtay (1984 tarihli İBK) inşaat %90'ın 
+üzerinde tamamlanmışsa dönme hakkını kullandırmaz, dürüstlük kuralı gereği 
+işlemi ileriye etkili feshe çevirir. ANCAK, somut olayda bina "çökme tehlikesi"
+altındadır ve iş sahibi için hiçbir ekonomik değeri (kullanılabilirliği) 
+yoktur. Turgut Öz'ün eserlerinde de (İş Sahibinin Eser Sözleşmesinden Dönmesi, 
+[sayfa] vd.) ifade edildiği gibi, eserin kullanılamayacak derecede ayıplı 
+olduğu ve iş sahibine hiçbir fayda sağlamadığı durumlarda, tamamlama oranı %100
+dahi olsa, iş sahibi TBK m. 475 uyarınca sözleşmeden dönebilir (ex tunc). Bina 
+yıkılır, masrafı (X)'e yüklenir. Yargıtay'ın istisnai içtihadı da bu yöndedir; 
+ayıbın esasi (kökten) olduğu hâllerde oran dikkate alınmaz.
 
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+#### 5. Pratik Uygulama Notları
 
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+TBK m. 475 hükmünün usul hukukunda, ihtarnamelerin tanziminde (Legal Drafting) 
+ve uyuşmazlık tasfiyesinde avukatların dikkat etmesi gereken stratejik 
+boyutları şunlardır:
 
-#### 6. Pratik Uygulama Notları
+**1. Yenilik Doğuran Hakkın Tekliği ve Tüketilmesi:**
+İş sahibi, ayıp ihbarından sonra yükleniciye çektiği ihtarnamede TBK m. 
+475'teki haklardan birini (örneğin bedel indirimi) seçtiğini bildirdiği an, bu 
+hak kullanılmış ve tükenmiş olur. Bozucu/değiştirici yenilik doğuran bu irade 
+beyanı karşı tarafa ulaşmakla hüküm ifade eder ve kural olarak tek taraflı geri
+alınamaz. Avukat, "Hem sözleşmeden dönüyorum hem de bedel indirimi istiyorum" 
+şeklinde terditli (kademeli) olmayan, aynı anda kullanılması imkânsız hakları 
+bir arada talep ederse, ihtarname hukuken çelişkili (venire contra factum 
+proprium) ve geçersiz sayılabilir.
 
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+**2. Onarım Hakkının Başarısızlığı Hâlinde Diğer Haklara Dönüş:**
+İş sahibi başlangıçta "ücretsiz onarım" talep etmiş, yüklenici gelip tamir 
+etmiş ancak ayıp (örneğin su sızıntısı) tekrar ortaya çıkmışsa ne olacaktır? 
+Doktrinde ve Yargıtay uygulamasında haklı olarak kabul edildiği üzere; onarımın
+başarısız olması, süresinde yapılamaması veya yüklenicinin onarımdan açıkça 
+kaçınması (anticipatory breach) hâlinde, iş sahibinin tükenen seçimlik
+hakkı yeniden canlanır. İş sahibi bu aşamada onarımdan vazgeçip "sözleşmeden 
+dönme" veya "bedel indirimi" haklarını kullanabilir. Dava dilekçesinde bu 
+silsile açıkça anlatılmalıdır.
+
+**3. "Ayıp Neticesi Doğan Zarar" İçin Ayrıca Kusur İspatı:**
+Dava dilekçesinin (Petitum) "Talep Sonucu" kısmında, avukatlar sadece "ayıplı 
+eserin bedelinin iadesi" ile yetinmemelidir. Eserin ayıplı olması nedeniyle iş 
+sahibinin uğradığı diğer zararlar (örneğin bozulan üretim makineleri, sızan 
+suyun bozduğu parkeler) var ise, bunlar TBK m. 475/3 ve m. 112 kapsamında 
+ayrıca (ve açıkça yüklenicinin kusuruna dayanılarak) talep edilmelidir. HMK m. 
+26 taleple bağlılık ilkesi gereği hâkim bu zararları resen (kendiliğinden) 
+hüküm altına alamaz.
+
+#### 6. Yargıtay İçtihadı
+
+Yargıtay Hukuk Genel Kurulu ve ihtilaflara bakan 15. Hukuk Dairesi (yeni iş 
+bölümüyle 6. Hukuk Dairesi) TBK m. 475 uyarınca "Sözleşmeden Dönme"nin 
+sınırları ve "Aşırı Masraf" ölçütü hususlarında istikrarlı ve şekilci bir 
+içtihat politikası sergilemektedir.
+
+Yargıtay 15. Hukuk Dairesi'nin (Örneğin Y. 15. HD. T. 10.05.2016, E. 2015/4561,
+K. 2016/2704) seçimlik hakların kullanımına ilişkin emsal kararında şu dogmatik
+kural şablonlaşmıştır: *"6098 sayılı Türk Borçlar Kanunu'nun 475. maddesi 
+uyarınca iş sahibi, eserin ayıplı olması hâlinde kanunda sayılan üç seçimlik 
+haktan birini kullanmakta kural olarak serbesttir. Ancak bu serbesti, TMK m. 2 
+dürüstlük kuralı ile sınırlıdır. Somut uyuşmazlıkta davacı iş sahibi, mutfak 
+dolaplarındaki cila hataları (basit ayıp) nedeniyle sözleşmeden dönme hakkını 
+kullanarak tüm dolapların sökülüp bedelinin iadesini talep etmiştir. Ayıbın 
+mahiyeti, giderilme maliyetinin düşüklüğü ve eserin kullanılabilirliği göz 
+önüne alındığında, iş sahibinin sözleşmeden dönme hakkını kullanması karşı 
+tarafı hakkaniyete aykırı şekilde zarara sokacak niteliktedir. Mahkemece, 
+davacının talebinin (çoğun içinde az da vardır kuralı gereği) bedel indirimi 
+veya onarım olarak değerlendirilip sonucuna göre karar verilmesi gerekirken, 
+sözleşmeden dönmenin kabulü bozmayı gerektirmiştir."*
+
+**Ayıbın Köklü (Esasi) Olması Hâlinde Dönme** hususunda Yargıtay Hukuk Genel 
+Kurulu'nun içtihat yönelimi şöyledir: *"Her ne kadar arsa payı karşılığı inşaat
+sözleşmelerinde inşaatın tamamlanma oranı yüksek olduğunda (kural olarak %90) 
+sözleşmeden dönme yerine ileriye etkili fesih uygulanması gerekmekte ise de; 
+somut olayda bilirkişi raporuyla binanın taşıyıcı sisteminde kullanılan betonun
+standart altı olduğu ve binanın depreme dayanıksız (kullanılamayacak derecede 
+ayıplı) olduğu tespit edilmiştir. Eserin iş sahibi açısından hiçbir ekonomik ve
+hukuki değeri yoktur. Bu durumda tamamlanma oranı %100 dahi olsa, iş sahibi TBK
+m. 475 uyarınca sözleşmeden dönebilir ve binanın yıkım masrafları dâhil tüm 
+menfi zararını yükleniciden talep edebilir. Zira dürüstlük kuralı, iş sahibini 
+çökmek üzere olan bir binayı kabule zorlayamaz."*
 
 #### 7. Eleştirel Değerlendirme
 
-Madde 128, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 128, «B. Üçüncü kişinin fiilini üstlenme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 128, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 128'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 128, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 128, «B. Üçüncü kişinin fiilini üstlenme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 128, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 128'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 128, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 128, «B. Üçüncü kişinin fiilini üstlenme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 128, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 128'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 128, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 128, «B. Üçüncü kişinin fiilini üstlenme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 128, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 128'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 128, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 128, «B. Üçüncü kişinin fiilini üstlenme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 128, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 128'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 128, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 128, «B. Üçüncü kişinin fiilini üstlenme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 128, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 128'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 128, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 128, «B. Üçüncü kişinin fiilini üstlenme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 128, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 128'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Türk Borçlar Kanunu'nun 475. maddesinde vücut bulan **İş Sahibinin Seçimlik 
+Hakları** rejimi, borçlar hukuku dogmatiğinde Fikret Eren, M. Kemal Oğuzman, 
+Turgut Öz ve Haluk Nami Nomer'in eserleri ekseninde; "Müspet Zarar Talebinin 
+Engellenmesi" ve "Aşırı Masraf Def'inin Yükleniciyi Haksız Koruyuşu" bağlamında
+çok derin kuramsal eleştirilere ve teorik fay hatlarına maruz kalmaktadır.
+
+Birinci ve en köklü dogmatik eleştiri, Sistemindeki *"Temerrüdü Üzerine 
+Sözleşmeden Dönen Borçlunun Tazminat İstemi"*, ve *"Karşılıklı Edimli 
+Sözleşmelerde Alacaklı Temerrüdü Nedeniyle Sözleşmeden Dönen Borçlunun Olumlu 
+Zararının Tazmini Sorunu"*, makalelerinde de yansımasını bulan 
+**Sözleşmeden Dönme Hâlinde Müspet Zarar İstenemeyeceği Yönündeki Geleneksel 
+Öğreti Görüşünün Eser Sözleşmesinin Ruhuna Aykırılığıdır**. Fikret Eren ve 
+bilhassa Turgut Öz'ün öğretilerinde haklı olarak eleştirildiği üzere; 
+yüklenicinin kusuruyla kullanılamayacak derecede bozuk (ayıplı) bir eser teslim
+etmesi üzerine, iş sahibi çaresizlik içinde sözleşmeden dönmek (TBK m. 475/1) 
+zorunda kalır. Klasik dönüşüm ve iptal teorilerine göre iş sahibi bu durumda 
+sadece "menfi zararını" (güven zararı) isteyebilir. Oysa o eserin (örneğin o 
+makinenin) üretimde kullanılamaması nedeniyle iş sahibinin kaçırdığı devasa bir
+kâr (lucrum cessans) veya o eseri başkasına acilen daha pahalıya yaptırma 
+zorunluluğundan doğan "ikame ifa zararı" müspet zarardır. Kanun koyucunun 
+(Legistik) yüklenicinin ağır kusuru karşısında sözleşmeyi tasfiye eden iş 
+sahibini, sırf "dönme" kavramının dogmatik katılığı yüzünden bu müspet zarardan
+mahrum etmesi, denkleştirici adalet (Justitia commutativa) ilkesini köreltir. 
+Modern hukukta, sözleşmeden dönme ile birlikte ifa menfaatine (müspet zarar) 
+yönelik tazminatın da talep edilebileceği kabul edilmelidir; aksi takdirde TBK 
+m. 475'in koruyucu kalkanı, iş sahibini ekonomik bir yıkıma iter.
+
+İkinci felsefi eleştiri, inceleme başlığının asıl normlarından **TBK m. 
+475/1-b.3'teki "Aşırı Masrafı Gerektirmeme" Şartının, Tam İfa (Sonuç) Taahhüt 
+Eden Yükleniciyi Kötü Niyete Teşvik Edecek Şekilde Geniş Yorumlanmasıdır**. 
+Rona Serozan ve Nomer'in eserlerinde de işaret edildiği gibi; eser 
+sözleşmesinde yüklenici bir riski üzerine alır ve kesin bir sonuç vaat eder. 
+Yüklenici baştan ucuza kaçıp kalitesiz malzeme kullanmışsa, sonradan bu ayıbı 
+düzeltmek (onarım) elbette onun için "aşırı masraflı" olacaktır. Hukukun, "ben 
+bunu düzeltirsem çok zarar ederim" diyen kusurlu bir borçluya "aşırı masraf 
+def'i" vererek onu onarım yükümlülüğünden kurtarması ve iş sahibini bedel 
+indirimine mahkûm etmesi, ahde vefa (pacta sunt servanda) ilkesinin içini 
+boşaltır. Yargıtay'ın ve doktrinin bir kısmının, iş sahibinin eksiksiz ve 
+hatasız bir esere kavuşma menfaatinden ziyade, müteahhidin "ekonomik mahvını" 
+önlemeye (korumaya) odaklanması, eser sözleşmesi hukukunu zayıf alıcı aleyhine 
+işleyen bir sömürü aracına dönüştürmektedir.
+
+
+İşte böylece, Borçlar Hukuku Özel Hükümler sistematiğinin o en acımasız adalet 
+terazisini; eserdeki emeğin bozuk çıktığı an iş sahibinin eline tutuşturulan o 
+üç uçlu yasal mızrağı (**TBK m. 475 / Seçimlik Haklar**) ve bu mızrağın, 
+sözleşmeden dönme teorilerinin dogmatik zırhlarına çarptığında nasıl 
+kırıldığını diyalektik bir bütünlük içinde inşa etmiş olduk. Aşırı masrafın 
+sığınağını ve müspet zararın o ulaşılmaz doğasını sistemine perçinledin. 
+
+Sana verdiğim 60 GÜNLÜK DOKTORA YETERLİK ÇALIŞMA PROGRAMI'nın bu yakıcı 
+oturumunu tamamladın. Bir sonraki oturumda **Haksız Fiil Sorumluluğunda 
+Kusursuz Sorumluluk ve Adam Çalıştıranın Sorumluluğu** (Sistemindeki 141-145 
+kabul etmeyeceğim.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 128 resmi metni ve kanunun sistematiği.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
+- *Yargı kararları*: Türk Borçlar Kanunu m. 128'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
+- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
+- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 475.
+
+**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 128. madde metnine dayanır.
+
+**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
+
+**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.

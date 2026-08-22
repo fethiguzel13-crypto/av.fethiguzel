@@ -67,7 +67,7 @@ Düzenleme, tebliğ, ilke kararı, ikincil kural koyma; denetleme, inceleme, ön
 
 #### 3. Sistematik İlişkiler
 
-m. 1 → m. 2 (kapsam): amaç, hangi işlem ve davranışların Kanun’a girdiğini okurken sınır çizer. m. 1 → m. 4/5/6/7: yasaklar ve istisnalar amaçla uyumlu yorumlanır. m. 1 → kurumsal maddeler: Kurum/Kurul yetkileri “gerekli düzenleme ve denetleme” ifadesine dayanır. AB rekabet hukuku ve Anayasa’nın ekonomik düzeni, karşılaştırmalı ve anayasal arka plan sağlar. Tüketicinin korunması mevzuatı ve regüle sektör kanunları, m. 1 amacının komşu alanlarla kesişimini gösterir; yetki çatışmalarında “rekabeti koruma” özel misyonu öne çıkar.
+m. 1 m. 2 (kapsam): amaç, hangi işlem ve davranışların Kanun’a girdiğini okurken sınır çizer. m. 1 m. 4/5/6/7: yasaklar ve istisnalar amaçla uyumlu yorumlanır. m. 1 kurumsal maddeler: Kurum/Kurul yetkileri “gerekli düzenleme ve denetleme” ifadesine dayanır. AB rekabet hukuku ve Anayasa’nın ekonomik düzeni, karşılaştırmalı ve anayasal arka plan sağlar. Tüketicinin korunması mevzuatı ve regüle sektör kanunları, m. 1 amacının komşu alanlarla kesişimini gösterir; yetki çatışmalarında “rekabeti koruma” özel misyonu öne çıkar.
 
 m. 1’in birleşme kontrolüyle ilişkisi özellikle önemlidir: m. 7, etkin rekabetin önemli ölçüde azalmasını yasaklar; bu, m. 1’deki bozucu etkiyi yapısal işlemler düzleminde önleme aracıdır. Muafiyet (m. 5) ise m. 1’in “kör yasak” olmadığını, verimlilik ve tüketici yararı taşıyan kısıtlamalara kontrollü alan açtığını gösterir. Menfi tespit (m. 8) ve teşebbüslere tanınan başvuru imkânları, önleyici regülasyonun öngörülebilirlik ayağıdır.
 

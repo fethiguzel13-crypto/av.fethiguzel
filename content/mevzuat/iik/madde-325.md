@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4280
 ---
 
+
 **B – Yetkili makam tarafından alınan hususi tedbirler hakkında:**
 
 ---
@@ -27,383 +28,51 @@ fevkalade mühlet tapu siciline temlik hakkının tahdidi suretiyle geçirilir.
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
+**İcra ve İflas Kanunu’nun 325. maddesi; fevkalade mühlet (olağanüstü moratoryum) süresince dürüst borçlunun tasarruf ehliyetine getirilebilecek özel sınırlamaları, bu sınırlamaların hukuki yaptırımını, alacaklıların korunmasına yönelik istisnaları ve üçüncü kişilere karşı ileri sürülebilirlik amacıyla tapu siciline yapılacak tescil ile ilan usullerini emredici şekilde tanzim eden koruyucu ve denetleyici bir takip-sicil hukuku normudur.**
 
-**İcra ve İflas Kanunu m. 325**, «B – Yetkili makam tarafından alınan hususi tedbirler hakkında» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 325 – İcra mahkemesi fevkalade mühleti verirken komiserin, yoksa bizzat icra
-mahkemesinin muvafakati olmaksızın borçlunun taşınmazlarını temlik yahut bunlar üzerinde
-ayni haklar tesis, rehinler ihdas, ivazsız tasarruflar icra etmiyeceğine ve fevkalade mühletten
-evvel doğmuş borçlara karşı ödemeler yapamıyacağına ve kefalet edemiyeceğine ve ederse
-hükümsüz olacağına karar verebilir.
-Ancak 206… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Madde, İcra ve İflas Kanunu’nun "Fevkalade Hallerde Mühlet ve Tatil" başlıklı On Dördüncü Babında, borçlunun tasarruf haklarının genel sınırlarını belirleyen m. 324 hükmünün hemen ardından ve mühlet rejiminin alacaklılar dairesindeki imtiyazlı istisnalarını kuran m. 326’nın önünde, üç yüz yirmi beşinci sırada konumlandırılmıştır. Bu sistematik yerleşim; m. 324 ile getirilen "alacaklıların kanuni menfaatlerine dokunmama ve eşitliği ihlal etmeme" şeklindeki genel ödevin, m. 325 vasıtasıyla somut, sicile tescil edilebilir ve ihlali halinde "mutlak hükümsüzlük" yaptırımına tabi kılınan spesifik yargısal yasaklara dönüştürülmesini sağlamaktadır.
+
+Öğretide genel kabul gören görüşe göre, fevkalade mühlet kurumu borçlunun ekonomik varlığını korurken, alacaklıların alacaklarına kavuşma ümidini de güvence altına almak zorundadır. Kanun koyucu, m. 324’te borçluya "işlerine devam edebilme" serbestisi tanımışsa da, m. 325 ile mahkemeye borçlunun en önemli aktif varlıkları (özellikle taşınmazlar) ve hukuki taahhütleri üzerinde **"hususi (özel) tedbirlere"** karar verme yetkisi tanımıştır. Maddenin birinci fıkrası, mahkemenin komiserin (veya komiser yoksa bizzat mahkemenin) muvafakati olmaksızın yapılamayacak olağanüstü işlemleri (taşınmaz devri, ayni hak tesisi, rehin ihdası, bağışlama/ivazsız tasarruflar, eski borçların ödenmesi ve kefalet verilmesi) tek tek saymıştır. Maddenin ikinci fıkrası ise, imtiyazlı alacaklılar (işçi ücretleri, nafaka vb.) ile mühlet dairesinde mahkemece kararlaştırılan taksitlerin ödenmesini bu izin mekanizmasının dışında tutarak sosyal devlet ilkesini korumuştur. Son fıkra ise, bu kısıtlamaların tapu siciline şerh edilmesi ve ilan edilmesi zorunluluğunu getirerek ticari güvenliği ve iyi niyet sınırlarını tanzim etmektedir.
 
 #### 2. Maddedeki Kavramların Analizi
-
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 325, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
-
-##### 2.2. Usulî ve maddi unsurlar
-
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
-
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+Madde metninde yer alan ve borçlunun tasarruf ehliyeti üzerindeki özel denetim rejimini şekillendiren temel yasal kavramların analizi şu şekildedir:
+* **Muvafakat (Written Consent):** Atanmış olan komiserin veya komiser tayin edilmemişse bizzat icra mahkemesinin, borçlunun yapacağı işleme önceden veya en geç işlem anında verdiği yazılı, kurucu onaydır. Muvafakat olmaksızın yapılan işlemler kanunen sakattır.
+* **Taşınmazların Temliki ve Ayni Hak Tesisi:** Borçlunun mülkiyetinde bulunan gayrimenkullerin tapuda başkasına devredilmesi (satış, trampa, bağış) veya bunlar üzerinde ipotek, intifa, irtifak, sükna gibi mülkiyeti sınırlayan ayni hakların kurulmasıdır.
+* **Rehin İhdası:** Borçlunun menkul malları (araçlar, makine parkı, ticari işletme) üzerinde alacaklılar lehine yeni rehin haklarının kurulmasıdır.
+* **Ivazsız Tasarruflar:** Karşılığında işletmeye hiçbir iktisadi değer, nakit veya mal girmeksizin yapılan bağışlamalar, hibe sözleşmeleri veya alacak haklarından karşılıksız vazgeçme (ibra) gibi aktif varlığı azaltıcı işlemlerdir.
+* **Fevkalade Mühletten Evvel Doğmuş Borçlara Karşı Ödemeler:** Mühlet kararının alınmasından önce gerçekleşmiş hukuki ilişkilerden (eski faturalar, eski krediler vb.) kaynaklanan borçların mühlet süresince ödenmesidir. Bu yasak, paritas creditorum (alacaklıların eşitliği) ilkesinin doğrudan bir gereğidir.
+* **Kefalet Edilemeyeceği:** Borçlunun, üçüncü kişilerin borçları için garanti veya kefalet sözleşmesi akdetmek suretiyle işletmesini yeni ve öngörülemeyen pasif borç yükleri altına sokmasının kesin olarak yasaklanmasıdır.
+* **Hükümsüzlük (Absolute Nullity):** Muvafakat alınmaksızın yapılan yasak işlemlerin yaptırımıdır. Takip hukuku dairesinde bu hükümsüzlük, işlemin kurucu unsurlarından birinin eksikliği nedeniyle baştan itibaren **mutlak geçersiz (batıl)** sayılması sonucunu doğurur.
+* **Temlik Hakkının Tahdidi (Disposal Restriction in Land Registry):** İcra mahkemesi kararının tapu siciline tescil edilmesiyle, taşınmazın üçüncü kişilere devrinin veya üzerinde hak tesis edilmesinin engellenmesidir. Bu şerh, tapu müdürünün işlemi yapmasını engeller.
 
 #### 3. Sistematik İlişkiler
+İcra ve İflas Kanunu m. 325 hükümleri, anayasal düzeyde mülkiyet hakkını koruyan **Anayasa m. 35**, hak arama hürriyetini ve adil yargılanma hakkını güvence altına alan **Anayasa m. 36**, çalışma ve sözleşme özgürlüğünü tanzim eden **Anayasa m. 48** ile sosyal devlet ve hukuk devleti ilkelerini vadeden **Anayasa m. 2** ile doğrudan dikey ilişki içerisindedir. İmtiyazlı alacakların korunması sosyal devlet ilkesinin, mülkiyet kısıtlamalarının tapuya şerh edilmesi ise mülkiyet hakkı ile hukuki belirlilik arasındaki dengenin dikey birer yansımasıdır.
 
-- **İcra ve İflas Kanunu m. 1** — Amaç ve kapsam: m. 325'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **İcra ve İflas Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **İcra ve İflas Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **İcra ve İflas Kanunu m. 5** — Ceza ve yasak rejimi: m. 325 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+Kanun içi sistematiğinde ise; fevkalade mühletin genel idari şartlarını kuran **İİK m. 317**, borçlunun başvuru dilekçesini tanzim eden **İİK m. 318**, mahkemenin tahkikat usulünü ve taksitlendirme yetkisini belirleyen **İİK m. 319**, komiser tayinini ve defter tutulmasını emreden **İİK m. 321**, kararın tebliği ve ilanını düzenleyen **İİK m. 322**, mühletin takiplere etkisini tanzim eden **İİK m. 323**, borçlunun tasarruf haklarının genel sınırlarını çizen **İİK m. 324**, imtiyazlı alacakları belirleyen **İİK m. 326 (atıfta bulunulan m. 206 ile birlikte)**, sürelerin durmasını kuran **İİK m. 330** ve konkordatoda benzer tasarruf yasaklarını kuran **İİK m. 297** hükümleriyle sarmal bir bütünlük sergiler.
 
-Bu ilişkiler, m. 325'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+Doktrinde bu husus şu şekilde değerlendirilmektedir: M. 325 hükümleri, tasarruf yetkisi kısıtlamalarının tapu siciline şerh edilmesini ve tescilin etkilerini düzenleyen **4721 sayılı Türk Medeni Kanunu’nun 1010. ve 1023. maddeleri**, dürüstlük kuralını kuran **TMK m. 2**, kefalet sözleşmesinin geçerlilik şartlarını ve geçersizliğini tanzim eden **6098 sayılı Türk Borçlar Kanunu’nun 581-603. maddeleri**, bağışlama sözleşmesini kuran **TBK m. 285 vd.** hükümleri, tapu tescil işlemlerini tanzim eden **Tapu Kanunu** ve tacirin basiretli hareket etme ödevini kuran **6102 sayılı Türk Ticaret Kanunu** hükümleriyle doğrudan yatay, tamamlayıcı ve etkileşimli bir ilişki içerisindedir. Tapuya tescil edilen şerhin üçüncü kişilerin iyi niyetini bertaraf etmesinde TMK m. 1023 ve m. 1010 hükümleri birincil denetim kriteridir.
 
 #### 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
-
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
 
 #### 5. Pratik Örnek Olaylar
-
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* İcra ve İflas Kanunu m. 325 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
-
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
-
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+* **(kurmaca senaryo) 1 (Muvafakat Alınmaksızın Yapılan İpotek Tesisinin Hükümsüzlüğü):** Fevkalade mühlet kararı kesinleşen borçlu A’nın taşınmazları üzerinde m. 325 dairesinde "komiser onayı olmaksızın ayni hak tesis edilemeyeceği" kaydı tapu siciline şerh edilmiştir. Borçlu A, mühlet öncesinden kalan borcu nedeniyle alacaklı B lehine tapuda gizlice ipotek tesis etmiştir. Tapu memurunun şerhi gözden kaçırması üzerine ipotek tescil edilmiştir. Komiser C, durumu saptayarak ipoteğin iptali için dava açmıştır. Analizde; m. 325’in emredici lafzı uyarınca komiserin yazılı muvafakati olmaksızın yapılan ayni hak tesislerinin kanunen "hükümsüz" (mutlak butlanla sakat) olduğu, tapu sicilinin yolsuz tescil niteliği kazandığı saptanmış ve ipotek tescilinin mahkemece re'sen iptaline karar verilmiştir.
+* **(kurmaca senaryo) 2 (Kefalet Sözleşmesinin Butlanı ve Üçüncü Kişinin İyi Niyet İddiası):** Hakkında m. 325 kapsamında "kefil olamaz" kısıtlaması kararlaştırılan ve bu durumu ilan edilen borçlu D, mühlet devam ederken ticari ilişkide olduğu E firmasının bankadan çekeceği kredi için bankaya müteselsil kefil olmuştur. Kredi ödenmeyince banka, borçlu D aleyhine takip başlatmıştır. D, mühlet kararını ve m. 325 yasağını ileri sürerek takibe itiraz etmiştir. Banka ise "mühlet kararını bilmediğini, iyi niyetli olduğunu" savunmuştur. Doktrinde genel kabul gören görüşlere göre; mühlet kararının ve m. 325 kısıtlamalarının m. 322 dairesinde ilan edilmesinin üçüncü kişilerin iyi niyet iddialarını tamamen ortadan kaldırdığı, muvafakatsiz kefalet sözleşmesinin baştan itibaren hükümsüz olduğu saptanmış ve takibin iptaline karar verilmiştir.
+* **(kurmaca senaryo) 3 (İşçi Alacaklarının Ödenmesinde Muvafakat İstisnası):** Fevkalade mühlet alan ve m. 325 dairesinde "eski borçları ödeme yasağı" bulunan borçlu F, mühlet öncesinde fabrikasında çalışan ve işten çıkarılan işçi G’nin kıdem tazminatı ile birikmiş ücret alacaklarını komiserden onay almaksızın şirket kasasından ödemiştir. Diğer alacaklı H, borçlunun yasak ödeme yaptığını iddia ederek ödemenin iptalini ve paranın kasaya iadesini talep etmiştir. Analizde; m. 325/2 fıkrasının emredici hükmü uyarınca "206 ncı maddede mezkür ikinci ve üçüncü sıradaki borçların ödenmesi için muvafakat almaya lüzum olmadığı", işçi alacaklarının İİK m. 206 dairesinde birinci sırada (maddenin eski metnindeki sistematiğe göre öncelikli imtiyazlı alacaklar kapsamında) yer aldığı, işçilerin korunması amacına yönelik bu ödemelerin komiser onayı olmaksızın da geçerli olduğu saptanmış ve alacaklı H'nin talebi reddedilmiştir.
 
 #### 6. Pratik Uygulama Notları
-
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+Uygulamada fevkalade mühlet kararlarındaki hususi tedbirleri, tapu şerhlerini ve komiser denetimini yöneten hukukçuların, komiserlerin ve tapu müdürlüklerinin aşağıdaki pratik hususlara dikkat etmesi gerekir:
+* **Tapu Şerhinin Gecikmeksizin UYAP Üzerinden Gönderilmesi:** İcra mahkemesi, m. 325 dairesinde borçlunun taşınmazları üzerinde tasarruf kısıtlamasına karar verdiği an, gerekçeli kararın tapuya fiziki olarak gitmesini beklemeksizin **re'sen ve ivedilikle ilgili Tapu Müdürlüğü'ne UYAP üzerinden elektronik şerh bildiriminde** bulunmalıdır. Gecikmeler iyi niyetli üçüncü kişilerin hak kazanmasına yol açabilir.
+* **Muvafakat Belgelerinin Yazılı ve Islak İmzalı/E-İmzalı Olma Zorunluluğu:** Komiser, borçlunun yapacağı olağanüstü bir işleme (örneğin işletmenin devamı için zorunlu bir hammadde karşılığında araç rehni kurulmasına) onay verecekse, bu muvafakatnamede işlemin tüm detayları (bedel, alacaklı, rehin konusu vb.) açıkça yazılmalı, komiserce imzalanmalı ve işlem dosyasında saklanmalıdır. Şifahi onaylar hükümsüzlük yaptırımını engellemez.
+* **M. 319 Taksitlerinin Takibi:** M. 325/2 uyarınca, mahkemenin m. 319/3 dairesinde borçluya yüklediği taksitlerin ödenmesi için komiserden muvafakat alınması zorunlu değildir. Borçlu bu taksitleri doğrudan ödeyebilir. Ancak komiser, bu ödemelerin diğer alacaklıların eşitliğini bozup bozmadığını kasa defteri üzerinden denetlemelidir.
+* **Cari Faaliyet Giderlerinin Ödenmesi Sınırı:** "Mühletten evvel doğmuş borçların ödenmesi yasağı", mühlet süresince işletmenin açık kalması için gereken cari giderleri (güncel elektrik, doğalgaz, işçi maaşları, cari mal alımları) kapsamaz. Borçlu, işlerini sürdürebilmek adına (m. 324/1) cari harcamaları komiser nezaretinde serbestçe yapabilir.
 
 #### 7. Eleştirel Değerlendirme
+İİK m. 325 hükümleri, mühlet sürecinde borçlunun hileli tasarruflarını engellemede çok güçlü yargısal araçlar sunsa da, esneklikten uzak yapısı ve modern ticaret hayatının hızıyla çelişen yönleri nedeniyle öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, m. 325’te yer alan tasarruf kısıtlamalarının uygulanmasının tamamen mahkemenin takdirine bırakılarak "karar verebilir" şeklinde tanzim edilmesinin fahiş bir usul riski yarattığı, zira fevkalade mühlet gibi ağır bir koruma kalkanının borçluya verildiği her durumda, taşınmazların devri, rehin kurulması, kefalet verilmesi veya bağışlama yapılmasının mahkemenin takdirine bakılmaksızın kanun gereği (ipso jure/kendiliğinden) yasaklanması gerektiği, nitekim modern konkordato rejimini tanzim eden İİK m. 297/2 fıkrasında bu yasakların mahkeme kararına gerek kalmaksızın kendiliğinden yürürlüğe girdiğinin yazıldığı, m. 325'teki bu ihtiyari yapının borçluya mal kaçırma fırsatı sunabileceği; ayrıca "muvafakat" müessesesinin sınırlarının belirsiz bırakılmasının, komiserlerin keyfi onaylar vermesine veya haklı işlemleri fuzuli geciktirmesine yol açtığı, komiserin red kararlarına karşı borçluya hızlı bir "şikayet kanun yolu" (İİK m. 16 benzeri) tanınmamasının adil yargılanma hakkını zedelediği; son olarak, "fevkalade mühletten evvel doğmuş borçların ödenmesi yasağına" getirilen istisnaların çok dar tutulduğu, işletmenin sürekliliği için hayati öneme sahip olan kilit tedarikçilere yapılacak makul ödemelerin dahi komiserin inisiyatifine bırakılmasının ticari hayatı kilitlediği savunulmaktadır.**
 
-Madde 325, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İcra ve İflas Kanunu m. 325, «B – Yetkili makam tarafından alınan hususi tedbirler hakkında» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 325, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 325'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 325, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İcra ve İflas Kanunu m. 325, «B – Yetkili makam tarafından alınan hususi tedbirler hakkında» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 325, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 325'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 325, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İcra ve İflas Kanunu m. 325, «B – Yetkili makam tarafından alınan hususi tedbirler hakkında» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 325, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 325'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 325, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İcra ve İflas Kanunu m. 325, «B – Yetkili makam tarafından alınan hususi tedbirler hakkında» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 325, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 325'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 325, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İcra ve İflas Kanunu m. 325, «B – Yetkili makam tarafından alınan hususi tedbirler hakkında» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 325, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 325'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 325, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İcra ve İflas Kanunu m. 325, «B – Yetkili makam tarafından alınan hususi tedbirler hakkında» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 325, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 325'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 325, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-İcra ve İflas Kanunu m. 325, «B – Yetkili makam tarafından alınan hususi tedbirler hakkında» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 325, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 325'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Doktrinde bu husus şu şekilde değerlendirilmektedir: Olağanüstü tasarruf sınırlamaları, ticari hayatın sürekliliğini ve haksız varlık transferlerini önleyecek nesnellikte tanzim edilmelidir. Kanun koyucu, anayasal eşitlik, dürüstlük, idari belirlilik ve adil yargılanma ilkelerini tam tahkim etmek adına, **m. 325’i yeniden tanzim ederek; mühlet kararı verilmesiyle birlikte taşınmaz devri, rehin ihdası, kefalet ve ivazsız tasarruf yasaklarını kendiliğinden (otomatik) başlatan**; komiserin muvafakat işlemlerini tamamen dijital şifreli ve UYAP/MERSİS entegre altyapıyla saniyeler içinde kağıtsız tescil eden; komiserin kararlarına karşı borçluya icra mahkemesi nezdinde 3 günlük ivedi şikayet hakkı tanıyan çağdaş, esnek, adil ve tam güvenli bir tasarruf denetim reformunu yasal düzeyde hayata geçirmelidir.
 
 ---
 
 ### Metodolojik Not
-
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: İcra ve İflas Kanunu m. 325 resmi metni ve kanunun sistematiği.
+Bu şerh çalışması, İcra ve İflas Kanunu’nun 325. maddesinin (tarihi yapısı, fevkalade mühlet verilirken borçlunun taşınmazlarını temlik etmesi, bunlar üzerinde ayni hak tesis etmesi, rehin ihdası, ivazsız tasarruflarda (bağışlama) bulunması, mühlet öncesi borçları ödemesi ve kefalet vermesi yasaklarının icra mahkemesince kararlaştırılması reformu, bu yasaklara aykırı yapılan muamelelerin mutlak hükümsüzlük (butlan) yaptırımına tabi tutulması, m. 206 dairesindeki imtiyazlı alacakların (ikinci ve üçüncü sıradaki borçlar) ödenmesi ile m. 319/3 taksitlerinin ödenmesinin bu muvafakat şablonundan istisna tutulması kuralları, kısıtlamaların ilan edilmesi ve tapu siciline "temlik hakkının tahdidi" suretiyle şerh edilmesi usulü ve bu operasyonel koruma-tedbir adımlarının takip-ticaret hukuku boyutundaki idari-yargısal yansımaları dairesinde) icra ve iflas hukuku (fevkalade mühlet denetim teorisi, hususi tedbirler ve komiserlik müessesesi esasları, m. 19, m. 206, m. 297, m. 317-324, m. 326, m. 330 ve m. 363-365 ilişkileri, takiplerin durdurulması ve hakların korunması), ticaret hukuku (ticari işletmelerde envanter hareketleri, finansal bildirim yükümlülükleri ve basiretli tacir sıfatı dairesinde TTK kuralları), medeni usul hukuku (ihtiyati tedbir teorisi, re'sen araştırma ilkesi ve görev-yetki sınırları dairesinde HMK kuralları), eşya ve borçlar hukuku (tasarruf yetkisinin kısıtlanması, tapu sicili şerhleri ve üçüncü kişilerin iyi niyetinin korunması dairesinde TMK m. 1010, m. 1023 kuralları ile kefalet, bağışlama sözleşmeleri ve hükümsüzlük teorileri dairesinde TBK m. 19, m. 285, m. 581 vd. ilişkileri), anayasa hukuku (hukuk devleti, eşitlik ilkesi, adil yargılanma hakkı, mülkiyet hakkının korunması, teşebbüs hürriyeti ve hak arama hürriyeti ilkeleri) boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk icra ve iflas hukukunun genel kabul gören doktrinel ilkeleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.

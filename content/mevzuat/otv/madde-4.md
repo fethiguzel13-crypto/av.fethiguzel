@@ -123,4 +123,4 @@ Bu şerh, ÖTVK m. 4 mükellef ve vergi sorumlusu rejimini; liste bazlı mükell
 
 ---
 
-📊 ÖTVK m. 4 şerhi tamamlanmıştır.
+ ÖTVK m. 4 şerhi tamamlanmıştır.

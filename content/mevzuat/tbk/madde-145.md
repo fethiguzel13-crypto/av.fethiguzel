@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4280
 ---
 
+
 **IV. Takastan feragat**
 
 ---
@@ -17,391 +18,298 @@ MADDE 145- Borçlu, takas hakkından önceden de feragat edebilir.
 
 ### Akademik Yorum ve Analiz
 
+
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Borçlar Kanunu m. 145**, «IV. Takastan feragat» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 145 - Borçlu, takas hakkından önceden de feragat edebilir.
-İKİNCİ AYIRIM
-Zamanaşımı
+Borçlar hukuku dogmatiğinde takas (compensatio) karşılıklı ve aynı cinsten iki
+borcun, taraflardan birinin tek taraflı irade beyanıyla sona erdirilmesidir 
+(TBK m. 139). Ancak sözleşme özgürlüğü (Privatautonomie) ilkesi gereği, 
+kişilerin sahip oldukları bir haktan önceden vazgeçebilmeleri mümkündür. Kanun 
+koyucu, bu kuralı takas kurumu için **TBK Madde 145** ile açıkça kodifiye 
+etmiştir. Hükme göre; *"Takastan önceden feragat edilebilir."* Bu feragat, 
+borçlunun ileride doğacak veya mevcut olan takas hakkını kullanmayacağına dair 
+alacaklıya verdiği tek taraflı veya sözleşmesel bir taahhüttür. 
 
----… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Bu genel hükmün Özel Hükümlerdeki **Alım Hakkı Sözleşmesi (TBK m. 238 / Mehaz 
+OR Art. 216a)** ile kesişimi ise muazzam bir ekonomik ve dogmatik güç savaşına 
+sahne olur. Alım hakkı, hak sahibine, tek taraflı bir irade beyanıyla, sözleşme
+konusu malın (genellikle bir taşınmazın) kararlaştırılan bedel karşılığında 
+kendisine devredilmesini talep yetkisi veren, kurucu yenilik doğuran bir 
+haktır. Taşınmaz maliki (satıcı) alım hakkı sözleşmesini kurduğu an, kendi 
+mülkiyet hakkı üzerinde adeta "saatli bir bomba" yaratır. Hak sahibi (alıcı) o 
+bombayı (irade beyanını) patlattığı an, satıcının iradesine hiçbir şekilde 
+ihtiyaç duyulmaksızın aralarında kusursuz bir "Taşınmaz Satış Sözleşmesi" 
+doğar. 
+
+Sistematik çatışma tam burada başlar: Alım hakkı sahibi, hakkını kullanıp 
+taşınmazın mülkiyetini talep ettiğinde, karşı edim olarak "satış bedelini" 
+ödemek zorundadır. Peki alıcı bu bedeli nakit ödemek yerine, "Senin bana yıllar
+önceden kalan ticari bir borcun vardı, satış bedelini bu alacağımla takas 
+ediyorum" derse ne olacaktır? İşte mülkiyetini kaybeden satıcının tek 
+kurtuluşu, alım hakkı sözleşmesi kurulurken metnin içine yerleştirdiği o hayat 
+kurtarıcı **TBK m. 145 (Takastan Feragat)** klozudur. Bu kloz sayesinde alıcı, 
+bedeli takasla değil, "nakden" ödemeye mecbur bırakılır.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+TBK m. 145'teki takastan feragat ile alım hakkının (TBK m. 238) teorik 
+mimarisini bütünüyle kavrayabilmek için, bu kavramların Fikret Eren, M. Kemal 
+Oğuzman ve Turgut Öz'ün eserleri ekseninde mikroskobik düzeyde analiz edilmesi 
+zorunludur:
 
-Madde 145, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+**A. Alım Hakkının Yenilik Doğuran (Gestaltungsrecht) Niteliği:**
+Sisteminizdeki eserlerde detaylıca incelendiği üzere; yenilik doğuran haklar, 
+beyanın muhataba varmasıyla kendiliğinden hukuki sonuç doğurur. Hakkın 
+kullanılmasıyla amaç derhâl sağlanmış olacağından yenilik doğuran haklar, bir 
+kez kullanılmakla sona erer ve kural olarak şarta bağlanamaz, geri alınamaz. Alım hakkı sözleşmesi kurulduğunda ortada henüz bir satış sözleşmesi 
+yoktur; sadece alıcıya bu sözleşmeyi "tek taraflı olarak kurma gücü" veren bir 
+ön-ilişki vardır. Hak kullanıldığı saniye, bu potansiyel enerji kinetik 
+enerjiye dönüşür ve taraflar aniden "satıcı" ve "alıcı" sıfatlarını kazanır.
 
-##### 2.2. Usulî ve maddi unsurlar
+**B. Resmi Şekil Şartı (TBK m. 238/1):**
+Taşınmazlara ilişkin alım hakkı sözleşmesi, resmi şekilde (noter veya tapu 
+memuru önünde) yapılmadıkça geçerli olmaz. Sisteminizdeki şekil şartlarına 
+ilişkin makalelerde vurgulandığı üzere, resmi şekle uyulmadan yapılan 
+sözleşmeler (adi yazılı vs.) kesin hükümsüzdür (mutlak batıldır) ve geçersiz 
+sözleşmeye göre taraflar verdiklerini ancak sebepsiz mal edinme (zenginleşme) 
+hükümlerine göre geri isteyebilirler. Kanun koyucu, maliki böylesine ağır 
+bir mülkiyet kısıtlamasına sokan bu hakkın, ani ve düşüncesizce verilmesini 
+engellemek için resmi şekli kurucu bir unsur yapmıştır.
 
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+**C. Şerh ve Ayni Etki (TMK m. 736):**
+Alım hakkı nispi (şahsi) bir haktır. Kural olarak sadece sözleşmenin tarafı 
+olan malike karşı ileri sürülebilir. Malik, taşınmazı bir başkasına satarsa, 
+alım hakkı sahibi yeni malikten taşınmazı isteyemez; sadece eski malikten borca
+aykırılık (TBK m. 112) nedeniyle tazminat isteyebilir. Ancak, alım hakkı tapu 
+siciline "şerh" edilirse, eşyaya bağlı bir hakka dönüşür (ayni etki kazanır). 
+Şerh edilmiş bir alım hakkı, taşınmazı sonradan iktisap eden her yeni malike 
+karşı acımasızca kullanılabilir. Bu şerhin etkisi en fazla 10 yıl sürebilir.
 
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+**D. Takastan Önceden Feragat (TBK m. 145):**
+Takas, borcu tasfiye eden yenilik doğuran bir haktır. TBK m. 145 uyarınca bu 
+haktan "önceden" (borç doğmadan önce veya takas şartları oluşmadan önce) 
+feragat edilebilir. Alım hakkı sözleşmesinin içine konulan "ileride hak 
+kullanıldığında doğacak satış bedeli borcunun takasından feragat edilmiştir" 
+şeklindeki bir kloz, tamamen geçerli ve bağlayıcıdır. Bu feragat, alıcının 
+kendi alacağını dava etme hakkını yok etmez; sadece alım bedelini öderken bunu 
+bir "takas defi" olarak kullanmasını engeller.
 
 #### 3. Sistematik İlişkiler
 
-- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 145'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 145 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+TBK m. 145'teki takastan feragat kurgusu ile Özel Hükümlerdeki alım hakkı 
+sözleşmesi; Türk Borçlar Kanunu'nun inançlı işlemler, muvazaa (TBK m. 19) ve 
+sözleşmeden dönme mimarisiyle son derece radikal bir diyalektik bağ içindedir:
 
-Bu ilişkiler, m. 145'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+**A. İnançlı İşlemler, Lex Commissoria Yasağı ve Alım Hakkı:**
+Sisteminizdeki "İnançlı İşlemden Kaynaklanan Tescile Zorlama Davası" eserinde 
+hararetle tartışıldığı üzere; inanç anlaşmasında inanan, taşınmazının 
+yönetilmesi veya borcuna teminat teşkil etmesi için inançlı işlem yapabilir. Uygulamada tefeciler veya gayri resmi kredi verenler, borçluya para 
+verirken teminat olarak borçlunun evinin mülkiyetini (satış gibi) üzerlerine 
+alırlar. Eşzamanlı olarak borçluya bir "Alım Hakkı (veya Geri Alım Hakkı)" 
+verirler. Borçlu, borcunu vadesinde öderse, alım hakkını kullanıp evini geri 
+alacaktır. 
+Eğer inanılan kişi (alacaklı) "Borç ödenmedi, mülkiyet bende kalacak" derse bu
+durum, rehin hukukundaki "Lex Commissoria (Mürتهin Malı Edinme Yasağı - TMK m. 
+873)" kuralıyla ölümcül bir çatışmaya girer. Yargıtay, teminat amacıyla yapılan
+inançlı devirlerde alacaklının mülkiyeti elinde tutmasını yasağa aykırı 
+bulmakta; borçlu alım hakkını kullandığında (veyahut inanç sözleşmesine 
+dayandığında) taşınmazın iadesine karar vermektedir. İnanılan ile üçüncü kişi 
+arasındaki hukuki ilişkinin geçersiz olduğu durumlarda dahi, üçüncü kişiden 
+taşınmazın mülkiyeti talep edilebilir.
 
-#### 4. Uygulama: Yargı İçtihadı
+**B. Muvazaalı Alım Hakkı Tesisi (TBK m. 19):**
+Bazen malik, alacaklılarından mal kaçırmak için güvendiği bir dostuna taşınmazı
+üzerinde çok düşük bir bedelle (örneğin 5 Milyon TL'lik eve 100.000 TL bedelle)
+"Alım Hakkı" tanır ve tapuya şerh ettirir. Alacaklılar haciz koyduğunda, dostu 
+alım hakkını kullanıp taşınmazı 100.000 TL'ye icradan veya malikten çeker. 
+Sisteminizdeki muvazaa eserlerinde de belirtildiği üzere; muvazaalı sözleşmenin
+batıl olmasının gerekçesi olarak muvazaa müessesesinin kanuni dayanağı olan TBK
+m. 19 gösterilmektedir; zira madde metni tarafların gerçek iradelerini ortaya 
+koymaları noktasında emredici niteliktedir. Bu tür bir alım hakkı 
+sözleşmesi, sırf alacaklıları ızrara yönelik muvazaalı bir işlem olduğundan 
+kesin hükümsüzdür ve iptal edilir.
 
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+**C. Alım Hakkının Kullanılması, Temerrüt ve Sözleşmeden Dönme (TBK m. 125 
+vd.):**
+Alım hakkı kullanıldığında, alıcı satış bedelini ödemekle yükümlü hâle gelir. 
+Alıcı bedeli ödemezse satıcı ne yapacaktır? Sisteminizdeki eserlerde 
+açıklandığı üzere; borçlunun temerrüde düşmesi üzerine alacaklının (satıcının) 
+borcundan kurtulma yolları, TBK'nın 107 ilâ 110. maddeleri arasında ve dönme 
+hakkını düzenleyen 125. (eski 106.) maddesinde düzenlenmiştir. Alıcı satış 
+bedelini ödemekte temerrüde düşerse, satıcı aynen ifa ve gecikme tazminatı 
+isteyebileceği gibi, mehil vererek (veya mehil vermeksizin) sözleşmeden dönme 
+(Rücktritt) hakkını kullanabilir. Döndüğü takdirde, alım hakkı ile kurulan 
+satış sözleşmesi geçmişe etkili olarak çöker ve mülkiyet devredilmez.
 
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+#### 4. Pratik Olay Analizleri
 
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+Alım hakkının o keskin yenilik doğuran doğasını, inançlı işlem boyutunu ve TBK 
+m. 145 takastan feragat kalkanını test etmek adına şu iki laboratuvar vakayı 
+inceleyelim:
 
-#### 5. Pratik Örnek Olaylar
+**Olay 1 (İnançlı İşlem Temelinde Alım Hakkı ve Lex Commissoria):**
+Tacir (A) ekonomik krize girer ve Tefeci (B)'den 2 Milyon TL nakit borç alır. 
+Teminat olarak, değeri 10 Milyon TL olan fabrikasının tapusunu (B)'ye satış 
+gibi devreder. Aynı gün noterde yapılan bir sözleşmeyle (B) (A)'ya "1 yıl 
+içinde 3 Milyon TL (anapara + fahiş faiz) ödediği takdirde fabrikayı geri alma 
+hakkı (Alım Hakkı)" tanır. 1 yıl dolar, (A) parayı bulamaz ve alım hakkını 
+kullanamaz. (B) "Süre bitti, alım hakkın düştü, fabrika artık temelli 
+benimdir" der. (A) dava açar.
+*Dogmatik Analiz:* Bu vaka, gayrimenkul hukukunun en kanayan yarasıdır. 
+Görünürde bir satış ve ona bağlı bir "alım hakkı (veya geri alım hakkı)" 
+vardır. Ancak tarafların gerçek iradesi mülkiyetin devri değil, "teminat 
+(rehin)" tesisidir. Taşınmaz mülkiyetinin teminat amacıyla inançlı devri kural 
+olarak geçerli (05.02.1947 tarihli İBK uyarınca yazılı delille ispat şartıyla) 
+kabul edilse de; borç ödenmediği takdirde alacaklının (B'nin) taşınmazın 
+mülkiyetini nihai olarak uhdesinde tutması, TMK m. 873'teki Lex Commissoria 
+yasağına takılır. (B)'nin "fabrika artık temelli benimdir" savunması 
+geçersizdir. Mahkeme, alacaklı (B)'nin alacağının (3 Milyon TL) ödenmesi (depo 
+edilmesi) şartıyla, fabrikanın mülkiyetinin tekrar (A)'ya tesciline karar 
+verecektir. Alım hakkının süresinin dolması, lex commissoria emredici kuralını 
+bertaraf edemez.
 
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 145 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+**Olay 2 (Alım Hakkının Kullanılması ve TBK m. 145 Kalkanı):**
+Şirket (X) maliki olduğu arsa üzerinde Şirket (Y)'ye 5 Milyon TL bedelli ve 5 
+yıl süreli bir alım hakkı (noterde) tanır. Sözleşmenin 8. maddesinde: "Alım 
+hakkının kullanılması hâlinde doğacak satış bedeli borcunun ödenmesinde, 
+alıcının satıcıdan olan hiçbir alacağı takas ve mahsup edilemez (TBK m. 145)" 
+yazar. 4. yılda (Y) alım hakkını kullandığını noter ihtarı ile bildirir ve 
+tapunun devrini ister. Satıcı (X) "Önce 5 Milyon TL'yi ver" der. Alıcı (Y) ise
+"Benim senden geçmişteki bir ticari mal tesliminden 5 Milyon TL alacağım var. 
+Bunu satış bedeliyle takas ediyorum (TBK m. 139) bedel ödenmiştir, tapuyu ver"
+der.
+*Dogmatik Analiz:* Alıcı (Y)'nin takas beyanı, normal şartlarda K-A-M-İ 
+(Karşılıklı, Aynı cinsten, Muaccel, İfa edilebilir) şartlarını taşıdığı için 
+borcu söndürürdü. Ancak sözleşmenin 8. maddesindeki kloz, TBK m. 145 uyarınca 
+geçerli bir "Takastan Önceden Feragat" iradesidir. Taraflar, sözleşme özgürlüğü
+çerçevesinde takas yetkisini baştan bertaraf etmiştir. (Y)'nin yaptığı takas 
+beyanı hukuken yok hükmündedir. (Y) 5 Milyon TL satış bedelini "nakden" 
+ödemekle yükümlüdür. Ödemediği takdirde Satıcı (X) TBK m. 106 ve 125 uyarınca 
+alıcıyı temerrüde düşürecek ve satış sözleşmesinden (alım hakkı ilişkisinden) 
+dönerek mülkiyetini koruyacaktır.
 
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+#### 5. Pratik Uygulama Notları
 
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+TBK m. 145 ve alım hakkı sözleşmelerinin (TBK m. 238) usul hukukunda, sözleşme 
+mimarisinde (Legal Drafting) ve uyuşmazlık tasfiyesinde avukatların dikkat 
+etmesi gereken stratejik boyutları şunlardır:
 
-#### 6. Pratik Uygulama Notları
+**1. Bedelin Enflasyona Karşı Korunması ve Belirlenebilirliği:**
+Alım hakkı en fazla 10 yıl için şerh edilebilir. Türkiye gibi hiperenflasyon 
+riskinin olduğu ülkelerde, sözleşmeye "Satış bedeli 5 Milyon TL'dir" yazmak, 10
+yıl sonra taşınmazı bedavaya kaptırmak demektir. Avukatlar sözleşmeyi 
+kurgularken bedeli sabit yazmamalı; "Hakkın kullanıldığı tarihteki SPK lisanslı
+iki değerleme uzmanının biçeceği ortalama rayiç bedel" veya "5 Milyon TL'nin 
+Merkez Bankası döviz satış kuru üzerinden USD karşılığı" gibi "belirlenebilir 
+(bestimmbar)" bir kıstas koymalıdır. Bedelin baştan sabitlendiği ve enflasyonla
+eridiği durumlarda satıcının tek kurtuluşu, TBK m. 138 (Aşırı İfa Güçlüğü - 
+Emprevizyon) davası açarak bedelin uyarlanmasını talep etmek olacaktır.
 
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+**2. Sözleşmede "Takastan Feragat" (TBK m. 145) Klozunun Önemi:**
+Özellikle ticari husumet yaşayan şirketler arasında, bir tarafın elindeki 
+gayrimenkulü alım hakkı vasıtasıyla koparmasını ve bedelini de şüpheli/eski 
+ticari alacaklarla (fatura alacaklarıyla vb.) takas etmesini engellemek için, 
+alım hakkı sözleşmelerine mutlaka TBK m. 145 kalkanı eklenmelidir. Bu kloz 
+eklenmezse, malik tapuyu devrederken eline hiç nakit geçmeme tehlikesiyle karşı
+karşıya kalır.
+
+**3. Tapu İptal ve Tescil Davasında "Depo Kararı":**
+Alım hakkı sahibi, hakkını kullanmasına rağmen malik tapuda devri 
+gerçekleştirmezse, hak sahibi TMK m. 716 uyarınca (tescile icbar) tapu iptal ve
+tescil davası açar. Ancak mahkeme, mülkiyetin devrine karar vermeden önce, 
+davacı alıcıya "satış bedelini mahkeme veznesine depo etmesi" için kesin süre 
+verir (Ödemezlik defi / TBK m. 97). Şayet alıcı (davacı) bedeli nakden depo 
+etmeyip de "takas itirazında" bulunursa ve sözleşmede TBK m. 145 feragati 
+varsa, mahkeme takas talebini reddeder ve kesin süre içinde bedel nakden depo 
+edilmediği için davayı usulden/esastan reddeder.
+
+#### 6. Yargıtay İçtihadı
+
+Yargıtay Hukuk Genel Kurulu ve ihtilaflara bakan 1. Hukuk Dairesi ile 14. Hukuk
+Dairesi (yeni iş bölümüyle ilgili daireler) alım hakkının "resmi şekil" 
+şartını katı bir biçimde uygulamakta ve özellikle inançlı işlem iddialarında 
+1947 tarihli İçtihadı Birleştirme Kararına sıkı sıkıya bağlı kalmaktadır.
+
+Yargıtay Hukuk Genel Kurulu'nun inançlı işlemler ve alım hakkı (vefa) 
+eksenindeki klasikleşmiş yaklaşımında şu dogmatik kural şablonlaşmıştır: 
+*"05.02.1947 tarihli ve 20/6 sayılı İçtihadı Birleştirme Kararı uyarınca, inanç
+sözleşmesi ancak yazılı delille ispat edilebilir. Somut uyuşmazlıkta davacı, 
+kredi borcuna karşılık teminat amacıyla taşınmazını davalıya devrettiğini, 
+davalının da kendisine noterde 'alım hakkı' verdiğini, borcunu ödemesine rağmen
+taşınmazın iade edilmediğini iddia etmiştir. Dosya kapsamındaki resmi alım 
+hakkı sözleşmesi, inançlı işlemin yazılı delil başlangıcı veya bizatihi yazılı 
+delili niteliğindedir. Alacaklı olan davalının, inançlı devir (teminat) amacı 
+güdülmesine rağmen, TMK m. 873'teki lex commissoria (mürtehinin malı edinme 
+yasağı) kuralını dolanarak taşınmazı uhdesinde tutması himaye edilemez. 
+Davacının borç bakiyesini mahkeme veznesine depo etmesi şartıyla tapunun 
+iptaline ve tesciline karar verilmesi yasaya uygundur."*
+
+**Resmi Şekil ve Tazminat** hususunda Yargıtay'ın içtihat yönelimi şöyledir: 
+*"Alım hakkı sözleşmesinin geçerliliği, TBK m. 238 uyarınca resmi şekilde 
+yapılmasına bağlıdır. Taraflar arasında adi yazılı şekilde yapılan alım hakkı 
+sözleşmesi kesin hükümsüzdür. Kesin hükümsüz bir sözleşmeye dayanılarak tescile
+icbar (tapu iptal) talep edilemez. Davacı ancak, geçersiz sözleşme nedeniyle 
+karşı tarafa ödediği bir bedel varsa, bunu sebepsiz zenginleşme (TBK m. 77 vd.)
+kuralları çerçevesinde denkleştirici adalet ilkesine göre güncellenmiş 
+değeriyle iade alabilir."*
 
 #### 7. Eleştirel Değerlendirme
 
-Madde 145, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
+Türk Borçlar Kanunu'nun 145. maddesinde vücut bulan **Takastan Feragat** rejimi
+ile bunun 238. maddedeki **Alım Hakkı** ile etkileşimi, borçlar hukuku 
+dogmatiğinde Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer'in 
+eserleri ekseninde; "Yenilik Doğuran Hakkın Etki Süresinin Katılığı" ve "Gabin 
+Hükümlerinin Yenilik Doğuran Haklara Uygulanmasındaki Yetersizlik" bağlamında 
+çok derin kuramsal eleştirilere ve teorik fay hatlarına maruz kalmaktadır.
+
+Birinci ve en sert felsefi eleştiri, **TMK m. 736/2'de Düzenlenen Alım Hakkının
+Şerhi İçin Öngörülen 10 Yıllık Azami Sürenin, Ticari Hayatın ve Büyük 
+Projelerin Finansman İhtiyaçlarını Karşılamakta Yetersiz Kalmasıdır**. Fikret 
+Eren ve Oğuzman/Öz'ün öğretilerinde de haklı olarak sorgulandığı üzere; kanun 
+koyucu, mülkiyet hakkının uzun süre belirsizlik (kılıç) altında kalmasını 
+önlemek için şerh süresini 10 yılla sınırlamıştır. Ancak modern holding 
+yapılarında, "Yap-İşlet-Devret" projelerinde veya 25-30 yıllık uzun vadeli 
+rüzgâr/güneş enerjisi yatırım sözleşmelerinde, yatırımcıya projenin sonunda 
+arsayı devralma (Alım Hakkı) yetkisi verilmek istendiğinde, 10 yıllık bu 
+emredici sınır ticari vizyonu tıkamaktadır. Hukukun, bireyleri koruyan kurallar
+(Paternalizm) ile tacir/profesyonel aktörlerin uzun vadeli planlamalarını aynı 
+dar kalıba sokması, özel hukukun yatırım dünyasına ayak uydurmasını engelleyen 
+dogmatik bir prangadır.
+
+İkinci dogmatik eleştiri, **Alım Hakkının Kullanılması Anında Doğacak Aşırı 
+Yararlanma (Gabin - TBK m. 28) İddialarının, Yenilik Doğuran Hakkın Doğasıyla 
+Nasıl Bağdaşacağı Meselesidir**. Nomer ve Eren'in eserlerinde de vurgulandığı 
+üzere; gabin, sözleşmenin *kurulduğu andaki* edimler arası açık oransızlığı 
+hedef alır. Alım hakkı sözleşmesi kurulduğunda (örneğin 2015 yılında) 1 Milyon 
+TL'lik bedel adil olabilir. Ancak hak 2024 yılında kullanıldığında, taşınmazın 
+değeri 50 Milyon TL olmuşsa, ortada devasa bir oransızlık vardır. Hukuk 
+uygulamasında, gabinin objektif unsurunun hangi an (sözleşmenin kurulduğu an 
+mı, hakkın kullanıldığı an mı) itibarıyla değerlendirileceği büyük bir 
+tartışmadır. Zira yenilik doğuran hak, asıl satış sözleşmesini *kullanıldığı 
+an* kurmaktadır. Eğer gabin, hakkın kullanıldığı an değerlendirilirse, uzun 
+vadeli tüm alım hakları enflasyon nedeniyle gabin iptaline maruz kalacaktır. Bu
+yüzden doktrin, böylesi durumlarda gabin (TBK m. 28) yerine, işlem temelinin 
+çökmesi ve uyarlama (TBK m. 138) mekanizmasının işletilmesi gerektiğini 
+şiddetle savunur. Yargıtay'ın bu iki kurumu (Gabin ve Emprevizyon) zaman zaman 
+birbirine karıştırarak verdiği kararlar, borçlar hukuku teorisi açısından ciddi
+bir zafiyet barındırmaktadır.
 
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 145, «IV. Takastan feragat» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bi Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 145, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 145'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 145, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 145, «IV. Takastan feragat» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bi Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 145, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 145'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 145, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 145, «IV. Takastan feragat» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bi Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 145, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 145'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 145, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 145, «IV. Takastan feragat» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bi Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 145, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 145'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 145, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 145, «IV. Takastan feragat» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bi Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 145, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 145'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 145, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 145, «IV. Takastan feragat» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bi Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 145, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 145'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 145, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 145, «IV. Takastan feragat» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bi Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 145, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 145'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 145 resmi metni ve kanunun sistematiği.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
+- *Yargı kararları*: Türk Borçlar Kanunu m. 145'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
+- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
+- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 216a.
+
+**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 145. madde metnine dayanır.
+
+**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
+
+**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.

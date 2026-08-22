@@ -3,8 +3,18 @@ title: "İcra ve İflas Kanunu Madde 16"
 kanun: "İcra ve İflas Kanunu"
 maddeNo: 16
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3618
+lastReviewed: "2026-08-22"
+wordCount: 969
+keywords:
+  - "şikayet"
+  - "icra mahkemesi"
+  - "yedi gün"
+  - "süresiz şikayet"
+  - "icra müdürü işlemi"
+---
+
+**Şikayet**
+
 ---
 
 Madde 16 – (Değişik: 3/7/1940-3890/1 md.)
@@ -21,238 +31,88 @@ dolayı her zaman şikayet olunabilir.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**İcra ve İflas Kanunu m. 16** (2004 sayılı), «(Değişik: 3/7/1940-3890/1 md.)» başlığı altında icra–iflas hukuku içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+İcra takibi, alacaklının devlet gücünü kullanarak hakkına kavuşmasının yoludur. Bu gücün günlük işleticisi icra dairesidir. Dairenin işlemi kanuna aykırı düşer veya olaya uymazsa borçlu, alacaklı ve hatta işlemin etkilediği üçüncü kişi icra mahkemesine gider. 16. madde bu gidişin adını koyar: şikayet.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 16 izole okunmamalı; İİK’nın ilgili bölüm/ayırım bütünlüğü ve alacağın cebri icrası ilkesiyle birlikte yorumlanmalıdır.
+Hüküm, kanunun hallini mahkemeye bıraktığı hususları şikayetin dışında tutar. İtirazın iptali, menfi tespit, istihkak davası gibi yollar 16. maddenin rakibi değil, onun durduğu yerin ötesidir. Kuru, *İcra ve İflas Hukuku* eserinde şikayeti icra hukukuna özgü bir kanun yolu olarak tarif eder. Pekcanıtez/Atalay/Sungurtekin Özkan, *İcra ve İflas Hukuku* çalışmasında şikayetin dava olmadığını, hatalı işlemi düzeltmeye yaradığını belirtir. Yılmaz, *İcra ve İflas Hukuku* eserinde yedi günlük sürenin öğrenmeye bağlanmasını, tebliğle işleyen itiraz süresinden ayırır.
 
-Ratio legis, alacağın cebri icrası, haciz ve satış, iflas ve konkordato ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: (Değişik: 3/7/1940-3890/1 md.) Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir. Şikayet bu muamelelerin öğrenildiği tarihten yedi gün içinde yapılır.
-
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Hukuk Genel Kurulu bu ayrımı açıkça yazmıştır: şikayette davacı ve davalı değil, şikayet eden ve şikayet olunan bulunur; amaç hatalı icra işleminin düzeltilmesidir (Yargıtay Hukuk Genel Kurulu, E. 2012/716, K. 2013/68, T. 16.01.2013).
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Şikayetin konusu
 
-Madde 16, «(Değişik: 3/7/1940-3890/1 md.)» ekseninde Değişik ve Kanunun
-hallini mahkemeye bıraktığı kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak icra–iflas hukuku içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+Şikayet, icra ve iflas dairelerinin yaptığı muamelelere yönelir. Kanuna muhalefet veya hadiseye uygun düşmeme, iki ayrı kapıdır. Kanun maddesinin yanlış uygulanması birinciye, somut olayın özelliklerinin gözetilmemesi ikinciye girer. İcra müdürünün kendiliğinden gözetmesi gereken bir hususu atlaması da kanuna aykırılık doğurur ve yol yine şikayettir (Yargıtay Hukuk Genel Kurulu, E. 2009/539, K. 2010/16, T. 27.01.2010).
 
-##### 2.2. Unsurlar
+Mahkemeye bırakılmış uyuşmazlıklar şikayetle çözülemez. Alacağın esasına, imzaya, borcun varlığına ilişkin iddialar itiraz, itirazın iptali veya menfi tespit davasına gider.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+##### 2.2. Yedi günlük süre
 
-Metinden çıkan somut vurgular: Bir hakkın yerine getirilmemesinden veya sebepsiz sürüncemede bırakılmasından dolayı her zaman şikayet olunabilir. Şikayet üzerine yapılacak muameleler:
+Süre, işlemin öğrenildiği tarihten işler. Tebliğ tarihi ile öğrenme tarihi çoğu dosyada örtüşmez. Usulsüz tebliğde muhatap tebliğe muttali olduğu tarihi esas alır ve şikayeti o tarihten itibaren yedi gün içinde yapar (Yargıtay Hukuk Genel Kurulu, E. 2012/1090, K. 2013/394, T. 27.03.2013). İtiraz süresi tebliğle, şikayet süresi öğrenmeyle başlar; bu fark kurul kararında ayrıca vurgulanmıştır (Yargıtay Hukuk Genel Kurulu, E. 2009/539, K. 2010/16, T. 27.01.2010).
 
-##### 2.3. Korunan menfaat
+##### 2.3. Süresiz şikayet
 
-Korunan menfaat, bireysel hak sahibi ile haciz ve satış arasındaki dengede aranır. İİK m. 16, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. İcra ve kavramı bu dengede anahtar rol oynar.
+İkinci fıkra, bir hakkın yerine getirilmemesini veya sebepsiz sürüncemede bırakılmasını her zaman şikayet edilebilir kılar. İcra müdürünün satış talebini işlememesi, haczi sebepsiz bekletmesi bu kapsamdadır. Süresiz şikayet, yedi günlük sürenin istisnasıdır ve dar okunur. Haczedilmezlik gibi bazı şikayetler uygulamada süresiz sayılmaz; yedi günlük genel süre işler. Arşivde gecekondu tahsisi üzerine kurulan haczedilmezlik şikayetinin yedi güne tâbi tutulduğu bir kurul kararı bu gerilimi gösterir, ne var ki o kaydın tam tarih satırı şerhe alınacak güvenlikte değildir.
 
-##### 2.4. Sonuç ve yaptırım
+##### 2.4. Şikayetin hukuki niteliği
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Şikayet dava değildir. Harç, taraf sıfatı ve yargılama usulü 18. maddede basit yargılama ve ivedilik olarak düzenlenir. 17. madde, şikayet kabul edilirse işlemin bozulacağını veya düzeltileceğini söyler. Bu sonuç, bir eda hükmünden çok idari bir düzeltmeye yakındır.
 
 #### 3. Sistematik İlişkiler
 
-- **İİK komşu maddeler:** m. 16 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle (Değişik: 3/7/1940-3890/1 md.) temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** alacağın cebri icrası; haciz ve satış; iflas ve konkordato; şikâyet ve istihkak.
-- **Yatay mevzuat:** 6100 sayılı HMK; 6098 sayılı TBK; 6102 sayılı TTK.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**Şikayet üzerine yapılacak muamele (m. 17).** 16. madde yolu açar, 17. madde sonucu yazar.
 
-Bu ilişkiler, m. 16’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+**Yargılama usulü (m. 18).** İcra mahkemesi şikayeti ivedi iş ve basit yargılama ile görür.
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
+**İtiraz (m. 62 vd.).** Ödeme emrine itiraz şikayet olmayıp süre tebliğle işler ve konu borcun varlığıdır; şikayet ise dairenin işlemine bakır.
 
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
+**Haciz ihbarnamesi (m. 89) ve haczedilmezlik (m. 82).** Bu maddelerdeki yanlış işlemler çoğu kez 16. madde şikayetiyle icra mahkemesine taşınır.
 
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (Değişik / İflas
-dairelerinin yaptığı muameleler karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
+Aşağıdaki kararlar yerel arşivden alınmış, künyeler kaynak metinden birebir aktarılmıştır.
 
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: (Değişik: 3/7/1940-3890/1 md.) Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir. Şikayet bu muamelelerin öğrenildiği tarihten yedi gün içinde yapılır.
+**Şikayetin dava olmayışı.** Kurul, 16. maddeyi aynen aktardıktan sonra şikayetin icra ve iflas hukukuna özgü bir yasa yolu olduğunu, davalı ve davacı değil şikayet eden ve şikayet olunan bulunduğunu, amacın hatalı icra işlemini düzeltmek olduğunu yazmıştır (Yargıtay Hukuk Genel Kurulu, E. 2012/716, K. 2013/68, T. 16.01.2013).
+
+**Öğrenme ve yedi gün.** Usulsüz tebliğ şikayetinin, borçlunun usulsüzlüğü öğrendiği tarihten itibaren 16. maddenin birinci fıkrasındaki yedi gün içinde icra mahkemesine bildirilmesi gerektiği kabul edilmiştir (Yargıtay Hukuk Genel Kurulu, E. 2012/1090, K. 2013/394, T. 27.03.2013).
+
+**Şikayet ile itirazın ayrılığı.** İcra müdürünün kendiliğinden gözetmesi gereken hususa uymaması kanuna aykırılık doğurur ve yol şikayettir. İtiraz süresi tebliğle, şikayet süresi öğrenmeyle işler; bazı hâllerde süresiz şikayet mümkünken süresiz itiraz yoktur (Yargıtay Hukuk Genel Kurulu, E. 2009/539, K. 2010/16, T. 27.01.2010).
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında (değişik: 3/7/1940-3890/1 md.) ile bağlantılı bir uyuşmazlık çıkar. Davacı, İİK m. 16’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. (Değişik: 3/7/1940-3890/1 md.) Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir. cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** İcra müdürü haczedilmez maaşı haczettiğinde borçlu işlemi tebliğden beş gün sonra bir meslektaşından öğrenirse süre öğrenme tarihindendir. Konu müdürün kanuna aykırı işlemi olduğundan yol 62. maddedeki itiraz değil 16. maddedeki şikayettir.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 16 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** Alacaklı satış talebinde bulunur, müdür dosyayı üç aydır işlememektedir. İkinci fıkra, hakkın sebepsiz sürüncemede bırakılmasını süresiz şikayet edilebilir kılar. Yedi günlük süre burada işlemez.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, Kanunun
-hallini mahkemeye bıraktığı gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* İİK’nın iyiniyet ve dürüstlük ilkeleri ile m. 16’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Borçlu, borcun zamanaşımına uğradığını icra mahkemesinde 16. maddeye dayanarak ileri sürer. Zamanaşımı alacağın esasına ilişkindir ve kanunun mahkemeye bıraktığı hususlardandır. Şikayet dinlenmez; yol itiraz veya menfi tespit davasıdır.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; Değişik ile İcra ve’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **İİK madde 16**, **İİK m. 16**, **İİK 16** ve **İcra ve İflas Kanunu madde 16** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Dilekçede şikayet kelimesi yazılmalı, işlem tarihi ve öğrenme tarihi ayrı ayrı gösterilmelidir. "Dava" başlığı, 18. maddedeki usulü şaşırtır.
+
+Yedi günün başlangıcı tebliğ zarfı değil öğrenmedir. Usulsüz tebliğde muttali olunan tarih belgelenmelidir.
+
+Süresiz şikayet iddiası, sürünceme veya hakkın yerine getirilmemesi olgularıyla somutlaştırılmalıdır. Haczedilmezlik her dosyada süresiz değildir.
+
+İcra müdürünün re'sen gözeteceği bir husus atlanmışsa, nitelik itiraz gibi görünse de yol şikayettir.
 
 #### 7. Eleştirel Değerlendirme
 
-İİK m. 16, icra–iflas hukuku içinde (Değişik: 3/7/1940-3890/1 md.) temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve alacağın cebri icrası ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Maddenin isabetli yanı, icra dairesinin işlemlerini kısa sürede ve davadan hafif bir yolla denetlemesidir. Yedi gün, takibin hızına uygundur.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 16 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Zayıf yan, öğrenme kavramının ispatıdır. Tebliğ belgesi dururken öğrenmeyi kanıtlamak, şikayet edeni çoğu kez sürenin kaçtığı savunmasıyla karşı karşıya bırakır. Bizce usulsüz tebliğde 16. madde ile Tebligat Kanunu'nun 32. maddesi birlikte yazılmalı, muttali olma tarihi dilekçenin ilk cümlesine konmalıdır.
+
+Süresiz şikayet ile yedi günlük şikayet arasındaki sınır uygulamada titrer. Sürünceme iddiasının her gecikmeye teşmili, yedi günlük süreyi fiilen kaldırır. İkinci fıkra dar tutulmalıdır.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: İcra ve İflas Kanunu m. 16 resmî metni ve kanun sistematiği.
+Bu yorum, maddenin resmî metni esas alınarak hazırlanmıştır. Metin, mevzuat.gov.tr kaynağındaki hâliyle doğrulanmış olup 3/7/1940 tarihli ve 3890 sayılı Kanunla değişik hâldedir.
 
-Bu bağlamda m. 16 uygulamasında «(Değişik: 3/7/1940-3890/1 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik: 3/7/1940-3890/1 md.) Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir.
+Yargıtay kararları yerel arşivden alınmış, künyeler kaynak metinden birebir aktarılmıştır. Tam künyeli Hukuk Genel Kurulu kararlarına yer verilmiş, tarih satırı eksik kayıtlar kullanılmamıştır.
 
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Şikayet bu muamelelerin öğrenildiği tarihten yedi gün içinde yapılır.
+Doktrin atıfları Kuru, Pekcanıtez/Atalay/Sungurtekin Özkan ve Yılmaz'ın icra eserleriyle sınırlı tutulmuş, sayfa numarası verilmemiştir.
 
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Bir hakkın yerine getirilmemesinden veya sebepsiz sürüncemede bırakılmasından dolayı her zaman şikayet olunabilir.
+Beşinci bölümdeki olaylar kurmacadır.
 
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Şikayet üzerine yapılacak muameleler:
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 16 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Değişik: 3/7/1940-3890/1 md.) Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Şikayet bu muamelelerin öğrenildiği tarihten yedi gün içinde yapılır.
-
-Sonuç olarak, İİK madde 16 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Bir hakkın yerine getirilmemesinden veya sebepsiz sürüncemede bırakılmasından dolayı her zaman şikayet olunabilir.
-
-Bu bağlamda m. 16 uygulamasında «(Değişik: 3/7/1940-3890/1 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Şikayet üzerine yapılacak muameleler:
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Değişik: 3/7/1940-3890/1 md.) Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Şikayet bu muamelelerin öğrenildiği tarihten yedi gün içinde yapılır.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Bir hakkın yerine getirilmemesinden veya sebepsiz sürüncemede bırakılmasından dolayı her zaman şikayet olunabilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 16 sonuçlarının fiilen elde edilmesi için belirleyicidir. Şikayet üzerine yapılacak muameleler:
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Değişik: 3/7/1940-3890/1 md.) Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir.
-
-Sonuç olarak, İİK madde 16 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Şikayet bu muamelelerin öğrenildiği tarihten yedi gün içinde yapılır.
-
-Bu bağlamda m. 16 uygulamasında «(Değişik: 3/7/1940-3890/1 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Bir hakkın yerine getirilmemesinden veya sebepsiz sürüncemede bırakılmasından dolayı her zaman şikayet olunabilir.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Şikayet üzerine yapılacak muameleler:
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Değişik: 3/7/1940-3890/1 md.) Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Şikayet bu muamelelerin öğrenildiği tarihten yedi gün içinde yapılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 16 sonuçlarının fiilen elde edilmesi için belirleyicidir. Bir hakkın yerine getirilmemesinden veya sebepsiz sürüncemede bırakılmasından dolayı her zaman şikayet olunabilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Şikayet üzerine yapılacak muameleler:
-
-Sonuç olarak, İİK madde 16 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Değişik: 3/7/1940-3890/1 md.) Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir.
-
-Bu bağlamda m. 16 uygulamasında «(Değişik: 3/7/1940-3890/1 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Şikayet bu muamelelerin öğrenildiği tarihten yedi gün içinde yapılır.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bir hakkın yerine getirilmemesinden veya sebepsiz sürüncemede bırakılmasından dolayı her zaman şikayet olunabilir.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Şikayet üzerine yapılacak muameleler:
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Değişik: 3/7/1940-3890/1 md.) Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 16 sonuçlarının fiilen elde edilmesi için belirleyicidir. Şikayet bu muamelelerin öğrenildiği tarihten yedi gün içinde yapılır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Bir hakkın yerine getirilmemesinden veya sebepsiz sürüncemede bırakılmasından dolayı her zaman şikayet olunabilir.
-
-Sonuç olarak, İİK madde 16 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Şikayet üzerine yapılacak muameleler:
-
-Bu bağlamda m. 16 uygulamasında «(Değişik: 3/7/1940-3890/1 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik: 3/7/1940-3890/1 md.) Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Şikayet bu muamelelerin öğrenildiği tarihten yedi gün içinde yapılır.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Bir hakkın yerine getirilmemesinden veya sebepsiz sürüncemede bırakılmasından dolayı her zaman şikayet olunabilir.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Şikayet üzerine yapılacak muameleler:
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 16 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Değişik: 3/7/1940-3890/1 md.) Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Şikayet bu muamelelerin öğrenildiği tarihten yedi gün içinde yapılır.
-
-Sonuç olarak, İİK madde 16 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Bir hakkın yerine getirilmemesinden veya sebepsiz sürüncemede bırakılmasından dolayı her zaman şikayet olunabilir.
-
-Bu bağlamda m. 16 uygulamasında «(Değişik: 3/7/1940-3890/1 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Şikayet üzerine yapılacak muameleler:
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Değişik: 3/7/1940-3890/1 md.) Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Şikayet bu muamelelerin öğrenildiği tarihten yedi gün içinde yapılır.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Bir hakkın yerine getirilmemesinden veya sebepsiz sürüncemede bırakılmasından dolayı her zaman şikayet olunabilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 16 sonuçlarının fiilen elde edilmesi için belirleyicidir. Şikayet üzerine yapılacak muameleler:
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Değişik: 3/7/1940-3890/1 md.) Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir.
-
-Sonuç olarak, İİK madde 16 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Şikayet bu muamelelerin öğrenildiği tarihten yedi gün içinde yapılır.
-
-Bu bağlamda m. 16 uygulamasında «(Değişik: 3/7/1940-3890/1 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Bir hakkın yerine getirilmemesinden veya sebepsiz sürüncemede bırakılmasından dolayı her zaman şikayet olunabilir.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Şikayet üzerine yapılacak muameleler:
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Değişik: 3/7/1940-3890/1 md.) Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Şikayet bu muamelelerin öğrenildiği tarihten yedi gün içinde yapılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 16 sonuçlarının fiilen elde edilmesi için belirleyicidir. Bir hakkın yerine getirilmemesinden veya sebepsiz sürüncemede bırakılmasından dolayı her zaman şikayet olunabilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Şikayet üzerine yapılacak muameleler:
-
-Sonuç olarak, İİK madde 16 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Değişik: 3/7/1940-3890/1 md.) Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir.
-
-Bu bağlamda m. 16 uygulamasında «(Değişik: 3/7/1940-3890/1 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Şikayet bu muamelelerin öğrenildiği tarihten yedi gün içinde yapılır.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bir hakkın yerine getirilmemesinden veya sebepsiz sürüncemede bırakılmasından dolayı her zaman şikayet olunabilir.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Şikayet üzerine yapılacak muameleler:
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Değişik: 3/7/1940-3890/1 md.) Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 16 sonuçlarının fiilen elde edilmesi için belirleyicidir. Şikayet bu muamelelerin öğrenildiği tarihten yedi gün içinde yapılır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Bir hakkın yerine getirilmemesinden veya sebepsiz sürüncemede bırakılmasından dolayı her zaman şikayet olunabilir.
-
-Sonuç olarak, İİK madde 16 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Şikayet üzerine yapılacak muameleler:
-
-Bu bağlamda m. 16 uygulamasında «(Değişik: 3/7/1940-3890/1 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik: 3/7/1940-3890/1 md.) Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Şikayet bu muamelelerin öğrenildiği tarihten yedi gün içinde yapılır.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Bir hakkın yerine getirilmemesinden veya sebepsiz sürüncemede bırakılmasından dolayı her zaman şikayet olunabilir.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Şikayet üzerine yapılacak muameleler:
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 16 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Değişik: 3/7/1940-3890/1 md.) Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Şikayet bu muamelelerin öğrenildiği tarihten yedi gün içinde yapılır.
-
-Sonuç olarak, İİK madde 16 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Bir hakkın yerine getirilmemesinden veya sebepsiz sürüncemede bırakılmasından dolayı her zaman şikayet olunabilir.
-
-Bu bağlamda m. 16 uygulamasında «(Değişik: 3/7/1940-3890/1 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Şikayet üzerine yapılacak muameleler:
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Değişik: 3/7/1940-3890/1 md.) Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Şikayet bu muamelelerin öğrenildiği tarihten yedi gün içinde yapılır.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Bir hakkın yerine getirilmemesinden veya sebepsiz sürüncemede bırakılmasından dolayı her zaman şikayet olunabilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 16 sonuçlarının fiilen elde edilmesi için belirleyicidir. Şikayet üzerine yapılacak muameleler:
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Değişik: 3/7/1940-3890/1 md.) Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir.
-
-Sonuç olarak, İİK madde 16 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Şikayet bu muamelelerin öğrenildiği tarihten yedi gün içinde yapılır.
-
-Bu bağlamda m. 16 uygulamasında «(Değişik: 3/7/1940-3890/1 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Bir hakkın yerine getirilmemesinden veya sebepsiz sürüncemede bırakılmasından dolayı her zaman şikayet olunabilir.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Şikayet üzerine yapılacak muameleler:
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Değişik: 3/7/1940-3890/1 md.) Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Şikayet bu muamelelerin öğrenildiği tarihten yedi gün içinde yapılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 16 sonuçlarının fiilen elde edilmesi için belirleyicidir. Bir hakkın yerine getirilmemesinden veya sebepsiz sürüncemede bırakılmasından dolayı her zaman şikayet olunabilir.
+Yorum bilgilendirme amaçlıdır; somut dosyada sonuç vaadi taşımaz.

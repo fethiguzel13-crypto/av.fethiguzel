@@ -435,84 +435,96 @@ function isThinkingModel(model) {
     return false;
 }
 
-export async function callGeminiJson({ system, user, maxTokens = 8192 }) {
+const skipUntil = new Map();
+let lastGoodModel = process.env.SERH_GEMINI_MODEL || process.env.VATANDAS_GEMINI_MODEL || '';
+
+export async function callGeminiJson({ system, user, maxTokens = 8192, waitOnQuota = true }) {
     const key = process.env.GEMINI_API_KEY;
     if (!key) throw new Error('GEMINI_API_KEY yok');
     const models = [
+        lastGoodModel,
+        process.env.SERH_GEMINI_MODEL,
         process.env.VATANDAS_GEMINI_MODEL,
-        'gemini-3.6-flash',
         'gemini-3.1-flash-lite',
         'gemini-2.5-flash-lite',
-        'gemini-2.5-flash',
         'gemini-flash-lite-latest',
+        'gemini-2.5-flash',
         'gemini-flash-latest',
         'gemini-3.5-flash-lite',
         'gemini-3.5-flash',
+        'gemini-3.6-flash',
     ].filter(Boolean);
     const seen = new Set();
     const list = models.filter((m) => (seen.has(m) ? false : (seen.add(m), true)));
 
     let lastErr;
-    for (const model of list) {
-        for (let attempt = 0; attempt < 4; attempt++) {
-            try {
-                const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${key}`;
-                const generationConfig = {
-                    maxOutputTokens: isThinkingModel(model) ? Math.max(maxTokens, 4096) : maxTokens,
-                    temperature: 0.62,
-                };
-                if (attempt === 0) generationConfig.responseMimeType = 'application/json';
-                if (isThinkingModel(model)) generationConfig.thinkingConfig = { thinkingBudget: 0 };
+    for (let wave = 0; wave < 2; wave += 1) {
+        for (const model of list) {
+            if (Date.now() < (skipUntil.get(model) || 0)) continue;
+            for (let attempt = 0; attempt < 3; attempt++) {
+                try {
+                    const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${key}`;
+                    const generationConfig = {
+                        maxOutputTokens: isThinkingModel(model) ? Math.max(maxTokens, 4096) : maxTokens,
+                        temperature: 0.62,
+                    };
+                    if (attempt === 0) generationConfig.responseMimeType = 'application/json';
+                    if (isThinkingModel(model)) generationConfig.thinkingConfig = { thinkingBudget: 0 };
 
-                const res = await fetch(url, {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({
-                        systemInstruction: { parts: [{ text: system }] },
-                        contents: [{ role: 'user', parts: [{ text: user }] }],
-                        generationConfig,
-                    }),
-                });
-                if (!res.ok) {
-                    const t = await res.text();
-                    const err = new Error(`Gemini ${model} HTTP ${res.status}: ${t.slice(0, 240)}`);
-                    err.status = res.status;
-                    throw err;
-                }
-                const data = await res.json();
-                const cand = data?.candidates?.[0];
-                const text = cand?.content?.parts?.map((p) => p.text).filter(Boolean).join('').trim();
-                if (!text) {
-                    throw new Error(`Gemini ${model} empty (${cand?.finishReason || 'empty'})`);
-                }
-                return extractJson(text);
-            } catch (e) {
-                lastErr = e;
-                const msg = String(e.message || e);
-                if (e.status === 404) break;
-                if (e.status === 429) {
-                    if (attempt >= 1) {
-                        console.warn(`[gemini] 429 ${model} — sonraki modele geçiliyor`);
+                    const res = await fetch(url, {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({
+                            systemInstruction: { parts: [{ text: system }] },
+                            contents: [{ role: 'user', parts: [{ text: user }] }],
+                            generationConfig,
+                        }),
+                    });
+                    if (!res.ok) {
+                        const t = await res.text();
+                        const err = new Error(`Gemini ${model} HTTP ${res.status}: ${t.slice(0, 240)}`);
+                        err.status = res.status;
+                        throw err;
+                    }
+                    const data = await res.json();
+                    const cand = data?.candidates?.[0];
+                    const text = cand?.content?.parts?.map((p) => p.text).filter(Boolean).join('').trim();
+                    if (!text) {
+                        throw new Error(`Gemini ${model} empty (${cand?.finishReason || 'empty'})`);
+                    }
+                    lastGoodModel = model;
+                    return extractJson(text);
+                } catch (e) {
+                    lastErr = e;
+                    const msg = String(e.message || e);
+                    if (e.status === 404) {
+                        skipUntil.set(model, Date.now() + 36e5);
                         break;
                     }
-                    const wait = 45000;
-                    console.warn(`[gemini] 429 ${model}, ${Math.round(wait / 1000)}s bekleniyor`);
-                    await new Promise((r) => setTimeout(r, wait));
-                    continue;
+                    if (e.status === 429) {
+                        skipUntil.set(model, Date.now() + 9e4);
+                        console.warn(`[gemini] 429 ${model} — soğutma, sonraki model`);
+                        break;
+                    }
+                    if (e.status === 400 && attempt === 0) continue;
+                    if (/fetch failed|ECONNRESET|UND_ERR|network|socket/i.test(msg)) {
+                        await new Promise((r) => setTimeout(r, 2000 * (attempt + 1)));
+                        continue;
+                    }
+                    if (/JSON yok|JSON ayrıştır|empty/i.test(msg) && attempt < 2) {
+                        await new Promise((r) => setTimeout(r, 600));
+                        continue;
+                    }
+                    console.warn(`[gemini] ${model} deneme ${attempt + 1} kesildi: ${msg.slice(0, 160)}`);
+                    break;
                 }
-                if (e.status === 400 && attempt === 0) continue;
-                if (/fetch failed|ECONNRESET|UND_ERR|network|socket/i.test(msg)) {
-                    await new Promise((r) => setTimeout(r, 2500 * (attempt + 1)));
-                    continue;
-                }
-                if (/JSON yok|JSON ayrıştır|empty/i.test(msg) && attempt < 3) {
-                    await new Promise((r) => setTimeout(r, 800));
-                    continue;
-                }
-                console.warn(`[gemini] ${model} deneme ${attempt + 1} kesildi: ${msg.slice(0, 160)}`);
-                break;
             }
         }
+        const waits = [...skipUntil.values()].filter((t) => t > Date.now());
+        if (!waitOnQuota || !waits.length) break;
+        const wait = Math.min(Math.min(...waits) - Date.now() + 2000, 180000);
+        console.warn(`[gemini] tüm modeller soğuk, ${Math.round(wait / 1000)}s (dalga ${wave + 1})`);
+        await new Promise((r) => setTimeout(r, wait));
     }
     throw lastErr || new Error('Gemini başarısız');
 }

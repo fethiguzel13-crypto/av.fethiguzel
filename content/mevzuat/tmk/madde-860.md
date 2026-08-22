@@ -3,8 +3,8 @@ title: "Türk Medeni Kanunu Madde 860"
 kanun: "Türk Medeni Kanunu"
 maddeNo: 860
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3636
+lastReviewed: "2026-08-22"
+wordCount: 960
 ---
 
 **2. Borçlunun taşınmazı rehinden kurtarması**
@@ -21,199 +21,74 @@ rehinden kurtarabilir.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Medeni Kanunu m. 860** (4721 sayılı), «Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan» başlığı altında medeni hukuk (kişiler, aile, miras, eşya) içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+Türk Medeni Kanunu'nın 860. maddesi 2. Borçlunun taşınmazı rehinden kurtarması kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: Madde 860- Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir. Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 860 izole okunmamalı; TMK’nın ilgili bölüm/ayırım bütünlüğü ve kişilik hakları ve ehliyet ilkesiyle birlikte yorumlanmalıdır.
+Madde aynı kanunun sistematiği içinde okunur zira komşu hükümler uygulama sırasını ve istisnaları taşır. Yakın maddeler arasında m.859 (III. Taşınmazların birleştirilmesi · 1. Rehnin başka taşınmaz üzerine geçmesi), m.861 (3. Bedel olarak ödenen para), m.862 (C. Hükmü · I ve rehnin kapsamı) öne çıkar. Uygulayıcı önce hangi fıkranın somut vakıaya denk düştüğünü yazar, sonra sonuca geçer.
 
-Ratio legis, kişilik hakları ve ehliyet, aile düzeni ve çocuk yararı, mirasın geçmesi ve saklı pay ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
+Hüküm tek parça gibi görünse de uygulama şart-sonuç ayrımını dosyada açık yazmayı gerektirir. Şart gerçekleşmeden yetki veya yaptırım konuşulmaz ve gerekçe boş kalır.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Somut uyuşmazlıkta maddenin hangi tarih itibarıyla yürürlükte olduğu ve değişiklik fıkralarının vakıaya uygulanıp uygulanmayacağı ayrıca denetlenir. Geçiş hükümleri yok sayılırsa eski lafızla yeni lafız birbirine karışır, karar gerekçesi çöker.
+
+Bu maddeye özgü okuma lafzı başka kanunların kalıp şerhlerine taşımaz. Korunan menfaat 2. Borçlunun taşınmazı rehinden kurtarması başlığının işaret ettiği ilişkidir ve şerh de o ilişki üzerinden yürür.
+
+Uygulama, maddenin emredici çekirdeği ile idareye veya taraflara bırakılan hareket alanını ayırarak ilerler. Çekirdek aşıldığında işlem sakatlanır, hareket alanı içinde kalan tercihler ise gerekçeyle savunulabilir. Somut dosyada bu ayrım yazılmadan verilen sonuç, temyizde lafzı taşımadığı gerekçesiyle döner.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Uygulama alanı
 
-Madde 860, «Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan» ekseninde borçlusu ve Birleştirilen taşınmazlardan biri ile kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak medeni hukuk (kişiler, aile, miras, eşya) içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+2. Borçlunun taşınmazı rehinden kurtarması bakımından bu dilim şu metne dayanır: Madde 860- Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir. Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.2. Unsurlar
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 860 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+##### 2.2. Şart ve sonuç bağı
 
-Metinden çıkan somut vurgular: Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
+2. Borçlunun taşınmazı rehinden kurtarması bakımından bu dilim şu metne dayanır: Madde 860- Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir. Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.3. Korunan menfaat
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 860 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Korunan menfaat, bireysel hak sahibi ile aile düzeni ve çocuk yararı arasındaki dengede aranır. TMK m. 860, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. Bedel olarak ödenen para kavramı bu dengede anahtar rol oynar.
+##### 2.3. Yetki ve usul
 
-##### 2.4. Sonuç ve yaptırım
+2. Borçlunun taşınmazı rehinden kurtarması bakımından bu dilim şu metne dayanır: Madde 860- Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir. Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 860 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
 #### 3. Sistematik İlişkiler
 
-- **TMK komşu maddeler:** m. 860 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** kişilik hakları ve ehliyet; aile düzeni ve çocuk yararı; mirasın geçmesi ve saklı pay; zilyetlik ve tapu siciline güven; iyiniyet ve dürüstlük kuralı (TMK m. 2–3).
-- **Yatay mevzuat:** 6098 sayılı Türk Borçlar Kanunu; 6100 sayılı HMK; 4721 sayılı TMK uygulama hükümleri; Tapu sicili mevzuatı; Nüfus Hizmetleri Kanunu.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**m. 859 — III. Taşınmazların birleştirilmesi · 1. Rehnin başka taşınmaz üzerine geçmesi** Türk Medeni Kanunu m. 859 (III. Taşınmazların birleştirilmesi · 1. Rehnin başka taşınmaz üzerine geçmesi) ile m. 860 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu ilişkiler, m. 860’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+**m. 861 — 3. Bedel olarak ödenen para** Türk Medeni Kanunu m. 861 (3. Bedel olarak ödenen para) ile m. 860 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
+**m. 862 — C. Hükmü · I. Rehnin kapsamı** Türk Medeni Kanunu m. 862 (C ve hükmü · I ve rehnin kapsamı) ile m. 860 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (borçlusu / borçlusu karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
-
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
-
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
+Yerel arşivde bu maddeye yapısal atıf yapan tam künyeli karar bulunamadı ve içtihat bölümü bu yüzden boş bırakılır; künye uydurulmaz.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında birleştirilen taşınmazlardan biri ile güvence altına alınmış olan ile bağlantılı bir uyuşmazlık çıkar. Davacı, TMK m. 860’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir. cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Bir uyuşmazlıkta taraf 2. Borçlunun taşınmazı rehinden kurtarması hükmüne dayanarak talep yöneltti. Karşı taraf maddenin şartlarının oluşmadığını ileri sürdü. Mahkeme resmi lafızdaki unsurları dosyadaki belgelerle tek tek eşlemek zorunda kaldı ve eksik unsur varsa talebi bu maddeye dayandırmadı.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 860 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** İdare veya taraf m. 860 yetkisini acele kullandı ve ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, Birleştirilen taşınmazlardan biri ile gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* TMK’nın iyiniyet ve dürüstlük ilkeleri ile m. 860’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Yürürlük tartışmasında eski ve yeni lafız iç içe geçti ve uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. 860 uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; borçlusu ile Bedel olarak ödenen para’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **TMK madde 860**, **TMK m. 860**, **TMK 860** ve **Türk Medeni Kanunu madde 860** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Dilekçede Türk Medeni Kanunu m. 860 dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.
+
+Belge listesi maddenin şartlarını karşılayan olgulara bağlanmalıdır, genel anlatım yetmez.
+
+Karşı tarafın savunması unsur eksikliğine mi yoksa sonuç tartışmasına mı yöneldiği ayrılmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-TMK m. 860, medeni hukuk (kişiler, aile, miras, eşya) içinde Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve kişilik hakları ve ehliyet ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Hükmün lafzı ile uygulamanın pratik ihtiyaçları her somut dosyada ayrıca tartılır. 2. Borçlunun taşınmazı rehinden kurtarması başlığı geniş okunursa madde her uyuşmazlığa çekilir, dar okunursa koruma boşalır.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 860 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Öğreti bu tür hükümlerde lafzın sınırını dosyanın vakıalarıyla test etmeyi önerir ve sayfa ve baskı yılı uydurulmaz.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: Türk Medeni Kanunu m. 860 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 860 uygulamasında «Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Öğretide genel kabul gören görüşe göre, TMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Uygulayıcı, kişilik hakları ve ehliyet ile aile düzeni ve çocuk yararı arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Yatay mevzuat (6098 sayılı Türk Borçlar Kanunu) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 860 sonuçlarının fiilen elde edilmesi için belirleyicidir. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Sonuç olarak, TMK madde 860 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Bu bağlamda m. 860 uygulamasında «Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Öğretide genel kabul gören görüşe göre, TMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Uygulayıcı, kişilik hakları ve ehliyet ile aile düzeni ve çocuk yararı arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Yatay mevzuat (6098 sayılı Türk Borçlar Kanunu) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 860 sonuçlarının fiilen elde edilmesi için belirleyicidir. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Sonuç olarak, TMK madde 860 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Bu bağlamda m. 860 uygulamasında «Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Öğretide genel kabul gören görüşe göre, TMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Uygulayıcı, kişilik hakları ve ehliyet ile aile düzeni ve çocuk yararı arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Yatay mevzuat (6098 sayılı Türk Borçlar Kanunu) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 860 sonuçlarının fiilen elde edilmesi için belirleyicidir. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Sonuç olarak, TMK madde 860 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Bu bağlamda m. 860 uygulamasında «Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Öğretide genel kabul gören görüşe göre, TMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Uygulayıcı, kişilik hakları ve ehliyet ile aile düzeni ve çocuk yararı arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Yatay mevzuat (6098 sayılı Türk Borçlar Kanunu) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 860 sonuçlarının fiilen elde edilmesi için belirleyicidir. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Sonuç olarak, TMK madde 860 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Bu bağlamda m. 860 uygulamasında «Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Öğretide genel kabul gören görüşe göre, TMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Uygulayıcı, kişilik hakları ve ehliyet ile aile düzeni ve çocuk yararı arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Yatay mevzuat (6098 sayılı Türk Borçlar Kanunu) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 860 sonuçlarının fiilen elde edilmesi için belirleyicidir. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Sonuç olarak, TMK madde 860 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Bu bağlamda m. 860 uygulamasında «Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Öğretide genel kabul gören görüşe göre, TMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Uygulayıcı, kişilik hakları ve ehliyet ile aile düzeni ve çocuk yararı arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Yatay mevzuat (6098 sayılı Türk Borçlar Kanunu) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 860 sonuçlarının fiilen elde edilmesi için belirleyicidir. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Sonuç olarak, TMK madde 860 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Bu bağlamda m. 860 uygulamasında «Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Öğretide genel kabul gören görüşe göre, TMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Uygulayıcı, kişilik hakları ve ehliyet ile aile düzeni ve çocuk yararı arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Yatay mevzuat (6098 sayılı Türk Borçlar Kanunu) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 860 sonuçlarının fiilen elde edilmesi için belirleyicidir. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Sonuç olarak, TMK madde 860 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Bu bağlamda m. 860 uygulamasında «Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Öğretide genel kabul gören görüşe göre, TMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Uygulayıcı, kişilik hakları ve ehliyet ile aile düzeni ve çocuk yararı arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Yatay mevzuat (6098 sayılı Türk Borçlar Kanunu) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 860 sonuçlarının fiilen elde edilmesi için belirleyicidir. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Sonuç olarak, TMK madde 860 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
-
-Bu bağlamda m. 860 uygulamasında «Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan alacağın borçlusu, üç ay önce bildirmek koşuluyla birleştirme sırasında karşılığını ödeyerek taşınmazı rehinden kurtarabilir.
+Bu yorum maddenin resmi metni ve yerel karar arşivi esas alınarak hazırlanmıştır. Künyeler arşivden birebir alınır, uydurulmaz ve örnek olaylar kurmacadır.

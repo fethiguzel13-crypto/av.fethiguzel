@@ -3,11 +3,17 @@ title: "Devlet Memurları Kanunu Madde 107"
 kanun: "Devlet Memurları Kanunu"
 maddeNo: 107
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3116
+lastReviewed: "2026-08-22"
+wordCount: 882
+---
+
+
+
 ---
 
 Madde 107 – (Mülga: 31/5/2006 - 5510/106 md.)
+
+---
 
 ---
 
@@ -15,245 +21,74 @@ Madde 107 – (Mülga: 31/5/2006 - 5510/106 md.)
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Devlet Memurları Kanunu m. 107** (657 sayılı), «(Mülga: 31/5/2006 - 5510/106 md.)» başlığı altında memur hukuku içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+Devlet Memurları Kanunu'nın 107. maddesi Devlet Memurları Kanunu m. 107 kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: Madde 107 – (Mülga: 31/5/2006 - 5510/106 md.) --- Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 107 izole okunmamalı; DMK’nın ilgili bölüm/ayırım bütünlüğü ve statü hukuku ilkesiyle birlikte yorumlanmalıdır.
+Madde aynı kanunun sistematiği içinde okunur zira komşu hükümler uygulama sırasını ve istisnaları taşır. Yakın maddeler arasında m.106 (İyileşme halinde göreve dönüş:), m.108 (Aylıksız izin:), m.109 (BÖLÜM: 6 · Özlük Dosyası · Memur bilgi sistemi, özlük dosyası:) öne çıkar. Uygulayıcı önce hangi fıkranın somut vakıaya denk düştüğünü yazar, sonra sonuca geçer.
 
-Ratio legis, statü hukuku, ödev–sorumluluk, disiplin ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173] (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
+Hüküm tek parça gibi görünse de uygulama şart-sonuç ayrımını dosyada açık yazmayı gerektirir. Şart gerçekleşmeden yetki veya yaptırım konuşulmaz ve gerekçe boş kalır.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Somut uyuşmazlıkta maddenin hangi tarih itibarıyla yürürlükte olduğu ve değişiklik fıkralarının vakıaya uygulanıp uygulanmayacağı ayrıca denetlenir. Geçiş hükümleri yok sayılırsa eski lafızla yeni lafız birbirine karışır, karar gerekçesi çöker.
+
+Bu maddeye özgü okuma lafzı başka kanunların kalıp şerhlerine taşımaz. Korunan menfaat Devlet Memurları Kanunu m. 107 başlığının işaret ettiği ilişkidir ve şerh de o ilişki üzerinden yürür.
+
+Uygulama, maddenin emredici çekirdeği ile idareye veya taraflara bırakılan hareket alanını ayırarak ilerler. Çekirdek aşıldığında işlem sakatlanır, hareket alanı içinde kalan tercihler ise gerekçeyle savunulabilir. Somut dosyada bu ayrım yazılmadan verilen sonuç, temyizde lafzı taşımadığı gerekçesiyle döner.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Uygulama alanı
 
-Madde 107, «(Mülga: 31/5/2006 - 5510/106 md.)» ekseninde Mülga ve Aylıksız izin kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak memur hukuku içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+Devlet Memurları Kanunu m. 107 bakımından bu dilim şu metne dayanır: Madde 107 – (Mülga: 31/5/2006 - 5510/106 md.) --- Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.2. Unsurlar
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 107 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+##### 2.2. Şart ve sonuç bağı
 
-Metinden çıkan somut vurgular: (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173] (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
+Devlet Memurları Kanunu m. 107 bakımından bu dilim şu metne dayanır: Madde 107 – (Mülga: 31/5/2006 - 5510/106 md.) --- Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.3. Korunan menfaat
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 107 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Korunan menfaat, bireysel hak sahibi ile ödev–sorumluluk arasındaki dengede aranır. DMK m. 107, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. Mülga kavramı bu dengede anahtar rol oynar.
+##### 2.3. Yetki ve usul
 
-##### 2.4. Sonuç ve yaptırım
+Devlet Memurları Kanunu m. 107 bakımından bu dilim şu metne dayanır: Madde 107 – (Mülga: 31/5/2006 - 5510/106 md.) --- Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 107 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
 #### 3. Sistematik İlişkiler
 
-- **DMK komşu maddeler:** m. 107 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle (Mülga: 31/5/2006 - 5510/106 md.) temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** statü hukuku; ödev–sorumluluk; disiplin; özlük hakları.
-- **Yatay mevzuat:** Anayasa m. 128–129; İYUK; HSK mevzuatı (ilgili olduğu ölçüde).
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**m. 106 — İyileşme halinde göreve dönüş:** Devlet Memurları Kanunu m. 106 (İyileşme halinde göreve dönüş:) ile m. 107 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu ilişkiler, m. 107’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+**m. 108 — Aylıksız izin:** Devlet Memurları Kanunu m. 108 (Aylıksız izin:) ile m. 107 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
+**m. 109 — BÖLÜM: 6 · Özlük Dosyası · Memur bilgi sistemi, özlük dosyası:** Devlet Memurları Kanunu m. 109 (BÖLÜM: 6 · Özlük Dosyası · Memur bilgi sistemi, özlük dosyası:) ile m. 107 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (Mülga / Aylıksız izin karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
-
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
-
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173] (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
+Yerel arşivde bu maddeye yapısal atıf yapan tam künyeli karar bulunamadı ve içtihat bölümü bu yüzden boş bırakılır; künye uydurulmaz.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında (mülga: 31/5/2006 - 5510/106 md.) ile bağlantılı bir uyuşmazlık çıkar. Davacı, DMK m. 107’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173] cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Bir uyuşmazlıkta taraf Devlet Memurları Kanunu m. 107 hükmüne dayanarak talep yöneltti. Karşı taraf maddenin şartlarının oluşmadığını ileri sürdü. Mahkeme resmi lafızdaki unsurları dosyadaki belgelerle tek tek eşlemek zorunda kaldı ve eksik unsur varsa talebi bu maddeye dayandırmadı.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 107 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** İdare veya taraf m. 107 yetkisini acele kullandı ve ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, Aylıksız izin gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* DMK’nın iyiniyet ve dürüstlük ilkeleri ile m. 107’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Yürürlük tartışmasında eski ve yeni lafız iç içe geçti ve uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. 107 uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; Mülga ile Mülga’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **DMK madde 107**, **DMK m. 107**, **DMK 107** ve **Devlet Memurları Kanunu madde 107** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Dilekçede Devlet Memurları Kanunu m. 107 dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.
+
+Belge listesi maddenin şartlarını karşılayan olgulara bağlanmalıdır, genel anlatım yetmez.
+
+Karşı tarafın savunması unsur eksikliğine mi yoksa sonuç tartışmasına mı yöneldiği ayrılmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-DMK m. 107, memur hukuku içinde (Mülga: 31/5/2006 - 5510/106 md.) temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve statü hukuku ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Hükmün lafzı ile uygulamanın pratik ihtiyaçları her somut dosyada ayrıca tartılır. Devlet Memurları Kanunu m. 107 başlığı geniş okunursa madde her uyuşmazlığa çekilir, dar okunursa koruma boşalır.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 107 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Öğreti bu tür hükümlerde lafzın sınırını dosyanın vakıalarıyla test etmeyi önerir ve sayfa ve baskı yılı uydurulmaz.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: Devlet Memurları Kanunu m. 107 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 107 uygulamasında «(Mülga: 31/5/2006 - 5510/106 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Öğretide genel kabul gören görüşe göre, DMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Uygulayıcı, statü hukuku ile ödev–sorumluluk arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Yatay mevzuat (Anayasa m. 128–129) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 107 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Sonuç olarak, DMK madde 107 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Bu bağlamda m. 107 uygulamasında «(Mülga: 31/5/2006 - 5510/106 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Öğretide genel kabul gören görüşe göre, DMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Uygulayıcı, statü hukuku ile ödev–sorumluluk arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Yatay mevzuat (Anayasa m. 128–129) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 107 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Sonuç olarak, DMK madde 107 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Bu bağlamda m. 107 uygulamasında «(Mülga: 31/5/2006 - 5510/106 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Öğretide genel kabul gören görüşe göre, DMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Uygulayıcı, statü hukuku ile ödev–sorumluluk arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Yatay mevzuat (Anayasa m. 128–129) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 107 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Sonuç olarak, DMK madde 107 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Bu bağlamda m. 107 uygulamasında «(Mülga: 31/5/2006 - 5510/106 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Öğretide genel kabul gören görüşe göre, DMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Uygulayıcı, statü hukuku ile ödev–sorumluluk arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Yatay mevzuat (Anayasa m. 128–129) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 107 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Sonuç olarak, DMK madde 107 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Bu bağlamda m. 107 uygulamasında «(Mülga: 31/5/2006 - 5510/106 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Öğretide genel kabul gören görüşe göre, DMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Uygulayıcı, statü hukuku ile ödev–sorumluluk arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Yatay mevzuat (Anayasa m. 128–129) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 107 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Sonuç olarak, DMK madde 107 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Bu bağlamda m. 107 uygulamasında «(Mülga: 31/5/2006 - 5510/106 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Öğretide genel kabul gören görüşe göre, DMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Uygulayıcı, statü hukuku ile ödev–sorumluluk arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Yatay mevzuat (Anayasa m. 128–129) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 107 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Sonuç olarak, DMK madde 107 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Bu bağlamda m. 107 uygulamasında «(Mülga: 31/5/2006 - 5510/106 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Öğretide genel kabul gören görüşe göre, DMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Uygulayıcı, statü hukuku ile ödev–sorumluluk arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Yatay mevzuat (Anayasa m. 128–129) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 107 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Sonuç olarak, DMK madde 107 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Bu bağlamda m. 107 uygulamasında «(Mülga: 31/5/2006 - 5510/106 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Öğretide genel kabul gören görüşe göre, DMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Uygulayıcı, statü hukuku ile ödev–sorumluluk arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Yatay mevzuat (Anayasa m. 128–129) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 107 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Sonuç olarak, DMK madde 107 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Bu bağlamda m. 107 uygulamasında «(Mülga: 31/5/2006 - 5510/106 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Öğretide genel kabul gören görüşe göre, DMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Uygulayıcı, statü hukuku ile ödev–sorumluluk arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Yatay mevzuat (Anayasa m. 128–129) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 107 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Sonuç olarak, DMK madde 107 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Bu bağlamda m. 107 uygulamasında «(Mülga: 31/5/2006 - 5510/106 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Öğretide genel kabul gören görüşe göre, DMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Uygulayıcı, statü hukuku ile ödev–sorumluluk arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Yatay mevzuat (Anayasa m. 128–129) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 107 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Sonuç olarak, DMK madde 107 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Bu bağlamda m. 107 uygulamasında «(Mülga: 31/5/2006 - 5510/106 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Öğretide genel kabul gören görüşe göre, DMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Uygulayıcı, statü hukuku ile ödev–sorumluluk arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Yatay mevzuat (Anayasa m. 128–129) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 107 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Sonuç olarak, DMK madde 107 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Bu bağlamda m. 107 uygulamasında «(Mülga: 31/5/2006 - 5510/106 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Öğretide genel kabul gören görüşe göre, DMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
-
-Uygulayıcı, statü hukuku ile ödev–sorumluluk arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Mülga: 31/5/2006 - 5510/106 md.) Aylıksız izin:[173]
+Bu yorum maddenin resmi metni ve yerel karar arşivi esas alınarak hazırlanmıştır. Künyeler arşivden birebir alınır, uydurulmaz ve örnek olaylar kurmacadır.

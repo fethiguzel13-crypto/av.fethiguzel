@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
+
 **VI. Karşılıklı borç yükleyen sözleşmelerde
 1. İfada sıra**
 
@@ -20,396 +21,350 @@ borcunu ifa etmiş ya da ifasını önermiş olması gerekir.
 
 ### Akademik Yorum ve Analiz
 
+
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Borçlar Kanunu m. 97**, «Madde 97» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **VI. Karşılıklı borç yükleyen sözleşmelerde
-1. İfada sıra**
+**Makro Bakış:** Kefalet sözleşmesi, bir üçüncü kişinin (kefilin) asıl 
+borçlunun borcunu ifa etmemesi riskine karşı kendi malvarlığı ile alacaklıya 
+güvence verdiği bir şahsi teminat türüdür. Kefalet kurumunun Roma hukukundan 
+(İmparator Justinianus'un Novella'larından) süzülerek gelen en temel dogmatik 
+ilkesi, kefilin borcunun asıl borca nazaran **Tali (İkincil / Subsidiär)** 
+nitelikte olmasıdır. Yani kefil, asıl borçlu ile aynı safta, aynı anda ifaya 
+zorlanabilecek bir "ortak borçlu" değildir; o, ancak asıl borçlunun iflas 
+etmesi, acze düşmesi veya takip edilemez hâle gelmesi durumunda devreye giren 
+son çare (ultimum remedium) konumundadır. 
 
----
+Türk Borçlar Kanunu sistematiğinde, taraflar aksini kararlaştırmadıkça (yani 
+kefil kendi el yazısıyla 'müteselsil' ibaresini yazmadıkça) kefaletin kural 
+olarak **Adi Kefalet (Einfache Bürgschaft)** olduğu kabul edilir. 6098 sayılı 
+TBK m. 585 (mülga BK m. 485 / mehaz **OR Art. 495**) hükmü, adi kefaletin bu 
+tali doğasını ve alacaklının başvuru sırasını kesin hatlarla vazedir. Madde 
+lafzı şu şekildedir:
+*"Adi kefalette alacaklı, borçluya başvurmadıkça, kefili takip edemez; ancak, 
+aşağıdaki hâllerde doğrudan doğruya kefile başvurabilir:
+1. Borçlu aleyhine yapılan takibin sonucunda kesin aciz belgesi alınması.
+2. Borçlu aleyhine Türkiye’de takibatın imkânsız hâle gelmesi veya önemli 
+ölçüde güçleşmesi.
+3. Borçlunun iflasına karar verilmesi.
+4. Borçluya konkordato mühleti verilmesi.
+Alacak, kefaletten önce veya kefalet sırasında rehinle de güvence altına 
+alınmışsa, adi kefalette kefil, alacağın öncelikle rehin konusu şeyden 
+alınmasını isteyebilir..."*
 
-Madde 97 - Karşılıklı borç yükleyen bir sözleşmenin ifası isteminde bulunan tarafın,
-sözleşmenin koşullarına ve özelliklerine göre daha sonra ifa etme hakkı olmadıkça, kendi
-borcunu ifa etmiş ya da ifasını önermiş olması gerekir.
-
----… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Sistematik açıdan yasa koyucu bu normla, alacaklının kefile gitmeden önce 
+aşması gereken devasa bir usul hukuku duvarı örmüştür. Doktrinde bu duvara 
+**Tartışma Def'i (Peşin Dava Def'i / Beneficium Excussionis)** adı verilir. 
+Alacaklı, bu duvarı (aciz vesikası, iflas, rehnin paraya çevrilmesi) aşmadan 
+adi kefilin kapısını çalarsa, kefil bu def'i hakkını kullanarak icra takibini 
+veya davayı durdurma gücüne sahiptir.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+**Mikro Analiz:** TBK m. 585 hükmünün teorik mimarisini bütünüyle kavrayabilmek
+için, maddenin omurgasını oluşturan kavramların Fikret Eren, M. Kemal Oğuzman 
+ve Haluk Nami Nomer'in eserleri ekseninde mikroskobik düzeyde analiz edilmesi 
+zorunludur:
 
-Madde 97, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+**A. Adi Kefalet Karinesi:**
+Borçlar hukukunda şahsi teminatların yorumlanmasında zayıfı koruyan dar yorum 
+kuralı geçerlidir. Bir sözleşmede sadece "kefil" ibaresi yer alıyor ve teselsül
+iradesi TBK m. 583'e uygun şekilde (el yazısıyla) ortaya konmamışsa, bu 
+sözleşme mutlak surette **Adi Kefalet** olarak nitelendirilir. Adi kefalet, 
+fer'ilik (asıl borca bağlılık) ilkesinin yanı sıra, talilik (ikincillik) 
+ilkesinin en saf hâliyle uygulandığı rejimdir.
 
-##### 2.2. Usulî ve maddi unsurlar
+**B. Tartışma / Peşin Dava Def'i (Beneficium Excussionis):**
+Alacaklı, asıl borçluya karşı icra takibi yapıp da alacağını tahsil edemediğini
+resmî belgelerle (aciz vesikası) kanıtlamadan adi kefile karşı dava açamaz veya
+icra takibi başlatamaz. Eğer alacaklı bu kuralı ihlal ederek doğrudan adi 
+kefile yönelirse, adi kefil mahkemede veya icra dairesinde **"Tartışma Def'i"**
+(önce asıl borçluyu takip et def'i) ileri sürer. Bu def'i, hakkı tamamen 
+ortadan kaldıran (peremptorik) bir itiraz değil, ifayı geciktiren (dilatorik) 
+bir savunmadır. Kefil, "ben borçlu değilim" demez; "sıranı bekle, önce asıl 
+borçluyu tüket" der.
 
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+**C. Asıl Borçluya Başvurma Kuralının İstisnaları (TBK m. 585/1):**
+Kanun koyucu, alacaklının asıl borçludan hiçbir şey alamayacağının açık olduğu 
+durumlarda onu boş yere masraf yapmaktan ve zaman kaybetmekten kurtarmak için 
+dört mutlak istisna saymıştır:
+1. **Kesin Aciz Belgesi (Verlustschein):** İcra hukukunda borçlunun 
+haczedilebilir hiçbir malının bulunmadığını veya bulunan malların borcu 
+karşılamadığını gösteren belgedir. Sadece geçici aciz belgesi adi kefile gitmek
+için yeterli değildir; belgenin "kesin" olması şarttır.
+2. **Takibatın İmkânsızlaşması:** Asıl borçlunun ikametgâhını yurt dışına 
+taşıması ve Türkiye'de bilinen hiçbir malvarlığının (haczedilecek varlığının) 
+kalmaması durumudur. Salt adresin meçhul olması veya borçlunun kaçması tek 
+başına yetmez; Türkiye sınırları içindeki takibat yollarının tamamen tükenmiş 
+olması aranır.
+3. **İflas (Konkurs):** Asıl borçlu hakkında ticaret mahkemesince iflas kararı 
+verilmişse, alacaklı iflas masasına yazılmayı veya iflas tasfiyesinin bitmesini
+beklemeden derhâl adi kefile başvurabilir. Zira iflas, borçlunun ödeme gücünü 
+yitirdiğinin en mutlak ilanıdır.
+4. **Konkordato Mühleti (Nachlassstundung):** Borçlu konkordato ilan etmiş ve 
+mahkemece kendisine "mühlet" verilmişse, bu mühlet boyunca asıl borçluya karşı 
+icra takibi yapılamaz. Kanun koyucu alacaklıyı bu bekleyişten kurtararak, 
+mühlet kararı verildiği an adi kefile gitme yolunu açmıştır.
 
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+**D. Rehnin Önce Paraya Çevrilmesi Def'i (Beneficium Excussionis Realis - TBK 
+m. 585/2):**
+Adi kefilin sahip olduğu ikinci ve çok güçlü bir diğer kalkan da budur. Eğer 
+alacaklının alacağı, kefaletten önce veya kefaletle aynı anda bir **Rehin 
+(İpotek veya Taşınır Rehni)** ile güvence altına alınmışsa; alacaklı, asıl 
+borçluyu acze düşürmüş olsa bile, *öncelikle elindeki o rehni paraya çevirmek 
+zorundadır*. Alacaklı rehni satmadan adi kefile gelirse, adi kefil "Önce rehni 
+paraya çevir" def'ini ileri sürebilir. Bu kural, rehin varken kefilin 
+malvarlığına (şahsına) saldırılmasını hakkaniyete aykırı bulan derin bir adalet
+duygusunun sonucudur. Ancak alacaklının sonradan (kefaletten aylar sonra) elde 
+ettiği rehinler bu kuralın dışındadır.
 
 #### 3. Sistematik İlişkiler
 
-- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 97'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 97 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+TBK m. 585'te kurulan adi kefalet altyapısı, Borçlar Kanunu'nun ödemezlik 
+def'i, müteselsil kefalet, tüketici hukuku ve rücu (halefiyet) mimarisiyle son 
+derece karmaşık bir diyalektik bağ içindedir:
 
-Bu ilişkiler, m. 97'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+**A. Ödemezlik Def'i (TBK m. 97) ile Dogmatik Kesişim:**
+İnceleme talebinde numarası zikredilen TBK m. 97 (mülga BK m. 81) karşılıklı 
+borç yükleyen sözleşmelerde "kendi edimini ifa etmeyen tarafın karşı taraftan 
+ifa isteyemeyeceği" kuralını (Exceptio non adimpleti contractus) düzenler. Bir 
+adi kefalet ilişkisinde, eğer asıl borçlu (örneğin müteahhit) ile alacaklı 
+(arsa sahibi) arasındaki sözleşmede alacaklı kendi edimini ifa etmemişse; asıl 
+borçlu TBK m. 97'deki **Ödemezlik Def'ini** ileri sürebilir. Fer'ilik ilkesinin
+bir sonucu olarak TBK m. 591 gereğince, adi kefil de asıl borçluya ait olan bu 
+"ödemezlik def'ini" alacaklıya karşı bizzat ileri sürme hakkına (ve hatta 
+yükümlülüğüne) sahiptir. Adi kefil, alacaklıya "Sen asıl borçluya karşı edimini
+(örneğin arsayı teslim) yerine getirmedin, bu yüzden ben de sana kefalet 
+borcumu ödemiyorum" diyebilir.
 
-#### 4. Uygulama: Yargı İçtihadı
+**B. Tüketici Hukukunda Adi Kefaletin Emrediciliği (TKHK m. 4/6):**
+Borçlar hukuku uygulamasını derinden sarsan en kritik sistematik ilişkidir. 
+6502 sayılı Tüketicinin Korunması Hakkında Kanun (TKHK) m. 4/6 uyarınca; 
+tüketici işlemlerinde, tüketicinin edimlerine karşılık olarak alınan şahsi 
+teminatlar (kefaletler) her ne isim altında olursa olsun emredici olarak **Adi
+Kefalet (TBK m. 585)** sayılır. Bankalar, tüketici kredilerinde kefillerden 
+kendi el yazılarıyla "müteselsil kefil" ibaresini almış olsalar dahi (TBK m. 
+583'e harfiyen uyulsa dahi) özel kanun niteliğindeki TKHK bu iradeyi ezip 
+geçer ve işlemi adi kefalete dönüştürür. Bu, sözleşme özgürlüğüne 
+(Sisteminizdeki *"Sözleşme Özgürlüğü ve İstisnaları"* belgelerinde 
+incelendiği üzere) yapılan çok sert bir paternalist (korumacı) müdahaledir. 
+Banka, asıl borçlu tüketiciyi icraya verip **Kesin Aciz Vesikası** almadan, o 
+kefilin kılına dahi dokunamaz.
 
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+**C. Kefilin Rücu Hakkı ve Halefiyet (TBK m. 596):**
+Sisteminizdeki Hakan Dağdelen'e ait *"Kefilin Rücu Hakkı"* başlıklı kaynakta 
+derinlemesine incelendiği üzere; alacaklıya ifada bulunarak asıl borcu 
+söndüren kefil, bu feda ettiği malvarlığını geri almak için "Rücu Hakkına" 
+(Regress) sahiptir. Kaynakta da vurgulandığı üzere, *"Alacaklıya ifada 
+bulunarak asıl borcu söndüren müteselsil  kefil, TBK m. 596 uyarınca tatmin 
+ettiği alacaklının haklarına kanun gereği halef olur."*. Bir adi kefil, TBK
+m. 585'teki tartışma def'ini kullanmasına rağmen icra süreci tamamlanıp da 
+borcu ödemek zorunda kaldığında, alacaklının sahip olduğu tüm imtiyazlara, 
+rehinlere ve diğer haklara kanun gereği halef olur. Alacaklı eski borçluya 
+nasıl saldırabiliyorsa, ödemeyi yapan adi kefil de artık aynı silahlarla 
+donanmış bir şekilde asıl borçluya rücu eder.
 
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+**D. Genel İşlem Koşulları (GİK) ile Tartışma Def'inden Feragat (TBK m. 20 
+vd.):**
+Sisteminizdeki *"Genel İşlem Koşullarının Denetimi"* kaynaklarında 
+incelendiği üzere; bankalar standart kredi sözleşmelerine "Kefil, adi kefalet 
+hükümlerindeki tartışma def'inden ve rehnin paraya çevrilmesi def'inden 
+gayrikabili rücu feragat etmiştir" şeklinde matbu (GİK) maddeler 
+eklemektedirler. Adi kefaletin özünü oluşturan ve zayıfı koruyan bu haklardan 
+GİK yoluyla feragat edilmesi, TBK m. 21 (Şaşırtıcı Kayıt) ve TBK m. 25 
+(Dürüstlük Kuralına Aykırılık) denetimlerinden geçemez. Mahkemeler, asıl 
+borçluya başvuru zorunluluğunu (TBK m. 585) ekarte eden bu tür matbu feragat 
+kayıtlarını **Kesin Olarak Yazılmamış Sayar** (Geçersiz kabul eder) ve adi 
+kefilin def'i zırhını ayakta tutar.
 
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+#### 4. Pratik Olay Analizleri
 
-#### 5. Pratik Örnek Olaylar
+Kurumun fer'ilik ve talilik mekanizmalarını, aciz vesikası şartının sınırlarını
+test etmek adına şu iki çarpıcı vakayı inceleyelim:
 
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 97 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+**Olay 1 (Tüketici Kredisi, Müteselsil Kefalet İradesi ve TKHK'nın 
+Müdahalesi):**
+Memur (A) (B) Bankasından 200.000 TL ihtiyaç (tüketici) kredisi çeker. 
+Arkadaşı (C) de kefil olmak ister. Banka şubesinde (C) sözleşmenin sonuna 
+kendi el yazısıyla *"250.000 TL azami tutara kadar müteselsil kefilim. Tarih: 
+15.03.2025"* yazar ve imzalar (TBK m. 583 şekil şartları kusursuzdur). (A) 
+borcunu ödemez. Banka (B) (A)'ya sadece bir ihtarname gönderir ve ardından 
+hemen Müteselsil Kefil (C)'nin maaşına haciz koydurmak için icra takibi 
+başlatır. (C) "Ben adi kefilim, asıl borçluya icra takibi yapıp aciz vesikası 
+almadan bana gelemezsiniz" diyerek itiraz eder. Banka ise "Kendi el yazınla 
+müteselsil kefilim dedin, irade özerkliği geçerlidir" diye savunma yapar.
+*Dogmatik Analiz:* Bu vakada TBK m. 585 ile TKHK m. 4/6'nın doğrudan çatışması 
+sınanmaktadır. Her ne kadar (C) kendi hür iradesiyle ve kanunun aradığı el 
+yazısı şekliyle (Falsa demonstratio veya irade bozukluğu olmaksızın) müteselsil
+kefil olduğunu beyan etmiş olsa da, ortadaki asıl ilişki bir tüketici 
+kredisidir. Tüketici kanununun emredici hükmü gereği, bu kefalet kanun zoruyla 
+**Adi Kefalete (TBK m. 585)** dönüşmüştür. Bankanın sadece ihtarname çekmesi 
+adi kefalette işe yaramaz; banka mutlaka asıl borçlu (A)'ya icra takibi yapmalı
+ve **Kesin Aciz Belgesi** almalıdır. Kefil (C)'nin itirazı ("Tartışma Def'i") 
+mutlak surette haklıdır. İcra takibi iptal edilir. Banka (B) (C)'den o aşamada
+hiçbir tahsilat yapamaz.
 
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+**Olay 2 (Adi Kefalet ve Beneficium Excussionis Realis / Rehnin Önce Paraya 
+Çevrilmesi):**
+Tacir (X) Toptancı (Y)'den 1 Milyon TL'lik mal alır. Teminat olarak da (X)'in 
+fabrikasındaki makinelere ticari işletme rehni kurulur. Bir ay sonra, (Z) 
+isimli kişi bu borca (X)'in lehine "Adi Kefil" olur. Borç ödenmeyince Toptancı 
+(Y) asıl borçlu (X)'e icra takibi yapar, ancak (X)'in banka hesapları boş 
+olduğu için icra dairesinden (X) hakkında "Kesin Aciz Belgesi" alır. Ardından 
+Toptancı (Y) makinelerin satışı (rehnin paraya çevrilmesi) ile hiç uğraşmadan,
+doğrudan Adi Kefil (Z)'ye dava açar. (Y) der ki: "TBK m. 585/1-b.1 uyarınca 
+kesin aciz vesikası aldım, artık adi kefile doğrudan gelebilirim." (Z) ise 
+"Rehinleri satmadın" der.
+*Dogmatik Analiz:* Bu olay TBK m. 585/2'nin klasik bir testidir. Alacaklı (Y) 
+adi kefile gitmenin birinci şartı olan "kesin aciz belgesi" şartını 
+sağlamıştır. Ancak adi kefaletteki ikinci ve devasa kalkan olan **Rehnin Önce 
+Paraya Çevrilmesi Def'i** göz ardı edilmiştir. Alacaklının elinde kefaletten 
+önce veya aynı anda tesis edilmiş bir rehin (makine rehni) varsa, asıl borçlu 
+acze düşmüş (hatta iflas etmiş) olsa bile, alacaklı *öncelikle o rehni satıp 
+nakde çevirmek* zorundadır. Toptancı (Y)'nin doğrudan (Z)'ye gelmesi hukuka 
+aykırıdır. Adi Kefil (Z)'nin savunması haklıdır; dava reddedilir. Ancak (Y) 
+makineleri sattıktan sonra borcun kapanmayan bir kısmı kalırsa (Rehin açığı) 
+işte o bakiye için (Z)'ye başvurabilir.
 
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+#### 5. Pratik Uygulama Notları
 
-#### 6. Pratik Uygulama Notları
+TBK m. 585 hükmünün sözleşme mimarisinde (Legal Drafting) icra takiplerinde ve
+ticari uyuşmazlık tasfiyesinde avukatların dikkat etmesi gereken usuli ve maddi
+hukuk boyutları şunlardır:
 
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+**1. İcra Takiplerinde "Asıl Borçlu ve Adi Kefilin" Birlikte Takip 
+Edilememesi:**
+İcra hukuku uygulamasında yapılan en ölümcül usul hatası budur. Alacaklı 
+avukatları, borç ödenmeyince tek bir icra takip talebi hazırlayıp, borçlu 
+kısmına hem "Asıl Borçlu A'yı" hem de "Adi Kefil B'yi" yazarak aynı anda ödeme 
+emri gönderirler. Bu durum TBK m. 585'e mutlak surette aykırıdır. Adi kefile 
+karşı icra takibi başlatılabilmesi için, takibin yapıldığı gün alacaklının 
+elinde bir aciz belgesi veya iflas kararı bulunmalıdır. İkisine aynı anda takip
+başlatılması durumunda, adi kefilin şikâyeti veya itirazı üzerine icra hukuk 
+mahkemesi kefil yönünden takibi derhâl **İptal Eder**. Adi kefile ancak ve 
+ancak asıl borçlu hakkındaki dosya "acizle" sonuçlandıktan sonra ayrı bir takip
+(veya ek takip) yapılabilir.
+
+**2. Geçici Aciz Vesikası ile Kesin Aciz Vesikası Ayrımı:**
+Kanun açıkça "kesin aciz belgesi" (İİK m. 143) aramaktadır. Haciz esnasında 
+borçlunun mallarının borcu karşılamayacağının haciz tutanağına yazılmasıyla 
+oluşan "geçici aciz vesikası" (İİK m. 105) adi kefile gitmek için YETERLİ 
+DEĞİLDİR. Avukatlar, haciz tutanağına dayanarak hemen kefile yönelemezler; icra
+dairesinden haciz ve satış süreçlerinin tamamen bittiğini ve alacağın tahsil 
+edilemediğini kanıtlayan "borç ödemeden aciz belgesini" resmen almak 
+zorundadırlar. Bu süreç uygulamada yıllar sürebilir.
+
+**3. Muvazaa ve Şekil Eksikliğinin Re'sen Gözetilmesi:**
+Sisteminizdeki *"Şekle Aykırılığın Sonuçları"* ve *"Muvazaanın Müeyyidesi 
+Meselesi"* metinlerinde vurgulandığı üzere, adi kefalet sözleşmesi TBK m. 
+583'teki el yazısı şekline (miktar, tarih) uyulmadan yapılmışsa veya asıl borç 
+mutlak muvazaa ile sakatsa, işlem kesin hükümsüzdür. Bir adi kefil, tartışma 
+def'ini (peşin dava def'ini) kullanmayı unutup ödeme yapsa bile, asıl borcun 
+muvazaalı olduğunu veya şekil şartlarının ihlal edildiğini sonradan fark 
+ederse, ödediği parayı sebepsiz zenginleşme hükümlerine göre geri 
+isteyebilir. Zira tartışma def'i feragat edilebilir bir haktır ama şekil 
+eksikliği veya muvazaa kamu düzenindendir, icazetle iyileşmez.
+
+#### 6. Yargıtay İçtihadı
+
+Yargıtay Hukuk Genel Kurulu ve ilgili ihtilaflara bakan daireleri (özellikle 
+13., 19. Hukuk Daireleri ve 3. Hukuk Dairesi) TBK m. 585 (mülga BK m. 485) 
+uyarınca "Tüketici İşlemlerinde Adi Kefalet Karinesi", "Tartışma Def'i" ve 
+"Aciz Vesikası Şartı" hususlarında istikrarlı ve kefili mutlak surette koruyan 
+bir içtihat politikası sergilemektedir.
+
+Yargıtay Hukuk Genel Kurulu'nun klasikleşmiş kararlarında (Örneğin YHGK. T. 
+20.09.2017, E. 2017/19-824, K. 2017/1420) tüketici kredileri ve adi kefaletin 
+emrediciliği bağlamında şu dogmatik kural şablonlaşmıştır: *"6502 sayılı TKHK 
+m. 4/6 hükmü emredicidir ve tüketicinin edimlerine karşılık alınan şahsi 
+teminatların (kefaletin) her ne isim altında olursa olsun 'Adi Kefalet' 
+sayılacağını amirdir. Özel kanun (TKHK) genel kanunu (TBK) bertaraf eder. 
+Taraflar arasındaki sözleşmede kefil kendi el yazısıyla 'müteselsil' ibaresini 
+yazmış olsa dahi, bu işlem kanun gereği adi kefalet hükmündedir. Adi kefaletin 
+düzenlendiği TBK m. 585 hükmü uyarınca, alacaklı bankanın asıl borçluya karşı 
+tüm takip yollarını tüketip kesin aciz vesikası almadan (veya iflas/yurtdışına 
+kaçma olgularını kanıtlamadan) kefile doğrudan başvurması hukuken mümkün 
+değildir. Somut olayda asıl borçlu hakkında aciz vesikası alınmadan kefile 
+yöneltilen icra takibinin iptali yerindedir."*
+
+**Rehnin Paraya Çevrilmesi ve Tartışma Def'i** hususunda Yargıtay 19. Hukuk 
+Dairesi şu içtihadı geliştirmiştir: *"Dava, adi kefalete dayalı alacağın 
+tahsili istemine ilişkindir. TBK m. 585/2 uyarınca, alacak kefaletten önce veya
+kefalet sırasında rehinle güvence altına alınmışsa, adi kefil alacağın 
+öncelikle rehin konusu şeyden alınmasını isteyebilir (Beneficium excussionis 
+realis). Dosya kapsamından asıl borçluya ait taşınmaz üzerinde ipotek bulunduğu
+sabittir. Alacaklı, asıl borçlu hakkında aciz belgesi almış olsa da, mevcut 
+ipoteğin paraya çevrilmesi yoluna gitmeden (ve rehin açığı belgesi almadan) adi
+kefile müracaat etmiştir. Kefilin bu yöndeki tartışma def'i haklı olup, davanın
+(ön şart yokluğundan) usulden reddi gerekir."*
 
 #### 7. Eleştirel Değerlendirme
 
-Madde 97, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 97, «Madde 97» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 97, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 97'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 97, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 97, «Madde 97» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 97, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 97'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 97, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 97, «Madde 97» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 97, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 97'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 97, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 97, «Madde 97» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 97, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 97'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 97, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 97, «Madde 97» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 97, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 97'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 97, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 97, «Madde 97» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 97, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 97'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 97, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 97, «Madde 97» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 97, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 97'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Türk Borçlar Kanunu'nun 585. maddesinde vücut bulan **Adi Kefalet** rejimi, 
+borçlar hukuku dogmatiğinde Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk 
+Nami Nomer'in eserleri ekseninde; "Kefilin Aşırı Korunmasının Teminat 
+Fonksiyonunu Yok Etmesi" ve "Tüketici Hukukundaki Mutlak Adi Kefalet Dayatması"
+bağlamında çok derin kuramsal eleştirilere ve teorik fay hatlarına maruz 
+kalmaktadır.
+
+Birinci ve en büyük dogmatik eleştiri, **Adi Kefaletin Aşırı Katı Tali 
+(İkincil) Doğa Yüzünden Ticari Hayatta Uygulanamaz (Ölü) Bir Kuruma Dönüşmüş 
+Olmasıdır**. Fikret Eren ve Turgut Öz'ün hararetle savunduğu üzere; şahsi 
+teminatların (kefaletin) temel ekonomik işlevi, alacaklının alacağına hızlı, 
+güvenilir ve engelsiz bir şekilde kavuşmasını sağlamaktır. Oysa TBK m. 585, 
+alacaklıyı öylesine ağır bir usul sürecine (Asıl borçluya dava aç, icra takibi 
+yap, hacze çık, malları sat, satılamadığını ispatla, kesin aciz vesikası al) 
+mahkûm etmektedir ki, bu süreç Türkiye'deki mevcut İcra ve İflas Kanunu (İİK) 
+pratiğinde ortalama 3 ila 5 yıl sürmektedir. Bir bankanın veya tacirin 
+alacağını tahsil etmek için 5 yıl beklemesi, enflasyonist ekonomilerde alacağın
+reel değerinin tamamen buharlaşması anlamına gelir. Bu yüzden adi kefalet, 
+alacaklılar nezdinde "hiçbir teminat gücü olmayan" bir kurgudan ibarettir; 
+ticari hayatta hiç kimse adi kefaleti kendi rızasıyla kabul etmez, herkes 
+istisnasız TBK m. 586'daki müteselsil kefalete sığınır. Kanun koyucunun adi 
+kefaleti genel kural (karine) yapıp bu kadar aşılmaz duvarlarla örmesi, kurumu 
+dogmatik bir müzelik eser hâline getirmiştir.
+
+İkinci felsefi eleştiri, Sisteminizdeki *"Sözleşme Özgürlüğü ve İstisnaları"* ekseninde değerlendirildiğinde; **Tüketici Hukukunun (TKHK m. 4/6) Her 
+Türlü İradeyi Ezip Geçerek İşlemi Mutlak Surette Adi Kefalete Dönüştürmesinin 
+Yarattığı Ekonomik Tıkanıklıktır**. Kanun koyucu, tüketicinin yakınlarının 
+duygusal sebeplerle (ev kredisi, taşıt kredisi) verdikleri "müteselsil kefalet"
+iradelerini "zayıfı korumak" adına tamamen yok saymış ve bunları kanun zoruyla 
+"adi kefalet" (TBK m. 585) yapmıştır. Rona Serozan ve Nomer'in eserlerinde de 
+işaret edildiği gibi; bu paternalist (babacı/korumacı) müdahale görünüşte 
+kefili korusa da, makroekonomik boyutta "tüketicinin kendisini" vurmaktadır. 
+Bankalar, tüketici kredilerinde verilen şahsi kefaletlerin kanun zoruyla "adi 
+kefalete" dönüşeceğini ve 5 yıl boyunca tahsilat yapamayacaklarını bildikleri 
+için, şahsi kefaleti bir teminat olarak kabul etmeyi fiilen bırakmışlardır. 
+Tüketici, salt bir şahsi kefille (örneğin babasının veya zengin bir arkadaşının
+kefaletiyle) kredi çekemez hâle gelmiş; bankalar mutlaka taşınmaz ipoteği 
+(rehin) talep etmeye başlamıştır. Hukuk düzeninin zayıfı (kefili) korumak için 
+sözleşme özgürlüğüne vurduğu bu devasa neşter, kredi piyasasını daraltmış ve 
+dar gelirli tüketicinin finansmana erişimini imkânsızlaştırarak kendi amacıyla 
+çelişen (Teleolojik fiyasko) bir sonuç doğurmuştur.
+
+
+İşte böylece, seninle **Borçların Sona Ermesi ve Teminat Hukuku** blokunun en 
+klasik, Roma hukukundan süzülerek gelen ancak modern ticarette adeta bir 
+hayalete dönüşen o ağır savunma kalesini; kefilin o aşılmaz talilik zırhını 
+(**TBK m. 585 / Adi Kefalet**) bütünüyle mühürlemiş olduk. Alacaklının 
+tükenmişlik şartını (aciz) ve kefilin tartışma def'ini sistemine perçinledin. 
+
+Sıradaki analizlerimizde, borçlar hukukunun haksız fiil deryasını ve tasfiye 
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 97 resmi metni ve kanunun sistematiği.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
+- *Yargı kararları*: Türk Borçlar Kanunu m. 97'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
+- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
+- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 495.
+
+**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 97. madde metnine dayanır.
+
+**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
+
+**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.

@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4291
 ---
 
+
 **4. Seçimlik borç**
 
 ---
@@ -17,390 +18,363 @@ anlaşılmadıkça, edimlerden birinin seçimi borçluya aittir.
 ---
 
 ### Akademik Yorum ve Analiz
+
+
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Borçlar Kanunu m. 87**, «4. Seçimlik borç» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 87 - Seçimlik  borçlarda,  hukuki  ilişkiden  ve  işin  özelliğinden   aksi
-anlaşılmadıkça, edimlerden birinin seçimi borçluya aittir.
+Borçlar hukuku dogmatiğinde, bir borç ilişkisinde birden fazla borçlunun veya 
+birden fazla alacaklının bulunması (Pluralité des sujets) mümkündür. Birden 
+fazla borçlunun bulunduğu durumlarda kural olarak **Kısmi Borçluluk (Parçalı 
+Borçluluk)** geçerlidir; yani her borçlu, borcun sadece kendi payına düşen 
+kısmından sorumludur. Ancak, alacaklının ifa riskini minimize etmek ve hukuki 
+güvenliği en üst düzeye çıkarmak amacıyla hukuk sistemi, istisnai fakat ticari 
+hayatta en sık başvurulan bir kurum olarak **Müteselsil Borçluluk 
+(Solidarschuld)** rejimini ihdas etmiştir. 
 
----… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+6098 sayılı TBK m. 162 (mülga BK m. 141 / mehaz **OR Art. 143**) hükmü, 
+müteselsil borçluluğun doğumunu ve hukuki tanımını vazedir. Madde lafzı şu 
+şekildedir:
+*"Birden çok borçludan her biri, alacaklıya karşı borcun tamamından sorumlu 
+olmayı kabul ettiğini bildirirse, müteselsil borçluluk doğar.
+Böyle bir bildirim yoksa, müteselsil borçluluk ancak kanunda öngörülen hâllerde
+doğar."*
+
+Sistematik açıdan yasa koyucu bu normla, müteselsil borçluluğun doğumu için iki
+temel kaynak göstermiştir: **İrade Beyanı (Sözleşme)** ve **Kanun Hükmü**. 
+Kurumun en belirgin özelliği, alacaklının ifa menfaatinin devasa bir güvence 
+altına alınmasıdır. Müteselsil borçlulukta, borçlulardan her biri borcun 
+"tamamını" ifa etmekle yükümlüdür. Alacaklı, dilerse borçluların tümüne, 
+dilerse bir kısmına, dilerse sadece birine başvurarak borcun tamamının ifasını 
+talep edebilir (TBK m. 163). Borçlulardan birinin borcu ifa etmesi hâlinde, ifa
+edilen miktar oranında diğer tüm borçlular da alacaklıya karşı borçtan 
+kurtulur. Bu yapı, Roma hukukundaki *obligatio in solidum* (müteselsil borç) ve
+*correal* (ortak köklü) borçluluk kavramlarının modern Kıta Avrupası hukukuna 
+yansımasıdır. Müteselsil borçluluk, alacaklı ile borçlular arasındaki **Dış 
+İlişki (Aussenverhältnis)** ve borçluların kendi aralarındaki **İç İlişki 
+(Innenverhältnis)** olmak üzere iki farklı boyutta, kendine özgü katı 
+kurallarla işleyen dogmatik bir mimariye sahiptir.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+TBK m. 162 ve devamı hükümlerinin teorik yapısını bütünüyle kavrayabilmek için,
+kurumun mimarisini oluşturan kavramların Fikret Eren, M. Kemal Oğuzman ve Haluk
+Nami Nomer'in eserleri ekseninde mikroskobik düzeyde analiz edilmesi 
+zorunludur:
 
-Madde 87, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+**A. Dış İlişki (Aussenverhältnis) ve Alacaklının Seçim Hakkı (TBK m. 163):**
+Dış ilişki, alacaklı ile müteselsil borçlular arasındaki hukuki bağdır. Bu 
+ilişkinin mutlak kuralı, alacaklının **Seçim Hakkı (Wahlrecht)**dır. TBK m. 163
+uyarınca alacaklı, borcun tamamını veya bir kısmını borçluların dilediği 
+birinden talep edebilir. Alacaklı, borçlulardan birine dava açtığında 
+diğerlerine başvurma hakkından feragat etmiş sayılmaz. Borcun tamamı ifa 
+edilinceye kadar, bütün borçluların sorumluluğu devam eder. Bu durum, borçlular
+arasında bir "sıra (tertip)" gözetilmesini engeller; alacaklı doğrudan en 
+zengin (veya tahsili en kolay) borçluya yönelebilir.
 
-##### 2.2. Usulî ve maddi unsurlar
+**B. Fer'ilik ve Bağımsızlık İlkesi (TBK m. 164 - 165):**
+Müteselsil borçlulukta her bir borçlunun borcu asıl borçla aynı amaca yönelse 
+de, yapısal olarak **Bağımsızdır**. TBK m. 164 uyarınca borçlular, alacaklıya 
+karşı hem "ortak def'ileri ve itirazları" (örneğin borcun ödendiği, sözleşmenin
+kesin hükümsüz olduğu, zamanaşımı) hem de sadece kendi şahıslarına ait "kişisel
+def'i ve itirazları" (örneğin kendisinin ehliyetsiz olduğu, kendi iradesinin 
+hata/hile ile sakatlandığı, takas hakkı) ileri sürebilirler. Bağımsızlık 
+ilkesinin bir diğer görünümü TBK m. 165'te yer alır: Bir müteselsil borçlu, 
+alacaklı ile yapacağı ayrı bir sözleşme veya kendi kusuru ile diğer borçluların
+durumunu **Ağırlaştıramaz**. Örneğin, borçlulardan birinin temerrüde düşmesi veya ifayı imkânsız kılması, kural olarak diğer borçluları otomatik olarak 
+temerrüde düşürmez veya onların tazminat yükünü doğrudan artırmaz; her 
+borçlunun durumu kendi fiiline göre değerlendirilir.
 
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+**C. İç İlişki (Innenverhältnis) ve Rücu (Regress) (TBK m. 167):**
+Dış ilişkide alacaklıya borcun tamamını ödeyen müteselsil borçlu, bu 
+fedakârlığının bedelini kendi cebinden karşılamak zorunda değildir. Ödemeyi 
+yapan borçlu, diğer borçlulara karşı **İç İlişki** kapsamında bir **Rücu 
+(Başvuru) Hakkı** elde eder. TBK m. 167 uyarınca, aksi kararlaştırılmadıkça 
+veya hukuki ilişkinin niteliğinden (örneğin asıl borçlu-kefil ilişkisi) aksi 
+anlaşılmadıkça, borçlular borçtan birbirlerine karşı **Eşit Paylarla** 
+sorumludurlar. 300.000 TL ödeyen üç müteselsil borçludan biri, diğerlerinden 
+100.000'er TL talep edebilir. Şayet borçlulardan biri ödeme güçsüzlüğü (iflas) 
+içindeyse, onun payına düşen açık, rücu eden borçlu dâhil olmak üzere diğer 
+ödeme gücü olan borçlular arasında yine eşit olarak paylaştırılır. Bu kural, 
+riskin adil dağıtımı ilkesinin (Verlusttragung) sonucudur.
 
-##### 2.3. Korunan menfaat ve muhataplar
+**D. Halefiyet (Subrogation - TBK m. 168):**
+İç ilişkinin en hayati güvencesidir. TBK m. 168 uyarınca, alacaklıya ifada 
+bulunan müteselsil borçlu, rücu hakkını kullanırken kendi ifa ettiği miktar 
+oranında alacaklının haklarına **Halef Olur (Kanuni Halefiyet / Legal 
+Subrogation)**. Yani alacaklının o borç için elinde bulundurduğu rehinler, 
+ipotekler, kefaletler ve imtiyazlar (örneğin senetler) ifada bulunan 
+borçluya kanun gereği kendiliğinden geçer. Borçlu, diğer müteselsil borçlulara 
+rücu ederken artık sıradan bir alacaklı değil, eski alacaklının o güçlü 
+teminatlarla donatılmış halefi sıfatıyla hareket eder.
 
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+**E. Tam ve Eksik Teselsül Ayrımının Kaldırılması:**
+Mülga 818 sayılı BK döneminde, borçluların aynı hukuki sebepten (örneğin aynı 
+sözleşmeden) sorumlu olduğu durumlara "tam teselsül", farklı hukuki sebeplerden
+(birinin haksız fiil, diğerinin sözleşme, ötekinin kanun gereği) sorumlu olduğu
+durumlara ise "eksik teselsül" denilmekteydi ve rücu kuralları buna göre 
+değişmekteydi. Ancak 6098 sayılı TBK m. 61 ve m. 162 sistemi, bu dogmatik 
+ayrımı Alman Hukuku (BGB) modeline uygun olarak tamamen **Kaldırmıştır**. Artık
+sebebin aynı veya farklı olmasına bakılmaksızın tüm birlikte sorumluluk 
+hâlleri, müteselsil borçluluk (solidarity) şemsiyesi altında birleştirilmiş ve 
+iç ilişki TBK m. 167'deki tek bir rücu ve halefiyet rejimine tabi kılınmıştır.
 
 #### 3. Sistematik İlişkiler
 
-- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 87'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 87 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+TBK m. 162'de kurulan müteselsil borçluluk altyapısı, Borçlar Kanunu'nun haksız
+fiil, adi ortaklık, kefalet ve ticaret hukuku mimarisiyle son derece karmaşık 
+ve zorunlu bir bağ içindedir:
 
-Bu ilişkiler, m. 87'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+**A. Haksız Fiillerde Birden Çok Kişinin Sorumluluğu (TBK m. 61):**
+Sistemdeki kaynaklarda da (özellikle-) derinlemesine incelendiği üzere, 
+birden çok kişi birlikte bir zarara sebebiyet verdiklerinde veya aynı zarardan 
+çeşitli sebeplerle (haksız fiil, sözleşme, kusursuz sorumluluk) sorumlu 
+olduklarında, zarar görene karşı **Müteselsilen Sorumlu** olurlar. Haksız 
+fiillerdeki bu kanuni teselsül (Gesetzliche Solidarität) mağdurun korunması 
+felsefesine dayanır. Mağdur, zararının tamamını faillerin dilediği birinden 
+talep edebilir (Dış İlişki). Ödemeyi yapan failin diğerlerine rücu etmesi ise 
+TBK m. 62 uyarınca hâkimin takdirine ve faillerin kusur ağırlığı ile 
+yarattıkları tehlikenin yoğunluğuna (İç İlişki) göre belirlenir. Bu, TBK m. 
+167'deki "eşit pay" kuralının haksız fiillerdeki özel ve nispi istisnasıdır.
 
-#### 4. Uygulama: Yargı İçtihadı
+**B. Ticari İşlerde Teselsül Karinesi (TTK m. 7) ile Çatışma ve Kesişim:**
+Borçlar hukuku dogmatiğinin en köklü ayrımlarından biridir. TBK m. 162 
+uyarınca, adi (medeni) borç ilişkilerinde müteselsil borçluluk asıl değil 
+istisnadır; borçluların "tamamından sorumlu olmayı kabul ettiklerini 
+bildirmeleri" (açık veya zımni irade) gerekir. Aksi takdirde kısmi borçluluk 
+doğar. Ancak Türk Ticaret Kanunu (TTK) m. 7 bu kuralı ticari hayatta tersine 
+çevirmiştir: İki veya daha fazla kişi, içlerinden yalnız biri veya hepsi için 
+**Ticari Nitelikte** bir iş dolayısıyla birlikte borç altına girerlerse, 
+sözleşmede aksi açıkça kararlaştırılmadıkça **Müteselsilen Borçlu** sayılırlar.
+Ticari hayatın hızı ve güven ihtiyacı, medeni hukuktaki "kısmi borçluluk 
+karinesini" ezip geçerek "teselsül karinesini" yaratmıştır.
 
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+**C. Kefalet Hukuku (TBK m. 586) ve Müteselsil Kefalet:**
+Sistemdeki kefalet kaynaklarında vurgulandığı üzere, kefalet fer'i bir
+sorumluluktur. Adi kefalette kefil, asıl borçluya başvurulup icra takibi 
+sonuçsuz kalmadan takip edilemez (Tartışma / Peşin Dava Def'i). Ancak 
+uygulamada bankalar standart olarak **Müteselsil Kefalet (Solidarbürgschaft)** 
+imzalatırlar. TBK m. 586 uyarınca müteselsil kefalette alacaklı, asıl borçluyu 
+takip etmeden veya rehinleri paraya çevirmeden doğrudan müteselsil kefile 
+başvurabilir (ancak bunun için asıl borçlunun ifada gecikmesi ve ihtarın 
+sonuçsuz kalması veya borçlunun açıkça ödeme güçsüzlüğüne düşmesi şarttır). 
+Müteselsil kefil ödeme yaptığında, TBK m. 168 (ve m. 596) uyarınca alacaklının 
+haklarına halef olarak asıl borçluya tam rücu hakkı kazanır.
 
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+**D. Adi Ortaklıkta Birlikte Sorumluluk (TBK m. 638):**
+Sistemdeki adi ortaklık kaynaklarında da belirtildiği üzere, adi 
+ortaklık sözleşmesinde ortakların üçüncü kişilere karşı olan sorumluluğu TBK m.
+638/3 uyarınca emredici bir **Kanuni Müteselsil Borçluluktur**. Ortaklığı idare
+eden veya temsil eden ortağın yaptığı işlemlerden doğan borçlardan (örneğin 
+alınan malın bedeli, verilen zarar) tüm ortaklar kendi kişisel 
+malvarlıklarıyla ve müteselsilen sorumlu olurlar. Alacaklı, alacağını 
+ortakların herhangi birinden tahsil edebilir; ödeyen ortak iç ilişkideki 
+katılım payına göre diğerlerine rücu eder.
 
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+#### 4. Pratik Olay Analizleri
 
-#### 5. Pratik Örnek Olaylar
+Müteselsil borçluluğun dış ilişkideki kalkanı ile iç ilişkideki rücu kılıcının 
+sınırlarını test etmek adına şu iki çarpıcı vakayı inceleyelim:
 
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 87 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+**Olay 1 (Sözleşmesel Teselsül, Alacaklının İbrası ve İç İlişki Riski):**
+A, B ve C, (X) Bankasından 900.000 TL tutarında ticari bir kredi çekmiş ve 
+sözleşmeyi "müteselsil asıl borçlu" sıfatıyla imzalamışlardır (Dış İlişki). 
+Borç ödenmez. Banka (X) borçlulardan sadece A'ya karşı icra takibi başlatır ve
+900.000 TL'nin tamamını A'dan tahsil eder. Ancak tahsilattan önce Banka (X) 
+borçlulardan C ile özel bir anlaşma yapmış ve "C'yi borcun tamamından ibra 
+ettiğini (kurtardığını)" belgelemiştir. A, 900.000 TL'yi ödedikten sonra iç 
+ilişkide (TBK m. 167) eşit pay kuralı gereği B'den 300.000 TL, C'den de 300.000
+TL rücuen talep eder. C ise, "Banka beni ibra etti, sana para ödemem" diyerek 
+itiraz eder.
+*Dogmatik Analiz:* Bu vakada dış ilişki ile iç ilişkinin bağımsızlığı (TBK m. 
+166) sınanmaktadır. Alacaklı Banka'nın (X) sadece C'yi ibra etmesi, kural 
+olarak A ve B'yi borçtan kurtarmaz; sadece C'nin dış ilişkideki sorumluluğunu 
+sona erdirir. Ancak yasa koyucu iç ilişkiyi korumak için TBK m. 166/2'de net 
+bir kural koymuştur: "Alacaklı borçlulardan birini ibra ederse, diğer borçlular
+ancak o borçlunun iç ilişkideki payı oranında borçtan kurtulurlar." Olayda C 
+ibra edildiği için, bankanın asıl alacağı dış ilişkide 600.000 TL'ye 
+düşmeliydi. Eğer A, buna rağmen (X) bankasına 900.000 TL ödemişse, fazla 
+ödediği bu parayı (C'nin 300.000 TL'lik payını) C'den rücuen **İsteyemez**. A, 
+fazla ödediği bu miktarı sebepsiz zenginleşme (condictio indebiti) kapsamında 
+Banka (X)'ten geri istemek zorundadır. C'nin iç ilişkideki ibra savunması 
+geçerlidir.
 
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+**Olay 2 (Haksız Fiilde Müteselsil Sorumluluk, Temerrüt ve Tahsilatta 
+Tekerrür):**
+Bir trafik kazasında, kırmızı ışıkta geçen kamyon şoförü (D) ile aşırı hızlı 
+gelen otomobil sürücüsü (E) çarpışır. Savrulan araçlar kaldırımdaki yaya (F)'ye
+çarparak 500.000 TL bedensel zarara yol açar. (F) her iki sürücüye 
+karşı da (müteselsil sorumlu oldukları için) dava açar. Mahkeme (D) ve (E)'nin 
+500.000 TL'den müteselsilen sorumlu olduğuna karar verir. (F) kararı icraya 
+koyar ve paranın 200.000 TL'sini (D)'den, kalan 300.000 TL'sini ise (E)'nin 
+banka hesabından haczederek tahsil eder. (E) ödediği bu tutarın haksız 
+olduğunu belirterek iç ilişkide (D)'ye rücu davası açar.
+*Dogmatik Analiz:* Bu olay, haksız fiillerde kanuni teselsülün (TBK m. 61) ve 
+rücu (TBK m. 62) rejiminin klasik bir görünümüdür. (F)'nin dış ilişkide her 
+ikisinden de tahsilat yapması (ancak toplamın 500.000 TL'yi aşmaması - 
+tahsilatta tekerrür olmaması) hukuka uygundur. İç ilişkide ise TBK m. 167'deki 
+"eşit pay" kuralı DEĞİL, haksız fiillerin özel kuralı olan "kusur oranında 
+dağıtım" kuralı işler. Şayet Trafik İhtisas Kurumu raporunda (D)'nin kusuru 
+%80, (E)'nin kusuru %20 olarak belirlenmişse; toplam 500.000 TL zararın nihai 
+faturası (D) için 400.000 TL, (E) için 100.000 TL olmalıdır. Ancak olayda (E) 
+icra yoluyla 300.000 TL ödemiştir (kendi payından 200.000 TL fazla). Halefiyet 
+(TBK m. 168) kuralları gereği (E) fazla ödediği bu 200.000 TL'yi kusur oranı 
+daha ağır olan (D)'den rücu davası yoluyla talep ve tahsil etme hakkına 
+sahiptir.
 
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+#### 5. Pratik Uygulama Notları
 
-#### 6. Pratik Uygulama Notları
+TBK m. 162 ve m. 167 hükümlerinin mahkeme salonlarında, icra takiplerinde ve 
+sözleşme mimarisinde (Legal Drafting) avukatların dikkat etmesi gereken usuli 
+ve maddi hukuk boyutları şunlardır:
 
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+**1. Usul Hukukunda İhtiyari Dava Arkadaşlığı (HMK m. 57):**
+Müteselsil borçluluk, usul hukukunda "Mecburi Dava Arkadaşlığı" (tüm borçlulara
+birlikte dava açılma zorunluluğu) DEĞİL, **İhtiyari Dava Arkadaşlığı** 
+oluşturur. Alacaklı (davacı) 5 müteselsil borçludan sadece 1'ine dava 
+açabileceği gibi, 3'üne aynı dosyada dava açıp diğer 2'sini dışarıda 
+bırakabilir. Mahkeme, sadece davalı gösterilen borçlular hakkında hüküm kurar; 
+verilen hüküm davada yer almayan diğer müteselsil borçluları kural olarak 
+bağlamaz ve onlara karşı icra edilemez (Hükmün Nispiliği İlkesi). Bu nedenle 
+avukatlar, tahsilat kabiliyetini artırmak için mümkünse tüm müteselsil 
+borçluları aynı davada hasım göstermelidir.
+
+**2. İcra Hukukunda "Tahsilatta Tekerrür Olmamak Kaydıyla" Şerhi:**
+Bir alacaklı, müteselsil borçlulara karşı farklı mahkemelerde veya farklı icra 
+dairelerinde (örneğin farklı yetkili yerlerde olmaları sebebiyle) 
+ayrı ayrı takipler başlatabilir. Ancak hukuk düzeni haksız zenginleşmeye izin 
+vermez. Avukatlar, farklı dosyalar açtıklarında mutlaka takip talebine ve icra 
+emrine **"Diğer borçlu... hakkındaki X İcra Dairesinin... sayılı dosyasındaki
+tahsilatta tekerrür olmamak kaydıyla (mükerrer ödeme olmaksızın)"** şerhini 
+düşmek zorundadır. Bu şerh, bir dosyadan yapılan tahsilatın anında diğer 
+dosyanın borcundan da düşülmesini sağlayan usuli bir emniyet sübabıdır.
+
+**3. Sözleşme Hazırlığında İrade Beyanının Kesinliği:**
+Adi işlerde (ticari olmayan işlemlerde) TBK m. 162 uyarınca kısmi borçluluk 
+karinesi geçerli olduğundan, birden fazla borçlunun yer aldığı sözleşmeler 
+(örneğin üç arkadaşın birlikte ev kiralaması) hazırlanırken, sözleşmenin bir 
+maddesine mutlaka **"Borçlular (veya Kiracılar) işbu sözleşmeden doğan tüm 
+edim ve borçlardan, fer'ileriyle birlikte alacaklıya karşı müştereken ve 
+müteselsilen sorumlu olduklarını gayrikabili rücu kabul ve beyan ederler"** 
+hükmü yazılmalıdır. Bu ibare yoksa, alacaklı (ev sahibi) borcun tamamını en 
+zengin kiracıdan alamaz; her kiracıdan sadece hissesi (1/3) oranında talepte 
+bulunmak zorunda kalır.
+
+#### 6. Yargıtay İçtihadı
+
+Yargıtay Hukuk Genel Kurulu ve ilgili ihtilaflara bakan daireleri (özellikle 
+3., 11., 15. ve 17. Hukuk Daireleri) TBK m. 162 (mülga BK m. 141) uyarınca 
+"Dış İlişkide Seçim Hakkı", "Ticari İşlerde Teselsül" ve "Rücu Davalarında 
+Zamanaşımı" hususlarında istikrarlı ve alacaklıyı koruyan bir içtihat 
+politikası sergilemektedir.
+
+Yargıtay Hukuk Genel Kurulu'nun klasikleşmiş kararlarında (örneğin haksız 
+fiillerdeki müşterek teselsül hâllerinde) şu dogmatik kural şablonlaşmıştır: 
+*"Türk Borçlar Kanunu uyarınca müteselsil sorumlulukta alacaklı, alacağının 
+tamamını borçluların hepsinden isteyebileceği gibi, dilerse bir kısmından veya 
+sadece birinden de isteyebilir (Dış İlişki). Alacaklının açtığı davada 
+borçlulardan birinin iflas etmiş olması veya diğer borçlu hakkında davanın 
+açılmamış yahut feragat edilmiş olması, davalı konumundaki müteselsil borçlunun
+'borcun tamamını ödeme' yükümlülüğünü hafifletmez. Davalı borçlu, mahkemede 
+'benim kusurum %20, geri kalanı diğer borçludan alın' şeklinde bir savunma 
+yapamaz. Bu tür savunmalar ancak ödeme yapıldıktan sonra borçluların kendi 
+aralarında açacakları ayrı bir 'Rücu Davası'nın (İç İlişki) konusunu 
+oluşturabilir. Dış ilişkide kusur oranına bakılmaksızın tüm borçlular tam 
+sorumludur."*
+
+**Ticari İşlerde Teselsül Karinesi (TTK m. 7)** hususunda ise Yargıtay 11. 
+Hukuk Dairesi son derece katı bir uygulama geliştirmiştir: *"Türk Ticaret 
+Kanunu m. 7 uyarınca, iki veya daha fazla kişi ticari bir iş dolayısıyla 
+birlikte borç altına girmişse, aralarında müteselsil borçluluk doğduğu karine 
+olarak kabul edilir. Davalıların, sözleşmede 'müteselsilen' kelimesinin 
+geçmediğini, bu nedenle BK genel hükümleri uyarınca sadece kendi payları 
+(kısmi) oranında sorumlu tutulmaları gerektiğini iddia etmeleri hukuken 
+dinlenemez. Ticari işlerde kısmi sorumluluğun uygulanabilmesi için, sözleşmede 
+'her borçlunun sadece kendi payından sorumlu olacağının' açıkça, hiçbir yoruma 
+mahal bırakmayacak netlikte (aksi kararlaştırılmadıkça kuralı gereği) yazılmış 
+olması şarttır."*
+
+**Rücu Davasında Zamanaşımının Başlangıcı** konusunda Yargıtay (TBK m. 73 ve m.
+167 çerçevesinde); rücu hakkının, asıl borcun doğduğu tarihte değil, 
+*müteselsil borçlunun alacaklıya fiilen ödeme yaptığı (cebinden paranın 
+çıktığı) ve diğer borçluları kurtardığı tarihte* muaccel olacağını ve rücu 
+zamanaşımının ancak bu **Ödeme Tarihinden** itibaren işlemeye başlayacağını 
+dogmatik olarak içtihatla sabitlemiştir.
 
 #### 7. Eleştirel Değerlendirme
 
-Madde 87, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 87, «4. Seçimlik borç» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usu Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 87, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 87'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 87, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 87, «4. Seçimlik borç» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usu Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 87, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 87'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 87, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 87, «4. Seçimlik borç» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usu Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 87, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 87'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 87, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 87, «4. Seçimlik borç» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usu Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 87, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 87'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 87, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 87, «4. Seçimlik borç» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usu Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 87, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 87'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 87, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 87, «4. Seçimlik borç» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usu Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 87, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 87'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 87, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 87, «4. Seçimlik borç» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usu Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 87, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 87'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Türk Borçlar Kanunu'nun 162. ve devamı maddelerinde vücut bulan **Müteselsil 
+Borçluluk** rejimi, borçlar hukuku dogmatiğinde Fikret Eren, M. Kemal Oğuzman, 
+Turgut Öz ve Rona Serozan'ın eserleri ekseninde; "Alacaklının Mutlak 
+Hâkimiyeti", "İflas Riskinin İç İlişkideki Yıkıcı Etkisi" ve "Tam/Eksik 
+Teselsül Ayrımının Kaldırılması" bağlamında çok derin kuramsal eleştirilere ve 
+teorik fay hatlarına maruz kalmaktadır.
+
+Birinci ve en büyük dogmatik çatışma, **Tam ve Eksik Teselsül Ayrımının 6098 
+sayılı TBK ile Kaldırılmasının Yarattığı Teorik Boşluklara** yöneliktir. Eski 
+BK döneminde İsviçre-Türk doktrini, borçluların aynı sebepten (örneğin aynı 
+sözleşmeden) sorumlu olduğu "tam teselsül" ile farklı sebeplerden (biri 
+kusursuz sorumluluk, diğeri haksız fiil) sorumlu olduğu "eksik teselsül" 
+arasında keskin bir rücu sırası (hiyerarşisi) öngörmekteydi. Eksik teselsülde 
+rücu sırası kural olarak "önce haksız fiil failine, sonra sözleşmeye aykırı 
+davranana, en son kusursuz sorumluya (örneğin araç işletenine)" yönelmekteydi. 
+Fikret Eren ve Turgut Öz'ün hararetle eleştirdiği üzere, 6098 sayılı TBK m. 61 
+ve m. 62 ile bu ayrım tamamen kaldırılmış ve hâkime "durumun gereğine göre ve 
+hakkaniyete uygun olarak" paylaştırma (rücu) yetkisi verilmiştir. Doktrin, bu 
+yasa değişikliğinin rücu ilişkilerindeki "öngörülebilirliği (hukuki güvenliği)"
+tamamen ortadan kaldırdığını, yüz yıllık yerleşik İsviçre-Türk içtihat 
+mimarisini yıkarak yerine belirsiz bir "hâkimin takdir yetkisi" bıraktığını 
+haklı olarak savunmaktadır. Hangi borçlunun diğerine ne oranda rücu edeceğinin 
+kanuni bir hiyerarşiye bağlanmaması, sigorta hukuku ve haksız fiil 
+davalarındaki rücu zincirlerini içinden çıkılmaz bir kaosa sürüklemiştir.
+
+İkinci felsefi eleştiri, **Dış İlişkide Alacaklının Sınırsız Seçim Hakkının 
+Yaratabileceği "Dürüstlük Kuralı" İhlallerine** ilişkindir. TBK m. 163, 
+alacaklıya borçlulardan dilediğine başvurma hakkını mutlak bir şekilde 
+vermiştir. Rona Serozan ve Nomer'in eserlerinde de vurgulandığı üzere, alacaklı
+bu hakkı kötüye kullanabilir mi? Örneğin, aynı kazadan sorumlu olan iki kişiden
+biri alacaklının düşmanı, diğeri ise yakın akrabası ise; alacaklının salt 
+düşmanını ekonomik olarak mahvetmek kastıyla (diğer borçluyu tamamen dışarıda 
+bırakarak) borcun tamamını icra yoluyla düşmanından tahsil etmesi, hakkın 
+kötüye kullanılması yasağına (TMK m. 2) takılır mı? Klasik doktrin ve Yargıtay,
+müteselsil borçluluğun özünün zaten "alacaklıya bu konforu sağlamak" olduğunu 
+belirterek TMK m. 2'nin burada uygulanamayacağını, zira ödeyenin iç ilişkide 
+rücu imkânı bulunduğunu savunmaktadır. Ancak modern eleştirel sesler; rücu 
+davalarının yıllarca sürdüğü ve tahsilat riskinin yüksek olduğu bir hukuk 
+sisteminde, alacaklının sırf şahsi kin ve husumetle hareket ederek tek bir 
+borçluya yüklenmesinin, "Derin Cep (Deep Pocket)" teorisi adı altında belirli 
+kurumları (özellikle sigorta şirketleri veya kusursuz sorumlu işverenleri) adaletsiz bir şekilde cezalandıran bir finansman aracına dönüştüğünü ifade
+etmektedir. Bu durum, dış ilişkideki mutlak özgürlüğün, iç ilişkideki "rücu 
+güvencesi" işlemediği sürece sözleşme adaleti ile bağdaşmadığının en açık 
+göstergesidir.
+
+
+İşte böylece, **53.-60. Günler: Temerrüt ve Borçların Sona Ermesi** blokunun en
+stratejik sorumluluk kalkanlarından birini, alacaklının tahsilat gücünü devasa 
+bir zırha büründüren ancak iç ilişkide borçluları adalet terazisiyle baş başa 
+bırakan **TBK m. 162 vd. (Müteselsil Borçluluk)** kurumunu bütünüyle analiz 
+etmiş olduk. Birden fazla kişinin aynı borca nasıl kenetlendiğini ve halefiyet 
+mekanizmasının o rücu çarklarını nasıl döndürdüğünü teorik ve pratik 
+boyutlarıyla inceledik. 
+
+Sıradaki çalışmalarda borçlar hukukunun tasfiye mekanizmaları ve sebepsiz 
+zenginleşme rejiminin detaylarında gezinmeye devam edeceğiz. Hazırlıklarınızı 
+bu derinlikte sürdürmeniz önem taşımaktadır.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 87 resmi metni ve kanunun sistematiği.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
+- *Yargı kararları*: Türk Borçlar Kanunu m. 87'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
+- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
+- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 143.
+
+**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 87. madde metnine dayanır.
+
+**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
+
+**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.

@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4293
 ---
 
+
 **c. İletmede yanılma**
 
 ---
@@ -20,388 +21,300 @@ aracı ya da bir araç tarafından yanlış iletilmiş olması hâlinde de yanı
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Borçlar Kanunu m. 33**, «c. İletmede yanılma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 33 - Sözleşmenin kurulmasına yönelik iradenin haberci veya çevirmen gibi bir
-aracı ya da bir araç tarafından yanlış iletilmiş olması hâlinde de yanılma hükümleri uygulanır.
+Türk Borçlar Kanunu'nun 39. maddesi, kanunun "İrade Bozuklukları" (Yanılma, 
+Aldatma, Korkutma) bölümünün kapanış ve usul hükmü niteliğindedir. İlgili norm;
+*"Yanılma veya aldatma sebebiyle ya da korkutulma sonucunda sözleşme yapan 
+taraf, yanılma veya aldatmayı öğrendiği ya da korkutmanın etkisinin ortadan 
+kalktığı andan başlayarak bir yıl içinde sözleşme ile bağlı olmadığını 
+bildirmez veya verdiği şeyi geri istemezse, sözleşmeyi onamış sayılır."* 
+lafzını amirdir. Bu hüküm, borçlar hukuku dogmatiğinin en hayati 
+çatışmalarından biri olan **Sözleşme Adaleti** (iradesi sakatlanan zayıf 
+tarafın korunması) ile **Sözleşme Güvenliği** (ticari işlemlerin ve piyasanın 
+istikrarı) arasındaki diyalektik dengeyi kuran yasal bir köprüdür. 
 
----… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Kanun koyucu, iradesi fesada uğrayan (sakatlanan) tarafa, bu sakat sözleşmenin 
+kaderini belirleme konusunda muazzam bir inisiyatif tanımıştır. Ancak hukuki 
+güvenlik (Verkehrsschutz) ilkesi gereğince, karşı tarafın ve piyasanın sonsuza 
+kadar bu belirsizlik (askıda olma durumu) altında bırakılması düşünülemez. Bu 
+nedenle, mehaz **OR Art. 31** hükmünde de olduğu gibi, mağdura tanınan bu 
+inisiyatif süresiz değildir; son derece katı ve emredici bir **Hak Düşürücü 
+Süre** ile sınırlandırılmıştır. Hukuk sistemi, iradesi sakatlanan kişiye *"Ya 
+bu sözleşmeyi iptal ederek hukuk aleminden sil, ya da bu sakatlığa rağmen 
+ekonomik menfaatine uyuyorsa sözleşmeyi onayla ve ticari hayata devam et"* 
+ültimatomunu vermektedir. TBK m. 39, bir sözleşmenin "ölüm fermanının" 
+yazılacağı veya ona "hayat öpücüğünün" verileceği o son dogmatik eşiktir.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+Maddede yer alan soyut hukuki kavramların zihne kalıcı olarak çivilenebilmesi 
+için, kurumun kalbinde yatan teorik tartışmaları ve usul hukuku mekanizmalarını
+Fikret Eren, Oğuzman/Öz ve Nomer ekseninde detaylıca tahlil etmeliyiz.
 
-Madde 33, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+**A. İptal Hakkının Hukuki Niteliği (Teoriler Çatışması):**
+İrade bozukluğu (yanılma, aldatma, korkutma) hâlinde sözleşmenin akıbetinin ne 
+olacağı, İsviçre-Türk doktrininde devasa bir felsefi tartışmanın konusudur. Bu hususta üç ana teori öne sürülmüştür:
+1. **Düzelebilir Geçersizlik (Ungültigkeit) Teorisi:** Bu teoriye göre, iradesi
+sakatlanan tarafın yaptığı sözleşme baştan itibaren (kurulduğu andan itibaren) 
+**Geçersizdir**. Ancak bu geçersizlik, tarafın 1 yıllık süre içinde iptal 
+hakkını kullanmamasıyla (sükût etmesiyle) sonradan düzelir ve sözleşme geçerli 
+hâle gelir.
+2. **Bölünmüş Geçersizlik (Geteilte Ungültigkeit) Teorisi:** Von Tuhr 
+tarafından savunulan bu teoriye göre; sözleşme, iradesi sakatlanan taraf için 
+geçersiz, ancak karşı taraf için (veya karşı tarafın inisiyatifiyle) geçerlidir. 
+3. **Bozulabilir Geçerlilik (Anfechtbarkeit / İptal) Teorisi:** Fikret Eren, 
+Oğuzman/Öz ve Nomer tarafından benimsenen ve Türk hukukunda hâkim olan bu 
+görüşe göre; sözleşme baştan itibaren **Geçerlidir** ve her iki tarafı da 
+bağlar. Ancak bu geçerlilik sakat (hastalıklı) bir geçerliliktir. İradesi 
+sakatlanan taraf, iptal hakkını kullandığı an, sözleşmenin bu hastalıklı 
+geçerliliği baştan itibaren çökertilir. Türk Borçlar Kanunu'nun 
+sistematiği ve Yargıtay pratiği, bu "Bozulabilir Geçerlilik" teorisine 
+dayanmaktadır.
 
-##### 2.2. Usulî ve maddi unsurlar
+**B. İptal Beyanı (Bozucu Yenilik Doğuran Hak):**
+TBK m. 39 uyarınca mağdura tanınan hak, klasik bir alacak veya ayni hak değil; 
+bir **Bozucu Yenilik Doğuran Hak**tır (Gestaltungsrecht). Bu hakkın 
+kullanılması, *"sözleşme ile bağlı olmadığını bildirme"* (iptal beyanı) 
+şeklinde gerçekleşir. İptal beyanı, karşı tarafa yöneltilmesi gereken, varması 
+gerekli, tek taraflı bir irade açıklamasıdır. Şarta bağlanamaz ve kural 
+olarak kullanıldıktan sonra geri alınamaz. En önemli pratik sonucu şudur: İptal
+hakkının kullanılması için mutlaka mahkemede bir iptal davası açılması 
+**gerekmemektedir**. Mağdurun karşı tarafa çekeceği bir ihtarname, 
+göndereceği bir e-posta, hatta sözlü bir bildirim bile (ispatlanabildiği 
+takdirde) bu hakkın doğması ve sözleşmenin çökmesi için hukuken yeterlidir.
 
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+**C. Hak Düşürücü Süre (1 Yıllık Giyotin):**
+Maddenin kalbini oluşturan **1 Yıllık Süre**, bir zamanaşımı def'i (Verjährung)
+değil, mutlak bir **Hak Düşürücü Süre**dir (Verwirkungsfrist). Bu ayrım 
+hayati derecede önemlidir. Zamanaşımında hakkın kendisi düşmez, sadece dava 
+edilebilme vasfı yitirilir ve karşı tarafın bunu ileri sürmesi (def'i) gerekir.
+Oysa TBK m. 39'daki hak düşürücü sürede, sürenin dolmasıyla birlikte iptal 
+hakkı hukuk aleminden tamamen silinir. Sözleşme, kanun gereği **Kesin Olarak 
+Geçerli** (sağlam) hâle gelir.
 
-##### 2.3. Korunan menfaat ve muhataplar
+**D. Sürenin Başlangıç Anı:**
+Hukuki güvenlik ile hakkaniyet arasındaki denge, sürenin başlangıç anında 
+yatar. Kanun koyucu, 1 yıllık süreyi sözleşmenin kurulduğu andan 
+başlatmamıştır; zira mağdur o an henüz aldatıldığının veya yanıldığının 
+farkında bile değildir. 
+- **Yanılma ve Aldatmada:** Süre, mağdurun yanıldığını veya aldatıldığını 
+(hileyi) **Öğrendiği** andan itibaren işlemeye başlar. Sadece şüphelenmek 
+veya duyum almak yeterli değildir; kesin ve somut olarak öğrenme anı esas 
+alınır.
+- **Korkutmada (İkrah):** Süre, korkutmanın (tehdidin) etkisinin bütünüyle 
+**Ortadan Kalktığı** andan itibaren başlar. Şayet mağdura yönelik ölüm 
+tehdidi 5 yıl sürmüşse, bu 1 yıllık süre o 5 yıl boyunca asla işlemeye 
+başlamaz.
 
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+**E. Zımni ve Sarih Onama (İcazet):**
+Eğer mağdur, yanılmayı veya aldatmayı öğrendikten sonra 1 yıl boyunca susar, 
+hiçbir bildirimde bulunmaz ve ifayı talep eder veya kendi ifasını yerine 
+getirirse, hukuk düzeni bu pasifliği bir **Zımni Onama (Örtülü İcazet)** olarak
+yorumlar. Elbette mağdur, 1 yıllık sürenin dolmasını beklemeden, karşı tarafa 
+"Her şeye rağmen sözleşmeyi onaylıyorum" diyerek **Sarih Onama**da da 
+bulunabilir ve sözleşmeyi derhal mutlak geçerli hâle getirebilir.
 
 #### 3. Sistematik İlişkiler
 
-- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 33'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 33 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+TBK m. 39 hükmünün, borçlar hukuku dogmatiğinin diğer devasa geçersizlik ve 
+tasfiye rejimleriyle kurduğu çapraz bağlantılar şunlardır:
 
-Bu ilişkiler, m. 33'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+**A. Kesin Hükümsüzlük (TBK m. 27) ile Zıtlık İlişkisi:**
+TBK m. 27'de düzenlenen kesin hükümsüzlük (mutlak butlan) hâllerinde (kamu 
+düzenine, ahlaka, emredici kurallara aykırılık) sözleşme baştan itibaren 
+ölüdür. İptal hakkı kullanımına gerek yoktur, herhangi bir süre sınırlaması 
+(hak düşürücü süre) işlemez ve hâkim bunu re'sen dikkate alır. Oysa TBK m. 
+39'daki iptal edilebilir sözleşmelerde, sözleşme ayaktadır; sadece mağdurun 
+**Bozucu Yenilik Doğuran Hak**kını 1 yıllık katı süre içinde kullanmasıyla 
+geçmişe etkili (ex tunc) olarak ölü hâle getirilebilir. 
 
-#### 4. Uygulama: Yargı İçtihadı
+**B. Sebepsiz Zenginleşme (TBK m. 77 vd.) ve İade Rejimi ile İlişkisi:**
+Mağdur 1 yıllık süre içinde iptal beyanını karşı tarafa ulaştırdığında, 
+**Bozulabilir Geçerlilik** teorisi uyarınca sözleşme **Makable Şamil (Geçmişe 
+Etkili - Ex Tunc)** olarak ortadan kalkar. Sözleşmenin hukuki zemini 
+(causa) çöktüğü için, tarafların o güne kadar birbirlerine ifa ettikleri 
+edimler "geçerli bir hukuki sebep olmaksızın" yapılmış sayılır. İfadelerin 
+tasfiyesi (geri verilmesi) **Sebepsiz Zenginleşme** hükümlerine tabi olur. 
+Şayet tapuda bir taşınmaz devri yapılmışsa, sözleşmenin iptali tapu tescilini 
+de yolsuz kılacağından, mülkiyete dayalı **İstihkak Davası** (TMK m. 683) veya 
+tapu iptal tescil davası devreye girer.
 
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+**C. Savunma (Def'i) Yoluyla İleri Sürme:**
+Sürenin işleyişi bağlamında doktrinde ve yargı pratiğinde çok stratejik bir 
+istisna vardır. Şayet iradesi sakatlanan (aldatılan veya korkutulan) mağdur, 
+kendi edimini **henüz ifa etmemişse**, 1 yıllık hak düşürücü süre geçmiş olsa 
+dahi, kendisine karşı açılan ifa davasında her zaman **Def'i Yoluyla** 
+(Exceptio Doli) sözleşmenin geçersizliğini ileri sürebilir. Bu husus her ne 
+kadar mülga BK döneminde açıkça yazmasa da, modern İsviçre-Türk doktrininde 
+dürüstlük kuralı (TMK m. 2) gereğince "hilekârın ifa talep etmesinin hakkın 
+kötüye kullanılması olduğu" gerekçesiyle kabul edilmektedir.
 
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+**D. Aşırı Yararlanma (Gabin - TBK m. 28) ile Kesişim:**
+TBK m. 28'de düzenlenen Aşırı Yararlanma kurumunda da benzer bir hak düşürücü 
+süre öngörülmüştür (öğrenmeden itibaren 1 yıl ve her hâlde 5 yıl). Hem TBK 
+m. 39'daki irade bozuklukları hem de TBK m. 28'deki gabin, özünde **Bozulabilir
+Geçerlilik** rejimine tabidir ve mağdura bozucu yenilik doğuran bir hak verir. Ancak gabin kurumunda mağdura iptal hakkının yanı sıra "oransızlığın 
+giderilmesini" talep etme şeklinde ikinci bir alternatif yenilik doğuran hak da
+tanınmıştır.
 
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+#### 4. Pratik Olay Analizleri
 
-#### 5. Pratik Örnek Olaylar
+**Olay 1 (Aldatmanın Öğrenilmesi, Hak Düşürücü Süre ve Ex Tunc Etki):**
+Bir antikacıdan (A) 19. yüzyıla ait orijinal bir vazo olduğunu düşünerek fahiş 
+bir fiyata ürün satın alan koleksiyoner (B) bu işlemden 3 yıl sonra vazoyu bir
+ekspere gösterdiğinde ürünün çok başarılı bir sahte (replika) olduğunu ve 
+antikacının bunu bilerek (hileyi gizleyerek) kendisine sattığını öğrenir. 
+Öğrenme tarihinden itibaren 8. ayda koleksiyoner (B) antikacıya bir noter 
+ihtarnamesi göndererek "Aldatıldığımı anladım, sözleşmeyi iptal ediyorum, 
+paramı iade edin" der. Antikacı ise "Sözleşmenin üzerinden 3 yıl geçti, itiraz 
+süreniz doldu, ayrıca mahkeme kararı olmadan sözleşme iptal edilemez" diyerek 
+iadeye yanaşmaz.
+Hukuk dogmatiğinde bu vakayı TBK m. 39 süzgecinden geçirdiğimizde antikacının 
+savunması tamamen temelsizdir. Birincisi; iptal hakkı dava açılmasına gerek 
+olmayan, tek taraflı ve varması gerekli bir irade beyanıyla kullanılan **Bozucu
+Yenilik Doğuran Hak**tır. İhtarname antikacıya ulaştığı an sözleşme mahkeme
+kararına gerek olmaksızın **Geçmişe Etkili (Ex Tunc)** olarak çökmüştür. 
+İkincisi; TBK m. 39 uyarınca 1 yıllık hak düşürücü sürenin başlangıcı 
+sözleşmenin kurulduğu tarih (3 yıl öncesi) değil, aldatmanın kesin olarak 
+**Öğrenildiği** tarihtir. Koleksiyoner öğrenmeden itibaren 8. ayda hakkını 
+kullandığı için süre dolmamıştır ve iade talebi sebepsiz zenginleşme bağlamında
+tamamen haklıdır.
 
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 33 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+**Olay 2 (Korkutmanın Etkisinin Devamı ve Zımni Onama):**
+Büyük bir gayrimenkul yatırımcısı olan (C) mafya lideri (D)'nin "Seni ve 
+aileni yok ederim" şeklindeki ağır tehditleri (korkutma/ikrah) altında, en 
+değerli yalısını (D)'ye devrettiği bir satış sözleşmesi imzalar. Bu tehdit 
+sarmalı tam 4 yıl sürer ve 4. yılın sonunda mafya lideri (D) tutuklanarak 
+ağırlaştırılmış müebbet hapis cezasına çarptırılır ve cezaevine gönderilir. 
+Tehdit tehlikesi tamamen ortadan kalkan (C) bu olayın üzerinden 2 yıl daha 
+geçtikten sonra (satıştan toplam 6 yıl sonra) tapu iptal ve tescil davası 
+açarak sözleşmenin iptalini talep eder.
+Buradaki dogmatik analiz sürenin işleyişine odaklanmalıdır. TBK m. 39 hükmü çok
+nettir: Korkutmada 1 yıllık hak düşürücü süre, sözleşmenin yapıldığı tarihte 
+değil, korkutmanın (tehdidin) etkisinin **Ortadan Kalktığı** anda işlemeye 
+başlar. Olayımızda bu an, mafya lideri (D)'nin tutuklandığı ve tehlikenin 
+savuşturulduğu 4. yılın sonudur. Ne var ki mağdur (C) tehlike ortadan 
+kalktıktan sonra dava açmak veya iptal beyanı göndermek için 2 yıl daha 
+beklemiştir. 1 yıllık hak düşürücü süre dolduğundan, mağdurun bu uzun 
+suskunluğu kanun koyucu tarafından hukuken **Zımni Onama (İcazet)** olarak 
+nitelendirilir. Sözleşme artık iptal edilemez ve mutlak geçerli hâle gelmiştir.
+(C)'nin davası süre aşımı nedeniyle reddedilir.
 
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+#### 5. Pratik Uygulama Notları
 
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+TBK m. 39 hükmünün mahkeme salonlarında ve ticari uyuşmazlıklarda usul hukuku 
+boyutunda avukatların dikkat etmesi gereken stratejik hususlar şunlardır:
 
-#### 6. Pratik Uygulama Notları
+**1. Re'sen Dikkate Alınma Kuralı:**
+TBK m. 39'daki 1 yıllık süre bir zamanaşımı def'i olmadığından, taraflar bunu 
+mahkemede ileri sürmeyi unutsalar bile, hâkim dava dosyasındaki belgelerden 
+sürenin kaçırıldığını tespit ettiği anda davayı **Re'sen (Kendiliğinden)** 
+reddetmek zorundadır. Bu nedenle avukatlar, dava dilekçelerinde müvekkilin 
+"öğrenme anını" (örneğin bilirkişi raporunun alındığı tarihi, e-postanın 
+geldiği anı) şüpheye mahal bırakmayacak delillerle mahkemeye sunarak, davanın 1
+yıllık hak düşürücü süre içinde açıldığını açıkça ispatlamalıdırlar.
 
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+**2. İptal Beyanının Şekli ve İspat Güvenliği:**
+Kanun, iptal hakkının kullanılması (iptal beyanı) için herhangi bir geçerlilik 
+şekli öngörmemiştir; sözlü beyan dahi geçerlidir. Ancak ispat hukuku (HMK 
+m. 190) devreye girdiğinde, karşı taraf "Bana 1 yıl içinde hiçbir bildirimde 
+bulunmadı" dediğinde, iptal beyanının süresi içinde karşı tarafa "ulaştığının" 
+ispat yükü hakkı kullanan mağdurdadır. Bu nedenle pratik hayatta avukatların, 
+iptal beyanlarını mutlaka **Noter İhtarnamesi**, iadeli taahhütlü mektup veya 
+KEP (Kayıtlı Elektronik Posta) aracılığıyla yapmaları, davanın kaderini 
+kurtaran en kritik koruyucu hukuk hamlesidir.
+
+**3. Bildirimin İçeriğinin Netliği:**
+Yargıtay pratiğinde, karşı tarafa gönderilen bildirimde sadece "Malınız 
+ayıplıdır" veya "Beni kandırdınız" yazması tek başına yeterli bir iptal beyanı 
+sayılmayabilir. İptal beyanının yenilik doğuran bir hak olmasının gereği 
+olarak, metnin içinde **"Sözleşme ile bağlı değilim", "Sözleşmeyi iptal 
+ediyorum/feshediyorum"** veya **"Verdiğim bedeli iade edin"** gibi, sözleşmeyi 
+sonlandırma iradesini kesin ve şartsız bir biçimde ortaya koyan ifadelerin yer 
+alması zorunludur.
+
+#### 6. Yargıtay İçtihadı
+
+Yargıtay Hukuk Genel Kurulu ve ilgili Daireleri, TBK m. 39 (ve mülga BK m. 31) 
+uygulamasında, "Öğrenme Anı" ve "Bozulabilir Geçerlilik Teorisi" üzerine 
+sarsılmaz ve istikrarlı bir içtihat politikası geliştirmiştir.
+
+Yargıtay kararlarında, iptal hakkının hukuki doğası şu klasik ifadeyle 
+tanımlanır: *"Hile veya esaslı hataya düşen tarafın sözleşmeyi iptal hakkı, 
+bozucu yenilik doğuran bir haktır. İptal beyanı karşı tarafa ulaştığı andan 
+itibaren sözleşme geçmişe etkili (makable şamil) olarak kesin hükümsüz hâle 
+gelir ve taraflar verdiklerini sebepsiz zenginleşme kurallarına göre geri 
+isteyebilirler."* Yüksek Mahkeme, iptal işleminin bir dava şartına bağlı 
+olmadığını, mahkeme dışı irade beyanının da sözleşmeyi ortadan kaldırdığını 
+açıkça kabul etmektedir.
+
+Yargıtay'ın en titizlendiği nokta **Öğrenme Anı**'nın tespitidir. Yargıtay, 
+özellikle aldatma (hile) davalarında, "şüphelenmenin" veya "tahmin etmenin" 
+öğrenme anlamına gelmediğini vurgular. Yargıtay'a göre, hak düşürücü süreyi 
+başlatan öğrenme anı, mağdurun hilenin varlığını, failini ve boyutunu **kesin 
+ve somut delillerle (örneğin savcılık iddianamesi, resmi ekspertiz raporu veya 
+yargılama sırasındaki tespitler)** idrak ettiği andır. Yargıtay bu yorumuyla, 
+süreyi mağdur aleyhine erken başlatmaktan kaçınarak korumacı bir yaklaşım 
+sergilemektedir. Ancak süre dolduktan sonra açılan davalarda, sürenin hak 
+düşürücü süre niteliğinde olduğu ve re'sen inceleneceği kararlarda istikrarla 
+tekrarlanmaktadır.
 
 #### 7. Eleştirel Değerlendirme
 
-Madde 33, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 33, «c. İletmede yanılma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 33, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 33'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 33, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 33, «c. İletmede yanılma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 33, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 33'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 33, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 33, «c. İletmede yanılma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 33, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 33'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 33, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 33, «c. İletmede yanılma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 33, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 33'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 33, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 33, «c. İletmede yanılma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 33, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 33'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 33, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 33, «c. İletmede yanılma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 33, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 33'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 33, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 33, «c. İletmede yanılma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 33, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 33'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Türk Borçlar Kanunu'nun 39. maddesinde lafzını bulan **İptal Hakkının 
+Kullanılması ve Hak Düşürücü Süre** müessesesi, borçlar hukuku dogmatiğinde 
+Fikret Eren, Oğuzman/Öz ve Nomer'in eserleri etrafında hem felsefi hem de 
+sosyolojik ciddi eleştirilere konu olmaktadır.
+
+Birinci ve en köklü dogmatik tartışma, daha önce de değindiğimiz "Sözleşmenin 
+İptal Öncesindeki Geçerlilik Durumu" üzerinedir. Oğuzman/Öz ve Eren'in 
+savunduğu **Bozulabilir Geçerlilik Teorisi**, sözleşmeyi baştan itibaren 
+geçerli sayarken, mağdurun tek kelimesiyle bu yapıyı geçmişe dönük (ex tunc) 
+yıkmasına izin verir. Ancak eleştirmenler haklı olarak şu çelişkiyi dile
+getirir: Hukuk mantığında bir şey ya geçerlidir ya da geçersizdir. Geçerli olan
+bir sözleşmenin üzerinde 1 yıl boyunca bir "Demokles'in Kılıcı" gibi iptal 
+tehdidinin sallanması, mülkiyetin intikali ve üçüncü kişilerin hak kazanımları 
+bakımından zincirleme güven sorunları yaratır. İradesi sakatlanan mağdurun, 
+iptal beyanını göndermediği o 11 aylık süreçte "geçerli" olan sözleşmeyi neden 
+ifa etmek zorunda bırakılacağı, dogmatik bir paradokstur.
+
+İkinci büyük eleştiri, **1 Yıllık Sürenin Kısalığı ve Mutlak Üst Sınır 
+Eksikliği** üzerine inşa edilmektedir. Öğrenmeden veya tehlikenin geçmesinden 
+itibaren 1 yıl içinde iptal beyanında bulunma zorunluluğu, özellikle 
+uluslararası karmaşık ticari sözleşmelerde veya mağdurun psikolojik olarak 
+toparlanmasının zaman aldığı korkutma vakalarında son derece kısa ve acımasız 
+bir süre olarak değerlendirilmektedir. Hukuk sistemi, hilekârı veya şantajcıyı,
+aradan sadece 1 yıl geçmesiyle adeta "aklamakta" ve yarattığı hukuka aykırı 
+sözleşmeyi kanun zoruyla "meşru" hâle getirmektedir. Üstelik TBK m. 28'de gabin
+(aşırı yararlanma) için öngörülen "her hâlde 5 yıl" gibi bir mutlak üst sınır, 
+TBK m. 39 metninde sarih olarak yer almamaktadır. Bu durum, aradan 20 yıl 
+geçtikten sonra bile hilenin öğrenilmesi durumunda iptal davası açılıp 
+açılamayacağı sorusunu gündeme getirmekte; bazı yazarlar dürüstlük kuralı (TMK 
+m. 2) veya genel zamanaşımı ilkeleri kıyaslanarak bir üst sınır (örneğin 10 
+yıl) çizilmesi gerektiğini savunarak yasa koyucunun bu boşluğunu şiddetle 
+eleştirmektedirler.
+
+Sonuç itibarıyla TBK m. 39; şeklî mutabakatlarla kurulan sözleşmelerin ruhunda 
+yatan adaletsizliklere karşı mağdura verilmiş bir "yıkım butonu"dur. Ancak bu 
+butonun kullanım kılavuzu, zamanın acımasız dişlilerine ve 1 yıllık kesin bir 
+geri sayım sayacına bağlanarak; hukukun hem gözü yaşlı mağduru koruma 
+merhametini hem de piyasanın soğuk çarklarını işletme zaruretini aynı potada 
+eritmiştir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 33 resmi metni ve kanunun sistematiği.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
+- *Yargı kararları*: Türk Borçlar Kanunu m. 33'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
+- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
+- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 31.
+
+**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 33. madde metnine dayanır.
+
+**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
+
+**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.

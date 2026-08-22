@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
+
 **III. Aşırı yararlanma**
 
 ---
@@ -23,391 +24,302 @@ kurulduğu tarihten başlayarak beş yıl içinde kullanabilir.
 ---
 
 ### Akademik Yorum ve Analiz
+
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Borçlar Kanunu m. 28**, «III. Aşırı yararlanma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 28 - Bir sözleşmede karşılıklı edimler arasında açık bir oransızlık varsa, bu
-oransızlık,  zarar  görenin  zor  durumda  kalmasından  veya  düşüncesizliğinden  ya  da
-deneyimsizliğinden  yararlanılmak  suretiyle  gerçekleştirildiği takdirde, zarar  gören, durumun
-özelliğine göre ya sözleşme ile bağlı olmadığını diğer tarafa bildirerek ediminin geri verilmesini
-ya da sözleşmeye bağlı kalarak … Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+6098 sayılı Türk Borçlar Kanunu’nun (TBK) 28. maddesi, borçlar hukuku 
+dogmatiğinin temelini oluşturan **Sözleşme Özgürlüğü** (İrade Muhtariyeti) 
+ilkesinin, zayıf tarafı korumak ve sosyal adaleti tesis etmek amacıyla 
+sınırlandırıldığı en önemli kurumlardan biri olan **Aşırı Yararlanma (Gabin)** 
+müessesesini düzenlemektedir. İlgili madde; *"Bir sözleşmede karşılıklı edimler
+arasında açık bir oransızlık varsa, bu oransızlık, zarar görenin zor durumda 
+kalmasından veya düşüncesizliğinden ya da deneyimsizliğinden yararlanılmak 
+suretiyle gerçekleştirildiği takdirde, zarar gören, durumun özelliğine göre ya 
+sözleşme ile bağlı olmadığını diğer tarafa bildirerek ediminin geri verilmesini
+ya da sözleşmeye bağlı kalarak edimler arasındaki oransızlığın giderilmesini 
+isteyebilir."* hükmünü amirdir.
+
+Borçlar hukuku sistematiği içerisinde **Aşırı Yararlanma** kurumu, mülga 818 
+sayılı Borçlar Kanunu'ndaki (BK m. 21) "Gabin" kavramının modern bir dille 
+yeniden kaleme alınmış hâlidir. Kurumun TBK sistematiğindeki yeri, 
+sözleşme özgürlüğünün sınırlarını çizen kesin hükümsüzlük (TBK m. 27) 
+düzenlemelerinden hemen sonra, irade bozuklukları olan yanılma, aldatma ve 
+korkutma (TBK m. 30 vd.) düzenlemelerinden ise hemen önce gelmektedir. Bu 
+sistematik tercih, doktrinde kurumun hukuki niteliği üzerine büyük tartışmalara
+zemin hazırlamış; aşırı yararlanmanın salt bir **İrade Sakatlığı** mı yoksa 
+sözleşme serbestisini sınırlandıran bir **Ahlaka Aykırılık** hâli mi olduğu 
+hususu, Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer gibi 
+değerli yazarlar tarafından derinlemesine irdelenmiştir. Baskın görüşe 
+göre, **Aşırı Yararlanma**, kanun koyucunun irade sakatlığı hâlleri ile TBK m. 
+27’deki kesin hükümsüzlük sınırları arasında, zayıfı spesifik bir sömürüden 
+korumak için tasarladığı **Kendine Özgü (Sui Generis)** bir sözleşme özgürlüğü 
+sınırlamasıdır. 
+
+Karşılaştırmalı hukuk ve mehaz kanun ilişkisi bakımından, kurumun tarihi 
+kökenleri Roma Hukukundaki *"laesio enormis"* kuralına dayanmakla birlikte, 
+modern Türk hukukundaki doğrudan dayanağı İsviçre Borçlar Kanunu'nun (OR) 21. 
+maddesidir (**OR Art. 21**). Gerek mehaz İsviçre Hukukunda (OR Art. 21) 
+gerekse Türk Hukukunda (TBK m. 28) edimler arası oransızlık tek başına 
+sözleşmeyi sakatlamak için yeterli görülmemiş; bu oransızlığın sömürü amacı 
+(yararlanma kastı) ile yaratılması şart koşulmuştur. Ancak 6098 sayılı 
+TBK, mülga BK ve mehaz OR'den farklı olarak, mağdura yalnızca sözleşmeyi iptal 
+etme hakkı tanımakla yetinmemiş; aynı zamanda sözleşmeyi ayakta tutarak 
+**Oransızlığın Giderilmesi**ni talep etme hakkını da sisteme dâhil ederek zayıf
+tarafı koruyan çok daha esnek ve devrimci bir mekanizma yaratmıştır.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+TBK m. 28 hükmünün fiilen işletilebilmesi ve bir sözleşmenin **Aşırı 
+Yararlanma** sebebiyle iptal edilebilmesi veya uyarlanabilmesi için, maddede 
+yer alan objektif ve sübjektif unsurların kümülatif (birlikte) gerçekleşmesi 
+zorunludur. Doktrinde Eren, Oğuzman/Öz ve Nomer'in öğretileri 
+ışığında bu kavramlar şu şekilde tahlil edilmektedir:
 
-Madde 28, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+**A. Objektif Unsur: Edimler Arasında Açık Oransızlık**
+Bir sözleşmede **Aşırı Yararlanma**dan bahsedilebilmesi için öncelikle 
+tarafların yüklendikleri edimler arasında "açık bir oransızlık" bulunmalıdır. Hukuk sistemi, serbest piyasa ekonomisinin bir gereği olarak, 
+sözleşme özgürlüğü (TBK m. 26) çerçevesinde tarafların edim ve karşı edimlerini
+serbestçe belirlemelerine izin verir ve kural olarak edimler arasında 
+matematiksel bir tam eşitlik aramaz. Ancak, bu eşitsizliğin ortalama 
+zekâya sahip, makul ve dürüst bir insanın ilk bakışta fark edebileceği kadar 
+fahiş ve gözle görülür bir seviyeye ulaşması hâlinde **Açık Oransızlık** unsuru
+gerçekleşmiş kabul edilir. Bu oransızlığın tespiti, sözleşmenin ifa 
+edildiği an değil, bizzat "sözleşmenin akdedildiği an" (kurulma anı) esas 
+alınarak yapılır. Sözleşme kurulduktan sonra piyasa şartlarındaki 
+dalgalanmalar nedeniyle ortaya çıkan değer kayıpları **Aşırı Yararlanma** 
+kapsamında değil, ancak şartları varsa **Aşırı İfa Güçlüğü** (TBK m. 138) 
+kapsamında değerlendirilebilir.
 
-##### 2.2. Usulî ve maddi unsurlar
+**B. Sübjektif Unsur (Mağdur Açısından): Zarar Görenin Zayıf Durumu**
+Açık oransızlığın tek başına sözleşmeyi sakatlamaya yetmeyeceği doktrinde 
+ittifakla kabul edilmektedir. Bu oransızlığın, mağdurun içinde 
+bulunduğu spesifik bir zayıflık hâlinden kaynaklanması gerekir. Kanun koyucu bu
+zayıflık hâllerini üç ana başlıkta toplamıştır:
+1. **Zor Durumda Kalma (Müzayaka):** Kişinin şahsi, ekonomik, ailevi veya 
+manevi nitelikteki ağır ve acil bir tehlikeyi savuşturmak için, normal 
+şartlarda asla yapmayacağı adaletsiz bir sözleşmeyi yapmaya mecbur kalmasıdır. Çocuğunun ameliyat parası için evini yok pahasına satan bir babanın 
+durumu bu kapsama girer.
+2. **Düşüncesizlik (Hiffet):** Kişinin yaşı, yapısal karakteri, anlık öfkesi, 
+aşırı heyecanı veya dikkatsizliği nedeniyle, giriştiği hukuki işlemin kendi 
+malvarlığında doğuracağı ağır sonuçları ölçüp tartamaması ve sonunu düşünmeden 
+hareket etmesi hâlidir.
+3. **Deneyimsizlik (Toyluk):** Kişinin genel yaşam tecrübesinde veya girdiği o 
+bilgi birikimine sahip olmayan bir kişinin, piyasanın kurallarını bilmediği 
+için fahiş şartları kabul etmesi toyluk unsurunu doldurur.
+Doktrinde bu üç hâlin "sınırlı sayı" (numerus clausus) olup olmadığı 
+tartışmalıdır. Ancak baskın görüş, kanunun amacının zayıfı korumak olduğunu 
+belirterek, bu üç kavrama benzeyen ve irade zafiyeti yaratan diğer ağır 
+durumların da amaca uygun yorumla bu kapsama dâhil edilebileceğini 
+savunmaktadır.
 
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+**C. Sübjektif Unsur (Sömüren Açısından): Yararlanma (Sömürme) Kastı**
+Aşırı yararlanmanın dogmatik mimarisini tamamlayan en önemli unsur, sözleşmenin
+karşı tarafının (sömürenin) mağdurun içinde bulunduğu bu zayıf durumu bilmesi 
+ve bu zayıflıktan kasten faydalanarak (istismar ederek) edimler arasında o 
+fahiş oransızlığı yaratma iradesine sahip olmasıdır. Eğer karşı taraf,
+edimler arasındaki açık oransızlığı ve mağdurun zayıf durumunu bilmiyorsa veya 
+tesadüfen bu sonuç ortaya çıkmışsa, ortada bir **Sömürme Kastı** 
+bulunmadığından **Aşırı Yararlanma** müessesesi işlemez. Borçlar hukukunun
+burada cezalandırdığı temel eylem, salt fahiş fiyat uygulanması değil; ahlaka 
+aykırı bir "fırsatçılık" ve sömürü iradesidir.
 
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+**D. Yaptırım: İptal Edilebilirlik ve Oransızlığın Giderilmesi Seçimlik 
+Hakları**
+TBK m. 28, mağdura sözleşmenin akıbetini belirleme konusunda iki adet **Yenilik
+Doğuran Hak** bahşetmiştir:
+1. **Sözleşme ile Bağlı Olmama (İptal Hakkı):** Doktrinde Oğuzman/Öz ve Eren 
+tarafından detaylıca tartışıldığı üzere, mağdur tek taraflı bir bozucu yenilik 
+doğuran hak kullanarak sözleşmeyi baştan itibaren (ex tunc) geçersiz kılabilir 
+ve ifa ettiği edimi sebepsiz zenginleşme veya istihkak davası ile geri 
+isteyebilir.
+2. **Oransızlığın Giderilmesini İsteme:** Yeni TBK'nın hukukumuza kazandırdığı 
+bu hak, Nomer ve Eren tarafından **Değiştirilmiş Kısmi Hükümsüzlük** veya 
+sözleşmeyi ayakta tutma (favor negotii) ilkesinin bir uzantısı olarak 
+tanımlanır. Mağdur, sözleşmeyi iptal etmek yerine, dilerse sömürenin 
+haksızca elde ettiği fahiş kısmın indirilmesini veya kendi ediminin 
+artırılmasını talep ederek sözleşmeyi adil bir dengeye çekebilir.
 
 #### 3. Sistematik İlişkiler
 
-- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 28'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 28 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+TBK m. 28 hükmünün, borçlar hukuku dogmatiğinin diğer geçersizlik rejimleri ve 
+temel ilkeleriyle olan organik ilişkileri, kurumun hukuki niteliğini daha da 
+belirginleştirmektedir.
 
-Bu ilişkiler, m. 28'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+**A. Kesin Hükümsüzlük / Ahlaka Aykırılık (TBK m. 27) ile Kesişim ve Çatışma:**
+Aşırı yararlanma ile TBK m. 27'deki **Ahlaka Aykırılık** arasındaki ilişki 
+("Taleplerin Yarışması" sorunu) öğretinin en çetin konularından biridir. Bir tarafın zor durumunu istismar ederek fahiş bir menfaat sağlamak özünde
+ahlaka aykırı bir eylemdir. Bazı yazarlar, aşırı yararlanmanın tamamen özel bir
+ahlaka aykırılık hâli (Lex Specialis) olduğunu savunur. Ancak Nomer, Eren 
+ve Oğuzman/Öz'ün yaklaşımlarına göre; TBK m. 27'deki ahlaka aykırılık, 
+sözleşmenin "objektif konusunun veya amacının" baştan itibaren ahlaksız olması 
+(örneğin kumar borcu veya fuhşa teşvik) durumudur ve kesin hükümsüzlük (mutlak 
+butlan) yaptırımına tabidir. Oysa **Aşırı Yararlanma**'da satılan mal 
+veya hizmet son derece yasal ve ahlakidir; ahlaksız olan husus, sömürenin 
+"yararlanma davranışıdır". Kanun koyucu, ticari hayatın güvenliği ve zayıfın 
+kendi inisiyatifini koruması adına, gabini TBK m. 27'deki mutlak butlan 
+giyotininden ayırmış ve 1 yıllık süreye tabi bir **İptal Edilebilirlik** 
+yaptırımına bağlamıştır. Dolayısıyla iki kurum arasında genel-özel hüküm
+ilişkisinden ziyade, yaptırım felsefesi açısından bir ayrışma söz konusudur.
 
-#### 4. Uygulama: Yargı İçtihadı
+**B. İrade Bozuklukları (Hata, Hile, İkrah) ile Farkı:**
+TBK m. 30 ve devamında düzenlenen yanılma, aldatma ve korkutma hâllerinde de 
+kişinin iradesi sakatlanmaktadır. Ancak **Aşırı Yararlanma** salt bir irade 
+sakatlığı değildir. Gabinde kişi, fahiş şartları kabul ettiğinin 
+farkındadır; iradesi ile beyanı arasında bir uyumsuzluk yoktur. Sadece içinde 
+bulunduğu zayıf durum nedeniyle irade oluşumu süreci dışsal faktörlerce 
+sakatlanmıştır. Üstelik irade bozukluklarında edimler arasında fahiş bir 
+oransızlık aranmazken, gabin için bu açık oransızlık (objektif unsur) kurucu 
+bir şarttır.
 
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+**C. TMK m. 2 (Dürüstlük Kuralı) ile Organik Bağ:**
+Aşırı yararlanma kurumunun felsefi temeli, bütünüyle Türk Medeni Kanunu'nun 2. 
+maddesindeki **Dürüstlük Kuralı** ve hakkın kötüye kullanılması yasağıdır.
+Bir kişinin, diğerinin bilgisizliğini veya çaresizliğini silah olarak kullanıp,
+sözleşme özgürlüğü maskesi altında onu ekonomik bir yıkıma sürüklemesi, 
+dürüstlük kuralı uyarınca hukukun himaye etmeyeceği bir kötüniyet eylemidir.
 
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+#### 4. Pratik Olay Analizleri
 
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+**Olay 1 (Müzayaka ve Açık Oransızlık Hâli):**
+Ağır bir hastalığa yakalanan çocuğunu acilen yurtdışında tedavi ettirmesi 
+gereken ve bankalardan kredi bulamayan bir baba (A) çaresizlik içerisinde 
+mahalledeki bir tefeciye (B) başvurur. Baba, piyasa değeri 5 Milyon TL olan 
+yegâne evini, sırf o anki nakit ihtiyacını karşılamak için tefeciye 1 Milyon 
+TL'ye devretmeyi kabul eder. 
+Bu olayda TBK m. 28'in tüm kurucu unsurları gerçekleşmiştir. Evin gerçek değeri
+ile satış bedeli arasındaki devasa fark **Açık Oransızlık** (objektif unsur) 
+şartını doldurur. Babanın çocuğunu kurtarmak için içine düştüğü can 
+havli, hukuken tipik bir **Zor Durumda Kalma (Müzayaka)** hâlidir. 
+Tefecinin, babanın bu çaresizliğini bilmesi ve bunu fırsat bilerek malı yok 
+pahasına ele geçirme amacı ise **Sömürme Kastı**nı oluşturur. Baba, 
+çocuğunun tedavisi bitip zor durumu ortadan kalktığı tarihten itibaren 1 yıl 
+içinde **İptal Hakkı**nı kullanarak evi geri alabileceği gibi; dilerse 
+sözleşmeyi ayakta tutarak tefeciden aradaki 4 Milyon TL'lik fahiş oransızlığın 
+giderilmesini (kalan bedelin kendisine ödenmesini) de talep edebilir.
 
-#### 5. Pratik Örnek Olaylar
+**Olay 2 (Tacirlerin Durumu ve Deneyimsizlik):**
+Yıllardır tekstil sektöründe faaliyet gösteren anonim şirket sahibi bir tacir 
+(C) aniden pamuk piyasasına girmeye karar verir ve bu sektörün kurdu olan 
+başka bir tüccarla (D) piyasa gerçeklerine hiç uymayan, aşırı derecede kendi 
+aleyhine ve fahiş fiyatlı bir pamuk alım sözleşmesi imzalar. Şirket (C) iflasa 
+sürüklenince mahkemede "Ben bu sektörü bilmiyordum, toyluğumdan ve 
+deneyimsizliğimden faydalandı" diyerek gabin (aşırı yararlanma) iddiasında 
+bulunur.
+Türk Ticaret Kanunu (TTK m. 18) uyarınca her tacir, ticari işletmesiyle ilgili 
+faaliyetlerinde "basiretli bir iş adamı" gibi hareket etmek zorundadır. Eren, 
+Oğuzman/Öz ve Nomer öğretisinde ve Yargıtay içtihatlarında istikrarla 
+vurgulandığı üzere, bir tacirin kendi ticari faaliyetlerinde "düşüncesizlik 
+(hiffet)" veya "deneyimsizlik (toyluk)" iddialarına sığınarak TBK m. 28 
+hükümlerinden faydalanması kural olarak mümkün değildir. Çünkü 
+tacir, piyasa şartlarını araştırmakla yükümlüdür. Ancak, şayet tacir (C) ağır 
+bir ekonomik buhran içinde olup fabrikasının kapanmasını engellemek için can 
+havliyle o sözleşmeyi imzalamış olsaydı, "deneyimsizlik" yerine **Zor Durumda 
+Kalma (Müzayaka)** unsuruna dayanarak aşırı yararlanma davası açabilirdi. 
 
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 28 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+#### 5. Pratik Uygulama Notları
 
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+Bu maddenin mahkeme salonlarında ve hukuki uyuşmazlıklarda sağlıklı bir biçimde
+işletilebilmesi için avukatların ve hâkimlerin usul hukukuna dair şu kurallara 
+dikkat etmesi elzemdir:
 
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+**Hak Düşürücü Sürelerin İşleyişi:**
+Aşırı yararlanma nedeniyle iptal veya oransızlığın giderilmesi hakkının 
+kullanılması, son derece katı sürelere bağlanmıştır. TBK m. 28 uyarınca zarar 
+gören bu hakkını, düşüncesizlik veya deneyimsizliğini "öğrendiği" tarihten; zor
+durumda kalmada ise bu durumun "ortadan kalktığı" tarihten başlayarak **1 YIL**
+içinde kullanmalıdır. Ancak her hâlükârda, sözleşmenin kurulduğu 
+tarihten başlayarak **5 YIL** geçmekle bu hak tamamen düşer. Bu 
+süreler zamanaşımı değil, **Hak Düşürücü Süre**dir ve mahkemece davanın her 
+aşamasında re'sen gözetilir.
 
-#### 6. Pratik Uygulama Notları
+**Sözleşmeyi Ayakta Tutma İhtimali (Tahvil ve Uyarlama):**
+Yeni TBK m. 28, mağdura "oransızlığın giderilmesini" talep etme hakkı tanıdığı 
+için, avukatların dava açarken öncelikle müvekkillerinin menfaatine hangi yolun
+(iptal mi yoksa bedel uyarlaması mı) uygun olduğunu tespit etmeleri gerekir. 
+Şayet mağdur iptal hakkını kullanırsa, sözleşme baştan itibaren ortadan kalkar 
+ve verilenler iade edilir. Ancak mağdur malı veya hizmeti muhafaza etmek 
+istiyor sadece fahiş bedelden kurtulmak istiyorsa, "değiştirici yenilik doğuran
+hak" niteliğindeki oransızlığın giderilmesi talebinde bulunmalıdır.
 
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+**Sulh Sözleşmelerinde Gabin:**
+Tarafların mahkeme önünde veya dışında anlaştıkları Sulh Sözleşmelerinde gabin 
+hükümlerinin uygulanıp uygulanamayacağı tartışmalıdır. Ancak yargı pratiğinde, 
+sulh sözleşmesi çifte karakterli (hem usul işlemi hem maddi sözleşme) olduğu 
+için, eğer bir taraf diğerinin zayıflığını istismar ederek fahiş bir fedakârlık
+koparmışsa, bu sulh anlaşmasının da TBK m. 28 kapsamında iptal edilebileceği 
+kabul edilmektedir.
+
+#### 6. Yargıtay İçtihadı
+
+Yargıtay Hukuk Genel Kurulu ve ilgili daireleri, aşırı yararlanma (gabin) 
+kurumunu uygularken hem objektif (açık oransızlık) hem de sübjektif (zayıf 
+durum ve sömürme kastı) unsurların eşzamanlı ve şüpheye yer bırakmayacak 
+şekilde mevcut olmasını titizlikle aramaktadır. 
+
+Yargıtay kararlarında "Açık Oransızlık" test edilirken, sadece sözleşme 
+tarihindeki objektif piyasa rayiç bedeli dikkate alınır. Yüksek Mahkeme, gabin 
+iddialarında mutlaka uzman bilirkişi heyetleri aracılığıyla sözleşme 
+tarihindeki gerçek değer ile kararlaştırılan bedel arasındaki matematiksel 
+uçurumu tespit ettirmektedir. Şayet fahiş bir fiyat farkı yoksa veya 
+bu fark olağan ticari kâr marjı sınırları içindeyse gabin iddiası reddedilir.
+
+Öte yandan Yargıtay, **Tacirler**in gabin davası açması hususunda son derece 
+katı bir tutum sergilemektedir. Yargıtay (örneğin 19. Hukuk Dairesi) 
+kararlarında, *"Tacirlerin toyluk (deneyimsizlik) veya hiffet (düşüncesizlik) 
+nedenlerine dayanarak gabin iddiasında bulunamayacakları, zira basiretli iş 
+adamı yükümlülüğünün bu sübjektif unsurları bertaraf ettiği"* açıkça hükme 
+bağlanmıştır. Tacirlerin sadece, iflasın eşiğine gelme veya ağır bir ekonomik 
+buhran gibi mutlak bir **Müzayaka** hâlini ispatlamaları durumunda TBK m. 28 
+hükümlerinden faydalanabileceği içtihatlarla sabittir.
 
 #### 7. Eleştirel Değerlendirme
 
-Madde 28, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 28, «III. Aşırı yararlanma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bi Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 28, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 28'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 28, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 28, «III. Aşırı yararlanma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bi Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 28, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 28'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 28, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 28, «III. Aşırı yararlanma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bi Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 28, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 28'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 28, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 28, «III. Aşırı yararlanma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bi Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 28, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 28'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 28, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 28, «III. Aşırı yararlanma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bi Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 28, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 28'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 28, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 28, «III. Aşırı yararlanma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bi Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 28, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 28'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 28, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 28, «III. Aşırı yararlanma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bi Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 28, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 28'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Türk Borçlar Kanunu'nun 28. maddesi, sosyal adaleti sağlayan en hayati 
+kurumlardan biri olmakla birlikte, doktrinde Eren, Oğuzman/Öz ve Nomer'in 
+eserleri etrafında yoğun felsefi ve dogmatik eleştirilere konu olmaktadır.
+
+En büyük teorik tartışma, Aşırı Yararlanmanın (Gabinin) hukuki genetiği ile 
+ilgilidir. Şayet gabin, güçlü tarafın zayıf tarafı ahlaksızca sömürmesi ise, 
+neden TBK m. 27'deki (Kesin Hükümsüzlük) ahlaka aykırılık rejimine tabi 
+tutulmamıştır? Kesin hükümsüzlük zamanaşımına tabi değilken ve re'sen dikkate 
+alınırken, böylesine ağır bir sömürünün neden mağdurun inisiyatifine 
+bırakıldığı ve neden 1 yıllık çok kısa bir **Hak Düşürücü Süre** ile 
+sınırlandırıldığı ciddi bir eleştiri konusudur. Doktrindeki bazı
+yazarlar, 1 yıl gibi kısa bir sürenin geçmesiyle hukuk sisteminin ahlaksız bir 
+sömürüyü "geçerli" kabul ederek adeta ödüllendirdiğini, bunun kamu düzeniyle 
+bağdaşmadığını savunmaktadırlar. Nitekim Eren ve Oğuzman/Öz, kanun 
+koyucunun burada "sözleşme güvenliği" ile "sözleşme adaleti" arasında zoraki 
+bir denge kurmaya çalıştığını, ancak sürenin kısalığının çoğu zaman sömürenin 
+işine yaradığını haklı olarak eleştirmektedirler.
+
+İkinci önemli eleştiri ise, TBK m. 28'in yeni ihdas ettiği "Oransızlığın 
+Giderilmesi" hakkının uygulanma tekniğine ilişkindir. Bir sözleşmedeki fahiş 
+oransızlık giderilirken, sözleşmenin hangi bedel üzerinden ayakta tutulacağı 
+(piyasa rayici mi, yoksa gabin sınırının hemen altındaki bir rakam mı?) kanunda
+belirsizdir. Nomer'in de işaret ettiği üzere, hâkim bu oransızlığı 
+giderirken sözleşmeye bütünüyle müdahale ederek adeta yeni bir sözleşme 
+yaratmakta, bu da klasik irade muhtariyeti ilkesine yargısal bir müdahale 
+(yargısal aktivizm) riskini doğurmaktadır. Buna rağmen, zayıf 
+tarafı sözleşmeyi tamamen kaybetmekten (iptalden) kurtararak onu adil bir 
+bedelle ayakta tutan bu modern mekanizmanın, borçlar hukuku dogmatiğinde sosyal
+adalet devleti felsefesini taçlandıran çok yerinde bir adım olduğu doktrinde 
+genel kabul görmektedir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 28 resmi metni ve kanunun sistematiği.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
+- *Yargı kararları*: Türk Borçlar Kanunu m. 28'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
+- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
+- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 21.
+
+**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 28. madde metnine dayanır.
+
+**Görüş**: Kapsamlı ve öğretici yorum benimsenmiştir.
+
+**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.

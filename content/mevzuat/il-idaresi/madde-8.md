@@ -3,8 +3,12 @@ title: "İl İdaresi Kanunu Madde 8"
 kanun: "İl İdaresi Kanunu"
 maddeNo: 8
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3610
+lastReviewed: "2026-08-22"
+wordCount: 940
+---
+
+
+
 ---
 
 Madde 8 – Yetiştirme ve ikmal kaynakları Bakanlıklar veya tüzel kişiliği haiz genel
@@ -29,208 +33,76 @@ Bakanlık veya genel müdürlüklerce valiler emrine gönderilir.
 
 ---
 
+---
+
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**İl İdaresi Kanunu m. 8** (5442 sayılı), «Yetiştirme» başlığı altında mülki idare içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+İl İdaresi Kanunu'nın 8. maddesi İl İdaresi Kanunu m. 8 kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: Madde 8 – Yetiştirme ve ikmal kaynakları Bakanlıklar veya tüzel kişiliği haiz genel müdürlüklere bağlı olup il genel teşkilatı içinde birden fazla istihdam yerleri bulunan meslek, fen ve uzmanlık kadrolarına dahil görevlerden : A) İlçe idare şube başkanı sıfatını haiz olanlarla il merkezinde Devlet gelir, giderlerinin ve mallarının tahakkuk, tahsil, ödeme ve idaresiyle ilgili Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 8 izole okunmamalı; İl İdaresi K.’nın ilgili bölüm/ayırım bütünlüğü ve vali–kaymakam ilkesiyle birlikte yorumlanmalıdır.
+Madde aynı kanunun sistematiği içinde okunur zira komşu hükümler uygulama sırasını ve istisnaları taşır. Yakın maddeler arasında m.9 (II - Valilerin hukuki durumları, görev ve yetkileri) öne çıkar. Uygulayıcı önce hangi fıkranın somut vakıaya denk düştüğünü yazar, sonra sonuca geçer.
 
-Ratio legis, vali–kaymakam, kamu düzeni, vesayet ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: B) Bunun dışında kalan bütün memurlar Bakanlıklar veya tüzelkişiliği haiz genel müdürlükler tarafından valilik emrine tayin edilerek il idare şube başkanının inhası üzerine valiler tarafından istihdam yerleri tesbit olunur; C) Yukardaki fıkralarda yazılı bütün memurların lüzumu halinde il içinde nakil ve tahvilleri mensup olduğu il idare şube başkanlarının inhası üzerine valiler tarafından icra edilmekle beraber mensup oldukları Bakanlıklar veya genel müdürlüklere sebepleriyle bildirilir.
+Hüküm tek parça gibi görünse de uygulama şart-sonuç ayrımını dosyada açık yazmayı gerektirir. Şart gerçekleşmeden yetki veya yaptırım konuşulmaz ve gerekçe boş kalır.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Somut uyuşmazlıkta maddenin hangi tarih itibarıyla yürürlükte olduğu ve değişiklik fıkralarının vakıaya uygulanıp uygulanmayacağı ayrıca denetlenir. Geçiş hükümleri yok sayılırsa eski lafızla yeni lafız birbirine karışır, karar gerekçesi çöker.
+
+Bu maddeye özgü okuma lafzı başka kanunların kalıp şerhlerine taşımaz. Korunan menfaat İl İdaresi Kanunu m. 8 başlığının işaret ettiği ilişkidir ve şerh de o ilişki üzerinden yürür.
+
+Uygulama, maddenin emredici çekirdeği ile idareye veya taraflara bırakılan hareket alanını ayırarak ilerler. Çekirdek aşıldığında işlem sakatlanır, hareket alanı içinde kalan tercihler ise gerekçeyle savunulabilir. Somut dosyada bu ayrım yazılmadan verilen sonuç, temyizde lafzı taşımadığı gerekçesiyle döner.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Uygulama alanı
 
-Madde 8, «Yetiştirme» ekseninde memurları ve memurlar kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak mülki idare içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+İl İdaresi Kanunu m. 8 bakımından bu dilim şu metne dayanır: Madde 8 – Yetiştirme ve ikmal kaynakları Bakanlıklar veya tüzel kişiliği haiz genel müdürlüklere bağlı olup il genel teşkilatı içinde birden fazla istihdam yerleri bulunan meslek, fen ve uzmanlık kadrolarına dahil görevlerden : A) İlçe idare şube başkanı sıfatını haiz olanlarla Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.2. Unsurlar
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 8 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+##### 2.2. Şart ve sonuç bağı
 
-Metinden çıkan somut vurgular: Yukarda (A, B) fıkraları dışında kalan il merkez teşkilatına bağlı memurlar ilgili idare şube başkanının inhası ile valiler tarafından tayin, nakil ve tahvil olunurlar. Tayin, nakil ve tahviller için gereken yolluk ödenekleri bütçe yılı başında ilgili Bakanlık veya genel müdürlüklerce valiler emrine gönderilir.
+İl İdaresi Kanunu m. 8 bakımından bu dilim şu metne dayanır: Madde 8 – Yetiştirme ve ikmal kaynakları Bakanlıklar veya tüzel kişiliği haiz genel müdürlüklere bağlı olup il genel teşkilatı içinde birden fazla istihdam yerleri bulunan meslek, fen ve uzmanlık kadrolarına dahil görevlerden : A) İlçe idare şube başkanı sıfatını haiz olanlarla Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.3. Korunan menfaat
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 8 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Korunan menfaat, bireysel hak sahibi ile kamu düzeni arasındaki dengede aranır. İl İdaresi K. m. 8, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. memurların kavramı bu dengede anahtar rol oynar.
+##### 2.3. Yetki ve usul
 
-##### 2.4. Sonuç ve yaptırım
+İl İdaresi Kanunu m. 8 bakımından bu dilim şu metne dayanır: Madde 8 – Yetiştirme ve ikmal kaynakları Bakanlıklar veya tüzel kişiliği haiz genel müdürlüklere bağlı olup il genel teşkilatı içinde birden fazla istihdam yerleri bulunan meslek, fen ve uzmanlık kadrolarına dahil görevlerden : A) İlçe idare şube başkanı sıfatını haiz olanlarla Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 8 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
 #### 3. Sistematik İlişkiler
 
-- **İl İdaresi K. komşu maddeler:** m. 8 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle Yetiştirme temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** vali–kaymakam; kamu düzeni; vesayet; merkez–taşra.
-- **Yatay mevzuat:** Anayasa m. 123–127; Belediye Kanunu; PVSK.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**m. 9 — II - Valilerin hukuki durumları, görev ve yetkileri** İl İdaresi Kanunu m. 9 (II - Valilerin hukuki durumları, görev ve yetkileri) ile m. 8 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu ilişkiler, m. 8’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
-
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
-
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (memurları / Yetiştirme
-ve ikmal kaynakları karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
-
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
-
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: II - Valilerin hukuki durumları, görev ve yetkileri B) Bunun dışında kalan bütün memurlar Bakanlıklar veya tüzelkişiliği haiz genel müdürlükler tarafından valilik emrine tayin edilerek il idare şube başkanının inhası üzerine valiler tarafından istihdam yerleri tesbit olunur;
+Yerel arşivde bu maddeye yapısal atıf yapan tam künyeli karar bulunamadı ve içtihat bölümü bu yüzden boş bırakılır; künye uydurulmaz.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında yetiştirme ile bağlantılı bir uyuşmazlık çıkar. Davacı, İl İdaresi K. m. 8’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. B) Bunun dışında kalan bütün memurlar Bakanlıklar veya tüzelkişiliği haiz genel müdürlükler tarafından valilik emrine tayin edilerek il idare şube başkanının inhası üzerine valiler tarafından istihdam yerleri tesbit olunur; cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Bir uyuşmazlıkta taraf İl İdaresi Kanunu m. 8 hükmüne dayanarak talep yöneltti. Karşı taraf maddenin şartlarının oluşmadığını ileri sürdü. Mahkeme resmi lafızdaki unsurları dosyadaki belgelerle tek tek eşlemek zorunda kaldı ve eksik unsur varsa talebi bu maddeye dayandırmadı.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 8 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** İdare veya taraf m. 8 yetkisini acele kullandı ve ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, memurlar gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* İl İdaresi K.’nın iyiniyet ve dürüstlük ilkeleri ile m. 8’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Yürürlük tartışmasında eski ve yeni lafız iç içe geçti ve uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. 8 uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; memurları ile memurların’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **İl İdaresi K. madde 8**, **İl İdaresi K. m. 8**, **İl İdaresi K. 8** ve **İl İdaresi Kanunu madde 8** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Dilekçede İl İdaresi Kanunu m. 8 dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.
+
+Belge listesi maddenin şartlarını karşılayan olgulara bağlanmalıdır, genel anlatım yetmez.
+
+Karşı tarafın savunması unsur eksikliğine mi yoksa sonuç tartışmasına mı yöneldiği ayrılmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-İl İdaresi K. m. 8, mülki idare içinde Yetiştirme temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve vali–kaymakam ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Hükmün lafzı ile uygulamanın pratik ihtiyaçları her somut dosyada ayrıca tartılır. İl İdaresi Kanunu m. 8 başlığı geniş okunursa madde her uyuşmazlığa çekilir, dar okunursa koruma boşalır.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 8 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Öğreti bu tür hükümlerde lafzın sınırını dosyanın vakıalarıyla test etmeyi önerir ve sayfa ve baskı yılı uydurulmaz.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: İl İdaresi Kanunu m. 8 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 8 uygulamasında «Yetiştirme» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. B) Bunun dışında kalan bütün memurlar Bakanlıklar veya tüzelkişiliği haiz genel müdürlükler tarafından valilik emrine tayin edilerek il idare şube başkanının inhası üzerine valiler tarafından istihdam yerleri tesbit olunur;
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. C) Yukardaki fıkralarda yazılı bütün memurların lüzumu halinde il içinde nakil ve tahvilleri mensup olduğu il idare şube başkanlarının inhası üzerine valiler tarafından icra edilmekle beraber mensup oldukları Bakanlıklar veya genel müdürlüklere sebepleriyle bildirilir.
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Yukarda (A, B) fıkraları dışında kalan il merkez teşkilatına bağlı memurlar ilgili idare şube başkanının inhası ile valiler tarafından tayin, nakil ve tahvil olunurlar.
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Tayin, nakil ve tahviller için gereken yolluk ödenekleri bütçe yılı başında ilgili Bakanlık veya genel müdürlüklerce valiler emrine gönderilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 8 sonuçlarının fiilen elde edilmesi için belirleyicidir. II - Valilerin hukuki durumları, görev ve yetkileri
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. B) Bunun dışında kalan bütün memurlar Bakanlıklar veya tüzelkişiliği haiz genel müdürlükler tarafından valilik emrine tayin edilerek il idare şube başkanının inhası üzerine valiler tarafından istihdam yerleri tesbit olunur;
-
-Sonuç olarak, İl İdaresi K. madde 8 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. C) Yukardaki fıkralarda yazılı bütün memurların lüzumu halinde il içinde nakil ve tahvilleri mensup olduğu il idare şube başkanlarının inhası üzerine valiler tarafından icra edilmekle beraber mensup oldukları Bakanlıklar veya genel müdürlüklere sebepleriyle bildirilir.
-
-Bu bağlamda m. 8 uygulamasında «Yetiştirme» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Yukarda (A, B) fıkraları dışında kalan il merkez teşkilatına bağlı memurlar ilgili idare şube başkanının inhası ile valiler tarafından tayin, nakil ve tahvil olunurlar.
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Tayin, nakil ve tahviller için gereken yolluk ödenekleri bütçe yılı başında ilgili Bakanlık veya genel müdürlüklerce valiler emrine gönderilir.
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. II - Valilerin hukuki durumları, görev ve yetkileri
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. B) Bunun dışında kalan bütün memurlar Bakanlıklar veya tüzelkişiliği haiz genel müdürlükler tarafından valilik emrine tayin edilerek il idare şube başkanının inhası üzerine valiler tarafından istihdam yerleri tesbit olunur;
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 8 sonuçlarının fiilen elde edilmesi için belirleyicidir. C) Yukardaki fıkralarda yazılı bütün memurların lüzumu halinde il içinde nakil ve tahvilleri mensup olduğu il idare şube başkanlarının inhası üzerine valiler tarafından icra edilmekle beraber mensup oldukları Bakanlıklar veya genel müdürlüklere sebepleriyle bildirilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Yukarda (A, B) fıkraları dışında kalan il merkez teşkilatına bağlı memurlar ilgili idare şube başkanının inhası ile valiler tarafından tayin, nakil ve tahvil olunurlar.
-
-Sonuç olarak, İl İdaresi K. madde 8 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Tayin, nakil ve tahviller için gereken yolluk ödenekleri bütçe yılı başında ilgili Bakanlık veya genel müdürlüklerce valiler emrine gönderilir.
-
-Bu bağlamda m. 8 uygulamasında «Yetiştirme» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. II - Valilerin hukuki durumları, görev ve yetkileri
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. B) Bunun dışında kalan bütün memurlar Bakanlıklar veya tüzelkişiliği haiz genel müdürlükler tarafından valilik emrine tayin edilerek il idare şube başkanının inhası üzerine valiler tarafından istihdam yerleri tesbit olunur;
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. C) Yukardaki fıkralarda yazılı bütün memurların lüzumu halinde il içinde nakil ve tahvilleri mensup olduğu il idare şube başkanlarının inhası üzerine valiler tarafından icra edilmekle beraber mensup oldukları Bakanlıklar veya genel müdürlüklere sebepleriyle bildirilir.
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Yukarda (A, B) fıkraları dışında kalan il merkez teşkilatına bağlı memurlar ilgili idare şube başkanının inhası ile valiler tarafından tayin, nakil ve tahvil olunurlar.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 8 sonuçlarının fiilen elde edilmesi için belirleyicidir. Tayin, nakil ve tahviller için gereken yolluk ödenekleri bütçe yılı başında ilgili Bakanlık veya genel müdürlüklerce valiler emrine gönderilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. II - Valilerin hukuki durumları, görev ve yetkileri
-
-Sonuç olarak, İl İdaresi K. madde 8 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. B) Bunun dışında kalan bütün memurlar Bakanlıklar veya tüzelkişiliği haiz genel müdürlükler tarafından valilik emrine tayin edilerek il idare şube başkanının inhası üzerine valiler tarafından istihdam yerleri tesbit olunur;
-
-Bu bağlamda m. 8 uygulamasında «Yetiştirme» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. C) Yukardaki fıkralarda yazılı bütün memurların lüzumu halinde il içinde nakil ve tahvilleri mensup olduğu il idare şube başkanlarının inhası üzerine valiler tarafından icra edilmekle beraber mensup oldukları Bakanlıklar veya genel müdürlüklere sebepleriyle bildirilir.
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Yukarda (A, B) fıkraları dışında kalan il merkez teşkilatına bağlı memurlar ilgili idare şube başkanının inhası ile valiler tarafından tayin, nakil ve tahvil olunurlar.
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Tayin, nakil ve tahviller için gereken yolluk ödenekleri bütçe yılı başında ilgili Bakanlık veya genel müdürlüklerce valiler emrine gönderilir.
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. II - Valilerin hukuki durumları, görev ve yetkileri
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 8 sonuçlarının fiilen elde edilmesi için belirleyicidir. B) Bunun dışında kalan bütün memurlar Bakanlıklar veya tüzelkişiliği haiz genel müdürlükler tarafından valilik emrine tayin edilerek il idare şube başkanının inhası üzerine valiler tarafından istihdam yerleri tesbit olunur;
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. C) Yukardaki fıkralarda yazılı bütün memurların lüzumu halinde il içinde nakil ve tahvilleri mensup olduğu il idare şube başkanlarının inhası üzerine valiler tarafından icra edilmekle beraber mensup oldukları Bakanlıklar veya genel müdürlüklere sebepleriyle bildirilir.
-
-Sonuç olarak, İl İdaresi K. madde 8 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Yukarda (A, B) fıkraları dışında kalan il merkez teşkilatına bağlı memurlar ilgili idare şube başkanının inhası ile valiler tarafından tayin, nakil ve tahvil olunurlar.
-
-Bu bağlamda m. 8 uygulamasında «Yetiştirme» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Tayin, nakil ve tahviller için gereken yolluk ödenekleri bütçe yılı başında ilgili Bakanlık veya genel müdürlüklerce valiler emrine gönderilir.
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. II - Valilerin hukuki durumları, görev ve yetkileri
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. B) Bunun dışında kalan bütün memurlar Bakanlıklar veya tüzelkişiliği haiz genel müdürlükler tarafından valilik emrine tayin edilerek il idare şube başkanının inhası üzerine valiler tarafından istihdam yerleri tesbit olunur;
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. C) Yukardaki fıkralarda yazılı bütün memurların lüzumu halinde il içinde nakil ve tahvilleri mensup olduğu il idare şube başkanlarının inhası üzerine valiler tarafından icra edilmekle beraber mensup oldukları Bakanlıklar veya genel müdürlüklere sebepleriyle bildirilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 8 sonuçlarının fiilen elde edilmesi için belirleyicidir. Yukarda (A, B) fıkraları dışında kalan il merkez teşkilatına bağlı memurlar ilgili idare şube başkanının inhası ile valiler tarafından tayin, nakil ve tahvil olunurlar.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Tayin, nakil ve tahviller için gereken yolluk ödenekleri bütçe yılı başında ilgili Bakanlık veya genel müdürlüklerce valiler emrine gönderilir.
-
-Sonuç olarak, İl İdaresi K. madde 8 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. II - Valilerin hukuki durumları, görev ve yetkileri
-
-Bu bağlamda m. 8 uygulamasında «Yetiştirme» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. B) Bunun dışında kalan bütün memurlar Bakanlıklar veya tüzelkişiliği haiz genel müdürlükler tarafından valilik emrine tayin edilerek il idare şube başkanının inhası üzerine valiler tarafından istihdam yerleri tesbit olunur;
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. C) Yukardaki fıkralarda yazılı bütün memurların lüzumu halinde il içinde nakil ve tahvilleri mensup olduğu il idare şube başkanlarının inhası üzerine valiler tarafından icra edilmekle beraber mensup oldukları Bakanlıklar veya genel müdürlüklere sebepleriyle bildirilir.
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Yukarda (A, B) fıkraları dışında kalan il merkez teşkilatına bağlı memurlar ilgili idare şube başkanının inhası ile valiler tarafından tayin, nakil ve tahvil olunurlar.
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Tayin, nakil ve tahviller için gereken yolluk ödenekleri bütçe yılı başında ilgili Bakanlık veya genel müdürlüklerce valiler emrine gönderilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 8 sonuçlarının fiilen elde edilmesi için belirleyicidir. II - Valilerin hukuki durumları, görev ve yetkileri
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. B) Bunun dışında kalan bütün memurlar Bakanlıklar veya tüzelkişiliği haiz genel müdürlükler tarafından valilik emrine tayin edilerek il idare şube başkanının inhası üzerine valiler tarafından istihdam yerleri tesbit olunur;
-
-Sonuç olarak, İl İdaresi K. madde 8 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. C) Yukardaki fıkralarda yazılı bütün memurların lüzumu halinde il içinde nakil ve tahvilleri mensup olduğu il idare şube başkanlarının inhası üzerine valiler tarafından icra edilmekle beraber mensup oldukları Bakanlıklar veya genel müdürlüklere sebepleriyle bildirilir.
-
-Bu bağlamda m. 8 uygulamasında «Yetiştirme» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Yukarda (A, B) fıkraları dışında kalan il merkez teşkilatına bağlı memurlar ilgili idare şube başkanının inhası ile valiler tarafından tayin, nakil ve tahvil olunurlar.
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Tayin, nakil ve tahviller için gereken yolluk ödenekleri bütçe yılı başında ilgili Bakanlık veya genel müdürlüklerce valiler emrine gönderilir.
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. II - Valilerin hukuki durumları, görev ve yetkileri
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. B) Bunun dışında kalan bütün memurlar Bakanlıklar veya tüzelkişiliği haiz genel müdürlükler tarafından valilik emrine tayin edilerek il idare şube başkanının inhası üzerine valiler tarafından istihdam yerleri tesbit olunur;
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 8 sonuçlarının fiilen elde edilmesi için belirleyicidir. C) Yukardaki fıkralarda yazılı bütün memurların lüzumu halinde il içinde nakil ve tahvilleri mensup olduğu il idare şube başkanlarının inhası üzerine valiler tarafından icra edilmekle beraber mensup oldukları Bakanlıklar veya genel müdürlüklere sebepleriyle bildirilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Yukarda (A, B) fıkraları dışında kalan il merkez teşkilatına bağlı memurlar ilgili idare şube başkanının inhası ile valiler tarafından tayin, nakil ve tahvil olunurlar.
-
-Sonuç olarak, İl İdaresi K. madde 8 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Tayin, nakil ve tahviller için gereken yolluk ödenekleri bütçe yılı başında ilgili Bakanlık veya genel müdürlüklerce valiler emrine gönderilir.
-
-Bu bağlamda m. 8 uygulamasında «Yetiştirme» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. II - Valilerin hukuki durumları, görev ve yetkileri
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. B) Bunun dışında kalan bütün memurlar Bakanlıklar veya tüzelkişiliği haiz genel müdürlükler tarafından valilik emrine tayin edilerek il idare şube başkanının inhası üzerine valiler tarafından istihdam yerleri tesbit olunur;
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. C) Yukardaki fıkralarda yazılı bütün memurların lüzumu halinde il içinde nakil ve tahvilleri mensup olduğu il idare şube başkanlarının inhası üzerine valiler tarafından icra edilmekle beraber mensup oldukları Bakanlıklar veya genel müdürlüklere sebepleriyle bildirilir.
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Yukarda (A, B) fıkraları dışında kalan il merkez teşkilatına bağlı memurlar ilgili idare şube başkanının inhası ile valiler tarafından tayin, nakil ve tahvil olunurlar.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 8 sonuçlarının fiilen elde edilmesi için belirleyicidir. Tayin, nakil ve tahviller için gereken yolluk ödenekleri bütçe yılı başında ilgili Bakanlık veya genel müdürlüklerce valiler emrine gönderilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. II - Valilerin hukuki durumları, görev ve yetkileri
-
-Sonuç olarak, İl İdaresi K. madde 8 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. B) Bunun dışında kalan bütün memurlar Bakanlıklar veya tüzelkişiliği haiz genel müdürlükler tarafından valilik emrine tayin edilerek il idare şube başkanının inhası üzerine valiler tarafından istihdam yerleri tesbit olunur;
-
-Bu bağlamda m. 8 uygulamasında «Yetiştirme» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. C) Yukardaki fıkralarda yazılı bütün memurların lüzumu halinde il içinde nakil ve tahvilleri mensup olduğu il idare şube başkanlarının inhası üzerine valiler tarafından icra edilmekle beraber mensup oldukları Bakanlıklar veya genel müdürlüklere sebepleriyle bildirilir.
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Yukarda (A, B) fıkraları dışında kalan il merkez teşkilatına bağlı memurlar ilgili idare şube başkanının inhası ile valiler tarafından tayin, nakil ve tahvil olunurlar.
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Tayin, nakil ve tahviller için gereken yolluk ödenekleri bütçe yılı başında ilgili Bakanlık veya genel müdürlüklerce valiler emrine gönderilir.
+Bu yorum maddenin resmi metni ve yerel karar arşivi esas alınarak hazırlanmıştır. Künyeler arşivden birebir alınır, uydurulmaz ve örnek olaylar kurmacadır.

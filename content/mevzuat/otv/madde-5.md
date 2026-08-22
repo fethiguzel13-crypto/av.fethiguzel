@@ -148,4 +148,4 @@ Bu şerh çalışması, 4760 sayılı Özel Tüketim Vergisi Kanunu’nun 5. mad
 
 ---
 
-📊 **Özel Tüketim Vergisi Kanunu** m. 5 ihracat istisnası şerhi tamamlanmıştır.
+ **Özel Tüketim Vergisi Kanunu** m. 5 ihracat istisnası şerhi tamamlanmıştır.

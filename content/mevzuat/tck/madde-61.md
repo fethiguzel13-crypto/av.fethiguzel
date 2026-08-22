@@ -3,9 +3,17 @@ title: "Türk Ceza Kanunu Madde 61"
 kanun: "Türk Ceza Kanunu"
 maddeNo: 61
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3606
+lastReviewed: "2026-08-22"
+wordCount: 2226
+keywords:
+  - "temel ceza"
+  - "cezanın bireyselleştirilmesi"
+  - "alt sınırdan uzaklaşma"
+  - "orantılılık"
+  - "zincirleme suç"
+  - "gerekçe"
 ---
+
 
 **- (1) Hakim, somut olayda;**
 
@@ -58,209 +66,128 @@ Takdiri indirim nedenleri
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Ceza Kanunu m. 61** (5237 sayılı), «- (1) Hakim, somut olayda;» başlığı altında maddi ceza hukuku içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+Bir suçun sabit görülmesiyle yargılama bitmez; asıl güç kullanımı ondan sonra başlar. Kanun bir suç için alt ve üst sınır gösterir, hâkim ise o aralığın neresinde durulacağına karar verir. Türk Ceza Kanunu bu kararı keyfe bırakmamış olup 61. maddede hem hangi ölçütlere bakılacağını hem de işlemlerin hangi sırayla yapılacağını göstermiştir.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 61 izole okunmamalı; TCK’nın ilgili bölüm/ayırım bütünlüğü ve kanunilik ilkesiyle birlikte yorumlanmalıdır.
+Madde, kanunun "Cezanın Belirlenmesi ve Bireyselleştirilmesi" bölümünün açılış hükmüdür ve iki ayrı işi birden görür. Birinci fıkra temel cezanın nasıl belirleneceğini yedi ölçüte bağlarken, beşinci fıkra sonuç cezaya giden yolun sırasını çizer. Bu ikisi karıştırılmamalıdır zira ilkinde hâkimin takdiri, ikincisinde ise takdire yer bırakmayan bir hesap düzeni vardır.
 
-Ratio legis, kanunilik, kusur, tipiklik ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: 17 d) Suçun konusunun önem ve değerini, e) Meydana gelen zarar veya tehlikenin ağırlığını, f) Failin kast veya taksire dayalı kusurunun ağırlığını, g) Failin güttüğü amaç ve saiki, Göz önünde bulundurarak, işlenen suçun kanuni tanımında öngörülen cezanın alt ve üst sınırı arasında temel cezayı belirler. (2) Suçun olası kastla ya da bilinçli taksirle işlenmesi nedeniyle indirim veya artırım, birinci fıkra hükmüne göre belirlenen ceza üzerinden yapılır.
+Hükmün pratikteki ağırlığı sayılarla ölçülebilir: Yargıtay'ın ceza dairelerinden çıkan bozma kararlarının önemli bir kısmı, suçun sabit olup olmadığından değil, cezanın bu maddeye uygun belirlenip belirlenmediğinden kaynaklanır. Mahkeme suçu doğru nitelendirse bile temel cezayı gerekçesiz biçimde alt sınırdan uzaklaştırdığında ya da beşinci fıkradaki sırayı bozduğunda hüküm ayakta kalmaz.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Maddenin dayandığı düşünce, 3. maddedeki orantılılık ilkesinin somutlaştırılmasıdır. Kanun koyucu orada "işlenen fiilin ağırlığıyla orantılı ceza" der; 61. madde bu soyut buyruğu, hâkimin dosyada bakacağı somut olgulara çevirir. İkisi birlikte okunmadığında birincisi temenni, ikincisi ise mekanik bir kontrol listesi hâline gelir.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Temel ceza ve yedi ölçüt
 
-Madde 61, «- (1) Hakim, somut olayda;» ekseninde suçun ve cezasının kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak maddi ceza hukuku içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+Birinci fıkra, temel cezanın belirlenmesinde göz önünde bulundurulacak olguları sayar: suçun işleniş biçimi, kullanılan araçlar, işlendiği zaman ve yer, konusunun önem ve değeri, meydana gelen zarar veya tehlikenin ağırlığı, failin kusurunun ağırlığı ile güttüğü amaç ve saik. Bu yedi başlık bir kontrol listesi değil, cezanın niçin o miktarda belirlendiğini açıklayan bir gerekçe iskeletidir.
 
-##### 2.2. Unsurlar
+Ölçütlerin bir kısmı fiile, bir kısmı faile ilişkindir. İşleniş biçimi, araç, zaman, yer ve zararın ağırlığı olayın kendisini tarif ederken; kusurun ağırlığı ile amaç ve saik failin iç dünyasına bakar. Uygulamada en çok tartışılan nokta, bu ikinci grubun ne kadar somutlaştırılabildiğidir. Saikin dosyadan anlaşılamadığı hâllerde hâkimin onu varsayması, gerekçeyi kanıttan kopuk bir söz yığınına çevirir.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+Alt sınırdan uzaklaşma, maddenin en sık denetlenen yanıdır. Kanun hâkime aralık verir; ne var ki aralığın üst tarafına çıkmak, yedi ölçütten hangisinin bu olayda ağırlaştırıcı biçimde gerçekleştiğini göstermeyi gerektirir. Ceza Genel Kurulu önüne gelen bir dosyada daire, temel cezanın 61. maddedeki ölçütlere ve 3. maddedeki orantılılık ilkesine aykırı olarak, zararın tamamını karşılayan ve adlî sicil kaydı bulunmayan sanığın durumuna uymayacak biçimde belirlendiği gerekçesiyle hükmü bozmuştur (Yargıtay Ceza Genel Kurulu, E. 2025/404, K. 2026/22, T. 07.01.2026). Zararın giderilmesi ile sabıkasızlık, burada alt sınırdan uzaklaşmaya karşı ileri sürülen somut veriler olarak görünmektedir.
 
-Metinden çıkan somut vurgular: (3) Birinci fıkrada belirtilen hususların suçun unsurunu oluşturduğu hallerde, bunlar temel cezanın belirlenmesinde ayrıca göz önünde bulundurulmaz. (4) Bir suçun temel şekline nazaran daha ağır veya daha az cezayı gerektiren birden fazla nitelikli hallerin gerçekleşmesi durumunda;
+##### 2.2. Olası kast ve bilinçli taksir bakımından sıra
 
-##### 2.3. Korunan menfaat
+İkinci fıkra teknik ama sonucu değiştiren bir kural koyar: Suçun olası kastla ya da bilinçli taksirle işlenmesi nedeniyle yapılacak indirim veya artırım, temel ceza belirlendikten sonra onun üzerinden yapılır. Sıra tersine çevrildiğinde ortaya çıkan rakam farklı olacağından, bu hüküm bir usul tercihinden ibaret değildir.
 
-Korunan menfaat, bireysel hak sahibi ile kusur arasındaki dengede aranır. TCK m. 61, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. kusurunun kavramı bu dengede anahtar rol oynar.
+##### 2.3. Unsurun iki kez değerlendirilmemesi
 
-##### 2.4. Sonuç ve yaptırım
+Üçüncü fıkra, birinci fıkradaki hususlar suçun unsurunu oluşturduğunda bunların temel cezada ayrıca göz önünde bulundurulmayacağını söyler. Kural, aynı olgunun iki kez aleyhe kullanılmasını engeller. Silahla işlenmesi zaten suçun nitelikli hâli sayılan bir fiilde, silah kullanılmış olmasının bir de temel cezayı yükseltmek için gerekçe yapılması bu yasağa girer.
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Hükmün uygulanması göründüğü kadar kolay değildir zira bir olgunun "unsur" mu yoksa temel cezayı etkileyen bir "ölçüt" mü olduğu her zaman açık olmaz. Ayrımın yapılamadığı hâllerde denetim, gerekçenin kendisi üzerinden yürür: Mahkeme, ağırlaştırıcı saydığı olgunun suç tipinde zaten bulunup bulunmadığını göstermek zorundadır.
+
+##### 2.4. Nitelikli hâllerde artırma ve indirme sırası
+
+Dördüncü fıkra, bir suçun temel şekline göre daha ağır ya da daha az cezayı gerektiren birden fazla nitelikli hâlin bir arada gerçekleşmesi durumunda önce artırma sonra indirme yapılacağını öngörür. Sıra yine sonucu belirler: Yüzde ellilik bir artırım ile yüzde ellilik bir indirim, hangisinin önce uygulandığına göre farklı rakamlar üretir.
+
+##### 2.5. Sonuç cezaya giden sıra
+
+Beşinci fıkra maddenin belkemiğidir. Temel ceza belirlendikten sonra sırasıyla teşebbüs, iştirak, zincirleme suç, haksız tahrik, yaş küçüklüğü, akıl hastalığı, cezada indirim gerektiren şahsî sebepler ve nihayet takdiri indirim nedenleri uygulanarak sonuç cezaya varılır. Sıralama emredicidir ve hâkime seçim hakkı tanımaz.
+
+Bu fıkranın gördüğü işlev, cezanın nasıl hesaplandığını denetlenebilir kılmaktır. Her aşamada hangi hükmün hangi orandan uygulandığı hüküm fıkrasından okunabildiğinde, üst derece mahkemesi rakamı adım adım izleyebilir. Sıranın bozulduğu ya da bir aşamanın atlandığı hâllerde denetim imkânsızlaşır; bozma sebebi de budur.
+
+##### 2.6. Süre hesabı ve üst sınır
+
+Altıncı fıkra hapis cezasının gün, ay ve yıl hesabıyla belirleneceğini, bir günün yirmi dört saat, bir ayın otuz gün olduğunu ve yılın resmî takvime göre hesap edileceğini söyler. Aynı fıkra, hapis cezası için bir günün ve adlî para cezası için bir Türk lirasının artakalanının hesaba katılmayacağını da düzenler. Yedinci fıkra ise süreli hapis cezasını gerektiren bir suçtan dolayı bu maddeye göre belirlenen sonuç cezanın otuz yılı aşamayacağı sınırını koyar; bu tavan, yedi ve sekizinci fıkralar gibi 2005 yılında eklenmiştir.
 
 #### 3. Sistematik İlişkiler
 
-- **TCK komşu maddeler:** m. 61 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle - (1) Hakim, somut olayda; temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** kanunilik; kusur; tipiklik; hukuka aykırılık; yaptırım ve güvenlik tedbirleri.
-- **Yatay mevzuat:** 5271 sayılı CMK; 5275 sayılı CGTİHK; 5326 sayılı Kabahatler Kanunu.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**Orantılılık ve kanunilik (m.2, m.3).** 3. madde cezanın fiilin ağırlığıyla orantılı olmasını buyurur, 61. madde bu orantıyı kuran işlemi tarif eder. 2. maddedeki kanunilik ilkesi ise aralığın dışına çıkılmasını yasaklar. Ceza Genel Kurulu önüne gelen bir dosyada, seçimlik hareketli bir suçta her hareketin ayrı suç sayılmasının kanunilik ilkesiyle bağdaşmayacağı, Anayasa'nın 38. maddesi ile 5237 sayılı Kanun'un 2. maddesine dayanılarak tartışılmıştır (Yargıtay Ceza Genel Kurulu, E. 2024/280, K. 2024/279, T. 02.10.2024).
 
-Bu ilişkiler, m. 61’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+**Zincirleme suç (m.43).** İki madde arasındaki ilişki uygulamanın en verimli tartışma alanıdır. Ceza Genel Kurulu, "değişik zamanlarda" ifadesinin açıklığı karşısında aynı mağdura aynı zamanda aynı suçun birden fazla işlenmesi hâlinde tek suçun oluşacağını, bu durumda zincirleme suç hükümleri uygulanarak artırım yapılamayacağını, **ancak bu hususun 61. madde uyarınca temel cezanın belirlenmesinde göz önüne alınabileceğini** belirtmiştir (Yargıtay Ceza Genel Kurulu, E. 2023/435, K. 2025/444, T. 30.10.2025). Aynı yaklaşım, uyuşturucu madde ticareti suçunda seçimlik hareketlerin aynı zaman dilimi içinde gerçekleştiği bir dosyada da benimsenmiştir (Yargıtay Ceza Genel Kurulu, E. 2023/482, K. 2024/35, T. 24.01.2024).
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
+Karardan çıkan ilke uygulama açısından değerlidir: 43. maddenin kapısı kapandığında fiilin çokluğu cezasız kalmaz, temel cezanın belirlenmesine yansır. Böylece 61. madde, artırım hükümlerinin uygulanamadığı hâllerde bir güvenlik supabı işlevi görür.
 
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
+**Teşebbüs, iştirak ve indirim sebepleri (m.35, m.37 vd., m.29, m.31, m.32).** Beşinci fıkradaki sıralama bu hükümlerin uygulanma anını belirler. Her biri kendi koşullarını taşımakla birlikte, hangisinin önce geleceği 61. maddeden okunur.
 
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (suçun / cezanın karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
+**Takdiri indirim (m.62).** Sıralamanın son halkasıdır. 62. madde uygulanmadan önce diğer bütün indirim ve artırımların tamamlanmış olması gerekir; aksi hâlde takdiri indirim yanlış tabana uygulanmış olur.
 
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
+**Adlî para cezası (m.52) ve seçenek yaptırımlar (m.50, m.51).** Sekizinci fıkra, adlî para cezası hesaplanırken bu maddeye göre yapılacak artırma ve indirimlerin gün üzerinden yapılacağını söyler. Kısa süreli hapis cezasının seçenek yaptırıma çevrilmesi ve ertelenmesi ise sonuç ceza belirlendikten sonra gündeme gelir.
 
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: temel cezada önce artırma sonra indirme yapılır. (5) Yukarıdaki fıkralara göre belirlenen ceza üzerinden sırasıyla teşebbüs, iştirak, zincirleme suç, haksız tahrik, yaş küçüklüğü, akıl hastalığı ve cezada indirim yapılmasını gerektiren şahsi sebeplere ilişkin hükümler ile takdiri indirim nedenleri uygulanarak sonuç ceza belirlenir.
+**Tekerrür ve mahsup (m.58, m.63).** Her ikisi de 61. maddedeki hesabın dışında kalır. Tekerrür sonuç cezaya değil infaz rejimine etki eder, mahsup ise hüküm kesinleşmeden önce geçen hürriyeti kısıtlayıcı süreyle ilgilidir.
+
+**Gerekçe yükümlülüğü.** Cezanın belirlenmesindeki takdirin gerekçelendirilmesi, Ceza Muhakemesi Kanunu'nun hükmün gerekçesini düzenleyen hükümleriyle birlikte anlam kazanır. 61. madde neye bakılacağını söyler; gerekçe kuralı ise bakılanın hükümde görünmesini zorunlu kılar.
+
+#### 4. Uygulama: Yargıtay İçtihadı
+
+Aşağıdaki kararlar, yerel karar arşivinden bu maddeye yapısal atıf yapan kararlar arasından seçilmiştir. Künyeler kaynak metinden birebir alınmıştır.
+
+**Alt sınırdan uzaklaşmanın denetimi.** Vergi Usul Kanunu'na muhalefet suçundan kurulan bir hükümde daire, temel cezanın 61. maddedeki ölçütler ile 3. maddedeki orantılılık ilkesine aykırı biçimde, zararın tamamını karşılamış ve adlî sicil kaydı bulunmayan sanığın durumuyla bağdaşmayacak şekilde belirlendiğini tespit ederek bozma kararı vermiştir (Yargıtay Ceza Genel Kurulu, E. 2025/404, K. 2026/22, T. 07.01.2026). Karar, alt sınırdan uzaklaşmanın dosyadaki somut verilerle desteklenmesi gerektiğini göstermektedir.
+
+**Zincirleme suç uygulanamadığında temel ceza.** Yukarıda anılan ilke burada tekrar edilmeye değer: Aynı mağdura, aynı zamanda, aynı suçun birden fazla işlenmesi hâlinde tek suç oluşur ve 43. madde uyarınca artırım yapılamaz; bu husus 61. madde uyarınca temel cezanın belirlenmesinde değerlendirilir (Yargıtay Ceza Genel Kurulu, E. 2023/435, K. 2025/444, T. 30.10.2025). Uygulayıcı bakımından sonuç şudur: Zincirleme suç talebi reddedilse bile fiilin çokluğu savunmasız bir veri değildir.
+
+**Seçimlik hareketler ve temel cezanın tayini.** Sahte fatura düzenleme ile defter ve belgeleri gizleme fiillerinin bir arada bulunduğu bir dosyada, karşı oy gerekçesinde temel cezanın 61. madde dikkate alınarak alt sınırdan uzaklaşılarak tayin edilmesi ve sonuç cezanın 43. madde uyarınca belirlenmesi gerektiği savunulmuştur (Yargıtay Ceza Genel Kurulu, E. 2024/408, K. 2025/6, T. 08.01.2025). Görüş azınlıkta kalmış olmakla birlikte, iki madde arasındaki iş bölümünü açık biçimde ortaya koyar.
+
+**Kanunilik ilkesinin sınırı.** Aynı fıkrada seçimlik hareket olarak düzenlenen fiillerin ayrı ayrı suç sayılmasının kanunilik ilkesiyle bağdaşmayacağı, karşı oy gerekçesinde ayrıntılı biçimde tartışılmıştır (Yargıtay Ceza Genel Kurulu, E. 2024/280, K. 2024/279, T. 02.10.2024). Tartışma doğrudan 61. maddeyle ilgili olmasa da, cezanın belirlenmesinde başlangıç noktasının hangi suç sayısı olduğunu belirlediğinden hesabın tamamını etkiler.
+
+**Zincirleme suçta aynı zaman ölçütü.** Uyuşturucu madde ticareti suçunda, aynı zaman dilimi içinde birbirini takip eden hareketlerin "değişik zaman" sayılamayacağı yönündeki değerlendirme bir başka dosyada da yinelenmiştir (Yargıtay Ceza Genel Kurulu, E. 2023/482, K. 2024/35, T. 24.01.2024).
+
+**Zincirleme suç ve resmî belgede sahtecilik.** Aynı anda işlenen eylemlerde zincirleme suç hükümlerinin uygulanmasının mümkün olmadığı, resmî belgede sahtecilik suçundan kurulan bir hükmün incelendiği dosyada da ele alınmıştır (Yargıtay Ceza Genel Kurulu, E. 2025/668, K. 2026/23, T. 07.01.2026).
+
+Kararların bütününden çıkan tablo şudur: Yargıtay, cezanın miktarını kendi takdiriyle değiştirmez; denetlediği şey, o miktara nasıl varıldığının hükümde gösterilip gösterilmediğidir. Bu yönüyle 61. madde, ceza yargılamasında gerekçenin en yoğun denetlendiği hükümlerden biridir.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında - (1) hakim, somut olayda; ile bağlantılı bir uyuşmazlık çıkar. Davacı, TCK m. 61’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. 17 d) Suçun konusunun önem ve değerini, e) Meydana gelen zarar veya tehlikenin ağırlığını, f) Failin kast veya taksire dayalı kusurunun ağırlığını, g) Failin güttüğü amaç ve saiki, Göz önünde bulundurarak, işlenen suçun kanuni tanımında öngörülen cezanın alt ve üst sınırı arasında temel cezayı belirler. cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** A, gece vakti boş bir işyerine girerek kasadaki parayı almış, kaçarken kameraya yakalanmıştır. Mahkeme temel cezayı alt sınırdan uzaklaştırarak belirlemiş, gerekçe olarak yalnız "suçun işleniş biçimi" ifadesini yazmıştır. Bu gerekçe 61. maddenin aradığı ölçüyü karşılamaz zira işleniş biçiminin bu olayda hangi bakımdan ağırlaştırıcı olduğu gösterilmemiştir. Gecenin seçilmesi, işyerinin boş olduğu saatin kollanması ve kamera kayıtlarından anlaşılan hazırlık, gerekçede somutlaştırılmış olsaydı denetime elverişli olurdu.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 61 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** B, aynı gün ve aynı buluşmada, aynı kişiye iki kez uyuşturucu madde vermiştir. Savcılık zincirleme suç hükümlerinin uygulanmasını istemiştir. Hareketlerin aynı zaman dilimi içinde gerçekleştiği kabul edilirse 43. madde uygulanamaz; buna karşılık fiilin iki kez tekrarlanmış olması, 61. madde uyarınca temel cezanın belirlenmesinde göz önünde bulundurulabilir. Sonuç, zincirleme suçtan artırım yapılan hâle göre daha düşük olmakla birlikte alt sınırda da kalmaz.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, cezasının gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* TCK’nın iyiniyet ve dürüstlük ilkeleri ile m. 61’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** C hakkında kurulan hükümde mahkeme, temel cezayı belirledikten sonra önce takdiri indirimi uygulamış, ardından teşebbüs hükmünü işletmiştir. Suç sabit, nitelendirme doğru, miktar makul görünmektedir; ne var ki beşinci fıkradaki sıra bozulduğundan hüküm bozulacaktır. Sıra kuralının ihlali, sonucun tesadüfen doğru çıkmasıyla giderilemez.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; suçun ile kusurunun’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **TCK madde 61**, **TCK m. 61**, **TCK 61** ve **Türk Ceza Kanunu madde 61** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Hüküm fıkrasında her aşama ayrı ayrı gösterilmelidir. Temel ceza, sonra sırasıyla uygulanan indirim ve artırımlar, en sonda sonuç ceza; okuyan kişinin rakamı adım adım takip edebilmesi gerekir.
+
+Alt sınırdan uzaklaşılacaksa hangi ölçütün hangi somut olguya dayandığı yazılmalıdır. "Suçun işleniş biçimi ve meydana gelen zararın ağırlığı dikkate alınarak" biçimindeki kalıp cümleler, dosyadaki olguya bağlanmadıkça gerekçe sayılmaz.
+
+Savunma tarafında, temel cezanın belirlenmesine yönelik itiraz çoğu kez sonuç cezaya yönelik itirazdan daha verimlidir. Zararın giderilmesi, sabıkasızlık ve failin olaydaki konumu bu aşamada ileri sürülmelidir.
+
+Üçüncü fıkraya dayanan itiraz sıklıkla gözden kaçar. Mahkemenin ağırlaştırıcı saydığı olgu suçun unsuru ya da nitelikli hâli ise, aynı olgunun temel cezada ikinci kez kullanılamayacağı açıkça dile getirilmelidir.
+
+Zincirleme suç talebi reddedildiğinde dosya kapanmaz. Fiilin tekrarlanmış olması temel cezaya yansıyabileceğinden, bu ihtimale karşı da savunma yapılmalıdır.
+
+Adlî para cezasına ilişkin dosyalarda artırma ve indirimlerin gün üzerinden yapılıp yapılmadığı denetlenmelidir; doğrudan tutar üzerinden yapılan hesap sekizinci fıkraya aykırıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-TCK m. 61, maddi ceza hukuku içinde - (1) Hakim, somut olayda; temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve kanunilik ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Maddenin en tartışmalı yanı, birinci fıkradaki ölçütlerin hâkime bıraktığı alanın genişliğidir. Yedi başlık geniş bir çerçeve çizmekle birlikte, her birinin ağırlığı ve birbirleriyle ilişkisi düzenlenmemiştir. Aynı olayda "zararın ağırlığı" ile "failin kusurunun ağırlığı" zıt yönleri gösterdiğinde hangisinin üstün tutulacağı, tamamen takdire kalmaktadır. Sonuç, benzer dosyalarda birbirinden hayli farklı cezalar çıkmasıdır.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 61 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Bu belirsizlik karşısında öne sürülen çözüm, ceza belirlemede yol gösterici ölçekler kullanılmasıdır. Karşılaştırmalı hukukta örnekleri bulunan bu yaklaşım öngörülebilirliği artırmakla birlikte, bireyselleştirmeyi zayıflatma riski taşır. Bizce sorun ölçütlerin sayısında değil gerekçelendirme disiplinindedir; Yargıtay denetiminin ağırlığını bu noktaya vermesi de bunu doğrulamaktadır.
+
+İkinci bir eleştiri, üçüncü fıkranın uygulanmasındaki güçlüğe ilişkindir. Bir olgunun suçun unsuru mu yoksa temel cezayı etkileyen bir ölçüt mü olduğu her suç tipinde ayrı ayrı çözülmek zorundadır ve bu çözüm çoğu zaman içtihatla üretilmektedir. Kanun metninin bu ayrımı yapmakta uygulayıcıya yardımcı olmadığı söylenebilir.
+
+Beşinci fıkradaki sıralama ise maddenin en isabetli yanıdır. Sıra emredici olduğu için hesap denetlenebilir hâle gelmekte, cezanın nasıl bulunduğu hüküm fıkrasından okunabilmektedir. Buna karşılık uygulamada sıranın kâğıt üzerinde korunup gerekçenin boş bırakıldığı hükümlere de rastlanmakta olup, biçimsel uyum tek başına maddenin amacını gerçekleştirmemektedir.
+
+Son olarak, 43. madde ile kurulan ilişki üzerinde durulmalıdır. Zincirleme suç hükümlerinin uygulanamadığı hâllerde fiilin çokluğunun temel cezaya yansıtılması, boşluğu kapatan makul bir çözümdür. Ne var ki bu yol, artırım oranları kanunla belirlenmiş bir kurumun yerine, oranı gösterilmeyen bir takdiri koymaktadır. Denetimin güçleştiği bu alanda gerekçenin daha da titiz yazılması gerekir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: Türk Ceza Kanunu m. 61 resmî metni ve kanun sistematiği.
+Bu yorum, maddenin resmî metni esas alınarak hazırlanmıştır. Metin, mevzuat.gov.tr kaynağındaki hâliyle doğrulanmıştır; yedinci ve sekizinci fıkralar 29/6/2005 tarihli ve 5377 sayılı Kanunun 7. maddesiyle eklenmiştir.
 
-Bu bağlamda m. 61 uygulamasında «- (1) Hakim, somut olayda;» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 17 d) Suçun konusunun önem ve değerini, e) Meydana gelen zarar veya tehlikenin ağırlığını, f) Failin kast veya taksire dayalı kusurunun ağırlığını, g) Failin güttüğü amaç ve saiki, Göz önünde bulundurarak, işlenen suçun kanuni tanımında öngörülen cezanın alt ve üst sınırı arasında temel cezayı belirler.
+Yargıtay kararları, bu maddeye yapısal atıf yapan kararların yerel arşivden çıkarılmasıyla belirlenmiştir. Arşiv karararama.yargitay.gov.tr kaynağından derlenmiş olup künyeler kaynak metinden birebir aktarılmıştır. Maddeye atıf yapan toplam karar sayısı arşivde 55'tir; yukarıda bunlardan altı Ceza Genel Kurulu kararına yer verilmiştir. Bir kısmında ilgili değerlendirme karşı oy gerekçesinde yer aldığından, metinde bu durum ayrıca belirtilmiştir.
 
-Öğretide genel kabul gören görüşe göre, TCK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (2) Suçun olası kastla ya da bilinçli taksirle işlenmesi nedeniyle indirim veya artırım, birinci fıkra hükmüne göre belirlenen ceza üzerinden yapılır.
+Ceza hukuku alanında doğrulanabilir bir yazar ve eser listesi bulunmadığından, doktrin görüşleri isim verilmeksizin ve genel ifadelerle aktarılmıştır. Sayfa numarası, baskı yılı ve künye bilgisi verilmemiştir.
 
-Uygulayıcı, kanunilik ile kusur arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (3) Birinci fıkrada belirtilen hususların suçun unsurunu oluşturduğu hallerde, bunlar temel cezanın belirlenmesinde ayrıca göz önünde bulundurulmaz.
+Beşinci bölümdeki olay senaryolarının tamamı kurmacadır ve öğretici amaçla üretilmiştir; gerçek bir dosyayla ilgisi yoktur.
 
-Yatay mevzuat (5271 sayılı CMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (4) Bir suçun temel şekline nazaran daha ağır veya daha az cezayı gerektiren birden fazla nitelikli hallerin gerçekleşmesi durumunda;
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 61 sonuçlarının fiilen elde edilmesi için belirleyicidir. temel cezada önce artırma sonra indirme yapılır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (5) Yukarıdaki fıkralara göre belirlenen ceza üzerinden sırasıyla teşebbüs, iştirak, zincirleme suç, haksız tahrik, yaş küçüklüğü, akıl hastalığı ve cezada indirim yapılmasını gerektiren şahsi sebeplere ilişkin hükümler ile takdiri indirim nedenleri uygulanarak sonuç ceza belirlenir.
-
-Sonuç olarak, TCK madde 61 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (6) Hapis cezasının süresi gün, ay ve yıl hesabıyla belirlenir.
-
-Bu bağlamda m. 61 uygulamasında «- (1) Hakim, somut olayda;» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Yıl, resmi takvime göre hesap edilir.
-
-Öğretide genel kabul gören görüşe göre, TCK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Hapis cezası için bir günün, adlî para cezası için bir Türk Lirasının artakalanı hesaba katılmaz ve bu cezalar infaz edilmez.
-
-Uygulayıcı, kanunilik ile kusur arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (7) (Ek: 29/6/2005 – 5377/7 md.)Süreli hapis cezasını gerektiren bir suçtan dolayı bu madde hükümlerine göre belirlenen sonuç ceza, otuz yıldan fazla olamaz.
-
-Yatay mevzuat (5271 sayılı CMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (8) (Ek: 29/6/2005 – 5377/7 md.) Adlî para cezası hesaplanırken, bu madde hükmüne göre cezanın belirlenmesi ve bireyselleştirilmesine yönelik artırma ve indirimler, gün üzerinden yapılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 61 sonuçlarının fiilen elde edilmesi için belirleyicidir. Adlî para cezası, belirlenen sonuç gün ile kişinin bir gün karşılığı ödeyebileceği miktarın çarpılması suretiyle bulunur.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (9) (Ek: 6/12/2006 – 5560/1 md.) Adlî para cezasının seçimlik ceza olarak öngörüldüğü suçlarda bu cezaya ilişkin gün biriminin alt sınırı, o suç tanımındaki hapis cezasının alt sınırından az;
-
-Sonuç olarak, TCK madde 61 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. üst sınırı da, hapis cezasının üst sınırından fazla olamaz.
-
-Bu bağlamda m. 61 uygulamasında «- (1) Hakim, somut olayda;» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 17 d) Suçun konusunun önem ve değerini, e) Meydana gelen zarar veya tehlikenin ağırlığını, f) Failin kast veya taksire dayalı kusurunun ağırlığını, g) Failin güttüğü amaç ve saiki, Göz önünde bulundurarak, işlenen suçun kanuni tanımında öngörülen cezanın alt ve üst sınırı arasında temel cezayı belirler.
-
-Öğretide genel kabul gören görüşe göre, TCK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (2) Suçun olası kastla ya da bilinçli taksirle işlenmesi nedeniyle indirim veya artırım, birinci fıkra hükmüne göre belirlenen ceza üzerinden yapılır.
-
-Uygulayıcı, kanunilik ile kusur arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (3) Birinci fıkrada belirtilen hususların suçun unsurunu oluşturduğu hallerde, bunlar temel cezanın belirlenmesinde ayrıca göz önünde bulundurulmaz.
-
-Yatay mevzuat (5271 sayılı CMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (4) Bir suçun temel şekline nazaran daha ağır veya daha az cezayı gerektiren birden fazla nitelikli hallerin gerçekleşmesi durumunda;
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 61 sonuçlarının fiilen elde edilmesi için belirleyicidir. temel cezada önce artırma sonra indirme yapılır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (5) Yukarıdaki fıkralara göre belirlenen ceza üzerinden sırasıyla teşebbüs, iştirak, zincirleme suç, haksız tahrik, yaş küçüklüğü, akıl hastalığı ve cezada indirim yapılmasını gerektiren şahsi sebeplere ilişkin hükümler ile takdiri indirim nedenleri uygulanarak sonuç ceza belirlenir.
-
-Sonuç olarak, TCK madde 61 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (6) Hapis cezasının süresi gün, ay ve yıl hesabıyla belirlenir.
-
-Bu bağlamda m. 61 uygulamasında «- (1) Hakim, somut olayda;» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Yıl, resmi takvime göre hesap edilir.
-
-Öğretide genel kabul gören görüşe göre, TCK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Hapis cezası için bir günün, adlî para cezası için bir Türk Lirasının artakalanı hesaba katılmaz ve bu cezalar infaz edilmez.
-
-Uygulayıcı, kanunilik ile kusur arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (7) (Ek: 29/6/2005 – 5377/7 md.)Süreli hapis cezasını gerektiren bir suçtan dolayı bu madde hükümlerine göre belirlenen sonuç ceza, otuz yıldan fazla olamaz.
-
-Yatay mevzuat (5271 sayılı CMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (8) (Ek: 29/6/2005 – 5377/7 md.) Adlî para cezası hesaplanırken, bu madde hükmüne göre cezanın belirlenmesi ve bireyselleştirilmesine yönelik artırma ve indirimler, gün üzerinden yapılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 61 sonuçlarının fiilen elde edilmesi için belirleyicidir. Adlî para cezası, belirlenen sonuç gün ile kişinin bir gün karşılığı ödeyebileceği miktarın çarpılması suretiyle bulunur.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (9) (Ek: 6/12/2006 – 5560/1 md.) Adlî para cezasının seçimlik ceza olarak öngörüldüğü suçlarda bu cezaya ilişkin gün biriminin alt sınırı, o suç tanımındaki hapis cezasının alt sınırından az;
-
-Sonuç olarak, TCK madde 61 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. üst sınırı da, hapis cezasının üst sınırından fazla olamaz.
-
-Bu bağlamda m. 61 uygulamasında «- (1) Hakim, somut olayda;» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 17 d) Suçun konusunun önem ve değerini, e) Meydana gelen zarar veya tehlikenin ağırlığını, f) Failin kast veya taksire dayalı kusurunun ağırlığını, g) Failin güttüğü amaç ve saiki, Göz önünde bulundurarak, işlenen suçun kanuni tanımında öngörülen cezanın alt ve üst sınırı arasında temel cezayı belirler.
-
-Öğretide genel kabul gören görüşe göre, TCK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (2) Suçun olası kastla ya da bilinçli taksirle işlenmesi nedeniyle indirim veya artırım, birinci fıkra hükmüne göre belirlenen ceza üzerinden yapılır.
-
-Uygulayıcı, kanunilik ile kusur arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (3) Birinci fıkrada belirtilen hususların suçun unsurunu oluşturduğu hallerde, bunlar temel cezanın belirlenmesinde ayrıca göz önünde bulundurulmaz.
-
-Yatay mevzuat (5271 sayılı CMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (4) Bir suçun temel şekline nazaran daha ağır veya daha az cezayı gerektiren birden fazla nitelikli hallerin gerçekleşmesi durumunda;
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 61 sonuçlarının fiilen elde edilmesi için belirleyicidir. temel cezada önce artırma sonra indirme yapılır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (5) Yukarıdaki fıkralara göre belirlenen ceza üzerinden sırasıyla teşebbüs, iştirak, zincirleme suç, haksız tahrik, yaş küçüklüğü, akıl hastalığı ve cezada indirim yapılmasını gerektiren şahsi sebeplere ilişkin hükümler ile takdiri indirim nedenleri uygulanarak sonuç ceza belirlenir.
-
-Sonuç olarak, TCK madde 61 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (6) Hapis cezasının süresi gün, ay ve yıl hesabıyla belirlenir.
-
-Bu bağlamda m. 61 uygulamasında «- (1) Hakim, somut olayda;» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Yıl, resmi takvime göre hesap edilir.
-
-Öğretide genel kabul gören görüşe göre, TCK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Hapis cezası için bir günün, adlî para cezası için bir Türk Lirasının artakalanı hesaba katılmaz ve bu cezalar infaz edilmez.
-
-Uygulayıcı, kanunilik ile kusur arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (7) (Ek: 29/6/2005 – 5377/7 md.)Süreli hapis cezasını gerektiren bir suçtan dolayı bu madde hükümlerine göre belirlenen sonuç ceza, otuz yıldan fazla olamaz.
-
-Yatay mevzuat (5271 sayılı CMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (8) (Ek: 29/6/2005 – 5377/7 md.) Adlî para cezası hesaplanırken, bu madde hükmüne göre cezanın belirlenmesi ve bireyselleştirilmesine yönelik artırma ve indirimler, gün üzerinden yapılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 61 sonuçlarının fiilen elde edilmesi için belirleyicidir. Adlî para cezası, belirlenen sonuç gün ile kişinin bir gün karşılığı ödeyebileceği miktarın çarpılması suretiyle bulunur.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (9) (Ek: 6/12/2006 – 5560/1 md.) Adlî para cezasının seçimlik ceza olarak öngörüldüğü suçlarda bu cezaya ilişkin gün biriminin alt sınırı, o suç tanımındaki hapis cezasının alt sınırından az;
-
-Sonuç olarak, TCK madde 61 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. üst sınırı da, hapis cezasının üst sınırından fazla olamaz.
-
-Bu bağlamda m. 61 uygulamasında «- (1) Hakim, somut olayda;» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 17 d) Suçun konusunun önem ve değerini, e) Meydana gelen zarar veya tehlikenin ağırlığını, f) Failin kast veya taksire dayalı kusurunun ağırlığını, g) Failin güttüğü amaç ve saiki, Göz önünde bulundurarak, işlenen suçun kanuni tanımında öngörülen cezanın alt ve üst sınırı arasında temel cezayı belirler.
-
-Öğretide genel kabul gören görüşe göre, TCK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (2) Suçun olası kastla ya da bilinçli taksirle işlenmesi nedeniyle indirim veya artırım, birinci fıkra hükmüne göre belirlenen ceza üzerinden yapılır.
-
-Uygulayıcı, kanunilik ile kusur arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (3) Birinci fıkrada belirtilen hususların suçun unsurunu oluşturduğu hallerde, bunlar temel cezanın belirlenmesinde ayrıca göz önünde bulundurulmaz.
-
-Yatay mevzuat (5271 sayılı CMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (4) Bir suçun temel şekline nazaran daha ağır veya daha az cezayı gerektiren birden fazla nitelikli hallerin gerçekleşmesi durumunda;
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 61 sonuçlarının fiilen elde edilmesi için belirleyicidir. temel cezada önce artırma sonra indirme yapılır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (5) Yukarıdaki fıkralara göre belirlenen ceza üzerinden sırasıyla teşebbüs, iştirak, zincirleme suç, haksız tahrik, yaş küçüklüğü, akıl hastalığı ve cezada indirim yapılmasını gerektiren şahsi sebeplere ilişkin hükümler ile takdiri indirim nedenleri uygulanarak sonuç ceza belirlenir.
-
-Sonuç olarak, TCK madde 61 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (6) Hapis cezasının süresi gün, ay ve yıl hesabıyla belirlenir.
-
-Bu bağlamda m. 61 uygulamasında «- (1) Hakim, somut olayda;» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Yıl, resmi takvime göre hesap edilir.
-
-Öğretide genel kabul gören görüşe göre, TCK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Hapis cezası için bir günün, adlî para cezası için bir Türk Lirasının artakalanı hesaba katılmaz ve bu cezalar infaz edilmez.
-
-Uygulayıcı, kanunilik ile kusur arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (7) (Ek: 29/6/2005 – 5377/7 md.)Süreli hapis cezasını gerektiren bir suçtan dolayı bu madde hükümlerine göre belirlenen sonuç ceza, otuz yıldan fazla olamaz.
-
-Yatay mevzuat (5271 sayılı CMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (8) (Ek: 29/6/2005 – 5377/7 md.) Adlî para cezası hesaplanırken, bu madde hükmüne göre cezanın belirlenmesi ve bireyselleştirilmesine yönelik artırma ve indirimler, gün üzerinden yapılır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 61 sonuçlarının fiilen elde edilmesi için belirleyicidir. Adlî para cezası, belirlenen sonuç gün ile kişinin bir gün karşılığı ödeyebileceği miktarın çarpılması suretiyle bulunur.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (9) (Ek: 6/12/2006 – 5560/1 md.) Adlî para cezasının seçimlik ceza olarak öngörüldüğü suçlarda bu cezaya ilişkin gün biriminin alt sınırı, o suç tanımındaki hapis cezasının alt sınırından az;
-
-Sonuç olarak, TCK madde 61 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. üst sınırı da, hapis cezasının üst sınırından fazla olamaz.
-
-Bu bağlamda m. 61 uygulamasında «- (1) Hakim, somut olayda;» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 17 d) Suçun konusunun önem ve değerini, e) Meydana gelen zarar veya tehlikenin ağırlığını, f) Failin kast veya taksire dayalı kusurunun ağırlığını, g) Failin güttüğü amaç ve saiki, Göz önünde bulundurarak, işlenen suçun kanuni tanımında öngörülen cezanın alt ve üst sınırı arasında temel cezayı belirler.
-
-Öğretide genel kabul gören görüşe göre, TCK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (2) Suçun olası kastla ya da bilinçli taksirle işlenmesi nedeniyle indirim veya artırım, birinci fıkra hükmüne göre belirlenen ceza üzerinden yapılır.
-
-Uygulayıcı, kanunilik ile kusur arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (3) Birinci fıkrada belirtilen hususların suçun unsurunu oluşturduğu hallerde, bunlar temel cezanın belirlenmesinde ayrıca göz önünde bulundurulmaz.
-
-Yatay mevzuat (5271 sayılı CMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (4) Bir suçun temel şekline nazaran daha ağır veya daha az cezayı gerektiren birden fazla nitelikli hallerin gerçekleşmesi durumunda;
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 61 sonuçlarının fiilen elde edilmesi için belirleyicidir. temel cezada önce artırma sonra indirme yapılır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (5) Yukarıdaki fıkralara göre belirlenen ceza üzerinden sırasıyla teşebbüs, iştirak, zincirleme suç, haksız tahrik, yaş küçüklüğü, akıl hastalığı ve cezada indirim yapılmasını gerektiren şahsi sebeplere ilişkin hükümler ile takdiri indirim nedenleri uygulanarak sonuç ceza belirlenir.
+Yorum bilgilendirme amaçlıdır. Somut uyuşmazlıkta dosya bazlı hukuki değerlendirme gerekir; burada aktarılan hiçbir görüş sonuç vaadi taşımaz.

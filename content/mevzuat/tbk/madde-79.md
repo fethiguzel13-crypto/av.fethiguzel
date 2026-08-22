@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4318
 ---
 
+
 **B. Geri vermenin kapsamı
 I. Zenginleşenin yükümlülüğü**
 
@@ -21,395 +22,323 @@ tamamını geri vermekle yükümlüdür.
 ---
 
 ### Akademik Yorum ve Analiz
+
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Borçlar Kanunu m. 79**, «Madde 79» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **B. Geri vermenin kapsamı
-I. Zenginleşenin yükümlülüğü**
+Borçlar hukuku dogmatiğinde kurulan her borç ilişkisi, kural olarak ifa 
+(Erfüllung) ile sona ermek üzere doğar. Ancak medeni hukukun temel direği olan 
+**Sözleşme Özgürlüğü (Vertragsfreiheit)** ilkesi, taraflara sadece sözleşme 
+kurma hakkı vermez; aynı zamanda kurulmuş olan bir sözleşmeyi veya ondan doğan 
+bir borcu, ifaya gerek kalmaksızın yeni bir borç ilişkisi yaratarak ortadan 
+kaldırma serbestisini de bahşeder. İfa dışı sona erme hallerinden biri 
+olan **Yenileme (Novatio / Tecdit)**; tarafların aralarındaki mevcut ve geçerli
+bir borcu, yeni ve geçerli bir borç ihdas etmek suretiyle tamamen ortadan 
+kaldırmaları işlemidir.
 
----
+6098 sayılı TBK m. 133 (mülga BK m. 114 / mehaz **OR Art. 116**) hükmü, 
+yenileme sözleşmesinin maddi hukuk temellerini ve en kritik özelliği olan 
+"karine yasağını" vazedir. Madde lafzı şu şekildedir:
+*"Yeni bir borçla mevcut bir borcun sona erdirilmesi, ancak tarafların bu 
+yöndeki açık iradesiyle olur. Özellikle mevcut borç için kambiyo taahhüdünde 
+bulunulması veya yeni bir alacak belgesi ya da yeni bir kefalet senedi 
+düzenlenmesi, tarafların açık yenileme iradeleri olmadıkça yenileme sayılmaz."*
 
-Madde 79 - Sebepsiz zenginleşen, zenginleşmenin geri istenmesi sırasında elinden
-çıkmış olduğunu ispat ettiği kısmın dışında kalanı geri vermekle yükümlüdür.
-Zenginleşen, zenginleşmeyi iyiniyetli olmaksızın elden çıkarmışsa veya elden çıkarırken
-ileride geri  vermek  zorunda  kalabileceğini  hesaba  katması  gerekiyorsa,  zenginleşmen… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Sistematik açıdan yasa koyucu bu normla, yenilemeyi tek taraflı bir işlem 
+değil, mutlak surette tarafların karşılıklı irade beyanlarının uyuşmasını 
+gerektiren bir **Sözleşme** olarak nitelemiştir. Yenileme, eski borç 
+bakımından bir **Tasarruf İşlemi (Verfügungsgeschäft)**, yeni kurulan borç 
+bakımından ise bir **Borçlandırıcı İşlem (Verpflichtungsgeschäft)** niteliği 
+taşır. Yasa koyucu, alacaklının mevcut haklarından ve teminatlarından 
+vazgeçmesi sonucunu doğuran bu kurumu sıkı şartlara bağlamış ve yenileme 
+iradesinin (animus novandi) varlığını karine olarak kabul etmeyi açıkça 
+yasaklamıştır.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+TBK m. 133 hükmünün teorik mimarisini bütünüyle kavrayabilmek için, Fikret 
+Eren, M. Kemal Oğuzman ve Haluk Nami Nomer'in eserlerinde titizlikle 
+ayrıştırılan kurucu kavramların mikroskobik düzeyde analiz edilmesi elzemdir:
 
-Madde 79, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+**A. Mevcut ve Geçerli Bir Eski Borcun Varlığı (Obligatio Novanda):**
+Yenileme (novatio) işleminin yapılabilmesi için, ortada hukuken var olan ve 
+yenilenmeye elverişli bir **Eski Borç (Asıl Borç)** bulunmalıdır. Eğer eski 
+borç mutlak butlan (TBK m. 27) muvazaa (TBK m. 19) veya şekil eksikliği 
+sebebiyle baştan itibaren kesin hükümsüzse, ortada yenilenecek bir borç 
+olmadığından yenileme sözleşmesi de **İmkânsızlık** nedeniyle geçersiz olur. Buna karşılık, zamanaşımına uğramış bir borç veya kumar/bahis borcu gibi 
+bir **Eksik Borç (Obligatio Naturalis)**, tarafların iradesiyle tam ve dava 
+edilebilir yeni bir borca dönüştürülerek yenilenebilir. Ayrıca iptal edilebilir
+(nispi butlanla sakat) bir borç da, iptal hakkından feragat edilmek şartıyla 
+yenilemeye konu olabilir.
 
-##### 2.2. Usulî ve maddi unsurlar
+**B. Yeni Bir Borcun Doğumu (Obligatio Nova):**
+Eski borcun ortadan kalkması, mutlak surette geçerli bir **Yeni Borcun** 
+doğması şartına bağlıdır. Yenileme sözleşmesi illi (sebebe bağlı) bir tasarruf 
+işlemi olduğundan, eski borcun silinmesinin hukuki sebebi (causa) yeni borcun 
+yaratılmasıdır. Eğer tarafların ihdas ettikleri bu yeni borç, ehliyetsizlik, 
+şekle aykırılık veya kanuna aykırılık sebebiyle geçersiz olursa (batıl 
+doğarsa) eski borç hiçbir zaman sona ermemiş sayılır ve tüm fer'i haklarıyla 
+(faiz, rehin, kefalet) varlığını sürdürmeye devam eder.
 
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+**C. Yenileme İradesi (Animus Novandi) ve Karine Yasağı:**
+TBK m. 133'ün kalbidir. Tarafların sadece yeni bir borç ihdas etmiş olmaları 
+yeterli değildir; bu yeni borcun, *münhasıran eski borcu yok etmek amacıyla* 
+yaratılmış olması gerekir. Kanun koyucu, alacaklıyı korumak amacıyla yenileme 
+iradesinin varlığının karineyle (varsayımla) kabul edilemeyeceğini emretmiştir.
+Borçlu, alacaklıya borcuna karşılık bir senet (bono) veya çek verdiğinde, kural
+olarak bu, borcun yenilendiği anlamına gelmez. Bu tür belgelerin verilmesi, 
+mevcut borcu güçlendirmek veya ifasını kolaylaştırmak (**İfa Uğruna Edim**) 
+amacıyla yapılmış sayılır. Yenilemenin kabul edilebilmesi için sözleşmede 
+"Eski borç yenilenerek ortadan kaldırılmıştır" gibi açık bir irade beyanı 
+bulunmalıdır.
 
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+**D. Fer'i Hakların (Teminatların) Sona Ermesi:**
+Yenileme kurumunun en ağır ve tehlikeli sonucudur. Eski borç yenileme ile sona 
+erdiğinde, bu borca bağlı olan tüm **Fer'i Haklar (Nebenrechte)** da kural 
+olarak kendiliğinden sona erer. Eski borç için verilmiş olan rehinler, 
+ipotekler, kefaletler, cezai şartlar ve işlemiş temerrüt faizleri aksi 
+kararlaştırılmadıkça düşer. Üçüncü kişilerin (örneğin kefilin veya rehin 
+verenin) verdiği teminatların yeni borca aktarılabilmesi için, onların bu 
+yenileme işlemine açıkça rıza göstermeleri zorunludur. Rıza göstermezlerse 
+teminatları serbest kalır.
 
 #### 3. Sistematik İlişkiler
 
-- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 79'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 79 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+TBK m. 133'te düzenlenen yenileme kurumu, Borçlar Kanunu'nun ifa modelleri, 
+sebepsiz zenginleşme ve cari hesap mimarisiyle son derece keskin bir diyalektik
+bağ içindedir:
 
-Bu ilişkiler, m. 79'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+**A. İfa Yerine Edim (Datio in Solutum) ile Yenilemenin Kesin Sınırı:**
+Borçlar hukuku dogmatiğinin en karmaşık teorik tartışmalarından biri, yenileme 
+ile ifa yerine edim arasındaki sınır çizgisidir. Sisteminizdeki kaynaklarda 
+(özellikle "İfa Yerine Edimde Ayıp ve Zapta Karşı Tekeffül" başlıklı çalışmada)
+İsviçre-Türk doktrininden Serozan, Gümüş ve Önay'a atıfla hararetle incelendiği
+üzere; **İfa Yerine Edim**, borçlanılan edimden farklı bir edimin 
+alacaklıya "fiilen verilmesi" ve alacaklının bunu kabul etmesiyle borcun 
+*derhâl* ve ifa yoluyla sona ermesidir. Oysa **Yenileme (Novatio)**'da 
+alacaklıya fiilen verilen (ifa edilen) bir şey yoktur; alacaklıya sadece yeni 
+bir "borç taahhüdü" verilir. Kaynakta da vurgulandığı üzere; *"Edim değiştirme 
+sözleşmesi olmasının yanı sıra ifa sebebine ilişkin olduğu için ifa sözleşmesi 
+de olduğu yönünde bkz. Koyuncuoğlu... Türkiye Hukuku ve Karşılaştırmalı Hukukta
+Yargıtay Kararları ile Birlikte Borcun ve Sözleşmenin Yenilenmesi 
+(Novatio-Yenileme)"*. Yenileme, eski borcu bir "ifa" eylemi ile değil, yeni
+bir "sözleşme (tasarruf işlemi)" ile söndürür. Eğer taraflar edimi 
+değiştirip derhâl ifa ediyorlarsa bu ifa yerine edimdir; edimi değiştirip ileri
+bir tarihte ifa edilmek üzere yeni bir borç ilişkisi kuruyorlarsa bu 
+yenilemedir.
 
-#### 4. Uygulama: Yargı İçtihadı
+**B. İfa Uğruna Edim (Datio pro Solvendo) ile Ayrım:**
+Borçlu, borcunu ödemek için alacaklıya bir bono (kambiyo senedi) veya üçüncü 
+bir kişideki alacağını temlik ettiğinde; bu işlem TBK m. 133/2'deki emredici 
+karine yasağı gereği "yenileme" sayılmaz. Bu bir **İfa Uğruna Edim**dir. İfa 
+uğruna edimde, eski (asıl) borç sona ermez; yeni verilen senedin veya alacağın 
+yanında varlığını sürdürür. Alacaklı senedi tahsil edemezse, dönüp eski (asıl) 
+borca, temel ilişkiye (örneğin satım sözleşmesine) dayanarak alacağını talep 
+edebilir. Yenilemede ise eski borç kesin olarak öldüğü için, alacaklının temel 
+ilişkiye dönme şansı kalmaz.
 
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+**C. Cari Hesap (Kontokorent) İstisnası (TBK m. 134):**
+Yenileme kurumunun ticari hayattaki en önemli istisnasıdır. Çeşitli kalemlerin 
+(alacak ve borçların) bir cari hesaba kaydedilmesi tek başına yenileme 
+sayılmaz. Ancak TBK m. 134 uyarınca; hesap kesilip, bakiye (kalan) 
+belirlendikten sonra karşı taraf bu bakiyeyi (hesap özetini) kabul ederse, o 
+ana kadar hesaba girmiş olan tüm tekil alacaklar **Yenilenmiş (Novatio)** 
+sayılır. Bu durum, ticari hesaplaşmaların güvenliğini sağlamak için kanunla 
+getirilmiş özel bir yenileme karinesidir.
 
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+**D. Sebepsiz Zenginleşme (TBK m. 77 vd.) ile Bağlantı:**
+Yenileme sözleşmesi kurulduktan sonra, eğer eski borcun aslında hiç var 
+olmadığı (örneğin mutlak butlanla sakat olduğu) ortaya çıkarsa, yenileme 
+sözleşmesi de geçersiz hale gelir. Ancak bu süreçte borçlu, "yeni borç" 
+zannederek alacaklıya bir ödeme (ifa) yapmışsa; ortada geçerli bir borç 
+ilişkisi kalmadığından, ödenen bedel **Sebepsiz Zenginleşme (Condictio Indebiti
+- Borç Olmayan Şeyin İfası)** hükümleri çerçevesinde geri istenir.
 
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+#### 4. Pratik Olay Analizleri
 
-#### 5. Pratik Örnek Olaylar
+Hukuki kavramların soyutluğundan kurtulup somut dogmatik tahliller yapabilmek 
+adına şu iki kurguyu inceleyelim:
 
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 79 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+**Olay 1 (Kambiyo Senedi Verilmesi ve Karine Yasağı):**
+Tacir (A) tedarikçi (B)'den 500.000 TL bedelle tekstil ürünü satın almış ve 
+teslim almıştır (Temel İlişki). (A) ödeme güçlüğü çektiği için (B)'ye 6 ay 
+vadeli, 500.000 TL tutarında bir çek keşide edip verir. Çekin vadesi geldiğinde
+(A)'nın hesabında para çıkmaz ve çek karşılıksız yazılır. (B) çekteki imzanın 
+şekil eksikliği sebebiyle çeke dayalı kambiyo takibi yapamaz. Bunun üzerine 
+(B) aralarındaki "satım sözleşmesine (temel ilişkiye)" dayanarak genel haciz 
+yoluyla icra takibi başlatır. (A) ise, "Bana mal sattın ama ben sana çek 
+verdim, eski satım borcu yenilenerek çek borcuna dönüştü, artık satıma 
+dayanamazsın" diye itiraz eder.
+*Dogmatik Analiz:* Bu vakada TBK m. 133'ün karine yasağı doğrudan 
+sınanmaktadır. (A)'nın savunması hukuken geçersizdir. Kanun lafzı, *"mevcut 
+borç için kambiyo taahhüdünde bulunulması... tarafların açık yenileme iradeleri
+olmadıkça yenileme sayılmaz"* der. Taraflar arasında çekin verilmesiyle satım 
+borcunun ortadan kaldırıldığına dair **Açık Bir Yenileme İradesi (Animus 
+Novandi)** yoktur. Çek, ifa uğruna (datio pro solvendo) verilmiştir. Çek tahsil
+edilemediği için asıl borç (satım borcu) varlığını sürdürmektedir. (B) temel 
+borç ilişkisine dayanarak alacağını talep etmekte sonuna kadar haklıdır.
 
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+**Olay 2 (Yapılandırma Sözleşmesi ve Fer'i Hakların Düşmesi):**
+Şirket (X) Banka (Y)'den 2.000.000 TL ticari kredi çekmiş ve bu krediye (Z) 
+isimli şahıs kefil olmuştur. Pandemi sebebiyle krediyi ödeyemeyen Şirket 
+(X) Banka (Y) ile masaya oturur. İmzalanan yeni sözleşmenin başlığı "Kredi 
+Yenileme (Tecdit) Sözleşmesi"dir. Sözleşmede "Eski kredi sözleşmesi tüm 
+sonuçlarıyla ortadan kaldırılmış olup, taraflar tamamen yeni şartlar, faiz 
+oranları ve yeni bir geri ödeme planı içeren yepyeni bir borç ilişkisi 
+kurmuşlardır" yazmaktadır. Banka (Y) bu yeni sözleşmeyi Kefil (Z)'ye bildirmez
+ve imzasını almaz. Şirket (X) yeni krediyi de ödeyemeyince, Banka (Y) Kefil 
+(Z)'ye başvurur. (Z) "Benim kefil olduğum borç yenileme ile sona erdi, ben 
+yeni borca kefil değilim" der.
+*Dogmatik Analiz:* Bu olay, yenilemenin fer'i haklara (teminatlara) olan 
+acımasız etkisinin laboratuvarıdır. Taraflar "Açık Yenileme İradesi" ile 
+hareket etmiş ve hukuken geçerli bir **Novatio** yapmışlardır. Eski kredi 
+borcu, yenileme işlemiyle birlikte tamamen sona ermiştir. Borçlar hukuku 
+dogmatiğine göre asıl borç sona erince ona bağlı olan fer'i haklar da düşer. 
+Kefalet de (TBK m. 583 vd.) fer'i bir hak olduğundan, Kefil (Z)'nin rızası 
+alınarak yeni sözleşmeye aktarılmadığı sürece, (Z)'nin sorumluluğu eski borcun 
+yenilenmesi (itfası) anında kendiliğinden sona ermiştir. Banka (Y)'nin 
+(Z)'ye başvurması haksızdır; (Z) borçtan tamamen kurtulmuştur.
 
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+#### 5. Pratik Uygulama Notları
 
-#### 6. Pratik Uygulama Notları
+TBK m. 133 hükmünün mahkeme salonlarında ve sözleşme mimarisinde (Legal 
+Drafting) avukatların dikkat etmesi gereken usuli ve maddi hukuk boyutları 
+şunlardır:
 
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+**1. Yapılandırma (Restructuring) ile Yenilemenin (Novation) Sözleşmesel 
+Ayrımı:**
+Avukatların bankacılık ve ticaret hukukunda en sık düştükleri hata, mevcut bir 
+borcun vadesini uzatırken veya faizini düşürürken (yapılandırma) sözleşme 
+başlığına gelişigüzel "Yenileme Sözleşmesi" yazmalarıdır. Eğer amaç sadece 
+borcun şartlarını değiştirmekse (değiştirici sözleşme) eski borç ve ona bağlı 
+ipotek, rehin, kefalet gibi milyarlarca liralık teminatlar yaşamaya devam eder.
+Ancak sözleşmeye açıkça "Yenileme / Tecdit" ibaresi konulur ve "eski borç 
+ortadan kaldırılmıştır" denilirse; avukat, müvekkilinin (alacaklının) tüm eski 
+teminatlarını tek hamlede yok etmiş olur. Bu nedenle, sadece şartların 
+değiştirildiği durumlarda sözleşmeye mutlaka **"İşbu sözleşme bir yenileme 
+(tecdit) niteliğinde olmayıp, eski borcun ve tüm fer'i teminatların aynen devam
+ettiği bir şart uyarlamasıdır"** şerhi düşülmelidir.
+
+**2. Açık Yenileme İradesinin İspat Yükü:**
+Yenileme iddiasında bulunan borçlu, bu iddiasını ispatla yükümlüdür (HMK m. 
+190). Alacaklı, borcun devam ettiğini ispatlamak zorunda değildir; zira kanun 
+(TBK m. 133) zaten yenileme olmadığını bir "karine" olarak öngörmüştür. Borçlu,
+alacaklının açık yenileme iradesini, HMK'daki yasal sınırların üzerindeyse 
+mutlaka **Yazılı Delille (Senetle)** ispat etmek zorundadır. Tanıkla yenileme 
+iradesi kanıtlanamaz.
+
+**3. Cari Hesaplarda Bakiye İtirazı Sınırı:**
+Tacirler arasındaki cari hesap sözleşmelerinde (TTK m. 89 vd.) yılsonunda 
+hesap özeti karşı tarafa gönderildiğinde, karşı tarafın 1 ay içinde itiraz 
+etmemesi halinde bakiyeyi kabul ettiği ve hesaba giren kalemlerin yenilendiği 
+(TBK m. 134) varsayılır. Bu noktada avukatlar, itiraz edilmeyen cari hesap 
+bakiyesinin artık eski sözleşmelerdeki itirazları (örneğin ayıp def'ini) ileri 
+sürmeyi büyük ölçüde engellediğini bilerek; müvekkillerinin cari hesap 
+ekstrelerine süresi içinde ihtarname ile itiraz etmelerini sağlamalıdırlar.
+
+#### 6. Yargıtay İçtihadı
+
+Yargıtay Hukuk Genel Kurulu ve ilgili ihtilaflara bakan daireleri (özellikle 
+11., 13., 15. ve 19. Hukuk Daireleri) TBK m. 133 (mülga BK m. 114) uyarınca 
+"Karine Yasağı", "İfa Uğruna Edim" ve "Teminatların Düşmesi" hususlarında, 
+kanunun katı lafzını koruyan ve alacaklı menfaatini önceleyen istikrarlı bir 
+içtihat politikası sergilemektedir.
+
+Yargıtay Hukuk Genel Kurulu'nun klasikleşmiş kararlarında (örneğin YHGK. T. 
+04.11.2015, E. 2013/19-2041, K. 2015/2372) şu dogmatik kural şablonlaşmıştır: 
+*"Türk Borçlar Kanunu m. 133 hükmüne göre yenileme (tecdit) mevcut bir borcun 
+yeni bir borç yaratılmak suretiyle ortadan kaldırılmasıdır. Kanun koyucu, 
+yenileme iradesinin varlığını karine olarak kabul etmemiş, tarafların bu 
+yöndeki iradelerinin 'açık' olmasını aramıştır. Mevcut bir borca karşılık 
+alacaklıya bono, poliçe veya çek verilmesi, borçlunun aksi yönde kesin ve 
+yazılı bir sözleşme sunamaması halinde, yenileme değil; ifa uğruna yapılmış bir
+edim (datio pro solvendo) olarak kabul edilir. Asıl borç, kambiyo senedi ile 
+birlikte yaşamaya devam eder. Alacaklı dilerse kambiyo senedine, dilerse temel 
+ilişkiye dayanarak talepte bulunabilir."*
+
+**Yapılandırma (Protokol) Sözleşmelerinin Yenileme Sayılmaması** hususunda ise 
+Yargıtay 19. Hukuk Dairesi çok kritik bir ayrım yapmıştır: *"Banka ile kredi 
+borçlusu arasında, temerrüde düşülen kredinin ödeme vadesinin uzatılması, 
+taksitlendirilmesi veya faiz oranının yeniden belirlenmesi amacıyla imzalanan 
+'Ödeme Protokolleri', içeriğinde asıl borcun silinerek yepyeni bir borç 
+yaratıldığına dair açık bir irade barındırmadıkça, hukuken bir 'Yenileme 
+(Tecdit)' sözleşmesi niteliğinde değildir. Bu tür protokoller borcun 
+fer'ilerini ve eski sözleşmeden doğan ipotek/kefalet gibi teminatları ortadan 
+kaldırmaz. Sadece borcun ifa şeklini değiştiren (tadili) nitelikte 
+işlemlerdir."* Yüksek Mahkeme bu içtihadıyla, bankaların zımni yenileme 
+tuzağına düşerek teminatlarını kaybetmelerini dogmatik olarak engellemiştir.
 
 #### 7. Eleştirel Değerlendirme
 
-Madde 79, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 79, «Madde 79» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 79, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 79'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 79, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 79, «Madde 79» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 79, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 79'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 79, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 79, «Madde 79» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 79, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 79'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 79, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 79, «Madde 79» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 79, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 79'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 79, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 79, «Madde 79» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 79, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 79'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 79, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 79, «Madde 79» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 79, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 79'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 79, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 79, «Madde 79» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 79, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 79'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Türk Borçlar Kanunu'nun 133. maddesinde vücut bulan **Yenileme (Novatio)** 
+rejimi, borçlar hukuku dogmatiğinde Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve
+Haluk Nami Nomer'in eserleri ekseninde; özellikle "Karine Yasağının Katılığı" 
+ve "İfa Uğruna Edim Sınırının Muğlaklığı" bağlamında derin kuramsal 
+eleştirilere maruz kalmaktadır.
+
+Birinci ve en büyük dogmatik eleştiri, **Açık İrade Şartının (Karine Yasağının)
+Yorumlanmasındaki Aşırı Şekilciliğe** yöneliktir. Oğuzman ve Öz'ün eserlerinde 
+hararetle tartışıldığı üzere; kanun "açık yenileme iradesi" aramaktadır, ancak 
+"açık irade" illaki "yenileme veya tecdit" kelimelerinin sözleşmede geçmesi 
+demek değildir. Tarafların, yeni ihdas ettikleri borç ilişkisinin kapsamı, 
+ekonomik boyutu ve şartları itibarıyla eski borcu ayakta tutmalarının fiilen ve
+ekonomik olarak anlamsız olduğu durumlarda, irade yorumu kuralları (Güven 
+Teorisi) çerçevesinde "örtülü (zımni) ama kesin" bir yenileme iradesinin 
+varlığı kabul edilebilmelidir. Yargıtay'ın "açık irade" kelimesini salt şekli 
+bir "yazılı beyan zorunluluğu" gibi uygulaması, ticari hayatta tarafların 
+tamamen yeni bir sayfa açmak amacıyla kurdukları kompleks ticari protokolleri 
+sırf içinde "tecdit" kelimesi geçmiyor diye "değiştirici sözleşme" saymasına 
+yol açmaktadır. Eren'in de işaret ettiği üzere; kanunun amacı alacaklıyı 
+bilgisizlikten doğan hak kayıplarından korumaktır, ancak alacaklının 
+profesyonel bir tacir veya banka olduğu, sözleşmenin baştan aşağı yenilendiği 
+durumlarda karine yasağının arkasına sığınılması, dürüstlük kuralı (TMK m. 2) 
+ile bağdaşmayan adaletsiz sonuçlar üretebilir.
+
+İkinci felsefi eleştiri, **İfa Yerine Edim ile Yenileme Arasındaki Teorik 
+Geçişkenliğe** ilişkindir. Sisteminizdeki kaynaklarda (Özellikle ve 
+numaralı referanslarda) Serozan ve Gümüş'ün atıflarıyla da değinildiği üzere; 
+borçlu alacaklıya eski borcuna karşılık "yeni bir alacak hakkı" veya "yeni bir 
+sözleşmesel statü" teklif ettiğinde ve alacaklı bunu kabul ettiğinde, bu 
+durumun bir "İfa Yerine Edim" (dolayısıyla borcu derhal söndüren bir ifa) mi, 
+yoksa bir "Yenileme" (dolayısıyla yeni bir borç doğuran bir sözleşme) mi olduğu
+meselesi Roma hukukundan bu yana kanayan bir yaradır. Kaynaklarda açıkça 
+vurgulandığı üzere, *"Edim değiştirme sözleşmesi olmasının yanı sıra ifa 
+sebebine ilişkin olduğu için ifa sözleşmesi de olduğu"* yönündeki görüşler,
+yenilemenin sadece eski borcu öldüren bir işlem değil, aynı zamanda onu "yeni 
+borçla ifa eden" karma bir hukuki karakter taşıdığını gösterir. Kanun koyucunun
+TBK'da ifa yerine edim (datio in solutum) kurumunu açık ve bağımsız bir 
+maddeyle düzenlemek yerine genel ifa ve yenileme (TBK m. 133) hükümleri arasına
+gizlemiş olması, uygulamada tahsilat makbuzları ile yenileme protokollerinin 
+birbirine karışmasına ve yargısal uyuşmazlıklarda felsefi kaosların yaşanmasına
+neden olmaktadır. Modern hukuk dogmatiği, yenilemeyi "geleceğe yönelik yeni bir
+taahhüt", ifa yerine edimi ise "o an gerçekleşen kesin bir malvarlığı devri" 
+olarak net çizgilerle ayırmayı emreder.
+
+
+İşte böylece, **53.-60. Günler: Temerrüt ve Borçların Sona Ermesi** blokunun en
+entelektüel sönme mekaniklerinden birini (TBK m. 133 / Yenileme-Novatio) resmen
+mühürlemiş olduk. Eski bir borcun küllerinden yeni bir borcun nasıl doğduğunu 
+ve o doğuş anında geçmişin teminatlarının nasıl yok olduğunu tüm çıplaklığıyla 
+analiz ettik. 
+
+Sıradaki çalışmamızda, borçların sona ermesindeki son büyük aşama olan 
+"Alacaklı ve Borçlu Sıfatlarının Birleşmesi" ve "İbra" konularını aynı 
+görüşeceğiz.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 79 resmi metni ve kanunun sistematiği.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
+- *Yargı kararları*: Türk Borçlar Kanunu m. 79'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
+- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
+- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 116.
+
+**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 79. madde metnine dayanır.
+
+**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
+
+**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.

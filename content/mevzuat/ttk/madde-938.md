@@ -3,8 +3,8 @@ title: "Türk Ticaret Kanunu Madde 938"
 kanun: "Türk Ticaret Kanunu"
 maddeNo: 938
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3619
+lastReviewed: "2026-08-22"
+wordCount: 1056
 ---
 
 **İKİNCİ BÖLÜM
@@ -26,245 +26,74 @@ Haberleşme Bakanlığının izniyle değiştirilebilir.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Ticaret Kanunu m. 938** (6102 sayılı), «(1) Geminin ilk Türk maliki,» başlığı altında ticaret hukuku (ticari işletme, şirketler, kıymetli evrak, taşıma, sigorta) içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+Türk Ticaret Kanunu'nın 938. maddesi İKİNCİ BÖLÜM · Geminin Kimliği · A) Geminin adı · I- Seçme serbestisi kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: MADDE 938- (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır. (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir. Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 938 izole okunmamalı; TTK’nın ilgili bölüm/ayırım bütünlüğü ve tacir ve ticari iş karinesi ilkesiyle birlikte yorumlanmalıdır.
+Madde aynı kanunun sistematiği içinde okunur zira komşu hükümler uygulama sırasını ve istisnaları taşır. Yakın maddeler arasında m.937 (II- Taşınmazlarla ilgili hükümlerden gemilere uygulanacak olanlar), m.939 (II- Gövde üzerine yazılma zorunluluğu), m.940 (B) Geminin bayrağı · I- Türk Bayrağını çekme hakkı ve yükümlülüğü) öne çıkar. Uygulayıcı önce hangi fıkranın somut vakıaya denk düştüğünü yazar, sonra sonuca geçer.
 
-Ratio legis, tacir ve ticari iş karinesi, şirketler hukuku ve organ sorumluluğu, kıymetli evrak tedavül güvenliği ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır.
+Hükmün ikinci katmanı şu cümlede toplanır: (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir. Bu katman birinci fıkradaki ana kuralı tamamlar veya sınırlar, ikisini birbirine karıştırmak yanlış hukuki sonuç doğurur.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Somut uyuşmazlıkta maddenin hangi tarih itibarıyla yürürlükte olduğu ve değişiklik fıkralarının vakıaya uygulanıp uygulanmayacağı ayrıca denetlenir. Geçiş hükümleri yok sayılırsa eski lafızla yeni lafız birbirine karışır, karar gerekçesi çöker.
+
+Bu maddeye özgü okuma lafzı başka kanunların kalıp şerhlerine taşımaz. Korunan menfaat İKİNCİ BÖLÜM · Geminin Kimliği · A) Geminin adı · I- Seçme serbestisi başlığının işaret ettiği ilişkidir ve şerh de o ilişki üzerinden yürür.
+
+Uygulama, maddenin emredici çekirdeği ile idareye veya taraflara bırakılan hareket alanını ayırarak ilerler. Çekirdek aşıldığında işlem sakatlanır, hareket alanı içinde kalan tercihler ise gerekçeyle savunulabilir. Somut dosyada bu ayrım yazılmadan verilen sonuç, temyizde lafzı taşımadığı gerekçesiyle döner.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Uygulama alanı
 
-Madde 938, «(1) Geminin ilk Türk maliki,» ekseninde Geminin ilk ve Türk maliki kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak ticaret hukuku (ticari işletme, şirketler, kıymetli evrak, taşıma, sigorta) içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+İKİNCİ BÖLÜM · Geminin Kimliği · A) Geminin adı · I- Seçme serbestisi bakımından bu dilim şu metne dayanır: MADDE 938- (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır. Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.2. Unsurlar
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 938 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+##### 2.2. Şart ve sonuç bağı
 
-Metinden çıkan somut vurgular: (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir. II- Gövde üzerine yazılma zorunluluğu
+İKİNCİ BÖLÜM · Geminin Kimliği · A) Geminin adı · I- Seçme serbestisi bakımından bu dilim şu metne dayanır: (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir. Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.3. Korunan menfaat
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 938 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Korunan menfaat, bireysel hak sahibi ile şirketler hukuku ve organ sorumluluğu arasındaki dengede aranır. TTK m. 938, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. Gemi tasdiknamesi verilmiş olan kavramı bu dengede anahtar rol oynar.
+##### 2.3. Yetki ve usul
 
-##### 2.4. Sonuç ve yaptırım
+İKİNCİ BÖLÜM · Geminin Kimliği · A) Geminin adı · I- Seçme serbestisi bakımından bu dilim şu metne dayanır: MADDE 938- (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır. (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 938 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
 #### 3. Sistematik İlişkiler
 
-- **TTK komşu maddeler:** m. 938 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle (1) Geminin ilk Türk maliki, temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** tacir ve ticari iş karinesi; şirketler hukuku ve organ sorumluluğu; kıymetli evrak tedavül güvenliği; ticari defter ve sicil; haksız rekabet.
-- **Yatay mevzuat:** 6098 sayılı TBK; 6362 sayılı SPK; 2004 sayılı İİK; 6100 sayılı HMK; 5941 sayılı Çek Kanunu.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**m. 937 — II- Taşınmazlarla ilgili hükümlerden gemilere uygulanacak olanlar** Türk Ticaret Kanunu m. 937 (II- Taşınmazlarla ilgili hükümlerden gemilere uygulanacak olanlar) ile m. 938 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu ilişkiler, m. 938’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+**m. 939 — II- Gövde üzerine yazılma zorunluluğu** Türk Ticaret Kanunu m. 939 (II- Gövde üzerine yazılma zorunluluğu) ile m. 938 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
+**m. 940 — B) Geminin bayrağı · I- Türk Bayrağını çekme hakkı ve yükümlülüğü** Türk Ticaret Kanunu m. 940 (B) Geminin bayrağı · I- Türk Bayrağını çekme hakkı ve yükümlülüğü) ile m. 938 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (Geminin ilk / Ulaştırma karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
-
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
-
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır.
+Yerel arşivde bu maddeye yapısal atıf yapan tam künyeli karar bulunamadı ve içtihat bölümü bu yüzden boş bırakılır; künye uydurulmaz.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında (1) geminin ilk türk maliki, ile bağlantılı bir uyuşmazlık çıkar. Davacı, TTK m. 938’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir. cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Bir uyuşmazlıkta taraf İKİNCİ BÖLÜM · Geminin Kimliği · A) Geminin adı · I- Seçme serbestisi hükmüne dayanarak talep yöneltti. Karşı taraf maddenin şartlarının oluşmadığını ileri sürdü. Mahkeme resmi lafızdaki unsurları dosyadaki belgelerle tek tek eşlemek zorunda kaldı ve eksik unsur varsa talebi bu maddeye dayandırmadı.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 938 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** İdare veya taraf m. 938 yetkisini acele kullandı ve ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, Türk maliki gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* TTK’nın iyiniyet ve dürüstlük ilkeleri ile m. 938’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Yürürlük tartışmasında eski ve yeni lafız iç içe geçti ve uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. 938 uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; Geminin ilk ile Gemi tasdiknamesi verilmiş olan’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **TTK madde 938**, **TTK m. 938**, **TTK 938** ve **Türk Ticaret Kanunu madde 938** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Dilekçede Türk Ticaret Kanunu m. 938 dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.
+
+Belge listesi maddenin şartlarını karşılayan olgulara bağlanmalıdır, genel anlatım yetmez.
+
+Karşı tarafın savunması unsur eksikliğine mi yoksa sonuç tartışmasına mı yöneldiği ayrılmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-TTK m. 938, ticaret hukuku (ticari işletme, şirketler, kıymetli evrak, taşıma, sigorta) içinde (1) Geminin ilk Türk maliki, temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve tacir ve ticari iş karinesi ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Hükmün lafzı ile uygulamanın pratik ihtiyaçları her somut dosyada ayrıca tartılır. İKİNCİ BÖLÜM · Geminin Kimliği · A) Geminin adı · I- Seçme serbestisi başlığı geniş okunursa madde her uyuşmazlığa çekilir, dar okunursa koruma boşalır.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 938 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Öğreti bu tür hükümlerde lafzın sınırını dosyanın vakıalarıyla test etmeyi önerir ve sayfa ve baskı yılı uydurulmaz.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: Türk Ticaret Kanunu m. 938 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 938 uygulamasında «(1) Geminin ilk Türk maliki,» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir.
-
-Öğretide genel kabul gören görüşe göre, TTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır.
-
-Uygulayıcı, tacir ve ticari iş karinesi ile şirketler hukuku ve organ sorumluluğu arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir.
-
-Yatay mevzuat (6098 sayılı TBK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. II- Gövde üzerine yazılma zorunluluğu
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 938 sonuçlarının fiilen elde edilmesi için belirleyicidir. (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır.
-
-Sonuç olarak, TTK madde 938 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir.
-
-Bu bağlamda m. 938 uygulamasında «(1) Geminin ilk Türk maliki,» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. II- Gövde üzerine yazılma zorunluluğu
-
-Öğretide genel kabul gören görüşe göre, TTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir.
-
-Uygulayıcı, tacir ve ticari iş karinesi ile şirketler hukuku ve organ sorumluluğu arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır.
-
-Yatay mevzuat (6098 sayılı TBK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 938 sonuçlarının fiilen elde edilmesi için belirleyicidir. II- Gövde üzerine yazılma zorunluluğu
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir.
-
-Sonuç olarak, TTK madde 938 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır.
-
-Bu bağlamda m. 938 uygulamasında «(1) Geminin ilk Türk maliki,» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir.
-
-Öğretide genel kabul gören görüşe göre, TTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. II- Gövde üzerine yazılma zorunluluğu
-
-Uygulayıcı, tacir ve ticari iş karinesi ile şirketler hukuku ve organ sorumluluğu arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir.
-
-Yatay mevzuat (6098 sayılı TBK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 938 sonuçlarının fiilen elde edilmesi için belirleyicidir. (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. II- Gövde üzerine yazılma zorunluluğu
-
-Sonuç olarak, TTK madde 938 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir.
-
-Bu bağlamda m. 938 uygulamasında «(1) Geminin ilk Türk maliki,» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır.
-
-Öğretide genel kabul gören görüşe göre, TTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir.
-
-Uygulayıcı, tacir ve ticari iş karinesi ile şirketler hukuku ve organ sorumluluğu arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. II- Gövde üzerine yazılma zorunluluğu
-
-Yatay mevzuat (6098 sayılı TBK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 938 sonuçlarının fiilen elde edilmesi için belirleyicidir. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir.
-
-Sonuç olarak, TTK madde 938 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. II- Gövde üzerine yazılma zorunluluğu
-
-Bu bağlamda m. 938 uygulamasında «(1) Geminin ilk Türk maliki,» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir.
-
-Öğretide genel kabul gören görüşe göre, TTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır.
-
-Uygulayıcı, tacir ve ticari iş karinesi ile şirketler hukuku ve organ sorumluluğu arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir.
-
-Yatay mevzuat (6098 sayılı TBK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. II- Gövde üzerine yazılma zorunluluğu
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 938 sonuçlarının fiilen elde edilmesi için belirleyicidir. (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır.
-
-Sonuç olarak, TTK madde 938 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir.
-
-Bu bağlamda m. 938 uygulamasında «(1) Geminin ilk Türk maliki,» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. II- Gövde üzerine yazılma zorunluluğu
-
-Öğretide genel kabul gören görüşe göre, TTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir.
-
-Uygulayıcı, tacir ve ticari iş karinesi ile şirketler hukuku ve organ sorumluluğu arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır.
-
-Yatay mevzuat (6098 sayılı TBK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 938 sonuçlarının fiilen elde edilmesi için belirleyicidir. II- Gövde üzerine yazılma zorunluluğu
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir.
-
-Sonuç olarak, TTK madde 938 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır.
-
-Bu bağlamda m. 938 uygulamasında «(1) Geminin ilk Türk maliki,» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir.
-
-Öğretide genel kabul gören görüşe göre, TTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. II- Gövde üzerine yazılma zorunluluğu
-
-Uygulayıcı, tacir ve ticari iş karinesi ile şirketler hukuku ve organ sorumluluğu arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir.
-
-Yatay mevzuat (6098 sayılı TBK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 938 sonuçlarının fiilen elde edilmesi için belirleyicidir. (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. II- Gövde üzerine yazılma zorunluluğu
-
-Sonuç olarak, TTK madde 938 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir.
-
-Bu bağlamda m. 938 uygulamasında «(1) Geminin ilk Türk maliki,» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır.
-
-Öğretide genel kabul gören görüşe göre, TTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir.
-
-Uygulayıcı, tacir ve ticari iş karinesi ile şirketler hukuku ve organ sorumluluğu arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. II- Gövde üzerine yazılma zorunluluğu
-
-Yatay mevzuat (6098 sayılı TBK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 938 sonuçlarının fiilen elde edilmesi için belirleyicidir. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir.
-
-Sonuç olarak, TTK madde 938 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. II- Gövde üzerine yazılma zorunluluğu
-
-Bu bağlamda m. 938 uygulamasında «(1) Geminin ilk Türk maliki,» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir.
-
-Öğretide genel kabul gören görüşe göre, TTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır.
-
-Uygulayıcı, tacir ve ticari iş karinesi ile şirketler hukuku ve organ sorumluluğu arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir.
-
-Yatay mevzuat (6098 sayılı TBK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. II- Gövde üzerine yazılma zorunluluğu
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 938 sonuçlarının fiilen elde edilmesi için belirleyicidir. (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır.
-
-Sonuç olarak, TTK madde 938 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir.
-
-Bu bağlamda m. 938 uygulamasında «(1) Geminin ilk Türk maliki,» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. II- Gövde üzerine yazılma zorunluluğu
-
-Öğretide genel kabul gören görüşe göre, TTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir.
-
-Uygulayıcı, tacir ve ticari iş karinesi ile şirketler hukuku ve organ sorumluluğu arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır.
-
-Yatay mevzuat (6098 sayılı TBK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 938 sonuçlarının fiilen elde edilmesi için belirleyicidir. II- Gövde üzerine yazılma zorunluluğu
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir.
-
-Sonuç olarak, TTK madde 938 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır.
-
-Bu bağlamda m. 938 uygulamasında «(1) Geminin ilk Türk maliki,» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir.
-
-Öğretide genel kabul gören görüşe göre, TTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. II- Gövde üzerine yazılma zorunluluğu
-
-Uygulayıcı, tacir ve ticari iş karinesi ile şirketler hukuku ve organ sorumluluğu arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir.
-
-Yatay mevzuat (6098 sayılı TBK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 938 sonuçlarının fiilen elde edilmesi için belirleyicidir. (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. II- Gövde üzerine yazılma zorunluluğu
-
-Sonuç olarak, TTK madde 938 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir.
-
-Bu bağlamda m. 938 uygulamasında «(1) Geminin ilk Türk maliki,» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Şu kadar ki, seçilen ad karıştırılmaya yol açmayacak şekilde başka gemilerin adlarından farklı olmalıdır.
-
-Öğretide genel kabul gören görüşe göre, TTK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (2) Gemi tasdiknamesi verilmiş olan bir geminin adı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının izniyle değiştirilebilir.
-
-Uygulayıcı, tacir ve ticari iş karinesi ile şirketler hukuku ve organ sorumluluğu arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. II- Gövde üzerine yazılma zorunluluğu
+Bu yorum maddenin resmi metni ve yerel karar arşivi esas alınarak hazırlanmıştır. Künyeler arşivden birebir alınır, uydurulmaz ve örnek olaylar kurmacadır.

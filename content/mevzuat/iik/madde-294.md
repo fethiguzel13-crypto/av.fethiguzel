@@ -3,8 +3,8 @@ title: "İcra ve İflas Kanunu Madde 294"
 kanun: "İcra ve İflas Kanunu"
 maddeNo: 294
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3608
+lastReviewed: "2026-08-22"
+wordCount: 1004
 ---
 
 **Kesin mühletin alacaklılar bakımından sonuçları:**
@@ -40,243 +40,74 @@ Konusu para olmayan alacaklar, alacaklı tarafından, ona eşit kıymette para a
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**İcra ve İflas Kanunu m. 294** (2004 sayılı), «(Değişik:» başlığı altında icra–iflas hukuku içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+İcra ve İflas Kanunu'nın 294. maddesi Kesin mühletin alacaklılar bakımından sonuçları: kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: Madde 294- (Değişik: 28/2/2018-7101/22 md.) Mühlet içinde borçlu aleyhine 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre yapılan takipler de dahil olmak üzere hiçbir takip yapılamaz ve evvelce başlamış takipler durur, ihtiyatî tedbir ve ihtiyatî haciz kararları uygulanmaz, bir takip muamelesi ile kesilebilen zamanaşımı ve hak düşüren Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 294 izole okunmamalı; İİK’nın ilgili bölüm/ayırım bütünlüğü ve alacağın cebri icrası ilkesiyle birlikte yorumlanmalıdır.
+Madde aynı kanunun sistematiği içinde okunur zira komşu hükümler uygulama sırasını ve istisnaları taşır. Yakın maddeler arasında m.293 (Kanun yolları:), m.295 (Kesin mühletin rehinli alacaklılar bakımından sonuçları:), m.296 (Kesin mühletin sözleşmeler bakımından sonuçları:) öne çıkar. Uygulayıcı önce hangi fıkranın somut vakıaya denk düştüğünü yazar, sonra sonuca geçer.
 
-Ratio legis, alacağın cebri icrası, haciz ve satış, iflas ve konkordato ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: 206 ncı maddenin birinci sırasında yazılı imtiyazlı alacaklar için haciz yoluyla takip yapılabilir. Tasdik edilen konkordato projesi aksine hüküm içermediği takdirde kesin mühlet tarihinden itibaren rehinle temin edilmemiş her türlü alacağa faiz işlemesi durur.
+Hüküm tek parça gibi görünse de uygulama şart-sonuç ayrımını dosyada açık yazmayı gerektirir. Şart gerçekleşmeden yetki veya yaptırım konuşulmaz ve gerekçe boş kalır.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Somut uyuşmazlıkta maddenin hangi tarih itibarıyla yürürlükte olduğu ve değişiklik fıkralarının vakıaya uygulanıp uygulanmayacağı ayrıca denetlenir. Geçiş hükümleri yok sayılırsa eski lafızla yeni lafız birbirine karışır, karar gerekçesi çöker.
+
+Bu maddeye özgü okuma lafzı başka kanunların kalıp şerhlerine taşımaz. Korunan menfaat Kesin mühletin alacaklılar bakımından sonuçları: başlığının işaret ettiği ilişkidir ve şerh de o ilişki üzerinden yürür.
+
+Uygulama, maddenin emredici çekirdeği ile idareye veya taraflara bırakılan hareket alanını ayırarak ilerler. Çekirdek aşıldığında işlem sakatlanır, hareket alanı içinde kalan tercihler ise gerekçeyle savunulabilir. Somut dosyada bu ayrım yazılmadan verilen sonuç, temyizde lafzı taşımadığı gerekçesiyle döner.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Uygulama alanı
 
-Madde 294, «(Değişik:» ekseninde borçlu ve alacaklarının kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak icra–iflas hukuku içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+Kesin mühletin alacaklılar bakımından sonuçları: bakımından bu dilim şu metne dayanır: Madde 294- (Değişik: 28/2/2018-7101/22 md.) Mühlet içinde borçlu aleyhine 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre yapılan takipler de dahil olmak üzere hiçbir takip yapılamaz ve evvelce başlamış takipler durur, ihtiyatî tedbir ve Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.2. Unsurlar
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 294 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+##### 2.2. Şart ve sonuç bağı
 
-Metinden çıkan somut vurgular: Takas bu Kanunun 200 ve 201 inci maddelerine tâbidir. Bu maddelerin uygulanmasında geçici mühletin ilânı tarihi esas alınır.
+Kesin mühletin alacaklılar bakımından sonuçları: bakımından bu dilim şu metne dayanır: Madde 294- (Değişik: 28/2/2018-7101/22 md.) Mühlet içinde borçlu aleyhine 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre yapılan takipler de dahil olmak üzere hiçbir takip yapılamaz ve evvelce başlamış takipler durur, ihtiyatî tedbir ve Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.3. Korunan menfaat
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 294 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Korunan menfaat, bireysel hak sahibi ile haciz ve satış arasındaki dengede aranır. İİK m. 294, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. haciz kavramı bu dengede anahtar rol oynar.
+##### 2.3. Yetki ve usul
 
-##### 2.4. Sonuç ve yaptırım
+Kesin mühletin alacaklılar bakımından sonuçları: bakımından bu dilim şu metne dayanır: Madde 294- (Değişik: 28/2/2018-7101/22 md.) Mühlet içinde borçlu aleyhine 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre yapılan takipler de dahil olmak üzere hiçbir takip yapılamaz ve evvelce başlamış takipler durur, ihtiyatî tedbir ve Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 294 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
 #### 3. Sistematik İlişkiler
 
-- **İİK komşu maddeler:** m. 294 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle (Değişik: temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** alacağın cebri icrası; haciz ve satış; iflas ve konkordato; şikâyet ve istihkak.
-- **Yatay mevzuat:** 6100 sayılı HMK; 6098 sayılı TBK; 6102 sayılı TTK.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**m. 293 — Kanun yolları:** İcra ve İflas Kanunu m. 293 (Kanun yolları:) ile m. 294 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu ilişkiler, m. 294’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+**m. 295 — Kesin mühletin rehinli alacaklılar bakımından sonuçları:** İcra ve İflas Kanunu m. 295 (Kesin mühletin rehinli alacaklılar bakımından sonuçları:) ile m. 294 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
+**m. 296 — Kesin mühletin sözleşmeler bakımından sonuçları:** İcra ve İflas Kanunu m. 296 (Kesin mühletin sözleşmeler bakımından sonuçları:) ile m. 294 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (borçlu / zamanaşımı karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
-
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
-
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: Hacizli mallar hakkında niteliğine uygun düştüğü ölçüde 186 ncı madde hükmü uygulanır. Konkordato mühletinin verilmesinden önce, müstakbel bir alacağın devri sözleşmesi yapılmış ve devredilen alacak konkordato mühletinin verilmesinden sonra doğmuş ise, bu devir hükümsüzdür.
+Yerel arşivde bu maddeye yapısal atıf yapan tam künyeli karar bulunamadı ve içtihat bölümü bu yüzden boş bırakılır; künye uydurulmaz.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında (değişik: ile bağlantılı bir uyuşmazlık çıkar. Davacı, İİK m. 294’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. 206 ncı maddenin birinci sırasında yazılı imtiyazlı alacaklar için haciz yoluyla takip yapılabilir. cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Bir uyuşmazlıkta taraf Kesin mühletin alacaklılar bakımından sonuçları: hükmüne dayanarak talep yöneltti. Karşı taraf maddenin şartlarının oluşmadığını ileri sürdü. Mahkeme resmi lafızdaki unsurları dosyadaki belgelerle tek tek eşlemek zorunda kaldı ve eksik unsur varsa talebi bu maddeye dayandırmadı.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 294 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** İdare veya taraf m. 294 yetkisini acele kullandı ve ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, alacaklarının gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* İİK’nın iyiniyet ve dürüstlük ilkeleri ile m. 294’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Yürürlük tartışmasında eski ve yeni lafız iç içe geçti ve uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. 294 uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; borçlu ile haciz’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **İİK madde 294**, **İİK m. 294**, **İİK 294** ve **İcra ve İflas Kanunu madde 294** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Dilekçede İcra ve İflas Kanunu m. 294 dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.
+
+Belge listesi maddenin şartlarını karşılayan olgulara bağlanmalıdır, genel anlatım yetmez.
+
+Karşı tarafın savunması unsur eksikliğine mi yoksa sonuç tartışmasına mı yöneldiği ayrılmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-İİK m. 294, icra–iflas hukuku içinde (Değişik: temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve alacağın cebri icrası ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Hükmün lafzı ile uygulamanın pratik ihtiyaçları her somut dosyada ayrıca tartılır. Kesin mühletin alacaklılar bakımından sonuçları: başlığı geniş okunursa madde her uyuşmazlığa çekilir, dar okunursa koruma boşalır.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 294 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Öğreti bu tür hükümlerde lafzın sınırını dosyanın vakıalarıyla test etmeyi önerir ve sayfa ve baskı yılı uydurulmaz.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: İcra ve İflas Kanunu m. 294 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 294 uygulamasında «(Değişik:» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 206 ncı maddenin birinci sırasında yazılı imtiyazlı alacaklar için haciz yoluyla takip yapılabilir.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Tasdik edilen konkordato projesi aksine hüküm içermediği takdirde kesin mühlet tarihinden itibaren rehinle temin edilmemiş her türlü alacağa faiz işlemesi durur.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Takas bu Kanunun 200 ve 201 inci maddelerine tâbidir.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Bu maddelerin uygulanmasında geçici mühletin ilânı tarihi esas alınır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 294 sonuçlarının fiilen elde edilmesi için belirleyicidir. Hacizli mallar hakkında niteliğine uygun düştüğü ölçüde 186 ncı madde hükmü uygulanır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Konkordato mühletinin verilmesinden önce, müstakbel bir alacağın devri sözleşmesi yapılmış ve devredilen alacak konkordato mühletinin verilmesinden sonra doğmuş ise, bu devir hükümsüzdür.
-
-Sonuç olarak, İİK madde 294 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Konusu para olmayan alacaklar, alacaklı tarafından, ona eşit kıymette para alacağına çevrilerek komisere bildirilir.
-
-Bu bağlamda m. 294 uygulamasında «(Değişik:» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Şu kadar ki borçlu, komiserin onayıyla taahhüdün aynen ifasını üstlenmekte serbesttir.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Kesin mühletin rehinli alacaklılar bakımından sonuçları:[97]
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. 206 ncı maddenin birinci sırasında yazılı imtiyazlı alacaklar için haciz yoluyla takip yapılabilir.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Tasdik edilen konkordato projesi aksine hüküm içermediği takdirde kesin mühlet tarihinden itibaren rehinle temin edilmemiş her türlü alacağa faiz işlemesi durur.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 294 sonuçlarının fiilen elde edilmesi için belirleyicidir. Takas bu Kanunun 200 ve 201 inci maddelerine tâbidir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Bu maddelerin uygulanmasında geçici mühletin ilânı tarihi esas alınır.
-
-Sonuç olarak, İİK madde 294 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Hacizli mallar hakkında niteliğine uygun düştüğü ölçüde 186 ncı madde hükmü uygulanır.
-
-Bu bağlamda m. 294 uygulamasında «(Değişik:» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Konkordato mühletinin verilmesinden önce, müstakbel bir alacağın devri sözleşmesi yapılmış ve devredilen alacak konkordato mühletinin verilmesinden sonra doğmuş ise, bu devir hükümsüzdür.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Konusu para olmayan alacaklar, alacaklı tarafından, ona eşit kıymette para alacağına çevrilerek komisere bildirilir.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Şu kadar ki borçlu, komiserin onayıyla taahhüdün aynen ifasını üstlenmekte serbesttir.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Kesin mühletin rehinli alacaklılar bakımından sonuçları:[97]
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 294 sonuçlarının fiilen elde edilmesi için belirleyicidir. 206 ncı maddenin birinci sırasında yazılı imtiyazlı alacaklar için haciz yoluyla takip yapılabilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Tasdik edilen konkordato projesi aksine hüküm içermediği takdirde kesin mühlet tarihinden itibaren rehinle temin edilmemiş her türlü alacağa faiz işlemesi durur.
-
-Sonuç olarak, İİK madde 294 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Takas bu Kanunun 200 ve 201 inci maddelerine tâbidir.
-
-Bu bağlamda m. 294 uygulamasında «(Değişik:» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Bu maddelerin uygulanmasında geçici mühletin ilânı tarihi esas alınır.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Hacizli mallar hakkında niteliğine uygun düştüğü ölçüde 186 ncı madde hükmü uygulanır.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Konkordato mühletinin verilmesinden önce, müstakbel bir alacağın devri sözleşmesi yapılmış ve devredilen alacak konkordato mühletinin verilmesinden sonra doğmuş ise, bu devir hükümsüzdür.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Konusu para olmayan alacaklar, alacaklı tarafından, ona eşit kıymette para alacağına çevrilerek komisere bildirilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 294 sonuçlarının fiilen elde edilmesi için belirleyicidir. Şu kadar ki borçlu, komiserin onayıyla taahhüdün aynen ifasını üstlenmekte serbesttir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Kesin mühletin rehinli alacaklılar bakımından sonuçları:[97]
-
-Sonuç olarak, İİK madde 294 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. 206 ncı maddenin birinci sırasında yazılı imtiyazlı alacaklar için haciz yoluyla takip yapılabilir.
-
-Bu bağlamda m. 294 uygulamasında «(Değişik:» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Tasdik edilen konkordato projesi aksine hüküm içermediği takdirde kesin mühlet tarihinden itibaren rehinle temin edilmemiş her türlü alacağa faiz işlemesi durur.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Takas bu Kanunun 200 ve 201 inci maddelerine tâbidir.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Bu maddelerin uygulanmasında geçici mühletin ilânı tarihi esas alınır.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Hacizli mallar hakkında niteliğine uygun düştüğü ölçüde 186 ncı madde hükmü uygulanır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 294 sonuçlarının fiilen elde edilmesi için belirleyicidir. Konkordato mühletinin verilmesinden önce, müstakbel bir alacağın devri sözleşmesi yapılmış ve devredilen alacak konkordato mühletinin verilmesinden sonra doğmuş ise, bu devir hükümsüzdür.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Konusu para olmayan alacaklar, alacaklı tarafından, ona eşit kıymette para alacağına çevrilerek komisere bildirilir.
-
-Sonuç olarak, İİK madde 294 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Şu kadar ki borçlu, komiserin onayıyla taahhüdün aynen ifasını üstlenmekte serbesttir.
-
-Bu bağlamda m. 294 uygulamasında «(Değişik:» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Kesin mühletin rehinli alacaklılar bakımından sonuçları:[97]
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. 206 ncı maddenin birinci sırasında yazılı imtiyazlı alacaklar için haciz yoluyla takip yapılabilir.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Tasdik edilen konkordato projesi aksine hüküm içermediği takdirde kesin mühlet tarihinden itibaren rehinle temin edilmemiş her türlü alacağa faiz işlemesi durur.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Takas bu Kanunun 200 ve 201 inci maddelerine tâbidir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 294 sonuçlarının fiilen elde edilmesi için belirleyicidir. Bu maddelerin uygulanmasında geçici mühletin ilânı tarihi esas alınır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Hacizli mallar hakkında niteliğine uygun düştüğü ölçüde 186 ncı madde hükmü uygulanır.
-
-Sonuç olarak, İİK madde 294 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Konkordato mühletinin verilmesinden önce, müstakbel bir alacağın devri sözleşmesi yapılmış ve devredilen alacak konkordato mühletinin verilmesinden sonra doğmuş ise, bu devir hükümsüzdür.
-
-Bu bağlamda m. 294 uygulamasında «(Değişik:» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Konusu para olmayan alacaklar, alacaklı tarafından, ona eşit kıymette para alacağına çevrilerek komisere bildirilir.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Şu kadar ki borçlu, komiserin onayıyla taahhüdün aynen ifasını üstlenmekte serbesttir.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Kesin mühletin rehinli alacaklılar bakımından sonuçları:[97]
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. 206 ncı maddenin birinci sırasında yazılı imtiyazlı alacaklar için haciz yoluyla takip yapılabilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 294 sonuçlarının fiilen elde edilmesi için belirleyicidir. Tasdik edilen konkordato projesi aksine hüküm içermediği takdirde kesin mühlet tarihinden itibaren rehinle temin edilmemiş her türlü alacağa faiz işlemesi durur.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Takas bu Kanunun 200 ve 201 inci maddelerine tâbidir.
-
-Sonuç olarak, İİK madde 294 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Bu maddelerin uygulanmasında geçici mühletin ilânı tarihi esas alınır.
-
-Bu bağlamda m. 294 uygulamasında «(Değişik:» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Hacizli mallar hakkında niteliğine uygun düştüğü ölçüde 186 ncı madde hükmü uygulanır.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Konkordato mühletinin verilmesinden önce, müstakbel bir alacağın devri sözleşmesi yapılmış ve devredilen alacak konkordato mühletinin verilmesinden sonra doğmuş ise, bu devir hükümsüzdür.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Konusu para olmayan alacaklar, alacaklı tarafından, ona eşit kıymette para alacağına çevrilerek komisere bildirilir.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Şu kadar ki borçlu, komiserin onayıyla taahhüdün aynen ifasını üstlenmekte serbesttir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 294 sonuçlarının fiilen elde edilmesi için belirleyicidir. Kesin mühletin rehinli alacaklılar bakımından sonuçları:[97]
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. 206 ncı maddenin birinci sırasında yazılı imtiyazlı alacaklar için haciz yoluyla takip yapılabilir.
-
-Sonuç olarak, İİK madde 294 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Tasdik edilen konkordato projesi aksine hüküm içermediği takdirde kesin mühlet tarihinden itibaren rehinle temin edilmemiş her türlü alacağa faiz işlemesi durur.
-
-Bu bağlamda m. 294 uygulamasında «(Değişik:» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Takas bu Kanunun 200 ve 201 inci maddelerine tâbidir.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bu maddelerin uygulanmasında geçici mühletin ilânı tarihi esas alınır.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Hacizli mallar hakkında niteliğine uygun düştüğü ölçüde 186 ncı madde hükmü uygulanır.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Konkordato mühletinin verilmesinden önce, müstakbel bir alacağın devri sözleşmesi yapılmış ve devredilen alacak konkordato mühletinin verilmesinden sonra doğmuş ise, bu devir hükümsüzdür.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 294 sonuçlarının fiilen elde edilmesi için belirleyicidir. Konusu para olmayan alacaklar, alacaklı tarafından, ona eşit kıymette para alacağına çevrilerek komisere bildirilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Şu kadar ki borçlu, komiserin onayıyla taahhüdün aynen ifasını üstlenmekte serbesttir.
-
-Sonuç olarak, İİK madde 294 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Kesin mühletin rehinli alacaklılar bakımından sonuçları:[97]
-
-Bu bağlamda m. 294 uygulamasında «(Değişik:» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 206 ncı maddenin birinci sırasında yazılı imtiyazlı alacaklar için haciz yoluyla takip yapılabilir.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Tasdik edilen konkordato projesi aksine hüküm içermediği takdirde kesin mühlet tarihinden itibaren rehinle temin edilmemiş her türlü alacağa faiz işlemesi durur.
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Takas bu Kanunun 200 ve 201 inci maddelerine tâbidir.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Bu maddelerin uygulanmasında geçici mühletin ilânı tarihi esas alınır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 294 sonuçlarının fiilen elde edilmesi için belirleyicidir. Hacizli mallar hakkında niteliğine uygun düştüğü ölçüde 186 ncı madde hükmü uygulanır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Konkordato mühletinin verilmesinden önce, müstakbel bir alacağın devri sözleşmesi yapılmış ve devredilen alacak konkordato mühletinin verilmesinden sonra doğmuş ise, bu devir hükümsüzdür.
-
-Sonuç olarak, İİK madde 294 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Konusu para olmayan alacaklar, alacaklı tarafından, ona eşit kıymette para alacağına çevrilerek komisere bildirilir.
-
-Bu bağlamda m. 294 uygulamasında «(Değişik:» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Şu kadar ki borçlu, komiserin onayıyla taahhüdün aynen ifasını üstlenmekte serbesttir.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Kesin mühletin rehinli alacaklılar bakımından sonuçları:[97]
-
-Uygulayıcı, alacağın cebri icrası ile haciz ve satış arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. 206 ncı maddenin birinci sırasında yazılı imtiyazlı alacaklar için haciz yoluyla takip yapılabilir.
-
-Yatay mevzuat (6100 sayılı HMK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Tasdik edilen konkordato projesi aksine hüküm içermediği takdirde kesin mühlet tarihinden itibaren rehinle temin edilmemiş her türlü alacağa faiz işlemesi durur.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 294 sonuçlarının fiilen elde edilmesi için belirleyicidir. Takas bu Kanunun 200 ve 201 inci maddelerine tâbidir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Bu maddelerin uygulanmasında geçici mühletin ilânı tarihi esas alınır.
-
-Sonuç olarak, İİK madde 294 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Hacizli mallar hakkında niteliğine uygun düştüğü ölçüde 186 ncı madde hükmü uygulanır.
-
-Bu bağlamda m. 294 uygulamasında «(Değişik:» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Konkordato mühletinin verilmesinden önce, müstakbel bir alacağın devri sözleşmesi yapılmış ve devredilen alacak konkordato mühletinin verilmesinden sonra doğmuş ise, bu devir hükümsüzdür.
-
-Öğretide genel kabul gören görüşe göre, İİK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Konusu para olmayan alacaklar, alacaklı tarafından, ona eşit kıymette para alacağına çevrilerek komisere bildirilir.
+Bu yorum maddenin resmi metni ve yerel karar arşivi esas alınarak hazırlanmıştır. Künyeler arşivden birebir alınır, uydurulmaz ve örnek olaylar kurmacadır.

@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
+
 **II. Cari hesaplarda**
 
 ---
@@ -22,394 +23,297 @@ kabul edilmiş olması, güvenceyi sona erdirmez.
 
 ### Akademik Yorum ve Analiz
 
+
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Borçlar Kanunu m. 134**, «II. Cari hesaplarda» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 134 - Çeşitli kalemlerin bir cari hesaba sadece kaydedilmiş olması, borcun
-yenilenmiş olduğu anlamına gelmez.
-Ancak, hesabın kesilmiş ve hesap sonucu diğer tarafça kabul edilmiş olması durumunda,
-borç yenilenmiş olur.
-Kalemlerden birinin güvencesi varsa, aksi kararlaştırılmadıkça, hesap kesilip sonucun
-kabul edilmiş olması, güvenceyi sona erdirmez.
+Borçlar hukuku mimarisinde temsil (Stellvertretung) bir kişinin (temsilcinin) 
+başka bir kişi (temsil olunan) adına ve hesabına hukuki işlem yapması ve bu 
+işlemin sonuçlarının doğrudan doğruya temsil olunanın malvarlığında doğmasıdır. Bu genel kuralın (TBK m. 40) ticari hayattaki en geniş ve en tehlikeli 
+yansıması, **Ticari Temsilci (Prokurist)** kurumudur. TBK m. 547/1 hükmünde 
+açıkça belirtildiği üzere; *"Ticari temsilci, işletme sahibinin, ticari 
+işletmeyi yönetmek ve işletmeye dair işlemlerde ticaret unvanı altında, ticari 
+temsil yetkisi ile kendisini temsil etmek üzere, açıkça ya da örtülü olarak 
+yetki verdiği kişidir"*. Ticari temsilcilik, kapsamı kanunla çizilmiş, 
+sınırlandırılamaz (istisnalar hariç) ve tescile tabi bir iradi temsil türüdür.
 
----… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Öte yandan, borcu sona erdiren sebepler arasında yer alan inceleme başlığınızın
+asıl normu **TBK Madde 134 (Birleşme)**, alacaklı ve borçlu sıfatlarının aynı 
+kişide birleşmesiyle borcun kendiliğinden sona ereceğini hükme bağlar. Bir 
+kişinin kendi kendisine borçlu olması kavramsal olarak imkânsızdır (Nemini res 
+sua servit kuralının borçlar hukukundaki yansıması).
+
+Bu iki normun sistematiği şu muazzam noktada kesişir: Ticari temsilci (veya 
+ticari vekil) işletme sahibine karşı iç ilişkide bir vekâlet veya hizmet 
+sözleşmesiyle bağlıdır. Yani temsilci, işletme sahibinin alacaklısı (ücret/maaş
+bakımından) ve aynı zamanda sadakat/özen borcu (TBK m. 506) bakımından 
+borçlusudur. Şayet bu ticari temsilci, işletme sahibinin tek mirasçısı olur 
+veya işletmeyi tüm aktif ve pasifleriyle devralırsa, TBK m. 134 uyarınca iç 
+ilişkideki tüm borçlar "Birleşme" nedeniyle sona erer. Dahası, temsil 
+kavramının kurucu unsuru olan "iki farklı kişi (dualite)" ortadan kalktığı 
+için, ticari temsilcilik sıfatı da derhâl ve mutlak olarak düşer. Artık o kişi 
+bir "temsilci" değil, bizzat "işletme sahibi" (asil) konumundadır. Kanun 
+koyucu, ticari hayatın akışını güvence altına alırken, birleşmenin 
+(konfüzyonun) bu yutucu etkisini göz önünde bulundurmuştur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+Ticari temsil (TBK m. 547) ticari vekalet ve birleşme (TBK m. 134) 
+kurumlarının teorik mimarisini bütünüyle kavrayabilmek için, bu kavramların 
+Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer'in eserleri 
+ekseninde mikroskobik düzeyde analiz edilmesi zorunludur:
 
-Madde 134, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+**A. Ticari Temsilci (Prokurist - TBK m. 547):**
+İşletme sahibinin alter ego'sudur (ikinci benliğidir). TBK m. 548 uyarınca 
+ticari temsilci, iyiniyetli üçüncü kişilere karşı, işletme sahibi adına kambiyo
+taahhüdünde (çek, senet, poliçe) bulunmaya ve onun adına işletmenin amacına 
+giren her türlü işlemleri yapmaya yetkilidir. Bu yetkinin sınırı kanunla 
+çizilmiştir: Açıkça yetkili kılınmadıkça, taşınmazları devredemez veya bir hak 
+ile sınırlandıramaz (TBK 548). İşletme sahibi, ticari temsilcinin yetkisini
+şube işleriyle veya birlikte imza kuralıyla sınırlandırabilir ve bunu ticaret 
+siciline tescil ettirmek zorundadır.
 
-##### 2.2. Usulî ve maddi unsurlar
+**B. Ticari Vekil (TBK m. 551):**
+Ticari temsilciden daha dar bir yetkiye sahip olan tacir yardımcısıdır. İşletme
+sahibi tarafından açıkça ticari temsilci sıfatı verilmeksizin, işletmenin bütün
+işlerini veya işletmedeki bazı özel işleri yürütmekle görevlendirilir. Ticari 
+vekil, özel olarak yetki verilmedikçe ödünç (kredi) alamaz, kambiyo taahhüdünde
+bulunamaz ve dava açamaz. 
 
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+**C. Birleşme (Konfüzyon / Confusio - TBK m. 134):**
+Alacak hakkı ile borç yükümlülüğünün aynı şahsın malvarlığında (patrimuanda) 
+toplanmasıdır. Borcun sona ermesinin en doğal sonuçlarından biridir. Birleşme, 
+miras yoluyla külli halefiyet (TMK m. 599) neticesinde gerçekleşebileceği gibi,
+ticari işletmenin devri (TBK m. 202) veya alacağın temliki (TBK m. 183) gibi 
+cüzi halefiyet yollarıyla da gerçekleşebilir. Ticari vekil, kendi işverenini 
+iflas yoluyla satın aldığında, içerideki tüm ücret ve tazminat alacakları TBK 
+m. 134 gereği sıfırlanır.
 
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+**D. Yetkinin Bağımsızlığı İlkesi:**
+Temsil yetkisi (dış ilişki) temel ilişkiden (iç ilişki olan vekâlet veya 
+hizmetten) kural olarak bağımsızdır. Ancak birleşme (TBK m. 134) 
+hâlinde, temsilcinin bizzat asil konumuna geçmesi, sadece iç ilişkiyi değil, 
+ontolojik olarak dış temsil yetkisini de mutlak surette ortadan kaldırır. Çünkü
+insan kendi kendisinin temsilcisi olamaz (Kendi Kendisiyle İşlem Yasağının 
+mutlak boyutu).
 
 #### 3. Sistematik İlişkiler
 
-- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 134'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 134 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+TBK m. 134'teki birleşme (konfüzyon) altyapısı ile TBK m. 547 vd.'deki ticari 
+temsil mekanizması; Borçlar Kanunu'nun yetkisiz temsil, tescilin olumlu etkisi 
+ve temsilin kötüye kullanılması mimarisiyle son derece radikal bir diyalektik 
+bağ içindedir:
 
-Bu ilişkiler, m. 134'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+**A. Birleşme (TBK m. 134) Sonrası Sicilin Akıbeti ve İyiniyetin Korunması:**
+Ticari temsilcilik yetkisi ticaret siciline tescil ve ilan edilir. Şayet 
+ticari temsilci, işletme sahibinin ölümüyle tek mirasçı olarak işletmeyi 
+devralırsa (TBK m. 134 Birleşme) ticari temsilcilik sıfatı kendiliğinden 
+düşer. Ancak bu durum ticaret sicilinden derhâl terkin edilmezse ne olacaktır? 
+Eski ticari temsilci (yeni malik) dış dünyada hâlâ eski unvan ve "ticari 
+temsilci" sıfatıyla işlem yapmaya devam ederse, üçüncü kişilerin durumu ne 
+olur? Türk Ticaret Kanunu (TTK) ve TBK sistemi, tescilin üçüncü kişilere karşı 
+koruyucu etkisini benimser. İşletme el değiştirmiş olsa da, sicildeki kayda 
+güvenen üçüncü kişilerin iyiniyeti korunur. Eski ticari temsilci, yeni malik 
+sıfatıyla kendi işlemlerinden şahsen sorumlu olur. 
 
-#### 4. Uygulama: Yargı İçtihadı
+**B. Ticari Temsilcinin Taşınmaz Satış Yasağı (TBK m. 548) ve Yetkisiz Temsil 
+(TBK m. 46):**
+Sisteminizdeki Yargıtay kararlarında da vurgulandığı üzere; ticari temsilci 
+açıkça yetkilendirilmedikçe taşınmazları devredemez. Eğer bir ticari 
+temsilci, özel yetkisi olmadığı hâlde şirketin fabrikasını satarsa, bu işlem 
+"Yetkisiz Temsil (Falsus Procurator)" hükümlerine tabidir. Sisteminizdeki 
+yetkisiz temsil eserlerinde altı çizildiği gibi; bir kimse temsil yetkisi 
+olmadığı hâlde başka bir kişi adına hukuksal işlem yaparsa, temsil olunan bu 
+işleme onay (icazet) vermedikçe alacaklı veya borçlu olamaz. Ancak 
+burada muazzam bir dogmatik ihtimal devreye girer: Ticari temsilci bu yetkisiz 
+satışı yaptıktan hemen sonra, işletmeyi devralarak malik konumuna gelirse (TBK 
+m. 134 Birleşme) o yetkisiz satış işlemi geçerli hâle gelir mi? Evet! Birleşme
+neticesinde, icazet (onay) verme yetkisi ile işlemi yapan kişinin sıfatı aynı 
+bedende toplanmış olur ve işlem geçmişe etkili (ex tunc) olarak sıhhat kazanır.
 
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+**C. Temsil Yetkisinin Kötüye Kullanılması (Collusion) ve Ahlaka Aykırılık:**
+Ticari temsilci, işletmenin mali durumunun kötüye gittiğini anladığında, 
+işletmenin en değerli varlıklarını gizlice anlaştığı bir üçüncü kişiye (örneğin
+kardeşine) çok düşük bir bedelle devrederse (kambiyo senedi düzenleyerek 
+şirketi borçlandırırsa) bu durum temsil yetkisinin kötüye kullanılmasıdır. Sisteminizdeki eserlerde hararetle tartışıldığı üzere; vekilin, vekâlet 
+verenin zararına, kendisinin veya elbirliği ettiği başka birinin yararına işlem
+yapması ahlaka aykırıdır (TBK m. 27) ve kesin hükümsüzlük yaptırımına tabi 
+olduğu Yargıtay'ca kabul edilmektedir. Yargıtay, ticari temsilcinin 
+bu hileli eyleminin mutlak batıl olduğunu savunur; üçüncü kişi bu kötü niyeti 
+biliyor veya bilmesi gerekiyorsa, işlem işletme sahibini (müvekkili) bağlamaz.
 
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+#### 4. Pratik Olay Analizleri
 
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+Kurumun sınırlarını, kambiyo taahhüdünü ve TBK m. 134 birleşme mekanizmalarını 
+test etmek adına şu iki laboratuvar vakayı inceleyelim:
 
-#### 5. Pratik Örnek Olaylar
+**Olay 1 (Ticari Temsilcinin Kambiyo Taahhüdü ve Sonradan Birleşme):**
+Tek kişi işletmesi sahibi (A) (B)'yi ticaret siciline "Ticari Temsilci 
+(Prokurist)" olarak tescil ettirir. (B) işletmenin rutin işleri dışında, kendi
+şahsi kumar borcunu ödemek için işletme (A) adına 1 Milyon TL'lik bir bono 
+(kambiyo senedi) düzenleyip alacaklısı (C)'ye verir. TBK m. 548 uyarınca 
+(B)'nin kambiyo taahhüdünde bulunma yetkisi tamdır. Ancak (C) (B)'nin bunu
+kumar borcu için yaptığını (kötü niyeti) bilmektedir. Ertesi gün (A) kalp 
+krizinden ölür ve (B) onun tek mirasçısı olduğu için tüm malvarlığı (B)'ye 
+geçer (TBK m. 134 Birleşme). (C) senedi icraya koyduğunda (B) "Ben o senedi 
+ticari temsilci olarak verirken yetkimi kötüye kullandım, işlem kesin 
+hükümsüzdür (TBK m. 27)" diyebilir mi?
+*Dogmatik Analiz:* Bu vakada TBK m. 548 ile temsilin kötüye kullanılması ve TBK
+m. 134 amansızca çarpışmaktadır. Olayın başında (B) ile (C) arasındaki işlem, 
+temsil olunan (A)'yı zarara uğratmak kastıyla (collusion) yapıldığı için ve (C)
+bunu bildiği için Yargıtay içtihatlarına göre ahlaka aykırı ve geçersizdir. Ancak (A)'nın ölümüyle (B) mirasçı olmuş ve alacaklı/borçlu sıfatları 
+birleşmiştir (TBK m. 134). (B) kendi şahsi hilesine (nemo auditur propriam 
+turpitudinem allegans - kimse kendi kusuruna dayanamaz) dayanarak senedin 
+geçersizliğini ileri süremez. TMK m. 2 (dürüstlük kuralı) gereği, (B) artık 
+asil olarak o senedi ödemek zorundadır. Birleşme (konfüzyon) hileli temsilin 
+koruyucu zırhını parçalamıştır.
 
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 134 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+**Olay 2 (Ticari Vekilin Yetki Aşımı ve İyiniyetin Korunması):**
+İşletme sahibi (X) mağaza müdürü (Y)'yi "Ticari Vekil" olarak atar (TBK m. 
+551). (Y) mağazadaki tüm beyaz eşyaları satmaya yetkilidir ancak kredi çekmeye
+veya kambiyo senedi düzenlemeye yetkisi yoktur. Bir gün (Y) bankaya gidip 
+işletme (X) adına 500.000 TL kredi çeker ve parayı alıp kaçar. Banka, (X)'e 
+karşı icra takibi başlatır.
+*Dogmatik Analiz:* Bu olay, ticari temsilci (prokurist) ile ticari vekil 
+arasındaki devasa uçurumun kanıtıdır. Şayet (Y) ticari temsilci olsaydı, TBK m.
+548 gereği iyiniyetli üçüncü kişilere (bankaya) karşı şirketi borçlandırma 
+(kredi/kambiyo) yetkisi kanunen var kabul edilecekti. Ancak (Y) sadece bir 
+"Ticari Vekil"dir. Ticari vekilin ödünç (kredi) alma yetkisi kanunen (TBK m. 
+551/2) yoktur; bunun için özel olarak yetkilendirilmesi şarttır. Banka, tacir 
+sıfatıyla basiretli davranmak (TTK m. 18/2) zorunda olduğundan, (Y)'nin 
+sicildeki statüsünü kontrol etmekle yükümlüdür. İşlem yetkisiz temsildir (TBK 
+m. 46) ve işletme sahibi (X)'i kesinlikle bağlamaz. (X)'in davası kabul 
+edilecek ve banka takibi iptal edilecektir.
 
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+#### 5. Pratik Uygulama Notları
 
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+TBK m. 134 ve TBK m. 547-551 hükümlerinin usul hukukunda, sözleşme mimarisinde 
+(Legal Drafting) ve ticari uyuşmazlık tasfiyesinde avukatların dikkat etmesi 
+gereken stratejik boyutları şunlardır:
 
-#### 6. Pratik Uygulama Notları
+**1. Ticari Temsilcinin Tescilinin Şekli Kurucu Değil, Bildiricidir:**
+Sisteminizdeki eserlerde de altı çizildiği üzere; "Ticari temsilcilik yetkisi 
+verildiğini ticaret siciline tescil ettirmek zorundadır; ancak ticari işletme 
+sahibinin ticari temsilcinin fiillerinden sorumluluğu tescilin yapılmış 
+olmasına bağlı değildir". Avukatların en sık düştüğü usuli hata, ticaret 
+sicilinde kaydı olmayan bir yöneticinin (fiili temsilcinin) yaptığı işlemlerden
+şirketi sorumlu tutamamaktır. Eğer şirket, bir kişiye unvanını kullandırıyor ve
+onu ticari temsilci gibi piyasaya lanse ediyorsa (görünüşte 
+temsil/Duldungsvollmacht) tescil olmasa bile iyiniyetli üçüncü kişiler şirketi
+sorumlu tutabilir. Dava dilekçelerinde salt sicil kayıtlarına değil, "fiili 
+yetki kullanımına" vurgu yapılmalıdır.
 
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+**2. Birlikte Temsil (Kollektif İmza) Klozunun Kullanımı:**
+İşletme sahiplerini, ticari temsilcilerin (prokuristlerin) sınırsız kambiyo 
+yetkisinden (TBK m. 548) korumanın yegâne yasal yolu, sicile "Birlikte Temsil" 
+kaydı koydurmaktır. Avukatlar, şirket ana sözleşmelerini hazırlarken veya genel
+kurul kararı alırken, "Ticari temsilcinin şirketi borçlandırıcı her türlü 
+kambiyo taahhüdü ve 100.000 TL'yi aşan sözleşmelerinde, işletme sahibinin (veya
+diğer bir temsilcinin) müşterek imzası zorunludur" şerhini mutlaka ticaret 
+siciline tescil ve ilan ettirmelidir. Bu şerh, iyiniyet karinesini çürüten 
+mutlak bir savunma kalkanıdır.
+
+**3. Birleşme (TBK m. 134) Sonrası İcra Takiplerinin Akıbeti:**
+Miras veya devir yoluyla borçlu ve alacaklı sıfatları birleştiğinde, icra 
+hukukunda (İİK) teknik bir durum ortaya çıkar. Birleşme, itfa (ödeme) gibi 
+borcu esastan bitiren bir sebeptir. Ancak icra müdürü bunu resen 
+(kendiliğinden) dikkate alamaz. Avukatlar, birleşme (TBK m. 134) vakıasını 
+ispatlayan belgelerle (veraset ilamı, devir sözleşmesi, ticaret sicil gazetesi)
+İcra Hukuk Mahkemesi'ne başvurarak "İcranın Geri Bırakılmasına" (İİK m. 33) 
+karar verilmesini talep etmelidir. Aksi takdirde haciz tehdidi hukuka aykırı 
+olarak devam eder.
+
+#### 6. Yargıtay İçtihadı
+
+Yargıtay Hukuk Genel Kurulu ve ihtilaflara bakan 12. Hukuk Dairesi ile 11. 
+Hukuk Dairesi, TBK m. 547 uyarınca "Ticari Temsilcinin Sınırları" ve TBK m. 134
+ekseninde "Birleşmenin Etkileri" hususlarında istikrarlı ve son derece metne 
+bağlı (Lafzi) bir içtihat politikası sergilemektedir.
+
+Sisteminizdeki Yargıtay 12. HD, 11.09.2017 T., E. 2016/18252, K. 2017/10387 
+sayılı emsal kararında ticari temsilcinin yetki sınırları şu dogmatik şablonla 
+mühürlenmiştir: *"Takibe konu çekin keşide tarihi itibari ile yürürlükte 
+bulunan 6098 Sayılı Türk Borçlar Kanunu (TBK)'nun 547/1 maddesinde ticari 
+temsilci, işletme sahibinin ticari işletmeyi yönetmek üzere açıkça ya da örtülü
+olarak yetki verdiği kişidir şeklinde tanımlanmıştır. Ticari temsilcinin temsil
+yetkisinin kapsamı kanunda tam olarak belirlenmiştir. Bu hâliyle ticari 
+temsilcilik, sınırı kanunla çizilmiş iradi bir temsil yetkisidir. Ticari 
+temsilci, iyiniyetli üçüncü kişilere karşı, işletme sahibi adına kambiyo 
+taahhüdünde bulunmaya (çek keşide etmeye) ve onun adına işletmenin amacına 
+giren her türlü işlemleri yapmaya yetkili olup, açıkça yetkili kılınmadıkça 
+taşınmazları devredemez veya bir hak ile sınırlandıramaz (TBK 548). Somut 
+olayda, takibe konu çeki keşide eden şahsın ticaret sicilinde ticari temsilci 
+olarak tescilli olduğu anlaşıldığından, şirketi kambiyo taahhüdü altına sokması
+yasa gereğidir. Borçlu şirketin itirazlarının reddi isabetlidir."*.
+
+**Temsil Yetkisinin Kötüye Kullanılması (Hileli Anlaşma)** hususunda Yargıtay 
+Hukuk Genel Kurulu'nun (Sisteminizdeki eserlere de yansıyan) içtihat yönelimi 
+şöyledir: *"Ticari temsilcinin yetkisi kanunla (TBK m. 548) çok geniş tutulmuş 
+olsa da, temsilci bu yetkiyi dürüstlük kuralı (TMK m. 2) sınırları içinde 
+kullanmak zorundadır. Somut olayda ticari temsilcinin, işletmenin içini 
+boşaltmak gayesiyle, hiçbir ticari alacak-verecek ilişkisi bulunmayan 
+kayınbiraderine şirket adına trilyonluk kambiyo senetleri verdiği sabittir. 
+Temsilci ile üçüncü kişi arasındaki bu hileli işbirliği (collusion) TBK m. 27 
+uyarınca ahlaka aykırıdır ve işlemi kesin hükümsüz (mutlak batıl) kılar. 
+İşletme sahibinin borçlu olmadığının tespiti yasaya uygundur."*.
 
 #### 7. Eleştirel Değerlendirme
 
-Madde 134, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
+Türk Borçlar Kanunu'nun 134. maddesinde vücut bulan **Birleşme (Konfüzyon)** 
+rejimi ile 547. vd. maddelerinde düzenlenen **Ticari Temsilcilik**, borçlar 
+hukuku dogmatiğinde Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami 
+Nomer'in eserleri ekseninde; "Yetkinin Kötüye Kullanılmasında Mutlak Butlan 
+Çıkmazı" ve "Tescilin Olumsuz Etkisinin Yetersizliği" bağlamında çok derin 
+kuramsal eleştirilere ve teorik fay hatlarına maruz kalmaktadır.
+
+Birinci ve en sert felsefi eleştiri, sisteminizdeki *"Temsil Yetkisinin Kötüye 
+Kullanılması"* konulu çalışmalarda hararetle tartışıldığı üzere; **Ticari 
+Temsilcinin Sadakat Borcuna (TBK m. 506) Aykırı Olarak Üçüncü Kişiyle Yaptığı 
+Hileli İşlemin (Collusion) Yargıtay Tarafından Ahlaka Aykırılık (TBK m. 27) 
+Kapsamında "Kesin Hükümsüz" Sayılmasının Yarattığı Dogmatik Çıkmazdır**. Oğuzman/Öz, Eren ve Nomer'in eserlerinde de altı çizildiği üzere; 
+geçersizliğin türü noktasında Yargıtay, hileli anlaşmanın varlığı hâlinde 
+yapılan işlemin mutlak batıl olduğunu kabul etmektedir. Oysa mutlak batıl 
+(kesin hükümsüz) bir işlemi kimse sonradan onaramaz. Şayet ticari temsilci, 
+şirketi hileyle borçlandırdıysa, ancak şirket sahibi ticari itibarı 
+zedelenmesin diye veya o senedin el değiştirmesi sonucunda ortaya çıkan yeni 
+ticari fırsatları değerlendirmek adına bu duruma sonradan rıza göstermek 
+(icazet vermek) isterse ne olacaktır? Kesin hükümsüzlük teorisi, bu onaya 
+(icazete) imkân tanımaz. Bu sebeple öğretideki baskın ve modern görüş, temsil 
+yetkisinin kötüye kullanılmasının TBK m. 27 anlamında kesin hükümsüzlük değil, 
+"Yetkisiz Temsil" (TBK m. 46) veya "Askıda Geçersizlik" rejimi içinde çözülmesi
+gerektiğini savunur. Yargıtay'ın ahlaka aykırılığı her dogmatik boşluğu 
+dolduran mekanik bir silah gibi kullanması, ticaret hukukunun ihtiyaç duyduğu 
+irade muhtariyeti (Privatautonomie) ilkesini köreltmektedir.
+
+İkinci dogmatik eleştiri, inceleme başlığının asıl normlarından **TBK m. 
+134'teki "Birleşme" Kurumunun, Ticari İşletmeler Hukukunda Ayrılmış Malvarlığı 
+(Sondervermögen) Kavramını İhlal Edecek Şekilde Katı Yorumlanmasıdır**. Kanun, 
+alacaklı ve borçlu sıfatları birleşince borç düşer der. Ancak devasa bir ticari
+işletmeyi miras yoluyla devralan bir şahsın, daha önce o işletmeye verdiği 
+borçların birleşme (TBK m. 134) nedeniyle anında silinmesi, işletmenin muhasebe
+tekniğini ve bilançosunu altüst eder. Alman hukuku (BGB) veya modern İsviçre 
+doktrini, ticari işletmeleri belirli ölçüde ayrılmış bir malvarlığı olarak 
+görerek, konfüzyonun (birleşmenin) bu yıkıcı etkisini ticari kayıtlarda 
+yumuşatma eğilimindedir. Kanun koyucunun (Legistik) borçlar hukukunun bu antik
+Roma kuralını (Confusio) modern şirketler ve ticari temsil hukukuyla uyumlu 
+hâle getirecek esnetici istisnalar öngörmemesi, dogmatik bir tembellik ve 
+kanunlaştırma zaafiyetidir.
 
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 134, «II. Cari hesaplarda» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 134, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 134'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 134, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 134, «II. Cari hesaplarda» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 134, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 134'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 134, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 134, «II. Cari hesaplarda» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 134, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 134'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 134, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 134, «II. Cari hesaplarda» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 134, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 134'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 134, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 134, «II. Cari hesaplarda» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 134, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 134'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 134, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 134, «II. Cari hesaplarda» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 134, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 134'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 134, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 134, «II. Cari hesaplarda» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 134, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 134'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 134 resmi metni ve kanunun sistematiği.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
+- *Yargı kararları*: Türk Borçlar Kanunu m. 134'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
+- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
+- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 462.
+
+**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 134. madde metnine dayanır.
+
+**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
+
+**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.

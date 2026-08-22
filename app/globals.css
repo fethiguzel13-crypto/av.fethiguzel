@@ -8,6 +8,7 @@
     opacity: 0;
     transform: translateY(10px);
   }
+
   to {
     opacity: 1;
     transform: translateY(0);
@@ -18,6 +19,7 @@
   from {
     stroke-dashoffset: 100;
   }
+
   to {
     stroke-dashoffset: 0;
   }
@@ -27,6 +29,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
@@ -58,12 +61,18 @@
   animation: vatandas-fade-up 0.7s ease-out both;
 }
 
+.rehber-hero {
+  animation: vatandas-fade-up 0.7s ease-out both;
+}
+
 @media (prefers-reduced-motion: reduce) {
+
   .vatandas-step-card,
   .vatandas-visual,
   .vatandas-flow-line,
   .vatandas-clock-hand,
-  .vatandas-shield {
+  .vatandas-shield,
+  .rehber-hero {
     animation: none !important;
   }
 }
@@ -398,15 +407,16 @@ body::before {
   font-size: 1.35rem;
   margin: 2.4rem 0 0.85rem;
   padding-bottom: 0.5rem;
-  border-bottom: 2px solid rgba(196, 90, 56, 0.28);
+  border-bottom: 2px solid rgba(196, 90, 56, 0.45);
   color: #1c1c1c;
 }
 
 .madde-prose h4 {
   font-size: 1.18rem;
   margin: 2rem 0 0.7rem;
-  padding-bottom: 0.4rem;
-  border-bottom: 1px solid rgba(28, 28, 28, 0.08);
+  padding: 0.15rem 0 0.4rem 0.85rem;
+  border-bottom: none;
+  border-left: 3px solid #2e4036;
   color: #2e4036;
 }
 
@@ -421,7 +431,23 @@ body::before {
 .madde-prose h6 {
   font-size: 0.98rem;
   margin: 1.25rem 0 0.4rem;
-  color: #3d5246;
+  color: #1f6f8b;
+}
+
+.madde-prose-commentary h3 {
+  color: #1c1c1c;
+}
+
+.madde-prose-commentary h4 {
+  color: #2e4036;
+}
+
+.madde-prose-commentary h5 {
+  color: #cc5833;
+}
+
+.madde-prose-commentary h6 {
+  color: #1f6f8b;
 }
 
 .madde-prose h3:first-child,
@@ -546,10 +572,12 @@ body::before {
 .app-body-pad {
   /* alt menü + güvenli alan (yalnızca dar ekran) */
 }
+
 @media (max-width: 767px) {
   .app-body-pad {
     padding-bottom: calc(4.25rem + env(safe-area-inset-bottom, 0px));
   }
+
   html.app-native body {
     /* status bar / çentik */
     padding-top: env(safe-area-inset-top, 0px);

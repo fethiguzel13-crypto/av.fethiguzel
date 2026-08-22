@@ -1,0 +1,8 @@
+Generated 2026-08-22 for vatandaş rehberi still-life materials.
+No readable legal numbers or names were requested in the prompts.
+
+paper.jpg  — cream laid paper texture, 16:9, no text
+folder.jpg — moss-green cardboard legal folder corner, 4:3, no text
+seal.jpg   — clay-red wax seal on cream paper, 1:1
+stamp.jpg  — rubber date stamp face turned away, 1:1
+obj-a.jpg … obj-e.jpg — desk objects (envelope, map, rings, wage envelope, key) without readable type

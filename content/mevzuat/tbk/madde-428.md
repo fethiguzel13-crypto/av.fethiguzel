@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4259
 ---
 
+
 **F. Hizmet ilişkisinin devri
 I. İşyerinin tamamının veya bir bölümünün devri**
 
@@ -28,388 +29,74 @@ tarihinden itibaren iki yıl ile sınırlıdır.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Borçlar Kanunu m. 428**, «F. Hizmet ilişkisinin devri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **F. Hizmet ilişkisinin devri**
+6098 sayılı Türk Borçlar Kanunu’nun (TBK) 428. maddesi, kanunun "Özel Borç İlişkileri"ni düzenleyen İkinci Kısmı'nın Altıncı Bölümü'nde (Hizmet Sözleşmeleri), "Genel Hizmet Sözleşmesi" alt başlığı altında ve "Hizmet ilişkisinin devri" kenar başlığıyla sistematize edilmiştir. Bu madde, işyerinin veya bir bölümünün hukuki bir işlemle devredilmesi durumunda, o işyerinde çalışan işçilerin hizmet sözleşmelerinin akıbetini, devreden ve devralan işverenlerin işçiye karşı olan sorumluluklarını düzenleyen temel bir iş hukuku ve borçlar hukuku normudur.
 
-**I. İşyerinin tamamının veya bir bölümünün devri**
+Hükmün temel amacı, ekonomik ve ticari gereklilikler neticesinde işyerinin el değiştirmesi durumunda zayıf konumda olan işçiyi korumak ve istihdamın sürekliliğini sağlamaktır. Mülga 818 sayılı Borçlar Kanunu döneminde işyeri devrinin iş sözleşmelerine etkisini açıkça düzenleyen bir hüküm bulunmamakta; sorunlar BK m. 179 ve 180 (bir malvarlığının veya işletmenin devralınması) hükümleri ile cüzi halefiyet kuralları çerçevesinde çözülmeye çalışılmaktaydı,,. Bu durum, işçilerin iş ilişkilerinin devamlılığını güvence altına almada yetersiz kalıyordu.
 
----
-
-Madde 428 - İşyerinin tamamı veya bir bölümü hukuki bir işlemle başkasına
-devredildiğinde, devir tarihinde işyerinde veya bir bölümünde mevcut olan hizmet
-sözleşmeleri, bütün hak ve borçları ile birlikte devralana geçer.
-
-İşçinin hizmet süresine bağlı hakları bakımından, onun devreden işveren yanında işe
-baş… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+4857 sayılı İş Kanunu'nun 6. maddesi ile hukukumuzda ilk defa Avrupa Birliği'nin 2001/23 sayılı Yönergesi'ne uyumlu olarak işyeri devri kurumu açıkça düzenlenmişti,. Ancak İş Kanunu kapsamı dışında kalan (örneğin ev hizmetlerinde çalışanlar, tarım işçileri veya çıraklar gibi) ve genel hüküm niteliğindeki Borçlar Kanunu'na tabi olan işçiler açısından yasal boşluk devam etmekteydi. TBK m. 428, İş Kanunu m. 6 hükmüne paralel bir düzenleme getirerek, İş Kanunu kapsamı dışında kalan tüm hizmet sözleşmeleri için de işyeri devrinde işçiyi koruyucu, emredici nitelikte yasal bir çerçeve oluşturmuştur,. Madde, İsviçre Borçlar Kanunu'nun (OR) 333. maddesi (iş ilişkisinin devri) mehaz alınarak hazırlanmış olmakla birlikte, işçinin devri reddetme (itiraz) hakkına yer vermemesi bakımından mehaz kanundan bilinçli olarak ayrılmıştır,,.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+##### 2.1. İşyeri ve İşyerinin Bir Bölümü
+TBK m. 428'de "işyeri" kavramının açık bir tanımı yapılmamış olmakla birlikte, doktrin ve yargı içtihatları çerçevesinde bu kavram, "işverenin mal veya hizmet üretmek amacıyla maddi olan ve olmayan unsurlar ile işçinin birlikte örgütlendiği ekonomik birim" olarak anlaşılmalıdır,. İşyeri devrinde normun koruma amacı, ekonomik birliğin korunmasına ve iş sözleşmesinin sürekliliğine yöneliktir. Bu nedenle, devrin konusu sadece fiziksel mekân veya demirbaşlar değil; "kimliğini koruyan bir ekonomik (organizasyonel) birliğin" devridir,. İşyerinin bir bölümünün devrinden ise, kısmi bir teknik amaca sahip ve bu işlevini ayrıldığı işyerinden bağımsız olarak sürdürebilen organizasyon biriminin devri anlaşılır,.
 
-Madde 428, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+##### 2.2. Hukuki Bir İşlemle Devir
+Maddenin uygulanabilmesi için devrin, iradi ve "hukuki bir işleme" dayanması şarttır (örneğin; satım, kiralama, intifa hakkı tesisi veya bağışlama gibi),. Doğrudan doğruya yasa gereği gerçekleşen geçişler (örneğin miras yoluyla intikal) kural olarak bu maddenin doğrudan uygulama alanına girmez; nitekim işverenin ölümü halinde TBK m. 441, bu hükümlere kıyasen atıf yapmaktadır,. Ayrıca, tüzel kişiliği haiz bir ticaret şirketinin (örneğin Anonim Şirket) hisselerinin (paylarının) devredilmesi, işverenin tüzel kişiliği değişmediği için işyeri devri niteliğinde sayılmaz ve TBK m. 428 bu durumda uygulanmaz,.
 
-##### 2.2. Usulî ve maddi unsurlar
+##### 2.3. Sözleşmelerin Kanuni (Otomatik) Devri (Ipso Iure)
+TBK m. 428/1 uyarınca, devir tarihinde mevcut olan hizmet sözleşmeleri bütün hak ve borçları ile birlikte devralana geçer. Bu geçiş, tarafların iradesinden bağımsız olarak kanun gereği (ipso iure) gerçekleşen bir "kanuni devir"dir,. Sözleşmenin niteliği ve içeriği değişmez, yeni bir hizmet sözleşmesi (novatio) kurulmasına veya alacağın temliki / borcun nakli gibi ayrı tasarruf işlemlerine gerek yoktur. Devralan işveren, devreden işverenin sözleşmeden doğan hukuki statüsüne kanun gereği halef olur.
 
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+##### 2.4. Hizmet Süresine (Kıdeme) Bağlı Hakların Korunması
+Maddenin ikinci fıkrası, işçinin hizmet süresine (kıdemine) bağlı hakları bakımından, devreden işveren yanında işe başladığı tarihin esas alınacağını amirdir,. Yıllık ücretli izin hakkının doğumu ve süresi, fesih bildirim (ihbar) sürelerinin hesabı ve (İş Kanunu m. 14 atfıyla) kıdem tazminatı gibi hakların belirlenmesinde, işçinin önceki ve sonraki işveren nezdindeki çalışma süreleri birleştirilerek tek bir hizmet süresi gibi bütün olarak değerlendirilir,.
 
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+##### 2.5. Müteselsil Sorumluluk ve İki Yıllık Sınırlandırma
+Maddenin üçüncü fıkrası, devirden önce doğmuş olan ve devir tarihinde ödenmesi gereken (muaccel) borçlardan devreden ve devralan işverenin "müteselsilen" sorumlu olduklarını düzenler,. Zira borç ilişkisinin nisbiliği kuralı uyarınca aksi takdirde yeni işveren eski borçları üstlenmek zorunda kalmazdı. Alacaklı işçi, muaccel borçların ifasını dilediği işverenden isteyebilir ve borçlulardan her biri borcun tamamından sorumludur. Ancak, devreden işverenin bu borçlardan (örneğin geçmişe dönük ödenmemiş ücretler) kaynaklanan müteselsil sorumluluğu, devir tarihinden itibaren "iki yıl" ile sınırlandırılmıştır,. Doktrinde ağırlıklı görüşe göre bu iki yıllık süre bir zamanaşımı süresi değil, hak düşürücü süredir; dolayısıyla hâkim tarafından re'sen dikkate alınır ve kesilmesi veya durması söz konusu olmaz. Devralan işverenin sorumluluğu ise herhangi bir süre ile sınırlandırılmamıştır ve devralan tüm borçlardan genel zamanaşımı süresince sorumludur,.
 
 #### 3. Sistematik İlişkiler
 
-- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 428'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 428 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+* **4857 Sayılı İş Kanunu m. 6** — TBK m. 428, İş Kanunu m. 6 hükmü ile birebir paralellik göstermektedir. İş Kanunu kapsamındaki işçiler için İş Kanunu m. 6 özel hüküm (lex specialis) niteliğinde olup öncelikle uygulanır. Ancak İş Kanunu kapsamı dışındaki hizmet ilişkilerinde ve ayrıca Deniz İş Kanunu ile Basın İş Kanunu'nda işyeri devrine ilişkin açık bir düzenleme bulunmadığından, bu yasalara tabi işçiler için işyeri devrinde TBK m. 428 hükümleri doğrudan veya kıyasen uygulama alanı bulur,.
+* **TBK m. 429 (Hizmet Sözleşmesinin Devri)** — TBK m. 428'de işyerinin devri söz konusudur ve işçinin rızası aranmaksızın sözleşme kanun gereği geçer. Buna karşılık, TBK m. 429'da düzenlenen "sözleşmenin devri", işyerinin devrinden bağımsız olarak sırf sözleşme ilişkisinin devrini hedefler ve bu durumda "işçinin yazılı rızası" geçerlilik şartıdır,.
+* **TBK m. 202 (Malvarlığının veya İşletmenin Devralınması)** — Bir işletmenin devrinde genel kural TBK m. 202'dir. Ancak işyeri devrinde hizmet sözleşmelerinin akıbeti söz konusu olduğunda TBK m. 428 (veya İş Kanunu m. 6) özel hüküm olarak devreye girer. TBK 428'de, TBK 202'den farklı olarak alacaklılara (işçilere) "ilan" veya "bildirim" zorunluluğu öngörülmemiştir,.
+* **6102 Sayılı TTK m. 178 (Birleşme, Bölünme ve Tür Değiştirme)** — Türk Ticaret Kanunu, şirketlerin birleşmesi, bölünmesi ve tür değiştirmesi hallerinde iş sözleşmelerinin devrini özel olarak düzenlemiştir. TTK m. 178 uyarınca işçiye, iş sözleşmesinin devrine "itiraz etme hakkı" tanınmıştır,. Bu durum, TBK m. 428 ve İş Kanunu m. 6 ile ciddi bir sistem çatışması yaratmaktadır. Ticaret şirketlerinin yapısal değişikliklerinde TTK özel hüküm sayılarak işçiye itiraz hakkı tanınırken, adi işyeri devirlerinde (TBK m. 428 kapsamında) işçinin böyle bir hakkı bulunmamaktadır,,.
 
-Bu ilişkiler, m. 428'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-#### 4. Uygulama: Yargı İçtihadı
+Yargıtay içtihatları, işyeri devrini salt şekli bir işlem olarak değil, maddi olgular üzerinden "organik bağ" ve "ekonomik bütünlük" testine tabi tutarak değerlendirmektedir.
 
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
-
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+1. **Devrin Tespiti:** Yargıtay (özellikle 9. ve 22. Hukuk Daireleri), işyeri devrinin muvazaalı (işçi alacaklarından kurtulmak amacıyla) yapılıp yapılmadığını denetlerken; devirden önceki ve sonraki faaliyetlerin benzerliği, müşteri çevresinin ve iş gücünün devri, maddi ve maddi olmayan unsurların (makine, teçhizat, marka) aynı kalıp kalmadığı gibi kriterleri dikkate alır,,.
+2. **Feshe Bağlı Hakların Durumu (İhbar ve Kullanılmayan Yıllık İzin):** Yargıtay'ın yerleşik içtihatlarına göre, devir tarihinde hizmet sözleşmesi devam ettiğinden (feshedilmediğinden), ihbar tazminatı ve kullandırılmayan yıllık izin ücreti alacakları devir anında muaccel hale gelmez. Bu nedenle, sözleşmesi devralan işveren yanında devam eden ve daha sonra feshedilen işçinin ihbar tazminatı ve yıllık izin ücreti alacaklarından devreden işverenin (eski işverenin) hiçbir şekilde sorumluluğu bulunmamaktadır; bu alacaklardan yalnızca son işveren (devralan) sorumludur,.
+3. **Kıdem Tazminatında Sorumluluk:** TBK m. 428'de kıdem tazminatı düzenlenmemiş olsa da (TBK kapsamında kıdem tazminatı kurumu yoktur), maddenin Deniz İş veya Basın İş Kanunu'na uygulandığı durumlarda ya da kıyasen 1475 sayılı Kanun m. 14 çerçevesinde değerlendirildiğinde yargı uygulaması şöyledir: Devreden işveren, kıdem tazminatından "yalnızca kendi dönemindeki hizmet süresi ve devir tarihindeki son ücret" ile sınırlı olarak sorumludur. Üstelik Yargıtay, kıdem tazminatındaki bu sorumluluğun TBK m. 428/3'te öngörülen 2 yıllık hak düşürücü süreye tabi olmadığını kabul etmektedir,.
+4. **Hisse Devri:** Yargıtay Hukuk Genel Kurulu ve Daireleri, tüzel kişi şirketlerin hisse (pay) devrinin, işverenin tüzel kişiliğini değiştirmediğinden işyeri devri sayılamayacağını ve TBK m. 428'in uygulanamayacağını istikrarlı bir biçimde vurgulamaktadır,.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 428 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+**Olay 1 (Kurmaca Senaryo):**
+Özel bir hastane işletmesi olan (A) Vakfı, bünyesindeki fizik tedavi ve rehabilitasyon bölümünün tüm cihazlarını, hasta portföyünü ve işletme hakkını 01.03.2023 tarihinde (B) Adi Ortaklığı'na satarak devretmiştir. Söz konusu bölümde fizyoterapist olarak çalışan ve TBK hükümlerine tabi olan (C), 01.03.2023 tarihi itibarıyla (B) Adi Ortaklığı bünyesinde aynı şartlarla çalışmaya devam etmiştir. Ancak (C)'nin (A) Vakfı nezdinde çalıştığı döneme ait Ocak ve Şubat 2023 maaşları ödenmemiştir. Devralan (B) Adi Ortaklığı, 01.09.2025 tarihinde (C)'nin sözleşmesini haksız olarak feshetmiştir. (C), ödenmeyen ücretleri ve ihbar tazminatı için her iki işletmeye başvurmuştur.
+*Hukuki analiz:* TBK m. 428/1 uyarınca kimliğini koruyan ekonomik bir bütünlük devredildiğinden burada bir işyeri devri mevcuttur. İş sözleşmesi yasa gereği (B)'ye geçmiştir. Feshe bağlı bir hak olan ihbar tazminatı devir tarihinde doğmadığı için (A) Vakfı'nın bundan hiçbir sorumluluğu yoktur; ihbar tazminatının tamamından yalnızca (B) Adi Ortaklığı sorumludur,. Devirden önce doğan ve ödenmesi gereken Ocak-Şubat 2023 ücretleri bakımından ise TBK m. 428/3 uyarınca müteselsil sorumluluk esastır. Ne var ki, devreden (A) Vakfı'nın müteselsil sorumluluğu devir tarihinden (01.03.2023) itibaren iki yıllık hak düşürücü süreye tabidir. (C), davasını 01.09.2025'te açtığından, iki yıllık süre dolmuştur ve (A) Vakfı'na ücret alacağı için dahi başvuramaz,. Bu ücretlerden artık sadece süresiz sorumlu olan devralan (B) Adi Ortaklığı sorumlu tutulabilecektir.
 
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
-
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+**Olay 2 (Kurmaca Senaryo):**
+Evde hizmet sözleşmesi kapsamında, özel hemşire olarak (X) şahsının yanında çalışan (Y), işvereni (X)'in ikametgâhını ve malvarlığını kızı (Z)'ye devretmesi sonucunda, (Z)'nin yanında çalışmaya başlamıştır. (Y), eski işvereni (X) ile yaptığı sözleşmede yer alan hükümlerin (Z) ile geçerli olmadığını iddia ederek, sözleşmenin devrine itiraz ettiğini ve tazminatlarının ödenerek ilişiğinin kesilmesini talep etmiştir.
+*Hukuki analiz:* TBK m. 428 uyarınca işyerinin hukuki bir işlemle devri söz konusu olduğunda, iş sözleşmeleri bütün hak ve borçlarıyla kendiliğinden yeni işverene geçer,. TBK m. 428 kapsamında İsviçre Hukukundan farklı olarak işçiye (Y'ye) işyeri devrine itiraz hakkı (reddetme hakkı) tanınmamıştır,,. Dolayısıyla (Y), devri gerekçe göstererek veya devri kabul etmeyerek iş sözleşmesini haklı nedenle feshedemez ve tazminat talep edemez. İş sözleşmesi aynı şartlarla (Z) nezdinde devam edecektir.
 
 #### 6. Pratik Uygulama Notları
 
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+- **İspat yükü**: Bir işyeri devrinin (muvazaalı yahut gerçek) varlığını ispat yükü, bunu iddia eden işçiye veya sorumluluktan kurtulmak isteyen devreden/devralan işverene aittir. Devrin ispatında; üretim araçlarının devri, işyerinin fiziksel mekanı, müşteri çevresi ve çalışan işçilerin büyük çoğunluğunun aynı kalıp kalmadığı maddi deliller ve tanık beyanlarıyla kanıtlanmalıdır,.
+- **Zamanaşımı / Süreler**: Devreden işverenin devirden önceki borçlardan doğan müteselsil sorumluluğuna ilişkin "iki yıllık süre", bir zamanaşımı değil **hak düşürücü süredir**. Bu süre, işyerinin (veya bölümünün) devrinin fiilen gerçekleştiği tarihten itibaren işlemeye başlar. İşçi alacaklarına (ücret vb.) ilişkin genel zamanaşımı süresi ise TBK m. 147 gereği beş yıldır.
+- **Görevli/yetkili mahkeme**: Uyuşmazlığın tarafları İş Kanunu'na tabi olmasa bile, 7036 sayılı İş Mahkemeleri Kanunu m. 5 uyarınca, TBK'nın İkinci Kısmı Altıncı Bölümünde düzenlenen "Hizmet Sözleşmelerine" tabi işçiler ile işverenler arasındaki uyuşmazlıklarda görevli mahkeme kural olarak **İş Mahkemeleridir**.
+- **Yaygın uygulama hataları**:
+ 1. Hukuki ve fiili işyeri devri ile "şirket hisselerinin devri"nin birbirine karıştırılması (Hisse devrinde işveren tüzel kişiliği değişmediğinden TBK 428 uygulanmaz).
+ 2. Devreden işverenin, ihbar tazminatı ve kullandırılmayan yıllık izin ücretinden sorumlu tutulmaya çalışılması (Feshe bağlı haklardan devreden işveren kural olarak sorumlu tutulamaz).
+ 3. Devirden önce doğan borçlar için devralan işverene başvurulurken "önce devreden asıl borçluya başvurma zorunluluğu" olduğunun zannedilmesi (Sorumluluk müteselsil olduğundan alacaklı işçi doğrudan devralana başvurabilir).
 
 #### 7. Eleştirel Değerlendirme
 
-Madde 428, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
+TBK m. 428 hükmü, doktrinde özellikle kaynak kanun olan İsviçre Borçlar Kanunu (OR) madde 333 ve Avrupa Birliği mevzuatı ile karşılaştırmalı olarak ciddi eleştirilere tabi tutulmaktadır.
 
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+İlk olarak, mehaz OR 333. maddede ve 2001/23 sayılı AB Yönergesinde açıkça yer alan, işçinin işyeri devrine "itiraz hakkı" (reddetme hakkı) Türk kanun koyucusu tarafından TBK'ya dâhil edilmemiştir,. Doktrindeki pek çok otoriteye (örn. Fikret Eren, Kübra Doğan Yenisey, Gülsevil Alpagut) göre, işçiye itiraz hakkı verilmemesi, işçiyi rızası hilafına başka bir işverenle çalışmaya zorlamak anlamına geldiği için kişilik haklarının korunması prensibiyle bağdaşmamaktadır,. Her ne kadar İş Kanunu m. 6'da "devrin tek başına haklı fesih nedeni sayılamayacağı" açıkça belirtilmiş olsa da, TBK m. 428'de böyle bir ibarenin bulunmaması, işçinin çalışma koşulları ağırlaşıyorsa devri haklı fesih sebebi yapabilmesi gerektiği savlarını güçlendirmektedir,.
 
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 428, «F. Hizmet ilişkisinin devri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt te Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 428, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 428'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 428, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 428, «F. Hizmet ilişkisinin devri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt te Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 428, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 428'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 428, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 428, «F. Hizmet ilişkisinin devri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt te Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 428, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 428'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 428, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 428, «F. Hizmet ilişkisinin devri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt te Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 428, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 428'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 428, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 428, «F. Hizmet ilişkisinin devri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt te Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 428, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 428'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 428, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 428, «F. Hizmet ilişkisinin devri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt te Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 428, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 428'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 428, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 428, «F. Hizmet ilişkisinin devri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt te Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 428, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 428'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+İkinci büyük eleştiri, normlar hiyerarşisi ve kanun çatışması noktasındadır. TBK m. 428 ve İş Kanunu m. 6 işçiye itiraz hakkı tanımazken, onlarla aynı tarihte (01.07.2012) yürürlüğe giren 6102 sayılı Türk Ticaret Kanunu (TTK) m. 178, birleşme, bölünme ve tür değiştirme hallerindeki işyeri devirlerinde işçiye açıkça itiraz hakkı tanımış ve itiraz halinde sözleşmenin yasal bildirim süresi sonunda feshedilmiş sayılacağını öngörmüştür,. Hukuk sistemimizde aynı nitelikteki bir işyeri el değiştirmesinin, salt devrin hukuki kılıfına (ticari şirket birleşmesi vs. adi satım) göre işçilere tamamen farklı haklar (birinde itiraz edebilme ve kıdem tazminatı alma hakkı, diğerinde edememe) bahşetmesi Anayasal eşitlik ilkesiyle ve iş hukukunun tutarlılığıyla çelişen son derece ciddi bir yasa yapma tekniği hatası olarak eleştirilmektedir,,,.
 
 ---
 
 ### Metodolojik Not
-
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 428 resmi metni ve kanunun sistematiği.
+Bu yorum, Av. Fethi Güzel tarafından akademik dürüstlük ve bilimsel araştırma ilkeleri çerçevesinde hazırlanmıştır. Yalnızca doktrin ve yargı kararları çerçevesinde objektif olarak sunulmuştur.

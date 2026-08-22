@@ -3,8 +3,8 @@ title: "Kurumlar Vergisi Kanunu Madde 14"
 kanun: "Kurumlar Vergisi Kanunu"
 maddeNo: 14
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3636
+lastReviewed: "2026-08-22"
+wordCount: 1223
 ---
 
 **İKİNCİ BÖLÜM
@@ -46,229 +46,84 @@ Gazete’de yayımlanan 9707 sayılı Cumhurbaşkanı Kararına bakınız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Kurumlar Vergisi Kanunu m. 14** (5520 sayılı), «(1) Kurumlar vergisi, mükellefin veya» başlığı altında kurumlar vergisi içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+Kurumlar Vergisi Kanunu'nın 14. maddesi İKİNCİ BÖLÜM · Beyan · Beyan esası kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: MADDE 14- (1) Kurumlar vergisi, mükellefin veya vergi sorumlusunun beyanı üzerine tarh olunur. Beyanname, ilgili bulunduğu hesap döneminin sonuçlarını içerir ve (2) Her mükellef vergiye tâbi kazancının tamamı için bir beyanname verir. Ancak, tüzel kişiliği bulunmayan iktisadî kamu kuruluşları ile dernek ve vakıflara ait iktisadî işletmelerden her biri için, bunların bağlı olduğu Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 14 izole okunmamalı; KVK’nın ilgili bölüm/ayırım bütünlüğü ve mükellefiyet ilkesiyle birlikte yorumlanmalıdır.
+Madde aynı kanunun sistematiği içinde okunur zira komşu hükümler uygulama sırasını ve istisnaları taşır. Yakın maddeler arasında m.13 (Transfer fiyatlandırması yoluyla örtülü kazanç dağıtımı), m.16 (ÜÇÜNCÜ BÖLÜM · Verginin Tarhı · Vergilendirme dönemi ve tarhiyat) öne çıkar. Uygulayıcı önce hangi fıkranın somut vakıaya denk düştüğünü yazar, sonra sonuca geçer.
 
-Ratio legis, mükellefiyet, istisna, örtülü kazanç ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: (1) Kurumlar vergisi, mükellefin veya vergi sorumlusunun beyanı üzerine tarh olunur. Beyanname, ilgili bulunduğu hesap döneminin sonuçlarını içerir.
+Hükmün ikinci katmanı şu cümlede toplanır: (2) Her mükellef vergiye tâbi kazancının tamamı için bir beyanname verir. Ancak, tüzel kişiliği bulunmayan iktisadî kamu kuruluşları ile dernek ve vakıflara ait iktisadî işletmelerden her biri için, bunların bağlı olduğu kamu tüzel kişileri ile dernek ve vakıflar tarafından ayrı beyanname verilir. Bu katman birinci fıkradaki ana kuralı tamamlar veya sınırlar, ikisini birbirine karıştırmak yanlış hukuki sonuç doğurur.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Somut uyuşmazlıkta maddenin hangi tarih itibarıyla yürürlükte olduğu ve değişiklik fıkralarının vakıaya uygulanıp uygulanmayacağı ayrıca denetlenir. Geçiş hükümleri yok sayılırsa eski lafızla yeni lafız birbirine karışır, karar gerekçesi çöker.
+
+Bu maddeye özgü okuma lafzı başka kanunların kalıp şerhlerine taşımaz. Korunan menfaat İKİNCİ BÖLÜM · Beyan · Beyan esası başlığının işaret ettiği ilişkidir ve şerh de o ilişki üzerinden yürür.
+
+Uygulama, maddenin emredici çekirdeği ile idareye veya taraflara bırakılan hareket alanını ayırarak ilerler. Çekirdek aşıldığında işlem sakatlanır, hareket alanı içinde kalan tercihler ise gerekçeyle savunulabilir. Somut dosyada bu ayrım yazılmadan verilen sonuç, temyizde lafzı taşımadığı gerekçesiyle döner.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Uygulama alanı
 
-Madde 14, «(1) Kurumlar vergisi, mükellefin veya» ekseninde vergisi ve vergi kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak kurumlar vergisi içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+İKİNCİ BÖLÜM · Beyan · Beyan esası bakımından bu dilim şu metne dayanır: MADDE 14- (1) Kurumlar vergisi, mükellefin veya vergi sorumlusunun beyanı üzerine tarh olunur. Beyanname, ilgili bulunduğu hesap döneminin sonuçlarını içerir ve uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.2. Unsurlar
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 14 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+##### 2.2. Şart ve sonuç bağı
 
-Metinden çıkan somut vurgular: (2) Her mükellef vergiye tâbi kazancının tamamı için bir beyanname verir. Ancak, tüzel kişiliği bulunmayan iktisadî kamu kuruluşları ile dernek ve vakıflara ait iktisadî işletmelerden her biri için, bunların bağlı olduğu kamu tüzel kişileri ile dernek ve vakıflar tarafından ayrı beyanname verilir.
+İKİNCİ BÖLÜM · Beyan · Beyan esası bakımından bu dilim şu metne dayanır: (2) Her mükellef vergiye tâbi kazancının tamamı için bir beyanname verir. Ancak, tüzel kişiliği bulunmayan iktisadî kamu kuruluşları ile dernek ve vakıflara ait iktisadî işletmelerden her biri için, bunların bağlı olduğu kamu tüzel kişileri ile dernek ve vakıflar tarafından ayrı Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.3. Korunan menfaat
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 14 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Korunan menfaat, bireysel hak sahibi ile istisna arasındaki dengede aranır. KVK m. 14, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. vergiye kavramı bu dengede anahtar rol oynar.
+##### 2.3. Yetki ve usul
 
-##### 2.4. Sonuç ve yaptırım
+İKİNCİ BÖLÜM · Beyan · Beyan esası bakımından bu dilim şu metne dayanır: (3) Kurumlar vergisi beyannamesi, hesap döneminin kapandığı ayı izleyen dördüncü ayın birinci gününden yirmibeşinci günü akşamına kadar mükellefin bağlı olduğu vergi dairesine verilir. Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 14 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
+
+##### 2.4. İstisna ve sınır
+
+İKİNCİ BÖLÜM · Beyan · Beyan esası bakımından bu dilim şu metne dayanır: (4) Mükelleflerin şubeleri, ajansları, alım-satım büro ve mağazaları, imalâthaneleri veya kendilerine bağlı diğer iş yerleri için, bunların bağımsız muhasebeleri ve ayrılmış sermayeleri olsa dahi ayrı beyanname verilmez. Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
+
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 14 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
+
+##### 2.5. İspat yükü
+
+İKİNCİ BÖLÜM · Beyan · Beyan esası bakımından bu dilim şu metne dayanır: (5) Kooperatiflerin gelirlerinin vergi kesintisine tâbi tutulan taşınmaz kira gelirlerinden ibaret olması halinde, bu gelirler için beyanname verilmez. Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
+
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 14 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
 #### 3. Sistematik İlişkiler
 
-- **KVK komşu maddeler:** m. 14 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle (1) Kurumlar vergisi, mükellefin veya temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** mükellefiyet; istisna; örtülü kazanç; transfer fiyatlandırması.
-- **Yatay mevzuat:** VUK; GVK; TTK.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**m. 13 — Transfer fiyatlandırması yoluyla örtülü kazanç dağıtımı** Kurumlar Vergisi Kanunu m. 13 (Transfer fiyatlandırması yoluyla örtülü kazanç dağıtımı) ile m. 14 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu ilişkiler, m. 14’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+**m. 16 — ÜÇÜNCÜ BÖLÜM · Verginin Tarhı · Vergilendirme dönemi ve tarhiyat** Kurumlar Vergisi Kanunu m. 16 (ÜÇÜNCÜ BÖLÜM · Verginin Tarhı · Vergilendirme dönemi ve tarhiyat) ile m. 14 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
+#### 4. Uygulama: Yargıtay İçtihadı
 
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
-
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (vergisi / Kurumlar vergisi karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
-
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
-
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: (3) Kurumlar vergisi beyannamesi, hesap döneminin kapandığı ayı izleyen dördüncü ayın birinci gününden yirmibeşinci günü akşamına kadar mükellefin bağlı olduğu vergi dairesine verilir. (4) Mükelleflerin şubeleri, ajansları, alım-satım büro ve mağazaları, imalâthaneleri veya kendilerine bağlı diğer iş yerleri için, bunların bağımsız muhasebeleri ve ayrılmış sermayeleri olsa dahi ayrı beyanname verilmez.
+Yerel arşivde bu maddeye yapısal atıf yapan tam künyeli karar bulunamadı ve içtihat bölümü bu yüzden boş bırakılır; künye uydurulmaz.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında (1) kurumlar vergisi, mükellefin veya ile bağlantılı bir uyuşmazlık çıkar. Davacı, KVK m. 14’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. (1) Kurumlar vergisi, mükellefin veya vergi sorumlusunun beyanı üzerine tarh olunur. cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Bir uyuşmazlıkta taraf İKİNCİ BÖLÜM · Beyan · Beyan esası hükmüne dayanarak talep yöneltti. Karşı taraf maddenin şartlarının oluşmadığını ileri sürdü. Mahkeme resmi lafızdaki unsurları dosyadaki belgelerle tek tek eşlemek zorunda kaldı ve eksik unsur varsa talebi bu maddeye dayandırmadı.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 14 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** İdare veya taraf m. 14 yetkisini acele kullandı ve ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, vergi gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* KVK’nın iyiniyet ve dürüstlük ilkeleri ile m. 14’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Yürürlük tartışmasında eski ve yeni lafız iç içe geçti ve uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. 14 uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; vergisi ile vergiye’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **KVK madde 14**, **KVK m. 14**, **KVK 14** ve **Kurumlar Vergisi Kanunu madde 14** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Dilekçede Kurumlar Vergisi Kanunu m. 14 dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.
+
+Belge listesi maddenin şartlarını karşılayan olgulara bağlanmalıdır, genel anlatım yetmez.
+
+Karşı tarafın savunması unsur eksikliğine mi yoksa sonuç tartışmasına mı yöneldiği ayrılmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-KVK m. 14, kurumlar vergisi içinde (1) Kurumlar vergisi, mükellefin veya temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve mükellefiyet ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Hükmün lafzı ile uygulamanın pratik ihtiyaçları her somut dosyada ayrıca tartılır. İKİNCİ BÖLÜM · Beyan · Beyan esası başlığı geniş okunursa madde her uyuşmazlığa çekilir, dar okunursa koruma boşalır.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 14 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Öğreti bu tür hükümlerde lafzın sınırını dosyanın vakıalarıyla test etmeyi önerir ve sayfa ve baskı yılı uydurulmaz.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: Kurumlar Vergisi Kanunu m. 14 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 14 uygulamasında «(1) Kurumlar vergisi, mükellefin veya» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (1) Kurumlar vergisi, mükellefin veya vergi sorumlusunun beyanı üzerine tarh olunur.
-
-Öğretide genel kabul gören görüşe göre, KVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Beyanname, ilgili bulunduğu hesap döneminin sonuçlarını içerir.
-
-Uygulayıcı, mükellefiyet ile istisna arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (2) Her mükellef vergiye tâbi kazancının tamamı için bir beyanname verir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Ancak, tüzel kişiliği bulunmayan iktisadî kamu kuruluşları ile dernek ve vakıflara ait iktisadî işletmelerden her biri için, bunların bağlı olduğu kamu tüzel kişileri ile dernek ve vakıflar tarafından ayrı beyanname verilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 14 sonuçlarının fiilen elde edilmesi için belirleyicidir. (3) Kurumlar vergisi beyannamesi, hesap döneminin kapandığı ayı izleyen dördüncü ayın birinci gününden yirmibeşinci günü akşamına kadar mükellefin bağlı olduğu vergi dairesine verilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (4) Mükelleflerin şubeleri, ajansları, alım-satım büro ve mağazaları, imalâthaneleri veya kendilerine bağlı diğer iş yerleri için, bunların bağımsız muhasebeleri ve ayrılmış sermayeleri olsa dahi ayrı beyanname verilmez.
-
-Sonuç olarak, KVK madde 14 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (5) Kooperatiflerin gelirlerinin vergi kesintisine tâbi tutulan taşınmaz kira gelirlerinden ibaret olması halinde, bu gelirler için beyanname verilmez.
-
-Bu bağlamda m. 14 uygulamasında «(1) Kurumlar vergisi, mükellefin veya» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (6) Mükellefin bağlı olduğu vergi dairesi, kurumun kanunî veya iş merkezinin bulunduğu yerin vergi dairesidir.
-
-Öğretide genel kabul gören görüşe göre, KVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (7) Maliye Bakanlığı, mükelleflerin bağlı oldukları vergi dairelerini, kanunî veya iş merkezlerine bakmaksızın belirlemeye yetkilidir.
-
-Uygulayıcı, mükellefiyet ile istisna arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (8) Beyannamelerin şekil, içerik ve ekleri Maliye Bakanlığınca belirlenir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Mükellefler beyanlarını bu beyanname ile yapmak veya bu beyannamelerde yazılı bilgilere uygun olarak bildirmek zorundadır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 14 sonuçlarının fiilen elde edilmesi için belirleyicidir. (1) Kurumlar vergisi, mükellefin veya vergi sorumlusunun beyanı üzerine tarh olunur.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Beyanname, ilgili bulunduğu hesap döneminin sonuçlarını içerir.
-
-Sonuç olarak, KVK madde 14 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (2) Her mükellef vergiye tâbi kazancının tamamı için bir beyanname verir.
-
-Bu bağlamda m. 14 uygulamasında «(1) Kurumlar vergisi, mükellefin veya» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Ancak, tüzel kişiliği bulunmayan iktisadî kamu kuruluşları ile dernek ve vakıflara ait iktisadî işletmelerden her biri için, bunların bağlı olduğu kamu tüzel kişileri ile dernek ve vakıflar tarafından ayrı beyanname verilir.
-
-Öğretide genel kabul gören görüşe göre, KVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (3) Kurumlar vergisi beyannamesi, hesap döneminin kapandığı ayı izleyen dördüncü ayın birinci gününden yirmibeşinci günü akşamına kadar mükellefin bağlı olduğu vergi dairesine verilir.
-
-Uygulayıcı, mükellefiyet ile istisna arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (4) Mükelleflerin şubeleri, ajansları, alım-satım büro ve mağazaları, imalâthaneleri veya kendilerine bağlı diğer iş yerleri için, bunların bağımsız muhasebeleri ve ayrılmış sermayeleri olsa dahi ayrı beyanname verilmez.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (5) Kooperatiflerin gelirlerinin vergi kesintisine tâbi tutulan taşınmaz kira gelirlerinden ibaret olması halinde, bu gelirler için beyanname verilmez.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 14 sonuçlarının fiilen elde edilmesi için belirleyicidir. (6) Mükellefin bağlı olduğu vergi dairesi, kurumun kanunî veya iş merkezinin bulunduğu yerin vergi dairesidir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (7) Maliye Bakanlığı, mükelleflerin bağlı oldukları vergi dairelerini, kanunî veya iş merkezlerine bakmaksızın belirlemeye yetkilidir.
-
-Sonuç olarak, KVK madde 14 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (8) Beyannamelerin şekil, içerik ve ekleri Maliye Bakanlığınca belirlenir.
-
-Bu bağlamda m. 14 uygulamasında «(1) Kurumlar vergisi, mükellefin veya» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Mükellefler beyanlarını bu beyanname ile yapmak veya bu beyannamelerde yazılı bilgilere uygun olarak bildirmek zorundadır.
-
-Öğretide genel kabul gören görüşe göre, KVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (1) Kurumlar vergisi, mükellefin veya vergi sorumlusunun beyanı üzerine tarh olunur.
-
-Uygulayıcı, mükellefiyet ile istisna arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Beyanname, ilgili bulunduğu hesap döneminin sonuçlarını içerir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (2) Her mükellef vergiye tâbi kazancının tamamı için bir beyanname verir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 14 sonuçlarının fiilen elde edilmesi için belirleyicidir. Ancak, tüzel kişiliği bulunmayan iktisadî kamu kuruluşları ile dernek ve vakıflara ait iktisadî işletmelerden her biri için, bunların bağlı olduğu kamu tüzel kişileri ile dernek ve vakıflar tarafından ayrı beyanname verilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (3) Kurumlar vergisi beyannamesi, hesap döneminin kapandığı ayı izleyen dördüncü ayın birinci gününden yirmibeşinci günü akşamına kadar mükellefin bağlı olduğu vergi dairesine verilir.
-
-Sonuç olarak, KVK madde 14 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (4) Mükelleflerin şubeleri, ajansları, alım-satım büro ve mağazaları, imalâthaneleri veya kendilerine bağlı diğer iş yerleri için, bunların bağımsız muhasebeleri ve ayrılmış sermayeleri olsa dahi ayrı beyanname verilmez.
-
-Bu bağlamda m. 14 uygulamasında «(1) Kurumlar vergisi, mükellefin veya» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (5) Kooperatiflerin gelirlerinin vergi kesintisine tâbi tutulan taşınmaz kira gelirlerinden ibaret olması halinde, bu gelirler için beyanname verilmez.
-
-Öğretide genel kabul gören görüşe göre, KVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (6) Mükellefin bağlı olduğu vergi dairesi, kurumun kanunî veya iş merkezinin bulunduğu yerin vergi dairesidir.
-
-Uygulayıcı, mükellefiyet ile istisna arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (7) Maliye Bakanlığı, mükelleflerin bağlı oldukları vergi dairelerini, kanunî veya iş merkezlerine bakmaksızın belirlemeye yetkilidir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (8) Beyannamelerin şekil, içerik ve ekleri Maliye Bakanlığınca belirlenir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 14 sonuçlarının fiilen elde edilmesi için belirleyicidir. Mükellefler beyanlarını bu beyanname ile yapmak veya bu beyannamelerde yazılı bilgilere uygun olarak bildirmek zorundadır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (1) Kurumlar vergisi, mükellefin veya vergi sorumlusunun beyanı üzerine tarh olunur.
-
-Sonuç olarak, KVK madde 14 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Beyanname, ilgili bulunduğu hesap döneminin sonuçlarını içerir.
-
-Bu bağlamda m. 14 uygulamasında «(1) Kurumlar vergisi, mükellefin veya» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (2) Her mükellef vergiye tâbi kazancının tamamı için bir beyanname verir.
-
-Öğretide genel kabul gören görüşe göre, KVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Ancak, tüzel kişiliği bulunmayan iktisadî kamu kuruluşları ile dernek ve vakıflara ait iktisadî işletmelerden her biri için, bunların bağlı olduğu kamu tüzel kişileri ile dernek ve vakıflar tarafından ayrı beyanname verilir.
-
-Uygulayıcı, mükellefiyet ile istisna arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (3) Kurumlar vergisi beyannamesi, hesap döneminin kapandığı ayı izleyen dördüncü ayın birinci gününden yirmibeşinci günü akşamına kadar mükellefin bağlı olduğu vergi dairesine verilir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (4) Mükelleflerin şubeleri, ajansları, alım-satım büro ve mağazaları, imalâthaneleri veya kendilerine bağlı diğer iş yerleri için, bunların bağımsız muhasebeleri ve ayrılmış sermayeleri olsa dahi ayrı beyanname verilmez.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 14 sonuçlarının fiilen elde edilmesi için belirleyicidir. (5) Kooperatiflerin gelirlerinin vergi kesintisine tâbi tutulan taşınmaz kira gelirlerinden ibaret olması halinde, bu gelirler için beyanname verilmez.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (6) Mükellefin bağlı olduğu vergi dairesi, kurumun kanunî veya iş merkezinin bulunduğu yerin vergi dairesidir.
-
-Sonuç olarak, KVK madde 14 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (7) Maliye Bakanlığı, mükelleflerin bağlı oldukları vergi dairelerini, kanunî veya iş merkezlerine bakmaksızın belirlemeye yetkilidir.
-
-Bu bağlamda m. 14 uygulamasında «(1) Kurumlar vergisi, mükellefin veya» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (8) Beyannamelerin şekil, içerik ve ekleri Maliye Bakanlığınca belirlenir.
-
-Öğretide genel kabul gören görüşe göre, KVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Mükellefler beyanlarını bu beyanname ile yapmak veya bu beyannamelerde yazılı bilgilere uygun olarak bildirmek zorundadır.
-
-Uygulayıcı, mükellefiyet ile istisna arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (1) Kurumlar vergisi, mükellefin veya vergi sorumlusunun beyanı üzerine tarh olunur.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Beyanname, ilgili bulunduğu hesap döneminin sonuçlarını içerir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 14 sonuçlarının fiilen elde edilmesi için belirleyicidir. (2) Her mükellef vergiye tâbi kazancının tamamı için bir beyanname verir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Ancak, tüzel kişiliği bulunmayan iktisadî kamu kuruluşları ile dernek ve vakıflara ait iktisadî işletmelerden her biri için, bunların bağlı olduğu kamu tüzel kişileri ile dernek ve vakıflar tarafından ayrı beyanname verilir.
-
-Sonuç olarak, KVK madde 14 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (3) Kurumlar vergisi beyannamesi, hesap döneminin kapandığı ayı izleyen dördüncü ayın birinci gününden yirmibeşinci günü akşamına kadar mükellefin bağlı olduğu vergi dairesine verilir.
-
-Bu bağlamda m. 14 uygulamasında «(1) Kurumlar vergisi, mükellefin veya» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (4) Mükelleflerin şubeleri, ajansları, alım-satım büro ve mağazaları, imalâthaneleri veya kendilerine bağlı diğer iş yerleri için, bunların bağımsız muhasebeleri ve ayrılmış sermayeleri olsa dahi ayrı beyanname verilmez.
-
-Öğretide genel kabul gören görüşe göre, KVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (5) Kooperatiflerin gelirlerinin vergi kesintisine tâbi tutulan taşınmaz kira gelirlerinden ibaret olması halinde, bu gelirler için beyanname verilmez.
-
-Uygulayıcı, mükellefiyet ile istisna arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (6) Mükellefin bağlı olduğu vergi dairesi, kurumun kanunî veya iş merkezinin bulunduğu yerin vergi dairesidir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (7) Maliye Bakanlığı, mükelleflerin bağlı oldukları vergi dairelerini, kanunî veya iş merkezlerine bakmaksızın belirlemeye yetkilidir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 14 sonuçlarının fiilen elde edilmesi için belirleyicidir. (8) Beyannamelerin şekil, içerik ve ekleri Maliye Bakanlığınca belirlenir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Mükellefler beyanlarını bu beyanname ile yapmak veya bu beyannamelerde yazılı bilgilere uygun olarak bildirmek zorundadır.
-
-Sonuç olarak, KVK madde 14 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (1) Kurumlar vergisi, mükellefin veya vergi sorumlusunun beyanı üzerine tarh olunur.
-
-Bu bağlamda m. 14 uygulamasında «(1) Kurumlar vergisi, mükellefin veya» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Beyanname, ilgili bulunduğu hesap döneminin sonuçlarını içerir.
-
-Öğretide genel kabul gören görüşe göre, KVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (2) Her mükellef vergiye tâbi kazancının tamamı için bir beyanname verir.
-
-Uygulayıcı, mükellefiyet ile istisna arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Ancak, tüzel kişiliği bulunmayan iktisadî kamu kuruluşları ile dernek ve vakıflara ait iktisadî işletmelerden her biri için, bunların bağlı olduğu kamu tüzel kişileri ile dernek ve vakıflar tarafından ayrı beyanname verilir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (3) Kurumlar vergisi beyannamesi, hesap döneminin kapandığı ayı izleyen dördüncü ayın birinci gününden yirmibeşinci günü akşamına kadar mükellefin bağlı olduğu vergi dairesine verilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 14 sonuçlarının fiilen elde edilmesi için belirleyicidir. (4) Mükelleflerin şubeleri, ajansları, alım-satım büro ve mağazaları, imalâthaneleri veya kendilerine bağlı diğer iş yerleri için, bunların bağımsız muhasebeleri ve ayrılmış sermayeleri olsa dahi ayrı beyanname verilmez.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (5) Kooperatiflerin gelirlerinin vergi kesintisine tâbi tutulan taşınmaz kira gelirlerinden ibaret olması halinde, bu gelirler için beyanname verilmez.
-
-Sonuç olarak, KVK madde 14 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (6) Mükellefin bağlı olduğu vergi dairesi, kurumun kanunî veya iş merkezinin bulunduğu yerin vergi dairesidir.
-
-Bu bağlamda m. 14 uygulamasında «(1) Kurumlar vergisi, mükellefin veya» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (7) Maliye Bakanlığı, mükelleflerin bağlı oldukları vergi dairelerini, kanunî veya iş merkezlerine bakmaksızın belirlemeye yetkilidir.
-
-Öğretide genel kabul gören görüşe göre, KVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (8) Beyannamelerin şekil, içerik ve ekleri Maliye Bakanlığınca belirlenir.
-
-Uygulayıcı, mükellefiyet ile istisna arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Mükellefler beyanlarını bu beyanname ile yapmak veya bu beyannamelerde yazılı bilgilere uygun olarak bildirmek zorundadır.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (1) Kurumlar vergisi, mükellefin veya vergi sorumlusunun beyanı üzerine tarh olunur.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 14 sonuçlarının fiilen elde edilmesi için belirleyicidir. Beyanname, ilgili bulunduğu hesap döneminin sonuçlarını içerir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (2) Her mükellef vergiye tâbi kazancının tamamı için bir beyanname verir.
-
-Sonuç olarak, KVK madde 14 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Ancak, tüzel kişiliği bulunmayan iktisadî kamu kuruluşları ile dernek ve vakıflara ait iktisadî işletmelerden her biri için, bunların bağlı olduğu kamu tüzel kişileri ile dernek ve vakıflar tarafından ayrı beyanname verilir.
-
-Bu bağlamda m. 14 uygulamasında «(1) Kurumlar vergisi, mükellefin veya» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (3) Kurumlar vergisi beyannamesi, hesap döneminin kapandığı ayı izleyen dördüncü ayın birinci gününden yirmibeşinci günü akşamına kadar mükellefin bağlı olduğu vergi dairesine verilir.
-
-Öğretide genel kabul gören görüşe göre, KVK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (4) Mükelleflerin şubeleri, ajansları, alım-satım büro ve mağazaları, imalâthaneleri veya kendilerine bağlı diğer iş yerleri için, bunların bağımsız muhasebeleri ve ayrılmış sermayeleri olsa dahi ayrı beyanname verilmez.
+Bu yorum maddenin resmi metni ve yerel karar arşivi esas alınarak hazırlanmıştır. Künyeler arşivden birebir alınır, uydurulmaz ve örnek olaylar kurmacadır.

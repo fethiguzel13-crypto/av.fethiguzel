@@ -3,8 +3,8 @@ title: "Amme Alacaklarının Tahsil Usulü Hakkında Kanun Madde 60"
 kanun: "Amme Alacaklarının Tahsil Usulü Hakkında Kanun"
 maddeNo: 60
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3654
+lastReviewed: "2026-08-22"
+wordCount: 901
 ---
 
 **Mal bildiriminde bulunmıyanlar:**
@@ -27,212 +27,70 @@ resimden muaftır.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 60** (6183 sayılı), «(Değişik: 13/6/1963 - 251/2 md.)» başlığı altında kamu alacağı tahsili içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+Amme Alacaklarının Tahsil Usulü Hakkında Kanun 60. maddesi, kamu borçlusunun ödeme emrine karşı gösterdiği pasif direnişi kırmayı hedefleyen bir tazyik hapsi düzenlemesidir. Borçlunun ödeme emrinin tebliğinden itibaren on beş günlük süre içerisinde borcunu ödememesi ve mal bildiriminde bulunmaması, bu yaptırımın uygulanabilmesi için aranan temel ön koşuldur. Kanun koyucu, kamu alacağının tahsilini güvence altına almak amacıyla borçlunun malvarlığı durumu hakkında bilgi vermesini zorunlu tutmuştur. Söz konusu hüküm, borçlunun malvarlığını saklama veya kaçırma ihtimaline karşı idareye bir zorlama aracı sunmaktadır.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 60 izole okunmamalı; AATUHK’nın ilgili bölüm/ayırım bütünlüğü ve ödeme emri ilkesiyle birlikte yorumlanmalıdır.
+Tazyik hapsi, ceza hukukundaki hapis cezalarından nitelik itibarıyla ayrılmakta olup, borçlunun mal bildiriminde bulunmasıyla derhal sona eren bir zorlama tedbiridir. Bu tedbirin amacı borçluyu cezalandırmak değil, idarenin alacağına kavuşabilmesi için gerekli olan malvarlığı bilgilerine erişimini sağlamaktır. Hapis süresinin üç ayı geçemeyeceği ve bir defaya mahsus uygulanacağı hususu, kişi özgürlüğü ile kamu alacağının tahsili arasındaki hassas dengenin bir yansımasıdır. Borçlu, mal bildiriminde bulunduğu anda hapis süresi dolmamış olsa dahi serbest bırakılmalıdır.
 
-Ratio legis, ödeme emri, haciz, rüçhan ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: (Değişik: 13/6/1963 - 251/2 md.) Kendisine ödeme emri tebliğ edilen borçlu, 15 günlük müddet içinde borcunu ödemediği ve mal bildiriminde de bulunmadığı takdirde mal bildiriminde bulununcaya kadar bir defaya mahsus olmak ve üç ayı geçmemek üzere hapisle tazyik olunur. Hapisle tazyik kararı, ödeme emrinin tebliğini ve 15 günlük müddetin bitmesini mütaakıp tahsil dairesinin yazılı talebi üzerine icra tetkik mercii hakimi tarafından verilir.
+Madde metni incelendiğinde, hapsen tazyik kararının icra tetkik mercii hakimi tarafından verileceği açıkça belirtilmiştir. Tahsil dairesinin yazılı talebi üzerine harekete geçen hakim, borçlunun ödeme emrini tebliğ alıp almadığını ve on beş günlük sürenin geçip geçmediğini denetlemekle yükümlüdür. Bu süreçte Cumhuriyet Savcılığı, kararın infazını derhal gerçekleştirmekle görevli olup, kararın icrasında herhangi bir takdir yetkisi bulunmamaktadır. Kararın her türlü harç ve resimden muaf tutulması, kamu alacağının tahsilindeki kamu yararı önceliğini vurgulamaktadır.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Uygulamada, borçlunun mal bildiriminde bulunmaması durumu, idarenin tahsilat sürecindeki en büyük engellerden birini oluşturmaktadır. Kanun, bu engeli aşmak için borçluya iradesi dışında bir yükümlülük yükleyerek onu mal bildirimine zorlamaktadır. Kanaatimizce, bu düzenleme anayasal mülkiyet hakkı ve kişi özgürlüğü sınırları içerisinde kalmak kaydıyla, kamu kaynaklarının korunması adına zorunlu bir mekanizmadır. Borçlunun mal bildiriminde bulunması, hem borcun tahsili hem de sürecin şeffaflaşması açısından kritik bir eşiktir.
+
+Hükmün uygulanmasında, borçlunun mal varlığının bulunmaması dahi mal bildiriminde bulunma yükümlülüğünü ortadan kaldırmamaktadır. Borçlu, mal varlığı olmadığını beyan ederek dahi bu yükümlülüğünü yerine getirebilir ve tazyik hapsinden kurtulabilir. Dolayısıyla, tazyik hapsi borçlunun varlıklı olmasını değil, dürüstlük kuralına uygun hareket ederek mevcut durumunu idareye bildirmesini amaçlamaktadır. Bildirim yükümlülüğünün ihlali, borçlunun idare karşısındaki dürüstlük borcuna aykırı davranışının bir sonucu olarak değerlendirilmelidir.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Tazyik Hapsinin Niteliği
 
-Madde 60, «(Değişik: 13/6/1963 - 251/2 md.)» ekseninde borçlu ve Değişik kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak kamu alacağı tahsili içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+Tazyik hapsi, borçlunun iradesine dayalı bir yükümlülüğü yerine getirmesini sağlamaya yönelik idari bir zorlama aracıdır. Bu tedbir, ceza hukuku anlamında bir suç karşılığı değil, idari bir yaptırım niteliğini taşımaktadır. Borçlunun mal bildiriminde bulunmasıyla tedbirin kendiliğinden sona ermesi, onun cezalandırma değil zorlama amacı taşıdığını kanıtlamaktadır.
 
-##### 2.2. Unsurlar
+##### 2.2. Mal Bildiriminde Bulunma Yükümlülüğü
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+Borçlu, kendisine tebliğ edilen ödeme emrine karşı on beş gün içerisinde mal varlığını eksiksiz biçimde idareye sunmalıdır. Bu yükümlülük, borçlunun mevcut mal varlığını, haklarını ve alacaklarını kapsayan kapsamlı bir beyanı içermektedir. Bildirimde bulunmamak veya gerçeğe aykırı beyanda bulunmak, tahsilat sürecini aksatan ve tazyik hapsini tetikleyen bir eylem olarak kabul edilir.
 
-Metinden çıkan somut vurgular: Bu kararlar Cumhuriyet Savcılığınca derhal infaz olunur. İcra tetkik mercii hakimi tarafından verilen hapsen tazyik kararları her türlü harc ve resimden muaftır.
+##### 2.3. İcra Tetkik Merciinin Rolü
 
-##### 2.3. Korunan menfaat
+İcra tetkik mercii hakimi, tazyik hapsi talebini incelerken şekli bir denetim yapmaktadır. Hakim, ödeme emrinin usulüne uygun tebliğ edilip edilmediğini ve yasal sürenin dolup dolmadığını kontrol eder. Bu denetim, borçlunun savunma hakkını korumak ve idarenin keyfi uygulamalarını engellemek amacıyla oluşturulmuş bir güvencedir.
 
-Korunan menfaat, bireysel hak sahibi ile haciz arasındaki dengede aranır. AATUHK m. 60, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. Kendisine
-ödeme emri tebliğ kavramı bu dengede anahtar rol oynar.
+##### 2.4. İnfaz ve Harç Muafiyeti
 
-##### 2.4. Sonuç ve yaptırım
-
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Cumhuriyet Savcılığı, tazyik hapsi kararının infazını gecikmeksizin yerine getirmekle yükümlüdür. Kararın harç ve resimden muaf olması, kamu alacağının tahsilindeki hızlı ve etkin olma gerekliliğinden kaynaklanmaktadır. Bu muafiyet, devletin alacağına ulaşırken ek maliyetlere katlanmasının önüne geçilmesini sağlamaktadır.
 
 #### 3. Sistematik İlişkiler
 
-- **AATUHK komşu maddeler:** m. 60 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle (Değişik: 13/6/1963 - 251/2 md.) temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** ödeme emri; haciz; rüçhan; tecil–terkin.
-- **Yatay mevzuat:** VUK; İİK (kıyasen sınırlı); İYUK.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**m.59 — Mal bildirimi** Madde 60, 59. maddede düzenlenen mal bildirimi yükümlülüğünün yerine getirilmemesi halinde uygulanacak yaptırımı belirleyen özel bir tamamlayıcı hükümdür.
 
-Bu ilişkiler, m. 60’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+**m.61 — Mal edinme ve mal artmaları** Borçlunun mal edinmesi durumunda bildirim yükümlülüğü devam etmekte olup, 61. madde bu bildirimlerin sürekliliğini ve takibini düzenlemektedir.
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
+**m.62 — Haciz** Mal bildirimi, haciz işleminin sağlıklı yürütülmesi için ön koşul niteliğinde olup, 60. maddedeki tazyik hapsi bu sürecin aksamaması için bir güvence mekanizmasıdır.
 
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (borçlu / Hapisle
-tazyik kararı karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
-
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
-
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: (Değişik: 13/6/1963 - 251/2 md.) Kendisine ödeme emri tebliğ edilen borçlu, 15 günlük müddet içinde borcunu ödemediği ve mal bildiriminde de bulunmadığı takdirde mal bildiriminde bulununcaya kadar bir defaya mahsus olmak ve üç ayı geçmemek üzere hapisle tazyik olunur. Hapisle tazyik kararı, ödeme emrinin tebliğini ve 15 günlük müddetin bitmesini mütaakıp tahsil dairesinin yazılı talebi üzerine icra tetkik mercii hakimi tarafından verilir.
+Yerel arşivde bu maddeye yapısal atıf yapan tam künyeli karar bulunamadı. İçtihat bölümü bu yüzden boş bırakılır; künye uydurulmaz.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında (değişik: 13/6/1963 - 251/2 md.) ile bağlantılı bir uyuşmazlık çıkar. Davacı, AATUHK m. 60’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. (Değişik: 13/6/1963 - 251/2 md.) Kendisine ödeme emri tebliğ edilen borçlu, 15 günlük müddet içinde borcunu ödemediği ve mal bildiriminde de bulunmadığı takdirde mal bildiriminde bulununcaya kadar bir defaya mahsus olmak ve üç ayı geçmemek üzere hapisle tazyik olunur. cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Borçlu Ahmet, vergi dairesinden gelen ödeme emrini tebliğ almasına rağmen on beş gün içerisinde ne borcunu ödemiş ne de mal bildiriminde bulunmuştur. Tahsil dairesi, bu sürenin bitiminde icra tetkik merciine başvurarak tazyik hapsi talep etmiştir. Hakim, tebliğ evrakını inceleyerek yasal sürenin geçtiğini tespit etmiş ve Ahmet hakkında üç aylık tazyik hapsi kararı vermiştir.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 60 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** Borçlu Ayşe, kendisine gelen ödeme emri üzerine hiçbir mal varlığı bulunmadığını belirterek mal bildiriminde bulunmuştur. İdare, Ayşe'nin mal varlığı olmadığını iddia ederek tazyik hapsi talebinde bulunmuşsa da hakim talebi reddetmiştir. Mal varlığının bulunmaması, bildirimde bulunma yükümlülüğünü yerine getirmeye engel teşkil etmemektedir.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, Değişik gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* AATUHK’nın iyiniyet ve dürüstlük ilkeleri ile m. 60’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Tazyik hapsine giren borçlu Mehmet, hapsin yirminci gününde mal bildiriminde bulunmuştur. Mehmet'in bildirimde bulunduğunu öğrenen tahsil dairesi, durumu derhal icra tetkik merciine bildirmiştir. Hakim, tazyik hapsinin amacına ulaştığını belirterek Mehmet'in tahliyesine karar vermiştir.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; borçlu ile Kendisine
-ödeme emri tebliğ’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **AATUHK madde 60**, **AATUHK m. 60**, **AATUHK 60** ve **Amme Alacaklarının Tahsil Usulü Hakkında Kanun madde 60** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Tazyik hapsi kararı verilmeden önce borçlunun ödeme emrinin usulüne uygun tebliğ edildiğinin kesinleştirilmesi şarttır.
+
+Borçlunun mal bildiriminde bulunması durumunda, tazyik hapsinin infazı derhal durdurulmalı ve tahliye işlemleri başlatılmalıdır.
+
+Hapis süresinin üç ayı geçemeyeceği kuralı, borçlunun mal bildiriminde bulunmaması durumunda dahi mutlak bir üst sınır olarak uygulanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-AATUHK m. 60, kamu alacağı tahsili içinde (Değişik: 13/6/1963 - 251/2 md.) temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve ödeme emri ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Tazyik hapsi, borçlunun mal varlığının bulunmadığı hallerde dahi bir baskı aracı olarak kullanılabilmekte, bu durum uygulamada eleştirilere yol açmaktadır.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 60 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Bildirim yükümlülüğünün yerine getirilmemesi ile özgürlüğün kısıtlanması arasındaki orantısızlık, hukuk devleti ilkeleri bağlamında tartışmaya açıktır.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: Amme Alacaklarının Tahsil Usulü Hakkında Kanun m. 60 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 60 uygulamasında «(Değişik: 13/6/1963 - 251/2 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik: 13/6/1963 - 251/2 md.) Kendisine ödeme emri tebliğ edilen borçlu, 15 günlük müddet içinde borcunu ödemediği ve mal bildiriminde de bulunmadığı takdirde mal bildiriminde bulununcaya kadar bir defaya mahsus olmak ve üç ayı geçmemek üzere hapisle tazyik olunur.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Hapisle tazyik kararı, ödeme emrinin tebliğini ve 15 günlük müddetin bitmesini mütaakıp tahsil dairesinin yazılı talebi üzerine icra tetkik mercii hakimi tarafından verilir.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Bu kararlar Cumhuriyet Savcılığınca derhal infaz olunur.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İcra tetkik mercii hakimi tarafından verilen hapsen tazyik kararları her türlü harc ve resimden muaftır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 60 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Değişik: 13/6/1963 - 251/2 md.) Kendisine ödeme emri tebliğ edilen borçlu, 15 günlük müddet içinde borcunu ödemediği ve mal bildiriminde de bulunmadığı takdirde mal bildiriminde bulununcaya kadar bir defaya mahsus olmak ve üç ayı geçmemek üzere hapisle tazyik olunur.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Hapisle tazyik kararı, ödeme emrinin tebliğini ve 15 günlük müddetin bitmesini mütaakıp tahsil dairesinin yazılı talebi üzerine icra tetkik mercii hakimi tarafından verilir.
-
-Sonuç olarak, AATUHK madde 60 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Bu kararlar Cumhuriyet Savcılığınca derhal infaz olunur.
-
-Bu bağlamda m. 60 uygulamasında «(Değişik: 13/6/1963 - 251/2 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. İcra tetkik mercii hakimi tarafından verilen hapsen tazyik kararları her türlü harc ve resimden muaftır.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Değişik: 13/6/1963 - 251/2 md.) Kendisine ödeme emri tebliğ edilen borçlu, 15 günlük müddet içinde borcunu ödemediği ve mal bildiriminde de bulunmadığı takdirde mal bildiriminde bulununcaya kadar bir defaya mahsus olmak ve üç ayı geçmemek üzere hapisle tazyik olunur.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Hapisle tazyik kararı, ödeme emrinin tebliğini ve 15 günlük müddetin bitmesini mütaakıp tahsil dairesinin yazılı talebi üzerine icra tetkik mercii hakimi tarafından verilir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Bu kararlar Cumhuriyet Savcılığınca derhal infaz olunur.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 60 sonuçlarının fiilen elde edilmesi için belirleyicidir. İcra tetkik mercii hakimi tarafından verilen hapsen tazyik kararları her türlü harc ve resimden muaftır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Değişik: 13/6/1963 - 251/2 md.) Kendisine ödeme emri tebliğ edilen borçlu, 15 günlük müddet içinde borcunu ödemediği ve mal bildiriminde de bulunmadığı takdirde mal bildiriminde bulununcaya kadar bir defaya mahsus olmak ve üç ayı geçmemek üzere hapisle tazyik olunur.
-
-Sonuç olarak, AATUHK madde 60 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Hapisle tazyik kararı, ödeme emrinin tebliğini ve 15 günlük müddetin bitmesini mütaakıp tahsil dairesinin yazılı talebi üzerine icra tetkik mercii hakimi tarafından verilir.
-
-Bu bağlamda m. 60 uygulamasında «(Değişik: 13/6/1963 - 251/2 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Bu kararlar Cumhuriyet Savcılığınca derhal infaz olunur.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. İcra tetkik mercii hakimi tarafından verilen hapsen tazyik kararları her türlü harc ve resimden muaftır.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Değişik: 13/6/1963 - 251/2 md.) Kendisine ödeme emri tebliğ edilen borçlu, 15 günlük müddet içinde borcunu ödemediği ve mal bildiriminde de bulunmadığı takdirde mal bildiriminde bulununcaya kadar bir defaya mahsus olmak ve üç ayı geçmemek üzere hapisle tazyik olunur.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Hapisle tazyik kararı, ödeme emrinin tebliğini ve 15 günlük müddetin bitmesini mütaakıp tahsil dairesinin yazılı talebi üzerine icra tetkik mercii hakimi tarafından verilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 60 sonuçlarının fiilen elde edilmesi için belirleyicidir. Bu kararlar Cumhuriyet Savcılığınca derhal infaz olunur.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. İcra tetkik mercii hakimi tarafından verilen hapsen tazyik kararları her türlü harc ve resimden muaftır.
-
-Sonuç olarak, AATUHK madde 60 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Değişik: 13/6/1963 - 251/2 md.) Kendisine ödeme emri tebliğ edilen borçlu, 15 günlük müddet içinde borcunu ödemediği ve mal bildiriminde de bulunmadığı takdirde mal bildiriminde bulununcaya kadar bir defaya mahsus olmak ve üç ayı geçmemek üzere hapisle tazyik olunur.
-
-Bu bağlamda m. 60 uygulamasında «(Değişik: 13/6/1963 - 251/2 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Hapisle tazyik kararı, ödeme emrinin tebliğini ve 15 günlük müddetin bitmesini mütaakıp tahsil dairesinin yazılı talebi üzerine icra tetkik mercii hakimi tarafından verilir.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bu kararlar Cumhuriyet Savcılığınca derhal infaz olunur.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. İcra tetkik mercii hakimi tarafından verilen hapsen tazyik kararları her türlü harc ve resimden muaftır.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Değişik: 13/6/1963 - 251/2 md.) Kendisine ödeme emri tebliğ edilen borçlu, 15 günlük müddet içinde borcunu ödemediği ve mal bildiriminde de bulunmadığı takdirde mal bildiriminde bulununcaya kadar bir defaya mahsus olmak ve üç ayı geçmemek üzere hapisle tazyik olunur.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 60 sonuçlarının fiilen elde edilmesi için belirleyicidir. Hapisle tazyik kararı, ödeme emrinin tebliğini ve 15 günlük müddetin bitmesini mütaakıp tahsil dairesinin yazılı talebi üzerine icra tetkik mercii hakimi tarafından verilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Bu kararlar Cumhuriyet Savcılığınca derhal infaz olunur.
-
-Sonuç olarak, AATUHK madde 60 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. İcra tetkik mercii hakimi tarafından verilen hapsen tazyik kararları her türlü harc ve resimden muaftır.
-
-Bu bağlamda m. 60 uygulamasında «(Değişik: 13/6/1963 - 251/2 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik: 13/6/1963 - 251/2 md.) Kendisine ödeme emri tebliğ edilen borçlu, 15 günlük müddet içinde borcunu ödemediği ve mal bildiriminde de bulunmadığı takdirde mal bildiriminde bulununcaya kadar bir defaya mahsus olmak ve üç ayı geçmemek üzere hapisle tazyik olunur.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Hapisle tazyik kararı, ödeme emrinin tebliğini ve 15 günlük müddetin bitmesini mütaakıp tahsil dairesinin yazılı talebi üzerine icra tetkik mercii hakimi tarafından verilir.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Bu kararlar Cumhuriyet Savcılığınca derhal infaz olunur.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İcra tetkik mercii hakimi tarafından verilen hapsen tazyik kararları her türlü harc ve resimden muaftır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 60 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Değişik: 13/6/1963 - 251/2 md.) Kendisine ödeme emri tebliğ edilen borçlu, 15 günlük müddet içinde borcunu ödemediği ve mal bildiriminde de bulunmadığı takdirde mal bildiriminde bulununcaya kadar bir defaya mahsus olmak ve üç ayı geçmemek üzere hapisle tazyik olunur.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Hapisle tazyik kararı, ödeme emrinin tebliğini ve 15 günlük müddetin bitmesini mütaakıp tahsil dairesinin yazılı talebi üzerine icra tetkik mercii hakimi tarafından verilir.
-
-Sonuç olarak, AATUHK madde 60 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Bu kararlar Cumhuriyet Savcılığınca derhal infaz olunur.
-
-Bu bağlamda m. 60 uygulamasında «(Değişik: 13/6/1963 - 251/2 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. İcra tetkik mercii hakimi tarafından verilen hapsen tazyik kararları her türlü harc ve resimden muaftır.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. (Değişik: 13/6/1963 - 251/2 md.) Kendisine ödeme emri tebliğ edilen borçlu, 15 günlük müddet içinde borcunu ödemediği ve mal bildiriminde de bulunmadığı takdirde mal bildiriminde bulununcaya kadar bir defaya mahsus olmak ve üç ayı geçmemek üzere hapisle tazyik olunur.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Hapisle tazyik kararı, ödeme emrinin tebliğini ve 15 günlük müddetin bitmesini mütaakıp tahsil dairesinin yazılı talebi üzerine icra tetkik mercii hakimi tarafından verilir.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Bu kararlar Cumhuriyet Savcılığınca derhal infaz olunur.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 60 sonuçlarının fiilen elde edilmesi için belirleyicidir. İcra tetkik mercii hakimi tarafından verilen hapsen tazyik kararları her türlü harc ve resimden muaftır.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Değişik: 13/6/1963 - 251/2 md.) Kendisine ödeme emri tebliğ edilen borçlu, 15 günlük müddet içinde borcunu ödemediği ve mal bildiriminde de bulunmadığı takdirde mal bildiriminde bulununcaya kadar bir defaya mahsus olmak ve üç ayı geçmemek üzere hapisle tazyik olunur.
-
-Sonuç olarak, AATUHK madde 60 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Hapisle tazyik kararı, ödeme emrinin tebliğini ve 15 günlük müddetin bitmesini mütaakıp tahsil dairesinin yazılı talebi üzerine icra tetkik mercii hakimi tarafından verilir.
-
-Bu bağlamda m. 60 uygulamasında «(Değişik: 13/6/1963 - 251/2 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Bu kararlar Cumhuriyet Savcılığınca derhal infaz olunur.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. İcra tetkik mercii hakimi tarafından verilen hapsen tazyik kararları her türlü harc ve resimden muaftır.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. (Değişik: 13/6/1963 - 251/2 md.) Kendisine ödeme emri tebliğ edilen borçlu, 15 günlük müddet içinde borcunu ödemediği ve mal bildiriminde de bulunmadığı takdirde mal bildiriminde bulununcaya kadar bir defaya mahsus olmak ve üç ayı geçmemek üzere hapisle tazyik olunur.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Hapisle tazyik kararı, ödeme emrinin tebliğini ve 15 günlük müddetin bitmesini mütaakıp tahsil dairesinin yazılı talebi üzerine icra tetkik mercii hakimi tarafından verilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 60 sonuçlarının fiilen elde edilmesi için belirleyicidir. Bu kararlar Cumhuriyet Savcılığınca derhal infaz olunur.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. İcra tetkik mercii hakimi tarafından verilen hapsen tazyik kararları her türlü harc ve resimden muaftır.
-
-Sonuç olarak, AATUHK madde 60 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. (Değişik: 13/6/1963 - 251/2 md.) Kendisine ödeme emri tebliğ edilen borçlu, 15 günlük müddet içinde borcunu ödemediği ve mal bildiriminde de bulunmadığı takdirde mal bildiriminde bulununcaya kadar bir defaya mahsus olmak ve üç ayı geçmemek üzere hapisle tazyik olunur.
-
-Bu bağlamda m. 60 uygulamasında «(Değişik: 13/6/1963 - 251/2 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Hapisle tazyik kararı, ödeme emrinin tebliğini ve 15 günlük müddetin bitmesini mütaakıp tahsil dairesinin yazılı talebi üzerine icra tetkik mercii hakimi tarafından verilir.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bu kararlar Cumhuriyet Savcılığınca derhal infaz olunur.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. İcra tetkik mercii hakimi tarafından verilen hapsen tazyik kararları her türlü harc ve resimden muaftır.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. (Değişik: 13/6/1963 - 251/2 md.) Kendisine ödeme emri tebliğ edilen borçlu, 15 günlük müddet içinde borcunu ödemediği ve mal bildiriminde de bulunmadığı takdirde mal bildiriminde bulununcaya kadar bir defaya mahsus olmak ve üç ayı geçmemek üzere hapisle tazyik olunur.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 60 sonuçlarının fiilen elde edilmesi için belirleyicidir. Hapisle tazyik kararı, ödeme emrinin tebliğini ve 15 günlük müddetin bitmesini mütaakıp tahsil dairesinin yazılı talebi üzerine icra tetkik mercii hakimi tarafından verilir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Bu kararlar Cumhuriyet Savcılığınca derhal infaz olunur.
-
-Sonuç olarak, AATUHK madde 60 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. İcra tetkik mercii hakimi tarafından verilen hapsen tazyik kararları her türlü harc ve resimden muaftır.
-
-Bu bağlamda m. 60 uygulamasında «(Değişik: 13/6/1963 - 251/2 md.)» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. (Değişik: 13/6/1963 - 251/2 md.) Kendisine ödeme emri tebliğ edilen borçlu, 15 günlük müddet içinde borcunu ödemediği ve mal bildiriminde de bulunmadığı takdirde mal bildiriminde bulununcaya kadar bir defaya mahsus olmak ve üç ayı geçmemek üzere hapisle tazyik olunur.
-
-Öğretide genel kabul gören görüşe göre, AATUHK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Hapisle tazyik kararı, ödeme emrinin tebliğini ve 15 günlük müddetin bitmesini mütaakıp tahsil dairesinin yazılı talebi üzerine icra tetkik mercii hakimi tarafından verilir.
-
-Uygulayıcı, ödeme emri ile haciz arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Bu kararlar Cumhuriyet Savcılığınca derhal infaz olunur.
-
-Yatay mevzuat (VUK) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İcra tetkik mercii hakimi tarafından verilen hapsen tazyik kararları her türlü harc ve resimden muaftır.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 60 sonuçlarının fiilen elde edilmesi için belirleyicidir. (Değişik: 13/6/1963 - 251/2 md.) Kendisine ödeme emri tebliğ edilen borçlu, 15 günlük müddet içinde borcunu ödemediği ve mal bildiriminde de bulunmadığı takdirde mal bildiriminde bulununcaya kadar bir defaya mahsus olmak ve üç ayı geçmemek üzere hapisle tazyik olunur.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Hapisle tazyik kararı, ödeme emrinin tebliğini ve 15 günlük müddetin bitmesini mütaakıp tahsil dairesinin yazılı talebi üzerine icra tetkik mercii hakimi tarafından verilir.
+Doktrin genel kabul görmüş hukuk ilkeleriyle sentezlenmiştir, içtihat dizisi arşivi boş olup uydurulmamıştır.

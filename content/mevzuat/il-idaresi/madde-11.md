@@ -3,8 +3,8 @@ title: "İl İdaresi Kanunu Madde 11"
 kanun: "İl İdaresi Kanunu"
 maddeNo: 11
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3623
+lastReviewed: "2026-08-22"
+wordCount: 1003
 ---
 
 **C) (Mülga: 23/1/2008-5728/578 md.)
@@ -190,205 +190,70 @@ Bakanlığı veya İçişleri Bakanlığı bütçesine konulan ödenekten karş�
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**İl İdaresi Kanunu m. 11** (5442 sayılı), «9 A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve» başlığı altında mülki idare içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+İl İdaresi Kanunu'nın 11. maddesi C) (Mülga: 23/1/2008-5728/578 md.) · D) (Mülga: 14/7/2004-5219/5 md.) · E) (Mülga: 23/1/2008-5728/578 md.) kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: Madde 11 –A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve teşkilatının amiridir. Suç işlenmesini önlemek, kamu düzen ve güvenini korumak için gereken tedbirleri alır. Bu maksatla Devletin genel ve özel kolluk kuvvetlerini istihdam eder, bu teşkilat amir ve memurları vali tarafından verilen emirleri derhal yerine getirmekle yükümlüdür. B) Memleketin Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 11 izole okunmamalı; İl İdaresi K.’nın ilgili bölüm/ayırım bütünlüğü ve vali–kaymakam ilkesiyle birlikte yorumlanmalıdır.
+Madde aynı kanunun sistematiği içinde okunur zira komşu hükümler uygulama sırasını ve istisnaları taşır. Yakın maddeler arasında m.13 (III - Valilerin teftiş ve denetleme yetkileri) öne çıkar. Uygulayıcı önce hangi fıkranın somut vakıaya denk düştüğünü yazar, sonra sonuca geçer.
 
-Ratio legis, vali–kaymakam, kamu düzeni, vesayet ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: 9 A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve teşkilatının amiridir. Suç işlenmesini önlemek, kamu düzen ve güvenini korumak için gereken tedbirleri alır.
+Hüküm tek parça gibi görünse de uygulama şart-sonuç ayrımını dosyada açık yazmayı gerektirir. Şart gerçekleşmeden yetki veya yaptırım konuşulmaz ve gerekçe boş kalır.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Somut uyuşmazlıkta maddenin hangi tarih itibarıyla yürürlükte olduğu ve değişiklik fıkralarının vakıaya uygulanıp uygulanmayacağı ayrıca denetlenir. Geçiş hükümleri yok sayılırsa eski lafızla yeni lafız birbirine karışır, karar gerekçesi çöker.
+
+Bu maddeye özgü okuma lafzı başka kanunların kalıp şerhlerine taşımaz. Korunan menfaat C) (Mülga: 23/1/2008-5728/578 md.) · D) (Mülga: 14/7/2004-5219/5 md.) · E) (Mülga: 23/1/2008-5728/578 md.) başlığının işaret ettiği ilişkidir ve şerh de o ilişki üzerinden yürür.
+
+Uygulama, maddenin emredici çekirdeği ile idareye veya taraflara bırakılan hareket alanını ayırarak ilerler. Çekirdek aşıldığında işlem sakatlanır, hareket alanı içinde kalan tercihler ise gerekçeyle savunulabilir. Somut dosyada bu ayrım yazılmadan verilen sonuç, temyizde lafzı taşımadığı gerekçesiyle döner.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Uygulama alanı
 
-Madde 11, «9 A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve» ekseninde suç ve memurları kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak mülki idare içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+C) (Mülga: 23/1/2008-5728/578 md.) · D) (Mülga: 14/7/2004-5219/5 md.) · E) (Mülga: 23/1/2008-5728/578 md.) bakımından bu dilim şu metne dayanır: Madde 11 –A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve teşkilatının amiridir. Suç işlenmesini önlemek, kamu düzen ve güvenini korumak için gereken tedbirleri alır. Bu maksatla Devletin genel ve özel kolluk kuvvetlerini istihdam eder, bu teşkilat amir Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.2. Unsurlar
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 11 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+##### 2.2. Şart ve sonuç bağı
 
-Metinden çıkan somut vurgular: Bu maksatla Devletin genel ve özel kolluk kuvvetlerini istihdam eder, bu teşkilat amir ve memurları vali tarafından verilen emirleri derhal yerine getirmekle yükümlüdür. B) Memleketin sınır ve kıyı emniyetini ve sınır ve kıyı emniyetiyle ilgili bütün işleri, yürürlükte bulunan hükümlere göre sağlar ve yürütür.
+C) (Mülga: 23/1/2008-5728/578 md.) · D) (Mülga: 14/7/2004-5219/5 md.) · E) (Mülga: 23/1/2008-5728/578 md.) bakımından bu dilim şu metne dayanır: Madde 11 –A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve teşkilatının amiridir. Suç işlenmesini önlemek, kamu düzen ve güvenini korumak için gereken tedbirleri alır. Bu maksatla Devletin genel ve özel kolluk kuvvetlerini istihdam eder, bu teşkilat amir Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.3. Korunan menfaat
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 11 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Korunan menfaat, bireysel hak sahibi ile kamu düzeni arasındaki dengede aranır. İl İdaresi K. m. 11, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. ruhsatlı kavramı bu dengede anahtar rol oynar.
+##### 2.3. Yetki ve usul
 
-##### 2.4. Sonuç ve yaptırım
+C) (Mülga: 23/1/2008-5728/578 md.) · D) (Mülga: 14/7/2004-5219/5 md.) · E) (Mülga: 23/1/2008-5728/578 md.) bakımından bu dilim şu metne dayanır: Madde 11 –A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve teşkilatının amiridir. Suç işlenmesini önlemek, kamu düzen ve güvenini korumak için gereken tedbirleri alır. Bu maksatla Devletin genel ve özel kolluk kuvvetlerini istihdam eder, bu teşkilat amir Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 11 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
 #### 3. Sistematik İlişkiler
 
-- **İl İdaresi K. komşu maddeler:** m. 11 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle 9 A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** vali–kaymakam; kamu düzeni; vesayet; merkez–taşra.
-- **Yatay mevzuat:** Anayasa m. 123–127; Belediye Kanunu; PVSK.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**m. 13 — III - Valilerin teftiş ve denetleme yetkileri** İl İdaresi Kanunu m. 13 (III - Valilerin teftiş ve denetleme yetkileri) ile m. 11 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu ilişkiler, m. 11’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
-
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
-
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (suç / belediye karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
-
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
-
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: C) İl sınırları içinde huzur ve güvenliğin, kişi dokunulmazlığının, tasarrufa müteaallik emniyetin, kamu esenliğinin sağlanması ve önleyici kolluk yetkisi valinin ödev ve görevlerindendir. (Ek cümle: 25/7/2018-7145/1 md.) Bunları sağlamak için vali gereken karar ve tedbirleri alır.
+Yerel arşivde bu maddeye yapısal atıf yapan tam künyeli karar bulunamadı ve içtihat bölümü bu yüzden boş bırakılır; künye uydurulmaz.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında 9 a) vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve ile bağlantılı bir uyuşmazlık çıkar. Davacı, İl İdaresi K. m. 11’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. 9 A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve teşkilatının amiridir. cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Bir uyuşmazlıkta taraf C) (Mülga: 23/1/2008-5728/578 md.) · D) (Mülga: 14/7/2004-5219/5 md.) · E) (Mülga: 23/1/2008-5728/578 md.) hükmüne dayanarak talep yöneltti. Karşı taraf maddenin şartlarının oluşmadığını ileri sürdü. Mahkeme resmi lafızdaki unsurları dosyadaki belgelerle tek tek eşlemek zorunda kaldı ve eksik unsur varsa talebi bu maddeye dayandırmadı.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 11 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** İdare veya taraf m. 11 yetkisini acele kullandı ve ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, memurları gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* İl İdaresi K.’nın iyiniyet ve dürüstlük ilkeleri ile m. 11’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Yürürlük tartışmasında eski ve yeni lafız iç içe geçti ve uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. 11 uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; suç ile ruhsatlı’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **İl İdaresi K. madde 11**, **İl İdaresi K. m. 11**, **İl İdaresi K. 11** ve **İl İdaresi Kanunu madde 11** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Dilekçede İl İdaresi Kanunu m. 11 dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.
+
+Belge listesi maddenin şartlarını karşılayan olgulara bağlanmalıdır, genel anlatım yetmez.
+
+Karşı tarafın savunması unsur eksikliğine mi yoksa sonuç tartışmasına mı yöneldiği ayrılmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-İl İdaresi K. m. 11, mülki idare içinde 9 A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve vali–kaymakam ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Hükmün lafzı ile uygulamanın pratik ihtiyaçları her somut dosyada ayrıca tartılır. C) (Mülga: 23/1/2008-5728/578 md.) · D) (Mülga: 14/7/2004-5219/5 md.) · E) (Mülga: 23/1/2008-5728/578 md.) başlığı geniş okunursa madde her uyuşmazlığa çekilir, dar okunursa koruma boşalır.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 11 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Öğreti bu tür hükümlerde lafzın sınırını dosyanın vakıalarıyla test etmeyi önerir ve sayfa ve baskı yılı uydurulmaz.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: İl İdaresi Kanunu m. 11 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 11 uygulamasında «9 A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 9 A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve teşkilatının amiridir.
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Suç işlenmesini önlemek, kamu düzen ve güvenini korumak için gereken tedbirleri alır.
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Bu maksatla Devletin genel ve özel kolluk kuvvetlerini istihdam eder, bu teşkilat amir ve memurları vali tarafından verilen emirleri derhal yerine getirmekle yükümlüdür.
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. B) Memleketin sınır ve kıyı emniyetini ve sınır ve kıyı emniyetiyle ilgili bütün işleri, yürürlükte bulunan hükümlere göre sağlar ve yürütür.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 11 sonuçlarının fiilen elde edilmesi için belirleyicidir. C) İl sınırları içinde huzur ve güvenliğin, kişi dokunulmazlığının, tasarrufa müteaallik emniyetin, kamu esenliğinin sağlanması ve önleyici kolluk yetkisi valinin ödev ve görevlerindendir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Ek cümle: 25/7/2018-7145/1 md.) Bunları sağlamak için vali gereken karar ve tedbirleri alır.
-
-Sonuç olarak, İl İdaresi K. madde 11 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. belli yerlerde veya saatlerde kişilerin dolaşmalarını, toplanmalarını, araçların seyirlerini düzenleyebilir veya kısıtlayabilir ve ruhsatlı da olsa her çeşit silah ve merminin taşınması ve naklini yasaklayabilir.
-
-Bu bağlamda m. 11 uygulamasında «9 A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. D) (Değişik: 29/8/1996-4178/1 md.) Valiler, ilde çıkabilecek veya çıkan olayların, emrindeki kuvvetlerle önlenmesini mümkün görmedikleri veya önleyemedikleri;
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bu durumlarda ihtiyaç duyulan kuvvetlerin İçişleri Bakanlığından veya askeri birliklerden veya her iki makamdan talep edilmesi hususu, yardım talebinde bulunan vali tarafından takdir edilir.
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Valinin yaptığı yardım istemi geciktirilmeksizin yerine getirilir.
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Acil durumlarda bu istek sonradan yazılı şekle dönüştürülmek kaydıyla sözlü olarak yapılabilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 11 sonuçlarının fiilen elde edilmesi için belirleyicidir. 9 2/7/2018 tarihli ve 703 sayılı KHK’nin 138 inci maddesiyle, bu maddede yer alan “Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde, “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde, “Hükümetin” ibaresi “Cumhurbaşkanının” şeklinde, “Başbakanın” ibaresi “Cumhurbaşkanının” şeklinde değiştirilmiştir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. 10 25/7/2018 tarihli ve 7145 sayılı Kanunun 1 inci maddesiyle, bu paragrafta yer alan “Bu hususta” ibaresi “Bu fıkra kapsamında” şeklinde değiştirilmiştir.
-
-Sonuç olarak, İl İdaresi K. madde 11 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. 11 17/4/2017 tarihli ve 690 sayılı KHK’nin 17 nci maddesiyle, bu fıkranın birinci cümlesinde yer alan “Jandarma Genel Komutanlığının veya” ibaresi yürürlükten kaldırılmış, daha sonra bu hüküm 1/2/2018 tarihli ve 7077 sayılı Kanunun 15 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
-
-Bu bağlamda m. 11 uygulamasında «9 A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 9 A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve teşkilatının amiridir.
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Suç işlenmesini önlemek, kamu düzen ve güvenini korumak için gereken tedbirleri alır.
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Bu maksatla Devletin genel ve özel kolluk kuvvetlerini istihdam eder, bu teşkilat amir ve memurları vali tarafından verilen emirleri derhal yerine getirmekle yükümlüdür.
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. B) Memleketin sınır ve kıyı emniyetini ve sınır ve kıyı emniyetiyle ilgili bütün işleri, yürürlükte bulunan hükümlere göre sağlar ve yürütür.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 11 sonuçlarının fiilen elde edilmesi için belirleyicidir. C) İl sınırları içinde huzur ve güvenliğin, kişi dokunulmazlığının, tasarrufa müteaallik emniyetin, kamu esenliğinin sağlanması ve önleyici kolluk yetkisi valinin ödev ve görevlerindendir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Ek cümle: 25/7/2018-7145/1 md.) Bunları sağlamak için vali gereken karar ve tedbirleri alır.
-
-Sonuç olarak, İl İdaresi K. madde 11 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. belli yerlerde veya saatlerde kişilerin dolaşmalarını, toplanmalarını, araçların seyirlerini düzenleyebilir veya kısıtlayabilir ve ruhsatlı da olsa her çeşit silah ve merminin taşınması ve naklini yasaklayabilir.
-
-Bu bağlamda m. 11 uygulamasında «9 A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. D) (Değişik: 29/8/1996-4178/1 md.) Valiler, ilde çıkabilecek veya çıkan olayların, emrindeki kuvvetlerle önlenmesini mümkün görmedikleri veya önleyemedikleri;
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bu durumlarda ihtiyaç duyulan kuvvetlerin İçişleri Bakanlığından veya askeri birliklerden veya her iki makamdan talep edilmesi hususu, yardım talebinde bulunan vali tarafından takdir edilir.
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Valinin yaptığı yardım istemi geciktirilmeksizin yerine getirilir.
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Acil durumlarda bu istek sonradan yazılı şekle dönüştürülmek kaydıyla sözlü olarak yapılabilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 11 sonuçlarının fiilen elde edilmesi için belirleyicidir. 9 2/7/2018 tarihli ve 703 sayılı KHK’nin 138 inci maddesiyle, bu maddede yer alan “Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde, “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde, “Hükümetin” ibaresi “Cumhurbaşkanının” şeklinde, “Başbakanın” ibaresi “Cumhurbaşkanının” şeklinde değiştirilmiştir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. 10 25/7/2018 tarihli ve 7145 sayılı Kanunun 1 inci maddesiyle, bu paragrafta yer alan “Bu hususta” ibaresi “Bu fıkra kapsamında” şeklinde değiştirilmiştir.
-
-Sonuç olarak, İl İdaresi K. madde 11 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. 11 17/4/2017 tarihli ve 690 sayılı KHK’nin 17 nci maddesiyle, bu fıkranın birinci cümlesinde yer alan “Jandarma Genel Komutanlığının veya” ibaresi yürürlükten kaldırılmış, daha sonra bu hüküm 1/2/2018 tarihli ve 7077 sayılı Kanunun 15 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
-
-Bu bağlamda m. 11 uygulamasında «9 A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 9 A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve teşkilatının amiridir.
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Suç işlenmesini önlemek, kamu düzen ve güvenini korumak için gereken tedbirleri alır.
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Bu maksatla Devletin genel ve özel kolluk kuvvetlerini istihdam eder, bu teşkilat amir ve memurları vali tarafından verilen emirleri derhal yerine getirmekle yükümlüdür.
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. B) Memleketin sınır ve kıyı emniyetini ve sınır ve kıyı emniyetiyle ilgili bütün işleri, yürürlükte bulunan hükümlere göre sağlar ve yürütür.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 11 sonuçlarının fiilen elde edilmesi için belirleyicidir. C) İl sınırları içinde huzur ve güvenliğin, kişi dokunulmazlığının, tasarrufa müteaallik emniyetin, kamu esenliğinin sağlanması ve önleyici kolluk yetkisi valinin ödev ve görevlerindendir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Ek cümle: 25/7/2018-7145/1 md.) Bunları sağlamak için vali gereken karar ve tedbirleri alır.
-
-Sonuç olarak, İl İdaresi K. madde 11 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. belli yerlerde veya saatlerde kişilerin dolaşmalarını, toplanmalarını, araçların seyirlerini düzenleyebilir veya kısıtlayabilir ve ruhsatlı da olsa her çeşit silah ve merminin taşınması ve naklini yasaklayabilir.
-
-Bu bağlamda m. 11 uygulamasında «9 A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. D) (Değişik: 29/8/1996-4178/1 md.) Valiler, ilde çıkabilecek veya çıkan olayların, emrindeki kuvvetlerle önlenmesini mümkün görmedikleri veya önleyemedikleri;
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bu durumlarda ihtiyaç duyulan kuvvetlerin İçişleri Bakanlığından veya askeri birliklerden veya her iki makamdan talep edilmesi hususu, yardım talebinde bulunan vali tarafından takdir edilir.
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Valinin yaptığı yardım istemi geciktirilmeksizin yerine getirilir.
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Acil durumlarda bu istek sonradan yazılı şekle dönüştürülmek kaydıyla sözlü olarak yapılabilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 11 sonuçlarının fiilen elde edilmesi için belirleyicidir. 9 2/7/2018 tarihli ve 703 sayılı KHK’nin 138 inci maddesiyle, bu maddede yer alan “Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde, “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde, “Hükümetin” ibaresi “Cumhurbaşkanının” şeklinde, “Başbakanın” ibaresi “Cumhurbaşkanının” şeklinde değiştirilmiştir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. 10 25/7/2018 tarihli ve 7145 sayılı Kanunun 1 inci maddesiyle, bu paragrafta yer alan “Bu hususta” ibaresi “Bu fıkra kapsamında” şeklinde değiştirilmiştir.
-
-Sonuç olarak, İl İdaresi K. madde 11 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. 11 17/4/2017 tarihli ve 690 sayılı KHK’nin 17 nci maddesiyle, bu fıkranın birinci cümlesinde yer alan “Jandarma Genel Komutanlığının veya” ibaresi yürürlükten kaldırılmış, daha sonra bu hüküm 1/2/2018 tarihli ve 7077 sayılı Kanunun 15 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
-
-Bu bağlamda m. 11 uygulamasında «9 A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 9 A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve teşkilatının amiridir.
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Suç işlenmesini önlemek, kamu düzen ve güvenini korumak için gereken tedbirleri alır.
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Bu maksatla Devletin genel ve özel kolluk kuvvetlerini istihdam eder, bu teşkilat amir ve memurları vali tarafından verilen emirleri derhal yerine getirmekle yükümlüdür.
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. B) Memleketin sınır ve kıyı emniyetini ve sınır ve kıyı emniyetiyle ilgili bütün işleri, yürürlükte bulunan hükümlere göre sağlar ve yürütür.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 11 sonuçlarının fiilen elde edilmesi için belirleyicidir. C) İl sınırları içinde huzur ve güvenliğin, kişi dokunulmazlığının, tasarrufa müteaallik emniyetin, kamu esenliğinin sağlanması ve önleyici kolluk yetkisi valinin ödev ve görevlerindendir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. (Ek cümle: 25/7/2018-7145/1 md.) Bunları sağlamak için vali gereken karar ve tedbirleri alır.
-
-Sonuç olarak, İl İdaresi K. madde 11 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. belli yerlerde veya saatlerde kişilerin dolaşmalarını, toplanmalarını, araçların seyirlerini düzenleyebilir veya kısıtlayabilir ve ruhsatlı da olsa her çeşit silah ve merminin taşınması ve naklini yasaklayabilir.
-
-Bu bağlamda m. 11 uygulamasında «9 A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. D) (Değişik: 29/8/1996-4178/1 md.) Valiler, ilde çıkabilecek veya çıkan olayların, emrindeki kuvvetlerle önlenmesini mümkün görmedikleri veya önleyemedikleri;
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Bu durumlarda ihtiyaç duyulan kuvvetlerin İçişleri Bakanlığından veya askeri birliklerden veya her iki makamdan talep edilmesi hususu, yardım talebinde bulunan vali tarafından takdir edilir.
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Valinin yaptığı yardım istemi geciktirilmeksizin yerine getirilir.
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Acil durumlarda bu istek sonradan yazılı şekle dönüştürülmek kaydıyla sözlü olarak yapılabilir.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 11 sonuçlarının fiilen elde edilmesi için belirleyicidir. 9 2/7/2018 tarihli ve 703 sayılı KHK’nin 138 inci maddesiyle, bu maddede yer alan “Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde, “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde, “Hükümetin” ibaresi “Cumhurbaşkanının” şeklinde, “Başbakanın” ibaresi “Cumhurbaşkanının” şeklinde değiştirilmiştir.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. 10 25/7/2018 tarihli ve 7145 sayılı Kanunun 1 inci maddesiyle, bu paragrafta yer alan “Bu hususta” ibaresi “Bu fıkra kapsamında” şeklinde değiştirilmiştir.
-
-Sonuç olarak, İl İdaresi K. madde 11 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. 11 17/4/2017 tarihli ve 690 sayılı KHK’nin 17 nci maddesiyle, bu fıkranın birinci cümlesinde yer alan “Jandarma Genel Komutanlığının veya” ibaresi yürürlükten kaldırılmış, daha sonra bu hüküm 1/2/2018 tarihli ve 7077 sayılı Kanunun 15 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
-
-Bu bağlamda m. 11 uygulamasında «9 A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. 9 A) Vali, il sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve teşkilatının amiridir.
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Suç işlenmesini önlemek, kamu düzen ve güvenini korumak için gereken tedbirleri alır.
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Bu maksatla Devletin genel ve özel kolluk kuvvetlerini istihdam eder, bu teşkilat amir ve memurları vali tarafından verilen emirleri derhal yerine getirmekle yükümlüdür.
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. B) Memleketin sınır ve kıyı emniyetini ve sınır ve kıyı emniyetiyle ilgili bütün işleri, yürürlükte bulunan hükümlere göre sağlar ve yürütür.
+Bu yorum maddenin resmi metni ve yerel karar arşivi esas alınarak hazırlanmıştır. Künyeler arşivden birebir alınır, uydurulmaz ve örnek olaylar kurmacadır.

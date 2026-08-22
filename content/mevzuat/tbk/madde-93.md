@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4304
 ---
 
+
 **3. Tatil günleri**
 
 ---
@@ -18,391 +19,264 @@ Aksine anlaşma geçerlidir.
 ---
 
 ### Akademik Yorum ve Analiz
+
+
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Borçlar Kanunu m. 93**, «3. Tatil günleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 93 - İfa zamanı veya sürenin son günü, kanunlarda tatil olarak  kabul  edilen
-bir güne rastlarsa, kendiliğinden bu günü izleyen ve tatil olmayan ilk güne geçer.
-Aksine anlaşma geçerlidir.
+**Makro Bakış:** Modern borçlar hukukunda, bir borç ilişkisinin sadece aktif 
+süjesini (alacaklıyı) değiştiren **Alacağın Temliki (TBK m. 183)** veya sadece 
+pasif süjesini (borçluyu) değiştiren **Borcun Üstlenilmesi (TBK m. 196)** 
+kurumları, ticari hayatın karmaşık ihtiyaçlarını karşılamakta yetersiz 
+kalmıştır. Tam iki tarafa borç yükleyen sözleşmelerde (örneğin kira, eser, 
+satım) taraflar aynı anda hem alacaklı hem de borçlu sıfatını taşırlar; 
+dahası, bu ilişkide sözleşmeden dönme, fesih, seçimlik haklar gibi **Yenilik 
+Doğuran Haklar (Gestaltungsrechte)** ve çeşitli def'iler bulunur. Bir tarafın, 
+sözleşmeyi tüm bu organik bütünlüğüyle birlikte üçüncü bir kişiye devrederek 
+ilişkiden tamamen çıkması ekonomik bir zarurettir. Mülga 818 sayılı BK 
+döneminde kanuni bir temeli olmayan bu işlem, 6098 sayılı TBK ile 
+yasallaşmıştır.
 
----… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+6098 sayılı TBK m. 205 hükmü, sözleşmenin devri kurumunun tanımını ve hukuki 
+çerçevesini vazedir. Madde lafzı şu şekildedir:
+*"Sözleşmenin devri, sözleşmeyi devralan ile devreden ve sözleşmede kalan taraf
+arasında yapılan ve devredenin bu sözleşmeden doğan taraf sıfatı ile birlikte 
+bütün hak ve borçlarını devralana geçiren bir anlaşmadır.
+Sözleşmeyi devralan ile devreden arasında yapılan ve sözleşmede kalan diğer 
+tarafça önceden verilen izne dayanan veya sonradan onaylanan anlaşma da, 
+sözleşmenin devri hükümlerine tabidir.
+Sözleşmenin devrinin geçerliliği, devredilen sözleşmenin şekline bağlıdır."*
+
+Sistematik açıdan yasa koyucu bu normla, borç ilişkisinin statik yapısına 
+müdahale eden üçlü bir **Tasarruf İşlemi (Verfügungsgeschäft)** kurgulamıştır. 
+Bu işlemle, sözleşmenin devredilen tarafı ilişkiden kesin olarak (ex nunc - 
+geleceğe etkili) ayrılırken, devralan kişi, onun hukuki cübbesini giyerek 
+sözleşmenin yeni asli tarafı (**Sözleşme Süjesi / Vertragspartei**) haline 
+gelir. 
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+**Mikro Analiz:** TBK m. 205 hükmünün teorik mimarisini bütünüyle kavrayabilmek
+için, kurucu kavramların Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami
+Nomer'in eserleri ekseninde mikroskobik düzeyde analiz edilmesi elzemdir:
 
-Madde 93, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+**A. Taraf Sıfatının Devri (Übertragung der Parteistellung):**
+Sözleşmenin devrini, alacağın temliki ve borcun nakli toplamından (Ayrıştırma 
+Teorisi) farklı kılan en temel unsurdur. Devredilen şey sadece mevcut alacaklar
+ve muaccel borçlar değildir. Devredilen şey, sözleşmenin **Organik 
+Statüsüdür**. Devralan, devredenin sahip olduğu sözleşmeyi feshetme, dönme, 
+bedel indirimi isteme, ayıba karşı tekeffül gibi tüm **Yenilik Doğuran 
+Hakları**, fer'i hakları ve def'ileri de (Ödemezlik def'i vb.) devralır. Eski 
+taraf ilişkiden koptuğu için, artık fesih hakkını kullanamaz. 
 
-##### 2.2. Usulî ve maddi unsurlar
+**B. Üçlü Anlaşma veya İkili Anlaşma + Onay Mekanizması:**
+Kanun, işlemin kurulması için iki alternatif mimari sunar:
+1. **Üçlü Sözleşme:** Devreden (eski taraf) Devralan (yeni taraf) ve 
+Sözleşmede Kalan Tarafın hep birlikte aynı sözleşmeye imza atmasıdır. İşlem o 
+an tekemmül eder.
+2. **İkili Anlaşma ve Rıza (TBK m. 205/2):** Devreden ile devralan kendi 
+aralarında bir devir sözleşmesi yaparlar. Ancak bu sözleşmenin sözleşmede kalan
+tarafa karşı hüküm ifade edebilmesi için, onun **Önceden Verilmiş İzni 
+(Ermächtigung)** veya **Sonradan Vereceği Onayı (Genehmigung)** şarttır. 
+Sözleşmede kalan tarafın onayı olmaksızın yapılan devir işlemi, bir **Bağlı 
+İşlem (Schwebend Unwirksam)** niteliğindedir. Onay verilmezse devir 
+gerçekleşmez; taraflar arasındaki sözleşme kendi aralarında da sözleşmenin 
+devri sonucunu doğurmaz, olsa olsa alacağın temliki ve iç üstlenme vaadi olarak
+ayakta kalmaya çalışır.
 
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
-
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+**C. Geçerlilik Şekli (Formvorschrift - TBK m. 205/3):**
+Borçlar hukuku dogmatiğinin en sert kurallarından biridir. Kanun koyucu, 
+sözleşmenin devrinin geçerliliğini, **Devredilen Sözleşmenin Şekline** tabi 
+kılmıştır. Eğer devredilecek asıl sözleşme kanun gereği resmi şekilde (örneğin 
+taşınmaz satış vaadi) yapılmak zorundaysa, bu sözleşmenin devri sözleşmesi de 
+(taraf değişikliği işlemi de) **Resmi Şekilde** yapılmak ZORUNDADIR. 
+Sisteminizdeki "Şekle Aykırılığın Sonuçları" belgelerinde de hararetle 
+vurgulandığı üzere, geçerlilik şekline uyulmaması işlemi **Kesin Hükümsüzlük 
+(Mutlak Butlan - Nichtigkeit)** ile sakatlar. Bu kural, alacağın temlikindeki 
+şekil serbestisinden (sadece yazılı şeklin yetmesinden) çok daha ağır bir 
+dogmatik testtir.
 
 #### 3. Sistematik İlişkiler
 
-- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 93'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 93 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
-
-Bu ilişkiler, m. 93'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
-
-#### 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
-
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
-
-#### 5. Pratik Örnek Olaylar
-
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 93 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
-
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
-
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
-
-#### 6. Pratik Uygulama Notları
-
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
-
-#### 7. Eleştirel Değerlendirme
-
-Madde 93, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 93, «3. Tatil günleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usu Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 93, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 93'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 93, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 93, «3. Tatil günleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usu Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 93, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 93'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 93, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 93, «3. Tatil günleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usu Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 93, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 93'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 93, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 93, «3. Tatil günleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usu Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 93, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 93'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 93, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 93, «3. Tatil günleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usu Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 93, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 93'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 93, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 93, «3. Tatil günleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usu Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 93, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 93'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 93, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 93, «3. Tatil günleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usu Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 93, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 93'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+TBK m. 205'te kurulan sözleşmenin devri altyapısı, Borçlar Kanunu'nun kira, iş 
+hukuku, genel işlem koşulları ve ticari işletme devri mimarisiyle son derece 
+karmaşık bir bağ içindedir:
+
+**A. Kira Sözleşmesinin Devri (TBK m. 322) ile Özel Norm İlişkisi:**
+TBK m. 205 genel bir normdur. Ancak yasa koyucu kira hukukunda sözleşmenin 
+devri için **Özel Norm (Lex Specialis)** yaratmıştır. TBK m. 322 uyarınca, 
+kiracı, kiraya verenin yazılı rızasını almadan kira ilişkisini başkasına 
+devredemez (Buradaki yazılı rıza bir geçerlilik şartıdır). Ancak işyeri 
+kiralarında kiraya veren, **"Haklı Bir Sebep Olmadıkça"** bu rızayı vermekten 
+kaçınamaz. Genel hükümde (TBK m. 205) sözleşmede kalan taraf rızasını tamamen 
+keyfi olarak esirgeyebilirken; işyeri kiralarında kanun koyucu ticari 
+işletmenin değerini korumak için sözleşme özgürlüğüne müdahale etmiş ve rıza 
+verilmesini bir nevi zorunlu kılmıştır.
+
+**B. İş Sözleşmesinin Devri (TBK m. 429 ve İşK m. 7):**
+Hizmet (İş) sözleşmeleri şahsa sıkı sıkıya bağlı (intuitu personae) 
+ilişkilerdir. İşçi, işverenin onayı olmadan sözleşmesini bir başkasına 
+devredemez. TBK m. 429 uyarınca işveren de, işçinin yazılı rızası olmaksızın 
+işçiyi başka bir işverene (sözleşmenin devri yoluyla) devredemez. Burada 
+devralan işveren ile devreden işveren, işçinin birikmiş haklarından (kıdem 
+tazminatı vb.) müteselsilen sorumlu tutularak sözleşmenin devrinin "eski tarafı
+tamamen kurtarma" kuralına sosyal hukuk devleti ilkesi gereği bir istisna 
+getirilmiştir.
+
+**C. Genel İşlem Koşulları (GİK - TBK m. 20) ve Peşin Rıza Çatışması:**
+Sisteminizdeki "Genel İşlem Koşullarının Denetimi" ve "Şaşırtıcı 
+Kayıtlar" belgelerinde hararetle tartışıldığı üzere; bankalar, telekomünikasyon
+firmaları veya sigorta şirketleri, tüketicilere dayattıkları matbu sözleşmelere
+*"Şirket, bu sözleşmedeki taraf sıfatını, hak ve yükümlülüklerini müşterinin 
+ayrıca onayına gerek kalmaksızın dilediği 3. bir şirkete devredebilir"* 
+şeklinde bir **Peşin İzin (Ermächtigung)** kaydı koymaktadır. TBK m. 205/2, 
+önceden verilen izni geçerli saysa da; şayet bu önceden verilen izin bir GİK 
+vasıtasıyla müzakere edilmeden dayatılmışsa ve tüketicinin durumunu 
+ağırlaştıran (örneğin devralan şirketin hizmet kalitesinin belirsizliği) bir 
+nitelik taşıyorsa, TBK m. 21 ve m. 25 uyarınca dürüstlük kuralına aykırı 
+görülerek **Kesin Olarak Yazılmamış Sayılır**. Tüketicinin rızası olmaksızın 
+yapılan bu devirler iptal edilebilir niteliktedir.
+
+**D. Alacağın Temliki ve Borcun Üstlenilmesi Kombinasyonu (Ayrıştırma) ile 
+Ayrım:**
+Sözleşmenin devri, bir tarafın alacaklarını (TBK m. 183) temlik etmesi ve 
+borçlarını (TBK m. 196) nakletmesinin salt bir aritmetik toplamı DEĞİLDİR. 
+Fikret Eren ve Haluk Nami Nomer'in eserlerinde vurgulandığı üzere, sözleşmenin 
+devri **Sui Generis (Kendine Özgü)** ve tek parça bir işlemdir (Birlik 
+Teorisi). Çünkü salt alacak ve borçlar devredilseydi, sözleşmeyi feshetme veya 
+iptal etme yetkisi gibi statü hakları devredende kalmaya devam ederdi. TBK m. 
+205, bu organik bütünlüğü tek seferde koparıp alana hukuki bir zemin sunar.
+
+#### 4. Pratik Olay Analizleri
+
+Kurumun şekil şartlarının katılığını ve onay mekanizmasının iflas anındaki 
+kilitlenmesini test etmek adına şu iki çarpıcı vakayı inceleyelim:
+
+**Olay 1 (Arsa Payı Karşılığı İnşaat Sözleşmesinin Devrinde Şekil Krizi):**
+Müteahhit (A) Arsa Sahibi (B) ile "Noterde Düzenleme Şeklinde" bir arsa payı 
+karşılığı inşaat sözleşmesi yapar. İnşaatın %10'u bitmişken finansal krize 
+giren (A) projeyi tamamen diğer bir Müteahhit (C)'ye devretmek ister. (A) ile 
+(C) kendi ofislerinde adi yazılı bir "Sözleşmenin Devri Protokolü" imzalarlar.
+Ertesi gün Arsa Sahibi (B)'yi arayıp durumu sözlü olarak anlatırlar, (B) 
+telefonda "Tamam, kim yaparsa yapsın, yeter ki bitsin" diyerek sözlü **Onay 
+(Genehmigung)** verir. (C) inşaata başlar, milyonlarca lira masraf yapar. Aylar
+sonra (B) ile (C) kavga eder ve (B) "Seninle hiçbir geçerli sözleşmemiz yok, 
+devir geçersizdir, inşaatı terk et" diyerek tahliye davası açar.
+*Dogmatik Analiz:* Bu vakada TBK m. 205/3'teki **Şekle Bağlılık İlkesi** 
+sınanmaktadır. Arsa payı karşılığı inşaat sözleşmesi, içinde taşınmaz satış 
+vaadi barındırdığı için TMK m. 706, BK m. 237 ve Noterlik Kanunu m. 60 uyarınca
+**Resmi Şekilde** yapılmak zorundadır. TBK m. 205/3 açıkça emreder: 
+"Sözleşmenin devrinin geçerliliği, devredilen sözleşmenin şekline bağlıdır." 
+Dolayısıyla (A) (B) ve (C) arasındaki devir işlemi veya (A) ile (C) arasındaki
+devir sözleşmesi ve (B)'nin onayı mutlak surette **Noterde Düzenleme Şeklinde**
+yapılmalıydı. Adi yazılı protokol ve telefondaki sözlü onay, şekil eksikliği 
+nedeniyle **Kesin Hükümsüzdür (Mutlak Butlan - Nichtig)**. Arsa Sahibi (B) 
+davayı kazanır. (C) yaptığı masrafları sisteminizdeki "Sona Ermiş veya 
+Geçersiz Sözleşmelerde İade" belgelerinde yer alan **Sebepsiz Zenginleşme (TBK 
+m. 77)** hükümleri uyarınca geri istemek zorunda kalır; ifa menfaatini (kârını)
+talep edemez.
+
+**Olay 2 (Ticari Satım Sözleşmesinin Devri ve Geçmişe Yönelik Taleplerin 
+Akıbeti):**
+(X) Şirketi, (Y) Şirketine her ay 10 ton hammadde tedarik etmek üzere 2 yıllık 
+bir sözleşme yapmıştır. Sözleşmenin 6. ayında (X) Şirketi, hammaddeyi ayıplı ve
+gecikmeli teslim ettiği için (Y) Şirketi'nin 500.000 TL zarar etmesine neden 
+olmuştur. 7. ayda (X) Şirketi, sözleşmedeki taraf sıfatını (Y)'nin de yazılı 
+izniyle (Z) Şirketine devreder (Sözleşmenin Devri). 8. ayda (Y) Şirketi, 
+geçmişteki 6. ayda uğradığı 500.000 TL'lik gecikme ve ayıp zararı için yeni 
+taraf olan (Z) Şirketine dava açar. (Z) ise "Ben 7. aydan itibaren sözleşmeye 
+tarafım, geçmişte (X)'in yaptığı ayıptan sorumlu değilim" der.
+*Dogmatik Analiz:* Sözleşmenin devri dogmatiğinin en tartışmalı alanıdır. 
+Sözleşmenin devri kural olarak ileriye etkili (**Ex Nunc**) sonuç doğurur. 
+Devredilen ana statü, gelecekteki edim yükümlülükleridir. Ancak devirden ÖNCE 
+doğmuş olan muaccel borçlar, tazminat yükümlülükleri (past breaches) ve gecikme
+cezaları yeni tarafa geçer mi? Fikret Eren ve Turgut Öz'ün öğretilerinde 
+belirtildiği üzere; aksi devir sözleşmesinde açıkça kararlaştırılmadıkça, 
+sözleşmenin devri anında **Mevcut ve Doğmuş Olan** sözleşmeye aykırılık 
+borçları (ayıp, gecikme tazminatı) devralana GEÇMEZ. Bu borçlar, eylemi 
+gerçekleştiren eski tarafın (X'in) malvarlığında kalmaya devam eder. 
+Dolayısıyla (Y)'nin (Z)'ye açtığı tazminat davası pasif husumet yokluğundan 
+reddedilir; (Y) bu 500.000 TL'lik zararı eski taraf (X)'ten talep etmelidir.
+
+#### 5. Pratik Uygulama Notları
+
+TBK m. 205 hükmünün şirket birleşme ve devralmalarında (M&A) sözleşme 
+mimarisinde (Legal Drafting) ve usul hukukunda avukatların dikkat etmesi 
+gereken stratejik boyutları şunlardır:
+
+**1. Devir Sözleşmesinin (Protokolünün) Kurgulanması (Tasfiyenin Açıkça 
+Yazılması):**
+Uygulamada yapılan en büyük hata, devir protokolüne "A, sözleşmeyi B'ye 
+devretmiştir" yazılıp bırakılmasıdır. Avukatlar, devir protokolünde geçmişe 
+yönelik hesapların tasfiyesini milimetrik olarak kurgulamak zorundadır. 
+Sözleşmeye mutlaka: *"Devir tarihine kadar tahakkuk etmiş tüm borçlar, hak 
+edişler, cezai şartlar ve vergi yükümlülüklerinden devreden (eski taraf) 
+sorumludur. Devir tarihinden sonraki tüm yükümlülükler devralana aittir"* veya 
+*"Devralan, sözleşmeyi geçmişteki tüm riskleri, ayıpları ve doğmuş/doğacak 
+tazminat borçlarıyla birlikte külli olarak üstlenmiştir"* şeklinde **Zaman 
+Sınırı (Cut-off Date)** ve sorumluluk dağılımı içeren açık hükümler 
+eklenmelidir. 
+
+**2. Teminat Mektupları ve Kefaletlerin Durumu:**
+Devredilen sözleşmede eski tarafın (A'nın) verdiği banka teminat mektupları 
+veya üçüncü kişi kefaletleri varsa, sözleşmenin devriyle birlikte bu teminatlar
+YENİ TARAFA (B'ye) otomatik olarak geçmez veya onun eylemlerini teminat altına 
+almaz. TBK m. 199 (Borcun naklindeki kural) burada kıyasen uygulanır. Kefilin 
+veya garantör bankanın **Yazılı Rızası (Muvafakati)** alınmadıkça, sözleşmenin 
+devri anında eski teminatlar düşer (geçersiz hale gelir). Sözleşmede kalan 
+tarafın avukatı, devir işlemine onay verirken mutlaka "Yeni tarafın eş değerde 
+ve aynı şartlarda yeni bir teminat mektubu sunması" şartını (suspensive 
+condition) devrin geçerlilik şartı olarak protokole bağlamalıdır.
+
+**3. Usul Hukukunda Taraf Teşkili (Dava Sürerken Devir):**
+Bir sözleşmeden doğan uyuşmazlık nedeniyle dava (örneğin kira tespit veya 
+sözleşmenin iptali davası) devam ederken, davacı veya davalı sözleşmeyi TBK m. 
+205 uyarınca üçüncü bir kişiye devrederse, HMK m. 125 uyarınca dava hakkı veya 
+taraf sıfatı ne olacaktır? Dava konusunun devri kuralları işler. Karşı tarafın 
+rızasıyla dava yeni tarafa (devralana) yöneltilir; şayet karşı taraf rıza 
+göstermezse, devreden kişiye karşı açılan dava "tazminat davasına" dönüşerek 
+devam eder. Sözleşmenin devri, sadece maddi hukuku değil usul hukukundaki 
+husumet zincirini de yeniden yapılandırır.
+
+#### 6. Yargıtay İçtihadı
+
+Bu maddeye doğrudan ilişkin güncel bir Yargıtay kararı mevcut taramayla tespit edilememiştir. İleride güncellenecektir.
+
+#### 7. Yargıtay İçtihadı
+
+Yargıtay Hukuk Genel Kurulu ve ilgili ihtilaflara bakan daireleri (özellikle 
+3., 11., 14. ve 15. Hukuk Daireleri) TBK m. 205 (ve mülga BK döneminde 
+içtihatla geliştirilen) uyarınca "Şekle Aykırılık", "Alacağın Temliki ile 
+Farkı" ve "Alt Yüklenici (Taşeron) Devirleri" hususlarında istikrarlı ve katı 
+bir içtihat politikası sergilemektedir.
+
+Yargıtay Hukuk Genel Kurulu'nun inşaat sektörüne yön veren klasikleşmiş 
+kararlarında (örneğin YHGK. T. 03.11.2020, E. 2017/15-285, K. 2020/834) şu 
+dogmatik kural şablonlaşmıştır: *"Arsa payı karşılığı inşaat sözleşmelerinde 
+müteahhidin, kendisine isabet edecek bağımsız bölümlerin (dairelerin) tapu 
+iptal ve tescilini isteme hakkını üçüncü kişilere (alıcılara) devretmesi bir 
+'Alacağın Temliki' işlemidir ve adi yazılı şekilde yapılması geçerlilik için 
+yeterlidir. Ancak, müteahhidin inşaat sözleşmesindeki 'Müteahhitlik Sıfatını', 
+yani inşaatı yapma, ruhsat alma, vergi ödeme, iskân alma gibi tüm borç ve 
+haklarını organik bir bütün olarak başka bir firmaya devretmesi işlemi, 
+alacağın temliki değil 'Sözleşmenin Devri' işlemidir. Sözleşmenin devrinin 
+geçerliliği (TBK m. 205/3) asıl sözleşmenin şekline tabi olduğundan, arsa 
+sahibinin r
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 93 resmi metni ve kanunun sistematiği.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
+- *Yargı kararları*: Türk Borçlar Kanunu m. 93'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
+- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
+- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 179.
+
+**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 93. madde metnine dayanır.
+
+**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
+
+**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.

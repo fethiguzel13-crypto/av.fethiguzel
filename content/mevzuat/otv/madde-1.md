@@ -136,7 +136,3 @@ Genel olarak m. 1, 4760 sayılı Kanun’un omurgasıdır. Sağlıklı uygulama;
 ### Metodolojik Not
 
 Bu şerh çalışması, 4760 sayılı Özel Tüketim Vergisi Kanunu’nun 1. maddesinin (verginin konusu, listeler itibarıyla teslim–ilk iktisap–ithalat–müzayede işlemleri, bir defaya mahsus vergilendirme ilkesi, Türk Gümrük Tarife Cetveli ile liste ilişkisi ve tarife değişikliğinin ÖTV’ye etkisi dairesinde) vergi hukuku, gümrük hukuku ve anayasa hukuku boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada Türk vergi hukukunun genel kabul gören bilimsel prensipleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar “(kurmaca senaryo)” ibaresiyle işaretlenerek sunulmuştur. Emsal yargı kararı künyesi uydurulmamış; tespit edilemediği belirtilmiştir. Resmî madde metni korunmuş, yorum metni “Bizim Yorumumuz” yer tutucusunun yerine ikame edilmiştir.
-
----
-
-📊 **Özel Tüketim Vergisi Kanunu** uyarınca verginin konusunu, listeler itibarıyla işlem tiplerini ve bir defaya mahsus vergilendirme ilkesini (ÖTVK m. 1) tanzim eden bu kapsamlı şerh çalışmasıyla birlikte, ÖTV’nin kurucu sınırının analizi tamamlanmıştır.

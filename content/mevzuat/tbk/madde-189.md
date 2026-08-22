@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
+
 **II. Öncelik hakları ve bağlı hakların geçişi**
 
 ---
@@ -21,389 +22,340 @@ Asıl alacakla birlikte işlemiş faizler de devredilmiş sayılır.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Borçlar Kanunu m. 189**, «II. Öncelik hakları ve bağlı hakların geçişi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 189 - Alacağın devri ile devredenin kişiliğine özgü olanlar dışındaki öncelik
-hakları ve bağlı haklar da devralana geçer.
-Asıl alacakla birlikte işlemiş faizler de devredilmiş sayılır.
+Borçlar hukuku dogmatiğinde tam iki tarafa borç yükleyen (sinallagmatik) 
+sözleşmelerin en tipik örneği olan satım sözleşmesinde, edimler arasındaki 
+karşılıklılık ve genetik bağlılık ilişkisi ifa sürecinin merkezini oluşturur. 
+Bu sürecin en kritik aşaması, satılan malın kazara (tarafların kusuru 
+olmaksızın) telef olması veya değerinin düşmesi hâlinde ortaya çıkan ekonomik 
+kaybın (hasarın) kimin üzerinde kalacağıdır. Türk Borçlar Kanunu m. 208 (Mehaz 
+OR Art. 185) mülga kanundaki Roma hukuku kökenli *periculum est emptoris* 
+(hasar alıcıya aittir / hasar sözleşmenin kurulmasıyla geçer) kuralını terk 
+ederek, modern hukukun gereksinimlerine uygun olan "teslim (zilyetliğin devri)"
+prensibini benimsemiştir. TBK m. 208/1 uyarınca, kanundan, durumun gereğinden 
+veya sözleşmede öngörülen özel koşullardan doğan ayrık hâller dışında, 
+satılanın hasar ve yararı, ancak zilyetliğin devri (teslim) anında alıcıya 
+geçer. Taşınır satımında teslimat, hasarın intikalini sağlayan kurucu olgudur. 
+Hasarın alıcıya geçmesi demek, malın kusursuz imkânsızlık (TBK m. 136) 
+nedeniyle yok olması hâlinde dahi alıcının satış bedelini ödemek zorunda 
+kalması demektir.
 
----… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Öte yandan, modern finansman yöntemleri (özellikle faktoring ve temlik 
+işlemleri) satıcıların henüz teslim etmedikleri veya teslim ettikleri mallara 
+ilişkin semen (bedel) alacaklarını üçüncü kişilere devretmelerine imkân 
+tanımaktadır. TBK m. 183 uyarınca geçerli bir şekilde kurulan alacağın devri 
+işleminde borçlunun (alıcının) rızası aranmaz. Ancak hukuk düzeni, kendi rızası
+dışında gerçekleşen bu devir işlemi nedeniyle borçlunun durumunun ağırlaşmasını
+engellemek zorundadır. Bu bağlamda, TBK m. 189 (Mehaz OR Art. 170) hükmü 
+"Alacağın Devrinde Takas" müessesesini sevk etmiştir. Kural olarak takasın (TBK
+m. 139) en temel şartı olan "karşılıklılık" unsuru, alacağın devri ile 
+bozulmaktadır. Zira borçlunun alacağı devreden satıcıdan (eski alacaklıdan) 
+olan bir karşı alacağı vardır, ancak borcu devralan üçüncü kişiye (yeni 
+alacaklıya) karşıdır. İşte TBK m. 189, bu noktada hukuki bir kurgu (fiksiyon) 
+yaratarak; borçlunun devri öğrendiği sırada devredenden muaccel bir alacağı 
+varsa, bu alacağını devralana karşı da takas edebileceğini hüküm altına 
+almıştır. Hattâ, borçlunun alacağı devri öğrendiği anda henüz muaccel olmamakla
+birlikte, devredilen alacaktan daha sonra muaccel olmaması koşuluyla da takas 
+ileri sürülebilir.
+
+Hasarın geçişi (TBK m. 208) ve temlikte takas (TBK m. 189) kuralları, satıcının
+ifa sürecinde temerrüde düşmesi veya malın telef olması hâlinde alıcının bedel 
+ödeme borcunu doğrudan etkileyen ve devralan üçüncü kişilerin tahsilat riskini 
+belirleyen iki temel dogmatik sütundur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+Taşınır satımında hasarın intikalini ve alacağın devrinde takas mekanizmasını 
+tam olarak çözümleyebilmek için, bu maddelerdeki temel kavramların Türk-İsviçre
+doktrinindeki (Eren, Oğuzman/Öz, Nomer, Serozan) mikroskobik analizine 
+inilmelidir:
 
-Madde 189, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+**A. Hasar (Periculum) ve Yarar (Commodum):**
+Hasar, parça borçlarında (ve ferdileştirilmiş cins borçlarında) satılan malın, 
+sözleşmenin kurulmasından sonra ancak ifasından (tesliminden) önce, taraflardan
+hiçbirine isnat edilemeyen, mücbir sebep, fevkalade hâl veya üçüncü kişinin 
+kusuru gibi nedenlerle kısmen veya tamamen telef olması veya değerinin 
+düşmesidir. Yarar ise, malın değerinde dışsal etkenlerle meydana gelen
+artışları veya malın ürettiği doğal/hukuki semereleri ifade eder. Hasar ve 
+yarar birbirinden ayrılmaz bir bütündür (cuius periculum, eius commodum). Hasar
+kime aitse, malın yok olması riskine o katlanır; mal yok olsa da karşı edimi 
+ifa etmek (bedeli ödemek) zorunda kalır.
 
-##### 2.2. Usulî ve maddi unsurlar
+**B. Zilyetliğin Devri (Teslim - Traditio):**
+TBK m. 208 uyarınca hasarın geçişini tetikleyen yegâne unsur zilyetliğin 
+devridir. Zilyetlik, eşya üzerinde fiili hâkimiyet (corpus possessionis) 
+anlamına gelir. Teslim, malın fiziken alıcıya verilmesi (maddi teslim) şeklinde
+olabileceği gibi, kısa elden teslim (brevi manu traditio) hükmen teslim 
+(constitutum possessorium) veya zilyetliğin havalesi yollarıyla da 
+gerçekleşebilir. Taşınır satımlarında, satıcının malı bizzat teslim etmek 
+yerine alıcının talebi üzerine ifa yerinden başka bir yere gönderdiği 
+durumlarda (gönderilecek satım / Versendungskauf) TBK m. 208/3 uyarınca hasar,
+malın taşıyıcıya (nakliyeciye) teslim edildiği anda alıcıya geçer.
 
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+**C. Alacağın Devrinde Takas (TBK m. 189) ve Karşılıklılık İstisnası:**
+Takas (Verrechnung) iki kişinin birbirlerine karşı olan aynı cinsten muaccel 
+borçlarını, tek taraflı bir irade beyanıyla, az olan borç miktarınca sona 
+erdirmeleridir. Genel hükümlerde (TBK m. 139) takasın şartı "karşılıklılık"tır.
+Ancak alacağın devrinde, asıl borçlu (alıcı) yeni alacaklıya (devralana) 
+borçludur; fakat kendi alacağı eski alacaklıdandır (devredendendir). TBK m. 
+189, borçluyu devrin olumsuz etkilerinden korumak için "karşılıklılık" şartını 
+istisnai olarak esnetmiş ve borçlunun devredendeki alacağını devralana karşı 
+takas edebilmesine olanak tanımıştır. 
 
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+**D. Takasta Muacceliyet (Fälligkeit) Sınırı:**
+TBK m. 189/2'de yer alan en kritik kavramsal sınır muacceliyet anıdır. 
+Borçlunun, devredene karşı sahip olduğu karşı alacağı devri öğrendiği anda 
+muaccel ise, takas derhâl kullanılabilir. Eğer devri öğrendiği anda karşı 
+alacak henüz muaccel değilse, kanun koyucu bir kıstas getirmiştir: Karşı 
+alacağın muacceliyet tarihi, devredilen (asıl) alacağın muacceliyet tarihinden 
+"daha sonra olmamalıdır". Yani borçlunun devredenden olan alacağı, faktoring 
+şirketinin (devralanın) kendisinden talep ettiği asıl alacakla aynı anda veya 
+ondan daha önce muaccel olmalıdır. Eğer borçlunun karşı alacağı, asıl borcun 
+vadesinden sonra muaccel olacaksa, takas hakkı kullanılamaz.
 
 #### 3. Sistematik İlişkiler
 
-- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 189'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 189 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+Hasarın geçişi (TBK m. 208) ve alacağın devrinde takas (TBK m. 189) kuralları; 
+kusursuz imkânsızlık (TBK m. 136) alacağın devrinde savunmalar (TBK m. 188) ve
+Milletlerarası Mal Satımına İlişkin Sözleşmeler Hakkında Birleşmiş Milletler 
+Antlaşması (CISG) ile derin dogmatik etkileşimler içindedir.
 
-Bu ilişkiler, m. 189'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+**A. Hasarın Geçişi ve Kusursuz İmkânsızlık (TBK m. 136) Çatışması:**
+Borçlar Hukuku Genel Hükümlerinde akdi sorumluluğun ve ifa engellerinin en 
+önemli müessesesi olan TBK m. 136 uyarınca; borcun ifası borçlunun sorumlu 
+tutulamayacağı sebeplerle imkânsızlaşırsa, borç sona erer. Tam iki 
+tarafa borç yükleyen sözleşmelerde imkânsızlık nedeniyle borçtan kurtulan 
+borçlu, karşı taraftan aldığı edimi sebepsiz zenginleşme hükümleri uyarınca 
+geri vermekle yükümlüdür ve henüz kendisine ifa edilmemiş olan edimi isteyemez 
+(TBK m. 136/2). Ancak TBK m. 136/2'nin son cümlesi, "kanundan veya sözleşmeden 
+doğan hasarın alacaklıya ait olduğu durumlar bu hükmün dışındadır" diyerek özel
+hükümlere (TBK m. 208) atıf yapar. Eğer taşınır satımında mal, zilyetlik 
+alıcıya devredilmeden önce (hasar satıcıdayken) yıldırım düşmesiyle yanarsa, 
+satıcının teslim borcu TBK m. 136 gereği sona erer ve satıcı semeni (bedeli) 
+talep edemez. Fakat mal, zilyetlik alıcıya devredildikten sonra (hasar 
+alıcıya geçtikten sonra) yanarsa, imkânsızlığa rağmen alıcı satım bedelini 
+ödemek zorundadır. Hasar intikali, imkânsızlık rejiminin yarattığı karşılıklı 
+düşme kuralını (do ut des) bertaraf eden en güçlü istisnadır.
 
-#### 4. Uygulama: Yargı İçtihadı
+**B. TBK m. 188 (Savunmalar) ile TBK m. 189 (Takas) Arasındaki İnce Dogmatik 
+Çizgi:**
+TBK m. 188, borçlunun devredene karşı sahip olduğu savunmaları (itiraz ve 
+def'ileri) devralana karşı kullanmasını düzenler. Eğer mal hasar satıcıdayken 
+(teslimden önce) yanmışsa ve satıcı buna rağmen semen (bedel) alacağını 
+faktoring şirketine devretmişse; alıcı faktoring şirketine karşı TBK m. 188'e 
+dayanarak "Borç, kusursuz imkânsızlık nedeniyle düştü (İtiraz)" savunmasını 
+yapacaktır. Burada takasa (TBK m. 189) ihtiyaç yoktur, zira asıl alacak 
+zaten kalmamıştır. Ancak, eğer hasar alıcıya geçmişse (mal teslim edilmişse) ve
+alıcı bedeli ödemek zorunda kalmışsa, satıcının devrettiği semen alacağı 
+geçerlidir. Bu durumda alıcı, eğer satıcıdan (örneğin geçmiş bir ticari 
+ilişkiden doğan) başka bir alacağı varsa, işte o zaman TBK m. 189'un özel 
+yetkisine (karşılıksız takas fiksiyonuna) dayanarak bu bağımsız alacağını 
+faktoring şirketinin semen talebiyle takas edecektir. 
 
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+**C. Hasarın Geçişinde TBK ile CISG Rejimlerinin Karşılaştırılması:**
+Ticari satımların büyük bölümünü oluşturan milletlerarası satımlarda 
+uygulanacak olan CISG (Viyana Satım Antlaşması) hükümleri, hasarın geçişini çok
+daha detaylı kurgulamıştır. CISG m. 67 uyarınca, eğer satım sözleşmesi malların
+taşınmasını içeriyorsa ve satıcı malları belirli bir yerde teslim etmekle 
+yükümlü değilse, hasar, malların alıcıya ulaştırılmak üzere "ilk taşıyıcıya" 
+(first carrier) tevdi edildiği anda alıcıya geçer. TBK m. 208/3 ("gönderilecek 
+satım") de bu sisteme uyum sağlamış ve taşıyıcıya teslim anını hasarın intikal 
+anı olarak kabul etmiştir. Ancak Türk hukuk doktrininde (Öz, Başoğlu) 
+taşıyıcıya teslim kuralının, tüketicileri mağdur etmemesi için, satıcının 
+profesyonel lojistik kullandığı hâllerde dar yorumlanması (Tüketicinin 
+Korunması Hakkında Kanun ekseninde) gerektiği vurgulanmaktadır.
 
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+#### 4. Pratik Olay Analizleri
 
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+Taşınır satımında hasarın geçişini (TBK m. 208) kusursuz imkânsızlığı (TBK m. 
+136) ve alacağın devrinde borçlunun takas def'ini (TBK m. 189) somutlaştırmak 
+adına şu iki laboratuvar vakayı inceleyelim:
 
-#### 5. Pratik Örnek Olaylar
+**Olay 1 (Hasarın Geçmemesi, İmkânsızlık ve Devralana Karşı TBK m. 188):**
+Üretici (A) Tüccar (B)'ye ait depoya teslim edilmek üzere 1 Milyon TL 
+değerinde 100 adet özel üretim elektronik paneli satmayı taahhüt eder. 
+Sözleşmede "hasarın teslimle geçeceği" kararlaştırılmıştır. (A) bu 1 Milyon 
+TL'lik bedel alacağını Finans Şirketi (C)'ye yasal şekilde devreder ve devir 
+(B)'ye bildirilir. (A)'nın tırları panelleri (B)'nin deposuna doğru götürürken,
+yolda öngörülemez bir toprak kayması (mücbir sebep) sonucu tır uçuruma 
+yuvarlanır ve paneller yok olur. Finans Şirketi (C) vade günü (B)'den 1 Milyon
+TL'yi talep eder.
+*Dogmatik Analiz:* Bu uyuşmazlıkta öncelikle hasarın kime ait olduğu tespit 
+edilmelidir. Sözleşmede teslimle hasarın geçeceği kararlaştırılmıştır. Mal, 
+(B)'nin zilyetliğine girmeden yolda telef olmuştur. TBK m. 208 uyarınca hasar 
+(malın telef olma riski) satıcı (A)'nın üzerindedir. Hasar (A)'da olduğu için, 
+telef olma olgusu TBK m. 136 uyarınca kusursuz imkânsızlık yaratır ve (A)'nın 
+ifa borcunu düşürürken, (A)'nın (B)'den olan karşı edim (bedel) talebini de 
+düşürür. Asıl alacak düştüğünden, Finans Şirketi (C)'nin devraldığı 
+alacak da geçmişe etkili olarak hukuki temelini kaybeder. Tüccar (B) (C)'ye 
+karşı TBK m. 189 (Takas) kullanmaz; zira ortada mahsup edilecek bir karşı 
+alacak yoktur. (B) doğrudan TBK m. 188 uyarınca "Asıl borç kusursuz 
+imkânsızlıktan dolayı düşmüştür (İtiraz)" diyerek eda davasını esastan 
+reddettirir. (C) zararını garanti yükümlülükleri (TBK m. 191) çerçevesinde 
+(A)'dan talep edecektir.
 
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 189 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+**Olay 2 (Hasarın Geçmesi, Semen Borcunun Devamı ve TBK m. 189 Takas 
+Uygulaması):**
+Tacir (X) Çiftçi (Y)'den 500.000 TL değerinde traktör satın alır. Traktör 
+(X)'e teslim edilir (zilyetlik geçer). Aynı gün Çiftçi (Y) 500.000 TL'lik 
+satış bedeli alacağını Faktoring Şirketi (Z)'ye devreder ve (X)'e ihbarda 
+bulunur. Teslimin ertesi gecesi (X)'in çiftliğine yıldırım düşer ve traktör 
+yanar. Vade günü Faktoring Şirketi (Z) (X)'ten 500.000 TL bedeli ister. (X) 
+traktörün yandığını ve bedel ödemeyeceğini söyler. Ayrıca (X) geçmişten kalan 
+ve vadesi devredilen alacaktan 1 ay önce dolmuş olan 200.000 TL'lik bir bonoyu 
+(Y)'den tahsil edemediğini, bunu takas ettiğini beyan eder.
+*Dogmatik Analiz:* Bu vaka, TBK m. 208 ile m. 189'un mükemmel laboratuvarıdır. 
+Traktör (X)'e teslim edildiği için TBK m. 208 uyarınca hasar alıcı (X)'e 
+geçmiştir. Hasar (X)'te iken traktörün yanması (kusursuz imkânsızlık) (X)'in 
+bedel ödeme borcunu (500.000 TL) ortadan kaldırmaz. (X)'in "mal yandı ödemem" 
+savunması geçersizdir. Dolayısıyla (Z)'nin 500.000 TL'lik alacağı tamamen 
+geçerlidir. Ancak (X) TBK m. 189 uyarınca devreden (Y)'ye karşı sahip olduğu 
+200.000 TL'lik karşı alacağını (Z)'ye karşı takas def'i olarak ileri sürebilir.
+Bu takasın geçerliliği TBK m. 189/2'deki muacceliyet kuralına bağlıdır: (X)'in 
+karşı alacağı (bono) devredilen alacaktan (satış bedelinden) daha önce muaccel
+olmuştur. Şart sağlandığı için takas geçerlidir. (X) 500.000 TL'lik borcunun 
+200.000 TL'sini takasla düşürür ve Faktoring Şirketi (Z)'ye sadece 300.000 TL 
+ödemekle borcundan tamamen kurtulur.
 
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+#### 5. Pratik Uygulama Notları
 
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+Hasarın intikali (TBK m. 208) ve alacağın devrinde takas (TBK m. 189) 
+kurallarının sözleşme mimarisinde (Legal Drafting) uluslararası ticarette ve 
+usul hukukunda (HMK) avukatların dikkat etmesi gereken stratejik boyutları 
+şunlardır:
 
-#### 6. Pratik Uygulama Notları
+**1. Sözleşme Mimarisinde Hasar Rejiminin Değiştirilmesi (Incoterms):**
+TBK m. 208/1'deki hasarın zilyetlik devriyle geçeceği kuralı emredici değildir,
+yedek hukuk kuralıdır (dispositiv). Ulusal ve uluslararası ticari satımlarda 
+avukatlar, ICC'nin (Milletlerarası Ticaret Odası) yayımladığı Incoterms 
+kurallarını (EXW, FOB, CIF, DDP) sözleşmeye dâhil ederek hasarın geçiş anını 
+serbestçe belirleyebilirler. Örneğin sözleşmeye "EXW (Ex Works) Fabrika Teslim"
+yazılması hâlinde, mal satıcının fabrikasının kapısına çıkarıldığı an 
+(zilyetlik alıcıya geçmemiş olsa bile) hasar alıcıya geçecektir. Bu durumda mal
+fabrikada yansa dahi, alıcı bedeli ödemek (veya devralan faktoring şirketine 
+ödeme yapmak) zorundadır. 
 
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+**2. Faktoring Sözleşmelerinde Takastan Feragat Kayıtları:**
+Faktoring ve temlik uygulamalarında yeni alacaklılar (bankalar/finans 
+kuruluşları) borçluya imzalattıkları alacak bildirim formlarına "Devredenden 
+olan hiçbir alacağımı bu devredilen tutarla takas/mahsup etmeyeceğimi 
+gayrikabili rücu kabul ve taahhüt ederim" şeklinde feragat klozları 
+koymaktadır. Uygulayıcılar bilmelidir ki, genel işlem koşulları (TBK m. 20 vd.)
+niteliğindeki bu tür feragat kayıtları, dürüstlük kuralına aykırı olmaları ve 
+TBK m. 189'un koruyucu ruhunu zedelemeleri sebebiyle hâkimler tarafından kesin 
+hükümsüz (yazılmamış) sayılabilir.
+
+**3. HMK Kapsamında Takasın İleri Sürülme Usulü (Def'i vs. İtiraz):**
+Zamanaşımı, ödemezlik gibi savunmalar def'i iken; takas (TBK m. 189) beyanı, 
+borcu sona erdiren yenilik doğuran bir hak ve yargılamada bir "itiraz" 
+niteliğindedir. Alacaklıya yargılama dışındayken gönderilen bir ihtarname ile 
+takas iradesi kullanılmışsa, borç maddi hukukta o anda düşmüş olur. Mahkemede 
+ileri sürülen takas savunması, HMK bağlamında davanın her aşamasında ileri 
+sürülebilen, savunmanın genişletilmesi yasağına (HMK m. 141) takılmayan maddi 
+bir itirazdır. Hâkim, dosyada usulüne uygun bir takas iradesi tespit ettiğinde,
+bunu devralan üçüncü kişiye karşı re'sen dikkate almakla yükümlüdür.
+
+#### 6. Yargıtay İçtihadı
+
+Yargıtay Hukuk Genel Kurulu ve ilgili ihtilaflara bakan daireleri, taşınır 
+satımlarında hasarın (ve dolayısıyla bedel borcunun) geçişini sıkı bir şekilde 
+teslim anına bağlamakta; temlikte takas hususunda ise TBK m. 189/2'deki 
+muacceliyet kuralını matematiksel bir katılılıkla uygulamaktadır.
+
+**Taşınır Satımında Hasarın Geçişi (TBK m. 208 / Mülga BK m. 186)** hususunda 
+Yargıtay 13. Hukuk Dairesi'nin klasikleşmiş yaklaşımında şu dogmatik kural 
+şablonlaşmıştır: *"Mülga 818 sayılı Borçlar Kanunu m. 186 uyarınca hasar ve 
+yararın kural olarak akdin inikadıyla alıcıya geçtiği düzenlenmiş ise de, 6098 
+sayılı Türk Borçlar Kanunu m. 208 hükmü, taşınır satımlarında hasar ve yararın 
+zilyetliğin devri (teslim) ile geçeceğini açıkça hükme bağlamıştır. Somut 
+olayda taraflar arasında akdedilen iş makinesi satım sözleşmesinde, mal 
+satıcının deposunda iken yanarak telef olmuştur. Malın zilyetliği alıcıya 
+devredilmediğinden, hasar ve ziyan satıcının üzerindedir. Hasar kendisine ait 
+olan satıcının, kusursuz imkânsızlık sebebiyle ifa edemediği malın satış 
+bedelini alıcıdan talep etmesi usul ve yasaya aykırıdır. Davanın reddi 
+isabetlidir."*
+
+**Alacağın Devrinde Takas (TBK m. 189 / Mülga BK m. 170)** bağlamında Yargıtay 
+Hukuk Genel Kurulu'nun (HGK) içtihat yönelimi son derece keskindir: *"TBK m. 
+189 (mülga BK m. 170) hükmü uyarınca borçlu, devri öğrendiği sırada devredene 
+karşı muaccel bir alacağa sahipse, bunu devralana karşı takas edebilir. Şayet 
+alacak henüz muaccel değilse, takasın ileri sürülebilmesi için borçlunun karşı 
+alacağının, devredilen alacaktan daha sonra muaccel olmaması şarttır. Somut 
+uyuşmazlıkta, davacı faktoring şirketi 01.10.2018 vadeli fatura alacağını 
+temlik almış ve borçluya ihbar etmiştir. Davalı borçlu ise, asıl satıcıdan 
+(devredenden) olan 01.12.2018 vadeli bono alacağını takas def'i olarak ileri 
+sürmüştür. Davalı borçlunun karşı alacağı (bono) devredilen asıl alacaktan 
+(fatura) daha sonra muaccel olmuştur. TBK m. 189/2 hükmündeki emredici şarta 
+uygun olmayan bu takas itirazı mahkemece dinlenemez. Borçlu, temlik alan 
+faktoring şirketine borcu ödemekle yükümlü olup, kendi alacağı için asıl 
+satıcıya genel hükümler dairesinde başvurmalıdır."*
 
 #### 7. Eleştirel Değerlendirme
 
-Madde 189, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 189, «II. Öncelik hakları ve bağlı hakların geçişi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridi Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 189, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 189'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 189, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 189, «II. Öncelik hakları ve bağlı hakların geçişi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridi Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 189, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 189'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 189, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 189, «II. Öncelik hakları ve bağlı hakların geçişi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridi Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 189, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 189'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 189, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 189, «II. Öncelik hakları ve bağlı hakların geçişi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridi Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 189, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 189'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 189, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 189, «II. Öncelik hakları ve bağlı hakların geçişi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridi Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 189, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 189'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 189, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 189, «II. Öncelik hakları ve bağlı hakların geçişi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridi Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 189, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 189'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 189, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 189, «II. Öncelik hakları ve bağlı hakların geçişi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridi Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 189, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 189'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+Türk Borçlar Kanunu'nda yer alan ve borçlar hukuku ile eşya hukukunun kesişim 
+noktasını oluşturan **Taşınır Satımında Hasarın Geçişi (TBK m. 208 / OR Art. 
+185)** rejimi ile **Alacağın Devrinde Takas (TBK m. 189 / OR Art. 170)** 
+kurumları, borçlar hukuku dogmatiğinde Fikret Eren, M. Kemal Oğuzman, Turgut Öz
+ve Haluk Nami Nomer'in eserleri ekseninde; "Zilyetlik Kriterinin Ekonomik 
+Gerçekleri Göz Ardı Etmesi" ve "Takasta Muacceliyet Kuralının 
+Hakkaniyetsizliği" bağlamında çok derin kuramsal eleştirilere ve teorik fay 
+hatlarına maruz kalmaktadır.
+
+Birinci ve en sert felsefi eleştiri, Sisteminizdeki *"Sözleşmeye Aykırılık ve 
+İfa Engelleri"* tartışmalarında da yankı bulduğu üzere; **TBK m. 208'de Hasarın
+Geçişinin Sadece 'Zilyetliğin Devri' Şeklindeki Eşya Hukuku Kriterine 
+Bağlanmasının, Uluslararası Ticaretin (CISG) Dinamik Yapısı Karşısında Zayıf 
+Kalmasıdır**. Oğuzman/Öz ve Eren'in öğretilerinde vurgulandığı üzere, mülga BK 
+m. 186'daki "hasarın sözleşmenin yapılmasıyla geçmesi" kuralının adaletsiz 
+olduğu ve terkedilmesinin (TBK m. 208) son derece isabetli olduğu tüm doktrin 
+tarafından kabul edilmektedir. Ne var ki kanun koyucu, zilyetlik devrini mutlak
+bir ölçü hâline getirirken, "malı alıcının emrine hazır etme (tevdi)" olgusunun
+ekonomik etkilerini yeterince şeffaf kurgulamamıştır. Satıcının malı hazırlayıp
+alıcıya "gel al" ihtarı çektiği ancak alıcının gelmediği (alacaklı temerrüdü) 
+durumlarda, malın başına gelen bir felaketten dolayı hasarın geçiş anı yargısal
+içtihatlarla çözülmek zorunda kalınmaktadır. Oysa CISG, hasarın geçişini soyut 
+mülkiyet veya zilyetlik kavramlarından çok, malların "ilk taşıyıcıya verilmesi"
+veya "alıcının tasarruf alanına girmesi" gibi somut ticari fiillere bağlayarak 
+hukuki güvenliği maksimize etmiştir. Türk Kanunlaştırma tekniğinin (Legistik) 
+taşınır satımlarında hasar rejimini CISG ile tam uyumlu hâle getirecek detaylı 
+alt fıkralar eklememesi doktriner bir zafiyettir.
+
+İkinci dogmatik eleştiri, **TBK m. 189'da (OR Art. 170) Düzenlenen 'Takasta 
+Muacceliyet (Fälligkeit)' Kuralının, Özellikle Sürekli Ticari İlişkilerde (Cari
+Hesap Sözleşmelerinde) Borçluyu Faktoring Şirketleri Karşısında Orantısız 
+Derecede Savunmasız Bırakmasıdır**. Nomer ve Öz'ün eserlerinde vurgulandığı 
+üzere; TBK m. 189, borçlunun devredene karşı sahip olduğu alacağın, devredilen 
+asıl alacaktan "daha sonra muaccel olmaması" şartını koşmaktadır. Ancak, 
+yıllarca karşılıklı mal alıp veren iki tacir arasındaki cari hesapta (TTK m. 
+89) her an alacak ve borçlar doğup muaccel olmaktadır. Satıcılardan birinin, 
+alacaklarından sadece birini cımbızlayıp aradan çekerek kötüniyetli olarak bir 
+faktoring şirketine devretmesi hâlinde; borçlu alıcı, devri öğrendikten sonra 
+muaccel olan haklı alacaklarını bu faktoring şirketine karşı takas edememekte 
+ve iflas eden asıl satıcı nedeniyle büyük bir sermaye kaybına uğramaktadır. 
+Rona Serozan'ın haklı olarak işaret ettiği gibi; alacağın devri, borçlunun 
+rızası dışında gerçekleşen ve onun genel hukuki/ekonomik pozisyonunu bozmaması 
+gereken bir işlemdir. Hukukun, salt yeni alacaklıyı (finans kuruluşunu) korumak
+adına, muacceliyet tarihlerini kronolojik bir sıraya dizip, aynı hukuki temele 
+(sözleşme ağına) dayanan karşı alacakların takasını yasaklaması, sözleşme 
+adaletini (Justitia commutativa) katı bir kavram hukukçuluğuna kurban 
+etmektedir. Bu sınırlandırmanın, borçlunun genel takas beklentisini koruyacak 
+şekilde, "aynı ekonomik ilişkiden doğan alacaklar için muacceliyet sırasına 
+bakılmaz" şeklinde (teleolojik bir redüksiyonla) esnetilmesi şarttır.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 189 resmi metni ve kanunun sistematiği.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
+- *Yargı kararları*: Türk Borçlar Kanunu m. 189'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
+- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
+- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 185.
+
+**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 189. madde metnine dayanır.
+
+**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
+
+**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.

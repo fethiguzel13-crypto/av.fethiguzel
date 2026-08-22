@@ -137,4 +137,4 @@ Bu şerh çalışması, 4760 sayılı Özel Tüketim Vergisi Kanunu’nun 2. mad
 
 ---
 
-📊 **Özel Tüketim Vergisi Kanunu** m. 2 tanımlar ve teslim rejimi şerhi tamamlanmıştır.
+ **Özel Tüketim Vergisi Kanunu** m. 2 tanımlar ve teslim rejimi şerhi tamamlanmıştır.

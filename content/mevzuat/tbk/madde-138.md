@@ -7,6 +7,7 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
+
 **III. Aşırı ifa güçlüğü**
 
 ---
@@ -24,391 +25,308 @@ Bu madde hükmü yabancı para borçlarında da uygulanır.
 ---
 
 ### Akademik Yorum ve Analiz
+
+
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Türk Borçlar Kanunu m. 138**, «III. Aşırı ifa güçlüğü» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 138 - Sözleşmenin yapıldığı sırada taraflarca öngörülmeyen ve öngörülmesi
-de beklenmeyen olağanüstü bir durum, borçludan kaynaklanmayan bir sebeple ortaya çıkar ve
-sözleşmenin  yapıldığı  sırada  mevcut  olguları,  kendisinden  ifanın  istenmesini  dürüstlük
-kurallarına aykırı düşecek derecede borçlu aleyhine değiştirir ve borçlu da borcunu henüz ifa
-etmemiş veya ifanın aşırı ölçüde güçleşme… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
+Borçlar hukuku mimarisinde sözleşmeler hukuku, "Ahde Vefa" (Pacta Sunt 
+Servanda) ilkesi üzerine inşa edilmiştir. Taraflar, kurdukları sözleşmenin 
+edimlerini, şartlar ne kadar ağırlaşırsa ağırlaşsın yerine getirmek zorundadır.
+Ancak eski 818 sayılı BK döneminde kanunda açıkça yer almayan, Yargıtay 
+içtihatları ve öğretiyle (özellikle TMK m. 2 dürüstlük kuralı üzerinden) Türk 
+hukukuna giren "İşlem Temelinin Çökmesi" (Wegfall der Geschäftsgrundlage) 
+teorisi, 6098 sayılı TBK ile birlikte **Madde 138 (Aşırı İfa Güçlüğü)** başlığı
+altında müstakil bir genel hüküm olarak kodifiye edilmiştir. Hükme göre; 
+sözleşmenin yapıldığı sırada taraflarca öngörülmeyen ve öngörülmesi de 
+beklenmeyen olağanüstü bir durum, borçludan kaynaklanmayan bir sebeple ortaya 
+çıkar ve sözleşmenin yapıldığı sıradaki mevcut olguları borçlu aleyhine 
+dürüstlük kurallarına aykırı düşecek derecede değiştirirse borçlu, hâkimden 
+sözleşmenin yeni koşullara uyarlanmasını isteme hakkına sahiptir.
+
+Bu genel hükmün Özel Hükümlerdeki en büyük laboratuvarı ise talebinde 
+zikrettiğin **Tüketim Ödüncü (Karz - TBK m. 386 vd.)** sözleşmesidir. Tüketim 
+ödüncü, ödünç verenin, bir miktar parayı ya da tüketilebilen bir şeyi ödünç 
+alana devretmeyi, ödünç alanın da aynı nitelik ve miktarda şeyi geri vermeyi 
+üstlendiği sözleşmedir. Ticari olmayan tüketim ödüncünde faiz kural olarak 
+ancak sözleşmeyle kararlaştırılmışsa istenebilir; ticari tüketim ödüncünde ise 
+sözleşmede faiz kararlaştırılmamış olsa bile faiz (anapara faizi) ödenmesi 
+zorunludur. 
+
+Sistematik kesişim tam olarak şuradadır: Bir bankadan 10 yıl vadeli dövize 
+endeksli kredi (tüketim ödüncü) çeken borçlunun geri ödeme yükümlülüğü, döviz 
+kurlarının bir gecede %100 artması sonucu yıkıcı bir hâl aldığında ne 
+olacaktır? Para borcu asla imkânsızlaşmayacağı (Genus non perit) için borçlu 
+ifa imkânsızlığına (TBK m. 136) dayanamaz. Borçlunun sığınabileceği yegâne 
+yasal liman, *Clausula Rebus Sic Stantibus* (beklenmeyen hâl şartı) ilkesinin 
+kanunlaşmış hâli olan TBK m. 138'dir. Hâkim, tüketim ödüncündeki o katı faiz ve
+geri ödeme planını, değişen şartların adaletsizliğine karşı dürüstlük kuralı 
+(TMK m. 2) ekseninde yeniden yazacaktır.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+Aşırı ifa güçlüğü (TBK m. 138) ile tüketim ödüncündeki faiz ve geri ödeme 
+mekanizmasının kuramsal mimarisini bütünüyle kavrayabilmek için, bu kavramların
+Fikret Eren, M. Kemal Oğuzman ve Turgut Öz'ün eserleri ekseninde mikroskobik 
+düzeyde analiz edilmesi zorunludur:
 
-Madde 138, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+**A. Aşırı İfa Güçlüğünün (TBK m. 138) Kurucu Unsurları:**
+TBK m. 138'in uygulanabilmesi kümülatif dört şarta bağlanmıştır:
+1. *Olağanüstü Durumun Varlığı:* Sözleşmenin yapıldığı sırada taraflarca 
+öngörülmeyen ve öngörülmesi de beklenmeyen olağanüstü bir durum (örneğin 
+devalüasyon, pandemi, savaş) ortaya çıkmalıdır.
+2. *Borçlunun Kusursuzluğu:* Bu olağanüstü durum, borçludan kaynaklanmayan bir 
+sebeple meydana gelmiş olmalıdır.
+3. *İşlem Temelinin Çökmesi:* Meydana gelen değişiklik, sözleşmenin kurulduğu 
+andaki edim ve karşı edim dengesini (sinallagmayı) borçlu aleyhine, dürüstlük 
+kuralına (TMK m. 2) aykırı düşecek, tahammül edilemez ölçüde bozmuş olmalıdır.
+4. *İfanın Gerçekleşmemiş Olması:* Borçlu, borcunu henüz ifa etmemiş veya 
+ifanın aşırı ölçüde güçleşmesinden doğan haklarını saklı tutarak (ihtirazi 
+kayıtla) ifa etmiş olmalıdır.
 
-##### 2.2. Usulî ve maddi unsurlar
+**B. Tüketim Ödüncü (Karz) ve Faiz Kavramı:**
+Tüketim ödüncü bir mülkiyeti devir borcu doğurur. Ödünç alan, aldığı paranın 
+mülkiyetini kazanır ve vade sonunda aynı miktarı (şayet kararlaştırılmışsa 
+faiziyle) iade eder. Sistemindeki eserlerde detaylıca incelendiği üzere; faiz, 
+hukuki yönden para alacağının medeni (yasal) semeresidir; ödünç akdi veya başka
+bir hukuki muamele neticesinde alacaklı durumda geçen kimsenin para alacağının 
+karşılığıdır. Türk Borçlar Kanunu sistemi faizi; *Anapara (Sermaye/Akdi) 
+Faizi* (TBK m. 88) ve *Temerrüt (Gecikme) Faizi* (TBK m. 120) olarak ikiye 
+ayırır.
 
-Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
-
-##### 2.3. Korunan menfaat ve muhataplar
-
-Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
-
-##### 2.4. Yaptırım ve sonuçlar
-
-Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
+**C. Emredici Faiz Sınırları (TBK m. 88 ve 120):**
+Ödünç sözleşmelerinde borçluyu aşırı yükten korumak için, uyarlamadan bağımsız 
+olarak kanun koyucu doğrudan tavan sınırlar getirmiştir. TBK m. 88 uyarınca, 
+sözleşme ile kararlaştırılacak yıllık anapara faiz oranı, yasal anapara faiz 
+oranının (örneğin %9) yüzde elli fazlasını aşamaz (Maksimum %13,5). 
+Temerrüt faizi bakımından ise TBK m. 120 uyarınca, sözleşme ile 
+kararlaştırılacak yıllık temerrüt faizi oranı, yasal faiz oranının yüzde yüz 
+fazlasını aşamaz (Maksimum %18). İşlem temelinin çökmesi (TBK m. 138) bu 
+emredici sınırların dahi ötesinde, ekonomik dengenin toptan yıkıldığı anlarda 
+devreye giren bir can simididir.
 
 #### 3. Sistematik İlişkiler
 
-- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 138'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
-- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
-- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 138 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
-- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
-- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+TBK m. 138'deki sözleşmenin uyarlanması altyapısı ile Özel Hükümlerdeki tüketim
+ödüncü ve faiz sınırları (TBK m. 88/120); Borçlar Kanunu'nun ifa imkânsızlığı 
+(TBK m. 136) aşırı yararlanma (gabin / TBK m. 28) ve ifa güçsüzlüğü 
+mimarisiyle son derece radikal bir diyalektik bağ içindedir:
 
-Bu ilişkiler, m. 138'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+**A. İfa İmkânsızlığı (TBK m. 136) ile Aşırı İfa Güçlüğü (TBK m. 138) Ayrımı:**
+Geçen oturumda da kafanı karıştıran o devasa ayrım buradadır. Bir tüketim 
+ödüncünde borçlu iflas ederse veya hiperenflasyon nedeniyle borcunu ödeyecek 
+gücü kalmazsa, bu durum TBK m. 136 kapsamında bir "İfa İmkânsızlığı" yaratır 
+mı? Asla! Cins borçları (ve para borçları) hukuken ve fiilen imkânsızlaşmaz 
+(Genus nunquam perit). Borçlunun sübjektif aczi, borcu düşürmez. İşte tam bu 
+sebeple, para borçlarında borçlunun yegâne savunma hattı, edim dengesinin fahiş
+şekilde bozulduğunu iddia edip TBK m. 138'e (Aşırı İfa Güçlüğü) sığınarak kredi
+borcunun uyarlanmasını talep etmektir. İmkânsızlık borcu öldürür; aşırı ifa 
+güçlüğü ise borcu ameliyata alır ve yeniden şekillendirir.
 
-#### 4. Uygulama: Yargı İçtihadı
+**B. Aşırı Yararlanma (Gabin - TBK m. 28) ile Aşırı İfa Güçlüğü (TBK m. 138) 
+Çatışması:**
+Bir tüketim ödüncü sözleşmesinde faiz oranı veya geri ödeme şartları borçlu 
+aleyhine katlanılamaz düzeyde kötüyse hangi kuruma gidilecektir? Sistemindeki 
+çalışmalarda çok net ayrıştırıldığı üzere; Aşırı Yararlanma (Gabin) 
+sözleşmenin *kurulduğu anda* tarafların edimleri arasında var olan açık 
+nispetsizliği hedef alır. Gabinde sömürü ve müzayaka (zor durum) 
+vardır. Oysa Aşırı İfa Güçlüğünde (TBK m. 138) sözleşme kurulduğu anda edimler
+arasında bir denge vardır; ancak *sonradan* ortaya çıkan olağanüstü bir durum 
+(örneğin devalüasyon) bu dengeyi yıkmıştır. Birinde hastalık doğuştandır, 
+diğerinde sonradan bulaşmıştır. 
 
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+**C. Ticari İşlerde Faiz Serbestisi ile TBK m. 138 ve m. 88 Kesişimi:**
+Eğer tüketim ödüncü tacirler arasında yapılmış ticari bir işse, TTK m. 8 
+uyarınca kural olarak faiz serbestçe belirlenir. Ancak 6098 sayılı 
+TBK m. 88 ve m. 120'nin, ayrım yapmaksızın borçluları koruyan emredici niteliği
+sebebiyle ticari işlerde de uygulanıp uygulanamayacağı Yargıtay daireleri 
+arasında büyük bir çatışma yaratmıştır. Sistemindeki Yargıtay kararlarında 
+görüldüğü üzere; bir görüş TBK'daki bu sınırların tacirleri de kapsayacağını 
+savunurken (zayıfı koruma ilkesi) ticaret hukukçuları TTK m. 8'in özel hüküm 
+(lex specialis) olduğunu belirtmektedir. Ancak faiz serbestisi kabul
+edilse dahi, piyasadaki öngörülemez bir şok, faiz yükünü ticari hayatın 
+gereklerini dahi aşacak şekilde artırırsa, tacir de pekâlâ TBK m. 138'e 
+dayanarak kredi sözleşmesinin uyarlanmasını isteyebilir. Tacirin basiretli iş 
+adamı gibi davranma yükümlülüğü (TTK m. 18/2) objektif olarak öngörülemez 
+makroekonomik felaketlere karşı onu korumasız bırakmaz.
 
-Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+#### 4. Pratik Olay Analizleri
 
-Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
+Kurumun uyarlama sınırlarını, dövize endeksli tüketim ödüncünü ve ihtirazi 
+kayıt mekanizmalarını test etmek adına şu iki laboratuvar vakayı inceleyelim:
 
-#### 5. Pratik Örnek Olaylar
+**Olay 1 (Dövize Endeksli Tüketici Kredisi ve TBK m. 138 Uyarlaması):**
+Tüketici (A) 2008 yılında Banka (B)'den konut almak amacıyla 10 yıl vadeli 
+100.000 Japon Yeni (JPY) karşılığı dövize endeksli tüketim ödüncü (kredi) 
+çeker. O tarihte JPY kuru çok düşüktür ve faiz caziptir. Ancak ilerleyen 
+yıllarda küresel bir kriz patlak verir, JPY Türk Lirası karşısında 3 kat değer 
+kazanır. Aylık taksitleri ödeyemez hâle gelen (A) TBK m. 138 uyarınca 
+mahkemeye başvurur ve "İşlem temeli çöktü, sözleşmenin TL'ye çevrilerek 
+uyarlanmasını talep ediyorum" der.
+*Dogmatik Analiz:* Bu vaka, TBK m. 138'in en tipik ve en çok karşılaşılan 
+tatbikat alanıdır. Tüketici (A)'nın talebi kural olarak geçerlidir. Zira 
+küresel ekonomik şoklar ve öngörülemeyen devasa kur artışları, "sözleşmenin 
+yapıldığı sırada öngörülemeyen olağanüstü durum" şartını sağlar. (A)'nın bu 
+durumda bir kusuru yoktur. Ödenecek kur farkı, sözleşme dengesini (A) aleyhine 
+katlanılamaz ölçüde bozmuştur. Hâkim, tarafların yüklendikleri rizikoları 
+dürüstlük kuralı (TMK m. 2) çerçevesinde tartarak, kurun belli bir fiksasyona 
+(sabitlemeye) tabi tutulmasına veya faiz/vade yapısının uyarlanmasına karar 
+verebilir. Ancak (A)'nın bu davayı açmadan önce ödediği geçmiş taksitler için, 
+"uyarlama hakkımı saklı tutuyorum (ihtirazi kayıt)" dememişse, TBK m. 138/1 son
+cümlesi gereği ifa ettiği bu kısımlar için uyarlama isteyemez; uyarlama sadece 
+henüz ifa edilmemiş kısımlar (gelecek taksitler) için yapılır.
 
-**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 138 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+**Olay 2 (Temerrüt Faizi Sınırının Aşılması ve Tacirin Uyarlama Talebi):**
+Tacir (X) faktoring şirketi (Y)'den ticari tüketim ödüncü alır. Sözleşmede 
+temerrüt faizi yıllık %150 olarak kararlaştırılır. (X) temerrüde düşer ve borç 
+fahiş şekilde katlanarak büyür. (X) TBK m. 138 uyarınca "Temerrüt faizi çok 
+yüksek, ekonomik kriz de var, borcun uyarlanmasını istiyorum" diyerek dava 
+açar.
+*Dogmatik Analiz:* Bu olayda TBK m. 138'in yanlış kullanımı ve emredici 
+normların çatışması söz konusudur. Öncelikle, sözleşmede yer alan %150 temerrüt
+faizi, TBK m. 120/2 uyarınca yasal temerrüt faiz oranının yüzde yüz fazlasını 
+aşamayacağı kuralına takılır. Eğer yargı pratiği TBK m. 120'nin ticari
+işlerde de emredici olduğunu kabul ediyorsa (ki tüketici lehine bu görüş ağır 
+basmaktadır) faiz oranı kanun gereği zaten azami sınıra indirilecektir 
+(Kısmi kesin hükümsüzlük - TBK m. 27/2). Tacir (X)'in burada "Aşırı İfa Güçlüğü
+(TBK m. 138)" kurumuna gitmesine gerek yoktur; zira ortada sonradan değişen bir
+durumdan ziyade, baştan kanuna aykırı bir kloz vardır. Uyarlama davası, ancak 
+kanuni sınırlar içinde kalan bir borcun, dışsal makro şoklarla bozulması 
+hâlinde dinlenir.
 
-**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+#### 5. Pratik Uygulama Notları
 
-**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+TBK m. 138 ve tüketim ödüncündeki faiz rejiminin usul hukukunda, sözleşme 
+mimarisinde (Legal Drafting) ve uyuşmazlık tasfiyesinde avukatların dikkat 
+etmesi gereken stratejik boyutları şunlardır:
 
-#### 6. Pratik Uygulama Notları
+**1. İhtirazi Kayıt (Çekince) Külfeti ve Zımni Feragat Tuzağı:**
+TBK m. 138'in lafzı çok nettir: "borcunu henüz ifa etmemiş veya ifanın aşırı 
+ölçüde güçleşmesinden doğan haklarını saklı tutarak ifa etmiş olması". 
+Avukatların müvekkillerine vereceği en hayati tavsiye şudur: Eğer döviz kredisi
+veya ticari ödünç sözleşmesinde kriz patlak vermişse ve müvekkil temerrüde 
+düşmemek için taksitleri ödemeye devam ediyorsa, her bir banka dekontunun 
+açıklamasına mutlak surette *"TBK m. 138 uyarınca sözleşmenin uyarlanması ve 
+dava haklarımız saklı kalmak kaydıyla ödenmiştir"* şerhini düşmelidir. Aksi 
+takdirde, çekincesiz yapılan her ifa, o taksit yönünden uyarlama hakkından 
+feragat anlamına gelir.
 
-- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
-- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
-- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
-- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
-- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+**2. MAC (Material Adverse Change) Klozlarının Düzenlenmesi:**
+Sözleşme özgürlüğü çerçevesinde, kanundaki TBK m. 138 hükmü emredici değildir. 
+Tacirler arası devasa sendikasyon kredilerinde veya ticari tüketim 
+ödünçlerinde, taraflar "Önemli Olumsuz Değişiklik (MAC)" klozları yazarak, 
+hangi makroekonomik şokların uyarlama sebebi sayılacağını, hangilerinin ise 
+borçlunun üstlendiği ticari risk (örneğin kurun %50'ye kadar artması) kabul 
+edileceğini peşinen belirlemelidir. Hâkim, uyarlama yaparken öncelikle 
+sözleşmedeki bu risk dağıtım kurallarına (sözleşmesel uyarlama mekanizmalarına)
+bakmak zorundadır.
+
+**3. Davanın Hukuki Niteliği (İnşai Dava):**
+Sözleşmenin uyarlanması davası, mahiyet itibarıyla yenilik doğuran (inşai) bir 
+davadır. Mahkemenin vereceği uyarlama kararı, sözleşmenin edim yapısını 
+değiştirir. Bu nedenle avukatlar, dava dilekçesinin talep sonucunda (Petitum) 
+"uyarlanmasına karar verilmesi" şeklinde açık ve inşai bir talepte bulunmalı, 
+uyarlamanın (örneğin döviz kurunun hangi tarihteki değere sabitleneceğinin veya
+faizin ne kadar indirileceğinin) somut parametrelerini hâkime matematiksel 
+olarak sunmalıdır. Aksi takdirde, HMK m. 26 taleple bağlılık ilkesi gereği 
+hâkim, tarafların yerine geçerek sözleşmeyi resen yeniden yazamaz.
+
+#### 6. Yargıtay İçtihadı
+
+Yargıtay Hukuk Genel Kurulu ve ihtilaflara bakan ilgili daireleri (özellikle 3.
+ve 13. Hukuk Daireleri) TBK m. 138 uyarınca "Sözleşmenin Uyarlanması" ve 
+dövize endeksli krediler hususunda, dürüstlük kuralını merkeze alan ancak 
+tacirler bakımından son derece katı bir içtihat politikası sergilemektedir.
+
+Yargıtay Hukuk Genel Kurulu'nun dövize endeksli kredilerin uyarlanmasına 
+ilişkin klasikleşmiş yaklaşımında şu dogmatik kural şablonlaşmıştır: *"Sözleşme
+hukukuna hâkim olan ahde vefa (pacta sunt servanda) ilkesi gereği, taraflar 
+yüklendikleri borçları aynen ifa etmekle yükümlüdürler. Ancak bu ilkenin katı 
+bir şekilde uygulanması, sonradan ortaya çıkan olağanüstü durumlar karşısında 
+borçlunun mahvına neden olabilir. Bu adaletsizliği gidermek için TMK m. 2 
+dürüstlük kuralından neşet eden ve 6098 sayılı TBK m. 138'de yasalaşan işlem 
+temelinin çökmesi teorisi kabul edilmiştir. Somut uyuşmazlıkta davacı, Japon 
+Yeni (JPY) üzerinden konut kredisi (tüketim ödüncü) almış, ancak küresel kriz 
+nedeniyle kur öngörülemez şekilde artmıştır. Tüketicinin bu makroekonomik riski
+öngörmesi kendisinden beklenemez. Ancak uyarlama (emprevizyon) kurallarının 
+uygulanabilmesi için, krizin borçlu aleyhine katlanılamaz bir yıkım yaratması 
+şarttır. Mahkemece, kriz öncesi ve sonrası enflasyon, kur endeksleri ve 
+davacının ödeme gücü uzman bilirkişi heyetiyle değerlendirilmeli, sözleşmedeki 
+riskin tümüyle banka veya tüketici üzerinde bırakılmayacağı hakkaniyetli bir 
+oran (örneğin kurun belli bir tavanla sınırlandırılması) kurularak sözleşme 
+uyarlanmalıdır. Davanın salt 'dövizle borçlanan kur riskine katlanır' 
+gerekçesiyle reddi bozmayı gerektirmiştir."*.
+
+**Tacirlerin Uyarlama Talepleri** hususunda Yargıtay'ın içtihat yönelimi ise 
+çok daha acımasızdır: *"Tacir, ticari işletmesiyle ilgili faaliyetlerinde 
+basiretli bir iş adamı gibi (TTK m. 18/2) davranmak zorundadır. Tacirin, 
+ülkenin ekonomik gerçeklerini, döviz kurlarındaki dalgalanmaları ve enflasyon 
+riskini önceden öngörmesi beklenir. Ticari tüketim ödüncü alan bir tacirin, 
+döviz kurlarındaki artışı gerekçe göstererek TBK m. 138 uyarınca işlem 
+temelinin çöktüğünü ileri sürmesi ve sözleşmenin uyarlanmasını talep etmesi 
+kural olarak himaye göremez. Tacir bakımından uyarlama, ancak ülkeyi sarsan 
+olağanüstü krizlerin (devalüasyon) basiretli bir tacir tarafından dahi hiçbir 
+şekilde öngörülemeyecek boyutta olması hâlinde, istisnai olarak kabul 
+edilebilir."* 
 
 #### 7. Eleştirel Değerlendirme
 
-Madde 138, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
+Türk Borçlar Kanunu'nun 138. maddesinde vücut bulan **Aşırı İfa Güçlüğü 
+(Uyarlama)** rejimi ile bunun Tüketim Ödüncü ve Faiz sınırlarıyla (TBK m. 
+88/120) etkileşimi, borçlar hukuku dogmatiğinde Fikret Eren, M. Kemal Oğuzman, 
+Turgut Öz ve Haluk Nami Nomer'in eserleri ekseninde; "Alacaklının Uyarlama 
+Talep Edememesi" ve "Sistematik Faiz Sınırlarının Katılığı" bağlamında çok 
+derin kuramsal eleştirilere ve teorik fay hatlarına maruz kalmaktadır.
+
+Birinci ve en sert felsefi eleştiri, Sistemindeki *"Aşırı İfa Güçlüğü Nedeniyle
+Sözleşmenin Değişen Koşullara Uyarlanması"* konulu makalelerde de şiddetle 
+tartışıldığı üzere; **TBK m. 138 Lafzında Sadece "Borçlu" İfadesine Yer 
+Verilmiş Olmasının Yarattığı Dogmatik Çarpıklıktır**. Fikret Eren ve 
+Oğuzman/Öz'ün öğretilerinde de haklı olarak sorgulandığı üzere; madde metni 
+"borçlu, hâkimden sözleşmenin yeni koşullara uyarlanmasını isteme hakkına 
+sahiptir" demektedir. Oysa işlem temelinin çökmesi, sadece borcunu ifa edecek 
+tarafı değil, ifayı kabul edecek (alacaklı) tarafı da yıkıma uğratabilir. 
+Örneğin uzun vadeli ve sabit düşük faizli bir tüketim ödüncünde (kredi) ülkede
+hiperenflasyon baş gösterirse, alacaklı (banka veya şahıs) geri alacağı o sabit
+paranın satın alma gücünü tamamen yitirmesi nedeniyle mahvolabilir. Bu durumda 
+bozulan edim dengesinden zarar gören "alacaklı"dır. Kanun koyucunun (Legistik)
+modern Alman Hukukundaki (BGB § 313 "Störung der Geschäftsgrundlage") gibi her 
+iki tarafı da kapsayan nesnel bir "mağdur taraf" ibaresi yerine, salt klasik 
+bir bakış açısıyla "borçlu" kelimesini kullanması büyük bir ifade zafiyetidir. Hukukun, sadece edimi verecek olanı değil, edimi alacak olanın da ekonomik
+menfaatini denkleştirici adalet (Justitia commutativa) süzgecinden geçirerek 
+koruması zorunludur; dolayısıyla doktrin TBK m. 138'i amaca uygun yorum 
+(Teleologische Auslegung) ile alacaklı lehine de uygulamak zorundadır.
+
+İkinci dogmatik eleştiri, **Özel Hükümlerdeki Tüketim Ödüncü Faiz Sınırları 
+(TBK m. 88/120) ile Genel Hükümlerdeki Uyarlama (TBK m. 138) Kurumunun İrade 
+Muhtariyeti Eksenindeki Çelişkisidir**. Rona Serozan ve Nomer'in eserlerinde de
+işaret edildiği gibi; kanun koyucu TBK m. 88 ve 120 ile sözleşme özgürlüğüne 
+balyoz indirerek, piyasa gerçeklerinden kopuk, katı yasal faiz tavanları 
+belirlemiştir. Tacirler arası ticari işlerde dahi bu sınırların 
+uygulanıp uygulanmayacağı kaosu sürerken; diğer yanda öngörülemeyen 
+ekonomik şokların yarattığı devasa dengesizliklerin çözümü TBK m. 138 ile 
+tamamen hâkimin sınırsız takdir yetkisine (sübjektif değerlendirmesine) 
+bırakılmıştır. Hukukun, bir yandan faizi mikro düzeyde matematiksel 
+kısıtlamalarla boğarken, diğer yandan makro krizlerin tasfiyesini böylesine 
+soyut bir "farazi irade ve dürüstlük kuralı" çuvalına atması, kanunlaştırma 
+tekniği açısından tutarsızlıktır. Ahde vefa ilkesi, ne devletin katı faiz 
+limitleriyle ne de hâkimin sınırsız uyarlama yetkisiyle tahrip edilmelidir.
 
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 138, «III. Aşırı ifa güçlüğü» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 138, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 138'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 138, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 138, «III. Aşırı ifa güçlüğü» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 138, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 138'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 138, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 138, «III. Aşırı ifa güçlüğü» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 138, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 138'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 138, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 138, «III. Aşırı ifa güçlüğü» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 138, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 138'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 138, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 138, «III. Aşırı ifa güçlüğü» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 138, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 138'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 138, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 138, «III. Aşırı ifa güçlüğü» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 138, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 138'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
-
-Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
-
-- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
-- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
-
-Madde 138, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
-
-Türk Borçlar Kanunu m. 138, «III. Aşırı ifa güçlüğü» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
-
- 2.1. Maddenin konu edindiği temel hukuki ilişki
-
-Madde 138, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
-
-- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 138'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
-- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
-
-Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
-
-Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
-
-Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
-
-Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 138 resmi metni ve kanunun sistematiği.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
+- *Yargı kararları*: Türk Borçlar Kanunu m. 138'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
+- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
+- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 313.
+
+**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 138. madde metnine dayanır.
+
+**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
+
+**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.

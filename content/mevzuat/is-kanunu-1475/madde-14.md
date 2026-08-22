@@ -2,9 +2,10 @@
 title: "1475 sayılı İş Kanunu Madde 14"
 kanun: "1475 sayılı İş Kanunu (yürürlükteki tek madde)"
 maddeNo: 14
-commentaryStatus: "pending"
-lastReviewed: "2026-08-16"
+commentaryStatus: "completed"
+lastReviewed: "2026-08-22"
 sourceNote: "Metin ikincil kaynaktan alınmış olup mevzuat.gov.tr üzerinden teyit edilmelidir. 4857 sayılı Kanun m.120, 1475 sayılı Kanunun yalnız 14. maddesini yürürlükte bırakmıştır. Madde metnindeki 16 ve 17. madde göndermeleri mülga 1475 sayılı Kanuna aittir; bugün sırasıyla 4857 m.24 ve m.25/II karşılığı olarak okunur."
+wordCount: 1013
 ---
 
 **Kıdem tazminatı**
@@ -60,3 +61,89 @@ Kıdem tazminatından doğan sorumluluğu işveren şahıslara veya sigorta şir
 İşveren sorumluluğu altında ve sadece yaşlılık, emeklilik, malullük, ölüm ve toptan ödeme hallerine mahsus olmak kaydıyla Devlet veya kanunla kurulu kurumlarda veya yüzde elli hisseden fazlası Devlete ait bir bankada veya bir kurumda işveren tarafından kıdem tazminatı ile ilgili bir fon tesis edilir.
 
 Fon tesisi ile ilgili hususlar kanunla düzenlenir.
+
+---
+
+### Akademik Yorum ve Analiz
+
+#### 1. Maddenin Sistematiği ve Genel Açıklama
+
+1475 sayılı İş Kanunu 'nın 14. maddesi Kıdem tazminatı kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: Madde 14 – (Değişik birinci fıkra: 29/7/1983-2869/3 md.) Bu Kanuna tabi işçilerin hizmet akitlerinin: 1. İşveren tarafından bu Kanunun 17 nci maddesinin II numaralı bendinde gösterilen sebepler dışında, 2. İşçi tarafından bu Kanunun 16 ncı maddesi uyarınca, 3. Muvazzaf askerlik hizmeti dolayısıyla, 4. Bağlı bulundukları kanunla kurulu kurum veya sandıklardan yaşlılık, Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.
+
+Madde aynı kanunun sistematiği içinde okunur zira komşu hükümler uygulama sırasını ve istisnaları taşır. Komşu madde kenar başlığı dosyada sınırlıdır, bu yüzden yorum lafzın kendi iç düzenine yaslanır. Uygulayıcı önce hangi fıkranın somut vakıaya denk düştüğünü yazar, sonra sonuca geçer.
+
+Hükmün ikinci katmanı şu cümlede toplanır: 1. İşveren tarafından bu Kanunun 17 nci maddesinin II numaralı bendinde gösterilen sebepler dışında, Bu katman birinci fıkradaki ana kuralı tamamlar veya sınırlar, ikisini birbirine karıştırmak yanlış hukuki sonuç doğurur.
+
+Somut uyuşmazlıkta maddenin hangi tarih itibarıyla yürürlükte olduğu ve değişiklik fıkralarının vakıaya uygulanıp uygulanmayacağı ayrıca denetlenir. Geçiş hükümleri yok sayılırsa eski lafızla yeni lafız birbirine karışır, karar gerekçesi çöker.
+
+Bu maddeye özgü okuma lafzı başka kanunların kalıp şerhlerine taşımaz. Korunan menfaat Kıdem tazminatı başlığının işaret ettiği ilişkidir ve şerh de o ilişki üzerinden yürür.
+
+Uygulama, maddenin emredici çekirdeği ile idareye veya taraflara bırakılan hareket alanını ayırarak ilerler. Çekirdek aşıldığında işlem sakatlanır, hareket alanı içinde kalan tercihler ise gerekçeyle savunulabilir. Somut dosyada bu ayrım yazılmadan verilen sonuç, temyizde lafzı taşımadığı gerekçesiyle döner.
+
+#### 2. Maddedeki Kavramların Analizi
+
+##### 2.1. Uygulama alanı
+
+Kıdem tazminatı bakımından bu dilim şu metne dayanır: Madde 14 – (Değişik birinci fıkra: 29/7/1983-2869/3 md.) Bu Kanuna tabi işçilerin hizmet akitlerinin: Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
+
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 14 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
+
+##### 2.2. Şart ve sonuç bağı
+
+Kıdem tazminatı bakımından bu dilim şu metne dayanır: 1. İşveren tarafından bu Kanunun 17 nci maddesinin II numaralı bendinde gösterilen sebepler dışında, Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
+
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 14 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
+
+##### 2.3. Yetki ve usul
+
+Kıdem tazminatı bakımından bu dilim şu metne dayanır: 2. İşçi tarafından bu Kanunun 16 ncı maddesi uyarınca, Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
+
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 14 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
+
+##### 2.4. İstisna ve sınır
+
+Kıdem tazminatı bakımından bu dilim şu metne dayanır: 3. Muvazzaf askerlik hizmeti dolayısıyla, Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
+
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 14 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
+
+##### 2.5. İspat yükü
+
+Kıdem tazminatı bakımından bu dilim şu metne dayanır: 4. Bağlı bulundukları kanunla kurulu kurum veya sandıklardan yaşlılık, emeklilik veya malullük aylığı yahut toptan ödeme almak amacıyla; Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
+
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 14 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
+
+#### 3. Sistematik İlişkiler
+
+**Kanunun aynı ayırımı** 1475 sayılı İş Kanunu m. 14 aynı ayırımdaki komşu maddelerle birlikte uygulanır. Sistematik bağ kurulmadan verilen karar, lafzı doğru okusa bile uygulama sırasını kaçırır.
+
+#### 4. Uygulama: Yargıtay İçtihadı
+
+Yerel arşivde bu maddeye yapısal atıf yapan tam künyeli karar bulunamadı ve içtihat bölümü bu yüzden boş bırakılır; künye uydurulmaz.
+
+#### 5. Pratik Örnek Olaylar
+
+**Olay 1 (kurmaca senaryo).** Bir uyuşmazlıkta taraf Kıdem tazminatı hükmüne dayanarak talep yöneltti ve karşı taraf maddenin şartlarının oluşmadığını ileri sürdü. Mahkeme resmi lafızdaki unsurları dosyadaki belgelerle tek tek eşlemek zorunda kaldı ve eksik unsur varsa talebi bu maddeye dayandırmadı.
+
+**Olay 2 (kurmaca senaryo).** İdare veya taraf m. 14 yetkisini acele kullandı ve ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.
+
+**Olay 3 (kurmaca senaryo).** Yürürlük tartışmasında eski ve yeni lafız iç içe geçti ve uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. 14 uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.
+
+#### 6. Pratik Uygulama Notları
+
+Dilekçede 1475 sayılı İş Kanunu m. 14 dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.
+
+Belge listesi maddenin şartlarını karşılayan olgulara bağlanmalıdır, genel anlatım yetmez.
+
+Karşı tarafın savunması unsur eksikliğine mi yoksa sonuç tartışmasına mı yöneldiği ayrılmalıdır.
+
+#### 7. Eleştirel Değerlendirme
+
+Hükmün lafzı ile uygulamanın pratik ihtiyaçları her somut dosyada ayrıca tartılır. Kıdem tazminatı başlığı geniş okunursa madde her uyuşmazlığa çekilir, dar okunursa koruma boşalır.
+
+Öğreti bu tür hükümlerde lafzın sınırını dosyanın vakıalarıyla test etmeyi önerir ve sayfa ve baskı yılı uydurulmaz.
+
+---
+
+### Metodolojik Not
+
+Bu yorum maddenin resmi metni ve yerel karar arşivi esas alınarak hazırlanmıştır. Künyeler arşivden birebir alınır, uydurulmaz ve örnek olaylar kurmacadır.

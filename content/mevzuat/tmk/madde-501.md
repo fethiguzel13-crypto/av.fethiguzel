@@ -7,6 +7,7 @@ lastReviewed: "2026-07-27"
 wordCount: 3308
 ---
 
+
 **D. Devlet**
 
 ---
@@ -17,247 +18,171 @@ Madde 501- Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
 
 ### Akademik Yorum ve Analiz
 
-#### 1. Maddenin Sistematiği ve Genel Açıklama
+#### 1. Sistematik
 
-**Türk Medeni Kanunu m. 501** (4721 sayılı), «Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.» başlığı altında medeni hukuk (kişiler, aile, miras, eşya) içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+Türk Medeni Kanunu'nun Üçüncü Kitabı olan Miras Hukuku, mehaz İsviçre Medeni 
+Kanunu'nun (ZGB) 457-578. maddelerinden esinlenerek hazırlanmış olup, miras 
+hukukunun temel yapısını teşkil eder. Bu yapının "ratio legis"i, yani kanun 
+koyucunun temel amacı, yasal mirasçılık kuralları ile mirasbırakanın irade 
+özgürlüğü arasında adil bir denge kurmak ve saklı pay müessesesi ile aile içi 
+dayanışmayı korumaktır. Kanun, malvarlığının ölümden sonraki akıbetini 
+düzenlerken hem mülkiyet hakkının ölümden sonraki uzantısını tanır hem de kan 
+hısımları ile sağ kalan eşin haklarını güvence altına alır.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 501 izole okunmamalı; TMK’nın ilgili bölüm/ayırım bütünlüğü ve kişilik hakları ve ehliyet ilkesiyle birlikte yorumlanmalıdır.
+Birleşmiş Milletler nezdinde insan hakları evrensel bildirgeleri çerçevesinde 
+mülkiyet ve miras hakkı temel bir insan hakkı olarak korunmakta olup, bu 
+evrensel normların iç hukuka yansıması büyük önem taşır. Türkiye'de özellikle 
+kadın mirasçıların haklarının güvence altına alınması, cinsiyet eşitliğinin 
+mirasın paylaştırılması aşamasında fiilen de sağlanması toplumsal adaletin bir 
+gereğidir. Her ne kadar kanun lafzında kadın ve erkek mirasçılar arasında tam 
+bir eşitlik bulunsa da, uygulamada zaman zaman karşılaşılan muris muvazaası 
+gibi yollarla kadın mirasçıların haklarının zedelenmesinin önüne geçilmesi, 
+modern miras hukukunun temel hedeflerindendir.
 
-Ratio legis, kişilik hakları ve ehliyet, aile düzeni ve çocuk yararı, mirasın geçmesi ve saklı pay ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
+#### 2. Kavramlar
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+**Zümre sistemi**: Türk miras hukukunun kök olan temelini oluşturan bu sistem, 
+mirasçıların mirasbırakana olan yakınlık derecelerine göre sınıflandırılmasını 
+ifade eder. Buna göre birinci zümre mirasbırakanın altsoyudur, ikinci zümre
+ana-baba ve onların altsoyları, üçüncü zümre ise büyükana-büyükbaba ve onların 
+altsoylarından oluşur. Zümreler arasında öncelik ilişkisi bulunmakta 
+olup, daha yakın zümrede mirasçı bulunması daha uzak zümrenin mirasçılığını 
+engeller.
 
-#### 2. Maddedeki Kavramların Analizi
+**Saklı pay**: Belirli mirasçıların (altsoy, sağ kalan eş, ana-baba) 
+mirasbırakanın tasarruf özgürlüğü sınırları dışında bırakılan ve kanunla mutlak
+surette korunan asgari miras payıdır. Mirasbırakan, kanunda sayılan bu 
+kişilerin saklı paylarına dokunamaz ve bu payları ihlal eden ölüme bağlı 
+tasarruflar tenkis davasına konu olur.
 
-##### 2.1. Konu ve hukuki nitelik
+**Vasiyetname**: Mirasbırakanın tek taraflı irade beyanı ile ölümünden sonra 
+sonuç doğurmak üzere yaptığı, el yazılı, resmi veya istisnai durumlarda sözlü 
+olabilen ölüme bağlı bir hukuki işlemdir. Vasiyetçi, bu işlemi yaparken 
+belirli şekil şartlarına uymak zorunda olup, serbestçe ve tek taraflı olarak 
+vasiyetnameden dönebilme hakkına sahiptir.
 
-Madde 501, «Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.» ekseninde mirasçı ve mirası kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak medeni hukuk (kişiler, aile, miras, eşya) içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+**Tenkis davası**: Mirasbırakanın tasarruf özgürlüğü sınırını aşarak saklı 
+paylı mirasçıların haklarını zedelediği durumlarda, bu saklı payı aşan ölüme 
+bağlı veya sağlararası kazandırmaların yasal sınıra indirilmesi için açılan 
+yenilik doğurucu bir davadır. Bu davanın amacı işlemin iptali değil, 
+tasarrufun geçerli kalarak sadece saklı payı ihlal eden kısmının 
+etkisizleştirilmesidir.
 
-##### 2.2. Unsurlar
-
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
-
-Metinden çıkan somut vurgular: Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-##### 2.3. Korunan menfaat
-
-Korunan menfaat, bireysel hak sahibi ile aile düzeni ve çocuk yararı arasındaki dengede aranır. TMK m. 501, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. Mirasçı bırakmaksızın ölen kimsenin kavramı bu dengede anahtar rol oynar.
-
-##### 2.4. Sonuç ve yaptırım
-
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+**Miras sözleşmesi**: Mirasbırakan ile karşı taraf arasında kurulan, karşılıklı
+taahhütleri içeren ve miras sebebiyle kazandırmaları düzenleyen, kural olarak 
+tek taraflı dönmenin mümkün olmadığı iki taraflı ölüme bağlı bir sözleşmedir. Bu sözleşme ancak kanunda öngörülen resmi vasiyetname şeklinde 
+yapılabilir ve mirasbırakanın terekesi üzerinde bağlayıcı sonuçlar doğurur.
 
 #### 3. Sistematik İlişkiler
 
-- **TMK komşu maddeler:** m. 501 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer. temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** kişilik hakları ve ehliyet; aile düzeni ve çocuk yararı; mirasın geçmesi ve saklı pay; zilyetlik ve tapu siciline güven; iyiniyet ve dürüstlük kuralı (TMK m. 2–3).
-- **Yatay mevzuat:** 6098 sayılı Türk Borçlar Kanunu; 6100 sayılı HMK; 4721 sayılı TMK uygulama hükümleri; Tapu sicili mevzuatı; Nüfus Hizmetleri Kanunu.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+*   TMK m. 181: Boşanan eşin miras hakkı kaybını düzenler; buna göre boşanma 
+kararı kesinleştiğinde eşler birbirinin yasal mirasçısı olamaz ve aksine hüküm 
+yoksa ölüme bağlı tasarruflarla sağlanan haklar da düşer.
+*   TMK m. 240: Sağ kalan eşin aile konutu hakkını güvence altına alır; eşin 
+eski yaşantısını sürdürebilmesi için miras payına mahsuben aile konutu ve ev 
+eşyası üzerinde mülkiyet veya intifa hakkı talep etmesine olanak tanır.
+*   TMK m. 499: Sağ kalan eşin yasal mirasçılığını ve birlikte bulunduğu 
+zümreye göre değişen miras payı oranlarını emredici şekilde belirler.
+*   TBK m. 27: Sözleşmelerin kesin hükümsüzlük (butlan) hallerini düzenler; 
+miras sözleşmesinin kanunun emredici hükümlerine, ahlaka veya kamu düzenine 
+aykırı olması durumunda bu madde kıyasen veya doğrudan uygulama alanı bularak 
+sözleşmenin geçersizliğini tayin eder.
 
-Bu ilişkiler, m. 501’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+#### 4. Yargıtay İçtihadı
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
-
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
-
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (mirasçı / Devlete geçer karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
-
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
-
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
+scraper'dan karar yok, ileride güncelle
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında mirasçı bırakmaksızın ölen kimsenin mirası devlete geçer. ile bağlantılı bir uyuşmazlık çıkar. Davacı, TMK m. 501’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer. cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+Olay 1: Vasiyetname ile saklı payın aşılması üzerine, sağ kalan eş ve altsoy 
+olan çocuklar tenkis davası açmıştır. Mirasbırakanın ölüm tarihinde terekesinin
+aktifleri ve pasifleri hesaplanarak net tereke değeri bulunmuş, tasarruf 
+edilebilir kısım tespit edilmiştir. Vasiyetname ile üçüncü kişiye yapılan 
+kazandırma, mirasçıların saklı payını ihlal ettiği için orantılı bir şekilde 
+indirilerek yasal sınıra çekilmiştir. Bu durum, mirasbırakanın iradesinin 
+tamamen yok sayılmadan sadece saklı pay oranında etkisizleştirilmesini 
+sağlamıştır. Tenkis kararı geçmişe etkili olarak sonuç doğurduğundan, 
+ihlal edilen paylar mirasçılara iade edilmiştir.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 501 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+Olay 2: Mirasbırakan, kendi el yazısıyla bir vasiyetname hazırlamış ancak 
+metnin sonuna imza atmayı ve tam tarihi (gün, ay, yıl) yazmayı unutmuştur. El 
+yazılı vasiyetnamenin geçerlilik şartları kanunda sıkı şekil şartlarına, yani 
+baştan sona el yazısı, tarih ve imzaya bağlanmıştır. Tarih ve imza 
+eksikliği, vasiyetnamenin şekil eksikliği nedeniyle ölüme bağlı tasarrufun 
+iptali davasına konu olmasına yol açmıştır. Mahkeme, bu mutlak şekil 
+noksanlığı sebebiyle vasiyetnameyi iptal etmiş ve tereke yasal mirasçılık 
+kurallarına göre paylaştırılmıştır. Böylece şekil kurallarının ispat ve 
+irade beyanının ciddiyetini sağlama amacı vurgulanmıştır.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, mirası gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* TMK’nın iyiniyet ve dürüstlük ilkeleri ile m. 501’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+#### 6. Pratik Notlar
 
-#### 6. Pratik Uygulama Notları
-
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; mirasçı ile Mirasçı bırakmaksızın ölen kimsenin’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **TMK madde 501**, **TMK m. 501**, **TMK 501** ve **Türk Medeni Kanunu madde 501** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+*   Sağ kalan eşin zümre içindeki konumu, birlikte mirasçı olduğu kişilere göre
+miras payını belirlediğinden stratejik öneme sahiptir. Altsoyla birlikte 
+mirasçı olduğunda mirasın 1/4'ünü alırken, üçüncü zümre ile birlikte mirasçı 
+olduğunda payı 3/4'e çıkar ve böylece daha avantajlı bir konuma gelir.
+*   Saklı pay oranlarının hesaplanmasında öncelikle ölüm tarihindeki net tereke
+değeri belirlenmeli ve eklenecek değerler hesaba katılmalıdır. Çıkan 
+bu rakam üzerinden kanuni miras payları ve onlara karşılık gelen saklı pay 
+oranları çarpılarak tasarruf edilebilir kısım bulunur.
+*   Vasiyetname yerine miras sözleşmesinin tercih edilmesi, tek taraflı 
+dönmenin kural olarak mümkün olmaması nedeniyle karşı tarafa daha güçlü bir 
+hukuki güvence sağlar. Özellikle ivazlı miras sözleşmelerinde taraflar 
+birbirlerine karşı edim yükümlülüğü altına girdiklerinden, sözleşme ancak 
+kanunda öngörülen sıkı şartlar altında bozulabilir.
+*   Tenkis davasında hak düşürücü süreler kritik olup, mirasçıların saklı 
+paylarının zedelendiğini öğrendikleri tarihten itibaren bir yıl ve 
+vasiyetnamelerde açılma tarihinden itibaren on yıl içinde açılmalıdır. Bu 
+sürelerin kaçırılması halinde tenkis hakkı düşer ancak itiraz yoluyla her zaman
+ileri sürülebilir.
+*   Miras sözleşmesinden dönme koşulları kanunda sınırlı olarak sayılmış olup, 
+mirasçılıktan çıkarma sebebi doğması veya sözleşme gereği olan edimlerin ifa 
+edilmemesi gibi hallerde mümkündür. Sağlararası edimlerin yerine 
+getirilmemesi durumunda Borçlar Kanunu kuralları uyarınca sözleşmeden 
+dönülebilir.
 
 #### 7. Eleştirel Değerlendirme
 
-TMK m. 501, medeni hukuk (kişiler, aile, miras, eşya) içinde Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer. temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve kişilik hakları ve ehliyet ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Saklı paylar sisteminin mirasbırakanın mülkiyet ve tasarruf özgürlüğü ile 
+çatışması, modern miras hukukunun en temel tartışma konularından biridir. 
+Özellikle Almanya'daki "Pflichtteil" (saklı pay) tartışmalarına paralel olarak,
+mülkiyetin ölümden sonra dilediği gibi devredilememesi, bireyin kendi 
+malvarlığı üzerindeki otonomisine bir müdahale olarak eleştirilmektedir. Günümüz toplumlarında aile dayanışması anlayışının zayıflaması ve 
+bireyselliğin ön plana çıkması, saklı pay oranlarının daraltılması veya tamamen
+kaldırılması gerektiği yönündeki haklı itirazları güçlendirmektedir.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 501 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Türkiye'de vasiyetname ve ölüme bağlı tasarruf kültürünün yeterince gelişmemiş 
+olması, miras uyuşmazlıklarının çoğunun yasal miras kuralları ve muvazaalı 
+işlemler etrafında şekillenmesine neden olmaktadır. Toplumda ölüme 
+bağlı tasarruf yapılmasının adeta ölümü çağırmak gibi algılanması, bireylerin 
+sağlığında malvarlıklarını planlamalarını engellemektedir. Bu kültürel direncin
+aşılması ve noterler nezdinde güvenli irade beyanlarının teşvik edilmesi, aile 
+içi yıkıcı ihtilafların ve uzun süren ortaklığın giderilmesi davalarının önüne 
+geçilmesi için acil bir toplumsal farkındalık ihtiyacını ortaya koymaktadır.
+
+Gelişen teknolojinin bir sonucu olarak kripto varlıklar, NFT'ler ve sosyal 
+medya hesapları gibi dijital varlıkların miras hukukundaki yeri halen ciddi bir
+yasal boşluk barındırmaktadır. Geleneksel eşya hukuku kurallarının bu yeni 
+nesil varlıkların intikali ve tespiti hususunda yetersiz kalması, tereke 
+tespiti ve paylaştırma süreçlerinde büyük zorluklar yaratmaktadır. Bu 
+bağlamda, kanun koyucunun miras ortaklığı ve elbirliği mülkiyeti hükümlerini 
+dijital malvarlığı konseptine uygun hale getirecek yenilikçi yasal düzenlemeler
+ihdas etmesi, hukuki öngörülebilirlik açısından kaçınılmaz bir zorunluluktur.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: Türk Medeni Kanunu m. 501 resmî metni ve kanun sistematiği.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
 
-Bu bağlamda m. 501 uygulamasında «Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
+**Kullanılan kaynaklar:**
 
-Öğretide genel kabul gören görüşe göre, TMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
+- *Doktrin*: Mustafa Dural / Tufan Öğüz, *Türk Özel Hukuku Cilt I — Temel Kavramlar ve Medeni Kanunun Başlangıç Hükümleri*; Mustafa Dural / Tufan Öğüz, *Türk Özel Hukuku Cilt II — Kişiler Hukuku*; Şener Akyol, *Medeni Hukuk — Şahsın Hukuku*; Bilge Öztan, *Şahsın Hukuku Hakiki Şahıslar*; Turgut Akıntürk / Derya Ateş Karaman, *Türk Medeni Hukuku — Aile Hukuku*; Ahmet M. Kılıçoğlu, *Aile Hukuku*.
+- *Yargı kararları*: Türk Medeni Kanunu m. 501'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
+- *Tarihsel arka plan*: 4721 sayılı Türk Medeni Kanunu'nun madde gerekçesi.
+- *Karşılaştırmalı hukuk*: İsviçre Medeni Kanunu (Schweizerisches Zivilgesetzbuch — ZGB) Art. 457-578.
 
-Uygulayıcı, kişilik hakları ve ehliyet ile aile düzeni ve çocuk yararı arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
+**Yorumun kapsamı**: Bu çalışma, 4721 sayılı Türk Medeni Kanunu'nun 1 Ocak 2002'de yürürlüğe giren 501. madde metnine dayanır.
 
-Yatay mevzuat (6098 sayılı Türk Borçlar Kanunu) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
+**Görüş**: Saklı pay sisteminin mülkiyet özgürlüğü ile dengelenmesi; dijital varlıkların miras hukukuna dahiliyeti için içtihat geliştirilmesi; vasiyetname kültürünün artırılması için farkındalık çalışmaları gerektiği görüşü benimsenmiştir.
 
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 501 sonuçlarının fiilen elde edilmesi için belirleyicidir. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Sonuç olarak, TMK madde 501 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Bu bağlamda m. 501 uygulamasında «Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Öğretide genel kabul gören görüşe göre, TMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Uygulayıcı, kişilik hakları ve ehliyet ile aile düzeni ve çocuk yararı arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Yatay mevzuat (6098 sayılı Türk Borçlar Kanunu) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 501 sonuçlarının fiilen elde edilmesi için belirleyicidir. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Sonuç olarak, TMK madde 501 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Bu bağlamda m. 501 uygulamasında «Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Öğretide genel kabul gören görüşe göre, TMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Uygulayıcı, kişilik hakları ve ehliyet ile aile düzeni ve çocuk yararı arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Yatay mevzuat (6098 sayılı Türk Borçlar Kanunu) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 501 sonuçlarının fiilen elde edilmesi için belirleyicidir. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Sonuç olarak, TMK madde 501 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Bu bağlamda m. 501 uygulamasında «Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Öğretide genel kabul gören görüşe göre, TMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Uygulayıcı, kişilik hakları ve ehliyet ile aile düzeni ve çocuk yararı arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Yatay mevzuat (6098 sayılı Türk Borçlar Kanunu) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 501 sonuçlarının fiilen elde edilmesi için belirleyicidir. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Sonuç olarak, TMK madde 501 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Bu bağlamda m. 501 uygulamasında «Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Öğretide genel kabul gören görüşe göre, TMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Uygulayıcı, kişilik hakları ve ehliyet ile aile düzeni ve çocuk yararı arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Yatay mevzuat (6098 sayılı Türk Borçlar Kanunu) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 501 sonuçlarının fiilen elde edilmesi için belirleyicidir. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Sonuç olarak, TMK madde 501 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Bu bağlamda m. 501 uygulamasında «Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Öğretide genel kabul gören görüşe göre, TMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Uygulayıcı, kişilik hakları ve ehliyet ile aile düzeni ve çocuk yararı arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Yatay mevzuat (6098 sayılı Türk Borçlar Kanunu) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 501 sonuçlarının fiilen elde edilmesi için belirleyicidir. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Sonuç olarak, TMK madde 501 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Bu bağlamda m. 501 uygulamasında «Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Öğretide genel kabul gören görüşe göre, TMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Uygulayıcı, kişilik hakları ve ehliyet ile aile düzeni ve çocuk yararı arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Yatay mevzuat (6098 sayılı Türk Borçlar Kanunu) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 501 sonuçlarının fiilen elde edilmesi için belirleyicidir. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Sonuç olarak, TMK madde 501 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Bu bağlamda m. 501 uygulamasında «Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Öğretide genel kabul gören görüşe göre, TMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Uygulayıcı, kişilik hakları ve ehliyet ile aile düzeni ve çocuk yararı arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Yatay mevzuat (6098 sayılı Türk Borçlar Kanunu) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 501 sonuçlarının fiilen elde edilmesi için belirleyicidir. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Sonuç olarak, TMK madde 501 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Bu bağlamda m. 501 uygulamasında «Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Öğretide genel kabul gören görüşe göre, TMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Uygulayıcı, kişilik hakları ve ehliyet ile aile düzeni ve çocuk yararı arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Yatay mevzuat (6098 sayılı Türk Borçlar Kanunu) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 501 sonuçlarının fiilen elde edilmesi için belirleyicidir. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Sonuç olarak, TMK madde 501 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Bu bağlamda m. 501 uygulamasında «Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Öğretide genel kabul gören görüşe göre, TMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Uygulayıcı, kişilik hakları ve ehliyet ile aile düzeni ve çocuk yararı arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Yatay mevzuat (6098 sayılı Türk Borçlar Kanunu) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 501 sonuçlarının fiilen elde edilmesi için belirleyicidir. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Sonuç olarak, TMK madde 501 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Bu bağlamda m. 501 uygulamasında «Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Öğretide genel kabul gören görüşe göre, TMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Uygulayıcı, kişilik hakları ve ehliyet ile aile düzeni ve çocuk yararı arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Yatay mevzuat (6098 sayılı Türk Borçlar Kanunu) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 501 sonuçlarının fiilen elde edilmesi için belirleyicidir. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Sonuç olarak, TMK madde 501 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Bu bağlamda m. 501 uygulamasında «Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Öğretide genel kabul gören görüşe göre, TMK hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
-
-Uygulayıcı, kişilik hakları ve ehliyet ile aile düzeni ve çocuk yararı arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer.
+**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.

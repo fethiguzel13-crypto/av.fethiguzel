@@ -3,8 +3,8 @@ title: "İl İdaresi Kanunu Madde 37"
 kanun: "İl İdaresi Kanunu"
 maddeNo: 37
 commentaryStatus: "completed"
-lastReviewed: "2026-07-27"
-wordCount: 3608
+lastReviewed: "2026-08-22"
+wordCount: 939
 ---
 
 **IV - Kaymakamın ilçe idare şube başkanlariyle münasebetleri**
@@ -25,341 +25,70 @@ istenilen her türlü malümatı vermekle mükelleftirler.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**İl İdaresi Kanunu m. 37** (5442 sayılı), «İlçe idare şube başkanları, kendi şubelerine taallük» başlığı altında mülki idare içinde konumlanan temel hükümlerden biridir. Madde, salt lafzî bir emir olmaktan öte; kanunun koruduğu menfaat dengesini somut uyuşmazlığa taşıyan bir uygulama aracıdır.
+İl İdaresi Kanunu'nın 37. maddesi IV - Kaymakamın ilçe idare şube başkanlariyle münasebetleri kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: Madde 37 – İlçe idare şube başkanları, kendi şubelerine taallük eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine tevdi edilmiş olan görevlerin sürat ve intizam dahilinde görülmesinden doğrudan doğruya kaymakama karşı sorumludur. İlçe idare şube başkanları, kaymakam tarafından verilen emirleri yerine getirmek ve tevdi edilen işler hakkında gereken Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.
 
-Sistematik açıdan hüküm, önceki maddelerde kurulan kavramsal zemin ile sonraki maddelerin usul ve sonuç rejimini birbirine bağlar. Bu nedenle m. 37 izole okunmamalı; İl İdaresi K.’nın ilgili bölüm/ayırım bütünlüğü ve vali–kaymakam ilkesiyle birlikte yorumlanmalıdır.
+Madde aynı kanunun sistematiği içinde okunur zira komşu hükümler uygulama sırasını ve istisnaları taşır. Yakın maddeler arasında m.36 (III - Devir ve teftiş) öne çıkar. Uygulayıcı önce hangi fıkranın somut vakıaya denk düştüğünü yazar, sonra sonuca geçer.
 
-Ratio legis, vali–kaymakam, kamu düzeni, vesayet ekseninde toplanır. Madde metninin çekirdek lafzı şu çerçeveyi çizer: İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
+Hüküm tek parça gibi görünse de uygulama şart-sonuç ayrımını dosyada açık yazmayı gerektirir. Şart gerçekleşmeden yetki veya yaptırım konuşulmaz ve gerekçe boş kalır.
 
-Bu çerçeve, hem emredici çekirdek hem de (varsa) tamamlayıcı hareket alanı bakımından iki katmanlı bir okumayı zorunlu kılar. Uygulayıcı, önce maddenin hangi hukuki ilişkiyi düzenlediğini, sonra hangi şart ve sonuçları bağladığını, en sonda ispat ve usul yollarını tespit etmelidir.
+Somut uyuşmazlıkta maddenin hangi tarih itibarıyla yürürlükte olduğu ve değişiklik fıkralarının vakıaya uygulanıp uygulanmayacağı ayrıca denetlenir. Geçiş hükümleri yok sayılırsa eski lafızla yeni lafız birbirine karışır, karar gerekçesi çöker.
+
+Bu maddeye özgü okuma lafzı başka kanunların kalıp şerhlerine taşımaz. Korunan menfaat IV - Kaymakamın ilçe idare şube başkanlariyle münasebetleri başlığının işaret ettiği ilişkidir ve şerh de o ilişki üzerinden yürür.
+
+Uygulama, maddenin emredici çekirdeği ile idareye veya taraflara bırakılan hareket alanını ayırarak ilerler. Çekirdek aşıldığında işlem sakatlanır, hareket alanı içinde kalan tercihler ise gerekçeyle savunulabilir. Somut dosyada bu ayrım yazılmadan verilen sonuç, temyizde lafzı taşımadığı gerekçesiyle döner.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Konu ve hukuki nitelik
+##### 2.1. Uygulama alanı
 
-Madde 37, «İlçe idare şube başkanları, kendi şubelerine taallük» ekseninde İlçe idare şube başkanları ve Cumhurbaşkanlığı kararnamesi ve diğer kavramlarını operasyonel hale getirir. Hukuki nitelik bakımından hüküm, kural olarak mülki idare içinde emredici veya yarı-emredici bir rejim kurar; aksi ancak kanunun açıkça izin verdiği ölçüde kararlaştırılabilir.
+IV - Kaymakamın ilçe idare şube başkanlariyle münasebetleri bakımından bu dilim şu metne dayanır: Madde 37 – İlçe idare şube başkanları, kendi şubelerine taallük eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine tevdi edilmiş olan görevlerin sürat ve intizam dahilinde görülmesinden doğrudan doğruya kaymakama karşı sorumludur. İlçe idare şube Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.2. Unsurlar
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 37 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Uygulanabilirlik için tipik unsurlar şunlardır: (i) maddenin öngördüğü fiilî/hukuki durumun varlığı, (ii) kişi/ehliyet ve taraf sıfatı, (iii) şekil–süre–bildirim koşulları, (iv) sonuç bağının (hak, borç, yaptırım, geçersizlik, devir vb.) kurulması. Unsur eksikliği, hakkın doğmaması, işlemin sakatlığı veya yaptırımın uygulanamaması sonucunu doğurabilir.
+##### 2.2. Şart ve sonuç bağı
 
-Metinden çıkan somut vurgular: İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
+IV - Kaymakamın ilçe idare şube başkanlariyle münasebetleri bakımından bu dilim şu metne dayanır: Madde 37 – İlçe idare şube başkanları, kendi şubelerine taallük eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine tevdi edilmiş olan görevlerin sürat ve intizam dahilinde görülmesinden doğrudan doğruya kaymakama karşı sorumludur. İlçe idare şube Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-##### 2.3. Korunan menfaat
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 37 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
-Korunan menfaat, bireysel hak sahibi ile kamu düzeni arasındaki dengede aranır. İl İdaresi K. m. 37, bir yandan hak sahibinin meşru beklentisini; diğer yandan üçüncü kişilerin ve kamu düzeninin öngörülebilirliğini gözetir. İlçe
-idare şube başkanları kavramı bu dengede anahtar rol oynar.
+##### 2.3. Yetki ve usul
 
-##### 2.4. Sonuç ve yaptırım
+IV - Kaymakamın ilçe idare şube başkanlariyle münasebetleri bakımından bu dilim şu metne dayanır: Madde 37 – İlçe idare şube başkanları, kendi şubelerine taallük eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine tevdi edilmiş olan görevlerin sürat ve intizam dahilinde görülmesinden doğrudan doğruya kaymakama karşı sorumludur. İlçe idare şube Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır ve eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.
 
-Maddenin sonucu — hakkın kazanılması/kaybı, borç doğumu, geçersizlik, sorumluluk, idari veya yargısal yol — lafzın bağladığı hükme göre belirlenir. Sonuç teşhisi yanlış yapılırsa, sonraki dava veya icra adımları da hatalı kurulur. Öğretide genel kabul, yaptırımın niteliğinin (mutlak butlan, nisbi butlan, tazminat, idari yaptırım vb.) dosyanın başında netleştirilmesi gerektiği yönündedir.
+Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. 37 sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.
 
 #### 3. Sistematik İlişkiler
 
-- **İl İdaresi K. komşu maddeler:** m. 37 bir önceki ve sonraki hükümlerle «koruma zinciri» oluşturur; özellikle İlçe idare şube başkanları, kendi şubelerine taallük temasının tamamlayıcı kuralları.
-- **İlke hükümleri:** vali–kaymakam; kamu düzeni; vesayet; merkez–taşra.
-- **Yatay mevzuat:** Anayasa m. 123–127; Belediye Kanunu; PVSK.
-- **Usul bağlantısı:** Hakkın varlığı maddi hukuktan, ileri sürülmesi ve ispatı usul hukukundan beslenir; bu ikisi birbirinin yerine geçmez.
+**m. 36 — III - Devir ve teftiş** İl İdaresi Kanunu m. 36 (III - Devir ve teftiş) ile m. 37 birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.
 
-Bu ilişkiler, m. 37’nin tek başına «sihirli formül» olmadığını; dosyanın somut vakıalarına göre komşu normlarla birlikte işletilmesi gerektiğini gösterir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-#### 4. Uygulama: Yargı ve Uygulama Hatları
-
-Bu maddeye ilişkin bu metinde somut Yargıtay/Danıştay/AYM künyesi uydurulmamıştır. Aşağıdaki değerlendirme madde lafzı, sistematik ve öğretideki genel kabuller çerçevesindedir.
-
-Uygulamada tipik uyuşmazlık hatları:
-1. Maddenin kapsamına giren ilişkinin yanlış teşhisi (İlçe idare şube başkanları / İlçe idare şube başkanları karışıklığı),
-2. Şekil ve süre koşullarının ihmal edilmesi,
-3. İspat yükünün ters çevrilmesi veya belgesiz iddia,
-4. Komşu maddelerle çelişen sonuç çıkarma,
-5. Menfaat dengesinin tek taraflı kurulması.
-
-Güvenli yöntem: (a) madde metnini fıkra fıkra ayırmak, (b) her unsur için dosyadaki vakıa–belge eşlemesini kurmak, (c) sonuç hükmünü açıkça yazmak, (d) itiraz ve kanun yolu stratejisini baştan planlamaktır.
-
-Özellikle şu lafzi çekirdek, ispat planının omurgasını oluşturur: İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
+Yerel arşivde bu maddeye yapısal atıf yapan tam künyeli karar bulunamadı ve içtihat bölümü bu yüzden boş bırakılır; künye uydurulmaz.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca):** Taraflar arasında ilçe idare şube başkanları, kendi şubelerine taallük ile bağlantılı bir uyuşmazlık çıkar. Davacı, İl İdaresi K. m. 37’ye dayanarak hak talep eder; davalı kapsam ve şart itirazında bulunur.
-*Hukuki analiz:* Önce maddenin unsurları somut olaya birebir uygulanır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler cümlesinin aradığı şartlar dosyada yoksa talep reddedilmeli; varsa sonuç hükmü işletilmelidir. Yan delil ve tanık, yazılı şekil aranan hallerde şeklin yerini tutmaz.
+**Olay 1 (kurmaca senaryo).** Bir uyuşmazlıkta taraf IV - Kaymakamın ilçe idare şube başkanlariyle münasebetleri hükmüne dayanarak talep yöneltti. Karşı taraf maddenin şartlarının oluşmadığını ileri sürdü. Mahkeme resmi lafızdaki unsurları dosyadaki belgelerle tek tek eşlemek zorunda kaldı ve eksik unsur varsa talebi bu maddeye dayandırmadı.
 
-**Olay 2 (kurmaca):** İdari veya yargısal bir işlem, m. 37 gözetilmeden tesis edilir / karar verilir. İlgili, iptal veya istinaf yoluna başvurur.
-*Hukuki analiz:* Normun emredici çekirdeği atlanmışsa sakatlık gündeme gelir. Ancak her usul eksikliği aynı sonucu doğurmaz; menfaat, hak düşürücü süre ve hukuki yarar ayrıca denetlenir.
+**Olay 2 (kurmaca senaryo).** İdare veya taraf m. 37 yetkisini acele kullandı ve ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.
 
-**Olay 3 (kurmaca):** Üçüncü kişi, Cumhurbaşkanlığı kararnamesi ve diğer gerekçesiyle işleme müdahil olur veya iyiniyet iddiası ileri sürer.
-*Hukuki analiz:* İl İdaresi K.’nın iyiniyet ve dürüstlük ilkeleri ile m. 37’nin özel sonucu birlikte okunur. Genel ilke, özel hükmü ortadan kaldırmaz; özel hüküm de genel ilkeleri tamamen dışlamaz.
+**Olay 3 (kurmaca senaryo).** Yürürlük tartışmasında eski ve yeni lafız iç içe geçti ve uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. 37 uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.
 
 #### 6. Pratik Uygulama Notları
 
-- **Teşhis listesi:** İlişki türü → unsurlar → ispat araçları → sonuç → süre/usul yolu.
-- **Sık hata:** Madde numarasını bilmekle yetinip unsur analizini atlamak; İlçe idare şube başkanları ile İlçe
-idare şube başkanları’yi karıştırmak; komşu maddeleri okumadan sonuç çıkarmak.
-- **Belge disiplini:** Resmî kayıt, sözleşme, tebligat, ödeme ve yazışma zinciri dosyada eksiksiz tutulmalıdır.
-- **SEO/erişim notu (okuyucu için):** Bu sayfa **İl İdaresi K. madde 37**, **İl İdaresi K. m. 37**, **İl İdaresi K. 37** ve **İl İdaresi Kanunu madde 37** aramalarına cevap vermek üzere resmî metin ile akademik şerhi bir arada sunar.
-- **Sınır:** Şerh bilgilendirme amaçlıdır; somut dosyada avukat değerlendirmesi ve güncel içtihat kontrolü gerekir.
+Dilekçede İl İdaresi Kanunu m. 37 dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.
+
+Belge listesi maddenin şartlarını karşılayan olgulara bağlanmalıdır, genel anlatım yetmez.
+
+Karşı tarafın savunması unsur eksikliğine mi yoksa sonuç tartışmasına mı yöneldiği ayrılmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-İl İdaresi K. m. 37, mülki idare içinde İlçe idare şube başkanları, kendi şubelerine taallük temasını düzenleyerek öngörülebilirlik sağlar. Olumlu yanı, lafzın belirli bir sonuç bağlaması ve vali–kaymakam ilkesini somutlaştırmasıdır. Eleştiriye açık yanları ise şunlar olabilir: (i) genel kavramların somut olayda takdir yetkisi gerektirmesi, (ii) usulî adımların çokluğu, (iii) yatay mevzuatla kesişen gri alanlar, (iv) dijital işlemlerin lafzı zorlaması.
+Hükmün lafzı ile uygulamanın pratik ihtiyaçları her somut dosyada ayrıca tartılır. IV - Kaymakamın ilçe idare şube başkanlariyle münasebetleri başlığı geniş okunursa madde her uyuşmazlığa çekilir, dar okunursa koruma boşalır.
 
-Reform veya yorum geliştirme ihtiyacı doğduğunda, ölçüt her zaman kanunun amacı, menfaat dengesi ve hukuki güvenlik olmalıdır. Mevcut metin doğru uygulandığında, m. 37 hem hak sahibini hem de dürüst üçüncü kişileri koruyan işlevsel bir araçtır.
+Öğreti bu tür hükümlerde lafzın sınırını dosyanın vakıalarıyla test etmeyi önerir ve sayfa ve baskı yılı uydurulmaz.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamıştır. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı ifadelere yer verilmiştir. Pratik olaylar kurmacadır. Güncellik: 2026-07-27. Kaynak: İl İdaresi Kanunu m. 37 resmî metni ve kanun sistematiği.
-
-Bu bağlamda m. 37 uygulamasında «İlçe idare şube başkanları, kendi şubelerine taallük» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 37 sonuçlarının fiilen elde edilmesi için belirleyicidir. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Sonuç olarak, İl İdaresi K. madde 37 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Bu bağlamda m. 37 uygulamasında «İlçe idare şube başkanları, kendi şubelerine taallük» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 37 sonuçlarının fiilen elde edilmesi için belirleyicidir. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Sonuç olarak, İl İdaresi K. madde 37 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Bu bağlamda m. 37 uygulamasında «İlçe idare şube başkanları, kendi şubelerine taallük» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 37 sonuçlarının fiilen elde edilmesi için belirleyicidir. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Sonuç olarak, İl İdaresi K. madde 37 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Bu bağlamda m. 37 uygulamasında «İlçe idare şube başkanları, kendi şubelerine taallük» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 37 sonuçlarının fiilen elde edilmesi için belirleyicidir. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Sonuç olarak, İl İdaresi K. madde 37 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Bu bağlamda m. 37 uygulamasında «İlçe idare şube başkanları, kendi şubelerine taallük» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 37 sonuçlarının fiilen elde edilmesi için belirleyicidir. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Sonuç olarak, İl İdaresi K. madde 37 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Bu bağlamda m. 37 uygulamasında «İlçe idare şube başkanları, kendi şubelerine taallük» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 37 sonuçlarının fiilen elde edilmesi için belirleyicidir. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Sonuç olarak, İl İdaresi K. madde 37 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Bu bağlamda m. 37 uygulamasında «İlçe idare şube başkanları, kendi şubelerine taallük» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 37 sonuçlarının fiilen elde edilmesi için belirleyicidir. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Sonuç olarak, İl İdaresi K. madde 37 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Bu bağlamda m. 37 uygulamasında «İlçe idare şube başkanları, kendi şubelerine taallük» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-İspat hukuku bakımından, iddia edilen hakkın dayanağı olan vakıaların zaman damgalı belgelerle desteklenmesi, m. 37 sonuçlarının fiilen elde edilmesi için belirleyicidir. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Dijital tebligat, elektronik imza ve sicil kayıtları, maddenin modern uygulanmasında klasik yazılı usulün işlevsel eşdeğerleri olarak devreye girebilir; ancak kanuni şekil aranan hallerde eşdeğerlik iddiası temkinli kurulmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Sonuç olarak, İl İdaresi K. madde 37 şerhi, hem öğrenci hem uygulayıcı için «unsur → ispat → sonuç» üçlüsünü hatırlatan bir harita işlevi görür. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Bu bağlamda m. 37 uygulamasında «İlçe idare şube başkanları, kendi şubelerine taallük» temasının somut olaydaki görünümü, delil planının merkezine alınmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Öğretide genel kabul gören görüşe göre, İl İdaresi K. hükümleri sistematik ve amaçsal yorumla birlikte okunmalı; salt lafzî daraltma hukuki güvenliği zedeler. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Uygulayıcı, vali–kaymakam ile kamu düzeni arasındaki gerilimi dosya bazında tartmalı; tek menfaati mutlaklaştırmaktan kaçınmalıdır. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
-
-Yatay mevzuat (Anayasa m. 123–127) ile çatışma iddiası doğduğunda, özel hüküm–genel hüküm ve sonraki kanun kuralları dikkatle işletilmelidir. İlçe idare şube başkanları, kendi şubelerine taallük
-eden kanun, Cumhurbaşkanlığı kararnamesi ve diğer mevzuat ile kendi dairelerine
-tevdi edilmiş olan görevler
+Bu yorum maddenin resmi metni ve yerel karar arşivi esas alınarak hazırlanmıştır. Künyeler arşivden birebir alınır, uydurulmaz ve örnek olaylar kurmacadır.
