@@ -1,0 +1,110 @@
+{
+  "slug": "zamanasimi-sureleri",
+  "title": "Zamanaşımı Süreleri: On Yıl Kuralı ve Beş Yıllık İstisnalar",
+  "description": "Alacaklarda zamanaşımı kaç yıl, hangi alacaklar beş yıla tabi, iş ve icra dosyalarında süreler nasıl işler? TBK m.146-147 ve ilgili özel hükümler çerçevesinde.",
+  "h1": "Zamanaşımı süreleri nelerdir?",
+  "keywords": [
+    "zamanaşımı süresi",
+    "alacak zamanaşımı",
+    "on yıllık zamanaşımı",
+    "beş yıllık zamanaşımı",
+    "kira alacağı zamanaşımı",
+    "işçi alacakları zamanaşımı"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "odeme-emrine-itiraz"
+  ],
+  "links": [
+    {
+      "label": "TBK m.146 — On yıllık zamanaşımı",
+      "href": "/mevzuat/tbk/madde-146"
+    },
+    {
+      "label": "TBK m.147 — Beş yıllık zamanaşımı",
+      "href": "/mevzuat/tbk/madde-147"
+    },
+    {
+      "label": "İş K. m.120 — Ek Madde 3 (beş yıl)",
+      "href": "/mevzuat/is-kanunu/madde-120"
+    },
+    {
+      "label": "Zamanaşımı kontrol aracı",
+      "href": "/hesaplama/zamanasimi"
+    }
+  ],
+  "lead": "Alacaklarınızın peşine düşmek için sınırsız vaktiniz yok. Hukuki olarak hakkınızı arayabilmeniz için kanunun belirlediği süreleri takip etmeniz şarttır.",
+  "keyInsight": "Zamanaşımı borcu kendiliğinden silmez, sadece karşı tarafa borcu ödememe hakkı verir; bu nedenle süreyi takip etmek sizin sorumluluğunuzdadır.",
+  "sections": [
+    {
+      "heading": "Genel kural nedir?",
+      "paragraphs": [
+        "Bir alacağın ne zaman zamanaşımına uğrayacağını anlamak için önce özel bir hüküm olup olmadığına bakılır. Eğer kanunda o alacak türü için başka bir süre yazmıyorsa, geçerli olan süre **on yıldır**.",
+        "Bu süre, alacağın istenebilir hâle geldiği tarihten itibaren işlemeye başlar. Yani borcun vadesi gelmişse, takvim o gün çalışmaya başlar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hangi alacaklar beş yıla tabidir?",
+      "paragraphs": [
+        "Günlük hayatta sık karşılaşılan kira, faiz ve ücret gibi düzenli tekrarlanan ödemeler için süre **beş yıldır**. Bu, alacağın niteliği gereği daha kısa sürede talep edilmesini zorunlu kılar.",
+        "Konaklama, yeme-içme bedelleri, küçük çaplı perakende satışlar ve ortaklık ilişkilerinden doğan alacaklar da bu beş yıllık süre içindedir."
+      ],
+      "bullets": [
+        "Kira ve ücret gibi dönemsel ödemeler",
+        "Otel ve lokanta konaklama/yeme içme bedelleri",
+        "Ortaklık ilişkilerinden kaynaklanan alacaklar",
+        "Vekâlet, komisyon ve eser sözleşmeleri"
+      ]
+    },
+    {
+      "heading": "İşçi alacaklarında süre nasıl işler?",
+      "paragraphs": [
+        "İş sözleşmesinden doğan kıdem, ihbar tazminatı ve yıllık izin ücreti gibi alacaklar için kanun özel bir düzenleme getirmiştir. Bu alacaklar için geçerli olan süre **beş yıldır**.",
+        "Özellikle yıllık izin ücretinde süre, iş sözleşmesinin bittiği tarihte başlar. İş ilişkiniz sonlandığında bu süreyi kaçırmamak hayati önem taşır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Zamanaşımı ile hak düşürücü süre farkı nedir?",
+      "paragraphs": [
+        "Bu iki kavramı karıştırmak büyük bir hatadır. Zamanaşımı borçlunun ödemekten kaçınma hakkıdır; borçlu bunu mahkemede dile getirmezse hakim alacağınızı dikkate alabilir.",
+        "Hak düşürücü süre ise hakkın kendisini yok eder. Süre geçtiği an hak biter ve hakim bunu kendiliğinden görür; herhangi bir itiraza gerek kalmadan davanız reddedilir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Alacağınızın ne tür bir sözleşmeden doğduğunu belirleyin.",
+    "Alacağın muaccel olduğu, yani talep edilebilir hâle geldiği tarihi not edin.",
+    "İlgili kanun maddesinden o alacak için belirlenen süreyi kontrol edin.",
+    "Süre dolmadan önce ihtar çekin veya yasal yollara başvurun.",
+    "Dava veya icra takibi başlatarak sürenin kesilmesini sağlayın."
+  ],
+  "documents": [
+    "Sözleşme metni",
+    "Fatura veya makbuzlar",
+    "İhtarname örnekleri",
+    "İşten ayrılış belgesi",
+    "Banka dekontları"
+  ],
+  "faq": [
+    {
+      "q": "Zamanaşımı dolmuş bir borcu ödemek zorunda mıyım?",
+      "a": "Zamanaşımı borcu yok etmez, sadece borçlunun 'bu borç zamanaşımına uğradı' diyerek ödemeyi reddetme hakkı verir."
+    },
+    {
+      "q": "Dava açarsam süre durur mu?",
+      "a": "Evet, dava açmak veya icra takibi başlatmak zamanaşımını keser ve süreyi yeniden başlatır."
+    },
+    {
+      "q": "Hakim zamanaşımını kendiliğinden gözetir mi?",
+      "a": "Hayır, zamanaşımı bir savunma aracıdır; borçlu bunu mahkemede dile getirmezse hakim alacağa karar verebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.93,
+  "voice": "narrative",
+  "source": "gemini"
+}

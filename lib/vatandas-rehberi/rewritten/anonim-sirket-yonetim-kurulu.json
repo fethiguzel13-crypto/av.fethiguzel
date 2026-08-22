@@ -1,0 +1,114 @@
+{
+  "slug": "anonim-sirket-yonetim-kurulu",
+  "title": "Yönetim kurulu sorumluluğu — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Yönetim kurulu sorumluluğu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
+  "h1": "Yönetim kurulu sorumluluğu",
+  "keywords": [
+    "yönetim kurulu sorumluluğu",
+    "anonim sirket yonetim kurulu"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "sirket-kurulusu",
+    "anonim-sirket-kurulus",
+    "haksiz-rekabet-nedir",
+    "iflas-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/sirket-kurulusu"
+    },
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-sirketler"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=y%C3%B6netim%20kurulu"
+    }
+  ],
+  "lead": "Şirket masasına oturduğunuzda, sadece kararları almakla kalmaz, finansal tabloların gerçeği yansıtmasından ve hesapların düzeninden doğrudan sorumlu olursunuz. Asıl mesele, yetkinizi kullanırken atacağınız imzaların tüm ticari geleceğinizi bağlamasıdır.",
+  "keyInsight": "Yönetim kurulu üyesi olarak imzaladığınız finansal tabloların denetimden geçmemiş olması, o belgelerin hiç düzenlenmemiş sayılmasına yol açar.",
+  "sections": [
+    {
+      "heading": "Finansal tabloların ve denetimin yükü",
+      "paragraphs": [
+        "Şirketin finansal tabloları hazırlanırken masanın başında siz varsınız. Bu tabloların belirlenen standartlara uygun şekilde denetlenmesi ve başlığında denetçi görüşünün açıkça yer alması gerekir.",
+        "Eğer denetime tabi olan tablolar denetlettirilmemişse, kanun önünde hiç düzenlenmemiş kabul edilir. Bu durum, yönetim kurulu olarak hazırladığınız yıllık faaliyet raporu için de aynı şekilde geçerlidir."
+      ],
+      "bullets": [
+        "Finansal tablolarda denetçi görüşü mutlaka yazılmalı",
+        "Denetimden geçmeyen tablolar yok hükmündedir"
+      ]
+    },
+    {
+      "heading": "Çek düzenlerken dikkat edilecekler",
+      "paragraphs": [
+        "Şirket adına çek defteri açılırken veya çek düzenlenirken üzerinize düşen sorumluluklar oldukça ağırdır. Karşılıksız çıkan her çek için hamilin şikayetiyle birlikte hukuki süreç başlar.",
+        "Şirketin mali işlerini yürütmekle görevlendirilen yönetim organı üyeleri, çek karşılığını ilgili banka hesabında bulundurmakla yükümlüdür. Bu kurala uyulmaması durumunda **çek düzenleme yasağı** kapınızı çalabilir."
+      ],
+      "bullets": [
+        "Yasaklılık durumu banka tarafından önceden sorgulanır",
+        "Karşılıksız çeklerde yönetim organı sorumludur"
+      ]
+    },
+    {
+      "heading": "Sır saklama yükümlülüğü ve denetçiler",
+      "paragraphs": [
+        "Faaliyetleriniz sırasında öğrendiğiniz işletme sırlarını korumak en temel ödevlerden biridir. Denetçiler ve bu süreçte görev alan temsilciler de dürüst ve tarafsız hareket etmek zorundadır.",
+        "Bu sırların izinsiz kullanılması veya ihmal gösterilmesi halinde şirkete karşı **müteselsil sorumluluk** doğar. Zarara sebebiyet veren durumlar tazminat istemlerini beraberinde getirir."
+      ],
+      "bullets": [
+        "İşletme sırları izinsiz kullanılamaz",
+        "İhmal durumunda tazminat riski vardır"
+      ]
+    },
+    {
+      "heading": "Limited şirketlerde yönetim kuralları",
+      "paragraphs": [
+        "Anonim şirketler için düzenlenen birçok sorumluluk kuralı, limited şirketler için de birebir uygulanır. Şirkete borçlanma yasağından belgelerin gerçeğe uygunluğuna kadar pek çok madde ortaklaşa geçerlidir.",
+        "Müdürlerin ve yöneticilerin yanlış beyanlarda bulunması veya sermaye hakkında gerçeğe aykırı işlem yapması, doğrudan cezai ve hukuki yaptırımları tetikler."
+      ],
+      "bullets": [
+        "Anonim şirket kuralları limited şirkete de uzanır",
+        "Borçlanma yasağına dikkat edilmelidir"
+      ]
+    }
+  ],
+  "steps": [
+    "Finansal tabloları hazırlarken bağımsız denetim şartlarına uyup uymadığınızı kontrol edin.",
+    "Şirket adına çek hesabı açarken yasaklılık durumunuzun bulunmadığına dair yazılı beyanda bulunun.",
+    "Faaliyet raporlarında denetçi görüşlerinin eksiksiz yazıldığından emin olun.",
+    "İşletme sırlarını koruyun ve yetkisiz kişilerin erişimine karşı tedbir alın.",
+    "Mali işlerde görevli yönetim organı olarak hesaplardaki karşılıkları düzenli takip edin."
+  ],
+  "documents": [
+    "Finansal tablolar",
+    "Yıllık faaliyet raporu",
+    "Bağımsız denetim raporu",
+    "Ticaret sicili kayıtları",
+    "Çek hesabı açılış beyannameleri"
+  ],
+  "faq": [
+    {
+      "q": "Denetimden geçmemiş finansal tabloların hukuki durumu nedir?",
+      "a": "Denetime tabi olduğu halde denetlettirilmemiş finansal tablolar ve yıllık faaliyet raporu, kanunen düzenlenmemiş hükmündedir."
+    },
+    {
+      "q": "Şirket adına çek kesilirken kim sorumludur?",
+      "a": "Çek karşılığını banka hesabında bulundurmakla yükümlü olan kişi, tüzel kişinin mali işlerini yürüten yönetim organı üyesi veya bu amaçla belirlenen gerçek kişilerdir."
+    },
+    {
+      "q": "Denetçilerin sır saklama kuralına uymamasının sonucu nedir?",
+      "a": "İşletme sırlarını izinsiz kullanan veya ihmali bulunan denetçiler, şirkete ve zarar gören bağlı şirketlere karşı sorumlu olur; tazminat talepleriyle karşılaşabilirler."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "sirket-kurulusu",
+  "angle": "Yönetim kurulu sorumluluğu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

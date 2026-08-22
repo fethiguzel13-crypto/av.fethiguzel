@@ -1,0 +1,113 @@
+{
+  "slug": "franchise-sozlesmesi",
+  "title": "Franchise sözleşmesi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Franchise sözleşmesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
+  "h1": "Franchise sözleşmesi",
+  "keywords": [
+    "franchise sözleşmesi",
+    "franchise sozlesmesi"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "sirket-kurulusu",
+    "marka-tescil",
+    "haksiz-rekabet-nedir",
+    "cezai-sart-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/sirket-kurulusu"
+    },
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-isletme"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    }
+  ],
+  "lead": "Yeni bir iş kurmak için adım attınız ve elinizde bir franchise sözleşmesi var. Asıl mesele, markanın kurallarıyla sizin ticari özgürlüğünüz arasındaki dengeyi doğru kurmaktır.",
+  "keyInsight": "Sözleşme imzalanmadan önce, işletmenin gelecekteki devir ve fesih şartlarını eksiksiz incelemeniz gerekir.",
+  "sections": [
+    {
+      "heading": "İşin temeli nasıl atılır?",
+      "paragraphs": [
+        "Bir ticari faaliyete başlamak üzere masaya oturdunuz. Karşınızda sistemin sahibi olan taraf var ve size hazır bir iş modeli sunuyor.",
+        "Bu süreçte **yazılı bir sözleşme** yapmak ve şartları netleştirmek en güvenli başlangıçtır."
+      ],
+      "bullets": [
+        "Sistemin işleyişini inceleyin.",
+        "Tarafların haklarını yazılı hale getirin."
+      ]
+    },
+    {
+      "heading": "Sistem nasıl yürütülecek?",
+      "paragraphs": [
+        "Faaliyet sırasında belirli bir bölgede veya alanda çalışmaya başlarsınız. İşin rutin yürütülmesinde kurallara uymak esastır.",
+        "Merkez teşkilat ile aranızdaki **sürekli denetim** ilişkisi işin standardını korur."
+      ],
+      "bullets": [
+        "Bölge sınırlarına dikkat edin.",
+        "Merkez talimatlarını takip edin."
+      ]
+    },
+    {
+      "heading": "Uyuşmazlık çıkarsa ne yapmalı?",
+      "paragraphs": [
+        "İşler istendiği gibi gitmediğinde veya hesaplarda uyuşmazlık doğduğunda zaman kaybı yaşayabilirsiniz. Hak arama yolları için belirli süreler söz konusudur.",
+        "İşlemlerin **zaman aşımı** kurallarına uygun yürütülmesi hak kaybını önler."
+      ],
+      "bullets": [
+        "Süreçleri geciktirmeyin.",
+        "Kayıtları düzenli tutun."
+      ]
+    },
+    {
+      "heading": "Sona erme ve tasfiye",
+      "paragraphs": [
+        "Ortaklık bittiğinde hesapların ve varlıkların yerli yerine oturması gerekir. Karşılıklı yükümlülükler bu aşamada netleşir.",
+        "Tasfiye sürecinin **eksiksiz tamamlanması** gelecekteki borç riskini ortadan kaldırır."
+      ],
+      "bullets": [
+        "Hesapları sıfırlayın.",
+        "Devir işlemlerini tamamlayın."
+      ]
+    }
+  ],
+  "steps": [
+    "Sözleşme metnini baştan sona dikkatle okuyun.",
+    "Bölge ve faaliyet sınırlarını netleştirin.",
+    "Finansal yükümlülükleri kontrol edin.",
+    "Zaman aşımı ve fesih şartlarını not edin.",
+    "Yazılı mutabakatla süreci resmileştirin."
+  ],
+  "documents": [
+    "Franchise sözleşmesi",
+    "Ticari sicil belgeleri",
+    "Faaliyet izinleri",
+    "Cari hesap dökümleri"
+  ],
+  "faq": [
+    {
+      "q": "Sözleşme hangi kurallara göre şekillenir?",
+      "a": "Tarafların iradesi ve ticari mevzuat hükümlerine göre hazırlanır."
+    },
+    {
+      "q": "Uyuşmazlık durumunda süreler nasıl işleir?",
+      "a": "Kanunda öngörülen genel zaman aşımı süreleri dikkate alınır."
+    },
+    {
+      "q": "Bölge sınırı değiştirebilir mi?",
+      "a": "Sözleşmedeki hükümler çerçevesinde tarafların anlaşması gerekir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "sirket-kurulusu",
+  "angle": "Franchise sözleşmesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

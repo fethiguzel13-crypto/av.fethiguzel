@@ -1,0 +1,109 @@
+{
+  "slug": "nufus-kayit-ornegi",
+  "title": "Nüfus kayıt örneği — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Nüfus kayıt örneği hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
+  "h1": "Nüfus kayıt örneği",
+  "keywords": [
+    "nüfus kayıt örneği",
+    "nufus kayit ornegi"
+  ],
+  "category": "Nüfus",
+  "related": [
+    "e-devlet-nufus",
+    "veraset-ilami-nasil-alinir",
+    "e-devlet-veraset",
+    "bosanma-davasi-nasil-acilir",
+    "kimlik-kartı-basvurusu",
+    "dogum-belgesi-nasil-alinir",
+    "ikametgah-belgesi",
+    "askerlik-durum-belgesi",
+    "e-devlet-sifresi-alma",
+    "isim-degisikligi-davasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/e-devlet-nufus"
+    },
+    {
+      "label": "NHK",
+      "href": "/kategori/nhk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=n%C3%BCfus"
+    }
+  ],
+  "lead": "Nüfus kayıt örneği, aile bağlarınızı, evliliklerinizi ve adres geçmişinizi resmi olarak gösteren belgedir. Yanlış belge türü seçmek veya eski tarihli çıktı almak başvurunuzun anında reddedilmesine yol açar.",
+  "keyInsight": "Kurumun bizden tam olarak hangi aile dökümünü istediğini bilmeden ekrana bakmak zaman kaybettirir.",
+  "sections": [
+    {
+      "heading": "Hangi belgeyi seçmeniz gerekir?",
+      "paragraphs": [
+        "Bilgisayar ekranının önündesiniz ve karşınıza birden fazla seçenek çıkıyor. Düz bir belge mi, yoksa geçmiş olayları da gösteren detaylı bir döküm mü sorusuyla karşılaşırsınız.",
+        "Miras, boşanma veya soybağı gibi işlerde **vukuatlı nüfus kayıt örneği** şarttır. Bu seçenek evlilik, ölüm ve boşanma gibi tüm aile hareketlerini açıkça gözler önüne serer."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Nereden ve nasıl alınır?",
+      "paragraphs": [
+        "İşlemi hızlandırmak için internet tabanlı resmi portalları kullanabilirsiniz. Arama çubuğuna belge adını yazarak birkaç tıkla döküme ulaşmak mümkündür.",
+        "Belgeyi hangi kurum için alıyorsanız sisteme o **kurum adını** doğru şekilde girmeniz gerekir. Yanlış hedef seçimi belgenin geçerliliğini tehlikeye atabilir."
+      ],
+      "bullets": [
+        "e-Devlet kapısını kullanın",
+        "Kurum adını eksiksiz yazın"
+      ]
+    },
+    {
+      "heading": "Süresi ve güncelliği neden önemlidir?",
+      "paragraphs": [
+        "Resmi kurumlar, üzerinden uzun zaman geçmiş evrakları kabul etmek istemez. Dosyanızın işleme alınması için belgenin **taze tarihli** olması aranır.",
+        "Eski bir çıktıyı dosyaya koymak, işlem gününüzde ret cevabı almanıza neden olur. Şüpheli durumlarda en güncel halini tekrar üretmek en güvenli yoldur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "Dijital çıktı her zaman işinizi görmez; bazı özel durumlarda fiziki imza veya kaşe aranabilir. İnternet erişiminizin olmadığı anlar için alternatif hazırlık yapmalısınız.",
+        "Ekrana yansıyan barkodun okunabilir olduğundan emin olun. Silik veya eksik çıkmış çıktılar resmi dairelerde işleme alınmaz."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "e-Devlet sistemine T.C. kimlik numaranız ve şifrenizle giriş yapın.",
+    "Arama kısmına nüfus kayıt örneği yazarak ilgili hizmete gidin.",
+    "Belgenin verileceği kurum türünü ve aile bireylerini seçin.",
+    "Barkodlu belgenin çıktısını alın veya dijital olarak kaydedin.",
+    "İşlem yapacağınız kurumun özel bir talimatı varsa onu kontrol edin."
+  ],
+  "documents": [
+    "e-Devlet şifresi",
+    "T.C. kimlik kartı",
+    "Barkodlu nüfus kayıt çıktısı"
+  ],
+  "faq": [
+    {
+      "q": "Vukuatlı ve düz belge arasındaki fark nedir?",
+      "a": "Düz belge sadece mevcut durumu gösterirken, vukuatlı olan evlilik, boşanma ve soybağı gibi geçmiş tüm olayları listeler."
+    },
+    {
+      "q": "Eski tarihli belge kabul edilir mi?",
+      "a": "Resmi kurumlar genellikle güncel ve taze tarihli belgeleri ister, bu yüzden eski çıktıları yenilemek gerekir."
+    },
+    {
+      "q": "İnternet dışında nereden alabilirim?",
+      "a": "Bağlı bulunduğunuz il veya ilçe nüfus müdürlüklerine bizzat başvurarak ıslak imzalı suret talep edebilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "e-devlet-nufus",
+  "angle": "Nüfus kayıt örneği",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

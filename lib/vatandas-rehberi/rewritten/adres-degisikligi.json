@@ -1,0 +1,111 @@
+{
+  "slug": "adres-degisikligi",
+  "title": "Adres değişikliği — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Adres değişikliği hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
+  "h1": "Adres değişikliği",
+  "keywords": [
+    "adres değişikliği",
+    "adres degisikligi"
+  ],
+  "category": "Nüfus",
+  "related": [
+    "e-devlet-nufus",
+    "nufus-kayit-ornegi",
+    "tebligat-usulsuzlugu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/e-devlet-nufus"
+    },
+    {
+      "label": "NHK",
+      "href": "/kategori/nhk"
+    },
+    {
+      "label": "Tebligat",
+      "href": "/kategori/tebligat"
+    }
+  ],
+  "lead": "Yeni bir eve taşındınız. Asıl soru eşyaları yerleştirmek değil, resmi sistemlerdeki adresinizi zamanında güncellemektir.",
+  "keyInsight": "Adresinizi güncel tutmazsanız, size ulaşması gereken resmi evraklar eski adresinize gider ve hakkınızda yürütülen işlemlerden haberiniz olmayabilir.",
+  "sections": [
+    {
+      "heading": "Yeni adrese taşındığınızda ne yapmalısınız?",
+      "paragraphs": [
+        "Eşyalarınızı yeni evinize yerleştirdiniz ve hayatınızı kurmaya başladınız. İlk iş olarak resmi kurumların sizi yeni adresinizde bilmesini sağlamalısınız. Çünkü devlet kurumları ve mahkemeler sizinle resmi olarak **adres kayıt sisteminde** görünen yer üzerinden iletişim kurar.",
+        "Bu işlem sadece bir kâğıt üzerindeki değişiklik değildir. Hayatın akışı içinde karşınıza çıkacak olası bir resmi evrak veya tebligat için doğru adreste görünmek zorundasınız."
+      ],
+      "bullets": [
+        "Resmi kayıtların doğruluğu hayat kurtarır",
+        "İletişim kopukluğunu önler"
+      ]
+    },
+    {
+      "heading": "Tebligat adresi neden bu kadar önemlidir?",
+      "paragraphs": [
+        "Mahkemeler, icra daireleri veya resmi kurumlar size bir evrak gönderirken sizin **bilinen en son adresinizi** baz alırlar. Eğer adres kayıt sistemindeki adresiniz güncel değilse, evrak eski adresinize gider.",
+        "Eski adresinizde kimse kalmamış veya o adresten ayrılmış olsanız bile, görevli memur evrakı mahalle muhtarına bırakır ve kapınıza ihbarname yapıştırır. İhbarnamenin kapıya asıldığı tarih **tebliğ tarihi** sayılır ve hukuki süreleriniz siz daha haberdar olmadan işlemeye başlar."
+      ],
+      "bullets": [
+        "Eski adresinize giden evraklar muhtara bırakılır",
+        "Haberiniz olmadan süreleriniz başlayabilir"
+      ]
+    },
+    {
+      "heading": "Bildirim yapılmazsa ne gibi riskler doğar?",
+      "paragraphs": [
+        "Noterlik belgesine sahip olan ve ilgili defterlere kayıtlı bulunan meslek mensupları, adreslerinde bir değişiklik olduğunda bunu **değişiklik tarihinden itibaren 15 gün içinde** ilgili makama bildirmek zorundadır. Bu kural, mesleki tebligatların aksamaması için hayati önem taşır.",
+        "Sıradan bir vatandaş için de durum farklı değildir. Adresini güncellemeyen kişiler, kendilerine yöneltilen davalardan veya resmi çağrılardan zamanında haberdar olamaz ve hak kaybı yaşayabilir."
+      ],
+      "bullets": [
+        "Meslek mensupları için 15 günlük bildirim şartı",
+        "Zamanında haberdar olmama riski"
+      ]
+    },
+    {
+      "heading": "Yanınızda hangi belgeler bulunmalı?",
+      "paragraphs": [
+        "Adres değişikliği işlemini yaparken sistemin sizden isteyeceği bazı belgeler vardır. Bu belgeler yeni evinizde oturduğunuzu veya o adresle bağınızı kanıtlar nitelikte olmalıdır.",
+        "İşlemleri hızlandırmak ve olası bir aksilikle karşılaşmamak için kimliğinizi ve meskeni hangi hakla kullandığınızı gösteren belgeleri hazırda tutmalısınız."
+      ],
+      "bullets": [
+        "Kimlik belgesi",
+        "Meskeni gösteren belge"
+      ]
+    }
+  ],
+  "steps": [
+    "Yeni adrese ait kira sözleşmesi veya tapu belgesini hazırlayın.",
+    "Kimliğinizi yanınıza alarak adres beyanı için başvuru hazırlığı yapın.",
+    "Adres değişikliğini ilgili kurumlara süresi içinde bildirin.",
+    "Adres kayıt sisteminde yerleşim yeri adresinizin güncellendiğini kontrol edin.",
+    "Tebligat ve seçmen bilgilerinizin yeni adresinize uyumlu olduğunu doğrulayın."
+  ],
+  "documents": [
+    "kira sözleşmesi veya tapu",
+    "nüfus cüzdanı / kimlik kartı",
+    "beyan formu veya çıktı"
+  ],
+  "faq": [
+    {
+      "q": "Adresimi değiştirmezsem ne olur?",
+      "a": "Resmi tebligatlar eski adresinize gider ve muhtara bırakılan evraklar tebliğ edilmiş sayılır; hak kayıpları yaşayabilirsiniz."
+    },
+    {
+      "q": "Tebligat adresi olarak neresi kabul edilir?",
+      "a": "Bilinen en son adresiniz ve adres kayıt sisteminde bulunan yerleşim yeri adresiniz tebligat için esas alınır."
+    },
+    {
+      "q": "Evde kimse bulamazlarsa tebligat kime yapılır?",
+      "a": "Adreste kimse bulunmazsa evrak mahalle muhtarına, ihtiyar heyeti azasına veya zabıta görevlilerine teslim edilir ve kapıya ihbarname yapıştırılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "e-devlet-nufus",
+  "angle": "Adres değişikliği",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "temyiz-nedir",
+  "title": "Temyiz nedir? Nasıl yapılır — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Temyiz nedir? Nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
+  "h1": "Temyiz nedir? Nasıl yapılır?",
+  "keywords": [
+    "temyiz nedir",
+    "Yargıtay temyiz"
+  ],
+  "category": "Usul",
+  "related": [
+    "istinaf-nedir",
+    "hukuk-davasi-nasil-acilir",
+    "idari-dava-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/istinaf-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "İçtihat",
+      "href": "/icthat"
+    }
+  ],
+  "lead": "Mahkeme kapısından çıktınız, karar elinizde ama içiniz rahat değil. Temyiz, bu kararın hukuka uygun olup olmadığını inceletmek için atacağınız son adımdır.",
+  "keyInsight": "Temyiz aşaması yeni tanık dinletme yeri değil, verilen kararın kurallara uygun uygulanıp uygulanmadığını Yargıtay gözünden denetletme yoludur.",
+  "sections": [
+    {
+      "heading": "Hangi kararlar Yargıtay'a gider?",
+      "paragraphs": [
+        "Elindeki dosya bittiğinde insan rahat bir nefes almak ister. Ancak ilk derece mahkemeleri ya da bölge adliye mahkemesinden çıkan her karar doğrudan Ankara'ya gitmez.",
+        "Bölge adliye mahkemelerinin ayırma kararları gibi bazı özel durumlarda temyiz yoluna ancak asıl hükümle birlikte gidilebilir. Bu husus tek başına **Yargıtayda bozma sebebi** teşkil etmez."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Zamanın daralan çemberi",
+      "paragraphs": [
+        "Telaşlı bir günde posta kutunuza düşen tebligat bütün akışınızı değiştirebilir. Karar size ulaştıktan sonra önünüzde **belirli bir zaman dilimi** bulunur.",
+        "Bu aşamada adli tatil gibi takvim detayları da süreci etkiler. Adli tatilde davanın türüne göre bazı işler dururken, temyiz dilekçelerinin verilmesi ve dosyaların ilgili makamlara gönderilmesi gibi **idari işlemler** kesintisiz devam eder."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yargıtay masayı nasıl kurar?",
+      "paragraphs": [
+        "Dosya Yargıtay'a ulaştığında yeniden tanıklar dinlenmez veya olay baştan yaratılmaz. Yüksek mahkeme sadece ilk derece veya bölge adliye mahkemesinin hukuku doğru uygulayıp uygulamadığına bakar.",
+        "Eski hâle getirme gibi talepler Yargıtay önünde incelenirken temyiz usulüne göre yürütülür. Mahkeme, bu talebi kabul ettiğinde **hangi işlemlerin geçersiz** hale geldiğini açıkça kararına yazar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Karar çıktığında neyle karşılaşacaksınız?",
+      "paragraphs": [
+        "Yargıtay dosyayı inceledikten sonra ya kararı onar, ya bozar ya da düzeltme yolunu açar. Bozma kararı verildiğinde dosya yeniden yerel mahkemeye döner ve süreç tekrar başlar.",
+        "Bu uzun maratonda sabırlı olmak ve hukuki adımları **eksiksiz atmak** en büyük korumanızdır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "BAM veya ilk derece kararının temyize açık olup olmadığını kontrol edin.",
+    "Tebliğ tarihini not edin ve süreyi kaçırmamaya dikkat edin.",
+    "Hukuka aykırılık gerekçelerinizi belirleyerek temyiz dilekçesini hazırlayın.",
+    "Gerekli harç ve masrafları yatırarak dilekçeyi ilgili mercie verin.",
+    "Dosyanın Yargıtay'a gönderilmesini ve çıkacak kararı bekleyin."
+  ],
+  "documents": [
+    "BAM kararı",
+    "Tebligat mazbatası",
+    "Temyiz dilekçesi",
+    "Harç makbuzu"
+  ],
+  "faq": [
+    {
+      "q": "Temyizde yeniden tanık dinlenir mi?",
+      "a": "Hayır. Yargıtay maddi olayları yeniden incelemez, yalnızca hukuki denetim yapar."
+    },
+    {
+      "q": "Adli tatilde temyiz dilekçesi verilir mi?",
+      "a": "Evet. Adli tatilde temyiz dilekçelerinin alınması ve dosyaların gönderilmesi işlemleri yapılmaya devam eder."
+    },
+    {
+      "q": "Bozma kararı çıkarsa ne olur?",
+      "a": "Dosya yerel mahkemeye geri döner ve yargılama bozma kararı doğrultusunda yeniden görülür."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "istinaf-nedir",
+  "angle": "Temyiz",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

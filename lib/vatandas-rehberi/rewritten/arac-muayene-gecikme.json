@@ -1,0 +1,111 @@
+{
+  "slug": "arac-muayene-gecikme",
+  "title": "Araç muayene gecikme — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Araç muayene gecikme hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
+  "h1": "Araç muayene gecikme",
+  "keywords": [
+    "araç muayene gecikme",
+    "arac muayene gecikme"
+  ],
+  "category": "Trafik",
+  "related": [
+    "trafik-kazasi-tazminati",
+    "trafik-cezasina-itiraz",
+    "ehliyet-alma-sartlari",
+    "dask-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/trafik-kazasi-tazminati"
+    },
+    {
+      "label": "KTK",
+      "href": "/kategori/ktk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=muayene"
+    }
+  ],
+  "lead": "Aracınızın muayene zamanını geçirdiğinizde, sürenin her ayı için normal ücretin **yüzde beş fazlası** alınarak tahsilat yapılır. Unutmayın ki, **ay kesirleri tam ay** olarak hesaplanır.",
+  "keyInsight": "Gecikilen her tam ve kesirli ay, muayene ücretinin katlanarak artmasına yol açar.",
+  "sections": [
+    {
+      "heading": "Muayene zamanı geçince ne olur?",
+      "paragraphs": [
+        "Trafiğe çıktığınız aracın periyodik kontrolünü zamanında yaptırmadığınızda, geciken her ay için kanuni bir fark işletilir. Bu süreçte yetkili kuruluşlar, normal muayene bedeli üzerinden ek bir tahsilat gerçekleştirir.",
+        "Hesaplama yaparken takvim yapraklarının gösterdiği günler değil, **ay kesirlerinin tam ay** sayılacağı kuralı uygulanır."
+      ],
+      "bullets": [
+        "Geciken her ay için yüzde 5 fazlalık uygulanır",
+        "Kalan günler tam aya tamamlanarak hesap yapılır"
+      ]
+    },
+    {
+      "heading": "Ücretler nasıl hesaplanır?",
+      "paragraphs": [
+        "Kanun maddesine göre araç sınıflarına göre belirlenen taban ücretler üzerinden gecikme zammı yansıtılır. Otomobil, kamyonet, motosiklet veya otobüs gibi araç gruplarının her biri için ayrı başlangıç tarifeleri bulunur.",
+        "Yıl sonlarında ilan edilen yeniden değerleme oranları bu ücretlerin güncellenmesinde temel alınır."
+      ],
+      "bullets": [
+        "Araç sınıfına göre taban ücret değişir",
+        "Yeniden değerleme oranları dikkate alınır"
+      ]
+    },
+    {
+      "heading": "İşlemler nerede yapılır?",
+      "paragraphs": [
+        "Araç kontrolleri Ulaştırma Bakanlığına ait istasyonlarda veya bu bakanlıktan yetki belgesi alan gerçek ve tüzel kişilerin kurduğu tesislerde gerçekleştirilir.",
+        "Yetki devri yapılmış olsa bile sorumluluk zinciri ve denetim mekanizması ilgili bakanlığın onay ve denetiminde yürütülür."
+      ],
+      "bullets": [
+        "Bakanlık onaylı istasyonlar yetkilidir",
+        "Alt işleticiler aynı standartları sağlamak zorundadır"
+      ]
+    },
+    {
+      "heading": "Yanınızda hangi belgeler olmalı?",
+      "paragraphs": [
+        "İstasyona gitmeden önce aracınıza ait tescil belgesi ve yasal zorunlulukları tamamlamış olmanız gerekir. Eksik evrak süreci uzatabilir.",
+        "Tüm ücretlerin ve olası gecikme farklarının ödenmesi için hazırlıklı olunmalıdır."
+      ],
+      "bullets": [
+        "Tescil belgesini yanınızda bulundurun",
+        "Ödeme hazırlığı yapın"
+      ]
+    }
+  ],
+  "steps": [
+    "Aracınızın muayene süresini kontrol edin.",
+    "Ulaştırma Bakanlığı yetkili istasyonundan randevu alın.",
+    "Gecikme süresine göre hesaplanan ücreti hazırlayın.",
+    "Muayene istasyonuna zamanında gidin."
+  ],
+  "documents": [
+    "Motorlu araç tescil belgesi",
+    "Trafik sigortası poliçesi",
+    "Kimlik belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Geciken her ay için ne kadar fark ödenir?",
+      "a": "Muayene süresi geçirilen her ay için normal ücret **yüzde 5 fazlası** ile tahsil edilir."
+    },
+    {
+      "q": "Birkaç günlük gecikme de tam ay sayılır mı?",
+      "a": "Evet, **ay kesirleri tam ay** olarak hesaplanır."
+    },
+    {
+      "q": "Muayeneler hangi kurumlarda yapılır?",
+      "a": "Ulaştırma Bakanlığına ait veya bu bakanlıktan yetki belgesi alan **muayene istasyonlarında** yapılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "trafik-kazasi-tazminati",
+  "angle": "Araç muayene gecikme",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

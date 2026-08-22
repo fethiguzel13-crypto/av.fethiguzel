@@ -1,0 +1,107 @@
+{
+  "slug": "surekli-is-goremezlik",
+  "title": "Sürekli iş göremezlik — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Sürekli iş göremezlik hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avu…",
+  "h1": "Sürekli iş göremezlik",
+  "keywords": [
+    "sürekli iş göremezlik",
+    "surekli is goremezlik"
+  ],
+  "category": "İş",
+  "related": [
+    "ibraname-nedir",
+    "is-kazasi-maluliyet",
+    "is-kazasi-tazminati",
+    "malulen-emeklilik"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/ibraname-nedir"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    },
+    {
+      "label": "İSG",
+      "href": "/kategori/isg"
+    }
+  ],
+  "lead": "İş kazası veya meslek hastalığı sonucu çalışma gücünüzü kaybettiğinizde, Sosyal Güvenlik Kurumu size sürekli iş göremezlik geliri bağlar. Bu gelir, sağlığınızdaki kalıcı kaybın maddi bir telafisidir.",
+  "keyInsight": "Meslekte kazanma gücünüzün en az %10 oranında azalmış olması, gelir bağlanması için temel şarttır.",
+  "sections": [
+    {
+      "heading": "Sürekli iş göremezlik ne anlama gelir?",
+      "paragraphs": [
+        "Çalıştığınız işin niteliği gereği bir hastalığa yakalandıysanız veya iş yerinde bir kaza geçirdiyseniz, vücudunuzda kalıcı bir hasar oluşmuş olabilir. Bu durum iş yapma kapasitenizi doğrudan etkiler.",
+        "Kurum tarafından yetkilendirilmiş sağlık kuruluşlarına başvurarak durumunuzu belgelemeniz gerekir. Sağlık kurulunun yaptığı inceleme sonucunda iş gücü kaybınızın oranı belirlenir."
+      ],
+      "bullets": [
+        "Bedensel veya ruhsal engel durumu",
+        "İşin yürütüm şartlarından doğan hastalıklar"
+      ]
+    },
+    {
+      "heading": "Gelir bağlanması için hangi aşamalar izlenir?",
+      "paragraphs": [
+        "Kurum Sağlık Kurulu, raporlarınızı ve tıbbi belgelerinizi inceleyerek bir karar verir. Eğer kaybınız %10 ve üzerindeyse, geliriniz bağlanır.",
+        "Geliriniz, geçici iş göremezlik ödeneğinin bittiği tarihi takip eden ay başından itibaren işlemeye başlar. Eğer geçici bir süreç yaşanmadıysa, rapor tarihini takip eden ay başı esas alınır."
+      ],
+      "bullets": [
+        "En az %10 iş gücü kaybı şartı",
+        "Kurum Sağlık Kurulu onayı"
+      ]
+    },
+    {
+      "heading": "Başka birinin bakımına muhtaç mısınız?",
+      "paragraphs": [
+        "İş kazası veya meslek hastalığı sonucu oluşan durumunuz, başkasının sürekli bakımına muhtaç olduğunuzu gösteriyorsa gelir bağlama oranınız en üst seviyeye çıkar.",
+        "Bu özel durumda gelir bağlama oranı **%100** olarak uygulanır. Böylece günlük yaşamınızı idame ettirmeniz için gerekli maddi destek sağlanmış olur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreci nasıl takip etmelisiniz?",
+      "paragraphs": [
+        "Bağlanan gelir, meslekte kazanma gücünüzdeki kayıp oranına göre hesaplanır. Tam iş göremezlik durumunda, hesaplanan aylık kazancınızın **%70** oranı üzerinden ödeme yapılır.",
+        "Eğer kısmî bir kayıp varsa, bu oran kaybınızın derecesiyle orantılı olarak belirlenir. Kurumun kayıtlarını ve size gönderilen resmi yazıları düzenli kontrol etmeniz hak kaybına uğramamanız için önemlidir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Yetkili sağlık kuruluşundan durumunuzu gösteren raporu alın.",
+    "Sosyal Güvenlik Kurumu'na gelir bağlanması için yazılı başvurunuzu yapın.",
+    "Kurum Sağlık Kurulu'nun inceleme sürecini takip edin.",
+    "Bağlanan gelirin başlangıç tarihini ve oranını teyit edin.",
+    "Kontrol muayenesi istenirse zamanında sağlık kuruluşuna gidin."
+  ],
+  "documents": [
+    "Sağlık kurulu raporu",
+    "İş kazası veya meslek hastalığı bildirgesi",
+    "SGK gelir bağlama kararı",
+    "Tıbbi tetkik ve analiz sonuçları"
+  ],
+  "faq": [
+    {
+      "q": "Meslek hastalığı işten ayrıldıktan sonra çıkarsa ne olur?",
+      "a": "Hastalığın işten ayrılmanızla ortaya çıkması arasında, yönetmelikte belirtilen süreyi aşmamış olmanız şartıyla haklarınızdan yararlanabilirsiniz."
+    },
+    {
+      "q": "Gelirim yeniden hesaplanabilir mi?",
+      "a": "Evet, sürekli iş göremezlik geliri bağlanmış olan sigortalının yeniden tedavi görmesi durumunda, meslekte kazanma gücü kaybı yeniden tespit edilerek gelir güncellenebilir."
+    },
+    {
+      "q": "İşveren bildirim yapmazsa haklarım kaybolur mu?",
+      "a": "Hayır, işveren bildirim yükümlülüğünü yerine getirmese bile siz gerekli belgelerle Kuruma müracaat ederek haklarınızı talep edebilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "ibraname-nedir",
+  "angle": "Sürekli iş göremezlik",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

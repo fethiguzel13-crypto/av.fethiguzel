@@ -1,0 +1,100 @@
+{
+  "slug": "erisim-engeli-basvurusu",
+  "title": "Erişim engeli başvurusu — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Erişim engeli başvurusu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
+  "h1": "Erişim engeli başvurusu",
+  "keywords": [
+    "erişim engeli başvurusu",
+    "erisim engeli basvurusu"
+  ],
+  "category": "Ceza",
+  "related": [
+    "tutuklama-nedir",
+    "unutulma-hakki",
+    "hakaret-sucu-nedir",
+    "savcilik-suc-duyurusu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tutuklama-nedir"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    }
+  ],
+  "lead": "İnternette hakkınızda yayımlanan ve canınızı sıkıveren içerikler için başınız kalabalıklaşmadan hızlıca harekete geçebilirsiniz. Asıl mesele, içeriğin kişilik haklarınızı nasıl zedelediğini doğru tarif etmektir.",
+  "keyInsight": "Başvuru yaparken hangi hakkınızın ihlal edildiğini açıkça göstermezseniz, talebiniz asılsız bir şikayet gibi işlemden kalkabilir.",
+  "sections": [
+    {
+      "heading": "Hangi durumlarda başvuru yapılır?",
+      "paragraphs": [
+        "Bilgisayarınızın ekranına baktınız ve adınızın geçmediği bir yerde onurunuzu kıracak bir yalanla karşılaştınız. İnternetteki bu tür içerikler hızla yayılır ve insanı çaresiz hissettirir. Telaş yapmadan duruma el koymalısınız.",
+        "Özel hayatınızın gizliliği ihlal edildiğinde ya da kişilik haklarınıza saldırı düzenlendiğinde **erişim engeli başvurusu** yapmak en doğal hakkınızdır. Burada önemli olan, zararın somut ve ortada olmasıdır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kime ve nasıl başvurulur?",
+      "paragraphs": [
+        "Ekrandaki o yazıyı veya görseli gördüğünüz an ne yapacağınızı bilemeyebilirsiniz. Önce içeriğin internet adresini yani **bağlantıyı** tam olarak kaydetmeniz gerekir.",
+        "İçeriğin yayından kaldırılması veya erişimin engellenmesi için ilgili yerlere müracaat ederken talebinizi net bir şekilde yazmalısınız. Hangi ifadenin sizi neden rahatsız ettiğini **açıkça** belirtmek zorundasınız."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreci yönetirken nelere dikkat etmeli?",
+      "paragraphs": [
+        "İnternet ortamındaki bilgi kirliliği arasında kaybolmamak için adımlarınızı bilinçli atmalısınız. Haklı olduğunuz bir konuda yanlış kapıyı çalsanız bile zaman kaybedersiniz.",
+        "Talebinizin arkasında durabilmek için elinizdeki belgelerin tam ve eksiksiz olması **büyük önem** taşır. Eksik evrak veya belirsiz iddialar sürecin uzamasına yol açar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yanınızda hangi bilgiler bulunmalı?",
+      "paragraphs": [
+        "Başvuru dilekçesini doldururken mahkeme veya ilgili makam nezdinde durumunuzu kanıtlayacak verileri hazır etmelisiniz. Ekran görüntüsü almak her zaman işe yarar bir adımdır.",
+        "İçeriğin internet üzerindeki tam adresini yani URL bilgisini bilmek şarttır. Adresi bilmeden yapılan başvurular genellikle sonuçsuz kalır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İhlal içeren içeriğin internet adresini (URL) kopyalayın.",
+    "Hakkınızın neden ihlal edildiğini anlatan sade bir metin hazırlayın.",
+    "Ekran görüntüsü gibi destekleyici kayıtları alın.",
+    "Talebinizi ilgili merciye iletmek üzere hazırlayın."
+  ],
+  "documents": [
+    "İçeriğin internet adresi bilgisi",
+    "İhlali gösteren ekran görüntüleri",
+    "Kimlik fotokopisi",
+    "Başvuru dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Her şikayetçi olduğum içerik kaldırılır mı?",
+      "a": "Sadece kişilik haklarınıza veya özel hayatınıza açıkça zarar veren içerikler için bu yol açılır."
+    },
+    {
+      "q": "Bağlantı adresini bilmesem de başvurabilir miyim?",
+      "a": "İçeriğin tam internet adresi olmadan işlem yapmak oldukça zordur; adresi mutlaka bulmalısınız."
+    },
+    {
+      "q": "Başvuruyu kendim yapabilir miyim?",
+      "a": "Evet, mağdur olan kişi olarak süreci bizzat takip edebilir ve başvurunuzu yapabilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tutuklama-nedir",
+  "angle": "Erişim engeli başvurusu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

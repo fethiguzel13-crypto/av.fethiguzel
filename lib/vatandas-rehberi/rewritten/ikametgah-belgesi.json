@@ -1,0 +1,99 @@
+{
+  "slug": "ikametgah-belgesi",
+  "title": "İkametgâh belgesi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İkametgâh belgesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
+  "h1": "İkametgâh belgesi",
+  "keywords": [
+    "ikametgâh belgesi",
+    "ikametgah belgesi"
+  ],
+  "category": "Nüfus",
+  "related": [
+    "e-devlet-nufus",
+    "adres-degisikligi",
+    "nufus-kayit-ornegi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/e-devlet-nufus"
+    },
+    {
+      "label": "NHK",
+      "href": "/kategori/nhk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=ikametgah"
+    }
+  ],
+  "lead": "Yeni bir eve taşındınız ya da resmi bir iş için adresinizi belgelemeniz gerekiyor. Elinizdeki **ikametgâh belgesi** hayatınızı kolaylaştıran en hızlı resmi kanıttır.",
+  "keyInsight": "Adres bildirimini zamanında yapmamak resmi işlemlerde kilitlenmenize yol açar.",
+  "sections": [
+    {
+      "heading": "Neden bu belgeye ihtiyaç duyarsınız?",
+      "paragraphs": [
+        "Kapınızı açtınız, eşyalarınızı yerleştirdiniz. Okul kaydı, iş başvurusu veya abonelik açtırma gibi işlemlerde sizden hemen adresiniz istenir. İşte bu noktada ikametgâh belgesi devreye girer.",
+        "Devlet sistemlerinde hangi adreste oturduğunuzun resmi olarak görünmesi, haklarınızdan ve hizmetlerden doğru şekilde yararlanmanız için şarttır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Adres değişikliğinde ne yapılır?",
+      "paragraphs": [
+        "Taşınma telaşı bittikten sonra en kritik görev adresinizi güncellemektir. **Bildirim yükümlülüğünü** yerine getirmek için kanuni süreci takip etmelisiniz.",
+        "Eski evinizden ayrılıp yeni adresinize yerleştiğinizde resmi kurumlara bilgi vermeniz, ileride yaşanacak hak kayıplarının önüne geçecektir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Belgeyi nereden alabilirsiniz?",
+      "paragraphs": [
+        "İşlemlerinizi hızlandırmak için dijital kanalları kullanabilirsiniz. Bilgisayarınızın başına geçip birkaç tıkla belgeye ulaşmak mümkündür.",
+        "Eğer dijital ortamı kullanamıyorsanız, nüfus müdürlüklerine bizzat başvurarak **resmi evrakınızı** elinize alabilirsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yanlış veya eksik adresin sonucu nedir?",
+      "paragraphs": [
+        "Adresinizi güncel tutmadığınızda önemli tebligatlar eski adresinize gidebilir. Bu durum, hakkınızda açılan bir davayı veya önemli bir bildirimi kaçırmanıza neden olur.",
+        "Terslik yaşamamak için taşınma sonrasında adres kayıt işlemini asla ertelemeyin."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Yeni adresinize taşınma işlemini tamamlayın.",
+    "Dijital devlet kapısına giriş yapın.",
+    "İkametgâh belgesi sorgulama alanını seçin.",
+    "Belgeyi indirip çıktısını alın veya kurumla paylaşın.",
+    "Gerekirse nüfus müdürlüğüne bizzat başvurun."
+  ],
+  "documents": [
+    "Nüfus cüzdanı veya kimlik kartı",
+    "Kira kontratı veya tapu",
+    "Adinize düzenlenmiş fatura"
+  ],
+  "faq": [
+    {
+      "q": "İkametgâh belgesini internetten almak geçerli mi?",
+      "a": "Evet, barkodlu ve karekodlu dijital belgeler resmi kurumlarda tamamen geçerlidir."
+    },
+    {
+      "q": "Adresimi ne zaman güncellemeliyim?",
+      "a": "Yeni adrese taşındıktan sonra gecikmeden bildirim yapılması gereklidir."
+    },
+    {
+      "q": "Çocuklarım için de bu belgeyi alabilir miyim?",
+      "a": "Velayeti altındaki çocuklar için ebeveynler bu belgeyi sistem üzerinden temin edebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "e-devlet-nufus",
+  "angle": "İkametgâh belgesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

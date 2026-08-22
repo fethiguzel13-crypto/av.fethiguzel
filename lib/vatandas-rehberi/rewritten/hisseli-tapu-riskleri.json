@@ -1,0 +1,112 @@
+{
+  "slug": "hisseli-tapu-riskleri",
+  "title": "Hisseli tapu alınır mı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Hisseli tapu alınır mı? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
+  "h1": "Hisseli tapu alınır mı?",
+  "keywords": [
+    "hisseli tapu",
+    "paylı mülkiyet risk"
+  ],
+  "category": "Eşya",
+  "related": [
+    "tapu-devri-nasil-yapilir",
+    "on-alim-sufa-hakki",
+    "izale-i-suyu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tapu-devri-nasil-yapilir"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=payl%C4%B1"
+    }
+  ],
+  "lead": "Beğendiğiniz bir arsa veya binanın tapusunda birden çok isim görüyorsanız, elinizde hisseli bir mülk var demektir. Bu ortaklık yapısı, gelecekteki kullanım ve paylaşım süreçlerinde yasal kilitlenmelere yol açabilir.",
+  "keyInsight": "Hisseli tapularda en büyük tuzak, hangi metrekarenin size ait olduğunun tapuda işaretlenmemiş olmasıdır; herkes her yerin hayali ortağıdır.",
+  "sections": [
+    {
+      "heading": "Hisseli tapu tam olarak ne anlama gelir?",
+      "paragraphs": [
+        "Tapu dairesine gittiniz ve karşınıza tek bir gayrimenkul için birden fazla isim çıktı. Bu durum, arsanın veya binanın bütününün bölünmemiş paylarla ortaklara ait olduğunu gösterir. Elinizdeki kağıt size ait olan bağımsız bir daireyi değil, **toplam mülk üzerindeki pay oranınızı** tescil eder.",
+        "Ortaklar arasında anlaşma sağlanamadığı sürece kimin hangi odada oturacağı veya arsanın neresini kullanacağı kağıt üzerinde belirsizdir."
+      ],
+      "bullets": [
+        "Paylı mülkiyet yapısı",
+        "Ortak kullanım belirsizliği"
+      ]
+    },
+    {
+      "heading": "Ortaklar arasında anlaşmazlık çıkarsa ne olur?",
+      "paragraphs": [
+        "Yıllar geçtikçe ortakların beklentileri değişebilir ve ortak mülk yük haline gelebilir. Hukuki bir engel bulunmadığı sürece, **paydaşlardan her biri** malın paylaşılmasını her zaman talep edebilir.",
+        "Bu paylaşım talebi, ortakların kendi aralarında yapacağı resmi sözleşmelerle belirli bir süreyle sınırlandırılabilir. Ancak bu anlaşmaların geçerli olması için şekil şartlarına uyulması gerekir."
+      ],
+      "bullets": [
+        "Paylaşım isteme hakkı",
+        "Sözleşmeyle sınırlandırma"
+      ]
+    },
+    {
+      "heading": "Yönetim ve koruma kararları nasıl alınır?",
+      "paragraphs": [
+        "Ortaklar bir araya gelerek mülkün kullanımı konusunda farklı kurallar belirleyebilir. Ancak bu anlaşmaların tapu kütüğüne işlenmesi, **imzaların noterlikçe onaylanması** koşuluna bağlıdır.",
+        "Ortaklardan biri, mülkün zarar görmemesi veya değerinin korunması için acil durumlarda gerekli önlemleri bütün paydaşlar hesabına derhal almak zorundadır."
+      ],
+      "bullets": [
+        "Noter onaylı yönetim anlaşması",
+        "Acil koruma önlemleri"
+      ]
+    },
+    {
+      "heading": "Müstakil tapuya geçiş nasıl sağlanır?",
+      "paragraphs": [
+        "Hisseli yapıyı sonlandırmanın en güvenli yolu kat mülkiyetine geçmektir. Bunun için gayrimenkulün maliki veya **bütün paydaşların birlikte** tapu idaresine başvurması şarttır.",
+        "Başvuru sırasında mimari projeler, yapı kullanma izin belgeleri ve yönetim planı gibi zorunlu evrakın eksiksiz sunulması gerekir."
+      ],
+      "bullets": [
+        "Ortakların ortak iradesi",
+        "Projelerin sunulması"
+      ]
+    }
+  ],
+  "steps": [
+    "Tapu sicil müdürlüğünden taşınmazın güncel kaydını ve paydaş listesini inceleyin.",
+    "Diğer ortakların kullanım ve yönetimle ilgili imzaladığı noter onaylı bir anlaşma olup olmadığını kontrol edin.",
+    "Mülkün kat mülkiyetine geçip geçemeyeceğini mimari projeler üzerinden araştırın.",
+    "Paylaşım veya satış aşamasında bütün paydaşların onayını almak için hukuki zemin hazırlayın."
+  ],
+  "documents": [
+    "Tapu senedi",
+    "Onaylı mimari proje",
+    "Yapı kullanma izin belgesi",
+    "Yönetim planı",
+    "Noter onaylı paylaşım veya yönetim sözleşmesi"
+  ],
+  "faq": [
+    {
+      "q": "Hisseli tapuda oturduğum yeri satın alabilir miyim?",
+      "a": "Hisseli tapuda belirli bir bağımsız bölümün tapusu size ait değildir; sadece genel pay satın alırsınız."
+    },
+    {
+      "q": "Ortaklardan biri satışa yanaşmazsa ne yapabilirim?",
+      "a": "Paydaşlardan her biri ortaklığın giderilmesi için hukuki yollara başvurarak paylaşım isteyebilir."
+    },
+    {
+      "q": "Yönetim planı neden gereklidir?",
+      "a": "Binanın veya arsanın kullanım tarzını ve ortak giderleri düzenlemek için yönetim planı şarttır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tapu-devri-nasil-yapilir",
+  "angle": "Hisseli",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

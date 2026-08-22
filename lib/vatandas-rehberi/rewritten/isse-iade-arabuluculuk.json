@@ -1,0 +1,113 @@
+{
+  "slug": "isse-iade-arabuluculuk",
+  "title": "İşe İade Öncesi Arabuluculuk | Vatandaş Rehberi",
+  "description": "İşe iadede arabuluculuk zorunlu mu? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
+  "h1": "İşe iadede arabuluculuk zorunlu mu?",
+  "keywords": [
+    "işe iade arabuluculuk",
+    "işe iade dava şartı"
+  ],
+  "category": "İş",
+  "related": [
+    "ise-iade-davasi",
+    "arabuluculuk-nasil-yapilir",
+    "is-sozlesmesi-feshi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/ise-iade-davasi"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Arabuluculuk",
+      "href": "/rehber/arabuluculuk"
+    }
+  ],
+  "lead": "İş sözleşmeniz feshedildiğinde doğrudan mahkemenin kapısını çalamazsınız. Hak arama yoluna çıkmadan önce arabuluculuk kapısını **zorunlu olarak** çalmanız gerekir.",
+  "keyInsight": "Arabulucuya başvurmadan açılan işe iade davaları esasa girilmeden usulden reddedilir.",
+  "sections": [
+    {
+      "heading": "Neden arabulucuya gitmek zorundasınız?",
+      "paragraphs": [
+        "İş yerinizdeki eşyalarınızı masanıza toplarken buldunuz kendinizi. Patronunuz sözleşmenizi bitirdi ve gerekçesini içselleştiremiyorsunuz. Doğrudan adliyeye koşup dava dilekçesi vermeyi düşünüyorsunuz ancak kanun size önce dur diyor.",
+        "İş sözleşmesi feshedilen işçi, feshin geçerli bir sebebe dayanmadığını düşünüyorsa **arabulucuya başvurmak zorundadır**. Bu kural bir ihtiyarilik değil, mahkemenin esasa girmesi için aşılması gereken **ilk eşiktir**."
+      ],
+      "bullets": [
+        "Fesih bildiriminin tebliği ile süreç başlar",
+        "Doğrudan dava açmak ret sebebidir"
+      ]
+    },
+    {
+      "heading": "Süreç nasıl işler ve nereye başvurulur?",
+      "paragraphs": [
+        "Karşınıza çıkan bu ilk engeli aşmak için nereye gideceğinizi bilmeniz gerekir. Yetkili mahkemenin bulunduğu yerdeki arabuluculuk bürosuna adınıza başvuru yapılır.",
+        "Taraflar arabuluculuk masasında anlaşamazsa elinizde resmi bir tutanak kalır. Anlaşma sağlanamamasından sonraki dönemde **iki hafta içinde** iş mahkemesinde dava açma hakkınız doğar."
+      ],
+      "bullets": [
+        "Yetkili büroya başvuru",
+        "Anlaşmazlık halinde son tutanak"
+      ]
+    },
+    {
+      "heading": "Masada anlaşma sağlanırsa ne olur?",
+      "paragraphs": [
+        "Arabuluculuk sadece bir formalite değildir; masada taraflar el sıkışabilir. İşçinin işe başlatılması konusunda anlaşmaya varılırsa bazı unsurların net şekilde yazılması şarttır.",
+        "İşe başlatılma tarihi ile ödenecek tazminat ve ücretlerin parasal miktarları tutanakta açıkça yer almalıdır. Bu detaylar yazılmazsa **anlaşma sağlanamamış sayılır**."
+      ],
+      "bullets": [
+        "İşe başlatılma tarihinin tespiti",
+        "Parasal hakların netleştirilmesi"
+      ]
+    },
+    {
+      "heading": "Süreci kaçırırsanız neyle karşılaşırsınız?",
+      "paragraphs": [
+        "Hukuk dünyasında süreler hayat kurtarır veya yakar. Doğrudan mahkemeye gittiğiniz için davanız reddedilirse, ret kararının tebliğinden sonra **iki hafta içinde** arabulucuya başvurma şansınız yeniden doğar.",
+        "Ancak bu ikinci şansı da ıskalarsanız, işe iade trenini kaçırmış ve işverenin feshi hukuken geçerli hale gelmiş olur."
+      ],
+      "bullets": [
+        "Usulden ret sonrası iki hafta kuralı",
+        "Sürenin kaçması halinde feshin kesinleşmesi"
+      ]
+    }
+  ],
+  "steps": [
+    "Fesih bildiriminin size tebliğ edildiği tarihi not edin.",
+    "Yetkili arabuluculuk bürosuna giderek başvuru formunu doldurun.",
+    "İletişim bilgilerinizi ve dosyanın detaylarını eksiksiz verin.",
+    "Arabulucu eşliğinde yapılan toplantılara bizzat katılın.",
+    "Anlaşma veya anlaşmazlık durumunda düzenlenen son tutanağı alın."
+  ],
+  "documents": [
+    "İş sözleşmesi",
+    "Fesih bildirim yazısı",
+    "Arabuluculuk başvuru dilekçesi",
+    "Arabuluculuk son tutanağı",
+    "Kimlik belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Arabulucuya gitmeden dava açabilir miyim?",
+      "a": "Hayır, arabulucuya başvurmadan açılan davalar usulden reddedilir."
+    },
+    {
+      "q": "Masada anlaşamazsak ne kadar sürede dava açmalıyım?",
+      "a": "Son tutanağın düzenlendiği tarihten itibaren iki hafta içinde iş mahkemesinde dava açabilirsiniz."
+    },
+    {
+      "q": "İşveren işe başlatmazsa ne olur?",
+      "a": "Mahkeme veya özel hakem kararında belirtilen tazminat ile çalıştırılmadığınız dönemin ücret ve hakları ödenir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "ise-iade-davasi",
+  "angle": "Dava şartı arabuluculuk adımı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

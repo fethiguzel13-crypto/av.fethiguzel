@@ -1,0 +1,118 @@
+{
+  "slug": "e-devlet-nufus",
+  "title": "e-Devlet Nüfus İşlemleri Rehberi",
+  "description": "e-Devlette hangi nüfus işlemleri yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portal…",
+  "h1": "e-Devlette hangi nüfus işlemleri yapılır?",
+  "keywords": [
+    "e-devlet nüfus işlemleri",
+    "adres beyanı e-devlet"
+  ],
+  "category": "Nüfus",
+  "related": [
+    "nufus-kayit-ornegi",
+    "pasaport-basvurusu",
+    "adres-degisikligi",
+    "kimlik-kartı-basvurusu",
+    "dogum-belgesi-nasil-alinir",
+    "evlilik-basvurusu",
+    "ikametgah-belgesi",
+    "askerlik-durum-belgesi",
+    "e-devlet-sifresi-alma",
+    "soyadi-degisikligi-davasi",
+    "isim-degisikligi-davasi"
+  ],
+  "links": [
+    {
+      "label": "NHK",
+      "href": "/kategori/nhk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=n%C3%BCfus"
+    }
+  ],
+  "lead": "Bilgisayar başındasınız, nüfus müdürlüğüne gitmeden evrak işini halletmek istiyorsunuz. e-Devlet kapısı üzerinden adres değişimi, barkodlu belge alma ve aile kütüğü sorgulama işlemleri hızlıca tamamlanır.",
+  "keyInsight": "Her evrak e-Devletten alınmaz; resmî kurumlar onaylı suret isterse **şahsen başvuru** şartı aranır.",
+  "sections": [
+    {
+      "heading": "Hangi işlemler ekrandan biter?",
+      "paragraphs": [
+        "Gece yarısı evrak lazım oldu. Kuyrukta beklemek yok, şifrenizle sisteme girersiniz. Kimlik bilgileriniz, alt üst soy kütüğünüz veya adres kayıt örneğiniz bir tıkla önünüze gelir.",
+        "Sisteme girdiğinizde **barkodlu belge** üretilir. Bu belge üzerinde bulunan karekod sayesinde, kurumlar belgenin sahte olup olmadığını anında teyit eder."
+      ],
+      "bullets": [
+        "Adres değişikliği bildirimi",
+        "Nüfus kayıt örneği alma",
+        "Yerleşim yeri belgesi"
+      ]
+    },
+    {
+      "heading": "Adres taşınınca ne yapmalı?",
+      "paragraphs": [
+        "Yeni eve yerleştiniz, koliler ortada duruyor. Muhtarlığa ya da nüfusa koşma devri kapandı. e-Devlet üzerinden adres bildirimi yaparak yeni yuvanızı sisteme işlersiniz.",
+        "Taşınma işlemi bittikten sonra **bildirim süresine** dikkat ederek adresinizi güncelleyin. Ailece taşındıysanız diğer fertlerin de durumunu kontrol edin."
+      ],
+      "bullets": [
+        "Mevcut adres kontrolü",
+        "Yeni adres seçimi",
+        "Onay aşaması"
+      ]
+    },
+    {
+      "heading": "Yurt dışı kararlar ve tescil",
+      "paragraphs": [
+        "Yabancı ülkede boşandınız veya adli bir karar aldınız. Bu kararın Türkiye'de geçerli olması için nüfus kütüğüne işlenmesi gerekir. Taraflar birlikte veya tek başına başvuru yapabilir.",
+        "Yurt dışındaysanız dış temsilcilikler, yurt içindeseniz Bakanlıkça belirlenen **nüfus müdürlükleri** bu tescili yapar. Kararın kesinleşmiş olması ve kamu düzenine aykırı olmaması aranır."
+      ],
+      "bullets": [
+        "Kararın kesinleşmesi",
+        "Yetkili makam başvurusu",
+        "Kütüğe tescil"
+      ]
+    },
+    {
+      "heading": "Hangi noktada tıkanıp kalırsınız?",
+      "paragraphs": [
+        "İnternet her kapıyı açmaz. Mesela adınızda maddi bir hata varsa veya mahkeme kararı gereken karmaşık bir soyadı tashihi varsa ekran yetersiz kalır.",
+        "Böyle anlarda **resmî başvuru** için doğrudan kuruma gitmek, dilekçe vermek veya dava açmak gerekebilir. e-Devlet sadece ön hazırlık ve belge temini için en büyük yardımcınızdır."
+      ],
+      "bullets": [
+        "Hatalı kayıt düzeltme",
+        "Islak imza zorunluluğu"
+      ]
+    }
+  ],
+  "steps": [
+    "e-Devlet şifrenizle sisteme giriş yapın.",
+    "Arama çubuğuna nüfus işlemlerini yazıp ihtiyacınızı seçin.",
+    "İstediğiniz belgenin türünü ve nedenini belirleyin.",
+    "Barkodlu belgeyi indirip kurumun onayına sunun.",
+    "Adres değişimi yapıyorsanız yeni konut bilgilerini doldurun."
+  ],
+  "documents": [
+    "e-Devlet şifresi",
+    "T.C. kimlik kartı",
+    "Barkodlu nüfus kayıt örneği",
+    "Yerleşim yeri belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Her kurum e-Devlet çıktısını kabul eder mi?",
+      "a": "Çoğu kurum barkodlu belgeyi kabul eder ancak bazı adli makamlar veya dış temsilcilikler ıslak imzalı ya da onaylı suret isteyebilir."
+    },
+    {
+      "q": "Adresimi internetten değiştirebilir miyim?",
+      "a": "Evet, e-Devlet üzerinden boş konut veya kendi üzerinize olan adresler için bildirim yapabilirsiniz."
+    },
+    {
+      "q": "Yabancı mahkeme kararı doğrudan işlenir mi?",
+      "a": "Kararın kesinleşmiş olması, yetkili makamdan çıkması ve Türk kamu düzenine aykırı olmaması şartıyla tescil başvurusu yapılabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "e-devlet-nufus",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

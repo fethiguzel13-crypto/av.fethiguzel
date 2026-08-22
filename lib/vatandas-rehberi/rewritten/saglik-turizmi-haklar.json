@@ -1,0 +1,120 @@
+{
+  "slug": "saglik-turizmi-haklar",
+  "title": "Hasta hakları — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Hasta hakları hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata dan…",
+  "h1": "Hasta hakları",
+  "keywords": [
+    "hasta hakları",
+    "saglik turizmi haklar"
+  ],
+  "category": "Sağlık",
+  "related": [
+    "malpraktis-davasi",
+    "kvkk-basvuru-hakki",
+    "bilgi-edinme-basvurusu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/malpraktis-davasi"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=hasta"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    }
+  ],
+  "lead": "Tedavi veya çalışma sürecinde sağlığınızla ilgili aksaklıklar yaşandığında, haklarınızı ve sigorta kollarından doğan alacaklarınızı bilmeniz gerekir. Asıl mesele, durumun hangi sigorta kolu kapsamında değerlendirildiğidir.",
+  "keyInsight": "Hak kaybı yaşamamak için süreçlerinizi zamanında başlatmalı ve gerekli raporlar ile belgeleri eksiksiz sunmalısınız.",
+  "sections": [
+    {
+      "heading": "Hangi durumlarda hak doğar?",
+      "paragraphs": [
+        "İş kazası, meslek hastalığı, hastalık veya analık hallerinde sigortalılar için çeşitli haklar devreye girer. İş kazası veya meslek hastalığı durumunda geçici iş göremezlik ödeneği verilir ya da sürekli iş göremezlik geliri bağlanabilir.",
+        "Kazanç veya gelir durumuna bağlı olarak analık sigortasından da belirli ödenekler sağlanır. **Yaşama şartı** ve doğum tarihindeki tarife esas alınarak emzirme ödeneği hak sahiplerine ulaştırılır."
+      ],
+      "bullets": [
+        "Geçici iş göremezlik ödeneği",
+        "Sürekli iş göremezlik geliri",
+        "Emzirme ödeneği"
+      ]
+    },
+    {
+      "heading": "İşverenin veya üçüncü kişilerin sorumluluğu nedir?",
+      "paragraphs": [
+        "İş kazası ve meslek hastalığı, işverenin kastı veya iş sağlığı güvenliği kurallarına aykırı hareketleri sonucu meydana gelmişse kurumca yapılan ödemeler işverene ödettirilir. İşverenin sorumluluğunun tespitinde kaçınılmazlık ilkesi de dikkate alınır.",
+        "Sağlık raporu alınması gereken işlerde, bu rapor olmadan veya eldeki rapora aykırı şekilde elverişsiz işte çalıştırma durumunda ödenen ödenekler işverene rücû edilir. **Üçüncü kişilerin kusuru** nedeniyle oluşan durumlarda ise masrafların bir kısmı kusurlu taraflardan tahsil edilir."
+      ],
+      "bullets": [
+        "İşverenin kurallara aykırı hareketi",
+        "Kaçınılmazlık ilkesi",
+        "Üçüncü kişi kusuru"
+      ]
+    },
+    {
+      "heading": "Malûl sayılma şartları nasıldır?",
+      "paragraphs": [
+        "Çalışma gücünün veya meslekte kazanma gücünün belirli bir oranını kaybetmeniz halinde malûllük hükümleri uygulanır. Yetkili sağlık hizmeti sunucularının sağlık kurullarınca düzenlenen raporlar incelemeye alınır.",
+        "İlk defa çalışmaya başladığınız tarihten önce çalışma gücünü kaybettiğiniz sonradan tespit edilirse, bu durum malûllük aylığından yararlanmanıza engel olabilir. **Usûlüne uygun rapor** ve tıbbi belgelerin varlığı bu süreçte kritik önem taşır."
+      ],
+      "bullets": [
+        "Sağlık kurulu raporu",
+        "Çalışma gücü kayıp oranı",
+        "İlk işe başlama tarihi"
+      ]
+    },
+    {
+      "heading": "Ödenek ve prim şartları nelerdir?",
+      "paragraphs": [
+        "Emzirme ödeneğinden yararlanabilmek için sigortalılık statünüze göre doğumdan önceki belirli sürelerde kısa vadeli sigorta kolları primi bildirilmiş veya yatırılmış olması aranır. Genel sağlık sigortası prim borçlarının ödenmiş olması da şartlar arasındadır.",
+        "Sigortalılığı sona eren kişilerin çocuklarının belirli bir süre içinde doğması halinde, geçmiş dönemdeki prim ödeme gün şartlarına bakılarak ödenek hakları değerlendirilir."
+      ],
+      "bullets": [
+        "Kısa vadeli sigorta primi",
+        "Prim borçlarının ödenmesi",
+        "Doğum öncesi süre şartı"
+      ]
+    }
+  ],
+  "steps": [
+    "Sağlık durumunuzu veya iş kazasını yetkili mercilere bildirin.",
+    "Gerekli sağlık raporlarını ve tıbbi belgeleri temin edin.",
+    "Kurum tarafından belirlenen prim ve sigortalılık şartlarını kontrol edin.",
+    "Hak ettiğiniz ödenekler için kurum birimlerine başvurunuzu yapın.",
+    "Süreci ve yapılan ödemeleri düzenli olarak takip edin."
+  ],
+  "documents": [
+    "Sağlık kurulu raporu",
+    "Tıbbi belgeler",
+    "Prim döküm belgesi",
+    "Doğum belgesi"
+  ],
+  "faq": [
+    {
+      "q": "İş kazası geçirdiğimde hangi ödenekleri alabilirim?",
+      "a": "Geçici iş göremezlik süresince günlük ödenek alabilir, şartların oluşması halinde sürekli iş göremezlik gelirinden yararlanabilirsiniz."
+    },
+    {
+      "q": "Emzirme ödeneği almak için hangi şartlar aranır?",
+      "a": "Sigortalılık statünüze göre doğumdan önceki bir yıl içinde belirli sürelerle prim bildirilmiş veya yatırılmış olması, ayrıca prim borcunuzun bulunmaması gerekir."
+    },
+    {
+      "q": "Malûl sayılmak için hangi oran gereklidir?",
+      "a": "Yetkili sağlık kurullarınca düzenlenen raporlar sonucunda çalışma gücü veya meslekte kazanma gücü kayıp oranının kanunda öngörülen seviyede olması şarttır."
+    },
+    {
+      "q": "İşverenin kurallara uymaması ödenekleri nasıl etkiler?",
+      "a": "İşverenin iş güvenliği kurallarına aykırı hareketleri sonucu oluşan kazalarda, kurumca yapılan ödemeler işverene ödettirilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "malpraktis-davasi",
+  "angle": "Hasta hakları",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

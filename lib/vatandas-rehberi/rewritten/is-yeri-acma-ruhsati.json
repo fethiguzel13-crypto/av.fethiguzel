@@ -1,0 +1,106 @@
+{
+  "slug": "is-yeri-acma-ruhsati",
+  "title": "İşyeri açma ruhsatı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İşyeri açma ruhsatı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
+  "h1": "İşyeri açma ruhsatı",
+  "keywords": [
+    "işyeri açma ruhsatı",
+    "is yeri acma ruhsati"
+  ],
+  "category": "İdare",
+  "related": [
+    "cimer-sikayet",
+    "sirket-kurulusu",
+    "belediye-cezasi-itiraz",
+    "zabita-cezasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/cimer-sikayet"
+    },
+    {
+      "label": "Belediye",
+      "href": "/kategori/belediye"
+    },
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-isletme"
+    }
+  ],
+  "lead": "İşyeri açma ruhsatı, faaliyet göstereceğiniz yerin yasal statüsünün tescilidir. Başvurunuzu belediye veya valilik bünyesindeki ilgili birimlere dilekçe ile yapmanız gerekir.",
+  "keyInsight": "Başvurunuzda eksik veya hatalı belge bulunmaması, ruhsatın en geç otuz gün içinde sonuçlanması için kritik şarttır.",
+  "sections": [
+    {
+      "heading": "Başvuru süreci nasıl işler?",
+      "paragraphs": [
+        "Hayalinizi kurduğunuz dükkanı tuttunuz. Kapıdan içeri ilk girdiğinizde heyecanlısınız ancak idari süreçler için hazırlıklı olmalısınız. Ruhsat alabilmek için öncelikle belediye veya valilik bürolarına yazılı bir dilekçe ile müracaat etmeniz şarttır.",
+        "Müracaatınızın ardından idare, sunduğunuz dosyayı incelemeye alır. Eğer evraklarınız tam ve projelere uygunsa, sürecin tamamlanması için **en geç otuz gün** içerisinde ruhsatınız düzenlenir."
+      ],
+      "bullets": [
+        "Dilekçe ile ilgili idareye başvuru.",
+        "İdare tarafından dosya incelemesi.",
+        "Eksik yoksa 30 gün içinde onay."
+      ]
+    },
+    {
+      "heading": "Eksik evrak çıkarsa ne yapılır?",
+      "paragraphs": [
+        "Dosyanızda bir eksiklik veya hata tespit edildiğinde süreç kesintiye uğrar. İdare, bu durumu size **on beş gün** içinde resmi bir yazı ile bildirmek zorundadır.",
+        "Bildirim size ulaştığında telaşlanmayın. Eksiklikleri tamamlayıp tekrar müracaat ettiğinizde, idarenin dosyayı sonuçlandırması için **en geç on beş gün** süresi kalır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hangi belgeler dosyanızda olmalı?",
+      "paragraphs": [
+        "Ruhsat başvurusu sadece bir dilekçeden ibaret değildir. İdare, işyerinizin teknik ve hukuki durumunu görmek ister.",
+        "Dosyanıza eklemeniz gereken temel belgeler arasında tapu senedi, mimari proje, statik proje, elektrik ve tesisat projeleri ile birlikte yerinizi tarif eden kroki yer alır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İmar planı değişikliği sizi nasıl etkiler?",
+      "paragraphs": [
+        "İşyerinizin bulunduğu bölgede imar planı değişiklikleri yapılabilir. Bu planlar belediye meclisince onaylanır ve bir ay süreyle ilan edilir.",
+        "Eğer yapılan plan değişikliğine bir itirazınız varsa, ilan süresi içerisinde bu itiraz hakkınızı kullanabilirsiniz. İtirazlarınız belediye meclisince **on beş gün** içerisinde incelenerek karara bağlanır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İşyerinizin bulunduğu bölgedeki belediyeye veya valilik bürosuna gidin.",
+    "İstenen teknik projeleri ve tapu belgesini eksiksiz hazırlayın.",
+    "Dilekçenizi doldurarak resmi müracaatınızı gerçekleştirin.",
+    "Eksik bildirilirse 15 gün içinde evrakı tamamlayın.",
+    "Ruhsatın çıkması için 30 günlük yasal süreci bekleyin."
+  ],
+  "documents": [
+    "Tapu senedi veya yerine geçen belge",
+    "Mimari proje",
+    "Statik proje",
+    "Elektrik ve tesisat projeleri",
+    "Röperli veya ebatlı kroki"
+  ],
+  "faq": [
+    {
+      "q": "Başvurum ne kadar sürede sonuçlanır?",
+      "a": "Eksiksiz bir başvuruda idarenin karar vermesi için 30 günlük bir süresi vardır."
+    },
+    {
+      "q": "Eksik evrakım varsa ne kadar sürede bildirmeliler?",
+      "a": "İdare, eksik veya hatalı belgeleri müracaat tarihinden itibaren 15 gün içinde size bildirmekle yükümlüdür."
+    },
+    {
+      "q": "İmar planına itiraz süresi ne kadardır?",
+      "a": "Planların askıya çıkmasından itibaren bir aylık ilan süresi içinde itiraz edebilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "cimer-sikayet",
+  "angle": "İşyeri açma ruhsatı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,117 @@
+{
+  "slug": "yargi-giderleri",
+  "title": "Yargılama giderleri — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Yargılama giderleri hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
+  "h1": "Yargılama giderleri",
+  "keywords": [
+    "yargılama giderleri",
+    "yargi giderleri"
+  ],
+  "category": "Usul",
+  "related": [
+    "zamanaşimi-nedir",
+    "dava-harci-nedir",
+    "vekâlet-ucreti-karsi-taraf",
+    "adli-yardim-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/zamanaşimi-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Tarife",
+      "href": "/tarife-guncellemeleri"
+    }
+  ],
+  "lead": "Bir dava açıldığında veya sürerken yapılan masrafların kime yükleneceği, mahkemenin gidişatına ve attığınız hukuki adımlara göre şekillenir. Yanlış kişiye dava açmaktan dava konusunu devretmeye kadar pek çok durum, yargılama giderlerinin adresini bir anda değiştirebilir. Süreci ve sorumlulukları bilerek hareket etmek, yargılama sonunda beklenmedik mali yüklerle karşılaşmanızı önler.",
+  "keyInsight": "Dava sürecinde yapılan taraf değişiklikleri, mal devirleri ve ıslah gibi usul işlemleri, haklı olsanız bile ekstra yargılama giderlerinden müteselsilen veya doğrudan sorumlu olmanıza yol açabilir.",
+  "sections": [
+    {
+      "heading": "Yanlış kişiye dava açarsanız masrafları kim öder?",
+      "paragraphs": [
+        "Adliyeye gidip davanızı açtınız ancak dilekçede tarafı yanlış veya eksik gösterdiğinizi fark ettiniz. Normal şartlarda bir davada taraf değişikliği yapılması karşı tarafın açık rızasına bağlıdır. Ancak yaşadığınız durum kabul edilebilir bir yanılgıya ya da maddi bir hataya dayanıyorsa, hâkim karşı tarafın onayını aramadan taraf değişikliği talebinizi kabul edebilir.",
+        "Bu durumda mahkeme, davanın dışına çıkarılan ve aleyhine dava açılmasına kendisi sebebiyet vermemiş olan kişinin hakkını korur. Yanlışlıkla davaya dahil edilen bu kişi lehine **yargılama giderlerine** karar verilir. Yani dürüstlük kuralına uygun hareket etseniz dahi hatalı adres gösterilen kişinin masrafları üzerinizde kalabilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Dava sürerken mal devredilirse fatura kime kesilir?",
+      "paragraphs": [
+        "Mahkeme devam ederken davalı taraf dava konusunu üçüncü bir kişiye devredebilir. Böyle bir durumla karşılaştığınızda iki seçeneğiniz bulunur: Ya devreden kişi hakkındaki davanızdan vazgeçip davayı yeni malike yöneltirsiniz ya da davanızı devreden kişiye karşı tazminat davasına dönüştürürsünüz.",
+        "Eğer davaya yeni malik üzerinden devam etmeyi seçer ve davayı kazanırsanız, davanın sonundaki yargılama giderlerinden dava konusunu devreden ile devralan kişi **müteselsilen sorumlu** olurlar. Aynı durum davacının malı devretmesi halinde davanın kaybedilmesi durumunda da geçerlidir; devreden ve devralan giderleri birlikte ödemek zorundadır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Davadaki eksikleri düzeltmek ek masraf çıkarır mı?",
+      "paragraphs": [
+        "Dava dilekçenizde veya iddialarınızda bir eksiklik fark ettiğinizde tahkikat sona erene kadar ıslah yoluna başvurabilirsiniz. Üst mahkemelerin bozma veya kaldırma kararlarından sonra dosya ilk derece mahkemesine döndüğünde de tahkikata ilişkin yeni bir işlem yapılıyorsa ıslah hakkınız devam eder.",
+        "Ancak davanızı ıslah etmek tamamen ücretsiz değildir. Yapılan ıslah sebebiyle ortaya çıkan yeni **yargılama giderleri** ile karşı tarafın bu yüzden uğradığı zararların ödenmesi gerekir. Islah talebi sözlü yapılabileceği gibi yazılı olarak da mahkemeye sunulabilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Arabuluculuk tutanağı eksikse davanıza ne olur?",
+      "paragraphs": [
+        "Kanunlarda arabulucuya başvurulması dava şartı olarak düzenlenmişse, arabuluculuk faaliyeti sonunda anlaşamadığınızı gösteren son tutanağın aslını veya onaylı örneğini dava dilekçesine eklemeniz gerekir. Bu belge olmadan açılan davalarda mahkeme hemen dosyayı kapatmaz.",
+        "Mahkeme, eksik tutanağı tamamlamanız için size **bir haftalık kesin süre** verir ve bu sürede sunmazsanız davanın reddedileceğini ihtar eder. İhtarın gereğini yerine getirmezseniz davanız usulden reddedilir. Eğer arabulucuya hiç başvurmadan doğrudan dava açtıysanız, hiçbir işlem yapılmaksızın davanın dava şartı yokluğundan reddine karar verilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Elektronik tebligatta süreler nasıl hesaplanır?",
+      "paragraphs": [
+        "Avukatlar, arabulucular, bilirkişiler, kamu idareleri ve özel hukuk tüzel kişileri gibi birçok kişi ve kurum için elektronik tebligat kullanımı zorunludur. Tebligatların zamanında takibi, yargılama giderleri ve hak kayıpları açısından hayati önem taşır.",
+        "Ulusal Elektronik Tebligat Sistemi üzerinden gönderilen iletiler, muhatabın elektronik adresine ulaştığı tarihi izleyen **beşinci günün sonunda** yapılmış sayılır. Zorunlu bir sebeple elektronik tebligat yapılamaması halinde ise kanunda belirtilen diğer klasik usuller devreye girer."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Dava açmadan önce arabuluculuk zorunluluğu olan bir uyuşmazlığınız varsa arabuluculuk bürosuna başvurarak süreci tamamlayın.",
+    "Arabuluculuk sürecinde anlaşma sağlanamadıysa son tutanağın aslını veya arabulucu onaylı örneğini dava dilekçenize ekleyin.",
+    "Mahkeme tarafından arabuluculuk tutanağını sunmanız için verilen **bir haftalık kesin süre** ihtarını içeren tebligatı aldığınızda süreyi geçirmeden evrakı dosyaya sunun.",
+    "Dava açıldıktan sonra dava konusunu devreder veya devralırsanız, yargılama giderlerinden müteselsilen sorumlu olacağınızı unutmayın.",
+    "Davanızda eksik kalan hususları düzeltmek için tahkikat bitmeden önce ıslah yapın ve doğacak ekstra yargılama giderlerini ödemeyi göze alın."
+  ],
+  "documents": [
+    "Arabuluculuk faaliyeti sonunda düzenlenen anlaşamama son tutanağının aslı veya onaylı örneği",
+    "Dava dilekçesi ve taraf bilgilerini içeren ek belgeler",
+    "Islah talebine ilişkin yazılı dilekçe veya duruşma tutanağı örneği",
+    "Elektronik tebligat adres kaydı ve Ulusal Elektronik Tebligat Sistemi ileti kayıtları"
+  ],
+  "faq": [
+    {
+      "q": "Arabulucuya hiç başvurmadan dava açarsam ne olur?",
+      "a": "Dava şartı olan uyuşmazlıklarda arabulucuya başvurmadan dava açılırsa, mahkeme karşı tarafa tebligat bile çıkarmadan davayı dava şartı yokluğu sebebiyle usulden reddeder."
+    },
+    {
+      "q": "Arabuluculuk son tutanağı dilekçeye eklenmezse ne kadar süre verilir?",
+      "a": "Mahkeme, tutanağın sunulması için davacıya **bir haftalık kesin süre** içeren bir ihtar davetiyesi gönderir. Bu sürede tutanak sunulmazsa dava usulden reddedilir."
+    },
+    {
+      "q": "Dava konusu mal yargılama sürerken satılırsa masrafları kim öder?",
+      "a": "Davacı davayı kazanırsa, dava konusunu devreden ve devralan kişiler yargılama giderlerinden **müteselsilen sorumlu** tutulurlar."
+    },
+    {
+      "q": "Elektronik tebligat bana ulaştığı gün mü yapılmış sayılır?",
+      "a": "Hayır, elektronik yolla yapılan tebligatlar muhatabın adresine ulaştığı tarihi izleyen **beşinci günün sonunda** yapılmış sayılır."
+    },
+    {
+      "q": "Dava açıldıktan sonra taraflar arabulucuya gitmek isterse yargılama durur mu?",
+      "a": "Evet, tarafların birlikte arabulucuya başvuracaklarını beyan etmeleri halinde mahkeme yargılamayı üç ayı geçmemek üzere erteler. Bu süre tarafların başvurusuyla üç aya kadar daha uzatılabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "zamanaşimi-nedir",
+  "angle": "Yargılama giderleri",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

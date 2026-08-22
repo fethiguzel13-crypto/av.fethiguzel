@@ -1,0 +1,113 @@
+{
+  "slug": "sirket-hisse-devri",
+  "title": "Şirket hisse devri — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Şirket hisse devri hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
+  "h1": "Şirket hisse devri",
+  "keywords": [
+    "şirket hisse devri",
+    "sirket hisse devri"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "sirket-kurulusu",
+    "limited-sirket-kurulus",
+    "noter-islemleri"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/sirket-kurulusu"
+    },
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-sirketler"
+    },
+    {
+      "label": "Noter",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Şirketteki paylarınızı elden çıkarmak ya da ortaklık yapısını değiştirmek istediğinizde, kulaktan dolma bilgilerle hareket etmek hak kaybına yol açar. Sürecin **şirket sözleşmesine uygun** yürütülmesi ve ortaklar arası dengelerin gözetilmesi gerekir.",
+  "keyInsight": "Pay devri sırasında diğer ortakların onayını veya ön alım haklarını göz ardı etmek, devir işleminin geçersiz sayılmasına veya tazminat davalarına kapı aralar.",
+  "sections": [
+    {
+      "heading": "Hisse devrinde kimler karar vermeli?",
+      "paragraphs": [
+        "Şirket masasındasınız ve payınızı devretmek istiyorsunuz. Asıl mesele, şirketin türü ve ortaklık yapısıdır.",
+        "Komandit şirketlerde veya özel yapılı ortaklıklarda temel işlemler, yapısal değişiklikler ve pay devri gibi konularda **komanditerler dahil** ilgili ortakların oy hakkı bulunur."
+      ],
+      "bullets": [
+        "Ortaklık sözleşmesindeki özel şartları inceleyin",
+        "Yapısal değişikliklerde oy haklarını kontrol edin"
+      ]
+    },
+    {
+      "heading": "Haklar ve sorumluluklar nasıl korunur?",
+      "paragraphs": [
+        "Hâkimiyetin hukuka aykırı kullanılması veya bağlı şirketin zarara uğratılması durumunda denge mekanizmaları devreye girer.",
+        "Bağlı şirketin kayba uğraması halinde, **denkleştirme yapılmazsa** pay sahipleri zararın tazminini veya paylarının satın alınmasını isteyebilir."
+      ],
+      "bullets": [
+        "Hâkimiyetin kötüye kullanımına dikkat edin",
+        "Zarar durumunda yasal yolları değerlendirin"
+      ]
+    },
+    {
+      "heading": "Devir sonrası süreçte nelere dikkat etmeli?",
+      "paragraphs": [
+        "Şirket yapısındaki değişimler sadece ortakları değil, finansal yükümlülükleri ve ticari sicil kayıtlarını da doğrudan ilgilendirir.",
+        "Yönetim organında ve tescilli şirket yetkililerinde meydana gelen değişikliklerin **ticaret siciline bildirilmesi** zorunludur."
+      ],
+      "bullets": [
+        "Ticaret sicili kayıtlarını güncel tutun",
+        "Yasal bildirimleri atlamayın"
+      ]
+    },
+    {
+      "heading": "Süreç tıkandığında tasfiye yolu nedir?",
+      "paragraphs": [
+        "Ortakların anlaşamadığı veya fesih kararının alındığı hallerde ortaklığın tasfiyesi gündeme gelir.",
+        "Uzlaşma sağlanamazsa mahkeme eliyle **tasfiye memuru atanır** ve süreç resmi kurallara göre yürütülür."
+      ],
+      "bullets": [
+        "Mahkeme sürecini takip edin",
+        "Tasfiye memurunun yetkilerini bilin"
+      ]
+    }
+  ],
+  "steps": [
+    "Şirket ana sözleşmesini ve pay devri kısıtlamalarını inceleyin.",
+    "Ortakların ve yetkili organların onayını alın.",
+    "Devir sözleşmesini tarafların iradesine uygun şekilde hazırlayın.",
+    "Gerekli bildirimleri ve tescil işlemlerini tamamlayın.",
+    "Şirket içi sicil ve defterleri güncelleyin."
+  ],
+  "documents": [
+    "Şirket ana sözleşmesi",
+    "Pay devir sözleşmesi",
+    "Ortaklar kurulu karar defteri",
+    "Ticaret sicil tasdiknamesi",
+    "İmza sirküleri"
+  ],
+  "faq": [
+    {
+      "q": "Her ortak payını dilediği gibi devredebilir mi?",
+      "a": "Şirket sözleşmesinde yer alan kısıtlamalara ve ortakların onay şartlarına dikkat etmek gerekir."
+    },
+    {
+      "q": "Devir sırasında diğer ortakların onayı şart mı?",
+      "a": "Şirketin türüne ve ana sözleşmedeki maddelere göre ortakların onay veya oy hakkı gerekebilir."
+    },
+    {
+      "q": "Devir işlemi sicile tescil edilmezse ne olur?",
+      "a": "İşlemin üçüncü kişilere karşı hüküm ifade etmesi ve resmiyet kazanması için tescil şarttır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "sirket-kurulusu",
+  "angle": "Şirket hisse devri",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

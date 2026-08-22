@@ -1,0 +1,117 @@
+{
+  "slug": "sirket-kurulusu",
+  "title": "Limited / Anonim Şirket Nasıl Kurulur?",
+  "description": "Şirket nasıl kurulur? (LTD / A.Ş.) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
+  "h1": "Şirket nasıl kurulur? (LTD / A.Ş.)",
+  "keywords": [
+    "limited şirket kuruluşu",
+    "anonim şirket nasıl kurulur",
+    "MERSİS"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "bono-vade",
+    "sirket-borclarinda-ortak",
+    "anonim-sirket-yonetim-kurulu",
+    "ticari-is-karinesi",
+    "fatura-itiraz-suresi",
+    "cari-hesap-sozlesmesi",
+    "acente-sozlesmesi",
+    "tasima-sozlesmesi",
+    "sirket-hisse-devri",
+    "ticari-defterler",
+    "unvan-tescili",
+    "cek-karsiliksiz-ceza"
+  ],
+  "links": [
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-sirketler"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Yeni bir iş kurarken şirket tipini seçip ana sözleşmeyi hazırlarsınız. Sermayenin taahhüt edilmesi ve ticaret sicilinde imzaların atılmasıyla süreç tamamlanır.",
+  "keyInsight": "Esas sözleşmede sermayenin tamamının ödeneceğinin şartsız taahhüt edilmesi ve imzaların yetkili huzurunda atılması gerekir.",
+  "sections": [
+    {
+      "heading": "Şirket kurma iradesi nasıl açıklanır?",
+      "paragraphs": [
+        "Masaya oturdunuz ve ortaklığın yapısını belirlediniz. Kanuna uygun şekilde düzenlenen esas sözleşmeyle birlikte kurucular iradelerini ortaya koyar.",
+        "Sermayenin tamamı ödenmek üzere **şartsız olarak** taahhüt edilir. Bu aşamada imzaların noterce onaylanması veya ilgili sicil görevlilerinin huzurunda atılması şarttır."
+      ],
+      "bullets": [
+        "Ana sözleşmenin hazırlanması",
+        "İmzaların yetkili huzurunda atılması"
+      ]
+    },
+    {
+      "heading": "Hangi kurumların izni gerekir?",
+      "paragraphs": [
+        "Faaliyet alanlarına göre bazı şirketlerin kuruluşu bakanlık iznine bağlanır. İlgili tebliğde belirlenen anonim şirketler için bu denetim kanunun emredici hükümlerine uygunluk amacıyla yapılır.",
+        "Bunun dışındaki alanlarda **herhangi bir makamın** ayrıca izni aranmaz. İnceleme yalnızca hukuka aykırılık bulunup bulunmadığı yönünden yürütülür."
+      ],
+      "bullets": [
+        "Bakanlık iznine tabi alanlar",
+        "Emredici hüküm denetimi"
+      ]
+    },
+    {
+      "heading": "Sermaye taahhüdü nasıl yapılır?",
+      "paragraphs": [
+        "Ortaklar sermaye paylarını ödeme borcunu baştan kabul eder. Taahhütlerin eksiksiz ve şartsız verilmesi şirket tüzel kişiliğinin doğması için zorunludur.",
+        "Kanunda belirtilen usullere uyularak pay bedellerinin ödenmesi ve taahhüt süreçleri eksiksiz yürütülür."
+      ],
+      "bullets": [
+        "Şartsız sermaye taahhüdü",
+        "Pay bedellerinin ödenmesi"
+      ]
+    },
+    {
+      "heading": "Tescil anında nelere dikkat edilir?",
+      "paragraphs": [
+        "Tüm belgeler hazırlandıktan sonra tescil aşamasına geçilir. İlgili sicil müdürlüğünde işlemler tamamlandığında şirket resmi olarak kurulmuş sayılır.",
+        "Kuruluş sırasında değerli kâğıt bedeli gibi kalemlerde **istisnai kurallar** uygulanabilir, bu nedenle evrakın eksiksiz sunulması gerekir."
+      ],
+      "bullets": [
+        "Sicil müdürlüğünde tescil",
+        "Değerli kâğıt muafiyetleri"
+      ]
+    }
+  ],
+  "steps": [
+    "LTD veya A.Ş. türüne karar verip ortak yapısını belirleyin.",
+    "Ana sözleşmeyi kanuna uygun şekilde hazırlayın.",
+    "Sermayenin tamamını ödemeyi şartsız taahhüt edin.",
+    "İmzaları noter veya ticaret sicili müdürü huzurunda atın.",
+    "Gerekli durumlarda bakanlık izni için başvurun."
+  ],
+  "documents": [
+    "ana sözleşme",
+    "kimlik belgesi",
+    "sermaye taahhüt evrakı",
+    "ticaret sicil başvurusu"
+  ],
+  "faq": [
+    {
+      "q": "Şirket hangi an kurulmuş sayılır?",
+      "a": "Kurucuların esas sözleşmede imza atarak şirket kurma iradesini açıklamasıyla kurulur."
+    },
+    {
+      "q": "Her şirket için bakanlık izni şart mı?",
+      "a": "Hayır, sadece tebliğle belirlenen faaliyet alanlarındaki anonim şirketler bakanlık izniyle kurulur."
+    },
+    {
+      "q": "İmzalar nerede onaylanmalıdır?",
+      "a": "İmzalar noter onaylı olabileceği gibi ticaret sicili müdürü veya yardımcısı huzurunda da atılabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "sirket-kurulusu",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

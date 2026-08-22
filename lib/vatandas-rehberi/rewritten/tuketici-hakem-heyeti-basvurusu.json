@@ -1,0 +1,118 @@
+{
+  "slug": "tuketici-hakem-heyeti-basvurusu",
+  "title": "Tüketici Hakem Heyeti: Başvuru Sınırı, Yetki ve Ayıplı Mal Hakları",
+  "description": "Tüketici hakem heyetine hangi tutara kadar başvurulur, nereye başvurulur, ayıplı malda hangi haklar kullanılır? TKHK m.11 ve m.68 çerçevesinde.",
+  "h1": "Tüketici hakem heyetine nasıl başvurulur?",
+  "keywords": [
+    "tüketici hakem heyeti",
+    "tüketici şikayeti",
+    "ayıplı mal",
+    "tüketici hakem heyeti parasal sınır",
+    "ücretsiz onarım",
+    "bedel iadesi"
+  ],
+  "category": "Tüketici",
+  "related": [
+    "zamanasimi-sureleri"
+  ],
+  "links": [
+    {
+      "label": "TKHK m.11 — Tüketicinin seçimlik hakları",
+      "href": "/mevzuat/tkhk/madde-11"
+    },
+    {
+      "label": "TKHK m.68 — Hakem heyetine başvuru",
+      "href": "/mevzuat/tkhk/madde-68"
+    }
+  ],
+  "lead": "Tüketici hakem heyeti, küçük uyuşmazlıklar için kurulmuş zorunlu bir duraktır. Satıcıyla yaşadığınız sorunu çözmek için bu heyete başvurmak, mahkemeye gitmeden önce atmanız gereken ilk adımdır.",
+  "keyInsight": "Uyuşmazlık değerinin o yıl için belirlenen güncel parasal sınırın altında olması, hakem heyetine başvuru yapabilmeniz için temel şarttır.",
+  "sections": [
+    {
+      "heading": "Hangi uyuşmazlıklar hakem heyetine gider?",
+      "paragraphs": [
+        "Yaşadığınız sorunun değeri, kanunla belirlenen yıllık parasal sınırın altında kalıyorsa hakem heyetine başvurmak zorundasınız. Bu sınırın üzerindeki uyuşmazlıklarda ise doğrudan tüketici mahkemesine gitmeniz gerekir.",
+        "Parasal sınır sabit değildir, her yıl yeniden değerleme oranına göre güncellenir. Başvuru yapmadan önce mutlaka o yıl için açıklanan güncel tutarı kontrol etmelisiniz."
+      ],
+      "bullets": [
+        "Sınır altı değerler için zorunlu durak.",
+        "Sınır üstü değerler için doğrudan mahkeme.",
+        "Yıllık güncel tutarı kontrol etme zorunluluğu."
+      ]
+    },
+    {
+      "heading": "Nereye başvuru yapmalısınız?",
+      "paragraphs": [
+        "Kanun size seçim hakkı tanır. Başvurunuzu ister yerleşim yerinizdeki, isterseniz tüketici işleminin gerçekleştiği yerdeki heyete yapabilirsiniz.",
+        "Eğer bulunduğunuz ilçede bir tüketici hakem heyeti yoksa, endişelenmeyin. Başvurunuzu ilçe kaymakamlığına teslim edebilirsiniz; onlar evrakınızı yetkili heyete iletecektir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Ayıplı malda dört seçimlik hakkınız",
+      "paragraphs": [
+        "Satın aldığınız ürün ayıplıysa, satıcının 'önce tamir edelim' teklifine boyun eğmek zorunda değilsiniz. Kanun size dört ayrı seçenek sunar ve tercihi tamamen size bırakır.",
+        "Satıcı, sizin seçtiğiniz talebi yerine getirmekle yükümlüdür. Bu haklarınızı yalnızca satıcıya değil, dilerseniz üretici veya ithalatçıya karşı da kullanabilirsiniz."
+      ],
+      "bullets": [
+        "Sözleşmeden dönerek bedel iadesi isteme.",
+        "Ayıp oranında satış bedelinden indirim yapılması.",
+        "Ücretsiz onarım talep etme.",
+        "Ürünün ayıpsız bir misliyle değiştirilmesi."
+      ]
+    },
+    {
+      "heading": "Başvuru süreci nasıl ilerler?",
+      "paragraphs": [
+        "Başvurunuzu yazılı olarak yapabileceğiniz gibi, Tüketici Bilgi Sistemi (TÜBİS) üzerinden e-Devlet şifrenizle kolayca oluşturabilirsiniz. Elektronik ortamda yapılan başvurular, evrak takibini çok daha pratik hale getirir.",
+        "Dosyanızın temelini fatura, garanti belgesi ve servis formları oluşturur. Başvuruda hangi seçimlik hakkı kullandığınızı net bir şekilde belirtmeniz, sürecin lehinize sonuçlanması için **kritik önem taşır**."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Karar sonrası ne olur?",
+      "paragraphs": [
+        "Hakem heyetinin verdiği karar taraflar için bağlayıcıdır. Karar size tebliğ edildikten sonra, eğer sonucu beğenmezseniz **iki hafta içinde** tüketici mahkemesine itiraz hakkınız bulunur.",
+        "Süreyi kaçırırsanız karar kesinleşir ve icra edilebilir hale gelir. Bu yüzden tebligatları yakından takip etmelisiniz."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Uyuşmazlık değerini güncel parasal sınırla karşılaştırın.",
+    "Yerleşim yerinizdeki veya işlemin yapıldığı yerdeki heyeti belirleyin.",
+    "Seçimlik haklarınızdan birini net bir dille yazın.",
+    "Fatura, servis formu ve varsa yazışmaları sisteme ekleyin.",
+    "TÜBİS üzerinden başvurunuzu tamamlayıp takip numarasını kaydedin.",
+    "Karar sonrası tebligatı bekleyip itiraz süresini takip edin."
+  ],
+  "documents": [
+    "Fatura veya satış fişi",
+    "Garanti belgesi",
+    "Servis formu veya arıza raporu",
+    "Satıcıyla yapılan yazışmalar"
+  ],
+  "faq": [
+    {
+      "q": "Parasal sınırı nasıl öğrenirim?",
+      "a": "Ticaret Bakanlığı'nın her yıl başında yayımladığı güncel tebliğlerden veya Tüketici Bilgi Sistemi ekranından o yılın sınırını öğrenebilirsiniz."
+    },
+    {
+      "q": "Satıcı 'değişim yapamam' derse ne yapmalıyım?",
+      "a": "Kanun, tüketicinin seçtiği hakkı yerine getirme yükümlülüğünü satıcıya vermiştir. Satıcının pazarlık hakkı yoktur, hakem heyetine başvurarak talebinizi resmileştirebilirsiniz."
+    },
+    {
+      "q": "Hakem heyeti başvurumu reddedebilir mi?",
+      "a": "Hayır, heyetler kendilerine yapılan başvuruları gereğini yapmak üzere kabul etmekle yükümlüdür."
+    },
+    {
+      "q": "İtiraz süresini kaçırırsam ne olur?",
+      "a": "İki haftalık itiraz süresini kaçırdığınızda karar kesinleşir ve artık mahkemeye itiraz hakkınız kalmaz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.93,
+  "voice": "narrative",
+  "source": "gemini"
+}

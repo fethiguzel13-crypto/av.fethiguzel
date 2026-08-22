@@ -1,0 +1,114 @@
+{
+  "slug": "cerez-aydinlatma",
+  "title": "Çerez politikası zorunlu mudur — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Çerez politikası zorunlu mudur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
+  "h1": "Çerez politikası zorunlu mudur?",
+  "keywords": [
+    "çerez aydınlatması",
+    "cookie KVKK"
+  ],
+  "category": "Kişisel Veri",
+  "related": [
+    "kvkk-basvuru-hakki",
+    "kvkk-aydinlatma-metni",
+    "kvkk-acik-riza"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kvkk-basvuru-hakki"
+    },
+    {
+      "label": "KVKK",
+      "href": "/kategori/kvkk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=%C3%A7erez"
+    }
+  ],
+  "lead": "Web sitenizi açtığınız anda arka planda çalışan çerezler kişisel veri topluyorsa, ziyaretçiye karşı aydınlatma yapmanız yasal bir zorunluluktur. Bu yükümlülük, sitenizi ziyaret eden herkesin verilerinin hangi amaçla işlendiğini bilmesini sağlar.",
+  "keyInsight": "Çerezler aracılığıyla veri toplarken aydınlatma yükümlülüğünü yerine getirmemek, doğrudan idari para cezası riskini doğurur.",
+  "sections": [
+    {
+      "heading": "İnternet sitesi açtığınızda ne başlar?",
+      "paragraphs": [
+        "Bilgisayarınızdan veya telefonunuzdan bir web sitesine girdiğinizde, tarayıcınıza küçük metin dosyaları kaydedilir. Bu dosyalar yani çerezler, siteyi tekrar ziyaret ettiğinizde sizi hatırlamak ve site deneyimini kişiselleştirmek için kullanılır. Ancak bu süreçte toplanan her bilgi, kişisel veri niteliği taşıyabilir.",
+        "Kişisel verilerin elde edilmesi sırasında **veri sorumlusu** veya yetkilendirdiği kişi, ilgili kişilere bilgi vermekle yükümlüdür. Sitenizin arka planda topladığı veriler yasal kapsamdaysa, ziyaretçinin bu durumdan haberdar edilmesi şarttır."
+      ],
+      "bullets": [
+        "Çerezler tarayıcıya kaydedilir",
+        "Kişisel veri toplanması başlar",
+        "Aydınlatma şartı devreye girer"
+      ]
+    },
+    {
+      "heading": "Ziyaretçiye tam olarak ne anlatılmalı?",
+      "paragraphs": [
+        "Bir site kurduğunuzda veya işlettiğinizde, kullanıcıların karşısına çıkarak açık bir bilgilendirme yapmanız gerekir. Bu bilgilendirmenin içeriği kanun tarafından net bir şekilde çizilmiştir.",
+        "Ziyaretçiye kimliğinizi, verilerin **hangi amaçla** işleneceğini ve bu verilerin kimlere aktarılabileceğini açıkça söylemelisiniz. Ayrıca veri toplama yönteminizi, hukuki sebebinizi ve kullanıcının kanuni haklarını da bu metinde mutlaka belirtmelisiniz."
+      ],
+      "bullets": [
+        "Veri sorumlusunun kimliği",
+        "İşleme amacı ve aktarılan yerler",
+        "Toplama yöntemi ve hukuki sebep"
+      ]
+    },
+    {
+      "heading": "Aydınlatma yapılmazsa ne olur?",
+      "paragraphs": [
+        "Sitenizde çerezler aracılığıyla veri topluyor ancak ziyaretçilerinize gerekli yasal bilgileri sunmuyorsanız, kanuni ihlal gerçekleştirmiş olursunuz. Kurallara uymamanın maddi yaptırımları oldukça ağırdır.",
+        "Aydınlatma yükümlülüğünü yerine getirmeyenler hakkında **idari para cezası** uygulanır. Bu durum, web sitenizin veya işletmenizin bütçesini sarsacak mali risklerle karşı karşıya kalması anlamına gelir."
+      ],
+      "bullets": [
+        "Yasal yükümlülüğün ihlali",
+        "Para cezası riski"
+      ]
+    },
+    {
+      "heading": "Süreç nasıl yönetilmeli?",
+      "paragraphs": [
+        "Veri işlemeye başlamadan önce gerekli tüm idari ve teknik altyapıyı hazırlamanız gerekir. Eğer gerçek veya tüzel kişi olarak veri işliyorsanız, Veri Sorumluları Siciline **kaydolmak** zorunda olabilirsiniz.",
+        "Sisteminizde veya topladığınız verilerin kapsamına ilişkin bilgilerde bir değişiklik meydana gelirse, bu durum derhâl ilgili kuruma bildirilmelidir. Sürecin her aşamasında şeffaf olmak en güvenli yoldur."
+      ],
+      "bullets": [
+        "Sicile kayıt zorunluluğu",
+        "Değişikliklerin bildirilmesi"
+      ]
+    }
+  ],
+  "steps": [
+    "Web sitenizde kullanılan çerezlerin türlerini ve topladığı veri kategorilerini tespit edin.",
+    "Veri sorumlusu kimliği ve iletişim bilgilerini belirleyin.",
+    "Verilerin işlenme amaçlarını ve aktarıldığı tarafları netleştirin.",
+    "Ziyaretçilerin kolayca ulaşabileceği bir aydınlatma metni hazırlayın.",
+    "Sistem değişikliklerini ve güncellemeleri düzenli olarak takip edin."
+  ],
+  "documents": [
+    "Aydınlatma Metni",
+    "Veri Sorumlusu Kimlik Bilgileri",
+    "Veri İşleme Amaçları Listesi",
+    "Aktarım Alıcı Grupları Listesi"
+  ],
+  "faq": [
+    {
+      "q": "Her web sitesi çerez aydınlatması yapmak zorunda mı?",
+      "a": "Siteniz üzerinden kişisel veri niteliği taşıyan bilgiler toplanıyorsa, aydınlatma yükümlülüğünü yerine getirmeniz zorunludur."
+    },
+    {
+      "q": "Aydınlatma metninde hangi bilgiler mutlaka yer almalıdır?",
+      "a": "Veri sorumlusunun kimliği, verilerin işlenme amacı, aktarıldığı yerler, toplama yöntemi ve kullanıcının yasal hakları metinde bulunmalıdır."
+    },
+    {
+      "q": "Yükümlülüğe uyulmazsa ne gibi bir ceza kesilir?",
+      "a": "Aydınlatma yükümlülüğünü yerine getirmeyenler hakkında kanunda öngörülen aralıklarda idari para cezası uygulanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kvkk-basvuru-hakki",
+  "angle": "Çerez",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

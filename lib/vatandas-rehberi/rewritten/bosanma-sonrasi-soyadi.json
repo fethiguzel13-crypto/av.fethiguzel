@@ -1,0 +1,115 @@
+{
+  "slug": "bosanma-sonrasi-soyadi",
+  "title": "Boşanınca soyadı ne olur — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Boşanınca soyadı ne olur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada…",
+  "h1": "Boşanınca soyadı ne olur?",
+  "keywords": [
+    "boşanma soyadı",
+    "eski soyada dönüş"
+  ],
+  "category": "Aile",
+  "related": [
+    "bosanma-davasi-nasil-acilir",
+    "nufus-kayit-ornegi",
+    "e-devlet-nufus"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/bosanma-davasi-nasil-acilir"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    },
+    {
+      "label": "NHK",
+      "href": "/kategori/nhk"
+    }
+  ],
+  "lead": "Boşandığınızda evlilikle aldığınız soyadı düşer ve kural olarak evlenmeden önceki soyadınıza geri dönersiniz.",
+  "keyInsight": "Kocanın soyadını taşımaya devam etmek için menfaatinizin bulunduğunu ispatlayıp hâkimden ayrıca izin istemelisiniz.",
+  "sections": [
+    {
+      "heading": "Evlilik bitince hangi soyadı kalır?",
+      "paragraphs": [
+        "Mahkeme salonundan çıktınız. Evlilik birliği sona erdiğinde en sık merak edilen konuların başında kimlikte hangi soyadının yazacağı gelir.",
+        "Boşanan kadın, evlenme ile kazandığı kişisel durumunu korur; ancak **evlenmeden önceki soyadını** yeniden alır. Bu durum yasal bir zorunluluk olarak kendiliğinden hayata geçer."
+      ],
+      "bullets": [
+        "Kişisel durum korunur",
+        "Önceki soyadına dönüş başlar"
+      ]
+    },
+    {
+      "heading": "Kocanın soyadını taşımaya devam edebilir misiniz?",
+      "paragraphs": [
+        "Eski eşinizin soyadını taşımak sizin için hayatî bir önem taşıyor olabilir. Ancak kanun bu durumu sıkı şartlara bağlamıştır.",
+        "Boşandığınız kocasının soyadını kullanmakta **menfaatiniz bulunduğu** ve bunun kocaya bir zarar vermeyeceği ispatlanırsa, isteminiz üzerine hâkim bu adı taşımanıza izin verebilir."
+      ],
+      "bullets": [
+        "Menfaat ispatı gerekir",
+        "Kocaya zarar vermemelidir"
+      ]
+    },
+    {
+      "heading": "İzin sonradan kaldırılabilir mi?",
+      "paragraphs": [
+        "Mahkemeden eski eşin soyadını kullanma izni aldınız. Hayat akmaya devam ederken koşullar değişebilir.",
+        "Koca, **koşulların değişmesi hâlinde** bu iznin kaldırılmasını mahkemeden isteyebilir. Şartlar ortadan kalktığında soyadı kararı yeniden değerlendirilebilir."
+      ],
+      "bullets": [
+        "Koşullar değişebilir",
+        "İznin kaldırılması istenebilir"
+      ]
+    },
+    {
+      "heading": "Bekârlık soyadı ve özel durumlar nelerdir?",
+      "paragraphs": [
+        "Her boşanma tablosu birbirinden farklıdır. Daha önce dul olanlar için kanun özel bir yol öngörmüştür.",
+        "Eğer kadın evlenmeden önce dul idiyse hâkimden **bekârlık soyadını** taşımasına izin verilmesini isteyebilir."
+      ],
+      "bullets": [
+        "Dul olanlar için başvuru hakkı",
+        "Hâkimden izin isteme"
+      ]
+    }
+  ],
+  "steps": [
+    "Boşanma kararının kesinleşmesini bekleyin.",
+    "Eski soyadınıza dönme iradenizi mahkemede veya sonrasında belirtin.",
+    "Kocanın soyadı için menfaatiniz varsa hâkimden izin talep edin.",
+    "Karar sonrası nüfus müdürlüğünde kimlik ve kayıt işlemlerini güncelleyin."
+  ],
+  "documents": [
+    "boşanma kararı",
+    "kesinleşme şerhi",
+    "nüfus cüzdanı",
+    "nüfus kayıt örneği"
+  ],
+  "faq": [
+    {
+      "q": "Boşanınca otomatik olarak eski soyadımıza mı döneriz?",
+      "a": "Evet, boşanma hâlinde kadın evlenmeden önceki soyadını yeniden alır."
+    },
+    {
+      "q": "Eski eşimin soyadını kullanmaya devam etmek için ne lazımdır?",
+      "a": "Soyadını kullanmakta menfaatiniz olduğunu ve bunun kocaya bir zarar vermeyeceğini ispatlayıp hâkimden izin almalısınız."
+    },
+    {
+      "q": "Koca bu izni sonradan iptal ettirebilir mi?",
+      "a": "Evet, koşulların değişmesi hâlinde koca bu iznin kaldırılmasını isteyebilir."
+    },
+    {
+      "q": "Evlenmeden önce dul olanlar hangi soyadını seçebilir?",
+      "a": "Hâkimden bekârlık soyadını taşımasına izin verilmesini isteyebilirler."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "bosanma-davasi-nasil-acilir",
+  "angle": "Soyadı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

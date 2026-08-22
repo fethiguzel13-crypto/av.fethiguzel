@@ -1,0 +1,101 @@
+{
+  "slug": "istirak-nafakasi-nedir",
+  "title": "İştirak Nafakası Nedir? Çocuk Nafakası",
+  "description": "İştirak nafakası nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
+  "h1": "İştirak nafakası nedir?",
+  "keywords": [
+    "iştirak nafakası",
+    "çocuk nafakası nedir"
+  ],
+  "category": "Aile",
+  "related": [
+    "nafaka-davasi-nedir",
+    "cocuk-nafaka-artirim",
+    "velayet-davasi",
+    "nafaka-odenmezse"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/nafaka-davasi-nedir"
+    },
+    {
+      "label": "Nafaka",
+      "href": "/hesaplama/nafaka"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    }
+  ],
+  "lead": "Boşanma davası açtınız veya evliliği bitirdiniz. Asıl mesele, çocukların bakım ve eğitim masraflarının her iki ebeveynin **malî gücü oranında** karşılanmasıdır.",
+  "keyInsight": "Nafaka miktarını belirlerken sadece geliriniz değil, çocuğun yaşı ve güncel ihtiyaçları hep birlikte tartıya konur.",
+  "sections": [
+    {
+      "heading": "Evler ayrılırken çocukların masrafı kime kalır?",
+      "paragraphs": [
+        "Ailenizle aynı çatı altında yaşamadığınız o gün, hayatınızın en keskin virajlarından biridir. Eşinizle yolları ayırma kararı aldınız ancak ortak hayatın en tatlı meyvesi olan çocuklar sizinle aynı evde kalmaya devam ediyor ya da düzeniniz kökten değişiyor.",
+        "İşte tam bu noktada, çocuğun barınma, beslenme ve okul masrafları ayağınıza bir yük gibi dolanmasın diye kanun size bir güvence sunar. Çocuk kimin yanında kalırsa kalsın, diğer ebeveyn elini taşın altına koymak zorundadır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Miktar nasıl hesaplanır?",
+      "paragraphs": [
+        "Hakim karşısına çıktığınızda masadaki en önemli dosya bütçe hesaplarıdır. Hakim, gelirlerinizi ve giderlerinizi dikkatle inceler.",
+        "Miktar belirlenirken tarafların **malî gücü oranında** bir payet yapılır. Yani zenginlik ya da fakirlik tek başına ölçü değildir; herkes gücü yettiği kadar çocuğun hayatına omuz vermekle yükümlüdür."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Şartlar değişirse ne yapmalı?",
+      "paragraphs": [
+        "Hayat akıp gider; bugün kazandığınız para yarın aynı olmayabilir ya da çocuğun masrafları okula başlarken katlanabilir. Sabit kalan hiçbir şey yoktur.",
+        "Tarafların malî durumlarının değişmesi veya **hakkaniyetin gerektirdiği hâllerde** iradın artırılması ya da azaltılmasına karar verilebilir. Hakim, gelecekteki olası ekonomik dalgalanmaları da göz önüne alarak bir düzen kurabilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Bu destek ne zaman son bulur?",
+      "paragraphs": [
+        "Çocuk büyür, okul biter, kendi ayakları üzerinde durmaya başlar. Bu destek sonsuza kadar süren bir taahhüt değildir.",
+        "Destek yükümlülüğü, çocuğun ergin (reşit) olmasına kadar devam eder. Çocuk kendi kazancıyla geçinebilecek duruma geldiğinde bu yardımlaşma zinciri hukuken tamamlanır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Boşanma veya ayrılık davası dilekçenizde çocuk için masraf talebinde bulunun.",
+    "Gelir ve giderlerinizi gösteren belgeleri mahkemeye sunun.",
+    "Çocuğun okul, sağlık ve bakım masraflarını listeleyin.",
+    "Hakimin belirleyeceği orana göre ödemeleri düzenli olarak yapın.",
+    "Ekonomik durumunuzda esaslı bir değişiklik olursa artırım veya indirim isteyin."
+  ],
+  "documents": [
+    "Nüfus kayıt örneği",
+    "Gelir durumunu gösteren bordro veya belgeler",
+    "Çocuğun eğitim ve sağlık giderlerini kanıtlayan faturalar",
+    "Kira kontratı veya barınma gideri belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "Çocuk kimde kalırsa bu hak doğar?",
+      "a": "Çocuk kimin yanında kalıyorsa, diğer ebeveyn malî gücü oranında bu masrafa katılır."
+    },
+    {
+      "q": "Miktar sonradan değiştirilebilir mi?",
+      "a": "Tarafların malî durumlarının değişmesi veya hakkaniyetin gerektirdiği hâllerde artırılması veya azaltılmasına karar verilebilir."
+    },
+    {
+      "q": "Ödeme şekli nasıl olur?",
+      "a": "Mahkeme tarafından irat biçiminde düzenli ödenmesine karar verilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "nafaka-davasi-nedir",
+  "angle": "Çocuk iştirak nafakası tanımı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "kanun-maddesi-nasil-okunur",
+  "title": "Kanun Maddesi Nasıl Okunur? Şerh Rehberi",
+  "description": "Kanun maddesi nasıl okunur ve yorumlanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portal…",
+  "h1": "Kanun maddesi nasıl okunur ve yorumlanır?",
+  "keywords": [
+    "kanun maddesi",
+    "kanun maddesi okuma",
+    "madde şerhi nedir"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "iik-madde-62",
+    "is-kanunu-madde-17",
+    "is-kanunu-madde-25",
+    "durustluk-kurali",
+    "anayasa-maddesi-nedir",
+    "tbk-madde-13",
+    "tbk-madde-125",
+    "tbk-madde-49",
+    "tbk-madde-112",
+    "tmk-madde-166",
+    "tmk-madde-499",
+    "tck-madde-86"
+  ],
+  "links": [
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara"
+    }
+  ],
+  "lead": "Kanun maddeleri, ilk bakışta karmaşık görünse de aslında mantıklı bir sırayla örülmüş kurallar bütünüdür. Doğru okumak için metnin fıkralarını ve istisnalarını adım adım incelemek gerekir.",
+  "keyInsight": "Bir kanun maddesini okurken sadece ilk cümleye bakmak yanıltıcıdır; çünkü asıl sonuçlar genellikle sonraki fıkralardaki atıflarda ve istisnalarda gizlidir.",
+  "sections": [
+    {
+      "heading": "Metni parçalara ayırarak okuyun",
+      "paragraphs": [
+        "Kanun maddeleri genellikle fıkra adı verilen numaralandırılmış küçük paragraflardan oluşur. Her fıkra konunun başka bir yönünü ele alır.",
+        "Örneğin duruşma sırasındaki yasakları inceleyen bir kuralda, ilk fıkra genel yasağı koyarken, sonraki fıkralar bu yasağa uyulmadığında hangi **diğer kuralların** devreye gireceğini söyler."
+      ],
+      "bullets": [
+        "Önce birinci fıkradaki ana kuralı bulun.",
+        "Sonraki fıkralarda cezaları veya istisnaları arayın."
+      ]
+    },
+    {
+      "heading": "Atıflara ve diğer maddelere dikkat edin",
+      "paragraphs": [
+        "Kanun maddeleri kendi başına bir adada yaşamaz; sıklıkla başka maddelere veya kanunlara göz kırpar. Metin içinde geçen diğer madde numaraları aslında kuralın sınırlarını çizer.",
+        "Bir kuralın uygulanması başka bir kanunun veya **farklı bir maddenin** hükmüne bağlanmışsa, o metne de mutlaka bakmanız gerekir."
+      ],
+      "bullets": [
+        "Metin içindeki madde numaralarını not edin.",
+        "Saklı tutulan diğer hükümlerin ne anlama geldiğini araştırın."
+      ]
+    },
+    {
+      "heading": "İstisnaları ve özel durumları ayıklayın",
+      "paragraphs": [
+        "Her kuralın bir uygulanış biçimi ve istisnası vardır. Metin içinde geçen 'ancak', 'hâlinde' veya 'saklı kalmak kaydıyla' gibi ifadeler, kuralın esnediği yerleri gösterir.",
+        "Örneğin bir işlemin yapılacağı söylenir ancak **başka bir şart** gerçekleşmişse kural değişebilir. Bu ayrımları kaçırmamak hayat kurtarır."
+      ],
+      "bullets": [
+        "Ancak ve hâlinde kelimelerinden sonra gelen cümleleri ayrıca inceleyin.",
+        "Genel kural ile istisnayı birbirine karıştırmayın."
+      ]
+    },
+    {
+      "heading": "Belirsiz ifadelerin kimin aleyhine çalışacağını bilin",
+      "paragraphs": [
+        "Metinler bazen birden çok anlama gelebilir veya yeterince açık olmayabilir. Kanun koyucu bu durumda taraflardan birini koruyan dengeler gözetmiştir.",
+        "Genel kuralları hazırlayan tarafın hazırladığı metin açık değilse, **zayıf olan tarafın** lehine bir yorum yapılarak denge sağlanır."
+      ],
+      "bullets": [
+        "Anlaşılması güç ifadelerde kimin korunduğuna bakın.",
+        "Düzenleyenin değil, karşı tarafın haklarını gözeten yorumu arayın."
+      ]
+    }
+  ],
+  "steps": [
+    "İlgili kanun maddesini numarasına göre bulun.",
+    "Madde metnini fıkra fıkra ayırarak baştan sona okuyun.",
+    "Metin içinde geçen diğer kanun ve madde atıflarını işaretleyin.",
+    "Kuralın istisnalarını ve 'ancak' ile başlayan cümleleri ayrıca not edin.",
+    "Eğer belirsiz bir ifade varsa lehe olan yorum kuralını uygulayın."
+  ],
+  "documents": [
+    "Resmî Gazete'de yayımlanan güncel kanun metni",
+    "İlgili mahkeme veya kurum kararları",
+    "Madde içinde atıf yapılan diğer kanun maddeleri"
+  ],
+  "faq": [
+    {
+      "q": "Kanun maddesindeki yabancı veya eski kelimeleri nasıl anlamalıyım?",
+      "a": "Hukuk dilindeki bazı terimler günlük dilden farklı olabilir. Metnin bütünlüğüne bakarak kelimenin o bağlamda ne ifade ettiğini değerlendirmek gerekir."
+    },
+    {
+      "q": "Bir maddede birden fazla fıkra varsa hangisi önceliklidir?",
+      "a": "Fıkralar genellikle mantıksal bir sırayla düzenlenir; birinci fıkra temel kuralı koyarken takip eden fıkralar detayları ve istisnaları belirler."
+    },
+    {
+      "q": "Atıf yapılan başka bir maddeyi bulamazsam ne olur?",
+      "a": "Eksik parça ile karar vermek hak kaybına yol açabilir. Atıf yapılan kanun maddesine de mutlaka ulaşarak bütünsel bir okuma yapmalısınız."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "kanun-maddesi-nasil-okunur",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "kvkk-basvuru-ve-sikayet",
+  "title": "KVKK Başvurusu: Verilerimi Nasıl Sildiririm, Nereye Şikâyet Ederim?",
+  "description": "Kişisel verilerinizin silinmesini nasıl istersiniz, veri sorumlusu kaç günde cevap vermek zorunda, Kurula şikâyet süresi nedir? KVKK m.11, 13 ve 14 çerçevesinde.",
+  "h1": "Kişisel veri başvurusu ve şikâyet",
+  "keywords": [
+    "kvkk başvurusu",
+    "kişisel verilerin silinmesi",
+    "veri sorumlusuna başvuru",
+    "kvkk şikayet",
+    "kişisel veri hakları",
+    "unutulma hakkı"
+  ],
+  "category": "Kişisel Veri",
+  "related": [
+    "zamanasimi-sureleri"
+  ],
+  "links": [
+    {
+      "label": "KVKK m.11 — İlgili kişinin hakları",
+      "href": "/mevzuat/kvkk/madde-11"
+    },
+    {
+      "label": "KVKK m.13 — Veri sorumlusuna başvuru",
+      "href": "/mevzuat/kvkk/madde-13"
+    },
+    {
+      "label": "KVKK m.14 — Kurula şikâyet",
+      "href": "/mevzuat/kvkk/madde-14"
+    }
+  ],
+  "lead": "Kişisel verilerinizle ilgili bir sorun yaşadığınızda, doğrudan şikâyet yoluna gitmek yerine önce veri sorumlusunun kapısını çalmalısınız. Haklarınızı korumak için izlemeniz gereken yol haritası oldukça nettir.",
+  "keyInsight": "Veri sorumlusuna başvuru yapmadan Kurula şikâyette bulunamazsınız; bu ön koşul atlanırsa başvurunuz reddedilir.",
+  "sections": [
+    {
+      "heading": "Hangi haklara sahipsiniz?",
+      "paragraphs": [
+        "Kişisel verileriniz üzerinde kanunun size tanıdığı geniş bir yetki alanı vardır. Verilerinizin işlenip işlenmediğini öğrenmek, işlenmişse bunların amacını ve kimlerle paylaşıldığını sorgulamak ilk hakkınızdır.",
+        "Eksik veya hatalı verilerin düzeltilmesini, artık gerekli olmayan verilerin silinmesini veya yok edilmesini talep edebilirsiniz. Ayrıca, otomatik sistemler tarafından hakkınızda verilen kararlara itiraz etme hakkınız da saklıdır."
+      ],
+      "bullets": [
+        "Veri işlenip işlenmediğini öğrenme",
+        "İşlenme amacını ve üçüncü kişileri bilme",
+        "Hatalı verilerin düzeltilmesini isteme",
+        "Verilerin silinmesini veya yok edilmesini talep etme"
+      ]
+    },
+    {
+      "heading": "İlk durak: Veri sorumlusu",
+      "paragraphs": [
+        "Bir sorun fark ettiğinizde ilk yapmanız gereken, verinizi işleyen kurum veya kişiye doğrudan başvurmaktır. Bu başvuru, talebinizi kayıt altına almanız için zorunludur.",
+        "Veri sorumlusu, başvurunuza **en geç otuz gün içinde** cevap vermekle yükümlüdür. Bu işlem kural olarak ücretsizdir; ancak özel bir maliyet doğarsa ücret talep edilebilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kurula şikâyet süreci",
+      "paragraphs": [
+        "Veri sorumlusundan gelen cevap sizi tatmin etmediyse veya hiç cevap alamadıysanız, ikinci aşamaya geçersiniz. Artık Kurula şikâyet hakkınız doğmuştur.",
+        "Şikâyet için **cevabı öğrendiğiniz tarihten itibaren otuz gün** içerisinde harekete geçmelisiniz. Eğer cevap gelmiyorsa, başvuru tarihinizden itibaren altmış günlük süreyi asla geçirmemelisiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İspatın önemi",
+      "paragraphs": [
+        "Süreler, başvurunuzun veri sorumlusuna ulaştığı tarihten itibaren işlemeye başlar. Bu yüzden başvurunuzu mutlaka ispat edilebilir bir yöntemle yapmalısınız.",
+        "Noter, KEP veya kurumun kendi başvuru formları üzerinden aldığınız bir takip numarası, ileride yaşanabilecek hak kayıplarının önüne geçer."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Hangi hakkınızı kullanacağınızı netleştirin.",
+    "Veri sorumlusunun başvuru kanalını bulun.",
+    "Talebinizi yazılı veya belirlenen yöntemle iletin.",
+    "Başvuru tarihini kanıtlayan belgeyi saklayın.",
+    "Otuz gün boyunca cevap bekleyin.",
+    "Cevap gelmez veya olumsuz olursa, süreyi kaçırmadan Kurula şikâyet edin."
+  ],
+  "documents": [
+    "Kimlik belgesi",
+    "Veri sorumlusuna yapılan başvurunun bir kopyası",
+    "Başvuru tarihini gösteren teyit belgesi veya kargo gönderim fişi",
+    "Varsa veri sorumlusundan gelen ret cevabı"
+  ],
+  "faq": [
+    {
+      "q": "Doğrudan Kurula şikâyet edebilir miyim?",
+      "a": "Hayır, önce veri sorumlusuna başvurup bu süreci tüketmeniz şarttır."
+    },
+    {
+      "q": "Veri sorumlusu hiç cevap vermezse ne yapmalıyım?",
+      "a": "Sessizlik de bir şikâyet sebebidir; başvuru tarihinden itibaren altmış günlük süre dolmadan Kurula başvurmalısınız."
+    },
+    {
+      "q": "Başvuru ücretli midir?",
+      "a": "Kural olarak ücretsizdir. Ancak işlem ekstra bir maliyet gerektiriyorsa ücret istenebilir."
+    },
+    {
+      "q": "Şikâyet ettikten sonra tazminat isteyebilir miyim?",
+      "a": "Evet, kişilik haklarınız ihlal edildiyse genel hükümlere göre tazminat davası açma hakkınız saklıdır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.92,
+  "voice": "narrative",
+  "source": "gemini"
+}

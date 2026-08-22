@@ -1,0 +1,105 @@
+{
+  "slug": "muhür-sokme-sucu",
+  "title": "Mühür sökme — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Mühür sökme hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "Mühür sökme",
+  "keywords": [
+    "mühür sökme",
+    "muhür sokme sucu"
+  ],
+  "category": "İmar",
+  "related": [
+    "kentsel-donusum-nedir",
+    "yapi-tatil-tutanağı",
+    "kacak-yapi-cezasi",
+    "savcilik-suc-duyurusu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kentsel-donusum-nedir"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    },
+    {
+      "label": "TCK",
+      "href": "/kategori/tck-genel"
+    }
+  ],
+  "lead": "İnşaatınızın mühürlenmesi, belediyenin o anki durumu tespit edip çalışmaları durdurmasıdır. Bu mühür, yapının ruhsatsız veya projeye aykırı olduğunu resmi olarak belgeler.",
+  "keyInsight": "Mühürlenen inşaata devam etmek veya mührü bozmak, mühür sökme suçunu oluşturarak hakkınızda cezai işlem başlatılmasına yol açar.",
+  "sections": [
+    {
+      "heading": "Mühür neden ve nasıl takılır?",
+      "paragraphs": [
+        "Belediye veya valilik ekipleri, ruhsatsız bir inşaat başladığını veya mevcut inşaatın projesine aykırı ilerlediğini fark eder. Bu durum tutanakla kayıt altına alınır ve yapı mühürlenerek inşaat derhal durdurulur.",
+        "Yapı tatil zaptının inşaat alanına asılması, size yapılan resmi tebligat yerine geçer. Ayrıca bu durum, tapu kayıtlarınıza işlenmek üzere tapu dairesine bildirilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Mühürlendikten sonra ne yapmalı?",
+      "paragraphs": [
+        "Mühürlenen yapınız için **bir ay içinde** ilgili idareye başvurarak ruhsat almalı ya da yapınızı ruhsata uygun hale getirmelisiniz. Bu süreçte inşaata devam etmeniz kesinlikle yasaktır.",
+        "İnceleme sonucunda eksikliklerin giderildiği veya yasal ruhsatın alındığı anlaşılırsa, mühür idare tarafından kaldırılır. Ancak bu şartlar sağlanmazsa ruhsatınız iptal edilir ve yapının yıkım süreci başlar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Mührü sökmek ne anlama gelir?",
+      "paragraphs": [
+        "Mühür, devletin o alandaki inşaatı durdurma iradesini temsil eder. Mührü sökerek veya bozarak inşaata devam etmeniz, durumu düzeltmek yerine yeni ve ağır bir hukuki sorun yaratır.",
+        "Mühür sökme eylemi gerçekleştiğinde, sadece imar mevzuatı değil, ceza hukuku kapsamında da sorumluluğunuz doğar. Bu yüzden mühürlü alana müdahale etmekten kaçınmalısınız."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yıkım süreci nasıl ilerler?",
+      "paragraphs": [
+        "Eğer bir aylık sürede aykırılığı gidermezseniz, belediye encümeni veya il idare kurulu kararıyla yıkım kararı alınır. Yıkım masrafları doğrudan yapı sahibinden tahsil edilir.",
+        "Yıkım kararı alınmasına rağmen işlem yapılmayan yapılar için idarenin sorumluluğu devam eder. **İdari para cezaları** ise aykırılığın tespit edildiği tarihten itibaren belirlenen usullerle uygulanır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Yapı tatil zaptını gördüğünüzde inşaatı hemen durdurun.",
+    "Belediyenin ilgili biriminden aykırılığın detaylarını öğrenin.",
+    "Bir ay içinde ruhsat başvurusu yapın veya projeye aykırılıkları giderin.",
+    "İyileştirme işlemlerini tamamladıktan sonra mührün resmen kaldırılması için idareye başvurun.",
+    "Mühür kaldırılmadan inşaata kesinlikle başlamayın."
+  ],
+  "documents": [
+    "Yapı tatil zaptı",
+    "Ruhsat başvuru dilekçesi",
+    "Tapu kayıt örneği",
+    "İmar durumu belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Mühür sökülürse ne olur?",
+      "a": "Mühür sökme suçu oluşur ve hakkınızda adli süreç başlatılır."
+    },
+    {
+      "q": "Mühürlü inşaata devam etmenin cezası var mı?",
+      "a": "Evet, mühür sökme suçu işlenmiş sayılır ve idari para cezalarının yanı sıra adli yaptırımlarla karşılaşırsınız."
+    },
+    {
+      "q": "Mühür ne zaman kaldırılır?",
+      "a": "Yapı ruhsata uygun hale getirildiğinde veya ruhsat alındığında idare tarafından kaldırılır."
+    },
+    {
+      "q": "Tebligat yapılmadı, mühür geçersiz mi?",
+      "a": "Hayır, yapı tatil zaptının inşaat yerine asılması tebligat yerine geçer."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kentsel-donusum-nedir",
+  "angle": "Mühür sökme",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

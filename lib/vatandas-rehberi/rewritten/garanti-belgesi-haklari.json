@@ -1,0 +1,116 @@
+{
+  "slug": "garanti-belgesi-haklari",
+  "title": "Garanti süresi içinde ne talep edilir — Vatandaş Rehberi | Av. Fethi G",
+  "description": "Garanti süresi içinde ne talep edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
+  "h1": "Garanti süresi içinde ne talep edilir?",
+  "keywords": [
+    "garanti belgesi hakları",
+    "garanti iade değişim"
+  ],
+  "category": "Tüketici",
+  "related": [
+    "tuketici-hakem-heyeti",
+    "ayip-mal-iade",
+    "mesafeli-satis-cayma"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tuketici-hakem-heyeti"
+    },
+    {
+      "label": "TKHK",
+      "href": "/kategori/tkhk"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    }
+  ],
+  "lead": "Aldığınız ürün kısa sürede bozulduğunda elinizde güçlü yasal imkanlar vardır. Satıcı veya üretici bu süreçte sorumluluktan kaçamaz.",
+  "keyInsight": "Onarım hakkını kullandıktan sonra mal tekrar arızalanırsa veya tamir süresi aşılırsa, satıcı talebinizi reddedemez.",
+  "sections": [
+    {
+      "heading": "Garanti belgesi nasıl başlar?",
+      "paragraphs": [
+        "Yeni bir ürün aldınız ve kutusunu açtınız. Üretici veya ithalatçılar bu ürün için bir garanti belgesi düzenlemek zorundadır.",
+        "Bu belgenin eksiksiz şekilde hazırlanıp size teslim edilmesi sorumluluğu satıcıya aittir. Garanti süresi malın teslim tarihi ile başlar."
+      ],
+      "bullets": [
+        "Teslim tarihiyle başlar",
+        "Satıcı belgeyi vermek zorundadır"
+      ]
+    },
+    {
+      "heading": "Seçimlik haklar ne zaman değişir?",
+      "paragraphs": [
+        "Ürünü onarıma verdiniz ancak aynı arıza tekrar etti. Bu durumda ilk seçeneğiniz olan onarım yerine diğer kanuni haklarınızı kullanabilirsiniz.",
+        "Tamir için gereken sürenin aşılması veya ürünün **tamirinin mümkün bulunmadığı** anlaşıldığında satıcı talebinizi kabul etmek zorundadır."
+      ],
+      "bullets": [
+        "Onarım hakkı kullanılmış olmalıdır",
+        "Arıza tekrarlarsa haklar değişir"
+      ]
+    },
+    {
+      "heading": "Kimler sorumluluk taşır?",
+      "paragraphs": [
+        "Seçimlik hak talebiniz yerine getirilmediğinde süreç tek bir kişiyle sınırlı kalmaz. Satıcı, üretici ve ithalatçı bu durumlarda **müteselsilen sorumludur**.",
+        "İthalatçının ticari faaliyeti sona erse bile bakım ve onarım yükümlülüğü devam eder."
+      ],
+      "bullets": [
+        "Satıcı ve üretici birlikte sorumludur",
+        "İthalatçı değişse de hizmet sürer"
+      ]
+    },
+    {
+      "heading": "İhtiyari garanti nedir?",
+      "paragraphs": [
+        "Kanuni haklarınız saklı kalmak kaydıyla size sunulan ek imkanlar ihtiyari garanti kapsamına girer. Bu taahhüt yazılı olarak veya kalıcı veri saklayıcısı ile verilmelidir.",
+        "İlave taahhütler süresince sizden herhangi bir masraf talep edilemez ve verilen tüm sözler bağlayıcıdır."
+      ],
+      "bullets": [
+        "Yazılı verilmek zorundadır",
+        "Ek masraf istenemez"
+      ]
+    }
+  ],
+  "steps": [
+    "Ürünün teslim tarihini ve garanti belgesini kontrol edin.",
+    "Arıza durumunda ürünü yetkili servise veya satıcıya ulaştırın.",
+    "Seçimlik haklarınızdan onarım seçeneğini kullanın.",
+    "Arıza tekrarlarsa veya tamir süresi aşılırsa diğer haklarınızı talep edin.",
+    "Talebiniz reddedilirse satıcı ve üreticiye birlikte başvurun."
+  ],
+  "documents": [
+    "Garanti belgesi",
+    "Satış faturası",
+    "Servis teslim fişi",
+    "Kalıcı veri saklayıcısı kayıtları"
+  ],
+  "faq": [
+    {
+      "q": "Garanti süresi ne zaman başlar?",
+      "a": "Garanti süresi malın size teslim edildiği tarihten itibaren başlar."
+    },
+    {
+      "q": "Onarılan ürün yine bozulursa ne olur?",
+      "a": "Onarım hakkını kullandıktan sonra mal tekrar arızalanırsa diğer seçimlik haklarınızı kullanabilirsiniz; satıcı bu talebi reddedemez."
+    },
+    {
+      "q": "İthalatçı firmaya ulaşılamazsa haklarım yanar mı?",
+      "a": "Hayır, ithalatçının faaliyetinin sona ermesi durumunda garanti süresi boyunca satıcı, üretici ve yeni ithalatçı müteselsilen sorumludur."
+    },
+    {
+      "q": "İhtiyari garanti için ücret ödenir mi?",
+      "a": "İhtiyari garanti taahhüdü süresince, taahhüt edilen hakların kullanılması nedeniyle tüketiciden masraf talep edilemez."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tuketici-hakem-heyeti",
+  "angle": "Garanti",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

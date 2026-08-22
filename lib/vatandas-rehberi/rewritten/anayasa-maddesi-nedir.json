@@ -1,0 +1,111 @@
+{
+  "slug": "anayasa-maddesi-nedir",
+  "title": "Anayasa maddesi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Anayasa maddesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
+  "h1": "Anayasa maddesi",
+  "keywords": [
+    "anayasa maddesi",
+    "anayasa maddesi nedir"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "kanun-maddesi-nasil-okunur",
+    "mevzuat-nasil-aranir",
+    "idari-dava-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kanun-maddesi-nasil-okunur"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    },
+    {
+      "label": "İçtihat",
+      "href": "/icthat"
+    }
+  ],
+  "lead": "Mahkeme salonundasınız veya resmi bir iş yürütüyorsunuz; kanun maddelerinin sınırlarını bilmek hak kayıplarını önler. Kuralların yazılı olduğu metinler, süreçlerin hangi esaslara göre yürüyeceğini belirler.",
+  "keyInsight": "Resmi metinlerde yazmayan hiçbir süre veya sınırlamayı kendi varsayımlarınıza göre uygulamayın.",
+  "sections": [
+    {
+      "heading": "Zamanın ve takvimin sınırı nedir?",
+      "paragraphs": [
+        "Adliye koridorlarında işiniz var ve takvimi hesaplıyorsunuz. Hukuk Muhakemeleri Kanunu, adli tatilin başlangıç ve bitiş tarihlerini net bir şekilde çizer.",
+        "Bu **yirmi temmuzda başlar** ve ağustos ayının son gününde biter. Yeni adli yıl ise eylülün ilk günü hareketlenir."
+      ],
+      "bullets": [
+        "Adli tatil aralığı sabittir.",
+        "Yeni yıl eylülde başlar."
+      ]
+    },
+    {
+      "heading": "Salon içinde kayıt alırken nelere dikkat etmeli?",
+      "paragraphs": [
+        "Duruşma salonunda telefonunuzu çıkarıp anı yakalamak isteyebilirsiniz. Ancak kanun bu konuda son derece katı kurallar koyar.",
+        "Duruşma sırasında **fotoğraf çekilemez** ve hiçbir şekilde ses veya görüntü kaydı yapılamaz. Yargılamanın zorunlu kıldığı istisnai haller hariç bu kurala uymak zorunludur."
+      ],
+      "bullets": [
+        "Kayıt ve yayın yasağı vardır.",
+        "Açık izin olmadan paylaşılamaz."
+      ]
+    },
+    {
+      "heading": "Uzman görüşü ve bilirkişi seçimi nasıl yapılır?",
+      "paragraphs": [
+        "Çözümü hukuk dışı, özel veya teknik bilgi gerektiren durumlarda bilirkişiye başvurulur. Mahkemeler bu kişileri belirli listeler üzerinden görevlendirir.",
+        "Bölge adliye mahkemelerinin yargı çevreleri esas alınarak hazırlanan **listelerdeki kişiler** arasından seçim yapılır. Kamu görevlilerine ise kendi kurumlarıyla ilgili işlerde görev verilemez."
+      ],
+      "bullets": [
+        "Bölge listeleri esas alınır.",
+        "Kamu görevlilerine kendi kurumunda görev verilmez."
+      ]
+    },
+    {
+      "heading": "Kira artışlarında ve sözleşmelerde oranlar neye göre belirlenir?",
+      "paragraphs": [
+        "Ev sahibi veya kiracı olarak masaya oturdunuz. Yeni dönemde ödenecek kira bedeli belirlenirken belirli bir endeks sınırına uyulması gerekir.",
+        "Tarafların anlaşması, bir önceki kira yılında tüketici fiyat endeksindeki **oniki aylık ortalamalara göre** değişim oranını geçemez. Beş yılı aşan durumlarda ise hakim hakkaniyete göre karar verir."
+      ],
+      "bullets": [
+        "TÜFE ortalaması üst sınırdır.",
+        "Beş yılda bir bedel yeniden uyarlanabilir."
+      ]
+    }
+  ],
+  "steps": [
+    "Adli tatil tarihlerini ve resmi takvimi dikkate alarak sürelerinizi hesaplayın.",
+    "Duruşma salonunda kesinlikle fotoğraf, ses veya görüntü kaydı yapmaktan kaçının.",
+    "Özel uzmanlık gerektiren konularda yetkili kurulların hazırladığı listelerden bilirkişi talep edin.",
+    "Kira artış oranlarını belirlerken tüketici fiyat endeksindeki on iki aylık ortalamaları baz alın."
+  ],
+  "documents": [
+    "Dava dosyası tutanakları",
+    "Kira sözleşmesi",
+    "Bilirkişi listeleri",
+    "Mahkeme kararları"
+  ],
+  "faq": [
+    {
+      "q": "Adli tatil hangi tarih aralığını kapsar?",
+      "a": "Her yıl yirmi temmuzda başlar ve otuz bir ağustosta sona erer."
+    },
+    {
+      "q": "Duruşmada ses veya görüntü kaydı almak serbest midir?",
+      "a": "Hayır, duruşma sırasında fotoğraf çekilemez ve hiçbir şekilde ses veya görüntü kaydı yapılamaz."
+    },
+    {
+      "q": "Kira artışlarında hangi oran baz alınır?",
+      "a": "Bir önceki kira yılının tüketici fiyat endeksindeki oniki aylık ortalamalara göre değişim oranını geçemez."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kanun-maddesi-nasil-okunur",
+  "angle": "Anayasa maddesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "emanet-sozlesmesi",
+  "title": "Emanet sözleşmesi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Emanet sözleşmesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
+  "h1": "Emanet sözleşmesi",
+  "keywords": [
+    "emanet sözleşmesi",
+    "emanet sozlesmesi"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "temerrut-faizi-nedir",
+    "kira-teminati-iadesi",
+    "hukuk-davasi-nasil-acilir",
+    "tbk-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/temerrut-faizi-nedir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=emanet"
+    }
+  ],
+  "lead": "Emanet bıraktığınız eşyanın geri alınması veya zarar görmesi durumunda haklarınızı bilmeniz, telafisi zor kayıpları önler. Sözleşmenin hukuki niteliği, sorumlulukları ve zamanaşımı kurallarını netleştirdik.",
+  "keyInsight": "Borçlunun ağır kusurundan sorumlu olmayacağına ilişkin önceden yapılan anlaşmalar kesin olarak hükümsüzdür.",
+  "sections": [
+    {
+      "heading": "Emanet eşyayı geri istediğinizde ne olur?",
+      "paragraphs": [
+        "Tatil için şehir dışına çıkarken veya taşınma sürecinde değerli eşyalarınızı güvendiğiniz birine bıraktınız. Zamanı gelip eşyanızı geri almak istediğinizde karşı tarafın bahaneleriyle karşılaşabilirsiniz. İşte bu noktada aradaki hukuki bağın niteliği önem kazanır.",
+        "Emanet edilen eşyanın güvenle saklanması ve istenildiğinde iade edilmesi esastır. Karşı taraf eşyaya zarar verdiğinde veya geri vermekten kaçındığında, sorumluluk kuralları devreye girer."
+      ],
+      "bullets": [
+        "Eşya aynen iade edilmelidir.",
+        "Zarar durumunda kusur tespiti aranır."
+      ]
+    },
+    {
+      "heading": "Sorumsuzluk anlaşmaları geçerli midir?",
+      "paragraphs": [
+        "Eşyayı teslim ederken karşı taraf size \"Hiçbir sorumluluk kabul etmem\" yazılı bir kağıt imzalatmak isteyebilir. Bu tür önceden yapılan **sorumsuzluk anlaşmaları** her zaman hukuken geçerli değildir.",
+        "Kanun, borçlunun **ağır kusurundan** sorumlu olmayacağına ilişkin önceden yapılan anlaşmaları kesin olarak hükümsüz sayar. Eşyaya kasıtlı veya ağır bir ihmalle zarar verilmişse, bu imzalar sizi korumasız bırakmaz."
+      ],
+      "bullets": [
+        "Ağır kusur sorumluluğu kaldırılamaz.",
+        "Önceden yapılan bazı muafiyetler geçersizdir."
+      ]
+    },
+    {
+      "heading": "Borç nasıl ortadan kalkar?",
+      "paragraphs": [
+        "Emanet ilişkisi sona erdiğinde taraflar alacak ve vereceklerini karşılıklı olarak sonlandırabilir. Bu işlem için kanunen belirlenmiş şekil şartlarına uyma zorunluluğu bulunmaz.",
+        "Borcu doğuran işlem şekle bağlı olsa bile, taraflar **şekle bağlı olmaksızın** yapacakları ibra sözleşmesiyle borcu tamamen veya kısmen ortadan kaldırabilir."
+      ],
+      "bullets": [
+        "İbra sözleşmesi yazılı olmak zorunda değildir.",
+        "Borç kısmen de sona erdirilebilir."
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırınca ne olur?",
+      "paragraphs": [
+        "Haklarınızı aramak için sonsuz bir zamanınız yoktur. Emanet ilişkisinden veya benzer hukuki durumlardan doğan uyuşmazlıklarda süreler hak kaybı yaratabilir.",
+        "Kanun belirli alanlardaki alacaklar için **beş yıllık zamanaşımı** süresi öngörmüştür. Bu süre geçtikten sonra hukuki yollarla hak aramak oldukça zorlaşır."
+      ],
+      "bullets": [
+        "Zaman aşımı hak düşürücü etki yapabilir.",
+        "Süresi içinde harekete geçmek şarttır."
+      ]
+    }
+  ],
+  "steps": [
+    "Emanet verdiğiniz eşyaların yazılı bir listesini yapın.",
+    "Karşı taraftan eşyanın teslim alındığına dair imza alın.",
+    "İade talebinizi net ve anlaşılır bir şekilde iletin.",
+    "Zarar veya kayıp varsa durumu tespit edin.",
+    "Hak arama sürelerini dikkate alarak hukuki süreci başlatın."
+  ],
+  "documents": [
+    "Emanet sözleşmesi veya tutanağı",
+    "Eşyanın mülkiyetini gösteren fatura veya belgeler",
+    "Teslim anına ait yazışmalar veya mesajlar",
+    "Zararı gösteren fotoğraflar"
+  ],
+  "faq": [
+    {
+      "q": "Emanet veren kişi eşyasını her zaman geri alabilir mi?",
+      "a": "Evet, hukuki olarak emanet edilen eşya, hak sahibinin istemesi durumunda iade edilmelidir."
+    },
+    {
+      "q": "Sorumsuzluk sözleşmesi imzaladıysam hiç hak iddia edemez miyim?",
+      "a": "Karşı tarafın ağır kusuru veya kasti davranışı varsa, önceden yapılan sorumsuzluk anlaşmaları geçersizdir."
+    },
+    {
+      "q": "İbra sözleşmesi nedir?",
+      "a": "Borcun tarafların anlaşmasıyla tamamen veya kısmen ortadan kaldırılmasını sağlayan sözleşmedir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "temerrut-faizi-nedir",
+  "angle": "Emanet sözleşmesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

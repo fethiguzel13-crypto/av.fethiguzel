@@ -1,0 +1,112 @@
+{
+  "slug": "genel-vekaletname-risk",
+  "title": "Genel vekâletname riskleri — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Genel vekâletname riskleri hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
+  "h1": "Genel vekâletname riskleri",
+  "keywords": [
+    "genel vekâletname riskleri",
+    "genel vekaletname risk"
+  ],
+  "category": "Usul",
+  "related": [
+    "noter-islemleri",
+    "vekaletname-azli",
+    "tapu-devri-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/noter-islemleri"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "Noter",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Noterden genel vekâletname verirken atacağınız imza, tüm mal varlığınızı ve haklarınızı başkasına devretmeniz anlamına gelebilir. Bu belge, doğru kullanılmadığında büyük maddi kayıplara ve hukuki çıkmazlara yol açar.",
+  "keyInsight": "Genel vekâletname, sınırları net çizilmediği sürece vekile sınırsız yetki tanır ve bu durum ciddi suistimallere açık kapı bırakır.",
+  "sections": [
+    {
+      "heading": "Noterde her yetkiyi vermek neden tehlikelidir?",
+      "paragraphs": [
+        "Güvendiğiniz birine işlerinizi kolaylaştırması için genel vekâletname çıkarırsınız. Asıl sorun, bu belgenin içeriğinin ne kadar geniş olduğudur. Sadece tapu işlemleri için düşünülen bir belge, gayrimenkul satışı veya borçlanma gibi kritik yetkileri de kapsayabilir.",
+        "Vekil aracılığıyla takip edilen davalarda, vekilin davaya vekâlet ehliyetine sahip olması ve usulüne uygun düzenlenmiş bir vekâletnamesinin bulunması şarttır. Ancak bu yetkinin dozu iyi ayarlanmalıdır; aksi takdirde hak ararken mal varlığınızdan edilebilirsiniz."
+      ],
+      "bullets": [
+        "Geniş yetkiler kontrolsüz risk doğurur",
+        "İmza yetkisi kötüye kullanılabilir"
+      ]
+    },
+    {
+      "heading": "Hangi yetkiler mutlaka sınırlandırılmalıdır?",
+      "paragraphs": [
+        "Genel vekâletname düzenlenirken her işleme onay vermek büyük bir hatadır. Taşınmaz satışı, banka hesaplarından para çekme veya şirket kurma gibi işlemler mutlaka özel olarak ve ayrı ayrı düzenlenmelidir.",
+        "Kanuni temsilin söz konusu olduğu hâllerde, temsilcinin gerekli niteliğe sahip bulunması ve sınırların net olması gerekir. Yetki belgesi eline geçen kişi, habersizce mal varlığınızı elden çıkarabilir."
+      ],
+      "bullets": [
+        "Satış yetkisi tek kalemde verilmemeli",
+        "Banka işlemleri sınırlandırılmalı"
+      ]
+    },
+    {
+      "heading": "Vekaleti kötüye kullananlara karşı ne yapılır?",
+      "paragraphs": [
+        "Güvendiğiniz kişi yetkisini aşarak mülklerinizi sattığında veya borçlandığında hukuki süreç başlar. Ancak bu aşamada zararı telafi etmek oldukça güç ve uzun bir yoldur.",
+        "Davacının dava açmakta hukuki yararının bulunması gerekir. Vekalet görevinin kötüye kullanılması durumunda mahkemeye başvuru yapılırken ispat yükü ve delil toplama süreci titizlikle yürütülmelidir."
+      ],
+      "bullets": [
+        "Kötüye kullanımda zaman kaybetmeyin",
+        "Deliller eksiksiz toplanmalı"
+      ]
+    },
+    {
+      "heading": "Yanınızda hangi belgeler ve önlemler olmalı?",
+      "paragraphs": [
+        "Notere gitmeden önce hangi kurumlarda ve hangi işler için vekalet vereceğinizi netleştirin. İşiniz bittiğinde veya güvendiğiniz kişiyle yollarınız ayrıldığında **vekaletten azil** işlemini derhal yapmalısınız.",
+        "Usulüne uygun düzenlenmiş belgenin bir suretini mutlaka saklayın. İleride doğabilecek uyuşmazlıklarda hangi yetkilerin verildiği bu belge üzerinden incelenir."
+      ],
+      "bullets": [
+        "Azil hakkınızı unutmayın",
+        "Suretleri mutlaka saklayın"
+      ]
+    }
+  ],
+  "steps": [
+    "Noterde vekalet verirken sadece ilgili işe odaklanan yetkiler seçin",
+    "Genel ifadelere ve sınırsız yetki maddelerine onay vermeyin",
+    "Vekalet verdiğiniz kişinin hareketlerini düzenli olarak kontrol edin",
+    "Gerekli gördğiniz an noter aracılığıyla azilname düzenleyin",
+    "Azil kararını ilgili kurumlara ve vekile derhal bildirin"
+  ],
+  "documents": [
+    "Nüfus cüzdanı",
+    "Mevcut vekaletname sureti",
+    "Azilname belgesi",
+    "Tapu ve banka işlem dökümleri"
+  ],
+  "faq": [
+    {
+      "q": "Genel vekâletname süresiz mi geçerlidir?",
+      "a": "Siz azledene kadar veya vekalet veren ya da alan hayatını kaybedene kadar geçerliliğini korur."
+    },
+    {
+      "q": "Vekaleti iptal etmek için noter şart mı?",
+      "a": "Evet, azil işlemi noter aracılığıyla yapılır ve vekile tebliğ edilir."
+    },
+    {
+      "q": "Vekil benim imzamla borç yapabilir mi?",
+      "a": "Geniş yetkiler içeren genel vekâletnamelerde vekil sizin adınıza borçlanma yetkisine sahip olabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "noter-islemleri",
+  "angle": "Genel vekâletname riskleri",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

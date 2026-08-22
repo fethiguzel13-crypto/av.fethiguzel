@@ -1,0 +1,111 @@
+{
+  "slug": "ayip-mal-iade",
+  "title": "Ayıplı malda iade hakkı nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Ayıplı malda iade hakkı nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
+  "h1": "Ayıplı malda iade hakkı nedir?",
+  "keywords": [
+    "ayıplı mal iade",
+    "ayıplı mal hakları"
+  ],
+  "category": "Tüketici",
+  "related": [
+    "tuketici-hakem-heyeti",
+    "abonelik-iptali-tuketici",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tuketici-hakem-heyeti"
+    },
+    {
+      "label": "TKHK",
+      "href": "/kategori/tkhk"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    }
+  ],
+  "lead": "Aldığınız ürün bozuk veya kusurlu çıktığında tek seçeneğiniz satıcının insafına kalmak değildir. Kanun size iadeden onarıma kadar değişen net haklar tanır ve satıcı bu tercihlerden birini uygulamak zorundadır.",
+  "keyInsight": "Satıcı sizi yalnızca tamire yönlendiremez; seçimlik hakların hangisinin kullanılacağı tamamen size aittir.",
+  "sections": [
+    {
+      "heading": "Ne zaman hak doğar?",
+      "paragraphs": [
+        "Yeni aldığınız ürün ellerinize ulaştığında kusurlu olduğunu fark ettiğinizde hukuki süreç başlar. Teslim tarihinden itibaren **altı ay içinde** ortaya çıkan aksaklıkların zaten baştan beri var olduğu kabul edilir.",
+        "Bu durumda ürünün kusurlu olmadığını ispat etmek tüketiciye değil, satıcıya düşer. Ancak sözleşmeyi imzalarken bu kusur size açıkça bildirilmişse veya bunu bilmeniz bekleniyorsa hak iddia edemezsiniz."
+      ],
+      "bullets": [
+        "Teslim anında kontrol edin",
+        "İlk altı ay kritik dönemdir"
+      ]
+    },
+    {
+      "heading": "Hangi seçenekleri seçebilirsiniz?",
+      "paragraphs": [
+        "Üründe sorun çıktığında karşınızda dört farklı **seçimlik hak** durur. Satılanı geri vermeye hazır olduğunuzu bildirerek sözleşmeden dönebilir, yani parayı geri isteyebilirsiniz.",
+        "İstiyorsanız ürünü alıkoyup ayıp oranında satış bedelinden indirim talep edebilir ya da masrafları karşı tarafa ait olmak üzere ücretsiz onarım isteyebilirsiniz. İmkân varsa ürünün kusursuz bir misliyle değiştirilmesi de mümkündür."
+      ],
+      "bullets": [
+        "Bedel iadesi için sözleşmeden dönme",
+        "Ücretsiz onarım veya misliyle değişim"
+      ]
+    },
+    {
+      "heading": "Satıcı hangi durumda direnebilir?",
+      "paragraphs": [
+        "Ücretsiz onarım veya misliyle değişim talebi satıcı için orantısız güçlükler doğuracaksa, tüketici doğrudan dönme veya bedelden indirim haklarını kullanabilir. Orantısızlık hesaplanırken ürünün değeri ve kusurun önemi dikkate alınır.",
+        "Onarım veya değişim seçildiğinde bu talebin yerine getirilmesi için kanunun öngördüğü **azami iş günü** sınırları vardır. Süre aşılırsa tüketici diğer haklarını kullanmakta tamamen serbest kalır."
+      ],
+      "bullets": [
+        "Orantısız külfet istisnası",
+        "Yasal sürelerin takibi"
+      ]
+    },
+    {
+      "heading": "Paranız ne zaman geri ödenir?",
+      "paragraphs": [
+        "Sözleşmeden dönme veya bedelden indirim hakkını seçtiğiniz durumlarda ödemiş olduğunuz bedelin tümü **derhâl tüketiciye iade edilir**. İşlemin yapılması için gereken tüm masraflar talebi yerine getiren tarafa aittir.",
+        "Seçtiğiniz hakkı satıcıya, üreticiye veya ithalatçıya yöneltebilirsiniz; bu zincirdeki taraflar yerine getirme konusunda müteselsilen sorumludur."
+      ],
+      "bullets": [
+        "Ücretin derhâl iadesi",
+        "Masrafların satıcıya ait olması"
+      ]
+    }
+  ],
+  "steps": [
+    "Ayıbı fark ettiğiniz tarihi not edin ve ürünün fotoğraflarını çekin.",
+    "Satıcıya veya üreticiye seçtiğiniz hakkı bildiren yazılı bir talep iletin.",
+    "Garanti belgesi veya yetkili servis raporu gerekiyorsa süreci işletin.",
+    "Yasal sürede sonuç alamazsanız tüketici hakem heyetine başvurun."
+  ],
+  "documents": [
+    "fatura",
+    "garanti",
+    "ayıp bildirimi",
+    "servis raporu"
+  ],
+  "faq": [
+    {
+      "q": "Satıcı ürünü tamir ettirmek zorunda mı?",
+      "a": "Hayır, tamir tek seçenek değildir. Değişim, indirim veya iade haklarından birini seçmek tüketiciye aittir."
+    },
+    {
+      "q": "İade ettiğimde param ne zaman ödenir?",
+      "a": "Sözleşmeden dönme hakkı seçildiğinde ödenen bedel derhâl tüketiciye iade edilir."
+    },
+    {
+      "q": "Kargo ve benzeri masrafları kim öder?",
+      "a": "Seçimlik hakların kullanılması nedeniyle ortaya çıkan tüm masraflar talebi yerine getiren tarafa aittir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tuketici-hakem-heyeti",
+  "angle": "Ayıplı mal",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

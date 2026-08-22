@@ -1,0 +1,111 @@
+{
+  "slug": "e-fatura-nedir",
+  "title": "e-Fatura — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "e-Fatura hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "e-Fatura",
+  "keywords": [
+    "e-fatura",
+    "e fatura nedir"
+  ],
+  "category": "Vergi",
+  "related": [
+    "kdv-nedir",
+    "fatura-iptali",
+    "sirket-kurulusu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kdv-nedir"
+    },
+    {
+      "label": "VUK",
+      "href": "/kategori/vuk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=e-fatura"
+    }
+  ],
+  "lead": "Ticari hayatın merkezinde yer alan fatura, satılan mal veya yapılan iş karşılığında müşterinin borçlandığı meblağı gösteren ticari belgedir.",
+  "keyInsight": "Mal teslimi veya hizmetin yapılmasıyla ya da bu andan önce fatura düzenlenmesiyle vergiyi doğuran olay gerçekleşir.",
+  "sections": [
+    {
+      "heading": "Fatura nedir ve neyi gösterir?",
+      "paragraphs": [
+        "Ticaret yaparken mal sattığınızda veya bir hizmet sunduğunuzda karşı tarafın ne kadar borçlandığını gösteren resmi belge faturadır. Satılan emtia ya da yapılan iş karşılığındaki meblağ bu belgede açıkça yer alır.",
+        "Bu belge tüccar tarafından müşteriye verilir ve ticari ilişkinin yazılı kanıtı niteliğini taşır."
+      ],
+      "bullets": [
+        "Satılan emtiayı gösterir.",
+        "Yapılan işin bedelini belirtir."
+      ]
+    },
+    {
+      "heading": "Vergi denetimlerinde nelere bakılır?",
+      "paragraphs": [
+        "Vergi daireleri sahada yoklama yaparak mükelleflerin işlemlerini denetler. Günlük hasılat tespiti, defterlerin iş yerinde bulundurulması ve belgelerin usulüne uygun düzenlenip düzenlenmediği kontrol edilir.",
+        "Taşıtlarda fatura, sevk irsaliyesi veya taşıma irsaliyesi bulunması zorunludur. Bu belgeler yoksa nakil vasıtaları **trafikten alıkonulur**."
+      ],
+      "bullets": [
+        "Defter ve belgelerin tasdikli olması gerekir.",
+        "Faturasız mal bulundurulamaz."
+      ]
+    },
+    {
+      "heading": "Mükellefiyet kaydı neden silinebilir?",
+      "paragraphs": [
+        "Yürütülen analiz çalışmalarında sahte belge düzenleme riski yüksek görülen mükellefler incelemeye sevk edilir. Yapılan yoklamanın ardından vergi dairesinin görüşü ve idari onay ile mükellefiyet kaydı terkin edilebilir.",
+        "Kaydı silinen kişilerin haklarını **bir ay içinde** belirlenen şartları sağlayarak yeniden tesis ettirmesi mümkündür."
+      ],
+      "bullets": [
+        "Risk analizi yapılır.",
+        "Yeniden tesis için başvuru şarttır."
+      ]
+    },
+    {
+      "heading": "Vergiyi doğuran olay ne zaman gerçekleşir?",
+      "paragraphs": [
+        "Mal teslimi veya hizmet ifası hallerinde, malın teslim edilmesi ya da hizmetin yapılmasıyla vergi doğuran olay meydana gelir.",
+        "Eğer malın tesliminden veya hizmetin yapılmasından önce fatura düzenlendiyse, **faturanın düzenlendiği an** baz alınır."
+      ],
+      "bullets": [
+        "Mal teslimi esastır.",
+        "Önceden kesilen fatura süreci başlatır."
+      ]
+    }
+  ],
+  "steps": [
+    "Mal teslimi veya hizmet ifası gerçekleştikten sonra süresi içinde faturanızı düzenleyin.",
+    "İş yerinizde kanuni defterleri ve belgeleri eksiksiz bulundurun.",
+    "Nakliye işlemlerinde sevk irsaliyesi ve faturayı araçta hazır tutun.",
+    "Vergi dairesi tebligatlarını ve bildirimlerini düzenli olarak takip edin."
+  ],
+  "documents": [
+    "Fatura",
+    "Sevk irsaliyesi",
+    "Taşıma irsaliyesi",
+    "Yolcu bileti"
+  ],
+  "faq": [
+    {
+      "q": "Fatura tam olarak nedir?",
+      "a": "Satılan mal veya yapılan iş karşılığında müşterinin borçlandığı meblağı gösteren ticari belgedir."
+    },
+    {
+      "q": "Taşıtta fatura bulunmazsa ne olur?",
+      "a": "Belgeler ibraz edilene kadar nakil vasıtası trafikten alıkonulur."
+    },
+    {
+      "q": "Vergiyi doğuran olay ne zaman başlar?",
+      "a": "Malın teslimi, hizmetin yapılması veya bu andan önce fatura düzenlenmesi anında başlar."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kdv-nedir",
+  "angle": "e-Fatura",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,160 @@
+{
+  "slug": "mal-rejimi-tasfiyesi",
+  "title": "Mal Rejimi Tasfiyesi: Edinilmiş Mallara Katılma ve Artık Değer",
+  "description": "Boşanmada mallar nasıl paylaşılır, hangi mallar edinilmiş sayılır, artık değer nedir, katkı payı nasıl istenir? TMK m.202, 219-236 çerçevesinde.",
+  "h1": "Boşanmada mallar nasıl paylaşılır?",
+  "keywords": [
+    "mal rejimi",
+    "edinilmiş mallara katılma",
+    "mal paylaşımı boşanma",
+    "artık değer",
+    "katkı payı alacağı",
+    "değer artış payı"
+  ],
+  "category": "Aile",
+  "related": [
+    "nafaka-turleri-ve-sartlari"
+  ],
+  "links": [
+    {
+      "label": "TMK m.202 — Yasal mal rejimi",
+      "href": "/mevzuat/tmk/madde-202"
+    },
+    {
+      "label": "TMK m.219 — Edinilmiş mallar",
+      "href": "/mevzuat/tmk/madde-219"
+    },
+    {
+      "label": "TMK m.220 — Kişisel mallar",
+      "href": "/mevzuat/tmk/madde-220"
+    },
+    {
+      "label": "TMK m.225 — Rejimin sona ermesi",
+      "href": "/mevzuat/tmk/madde-225"
+    },
+    {
+      "label": "TMK m.227 — Değer artış payı",
+      "href": "/mevzuat/tmk/madde-227"
+    },
+    {
+      "label": "TMK m.236 — Artık değere katılma",
+      "href": "/mevzuat/tmk/madde-236"
+    },
+    {
+      "label": "Mal rejimi hesaplama aracı",
+      "href": "/hesaplama/mal-rejimi"
+    }
+  ],
+  "lead": "Evlilik biterken akla gelen ilk soru malların nasıl bölüşüleceğidir. Paylaşılan şey eşyaların kendisi değil, evlilik boyunca kurulan **artık değer** üzerindeki alacak hakkıdır.",
+  "keyInsight": "Boşanma davası açıldığı an mal rejimi durur; o günden sonra alınan hiçbir şey ortak hesaba girmez.",
+  "sections": [
+    {
+      "heading": "Hangi mal rejimi geçerlidir?",
+      "paragraphs": [
+        "Nikah masasında ya da sonradan özel bir sözleşme yapmadıysanız kanun sizin için **edinilmiş mallara katılma** rejimini seçmiştir. Bu kural 1 Ocak 2002 tarihinden sonraki evlilikler için otomatik olarak devreye girer.",
+        "Daha eski bir tarihte evlendiyseniz, o döneme kadar olan mallar için ayrı kurallar geçerli olur. Sözleşme yapmak isterseniz bunu noterde resmileştirmeniz şarttır."
+      ],
+      "bullets": [
+        "Yasal rejim otomatik başlar",
+        "Noterde sözleşme yapılabilir"
+      ]
+    },
+    {
+      "heading": "Edinilmiş mal tam olarak nedir?",
+      "paragraphs": [
+        "Çalışarak kazandığınız her kuruş, maaşlar, ikramiyeler bu gruba girer. İşten ayrılınca alınan tazminatlar da ortak havuzun parasıdır.",
+        "Şaşırtıcı ama gerçek; evlenmeden önce sahip olduğunuz bir evin kira geliri bile edinilmiş mal sayılır. Malın kendisi kişiseldir ancak getirdiği para paylaşılır."
+      ],
+      "bullets": [
+        "Maaş ve kazançlar",
+        "Kira gelirleri",
+        "Kıdem tazminatları"
+      ]
+    },
+    {
+      "heading": "Kişisel mallar neden dışarıda kalır?",
+      "paragraphs": [
+        "Tek başına kullanılan özel eşyalar, evlilik öncesi var olanlar ve miras yoluyla gelenler tamamen size aittir. Eşinizin ailesinden kalan bir arsa veya ev bu paylaşıma dahil edilmez.",
+        "Bağış yoluyla elde edilen mallar da kişiseldir. Hangi malın hangi gruba ait olduğu konusunda anlaşmazlık çıkarsa, bunu **ispat etmek** iddia edene düşer."
+      ],
+      "bullets": [
+        "Miras kalan mallar",
+        "Bağışlanan mülkler",
+        "Kişisel eşyalar"
+      ]
+    },
+    {
+      "heading": "Mal rejimi ne zaman biter?",
+      "paragraphs": [
+        "Mahkeme salonuna adım atıp boşanma dilekçesini verdiğiniz gün saatler durur. Tasfiye hesabı, **dava tarihine** göre yapılır.",
+        "Yıllar süren duruşmalar boyunca sonradan alınan arabalar veya evler bu hesaba katılmaz. Kritik eşik kararın kesinleştiği an değil, davanın açıldığı andır."
+      ],
+      "bullets": [
+        "Dava tarihi kilit andır",
+        "Sonradan alınanlar dışarıda kalır"
+      ]
+    },
+    {
+      "heading": "Artık değer ve katılma alacağı nasıl hesaplanır?",
+      "paragraphs": [
+        "Hesap iki aşamalı yapılır; önce gelirler toplanır, borçlar düşülür ve geriye kalan miktar artık değeri verir. Borç maldan fazla çıkarsa artık değer sıfır kabul edilir, eksiye düşmez.",
+        "İkinci aşamada ortaya çıkan bu değerin yarısı diğer eşe ödenir. Zina veya hayata kast gibi ağır kusur halleri dışında **kusur durumu** bu oranı kural olarak değiştirmez."
+      ],
+      "bullets": [
+        "Önce borçlar düşülür",
+        "Kalanın yarısı ödenir"
+      ]
+    },
+    {
+      "heading": "Diğerinin malına katkıda bulunduysanız ne olur?",
+      "paragraphs": [
+        "Eşinizin üzerine olan bir evin tadilatına para harcadıysanız veya ev alınırken cebinizden ödeme yaptıysanız değer artış payı istersiniz. Bu hak, malın **tasfiye sırasındaki** piyasa değerine göre hesaplanır.",
+        "Eğer mülkte bir değer kaybı yaşandıysa başlangıçtaki katkı tutarı esas alınır. Taraflar yazılı bir anlaşmayla bu haktan vazgeçebilirler."
+      ],
+      "bullets": [
+        "Katkı oranı hesaplanır",
+        "Güncel değer baz alınır"
+      ]
+    }
+  ],
+  "steps": [
+    "Mal rejiminin yasal edinilmiş mallara katılma olup olmadığını kontrol edin.",
+    "Evlilik süresince edinilen mal ve borçları listeleyin.",
+    "Kişisel malları miras, bağış ve evlilik öncesi varlıklar olarak ayırın.",
+    "Boşanma ile birlikte veya sonrasında tasfiye davası açın.",
+    "Değerleme tarihini sabitleyip katılma alacağını hesaplayın."
+  ],
+  "documents": [
+    "tapu ve araç ruhsatı",
+    "banka dökümleri",
+    "evlilik cüzdanı",
+    "borç ve kredi belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "Boşanınca mallar yarı yarıya mı bölünür?",
+      "a": "Malların tapusu yarı yarıya bölünmez. Eşler, diğerine ait artık değerin yarısı tutarında **para alacağına** hak kazanır."
+    },
+    {
+      "q": "Evlilikten önce aldığım ev paylaşıma girer mi?",
+      "a": "Hayır, evlenmeden önce alınan ev kişisel maldır. Ancak o evden elde edilen kira gelirleri edinilmiş sayılır ve hesaba katılır."
+    },
+    {
+      "q": "Miras yoluyla gelen mal paylaşılır mı?",
+      "a": "Miras veya karşılıksız kazanç yoluyla edinilen mülkler kişisel maldır ve tasfiye dışındadır."
+    },
+    {
+      "q": "Dava açıldıktan sonra aldığım mal paylaşılır mı?",
+      "a": "Mal rejimi dava açıldığı tarih itibarıyla bittiği için, sonradan alınan malvarlığı değerleri paylaşıma girmez."
+    },
+    {
+      "q": "Eşimin borcu malından fazla, yine de alacak alabilir miyim?",
+      "a": "Artık değer eksi olamaz. Borcu malını aşan eş için artık değer sıfır kabul edilir, sizden borç istenmez."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.94,
+  "voice": "narrative",
+  "source": "gemini"
+}

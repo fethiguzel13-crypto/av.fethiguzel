@@ -1,0 +1,130 @@
+{
+  "slug": "miras-paylasimi-nasil-yapilir",
+  "title": "Miras Paylaşımı: Zümre Sistemi, Eşin Payı ve Saklı Pay",
+  "description": "Miras kime, hangi oranda kalır? Zümre sistemi nasıl işler, sağ kalan eşin payı nedir, saklı pay ne kadardır? TMK m.495-506 çerçevesinde örneklerle.",
+  "h1": "Miras paylaşımı nasıl yapılır?",
+  "keywords": [
+    "miras paylaşımı",
+    "yasal mirasçılık",
+    "zümre sistemi",
+    "eşin miras payı",
+    "saklı pay",
+    "miras oranları"
+  ],
+  "category": "Miras",
+  "related": [
+    "mirasin-reddi",
+    "veraset-ilami-nasil-alinir"
+  ],
+  "links": [
+    {
+      "label": "TMK m.495 — Birinci zümre: altsoy",
+      "href": "/mevzuat/tmk/madde-495"
+    },
+    {
+      "label": "TMK m.496 — İkinci zümre: ana ve baba",
+      "href": "/mevzuat/tmk/madde-496"
+    },
+    {
+      "label": "TMK m.499 — Sağ kalan eşin payı",
+      "href": "/mevzuat/tmk/madde-499"
+    },
+    {
+      "label": "TMK m.505 — Tasarruf edilebilir kısım",
+      "href": "/mevzuat/tmk/madde-505"
+    },
+    {
+      "label": "TMK m.506 — Saklı pay oranları",
+      "href": "/mevzuat/tmk/madde-506"
+    },
+    {
+      "label": "Miras paylaşımı hesaplama aracı",
+      "href": "/hesaplama/miras"
+    },
+    {
+      "label": "Saklı pay hesaplama aracı",
+      "href": "/hesaplama/sakli-pay"
+    }
+  ],
+  "lead": "Miras paylaşımı, karmaşık görünen ancak belirli bir zümre sırasına göre işleyen bir süreçtir. Kimin mirasçı olacağı ve ne kadar pay alacağı, yasal kurallarla net bir şekilde belirlenmiştir.",
+  "keyInsight": "Üst zümrede bir mirasçı varken alt zümreye asla sıra gelmez; bu yüzden aile ağacınızdaki yakınlık derecesi belirleyici tek unsurdur.",
+  "sections": [
+    {
+      "heading": "Zümre sistemi nasıl işler?",
+      "paragraphs": [
+        "Miras paylaşımında ilk bakılan yer birinci zümredir. Burası doğrudan çocukları ve onların çocuklarını kapsar.",
+        "Eğer çocuklarınız varsa, anne babanız veya kardeşleriniz mirasçı olamaz. Bir üst zümrede bir kişi bile hayattaysa, alt zümre miras hakkını kaybeder."
+      ],
+      "bullets": [
+        "1. Zümre: Çocuklar ve torunlar",
+        "2. Zümre: Anne, baba ve kardeşler",
+        "3. Zümre: Büyük anne ve büyük babalar"
+      ]
+    },
+    {
+      "heading": "Eşin payı neye göre değişir?",
+      "paragraphs": [
+        "Eşiniz, hangi zümreyle mirasçı olduğuna bağlı olarak farklı oranlarda hak sahibi olur. Bu oran, mirasbırakana yakın olan diğer mirasçıların varlığına göre **kademeli olarak artar**.",
+        "Çocuklarla birlikte mirasçı olduğunda eşin payı daha düşüktür; ancak altsoy hiç yoksa payı ciddi oranda yükselir."
+      ],
+      "bullets": [
+        "Çocuklarla beraber: 1/4",
+        "Anne-baba zümresiyle beraber: 1/2",
+        "Büyük anne-baba zümresiyle beraber: 3/4"
+      ]
+    },
+    {
+      "heading": "Saklı pay nedir ve neden önemlidir?",
+      "paragraphs": [
+        "Mirasbırakan malvarlığı üzerinde dilediği gibi tasarruf edemez. Kanun, bazı yakınları korumak için **saklı pay** adı verilen dokunulmaz bir alan belirlemiştir.",
+        "Eğer bir vasiyetname ile bu paylar ihlal edilmişse, mağdur olan mirasçıların bu durumu düzeltmek için dava açma hakkı doğar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Evlilik dışı çocuklar mirasçı olur mu?",
+      "paragraphs": [
+        "Soybağı kurulmuş her çocuk, evlilik içinde doğmuş gibi miras hakkına sahiptir. Önemli olan resmi bir tanıma veya mahkeme kararı ile bu bağın tescil edilmesidir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Aile ağacınızdaki hayatta olan yakınlarınızı zümre sırasına göre listeleyin.",
+    "Birinci zümrede kimse yoksa ikinci zümreye geçin.",
+    "Sağ kalan eşin payını, bulunduğu zümreye göre hesaplayın.",
+    "Kalan miras paylarını, ilgili zümre içindeki kişilere eşit şekilde dağıtın.",
+    "Vasiyetname varsa saklı payların korunup korunmadığını kontrol edin.",
+    "Mirası resmileştirmek için noterden veya mahkemeden mirasçılık belgesi alın."
+  ],
+  "documents": [
+    "Nüfus kayıt örneği",
+    "Veraset ilamı (Mirasçılık belgesi)",
+    "Vasiyetname (varsa)",
+    "Tapu kayıtları",
+    "Banka hesap dökümleri"
+  ],
+  "faq": [
+    {
+      "q": "Kardeşlerin saklı payı var mı?",
+      "a": "Hayır, kardeşlerin saklı payı 2007 yılında yapılan değişiklikle tamamen kaldırılmıştır."
+    },
+    {
+      "q": "Çocuklar mirası eşit mi paylaşır?",
+      "a": "Evet, çocuklar arasında ayrım yapılmaz ve payları birbirine eşittir."
+    },
+    {
+      "q": "Saklı pay ihlal edilirse ne yapmalıyım?",
+      "a": "Saklı payı zedelenen mirasçının, durumu düzeltmek için tenkis davası açması gerekir."
+    },
+    {
+      "q": "Hiç mirasçı yoksa ne olur?",
+      "a": "Hiçbir yasal mirasçı bulunamazsa, geride kalan miras Devlete kalır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

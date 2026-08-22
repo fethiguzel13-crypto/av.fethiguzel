@@ -1,0 +1,112 @@
+{
+  "slug": "bilgi-edinme-basvurusu",
+  "title": "Bilgi edinme başvurusu — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Bilgi edinme başvurusu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
+  "h1": "Bilgi edinme başvurusu",
+  "keywords": [
+    "bilgi edinme başvurusu",
+    "bilgi edinme basvurusu"
+  ],
+  "category": "İdare",
+  "related": [
+    "cimer-sikayet",
+    "idari-dava-nasil-acilir",
+    "tebligat-usulsuzlugu",
+    "kamulastirma-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/cimer-sikayet"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=bilgi%20edinme"
+    }
+  ],
+  "lead": "Belediye işleriyle ilgili kafanıza takılan bir konuyu öğrenmek istediğinizde, meclis başkanlığına önerge vererek soru sorma hakkınızı kullanabilirsiniz. Bu yol, yerel yönetimlerin faaliyetlerini yakından takip etmenizi ve bilgi almanızı sağlar.",
+  "keyInsight": "Soruların belediye başkanı veya görevlendireceği kişi tarafından sözlü ya da yazılı olarak cevaplandırılması zorunludur.",
+  "sections": [
+    {
+      "heading": "Meclis üyelerinin bilgi edinme yolları nelerdir",
+      "paragraphs": [
+        "Belediye meclisi, belediye işlerini denetlemek ve bilgi sahibi olmak için çeşitli yöntemler kullanır. Bu yetki faaliyet raporunu değerlendirme, denetim komisyonu, soru, genel görüşme ve gensoru yoluyla kullanılır.",
+        "Meclis üyeleri bu süreçte aktif rol alarak belediyenin çalışmaları hakkında doğrudan bilgi talep edebilir ve idarenin şeffaf çalışmasını sağlayabilir."
+      ],
+      "bullets": [
+        "Faaliyet raporunu değerlendirme",
+        "Denetim komisyonu",
+        "Soru ve genel görüşme"
+      ]
+    },
+    {
+      "heading": "Yazılı veya sözlü soru nasıl sorulur",
+      "paragraphs": [
+        "Belediye meclis üyeleri, belediye işleriyle ilgili konularda bilgi almak için meclis başkanlığına önerge sunar. Verilen bu önerge ile sözlü veya yazılı soru sormak mümkündür.",
+        "Sorulan soruların muhatabı belediye başkanıdır. Başkan veya görevlendireceği yetkili kişi soruları yanıtlamakla yükümlüdür."
+      ],
+      "bullets": [
+        "Meclis başkanlığına önerge verme",
+        "Sözlü veya yazılı tercih yapma"
+      ]
+    },
+    {
+      "heading": "Cevaplama süreci nasıl işler",
+      "paragraphs": [
+        "Başkanlığa iletilen önergeler sonrasında idare tarafından inceleme başlatılır. Hazırlanan cevaplar meclis toplantısında veya yazılı olarak üyeye sunulur.",
+        "Bu mekanizma sayesinde yerel yönetim faaliyetlerindeki soru işaretleri giderilir ve meclis denetim işlevini yerine getirir."
+      ],
+      "bullets": [
+        "Başkanlık incelemesi",
+        "Sözlü veya yazılı dönüş"
+      ]
+    },
+    {
+      "heading": "Denetim yetkisinin kapsamı nedir",
+      "paragraphs": [
+        "Belediyenin yürüttüğü hizmetler, harcamalar ve projeler bu denetim yollarının kapsamına girer. Meclis üyeleri halk adına bu denetimi yapmakla görevlidir.",
+        "Eksik görülen veya açıklanması istenen hususlar önergelerle gündeme taşınarak kamuoyunun aydınlatılması sağlanır."
+      ],
+      "bullets": [
+        "Hizmetlerin incelenmesi",
+        "Harcama denetimi"
+      ]
+    }
+  ],
+  "steps": [
+    "Belediye işleriyle ilgili öğrenmek istediğiniz konuyu belirleyin",
+    "Meclis başkanlığına sunulmak üzere yazılı önerge hazırlayın",
+    "Önergenizi meclis başkanlığına resmi olarak teslim edin",
+    "Belediye başkanının veya görevlendirilen kişinin cevabını bekleyin"
+  ],
+  "documents": [
+    "Meclis soru önergesi dilekçesi",
+    "Belediye faaliyet raporu",
+    "Meclis gündem evrakı"
+  ],
+  "faq": [
+    {
+      "q": "Sorular kim tarafından cevaplandırılır?",
+      "a": "Sorular belediye başkanı veya görevlendireceği kişi tarafından sözlü veya yazılı olarak cevaplandırılır."
+    },
+    {
+      "q": "Soru sormak için nereye başvurulur?",
+      "a": "Meclis başkanlığına önerge verilerek başvuru yapılır."
+    },
+    {
+      "q": "Hangi konularda soru sorulabilir?",
+      "a": "Belediye işleriyle ilgili her konuda sözlü veya yazılı soru sorulabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "cimer-sikayet",
+  "angle": "Bilgi edinme başvurusu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

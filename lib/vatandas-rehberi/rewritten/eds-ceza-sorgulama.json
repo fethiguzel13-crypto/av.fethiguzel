@@ -1,0 +1,111 @@
+{
+  "slug": "eds-ceza-sorgulama",
+  "title": "EDS Ceza Sorgulama ve İtiraz | Vatandaş Rehberi",
+  "description": "EDS cezası nasıl sorgulanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
+  "h1": "EDS cezası nasıl sorgulanır?",
+  "keywords": [
+    "EDS ceza sorgulama",
+    "EDS ceza itiraz"
+  ],
+  "category": "Trafik",
+  "related": [
+    "trafik-cezasina-itiraz",
+    "ehliyet-geri-alma",
+    "idari-dava-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/trafik-cezasina-itiraz"
+    },
+    {
+      "label": "KTK",
+      "href": "/kategori/ktk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=EDS"
+    }
+  ],
+  "lead": "Elektronik denetleme sisteminden ceza alıp almadığınızı dijital kanallardan hemen kontrol edebilirsiniz. Asıl mesele, cezanın size ulaşma şekli ve atılacak adımlardır.",
+  "keyInsight": "Cezayı öğrendikten sonra resmi kayıtlardaki tebligat tarihini takip etmek hak kaybını önler.",
+  "sections": [
+    {
+      "heading": "Posta kutusuna bakmadan gelen ceza",
+      "paragraphs": [
+        "Eve geldiğinizde masanın üzerinde bir trafik cezası bulabilirsiniz. Elektronik kameralar hız veya kural ihlalini kaydeder, sistem ise süreci işletir.",
+        "Telaşlanmak yerine cezanın hangi kural ihlali nedeniyle kesildiğini dikkatlice inceleyin."
+      ],
+      "bullets": [
+        "Kameralar anlık kayıt yapar",
+        "Tebligat süreci hızla başlar"
+      ]
+    },
+    {
+      "heading": "Sorgulama ekranında ne aranır?",
+      "paragraphs": [
+        "İnternet üzerindeki resmi platformlara girerek üzerinize yazılmış ceza olup olmadığını görebilirsiniz. Plaka bilgisi ve ruhsat detayları bu aşamada yeterlidir.",
+        "Borç sorgulama alanında plakanıza yazılan tüm tutarlar listelenir."
+      ],
+      "bullets": [
+        "E-Devlet kapısını kullanın",
+        "Plaka ve T.C. kimlik no yeterlidir"
+      ]
+    },
+    {
+      "heading": "Hatalı ölçüm ve tespitlere karşı ne yapmalı?",
+      "paragraphs": [
+        "Kolluk kuvvetleri veya teknik cihazlarca yapılan tespitlerde maddi hatalar olabilir. Cihaz ölçümlerine veya kural ihlali tespitine karşı hukuki yollar açıktır.",
+        "Ölçüm sonuçlarına itiraz ederken kanuni prosedürleri eksiksiz takip etmeniz gerekir."
+      ],
+      "bullets": [
+        "Teknik cihaz ölçümleri esastır",
+        "İtiraz hakkınız saklıdır"
+      ]
+    },
+    {
+      "heading": "Belge ve evrak kontrolü neden önemlidir?",
+      "paragraphs": [
+        "Trafikte hususi veya ticari araç kullanırken bulundurmanız gereken zorunlu mali sorumluluk sigortası gibi belgeler denetlenir. Eksik evrak tespit edildiğinde idari yaptırımlar uygulanır.",
+        "Mesleki faaliyette bulunan işletmelerin de bu sigortaları yaptırması zorunludur."
+      ],
+      "bullets": [
+        "Sigorta poliçesini yanınızda taşıyın",
+        "İşletme defterlerini eksiksiz tutun"
+      ]
+    }
+  ],
+  "steps": [
+    "E-Devlet sistemine T.C. kimlik numaranızla giriş yapın.",
+    "Trafik cezası sorgulama alanından plakanızı kontrol edin.",
+    "Cezaya ait tutanak ve görsel kayıtları inceleyin.",
+    "İtiraz edecekseniz yetkili birime dilekçenizi hazırlayın."
+  ],
+  "documents": [
+    "Araç ruhsatı",
+    "T.C. kimlik kartı",
+    "Trafik idari para cezası karar tutanağı",
+    "Zorunlu mali sorumluluk sigortası poliçesi"
+  ],
+  "faq": [
+    {
+      "q": "EDS cezasını internetten nasıl görebilirim?",
+      "a": "E-Devlet kapısı üzerinden araç plakasına yazılan cezaları anlık olarak listeleyebilirsiniz."
+    },
+    {
+      "q": "Cezaya nereden ve nasıl itiraz edilir?",
+      "a": "Tutanak tebliğ edildikten sonra ilgili sulh ceza hakimliğine dilekçe ile başvurabilirsiniz."
+    },
+    {
+      "q": "Sigortası olmayan araçlara ne yapılır?",
+      "a": "Zorunlu mali sorumluluk sigortası bulunmayan araçlar için kanuni yaptırımlar ve para cezaları uygulanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "trafik-cezasina-itiraz",
+  "angle": "EDS/HGS sorgu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

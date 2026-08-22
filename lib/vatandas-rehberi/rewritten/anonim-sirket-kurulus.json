@@ -1,0 +1,111 @@
+{
+  "slug": "anonim-sirket-kurulus",
+  "title": "Anonim şirket kuruluşu — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Anonim şirket kuruluşu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
+  "h1": "Anonim şirket kuruluşu",
+  "keywords": [
+    "anonim şirket kuruluşu",
+    "anonim sirket kurulus"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "sirket-kurulusu",
+    "limited-sirket-kurulus",
+    "ticari-isletme-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/sirket-kurulusu"
+    },
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-sirketler"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=anonim"
+    }
+  ],
+  "lead": "Yatırımcınızla masaya oturdunuz, vizyonu çizdiniz. Artık resmi adımı atma zamanı geldiğinde, şirketinizi kurmak için doğru iradeyi ortaya koymanız gerekir.",
+  "keyInsight": "Sermayenin tamamını ödemeyi şartsız taahhüt etmek ve imzaların noter ya da ticaret sicili müdürlüğü huzurunda atılması kritik eşiktir.",
+  "sections": [
+    {
+      "heading": "Şirket kurma iradesi nasıl başlar?",
+      "paragraphs": [
+        "Masada kurucular olarak bir araya geldiniz ve ana sözleşmeyi hazırladınız. Asıl mesele, bu metin üzerinde ortak iradenin hukuki olarak nasıl kurulacağıdır.",
+        "Şirket, kurucuların kanuna uygun düzenlenen esas sözleşmede sermayenin tamamını ödemeyi **şartsız taahhüt** etmesiyle kurulur. Bu aşamada imzaların noterce onaylanması veya ticaret sicili müdürü ya da yardımcısı huzurunda atılması şarttır."
+      ],
+      "bullets": [
+        "Sermayenin tamamının taahhüdü",
+        "Noter veya sicil müdürü huzurunda imza"
+      ]
+    },
+    {
+      "heading": "Hangi şirketler bakanlık iznine tabidir?",
+      "paragraphs": [
+        "Şirket tipi belirlenirken faaliyet alanına dikkat etmek gerekir. Her anonim şirket aynı yoldan kurulmaz.",
+        "Faaliyet alanları Gümrük ve Ticaret Bakanlığınca yayımlanacak tebliğle belirlenen anonim şirketler, **Bakanlık izni** ile kurulur. Bakanlık incelemesi yalnızca kanunun emredici hükümlerine aykırılık bulunup bulunmadığı yönünden yapılır."
+      ],
+      "bullets": [
+        "Tebliğle belirlenen faaliyet alanları",
+        "Sadece emredici hüküm denetimi"
+      ]
+    },
+    {
+      "heading": "Ticaret siciline tescil ne zaman yapılır?",
+      "paragraphs": [
+        "İmzalar atıldı ve gerekli izinler alındı; şimdi resmi kayıt aşamasına geçilir.",
+        "Şirket esas sözleşmesinin tamamı, izin alınacak şirketlerde izin alındıktan sonra, diğer şirketlerde ise kurucu işlemin tamamlanmasını izleyen **otuz gün içinde** ticaret siciline tescil ve Türkiye Ticaret Sicili Gazetesinde ilan olunur."
+      ],
+      "bullets": [
+        "Otuz günlük tescil süresi",
+        "Türkiye Ticaret Sicili Gazetesinde ilan"
+      ]
+    },
+    {
+      "heading": "Yanınızda hangi belgeler ve beyanlar bulunmalı?",
+      "paragraphs": [
+        "İşlemleri yürütürken bankalar ve sicil müdürlükleri bazı resmi evrakları ve yazılı beyanları doğrudan talep edecektir.",
+        "Çek hesabı açılması veya benzeri ticari işlemler sırasında, yetkililerin yasaklılık durumunu gösteren belgeler ve **yazılı beyanlar** hazır bulundurulmalıdır. Gerçek veya tüzel kişilerin temsilcileri hakkında herhangi bir engel bulunmadığı kontrol edilir."
+      ],
+      "bullets": [
+        "Kimlik ve yetki belgeleri",
+        "Yazılı durum beyanları"
+      ]
+    }
+  ],
+  "steps": [
+    "Esas sözleşmeyi kanuna uygun şekilde hazırlayın ve sermaye taahhüdünü ekleyin.",
+    "İmzaları noter onaylı veya ticaret sicil müdürü huzurunda tamamlayın.",
+    "Gerekli faaliyette ise Gümrük ve Ticaret Bakanlığı iznini alın.",
+    "Otuz günlük yasal süre içinde merkez ticaret siciline tescil ve ilan başvurusunu yapın."
+  ],
+  "documents": [
+    "Noter onaylı veya sicil huzurunda imzalanan esas sözleşme",
+    "Bakanlık izni yazısı",
+    "Kimlik belgeleri ve imza sirküleri",
+    "Ticaret sicili kayıt evrakları ve yazılı beyanlar"
+  ],
+  "faq": [
+    {
+      "q": "Esas sözleşmeyi nerede imzalamalıyım?",
+      "a": "İmzalar ya noterce onaylanmalı ya da doğrudan ticaret sicili müdürü veya yardımcısı huzurunda atılmalıdır."
+    },
+    {
+      "q": "Kuruluş tescili için ne kadar süre vardır?",
+      "a": "İzin gerektirenlerde izin alındıktan sonra, diğer şirketlerde ise kurucu işlemin tamamlanmasını izleyen otuz gün içinde merkez ticaret siciline tescil yapılmalıdır."
+    },
+    {
+      "q": "Her anonim şirket Bakanlık iznine mi tabidir?",
+      "a": "Hayır, sadece Gümrük ve Ticaret Bakanlığınca tebliğle belirlenen faaliyet alanlarındaki anonim şirketler bakanlık izniyle kurulur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "sirket-kurulusu",
+  "angle": "Anonim şirket kuruluşu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

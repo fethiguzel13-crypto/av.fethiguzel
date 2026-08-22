@@ -1,0 +1,106 @@
+{
+  "slug": "e-devlet-sgk-hizmet",
+  "title": "e-Devlet SGK Hizmet Dökümü Adımları | Vatandaş Rehberi",
+  "description": "Hizmet dökümü e-Devlet adımları hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
+  "h1": "Hizmet dökümü e-Devlet adımları",
+  "keywords": [
+    "e-devlet SGK hizmet dökümü",
+    "4A hizmet dökümü"
+  ],
+  "category": "Sosyal Güvenlik",
+  "related": [
+    "emeklilik-sartlari",
+    "sgk-hizmet-dokumu",
+    "issizlik-maasi-sartlari"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/emeklilik-sartlari"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=hizmet%20d%C3%B6k%C3%BCm%C3%BC"
+    }
+  ],
+  "lead": "Çalışma geçmişinizi, sigorta primlerinizi ve işveren bildirimlerinizi e-Devlet üzerinden tek tıkla kontrol edebilirsiniz.",
+  "keyInsight": "Hizmet dökümünde görünen eksik günler veya yanlış sigorta kolları, ileride alacağınız hakları doğrudan etkiler.",
+  "sections": [
+    {
+      "heading": "Hizmet dökümü nedir?",
+      "paragraphs": [
+        "Sigortalı olarak çalıştığınız her gün, adınıza yatan primler ve işveren bilgileriniz bu sistemde toplanır. İşten çıktığınızda ya da yeni bir işe başladığınızda kaydınızın doğru yansıyıp yansımadığını buradan takip edersiniz.",
+        "Geçmiş dönemdeki çalışmalarınızın hangi statüde bildirildiğini görmek için bu belgeye bakmanız gerekir."
+      ],
+      "bullets": [
+        "Prim gün sayısını gösterir",
+        "İşveren unvanlarını listeler"
+      ]
+    },
+    {
+      "heading": "Kimler bu belgeyi alabilir?",
+      "paragraphs": [
+        "Hizmet akdiyle çalışanlar, kendi adına bağımsız iş yapanlar veya kamu idaresinde görev yapanlar bu döküme ulaşabilir.",
+        "Sigorta kollarınıza göre **4A, 4B veya 4C** dökümleri ayrı ayrı görülebilir."
+      ],
+      "bullets": [
+        "Hizmet akdiyle çalışanlar",
+        "Bağımsız çalışanlar ve memurlar"
+      ]
+    },
+    {
+      "heading": "Hangi bilgiler yer alır?",
+      "paragraphs": [
+        "Çalıştığınız iş yerlerinin sicil numaraları, işe giriş ve çıkış tarihleriniz belgede açıkça yazar.",
+        "Hangi ay için kaç gün prim yatırıldığı bu dökümde detaylı şekilde listelenir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Eksik gün görünürse ne yapmalı?",
+      "paragraphs": [
+        "Primlerinizin eksik yatırıldığını fark ettiğiniz an harekete geçmeniz gerekebilir. Süresi içinde bildirilmeyen çalışmalar için yasal hak arama yolları gündeme gelir.",
+        "İş yerinin SGK'ya yaptığı bildirimleri düzenli kontrol etmek bu yüzden hayatidir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "e-Devlet kapısına şifrenizle giriş yapın.",
+    "Arama çubuğuna 'Sosyal Güvenlik Kurumu' yazın.",
+    "Hizmet dökümü veren ilgili alt başlığı seçin.",
+    "4A, 4B veya 4C tescil ve hizmet dökümünü açın.",
+    "Belgeyi barkodlu olarak indirip kaydedin."
+  ],
+  "documents": [
+    "e-Devlet şifresi",
+    "T.C. kimlik numarası",
+    "Barkodlu SGK hizmet dökümü",
+    "İş yeri sicil numarası listesi"
+  ],
+  "faq": [
+    {
+      "q": "Hizmet dökümü çıktısı resmi kurumda geçerli mi?",
+      "a": "Barkodlu olarak aldığınız belgeler resmi kurumlarda geçerlidir."
+    },
+    {
+      "q": "Eski yıllara ait primlerimi neden göremiyorum?",
+      "a": "Kayıtların dijital ortama aktarılmasından önceki dönemlerde eksiklik varsa SGK merkezine başvurmanız gerekebilir."
+    },
+    {
+      "q": "Sigorta kolum yanlış görünüyorsa ne yapmalıyım?",
+      "a": "İşveren tescil türünün düzeltilmesi için iş yerinizin insan kaynakları birimiyle görüşmelisiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "emeklilik-sartlari",
+  "angle": "e-Devlet adım",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

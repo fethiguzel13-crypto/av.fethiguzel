@@ -1,0 +1,104 @@
+{
+  "slug": "dask-nedir",
+  "title": "Zorunlu deprem sigortası nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Zorunlu deprem sigortası nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
+  "h1": "Zorunlu deprem sigortası nedir?",
+  "keywords": [
+    "DASK nedir",
+    "zorunlu deprem sigortası"
+  ],
+  "category": "Sigorta",
+  "related": [
+    "tapu-devri-nasil-yapilir",
+    "trafik-sigortasi-hasar",
+    "emlak-vergisi-nedir",
+    "tss-tamamlayici-saglik"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tapu-devri-nasil-yapilir"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=DASK"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    }
+  ],
+  "lead": "Zorunlu deprem sigortası, meskenlerin deprem ve deprem kaynaklı risklere karşı güvenceye alınmasını sağlayan resmi bir poliçedir. Tapu ve abonelik işlemleri sırasında bu sigortanın ibraz edilmesi **zorunludur**.",
+  "keyInsight": "Poliçedeki metrekare ve yapı tarzı bilgilerinin eksiksiz girilmesi, hasar anında hak kaybı yaşanmaması için en kritik şarttır.",
+  "sections": [
+    {
+      "heading": "Zorunlu Deprem Sigortası Neyi Kapsar?",
+      "paragraphs": [
+        "Ev sahibi olduğunuzda veya tapu işlemlerine başladığınızda karşınıza çıkan bu sigorta, deprem ile deprem kaynaklı yangın, yer kayması ve tsunami gibi riskleri güvenceye alır. Binaların ana duvarları, temeller, merdivenler ve çatılar poliçe kapsamındadır.",
+        "Sigorta yalnızca binanın taşıyıcı kısımlarına odaklanır. Eşyalarınız veya deprem dışındaki su baskını gibi riskler bu poliçenin **kapsamı dışındadır**."
+      ],
+      "bullets": [
+        "Temel ve ana duvarlar güvence altındadır.",
+        "Eşyalar bu poliçeye dahil değildir."
+      ]
+    },
+    {
+      "heading": "Hangi İşlemlerde Mutlaka İstenir?",
+      "paragraphs": [
+        "Ev alım satım işlemlerinde tapu müdürlükleri bu poliçeyi görmek ister. Poliçe olmadan tapuda devir işlemi tamamlanamaz.",
+        "Ayrıca elektrik, su ve doğalgaz gibi abonelikleri başlatırken de zorunlu deprem sigortasının güncel halini ibraz etmeniz gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Poliçe Nasıl Düzenlenir?",
+      "paragraphs": [
+        "Evinizin tapusu, açık adresi, metrekaresi ve yapı tarzı ile sigorta şirketlerine ya da acentelere başvuru yapabilirsiniz. Bilgilerin doğru olması şarttır.",
+        "Yanlış veya eksik beyan edilen bilgiler, hasar anında ödenecek tazminat miktarını doğrudan etkileyebilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hasar Anında Ne Yapılmalıdır?",
+      "paragraphs": [
+        "Deprem sonrasında binanızda hasar oluştuysa, vakit kaybetmeden yetkili kurumlara ihbarda bulunmanız gerekir. İhbarın ardından hasar tespit çalışmaları başlar.",
+        "Eksper incelemesi tamamlandıktan sonra belirlenen tazminat ödeme süreci işletilir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Zorunlu deprem sigortasının tapu ve abonelik işlemleri için şart olduğunu bilin.",
+    "Poliçeyi e-Devlet veya yetkili acenteler aracılığıyla yaptırın.",
+    "Metrekare ve yapı tarzı bilgilerini doğru ve eksiksiz beyan edin.",
+    "Hasar durumunda DASK merkezine ihbarda bulunun ve eksper incelemesini bekleyin.",
+    "Teminat sınırını aşan zararlar için diğer konut sigortası seçeneklerini değerlendirin."
+  ],
+  "documents": [
+    "DASK poliçesi",
+    "Tapu belgesi",
+    "Hasar ihbar dilekçesi",
+    "Kimlik belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Zorunlu deprem sigortası evdeki eşyaları kapsar mı?",
+      "a": "Hayır, bu sigorta yalnızca binanın yapısal kısımlarını güvence altına alır; eşyalar kapsama dahil değildir."
+    },
+    {
+      "q": "Poliçe yenilenmezse ne olur?",
+      "a": "Poliçenin süresi bittiğinde yenilenmezse tapu işlemleri yapılamaz ve abonelik hizmetlerinde sorun yaşanır."
+    },
+    {
+      "q": "Hasar durumunda nereye başvurulmalıdır?",
+      "a": "Deprem sonrasında doğrudan resmi ihbar kanalları üzerinden hasar bildirimi yapılması gereklidir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tapu-devri-nasil-yapilir",
+  "angle": "DASK",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "senet-icra-takibi",
+  "title": "Senetle icra takibi nasıl yapılır — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Senetle icra takibi nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
+  "h1": "Senetle icra takibi nasıl yapılır?",
+  "keywords": [
+    "senet icra takibi",
+    "bono icra"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "odeme-emrine-itiraz",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Kıymetli evrak",
+      "href": "/kategori/kiymetli-evrak"
+    }
+  ],
+  "lead": "Elinde vadesi geldiği halde ödenmeyen bir senet olan alacaklı, kambiyo senetlerine özgü haciz yoluyla doğrudan icra dairesine başvurabilir. Bu takip yolunda asıl senet ibraz edilmek zorundadır; fotokopi ile işlem yapılamaz.",
+  "keyInsight": "Kambiyo senetlerine mahsus takipte, borçlunun itirazı her zaman takibi kendiliğinden durdurmaz; senedin aslının sunulması ve şekil şartlarının eksiksiz olması hayati önem taşır.",
+  "sections": [
+    {
+      "heading": "Takip nasıl başlatılır?",
+      "paragraphs": [
+        "Elindeki senede rağmen parasını alamayan alacaklı, icra dairesinin kapısını çalar. Alacağın çek, poliçe veya emre muharrer senete dayanması durumunda **özel takip usulleri** devreye girer. Alacak rehinle temin edilmiş olsa bile bu yola başvurulabilir.",
+        "Takip talebinde bulunurken, borçlunun iflasa tabi bir kişi olması durumunda hangi yolun seçildiği açıkça belirtilmelidir. En kritik kural, takip talebine **kambiyo senedinin aslı** ve borçlu adedi kadar tasdikli örneğinin eklenme zorunluluğudur."
+      ],
+      "bullets": [
+        "Asıl senet mutlaka eklenmelidir.",
+        "Borçlu sayısı kadar tasdikli örnek hazırlanmalıdır."
+      ]
+    },
+    {
+      "heading": "Hangi belgeler masada olmalı?",
+      "paragraphs": [
+        "İcra dairesindeki memurun önünüze koyacağı ilk dosya eksiksiz olmalıdır. Sadece senedi uzatmak yetmez; takibin temeli olan evrakların tamlığı dosyanın reddedilmesini engeller.",
+        "Senedin aslının yanı sıra, borçluya ulaşılmasını sağlayacak doğru adres bilgileri ve takip talebi dilekçesi eksiksiz sunulmalıdır."
+      ],
+      "bullets": [
+        "Kambiyo senedi aslı",
+        "Borçlu sayısı kadar tasdikli senet örneği"
+      ]
+    },
+    {
+      "heading": "Senet adi belgeye mi dönüşür?",
+      "paragraphs": [
+        "Elimizdeki kağıt parçasının hukuken senet sayılması için taşıdığı unsurlar denetlenir. Eğer şekil şartlarında eksiklik varsa, o kağıt kambiyo vasfını yitirir ve takip imkânı zora girer.",
+        "Bu tür pürüzler senedin adi alacak haline gelmesine yol açabilir. Bu yüzden icra dairesine gitmeden önce imza, meblağ ve vade unsurlarının tamlığı **titizlikle incelenmelidir**."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreci kim yürütür ve tebligat nasıl yapılır?",
+      "paragraphs": [
+        "Borçlunun adreste bulunamaması durumunda tebligat kuralları işletilir. Meslek veya sanatını belli bir yerde icra edenlerin o yerde bulunmaması halinde evrak, daimi memur veya müstahdemlerine teslim edilebilir.",
+        "Tapuda kayıtlı taşınmaz sahiplerinin adres değişikliklerini bildirmesi esastır. Bildirim yapılmazsa adres kayıt sistemindeki mevcut adresler tebligat için resmi adres kabul edilir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Bononun şekil şartlarını ve imza durumunu kontrol edin.",
+    "Takip talebine senedin aslını ve borçlu adedi kadar tasdikli örneğini ekleyin.",
+    "İcra dairesine kambiyo senetlerine özgü haciz yolu ile takip talebinde bulunun.",
+    "Borçluya yapılacak tebligat ve yasal süreçleri takip edin.",
+    "Gelen itirazlar karşısında icra mahkemesinde gerekli hukuki başvuruları yapın."
+  ],
+  "documents": [
+    "asıl senet",
+    "borçlu adedi kadar tasdikli senet örneği",
+    "takip talebi",
+    "tebligat evrakı"
+  ],
+  "faq": [
+    {
+      "q": "Fotokopi senetle icra takibi yapılabilir mi?",
+      "a": "Hayır, kanunen takip talebine kambiyo senedinin aslının eklenmesi zorunludur."
+    },
+    {
+      "q": "Borçlu adresinde bulunamazsa tebligat nasıl yapılır?",
+      "a": "Belli bir yerde meslek icra edenlerin o yerde bulunmaması halinde tebligat daimi memur veya müstahdemlerine yapılır."
+    },
+    {
+      "q": "Rehinli alacaklar için bu takip yapılabilir mi?",
+      "a": "Alacak rehinle temin edilmiş olsa bile, kambiyo senetlerine özgü haciz veya iflas yoluyla takip yapılabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Senet/bono icrası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

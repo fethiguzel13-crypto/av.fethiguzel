@@ -1,0 +1,102 @@
+{
+  "slug": "yuklenici-temerrudu",
+  "title": "Yüklenici temerrüdü — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Yüklenici temerrüdü hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
+  "h1": "Yüklenici temerrüdü",
+  "keywords": [
+    "yüklenici temerrüdü",
+    "yuklenici temerrudu"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "temerrut-faizi-nedir",
+    "kat-karsiligi-insaat",
+    "ayip-mal-iade",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/temerrut-faizi-nedir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=eser"
+    }
+  ],
+  "lead": "Ev veya iş yerinizi yapması için anlaştığınız usta ortada yok ya da işi yarım bıraktıysa, hukuken yüklenici temerrüdüyle karşı karşıyasınız demektir. Telaş etmeyin, elinizde yasal haklarınızı koruyacak yollar var.",
+  "keyInsight": "Karşı tarafın işi yapamaması veya gecikmesi durumunda hak arayabilmek için öncelikle kendi hazırlık fiillerinizi eksiksiz yerine getirmiş olmanız şarttır.",
+  "sections": [
+    {
+      "heading": "İşler durduğunda ne olur?",
+      "paragraphs": [
+        "Sabah şantiyeye geldiniz, demirler bağlandı ama ne gelen var ne giden. Veya usta malzemeyi aldı, haftalardır çivi çakmıyor. Asıl mesele, **sözleşmede yazan** kurallara uyulup uyulmadığıdır.",
+        "Borçlu taraf, yapması gereken işi gereği gibi sunmasına rağmen siz haklı bir sebep olmaksızın kabulden kaçınırsanız durum tersine döner. Ancak usta işi yapmıyorsa, haklı olarak **sözleşmeden dönme** hakkınızı masaya yatırabilirsiniz."
+      ],
+      "bullets": [
+        "İşin durduğunu tespit edin",
+        "Karşı tarafın mazeretini dinleyin"
+      ]
+    },
+    {
+      "heading": "Kendi hazırlığınız tam mı?",
+      "paragraphs": [
+        "Ustanın işe başlayabilmesi için anahtar teslimi yapmanız, projeyi vermeniz veya malzemenin bir kısmını sağlamanız gerekiyorsa, önce bunları yapmalısınız. Siz kendi hazırlık fiillerinizi yerine getirmezseniz, karşı tarafı suçlayamazsınız.",
+        "Alacaklı konumunda olan sizlerin de borçlunun işi bitirmesi için **gerekli ortamı** hazırlaması beklenir. Karşılıklı yükümlülükler bu sürecin temel taşıdır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kimliğinde duraksama varsa",
+      "paragraphs": [
+        "Parayı kime ödeyeceğiniz veya işi kime devredeceğiniz konusunda haklı bir belirsizlik belirdiyse, borçlu olduğunuz edimi yerine getirmekte tereddüt edebilirsiniz.",
+        "Borçlunun kusuru olmaksızın ortaya çıkan bu tür kişisel engellerde, **tevdi yani tevdi mahalli** belirleme veya sözleşmeden dönme haklarınız tıpkı gecikme hallerinde olduğu gibi devreye girer."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Sözleşmeden dönme ne zaman gündeme gelir?",
+      "paragraphs": [
+        "İşin teslimi imkansızlaşmışsa veya karşı taraf açıkça yapmayacağını bildirdiyse, sabırla beklemek zorunda değilsiniz. Teslimatı gerektirmeyen diğer edimlerde de **benzer kurallar** uygulanır.",
+        "Haklarınızı kaybetmemek için süreci doğru adımlarla yürütmeli, fevri kararlar yerine elinizdeki belgelerle hareket etmelisiniz."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İşin gelinen son aşamasını fotoğraflarla ve tutanakla tespit edin.",
+    "Kendi tarafınızdan yapılması gereken hazırlıkların tam olduğunu kontrol edin.",
+    "Karşı taraftan işin durumunu yazılı olarak sorun.",
+    "Gerekli durumlarda tevdi veya sözleşmeden dönme seçeneklerini değerlendirin."
+  ],
+  "documents": [
+    "Taraflar arası yazılı sözleşme",
+    "Ödeme dekontları ve masraf fişleri",
+    "İşin yarım veya kusurlu kaldığını gösteren tespit tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "Usta işi bırakıp gitti, hemen başka biriyle anlaşabilir miyim?",
+      "a": "Önce mevcut sözleşmenin durumunu hukuki zeminde netleştirmeli, ardından sözleşmeden dönme hakkını kullanarak yeni bir yola girmelisiniz."
+    },
+    {
+      "q": "Malzemeyi ben almadığım için usta çalışmıyor, haklı mı?",
+      "a": "Evet, borçlunun işi yapabilmesi için sizin yapmanız gereken hazırlık fiillerinden kaçınırsanız, yüklenici temerrüde düşmüş sayılmaz."
+    },
+    {
+      "q": "Alacağın kime ödeneceği belirsizse ne yapmalıyım?",
+      "a": "Kimlikte veya alacaklıda duraksama durumunda tevdi yoluna başvurabilir ya da sözleşmeden dönme hakkını kullanabilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "temerrut-faizi-nedir",
+  "angle": "Yüklenici temerrüdü",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

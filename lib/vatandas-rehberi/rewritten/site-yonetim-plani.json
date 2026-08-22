@@ -1,0 +1,100 @@
+{
+  "slug": "site-yonetim-plani",
+  "title": "Yönetim planı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Yönetim planı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata dan…",
+  "h1": "Yönetim planı",
+  "keywords": [
+    "yönetim planı",
+    "site yonetim plani"
+  ],
+  "category": "Eşya",
+  "related": [
+    "kat-mulkiyeti-aidat",
+    "kat-mulkiyeti-genel-kurul",
+    "tapu-devri-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kat-mulkiyeti-aidat"
+    },
+    {
+      "label": "Kat mülkiyeti",
+      "href": "/kategori/katmulkiyeti"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=y%C3%B6netim%20plan%C4%B1"
+    }
+  ],
+  "lead": "Yönetim planı, oturduğunuz binanın veya sitenin anayasasıdır. Bu belge, yaşam alanınızdaki kuralları, gider paylaşımını ve yönetim şeklini belirleyen en temel metindir.",
+  "keyInsight": "Yönetim planı sadece bir kağıt parçası değil, tapuda kayıtlı olan ve tüm malikleri, kiracıları bağlayan hukuki bir sözleşmedir.",
+  "sections": [
+    {
+      "heading": "Yönetim planı aslında nedir?",
+      "paragraphs": [
+        "Bir binaya taşındığınızda sadece dört duvarı değil, ortak alanları ve kuralları da devralırsınız. Yönetim planı, kat mülkiyetine geçişle birlikte tapu kütüğüne işlenen ve binanın nasıl yönetileceğini anlatan yazılı metindir.",
+        "Bu belge, binadaki herkesin uyması gereken temel kuralları içerir. Kapıcıdan bahçıvana, ortak giderlerin nasıl bölüşüleceğinden yönetici seçimine kadar her detay burada belirlenir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kurallara uymamanın bedeli nedir?",
+      "paragraphs": [
+        "Sitede huzur içinde yaşamanın yolu, birbirinizin haklarına saygı duymaktan geçer. Yönetim planı, ortak yerleri kullanırken doğruluk kurallarına uymanızı, komşularınızı rahatsız etmemenizi emreder.",
+        "Eğer planın kurallarına uymazsanız veya ortak giderlere katılmazsanız, yönetici veya diğer komşularınız size karşı dava açabilir veya icra takibi başlatabilir. Bu yükümlülük sadece malikler için değil, kiracılar için de geçerlidir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Giderler nasıl belirlenir?",
+      "paragraphs": [
+        "Sitenin ortak masrafları genellikle iki şekilde paylaşılır. Kapıcı, bekçi veya bahçıvan gibi personel giderleri tüm kat malikleri arasında **eşit olarak** paylaştırılır.",
+        "Buna karşılık binanın sigortası, bakım ve onarım gibi masraflar ise sahip olduğunuz arsa payı oranında ödenir. Bu oranları değiştirmek veya özel bir düzenleme yapmak isterseniz, kat malikleri arasında farklı bir anlaşma yapmanız gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Planı nereden bulabilirim?",
+      "paragraphs": [
+        "Yönetim planı, binanızın tapu sicilindeki dosyasında saklanır. Eğer elinizde bir nüsha yoksa, Tapu Müdürlüğü'ne başvurarak bir örneğini alabilirsiniz.",
+        "Yeni bir daire alırken veya kiralarken mutlaka bu plana göz atın. Binada evcil hayvan beslenip beslenmeyeceği veya bağımsız bölümlerin hangi amaçla kullanılabileceği gibi kritik bilgiler bu belgede yazar."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Tapu Müdürlüğü'ne giderek binanıza ait yönetim planı örneğini talep edin.",
+    "Belgedeki ortak gider paylaşım oranlarını ve yasakları dikkatle okuyun.",
+    "Yönetici ile irtibata geçerek güncel kararların yönetim planına uygunluğunu teyit edin.",
+    "Eğer bir kural ihlali varsa yöneticiyi yazılı olarak uyarın.",
+    "Ödenmeyen ortak giderler için yönetim planına dayanarak icra takibi başlatın."
+  ],
+  "documents": [
+    "Tapu sicilinden alınan yönetim planı örneği",
+    "Kat malikleri kurulu toplantı tutanakları",
+    "Ortak gider borç dökümü",
+    "Yöneticiye gönderilen ihtarname"
+  ],
+  "faq": [
+    {
+      "q": "Kiracı olarak yönetim planına uymak zorunda mıyım?",
+      "a": "Evet, kanun gereği kiracılar da yönetim planındaki kurallara uymakla yükümlüdür ve bu kurallara aykırı davranışlardan malik ile birlikte sorumludur."
+    },
+    {
+      "q": "Yönetim planındaki gider paylaşımını değiştirebilir miyiz?",
+      "a": "Kat malikleri kendi aralarında başka türlü bir anlaşma yapmadıkça kanundaki oranlar geçerlidir; ancak oy birliği ile farklı bir düzenleme kararı alabilirsiniz."
+    },
+    {
+      "q": "Ortak gideri ödemezsem ne olur?",
+      "a": "Ödemediğiniz her gün için aylık **yüzde beş** oranında gecikme tazminatı ödemek zorunda kalırsınız ve hakkınızda icra takibi başlatılabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kat-mulkiyeti-aidat",
+  "angle": "Yönetim planı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

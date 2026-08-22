@@ -1,0 +1,126 @@
+{
+  "slug": "yasal-mirascilar",
+  "title": "Yasal mirasçılar kimlerdir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Yasal mirasçılar kimlerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
+  "h1": "Yasal mirasçılar kimlerdir?",
+  "keywords": [
+    "yasal mirasçılar",
+    "mirasçılık sırası"
+  ],
+  "category": "Miras",
+  "related": [
+    "veraset-ilami-nasil-alinir",
+    "miras-payi-nasil-hesaplanir",
+    "sakli-pay-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/veraset-ilami-nasil-alinir"
+    },
+    {
+      "label": "Miras",
+      "href": "/rehber/miras-paylasimi"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/miras"
+    }
+  ],
+  "lead": "Kaybınızın ardından geride kalan mal varlığının kime kalacağı, kanunun çizdiği zümre sistemine göre belirlenir. Telaş etmeyin, mirasçılık sıfatınızı ve haklarınızı resmi belgelerle adım adım öğrenebilirsiniz.",
+  "keyInsight": "Mirasçılık belgesi almak için başvurduğunuzda, ölüme bağlı tasarruflara süresi içinde itiraz edilmezse süreç netleşir ancak belgenin geçersizliği her zaman ileri sürülebilir.",
+  "sections": [
+    {
+      "heading": "Kimler mirasçı kabul edilir?",
+      "paragraphs": [
+        "Bir yakınımızı kaybettiğimizde aklımıza ilk gelen soru mal varlığının kime kalacağıdır. Kanun koyucu bu durumu belirli derece ve zümrelere bağlamıştır.",
+        "Sağ kalan eş, evlenmenin butlanı gibi özel durumlar hariç olmak üzere yasal mirasçılar arasında yer alır ve hak sahibi olur."
+      ],
+      "bullets": [
+        "Kanuni zümreler",
+        "Sağ kalan eşin durumu",
+        "Altsoy ilişkileri"
+      ]
+    },
+    {
+      "heading": "Mirasçılık sıfatı nasıl belgelenir?",
+      "paragraphs": [
+        "Haklarınızı kullanabilmek ve resmi işlemler yapabilmek için kimlerin mirasçı olduğunu gösteren resmi bir evraka ihtiyacınız vardır.",
+        "Bu belge **sulh mahkemesince** veya noterlikçe yapılan inceleme sonucunda tarafınıza verilir."
+      ],
+      "bullets": [
+        "Mahkeme başvurusu",
+        "Noterlikler",
+        "Mirasçılık sıfatını gösteren belge"
+      ]
+    },
+    {
+      "heading": "Vasiyetname ve tasarruflara itiraz süreci nasıl işler?",
+      "paragraphs": [
+        "Eğer ortada ölüme bağlı bir tasarruf veya vasiyetname varsa, bu durum mirasçılara bildirilir.",
+        "Bildirimden sonra **bir ay içinde** itiraz edilmezse, lehine tasarruf yapılan kişiye ilgili belge verilir."
+      ],
+      "bullets": [
+        "Bildirim yapılması",
+        "Bir aylık itiraz süresi",
+        "Atanmış mirasçı belgesi"
+      ]
+    },
+    {
+      "heading": "Mirasçılıktan çıkarma ve dava hakları nelerdir?",
+      "paragraphs": [
+        "Mirasbırakan tarafından mirasçılıktan çıkarılan kişiler mirastan pay alamaz ve tenkis davası açma hakkını kaybeder.",
+        "Böyle bir durumda çıkarılan kişinin payı, o kimse önceden ölmüş gibi altsoyuna veya diğer yasal mirasçılara geçer."
+      ],
+      "bullets": [
+        "Pay alamama durumu",
+        "Altsoyun hakları",
+        "Tenkis davası kısıtı"
+      ]
+    },
+    {
+      "heading": "Belgenin geçersizliği her zaman ileri sürülebilir mi?",
+      "paragraphs": [
+        "Elinde mirasçılık belgesi olan herkesin durumu nihai olmayabilir. Kanun bu konuda açık bir güvence sunar.",
+        "Mirasçılık belgesinin **geçersizliği** her zaman ileri sürülebilir; ayrıca ölüme bağlı tasarrufların iptali için dava açma hakkı saklıdır."
+      ],
+      "bullets": [
+        "Her zaman ileri sürülebilirlik",
+        "İptal davası hakkı",
+        "Hukuki güvence"
+      ]
+    }
+  ],
+  "steps": [
+    "Sulh mahkemesine veya noterliğe başvurun.",
+    "Mirasçılık belgesinin düzenlenmesini bekleyin.",
+    "Ölüme bağlı tasarruf bildirimlerini takip edin.",
+    "İtiraz haklarınızı süresi içinde kullanın."
+  ],
+  "documents": [
+    "Nüfus kayıt örneği",
+    "Mirasçılık belgesi",
+    "Ölüme bağlı tasarruf belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "Yasal mirasçı olduğumu nasıl kanıtlarım?",
+      "a": "Sulh mahkemesinden veya noterlikten alacağınız mirasçılık belgesi ile yasal mirasçılığınızı kanıtlayabilirsiniz."
+    },
+    {
+      "q": "Vasiyetnameye itiraz etmek için ne kadar sürem var?",
+      "a": "Ölüme bağlı tasarrufların size bildirilmesinden başlayarak bir ay içinde itiraz etmeniz gerekir."
+    },
+    {
+      "q": "Mirasçılık belgesi sonradan iptal edilebilir mi?",
+      "a": "Mirasçılık belgesinin geçersizliği her zaman ileri sürülebilir ve iptal dava hakları saklı tutulmuştur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "veraset-ilami-nasil-alinir",
+  "angle": "Kimler mirasçı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

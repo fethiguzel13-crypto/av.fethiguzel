@@ -1,0 +1,111 @@
+{
+  "slug": "tehdit-sucu-nedir",
+  "title": "Tehdit suçu şikâyeti — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Tehdit suçu şikâyeti hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
+  "h1": "Tehdit suçu şikâyeti",
+  "keywords": [
+    "tehdit suçu",
+    "tehdit şikayet"
+  ],
+  "category": "Ceza",
+  "related": [
+    "savcilik-suc-duyurusu",
+    "koruma-karari-6284",
+    "hakaret-sucu-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/savcilik-suc-duyurusu"
+    },
+    {
+      "label": "TCK",
+      "href": "/kategori/tck-kisiler"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    }
+  ],
+  "lead": "Bir başkasının hayatına veya malvarlığına yönelik saldırı tehdidiyle karşı karşıya kaldığınızda adli mercilere başvurabilirsiniz. Suçun işleniş biçimine göre cezalar ve soruşturma şartları değişiklik gösterir.",
+  "keyInsight": "Malvarlığı zararı veya sair kötülük içeren tehditlerde soruşturma mağdurun şikayetine bağlıdır.",
+  "sections": [
+    {
+      "heading": "Tehdit suçu nasıl oluşur?",
+      "paragraphs": [
+        "Telefonunuza gelen bir mesajla irkildiniz ya da sokakta doğrudan hayatınıza yönelik bir saldırı söylemiyle karşılaştınız. Bir başkasını, kendisinin veya yakınının hayatına, vücut veya cinsel dokunulmazlığına yönelik bir saldırı gerçekleştireceğinden bahisle tehdit eden kişi ceza alır.",
+        "Suçun kadına karşı işlenmesi hâlinde cezanın alt sınırı artar. Malvarlığı itibarıyla büyük bir zarara uğratacağından veya sair bir kötülük edeceğinden bahisle tehditte ise **mağdurun şikayeti** aranır."
+      ],
+      "bullets": [
+        "Hayat ve vücut dokunulmazlığına saldırı",
+        "Malvarlığına büyük zarar verme tehdidi"
+      ]
+    },
+    {
+      "heading": "Hangi durumlarda ceza artar?",
+      "paragraphs": [
+        "Tehdit eylemi olağan koşulların dışına çıkıp daha tehlikeli araçlarla yapıldığında kanundaki yaptırımlar ağırlaşır. Silahla, kişinin kendisini tanınmayacak bir hale koyması suretiyle veya imzasız mektupla işlenen tehditler bu kapsamdadır.",
+        "Birden fazla kişi tarafından birlikte ya da var olan veya var sayılan suç örgütlerinin oluşturdukları **korkutucu güç** yararlanılarak işlenen tehditlerde ceza artırılır."
+      ],
+      "bullets": [
+        "Silah veya imzasız mektup kullanımı",
+        "Birden fazla kişiyle birlikte işlenme"
+      ]
+    },
+    {
+      "heading": "Uzlaştırma süreci nasıl işletilir?",
+      "paragraphs": [
+        "Olay yerinden uzaklaştınız ve karakola gidip durumu anlattınız. Türk Ceza Kanunu kapsamındaki temel tehdit suçları bakımından taraflar arasında **uzlaştırma yoluna** gidilmesi öngörülmüştür.",
+        "Şüpheli ile mağdur veya suçtan zarar gören kişi arasında uzlaştırma bürosu aracılığıyla bir iletişim ve anlaşma zemini aranır."
+      ],
+      "bullets": [
+        "Dosyanın uzlaştırmacıya verilmesi",
+        "Tarafların iradi anlaşması"
+      ]
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "Adliyeye veya karakola giderken yaşadığınız olayı somutlaştıracak materyalleri yanınızda bulundurmanız sürecin takibini kolaylaştırır. Mesaj dökümleri, ses kayıtları veya tanık bilgileri bu aşamada önem taşır.",
+        "Elinizdeki dijital verilerin silinmemesine ve **eksiksiz şekilde** yetkili makamlara sunulmasına dikkat etmelisiniz."
+      ],
+      "bullets": [
+        "Yazışma ekran görüntüleri",
+        "Olayı gören tanıkların bilgileri"
+      ]
+    }
+  ],
+  "steps": [
+    "En yakın kolluk kuvvetine veya savcılığa giderek olayı detaylıca anlatın.",
+    "Elinde bulunan mesaj, arama kaydı veya tanık gibi delilleri yetkililere teslim edin.",
+    "Şikayet dilekçenizi vererek resmi soruşturma sürecinin başlamasını sağlayın.",
+    "Uzlaşma teklifi gelmesi durumunda uzlaştırma bürosundaki görüşmelere katılın."
+  ],
+  "documents": [
+    "Olayı gösteren mesaj dökümleri ve ekran görüntüleri",
+    "Tanıkların isim ve iletişim bilgileri",
+    "Şikayet dilekçesi",
+    "Varsa darp veya yaralama raporu"
+  ],
+  "faq": [
+    {
+      "q": "Tehdit suçu şikayete bağlı mıdır?",
+      "a": "Genel tehdit suçları resen soruşturulurken, malvarlığına zarar verme veya sair kötülük içeren tehditler mağdurun şikayetine bağlıdır."
+    },
+    {
+      "q": "Tehdit mesajı silinirse ne olur?",
+      "a": "Mesajları silmeden önce ekran görüntüsü almanız ve teknolojik verileri muhafaza etmeniz delil tespiti açısından önemlidir."
+    },
+    {
+      "q": "Her tehdit dosyası uzlaşmaya gider mi?",
+      "a": "Kanunda belirtilen birinci fıkra kapsamındaki temel tehdit suçlarında uzlaştırma prosedürü uygulanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "savcilik-suc-duyurusu",
+  "angle": "Tehdit",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

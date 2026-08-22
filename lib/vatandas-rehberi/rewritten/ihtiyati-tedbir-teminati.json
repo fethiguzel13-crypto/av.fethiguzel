@@ -1,0 +1,109 @@
+{
+  "slug": "ihtiyati-tedbir-teminati",
+  "title": "İhtiyati tedbir teminatı ne kadardır — Vatandaş Rehberi | Av. Fethi Gü",
+  "description": "İhtiyati tedbir teminatı ne kadardır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
+  "h1": "İhtiyati tedbir teminatı ne kadardır?",
+  "keywords": [
+    "ihtiyati tedbir teminatı"
+  ],
+  "category": "Usul",
+  "related": [
+    "ihtiyati-tedbir-nedir",
+    "hukuk-davasi-nasil-acilir",
+    "ihtiyati-haciz-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/ihtiyati-tedbir-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=teminat"
+    }
+  ],
+  "lead": "Mahkemeden hakkınızı korumak için ihtiyati tedbir kararı aldınız veya bu kararla karşı karşıyasınız. Tedbirin değiştirilmesi veya kaldırılması için mahkemenin kabul edeceği bir teminat göstermeniz gerekir.",
+  "keyInsight": "Teminatın türü ve miktarı, durumun niteliğine ve hakimin takdirine göre belirlenir.",
+  "sections": [
+    {
+      "heading": "Tedbirin değiştirilmesi ne zaman istenir?",
+      "paragraphs": [
+        "Mahkeme salonunda belirsizlik yaşarken aleyhinize verilen bir kararla karşılaşabilirsiniz. Aleyhine ihtiyati tedbir kararı verilen veya hakkında bu tedbir uygulanan kişi, mahkemenin kabul edeceği teminatı göstererek harekete geçebilir.",
+        "Bu aşamada mahkeme, durumun özelliklerine bakarak tedbirin değiştirilmesine veya tamamen kaldırılmasına karar verebilir."
+      ],
+      "bullets": [
+        "Aleyhe verilen kararlar",
+        "Mahkemenin kabulü"
+      ]
+    },
+    {
+      "heading": "Teminatın miktarı nasıl belirlenir?",
+      "paragraphs": [
+        "Dosyada en çok merak edilen konu rakamlardır. Teminatın tutarı, tedbirin değiştirilmesi veya kaldırılması amacına göre ayrı ayrı hesaplanır.",
+        "Hakim, dosyadaki duruma ve somut koşullara bakarak **uygun miktarı** tayin eder."
+      ],
+      "bullets": [
+        "Değiştirme veya kaldırma amacı",
+        "Hakimin takdiri"
+      ]
+    },
+    {
+      "heading": "Teminatın türü neye göre seçilir?",
+      "paragraphs": [
+        "Paranın yanı sıra başka güvenceler de gündeme gelebilir. Teminatın türü, ilgili kanun hükümlerine göre ve dosyanın yapısına uygun olarak belirlenir.",
+        "Mahkeme bu aşamada tarafların hak dengesini gözeterek **doğru aracı** seçer."
+      ],
+      "bullets": [
+        "Kanuni esaslar",
+        "Hak dengesi"
+      ]
+    },
+    {
+      "heading": "Süreç nasıl yürütülür?",
+      "paragraphs": [
+        "Geçici hukuki koruma önlemleri hassas bir zamanlamayla ilerler. Tedbir kararlarına karşı yapılacak itirazlar ve başvurular, adli tatil gibi dönemlerde bile mahkemenin önünde yer alabilir.",
+        "Hakim önüne gelen talebi inceler ve gerekli teminat koşulu sağlandığında kararını verir."
+      ],
+      "bullets": [
+        "Hızlı inceleme",
+        "Geçici koruma"
+      ]
+    }
+  ],
+  "steps": [
+    "Mahkeme kararını ve tedbirin kapsamını dikkatle inceleyin.",
+    "Tedbirin değiştirilmesi veya kaldırılması için talepte bulunun.",
+    "Mahkemenin kabul edeceği teminatı hazırlayın.",
+    "Hakimin belirleyeceği tür ve tutara göre teminatı dosyaya sunun."
+  ],
+  "documents": [
+    "İhtiyati tedbir kararı",
+    "Mahkeme dilekçesi",
+    "Teminat makbuzu veya güvence belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Teminat tutarını kim belirler?",
+      "a": "Teminatın tutarı, tedbirin değiştirilmesi veya kaldırılması durumuna göre mahkeme tarafından belirlenir."
+    },
+    {
+      "q": "Teminatın türü neye göre seçilir?",
+      "a": "Teminatın türü, ilgili kanun maddesindeki usullere göre tayin edilir."
+    },
+    {
+      "q": "Kimler teminat göstererek tedbire itiraz edebilir?",
+      "a": "Aleyhine ihtiyati tedbir kararı verilen veya hakkında bu tedbir uygulanan kişi teminat gösterip talepte bulunabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "ihtiyati-tedbir-nedir",
+  "angle": "Teminat",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

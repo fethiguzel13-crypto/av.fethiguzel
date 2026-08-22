@@ -1,0 +1,99 @@
+{
+  "slug": "ortak-gider-nedir",
+  "title": "Ortak gider — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Ortak gider hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "Ortak gider",
+  "keywords": [
+    "ortak gider",
+    "ortak gider nedir"
+  ],
+  "category": "Eşya",
+  "related": [
+    "kat-mulkiyeti-aidat",
+    "mtk-aidat-icra",
+    "site-yonetim-plani"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kat-mulkiyeti-aidat"
+    },
+    {
+      "label": "Kat mülkiyeti",
+      "href": "/kategori/katmulkiyeti"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Ortak gider, bir apartman veya sitede tüm sakinlerin kullanımına açık alanların ve hizmetlerin sürdürülebilirliği için ödenen paydır. Bu ödeme, mülkiyetin getirdiği yasal bir zorunluluktur.",
+  "keyInsight": "Ortak gider ödemekten kaçınmak mümkün değildir; bağımsız bölümünüzü kullanmıyor olsanız bile bu borçtan kurtulamazsınız.",
+  "sections": [
+    {
+      "heading": "Hangi giderler ortak sayılır?",
+      "paragraphs": [
+        "Apartmanınızdaki kapıcı, bahçıvan, bekçi ve kaloriferci gibi görevlilerin maaşları ile bu hizmetler için toplanan avanslar, tüm kat malikleri tarafından eşit olarak karşılanır.",
+        "Binanın sigorta primleri, ortak alanların bakım, onarım ve güçlendirme masrafları ile yönetici aylığı gibi temel giderler ise arsa payınız oranında paylaştırılır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Ödemekten kaçınabilir misiniz?",
+      "paragraphs": [
+        "Bazı kat malikleri, ortak alanları kullanmadıklarını veya kendi bağımsız bölümlerinin durumu gereği bu hizmetlere ihtiyaç duymadıklarını belirterek ödeme yapmamayı düşünebilir.",
+        "Ancak kanun, bu durumu bir bahane olarak kabul etmez. Ortak yer veya tesisler üzerindeki kullanma hakkından vazgeçmek, gider payını ödeme yükümlülüğünüzü ortadan kaldırmaz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Ödeme gecikirse ne olur?",
+      "paragraphs": [
+        "Gider veya avans payını zamanında ödemeyen kat maliki hakkında yönetici veya diğer kat malikleri dava açabilir ya da icra takibi başlatabilir.",
+        "Ödemede geciktiğiniz her gün için **aylık yüzde beş** oranında gecikme tazminatı ödemekle yükümlü olursunuz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hasar durumunda sigorta nasıl işler?",
+      "paragraphs": [
+        "Kat malikleri kurulu, binanın değerini belirleyerek sigorta yapılmasına karar verebilir. Bu durumda sigorta giderleri arsa payı oranında ödenir.",
+        "Binanın tamamen harap olması halinde sigorta bedeli arsa payı oranında dağıtılır; sadece belirli bölümler hasar görmüşse ödeme hasarlı kısımların onarımına harcanır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Yönetim planını inceleyerek gider paylaşım esaslarını öğrenin.",
+    "Yöneticiden veya kuruldan gelen ödeme çağrılarını takip edin.",
+    "Gider payınızı belirlenen süre içinde eksiksiz ödeyin.",
+    "Ödeme yaparken mutlaka açıklama kısmına 'aidat' veya 'ortak gider' notunu düşerek dekontunuzu saklayın."
+  ],
+  "documents": [
+    "Yönetim planı",
+    "Kat malikleri kurulu karar defteri",
+    "Gider bildirim belgesi",
+    "Ödeme dekontu"
+  ],
+  "faq": [
+    {
+      "q": "Evim boş, yine de aidat ödemeli miyim?",
+      "a": "Evet, bağımsız bölümünüzün boş olması veya kullanmıyor olmanız, ortak giderlere katılma yükümlülüğünüzü sona erdirmez."
+    },
+    {
+      "q": "Gecikme tazminatı oranı nedir?",
+      "a": "Ödemede geciktiğiniz günler için **aylık yüzde beş** hesabıyla gecikme tazminatı ödemeniz gerekir."
+    },
+    {
+      "q": "Ortak giderlere kimler itiraz edebilir?",
+      "a": "Giderin kanuna veya yönetim planına aykırı olduğunu düşünen kat malikleri, genel hükümler çerçevesinde yasal yollara başvurabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kat-mulkiyeti-aidat",
+  "angle": "Ortak gider",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "taks-nedir",
+  "title": "TAKS — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "TAKS hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "TAKS",
+  "keywords": [
+    "taks",
+    "taks nedir"
+  ],
+  "category": "İmar",
+  "related": [
+    "kentsel-donusum-nedir",
+    "emsal-nedir-imar",
+    "imar-durumu-nedir",
+    "yapı-ruhsati-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kentsel-donusum-nedir"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=TAKS"
+    }
+  ],
+  "lead": "TAKS, yani Taban Alanı Kat Sayısı, bir arsanın üzerine inşa edilebilecek binanın zemin oturumunu belirleyen sınır değerdir. Bu oran, imar planında belirlenen toplam inşaat alanının ne kadarının zemine yayılacağını gösterir.",
+  "keyInsight": "TAKS değerini aşan bir zemin oturumu, binanızın ruhsat almasını engeller ve kaçak yapı konumuna düşmenize neden olur.",
+  "sections": [
+    {
+      "heading": "TAKS neden önemlidir?",
+      "paragraphs": [
+        "Bir arsa aldınız veya üzerine ev yapmayı planlıyorsunuz. İmar planındaki TAKS değeri, bahçenizde ne kadar boş alan kalacağını belirler. Bu değer, hem nefes alacak bir çevre hem de düzenli şehirleşme için temel kuraldır.",
+        "Belediye, imar mevzuatına uygunluğu denetlerken bu oranı baz alır. Eğer planlanan yapı bu sınırı geçerse, proje onaylanmaz ve inşaata başlayamazsınız."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Sınırlar nasıl belirlenir?",
+      "paragraphs": [
+        "TAKS değerleri, bölgenin ihtiyaçları ve imar planı kararları ile belirlenir. Bu değer, arsa alanınızla çarpıldığında, binanızın zemin katının kaplayabileceği maksimum metrekareyi verir.",
+        "İmar planı dışında veya mevzuata aykırı bir yapılaşma mümkün değildir. İbadethane veya kamu alanı gibi özel kullanımlarda ise yine imar mevzuatına uygunluk şartı aranır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Uygulama aşamasında neye dikkat etmeli?",
+      "paragraphs": [
+        "Projenizi hazırlarken mutlaka güncel imar durum belgenizi kontrol edin. Mimarınız, projesini bu sınırlara göre çizmek zorundadır. **İmar mevzuatına aykırı** her türlü hamle, ileride yapı kullanma izni aşamasında ciddi sorunlar çıkarır.",
+        "Ayrıca, engelliler için erişilebilirlik gibi standartların da imar planı ve yapılarda uygulanması zorunludur. Bu kuralları göz ardı etmek, projenin onay sürecini tıkar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yanlış hesaplama neye yol açar?",
+      "paragraphs": [
+        "TAKS sınırını aşan bir inşaat, binanın ruhsatsız veya ruhsata aykırı sayılmasına sebep olur. Bu durum, sadece inşaatın durdurulması değil, aynı zamanda yıkım kararlarıyla da karşı karşıya kalmanıza yol açabilir.",
+        "Belediye encümenleri, imar hükümlerine uygunluğu denetlerken bu teknik detayları titizlikle inceler. **Resmî onay** almadan atılan her adım, gelecekteki mülkiyet haklarınızı riske atar."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Belediyeden güncel imar durum belgenizi alın.",
+    "Arsanızın yüzölçümü ile TAKS oranını çarpın.",
+    "Mimarınızla birlikte zemin oturum planını bu sınıra göre çizin.",
+    "Projeyi belediyenin imar birimine onay için sunun.",
+    "Onaylı projeye uygun şekilde inşaata başlayın."
+  ],
+  "documents": [
+    "İmar durum belgesi",
+    "Onaylı mimari proje",
+    "Yapı ruhsatı",
+    "Yapı kullanma izin belgesi"
+  ],
+  "faq": [
+    {
+      "q": "TAKS değerini artırmak mümkün mü?",
+      "a": "TAKS değeri imar planı ile belirlenir; kişisel isteklerle değiştirilemez, ancak bölge genelinde bir plan değişikliği yapılırsa güncellenebilir."
+    },
+    {
+      "q": "Bahçe mesafeleri TAKS ile bağlantılı mı?",
+      "a": "Evet, zemin oturumunu sınırlayan TAKS değeri, aynı zamanda binanın çevresinde bırakılması gereken bahçe ve çekme mesafelerini de doğrudan etkiler."
+    },
+    {
+      "q": "TAKS değerine balkonlar dahil mi?",
+      "a": "İmar yönetmelikleri, hangi alanların zemin oturumuna (TAKS) dahil edileceğini detaylı olarak tanımlar; projeyi çizen mimarınız bu konuda teknik hesaplamayı yapacaktır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kentsel-donusum-nedir",
+  "angle": "TAKS",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "mtk-aidat-icra",
+  "title": "Site aidatı ödenmezse ne yapılır — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Site aidatı ödenmezse ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
+  "h1": "Site aidatı ödenmezse ne yapılır?",
+  "keywords": [
+    "aidat ödenmezse",
+    "apartman aidatı icra"
+  ],
+  "category": "Eşya",
+  "related": [
+    "icra-takibi-nedir",
+    "kat-mulkiyeti-aidat",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "Kat mülkiyeti",
+      "href": "/kategori/katmulkiyeti"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Apartman veya site aidatı ödenmediğinde, yönetici ya da diğer kat malikleri hemen yasal yollara başvurabilir. Gider payını ödemeyen komşu için **icra takibi** veya dava yolu açılır.",
+  "keyInsight": "Aidat borcunu ödememekte ısrar eden kat maliki hakkında, iki takvim yılı içinde üç defa icra veya dava takibi yapılmasına sebep olunursa mülkiyetin devri istenebilir.",
+  "sections": [
+    {
+      "heading": "Ortak giderlere katılma zorunluluğu nedir?",
+      "paragraphs": [
+        "Kapıcı, kaloriferci, bekçi giderleri ile avanslar eşit olarak toplanır. Ortak yerlerin bakım, onarım ve sigorta gibi giderleri ise arsa payı oranında ödenir.",
+        "Komşulardan biri ortak alanlardan faydalanmadığını ileri sürerek bu ödemelerden kaçınamaz. Herkes payına düşen miktarı zamanında yatırmakla yükümlüdür."
+      ],
+      "bullets": [
+        "Kapıcı ve bekçi giderleri eşit bölüşülür.",
+        "Onarım ve sigorta masrafları arsa payına göre ödenir."
+      ]
+    },
+    {
+      "heading": "Gecikme halinde ne kadar fark ödenir?",
+      "paragraphs": [
+        "Gider veya avans payını zamanında ödemeyen kat maliki, geciktiği günler için **aylık yüzde beş** oranında gecikme tazminatı ödemek zorundadır.",
+        "Bu tazminat borcun büyümesine yol açar ve yöneticinin yapacağı yasal işlemlerde alacak kalemleri arasında yer alır."
+      ],
+      "bullets": [
+        "Geciken her gün için yüzde beş tazminat uygulanır."
+      ]
+    },
+    {
+      "heading": "Yöneticinin hangi yetkileri vardır?",
+      "paragraphs": [
+        "Yönetici, borcunu ödemeyen kat maliklerine karşı dava açma ve icra takibi yapma yetkisine sahiptir. Ayrıca kanuni ipotek hakkını tapu kütüğüne tescil ettirebilir.",
+        "İşletme projesine ve genel kurul kararlarına dayanarak alacağın tahsili için gerekli adımları atar."
+      ],
+      "bullets": [
+        "Yönetici icra takibi başlatabilir.",
+        "Tapuya ipotek tescili isteyebilir."
+      ]
+    },
+    {
+      "heading": "Evini kaybetme riski ne zaman doğar?",
+      "paragraphs": [
+        "Borçların ödenmemesi nedeniyle iki takvim yılı içinde üç defa icra veya dava takibi yapılmasına sebep olunursa, çekilmezlik hali var sayılır.",
+        "Bu durumda diğer kat malikleri mahkemeye başvurarak o kişinin bağımsız bölüm üzerindeki mülkiyetinin kendilerine devredilmesini isteyebilir."
+      ],
+      "bullets": [
+        "İki yılda üç icra takibi mülkiyet devri riski doğurur."
+      ]
+    }
+  ],
+  "steps": [
+    "Aidat borcunu yönetim planı ve karar ile belgelendirin.",
+    "Kat malikine yazılı ihtar gönderin.",
+    "İlamsız icra veya sulh hukuk yolunu seçin.",
+    "Bağımsız bölüm üzerine haciz ve şerh işlemlerini değerlendirin.",
+    "Yeni malike geçişte borcun durumunu kontrol edin."
+  ],
+  "documents": [
+    "aidat dökümü",
+    "genel kurul kararı",
+    "ihtar",
+    "takip talebi"
+  ],
+  "faq": [
+    {
+      "q": "Kiracı aidatı ödemezse ev sahibi sorumlu olur mu?",
+      "a": "Aidat borcundan esas kat maliki sorumludur; ancak süreç yönetim planı ve genel hükümlere göre yürütülür."
+    },
+    {
+      "q": "Ortak alanları kullanmıyorum yine de aidat ödemeli miyim?",
+      "a": "Evet, ortak yer veya tesisler üzerindeki kullanma hakkından vazgeçmek ödeme yükümlülüğünü ortadan kaldırmaz."
+    },
+    {
+      "q": "Gecikme tazminatı oranı nedir?",
+      "a": "Ödemede gecikilen günler için aylık yüzde beş oranında gecikme tazminatı uygulanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Aidat icrası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

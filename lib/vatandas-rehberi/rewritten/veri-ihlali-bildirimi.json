@@ -1,0 +1,116 @@
+{
+  "slug": "veri-ihlali-bildirimi",
+  "title": "Kişisel veri ihlalinde ne yapılır — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Kişisel veri ihlalinde ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
+  "h1": "Kişisel veri ihlalinde ne yapılır?",
+  "keywords": [
+    "veri ihlali bildirimi",
+    "KVKK ihlal"
+  ],
+  "category": "Kişisel Veri",
+  "related": [
+    "kvkk-basvuru-hakki",
+    "kvkk-aydinlatma-metni",
+    "kvkk-kanunu-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kvkk-basvuru-hakki"
+    },
+    {
+      "label": "KVKK",
+      "href": "/kategori/kvkk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=ihlal"
+    }
+  ],
+  "lead": "Telefonunuza tanımadığınız yerlerden mesajlar yağıyor, kimlik bilgileriniz saçılıyor. Asıl mesele, önce verisini sızdıran şirkete gidip kapıyı çalmaktır.",
+  "keyInsight": "Önce veri sorumlusuna başvurmadan doğrudan Kurula şikâyet yolu kapalıdır.",
+  "sections": [
+    {
+      "heading": "Telefonunuza gelen o bildirimle her şey başlar",
+      "paragraphs": [
+        "Beklemediğiniz bir kurumdan kişisel verilerinizin sızdığına dair haber alırsınız. Telaşla ne yapacağınızı bilemez haldesiniz. Önce derin bir nefes alıp elinizdeki izleri toparlamanız gerekir.",
+        "Bu aşamada atılacak ilk adım, veriyi toplayan ve korumakla yükümlü olan **veri sorumlusuna** yazılı olarak başvurmaktır. Doğrudan şikâyet kapısını çalmadan önce bu ön adımı mutlaka tamamlamalısınız."
+      ],
+      "bullets": [
+        "Gelen şüpheli mesajları saklayın",
+        "Kurumun size gönderdiği bildirimi okuyun"
+      ]
+    },
+    {
+      "heading": "Şirketten ret gelince nereye gidilir?",
+      "paragraphs": [
+        "Veri sorumlusu başvurunuza olumsuz dönerse, yetersiz bir açıklama yaparsa veya hiç cevap vermezse süreç değişir. Elinizdeki ret yazısı veya sessizlik yeni bir hakkın kapısını aralar.",
+        "Cevabı öğrendiğiniz tarihten itibaren **otuz gün** içinde Kişisel Verileri Koruma Kuruluna şikâyette bulunabilirsiniz. Bu süreyi geçirmemek hayat kurtarırdır."
+      ],
+      "bullets": [
+        "Gelen cevabın tarihini bir yere not edin",
+        "Süreci **altmış günü** aşmayacak şekilde takip edin"
+      ]
+    },
+    {
+      "heading": "Kurul incelemeyi nasıl yürütür?",
+      "paragraphs": [
+        "Şikâyetiniz Kurula ulaştığında inceleme başlar. Kurul, veri sorumlusundan ilgili tüm bilgi ve belgeleri talep eder. Şirket bu evrakları **on beş gün** içinde kuruma göndermek zorundadır.",
+        "Eğer ihlal kesinleşirse Kurul, hukuka aykırılığın giderilmesine karar verir. Veri sorumlusu bu kararı gecikmeksizin ve en geç **otuz gün** içinde yerine getirmek zorundadır."
+      ],
+      "bullets": [
+        "Kurul gerek görürse yerinde inceleme yapar",
+        "Yaygın ihlallerde ilke kararları yayımlanır"
+      ]
+    },
+    {
+      "heading": "Zarar büyüyorsa hangi önlem alınır?",
+      "paragraphs": [
+        "Veri sızıntısının telafisi güç zararlar doğuracağı açıkça belliyse Kurul hızlıca devreye girer. Veri işlenmesinin veya verinin yurt dışına aktarılmasının durdurulmasına karar verilebilir.",
+        "Ayrıca kişilik haklarınız bu süreçte zedelendiyse, genel hükümlere göre **tazminat** talep etme hakkınız her zaman saklı kalır."
+      ],
+      "bullets": [
+        "Geçici önlemlerle veri akışı durdurulabilir",
+        "Maddi ve manevi haklar ayrıca aranabilir"
+      ]
+    }
+  ],
+  "steps": [
+    "Veri sorumlusuna başvurarak ihlali bildirin",
+    "Gelen cevabı veya cevapsız kalma durumunu takip edin",
+    "Ret veya süresinde yanıt alamama halinde Kurula başvurun",
+    "Kurulun isteyeceği bilgi ve belgeleri eksiksiz sunun",
+    "Gerekirse genel mahkemelerde tazminat davası açın"
+  ],
+  "documents": [
+    "Veri sorumlusuna yapılan başvuru dilekçesi",
+    "Veri sorumlusunun ret veya yetersiz cevap yazısı",
+    "Kişisel Verileri Koruma Kuruluna şikâyet dilekçesi",
+    "İhlali gösteren ekran görüntüleri ve mesajlar"
+  ],
+  "faq": [
+    {
+      "q": "Doğrudan Kurula şikâyet edebilir miyim?",
+      "a": "Hayır, önce veri sorumlusuna başvurma şartını tüketmeniz gerekir."
+    },
+    {
+      "q": "Kurula başvuru süresi ne kadardır?",
+      "a": "Cevabı öğrendiğiniz tarihten itibaren otuz ve her hâlde başvuru tarihinden itibaren altmış gün içinde şikâyet etmelisiniz."
+    },
+    {
+      "q": "Şirket kurula bilgi vermezse ne olur?",
+      "a": "Kurulun istediği bilgi ve belgeleri on beş gün içinde göndermek zorundadırlar."
+    },
+    {
+      "q": "Tazminat alabilir miyim?",
+      "a": "Kişilik haklarınız ihlal edildiyse genel hükümlere göre tazminat hakkınız saklıdır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kvkk-basvuru-hakki",
+  "angle": "İhlal",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

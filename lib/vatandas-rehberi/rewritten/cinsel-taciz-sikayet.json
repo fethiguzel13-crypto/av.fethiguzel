@@ -1,0 +1,111 @@
+{
+  "slug": "cinsel-taciz-sikayet",
+  "title": "İşyerinde Cinsel Taciz Şikâyeti | Vatandaş Rehberi",
+  "description": "İşyerinde cinsel taciz şikâyeti nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk P…",
+  "h1": "İşyerinde cinsel taciz şikâyeti nasıl yapılır?",
+  "keywords": [
+    "işyerinde cinsel taciz",
+    "cinsel taciz şikayet"
+  ],
+  "category": "İş",
+  "related": [
+    "koruma-karari-6284",
+    "savcilik-suc-duyurusu",
+    "is-sozlesmesi-feshi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/koruma-karari-6284"
+    },
+    {
+      "label": "TCK",
+      "href": "/kategori/tck-kisiler"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    }
+  ],
+  "lead": "Masanızda çalışırken ya da mesai arkadaşınızla iletişim kurarken istenmeyen, onur kırıcı bir durumla karşılaştınız. Asıl mesele, bu haksızlığı **sessizlikle geçiştirmemek** ve durumu işverene resmen bildirmektir.",
+  "keyInsight": "Tacizi işverene bildirdiğiniz halde gerekli önlemler alınmazsa, **derhal fesih hakkı** doğar.",
+  "sections": [
+    {
+      "heading": "Ne zaman hak doğar?",
+      "paragraphs": [
+        "İşyerinde başka bir işçi veya üçüncü kişiler tarafından cinsel tacize uğradığınızda süreç başlar. Bu durumu **işverene bildirdiğiniz** an, işyerindeki güven ve huzuru sağlama yükümlülüğü işverene geçer.",
+        "İşveren bu bildirime rağmen gerekli önlemleri almazsa, kanunen haklı duruma gelirsiniz. Bu aşamada **bildirim süresini beklemeksizin** iş sözleşmenizi sonlandırma hakkınız doğar."
+      ],
+      "bullets": [
+        "Tacizin işyerinde gerçekleşmesi",
+        "Durumun işverene bildirilmesi",
+        "Önlem alınmaması"
+      ]
+    },
+    {
+      "heading": "İşverenin sorumluluğu nedir?",
+      "paragraphs": [
+        "İşveren, çalışanların sağlığını ve güvenliğini korumakla yükümlüdür. Size yönelen bu haksızlığı öğrendikten sonra organizasyonu değiştirerek gerekli tedbirleri **derhal almak** zorundadır.",
+        "Eğer işveren sessiz kalır veya durumu ortadan kaldıracak adımları atmazsa, hukuki sorumluluk onun üzerindedir."
+      ],
+      "bullets": [
+        "Güvenli çalışma ortamı sağlama",
+        "Şikayeti inceleme ve tedbir alma"
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırınca ne olur?",
+      "paragraphs": [
+        "Yaşadığınız olay karşısında haklı nedenle fesih hakkınızı kullanacaksanız, adımlarınızı bilinçli atmalısınız. Olayı ve işverenin tepkisizliğini **belgelemek** en önemli savunmanızdır.",
+        "Gecikmeler, işverenin sorumluluğunu yerine getirmesi için tanıdığınız zamanı etkileyebilir ve haklılık pozisyonunuzu zayıflatabilir."
+      ],
+      "bullets": [
+        "Zamanında bildirim",
+        "Delillerin korunması"
+      ]
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "Bu süreçte sadece sözlü konuşmalarla ilerlememek gerekir. İşverene yaptığınız bildirimin ve aldığınız yanıtların yazılı olması elinizi güçlendirir.",
+        "Tanık olabilecek mesai arkadaşlarınızın beyanları veya yaşananlara dair diğer somut veriler sürecin netleşmesini sağlar."
+      ],
+      "bullets": [
+        "Yazılı bildirim dilekçesi",
+        "Tanık beyanları"
+      ]
+    }
+  ],
+  "steps": [
+    "Yaşadığınız cinsel taciz olayını net bir şekilde **yazılı olarak** işverene bildirin.",
+    "İşverenin gerekli önlemleri alması için makul süre içinde durumu takip edin.",
+    "Önlem alınmadığı takdirde haklı nedenle derhal fesih hakkınızı kullanın.",
+    "Ayrılış sürecinde tüm yazışmaları ve delilleri yanınızda saklayın."
+  ],
+  "documents": [
+    "Yazılı şikayet dilekçesi",
+    "İşverene iletilen bildirim belgeleri",
+    "Tanık listesi ve açıklamaları"
+  ],
+  "faq": [
+    {
+      "q": "Tacizi kime bildirmeliyim?",
+      "a": "Durumu doğrudan işverene veya şirketin yetkili insan kaynakları birimine yazılı olarak bildirmelisiniz."
+    },
+    {
+      "q": "İşveren önlem almazsa ne yapabilirim?",
+      "a": "İşverenin önlem almaması durumunda iş sözleşmenizi haklı nedenle **derhal feshedebilirsiniz**."
+    },
+    {
+      "q": "Bildirimi mutlaka yazılı mı yapmalıyım?",
+      "a": "İleride hak iddia edebilmeniz ve süreci kanıtlayabilmeniz için bildirimi yazılı yapmanız şarttır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "koruma-karari-6284",
+  "angle": "İşyeri taciz",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

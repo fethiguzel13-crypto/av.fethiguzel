@@ -1,0 +1,100 @@
+{
+  "slug": "aile-konutu-serhi",
+  "title": "Aile konutu şerhi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Aile konutu şerhi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
+  "h1": "Aile konutu şerhi",
+  "keywords": [
+    "aile konutu şerhi",
+    "aile konutu serhi"
+  ],
+  "category": "Aile",
+  "related": [
+    "mal-rejimi-tasfiyesi",
+    "tapu-devri-nasil-yapilir",
+    "bosanma-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/mal-rejimi-tasfiyesi"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    }
+  ],
+  "lead": "Evde otururken diğer eşin habersizce satılık ilanı koyduğunu gördünüz. Asıl soru, tapuda adı yazmasa bile bu yuvayı koruyup koruyamayacağınızdır.",
+  "keyInsight": "Tapuda adınız yazmasa bile **diğer eşin açık rızası** olmadan ev satılamaz veya ipotek yapılamaz.",
+  "sections": [
+    {
+      "heading": "Evdeki hak nasıl başlar?",
+      "paragraphs": [
+        "Eşlerden biri diğerinin rızası olmadan ortak yuvayla ilgili kira sözleşmesini feshedemez veya evi devredemez. Tapuda kayıtlı olmayan eş, **tapu müdürlüğüne** başvurarak konutla ilgili gerekli şerhin verilmesini isteyebilir.",
+        "Bu işlem, evin arkasından iş çevrilmesini engellemek için kurulan en net yasal kalandır. Evin kaderi tek bir kişinin dudağının ucuna bırakılmaz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kira evinde durum nedir?",
+      "paragraphs": [
+        "Eğer ev kira ise ve sözleşmede imzanız yoksa bile korkmayın. Kiralayana yapacağınız bildirimle sözleşmenin tarafı hâline gelir ve diğer eşle birlikte sorumlu olursunuz.",
+        "Böylece ev sahibi tek taraflı oyunlarla sizi kapının önüne koyamaz. **Bildirim hakkı** elinizdeki en güçlü güvencedir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Şiddet veya ayrılıkta ne olur?",
+      "paragraphs": [
+        "Ailenin korunmasına dair kanun çerçevesinde, hâkim kararıyla tapuya aile konutu şerhi konulması talep edilebilir. Tehlike anında kolluk kuvvetleri ve hâkim devreye girerek konutu korunan kişiye tahsis edebilir.",
+        "Boşanma veya iptal durumunda evde kimin kalacağı konusunda eşler anlaşabilir. Anlaşma olmazsa hâkim, çocukların menfaatini ve ekonomik durumu gözeterek **hakkaniyet gereği** kararı kendisi verir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Ortada tapu yoksa ne aranır?",
+      "paragraphs": [
+        "Tapu sicilinde ev maliki görünün kişi, diğer eşin rızasını almadan hakları sınırlayamaz. Rıza sağlanamazsa hâkim müdahalesi istenir.",
+        "Haklı bir sebep olmadan rızadan kaçınıldığı durumlarda mahkeme kapısı açılır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Evlilik cüzdanı ve nüfus kayıt örneğini alın.",
+    "Tapu müdürlüğüne giderek aile konutu şerhi için başvuru yapın.",
+    "Gerekirse hâkim müdahalesi için talepte bulunun.",
+    "Kira evinde iseniz kiralayana yazılı bildirim gönderin.",
+    "Şiddet veya tehdit varsa yetkili makamlara koruma başvurusu yapın."
+  ],
+  "documents": [
+    "Nüfus kayıt örneği",
+    "Evlilik cüzdanı",
+    "Tapu bilgileri veya kira sözleşmesi",
+    "Yerleşim yeri belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Tapuda adım yazmıyor, evi satabilirler mi?",
+      "a": "Diğer eşin açık rızası olmadan aile konutu satılamaz ve üzerindeki haklar sınırlanamaz."
+    },
+    {
+      "q": "Kira sözleşmesinde adım yok, evden çıkarılabilir miyim?",
+      "a": "Kiralayana yapacağınız bildirimle sözleşmenin tarafı hâline gelebilir ve konutta kalmaya devam edebilirsiniz."
+    },
+    {
+      "q": "Boşanma olursa evde kim kalacak?",
+      "a": "Eşler anlaşamazsa hâkim, çocukların menfaatini ve sosyal durumu gözeterek kararı kendisi verir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "mal-rejimi-tasfiyesi",
+  "angle": "Aile konutu şerhi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

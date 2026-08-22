@@ -1,0 +1,101 @@
+{
+  "slug": "nafaka-indirim-davasi",
+  "title": "Nafaka İndirim ve Kaldırma Davası | Vatandaş Rehberi",
+  "description": "Nafaka nasıl indirilir veya kaldırılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı.…",
+  "h1": "Nafaka nasıl indirilir veya kaldırılır?",
+  "keywords": [
+    "nafaka indirim davası",
+    "nafaka kaldırma"
+  ],
+  "category": "Aile",
+  "related": [
+    "nafaka-davasi-nedir",
+    "nafaka-artirim-davasi",
+    "yoksulluk-nafakasi-sartlari",
+    "nafaka-odenmezse"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/nafaka-davasi-nedir"
+    },
+    {
+      "label": "Nafaka",
+      "href": "/hesaplama/nafaka"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    }
+  ],
+  "lead": "Nafaka ödemekte zorlandığınızda ya da koşullar değiştiğinde, durumu mahkeme önünde yeniden değerlendirtmek mümkündür. Önemli olan, elinizdeki belgelerle değişen hayat şartlarını açıkça ortaya koymaktır.",
+  "keyInsight": "Nafakanın indirilmesi veya kaldırılması için gelir veya yaşam koşullarında esaslı bir değişiklik gerçekleşmiş olması gerekir.",
+  "sections": [
+    {
+      "heading": "Koşullar Nasıl Değişir?",
+      "paragraphs": [
+        "Hayat sürprizlerle doludur ve mahkemenin başlangıçta belirlediği rakamlar zamanla tarafların gerçek durumunu yansıtmayabilir. İşinizi kaybetmiş veya geliriniz ciddi biçimde azalmış olabilirsiniz. Önemli olan, bu değişimin **kalıcı ve öngörülemez** nitelikte olmasıdır.",
+        "Ayrıca nafaka alan tarafın ekonomik durumunda iyileşme olması da bu süreci tetikler. Örneğin borçlunun ödeme gücünün düşmesi ya da alacaklının kendi kendine yetecek maddi imkâna kavuşması dengeleri değiştirir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hangi Adımlar Atılmalıdır?",
+      "paragraphs": [
+        "Durumun değiştiğini fark ettiğiniz anda harekete geçmeniz gerekir. Süreci **doğru belgelerle** destekleyerek yetkili mercilere başvurmalısınız.",
+        "Mahkeme aşamasında hâkim, tarafların ekonomik ve sosyal durumunu yeniden inceler. Bu aşamada yapılan harcamalar, gelir belgeleri ve borç durumları titizlikle masaya yatırılır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Maaş Kesintisi Nasıl Uygulanır?",
+      "paragraphs": [
+        "Nafaka borcunun ödenmesinde Sosyal Güvenlik Kurumu ile bağlantı kurulması durumunda süreç otomatik işleyebilir. Korunan kişinin başvurusu aranmaksızın nafaka, ilgilinin aylık veya maaşından icra müdürlüğü aracılığıyla tahsil edilebilir.",
+        "Bu aşamada icra müdürlüklerinin yürüttüğü işlemler ve posta giderleri resmi ödeneklerden karşılanır. Maaş haczi veya kesintisi, borcun düzenli tahsilini sağlayan pratik bir yöntemdir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Geçici Önlemler Nelerdir?",
+      "paragraphs": [
+        "Dava süreci devam ederken mahkeme, tarafların mağdur olmaması için **geçici önlemler** alabilir. Bu önlemler, davanın sonuna kadar tarafların hak kaybına uğramasını engellemeyi amaçlar.",
+        "Hâkim, talep edilmesi halinde dava süresince gerekli olan tedbirleri derhal devreye sokar ve uygun görülen miktarların ödenmesini veya depo edilmesini isteyebilir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Değişen ekonomik ve sosyal koşulları kanıtlayan belgeleri bir araya getirin.",
+    "Sosyal Güvenlik Kurumu ve gelir durumunuzu gösteren evrakı hazırlayın.",
+    "Yetkili mahkemeye başvurarak durumun yeniden değerlendirilmesini talep edin.",
+    "Dava sürecinde hâkimin isteyebileceği ek bilgi ve belgeleri eksiksiz sunun.",
+    "İcra müdürlüğü ve ilgili kurumlarca yürütülen maaş kesintisi işlemlerini takip edin."
+  ],
+  "documents": [
+    "Gelir ve maaş bordroları",
+    "İşten ayrılış veya SGK kayıt belgeleri",
+    "Mali durumu gösteren tapu, araç ve banka dökümleri",
+    "Varsa masrafları kanıtlayan fatura ve kira kontratları"
+  ],
+  "faq": [
+    {
+      "q": "Nafaka tamamen kaldırılabilir mi?",
+      "a": "Alacaklı tarafın ekonomik durumunun iyileşmesi veya borçlunun ödeme gücünü tamamen kaybetmesi halinde kaldırma istenebilir."
+    },
+    {
+      "q": "Dava devam ederken nafaka ödemeye devam edilecek mi?",
+      "a": "Mahkeme yeni bir karar verene kadar mevcut nafaka yükümlülüğü devam eder."
+    },
+    {
+      "q": "Maaşımdan doğrudan kesinti yapılıyor, ne yapmalıyım?",
+      "a": "Sosyal Güvenlik Kurumu bağlantısı olan durumlarda icra müdürlüğü maaştan kesinti yapabilir; bu süreç yasal prosedüre dayanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "nafaka-davasi-nedir",
+  "angle": "İndirim veya kaldırma",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

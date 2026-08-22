@@ -1,0 +1,117 @@
+{
+  "slug": "fazla-mesai-ucreti-nasil-hesaplanir",
+  "title": "Fazla Mesai Ücreti: %50 Zam, 270 Saat Sınırı ve Serbest Zaman",
+  "description": "Fazla çalışma kaç saatten sonra başlar, ücreti nasıl hesaplanır, yıllık sınır nedir, serbest zaman seçeneği nasıl kullanılır? 4857 sayılı Kanun m.41 ve m.63 çerçevesinde.",
+  "h1": "Fazla mesai ücreti nasıl hesaplanır?",
+  "keywords": [
+    "fazla mesai ücreti",
+    "fazla çalışma hesaplama",
+    "haftalık 45 saat",
+    "fazla mesai sınırı 270 saat",
+    "serbest zaman",
+    "fazla sürelerle çalışma"
+  ],
+  "category": "İş",
+  "related": [
+    "kidem-tazminati-nasil-alinir"
+  ],
+  "links": [
+    {
+      "label": "İş K. m.41 — Fazla çalışma ücreti",
+      "href": "/mevzuat/is-kanunu/madde-41"
+    },
+    {
+      "label": "İş K. m.63 — Çalışma süresi",
+      "href": "/mevzuat/is-kanunu/madde-63"
+    },
+    {
+      "label": "Fazla mesai hesaplama aracı",
+      "href": "/hesaplama/fazla-mesai"
+    }
+  ],
+  "lead": "Fazla mesai, haftalık çalışma süreniz olan kırk beş saati aşan her türlü çalışmadır. Hak ettiğiniz ücretin eksiksiz ödenmesi, çalışma saatlerinizin doğru kaydedilmesine bağlıdır.",
+  "keyInsight": "Haftalık kırk beş saati aşan çalışmalar için zamlı ücret ödenmesi zorunludur ancak bunun için işçinin onayı şarttır.",
+  "sections": [
+    {
+      "heading": "Haftalık çalışma süresi nasıl hesaplanır?",
+      "paragraphs": [
+        "Fazla mesaiyi belirleyen ölçü günlük değil, haftalık çalışma süresidir. İş kanununa göre genel çalışma süresi haftada en çok kırk beş saattir.",
+        "Bir gün on saat çalışıp diğer gün altı saat çalışmanız tek başına fazla mesai doğurmaz. Önemli olan, haftanın toplamında kırk beş saatin aşılıp aşılmadığıdır."
+      ],
+      "bullets": [
+        "Günlük çalışma sınırı on bir saattir.",
+        "Haftalık toplam süreyi esas alın."
+      ]
+    },
+    {
+      "heading": "Zam oranları arasındaki fark nedir?",
+      "paragraphs": [
+        "İki farklı zam oranı söz konusudur. Haftalık çalışma süreniz sözleşmede kırk beş saatin altında belirlenmişse, bu süreyi aşan ve kırk beş saate kadar olan çalışmalar yüzde yirmi beş zamlı ödenir.",
+        "Kırk beş saati aşan çalışmalar için ise her saat başına düşen ücretin yüzde elli yükseltilmesi gerekir."
+      ],
+      "bullets": [
+        "Sözleşme süresi ile 45 saat arası: %25 zamlı.",
+        "45 saati aşan her saat: %50 zamlı."
+      ]
+    },
+    {
+      "heading": "Denkleştirme nedir ve mesaiyi nasıl etkiler?",
+      "paragraphs": [
+        "İşverenle anlaştıysanız, haftalık çalışma süresi bazı haftalarda kırk beş saati aşabilir. Ancak bu durum, iki aylık dönem içindeki haftalık ortalamanın kırk beş saati aşmaması şartıyla fazla mesai sayılmaz.",
+        "Denkleştirme bir muafiyet değil, hesap yöntemidir. Eğer iki aylık ortalama kırk beş saati geçiyorsa, fazla çalışma ücretine hak kazanırsınız."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Ücret yerine izin kullanabilir misiniz?",
+      "paragraphs": [
+        "Fazla çalışma karşılığında zamlı ücret yerine serbest zaman kullanma hakkınız vardır. Bu seçim tamamen size aittir; işveren sizi izin kullanmaya zorlayamaz.",
+        "Fazla çalıştığınız her saat için bir saat otuz dakika, fazla sürelerle çalıştığınız her saat için ise bir saat on beş dakika izin hakkınız doğar."
+      ],
+      "bullets": [
+        "İzinler altı ay içinde kullanılmalıdır.",
+        "İzin süresince ücretinizden kesinti yapılamaz."
+      ]
+    },
+    {
+      "heading": "İspat süreci nasıl yönetilir?",
+      "paragraphs": [
+        "Mesai alacaklarında en önemli delil puantaj, giriş-çıkış kayıtları ve bordrolardır. Bordroda fazla mesai görünüyor ancak ödenmiyorsa, mutlaka ihtirazi kayıt düşerek imzalayın.",
+        "Resmi kayıtların olmadığı durumlarda tanık beyanları devreye girer. Ancak kendi çalışma düzeninizi günlük olarak not almanız, olası bir uyuşmazlıkta elinizi güçlendirir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Haftalık toplam fiili çalışma sürenizi hesaplayın.",
+    "Sözleşmenizde haftalık çalışma süresinin ne olduğunu kontrol edin.",
+    "Fazla çalışma için işverenden onay alınıp alınmadığını teyit edin.",
+    "Yıllık toplam fazla mesai süresinin **270 saati** aşmadığından emin olun.",
+    "Ödenmeyen mesai ücretleriniz için arabulucuya başvurun."
+  ],
+  "documents": [
+    "İş sözleşmesi",
+    "Puantaj kayıtları",
+    "İşyeri giriş-çıkış kayıtları",
+    "Maaş bordroları"
+  ],
+  "faq": [
+    {
+      "q": "Fazla mesaiye zorlanabilir miyim?",
+      "a": "Hayır, fazla saatlerle çalışmak için işçinin onayının alınması yasal bir zorunluluktur."
+    },
+    {
+      "q": "Yıllık fazla mesai sınırı ne kadardır?",
+      "a": "Fazla çalışma süresinin toplamı bir yılda **270 saati** aşamaz."
+    },
+    {
+      "q": "Gece çalışmasında fazla mesai olur mu?",
+      "a": "Hayır, gece çalışmasında fazla çalışma yapılması yasaktır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.94,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "gecerli-fesih-nedir",
+  "title": "Geçerli fesih ile haklı fesih farkı — Vatandaş Rehberi | Av. Fethi Güz",
+  "description": "Geçerli fesih ile haklı fesih farkı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
+  "h1": "Geçerli fesih ile haklı fesih farkı",
+  "keywords": [
+    "geçerli fesih",
+    "iş güvencesi geçerli neden"
+  ],
+  "category": "İş",
+  "related": [
+    "is-sozlesmesi-feshi",
+    "ise-iade-davasi",
+    "isveren-hakli-fesih"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/is-sozlesmesi-feshi"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Arabuluculuk",
+      "href": "/rehber/arabuluculuk"
+    }
+  ],
+  "lead": "Sabah işe geldiğinizde masanızda fesih bildirimini buldunuz. Asıl mesele işten çıkarılmanız değil, bu ayrılığın kanuna uygun bir nedene dayanıp dayanmadığıdır.",
+  "keyInsight": "Geçerli fesih için işyerindeki çalışan sayısı ve kıdem şartı aranırken, yasaklı nedenlerin fesih sebebi yapılamayacağı unutulmamalıdır.",
+  "sections": [
+    {
+      "heading": "İş güvencesi hangi şartlarda başlar?",
+      "paragraphs": [
+        "Otuz veya daha fazla işçi çalıştıran bir işyerinde ter döküyorsunuz. Belirsiz süreli iş sözleşmeniz var ve **en az altı aylık kıdeminiz** tamamlanmış durumda. Bu tablo, işverenin sizi kapının önüne koyarken keyfi hareket edemeyeceği anlamına gelir.",
+        "İşveren bu şartları sağlayan işçiyi ancak geçerli bir sebebe dayanarak işten çıkarabilir. Bu sebep sizin işinizdeki yeterliliğinizden, davranışlarınızdan ya da işletmenin ve işin gerekliliklerinden doğmak zorundadır."
+      ],
+      "bullets": [
+        "Otuz veya daha fazla işçi",
+        "En az altı aylık kıdem",
+        "Yeraltı işlerinde kıdem şartı aranmaz"
+      ]
+    },
+    {
+      "heading": "Hangi bahaneler asla geçerli sayılmaz?",
+      "paragraphs": [
+        "İşveren sizi işten çıkarmak için her bahane bulamaz. Kanun, hangi durumların asla geçerli bir fesih sebebi olamayacağını açıkça çizer. Sendikal faaliyetlere katılmak veya işveren aleyhine yasal yollara başvurmak bu korumanın altını çizer.",
+        "Irk, renk, cinsiyet, hamilelik, siyasi görüş veya hastalık nedeniyle işe geçici devamsızlık yapmak **asla geçerli fesih sebebi** oluşturmaz. İşveren bu gerekçelerin arkasına sığınarak sözleşmenizi feshedemez."
+      ],
+      "bullets": [
+        "Sendika üyeliği ve faaliyetleri",
+        "Yasal hak arama yollarına başvurmak",
+        "Irk, cinsiyet ve hamilelik"
+      ]
+    },
+    {
+      "heading": "Kıdem hesabında neler dikkate alınır?",
+      "paragraphs": [
+        "Altı aylık kıdeminiz hesaplanırken sadece fiilen çalıştığınız günler sayılmaz. İş Kanunu'ndaki belirli süreler bu hesaba dahil edilir ve toplam süre doğru şekilde birleştirilir.",
+        "Aynı işverenin farklı işyerlerinde geçen çalışmalarınız tek bir havuzda toplanır. İşyerindeki toplam işçi sayısı hesaplanırken işverenin o işkolundaki tüm çalışanları dikkate alınır."
+      ],
+      "bullets": [
+        "Aynı işverenin farklı işyerleri birleştirilir",
+        "Toplam işçi sayısı esas alınır"
+      ]
+    },
+    {
+      "heading": "Yönetici pozisyonundakiler bu kapsamda mı?",
+      "paragraphs": [
+        "Şirketteki konumunuz iş güvencesi kurallarını doğrudan etkiler. İşletmenin bütününü sevk ve idare eden genel müdür veya üst düzey işveren vekilleri için bu güvence kuralları işlemez.",
+        "İşyerinin tamamını yöneten ve işçi alıp çıkarma yetkisine sahip olan vekiller, kanunun bu maddesindeki güvence korumasından yararlanamaz."
+      ],
+      "bullets": [
+        "İşletmeyi sevk ve idare edenler",
+        "İşe alma ve çıkarma yetkisi olanlar"
+      ]
+    }
+  ],
+  "steps": [
+    "İşyerindeki toplam çalışan sayısını ve kendi kıdem sürenizi kontrol edin.",
+    "Fesih bildiriminin yazılı olarak tarafınıza tebliğ edilmesini isteyin.",
+    "Feshin dayandırıldığı gerekçenin kanundaki yasaklı nedenlerden biri olup olmadığını inceleyin.",
+    "Hak arama sürelerini kaçırmamak için hukuki süreci başlatın."
+  ],
+  "documents": [
+    "İş sözleşmesi",
+    "Fesih bildirim yazısı",
+    "Hizmet dökümü",
+    "Çalışma kayıtları"
+  ],
+  "faq": [
+    {
+      "q": "Her işyerinde çalışan iş güvencesinden yararlanabilir mi?",
+      "a": "Hayır, otuz veya daha fazla işçi çalıştıran işyerlerinde ve en az altı aylık kıdemi olan işçiler için bu güvence geçerlidir."
+    },
+    {
+      "q": "Sendikal faaliyetlere katılmak işten çıkış nedeni olabilir mi?",
+      "a": "Kesinlikle olamaz. Kanun, sendika üyeliğini veya bu amaçla faaliyet göstermeyi açıkça geçersiz fesih sebebi saymıştır."
+    },
+    {
+      "q": "Yeraltı işlerinde çalışanlar için kıdem şartı var mı?",
+      "a": "Hayır, yeraltı işlerinde çalışan işçiler için altı aylık kıdem şartı aranmaz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "is-sozlesmesi-feshi",
+  "angle": "Geçerli fesih",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

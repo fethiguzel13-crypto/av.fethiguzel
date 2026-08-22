@@ -1,0 +1,112 @@
+{
+  "slug": "hizli-yargilama-usulu",
+  "title": "Seri muhakeme — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Seri muhakeme hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata dan…",
+  "h1": "Seri muhakeme",
+  "keywords": [
+    "seri muhakeme",
+    "hizli yargilama usulu"
+  ],
+  "category": "Ceza",
+  "related": [
+    "tutuklama-nedir",
+    "ceza-sorusturmasi-sureci",
+    "uzlastirma-nedir",
+    "savcilik-suc-duyurusu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tutuklama-nedir"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    },
+    {
+      "label": "TCK",
+      "href": "/kategori/tck-genel"
+    }
+  ],
+  "lead": "Seri muhakeme usulü, adliyede uzun duruşma süreçlerini beklemek istemeyenler için savcılık aşamasında yürütülen alternatif bir yargılama yoludur. Bu yöntemle dosyanın mahkemeye gitmeden hızlıca sonuçlandırılması hedeflenir.",
+  "keyInsight": "Bu yola başvurabilmek için soruşturma dosyasındaki şartların oluşması ve sürecin kurallara uygun işletilmesi **şarttır**.",
+  "sections": [
+    {
+      "heading": "Dosya masaya geldiğinde ne olur?",
+      "paragraphs": [
+        "Savcılık masanıza gelen evrakı incelediğinde olayın mahiyetine bakar. Hazırlık soruşturması sırasında deliller toplanır ve hukuki durum tartılır.",
+        "Yapılan inceleme neticesinde dosyanın bu usule uygun olup olmadığına karar verilir. Karar verilirken ilgili suçun kanundaki yeri gözetilir."
+      ],
+      "bullets": [
+        "Evrak kontrolü yapılır",
+        "Şartlar denetlenir"
+      ]
+    },
+    {
+      "heading": "Savcının yürüttüğü inceleme",
+      "paragraphs": [
+        "Cumhuriyet savcısı, doğrudan doğruya veya emrindeki adlî kolluk görevlileri aracılığı ile her türlü araştırmayı yapabilir. Bu aşamada kamu görevlilerinden gerekli bilgiler istenir.",
+        "Savcılık, adlî görevi gereğince ihtiyaç duyduğu her türlü işlemi ilgili birimlerle koordine eder."
+      ],
+      "bullets": [
+        "Kolluk vasıtasıyla araştırma",
+        "Kurumlardan bilgi isteme"
+      ]
+    },
+    {
+      "heading": "Yabancı unsurlu olaylarda durum",
+      "paragraphs": [
+        "Olayın yabancı bir ülkede gerçekleşmesi veya yabancıları ilgilendirmesi halinde kanuni sınırlar devreye girer. Türk vatandaşının yabancı ülkede işlediği suçlarda belirli ceza alt sınırları aranır.",
+        "Yabancıların Türkiye'de işlediği suçlarda ise Adalet Bakanı'nın istemi veya zarar görenin şikayeti gibi **özel koşullar** aranabilir."
+      ],
+      "bullets": [
+        "Vatandaşın dış ülkedeki fiili",
+        "Bakanlık talebi ve şikayet"
+      ]
+    },
+    {
+      "heading": "Özel suç tipleri ve istisnalar",
+      "paragraphs": [
+        "Bazı ağır suç iddialarında veya belirli kamu görevlileriyle ilgili soruşturmalarda doğrudan ve öncelikli işlemler yapılır. Kolluk görevlileri hakkındaki bazı iddialar acele işlerden sayılır.",
+        "Bu tür dosyalarda kanun yolu incelemesi de öncelikli olarak yürütülür ve savcılar soruşturmayı bizzat ele alır."
+      ],
+      "bullets": [
+        "Öncelikli soruşturma konuları",
+        "Özel görevli personel"
+      ]
+    }
+  ],
+  "steps": [
+    "Savcılık tarafından yürütülen ön araştırmaları takip edin",
+    "İstenen bilgi ve belgeleri eksiksiz şekilde yetkililere sunun",
+    "Adli kolluk birimlerinin taleplerine zamanında yanıt verin",
+    "Dosyanın durumuna göre yapılan tebligatları dikkatle inceleyin"
+  ],
+  "documents": [
+    "Kimlik belgesi",
+    "Savcılık tebligatı",
+    "İlgili soruşturma evrakı",
+    "Kurum yazışmaları"
+  ],
+  "faq": [
+    {
+      "q": "Her dosyada bu yöntem uygulanabilir mi?",
+      "a": "Dosyanın niteliği ve kanundaki şartlar bu usulün uygulanıp uygulanamayacağını belirler."
+    },
+    {
+      "q": "Yabancı ülkede işlenen suçlar nasıl değerlendirilir?",
+      "a": "Suçun niteliğine, failin durumuna ve ilgili kanun maddelerindeki sınırlara göre işlem yapılır."
+    },
+    {
+      "q": "Süreç sırasında nereye başvurulmalıdır?",
+      "a": "İşlemler soruşturmayı yürüten Cumhuriyet savcılığı nezdinde yürütülür."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tutuklama-nedir",
+  "angle": "Seri muhakeme",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

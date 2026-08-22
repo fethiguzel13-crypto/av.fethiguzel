@@ -1,0 +1,100 @@
+{
+  "slug": "maddi-tazminat-nedir",
+  "title": "Maddi tazminat — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Maddi tazminat hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata da…",
+  "h1": "Maddi tazminat",
+  "keywords": [
+    "maddi tazminat",
+    "maddi tazminat nedir"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "temerrut-faizi-nedir",
+    "manevi-tazminat-nedir",
+    "trafik-kazasi-tazminati",
+    "malpraktis-davasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/temerrut-faizi-nedir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "Hesaplama",
+      "href": "/hesaplama"
+    }
+  ],
+  "lead": "Beklediğiniz bir hizmet gelmediğinde ya da söz verilen mal teslim edilmediğinde cebinizden çıkan fazladan parayı geri istemeniz maddi tazminattır. Karşı taraf sözünde durmadığı an, uğradığınız ekonomik kaybı gidermek için yasal zemin doğar.",
+  "keyInsight": "Asıl tuzak, karşı tarafın gecikmede kusuru olmadığını kanıtlaması halinde tazminat yükümlülüğünün kalkacak olmasıdır.",
+  "sections": [
+    {
+      "heading": "Söz tutulmadığında ne başlar?",
+      "paragraphs": [
+        "Kapınıza gelmeyen bir sipariş veya zamanında yapılmayan bir iş düşünün. Karşı taraf borcunu vaktinde yerine getirmediğinde temerrüt denilen gecikme durumu ortaya çıkar. Bu durum, elinizdeki **zararı talep etme** kapısını aralar.",
+        "Borçlu duruma düştüğünde, gecikmenin kendi suçundan kaynaklanmadığını ispat etmek zorundadır. Aksi takdirde, işin geç yapılmasından ötürü cebinizden çıkan ekstra masrafı ödemekle yükümlü hale gelir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Elinizdeki yollar nelerdir?",
+      "paragraphs": [
+        "Süre verildiği halde borç ödenmediğinde karşınıza farklı seçimlik haklar çıkar. Dilerseniz borcun kendisini ve gecikme yüzünden doğan zararı isteyebilir, ya da bu haktan vazgeçip doğrudan sözleşmeden dönebilirsiniz.",
+        "Sözleşmeden döndüğünüzde taraflar karşılıklı olarak borçtan kurtulur ve daha önce verdiklerini geri ister. Borçlu, gecikmede kusurlu olmadığını kanıtlayamazsa **sözleşmenin hükümsüz kalması** yüzünden yanan paranızı da talep edebilirsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Sürekli işlerde durum nasıldır?",
+      "paragraphs": [
+        "Her gün devam eden kira veya hizmet gibi sürekli edimli işlerde tablo biraz daha farklıdır. İş başlamış ancak karşı taraf aksatıyorsa, yine gecikme tazminatı isteyebilir veya işi tamamen feshedebilirsiniz.",
+        "Sözleşmeyi erken bitirmek zorunda kalmanız cebinize zarar verdiyse, bu **erken sona erme** yüzünden kaybettiğiniz miktarın giderilmesini de talep etme hakkınız saklıdır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Zarar nasıl ispat edilir?",
+      "paragraphs": [
+        "Mahkeme kapısını çalmadan önce, uğradığınız zararın boyutu net biçimde ortaya konmalıdır. Karşı tarafın borcunu yerine getirmemesi ile sizin cüzdanınızdan eksilen para arasındaki bağı kurmak gerekir.",
+        "Faturalar, yapılan fazladan ödemeler ve yazılı bildirimler bu aşamada en büyük dayanağınızdır. Hak iddia ederken elinizdeki kağıtların eksiksiz olması işinizi kolaylaştırır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Karşı tarafa borcunu yerine getirmesi için açıkça bildirimde bulunun.",
+    "Gecikme yüzünden cebinizden çıkan masrafları ve faturaları bir araya getirin.",
+    "Zararın giderilmesi veya sözleşmeden dönme haklarından size uyanı seçin.",
+    "Borçlunun kusursuzluk iddiasına karşı kendi delillerinizi hazırlayın."
+  ],
+  "documents": [
+    "Varsa yazılı sözleşme metni",
+    "Gecikmeyi gösteren ihtar veya yazışmalar",
+    "Uğranılan maddi kaybı kanıtlayan faturalar",
+    "Yapılan masraflara ait dekontlar"
+  ],
+  "faq": [
+    {
+      "q": "Karşı taraf gecikmede kusuru olmadığını söylerse ne olur?",
+      "a": "Borçlu, gecikmekte kendi kusuru olmadığını ispat etmek zorundadır. Bunu kanıtlayamazsa zararı öder."
+    },
+    {
+      "q": "Sözleşmeden dönersem daha önce verdiklerimi geri alabilir miyim?",
+      "a": "Evet, sözleşmeden dönme halinde taraflar karşılıklı olarak ifa yükümlülüğünden kurtulur ve verdiklerini geri isteyebilir."
+    },
+    {
+      "q": "Sürekli işlerde sözleşmeyi feshedebilir miyim?",
+      "a": "İfasına başlanmış sürekli edimli sözleşmelerde temerrüt halinde fesih hakkınız ve buna bağlı zarar isteme hakkınız vardır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "temerrut-faizi-nedir",
+  "angle": "Maddi tazminat",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

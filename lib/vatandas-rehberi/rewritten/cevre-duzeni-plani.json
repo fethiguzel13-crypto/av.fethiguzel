@@ -1,0 +1,99 @@
+{
+  "slug": "cevre-duzeni-plani",
+  "title": "Çevre düzeni planı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Çevre düzeni planı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
+  "h1": "Çevre düzeni planı",
+  "keywords": [
+    "çevre düzeni planı",
+    "cevre duzeni plani"
+  ],
+  "category": "İmar",
+  "related": [
+    "kentsel-donusum-nedir",
+    "imar-durumu-nedir",
+    "imar-planina-itiraz",
+    "yapı-ruhsati-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kentsel-donusum-nedir"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    },
+    {
+      "label": "Belediye",
+      "href": "/kategori/belediye"
+    }
+  ],
+  "lead": "Çevre düzeni planı, bölgenin gelecekteki kullanım şeklini belirleyen en üst kademe mekânsal plandır. Bu plan, alt kademedeki imar planlarının temel dayanağını oluşturur.",
+  "keyInsight": "Tüm imar planları, bir üst kademede yer alan çevre düzeni planına uygun olarak hazırlanmak zorundadır.",
+  "sections": [
+    {
+      "heading": "Çevre düzeni planı nedir?",
+      "paragraphs": [
+        "Bir bölgenin genel stratejisini belirleyen, arazi kullanım kararlarını içeren kapsamlı bir belgedir. Mekânsal planlama kademelerinde en üstte yer alır.",
+        "Bu plan, bölgedeki yerleşme alanlarının büyüklüğünden ulaşım sistemlerine kadar birçok detayın temel çerçevesini çizer."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Neden önemlidir?",
+      "paragraphs": [
+        "Nazım ve uygulama imar planları yapılırken bu plana aykırı düzenleme yapılamaz. Yani, alt planların rotasını belirleyen ana kılavuzdur.",
+        "Bölgenin kalkınma hedefleri ve stratejileri bu plan sayesinde mekâna yansıtılır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Planlar arası ilişki nasıl kurulur?",
+      "paragraphs": [
+        "Her plan kendi üstündeki plana uymakla yükümlüdür. Çevre düzeni planı, bölge planları varsa onlara uygun hazırlanır.",
+        "Bu hiyerarşik yapı, plansız yapılaşmanın önüne geçmek ve düzenli bir gelişme sağlamak için kurgulanmıştır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kimler onaylar?",
+      "paragraphs": [
+        "Belediye meclisleri, kendi yetki alanlarındaki çevre düzeni planlarını görüşüp onaylama görevine sahiptir.",
+        "Büyükşehir belediyelerinde ise il çevre düzeni planı bizzat büyükşehir belediyesi tarafından hazırlanır ve meclis tarafından onaylanır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Bölgenizin hangi çevre düzeni planına tabi olduğunu belediyeden öğrenin.",
+    "Yapacağınız inşaatın plan kararlarıyla uyumlu olup olmadığını kontrol edin.",
+    "Büyükşehirlerde il çevre düzeni planı için ilgili belediye meclisinin kararlarını inceleyin.",
+    "Plan değişiklikleri veya güncellemeleri için belediyenin ilan panolarını takip edin."
+  ],
+  "documents": [
+    "Çevre düzeni planı raporu",
+    "Plan hükümleri metni",
+    "İlgili belediye meclis kararı"
+  ],
+  "faq": [
+    {
+      "q": "Çevre düzeni planına aykırı imar planı yapılabilir mi?",
+      "a": "Hayır, her plan bir üst kademedeki plana uygun olmak zorundadır."
+    },
+    {
+      "q": "Büyükşehirlerde planı kim yapar?",
+      "a": "Büyükşehir belediyeleri, il çevre düzeni planını bizzat hazırlar veya hazırlatır."
+    },
+    {
+      "q": "Bu planlar nerede yayımlanır?",
+      "a": "Belediye meclislerinde onaylanan planlar, yerel yönetimlerin ilan sistemleri üzerinden takip edilebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kentsel-donusum-nedir",
+  "angle": "Çevre düzeni planı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

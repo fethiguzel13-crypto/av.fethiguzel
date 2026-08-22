@@ -1,0 +1,108 @@
+{
+  "slug": "hak-dusurucu-sure",
+  "title": "Hak düşürücü süre farkı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Hak düşürücü süre farkı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
+  "h1": "Hak düşürücü süre farkı",
+  "keywords": [
+    "hak düşürücü süre farkı",
+    "hak dusurucu sure"
+  ],
+  "category": "Usul",
+  "related": [
+    "zamanaşimi-nedir",
+    "odeme-emrine-itiraz",
+    "idari-dava-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/zamanaşimi-nedir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Bir hakkı kullanmak ya da dava açmak istediğinizde takvimle aranızdaki en sert çizgi hak düşürücü süredir. Bu süre dolduğunda hakkınız tamamen sona erer ve mahkeme bunu kendiliğinden dikkate alır. Kapınıza bir tebligat yapıştırıldığı veya bir durumdan haberdar olduğunuz an zaman kısıtlamaları durmaksızın işlemeye başlar.",
+  "keyInsight": "Hak düşürücü süre kendiliğinden uzamaz; ancak arabuluculuk sürecinin başlamasından sona ermesine kadar geçen zaman bu hesabın dışında tutulur.",
+  "sections": [
+    {
+      "heading": "Kapıya yapıştırılan ihbarname hayatınızı nasıl etkiler?",
+      "paragraphs": [
+        "Sabah evden çıktınız, akşam döndüğünüzde kapınızda sarı bir tebligat kağıdı gördünüz. Postacı adresinizde bulunamadığınız için evrakı mahalle muhtarına teslim etmiş ve kapınıza ihbarname yapıştırmıştır.",
+        "Tebligat Kanunu uyarınca, o **ihbarnamenin kapıya yapıştırıldığı tarih** resmen tebliğ tarihi sayılır. Kağıdı kapıdan ne zaman söktüğünüzün veya muhtardan belgeyi ne zaman gidip aldığınızın bir önemi yoktur; hak düşürücü süreler tam da o yapıştırma günü işlemeye başlar.",
+        "Ayrıca tebligat evde başkasına yapılmışsa, o kişinin görünüşe nazaran **onsekiz yaşından aşağı olmaması** ve bariz bir surette ehliyetsiz bulunmaması şarttır. Evrak imza atamayacak durumdaki birine teslim edilmişse, sol elin baş parmağı bastırılarak işlem tamamlanır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Arabuluculuk masası süreyi gerçekten dondurur mu?",
+      "paragraphs": [
+        "Hak arama yoluna girmeden önce arabulucuya başvurduğunuzu düşünün. Tarafların ilk toplantıya davet edilmesi ve sürecin devam ettirilmesi konusunda anlaşılarak bunun tutanağa bağlandığı tarihte arabuluculuk resmen başlar.",
+        "Arabuluculuk sürecinin başlamasından sona ermesine kadar geçirilen süre, zamanaşımı ve hak düşürücü sürelerin hesaplanmasında dikkate alınmaz. Yasa bu aradaki zamanı adeta dondurarak hak kaybına uğramanıza engel olur.",
+        "Dava şartı olan arabuluculukta anlaşma sağlanamazsa son tutanak tutulur. Mahkeme sizden bu tutanağı ister; eksiklik halinde hakim size **bir haftalık kesin süre** tanır. Bu süre içinde tutanağı mahkemeye sunmazsanız davanız usulden reddedilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Mahkeme hak düşürücü süreyi ne zaman inceler?",
+      "paragraphs": [
+        "Davanız açıldı ve duruşma aşamasına geçildi. Hâkim, tarafların iddialarının esasına girmeden önce dosyadaki sürelerin usulüne uygun geçip geçmediğini denetlemek zorundadır.",
+        "Ön inceleme duruşması tamamlandıktan sonra, hâkim tahkikata başlamadan önce hak düşürücü süreler ile zamanaşımı hakkındaki itiraz ve def'ileri inceleyerek karara bağlar. Basit yargılama usulünde ise ilk duruşmada taraflar bu hususlarda dinlenir.",
+        "Basit yargılamada işlemden kaldırılan dosya yenilendikten sonra tekrar takipsiz bırakılırsa dava açılmamış sayılır. Mahkeme duruşmalar arasındaki sürenin **bir aydan daha uzun** olamayacağını kural olarak benimser."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yargılamanın iadesinde ne kadar zamanınız var?",
+      "paragraphs": [
+        "Kesinleşmiş bir mahkeme kararına karşı yeni bir belge elde ettiğinizi veya kararda hile yapıldığını sonradan fark ettiğinizi hayal edin. Bu durumda yargılamanın iadesi yoluna başvurma hakkınız doğabilir.",
+        "Yeni belgenin elde edildiği veya durumun öğrenildiği tarihten itibaren **üç ay** içinde harekete geçmeniz gerekir. Bu süre hakkın kullanılması için konulmuş katı bir sınırdır.",
+        "Öğrenme tarihi ne olursa olsun, iade talebine konu olan hükmün kesinleşmesinden itibaren **on yıldır** geçmesiyle bu hak her halde tamamen düşer. Yasa belirli istisnalar dışında bu üst sınırın aşılmasına izin vermez."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Kapınıza yapıştırılan tebligat ihbarnamesinin üzerindeki tarihi derhal kaydetip muhtarlıktaki evrakı teslim alın.",
+    "Hak arama sürecinde sürenin durup durmadığını kontrol etmek için arabuluculuğa başvuru ve son tutanak tarihlerini belgelendirin.",
+    "Dava şartı arabuluculuk son tutanağının aslını veya onaylı örneğini dava dilekçenize ekleyin.",
+    "Mahkemeden gelen eksiklik tamamlama ihtar tebligatlarındaki bir haftalık kesin süreyi kaçırmadan evrakları dosyaya sunun.",
+    "Yeni bir belge veya durum ortaya çıktığında üç aylık ve on yıllık iade sürelerini dikkate alarak başvurunuzu yapın."
+  ],
+  "documents": [
+    "Kapıya yapıştırılan ihbarname veya muhtardan teslim alınan tebligat evrakı",
+    "Arabuluculuk faaliyeti sonunda düzenlenen anlaşamama son tutanağı aslı veya onaylı örneği",
+    "Yargılamanın iadesine esas teşkil eden yeni elde edilmiş belge veya ceza mahkûmiyeti kararı",
+    "Mahkeme ilk derece kararı ve karar kesinleşme şerhi örneği"
+  ],
+  "faq": [
+    {
+      "q": "Muhtardaki tebligatı geç alırsam hak düşürücü süre ne zaman başlar?",
+      "a": "Muhtardan belgeyi fiziken aldığınız gün değil, ihbarnamenin kapınıza yapıştırıldığı tarih tebliğ tarihi sayılır ve hak düşürücü süre o gün başlar."
+    },
+    {
+      "q": "Arabulucuya başvurduğumda hak düşürücü süre işlemeye devam eder mi?",
+      "a": "Arabuluculuk sürecinin başlamasından sona ermesine kadar geçirilen süre hak düşürücü sürelerin hesaplanmasında dikkate alınmaz."
+    },
+    {
+      "q": "Arabuluculuk son tutanağını mahkemeye sunmayı unutursam ne olur?",
+      "a": "Mahkeme size son tutanağı sunmanız için bir haftalık kesin süre içeren ihtar gönderir; bu sürede sunmazsanız dava usulden reddedilir."
+    },
+    {
+      "q": "Hak düşürücü sürenin geçtiğini karşı taraf söylemezse hakim bunu inceler mi?",
+      "a": "Evet, hakim ön inceleme duruşması tamamlandıktan sonra tahkikata başlamadan önce hak düşürücü süreleri resen inceler ve karara bağlar."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "zamanaşimi-nedir",
+  "angle": "Hak düşürücü süre farkı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

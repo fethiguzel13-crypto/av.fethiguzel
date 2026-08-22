@@ -1,0 +1,116 @@
+{
+  "slug": "nafaka-turleri-ve-sartlari",
+  "title": "Nafaka Türleri: Tedbir, Yoksulluk ve İştirak Nafakası",
+  "description": "Tedbir, yoksulluk ve iştirak nafakası arasındaki fark nedir, kim hangi şartlarla isteyebilir, nafaka ne zaman kalkar? TMK m.169, 175, 176, 182 ve 328 çerçevesinde.",
+  "h1": "Nafaka türleri ve şartları",
+  "keywords": [
+    "nafaka",
+    "yoksulluk nafakası",
+    "iştirak nafakası",
+    "tedbir nafakası",
+    "nafaka şartları",
+    "nafaka ne zaman kalkar"
+  ],
+  "category": "Aile",
+  "related": [
+    "bosanma-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "TMK m.169 — Geçici önlemler",
+      "href": "/mevzuat/tmk/madde-169"
+    },
+    {
+      "label": "TMK m.175 — Yoksulluk nafakası",
+      "href": "/mevzuat/tmk/madde-175"
+    },
+    {
+      "label": "TMK m.176 — Ödeme biçimi ve kalkması",
+      "href": "/mevzuat/tmk/madde-176"
+    },
+    {
+      "label": "TMK m.182 — Çocuğun giderlerine katılma",
+      "href": "/mevzuat/tmk/madde-182"
+    },
+    {
+      "label": "TMK m.328 — Bakım borcunun süresi",
+      "href": "/mevzuat/tmk/madde-328"
+    },
+    {
+      "label": "Nafaka hesaplama aracı",
+      "href": "/hesaplama/nafaka"
+    }
+  ],
+  "lead": "Nafaka, boşanma sürecinde ve sonrasında ekonomik olarak zayıf düşen tarafın veya çocuğun geçimini sağlamak için ödenen paradır. Hukuk sistemimizde üç farklı nafaka türü bulunur ve her birinin şartları farklıdır.",
+  "keyInsight": "Yoksulluk nafakasında nafaka yükümlüsünün kusurlu olup olmaması önemli değildir; önemli olan nafaka isteyen tarafın kusurunun daha ağır olmamasıdır.",
+  "sections": [
+    {
+      "heading": "Dava sürerken ihtiyaçlar: Tedbir nafakası",
+      "paragraphs": [
+        "Boşanma davası açtınız, ancak mahkeme süreci devam ederken hayatın idamesi gerekiyor. Hâkim, boşanma kararı verilene kadar eşlerin geçimi ve barınması için **resen** önlem alır.",
+        "Bu nafaka türü için ayrıca bir talepte bulunmanız şart değildir; hâkim durumu değerlendirerek süreci yönetir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Boşanma sonrası yaşam: Yoksulluk nafakası",
+      "paragraphs": [
+        "Boşanma kesinleştiğinde yoksulluğa düşecek olan taraf, diğer eşten nafaka isteyebilir. Burada en kritik şart, nafaka isteyen tarafın kusurunun diğerinden **daha ağır olmamasıdır**.",
+        "Nafaka yükümlüsü olan eşin boşanmada kusurunun olup olmaması sonucu değiştirmez; yani kusursuz eş bile bazen nafaka ödemek durumunda kalabilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Çocuğun geleceği: İştirak nafakası",
+      "paragraphs": [
+        "Velayeti almayan taraf, çocuğun bakım ve eğitim giderlerine gücü oranında katılmak zorundadır. Bu yükümlülük çocuğun ergin olmasına kadar devam eder.",
+        "Çocuk 18 yaşını doldursa bile eğitimi devam ediyorsa, ana ve baba **eğitim süreci bitene kadar** çocuğa bakmakla yükümlüdür."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Ödemeler ne zaman biter?",
+      "paragraphs": [
+        "Nafaka ödemelerinin bitmesi bazı durumlarda kendiliğinden, bazı durumlarda ise mahkeme kararıyla gerçekleşir. Alacaklının yeniden evlenmesi veya taraflardan birinin ölümü hâlinde ödemeler **kendiliğinden** sona erer.",
+        "Ancak alacaklının evlenmeden fiilen başkasıyla yaşaması, yoksulluğunun bitmesi veya haysiyetsiz hayat sürmesi durumunda nafakanın kesilmesi için mahkemeye başvurmanız şarttır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Hangi nafaka türünün durumunuza uygun olduğunu tespit edin.",
+    "Boşanma davası sürecinde hâkimin resen aldığı tedbir nafakasını takip edin.",
+    "Yoksulluk nafakası talep ediyorsanız kusur durumunuzu değerlendirin.",
+    "Gelir ve giderlerinizi gösteren belgeleri mahkemeye sunun.",
+    "Gelecek yıllar için nafaka artış oranı talep ederek her yıl dava açma yükünden kurtulun.",
+    "Ödeme yapılmadığı takdirde icra takibi başlatın."
+  ],
+  "documents": [
+    "Gelir durumunu gösteren maaş bordrosu veya belgeler",
+    "Çocuğun eğitim ve sağlık giderlerine dair faturalar",
+    "Giderleri kanıtlayan kira kontratı veya fatura örnekleri"
+  ],
+  "faq": [
+    {
+      "q": "Kusurlu taraf nafaka alabilir mi?",
+      "a": "Kusurunuz diğer eşten daha ağır değilse nafaka alabilirsiniz. Eşit kusurlu olmanız nafaka almanıza engel değildir."
+    },
+    {
+      "q": "Nafaka ödeyen eşin kusurlu olması şart mıdır?",
+      "a": "Hayır, nafaka yükümlüsü olan eşin kusuru aranmaz. Kusursuz olan taraf da nafaka ödemekle yükümlü tutulabilir."
+    },
+    {
+      "q": "Çocuk 18 yaşına girince iştirak nafakası biter mi?",
+      "a": "Hayır, çocuğun eğitimi devam ediyorsa nafaka ödeme yükümlülüğü eğitim sona erene kadar devam eder."
+    },
+    {
+      "q": "Nafaka miktarını sonradan değiştirebilir miyim?",
+      "a": "Evet, tarafların ekonomik durumu esaslı biçimde değişirse nafakanın artırılması veya azaltılması için yeni bir dava açılabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

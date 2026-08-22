@@ -1,0 +1,116 @@
+{
+  "slug": "yoksulluk-nafakasi-sartlari",
+  "title": "Yoksulluk nafakası şartları nelerdir — Vatandaş Rehberi | Av. Fethi Gü",
+  "description": "Yoksulluk nafakası şartları nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
+  "h1": "Yoksulluk nafakası şartları nelerdir?",
+  "keywords": [
+    "yoksulluk nafakası şartları",
+    "yoksulluk nafakası"
+  ],
+  "category": "Aile",
+  "related": [
+    "nafaka-davasi-nedir",
+    "nafaka-odenmezse",
+    "bosanma-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/nafaka-davasi-nedir"
+    },
+    {
+      "label": "Nafaka",
+      "href": "/hesaplama/nafaka"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    }
+  ],
+  "lead": "Boşanma davası açtınız ve geleceğiniz için kaygılanıyorsunuz. Asıl mesele, boşanma yüzünden yoksulluğa düşecek olmanız ve kusurunuzun diğer taraftan daha ağır olmamasıdır.",
+  "keyInsight": "Nafaka talebinde bulunurken kusur durumunuzun karşı taraftan daha ağır olmamasına ve mali gücünüzün geçiminize yetmeyecek olmasına dikkat etmelisiniz.",
+  "sections": [
+    {
+      "heading": "Kimler bu haktan yararlanabilir?",
+      "paragraphs": [
+        "Evlilik birliği sarsıldı ve mahkeme salonundasınız. Boşanma kararı verilirken hayat standardınızın bir anda altüst olacağını fark ediyorsunuz. Boşanma yüzünden yoksulluğa düşecek taraf sizseniz, bu talepte bulunma hakkınız doğar.",
+        "Ancak burada **kusur durumu** en kritik eşiktir. Kusurunuz diğer taraftan daha ağır olmamalıdır. Nafaka yükümlüsünün kendi kusuru ise aranmaz; önemli olan sizin bu sürece sürüklenmiş ve geçim sıkıntısına düşecek olmanızdır."
+      ],
+      "bullets": [
+        "Boşanma nedeniyle yoksulluğa düşme tehlikesi",
+        "Kusurun karşı taraftan daha ağır olmaması"
+      ]
+    },
+    {
+      "heading": "Ödeme biçimi nasıl belirlenir?",
+      "paragraphs": [
+        "Hakim karşısına çıktığınızda paranın nasıl ödeneceği merak konusudur. Maddi tazminat ve yoksulluk nafakası toptan veya durumun gereklerine göre **irat biçiminde** ödenmesine karar verilebilir.",
+        "İrat biçiminde ödenmesine karar verilen nafaka düzenli bir akış sağlar. Hakim, istem hâlinde gelecek yıllarda tarafların sosyal ve ekonomik durumlarına göre bu miktarın ne olacağını da karara bağlayabilir."
+      ],
+      "bullets": [
+        "Toptan ödeme imkânı",
+        "İrat biçiminde düzenli ödeme"
+      ]
+    },
+    {
+      "heading": "Hangi durumlarda nafaka ortadan kalkar?",
+      "paragraphs": [
+        "Zaman akıp giderken hayat şartları değişebilir. Alacaklı tarafın yeniden evlenmesi ya da taraflardan birinin ölümü hâlinde nafaka **kendiliğinden kalkar**.",
+        "Bunun yanı sıra evlenme olmaksızın fiilen evliymiş gibi yaşama, yoksulluğun ortadan kalkması veya haysiyetsiz hayat sürme hâllerinde durum mahkeme kararıyla yeniden değerlendirilir ve kaldırılabilir."
+      ],
+      "bullets": [
+        "Yeniden evlenme veya ölüm",
+        "Fiilen evliymiş gibi yaşama"
+      ]
+    },
+    {
+      "heading": "Miktar sonradan değiştirilebilir mi?",
+      "paragraphs": [
+        "Hayat sürprizlerle doludur; yarın mali durumunuzun ne olacağını kestiremezsiniz. Tarafların malî durumlarının değişmesi veya hakkaniyetin gerektirdiği hâllerde iradın artırılması ya da azaltılmasına karar verilebilir.",
+        "Hakim, mevcut şartlardaki köklü değişimleri göz önüne alarak ekonomik dengesizliği gidermek için bu uyarlamayı yapabilir."
+      ],
+      "bullets": [
+        "Mali durumlarda değişim",
+        "Hakkaniyetin gerektirdiği haller"
+      ]
+    }
+  ],
+  "steps": [
+    "Boşanma dilekçenizde yoksulluk nafakası talebinizi açıkça belirtin.",
+    "Mali durumunuzu ve geçim sıkıntınızı hakim önünde ifade edin.",
+    "Kusur durumunuzun karşı taraftan daha ağır olmadığını kanıtlayacak delilleri sunun.",
+    "Ödemenin irat biçiminde veya toptan yapılmasından hangisini istediğinizi bildirin.",
+    "Mali durum değişikliklerinde artırım veya indirim için mahkemeye başvurun."
+  ],
+  "documents": [
+    "Boşanma dava dilekçesi",
+    "Gelir ve mal varlığını gösterir belgeler",
+    "Sosyal ve ekonomik durum araştırma raporu",
+    "Tanık beyanları"
+  ],
+  "faq": [
+    {
+      "q": "Nafaka almak için kusursuz mu olmalıyım?",
+      "a": "Hayır, kusursuz olmanız gerekmez. Ancak kusurunuzun diğer taraftan daha ağır olmaması şarttır."
+    },
+    {
+      "q": "Nafaka ne kadar süreyle ödenir?",
+      "a": "Kanuna göre malî gücü oranında süresiz olarak istenebilir; ancak belirli şartların gerçekleşmesi halinde sona erer."
+    },
+    {
+      "q": "Karşı tarafın kusurlu olması şart mı?",
+      "a": "Nafaka yükümlüsünün kusurlu olması aranmaz; sizin yoksulluğa düşecek olmanız ve kusurunuzun ağır olmaması esastır."
+    },
+    {
+      "q": "Sonradan evlenirsem ne olur?",
+      "a": "Alacaklı tarafın yeniden evlenmesi hâlinde nafaka kendiliğinden kalkar."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "nafaka-davasi-nedir",
+  "angle": "Yoksulluk nafakası şartları",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

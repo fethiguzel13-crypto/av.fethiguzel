@@ -1,0 +1,112 @@
+{
+  "slug": "mudafi-hakki",
+  "title": "Gözaltında avukat hakkı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Gözaltında avukat hakkı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
+  "h1": "Gözaltında avukat hakkı",
+  "keywords": [
+    "müdafi hakkı",
+    "ücretsiz avukat"
+  ],
+  "category": "Ceza",
+  "related": [
+    "savcilik-suc-duyurusu",
+    "gozalti-haklari",
+    "ceza-sorusturmasi-sureci",
+    "tutuklama-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/savcilik-suc-duyurusu"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=m%C3%BCdafi"
+    }
+  ],
+  "lead": "Gözaltına alındınız ve kapıda polis bekliyor. Sürecin ilk dakikasından itibaren avukat istemek en doğal hakkınızdır ve bu durum hiçbir gerekçeyle engellenemez.",
+  "keyInsight": "Avukatınızın ifade alma veya sorgu süresince yanınızda olma hakkı asla kısıdalanamaz.",
+  "sections": [
+    {
+      "heading": "Ne zaman hak doğar?",
+      "paragraphs": [
+        "Karakola veya emniyete götürüldünüz. Soruşturma evresinin her aşamasında bir veya birden fazla avukatın yardımından yararlanabilirsiniz.",
+        "Kanuni temsilciniz varsa, o da sizin için müdafi seçebilir. Soruşturma evresinde ifade almada en çok üç avukat hazır bulunabilir."
+      ],
+      "bullets": [
+        "Her aşamada avukat yardımı",
+        "İfade almada en çok üç avukat"
+      ]
+    },
+    {
+      "heading": "Görüşme ve yardım hakkı nasıl işler?",
+      "paragraphs": [
+        "Avukatınızla bir araya geldiniz. Soruşturma ve kovuşturma evrelerinin her aşamasında avukatınızla görüşme, ifade alma veya sorgu süresince yanında olma hakkı **engellenemez ve kısıdalanamaz**.",
+        "Avukatınız dosya içeriğini inceleyebilir ve istediğiniz belgelerin bir örneğini harçsız olarak alabilir."
+      ],
+      "bullets": [
+        "Sorgu süresince yanında olma",
+        "Belge örneğini harçsız alma"
+      ]
+    },
+    {
+      "heading": "Dosya inceleme yetkisi kısıtlanabilir mi?",
+      "paragraphs": [
+        "Avukatınız dosyayı incelerken bazı istisnai durumlar karşınıza çıkabilir. Müdafiin dosya içeriğini inceleme veya belgelerden örnek alma yetkisi, soruşturmanın amacını tehlikeye düşürebilecek durumlarda **Cumhuriyet savcısının istemi üzerine** hâkim kararıyla kısıtlanabilir.",
+        "Bu kısıtlama kararı ancak kanunda sayılan belirli ağır suçlara ilişkin yürütülen soruşturmalarda verilebilir."
+      ],
+      "bullets": [
+        "Hâkim kararıyla kısıtlama",
+        "Soruşturmanın amacını koruma"
+      ]
+    },
+    {
+      "heading": "Görevini yapmayan veya yasaklanan avukatlar",
+      "paragraphs": [
+        "Görevlendirilen müdafi duruşmada hazır bulunmaz veya görevini yerine getirmekten kaçınırsa, hâkim veya mahkeme derhâl başka bir müdafi görevlendirilmesi için gerekli işlemi yapar.",
+        "Bazı ağır suçlar nedeniyle hakkında kovuşturma bulunan avukatlar müdafilik görevinden yasaklanabilir. Yasaklı avukat, ceza infaz kurumunda veya tutukevinde sizi ziyaret edemez."
+      ],
+      "bullets": [
+        "Yeni müdafi görevlendirme",
+        "Yasaklı avukatın ziyaret kısıtı"
+      ]
+    }
+  ],
+  "steps": [
+    "İfade vermeden veya sorguya girmeden önce avukat talep edin.",
+    "Seçtiğiniz avukatın veya barodan görevlendirilen müdafinin yanınıza gelmesini bekleyin.",
+    "Avukatınızla birlikte dosya içeriğini inceleyin ve gerekli belgelerin örneklerini alın.",
+    "İfade ve sorgu süresince avukatınızın hukuki yardımından yararlanın."
+  ],
+  "documents": [
+    "Baro görevlendirme yazısı",
+    "Vekâletname veya müdafi görevlendirme belgesi",
+    "Dosya inceleme tutanakları",
+    "İfade ve sorgu tutanakları"
+  ],
+  "faq": [
+    {
+      "q": "İfade alırken kaç avukat yanımda olabilir?",
+      "a": "Soruşturma evresinde ifade almada en çok üç avukat hazır bulunabilir."
+    },
+    {
+      "q": "Avukatım dosyadaki belgelerin örneğini ücret ödemeden alabilir mi?",
+      "a": "Evet, müdafi soruşturma evresinde dosya içeriğini inceleyebilir ve istediği belgelerin bir örneğini harçsız olarak alabilir."
+    },
+    {
+      "q": "Avukatım yanımda olmadan ifade vermeye zorlanabilir miyim?",
+      "a": "Avukatın şüpheli veya sanıkla görüşme, ifade alma veya sorgu süresince yanında olma hakkı engellenemez."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "savcilik-suc-duyurusu",
+  "angle": "Müdafi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

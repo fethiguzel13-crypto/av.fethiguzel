@@ -1,0 +1,111 @@
+{
+  "slug": "tasima-sozlesmesi",
+  "title": "Taşıma sözleşmesi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Taşıma sözleşmesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
+  "h1": "Taşıma sözleşmesi",
+  "keywords": [
+    "taşıma sözleşmesi",
+    "tasima sozlesmesi"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "sirket-kurulusu",
+    "ayip-mal-iade",
+    "sigorta-tazminat-reddi",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/sirket-kurulusu"
+    },
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-isletme"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    }
+  ],
+  "lead": "Yükünüzü bir yerden başka bir yere taşıtmak için anlaştınız. Asıl mesele, eşyanın nasıl ve hangi şartlarda yola çıkacağı ile olası bir zararda kimin sorumlu olacağıdır.",
+  "keyInsight": "Taşıyanın veya adamlarının kusurundan kaynaklanmayan zararlardan taşıyan sorumlu tutulamaz.",
+  "sections": [
+    {
+      "heading": "Taşıma nasıl üstlenilir?",
+      "paragraphs": [
+        "Eşyanın taşınması için bir sözleşme yaparsınız. Bu süreçte taşıyan taraf, belirli bir bedel (navlun) karşılığında işi üstlenir.",
+        "Taşıma şekli farklılık gösterebilir. Eşya için aracın tamamı tahsis edilebilir ya da parsiyel olarak parça eşya taşınması kararlaştırılabilir."
+      ],
+      "bullets": [
+        "Navlun karşılığı anlaşma",
+        "Araç tahsisi veya parça eşya"
+      ]
+    },
+    {
+      "heading": "Zarar doğarsa kim sorumludur?",
+      "paragraphs": [
+        "Yolda eşyaya bir zarar gelirse, bu zararın nasıl doğduğu incelenir. Taşıyan kişi, zararın kendi kusurundan ileri gelmediğini ispat etmek zorundadır.",
+        "Eğer zarar taşıyanın veya çalışanlarının kastı ya da ihmali dışında bir sebepten çıktıysa, taşıyan bu zarardan sorumlu tutulamaz."
+      ],
+      "bullets": [
+        "İspat yükü taşıyandadır",
+        "Kusursuzluk durumu"
+      ]
+    },
+    {
+      "heading": "Kimler taşıyanın adamı sayılır?",
+      "paragraphs": [
+        "Taşıma işinde sadece aracın sürücüsü veya sahibi değil, işletmede çalışanlar ve bu iş için görevlendirilen diğer kişiler de hesaba katılır.",
+        "Sözleşmenin yerine getirilmesinde kullanılan herkes bu kapsamda değerlendirilir ve sorumluluk zinciri buna göre şekillenir."
+      ],
+      "bullets": [
+        "Çalışanlar ve temsilciler",
+        "İşin ifasında kullanılanlar"
+      ]
+    },
+    {
+      "heading": "Anlaşmada nelere dikkat etmeli?",
+      "paragraphs": [
+        "Sözleşme yaparken taşınacak eşyanın niteliği ve izlenecek yöntem net bir şekilde belirlenmelidir.",
+        "Hak kaybı yaşamamak için tarafların yükümlülükleri baştan açıkça konuşulmalıdır."
+      ],
+      "bullets": [
+        "Net eşya tanımı",
+        "Açık yükümlülükler"
+      ]
+    }
+  ],
+  "steps": [
+    "Taşıma sözleşmesinin koşullarını yazılı olarak belirleyin.",
+    "Taşınacak eşyayı ve navlun bedelini netleştirin.",
+    "Olası risklere karşı taşıyanın sorumluluk alanlarını konuşun.",
+    "Zarar durumunda ispat ve tespit hazırlığı yapın."
+  ],
+  "documents": [
+    "Taşıma sözleşmesi",
+    "Navlun belgesi",
+    "Eşya listesi"
+  ],
+  "faq": [
+    {
+      "q": "Taşıyan her zarardan sorumlu mudur?",
+      "a": "Hayır, taşıyanın veya adamlarının kastı veya ihmali bulunmayan zararlardan sorumlu tutulamaz."
+    },
+    {
+      "q": "Zarar durumunda ispat kime düşer?",
+      "a": "Zararın kendi kusurundan ileri gelmediğini ispat yükü taşıyana aittir."
+    },
+    {
+      "q": "Taşıyanın adamı terimi kimleri kapsar?",
+      "a": "Taşıma aracındakileri, işletme çalışanlarını ve sözleşmenin ifasında kullanılan diğer kişileri kapsar."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "sirket-kurulusu",
+  "angle": "Taşıma sözleşmesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

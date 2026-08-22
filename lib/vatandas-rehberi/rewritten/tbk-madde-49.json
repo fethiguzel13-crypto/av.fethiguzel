@@ -1,0 +1,102 @@
+{
+  "slug": "tbk-madde-49",
+  "title": "TBK 49 Haksız Fiil — Vatandaş Özeti | Vatandaş Rehberi",
+  "description": "TBK m.49 haksız fiil (özet) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
+  "h1": "TBK m.49 haksız fiil (özet)",
+  "keywords": [
+    "TBK 49 özet",
+    "haksız fiil özet"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "tbk-nedir",
+    "trafik-kazasi-tazminati",
+    "mevzuat-nasil-aranir"
+  ],
+  "links": [
+    {
+      "label": "Tam madde metni + şerh",
+      "href": "/mevzuat/tbk/madde-49"
+    },
+    {
+      "label": "Kanun maddesi ara",
+      "href": "/ara"
+    },
+    {
+      "label": "TBK m.49",
+      "href": "/mevzuat/tbk/madde-49"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=haks%C4%B1z%20fiil"
+    }
+  ],
+  "lead": "Beklenmedik bir zarar gördünüz. Kusurlu bir hareketle malınıza veya bedeninize zarar verilmişse, bu zararın giderilmesini isteme hakkınız doğar.",
+  "keyInsight": "Haksız fiil sorumluluğu için ortada kusurlu ve hukuka aykırı bir fiil ya da ahlaka aykırı kasti bir zarar bulunmalıdır.",
+  "sections": [
+    {
+      "heading": "Zararla karşılaşınca ne olur?",
+      "paragraphs": [
+        "Sokakta ya da ticari hayatın içinde birinin kusurlu ve hukuka aykırı davranışı yüzünden zarara uğradınız. Bu durumda zarar veren kişi, ortaya çıkan bu **zararı gidermekle** yükümlü hâle gelir.",
+        "Ortada yazılı bir kuralı doğrudan ihlal eden bir eylem olmasa bile, ahlaka aykırı bir fiille bilerek ve isteyerek zarar verilmişse yine aynı sorumluluk doğar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kiminle muhatapsınız?",
+      "paragraphs": [
+        "Zararı veren kişinin fiili işlerken kusurlu olması aranır. Hatta ayırt etme gücüne sahip küçükler ve kısıtlılar bile işledikleri haksız fiillerden doğrudan sorumludurlar.",
+        "Borçlu konumuna gelen zarar veren, haksız fiilin işlendiği tarihte **doğrudan temerrüde** düşmüş sayılır. Yani ayrıca bir ihtar beklemeksizin faiz süreci ve borçlu yükümlülüğü başlar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Mahkemenin kapısını çalmak",
+      "paragraphs": [
+        "Yaşadığınız zarar sonrasında hak aramak için doğru yeri bulmanız gerekir. Haksız fiilden doğan davalarda yetkili mahkemeler kanunen esnetilmiştir.",
+        "Haksız fiilin işlendiği yer, zararın meydana geldiği yer, zararın gelme ihtimali bulunan yer ya da doğrudan **zarar görenin yerleşim yeri** mahkemesinde dava açabilirsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Zararın hesabı nasıl yapılır?",
+      "paragraphs": [
+        "Bedensel zararlar veya destekten yoksun kalma durumları hesaplanırken sosyal güvenlik ödemeleri dikkate alınır. Hakkaniyet düşüncesiyle hesaplanan tazminat miktarında keyfi artırım veya indirim yapılamaz.",
+        "Kazancın bilindiği dönemler için haksız fiil veya olayın meydana geldiği tarihten itibaren **kanuni faiz** işletilir. Kazancın bilinemediği dönemlerde ise faiz karar tarihinden itibaren işlemeye başlar."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Zarara neden olan fiili ve kusurlu hareketi tespit edin.",
+    "Zararın miktarını ve kapsamını somut belgelerle ortaya koyun.",
+    "Zarar görenin yerleşim yeri veya fiilin işlendiği yer mahkemesini belirleyin.",
+    "Tazminat ve faiz taleplerinizi içeren hukuki süreci başlatın."
+  ],
+  "documents": [
+    "Zararı kanıtlayan fotoğraflar veya tutanaklar",
+    "Masraf ve ödemeleri gösteren belgeler",
+    "Kayıp ve zararların hesaplanmasına esas teşkil edecek evraklar"
+  ],
+  "faq": [
+    {
+      "q": "Hangi mahkemede dava açabilirim?",
+      "a": "Haksız fiilin işlendiği, zararın meydana geldiği ya da kendi yerleşim yerinizdeki mahkemede dava açabilirsiniz."
+    },
+    {
+      "q": "Faiz hangi tarihten itibaren işlemeye başlar?",
+      "a": "Haksız fiilde borçlu fiilin işlendiği tarihte temerrüde düşer; kazancın bilindiği döneme ilişkin tazminata olay tarihinden itibaren kanuni faiz işletilir."
+    },
+    {
+      "q": "Küçükler haksız fiilden sorumlu mudur?",
+      "a": "Ayırt etme gücüne sahip küçükler ve kısıtlılar işledikleri haksız fiillerden sorumludurlar."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "bridge",
+  "angle": "Haksız fiil vatandaş özeti",
+  "canonicalPath": "/mevzuat/tbk/madde-49",
+  "sitemapPriority": 0.45,
+  "voice": "narrative",
+  "source": "gemini"
+}

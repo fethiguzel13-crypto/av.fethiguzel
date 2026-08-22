@@ -1,0 +1,112 @@
+{
+  "slug": "avukat-tutmak-zorunlu-mu",
+  "title": "Avukat tutmak zorunlu mu — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Avukat tutmak zorunlu mu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
+  "h1": "Avukat tutmak zorunlu mu",
+  "keywords": [
+    "avukat tutmak zorunlu mu",
+    "avukat tutmak zorunlu mu"
+  ],
+  "category": "Usul",
+  "related": [
+    "zamanaşimi-nedir",
+    "hukuk-davasi-nasil-acilir",
+    "mudafi-hakki",
+    "avukat-vekalet-ucreti"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/zamanaşimi-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    }
+  ],
+  "lead": "Mahkemeye başvurduğunuzda her işiniz için avukat tutmak zorunda değilsiniz; ancak yürütülen bazı işlemlerde vekâletnamenin şekli ve süreci hayati önem taşır. İşlemlerinizi bir vekil aracılığıyla yürütüyorsanız, kuralların eksiksiz yerine getirilmesi gerekir.",
+  "keyInsight": "Vekâletnamesini süresinde sunmayan veya yetkisi bulunmayan avukatın yaptığı işlemler yapılmamış sayılır.",
+  "sections": [
+    {
+      "heading": "Mahkemede temsil nasıl başlar?",
+      "paragraphs": [
+        "Bir dava açarken veya yargılamada işlem yaparken avukatınızın **vekâletnamesinin aslını veya onaylı örneğini** mahkemeye ibraz etmesi şarttır. Bu belge olmadan avukat dava açamaz ya da dosyayla ilgili yasal bir adım atamaz.",
+        "Gecikmesinde zarar doğacak acil hâllerde, mahkeme kesin bir süre tanıyarak vekâletnamenin sonradan getirilmesine izin verebilir. Ancak verilen bu sürede vekâletname sunulmaz veya asıl taraf yapılan işlemleri onayladığını bildiren bir dilekçe vermezse, **dava açılmamış sayılır**."
+      ],
+      "bullets": [
+        "Vekâletname aslı veya onaylı örneği şarttır.",
+        "Süresinde verilmezse dava açılmamış sayılır."
+      ]
+    },
+    {
+      "heading": "Duruşmalar ve avukatın durumu",
+      "paragraphs": [
+        "Bir tarafın avukat tutmak istemesi, devam eden yargılamanın başka bir güne bırakılmasına gerekçe yapılamaz. Aynı şekilde avukatın istifa etmesi, azledilmesi veya dosyayı henüz incelememiş olması da duruşmanın ertelenmesi için haklı bir sebep sayılmaz.",
+        "Eğer dosyanın incelenmemiş olması **geçerli bir özre** dayanıyorsa, hâkim yalnızca bir defaya mahsus olmak üzere kısa bir süre tanıyabilir. Bu süre sonunda dosya incelenmemiş olsa dahi davaya kaldığı yerden devam olunur."
+      ],
+      "bullets": [
+        "Avukat istemek duruşmayı ertelemez.",
+        "Dosya incelemesi için en fazla bir kez süre tanınabilir."
+      ]
+    },
+    {
+      "heading": "Belgeler ve tebligat süreçleri",
+      "paragraphs": [
+        "Dava dilekçenizde gösterdiğiniz ve elinizde bulunan belgelerin asıllarını, harç ve vergiye tabi olmaksızın **davalı sayısından bir fazla** örnekle birlikte mahkemeye sunmanız gereklidir. Başka yerlerden getirtilecek evrak için de dilekçenizde açıklama yer almalıdır.",
+        "İşlemlerini vekil aracılığıyla yürüten kişilere yapılacak tebligat doğrudan vekile yapılır. Avukatların bürolarında yapılacak tebligatlar resmî çalışma gün ve saatleri içerisinde gerçekleştirilir."
+      ],
+      "bullets": [
+        "Belgeler davalı sayısından bir fazla sunulur.",
+        "Tebligatlar vekil vasıtasıyla takip edilen işlerde avukata yapılır."
+      ]
+    },
+    {
+      "heading": "Arabuluculuk aşamasında dikkat edilecekler",
+      "paragraphs": [
+        "Dava şartı olan arabuluculuk süreçlerinde, anlaşmaya varılamadığına dair son tutanağın aslını veya onaylı örneğini dava dilekçenize eklemek zorundasınız. Bu zorunluluğa uyulmadığı takdirde mahkemece **bir haftalık kesin süre** içeren bir davetiye gönderilir.",
+        "İhtar edilen süre içinde son tutanak sunulmazsa, dava dilekçesi karşı tarafa tebliğe çıkarılmaksızın usulden reddedilir. Arabuluculuğa hiç başvurulmadığı anlaşılırsa yine doğrudan dava şartı yokluğundan ret kararı verilir."
+      ],
+      "bullets": [
+        "Son tutanak dilekçeye eklenmelidir.",
+        "Bir haftalık kesin sürede sunulmazsa dava reddedilir."
+      ]
+    }
+  ],
+  "steps": [
+    "Dava dilekçenize elinizdeki belgelerin örneklerini davalı sayısından bir fazla olacak şekilde ekleyin.",
+    "Eğer bir avukatla çalışıyorsanız, avukatınızın vekâletnamesinin aslını veya onaylı örneğini dosyaya sunmasını sağlayın.",
+    "Dava şartı arabuluculuk kapsamındaki uyuşmazlıklarda son tutanağın aslını veya onaylı örneğini hazırlayın.",
+    "Mahkemenin verdiği kesin sürelere ve ihtar şartlarına tam olarak riayet edin."
+  ],
+  "documents": [
+    "Vekâletname aslı veya onaylı örneği",
+    "Dava dilekçesi",
+    "Arabuluculuk son tutanağı aslı veya onaylı örneği",
+    "Uyuşmazlığa ilişkin delil ve belgeler"
+  ],
+  "faq": [
+    {
+      "q": "Mahkemede kendimi savunmak için avukat tutmak zorunlu mu?",
+      "a": "Kanunda istisnai durumlar hariç her vatandaş kendi davasını takip edebilir, avukat tutmak her tür davada mutlak bir zorunluluk değildir."
+    },
+    {
+      "q": "Vekâletnamesi olmayan avukat dava açabilir mi?",
+      "a": "Hayır. Vekâletnamesinin aslını veya onaylı örneğini vermeyen avukat dava açamaz ve işlem yapamaz. Acil durumlarda mahkemenin vereceği kesin sürede vekâletname sunulmalıdır."
+    },
+    {
+      "q": "Arabuluculuk son tutanağını sunmazsam ne olur?",
+      "a": "Mahkeme bir haftalık kesin süre verir. Bu sürede tutanak sunulmazsa dava dilekçesi tebliğe çıkarılmadan usulden reddedilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "zamanaşimi-nedir",
+  "angle": "Avukat tutmak zorunlu mu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

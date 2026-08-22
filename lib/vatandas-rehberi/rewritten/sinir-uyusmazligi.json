@@ -1,0 +1,102 @@
+{
+  "slug": "sinir-uyusmazligi",
+  "title": "Sınır uyuşmazlığı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Sınır uyuşmazlığı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
+  "h1": "Sınır uyuşmazlığı",
+  "keywords": [
+    "sınır uyuşmazlığı",
+    "sinir uyusmazligi"
+  ],
+  "category": "Eşya",
+  "related": [
+    "izale-i-suyu",
+    "el-atmanin-onlenmesi",
+    "tapu-iptal-tescil",
+    "gecit-hakki-davasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/izale-i-suyu"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=s%C4%B1n%C4%B1r"
+    }
+  ],
+  "lead": "Sınır uyuşmazlığı, tapu kayıtlarındaki belirsizlik veya komşunuzun bahçenize müdahalesiyle ortaya çıkan bir mülkiyet sorunudur. Tapu kütüğündeki kayıtlar mülkiyetin sınırlarını belirleyen en güçlü kanıttır.",
+  "keyInsight": "Tapu kütüğünde yazılı olan sınırlar, hakkınızın hukuki çerçevesini çizer ve tescil edilmemiş hiçbir iddia bu sınırları değiştiremez.",
+  "sections": [
+    {
+      "heading": "Sınırlar nasıl belirlenir?",
+      "paragraphs": [
+        "Taşınmazınızın sınırları, tapu kütüğünde her bir taşınmaz için ayrılmış olan özel sayfalarda kayıtlıdır. Bu sayfalar mülkiyetin kapsamını ve sınırlarını belirler.",
+        "Bir hakkın içeriği, tescilin sınırları içinde belirlenir. Yani, komşunuzla yaşadığınız tartışmada elinizdeki en büyük koz, resmi tapu kütüğündeki tescil kayıtlarıdır."
+      ],
+      "bullets": [
+        "Her taşınmazın kütükte ayrı bir sayfası vardır.",
+        "Tescil edilen haklar, yevmiye defterine kaydedildiği tarihten itibaren etki doğurur."
+      ]
+    },
+    {
+      "heading": "Sınır ihlali yaşandığında ne yapmalı?",
+      "paragraphs": [
+        "Komşunuzun duvarınızı yıktığını veya bahçenize müdahale ettiğini fark ettiğinizde, öncelikle tapu kayıtlarını kontrol etmelisiniz. Eğer tapu kütüğündeki sınırlar ile fiili durum uyuşmuyorsa bir uyuşmazlık doğmuş demektir.",
+        "Ayni haklar tescil ile doğar. Bu sebeple, fiili müdahaleleri sonlandırmak için tapu kütüğündeki tescil sınırlarına dayanarak hareket etmeniz gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Tescil edilmiş hakların önemi nedir?",
+      "paragraphs": [
+        "Taşınmazınız üzerindeki tüm haklar, tapu kütüğüne işlenmiş olmalıdır. Kütükte yer almayan bir sınır iddiası hukuki bir dayanak oluşturmaz.",
+        "Eğer taşınmazınız birleştirilmiş veya bölünmüşse, bu değişikliklerin de yönetmeliklere uygun şekilde tescil edilmiş olması şarttır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yanınızda ne bulundurmalısınız?",
+      "paragraphs": [
+        "Uyuşmazlık anında elinizde tapu kütüğünden alınmış güncel bir kayıt örneği bulunmalıdır. Bu belge, sınırlarınızı kanıtlayan resmi bir dayanak görevi görür.",
+        "Tescil işlemlerine dair tüm belgelerin, yevmiye defterine uygun şekilde işlenmiş olması **hak sahipliğinizi** doğrudan etkiler."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Tapu müdürlüğünden taşınmazınıza ait güncel kütük kaydını çıkartın.",
+    "Kütükteki sınır bilgileri ile mevcut durumu karşılaştırın.",
+    "Müdahale eden komşunuzla elinizdeki tapu kaydını paylaşarak durumu görüşün.",
+    "Sorun çözülmezse, tapu kayıtlarını esas alan bir dava hazırlığı yapın."
+  ],
+  "documents": [
+    "Tapu kütüğü örneği",
+    "Taşınmaza ait aplikasyon krokisi",
+    "Yevmiye defteri kayıtları"
+  ],
+  "faq": [
+    {
+      "q": "Tapuda yazan sınır ile yerdeki sınır farklıysa hangisi geçerlidir?",
+      "a": "Hukuken tapu kütüğünde kayıtlı olan sınırlar esas alınır; tescil edilmiş haklar mülkiyetin sınırlarını belirler."
+    },
+    {
+      "q": "Komşum bahçemi kullanıyor, ne yapabilirim?",
+      "a": "Tapu kütüğündeki kayıtlarınıza dayanarak müdahalenin menini talep edebilirsiniz."
+    },
+    {
+      "q": "Sınır değişikliği için ne yapmalıyım?",
+      "a": "Taşınmazın bölünmesi veya birleştirilmesi durumunda, ilgili yönetmeliklere uygun şekilde tescil değişikliği yapılması şarttır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "izale-i-suyu",
+  "angle": "Sınır uyuşmazlığı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

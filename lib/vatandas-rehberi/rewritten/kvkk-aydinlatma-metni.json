@@ -1,0 +1,112 @@
+{
+  "slug": "kvkk-aydinlatma-metni",
+  "title": "Aydınlatma metni zorunlu mudur — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Aydınlatma metni zorunlu mudur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
+  "h1": "Aydınlatma metni zorunlu mudur?",
+  "keywords": [
+    "KVKK aydınlatma metni",
+    "aydınlatma yükümlülüğü"
+  ],
+  "category": "Kişisel Veri",
+  "related": [
+    "kvkk-basvuru-hakki",
+    "kvkk-acik-riza",
+    "sirket-kurulusu",
+    "veri-ihlali-bildirimi",
+    "cerez-aydinlatma"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kvkk-basvuru-hakki"
+    },
+    {
+      "label": "KVKK",
+      "href": "/kategori/kvkk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=KVKK"
+    }
+  ],
+  "lead": "Kişisel verileriniz toplandığı an, kimin topladığını ve ne amaçla kullanacağını öğrenmek en doğal hakkınızdır. Veri sorumlusu bu bilgiyi size vermekle **zorunludur**.",
+  "keyInsight": "Aydınlatma yükümlülüğü sadece bir kağıt parçası değil, verilerinizi toplayanın kimliğini ve amacını açıkça bilmenizi sağlayan yasal bir zorunluluktur.",
+  "sections": [
+    {
+      "heading": "Verileriniz toplanırken ne yapılmalı?",
+      "paragraphs": [
+        "Bir form dolduruyorsunuz veya bir kuruma üye oluyorsunuz. Karşınızdaki kişi veya kurum verilerinizi kaydetmeye başladığı an size bilgi vermek zorundadır.",
+        "Bu bilgi verme işlemi, **kişisel verilerin elde edilmesi sırasında** yerine getirilmelidir. Süreç sonradan işletilemez."
+      ],
+      "bullets": [
+        "Veriyi toplayan anında bilgi vermelidir.",
+        "İşlem sırasında bilgilendirme şarttır."
+      ]
+    },
+    {
+      "heading": "Metinde tam olarak ne yazmalı?",
+      "paragraphs": [
+        "Size sunulan metin rastgele cümlelerden oluşamaz. Veriyi alanın kim olduğunu ve bu veriyi neden topladığını açıkça görmek istersiniz.",
+        "Metinde veri sorumlusunun kimliği, verilerin hangi amaçla işleneceği, kimlere aktarılabileceği ve toplama yöntemi **açıkça belirtilmelidir**."
+      ],
+      "bullets": [
+        "Şirket veya yetkili kimliği",
+        "İşleme amacı ve aktarılan yerler"
+      ]
+    },
+    {
+      "heading": "Hangi durumlarda bu kural aranmaz?",
+      "paragraphs": [
+        "Her veri toplama faaliyeti için bu metin sunulmayabilir. Kanun bazı özel alanlar için istisnalar getirmiştir.",
+        "Suçların önlenmesi, yargılama faaliyetleri veya kişinin kendisinin alenileştirdiği veriler söz konusu olduğunda **aydınlatma yükümlülüğü aranmaz**."
+      ],
+      "bullets": [
+        "Yargı ve soruşturma işlemleri",
+        "Alenileştirilmiş kişisel veriler"
+      ]
+    },
+    {
+      "heading": "Bilgi verilmezse neyle karşılaşılır?",
+      "paragraphs": [
+        "Yasal yükümlülüğe uyulmaması durumunda idari para cezaları gündeme gelir.",
+        "Kanunda öngörülen aydınlatma yükümlülüğünü yerine getirmeyenler hakkında **idari para cezası** uygulanır."
+      ],
+      "bullets": [
+        "Yasalara aykırı veri toplama",
+        "İdari yaptırımlar"
+      ]
+    }
+  ],
+  "steps": [
+    "Veri toplanırken kimlik bilgilerini sorun.",
+    "Verilerin hangi amaçla kullanılacağını öğrenin.",
+    "Aktarım yapılacak yerleri inceleyin.",
+    "Yasal haklarınızı hatırlatın."
+  ],
+  "documents": [
+    "Aydınlatma metni",
+    "Kişisel veri toplama formu",
+    "Yetkili kimlik bilgileri"
+  ],
+  "faq": [
+    {
+      "q": "Aydınlatma metni vermek her durumda zorunlu mu?",
+      "a": "Kişisel verilerin elde edilmesi sırasında veri sorumlusunun aydınlatma yükümlülüğü vardır; ancak kanunda belirtilen istisnai hallerde bu yükümlülük aranmaz."
+    },
+    {
+      "q": "Metinde hangi bilgiler mutlaka yer almalıdır?",
+      "a": "Veri sorumlusunun kimliği, işleme amacı, aktarılabileceği kişiler, toplama yöntemi ve kanuni haklarınız metinde bulunmalıdır."
+    },
+    {
+      "q": "Yükümlülük yerine getirilmezse ne olur?",
+      "a": "Aydınlatma yükümlülüğünü yerine getirmeyen veri sorumluları hakkında idari para cezası uygulanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kvkk-basvuru-hakki",
+  "angle": "Aydınlatma",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

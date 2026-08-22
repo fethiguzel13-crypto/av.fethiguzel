@@ -1,0 +1,122 @@
+{
+  "slug": "esin-miras-payi",
+  "title": "Eşin Miras Payı Ne Kadardır? | Vatandaş Rehberi",
+  "description": "Sağ kalan eşin miras payı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada…",
+  "h1": "Sağ kalan eşin miras payı",
+  "keywords": [
+    "eşin miras payı",
+    "sağ kalan eş miras"
+  ],
+  "category": "Miras",
+  "related": [
+    "veraset-ilami-nasil-alinir",
+    "yasal-mirascilar",
+    "miras-payi-nasil-hesaplanir",
+    "mal-rejimi-tasfiyesi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/veraset-ilami-nasil-alinir"
+    },
+    {
+      "label": "Miras",
+      "href": "/kategori/miras-hukuku"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/miras"
+    }
+  ],
+  "lead": "Evdeki hesap çarşıya uymaz derler; kayıp yaşandığında geride kalan eşin payı, kiminle miras paylaşıldığına göre değişir. Kapıyı açtığınızda karşınıza çıkacak tabloyu sakinlikle yönetmek gerekir.",
+  "keyInsight": "Sağ kalan eşin payı yalnız kalmaz; ölenin çocukları, ana-babası veya kardeşleriyle kurduğu zümre bağına göre şekillenir.",
+  "sections": [
+    {
+      "heading": "Kiminle masaya oturuyorsunuz?",
+      "paragraphs": [
+        "Sabah uyandınız ve evdeki düzenin tamamen değiştiğini fark ettiniz. Eşinizi kaybetmenin acısıyla baş etmeye çalışırken, bir yandan da mirasın nasıl paylaştırılacağı sorusu zihninizi kurcalar. İlk bakacağınız yer, ölen eşinizin geride kimleri bıraktığıdır.",
+        "Miras masasında yalnız değilsiniz. Çocuklar, torunlar veya anne baba varsa oran değişir; onlardan kimse yoksa **diğer akrabalarla** ortak bir paylaşım sizi bekler."
+      ],
+      "bullets": [
+        "Çocuklarla birlikte paylaşılan zümre",
+        "Ana baba ve onların kökleri",
+        "Hiçbiri yoksa uzaktaki akrabalar"
+      ]
+    },
+    {
+      "heading": "Ortak konut ve ev eşyası kime kalır?",
+      "paragraphs": [
+        "Birlikte yaşlanma hayali kurduğunuz o ev ve içindeki eşyalar, mal ortaklığı rejimine dahilse tablo somutlaşır. Sağ kalan eş olarak, kendi payınıza mahsuben **bu evin mülkiyetinin** size verilmesini isteyebilirsiniz.",
+        "Eğer haklı sebepler varsa, mülkiyet yerine oturma veya intifa hakkı tanınması da masaya gelebilir. Önemli olan bu talebin zamanında ve doğru gerekçeyle yapılabilmesidir."
+      ],
+      "bullets": [
+        "Ortak yaşanan ev",
+        "Ev eşyaları",
+        "Haklı sebep durumları"
+      ]
+    },
+    {
+      "heading": "Tarımsal işletme varsa ne olur?",
+      "paragraphs": [
+        "Eşiniz sağlığında bizzat bir tarımsal işletmeyi işletiyorsa veya bu işletmenin bir bütün olarak size özgülenmesini istemeye haklıysanız, hesaplar gelir değeri üzerinden yürür.",
+        "Mirasçılar veya işletme maliki, diğer eşe karşı ileri sürülecek alacaklarda **sürüm değeri** üzerinden hesaplama yapılmasını talep edebilir. Bu süreç miras hukuku hükümleriyle uyumlu yürütülür."
+      ],
+      "bullets": [
+        "Gelir değeri hesabı",
+        "Sürüm değeri talebi",
+        "Özgüleme hakkı"
+      ]
+    },
+    {
+      "heading": "Süreci yönetirken nereye başvurmalı?",
+      "paragraphs": [
+        "Telaşla hareket etmek hak kaybına yol açabilir. Resmi belgeler ve tapu kayıtları elinizdeyken, mirasın tespiti için gerekli adımları atmalısınız.",
+        "Haklarınızı bilirseniz, evdeki eşyadan tarımsal işletmeye kadar uzanan **paylaşım masasında** sesinizi daha sakin duyurabilirsiniz."
+      ],
+      "bullets": [
+        "Tapu kayıtları",
+        "Mirasçılık belgesi",
+        "Ortaklık tespiti"
+      ]
+    }
+  ],
+  "steps": [
+    "Ölen eşin geride bıraktığı yasal mirasçıları tespit edin.",
+    "Ortak konut ve ev eşyası için mülkiyet veya kullanım talebini hazırlayın.",
+    "Tarımsal işletme veya mal ortaklığı varsa gelir ve sürüm değerlerini inceleyin.",
+    "Gerekli mirasçılık belgesi için ilgili mercilere başvurun.",
+    "Miras paylaşım masasında haklarınızı yazılı olarak ileri sürün."
+  ],
+  "documents": [
+    "Mirasçılık belgesi",
+    "Tapu senetleri",
+    "Ev eşyası ve ortak mal listesi",
+    "Tarımsal işletme kayıt belgeleri",
+    "Nüfus kayıt örneği"
+  ],
+  "faq": [
+    {
+      "q": "Sağ kalan eş evi doğrudan alabilir mi?",
+      "a": "Ortaklık mallarına dahilse, payınıza mahsuben mülkiyetin size verilmesini isteyebilirsiniz."
+    },
+    {
+      "q": "Tarımsal işletme varsa pay nasıl hesaplanır?",
+      "a": "Gelir değeri göz önünde tutularak hesaplama yapılır; sürüm değeri üzerinden de talepte bulunulabilir."
+    },
+    {
+      "q": "Mülkiyet yerine başka bir hak tanınabilir mi?",
+      "a": "Haklı sebeplerin varlığı hâlinde mülkiyet yerine oturma veya intifa hakkı istenebilir."
+    },
+    {
+      "q": "Paylaşımda kimler söz sahibidir?",
+      "a": "Ölenin çocukları, ana-babası veya diğer yasal mirasçılar duruma göre söz sahibidir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "veraset-ilami-nasil-alinir",
+  "angle": "Eş payı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

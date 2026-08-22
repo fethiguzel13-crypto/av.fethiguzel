@@ -1,0 +1,113 @@
+{
+  "slug": "kira-odeme-ihtari",
+  "title": "Kira Ödememe İhtarı ve Temerrüt | Vatandaş Rehberi",
+  "description": "Kira ödenmezse ihtar nasıl çekilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
+  "h1": "Kira ödenmezse ihtar nasıl çekilir?",
+  "keywords": [
+    "kira ihtarı",
+    "iki haklı ihtar",
+    "kira temerrüt"
+  ],
+  "category": "Kira",
+  "related": [
+    "kira-artis-orani-nasil-hesaplanir",
+    "kiraci-nasil-tahliye-edilir",
+    "icra-takibi-nedir",
+    "kira-sozlesmesi-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kira-artis-orani-nasil-hesaplanir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Kiracınız gününde ödeme yapmadığında, süreci başlatmak için yazılı bir bildirim göndermeniz gerekir. Bu adım, borcun resmi olarak hatırlatılmasını ve yasal haklarınızın doğmasını sağlar.",
+  "keyInsight": "Bildirimin yazılı yapılması ve borcun ödenmesi için **açık bir süre** tanınması şarttır.",
+  "sections": [
+    {
+      "heading": "Ne zaman hak doğar?",
+      "paragraphs": [
+        "Kira günü geldiği halde ödeme yapılmadıysa, alacaklının bildirimiyle borçlu temerrüde düşer. Ödeme günü sözleşmede açıkça yazılı olsa bile, resmi sürecin işletilmesi için yazılı uyarı gerekebilir.",
+        "Aynı yıl içinde ödemelerin gecikmesi nedeniyle **iki haklı ihtar** çekilmesi durumunda, kiralayana dava yoluyla sözleşmeyi sona erdirme hakkı doğar."
+      ],
+      "bullets": [
+        "Ödeme gününün gelmesi",
+        "Yazılı bildirim yapılması"
+      ]
+    },
+    {
+      "heading": "İhtar nasıl hazırlanır?",
+      "paragraphs": [
+        "Hazırlayacağınız metinde ödenmeyen kira bedellerini ve döneme ait detayları net bir şekilde belirtmelisiniz. Hangi ayın kirasının eksik veya hiç yatırılmadığı belirsiz olmamalıdır.",
+        "Eğer taşınmaz aile konutu niteliğindeyse, bildirimlerin kiracı eş ile birlikte **diğer eşe de ayrı ayrı** yapılması zorunludur."
+      ],
+      "bullets": [
+        "Eksik tutarların dökümü",
+        "İlgili dönem bilgisi"
+      ]
+    },
+    {
+      "heading": "Hangi yollar izlenebilir?",
+      "paragraphs": [
+        "Borcun ödenmemesi durumunda doğrudan ilamsız icra yoluyla takip başlatabilir veya mahkemeye başvurabilirsiniz. Ancak kira ilişkilerinden kaynaklanan uyuşmazlıklarda, dava açmadan önce **arabulucuya başvurulması** dava şartıdır.",
+        "Arabuluculuk sürecinde anlaşma sağlanamazsa, elinizdeki son tutanakla birlikte yasal yollara devam edebilirsiniz."
+      ],
+      "bullets": [
+        "İcra takibi başlatmak",
+        "Arabuluculuğa başvurmak"
+      ]
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "İşlemleri hızlandırmak ve haklılığınızı kanıtlamak için elinizde bazı belgelerin bulunması gerekir. Eksik evrak süreci uzatabilir.",
+        "Tüm bu adımları atarken resmi kayıtlardaki **güncel adres bilgileri** üzerinden tebligat yapmaya özen göstermelisiniz."
+      ],
+      "bullets": [
+        "Kira sözleşmesi",
+        "Banka dekontları"
+      ]
+    }
+  ],
+  "steps": [
+    "Ödenmeyen kira bedellerini ve ilgili dönemi net olarak hesaplayın.",
+    "Yazılı bir ihtar metni hazırlayarak kiracıya gönderin.",
+    "Aile konutu söz konusu ise bildirimi eşlerin her birine ayrı ayrı ulaştırın.",
+    "Ödeme yapılmazsa arabuluculuk bürosuna veya icra dairesine başvurun."
+  ],
+  "documents": [
+    "Kira sözleşmesi",
+    "Banka hesap hareketleri ve dekontlar",
+    "Yazılı ihtar nüshası",
+    "Arabuluculuk son tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "İhtarname göndermek zorunlu mu?",
+      "a": "Borcun gününde ödenmemesi durumunda yasal süreçleri ve fesih haklarını başlatabilmek için yazılı bildirimde bulunmanız gerekir."
+    },
+    {
+      "q": "İki haklı ihtar nedir?",
+      "a": "Bir kira yılı içinde kira bedelinin ödenmemesi nedeniyle kiracıya yazılı olarak iki kez ayrı ayrı ihtar çekilmesidir."
+    },
+    {
+      "q": "Aile konutunda ihtar kime çekilir?",
+      "a": "Kira sözleşmesinde adı geçmese bile aile konutu olan yerlerde fesih ve ödeme ihtarları kiracıya ve eşine ayrı ayrı bildirilmelidir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kira-artis-orani-nasil-hesaplanir",
+  "angle": "Temerrüt ihtarı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

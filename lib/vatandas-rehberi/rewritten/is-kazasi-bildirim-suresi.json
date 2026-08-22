@@ -1,0 +1,102 @@
+{
+  "slug": "is-kazasi-bildirim-suresi",
+  "title": "İş kazası kaç günde bildirilmeli — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İş kazası kaç günde bildirilmeli? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
+  "h1": "İş kazası kaç günde bildirilmeli?",
+  "keywords": [
+    "iş kazası bildirim süresi",
+    "iş kazası 3 iş günü"
+  ],
+  "category": "İş",
+  "related": [
+    "is-kazasi-tazminati",
+    "is-kazasi-bildirimi",
+    "is-guvenligi-uzmani"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/is-kazasi-tazminati"
+    },
+    {
+      "label": "İSG",
+      "href": "/kategori/isg"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    }
+  ],
+  "lead": "İşyerinde bir kaza yaşandığında, işverenin bu durumu Sosyal Güvenlik Kurumu'na bildirme yükümlülüğü vardır. Bu bildirim, kazanın gerçekleştiği veya öğrenildiği tarihten itibaren başlar.",
+  "keyInsight": "Bildirim süresi, durumun öğrenildiği günden itibaren **üç iş günü** ile sınırlandırılmıştır.",
+  "sections": [
+    {
+      "heading": "Kaza anında ilk ne yapılmalı?",
+      "paragraphs": [
+        "İşyerinde bir kaza gerçekleştiğinde önceliğiniz her zaman çalışanın sağlığıdır. Yaralanan kişiye gerekli tıbbi müdahalenin yapıldığından ve sağlık kuruluşuna ulaştırıldığından emin olunmalıdır.",
+        "Kaza sonrası süreçte, olayın iş kazası olarak kayıt altına alınması için işveren tarafından Sosyal Güvenlik Kurumu'na resmi bir bildirim yapılması zorunludur."
+      ],
+      "bullets": [
+        "Çalışanın acil tedavisi sağlanmalı.",
+        "Olayın iş kazası olduğu tespit edilmeli.",
+        "Bildirim için gerekli resmi evraklar hazırlanmalı."
+      ]
+    },
+    {
+      "heading": "Süre nasıl hesaplanır?",
+      "paragraphs": [
+        "İş kazası bildirim süresi, olayın yaşandığı veya işverenin bu kazadan haberdar olduğu günden itibaren işlemeye başlar. Kanun, bu süreyi **üç iş günü** olarak belirlemiştir.",
+        "Bu süreye hafta sonu tatilleri veya resmi tatiller dahil edilmez; sadece iş günleri sayılır. Süreyi kaçırmak, işveren açısından idari yükümlülüklerin yerine getirilmemesi anlamına gelir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Bildirim kime ve nasıl yapılır?",
+      "paragraphs": [
+        "Bildirim, 'İş Kazası ve Meslek Hastalığı Bildirgesi' ile doğrudan Sosyal Güvenlik Kurumu'na yapılır. Bu bildirim, kurumun belirlediği yöntemlerle gerçekleştirilmelidir.",
+        "Eğer işçi, işveren tarafından gönderildiği bir başka işyerinde kaza geçirirse, bildirim yükümlülüğü yine kazanın öğrenildiği andan itibaren başlar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreyi kaçırmanın sonucu nedir?",
+      "paragraphs": [
+        "Belirlenen süre içerisinde bildirim yapılmaması, işveren için çeşitli idari yaptırımları beraberinde getirir. Kanun, bu yükümlülüğün zamanında yerine getirilmesini şart koşar.",
+        "Yanlış veya eksik bildirim yapmak da süreci olumsuz etkiler. Bu nedenle elinizdeki bilgilerin tutarlılığından emin olmanız gerekir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Kazayı derhal tespit edin ve sağlık desteği sağlayın.",
+    "Olayın iş kazası olduğunu belgeleyin.",
+    "İş Kazası ve Meslek Hastalığı Bildirgesi formunu doldurun.",
+    "Belgeyi kazanın öğrenildiği günden itibaren **üç iş günü** içinde Sosyal Güvenlik Kurumu'na ulaştırın."
+  ],
+  "documents": [
+    "İş Kazası ve Meslek Hastalığı Bildirgesi",
+    "İşyeri kaza tutanağı",
+    "Sağlık kuruluşundan alınan kaza raporu"
+  ],
+  "faq": [
+    {
+      "q": "Bildirim süresi hafta sonunu kapsar mı?",
+      "a": "Hayır, süre sadece iş günlerini kapsar."
+    },
+    {
+      "q": "Kaza işyeri dışında gerçekleşirse ne olur?",
+      "a": "İşin yürütümü sırasında meydana gelen her türlü kaza için aynı bildirim yükümlülüğü geçerlidir."
+    },
+    {
+      "q": "Bildirimi kim yapmalıdır?",
+      "a": "Bildirim yükümlülüğü işverene aittir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "is-kazasi-tazminati",
+  "angle": "Süre",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

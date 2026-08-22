@@ -1,0 +1,99 @@
+{
+  "slug": "anlasmali-bosanma-sartlari",
+  "title": "Anlaşmalı boşanma şartları nelerdir — Vatandaş Rehberi | Av. Fethi Güz",
+  "description": "Anlaşmalı boşanma şartları nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
+  "h1": "Anlaşmalı boşanma şartları nelerdir?",
+  "keywords": [
+    "anlaşmalı boşanma şartları",
+    "anlaşmalı boşanma protokolü"
+  ],
+  "category": "Aile",
+  "related": [
+    "bosanma-davasi-nasil-acilir",
+    "nafaka-davasi-nedir",
+    "velayet-davasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/bosanma-davasi-nasil-acilir"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    },
+    {
+      "label": "Hesaplama",
+      "href": "/hesaplama"
+    }
+  ],
+  "lead": "Evliliğinizi mahkemede uzun tartışmalar yaşamadan bitirmek istiyorsanız, tüm sonuçları önceden yazılı olarak bağlamanız gerekir.",
+  "keyInsight": "Protokoldeki maddeler üzerinde tam uzlaşma sağlanması ve duruşmada hâkimin huzurunda **iradenin bizzat açıklanması** şarttır.",
+  "sections": [
+    {
+      "heading": "Evlilik süresi ve temel irade",
+      "paragraphs": [
+        "Mutfak masasında oturmuş, evliliği bitirme kararını sakin kafayla almış olabilirsiniz. Ancak bu adımı atarken **birlikte başvuru** veya diğer eşin açtığı davayı kabul etme iradesi gerekir.",
+        "Tarafların mahkeme salonunda hâkim karşısına çıkıp bu kararı özgür iradeleriyle onayladıklarını bizzat söylemeleri şarttır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Protokolde nelerin yazılması gerekir?",
+      "paragraphs": [
+        "Evliliğin mali sonuçları, çocuklar varsa onların durumu ve menfaatleri tek tek masaya yatırılır. Hâkim, **çocukların yararını** gözeten bir inceleme yapar ve tarafların ortak anlaşmasını bu süzgecin ardından değerlendirir.",
+        "Maddi konular, tazminat ve nafaka gibi hususların belirsiz bırakılmaması, sonradan yeni uyuşmazlıkların çıkmasını engeller."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Duruşmada ne beklenir?",
+      "paragraphs": [
+        "Dosya mahkemeye ulaştıktan sonra taraflar duruşmaya çağrılır. Her iki eşin de salonda hazır bulunması ve **boşanma iradesini** hâkime sözlü olarak tekrarlaması zorunludur.",
+        "Duruşma sırasında taraflardan birinin anlaşmadan vazgeçmesi veya beyanını değiştirmesi durumunda süreç çekişmeli yargılamaya döner."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kararın kesinleşmesi ve sonrası",
+      "paragraphs": [
+        "Hâkim tarafların iradelerini ve protokolü uygun bulduğunda boşanma kararı verilir. Karar verildikten sonra yasal süreçlerin tamamlanması ve **kesinleşme şerhinin** alınması beklenir.",
+        "Karar kesinleştikten sonra ilgili nüfus müdürlüğüne bildirim yapılarak sicil kayıtlarının güncellenmesi sağlanır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Evlilik süresini ve ortak iradeyi gözden geçirin.",
+    "Mali durum, velayet ve nafaka maddelerini protokola yazın.",
+    "Birlikte veya kabul beyanıyla aile mahkemesine başvurun.",
+    "Duruşmada iradenizi hâkime bizzat açıklayın.",
+    "Kesinleşen kararı nüfusa işletin."
+  ],
+  "documents": [
+    "Anlaşmalı boşanma protokolü",
+    "Nüfus kayıt örneği",
+    "Dava dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Taraflardan biri duruşmaya gitmezse ne olur?",
+      "a": "Tarafların duruşmada bizzat hazır bulunup iradelerini açıklaması şarttır; aksi takdirde anlaşmalı boşanma gerçekleşmez."
+    },
+    {
+      "q": "Hâkim protokolü değiştirebilir mi?",
+      "a": "Hâkim protokol maddelerini doğrudan değiştiremez ancak çocukların yararına aykırı bulduğu durumlarda taraflardan değişiklik talep edebilir."
+    },
+    {
+      "q": "Duruşmadan sonra vazgeçmek mümkün mü?",
+      "a": "Karar kesinleşene kadar tarafların irade değişikliği süreci etkileyebilir, bu nedenle kararın kesinleşmesi beklenir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "bosanma-davasi-nasil-acilir",
+  "angle": "Anlaşmalı şartlar",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

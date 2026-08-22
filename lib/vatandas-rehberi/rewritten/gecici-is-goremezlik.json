@@ -1,0 +1,108 @@
+{
+  "slug": "gecici-is-goremezlik",
+  "title": "Geçici iş göremezlik — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Geçici iş göremezlik hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
+  "h1": "Geçici iş göremezlik",
+  "keywords": [
+    "geçici iş göremezlik",
+    "gecici is goremezlik"
+  ],
+  "category": "Sosyal Güvenlik",
+  "related": [
+    "bagkur-prim-borcu",
+    "rapor-parasi-hesaplama",
+    "is-kazasi-bildirimi",
+    "sgk-hizmet-dokumu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/bagkur-prim-borcu"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=i%C5%9F%20g%C3%B6remezlik"
+    }
+  ],
+  "lead": "Geçici iş göremezlik ödeneği, hastalık, analık veya iş kazası gibi nedenlerle çalışamadığınız günlerde gelir kaybınızı telafi etmeyi amaçlayan bir sosyal güvenlik hakkıdır. Bu ödenek, çalışmadığınız süre boyunca mağdur olmamanız için Kurum tarafından karşılanır.",
+  "keyInsight": "Ödeneği alabilmek için sağlık hizmet sunucularından usulüne uygun şekilde düzenlenmiş bir rapor almanız ve gerekli prim gün şartlarını taşımanız şarttır.",
+  "sections": [
+    {
+      "heading": "İşten uzak kaldığınızda ne olur?",
+      "paragraphs": [
+        "Bir hastalık veya iş kazası sonucu çalışamaz hale geldiğinizde, geçiminizi sağlamak için bu sigorta kolu devreye girer. İş kazası veya meslek hastalığı durumunda, **sağlık kurulu raporu** ile durumunuzun tescillenmesi süreci başlatılır.",
+        "Raporunuzu aldıktan sonra, Kurum tarafından belirlenen şartları taşıyıp taşımadığınız incelenir. Bu dönemde işyerinizde fiilen çalışmıyor olmanız en temel beklentidir."
+      ],
+      "bullets": [
+        "Hastalık veya analık hali",
+        "İş kazası veya meslek hastalığı",
+        "Sağlık kurulu raporu onayı"
+      ]
+    },
+    {
+      "heading": "Ödenek miktarı nasıl hesaplanır?",
+      "paragraphs": [
+        "Alacağınız ödenek, iş göremezliğin başladığı tarihten önceki on iki ay içindeki kazançlarınız dikkate alınarak belirlenir. Hesaplamada, bu dönemdeki prime esas kazançlarınızın toplamı gün sayısına bölünür.",
+        "Eğer son bir yıl içinde yeterli prim bildiriminiz yoksa, hesaplama yöntemi farklılık gösterir. **Günlük kazanç alt sınırının iki katı** tavan olarak uygulanır."
+      ],
+      "bullets": [
+        "Son 12 aylık kazanç ortalaması",
+        "Prime esas kazanç tutarları",
+        "Tavan sınırlaması"
+      ]
+    },
+    {
+      "heading": "Meslek hastalığı durumunda süreç nasıl işler?",
+      "paragraphs": [
+        "Meslek hastalığı, yaptığınız işin doğası gereği ortaya çıkan bedensel veya ruhsal engelleri kapsar. Bu durumun tespiti için Kurum tarafından yetkilendirilen sağlık kuruluşlarından alınacak rapor şarttır.",
+        "İşvereniniz, durumu öğrendiği tarihten itibaren **üç iş günü içinde** Kuruma bildirimde bulunmakla yükümlüdür. Bu bildirim, hak kaybına uğramamanız için oldukça kritiktir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Analık ve emzirme ödeneği şartları nelerdir?",
+      "paragraphs": [
+        "Doğum öncesindeki bir yıl içinde en az 120 gün kısa vadeli sigorta primi yatırılmış olması, emzirme ödeneği alabilmeniz için temel şarttır. Ayrıca, genel sağlık sigortası prim borcunuzun bulunmaması gerekir.",
+        "Sigortalılığınız sona ermiş olsa dahi, belirli süreler içinde gerçekleşen doğumlarda haklarınız korunabilir. **Doğumdan önceki 15 ay** içinde prim şartını sağlıyorsanız başvurunuz değerlendirmeye alınır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Sağlık hizmet sunucusuna başvurarak durumunuzu belgeleyen raporu alın.",
+    "İş kazası veya meslek hastalığı durumunda işvereninize durumu vakit kaybetmeden bildirin.",
+    "Kurumun istediği tıbbi belgeleri eksiksiz şekilde hazırlayın.",
+    "Ödeme takibini e-Devlet üzerinden düzenli olarak kontrol edin."
+  ],
+  "documents": [
+    "Sağlık kurulu raporu",
+    "Tıbbi tetkik ve laboratuvar sonuçları",
+    "İş kazası ve meslek hastalığı bildirgesi",
+    "Doğum raporu (analık halleri için)"
+  ],
+  "faq": [
+    {
+      "q": "Her hastalıkta ödenek alabilir miyim?",
+      "a": "Hastalığın, Kurum tarafından yetkilendirilmiş sağlık sunucuları tarafından raporlanması ve yasal prim gün şartlarını taşıyor olmanız gerekir."
+    },
+    {
+      "q": "İşverenim bildirimi yapmazsa ne olur?",
+      "a": "İşverenin bildirim yükümlülüğü vardır; ancak siz de durumunuzu Kuruma doğrudan bildirme hakkına sahipsiniz."
+    },
+    {
+      "q": "Ödeneğim neden düşük hesaplandı?",
+      "a": "Ödenek, son bir yıl içindeki prime esas kazançlarınızın ortalaması üzerinden hesaplanır; düşük kazanç bildirimi ödenek miktarını doğrudan etkiler."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "bagkur-prim-borcu",
+  "angle": "Geçici iş göremezlik",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

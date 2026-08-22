@@ -1,0 +1,113 @@
+{
+  "slug": "ucret-haczi-nafaka",
+  "title": "Maaş Haczinde Nafaka Önceliği | Vatandaş Rehberi",
+  "description": "Nafaka ile maaş haczi çakışırsa ne olur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı…",
+  "h1": "Nafaka ile maaş haczi çakışırsa ne olur?",
+  "keywords": [
+    "nafaka maaş haczi",
+    "ücret haczi nafaka"
+  ],
+  "category": "İcra",
+  "related": [
+    "nafaka-davasi-nedir",
+    "maas-haczi-orani",
+    "nafaka-odenmezse",
+    "haciz-islemleri-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/nafaka-davasi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    }
+  ],
+  "lead": "Maaşınızda halihazırda normal biricra kesintisi varken yeni bir nafaka talebi çıktığında, sırada önde olan kesintinin bitmesi beklenmez. Birden fazla haciz durumunda **sıraya konur** ve kesintiler buna göre yürütülür.",
+  "keyInsight": "Sırada önde olan normal haczin kesintisi bitmedikçe sonraki haciz için kesintiye geçilemez kuralı nafaka takiplerinde dikkatle incelenmelidir.",
+  "sections": [
+    {
+      "heading": "Maaş kesintisinde sıra nasıl yürür?",
+      "paragraphs": [
+        "İş yerinizde maaşınıza birden fazla haciz konulduğunda, icra daireleri bu talepleri sıraya koyar. Her dosya kendi sırasını beklemek durumundadır.",
+        "Sırada önde olan haczin kesintisi tamamen bitmedikçe, sonraki dosya için maaştan kesinti yapılmasına **geçilemez**."
+      ],
+      "bullets": [
+        "Hacizler gelişim tarihine göre sıralanır.",
+        "Önceki dosya bitmeden sonrakine para aktarılmaz."
+      ]
+    },
+    {
+      "heading": "Geçim payı nasıl belirlenir?",
+      "paragraphs": [
+        "Maaşlar ve her nevi ücretler haczedilirken, borçlu ve ailesinin geçinmeleri için icra memurunca lüzumlu olarak takdir edilen miktar tenzil edilir.",
+        "Bu tenilat yani indirim yapıldıktan sonra kalan kısmın **dörtte birinden az** olmamak üzere haczolunacak miktar belirlenir."
+      ],
+      "bullets": [
+        "Aile geçimi için gerekli tutar düşülür.",
+        "Kalan tutarın dörtte birinden az kesinti yapılamaz."
+      ]
+    },
+    {
+      "heading": "Beyan ve yükümlülükler nelerdir?",
+      "paragraphs": [
+        "Hukuki süreçlerde istenen beyanları verirken gerçeğe uygun hareket etmek büyük önem taşır. Hakikate aykırı beyanda bulunanlar hakkında şikayet üzerine yasal yaptırımlar gündeme gelebilir.",
+        "Borçlunun üçüncü şahıslardan yardım görmesi veya eline geçen diğer gelirler, mahkeme kararıyla belirlenen **ödeme yükümlülüğünü** ortadan kaldırmaz."
+      ],
+      "bullets": [
+        "Gerçeğe aykırı beyanlar suç teşkil edebilir.",
+        "Üçüncü kişilerden yardım almak yükümlülüğü bitirmez."
+      ]
+    },
+    {
+      "heading": "Takiplerde öncelik hakkı nedir?",
+      "paragraphs": [
+        "Birden fazla alacaklının aynı gelir üzerinden talepte bulunması halinde, başvuru tarihleri sırasıyla öncelik hakkı doğurur.",
+        "Bu tür durumlarda icra dairelerinin belirleyeceği **sıralama esas alınarak** işlemler yürütülür."
+      ],
+      "bullets": [
+        "Başvuru sırası hak sahipliğini belirler.",
+        "Talepler tarih sırasına göre işleme konur."
+      ]
+    }
+  ],
+  "steps": [
+    "Maaşınızdaki mevcut haciz ve kesinti listesini icra dairesinden isteyin.",
+    "İcra memurunun aile geçimi için belirlediği tenilat miktarını kontrol edin.",
+    "Birden fazla dosya varsa sırlama listesini iş yerinizin insan kaynakları birimiyle teyit edin.",
+    "Kesinti oranlarının kanuni alt sınır olan dörtte bir oranına uyup olmadığını inceleyin.",
+    "Hak kaybı yaşamamak için dosya alacaklısı veya icra müdürlüğü ile iletişime geçin."
+  ],
+  "documents": [
+    "İcra dairesi maaş haciz müzekkeresi",
+    "İş yeri bordrosu ve maaş dökümü",
+    "Geçim indirimini gösteren icra memurluğu kararı",
+    "Dosya borç bakiyesini gösteren güncel hesap tablosu"
+  ],
+  "faq": [
+    {
+      "q": "Maaşımda zaten haciz varken nafaka kesilebilir mi?",
+      "a": "Birden fazla haciz olması durumunda dosyalar sıraya konur ve önde gelen kesinti bitmeden sonraki kesintiye geçilemez."
+    },
+    {
+      "q": "Haczedilecek miktar ne kadar olmalıdır?",
+      "a": "Borçlu ve ailesinin geçimi için gereken miktar düşüldükten sonra kalan kısmın dörtte birinden az olmamak üzere miktar belirlenir."
+    },
+    {
+      "q": "Gerçeğe aykırı beyanda bulunmanın sonucu nedir?",
+      "a": "İstenen beyanı hakikate aykırı surette yapanlar, alacaklının şikayeti üzerine hapis cezası ile cezalandırılabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "nafaka-davasi-nedir",
+  "angle": "Maaş haczi ile nafaka çakışması",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

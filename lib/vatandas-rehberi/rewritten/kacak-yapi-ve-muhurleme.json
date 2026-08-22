@@ -1,0 +1,101 @@
+{
+  "slug": "kacak-yapi-ve-muhurleme",
+  "title": "Kaçak Yapı: Mühürleme, Bir Aylık Süre ve Tapuya Şerh",
+  "description": "Yapı mühürlendi ne yapmalıyım, tebligat ne zaman yapılmış sayılır, bir aylık süre ne zaman başlar, tapuya şerh nasıl kalkar? İmar Kanunu m.32 çerçevesinde.",
+  "h1": "Yapı mühürlendi, ne yapmalısınız?",
+  "keywords": [
+    "kaçak yapı",
+    "yapı mühürleme",
+    "yapı tatil zaptı",
+    "ruhsata aykırı yapı",
+    "imar para cezası",
+    "tapu beyanlar hanesi"
+  ],
+  "category": "İmar",
+  "related": [
+    "kamulastirma-sureci"
+  ],
+  "links": [
+    {
+      "label": "3194 s.K. m.32 — Ruhsatsız veya ruhsata aykırı yapı",
+      "href": "/mevzuat/imar/madde-32"
+    },
+    {
+      "label": "3194 s.K. m.42 — İdari müeyyideler",
+      "href": "/mevzuat/imar/madde-42"
+    }
+  ],
+  "lead": "Yapı tatil zaptı, inşaatınızın hukuki olarak mühürlendiğini ve durdurulduğunu gösteren resmi bir belgedir. Bu noktadan itibaren zaman aleyhinize işler, bu yüzden süreci hızla yönetmeniz gerekir.",
+  "keyInsight": "Yapı tatil zaptının elinize ulaşmasını beklemeyin; zaptın yapıya asıldığı an tebligat yapılmış sayılır ve **bir aylık yasal süreniz** o an başlar.",
+  "sections": [
+    {
+      "heading": "Tespit ve mühürleme süreci nasıl başlar?",
+      "paragraphs": [
+        "Belediye veya valilik ekipleri, ruhsatsız veya ruhsata aykırı bir yapılaşma tespit ettiğinde inşaatı derhal mühürler. Bu süreç idarenin kendi denetimiyle başlayabileceği gibi, komşu ihbarı veya fenni mesulün bildirimiyle de tetiklenebilir.",
+        "Mühürleme işlemiyle birlikte inşaat faaliyetleri **derhal durdurulur.** Bu durdurma, şantiye alanında fiziksel bir mühürleme ile somutlaşır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Tapu kaydındaki şerh ne anlama gelir?",
+      "paragraphs": [
+        "Yapının imar mevzuatına aykırı olduğu bilgisi, ilgili idare tarafından en geç yedi gün içinde tapu dairesine bildirilir. Bu bilgi, taşınmazın tapu kaydının beyanlar hanesine işlenir.",
+        "Bu şerh, taşınmazın satışını veya kredi işlemlerini fiilen kilitler. Aykırılık tamamen giderilip idare tarafından tapuya bildirim yapılmadan bu şerh kaldırılamaz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Tebligatın ulaşmadığını düşünmek büyük bir tuzaktır",
+      "paragraphs": [
+        "Kanun, yapı tatil zaptının size posta yoluyla gelmesini şart koşmaz. Zaptın yapı yerine asılması, size tebliğ edildiği anlamına gelir.",
+        "Bilgilendirme sürecinde bir nüsha muhtara bırakılır ve bir nüsha da ilgili müdürlüğe gönderilir. Şantiyede bulunmasanız dahi **yasal süre bu asılma anında** işlemeye başlar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Bir aylık düzeltme penceresini nasıl kullanmalı?",
+      "paragraphs": [
+        "Tebligattan itibaren en çok bir ay içinde yapınızı ya ruhsata uygun hale getirmeli ya da mevcut durum için ruhsat almalısınız. Bu süre, teknik hazırlık ve idari süreçler için tanınan tek şanstır.",
+        "Bu süre içinde harekete geçmezseniz, süreç yıkım kararı ve idari para cezalarıyla sonuçlanacak bir aşamaya evrilir. Mührün kaldırılması kendiliğinden olmaz; mutlaka yazılı başvuru yapmalısınız."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Yapı tatil zaptının bir örneğini derhal alın ve tespit edilen aykırılıkları dikkatle okuyun.",
+    "Zaptın yapıya asıldığı tarihi not edin; bir aylık sürenizin başlangıcı budur.",
+    "Tapu kaydınızın beyanlar hanesini kontrol ederek şerh durumunu doğrulayın.",
+    "Bir teknik uzmanla görüşerek aykırılığın yasal olarak giderilip giderilemeyeceğini belirleyin.",
+    "Bir ay dolmadan ya aykırılığı giderin ya da ruhsat başvurunuzu yaparak belediyeye yazılı bildirimde bulunun.",
+    "İşlemlerde bir hata olduğunu düşünüyorsanız, süresi içinde idari yargıda iptal davası açın."
+  ],
+  "documents": [
+    "Yapı tatil zaptı",
+    "Tapu kaydı (beyanlar hanesi)",
+    "Yapı ruhsatı ve ekleri",
+    "Belediyeden alınan imar durumu belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Mühürlendikten sonra ne kadar sürem var?",
+      "a": "Tebliğ tarihinden itibaren en çok bir ay içinde yapıyı ruhsata uygun hale getirmeniz veya ruhsat almanız gerekir."
+    },
+    {
+      "q": "Tebligat bana ulaşmadı, süre yine de işler mi?",
+      "a": "Evet, yapı tatil zaptının yapı yerine asılması, tebligatın yapılmış sayılması için yeterlidir."
+    },
+    {
+      "q": "Tapudaki şerhi nasıl kaldırabilirim?",
+      "a": "Aykırılığı giderip idarenin durumu tapu dairesine bildirmesini sağlamadan şerh kaldırılamaz."
+    },
+    {
+      "q": "Yapı satın alırken nelere dikkat etmeliyim?",
+      "a": "Tapu kaydının beyanlar hanesini mutlaka inceleyin, yapı ruhsatı ve iskan durumunu belediyeden teyit edin."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.91,
+  "voice": "narrative",
+  "source": "gemini"
+}

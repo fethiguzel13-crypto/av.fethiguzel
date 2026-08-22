@@ -1,0 +1,116 @@
+{
+  "slug": "soybagi-reddi",
+  "title": "Soybağının reddi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Soybağının reddi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
+  "h1": "Soybağının reddi",
+  "keywords": [
+    "soybağının reddi",
+    "soybagi reddi"
+  ],
+  "category": "Aile",
+  "related": [
+    "mal-rejimi-tasfiyesi",
+    "velayet-davasi",
+    "nafaka-davasi-nedir",
+    "nufus-kayit-ornegi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/mal-rejimi-tasfiyesi"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    },
+    {
+      "label": "NHK",
+      "href": "/kategori/nhk"
+    }
+  ],
+  "lead": "Aile içinde çocuk ile baba arasındaki yasal bağı ortadan kaldırmak için soybağının reddi davası açılması gerekir. **Koca, ana veya çocuk** bu hakkı kullanarak babalık karinesini çürütebilir.",
+  "keyInsight": "Dava açma hakkı belirli kişilere tanınmıştır ve süreler **hak düşürücü** niteliktedir.",
+  "sections": [
+    {
+      "heading": "Kimler dava açabilir?",
+      "paragraphs": [
+        "Aile masasında oturduğunuzu ve gerçeğin nüfustakinden farklı olduğunu fark ettiğiniz anı düşünün. Koca, ana veya çocuk soybağının reddi davasını açarak babalık karinesini çürütebilir.",
+        "Bu dava, dava açma hakkına sahip diğer kişilere karşı açılır. Hukuki süreç tarafların konumuna göre şekillenir."
+      ],
+      "bullets": [
+        "Koca dava açabilir",
+        "Ana dava açabilir",
+        "Çocuk dava açabilir"
+      ]
+    },
+    {
+      "heading": "Diğer ilgililerin hakkı ne zaman doğar?",
+      "paragraphs": [
+        "Dava açma süresinin geçmesinden önce kocanın ölmesi, gaipliğine karar verilmesi ya da sürekli olarak ayırt etme gücünü kaybetmesi hâlleri yaşanabilir.",
+        "Bu durumda baba olduğunu iddia eden kişi, kocanın altsoyu, anası veya babası dava hakkına sahip olur. Doğumu ve kocanın ölümünü, sürekli olarak ayırt etme gücünü kaybettiğini veya hakkında gaiplik kararı alındığını **öğrenmelerinden başlayarak** bir yıl içinde soybağının reddi davası açılabilir."
+      ],
+      "bullets": [
+        "Kocanın ölümü veya gaipliği",
+        "Ayırt etme gücünün kaybı",
+        "Öğrenmeden itibaren bir yıl"
+      ]
+    },
+    {
+      "heading": "Ergin olmayan çocuk için kim başvurur?",
+      "paragraphs": [
+        "Küçük yaştaki bir çocuk adına sürecin nasıl işletileceği kanunda açıkça düzenlenmiştir. Ergin olmayan çocuğa atanacak kayyım süreci takip eder.",
+        "Kayyım, atama kararının kendisine tebliğinden başlayarak **bir yıl içinde** soybağının reddi davasını açar. Kocanın açacağı soybağının reddi davasına ilişkin hükümler burada kıyas yoluyla uygulanır."
+      ],
+      "bullets": [
+        "Kayyım atanması",
+        "Tebliğden itibaren bir yıl",
+        "Kıyasen uygulanan hükümler"
+      ]
+    },
+    {
+      "heading": "Soybağı nasıl kurulur?",
+      "paragraphs": [
+        "Hukuki bağın temellerine bakmak her zaman faydalıdır. Çocuk ile ana arasında soybağı doğumla kurulur.",
+        "Çocuk ile baba arasında soybağı ise ana ile evlilik, tanıma veya hâkim hükmüyle kurulur. Ayrıca evlât edinme yoluyla da soybağı kurulması mümkündür."
+      ],
+      "bullets": [
+        "Doğumla kurulan bağ",
+        "Evlilik, tanıma veya hâkim hükmü",
+        "Evlat edinme"
+      ]
+    }
+  ],
+  "steps": [
+    "Evlat ile baba arasındaki yasal karineyi tespit edin.",
+    "Öğrenme tarihinden itibaren hak düşürücü süreyi hesaplayın.",
+    "Aile mahkemesinde soybağının reddi davası açın.",
+    "DNA ve diğer delillerin mahkeme tarafından toplanmasını sağlayın."
+  ],
+  "documents": [
+    "nüfus kayıt örnekleri",
+    "doğum belgesi",
+    "öğrenme tarihini gösteren deliller",
+    "mahkeme kararıyla alınacak DNA raporu"
+  ],
+  "faq": [
+    {
+      "q": "Soybağının reddi davasını kimler açabilir?",
+      "a": "Koca, ana veya çocuk bu dava hakkını kullanarak babalık karinesini çürütebilir."
+    },
+    {
+      "q": "Koca süreyi kaçırırsa başkası dava açabilir mi?",
+      "a": "Kocanın ölümü, gaipliği veya ayırt etme gücünü kaybetmesi hâllerinde altsoyu, anası, babası veya baba olduğunu iddia eden kişi öğrenmeden itibaren bir yıl içinde dava açabilir."
+    },
+    {
+      "q": "Ergin olmayan çocuk adına kim dava açar?",
+      "a": "Ergin olmayan çocuğa atanacak kayyım, atama kararının kendisine tebliğinden başlayarak bir yıl içinde soybağının reddi davasını açar."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "mal-rejimi-tasfiyesi",
+  "angle": "Soybağının reddi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

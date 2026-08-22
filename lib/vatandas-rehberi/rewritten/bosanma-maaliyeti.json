@@ -1,0 +1,112 @@
+{
+  "slug": "bosanma-maaliyeti",
+  "title": "Boşanma Davası Ne Kadar Tutar? | Vatandaş Rehberi",
+  "description": "Boşanma davası maliyeti hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
+  "h1": "Boşanma davası maliyeti",
+  "keywords": [
+    "boşanma davası ne kadar tutar",
+    "boşanma masrafı"
+  ],
+  "category": "Aile",
+  "related": [
+    "bosanma-davasi-nasil-acilir",
+    "dava-harci-nedir",
+    "avukat-vekalet-ucreti"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/bosanma-davasi-nasil-acilir"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    },
+    {
+      "label": "Tarife",
+      "href": "/tarife-guncellemeleri"
+    }
+  ],
+  "lead": "Evlilik birliği temelinden sarsıldığında boşanma davası gündeme gelir; ancak sürecin maliyeti dosyanın türüne ve delil durumuna göre değişir.",
+  "keyInsight": "Her boşanma davasının masrafı tek bir kalemde ödenmez; dava türüne ve atılacak adımlara göre harç, posta ve bilirkişi masrafları parça parça eklenir.",
+  "sections": [
+    {
+      "heading": "Evlilik birliği temelinden sarsıldığında",
+      "paragraphs": [
+        "Ortak hayatı sürdürmeniz beklenmeyecek derecede temelinden sarsıldıysa eşlerden her biri dava açabilir. Davacının kusuru daha ağırsa davalının itiraz hakkı doğabilir.",
+        "Ancak evlilik **en az bir yıl** sürmüşse, birlikte başvurma veya kabul hâlinde anlaşmalı yol açılır."
+      ],
+      "bullets": [
+        "Hakim tarafları bizzat dinler.",
+        "Malî sonuçlar ve çocukların durumu karara bağlanır."
+      ]
+    },
+    {
+      "heading": "Anlaşmalı ve çekişmeli yolun farkı",
+      "paragraphs": [
+        "Eşlerin birlikte başvurması veya bir eşin diğerinin davasını kabul etmesiyle yürüyen süreç daha hızlı ilerler. Hâkim tarafların iradelerini serbestçe açıkladığına kanaat getirmelidir.",
+        "Reddedilen davanın ardından geçen **bir yıllık** sürede ortak hayat kurulamazsa, istem üzerine yine boşanma kararı verilebilir."
+      ],
+      "bullets": [
+        "Anlaşmada hâkim değişiklik yapabilir.",
+        "Tarafların kabulü şarttır."
+      ]
+    },
+    {
+      "heading": "Zina durumunda süre sınırı",
+      "paragraphs": [
+        "Zina sebebiyle dava açılacaksa, öğrenme anı büyük önem taşır.",
+        "Davaya hakkı olan eşin boşanma sebebini öğrenmesinden başlayarak **altı ay** içinde harekete geçmesi gerekir."
+      ],
+      "bullets": [
+        "Her hâlde zina eyleminin üzerinden beş yıl geçmemelidir.",
+        "Affeden tarafın dava hakkı düşer."
+      ]
+    },
+    {
+      "heading": "Geçici yardımlar ve mali hükümler",
+      "paragraphs": [
+        "Şiddet veya benzeri durumlarda korunan kişilere geçici maddi yardım yapılmasına karar verilebilir.",
+        "Bu ödemeler **bir ay** içinde şiddet uygulayandan tahsil edilir."
+      ],
+      "bullets": [
+        "Günlük ödeme usulleri uygulanır.",
+        "Gerçeğe aykırı beyanda yardımlar geri alınır."
+      ]
+    }
+  ],
+  "steps": [
+    "Anlaşmalı ve çekişmeli dava harcını ayırın.",
+    "Vekâlet ücreti, bilirkişi ve tebligat masraflarını hesaplayın.",
+    "Adli yardım şartınız varsa ilgili evrakları hazırlayın.",
+    "Karşı taraf vekâlet ücreti riskini göz önünde bulundurun.",
+    "Protokolde tüm masraf ve giderlerin paylaşımını açıkça yazın."
+  ],
+  "documents": [
+    "harç tarifesi",
+    "vekaletname",
+    "adli yardım evrakı",
+    "anlaşmalı boşanma protokolü"
+  ],
+  "faq": [
+    {
+      "q": "Boşanma davası masrafı sabit midir?",
+      "a": "Masraflar davanın çekişmeli ya da anlaşmalı olmasına göre değişir; keşif ve bilirkişi incelemeleri tutarı artırır."
+    },
+    {
+      "q": "Zina davası ne zaman açılmalıdır?",
+      "a": "Sebebin öğrenilmesinden itibaren altı ay ve her hâlde eylemin üzerinden beş yıl geçmelidir."
+    },
+    {
+      "q": "Geçici maddi yardımlar nasıl tahsil edilir?",
+      "a": "Karar verildikten sonra tebliğ tarihinden itibaren bir ay içinde şiddet uygulayandan tahsil olunur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "bosanma-davasi-nasil-acilir",
+  "angle": "Masraf",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

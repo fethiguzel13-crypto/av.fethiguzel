@@ -1,0 +1,112 @@
+{
+  "slug": "is-guvenligi-uzmani",
+  "title": "İş güvenliği yükümlülükleri nelerdir — Vatandaş Rehberi | Av. Fethi Gü",
+  "description": "İş güvenliği yükümlülükleri nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
+  "h1": "İş güvenliği yükümlülükleri nelerdir?",
+  "keywords": [
+    "iş güvenliği uzmanı",
+    "İSG kurulu"
+  ],
+  "category": "İş",
+  "related": [
+    "is-kazasi-tazminati",
+    "is-kazasi-bildirimi",
+    "is-kazasi-maluliyet"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/is-kazasi-tazminati"
+    },
+    {
+      "label": "İSG",
+      "href": "/kategori/isg"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    }
+  ],
+  "lead": "İş yerinde sağlığı ve güvenliği korumak, işverenin kanunen yerine getirmek zorunda olduğu temel sorumluluklardandır. Sağlık raporu olmayan veya çalışmaya elverişli bulunmayan kimseler riskli işlerde çalıştırılamaz.",
+  "keyInsight": "Sağlık raporu alınması gereken işlerde rapora dayanmaksızın işçi çalıştırmak, ileride doğacak tedavi masrafları ve ödemelerin işverene tazmin ettirilmesine yol açar.",
+  "sections": [
+    {
+      "heading": "Sağlık Raporu Olmadan İşçi Çalıştırma Yasağı",
+      "paragraphs": [
+        "Çalışma mevzuatında sağlık raporu alınması gerektiği belirtilen işlerde, bu kurala uyulmadan personel görevlendirilemez. Sağlık kurulu raporu ile belirli bir işte çalışamayacağı belgelenen kişiler o işlerde istihdam edilemez.",
+        "Rapor olmaksızın veya rapordaki kısıtlamalara aykırı şekilde personel çalıştırılması halinde, kurum tarafından yapılan sağlık hizmeti giderleri işverenden tahsil edilir."
+      ],
+      "bullets": [
+        "Sağlık raporu şartına mutlaka uyulmalıdır.",
+        "Elverişsiz raporu bulunanlar çalıştırılamaz."
+      ]
+    },
+    {
+      "heading": "İş Kazası ve Meslek Hastalığında Sorumluluk",
+      "paragraphs": [
+        "İş kazası veya meslek hastalığı meydana geldiğinde, işveren sigortalıya sağlık hizmetlerini derhal sağlamakla yükümlüdür. Tedavi sürecindeki ihmal ve gecikmeler masrafların işverene rücu edilmesine neden olur.",
+        "Meydana gelen olayda işverenin kurallara aykırı hareketi bulunuyorsa, yapılan masraflar ve bağlanan gelirlerin ilk peşin sermaye değeri işverenden **tazmin ettirilir**."
+      ],
+      "bullets": [
+        "Sağlık hizmeti derhal sağlanmalıdır.",
+        "İhmal durumunda masraflar işverene yükletilir."
+      ]
+    },
+    {
+      "heading": "Engelli ve Eski Hükümlü Çalıştırma Yükümlülüğü",
+      "paragraphs": [
+        "Belirli sayıdaki işçi sınırını aşan iş yerlerinde, kanunda belirtilen oranlarda engelli veya eski hükümlü çalıştırma zorunluluğu bulunmaktadır. Bu kapsamdaki personel Türkiye İş Kurumu aracılığıyla sağlanır.",
+        "Yer altı ve su altı işlerinde engelli personel çalıştırılması yasaktır ve toplam işçi sayısı hesabında bu alanlardaki çalışanlar dikkate alınmaz."
+      ],
+      "bullets": [
+        "Personel İŞKUR aracılığıyla temin edilir.",
+        "Yer altı işlerinde engelli çalıştırılamaz."
+      ]
+    },
+    {
+      "heading": "Geçici İş İlişkisi ve Güvenlik İstisnaları",
+      "paragraphs": [
+        "İş sağlığı ve güvenliği bakımından acil olan işlerde veya zorlayıcı nedenlerin ortaya çıkması halinde geçici iş ilişkisi kurulabilir. Ancak toplu işçi çıkarılan veya grev uygulanan yerlerde bu yola başvurulamaz.",
+        "Çalıştırılacak geçici işçi sayısı ve süreler kanuni sınırlamalara tabi tutulmuştur; kurallara aykırı görevlendirmeler hukuki yaptırım doğurur."
+      ],
+      "bullets": [
+        "Acil durumlarda geçici ilişki kurulabilir.",
+        "Grev dönemlerinde geçici işçi çalıştırılamaz."
+      ]
+    }
+  ],
+  "steps": [
+    "İşe alınacak her personel için gerekli sağlık raporlarını temin edin.",
+    "Raporu olmayan veya çalışmaya elverişli bulunmayan kişileri riskli işlerde görevlendirmeyin.",
+    "Engelli ve eski hükümlü çalıştırma kotalarını İŞKUR aracılığıyla doldurun.",
+    "İş kazası durumunda sağlık hizmetlerini derhal sağlayın ve süreci takip edin.",
+    "Mevzuatta belirtilen güvenlik ve sağlık tedbirlerini eksiksiz uygulayın."
+  ],
+  "documents": [
+    "Sağlık kurulu raporu",
+    "İşe giriş sağlık raporu",
+    "İŞKUR işçi talep evrakları",
+    "Geçici iş ilişkisi sözleşmesi"
+  ],
+  "faq": [
+    {
+      "q": "Sağlık raporu olmayan işçi çalıştırılırsa ne olur?",
+      "a": "Kurum tarafından yapılan sağlık giderleri ve ödemeler işverene tazmin ettirilir."
+    },
+    {
+      "q": "Yer altı işlerinde engelli personel çalıştırılabilir mi?",
+      "a": "Yer altı ve su altı işlerinde engelli işçi çalıştırılması yasaktır."
+    },
+    {
+      "q": "İş kazası anında ilk sorumluluk nedir?",
+      "a": "İşveren, kazaya uğrayan sigortalıya sağlık durumunun gerektirdiği sağlık hizmetlerini derhal sağlamakla yükümlüdür."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "is-kazasi-tazminati",
+  "angle": "İSG yükümlülük",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

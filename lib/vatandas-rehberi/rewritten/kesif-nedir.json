@@ -1,0 +1,111 @@
+{
+  "slug": "kesif-nedir",
+  "title": "Keşif — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Keşif hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "Keşif",
+  "keywords": [
+    "keşif",
+    "kesif nedir"
+  ],
+  "category": "Usul",
+  "related": [
+    "zamanaşimi-nedir",
+    "bilirkisi-raporu-itiraz",
+    "hukuk-davasi-nasil-acilir",
+    "dava-harci-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/zamanaşimi-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=ke%C5%9Fif"
+    }
+  ],
+  "lead": "Mahkemenin uyuşmazlık konusu yeri bizzat yerinde incelemesine keşif denir. Telaş etmeyin, bu işlem gerçeği doğrudan görmek için yapılır.",
+  "keyInsight": "Keşif kararını bizzat mahkeme verir; ancak zorunluluk veya gecikmesinde zarar olan hâllerde resmî tatilde dahi yapılabilir.",
+  "sections": [
+    {
+      "heading": "Keşif nedir ve ne zaman yapılır?",
+      "paragraphs": [
+        "Davanın seyri içinde bazı konuların masabaşında çözülmesi imkânsızdır. Örneğin tarlanın sınırları, binadaki hasar veya bir imalatın durumu yerinde incelenmelidir.",
+        "Hâkim, tarafların talebiyle veya kendiliğinden **yerinde inceleme** kararı alabilir. Resmî çalışma saatleri dışında veya resmî tatillerde dahi gecikmesinde sakınca bulunan durumlarda bu işlem gerçekleştirilebilir."
+      ],
+      "bullets": [
+        "Yerinde gözlem esastır.",
+        "Hâkim bizzat olay yerine gider."
+      ]
+    },
+    {
+      "heading": "Adli tatilde keşif yapılması mümkün mü?",
+      "paragraphs": [
+        "Yılın belirli bir döneminde adli tatil ilan edilir ve adliyelerde işler yavaşlar. Ancak bazı acil işler bu kuralın dışındadır.",
+        "Mahkemece adli tatilde yapılmasına karar verilen **keşifler** durmaksızın yürütülür. Bu sayede hak kaybının önüne geçilmesi hedeflenir."
+      ],
+      "bullets": [
+        "Adli tatilde her iş durmaz.",
+        "Keşif kararı alınabilir."
+      ]
+    },
+    {
+      "heading": "Islah yapıldığında keşif tutanağı yanar mı?",
+      "paragraphs": [
+        "Davanın seyrini değiştirmek için yapılan ıslah işlemi bazı usul işlemlerini hükümsüz kılabilir. Ancak bu kuralın istisnaları vardır.",
+        "Daha önceden yapılmış olan keşif tutanakları ıslahla **geçersiz kılınamaz**. Yapılan bu incelemeler dosyada delil olarak kalmaya devam eder."
+      ],
+      "bullets": [
+        "Tutanaklar korunur.",
+        "Emekler boşa gitmez."
+      ]
+    },
+    {
+      "heading": "Yanınızda hangi unsurlar ve hazırlıklar bulunmalı?",
+      "paragraphs": [
+        "Keşif günü geldiğinde hâkim, bilirkişiler ve taraflar ilgili adreste toplanır. Orada yapılan her şey tutanağa geçirilir.",
+        "Hakim veya bilirkişinin incelemeyi rahat yapabilmesi için gerekli kolaylığın sağlanması ve **hazır bulunulması** büyük önem taşır."
+      ],
+      "bullets": [
+        "Adreste eksiksiz hazır olun.",
+        "Uzmanlara kolaylık sağlayın."
+      ]
+    }
+  ],
+  "steps": [
+    "Mahkemenin keşif kararını bekleyin veya talepte bulunun.",
+    "Belirlenen gün ve saatte ilgili adreste hazır olun.",
+    "Hâkimin ve bilirkişilerin inceleme yapmasına imkân tanıyın.",
+    "Yapılan işlemlerin tutanağa geçirilmesini takip edin."
+  ],
+  "documents": [
+    "Dava dilekçesi ve dosya",
+    "Keşif ara kararı",
+    "Bilirkişi raporları (varsa)"
+  ],
+  "faq": [
+    {
+      "q": "Keşif her davada zorunlu mudur?",
+      "a": "Hayır, sadece olayın yerinde incelenmesine ihtiyaç duyulan uyuşmazlıklarda mahkeme bu yola başvurur."
+    },
+    {
+      "q": "Resmî tatilde keşif yapılabilir mi?",
+      "a": "Zorunluluk veya gecikmesinde zarar olan hâllerde resmî tatil günlerinde de keşif yapılmasına karar verilebilir."
+    },
+    {
+      "q": "Islah yapınca eski keşif tutanağı silinir mi?",
+      "a": "Hayır, usulüne uygun yapılmış keşif tutanakları ıslah ile geçersiz kılınamaz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "zamanaşimi-nedir",
+  "angle": "Keşif",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

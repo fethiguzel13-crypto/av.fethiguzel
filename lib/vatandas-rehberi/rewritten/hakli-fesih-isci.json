@@ -1,0 +1,100 @@
+{
+  "slug": "hakli-fesih-isci",
+  "title": "İşçinin Haklı Fesih Sebepleri | Vatandaş Rehberi",
+  "description": "İşçi hangi hallerde haklı fesih yapabilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Porta…",
+  "h1": "İşçi hangi hallerde haklı fesih yapabilir?",
+  "keywords": [
+    "işçi haklı fesih",
+    "haklı nedenle fesih işçi"
+  ],
+  "category": "İş",
+  "related": [
+    "is-sozlesmesi-feshi",
+    "istifa-nasil-edilir",
+    "kidem-tazminati-nasil-alinir",
+    "mobbing-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/is-sozlesmesi-feshi"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Arabuluculuk",
+      "href": "/rehber/arabuluculuk"
+    }
+  ],
+  "lead": "Sabah işe geldiniz ve şartların çekilmez bir hal aldığını gördünüz. İş Kanunu, sağlığınızı tehdit eden, onurunuzu zedeleyen veya ücretinizi ödemeyen durumlarda **derhal fesih** hakkı tanır.",
+  "keyInsight": "Haklı fesih yaparken gerekçenizi net belirlemeli ve bunu **yazılı olarak** işverene bildirmelisiniz.",
+  "sections": [
+    {
+      "heading": "Sağlığınız tehlikedeyse ne yaparsınız?",
+      "paragraphs": [
+        "Yaptığınız iş sağlığınız veya yaşayışınız için tehlikeli bir hal aldıysa ya da işyerinde doğrudan görüştüğünüz kişide bulaşıcı bir hastalık ortaya çıktıysa bu yola gidebilirsiniz.",
+        "Sağlık sebepleri **beklenmedik durumlar** için size anında ayrılma hakkı verir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Onur kırıcı sözler ve taciz durumunda",
+      "paragraphs": [
+        "İşveren veya yetkililer şeref ve namusunuza dokunacak sözler söylerse, hakaret ederse ya da gözdağı verirse duruma katlanmak zorunda değilsiniz.",
+        "Ayrıca işyerinde cinsel tacize uğradığınızda durumu **işverene bildirmenize rağmen** gerekli önlemler alınmıyorsa sözleşmeyi sonlandırabilirsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Ücretiniz ödenmiyor veya eksik veriliyorsa",
+      "paragraphs": [
+        "Ücretiniz kanun hükümlerine veya sözleşme şartlarına uygun hesaplanmıyor ya da ödenmiyorsa haklı fesih hakkınız doğar.",
+        "Parça başı işlerde size yapabileceğinizden az iş verilip **aradaki fark** zaman esasına göre kapatılmıyorsa da bu hakkı kullanabilirsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İşyerinde zorlayıcı sebepler çıktığında",
+      "paragraphs": [
+        "Çalıştığınız işyerinde **bir haftadan fazla süre** ile işin durmasını gerektirecek zorlayıcı sebepler ortaya çıkarsa sözleşmeyi feshedebilirsiniz.",
+        "Bu tür durumlarda süreç tamamen kanunun çizdiği sınırlar içinde yürütülmelidir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Hangi haklı sebebe dayanacağınızı tespit edin",
+    "Durumu anlatan fesih bildirim yazısını hazırlayın",
+    "Yazıyı işverene veya yetkiliye teslim edin",
+    "Bütün belgeleri ve delilleri dosyanızda saklayın"
+  ],
+  "documents": [
+    "İş sözleşmesi",
+    "Maaş bordroları",
+    "Fesih bildirim dilekçesi",
+    "İlgili yazışmalar"
+  ],
+  "faq": [
+    {
+      "q": "Haklı fesih yapınca kıdem tazminatı alabilir miyim?",
+      "a": "İş Kanunu Madde 24 kapsamındaki haklı nedenlerle yapılan fesihlerde **kıdem tazminatı** hakkı doğar."
+    },
+    {
+      "q": "Fesih bildirimini nasıl yapmalıyım?",
+      "a": "İş sözleşmesini **derhal feshetmek** istediğinizi belirten yazılı bildirimi işverene ulaştırmalısınız."
+    },
+    {
+      "q": "Her sağlık sorununda bu hak doğar mı?",
+      "a": "Sadece işin niteliğinden doğan tehlikeler veya işyerindeki bulaşıcı hastalık gibi kanunda sayılan **özel hallerde** bu hak geçerlidir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "is-sozlesmesi-feshi",
+  "angle": "İşçi haklı fesih",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

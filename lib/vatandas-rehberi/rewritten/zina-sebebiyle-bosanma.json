@@ -1,0 +1,110 @@
+{
+  "slug": "zina-sebebiyle-bosanma",
+  "title": "Zina nedeniyle boşanma — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Zina nedeniyle boşanma hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
+  "h1": "Zina nedeniyle boşanma",
+  "keywords": [
+    "zina boşanma",
+    "zina davası ispat"
+  ],
+  "category": "Aile",
+  "related": [
+    "bosanma-davasi-nasil-acilir",
+    "cekismeli-bosanma-sureci",
+    "mal-rejimi-tasfiyesi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/bosanma-davasi-nasil-acilir"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Evlilik birliğinde sadakatsizlik şüphesiyle sarsıldığınızda, kanunun çizdiği sınırlar içinde hareket etmeniz gerekir. Süreç, doğru adımlarla ilerlemeyi ve hak düşürücü süreleri gözetmeyi zorunlu kılar.",
+  "keyInsight": "Zina eylemini öğrendikten sonra **öğrenme tarihinden itibaren altı ay** içinde dava açmazsanız bu sebebe dayanma hakkınızı kaybedersiniz.",
+  "sections": [
+    {
+      "heading": "Zina sebebiyle boşanma nasıl başlar?",
+      "paragraphs": [
+        "Eşiniz tarafından aldatıldığınızı öğrendiğinizde mahkemenin kapısını çalabilirsiniz. Kanun, bu durumu özel bir boşanma sebebi olarak düzenlemiştir.",
+        "Ancak bu yola başvururken zamanlamaya çok dikkat etmeniz şarttır. Olayı ilk öğrendiğiniz an itibarıyla **altı aylık yasal süre** işlemeye başlar."
+      ],
+      "bullets": [
+        "Özel boşanma sebebidir",
+        "Süreye uyulması gerekir"
+      ]
+    },
+    {
+      "heading": "Hangi süreleri asla kaçırmamalısınız?",
+      "paragraphs": [
+        "Zina davası açarken iki farklı zaman sınırına dikkat etmeniz beklenir. Bunlardan biri öğrenme anıyla başlayan kısa süre, diğeri ise eylemin gerçekleştiği tarihten itibaren başlayan uzun süredir.",
+        "Eylemin üzerinden **beş yıl** geçmesi durumunda, zina sebebine dayanarak boşanma davası açma hakkı tamamen ortadan kalkar."
+      ],
+      "bullets": [
+        "Altı aylık öğrenme süresi",
+        "Beş yıllık hak düşürücü süre"
+      ]
+    },
+    {
+      "heading": "Affederseniz ne olur?",
+      "paragraphs": [
+        "Yaşananları kabullenip eşinizi affettiğinizi gösterdiğinizde hukuki durum değişir. Affeden tarafın zina nedeniyle dava açma hakkı bulunmaz.",
+        "Bu nedenle duygusal karar alırken atacağınız adımların mahkemedeki sonuçlarını öngörmeniz gerekir."
+      ],
+      "bullets": [
+        "Af hakkı ortadan kaldırır",
+        "İleride dava açılamaz"
+      ]
+    },
+    {
+      "heading": "Mal paylaşımı ve tazminat dengesi nasıl kurulur?",
+      "paragraphs": [
+        "Zina nedeniyle boşanma gerçekleştiğinde, mal paylaşımında kusurlu eş aleyhine sonuçlar doğabilir. Hâkim, zina nedeniyle boşanma hâlinde kusurlu eşin artık değerdeki pay oranının **hakkaniyete uygun olarak azaltılmasına** karar verebilir.",
+        "Hatta durumun ağırlığına göre kusurlu eşin payı tamamen de kaldırılabilir."
+      ],
+      "bullets": [
+        "Artık değer payı etkilenir",
+        "Hâkim takdir yetkisi kullanır"
+      ]
+    }
+  ],
+  "steps": [
+    "Zina eylemini ve tarihini net şekilde belirleyin.",
+    "Altı aylık ve beş yıllık yasal süreleri hesaplayın.",
+    "Affetme iradesi gösteren bir işlem yapmaktan kaçının.",
+    "Boşanma dilekçesini mahkemeye sunun."
+  ],
+  "documents": [
+    "Boşanma dava dilekçesi",
+    "Delil listesi",
+    "Nüfus kayıt örneği"
+  ],
+  "faq": [
+    {
+      "q": "Zina davası açmak için en geç ne kadar sürem var?",
+      "a": "Olayı öğrendiğiniz günden itibaren **altı ay** ve her hâlde eylemin üzerinden **beş yıl** geçmeden dava açmanız gerekir."
+    },
+    {
+      "q": "Eşimi affedersem sonradan dava açabilir miyim?",
+      "a": "Affeden tarafın zina sebebine dayanarak dava açma hakkı kalmaz."
+    },
+    {
+      "q": "Mal paylaşımı zina durumunda nasıl etkilenir?",
+      "a": "Hâkim, zina nedeniyle boşanma hâlinde kusurlu eşin artık değerdeki payını **azaltabilir veya tamamen kaldırabilir**."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "bosanma-davasi-nasil-acilir",
+  "angle": "Zina",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

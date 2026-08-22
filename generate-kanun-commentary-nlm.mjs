@@ -206,8 +206,11 @@ function askNotebookLM(prompt) {
     const authish = /auth|cookie|unauthor|401|403|login|session|expired|csrf/.test(combo);
     if (authish) {
       console.warn('[auth] NotebookLM oturumu dusmus olabilir, auth refresh + login deneniyor...');
-      spawnSync('notebooklm', ['auth', 'refresh', '--quiet'], { cwd: __dir, timeout: 120000, encoding: 'utf-8' });
-      // headless login mumkun degilse refresh yeterli olmali; degilse kullanici tarayicida zaten acik
+      spawnSync('python', [join(__dir, 'scripts', 'notebooklm-keepalive.py')], {
+        cwd: __dir,
+        timeout: 360000,
+        encoding: 'utf-8',
+      });
       const retry = spawnSync('python', [helper, NLM_NOTEBOOK, promptPath], {
         cwd: __dir,
         timeout: 360000,

@@ -1,0 +1,114 @@
+{
+  "slug": "kat-mulkiyeti-aidat",
+  "title": "Kat Mülkiyeti Aidat Borcu ve İcra | Vatandaş Rehberi",
+  "description": "Kat mülkiyeti aidat borcu nasıl tahsil edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk P…",
+  "h1": "Kat mülkiyeti aidat borcu nasıl tahsil edilir?",
+  "keywords": [
+    "aidat borcu",
+    "kat mülkiyeti aidat",
+    "site aidatı icra"
+  ],
+  "category": "Eşya",
+  "related": [
+    "kat-irtifaki-nedir",
+    "kat-mulkiyeti-genel-kurul",
+    "site-yonetim-plani",
+    "ortak-gider-nedir",
+    "yonetici-secimi-site",
+    "kat-irtifakindan-mulkiyete",
+    "bagimsiz-bolum-nedir",
+    "arsa-payi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Kat mülkiyeti",
+      "href": "/kategori/katmulkiyeti"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Site aidatınız ödenmediğinde bina yönetimi veya komşular sessiz kalmak zorunda değildir. **Gecikme tazminatı** ve yasal takip yolları ile bu borç tahsil edilebilir.",
+  "keyInsight": "Aidat borcunda sadece kat maliki değil, dairede oturan kiracı da ödenen kira miktarıyla sınırlı olmak üzere müteselsilen sorumludur.",
+  "sections": [
+    {
+      "heading": "Aidat borcu nasıl hesaplanır?",
+      "paragraphs": [
+        "Apartman veya sitelerde kapıcı, kaloriferci, bahçıvan gibi personel giderleri eşit olarak paylaşılır. Sigorta, bakım, onarım ve yönetici aylığı gibi diğer ortak giderler ise arsa payı oranına göre belirlenir.",
+        "Kat malikleri ortak yerleri kullanmaktan vazgeçse bile bu giderleri ödemekten kaçınamaz. **Gecikme tazminatı** olarak ödenmeyen her gün için aylık yüzde beş oranı uygulanır."
+      ],
+      "bullets": [
+        "Personel gideri eşit paylaştırılır",
+        "Bakım onarım arsa payına göre bölünür",
+        "Kullanmama bahanesi borcu ortadan kaldırmaz"
+      ]
+    },
+    {
+      "heading": "Kimler ödemekle yükümlüdür?",
+      "paragraphs": [
+        "Asıl borçlu her zaman bağımsız bölümün sahibidir. Ancak dairede kiracı oturuyorsa, kira borcu sınırını geçmemek şartıyla kiracı da bu borçtan ortaklaşa sorumludur.",
+        "Yönetici veya kat malikleri borcun tahsili için **icra takibi** başlatabilir ya da dava açabilir. Ödenmeyen borçlar için kanuni ipotek hakkı da gündeme gelebilir."
+      ],
+      "bullets": [
+        "Asıl muhatap kat maliktir",
+        "Kiracı da sınırlı sorumlu tutulabilir"
+      ]
+    },
+    {
+      "heading": "Hangi yollara başvurulabilir?",
+      "paragraphs": [
+        "Borcunu ödemeyen komşular için yönetim planına ve genel kurul kararlarına dayanarak işlem yapılır. Alacaklı kat maliklerinin hakları her zaman önceliklidir.",
+        "Sürecin hatasız ilerlemesi için yönetim planı, işletme projesi ve gider cetvellerinin eksiksiz tutulması şarttır."
+      ],
+      "bullets": [
+        "Genel kurul kararları esastır",
+        "Alacaklı komşuların hakkı önceliklidir"
+      ]
+    },
+    {
+      "heading": "Süreci başlatırken nelere dikkat etmeli?",
+      "paragraphs": [
+        "Borç tutarının ve gecikme tazminatının doğru hesaplandığından emin olunmalıdır. Eksik veya hatalı hesaplamalar hukuki süreci uzatabilir.",
+        "Bütün belgelerin tam ve düzenli olması, icra veya mahkeme aşamasında işinizi kolaylaştıracaktır."
+      ],
+      "bullets": [
+        "Doğru hesaplama şarttır",
+        "Evrakların tam olması süreci hızlandırır"
+      ]
+    }
+  ],
+  "steps": [
+    "Yönetim planı ve genel kurul kararını alın.",
+    "Aidatın ortak gider olup olmadığını kontrol edin.",
+    "Ödenmeyen aidat için kat malikine yazılı bildirim yapın.",
+    "İlamsız icra veya sulh hukuk yolunu seçin.",
+    "Gecikme tazminatı hesabını belgeleyin."
+  ],
+  "documents": [
+    "yönetim planı",
+    "genel kurul kararı",
+    "aidat dökümü",
+    "tebligat"
+  ],
+  "faq": [
+    {
+      "q": "Kiracı aidatı ödemezse ev sahibi ödemek zorunda kalır mı?",
+      "a": "Evet, ana sorumluluk kat malikine aittir; kiracı ise ödediği kira miktarıyla sınırlı olarak sorumludur."
+    },
+    {
+      "q": "Ortak alanı kullanmıyorum yine de aidat ödemeli miyim?",
+      "a": "Evet, ortak yerleri kullanmadığınızı veya bu hizmete ihtiyacınız olmadığını ileri sürerek aidat ödemekten kaçınamazsınız."
+    },
+    {
+      "q": "Geciken aidatlar için ne kadar fark ödenir?",
+      "a": "Ödemede gecikilen günler için aylık yüzde beş oranında gecikme tazminatı uygulanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "kat-mulkiyeti-aidat",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

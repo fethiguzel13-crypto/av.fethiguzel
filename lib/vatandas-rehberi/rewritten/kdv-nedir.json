@@ -1,0 +1,111 @@
+{
+  "slug": "kdv-nedir",
+  "title": "KDV nedir? Hangi oranlar uygulanır — Vatandaş Rehberi | Av. Fethi Güze",
+  "description": "KDV nedir? Hangi oranlar uygulanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
+  "h1": "KDV nedir? Hangi oranlar uygulanır?",
+  "keywords": [
+    "KDV nedir",
+    "KDV oranları",
+    "KDV iadesi"
+  ],
+  "category": "Vergi",
+  "related": [
+    "fatura-iptali",
+    "e-fatura-nedir",
+    "vergi-incelemesi-nedir",
+    "vergi-ziyai-cezasi",
+    "gecikme-zammi-faizi",
+    "stopaj-nedir",
+    "muhtasar-beyanname",
+    "gelir-vergisi-nedir"
+  ],
+  "links": [
+    {
+      "label": "KDVK",
+      "href": "/kategori/kdvk"
+    },
+    {
+      "label": "VUK",
+      "href": "/kategori/vuk"
+    }
+  ],
+  "lead": "KDV, mal ve hizmet teslimlerinde ödenen genel bir tüketim vergisidir. Alışveriş sırasında nihai tüketiciye yansıtılır.",
+  "keyInsight": "Vergi kesintisi ve ödeme yükümlülüklerinde tarafların yasal sorumlulukları eksiksiz yerine getirilmelidir.",
+  "sections": [
+    {
+      "heading": "Alışverişte KDV nasıl doğar?",
+      "paragraphs": [
+        "Marketten bir ürün aldığınızda veya bir hizmetten yararlandığınızda ödediğiniz bedelin içinde vergi bulunur. Bu süreç, mal alım ve satımı ile hizmet ifası sırasında işletmeler aracılığıyla yürütülür.",
+        "Vergi kesintisi yapmak ve bu tutarı ilgili daireye yatırmakla sorumlu olanlar, **verginin tam olarak ödenmesinden** bizzat mükelleftir."
+      ],
+      "bullets": [
+        "Mal ve hizmet teslimi",
+        "Bedel üzerinden hesaplama"
+      ]
+    },
+    {
+      "heading": "Sorumluluk kimdedir?",
+      "paragraphs": [
+        "Ticari işlemler sırasında alım satıma taraf olanlar, hizmetten yararlananlar ve aralarında doğrudan ya da dolaylı ilişki bulunanlar **müteselsilen sorumludur**.",
+        "Bu ortak sorumluluk, verginin zamanında ödenmemesi durumunda tüm tarafları ilgilendiren yasal sonuçlar doğurabilir."
+      ],
+      "bullets": [
+        "Doğrudan ilişkiler",
+        "Ortak sorumluluk alanı"
+      ]
+    },
+    {
+      "heading": "Ödeme gecikirse ne olur?",
+      "paragraphs": [
+        "Vergi borçlarının ödeme süresi içinde ödenmeyen kısmına vadenin bitim tarihinden itibaren gecikme zammı uygulanır.",
+        "Ay kesirlerine isabet eden tutarlar günlük olarak hesaplanır ve borca eklenir."
+      ],
+      "bullets": [
+        "Vade bitimi",
+        "Günlük hesaplama"
+      ]
+    },
+    {
+      "heading": "Borçlar nasıl ertelenebilir?",
+      "paragraphs": [
+        "Vergi borcunu ödemek amme borçlusunu çok zor duruma düşürecekse, borçlu tarafından yazı ile başvurularak tecil imkanı aranabilir.",
+        "Başvuru için geriye dönük **vergi beyannamelerinin** süresinde verilmiş olması şarttır."
+      ],
+      "bullets": [
+        "Yazılı başvuru",
+        "Çok zor durum hali"
+      ]
+    }
+  ],
+  "steps": [
+    "Alışveriş ve hizmet faturalarınızı kontrol edin.",
+    "Vergi ödemelerinizi yasal süreler içinde yapın.",
+    "Gecikme durumunda ilgili tahsil dairesine başvurun.",
+    "Tecil ve taksitlendirme şartlarını inceleyin."
+  ],
+  "documents": [
+    "Vergi beyannameleri",
+    "Satış faturaları",
+    "Yazılı başvuru dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "KDV kimden alınır?",
+      "a": "KDV, mal ve hizmeti tüketen nihai tüketiciye yansıtılır ancak vergi tahsilatı satıcı aracılığıyla yapılır."
+    },
+    {
+      "q": "Süresinde ödenmeyen vergiye ne uygulanır?",
+      "a": "Vadesinde ödenmeyen vergi tutarlarına her ay için ayrı ayrı gecikme zammı uygulanır."
+    },
+    {
+      "q": "Vergi borcu ertelenebilir mi?",
+      "a": "Borçluyu çok zor duruma düşürecek durumlarda, gerekli şartların taşınması ve yazılı talep ile tecil imkanı değerlendirilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "kdv-nedir",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

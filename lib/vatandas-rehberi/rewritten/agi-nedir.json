@@ -1,0 +1,113 @@
+{
+  "slug": "agi-nedir",
+  "title": "AGİ — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "AGİ hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "AGİ",
+  "keywords": [
+    "agi",
+    "agi nedir"
+  ],
+  "category": "İş",
+  "related": [
+    "ibraname-nedir",
+    "asgari-ucret-net-brut",
+    "gelir-vergisi-nedir",
+    "sgk-hizmet-dokumu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/ibraname-nedir"
+    },
+    {
+      "label": "GVK",
+      "href": "/kategori/gvk"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    }
+  ],
+  "lead": "Asgari geçim indirimi, çalışanların uzun yıllar maaşlarında gördüğü bir kalemdi. Ancak sistem tamamen değişti ve güncel hesaplamalarda bu ödeme yer almıyor.",
+  "keyInsight": "Bugün hesaplanan net asgari ücretin içinde eski tip ayrı bir AGİ kalemi aranmaz; çünkü uygulama yürürlükten kalkmıştır.",
+  "sections": [
+    {
+      "heading": "Maaş bordrosunda artık neden yok?",
+      "paragraphs": [
+        "Ay başı geldi, maaş yattı. Bordroyu açtınız ve eski dönemlerde hep gördüğünüz o satırı arıyorsunuz ama bulamıyorsunuz. **Uygulama kalktı**, bu yüzden yeni bordrolarda bu kalemi göremezsiniz.",
+        "Devlet, vergi sisteminde yaptığı köklü bir düzenlemeyle tüm çalışanların maaşlarından alınan bazı vergileri sıfırladı. Sistem bu şekilde sadeleştiği için eski ek ödeme yapısı da tarih oldu."
+      ],
+      "bullets": [
+        "Yeni bordrolarda ayrı satır aranmaz",
+        "Vergi muafiyeti tüm çalışanlara uygulanır"
+      ]
+    },
+    {
+      "heading": "Eski dönem alacakları yanar mı?",
+      "paragraphs": [
+        "Geçmiş yıllarda çalıştığınız dönemde ödenmediğini fark ettiğiniz alacaklar bugünün konusundan farklıdır. **Zamanaşımı süresi** içinde işverenden geçmişe dönük haklarınızı talep edebilirsiniz.",
+        "Eski yıla ait bir uyuşmazlık varsa, o dönemin yürürlükteki kuralları geçerli olur. Yeni düzenleme geçmişteki haklarınızı doğrudan silmez."
+      ],
+      "bullets": [
+        "Geçmiş dönem bordroları incelenmelidir",
+        "Hak düşürücü sürelere dikkat edilmelidir"
+      ]
+    },
+    {
+      "heading": "Güncel asgari ücret hesabı nasıl yapılır?",
+      "paragraphs": [
+        "Aklınız eski hesaplama yöntemlerinde kalmış olabilir. Artık brüt ücretten kesilen vergiler üzerinden değil, doğrudan tek bir net rakam üzerinden ödeme yapılır.",
+        "Medeni durum veya çocuk sayısı gibi eski kriterler **güncel vergi dışı bırakma** sistemi içinde otomatik olarak değerlendirilir. Maaşınız hesaplanırken bu unsurlar için ayrıca bir ek ödeme kalemi hesaplanmaz."
+      ],
+      "bullets": [
+        "Tek net rakam uygulanır",
+        "Medeni duruma göre ayrı ek ödeme yapılmaz"
+      ]
+    },
+    {
+      "heading": "İş yerinizle görüşürken nelere dikkat etmelisiniz?",
+      "paragraphs": [
+        "İş yerinizin muhasebe departmanıyla görüşürken tereddüt yaşayabilirsiniz. Kesintilerin yasalara uygun yapılıp yapılmadığını anlamak için temel mantığı kavramak şarttır.",
+        "Eksik yatırıldığını düşündüğünüz eski dönem ödemeleri için **muhasebe birimiyle** yazılı iletişime geçmek en sağlıklı yoldur. Sözlü açıklamalar yerine resmi kayıtlar üzerinden ilerleyin."
+      ],
+      "bullets": [
+        "Muhasebe ile yazılı iletişim kurun",
+        "Kafanıza takılan oranları bordro üzerinden sorgulayın"
+      ]
+    }
+  ],
+  "steps": [
+    "Uygulamanın kalktığını bilin ve güncel maaşınızı bu bilgiyle değerlendirin.",
+    "Eski dönem bordrolarını kontrol ederek geçmişe dönük eksiklik olup olmadığını inceleyin.",
+    "Eksik ödenmiş eski alacaklar için yasal süreci ve zamanaşımı sınırlarını göz önünde bulundurun.",
+    "Güncel asgari ücret hesabına eski tip ek ödemeler eklemeyin.",
+    "Şüpheli durumlarda iş yerinizin muhasebe birimiyle teyit sağlayın."
+  ],
+  "documents": [
+    "eski bordro",
+    "dönem mevzuatı",
+    "SGK hizmet dökümü",
+    "maaş hesap pusulası"
+  ],
+  "faq": [
+    {
+      "q": "Evli ve çocukluyum, maaşıma ek ödeme yansımıyor mu?",
+      "a": "Hayır, eski sistemdeki medeni duruma göre yapılan ayrı ek ödemeler kalktı. Artık tüm çalışanlar için vergi dışı bırakılan standart bir net ücret uygulanıyor."
+    },
+    {
+      "q": "Geçmiş yıllara ait ödenmeyen alacaklarımı isteyebilir miyim?",
+      "a": "Evet, geçmiş dönemde eksik ödenen haklarınız için zamanaşımı süresi içinde iş yerinize başvurabilir veya hukuki yolları deneyebilirsiniz."
+    },
+    {
+      "q": "Bordromda bu kalemi neden bulamıyorum?",
+      "a": "Vergi mevzuatındaki değişiklik nedeniyle bu ödeme türü yürürlükten kaldırıldı ve bordro formatları sadeleştirildi."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "ibraname-nedir",
+  "angle": "AGİ",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

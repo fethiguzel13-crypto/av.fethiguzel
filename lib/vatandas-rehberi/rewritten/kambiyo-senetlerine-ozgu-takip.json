@@ -1,0 +1,113 @@
+{
+  "slug": "kambiyo-senetlerine-ozgu-takip",
+  "title": "Kambiyo Senetlerine Özgü İcra | Vatandaş Rehberi",
+  "description": "Kambiyo senetlerinde icra nasıl başlar? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı.…",
+  "h1": "Kambiyo senetlerinde icra nasıl başlar?",
+  "keywords": [
+    "kambiyo senetleri icra",
+    "kambiyo takibi"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "senet-icra-takibi",
+    "cek-karsiliksiz",
+    "odeme-emrine-itiraz"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Kıymetli evrak",
+      "href": "/kategori/kiymetli-evrak"
+    }
+  ],
+  "lead": "Elinde çek, poliçe veya emre muharrer senet olan alacaklı, alacağı rehinle güvence altında olsa dahi doğrudan kambiyo senetlerine mahsus haciz yoluna başvurabilir. Asıl önemli nokta, takip talebine senedin aslının ve borçlu sayısı kadar onaylı örneğinin eksiksiz eklenmesidir.",
+  "keyInsight": "Kambiyo senedi takibini normal takiplerden ayıran en keskin kural, takip talebinde senedin aslı ile borçlu adedince tasdikli örneğinin sunulması zorunluluğudur.",
+  "sections": [
+    {
+      "heading": "Alacağınız hangi senetlere dayanmalı?",
+      "paragraphs": [
+        "Elimde vadesi gelen bir senet var, ne yapmalıyım diyorsanız, ilk olarak elinizdeki belgenin hukuken kambiyo senedi vasfı taşıyıp taşımadığına bakmalısınız. Çek, poliçe veya emre muharrer senet niteliğindeki bu belgeler, alacaklıya hızlı bir takip yolu açar.",
+        "Alacağınız başka bir güvenceyle, örneğin rehinle temin edilmiş olsa bile bu özel takip usulünü seçmenizin önünde bir engel yoktur. Borçlu iflasa tabi kişilerden biri ise haciz yolunun yanı sıra iflas yolu da tercih edilebilir."
+      ],
+      "bullets": [
+        "Çek, poliçe ve emre muharrer senetler bu yola uygundur.",
+        "Rehinli alacaklar için de bu özel takip usulü kullanılabilir."
+      ]
+    },
+    {
+      "heading": "Takip talebinde nelere dikkat etmeli?",
+      "paragraphs": [
+        "Masaya oturdunuz ve icra dairesine başvuracaksınız. Alacaklı sıfatıyla hazırlayacağınız takip talebinde, standart bilgilerin ötesinde çok kritik bir tercihi açıkça belirtmeniz gerekir.",
+        "Borçlunuz iflasa tabi şahıslardan biri ise, haciz veya iflas yollarından hangisini talep ettiğinizi dilekçede mutlaka **açıkça bildirmek** zorundasınız."
+      ],
+      "bullets": [
+        "İflasa tabi borçlular için haciz veya iflas tercihi yazılmalıdır.",
+        "Takip talebi eksiksiz doldurulmalıdır."
+      ]
+    },
+    {
+      "heading": "Dosyaya hangi belgeler konulmalı?",
+      "paragraphs": [
+        "İcra dairesine gittiğinizde memurun ilk arayacağı şey kâğıt üzerindeki asıl evraktır. Fotokopi ile işlem yapılması bu özel takip yolunda mümkün değildir.",
+        "Takip talebinize mutlaka **kambiyo senedinin aslını** eklemelisiniz. Ayrıca dosyadaki borçlu sayısı kadar tasdikli örneği de beraberinde sunmak mecburidir."
+      ],
+      "bullets": [
+        "Senet aslı dosyaya sunulmalıdır.",
+        "Borçlu adedince onaylı örnek hazırlanmalıdır."
+      ]
+    },
+    {
+      "heading": "Karşılıksız çıkan çeklerde süreç nasıl işler?",
+      "paragraphs": [
+        "Elinizde karşılıksız çıkan bir çek varsa, bankaya ibraz süresi içinde işlem yapılması ve bu durumun belgelenmesi kritik önem taşır. Kanuni ibraz süresinde bankaya sunulan çek için \"karşılıksızdır\" işlemi yapılmalıdır.",
+        "Banka, süresinde ibraz edilen çekler için kanunen belirli ödeme yükümlülüklerini yerine getirir. Ödenmeyen kısım için gerekli yasal adımlar atılarak şikayet ve takip süreçleri başlatılabilir."
+      ],
+      "bullets": [
+        "Çek yasal süresinde bankaya ibraz edilmelidir.",
+        "Bankadan karşılıksızdır şerhi alınmalıdır."
+      ]
+    }
+  ],
+  "steps": [
+    "Elindeki senedin çek, poliçe veya emre muharrer senet olup olmadığını kontrol et.",
+    "Alacak rehinli olsa bile kambiyo senetlerine mahsus haciz yolu tercihini belirle.",
+    "Takip talebine borçlu iflasa tabi ise istenen takip yolunu yaz.",
+    "Kambiyo senedinin aslını ve borçlu sayısı kadar tasdikli örneğini hazırla.",
+    "Tüm evrakı ilgili icra dairesine sunarak takibi başlat."
+  ],
+  "documents": [
+    "Kambiyo senedinin aslı",
+    "Borçlu adedince senedin tasdikli örneği",
+    "Takip talebi",
+    "Karşılıksızdır işlem raporu"
+  ],
+  "faq": [
+    {
+      "q": "Her senetle bu yoldan takip yapabilir miyim?",
+      "a": "Sadece çek, poliçe ve emre muharrer senet niteliğini taşıyan belgelerle bu özel takip yoluna başvurabilirsiniz."
+    },
+    {
+      "q": "Senedin aslını kaybettim, fotokopiyle takip açılır mı?",
+      "a": "Hayır, kanun açıkça senedin aslının eklenmesini şart koştugundan fotokopi ile bu yoldan takip başlatılamaz."
+    },
+    {
+      "q": "Alacağım rehinle güvencedeyse bu yolu kullanabilir miyim?",
+      "a": "Evet, alacağınız rehinle temin edilmiş olsa bile kambiyo senetlerine mahsus haciz yoluyla takip yapabilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Kambiyo özel takip",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "kusur-orani-trafik",
+  "title": "Trafik kusur oranı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Trafik kusur oranı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
+  "h1": "Trafik kusur oranı",
+  "keywords": [
+    "trafik kusur oranı",
+    "kusur orani trafik"
+  ],
+  "category": "Trafik",
+  "related": [
+    "trafik-kazasi-tazminati",
+    "kaza-tespit-tutanagi",
+    "sigorta-tazminat-reddi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/trafik-kazasi-tazminati"
+    },
+    {
+      "label": "KTK",
+      "href": "/kategori/ktk"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    }
+  ],
+  "lead": "Trafik kazası yaptınız ve ortalık karıştı; kimin ne kadar suçlu olduğu, hasarın kimden ödeneceğini belirler. Asıl mesele, kanunun asli kusur saydığı kural ihlallerini bilmektir.",
+  "keyInsight": "Arkadan çarpmak veya kırmızı ışıkta geçmek gibi net kuralları çiğnemek doğrudan asli kusur yazdırır.",
+  "sections": [
+    {
+      "heading": "Kırmızı ışık ve şerit ihlali ne anlama gelir?",
+      "paragraphs": [
+        "Seyir halindeyken bir kavşakta durmadınız veya yasak bir yöne girdiniz. Kaza anında bu hareketler doğrudan kusur cetveline işlenir.",
+        "Karayolları Trafik Kanunu açıkça yazar: **kırmızı ışıkta geçmek** veya karşı şeride girmek kazanın ana sebebi sayılır."
+      ],
+      "bullets": [
+        "Kırmızı ışık veya dur işaretine uymamak",
+        "Ters yöne veya yasaklı yola girmek"
+      ]
+    },
+    {
+      "heading": "Arkadan çarpma ve manevra hataları",
+      "paragraphs": [
+        "Önünüzdeki araca arkadan çarptınız. Trafikte bu durumun mazereti oldukça zordur.",
+        "Doğrultu değiştirme manevralarını yanlış yapmak veya **şeride tecavüz etmek** kusur oranını doğrudan sizi haksız çıkaracak şekilde belirler."
+      ],
+      "bullets": [
+        "Arkadan çarpma halleri",
+        "Yanlış manevra ve şerit ihlalleri"
+      ]
+    },
+    {
+      "heading": "Kavşaklarda geçiş önceliği kuralı",
+      "paragraphs": [
+        "Kavşaklara yaklaşıyorsunuz, geçiş hakkının kimde olduğu konusunda anlaşmazlık çıktı ve çarpıştınız.",
+        "Kavşaklarda geçiş önceliğine uymamak ve dar yollarda **geçiş kuralını ihlal etmek** kusur oranını belirleyen temel unsurlardır."
+      ],
+      "bullets": [
+        "Geçiş önceliğine uymamak",
+        "Dar yollarda yol vermemek"
+      ]
+    },
+    {
+      "heading": "Birden fazla kusurlu varsa ne olur?",
+      "paragraphs": [
+        "Kazaya karışan birden fazla sürücü kural çiğnemiş olabilir. Bu durumda kusur oranı yönetmelikteki esaslara göre paylaştırılır.",
+        "Zararın paylaşımında kişilerin kusur oranları **esas alınarak** sorumluluk belirlenir."
+      ],
+      "bullets": [
+        "Birden fazla kusurlu sürücü",
+        "Oransal zarar paylaşımı"
+      ]
+    }
+  ],
+  "steps": [
+    "Kazadan hemen sonra aracınızı güvenli bir yere çekip trafik güvenliğini sağlayın.",
+    "Taraflarla tartışmadan tutanak düzenleyin veya yetkili ekipleri çağırın.",
+    "Olay yerinin ve araçların fotoğraflarını farklı açılardan çekin.",
+    "Kaza tespit tutanağını eksiksiz doldurup imzalayın."
+  ],
+  "documents": [
+    "Kaza tespit tutanağı",
+    "Ehliyet ve ruhsat fotokopileri",
+    "Olay yeri fotoğrafları",
+    "Trafik poliçesi"
+  ],
+  "faq": [
+    {
+      "q": "Arkadan çarpan her zaman suçlu mudur?",
+      "a": "Genel olarak arkadan çarpmak asli kusur sayılır ancak ön araç kurallara aykırı bir manevra yaptıysa durum değişebilir."
+    },
+    {
+      "q": "Kusur oranına nasıl itiraz edilir?",
+      "a": "Sigorta şirketinin belirlediği kusur oranına yasal süreler içinde Sigorta Tahkim Komisyonu veya mahkemeler aracılığıyla itiraz edebilirsiniz."
+    },
+    {
+      "q": "Birden fazla kişi kusurluysa masraf nasıl ödenir?",
+      "a": "Zarar, tarafların kusur oranları dikkate alınarak paylaştırılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "trafik-kazasi-tazminati",
+  "angle": "Trafik kusur oranı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

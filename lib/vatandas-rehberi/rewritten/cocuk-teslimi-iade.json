@@ -1,0 +1,112 @@
+{
+  "slug": "cocuk-teslimi-iade",
+  "title": "Çocuk teslim edilmezse ne olur — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Çocuk teslim edilmezse ne olur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
+  "h1": "Çocuk teslim edilmezse ne olur?",
+  "keywords": [
+    "çocuk teslimi direnme"
+  ],
+  "category": "Aile",
+  "related": [
+    "velayet-davasi",
+    "cocuk-teslimi-icra",
+    "kisisel-iliski-duzenlemesi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/velayet-davasi"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    }
+  ],
+  "lead": "Mahkeme kararına rağmen çocuk teslim edilmezse, süreç adli destek ve mağdur hizmetleri müdürlükleri aracılığıyla yürütülür. Karara uymayanlar hakkında teslim emri çıkarılır ve zor kullanma dahil yasal yollara başvurulur.",
+  "keyInsight": "Çocuğu rızasıyla getirmeyenlere gönderilen teslim emrine uyulmaması halinde disiplin hapsi uygulanır.",
+  "sections": [
+    {
+      "heading": "Çocuk teslim edilmeyince ne yapılır?",
+      "paragraphs": [
+        "Hakkınızda çocuk teslimine dair bir ilam veya tedbir kararı varsa ve bu karar yerine getirilmiyorsa, hak sahibi olarak ilgili müdürlüğe başvurabilirsiniz. Müdürlük öncelikle iletişim kurarak çocuğu belirlenen gün ve saatte getirmenizi ister.",
+        "İrtibat kurulamaz veya çocuk belirlenen yere getirilmezse, **derhâl teslim emri** gönderilir. Bu emirde çocuğun getirilmesi gerektiği, aksi takdirde zor kullanılacağı açıkça belirtilir."
+      ],
+      "bullets": [
+        "Müdürlüğe başvuru yapılır.",
+        "İletişim kurularak teslim günü bildirilir.",
+        "Getirilmezse teslim emri tebliğ edilir."
+      ]
+    },
+    {
+      "heading": "Teslim emrine uyulmazsa ne olur?",
+      "paragraphs": [
+        "Gönderilen teslim emrine rağmen çocuk teslim edilmezse, çocuk nerede bulunursa bulunsun müdürlük tarafından alınarak hak sahibine teslim edilir. Bu aşamada kolluk kuvvetlerinden yardım istenir.",
+        "Kolluk birimleri **zor kullanma dahil** bu konudaki talepleri derhâl yerine getirmekle yükümlüdür. Emrin gereğini yerine getirmeyen yükümlüler disiplin hapsiyle cezalandırılır."
+      ],
+      "bullets": [
+        "Çocuk bulunduğu yerden alınır.",
+        "Kolluk zor kullanabilir.",
+        "Disiplin hapsi uygulanır."
+      ]
+    },
+    {
+      "heading": "Haklı mazeret durumu nedir?",
+      "paragraphs": [
+        "Çocuğu belirlenen yere getirmeye engel haklı bir mazeretiniz varsa, bu durum teslim gününden önce müdürlüğe bildirilmelidir. Böylece çocuğun müdürlükçe bulunduğunuz yerden alınması talep edilebilir.",
+        "Mazeretsiz şekilde **çocuğu getirmemek** veya teslimi engellemek yasal yaptırımları beraberinde getirir. Sürece ve yapılan işlemlere karşı belirlenen yasal süre içinde aile mahkemesine şikayette bulunulabilir."
+      ],
+      "bullets": [
+        "Mazeret önceden bildirilmelidir.",
+        "Müdürlükten çocuk alınması istenebilir."
+      ]
+    },
+    {
+      "heading": "Şikayet ve itiraz yolu nasıldır?",
+      "paragraphs": [
+        "Müdürlükçe yapılan iş ve işlemlere karşı, öğrenme veya tebliğ tarihinden itibaren **bir hafta içinde** işlemin yapıldığı yer aile mahkemesine şikâyette bulunulabilir.",
+        "Mahkeme süreci ve verilen kararlar çocuğun üstün yararı gözetilerek değerlendirilir. İşlemlerin her aşamasında kanuni yetkilere ve kurallara uygun hareket edilmesi esastır."
+      ],
+      "bullets": [
+        "Bir hafta içinde başvuru yapılmalıdır.",
+        "Aile mahkemesine şikayet edilir."
+      ]
+    }
+  ],
+  "steps": [
+    "Müdürlüğe başvurarak teslim kararının uygulanmasını isteyin.",
+    "Müdürlüğün belirlediği gün ve saatte çocuğu teslim yerine getirin.",
+    "Haklı mazeretiniz varsa durumu önceden bildirip çocuğun alınmasını talep edin.",
+    "Teslim emrine uyarak çocuğu eksiksiz şekilde teslim edin."
+  ],
+  "documents": [
+    "Mahkeme ilamı veya tedbir kararı",
+    "Kimlik belgeleri",
+    "Teslim emri tebligatı",
+    "Mazeret bildirim dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Çocuğu kendi rızamla götürmezsem ne olur?",
+      "a": "Müdürlük tarafından teslim emri gönderilir ve uyulmadığı takdirde kolluk yardımıyla çocuk alınarak hak sahibine teslim edilir, ayrıca disiplin hapsi uygulanır."
+    },
+    {
+      "q": "Mazeretimi nereye bildirmeliyim?",
+      "a": "Haklı mazeretinizi teslim gününden önce ilgili müdürlüğe bildirerek çocuğun müdürlükçe alınmasını talep etmelisiniz."
+    },
+    {
+      "q": "İşlemlere karşı nereye başvurabilirim?",
+      "a": "Müdürlük işlemlerine karşı, öğrenme veya tebliğ tarihinden itibaren bir hafta içinde aile mahkemesine şikayette bulunabilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "velayet-davasi",
+  "angle": "Direnme",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "kotu-niyet-tazminati",
+  "title": "Kötü niyet tazminatı nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Kötü niyet tazminatı nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
+  "h1": "Kötü niyet tazminatı nedir?",
+  "keywords": [
+    "kötü niyet tazminatı"
+  ],
+  "category": "İş",
+  "related": [
+    "is-sozlesmesi-feshi",
+    "ise-iade-davasi",
+    "kidem-tazminati-nasil-alinir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/is-sozlesmesi-feshi"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Hesaplama",
+      "href": "/hesaplama"
+    }
+  ],
+  "lead": "Sabah işyerine gittiğinizde masanızın boşaltıldığını veya sebepsiz yere kapı dışarı edildiğinizi görürsünüz. Asıl mesele, işverenin hakkınızı kötü niyetle ve sizi zarara uğratmak için çiğnemesidir.",
+  "keyInsight": "Kötü niyet tazminatının doğması için, işverenin hakkını kötüye kullandığını ve işçinin bu durumdan zarara uğradığını somut şekilde ispatlamanız şarttır.",
+  "sections": [
+    {
+      "heading": "İşten çıkarıldığınızda neye bakmalısınız?",
+      "paragraphs": [
+        "Ofis kapısına vardığınızda anahtarınızın kilide girmediğini fark edersiniz. İşveren hiçbir gerekçe sunmadan ya da bahaneler uydurarak ilişiğinizi keser.",
+        "Bu aşamada **hakkın kötüye kullanılması** durumu, işçinin haklı bir neden olmaksızın işten uzaklaştırılmasıyla kendini gösterir. İşveren gücünü size zarar vermek için kullanır."
+      ],
+      "bullets": [
+        "Gerekçesiz fesih",
+        "Zarar verme kastı"
+      ]
+    },
+    {
+      "heading": "Hangi durumlarda bu hak doğar?",
+      "paragraphs": [
+        "İş ilişkisi sonlandırılırken işverenin asıl amacının sizi cezalandırmak olduğu durumlarda adımlarınızı net atmalısınız. Kanun koyucu bu tür keyfi tutumların cezasız kalmamasını amaçlar.",
+        "İş sözleşmesinin **kötü niyetli** olarak feshedildiğini iddia ediyorsanız, ortada haklı bir sebebin bulunmadığını ve işverenin size zarar verme niyetini ortaya koymalısınız."
+      ],
+      "bullets": [
+        "Keyfi kararlar",
+        "İspat yükü"
+      ]
+    },
+    {
+      "heading": "Süreci nasıl yönetmelisiniz?",
+      "paragraphs": [
+        "Telaş yapmadan elinizdeki evrakı gözden geçirmelisiniz. İşverenin size verdiği fesih bildirimi veya yazılı bir belge var mı, buna dikkat edin.",
+        "Hak arama yolunda **somut deliller** sunmak en büyük güvencenizdir. İş yerindeki tanıklar ve yazışmalar bu süreçte önem kazanır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yanınızda hangi belgeler bulunmalı?",
+      "paragraphs": [
+        "İşten çıkarıldığınızı kanıtlayan her türlü evrak dosyanızda yer almalıdır. Bordrolar, iş sözleşmesi ve yazılı bildirimler ilk sırada gelir.",
+        "İşyerindeki huzursuzluğu veya **haksız fesih** iddialarınızı destekleyecek tanık beyanlarını da hazırlık aşamasında göz önünde bulundurun."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İşverenden feshin yazılı gerekçesini isteyin.",
+    "Elinizdeki tüm iş sözleşmesi ve bordroları toplayın.",
+    "Tanık olabilecek iş arkadaşlarınızla iletişime geçin.",
+    "Hukuki başvuru yolları için hazırlık yapın."
+  ],
+  "documents": [
+    "İş sözleşmesi",
+    "Fesih bildirim yazısı",
+    "Maaş bordroları",
+    "Çalışma belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Kötü niyet tazminatı her işçiye ödenir mi?",
+      "a": "İşverenin hakkını kötüye kullandığı ve feshin keyfi olduğu durumlarda bu talep gündeme gelebilir."
+    },
+    {
+      "q": "İspat yükü kimin üzerindedir?",
+      "a": "İş sözleşmesinin kötü niyetle feshedildiğini iddia eden işçi, bu durumu ve uğradığı zararı kanıtlamakla yükümlüdür."
+    },
+    {
+      "q": "Hangi belgeler süreci hızlandırır?",
+      "a": "Yazılı fesih bildirimi, maaş bordroları ve işyeri içi yazışmalar süreci destekler."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "is-sozlesmesi-feshi",
+  "angle": "Kötü niyet",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

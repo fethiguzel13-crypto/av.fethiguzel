@@ -1,0 +1,112 @@
+{
+  "slug": "ihbar-tazminati-nedir",
+  "title": "İhbar Tazminatı Nedir? Bildirim Süreleri",
+  "description": "İhbar tazminatı nedir? Kıdemden farkı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
+  "h1": "İhbar tazminatı nedir? Kıdemden farkı",
+  "keywords": [
+    "ihbar tazminatı",
+    "ihbar süresi",
+    "bildirim tazminatı"
+  ],
+  "category": "İş",
+  "related": [
+    "kidem-tazminati-nasil-alinir",
+    "is-sozlesmesi-feshi",
+    "arabuluculuk-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kidem-tazminati-nasil-alinir"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Hesaplama",
+      "href": "/hesaplama"
+    }
+  ],
+  "lead": "Sabah işyerine gittiğinizde masanızın boş olduğunu veya sözleşmenizin tek taraflı feshedildiğini görebilirsiniz. İhbar tazminatı, bu ani ayrılığın yarattığı sarsıntıyı dengelemek için ödenen bir güvencedir.",
+  "keyInsight": "İhbar tazminatı sadece işten çıkarma biçimine ve çalışma süresine bağlanır, kıdem tazminatından tamamen farklı bir amaca hizmet eder.",
+  "sections": [
+    {
+      "heading": "İş akdi ani bir kararla bittiğinde ne olur?",
+      "paragraphs": [
+        "Ofisten ayrılırken asıl mesele, tarafların birbirine önceden haber verip vermediğidir. Kanunlar, iş ilişkisini **aniden koparan** tarafın bir bedel ödemesini öngörür. Eğer işveren veya çalışan bu kurala uymazsa, karşı tarafa tazminat ödemek zorunda kalır.",
+        "Bu ödeme bir cezalandırma aracı değildir; işini kaybeden kişinin yeni bir iş bulana kadar geçecek sürede mağduriyetini önlemeyi amaçlar."
+      ],
+      "bullets": [
+        "Önceden haber verme kuralı",
+        "Ani fesihlerin maddi karşılığı"
+      ]
+    },
+    {
+      "heading": "İhbar tazminatı ile kıdem tazminatı neden karıştırılır?",
+      "paragraphs": [
+        "İşçilik alacakları konuşulurken bu iki kavram hep yan yana anılır ancak **mahiyetleri tamamen farklıdır**. Kıdem tazminatı, çalışılan yılların ve emeklerin bir karşılığı olarak, işyerine verilen uzun süreli hizmetin ödülüdür.",
+        "İhbar tazminatı ise yılların değil, **bildirim kuralına uyulmamasının** bedelidir. Kıdem için belirli şartlarla işten ayrılmak gerekirken, ihbar için taraflardan birinin **önelsiz fesih** yapması yeterlidir."
+      ],
+      "bullets": [
+        "Emek karşılığı olan kıdem",
+        "Kural ihlali karşılığı olan ihbar"
+      ]
+    },
+    {
+      "heading": "Hangi durumlarda bu hak ortadan kalkar?",
+      "paragraphs": [
+        "Her işten ayrılışta bu tazminatı almak mümkün değildir. İşveren, kanunda belirtilen haklı bir sebebe dayanarak iş akdini feshederse **ihbar tazminatı ödenmez**.",
+        "Benzer şekilde, işçi haklı bir neden olmaksızın kendi isteğiyle işi bırakıp **bildirim süresine uymazsa**, bu kez işverene tazminat ödemek durumunda kalabilir."
+      ],
+      "bullets": [
+        "Haklı fesih istisnası",
+        "Çalışanın istifa durumu"
+      ]
+    },
+    {
+      "heading": "Hesaplama yapılırken nelere dikkat edilir?",
+      "paragraphs": [
+        "Tazminat tutarı belirlenirken kişinin aldığı son brüt ücret baz alınır. Bu hesaplamada **çalışma süresi** kilit rol oynar çünkü her kıdem kademesi için farklı bir önel süresi öngörülmüştür.",
+        "Ödeme doğrudan brüt maaş üzerinden hesaplanır ve ilgili yasal kesintiler yapıldıktan sonra hak sahibine ulaştırılır."
+      ],
+      "bullets": [
+        "Son brüt ücret esası",
+        "Hizmet süresine göre oran"
+      ]
+    }
+  ],
+  "steps": [
+    "İş sözleşmesinin fesih bildirimini yazılı olarak isteyin",
+    "Çalışma sürenizi ve giydirilmiş brüt ücretinizi kontrol edin",
+    "Ödemenin yapılmaması durumunda arabuluculuk başvurusunda bulunun",
+    "Gerekirse iş mahkemesine dava açın"
+  ],
+  "documents": [
+    "İş sözleşmesi",
+    "Maaş bordroları",
+    "Fesih bildirim yazısı",
+    "Çalışma belgesi"
+  ],
+  "faq": [
+    {
+      "q": "İstifa eden işçi ihbar tazminatı alabilir mi?",
+      "a": "Kendi isteğiyle ve haklı bir neden olmaksızın istifa eden işçi ihbar tazminatı alamaz; aksine bildirim süresine uymadıysa işverene ödemek zorunda kalabilir."
+    },
+    {
+      "q": "İşveren ihbar süresi verdirdiğinde tazminat öder mi?",
+      "a": "İşveren kanuni bildirim süreleri kadar önceden haber verip bu sürede çalıştırırsa ihbar tazminatı ödemez."
+    },
+    {
+      "q": "İhbar tazminatı taksitle ödenebilir mi?",
+      "a": "Normal şartlarda bu tazminatın fesih anında tek seferde ödenmesi gerekir; ancak taraflar anlaşırsa yazılı olmak kaydıyla farklı bir ödeme planı yapılabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kidem-tazminati-nasil-alinir",
+  "angle": "İhbar (bildirim) tazminatı — kıdemden ayrı kalem",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

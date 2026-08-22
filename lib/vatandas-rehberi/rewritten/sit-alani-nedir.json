@@ -1,0 +1,105 @@
+{
+  "slug": "sit-alani-nedir",
+  "title": "Sit alanı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Sit alanı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "Sit alanı",
+  "keywords": [
+    "sit alanı",
+    "sit alani nedir"
+  ],
+  "category": "İmar",
+  "related": [
+    "kentsel-donusum-nedir",
+    "yapı-ruhsati-nedir",
+    "imar-durumu-nedir",
+    "idari-dava-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kentsel-donusum-nedir"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Sit alanı, tarihsel veya doğal değeri nedeniyle devletin özel koruması altına aldığı arazidir. Buradaki mülkünüz üzerinde yapacağınız her türlü işlem, standart imar kurallarından farklı olarak özel kısıtlamalara tabidir.",
+  "keyInsight": "Sit alanındaki bir taşınmazda, mülkiyet hakkınız baki olsa bile, yapılaşma ve tadilat süreçleri için idarenin izni olmadan hiçbir çivi çakamazsınız.",
+  "sections": [
+    {
+      "heading": "Sit alanında mülk sahibi olmak neyi değiştirir?",
+      "paragraphs": [
+        "Elinizde bir tapu olması, o arazi üzerinde dilediğiniz binayı dikme özgürlüğü vermez. Sit alanı, bölgenin kültürel veya doğal mirasını korumak adına devletin denetimine girer.",
+        "Belediyeler ve valilikler, bölgenin mimari dokusunu korumak için dış cephe boyasından çatı malzemesine kadar her detayı belirleme yetkisine sahiptir."
+      ],
+      "bullets": [
+        "Taşınmaz devlet koruması altındadır.",
+        "İzinsiz tadilat yapmak ağır yaptırımlar doğurur.",
+        "Yapı ruhsatı alırken özel izinler gerekebilir."
+      ]
+    },
+    {
+      "heading": "İmar düzenlemeleri sizi nasıl etkiler?",
+      "paragraphs": [
+        "Belediyeler, bölgedeki imar planlarını yeniden düzenlerken sizin arazinizden de 'düzenleme ortaklık payı' kesebilir. Bu pay, bölgenin park, yol veya okul gibi ihtiyaçlarını karşılamak için ayrılır.",
+        "Düzenleme ortaklık payı, arazinizin düzenlemeden önceki yüzölçümünün **yüzde kırk beşini geçemez**. Bu sınır, mülkiyet hakkınızın korunması için yasayla güvence altına alınmıştır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Tadilat yapmak istediğinizde ne yapmalısınız?",
+      "paragraphs": [
+        "Evinizde bir onarım yapacaksanız, önce bu işlemin ruhsata tabi olup olmadığını kontrol etmelisiniz. Basit boya veya badana için izin gerekmezken, binanın taşıyıcı unsurlarını etkileyen her türlü müdahale için belediyeye başvurmanız şarttır.",
+        "Eğer komşunuzun dairesinde yapı güvenliğini ilgilendiren bir sorun varsa ve sizin dairenize girmesi gerekiyorsa, **giriş müsaadesi vermeye mecbur tutulursunuz**. Bu durum, ortak yaşam alanının korunması için kanuni bir zorunluluktur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Taşınmazın değerlemesi ve imar hakkı aktarımı",
+      "paragraphs": [
+        "Sit alanı gibi kısıtlı bölgelerde, imar hakkınızı başka bir parsele aktarmanız mümkün olabilir. Bu süreçte alıcı ve verici parselin değerleri, lisanslı gayrimenkul değerleme kuruluşları tarafından belirlenir.",
+        "İmar hakkı aktarımı yapılırken, inşaat alanı artışı **alıcı parselin yüzde otuzunu geçemez**. Bu işlem, hem sizin hakkınızı korumayı hem de bölgenin yoğunluğunu dengelemeyi amaçlar."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Taşınmazınızın bulunduğu bölgenin sit alanı statüsünü belediyeden sorgulayın.",
+    "Yapmayı planladığınız tadilatın ruhsata tabi olup olmadığını belediyenin imar birimine danışın.",
+    "İmar hakkı aktarımı düşünüyorsanız yetkili değerleme kuruluşlarından rapor alın.",
+    "Belediye meclisinin bölgeyle ilgili güncel kararlarını takip edin.",
+    "Düzenleme ortaklık payı kesintisi yapılacaksa, kesinti oranının yasal sınırı aşıp aşmadığını kontrol edin."
+  ],
+  "documents": [
+    "Güncel tapu kaydı",
+    "Belediyeden alınan imar durumu belgesi",
+    "Yapı kullanma izin belgesi",
+    "Gayrimenkul değerleme raporu"
+  ],
+  "faq": [
+    {
+      "q": "Sit alanındaki evime boya yapabilir miyim?",
+      "a": "Taşıyıcı unsuru etkilemeyen boya, badana veya basit onarımlar için ruhsat gerekmez; ancak belediyenin belirlediği renk ve malzeme kurallarına uymanız gerekir."
+    },
+    {
+      "q": "Belediye arazimden ne kadar pay alabilir?",
+      "a": "Düzenleme ortaklık payı adı altında yapılacak kesintiler, arazinizin düzenlemeden önceki büyüklüğünün **yüzde kırk beşini geçemez**."
+    },
+    {
+      "q": "İmar hakkı aktarımı nedir?",
+      "a": "Kullanılamayan imar haklarınızın, belirlenen kurallar çerçevesinde başka bir parsele devredilerek ekonomik değere dönüştürülmesidir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kentsel-donusum-nedir",
+  "angle": "Sit alanı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

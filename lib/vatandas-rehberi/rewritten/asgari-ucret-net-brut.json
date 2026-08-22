@@ -1,0 +1,111 @@
+{
+  "slug": "asgari-ucret-net-brut",
+  "title": "Asgari ücret net brüt — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Asgari ücret net brüt hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avu…",
+  "h1": "Asgari ücret net brüt",
+  "keywords": [
+    "asgari ücret net brüt",
+    "asgari ucret net brut"
+  ],
+  "category": "İş",
+  "related": [
+    "ibraname-nedir",
+    "sgk-hizmet-dokumu",
+    "fazla-mesai-ucreti",
+    "kidem-tazminati-nasil-alinir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/ibraname-nedir"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    }
+  ],
+  "lead": "İşe başladığınızda elinize geçecek parayı merak ediyorsunuz. Asıl önemli olan, iş sözleşmesinde yazan brüt rakamdan kesintiler çıktıktan sonra kalan net tutardır.",
+  "keyInsight": "Brüt ücret üzerinden yapılan kesintiler ve yapılan ödemelerin zamanında ödenmesi yasal bir zorunluluktur.",
+  "sections": [
+    {
+      "heading": "Brüt ve net arasındaki fark nedir?",
+      "paragraphs": [
+        "İş görüşmesinde veya sözleşmede karşınıza çıkan rakam genellikle brüt ücrettir. Bu rakam üzerinden çeşitli yasal kesintiler yapılır.",
+        "Kesintiler düşüldükten sonra banka hesabınıza yatan miktar ise net ücretinizi oluşturur."
+      ],
+      "bullets": [
+        "Brüt: Kesintiler yapılmamış toplam tutar",
+        "Net: Elinize geçen tutar"
+      ]
+    },
+    {
+      "heading": "Ücretler nasıl ödenmelidir?",
+      "paragraphs": [
+        "Çalıştığınız karşılığında hak ettiğiniz kazançların **özel olarak açılan banka hesabına** yatırılması gereklidir.",
+        "İşverenin bu ödemeleri zamanında ve eksiksiz yapması zorunludur."
+      ],
+      "bullets": [
+        "Ödemeler banka hesabına yatar",
+        "Zamanında ödeme esastır"
+      ]
+    },
+    {
+      "heading": "Kesintiler ve hesap pusulası",
+      "paragraphs": [
+        "İşveren size yapılan ödemelere ilişkin hesap pusulası düzenlemek zorundadır. Ücretinizden herhangi bir kesinti yapıldığında bunun sebebi ve hesabı bildirilmelidir.",
+        "Hak edilen ücretlerin ve o ay yapılan diğer ödemelerin brüt toplamı esas alınarak işlemler yürütülür."
+      ],
+      "bullets": [
+        "Hesap pusulası verilmelidir",
+        "Kesinti sebebi açıklanmalıdır"
+      ]
+    },
+    {
+      "heading": "Haklarınız eksik ödenirse ne olur?",
+      "paragraphs": [
+        "Ücretini süresi içinde kasden ödemeyen veya eksik ödeyen işverenler için **idari para cezası** uygulanır.",
+        "Hak ettiğiniz kazançların takipçisi olmak ve belgeleri saklamak bu aşamada önemlidir."
+      ],
+      "bullets": [
+        "Eksik ödemeye ceza uygulanır",
+        "Haklar yasal koruma altındadır"
+      ]
+    }
+  ],
+  "steps": [
+    "İş sözleşmenizde yazan brüt ve net ücret detaylarını inceleyin.",
+    "Ücretinizin banka hesabınıza yatırıldığını düzenli olarak kontrol edin.",
+    "İşverenden her ay ücrete ilişkin hesap pusulanızı isteyin.",
+    "Kesinti yapılması durumunda sebebini ve hesabını yazılı olarak talep edin."
+  ],
+  "documents": [
+    "İş sözleşmesi",
+    "Banka hesap ekstresi",
+    "Ücret hesap pusulası"
+  ],
+  "faq": [
+    {
+      "q": "Net ücret ile brüt ücret neden farklıdır?",
+      "a": "Brüt ücretten yasal kesintiler yapıldıktan sonra geriye kalan miktar net ücreti oluşturduğu için farklıdır."
+    },
+    {
+      "q": "Ücretim eksik yatarsa nereye yansır?",
+      "a": "İşverenin ücreti eksik veya geç ödemesi durumunda yasal olarak idari para cezası uygulanır."
+    },
+    {
+      "q": "Hesap pusulası almak zorunda mıyım?",
+      "a": "İşverenin ücrete ilişkin hesap pusulası düzenlemesi yasal bir zorunluluktur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "ibraname-nedir",
+  "angle": "Asgari ücret net brüt",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

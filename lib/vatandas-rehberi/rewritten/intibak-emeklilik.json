@@ -1,0 +1,97 @@
+{
+  "slug": "intibak-emeklilik",
+  "title": "Emekli intibak ne demektir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Emekli intibak ne demektir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
+  "h1": "Emekli intibak ne demektir?",
+  "keywords": [
+    "emekli intibak"
+  ],
+  "category": "Sosyal Güvenlik",
+  "related": [
+    "emeklilik-sartlari",
+    "emekli-maasi-hesaplama",
+    "emeklilikte-yasa-takilanlar"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/emeklilik-sartlari"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=intibak"
+    }
+  ],
+  "lead": "Emekli intibakı, emekli maaşlarının hesaplanmasında kullanılan parametrelerin güncellenmesiyle aylıklarda yapılan yeniden düzenlemedir. Temelde, farklı dönemlerde emekli olan kişilerin maaşları arasındaki dengesizliği gidermek amacıyla yapılan bir hesaplama işlemidir.",
+  "keyInsight": "İntibak işlemi, emekli maaşınızın bağlandığı tarihteki güncel mevzuat ve prim gün sayınız üzerinden yeniden değerlendirilmesi sürecidir.",
+  "sections": [
+    {
+      "heading": "İntibak neden yapılır?",
+      "paragraphs": [
+        "Yıllar içinde sosyal güvenlik mevzuatında yapılan değişiklikler, farklı tarihlerde emekli olan kişilerin prim ödeme gün sayıları ve kazançları üzerinden farklı maaşlar almasına neden olmuştur. İntibak, bu farklılıkları gidermek için yapılan bir eşitleme çalışmasıdır.",
+        "Siz emekli olduğunuzda geçerli olan katsayılar ile bugün uygulananlar arasında fark olabilir. Bu düzenleme, sizin prim günlerinize karşılık gelen haklarınızın güncel şartlar altında tekrar hesaplanmasıdır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreç nasıl işler?",
+      "paragraphs": [
+        "Emekli maaşınızın yeniden hesaplanması için genellikle kurumun kendi içindeki verileri güncellemesi beklenir. Eğer bir hata olduğunu düşünüyorsanız yazılı başvuruda bulunma hakkınız saklıdır.",
+        "İntibak işlemi, prim gün sayınız ve emeklilik tarihiniz gibi verileriniz üzerinden Sosyal Güvenlik Kurumu tarafından otomatik olarak yürütülür."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kimler bu haktan yararlanabilir?",
+      "paragraphs": [
+        "İntibak düzenlemeleri genellikle belirli bir dönem aralığında emekli olanları kapsar. Kanun, emeklilik şartlarınızı ve prim günlerinizi esas alarak hak edişlerinizi belirler.",
+        "Özellikle prim gün sayınızın 7200 veya 9000 gün gibi eşiklerde olması, maaş hesaplamanızda farklı oranların uygulanmasına yol açabilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "Başvuru yapmanız gereken durumlarda, emeklilik tahsis numaranız ve prim günlerinizi gösteren hizmet dökümünüzü yanınızda bulundurmanız yeterlidir.",
+        "Kurum kayıtları esas alınacağından, geçmiş dönemlere ait prim ödemelerinizi gösteren belgeler işinizi kolaylaştıracaktır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Sosyal Güvenlik Kurumu üzerinden güncel hizmet dökümünüzü alın.",
+    "Emeklilik tahsis numaranızı kontrol edin.",
+    "Maaşınızda bir hata olduğunu düşünüyorsanız yazılı dilekçe ile kuruma başvurun.",
+    "Kurumun hesaplama sonuçlarını bekleyin."
+  ],
+  "documents": [
+    "Emeklilik tahsis numarası",
+    "Prim gün sayısını gösteren hizmet dökümü",
+    "Yazılı başvuru dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "İntibak için her emekli başvuru yapmalı mı?",
+      "a": "Hayır, düzenlemeler genellikle kanunla belirlenir ve kurum tarafından otomatik olarak uygulanır."
+    },
+    {
+      "q": "Maaşım intibak ile kesin artar mı?",
+      "a": "İntibak, hesaplama yönteminin güncellenmesidir; verilerinizdeki prim gün sayısına göre artış veya mevcut durumun korunması söz konusu olabilir."
+    },
+    {
+      "q": "İntibak başvurusu için bir süre var mı?",
+      "a": "Yasal bir düzenleme çıktığında, kurumun belirttiği takvim içerisinde işlemler yapılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "emeklilik-sartlari",
+  "angle": "İntibak",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

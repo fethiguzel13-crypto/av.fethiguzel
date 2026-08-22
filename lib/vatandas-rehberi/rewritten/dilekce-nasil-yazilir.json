@@ -1,0 +1,112 @@
+{
+  "slug": "dilekce-nasil-yazilir",
+  "title": "Mahkemeye dilekçe nasıl yazılır — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Mahkemeye dilekçe nasıl yazılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
+  "h1": "Mahkemeye dilekçe nasıl yazılır?",
+  "keywords": [
+    "dilekçe nasıl yazılır",
+    "dava dilekçesi"
+  ],
+  "category": "Usul",
+  "related": [
+    "hukuk-davasi-nasil-acilir",
+    "idari-dava-nasil-acilir",
+    "savcilik-suc-duyurusu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/hukuk-davasi-nasil-acilir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Mahkemeye dilekçe yazmak, hak arama yolculuğunuzun ilk ve en kritik adımıdır. Eksik veya yanlış hazırlanan metinler, haklı olsanız bile sürecin başında davanızın tıkanmasına yol açabilir.",
+  "keyInsight": "Dava açarken elinizdeki belgelerin aslını ve davalı sayısından bir fazla örneğini eklemeyi unutmayın; aksi takdirde usul engeline takılırsınız.",
+  "sections": [
+    {
+      "heading": "Dilekçe yazarken nereden başlamalı?",
+      "paragraphs": [
+        "Masanın başına oturdunuz ve ne yazacağınızı düşünüyorsunuz. Asıl mesele, derdinizi net bir şekilde mahkemeye anlatmaktır. Dilekçeniz, davanın açılacağı mahkemenin adı ile başlar ve tarafların kimlik bilgilerini eksiksiz barındırır.",
+        "Olayları karmaşık cümlelerle uzatmak yerine, **sıralı ve anlaşılır** bir öykü kurun. Hangi hakkınızın ihlal edildiğini ve ne talep ettiğinizi en başta netleştirin."
+      ],
+      "bullets": [
+        "Mahkeme adını doğru yazın",
+        "Taraf bilgilerini eksiksiz ekleyin",
+        "Talebinizi netleştirin"
+      ]
+    },
+    {
+      "heading": "Hangi belgeleri eklemek şarttır?",
+      "paragraphs": [
+        "İddianızı sadece sözlerle değil, delillerle desteklemek zorundasınız. Elinizde bulunan belgelerin asıllarını ve **davacı sayısından bir fazla** örneğini dosyaya koymalısınız.",
+        "Eğer uyuşmazlık için önceden arabuluculuğa başvurulmuşsa, anlaşmaya varılamadığına dair son tutanağın aslını veya onaylı örneğini dilekçeye mutlaka eklemelisiniz."
+      ],
+      "bullets": [
+        "Belge asılları ve fotokopileri",
+        "Arabuluculuk son tutanağı"
+      ]
+    },
+    {
+      "heading": "Cevap dilekçesi nasıl verilir?",
+      "paragraphs": [
+        "Size karşı açılmış bir dava varsa, süreci sessizlikle geçiştiremezsiniz. Cevap dilekçenizi, davanın açılmış olduğu mahkemeye süresi içinde vermelisiniz.",
+        "Cevap dilekçesine de davacı sayısı kadar örnek eklemeyi unutmayın. Dilekçe, mahkemeye **havale edildiği tarih** itibarıyla resmiyet kazanır."
+      ],
+      "bullets": [
+        "İlgili mahkemeye başvurun",
+        "Davacı sayısı kadar örnek hazırlayın"
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırırsanız ne olur?",
+      "paragraphs": [
+        "Hukuk yargılamasında süreler hayati önem taşır. Dava dilekçesinin size tebliğinden itibaren iki hafta içinde cevap dilekçesini sunmanız gerekir.",
+        "Eğer bu süre zarfında hazırlanmak imkansızsa, sürenin bitiminden önce **ek süre talebiyle** mahkemeye başvurabilirsiniz. Haklı görülürse bir defaya mahsus ek süre tanınabilir."
+      ],
+      "bullets": [
+        "İki haftalık süreye dikkat edin",
+        "Gerekirse ek süre isteyin"
+      ]
+    }
+  ],
+  "steps": [
+    "Davanın görüleceği yetkili ve görevli mahkemeyi belirleyin.",
+    "Talebinizi ve yaşadığınız olayları sade bir dille kaleme alın.",
+    "Elinizdeki delil ve belgelerin kopyalarını davacı sayısından bir fazla olacak şekilde çoğaltın.",
+    "Zorunlu hallerde arabuluculuk son tutanağını dosyaya ekleyin.",
+    "Dilekçenizi imzalayarak ilgili mahkemeye teslim edin ve havale tarihini kontrol edin."
+  ],
+  "documents": [
+    "Dava veya cevap dilekçesi",
+    "Delil ve belgelerin asılları ile örnekleri",
+    "Arabuluculuk son tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "Dilekçeyi hangi mahkemeye vermeliyim?",
+      "a": "Dilekçenizi davanın açıldığı veya açılacağı yetkili mahkemeye sunmanız gerekmektedir."
+    },
+    {
+      "q": "Cevap dilekçesi verme süresi ne kadardır?",
+      "a": "Cevap dilekçesini verme süresi, dava dilekçesinin size tebliğinden itibaren iki haftadır."
+    },
+    {
+      "q": "Arabuluculuk tutanağını eklemezsem ne olur?",
+      "a": "Mahkeme size bir haftalık kesin süre içeren bir davetiye gönderir; bu sürede sunulmazsa dava usulden reddedilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "hukuk-davasi-nasil-acilir",
+  "angle": "Dilekçe",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

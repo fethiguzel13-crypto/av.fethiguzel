@@ -1,0 +1,111 @@
+{
+  "slug": "ilamli-icra-nedir",
+  "title": "İlamlı İcra Nedir? İlamsızdan Farkı",
+  "description": "İlamlı icra nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
+  "h1": "İlamlı icra nedir?",
+  "keywords": [
+    "ilamlı icra",
+    "ilamsız icra farkı"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "odeme-emrine-itiraz",
+    "haciz-islemleri-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Elinde mahkeme kararı olan alacaklının başvurduğu takip yoludur. İcra dairesi borçluya **icra emri** göndererek borcun ödenmesini ister.",
+  "keyInsight": "Elinde mahkeme kararı bulunan alacaklı, borçluya doğrudan icra emri gönderilmesini sağlar.",
+  "sections": [
+    {
+      "heading": "Mahkeme kararı icraya nasıl taşınır?",
+      "paragraphs": [
+        "Mahkeme kapılarında geçen uzun ayların ardından nihayet haklı bulundunuz. Elinizde mahkemenin verdiği karar var ancak borçlu hâlâ ödeme yapmıyor. İşte bu aşamada ilamlı icra süreci başlar.",
+        "Kararı alan alacaklı icra dairesine başvurur. İcra memuru vakit kaybetmeden borçluya bir icra emri tebliğ eder. Bu belge, mahkemenin kararını yerine getirmesi için borçluya yapılan resmi çağrıdır."
+      ],
+      "bullets": [
+        "Mahkeme kararı icra dairesine verilir.",
+        "İcra memuru borçluya icra emri gönderir."
+      ]
+    },
+    {
+      "heading": "Borçluya ne kadar süre tanınır?",
+      "paragraphs": [
+        "Gönderilen icra emriyle birlikte borçluya borcunu kapatması için belirli bir zaman tanınır. Borcun **yedi gün içinde** ödenmesi ya da istenen teminatın verilmesi gerekir.",
+        "Bu süre zarfında borç ödenmezse veya mahkemeden icranın geri bırakılmasına dair karar getirilmezse cebri icra işlemleri kaçınılmaz olur."
+      ],
+      "bullets": [
+        "Ödeme için yedi günlük süre verilir.",
+        "Teminat verilmesi de bu sürede istenebilir."
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırınca ne olur?",
+      "paragraphs": [
+        "Tanınan süre içinde borç ödenmezse icra memuru haciz yoluyla alacağın tahsili için harekete geçer. Borçlunun mal varlığına bu aşamada el konulabilir.",
+        "Ayrıca borçlunun kanuna göre mal beyanında bulunması zorunludur. Süresinde **mal beyanında** bulunulmazsa ciddi yaptırımlarla karşı karşıya kalınır."
+      ],
+      "bullets": [
+        "Cebri icra ve haciz işlemleri başlar.",
+        "Mal beyanında bulunulması şarttır."
+      ]
+    },
+    {
+      "heading": "İlamsız icradan farkı nedir?",
+      "paragraphs": [
+        "İlamsız icrada ortada mahkeme kararı yoktur; alacaklı doğrudan ödeme emri gönderir ve borçlu itiraz edebilir. İlamlı icrada ise elinizde zaten mahkeme hükmü vardır.",
+        "Mahkeme kararına dayandığı için süreç çok daha hızlı ilerler. Borçlunun itiraz alanı ilamsız takibe kıyasla oldukça kısıtlıdır."
+      ],
+      "bullets": [
+        "İlamlı takibin temelinde mahkeme kararı bulunur.",
+        "İlamsız takipte mahkeme kararı aranmaz."
+      ]
+    }
+  ],
+  "steps": [
+    "Mahkeme kararını elinize alın.",
+    "İcra dairesine giderek takip talebinde bulunun.",
+    "İcra emrinin borçluya tebliğ edilmesini bekleyin.",
+    "Yedi günlük ödeme süresinin dolmasını takip edin.",
+    "Borç ödenmezse haciz işlemlerini başlatın."
+  ],
+  "documents": [
+    "Mahkeme ilamı",
+    "İcra takip talebi",
+    "İcra emri"
+  ],
+  "faq": [
+    {
+      "q": "İlamlı icra başlatmak için mahkeme kararı şart mıdır?",
+      "a": "Evet, ilamlı icra ancak mahkeme kararları ve kanunen ilam sayılan belgelerle yapılabilir."
+    },
+    {
+      "q": "Borçlu ödeme yapmazsa ne olur?",
+      "a": "Yedi günlük süre içinde ödeme yapılmazsa cebri icra yollarına başvurulur ve haciz işlemi uygulanır."
+    },
+    {
+      "q": "Borçlu karara nasıl itiraz edebilir?",
+      "a": "Borçlu, üst mahkemelerden icranın geri bırakılmasına dair karar alarak takibi durdurabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "İlamlı takip",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

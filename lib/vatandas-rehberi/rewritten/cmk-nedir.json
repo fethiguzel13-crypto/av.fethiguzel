@@ -1,0 +1,113 @@
+{
+  "slug": "cmk-nedir",
+  "title": "CMK nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "CMK nedir hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "CMK nedir",
+  "keywords": [
+    "cmk nedir",
+    "cmk nedir"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "kanun-maddesi-nasil-okunur",
+    "ceza-sorusturmasi-sureci",
+    "gozalti-haklari",
+    "tck-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kanun-maddesi-nasil-okunur"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=CMK"
+    }
+  ],
+  "lead": "Ceza Muhakemesi Kanunu, kısaca CMK, suç şüphesiyle başlayan bir soruşturmanın veya davanın nasıl yürütüleceğini belirleyen kurallar bütünüdür. Kapınıza polis geldiğinde ya da karakoldan çağrı kağıdı aldığınızda haklarınızı bu kanun korur.",
+  "keyInsight": "Kolluk kuvvetleri karşısında **susma hakkınızı** kullanmak ve avukat gelmeden ifade vermemek en kritik güvencenizdir.",
+  "sections": [
+    {
+      "heading": "Karakoldan çağrı kağıdı geldiğinde ne olur?",
+      "paragraphs": [
+        "Posta kutunuzda veya e-Devlet bildirimlerinde adliyeden bir evrak görürsünüz. Genellikle ifadeye çağrıldığınız yazar ve bu durum kalbinizi hızlandırır. Telaş yapmayın; çağrı kağıdı doğrudan suçlu olduğunuz anlamına gelmez, sadece ifadenizin alınması gerektiği anlamına gelir.",
+        "Bu aşamada polisin veya savcının karşısına çıkmadan önce dosyanın konusunu öğrenmeye çalışın. **Avukat yardımı** almak için hazırlık yapın."
+      ],
+      "bullets": [
+        "Tebligattaki tarihi dikkate alın",
+        "Gecikmeden bir avukatla görüşün"
+      ]
+    },
+    {
+      "heading": "İfade verirken hangi haklara sahipsiniz?",
+      "paragraphs": [
+        "İfade odasına girdiğinizde size haklarınız okunur. Bunların en önemlisi kendiniz aleyhine beyanda bulunmama yani susma hakkıdır. Suçu üstünüze yıkmaya çalışan ya da kafanızı karıştıran sorulara karşı net bir duruş sergileyebilirsiniz.",
+        "Soruları sakin ve etraflıca dinleyin. **Yanlış anlamaya müsaittir** diye düşündüğünüz ifadelerin tutanağa geçmesine izin vermeyin."
+      ],
+      "bullets": [
+        "Suçu aydınlatacak delilleri sunabilirsiniz",
+        "Tutanak imzalanmadan önce her satırı okuyun"
+      ]
+    },
+    {
+      "heading": "Savcılık ve hakim karşısı nasıl işler?",
+      "paragraphs": [
+        "Karakol aşamasından sonra dosya savcılığa gider. Savcı sizi dinler ve serbest bırakılmasına karar verebilir ya da tutuklama talebiyle hakimliğe sevk edebilir. Hakim karşısına çıktığınızda savunmanızı sade ve net bir dille yapmalısınız.",
+        "Hakim kararını verirken delillere ve kaçma şüphenize bakar. **Sabit ikametgah sahibi** olmak bu aşamada lehinize bir durumdur."
+      ],
+      "bullets": [
+        "Savcıya ve hakime saygılı ama kararlı yaklaşın",
+        "Delillerin toplanmasını talep edin"
+      ]
+    },
+    {
+      "heading": "Süreci takip etmezseniz neyle karşılaşrsınız?",
+      "paragraphs": [
+        "Hakkınızda açılan bir soruşturmayı veya duruşmayı önemsiz görüp gitmezseniz, zorla getirme kararı çıkarılır. Gece yarısı evinizden alınmak gibi nahoş durumlarla karşılaşmamak için tebligatları titizlikle izleyin.",
+        "Adli süreçler sabır ve dikkat ister. **Adres bilgilerinizin** güncel olması bu yüzden hayati önem taşır."
+      ],
+      "bullets": [
+        "e-Devlet üzerinden dava dosyalarınızı düzenli kontrol edin",
+        "Tebligat adresinizin güncelliğinden emin olun"
+      ]
+    }
+  ],
+  "steps": [
+    "Tebligat elinize ulaştığında içeriğini ve suçlamayı inceleyin",
+    "Derhal bir ceza avukatı ile iletişime geçin",
+    "İfade veya duruşma gününde tam zamanında yetkili merciin huzurunda hazır bulunun",
+    "Haklarınızı hatırlatarak sadece gerçeği anlatan net bir savunma yapın",
+    "e-Devlet üzerinden dosya aşamalarını takip edin"
+  ],
+  "documents": [
+    "Tebligat veya çağrı kağıdı",
+    "Kimlik belgesi",
+    "Vekaletname",
+    "Varsa olayı açıklayan delil ve belgeler"
+  ],
+  "faq": [
+    {
+      "q": "Avukat tutmak zorunda mıyım?",
+      "a": "Bazı ağır suçlarda devlet otomatik avukat atar; ancak her aşamada kendi avukatınızla hareket etmek hak kaybını önler."
+    },
+    {
+      "q": "İfademde yanlışlık olduğunu fark edersem ne yaparım?",
+      "a": "Tutanak imzalatılmadan önce okunmalıdır. Hatalı ya da eksik yazılan kısımların düzeltilmesini mutlaka talep edin ve tutanağı imzalamayın."
+    },
+    {
+      "q": "Dosyamın durumunu nereden görebilirim?",
+      "a": "e-Devlet üzerindeki Uylı Vatandaş portalı üzerinden hakkınızda açılan soruşturma ve dava dosyalarını takip edebilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kanun-maddesi-nasil-okunur",
+  "angle": "CMK nedir",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

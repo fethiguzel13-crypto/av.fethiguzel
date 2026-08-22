@@ -1,0 +1,112 @@
+{
+  "slug": "miras-paylasim-sozlesmesi",
+  "title": "Miras nasıl paylaşılır — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Miras nasıl paylaşılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
+  "h1": "Miras nasıl paylaşılır?",
+  "keywords": [
+    "miras paylaşım sözleşmesi",
+    "miras taksimi"
+  ],
+  "category": "Miras",
+  "related": [
+    "veraset-ilami-nasil-alinir",
+    "miras-payi-nasil-hesaplanir",
+    "izale-i-suyu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/veraset-ilami-nasil-alinir"
+    },
+    {
+      "label": "Miras",
+      "href": "/rehber/miras-paylasimi"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/miras"
+    }
+  ],
+  "lead": "Mirasta paylaşım masasına oturduğunuzda, sadece geride kalan mal mülk değil, eşler arasındaki mal rejimi hesapları da masaya gelir. Asıl mesele, herkesin hakkını alırken birbirinin payını zedelememektir.",
+  "keyInsight": "Sağ kalan eşin evdeki hakları ve mal ortaklığındaki payı hesaplanmadan genel miras paylaşımı doğru yapılamaz.",
+  "sections": [
+    {
+      "heading": "Eve ve eşyaya kim sahip çıkacak?",
+      "paragraphs": [
+        "Sabah uyandınız ve hayat arkadaşınızı kaybettiniz. Evde yalnız kaldığınızda aklınıza gelen ilk soru muhtemelen 'Bu evden çıkacak mıyım?' olur. Sağ kalan eş, eski yaşantısını devam ettirebilmesi için birlikte yaşadıkları konut üzerinde **oturma hakkı** veya intifa hakkı tanınmasını isteyebilir.",
+        "Bu hak tanınırken katılma alacağına mahsup edilir, yetmezse bedel eklenir. Sağ kalan eş aynı koşullar altında ev eşyası üzerinde kendisine **mülkiyet hakkı** tanınmasını da isteyebilir."
+      ],
+      "bullets": [
+        "Oturma veya intifa hakkı istenebilir.",
+        "Ev eşyası üzerinde mülkiyet talep edilebilir."
+      ]
+    },
+    {
+      "heading": "Haklı sebeplerle mülkiyet değişebilir mi?",
+      "paragraphs": [
+        "Herkesin durumu aynı değildir. Bazen oturma hakkı yerine doğrudan evin mülkiyetinin verilmesi gerekebilir. Haklı sebeplerin varlığı hâlinde, sağ kalan eşin veya ölen eşin yasal mirasçılarının istemiyle intifa veya oturma hakkı yerine, konut üzerinde **doğrudan mülkiyet hakkı** tanınabilir.",
+        "Ancak burada önemli bir sınır vardır. Mirasbırakanın bir meslek veya sanat icra ettiği ve altsoyundan birinin aynı meslek veya sanatı icra etmesi için gerekli olan bölümlerde bu haklar kullanılamaz."
+      ],
+      "bullets": [
+        "Haklı sebeple mülkiyet verilebilir.",
+        "Mesleki alanlarda bu haklar sınırlıdır."
+      ]
+    },
+    {
+      "heading": "Kişisel mallar ve ortaklık nasıl ayrılır?",
+      "paragraphs": [
+        "Ölüm hâlinde mal ortaklığı sona erer. Eşlerden birinin ölümü veya diğer bir mal rejiminin kabulü sebebiyle mal ortaklığının sona ermesi hâlinde, her eşe veya mirasçılarına **ortaklık mallarının yarısı** verilir.",
+        "Mal rejimi sözleşmesiyle başka bir paylaşma oranı kararlaştırılması mümkündür. Ancak unutmayın ki bu tür anlaşmalar altsoyun saklı paylarını zedeleyemez."
+      ],
+      "bullets": [
+        "Ortaklık mallarının yarısı verilir.",
+        "Saklı paylar korunmak zorundadır."
+      ]
+    },
+    {
+      "heading": "Kişisel malların sınırı nedir?",
+      "paragraphs": [
+        "Her mal ortaklığa dâhil değildir. Kişisel mallar, mal rejimi sözleşmesi, üçüncü kişinin karşılıksız kazandırması veya kanunla belirlenir.",
+        "Eşlerden her birinin sadece kişisel kullanımına ayrılmış olan eşyası ile manevî tazminat alacakları **kanundan dolayı kişisel malıdır**."
+      ],
+      "bullets": [
+        "Kişisel kullanım eşyaları kişisel maldır.",
+        "Manevi tazminatlar bu kapsamdadır."
+      ]
+    }
+  ],
+  "steps": [
+    "Ölen eşe ait mal rejimi türünü tespit edin.",
+    "Sağ kalan eşin konut ve eşya taleplerini belirleyin.",
+    "Kişisel malları ortak mallardan ayırın.",
+    "Ortaklık mallarının yarı oranındaki paylaşımını hesaplayın.",
+    "Altsoyun saklı paylarının ihlal edilmediğini kontrol edin."
+  ],
+  "documents": [
+    "Mal rejimi sözleşmesi",
+    "Tapu kayıtları",
+    "Kişisel eşya listesi",
+    "Manevi tazminat belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "Sağ kalan eş evde oturmaya devam edebilir mi?",
+      "a": "Evet, sağ kalan eş birlikte yaşadıkları konut üzerinde oturma veya intifa hakkı tanınmasını isteyebilir."
+    },
+    {
+      "q": "Ortaklık malları nasıl paylaşılır?",
+      "a": "Mal ortaklığının sona ermesi hâlinde her eşe veya mirasçılarına ortaklık mallarının yarısı verilir."
+    },
+    {
+      "q": "Hangi eşyalar kişisel mal sayılır?",
+      "a": "Sadece kişisel kullanıma ayrılmış eşyalar ve manevi tazminat alacakları kanunen kişisel maldır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "veraset-ilami-nasil-alinir",
+  "angle": "Paylaşım sözleşmesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

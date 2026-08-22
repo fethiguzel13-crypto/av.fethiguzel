@@ -1,0 +1,112 @@
+{
+  "slug": "velayet-degisikligi",
+  "title": "Velayet değişikliği nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Velayet değişikliği nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
+  "h1": "Velayet değişikliği nedir?",
+  "keywords": [
+    "velayet değişikliği",
+    "velayet değiştirme davası"
+  ],
+  "category": "Aile",
+  "related": [
+    "velayet-davasi",
+    "bosanma-davasi-nasil-acilir",
+    "istirak-nafakasi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/velayet-davasi"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Boşanmanın ardından hayat akmaya devam eder ancak çocukla ilgili kurallar tıkandığında velayet değişikliği gündeme gelebilir. Asıl mesele, **çocuğun menfaatinin** zedelenip zedelenmediğidir.",
+  "keyInsight": "Kişisel ilişki veya teslim kurallarına uyulmaması tek başına otomatik olarak velayeti değiştirmez; hakimin öncelikli baktığı kriter çocuğun yararıdır.",
+  "sections": [
+    {
+      "heading": "Hangi durumlarda bu yol açılır?",
+      "paragraphs": [
+        "Boşanma kararı verilirken çocukla kurulan kişisel ilişki düzenlemesi taraflarca göz ardı edilebilir. Eğer velayet kendisine verilmeyen taraf çocukla görüşme günlerine uymazsa ya da velayet sahibi bu ilişiği engellerse süreç başlar.",
+        "Ayrıca anne veya babanın deneyimsizliği, hastalığı, başka bir yerde bulunması gibi sebeplerle görevini yerine getirememesi veya çocuğa yeterli ilgiyi göstermemesi durumunda da **velayetin kaldırılması** veya değiştirilmesi gündeme gelir."
+      ],
+      "bullets": [
+        "Kişisel ilişki kurallarına uymamak",
+        "Çocukla ilgilenmemek ve yükümlülükleri savsaklamak",
+        "Ana veya babanın ağır hastalık ya da benzeri engelleri"
+      ]
+    },
+    {
+      "heading": "Mahkeme hangi uyarıyı yapar?",
+      "paragraphs": [
+        "Mahkeme boşanma aşamasında veya sonrasındaki uyuşmazlıklarda taraflara açık bir ihtar sunar. Kişisel ilişki düzenlemesinin gereklerinin yerine getirilmemesi halinde **velayetin değiştirilebileceği** taraflara bildirilir.",
+        "Bu ihtar yapılmasına rağmen kurallara uyulmamakta ısrar edilmesi, velayetin değiştirilmesi davasında güçlü bir dayanak oluşturur."
+      ],
+      "bullets": [
+        "Kararda yer alan ihtar şartı",
+        "Uyarılara rağmen devam eden ihlaller"
+      ]
+    },
+    {
+      "heading": "Çocuğun üstün yararı nasıl gözetilir?",
+      "paragraphs": [
+        "Hâkim velayet konusunu ele alırken anne ve babanın haklarından ziyade çocuğun sağlığını, eğitimini ve ahlaki gelişimini esas alır. Diğer ebeveynin çocuğun bakım ve giderlerine gücü oranında katılması zorunludur.",
+        "Sosyal ve ekonomik durumların değişmesi halinde gelecekteki giderler için de yeni düzenlemeler talep edilebilir."
+      ],
+      "bullets": [
+        "Sağlık, eğitim ve ahlak bakımından yarar",
+        "Maddi katkı ve bakım giderleri"
+      ]
+    },
+    {
+      "heading": "Süreç nasıl işler ve nereye başvurulur?",
+      "paragraphs": [
+        "Kararların rıza ile yerine getirilmediği hallerde ilgili müdürlüklere başvuru yapılarak işlemler başlatılır. Teslim emirlerine uyulmaması durumunda ilgililer hakkında şikayet yolları açılır.",
+        "Şikayetler sonucunda mahkeme gerekli araştırmayı yapar ve tarafların durumunu değerlendirerek kararını verir."
+      ],
+      "bullets": [
+        "Müdürlükler aracılığıyla başvuru",
+        "Aile mahkemesinde şikayet ve yargılama"
+      ]
+    }
+  ],
+  "steps": [
+    "Çocukla kişisel ilişki veya teslim kararlarının yerine getirilmesi için ilgili müdürlüğe başvurun.",
+    "Karara uyulmaması durumunda süresi içinde aile mahkemesine şikayette bulunun.",
+    "Çocuğun menfaatinin zedelendiğini gösteren somut delilleri ve gerekçeleri hazırlayın.",
+    "Hâkimin yapacağı sosyal inceleme ve değerlendirme sürecini takip edin."
+  ],
+  "documents": [
+    "Boşanma ilamı veya velayet/kişisel ilişki tedbir kararı",
+    "Müdürlük yazışmaları ve tutanakları",
+    "Şikayet dilekçesi",
+    "Çocuğun menfaatini destekleyen delil ve raporlar"
+  ],
+  "faq": [
+    {
+      "q": "Kişisel ilişki gününe uyulmazsa velayet hemen değişir mi?",
+      "a": "Hayır, mahkeme öncelikle ihtar eder ve çocuğun menfaatine aykırı olmamak kaydıyla bu yola başvurabilir."
+    },
+    {
+      "q": "Çocuk teslimi engellenirse ne olur?",
+      "a": "İlgili müdürlükler devreye girer ve teslim emrine uymayanlar hakkında yasal şikayet yolları işletilir."
+    },
+    {
+      "q": "Hâkim karar verirken neyi ön planda tutar?",
+      "a": "Çocuğun özellikle sağlık, eğitim ve ahlak bakımından yararları kesin olarak esas alınır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "velayet-davasi",
+  "angle": "Değişiklik",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

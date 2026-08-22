@@ -1,0 +1,105 @@
+{
+  "slug": "kira-kontrat-e-devlet",
+  "title": "e-Devlet Kira Kontratı Girişi | Vatandaş Rehberi",
+  "description": "Kira sözleşmesi e-Devlete nasıl girilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı…",
+  "h1": "Kira sözleşmesi e-Devlete nasıl girilir?",
+  "keywords": [
+    "e-devlet kira kontratı",
+    "kira sözleşmesi bildirim"
+  ],
+  "category": "Kira",
+  "related": [
+    "kira-artis-orani-nasil-hesaplanir",
+    "kira-sozlesmesi-nasil-yapilir",
+    "gelir-vergisi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kira-artis-orani-nasil-hesaplanir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "VUK",
+      "href": "/kategori/vuk"
+    }
+  ],
+  "lead": "Kira sözleşmenizi e-Devlet kapısı üzerinden sisteme kaydetmek, tarafların haklarını güvence altına alması açısından büyük önem taşır. Süreci doğru adımlarla takip ederek kontratınızı kolayca dijital ortama taşıyabilirsiniz.",
+  "keyInsight": "Kira ilişkisinden doğan uyuşmazlıklarda dava açmadan önce arabulucuya başvurulmuş olması dava şartıdır.",
+  "sections": [
+    {
+      "heading": "Sisteme giriş ve işlem basamakları nasıl başlar?",
+      "paragraphs": [
+        "Bilgisayarınızın başına geçtiniz ve e-Devlet şifrenizle sisteme giriş yaptınız. Asıl mesele, arama çubuğunu kullanarak ilgili **kira sözleşmesi** hizmetine ulaşmaktır.",
+        "İlgili hizmet ekranına geldiğinizde, sistem sizden taraflara ve taşınmaza ait bilgileri eksiksiz girmenizi isteyecektir."
+      ],
+      "bullets": [
+        "e-Devlet şifrenizle sisteme girin",
+        "Kira sözleşmesi hizmetini aratın"
+      ]
+    },
+    {
+      "heading": "Sözleşme detayları nasıl işlenir?",
+      "paragraphs": [
+        "Kira sözleşmenizi girerken **belirli süreli** veya belirsiz süreli olma durumuna dikkat etmelisiniz. Kararlaştırılan sürenin geçmesiyle herhangi bir bildirim olmaksızın sona erecek kira sözleşmesi belirli sürelidir.",
+        "Taraflar arasında yapılan anlaşmanın detayları, kira başlangıç tarihi ve bedeli gibi unsurlar eksiksiz bir şekilde dijital formata aktarılmalıdır."
+      ],
+      "bullets": [
+        "Süre türünü doğru seçin",
+        "Başlangıç tarihini kontrol edin"
+      ]
+    },
+    {
+      "heading": "Onay aşaması neden kritiktir?",
+      "paragraphs": [
+        "Bilgileri sisteme kaydettikten sonra karşı tarafın onay vermesi gerekebilir. Bu adım, sözleşmenin her iki tarafın iradesine uygun şekilde **resmîyet** kazanmasını sağlar.",
+        "Eksik veya hatalı bilgi girilmesi ileride doğabilecek uyuşmazlıklarda hak kaybına yol açabilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Uyuşmazlık durumunda ne yapılır?",
+      "paragraphs": [
+        "Kira ilişkisinden kaynaklanan uyuşmazlıklarda doğrudan mahkemeye koşmak yerine, kanun gereği arabulucuya başvurulması **zorunlu** bir aşamadır.",
+        "Taraflar anlaşamadığı takdirde arabuluculuk faaliyeti sonunda bir son tutanak düzenlenir ve dava sürecinde bu belge kullanılır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "e-Devlet kapısına kimlik numaranız ve şifrenizle giriş yapın.",
+    "Arama çubuğuna kira sözleşmesi bildirim hizmetini yazın.",
+    "Mevcut kontratınızdaki bilgileri ekrana eksiksiz bir şekilde aktarın.",
+    "Taraflara ait bilgileri ve kira bedelini kontrol ederek onay verin.",
+    "İşlemi tamamlayarak belgenin sisteme kaydedildiğini teyit edin."
+  ],
+  "documents": [
+    "Kimlik kartı",
+    "Yazılı kira sözleşmesi",
+    "Arabuluculuk son tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "Kira sözleşmesi belirsiz süreli olursa ne olur?",
+      "a": "Belirsiz süreli kira sözleşmelerinde taraflar yasal fesih dönemlerine ve bildirim sürelerine uyarak sözleşmeyi feshedebilir."
+    },
+    {
+      "q": "Kira uyuşmazlığında doğrudan dava açılabilir mi?",
+      "a": "Kira ilişkisinden kaynaklanan uyuşmazlıklarda dava açılmadan önce arabulucuya başvurulmuş olması dava şartıdır."
+    },
+    {
+      "q": "Arabuluculukta anlaşma sağlanamazsa ne olur?",
+      "a": "Arabuluculuk faaliyeti sonunda anlaşmaya varılamadığına ilişkin son tutanak düzenlenir ve bu belge dava dilekçesine eklenir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kira-artis-orani-nasil-hesaplanir",
+  "angle": "e-Devlet kira bildirimi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

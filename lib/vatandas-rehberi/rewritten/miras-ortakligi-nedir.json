@@ -1,0 +1,112 @@
+{
+  "slug": "miras-ortakligi-nedir",
+  "title": "Miras ortaklığı nasıl yönetilir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Miras ortaklığı nasıl yönetilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
+  "h1": "Miras ortaklığı nasıl yönetilir?",
+  "keywords": [
+    "miras ortaklığı",
+    "elbirliği mülkiyeti miras"
+  ],
+  "category": "Miras",
+  "related": [
+    "veraset-ilami-nasil-alinir",
+    "izale-i-suyu",
+    "miras-payi-nasil-hesaplanir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/veraset-ilami-nasil-alinir"
+    },
+    {
+      "label": "Miras",
+      "href": "/kategori/miras-hukuku"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    }
+  ],
+  "lead": "Evde bir yakınını kaybeden herkesin kapısını çaldığı ilk gerçek, mirasın hemen bölünmediği, tüm mirasçıların **elbirliğiyle** ortak olduğudur. Bu durum, atılacak her adımda herkesin onayını aramak zorunda kalındığı karmaşık bir süreci başlatır.",
+  "keyInsight": "Ortaklıkta mallar üzerinde tek başına tasarruf edemezsiniz; en ufak bir imza için dahi **tüm ortakların** ortak iradesi şarttır.",
+  "sections": [
+    {
+      "heading": "Eve ve eşyaya kim sahip çıkacak?",
+      "paragraphs": [
+        "Bir vefat sonrası geride kalan aile konutu ve ev eşyası ortaklık malları arasında yer alıyorsa, sağ kalan eş hayatın olağan akışı içinde mağdur olmasın diye bir hak tanınmıştır. Sağ kalan eş, kendi payına mahsuben bu konutun veya eşyanın **mülkiyetinin kendisine verilmesini** isteyebilir.",
+        "Ancak her dosyada durum aynı kalmaz; haklı sebeplerin varlığı hâlinde mülkiyet yerine intifa veya oturma hakkı tanınması da mümkündür. Ortaklık ölüm dışı bir sebeple biterse, üstün bir yarar ispat edilerek aynı istemler yine ileri sürülebilir."
+      ],
+      "bullets": [
+        "Konut ve ev eşyası için paya mahsuben mülkiyet istemi mümkündür.",
+        "Haklı sebeplerde intifa veya oturma hakkı tanınabilir."
+      ]
+    },
+    {
+      "heading": "Malların ve borçların hukuki tabanı nedir?",
+      "paragraphs": [
+        "Geride kalan mal varlığı üzerinde herkes pay sahibi gibi görünse de, yasa gereği ortaklar bu malların **elbirliği hâlinde malikidir**. Yani her şey herkesindir ama kimsenin belirli bir oda üzerinde tek başına hak iddia etme lüksü yoktur.",
+        "İşin diğer yüzünde ise borçlar yer alır. Ortaklar, ortaklığın borçlarından **müteselsil olarak sorumludur**, yani alacaklı kapınızı çaldığında borcun tamamını tek bir mirasçıdan isteyebilir."
+      ],
+      "bullets": [
+        "Mallar elbirliği mülkiyetine tabidir.",
+        "Borçlardan müteselsil sorumluluk esastır."
+      ]
+    },
+    {
+      "heading": "Kişisel mallar bu ortaklığın neresinde?",
+      "paragraphs": [
+        "Her taşınır veya taşınmaz ortaklığın içine dâhil olmaz. Ortakların ortaklık dışında bıraktıkları mallar onların **kişisel malı** olarak ayrı durur.",
+        "Ayrıca aksi kararlaştırılmadıkça, ortaklığın devamı sırasında miras yoluyla veya karşılıksız kazanma yoluyla edinilen mallar da kişisel mal sayılır ve ortak havuzdan ayrı tutulur."
+      ],
+      "bullets": [
+        "Ortaklık dışı bırakılanlar kişisel maldır.",
+        "Mirasla gelen karşılıksız kazanımlar da kişisel mülktür."
+      ]
+    },
+    {
+      "heading": "İşletme ve yönetim krizi nasıl çözülür?",
+      "paragraphs": [
+        "Mirasa konu bir işletme varsa ve bunu bir ortak yönetimi üzerine almışsa, sorumluluk başlar. İşletmeyi üstlenen ortak malları gereği gibi işletmez veya yükümlülüklerini yerine getirmezse, diğer ortakların **ortaklığın feshini isteme hakları** doğar.",
+        "Haklı sebeplerle mahkemeye başvurulduğunda, hâkim mirastaki paylaşma kurallarını göz önünde bulundurarak yeni bir denge kurabilir. Şikayetçi ortağın, yönetimi alan kişikle birlikte yönetime katılmasına karar verilebilir."
+      ],
+      "bullets": [
+        "Kötü yönetilen işletmeler için fesih istenebilir.",
+        "Hâkim ortak yönetim kararı alabilir."
+      ]
+    }
+  ],
+  "steps": [
+    "Mirasa konu olan ev, eşya ve borçların tam dökümünü çıkarın.",
+    "Sağ kalan eşin konut ve eşya üzerindeki mülkiyet veya oturma hakkı taleplerini değerlendirin.",
+    "Ortaklık dışı kalan veya kişisel mal niteliğindeki varlıkları ayırın.",
+    "İşletme varsa yönetim biçimini ve yükümlülükleri gözden geçirin.",
+    "Yönetim sorunları veya kötü kullanım varsa haklı sebeplerle yasal yollara başvurun."
+  ],
+  "documents": [
+    "Tapu kayıtları",
+    "Veraset ilamı",
+    "Ortaklık ve işletme belgeleri",
+    "Borç ve alacak dökümleri"
+  ],
+  "faq": [
+    {
+      "q": "Sağ kalan eş ev üzerinde hangi haklara sahiptir?",
+      "a": "Sağ kalan eş, payına mahsuben aile konutu ve ev eşyasının mülkiyetinin kendisine verilmesini isteyebilir; haklı sebeplerde oturma veya intifa hakkı tanınabilir."
+    },
+    {
+      "q": "Borçlardan kim sorumludur?",
+      "a": "Ortaklar, ortaklığın borçlarından müteselsil olarak sorumludur."
+    },
+    {
+      "q": "İşletmeyi yöneten ortak görevini yapmazsa ne olur?",
+      "a": "Haklı sebeplerle ortaklığın feshini isteyebilir veya hâkim kararıyla yönetime ortak olabilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "veraset-ilami-nasil-alinir",
+  "angle": "Elbirliği",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

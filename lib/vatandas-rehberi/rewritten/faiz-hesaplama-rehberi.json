@@ -1,0 +1,118 @@
+{
+  "slug": "faiz-hesaplama-rehberi",
+  "title": "Faiz hesaplama — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Faiz hesaplama hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata da…",
+  "h1": "Faiz hesaplama",
+  "keywords": [
+    "faiz hesaplama",
+    "faiz hesaplama rehberi"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "temerrut-faizi-nedir",
+    "icra-takibi-nedir",
+    "kidem-tazminati-hesaplama"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/temerrut-faizi-nedir"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/faiz"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Borç ilişkilerinde faiz hesaplaması yapılırken ödemelerin nereye sayılacağı, dönemsel makbuzların anlamı ve temerrüt faizinin sınırları kanunla belirlenmiştir. Yanlış bilinen uygulamalar borcun bitmesini zorlaştırabilir.",
+  "keyInsight": "Borçlu, faiz veya giderlerde gecikmemişse yaptığı kısmi ödemeyi doğrudan ana borçtan düşme hakkına sahiptir ve bu kuralın aksine anlaşma yapılamaz.",
+  "sections": [
+    {
+      "heading": "Ödemeyi nereye saydığınız önemlidir",
+      "paragraphs": [
+        "Elinizde bir borç var ve parça parça ödeme yapıyorsunuz. Asıl mesele, bu paranın ana borçtan mı yoksa faizden mi düşüleceğidir.",
+        "Borçlu kişi, faiz veya masrafları ödemede **gecikmemiş ise**, yaptığı kısmi ödemeyi doğrudan ana borçtan düşme hakkına sahiptir. Alacaklı taraf bu kuralın aksine bir sözleşme yapamaz."
+      ],
+      "bullets": [
+        "Gecikme yoksa ödeme ana borca gider",
+        "Aksine sözleşme yapılamaz"
+      ]
+    },
+    {
+      "heading": "Güvenceli borçlarda mahsup kuralı",
+      "paragraphs": [
+        "Borç için rehin veya kefalet gibi güvenceler alınmış olabilir. Bu durumda borçlunun kısmi ödemeyi hangi borç kalemine saydıracağı konusunda bazı sınırlandırmalar devreye girer.",
+        "Alacaklı, alacağın bir kısmı için **rehin veya kefalet** almışsa, borçlu kısmi ödemeyi güvence altına alınan kısma mahsup etme hakkına sahip değildir."
+      ],
+      "bullets": [
+        "Güvenceli kısımlarda mahsup kuralı değişir",
+        "Borçlu dilediği gibi yönlendiremez"
+      ]
+    },
+    {
+      "heading": "Makbuz alırken nelere dikkat etmeli",
+      "paragraphs": [
+        "Dönemsel borçlarda ödeme yapıldığında alınan belgelerin dili büyük önem taşır. Çekince koymadan verilen makbuzlar geçmiş borçları da etkiler.",
+        "Faiz veya kira gibi dönemsel edimlerden biri için, alacaklı tarafından **çekince belirtilmeksizin** makbuz verilmişse, daha önceki döneme ait edimler de ödenmiş sayılır.",
+        "Eğer alacaklı anaparanın tamamı için makbuz vermişse, faizlerin de tamamen alınmış olduğu kabul edilir."
+      ],
+      "bullets": [
+        "Çekincesiz makbuz önceki borçları kapatır",
+        "Anapara makbuzu faizi de kapsar"
+      ]
+    },
+    {
+      "heading": "Sözleşmede faiz oranı nasıl belirlenir",
+      "paragraphs": [
+        "Borç geciktiğinde uygulanacak faiz oranı kafanıza göre belirlenemez. Kanun bu konuda net bir tavan ve oran sistemi öngörmüştür.",
+        "Uygulanacak yıllık temerrüt faizi oranı, sözleşmede kararlaştırılmamışsa, faiz borcunun doğduğu tarihteki **mevzuat hükümlerine** göre belirlenir. Sözleşmeyle belirlenecek oran kanuni oranın yüzde yüz fazlasını aşamaz.",
+        "Eğer sözleşmede akdi faiz oranı kararlaştırılmış ancak temerrüt faizi yazılmamışsa ve akdi oran yasal sınırdan yüksekse, temerrüt için de akdi oran geçerli olur."
+      ],
+      "bullets": [
+        "Temerrüt faizinin tavanı vardır",
+        "Akdi faiz oranı baz alınabilir"
+      ]
+    }
+  ],
+  "steps": [
+    "Borç ödemesi yaparken gecikmede olup olmadığınızı kontrol edin",
+    "Kısmi ödemelerin ana borçtan düşülmesini talep edin",
+    "Ödeme yaparken aldığınız makbuzlarda dönemsel çekince olup olmadığını inceleyin",
+    "Temerrüt faizi hesaplarken sözleşme hükümlerini ve yasal oranları karşılaştırın",
+    "Borç tamamen bittiğinde borç senedinin tarafınıza iade edilmesini isteyin"
+  ],
+  "documents": [
+    "Kısmi ödemeyi gösteren dekontlar",
+    "Dönemsel edim makbuzları",
+    "Borç senedi",
+    "Yazılı borç sözleşmesi"
+  ],
+  "faq": [
+    {
+      "q": "Kısmi ödememi doğrudan ana borçtan düşebilir miyim?",
+      "a": "Faiz veya giderleri ödemede gecikmemişseniz, kısmi ödemenizi doğrudan ana borçtan düşme hakkınız vardır ve bu kuralın aksine sözleşme yapılamaz."
+    },
+    {
+      "q": "Çekincesiz alınan makbuz ne anlama gelir?",
+      "a": "Dönemsel bir borç için çekince konulmadan makbuz verilmişse, önceki dönemlere ait borçların da ödenmiş olduğu kabul edilir."
+    },
+    {
+      "q": "Anapara makbuzu alırsam faizler silinir mi?",
+      "a": "Alacaklı anaparanın tamamı için makbuz vermişse, faizleri de almış olduğu kabul edilir."
+    },
+    {
+      "q": "Temerrüt faizi oranı sınırsız mıdır?",
+      "a": "Hayır, sözleşmeyle kararlaştırılacak yıllık temerrüt faizi oranı, kanuni oranın yüzde yüz fazlasını aşamaz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "temerrut-faizi-nedir",
+  "angle": "Faiz hesaplama",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

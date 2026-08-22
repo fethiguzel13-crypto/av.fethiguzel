@@ -1,0 +1,99 @@
+{
+  "slug": "src-belgesi-nedir",
+  "title": "SRC belgesi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "SRC belgesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "SRC belgesi",
+  "keywords": [
+    "src belgesi",
+    "src belgesi nedir"
+  ],
+  "category": "Trafik",
+  "related": [
+    "ehliyet-alma-sartlari",
+    "plaka-devri-arac-satis",
+    "is-sozlesmesi-feshi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/ehliyet-alma-sartlari"
+    },
+    {
+      "label": "KTK",
+      "href": "/kategori/ktk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=SRC"
+    }
+  ],
+  "lead": "SRC belgesi, ticari araç kullanan sürücülerin mesleki yeterliliklerini kanıtlayan zorunlu bir belgedir. Bu belge olmadan ticari faaliyet yürütmek hem idari yaptırımlara hem de güvenlik risklerine yol açar.",
+  "keyInsight": "Ticari araç kullanırken SRC belgenizin güncel olması, yasal bir zorunluluk olup belgesiz araç sürmek ticari taşımacılık faaliyetinizi doğrudan durdurur.",
+  "sections": [
+    {
+      "heading": "Ticari araç kullanırken neden SRC gerekir?",
+      "paragraphs": [
+        "Direksiyon başına geçtiğinizde aracın hususi mi yoksa ticari mi olduğu hukuki statünüzü belirler. Ticari bir yük veya yolcu taşıyorsanız, sadece ehliyet sahibi olmanız yeterli değildir.",
+        "SRC belgesi, sürücünün mesleki bilgi ve beceriye sahip olduğunu tescil eder. Bu belge olmadan ticari araç kullanmak, denetimlerde **ağır idari para cezalarıyla** karşılaşmanıza neden olur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Belgeyi nasıl alırsınız?",
+      "paragraphs": [
+        "Süreç, Milli Eğitim Bakanlığı tarafından yetkilendirilmiş sürücü kurslarına başvurmanızla başlar. Kurslar, sürücüleri mesleki eğitimden geçirerek sınavlara hazırlar.",
+        "Eğitim süreci tamamlandıktan sonra sınavlarda başarılı olmanız şarttır. **Sınav başarısı** belgenin düzenlenmesi için temel ön koşuldur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hangi durumlarda sorun yaşarsınız?",
+      "paragraphs": [
+        "Denetimlerde SRC belgenizin yanınızda olmaması veya geçerlilik süresinin dolmuş olması, belgesiz araç kullanıyor gibi işlem görmenize yol açar.",
+        "Ticari faaliyetin niteliğine göre uygun SRC sınıfına sahip olmanız gerekir. Yanlış sınıfta belge sahibi olmak da mevzuata aykırı bir durumdur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Denetimlerde nelere dikkat etmeli?",
+      "paragraphs": [
+        "Trafik ekipleri durdurduğunda ehliyetinizle birlikte SRC belgenizi de ibraz etmeniz istenir. Belgenin dijital ortamda sorgulanabilir olması işinizi kolaylaştırır.",
+        "Belgenizi her zaman ulaşılabilir bir yerde tutun. İdari yaptırımlardan korunmak için belgenizin **güncelliğini düzenli olarak** kontrol etmeniz önemlidir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Yetkili bir mesleki yeterlilik kursuna kayıt yaptırın.",
+    "İlgili eğitim programını eksiksiz tamamlayın.",
+    "Düzenlenen mesleki yeterlilik sınavına girin.",
+    "Sınavda başarılı olup belgenizi sistem üzerinden onaylatın."
+  ],
+  "documents": [
+    "Sürücü belgesi",
+    "Nüfus cüzdanı",
+    "Eğitim tamamlama sertifikası",
+    "Sınav sonuç belgesi"
+  ],
+  "faq": [
+    {
+      "q": "SRC belgesi olmadan ticari araç kullanabilir miyim?",
+      "a": "Hayır, ticari araç kullanmak için SRC belgesi zorunludur; belgesiz kullanım halinde idari para cezası uygulanır."
+    },
+    {
+      "q": "SRC belgesi her araç için aynı mı?",
+      "a": "Hayır, taşıdığınız yükün veya yolcunun niteliğine göre SRC sınıfları farklılık gösterir."
+    },
+    {
+      "q": "Belgemi kaybettiğimde ne yapmalıyım?",
+      "a": "E-devlet üzerinden güncel durumunuzu sorgulayabilir ve ilgili kurumdan belgenin yeniden düzenlenmesini talep edebilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "ehliyet-alma-sartlari",
+  "angle": "SRC belgesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

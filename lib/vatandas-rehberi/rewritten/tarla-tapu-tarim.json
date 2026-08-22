@@ -1,0 +1,122 @@
+{
+  "slug": "tarla-tapu-tarim",
+  "title": "Tarla tapu — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Tarla tapu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "Tarla tapu",
+  "keywords": [
+    "tarla tapu",
+    "tarla tapu tarim"
+  ],
+  "category": "Eşya",
+  "related": [
+    "izale-i-suyu",
+    "hisseli-tapu-riskleri",
+    "tapu-devri-nasil-yapilir",
+    "on-alim-sufa-hakki"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/izale-i-suyu"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    }
+  ],
+  "lead": "Tarlanızla ilgili tapu işlemlerine başladığınızda, mülkiyetin nasıl tescil edildiğini ve sicilde hangi hakların göründüğünü bilmeniz gerekir. Yanlış bir adım atmamak için tapu kütüğündeki sütunların ne anlama geldiğini öğrenmelisiniz.",
+  "keyInsight": "Tapu sicilinde hak sahibi olarak görünenlerin rızası olmadan kayıtlar silinemez veya değiştirilemez.",
+  "sections": [
+    {
+      "heading": "Tapu kütüğünde neler yer alır?",
+      "paragraphs": [
+        "Elinde tapu senedi olan herkes arazisinin sicil kaydını merak eder. Her taşınmaza kütükte ayrı bir sayfa ayrılır ve bu sayfalarda mülkiyet bilgileri tutulur.",
+        "Taşınmaz üzerinde kurulmuş olan irtifak hakları ile rehin hakları bu sayfalardaki özel sütunlara kaydedilir. Eklentiler ise malikin isteği üzerine beyanlar sütununa işlenir."
+      ],
+      "bullets": [
+        "Her taşınmaza ayrı sayfa ayrılır",
+        "Mülkiyet ve rehin hakları tescil edilir",
+        "Eklentiler beyanlar sütununa yazılır"
+      ]
+    },
+    {
+      "heading": "Geçit hakları nasıl doğar?",
+      "paragraphs": [
+        "Tarlanıza ulaşmak için komşu araziden geçmeniz gerektiğinde geçit hakları gündeme gelir. Tarla yolu ve benzeri geçitler özel hükümlere veya yerel âdete göre uygulanır.",
+        "Doğrudan kanundan kaynaklanan **geçit hakları** tapu kütüğüne tescil edilmeksizin kendiliğinden doğar. Ancak sürekli nitelikte olanların **beyanlar sütununda** gösterilmesi gerekir."
+      ],
+      "bullets": [
+        "Tarla yolu özel kanuna tabidir",
+        "Kanuni geçit tescilsiz doğar",
+        "Sürekli olanlar beyanlara yazılır"
+      ]
+    },
+    {
+      "heading": "Tarım arazilerinde değer tespiti nasıl yapılır?",
+      "paragraphs": [
+        "Arazi üzerinde işlem yaparken değerlerin nasıl hesaplandığını bilmek önemlidir. İrat senetlerindeki alacak miktarları belirlenirken arazinin gelir değeri esas alınır.",
+        "Tarım arazisinde arazinin gelir değerinin **beş te üçünü** aşan miktarlarda değerlendirme yapılamaz. Bu **değerlendirmeler** tapu idaresince resmen gerçekleştirilir."
+      ],
+      "bullets": [
+        "Gelir değeri esas alınır",
+        "Beş te üç sınır uygulanır",
+        "Tapu idaresi resmi değerlendirme yapar"
+      ]
+    },
+    {
+      "heading": "Yapı ve ruhsat durumları tapuya nasıl yansır?",
+      "paragraphs": [
+        "Tarlanız veya arsanız üzerindeki yapılar imara aykırı olduğunda idare tarafından işlem yapılır. Ruhsatsız yapılara ilişkin bilgiler tapu kayıtlarının beyanlar hanesine işlenir.",
+        "Aykırılığın giderildiğine dair ilgili idareden bildirim gelmeden **beyanlar hanesindeki** kayıt kaldırılamaz. Yapı kullanma izin belgesi düzenlenen yapıların cins değişikliği işlemleri **resen** yapılır."
+      ],
+      "bullets": [
+        "Ruhsatsız yapı beyanlara işlenir",
+        "Bildirim olmadan kayıt silinmez",
+        "Cins değişikliği resen yapılır"
+      ]
+    }
+  ],
+  "steps": [
+    "Tapu sicil müdürlüğüne başvurarak taşınmazın kütük sayfasını inceleyin.",
+    "Geçit hakkı veya beyanlar sütunundaki şerhleri kontrol edin.",
+    "Yapı kullanma izin belgesi aldıktan sonra cins değişikliği işlemlerini takip edin.",
+    "Tarım arazisi değerlemeleri için tapu idaresinin resmi hesaplamalarını bekleyin.",
+    "Aykırılık durumlarında ilgili idareden gerekli ruhsat ve giderim bildirimini isteyin."
+  ],
+  "documents": [
+    "Tapu senedi",
+    "Yapı kullanma izin belgesi",
+    "Mimari proje",
+    "Yönetim planı",
+    "Tescil bildirimi"
+  ],
+  "faq": [
+    {
+      "q": "Geçit hakları tapuya tescil edilmek zorunda mı?",
+      "a": "Doğrudan kanundan kaynaklanan geçit hakları tescil edilmeksizin doğar, ancak sürekli olanlar beyanlar sütununda gösterilir."
+    },
+    {
+      "q": "Tarım arazilerinde irat senedi sınırı nedir?",
+      "a": "İrat senetlerindeki alacak miktarı tarım arazisinde arazinin gelir değerinin beşte üçünü aşamaz."
+    },
+    {
+      "q": "Beyanlar sütunundaki imara aykırılık kaydı nasıl silinir?",
+      "a": "İlgili idare tarafından aykırılığın giderildiğine dair tapu dairesine yazılı bildirim yapılmadıkça bu kayıt kaldırılamaz."
+    },
+    {
+      "q": "Cins değişikliği işlemini kim yapar?",
+      "a": "Yapı kullanma izin belgesi düzenlenen tüm yapıların cins değişikliği işlemleri ilgili idare ve tapu müdürlüğünce resen yapılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "izale-i-suyu",
+  "angle": "Tarla tapu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

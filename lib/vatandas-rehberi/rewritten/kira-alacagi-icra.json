@@ -1,0 +1,99 @@
+{
+  "slug": "kira-alacagi-icra",
+  "title": "Ödenmeyen kira için icra — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Ödenmeyen kira için icra hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
+  "h1": "Ödenmeyen kira için icra",
+  "keywords": [
+    "kira alacağı icra",
+    "kira icra takibi"
+  ],
+  "category": "Kira",
+  "related": [
+    "icra-takibi-nedir",
+    "kira-odeme-ihtari",
+    "kiraci-nasil-tahliye-edilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    }
+  ],
+  "lead": "Kiracınızın ödemediği kira borcu için icra yoluna başvurmak, alacağınızı tahsil etmek adına atabileceğiniz en somut adımdır. Bu süreçte doğru adımları izlemek, alacağınızın güvence altına alınması için kritik öneme sahiptir.",
+  "keyInsight": "İlamsız icra yoluyla tahliye talepli takipler, arabuluculuk sürecinden muaf tutulan istisnai bir alacak yoludur.",
+  "sections": [
+    {
+      "heading": "Alacağınız için ilk adım",
+      "paragraphs": [
+        "Kiracınız kira bedelini yatırmadığında, doğrudan icra dairesine giderek takip başlatabilirsiniz. Kira sözleşmenizdeki şartlar, alacağınızın temelini oluşturur.",
+        "İcra takibi ile birlikte, kiracının içerideki eşyalarının taşınmasını engelleyecek tedbirleri de değerlendirebilirsiniz. Bu, alacağınızı **güvence altına almak** için başvurabileceğiniz bir yoldur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Arabuluculuk süreci neyi kapsar?",
+      "paragraphs": [
+        "Genel kira uyuşmazlıklarında dava açmadan önce arabulucuya gitmek zorunludur. Ancak ilamsız icra yoluyla tahliye talepli takipler bu zorunluluğun dışındadır.",
+        "Arabuluculukta anlaşırsanız, bu anlaşma belgesi mahkeme kararı niteliğindedir. Belgenin **icra edilebilirliğini** onaylatmak için sulh hukuk mahkemesine başvurmanız gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Güvence bedelinin önemi",
+      "paragraphs": [
+        "Sözleşme başında alınan güvence bedeli, kiracı borcunu ödemediğinde sizin için bir can simididir. Bu bedel, üç aylık kira tutarını aşamaz.",
+        "Kiracı borcunu ödemeyip sözleşme bittiğinde, bankaya yazılı bildirim yaparak bu bedelin size ödenmesini sağlayabilirsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreci yönetirken dikkat",
+      "paragraphs": [
+        "İcra takibi başlattığınızda zamanaşımı süresi kesilir ve takip işlemleri ile yeniden işlemeye başlar. Haklarınızı takip etmek için dosyayı düzenli izlemelisiniz.",
+        "Taşınmazın satışı veya ihalesi söz konusu olursa, kira bedellerinin artık icra dairesine yatırılmasını talep etme hakkınız doğar."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Kira sözleşmenizi ve alacak dökümünüzü hazırlayın.",
+    "Yetkili icra dairesine giderek takip talebinde bulunun.",
+    "İcra müdüründen alacağınız için gerekirse taşınır eşyalar üzerinde alıkoyma kararı isteyin.",
+    "Takip kesinleştiğinde borçlunun malvarlığına yönelik haciz işlemlerini başlatın.",
+    "Tahsilat gerçekleşmezse satış talebinde bulunun."
+  ],
+  "documents": [
+    "Kira sözleşmesi aslı veya onaylı örneği",
+    "Alacak miktarını gösteren hesap dökümü",
+    "İcra takibi için gerekli başvuru formu"
+  ],
+  "faq": [
+    {
+      "q": "Kiracı eşyalarını kaçırırsa ne yapabilirim?",
+      "a": "İcra müdürünün kararıyla alacak miktarını karşılayacak kadar eşyayı alıkoyabilirsiniz; eşyalar zorla götürülmüşse kolluk yardımıyla geri getirtilebilir."
+    },
+    {
+      "q": "Arabulucuya gitmek zorunda mıyım?",
+      "a": "İlamsız icra yoluyla tahliye talepli takiplerde arabuluculuk dava şartı değildir, doğrudan icra dairesine başvurabilirsiniz."
+    },
+    {
+      "q": "Güvence bedelini nasıl alırım?",
+      "a": "Sözleşme bittikten sonra icra takibine giriştiğinizi bankaya yazılı olarak bildirerek güvence bedelinin tarafınıza verilmesini talep edebilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Kira icrası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

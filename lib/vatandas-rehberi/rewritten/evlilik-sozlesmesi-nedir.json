@@ -1,0 +1,112 @@
+{
+  "slug": "evlilik-sozlesmesi-nedir",
+  "title": "Evlilik sözleşmesi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Evlilik sözleşmesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
+  "h1": "Evlilik sözleşmesi",
+  "keywords": [
+    "evlilik sözleşmesi",
+    "evlilik sozlesmesi nedir"
+  ],
+  "category": "Aile",
+  "related": [
+    "mal-rejimi-tasfiyesi",
+    "bosanma-davasi-nasil-acilir",
+    "noter-islemleri"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/mal-rejimi-tasfiyesi"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    },
+    {
+      "label": "Noter",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Nikâh masasına oturduğunuzda hayatınızı sadece duygusal değil, hukuki olarak da birleştirirsiniz. Asıl mesele, evlilik öncesi veya sırasında kurulan bu ortaklığın kurallarını baştan netleştirmektir.",
+  "keyInsight": "Evlilik birliği kurulurken kanunların öngördüğü hısımlık ve önceki evliliğin sona ermiş olması gibi temel şartlara mutlaka uyulmalıdır.",
+  "sections": [
+    {
+      "heading": "Nikâh yolunda ilk adımlar nasıl atılır?",
+      "paragraphs": [
+        "Evlilik yolculuğu genellikle karşılıklı irade ve nişanlanma süreciyle başlar. Bu dönemde tarafların evlenme vaadiyle yola çıkması hukuki bir zemin oluşturur.",
+        "Ancak bu adımın geçerli olması için tarafların yasal ehliyete sahip olması gerekir. Küçücük bir ihmal, büyük hak kayıplarına yol açabilir."
+      ],
+      "bullets": [
+        "Evlenme vaadiyle hareket edilir.",
+        "Yasal temsilcilerin rızası aranır."
+      ]
+    },
+    {
+      "heading": "Hangi durumlarda evlenmek mümkün değildir?",
+      "paragraphs": [
+        "Kanun koyucu toplum düzenini korumak adına bazı kişilerin evlenmesini kesin olarak yasaklamıştır. Kan bağı veya kayın hısımlığı bulunanlar bu engellerin kapsamındadır.",
+        "Üstsoy ile altsoy arasında veya kardeşler arasında evlilik bağı kurulamaz. Bu kurala **kesin hısımlık** engeli denir ve istisnası yoktur."
+      ],
+      "bullets": [
+        "Üstsoy ve altsoy evlenemez.",
+        "Kayın hısımlığı olanlar birleşemez."
+      ]
+    },
+    {
+      "heading": "Önceki evlilik nasıl etkiler?",
+      "paragraphs": [
+        "Yeniden dünya evine girmek istiyorsanız, geçmişteki hukuki bağların tamamen koptuğunu belgelemeniz şarttır.",
+        "Önceki evliliğin bittiği resmî olarak **ispat edilmedikçe** yeni bir evlilik kaydı oluşturulamaz."
+      ],
+      "bullets": [
+        "Eski evlilik sona ermelidir.",
+        "Durum resmî olarak belgelenmelidir."
+      ]
+    },
+    {
+      "heading": "Aile birliği nasıl korunur?",
+      "paragraphs": [
+        "Evlilik kurumu sadece mutluluk üzerine değil, aynı zamanda şiddetten uzak güvenli bir yaşam üzerine kurulur. Kanunlar aile bireylerini korumak için özel tedbirler öngörür.",
+        "Şiddet tehlikesi veya mağduriyeti durumunda devletin sağladığı koruma mekanizmaları devreye girer ve **adil usul** işletilir."
+      ],
+      "bullets": [
+        "Şiddet önleme tedbirleri alınır.",
+        "Temel insan hakları esas alınır."
+      ]
+    }
+  ],
+  "steps": [
+    "Evlenme ehliyetinizi ve yaş şartını kontrol edin.",
+    "Hısımlık engeli olup olmadığını gözden geçirin.",
+    "Önceki evliliğinizin bittiğini resmî evrakla kanıtlayın.",
+    "Nikâh başvusu için gerekli belgeleri hazırlayın.",
+    "Şiddet veya risk durumunda koruma tedbirlerine başvurun."
+  ],
+  "documents": [
+    "Nüfus cüzdanı",
+    "Önceki evliliğin sona erdiğini gösteren belge",
+    "Sağlık raporu",
+    "Fotoğraf"
+  ],
+  "faq": [
+    {
+      "q": "Herkes dilediği kişiyle evlenebilir mi?",
+      "a": "Hayır, kanunda belirtilen hısımlık ve önceki evliliğin devam etmesi gibi engeller evlenmeyi yasaklar."
+    },
+    {
+      "q": "Boşandım, hemen yeniden evlenebilir miyim?",
+      "a": "Önceki evliliğinizin sona erdiğini resmî olarak ispat edebildiğiniz takdirde başvuru yapabilirsiniz."
+    },
+    {
+      "q": "Aile içi şiddete karşı hangi haklar vardır?",
+      "a": "Şiddete uğrayan veya tehlike altındaki bireylerin korunması için kanuni tedbirler ve koruma mekanizmaları mevcuttur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "mal-rejimi-tasfiyesi",
+  "angle": "Evlilik sözleşmesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

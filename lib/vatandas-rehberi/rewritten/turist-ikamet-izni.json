@@ -1,0 +1,111 @@
+{
+  "slug": "turist-ikamet-izni",
+  "title": "Turistik ikamet izni — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Turistik ikamet izni hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
+  "h1": "Turistik ikamet izni",
+  "keywords": [
+    "turistik ikamet izni",
+    "turist ikamet izni"
+  ],
+  "category": "Yabancılar",
+  "related": [
+    "yabanci-ikamet-izni",
+    "oturma-izni-uzatma",
+    "pasaport-basvurusu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/yabanci-ikamet-izni"
+    },
+    {
+      "label": "YUKK",
+      "href": "/kategori/yukk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=ikamet"
+    }
+  ],
+  "lead": "Türkiye'de yasal kalış süresini uzatmak isteyen yabancıların başvurduğu turistik ikamet izni, doğru adımlarla yürütülmesi gereken idari bir süreçtir. Eksik evrak veya süresi dışında yapılan işlemler ciddi idari yaptırımlarla sonuçlanabilir.",
+  "keyInsight": "Yasal sürelere uymamak ve geçerli belge bulundurmamak hem idari para cezalarına yol açar hem de sınır dışı riskini doğurur.",
+  "sections": [
+    {
+      "heading": "Türkiye'ye Giriş ve Yasal Kalışın Temelleri",
+      "paragraphs": [
+        "Türkiye'ye geldiğinizde ilk dikkat etmeniz gereken husus, pasaportunuzun durumu ve sahip olduğunuz vize veya vize muafiyeti süresidir. Bazı ülke vatandaşları uluslararası anlaşmalar veya Cumhurbaşkanı kararları sayesinde vizeden muaf tutulur. Ancak bu muafiyetler sınırsız bir kalış hakkı vermez.",
+        "Ülkeye yasal yollardan girmek ve geçerli bir seyahat belgesine sahip olmak zorunludur. Geçerli seyahat belgesi, yabancı kimlik kartı veya ikamet izni olmayan kişilerin barınması, konaklanması ve seyahat etmesi yasaktır. Bu kurallara uymayanlar veya bu kişilere imkân sağlayanlar hakkında cezai işlemler uygulanır."
+      ],
+      "bullets": [
+        "Geçerli pasaport veya seyahat belgesi şarttır.",
+        "Vize veya muafiyet süresi takip edilmelidir."
+      ]
+    },
+    {
+      "heading": "İkamet İzni Sürecinde Dikkat Edilecekler",
+      "paragraphs": [
+        "İkamet izni başvurusu yaparken veya ülkedeki kalış sürenizi sürdürürken yetkili makamların belirlediği kurallara harfiyen uymalısınız. Kalış amacınıza uygun olarak süreci yönetmek ve belgelerinizi eksiksiz sunmak en kritik aşamadır.",
+        "Süresi içinde Türkiye'den ayrılmayanlar veya ikamet kurallarına aykırı davrananlar hakkında valilik, Genel Müdürlük veya kolluk birimleri tarafından **idari para cezası** uygulanır. Bu tür cezalarla karşılaşmamak için her adımı zamanında atmalısınız."
+      ],
+      "bullets": [
+        "Kalış amacı ile başvuru uyumlu olmalıdır.",
+        "Yetkili birimlerin uyarıları dikkate alınmalıdır."
+      ]
+    },
+    {
+      "heading": "Cezai İşlemler ve Para Cezaları",
+      "paragraphs": [
+        "Yasa dışı yollarla ülkeye girenler, giriş yasağı olmasına rağmen girenler veya tanınan sürede ülkeden ayrılmayanlar kanun gereği para cezasıyla cezalandırılır. Ayrıca bu kabahatlerin bir takvim yılı içinde tekrar edilmesi durumunda **cezalar artırılarak** uygulanır.",
+        "Verilen idari para cezalarının tebliğ tarihinden itibaren ödenmesi gereken bir süre vardır. Bu ödemelerin aksatılması veya yasal yükümlülüklere uyulmaması daha büyük idari tedbirlerin kapısını aralayabilir."
+      ],
+      "bullets": [
+        "Para cezaları tebliğden itibaren ödenmelidir.",
+        "Tekrar eden ihlaller cezayı artırır."
+      ]
+    },
+    {
+      "heading": "Konaklama ve Seyahat Yükümlülükleri",
+      "paragraphs": [
+        "Türkiye içinde seyahat ederken veya bir konaklama yerinde kalırken yanınızda her zaman geçerli kimlik ve izin belgelerinizi taşımalısınız. Belgesiz kişilerin konaklamasına yer sağlayan mülk sahipleri de kanuni sorumluluk altındadır.",
+        "Yetkili makamların yapacağı denetimlerde sorun yaşamamak adına her zaman **geçerli yol izin belgesi** veya ikamet belgesi ibraz edebilecek durumda olmanız gerekmektedir."
+      ],
+      "bullets": [
+        "Konaklama yerlerinde belge ibrazı zorunludur.",
+        "Mülk sahipleri yabancı kiracılar için dikkatli olmalıdır."
+      ]
+    }
+  ],
+  "steps": [
+    "Pasaportunuzun ve vize muafiyet sürenizin geçerliliğini kontrol edin.",
+    "İkamet izni için gerekli başvuru evraklarını eksiksiz şekilde hazırlayın.",
+    "Yetkili makamlara süresi içinde başvuru yapın.",
+    "Tebliğ edilen idari para cezalarını süresi içinde ödeyin."
+  ],
+  "documents": [
+    "Geçerli seyahat belgesi veya pasaport",
+    "Varsa mevcut yabancı kimlik kartı veya ikamet izni",
+    "Geçerli yol izin belgesi",
+    "Kira sözleşmesi veya konaklama belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Vize muafiyet süresi bittiğinde ne olur?",
+      "a": "Tanınan sürede Türkiye'den ayrılmayanlar hakkında idari para cezası uygulanır ve yasal kalış hakkı ihlal edilmiş olur."
+    },
+    {
+      "q": "İdari para cezaları ne zaman ödenmelidir?",
+      "a": "Verilen para cezaları tebliğ tarihinden itibaren otuz gün içinde ödenmelidir."
+    },
+    {
+      "q": "Para cezası tekrarlanırsa ne olur?",
+      "a": "İdari para cezası öngörülen kabahatlerin bir takvim yılı içinde tekrarı hâlinde, para cezaları yarı oranında artırılarak uygulanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "yabanci-ikamet-izni",
+  "angle": "Turistik ikamet izni",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

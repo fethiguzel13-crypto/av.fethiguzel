@@ -1,0 +1,99 @@
+{
+  "slug": "ihtarnama-nasil-cekilir",
+  "title": "İhtarname çekme — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İhtarname çekme hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
+  "h1": "İhtarname çekme",
+  "keywords": [
+    "ihtarname çekme",
+    "ihtarnama nasil cekilir"
+  ],
+  "category": "Usul",
+  "related": [
+    "noter-islemleri",
+    "kira-odeme-ihtari",
+    "tebligat-usulsuzlugu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/noter-islemleri"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "Noter",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Elinizdeki uyuşmazlığı karşı tarafa resmi yoldan bildirmek istiyorsunuz. İhtarname, ileride açabileceğiniz davalarda elinizi güçlendiren en önemli yazılı adımdır.",
+  "keyInsight": "İhtarname hazırlarken kullanılan ifadenin net olması gerekir, aksi takdirde karşı tarafın haklı duruma geçme riski doğar.",
+  "sections": [
+    {
+      "heading": "Neden ihtarname çekersiniz?",
+      "paragraphs": [
+        "Bir borcun ödenmesini, bir sözleşmenin feshedilmesini veya haksız bir durumun son bulmasını istiyorsunuz. Karşı tarafa bunu sözlü olarak söylediğinizde delil elde edemezsiniz.",
+        "İhtarname, talebinizi ve **zamanında** yerine getirilmesi gereken yükümlülükleri resmi olarak kayda geçirir. Böylece ileride atılacak adımlar için sağlam bir zemin kurulur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Metin nasıl yazılır?",
+      "paragraphs": [
+        "Metni kaleme alırken ne istediğinizi net bir şekilde yazmalısınız. Karşı tarafın neyi, ne zaman yapması gerektiğini **açıkça** belirtmek şarttır.",
+        "Duygusal cümlelerden kaçınıp sadece somut olaylara odaklanmalısınız. Hangi hakka dayanarak bu talepte bulunduğunuzu metinde anlaşılır kıldığınızdan emin olun."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Noter süreci nasıl işler?",
+      "paragraphs": [
+        "Hazırladığınız metinle birlikte herhangi bir noterliğe gidersiniz. Noter, belgenin kanuna aykırı bir yönü olup olmadığını kontrol eder.",
+        "İşlemin tamamlanmasıyla birlikte yapılan tebliğ ve posta giderleri dahil olmak üzere **yargılama giderleri** kapsamına girecek masraflar ödenir ve belge karşı tarafa gönderilmek üzere işleme konur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Masraflar ve giderler ne olur?",
+      "paragraphs": [
+        "İhtarname düzenlenmesi ve karşı tarafa ulaştırılması sürecinde belirli masraflar yaparsınız. Bu harcamalar ileride bir dava açılması durumunda yargılama giderleri arasında değerlendirilir.",
+        "Belgenin hazırlanması, tebliğ edilmesi ve posta yoluyla gönderilmesi gibi masrafların tamamı bu kapsamda **dosya maliyetini** oluşturur."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Talebinizi ve karşı tarafın yapması gerekenleri net bir dille kağıda dökün.",
+    "Metni kontrol etmek ve resmiyet kazandırmak için bir noterliğe gidin.",
+    "Noter görevlisinin yönlendirmesiyle gerekli başvuru ve posta masraflarını ödeyin.",
+    "Belgenin karşı tarafa ulaşmasını sağlayacak resmi gönderim işlemini tamamlayın.",
+    "Noterden size verilen nüshayı güvenli bir yerde saklayın."
+  ],
+  "documents": [
+    "Kimlik belgesi",
+    "İhtarname metni",
+    "Varsa dayanak sözleşme veya evrak"
+  ],
+  "faq": [
+    {
+      "q": "İhtarnameyi mutlaka noter aracılığıyla mı göndermeliyim?",
+      "a": "Resmi ve hukuki sonuç doğurması, ayrıca ileride delil olarak sunulabilmesi için noter yoluyla gönderilmesi en güvenli yoldur."
+    },
+    {
+      "q": "İhtarname masrafları geri alınabilir mi?",
+      "a": "İhtarname düzenlenmesi ve tebliği için yapılan masraflar, ileride açılacak davalarda yargılama giderleri kapsamına dahil edilir."
+    },
+    {
+      "q": "İhtarnamede hangi bilgiler yer almalıdır?",
+      "a": "Tarafların bilgileri, talebinizin dayanağı ve karşı taraftan ne istediğiniz net olarak yazılmalıdır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "noter-islemleri",
+  "angle": "İhtarname çekme",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

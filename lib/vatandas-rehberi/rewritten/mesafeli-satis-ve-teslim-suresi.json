@@ -1,0 +1,108 @@
+{
+  "slug": "mesafeli-satis-ve-teslim-suresi",
+  "title": "İnternetten Alışveriş: Teslim Süresi, Ön Bilgilendirme ve Ayıplı Hizmet",
+  "description": "İnternetten aldığım ürün gelmedi ne yaparım, teslim süresi kaç gündür, satıcı beni bilgilendirmek zorunda mı? TKHK m.48 ve m.15 çerçevesinde.",
+  "h1": "İnternetten alışverişte haklarınız",
+  "keywords": [
+    "mesafeli satış",
+    "internetten alışveriş",
+    "teslim süresi 30 gün",
+    "ürün gelmedi",
+    "ayıplı hizmet",
+    "ön bilgilendirme"
+  ],
+  "category": "Tüketici",
+  "related": [
+    "tuketici-hakem-heyeti-basvurusu"
+  ],
+  "links": [
+    {
+      "label": "TKHK m.48 — Mesafeli sözleşmeler",
+      "href": "/mevzuat/tkhk/madde-48"
+    },
+    {
+      "label": "TKHK m.15 — Ayıplı hizmette seçimlik haklar",
+      "href": "/mevzuat/tkhk/madde-15"
+    },
+    {
+      "label": "TKHK m.11 — Ayıplı malda seçimlik haklar",
+      "href": "/mevzuat/tkhk/madde-11"
+    },
+    {
+      "label": "TKHK m.68 — Hakem heyetine başvuru",
+      "href": "/mevzuat/tkhk/madde-68"
+    }
+  ],
+  "lead": "İnternetten alışveriş yaparken satıcı ile yüz yüze gelmezsiniz, bu yüzden haklarınız yasalarla sıkı şekilde korunur. Siparişiniz gelmediğinde veya ürün ayıplı çıktığında ne yapacağınızı bilmek, mağduriyetinizi hızla çözer.",
+  "keyInsight": "Bilgilendirme yapıldığını kanıtlama yükümlülüğü tamamen satıcıya aittir; siz bilgilendirilmediğinizi ispatlamak zorunda değilsiniz.",
+  "sections": [
+    {
+      "heading": "Mesafeli satış nedir?",
+      "paragraphs": [
+        "İnternet sitesi, uygulama veya telefon üzerinden yaptığınız alışverişler mesafeli satış kapsamına girer. Burada belirleyici olan, satıcının bu uzaktan satışlar için özel bir sistem kurmuş olmasıdır.",
+        "Sözleşmenin kurulduğu ana kadar uzaktan iletişim araçlarının kullanılması yeterlidir. Sadece büyük siteler değil, sistemli çalışan her türlü işletme bu kurallara uymak zorundadır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Bilgilendirme ve ispat kimde?",
+      "paragraphs": [
+        "Satıcı, siparişi onaylamadan önce size tüm detayları açıkça bildirmelidir. Ödeme yükümlülüğü altına girdiğinizi anlamanızı sağlamak satıcının görevidir.",
+        "Satıcı, size bu bilgileri verdiğini kanıtlamak zorundadır. Eğer bir sorun çıkarsa, 'bilgilendirme metnini yolladık' demek yetmez; size ulaştığını gösteren kayıtları sunmalıdır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Teslim süresi ve fesih hakkı",
+      "paragraphs": [
+        "Siparişiniz satıcıya ulaştığı andan itibaren süreç başlar. Mal satışlarında teslimat için **otuz günü geçemez** kuralı uygulanır.",
+        "Eğer ürün bu sürede gelmezse, sözleşmeyi feshetme hakkınız doğar. Bu fesih satıcının iznine bağlı değildir; yazılı bildirimde bulunmanız yeterlidir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Ayıplı ürünle karşılaşırsanız",
+      "paragraphs": [
+        "Ürün elinize ulaştı ancak kusurlu çıktıysa, kanun size dört farklı yol sunar. Sözleşmeden dönebilir, indirim isteyebilir, tamir ettirebilir veya değişim talep edebilirsiniz.",
+        "Hizmet alırken sorun yaşarsanız yine benzer seçenekleriniz vardır. Seçim hakkı tamamen size aittir ve tüm masraflar satıcıya aittir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Siparişinizle ilgili tüm onay e-postalarını ve ön bilgilendirme formlarını saklayın.",
+    "Teslimat için taahhüt edilen süreyi ve **otuz günlük** yasal sınırı takip edin.",
+    "Süre aşıldığında veya ürün ayıplıysa, talebinizi yazılı olarak e-posta yoluyla satıcıya iletin.",
+    "Ayıplı durumda seçimlik haklarınızdan hangisini kullandığınızı açıkça belirtin.",
+    "Satıcıdan sonuç alamazsanız, uyuşmazlık tutarına göre tüketici hakem heyetine başvurun."
+  ],
+  "documents": [
+    "Sipariş onay e-postası",
+    "Ön bilgilendirme formu",
+    "Ödeme dekontu",
+    "Satıcı ile yapılan yazışmalar"
+  ],
+  "faq": [
+    {
+      "q": "Ürün otuz gün içinde gelmedi, ne yapmalıyım?",
+      "a": "Sözleşmeyi feshettiğinizi yazılı olarak satıcıya bildirin; bu hak doğrudan size tanınmıştır."
+    },
+    {
+      "q": "Kişiye özel ürünlerde de otuz gün sınırı var mı?",
+      "a": "Hayır, sizin için özel hazırlanan ürünlerde taahhüt edilen süre geçerlidir."
+    },
+    {
+      "q": "Ayıplı malda masrafları kim öder?",
+      "a": "Seçimlik hakların kullanılması nedeniyle ortaya çıkan tüm masraflar **satıcı tarafından karşılanır**."
+    },
+    {
+      "q": "Tazminat talep edebilir miyim?",
+      "a": "Evet, seçimlik haklarınızdan birini kullanırken ayrıca tazminat da isteyebilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.92,
+  "voice": "narrative",
+  "source": "gemini"
+}

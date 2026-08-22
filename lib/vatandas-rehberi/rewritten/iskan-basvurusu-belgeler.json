@@ -1,0 +1,102 @@
+{
+  "slug": "iskan-basvurusu-belgeler",
+  "title": "İskan için hangi belgeler gerekir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İskan için hangi belgeler gerekir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
+  "h1": "İskan için hangi belgeler gerekir?",
+  "keywords": [
+    "iskan belgeleri",
+    "yapı kullanma izni evrak"
+  ],
+  "category": "İmar",
+  "related": [
+    "iskan-belgesi-nedir",
+    "yapı-ruhsati-nedir",
+    "yapı-denetim-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/iskan-belgesi-nedir"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    },
+    {
+      "label": "Belediye",
+      "href": "/kategori/belediye"
+    }
+  ],
+  "lead": "İnşaatı biten yapınızın hukuken oturulabilir hale gelmesi için yapı kullanma izin belgesi, yani iskan almanız gerekir. Bu belge, binanızın ruhsatına ve projelerine uygun inşa edildiğini kanıtlar.",
+  "keyInsight": "Yapının ruhsat eki etüt ve projelere uygun inşa edilip edilmediği, fenni mesullerin denetimi altında belgelenmelidir.",
+  "sections": [
+    {
+      "heading": "İskan süreci nasıl başlar?",
+      "paragraphs": [
+        "Binanızın inşaatı bittiğinde, yapının ruhsat ve eklerine uygunluğu denetlenir. Fenni mesuller, yapının projesine uygunluğunu kontrol ederek süreci yönetir.",
+        "Süreç, ilgili idarenin yapıyı denetlemesi ve projesine uygunluğunu onaylamasıyla ilerler. Eksiksiz bir dosya, ruhsatlı yapının yasal kimliğidir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hangi belgeler hazırlanmalı?",
+      "paragraphs": [
+        "İskan aşamasında en temel belge, projenin uygunluğunu gösteren mimari projedir. Bu proje, yapı kullanma izin belgesi ile birlikte tapu işlemlerinde kullanılır.",
+        "Ayrıca, yapının yönetim tarzını belirleyen yönetim planı da dosyanızda bulunmalıdır. Bu belge, tüm kat maliklerini bağlayan bir sözleşme niteliğindedir."
+      ],
+      "bullets": [
+        "Yetkili kamu kurumunca onaylı mimari proje",
+        "Yapı kullanma izin belgesi",
+        "Kat malikleri tarafından imzalanmış yönetim planı"
+      ]
+    },
+    {
+      "heading": "Fenni mesullerin sorumluluğu nedir?",
+      "paragraphs": [
+        "Fenni mesuller, yapının mevzuata, ruhsata ve projelere uygun inşa edilmesini denetlemekle görevlidir. Denetim sırasında bir aykırılık tespit edilirse, bunu altı iş günü içinde idareye bildirmeleri gerekir.",
+        "Eğer fenni mesul istifa ederse, yeni bir mesul atanana kadar yapının devamına izin verilmez. Bu nedenle, projenizin başından sonuna kadar fenni mesuliyetin takibi hayati önem taşır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Engelsiz erişim şartı",
+      "paragraphs": [
+        "Yapıların fiziksel çevresi engelliler için ulaşılabilir olmalıdır. Bu, kanunen zorunlu bir şarttır.",
+        "İmar planları ve yapılarda, Türk Standartları Enstitüsü'nün ilgili standartlarına **uyulması zorunludur**."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Yapının ruhsat ve projelere uygunluğunu fenni mesuller ile denetletin.",
+    "Mimar tarafından hazırlanan ve onaylanan projeyi temin edin.",
+    "Kat malikleriyle birlikte yönetim planını oluşturup imzalayın.",
+    "Tüm belgeleri birleştirerek ilgili idareye başvurun."
+  ],
+  "documents": [
+    "Onaylı mimari proje",
+    "Yapı kullanma izin belgesi",
+    "Yönetim planı"
+  ],
+  "faq": [
+    {
+      "q": "İskan almazsam ne olur?",
+      "a": "Yapı kullanma izin belgesi olmayan binalarda kat mülkiyetine geçiş yapılamaz, bu durum mülkiyet haklarınızın tam olarak tescil edilmesini engeller."
+    },
+    {
+      "q": "Yönetim planı neden gereklidir?",
+      "a": "Yönetim planı, binanın kullanım şeklini ve yönetici seçimini düzenleyen bir sözleşmedir; tapu işlemlerinde eksiksiz sunulması gerekir."
+    },
+    {
+      "q": "Fenni mesulün rolü nedir?",
+      "a": "Fenni mesul, binanın projeye ve mevzuata uygunluğunu kamu adına denetleyen kişidir; imzasız veya denetimsiz bir yapı iskan aşamasında **ciddi engellerle karşılaşır**."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "iskan-belgesi-nedir",
+  "angle": "Evrak listesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

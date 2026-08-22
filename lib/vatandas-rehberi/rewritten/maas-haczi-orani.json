@@ -1,0 +1,116 @@
+{
+  "slug": "maas-haczi-orani",
+  "title": "Maaştan ne kadar haciz konabilir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Maaştan ne kadar haciz konabilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
+  "h1": "Maaştan ne kadar haciz konabilir?",
+  "keywords": [
+    "maaş haczi oranı",
+    "maaştan haciz ne kadar"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "haciz-islemleri-nasil-yapilir",
+    "haciz-nasil-kaldirilir",
+    "nafaka-odenmezse"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=maa%C5%9F%20haczi"
+    }
+  ],
+  "lead": "Maaşınıza haciz geldiğinde iş yeriniz kesinti yapmak zorundadır. Asıl mesele, bu sürecin iş yeriniz tarafından nasıl yürütüleceği ve bildirimlerin nasıl yapılacağıdır.",
+  "keyInsight": "İş yeriniz, icra dairesinden gelen tebligat üzerine **kesinti miktarını hemen bildirmek** ve borç bitene kadar kesintiyi her ay göndermek zorundadır.",
+  "sections": [
+    {
+      "heading": "İş yerinize tebligat geldiğinde ne olur?",
+      "paragraphs": [
+        "Maaş haczi işlemi, icra dairesinin iş yerinize resmî bir tebligat göndermesiyle başlar. Devlet kurumlarında veya özel sektörde çalışanların maaşlarından kesinti yapılması için tebligat kanuni muhataplara ulaşır.",
+        "İş yerinizin yetkilileri bu tebligatı aldığında **haczin icra edildiğini bildirmek** zorundadır. Borçlunun maaş ve ücret miktarını ilgili mercie iletmek kurumun kanuni yükümlülüğüdür."
+      ],
+      "bullets": [
+        "Tebligatın ulaşmasıyla süreç başlar.",
+        "İş yeri kesintiyi hemen başlatır.",
+        "Durum icra dairesine bildirilir."
+      ]
+    },
+    {
+      "heading": "Bildirim süresi ve kesintinin gönderilmesi",
+      "paragraphs": [
+        "İş yeri yetkilileri, haczin uygulandığını ve maaş miktarını **nihayet bir hafta içinde** bildirmekle yükümlüdür. Bu süre, tebligatın iş yerine ulaşmasından itibaren işlemeye başlar.",
+        "Kesilen tutar, borç tamamen bitinceye kadar icra dairesinin talimatları doğrultusunda bekletilmeksizin daireye gönderilir. İş yeriniz bu parayı kendi kasasında tutamaz."
+      ],
+      "bullets": [
+        "Bildirim için verilen süre sınırlıdır.",
+        "Kesilen tutar düzenli olarak aktarılır.",
+        "Süreç borç bitene kadar devam eder."
+      ]
+    },
+    {
+      "heading": "İş veya maaş değişikliği olursa ne yapılır?",
+      "paragraphs": [
+        "Çalışanın memuriyetinde, maaşında ya da unvanında bir değişiklik meydana gelebilir. Başka bir şubeden maaş alınmasını gerektirecek durumlar da bu kapsamdadır.",
+        "Ayrıca çalışanın iş akdinin sona ermesi durumunda da kurum yetkilileri derhal harekete geçmelidir. Bu tür değişiklikler **hızlıca icra dairesine bildirilmek** zorundadır."
+      ],
+      "bullets": [
+        "Unvan ve şube değişiklikleri bildirilir.",
+        "İşten ayrılma durumu saklanamaz.",
+        "Yeni birim durumdan haberdar edilir."
+      ]
+    },
+    {
+      "heading": "Eksik kalan hacizler nasıl tamamlanır?",
+      "paragraphs": [
+        "Satış tutarı dosyadaki bütün alacakları ödemeye yetmeyebilir. Böyle bir durumda icra memuru kendiliğinden yeni işlemler yaparak haczi tamamlar.",
+        "Yeniden haczedilen mallar, başka bir satış talebine gerek kalmaksızın **mümkün olduğu kadar çabuk** elden çıkarılır. Bu süreçte daha önceden konulmuş olan haklar korunur."
+      ],
+      "bullets": [
+        "Satış tutarı yetmeyebilir.",
+        "Memur kendiliğinden yeni işlem yapar.",
+        "Süreç gecikmeden yürütülür."
+      ]
+    }
+  ],
+  "steps": [
+    "İcra dairesinden gelen tebligatın iş yerinizdeki ilgili birime ulaşmasını sağlayın.",
+    "İş yeri yetkililerinin maaş miktarını ve haczin uygulandığını resmi olarak bildirmesini bekleyin.",
+    "Kesilen tutarların her ay düzenli olarak icra dairesine gönderildiğini takip edin.",
+    "İş veya maaş değişikliği durumunda kurumun ilgili birimine derhal bilgi verin."
+  ],
+  "documents": [
+    "İcra dairesinden gönderilen maaş haczi tebligatı",
+    "Maaş bordrosu ve gelir dökümü",
+    "İş yeri yetkililerinin bildirim yazısı",
+    "Haciz kesintilerini gösteren ödeme dekontları"
+  ],
+  "faq": [
+    {
+      "q": "İş yerim maaş haczini bildirmezse ne olur?",
+      "a": "İş yeri yetkilileri, tebligat ulaştıktan sonra durumu ve maaş miktarını bildirmek ve kesintiyi yapıp göndermek mecburiyetindedir."
+    },
+    {
+      "q": "İşten ayrılırsam maaş haczi ne olur?",
+      "a": "İş akdinizin sona ermesi durumunda, kurum bu durumu derhal icra dairesine bildirmek ve yeni şubeyi veya durumu haberdar etmek zorundadır."
+    },
+    {
+      "q": "Kesintiler ne zamana kadar devam eder?",
+      "a": "İş yeri, borç bitinceye kadar icra dairesinin talimatı doğrultusunda haczolunan miktarı tevkif edip hemen göndermeye devam eder."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Maaş kesinti oranı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

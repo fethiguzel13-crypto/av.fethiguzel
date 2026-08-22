@@ -1,0 +1,113 @@
+{
+  "slug": "tbk-nedir",
+  "title": "TBK nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "TBK nedir hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "TBK nedir",
+  "keywords": [
+    "tbk nedir",
+    "tbk nedir"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "kanun-maddesi-nasil-okunur",
+    "mevzuat-nasil-aranir",
+    "tmk-nedir",
+    "kira-sozlesmesi-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kanun-maddesi-nasil-okunur"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=TBK"
+    }
+  ],
+  "lead": "Türk Borçlar Kanunu, günlük hayatta imzaladığınız sözleşmelerden marketten aldığınız ekmeğe kadar her an karşınıza çıkan ilişkilerin temel kurallarını belirler. Korkmayın, bu karmaşık bir hukuk kitabı değil, aslında iki kişi arasındaki adaleti sağlayan yazılı vicdandır.",
+  "keyInsight": "Sözleşme yapmak kolaydır ancak **verilen sözün arkasında durmak** ve şartları baştan net yazmak ilerideki büyük kavgaları önler.",
+  "sections": [
+    {
+      "heading": "Türk Borçlar Kanunu hayatımızın neresinde durur?",
+      "paragraphs": [
+        "Sabah kahve alırken, ev kiralarken ya da mahalle tamircisine bisikletinizi bırakırken aslında görünmez bir anlaşma imzalarsınız. İşte bu Kanun, taraflardan biri caydığında veya haksızlığa uğradığında hakem rolü üstlenir.",
+        "İmza attığınız her kağıt parçasının arkasında bu kurallar çalışır. **Kimse kimseyi kandıramaz** ya da zayıf anından faydalanamaz kuralı, bu sistemin temelidir."
+      ],
+      "bullets": [
+        "Kira ilişkileri",
+        "Alım satım işleri",
+        "Haksız fiiller"
+      ]
+    },
+    {
+      "heading": "Sözleşme dediğimiz şey nedir?",
+      "paragraphs": [
+        "İki kişinin karşılıklı olarak iradelerini açıklamasıyla sözleşme doğar. Yani evet dediğiniz an borç altına girersiniz.",
+        "Yazılı olması şart olmayan durumlar çoğunluktadır ancak ispat açısından **yazılı belge** her zaman hayat kurtarır."
+      ],
+      "bullets": [
+        "Karşılıklı anlaşma",
+        "İrade beyanı"
+      ]
+    },
+    {
+      "heading": "Haksız bir zarara uğrarsanız ne olur?",
+      "paragraphs": [
+        "Biri size veya malınıza zarar verirse, Borçlar Kanunu bu zararın giderilmesini ister. Amaç zenginleşmek değil, eski hâle dönmektir.",
+        "Zarar gören taraf, **kusurlu olan kişiden** masrafını talep etme hakkına sahiptir."
+      ],
+      "bullets": [
+        "Maddi tazminat",
+        "Manevi tazminat"
+      ]
+    },
+    {
+      "heading": "Borçlar nasıl sona erer?",
+      "paragraphs": [
+        "Borç ödenir ve biter. En temiz yol budur. Ancak bazen taraflar anlaşarak borçtan vazgeçebilir ya da imkansızlıklar araya girebilir.",
+        "Önemli olan borcun **ne zaman ve nasıl** biteceğini önceden bilmektir."
+      ],
+      "bullets": [
+        "İfa (ödeme)",
+        "İbra (vazgeçme)"
+      ]
+    }
+  ],
+  "steps": [
+    "İmzalamadan önce sözleşme metnini dikkatlice okuyun.",
+    "Karşı tarafın yükümlülüklerini net olarak kağıda dökün.",
+    "Uyuşmazlık çıkarsa öncelikle uzlaşma yolunu arayın.",
+    "Çözüm olmazsa bir hukuk profesyonelinden destek alın."
+  ],
+  "documents": [
+    "Varsa yazılı sözleşme metni",
+    "İletişim mesajları ve e-postalar",
+    "Ödeme dekontları ve makbuzlar",
+    "Zararı gösteren fotoğraflar"
+  ],
+  "faq": [
+    {
+      "q": "Türk Borçlar Kanunu mahkemeye gitmeden işe yarar mı?",
+      "a": "Evet, taraflar kanunun kurallarını bilerek kendi aralarında anlaşma sağlayabilir."
+    },
+    {
+      "q": "Sözlü sözleşmeler geçerli midir?",
+      "a": "Birçok işlem için geçerlidir ancak ispat etmek zor olduğu için yazılı yapmak her zaman güvenlidir."
+    },
+    {
+      "q": "Kanun sadece parayla ilgili borçları mı kapsar?",
+      "a": "Hayır, bir hizmetin yapılması veya yapılmaması da borç konusudur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kanun-maddesi-nasil-okunur",
+  "angle": "TBK nedir",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

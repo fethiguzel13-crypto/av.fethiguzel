@@ -1,0 +1,113 @@
+{
+  "slug": "kamu-ihalesi-sikayet",
+  "title": "Kamu ihalesi şikâyet — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Kamu ihalesi şikâyet hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
+  "h1": "Kamu ihalesi şikâyet",
+  "keywords": [
+    "kamu ihalesi şikâyet",
+    "kamu ihalesi sikayet"
+  ],
+  "category": "İdare",
+  "related": [
+    "cimer-sikayet",
+    "idari-dava-nasil-acilir",
+    "iptal-davasi-nedir",
+    "bilgi-edinme-basvurusu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/cimer-sikayet"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=ihale"
+    }
+  ],
+  "lead": "İhale sürecinde bir haksızlığa uğradığınızda veya kuralların ihlal edildiğini gördüğünüzde hakkınızı aramak için belirli adımları izlemeniz gerekir. Telaş yapmadan resmi süreci takip etmek hak kaybını önler.",
+  "keyInsight": "Süreci ve resmi adımları kaçırmamak, başvuru belgelerini eksiksiz sunmak en kritik noktadır.",
+  "sections": [
+    {
+      "heading": "İhale sürecinde ne zaman hak doğar?",
+      "paragraphs": [
+        "İhale masasındasınız veya yapılan bir işlemde hukuka aykırı bir durum sezdiniz. Asıl mesele, idarenin yaptığı işlemlerin kurallara uygun olup olmadığını denetletmektir.",
+        "Belediyeler ve kamu kurumları yapacakları işlerde ve kamulaştırma adımlarında belirli usullere uymak zorundadır. Bu kuralların dışına çıkıldığında hak arama yolları açılır."
+      ],
+      "bullets": [
+        "İdare işlemlerinin hukuka uygunluğu",
+        "Tebligat ve duyuruların takip edilmesi"
+      ]
+    },
+    {
+      "heading": "Belediye ve idare işlemlerinde nelere dikkat etmeli?",
+      "paragraphs": [
+        "Belediyeler imar programları ve kamulaştırma kararları alırken kanuni sınırlara uymakla yükümlüdür. Yapılan hatalı bir işlemde hemşehri hukuku ve ilgili kanun maddeleri size başvuru imkanı tanır.",
+        "İşlemlerin hukuki altyapısını incelemek ve size tebliğ edilen belgeleri dikkatle okumak gerekir."
+      ],
+      "bullets": [
+        "İmar programı kararları",
+        "Kamulaştırma ve bedel tespiti"
+      ]
+    },
+    {
+      "heading": "Mahkeme ve başvuru aşaması nasıl ilerler?",
+      "paragraphs": [
+        "İdare kamulaştırma veya benzeri durumlarda mahkemeye başvurarak bedel tespiti ve tescil ister. Mahkeme size duruşma gününü ve meşruhatlı davetiyeyi resmi yollarla bildirir.",
+        "**Duruşma gününü** kaçırmamak ve süresi içinde gerekli adımları atmak dosyanızın selameti için elzemdir."
+      ],
+      "bullets": [
+        "Asliye hukuk mahkemesi başvuruları",
+        "Meşruhatlı davetiye tebliği"
+      ]
+    },
+    {
+      "heading": "Yanınızda hangi belgeler dursun?",
+      "paragraphs": [
+        "Kuruma veya mahkemeye başvururken elinizdeki evrakın tam olması işinizi hızlandırır. Eksik evrak süreci tık tık eder.",
+        "**Tebligat evrakı** ve tapu bilgileri en önemli dayanağınızdır."
+      ],
+      "bullets": [
+        "Tapu kayıt bilgileri",
+        "İdareye verilen dilekçeler"
+      ]
+    }
+  ],
+  "steps": [
+    "İdare veya belediye tarafından gönderilen tebligatları ve ilanları dikkatle inceleyin.",
+    "Kamulaştırma veya ihale ile ilgili bilgi ve belgeleri bir araya getirin.",
+    "Yetkili mahkeme veya kuruma başvuru dilekçenizi hazırlayın.",
+    "Duruşma veya bildirim günlerini takviminize not ederek takip edin.",
+    "İtiraz ve şikayet haklarınızı yasal süreler içinde kullanın."
+  ],
+  "documents": [
+    "Meşruhatlı davetiye",
+    "Tapu kaydı ve pafta bilgileri",
+    "İdare başvuru dilekçesi",
+    "Tebligat belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Kamulaştırma işlemine karşı nereye başvurulur?",
+      "a": "İlgili idari kararlara karşı idari yargıda iptal davası, bedel ve maddi hatalar için ise adli yargıda gerekli yollar aranabilir."
+    },
+    {
+      "q": "Tebligat elime geçmezse ne olur?",
+      "a": "Adres bulunamaması durumunda ilan yoluyla tebligat yapılır ve ilan tarihine göre süreç işletilir."
+    },
+    {
+      "q": "Boşaltma işlemlerine itiraz durdurur mu?",
+      "a": "İtiraz ve şikayetler boşaltma işlemini durdurmaz, mahkemeden ihtiyati tedbir kararı verilemez."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "cimer-sikayet",
+  "angle": "Kamu ihalesi şikâyet",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

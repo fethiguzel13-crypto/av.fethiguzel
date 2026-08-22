@@ -1,0 +1,110 @@
+{
+  "slug": "savcilik-suc-duyurusu",
+  "title": "Savcılığa Suç Duyurusu Nasıl Yapılır?",
+  "description": "Savcılığa suç duyurusu nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
+  "h1": "Savcılığa suç duyurusu nasıl yapılır?",
+  "keywords": [
+    "suç duyurusu nasıl yapılır",
+    "savcılığa şikayet",
+    "e-şikayet"
+  ],
+  "category": "Ceza",
+  "related": [
+    "sikayet-suresi-ceza",
+    "gozalti-suresi",
+    "hakaret-sucu-nedir",
+    "tehdit-sucu-nedir",
+    "dolandiricilik-sucu",
+    "adli-kontrol-nedir",
+    "hizli-yargilama-usulu",
+    "sabika-kaydi-nasil-alinir",
+    "suc-duyurusu-geri-alma",
+    "ifade-alma-haklari",
+    "sorusturma-gizliligi",
+    "e-devlet-ceza-sorgulama"
+  ],
+  "links": [
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    },
+    {
+      "label": "TCK",
+      "href": "/kategori/tck-genel"
+    }
+  ],
+  "lead": "Bir suçla karşılaştığınızda veya mağdur olduğunuzda, olayı resmî makamlara bildirmek için Cumhuriyet Başsavcılığına yazılı bir dilekçeyle başvurabilir ya da kolluk birimlerine sözlü beyanda bulunabilirsiniz. Başvurunuzun etkili bir soruşturmaya dönüşmesi, olayın gelişimini açıkça anlatmanıza ve elinizdeki delilleri eksiksiz sunmanıza bağlıdır.",
+  "keyInsight": "Bazı suçlar kanunen şikâyete bağlı tutulduğundan, bu suç tiplerinde başvuru iradesini gecikmeksizin savcılığa veya kolluğa iletmek soruşturmanın açılabilmesi için zorunludur.",
+  "sections": [
+    {
+      "heading": "Suç duyurusu nereye ve nasıl yapılır?",
+      "paragraphs": [
+        "Bir suçun işlendiğini öğrendiğinizde ilk başvuracağınız merci doğrudan **Cumhuriyet Başsavcılığı** veya en yakın polis/jandarma merkezidir. Adliyeye giderek hazırladığınız şikâyet dilekçesini müracaat savcılığına teslim edebilir, adliyeye gidemeyecek durumdaysanız kolluk biriminde tutanağa geçirilmek üzere sözlü beyanda bulunabilirsiniz.",
+        "Ayrıca güvenli elektronik imza sahibiyseniz veya e-Devlet entegrasyonu üzerinden UYAP Vatandaş Portalı'nı kullanıyorsanız, başvurunuzu adliyeye bizzat gitmeden elektronik ortamda da savcılığa iletebilirsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Şikâyete bağlı suçlar ile re'sen soruşturulan suçlar",
+      "paragraphs": [
+        "Hukukumuzda her suç aynı usulle takip edilmez. Örneğin cinsel taciz veya malvarlığına yönelik sair bir kötülükle tehdit fiillerinde soruşturma başlatılabilmesi için **mağdurun şikayeti** şart koşulmuştur. Mağdur açıkça şikâyetçi olmadığını bildirirse savcılık bu fiiller yönünden işlem yapamaz.",
+        "Buna karşılık, mağdur ile arasında evlenme yasağı bulunan kişinin reşit olmayanla cinsel ilişkisi gibi kanunda istisna tutulan ağır hâllerde veya hayat ile vücut dokunulmazlığına yönelik tehdit durumlarında soruşturma kendiliğinden yürütülür; bu suçlarda şikâyet geri alınsa dahi savcılık incelemeyi sürdürür."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Dilekçede nelere yer verilmeli?",
+      "paragraphs": [
+        "Savcılığa hitaben yazılan metin uzun bir dertleşme değil, somut vakıaları kronolojik sırayla gösteren resmî bir bildirim olmalıdır. Başvuruda şüphelinin kimlik veya iletişim bilgileri biliniyorsa yazılmalı, bilinmiyorsa tespit edilmesi talep edilmelidir.",
+        "Olayın geçtiği yer, zaman ve eylemin ayrıntıları net ifadelerle aktarılmalıdır. Fiilin niteliğine göre elektronik haberleşme kayıtları, mesaj ekran görüntüleri, tanık anlatımları veya varsa sağlık kurumlarından alınan raporlar dilekçeye eklenmelidir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Başvurudan sonra süreç nasıl işler?",
+      "paragraphs": [
+        "Dilekçeniz savcılık kaydına girdikten sonra bir soruşturma numarası alır. Cumhuriyet savcısı, toplanan delillere ve alınan ifadelere göre kamu davası açılması için yeterli şüphe olup olmadığını inceler.",
+        "Soruşturma sonucunda yeterli delil bulunamaz veya fiilin suç teşkil etmediği kanaatine varılırsa kovuşturmaya yer olmadığına dair karar verilir. Bu karar size tebliğ edildiğinde, tebliğdeki yasal süreyi geçirmeden yetkili sulh ceza hâkimliğine itiraz etme hakkınız bulunur."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Olayın gerçekleştiği yer, tarih, saat ve şüpheli bilgilerini kronolojik olarak not edin.",
+    "İddialarınızı destekleyen mesaj kayıtları, kamera görüntüleri veya sağlık raporu gibi delilleri hazırlayın.",
+    "Cumhuriyet Başsavcılığına hitaben açık ve net bir şikâyet dilekçesi yazın.",
+    "Dilekçenizi kimliğinizle birlikte adliyedeki müracaat savcılığına veya kolluk birimine teslim edin.",
+    "Verilen soruşturma dosya numarasını kaydederek UYAP veya savcılık kaleminden süreci takip edin."
+  ],
+  "documents": [
+    "T.C. kimlik kartı veya nüfus cüzdanı fotokopisi",
+    "İmzalı suç duyurusu / şikâyet dilekçesi",
+    "Ekran görüntüsü, mesaj dökümü veya yazışma kayıtları",
+    "Varsa darp veya muayeneye ilişkin tıbbi raporlar",
+    "Olayı aydınlatabilecek tanıkların isim ve iletişim listesi"
+  ],
+  "faq": [
+    {
+      "q": "Şüpheliyi tanımıyorsam suç duyurusunda bulunabilir miyim?",
+      "a": "Evet, dilekçenizde şüphelinin kimliğinin bilinmediğini belirterek elinizdeki telefon numarası, hesap bilgisi, sosyal medya profili veya kamera kaydı gibi ipuçlarını sunup failin tespitini talep edebilirsiniz."
+    },
+    {
+      "q": "Suç duyurusu yapmak ücrete veya harca tabi midir?",
+      "a": "Cumhuriyet Başsavcılığına ya da emniyet/jandarma birimlerine yapılan ceza şikâyetleri ve suç ihbarları herhangi bir yargı harcına tabi değildir."
+    },
+    {
+      "q": "Şikâyetten vazgeçilirse dosya hemen kapanır mı?",
+      "a": "Yalnızca kanunen şikâyete bağlı olan suçlarda vazgeçme ile dosya kapanır. Savcılığın kendiliğinden (re'sen) takip ettiği suçlarda şikâyetten vazgeçilse bile soruşturma devam eder."
+    },
+    {
+      "q": "CİMER üzerinden suç duyurusu yapılabilir mi?",
+      "a": "CİMER üzerinden iletilen ihbar ve şikâyet başvuruları incelenmek üzere yetkili Cumhuriyet Başsavcılığına sevk edilebilir; ancak doğrudan ve hızlı işlem için adliyeye veya kolluğa başvurmak daha etkilidir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "savcilik-suc-duyurusu",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

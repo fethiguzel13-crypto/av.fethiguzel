@@ -1,0 +1,112 @@
+{
+  "slug": "delil-baslangici-nedir",
+  "title": "Delil başlangıcı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Delil başlangıcı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
+  "h1": "Delil başlangıcı",
+  "keywords": [
+    "delil başlangıcı",
+    "delil baslangici nedir"
+  ],
+  "category": "Usul",
+  "related": [
+    "zamanaşimi-nedir",
+    "tanik-dinletme",
+    "hukuk-davasi-nasil-acilir",
+    "bilirkisi-raporu-itiraz"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/zamanaşimi-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    }
+  ],
+  "lead": "Elinde resmi bir senet yok ancak karşı tarafın eliyle yazdığı bir kağıt varsa, mahkemede işiniz yarı yarıya kolaylaşabilir. Delil başlangıcı, tam bir ispat kağıdı olmasa da haklılığınızı güçlendiren en önemli dayanaklardan biridir.",
+  "keyInsight": "Elindeki belgenin karşı tarafın eli ürünü olması ve hukuki işlemi kesin olarak kanıtlamasa bile **muhtemel göstermesi** şarttır.",
+  "sections": [
+    {
+      "heading": "Tam ispat edemeyen ama kapı aralayan kağıtlar",
+      "paragraphs": [
+        "Borç aldınız ancak elinizde noter onaylı bir senet yok. Normal şartlarda belirli bir sınırın üzerindeki işler için senet göstermeniz gerekir. Ancak karşı tarafın imzasını taşıyan bir not, mektup veya benzeri yazı elinizde duruyorsa durum değişir.",
+        "Bu tür belgeler tek başına davayı kazandırmaz. Fakat hakimin gözünde **olayın yaşanmış olabileceği** yönünde güçlü bir kanaat oluşturur. İşte bu ara durum, hukuk dilinde delil başlangıcı olarak adlandırılır."
+      ],
+      "bullets": [
+        "Senet yerine geçen belgeler",
+        "Hakimi ikna etme gücü",
+        "Tanık dinletme imkanı"
+      ]
+    },
+    {
+      "heading": "Hangi belgeler bu kapsama girer?",
+      "paragraphs": [
+        "Karşı tarafın veya temsilcisinin kendi eliyle verdiği ya da gönderdiği her yazılı parça bu ihtimali doğurabilir. Önemli olan belgenin içeriğinin iddia ettiğiniz hukuki işlemi işaret ediyor olmasıdır.",
+        "Ancak ortada hiçbir yazı, imza veya iz yokken sadece sözle yola çıkmak yetersiz kalır. Belge, **karşı tarafın elinden çıkmış** olmak zorundadır."
+      ],
+      "bullets": [
+        "Karşı tarafın imzaladığı notlar",
+        "Gönderilen mektup veya yazılar"
+      ]
+    },
+    {
+      "heading": "Tanık dinletmenin yolu nasıl açılır?",
+      "paragraphs": [
+        "Normalde senet gerektiren işlerde tanık dinletmek yasaktır. Mahkeme doğrudan yazılı belge ister. Elinizde delil başlangıcı sayılacak bir kağıt varsa, bu yasak esner.",
+        "Hakim, **tanık dinlenmesine izin verebilir**. Böylece yazılı delili tanık ifadeleriyle destekleme şansınız doğar ve düğüm çözülmeye başlar."
+      ],
+      "bullets": [
+        "Tanık yasağının esnemesi",
+        "İddianın tanıkla desteklenmesi"
+      ]
+    },
+    {
+      "heading": "İmza atamayanların durumu ve istisnalar",
+      "paragraphs": [
+        "Herkes düzgün imza atmak zorunda değildir. Okuma yazma bilmeyenlerin veya imza atamayacak durumda olanların parmak izi ya da mühür kullanması mümkündür.",
+        "Ancak bu tür işlemlerin geçerli sayılması için **noter onayından geçmesi** şarttır. Aksi takdirde eldeki kağıt delil niteliği taşımaz."
+      ],
+      "bullets": [
+        "Parmak izi ve mühür kullanımı",
+        "Noter onayının şart olması"
+      ]
+    }
+  ],
+  "steps": [
+    "Elinizdeki tüm yazılı notları, mektupları ve belgeleri bir araya getirin.",
+    "Belgelerin karşı tarafın imzasını veya el yazısını taşıdığından emin olun.",
+    "Hukuki süreci başlatmak için elinizdeki delil başlangıcı niteliğindeki kağıtla birlikte başvuru yapın.",
+    "Hakimden tanık dinletme talebinde bulunun."
+  ],
+  "documents": [
+    "Karşı tarafın imzasını taşıyan mektup veya not",
+    "Hukuki işlemi muhtemel gösteren yazılı belgeler",
+    "Parmak izi veya mühür içeren noter onaylı kağıtlar"
+  ],
+  "faq": [
+    {
+      "q": "Delil başlangıcı tek başına davayı kazandırır mı?",
+      "a": "Hayır, tek başına yeterli değildir ancak tanık dinletme hakkı vererek davayı kazanmanıza zemin hazırlar."
+    },
+    {
+      "q": "Her mektup delil başlangıcı sayılır mı?",
+      "a": "Belgenin karşı tarafın elinden çıkmış olması ve iddia edilen konuyu muhtemel göstermesi gerekir."
+    },
+    {
+      "q": "İmza atamayanlar nasıl belge düzenleyebilir?",
+      "a": "Parmak izi veya mühür kullanarak yapılan işlemlerin noter tarafından onaylanması veya düzenlenmesi şarttır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "zamanaşimi-nedir",
+  "angle": "Delil başlangıcı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

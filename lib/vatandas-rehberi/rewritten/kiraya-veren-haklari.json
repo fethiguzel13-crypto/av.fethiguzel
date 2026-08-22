@@ -1,0 +1,114 @@
+{
+  "slug": "kiraya-veren-haklari",
+  "title": "Kiraya Veren (Ev Sahibi) Hakları | Vatandaş Rehberi",
+  "description": "Ev sahibinin hakları nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
+  "h1": "Ev sahibinin hakları nelerdir?",
+  "keywords": [
+    "kiraya veren hakları",
+    "ev sahibi hakları"
+  ],
+  "category": "Kira",
+  "related": [
+    "kira-artis-orani-nasil-hesaplanir",
+    "kiraci-nasil-tahliye-edilir",
+    "tahliye-taahhutnamesi",
+    "kira-tespit-davasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kira-artis-orani-nasil-hesaplanir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Ev sahibisiniz ve kiracınızla ilgili haklarınızı merak ediyorsunuz. Taşınmazınızda sonradan ortaya çıkan eksikliklerin giderilmesini istemek veya mülkünüzün incelenmesine izin verilmesini talep etmek en temel yetkileriniz arasındadır.",
+  "keyInsight": "Ev sahibi olarak mülkünüzde yapılacak bakım ve inceleme çalışmalarını kiracıya **uygun bir süre önce** bildirmek zorundasınız.",
+  "sections": [
+    {
+      "heading": "Mülküne bakma ve inceletme zamanı",
+      "paragraphs": [
+        "Kiracınız evde otururken mülkünüzü satmak isteyebilir ya da bakım yapmanız gerekebilir. Bu durumlarda kiracı, bakım veya sonraki kiralama için zorunlu olduğu ölçüde evi gezip görmenize izin vermekle yükümlüdür.",
+        "Ancak bu yetkiyi kullanırken kafanıza göre kapıyı çalamazsınız. Yapılacak çalışmaları ve evin gezileceğini **uygun bir süre önce** kiracıya bildirmeniz şarttır."
+      ],
+      "bullets": [
+        "Bakım ve onarım çalışmaları",
+        "Satış veya yeniden kiralama hazırlığı",
+        "Zorunlu incelemeler"
+      ]
+    },
+    {
+      "heading": "Eksikliklerin giderilmesi ve benzeriyle değişim",
+      "paragraphs": [
+        "Kiralanan malda sonradan bir eksiklik veya sorun ortaya çıkabilir. Kiraya veren olarak, maldaki ayıbı gidermek yerine uygun bir süre içinde **ayıpsız benzeriyle** değiştirebilirsiniz.",
+        "Kiracıya aynı malın ayıpsız benzerini hemen vererek ve uğradığı zararın tamamını ödeyerek onun diğer haklarını kullanmasını önleme hakkınız bulunmaktadır."
+      ],
+      "bullets": [
+        "Mevcut sorunu giderme",
+        "Ayıpsız benzeriyle değiştirme",
+        "Zararları tamamlama"
+      ]
+    },
+    {
+      "heading": "Çalışmalara katlanma yükümlülüğü",
+      "paragraphs": [
+        "Kiralanandaki ayıpların giderilmesine ya da zararların önlenmesine yönelik çalışmalar yapılabilir. Kiracı, bu çalışmalara katlanmakla yükümlüdür.",
+        "Bu süreçte kiracının yararlarını göz önünde tutmanız ve süreci dengeli yürütmeniz beklenir."
+      ],
+      "bullets": [
+        "Zararları önleme çalışmaları",
+        "Onarım faaliyetleri"
+      ]
+    },
+    {
+      "heading": "Takip ve icra süreçlerinde bilgilendirme",
+      "paragraphs": [
+        "Mülkünüz üzerinde icra takibi veya rehin gibi durumlar söz konusu olduğunda, ilgili merciler tarafından kiracılara haber verilebilir.",
+        "İcra memuru, alacaklının talebi üzerine kiracıları takipten haberdar eder ve işleyecek kiraların icra dairesine ödenmesini emredebilir."
+      ],
+      "bullets": [
+        "İcra dairesi bilgilendirmesi",
+        "Kira ödemelerinin yönlendirilmesi"
+      ]
+    }
+  ],
+  "steps": [
+    "Mülkte yapacağınız inceleme veya bakım çalışmalarını önceden kiracıya bildirin.",
+    "Ortaya çıkan eksiklikleri gidermek için uygun bir yol seçin.",
+    "Gerekirse eşyayı veya alanı ayıpsız benzeriyle değiştirin.",
+    "İcra veya resmi takip durumlarında ilgili dairelerin talimatlarını izleyin."
+  ],
+  "documents": [
+    "Kira sözleşmesi",
+    "Tapu kaydı",
+    "İcra dairesi yazıları",
+    "Bildirim ve tebligat belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "Evimi satmak için kiracıdan ne zaman izin isteyebilirim?",
+      "a": "Satış veya sonraki kiralama için zorunlu olduğu ölçüde, durumu uygun bir süre önce kiracıya bildirerek evin gezilmesine izin verilmesini isteyebilirsiniz."
+    },
+    {
+      "q": "Evdeki bir arızayı gidermek zorunda mıyım?",
+      "a": "Sonradan ortaya çıkan ayıpların giderilmesi veya uygun bir süre içinde ayıpsız benzeriyle değiştirilmesi süreçlerinde kiraya veren olarak sorumluluklarınız vardır."
+    },
+    {
+      "q": "İcra takibinde kiralar kime ödenir?",
+      "a": "Rehinli taşınmazlarda icra memuru kiracıları haberdar eder ve işleyecek kiraların icra dairesine ödenmesini emredebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kira-artis-orani-nasil-hesaplanir",
+  "angle": "Ev sahibi hakları",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

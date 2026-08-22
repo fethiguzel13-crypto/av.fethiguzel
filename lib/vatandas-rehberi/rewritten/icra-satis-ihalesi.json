@@ -1,0 +1,113 @@
+{
+  "slug": "icra-satis-ihalesi",
+  "title": "İcra ihalesine nasıl girilir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İcra ihalesine nasıl girilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
+  "h1": "İcra ihalesine nasıl girilir?",
+  "keywords": [
+    "icra satış ihalesi",
+    "icra ihalesi"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "haciz-islemleri-nasil-yapilir",
+    "tapu-haczi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=ihalenin%20feshi"
+    }
+  ],
+  "lead": "İcra dairesi tarafından satışa çıkarılan taşınır veya taşınmaz malların artırma yoluyla ihale edilmesi, iflas idaresi tarafından ilgili kanun hükümleri çerçevesinde yürütülür. Satış süreci, belirlenen usul ve esaslara uygun olarak gerçekleştirilir.",
+  "keyInsight": "İhale sürecine katılırken veya talepte bulunurken ilgili mevzuatta öngörülen usul ve şartlara eksiksiz riayet edilmesi gerekir.",
+  "sections": [
+    {
+      "heading": "İhale nasıl yürütülür?",
+      "paragraphs": [
+        "İflas idaresi tarafından artırma ile satılacak taşınır ve taşınmaz malların ihalesi, kanunda belirtilen hükümlere göre yapılır. Taşınır satışlarında ilgili madde hükümleri tatbik olunur.",
+        "Satış aşamasında, malların muhafazası veya paraya çevrilmesi gibi durumlarda kanuni düzenlemelere dikkat edilir. Borçlunun talebi veya belirli hukuki şartların varlığı durumunda süreçte değişiklikler yaşanabilir."
+      ],
+      "bullets": [
+        "Artırma ve ihale kuralları uygulanır.",
+        "Taşınır ve taşınmaz satışları farklı usullere tabi olabilir."
+      ]
+    },
+    {
+      "heading": "Adres bildirimi neden önemlidir?",
+      "paragraphs": [
+        "Tapuda kayıtlı taşınmazların veya cebri icra yoluyla iktisapta bulunan hak sahiplerinin adreslerini ilgili tapu idaresine bildirmesi mecburidir. Adres değişikliklerinin de aynı şekilde bildirilmesi gerekir.",
+        "Hak sahiplerinin adres bildirmemesi hâlinde, adres kayıt sistemindeki adresleri tebligat adresi olarak kabul edilir ve işlemler bu adrese gönderilir."
+      ],
+      "bullets": [
+        "Adres değişiklikleri tapu idaresine bildirilmelidir.",
+        "Bildirim yapılmazsa adres kayıt sistemi esas alınır."
+      ]
+    },
+    {
+      "heading": "Ödeme ve çekle ilgili hususlar nelerdir?",
+      "paragraphs": [
+        "Karşılığı bulunan çekler bankaya ibraz edildiğinde ödenir. Çekin karşılıksız çıkması durumunda banka tarafından kanunen ödenmekle yükümlü olunan miktarlar ve işlemler devreye girer.",
+        "Çek düzenleme ve ödeme yükümlülüklerine uyulmaması hâlinde hukuki ve cezai sorumluluklar gündeme gelebilir. Bu süreçler ilgili mahkemeler aracılığıyla yürütülür."
+      ],
+      "bullets": [
+        "Çekler ibraz süresi içinde işleme alınmalıdır.",
+        "Karşılıksız çekler için yasal işlemler uygulanır."
+      ]
+    },
+    {
+      "heading": "Süreçte nelere dikkat edilmelidir?",
+      "paragraphs": [
+        "İcra ve iflas işlemlerinde parasal sınırlar ve başvurulacak merciler büyük önem taşır. Yapılacak şikayet veya davalarda başvuru tarihindeki miktarlar ve kurallar esas alınır.",
+        "Hak kaybı yaşamamak için tebligatlar ve yasal süreler yakından takip edilmeli, işlemler eksiksiz bir şekilde yerine getirilmelidir."
+      ],
+      "bullets": [
+        "Başvuru tarihindeki miktar ve sınırlar dikkate alınır.",
+        "Yasal tebligatlar titizlikle izlenmelidir."
+      ]
+    }
+  ],
+  "steps": [
+    "Satışa çıkarılacak taşınır veya taşınmaz malın ihale ilanını ve şartlarını inceleyin.",
+    "İlgili icra dairesine veya idareye başvurarak talep veya teklifinizi iletin.",
+    "Adres bilgilerinizin tapu ve ilgili kurumlarda güncel olduğundan emin olun.",
+    "Ödeme, teminat veya çek işlemlerini kanuni süreler içinde tamamlayın.",
+    "İşlemler sırasında tebligatları takip ederek yasal süreçleri izleyin."
+  ],
+  "documents": [
+    "Tapu tescil belgesi",
+    "Kimlik belgesi",
+    "İcra dairesi başvuru evrakı",
+    "Çek ve ödeme belgeleri",
+    "Tebligat evrakı"
+  ],
+  "faq": [
+    {
+      "q": "İhale hangi kurallara göre yapılır?",
+      "a": "İhaleler, ilgili kanun maddelerinde belirtilen usul ve esaslara uygun olarak iflas idaresi veya icra dairesi tarafından yürütülür."
+    },
+    {
+      "q": "Adresimi değiştirirsem nereye bildirmeliyim?",
+      "a": "Tapuda kayıtlı taşınmazlar veya cebri icra ile edinilen haklar için adres değişiklikleri ilgili tapu idaresine bildirilmelidir."
+    },
+    {
+      "q": "Çekin karşılıksız çıkması durumunda ne olur?",
+      "a": "Kanuni ibraz süresi içinde ibraz edilen çekin karşılıksız kalması hâlinde, banka tarafından kanuni yükümlülükler çerçevesinde işlem yapılır ve yasal süreç başlatılabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Cebri satış",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

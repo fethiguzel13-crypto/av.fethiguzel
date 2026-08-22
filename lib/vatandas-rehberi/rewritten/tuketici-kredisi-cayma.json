@@ -1,0 +1,112 @@
+{
+  "slug": "tuketici-kredisi-cayma",
+  "title": "Tüketici Kredisi Cayma Hakkı | Vatandaş Rehberi",
+  "description": "Tüketici kredisinden nasıl cayılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
+  "h1": "Tüketici kredisinden nasıl cayılır?",
+  "keywords": [
+    "tüketici kredisi cayma",
+    "kredi cayma hakkı 14 gün"
+  ],
+  "category": "Tüketici",
+  "related": [
+    "tuketici-hakem-heyeti",
+    "mesafeli-satis-cayma",
+    "kredi-karti-itiraz"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tuketici-hakem-heyeti"
+    },
+    {
+      "label": "TKHK",
+      "href": "/kategori/tkhk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=kredi"
+    }
+  ],
+  "lead": "Bankadan kredi çektiniz ama pişman oldunuz. Yasaya göre gerekçe göstermeden ve ceza ödemeden **krediden vazgeçebilirsiniz**.",
+  "keyInsight": "Ana parayı ve işleyen faizi süresinde geri ödemezseniz cayma hakkınız yanar.",
+  "sections": [
+    {
+      "heading": "Krediden vazgeçmek ne anlama gelir?",
+      "paragraphs": [
+        "Bankaya imza attınız, para hesabınıza yattı. Ancak eve varınca ya da ertesi gün bu borcun altına girmek istemediğinizi fark ettiniz. Asıl soru ne kadar süre geçtiğidir. Kural olarak bankaya karşı **gerekçe sunma zorunluluğunuz yoktur**.",
+        "Bu süreçte banka size ekstra bir cezai şart veya masraf yansıtamaz. Sadece parayı kullandığınız gün kadar faiz ödemeniz istenir."
+      ],
+      "bullets": [
+        "Gerekçe bildirme zorunluluğu yok",
+        "Cezai şart ödenmez"
+      ]
+    },
+    {
+      "heading": "Bildirim nasıl yapılır?",
+      "paragraphs": [
+        "Vazgeçtiğinizi bankaya yazılı olarak kesin bir şekilde iletmelisiniz. Bu bildirimin **zamanında yapılmış olması** en kritik aşamadır. Bildirim bankaya ulaştıktan sonra hesap kitap işleri başlar.",
+        "Eğer süresi içinde borcun tamamını erken öderseniz, ayrıca bir bildirim metni aranmaksızın cayma hükümleri devreye girer."
+      ],
+      "bullets": [
+        "Yazılı bildirim şart",
+        "Zamanında yöneltilmeli"
+      ]
+    },
+    {
+      "heading": "Geri ödeme nasıl gerçekleşir?",
+      "paragraphs": [
+        "Krediden caydığınızda aldığınız ana parayı ve parayı elinizde tuttuğunuz süre boyunca oluşan faizi geri ödemelisiniz. Bu ödemeyi **otuz gün içinde** tamamlamanız beklenir.",
+        "Bu süre zarfında borç kapanmazsa cayma hiç yapılmamış sayılır ve normal taksitleriniz devam eder. Faiz hesabı sözleşmedeki oran üzerinden yapılır."
+      ],
+      "bullets": [
+        "Otuz gün içinde ödeme",
+        "Akdi faiz oranı geçerli"
+      ]
+    },
+    {
+      "heading": "Hangi masraflar sizden kesilir?",
+      "paragraphs": [
+        "Cayma işleminde banka sizden sadece iki kalem para isteyebilir. Bunlardan biri kullanılan dönemin faizidir, diğeri ise resmi kurumlara veya üçüncü kişilere ödenmiş masraflardır.",
+        "Bu masraflar dışında bankanın sizden herhangi bir ad altında ek ücret talep etmesi **kanunen yasaktır**."
+      ],
+      "bullets": [
+        "Yalnızca yasal masraflar",
+        "Ek bedel alınamaz"
+      ]
+    }
+  ],
+  "steps": [
+    "Krediden vazgeçtiğinizi belirten yazılı dilekçe hazırlayın.",
+    "Bildirimi yasal süresi içinde bankaya ulaştırın.",
+    "Kullandığınız ana para miktarını netleştirin.",
+    "Tahakkuk eden faiz miktarını hesaplayın.",
+    "Tüm tutarı süresi içinde bankaya geri ödeyin."
+  ],
+  "documents": [
+    "Kredi sözleşmesi",
+    "Cayma bildirimi dilekçesi",
+    "Banka dekontları",
+    "Masraf dökümleri"
+  ],
+  "faq": [
+    {
+      "q": "Caymak için mazeret göstermem şart mı?",
+      "a": "Hayır, herhangi bir gerekçe sunma zorunluluğunuz bulunmuyor."
+    },
+    {
+      "q": "Bankaya ceza öder miyim?",
+      "a": "Hayır, cayma hakkını kullandığınız için sizden cezai şart istenemez."
+    },
+    {
+      "q": "Geri ödemeyi ne zaman yapmalıyım?",
+      "a": "Bildirimi gönderdikten sonraki otuz gün içinde ana para ve faizi ödemelisiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tuketici-hakem-heyeti",
+  "angle": "Kredi cayma",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

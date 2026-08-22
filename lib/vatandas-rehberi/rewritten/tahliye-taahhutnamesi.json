@@ -1,0 +1,99 @@
+{
+  "slug": "tahliye-taahhutnamesi",
+  "title": "Tahliye Taahhütnamesi Geçerlilik Şartları | Vatandaş Rehberi",
+  "description": "Tahliye taahhütnamesi geçerli midir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
+  "h1": "Tahliye taahhütnamesi geçerli midir?",
+  "keywords": [
+    "tahliye taahhütnamesi",
+    "tahliye taahhüdü geçerlilik"
+  ],
+  "category": "Kira",
+  "related": [
+    "kiraci-nasil-tahliye-edilir",
+    "kira-artis-orani-nasil-hesaplanir",
+    "icra-takibi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kiraci-nasil-tahliye-edilir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Ev sahibiniz elindeki kağıtla kapınıza dayandı ve çıkmanızı istiyor. Tahliye taahhütnamesinin geçerli olması için **tarih ve imzanın** sonradan, serbest iradeyle atılmış olması gerekir.",
+  "keyInsight": "Kira sözleşmesiyle aynı anda imzalatılan boş taahhütler hukuken geçersizdir.",
+  "sections": [
+    {
+      "heading": "Hangi kağıt gerçektir?",
+      "paragraphs": [
+        "Evinize yerleşirken imzaladığınız o sevinçli evrak yığınını hatırlayın. Eğer o sırada size imzalatılan boş bir kağıda sonradan tarih atıldıysa, bu kağıt hak doğurmaz.",
+        "Kanuna göre sözleşmelerin geçerliliği şekle bağlıdır ve tarafların iradesi sakatlanmamalıdır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Tarihler neden bu kadar önemlidir?",
+      "paragraphs": [
+        "Elimizdeki belgenin geçerliliği için imza ve tarihin doğru sırayla atılması şarttır. Sözleşme bittikten sonra verilen taahhütler ev sahibine hak kazandırır.",
+        "Ancak önceden alınan baskılı ve boş kağıtlar mahkemede veya icrada **hüküm doğurmaz**."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İtiraz edince ne olur?",
+      "paragraphs": [
+        "Ev sahibi elindeki kağıtla yasal yollara başvurduğunda süreç başlar. Siz imzanın veya tarihin sözleşmeyle aynı gün atıldığını savunarak itiraz edebilirsiniz.",
+        "İtiraz süresini ve usulü kaçırmamak evdeki huzurunuzu korumanın tek yoludur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "Gerçek bir ihtilaf kapıya dayandığında elinizdeki belgeler konuşur. İlk kira sözleşmeniz ve ev sahibiyle olan yazışmalarınız en büyük delilinizdir.",
+        "Hukuki süreçte **zamanı kaçırmamak** ve adımları doğru atmak hak kaybını önler."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Taahhütnamenin imza ve tarih kısmını kontrol edin.",
+    "Kira sözleşmesiyle aynı tarihte imzalanıp imzalanmadığına bakın.",
+    "Ev sahibinin başlattığı süreci ve tebliğatı inceleyin.",
+    "Geçersizlik iddianızı ve delillerinizi hazırlayın."
+  ],
+  "documents": [
+    "taahhütname",
+    "sözleşme",
+    "tebliğ",
+    "takip"
+  ],
+  "faq": [
+    {
+      "q": "Boş kağıda imza attıysam ne olur?",
+      "a": "Sözleşmeyle aynı anda alınan boş taahhütler geçersiz sayılır; bunu ispat etmek gerekir."
+    },
+    {
+      "q": "Tarih sonradan doldurulmuş, ne yapmalıyım?",
+      "a": "Tarihin gerçeği yansıtmadığını ve baskıyla alındığını ilgili mercilere bildirebilirsiniz."
+    },
+    {
+      "q": "Tahliye emri gelince nereye başvuracağım?",
+      "a": "Gelen tebliğat üzerindeki talimatları takip ederek süresinde itiraz etmelisiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kiraci-nasil-tahliye-edilir",
+  "angle": "Taahhütname",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

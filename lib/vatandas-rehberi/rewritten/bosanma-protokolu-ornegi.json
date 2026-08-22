@@ -1,0 +1,112 @@
+{
+  "slug": "bosanma-protokolu-ornegi",
+  "title": "Boşanma Protokolünde Neler Yazılır? | Vatandaş Rehberi",
+  "description": "Boşanma protokolü nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
+  "h1": "Boşanma protokolü nedir?",
+  "keywords": [
+    "boşanma protokolü",
+    "anlaşmalı protokol içeriği"
+  ],
+  "category": "Aile",
+  "related": [
+    "bosanma-davasi-nasil-acilir",
+    "anlasmali-bosanma-sartlari",
+    "nafaka-davasi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/bosanma-davasi-nasil-acilir"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=bo%C5%9Fanma"
+    }
+  ],
+  "lead": "Boşanma protokolü, evliliği anlaşmalı olarak bitirmek isteyen eşlerin hazırladığı hayat paylaşımı sözleşmesidir. Bu belgede çocukların durumu, mal paylaşımı ve nafaka gibi konular netliğe kavuşturulur.",
+  "keyInsight": "Protokolde yazılan her bir cümlenin gelecekteki haklarınızı bağlayacağını unutmayın.",
+  "sections": [
+    {
+      "heading": "Anlaşmalı yolun kapısı nasıl açılır?",
+      "paragraphs": [
+        "Evliliğinizi bitirme kararı aldınız ve mahkeme salonlarında yıllarca sürecek kavgalardan kaçınmak istiyorsunuz. İşte bu noktada elinize kalemi alıp ortak bir gelecek planı yazmanız gerekir. Anlaşmalı boşanmanın temeli, tarafların her konuda **özgür iradeyle** el sıkışmasıdır.",
+        "Eşler masaya oturur; ortak hayatın mali ve insani sonuçlarını tek tek masaya yatırır. Bu süreçte birbirinizi suçlamak yerine, hayatı **adil şekilde** bölüşmenin yollarını ararsınız."
+      ],
+      "bullets": [
+        "Ortak irade esastır.",
+        "Kavgasız çözüm hedeflenir."
+      ]
+    },
+    {
+      "heading": "Çocuklar ve nafaka nasıl düzenlenir?",
+      "paragraphs": [
+        "Ortada ortak çocuklar varsa, onların geleceği protokolün en hassas maddesidir. Çocukların bakım ve **kişisel ilişki** kurma düzeni eksiksiz yazılmalıdır. Teslim edilen çocukların belirlenen sürede geri getirilmesi ve kurallara uyulması tarafların kanuni yükümlülüğüdür.",
+        "Nafaka ödemeleri konusunda karar alındığında, bu durum ilgili kurumlarca takip edilir. Ödeme yükümlüsü olan kişinin maaşından veya gelirinden kesinti yapılması için gerekli idari süreçler **resen işletilir**."
+      ],
+      "bullets": [
+        "Çocuk teslim kuralları yazılır.",
+        "Maaştan kesinti yapılabilir."
+      ]
+    },
+    {
+      "heading": "Mal paylaşımı ve haklar nasıl korunur?",
+      "paragraphs": [
+        "Evlilik birliği içinde edinilen mallar, tazminat talepleri ve soyadı gibi meseleler protokolün konusudur. Eşlerin bu konularda **hak kaybı** yaşamaması için her kalemin net bir şekilde kağıda dökülmesi şarttır.",
+        "Karşılıklı fedakarlıklar yapılırken, ileride pişmanlık duymayacağınız dengeli bir metin oluşturmak en güvenli yoldur."
+      ],
+      "bullets": [
+        "Mal rejimi tasfiye edilir.",
+        "Tazminat koşulları belirlenir."
+      ]
+    },
+    {
+      "heading": "İmzalar atıldıktan sonra süreç nasıl ilerler?",
+      "paragraphs": [
+        "Hazırlanan metin mahkemeye sunulur ve hakim tarafından incelenir. Tarafların mahkeme huzurunda iradelerini **bizzat açıklaması** beklenir. Hakim protokolü onayladığında boşanma kararı ve sonuçları hayata geçer.",
+        "Karar sonrasında protokolde yazılan kurallara uymak mecburidir. Aksi takdirde kanuni müracaatlar ve yaptırımlar gündeme gelebilir."
+      ],
+      "bullets": [
+        "Hakim onayı şarttır.",
+        "İadeli taahhütler başlar."
+      ]
+    }
+  ],
+  "steps": [
+    "Eşinizle boşanma sonuçları üzerinde konuşarak ortak noktaları belirleyin",
+    "Çocukların bakımı ve kişisel ilişki günlerini netleştirin",
+    "Nafaka, tazminat ve mal paylaşımı maddelerini kağıda dökün",
+    "Protokol metnini dikkatlice okuyup her iki taraf olarak imzalayın",
+    "İmzalanan metni aile mahkemesine sunarak duruşma gününü bekleyin"
+  ],
+  "documents": [
+    "Boşanma protokolü metni",
+    "Nüfus cüzdanı",
+    "Ortak çocukların kimlik bilgileri",
+    "Mal varlığına ilişkin belgeler"
+  ],
+  "faq": [
+    {
+      "q": "Protokolsüz anlaşmalı boşanma olur mu?",
+      "a": "Hayır, anlaşmalı boşanma davası açabilmek için tarafların imzaladığı yazılı bir protokolü mahkemeye sunması şarttır."
+    },
+    {
+      "q": "Protokol imzalandıktan sonra vazgeçilebilir mi?",
+      "a": "Duruşma sırasında hakim huzurunda iradenizi beyan edene kadar müzakere süreci devam eder; ancak imzalanan metin mahkemeye sunulduktan sonra tek taraflı değişiklik yapmak zordur."
+    },
+    {
+      "q": "Nafaka ödenmezse ne olur?",
+      "a": "Nafaka yükümlülüğünün yerine getirilmemesi durumunda icra müdürlüğü aracılığıyla tahsilat süreçleri devreye sokulabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "bosanma-davasi-nasil-acilir",
+  "angle": "Protokol içeriği",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

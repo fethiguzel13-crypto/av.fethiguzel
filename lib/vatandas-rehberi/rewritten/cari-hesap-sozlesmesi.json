@@ -1,0 +1,117 @@
+{
+  "slug": "cari-hesap-sozlesmesi",
+  "title": "Cari hesap sözleşmesi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Cari hesap sözleşmesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avu…",
+  "h1": "Cari hesap sözleşmesi",
+  "keywords": [
+    "cari hesap sözleşmesi",
+    "cari hesap sozlesmesi"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "sirket-kurulusu",
+    "ticari-isletme-nedir",
+    "senet-icra-takibi",
+    "icra-takibi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/sirket-kurulusu"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-isletme"
+    }
+  ],
+  "lead": "Ticari ilişkide mal veya hizmet alıp verirken sürekli ayrı ayrı ödeme yapmak yerine kalemi kalemine yazılan ortak bir defter açarsınız. Asıl mesele, bu defterin ne zaman kapanacağı ve hesapların ne zaman görüleceğidir.",
+  "keyInsight": "Cari hesaba yazılan kalemler tek tek alacak olmaktan çıkar, sözleşme bittikten sonra **beş yıl** geçmekle zamanaşımına uğrar.",
+  "sections": [
+    {
+      "heading": "Cari hesap sözleşmesi nedir?",
+      "paragraphs": [
+        "İki kişinin veya şirketin karşılıklı alacak ve borçlarını tek bir kalemde toplamak için kurduğu ticari bir köprüdür. Parayı veya malı hemen almak yerine, deftere yazarak biriktirirsiniz.",
+        "Bu ilişki kurulduğunda her kalemin peşinde koşmazsınız; alacak ve borçlar birbirini mahsup eder. Sonunda ortada kalan miktar için hesap görülür."
+      ],
+      "bullets": [
+        "Karşılıklı alacakları birleştirir",
+        "Sürekli ödeme derdini azaltır",
+        "Tek kalemde tasfiye edilir"
+      ]
+    },
+    {
+      "heading": "Hangi alacaklar bu hesaba girer?",
+      "paragraphs": [
+        "Ticaret sırasında doğan para alacakları veya mal teslimleri bu hesaba yazılabilir. Ancak araya giren bazı hatalı kayıtlar veya haksız işlemler hesabın dışında tutulmalıdır.",
+        "Eğer hesaba yanlışlıkla mükerrer kayıt düşüldüyse veya cari hesabın içine girmemesi gereken bir kalem eklendiyse, bunların ayrıca düzeltilmesi gerekir."
+      ],
+      "bullets": [
+        "Para alacakları",
+        "Mal ve hizmet bedelleri",
+        "Hatalı geçmeyen kalemler"
+      ]
+    },
+    {
+      "heading": "Zamanaşımı süresi ne zaman başlar?",
+      "paragraphs": [
+        "İşler bittiğinde ve hesap kapatıldığında geriye dönük ihtilaflar için bir zaman sınırı vardır. Cari hesabın tasfiyesine ve artan tutarlara ilişkin davalar **beş yıl** içinde açılmalıdır.",
+        "Bu süre, cari hesap sözleşmesinin sona ermesinden itibaren işlemeye başlar. Süreyi geçirdiğinizde hakkınızı yasal olarak arayamazsınız."
+      ],
+      "bullets": [
+        "Sona erme tarihiyle başlar",
+        "Beş yıllık süre geçerlidir",
+        "Mahkeme kararları da dahildir"
+      ]
+    },
+    {
+      "heading": "Hesap hatası ve yanlışlıklar nasıl çözülür?",
+      "paragraphs": [
+        "Defter kayıtlarında gözden kaçan rakamlar veya çift yazılan tutarlar olabilir. Yanlışlıkla cari hesaba aktarılan kalemler için de **beş yıllık** zaman aşımı kuralı aranır.",
+        "Tarafların kabul ettiği veya mahkeme kararıyla kesinleşen artan tutarlar bu sürenin sınırları içindedir."
+      ],
+      "bullets": [
+        "Tekrarlanan kayıtlar silinmeli",
+        "Yanlış kalemler ayıklanmalı",
+        "Artan tutar esas alınmalı"
+      ]
+    }
+  ],
+  "steps": [
+    "Cari hesap sözleşmesini yazılı olarak yapın",
+    "Karşılıklı alacak ve borç kalemlerini düzenli işleyin",
+    "Hesap dönemi sonunda tasfiye yapın",
+    "Kalan artan tutar veya faiz alacaklarını belirleyin",
+    "Uyuşmazlık durumunda zamanaşımı süresine dikkat edin"
+  ],
+  "documents": [
+    "Cari hesap sözleşmesi metni",
+    "Ticari defterler ve kayıtlar",
+    "Fatura ve sevk irsaliyeleri",
+    "Mutabakat mektupları"
+  ],
+  "faq": [
+    {
+      "q": "Cari hesap sözleşmesi ne zaman sona erer?",
+      "a": "Tarafların anlaşması, sürenin bitmesi veya ticari ilişkinin kesilmesiyle sona erer."
+    },
+    {
+      "q": "Yanlış yazılan bir kalemi ne zaman düzelttirebilirim?",
+      "a": "Hesap hataları ve yanlışlıklar cari hesap sözleşmesinin sona ermesinden itibaren beş yıl içinde dava konusu yapılabilir."
+    },
+    {
+      "q": "Zamanaşımı süresi ne kadardır?",
+      "a": "Cari hesabın tasfiyesi ve artan tutarlara ilişkin davalar için sözleşmenin bitiminden itibaren **beş yıl** geçerlidir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "sirket-kurulusu",
+  "angle": "Cari hesap sözleşmesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

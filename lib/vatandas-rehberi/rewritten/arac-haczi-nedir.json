@@ -1,0 +1,113 @@
+{
+  "slug": "arac-haczi-nedir",
+  "title": "Araç haczi nasıl işler — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Araç haczi nasıl işler? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
+  "h1": "Araç haczi nasıl işler?",
+  "keywords": [
+    "araç haczi",
+    "araba haczi"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "haciz-islemleri-nasil-yapilir",
+    "haciz-nasil-kaldirilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=haciz"
+    }
+  ],
+  "lead": "Aracınıza haciz konulduğunu öğrendiğinizde panik yapmayın; süreç resmi kurallar çerçevesinde ve belirli aşamalarla ilerler. Borcun ödenmemesi durumunda icra dairesi aracınız üzerinde yasal işlem başlatabilir.",
+  "keyInsight": "Haczedilen mal üzerinde üçüncü bir kişinin hak iddia etmesi durumunda, bu iddianın **yasal süreler** içinde mahkemeye taşınması gerekir.",
+  "sections": [
+    {
+      "heading": "İcra takibi ve haciz aşaması nasıl başlar?",
+      "paragraphs": [
+        "Borcunuz ödenmediğinde alacaklı taraf icra takibi başlatır ve dosya haciz aşamasına gelebilir. Bu aşamada borçluya ödeme emri gönderilir ve borcun ödenmesi istenir.",
+        "Takip kesinleştikten sonra icra memurluğu aracılığıyla mal varlıkları üzerine haciz konulabilir. Araç haczi de bu süreçte sicile işlenen resmi bir işlemdir."
+      ],
+      "bullets": [
+        "Ödeme emri tebliği",
+        "Takibin kesinleşmesi",
+        "Araç siciline haciz şerhi"
+      ]
+    },
+    {
+      "heading": "Üçüncü kişilerin hak iddia etmesi ne anlama gelir?",
+      "paragraphs": [
+        "Haczedilen araç üzerinde borçludan başka birinin hakkı olduğunu iddia etmesi istihkak iddiası olarak karşınıza çıkar. Bu durumda dosya icra mahkemesine taşınır.",
+        "Mahkeme dosya üzerinden ya da tarafları çağırarak inceleme yapar ve takibin devam edip etmeyeceğine karar verir. Sürecin kötüye kullanılmaması için kanun bazı tedbirler öngörür."
+      ],
+      "bullets": [
+        "İstihkak iddiası",
+        "Mahkeme incelemesi",
+        "Takibin durması veya devamı"
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırmanın sonuçları nelerdir?",
+      "paragraphs": [
+        "İcra mahkemesi kararlarından sonra tarafların **belirli süreler** içinde harekete geçmesi şarttır. Hak düşürücü bu süreler geçirilirse haklar kaybedilir.",
+        "Örneğin üçüncü kişi kararın kendisine bildirilmesinden sonra **yedi gün** içinde dava açmazsa iddiasından vazgeçmiş sayılır."
+      ],
+      "bullets": [
+        "Süre takibi",
+        "Hak kaybı riski"
+      ]
+    },
+    {
+      "heading": "Hacizli mal nasıl paraya çevrilir?",
+      "paragraphs": [
+        "Haciz konulan araç, takip dosyasındaki işlemlerin ilerlemesiyle birlikte paraya çevirme aşamasına geçer. Bu safhada malın satışı gündeme gelebilir.",
+        "Yargılama veya dava devam ederken malın satılması durumunda, elde edilen bedelin kime ve nasıl ödeneceği mahkeme kararına veya dosyanın durumuna göre belirlenir."
+      ],
+      "bullets": [
+        "Paraya çevirme safhası",
+        "Satış işlemleri"
+      ]
+    }
+  ],
+  "steps": [
+    "İcra dosyasındaki borç miktarını ve tebligatları kontrol edin.",
+    "Haciz konulan aracın sicil kaydını inceleyin.",
+    "Üçüncü bir hak iddia durumu varsa yasal yollara başvurun.",
+    "İcra dairesi ile iletişimde kalıp dosya borcunu ödeme seçeneklerini değerlendirin."
+  ],
+  "documents": [
+    "İcra ödeme emri",
+    "Araç ruhsatı ve tescil belgesi",
+    "İstihkak iddiası dilekçesi",
+    "Mahkeme başvuru evrakları"
+  ],
+  "faq": [
+    {
+      "q": "Aracıma haciz konulduğunu nasıl anlarım?",
+      "a": "E-devlet üzerinden araç sicil kaydınızı sorgulayarak veya size gelen resmi icra tebligatları aracılığıyla öğrenebilirsiniz."
+    },
+    {
+      "q": "Hacizli araçla trafiğe çıkabilir miyim?",
+      "a": "Araç üzerine haciz konulduğunda yakalama emri çıkarılmışsa trafik kontrollerinde bağlanabilir; bu nedenle hukuki durumu netleştirmek gerekir."
+    },
+    {
+      "q": "Üçüncü şahıs aracın kendisine ait olduğunu iddia ederse ne olur?",
+      "a": "Bu durumda istihkak iddiası gündeme gelir ve dosya icra mahkemesine gönderilerek hukuki inceleme başlatılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Araç haczi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

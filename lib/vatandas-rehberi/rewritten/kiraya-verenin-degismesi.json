@@ -1,0 +1,107 @@
+{
+  "slug": "kiraya-verenin-degismesi",
+  "title": "Ev Satılırsa Kiracı Ne Olur? | Vatandaş Rehberi",
+  "description": "Kiraya verenin değişmesi (satış) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
+  "h1": "Kiraya verenin değişmesi (satış)",
+  "keywords": [
+    "ev satılırsa kiracı",
+    "yeni malik kira"
+  ],
+  "category": "Kira",
+  "related": [
+    "kira-artis-orani-nasil-hesaplanir",
+    "kiraci-haklari-nelerdir",
+    "kiraci-nasil-tahliye-edilir",
+    "tapu-devri-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kira-artis-orani-nasil-hesaplanir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    }
+  ],
+  "lead": "Eviniz satıldı ve yeni bir ev sahibiyle karşı karşıyasınız. Panik yapmayın, çünkü mevcut kira sözleşmeniz yeni malik için de aynen geçerlidir.",
+  "keyInsight": "Evin yeni sahibi, eski ev sahibiyle yaptığınız sözleşmenin tüm şartlarını olduğu gibi devralır; sözleşmeyi tek taraflı olarak hemen bitirme hakkı yoktur.",
+  "sections": [
+    {
+      "heading": "Eviniz satıldığında sözleşmeniz ne olur?",
+      "paragraphs": [
+        "Evin yeni sahibi tapuyu aldığı an, otomatik olarak sizin yeni kiraya vereniniz olur. Eski ev sahibiyle imzaladığınız sözleşme, sanki hiç değişmemiş gibi yeni malik ile aranızda devam eder.",
+        "Yeni ev sahibi, 'ev benim oldu, hemen çık' deme hakkına sahip değildir. Kira sözleşmenizin süresi bitene kadar evde oturmaya devam edebilirsiniz."
+      ],
+      "bullets": [
+        "Kira sözleşmesi yeni maliki bağlar.",
+        "Ödeme planı ve şartlar değişmez."
+      ]
+    },
+    {
+      "heading": "Evi göstermek zorunda mıyım?",
+      "paragraphs": [
+        "Eski ev sahibi evi satmaya karar verdiğinde ya da yeni malik evi tekrar kiralamak istediğinde, evi görmek isteyebilirler. Buna izin vermek yasal bir zorunluluktur.",
+        "Ancak bu durum keyfi olamaz. Size **uygun bir süre önce** haber vermeleri ve sizin günlük hayatınızı aksatmayacak, makul zamanları seçmeleri gerekir."
+      ],
+      "bullets": [
+        "Ziyaret için önceden haber verilmelidir.",
+        "Kiracının yaşam düzeni gözetilmelidir."
+      ]
+    },
+    {
+      "heading": "Yeni malik ile iletişim nasıl olmalı?",
+      "paragraphs": [
+        "Evin satıldığını öğrendiğinizde, yeni malikin kim olduğunu ve kirayı kime ödemeniz gerektiğini netleştirmeniz gerekir. En sağlıklı yol, yeni malikten tapu örneği veya yazılı bildirim talep etmektir.",
+        "Kira ödemelerinizi aksatmamak için yeni malikin banka hesap bilgilerini resmi olarak teyit etmeden ödeme yapmayın. **Yazılı bildirim** alana kadar ödemelerinizi güvence altına alın."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Evin içine bir şey yaptırdıysam ne olur?",
+      "paragraphs": [
+        "Daha önce eski ev sahibinin izniyle eve tadilat yaptıysanız veya değer artırıcı yenilikler eklediyseniz, bu haklarınız yeni malike karşı da korunur.",
+        "Eski ev sahibiyle yaptığınız yazılı anlaşmalar, mülkiyet el değiştirse de geçerliliğini korur."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Yeni malikten tapu fotokopisi veya resmi bir bildirim isteyin.",
+    "Eski ev sahibiyle olan kira sözleşmenizin bir kopyasını saklayın.",
+    "Yeni malik ile banka hesap bilgilerini yazılı olarak teyit edin.",
+    "Evi gösterme taleplerinde makul gün ve saatleri belirleyin.",
+    "Kira ödemelerinizi yeni malikin resmi hesabına yapın."
+  ],
+  "documents": [
+    "Mevcut kira sözleşmesi",
+    "Yeni malikten gelen resmi bildirim",
+    "Tapu örneği",
+    "Kira ödeme dekontları"
+  ],
+  "faq": [
+    {
+      "q": "Ev satıldı, yeni malik hemen çıkmamı isteyebilir mi?",
+      "a": "Hayır, yeni malik mevcut kira sözleşmesinin tarafı olur ve sözleşme süresine uymak zorundadır."
+    },
+    {
+      "q": "Evi göstermeyi reddedersem ne olur?",
+      "a": "Kiracı olarak evi satış veya kiralama için uygun zamanda gösterme yükümlülüğünüz vardır; tamamen reddetmek sözleşmeye aykırılık teşkil edebilir."
+    },
+    {
+      "q": "Yeni malik kirayı artırmamı isterse ne yapmalıyım?",
+      "a": "Kira artış oranları yasal sınırlar ve sözleşme hükümlerine tabidir; satış tek başına kira bedelini keyfi olarak değiştirme hakkı vermez."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kira-artis-orani-nasil-hesaplanir",
+  "angle": "Satışta yeni malik",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

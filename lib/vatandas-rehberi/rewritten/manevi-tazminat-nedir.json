@@ -1,0 +1,119 @@
+{
+  "slug": "manevi-tazminat-nedir",
+  "title": "Manevi tazminat — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Manevi tazminat hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
+  "h1": "Manevi tazminat",
+  "keywords": [
+    "manevi tazminat",
+    "manevi tazminat nedir"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "temerrut-faizi-nedir",
+    "trafik-kazasi-tazminati",
+    "is-kazasi-tazminati",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/temerrut-faizi-nedir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Kişilik haklarınız zedelendiğinde ya da beden bütünlüğünüz zarar gördüğünde, duyduğunuz acı ve üzüntüyü hafifletmek için para ödenmesini talep edebilirsiniz.",
+  "keyInsight": "Manevi tazminat bir zenginleşme aracı değildir; hâkim olayın özelliklerine ve tarafların durumuna bakarak **uygun bir miktar** belirler.",
+  "sections": [
+    {
+      "heading": "Hangi durumlarda hak doğar?",
+      "paragraphs": [
+        "Beklenmedik bir saldırıyla karşılaştınız. Fiziksel bütünlüğünüz zedelendi ya da kişilik haklarınıza haksız bir müdahale gerçekleştirildi. İşte tam bu noktada, uğradığınız manevi zararın karşılığını isteme hakkınız doğar.",
+        "Kanun, bu tür durumlarda hâkime geniş bir takdir yetkisi tanır. Hâkim, olayın tüm özelliklerini göz önünde tutarak zarar görene uygun bir miktar paranın ödenmesine karar verebilir."
+      ],
+      "bullets": [
+        "Bedensel bütünlüğün zedelenmesi",
+        "Kişilik hakkına saldırı",
+        "Ağır zarar veya ölüm hâli"
+      ]
+    },
+    {
+      "heading": "Yakınların da hakkı var mıdır?",
+      "paragraphs": [
+        "Yaşanan olay çok ağır bir bedensel zarar ya da ölümle sonuçlandı. Bu acı sadece doğrudan zarara uğrayan kişiyi değil, onun yakınlarını da derinden sarsar.",
+        "Böyle ağır durumlarda, ölenin veya ağır yaralananın yakınları da yaşanan büyük üzüntüye karşılık **manevi tazminat** talep etme hakkına sahip olur."
+      ],
+      "bullets": [
+        "Ölüm hâlinde yakınların durumu",
+        "Ağır bedensel zararlarda aile bağları"
+      ]
+    },
+    {
+      "heading": "Para yerine başka ne istenebilir?",
+      "paragraphs": [
+        "Mahkemeye başvurduğunuzda tek seçenek para verilmesi değildir. Hâkim, tazminat ödenmesi yerine başka bir giderim biçimi de kararlaştırabilir.",
+        "Özellikle haksız saldırıyı kınayan bir karar verilmesi ve **bu kararın yayımlanması** da hâkimin hükmedebileceği yöntemler arasında yer alır."
+      ],
+      "bullets": [
+        "Saldırıyı kınayan karar",
+        "Kararın yayımlanması"
+      ]
+    },
+    {
+      "heading": "Mahkeme kararına itiraz edilebilir mi?",
+      "paragraphs": [
+        "İlk derece mahkemesi kararını verdi ve sonuçtan memnun kalmadınız. Süreci bir üst mahkemeye taşıma imkânınız her zaman bulunur.",
+        "Manevi tazminat davalarında verilen kararlara karşı, **miktar veya değere bakılmaksızın** istinaf yoluna başvurulabilir."
+      ],
+      "bullets": [
+        "İstinaf yoluna başvuru hakkı",
+        "Miktar sınırına takılmama kuralı"
+      ]
+    }
+  ],
+  "steps": [
+    "Uğradığınız haksız saldırıyı veya bedensel zararı netleştirin.",
+    "Zararın ruhsal ve fiziksel etkilerini somutlaştırın.",
+    "Talebinizi belirleyerek yetkili mahkemeye başvuru hazırlığı yapın.",
+    "Hâkimin değerlendirmesi için olayın özelliklerini toplayın.",
+    "Gerekirse karar sonrası istinaf hakkınızı kullanın."
+  ],
+  "documents": [
+    "Dava dilekçesi",
+    "Olayı ve zararı kanıtlayan belgeler",
+    "Sağlık raporları",
+    "Tanık listesi",
+    "Yazışma veya tutanaklar"
+  ],
+  "faq": [
+    {
+      "q": "Manevi tazminat zenginleşme aracı mıdır?",
+      "a": "Hayır, amaç zarar görenin manevi huzurunu bulması ve tatmin duygusu yaratılmasıdır."
+    },
+    {
+      "q": "Herkes manevi tazminat isteyebilir mi?",
+      "a": "Kişilik hakkı zedelenen veya bedensel bütünlüğü zarar gören herkes bu hakkı kullanabilir."
+    },
+    {
+      "q": "Para dışında bir ceza verilir mi?",
+      "a": "Hâkim tazminat yerine saldırının kınanmasına ve kararın yayımlanmasına karar verebilir."
+    },
+    {
+      "q": "Kararı üst mahkemeye taşıyabilir miyim?",
+      "a": "Evet, manevi tazminat kararları için miktar sınırına bakılmaksızın istinaf yoluna başvurulabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "temerrut-faizi-nedir",
+  "angle": "Manevi tazminat",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

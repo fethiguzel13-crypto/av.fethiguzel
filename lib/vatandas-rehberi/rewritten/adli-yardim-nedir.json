@@ -1,0 +1,112 @@
+{
+  "slug": "adli-yardim-nedir",
+  "title": "Adli yardım — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Adli yardım hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "Adli yardım",
+  "keywords": [
+    "adli yardım",
+    "adli yardim nedir"
+  ],
+  "category": "Usul",
+  "related": [
+    "zamanaşimi-nedir",
+    "dava-harci-nedir",
+    "hukuk-davasi-nasil-acilir",
+    "avukat-tutmak-zorunlu-mu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/zamanaşimi-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=adli%20yard%C4%B1m"
+    }
+  ],
+  "lead": "Mahkemeye gideceksiniz ancak harç ve posta masraflarını ödeyecek gücünüz yok. Adli yardım, geçiminizi zor duruma düşürmeden hak arayabilmeniz için masrafların devlet tarafından karşılanmasını sağlar.",
+  "keyInsight": "Adli yardım alabilmek için talebinizin açıkça dayanaktan yoksun olmaması ve ödeme gücünüzden yoksunluğunuzu belgelemeniz şarttır.",
+  "sections": [
+    {
+      "heading": "Cebinizde para yoksa adli yardım kapısı",
+      "paragraphs": [
+        "Mahkeme kapısını çalacaksınız ama elinizdeki bütçe sadece mutfak masrafına yetiyor. Harçlar, posta giderleri, tanık ve bilirkişi ücretleri derken masraf büyüyor.",
+        "İşte tam bu noktada **ödeme gücünden yoksun** olmanız adli yardım mekanizmasını devreye sokar. Kendinizin ve ailenizin geçimini önemli ölçüde zor duruma düşürmeden bu parayı ödeyemiyorsanız hak sahibisiniz."
+      ],
+      "bullets": [
+        "Dava ve icra masraflarından muafiyet",
+        "Devlet tarafından avans ödenmesi"
+      ]
+    },
+    {
+      "heading": "Hangi masraflardan kurtulursunuz?",
+      "paragraphs": [
+        "Adli yardım kararı çıktıktan sonra dosya masrafları sizin için dert olmaktan çıkar. Başvurma harçları, tebligat giderleri ve keşif masrafları devlet tarafından karşılanır.",
+        "Eğer davanın bir **avukat ile takibi** gerekiyorsa, ücreti sonradan ödenmek üzere size bir avukat temin edilir. Böylece parasızlık yüzünden adaletsizlikle baş başa kalmazsınız."
+      ],
+      "bullets": [
+        "Teminat gösterme zorunluluğunun kalkması",
+        "Ücreti sonradan ödenen avukat desteği"
+      ]
+    },
+    {
+      "heading": "Kimler bu haktan yararlanabilir?",
+      "paragraphs": [
+        "Türkiye'de mahkemeye başvuracak herkes bu haktan faydalanamaz. Yabancı uyruklu kişiler için **karşılıklılık şartı** aranır; yani kendi ülkesinde de Türk vatandaşlarına bu hakkın tanınıyor olması gerekir.",
+        "Ayrıca öne sürdüğünüz iddianın veya savunmanın **açıkça dayanaktan yoksun** olmaması gerekir. Hiçbir hukuki dayanağı olmayan, sırf vakit geçirmek için yapılan başvurulara bu onay çıkmaz."
+      ],
+      "bullets": [
+        "Yabancılar için karşılıklılık kuralı",
+        "Dayanaksız taleplerin reddedilmesi"
+      ]
+    },
+    {
+      "heading": "Bu destek ne kadar sürer?",
+      "paragraphs": [
+        "Adli yardım kararı geçici bir lütuf değil, davanın seyrini değiştiren bir güvencedir. Alınan bu karar **hükmün kesinleşmesine kadar** devam eder.",
+        "Yargılama boyunca yeni masraflar çıktığında kara kara düşünmenize gerek kalmaz, çünkü süreç boyunca devlet koruması sürer."
+      ],
+      "bullets": [
+        "Kararın dava sonuna kadar sürmesi",
+        "Hüküm kesinleşene dek koruma"
+      ]
+    }
+  ],
+  "steps": [
+    "Geçim sıkıntınızı ve ödeme gücünüz olmadığını gösteren bilgi ve belgeleri hazırlayın.",
+    "İddia veya savunmanızı dayandırdığınız delilleri netleştirin.",
+    "Talebinizin açıkça dayanaktan yoksun olmadığını gösteren dileçenizi yazın.",
+    "Yetkili mahkemeye adli yardım talebiyle başvuru yapın."
+  ],
+  "documents": [
+    "Mal beyanını gösteren belgeler",
+    "Geçim sıkıntısını kanıtlayan gelir belgeleri",
+    "Dava dilekçesi",
+    "Dayanak deliller ve evraklar"
+  ],
+  "faq": [
+    {
+      "q": "Adli yardım sadece davalar için mi geçerlidir?",
+      "a": "Hayır, iddia ve savunmaların yanı sıra geçici hukuki korunma taleplerinde ve icra takibinde de adli yardımdan yararlanabilirsiniz."
+    },
+    {
+      "q": "Yabancı uyruklular adli yardım alabilir mi?",
+      "a": "Yabancıların bu haktan yararlanabilmesi için kanunda aranan karşılıklılık şartını taşıması gerekmektedir."
+    },
+    {
+      "q": "Adli yardım ne zaman sona erer?",
+      "a": "Mahkemenin verdiği adli yardım kararı, davanın hükme bağlanıp kesinleşmesine kadar devam eder."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "zamanaşimi-nedir",
+  "angle": "Adli yardım",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

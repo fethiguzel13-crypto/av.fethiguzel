@@ -5,13 +5,53 @@ import { hesaplamaToolsForBilgiSlug } from '@/lib/hesaplama-bilgi';
 
 const SITE = 'https://www.avfethiguzel.com';
 
+const HEADING_TONES = [
+  { text: 'text-accent', bar: 'bg-accent', wash: 'from-accent/12' },
+  { text: 'text-primary', bar: 'bg-primary', wash: 'from-primary/12' },
+  { text: 'text-[#1F6F8B]', bar: 'bg-[#1F6F8B]', wash: 'from-[#1F6F8B]/12' },
+  { text: 'text-[#9A4A1E]', bar: 'bg-[#9A4A1E]', wash: 'from-[#9A4A1E]/12' },
+] as const;
+
+function ColorHeading({ children, index }: { children: string; index: number }) {
+  const tone = HEADING_TONES[index % HEADING_TONES.length];
+  return (
+    <h2
+      className={`relative pl-4 pr-2 py-1.5 -ml-1 rounded-r-lg bg-gradient-to-r ${tone.wash} to-transparent text-xl sm:text-2xl font-heading font-bold ${tone.text} mb-4 leading-snug`}
+    >
+      <span className={`absolute left-0 top-1 bottom-1 w-1 rounded-full ${tone.bar}`} aria-hidden />
+      {children}
+    </h2>
+  );
+}
+
+/** **vurgu** → altı çizili, renkli vurgu. */
+function RichText({ text }: { text: string }) {
+  const parts = String(text || '').split(/(\*\*[^*]+?\*\*)/g);
+  return (
+    <>
+      {parts.map((part, i) => {
+        const m = part.match(/^\*\*([^*]+)\*\*$/);
+        if (m) {
+          return (
+            <u
+              key={i}
+              className="decoration-accent decoration-2 underline-offset-[5px] text-charcoal font-semibold not-italic"
+            >
+              {m[1]}
+            </u>
+          );
+        }
+        return <span key={i}>{part}</span>;
+      })}
+    </>
+  );
+}
+
 function Timeline({ steps }: { steps: string[] }) {
   if (!steps.length) return null;
   return (
     <section className="mb-12">
-      <h2 className="text-xl sm:text-2xl font-heading font-bold text-charcoal mb-5">
-        Ne yapmalısınız?
-      </h2>
+      <ColorHeading index={0}>Ne yapmalısınız?</ColorHeading>
       <ol className="relative m-0 p-0 list-none">
         <span
           className="absolute left-[1.15rem] top-3 bottom-3 w-0.5 bg-gradient-to-b from-accent via-accent/35 to-primary/20"
@@ -23,7 +63,7 @@ function Timeline({ steps }: { steps: string[] }) {
               {i + 1}
             </span>
             <p className="flex-1 min-w-0 m-0 rounded-2xl border border-charcoal/[0.08] bg-white px-4 py-3.5 text-[15px] sm:text-base text-charcoal/80 leading-relaxed">
-              {step}
+              <RichText text={step} />
             </p>
           </li>
         ))}
@@ -45,17 +85,17 @@ export default function VatandasRehberArticle({
 
   const howTo = view.steps.length
     ? {
-        '@type': 'HowTo',
-        name: article.h1,
-        description: article.description,
-        inLanguage: 'tr-TR',
-        step: view.steps.map((text, i) => ({
-          '@type': 'HowToStep',
-          position: i + 1,
-          name: `Adım ${i + 1}`,
-          text,
-        })),
-      }
+      '@type': 'HowTo',
+      name: article.h1,
+      description: article.description,
+      inLanguage: 'tr-TR',
+      step: view.steps.map((text, i) => ({
+        '@type': 'HowToStep',
+        position: i + 1,
+        name: `Adım ${i + 1}`,
+        text,
+      })),
+    }
     : null;
 
   const jsonLd = {
@@ -83,15 +123,15 @@ export default function VatandasRehberArticle({
       },
       ...(view.faq.length
         ? [
-            {
-              '@type': 'FAQPage',
-              mainEntity: view.faq.map((f) => ({
-                '@type': 'Question',
-                name: f.q,
-                acceptedAnswer: { '@type': 'Answer', text: f.a },
-              })),
-            },
-          ]
+          {
+            '@type': 'FAQPage',
+            mainEntity: view.faq.map((f) => ({
+              '@type': 'Question',
+              name: f.q,
+              acceptedAnswer: { '@type': 'Answer', text: f.a },
+            })),
+          },
+        ]
         : []),
       ...(howTo ? [howTo] : []),
       {
@@ -147,9 +187,15 @@ export default function VatandasRehberArticle({
           Kısa cevap
         </p>
         <p className="text-[16px] sm:text-[17px] text-charcoal/85 leading-relaxed m-0">
-          {view.answer}
+          <RichText text={view.answer} />
         </p>
       </aside>
+
+      {article.keyInsight ? (
+        <p className="mb-10 rounded-xl border-l-4 border-accent bg-accent/[0.06] px-4 py-3 text-[15px] text-charcoal/85 leading-relaxed">
+          <RichText text={article.keyInsight} />
+        </p>
+      ) : null}
 
       {article.role === 'spoke' && article.pillar && (
         <p className="mb-8 text-sm text-charcoal/65">
@@ -174,9 +220,7 @@ export default function VatandasRehberArticle({
 
       {view.documents.length > 0 && (
         <section className="mb-12">
-          <h2 className="text-xl font-heading font-bold text-charcoal mb-4">
-            Yanınızda ne olsun?
-          </h2>
+          <ColorHeading index={1}>Yanınızda ne olsun?</ColorHeading>
           <ul className="m-0 p-0 list-none grid gap-2 sm:grid-cols-2">
             {view.documents.map((d) => (
               <li
@@ -190,15 +234,15 @@ export default function VatandasRehberArticle({
         </section>
       )}
 
-      {view.sections.map((sec) => (
+      {view.sections.map((sec, si) => (
         <section key={sec.heading} className="mb-10">
-          <h2 className="text-xl font-heading font-bold text-charcoal mb-4">{sec.heading}</h2>
+          <ColorHeading index={si + 2}>{sec.heading}</ColorHeading>
           {sec.paragraphs.map((p) => (
             <p
               key={p.slice(0, 48)}
               className="text-charcoal/75 leading-[1.75] mb-3.5 text-[15px] sm:text-[16px]"
             >
-              {p}
+              <RichText text={p} />
             </p>
           ))}
           {sec.bullets && sec.bullets.length > 0 && (
@@ -211,7 +255,9 @@ export default function VatandasRehberArticle({
                   <span className="text-accent font-bold shrink-0" aria-hidden>
                     ·
                   </span>
-                  <span>{b}</span>
+                  <span>
+                    <RichText text={b} />
+                  </span>
                 </li>
               ))}
             </ul>
@@ -221,9 +267,7 @@ export default function VatandasRehberArticle({
 
       {view.showTable && article.table && (
         <section className="mb-12 overflow-x-auto">
-          <h2 className="text-xl font-heading font-bold text-charcoal mb-4">
-            {article.table.caption}
-          </h2>
+          <ColorHeading index={6}>{article.table.caption}</ColorHeading>
           <table className="w-full min-w-[20rem] text-left text-sm border-collapse">
             <thead>
               <tr className="bg-primary text-cream">
@@ -257,7 +301,7 @@ export default function VatandasRehberArticle({
 
       {view.showChecklist && (
         <section className="mb-12">
-          <h2 className="text-xl font-heading font-bold text-charcoal mb-4">Kontrol listesi</h2>
+          <ColorHeading index={7}>Kontrol listesi</ColorHeading>
           <ul className="flex flex-col gap-2 m-0 p-0 list-none">
             {view.checklist.map((item, i) => (
               <li
@@ -276,9 +320,7 @@ export default function VatandasRehberArticle({
 
       {view.faq.length > 0 && (
         <section className="mb-12">
-          <h2 className="text-xl font-heading font-bold text-charcoal mb-5">
-            Sık sorulan sorular
-          </h2>
+          <ColorHeading index={8}>Sık sorulan sorular</ColorHeading>
           <div className="flex flex-col gap-3">
             {view.faq.map((f, i) => (
               <details
@@ -295,7 +337,7 @@ export default function VatandasRehberArticle({
                   </span>
                 </summary>
                 <p className="px-4 sm:px-5 pb-4 sm:pb-5 pl-14 text-charcoal/70 text-[15px] leading-relaxed m-0 -mt-1">
-                  {f.a}
+                  <RichText text={f.a} />
                 </p>
               </details>
             ))}
@@ -305,7 +347,7 @@ export default function VatandasRehberArticle({
 
       {calcLinks.length > 0 && (
         <section className="mb-10 rounded-2xl border border-primary/15 bg-primary/[0.04] p-5">
-          <h2 className="text-lg font-heading font-bold text-charcoal mb-2">Hesaplamak isterseniz</h2>
+          <ColorHeading index={9}>Hesaplamak isterseniz</ColorHeading>
           <ul className="flex flex-wrap gap-2 m-0 p-0 list-none">
             {calcLinks.map((c) => (
               <li key={c.id}>
@@ -323,7 +365,7 @@ export default function VatandasRehberArticle({
 
       {article.links.length > 0 && (
         <section className="mb-10">
-          <h2 className="text-lg font-heading font-bold text-charcoal mb-3">İlgili mevzuat</h2>
+          <ColorHeading index={10}>İlgili mevzuat</ColorHeading>
           <ul className="flex flex-wrap gap-2 m-0 p-0 list-none">
             {article.links.map((l) => (
               <li key={l.href}>
@@ -341,7 +383,7 @@ export default function VatandasRehberArticle({
 
       {related.length > 0 && (
         <section className="mb-10">
-          <h2 className="text-lg font-heading font-bold text-charcoal mb-3">Bunlar da işinize yarar</h2>
+          <ColorHeading index={11}>Bunlar da işinize yarar</ColorHeading>
           <ul className="flex flex-col gap-2 m-0 p-0 list-none">
             {related.slice(0, 5).map((r) => (
               <li key={r.slug}>

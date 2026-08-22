@@ -1,0 +1,111 @@
+{
+  "slug": "icra-vekalet-ucreti",
+  "title": "İcra dosyasında vekâlet ücreti — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İcra dosyasında vekâlet ücreti hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
+  "h1": "İcra dosyasında vekâlet ücreti",
+  "keywords": [
+    "icra vekalet ücreti",
+    "icra avukat ücreti"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "dava-harci-nedir",
+    "arabuluculuk-ucreti"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Tarife",
+      "href": "/tarife-guncellemeleri"
+    }
+  ],
+  "lead": "İcra dosyasında vekâlet ücreti, alacaklı ile borçlu arasındaki özel sözleşmeye bakılmaksızın icra memuru tarafından tarifeye göre hesaplanır. Bu ücret, doğrudan takip masraflarına dahil edilir ve tahsilat sürecinde öncelikli olarak ödenir.",
+  "keyInsight": "Vekâlet ücreti hesaplanırken taraflar arasındaki özel sözleşme hükümleri değil, doğrudan icra memurunun uygulayacağı resmi tarife esas alınır.",
+  "sections": [
+    {
+      "heading": "Alacağınızı tahsil ederken vekâlet ücreti nasıl hesaplanır?",
+      "paragraphs": [
+        "Borçlu kapınıza geldiğinde ya da mallarına haciz konulduğunda işleyen süreçte avukatla yapılan takiplerde ücretin nasıl bulunacağı kanunla belirlenmiştir. Alacaklı ve borçlu kendi aralarında farklı bir rakam kararlaştırmış olabilirler.",
+        "Ancak icra dairesi bu özel anlaşmaya bakmaz. **İcra memuru**, alacaklı ile borçlu arasındaki sözleşmeyi dikkate almadan avukatlık ücret tarifesine göre hesaplama yapar."
+      ],
+      "bullets": [
+        "Özel sözleşmeler icra veznesinde dikkate alınmaz.",
+        "Hesaplama doğrudan resmi tarifeye göre yapılır."
+      ]
+    },
+    {
+      "heading": "Paralar dağıtılırken vekâlet ücreti nereden ödenir?",
+      "paragraphs": [
+        "Haczedilen mallar tamamen satıldığında elde edilen bedel hak sahiplerine paylaştırılır. Malların bir kısmı satıldıysa yine duruma göre avans olarak dağıtım yapılır.",
+        "Bütün alacaklıları ilgilendiren haciz, paraya çevirme ve paylaştırma masrafları **önce satış tutarından** düşülür. Kalan para, takip masrafları ve vekâlet ücreti dahil edilerek alacaklar nispetinde paylaştırılır."
+      ],
+      "bullets": [
+        "Satış masrafları ilk sırada tahsil edilir.",
+        "Vekâlet ücreti takip masraflarına dahildir."
+      ]
+    },
+    {
+      "heading": "Haczedilen malların satışı ve paylaştırma sırası nedir?",
+      "paragraphs": [
+        "Dosya borcu ödenirken paranın hangi sırayla ödeneceği kurala bağlanmıştır. Herkes alacağını almadan önce ortak masraflar düşülür.",
+        "İşlemiş faizler ve takip masraflarıyla birlikte bu kalemler hesaplandıktan sonra kalan tutar dağıtılır. **Vekâlet ücreti** de bu takip masraflarının içerisinde yer alır ve sırasına göre ödeme görür."
+      ],
+      "bullets": [
+        "Ortak masraflar baştan kesilir.",
+        "Sıralama kanuni paylaştırma ölçüsüne göre yapılır."
+      ]
+    },
+    {
+      "heading": "Süreci yürütürken yanınızda hangi belgeler bulunmalıdır?",
+      "paragraphs": [
+        "İcra takibinde hak kaybı yaşamamak ve vekâlet ücretinin doğru hesaplanmasını sağlamak için dosyadaki evrakların eksiksiz olması şarttır. Memurle yapılan işlemlerde dayanak belgeler sunulmalıdır.",
+        "Takip talebi, ödeme emri ve masraf dökümleri dosyanın doğru ilerlemesini sağlar. **Eksik evrak** tespiti durumunda işlemler gecikebilir."
+      ],
+      "bullets": [
+        "Takip talebi dosyada hazır olmalıdır.",
+        "Masraf dökümleri net görülmelidir."
+      ]
+    }
+  ],
+  "steps": [
+    "İcra dosyasına ilişkin masraf ve vekâlet ücreti kalemlerini kontrol edin.",
+    "İcra memurunun resmi tarifeye göre yaptığı hesaplamayı inceleyin.",
+    "Satış tutarından yapılacak masraf indirimlerinin sırasını takip edin.",
+    "Ödeme ve paylaştırma aşamasında itirazınız varsa süresinde bildirin."
+  ],
+  "documents": [
+    "İcra takip talebi",
+    "Avukatlık ücret tarifesi",
+    "Satış ve paylaştırma cetveli",
+    "Masraf döküm listesi"
+  ],
+  "faq": [
+    {
+      "q": "Vekâlet ücretini kim belirler?",
+      "a": "İcra memuru, taraflar arasındaki sözleşmeye bakılmaksızın avukatlık ücret tarifesine göre hesaplar."
+    },
+    {
+      "q": "Vekâlet ücreti hangi masraflarla ödenir?",
+      "a": "Vekâlet ücreti takip masraflarına dahil edilir ve satış tutarından yapılan kesintilerle birlikte değerlendirilir."
+    },
+    {
+      "q": "Özel sözleşmemiz varsa icra bunu dikkate alır mı?",
+      "a": "Hayır, icra memuru sözleşmeye değil, resmi tarifeye göre işlem yapar."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Vekâlet ücreti",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "e-devlet-sgk-borcu",
+  "title": "e-Devlet SGK borcu — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "e-Devlet SGK borcu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
+  "h1": "e-Devlet SGK borcu",
+  "keywords": [
+    "e-devlet sgk borcu",
+    "e devlet sgk borcu"
+  ],
+  "category": "Sosyal Güvenlik",
+  "related": [
+    "bagkur-prim-borcu",
+    "genel-saglik-sigortasi",
+    "vergi-borcu-yapislandirma"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/bagkur-prim-borcu"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=SGK"
+    }
+  ],
+  "lead": "Bilgisayar ekranına baktığınızda karşınıza çıkan SGK borcu sizi korkutmasın. Önemli olan bu borcun hangi sigorta kolundan ve hangi kazanç oranından kaynaklandığını netleştirmektir.",
+  "keyInsight": "e-Devlet üzerinden görünen borçların hangi çalışma statüsüne ait olduğunu incelemeden ödeme adımına geçmeyin.",
+  "sections": [
+    {
+      "heading": "Borç ekranıyla karşılaştığınızda",
+      "paragraphs": [
+        "İşten ayrıldınız veya kendi adınıza çalışmaya başladınız. Bir sabah sisteme girdiğinizde karşınıza çıkan rakam sizi telaşlandırabilir. Asıl mesele, bu borcun hangi sigorta kolları ve prim oranları üzerinden hesaplandığını anlamaktır.",
+        "Kanun, çalışanların durumuna göre farklı oranlar öngörür. Hizmet akdiyle çalışanlar, bağımsız çalışanlar veya kamu görevlileri için **farklı prim kalemleri** işletilir. Ekrandaki rakamın detayına inmek bu yüzden şarttır."
+      ],
+      "bullets": [
+        "Prim oranları kazanca göre değişir",
+        "İşveren ve sigortalı hisseleri ayrışır"
+      ]
+    },
+    {
+      "heading": "Hangi statüde olduğunuzu nasıl bilirsiniz?",
+      "paragraphs": [
+        "Çalışma hayatınızın şekli borcunuzun türünü belirler. Bir işverene bağlı olarak çalışanlar ile kendi nam ve hesabına kazanç sağlayanlar aynı kurallara tabi değildir.",
+        "Şirket ortakları, esnaflar veya tarımsal faaliyette bulunanlar için **farklı bent hükümleri** uygulanır. e-Devlet dökümünüzde yer alan statü kodu, borcun dayanağını ele verir."
+      ],
+      "bullets": [
+        "Hizmet akdiyle çalışanlar (a bendi)",
+        "Bağımsız çalışanlar ve esnaflar (b bendi)",
+        "Kamu idaresinde çalışanlar (c bendi)"
+      ]
+    },
+    {
+      "heading": "Sağlık güvenceniz ve primler",
+      "paragraphs": [
+        "Prim borcu yalnızca emeklilik yatırımlarını değil, sağlık hizmetlerine erişiminizi de etkiler. Kısa ve uzun vadeli sigorta kolları için belirlenen oranlar sistemde topluca işlenir.",
+        "Sağlık hizmeti sunucularından yararlanırken borç durumunuz karşınıza çıkabilir. Kurumun belirlediği **sağlık sigortası primleri** düzenli ödenmediğinde hak kaybı yaşanabilir."
+      ],
+      "bullets": [
+        "Kısa vadeli sigorta kolları",
+        "Malûllük, yaşlılık ve ölüm sigortaları"
+      ]
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "Kurumla iletişime geçerken veya itiraz dilekçesi hazırlarken elinizde resmi evrak bulunmalıdır. Hizmet dökümü ve tescil belgeleri işinizi kolaylaştırır.",
+        "Hatalı bir prim oranına rastlarsanız, **resmi tescil belgeleri** ile Kurum'a başvurarak düzeltme talep edebilirsiniz."
+      ],
+      "bullets": [
+        "SGK tescil ve hizmet dökümü",
+        "Vergi mükellefiyet veya ortaklık belgeleri"
+      ]
+    }
+  ],
+  "steps": [
+    "e-Devlet kapısına giriş yaparak Sosyal Güvenlik Kurumu hizmet listesini açın.",
+    "Borç dökümünün ait olduğu sigorta kolunu ve madde kapsamını inceleyin.",
+    "Çalışma statünüze uygun prim oranlarının doğru yansıtılıp yansıtılmadığını kontrol edin.",
+    "Tereddüt ettiğiniz tutarlar için ilgili kurum birimine yazılı başvuru hazırlayın."
+  ],
+  "documents": [
+    "e-Devlet SGK tescil ve hizmet dökümü",
+    "Vergi levhası veya ilgili oda kayıt belgesi",
+    "İşten ayrılış bildirgesi veya hizmet sözleşmesi"
+  ],
+  "faq": [
+    {
+      "q": "e-Devlet'teki borç anında silinir mi?",
+      "a": "Ödeme yapıldıktan sonra sistemin güncellenmesi biraz zaman alabilir, dekontunuzu saklayın."
+    },
+    {
+      "q": "Borcun yanlış hesaplandığını düşünürsem ne yapmalıyım?",
+      "a": "Tescil belgelerinizle birlikte Sosyal Güvenlik Kurumu merkezine yazılı inceleme talebinde bulunun."
+    },
+    {
+      "q": "Sigorta kolum borcun miktarını etkiler mi?",
+      "a": "Evet, kısa ve uzun vadeli sigorta kolları için uygulanan oranlar birbirinden farklıdır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "bagkur-prim-borcu",
+  "angle": "e-Devlet SGK borcu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

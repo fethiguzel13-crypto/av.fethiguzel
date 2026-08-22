@@ -1,0 +1,111 @@
+{
+  "slug": "uluslararasi-koruma",
+  "title": "Uluslararası koruma — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Uluslararası koruma hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
+  "h1": "Uluslararası koruma",
+  "keywords": [
+    "uluslararası koruma",
+    "uluslararasi koruma"
+  ],
+  "category": "Yabancılar",
+  "related": [
+    "yabanci-ikamet-izni",
+    "sinir-disi-karari",
+    "idari-dava-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/yabanci-ikamet-izni"
+    },
+    {
+      "label": "YUKK",
+      "href": "/kategori/yukk"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Ülkenizde yaşadığınız baskı ve tehlike nedeniyle Türkiye'ye sığındığınızda, yasal güvenliğinizi sağlamak için uluslararası koruma başvurusunda bulunmanız gerekir. Bu süreç, sınırda veya ülke içinde yapacağınız münferit taleplerle başlar.",
+  "keyInsight": "Uluslararası koruma başvurusu, henüz hakkında son karar verilmemiş kişileri başvuru sahibi statüsünde korur.",
+  "sections": [
+    {
+      "heading": "Kapıdan içeri girdiğiniz an ne başlar?",
+      "paragraphs": [
+        "Sınır kapılarından ya da Türkiye topraklarından içeri adım attınız. Arkanızda bıraktığınız ülkede can güvenliğiniz kalmadı ve geri dönmeniz imkansız hale geldi. **Münferit koruma talebi** ile bu süreci başlatırsınız.",
+        "Bu talep, devletin sizi koruma mekanizmasına dahil etmesi için ilk adımdır. Henüz dosyanız hakkında kesin bir karar çıkmadığı için **başvuru sahibi** sıfatını taşırsınız."
+      ],
+      "bullets": [
+        "Sınırda veya ülke içinde talep",
+        "Henüz son karar verilmemiş durum"
+      ]
+    },
+    {
+      "heading": "Kimler bu korumanın kapsamındadır?",
+      "paragraphs": [
+        "Türkiye'de yabancılarla ilgili yürütülen tüm iş ve işlemler belirli yasal kurallara bağlıdır. Uluslararası koruma, kendi ülkesine geri dönemeyen kişilerin sığındığı temel şemsiyedir.",
+        "Bu koruma sadece sizi değil, aynı zamanda **aile üyelerinizi** de kapsar. Eşiniz, ergin olmayan çocuklarınız ve bağımlı ergin çocuklarınız bu statünün etki alanındadır."
+      ],
+      "bullets": [
+        "Münferit koruma talepleri",
+        "Kitlesel gelenler için geçici koruma"
+      ]
+    },
+    {
+      "heading": "Kim hangi tanıma girer?",
+      "paragraphs": [
+        "Kanun metninde geçen kavramlar haklarınızı belirler. On sekiz yaşını doldurmamış herkes **çocuk** kabul edilir ve bu durum özel koruma tedbirlerini tetikler.",
+        "Ayrıca başvuru sahipleri arasında dezavantajlı durumda olanlar, **özel ihtiyaç sahibi** olarak ayrıca değerlendirilir."
+      ],
+      "bullets": [
+        "18 yaş altı olma durumu",
+        "Özel ihtiyaç sahipliği"
+      ]
+    },
+    {
+      "heading": "Hangi kurumlar süreci yürütür?",
+      "paragraphs": [
+        "Başvurunuz alındıktan sonra ilgili idari birimler dosyanızı incelemeye başlar. İçişleri Bakanlığı ve bu konudaki yetkili makamlar süreci yönetir.",
+        "Türkiye'de yasal olarak kalabilmeniz için adres kayıt sistemindeki **ikamet adresi** bilginizin güncel olması ve bildirilmesi şarttır."
+      ],
+      "bullets": [
+        "İçişleri Bakanlığı koordinasyonu",
+        "Adres kayıt sistemine bildirim"
+      ]
+    }
+  ],
+  "steps": [
+    "Türkiye içine girdikten sonra yetkili makamlara uluslararası koruma talebinizi bildirin.",
+    "Kimlik ve kişisel bilgilerinizi eksiksiz olarak yetkililere beyan edin.",
+    "Türkiye'deki güncel ikamet adresinizi ilgili kuruma kaydedin.",
+    "Başvurunuzla ilgili kurum tarafından yapılacak çağrı ve mülakatları takip edin.",
+    "Dosyanız hakkında verilecek nihai kararı bekleyin."
+  ],
+  "documents": [
+    "Kimlik veya pasaport yerine geçecek belgeler",
+    "Varsa ülkenizdeki baskıyı gösteren deliller",
+    "İkamet adresini gösterir belge"
+  ],
+  "faq": [
+    {
+      "q": "Uluslararası koruma başvurusu nedir?",
+      "a": "Ülkesine geri dönemeyen ve zulüm veya tehlike nedeniyle Türkiye'ye sığınan yabancıların bireysel talepleri üzerine sağlanan yasal koruma statüsüdür."
+    },
+    {
+      "q": "Başvuru sürecinde statüm ne olur?",
+      "a": "Hakkınızda nihai karar verilene kadar resmi olarak başvuru sahibi olarak adledilirsiniz."
+    },
+    {
+      "q": "Ailem bu korumadan yararlanabilir mi?",
+      "a": "Eşiniz, ergin olmayan çocuklarınız ve bağımlı ergin çocuklarınız aile üyesi tanımı altında bu kapsamda değerlendirilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "yabanci-ikamet-izni",
+  "angle": "Uluslararası koruma",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

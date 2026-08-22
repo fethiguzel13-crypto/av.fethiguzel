@@ -1,0 +1,114 @@
+{
+  "slug": "dava-harci-nedir",
+  "title": "Dava harcı nedir? Nasıl hesaplanır — Vatandaş Rehberi | Av. Fethi Güze",
+  "description": "Dava harcı nedir? Nasıl hesaplanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
+  "h1": "Dava harcı nedir? Nasıl hesaplanır?",
+  "keywords": [
+    "dava harcı",
+    "gider avansı"
+  ],
+  "category": "Usul",
+  "related": [
+    "hukuk-davasi-nasil-acilir",
+    "idari-dava-nasil-acilir",
+    "arabuluculuk-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/hukuk-davasi-nasil-acilir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Hesaplama",
+      "href": "/hesaplama"
+    }
+  ],
+  "lead": "Mahkemeye başvururken ödemeniz gereken resmî bedeller, davanızın görülmesi için ilk adımdır. Eksik bırakılan ödemeler sürecin durmasına yol açabilir.",
+  "keyInsight": "Dava açılırken yatırılması gereken gider avansı ve harçlar, mahkeme kapısının açılması için zorunlu birer **dava şartıdır**.",
+  "sections": [
+    {
+      "heading": "Mahkeme kapısına varınca ne ödenir?",
+      "paragraphs": [
+        "Elinizde bir uyuşmazlıkla adliyeye girdiniz. Hâkimin önüne dosya koyabilmek için öncelikle başvurma ve peşin harçları yatırmanız beklenir. Bu ödemeler yapılmadan dosyanız resmiyet kazanamaz.",
+        "Sistemin düzgün çalışması ve tebligatların gitmesi için gereken **gider avansı** da bu aşamada ödenir. Sürecin en başında yapılan bu masraflar davanın temelini oluşturur."
+      ],
+      "bullets": [
+        "Başvuru harcı",
+        "Peşin harç",
+        "Gider avansı"
+      ]
+    },
+    {
+      "heading": "Hangi harç neye göre belirlenir?",
+      "paragraphs": [
+        "Davanızın türü ödenecek paranın miktarını doğrudan etkiler. Parasal değeri olmayan uyuşmazlıklarda maktu tutarlar geçerlidir. Alacak gibi parasal değeri olan işlerde ise **nispi** oranlar devreye girer.",
+        "Yanlış veya eksik hesaplanan tutarlar karşınıza sonradan engel olarak çıkar. Islah yoluyla talebinizi artırırsanız, ek harç yatırmanız istenir."
+      ],
+      "bullets": [
+        "Maktu harç",
+        "Nispi harç",
+        "Islahla artan tutarlar"
+      ]
+    },
+    {
+      "heading": "Dürüstlük kuralı ve harç cezaları",
+      "paragraphs": [
+        "Mahkemeyi gereksiz yere meşgul etmek veya süreci bilerek uzatmak masraf faturasını kabartır. Davayı kazansanız bile bu tür davranışlar **yargılama giderlerini** sizin sırtınıza bırakabilir.",
+        "Yanlış sıfatla dava açılmasına yol açanlar, yargılama giderlerinden mahrum kalır. Usulsüzlükler hem maddi külfet hem de hukuki sorumluluk doğurur."
+      ],
+      "bullets": [
+        "Gereksiz uzatma cezası",
+        "Sıfat yanılgısı giderleri"
+      ]
+    },
+    {
+      "heading": "Avukat ve vekâletname masrafları",
+      "paragraphs": [
+        "Davanızı bir avukat aracılığıyla yürütüyorsanız, vekâletnamenin zamanında sunulması şarttır. Onaylı belge dosyaya girmezse yapılan işlemler geçersiz sayılabilir.",
+        "Haklı bir mazeret olmaksızın süresinde vekâletname sunmayan avukat, celse harcı ve **karşı tarafın zararını** ödemek zorunda kalabilir."
+      ],
+      "bullets": [
+        "Vekâletname ibrazı",
+        "Celse harcı riski"
+      ]
+    }
+  ],
+  "steps": [
+    "Davanın konusunu ve türünü belirleyin.",
+    "Harç miktarını maktu veya nispi olarak hesaplayın.",
+    "Başvuru harcı, peşin harç ve gider avansını yatırın.",
+    "Eksik ödeme bildirimi yapılırsa süresinde tamamlayın.",
+    "Adli yardım talebiniz varsa gerekli belgeleri hazırlayın."
+  ],
+  "documents": [
+    "harç makbuzu",
+    "dava dilekçesi",
+    "gider avansı makbuzu",
+    "adli yardım evrakı"
+  ],
+  "faq": [
+    {
+      "q": "Gider avansı yatırılmazsa ne olur?",
+      "a": "Gider avansı kanuni bir dava şartıdır; süresinde yatırılmayan dosyalar ilerlemez."
+    },
+    {
+      "q": "Harcı sonradan geri alabilir miyim?",
+      "a": "Davayı kazanmanız hâlinde yargılama giderleri ve harçlar karşı taraftan tahsil edilerek size ödenir."
+    },
+    {
+      "q": "Vekâletname gecikirse ne olur?",
+      "a": "Mahkemenin verdiği kesin süre içinde vekâletname sunulmazsa dava açılmamış sayılabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "hukuk-davasi-nasil-acilir",
+  "angle": "Harç",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

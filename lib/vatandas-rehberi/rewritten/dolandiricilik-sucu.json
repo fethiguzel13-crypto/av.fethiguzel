@@ -1,0 +1,111 @@
+{
+  "slug": "dolandiricilik-sucu",
+  "title": "Dolandırıcılık şikâyeti nasıl yapılır — Vatandaş Rehberi | Av. Fethi G",
+  "description": "Dolandırıcılık şikâyeti nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
+  "h1": "Dolandırıcılık şikâyeti nasıl yapılır?",
+  "keywords": [
+    "dolandırıcılık suçu",
+    "internet dolandırıcılığı şikayet"
+  ],
+  "category": "Ceza",
+  "related": [
+    "savcilik-suc-duyurusu",
+    "ceza-sorusturmasi-sureci",
+    "kredi-karti-itiraz"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/savcilik-suc-duyurusu"
+    },
+    {
+      "label": "TCK",
+      "href": "/kategori/tck-malvarligi"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    }
+  ],
+  "lead": "Ekranınızda bilmediğiniz bir borç bildirimi belirdi veya internetten aldığınız ürün yerine kutudan taş çıktı. Bu durumda hemen savcılığa giderek şikayet dilekçesi vermeniz gerekir.",
+  "keyInsight": "Suçun bilişim sistemleri veya banka araç olarak kullanılmak suretiyle işlenmesi halinde cezanın alt sınırı ve adli para cezası katlanarak artar.",
+  "sections": [
+    {
+      "heading": "Dolandırıcılık nasıl anlaşılır ve ne zaman hak doğar?",
+      "paragraphs": [
+        "Birisi sizi hileli hareketlerle aldatıp iradenizi sakatlayarak kendisi veya başkası lehine haksız bir menfaat temin ettiğinde dolandırıcılık suçu işlenmiş olur. Olayın niteliği ve işleniş biçimi suçun cezasını doğrudan belirler.",
+        "Özellikle **bilişim sistemlerinin araç olarak kullanılması** veya failin kendisini kamu görevlisi ya da banka çalışanı olarak tanıtması hallerinde kanun çok daha ağır cezalar öngörür."
+      ],
+      "bullets": [
+        "Hileli hareketlerle aldatılma",
+        "Haksız bir menfaat sağlanması"
+      ]
+    },
+    {
+      "heading": "Şikayet süreci ve uzlaştırma yolu nasıl işletilir?",
+      "paragraphs": [
+        "Dolandırıcılık suçu bakımından soruşturma aşamasında **uzlaştırma bürosu** devreye girer. Tarafların uzlaşması durumunda dosya kapanabilir ancak uzlaşma sağlanamazsa soruşturma normal akışında devam eder.",
+        "Suçun işlendiğini öğrendiğiniz anda vakit kaybetmeden yetkili mercilere başvurarak adli sürecin başlatılmasını sağlamalısınız."
+      ],
+      "bullets": [
+        "Dosyanın uzlaştırma bürosuna gitmesi",
+        "Tarafların anlaşma veya anlaşmama iradesi"
+      ]
+    },
+    {
+      "heading": "Zararın giderilmesi cezayı nasıl etkiler?",
+      "paragraphs": [
+        "Fail, hakkında kovuşturma başlamadan önce pişmanlık gösterip mağdurun uğradığı zararı tamamen karşılarsa, verilecek cezada ciddi indirimler uygulanabilir.",
+        "Zararın soruşturma tamamlandıktan sonra veya hüküm verilmeden önce giderilmesi de **etkin pişmanlık** hükümleri çerçevesinde ceza indirimi sağlar."
+      ],
+      "bullets": [
+        "Zararın aynen geri verilmesi",
+        "Tazmin suretiyle giderilmesi"
+      ]
+    },
+    {
+      "heading": "Yanınızda hangi deliller bulunmalıdır?",
+      "paragraphs": [
+        "Savcılığa başvururken elinizdeki bütün dijital ve yazılı materyalleri dosyaya sunmanız şarttır. Banka dekontları, yazışmalar ve ekran görüntüleri delil niteliği taşır.",
+        "Eksik belge ile yapılan başvurular sürecin uzamasına yol açabilir, bu yüzden **tüm yazışmaları** eksiksiz şekilde dosyaya ekleyin."
+      ],
+      "bullets": [
+        "Banka dekontları ve hesap hareketleri",
+        "Mesajlaşma ve e-posta kayıtları"
+      ]
+    }
+  ],
+  "steps": [
+    "Olayı ve zararı anlatan bir dilekçe hazırlayın.",
+    "Banka dekontları ve mesaj ekran görüntülerini toplayın.",
+    "Cumhuriyet Başsavcılığına şikayet başvurusunda bulunun.",
+    "Uzlaşma teklifi gelirse büroda görüşmelere katılın."
+  ],
+  "documents": [
+    "Şikayet dilekçesi",
+    "Banka dekontu veya EFT/havale fişi",
+    "Mesaj, e-posta ve ekran görüntüleri",
+    "Kimlik fotokopisi"
+  ],
+  "faq": [
+    {
+      "q": "İnternet dolandırıcılığında nereye başvurulmalıdır?",
+      "a": "Cumhuriyet Başsavcılığına giderek suç duyurusunda bulunabilirsiniz."
+    },
+    {
+      "q": "Zararım sonradan ödenirse ceza kalkar mı?",
+      "a": "Zararın tamamen giderilmesi durumunda etkin pişmanlık hükümleri uygulanarak cezada indirim yapılır."
+    },
+    {
+      "q": "Her dolandırıcılık dosyası uzlaşmaya tabi midir?",
+      "a": "Dolandırıcılık suçları kanunen uzlaştırma kapsamındadır ve süreç bu büro üzerinden yürütülür."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "savcilik-suc-duyurusu",
+  "angle": "Dolandırıcılık",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "ticari-isletme-nedir",
+  "title": "Ticari işletme — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Ticari işletme hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata da…",
+  "h1": "Ticari işletme",
+  "keywords": [
+    "ticari işletme",
+    "ticari isletme nedir"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "sirket-kurulusu",
+    "iflas-nedir",
+    "icra-takibi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/sirket-kurulusu"
+    },
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-isletme"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Ticari işletme, esnaf sınırını aşan düzeyde gelir sağlamayı hedefleyen ve faaliyetlerini sürekli ve bağımsız şekilde yürüten yapılardır. Bir işletmenin ticari nitelik kazanması, tabi olacağı kanunları, borç ilişkilerini ve uyuşmazlık durumunda uygulanacak kuralları doğrudan belirler.",
+  "keyInsight": "Bir işletmenin ticari nitelikte olup olmadığını belirleyen en temel eşik, faaliyetlerin esnaf sınırını aşacak büyüklükte ve sürekli bir gelir hedefiyle yürütülmesidir.",
+  "sections": [
+    {
+      "heading": "Hangi kurallar ve kanunlar uygulanır?",
+      "paragraphs": [
+        "Bir dükkan açtınız veya bir ortaklığa adım attınız. Karşılaşacağınız uyuşmazlıklarda hangi kuralların uygulanacağı, işletmenizin niteliğine göre değişir. Türk Ticaret Kanunu, Medeni Kanun'un ayrılmaz bir parçasıdır ve ticari işletmeyi ilgilendiren her türlü işlem ve fiile öncelikle ticari hükümler uygulanır.",
+        "Eğer karşılaştığınız hukuki uyuşmazlık hakkında doğrudan bir ticari hüküm bulunmuyorsa, mahkeme sırasıyla **ticari örf ve adete** bakar. Eğer orada da bir çözüm yoksa, genel hükümler çerçevesinde karar verilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Acenteler ve işletme ilişkileri nasıl kurulur?",
+      "paragraphs": [
+        "İşletmenizin faaliyetlerini büyütmek için dışarıdan destek alabilirsiniz. Bir sözleşmeye dayanarak, belirli bir bölge içinde sürekli olarak işletmenizi ilgilendiren sözleşmelere aracılık eden veya bunları sizin adınıza yapan bağımsız kişilere acente denir.",
+        "Yazılı olarak aksini kararlaştırmadığınız sürece, aynı bölgede aynı ticaret dalı için **birden fazla acente** atayamazsınız. Aynı şekilde, acente de aynı yerde birbiriyle rekabet halinde olan farklı işletmeler adına faaliyet gösteremez."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Çek kullanımında ve işlemlerde ceza riskleri nelerdir?",
+      "paragraphs": [
+        "Ticari hayatta ödemelerin aksamaması ve güvenliği için çek kullanımı sıkı kurallara bağlanmıştır. Tacir olmayan bir kişinin çek defterini kendi ticari işletmesiyle ilgili işlerde kullanan veya kullandıran kişiler için **hapis cezası** öngörülmüştür.",
+        "Bankaların da bu süreçte sorumluluğu büyüktür. Hakkında çek hesabı açma yasağı bulunan bir kişiye çek defteri veren banka görevlileri ile karşılığı olan çeki ödemeyen yetkililer hakkında adli para ve hapis cezaları uygulanır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Esnaf işletmesinden farkı nedir?",
+      "paragraphs": [
+        "Her gelir getiren faaliyet ticari işletme sayılmaz. Esnaf işletmeleri, ticari işletmeler için öngörülen birçok ağır yükümlülüğün ve kuralın dışında tutulmuştur.",
+        "Kartvizitinizde veya tabelanızda ticaret unvanı kullanmanız tek başına işletmenizi ticari yapmaz; faaliyetin hacmi ve esnaf sınırının aşılıp aşılmadığı esas alınır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Yürüttüğünüz faaliyetin esnaf sınırının üzerinde bir hacme sahip olup olmadığını kontrol edin.",
+    "İşletmenizin ticaret siciline tescilini ve ilgili odaya kaydını gerçekleştirin.",
+    "İşletmeniz için kullanacağınız ticaret unvanını ve işletme adını belirleyerek tescil ettirin.",
+    "İşletmeyi devretmek istediğinizde devir sözleşmesini noter huzurunda yapın ve sicile tescil ettirin.",
+    "Ticari defterlerinizi kanuna uygun şekilde tutun ve onaylatın."
+  ],
+  "documents": [
+    "Ticaret sicil gazetesi örneği",
+    "Oda kayıt belgesi",
+    "Noter onaylı devir sözleşmesi",
+    "Ticari defterler ve açılış onayları",
+    "İmza sirküleri"
+  ],
+  "faq": [
+    {
+      "q": "Ticari işletme ile esnaf arasındaki fark nedir?",
+      "a": "Esnaf işletmesi daha dar kapsamlı, bedeni çalışmaya dayanan ve belirli bir kazanç sınırının altında kalan faaliyetleri kapsar. Ticari işletme ise esnaf sınırını aşan, sermaye ve sürekli gelir hedefiyle yürütülen organizasyonlardır."
+    },
+    {
+      "q": "Acentelik sözleşmesinde bölge tekeli zorunlu mudur?",
+      "a": "Yazılı olarak aksini kararlaştırmadığınız sürece tekel zorunludur. Sözleşmede açıkça belirtilmedikçe aynı bölgede aynı alanda başka bir acente görevlendiremezsiniz."
+    },
+    {
+      "q": "Başkasına ait çek defterini ticari işlerde kullanmak suç mudur?",
+      "a": "Evet, tacir olmayan bir kişinin çek defterini ticari işletmenin işlerinde kullanan veya düzenleten kişiler hakkında kanunda altı aydan iki yıla kadar hapis cezası öngörülmüştür."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "sirket-kurulusu",
+  "angle": "Ticari işletme",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "prim-iadesi-sgk",
+  "title": "SGK prim iadesi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "SGK prim iadesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
+  "h1": "SGK prim iadesi",
+  "keywords": [
+    "sgk prim iadesi",
+    "prim iadesi sgk"
+  ],
+  "category": "Sosyal Güvenlik",
+  "related": [
+    "bagkur-prim-borcu",
+    "sgk-hizmet-dokumu",
+    "emeklilik-sartlari"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/bagkur-prim-borcu"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=prim"
+    }
+  ],
+  "lead": "SGK prim iadesi, yersiz veya fazla yatırılan primlerin geri alınması sürecidir. Bu işlem, hatalı ödemelerin düzeltilmesi için Sosyal Güvenlik Kurumu'na yapılan bir başvuruyu ifade eder.",
+  "keyInsight": "Prim iadesi alabilmek için ödemenin sehven veya yersiz yapıldığının kurum kayıtlarıyla net bir şekilde doğrulanması şarttır.",
+  "sections": [
+    {
+      "heading": "Prim iadesi ne zaman gündeme gelir?",
+      "paragraphs": [
+        "İş hayatında bazen hesaplama hataları olur. Eğer bir çalışan için gerekenden fazla prim yatırıldıysa veya hiç yatırılmaması gereken bir dönem için ödeme yapıldıysa, bu durum bir alacak doğurur.",
+        "Süreç, Kurumun kayıtlarında görünen fazla tutarın tespitiyle başlar. **Yersiz ödenen tutarlar** için yapılan başvurular, kurumun incelemesi sonucunda netleşir."
+      ],
+      "bullets": [
+        "Yanlışlıkla fazla yatırılan primler",
+        "İptal edilen veya düzeltilen beyannameler",
+        "Mükerrer ödemeler"
+      ]
+    },
+    {
+      "heading": "Başvuru süreci nasıl işler?",
+      "paragraphs": [
+        "İade işlemleri için öncelikle kuruma yazılı bir talepte bulunmanız gerekir. Bu başvuru, ödemenin yapıldığı iş yerinin bağlı olduğu SGK müdürlüğüne yapılır.",
+        "Kurum, kayıtları inceleyerek başvurunuzu değerlendirir. **İade talebi** uygun görüldüğünde, ilgili tutar kurum tarafından hesaplanır ve işlemler başlatılır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İnceleme aşamasında neye bakılır?",
+      "paragraphs": [
+        "Kurum, ödemenin gerçekten yersiz olup olmadığını kontrol eder. Eğer beyannamelerinizle ödemeleriniz arasında bir uyumsuzluk varsa, bu durum düzeltme beyannamesi ile giderilir.",
+        "İnceleme sırasında, işveren vekili veya muhasebecinizin kayıtlarının doğruluğu büyük önem taşır. Hatalı beyanlar, iade sürecini zorlaştırabilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Sonuç nasıl bildirilir?",
+      "paragraphs": [
+        "Başvurunuzun sonucu, kurum tarafından resmi yazıyla tarafınıza bildirilir. İade onaylandığında, belirlenen tutar kayıtlı banka hesabınıza aktarılır.",
+        "Eksik veya hatalı bir evrak varsa, kurum sizden ek bilgi talep edebilir. Bu durumda süreci takip etmek, işlemin hızlanmasını sağlar."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İş yerinizin bağlı olduğu SGK müdürlüğünü tespit edin.",
+    "Yersiz ödemeyi kanıtlayan belgeleri hazırlayın.",
+    "Kuruma hitaben yazılmış iade talep dilekçesini oluşturun.",
+    "Dilekçenizi evrak kayıt birimine teslim edin.",
+    "Kurumun inceleme sürecini resmi kanallardan takip edin."
+  ],
+  "documents": [
+    "İade talep dilekçesi",
+    "Prim ödemesini gösteren banka dekontları",
+    "Düzeltme beyannamesi örneği",
+    "İş yeri sicil numarasını gösteren belge"
+  ],
+  "faq": [
+    {
+      "q": "Herkes prim iadesi alabilir mi?",
+      "a": "Hayır, iade sadece yersiz veya fazla prim ödenmiş olması durumunda mümkündür."
+    },
+    {
+      "q": "Başvuru için bir süre sınırı var mı?",
+      "a": "İşlemlerin zamanında yapılması için hatalı durumu fark ettiğiniz an başvurmanız yararınıza olur."
+    },
+    {
+      "q": "İade süreci ne kadar sürer?",
+      "a": "Kurumun inceleme yoğunluğuna ve dosyanızdaki eksikliklerin durumuna göre değişiklik gösterir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "bagkur-prim-borcu",
+  "angle": "SGK prim iadesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

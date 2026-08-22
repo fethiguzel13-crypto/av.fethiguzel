@@ -1,0 +1,112 @@
+{
+  "slug": "dava-acilmasi-sartlari",
+  "title": "Dava açmak için ne gerekir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Dava açmak için ne gerekir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
+  "h1": "Dava açmak için ne gerekir?",
+  "keywords": [
+    "dava açma şartları",
+    "hukuki yarar"
+  ],
+  "category": "Usul",
+  "related": [
+    "hukuk-davasi-nasil-acilir",
+    "dava-harci-nedir",
+    "arabuluculuk-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/hukuk-davasi-nasil-acilir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Mahkemenin kapısını çaldığınızda, davanızın esasına geçilmeden önce yerine getirilmesi gereken temel usul kuralları bulunur. Bu kurallar eksik olduğunda dosyanız henüzin başlangıcında incelenmeden reddedilebilir.",
+  "keyInsight": "Dava açmak için **hukuki yarar** bulunması şarttır; yani mahkemeden koruma isteyecek somut ve güncel bir menfaatiniz olmalıdır.",
+  "sections": [
+    {
+      "heading": "Hangi kapıyı çalmalısınız?",
+      "paragraphs": [
+        "Bir uyuşmazlığı mahkemeye taşımadan önce Türk mahkemelerinin bu uyuşmazlığı çözmeye yetkili ve görevli olup olmadığına bakılır. Her mahkemenin bakabileceği konular kanunla ayrı ayrı belirlenmiştir.",
+        "Ayrıca davanın **doğru yerde** açılması gerekir. Yetkinin kesin olduğu hâllerde, mahkemenin yetkili bulunması dava şartları arasında yer alır."
+      ],
+      "bullets": [
+        "Türk mahkemelerinin yargı hakkı",
+        "Görevli ve yetkili mahkeme tespiti"
+      ]
+    },
+    {
+      "heading": "Taraflar ve yetki durumu",
+      "paragraphs": [
+        "Mahkemeye başvuracak kişilerin taraf ve dava ehliyetine sahip olması aranır. Eğer süreci bir vekil aracılığıyla yürütüyorsanız, **usulüne uygun düzenlenmiş vekâletname** sunulması zorunludur.",
+        "Ayrıca aynı davanın daha önceden açılmamış ve hâlen görülmüyor olması ya da daha önce kesin hükme bağlanmamış olması gerekir."
+      ],
+      "bullets": [
+        "Taraf ve dava ehliyeti",
+        "Vekâletname ibrazı"
+      ]
+    },
+    {
+      "heading": "Masraflar ve teminatlar",
+      "paragraphs": [
+        "Dava açılırken mahkeme veznesine yatırılması gereken **gider avansının** eksiksiz yatırılmış olması şarttır. Avans yatırılmadığı sürece işlemler ilerlemez.",
+        "Eğer kanunen teminat gösterilmesine karar verilmişse, bu kararın gereğinin de eksiksiz yerine getirilmesi beklenir."
+      ],
+      "bullets": [
+        "Gider avansı yatırma",
+        "Teminat kararlarını uygulama"
+      ]
+    },
+    {
+      "heading": "Ön inceleme aşamasında ne olur?",
+      "paragraphs": [
+        "Hâkim, ön inceleme duruşmasında dava şartları ve ilk itirazlar hakkında karar verebilmek için gerekli görürse tarafları dinler. Tarafların iddia ve savunmaları çerçevesinde anlaştıkları ve anlaşamadıkları hususlar tek tek tespit edilir.",
+        "Bu aşamada hâkim, tarafları sulh ve arabuluculuğun esasları hakkında aydınlatarak teşvik eder. Dilekçelerde gösterilen belgelerin süresinde sunulması dosyanın ilerleyişi bakımından kritik önem taşır."
+      ],
+      "bullets": [
+        "Ön inceleme duruşması",
+        "Anlaşılan ve anlaşılmayan hususların tespiti"
+      ]
+    }
+  ],
+  "steps": [
+    "Uyuşmazlığın çözüm yeri için görevli ve yetkili mahkemeyi belirleyin.",
+    "Taraf ehliyetinizi ve vekil aracılığıyla iş yürütüyorsanız vekâletnamenizi hazırlayın.",
+    "Dava açmakta hukuki yararınızın bulunduğundan emin olun.",
+    "Mahkeme veznesine yatırılması gereken gider avansını ödeyin.",
+    "Dilekçenizde belirttiğiniz belgeleri dosyaya sunun."
+  ],
+  "documents": [
+    "Dava dilekçesi",
+    "Usulüne uygun düzenlenmiş vekâletname",
+    "Gider avansı makbuzu",
+    "Delil ve belgeler"
+  ],
+  "faq": [
+    {
+      "q": "Hukuki yarar yoksa ne olur?",
+      "a": "Davacının dava açmakta hukuki yararı bulunmaması durumunda dava şartı yokluğundan ret kararı verilebilir."
+    },
+    {
+      "q": "Gider avansı yatırılmazsa ne olur?",
+      "a": "Davacının yatırması gereken gider avansının yatırılmış olması dava şartıdır; eksiklik tamamlanmazsa dava ilerlemez."
+    },
+    {
+      "q": "Ön inceleme duruşmasında ne yapılır?",
+      "a": "Hâkim dava şartlarını inceler, tarafların anlaştığı ve anlaşamadığı hususları tespit eder ve sulhe teşvik eder."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "hukuk-davasi-nasil-acilir",
+  "angle": "Dava şartları",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

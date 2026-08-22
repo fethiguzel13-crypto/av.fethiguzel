@@ -1,0 +1,113 @@
+{
+  "slug": "sorusturma-gizliligi",
+  "title": "Soruşturma gizliliği — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Soruşturma gizliliği hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
+  "h1": "Soruşturma gizliliği",
+  "keywords": [
+    "soruşturma gizliliği",
+    "sorusturma gizliligi"
+  ],
+  "category": "Ceza",
+  "related": [
+    "tutuklama-nedir",
+    "ceza-sorusturmasi-sureci",
+    "mudafi-hakki",
+    "bilgi-edinme-basvurusu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tutuklama-nedir"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=soru%C5%9Fturma"
+    }
+  ],
+  "lead": "Kapınıza gelen bir polis tebligatı veya telefonla karakola çağrılma anı, insanı aniden bir telaş sarmasına yeter. Savcılıktaki dosyanızın neden gizli tutulduğunu ve bu sır perdesinin haklarınızı nasıl koruduğunu anladığınızda paniğiniz yerini soğukkanlılığa bırakacaktır.",
+  "keyInsight": "Soruşturma evresindeki işlemlerin gizli olması, savunma hakkınızı kısıtlamak için değil, maddi gerçeğin ortaya çıkmasını ve özel hayatınızın lekelenmeme hakkını korumak için konulmuştur.",
+  "sections": [
+    {
+      "heading": "Soruşturma Neden Sır Gibi Saklanır?",
+      "paragraphs": [
+        "Dosyada ne yazdığını merak edip öğrenmek istemeniz en doğal hakkınızdır. Ancak savcılık aşamasında yürütülen işlemler, delillerin karartılmaması ve gerçeğin gün yüzüne çıkması için dış dünyaya kapatılır.",
+        "Kanun, savunma haklarınıza zarar vermemek ve başka hükümler saklı kalmak koşuluyla bu **gizlilik kuralını** açıkça emreder. Amaç, soruşturmanın selametini tehlikeye atacak dış müdahaleleri baştan önlemektir."
+      ],
+      "bullets": [
+        "Delillerin karartılmasını önler.",
+        "Özel hayatın gizliliğini korur."
+      ]
+    },
+    {
+      "heading": "Gizlilik Kuralını Kimler Deliyor?",
+      "paragraphs": [
+        "Dosyadaki bilgileri dışarıya taşımak veya alenen yayınlamak ciddi bir suç teşkil eder. Özellikle soruşturma evresindeki işlemlerin içeriğini açıklayarak kişilerin suçlu sayılmama hakkını zedelemek ceza sorumluluğu doğurur.",
+        "Bu ihlalin bir de kamu görevlileri tarafından görevinin sağladığı kolaylıkla işlenmesi **durumu vardır** ki, bu halde verilecek ceza yarı oranına kadar artırılır. Haber verme sınırlarını aşan her türlü sızdırma hukuki takibata uğrar."
+      ],
+      "bullets": [
+        "Aleni açıklama yapmak suçtur.",
+        "Kamu görevlisi olunca ceza artar."
+      ]
+    },
+    {
+      "heading": "Hassas Dosyalarda Özel Koruma Var Mı?",
+      "paragraphs": [
+        "Cinsel dokunulmazlığa karşı işlenen suçlar veya çocukların mağdur olduğu olaylarda süreç çok daha titiz yürütülür. Mağdurun örselenmemesi için beyanlar özel odalarda ve uzmanlar eşliğinde kayıt altına alınır.",
+        "Bu şekilde elde edilen görüntü ve beyanlar doğrudan dava dosyasında saklanır, kimseye verilmez ve **gizliliğin korunması** için her türlü ek tedbir alınır. Amaç hem adaleti sağlamak hem de mağdurun psikolojisini korumaktır."
+      ],
+      "bullets": [
+        "Uzman eşliğinde ifade alınır.",
+        "Kayıtlar kimseye verilmez."
+      ]
+    },
+    {
+      "heading": "Haber Verme Sınırları Nerede Başlar?",
+      "paragraphs": [
+        "Basının veya vatandaşların olayları öğrenme ve aktarma hakkı demokratik düzenin bir parçasıdır. Ancak bu hak, soruşturma işlemlerinin haber verme sınırları içinde kalması şartına bağlıdır.",
+        "Sınırlar aşılıp kişileri peşinen suçlu gösteren yayınlar yapıldığında, **hukuki yaptırım** devreye girer. Habercilik özgürlüğü ile masumiyet karinesi arasındaki denge bu noktada büyük önem taşır."
+      ],
+      "bullets": [
+        "Haber sınırları aşılmamalıdır.",
+        "Masumiyet karinesi esastır."
+      ]
+    }
+  ],
+  "steps": [
+    "Savcılık veya emniyet çağrısına uyun ve ifade hazırlığınızı yapın.",
+    "Dosyadaki kısıtlılık kararlarını ve gizlilik sınırlarını avukatınızla birlikte öğrenin.",
+    "Soruşturma içeriğini dışarıya taşımaktan ve sosyal medyada paylaşmaktan kesinlikle kaçının.",
+    "Özel nitelikli dosyalarda uzman eşliğinde ifade verme hakkınızı kullanın.",
+    "Hak ihlali veya gizlilik sızdırma durumunda hukuki yollara başvurun."
+  ],
+  "documents": [
+    "Savcılık tebligat veya davetiyesi",
+    "Vekaletname",
+    "Kimlik belgesi",
+    "Varsa ilgili dilekçe ve delil listesi"
+  ],
+  "faq": [
+    {
+      "q": "Soruşturmanın gizliliği ne anlama gelir?",
+      "a": "Savcılık aşamasındaki delil toplama ve usul işlemlerinin dışarıya kapalı yürütülmesi demektir."
+    },
+    {
+      "q": "Dosyadaki bilgileri basına anlatmak suç mu?",
+      "a": "Evet, soruşturmanın gizliliğini alenen ihlal etmek ve maddi gerçeğin ortaya çıkmasını engellemek hapis veya para cezası gerektirir."
+    },
+    {
+      "q": "Mağdur çocukların ifadeleri nasıl alınır?",
+      "a": "Bu ifadeler özel ortamlarda, savcı nezaretinde uzmanlar aracılığıyla ve kayıt altına alınarak alınır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tutuklama-nedir",
+  "angle": "Soruşturma gizliliği",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

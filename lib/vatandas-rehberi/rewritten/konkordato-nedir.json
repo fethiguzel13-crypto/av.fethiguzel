@@ -1,0 +1,113 @@
+{
+  "slug": "konkordato-nedir",
+  "title": "Konkordato nedir? Kimler başvurur — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Konkordato nedir? Kimler başvurur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
+  "h1": "Konkordato nedir? Kimler başvurur?",
+  "keywords": [
+    "konkordato nedir",
+    "konkordato mühleti"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "iflas-nedir",
+    "sirket-kurulusu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-sirketler"
+    }
+  ],
+  "lead": "Şirketiniz borçlarını ödeyemez duruma geldiğinde, mahkeme koruması altında borçları yeniden yapılandırma yoluna konkordato denir.",
+  "keyInsight": "Mahkemenin verdiği mühlet sürelerini ve belge hazırlama zorunluluğunu kaçırırsanız tüm süreç reddedilir.",
+  "sections": [
+    {
+      "heading": "Konkordato nedir ve kimler başvurabilir?",
+      "paragraphs": [
+        "Fabrikanın lambaları yanıyor ama borçlar dağ gibi yığıldı. Alacaklılar kapıya dayanmak üzereyken borçlu şirket veya kişi mahkemenin kapısını çalar.",
+        "Amaç borçları ödememek değil, **nefes alacak** bir zaman kazanmaktır. Borçlu ya da alacaklılardan biri bu süreci başlatabilir."
+      ],
+      "bullets": [
+        "Borçlarını ödeyemeyenler",
+        "Borçlarını ödeyememe tehlikesi bulunanlar",
+        "Alacaklılar"
+      ]
+    },
+    {
+      "heading": "Geçici mühlet nasıl başlar?",
+      "paragraphs": [
+        "Mahkemeye gerekli belgeler eksiksiz sunulduğunda hakim derhal **geçici mühlet** kararı verir. Bu aşamada malvarlığını korumak için tedbirler alınır.",
+        "Sürecin başarılı olup olmayacağını incelemek üzere mahkeme bir veya gerektiğinde üç konkordato komiseri görevlendirir."
+      ],
+      "bullets": [
+        "Belgelerin eksiksiz verilmesi şarttır",
+        "Bağımsız denetçi komiser olarak atanabilir"
+      ]
+    },
+    {
+      "heading": "İlan ve itiraz süreci nasıl işler?",
+      "paragraphs": [
+        "Geçici mühlet kararı ticaret sicili gazetesinde ve ilgili portalda ilan edilir. Vergi dairesinden bankalara kadar pek çok kurum durumdan haberdar edilir.",
+        "Alacaklılar ilandan sonra **yedi günlük** kesin süre içinde dilekçeyle itiraz edebilir."
+      ],
+      "bullets": [
+        "İtirazlar delilleriyle birlikte sunulur",
+        "Reddedilme talepleri bu sürede yapılır"
+      ]
+    },
+    {
+      "heading": "Kesin mühlet kararı ne anlama gelir?",
+      "paragraphs": [
+        "Geçici mühlet süresi içinde mahkeme tarafları duruşmaya çağırır. Komiser raporunu sunar ve hakim duruşmada değerlendirme yapar.",
+        "Konkordatonun başarıya ulaşma ihtimali görülürse borçluya kesin mühlet verilir. Bu aşamada alacaklılar kurulu da oluşturulabilir."
+      ],
+      "bullets": [
+        "Duruşmaya taraflar davet edilir",
+        "Komiser raporu esastır"
+      ]
+    }
+  ],
+  "steps": [
+    "Gerekli belgeleri eksiksiz şekilde hazırlayın",
+    "Yetkili mahkemeye konkordato talebinde bulunun",
+    "Geçici komiserin incelemelerine destek olun",
+    "İlanları takip edip yasal sürede itiraz haklarını değerlendirin",
+    "Kesin mühlet duruşmasında hazır bulunun"
+  ],
+  "documents": [
+    "Konkordato talep dilekçesi",
+    "Borçlunun mal varlığını gösterir belgeler",
+    "Alacak listesi ve borç durumunu gösteren kayıtlar",
+    "Geçici komiserin raporu"
+  ],
+  "faq": [
+    {
+      "q": "Geçici mühlet ne kadar sürer?",
+      "a": "Geçici mühlet üç aydır. Mahkeme bu süreyi en fazla iki ay daha uzatabilir."
+    },
+    {
+      "q": "Alacaklılar karara nasıl itiraz eder?",
+      "a": "İlandan itibaren yedi günlük kesin süre içinde dilekçe ve delillerle mahkemeye başvurulur."
+    },
+    {
+      "q": "Komiseri kim seçer?",
+      "a": "Mahkeme, alacaklı sayısı ve alacak miktarını dikkate alarak komiser görevlendirir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Konkordato",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

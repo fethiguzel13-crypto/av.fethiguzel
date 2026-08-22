@@ -1,0 +1,105 @@
+{
+  "slug": "icra-takibi-nedir",
+  "title": "İcra Takibi Nedir? Nasıl Başlatılır ve Durdurulur?",
+  "description": "İcra takibi nedir? Nasıl işler? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
+  "h1": "İcra takibi nedir? Nasıl işler?",
+  "keywords": [
+    "icra takibi nedir",
+    "haciz nedir",
+    "ödeme emri"
+  ],
+  "category": "İcra",
+  "related": [
+    "emekli-maas-haczi",
+    "kidem-tazminati-haczi",
+    "nafaka-alacaklisi-oncelik",
+    "iscilik-alacagi-oncelik",
+    "rehinli-alacak",
+    "teminat-hesabi-icra",
+    "ihale-feshi-davasi",
+    "satis-bedeli-paylasim",
+    "borclu-olmadiginin-tespiti",
+    "icra-taahudu",
+    "tazyik-hapsi",
+    "disciplin-hapsi"
+  ],
+  "links": [
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Faiz",
+      "href": "/hesaplama/faiz"
+    }
+  ],
+  "lead": "İcra takibi, ödenmeyen bir borcun devlet gücüyle tahsil edilmesi sürecidir. Mahkeme kararına dayanan ilamlı takip veya senet ve fatura gibi belgelere dayanan ilamsız takip yoluyla borçlunun mal varlığına el konulması amaçlanır.",
+  "keyInsight": "İlamsız icra takibinde borçlunun yapacağı basit bir itiraz takibi kendiliğinden durdurur ve alacaklının bu engeli aşmak için mahkemeye gitmesi gerekir.",
+  "sections": [
+    {
+      "heading": "İki farklı yol hangisidir?",
+      "paragraphs": [
+        "Borcun tahsili için seçilecek yol elinizdeki belgenin niteliğine göre değişir. Elinizde bir mahkeme kararı varsa ilamlı takip yoluna başvurursunuz; bu yolda borçlunun takibi kolayca durdurması mümkün değildir.",
+        "Eğer elinizde mahkeme kararı yoksa, sadece senet, fatura veya sözleşmeye dayanarak ilamsız takip başlatabilirsiniz. İlamsız takipte borçluya doğrudan bir **ödeme emri** gönderilir ve borçlunun bu sürece karşı koyma imkanı daha geniştir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Ödeme emri gelince ne yapmak gerekir?",
+      "paragraphs": [
+        "Kapınızda icra memurunu veya posta kutunuzda resmi zarfı gördüyseniz süreç sizin için başlamış demektir. Bu aşamada gelen belge bir ödeme emridir ve borcu ödemeniz ya da bir itirazınız varsa bunu bildirmeniz istenir.",
+        "Eğer borcun tamamına veya bir kısmına itiraz ediyorsanız, yetkili merciye başvurarak borcunuz olmadığını, borcun ödendiğini veya zamanaşımına uğradığını süresi içinde bildirmelisiniz. İtiraz edilmediği takdirde borç kesinleşir ve **haciz** aşamasına geçilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreç nasıl kesinleşir?",
+      "paragraphs": [
+        "Gönderilen ödeme emrine karşı yasal süreler içinde herhangi bir itirazda bulunmazsanız veya borcu ödemezseniz takip kesinleşir. Bu andan itibaren alacaklı taraf, borçlunun taşınır ve taşınmaz malları ile banka hesaplarının sorgulanmasını isteyebilir.",
+        "Kesinleşen takip sonrasında borçlunun üzerine kayıtlı ev, araç veya maaş gibi varlıklara el konulması süreci başlar. Bu aşamadan sonra borçlunun icra dairesine giderek **mal beyanı** vermesi yasal bir yükümlülüktür."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kambiyo senetlerinde durum neden farklıdır?",
+      "paragraphs": [
+        "Eğer takip konusu borç çek, poliçe veya bono gibi bir kambiyo senedine dayanıyorsa kurallar sertleşir. İcra memuru senedin bu vasıfta olduğunu ve vadesinin geldiğini tespit ederse borçluya özel bir ödeme emri gönderir.",
+        "Bu durumda borçlunun imza itirazı veya borca itirazı varsa bunu doğrudan icra mahkemesine bir dilekçe ile bildirmesi gerekir. İmzaya haksız yere itiraz eden borçlu, takip konusu alacağın **yüzde onu** oranında para cezası ile karşılaşabilir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Alacağın dayanağı olan ilam, senet veya fatura gibi belgeleri hazırlayın.",
+    "Yetkili icra dairesine giderek takip talebinde bulunun.",
+    "İcra dairesi aracılığıyla borçluya ödeme emri gönderilmesini sağlayın.",
+    "Borçlu tarafından gelebilecek olası itirazları takip edin.",
+    "İtiraz olmaması durumunda haciz işlemlerini başlatarak borçlunun mallarını sorgulatın."
+  ],
+  "documents": [
+    "Alacak belgesi",
+    "Takip talebi",
+    "Ödeme emri",
+    "Tebligat mazbatası"
+  ],
+  "faq": [
+    {
+      "q": "İcra takibine itiraz etmek takibi durdurur mu?",
+      "a": "İlamsız icra takiplerinde borçlunun süresi içinde yapacağı borca itiraz, takibi kendiliğinden durdurur. Alacaklının takibe devam edebilmesi için mahkemeden itirazın kaldırılması veya iptali kararı alması gerekir."
+    },
+    {
+      "q": "Kambiyo senedine dayalı takipte borç nereye ödenir?",
+      "a": "Kambiyo senedine dayalı takipte borcun ve takip masraflarının, ödeme emrinde yazılı olan icra dairesine ait banka hesabına ödenmesi gerekir."
+    },
+    {
+      "q": "Mal beyanında bulunmamak suç mudur?",
+      "a": "İtiraz edilmeyen veya itirazı reddedilen takipte süresi içinde mal beyanında bulunmamak, kanunen hapisle tazyik edilme sonucunu doğurabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "icra-takibi-nedir",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

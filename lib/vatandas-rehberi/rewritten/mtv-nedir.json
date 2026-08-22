@@ -1,0 +1,111 @@
+{
+  "slug": "mtv-nedir",
+  "title": "MTV nedir? Nasıl ödenir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "MTV nedir? Nasıl ödenir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
+  "h1": "MTV nedir? Nasıl ödenir?",
+  "keywords": [
+    "MTV nedir",
+    "motorlu taşıtlar vergisi"
+  ],
+  "category": "Vergi",
+  "related": [
+    "emlak-vergisi-nedir",
+    "e-devlet-vergi-borcu",
+    "plaka-devri-arac-satis",
+    "trafik-cezasina-itiraz"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/emlak-vergisi-nedir"
+    },
+    {
+      "label": "VUK",
+      "href": "/kategori/vuk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=MTV"
+    }
+  ],
+  "lead": "Aracınızı aldınız veya garajda duruyor. Asıl mesele, resmi kayıtlarda adınıza kayıtlı taşıtlar için ödenmesi gereken vergilerin zamanında ve eksiksiz yerine getirilmesidir.",
+  "keyInsight": "Resmi kayıtlarda adınıza kayıtlı araçlar için tahsil dairelerine olan yükümlülüklerinizi takip etmek ve süreci kanuni esaslara göre yürütmek zorundasınız.",
+  "sections": [
+    {
+      "heading": "Hangi araçlar için yükümlülük doğar?",
+      "paragraphs": [
+        "Trafikte veya resmi sicilde adınıza kayıtlı olan motorlu taşıtlar bulunduğunda vergi süreçleri işlemeye başlar. Bu durum, aracın fiilen kullanılmasından ziyade sicil kaydının varlığına dayanır.",
+        "Maliye Bakanlığına bağlı tahsil daireleri tarafından yürütülen bu süreçte, aracın niteliğine göre işlemler şekillenir."
+      ],
+      "bullets": [
+        "Resmi sicil kaydı",
+        "Tahsil dairesi takibi"
+      ]
+    },
+    {
+      "heading": "Ödeme ve tahsilat nasıl yapılır?",
+      "paragraphs": [
+        "Borçlar, ilgili tahsil daireleri aracılığıyla ödenir. Erken ödeme durumlarında veya borcun yapılandırılmasında kanuni esaslar devreye girer.",
+        "Tahsil edilen tutarlar öncelikle aracın aynından doğan vergi ve fer'i alacaklara mahsup edilir."
+      ],
+      "bullets": [
+        "Tahsil daireleri",
+        "Kanuni mahsup sırası"
+      ]
+    },
+    {
+      "heading": "İnceleme ve denetim süreci nasıl işler?",
+      "paragraphs": [
+        "Vergi incelemesi yapan yetkililer, kanunda belirtilen usul ve esaslara uymak zorundadır. İncelemeye tabi olan kişiye durum yazıyla bildirilir.",
+        "İnceleme sırasında mükelleflerin çalışma yeri göstermek ve gerekli izahatı vermek gibi ödevleri bulunur."
+      ],
+      "bullets": [
+        "Yazılı bildirim zorunluluğu",
+        "Mükellef ödevleri"
+      ]
+    },
+    {
+      "heading": "Haciz ve kaldırma şartları nelerdir?",
+      "paragraphs": [
+        "Borç nedeniyle mallar üzerine konulan hacizler, belirli şartların sağlanması durumunda kaldırılabilir.",
+        "Haczedilen mala biçilen değer ve eklentilerinin ödenmesi ile takip masraflarının karşılanması gerekir."
+      ],
+      "bullets": [
+        "Değer ve eklerinin ödenmesi",
+        "Takip masrafları"
+      ]
+    }
+  ],
+  "steps": [
+    "Aracınızın resmi sicil kaydını kontrol edin",
+    "Bağlı olduğunuz tahsil dairelerinden borç durumunu sorgulayın",
+    "İnceleme memurlarına gerekli çalışma kolaylığını sağlayın",
+    "Ödemeleri kanuni usullere göre gerçekleştirin"
+  ],
+  "documents": [
+    "Vergi inceleme yazılı bildirimi",
+    "Ödeme makbuzları",
+    "Sicil kayıt belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Vergi incelemesi ne kadar sürer?",
+      "a": "Tam incelemelerde en fazla bir yıl, sınırlı incelemelerde en fazla altı ay içinde bitirilmesi esastır."
+    },
+    {
+      "q": "Haczedilen mal üzerindeki haciz nasıl kaldırılır?",
+      "a": "Biçilen değer ve fazlasının ilk sırada haciz tatbik eden tahsil dairesine ödenmesi ve takip masraflarının karşılanması gerekir."
+    },
+    {
+      "q": "İnceleme sırasında hangi ödevler yerine getirilmelidir?",
+      "a": "İncelemeye yetkili memura çalışma yeri göstermek ve gerekli izahatı vermek zorundasınız."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "emlak-vergisi-nedir",
+  "angle": "MTV",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

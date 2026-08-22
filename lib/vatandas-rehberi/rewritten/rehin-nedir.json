@@ -1,0 +1,105 @@
+{
+  "slug": "rehin-nedir",
+  "title": "Rehin — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Rehin hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "Rehin",
+  "keywords": [
+    "rehin",
+    "rehin nedir"
+  ],
+  "category": "Eşya",
+  "related": [
+    "izale-i-suyu",
+    "ipotek-nedir",
+    "senet-icra-takibi",
+    "icra-takibi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/izale-i-suyu"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    }
+  ],
+  "lead": "Borcunuzu ödeyemediğinizde alacaklının kapınıza dayanacağı hissi sizi korkutmasın; rehin, değerli eşyanızın veya tapulu malınızın bir güvence olarak masaya konmasıdır.",
+  "keyInsight": "Tapu kütüğünde rehin tescili varsa, o malın üzerindeki hak sahibinin rızası alınmadan silinmesi imkansızdır.",
+  "sections": [
+    {
+      "heading": "Evdeki eşya veya tapu masada nasıl durur?",
+      "paragraphs": [
+        "Gece yarısı telefonunuza gelen bir borç hatırlatmasıyla irkildiniz. Elinizde nakit yok ama güven kazanmanız gerekiyor. İşte o an karşınıza rehin kavramı çıkar.",
+        "Rehin, bir borcun ödenmesini garanti altına almak için mal varlığınızın bir parçasını alacaklıya güvence olarak sunmanızdır. Eviniz, arsanız ya da değerli varlığınız bu süreçte adeta bir kalkan işlevi görür."
+      ],
+      "bullets": [
+        "Borç ödenirse rehin kalkar",
+        "Ödenmezse alacaklı satış talep edebilir"
+      ]
+    },
+    {
+      "heading": "Tapu kütüğüne bu hak nasıl işlenir?",
+      "paragraphs": [
+        "Tapu dairesine gittiniz ve gayrimenkulünüzü güvence olarak gösteriyorsunuz. Bu işlem öyle sözlü anlaşmayla bitmez; resmi kayıtlara geçmesi şarttır.",
+        "Taşınmazlar üzerindeki **rehin hakları** kütüğün özel sütunlarında açıkça gösterilir. Bu tescil yapılmadığı sürece hukuki bir güvenceden bahsetmek zordur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Birden çok taşınmaz birleşirse ne olur?",
+      "paragraphs": [
+        "Sahip olduğunuz bitişik ya da ayrı arsaları veya konutları tek bir sayfada toplamak isteyebilirsiniz. Malikin istemiyle bu mallar kütükte ortak bir sayfaya kaydedilebilir.",
+        "Ortak sayfaya yapılan **rehin tescilleri** o sayfada yer alan bütün taşınmazları doğrudan bağlar. İleride bunlardan birini ayırmak isterseniz, üzerindeki haklar saklı kalmaya devam eder."
+      ],
+      "bullets": [
+        "Ortak sayfa tüm taşınmazı bağlar",
+        "Ayırma işleminde haklar baki kalır"
+      ]
+    },
+    {
+      "heading": "Kayıttan silme işlemi hangi şartla yapılır?",
+      "paragraphs": [
+        "Borcunuz bitti ve artık tapudaki o şerhten kurtulmak istiyorsunuz. Telaş yapmayın, bu işin de kuralı oldukça net.",
+        "Tapu kütüğünde hak sahibi olarak görünen kişilerin rızası olmadan o kayıt silinemez. Mutlaka ilgili kişilerin onayı veya buna dair resmi bir belge aranır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Borç ilişkisini ve güvence altına alınacak malı belirleyin",
+    "Tapu kütüğündeki ilgili sütunlara tescil işlemini uygulayın",
+    "Birden fazla taşınmazı birleştirecekseniz ortak sayfa talebinde bulunun",
+    "Borç kapandığında hak sahibinin rızasıyla silme talep edin"
+  ],
+  "documents": [
+    "Tapu senedi",
+    "Rehin sözleşmesi",
+    "Hak sahibinin rıza beyanı"
+  ],
+  "faq": [
+    {
+      "q": "Rehinli malı rızam olmadan başkasına satabilir miyim?",
+      "a": "Üzerinde rehin olan bir malı satmak teknik olarak mümkündür ancak alacaklının hakları ve kütükteki tescil baki kalır."
+    },
+    {
+      "q": "Ortak sayfadaki taşınmazlardan birini ayırırsam rehin kalkar mı?",
+      "a": "Hayır, ayrılan taşınmazlar üzerinde tescil edilmiş bulunan rehin hakları saklı kalmaya devam eder."
+    },
+    {
+      "q": "Rehin kaydı kütükten nasıl silinir?",
+      "a": "Kütükte hak sahibi olarak görünen kişilerin rızası olmadan rehin kaydı silinemez."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "izale-i-suyu",
+  "angle": "Rehin",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "trafik-sigortasi-zorunlu",
+  "title": "Zorunlu trafik sigortası — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Zorunlu trafik sigortası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
+  "h1": "Zorunlu trafik sigortası",
+  "keywords": [
+    "zorunlu trafik sigortası",
+    "trafik sigortasi zorunlu"
+  ],
+  "category": "Trafik",
+  "related": [
+    "trafik-kazasi-tazminati",
+    "trafik-sigortasi-hasar",
+    "plaka-devri-arac-satis",
+    "mtv-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/trafik-kazasi-tazminati"
+    },
+    {
+      "label": "KTK",
+      "href": "/kategori/ktk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=trafik%20sigortas%C4%B1"
+    }
+  ],
+  "lead": "Trafiğe çıkıyorsunuz ve başınıza bir kaza geldi. Asıl mesele, aracınızın zorunlu mali sorumluluk sigortasının bulunup bulunmadığı ve bu sigortayı kimin yapacağıdır.",
+  "keyInsight": "Türkiye'de kaza sigortası dalında çalışmaya yetkili olan sigorta şirketleri, zorunlu mali sorumluluk sigortasını yapmakla yükümlüdür.",
+  "sections": [
+    {
+      "heading": "Yola çıkmadan önceki en temel kural",
+      "paragraphs": [
+        "Direksiyona geçtiniz ve derin bir nefes aldınız. Trafikte her an her şey olabilir; önemli olan hazırlıklı olmaktır.",
+        "Kanun, motorlu araçlar için belirli sorumluluklar getirir. Bu sorumlulukların başında da sigorta yaptırma zorunluluğu gelir."
+      ],
+      "bullets": [
+        "Yetkili şirket seçimi",
+        "Sigorta yapma yükümlülüğü"
+      ]
+    },
+    {
+      "heading": "Kimler bu sigortayı yapmak zorunda?",
+      "paragraphs": [
+        "Her sigorta şirketi bu poliçeyi kesemez. Türkiye’de kaza sigortası dalında çalışmaya yetkili olan sigorta şirketleri bu poliçeyi düzenleyebilir.",
+        "Yetkili olan bu şirketler, **zorunlu mali sorumluluk sigortasını yapmakla yükümlüdür**."
+      ],
+      "bullets": [
+        "Yetkili sigorta şirketi",
+        "Doğrudan yapım yükümlülüğü"
+      ]
+    },
+    {
+      "heading": "Römork ve çekilen araçlarda durum ne?",
+      "paragraphs": [
+        "Aracınıza bir römork taktınız ve yola koyuldunuz. Çekicinin sorumluluk sigortası, çekiciyi işletenin, römorkun sebep olduğu zarardan dolayı sorumluluğunu kapsar.",
+        "Ancak insan taşımada kullanılan römorklar için durum farklıdır. Bu araçlar, ek bir sorumluluk sigortası yaptırılmadıkça **trafiğe çıkarılamaz**."
+      ],
+      "bullets": [
+        "Çekici ve römork ilişkisi",
+        "İnsan taşıyan römork kuralı"
+      ]
+    },
+    {
+      "heading": "Şirketler sigorta yapmaktan kaçınırsa ne olur?",
+      "paragraphs": [
+        "Yetkili bir sigorta şirketinin poliçe yapmaktan kaçınması hukuka aykırıdır. Kanun bu duruma karşı açık bir yaptırım öngörür.",
+        "Bu madde hükmüne uymayan sigorta şirketleri para cezası ile cezalandırılır."
+      ],
+      "bullets": [
+        "Poliçe yapma zorunluluğu",
+        "Yasal yaptırım"
+      ]
+    }
+  ],
+  "steps": [
+    "Aracınız için Türkiye'de kaza sigortası dalında yetkili bir sigorta şirketi belirleyin.",
+    "Zorunlu mali sorumluluk sigortası teklifi isteyin.",
+    "Eğer römork kullanıyorsanız, özellikle insan taşımacılığı yapılıp yapılmadığını kontrol edin.",
+    "İnsan taşıyan römorklar için ek sorumluluk sigortası yaptırın.",
+    "Tüm katarın zorunlu sigorta kapsamına girdiğinden emin olun."
+  ],
+  "documents": [
+    "Ruhsat",
+    "Trafik poliçesi teklifnamesi",
+    "Römork varsa ek sigorta belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "Her sigorta şirketi bu poliçeyi yapmak zorunda mı?",
+      "a": "Türkiye'de kaza sigortası dalında çalışmaya yetkili olan sigorta şirketleri bu sigortayı yapmakla yükümlüdür."
+    },
+    {
+      "q": "Römorklu araçlarda sigorta nasıl geçerlidir?",
+      "a": "Çekicinin sorumluluk sigortası, römorkun sebep olduğu zararları da kapsar."
+    },
+    {
+      "q": "İnsan taşıyan römorklar için özel kural var mı?",
+      "a": "Evet, insan taşımada kullanılan römorklar ek sorumluluk sigortası yapılmadan trafiğe çıkarılamaz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "trafik-kazasi-tazminati",
+  "angle": "Zorunlu trafik sigortası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

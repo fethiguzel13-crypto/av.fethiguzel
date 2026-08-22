@@ -1,0 +1,120 @@
+{
+  "slug": "sgk-hizmet-dokumu",
+  "title": "SGK hizmet dökümü nasıl alınır — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "SGK hizmet dökümü nasıl alınır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
+  "h1": "SGK hizmet dökümü nasıl alınır?",
+  "keywords": [
+    "SGK hizmet dökümü",
+    "e-devlet hizmet dökümü"
+  ],
+  "category": "Sosyal Güvenlik",
+  "related": [
+    "emeklilik-sartlari",
+    "issizlik-maasi-sartlari",
+    "kidem-tazminati-nasil-alinir",
+    "e-devlet-sgk-hizmet",
+    "yurt-disi-borclanma",
+    "intibak-emeklilik",
+    "emekli-ikramiyesi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/emeklilik-sartlari"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=SGK"
+    }
+  ],
+  "lead": "Bilgisayarınızın başında, geçmiş çalışma günlerinizi kontrol etmek istiyorsunuz. e-Devlet kapısına girerek sigorta kollarınıza ait tüm dökümleri anında ekranda görebilirsiniz.",
+  "keyInsight": "Çalıştığınız günler sistemde görünmüyorsa, dökümdeki eksiklikleri fark etmek ve zamanında harekete geçmek **hak kaybını** önler.",
+  "sections": [
+    {
+      "heading": "Hizmet dökümü neyi gösterir?",
+      "paragraphs": [
+        "İş yerinde ter döktünüz, ay sonunda maaşınızı aldınız ama priminiz yatırıldı mı? İşte bu belge, hangi iş yerinde ne kadar süreyle **sigortalı** sayıldığınızı gözler önüne serer.",
+        "Hizmet akdiyle çalışanlar, kendi adına bağımsız iş yapanlar veya kamu idaresinde bulunanlar için prim ödeme gün sayıları bu kayıtlarda tutulur. Çalışma hayatınızın resmi karnesidir."
+      ],
+      "bullets": [
+        "Prim ödeme gün sayıları",
+        "İşe giriş ve çıkış tarihleri",
+        "İş yeri sicil numaraları"
+      ]
+    },
+    {
+      "heading": "Kayıtlara nasıl ulaşılır?",
+      "paragraphs": [
+        "Evrak aramakla vakit kaybetmeyin. Dijital devlet kapısını açın ve arama çubuğuna sigorta tescil ve hizmet dökümü yazın.",
+        "Karşınıza çıkan ekranda, çalışma hayatınızın tüm detaylarını barındıran barkodlu belgeyi bilgisayarınıza indirebilirsiniz. Çoğu resmi kurum bu **e-Devlet** çıktısını doğrudan kabul eder."
+      ],
+      "bullets": [
+        "Şifre ile giriş",
+        "Barkodlu belge oluşturma",
+        "Dosyayı kaydetme"
+      ]
+    },
+    {
+      "heading": "Eksik günler nasıl fark edilir?",
+      "paragraphs": [
+        "Dökümü incelediğinizde bazı aylarınızın eksik göründüğünü veya hiç prim yatırılmadığını fark edebilirsiniz. Elinizdeki maaş bordroları ile bu dijital kayıtları karşılaştırın.",
+        "Fiili olarak çalıştığınız halde bildirilmeyen süreler varsa, iş yerinizle görüşmeniz veya yasal yolları değerlendirmeniz gerekir. Kayıtların doğruluğunu **düzenli kontrol** etmek hayat kurtarır."
+      ],
+      "bullets": [
+        "Bordro karşılaştırması",
+        "Eksik gün tespiti",
+        "İşveren iletişimi"
+      ]
+    },
+    {
+      "heading": "Hangi durumlarda lazımdır?",
+      "paragraphs": [
+        "Emeklilik şartlarını hesaplarken, kıdem tazminatı hesabına esas süreyi belirlerken veya işsizlik maaşı başvurusu yaparken bu belge istenir.",
+        "Sağlık hizmetlerinden yararlanma koşullarını ve prim gün yeterliliğini görmek için de yine bu döküme bakılır. Hayatın dönüm noktalarında **ilk bakılan** evraktır."
+      ],
+      "bullets": [
+        "Emeklilik planlaması",
+        "Kıdem hesapları",
+        "İşsizlik başvurusu"
+      ]
+    }
+  ],
+  "steps": [
+    "e-Devlet sistemine kimlik numaranız ve şifrenizle giriş yapın.",
+    "Arama kısmına SGK tescil ve hizmet dökümü yazarak ilgili hizmeti seçin.",
+    "Açılan sayfada barkodlu belgenizi oluşturup cihazınıza indirin.",
+    "Dökümdeki gün sayımlarını elinizdeki bordro ve çalışma belgeleriyle karşılaştırın.",
+    "Eksik ya da hatalı bir gün gördüğünüzde iş yerinizle iletişime geçip düzeltme isteyin."
+  ],
+  "documents": [
+    "hizmet dökümü",
+    "bordro",
+    "işe giriş bildirgesi",
+    "kimlik"
+  ],
+  "faq": [
+    {
+      "q": "Hizmet dökümü nereden alınır?",
+      "a": "e-Devlet kapısı üzerinden birkaç tıklamayla barkodlu olarak indirilebilir."
+    },
+    {
+      "q": "Eksik prim günümü nasıl düzeltirim?",
+      "a": "Önce iş yerinizle görüşerek Sosyal Güvenlik Kurumu'na bildirim yapılmasını sağlayabilirsiniz, sonuç alamazsanız yasal yollara başvurabilirsiniz."
+    },
+    {
+      "q": "İş yerim primimi yatırmamış, ne yapmalıyım?",
+      "a": "Çalıştığınızı kanıtlayan bordro ve tanık gibi delillerle birlikte süreci hukuki zeminde değerlendirmeniz gerekir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "emeklilik-sartlari",
+  "angle": "Hizmet dökümü",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

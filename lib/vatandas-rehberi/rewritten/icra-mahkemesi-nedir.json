@@ -1,0 +1,114 @@
+{
+  "slug": "icra-mahkemesi-nedir",
+  "title": "İcra mahkemesi neye bakar — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İcra mahkemesi neye bakar? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
+  "h1": "İcra mahkemesi neye bakar?",
+  "keywords": [
+    "icra mahkemesi",
+    "icra mahkemesi görev"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "odeme-emrine-itiraz",
+    "haciz-islemleri-nasil-yapilir",
+    "iik-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=icra%20mahkeme"
+    }
+  ],
+  "lead": "İcra mahkemesi, icra ve iflas dairelerinin işlemlerine karşı yapılan şikâyetler ile itirazları inceleyen ve denetleyen özel mahkemektir. Ayrıca karşılıksız çek gibi kanunun açıkça görev verdiği özel yargılamalar da bu mahkeme huzurunda görülür.",
+  "keyInsight": "İcra mahkemesinin ana görevi genel borçlu-alacaklı kavgalarını çözmek değil, icra dairesinin attığı adımların hukuka uygunluğunu denetlemek ve kanunla belirlenmiş özel uyuşmazlıkları karara bağlamaktır.",
+  "sections": [
+    {
+      "heading": "İcra mahkemesi kapısını ne zaman çalarsınız?",
+      "paragraphs": [
+        "İcra takibi devam ederken icra dairesinde bir işlem yapıldı ve bu işlemin kanuna aykırı olduğunu düşündünüz. İşte tam bu aşamada icra mahkemesi devreye girer. Borçlu veya alacaklı olarak icra memurunun attığı adıma itiraz etmek ya da işlemi şikâyet etmek istediğinizde yetkili merci bu mahkemedir.",
+        "Ayrıca bankaya ibraz edilen ancak ödenmeyen **karşılıksız çek** vakalarında da adli yargılama adresi yine burasıdır. Çekle ilgili cezai sorumluluk taleplerinizi ve düzenleme yasağı başvurularınızı bu mahkeme inceler."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İcra dairesi ile icra mahkemesi arasındaki fark nedir?",
+      "paragraphs": [
+        "İcra dairesi takibin fiilen yürütüldüğü, haciz ve tebligat işlemlerinin yapıldığı idari organdır. İcra mahkemesi ise bu dairenin ve işlemlerin hukuka uygunluğunu denetleyen yargısal makamdır.",
+        "İcra dairesi başkanlığı kurulmayan yerlerde mahkeme hâkimi, kendisine bağlanan icra ve iflas dairelerinin gözetim ve denetimlerini de yapar. İş durumunun gerekli kıldığı yerlerde birden fazla icra mahkemesi dairesi kurulabilir ve aralarındaki iş dağılımı belirlenen esaslara göre yürütülür."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hacze iştirak taleplerinde mahkeme nasıl rol alır?",
+      "paragraphs": [
+        "Borçlunun eşi, çocukları veya vasi olduğu kişiler velayet veya evlilikten doğan alacakları için önceden takip yapmadan hacze iştirak edebilirler. İcra dairesi bu iştirak talebini borçlu ve alacaklılara bildirerek **yedi günlük** itiraz süresi tanır.",
+        "Bu talebe itiraz edilirse iştirak geçici olarak kabul edilir ve talepte bulunan kişiye dava açması bildirilir. İlgili kişinin **yedi gün** içinde dava açması şarttır; aksi halde iştirak hakkı düşer ve bu dava basit yargılama usulüne göre görülür."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Karşılıksız çek davaları nasıl yürütülür?",
+      "paragraphs": [
+        "Üzerinde yazılı düzenleme tarihine göre kanuni süresi içinde bankaya ibraz edilen çek karşılıksız çıktığında, hamilin şikâyeti üzerine icra mahkemesinde dava açılır. Mahkeme yargılama sonucunda **binbeşyüz güne kadar** adli para cezasına veya çek düzenleme yasağına karar verebilir.",
+        "Bu davalar çekin tahsil için ibraz edildiği yer, banka şubesinin bulunduğu yer veya tarafların yerleşim yeri icra mahkemesinde görülür. Yargılama esnasında koruma tedbiri olarak çek düzenleme yasağı kararları da verilebilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Tebligat Usulsüzlükleri Mahkemeye Taşınır mı?",
+      "paragraphs": [
+        "İcra takibinde evrakın doğru adrese yapılması esastır. İş yerinde bulunmayan kişilerin daimi çalışanlarına tebligat yapılması veya tapuda kayıtlı taşınmaz sahiplerinin adres kayıt sistemindeki adreslerine bildirim çıkarılması gibi kurallar kanunla belirlenmiştir.",
+        "İcra dairesinin tebligat çıkarırken veya işlem yaparken usule aykırı davranması durumunda, mağdur olan taraf icra mahkemesine başvurarak işlemin iptalini veya düzeltilmesini isteyebilir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İcra dairesinin veya müdürünün şikâyete konu olan işlemini belirleyin.",
+    "Çek karşılıksız çıktıysa bankadan 'karşılıksızdır' kaşeli çek evrakını alın.",
+    "Şikâyet veya itirazınızı içeren dilekçeyi yetkili icra mahkemesine sunun.",
+    "Hacze iştirak itirazı bildirildiyse **yedi gün** içinde davanızı açın.",
+    "Mahkemeden gelen duruşma gününü veya dosya üzerinden verilecek kararları takip edin."
+  ],
+  "documents": [
+    "İcra mahkemesi şikâyet veya dava dilekçesi",
+    "Şikâyete konu icra dairesi dosyası ve işlem evrakı",
+    "Bankaca 'karşılıksızdır' işlemi yapılmış çekin aslı veya onaylı örneği",
+    "Hacze iştirak durumunu gösteren evlilik, velayet veya vesayet belgeleri",
+    "Tebligat parçası veya adres kayıt sistemi belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "İcra mahkemesine kimler başvurabilir?",
+      "a": "İcra takibinin tarafları olan alacaklı, borçlu veya icra dairesinin yaptığı işlem nedeniyle hakkı ya da menfaati zedelenen kişiler başvurabilir."
+    },
+    {
+      "q": "Hacze iştirak talebine itiraz edilirse ne yapılması gerekir?",
+      "a": "İtiraz halinde iştirak talebi geçici kabul edilir. Talepte bulunan kişinin kendisine bildirim yapıldıktan sonra **yedi gün** içinde dava açması gerekir, aksi halde hak düşer."
+    },
+    {
+      "q": "Karşılıksız çek davası hangi icra mahkemesinde açılır?",
+      "a": "Çekin tahsil için bankaya ibraz edildiği yer, çek hesabının bulunduğu banka şubesinin yeri veya şikâyetçi ya da hesap sahibinin yerleşim yeri icra mahkemesinde açılır."
+    },
+    {
+      "q": "İcra dairesi memurunun işlemini icra mahkemesi iptal edebilir mi?",
+      "a": "Evet, icra dairesinin kanuna aykırı veya olaya uygun olmayan muamelelerine karşı yapılan şikâyetleri inceleyerek karara bağlama ve iptal etme yetkisi icra mahkemesindedir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "İcra mahkemesi görev",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

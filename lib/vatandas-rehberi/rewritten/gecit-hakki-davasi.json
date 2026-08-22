@@ -1,0 +1,101 @@
+{
+  "slug": "gecit-hakki-davasi",
+  "title": "Geçit hakkı davası — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Geçit hakkı davası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
+  "h1": "Geçit hakkı davası",
+  "keywords": [
+    "geçit hakkı davası",
+    "gecit hakki davasi"
+  ],
+  "category": "Eşya",
+  "related": [
+    "izale-i-suyu",
+    "irtifak-hakki-nedir",
+    "el-atmanin-onlenmesi",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/izale-i-suyu"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Geçit hakkı davası, taşınmazınızın genel yola bağlantısı olmadığında veya mevcut yolun yetersiz kaldığı durumlarda mahkeme eliyle yol açılmasını sağlayan bir haktır. Bu süreç, mülkiyetin sağladığı faydayı tam olarak kullanabilmeniz için hukuki bir zorunluluktur.",
+  "keyInsight": "Geçit hakkı kurulabilmesi için taşınmazınızın genel yolla bağlantısının tamamen kesilmiş olması veya mevcut bağlantının ihtiyacı karşılamaktan uzak olması temel şarttır.",
+  "sections": [
+    {
+      "heading": "Yolunuz kapalıysa ne yapmalısınız?",
+      "paragraphs": [
+        "Evinize veya tarlanıza ulaşmak için başka bir mülkün üzerinden geçmek zorunda kalıyorsanız, öncelikle komşularınızla uzlaşmayı denemelisiniz. Ancak bu mümkün olmadığında, mahkemeye başvurarak bir geçit hakkı kurulmasını talep etme hakkınız doğar.",
+        "Mahkeme, geçit hakkı kurulurken hem sizin ihtiyacınızı gözetir hem de geçit kurulacak taşınmazın sahibine en az zarar verecek güzergahı belirler. Bu süreçte **hakkaniyet kuralları** esas alınır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Geçit hakkı nasıl belirlenir?",
+      "paragraphs": [
+        "Hakim, bilirkişiler aracılığıyla arazide keşif yapar. En uygun güzergah, geçit verilecek mülkün değerini düşürmeyecek ve sizin ulaşım ihtiyacınızı karşılayacak şekilde çizilir.",
+        "Bu hak, genellikle bir bedel karşılığında kurulur. Belirlenen bu **geçit bedeli**, taşınmaz sahibine ödenmesi gereken bir tazminat niteliğindedir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hangi belgeler önem taşır?",
+      "paragraphs": [
+        "Dava sürecinde taşınmazınızın konumunu gösteren güncel tapu kayıtları ve kadastro haritaları en önemli delillerdir. Yolun neden zorunlu olduğunu kanıtlayan teknik raporlar süreci hızlandırır.",
+        "Elinizdeki tapu ve mülkiyet belgeleri, mahkemenin durumu net bir şekilde anlamasına yardımcı olacaktır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Dava sonunda ne olur?",
+      "paragraphs": [
+        "Mahkeme tarafından kurulan geçit hakkı, kararın kesinleşmesiyle birlikte tapu kütüğüne işlenir. Bu sayede, taşınmazınızı ileride bir başkasına satsanız bile yeni malik bu geçit hakkından yararlanmaya devam eder.",
+        "Süreç sonunda elde edilen karar, mülkiyet hakkınızın ayrılmaz bir parçası olarak güvence altına alınmış olur."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Taşınmazınızın genel yola bağlantısı olup olmadığını belirleyin.",
+    "Komşularınızla geçit hakkı konusunda anlaşma zemini arayın.",
+    "Taşınmazın bulunduğu yerdeki mahkemeye dava dilekçenizi sunun.",
+    "Mahkemenin belirleyeceği keşif gününde bilirkişilere yol ihtiyacınızı anlatın.",
+    "Hakim tarafından belirlenen geçit bedelini yasal süreci takip ederek ödeyin."
+  ],
+  "documents": [
+    "Taşınmazın güncel tapu kaydı",
+    "Kadastro paftası veya aplikasyon krokisi",
+    "İhtiyacı kanıtlayan fotoğraflar veya teknik belgeler",
+    "Dava dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Geçit hakkı her zaman bedelli midir?",
+      "a": "Evet, mahkeme tarafından kurulan geçit hakkı için genellikle taşınmaz sahibine bir bedel ödenmesine hükmedilir."
+    },
+    {
+      "q": "Komşum yol vermezse ne yapabilirim?",
+      "a": "Kendi imkanlarınızla çözüm üretemediğiniz durumlarda mahkemeye başvurarak geçit hakkı kurulmasını talep edebilirsiniz."
+    },
+    {
+      "q": "Dava ne kadar sürer?",
+      "a": "Davanın süresi, arazinin durumuna, keşif sürecine ve mahkemenin iş yüküne göre değişmektedir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "izale-i-suyu",
+  "angle": "Geçit hakkı davası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

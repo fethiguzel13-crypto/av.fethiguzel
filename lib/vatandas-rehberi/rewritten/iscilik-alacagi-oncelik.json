@@ -1,0 +1,101 @@
+{
+  "slug": "iscilik-alacagi-oncelik",
+  "title": "İşçilik Alacağının İcrada Önceliği | Vatandaş Rehberi",
+  "description": "İşçilik alacağı icrada öncelikli midir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı.…",
+  "h1": "İşçilik alacağı icrada öncelikli midir?",
+  "keywords": [
+    "işçilik alacağı öncelik",
+    "işçi alacağı imtiyaz"
+  ],
+  "category": "İcra",
+  "related": [
+    "kidem-tazminati-nasil-alinir",
+    "iscilik-alacaklari-davasi",
+    "sira-cetveli",
+    "iflas-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kidem-tazminati-nasil-alinir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    }
+  ],
+  "lead": "İşçilik alacakları, hukuki süreçlerde özel bir koruma altındadır. İşverenin mal varlığına yönelik haciz işlemlerinde, işçinin ücretleri diğer alacaklıların önüne geçebilir.",
+  "keyInsight": "İşçinin icra kararının alındığı tarihten önceki son üç aylık ücret alacağı, diğer tüm hacizlerden önce korunur ve öncelikle ödenir.",
+  "sections": [
+    {
+      "heading": "İşçinin ücreti neden önceliklidir?",
+      "paragraphs": [
+        "İşvereniniz borçları nedeniyle zor durumda kalmış olabilir. Haciz memurları işyerine geldiğinde, içerideki mallar üzerinde bir yarış başlar. Ancak kanun, sizin emeğinizi diğer alacaklılardan daha üstün tutar.",
+        "İşyerindeki tesisat, malzeme veya mallar üzerinde yapılan hacizlerde, sizin **üç aylık ücret alacağınız** ayrılmadan kalan kısım diğer alacaklılara gider."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hangi alacaklar bu korumadan yararlanır?",
+      "paragraphs": [
+        "Bu koruma sadece ücret alacaklarını kapsar. İşçinin icra kararının alındığı tarihten geriye doğru gidilen son üç aylık dönemdeki maaşlarınız bu imtiyaza sahiptir.",
+        "Diğer alacaklılar, sizin bu öncelikli tutarınız tamamen ödenmeden kendi paylarını alamazlar. Bu, maaşınızın haciz ortamında bile güvende kalmasını sağlayan temel bir kuraldır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İşveren hakedişlerinde durum nedir?",
+      "paragraphs": [
+        "Eğer bir müteahhit veya taşeron yanında çalışıyorsanız ve işvereniniz ödeme almıyorsa, kamu kurumları veya asıl işverenler, işçilerin ödenmeyen ücretlerini hakedişlerden keserek ödemekle yükümlüdür.",
+        "Bu durumda, işçilerin ücret alacaklarını karşılayacak kısım ayrıldıktan sonra kalan miktarlar üzerinde diğer haciz işlemleri **hüküm ifade eder**."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreci nasıl takip etmelisiniz?",
+      "paragraphs": [
+        "İşvereninizin borçları nedeniyle bir icra süreci başladığında, durumu vakit kaybetmeden icra dairesine bildirmeniz gerekir. Haklarınızı korumak için resmi başvurunuzu yapmalısınız.",
+        "İcra müdürlüğüne vereceğiniz dilekçede, hangi dönemlere ait ücret alacağınızın olduğunu ve bu alacakların öncelikli olduğunu hatırlatmanız süreci hızlandırır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İşvereniniz hakkında başlatılan icra dosyasını icra dairesinden öğrenin.",
+    "Son üç aylık ücret alacağınızın dökümünü hazırlayın.",
+    "İcra müdürlüğüne başvurarak alacaklı olduğunuzu yazılı olarak bildirin.",
+    "Ücret alacaklarınızın öncelikli ödenmesi talebini dosyaya sunun.",
+    "Yapılan satışlardan elde edilen paranın dağıtımını takip edin."
+  ],
+  "documents": [
+    "İmzalı iş sözleşmesi veya çalışma belgesi",
+    "Son üç aya ait maaş bordroları veya banka hesap dökümleri",
+    "İcra dairesine hitaben yazılmış alacak bildirim dilekçesi",
+    "Varsa işverene gönderilmiş ihtarname"
+  ],
+  "faq": [
+    {
+      "q": "Tüm alacaklarım öncelikli mi?",
+      "a": "Hayır, sadece icra kararının alındığı tarihten önceki son üç aylık ücret alacağınız kanunen önceliklidir."
+    },
+    {
+      "q": "İşverenimin malları satılırsa paramı nasıl alırım?",
+      "a": "İcra dairesi, satıştan elde edilen paradan öncelikle işçi alacaklarını ayırır ve size ödenmesini sağlar."
+    },
+    {
+      "q": "Başvuru için bir süre sınırı var mı?",
+      "a": "İcra süreci başlamadan veya satış işlemleri tamamlanmadan önce alacağınızı icra dairesine bildirmek hak kaybına uğramamanız için kritiktir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kidem-tazminati-nasil-alinir",
+  "angle": "İcra/iflasta imtiyaz sırası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

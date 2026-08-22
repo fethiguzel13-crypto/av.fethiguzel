@@ -1,0 +1,102 @@
+{
+  "slug": "idari-para-cezasi-indirim",
+  "title": "İdari Para Cezasında Peşin İndirim | Vatandaş Rehberi",
+  "description": "İdari para cezası peşin ödenirse indirim var mı? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk…",
+  "h1": "İdari para cezası peşin ödenirse indirim var mı?",
+  "keywords": [
+    "idari para cezası indirim",
+    "peşin ödeme indirimi ceza"
+  ],
+  "category": "İdare",
+  "related": [
+    "trafik-cezasina-itiraz",
+    "belediye-cezasi-itiraz",
+    "idari-dava-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/trafik-cezasina-itiraz"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    },
+    {
+      "label": "KTK",
+      "href": "/kategori/ktk"
+    }
+  ],
+  "lead": "İdari para cezalarında peşin ödeme indirimi genel bir kural değildir. Her cezanın tabi olduğu özel kanun hükümleri farklılık gösterir.",
+  "keyInsight": "Her idari para cezası için otomatik bir indirim uygulanmaz; cezanın dayandığı ilgili kanun metninde açıkça düzenlenmiş olması gerekir.",
+  "sections": [
+    {
+      "heading": "Ceza size ulaştığında ne yapmalısınız?",
+      "paragraphs": [
+        "Elinize bir idari para cezası tutanağı geçtiğinde ilk yapmanız gereken şey, bu cezanın hangi kanun maddesine dayandırıldığını bulmaktır. İdari para cezaları, her kurumun kendi özel mevzuatına göre belirlenir ve işletilir.",
+        "Mevcut İmar Kanunu veya Kamulaştırma Kanunu gibi temel metinlerde, peşin ödeme yapılması durumunda bir indirim uygulanacağına dair genel bir hüküm bulunmamaktadır. Bu nedenle, ceza miktarını olduğu gibi değerlendirmeniz gerekir."
+      ],
+      "bullets": [
+        "Tutanaktaki kanun maddesini tespit edin.",
+        "İndirim hükmünün olup olmadığını kontrol edin.",
+        "Ödeme süresini tutanak üzerinden takip edin."
+      ]
+    },
+    {
+      "heading": "İndirim her zaman var mıdır?",
+      "paragraphs": [
+        "İdari para cezalarında peşin ödeme indirimi, sadece kanun koyucunun o ceza türü için özel olarak izin verdiği durumlarda mümkündür. Eğer ilgili kanunda bu yönde bir madde yoksa, cezanın tamamını ödemekle yükümlü olursunuz.",
+        "Bazı özel kanunlarda peşin ödeme indirimi düzenlenmiş olabilir; ancak bu durum her idari işlem için geçerli değildir. İdari para cezası tebliğ edildiğinde, tutanak üzerinde ödeme şartları ve indirim hakkı olup olmadığı açıkça belirtilmelidir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreyi kaçırmanın sonuçları nelerdir?",
+      "paragraphs": [
+        "Ceza size tebliğ edildikten sonra ödeme için belirlenen sürelere sadık kalmanız kritik önem taşır. **Süresi içinde ödenmeyen cezalar** için gecikme faizi veya icra takibi gibi ek yaptırımlar devreye girebilir.",
+        "Ödemeyi ihmal etmek, sadece borcunuzun artmasına neden olmaz; aynı zamanda idari süreçlerde hak kaybına uğramanıza yol açar. Tutanaktaki son ödeme tarihini mutlaka not edin."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yanlış bir işlem mi yapıldı?",
+      "paragraphs": [
+        "Eğer size uygulanan cezanın haksız olduğunu düşünüyorsanız veya ödeme konusunda bir belirsizlik varsa, tutanağı düzenleyen idareye başvurarak bilgi alabilirsiniz. İdari işlemler her zaman denetlenebilir ve itiraz edilebilir niteliktedir.",
+        "İtiraz süreçleri, cezanın ödenmesi veya durdurulması konusunda farklı hukuki sonuçlar doğurabilir. **İtiraz dilekçenizi** süresi içerisinde ilgili makama sunmanız, haklarınızı korumak için en önemli adımdır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Tutanaktaki kanun maddesini inceleyin.",
+    "İlgili idareye başvurarak ödeme yöntemlerini sorun.",
+    "Ceza miktarını belirlenen sürede ödeyin.",
+    "Ödeme belgesini mutlaka saklayın."
+  ],
+  "documents": [
+    "İdari para cezası tutanağı",
+    "Ödeme dekontu",
+    "Tebligat belgesi"
+  ],
+  "faq": [
+    {
+      "q": "İdari para cezasını peşin ödersem indirim alabilir miyim?",
+      "a": "Hayır, her idari para cezasında indirim yoktur. Sadece ilgili özel kanunda açıkça düzenlenmişse indirimden faydalanabilirsiniz."
+    },
+    {
+      "q": "Cezanın indirimli olup olmadığını nasıl anlarım?",
+      "a": "Size tebliğ edilen tutanakta veya ilgili kanun maddesinde 'peşin ödemede indirim' ibaresinin yer alması gerekir."
+    },
+    {
+      "q": "Ödeme süresini geçirirsem ne olur?",
+      "a": "Gecikme faizi uygulanabilir ve borcunuz cebri icra yoluyla tahsil edilebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "trafik-cezasina-itiraz",
+  "angle": "Genel IPC indirim",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

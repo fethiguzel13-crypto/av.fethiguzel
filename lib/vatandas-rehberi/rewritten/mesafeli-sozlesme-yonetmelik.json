@@ -1,0 +1,110 @@
+{
+  "slug": "mesafeli-sozlesme-yonetmelik",
+  "title": "Mesafeli Sözleşmeler — Satıcı Yükümlülüğü | Vatandaş Rehberi",
+  "description": "Mesafeli satışta satıcı ne bilgilendirmeli? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Port…",
+  "h1": "Mesafeli satışta satıcı ne bilgilendirmeli?",
+  "keywords": [
+    "mesafeli sözleşmeler yönetmeliği"
+  ],
+  "category": "Tüketici",
+  "related": [
+    "tuketici-hakem-heyeti",
+    "mesafeli-satis-cayma",
+    "internet-alisveris-iade"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tuketici-hakem-heyeti"
+    },
+    {
+      "label": "TKHK",
+      "href": "/kategori/tkhk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=mesafeli"
+    }
+  ],
+  "lead": "İnternetten alışveriş yaparken karşınıza çıkan ekranlar sadece birer ödeme adımı değildir. Satıcı, teklifi onaylamadan önce size tüm detayları açıkça anlatmak zorundadır.",
+  "keyInsight": "Bilgilendirildiğinizi ispat etmek tamamen satıcıya düşer; eksik bilgi verilirse hak süreleri uzar.",
+  "sections": [
+    {
+      "heading": "Alışverişten önce neleri bilmelisiniz?",
+      "paragraphs": [
+        "Bilgisayar veya telefon ekranındasınız. Sepete ürün attınız, ödeme tuşuna basmak üzeresiniz. Asıl soru, siparişi onayladığınız an ödeme yükümlülüğü altına gireceğinizi açıkça görüp görmediğinizdir.",
+        "Satıcı, sözleşme kurulmadan önce size ayrıntılı bilgileri vermek zorundadır. **Bilgilendirme yükümlülüğü** yerine getirilmezse, ileride yapacağınız işlemlerin hukuki sınırları tamamen değişir."
+      ],
+      "bullets": [
+        "Sipariş onayında ödeme yükümlülüğü açık olmalı",
+        "Tüm detaylar önceden sunulmalı"
+      ]
+    },
+    {
+      "heading": "İspat yükü kimin omuzundadır?",
+      "paragraphs": [
+        "Kargo geldi, paketi açtınız. Kafanızda soru işaretleri belirdi. \"Bana bu bilgi verilmemişti\" dediğinizde kural devreye girer.",
+        "Tüketicinin bilgilendirildiğine ilişkin **ispat yükü** satıcıya aittir. Satıcı \"Ben söyledim\" diyemez; bunu kayda geçirmek ve kanıtlamak zorundadır."
+      ],
+      "bullets": [
+        "Sözlü açıklamalar geçerli sayılmaz",
+        "Kayıt tutma zorunluluğu satıcıdadır"
+      ]
+    },
+    {
+      "heading": "Süreler nasıl işlemeye başlar?",
+      "paragraphs": [
+        "Kampanyalı bir ürün aldınız ve günlerin geçmesini bekliyorsunuz. Satıcı, siparişin kendisine ulaştığı andan itibaren taahhüt edilen süre içinde malı teslim etmek zorundadır.",
+        "Eğer ortada özel bir kişisel tasarım yoksa, bu süre kanunen **belirli bir üst sınırla** sınırlıdır. Süresinde gelmeyen mallar için yasal yolları arayabilirsiniz."
+      ],
+      "bullets": [
+        "Sipariş anı takip edilmeli",
+        "Taahhüt edilen süreler esastır"
+      ]
+    },
+    {
+      "heading": "Yanlış bilgilendirme neleri değiştirir?",
+      "paragraphs": [
+        "Alışveriş yaptınız ancak size hiçbir açıklama yapılmadı, bilgilendirme formu gönderilmedi. Bu durumda haklarınız kaybolmaz, aksine korunur.",
+        "Gerektiği şekilde bilgilendirilmezseniz, **standart süre sınırlamaları** ortadan kalkar. Satıcı bu hatanın bedelini sürelerin uzamasıyla öder."
+      ],
+      "bullets": [
+        "Eksik bilgi süreyi durdurur",
+        "Tüketici hakları koruma altındadır"
+      ]
+    }
+  ],
+  "steps": [
+    "Sipariş vermeden önce tüm ön bilgilendirme metinlerini dikkatle okuyun.",
+    "Satıcının size gönderdiği onay e-postalarını ve belgelerini saklayın.",
+    "Ürün elinize ulaştığında taahhüt edilen süreleri kontrol edin.",
+    "Bir aksilik çıkarsa derhal satıcıyla yazılı iletişim kurun."
+  ],
+  "documents": [
+    "Ön bilgilendirme formu",
+    "Mesafeli satış sözleşmesi",
+    "Sipariş onay e-postası",
+    "Ödeme dekontu"
+  ],
+  "faq": [
+    {
+      "q": "Satıcı bilgilendirme yapmazsa ne olur?",
+      "a": "Bilgilendirme yükümlülüğünün yerine getirildiğini ispat edemeyen satıcı, standart süre kısıtlamalarından yararlanamaz."
+    },
+    {
+      "q": "İspat yükü kime aittir?",
+      "a": "Tüketicinin doğru şekilde bilgilendirildiğini kanıtlama yükümlülüğü tamamen satıcıya veya sağlayıcıya aittir."
+    },
+    {
+      "q": "Sipariş verildikten sonra satıcı ne zaman teslimat yapmak zorundadır?",
+      "a": "Satıcı, siparişin kendisine ulaştığı andan itibaren taahhüt ettiği süre içinde edimini yerine getirmek zorundadır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tuketici-hakem-heyeti",
+  "angle": "Satıcı yükümlülüğü",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

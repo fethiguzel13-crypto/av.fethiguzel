@@ -1,0 +1,99 @@
+{
+  "slug": "kidem-tazminati-haczi",
+  "title": "Kıdem Tazminatı Haczedilir mi? | Vatandaş Rehberi",
+  "description": "Kıdem tazminatında haciz tartışması ve istisnalar. İcra genel rehberi ve ana kıdem sayfasına bağlantı.",
+  "h1": "Kıdem tazminatına haciz konur mu?",
+  "keywords": [
+    "kıdem tazminatı haczi",
+    "kıdem haczedilir mi"
+  ],
+  "category": "İcra",
+  "related": [
+    "kidem-tazminati-nasil-alinir",
+    "maas-haczi-orani",
+    "haciz-islemleri-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kidem-tazminati-nasil-alinir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    }
+  ],
+  "lead": "Kıdem tazminatı, işçinin emeğinin karşılığı olarak biriken bir haktır. İcra takibi sürecinde bu tazminatın haczedilip haczedilemeyeceği, işçinin rızasına ve tazminatın ödenme şekline bağlıdır.",
+  "keyInsight": "İşçinin muvafakati yani açık rızası olmadan kıdem tazminatı üzerine haciz konulamaz.",
+  "sections": [
+    {
+      "heading": "Kıdem tazminatı haczedilebilir mi?",
+      "paragraphs": [
+        "İşten ayrıldınız ve kıdem tazminatına hak kazandınız. Ancak geçmişten gelen bir borcunuz nedeniyle icra dairesi bu paraya gözünü dikti. İşçinin kıdem tazminatı, kural olarak işçinin ve ailesinin geçimini sağlayan bir güvence olarak kabul edilir.",
+        "Bu nedenle, işçinin **açık rızası** olmadan kıdem tazminatı üzerine haciz konulması mümkün değildir. Eğer siz onay vermediyseniz, icra dairesi doğrudan bu paraya el koyamaz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Rıza göstermek ne anlama gelir?",
+      "paragraphs": [
+        "İşveren tazminatınızı öderken icra dairesinden gelen bir yazı ile karşılaşabilir. İşveren borçlu olduğunuzu bildiği için parayı size vermeden icra dosyasına yatırmak isteyebilir.",
+        "Siz bu işleme itiraz etmezseniz veya tazminatın borca mahsubuna **yazılı onay** verirseniz, haciz işlemi geçerli hale gelir. Kendi isteğinizle bu parayı borcunuza saydırmış olursunuz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İşveren parayı doğrudan icraya yatırırsa ne yapmalı?",
+      "paragraphs": [
+        "Bazı durumlarda işveren, icra dairesinden gelen yazıya istinaden tazminatınızı size ödemeyip icra dosyasına gönderebilir. Bu durumda hak kaybına uğradığınızı düşünüyorsanız, durumu hemen icra dairesine bildirmelisiniz.",
+        "Hacze rızanızın olmadığını beyan ederek paranın size ödenmesini talep edebilirsiniz. İşçinin geçim kaynağı olan bu tazminatın korunması esastır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "İşten ayrılış sürecinde tazminatınızla ilgili tüm belgeleri saklayın. Özellikle işverenin ödeme yaparken sizden aldığı imzalı evrakları iyi okuyun.",
+        "Eğer borçlu olduğunuz icra dosyasında bir işlem yapıldıysa, icra dairesinden gelen tebligatları takip etmek sürecin yönetiminde hayati önem taşır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İşverenin tazminatınızı icra dosyasına yatırıp yatırmadığını kontrol edin.",
+    "Hacze rızanız yoksa icra dairesine giderek haczin kaldırılmasını talep edin.",
+    "İşverene tazminatın haczedilemeyeceğine dair yazılı itirazınızı sunun.",
+    "İcra dairesi işlemleri durdurmazsa icra mahkemesine başvuruda bulunun."
+  ],
+  "documents": [
+    "İş sözleşmesi fesih belgesi",
+    "İcra dairesinden gelen haciz ihbarnamesi",
+    "İşverene verilen hacze rıza göstermediğinize dair dilekçe",
+    "İcra mahkemesine sunulacak şikayet dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Kıdem tazminatına nafaka borcu için haciz konulabilir mi?",
+      "a": "Nafaka alacakları öncelikli olduğu için kıdem tazminatından nafaka borcu için kesinti yapılması mümkündür."
+    },
+    {
+      "q": "Bankaya yatan kıdem tazminatı haczedilir mi?",
+      "a": "Tazminatınız banka hesabınıza yattığı andan itibaren genel borçlar kapsamında değerlendirilebilir, bu nedenle parayı çekerken dikkatli olunmalıdır."
+    },
+    {
+      "q": "İşveren icra yazısına uymazsa ne olur?",
+      "a": "İşveren icra dairesinin yazısına rağmen ödemeyi size yaparsa, icra dairesine karşı sorumlu duruma düşebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kidem-tazminati-nasil-alinir",
+  "angle": "Kıdem alacağının haczedilip haczedilemeyeceği",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

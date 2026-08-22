@@ -1,0 +1,101 @@
+{
+  "slug": "sira-cetveli",
+  "title": "Sıra cetveline nasıl itiraz edilir — Vatandaş Rehberi | Av. Fethi Güze",
+  "description": "Sıra cetveline nasıl itiraz edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
+  "h1": "Sıra cetveline nasıl itiraz edilir?",
+  "keywords": [
+    "sıra cetveli",
+    "sıra cetveline itiraz"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "icra-satis-ihalesi",
+    "haciz-islemleri-nasil-yapilir",
+    "icra-sikayeti"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=s%C4%B1ra%20cetveli"
+    }
+  ],
+  "lead": "Sıra cetveli, iflas veya icra sürecinde alacaklıların parayı hangi sırayla alacağını gösteren bir belgedir. Bu cetvelde kendinize yer bulamadıysanız veya sıranızın yanlış olduğunu düşünüyorsanız yasal yollara başvurabilirsiniz.",
+  "keyInsight": "İtirazınızın alacağın miktarına mı yoksa sadece sıraya mı yönelik olduğunu belirlemek, davanızı hangi mahkemeye açacağınızı belirleyen tek kriterdir.",
+  "sections": [
+    {
+      "heading": "Sıra cetveli nedir ve neden önemlidir?",
+      "paragraphs": [
+        "İflas masasına giren paranın alacaklılara nasıl dağıtılacağını belirleyen listeye sıra cetveli denir. Bu liste ilan edildiğinde, kimin ne kadar alacağı olduğu ve hangi sırada olduğu resmileşir.",
+        "Liste ilan edildikten sonra durumunuzu kontrol etmeniz gerekir. Eğer hakkınızın yendiğini düşünüyorsanız, **cetvelin ilanından itibaren** harekete geçmelisiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Alacağınızın miktarına itiraz ediyorsanız",
+      "paragraphs": [
+        "Eğer alacağınızın miktarının yanlış hesaplandığını veya haksız yere reddedildiğini düşünüyorsanız, davanızı ticaret mahkemesinde açmanız gerekir.",
+        "Dava, itirazın niteliğine göre ya iflas masasına karşı ya da doğrudan ilgili alacaklıya karşı açılır. Bu süreç basit yargılama usulü ile ilerler."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Sadece sıraya itiraz ediyorsanız",
+      "paragraphs": [
+        "Alacağınızın miktarında bir sorun yoksa ancak 'ben daha ön sırada olmalıydım' diyorsanız, yolunuz farklıdır.",
+        "Sıra cetvelindeki sıralamaya yönelik itirazlar, **şikayet yoluyla icra mahkemesine** yapılır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Dava sonucu ne olur?",
+      "paragraphs": [
+        "Açtığınız davayı kazanırsanız, size ayrılması gereken hisse, dava masrafları da dahil olmak üzere tarafınıza ödenir.",
+        "Sıra cetvelinde yapılan düzeltmeden sonra artan bir para olursa, bu miktar diğer alacaklılara kendi sıralarına göre dağıtılır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İlan edilen sıra cetvelini dikkatle inceleyin.",
+    "İtirazınızın miktar mı yoksa sıra mı olduğunu tespit edin.",
+    "Süreyi geçirmeden yetkili mahkemeye başvurun.",
+    "İtirazın türüne göre dava dilekçenizi hazırlayın.",
+    "Basit yargılama usulü kapsamında duruşmaları takip edin."
+  ],
+  "documents": [
+    "Sıra cetvelinin ilan metni",
+    "Alacaklı olduğunuzu kanıtlayan belgeler",
+    "Dava dilekçesi",
+    "Tebligat mazbatası"
+  ],
+  "faq": [
+    {
+      "q": "İtiraz için ne kadar sürem var?",
+      "a": "Sıra cetvelinin ilanından itibaren 15 gün içinde dava açmanız gerekir."
+    },
+    {
+      "q": "Davamı hangi mahkemede açmalıyım?",
+      "a": "Alacak miktarına itiraz ediyorsanız ticaret mahkemesinde, sadece sıraya itiraz ediyorsanız icra mahkemesinde dava açmalısınız."
+    },
+    {
+      "q": "Başkasının alacağına itiraz edebilir miyim?",
+      "a": "Evet, eğer bir başkasının kabul edilen alacağı veya sırası sizin hakkınızı engelliyorsa, o alacaklı aleyhine dava açabilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Sıra cetveli",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

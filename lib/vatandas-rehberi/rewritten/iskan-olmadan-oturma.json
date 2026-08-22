@@ -1,0 +1,110 @@
+{
+  "slug": "iskan-olmadan-oturma",
+  "title": "İskansız evde oturulur mu — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İskansız evde oturulur mu? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
+  "h1": "İskansız evde oturulur mu?",
+  "keywords": [
+    "iskansız daire",
+    "iskansız ev riskleri"
+  ],
+  "category": "İmar",
+  "related": [
+    "iskan-belgesi-nedir",
+    "kacak-yapi-cezasi",
+    "tapu-devri-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/iskan-belgesi-nedir"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    },
+    {
+      "label": "Kat mülkiyeti",
+      "href": "/kategori/katmulkiyeti"
+    }
+  ],
+  "lead": "Yeni bir eve taşınma hazırlığındasınız ve binanın iskan belgesi henüz alınmamış. İskansız bir yapıda oturmanın ve ortak giderlerle ilgili kuralların nasıl işleyeceğini bilmeniz gerekir.",
+  "keyInsight": "Bağımsız bölümlerde oturanlar, kira sözleşmesine veya oturma hakkına dayanarak devamlı faydalananlar da ortak gider borçlarından kat malikleriyle birlikte müteselsilen sorumludur.",
+  "sections": [
+    {
+      "heading": "İskansız binada yaşamak ne anlama gelir?",
+      "paragraphs": [
+        "Binanız tamamlanmış olsa bile resmi evrakları tamamlanmadan oturmaya başlamak bazı riskler barındırır. İmar kurallarına göre yapıların ruhsat ve projelere uygun bitirilmesi esastır.",
+        "Taşındığınız gayrimenkulün hukuki durumu, ileride karşınıza çıkabilecek idari denetimler açısından önem taşır."
+      ],
+      "bullets": [
+        "Ruhsat ve proje uyumu",
+        "İdari denetimler"
+      ]
+    },
+    {
+      "heading": "Ortak giderlerden kim sorumludur?",
+      "paragraphs": [
+        "Binada yaşamaya başladığınız andan itibaren karşılıklı yükümlülükleriniz başlar. Kat malikleri kadar **bağımsız bölümlerde oturan kiracılar** da ortak gider borçlarından sorumludur.",
+        "Bu sorumluluk kat malikleri ile birlikte müştereken devam eder."
+      ],
+      "bullets": [
+        "Ortak gider katılımı",
+        "Müteselsil sorumluluk"
+      ]
+    },
+    {
+      "heading": "Komşuluk hakları ve kurallar",
+      "paragraphs": [
+        "Evde otururken doğruluk kaidelerine uymak, birbirinizi rahatsız etmemek ve hakları çiğnememek temel kuraldır. Yönetim planı hükümlerine herkes uymakla yükümlüdür.",
+        "Kurallara uyulmadığı durumlarda **sulh mahkemesine başvurarak** hakim müdahalesi istenebilir."
+      ],
+      "bullets": [
+        "Yönetim planına uyum",
+        "Hakim müdahalesi"
+      ]
+    },
+    {
+      "heading": "Borçlar ödenmezse ne olur?",
+      "paragraphs": [
+        "Gider borcunu ödemeyen kat malikleri veya diğer sorumlular için yasal yollar devreye girer. Alacaklı kat maliklerinin hakları önceliklidir.",
+        "Mahkeme süreci sonucunda ödenmeyen borçlar için yasal takip yolları işletilebilir."
+      ],
+      "bullets": [
+        "Öncelikli alacaklar",
+        "Yasal takip"
+      ]
+    }
+  ],
+  "steps": [
+    "Binanın ruhsat ve proje durumunu inceleyin.",
+    "Yönetim planı hükümlerini okuyun.",
+    "Ortak gider katılım paylarını öğrenin.",
+    "Komşuluk haklarına ve kurallara uyun."
+  ],
+  "documents": [
+    "Kira sözleşmesi veya oturma hakkı belgesi",
+    "Yönetim planı",
+    "Yapı ruhsatı ve proje bilgileri"
+  ],
+  "faq": [
+    {
+      "q": "İskansız evde oturmak yasal mı?",
+      "a": "Yapıların imar mevzuatına ve projesine uygun şekilde tamamlanması ve süreçlerin tamamlanması gereklidir."
+    },
+    {
+      "q": "Kiracı ortak giderleri ödemek zorunda mı?",
+      "a": "Bağımsız bölümden devamlı faydalanan kiracılar, ortak gider borçlarından ödemekle yükümlü oldukları kira miktarı ile sınırlı olmak üzere sorumludur."
+    },
+    {
+      "q": "Komşularla anlaşmazlık çıkarsa ne yapılabilir?",
+      "a": "Anagayrimenkulün bulunduğu yerdeki sulh mahkemesine başvurarak hakimin müdahalesi istenebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "iskan-belgesi-nedir",
+  "angle": "İskansız risk",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

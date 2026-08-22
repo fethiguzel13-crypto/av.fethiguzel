@@ -1,0 +1,111 @@
+{
+  "slug": "belirsiz-alacak-davasi",
+  "title": "Belirsiz alacak davası — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Belirsiz alacak davası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
+  "h1": "Belirsiz alacak davası",
+  "keywords": [
+    "belirsiz alacak davası",
+    "belirsiz alacak davasi"
+  ],
+  "category": "Usul",
+  "related": [
+    "zamanaşimi-nedir",
+    "hukuk-davasi-nasil-acilir",
+    "islah-nedir",
+    "iscilik-alacaklari-zamansimi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/zamanaşimi-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "İş",
+      "href": "/kategori/is-kanunu"
+    }
+  ],
+  "lead": "Mahkemeden bir hakkın yerine getirilmesini istediğinizde, talep sonucunun miktarını tam olarak belirleyemediğiniz hallerde izlenen yol karşınıza çıkar. Bu süreçte doğru adımları atmak hak kaybını önler.",
+  "keyInsight": "Arabuluculuk sürecinde varılan anlaşmanın uygulanması ve icrası için gerekli olduğu ölçüde bazı beyan ve belgeler açıklanabilir.",
+  "sections": [
+    {
+      "heading": "Eda davası nedir?",
+      "paragraphs": [
+        "Mahkeme salonundasınız ve karşı taraftan bir talepte bulunuyorsunuz. Eda davası yoluyla mahkemeden, davalının bir şeyi vermeye veya yapmaya yahut yapmamaya mahkûm edilmesi talep edilir."
+      ],
+      "bullets": [
+        "Verme, yapma veya yapmama borcu",
+        "Mahkeme kararıyla icra edilebilirlik"
+      ]
+    },
+    {
+      "heading": "Tespit davasının sınırları nelerdir?",
+      "paragraphs": [
+        "Bir hakkın varlığını veya yokluğunu mahkemeye taşıyabilirsiniz. Tespit davası yoluyla, mahkemeden bir hakkın veya hukuki ilişkinin varlığının ya da yokluğunun yahut bir belgenin sahte olup olmadığının belirlenmesi talep edilir.",
+        "Bu davayı açmak için hukuki yarar aranır. Tespit davası açanın, kanunlarda belirtilen istisnai durumlar dışında, bu davayı açmakta **hukuken korunmaya değer güncel bir yararı** bulunmalıdır.",
+        "Maddi vakıalar tek başına bu davanın konusu olamaz. Maddi vakıalar, tek başlarına tespit davasının konusunu oluşturamaz."
+      ],
+      "bullets": [
+        "Güncel hukuki yarar şartı",
+        "Maddi vakıaların tek başına yetersizliği"
+      ]
+    },
+    {
+      "heading": "Arabuluculukta son tutanak neden önemlidir?",
+      "paragraphs": [
+        "Dava açmadan önce arabuluculuk yoluna başvurduğunuzda elinizde resmi bir evrak bulunur. Davacı, arabuluculuk faaliyeti sonunda anlaşmaya varılamadığına ilişkin son tutanağın aslını veya arabulucu tarafından onaylanmış bir örneğini dava dilekçesine eklemek zorundadır.",
+        "Bu zorunluluğa uyulmaması hâlinde mahkemeca davacıya, son tutanağın sunulması gerektiği **kesin süre** içinde bildirilir. İhtarın gereği yerine getirilmez ise dava dilekçesi karşı tarafa tebliğe çıkarılmaksızın davanın usulden reddine karar verilir."
+      ],
+      "bullets": [
+        "Son tutanağın dilekçeye eklenmesi",
+        "Usulden ret riski"
+      ]
+    },
+    {
+      "heading": "Hangi arabuluculuk belgeleri delil olamaz?",
+      "paragraphs": [
+        "Görüşmeler sırasında sarf edilen sözlerin mahkemede kullanılıp kullanılmayacağı merak konusudur. Taraflar, arabulucu veya arabuluculuğa katılanlar da dâhil üçüncü bir kişi, uyuşmazlıkla ilgili olarak hukuk davası açıldığında arabuluculuk davetini veya katılma isteğini delil olarak ileri süremez.",
+        "Ayrıca uyuşmazlığın sona erdirilmesi için ileri sürülen görüşler, teklifler ve iddiaların kabulü gibi beyanlar delil yapılamaz. Bu bilgiler mahkeme veya herhangi bir idari makam tarafından istenemez."
+      ],
+      "bullets": [
+        "Görüşme tekliflerinin gizliliği",
+        "Delil yasağı"
+      ]
+    }
+  ],
+  "steps": [
+    "Uyuşmazlık konusunu ve talebinizi netleştirin.",
+    "Zorunlu arabuluculuk yoluna başvurun.",
+    "Arabuluculuk son tutanağını temin edin.",
+    "Dava dilekçesini hazırlarken son tutanağı ekleyin."
+  ],
+  "documents": [
+    "Arabuluculuk son tutanağın aslı veya onaylı örneği",
+    "Dava dilekçesi",
+    "İletişim bilgileri formu"
+  ],
+  "faq": [
+    {
+      "q": "Tespit davası her konuda açılabilir mi?",
+      "a": "Hayır, maddi vakıalar tek başlarına tespit davasının konusunu oluşturamaz ve dava açmakta güncel hukuki yarar bulunmalıdır."
+    },
+    {
+      "q": "Arabuluculuk son tutanağı sunulmazsa ne olur?",
+      "a": "Mahkeme tarafından verilen süre içinde tutanak sunulmazsa dava dilekçesi karşı tarafa tebliğe çıkarılmaksızın davanın usulden reddine karar verilir."
+    },
+    {
+      "q": "Arabuluculuktaki teklifler mahkemede delil olarak sunulabilir mi?",
+      "a": "Hayır, arabuluculuk faaliyeti esnasındaki görüşler, teklifler ve iddiaların kabulü hukuk davasında delil olarak ileri sürülemez."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "zamanaşimi-nedir",
+  "angle": "Belirsiz alacak davası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

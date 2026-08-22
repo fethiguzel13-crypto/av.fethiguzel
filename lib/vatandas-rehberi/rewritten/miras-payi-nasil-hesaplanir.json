@@ -1,0 +1,101 @@
+{
+  "slug": "miras-payi-nasil-hesaplanir",
+  "title": "Miras Payı Nasıl Hesaplanır?",
+  "description": "Yasal miras payı nasıl hesaplanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
+  "h1": "Yasal miras payı nasıl hesaplanır?",
+  "keywords": [
+    "miras payı nasıl hesaplanır",
+    "yasal mirasçılık pay"
+  ],
+  "category": "Miras",
+  "related": [
+    "veraset-ilami-nasil-alinir",
+    "e-devlet-veraset",
+    "tapu-devri-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/veraset-ilami-nasil-alinir"
+    },
+    {
+      "label": "Miras rehberi",
+      "href": "/rehber/miras-paylasimi"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/miras"
+    }
+  ],
+  "lead": "Miras paylaşımı, mirasbırakanın vefatıyla birlikte yasal mirasçıların ve varsa eşin paylarının belirlenmesi sürecidir. Bu hesaplama, ölen kişinin yakınlık derecesine göre kurulan zümre sistemine ve sağ kalan eşin hangi zümreyle birlikte mirasçı olduğuna göre değişir.",
+  "keyInsight": "Miras paylaşımında en büyük tuzak, eşin mal rejimi alacağı ile miras payının birbirine karıştırılmasıdır; mal rejiminden doğan haklar miras payından önce ayrılmalıdır.",
+  "sections": [
+    {
+      "heading": "Kim hangi sıra ile mirasçı olur?",
+      "paragraphs": [
+        "Cenaze kalktıktan sonra herkesin aklındaki ilk soru paranın nasıl bölüşüleceğidir. Kanunumuz bu paylaşımı zümre adı verilen bir soy ağacı sırasına bağlar. İlk sırada mirasbırakanın çocukları ve torunları, yani altsoyu yer alır. Eğer altsoyda kimse yoksa, miras hakkı yukarıya doğru çıkar ve anne ile babaya, onlar da hayatta değilse kardeşlere geçer.",
+        "Bu sistemde her zümre kendinden sonra gelenin yolunu kapatır. Yani ölen kişinin çocuğu varsa, anne ve babasına yasal miras payı düşmez. Paylaşım yapılırken her derece kendi içinde eşit olarak bölünür."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Sağ kalan eşin payı nasıl değişir?",
+      "paragraphs": [
+        "Eşiniz vefat ettiğinde payınız, onun hangi akrabalarıyla baş başa kaldığınıza göre belirlenir. Eğer eşinizden kalan çocuklar varsa, sizin yasal payınız **dörtte bir** olarak hesaplanır; kalan kısım çocuklara eşit dağıtılır.",
+        "Eğer çocuk yoksa ve eşinizin anne babasıyla mirasçı olursanız, payınız **yarım** hisseye yükselir. Daha uzak akrabalarla karşılaştığınızda ise bu oran daha da artarak lehinize değişir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Bir mirasçı listeden çıkarılırsa ne olur?",
+      "paragraphs": [
+        "Bazen aile içindeki kırgınlıklar yasal sınırlara dayanır ve mirasbırakan birini mirasçılıktan çıkarabilir. Bu durumda, mirasçılıktan çıkarılan kişi mirastan pay alamayacağı gibi hakkını aramak için tenkis davası da açamaz.",
+        "Eğer mirasbırakan vasiyetnamesinde aksini özellikle belirtmemişse, çıkarılan kişi **sanki önce ölmüş gibi** kabul edilir. Onun payı varsa kendi çocuklarına, yoksa diğer yasal mirasçılara kalır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Geçmişte yapılan bağışlar hesabı bozar mı?",
+      "paragraphs": [
+        "Mirasbırakan hayattayken çocuklarından birine iş kursun diye sermaye vermiş veya evlenirken çeyiz adı altında büyük yardımlar yapmış olabilir. İşte bu tür karşılıksız kazandırmalar, ölümden sonra sanki hiç verilmemiş gibi miras hesabına geri dahil edilir.",
+        "Özellikle saklı payları aşındırmak amacıyla yapılan bağışlamalar veya ölümden önceki son bir yıl içinde yapılan alışılmışın dışındaki hediyeler tenkise tabi tutulur ve hesaplama esnasında masaya geri yatırılır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Sulh hukuk mahkemesinden veya noterden veraset ilamı alarak yasal mirasçıları kesinleştirin.",
+    "Ölen kişinin altsoyu, anne-babası ve eşinin hayatta olup olmadığını zümre sırasına göre dizin.",
+    "Sağ kalan eşin, birlikte mirasçı olduğu zümreye göre yasal oranını netleştirin.",
+    "Mirasbırakanın geçmişte yaptığı karşılıksız kazandırmaları ve varsa vasiyetnamesini dosyaya ekleyin.",
+    "Hesaplanan net pay oranlarını tapu tescili ve banka hesaplarının paylaşımı için resmi kurumlara sunun."
+  ],
+  "documents": [
+    "Veraset ilamı",
+    "Detaylı nüfus kayıt örneği",
+    "Varsa resmi vasiyetname",
+    "Mirasbırakana ait tapu ve ruhsat kayıtları",
+    "Geçmişte yapılan bağışlara ilişkin belgeler"
+  ],
+  "faq": [
+    {
+      "q": "Eşin mal rejimi alacağı miras payından önce mi ödenir?",
+      "a": "Evet, sağ kalan eşin evlilik süresince edinilen mallar üzerindeki alacak hakkı miras paylaşımından önce hesaplanıp ayrılır, kalan miktar üzerinden miras payı dağıtılır."
+    },
+    {
+      "q": "Mirasçılıktan çıkarılan kişinin çocukları hak talep edebilir mi?",
+      "a": "Evet, mirasçılıktan çıkarılan kişinin altsoyu, o kişi sanki mirasbırakandan önce ölmüş gibi kendi saklı payını isteyebilir."
+    },
+    {
+      "q": "Tarımsal işletmelerin değeri miras hesabında nasıl belirlenir?",
+      "a": "Eşin veya çocukların işletmeye devam etmesi durumunda, değer artış payı ve katılma alacağı işletmenin gelir değeri göz önünde tutularak hesaplanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "veraset-ilami-nasil-alinir",
+  "angle": "Pay hesabı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

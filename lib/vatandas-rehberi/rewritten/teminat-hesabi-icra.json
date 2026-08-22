@@ -1,0 +1,105 @@
+{
+  "slug": "teminat-hesabi-icra",
+  "title": "İcra dosyasında teminat nasıl yatırılır — Vatandaş Rehberi | Av. Fethi",
+  "description": "İcra dosyasında teminat nasıl yatırılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı…",
+  "h1": "İcra dosyasında teminat nasıl yatırılır?",
+  "keywords": [
+    "icra teminat",
+    "istihkak teminat"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "istihkak-iddiasi",
+    "icra-satis-ihalesi",
+    "ihtiyati-tedbir-teminati"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "İcra dosyasında teminat yatırmak, bir hakkı korumak veya ihaleye katılabilmek için dosyaya güvence sunmaktır. Bu işlem, icra dairesinin belirttiği resmî hesaba para yatırarak gerçekleştirilir.",
+  "keyInsight": "İhaleye katılım için yatırılan teminat, ihale üzerinde kaldığı halde bedeli süresinde ödemezseniz geri alınamaz.",
+  "sections": [
+    {
+      "heading": "İhaleye girmek için nasıl yol izlenir?",
+      "paragraphs": [
+        "Bir malın icra yoluyla satışına katılmaya karar verdiğinizde, icra müdürlüğü tarafından belirlenen şartları yerine getirmeniz beklenir. İhale, malın muhammen kıymetinin belirli bir yüzdesi üzerinden başlar.",
+        "Satışa katılmak için gereken teminat miktarı ve yatırılacak hesap bilgileri, icra müdürü tarafından hazırlanan satış ilanında açıkça belirtilir. İlanı dikkatle inceleyerek süreci başlatmalısınız."
+      ],
+      "bullets": [
+        "Satış ilanındaki muhammen bedeli kontrol edin.",
+        "İcra dairesinin bildirdiği resmî banka hesabını kullanın.",
+        "Teminatı, ilanda belirtilen gün ve saatten önce yatırın."
+      ]
+    },
+    {
+      "heading": "İstihkak iddiasında teminat nedir?",
+      "paragraphs": [
+        "Haczedilen bir malın size ait olduğunu iddia ediyorsanız, bu durum bir istihkak iddiasıdır. İcra mahkemesi, bu iddianızın değerlendirilmesi sırasında masanın muhtemel zararlarını karşılamak amacıyla sizden teminat isteyebilir.",
+        "Mahkemenin belirlediği bu teminatı yatırmadığınız takdirde, iddianızın takibinde veya malın size tesliminde hukuki engellerle karşılaşabilirsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Teminatı yatırırken nelere dikkat etmeli?",
+      "paragraphs": [
+        "Parayı yatırırken mutlaka icra dosya numarasını ve açıklama kısmına 'teminat bedeli' olduğunu yazmalısınız. Eksik veya yanlış açıklamalı yatırılan paralar, dosya hesabına işlenirken karışıklığa yol açabilir.",
+        "İşleminizi tamamladıktan sonra banka dekontunu mutlaka saklayın. Bu belge, ödemeyi yaptığınızı kanıtlayan yegâne resmi evraktır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreci kaçırırsanız ne olur?",
+      "paragraphs": [
+        "İhale bedelini veya mahkemenin istediği teminatı süresi içinde yatırmazsanız, hak kaybına uğrarsınız. Özellikle ihale alıcısıysanız ve süresinde bedeli yatırmazsanız, yatırdığınız teminat satış masraflarına mahsup edilir ve size iade edilmez.",
+        "Bu nedenle, icra müdürlüğünden gelen sonuç tutanağını ve verilen süreleri yakından takip etmeniz hayati önem taşır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İcra dosyasının bulunduğu icra dairesinden güncel banka hesap bilgilerini öğrenin.",
+    "İlan edilen veya mahkemece belirlenen teminat tutarını tam olarak hazırlayın.",
+    "Banka dekontuna dosya numarasını ve 'teminat bedeli' ibaresini mutlaka yazın.",
+    "Yatırdığınız dekontun bir örneğini icra dosyasına sunulmak üzere dosya memuruna ulaştırın.",
+    "İşlemin icra dosyasına işlenip işlenmediğini UYAP vatandaş portalı üzerinden kontrol edin."
+  ],
+  "documents": [
+    "Banka ödeme dekontu",
+    "İcra dairesi satış ilanı",
+    "Mahkeme ara kararı veya tebligat",
+    "İcra dosyası kapak sureti"
+  ],
+  "faq": [
+    {
+      "q": "Teminatı hangi hesaba yatırmalıyım?",
+      "a": "Teminatlar, icra dairesinin adliye adına açılmış olan resmî banka hesabına yatırılır. Şahsi hesaplara veya başka dosyalara ödeme yapmamaya dikkat edin."
+    },
+    {
+      "q": "İhaleyi kazanamazsam teminatım yanar mı?",
+      "a": "Hayır, ihale üzerinizde kalmazsa yatırdığınız teminat, icra dairesine başvurmanız durumunda size iade edilir."
+    },
+    {
+      "q": "Teminatın miktarını nasıl öğrenirim?",
+      "a": "İhale ile ilgili teminat miktarı satış ilanında yazar. Mahkemece istenen teminatlarda ise mahkeme ara kararında belirtilen miktarı esas almalısınız."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "İcra teminatı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

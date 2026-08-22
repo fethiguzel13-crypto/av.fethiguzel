@@ -1,0 +1,112 @@
+{
+  "slug": "muhtasar-beyanname",
+  "title": "Muhtasar beyanname — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Muhtasar beyanname hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
+  "h1": "Muhtasar beyanname",
+  "keywords": [
+    "muhtasar beyanname",
+    "muhtasar beyanname"
+  ],
+  "category": "Vergi",
+  "related": [
+    "kdv-nedir",
+    "stopaj-nedir",
+    "gelir-vergisi-nedir",
+    "e-fatura-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kdv-nedir"
+    },
+    {
+      "label": "GVK",
+      "href": "/kategori/gvk"
+    },
+    {
+      "label": "VUK",
+      "href": "/kategori/vuk"
+    }
+  ],
+  "lead": "İş yerinde yapılan ödemeler üzerinden kesilen vergilerin vergi dairesine bildirilmesi gerekir. Asıl mesele, genel bütçeye dahil idare ve müesseselerin bu kapsamda beyanname vermeme durumudur.",
+  "keyInsight": "Genel bütçeye dahil idare ve müesseseler yaptıkları vergi tevkifatı için beyanname vermezler.",
+  "sections": [
+    {
+      "heading": "Vergi ne zaman ödenir?",
+      "paragraphs": [
+        "Vergi, kanunlarında gösterilen süreler içinde ödenir. Ödeme süresinin son günü verginin vadesi tarihidir.",
+        "Sürenin uzaması halinde vade uzayan sürenin bittiği gündür."
+      ],
+      "bullets": [
+        "Ödeme süresinin son günü vadedir",
+        "Posta ile gönderimde tahakkuk beklenmez"
+      ]
+    },
+    {
+      "heading": "Kimler beyanname vermez?",
+      "paragraphs": [
+        "İşlemler yürütülürken bazı kurumlar için istisnalar öngörülmüştür. Genel bütçeye dahil idare ve müesseseler bu kuralın dışındadır.",
+        "Bu kurumlar yaptıkları vergi tevkifatı için ayrı bir beyanname vermezler."
+      ],
+      "bullets": [
+        "Genel bütçeye dahil idareler",
+        "Muhtasar beyanname vermeyen kurumlar"
+      ]
+    },
+    {
+      "heading": "Hatalar nasıl fark edilir?",
+      "paragraphs": [
+        "Vergilendirme evrakında rakam indirim yanlışlıkları bulunabilir. Matraha ait rakamların eksik ya da fazla gösterilmesi hesap hataları arasındadır.",
+        "Aynı vergi döneminde aynı matrah üzerinden birden fazla vergi istenmesi mükerrerlik yaratır."
+      ],
+      "bullets": [
+        "Matrah hataları",
+        "Mükerrer vergi durumu"
+      ]
+    },
+    {
+      "heading": "Ödeme zor durumu aşma yolları nelerdir?",
+      "paragraphs": [
+        "Borçların vadesinde ödenmesi borçluyu çok zor duruma düşürebilir. Bu durumda yazı ile başvuru yapılması gerekebilir.",
+        "Şartların sağlanması halinde ilgili borçlar için belirli kurallar işletilir."
+      ],
+      "bullets": [
+        "Yazılı başvuru şartı",
+        "Çok zor durum hali"
+      ]
+    }
+  ],
+  "steps": [
+    "Vergi tevkifatı işlemlerini takip edin",
+    "Ödeme sürelerini ve vadeleri kontrol edin",
+    "Genel bütçeye dahil idare istisnasını göz önüne alın",
+    "Hesap hatalarını ve matrahları inceleyin"
+  ],
+  "documents": [
+    "Beyanname",
+    "Tahakkuk fişi",
+    "İhbarname",
+    "Tekalif cetveli"
+  ],
+  "faq": [
+    {
+      "q": "Genel bütçeye dahil idareler beyanname verir mi?",
+      "a": "Genel bütçeye dahil idare ve müesseseler yaptıkları vergi tevkifatı için beyanname vermezler."
+    },
+    {
+      "q": "Verginin vadesi ne zaman biter?",
+      "a": "Vergi, kanunlarında gösterilen süreler içinde ödenir ve ödeme süresinin son günü vadedir."
+    },
+    {
+      "q": "Hesap hatası nedir?",
+      "a": "Matraha ait rakamların veya indirimlerin eksik ya da fazla gösterilmesi hesap hatasıdır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kdv-nedir",
+  "angle": "Muhtasar beyanname",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

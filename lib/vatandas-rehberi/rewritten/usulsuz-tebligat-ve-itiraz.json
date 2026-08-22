@@ -1,0 +1,122 @@
+{
+  "slug": "usulsuz-tebligat-ve-itiraz",
+  "title": "Usulsüz Tebligat: Süre Ne Zaman Başlar, Nasıl İtiraz Edilir?",
+  "description": "Tebligat usulüne aykırı yapılmışsa süre ne zaman işler, kapıya yapıştırma ne anlama gelir, komşuya bırakılan tebligat geçerli mi? Tebligat Kanunu m.16, 21 ve 32 çerçevesinde.",
+  "h1": "Usulsüz tebligat ve süreye etkisi",
+  "keywords": [
+    "usulsüz tebligat",
+    "tebligat itirazı",
+    "kapıya yapıştırma tebligat",
+    "muhtara tebligat",
+    "tebliğ tarihi",
+    "tebligat geçerli mi"
+  ],
+  "category": "Usul",
+  "related": [
+    "odeme-emrine-itiraz",
+    "zamanasimi-sureleri"
+  ],
+  "links": [
+    {
+      "label": "Teb. K. m.16 — Aynı konutta oturanlara tebligat",
+      "href": "/mevzuat/tebligat/madde-16"
+    },
+    {
+      "label": "Teb. K. m.21 — Tebliğ imkânsızlığı",
+      "href": "/mevzuat/tebligat/madde-21"
+    },
+    {
+      "label": "Teb. K. m.32 — Usulsüz tebliğin hükmü",
+      "href": "/mevzuat/tebligat/madde-32"
+    },
+    {
+      "label": "Süre hesaplama aracı",
+      "href": "/hesaplama/sure"
+    }
+  ],
+  "lead": "Tebligatın usulsüz yapılması, sürenin bittiği anlamına gelmez. Önemli olan, evrakı fiilen öğrendiğiniz tarihtir.",
+  "keyInsight": "Usulsüz tebligat iddiasında asıl mesele tebligatın hatalı olması değil, öğrenme tarihini somut delillerle ispat edebilmektir.",
+  "sections": [
+    {
+      "heading": "Tebligat neden bu kadar önemli?",
+      "paragraphs": [
+        "Hukukta hemen her hak bir süreye bağlıdır ve bu süreler kural olarak tebliğ tarihinden itibaren işlemeye başlar. Ödeme emri, işe iade veya dava dilekçesi gibi kritik belgelerde süreyi kaçırmak, hakkınızı kaybetmenize neden olabilir.",
+        "Tebligatın hatalı yapılması, sürenin daha geç başlamasına imkân verir. Bu nedenle süresini kaçırdığınızı düşündüğünüzde, ilk bakmanız gereken yer tebligat parçasıdır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Adreste bulunmazsanız süreç nasıl işler?",
+      "paragraphs": [
+        "Kanun, tebligat için kademeli bir yol izler. Önce aynı konutta oturanlara veya hizmetçiye teslim denenir. Kimse bulunamazsa muhtar veya zabıtaya teslim yapılır.",
+        "Teslim tek başına yeterli değildir; **ihbarnamenin kapıya yapıştırılması** zorunludur. Ayrıca mümkünse komşuya veya yöneticiye haber verilmelidir. İhbarnamenin kapıya yapıştırıldığı gün, tebliğ tarihi sayılır."
+      ],
+      "bullets": [
+        "Muhatap yoksa aynı konuttakilere veya hizmetçiye teslim.",
+        "Kimse yoksa muhtar veya zabıtaya teslim.",
+        "İhbarname binanın kapısına yapıştırılır.",
+        "Mümkünse komşuya veya yöneticiye haber verilir."
+      ]
+    },
+    {
+      "heading": "Usulsüzlük hangi durumlarda doğar?",
+      "paragraphs": [
+        "Kapıya ihbarname yapıştırılmadan yalnızca muhtara teslim yapılması veya adreste bulunmama sebebinin tebliğ evrakında gösterilmemesi tipik usulsüzlük halleridir.",
+        "Ayrıca, adreste bulunmadığınız araştırılmadan varsayılırsa veya aynı konutta oturmayan birine tebligat yapılırsa usulsüzlük doğar. Tebliğ memurunun tespiti, tebligat parçasında mutlaka görünmelidir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Usulsüzlük tespit edilirse ne olur?",
+      "paragraphs": [
+        "Tebligatın usulsüz olması, onun tamamen yok sayılacağı anlamına gelmez. Eğer tebliğe muttali olduysanız, yani içeriği öğrendiyseniz, tebligat geçerli hâle gelir.",
+        "Değişen tek şey tarihtir: **Muhatabın beyan ettiği tarih** tebliğ tarihi sayılır. Bu durum, kaçırılmış görünen sürenin yeniden canlanmasını sağlar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Öğrenme tarihini nasıl ispatlarsınız?",
+      "paragraphs": [
+        "Dosyanın kaderini belirleyen nokta budur. Yalnızca 'görmedim' demek yeterli değildir; beyanınızı somut belgelerle desteklemelisiniz.",
+        "UYAP erişim kaydı, bankadan gelen haciz bildirimi, vekâletname tarihi veya yurt dışı giriş-çıkış kayıtları gibi belgeler ispat için hayati önem taşır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Tebligat parçasının bir örneğini dosyadan alın.",
+    "Adreste bulunmama sebebinin yazılıp yazılmadığını kontrol edin.",
+    "Kapıya ihbarname yapıştırıldığına dair kayıt olup olmadığına bakın.",
+    "Usulsüzlük varsa öğrenme tarihinizi belgeleyin.",
+    "İcra dosyasında icra mahkemesine şikâyet, davada ilgili mahkemeye başvurun."
+  ],
+  "documents": [
+    "Tebligat parçası",
+    "UYAP veya e-Devlet dosya erişim kaydı",
+    "Vekâletname veya banka haciz bildirimi",
+    "Yurt dışı giriş-çıkış kayıtları veya hastane raporu"
+  ],
+  "faq": [
+    {
+      "q": "Tebligatı hiç almadım, süre yine de işler mi?",
+      "a": "Usulüne uygun yapılmış tebligatlarda ihbarnamenin kapıya yapıştırıldığı tarih tebliğ tarihi sayılır ve süre işler. Usulsüzlük varsa süre, öğrendiğinizi ispat ettiğiniz tarihten başlar."
+    },
+    {
+      "q": "Komşuma bırakılan tebligat geçerli mi?",
+      "a": "Hayır, komşuya evrak teslim edilmez. Komşuya sadece haber verilir; tebligat muhatabın kendisine veya aynı konutta yaşayanlara yapılmalıdır."
+    },
+    {
+      "q": "Usulsüz tebligat, tebligatı geçersiz kılar mı?",
+      "a": "Kendiliğinden geçersiz kılmaz. Muhatap tebliğe muttali olmuşsa tebligat geçerli sayılır, ancak süre sizin beyan ettiğiniz tarihten itibaren işlemeye başlar."
+    },
+    {
+      "q": "Adresim değişti, ne yapmalıyım?",
+      "a": "Adres değişikliğini adres kayıt sistemine zamanında bildirin. Eski adrese yapılan tebligatlarda usulsüzlük iddiası çok daha zor tartışılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.93,
+  "voice": "narrative",
+  "source": "gemini"
+}

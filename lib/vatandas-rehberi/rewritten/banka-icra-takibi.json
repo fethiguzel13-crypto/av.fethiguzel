@@ -1,0 +1,111 @@
+{
+  "slug": "banka-icra-takibi",
+  "title": "Bankadan icra gelince ne yapılmalı — Vatandaş Rehberi | Av. Fethi Güze",
+  "description": "Bankadan icra gelince ne yapılmalı? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
+  "h1": "Bankadan icra gelince ne yapılmalı?",
+  "keywords": [
+    "banka icra takibi",
+    "banka haciz"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "odeme-emrine-itiraz",
+    "kredi-borcu-yapislandirma",
+    "icra-borcu-yapislandirma"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "TKHK",
+      "href": "/kategori/tkhk"
+    }
+  ],
+  "lead": "Bankadan icra kağıdı geldiğinde evde panik başlaması normaldir ancak asıl mesele gelen kağıttaki talimatları ve uyarıları doğru okumaktır. Borcun ve masrafların nereye yatırılacağı ödeme emrinde açıkça belirtilir.",
+  "keyInsight": "Ödeme emri elinize ulaştığında senedin imzasını veya borcun kendisini inkar etmek ya da zaman aşımı itirazında bulunmak istiyorsanız **beş günlük kesin süreye** mutlaka dikkat etmelisiniz.",
+  "sections": [
+    {
+      "heading": "Kapınıza gelen ödeme emri ne söylüyor?",
+      "paragraphs": [
+        "Postacı kapıyı çaldığında elinize tutuşturulan kağıt bir ödeme emridir. İcra memuru senedin vadesinin geldiğini gördüğünde size bu emri gönderir.",
+        "Bu kağıtta borcun ne kadar olduğu, masrafların tutarı ve paranın yatırılacağı icra dairesinin banka hesabı açıkça yazar."
+      ],
+      "bullets": [
+        "Ödeme emrini dikkatle inceleyin.",
+        "Banka hesabını kontrol edin."
+      ]
+    },
+    {
+      "heading": "Borcu kapatmak için ne kadar vaktiniz var?",
+      "paragraphs": [
+        "Elinize geçen ödeme emri doğrultusunda borcu ve takip masraflarını kapatmak için **on günlük süre** tanınmıştır.",
+        "Bu süre zarfında ödeme yapılmazsa ve itirazda bulunulmazsa haciz aşamasına geçilir."
+      ],
+      "bullets": [
+        "10 gün içinde ödeme yapın.",
+        "Parayı icra dairesinin hesabına yatırın."
+      ]
+    },
+    {
+      "heading": "İmzaya veya borca itiraz etmek için ne yapmalı?",
+      "paragraphs": [
+        "Eğer takibe dayanak olan senetteki imzanın size ait olmadığını düşünüyorsanız veya borcun zaten ödendiğini, zaman aşımına uğradığını savunuyorsanız bunu mahkemeye bildirmelisiniz.",
+        "Bu itirazlarınızı **beş gün içinde** ilgili mahkemeye açık bir dilekçeyle sunmanız gerekir."
+      ],
+      "bullets": [
+        "İmza itirazını süresinde yapın.",
+        "Zaman aşımı iddiasını dilekçeye yazın."
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırırsanız karşınıza ne çıkar?",
+      "paragraphs": [
+        "Tanınan süreler içinde ne borcu öder ne de gerekli itirazları yaparsanız cebri icra işlemleri hızla devreye girer.",
+        "Ayrıca mal beyanında bulunmamak veya gerçeğe aykırı beyan vermek gibi durumlarda **hapisle tazyik** yaptırımıyla karşılaşma riskiniz doğar."
+      ],
+      "bullets": [
+        "Süreleri asla geçirmeyin.",
+        "Mal beyanını ihmal etmeyin."
+      ]
+    }
+  ],
+  "steps": [
+    "Ödeme emri belgesini ve üzerindeki tarihleri dikkatle inceleyin",
+    "Borç miktarını ve masrafları belirlenen icra dairesi hesabına yatırın",
+    "İmza veya borç itirazınız varsa süresi içinde ilgili mahkemeye başvurun",
+    "İtiraz etmeyecekseniz veya borcu ödemediyseniz süresinde mal beyanında bulunun"
+  ],
+  "documents": [
+    "Ödeme emri kağıdı",
+    "Banka dekontu veya ödeme kanıtı",
+    "İtiraz dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Bankadan gelen icra kağıdını görünce ilk ne yapmalıyım?",
+      "a": "Kağıt üzerindeki borç miktarını, hesap bilgilerini ve size tanınan süreleri incelemelisiniz."
+    },
+    {
+      "q": "Borca veya imzaya itiraz etmek için ne kadar sürem var?",
+      "a": "Ödeme emrinin tebliğinden itibaren beş gün içinde icra mahkemesine dilekçe ile başvurmanız gereklidir."
+    },
+    {
+      "q": "Ödeme emrindeki borcu ödemezsem ne olur?",
+      "a": "On gün içinde ödeme yapılmaz ve itiraz edilmezse haciz işlemleri başlar ve mal beyanında bulunulmazsa hapis tehdidi doğar."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Banka alacaklı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

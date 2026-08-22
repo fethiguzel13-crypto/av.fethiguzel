@@ -1,0 +1,107 @@
+{
+  "slug": "borclu-olmadiginin-tespiti",
+  "title": "Borçlu olmadığımı nasıl ispatlarım — Vatandaş Rehberi | Av. Fethi Güze",
+  "description": "Borçlu olmadığımı nasıl ispatlarım? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
+  "h1": "Borçlu olmadığımı nasıl ispatlarım?",
+  "keywords": [
+    "borçlu olmadığının tespiti"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "menfi-tespit-davasi",
+    "istirdat-davasi",
+    "odeme-emrine-itiraz"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Kapınıza gelen icra emriyle sarsıldıysanız, paniği bir kenara bırakıp elinizdeki belgeleri kontrol etmelisiniz. Borçlu olmadığınızı ispat etmek, doğru merciye zamanında başvurmaktan geçer.",
+  "keyInsight": "Borçlu olmadığınızı ispat edebilmek için elinizde borcun ödendiğini, iptal edildiğini veya hiç doğmadığını gösteren imzalı, resmî bir belgenin olması şarttır.",
+  "sections": [
+    {
+      "heading": "İcra takibi başladığında ne yapmalı?",
+      "paragraphs": [
+        "Evinize veya iş yerinize bir ödeme emri geldiğinde, borçlu olmadığınızı düşünüyorsanız hemen harekete geçmelisiniz. Tebliğ edilen belgeyi detaylıca inceleyin ve hangi alacaklı tarafından, ne sebeple başlatıldığını anlayın.",
+        "İtiraz dilekçenizi icra dairesine sunarak takibi durdurabilirsiniz. Ancak unutmayın, sadece itiraz etmek yetmez; bu itirazı destekleyecek somut delillerinizi de beraberinde sunmanız gerekir."
+      ],
+      "bullets": [
+        "Ödeme emrini titizlikle okuyun.",
+        "İtiraz dilekçenizi zamanında hazırlayın.",
+        "Elindeki belgeleri dosyaya ekleyin."
+      ]
+    },
+    {
+      "heading": "Hâkim karşısında ispat süreci nasıl işler?",
+      "paragraphs": [
+        "İcra mahkemesi hâkimi, itirazınızı incelemek üzere tarafları duruşmaya çağırır. Bu aşamada borcun ödenmiş olduğu veya aslında hiç doğmadığı resmî belgelerle ortaya konulmalıdır.",
+        "Eğer alacaklı, sunduğunuz belgedeki imzayı inkâr ederse, mahkeme bu imzanın kime ait olduğunu özel bir incelemeyle tespit eder. Hâkim, borçlu olmadığınız kanaatine varırsa takibi durdurabilir."
+      ],
+      "bullets": [
+        "Resmî belgeler en güçlü delildir.",
+        "İmza itirazları mahkemece incelenir."
+      ]
+    },
+    {
+      "heading": "Zamanaşımı iddiası geçerli mi?",
+      "paragraphs": [
+        "Alacaklı, elindeki senedin zamanaşımına uğradığını iddia ediyorsanız, hâkim senetteki tarihe bakar. Eğer alacaklı, zamanaşımının kesildiğini veya durdurulduğunu resmî bir belgeyle kanıtlayamazsa, itirazınız kabul edilir.",
+        "Zamanaşımı itirazı, borcun artık yasal olarak talep edilemeyeceği anlamına gelir. Bu durum ispat edildiğinde, icra takibi durdurulur ve borç yükümlülüğünüz sona erer."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yanlış bir işlem yapmaktan nasıl kaçınılır?",
+      "paragraphs": [
+        "Süreçleri takip ederken en büyük hata, tebligatları görmezden gelmektir. Tebligat, bilinen son adresinize yapılır ve bu adreste olmamanız, sürecin aleyhinize işlemesine neden olabilir.",
+        "Alacaklı, itirazınız üzerine dava açarsa bu süreçte hukuki destek almanız önemlidir. Yanlış atılan bir imza veya eksik sunulan bir belge, haklıyken haksız duruma düşmenize yol açabilir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Ödeme emrinin size ulaştığı tarihi not edin.",
+    "İtiraz dilekçenizi icra dairesine sunun.",
+    "Borcu sona erdiren belgelerinizi hazırlayın.",
+    "Duruşma gününü bekleyerek icra mahkemesine gidin.",
+    "Hâkime belgelerinizi sunarak borçlu olmadığınızı anlatın."
+  ],
+  "documents": [
+    "Ödeme emri belgesi",
+    "Borcun ödendiğini gösteren banka dekontu",
+    "İmzalı borçtan kurtulma belgesi",
+    "Zamanaşımını kanıtlayan resmî senet sureti"
+  ],
+  "faq": [
+    {
+      "q": "Borçlu olmadığımı ispat edemezsem ne olur?",
+      "a": "İspat edemediğiniz takdirde icra takibi devam eder ve malvarlığınız üzerinden haciz işlemleri uygulanabilir."
+    },
+    {
+      "q": "İtirazım reddedilirse tazminat öder miyim?",
+      "a": "Eğer itirazınız haksız ve kötü niyetli görülürse, alacaklı tarafın talebi üzerine uygun bir tazminata mahkûm edilebilirsiniz."
+    },
+    {
+      "q": "İmza bana ait değilse ne yapmalıyım?",
+      "a": "İcra mahkemesinde imzanın size ait olmadığını açıkça belirtmeli ve bu hususun incelenmesini talep etmelisiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Menfi tespit eşanlam",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

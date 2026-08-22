@@ -1,0 +1,114 @@
+{
+  "slug": "tenkis-davasi-ve-sakli-pay",
+  "title": "Tenkis Davası: Saklı Pay Zedelendiğinde Ne Yapılır?",
+  "description": "Saklı payı zedelenen mirasçı ne yapabilir, tenkis davası hangi sürede açılır, def’i yoluyla ileri sürme ne demek? TMK m.560, 561 ve 571 çerçevesinde.",
+  "h1": "Tenkis davası nasıl açılır?",
+  "keywords": [
+    "tenkis davası",
+    "saklı pay",
+    "tenkis süresi",
+    "vasiyetname iptali",
+    "saklı payın zedelenmesi",
+    "tenkis defi"
+  ],
+  "category": "Miras",
+  "related": [
+    "miras-paylasimi-nasil-yapilir",
+    "mirasin-reddi"
+  ],
+  "links": [
+    {
+      "label": "TMK m.505 — Tasarruf edilebilir kısım",
+      "href": "/mevzuat/tmk/madde-505"
+    },
+    {
+      "label": "TMK m.506 — Saklı pay oranları",
+      "href": "/mevzuat/tmk/madde-506"
+    },
+    {
+      "label": "TMK m.560 — Tenkisin koşulları",
+      "href": "/mevzuat/tmk/madde-560"
+    },
+    {
+      "label": "TMK m.571 — Dava açma süresi",
+      "href": "/mevzuat/tmk/madde-571"
+    },
+    {
+      "label": "Saklı pay hesaplama aracı",
+      "href": "/hesaplama/sakli-pay"
+    }
+  ],
+  "lead": "Mirasbırakanın yaptığı bağışlar veya vasiyetler saklı payınızı çiğniyorsa, tenkis davası ile bu payı geri alabilirsiniz. Bu süreç mirasın paylaştırılmasından ziyade, yasayla korunan hakkınızın size teslim edilmesi işlemidir.",
+  "keyInsight": "Tenkis davası tasarrufu tamamen yok etmez, sadece saklı payı ihlal eden miktarı budayarak mirasçının hakkını korur.",
+  "sections": [
+    {
+      "heading": "Saklı payınız neden korunur?",
+      "paragraphs": [
+        "Mirasbırakan dilediği kişiye mal varlığını bırakmakta özgürdür ancak bu özgürlük sınırsız değildir. Kanun, eşiniz, çocuklarınız veya anne-babanız gibi yakınlarınızın mirastan pay almasını güvence altına almıştır.",
+        "Bu kişilere tanınan hakka saklı pay denir. Eğer bir vasiyetname ile bu paya el uzatılmışsa, işte o zaman tenkis davası devreye girer."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kimler tenkis davası açabilir?",
+      "paragraphs": [
+        "Kanun, saklı pay sahibi olanları tek tek saymıştır. Altsoyunuz, anne-babanız ve eşiniz bu koruma altındadır.",
+        "Kardeşlerin saklı pay hakkı bulunmadığı için onlar bu davayı açamazlar. Eğer mirasçı olarak bu gruptaysanız ve size ayrılan pay saklı payınızın altındaysa, dava açma hakkınız doğar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreleri kaçırırsanız ne olur?",
+      "paragraphs": [
+        "Dava açmak için **bir yıllık hak düşürücü süre** vardır. Bu süre, saklı payınızın zedelendiğini öğrendiğiniz günden itibaren başlar.",
+        "Öğrenme tarihinden bağımsız olarak, vasiyetnamenin açıldığı tarihten itibaren **on yıllık üst sınır** dolduğunda dava hakkınız sona erer. Bu süreler geçse bile, elinizdeki malı korumak için def'i yoluna her zaman başvurabilirsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Tenkis davası nasıl uygulanır?",
+      "paragraphs": [
+        "Dava açıldığında mahkeme, mirasbırakanın yaptığı tasarrufları tek tek inceler. Eğer birden fazla kişiye kazandırma yapılmışsa, herkes kendi payına düşen oranda tenkise katlanır.",
+        "Bu sayede tek bir kişi tüm yükü çekmek zorunda kalmaz. Mahkeme, saklı payı aşan kısmı tespit eder ve bu miktarı tasarruftan düşer."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Vasiyetnamenin açılma tarihini ve içeriğini mutlaka öğrenin.",
+    "Yasal miras payınızı ve bu payın içindeki saklı pay oranınızı hesaplayın.",
+    "Size kalan miras ile saklı payınızı karşılaştırarak aradaki farkı belirleyin.",
+    "Saklı payınızın zedelendiğini öğrendiğiniz tarihi not edin.",
+    "Süreleri kontrol ederek bir yıl içinde dava dilekçenizi hazırlayın.",
+    "Dava süresi dolmuşsa, karşı tarafın talebine karşı def'i savunmanızı kullanın."
+  ],
+  "documents": [
+    "Mirasçılık belgesi",
+    "Vasiyetname örneği",
+    "Tapu kayıtları veya mal varlığı dökümleri",
+    "Öğrenme tarihini ispatlayan yazışmalar"
+  ],
+  "faq": [
+    {
+      "q": "Tenkis davası ile vasiyetnamenin iptali aynı şey mi?",
+      "a": "Hayır; iptal davası vasiyetin tamamen geçersizliğini isterken, tenkis davası sadece saklı payı aşan kısmın düzeltilmesini sağlar."
+    },
+    {
+      "q": "Süreyi kaçırırsam hakkım tamamen yanar mı?",
+      "a": "Hayır, tenkis iddiasını savunma (def'i) olarak her zaman ileri sürebilirsiniz."
+    },
+    {
+      "q": "Kardeşim tenkis davası açabilir mi?",
+      "a": "Hayır, kardeşlerin saklı pay hakkı bulunmadığı için bu davayı açmaları mümkün değildir."
+    },
+    {
+      "q": "Birden fazla kişiye mal bırakılmışsa ne olur?",
+      "a": "Mahkeme, tüm kazandırmaları orantılı olarak azaltır; böylece yük adil bir şekilde dağıtılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.93,
+  "voice": "narrative",
+  "source": "gemini"
+}

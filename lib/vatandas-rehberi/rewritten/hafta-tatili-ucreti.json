@@ -1,0 +1,101 @@
+{
+  "slug": "hafta-tatili-ucreti",
+  "title": "Hafta tatilinde çalışma ücreti — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Hafta tatilinde çalışma ücreti hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
+  "h1": "Hafta tatilinde çalışma ücreti",
+  "keywords": [
+    "hafta tatili ücreti"
+  ],
+  "category": "İş",
+  "related": [
+    "fazla-mesai-ucreti",
+    "ubgt-ucreti",
+    "is-sozlesmesi-feshi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/fazla-mesai-ucreti"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=hafta%20tatili"
+    }
+  ],
+  "lead": "Pazartesi'den Cumartesi'ye kadar ter döktünüz, peki hafta tatilinde dinlenme hakkınız nasıl korunuyor? Kanun, yedi günlük zaman dilimi içinde kesintisiz en az yirmi dört saat dinlenmeyi **kesin kural** olarak belirler.",
+  "keyInsight": "Hafta tatili ücretine hak kazanmak için tatil gününden önceki iş günlerinde **eksiksiz çalışmış** olmanız gerekir.",
+  "sections": [
+    {
+      "heading": "Hafta tatili ücreti ne zaman hak edilir?",
+      "paragraphs": [
+        "Sabah tezgâhın başına geçtiniz, hafta boyunca mesaiyi tamamladınız. Kanun kapsamındaki işyerlerinde, tatil gününden önceki iş günlerinde çalışmış olmanız koşuluyla yedi günlük zaman dilimi içinde kesintisiz en az yirmidört saat dinlenme verilir.",
+        "Çalışılmadığı halde kanunen çalışma süresinden sayılan zamanlar, hekim raporuyla verilen hastalık ve dinlenme izinleri, işveren tarafından verilen diğer izinler **çalışılmış günler gibi** hesaba katılır."
+      ],
+      "bullets": [
+        "Kesintisiz en az 24 saat dinlenme",
+        "Öncesindeki iş günlerinde çalışma şartı"
+      ]
+    },
+    {
+      "heading": "Ücret ödemesi nasıl yapılır?",
+      "paragraphs": [
+        "Çalışılmayan hafta tatili günü için işveren tarafından bir iş karşılığı olmaksızın o günün ücreti **tam olarak** ödenir.",
+        "Yüzde usulünün uygulandığı işyerlerinde hafta tatili ücreti işverence doğrudan işçiye ödenir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Turizm işyerlerinde özel durum nedir?",
+      "paragraphs": [
+        "Kültür ve Turizm Bakanlığı tarafından turizm işletmesi belgesi verilen konaklama tesislerinde çalışan işçiler için esneklik tanınmıştır. Hak kazanılan hafta tatili, işçinin yazılı talebi veya onayı ile **takip eden dört gün içinde** kullandırılabilir.",
+        "İşçi verdiği bu onayı otuz gün önceden işverene yazılı bildirimde bulunmak kaydıyla **geri alabilir**."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Zorlayıcı sebeplerde haklar saklı mı?",
+      "paragraphs": [
+        "İşyerindeki çalışmanın zorlayıcı ve ekonomik bir sebep olmaksızın işveren tarafından tatil edilmesi halinde, çalışılmayan günler ücretli hafta tatiline hak kazanmak için **çalışılmış sayılır**.",
+        "İşin bir haftadan fazla tatil edilmesini gerektiren zorlayıcı sebeplerde, yarım ücret hafta tatili günü için de ödenir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Hafta boyunca iş günlerinde eksiksiz çalışın.",
+    "Yedi günlük zaman dilimindeki kesintisiz dinlenme sürenizi kullanın.",
+    "Turizm sektöründe çalışıyorsanız yazılı onayınızı veya talebinizi sunun.",
+    "Ücretinizin tam yatıp yatmadığını kontrol edin."
+  ],
+  "documents": [
+    "İş sözleşmesi",
+    "Puantaj kayıtları",
+    "Ücret bordrosu",
+    "Varsa hekim raporu"
+  ],
+  "faq": [
+    {
+      "q": "Hafta tatili ücreti çalışmadan ödenir mi?",
+      "a": "Evet, çalışılmadığı halde kanunen o günün ücreti tam olarak ödenir."
+    },
+    {
+      "q": "Raporlu günler hafta tatili hakkını yakar mı?",
+      "a": "Hekim raporuyla verilen hastalık ve dinlenme izinleri çalışılmış gün gibi hesaba katılır."
+    },
+    {
+      "q": "Turizm tesisinde onay geri alınabilir mi?",
+      "a": "İşçi verdiği onayı otuz gün önceden yazılı bildirimde bulunmak suretiyle geri alabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "fazla-mesai-ucreti",
+  "angle": "Hafta tatili",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

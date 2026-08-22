@@ -1,0 +1,112 @@
+{
+  "slug": "aidat-borcu-ve-gecikme-tazminati",
+  "title": "Aidat Borcu: Kim Ne Kadar Öder, Ödemezse Ne Olur?",
+  "description": "Apartman aidatı nasıl paylaşılır, hangi giderler eşit hangileri arsa payına göre bölünür, ödenmezse gecikme tazminatı ne kadar? Kat Mülkiyeti Kanunu m.20 çerçevesinde.",
+  "h1": "Aidat borcu ve gecikme tazminatı",
+  "keywords": [
+    "aidat borcu",
+    "apartman aidatı",
+    "ortak gider",
+    "aidat gecikme tazminatı",
+    "aidat ödememe",
+    "arsa payı"
+  ],
+  "category": "Eşya",
+  "related": [
+    "odeme-emrine-itiraz"
+  ],
+  "links": [
+    {
+      "label": "KMK m.20 — Genel giderlere katılma",
+      "href": "/mevzuat/katmulkiyeti/madde-20"
+    },
+    {
+      "label": "İcra kapak hesabı aracı",
+      "href": "/hesaplama/icra-kapak"
+    }
+  ],
+  "lead": "Apartman aidat borcu, kat maliki olmanın doğal bir sonucudur ve ödenmediği takdirde ciddi mali yükler getirir. Bu borç, ortak yaşam alanının sürdürülebilirliği için zorunlu bir görevdir.",
+  "keyInsight": "Ortak giderlerden kaçınmak mümkün değildir; asansörü kullanmasanız veya dairenizi boş tutsanız dahi aidat yükümlülüğünüz devam eder.",
+  "sections": [
+    {
+      "heading": "Hangi gider nasıl paylaşılır?",
+      "paragraphs": [
+        "Apartman giderleri tek bir torbaya konulmaz. Kapıcı, kaloriferci, bahçıvan ve bekçi gibi hizmetlerin maliyeti tüm kat malikleri arasında eşit olarak bölüştürülür.",
+        "Binanın sigortası, ortak alanların bakımı, yönetici maaşı ve tesislerin işletme giderleri ise arsa payınıza göre hesaplanır. Küçük daire ile büyük dairenin bu kalemlerdeki ödemesi bu yüzden farklılık gösterir."
+      ],
+      "bullets": [
+        "Eşit paylaşılanlar: Kapıcı, bekçi, bahçıvan giderleri.",
+        "Arsa payına göre: Sigorta, onarım, yönetici aylığı."
+      ]
+    },
+    {
+      "heading": "Kullanmıyorum demek bir bahane mi?",
+      "paragraphs": [
+        "En sık yapılan hata, ortak alanları kullanmadığını öne sürerek ödeme yapmamaktır. Zemin katta oturduğunuz için asansöre binmiyor olmanız veya yazlıkta yaşadığınız için daireyi boş tutmanız sizi borçtan kurtarmaz.",
+        "Bu yükümlülük, bir binada kat maliki olmanın getirdiği hukuki bir zorunluluktur. Dairenizi kiraya vermiş olsanız bile yönetime karşı asıl sorumlu kişi sizsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Ödenmeyen borcun maliyeti nedir?",
+      "paragraphs": [
+        "Aidat ödemelerinde **aylık yüzde beş** oranında gecikme tazminatı işletilir. Bu oran yıllık değil aylıktır ve gecikilen her gün için hesaplanır.",
+        "Borcun birikmesi, asıl alacağın katlanarak büyümesine neden olur. Bu nedenle borcu zamanında kapatmak, uzun vadede daha az ödemenizi sağlar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yönetim hareketsiz kalırsa ne yapmalı?",
+      "paragraphs": [
+        "Aidat borcunu tahsil etmek sadece yöneticinin görevi değildir. Diğer kat malikleri de borçlu komşularına karşı dava açabilir veya icra takibi başlatabilir.",
+        "Yönetici görevini yapmıyorsa, binanın ortak kasasının zarar görmemesi için herhangi bir kat maliki yasal yollara başvurma hakkına sahiptir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kusurlu olanın sorumluluğu",
+      "paragraphs": [
+        "Eğer ortak bir gider, bir kat malikinin veya kiracısının ihmali sonucu doğmuşsa, o masrafı asıl sebep olan kişi karşılar.",
+        "Örneğin, tesisatı dikkatsizce patlatan bir kişinin sebep olduğu onarım masrafı, önce ortak kasadan çıksa bile, ödeyenlerin o kişiye **rücu hakkı** saklıdır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Yönetim planını inceleyerek farklı bir paylaşım anlaşması olup olmadığını kontrol edin.",
+    "Aidat kalemlerini eşit ve arsa payına göre ayrıştırarak hesaplamaları doğrulayın.",
+    "Kat malikleri kurulu kararlarını ve bütçe belgelerini yöneticiden talep edin.",
+    "Hatalı bir hesaplama görürseniz yönetime yazılı olarak itiraz edin.",
+    "Borç birikmişse faiz yükünden kurtulmak için ödemeyi geciktirmeden yapın.",
+    "İcra takibi başlatılmışsa ödeme emrine yedi gün içinde itiraz edin."
+  ],
+  "documents": [
+    "Yönetim planı",
+    "Kat malikleri kurulu karar defteri",
+    "İşletme projesi ve bütçe",
+    "Tapu belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Dairemi kiraya verdim, aidatı kiracı mı öder?",
+      "a": "Yönetime karşı sorumluluk kat malikindedir. Kiracıyla aranızdaki anlaşma iç ilişkide geçerlidir."
+    },
+    {
+      "q": "Asansörü kullanmıyorum, ödemek zorunda mıyım?",
+      "a": "Evet, ortak giderlerden faydalanmadığınızı öne sürerek ödeme yükümlülüğünden kaçınamazsınız."
+    },
+    {
+      "q": "Gecikme tazminatı oranı nedir?",
+      "a": "Borcun ödenmediği günler için aylık yüzde beş oranında gecikme tazminatı uygulanır."
+    },
+    {
+      "q": "İcra takibine itiraz süresi ne kadardır?",
+      "a": "Size ulaşan ödeme emrine karşı yedi gün içinde itiraz etmeniz gerekir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.92,
+  "voice": "narrative",
+  "source": "gemini"
+}

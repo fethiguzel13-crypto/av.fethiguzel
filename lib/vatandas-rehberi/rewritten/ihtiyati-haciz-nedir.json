@@ -1,0 +1,112 @@
+{
+  "slug": "ihtiyati-haciz-nedir",
+  "title": "İhtiyati haciz nasıl istenir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İhtiyati haciz nasıl istenir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
+  "h1": "İhtiyati haciz nasıl istenir?",
+  "keywords": [
+    "ihtiyati haciz",
+    "ihtiyati haciz nasıl konulur"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "ihtiyati-tedbir-nedir",
+    "senet-icra-takibi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Borcunuz vadesi geldiği halde ödenmiyor ve karşı tarafın mallarını elden çıkaracağından korkuyorsunuz. Alacağınızı güvenceye almak için mahkemeden **ihtiyati haciz** kararı talep edebilirsiniz.",
+  "keyInsight": "Mahkemenin ihtiyati haciz verebilmesi için alacağınızı ve haciz sebeplerini gösteren delilleri sunmanız şarttır.",
+  "sections": [
+    {
+      "heading": "Hangi durumlarda hak doğar?",
+      "paragraphs": [
+        "Borcun ödeme vadesi geldiyse ve rehinle güvence altına alınmadıysa ihtiyati haciz isteyebilirsiniz. Borcun vadesi henüz gelmemiş olsa bile bazı özel tehlike hallerinde bu yol açılır.",
+        "Borçlunun belirli bir yerleşim yeri yoksa ya da borçtan kurtulmak için mallarını gizlemeye, kaçırmaya veya kaçmaya hazırlanıyorsa **erken haciz** talep etme hakkınız doğar."
+      ],
+      "bullets": [
+        "Vadesi gelmiş para alacağı",
+        "Rehinsiz alacak durumu",
+        "Mal kaçırma veya gizleme hazırlığı"
+      ]
+    },
+    {
+      "heading": "Mahkemeye ne sunulur?",
+      "paragraphs": [
+        "Hakim karşısına çıktığınızda sadece sözlü olarak borçtan bahsedemezsiniz. Alacağınızın varlığını ve haklılığınızı kanıtlayacak **kuvvetli deliller** sunmak mecburiyetindesiniz.",
+        "Mahkeme iki tarafı dinleyip dinlememekte tamamen serbesttir. Talebi reddederse bu kararı gerekçeli açıklar ve istinaf yolu açıktır."
+      ],
+      "bullets": [
+        "Alacağı gösteren belgeler",
+        "Haciz sebeplerini kanıtlayan deliller"
+      ]
+    },
+    {
+      "heading": "Karar nasıl uygulanır?",
+      "paragraphs": [
+        "Mahkemeden alınan ihtiyati haciz kararı icra dairesine götürülür. İcra memuru borçlunun taşınır veya taşınmaz mallarında haciz işlemi yapar.",
+        "Yapılan işlem tutanağa bağlanır; alacaklının ve borçlunun bilgileri, haczedilen mallar ve kıymetleri bu tutanakta açıkça yer alır."
+      ],
+      "bullets": [
+        "İcra dairesine başvuru",
+        "Haciz tutanağının düzenlenmesi"
+      ]
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "Süreci başlatırken elinizdeki tüm evrakı eksiksiz hazırlamalısınız. Hukuki adımları atarken doğru belgelerle hareket etmek zaman kaybetmenizi önler.",
+        "Talebinizin kabulü için gerekli evrakı dosyanızda hazır bulundurun."
+      ],
+      "bullets": [
+        "Alacak belgesi",
+        "Mahkeme dilekçesi"
+      ]
+    }
+  ],
+  "steps": [
+    "Muaccel ve rehinle karşılanmamış alacağınızı belgelendirin.",
+    "Borçlunun mal kaçırma tehlikesini dilekçenizde yazın.",
+    "Yetkili mahkemeden ihtiyati haciz isteyip gerekli teminatı yatırın.",
+    "Mahkeme kararını icra dairesine verip malları dondurun."
+  ],
+  "documents": [
+    "Alacak belgesi",
+    "Mahkeme dilekçesi",
+    "Teminat",
+    "Mahkeme kararı"
+  ],
+  "faq": [
+    {
+      "q": "İhtiyati haciz kararı için teminat yatırmak zorunlu mu?",
+      "a": "Evet, mahkeme süreci ve olası haksızlık durumlarına karşı teminat göstermenizi ister."
+    },
+    {
+      "q": "Vadesi gelmemiş borç için ihtiyati haciz istenebilir mi?",
+      "a": "Yalnızca borçlunun yerleşim yeri yoksa ya da mallarını kaçırma hazırlığında olduğu durumlarda istenebilir."
+    },
+    {
+      "q": "İhtiyati haciz kararına karşı nereye başvurulur?",
+      "a": "Yüzüne karşı aleyhinde karar verilen taraf veya reddedilen taraf istinaf yoluna başvurabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "İhtiyati haciz",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

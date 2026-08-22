@@ -1,0 +1,99 @@
+{
+  "slug": "is-kazasi-manevvi",
+  "title": "İş Kazasında Manevi Tazminat | Vatandaş Rehberi",
+  "description": "İş kazasında manevi tazminat hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
+  "h1": "İş kazasında manevi tazminat",
+  "keywords": [
+    "iş kazası manevi tazminat"
+  ],
+  "category": "İş",
+  "related": [
+    "is-kazasi-tazminati",
+    "manevi-tazminat-nedir",
+    "is-kazasi-sonrasi-haklar"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/is-kazasi-tazminati"
+    },
+    {
+      "label": "İSG",
+      "href": "/kategori/isg"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    }
+  ],
+  "lead": "İş kazası sonrası yaşadığınız elem ve üzüntü, hukuki olarak manevi tazminat ile telafi edilebilir. Bu hak, işverenin iş güvenliği konusundaki ihmali sonucu oluşan mağduriyetinizi gidermeyi amaçlar.",
+  "keyInsight": "Manevi tazminatın temel şartı, işverenin ihmali ile oluşan kazanın sizde yarattığı ruhsal ve fiziksel yıkımın ispatlanmasıdır.",
+  "sections": [
+    {
+      "heading": "İş kazası nedir ve ne zaman tazminat doğar?",
+      "paragraphs": [
+        "İş yerinde veya işin yürütümü sırasında meydana gelen, aniden sağlığınızı bozan her olay iş kazasıdır. İşveren, iş yerinde sağlığınızı korumakla yükümlüdür.",
+        "Kaza anında işverenin gerekli önlemleri almadığını veya iş güvenliği kurallarını ihmal ettiğini düşünüyorsanız, manevi tazminat hakkınız doğar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Manevi tazminat miktarı nasıl belirlenir?",
+      "paragraphs": [
+        "Tazminatın amacı sizi zenginleştirmek değil, yaşadığınız acıyı bir nebze olsun hafifletmektir. Hakim, kazanın ağırlığını ve sizin üzerinizdeki etkisini değerlendirir.",
+        "Olayın oluş şekli, tarafların kusur oranları ve yaşadığınız psikolojik travma, belirlenecek tutar üzerinde **belirleyici rol oynar**."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreci başlatırken nelere dikkat etmelisiniz?",
+      "paragraphs": [
+        "Kaza sonrası hemen hastane raporu almalı ve durumu tutanak altına almalısınız. Kazayı işverene yazılı olarak bildirmek, ispat yükünü kolaylaştırır.",
+        "Yaşadığınız mağduriyeti kanıtlayacak her türlü tıbbi belge ve tanık beyanı, sürecin **hızla ilerlemesini sağlar**."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yanınızda hangi belgeler bulunmalı?",
+      "paragraphs": [
+        "Tazminat talebinizi desteklemek için elinizde somut veriler olmalıdır. Hastane kayıtları ve kaza tespit tutanakları en temel dayanaklarınızdır.",
+        "Tedavi sürecinde yaptığınız masraflar ve yaşadığınız psikolojik etkileri gösteren doktor raporları, dosyanızın gücünü artırır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Kazayı işverene derhal bildirin ve mutlaka bir tutanak tutulmasını sağlayın.",
+    "En yakın sağlık kuruluşuna giderek detaylı bir muayene olun ve kaza raporu düzenletin.",
+    "Tedavi süreciniz boyunca tüm doktor raporlarını ve reçeteleri düzenli olarak saklayın.",
+    "İşverenin ihmalini ispatlayacak tanıkların iletişim bilgilerini not edin.",
+    "Yaşadığınız psikolojik etkiler için uzman görüşü alarak dosyanıza ekleyin."
+  ],
+  "documents": [
+    "İş kazası tespit tutanağı",
+    "Hastaneden alınan kaza raporu",
+    "Doktorun tedavi süreciyle ilgili detaylı raporları",
+    "Tanık listesi ve varsa olay yeri fotoğrafları"
+  ],
+  "faq": [
+    {
+      "q": "Manevi tazminat almak için işten ayrılmam gerekir mi?",
+      "a": "Hayır, manevi tazminat hakkınız iş sözleşmenizin devam edip etmediğinden bağımsızdır."
+    },
+    {
+      "q": "İşveren kazayı bildirmemişse ne yapmalıyım?",
+      "a": "Kazayı kendiniz ilgili kurumlara bildirmeli ve durumu kanıtlayan belgeleri temin etmelisiniz."
+    },
+    {
+      "q": "Tazminat tutarı neye göre değişir?",
+      "a": "Olayın ağırlığı, işverenin ihmal derecesi ve yaşadığınız mağduriyetin derinliği tutarı etkiler."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "is-kazasi-tazminati",
+  "angle": "Manevi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

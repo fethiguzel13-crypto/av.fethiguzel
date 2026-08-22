@@ -1,22 +1,30 @@
 /**
  * Vatandaş rehberi kaynaklarını tek yerden okur.
  *
- * İki kaynak vardır ve karıştırılmamalıdır:
+ * Üç kaynak, öncelik sırasıyla:
  *
- *   authored/*.json  elle yazılan metinler. Her madde göndermesi resmî
- *                    metinden doğrulanmıştır; koşulsuz yayınlanır.
- *   data.ts          otomatik üretilen 554 rehber. 14.08.2026 denetiminde
- *                    487'sinin kalıptan üretildiği ölçüldü; yalnız
- *                    denetimden geçenler alınır.
+ *   rewritten/*.json  Gemini anlatı. Kalıp iskelet yok.
+ *   authored/*.json   elle yazılan, madde göndermesi doğrulanmış metinler.
+ *   data.ts           otomatik üretilen 554 rehber; yalnız denetimden geçenler.
  *
- * Aynı slug her ikisinde de varsa elle yazılan kazanır. Bu kural
- * lib/vatandas-rehberi/published.ts ile birebir aynıdır; site ve uygulama
- * aynı listeyi görsün diye.
+ * Aynı slug birden fazla yerde varsa üstteki kazanır. Bu kural
+ * lib/vatandas-rehberi/published.ts ile birebir aynıdır.
  */
 import { readdirSync, readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 
 import { auditGuide } from '../../lib/content-quality.mjs';
+
+/** Gemini ile yeniden yazılan anlatı rehberleri. */
+export function readRewritten(root) {
+  const dir = join(root, 'lib', 'vatandas-rehberi', 'rewritten');
+  if (!existsSync(dir)) return [];
+  return readdirSync(dir)
+    .filter((f) => f.endsWith('.json') && !f.startsWith('_'))
+    .map((f) => JSON.parse(readFileSync(join(dir, f), 'utf8')))
+    .filter((a) => a && a.slug && a.voice === 'narrative')
+    .sort((a, b) => a.slug.localeCompare(b.slug, 'tr'));
+}
 
 /** Elle yazılan rehberler. */
 export function readAuthored(root) {
@@ -43,19 +51,21 @@ export function readGenerated(root) {
 }
 
 /**
- * Yayınlanabilir rehberler: elle yazılanlar + denetimden geçen üretilmişler.
- * @returns {{ published: any[], authored: any[], withdrawn: number }}
+ * Yayınlanabilir rehberler: rewritten > authored > denetimden geçen üretilmiş.
+ * @returns {{ published: any[], authored: any[], rewritten: any[], withdrawn: number }}
  */
 export function readPublished(root) {
-  const authored = readAuthored(root);
-  const authoredSlugs = new Set(authored.map((a) => a.slug));
-  const generated = readGenerated(root).filter((a) => !authoredSlugs.has(a.slug));
-
+  const rewritten = readRewritten(root);
+  const rewrittenSlugs = new Set(rewritten.map((a) => a.slug));
+  const authored = readAuthored(root).filter((a) => !rewrittenSlugs.has(a.slug));
+  const taken = new Set([...rewrittenSlugs, ...authored.map((a) => a.slug)]);
+  const generated = readGenerated(root).filter((a) => !taken.has(a.slug));
   const kept = generated.filter((a) => auditGuide(a).publishable);
 
   return {
-    published: [...authored, ...kept],
+    published: [...rewritten, ...authored, ...kept],
     authored,
+    rewritten,
     withdrawn: generated.length - kept.length,
   };
 }

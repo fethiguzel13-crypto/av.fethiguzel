@@ -1,0 +1,96 @@
+{
+  "slug": "malpraktis-davasi",
+  "title": "Malpraktis (Tıbbi Hata) Davası Nedir?",
+  "description": "Malpraktis davası nasıl açılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
+  "h1": "Malpraktis davası nasıl açılır?",
+  "keywords": [
+    "malpraktis davası",
+    "tıbbi hata tazminat",
+    "hekim hatası"
+  ],
+  "category": "Sağlık",
+  "related": [
+    "saglik-turizmi-haklar",
+    "hukuk-davasi-nasil-acilir",
+    "bilirkisi-raporu-itiraz",
+    "zamanaşimi-nedir"
+  ],
+  "links": [
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Hastane odasında ya da muayenede işler beklendiği gibi gitmediğinde, yaşanan zararın ardından hukuki yola başvurmak isteyebilirsiniz. Süreç, tıbbi müdahalenin sonuçları ile **sağlık hizmetlerinin finansmanı** kapsamında sunulan imkanların değerlendirilmesiyle başlar.",
+  "keyInsight": "Tıbbi hata iddialarında, zararın doğduğu andaki **fiil ile sonuç arasındaki bağın** somut belgelerle kurulması davanın temelini oluşturur.",
+  "sections": [
+    {
+      "heading": "Hangi sağlık hizmetleri kapsamdadır?",
+      "paragraphs": [
+        "Genel sağlık sigortalısının sağlıklı kalması, hastalanması halinde tedavisinin sağlanması ve iş göremezlik hallerinin giderilmesi amaçlanır. Ayakta veya yatarak yapılan **hekim muayeneleri**, teşhis için gereken laboratuvar tetkikleri ve tıbbi müdahaleler bu sistemin içindedir.",
+        "Uygulanan tedavi süreçlerinde ortaya çıkan aksaklıklar veya hatalı işlemler, kişilerin maddi ve manevi zarara uğramasına yol açabilir. Bu aşamada sunulan sağlık hizmetinin türü ve niteliği büyük önem taşır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Günlük kazanç ve ödenekler nasıl belirlenir?",
+      "paragraphs": [
+        "Tıbbi müdahale sonrasında yaşanan sağlık sorunları nedeniyle iş göremez duruma gelebilirsiniz. Bu durumda verilecek ödeneklerin hesabına esas tutulacak günlük kazanç, **iş göremezliğin başladığı tarih** dikkate alınarak belirlenir.",
+        "Önceki dönemlerde bildirilen primler ve kazanç toplamları, hesaplama yapılırken dikkate alınan temel unsurlar arasındadır. Çalışılmayan dönemin süresi ve ödenen prim gün sayıları hesaplamayı doğrudan etkiler."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Vazife malûllüğü ve bildirim yükümlülüğü nedir?",
+      "paragraphs": [
+        "Kamu görevlileri açısından, görev sırasında veya belirli durumlarda meydana gelen kazalar vazife malûllüğü hükümlerini gündeme getirebilir. Olayın yetkili mercilere **derhal bildirilmesi** kanuni bir yükümlülüktür.",
+        "Kuruma yapılacak bildirimlerin süresi, olayın meydana geldiği tarihten veya tedavi sürecinin tamamlanarak raporun onaylandığı tarihten itibaren işlemeye başlar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yargılama ve temyiz aşamaları nelerdir?",
+      "paragraphs": [
+        "Açılan davalarda mahkeme süreçleri ilerlerken tarafların hak arama hürriyeti korunur. Yargıtay aşamasında, hukukun yanlış uygulanması, dava şartlarına aykırılık veya **delillerin kabul edilmemesi** gibi gerekçelerle kararlar bozulabilir.",
+        "Dava sürecinde yapılan devir işlemlerinde veya yargılama giderlerinin paylaşımında kanuni düzenlemeler geçerlidir. Tarafların haklarını korumak için dosyadaki tüm iddia ve savunmaları eksiksiz sunması gerekir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Tıbbi müdahale ve tedavi sürecine ilişkin tüm evrakı toplayın.",
+    "İş göremezlik veya zarar durumunu resmi raporlarla tespit ettirin.",
+    "İlgili kurum bildirimlerini ve yasal süreçleri zamanında takip edin.",
+    "Hukuki değerlendirme için dava dilekçesini hazırlayın."
+  ],
+  "documents": [
+    "Hekim muayene ve tedavi raporları",
+    "Laboratuvar tetkik ve tahlil sonuçları",
+    "Geçici iş göremezlik ödenek belgeleri",
+    "Kurum bildirim evrakı"
+  ],
+  "faq": [
+    {
+      "q": "Günlük kazanç hesaplanırken hangi döneme bakılır?",
+      "a": "İş göremezliğin başladığı tarihten önceki on iki aydaki kazançlar ve prim ödeme gün sayıları esas alınır."
+    },
+    {
+      "q": "Kuruma bildirim süresi ne zaman başlar?",
+      "a": "Bildirim süresi, olayın meydana geldiği tarihten veya tedavi raporunun onaylandığı tarihten itibaren başlar."
+    },
+    {
+      "q": "Yargıtay hangi durumlarda kararı bozar?",
+      "a": "Hukukun yanlış uygulanması, dava şartlarına aykırılık veya delillerin kanuni sebep olmaksızın kabul edilmemesi hallerinde karar bozulabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "malpraktis-davasi",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

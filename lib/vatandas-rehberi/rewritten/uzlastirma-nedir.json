@@ -1,0 +1,111 @@
+{
+  "slug": "uzlastirma-nedir",
+  "title": "Uzlaştırma nedir? Nasıl işler — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Uzlaştırma nedir? Nasıl işler? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
+  "h1": "Uzlaştırma nedir? Nasıl işler?",
+  "keywords": [
+    "ceza uzlaştırması",
+    "uzlaştırma nedir"
+  ],
+  "category": "Ceza",
+  "related": [
+    "savcilik-suc-duyurusu",
+    "ceza-sorusturmasi-sureci",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/savcilik-suc-duyurusu"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    },
+    {
+      "label": "TCK",
+      "href": "/kategori/tck-genel"
+    }
+  ],
+  "lead": "Kapınıza bir tebligat geldiğinde veya ifade verdiğinizde dosyanın uzlaştırmaya yönlendirildiğini duyabilirsiniz. Bu aşamada doğru adımları atmak, davanın büyümesini engellemek için kritik bir fırsattır.",
+  "keyInsight": "Uzlaştırma sürecinde varılan anlaşma ve yerine getirilen edimler, ileride açılabilecek kamu davasının düşmesini sağlar.",
+  "sections": [
+    {
+      "heading": "Uzlaştırma nedir ve kimler bu yola başvurabilir?",
+      "paragraphs": [
+        "Kapınıza gelen evrakta suçun uzlaştırma kapsamında olduğu belirtiliyorsa, devlet taraflar arasında tarafsız bir müzakere masası kurar. Amaç, mahkeme salonlarına taşınmadan ortak bir çözüm bulmaktır.",
+        "Savcılık dosyayı incelediğinde işin mahkemeye gitmeden çözülebileceğini görürse bu yolu açar. **Uzlaştırma kapsamındaki suçlar** için tarafların bir araya gelmesi veya uzlaştırmacı aracılığıyla anlaşması beklenir."
+      ],
+      "bullets": [
+        "Tarafların rızasına dayanır.",
+        "Mahkeme masraflarını ve uzun yargılama süreçlerini önler."
+      ]
+    },
+    {
+      "heading": "Süreci kaçırmamak neden önemlidir?",
+      "paragraphs": [
+        "Uzlaştırmacı sizinle telefon veya tebligat yoluyla iletişim kurmaya çalışır. Bu çağrıları cevapsız bırakmak veya önemsememek hak kaybına yol açabilir.",
+        "**Görüşmelere katılmamak** veya mazeret bildirmemek, size sunulan bu barışçıl çözüm hakkından vazgeçtiğiniz anlamına gelebilir."
+      ],
+      "bullets": [
+        "Tebligatları ve çağrıları yakından takip edin.",
+        "Mazeretiniz varsa mutlaka yazılı olarak bildirin."
+      ]
+    },
+    {
+      "heading": "Masa başında neler konuşulur?",
+      "paragraphs": [
+        "Uzlaştırmacı eşliğinde yapılan görüşmelerde taraflar zararın giderilmesi veya özür dilenmesi gibi koşulları konuşur. Edimler net bir şekilde belirlenir.",
+        "**Yazılı kabul** aşaması bu yüzden çok önemlidir. Edimler yerine getirildiğinde dosya kapanır."
+      ],
+      "bullets": [
+        "Edim şartlarını netleştirin.",
+        "Anlaşılan hususları tutanağa geçirtin."
+      ]
+    },
+    {
+      "heading": "Anlaşma sağlanırsa veya sağlanmazsa ne olur?",
+      "paragraphs": [
+        "Taraflar uzlaşmaya vardığında ve belirlenen şartlar yerine getirildiğinde savcılık aşamasında dosya kapanır, dava açılmaz.",
+        "Eğer uzlaşma sağlanamazsa, **soruşturma veya dava** kaldığı yerden normal akışına devam eder."
+      ],
+      "bullets": [
+        "Ödeme veya edim belgelerini saklayın.",
+        "Anlaşmazlıkta yargı süreci başlar."
+      ]
+    }
+  ],
+  "steps": [
+    "Suçun uzlaştırma kapsamında olup olmadığını ve gelen tebligatın detaylarını inceleyin.",
+    "Uzlaştırmacının yaptığı çağrıya zamanında katılın veya geçerli mazeretinizi bildirin.",
+    "Görüşmelerde varılan edim ve özür şartlarını yazılı olarak kabul edin.",
+    "Anlaşma sağlandığında yapılan ödemeyi veya edimi belgeleyin.",
+    "Anlaşmazlık durumunda dosyanın normal yargı sürecine devam edeceğini unutmayın."
+  ],
+  "documents": [
+    "uzlaştırma tutanağı",
+    "ödeme belgesi",
+    "tebligat"
+  ],
+  "faq": [
+    {
+      "q": "Uzlaştırma teklifini reddedersem ne olur?",
+      "a": "Teklifi reddetmek suçunu kabul ettiğiniz anlamına gelmez ancak dosya uzlaşmadan çıkar ve soruşturma normal seyrinde devam eder."
+    },
+    {
+      "q": "Uzlaştırmacıya ücret ödemem gerekiyor mu?",
+      "a": "Uzlaştırma görüşmeleri için taraflardan doğrudan bir ücret talep edilmez, süreç devlet eliyle yürütülür."
+    },
+    {
+      "q": "Anlaşma sağlandıktan sonra tekrar dava açılabilir mi?",
+      "a": "Usulüne uygun şekilde varılan uzlaşma ve yerine getirilen edimler sonrasında aynı konuda yeniden kamu davası açılmaz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "savcilik-suc-duyurusu",
+  "angle": "Uzlaştırma",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

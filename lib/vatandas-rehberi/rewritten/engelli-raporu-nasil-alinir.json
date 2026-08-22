@@ -1,0 +1,102 @@
+{
+  "slug": "engelli-raporu-nasil-alinir",
+  "title": "Engelli Raporu Nasıl Alınır? Sağlık Kurulu",
+  "description": "Engelli raporu nasıl alınır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
+  "h1": "Engelli raporu nasıl alınır?",
+  "keywords": [
+    "engelli raporu nasıl alınır",
+    "sağlık kurulu raporu",
+    "engelli oranı"
+  ],
+  "category": "Engelli Hakları",
+  "related": [
+    "engelli-araci-nasil-alinir",
+    "engelli-maasi-sartlari",
+    "evde-bakim-maasi",
+    "emlak-vergisi-nedir",
+    "vergi-borcu-yapislandirma"
+  ],
+  "links": [
+    {
+      "label": "Ara",
+      "href": "/ara?q=engelli"
+    },
+    {
+      "label": "Hesaplama",
+      "href": "/hesaplama"
+    }
+  ],
+  "lead": "Engelli raporu almak için Sağlık Bakanlığı tarafından yetkilendirilmiş bir hastanenin sağlık kuruluna başvurmanız gerekir. Kurulun yapacağı muayene ve tetkikler sonucunda, vücut fonksiyon kaybınız resmi oranlarla belirlenerek raporunuz hazırlanır.",
+  "keyInsight": "Raporda belirlenen engellilik oranının her hakkı doğrudan etkilediğini bilerek, özellikle **%90 veya daha fazla** oran gerektiren ÖTV muafiyeti gibi özel haklar için raporun 'sürekli' olup olmadığına dikkat etmelisiniz.",
+  "sections": [
+    {
+      "heading": "Süreç nasıl başlar?",
+      "paragraphs": [
+        "Hastaneye gitmeden önce durumunuzu netleştirmeniz gerekir. İlk adım olarak aile hekiminizden ya da ilgili branş doktorundan yetkili bir hastaneye sevk alarak süreci başlatabilirsiniz.",
+        "Doğrudan yetkilendirilmiş tam teşekküllü devlet hastanelerine veya üniversite hastanelerine de başvuru yapabilirsiniz. Başvurunuz esnasında engellilik durumunuzu gösteren mevcut tüm tıbbi belgeleri yanınızda bulundurmanız süreci hızlandıracaktır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kurulda sizi ne bekliyor?",
+      "paragraphs": [
+        "Hastanede tek bir doktorun odasına girmekle iş bitmez. Birden fazla branş hekiminin yer aldığı sağlık kurulu karşısına çıkarsınız. Her bir uzman, kendi alanıyla ilgili fonksiyon kaybınızı inceler.",
+        "Burada en önemli husus, rahatsızlıklarınızın tek tek değil, kurul tarafından bir bütün olarak değerlendirilmesidir. Muayeneler bittikten sonra heyet toplanarak nihai kararını verir."
+      ],
+      "bullets": [
+        "Her branş kendi uzmanlık alanına göre muayene yapar.",
+        "Tetkik sonuçları ve klinik bulgular dosyaya eklenir.",
+        "Kurul, yönetmelikteki cetvellere göre nihai oranı belirler."
+      ]
+    },
+    {
+      "heading": "Oranlar neden bu kadar önemli?",
+      "paragraphs": [
+        "Alacağınız hakların sınırı rapordaki oranla çizilir. Örneğin, iş kazası veya meslek hastalığı sonucu meslekte kazanma gücünüzün **en az %10** oranında azaldığının tespit edilmesi sürekli iş göremezlik geliri hakkı doğurur.",
+        "Eğer ilk defa çalışmaya başlamadan önce malul sayılacak derecede engelliyseniz ve yaşlılık aylığından yararlanmak istiyorsanız, çalışma gücündeki kayıp oranınızın **%50 ila %59** arasında olması gibi belirli yasal eşiklere göre emeklilik şartlarınız şekillenir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Araç alımında hangi oran aranır?",
+      "paragraphs": [
+        "Engelli raporuyla Özel Tüketim Vergisi istisnasından yararlanarak araç almak istiyorsanız yasa çok net bir sınır çizmiştir. Taşıt alımında vergi muafiyeti için engellilik oranının **%90 veya daha fazla** olması şartı aranır.",
+        "Bu orana sahip malul ve engelliler, kanunda belirtilen motor silindir hacmi ve parasal sınırlar dahilindeki araçları ÖTV ödemeden ilk iktisap yoluyla satın alabilirler."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Aile hekiminden veya ilgili branş hekiminden sevk alın.",
+    "Sağlık Bakanlığı tarafından yetkilendirilmiş bir hastanenin sağlık kuruluna randevu alarak başvurun.",
+    "Muayene ve kurul gününde tüm branş doktorlarına görünüp tetkiklerinizi tamamlayın.",
+    "Çıkan rapordaki engellilik oranını, geçerlilik süresini ve 'sürekli' ibaresini kontrol edin.",
+    "Rapor oranına veya süresine itirazınız varsa yasal süresi içinde İl Sağlık Müdürlüğüne başvurun."
+  ],
+  "documents": [
+    "Nüfus cüzdanı veya kimlik kartı",
+    "Varsa hekim tarafından verilmiş sevk belgesi",
+    "Mevcut hastalıkları gösteren epikriz, tahlil ve röntgen sonuçları",
+    "Hastanede doldurulacak başvuru dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Süreli rapor ne anlama gelir?",
+      "a": "Raporun üzerinde bir geçerlilik süresi yazıyorsa, bu süre bittiğinde rapordaki haklar kendiliğinden durur. Hakların devamı için süre bitimine yakın yeniden kurula girilmesi gerekir."
+    },
+    {
+      "q": "Meslek hastalığı nedeniyle rapor nasıl alınır?",
+      "a": "Çalıştığınız işten kaynaklanan bir hastalık için Kurumca yetkilendirilen sağlık kurullarından rapor almanız gerekir. Durumun meslek hastalığı olduğu Kurum Sağlık Kurulunca onaylanmalıdır."
+    },
+    {
+      "q": "Rapor oranına nasıl itiraz edilir?",
+      "a": "Rapordaki oran veya değerlendirmelerin hatalı olduğunu düşünüyorsanız, raporun tebliğ edilmesinden sonra İl Sağlık Müdürlüğüne başvurarak başka bir hakem hastaneye sevk talep edebilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "engelli-raporu-nasil-alinir",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "is-kanunu-nedir",
+  "title": "İş Kanunu nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İş Kanunu nedir hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
+  "h1": "İş Kanunu nedir",
+  "keywords": [
+    "iş kanunu nedir",
+    "is kanunu nedir"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "kanun-maddesi-nasil-okunur",
+    "kidem-tazminati-nasil-alinir",
+    "is-sozlesmesi-feshi",
+    "mevzuat-nasil-aranir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kanun-maddesi-nasil-okunur"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=%C4%B0%C5%9F%20Kanunu"
+    }
+  ],
+  "lead": "İş Kanunu, işçi ile işveren arasındaki çalışma ilişkilerini düzenleyen temel kurallar bütünüdür. Çalışma hayatındaki haklarınızı ve sorumluluklarınızı bu metin belirler.",
+  "keyInsight": "Çalışma hayatında hak doğması için taraflar arasındaki sözleşmenin niteliği ve işin **kanunla** düzenlenen kurallara uygun yürütülmesi gerekir.",
+  "sections": [
+    {
+      "heading": "İş ilişkisi nasıl kurulur?",
+      "paragraphs": [
+        "Sabah iş yerinize gittiğinizde masanızda çalışmaya başlarsınız. Asıl mesele, bu çalışma düzeninin hangi kurallara göre işleyeceğidir.",
+        "Tarafların hakları ve borçları **sözleşme** ile şekillenir ve bu ilişkinin sınırları hukuk kurallarına dayanır."
+      ],
+      "bullets": [
+        "Çalışma koşulları belirlenir",
+        "Görevler tanımlanır"
+      ]
+    },
+    {
+      "heading": "Haklarınız nereden kaynaklanır?",
+      "paragraphs": [
+        "Bir uyuşmazlık çıktığında elinizdeki belgelere bakarsınız. Mahkemelerin görevi ve yetkisi **kanunla** açıkça düzenlenmiştir.",
+        "Hak arama sürecinde hangi mahkemenin yetkili olduğu, işin yapıldığı yere göre belirlenir."
+      ],
+      "bullets": [
+        "Mahkeme görevleri kanunla belirlenir",
+        "Yetkili yer kuralı uygulanır"
+      ]
+    },
+    {
+      "heading": "Ödemeler ve borçlar nasıl kapanır?",
+      "paragraphs": [
+        "İş ilişkisinde borçlar ve ödemeler tıpkı diğer hukuki ilişkilerde olduğu gibi belirli sırayla ödenir. Kısmi ödemelerde **ana borç** dikkate alınır.",
+        "Birden çok borç varsa, ödemenin nereye sayılacağı kanuni kurallara göre tespit edilir."
+      ],
+      "bullets": [
+        "Faiz ve giderler incelenir",
+        "Ödeme açıklamasına dikkat edilir"
+      ]
+    },
+    {
+      "heading": "Ehliyet ve sorumluluk kime aittir?",
+      "paragraphs": [
+        "İş sözleşmesi yaparken kişinin kendi haklarını kullanabilmesi için fiil ehliyetine sahip olması gerekir. Ayırt etme gücüne sahip ergin kişiler **fiil ehliyeti** ile kendi işlemlerini yapar.",
+        "Sorumluluklar bu ehliyet çerçevesinde taraflara yüklenir."
+      ],
+      "bullets": [
+        "Ergin olmak gerekir",
+        "Kısıtlı olmama şartı aranır"
+      ]
+    }
+  ],
+  "steps": [
+    "Çalışma koşullarını ve sözleşmenizi dikkatlice inceleyin",
+    "Hak doğuran işlemlerde yetkili merciyi belirleyin",
+    "Ödeme ve alacak durumlarını belgeler üzerinden takip edin",
+    "Uyuşmazlık durumunda kanuni yollara başvurun"
+  ],
+  "documents": [
+    "İş sözleşmesi",
+    "Ödeme makbuzları",
+    "Kimlik belgesi",
+    "Yazılı bildirimler"
+  ],
+  "faq": [
+    {
+      "q": "İş Kanunu neden önemlidir?",
+      "a": "İşçi ve işverenin haklarını, çalışma koşullarını ve uyuşmazlıkların çözüm yolunu belirler."
+    },
+    {
+      "q": "Yetkili mahkeme nasıl bulunur?",
+      "a": "Sözleşmeden doğan uyuşmazlıklarda yetki, işin veya sözleşmenin yapılacağı yer mahkemesine göre belirlenir."
+    },
+    {
+      "q": "Ödemeler birden çok borcu nasıl kapatır?",
+      "a": "Kanuni düzenlemelere ve tarafların bildirimlerine göre muaccel olan borçtan başlanarak mahsup edilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kanun-maddesi-nasil-okunur",
+  "angle": "İş Kanunu nedir",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "haciz-islemleri-nasil-yapilir",
+  "title": "Haciz İşlemleri Nasıl Yapılır?",
+  "description": "Haciz nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
+  "h1": "Haciz nasıl yapılır?",
+  "keywords": [
+    "haciz nasıl yapılır",
+    "icra haciz süreci"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "haciz-nasil-kaldirilir",
+    "ihtiyati-haciz-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Faiz",
+      "href": "/hesaplama/faiz"
+    }
+  ],
+  "lead": "Borcunuzu ödemediğinizde alacaklı, icra dairesi aracılığıyla mal varlığınıza el konulmasını isteyebilir. Haciz süreci, malların belirlenip satılmasına kadar giden adımları kapsar.",
+  "keyInsight": "Hacizli malların satışını istemek için kanuni süreleri kaçırmamak ve masrafları eksiksiz yatırmak zorunludur.",
+  "sections": [
+    {
+      "heading": "Satış süreci nasıl başlar?",
+      "paragraphs": [
+        "Alacaklı veya borçlu, haciz işleminden itibaren **bir yıl içinde** haczolunan malın satışını isteyebilir. Bu süre içinde satışın istenmesi ve artırma sonucunda satılamaması halinde, satış isteyen alacaklı bakımından süre bir yıl daha uzar.",
+        "Satış talebiyle birlikte kıymet takdiri ve satış giderlerinin tamamının **peşin olarak yatırılması** zorunludur. Motorlu kara araçlarında muhafaza gideri de bu ücrete dahildir."
+      ],
+      "bullets": [
+        "Satış talebi için 1 yıllık süre vardır.",
+        "Giderler peşin yatırılmalıdır."
+      ]
+    },
+    {
+      "heading": "Giderler yetersiz kalırsa ne olur?",
+      "paragraphs": [
+        "Satış talebiyle peşin yatırılan tutarın yetersiz olduğu anlaşılırsa, icra müdürü tarafından dosya taraflarına süre tanınır. Verilen bu süre içinde eksik miktar **tamamlanmazsa** satış talebi vaki olmamış sayılır.",
+        "Bu nedenle masraf ve gider yazılarını dikkatle takip etmek ve süreleri geçirmemek gerekir."
+      ],
+      "bullets": [
+        "Eksik masraf için ek süre verilir.",
+        "Süresinde yatırılmazsa talep düşer."
+      ]
+    },
+    {
+      "heading": "Borçlu rızaen satış isteyebilir mi?",
+      "paragraphs": [
+        "Borçlu, kıymet takdirinin tebliğinden itibaren **yedi gün içinde** haczedilen malın rızaen satışı için kendisine yetki verilmesini talep edebilir. Kıymet takdiri yapılmamışsa borçlu bu tespiti isteyebilir.",
+        "İcra müdürü kıymet takdirinin kesinleşmesi sonrasında cebrî satış işlemlerini durdurarak borçluya süre tanır. Bu süreçte alacaklı bakımından satış isteme süresi durur."
+      ],
+      "bullets": [
+        "7 gün içinde rızaen satış istenebilir.",
+        "Satış bedelinin belirli şartları karşılaması gerekir."
+      ]
+    },
+    {
+      "heading": "Kararlara karşı nereye başvurulur?",
+      "paragraphs": [
+        "İcra mahkemesi kararlarına karşı, alacak veya malın değerinin belirli bir miktarını geçmesi şartıyla **istinaf yoluna** başvurulabilir. İstinaf başvuru süresi tebliğ tarihinden itibaren iki haftadır.",
+        "İstinaf yoluna başvuru, satış dışındaki diğer icra işlemlerini durdurmaz."
+      ],
+      "bullets": [
+        "İstinaf süresi 2 haftadır.",
+        "İşlemleri durdurmaz."
+      ]
+    }
+  ],
+  "steps": [
+    "Haczedilen mal için kıymet takdirinin yapılmasını bekleyin.",
+    "Satış talebinde bulunurken tüm masraf ve giderleri peşin yatırın.",
+    "Rızaen satış hakkınızı kullanacaksanız yasal süre içinde yetki isteyin.",
+    "İcra dairesinin verdiği sürelerde eksik masrafları tamamlayın.",
+    "Kararlara itiraz edecekseniz istinaf süresini kaçırmayın."
+  ],
+  "documents": [
+    "İcra ödeme emri",
+    "Kıymet takdiri raporu",
+    "Satış talep dilekçesi",
+    "Masraf makbuzları",
+    "Elektronik tebligat belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "Hacizli malın satışı ne kadar sürede istenmelidir?",
+      "a": "Haciz tarihinden itibaren bir yıl içinde malın satışı istenmelidir."
+    },
+    {
+      "q": "Satış masrafları ödenmezse ne olur?",
+      "a": "Masraflar peşin yatırılmaz veya verilen sürede tamamlanmazsa satış talebi yapılmamış sayılır."
+    },
+    {
+      "q": "İcra mahkemesi kararlarına karşı istinaf süresi nedir?",
+      "a": "Kararın tebliğ tarihinden itibaren iki haftadır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Haciz süreci",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

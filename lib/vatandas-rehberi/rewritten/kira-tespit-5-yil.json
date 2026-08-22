@@ -1,0 +1,101 @@
+{
+  "slug": "kira-tespit-5-yil",
+  "title": "5 yıl dolunca kira nasıl yeniden belirlenir — Vatandaş Rehberi | Av. F",
+  "description": "5 yıl dolunca kira nasıl yeniden belirlenir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Por…",
+  "h1": "5 yıl dolunca kira nasıl yeniden belirlenir?",
+  "keywords": [
+    "5 yıl kira tespit",
+    "kira tespit 5 yıl"
+  ],
+  "category": "Kira",
+  "related": [
+    "kira-artis-orani-nasil-hesaplanir",
+    "kira-tespit-davasi",
+    "konut-kirasi-artis-siniri",
+    "kira-uyusmazligi-arabuluculuk"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kira-artis-orani-nasil-hesaplanir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/kira"
+    }
+  ],
+  "lead": "Kira sözleşmenizde beş yıl geride kaldıysa, kiranızın günümüz koşullarına göre yeniden belirlenmesini talep edebilirsiniz. Bu süreçte mahkemeye gitmeden önce arabulucuya başvurmak zorunludur.",
+  "keyInsight": "Beş yılın dolması, kiranın sadece TÜFE oranına göre değil, çevredeki emsal kira bedelleri de gözetilerek hakkaniyete uygun şekilde güncellenmesine kapı aralar.",
+  "sections": [
+    {
+      "heading": "Beş yıl neden önemli bir eşik?",
+      "paragraphs": [
+        "Kira sözleşmelerinde genellikle her yıl belirli bir oranda artış yapılır. Ancak beş yıl geçtiğinde, mevcut kira bedeliniz piyasa koşullarının çok altında kalmış olabilir.",
+        "Kanun, beş yıllık sürenin dolmasıyla birlikte kira bedelinin yeniden değerlendirilmesine imkan tanır. Bu noktada hakim, sadece enflasyon oranına değil, kiralanan yerin durumuna ve çevredeki benzer konutların kira bedellerine bakar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreç nasıl işler?",
+      "paragraphs": [
+        "Kiranızın yeniden belirlenmesi için doğrudan mahkemenin yolunu tutamazsınız. Öncelikle bir arabulucuya başvurarak tarafların anlaşmasını sağlamanız gerekir.",
+        "Arabuluculuk görüşmelerinde bir mutabakata varılamazsa, bir **son tutanak** düzenlenir. Dava açmak isterseniz, bu tutanağın aslını veya onaylı örneğini dava dilekçenize eklemeniz şarttır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Emsal kira bedelleri neyi ifade eder?",
+      "paragraphs": [
+        "Hakim kira bedelini belirlerken çevredeki benzer evlerin veya iş yerlerinin ne kadar kiraya verildiğini inceler. Sizin ödediğiniz bedel ile çevredeki gerçek piyasa değeri arasındaki uçurum, yeni kiranın belirlenmesinde temel ölçüttür.",
+        "Bu değerlendirme yapılırken **hakkaniyet ilkesi** gözetilir. Yani ne ev sahibini mağdur edecek kadar düşük, ne de kiracıyı zorlayacak kadar aşırı bir bedel hedeflenir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yabancı para ile kira ödeyenler ne yapmalı?",
+      "paragraphs": [
+        "Eğer kiranız döviz cinsinden belirlenmişse, beş yıl geçmedikçe kiranızda değişiklik yapılamaz. Ancak beş yıl dolduğunda, yabancı paranın değerindeki değişimler de göz önüne alınarak yeni bir bedel belirlenebilir.",
+        "Bu durumda da yine genel kira tespit kuralları işletilir ve arabuluculuk süreci zorunlu olarak uygulanır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Sözleşmenizin üzerinden beş yıl geçip geçmediğini kontrol edin.",
+    "Yetkili arabuluculuk bürosuna başvurunuzu yapın.",
+    "Arabuluculuk görüşmelerine katılarak karşı taraf ile orta yolu arayın.",
+    "Anlaşma sağlanamazsa düzenlenen son tutanağı alın.",
+    "Son tutanakla birlikte kira tespit davası açmak için mahkemeye başvurun."
+  ],
+  "documents": [
+    "Kira sözleşmesi aslı veya örneği",
+    "Arabuluculuk son tutanağı",
+    "Emsal kira bedellerini gösterir belgeler (varsa)",
+    "Tapu veya kira ödemelerini gösteren banka dekontları"
+  ],
+  "faq": [
+    {
+      "q": "Arabulucuya gitmeden dava açabilir miyim?",
+      "a": "Hayır, arabulucuya başvurmak dava şartıdır. Başvurmadan dava açarsanız mahkeme davanızı usulden reddeder."
+    },
+    {
+      "q": "Beş yıl dolunca kira otomatik olarak mı artar?",
+      "a": "Hayır, kira bedelinin yeniden belirlenmesi için tarafların anlaşması veya mahkeme kararı gerekir."
+    },
+    {
+      "q": "Son tutanağı mahkemeye sunmazsam ne olur?",
+      "a": "Mahkeme size bir haftalık kesin süre verir. Bu süre içinde belgeyi sunmazsanız davanız reddedilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kira-artis-orani-nasil-hesaplanir",
+  "angle": "5 yıllık dönem özel notu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

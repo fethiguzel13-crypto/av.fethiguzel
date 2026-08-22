@@ -1,0 +1,114 @@
+{
+  "slug": "avukat-vekalet-ucreti",
+  "title": "Avukat vekâlet ücreti — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Avukat vekâlet ücreti hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avu…",
+  "h1": "Avukat vekâlet ücreti",
+  "keywords": [
+    "avukat vekâlet ücreti",
+    "avukat vekalet ucreti"
+  ],
+  "category": "Usul",
+  "related": [
+    "zamanaşimi-nedir",
+    "dava-harci-nedir",
+    "arabuluculuk-ucreti",
+    "noter-islemleri"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/zamanaşimi-nedir"
+    },
+    {
+      "label": "Tarife",
+      "href": "/tarife-guncellemeleri"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/vekalet"
+    }
+  ],
+  "lead": "Mahkemede bir avukatla hak ararken veya süreci takip ederken vekâlet ücreti gündeme gelir. Bu ücretin kim tarafından ödeneceği ve nasıl belirleneceği kurallara bağlanmıştır.",
+  "keyInsight": "Adli yardımdan yararlanan kişiye atanan avukatın ücreti, Hazineden ödenir.",
+  "sections": [
+    {
+      "heading": "Hangi giderler kapsamdadır?",
+      "paragraphs": [
+        "Yargılama ve takip süresince birçok masraf ortaya çıkar. Hakem ücretlerinden tanık giderlerine, bilirkişi ödemelerinden tebligat masraflarına kadar her kalem hesaplanır.",
+        "Davanın kazanılması durumunda, **asgari ücret tarifesine göre** belirlenen vekâlet ücreti de yargılama giderleri arasına dâhildir."
+      ],
+      "bullets": [
+        "Bilirkişi ve tanık masrafları",
+        "Başvuru ve harç giderleri",
+        "Vekâlet ücreti"
+      ]
+    },
+    {
+      "heading": "Adli yardım ve avukat temini",
+      "paragraphs": [
+        "Maddi durumu yetersiz olanlar için adli yardım mekanizması devreye girer. Bu karar, yargılama giderlerinden geçici muafiyet sağlar.",
+        "Mahkemenin talebi üzerine baro tarafından bir avukat görevlendirilir. Bu **avukatın ücreti** Hazine tarafından karşılanır."
+      ],
+      "bullets": [
+        "Geçici muafiyet hakkı",
+        "Baro görevlendirmesi",
+        "Hazine ödemesi"
+      ]
+    },
+    {
+      "heading": "Tebligatlar kime yapılır?",
+      "paragraphs": [
+        "Bir vekil aracılığıyla takip edilen işlerde evraklar doğrudan avukata ulaştırılır. Birden fazla avukat varsa, ilkine yapılan tebliğ esas alınır.",
+        "Avukat bürosunda yapılacak işlemler resmî çalışma gün ve saatlerinde yürütülür."
+      ],
+      "bullets": [
+        "Vekile tebligat asıldır",
+        "Çalışma saatleri esastır"
+      ]
+    },
+    {
+      "heading": "Süreç nasıl işler?",
+      "paragraphs": [
+        "Hak arama yolunda atılan adımlarda belgelerin eksiksiz sunulması gerekir. Özellikle arabuluculuk veya dava aşamalarında süreklilik esastır.",
+        "Belirtilen usullere uyulmaması durumunda dosya usulden reddedilebilir."
+      ],
+      "bullets": [
+        "Evrak takibi",
+        "Süreklilik"
+      ]
+    }
+  ],
+  "steps": [
+    "Mahkeme veya ilgili mercie başvuru yapın.",
+    "Adli yardım talebinde bulunacaksanız şartları sağlayın.",
+    "Tebligat ve evrakları avukatınız aracılığıyla takip edin.",
+    "Yargılama giderleri ve vekâlet ücreti hesaplamalarını inceleyin."
+  ],
+  "documents": [
+    "Mahkeme başvuru evrakları",
+    "Adli yardım talep dilekçesi",
+    "Tebligat belgeleri",
+    "Arabuluculuk son tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "Adli yardım alan kişiye avukat ücretini kim öder?",
+      "a": "Mahkemenin talebi üzerine baro tarafından görevlendirilen avukatın ücreti, yargılama gideri olarak Hazineden ödenir."
+    },
+    {
+      "q": "Vekili olan kişiye tebligat doğrudan yapılır mı?",
+      "a": "Vekil vasıtasıyla takip edilen işlerde tebligat vekile yapılır."
+    },
+    {
+      "q": "Yargılama giderlerine vekâlet ücreti dâhil mi?",
+      "a": "Kanunen takdir edilen avukatlık asgari ücret tarifesindeki vekâlet ücreti yargılama giderleri kapsamındadır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "zamanaşimi-nedir",
+  "angle": "Avukat vekâlet ücreti",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

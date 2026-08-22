@@ -1,0 +1,102 @@
+{
+  "slug": "vergi-borcu-yapislandirma",
+  "title": "Vergi borcu yapılandırma nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Vergi borcu yapılandırma nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
+  "h1": "Vergi borcu yapılandırma nedir?",
+  "keywords": [
+    "vergi borcu yapılandırma",
+    "vergi affı"
+  ],
+  "category": "Vergi",
+  "related": [
+    "emlak-vergisi-nedir",
+    "icra-takibi-nedir",
+    "odeme-emrine-itiraz",
+    "damga-vergisi-nedir",
+    "e-haciz-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/emlak-vergisi-nedir"
+    },
+    {
+      "label": "AATUHK",
+      "href": "/kategori/aatuhk"
+    },
+    {
+      "label": "VUK",
+      "href": "/kategori/vuk"
+    }
+  ],
+  "lead": "Vergi borcu yapılandırması, birikmiş vergi borçlarınızı, gecikme faizlerini ve cezalarını tek seferde ödemek yerine devletin sunduğu kolaylıklarla taksite bağlama ve borç yükünü hafifletme imkanıdır. Zor duruma düşen mükelleflerin nefes almasını sağlayan bu yöntem, borçların yasal sınırlar dahilinde ertelenmesini içerir.",
+  "keyInsight": "Yapılandırma sürecinde en kritik eşik, başvuru şartlarını eksiksiz taşımak ve belirlenen ödeme planına sadık kalarak ilk taksitleri aksatmamaktır.",
+  "sections": [
+    {
+      "heading": "Hangi durumlarda borçlar ertelenebilir?",
+      "paragraphs": [
+        "İşleriniz yolunda gitmediğinde ve vergi borçlarınızı ödemek sizi çok zor duruma düşürecek hale geldiğinde devlet kapısı tamamen kapanmaz. Yasalar, iyi niyetli ve uyumlu mükelleflerin borçlarını belirli şartlar altında taksitlendirmesine izin verir.",
+        "Bu imkandan yararlanabilmek için öncelikle ticari, zirai veya mesleki faaliyetiniz nedeniyle en az **üç yıl** boyunca gelir veya kurumlar vergisi mükellefi olmanız gerekir. Ayrıca geçmişe dönük üç yıllık vergi beyannamelerinizi de süresinde vermiş olmanız şarttır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Borçların taksitlendirilme şartları nelerdir?",
+      "paragraphs": [
+        "Yapılandırma kapsamına giren borçların vadesinin **bir yılı** geçmemiş olması gerekir. Borçlu, borcunu ödeme konusunda iyi niyetli olduğunu ancak elinde olmayan nedenlerle sıkıntıya düştüğünü yazılı bir başvuru ile bildirmelidir.",
+        "Bu şartları taşıyan borçlar, yetkili makamlarca değerlendirilerek **36 ayı** geçmemek üzere faiz uygulanarak taksitlendirilebilir. Böylece biriken borç yükü zamana yayılarak hafifletilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Teminat göstermek gerekir mi?",
+      "paragraphs": [
+        "Borcunu yapılandırmak isteyen her mükelleften hemen teminat istenmez. Kanun, borç miktarına göre bir sınır belirlemiştir. Toplam borcunuz yasal sınırları aşmadığı sürece sizden herhangi bir teminat talep edilmez.",
+        "Eğer borç miktarınız belirlenen bu muafiyet sınırını aşıyorsa, aşan kısmın sadece **yüzde yirmi beşi** oranında bir teminat göstermeniz istenir. Bu sayede borcun tamamı için mal varlığınızı riske atmanıza gerek kalmaz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Ödeme emri gelince ne yapılmalıdır?",
+      "paragraphs": [
+        "Kapınıza bir ödeme emri dayandığında panik yapmamalısınız. Eğer bu borcun aslında size ait olmadığını, borcu daha önce kısmen veya tamamen ödediğinizi ya da borcun zamanaşımına uğradığını düşünüyorsanız itiraz hakkınız bulunur.",
+        "Bu itirazı, ödeme emrinin size tebliğ edildiği tarihten itibaren **on beş gün** içinde ilgili vergi dairesinin itiraz işlerine bakan komisyona yapmanız gerekir. İtirazın reddedilmesi halinde ise yine on beş gün içinde mal bildiriminde bulunmanız zorunludur."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Bağlı bulunduğunuz vergi dairesine giderek veya elektronik ortamda borç durumunuzu sorgulayın.",
+    "Yapılandırma şartlarını taşıyıp taşımadığınızı kontrol edin ve yazılı başvuru dilekçenizi hazırlayın.",
+    "Borç tutarınız teminat sınırını aşıyorsa, istenen oranda geçerli bir teminat hazırlığı yapın.",
+    "Başvurunuzu doğrudan bağlı olduğunuz vergi dairesine veya belediye sınırları dışındaki yetkili daireye teslim edin.",
+    "Onaylanan taksit planındaki ilk ödemeleri aksatmadan zamanında gerçekleştirin."
+  ],
+  "documents": [
+    "Yazılı yapılandırma başvuru dilekçesi",
+    "Son üç yıla ait vergi beyannameleri",
+    "Mali durumunuzu ve zor durumda olduğunuzu gösteren belgeler",
+    "Borç sınırının aşılması halinde gösterilecek teminat mektubu veya belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "Vergi borcu nereye ödenir?",
+      "a": "Vergi borcu, mükellefi olduğunuz bağlı vergi dairesine ödenir. Ancak isterseniz bağlı olduğunuz belediye sınırları dışındaki diğer vergi dairelerine de hangi daire adına ödeme yaptığınızı bildirerek borcunuzu yatırabilirsiniz."
+    },
+    {
+      "q": "Ödeme emrine itiraz etmek için ne kadar sürem var?",
+      "a": "Ödeme emrinin size tebliğ edildiği tarihten itibaren en geç 15 gün içinde ilgili vergi dairesi komisyonuna itiraz etmeniz gerekir."
+    },
+    {
+      "q": "Yapılandırma taksitleri en fazla kaç ay olabilir?",
+      "a": "Kanun kapsamında vergi borçları, gerekli şartların taşınması halinde en fazla 36 aya kadar taksitlendirilerek tecil edilebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "emlak-vergisi-nedir",
+  "angle": "Yapılandırma",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

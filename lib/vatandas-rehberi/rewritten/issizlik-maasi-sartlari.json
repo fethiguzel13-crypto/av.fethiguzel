@@ -1,0 +1,97 @@
+{
+  "slug": "issizlik-maasi-sartlari",
+  "title": "İşsizlik Maaşı Şartları Nelerdir? Başvuru | Vatandaş Rehberi",
+  "description": "İşsizlik maaşı şartları nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
+  "h1": "İşsizlik maaşı şartları nelerdir?",
+  "keywords": [
+    "işsizlik maaşı şartları",
+    "işsizlik ödeneği",
+    "işsizlik maaşı başvuru"
+  ],
+  "category": "İş",
+  "related": [
+    "issizlik-maasi-hesaplama",
+    "issizlik-sigortasi-nedir",
+    "is-sozlesmesi-feshi",
+    "kidem-tazminati-nasil-alinir",
+    "sgk-hizmet-dokumu"
+  ],
+  "links": [
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=i%C5%9Fsizlik"
+    }
+  ],
+  "lead": "İşinizden ayrıldığınızda maddi destek alabilmek için belirli kuralları sağlamanız gerekir. Bu süreçte resmi metinlerde yer alan şartları yerine getirmek zorunludur.",
+  "keyInsight": "İşsizlik ödeneğinden yararlanabilmek için kanuni prosedürleri eksiksiz takip etmeniz şarttır.",
+  "sections": [
+    {
+      "heading": "İş sözleşmesinin sona ermesi",
+      "paragraphs": [
+        "İşveren fesih bildirimini **yazılı olarak** yapmak ve sebebini açıkça belirtmek zorundadır. İşçinin davranışı veya verimi nedeniyle sözleşme feshedilmeden önce savunması alınmalıdır.",
+        "Çalışma şartları ve iş ilişkileri kanun hükümlerine göre yürütülür."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Sağlık sigortası hakları",
+      "paragraphs": [
+        "İşsizlik ödeneğinden yararlanmaya başlayan kişiler **genel sağlık sigortalısı** sayılır. Kurum tarafından bu durum ilgili mercilere bildirilir.",
+        "İkametgahı Türkiye'de olan ve şartları taşıyan vatandaşlar sağlık hizmetlerinden faydalanmaya devam eder."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Çalışma biçimleri ve bildirimler",
+      "paragraphs": [
+        "Uzaktan çalışma veya çağrı üzerine çalışmada yazılı sözleşme esastır. İşveren iş sağlığı ve güvenliği önlemlerini almakla yükümlüdür.",
+        "İşverenler sigortalıları işe başlamadan önce **kuruma bildirmek** zorundadır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Başvuru ve sicil şartları",
+      "paragraphs": [
+        "Mesleki faaliyetlerde ve resmi başvurularda aranan şartların sağlanması hukuki geçerlilik için gereklidir.",
+        "İlgili sicil kayıtları ve yasal kriterler denetlenir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İş sözleşmesinin fesih bildirimini yazılı olarak alın",
+    "Kurum bildirimlerini ve tescil işlemlerini kontrol edin",
+    "Genel sağlık sigortası kapsamındaki durumunuzu takip edin",
+    "Gerekli başvuru evraklarını eksiksiz hazırlayın"
+  ],
+  "documents": [
+    "Yazılı iş sözleşmesi",
+    "Fesih bildirim yazısı",
+    "Sigortalı işe giriş bildirgesi",
+    "Kimlik belgesi"
+  ],
+  "faq": [
+    {
+      "q": "İş sözleşmesi nasıl feshedilmelidir?",
+      "a": "İşveren fesih bildirimini yazılı olarak yapmalı ve sebebini açık ve kesin bir şekilde belirtmelidir."
+    },
+    {
+      "q": "Sağlık sigortam ne zaman başlar?",
+      "a": "İşsizlik ödeneğinden yararlanmaya başladığınız tarihten itibaren genel sağlık sigortalısı sayılarsınız."
+    },
+    {
+      "q": "İşveren işe giriş bildirgesini ne zaman verir?",
+      "a": "İşverenler sigortalıları, sigortalılık başlangıç tarihinden önce kuruma bildirmekle yükümlüdür."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "issizlik-maasi-sartlari",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

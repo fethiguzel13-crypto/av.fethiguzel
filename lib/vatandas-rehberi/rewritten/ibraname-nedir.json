@@ -1,0 +1,112 @@
+{
+  "slug": "ibraname-nedir",
+  "title": "İbraname Nedir? Geçerlilik Şartları",
+  "description": "İbraname imzalamak riskli midir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
+  "h1": "İbraname imzalamak riskli midir?",
+  "keywords": [
+    "ibraname nedir",
+    "işçi ibranamesi",
+    "ibraname geçerliliği"
+  ],
+  "category": "İş",
+  "related": [
+    "asgari-ucret-net-brut",
+    "ucretsiz-izin-nedir",
+    "sendika-ozgurlugu",
+    "toplu-is-sozlesmesi",
+    "esdeger-is-esit-ucret",
+    "uzaklastirma-isyerinden",
+    "analik-izin-hakki",
+    "agi-nedir"
+  ],
+  "links": [
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    }
+  ],
+  "lead": "İşten ayrılırken önünüze konulan kağıdı imzaladığınızda, işverenden alacağınız kalmamış gibi görünebilir. Oysa bu belge doğru imzalanmazsa haklarınız yanabilir.",
+  "keyInsight": "İbraname ancak alacakların tam ve banka yoluyla ödendiği **açıkça** yazıyorsa hukuki değer taşır.",
+  "sections": [
+    {
+      "heading": "İşten ayrılırken önünüze gelen kağıt nedir?",
+      "paragraphs": [
+        "Ofisten ayrılış evrakını imzalarken bazen araya sıkıştırılmış bir ibra sözleşmesi de bulunabilir. Telaşla atılan imza, tüm haklarınızdan **vazgeçtiğiniz** anlamına gelebilir.",
+        "İşveren ilişkisi bittiğinde, her iki tarafın da birbirine borcu kalmadığını gösteren bu belge dikkatle incelenmelidir."
+      ],
+      "bullets": [
+        "Alacakların tam listesi olmalı",
+        "Tarih ve imza eksiksiz olmalı"
+      ]
+    },
+    {
+      "heading": "Ne zaman geçerlilik kazanır?",
+      "paragraphs": [
+        "Belgenin geçerli olabilmesi için belirli şartların eksiksiz yerine gelmesi şarttır. Ödemelerin eksiksiz yapıldığını gösteren **banka dekontu** olmadan atılan imzalar tartışmalıdır.",
+        "İşçinin haklarını tam olarak bildiği ve iradesinin sakatlanmadığı bir ortamda imza atılması gerekir."
+      ],
+      "bullets": [
+        "Ödemelerin bankadan yapılması",
+        "Hakların açıkça yazılması"
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırınca ne olur?",
+      "paragraphs": [
+        "İmzalanan hatalı bir belgenin ardından hak aramak için zamanla yarış başlar. İtiraz yollarını **geciktirmek** hak kaybına yol açar.",
+        "Zamanında kullanılmayan haklar bir daha geri getirilemeyebilir."
+      ],
+      "bullets": [
+        "Hızlı hareket etmek",
+        "Uzmana danışmak"
+      ]
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "İş yerinden ayrılırken elinizde yazılı belgelerin kopyalarının bulunması hayat kurtarır. Evrakları almadan binadan ayrılmayın.",
+        "Banka dekontları, maaş bordroları ve imzalanan tüm kağıtların birer nüshasını saklayın."
+      ],
+      "bullets": [
+        "Banka dekontları",
+        "İş sözleşmesi kopyası"
+      ]
+    }
+  ],
+  "steps": [
+    "Belgeyi imzalamadan önce içeriğini dikkatle okuyun.",
+    "Ödemelerin hesabınıza yatıp yatmadığını kontrol edin.",
+    "Eksik ödeme varsa belgedeki ilgili kısmı imzalamayın.",
+    "Tüm evrakların birer suretini mutlaka isteyin."
+  ],
+  "documents": [
+    "Banka maaş hesap hareketleri",
+    "İş sözleşmesi metni",
+    "İmzalanan ibra belgesinin bir kopyası",
+    "Son döneme ait bordrolar"
+  ],
+  "faq": [
+    {
+      "q": "İmzalamazsam paramı alamaz mıyım?",
+      "a": "Hak ettiğiniz ödemeler yapılmadan zorla imza attırılamaz, yasal yollara başvurabilirsiniz."
+    },
+    {
+      "q": "İmzaladıktan sonra iptal edilebilir mi?",
+      "a": "İrade sakatlığı veya eksik ödeme gibi durumlarda hukuki yollarla itiraz süreci başlatılabilir."
+    },
+    {
+      "q": "Kısmi ödeme aldıysam tamamını imzalamalı mıyım?",
+      "a": "Almadığınız tutarlar için ibra belgesine imza atmak hak kaybına neden olur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "ibraname-nedir",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

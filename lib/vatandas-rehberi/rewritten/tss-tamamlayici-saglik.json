@@ -1,0 +1,113 @@
+{
+  "slug": "tss-tamamlayici-saglik",
+  "title": "Tamamlayıcı sağlık sigortası | Vatandaş Rehberi",
+  "description": "Tamamlayıcı sağlık sigortası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
+  "h1": "Tamamlayıcı sağlık sigortası",
+  "keywords": [
+    "tamamlayıcı sağlık sigortası",
+    "tss tamamlayici saglik"
+  ],
+  "category": "Sigorta",
+  "related": [
+    "sigorta-tazminat-reddi",
+    "tuketici-hakem-heyeti",
+    "malpraktis-davasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/sigorta-tazminat-reddi"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=sigorta"
+    },
+    {
+      "label": "TKHK",
+      "href": "/kategori/tkhk"
+    }
+  ],
+  "lead": "Hastane kapısındasınız; masraf çıkmasın diye sigortaya güvendiniz ancak teminat dışı kalan bir kalemde yalnız kalabilirsiniz. Asıl mesele, poliçenizin kapsamını ve istisnalarını peşinen okumaktır.",
+  "keyInsight": "Poliçe metninde açıkça yazmayan veya kapsam dışı bırakılan riskler için sonradan hak iddia etmek son derece güçtür.",
+  "sections": [
+    {
+      "heading": "Hangi masraflar güvence altındadır?",
+      "paragraphs": [
+        "Doktor muayenesi için hastaneye gittiniz. Tamamlayıcı sağlık sigortası, genel sağlık sigortası ile uyumlu olarak çalışır ve özel hastanelerde fark ücreti ödemenizin önüne geçer.",
+        "Ancak her tedavi kalemi doğrudan bu kapsama girmez. **Poliçe teminatları** ve özel şartlar, hangi işlemlerin ödeneceğini bizzat belirler."
+      ],
+      "bullets": [
+        "Yatarak tedavi giderleri",
+        "Ayakta tedavi limitleri",
+        "Anlaşmalı kurum ağı"
+      ]
+    },
+    {
+      "heading": "Hangi durumlarda sigorta ödeme yapmaz?",
+      "paragraphs": [
+        "Poliçeyi imzaladınız ve bir rahatsızlık nedeniyle tedavi gördünüz. Sigorta şirketleri, sözleşme metninde belirtilen istisnai hallerde masrafı karşılamayı reddedebilir.",
+        "Önceden var olan rahatsızlıklar veya poliçe **kapsam dışı** bırakılan özel durumlar için masrafı kendiniz üstlenmek zorunda kalabilirsiniz."
+      ],
+      "bullets": [
+        "Poliçe başlangıcından önceki rahatsızlıklar",
+        "Limit üstü kalan tutarlar"
+      ]
+    },
+    {
+      "heading": "Anlaşmazlık çıkarsa ne yapılmalıdır?",
+      "paragraphs": [
+        "Hastane veznesinde ödeme talebiyle karşılaştınız ve sigortanızın ödemediğini öğrendiniz. Bu aşamada sinirlenmek yerine belgeleri incelemelisiniz.",
+        "Sigorta şirketi ile iletişim kurarak ret gerekçesini yazılı olarak isteyin. **Yazılı ret** cevabı olmadan sonraki adımları atmakta zorlanabilirsiniz."
+      ],
+      "bullets": [
+        "Ret sebebini netleştirin",
+        "Poliçe kitapçığını kontrol edin"
+      ]
+    },
+    {
+      "heading": "Yenileme döneminde nelere dikkat edilmeli?",
+      "paragraphs": [
+        "Poliçe süreniz doluyor ve yenileme vakti geldi. Şirketler bu dönemde prim tutarlarını güncelleyebilir veya sağlık durumunuza göre yeni şartlar öne sürebilir.",
+        "Hak kaybı yaşamamak için **yenileme süresi** içinde teklifleri inceleyin ve poliçenizi kesintisiz sürdürmeye gayret edin."
+      ],
+      "bullets": [
+        "Prim değişikliklerini takip edin",
+        "Kazanılmış hakları koruyun"
+      ]
+    }
+  ],
+  "steps": [
+    "Poliçe özel ve genel şartlarını dikkatlice okuyun.",
+    "Tedavi öncesi kurumun anlaşmasını teyit edin.",
+    "Masraf çıktığında ret sebebini yazılı isteyin.",
+    "Gerekli durumlarda sigorta şirketine yazılı itirazda bulunun.",
+    "Yenileme döneminde poliçe şartlarını yeniden kontrol edin."
+  ],
+  "documents": [
+    "Tamamlayıcı sağlık sigortası poliçe metni",
+    "Hastane fatura ve işlem dökümleri",
+    "Sigorta şirketi yazılı ret bildirimi",
+    "Kimlik belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Her özel hastanede bu sigorta geçerli mi?",
+      "a": "Hayır, sigorta şirketinin anlaşmalı olduğu sağlık kurumları ağında geçerlidir."
+    },
+    {
+      "q": "Önceden gelen hastalıklar kapsama dahil mi?",
+      "a": "Genellikle poliçe başlangıç tarihinden önceki rahatsızlıklar özel şartlara tabidir ve kapsam dışı kalabilir."
+    },
+    {
+      "q": "Sigorta şirketi ödeme yapmazsa nereye başvurulur?",
+      "a": "Öncelikle şirket nezdinde itiraz süreci işletilmeli, sonuç alınamazsa ilgili tüketici veya sigorta mercilerine başvurulabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "sigorta-tazminat-reddi",
+  "angle": "Tamamlayıcı sağlık sigortası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

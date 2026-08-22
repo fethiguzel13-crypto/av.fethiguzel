@@ -1,0 +1,100 @@
+{
+  "slug": "belediye-encumen-karari",
+  "title": "Belediye encümen kararı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Belediye encümen kararı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
+  "h1": "Belediye encümen kararı",
+  "keywords": [
+    "belediye encümen kararı",
+    "belediye encumen karari"
+  ],
+  "category": "İdare",
+  "related": [
+    "cimer-sikayet",
+    "belediye-cezasi-itiraz",
+    "idari-dava-nasil-acilir",
+    "iptal-davasi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/cimer-sikayet"
+    },
+    {
+      "label": "Belediye",
+      "href": "/kategori/belediye"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Belediye encümen kararı, belediyenin taşınmaz, imar ve kamulaştırma gibi konularda aldığı idari bir karardır. Bu karar, belediyenin işleyişinde bağlayıcı bir irade beyanı niteliği taşır.",
+  "keyInsight": "Belediye encümen kararına karşı açılacak iptal davasında, kararın size tebliğinden itibaren süreyi kaçırmamak hayati önem taşır.",
+  "sections": [
+    {
+      "heading": "Encümen kararı ne zaman karşınıza çıkar?",
+      "paragraphs": [
+        "Belediye encümeni; imar planı uygulamaları, kamulaştırma kararları veya ruhsatsız yapıların yıkımı gibi süreçlerde aktif rol alır. Örneğin, taşınmazınızın ifrazı veya tevhidi söz konusu olduğunda süreç encümen onayıyla şekillenir.",
+        "Ayrıca, imar planında beş yıllık programa dahil olmayan yerlerde geçici yapı izni almak isterseniz, bu izin yine encümen kararıyla verilir. Karar, tapu kaydına şerh düşülerek resmiyet kazanır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yıkım kararı ve mühürleme süreci nasıl işler?",
+      "paragraphs": [
+        "Belediyenin yapınızı mühürlemesi, inşaatın durdurulduğu anlamına gelir. Bu tebligat yapı tatil zaptının asılmasıyla gerçekleşir.",
+        "Mühürleme sonrası **bir ay içinde** ruhsat almanız veya aykırılığı gidermeniz beklenir. Bu sürede işlem yapmazsanız, encümen kararıyla yapının yıkımına karar verilebilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kamulaştırmada encümenin rolü nedir?",
+      "paragraphs": [
+        "Belediye yararına yapılacak kamulaştırmalarda kamu yararı kararını veren merci belediye encümenidir. Bu karar, ilgili mülki amirin onayıyla kesinleşir.",
+        "Eğer bir kamu kurumunun taşınmazı başka bir idareye devredilecekse ve taraflar anlaşamazsa, süreç Danıştay incelemesine kadar uzanabilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreci yönetirken nelere dikkat etmelisiniz?",
+      "paragraphs": [
+        "Encümen kararı size ulaştığında, gerekçelerini dikkatle inceleyin. İmarla ilgili başvurularınızın **30 gün içinde** sonuçlandırılması yasal bir zorunluluktur.",
+        "Karara itiraz veya iptal davası açma hakkınız her zaman saklıdır. Ancak idari işlemlerde süreler çok hızlı işler, bu yüzden gecikmemeye gayret edin."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Size gelen encümen kararının tebliğ tarihini not edin.",
+    "Kararın dayandığı imar veya kamulaştırma gerekçelerini inceleyin.",
+    "Yıkım veya mühürleme gibi durumlarda bir ay içinde ruhsat başvurunuzu yapın.",
+    "Karar aleyhinize ise idari yargı yoluna başvurmak için bir avukatla görüşün."
+  ],
+  "documents": [
+    "Belediye encümen kararı tebligatı",
+    "Yapı tatil zaptı",
+    "Tapu kayıt örneği",
+    "İmar durumu belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Encümen kararına karşı nereye başvurulur?",
+      "a": "İdari işlemlere karşı idare mahkemelerinde iptal davası açılabilir."
+    },
+    {
+      "q": "Mühürleme sonrası yıkım kararı hemen çıkar mı?",
+      "a": "Hayır, yapı sahibine eksikliği gidermesi için bir aylık süre tanınır; bu süre sonunda işlem yapılmazsa yıkım süreci başlar."
+    },
+    {
+      "q": "Belediye encümeni her konuda karar alabilir mi?",
+      "a": "Hayır, sadece kanunların kendisine verdiği taşınmaz, imar ve kamulaştırma gibi görev alanlarında karar alabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "cimer-sikayet",
+  "angle": "Belediye encümen kararı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

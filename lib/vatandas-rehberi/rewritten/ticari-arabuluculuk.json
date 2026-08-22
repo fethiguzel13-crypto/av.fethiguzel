@@ -1,0 +1,117 @@
+{
+  "slug": "ticari-arabuluculuk",
+  "title": "Ticari Davalarda Arabuluculuk | Vatandaş Rehberi",
+  "description": "Ticari davalarda arabuluculuk zorunlu mu? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portal…",
+  "h1": "Ticari davalarda arabuluculuk zorunlu mu?",
+  "keywords": [
+    "ticari arabuluculuk",
+    "ticari dava arabuluculuk"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "arabuluculuk-nasil-yapilir",
+    "sirket-kurulusu",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/arabuluculuk-nasil-yapilir"
+    },
+    {
+      "label": "Arabuluculuk",
+      "href": "/rehber/arabuluculuk"
+    },
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-isletme"
+    }
+  ],
+  "lead": "Ticari defterlerin ibrazı veya ticari işletme devirleri gibi konularda uyuşmazlık yaşadığınızda mahkeme süreci gündeme gelir. Bu tür uyuşmazlıklarda mahkemenin defter ibrazına resen karar verme yetkisi bulunur.",
+  "keyInsight": "Ticari uyuşmazlıklarda mahkeme, yabancı gerçek veya tüzel kişi fark etmeksizin tarafların ticari defterlerinin ibrazına kendiliğinden karar verebilir.",
+  "sections": [
+    {
+      "heading": "Ticari defterler ne zaman ortaya çıkar?",
+      "paragraphs": [
+        "Ticari uyuşmazlıklar mahkemeye taşındığında, taraflar arasındaki iddiaların çözümü için defterler kritik bir rol oynar. Mahkeme, taraflardan birinin istemi üzerine ya da doğrudan kendiliğinden defterlerin ibrazına karar verebilir.",
+        "Bu aşamada yabancı gerçek veya tüzel kişi olmanız durumu değiştirmez. Hukuk Usulü Muhakemeleri Kanunu hükümleri ticari işlerde de uygulanır ve senetlerin ibrazı zorunluluğu geçerliliğini korur."
+      ],
+      "bullets": [
+        "Defterlerin ibrazına mahkeme kendiliğinden karar verebilir.",
+        "Yabancı taraflar için de aynı kurallar geçerlidir."
+      ]
+    },
+    {
+      "heading": "Ticari işletme nasıl bir bütündür?",
+      "paragraphs": [
+        "Ticari işletme, esnaf işletmesi sınırını aşan gelir hedefiyle devamlı ve bağımsız şekilde yürütülen faaliyetlerin merkezidir. Bu işletmenin devri söz konusu olduğunda, malvarlığı unsurlarının ayrı ayrı devredilmesine gerek kalmaz.",
+        "Aksi kararlaştırılmadıkça devir sözleşmesi duran malvarlığını, işletme değerini, kiracılık hakkını ve ticaret unvanını kapsar. **Bu devir sözleşmesinin yazılı yapılması** ve ticaret siciline tescil edilmesi zorunludur."
+      ],
+      "bullets": [
+        "İşletme bir bütün olarak devredilebilir.",
+        "Yazılı şekil ve tescil şartı aranır."
+      ]
+    },
+    {
+      "heading": "Taşıma işlerinde güverte kuralı nedir?",
+      "paragraphs": [
+        "Ticari faaliyetler arasında deniz yoluyla yapılan taşımacılık da önemli bir yer tutar. Taşıyan kişi, eşyayı normal şartlarda güvertede taşıyamaz ve küpeşteye asamaz.",
+        "Ancak yükleten ile yapılan anlaşma, ticari teamül veya mevzuat gereği zorunluluk varsa güvertede taşıma yapılabilir. **Yazılı anlaşma bulunmaması** halinde güvertede taşıma iddiasını ispat yükü taşıyana aittir."
+      ],
+      "bullets": [
+        "Güvertede taşıma için özel anlaşma veya teamül gerekir.",
+        "İspat yükü kural olarak taşıyan üzerindedir."
+      ]
+    },
+    {
+      "heading": "Yatırım hizmetleri ve kripto varlıklar hangi kurallara bağlıdır?",
+      "paragraphs": [
+        "Sermaye piyasasında yatırım hizmetleri ve faaliyetlerinin ticari olarak yürütülmesi kurul iznine tabidir. Özel kanunlarla yetkilendirilmiş olsalar dahi gerekli şartları taşımayanlar bu faaliyetleri yürütemez.",
+        "Kripto varlık hizmet sağlayıcıları ile müşteriler arasında imzalanan sözleşmelerin yazılı veya uzaktan iletişim araçlarıyla kurulması mümkündür. **Müşterilerin sorumluluğunu kaldıran** her türlü sözleşme şartı geçersiz kabul edilir."
+      ],
+      "bullets": [
+        "Faaliyetler için kurul izni şarttır.",
+        "Sorumluluğu kaldıran sözleşme hükümleri geçersizdir."
+      ]
+    }
+  ],
+  "steps": [
+    "Uyuşmazlık konusu ticari defterleri ve belgeleri inceleyin.",
+    "İşletme devri veya ticari sözleşmeleri yazılı hale getirin.",
+    "Devir sözleşmesini ticaret siciline tescil ve ilan ettirin.",
+    "Faaliyetleriniz için ilgili kurumlardan gerekli izinleri alın.",
+    "Müşteri sözleşmelerini mevzuata uygun şekilde düzenleyin."
+  ],
+  "documents": [
+    "Ticari defterler",
+    "Yazılı devir sözleşmesi",
+    "Ticaret sicil tescil evrakları",
+    "Deniz taşıma senedi",
+    "Müşteri sözleşmeleri"
+  ],
+  "faq": [
+    {
+      "q": "Ticari defterlerin ibrazına kim karar verir?",
+      "a": "Mahkeme, resen veya taraflardan birinin istemi üzerine ticari defterlerin ibrazına karar verebilir."
+    },
+    {
+      "q": "Ticari işletme devri nasıl yapılır?",
+      "a": "Devir sözleşmesi yazılı olarak yapılır, ardından ticaret siciline tescil ve ilan edilir."
+    },
+    {
+      "q": "Eşya güvertede taşınabilir mi?",
+      "a": "Anlaşma, ticari teamül veya mevzuat gereği zorunluluk varsa güvertede taşıma yapılabilir; aksi takdirde taşıyan sorumludur."
+    },
+    {
+      "q": "Yatırım faaliyetleri için izin şart mı?",
+      "a": "Yatırım hizmetleri ve faaliyetlerinin ticari olarak icra edilebilmesi için ilgili kuruldan izin alınması zorunludur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "arabuluculuk-nasil-yapilir",
+  "angle": "Ticari dava",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

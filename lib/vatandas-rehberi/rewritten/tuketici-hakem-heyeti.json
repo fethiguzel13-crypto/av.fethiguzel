@@ -1,0 +1,105 @@
+{
+  "slug": "tuketici-hakem-heyeti",
+  "title": "Tüketici Hakem Heyeti Başvurusu Nasıl Yapılır?",
+  "description": "Tüketici hakem heyetine nasıl başvurulur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portal…",
+  "h1": "Tüketici hakem heyetine nasıl başvurulur?",
+  "keywords": [
+    "tüketici hakem heyeti",
+    "tüketici şikayeti",
+    "e-devlet tüketici"
+  ],
+  "category": "Tüketici",
+  "related": [
+    "mesafeli-satis-cayma",
+    "tuketici-kredisi-cayma",
+    "garanti-belgesi-haklari",
+    "internet-alisveris-iade",
+    "abonelik-taahhut-cezasi",
+    "ayip-bildirim-suresi",
+    "kredi-notu-nedir",
+    "mesafeli-sozlesme-yonetmelik",
+    "kredi-karti-asgari-odeme",
+    "tuketici-arabuluculuk",
+    "tuketici-hakem-parasal-sinir",
+    "e-devlet-tuketici"
+  ],
+  "links": [
+    {
+      "label": "TKHK",
+      "href": "/kategori/tkhk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=t%C3%BCketici"
+    }
+  ],
+  "lead": "Tüketici hakem heyeti, satın aldığınız bir mal veya hizmette yaşadığınız uyuşmazlıkları mahkemeye gitmeden, masrafsızca çözmenizi sağlayan resmi bir heyettir. Kararları bağlayıcı olup, hakkınızı ararken devlet güvencesiyle hızlıca sonuç almanıza imkan tanır.",
+  "keyInsight": "Hakem heyetine başvururken en kritik kural, uyuşmazlık bedelinin yasa ile belirlenen **güncel parasal sınır** dahilinde kalmasıdır; bu sınırın üzerindeki uyuşmazlıklar için heyet karar veremez.",
+  "sections": [
+    {
+      "heading": "Hangi uyuşmazlıklar için heyete gidilir?",
+      "paragraphs": [
+        "Mağazadan aldığınız kusurlu bir ayakkabı, internetten sipariş edip bozuk çıkan bir televizyon veya haksız yere tahsil edilen bir abonelik ücreti için hakem heyetine gidebilirsiniz. Temel kural, uyuşmazlığın tüketici işlemi niteliğinde olması ve değerinin kanunda belirlenen limitlerin altında kalmasıdır.",
+        "Değeri kanuni sınırın altında kalan uyuşmazlıklarda tüketici hakem heyetine başvuru yapılması **zorunlu bir yoldur**. Bu sınırın üzerindeki uyuşmazlıklar için ise heyet yetkili olmadığından doğrudan tüketici mahkemesine başvurulması gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Nereye ve nasıl başvurulur?",
+      "paragraphs": [
+        "Başvurunuzu kendi oturduğunuz yerdeki veya satıcının bulunduğu yerdeki tüketici hakem heyetine yapabilirsiniz. Eğer yaşadığınız ilçede tüketici hakem heyeti bulunmuyorsa, başvurunuzu doğrudan **ilçe kaymakamlığına** teslim edebilirsiniz.",
+        "Kaymakamlıklar kendilerine gelen bu başvuruları, gereği yapılmak üzere Bakanlık tarafından belirlenen yetkili tüketici hakem heyetine güvenli bir şekilde iletir. Başvurularınızı şahsen giderek yapabileceğiniz gibi, e-Devlet kapısı üzerinden elektronik ortamda da kolayca tamamlayabilirsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Heyet kimlerden oluşur ve dosyayı kim inceler?",
+      "paragraphs": [
+        "Tüketici hakem heyeti, illerde ticaret il müdürü, ilçelerde ise kaymakam başkanlığında toplanır. Heyette belediye personeli, barodan bir avukat, ticaret veya esnaf odası temsilcisi ve tüketici örgütlerinden gelen bir üye olmak üzere **beş kişilik bir kurul** karar verir.",
+        "Siz başvurunuzu yaptıktan sonra, evraklarınızı inceleyen ve karara esas olacak dosyayı hazırlayan kişi ise raportördür. Raportörler uyuşmazlığa ilişkin kapsamlı bir rapor hazırlayarak heyetin önüne sunar ve adil bir karar verilmesini sağlar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Zamanaşımı ve diğer haklar nasıl etkilenir?",
+      "paragraphs": [
+        "Hakem heyetine başvurmak, hukuki süreçlerinizi koruma altına alır. Kanunlarımıza göre alacaklının hakeme başvurması durumunda **zamanaşımı kesilir** ve süreç sıfırlanarak yeni bir dönem başlar.",
+        "Eğer uyuşmazlığınız hakem kararı ile netleşirse, zamanaşımı süresi on yıl olarak yeniden işlemeye başlar. Ayrıca heyete başvurmuş olmanız, İcra ve İflas Kanunu kapsamındaki diğer yasal haklarınızı kullanmanıza hiçbir şekilde engel teşkil etmez."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Uyuşmazlık tutarının o yıl için belirlenen yasal parasal sınırın altında kaldığını kontrol edin.",
+    "Satıcı veya sağlayıcı firmaya talebinizi içeren yazılı bir başvuru yapıp yanıtını bekleyin.",
+    "e-Devlet sistemine giriş yaparak Tüketici Hakem Heyeti Başvuru ekranını açın.",
+    "Şikayetçi olduğunuz firmanın unvanını, adresini ve talebinizi başvuru formuna eksiksiz yazın.",
+    "Fatura, sözleşme ve haklılığınızı kanıtlayan tüm belgeleri sisteme yükleyerek başvuruyu onaylayın."
+  ],
+  "documents": [
+    "Satış faturası veya fişi",
+    "Sözleşme veya sipariş formu",
+    "Satıcıya gönderilen ihtarname veya yazışma kayıtları",
+    "Üründeki ayıbı gösteren fotoğraf veya teknik servis raporu"
+  ],
+  "faq": [
+    {
+      "q": "Tüketici hakem heyetine başvurmak ücretli midir?",
+      "a": "Hayır, tüketici hakem heyetlerine yapılan başvurular tamamen ücretsizdir ve herhangi bir harç ödenmez."
+    },
+    {
+      "q": "Başvuruyu kendi oturduğum ilçeden yapabilir miyim?",
+      "a": "Evet, yerleşim yerinizin bulunduğu yerdeki veya tüketici işleminin yapıldığı yerdeki hakem heyetine başvuru yapabilirsiniz."
+    },
+    {
+      "q": "Bulunduğum ilçede hakem heyeti yoksa ne yapmalıyım?",
+      "a": "İlçenizde hakem heyeti yoksa başvurunuzu ilçe kaymakamlığına teslim edebilirsiniz; kaymakamlık başvurunuzu yetkili heyete iletecektir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "tuketici-hakem-heyeti",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

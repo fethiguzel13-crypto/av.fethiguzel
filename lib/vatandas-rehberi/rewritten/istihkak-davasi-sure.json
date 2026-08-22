@@ -1,0 +1,100 @@
+{
+  "slug": "istihkak-davasi-sure",
+  "title": "İstihkak davası ne kadar sürede açılır — Vatandaş Rehberi | Av. Fethi ",
+  "description": "İstihkak davası ne kadar sürede açılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı.…",
+  "h1": "İstihkak davası ne kadar sürede açılır?",
+  "keywords": [
+    "istihkak davası süresi"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "istihkak-iddiasi",
+    "haciz-islemleri-nasil-yapilir",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "İstihkak davası, haczedilen bir malın aslında borçluya değil size ait olduğunu iddia ettiğinizde açılır. Bu süreçte zamanlama hatası yapmamak hak kaybını önlemek için hayati önem taşır.",
+  "keyInsight": "Haczi öğrendiğiniz andan itibaren veya size tebliğ edilen yasal bildirimle başlayan yedi günlük süreyi kaçırmamanız gerekir.",
+  "sections": [
+    {
+      "heading": "Haciz kapınıza geldiğinde ne olur?",
+      "paragraphs": [
+        "Evinize veya iş yerinize icra memurları geldiğinde, borçlunun olmayan ancak sizin mülkiyetinizde bulunan eşyalar haczedilmek istenebilir. Bu durumda derhal istihkak iddiasında bulunmalısınız.",
+        "İddianız icra tutanağına geçirilir ve süreç resmiyet kazanır. Ancak sadece tutanağa yazdırmak yeterli değildir; mahkeme yoluna gitmeniz gerekebilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İcra müdürü size bildirimde bulunursa",
+      "paragraphs": [
+        "Eğer haczedilen mal sizin elinizde bulunuyorsa, icra müdürü alacaklıya bu mal için dava açması yönünde bir bildirim yapar. Alacaklı dava açarsa süreç mahkemeye taşınır.",
+        "Size verilen **yedi günlük süre** içerisinde gerekli adımları atmanız, iddianızın kabul edilmesi veya korunması için zorunludur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Mahkeme kararı sonrası süre nasıl işler?",
+      "paragraphs": [
+        "İcra mahkemesi, istihkak iddianız hakkında bir karar verir. Eğer mahkeme takibin devamına karar verirse, bu kararın size tebliğinden veya yüzünüze karşı okunmasından itibaren **yedi gün içinde** davanızı açmalısınız.",
+        "Bu süreyi geçirirseniz, artık alacaklıya karşı o mal üzerindeki hak iddianızdan vazgeçmiş sayılırsınız."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Haczi sonradan öğrendiyseniz",
+      "paragraphs": [
+        "Size herhangi bir tebligat yapılmadıysa ancak hacizden bir şekilde haberdar olduysanız, yine de vakit kaybetmemelisiniz.",
+        "Haczi öğrendiğiniz tarihten itibaren **yedi gün içinde** icra mahkemesine başvurarak istihkak davası açma hakkınız bulunmaktadır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Haciz tutanağında mülkiyet iddianızı açıkça belirtin.",
+    "İcra müdürlüğünden gelen tebligatın tarihini not edin.",
+    "Tebliğ tarihinden itibaren yedi günlük süreyi hesaplayın.",
+    "Dilekçenizi hazırlayarak icra mahkemesine başvurun.",
+    "Gerekirse mahkemenin talep edebileceği teminatı hazırlayın."
+  ],
+  "documents": [
+    "İcra tutanağı örneği",
+    "İstihkak iddiasını içeren dilekçe",
+    "Mülkiyetinizi kanıtlayan fatura veya belgeler",
+    "Tebligat mazbatası"
+  ],
+  "faq": [
+    {
+      "q": "Süreyi kaçırırsam ne olur?",
+      "a": "Süreyi kaçırdığınız takdirde, ilgili eşya üzerindeki istihkak iddianızdan vazgeçmiş sayılırsınız ve malın satışına engel olamazsınız."
+    },
+    {
+      "q": "Dava açarken teminat yatırmam gerekir mi?",
+      "a": "İcra mahkemesi, davanın satışı durdurması durumunda, alacaklının zarar görmemesi için sizden teminat talep edebilir."
+    },
+    {
+      "q": "Dava süreci malın satışını durdurur mu?",
+      "a": "Dava açıldığında, mahkeme kararı ile satışın ertelenmesi mümkündür; ancak bu durum hakimin takdirindedir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "İstihkak süresi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

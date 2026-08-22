@@ -1,0 +1,111 @@
+{
+  "slug": "belediye-cezasi-itiraz",
+  "title": "Belediye cezasına nasıl itiraz edilir — Vatandaş Rehberi | Av. Fethi G",
+  "description": "Belediye cezasına nasıl itiraz edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
+  "h1": "Belediye cezasına nasıl itiraz edilir?",
+  "keywords": [
+    "belediye cezası itiraz",
+    "zabıta cezası"
+  ],
+  "category": "İdare",
+  "related": [
+    "idari-dava-nasil-acilir",
+    "trafik-cezasina-itiraz",
+    "kacak-yapi-cezasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/idari-dava-nasil-acilir"
+    },
+    {
+      "label": "Belediye",
+      "href": "/kategori/belediye"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    }
+  ],
+  "lead": "Belediyeden gelen bir ceza tebligatıyla karşılaştığınızda, telaşlanmadan önce işlemin dayanağını ve size tanınan yasal süreci incelemeniz gerekir. Asıl mesele, cezanın hangi gerekçeyle kesildiği ve ilgili ilan veya tebligat tarihleridir.",
+  "keyInsight": "Belediye işlemlerine karşı yapılacak başvurularda, tebligat veya askı ilan tarihlerinden itibaren başlayan süreleri kaçırmak hak kaybına yol açar.",
+  "sections": [
+    {
+      "heading": "Kapınıza gelen tebligat ne anlama gelir?",
+      "paragraphs": [
+        "Belediye veya valilik eliyle yürütülen işlemler, adrese dayalı nüfus kayıt sistemindeki adresinize gönderilen evraklarla başlar. Adresinize ulaşılamayan durumlarda, ilgili idarenin internet sayfasında duyuru yapılır ve evrak binaya asılarak muhtarla birlikte tespit tutanağı düzenlenir.",
+        "Yapıların tehlike arz etmesi veya imar planı değişiklikleri gibi durumlarda bu tebligatlar hayati önem taşır. **Tebligat veya ilan tarihinden itibaren** başlayan süreçleri dikkatle takip etmeniz şarttır."
+      ],
+      "bullets": [
+        "Adrese dayalı tebligat kontrolü",
+        "İnternet sayfası ve muhtarlık askı duyuruları"
+      ]
+    },
+    {
+      "heading": "İtiraz süresi nasıl işler?",
+      "paragraphs": [
+        "İmar planları ve benzeri idari kararlar, onay tarihinden sonra belediye başkanlığınca tespit edilen ilan yerlerinde ve internet sayfalarında askıya çıkarılır. Bu askı dönemi içinde kararlara karşı itiraz hakkınızı kullanabilirsiniz.",
+        "Belediye meclisine veya valiliğe yapılan itirazlar, ilgili idare tarafından belirli bir süre içinde incelenerek karara bağlanır. **Süresi içinde yapılmayan** itirazlar geçersiz sayılacaktır."
+      ],
+      "bullets": [
+        "Askı süresinde başvuru zorunluluğu",
+        "İlgili idarenin inceleme mercii"
+      ]
+    },
+    {
+      "heading": "Masraflar ve tehlikeli yapılar",
+      "paragraphs": [
+        "Tehlikeli olduğu tespit edilen yapılarda, verilen süre içinde durumun ortadan kaldırılması beklenir. Yapı sahibi tarafından giderilmeyen tehlikeler idare tarafından ortadan kaldırılır ve masrafı **yüzde yirmi fazlasıyla** tahsil edilir.",
+        "Can güvenliğini tehdit eden durumlarda binalar mahkeme kararı aranmaksızın zabıta marifetiyle boşaltılabilir. Fakirlik durumu belgelendiği takdirde masraflar idare bütçesinden karşılanır."
+      ],
+      "bullets": [
+        "Masrafların zamlı tahsili",
+        "Mahkeme kararı olmadan tahliye yetkisi"
+      ]
+    },
+    {
+      "heading": "Yanınızda hangi belgeler bulunmalı?",
+      "paragraphs": [
+        "Belediye işlemlerine ve cezalara karşı atılacak adımlarda elinizdeki evrakların tam olması işinizi kolaylaştırır. Size tebliğ edilen evrak, tutanak ve dilekçeler dosyanızın temelini oluşturur.",
+        "Hak iddia edebilmek ve süreci doğru yürütebilmek için tebligat zarfı üzerindeki tarih ve muhtarlık tutanakları mutlaka muhafaza edilmelidir."
+      ],
+      "bullets": [
+        "Tebligat zarfı ve mazbatası",
+        "Zabıta tespit tutanakları"
+      ]
+    }
+  ],
+  "steps": [
+    "Tebligat evrakını veya askı ilanını teslim aldığınız tarihi ve saati not edin.",
+    "Belediyenin ilgili birimine yazılı dilekçe ile başvurarak itiraz gerekçelerinizi bildirin.",
+    "Muhtarlık ve internet üzerindeki ilan tutanaklarını kontrol edin.",
+    "Tehlikeli yapı veya ceza bildiriminde belirtilen süre zarfında gerekli önlemleri alın."
+  ],
+  "documents": [
+    "Belediye tebligat evrakı",
+    "Muhtarlık tespit tutanağı",
+    "İtiraz dilekçesi",
+    "Tapu veya mülkiyet belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Belediye cezasına nereden itiraz edilir?",
+      "a": "İtirazlar, cezayı veren ilgili belediye başkanlığına veya plan değişikliklerinde yetkili idari mercilere yapılır."
+    },
+    {
+      "q": "Tebligat elime ulaşmadıysa ne olur?",
+      "a": "Adresinizde bulunamamanız durumunda internet sitesinde ilan edilir ve yapıya asılarak muhtarla tutanak altına alınır."
+    },
+    {
+      "q": "Masraflar ödenmezse ne olur?",
+      "a": "İdare tarafından yapılan yıkım ve bakım masrafları yüzde yirmi fazlasıyla yapı sahibinden tahsil edilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "idari-dava-nasil-acilir",
+  "angle": "Belediye IPC",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

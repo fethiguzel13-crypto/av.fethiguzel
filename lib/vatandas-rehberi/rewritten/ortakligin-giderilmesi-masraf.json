@@ -1,0 +1,108 @@
+{
+  "slug": "ortakligin-giderilmesi-masraf",
+  "title": "İzale-i şuyu masrafı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İzale-i şuyu masrafı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
+  "h1": "İzale-i şuyu masrafı",
+  "keywords": [
+    "izale-i şuyu masrafı",
+    "ortakligin giderilmesi masraf"
+  ],
+  "category": "Eşya",
+  "related": [
+    "izale-i-suyu",
+    "tapu-devri-nasil-yapilir",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/izale-i-suyu"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Ortak mülkiyeti bitirip herkesin yolunu ayırmak istediğiniz o masada, en çok can yakan konu harcamalardır. **Yargılama gideri** kural olarak paylara göre bölüşülür ve süreç masrafsız yürümez.",
+  "keyInsight": "Masrafı kim öderse ödesin, son hesapta herkes payı oranında** kasaya para koymak zorundadır.",
+  "sections": [
+    {
+      "heading": "Masraf kapısı nerede açılır?",
+      "paragraphs": [
+        "Ortak taşınır veya taşınmaz malın paylaştırılması için mahkemeye adım attığınızda harçlar ve bilirkişi ücretleri kapıyı çalar. **Sulh mahkemesi** bu tür paylaşım ve ortaklığın giderilmesi davalarına bakan yerdir.",
+        "Süreç ilerledikçe keşif yapılır, değer tespiti istenir. Her adım cebinizden bir miktar para çıkması demektir. Tek başına dava açmakla iş bitmez; asıl harcama malın satışı aşamasında başlar."
+      ],
+      "bullets": [
+        "Sulh hukuk görevlidir",
+        "Keşif ve bilirkişi şarttır"
+      ]
+    },
+    {
+      "heading": "Parayı kim öder?",
+      "paragraphs": [
+        "Evde oturup hiçbir şeye karışmayan hissedar 'ben para vermem' diyemez. **Yargılama gideri** paylar oranında bölüştürülür. Davayı açan ilk başta cebinden öder ama bu onun üzerinde kalacağı anlamına gelmez.",
+        "Mahkeme sonunda yapılan tüm masraflar, herkesin tapudeki hisse oranına göre paylaştırılır. Avansı yatırmayan paydaşın payına düşen miktar, sonuçta yapılacak hesaplamalardan düşülür."
+      ],
+      "bullets": [
+        "Pay oranına göre bölünür",
+        "Avans ödemesi toplanır"
+      ]
+    },
+    {
+      "heading": "Satış ve ihale aşaması nasıl döner?",
+      "paragraphs": [
+        "Paylaştırma ve ortaklığın giderilmesi için satış yapılması gerektiğinde hâkim bir memur görevlendirir. Satış taşınır ve taşınmaz mallar için kanun hükümlerine göre açık artırmayla yapılır.",
+        "İhale yapıldıktan sonra elde edilen bedelden masraflar düşülür. **Satış bedeli** üzerinden tüm harcamalar çıktıktan sonra kalan para paydaşlara hisseleri oranında dağıtılır."
+      ],
+      "bullets": [
+        "Memur görevlendirilir",
+        "Açık artırma yapılır"
+      ]
+    },
+    {
+      "heading": "Hesap nasıl kapanır?",
+      "paragraphs": [
+        "Süreç bittiğinde elinizde kalan rakam netleşir. Bir ortak diğerine göre daha çok masraf ödediyse, bu farkı diğer paydaşlardan isteme hakkına sahiptir. **Kesin hesap** yapılarak herkesin alacağı ve vereceği son bağlamda ortaya çıkar.",
+        "Kanun yolları ve özel durumlar tıkandığında, mahkemenin verdiği kararlar doğrultusunda tapu ve ortaklık bağları tamamen koparılır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Keşif, bilirkişi ve satış masraflarının kimden avans alındığını sorun.",
+    "Masrafı pay oranında paylaşım kararına işletin.",
+    "İhale bedelinden mahsup edilmesini isteyin.",
+    "Avansı yatıran paydaşın rücu alacağını yazın.",
+    "Satış sonrası kesin hesabı kontrol edin."
+  ],
+  "documents": [
+    "mahkeme kararı",
+    "masraf makbuzları",
+    "ihale tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "Masrafı neden ben ödüyorum?",
+      "a": "Davayı siz açsanız bile tüm harcamalar hisse oranınıza göre paylaştırılır, tek başınıza yüklenmezsiniz."
+    },
+    {
+      "q": "Satıştan sonra para hemen yatar mı?",
+      "a": "İhale tamamlanıp masraflar çıktıktan ve kesin hesap yapıldıktan sonra bedel paydaşlara dağıtılır."
+    },
+    {
+      "q": "Avans ödemezsem ne olur?",
+      "a": "Masrafı ödemeyen paydaşın payından veya nihai ihale bedelindeki payından bu tutar düşülür."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "izale-i-suyu",
+  "angle": "İzale-i şuyu masrafı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

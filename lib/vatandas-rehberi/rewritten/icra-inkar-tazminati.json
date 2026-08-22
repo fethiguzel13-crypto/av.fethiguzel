@@ -1,0 +1,106 @@
+{
+  "slug": "icra-inkar-tazminati",
+  "title": "İcra inkâr tazminatı nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İcra inkâr tazminatı nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
+  "h1": "İcra inkâr tazminatı nedir?",
+  "keywords": [
+    "icra inkâr tazminatı",
+    "inkar tazminatı nedir"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "odeme-emrine-itiraz",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Borcunuz olmadığı iddiasıyla icra takibine itiraz ettiniz ancak mahkeme haklı çıkmadı. Bu durumda alacaklının talebiyle ekstra bir para cezasıyla karşılaşabilirsiniz.",
+  "keyInsight": "Haksız itirazlarda tazminat otomatik çıkmaz; karşı tarafın bunu özellikle talep etmesi ve sizin itirazınızın haksız bulunması şarttır.",
+  "sections": [
+    {
+      "heading": "İtirazın Kilit Rolü",
+      "paragraphs": [
+        "Kapınıza icra ödeme emri geldiğinde elinizde haklı bir gerekçe yoksa borca itiraz edebilirsiniz. Ancak bu itiraz sadece süreci uzatmak için yapıldıysa işin rengi değişir.",
+        "Takip talebine itiraz edilen alacaklı, süresi içinde mahkemeye başvurarak alacağını ispat eder. Mahkeme borçlunun itirazının haksız olduğuna karar verirse tazminat kapıyı çalar."
+      ],
+      "bullets": [
+        "Süresinde yapılan itiraz",
+        "Alacaklının dava yolu"
+      ]
+    },
+    {
+      "heading": "Tazminat Ne Zaman Doğar?",
+      "paragraphs": [
+        "Borçlu taraf durduk yere ödememek için direnirse ve yargılama sonunda haklı çıkmazsa **haksız itiraz** tescillenmiş olur. Alacaklı tarafın talebi üzerine mahkeme tarafların durumuna bakar.",
+        "Reddedilen veya hükmolunan meblağın belirli bir **yüzdesinden aşağı olmamak** üzere uygun bir tazminata karar verilir. Oran kanunda açıkça çizilmiştir."
+      ],
+      "bullets": [
+        "Talebe bağlılık kuralı",
+        "Hükmolunan meblağ kıstası"
+      ]
+    },
+    {
+      "heading": "Kötü Niyetin Sonuçları",
+      "paragraphs": [
+        "Eğer borçlu taraf süreci tamamen kötü niyetle tıkadıysa, alacaklı lehine **ekstra mali yükümlülükler** gündeme gelir. İtiraz eden kişi mirasçı veya vasi gibi farklı bir sıfatla hareket ediyorsa kötü niyetin ayrıca ispatı aranır.",
+        "Bu tür durumlarda mahkeme her iki tarafın ekonomik durumunu ve davanın seyrini tartarak son kararı verir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreç Nasıl İşler?",
+      "paragraphs": [
+        "Alacaklı, itirazın kendisine tebliği tarihinden itibaren kanuni süre içinde mahkemenin yolunu tutmalıdır. Bu süre geçirilirse genel hükümlere göre dava açma hakkı saklı kalır ancakicra inkar tazminatı dengesi değişebilir.",
+        "Takip talebindeki rakamlar ile davadaki talep esası tazminatın hesaplanmasında doğrudan baz alınır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Takibin ilamsız ve itirazlı olup olmadığını bakın.",
+    "İtirazın haksız çıktığı kararı bekleyin.",
+    "Kanuni oranda inkâr tazminatı talep edilip edilmediğini kontrol edin.",
+    "Kötü niyet / haksız itiraz şartını değerlendirin.",
+    "Kararı icraya koyun."
+  ],
+  "documents": [
+    "takip dosyası",
+    "itiraz dilekçesi",
+    "mahkeme kararı",
+    "tebligat evrakı"
+  ],
+  "faq": [
+    {
+      "q": "İcra inkâr tazminatı her dosyada çıkar mı?",
+      "a": "Hayır, alacaklının talep etmesi ve mahkemenin itirazı haksız bulması gerekir."
+    },
+    {
+      "q": "Tazminat oranı neye göre belirlenir?",
+      "a": "Mahkeme, hükmolunan meblağın kanunda belirtilen yüzde yirmisinden aşağı olmamak üzere uygun bir oran belirler."
+    },
+    {
+      "q": "Süreyi kaçırırsam ne olur?",
+      "a": "Alacaklının kanuni süre içinde mahkemeye başvurmaması durumunda icra inkar tazminatı talebi düşebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "İnkâr tazminatı genel",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

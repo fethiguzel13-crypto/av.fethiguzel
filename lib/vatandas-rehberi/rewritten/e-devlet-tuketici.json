@@ -1,0 +1,113 @@
+{
+  "slug": "e-devlet-tuketici",
+  "title": "Tüketici başvurusu e-Devletten nasıl yapılır — Vatandaş Rehberi | Av. ",
+  "description": "Tüketici başvurusu e-Devletten nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Po…",
+  "h1": "Tüketici başvurusu e-Devletten nasıl yapılır?",
+  "keywords": [
+    "e-devlet tüketici",
+    "tüketici hakem e-devlet"
+  ],
+  "category": "Tüketici",
+  "related": [
+    "tuketici-hakem-heyeti",
+    "tuketici-hakem-parasal-sinir",
+    "ayip-mal-iade"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tuketici-hakem-heyeti"
+    },
+    {
+      "label": "TKHK",
+      "href": "/kategori/tkhk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=t%C3%BCketici"
+    }
+  ],
+  "lead": "Aldığınız üründe sorun çıktığında, e-Devlet üzerinden tüketici hakem heyetine kolayca başvurabilirsiniz. Asıl mesele, yerleşim yerinizin veya işlemin yapıldığı yerin doğru seçilmesidir.",
+  "keyInsight": "Başvurunun işleme alınması için uyuşmazlık konusunun kanunda belirtilen parasal sınırların altında kalması şarttır.",
+  "sections": [
+    {
+      "heading": "Hangi belgelerle başvuru yapılır?",
+      "paragraphs": [
+        "Bir uyuşmazlığı resmiyete dökerken elinizdeki kâğıtlar en büyük dayanağınızdır. Fatura veya fiş olmadan satıcıyla aranızdaki bağı kurmak zorlaşır.",
+        "Satın aldığınız malın ayıplı olduğunu gösteren her türlü belge dosyaya eklenmelidir. Eksik evrak sürecin uzamasına yol açabilir."
+      ],
+      "bullets": [
+        "Fatura, fiş veya e-arşiv belgesi",
+        "Garanti belgesi",
+        "Satıcıyla yapılan yazışmalar"
+      ]
+    },
+    {
+      "heading": "Yetkili merci nasıl belirlenir?",
+      "paragraphs": [
+        "İşlemi hangi ilçede yaptığınız veya evinizin nerede olduğu burada önem kazanır. Yanlış birim seçilirse dosya yetkisizlik nedeniyle geri dönebilir.",
+        "Tüketicinin **yerleşim yerinin** bulunduğu veya tüketici işleminin yapıldığı yerdeki hakem heyeti yetkilidir."
+      ],
+      "bullets": [
+        "İkametgâh adresi",
+        "İşlemin gerçekleştiği ilçe"
+      ]
+    },
+    {
+      "heading": "Sistem üzerinden başvuru adımları",
+      "paragraphs": [
+        "e-Devlet kapısına giriş yaptıktan sonra arama çubuğuna ilgili kurum adını yazarak işlem ekranına ulaşabilirsiniz. Adım adım ilerlemek hatayı önler.",
+        "Formu doldururken **şikâyet konusunu** net ve anlaşılır bir dille ifade etmeniz gerekir."
+      ],
+      "bullets": [
+        "Tüketici Portalı hizmeti",
+        "Yeni başvuru oluşturma alanı"
+      ]
+    },
+    {
+      "heading": "Başvuru sonrasında süreç nasıl işler?",
+      "paragraphs": [
+        "Dosyanız heyete ulaştıktan sonra raportör tarafından incelenmeye başlanır. Satıcıya savunma için yazı gönderilir.",
+        "Heyet başkanı ve üyeler dosyayı inceleyerek kararını verir ve bu karar taraflara bildirilir."
+      ],
+      "bullets": [
+        "Raportör incelemesi",
+        "Heyet kararı"
+      ]
+    }
+  ],
+  "steps": [
+    "e-Devlet şifrenizle sisteme giriş yapın.",
+    "Arama kısmına Tüketici Hakem Heyeti Başvurusu yazın.",
+    "İlgili kurumun başvuru ekranını açın.",
+    "Uyuşmazlık bilgilerini ve talep türünü eksiksiz doldurun.",
+    "Fatura ve fiş gibi belgeleri sisteme yükleyip onaylayın."
+  ],
+  "documents": [
+    "Alışveriş faturası veya e-arşiv fişi",
+    "Garanti belgesi",
+    "Arızalı ürüne ait servis raporu",
+    "Satıcı ile yapılan yazılı iletişim dökümleri"
+  ],
+  "faq": [
+    {
+      "q": "Hangi uyuşmazlıklar için başvuru yapabilirim?",
+      "a": "Değeri kanunda belirtilen parasal sınırın altında kalan tüketici uyuşmazlıkları için başvurabilirsiniz."
+    },
+    {
+      "q": "Başvurumu hangi adrese yapmalıyım?",
+      "a": "Tüketicinin yerleşim yerinin bulunduğu veya tüketici işleminin yapıldığı yerdeki tüketici hakem heyetine başvuru yapılabilir."
+    },
+    {
+      "q": "Hakem heyetinin bulunmadığı yerlerde ne yapılır?",
+      "a": "Tüketici hakem heyetinin bulunmadığı yerlerde başvurular o ilçe kaymakamlığına yapılır ve kaymakamlıklarca yetkili heyete iletilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tuketici-hakem-heyeti",
+  "angle": "e-Devlet başvuru",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

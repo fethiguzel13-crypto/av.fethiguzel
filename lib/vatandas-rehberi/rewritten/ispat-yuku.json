@@ -1,0 +1,101 @@
+{
+  "slug": "ispat-yuku",
+  "title": "İspat yükü — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İspat yükü hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "İspat yükü",
+  "keywords": [
+    "ispat yükü",
+    "ispat yuku"
+  ],
+  "category": "Usul",
+  "related": [
+    "zamanaşimi-nedir",
+    "delil-baslangici-nedir",
+    "hukuk-davasi-nasil-acilir",
+    "hmk-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/zamanaşimi-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=ispat"
+    }
+  ],
+  "lead": "Bir hakkınızı elde etmek için yargıya başvurduğunuzda mahkeme sadece iddialarınıza bakarak karar vermez. Kanunda aksine özel bir kural bulunmadıkça, ileri sürülen olaydan kendi lehine hak çıkaran taraf o olayı ispat etmekle yükümlüdür.",
+  "keyInsight": "Mahkemede haklı çıkmak için sadece iddiada bulunmak yetmez; dayandığınız olayları açıkça somutlaştırmanız ve hangi delilin hangi olayı kanıtladığını net biçimde göstermeniz şarttır.",
+  "sections": [
+    {
+      "heading": "Mahkemede hakkınızı ararken iddiayı kim kanıtlamalı?",
+      "paragraphs": [
+        "Bir hakkın varlığını veya size bir borç ödenmesi gerektiğini öne sürerek dava açtığınızda sürecin ana motoru sizin sunduğunuz olaylardır. Kanunda özel bir düzenleme yer almadığı müddetçe, iddia edilen olaydan **kendi lehinize hak çıkaran taraf** siz olduğunuz için bu olayın varlığını mahkeme önünde kanıtlama yükü size aittir.",
+        "Ancak hukuk sistemimizde bazı durumlar için kanuni karineler kabul edilmiştir. Eğer davanızı kanuni bir karineye dayandırıyorsanız, durumunuz kolaylaşır; siz sadece o **karinenin temelini oluşturan** olayı ispat etmekle yükümlü olursunuz. Karşı taraf aksini ispat etmediği sürece iddianız geçerliliğini korur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Karşı taraf yanıt verip delil sunduğunda durum değişir mi?",
+      "paragraphs": [
+        "Siz iddianızı ispatlamaya çalışırken karşı taraf da boş durmak zorunda değildir. Karşı taraf, sizin sunduğunuz iddiaların ve delillerin gerçek dışı olduğunu kanıtlamak amacıyla mahkemeye kendi savunma delillerini getirebilir.",
+        "Burada dikkat edilmesi gereken en kritik husus şudur: Karşı tarafın savunma yapmak amacıyla delil sunması, onun ispat yükünü üzerine aldığı anlamına gelmez. Bu işlem sadece bir **karşı ispat** faaliyetidir ve asıl ispat yükümlülüğü yine iddiasından hak çıkaran tarafta kalmaya devam eder."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İddiaları somutlaştırma ve delillerle eşleştirme zorunluluğu nedir?",
+      "paragraphs": [
+        "Mahkemeye başvururken genel ve soyut ifadeler kullanmak dosyanızın zayıf kalmasına neden olur. Kanun, tarafların dayandıkları olayları mahkemenin ve karşı tarafın anlayabileceği şekilde **ispata elverişli olarak somutlaştırmasını** zorunlu kılar.",
+        "Somutlaştırma yükünün bir diğer önemli ayağı da delil eşleştirmesidir. Sunduğunuz belgelerin veya delillerin **hangi olayın ispatı için** gösterildiğini dava dosyasında açıkça belirtmeniz gerekir. Hangi delilin neyi kanıtladığı açıklanmadığında mahkemenin doğru bir değerlendirme yapması güçleşir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Dava şartı arabuluculuk tutanağı unutulursa ne olur?",
+      "paragraphs": [
+        "Kanunlarda arabulucuya başvurulması dava şartı olarak öngörülen uyuşmazlıklarda, arabuluculuk sürecini işletmeden doğrudan dava açarsanız davanız hiçbir işlem yapılmaksızın dava şartı yokluğundan reddedilir.",
+        "Arabuluculuğa başvurup anlaşamadıysanız, süreç sonunda düzenlenen son tutanağın aslını veya onaylı örneğini dava dilekçenize eklemeniz gerekir. Tutanağı eklemeyi unutursanız mahkeme size **bir haftalık kesin süre** verir; bu süre içinde tutanağı mahkemeye sunmazsanız davanız usulden reddedilir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Kendi lehinize hak doğuran olayları ayrıntılı ve net bir şekilde kaleme alın.",
+    "Her bir olayı kanıtlamaya yarayacak delilleri belirleyin.",
+    "Hangi delili hangi olayın ispatı için sunduğunuzu dilekçenizde açıkça listeleyin.",
+    "Dava şartı arabuluculuk kapsamındaki uyuşmazlıklarda mahkemeye gitmeden önce arabuluculuk bürosuna başvurun.",
+    "Arabuluculuk anlaşamama tutanağının aslını veya onaylı örneğini dava dilekçenize ekleyin."
+  ],
+  "documents": [
+    "Vakıaların ayrıntılı anlatıldığı dava veya cevap dilekçesi",
+    "Hangi vakıanın hangi delille ispatlandığını gösteren açık delil listesi",
+    "Arabuluculuk faaliyeti sonunda düzenlenen son tutanağın aslı veya onaylı örneği",
+    "Var ise kanuni karinenin temelini oluşturan vakıalara ait belgeler"
+  ],
+  "faq": [
+    {
+      "q": "Karşı taraf delil sunduğunda ispat yükü ona geçmiş olur mu?",
+      "a": "Hayır. Karşı tarafın sizin iddianızın doğru olmadığını kanıtlamak için delil sunması karşı ispat faaliyetidir. Bu durum karşı tarafın ispat yükünü üstlendiği anlamına gelmez."
+    },
+    {
+      "q": "Dilekçede delilleri sadece sıralamak yeterli midir?",
+      "a": "Yeterli değildir. Somutlaştırma yükü uyarınca, sunduğunuz her bir delilin tam olarak hangi olayın veya iddianın ispatı için dosyaya gösterildiğini açıkça belirtmeniz zorunludur."
+    },
+    {
+      "q": "Arabuluculuk son tutanağını dava dilekçesine eklemeyi unutursam ne olur?",
+      "a": "Mahkeme size son tutanağı sunmanız için ihtar içeren bir davetiye gönderir. Bu ihtarla verilen bir haftalık kesin süre içinde tutanağı sunmazsanız davanız usulden reddedilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "zamanaşimi-nedir",
+  "angle": "İspat yükü",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "haciz-nasil-kaldirilir",
+  "title": "Haciz nasıl kaldırılır — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Haciz nasıl kaldırılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
+  "h1": "Haciz nasıl kaldırılır?",
+  "keywords": [
+    "haciz nasıl kaldırılır",
+    "haciz kaldırma"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "odeme-emrine-itiraz",
+    "icra-dosyasi-sorgulama"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Faiz",
+      "href": "/hesaplama/faiz"
+    }
+  ],
+  "lead": "Sabah banka hesabınıza baktığınızda veya tapuya gittiğinizde haciz yazısıyla karşılaşabilirsiniz. Haczi kaldırmanın yolu borcu kapatmak ya da yasal süreçleri işletmektir.",
+  "keyInsight": "Borcun ödenmesi haczi otomatik olarak kaldırmaz; icra dairesinden ilgili kurumlara fek yazısı yazdırılması şarttır.",
+  "sections": [
+    {
+      "heading": "Haciz nasıl konur ve ne zaman kalkar?",
+      "paragraphs": [
+        "Ödeme emrindeki süre geçtikten ve itirazlar sonuçlandıktan sonra alacaklı haciz konulmasını isteyebilir. Alacaklı dilerse bilişim sistemleri üzerinden borçlunun mal, hak veya alacağını sorgulayıp elektronik ortamda haczedilmesini sağlayabilir.",
+        "Ancak bu durum kalıcı değildir. Alacaklı kanuni süreler içinde haciz istemezse veya talebini geri alıp yenilemezse dosya muameleden kaldırılır."
+      ],
+      "bullets": [
+        "Sorgulama sistemiyle elektronik haciz",
+        "Bir yıllık talep süresi kuralı"
+      ]
+    },
+    {
+      "heading": "İhtiyati haciz ne zaman hükümsüz kalır?",
+      "paragraphs": [
+        "Dava açılmadan veya takip başlatılmadan önce ihtiyati haciz yaptırıldıysa, alacaklının belirli süreler içinde takip talebinde bulunması veya dava açması gerekir. Bu süreler geçirilirse veya alacaklı davasında haksız çıkarsa ihtiyati haciz hükümsüz kalır.",
+        "Borçlu süresi içinde ödeme emrine itiraz etmez veya itirazı kaldırılırsa, ihtiyati haciz kendiliğinden icrai hacze dönüşür."
+      ],
+      "bullets": [
+        "Süresinde dava açmama halinde düşme",
+        "İtiraz edilmemesiyleicrai hacze dönüşme"
+      ]
+    },
+    {
+      "heading": "Borcu ödemek yeterli mi?",
+      "paragraphs": [
+        "Borcu yatırmak tek başına yeterli bir çözüm değildir. **Ödeme dekontu** icra dairesine sunulmalı ve dosya borcunun tamamen bittiği tescil ettirilmelidir.",
+        "Daire tarafından ilgili kurumlara gönderilen **fek yazısı** ulaşmadan banka hesaplarınızdaki veya gayrimenkulünüzdeki blokeler kalkmaz."
+      ],
+      "bullets": [
+        "Dekontun icra dosyasına ibrazı",
+        "Kurumlara fek yazısı gönderilmesi"
+      ]
+    },
+    {
+      "heading": "Yanınızda hangi belgeler bulunmalı?",
+      "paragraphs": [
+        "İcra dairesindeki işlemlerinizi hızlandırmak için dosya numaranız ve yapılan ödemeye ait kanıtlar yanınızda olmalıdır. Hatalı veya haksız haciz durumlarında ilgili dilekçeleri hazırlamak gerekebilir.",
+        "Süreç boyunca **haciz tutanağı** ve ödeme evrakları en büyük dayanağınızdır."
+      ],
+      "bullets": [
+        "İcra dosya numarası",
+        "Ödeme makbuzları"
+      ]
+    }
+  ],
+  "steps": [
+    "Haciz türünü ve hangi icra dosyasından konulduğunu tespit edin.",
+    "Borcu ödeyin veya süresinde yasal itiraz yollarını kullanın.",
+    "Ödeme dekontunu icra dairesine sunup dosyanın kapanmasını sağlayın.",
+    "İcra dairesinden ilgili kurumlara fek yazısı yazılmasını talep edin.",
+    "Tapu, banka veya maaş hacizlerinin sistemden kalktığını teyit edin."
+  ],
+  "documents": [
+    "haciz tutanağı",
+    "ödeme dekontu",
+    "fek yazısı",
+    "istihkak dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Borcu ödedikten sonra haciz otomatik kalkar mı?",
+      "a": "Hayır, borç ödense dahi icra dairesi tarafından ilgili kurumlara fek yazısı gönderilmesi gerekir."
+    },
+    {
+      "q": "Haciz isteme süresi ne kadardır?",
+      "a": "Haciz istemek hakkı, ödeme emrinin tebliği tarihinden itibaren bir sene geçmekle düşer."
+    },
+    {
+      "q": "İhtiyati haciz hangi durumlarda hükümsüz kalır?",
+      "a": "Alacaklı kanuni süreler içinde dava açmaz veya takip talebinde bulunmazsa ihtiyati haciz hükümsüz kalır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Haczin kalkması",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

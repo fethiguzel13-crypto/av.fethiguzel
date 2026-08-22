@@ -1,0 +1,101 @@
+{
+  "slug": "icra-dosyasi-kapatma",
+  "title": "İcra Dosyası Nasıl Kapatılır?",
+  "description": "İcra dosyası kapanınca ne olur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
+  "h1": "İcra dosyası kapanınca ne olur?",
+  "keywords": [
+    "icra dosyası kapatma",
+    "icra dosyası kapandı"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "haciz-nasil-kaldirilir",
+    "e-devlet-icra",
+    "icra-borcu-yapislandirma"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Faiz",
+      "href": "/hesaplama/faiz"
+    }
+  ],
+  "lead": "Borcunuz bittiğinde veya dosya işlemden kaldırıldığında icra dosyası kapanır ancak bu sürecin resmi olarak tescil edilmesi gerekir. Dosyanın kapandığından emin olmak için icra dairesinden **kapanma kararını** mutlaka almalısınız.",
+  "keyInsight": "Dosya borcu ödendiğinde kendiliğinden kapanmaz; icra müdürlüğünden dosyanın kapatılması ve hacizlerin kaldırılması için **açıkça talep** açılması şarttır.",
+  "sections": [
+    {
+      "heading": "Borç bittiğinde ne yapılır?",
+      "paragraphs": [
+        "Evinize gelen icra tebligatından sonra borcu ödediniz veya alacaklıyla anlaştınız. Dosyanın kapandığını düşünerek arkanıza yaslanmayın. Ödemenin **icra dairesi hesabına** yapıldığından emin olun.",
+        "Para dosyaya girdiği an süreç bitmez. Alacaklının veya sizin başvurunuzla icra müdürlüğü hesap yapar ve **dosyanın infaz olduğunu** yani kapandığını kayda geçer."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hacizler nasıl kalkar?",
+      "paragraphs": [
+        "Dosya kapanırken banka hesaplarınızdaki, aracınızdaki veya tapudaki hacizler durmaya devam eder. İcra müdürlüğünden ilgili kurumlar için **kaldırma yazısı** yazılmasını istemelisiniz.",
+        "Bu yazılar gitmeden sicilleriniz temizlenmez. Kapanan dosyanın ardından **hacizlerin fekki** için yazılan müzekkerelerin ilgili kurumlara ulaştığını takip edin."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Dosya takipsizlikten nasıl düşer?",
+      "paragraphs": [
+        "Alacaklı uzun süre dosyada hiçbir işlem yapmazsa dosya işlemden kaldırılır. Bu durumda dosya derdest olmaktan çıkar ve **muameleden kaldırılan** dosya konumuna gelir.",
+        "Aradan uzun zaman geçmesi borcu kendiliğinden silmez. Alacaklı yeniden **yenileme talebinde** bulunarak aynı dosyayı tekrar canlandırabilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "İcra dosyasıyla ilgili her adımda elinizde kağıt bulunmalıdır. Ödeme yaparken hangi dosya numarasına para yatırdığınızı gösteren **banka dekontu** en büyük güvencenizdir.",
+        "İcra dairesinden aldığınız kapak hesabı ve **harç yatırma makbuzları** ileride karşınıza çıkabilecek yanlış borç çıkarılmalarını tamamen engeller."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Borcun tamamını icra dairesi hesabına yatırın.",
+    "İcra müdürlüğüne giderek kapak hesabı yapılmasını isteyin.",
+    "Dosyanın infaz (kapanma) kararını verdirin.",
+    "Maaş, banka ve tapu üzerindeki hacizlerin kaldırılması için müzekkere yazılmasını sağlayın.",
+    "Dosyanın kapandığına dair yazılı belgeyi alın."
+  ],
+  "documents": [
+    "Ödeme dekontu",
+    "Kapak hesabı dökümü",
+    "İcra dairesi karar tutanağı",
+    "Haciz kaldırma müzekkereleri"
+  ],
+  "faq": [
+    {
+      "q": "Borcu ödedikten sonra icra dosyası kendiliğinden kapanır mı?",
+      "a": "Hayır, paranın yatması yetmez; icra müdürlüğünün dosyayı kapatma işlemi yapması ve hacizleri resmi olarak kaldırması gerekir."
+    },
+    {
+      "q": "Dosya kapandıktan sonra yeniden borç çıkar mı?",
+      "a": "Kapak hesabı doğru yapılmadıysa ve eksik harç veya masraf kaldıysa ek ödeme çıkabilir; bu yüzden kapanış yazısını mutlaka isteyin."
+    },
+    {
+      "q": "Bankadaki blokeler dosya kapanınca hemen kalkar mı?",
+      "a": "İcra dairesi bankaya haczin kalktığına dair müzekkere yazdıktan sonra bloke kısa sürede kaldırılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Dosya kapanışı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

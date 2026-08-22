@@ -1,0 +1,105 @@
+{
+  "slug": "ihtiyati-tedbir-nedir",
+  "title": "İhtiyati Tedbir Nedir? Nasıl İstenir?",
+  "description": "İhtiyati tedbir nedir? Nasıl alınır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
+  "h1": "İhtiyati tedbir nedir? Nasıl alınır?",
+  "keywords": [
+    "ihtiyati tedbir nedir",
+    "ihtiyati tedbir nasıl alınır",
+    "tedbir kararı"
+  ],
+  "category": "Usul",
+  "related": [
+    "ihtiyati-tedbir-teminati",
+    "delil-tespiti",
+    "ihtiyati-tedbir-itiraz",
+    "hukuk-davasi-nasil-acilir",
+    "icra-takibi-nedir",
+    "tapu-devri-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=ihtiyati%20tedbir"
+    }
+  ],
+  "lead": "Mahkeme kapısını çalmadan önce hakkınız elinizden kayıp gidiyorsa, **içinde bulunduğunuz an** durumu dondurmak için ihtiyati tedbir istemelisiniz. Bu yol, davanın sonunu beklemeden varlığı koruma altına alan geçici bir kalkan sağlar.",
+  "keyInsight": "Tedbir talebinde bulunurken sadece hakkınızın olduğunu söylemek yetmez; **gecikme halinde** telafisi imkansız bir zararın doğacağını somut delillerle göstermeniz şarttır.",
+  "sections": [
+    {
+      "heading": "Hangi durumlarda tedbir istenir?",
+      "paragraphs": [
+        "Mevcut durumda meydana gelebilecek ani bir değişiklik sebebiyle hakkınızı elde etmek önemli ölçüde zorlaşabilir veya tamamen imkansız hale gelebilir. Gecikme sebebiyle ciddi bir zararın doğacağından endişe duyduğunuz **her an**, uyuşmazlık konusu hakkında mahkemeden koruma talep edebilirsiniz.",
+        "Bu kural niteliğine uygun düştüğü ölçüde çekişmesiz yargı işlerinde de uygulanır. Amacımız davanın sonunda haklı çıktığınızda elinizde boş bir kağıt kalmasını önlemek, konunun veya malın aynen korunmasını sağlamaktır."
+      ],
+      "bullets": [
+        "Hakkın elde edilmesinin zorlaşması",
+        "Ciddi zarar ve gecikme tehlikesi"
+      ]
+    },
+    {
+      "heading": "Mahkeme nasıl bir karar verir?",
+      "paragraphs": [
+        "Hakim, tedbire konu olan mal veya hakkın muhafaza altına alınmasına, bir yediemine tevdi edilmesine ya da belirli bir şeyin yapılması veya yapılmaması gibi **sakıncayı ortadan** kaldıracak önlemlere hükmedebilir.",
+        "Verilen kararda talep edenin kimlik bilgileri, tedbirin dayandığı somut deliller ve neyin üzerinde ne tür bir tedbir alındığı açıkça yazılır. Ayrıca talepte bulunan kişinin ne tutarda ve ne türde **bir teminat** göstereceği de kararda belirtilir."
+      ],
+      "bullets": [
+        "Muhafaza ve yediemin uygulamaları",
+        "Yapma veya yapmama emirleri"
+      ]
+    },
+    {
+      "heading": "Reddedilirse ne yapılır?",
+      "paragraphs": [
+        "İhtiyati tedbir talebinin reddi kararı gerekçeli olarak verilir ve bu karara karşı kanun yoluna başvurabilirsiniz. Yüzüne karşı aleyhine ihtiyati tedbir kararı verilen taraf da aynı şekilde kanun yolunu **hızla işletme** hakkına sahiptir.",
+        "Bu başvurular mahkemeler tarafından öncelikle incelenir ve kesin olarak karara bağlanır. Sürecin her aşamasında hak kaybı yaşamamak için kanuni temsilciniz veya vekilinizle hareket etmeniz önemlidir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreçte nelere dikkat etmeli?",
+      "paragraphs": [
+        "İmza veya yazı inkarı gibi durumlarda, adi senetlerde bu konuda bir karar verilinceye kadar o senet herhangi bir işleme esas alınamaz. Resmi senetlerde ise sahtekarlık ancak mahkeme kararıyla sabit olursa senet işleme kapatılır.",
+        "Senede dayanılarak verilmiş olan ihtiyati tedbir, sahtekarlık iddiasından etkilenmez. Hak sahibi, haklarının korunması için **yeni tedbirler** talep etme hakkını her zaman saklı tutar."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Hangi hakkın tehlikede olduğunu ve delillerinizi netleştirin.",
+    "Telafisi güç zarar gerekçesini dilekçenizde somutlaştırın.",
+    "Görevli mahkemeden tedbir isteyip teminat yatırmaya hazır olun.",
+    "Alınan kararı karşı tarafa usulüne uygun şekilde tebliğ ettirin.",
+    "Esas hakkındaki davanızı süresinde açarak tedbiri koruyun."
+  ],
+  "documents": [
+    "gerekçeli ihtiyati tedbir dilekçesi",
+    "iddianızı kanıtlayacak somut deliller",
+    "mahkemenin belirleyeceği teminat makbuzu",
+    "esas dava açılış evrakı"
+  ],
+  "faq": [
+    {
+      "q": "İhtiyati tedbir kararı almak davayı kazanmak demek midir?",
+      "a": "Hayır, tedbir kararı davanın sonunu beklemeden geçici bir koruma sağlar ve durumu dondurur; davanın esasını kazandığınız anlamına gelmez."
+    },
+    {
+      "q": "Tedbir talebim reddedilirse nereye başvurabilirim?",
+      "a": "Mahkemenin verdiği ret kararına karşı gerekçeli olarak kanun yoluna başvurabilirsiniz; bu başvurular öncelikle ve kesin olarak incelenir."
+    },
+    {
+      "q": "Teminat yatırmak zorunda mıyım?",
+      "a": "Mahkeme, tedbir kararının infazı için talepte bulunan kişinin ne tutarda ve ne türde bir teminat göstereceğini açıkça karara yazar."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "ihtiyati-tedbir-nedir",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

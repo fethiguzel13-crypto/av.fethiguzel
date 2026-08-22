@@ -1,0 +1,115 @@
+{
+  "slug": "ehliyet-alma-sartlari",
+  "title": "Ehliyet Alma Şartları Nelerdir? Süreç Rehberi",
+  "description": "Ehliyet alma şartları nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
+  "h1": "Ehliyet alma şartları nelerdir?",
+  "keywords": [
+    "ehliyet alma şartları",
+    "sürücü belgesi nasıl alınır",
+    "ehliyet yenileme"
+  ],
+  "category": "Trafik",
+  "related": [
+    "ehliyet-sinavlari",
+    "src-belgesi-nedir",
+    "psiko-teknik-belge",
+    "trafik-cezasina-itiraz",
+    "engelli-araci-nasil-alinir",
+    "idari-dava-nasil-acilir",
+    "trafik-ceza-puani",
+    "trafik-cezasi-pesin-odeme",
+    "trafik-kazasi-manevvi"
+  ],
+  "links": [
+    {
+      "label": "KTK",
+      "href": "/kategori/ktk"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Ehliyet almak isteyenler için süreç, yetkili kurumlardan alınan eğitimlerle ve resmî şartların eksiksiz tamamlanmasıyla başlar. Kurallara uygun hareket etmek, işlemlerin aksamadan ilerlemesini sağlar.",
+  "keyInsight": "Resmî şartları taşımayan veya eğitim sürecini tamamlamayan adayların belgeleri onaylanmaz.",
+  "sections": [
+    {
+      "heading": "Eğitim ve Sınav Süreci Nasıl İşler?",
+      "paragraphs": [
+        "Direksiyon ve teori eğitimleri, ilgili bakanlıkların denetiminde yürütülen sürücü kursları aracılığıyla verilir. Adaylar bu kurslara katılarak gerekli bilgi ve becerileri edinir.",
+        "Eğitimin ardından yapılan sınavları başarıyla geçen adaylar, sertifika almaya hak kazanır. Sınav sonuçları dijital sistemler üzerinden takip edilebilir."
+      ],
+      "bullets": [
+        "Kurslara kayıt yaptırın",
+        "Teorik ve uygulamalı eğitimleri tamamlayın",
+        "Sınavlarda başarılı olun"
+      ]
+    },
+    {
+      "heading": "Hangi Kurumlar Yetkilidir?",
+      "paragraphs": [
+        "Sürücü kurslarının açılması ve denetlenmesi ile sınavların yapılması Millî Eğitim Bakanlığının görev alanındadır. Sağlık hizmetleri ve ilk yardım planlamaları ise Sağlık Bakanlığı tarafından yürütülür.",
+        "Ulaştırma alanındaki koordinasyon ve muayene işlemleri ilgili diğer bakanlıkların sorumluluğundadır. Her kurum kendi görev sınırları içinde işlem yapar."
+      ],
+      "bullets": [
+        "Millî Eğitim Bakanlığı sınavları yapar",
+        "Sağlık Bakanlığı sağlık hizmetlerini düzenler"
+      ]
+    },
+    {
+      "heading": "Belgeyi Alırken Dikkat Edilecekler Nelerdir?",
+      "paragraphs": [
+        "Sürücü belgesi alabilmek için **sağlık raporu** ve kimlik gibi temel evrakların eksiksiz olması şarttır. Kurs belgesi alındıktan sonra harç işlemleri tamamlanır.",
+        "Belge alındıktan sonra trafikte kurallara uymak, ceza puanı birikmesini önlemek ve güvenli sürüş yapmak zorunludur."
+      ],
+      "bullets": [
+        "Evrakları eksiksiz hazırlayın",
+        "Harç ödemelerini yapın"
+      ]
+    },
+    {
+      "heading": "Yenileme ve Kurallara Uyum",
+      "paragraphs": [
+        "Mevzuatta belirtilen kurallara aykırı hareket edilmesi durumunda idari para cezaları uygulanır ve belgeler geçici olarak geri alınabilir.",
+        "Belge yenileme işlemlerinde ve araç kullanımında **trafik kurallarına** tam olarak riayet edilmesi beklenir."
+      ],
+      "bullets": [
+        "Kurallara uyun",
+        "Cezai durumlara dikkat edin"
+      ]
+    }
+  ],
+  "steps": [
+    "Yaş, öğrenim ve sağlık raporu şartını kontrol edin.",
+    "Direksiyon ve teori kursuna kaydolun.",
+    "Sınavları geçin; e-Devlet’ten sonucu görün.",
+    "Harç ve kart başvurusunu yapın.",
+    "Yenileme ve ceza puanı kurallarını ayrıca izleyin."
+  ],
+  "documents": [
+    "kimlik",
+    "sağlık raporu",
+    "kurs belgesi",
+    "harç dekontu"
+  ],
+  "faq": [
+    {
+      "q": "Sınavları geçtikten sonra ne yapılır?",
+      "a": "Sınavları geçen adaylar e-Devlet üzerinden sonuçlarını gördükten sonra harç ve kart başvurusunu tamamlar."
+    },
+    {
+      "q": "Eğitimleri hangi kurum denetler?",
+      "a": "Sürücü kursları Millî Eğitim Bakanlığı tarafından açılır ve her safhada denetlenir."
+    },
+    {
+      "q": "Hangi belgeler gereklidir?",
+      "a": "Kimlik, sağlık raporu, kurs belgesi ve harç dekontu başvuru sırasında yanınızda bulunmalıdır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "ehliyet-alma-sartlari",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

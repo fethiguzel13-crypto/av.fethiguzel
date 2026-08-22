@@ -1,0 +1,100 @@
+{
+  "slug": "emekli-maas-haczi",
+  "title": "Emekli maaşına haciz — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Emekli maaşına haciz hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
+  "h1": "Emekli maaşına haciz",
+  "keywords": [
+    "emekli maaşına haciz",
+    "emekli maas haczi"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "maas-haczi-orani",
+    "emekli-maasi-hesaplama",
+    "nafaka-odenmezse"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    }
+  ],
+  "lead": "Emekli maaşınızın haczedilmesi durumu, borçlunun kendi rızası dışında gerçekleşen bir kısıtlamadır. Hukuk sistemimizde emekli maaşları özel bir koruma altındadır, ancak bazı istisnalar bu korumayı zayıflatabilir.",
+  "keyInsight": "Emekli maaşının haczedilebilmesi için borçlunun açık ve yazılı muvafakati şarttır; bu rıza olmadan maaş üzerinden kesinti yapılması hukuka aykırıdır.",
+  "sections": [
+    {
+      "heading": "Emekli maaşı haczedilebilir mi?",
+      "paragraphs": [
+        "Evinize gelen icra kağıtları sizi telaşlandırabilir. Emekli maaşınızın haczedilemeyeceği genel kural olsa da, borçlunun kendi isteğiyle verdiği onay bu durumu değiştirir.",
+        "Sizden yazılı bir onay alınmadan maaşınızdan kesinti yapılması kural olarak yasaktır. Ancak bankalardan çektiğiniz kredilerde veya imzaladığınız sözleşmelerde bu muvafakati peşinen vermiş olabilirsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hangi maaşlar tamamen koruma altındadır?",
+      "paragraphs": [
+        "Vatanın savunması veya kamu hizmeti sırasında malul olanlara bağlanan maaşlar hiçbir şekilde haczedilemez. Bu maaşlar, devletin özel koruması altındaki temel geçim kaynağıdır.",
+        "Ayrıca şehit yakınlarına bağlanan maaşlar ve benzeri sosyal yardım niteliğindeki ödemeler, icra takibine konu edilemez. Bu kalemler üzerinde herhangi bir kesinti yapılamaz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Muvafakat vermediyseniz ne yapmalısınız?",
+      "paragraphs": [
+        "Eğer maaşınızdan rızanız dışında kesinti yapıldığını fark ederseniz, vakit kaybetmeden icra dairesine başvurmalısınız. İtirazınız, maaşın üzerindeki haczin kaldırılmasını sağlayabilir.",
+        "İcra dairesine yapacağınız başvuru, maaşınızın üzerindeki usulsüz kesintinin durdurulması için en etkili yoldur. **İtiraz sürecini** başlatmak, hak kaybına uğramamanız için kritiktir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İcra dairesi süreci nasıl işler?",
+      "paragraphs": [
+        "İcra dairesi, maaşınızın kesilmesi için işverene veya ilgili kuruma tebligat gönderir. Kurum, **bir hafta içinde** maaşınızın miktarını ve yapılan haciz işlemini icra dairesine bildirmek zorundadır.",
+        "Borç bitene kadar bu kesinti devam eder. Maaşınızdaki değişiklikleri veya işten ayrılma gibi durumları ilgili kurumun derhal icra dairesine bildirmesi kanuni bir mecburiyettir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İcra dosyanızı inceleyerek maaş kesintisine dair bir muvafakat verip vermediğinizi kontrol edin.",
+    "Maaşınızdan kesinti yapılıyorsa, bunun hangi borç nedeniyle gerçekleştiğini tespit edin.",
+    "Eğer rızanız dışında bir kesinti varsa, icra dosyasına dilekçe vererek haczin kaldırılmasını talep edin.",
+    "İcra dairesinden gelen cevabı bekleyin ve süreci takip edin."
+  ],
+  "documents": [
+    "İcra dosyası örneği",
+    "Maaş kesinti bildirim belgesi",
+    "İtiraz dilekçesi",
+    "Emeklilik maaş dökümü"
+  ],
+  "faq": [
+    {
+      "q": "Bankaya kredi çekerken maaş haczi için imza attım, bu geçerli mi?",
+      "a": "Evet, kredi sözleşmelerinde yer alan maaş haczi muvafakati geçerlidir ve bankalar bu rızaya dayanarak kesinti yapabilir."
+    },
+    {
+      "q": "İtiraz sürem ne kadar?",
+      "a": "Haciz işlemini öğrendiğiniz andan itibaren en kısa sürede icra dairesine başvurmanız lehinizedir."
+    },
+    {
+      "q": "Emekli maaşımın tamamı haczedilebilir mi?",
+      "a": "Hayır, sadece sizin onay verdiğiniz miktarlar üzerinden kesinti yapılabilir; maaşın tamamına el konulması mümkün değildir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Emekli maaşına haciz",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

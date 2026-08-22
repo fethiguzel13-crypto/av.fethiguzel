@@ -1,0 +1,112 @@
+{
+  "slug": "sendika-ozgurlugu",
+  "title": "Sendika özgürlüğü — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Sendika özgürlüğü hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
+  "h1": "Sendika özgürlüğü",
+  "keywords": [
+    "sendika özgürlüğü",
+    "sendika ozgurlugu"
+  ],
+  "category": "İş",
+  "related": [
+    "ibraname-nedir",
+    "ise-iade-davasi",
+    "is-sozlesmesi-feshi",
+    "kidem-tazminati-nasil-alinir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/ibraname-nedir"
+    },
+    {
+      "label": "Sendikalar",
+      "href": "/kategori/sendikalar"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    }
+  ],
+  "lead": "İşyerinde sendikaya üye olmak ya da olmamak tamamen sizin özgür iradenize bağlıdır. İşveren bu tercih nedeniyle iş akdinizi feshedemez veya size farklı muamele yapamaz.",
+  "keyInsight": "Sendikal nedenlerle yapılan işten çıkarmalarda işveren tazminat ödemek zorunda kalır.",
+  "sections": [
+    {
+      "heading": "İşyerinde sendika hakkı nasıl korunur?",
+      "paragraphs": [
+        "Sabah işe geldiniz ve masanızda sendikadan istifa etmeniz yönünde baskı gördüğünüz bir ortam buldunuz. Çalışma hayatında sendikalara üye olmak ya da üye kalmamak anayasal bir güvencedir.",
+        "İşverenler, çalışanların sendika üyesi olmalarını veya işçi kuruluşlarına faaliyetlerine katılmalarını engellemek amacıyla **ayrımcılık yapamaz**."
+      ],
+      "bullets": [
+        "Üyelik serbesttir",
+        "Baskı yasaktır"
+      ]
+    },
+    {
+      "heading": "İş sağlığı ve güvenliğinde sendikanın yeri nedir?",
+      "paragraphs": [
+        "İşyerlerinde yürütülen önlemler ve risk değerlendirmelerinde çalışanların sesi önem taşır. İşyerinde yetkili sendika bulunması halinde, **işyeri sendika temsilcileri** çalışan temsilcisi olarak da görev yapar.",
+        "İşveren; risklerin önlenmesi, koruyucu donanımların seçilmesi ve eğitimlerin planlanması gibi konularda yetkili sendika temsilcilerinin önceden görüşünü almak zorundadır."
+      ],
+      "bullets": [
+        "Görüş alma zorunluluğu",
+        "Temsilci yetkisi"
+      ]
+    },
+    {
+      "heading": "Yetkili makamlara başvuru hakkı kısıtlanamaz",
+      "paragraphs": [
+        "Çalışanlar veya temsilciler, işyerindeki önlemlerin yetersiz olduğunu gördüklerinde yetkili makamlara başvurabilirler. Bu başvuruların yapılması nedeniyle **hiç kimsenin hakları kısıtlanamaz**.",
+        "Tehlike kaynağının ortadan kaldırılması için işverenden gerekli tedbirlerin alınması her zaman talep edilebilir."
+      ],
+      "bullets": [
+        "Makama başvuru",
+        "Hak kısıtlaması yasağı"
+      ]
+    },
+    {
+      "heading": "Hak arama yolunda nelere dikkat etmeli?",
+      "paragraphs": [
+        "Sendikal hakların ihlal edilmesi durumunda izlenecek yol, eldeki belgelerin eksiksiz olmasına dayanır. Yazışmalar ve resmi evraklar süreci doğrudan etkiler.",
+        "İşverenin yükümlülüklerini yerine getirmemesi halinde ilgili **kurum ve mahkemelere** başvurarak yasal haklarınızı arayabilirsiniz."
+      ],
+      "bullets": [
+        "Belge saklama",
+        "Yasal başvuru"
+      ]
+    }
+  ],
+  "steps": [
+    "Üyelik veya üye olmama tercihini belgelendirin.",
+    "İşverenin baskı veya fesih sebebini yazın.",
+    "Sendikal tazminat ve işe iade talebini hazırlayın.",
+    "Çalışma ve Sosyal Güvenlik / mahkeme yolunu seçin.",
+    "Toplu iş sözleşmesi kapsamını ayrı okuyun."
+  ],
+  "documents": [
+    "üyelik belgesi",
+    "fesih",
+    "yazışma"
+  ],
+  "faq": [
+    {
+      "q": "İşveren sendika üyesi olduğum için beni işten çıkarabilir mi?",
+      "a": "Hayır, sendikaya üye olmak veya olmamak işten çıkarma sebebi yapılamaz."
+    },
+    {
+      "q": "İşyerinde sendika temsilcisi kimdir?",
+      "a": "İşyerinde yetkili sendika bulunması halinde işyeri sendika temsilcileri çalışan temsilcisi olarak görev yapar."
+    },
+    {
+      "q": "Yetkili makamlara başvurursam haklarım kısıtlanır mı?",
+      "a": "Çalışanların veya temsilcilerin yetkili makama başvurmalarından dolayı hakları kısıtlanamaz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "ibraname-nedir",
+  "angle": "Sendika özgürlüğü",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

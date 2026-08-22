@@ -1,0 +1,99 @@
+{
+  "slug": "meslek-hastaligi-nedir",
+  "title": "Meslek hastalığı nasıl ispatlanır — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Meslek hastalığı nasıl ispatlanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
+  "h1": "Meslek hastalığı nasıl ispatlanır?",
+  "keywords": [
+    "meslek hastalığı",
+    "meslek hastalığı tazminat"
+  ],
+  "category": "İş",
+  "related": [
+    "is-kazasi-tazminati",
+    "malulen-emeklilik",
+    "engelli-raporu-nasil-alinir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/is-kazasi-tazminati"
+    },
+    {
+      "label": "İSG",
+      "href": "/kategori/isg"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    }
+  ],
+  "lead": "Meslek hastalığını ispatlamak için öncelikle rahatsızlığınızın çalıştığınız işin niteliğinden kaynaklandığının tıbben tespiti gerekir. Süreç, sağlık kuruluşlarına başvuru ve resmi tespitle başlar.",
+  "keyInsight": "Meslek hastalığı iddiasında en kritik aşama, rahatsızlık ile yürütülen iş arasındaki nedensellik bağının yetkili kurullarca belgelenmesidir.",
+  "sections": [
+    {
+      "heading": "Ne zaman hak doğar?",
+      "paragraphs": [
+        "Sabah fabrikaya gittiniz, akşam eve döndüğünüzde nefes darlığı çekiyorsunuz. Yıllardır soluduğunuz toz ciğerlerinizi bitirdi. Meslek hastalığı iddiası, çalışırken veya işten ayrıldıktan sonra ortaya çıkan rahatsızlığın işin doğasından kaynaklandığının anlaşılmasıyla başlar.",
+        "İş göremezliğin **başladığı tarih** hak hesaplamasında esas alınır. Belirtiler kendini gösterdiğinde vakit kaybetmeden harekete geçmek gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hangi kuruma başvurulur?",
+      "paragraphs": [
+        "Rahatsızlığınızı fark ettiğinizde doğrudan yetkili hastanelerin sağlık kurullarına yönelmelisiniz. Adi bir rahatsızlık ile meslek hastalığı arasındaki ayrım bu kurulların yapacağı detaylı incelemeyle ortaya çıkar.",
+        "Kurul raporu olmadan yapılan başvurular sonuçsuz kalır. **Sağlık kurulu** onayı, sürecin resmiyet kazanması için milattır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İspat yükü nasıl taşınır?",
+      "paragraphs": [
+        "Çalıştığınız ortamdaki zararlı etkenlerin, tozun, kimyasalın veya gürültünün boyutu ölçülmelidir. İş yerindeki çalışma koşullarınız ve maruz kaldığınız maddeler rapora yansıtılır.",
+        "Hastalık ile iş yeri koşulları **birlikte değerlendirilir**. Sadece rahatsızlığın adı yetmez; nerede ve nasıl çalışırken bu hale geldiğiniz ortaya konmalıdır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "İş yerindeki sigorta dökümleri, maaş bordroları ve çalışma sürenizi gösteren belgeler dosyanızda yer almalıdır. Hangi bölümde, hangi makine başında çalıştığınızı gösteren her detay lehinizedir.",
+        "Eksik evrak süreci uzatır. **Resmi evraklar** elinizde tam olduğunda hak arama yolu açılır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Rahatsızlığınızı fark edince yetkili sağlık kuruluna başvurun.",
+    "Çalıştığınız iş yerini ve maruz kaldığınız koşulları kurula detaylıca anlatın.",
+    "Sağlık kurulu raporunun düzenlenmesini bekleyin.",
+    "Rapor ve çalışma belgeleriyle ilgili kurumlara müracaat edin."
+  ],
+  "documents": [
+    "Sağlık kurulu raporu",
+    "İşe giriş ve periyodik muayene formları",
+    "Sigorta hizmet dökümü",
+    "Çalışma sürelerini gösteren bordrolar"
+  ],
+  "faq": [
+    {
+      "q": "Her hastalık meslek hastalığı sayılır mı?",
+      "a": "Hayır, sadece yürütülen işin niteliğinden ve çalışma koşullarından kaynaklanan rahatsızlıklar bu kapsamda değerlendirilir."
+    },
+    {
+      "q": "İşten ayrıldıktan sonra meslek hastalığı ortaya çıkabilir mi?",
+      "a": "Evet, bazı hastalıkların belirtileri işten ayrıldıktan uzun süre sonra ortaya çıkabilir; bu durumlarda da başvuru hakkı saklıdır."
+    },
+    {
+      "q": "Hangi hastaneler rapor vermeye yetkilidir?",
+      "a": "Kanunen yetkilendirilmiş sağlık kurulu raporu vermeye yetkili hastaneler ve üniversite hastaneleri başvuru adresidir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "is-kazasi-tazminati",
+  "angle": "Meslek hastalığı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "riskli-yapi-tespiti",
+  "title": "Riskli yapı tespiti — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Riskli yapı tespiti hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
+  "h1": "Riskli yapı tespiti",
+  "keywords": [
+    "riskli yapı tespiti",
+    "riskli yapi tespiti"
+  ],
+  "category": "İmar",
+  "related": [
+    "kentsel-donusum-nedir",
+    "idari-dava-nasil-acilir",
+    "iskan-belgesi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kentsel-donusum-nedir"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Evde otururken binanızın güvenliğinden şüpheye düştünüz. **Riskli yapı tespiti** için harekete geçerek binanızın depreme dayanıklı olup olmadığını resmi olarak öğrenebilirsiniz.",
+  "keyInsight": "Tespit talebi için tüm maliklerin rızası aranmaz; paydaşlardan birinin müracaatı yeterlidir.",
+  "sections": [
+    {
+      "heading": "Nasıl başvuru yapılır?",
+      "paragraphs": [
+        "Bina sakinleri olarak yaşadığınız binanın güvenliğinden endişe ediyorsunuz. İlk adım olarak süreci başlatmak için yetkili kuruluşlara başvurmanız gerekir.",
+        "Başvuru için tüm daire sahiplerinin birlikte hareket etmesi zorunlu değildir. Herhangi bir paydaş tek başına müracaat edebilir."
+      ],
+      "bullets": [
+        "Tek bir malikin başvurusu yeterlidir",
+        "Yetkili kuruluşlara evrakla gidilir"
+      ]
+    },
+    {
+      "heading": "İnceleme nasıl gerçekleşir?",
+      "paragraphs": [
+        "Uzman ekipler binanızda inceleme yapmak üzere gelir. Taşıyıcı sistemler ve yapı malzemeleri yerinde incelenir.",
+        "Yapılan teknik değerlendirmeler sonucunda binanın durumu resmi bir raporla ortaya konulur."
+      ],
+      "bullets": [
+        "Uzmanlar yerinde inceleme yapar",
+        "Rapor hazırlanarak sonuçlandırılır"
+      ]
+    },
+    {
+      "heading": "Sonuç çıkınca ne olur?",
+      "paragraphs": [
+        "Rapor tamamlandıktan sonra ilgili idareye bildirilir. Binanız riskli kabul edilirse resmi kayıt süreçleri devreye girer.",
+        "Tebligat sonrasında binanın durumu kesinleşir ve sonraki adımlar için hazırlık yapılır."
+      ],
+      "bullets": [
+        "Rapor idareye sunulur",
+        "Resmi tebligat yapılır"
+      ]
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "Kuruma giderken yanınızda bazı temel evrakların bulunması işinizi kolaylaştırır. Eksik belge süreci geciktirebilir.",
+        "Tapu kaydı ve kimlik gibi belgeler başvuru sırasında mutlaka istenecektir."
+      ],
+      "bullets": [
+        "Tapu belgesi",
+        "Kimlik belgesi"
+      ]
+    }
+  ],
+  "steps": [
+    "Binanız için yetkili kuruluşlara başvuru yapın.",
+    "Tapu ve kimlik belgelerinizi hazırlayın.",
+    "Uzmanların binada inceleme yapmasını sağlayın.",
+    "Çıkan rapor sonucunu takip edin."
+  ],
+  "documents": [
+    "Tapu belgesi",
+    "Nüfus cüzdanı",
+    "Bağımsız bölümleri gösterir belge"
+  ],
+  "faq": [
+    {
+      "q": "Başvuru için bütün komşuların imzası şart mı?",
+      "a": "Hayır, paydaşlardan birinin müracaat etmesi yeterlidir."
+    },
+    {
+      "q": "Tespit masrafını kim öder?",
+      "a": "Masraflar başvuran malikler tarafından karşılanır."
+    },
+    {
+      "q": "Rapor çıkarsa evden hemen çıkmak gerekir mi?",
+      "a": "Rapor sonrası tebligat süreçleri ve yasal prosedürler sırasıyla uygulanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kentsel-donusum-nedir",
+  "angle": "Riskli yapı tespiti",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

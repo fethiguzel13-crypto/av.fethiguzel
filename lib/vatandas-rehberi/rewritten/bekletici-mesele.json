@@ -1,0 +1,114 @@
+{
+  "slug": "bekletici-mesele",
+  "title": "Bekletici mesele — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Bekletici mesele hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
+  "h1": "Bekletici mesele",
+  "keywords": [
+    "bekletici mesele",
+    "bekletici mesele"
+  ],
+  "category": "Usul",
+  "related": [
+    "zamanaşimi-nedir",
+    "hukuk-davasi-nasil-acilir",
+    "ceza-sorusturmasi-sureci",
+    "istinaf-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/zamanaşimi-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    }
+  ],
+  "lead": "Mahkeme salonundasınız ve hâkim, elinizdeki dosyanın başka bir davanın sonucunu beklemesine karar veriyor. Bekletici mesele, asıl davanın çözümü için başka bir merciin kararının **zorunlu** olduğu durumlarda karşınıza çıkar.",
+  "keyInsight": "Hâkimin verdiği sürede görevli yere başvurmazsanız, o iddiadan tamamen vazgeçmiş sayılırsınız.",
+  "sections": [
+    {
+      "heading": "Hangi durumlarda dosya durur?",
+      "paragraphs": [
+        "Devam eden bir davada karar verebilmek için, başka bir davanın sonucunu veya idari makamın tespitini beklemek gerekebilir. Hâkim, çözülmesi gereken meselenin **başka bir merciin** görevinde olduğunu gördüğünde yargılamayı durdurma kararı alabilir.",
+        "Bu durum, adaletin yanlış veya eksik tecelli etmesini engellemek için tasarlanmıştır. İki dosya arasında sıkı bir bağ kurulur ve öncelikli meselenin çözülmesi beklenir."
+      ],
+      "bullets": [
+        "Başka bir davanın sonucu beklenir",
+        "İdari makamın tespiti gerekebilir",
+        "Hukuki ilişkinin varlığı şarta bağlıdır"
+      ]
+    },
+    {
+      "heading": "Önünüze çıkan süre engeli nedir?",
+      "paragraphs": [
+        "Mahkeme, başka bir mahkemeye veya idari makama başvurmanız için size **uygun bir süre** tanır. Bu süre zarfında harekete geçmek sizin sorumluluğunuzdadır.",
+        "Zamanında başvuru yapılmazsa, mahkeme sizi o iddianızdan vazgeçmiş kabul eder ve elinizdeki verilerle esas dava hakkında hüküm kurar."
+      ],
+      "bullets": [
+        "Uygun sürede başvuru şarttır",
+        "Başvuru yapılmazsa hak kaybı doğar",
+        "Esas dava bekletilmeden karara bağlanır"
+      ]
+    },
+    {
+      "heading": "Ceza mahkemelerinde durum nasıldır?",
+      "paragraphs": [
+        "Ceza yargılamasında suçun ispatı başka bir mahkemenin konusuna giriyorsa, ceza hâkimi o sorunu kendisi çözebilir veya görevli mahkemede dava açılmasını bekleyebilir.",
+        "Ancak her iddia bekletici mesele yapılamaz. Örneğin yalan yere yemin iddiasıyla sonradan açılan bir ceza davası, **esas dava** için asla bekletici sorun sayılamaz."
+      ],
+      "bullets": [
+        "Ceza hâkimi sorunu kendi de çözebilir",
+        "Görevli mahkemede dava açılması istenebilir",
+        "Yalan yere yemin istisnası uygulanır"
+      ]
+    },
+    {
+      "heading": "Süreci nasıl yönetmelisiniz?",
+      "paragraphs": [
+        "Duruşma sırasında veya verilen dilekçelerle ön sorunlar ve bekletici durumlar ileri sürülebilir. Hâkimin verdiği talimatları ve süreleri bu aşamada yakından takip etmelisiniz.",
+        "Telaş yapmadan, mahkemenin işaret ettiği adrese zamanında müracaat ederek dosyanızın düşmesini önleyebilirsiniz."
+      ],
+      "bullets": [
+        "Dilekçe veya sözlü beyanla talep edilir",
+        "Hâkimin verdiği süreler harfiyen izlenir"
+      ]
+    }
+  ],
+  "steps": [
+    "Mahkemenin bekletici mesele kararını ve verdiği süreyi not edin.",
+    "Belirtilen süre içinde görevli mahkemeye veya idari makama başvurun.",
+    "Başvuru belgenizi veya sonucunu asıl dosyaya sunun.",
+    "Diğer dosyanın sonucunu takip edip bekleyen davayı yeniden hareketlendirin."
+  ],
+  "documents": [
+    "Dilekçe veya tutanak",
+    "Görevli mahkemeye başvuru evrakı",
+    "İdari makam başvuru belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Bekletici mesele kararı ne anlama gelir?",
+      "a": "Asıl davanın sonuçlanması başka bir mahkemenin veya makamın kararına bağlı olduğundan, yargılamanın geçici olarak durdurulmasıdır."
+    },
+    {
+      "q": "Süreyi kaçırırsam ne olur?",
+      "a": "Mahkemenin verdiği uygun süre içinde ilgili yere başvurmazsanız, o iddiadan vazgeçmiş sayılır ve dava kaldığı yerden devam eder."
+    },
+    {
+      "q": "Her iddia için bekletici mesele istenebilir mi?",
+      "a": "Hayır. Yalan yere yemin iddiası gibi kanunun kapattığı bazı alanlarda bu yol izlenemez."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "zamanaşimi-nedir",
+  "angle": "Bekletici mesele",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

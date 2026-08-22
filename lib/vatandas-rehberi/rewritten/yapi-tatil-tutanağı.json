@@ -1,0 +1,118 @@
+{
+  "slug": "yapi-tatil-tutanağı",
+  "title": "Yapı tatil tutanağı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Yapı tatil tutanağı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
+  "h1": "Yapı tatil tutanağı",
+  "keywords": [
+    "yapı tatil tutanağı",
+    "yapi tatil tutanağı"
+  ],
+  "category": "İmar",
+  "related": [
+    "kentsel-donusum-nedir",
+    "kacak-yapi-cezasi",
+    "iskan-belgesi-nedir",
+    "idari-dava-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kentsel-donusum-nedir"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    },
+    {
+      "label": "Belediye",
+      "href": "/kategori/belediye"
+    }
+  ],
+  "lead": "Bahçenizdeki inşaat için belediyeden gelen görevliler kapınıza dayanıp yapı tatil tutanağı astığında, inşaatınız derhal durdurulur ve mühürlenir. Bu belge, binanızın ruhsatsız veya projeye aykırı yapıldığının resmi tespiti olup, süreci yönetemezseniz yıkım kararına kadar giden bir zinciri başlatır.",
+  "keyInsight": "Yapı tatil tutanağının yapı yerine asılması, tebligat yerine geçer; bu andan itibaren **en çok bir ay içinde** yapıyı ruhsata uygun hale getirerek mühürün kaldırılmasını istemelisiniz.",
+  "sections": [
+    {
+      "heading": "Tutanak kapıya asıldığı an süreç nasıl başlar?",
+      "paragraphs": [
+        "İnşaat alanına gelen yetkililer o andaki durumu tespit eder, yapıyı mühürler ve çalışmayı **derhal durdurur**. Yapı tatil zaptının yapı yerine asılması, size tebligat yapılmış sayılması için yeterlidir.",
+        "Bu tutanağın bir nüshası muhtara bırakılır, bir nüshası da ilgili müdürlüğe gönderilir. Ayrıca binanın imara aykırı olduğuna dair bilgi, tapu kayıtlarının beyanlar hanesine işlenmek üzere tapu dairesine yazılı olarak bildirilir."
+      ],
+      "bullets": [
+        "İnşaat mühürlenir ve çalışmalar durdurulur.",
+        "Tutanak yapı yerine asılarak tebliğ edilir.",
+        "Tapu kaydının beyanlar hanesine şerh düşülür."
+      ]
+    },
+    {
+      "heading": "Mühürün kaldırılması için ne yapmalısınız?",
+      "paragraphs": [
+        "Tutanak tarihinden itibaren **en çok bir ay içinde** hareket etmeniz gerekir. Bu süre zarfında yapınızı ruhsata uygun hale getirmeli ya da sıfırdan ruhsat almalısınız.",
+        "Eksiklikleri giderip ruhsatı aldıktan sonra belediyeye veya valiliğe başvurarak mühürün kaldırılmasını talep edersiniz. Yapılan inceleme sonucunda uygunluk anlaşılırsa mühür kaldırılır ve inşaata devam edebilirsiniz."
+      ],
+      "bullets": [
+        "Ruhsat almak veya projeye uygun hale getirmek zorunludur.",
+        "Başvuru bizzat belediyeye veya valiliğe yapılır."
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırırsanız veya işlem yapmazsanız ne olur?",
+      "paragraphs": [
+        "Bir aylık sürede gerekli adımları atmazsanız, ruhsatınız iptal edilir. Ruhsatsız veya ruhsata aykırı yapılan binanın yıkılması için belediye encümeni veya il idare kurulu kararı çıkarılır.",
+        "Alınan karar doğrultusunda bina idare tarafından **yıktırılır** ve yıkım masraflarının tamamı yapı sahibinden tahsil edilir."
+      ],
+      "bullets": [
+        "Ruhsat iptal edilir.",
+        "Yıkım kararı alınarak bina yıktırılır ve masrafı sizden tahsil edilir."
+      ]
+    },
+    {
+      "heading": "Tapudaki şerh nasıl kaldırılır?",
+      "paragraphs": [
+        "Binanız için tapu kütüğünün beyanlar hanesine konulan aykırılık şerhi kolay kolay silinmez. İlgili idare aykırılığın giderildiğine dair tapu dairesine resmi bildirim yapmadığı sürece bu kayıt kaldırılamaz.",
+        "Yasal prosedür tamamlanıp mühür kaldırıldıktan sonra idarenin tapuya bildirim yapmasını sağlamalısınız."
+      ],
+      "bullets": [
+        "Beyanlar hanesindeki şerh kendiliğinden silinmez.",
+        "İdarenin tapuya yazılı bildirim yapması şarttır."
+      ]
+    }
+  ],
+  "steps": [
+    "Yapı yerine asılan yapı tatil tutanağını ve mührü inceleyin.",
+    "Bir aylık süreyi geçirmeden projenize uygun ruhsat alın veya aykırılığı giderin.",
+    "Belediyeye veya valiliğe yazılı olarak başvurarak mühürün kaldırılmasını isteyin.",
+    "İnceleme sonucunda onay alarak inşaatın devamı için izin belgesini alın.",
+    "Tapudaki beyanlar hanesi şerhinin kaldırılması için idarenin tapuya bildirim yapmasını takip edin."
+  ],
+  "documents": [
+    "Yapı tatil tutanağı",
+    "Tapu kayıt belgesi",
+    "Uygulama imar planı ve ruhsat projeleri",
+    "Belediye veya valilik başvuru dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Yapı tatil tutanağı bana doğrudan elden verilmedi, yine de tebliğ edilmiş sayılır mı?",
+      "a": "Evet. Tutanak yapı yerine asıldığı an yapı sahibine tebliğ edilmiş sayılır. Ayrıca bir nüshası muhtara bırakılır."
+    },
+    {
+      "q": "Mühürlendikten sonra inşaata gizlice devam edebilir miyim?",
+      "a": "Kesinlikle hayır. Mühür bozma suçu doğurur ve süreci daha da çıkmaza sokarak yıkım kararını hızlandırır."
+    },
+    {
+      "q": "Tapudaki şerh ne zaman silinir?",
+      "a": "Aykırılığın giderildiğine dair ilgili idare tapu dairesine resmi bildirim yapmadığı sürece bu kayıt kaldırılamaz."
+    },
+    {
+      "q": "Yıkım masrafları kimden alınır?",
+      "a": "İdare tarafından gerçekleştirilen yıkımın tüm maliyetleri yapı sahibinden tahsil edilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kentsel-donusum-nedir",
+  "angle": "Yapı tatil tutanağı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

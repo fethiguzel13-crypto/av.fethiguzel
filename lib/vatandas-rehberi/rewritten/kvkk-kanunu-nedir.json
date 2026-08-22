@@ -1,0 +1,101 @@
+{
+  "slug": "kvkk-kanunu-nedir",
+  "title": "KVKK nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "KVKK nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "KVKK nedir?",
+  "keywords": [
+    "KVKK nedir",
+    "6698 sayılı kanun"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "kvkk-basvuru-hakki",
+    "kvkk-aydinlatma-metni",
+    "kvkk-acik-riza"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kvkk-basvuru-hakki"
+    },
+    {
+      "label": "KVKK",
+      "href": "/kategori/kvkk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=KVKK"
+    }
+  ],
+  "lead": "KVKK, kişisel verilerinizin nasıl toplandığını, kimin elinde gezdiğini ve nerede saklandığını kontrol etmenizi sağlayan temel kural bütünüdür. Telefon numaranızdan alışveriş geçmişinize kadar her detay bu koruma şemsiyesi altındadır.",
+  "keyInsight": "Asıl tuzak, onay verdiğiniz her metnin aslında verilerinizi ticari veya farklı amaçlarla paylaşmanıza zemin hazırlamasıdır; rıza verirken dikkatli olunmalıdır.",
+  "sections": [
+    {
+      "heading": "Kişisel veri dediğimiz şey nedir?",
+      "paragraphs": [
+        "Gün içinde yaptığınız her küçük işlem aslında bir veri bırakma anıdır. Market kasasında verdiğiniz cep telefonu, internette gezindiğiniz siteler veya bir kuruma bıraktığınız e-posta adresi bu kapsama girer. Adınız ve soyadınız tek başına sıradan bir bilgi gibi görünse de, sistemde işlendiği an korunması gereken bir değere dönüşür.",
+        "Verileriniz **gelişigüzel** paylaşılamaz ve şirketler bunları dilediği gibi biriktiremez. Kanun, bu bilgilerin kimin elinde ne amaçla duracağını net çizgilerle ayırır. Veri işleyen herkes **sorumluluk** taşır ve bu sorumluluğu atlayamaz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hangi bilgiler daha sıkı korunur?",
+      "paragraphs": [
+        "Hayatın akışında bazı bilgiler vardır ki bunların başkalarının eline geçmesi çok daha büyük sorunlar yaratır. Sağlık durumunuz, siyasi görüşünüz, dernek üyelikleriniz veya biyometrik verileriniz özel nitelikli veri olarak adlandırılır.",
+        "Bu hassas bilgilerin başkalarıyla paylaşılması **çok katı** kurallara bağlanmıştır. İstisnai durumlar dışında, bu verileri ancak açık rızanızla veya kanunun zorunlu kıldığı hallerde işleyebilirler."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Şirketler verilerinizi ne zaman işleyebilir?",
+      "paragraphs": [
+        "Bir kurum verinizi alacaksa bunun arkasında haklı bir gerekçe bulunmalıdır. Alışveriş yaptığınızda faturanın kesilmesi veya kargonun size ulaşması için adresinizin bilinmesi doğaldır.",
+        "Ancak bu zorunlu haller dışındaki her veri toplama faaliyeti için **açık rıza** alınması şarttır. Onay vermediğiniz hiçbir pazarlama faaliyeti veya veri aktarımı hukuka uygun sayılamaz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Haklarınız ihlal edildiğinde nereye gidersiniz?",
+      "paragraphs": [
+        "Verilerinizin kötüye kullanıldığını veya izinsiz paylaşıldığını fark ettiğinizde sessiz kalmak zorunda değilsiniz. İlk olarak veriyi işleyen kuruma başvurarak durumun düzeltilmesini istemeniz gerekir.",
+        "Şirket bu talebinize olumsuz dönerse ya da süresinde yanıt vermezse, **Kurul** nezdinde resmi şikayet yolu açılır. Haklarınızı aramak için sürecin her aşamasını **titizlikle** takip etmelisiniz."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Şüpheli veri paylaşımlarını ve size gelen izinsiz mesajları kontrol edin.",
+    "Verilerinizi elinde bulunduran ilgili kuruma yazılı olarak başvurun.",
+    "Kurumun size vereceği yanıtı veya sürenin dolmasını bekleyin.",
+    "Olumsuz yanıt gelmesi halinde şikayet dosyanızı hazırlayın.",
+    "İlgili kurula resmi başvuru evrakını eksiksiz şekilde iletin."
+  ],
+  "documents": [
+    "Kimlik fotokopisi",
+    "Başvuru dilekçesi",
+    "İlgili kurumun yanıt yazısı",
+    "İhlali gösteren ekran görüntüleri",
+    "Varsa rıza metinleri"
+  ],
+  "faq": [
+    {
+      "q": "Telefon numaramı izinsiz alan şirkete ne yapabilirim?",
+      "a": "Öncelikle şirkete başvurarak verilerinizin silinmesini talep edebilirsiniz; sonuç alamazsanız şikayet hakkınızı kullanırsınız."
+    },
+    {
+      "q": "Şirketler verilerimi ne kadar süre saklayabilir?",
+      "a": "Veriler işlenme amaçları ortadan kalktığı veya yasal saklama süreleri dolduğu an silinmek veya yok edilmek zorundadır."
+    },
+    {
+      "q": "Açık rızamı sonradan geri alabilir miyim?",
+      "a": "Evet, verdiğiniz onayı dilediğiniz zaman geri çekme hakkına sahipsiniz ve bu durum geçmişteki işlemleri etkilemez."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kvkk-basvuru-hakki",
+  "angle": "Kanun tanımı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "ihtiyati-haciz-itiraz",
+  "title": "İhtiyati hacze nasıl itiraz edilir — Vatandaş Rehberi | Av. Fethi Güze",
+  "description": "İhtiyati hacze nasıl itiraz edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
+  "h1": "İhtiyati hacze nasıl itiraz edilir?",
+  "keywords": [
+    "ihtiyati hacze itiraz",
+    "ihtiyati haciz kaldırma"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "ihtiyati-haciz-nedir",
+    "haciz-nasil-kaldirilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "İhtiyati haciz, alacaklının talebiyle mallarınıza geçici olarak el konulmasıdır. Bu karara karşı itiraz hakkınız saklıdır.",
+  "keyInsight": "İtirazınızın temel dayanağı haciz sebebinin yokluğu, teminatın eksikliği veya mahkemenin yetkisizliğidir.",
+  "sections": [
+    {
+      "heading": "İtiraz ne zaman yapılır?",
+      "paragraphs": [
+        "Kapınıza gelen haciz kararı ile şaşkınlık yaşayabilirsiniz. Karar size tebliğ edildiğinde veya haciz işlemi sırasında hazır bulunduysanız, bu andan itibaren yasal süreciniz başlar.",
+        "İtirazınızı kararı veren mahkemeye sunmalısınız. **Haciz kararı gıyabınızda verildiyse**, tebliğ tarihinden itibaren itiraz süreniz başlar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hangi gerekçelerle itiraz edilebilir?",
+      "paragraphs": [
+        "Mahkeme, alacaklının sunduğu belgelerle ikna olup bu kararı vermiştir. Sizin göreviniz, bu iknayı sarsacak somut gerekçeler sunmaktır.",
+        "İtirazınızı şu noktalar üzerine kurabilirsiniz: Alacaklının iddia ettiği borcun aslında var olmadığı, borcun vadesinin gelmediği veya mahkemenin bu kararı vermeye yetkili olmadığı."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İtirazın sonucu ne olur?",
+      "paragraphs": [
+        "Mahkeme itirazınızı incelemek için duruşma açabilir veya dosya üzerinden karar verebilir. İtirazınız kabul edilirse haciz kararı kaldırılır.",
+        "Eğer mahkeme itirazınızı reddederse, haciz işlemi geçerliliğini korur. **İtirazın reddi kararına karşı** kanun yoluna başvurma hakkınız bulunmaktadır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreç nasıl işler?",
+      "paragraphs": [
+        "İhtiyati haciz işlemleri basit yargılama usulüne tabidir. Bu da sürecin daha hızlı ilerlediği anlamına gelir.",
+        "Adli tatil döneminde olsanız bile bu tür geçici hukuki koruma taleplerine ve bunlara karşı yapılan itirazlara mahkemeler bakmaya devam eder."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Kararı veren mahkemeyi tespit edin.",
+    "İtiraz dilekçenizi gerekçelerinizle birlikte hazırlayın.",
+    "Mahkeme veznesine gerekli harç ve giderleri yatırın.",
+    "Dilekçenizi mahkeme kalemine sunarak kaydettirin."
+  ],
+  "documents": [
+    "İhtiyati haciz kararı örneği",
+    "İtiraz dilekçesi",
+    "Borcun olmadığını gösteren belgeler",
+    "Tebliğ tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "İtiraz dilekçesini nereye vermeliyim?",
+      "a": "İhtiyati haciz kararını veren mahkemeye vermeniz gerekir."
+    },
+    {
+      "q": "İtiraz etmem haczi durdurur mu?",
+      "a": "Hayır, itiraz etmek haczi kendiliğinden durdurmaz; mahkemenin itirazınızı kabul edip kararı kaldırması gerekir."
+    },
+    {
+      "q": "Adli tatilde itiraz edebilir miyim?",
+      "a": "Evet, ihtiyati hacze itiraz adli tatilde görülen işler arasındadır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "İhtiyati hacze itiraz",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

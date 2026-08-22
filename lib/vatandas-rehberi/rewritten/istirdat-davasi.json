@@ -1,0 +1,111 @@
+{
+  "slug": "istirdat-davasi",
+  "title": "İstirdat davası nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İstirdat davası nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
+  "h1": "İstirdat davası nedir?",
+  "keywords": [
+    "istirdat davası",
+    "fazla ödeme istirdat"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "menfi-tespit-davasi",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    }
+  ],
+  "lead": "Borçlu olmadığınız halde haciz baskısıyla ödediğiniz parayı geri almanın yolu istirdat davasıdır. Haksız yere ödenen bu tutar için **mahkemeye başvurmak** zorundasınız.",
+  "keyInsight": "Borçlu olmadığı parayı ödemek zorunda kalan kişinin ödediği tarihten itibaren bir sene içinde umumi hükümler dairesinde dava açması şarttır.",
+  "sections": [
+    {
+      "heading": "Hangi durumda bu yol açılır?",
+      "paragraphs": [
+        "Kapınıza icra memuru dayandı. Borcunuz olmadığını biliyorsunuz ancak o anki baskıyla parayı ödemek zorunda kaldınız. İşte bu **haksız ödeme** sonrasında paranızı geri isteme hakkınız doğar.",
+        "Takibe itiraz etmemiş olabilirsiniz ya da itirazınız kaldırılmış olabilir. Tamamen ödemek zorunda kaldığınız paranın peşine düşmek için kanuni zemin hazırdır."
+      ],
+      "bullets": [
+        "Borçlu olunmadığı halde ödeme yapılması",
+        "Ödemenin icra baskısıyla gerçekleşmesi"
+      ]
+    },
+    {
+      "heading": "Zaman sınırı neyi ifade eder?",
+      "paragraphs": [
+        "Telaşla yapılan ödemelerin ardındanki en kritik eşik zamandır. Ödediğiniz paranın peşinden gitmek için **bir senelik süre** kuralı işlemeye başlar.",
+        "Bu zaman dilimini geçirdiğiniz takdirde parayı geri alma hakkınız ortadan kalkar. Sürenin başlangıcı paranın fiilen ödendiği andır."
+      ],
+      "bullets": [
+        "Sürenin başlangıcı ödeme tarihidir",
+        "Bir yıllık hak düşürücü süre vardır"
+      ]
+    },
+    {
+      "heading": "Mahkeme süreci nasıl işler?",
+      "paragraphs": [
+        "Genel hükümler çerçevesinde mahkemenin kapısını çatarsınız. Hakime borçlu olmadığınıza dair **delilleri sunarak** paranızın iadesini talep edersiniz.",
+        "Alacaklının haksız yere tahsil ettiği tutar, yargılama sonucunda yasal faiziyle birlikte size iade edilir."
+      ],
+      "bullets": [
+        "Genel mahkemelerde dava açılır",
+        "Ödeme belgeleri dosyaya sunulur"
+      ]
+    },
+    {
+      "heading": "Yanınızda hangi belgeler durmalı?",
+      "paragraphs": [
+        "İcra dairesine yapılan ödemenin makbuzu dosyanın temelidir. Hangi dosyaya ne kadar yatırdığınızı **eksiksiz göstermek** zorundasınız.",
+        "Borçlu olmadığınızı kanıtlayan her türlü yazılı belge bu süreçte elinizi güçlendirir."
+      ],
+      "bullets": [
+        "İcra ödeme makbuzları",
+        "Bankacılık dekontları"
+      ]
+    }
+  ],
+  "steps": [
+    "Ödemenin yapıldığı tarihi ve ilgili icra dosya numarasını belirleyin.",
+    "Bir yıllık yasal süre geçmeden yetkili mahkemeye başvuru dilekçenizi hazırlayın.",
+    "Ödeme makbuzları ve delillerinizi dava dosyasına ekleyin.",
+    "Mahkeme sürecini takip ederek haksız ödenen paranın iadesini isteyin."
+  ],
+  "documents": [
+    "İcra ödeme makbuzu",
+    "Banka dekontu",
+    "İcra takip dosyası evrakı",
+    "Borçsuzluğu kanıtlayan belgeler"
+  ],
+  "faq": [
+    {
+      "q": "İstirdat davasını kimler açabilir?",
+      "a": "Borçlu olmadığı parayı icra baskısıyla tamamen ödemek zorunda kalan kişiler açabilir."
+    },
+    {
+      "q": "Dava açmak için ne kadar süre vardır?",
+      "a": "Paranın ödendiği tarihten itibaren bir sene içinde dava açılması gerekir."
+    },
+    {
+      "q": "Hangi mahkemeye başvurulmalıdır?",
+      "a": "Umumi hükümler dairesinde görevli ve yetkili mahkemeye başvurulur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "İstirdat",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

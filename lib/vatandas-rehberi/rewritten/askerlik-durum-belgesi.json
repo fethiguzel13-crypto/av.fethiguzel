@@ -1,0 +1,111 @@
+{
+  "slug": "askerlik-durum-belgesi",
+  "title": "Askerlik durum belgesi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Askerlik durum belgesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
+  "h1": "Askerlik durum belgesi",
+  "keywords": [
+    "askerlik durum belgesi",
+    "askerlik durum belgesi"
+  ],
+  "category": "Nüfus",
+  "related": [
+    "e-devlet-nufus",
+    "askeri-hizmet-borclanma",
+    "pasaport-basvurusu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/e-devlet-nufus"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=askerlik"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    }
+  ],
+  "lead": "Askerlik durum belgesi, askerlikle ilişiğinizin olmadığını ya da erteleme durumunuzu gösteren resmi bir evraktır. Bu belgeyi temin etmek için e-Devlet kapısını kullanabilir ya da doğrudan ilgili kurumlara başvurabilirsiniz.",
+  "keyInsight": "Belge talebinde bulunurken kişisel bilgilerinizin ve askerlik şubesi kayıtlarınızın güncel olduğundan emin olmalısınız.",
+  "sections": [
+    {
+      "heading": "Hangi durumlarda belgeye ihtiyaç duyarsınız?",
+      "paragraphs": [
+        "İş başvurularında, okul kayıtlarında veya resmi kurumlardaki işlemlerinizde askerlik durumunuzu kanıtlamanız istenir. Bu aşamada sistemde görünen statünüz belgenizin içeriğini belirler.",
+        "Tecilli, muaf ya da askerliğini yapmış olmanız fark etmeksizin her vatandaşın bu belgeye erişim hakkı bulunur."
+      ],
+      "bullets": [
+        "İşe giriş işlemleri",
+        "Eğitim kurumu kayıtları",
+        "Resmi kurum başvuruları"
+      ]
+    },
+    {
+      "heading": "Belgeyi nereden ve nasıl alabilirsiniz?",
+      "paragraphs": [
+        "Teknolojinin sunduğu imkanlar sayesinde evrak işleri dijital ortama taşınmıştır. İnternet üzerinden hızlıca barkodlu belge oluşturabilirsiniz.",
+        "Eğer dijital sistemlerde bir hata veya eksiklik fark ederseniz, bizzat şubeye gitmeniz gerekebilir."
+      ],
+      "bullets": [
+        "e-Devlet kapısı",
+        "Askerlik şubeleri"
+      ]
+    },
+    {
+      "heading": "Bilgilerinizde uyumsuzluk varsa ne yapmalısınız?",
+      "paragraphs": [
+        "Sistemdeki statünüz ile gerçek durumunuz uyuşmuyorsa, bu durum resmi işlemlerinizde aksamalara yol açabilir. Hatanın düzeltilmesi için şubeye başvurarak kayıtlarınızı güncellemelisiniz.",
+        "Nüfus bilgilerindeki değişiklikler zamanında bildirilmediğinde askerlik kayıtlarına da gecikmeli yansır."
+      ],
+      "bullets": [
+        "Nüfus bilgisi kontrolü",
+        "Şube üzerinden veri güncelleme"
+      ]
+    },
+    {
+      "heading": "İşlemi tamamlarken nelere dikkat etmelisiniz?",
+      "paragraphs": [
+        "Alacağınız belgenin üzerindeki barkodun okunabilir olmasına özen gösterin. Kurumlar doğrulama kodu sayesinde evrakın geçerliliğini kontrol eder.",
+        "Belgenin geçerlilik süresi kurumların taleplerine göre değişiklik gösterebilir."
+      ],
+      "bullets": [
+        "Barkod kontrolü",
+        "Güncel tarihli evrak kullanımı"
+      ]
+    }
+  ],
+  "steps": [
+    "e-Devlet şifreniz ile sisteme giriş yapın.",
+    "Arama çubuğuna askerlik durum belgesi yazın.",
+    "İlgili hizmet adımlarını takip ederek belgenizi sorgulayın.",
+    "Barkodlu belgenizi bilgisayarınıza indirip çıktısını alın."
+  ],
+  "documents": [
+    "T.C. Kimlik Kartı",
+    "e-Devlet şifresi",
+    "Varsa mevcut terhis veya tecil belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Askerlik durum belgesini e-Devlet dışında nereden alabilirim?",
+      "a": "İkamet ettiğiniz yerdeki en yakın askerlik şubesine şahsen başvurarak bu belgeyi elden alabilirsiniz."
+    },
+    {
+      "q": "Belgenin geçerlilik süresi ne kadardır?",
+      "a": "Genellikle kurumlar güncel tarihli belgeleri ister; bu nedenle belgeyi kuruma vereceğiniz tarihe yakın bir zamanda oluşturmanız önerilir."
+    },
+    {
+      "q": "Yoklama kaçağı olanlar bu belgeyi alabilir mi?",
+      "a": "Sistemde yoklama kaçağı veya bakaya olarak görünen kişilerin belgelerinde bu durum açıkça belirtilir ve ilgili kurumlara bildirilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "e-devlet-nufus",
+  "angle": "Askerlik durum belgesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

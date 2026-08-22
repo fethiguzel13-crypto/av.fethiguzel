@@ -1,0 +1,113 @@
+{
+  "slug": "senet-nasil-yazilir",
+  "title": "Senet nasıl yazılır — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Senet nasıl yazılır hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
+  "h1": "Senet nasıl yazılır",
+  "keywords": [
+    "senet nasıl yazılır",
+    "senet nasil yazilir"
+  ],
+  "category": "İcra",
+  "related": [
+    "cek-karsiliksiz",
+    "senet-icra-takibi",
+    "kambiyo-senetlerine-ozgu-takip",
+    "kefalet-sozlesmesi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/cek-karsiliksiz"
+    },
+    {
+      "label": "Kıymetli evrak",
+      "href": "/kategori/kiymetli-evrak"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Elinizdeki kağıda senet diyebilmek için onun kambiyo senedi vasfını taşıması ve vadesinin gelmiş olması gerekir. İcra memuru senedi inceleyip ödeme emrini gönderdiğinde süreç resmen başlar.",
+  "keyInsight": "Senede itiraz etmek veya imzaya itirazda bulunmak istiyorsanız, ödeme emrinin ardından **beş gün** içinde icra mahkemesine başvurmak zorundasınız.",
+  "sections": [
+    {
+      "heading": "Ödeme emri kapınıza geldiğinde ne olur?",
+      "paragraphs": [
+        "Borçlu olduğunuz iddiasıyla icra dairesinden elinize bir ödeme emri tutuşturulur. İcra memuru senedin geçerli bir kambiyo senedi olduğunu gördüğünde vakit kaybetmeden harekete geçer.",
+        "Bu aşamada borcun ve takip masraflarının ödeme emrinde belirtilen banka hesabına yatırılması beklenir. Süreci durdurmanın yolu yasal itiraz yollarını **beş gün** içinde kullanmaktan geçer."
+      ],
+      "bullets": [
+        "Senedin vadesi gelmiş olmalıdır",
+        "Ödeme emri hemen gönderilir"
+      ]
+    },
+    {
+      "heading": "İmza size ait değilse ne yapmalısınız?",
+      "paragraphs": [
+        "Önünüze konan senetteki imzanın elinizden çıkmadığını biliyorsanız bunu sessiz kalamazsınız. İmzayı inkar etmek ciddi bir adımdır.",
+        "İmza itirazınızı açıkça bir dilekçeyle icra mahkemesine iletmelisiniz. İtirazınız haksız bulunursa **yüzde on** oranında para cezasıyla karşı karşıya kalabilirsiniz."
+      ],
+      "bullets": [
+        "İmzanın size ait olmadığını açıkça yazın",
+        "Dilekçeyi mahkemeye zamanında sunun"
+      ]
+    },
+    {
+      "heading": "Hangi gerekçelerle itiraz edilebilir?",
+      "paragraphs": [
+        "Borcun aslında hiç olmadığını, borcun ödendiğini veya zamanaşımına uğradığını düşünüyorsanız bunu belgelemelisiniz. Yetki itirazı da bu aşamada öne sürülür.",
+        "Gerekçelerinizi sebepleriyle birlikte tek bir dilekçede toplayıp icra mahkemesinden karar getirmelisiniz."
+      ],
+      "bullets": [
+        "Borcun ödendiğini kanıtlayın",
+        "Zamanaşımı süresini kontrol edin"
+      ]
+    },
+    {
+      "heading": "Mal beyanında bulunmazsanız ne olur?",
+      "paragraphs": [
+        "Borç ödenmediği ve itiraz edilmediği takdirde mal beyanında bulunma zorunluluğu doğar. Bu yükümlülük yerine getirilmezse hapisle tazyik tehlikesi kapıdadır.",
+        "Gerçeğe aykırı mal beyanı vermek de aynı şekilde cezai sonuçlar doğurur."
+      ],
+      "bullets": [
+        "Mal beyanını süresinde verin",
+        "Gerçeğe uygun beyanda bulunun"
+      ]
+    }
+  ],
+  "steps": [
+    "Ödeme emri elinize ulaştığında senedin ve borcun detaylarını inceleyin.",
+    "İmza veya borca itiraz edecekseniz dilekçenizi sebepleriyle birlikte hazırlayın.",
+    "İtiraz dilekçesini yasal süresi içinde icra mahkemesine teslim edin.",
+    "Borcu ödeyecekseniz ödeme emrindeki resmi banka hesabına transferi gerçekleştirin.",
+    "Gerekli durumlarda mal beyanında bulunun."
+  ],
+  "documents": [
+    "Senet sureti",
+    "Ödeme emri",
+    "İtiraz dilekçesi",
+    "Banka dekontu"
+  ],
+  "faq": [
+    {
+      "q": "İmza bana ait değilse ne kadar sürem var?",
+      "a": "İmza itirazınızı ödeme emrinin tebliğinden itibaren beş gün içinde icra mahkemesine bildirmelisiniz."
+    },
+    {
+      "q": "Borcu ödediğimi nasıl ispatlarım?",
+      "a": "Borcun ödendiğini, itfa edildiğini gösteren belgelerle birlikte icra mahkemesine başvurarak itiraz edebilirsiniz."
+    },
+    {
+      "q": "Mal beyanında bulunmazsam ne olur?",
+      "a": "Mal beyanında bulunmamak veya gerçeğe aykırı beyan vermek hapisle tazyik cezasına yol açabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "cek-karsiliksiz",
+  "angle": "Senet nasıl yazılır",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "yetkili-mahkeme-nedir",
+  "title": "Yetkili Mahkeme Nasıl Belirlenir?",
+  "description": "Hangi mahkemede dava açılır? (yetki) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
+  "h1": "Hangi mahkemede dava açılır? (yetki)",
+  "keywords": [
+    "yetkili mahkeme",
+    "yetki itirazı"
+  ],
+  "category": "Usul",
+  "related": [
+    "hukuk-davasi-nasil-acilir",
+    "gorevli-mahkeme-nedir",
+    "idari-dava-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/hukuk-davasi-nasil-acilir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=yetki"
+    }
+  ],
+  "lead": "Elindeki uyuşmazlığı hangi adliyeye taşıyacağını bilememek en sık yapılan başlangıç hatasıdır. Yanlış kapıyı çalmak zaman ve hak kaybı doğurur.",
+  "keyInsight": "Tapu ile ilgili uyuşmazlıklarda mülkünün olduğu yer **kesin yetkili** kabul edilir; bu kuralı taraflar kendi başına değiştiremez.",
+  "sections": [
+    {
+      "heading": "Taşınmaz kavgalarında adres neresidir?",
+      "paragraphs": [
+        "Evi, tarlayı ya da dükkanı ilgilendiren bir mülkiyet çekişmesine giriştiğinizde kural gayet basittir. Taşınmaz üzerindeki ayni hak sahipliğini veya zilyetliğini ilgilendiren tüm çekişmeler için **taşınmazın bulunduğu yer** mahkemesine gitmek mecburidir.",
+        "Bu durum sadece tek bir mülkle sınırlı kalmaz. Eğer dava konusu edilen birden çok taşınmaz birbirine bağlı şekilde ortadaysa, bunlardan birinin yer aldığı adliyede dava açarak süreci başlatabilirsiniz."
+      ],
+      "bullets": [
+        "Ayni hak ve zilyetlik davaları",
+        "İrtifak hakkı çekişmeleri",
+        "Birden çok mülkün durumu"
+      ]
+    },
+    {
+      "heading": "Tacirler kendi mahkemesini seçebilir mi?",
+      "paragraphs": [
+        "İş dünyasında her anlaşmazlık kanunun çizdiği genel kurallarla çözülmek zorunda değildir. Aranızda ticaret yapan iki tacirseniz ya da kamu tüzel kişisi sıfatınız varsa, aranızda doğacak veya doğabilecek bir ihtilaf için **önceden sözleşme** yapabilirsiniz.",
+        "Yapılan bu yetki anlaşması sayesinde dava sadece tarafların özgür iradesiyle metne dökülen o özel mahkemede görülecektir."
+      ],
+      "bullets": [
+        "Sadece tacirler ve kamu tüzel kişileri",
+        "Doğmuş veya doğacak uyuşmazlıklar",
+        "Sözleşmeyle belirlenen yer"
+      ]
+    },
+    {
+      "heading": "Yanlış adliyeye dava açılırsa ne olur?",
+      "paragraphs": [
+        "Her davanın yetkisi kesin olmak zorunda değildir. Eğer ortada kesin bir yetki kuralı yoksa ve davalı taraf süresinde itiraz etmezse, davanın açıldığı mahkeme **kendiliğinden yetkili** hâle gelir ve yargılama orada sürer.",
+        "Ancak davalı taraf süresinde ve usulüne uygun şekilde itiraz ederken **yetkili mahkemeyi** açıkça bildirmek zorundadır. Aksi takdirde bu itiraz hiç yapılmamış sayılır."
+      ],
+      "bullets": [
+        "Cevap dilekçesinde itiraz şartı",
+        "Seçilen yerin bildirilmesi zorunluluğu"
+      ]
+    },
+    {
+      "heading": "Arabuluculuk aşamasında yol nasıl bulunur?",
+      "paragraphs": [
+        "Dava açmadan önce kapısını çaldığınız arabuluculuk bürosu için de doğru adresi bulmanız gerekir. Başvuru, uyuşmazlığın mahiyetine göre **yetkili mahkemenin** bulunduğu yerdeki arabuluculuk bürosuna yapılır.",
+        "Eğer o yerde henüz ayrı bir arabuluculuk bürosu kurulmamışsa, görevlendirilen sulh hukuk mahkemesi yazı işleri müdürlüğü bu süreci yürütmekle görevlidir."
+      ],
+      "bullets": [
+        "Yetkili yerdeki büro",
+        "Yazı işleri müdürlüğü"
+      ]
+    }
+  ],
+  "steps": [
+    "Uyuşmazlık konusu taşınmaz ise mülkün bulunduğu yeri tespit edin.",
+    "Tacirseniz aranızdaki yetki sözleşmesini kontrol edin.",
+    "Yetkinin kesin olup olmadığını inceleyin.",
+    "İtiraz edecekseniz doğru mahkemeyi açıkça yazın.",
+    "Arabuluculuk için doğru yerdeki büroya başvurun."
+  ],
+  "documents": [
+    "Dava dilekçesi",
+    "Yetki sözleşmesi",
+    "Tapu kayıt bilgileri",
+    "Arabuluculuk son tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "Her davayı istediğim şehirde açabilir miyim?",
+      "a": "Hayır. Kanun mülkiyet ve benzeri konularda yeri kesin olarak belirlemiştir."
+    },
+    {
+      "q": "Yetki itirazı ne zaman ve nasıl yapılır?",
+      "a": "Kesin yetki olmayan hâllerde cevap dilekçesinde ve mutlaka doğru mahkeme gösterilerek yapılır."
+    },
+    {
+      "q": "Tacirler mahkemeyi değiştirebilir mi?",
+      "a": "Evet, tacirler sözleşme yaparak aralarındaki uyuşmazlık için özel bir mahkeme seçebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "hukuk-davasi-nasil-acilir",
+  "angle": "Yetki",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "yuksekogretim-disiplin",
+  "title": "Öğrenci disiplin cezası — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Öğrenci disiplin cezası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
+  "h1": "Öğrenci disiplin cezası",
+  "keywords": [
+    "öğrenci disiplin cezası",
+    "yuksekogretim disiplin"
+  ],
+  "category": "Eğitim",
+  "related": [
+    "okul-kayit-ucreti-iade",
+    "idari-dava-nasil-acilir",
+    "iptal-davasi-nedir",
+    "bilgi-edinme-basvurusu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/okul-kayit-ucreti-iade"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    },
+    {
+      "label": "İdare",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Sınav stresi yetmezmiş gibi bir de elinize disiplin soruşturması kağıdı tutuşturuldu. Ne yapacağınızı bilemiyor, okuldan atılma korkusuyla geceyi uykusuz geçiriyorsunuz.",
+  "keyInsight": "Disiplin soruşturmasında en büyük hata, savunma hakkını küçümseyip süreci kendi haline bırakmaktır.",
+  "sections": [
+    {
+      "heading": "Kulağınıza ilk çalınan ses: Soruşturma açıldı",
+      "paragraphs": [
+        "Posta kutunuza gelen bir zarf ya da danışmandan gelen ani bir telefonla başınızdan aşağı kaynar sular dökülür. Fakültede kopya çektiğiniz ya da bir tartışmaya karıştığınız iddia ediliyordur. Önce derin bir nefes alın, çünkü **suçlama henüz kesinleşmiş değildir**.",
+        "Bu aşamada size yöneltilen iddiaların ne olduğunu anlamak için acele etmelisiniz. Korkuya kapılıp durumu saklamaya çalışmak, sadece işleri daha da sarpa sardırır."
+      ],
+      "bullets": [
+        "Sakinliğinizi koruyun",
+        "Tebligat tarihini bir yere not edin"
+      ]
+    },
+    {
+      "heading": "Savunma kağıdı geldiğinde ne yapmalı?",
+      "paragraphs": [
+        "Evrakta size olayla ilgili sorular yöneltilir ve savunma yapmanız istenir. Karşınıza geçip **yazılı savunma** vermeniz istendiğinde, kelimelerinizi çok dikkatli seçmelisiniz. Öfkeyle yazılmış satırlar, suçlu olduğunuz izlenimini güçlendirir.",
+        "Olay anında yanınızda olan arkadaşlarınızın ifadeleri veya elinizdeki mesaj ekran görüntüleri bu aşamada en büyük dayanağınızdır. Suçu inkar etmek yerine, gerçeği tane tane anlatın."
+      ],
+      "bullets": [
+        "Duygusal cümlelerden kaçının",
+        "Kanıtlarınızı dosyaya ekleyin"
+      ]
+    },
+    {
+      "heading": "Kurul karşısına çıkış günü",
+      "paragraphs": [
+        "Disiplin kurulu odasına girdiğiniz o an, hayatınızın en uzun dakikaları gibi gelebilir. Kurul üyeleri size sorular yöneltirken amacınız kendinizi savunmak olmalıdır, suçlamak değil. Ses tonunuzu **sakin ve saygılı** tutmak her zaman lehinize işler.",
+        "Sorulan sorulara net yanıtlar verin, çelişkili ifadelerden kaçının. Hatanız varsa bunu dürüstçe açıklamak, cezada indirime gidilmesini sağlayabilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Karar açıklandığında yolun sonu değil",
+      "paragraphs": [
+        "Beklediğiniz ya da beklemediğiniz bir ceza kapınıza dayanabilir. Uzaklaştırma veya kınama cezası aldığınızda dünyanız kararmasın; çünkü **itiraz hakkınız** her zaman saklıdır.",
+        "Üniversitenin ilgili üst kuruluna veya idari yargıya başvurarak kararın bozulmasını isteyebilirsiniz. Süreyi geçirmemek bu aşamada hayati önem taşır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Disiplin soruşturması tebligatını ve tarihini kaydedin",
+    "İddiaları ve suçlamaları dikkatlice okuyun",
+    "Savunmanız için lehinize olan belgeleri toplayın",
+    "Süre sınırını kaçırmadan yazılı savunmanızı teslim edin",
+    "Ceza verilirse üst mercilere itiraz yolunu araştırın"
+  ],
+  "documents": [
+    "Disiplin soruşturması tebligat yazısı",
+    "Olayı gösteren mesaj veya e-posta dökümleri",
+    "Varsa tanık öğrenci dilekçeleri",
+    "Yazılı savunma metni"
+  ],
+  "faq": [
+    {
+      "q": "Disiplin cezası sicile işler mi?",
+      "a": "Aldığınız cezanın türüne göre öğrenci dosyanızda yer alır ancak mezuniyet sonrası adli sicilinize yansımaz."
+    },
+    {
+      "q": "Savunma vermezsem ne olur?",
+      "a": "Savunma hakkınızdan vazgeçmiş sayılır ve kurul eldeki mevcut delillerle kararını doğrudan verir."
+    },
+    {
+      "q": "Avukat tutmak zorunda mıyım?",
+      "a": "Disiplin soruşturmalarında zorunlu değildir ancak sürecin karmaşıklığına göre hukuki destek alabilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "okul-kayit-ucreti-iade",
+  "angle": "Öğrenci disiplin cezası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

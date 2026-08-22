@@ -1,0 +1,116 @@
+{
+  "slug": "iflas-nedir",
+  "title": "İflas Nedir? Konkordato Farkı",
+  "description": "İflas nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
+  "h1": "İflas nedir?",
+  "keywords": [
+    "iflas nedir",
+    "iflas davası"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "sirket-kurulusu",
+    "odeme-emrine-itiraz"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-sirketler"
+    }
+  ],
+  "lead": "Borcunuzu ödeyemediğinizde ve alacaklılar kapıya dayandığında, ticari hayatın en sert süreci olan iflas yoluyla karşı karşıya kalabilirsiniz. İflas, sadece borcun ödenmemesi değil, mahkeme kararıyla tüm malvarlığınızın ortak bir masada toplanıp tasfiye edilmesidir.",
+  "keyInsight": "İflas davalarında tarafların anlaşarak yetki değiştirmesi mümkün değildir; dava mutlaka **borçlunun muamele merkezinin bulunduğu** yer ticaret mahkemesinde açılır.",
+  "sections": [
+    {
+      "heading": "İflas yoluyla takibin başlaması",
+      "paragraphs": [
+        "İş yerinizde ödemeler durdu ve alacaklılar icra kapısını çaldı. Süreç, borçlunun muamele merkezinin bulunduğu yerdeki icra dairesinde başlar. Yurt dışı merkezli işletmelerde ise Türkiye'deki şube esas alınır.",
+        "Alacaklının iflas takibi kesinleştiğinde durum ilan edilir. Bu **ilanın ardından onbeş gün** içinde diğer alacaklılar davaya müdahale edebilir. İflası gerektiren bir hal olmadığını ileri sürerek mahkemeden talebin reddini isteyebilirler."
+      ],
+      "bullets": [
+        "Yetkili merci icra dairesidir",
+        "İlan süreci onbeş gündür"
+      ]
+    },
+    {
+      "heading": "Mahkeme önünde yargılama usulü",
+      "paragraphs": [
+        "Mahkeme, icra dosyasını getirtir ve basit yargılama usulüne göre duruşma yapar. Hem iflas talebini hem de itirazları genel hükümlere göre inceler. Borçlu takibe süresinde itiraz etmemişse süreç hızlanır.",
+        "Mahkeme, borçluya borcunu **faiz ve icra masraflarıyla** birlikte ödemesi veya mahkeme veznesine depo etmesi için süre tanır. Borçlu ödemekten kaçınırsa ilk oturumda iflasına karar verilir."
+      ],
+      "bullets": [
+        "Basit yargılama uygulanır",
+        "İlk oturumda karar çıkabilir"
+      ]
+    },
+    {
+      "heading": "İflasın açıldığı an ve sonuçları",
+      "paragraphs": [
+        "İflas, mahkemenin verdiği **hükümle açılır** ve kararda açılma anı açıkça gösterilir. Bu karar verildikten sonra açılan iflas davasından feragat etmek mümkün değildir.",
+        "İflas kararıyla birlikte borçlunun malvarlığı üzerindeki tasarruf yetkisi kısıtlanır ve her şey masa adı verilen ortak havuza aktarılır."
+      ],
+      "bullets": [
+        "Hükümle resmi olarak başlar",
+        "Feragat etmek geçersizdir"
+      ]
+    },
+    {
+      "heading": "Karşılıksız çek ve cezai sorumluluk",
+      "paragraphs": [
+        "Ticari hayatta karşılıksız çek düzenlenmesi durumunda ceza sorumluluğu gündeme gelir. Hamilin şikayeti üzerine adli para cezası ve çek hesabı açma yasağı uygulanır.",
+        "Borçlu, kanuni ibraz süresinden sonra işleyecek ticari temerrüt faiziyle birlikte çek bedelini tamamen öderse, yargılama aşamasında davanın düşmesi sağlanabilir."
+      ],
+      "bullets": [
+        "Şikayete bağlı adli para cezası",
+        "Etkin pişmanlık imkanı"
+      ]
+    }
+  ],
+  "steps": [
+    "Borçlunun iflasa tabi statüde olup olmadığını kontrol edin.",
+    "İflas takibi başvurusunu yetkili icra dairesine yapın.",
+    "Asliye ticaret mahkemesinde dava açılmasını sağlayın.",
+    "İflas kararı sonrası tasfiye sürecini takip edin.",
+    "Alacak kaydı için masaya başvurun."
+  ],
+  "documents": [
+    "alacak belgesi",
+    "dilekçe",
+    "sicil kaydı",
+    "alacak kaydı"
+  ],
+  "faq": [
+    {
+      "q": "İflas davası hangi mahkemede açılır?",
+      "a": "İflas davası mutlaka borçlunun muamele merkezinin bulunduğu yer ticaret mahkemesinde açılır; bu konuda yetki sözleşmesi yapılamaz."
+    },
+    {
+      "q": "İflas davasına diğer alacaklılar müdahale edebilir mi?",
+      "a": "İflas talebinin ilanından itibaren onbeş gün içinde diğer alacaklılar davaya müdahale ederek itiraz edebilir."
+    },
+    {
+      "q": "İflas kararı ne zaman hukuken doğar?",
+      "a": "İflas, mahkemenin verdiği hükümle açılır ve bu hükümde açılma anı açıkça belirtilir."
+    },
+    {
+      "q": "Karşılıksız çek borcu ödenirse yasak kalkar mı?",
+      "a": "Çek bedeli yasal faiziyle tamamen ödenirse, yargılama aşamasında davanın düşmesine karar verilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "İflas",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

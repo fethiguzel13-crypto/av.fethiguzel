@@ -1,0 +1,112 @@
+{
+  "slug": "arabulucu-nasil-secilir",
+  "title": "Arabulucu Nasıl Seçilir / Atanır?",
+  "description": "Arabulucu nasıl bulunur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
+  "h1": "Arabulucu nasıl bulunur?",
+  "keywords": [
+    "arabulucu nasıl seçilir",
+    "arabulucu atama"
+  ],
+  "category": "Usul",
+  "related": [
+    "arabuluculuk-nasil-yapilir",
+    "arabuluculuk-ucreti",
+    "arabuluculuk-anlasma-belgesi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/arabuluculuk-nasil-yapilir"
+    },
+    {
+      "label": "Arabuluculuk",
+      "href": "/rehber/arabuluculuk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=arabulucu"
+    }
+  ],
+  "lead": "Mahkeme kapısındasınız ya da uyuşmazlık kapıya dayandı. Arabulucu seçimi, başkaca bir usul kararlaştırılmadıkça tarafların ortak iradesiyle gerçekleşir.",
+  "keyInsight": "Taraflar başkaca bir usul kararlaştırmadıkça arabulucuyu kendileri seçer.",
+  "sections": [
+    {
+      "heading": "Uyuşmazlık masaya nasıl gelir?",
+      "paragraphs": [
+        "Mahkemede dava açıldıktan sonra ön inceleme aşaması başlar. Hakim, tarafların üzerinde serbestçe tasarruf edebileceği konularda onları arabuluculuğa teşvik eder.",
+        "Ön inceleme duruşmasında tarafların iddia ve savunmaları dinlenir, anlaşamadıkları noktalar teker teker tespit edilir. Hakim arabuluculuk sürecinin hukuki sonuçlarını anlatarak taraflara yol gösterir."
+      ],
+      "bullets": [
+        "Ön incelemede dava şartları incelenir",
+        "Uyuşmazlık konuları tutanağa bağlanır"
+      ]
+    },
+    {
+      "heading": "Arabulucu kim tarafından belirlenir?",
+      "paragraphs": [
+        "Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu açıktır: **başkaca bir usul kararlaştırılmadıkça** arabulucu taraflarca seçilir.",
+        "Taraflar aralarında anlaşarak süreci yönetecek uzmana özgür iradeleriyle karar verir."
+      ],
+      "bullets": [
+        "Tarafların ortak seçimi esastır",
+        "Farklı bir yöntem sözleşmeyle kararlaştırılabilir"
+      ]
+    },
+    {
+      "heading": "Görüşmeler nasıl tutanağa bağlanır?",
+      "paragraphs": [
+        "Süreç sonunda bir sonuç alınıp alınmadığı duruşma tutanağına yazılır. Anlaşma sağlanamadıysa hangi konularda uyuşmazlık olduğu açıkça belirtilir.",
+        "Hazır bulunan taraflar bu tutanağı imzalar. Tahkikat aşaması da bu tutanak esas alınarak yürütülür."
+      ],
+      "bullets": [
+        "Anlaşmazlık konuları tutanağa yazılır",
+        "Taraflar tutanağı imzalar"
+      ]
+    },
+    {
+      "heading": "Tebligat ve resmi bildirimler neden önemlidir?",
+      "paragraphs": [
+        "Süreçteki resmi evraklar ve bilgilendirmeler ilgili adreslere iletilir. Sicile kayıtlı arabulucular ve avukatlar gibi **elektronik tebligat zorunluluğu** olan kişiler için işlemler Ulusal Elektronik Tebligat Sistemi üzerinden yürütülür.",
+        "Elektronik yolla yapılan tebligat, muhatabın adresine ulaştığı tarihi izleyen günlerin sonunda tamamlanmış sayılır."
+      ],
+      "bullets": [
+        "UETS üzerinden tebligat yapılır",
+        "Mazbata bilgileri eksiksiz tutulur"
+      ]
+    }
+  ],
+  "steps": [
+    "Ön inceleme duruşmasında mahkemenin arabuluculuk teşvikini dinleyin.",
+    "Taraflar olarak ortak bir arabulucu üzerinde anlaşmaya çalışın.",
+    "Başkaca bir usul belirlenmediyse seçiminizi netleştirin.",
+    "Görüşme sonucunu ve anlaşmazlık konularını tutanağa geçirtin.",
+    "Tutanak altını hazır bulunan taraflar olarak imzalayın."
+  ],
+  "documents": [
+    "Dava dilekçesi ve cevap dilekçesi",
+    "Ön inceleme duruşma tutanağı",
+    "Kimlik belgeleri",
+    "Elektronik tebligat ve mazbata evrakları"
+  ],
+  "faq": [
+    {
+      "q": "Arabulucuyu kim seçer?",
+      "a": "Başkaca bir usul kararlaştırılmadıkça arabulucu taraflarca seçilir."
+    },
+    {
+      "q": "Arabuluculuğa ne zaman teşvik edilir?",
+      "a": "Mahkeme ön inceleme aşamasında tarafları sulhe veya arabuluculuğa teşvik eder."
+    },
+    {
+      "q": "Anlaşma sağlanamazsa ne olur?",
+      "a": "Anlaşamadıkları hususlar tutanağa yazılır ve taraflarca imzalanarak tahkikat aşamasına geçilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "arabuluculuk-nasil-yapilir",
+  "angle": "Arabulucu seçimi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "malulen-emeklilik",
+  "title": "Malulen emeklilik nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Malulen emeklilik nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
+  "h1": "Malulen emeklilik nedir?",
+  "keywords": [
+    "malulen emeklilik",
+    "maluliyet aylığı"
+  ],
+  "category": "Sosyal Güvenlik",
+  "related": [
+    "emeklilik-sartlari",
+    "engelli-raporu-nasil-alinir",
+    "sgk-hizmet-dokumu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/emeklilik-sartlari"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=malul"
+    }
+  ],
+  "lead": "Çalışma hayatındayken sağlığınız ciddi şekilde bozuldu. Asıl mesele, sağlık durumunuzun çalışma gücünüzü ne ölçüde etkilediğidir.",
+  "keyInsight": "Hastane raporundaki oran tek başına yetmez; son sözü her zaman Kurum Sağlık Kurulu söyler.",
+  "sections": [
+    {
+      "heading": "Sağlık durumu neyi değiştirecek?",
+      "paragraphs": [
+        "Aynaya bakıp \"çalışamıyorum\" demek yetmiyor. Sağlık kurulu raporu ve tıbbi belgeleriniz masaya geliyor. SGK Sağlık Kurulu çalışma gücünüzdeki kaybı inceliyor.",
+        "Süreçte yetkilendirilmiş sağlık hizmeti sunucularının sağlık kurullarından usulüne uygun rapor almanız gerekiyor. Bu rapor ve dayanağı tıbbi belgeler incelemeden geçiyor."
+      ],
+      "bullets": [
+        "Çalışma gücü kaybı tespiti",
+        "Yetkili sağlık kurulu raporu"
+      ]
+    },
+    {
+      "heading": "Hangi şartlar aranıyor?",
+      "paragraphs": [
+        "Çalışma gücünüzü kaybettiğiniz anlaşıldığında, prim günleri ve sigortalılık süresi devreye giriyor. Kanun maddeleri bu şartların sağlanmasını şart koşuyor.",
+        "Başka birinin sürekli bakımına muhtaç durumda olanlar için hesaplamalarda farklı oranlar uygulanabiliyor. Detaylar prim gün sayısına göre şekilleniyor."
+      ],
+      "bullets": [
+        "Prim gün sayısı",
+        "Sürekli bakım ihtiyacı"
+      ]
+    },
+    {
+      "heading": "Başvuru ve aylığın başlaması",
+      "paragraphs": [
+        "Rapor çıktıktan sonra yazılı istekte bulunmanız gerekiyor. Rapor tarihinin yazılı istek tarihinden önce veya sonra olması başlangıç tarihini etkiliyor.",
+        "Görevden ayrılma durumlarında veya sigortalılık statünüze göre aylığın bağlanacağı ay başı değişiklik gösterebiliyor."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Aylık bağlandıktan sonra çalışmak",
+      "paragraphs": [
+        "Malullük aylığı alırken yeniden çalışmaya başlarsanız aylığınız kesiliyor. Çalışma bittikten sonra yeniden yazılı istekte bulunarak **kontrol muayenesine** tabi tutuluyorsunuz.",
+        "İlk aylığa esas malullüğün devam ettiği anlaşıldığında aylık yeniden hesaplanarak bağlanıyor."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Çalışma gücünün kaybı iddiasını tıbben hazırlayın.",
+    "Kurum sağlık kuruluna sevk alın.",
+    "Yetkili sağlık kurulundan rapor çıkartın.",
+    "Yazılı istekte bulunun.",
+    "Kontrol muayenesi ve aylık sürecini izleyin."
+  ],
+  "documents": [
+    "tıbbi dosya",
+    "hizmet dökümü",
+    "sevk",
+    "kurul raporu"
+  ],
+  "faq": [
+    {
+      "q": "Engelli raporum var, doğrudan malul sayılır mıyım?",
+      "a": "Hayır. Hastane engel oranı ile SGK maluliyet tespiti aynı şey değildir. SGK kendi sağlık kurulunun kararını esas alır."
+    },
+    {
+      "q": "Malullük aylığı alan biri tekrar çalışabilir mi?",
+      "a": "Çalışmaya başladığınızda aylığınız kesilir; ancak işten ayrılıp yeniden başvurduğunuzda **kontrol muayenesi** şartıyla aylık tekrar bağlanabilir."
+    },
+    {
+      "q": "Başkasının bakımına muhtaç olmak neyi değiştirir?",
+      "a": "Sigortalı başka birinin sürekli bakımına muhtaç ise tespit edilen aylık bağlama oranına ek artış uygulanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "emeklilik-sartlari",
+  "angle": "Maluliyet",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "tenkis-davasi-nedir",
+  "title": "Tenkis davası nasıl açılır — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Tenkis davası nasıl açılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
+  "h1": "Tenkis davası nasıl açılır?",
+  "keywords": [
+    "tenkis davası",
+    "saklı pay tenkis"
+  ],
+  "category": "Miras",
+  "related": [
+    "veraset-ilami-nasil-alinir",
+    "sakli-pay-nedir",
+    "vasiyetname-nasil-yapilir",
+    "miras-payi-nasil-hesaplanir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/veraset-ilami-nasil-alinir"
+    },
+    {
+      "label": "Miras",
+      "href": "/kategori/miras-hukuku"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/sakli-pay"
+    }
+  ],
+  "lead": "Saklı payınız zedelendiyse, mirasbırakanın yasal sınırları aşan kazandırmalarının indirimi için tenkis davası açabilirsiniz. Bu yol, hakkınız olan mirası korumanın hukuki çaresidir.",
+  "keyInsight": "Mirasbırakanın yaptığı kazandırmalar kanuni sınırları aştığında ve **saklı payınız** zarar gördüğünde dava hakkı doğar.",
+  "sections": [
+    {
+      "heading": "Saklı payınız ne zaman zedelenir?",
+      "paragraphs": [
+        "Mirasbırakan, mal varlığının bir kısmını hayattayken veya vasiyetnameyle başkalarına devredebilir. Ancak bu devirler, kanunun koruma altına aldığı **saklı payınızı** ihlal ediyorsa sorun başlar.",
+        "Yasal mirasçı olarak size kalması gereken asgari pay elinizden alınmışsa, aradaki farkın geri verilmesini isteme hakkına sahipsiniz. Tasarruf oranı aşılmamışsa bu dava açılamaz."
+      ],
+      "bullets": [
+        "Saklı payın karşılığının alınamamış olması gerekir.",
+        "Mirasbırakanın tasarruf sınırını aşması şarttır."
+      ]
+    },
+    {
+      "heading": "Kimler bu davayı açabilir?",
+      "paragraphs": [
+        "Saklı payı zedelenen her yasal mirasçı bu davanın tarafı olabilir. Payınızı alamadığınızı fark ettiğinizde mahkemenin kapısını çalabilirsiniz.",
+        "Eğer mirasçılıktan çıkarıldıysanız durum değişir. Mirasçılıktan çıkarılan kimse mirastan pay alamayacağı gibi **tenkis davası** da açamaz; ancak altsoyu belirli durumlarda saklı payını isteyebilir."
+      ],
+      "bullets": [
+        "Saklı payı zedelenen yasal mirasçılar",
+        "Şartları oluştuğunda alacaklılar veya iflâs idaresi"
+      ]
+    },
+    {
+      "heading": "Alacaklılar bu davayı açabilir mi?",
+      "paragraphs": [
+        "Mirasbırakanın yaptığı aşırı kazandırmalar yüzünden hakkınızı alamadığınız gibi, borçlarınız yüzünden alacaklılarınız da zor durumda kalabilir. Borç batağındaysanız ve **ödemeden aciz belgesi** elinizde varsa süreç farklı işler.",
+        "İhtar çekilmesine rağmen dava açmazsanız, alacaklılarınız veya iflâs idaresi alacaklarını tahsil etmek için gerekli oranda **tenkis davası** açma yetkisini kullanabilir."
+      ],
+      "bullets": [
+        "İflâs hâlinde iflâs dairesi",
+        "Ödemeden aciz belgesi bulunan alacaklılar"
+      ]
+    },
+    {
+      "heading": "Yanınızda hangi belgeler durmalı?",
+      "paragraphs": [
+        "Mahkemeye başvururken elinizdeki bütün delilleri ve miras ilişkisini gösteren evrakı bir arada tutmalısınız. Eksik evrak, telaşlı anınızda işinizi zorlaştırır.",
+        "Mirasçılık belgesi ve zedelenen payı gösteren tasarruflar dosyanın temelini oluşturur."
+      ],
+      "bullets": [
+        "Mirasçılık belgesi",
+        "Vasiyetname veya devir belgeleri",
+        "Aciz belgesi (varsa alacaklılar için)"
+      ]
+    }
+  ],
+  "steps": [
+    "Saklı payınızın ihlal edilip edilmediğini miras tablosu üzerinden tespit edin.",
+    "Mirasbırakanın yaptığı kazandırmaları ve tasarrufları listeleyin.",
+    "Alacaklı veya iflâs durumunuz varsa gerekli ihtar süreçlerini inceleyin.",
+    "Yetkili mahkemeye tenkis dilekçesini sunarak süreci başlatın."
+  ],
+  "documents": [
+    "Mirasçılık belgesi (veraset ilamı)",
+    "Vasiyetname veya bağışlama sözleşmeleri",
+    "Ödemeden aciz belgesi",
+    "Nüfus kayıt örnekleri"
+  ],
+  "faq": [
+    {
+      "q": "Mirasçılıktan çıkarılan kişi tenkis davası açabilir mi?",
+      "a": "Hayır, mirasçılıktan çıkarılan kimse mirastan pay alamayacağı gibi tenkis davası da açamaz."
+    },
+    {
+      "q": "Alacaklılar borçlu mirasçının yerine dava açabilir mi?",
+      "a": "Evet, ellerinde ödemeden aciz belgesi varsa ve ihtara rağmen dava açmıyorsanız, alacaklılar gerekli oranda dava açabilir."
+    },
+    {
+      "q": "Hangi mirasçılar bu davayı açma hakkına sahiptir?",
+      "a": "Saklı paylarının karşılığını alamayan yasal mirasçılar bu davanın alacaklısı konumundadır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "veraset-ilami-nasil-alinir",
+  "angle": "Tenkis",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

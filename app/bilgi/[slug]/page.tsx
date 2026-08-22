@@ -9,6 +9,7 @@ import {
   getRelatedArticles,
   getVatandasBySlug,
 } from '@/lib/vatandas-rehberi';
+import { getPublishedBySlug } from '@/lib/vatandas-rehberi/published';
 import { auditGuide } from '@/lib/content-quality.mjs';
 
 const SITE = 'https://www.avfethiguzel.com';
@@ -21,12 +22,15 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
-  const a = getVatandasBySlug(slug);
+  const published = getPublishedBySlug(slug);
+  const a = published || getVatandasBySlug(slug);
   if (!a) return { title: 'Rehber bulunamadı' };
 
   // Kalıp metin içeren rehber indekse verilmez; başlık ve açıklama da
-  // olmayan bir içeriği vaat etmemelidir.
-  const quality = auditGuide(a);
+  // olmayan bir içeriği vaat etmemelidir. Anlatı sürümü (Gemini) yayındadır.
+  const quality = published
+    ? { publishable: true as const, reason: undefined }
+    : auditGuide(a);
 
   const canonicalPath = a.canonicalPath || `/bilgi/${a.slug}`;
   const canonical = canonicalPath.startsWith('http')
@@ -61,11 +65,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function BilgiSlugPage({ params }: Props) {
   const { slug } = await params;
-  const article = getVatandasBySlug(slug);
+  const published = getPublishedBySlug(slug);
+  const article = published || getVatandasBySlug(slug);
   if (!article) notFound();
 
-  const quality = auditGuide(article);
-  const related = getRelatedArticles(slug, 5);
+  const quality = published
+    ? { publishable: true as const, reason: undefined }
+    : auditGuide(article);
+  const related = getRelatedArticles(slug, 5).map((r) => getPublishedBySlug(r.slug) || r);
 
   return (
     <div className="bg-cream min-h-screen">

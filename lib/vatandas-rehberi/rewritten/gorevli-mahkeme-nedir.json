@@ -1,0 +1,115 @@
+{
+  "slug": "gorevli-mahkeme-nedir",
+  "title": "Görevli mahkeme nasıl anlaşılır — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Görevli mahkeme nasıl anlaşılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
+  "h1": "Görevli mahkeme nasıl anlaşılır?",
+  "keywords": [
+    "görevli mahkeme",
+    "asliye hukuk sulh hukuk"
+  ],
+  "category": "Usul",
+  "related": [
+    "hukuk-davasi-nasil-acilir",
+    "yetkili-mahkeme-nedir",
+    "tuketici-hakem-heyeti"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/hukuk-davasi-nasil-acilir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=g%C3%B6rev"
+    }
+  ],
+  "lead": "Elinde bir dosya ile adliyenin kapısındasın, kime gideceğini bilemiyorsun. Yanlış kapıyı çalmak zaman kaybettirir, bu yüzden görevli mahkemeyi baştan doğru seçmelisin.",
+  "keyInsight": "Aksine bir düzenleme bulunmadıkça, malvarlığı ve şahıs varlığı davalarında **asliye hukuk mahkemesi** görevlidir.",
+  "sections": [
+    {
+      "heading": "Hangi kapıyı çalmalı?",
+      "paragraphs": [
+        "Dava açmadan önce elindeki uyuşmazlığın mahiyetini iyi tartman gerekir. Kanunlarda başka bir açıklık yoksa genel görevli mahkeme bellidir.",
+        "Değer veya miktara bakılmaksızın malvarlığı haklarına ilişkin davalar ile şahıs varlığı davalarında **asliye hukuk mahkemesi** yetki sahibidir."
+      ],
+      "bullets": [
+        "Malvarlığı hakları",
+        "Şahıs varlığı davaları",
+        "Genel görev kuralı"
+      ]
+    },
+    {
+      "heading": "Özel işlerde durum nedir?",
+      "paragraphs": [
+        "Her iş doğrudan asliye hukukta görülmez. Kanun bazı konuları çekişmesiz yargı işi olarak ayırmıştır.",
+        "Ergin kılınma, ad ve soyad değiştirilmesi gibi konular çekişmesiz yargı işleri arasında sayılır."
+      ],
+      "bullets": [
+        "Ad ve soyad değişikliği",
+        "Gaiplik kararları",
+        "Ergin kılınma işlemleri"
+      ]
+    },
+    {
+      "heading": "Hâkimin reddi ne demektir?",
+      "paragraphs": [
+        "Yargılamayı yapan hâkimin tarafsızlığından şüphe du situaciónlar olabilir. Bu durumda kanun belirli bir inceleme mekanizması öngörür.",
+        "Hâkimin reddi talebi, reddedilen hâkim katılmaksızın **mensup olduğu mahkeme** tarafından incelenir."
+      ],
+      "bullets": [
+        "Tarafsızlık şüphesi",
+        "Reddi istenen hâkimin katılmaması",
+        "İnceleme mercii"
+      ]
+    },
+    {
+      "heading": "Arabuluculuk ve şerh işlemleri",
+      "paragraphs": [
+        "Bazı uyuşmazlıklar mahkemeden önce arabuluculuk aşamasından geçer. Milletlerarası sulh anlaşmaları için de farklı bir kural vardır.",
+        "Uluslararası sulh anlaşmalarının yerine getirilmesi için **icra edilebilirlik şerhi** alınması zorunludur."
+      ],
+      "bullets": [
+        "Milletlerarası sulh anlaşmaları",
+        "İcra edilebilirlik şerhi",
+        "Asliye ticaret mahkemesi"
+      ]
+    }
+  ],
+  "steps": [
+    "Uyuşmazlık konusunun malvarlığına mı yoksa şahıs varlığına mı ait olduğunu tespit edin.",
+    "Kanunlarda bu dava için özel bir mahkeme işaret edilip edilmediğini kontrol edin.",
+    "Çekişmesiz yargı işlerinden biriyle karşı karşıyaysanız ilgili usul kurallarına bakın.",
+    "Hâkimin reddi gibi bir durum varsa yetkili merciye başvurun."
+  ],
+  "documents": [
+    "Dilekçe",
+    "Kimlik belgesi",
+    "Uyuşmazlığa ilişkin dayanak belgeler",
+    "Tebligat ve adres bilgileri"
+  ],
+  "faq": [
+    {
+      "q": "Hangi durumlarda asliye hukuk mahkemesi görevlidir?",
+      "a": "Kanunlarda aksine bir düzenleme bulunmadıkça, malvarlığı ve şahıs varlığı haklarına ilişkin tüm davalarda asliye hukuk mahkemesi görevlidir."
+    },
+    {
+      "q": "Hâkimin reddi talebini kim inceler?",
+      "a": "Reddi istenen hâkim katılmaksızın, o hâkimin mensup olduğu mahkeme talebi inceler."
+    },
+    {
+      "q": "Çekişmesiz yargı işleri neleri kapsar?",
+      "a": "Ergin kılınma, ad ve soyadın değiştirilmesi, gaiplik kararı ve kişisel durum sicilindeki düzeltmeler bu kapsamdadır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "hukuk-davasi-nasil-acilir",
+  "angle": "Görev",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

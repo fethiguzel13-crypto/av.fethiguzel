@@ -1,0 +1,112 @@
+{
+  "slug": "bagis-sozlesmesi",
+  "title": "Bağış sözleşmesi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Bağış sözleşmesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
+  "h1": "Bağış sözleşmesi",
+  "keywords": [
+    "bağış sözleşmesi",
+    "bagis sozlesmesi"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "temerrut-faizi-nedir",
+    "muris-muvazaasi",
+    "veraset-ve-intikal-vergisi",
+    "tapu-devri-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/temerrut-faizi-nedir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "Miras",
+      "href": "/kategori/miras-hukuku"
+    }
+  ],
+  "lead": "Elinizdeki bir malı veya parayı karşılıksız olarak bir başkasına vermeye karar verdiniz. Bu adım atılırken niyetin net olması ve sürecin hukuki tanımına uygun ilerlemesi ileride yaşanacak sürprizleri önler.",
+  "keyInsight": "Bağışlama sözleşmesi karşılıksız bir kazandırma taahhüdüdür; henüz elde edilmemiş hakların devri veya miras reddi bu kapsamda değerlendirilmez.",
+  "sections": [
+    {
+      "heading": "Karşılıksız kazandırma ne anlama gelir?",
+      "paragraphs": [
+        "Bir malvarlığından bir başkasına yapılan devir işleminin bağış sayılması için **karşılıksız** olması şarttır. Karşı taraftan herhangi bir menfaat beklenmeden bu adım atılır.",
+        "Henüz elinize geçmemiş bir haktan vazgeçmek ya da bir mirası reddetmek bu sözleşmenin konusu olamaz. Bu tür durumlar bağışlama hükmüne tabi tutulmaz."
+      ],
+      "bullets": [
+        "Karşılıksız olma şartı",
+        "Malvarlığından eksilme"
+      ]
+    },
+    {
+      "heading": "Ahlaki ödevler bu kapsama girer mi?",
+      "paragraphs": [
+        "Hayatta bazı yardımları toplumsal veya vicdani sorumluluk gereği yaparız. **Ahlaki bir ödevin** yerine getirilmesi hukuken bağışlama olarak kabul edilmez.",
+        "Bu ayrım, yapılan kazandırmanın hukuki sonucunu ve taraflar arasındaki borç ilişkisinin niteliğini doğrudan etkiler."
+      ],
+      "bullets": [
+        "Vicdani sorumluluklar",
+        "Toplumsal ödevler"
+      ]
+    },
+    {
+      "heading": "Sorumluluk anlaşmaları nasıl şekillenir?",
+      "paragraphs": [
+        "Borçlunun ağır kusurundan sorumlu olmayacağına dair önceden yapılan anlaşmalar **kesin olarak hükümsüzdür**. Hukuk sistemi bu konuda net bir duruş sergiler.",
+        "Uzmanlık gerektiren mesleklerde veya hizmet sözleşmelerinde hafif kusur sorumluluğunu ortadan kaldıran önsel anlaşmalar da aynı şekilde geçerlilik taşımaz."
+      ],
+      "bullets": [
+        "Ağır kusur yasağı",
+        "Hizmet sözleşmesi sınırları"
+      ]
+    },
+    {
+      "heading": "Borçtan kurtulma yolları nelerdir?",
+      "paragraphs": [
+        "Taraflar aralarındaki borcu ortadan kaldırmak için **ibra sözleşmesi** yolunu seçebilirler. Borcu doğuran işlem şekle bağlı olsa bile ibra için şekil şartı aranmaz.",
+        "Bu sayede taraflar karşılıklı irade beyanıyla mevcut bir borcu tamamen veya kısmen ortadan kaldırabilirler."
+      ],
+      "bullets": [
+        "Şekle bağlı olmama",
+        "Kısmi veya tam silme"
+      ]
+    }
+  ],
+  "steps": [
+    "Kazandırmanın konusunu ve kapsamını netleştirin.",
+    "Karşılıksız olma unsurunu gözden geçirin.",
+    "Ahlaki ödev mi yoksa bağış mı olduğunu ayırt edin.",
+    "İbra veya borç tasfiyesi gerekiyorsa tarafların iradesini birleştirin."
+  ],
+  "documents": [
+    "Tapu kayıt belgeleri",
+    "Banka dekontları ve transfer belgeleri",
+    "Yazılı sözleşme metinleri",
+    "İbra sözleşmesi"
+  ],
+  "faq": [
+    {
+      "q": "Her karşılıksız verme işlemi bağış mıdır?",
+      "a": "Hayır, ahlaki bir ödevin yerine getirilmesi veya henüz edinilmemiş haktan feragat bağış sayılmaz."
+    },
+    {
+      "q": "Miras reddi bağışlama sözleşmesiyle yapılabilir mi?",
+      "a": "Hayır, henüz edinilmemiş haktan feragat veya mirası reddetmek bağışlama tanımına girmez."
+    },
+    {
+      "q": "Ağır kusur için önceden anlaşma yapılabilir mi?",
+      "a": "Borçlunun ağır kusurundan sorumlu olmayacağına dair önceden yapılan anlaşmalar kesin olarak hükümsüzdür."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "temerrut-faizi-nedir",
+  "angle": "Bağış sözleşmesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

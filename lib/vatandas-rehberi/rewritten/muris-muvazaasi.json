@@ -1,0 +1,112 @@
+{
+  "slug": "muris-muvazaasi",
+  "title": "Muris Muvazaası ve Tapu İptal | Vatandaş Rehberi",
+  "description": "Muris muvazaası davası nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
+  "h1": "Muris muvazaası davası nedir?",
+  "keywords": [
+    "muris muvazaası",
+    "muris muvazaası tapu iptal"
+  ],
+  "category": "Miras",
+  "related": [
+    "veraset-ilami-nasil-alinir",
+    "tapu-iptal-tescil",
+    "sakli-pay-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/veraset-ilami-nasil-alinir"
+    },
+    {
+      "label": "Miras",
+      "href": "/kategori/miras-hukuku"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    }
+  ],
+  "lead": "Evdeki huzursuzluk büyüdü ve merhum babanızın sağda solda toprakları satıp durduğu söyleniyor. Tapuya gittiğinizde gayrimenkullerin diğer kardeşin üzerine yapıldığını görüyorsanız, ortada gerçek bir satış değil gizli bir miras kaçırma oyunu olabilir.",
+  "keyInsight": "Asıl tuzak, tapuda her şey usulüne uygun satış gibi görünürken arkadaki asıl amacın mirastan mal kaçırmak olmasıdır.",
+  "sections": [
+    {
+      "heading": "Gerçekten satış mı yoksa miras kaçırma mı?",
+      "paragraphs": [
+        "Babanız veya annenizin sağlığında sahip olduğu evi, tarlayı veya dükkanı sanki paranızı verip almış gibi bir çocuğuna veya üçüncü kişiye devretmesi sık rastlanan bir durumdur. Eğer ortada para dönmediyse ama tapuda satış gösterildiyse, bu işlem gizli bağıştır.",
+        "Mirasçılardan mal kaçırmak amacıyla yapılan bu hileli işlemler karşısında sessiz kalmak zorunda değilsiniz. Kanun, hakkı çiğnenen evlatların bu haksızlığı **mahkeme yoluyla** düzeltmesine imkan tanır."
+      ],
+      "bullets": [
+        "Tapuda satış gösterilmesi",
+        "Gerçekte para ödenmemesi",
+        "Diğer çocukların mirastan mahrum bırakılması"
+      ]
+    },
+    {
+      "heading": "Kimler bu davayı açabilir?",
+      "paragraphs": [
+        "Miras hakkı zedelenen her bir çocuk bu süreci başlatabilir. Diğer kardeşlerin rızası olmadan yapılan bu devirler, miras payınızı doğrudan etkiler.",
+        "Burada en önemli husus, yapılan devrin **muvazaalı** yani danışıklı olduğunu ispat etmektir. Merhumun gerçekten paraya ihtiyacı var mıydı, satılan gayrimenkulün bedeli ödendi mi gibi sorular davanın semrini belirler."
+      ],
+      "bullets": [
+        "Saklı pay sahibi olsun olmasın tüm mirasçılar",
+        "Hakkı ihlal edilen çocuklar"
+      ]
+    },
+    {
+      "heading": "Mahkemeden ne talep edilir?",
+      "paragraphs": [
+        "Hâkime giderek yapılan bu hileli tapu kaydının tamamen **iptal edilmesini** ve taşınmazın merhumun terekesine dönmesini istersiniz. Böylece mallar yeniden tüm mirasçıların ortak payına geçer.",
+        "Süreç sonunda tapu eski haline döndüğünde, miras payınız oranında hakkınızı resmi olarak alabilirsiniz."
+      ],
+      "bullets": [
+        "Tapu kaydının iptali",
+        "Miras parsellerinin paylaşımı"
+      ]
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "Bu davayı açarken elinizde ne kadar çok delil olursa işiniz o kadar kolaylaşır. Merhumun mal satmaya ihtiyacı olmadığını gösteren banka kayıtları veya tanık beyanları büyük önem taşır.",
+        "Tapu kayıtları, mirasçılık belgesi ve devrin yapıldığı dönemdeki ekonomik durumu gösterir her türlü bilgi dosyada yer almalıdır."
+      ],
+      "bullets": [
+        "Tapu senetleri",
+        "Mirasçılık belgesi"
+      ]
+    }
+  ],
+  "steps": [
+    "Mirasçılık belgesini alın.",
+    "Tapu müdürlüğünden devir evraklarını isteyin.",
+    "Banka hesap hareketlerini ve tanıkları belirleyin.",
+    "Asliye hukuk mahkemesine dilekçenizi verin."
+  ],
+  "documents": [
+    "Mirasçılık belgesi",
+    "Tapu kayıtları",
+    "Tanık listesi",
+    "Banka dekontları"
+  ],
+  "faq": [
+    {
+      "q": "Bu dava ne kadar sürede biter?",
+      "a": "Mahkemelerin iş yoğunluğuna ve dosyadaki delil durumuna göre süre değişiklik gösterir."
+    },
+    {
+      "q": "Bütün kardeşler davacı olmak zorunda mı?",
+      "a": "Hayır, hakkı çiğnenen her mirasçı tek başına bu davayı açabilir."
+    },
+    {
+      "q": "Satış yapıldığını sonradan öğrendim, ne yapmalıyım?",
+      "a": "Tapu kayıtlarını inceleyip devrin gerçek mahiyetini araştırarak hukuki süreci başlatabilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "veraset-ilami-nasil-alinir",
+  "angle": "Muris muvazaası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

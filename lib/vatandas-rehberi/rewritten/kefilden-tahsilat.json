@@ -1,0 +1,112 @@
+{
+  "slug": "kefilden-tahsilat",
+  "title": "Kefilden tahsilat — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Kefilden tahsilat hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
+  "h1": "Kefilden tahsilat",
+  "keywords": [
+    "kefilden tahsilat",
+    "kefilden tahsilat"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "temerrut-faizi-nedir",
+    "kefil-olursam-ne-olur",
+    "kefalet-sozlesmesi",
+    "icra-takibi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/temerrut-faizi-nedir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Borçlunuz ödemediğinde kapınızı çalan alacaklı karşısında kendinizi kefil koltuğunda bulabilirsiniz. Asıl soru, bu borcun sizden nasıl ve hangi şartlarda istenebileceğidir.",
+  "keyInsight": "Alacaklı, elindeki güvenceleri ve rehinleri kendi kusuruyla azaltır veya kaybederse, kefilin sorumluluğu da bu oranda düşer.",
+  "sections": [
+    {
+      "heading": "İmzayı attığınız an sorumluluk başlar",
+      "paragraphs": [
+        "Bir yakınınıza veya iş arkadaşınıza destek olmak için imza attığınızda, sadece kağıt üzerindeki bir yükümlülüğün altına girmezsiniz. Asıl borçlu ödeme yapmadığında, alacaklı doğrudan kapınızı çalabilir.",
+        "Bu süreçte unutulmaması gereken en önemli kural, **kefilin sorumluluğu** asıl borcun sınırlarıyla çizildiğidir. Borçlu ödemediği sürece alacaklı tüm taleplerini size yöneltebilir."
+      ],
+      "bullets": [
+        "İmza atılan sözleşmenin kapsamı önemlidir.",
+        "Asıl borçlu ödemezse takip size döner."
+      ]
+    },
+    {
+      "heading": "Alacaklının elindeki güvenceleri koruma zorunluluğu",
+      "paragraphs": [
+        "Alacaklı sadece sizden para istemez; aynı zamanda elindeki rehinleri ve diğer güvenceleri de korumak zorundadır. Eğer alacaklı, haklı bir sebep olmaksızın bu güvenceleri elinden çıkarırsa durum değişir.",
+        "Mevcut belgeleri veya rehinleri **ağır kusuruyla** kaybeden alacaklı, kefili bu borçtan kurtarmak zorunda kalabilir. Çünkü kefilin de kanunla korunan hakları ve dengeleri vardır."
+      ],
+      "bullets": [
+        "Rehinler ve güvenceler kefil zararına azaltılamaz.",
+        "Ağır kusur durumunda kefil borçtan kurtulabilir."
+      ]
+    },
+    {
+      "heading": "Ödeme yaptıktan sonra hakların size geçmesi",
+      "paragraphs": [
+        "Borcu siz ödemek zorunda kaldıysanız, süreç burada bitmez. Alacaklı, borcu ödeyen kefile bu borcu tahsil etmesine yarayabilecek tüm **belgeleri ve senetleri** teslim etmek zorundadır.",
+        "Ayrıca alacaklı, kefalet sırasında var olan veya sonradan sağlanan rehinleri de size devretmekle yükümlüdür. Böylece asıl borçluya rücu etme imkanınız doğar."
+      ],
+      "bullets": [
+        "Ödeme sonrası borç senetleri alınmalıdır.",
+        "Rehin hakları kefile devredilmelidir."
+      ]
+    },
+    {
+      "heading": "Tahsilat ve para işlemlerinde resmiyetin gücü",
+      "paragraphs": [
+        "İcra daireleri üzerinden yürüyen tahsilatlarda paranın eli kolu bellidir. Yapılacak her türlü nakdi ödeme doğrudan ilgili banka hesaplarına yatırılır ve kayıt altında tutulur.",
+        "Ödemelerin ve talimatların **kanuni sürelerde** banka hesaplarına aktarılması, sürecin şeffaf ilerlemesini sağlar. Bu aşamada kişisel elden ödemeler yerine resmi kanalları izlemek şarttır."
+      ],
+      "bullets": [
+        "Nakdi ödemeler banka hesabına yapılır.",
+        "İcra dairesi işlemleri resmi takip gerektirir."
+      ]
+    }
+  ],
+  "steps": [
+    "Sözleşmedeki kefalet türünü ve imzaladığınız şartları inceleyin.",
+    "Alacaklının elindeki rehin ve güvenceleri hukuka uygun koruyup korumadığını kontrol edin.",
+    "Ödeme yapmak zorunda kaldıysanız borç senetlerini ve belgeleri talep edin.",
+    "İcra veya resmi ödemeleri mutlaka ilgili banka hesapları üzerinden gerçekleştirin."
+  ],
+  "documents": [
+    "Kefalet sözleşmesi",
+    "Borç senetleri",
+    "Ödeme dekontları",
+    "İcra dairesi işlem belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "Asıl borçlu ödemezse doğrudan benden isteyebilirler mi?",
+      "a": "Evet, kefalet türüne bağlı olarak alacaklı doğrudan size başvurabilir ancak elindeki güvenceleri korumak zorundadır."
+    },
+    {
+      "q": "Alacaklı rehinleri kaybederse ne olur?",
+      "a": "Alacaklı ağır kusuruyla mevcut rehinleri veya güvenceleri elinden çıkarırsa, kefil borçtan tamamen kurtulabilir."
+    },
+    {
+      "q": "Borcu ödedikten sonra elimde hangi belgeler olmalı?",
+      "a": "Alacaklı, borcu ödeyen kefile tüm borç senetlerini teslim etmek ve gerekli bilgileri vermekle yükümlüdür."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "temerrut-faizi-nedir",
+  "angle": "Kefilden tahsilat",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "mesafeli-satis-cayma",
+  "title": "Mesafeli Satışta Cayma Hakkı | Vatandaş Rehberi",
+  "description": "Mesafeli satışta cayma nasıl kullanılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı…",
+  "h1": "Mesafeli satışta cayma nasıl kullanılır?",
+  "keywords": [
+    "cayma hakkı",
+    "mesafeli satış cayma",
+    "e-ticaret iade"
+  ],
+  "category": "Tüketici",
+  "related": [
+    "tuketici-hakem-heyeti",
+    "ayip-mal-iade",
+    "abonelik-iptali-tuketici"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tuketici-hakem-heyeti"
+    },
+    {
+      "label": "TKHK",
+      "href": "/kategori/tkhk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=cayma"
+    }
+  ],
+  "lead": "İnternetten aldığınız ürünü beğenmediğinizde, sebep göstermeden **on dört gün içinde** vazgeçebilirsiniz. Asıl mesele, bu süreyi ve bildirim şartlarını kaçırmamaktır.",
+  "keyInsight": "Cayma bildiriminin yasal süre içinde satıcıya yöneltilmiş olması yeterlidir, malın satıcıya fiilen ulaşması bu süreyi aşabilir.",
+  "sections": [
+    {
+      "heading": "İnternetten Alışverişte Cayma Hakkı Nasıl Başlar?",
+      "paragraphs": [
+        "Bilgisayar başında veya telefonda sipariş verdiniz, kargo kapınıza geldi. Paketi açtınız ancak ürün içinize sinmedi. Tüketicinin Korunması Hakkında Kanun uyarınca, mesafeli sözleşmelerde **herhangi bir gerekçe göstermeksizin** cayma hakkınız bulunur.",
+        "Sözleşme yapılmadan önce veya sipariş onaylanırken satıcı size açık bir bilgilendirme yapmak zorundadır. Bu bilgilendirmenin yapıldığını ispat etmek satıcıya kalır. Eğer bu bilgilendirme usulüne uygun yapılmazsa, **on dört günlük süreyle bağlı kalmazsınız** ve süreniz uzayabilir."
+      ],
+      "bullets": [
+        "Fiziki varlık olmaksızın kurulan sözleşmeler kapsamdadır.",
+        "Cezai şart ödenmeden vazgeçilebilir."
+      ]
+    },
+    {
+      "heading": "Süre Nasıl Hesaplanır ve Nereye Bildirilir?",
+      "paragraphs": [
+        "Cayma hakkını kullanmak için önünüzde **on dört günlük bir zaman dilimi** vardır. Bu süre mal satışlarında teslim anından itibaren işlemeye başlar. Süreyi geçirmemek adına en önemli kural, cayma kararının bu süre içinde satıcıya iletilmesidir.",
+        "Bildirimin yazılı şekilde veya kalıcı veri saklayıcısı ile yapılması gerekir. Bildirimi satıcıya yönelttiğiniz anda yasal yükümlülüğünüzü yerine getirmiş olursunuz."
+      ],
+      "bullets": [
+        "Süre teslim gününden itibaren başlar.",
+        "Yazılı bildirim şarttır."
+      ]
+    },
+    {
+      "heading": "Malı Kullanmak Cayma Hakkını Bitirir mi?",
+      "paragraphs": [
+        "Ürünü teslim aldınız ve kutusunu açtınız. Cayma süresi içinde malın **mutat kullanımı sebebiyle** meydana gelen değişiklik ve bozulmalardan sorumlu tutulamazsınız. Yani ürünü olağan şekilde incelemek hakkınızdır.",
+        "Ancak ürünün olağan inceleme sınırlarını aşan bir zarara uğraması durumunda süreç karmaşıklaşabilir. Temel kural, malı mağazada dener gibi özenli kullanmaktır."
+      ],
+      "bullets": [
+        "Mutat kullanım hak düşürmez.",
+        "Değişikliklerden tüketici sorumlu değildir."
+      ]
+    },
+    {
+      "heading": "Aracıların Rolü Nedir?",
+      "paragraphs": [
+        "Alışverişi doğrudan satıcıdan değil de bir pazar yeri, yani aracı hizmet sağlayıcı üzerinden yaptınız. Oluşturdukları sistem ile mesafeli sözleşmeye aracılık eden bu platformlar, hak ve yükümlülüklerin kullanım süresi boyunca tüketiciye karşı sorumluluk taşır.",
+        "Yaşanan bir uyuşmazlıkta muhatap sadece satıcı olmayabilir; sistemi kuran aracı kurum da bu zincirin içindedir."
+      ],
+      "bullets": [
+        "Aracı platformlar sistemsel sorumluluk taşır.",
+        "Haklar kullanım süresince korunur."
+      ]
+    }
+  ],
+  "steps": [
+    "Sözleşmenin internet veya telefon gibi uzaktan iletişim araçlarıyla yapıldığını doğrulayın.",
+    "14 günlük cayma süresini ürünün size teslim edildiği günden itibaren hesaplayın.",
+    "Cayma kararınızı net bir ifadeyle yazılı olarak satıcıya veya sağlayıcıya yöneltin.",
+    "Malı, mutat kullanım sınırları dışına çıkmadan özenli şekilde muhafaza edin.",
+    "İade kargo sürecini takip ederek satıcının talimatlarına uygun şekilde ürünü geri gönderin."
+  ],
+  "documents": [
+    "sipariş onay belgesi",
+    "fatura",
+    "cayma beyanı yazısı",
+    "kargo teslim fişi",
+    "satıcı ile yapılan yazışmalar"
+  ],
+  "faq": [
+    {
+      "q": "Cayma hakkını kullanmak için sebep bildirmek zorunda mıyım?",
+      "a": "Hayır, kanun açıkça herhangi bir gerekçe göstermeksizin cayabileceğinizi belirtir."
+    },
+    {
+      "q": "Kutuyu açtıysam iade edemez miyim?",
+      "a": "Paketi açmış olmanız cayma hakkınızı doğrudan bitirmez; önemli olan malı mutat kullanım sınırları içinde incelemiş olmanızdır."
+    },
+    {
+      "q": "Bilgilendirme yapılmazsa 14 günlük süre yanar mı?",
+      "a": "Satıcı cayma hakkı konusunda sizi gerektiği gibi bilgilendirmezse, on dört günlük süreyle bağlı kalmazsınız."
+    },
+    {
+      "q": "Bildirimi nereye ve nasıl göndermeliyim?",
+      "a": "Cayma niyetinizi gösteren bildirimi, yasal süresi içinde kalıcı veri saklayıcısı veya yazılı araçlarla satıcıya yöneltmelisiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tuketici-hakem-heyeti",
+  "angle": "14 gün cayma",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

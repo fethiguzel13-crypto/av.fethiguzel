@@ -1,0 +1,113 @@
+{
+  "slug": "gecikme-zammi-faizi",
+  "title": "Gecikme zammı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Gecikme zammı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata dan…",
+  "h1": "Gecikme zammı",
+  "keywords": [
+    "gecikme zammı",
+    "gecikme zammi faizi"
+  ],
+  "category": "Vergi",
+  "related": [
+    "kdv-nedir",
+    "vergi-borcu-yapislandirma",
+    "e-devlet-vergi-borcu",
+    "icra-takibi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kdv-nedir"
+    },
+    {
+      "label": "AATUHK",
+      "href": "/kategori/aatuhk"
+    },
+    {
+      "label": "Faiz",
+      "href": "/hesaplama/faiz"
+    }
+  ],
+  "lead": "Verginizi zamanında ödemediğinizde veya tarhiyat geçmiş dönemleri kapsadığında borca fer'i alacak olarak gecikme zammı ve faizi işler. Süreci kaçırmamak için bildirimleri ve yasal süreleri yakından takip etmelisiniz.",
+  "keyInsight": "İhbarnamenin tebliğ edildiği **otuz gün** içinde başvuru yapılmazsa veya ödeme planına uyulmazsa, tanınan indirim ve haklar tamamen ortadan kalkar.",
+  "sections": [
+    {
+      "heading": "Borç nasıl ve ne zaman kesinleşir?",
+      "paragraphs": [
+        "Vergi dairesi tarafından ikmalen, re'sen veya idarece tarh edilen vergiler size bildirimle ulaştığında süreç başlar. Normal vade tarihinden son yapılan tarhiyatın tahakkuk tarihine kadar olan dönem hesaplamaya dahil edilir.",
+        "Eğer tarhiyat dava konusu yapılmadan kesinleşirse, ilgili döneme ait normal vade tarihinden itibaren **gecikme zammı** işlemeye başlar."
+      ],
+      "bullets": [
+        "Normal vade tarihine dikkat edin",
+        "İhbarname tebliğini izleyin"
+      ]
+    },
+    {
+      "heading": "Ödeme süresi kaçırııldığında ne olur?",
+      "paragraphs": [
+        "Normal taksit zamanları geçtikten sonra tahakkuk eden geçmiş taksitler, tahakkuk tarihinden itibaren **bir ay içinde** ödenmelidir. Bu süre içinde ödeme yapılmazsa tahsilat işlemleri gecikme zammı ile birlikte yürütülür.",
+        "Ödeme yapılmadığı takdirde borç aslına eklenen fer'i alacaklar için icra ve takip süreçleri devreye girer."
+      ],
+      "bullets": [
+        "Bir aylık süreyi geçirmeyin",
+        "Tahsilat aşamasını takip edin"
+      ]
+    },
+    {
+      "heading": "İndirim ve uzlaşma imkanları nelerdir?",
+      "paragraphs": [
+        "Mükellef, tarh edilen vergi ve cezalar için ihbarnamenin tebliğ tarihinden itibaren **otuz gün** içinde ilgili vergi dairesine başvurabilir. Bu başvuru ile borcun vadesinde ödeneceği bildirilebilir.",
+        "Şartların sağlanması durumunda kesilen cezaların belirli oranlarında indirim uygulanabilir, ancak süreye uyulmaması halinde bu haktan yararlanılamaz."
+      ],
+      "bullets": [
+        "Otuz günlük başvuru süresi",
+        "Ceza indirim şartları"
+      ]
+    },
+    {
+      "heading": "Borçların ertelenmesi ve tecil koşulları",
+      "paragraphs": [
+        "Vergilerin vadesinde ödenmesi borçluyu çok zor duruma düşürecekse, yazılı başvuru ile borcun tecil edilmesi istenebilir. Bu durum belirli şartlara ve dönemsel sınırlamalara bağlıdır.",
+        "Başvuru sahibinin geçmiş dönem beyannamelerini zamanında vermiş olması ve borcun ödenmesinde hüsnüniyet sahibi bulunması aranan temel koşullar arasındadır."
+      ],
+      "bullets": [
+        "Yazılı tecil başvuru şartı",
+        "Geçmiş beyannamelere uyum"
+      ]
+    }
+  ],
+  "steps": [
+    "Vergi dairesinden gelen ihbarnameyi ve tebliğ tarihini kontrol edin.",
+    "Otuz günlük yasal başvuru süresini ajantinize not edin.",
+    "Borcu tek seferde ödeme imkanınız yoksa tecil veya taksitlendirme seçeneklerini değerlendirin.",
+    "Vergi dairesine giderek veya resmi sistemler üzerinden başvuru dilekçenizi verin.",
+    "Ödeme planına sadık kalarak süresi içinde ödemeleri gerçekleştirin."
+  ],
+  "documents": [
+    "Vergi ihbarnamesi",
+    "Dilekçe",
+    "Teminat belgeleri",
+    "Kimlik belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Gecikme zammı hangi tarihten itibaren hesaplanır?",
+      "a": "Normal vade tarihinden tarhiyatın tahakkuk tarihine veya yargı kararına kadar geçen süre için hesaplanır."
+    },
+    {
+      "q": "İhbarnamenin tebliğinden sonra ne kadar sürem var?",
+      "a": "İhbarnamenin tebliğ tarihinden itibaren otuz gün içinde ilgili vergi dairesine başvurmanız gerekir."
+    },
+    {
+      "q": "Borcumu ödeyemeyecek kadar zor durumdayım, ne yapmalıyım?",
+      "a": "Yazılı başvuru yaparak borcunuzun tecil edilmesini ve belirli şartlarla taksitlendirilmesini talep edebilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kdv-nedir",
+  "angle": "Gecikme zammı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

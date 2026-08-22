@@ -1,0 +1,106 @@
+{
+  "slug": "iflasin-ertelenmesi",
+  "title": "İflasın Ertelenmesi ve Konkordato | Vatandaş Rehberi",
+  "description": "İflas erteleme hâlâ var mı? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
+  "h1": "İflas erteleme hâlâ var mı?",
+  "keywords": [
+    "iflasın ertelenmesi",
+    "konkordato iflas farkı"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "konkordato-nedir",
+    "iflas-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-sirketler"
+    }
+  ],
+  "lead": "Şirketiniz borç batağında ve kapıya icra dayanmak üzere. Eskiden bilinen iflas erteleme mekanizması artık yürürlükte değil; yerine konkordato süreci işliyor.",
+  "keyInsight": "Eski iflas erteleme sistemi yürürlükten kalkmıştır; borçluların malvarlığını korumak için artık konkordato ve rehinli malların satışının ertelenmesi yolları aranır.",
+  "sections": [
+    {
+      "heading": "İflas erteleme durdu mu?",
+      "paragraphs": [
+        "Şirketler mali olarak çıkmaza girdiğinde geçmişte mahkemeden iflasın ertelenmesi talep edilirdi. Günümüz uygulamasında bu müessese yerini konkordato ve ilgili koruma tedbirlerine bırakmıştır.",
+        "Borçlu olunan **alacaklıları zarara sokmak** amacıyla mal kaçırmak veya mevcudu suni olarak azaltmak ağır cezai yaptırımlara yol açar."
+      ],
+      "bullets": [
+        "İflas erteleme talepleri artık kabul edilmez.",
+        "Süreç konkordato kurallarına göre yürütülür."
+      ]
+    },
+    {
+      "heading": "Konkordato ve rehinli mallar",
+      "paragraphs": [
+        "Borçlarını ödeyemeyen işletmeler için konkordato mühleti devreye girer. Bu süreçte rehinli malların muhafaza altına alınması ve satışı belirli şartlarla ertelenebilir.",
+        "Rehinle temin edilen alacağın konkordato talebinden önce doğmuş olması ve işleyen faizlerin durumu **ekonomik varlığın** korunması açısından titizlikle incelenir."
+      ],
+      "bullets": [
+        "Rehinli mal işletme faaliyetleri için zorunlu olmalıdır.",
+        "Paraya çevrilme durumunda ekonomik varlık tehlikeye düşmelidir."
+      ]
+    },
+    {
+      "heading": "Yanlış bilgi ve hileli işlemler",
+      "paragraphs": [
+        "Mahkemeden erteleme veya koruma kararı alırken sunulan bilgilerin gerçeği yansıtması hayati önem taşır. Yanlış bilgilerle elde edilen erteleme kararları kendiliğinden hükümsüz kalır.",
+        "Borçlunun servetindeki değişimler ve **malvarlığı hareketleri** alacaklıların şikayeti üzerine yargı mercileri tarafından denetlenir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Çek düzenleme yasakları ve cezalar",
+      "paragraphs": [
+        "Mali sıkıntılar sadece icra takiplerini değil, karşılıksız çıkan çekler nedeniyle verilen çek düzenleme ve çek hesabı açma yasaklarını da tetikler.",
+        "Yargılama aşamasında mahkeme koruma tedbiri olarak yasak kararı alabilir; ancak **etkin pişmanlık** hükümleri uygulanarak borç tamamen ödendiğinde bu yasaklar kaldırılabilir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Mali tablonuzu ve borç durumunuzu güncel verilerle inceleyin.",
+    "İflas erteleme yerine geçerli olan konkordato yollarını değerlendirin.",
+    "Rehinli mallar ve finansal kiralama sözleşmelerinin durumunu gözden geçirin.",
+    "Alacaklıları zarara sokacak varlık transferlerinden kesinlikle kaçının.",
+    "Borçları yasal faizleri ile ödeyerek yasal yasakların kaldırılması için başvurun."
+  ],
+  "documents": [
+    "Güncel bilançolar ve mali durum raporları",
+    "Rehinli mal ve finansal kiralama sözleşmeleri",
+    "Alacaklı listesi ve borç dökümleri",
+    "Banka ibraz belgeleri ve çek raporları"
+  ],
+  "faq": [
+    {
+      "q": "İflas erteleme hâlâ uygulanıyor mu?",
+      "a": "Hayır, eski iflas erteleme sistemi yürürlükten kalkmıştır; işletmeler borç yapılandırması için konkordato hükümlerine başvurur."
+    },
+    {
+      "q": "Rehinli malların satışı durdurulabilir mi?",
+      "a": "Borçlunun talebi ve malın işletme için zorunlu olduğunun ispatı halinde rehinli malların satışı belirli bir süreyle ertelenebilir."
+    },
+    {
+      "q": "Çek yasağı nasıl kaldırılır?",
+      "a": "Karşılıksız kalan çek bedeli yasal faiziyle tamamen ödendiğinde veya şikayetten vazgeçildiğinde mahkeme kararıyla yasak kaldırılabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Tarihçe / güncel",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "kacak-yapi-cezasi",
+  "title": "Kaçak yapı cezası nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Kaçak yapı cezası nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
+  "h1": "Kaçak yapı cezası nedir?",
+  "keywords": [
+    "kaçak yapı cezası",
+    "ruhsatsız yapı"
+  ],
+  "category": "İmar",
+  "related": [
+    "iskan-belgesi-nedir",
+    "idari-dava-nasil-acilir",
+    "kamulastirma-nedir",
+    "sit-alani-nedir",
+    "cevre-duzeni-plani",
+    "taks-nedir",
+    "iskan-basvurusu-belgeler",
+    "kacak-kat-cezasi",
+    "muhür-sokme-sucu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/iskan-belgesi-nedir"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    },
+    {
+      "label": "Belediye",
+      "href": "/kategori/belediye"
+    }
+  ],
+  "lead": "Ruhsatsız veya projeye aykırı yapı yapıldığında belediye veya valilik inşaatı mühürler ve para cezası keser. Süresinde düzeltilmezse bina yıktırılır.",
+  "keyInsight": "Yapı tatil tutanağının asılmasıyla tebligat yapılmış sayılır ve **en çok bir aylık** süre işlemeye başlar.",
+  "sections": [
+    {
+      "heading": "Nasıl tespit edilir?",
+      "paragraphs": [
+        "Belediye veya valilik ruhsatsız yapı yapıldığını öğrendiğinde olay yerine gider. O andaki inşaat durumu tutanakla tespit edilir ve yapı mühürlenerek inşaat derhal durdurulur.",
+        "Bu tespitin yapıldığına dair hazırlanan yapı tatil zaptı bina yerine asılır. Bu asılma işlemi yapı sahibine **tebligat** yerine geçer."
+      ],
+      "bullets": [
+        "İnşaat derhal mühürlenir",
+        "Tutanak yapı yerine asılır",
+        "Muhtara ve müdürlüğe bilgi verilir"
+      ]
+    },
+    {
+      "heading": "Tapuya işlenen şerh nedir?",
+      "paragraphs": [
+        "Yapının imar mevzuatına aykırı olduğu tespit edildiğinde durum tapu dairesine bildirilir. Bu bilgi tapu kayıtlarının beyanlar hanesine kaydedilir.",
+        "Aykırılık giderilmedikçe ve ilgili idareden bildirim gitmedikçe **tapudaki bu kayıt** kaldırılamaz."
+      ],
+      "bullets": [
+        "Tapunun beyanlar hanesine işlenir",
+        "Yazılı olarak bildirilir",
+        "Kayıt kendiliğinden silinmez"
+      ]
+    },
+    {
+      "heading": "İdari para cezası nasıl hesaplanır?",
+      "paragraphs": [
+        "İlgili idare encümeni aykırılığı tespit ettiği tarihten itibaren belirlenen süre içinde sorumlular hakkında idari para cezası uygular.",
+        "Cezalar bin Türk lirasından az olmamak üzere yapının sınıfına, metrekaresine, çevreye etkisine ve can emniyetine göre **ayrı ayrı** hesaplanır."
+      ],
+      "bullets": [
+        "Yapı sınıfına göre belirlenir",
+        "Metrekare başına hesaplanır",
+        "Yeniden değerleme oranına göre artırılır"
+      ]
+    },
+    {
+      "heading": "Yıkım süreci nasıl işletilir?",
+      "paragraphs": [
+        "Mühürleme işleminden sonra tanınan süre içinde yapı ruhsata uygun hale getirilmezse ruhsat iptal edilir. Encümen kararının ardından bina idare tarafından yıktırılır.",
+        "Yıkım masrafları **yapı sahibinden** tahsil edilir. Yıkım maliyetleri ilgili idare bütçesinden karşılanır."
+      ],
+      "bullets": [
+        "Ruhsat iptal edilir",
+        "Encümen kararıyla yıktırılır",
+        "Masraf sahibinden alınır"
+      ]
+    }
+  ],
+  "steps": [
+    "İnşaatın mühürlenmesi ve yapı tatil zaptının asılması",
+    "Durumun en geç yedi gün içinde tapuya bildirilmesi",
+    "Bir ay içinde ruhsat alarak veya uygun hale getirerek mühür kaldırma isteği",
+    "Encümen tarafından idari para cezası uygulanması",
+    "Sürede düzeltilmezse yıkım kararının alınması"
+  ],
+  "documents": [
+    "Yapı tatil zaptı",
+    "Tapu kayıt belgesi",
+    "Encümen kararı",
+    "Ruhsat ve proje evrakları"
+  ],
+  "faq": [
+    {
+      "q": "Mühürleme işlemi nasıl tebliğ edilmiş sayılır?",
+      "a": "Yapı tatil zaptının yapı yerine asılmasıyla yapı sahibine tebligat yapılmış sayılır."
+    },
+    {
+      "q": "Tapudaki aykırılık kaydı ne zaman silinir?",
+      "a": "Aykırılığın giderildiği ilgili idare tarafından tapu dairesine bildirildikten sonra kayıt kaldırılabilir."
+    },
+    {
+      "q": "Yıkım masrafları kime aittir?",
+      "a": "Yıkım masrafları tamamen yapı sahibinden tahsil edilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "iskan-belgesi-nedir",
+  "angle": "Kaçak yapı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

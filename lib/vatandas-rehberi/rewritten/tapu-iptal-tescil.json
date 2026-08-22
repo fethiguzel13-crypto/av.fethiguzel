@@ -1,0 +1,102 @@
+{
+  "slug": "tapu-iptal-tescil",
+  "title": "Tapu iptal tescil — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Tapu iptal tescil hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
+  "h1": "Tapu iptal tescil",
+  "keywords": [
+    "tapu iptal tescil",
+    "tapu iptal tescil"
+  ],
+  "category": "Eşya",
+  "related": [
+    "izale-i-suyu",
+    "tapu-devri-nasil-yapilir",
+    "veraset-ilami-nasil-alinir",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/izale-i-suyu"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    },
+    {
+      "label": "Miras",
+      "href": "/kategori/miras-hukuku"
+    }
+  ],
+  "lead": "Tapu kaydındaki haksız bir tescili düzeltmek için mahkemenin yolunu tutarsınız. Asıl hedef, mülkiyeti hak sahibine geri vermektir.",
+  "keyInsight": "Kütükteki yolsuz tescili düzeltmek için dayanak belgeler eksiksiz toplanmalıdır.",
+  "sections": [
+    {
+      "heading": "Tapuda hata nasıl fark edilir?",
+      "paragraphs": [
+        "Taşınmazınızın sicil sayfasında beklenmeyen bir değişiklik görürsünüz. Tapu kütüğü üzerindeki her işlem belirli kurallara bağlanmıştır. Yapılan bu kayıt, ancak kütükte hak sahibi olarak görünenlerin rızasıyla kütükten silinebilir.",
+        "Mülkiyet, irtifak hakları ve rehinler kütüğün özel sütunlarına tescil edilir. Eklentiler malikin isteğiyle beyanlar sütununa yazılır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İşlemler nasıl takip edilir?",
+      "paragraphs": [
+        "Tapu kütüğüne tescil istemleri, isteyenin kimliği ve istemin konusu belirtilerek istem sırasına göre derhâl yevmiye defterine yazılır. Bu işlemlerin dayanağı olan belgeler özenle sıraya konulup saklanır.",
+        "Birden çok bölgede bulunan taşınmazlar için tescil istemleri, taşınmazın büyük kısmının bulunduğu bölgede yapılır ve diğer bölgelere bildirilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kat mülkiyeti kurulurken ne aranır?",
+      "paragraphs": [
+        "Kat mülkiyeti ve kat irtifakı **resmî senetle** ve tapu siciline tescil ile doğar. Anagayrimenkulün tümü mülkiyete çevrilmeden yalnız bir bölümü üzerinde kat mülkiyeti kurulamaz.",
+        "Birden çok katı veya bölümü tek bağımsız bölüm olarak tescil ettirmek için değişiklik projesi ve yapı kullanma izin belgesinin Tapu Sicil Müdürlüğüne verilmiş olması gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Paydaşlar arasında anlaşmazlık çıkarsa ne olur?",
+      "paragraphs": [
+        "Bir arsa üzerinde yapı yaptırmak için bir araya gelen pay sahiplerinden kat irtifakına geçiş kararına uyulmaması hâlinde **sulh mahkemesi** devreye girer. Karara uymayan pay sahiplerinin gayrimenkuldeki paylarının iptali istenebilir.",
+        "Müşterek maliklerin çoğunluğunun kararına veya yükümlülüklere noterlikçe yapılan tebligata rağmen **iki ay** içinde uyulmamış olması şarttır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İptal sebebini belirleyin ve tapu kaydı ile dayanak senetleri toplayın.",
+    "Müşterek maliklerin kararına uyulmadıysa noterlikçe yapılan tebligat sürecini izleyin.",
+    "Kat irtifakına geçiş için **mahkeme veznesine** rayiç bedeli depo edin.",
+    "Asliye hukuk mahkemesinde iptal ve tescil davası açarak gerekli tedbirleri isteyin.",
+    "Mahkeme kararı kesinleştiğinde işlemleri tapu müdürlüğüne işletin."
+  ],
+  "documents": [
+    "tapu kaydı",
+    "satış veya bağış senetleri",
+    "veraset ilamı",
+    "değişiklik projesi",
+    "yapı kullanma izin belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Kat mülkiyeti nasıl kurulur?",
+      "a": "Kat mülkiyeti resmi senetle ve tapu siciline tescil ile doğar."
+    },
+    {
+      "q": "Tescil istemleri nereye kaydedilir?",
+      "a": "Tescil istemleri istem sırasına göre derhâl yevmiye defterine yazılır."
+    },
+    {
+      "q": "Görevli mahkeme hangisidir?",
+      "a": "Kat Mülkiyeti Kanunu'ndan doğacak uyuşmazlıklar sulh mahkemelerinde çözümlenir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "izale-i-suyu",
+  "angle": "Tapu iptal tescil",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

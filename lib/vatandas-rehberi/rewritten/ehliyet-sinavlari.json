@@ -1,0 +1,114 @@
+{
+  "slug": "ehliyet-sinavlari",
+  "title": "Ehliyet sınavları — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Ehliyet sınavları hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
+  "h1": "Ehliyet sınavları",
+  "keywords": [
+    "ehliyet sınavları",
+    "ehliyet sinavlari"
+  ],
+  "category": "Trafik",
+  "related": [
+    "ehliyet-alma-sartlari",
+    "ehliyet-geri-alma",
+    "tuketici-hakem-heyeti"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/ehliyet-alma-sartlari"
+    },
+    {
+      "label": "KTK",
+      "href": "/kategori/ktk"
+    },
+    {
+      "label": "TKHK",
+      "href": "/kategori/tkhk"
+    }
+  ],
+  "lead": "Ehliyet almak, sadece direksiyon başına geçmek değil, yasaların belirlediği eğitim ve sınav sürecini başarıyla tamamlamaktır. Bu süreçte hem teorik yeterliliğinizi hem de sürüş becerilerinizi kanıtlamanız gerekir.",
+  "keyInsight": "Sürücü belgesi alabilmek için gerekli şartlardan herhangi birinin eksik olduğu veya hileli yollarla temin edildiği tespit edilirse, belgeniz iptal edilir.",
+  "sections": [
+    {
+      "heading": "Hangi şartları taşımanız gerekiyor?",
+      "paragraphs": [
+        "Sürücü adayı olarak öncelikle temel kriterleri karşılamalısınız. Bunlar arasında yaş, deneyim, eğitim durumu ve sağlık şartları yer alır.",
+        "Ayrıca adli sicil kaydınızın temiz olması ve daha önce aynı sınıfta başka bir sürücü belgenizin bulunmaması gerekir."
+      ],
+      "bullets": [
+        "En az ilkokul düzeyinde eğitim almış olmak",
+        "İlgili yönetmelikte belirtilen sağlık şartlarını taşımak",
+        "Belirli suçlardan hüküm giymemiş olmak"
+      ]
+    },
+    {
+      "heading": "Eğitim ve sınav süreci nasıl işler?",
+      "paragraphs": [
+        "Sürücü kursları, teorik ve uygulamalı eğitimleri vermekle yükümlüdür. Kursa kaydolup eğitimleri tamamladıktan sonra sertifika sınavlarına girersiniz.",
+        "Sınavları başarıyla geçmek, motorlu taşıt sürücüsü sertifikası almanız için temel adımdır."
+      ],
+      "bullets": [
+        "Sürücü kursunda teorik eğitimleri tamamlamak",
+        "Uygulamalı sürüş eğitimini bitirmek",
+        "Sınavlarda başarılı olarak sertifika almak"
+      ]
+    },
+    {
+      "heading": "Belgeniz neden iptal edilebilir?",
+      "paragraphs": [
+        "Sürücü belgesi aldıktan sonra dahi, yasada belirtilen bazı suçlardan hüküm giymeniz durumunda belgeniz geri alınabilir.",
+        "Bu geri alma işlemi, gerekli şartlar tekrar sağlanıncaya kadar devam eder."
+      ],
+      "bullets": [
+        "Şartlardan birinin eksik olduğunun sonradan anlaşılması",
+        "Belgenin hileli yollarla temin edilmesi",
+        "Belirli suçlardan mahkûmiyet alınması"
+      ]
+    },
+    {
+      "heading": "Kursların sorumluluğu nedir?",
+      "paragraphs": [
+        "Sürücü kursları, Milli Eğitim Bakanlığı tarafından verilen izinle faaliyet gösterir. Kursların uyması gereken kurallar ve eğitim metotları yönetmeliklerle belirlenmiştir.",
+        "Eğer kurs yönetmelikteki şartlara uymazsa, mülki amirler tarafından idari yaptırımlar uygulanır."
+      ],
+      "bullets": [
+        "Eğitim ve öğretim şartlarına uymak",
+        "Yetkili kurumlarca belirlenen standartları korumak"
+      ]
+    }
+  ],
+  "steps": [
+    "İkamet ettiğiniz bölgedeki yetkili bir sürücü kursuna kaydınızı yaptırın.",
+    "Zorunlu teorik ve uygulamalı eğitim derslerine eksiksiz katılım sağlayın.",
+    "Düzenlenen teorik ve direksiyon sınavlarına girerek başarılı olun.",
+    "Sertifikanızı aldıktan sonra sürücü belgesi için gerekli başvuruyu yapın."
+  ],
+  "documents": [
+    "Öğrenim durumunu gösterir belge",
+    "Sağlık raporu",
+    "Adli sicil belgesi",
+    "Motorlu taşıt sürücüsü sertifikası"
+  ],
+  "faq": [
+    {
+      "q": "Sürücü belgesi şartlarından birini taşımadığım sonradan anlaşılırsa ne olur?",
+      "a": "Sürücü belgeniz, belgeyi vermeye yetkili kurum tarafından iptal edilir."
+    },
+    {
+      "q": "Daha önce geri alınan ehliyetimi nasıl geri alabilirim?",
+      "a": "Kanunda öngörülen şartları yerine getirerek ve gerekli prosedürleri tamamlayarak iade sürecini başlatabilirsiniz."
+    },
+    {
+      "q": "Kurslar denetleniyor mu?",
+      "a": "Evet, mülki idare amirleri veya Milli Eğitim Bakanlığı yetkilileri tarafından kursların şartlara uyumu denetlenir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "ehliyet-alma-sartlari",
+  "angle": "Ehliyet sınavları",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

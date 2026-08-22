@@ -1,0 +1,100 @@
+{
+  "slug": "is-kazasi-sonrasi-haklar",
+  "title": "İş Kazası Sonrası İşçi Hakları | Vatandaş Rehberi",
+  "description": "İş kazası sonrası haklarınız nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
+  "h1": "İş kazası sonrası haklarınız nelerdir?",
+  "keywords": [
+    "iş kazası sonrası haklar"
+  ],
+  "category": "İş",
+  "related": [
+    "is-kazasi-tazminati",
+    "is-kazasi-bildirimi",
+    "is-kazasi-maluliyet"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/is-kazasi-tazminati"
+    },
+    {
+      "label": "İSG",
+      "href": "/kategori/isg"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    }
+  ],
+  "lead": "Fabrikada veya şantiyede bir kazaya uğradınız. Telaş yapmayın; ilk adım olarak **sağlık yardımını** güvenceye alıp durumu resmi mercilere bildirmelisiniz.",
+  "keyInsight": "İş kazası geçirdiğinizde en önemli kural, tedavinizi yetkili hekim raporuyla belgelemek ve geçici iş göremezlik ödeneği hakkınızı takip etmektir.",
+  "sections": [
+    {
+      "heading": "Hemen Ne Yapmalı?",
+      "paragraphs": [
+        "Tezgah başında ya da sahada çalışırken kaza geldi mi başınıza, öncelik her zaman sizin sağlığınızdır. Olduğunuz yerde kalın, amirinize haber verin ve en kısa sürede **sağlık kuruluşuna** başvurun.",
+        "Doktor muayenesi sırasında olayın iş yerinde ve iş yürütümü sırasında geçtiğini net bir şekilde ifade edin. Sağlık hizmetlerinin finansmanı bu aşamada devreye girer."
+      ],
+      "bullets": [
+        "Hemen hekime başvurun",
+        "Olayı işverene bildirin"
+      ]
+    },
+    {
+      "heading": "Sağlık Hizmetleri Nasıl Karşılanır?",
+      "paragraphs": [
+        "Hastaneye gittiğinizde kurul veya yetkili hekim tarafından sağlık hizmetleri sağlanır. Sağlıklı kalmanız, hastalandığınızda iyileşmeniz için gereken tıbbi müdahale ve rehabilitasyon **finansman kapsamındadır**.",
+        "Ayakta veya yatarak yapılan tüm tetkik, tahlil ve tedaviler bu sürecin ayrılmaz bir parçasıdır. Masraflar için endişelenmeyin."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Geçici İş Göremezlik Ödeneği Alınır mı?",
+      "paragraphs": [
+        "Kazadan sonra çalışamayacak duruma geldiğinizde gelir kaybı yaşarsınız. Kurumca yetkilendirilen hekim veya sağlık kurullarından istirahat raporu aldığınızda **geçici iş göremezlik** ödeneği hakkınız doğar.",
+        "Bu ödenek, iş kazası nedeniyle iş göremezliğe uğrayan sigortalıya raporlu olduğu her gün için ödenir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Bildirim ve Soruşturma Süreci Nasıl İşler?",
+      "paragraphs": [
+        "Kazanın ardından iş yerinde gerekli incelemelerin yapılması gerekir. Benzer şekilde meslek hastalığı durumunda da tekrarlanan sebepler ve iş şartları yüzünden uğradığınız bedensel veya ruhsal engellilik halleri **soruşturulur**.",
+        "Bu süreçte hak kaybına uğramamak için raporlarınızı ve belgelerinizi eksiksiz saklamalısınız."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Sağlık kuruluşuna giderek muayene olun",
+    "İş kazası olduğunu hekime ve işverene bildirin",
+    "Yetkili hekimden istirahat raporu alın",
+    "Geçici iş göremezlik ödeneği için başvurun"
+  ],
+  "documents": [
+    "İstirahat raporu",
+    "Sağlık kurulu raporu",
+    "İş kazası tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "İş kazası geçirdiğimi doktora söylemeli miyim?",
+      "a": "Evet, kesinlikle belirtmelisiniz. Tedavinizin iş kazası kapsamında yürütülmesi ve rapor düzenlenmesi için bu şarttır."
+    },
+    {
+      "q": "Raporlu olduğum sürede maaş alabilecek miyim?",
+      "a": "Yetkili hekimden istirahat raporu aldığınızda, iş kazası nedeniyle geçici iş göremezlik ödeneği alma hakkınız doğar."
+    },
+    {
+      "q": "Hangi sağlık hizmetlerinden yararlanabilirim?",
+      "a": "Ayakta veya yatarak yapılan muayene, tetkik, tahlil, ameliyat ve rehabilitasyon gibi tüm tıbbi müdahaleler sağlanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "is-kazasi-tazminati",
+  "angle": "Hak listesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

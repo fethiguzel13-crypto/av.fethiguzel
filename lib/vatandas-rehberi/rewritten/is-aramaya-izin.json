@@ -1,0 +1,101 @@
+{
+  "slug": "is-aramaya-izin",
+  "title": "İş arama izni — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İş arama izni hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata dan…",
+  "h1": "İş arama izni",
+  "keywords": [
+    "iş arama izni",
+    "is aramaya izin"
+  ],
+  "category": "İş",
+  "related": [
+    "ibraname-nedir",
+    "ihbar-suresi-tablosu",
+    "is-sozlesmesi-feshi",
+    "issizlik-maasi-sartlari"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/ibraname-nedir"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=i%C5%9F%20arama"
+    }
+  ],
+  "lead": "İşten ayrılma süreci başladığında yeni bir iş bulabilmeniz için yasal olarak size çalışma saatleri içinde izin verilmesi gerekir. Bu hak, maaşınızdan kesinti yapılmadan ve çalışma saatleriniz içinde kullandırılmak zorundadır.",
+  "keyInsight": "**İş arama iznini toplu kullanmak istiyorsanız, bu talebinizi işten ayrılacağınız günden evvelki günlere denk getirmeniz ve işverene önceden bildirmeniz şarttır.**",
+  "sections": [
+    {
+      "heading": "İş arama izni nasıl başlar?",
+      "paragraphs": [
+        "İş sözleşmeniz sona ererken bildirim süreleri içinde işveren size yeni bir iş bulmanız için zaman tanımak zorundadır. Bu süreçte iş arama izni iş saatleri içinde verilir.",
+        "İşveren bu izni vermekten kaçınamaz ve bu süre zarfında ücretinizden herhangi bir kesinti yapamaz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Günlük süre ve toplu kullanım",
+      "paragraphs": [
+        "Yeni iş arama izninin süresi günde iki saatten az olamaz. Dilerseniz bu saatleri tek tek kullanmak yerine birleştirerek **toplu şekilde** kullanmayı tercih edebilirsiniz.",
+        "Toplu kullanım hakkını seçtiğinizde, bu günleri işten ayrılacağınız tarihten önceki günlere rastlatmanız ve durumu işverene önceden bildirmeniz gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İzin verilmezse ne olur?",
+      "paragraphs": [
+        "İşveren yeni iş arama iznini hiç vermez veya eksik kullandırırsa, kullanmadığınız o süreye ilişkin **ücretin size ayrıca ödenmesi** gerekir.",
+        "Eğer işveren izin süresi içinde sizi çalışmaya zorlarsa, normal ücretinize ek olarak çalıştırdığınız sürenin ücretini yüzde yüz zamlı ödemek zorundadır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreçte nelere dikkat etmeli?",
+      "paragraphs": [
+        "İş arama izinlerinin hangi gün ve saatlerde kullanılacağını netleştirmek ileride yaşanacak anlaşmazlıkların önüne geçer. Taleplerinizi yazılı olarak iletmek her iki taraf için de güvenli bir yoldur.",
+        "Bordrolarınızı düzenli kontrol ederek izin ücretlerinizin eksiksiz yansıtıldığından emin olun."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İhbar süresi içinde günlük en az iki saatlik iş arama izni hakkınızı öğrenin.",
+    "İzinleri toplu kullanmak istiyorsanız durumu işverene yazılı olarak bildirin.",
+    "Toplu kullanım günlerini işten ayrılacağınız tarihten önceki günlere denk getirin.",
+    "İzinler kullandırılmazsa ilgili süreye ait ücretin ödenmesini talep edin.",
+    "İzin sırasında çalıştırıldıysanız zamlı ücret hakkınızı takip edin."
+  ],
+  "documents": [
+    "fesih bildirimi",
+    "izin yazısı",
+    "bordro",
+    "yazılı talep dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "İş arama izni ücretimden kesilir mi?",
+      "a": "Hayır, iş arama izni süresince ücretinizden herhangi bir kesinti yapılamaz."
+    },
+    {
+      "q": "İş arama iznini birleştirip tek seferde kullanabilir miyim?",
+      "a": "Evet, isterseniz izin saatlerini birleştirerek toplu kullanabilirsiniz. Bunun için talebinizi işten ayrılacağınız günden evvelki günlere denk getirmeniz gerekir."
+    },
+    {
+      "q": "İşveren izin sırasında beni çalıştırırsa ne olur?",
+      "a": "İşveren izin süresinde sizi çalıştırırsa, izin kullanarak alacağınız ücrete ilaveten çalıştırdığı sürenin ücretini yüzde yüz zamlı ödemek zorundadır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "ibraname-nedir",
+  "angle": "İş arama izni",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

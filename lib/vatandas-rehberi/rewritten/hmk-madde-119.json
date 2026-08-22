@@ -1,0 +1,117 @@
+{
+  "slug": "hmk-madde-119",
+  "title": "HMK 119 Dava Dilekçesi — Özet | Vatandaş Rehberi",
+  "description": "HMK m.119 dava dilekçesi (özet) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
+  "h1": "HMK m.119 dava dilekçesi (özet)",
+  "keywords": [
+    "HMK 119 özet",
+    "dava dilekçesi unsurları özet"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "dilekce-nasil-yazilir",
+    "hukuk-davasi-nasil-acilir",
+    "hmk-nedir"
+  ],
+  "links": [
+    {
+      "label": "Tam madde metni + şerh",
+      "href": "/mevzuat/hmk/madde-119"
+    },
+    {
+      "label": "Kanun maddesi ara",
+      "href": "/ara"
+    },
+    {
+      "label": "HMK m.119",
+      "href": "/mevzuat/hmk/madde-119"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Mahkemenin kapısını çalarken yazdığınız dilekçe, derdinizi anlatmanın ötesinde uymanız gereken resmi kurallara tabidir. Eksik bir parça, hak arama yolculuğunuzun henüz başında kapanmasına yol açabilir.",
+  "keyInsight": "Mahkemenin adı, dava konusu, vakıaların sıra numarasıyla özeti, deliller ve hukuki sebepler eksikse hâkim **kesin süre** verir; bu sürede tamamlanmazsa dava açılmamış sayılır.",
+  "sections": [
+    {
+      "heading": "Dilekçede kimler ve nerede yazmalı?",
+      "paragraphs": [
+        "Mahkemeye sunduğunuz metin, tarafların kimliğini ve dosyanın mahiyetini net bir şekilde ortaya koymalıdır. Hangi kapıyı çaldığınızı göstermek için doğru mercii belirtmek ilk adımdır.",
+        "Tarafların adları, soyadları, adresleri ve **Türkiye Cumhuriyeti kimlik numarası** eksiksiz yazılmalıdır. Varsa kanuni temsilciler ile vekillerin bilgileri de bu alanda yerini alır."
+      ],
+      "bullets": [
+        "Mahkemenin adı",
+        "T.C. kimlik numarası",
+        "Adres ve iletişim bilgileri"
+      ]
+    },
+    {
+      "heading": "Olayı ve delilleri nasıl dizmelisiniz?",
+      "paragraphs": [
+        "Hakime meramınızı anlatırken dağınık cümleler kuramazsınız. İddialarınızı mantıklı bir süzgeçten geçirmeniz beklenir.",
+        "İddianızın dayanağı olan bütün vakıalar **sıra numarası altında** açıkça özetlenmelidir. Hangi iddianın hangi delille ispat edileceği de metne açıkça yazılmalıdır."
+      ],
+      "bullets": [
+        "Sıralı vakıa özetleri",
+        "Delil eşleştirmesi"
+      ]
+    },
+    {
+      "heading": "Hukuki dayanak ve talep nasıl kurulur?",
+      "paragraphs": [
+        "Olayı anlattıktan sonra kanunun bu duruma ne dediğini ve mahkemeden tam olarak ne istediğinizi belirtmeniz şarttır.",
+        "Dayanılan hukuki sebepler gösterilmeli ve mahkemeden **açık bir talep sonucu** talep edilmelidir. Ne istediğiniz belirsiz bırakılamaz."
+      ],
+      "bullets": [
+        "Hukuki sebepler",
+        "Net talep sonucu"
+      ]
+    },
+    {
+      "heading": "İmza ve eksikliklerin cezası nedir?",
+      "paragraphs": [
+        "Metnin sonuna gelindiğinde geçerlilik kazanması için imza unsuru ve eksikliklerin tamamlanması kuralı devreye girer.",
+        "Davacının, yasal temsilcisinin veya vekilinin **imzası** mutlaka yer almalıdır. Bazı eksiklikler için hakim tarafından süre tanınır."
+      ],
+      "bullets": [
+        "Islak imza",
+        "Süre takibi"
+      ]
+    }
+  ],
+  "steps": [
+    "Mahkemenin adını ve dosya taraflarının kimlik ile adres bilgilerini eksiksiz yazın.",
+    "Malvarlığı hakları söz konusu ise dava konusunun değerini belirtin.",
+    "İddianızın dayandığı vakıaları sıra numarası vererek sırayla özetleyin.",
+    "Her bir vakıanın hangi delille ispat edileceğini ve hukuki sebepleri yazın.",
+    "Mahkemeden ne talep ettiğinizi açıkça ifade edip dilekçenizi imzalayın."
+  ],
+  "documents": [
+    "Dava dilekçesi",
+    "T.C. kimlik numarası bilgisi",
+    "Delil listesi",
+    "Vekaletname (varsa)"
+  ],
+  "faq": [
+    {
+      "q": "Kimlik numaramı yazmayı unutursam ne olur?",
+      "a": "Kimlik numarası eksikliği kanunda belirtilen istisnai unsurlar arasında yer almadığından, hakim tarafından tamamlanması için süre verilebilir."
+    },
+    {
+      "q": "Hangi eksiklikler davanın açılmamış sayılmasına yol açar?",
+      "a": "Mahkemenin adı, dava konusunun değeri, vakıaların sıra numarası altında özeti, deliller ve hukuki sebeplerin eksik olması halinde hakim bir haftalık kesin süre verir; sürede tamamlanmazsa dava açılmamış sayılır."
+    },
+    {
+      "q": "İmza eksik olursa dilekçe geçerli olur mu?",
+      "a": "Dilekçede davacının, temsilcinin veya vekilin imzası bulunmalıdır; imza eksikliği sürecin ilerlemesini engeller."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "bridge",
+  "angle": "Dava dilekçesi unsurları özeti",
+  "canonicalPath": "/mevzuat/hmk/madde-119",
+  "sitemapPriority": 0.45,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "yemin-delili",
+  "title": "Yemin delili — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Yemin delili hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
+  "h1": "Yemin delili",
+  "keywords": [
+    "yemin delili",
+    "yemin delili"
+  ],
+  "category": "Usul",
+  "related": [
+    "zamanaşimi-nedir",
+    "kesin-delil-nedir",
+    "delil-baslangici-nedir",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/zamanaşimi-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=yemin"
+    }
+  ],
+  "lead": "Mahkemede elinizdeki belgeler tükenip de hakime \"başka delilim kalmadı\" dediğinizde, karşı tarafa yemin teklif etme hakkınız doğar. Yemin, son çare olarak başvurulan ağır ve bağlayıcı bir yoldur.",
+  "keyInsight": "Karşı taraf yemini kabul edip hazır olduğunu bildirdiği anda, artık o tekliften cayamaz ve **yeni bir delil** gösteremezsiniz.",
+  "sections": [
+    {
+      "heading": "Yemin delili ne zaman akla gelir?",
+      "paragraphs": [
+        "Mahkeme salonundasınız. İddianızı ispat etmek için elinizdeki senet, tanık veya diğer yolları tükettiniz. Hukuk size başka deliliniz kalmasa bile **yemin teklif etme** imkânı tanır. Başka bir deyişle, davanın kaderini rakibin vicdanına ve vereceği son söze bırakma aşamasına gelmiş olursunuz.",
+        "Ancak bu yol sıradan bir hamle değildir. Hakime başka deliliniz olduğunu söyleseniz dahi yemin yolunu seçebilirsiniz. Fakat kuralı unutmamak gerekir; ispat hakkınızı kanunda belirtilen usul ve süreye uygun **kullanmak zorundasınız**.",
+        "Mahkemeler hukuka aykırı yollarla elde edilmiş delilleri zaten dikkate almaz. Kanun bazı konuların mutlaka belirli delillerle ispatını emreder. Bu tür durumlarda başka yollara sapamazsınız ve hâkim hangi delilin caiz olup olmadığını tek tek denetler."
+      ],
+      "bullets": [
+        "İspat yükü ve sınırları kanunla çizilmiştir.",
+        "Hukuka aykırı deliller dosyadan ayıklanır.",
+        "Yemin en son çare olarak masaya gelir."
+      ]
+    },
+    {
+      "heading": "Teklifi yaparken hangi tuzağa düşmemelisiniz?",
+      "paragraphs": [
+        "Diyelim ki yemin teklifinde bulundunuz. Karşı taraf da duruşmada veya yazılı olarak \"ben bu yemini etmeye hazırım\" dedi. İşte kilit eşik burasıdır. Karşı taraf hazır olduğunu bildirdiği anda, sizin açınızdan geri dönüş kapısı kapanır.",
+        "Artık teklifinizden vazgeçip \"vazgeçtim, şuraya bir tanık daha yazdırayım\" diyemezsiniz. Mahkemeye **yeni bir delil** sunma şansınız ortadan kalkar. Bu yüzden yemin teklifini yapmadan önce elinizdeki tüm alternatifleri çok iyi tartmalısınız.",
+        "Yargılamayı uzatmak amacıyla sonradan delil getirmek kural olarak yasaktır. Hâkim, geciktirme amacı taşımayan veya sizin kusurunuzdan kaynaklanmayan haklı durumlarda sonradan delil gösterilmesine istisnai olarak izin verebilir."
+      ],
+      "bullets": [
+        "Karşı taraf hazır dediğinde dönüş yoktur.",
+        "Yargılamayı uzatmak için delil sunulamaz.",
+        "Kusursuzluk ve geciktirmeme şartı aranır."
+      ]
+    },
+    {
+      "heading": "Mahkemeden gelen zarfa nasıl dikkat etmeli?",
+      "paragraphs": [
+        "Size mahkemeden bir evrak geldiğinde işin rengi değişir. Kanuna göre çıkarılacak evraklar tebliğ mazbatalı kapalı zarf içinde adresinize gönderilir. Bu zarf resmi yazışmanın güvenliği için şarttır.",
+        "Özellikle duruşma davetiyeleri, basit usul yargılama davetiyeleri ve **yemin davetiyesi** gibi kritik belgeler bu zarfın içinde size ulaşır. Gelen kâğıdı dikkatle incelemek, usulüne uygun hareket etmek hak kaybını önler."
+      ],
+      "bullets": [
+        "Evraklar kapalı ve mazbatalı zarfla gelir.",
+        "Yemin davetiyesi bu usulle tebliğ edilir."
+      ]
+    },
+    {
+      "heading": "Yargı yolunda usul kuralları neden katıdır?",
+      "paragraphs": [
+        "Hukuk yargılamasında her işlemin bir sırası vardır. Taraflar kanunda yazılı süreyi geçirdikten sonra serbestçe delil sunamaz. İspat hakkı sınırsız bir alan değil, sıkı kurallara bağlanmış bir süreçtir.",
+        "Yemin delili de bu sıkı usulün bir parçasıdır. Karşı tarafın yemin etmesi ya da etmemesi davanın sonucunu doğrudan etkiler. Bu yüzden fevri hareket etmek yerine, dosyadaki delil durumunu iyi okumak gerekir."
+      ],
+      "bullets": [
+        "Süreler ve usuller kesiniktir.",
+        "Hakkın kullanımı kurallara tabidir."
+      ]
+    }
+  ],
+  "steps": [
+    "Dosyadaki mevcut delillerinizi ve eksik kalan yönleri gözden geçirin.",
+    "Başka delil kalmadıysa yemin teklif etme kararını netleştirin.",
+    "Mahkemeye yemin teklifinizi usulüne uygun şekilde bildirin.",
+    "Karşı tarafın yemini kabul edip etmeyeceğini bekleyin.",
+    "Karşı taraf hazır olduğunu söylediğinde yeni delil sunamayacağınızı unutmayın."
+  ],
+  "documents": [
+    "Tebliğ mazbatalı kapalı zarf",
+    "Yemin davetiyesi",
+    "Dava ve cevap dilekçeleri",
+    "Delil listesi"
+  ],
+  "faq": [
+    {
+      "q": "Yemin teklif ettikten sonra vazgeçebilir miyim?",
+      "a": "Karşı taraf yemini edaya hazır olduğunu bildirdikten sonra teklifinizden vazgeçemez ve yeni delil gösteremezsiniz."
+    },
+    {
+      "q": "Başka delilim varken yemin teklif edebilir miyim?",
+      "a": "Evet, uyuşmazlık konusu vakıanın ispatı için başka delili olduğunu beyan etmiş olan taraf dahi yemin teklif edebilir."
+    },
+    {
+      "q": "Süresi geçtikten sonra mahkemeye yeni delil sunabilir miyim?",
+      "a": "Kanunda belirtilen süreden sonra delil gösterilemez; ancak geciktirme amacı taşımıyor ve kusurunuz yoksa hâkim izin verebilir."
+    },
+    {
+      "q": "Yemin davetiyesi nasıl gönderilir?",
+      "a": "Yemin davetiyesi, tebliğ mazbatalı kapalı zarf içinde veya kanundaki usullere uygun olarak size ulaştırılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "zamanaşimi-nedir",
+  "angle": "Yemin delili",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

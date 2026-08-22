@@ -1,0 +1,120 @@
+{
+  "slug": "abonelik-iptali-tuketici",
+  "title": "Abonelik İptali Tüketici Hakları | Vatandaş Rehberi",
+  "description": "Abonelik iptali nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
+  "h1": "Abonelik iptali nasıl yapılır?",
+  "keywords": [
+    "abonelik iptali",
+    "internet abonelik iptali"
+  ],
+  "category": "Tüketici",
+  "related": [
+    "tuketici-hakem-heyeti",
+    "hukuk-davasi-nasil-acilir",
+    "ayip-mal-iade",
+    "ayip-bildirim-suresi",
+    "mesafeli-sozlesme-yonetmelik",
+    "e-devlet-tuketici",
+    "tuketici-arabuluculuk"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tuketici-hakem-heyeti"
+    },
+    {
+      "label": "TKHK",
+      "href": "/kategori/tkhk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=t%C3%BCketici"
+    }
+  ],
+  "lead": "Aboneliğinizi bitirmek istediğinizde şirketler işi yokuşa sürebilir ancak **istediğiniz zaman** fesih hakkına sahipsiniz. Süreci doğru kanaldan yürütmek ve yazılı iz bırakmak tüm paranızı korumanızı sağlar.",
+  "keyInsight": "Aboneliği iptal etmek için kullanılan yöntemden daha ağır koşullar içeren bir fesih yöntemi asla öne sürülemez.",
+  "sections": [
+    {
+      "heading": "Hangi sözleşmeler nasıl biter?",
+      "paragraphs": [
+        "Telefonunuza gelen faturalar, evdeki internet veya düzenli aldığınız bir hizmet için imzaladığınız kağıtlar önünüzde duruyor. Belirsiz süreli veya süresi bir yıldan uzun olan sözleşmelerde **herhangi bir gerekçe göstermeksizin** ayrılma hakkınız var.",
+        "Satıcı taraf sözleşme koşullarında değişiklik yaparsa yine fesih hakkı doğar. Önemli olan bu isteği kağıt üzerinde veya kalıcı veri saklayıcısı ile karşı tarafa ulaştırmaktır."
+      ],
+      "bullets": [
+        "Gerekçe gösterme zorunluluğu yoktur.",
+        "Cezai şart ödenmeden fesih mümkündür."
+      ]
+    },
+    {
+      "heading": "İptal talebi nasıl iletilir?",
+      "paragraphs": [
+        "İnternetten veya yazılı kurulan aboneliklerde bildirim yöneltmek yeterlidir. Şirketler aboneliği başlatırken hangi kolaylığı sağladıysa, iptal ederken de **daha ağır koşullar** sunamazlar.",
+        "Sözlü olarak yapılan telefon görüşmeleri kaybolabilir; bu yüzden talebinizin kâğıt üzerinde ya da kalıcı veri saklayıcısıyla yapılması en güvenli yoldur."
+      ],
+      "bullets": [
+        "Aynı kolaylıkta iptal sistemi kurulmalıdır.",
+        "Kalıcı veri saklayıcısı kullanılmalıdır."
+      ]
+    },
+    {
+      "heading": "Ücretler ve iadeler ne zaman döner?",
+      "paragraphs": [
+        "Talebiniz ulaştıktan sonra aboneliğin belirlenen süreler içinde sona erdirilmesi şarttır. Bu süreler geçtikten sonra hizmetten yararlanmış olsanız dahi **herhangi bir bedel** talep edilemez.",
+        "Ödenmiş olan ücretin kullanılmayan kısmının kesinti yapılmaksızın iadesi için yasal süre işlemeye başlar. Şirket bu parayı zamanında geri ödemek zorundadır."
+      ],
+      "bullets": [
+        "Süre bittikten sonra ücret alınamaz.",
+        "Kalan kısım kesintisiz iade edilir."
+      ]
+    },
+    {
+      "heading": "Uyuşmazlık çıkarsa nereye gidilir?",
+      "paragraphs": [
+        "İptal etmeyen veya haksız kesinti yapan firmalarla anlaşamazsanız çözüm yolları bellidir. Tüketici hakem heyeti kararları tarafları bağlar ve bu süreçte vekâlet ücreti ödenmesine karar verilemez.",
+        "Çıkan kararlara karşı tebliğ tarihinden itibaren **iki hafta içinde** tüketici mahkemesine itiraz edilebilir. İtiraz süresini kaçırmamak hak kaybını önler."
+      ],
+      "bullets": [
+        "Hakem heyeti kararları bağlayıcıdır.",
+        "İki hafta içinde mahkemeye itiraz edilebilir."
+      ]
+    }
+  ],
+  "steps": [
+    "Sözleşme, taahhüt ve fatura dönemini çıkarın.",
+    "İptal talebini yazılı veya kayıtlı kanaldan gönderin.",
+    "Cayma veya haklı fesih süresini kontrol edin.",
+    "Cihaz veya kampanya cezası varsa belgelendirilmiş mi bakın.",
+    "Sonuç yoksa hakem heyeti veya tüketici mahkemesine gidin."
+  ],
+  "documents": [
+    "sözleşme",
+    "taahhüt formu",
+    "iptal yazısı",
+    "faturalar"
+  ],
+  "faq": [
+    {
+      "q": "Telefonla arayıp aboneliği iptal edebilir miyim?",
+      "a": "Bildirimin kalıcı veri saklayıcısı veya kâğıt üzerinde yapılması ispat açısından en güvenlisidir."
+    },
+    {
+      "q": "İptal işleminden sonra fazladan fatura gelir mi?",
+      "a": "Aboneliğin belirlenen süre içinde sona erdirilmediği durumlarda, bu sürelerin bitiminden itibaren bedel talep edilemez."
+    },
+    {
+      "q": "Ödediğim paranın kalanını geri alabilir miyim?",
+      "a": "Fesih bildiriminin hüküm ifade etmesinden itibaren belirli süre içinde ödenmiş ücretin kalan kısmı kesintisiz iade edilir."
+    },
+    {
+      "q": "Hakem heyeti kararına nasıl itiraz edilir?",
+      "a": "Kararın tebliğ tarihinden itibaren iki hafta içinde tüketici mahkemesine itiraz edilebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tuketici-hakem-heyeti",
+  "angle": "Abonelik iptali",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

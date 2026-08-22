@@ -1,0 +1,112 @@
+{
+  "slug": "kredi-notu-nedir",
+  "title": "Kredi notu — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Kredi notu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "Kredi notu",
+  "keywords": [
+    "kredi notu",
+    "kredi notu nedir"
+  ],
+  "category": "Tüketici",
+  "related": [
+    "kredi-karti-itiraz",
+    "kredi-borcu-yapislandirma",
+    "icra-takibi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kredi-karti-itiraz"
+    },
+    {
+      "label": "TKHK",
+      "href": "/kategori/tkhk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=kredi"
+    }
+  ],
+  "lead": "Bankaya gidip kredi başvurusunda bulundunuz ve reddedildiniz. Asıl mesele, finans geçmişinizin bankalarca nasıl okunduğudur.",
+  "keyInsight": "Kredi notu, geçmiş borç ödeme alışkanlıklarınızın bankalara sunduğu bir aynadır.",
+  "sections": [
+    {
+      "heading": "Kredi notu neden düşer?",
+      "paragraphs": [
+        "Geçmişte kullandığınız bir krediyi veya kredi kartı borcunu zamanında ödemediğinizde sistem bunu kaydeder. Ödemelerdeki gecikmeler finansal güvenilirliğinizi zedeler.",
+        "Sürekli kredi başvurusu yapmak da notunuzu olumsuz etkileyebilir. Bankalar her başvuruyu risk olarak değerlendirir."
+      ],
+      "bullets": [
+        "Geciken taksitler",
+        "Yoğun başvuru trafiği"
+      ]
+    },
+    {
+      "heading": "Kredi sözleşmesi nasıl yapılır?",
+      "paragraphs": [
+        "Bankadan finansman desteği alırken karşınıza **yazılı veya mesafeli** sözleşme geçerlilik şartı çıkar. Sözleşme yapılmadan atılan adımlar hukuki risk doğurur.",
+        "Banka, teklif ettiği koşulları içeren formu size önceden vermek zorundadır. Sürpriz masraflarla karşılaşmamak için bu aşama kritiktir."
+      ],
+      "bullets": [
+        "Yazılı şekil şartı",
+        "Ön bilgilendirme formu"
+      ]
+    },
+    {
+      "heading": "Süreci durdurma hakkınız var mıdır?",
+      "paragraphs": [
+        "İmzayı attınız ancak pişman oldunuz. **Herhangi bir gerekçe göstermeksizin** krediden vazgeçme şansınız mevcuttur.",
+        "Bu hakkı kullanırken cezai şart ödemezsiniz. Sadece kullanılan günlerin faizini ve resmi masrafları yerine koymanız beklenir."
+      ],
+      "bullets": [
+        "Gerekçe gösterme zorunluluğu yok",
+        "Cezai şart ödenmez"
+      ]
+    },
+    {
+      "heading": "Yanlış giden bir şey olursa ne yapmalı?",
+      "paragraphs": [
+        "Bankalarla yaşanan uyuşmazlıklarda adımlarınızı kayda geçirmelisiniz. Sözlü konuşmaların ispatı güçtür.",
+        "Hak arama yolunda **bildirimi zamanında yöneltmek** en önemli kuraldır. Süreçleri kaçırmak hak kaybına yol açar."
+      ],
+      "bullets": [
+        "Yazılı bildirim şartı",
+        "Zamanında hareket"
+      ]
+    }
+  ],
+  "steps": [
+    "Kredi sözleşmesi öncesi bilgi formunu detaylıca okuyun.",
+    "Cayma hakkınızı kullanacaksanız bildiriminizi süresi içinde bankaya yöneltin.",
+    "Kullanılan anapara ve işleyen faizi ilgili sürede geri ödeyin.",
+    "Ödemesiz ve gecikmeli borçlarınızı kapatarak finansal geçmişinizi temizleyin.",
+    "Yeni başvurularda seçici olun ve gereksiz kredi arayışından kaçının."
+  ],
+  "documents": [
+    "Kredi sözleşmesi",
+    "Sözleşme öncesi bilgi formu",
+    "Cayma bildirim dilekçesi",
+    "Ödeme dekontları"
+  ],
+  "faq": [
+    {
+      "q": "Kredi kartı borçları kredi sayılır mı?",
+      "a": "Ödemenin belirli bir süreden uzun ertelenmesi veya taksitlendirilmesi hâlinde kredi sözleşmesi hükmü uygulanır."
+    },
+    {
+      "q": "Krediden vazgeçersem masraf öder miyim?",
+      "a": "Kamu kurumlarına veya üçüncü kişilere ödenmiş masraflar ile kullanılan günlerin faizi haricinde ek bedel talep edilemez."
+    },
+    {
+      "q": "Kredi emri yazılı olmak zorunda mı?",
+      "a": "Evet, kredi emri yazılı olmadıkça emri veren sorumlu olmaz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kredi-karti-itiraz",
+  "angle": "Kredi notu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

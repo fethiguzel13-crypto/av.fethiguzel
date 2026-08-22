@@ -1,0 +1,112 @@
+{
+  "slug": "bos-ta-gecen-sure",
+  "title": "Boşta Geçen Süre Ücreti Nedir?",
+  "description": "İşe iadede boşta geçen süre ücreti hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
+  "h1": "İşe iadede boşta geçen süre ücreti",
+  "keywords": [
+    "boşta geçen süre ücreti",
+    "işe iade 4 ay ücret"
+  ],
+  "category": "İş",
+  "related": [
+    "ise-iade-davasi",
+    "ise-iade-tazminati",
+    "arabuluculuk-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/ise-iade-davasi"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/ise-iade"
+    }
+  ],
+  "lead": "Sabah işyerine gittiğinizde kapıda kalmış ya da aniden kapı önüne konulmuş olabilirsiniz. İş sözleşmeniz haksız yere bittiğinde hukuk size güvence sunar ve **mahkeme kararıyla** işinize geri dönme hakkı tanır.",
+  "keyInsight": "Boşta geçen süre ücretini alabilmek için mahkeme kararının ardından süresinde işe başlamak üzere işverene başvurmanız şarttır.",
+  "sections": [
+    {
+      "heading": "Kapı önüne konulduğunuz an ne başlar?",
+      "paragraphs": [
+        "İşinizden hukuka aykırı şekilde ayrılmak zorunda bırakıldığınızda süreç başlar. İşvereniniz sizi çıkardığında asıl mesele, bu ayrılığın haklı bir sebebe dayanıp dayanmadığıdır. Haksız fesihle karşı karşıya kalan çalışanlar **mahkeme yoluna** başvurarak hak arayışını başlatır.",
+        "Yargılama sonucunda mahkeme işe iadenize karar verebilir. Bu karar kesinleştiğinde veya süreç tamamlandığında boşta geçen süreye ilişkin haklar gündeme gelir. İşveren **kararı uygulamak** zorundadır."
+      ],
+      "bullets": [
+        "Haksız fesih tespiti",
+        "Mahkeme süreci"
+      ]
+    },
+    {
+      "heading": "İşe dönmek için nasıl adım atmalısınız?",
+      "paragraphs": [
+        "Mahkeme kararı elinize ulaştıktan sonra evde oturup işverenin sizi aramasını bekleyemezsiniz. Kararın kesinleştiğini öğrendikten sonra **süresi içinde** işverene başvurarak işe başlamak istediğinizi bildirmelisiniz.",
+        "Bu başvuru yapılmadığı takdirde işverenin işe başlatmama yükümlülüğü doğmaz. Bu nedenle atılacak **yazılı adım** hak kaybı yaşamamanız için kritik önem taşır."
+      ],
+      "bullets": [
+        "Kararın tebliği",
+        "İşe başlama talebi"
+      ]
+    },
+    {
+      "heading": "Ücret ne zaman ve nasıl ödenir?",
+      "paragraphs": [
+        "İşverene süresinde başvurduğunuzda iki ihtimalle karşılaşırsınız: Ya işinize geri başlatılırsınız ya da işveren sizi işe almaz. Her iki durumda da **boşta geçen süre** için hak edilen alacaklar hesaplanır.",
+        "İşveren sizi işe davet etmezse veya süresinde işbaşı yaptırmazsa, kanunun öngördüğü **maddi haklar** eksiksiz şekilde ödenmelidir."
+      ],
+      "bullets": [
+        "İşe başlatma veya tazminat",
+        "Alacakların hesaplanması"
+      ]
+    },
+    {
+      "heading": "Süreci kaçırırsanız neyle karşılaşırsınız?",
+      "paragraphs": [
+        "Hukuki süreçlerde zamanlamaya uymak hayati önem taşır. Karar sonrasındaki adımları geciktirmek veya kanuni süreleri aşmak haklarınızdan **mahrum kalmanıza** yol açabilir.",
+        "Bu yüzden kararı aldıktan hemen sonra hareket etmeli ve **hak düşürücü süreleri** dikkate alarak avukatınızla birlikte süreci yönetmelisiniz."
+      ],
+      "bullets": [
+        "Süre aşımı tehlikesi",
+        "Hak kaybı riski"
+      ]
+    }
+  ],
+  "steps": [
+    "Mahkeme kararının tebliğ edilmesini bekleyin.",
+    "Karar kesinleştiğinde işverene başvuruda bulunun.",
+    "İşe başlamak istediğinizi yazılı olarak bildirin.",
+    "İşverenin davetine göre işyerinde hazır bulunun.",
+    "Ödemeler yapılmazsa yasal yollara başvurun."
+  ],
+  "documents": [
+    "İşe iade dava dosyası ve kararı",
+    "İşverene gönderilen başvuru yazısı",
+    "İşe davet veya ret yazısı",
+    "Maaş bordroları ve SGK dökümleri"
+  ],
+  "faq": [
+    {
+      "q": "İşe iade davasını kazanınca doğrudan paramı alabilir miyim?",
+      "a": "Parayı alabilmeniz için öncelikle işverene süresinde işe başlama başvurusu yapmanız gerekir."
+    },
+    {
+      "q": "İşveren işe geri almazsa ne olur?",
+      "a": "İşveren işe başlatmazsa, kanunen ödenmesi gereken tazminatlar ve haklar tarafınıza ödenmelidir."
+    },
+    {
+      "q": "Başvuru süresini kaçırırsam ne olur?",
+      "a": "Süresinde yapılmayan başvurular nedeniyle işe iade hükümleri ve boşta geçen süre ücreti talebi geçersiz hale gelebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "ise-iade-davasi",
+  "angle": "Boşta geçen süre ücreti",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

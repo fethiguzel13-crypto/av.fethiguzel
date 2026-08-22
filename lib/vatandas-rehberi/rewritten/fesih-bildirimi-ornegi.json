@@ -1,0 +1,114 @@
+{
+  "slug": "fesih-bildirimi-ornegi",
+  "title": "Fesih Bildirimi Nasıl Yapılır?",
+  "description": "İş sözleşmesi fesih bildirimi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
+  "h1": "İş sözleşmesi fesih bildirimi",
+  "keywords": [
+    "fesih bildirimi",
+    "işten çıkarma bildirimi"
+  ],
+  "category": "İş",
+  "related": [
+    "is-sozlesmesi-feshi",
+    "ihbar-suresi-tablosu",
+    "ise-iade-davasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/is-sozlesmesi-feshi"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Tebligat",
+      "href": "/kategori/tebligat"
+    }
+  ],
+  "lead": "İş sözleşmesini sonlandırmak istediğinizde, karşı tarafa yazılı bildirim yapmak ve kıdeminize uygun süreci beklemek zorundasınız. Süreler iş yerindeki çalışma sürenize göre kademeli olarak belirlenmiştir.",
+  "keyInsight": "İşverenin fesih bildirimini mutlaka yazılı yapması ve sebebini açıkça belirtmesi gerekir; aksi takdirde yasal haklarınız doğar.",
+  "sections": [
+    {
+      "heading": "Çalışma sürenize göre bildirim süreleri nasıl uygulanır?",
+      "paragraphs": [
+        "İş yerindeki kıdeminiz, sözleşmenin feshinden sonra beklemek zorunda olduğunuz süreyi belirler. İşi altı aydan az sürmüş olan işçi için iki hafta, altı aydan bir buçuk yıla kadar sürmüş olan işçi için dört hafta bildirim süresi öngörülmüştür.",
+        "Daha uzun kıdemlerde bu süreler artar. İşi bir buçuk yıldan üç yıla kadar sürmüş olanlar için altı hafta, üç yıldan fazla sürmüş olanlar için ise sekiz hafta bildirim süresi uygulanır."
+      ],
+      "bullets": [
+        "6 aydan az kıdem: 2 hafta",
+        "6 ay - 1.5 yıl arası: 4 hafta",
+        "1.5 yıl - 3 yıl arası: 6 hafta",
+        "3 yıldan fazla kıdem: 8 hafta"
+      ]
+    },
+    {
+      "heading": "İşveren fesih bildirimini nasıl yapmalıdır?",
+      "paragraphs": [
+        "İşveren, belirsiz süreli iş sözleşmesini **yazılı olarak** feshetmek ve fesih sebebini açık ve kesin bir şekilde belirtmek zorundadır.",
+        "Ayrıca işçinin davranışı veya verimi ile ilgili nedenlerle yapılacak fesihlerde, işçinin hakkındaki iddialara karşı **savunmasını almadan** sözleşme feshedilemez."
+      ],
+      "bullets": [
+        "Bildirim yazılı yapılmalıdır",
+        "Sebep açıkça yazılmalıdır",
+        "Davranış ve verim fesihlerinde savunma alınmalıdır"
+      ]
+    },
+    {
+      "heading": "Bildirim şartına uyulmazsa ne olur?",
+      "paragraphs": [
+        "Bildirim şartına uymayan taraf, bildirim süresine ilişkin ücret tutarında tazminat ödemek zorundadır. İşveren isterse bildirim süresine ait ücreti peşin vererek sözleşmeyi hemen feshedebilir.",
+        "Ödenecek tazminatlar ve peşin ücret hesaplanırken, çıplak ücrete ek olarak işçiye sağlanmış para veya para ile ölçülebilir sözleşme ve kanundan doğan menfaatler de göz önünde tutulur."
+      ],
+      "bullets": [
+        "Süreye uyulmazsa tazminat ödenir",
+        "İşveren ücreti peşin ödeyerek sözleşmeyi bitirebilir"
+      ]
+    },
+    {
+      "heading": "Fesih bildirimine karşı nereye başvurulur?",
+      "paragraphs": [
+        "İş sözleşmesi feshedilen işçi, sebebin gösterilmediği veya geçerli olmadığı iddiasıyla **bir ay içinde** işe iade talebiyle arabulucuya başvurmak zorundadır.",
+        "Arabuluculuk faaliyeti sonunda anlaşmaya varılamazsa, son tutanağın düzenlendiği tarihten itibaren **iki hafta içinde** iş mahkemesinde dava açılabilir."
+      ],
+      "bullets": [
+        "Arabulucuya başvuru süresi: 1 ay",
+        "Mahkemede dava açma süresi: 2 hafta"
+      ]
+    }
+  ],
+  "steps": [
+    "İş sözleşmesinin feshine ilişkin bildirimi yazılı olarak alın veya verin.",
+    "Kıdeminize karşılık gelen yasal sürenin uyulup uyulmadığını kontrol edin.",
+    "Fesih sebebi bildirilmediyse veya haksız olduğunu düşünüyorsanız bir aylık sürede arabulucuya başvurun.",
+    "Arabuluculukta anlaşma sağlanamazsa iki hafta içinde mahkemede dava açın."
+  ],
+  "documents": [
+    "Yazılı fesih bildirim belgesi",
+    "İş sözleşmesi",
+    "Ücret bordroları",
+    "Arabuluculuk son tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "İşveren gerekçe göstermeden beni işten çıkarabilir mi?",
+      "a": "İşverenin fesih bildirimini yazılı yapması ve fesih sebebini açık ve kesin bir şekilde belirtmesi zorunludur."
+    },
+    {
+      "q": "İşe iade için arabulucuya ne zaman başvurmalıyım?",
+      "a": "Fesih bildiriminin tebliği tarihinden itibaren bir ay içinde arabulucuya başvurmak zorundasınız."
+    },
+    {
+      "q": "Arabuluculukta anlaşamazsak ne kadar sürede dava açabiliriz?",
+      "a": "Arabuluculuk faaliyeti sonunda anlaşmaya varılamaması hâlinde, son tutanağın düzenlendiği tarihten itibaren iki hafta içinde iş mahkemesinde dava açabilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "is-sozlesmesi-feshi",
+  "angle": "Bildirim",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

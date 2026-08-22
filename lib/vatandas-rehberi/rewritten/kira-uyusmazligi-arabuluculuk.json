@@ -1,0 +1,113 @@
+{
+  "slug": "kira-uyusmazligi-arabuluculuk",
+  "title": "Kira Uyuşmazlığında Arabuluculuk | Vatandaş Rehberi",
+  "description": "Kira davasında arabuluculuk zorunlu mu? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı.…",
+  "h1": "Kira davasında arabuluculuk zorunlu mu?",
+  "keywords": [
+    "kira arabuluculuk"
+  ],
+  "category": "Kira",
+  "related": [
+    "arabuluculuk-nasil-yapilir",
+    "kira-tespit-davasi",
+    "kiraci-nasil-tahliye-edilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/arabuluculuk-nasil-yapilir"
+    },
+    {
+      "label": "Arabuluculuk",
+      "href": "/rehber/arabuluculuk"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    }
+  ],
+  "lead": "Ev sahibinizle zam veya tahliye konusunda anlaşmazlığa düştünüz ve mahkemenin yolunu tutmaya hazırlanıyorsunuz. Doğrudan dava açmak yerine **önce arabulucuya başvurmak** zorunludur.",
+  "keyInsight": "Arabuluculuk kapısını çalmadan doğrudan mahkemeye giderseniz, hâkim haklılığınıza bakmaksızın davanızı **usulden reddeder**.",
+  "sections": [
+    {
+      "heading": "Hangi konularda arabulucu şartı var?",
+      "paragraphs": [
+        "Ev sahibi ile kiracı arasındaki para, tahliye veya kullanım anlaşmazlıklarının çok büyük kısmında masa başında oturmak kanuni bir mecburiyettir. Kira ilişkisinden doğan uyuşmazlıklarda mahkemeye gitmeden önce arabuluculuk bürosuna gitmeniz gerekir.",
+        "Ancak her kira meselesi bu kurala tabi değildir. İcra daireleri üzerinden yürütülen ilamsız tahliye yolları bu zorunluluğun dışındadır."
+      ],
+      "bullets": [
+        "Kira artış uyuşmazlıkları",
+        "Tahliye talepleri",
+        "İlamsız icra dışındaki kira alacakları"
+      ]
+    },
+    {
+      "heading": "Süreç nasıl başlar ve nasıl ilerler?",
+      "paragraphs": [
+        "Uyuşmazlık çıktığında adliyelerdeki arabuluculuk bürosuna giderek resmi başvurunuzu yaparsınız. Büro, taraflar üzerinde anlaşmamışsa listeden bir arabulucu görevlendirir.",
+        "Arabulucu, tarafları en kısa sürede **ilk toplantıya davet eder**. Görüşmelere bizzat, kanuni temsilciniz veya avukatınız aracılığıyla katılabilirsiniz."
+      ],
+      "bullets": [
+        "Yetkili büroya başvuru",
+        "Arabulucu ataması",
+        "Toplantı daveti ve müzakere"
+      ]
+    },
+    {
+      "heading": "Masa başında anlaşma sağlanırsa ne olur?",
+      "paragraphs": [
+        "Görüşmeler sonucunda taraflar ortak bir noktada buluşursa bir anlaşma belgesi düzenlenir. Bu belge, haklarınızı güvence altına alan resmi bir nitelik kazanır.",
+        "Taşınmazla ilgili anlaşma belgelerinde, kanunlarda yer alan sınırlamalar gözetilir ve ilgili mahkemeden **icra edilebilirlik şerhi** alınması zorunludur."
+      ],
+      "bullets": [
+        "Ortak çözüm ve tutanak",
+        "İcra edilebilirlik şerhi"
+      ]
+    },
+    {
+      "heading": "Anlaşma sağlanamazsa mahkeme yolu nasıl açılır?",
+      "paragraphs": [
+        "Müzakereler sonucunda çözüm üretilemediği ortaya çıkarsa arabulucu durumu tutanağa bağlar. Bu tutanak, mahkemenin kapısını aralamanız için anahtardır.",
+        "Dava açarken **son tutanağın aslını** veya onaylı örneğini dilekçenize eklemek zorundasınız. Bu belgeyi sunmazsanız mahkeme size kesin süre verir."
+      ],
+      "bullets": [
+        "Anlaşmazlık tutanağı",
+        "Dilekçeye ekleme zorunluluğu"
+      ]
+    }
+  ],
+  "steps": [
+    "Adliyedeki arabuluculuk bürosuna giderek başvuru formunu doldurun.",
+    "Büro tarafından atanan arabulucunun toplantı çağrısını bekleyin.",
+    "Toplantıya iletişim bilgileriniz ve delillerinizle birlikte bizzat veya avukatınızla katılın.",
+    "Anlaşma sağlanamazsa düzenlenen son tutanağın aslını alın.",
+    "Dava dilekçenize son tutanağı ekleyerek yetkili mahkemeye başvurun."
+  ],
+  "documents": [
+    "Arabuluculuk başvuru formu",
+    "Kira sözleşmesi",
+    "İletişim bilgileri ve deliller",
+    "Son anlaşmazlık tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "Arabulucuya gitmeden dava açabilir miyim?",
+      "a": "Hayır, kira uyuşmazlıklarında arabulucuya başvurmuş olmak dava şartıdır. Doğrudan dava açarsanız davanız usulden reddedilir."
+    },
+    {
+      "q": "Toplantıya bizzat gitmek zorunda mıyım?",
+      "a": "Görüşmelere bizzat katılabileceğiniz gibi avukatınız veya kanuni temsilciniz aracılığıyla da katılabilirsiniz."
+    },
+    {
+      "q": "Anlaşamazsak ne olacak?",
+      "a": "Arabulucu tarafların anlaşamadığına dair son tutanağı düzenler ve bu belgeyle birlikte yasal yollara başvurabilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "arabuluculuk-nasil-yapilir",
+  "angle": "Kira",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

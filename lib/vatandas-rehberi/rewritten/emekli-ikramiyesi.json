@@ -1,0 +1,103 @@
+{
+  "slug": "emekli-ikramiyesi",
+  "title": "Emekli ikramiyesi kimlere ödenir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Emekli ikramiyesi kimlere ödenir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
+  "h1": "Emekli ikramiyesi kimlere ödenir?",
+  "keywords": [
+    "emekli ikramiyesi"
+  ],
+  "category": "Sosyal Güvenlik",
+  "related": [
+    "emeklilik-sartlari",
+    "kidem-tazminati-nasil-alinir",
+    "emekli-maasi-hesaplama"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/emeklilik-sartlari"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    },
+    {
+      "label": "DMK",
+      "href": "/kategori/dmk"
+    }
+  ],
+  "lead": "Emekli ikramiyesi, kamu hizmetinde geçen sürelerinizin karşılığı olarak ödenen bir haktır. Hangi statüde çalıştığınız, bu ödemeyi alıp alamayacağınızı belirleyen temel unsurdur.",
+  "keyInsight": "Emekli ikramiyesine hak kazanmak için, emeklilik talebiniz sırasında kamu görevlisi statüsünde bulunmanız veya emeklilik koşullarını kamu hizmeti üzerinden tamamlamış olmanız gerekir.",
+  "sections": [
+    {
+      "heading": "Kimler bu ödemeyi alabilir?",
+      "paragraphs": [
+        "Emekli ikramiyesi, genellikle devlet bünyesinde memur statüsünde çalışanlara tanınmış bir haktır. Emekli olduğunuzda, devletin size sunduğu bu ödeme, geçen hizmet yıllarınızın bir tazminatı niteliğindedir.",
+        "Emeklilik dilekçenizi verdiğiniz sırada bir kamu kurumunda çalışıyor olmanız, bu hakkın doğması için en kritik şarttır."
+      ],
+      "bullets": [
+        "Kadrolu devlet memurları",
+        "Belirli şartları sağlayan sözleşmeli personel",
+        "Kamu kurumlarından emekli olanlar"
+      ]
+    },
+    {
+      "heading": "Hizmet süresi nasıl hesaplanır?",
+      "paragraphs": [
+        "İkramiyenizin tutarı, toplam hizmet süreniz üzerinden belirlenir. Ancak, her süre ikramiye hesabına dahil edilmez.",
+        "Özellikle fiili hizmet süreniz, emekli ikramiyenizin temelini oluşturur. İtibari hizmet süreleri, emeklilik ikramiyesi hesabında dikkate alınmaz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Sözleşmeli personelin durumu nedir?",
+      "paragraphs": [
+        "Sözleşmeli personel statüsünde çalışıyorsanız, ikramiye hakkınız özel düzenlemelere tabidir. Belirli bir süre aynı kurumda çalışmış olmak, bu statüdeki kişiler için aranan bir şart olabilir.",
+        "Kurumunuzdaki sözleşme süreniz ve kadro durumunuz, ikramiye ödemenizin yapılıp yapılmayacağını belirler."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Emeklilik dilekçesi neden önemlidir?",
+      "paragraphs": [
+        "Emeklilik işlemleri, sizin yazılı talebinizle başlar. Dilekçenizi verdiğiniz an, emeklilik sürecinizin resmen başladığı andır.",
+        "Dilekçe tarihiniz, aylığınızın başlangıç dönemini ve ikramiyenizin hesaplanacağı dönemi doğrudan etkiler."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Emeklilik şartlarını taşıdığınızdan emin olun.",
+    "Çalıştığınız kurumun personel birimine başvuru yapın.",
+    "Emeklilik dilekçenizi yazılı olarak kuruma sunun.",
+    "Kurumun emeklilik onay sürecini tamamlamasını bekleyin.",
+    "Sosyal Güvenlik Kurumu'nun ikramiye tahakkuk işlemini takip edin."
+  ],
+  "documents": [
+    "Emeklilik talep dilekçesi",
+    "Hizmet döküm belgesi",
+    "Kurumdan alınan onaylı hizmet süresi belgesi",
+    "Kimlik fotokopisi"
+  ],
+  "faq": [
+    {
+      "q": "İstifa edersem emekli ikramiyesi alabilir miyim?",
+      "a": "Emekli ikramiyesi, emeklilik hakkı kazanarak görevden ayrılanlara ödenir; istifa durumunda bu hak genellikle doğmaz."
+    },
+    {
+      "q": "Sözleşmeli personel emekli ikramiyesi alır mı?",
+      "a": "İlgili mevzuatta öngörülen şartları ve çalışma süresini tamamlayan sözleşmeli personel, emekli ikramiyesi hakkından yararlanabilir."
+    },
+    {
+      "q": "İtibari hizmet süresi ikramiyeye eklenir mi?",
+      "a": "Hayır, itibari hizmet süreleri emekli ikramiyesinin hesaplanmasında dikkate alınmaz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "emeklilik-sartlari",
+  "angle": "İkramiye",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

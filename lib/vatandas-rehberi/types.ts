@@ -60,8 +60,17 @@ export type VatandasArticle = {
   lead: string;
   sections: VatandasSection[];
   steps?: string[];
+  /** Yanında durması gereken belgeler — anlatı sürümünde adımların altında gösterilir */
+  documents?: string[];
   faq: VatandasFaq[];
   updated: string;
+  /**
+   * narrative = kalıp iskelet yok, düzgün anlatı.
+   * Gemini yeniden yazımı bu bayrağı taşır; UI başlık rengi ve vurgu için kullanır.
+   */
+  voice?: 'narrative';
+  /** Metnin kaynağı. rewritten katmanı gemini, authored elle, generated eski kalıp. */
+  source?: 'gemini' | 'authored' | 'generated';
   /** SEO rolü */
   role?: VatandasRole;
   /** Spoke ise ana rehber slug */

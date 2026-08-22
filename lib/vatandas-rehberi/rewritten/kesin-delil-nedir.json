@@ -1,0 +1,118 @@
+{
+  "slug": "kesin-delil-nedir",
+  "title": "Kesin delil — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Kesin delil hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "Kesin delil",
+  "keywords": [
+    "kesin delil",
+    "kesin delil nedir"
+  ],
+  "category": "Usul",
+  "related": [
+    "zamanaşimi-nedir",
+    "delil-baslangici-nedir",
+    "senet-icra-takibi",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/zamanaşimi-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=delil"
+    }
+  ],
+  "lead": "Mahkemede haklılığınızı kanıtlamak için sunduğunuz belgelerin ve uyduğunuz sürelerin geri dönüşü olmayan sonuçları vardır. Yanlış adım atmamak için kuralları ve süreleri yakından takip etmelisiniz.",
+  "keyInsight": "Mahkemenin verdiği **kesin süre** içinde eksikleri tamamlamaz veya delilleri sunmazsanız, o haktan veya delilden tamamen vazgeçmiş sayılırsınız.",
+  "sections": [
+    {
+      "heading": "Dilekçe verirken nelere dikkat etmeli?",
+      "paragraphs": [
+        "Mahkemeye başvururken hazırladığınız dilekçede davanın konusu, tarafların bilgileri ve iddianızın dayandığı vakıalar açıkça yer almalıdır. Eğer bazı eksiklikler fark edilirse, hâkim tarafından **bir haftalık kesin süre** verilir.",
+        "Bu süre içinde eksiklikler giderilmezse dosyanız açılmamış sayılır. Bu yüzden dilekçe aşamasındaki her kalemi titizlikle hazırlamalısınız."
+      ],
+      "bullets": [
+        "Tarafların açık adres ve kimlik bilgileri",
+        "İddianın dayanağı olan vakıalar",
+        "Açık talep sonucu"
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırınca ne olur?",
+      "paragraphs": [
+        "Yargılama sürecinde masraflar ve deliller için mahkemelerce çeşitli süreler tanınır. Örneğin harç veya gider avansı yetersiz kaldığında tamamlanması için **iki haftalık kesin süre** tanınır.",
+        "Aynı şekilde ön inceleme duruşması aşamasında, henüz sunulmayan belgelerin mahkemeye verilmesi için de **iki haftalık kesin süre** verilir. Bu süreyi geçirdiğinizde o delile dayanma hakkınızı kaybedersiniz."
+      ],
+      "bullets": [
+        "Gider avansı tamamlama süresi",
+        "Belge sunma yükümlülüğü"
+      ]
+    },
+    {
+      "heading": "Hangi belgeler delil olamaz?",
+      "paragraphs": [
+        "Arabuluculuk süreçlerinde barışçıl çözümler için sunulan görüşler, teklifler veya sadece bu süreç için hazırlanan belgeler daha sonra açılacak davalarda delil olarak ileri sürülemez.",
+        "Tarafların arabuluculuk sırasındaki beyanları mahkemede hükme esas alınamaz. Bu kural, tarafların masada rahatça konuşabilmesi için korunmuştur."
+      ],
+      "bullets": [
+        "Arabuluculuk teklifleri",
+        "Süreçte sunulan karşı teklifler"
+      ]
+    },
+    {
+      "heading": "Dava şartı olan belgeler nasıl sunulur?",
+      "paragraphs": [
+        "Bazı uyuşmazlıklarda mahkemeye gitmeden önce arabulucuya başvurulmuş olması zorunludur. Dava açarken son tutanağın aslını veya onaylı örneğini dilekçenize eklemek zorundasınız.",
+        "Bu zorunluluğa uyulmazsa mahkeme tarafından son tutanağın **bir haftalık kesin süre** içinde sunulması istenir. İstenen sürede getirilmezse dava usulden reddedilir."
+      ],
+      "bullets": [
+        "Son tutanağın aslı",
+        "Onaylı arabuluculuk örneği"
+      ]
+    }
+  ],
+  "steps": [
+    "Dava dilekçenizi tüm unsurlarıyla eksiksiz hazırlayın",
+    "Mahkemenin verdiği masraf ve avans taleplerini süresinde ödeyin",
+    "Ön inceleme aşamasında istenen belgeleri zamanında dosyaya sunun",
+    "Arabuluculuk son tutanağını dava dilekçenize mutlaka ekleyin",
+    "Hakim tarafından verilen kesin süreleri takviminize işleyin"
+  ],
+  "documents": [
+    "Dava dilekçesi",
+    "Gider avansı makbuzu",
+    "Arabuluculuk son tutanağı",
+    "Delil listesi ve belgeler"
+  ],
+  "faq": [
+    {
+      "q": "Kesin süre kaç gündür?",
+      "a": "Kanunda öngörülen işlemlere göre süreler bir hafta veya iki hafta olarak değişiklik gösterir."
+    },
+    {
+      "q": "Arabuluculuk görüşmesindeki teklifler mahkemede kullanılır mı?",
+      "a": "Hayır, arabuluculuk sürecindeki teklifler ve görüşmeler delil olarak sunulamaz ve hükme esas alınamaz."
+    },
+    {
+      "q": "Gider avansı yatırılmazsa ne olur?",
+      "a": "Avansın eksik olduğu anlaşılırsa mahkeme tarafından belirlenen kesin süre içinde tamamlanması gerekir, aksi takdirde süreç aksar."
+    },
+    {
+      "q": "Arabuluculuk tutanağı unutulursa dava biter mi?",
+      "a": "Tutanak eklenmemişse mahkeme bir haftalık kesin süre verir, bu sürede de sunulmazsa dava usulden reddedilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "zamanaşimi-nedir",
+  "angle": "Kesin delil",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

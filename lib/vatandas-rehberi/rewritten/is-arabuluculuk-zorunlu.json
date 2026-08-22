@@ -1,0 +1,116 @@
+{
+  "slug": "is-arabuluculuk-zorunlu",
+  "title": "İş Davalarında Zorunlu Arabuluculuk | Vatandaş Rehberi",
+  "description": "Hangi iş davalarında arabuluculuk zorunlu? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Porta…",
+  "h1": "Hangi iş davalarında arabuluculuk zorunlu?",
+  "keywords": [
+    "iş arabuluculuk zorunlu",
+    "iş davası arabuluculuk"
+  ],
+  "category": "İş",
+  "related": [
+    "arabuluculuk-nasil-yapilir",
+    "ise-iade-davasi",
+    "kidem-tazminati-nasil-alinir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/arabuluculuk-nasil-yapilir"
+    },
+    {
+      "label": "Arabuluculuk",
+      "href": "/rehber/arabuluculuk"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    }
+  ],
+  "lead": "İş mahkemesinde hak aramak istiyorsanız, doğrudan hâkimin kapısını çalamazsınız. İlgili kanunlarda arabulucuya başvurulmuş olması **dava şartı** olarak kabul edilmiştir.",
+  "keyInsight": "Arabulucuya başvurmadan doğrudan dava açarsanız, mahkeme dosyayı esasa hiç girmeden usulden reddeder.",
+  "sections": [
+    {
+      "heading": "Hangi durumlarda arabulucuya gitmek şarttır?",
+      "paragraphs": [
+        "İş sözleşmeniz feshedildiğinde ve ortada geçerli bir sebep gösterilmediğini iddia ettiğinizde süreç başlar. Fesih bildiriminin tebliği tarihinden itibaren **bir ay içinde** işe iade talebiyle arabulucuya başvurmak zorundasınız.",
+        "Kanunlar, bazı uyuşmazlıkların mahkemeden önce tarafsız bir uzman eşliğinde masaya yatırılmasını ister. Bu kural atlandığı takdirde yargı yolu doğrudan kapanır."
+      ],
+      "bullets": [
+        "Fesih bildiriminin tebliği",
+        "Bir aylık başvuru süresi",
+        "İşe iade talebi"
+      ]
+    },
+    {
+      "heading": "Toplantıdan sonuç çıkmazsa ne yapılır?",
+      "paragraphs": [
+        "Arabuluculuk faaliyeti sonucunda taraflar anlaşmaya varamazsa bir son tutanak düzenlenir. Anlaşmaya varılamadığına ilişkin son tutanağın düzenlendiği tarihten itibaren, **iki hafta içinde** iş mahkemesinde dava açabilirsiniz.",
+        "Tarafların ortak iradesiyle bu uyuşmazlık mahkeme yerine özel hakeme de götürülebilir. Sürecin bu aşamasında atılacak adımların takvimi oldukça sıkıdır."
+      ],
+      "bullets": [
+        "Son tutanağın düzenlenmesi",
+        "İki haftalık dava süresi",
+        "Özel hakem seçeneği"
+      ]
+    },
+    {
+      "heading": "Anlaşma sağlanırsa nelere dikkat edilmeli?",
+      "paragraphs": [
+        "Arabuluculuk masasında işçinin işe başlatılması konusunda anlaşmaya varılması mümkündür. Bu durumda işe başlatma tarihini, ücret ve diğer hakların parasal miktarını, işe başlatılmama durumundaki tazminat tutarını belirlemek **zorunludur**.",
+        "Eğer bu unsurlar eksiksiz şekilde belirlenmezse, kanunen anlaşma sağlanamamış sayılır ve son tutanak buna göre şekillenir."
+      ],
+      "bullets": [
+        "İşe başlatma tarihi",
+        "Parasal hakların tespiti",
+        "Tazminat tutarı"
+      ]
+    },
+    {
+      "heading": "Belgeyi mahkemeye sunmazsanız ne olur?",
+      "paragraphs": [
+        "Davacı taraf, arabuluculuk faaliyeti sonunda anlaşmaya varılamadığına ilişkin son tutanağın aslını veya onaylı örneğini dava dilekçesine eklemek zorundadır. Bu zorunluluğa uyulmadığı takdirde mahkeme süre tanır.",
+        "Mahkeme son tutanağın **bir haftalık kesin süre** içinde sunulmasını ihtar eder. Bu süre zarfında da belge sunulmazsa dava dilekçesi karşı tarafa tebliğe çıkarılmaksızın usulden reddedilir."
+      ],
+      "bullets": [
+        "Son tutanak aslı",
+        "Bir haftalık kesin süre",
+        "Usulden ret riski"
+      ]
+    }
+  ],
+  "steps": [
+    "Fesih bildiriminin tebliğ edildiği günü not edin.",
+    "Bir aylık yasal süre içinde yetkili arabuluculuk bürosuna başvurun.",
+    "Arabuluculuk görüşmelerine bizzat veya yetkili temsilcinizle katılın.",
+    "Anlaşma sağlanamazsa düzenlenen son tutanağı alın.",
+    "Son tutanak aslı veya onaylı örneği ile birlikte iki hafta içinde mahkemeye başvurun."
+  ],
+  "documents": [
+    "Fesih bildirim yazısı",
+    "Arabuluculuk son tutanağı",
+    "Kimlik belgesi",
+    "Dava dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Doğrudan dava açarsam hâkim ne yapar?",
+      "a": "Arabulucuya başvurulmadan dava açıldığı anlaşılırsa, mahkeme herhangi bir işlem yapmaksızın davanın usulden reddine karar verir."
+    },
+    {
+      "q": "Son tutanağı mahkemeye sunmayı unutursam haklarım yanar mı?",
+      "a": "Mahkeme size son tutanağı bir haftalık kesin süre içinde sunmanız için ihtar içeren davetiye gönderir; bu sürede sunmazsanız dava reddedilir."
+    },
+    {
+      "q": "Anlaşma sağlanırsa işe başlama şartları nasıl belirlenir?",
+      "a": "Tarafların işe başlatma tarihini, ödenecek ücretleri ve tazminat miktarını açıkça belirlemesi zorunludur; aksi halde anlaşma olmamış sayılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "arabuluculuk-nasil-yapilir",
+  "angle": "İş davaları",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

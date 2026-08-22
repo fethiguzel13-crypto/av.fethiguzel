@@ -1,0 +1,111 @@
+{
+  "slug": "bono-vade",
+  "title": "Bono vade ve protesto — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Bono vade ve protesto hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avu…",
+  "h1": "Bono vade ve protesto",
+  "keywords": [
+    "bono vade ve protesto",
+    "bono vade"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "cek-karsiliksiz",
+    "senet-nasil-yazilir",
+    "senet-icra-takibi",
+    "kambiyo-senetlerine-ozgu-takip"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/cek-karsiliksiz"
+    },
+    {
+      "label": "Kıymetli evrak",
+      "href": "/kategori/kiymetli-evrak"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Elinde bir bono tutuyorsun ve günün birinde ödeme yapılmıyor. Vade geçtiğinde atılacak adımlar ve protesto süreci tüm haklarını koruman için kilit önem taşır.",
+  "keyInsight": "Ödememe protestosunun, ödeme gününü izleyen iki iş günü içinde çekilmesi zorunludur.",
+  "sections": [
+    {
+      "heading": "Vade ve Ödeme Günü Geldiğinde",
+      "paragraphs": [
+        "Elindeki bononun üzerinde yazan gün gelmesine rağmen borç ödenmiyorsa, kanuni yolları işletmek için harekete geçmelisin. Borcun ödenmemesi durumu resmî bir belgeyle kesinleştirilmelidir.",
+        "Bu aşamada kabul etmemenin veya ödememenin resmî bir belgeyle belirlenmesi zorunludur. Aksi takdirde sonraki başvurma haklarını kullanamayabilirsin."
+      ],
+      "bullets": [
+        "Vadenin takibi",
+        "Ödememe durumu"
+      ]
+    },
+    {
+      "heading": "Protesto İşlemi ve Süreler",
+      "paragraphs": [
+        "Ödememe protestosunun, **ödeme gününü izleyen iki iş günü içinde** çekilmesi zorunludur. Bu zaman aralığını kaçırırsan elindeki kambiyo senedine dayalı bazı başvurma hakların zayıflayabilir.",
+        "Görüldüğünde ödenmesi şart olan poliçe veya bonolarda ise kabul etmeme protestosu için öngörülen süreler uygulanır."
+      ],
+      "bullets": [
+        "İki iş günü kuralı",
+        "Resmî belge zorunluluğu"
+      ]
+    },
+    {
+      "heading": "Ciro Edilen Senetlerde Durum",
+      "paragraphs": [
+        "Elimdeki senedi başkasına devretmek istiyorsan zamanlamaya dikkat etmelisin. Vadenin geçmesinden sonra yapılan ciro, vadeden önce yapılan bir cironun hükümlerini doğurur.",
+        "Ancak, ödememe protestosundan veya bu protestonun düzenlenmesi için öngörülmüş sürenin geçmesinden sonra yapılan ciro, **sadece alacağın temliki** hükümlerini doğurur."
+      ],
+      "bullets": [
+        "Vade sonrası ciro",
+        "Temlik hükmü"
+      ]
+    },
+    {
+      "heading": "İflas veya Aciz Durumunda Haklar",
+      "paragraphs": [
+        "Borçlu taraf ödemelerini tatil etmişse veya aleyhindeki icra takibi somut sonuç vermemişse süreç değişir. Hamil, başvurma haklarını ancak senedin ödenmesi için muhataba ibrazından ve protestonun çekilmesinden sonra kullanabilir.",
+        "Muhatap veya kabul için arz edilmesi menedilen bir senedin düzenleyeni iflas etmişse, iflas ilamının ibrazı başvuru için yeterli kabul edilir."
+      ],
+      "bullets": [
+        "İflas ilamı",
+        "İbraz zorunluluğu"
+      ]
+    }
+  ],
+  "steps": [
+    "Bononun vade tarihini takvime işleyerek takip et.",
+    "Ödeme yapılmazsa ödeme gününü izleyen iki iş günü içinde ödememe protestosu çek.",
+    "Senedi devredeceksen protesto sürelerinin geçip geçmediğini kontrol et.",
+    "Muhatabın iflası durumunda iflas ilamını hazır bulundur."
+  ],
+  "documents": [
+    "Bono aslı",
+    "Ödememe protestosu belgesi",
+    "İflas ilamı"
+  ],
+  "faq": [
+    {
+      "q": "Protesto hangi sürede çekilmelidir?",
+      "a": "Ödememe protestosunun, ödeme gününü izleyen iki iş günü içinde çekilmesi zorunludur."
+    },
+    {
+      "q": "Vadesi geçtikten sonra yapılan ciro ne anlama gelir?",
+      "a": "Protesto süresi geçtikten sonra yapılan ciro, sadece alacağın temliki hükümlerini doğurur."
+    },
+    {
+      "q": "Muhatap iflas ederse ne yapmak gerekir?",
+      "a": "Muhatap iflas etmişse, iflas ilamının ibrazı başvurma hakkının kullanılması için yeterlidir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "cek-karsiliksiz",
+  "angle": "Bono vade ve protesto",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

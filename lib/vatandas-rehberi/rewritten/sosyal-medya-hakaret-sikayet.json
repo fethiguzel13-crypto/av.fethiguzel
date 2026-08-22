@@ -1,0 +1,102 @@
+{
+  "slug": "sosyal-medya-hakaret-sikayet",
+  "title": "Sosyal medya hakaret şikâyeti | Vatandaş Rehberi",
+  "description": "Sosyal medya hakaret şikâyeti hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
+  "h1": "Sosyal medya hakaret şikâyeti",
+  "keywords": [
+    "sosyal medya hakaret şikâyeti",
+    "sosyal medya hakaret sikayet"
+  ],
+  "category": "Ceza",
+  "related": [
+    "tutuklama-nedir",
+    "hakaret-sucu-nedir",
+    "erisim-engeli-basvurusu",
+    "savcilik-suc-duyurusu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tutuklama-nedir"
+    },
+    {
+      "label": "TCK",
+      "href": "/kategori/tck-kisiler"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    }
+  ],
+  "lead": "Ekranınızda onurunuzu zedeleyen bir paylaşım gördünüz. Asıl soru neye kızdığınız değil, bu sözün kimler tarafından görülüp görülmediğidir.",
+  "keyInsight": "Hakaret içerikli paylaşımın tek kişiyle mi yoksa en az üç kişiyle mi paylaşıldığı, suçun oluşup oluşmamasındaki en kritik sınırdır.",
+  "sections": [
+    {
+      "heading": "Hangi sözler suç sayılır?",
+      "paragraphs": [
+        "Telefonunuza baktınız ve hakkınızda ağır bir ifade gördünüz. Bir kimsenin onur, şeref ve saygınlığını rencide edebilecek nitelikte somut bir fiil ya da olgu isnat edilmesi veya sövülmesi **hakaret suçu** olarak kabul edilir.",
+        "Bu durumun hukuki karşılık bulabilmesi için sesli, yazılı veya görüntülü bir iletiyle doğrudan muhatap alınarak işlenmesi gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Paylaşımı kimler gördü?",
+      "paragraphs": [
+        "Mesaj doğrudan size gelmediyse ve gıyabınızda konuşuluyorsa kurallar değişir. Mağdurun gıyabında işlenen hakaretin cezalandırılabilmesi için fiilin en az üç kişiyle ihtilat ederek işlenmesi şarttır.",
+        "Bu sayı şartı, söylenen sözün birden fazla insan tarafından duyulduğunu veya bilindiğini kanıtlamak adına **temel bir kuraldır**."
+      ],
+      "bullets": [
+        "Doğrudan size yazılan iletiler",
+        "En az üç kişinin bulunduğu ortamlar"
+      ]
+    },
+    {
+      "heading": "Kimler şikayet edebilir?",
+      "paragraphs": [
+        "Kamu görevlisine karşı görevinden dolayı işlenen durumlar hariç olmak üzere, hakaret suçunun soruşturulması ve kovuşturulması **mağdurun şikayetine bağlıdır**.",
+        "Eğer mağdur şikayet etmeden önce yaşamını yitirirse veya suç ölmüş olan kişinin hatırasına karşı işlenmişse, belirli yakınları bu hakkı kullanabilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Cezayı artıran durumlar nelerdir?",
+      "paragraphs": [
+        "Hakaret suçu belirli durumlarda daha ağır yaptırımlarla karşılaşır. Örneğin kamu görevlisine karşı görevinden dolayı işlenmesi veya inanç, düşünce ve kanaatler nedeniyle yapılmasassociations cezanın alt sınırını yükseltir.",
+        "Ayrıca hakaretin **alenen işlenmesi** halinde verilecek ceza oranında artış yapılır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Ekran görüntüsünü alarak paylaşımı kayıt altına alın.",
+    "Paylaşımı gören tanıkları veya kişileri belirleyin.",
+    "Bulunduğunuz yerdeki yetkili makama giderek şikayet dilekçenizi verin.",
+    "Soruşturma sürecini takip edin."
+  ],
+  "documents": [
+    "Ekran görüntüsü çıktısı",
+    "Kimlik belgesi",
+    "Şikayet dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Her hakaret eden kişi hapis yatar mı?",
+      "a": "Hakaret suçunda hapis cezasının yanında adli para cezası da öngörülmüştür. Somut olayın şartlarına göre mahkeme karar verir."
+    },
+    {
+      "q": "Paylaşımı sadece ben gördüm, şikayet edebilir miyim?",
+      "a": "Mesaj doğrudan size yazılmışsa şikayet edebilirsiniz ancak gıyapta yapılan paylaşımlar için en az üç kişiyle işlenmiş olması aranır."
+    },
+    {
+      "q": "Şikayet etmezsem ne olur?",
+      "a": "Kanuna göre kamu görevlisine karşı görevinden dolayı yapılanlar hariç, hakaret suçunun soruşturulması mağdurun şikayetine bağlıdır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tutuklama-nedir",
+  "angle": "Sosyal medya hakaret şikâyeti",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

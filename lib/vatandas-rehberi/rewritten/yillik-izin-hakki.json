@@ -1,0 +1,110 @@
+{
+  "slug": "yillik-izin-hakki",
+  "title": "Yıllık izin kaç gündür — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Yıllık izin kaç gündür? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
+  "h1": "Yıllık izin kaç gündür?",
+  "keywords": [
+    "yıllık izin hakkı",
+    "yıllık izin kaç gün"
+  ],
+  "category": "İş",
+  "related": [
+    "fazla-mesai-ucreti",
+    "kidem-tazminati-nasil-alinir",
+    "is-sozlesmesi-feshi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/fazla-mesai-ucreti"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Hesaplama",
+      "href": "/hesaplama"
+    }
+  ],
+  "lead": "İşyerinde deneme süresi dahil en az bir yıl çalıştıysanız yıllık ücretli izin hakkınız doğar. Bu haktan vazgeçmeniz mümkün değildir.",
+  "keyInsight": "Hizmet sürenize göre belirlenen izin süreleri kanuni tabandır ve bu sürelerin altına inilemez.",
+  "sections": [
+    {
+      "heading": "İzin hakkı ne zaman doğar?",
+      "paragraphs": [
+        "Sabah masanıza oturdunuz ve takvime baktınız. İşe başlayalı tam bir yıl oldu. Asıl kural, işyerinde deneme süresi de dahil olmak üzere en az bir yıl çalışmış olmanızdır."
+      ],
+      "bullets": [
+        "Deneme süresi bir yıllık süreye dahildir.",
+        "Aynı işverenin farklı işyerlerindeki süreler birleştirilir."
+      ]
+    },
+    {
+      "heading": "Çalışma sürenize göre izin günleri",
+      "paragraphs": [
+        "Yıllık izin süreleri kıdeminize göre kademeli olarak belirlenir. Hizmet süreniz temel alınarak hesaplama yapılır.",
+        "Bir yıldan beş yıla kadar olanlar için **ondört günden**, beş yıldan fazla onbeş yıldan az olanlar için **yirmi günden** az olamaz."
+      ],
+      "bullets": [
+        "1-5 yıl arası: En az 14 gün",
+        "5-15 yıl arası: En az 20 gün",
+        "15 yıl ve daha fazlası: En az 26 gün"
+      ]
+    },
+    {
+      "heading": "Yaş ve işkoluna göre özel süreler",
+      "paragraphs": [
+        "Her çalışan için standart süreler uygulanmayabilir. Yaptığınız işin niteliği veya yaşınız bu süreleri değiştirebilir.",
+        "Onsekiz ve daha küçük yaştakiler ile elli ve daha yukarı yaştakilere verilecek yıllık izin süresi **yirmi günden** az olamaz."
+      ],
+      "bullets": [
+        "Yer altı işlerinde çalışanların izin süreleri dörder gün arttırılır.",
+        "Genç ve yaşlı çalışanlar için taban süre yirmi gündür."
+      ]
+    },
+    {
+      "heading": "İzinler artırılabilir mi?",
+      "paragraphs": [
+        "Kanunda belirtilen süreler asgari sınırlardır. İş sözleşmeleri veya toplu iş sözleşmeleri ile bu sürelerin üzerine çıkılması mümkündür.",
+        "İşvereninizle yapacağınız sözleşmelerde izin günlerinin **artırılması** her zaman mümkündür."
+      ],
+      "bullets": [
+        "Sözleşmelerle süreler yükseltilebilir.",
+        "Kanuni tabanın altına düşülemez."
+      ]
+    }
+  ],
+  "steps": [
+    "Çalışma sürenizi ve kıdeminizi kontrol edin.",
+    "İşyerindeki hizmet yılınızı hesaplayın.",
+    "Yaş veya yer altı işi gibi özel durumunuzu belirleyin.",
+    "İşvereninizden yıllık izninizi talep edin."
+  ],
+  "documents": [
+    "İş sözleşmesi",
+    "Hizmet dökümü",
+    "Toplu iş sözleşmesi"
+  ],
+  "faq": [
+    {
+      "q": "Yıllık izin hakkından vazgeçebilir miyim?",
+      "a": "Hayır, yıllık ücretli izin hakkından vazgeçilmesi kanunen mümkün değildir."
+    },
+    {
+      "q": "Mevsimlik işçiler bu haktan yararlanır mı?",
+      "a": "Niteliklerinden ötürü bir yıldan az süren mevsimlik veya kampanya işlerinde çalışanlara bu hükümler uygulanmaz."
+    },
+    {
+      "q": "İzin süreleri sözleşmeyle artabilir mi?",
+      "a": "Evet, yıllık izin süreleri iş sözleşmeleri ve toplu iş sözleşmeleri ile artırılabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "fazla-mesai-ucreti",
+  "angle": "Yıllık izin",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

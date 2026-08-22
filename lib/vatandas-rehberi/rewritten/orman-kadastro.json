@@ -1,0 +1,100 @@
+{
+  "slug": "orman-kadastro",
+  "title": "Orman kadastrosu — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Orman kadastrosu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
+  "h1": "Orman kadastrosu",
+  "keywords": [
+    "orman kadastrosu",
+    "orman kadastro"
+  ],
+  "category": "Eşya",
+  "related": [
+    "izale-i-suyu",
+    "kadastro-tespitine-itiraz",
+    "tapu-iptal-tescil",
+    "tarla-tapu-tarim"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/izale-i-suyu"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    },
+    {
+      "label": "İdare",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Orman kadastrosu, arazinizin orman sınırları içerisinde kalıp kalmadığını belirleyen resmî bir tespit sürecidir. Bu işlem, mülkiyet haklarınızın sınırlarını netleştirerek gelecekte yaşanabilecek hukuki belirsizlikleri ortadan kaldırır.",
+  "keyInsight": "Arazinizin orman sınırları içinde olduğu kesinleşirse, bu alan üzerinde mülkiyet haklarınız kısıtlanabilir ve ağaçlar üzerinde üst hakkı kurulamaz.",
+  "sections": [
+    {
+      "heading": "Orman sınırları neden önemlidir?",
+      "paragraphs": [
+        "Arazinizin tapusuna sahip olsanız bile, kadastro çalışmaları sırasında orman sınırları içerisinde kaldığı tespit edilebilir. Ormanlar, özel mülkiyetin aksine kamu yararı gözetilerek koruma altındadır.",
+        "Ağaçlar ve ormanlık alanlar, Türk Medeni Kanunu gereği **üst hakkına konu olamaz**. Yani araziniz orman sayılan bir yer ise, buradaki bitki örtüsü üzerinde özel tasarruf yetkiniz oldukça sınırlıdır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Komşu ormanla aranızdaki sınır",
+      "paragraphs": [
+        "Sıradan bir bahçede komşunuzun ağaçları sizin arazinize taşarsa, bunları kestirip kendi mülkiyetinize geçirme hakkınız olabilir. Ancak söz konusu olan bir orman ise kurallar tamamen değişir.",
+        "Komşu ormanlar hakkında bu tür özel mülkiyet hükümleri uygulanmaz. Orman sınırına yakın bir araziniz varsa, ağaçların taşması durumunda kendi başınıza müdahale etmeniz **yasal olarak yasaktır**."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Ormana giriş ve ürün toplama hakkı",
+      "paragraphs": [
+        "Yetkili makamlar tarafından özel bir yasak getirilmediği sürece, herkes başkasının ormanına girebilir. Bu alanlarda yabanî meyve veya mantar gibi ürünleri yerel âdetlere uygun şekilde toplamak mümkündür.",
+        "Unutmayın ki bu hak sadece doğadan kendiliğinden yetişen ürünler içindir. Avlanmak veya balık tutmak gibi faaliyetler, ormana girme hakkından tamamen farklı ve özel kanunlara tabi süreçlerdir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kadastro ve mülkiyet kayıtları",
+      "paragraphs": [
+        "Taşınmazınızın durumu tapu sicilinde ve kadastro planlarında açıkça görünmelidir. Eğer henüz kadastrosu yapılmamış bir yerdeyse, haklarınızın korunması için kayıtların düzenli tutulması hayati önem taşır.",
+        "Eklentileriniz veya arazinizdeki yapıların sınırları, kadastro planında doğru gösterilmelidir. Aksi takdirde, orman sınırlarıyla çakışan bir hata mülkiyetinizi riske atabilir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İlgili tapu müdürlüğünden taşınmazınızın güncel çap haritasını alın.",
+    "Orman kadastro haritalarını inceleyerek arazinizin sınırlarını karşılaştırın.",
+    "Sınır ihlali şüphesi varsa kadastro müdürlüğüne yazılı başvuruda bulunun.",
+    "Resmî ölçüm sonuçlarını takip ederek tapu sicilindeki bilgilerinizi güncelleyin."
+  ],
+  "documents": [
+    "Tapu senedi",
+    "Kadastro paftası veya çap haritası",
+    "Yapı kullanma izin belgesi",
+    "İlgili idareden alınan durum yazısı"
+  ],
+  "faq": [
+    {
+      "q": "Arazim orman sınırına girerse tapum geçersiz mi olur?",
+      "a": "Tapu kaydınızın olması mülkiyetinizi temsil eder ancak orman kadastrosu kesinleşmiş bir sınır belirlemişse, bu durum mülkiyet haklarınızın kullanımını kısıtlayabilir."
+    },
+    {
+      "q": "Ormandaki ağaçları kesebilir miyim?",
+      "a": "Hayır, ormanlar üst hakkına konu olamaz ve özel kanunlarla korunur. İzinsiz müdahale ciddi hukuki yaptırımlara yol açar."
+    },
+    {
+      "q": "Orman kadastrosuna nasıl itiraz edilir?",
+      "a": "Kadastro sonuçları askıya çıktığında, belirlenen süreler içerisinde ilgili idarelere yazılı olarak itiraz etmeniz gerekir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "izale-i-suyu",
+  "angle": "Orman kadastrosu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

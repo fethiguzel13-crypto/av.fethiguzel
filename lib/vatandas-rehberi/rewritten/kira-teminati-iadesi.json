@@ -1,0 +1,113 @@
+{
+  "slug": "kira-teminati-iadesi",
+  "title": "Kira Depozitosu Nasıl Geri Alınır?",
+  "description": "Kira teminatı (depozito) iadesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
+  "h1": "Kira teminatı (depozito) iadesi",
+  "keywords": [
+    "kira depozitosu iadesi",
+    "teminat iadesi kira"
+  ],
+  "category": "Kira",
+  "related": [
+    "kira-artis-orani-nasil-hesaplanir",
+    "kiraci-nasil-tahliye-edilir",
+    "tuketici-hakem-heyeti",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kira-artis-orani-nasil-hesaplanir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=kira"
+    }
+  ],
+  "lead": "Anahtarı teslim ettiniz ancak ev sahibi depozitonuzu vermiyor. Asıl mesele, evde meydana gelen olağan yıpranma ile gerçek zararın nasıl ayrılacağıdır.",
+  "keyInsight": "Güvence bedelinin iadesi için ev teslim tutanağı ve ödeme dekontu en büyük dayanağınızdır.",
+  "sections": [
+    {
+      "heading": "Evi boşaltırken neye dikkat etmeli?",
+      "paragraphs": [
+        "Evi ilk aldığınız günkü haliyle ve sözleşmedeki şartlara uygun şekilde boşaltmanız beklenir. Kiralanan taşınmazın kullanımı bittiğinde, taraflar arasında durumun tespiti büyük önem taşır.",
+        "Kullanımdan kaynaklanan doğal eskime ve aşınmalar zarar sayılmaz. Ev sahibi, boya badana gibi olağan masrafları depozitodan düşemez."
+      ],
+      "bullets": [
+        "Olağan yıpranma kesilemez",
+        "Teslim tutanağı şart"
+      ]
+    },
+    {
+      "heading": "Kesinti yapılabilir mi?",
+      "paragraphs": [
+        "Ev sahibinin depozitodan kesinti yapabilmesi için kiracının kusurundan doğan gerçek bir zararın varlığı gerekir. Bu zarar somut olarak belgelenmelidir.",
+        "Güvence bedeliyle ilgili hak ararken **yazılı kayıt** ve banka dekontları elinizi güçlendirir. Elden yapılan ödemelerde ispat yükü zorlaşır."
+      ],
+      "bullets": [
+        "Gerçek zarar belgelenmeli",
+        "Elden ödemede ispat zor"
+      ]
+    },
+    {
+      "heading": "Parayı geri isteyememe riski nedir?",
+      "paragraphs": [
+        "Süreci belgesiz yürütmek ve ev sahibinin sözlü vaatlerine güvenmek en sık yapılan hatadır. Anahtar teslimi sırasında tutanak tutulmazsa hasar iddialarıyla karşılaşabilirsiniz.",
+        "Hak arama sürecinde **zamanaşımı** kurallarına dikkat etmek gerekir. Alacak taleplerinizi geciktirmeden resmi yollara taşımalısınız."
+      ],
+      "bullets": [
+        "Tutanaksız teslim risklidir",
+        "Süreci geciktirmeyin"
+      ]
+    },
+    {
+      "heading": "Uyuşmazlık çıkarsa ne yapmalı?",
+      "paragraphs": [
+        "Ev sahibi parayı iade etmiyorsa kira ilişkisinden kaynaklanan uyuşmazlıklar için dava açmadan önce arabulucuya başvurulması dava şartıdır.",
+        "Arabuluculuk aşamasında anlaşma sağlanamazsa, hukuki yollardan alacağın tahsili için süreç devam ettirilebilir."
+      ],
+      "bullets": [
+        "Arabuluculuk dava şartıdır",
+        "Anlaşma olmazsa yasal yol açılır"
+      ]
+    }
+  ],
+  "steps": [
+    "Sözleşmedeki depozito tutarını ve ödeme şeklini bulun.",
+    "Teslim tutanağı ve hasar fotoğraflarını eksiksiz alın.",
+    "Makul onarım dışı kesintileri kabul etmeyip yazılı sorun.",
+    "Gerekirse ihtar çekerek depozitonun iadesini isteyin.",
+    "Ödeme yapılmazsa arabuluculuk yoluna başvurun."
+  ],
+  "documents": [
+    "kira sözleşmesi",
+    "depozito dekontu",
+    "teslim tutanağı",
+    "ihtarname"
+  ],
+  "faq": [
+    {
+      "q": "Ev sahibi boya masrafını depozitodan kesebilir mi?",
+      "a": "Kullanımdan doğan olağan yıpranmalar ve eskime bedelleri kiracıdan istenemez; bu nedenle boya masrafı kesilemez."
+    },
+    {
+      "q": "Depozito elden verildiyse nasıl ispat edilir?",
+      "a": "Elden ödemelerde yazılı bir belge veya sözleşmede imza yoksa ispat oldukça güçleşir, bu yüzden ödemelerin banka aracılığıyla yapılması şarttır."
+    },
+    {
+      "q": "İade için nereye başvurulmalıdır?",
+      "a": "Kira ilişkisinden doğan uyuşmazlıklarda öncelikle arabulucuya başvurulması zorunludur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kira-artis-orani-nasil-hesaplanir",
+  "angle": "Depozito iadesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "damga-vergisi-nedir",
+  "title": "Damga vergisi nedir? Kim öder — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Damga vergisi nedir? Kim öder? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
+  "h1": "Damga vergisi nedir? Kim öder?",
+  "keywords": [
+    "damga vergisi nedir"
+  ],
+  "category": "Vergi",
+  "related": [
+    "emlak-vergisi-nedir",
+    "kira-sozlesmesi-nasil-yapilir",
+    "noter-islemleri",
+    "gayrimenkul-satis-vaadi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/emlak-vergisi-nedir"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/damga-vergisi"
+    },
+    {
+      "label": "VUK",
+      "href": "/kategori/vuk"
+    }
+  ],
+  "lead": "El sıkıştınız, mukavelenameyi imzaladınız. Asıl mesele, o kağıdın hukuk dünyasında bir hüküm ifade etmesi ve damga vergisini doğurmasıdır.",
+  "keyInsight": "Hükmünden faydalanılan ve zamanaşımına uğrayan evrak sonradan kullanılırsa vergi alacağı yeniden doğar.",
+  "sections": [
+    {
+      "heading": "Hangi kağıtlar vergi doğurur?",
+      "paragraphs": [
+        "Bir hakkın ispatına delil olarak kullanılabilen mukavelename, taahhütname, kefaletname ve mahkeme ilamları gibi hukuki vesikalar dosyalarda saklanır. Bu belgelerin varlığı, ticari veya hukuki hayatın resmiyet kazanmasını sağlar.",
+        "Tüccarlar ve mükellefler, bu tip kıymetli evrakı düzenlerken **vergi mükellefiyeti** ile karşı karşıya kalırlar. Belgenin niteliği, ödemenin doğasını belirler."
+      ],
+      "bullets": [
+        "Mukavelenameler",
+        "Taahhütnameler",
+        "Kefaletnameler"
+      ]
+    },
+    {
+      "heading": "Zamanaşımı süresi nasıl işler?",
+      "paragraphs": [
+        "Vergi alacağının doğduğu takvim yılını takip eden yılın başından itibaren **beş yıl** içinde tarh ve tebliğ edilmeyen vergiler zamanaşımına uğrar. Bu süre, devletin alacağını takip etmesi için belirlenmiş resmi bir sınırdır.",
+        "Ancak matrah takdiri için takdir komisyonuna başvurulması bu süreyi durdurur. Komisyon kararının vergi dairesine bildirilmesiyle süre kaldığı yerden işlemeye devam eder."
+      ],
+      "bullets": [
+        "Takip eden yılın başı",
+        "Beş yıllık süre kuralı"
+      ]
+    },
+    {
+      "heading": "Evrakın yeniden kullanılması ne anlama gelir?",
+      "paragraphs": [
+        "Damga vergisine tabi olan ve cezası zamanaşımına uğramış bir evraktan, süre dolduktan sonra yeniden faydalanılması mümkündür.",
+        "Eğer bu hükümden faydalanma gerçekleşirse, **vergi alacağı** hukuken yeniden doğar ve mükellef için yükümlülük baştan başlar."
+      ],
+      "bullets": [
+        "Zamanaşımı sonrası kullanım",
+        "Yeniden doğan alacak"
+      ]
+    },
+    {
+      "heading": "Belgeler nasıl saklanmalıdır?",
+      "paragraphs": [
+        "Tüccarlar, hukuki vesikaları ve vergi makbuzlarını ilgili dosyalarda muhafaza etmek zorundadır. Elektronik ortamdaki kayıtlar da bu kapsamda değerlendirilir.",
+        "Belgelerin usulüne uygun saklanması, ileride doğabilecek vergi incelemelerinde **hak kaybı** yaşanmasını önler."
+      ],
+      "bullets": [
+        "Dosyada muhafaza",
+        "Elektronik kayıtlar"
+      ]
+    }
+  ],
+  "steps": [
+    "Hukuki vesikaları ve mukavelenameleri usulüne uygun şekilde düzenleyin.",
+    "Düzenlenen belgeleri ilgili dosyalarda eksiksiz muhafaza edin.",
+    "Vergi ve cezaların zamanaşımı sürelerini takvim yılı başından itibaren takip edin.",
+    "Zamanaşımına uğramış eski evrakın hükmünden yeniden faydalanırken vergi risklerini göz önünde bulundurun."
+  ],
+  "documents": [
+    "Mukavelename",
+    "Taahhütname",
+    "Kefaletname",
+    "Mahkeme ilamı",
+    "Vergi makbuzu"
+  ],
+  "faq": [
+    {
+      "q": "Damga vergisi zamanaşımı süresi ne kadardır?",
+      "a": "Vergi alacağının doğduğu takvim yılını takip eden yılın başından itibaren beş yıldır."
+    },
+    {
+      "q": "Zamanaşımına uğrayan evrak sonradan kullanılırsa ne olur?",
+      "a": "Evrakın hükmünden zamanaşımı süresi dolduktan sonra faydalanıldığı takdirde vergi alacağı yeniden doğar."
+    },
+    {
+      "q": "Hangi belgeler dosyada saklanmalıdır?",
+      "a": "Mukavelename, taahhütname, kefaletname, mahkeme ilamları ve vergi makbuzları gibi hukuki vesikalar saklanmalıdır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "emlak-vergisi-nedir",
+  "angle": "Damga",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

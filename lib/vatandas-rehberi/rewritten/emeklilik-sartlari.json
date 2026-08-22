@@ -1,0 +1,120 @@
+{
+  "slug": "emeklilik-sartlari",
+  "title": "Emeklilik Şartları Nelerdir? Yaş ve Prim | Vatandaş Rehberi",
+  "description": "Emeklilik şartları nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
+  "h1": "Emeklilik şartları nelerdir?",
+  "keywords": [
+    "emeklilik şartları",
+    "kaç prim günü",
+    "emeklilik yaşı"
+  ],
+  "category": "Sosyal Güvenlik",
+  "related": [
+    "dogum-borclanmasi",
+    "emekli-maasi-hesaplama",
+    "emeklilikte-yasa-takilanlar",
+    "e-devlet-sgk-hizmet",
+    "yurt-disi-borclanma",
+    "olum-ayligi-dul-yetim",
+    "e-devlet-sgk-borcu",
+    "sgk-tesvik-nedir",
+    "gecici-is-goremezlik",
+    "prim-iadesi-sgk",
+    "intibak-emeklilik",
+    "emekli-ikramiyesi"
+  ],
+  "links": [
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=emeklilik"
+    }
+  ],
+  "lead": "Emeklilik hakkı elde etmek için yaş, prim günü ve çalışma süresinin bir arada tamamlanması gerekir. İşlemleri başlatmadan önce SGK kayıtlarındaki günlerinizi ve sigorta kollarınızı dikkatle incelemelisiniz.",
+  "keyInsight": "Yıllara göre değişen yaş hadleri ve prim günleri, ilk işe giriş tarihinize ve sigortalılık statünüze göre farklılık gösterir.",
+  "sections": [
+    {
+      "heading": "Temel şartlar nasıl hesaplanır?",
+      "paragraphs": [
+        "Çalışma hayatınız boyunca adınıza yatan primler, yaşınız ve sigorta başlangıcınız emeklilik tablosunu belirler. Kadınlar ve erkekler için kanunda öngörülen **yaş hadleri** ile prim gün sayıları dönemlere göre ayrılır.",
+        "İlk defa sigortalı sayılanlar için kadınlarda 58, erkeklerde 60 yaşını doldurmuş olmak temel kuraldır. Bunun yanı sıra istenen prim gün sayısı da çalışılan statüye göre değişiklik gösterir."
+      ],
+      "bullets": [
+        "Kadınlar için 58, erkekler için 60 yaş sınırı",
+        "Genel kural olarak en az 9000 gün prim",
+        "4/a kapsamındakiler için 7200 gün prim şartı"
+      ]
+    },
+    {
+      "heading": "Prim gün sayısı ve kademeli geçiş",
+      "paragraphs": [
+        "Takvim yıllarına göre kademeli yaş artışları uygulanmaktadır. Belirlenen dönemlerde emeklilik yaşı kademeli olarak artarak 65 yaşına kadar çıkar.",
+        "Bu süreçte yaş hadlerinin uygulanmasında, **prim gün sayısı şartının doldurulduğu tarih** büyük önem taşır. O tarihteki kurallar sizin için baz alınır."
+      ],
+      "bullets": [
+        "2036 ve sonrasında kademeli yaş artışları",
+        "Gün şartının tamamlandığı tarihteki yaş esas alınır",
+        "En geç 65 yaş sınırı"
+      ]
+    },
+    {
+      "heading": "Alternatif emeklilik ve yaş haddi kolaylığı",
+      "paragraphs": [
+        "Normal şartları tam olarak sağlayamayanlar için daha az primle emeklilik yolları da mevcuttur. Belirli bir yaş eklenerek daha düşük prim günüyle de aylık bağlanabilir.",
+        "Bu haktan yararlanabilmek için **en az 5400 gün** prim bildirilmiş olması ve yaş haddine belirli yıl eklenmesi şartı aranır."
+      ],
+      "bullets": [
+        "65 yaşı geçmemek şartıyla üç yıl ekleme",
+        "En az 5400 gün prim ile emeklilik imkânı"
+      ]
+    },
+    {
+      "heading": "Engelli ve malul çalışanlar için haklar",
+      "paragraphs": [
+        "İşe başlamadan önce sağlık sorunu bulunan veya çalışma gücünü sonradan kaybeden sigortalılar için özel düzenlemeler bulunur. Kurul raporlarıyla bu durum belgelenir.",
+        "İlk işe girişten önce malul sayılacak derecede engeli bulunanlar için **en az 15 yıl** sigortalılık süresi aranır."
+      ],
+      "bullets": [
+        "Sağlık kurulu raporu ile tespit",
+        "En az 3960 gün prim şartı",
+        "15 yıllık sigortalılık süresi"
+      ]
+    }
+  ],
+  "steps": [
+    "Sigortalılık türünüzü tespit edin.",
+    "e-Devlet üzerinden prim gününüzü ve yaşınızı kontrol edin.",
+    "Kademeli yaş ve prim tablonuzu inceleyin.",
+    "Eksik günleriniz varsa borçlanma imkanlarını araştırın.",
+    "Şartları sağladığınızda SGK'ya tahsis talebinde bulunun."
+  ],
+  "documents": [
+    "hizmet dökümü",
+    "kimlik",
+    "borçlanma evrakı",
+    "tahsis talebi"
+  ],
+  "faq": [
+    {
+      "q": "Kaç prim günü ile emekli olabilirim?",
+      "a": "Genel olarak 9000 gün aranırken, 4/a kapsamında olan sigortalılar için bu şart 7200 gün olarak uygulanır."
+    },
+    {
+      "q": "Yaş şartı yıllara göre değişiyor mu?",
+      "a": "Evet, 2036 yılından itibaren kademeli olarak kadınlarda ve erkeklerde yaş sınırları artmaktadır."
+    },
+    {
+      "q": "Daha az primle emekli olmak mümkün mü?",
+      "a": "En az 5400 gün prim bildirilmiş olması ve yaş haddine üç yıl eklenmesi şartıyla yaşlılık aylığından yararlanılabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "emeklilik-sartlari",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

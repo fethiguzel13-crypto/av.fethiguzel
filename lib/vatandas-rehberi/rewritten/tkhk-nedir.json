@@ -1,0 +1,113 @@
+{
+  "slug": "tkhk-nedir",
+  "title": "TKHK nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "TKHK nedir hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "TKHK nedir",
+  "keywords": [
+    "tkhk nedir",
+    "tkhk nedir"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "kanun-maddesi-nasil-okunur",
+    "tuketici-hakem-heyeti",
+    "ayip-mal-iade",
+    "mesafeli-satis-cayma"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kanun-maddesi-nasil-okunur"
+    },
+    {
+      "label": "TKHK",
+      "href": "/kategori/tkhk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=t%C3%BCketici"
+    }
+  ],
+  "lead": "Tüketicinin Korunması Hakkında Kanun, yani kısaca TKHK, marketten aldığınız bozuk undan serviste kaybolan telefonunuza kadar hayatın içinde güçlü bir koruma kalkanıdır. Ama bu kalkanın arkasına geçmek için **doğru adımları** tam sırasıyla atmanız gerekir.",
+  "keyInsight": "Esnaf ile yapılan alışverişlerde değil, doğrudan ticari veya mesleki amaç dışı **kişisel ihtiyaçlar** için yapılan işlemler bu kanunun kapsamına girer.",
+  "sections": [
+    {
+      "heading": "Hangi alışverişler bu kanunun kapsamına girer?",
+      "paragraphs": [
+        "Mağazadan aldığınız mont, internetten sipariş ettiğiniz masa veya eve gelen internet hizmeti bu kanunun konusudur. Karşınızdaki büyük bir şirket de olsa, mahalledeki esnaf da olsa **tüketici sıfatıyla** haklarınız eşittir.",
+        "Ancak aldığınız ürünü dükkan açmak için veya ticari bir işte kullanmak üzere aldıysanız durum değişir. Kanun sadece evinizde, günlük hayatınızda kullandığınız **özel ihtiyaçlar** için size bu yolu açar."
+      ],
+      "bullets": [
+        "Kişisel ve ailevi kullanım",
+        "Satıcı ile doğrudan yapılan sözleşme"
+      ]
+    },
+    {
+      "heading": "Sorun çıktığında ilk olarak ne yapmalısınız?",
+      "paragraphs": [
+        "Ürün bozuk çıktı ya da hizmet yarım kaldı. Telaşla bağırmak yerine elinizdeki **belgeleri bir araya getirmelisiniz**. Satıcıyla yapılan yazışmalar ve fiş, en büyük dayanağınızdır.",
+        "Önce karşı tarafa durumu net bir dille anlatıp çözüm isteyin. Onlar sorumluluktan kaçarsa, elinizdeki kanıtlarla **resmi başvuru** yollarına geçiş yaparsınız."
+      ],
+      "bullets": [
+        "Sözlü tartışmadan kaçının",
+        "Talebinizi yazılı olarak iletin"
+      ]
+    },
+    {
+      "heading": "Hangi durumlarda hakem heyetine gidilir?",
+      "paragraphs": [
+        "Satıcıyla anlaşma sağlanamadığında çözüm yeri hakem heyetleridir. Burada avukata gerek yoktur; vatandaş doğrudan derdini **kendi kelimeleriyle** anlatabilir.",
+        "Başvuru yaparken aldığınız ürünün tutarını bilmeniz ve heyetin görev alanına göre **doğru kurumu** seçmeniz sürecin hızlanmasını sağlar."
+      ],
+      "bullets": [
+        "Ücretsiz başvuru imkanı",
+        "Kolay takip edilebilir süreç"
+      ]
+    },
+    {
+      "heading": "Süreci yönetirken en sık yapılan hatalar nelerdir?",
+      "paragraphs": [
+        "En büyük yanlış, zamanın hızla akmasına izin verip **belgeleri kaybetmektir**. Garanti belgesi veya orijinal kutu gibi detaylar ortada yoksa hak aramak zorlaşır.",
+        "Bir diğer hata ise öfkeyle ürünün veya malın üzerinde değişiklik yapmaktır. Ürünü kurcalamak ya da tamir etmeye çalışmak **sorumluluğu üzerinize** yıkabilir."
+      ],
+      "bullets": [
+        "Fişi veya faturayı çöpe atmak",
+        "Ürüne yetkisiz müdahale etmek"
+      ]
+    }
+  ],
+  "steps": [
+    "Sorunu ve kusurlu durumu net bir şekilde fotoğraflayın veya yazıyla kayda geçirin.",
+    "Satıcıya veya hizmet sağlayıcıya giderek talebinizi iletin.",
+    "Olumsuz yanıt alırsanız veya geri dönüş yapılmazsa ilgili başvuru evraklarını hazırlayın.",
+    "e-Devlet üzerinden veya doğrudan ilgili tüketici başvuru birimine müracaat edin.",
+    "Heyet veya ilgili kurumdan gelecek kararı bekleyin."
+  ],
+  "documents": [
+    "Alışveriş fişi veya fatura",
+    "Garanti belgesi",
+    "Satıcıyla yapılan yazışma veya e-postalar",
+    "Arızalı veya kusurlu ürünün fotoğrafları"
+  ],
+  "faq": [
+    {
+      "q": "Her alışveriş TKHK kapsamında mıdır?",
+      "a": "Hayır. Sadece ticari olmayan, kişisel ve ailevi ihtiyaçlar için yapılan alışverişler bu kanunla korunur."
+    },
+    {
+      "q": "Başvuru yapmak için avukat tutmak zorunlu mu?",
+      "a": "Kesinlikle hayır. Tüketici hakem heyetlerine başvurular bireysel olarak ve kolayca yapılabilir."
+    },
+    {
+      "q": "Fişimi kaybettim, hiç mi hakkım yok?",
+      "a": "İşlem Kredi kartı ekstresi, banka dekontu veya kargo teslim fişi gibi alternatif belgelerle ispatlanabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kanun-maddesi-nasil-okunur",
+  "angle": "TKHK nedir",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

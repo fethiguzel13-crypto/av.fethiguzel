@@ -1,0 +1,110 @@
+{
+  "slug": "issizlik-maasi-hesaplama",
+  "title": "İşsizlik maaşı nasıl hesaplanır — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İşsizlik maaşı nasıl hesaplanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
+  "h1": "İşsizlik maaşı nasıl hesaplanır?",
+  "keywords": [
+    "işsizlik maaşı hesaplama",
+    "işsizlik ödeneği ne kadar"
+  ],
+  "category": "İş",
+  "related": [
+    "issizlik-maasi-sartlari",
+    "is-sozlesmesi-feshi",
+    "sgk-hizmet-dokumu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/issizlik-maasi-sartlari"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=i%C5%9Fsizlik"
+    }
+  ],
+  "lead": "İşten ayrıldınız ve maaşınızın ne kadar olacağını merak ediyorsunuz. İşsizlik ödeneği, son dönemdeki kazançlarınız baz alınarak hesaplanır.",
+  "keyInsight": "Ödemenin ne kadar olacağı, son aylardaki prime esas kazançlarınıza göre belirlenir.",
+  "sections": [
+    {
+      "heading": "Ödeme neye göre belirlenir?",
+      "paragraphs": [
+        "İşsizlik maaşı hesaplanırken son dönemdeki kazançlarınız masaya yatırılır. Bu tutar belirlenirken belirli tavan ve taban sınırları dikkate alınır.",
+        "Günlük ortalama kazancınız üzerinden yapılan bu hesaplama, elinize geçecek net rakamı şekillendirir."
+      ],
+      "bullets": [
+        "Son kazançlar baz alınır",
+        "Sınırlar dikkate alınır"
+      ]
+    },
+    {
+      "heading": "Hangi kazançlar hesaba katılır?",
+      "paragraphs": [
+        "Son aylarda aldığınız brüt ücretler hesaplamanın temelini oluşturur. Düzenli ödenen primler bu aşamada önem taşır.",
+        "Eksik günler veya prim kesintileri hesaplamayı doğrudan etkileyebilir."
+      ],
+      "bullets": [
+        "Brüt ücret esas alınır",
+        "Prim günleri incelenir"
+      ]
+    },
+    {
+      "heading": "Hesaplama nasıl yapılır?",
+      "paragraphs": [
+        "Son dört aylık prime esas kazançlar toplanır ve ortalama günlük kazanç bulunur. Bu rakam üzerinden ödenek miktarına ulaşılır.",
+        "Maaşın üst sınırına dikkat edilir; belirlenen tavan rakamı aşamaz."
+      ],
+      "bullets": [
+        "Dört aylık ortalama",
+        "Tavan sınır kontrolü"
+      ]
+    },
+    {
+      "heading": "Ödemeler ne zaman yatar?",
+      "paragraphs": [
+        "Başvurunuz onaylandıktan sonra belirlenen takvime göre ödemeler hesabınıza aktarılır. Süreci düzenli takip etmelisiniz.",
+        "Adınıza yatan parayı **ilgili kurum** aracılığıyla çekebilirsiniz."
+      ],
+      "bullets": [
+        "Onay sonrası başlar",
+        "Düzenli ödenir"
+      ]
+    }
+  ],
+  "steps": [
+    "Son dört aya ait kazanç dökümünü inceleyin.",
+    "Kuruma süresi içinde başvurunuzu yapın.",
+    "Hesaplanan tutarın yatacağı günü bekleyin.",
+    "Bildirimleri düzenli olarak kontrol edin."
+  ],
+  "documents": [
+    "İşten ayrılış bildirgesi",
+    "Kimlik belgesi",
+    "Başvuru dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "İşsizlik maaşı ne kadar sürede bağlanır?",
+      "a": "Başvurunuz incelendikten sonra şartların uygunluğu halinde sonuçlandırılır."
+    },
+    {
+      "q": "Herkes aynı tutarda mı maaş alır?",
+      "a": "Hayır, kişilerin son dönemdeki brüt kazançlarına göre tutar değişiklik gösterir."
+    },
+    {
+      "q": "Tavan tutar neye göre belirlenir?",
+      "a": "Kanuni sınırlar ve asgari ücret artışları bu üst senedi belirler."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "issizlik-maasi-sartlari",
+  "angle": "Hesap",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

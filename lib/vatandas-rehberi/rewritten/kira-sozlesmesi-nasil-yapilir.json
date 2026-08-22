@@ -1,0 +1,112 @@
+{
+  "slug": "kira-sozlesmesi-nasil-yapilir",
+  "title": "Kira Sözleşmesi Nasıl Yapılır?",
+  "description": "Kira sözleşmesi nasıl düzenlenir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
+  "h1": "Kira sözleşmesi nasıl düzenlenir?",
+  "keywords": [
+    "kira sözleşmesi nasıl yapılır",
+    "konut kira sözleşmesi"
+  ],
+  "category": "Kira",
+  "related": [
+    "kira-artis-orani-nasil-hesaplanir",
+    "kira-teminati-iadesi",
+    "tahliye-taahhutnamesi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kira-artis-orani-nasil-hesaplanir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/kira"
+    }
+  ],
+  "lead": "Kira sözleşmesi yaparken ev sahibi ile kiracı arasındaki şartları netleştirmek ileride yaşanacak uyuşmazlıkları önler. Güvence bedeli ve aile konutu gibi kurallara baştan dikkat etmek gerekir.",
+  "keyInsight": "Güvence bedeli üç aylık kira bedelini aşamaz ve paranın vadeli tasarruf hesabına yatırılması şarttır.",
+  "sections": [
+    {
+      "heading": "Ev tutarken nelere dikkat etmeli?",
+      "paragraphs": [
+        "Yeni bir eve taşınırken imzalanan sözleşme tarafların haklarını belirler. Asıl önemli olan, tarafların yükümlülüklerini ve ödenecek tutarları eksiksiz yazmaktır.",
+        "Sözleşmede güvence istenmişse bu bedelin **üç aylık kira bedelini** aşmaması kanuni bir zorunluluktur. Paranın veya kıymetli evrakın nasıl saklanacağı da kurallara bağlanmıştır."
+      ],
+      "bullets": [
+        "Güvence bedeli sınırı vardır",
+        "Vadeli tasarruf hesabı kullanılır"
+      ]
+    },
+    {
+      "heading": "Güvence parası nasıl saklanır?",
+      "paragraphs": [
+        "Ev sahibine verilen güvence parası elden verilip unutulmamalıdır. Para veya kıymetli evrak kiracının onayı olmadan çekilmemek üzere **vadeli bir tasarruf hesabına** yatırılır.",
+        "Sözleşme bittikten sonra bankadaki bu paranın geri alınması belirli şartlara bağlıdır. Ev sahibi süresi içinde yasal yollara başvurmazsa banka parayı iade eder."
+      ],
+      "bullets": [
+        "Onaysız para çekilemez",
+        "Bankaya depo edilir"
+      ]
+    },
+    {
+      "heading": "Aile konutu şerhi neden önemlidir?",
+      "paragraphs": [
+        "Evli kişilerin kiraladığı konut aile konutu sayılabilir. Bu durumda kiracı olan eş, **diğer eşin açık rızası** olmadan sözleşmeyi feshedemez.",
+        "Rızanın alınamadığı durumlarda hakimden karar istenmesi gerekebilir. Kiracı olmayan eş de bildirimde bulunarak sözleşmenin tarafı haline gelebilir."
+      ],
+      "bullets": [
+        "Açık rıza şarttır",
+        "Fesih için eşin onayı gerekir"
+      ]
+    },
+    {
+      "heading": "İleride çıkacak anlaşmazlıklar nasıl çözülür?",
+      "paragraphs": [
+        "Kira ilişkisinden doğan uyuşmazlıklarda doğrudan mahkemeye koşmadan önce **arabulucuya başvurulması** dava şartıdır. Taraflar anlaşamazsa düzenlenen son tutanak dava açılırken sunulur.",
+        "Arabuluculuk süreci sayesinde taraflar müzakere ederek ortak bir yol bulmaya çalışır. Anlaşma sağlanırsa imzalanan belgenin icra edilebilirliği mahkemeden istenebilir."
+      ],
+      "bullets": [
+        "Arabulucuya başvuru zorunludur",
+        "Son tutanak saklanmalıdır"
+      ]
+    }
+  ],
+  "steps": [
+    "Kira sözleşmesindeki maddeleri ve ödenecek tutarları dikkatlice okuyun.",
+    "Güvence bedelini üç aylık kira sınırını aşmayacak şekilde bankaya yatırın.",
+    "Aile konutu durumunda eşin açık rızasını alın.",
+    "Uyuşmazlık çıkması halinde dava açmadan önce arabulucuya başvurun.",
+    "Arabuluculuk sonunda verilen son tutanağı saklayın."
+  ],
+  "documents": [
+    "Kira sözleşmesi",
+    "Vadeli tasarruf hesabı dekontu",
+    "Eşin açık rıza belgesi",
+    "Arabuluculuk son tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "Güvence bedeli en çok ne kadar olabilir?",
+      "a": "Konut ve çatılı işyeri kiralarında güvence bedeli üç aylık kira bedelini aşamaz."
+    },
+    {
+      "q": "Kira sözleşmesini tek başına feshedebilir miyim?",
+      "a": "Aile konutu olarak kiralanan yerlerde, eşin açık rızası olmadıkça kira sözleşmesi feshedilemez."
+    },
+    {
+      "q": "Kira uyuşmazlığında direkt dava açabilir miyim?",
+      "a": "Kira ilişkisinden kaynaklanan uyuşmazlıklarda dava açmadan önce arabulucuya başvurulması zorunludur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kira-artis-orani-nasil-hesaplanir",
+  "angle": "Sözleşme kurulumu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

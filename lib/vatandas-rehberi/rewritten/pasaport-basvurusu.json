@@ -1,0 +1,105 @@
+{
+  "slug": "pasaport-basvurusu",
+  "title": "Pasaport başvurusu — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Pasaport başvurusu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
+  "h1": "Pasaport başvurusu",
+  "keywords": [
+    "pasaport başvurusu",
+    "pasaport basvurusu"
+  ],
+  "category": "Nüfus",
+  "related": [
+    "e-devlet-nufus",
+    "nufus-kayit-ornegi",
+    "ehliyet-alma-sartlari",
+    "yabanci-ikamet-izni"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/e-devlet-nufus"
+    },
+    {
+      "label": "NHK",
+      "href": "/kategori/nhk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=pasaport"
+    }
+  ],
+  "lead": "Pasaport başvurusu, e-Devlet üzerinden randevu alıp harçları yatırarak başlar. Nüfus müdürlüğüne gittiğinizde işlemleriniz kısa sürede tamamlanır ve pasaportunuz adresinize postalanır.",
+  "keyInsight": "Asıl tuzak, randevu saatine geç kalmak veya eksik evrakla gitmektir; bu yüzden tüm belgeleri önceden hazırlayın.",
+  "sections": [
+    {
+      "heading": "Yola çıkmadan önce ne yapmalısınız?",
+      "paragraphs": [
+        "Tatil planı yaptınız, biletler alındı ve sıra pasaporta geldi. Telaş yapmanıza gerek yok, süreç internet üzerinden birkaç tıkla başlıyor.",
+        "Öncelikle **e-Devlet üzerinden randevu** alıp gerekli harç ve defter bedelini anlaşmalı bankalara veya vergi dairesine yatırmalısınız."
+      ],
+      "bullets": [
+        "Süresi dolan eski pasaportunuzu yanınıza alın.",
+        "Ödeme dekontunu dijitalde veya kağıtta hazır tutun."
+      ]
+    },
+    {
+      "heading": "Hangi engellere dikkat etmelisiniz?",
+      "paragraphs": [
+        "Yurt dışı çıkış yasağı, ödenmemiş bazı kamu borçları veya askerlik durumu pasaport almanıza engel olabilir. Gitmeden önce bu konuları kontrol edin.",
+        "Umuma mahsus, hizmet veya hususi pasaport türlerinden hangisine başvurduğunuzu belirleyin. **Randevusuz işlem** çoğu ilde kabul edilmemektedir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Çocuklar için başvuru şartı nedir?",
+      "paragraphs": [
+        "18 yaş altı çocuklar için yapılacak başvurularda anne ve babanın ortak muvafakati şarttır. Velilerden biri gelemeyecekse noter onaylı rıza belgesi mutlaka dosyada yer almalıdır.",
+        "Çocukların kimlik kartında fotoğraf olma zorunluluğunu unutmayın."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Pasaportunuz ne zaman elinize geçer?",
+      "paragraphs": [
+        "Nüfus müdürlüğündeki randevunuz bittiğinde parmak iziniz alınır ve işlem tamamlanır. Pasaportunuz basıldıktan sonra **PTT aracılığıyla** belirttiğiniz adrese gönderilir.",
+        "Eski pasaportunuzdaki geçerli vizelerinizi yeni pasaportla birlikte kullanabilmeniz için eski cüzdanınızı da saklayın."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "e-Devletten randevu alın ve pasaport harcını yatırın.",
+    "Biyometrik fotoğrafınızı ve kimliğinizi hazırlayın.",
+    "18 yaş altı başvuruysa veli rızasını tamamlayın.",
+    "Randevu saatinde nüfus müdürlüğünde hazır olun.",
+    "Pasaportunuzun PTT ile size ulaşmasını bekleyin."
+  ],
+  "documents": [
+    "Nüfus cüzdanı veya kimlik kartı",
+    "Biyometrik fotoğraf",
+    "Harç ve defter bedeli dekontu",
+    "Veli rıza belgesi",
+    "Eski pasaport"
+  ],
+  "faq": [
+    {
+      "q": "Randevuya giderken harcı nakit ödeyebilir miyim?",
+      "a": "Hayır, harçlar randevudan önce anlaşmalı bankalara veya vergi dairesine yatırılmalıdır."
+    },
+    {
+      "q": "Eski pasaportumdaki vizeler yanar mı?",
+      "a": "Hayır, süresi biten pasaporttaki geçerli vizeler, yeni pasaportla birlikte ibraz edildiğinde geçerliliğini korur."
+    },
+    {
+      "q": "Çocuklar için parmak izi alınır mı?",
+      "a": "Belirli bir yaşın altındaki çocuklardan parmak izi alınmaz, ancak başvuru sırasında fiziki olarak bulunmaları gerekir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "e-devlet-nufus",
+  "angle": "Pasaport başvurusu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

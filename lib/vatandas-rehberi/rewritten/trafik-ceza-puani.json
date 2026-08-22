@@ -1,0 +1,110 @@
+{
+  "slug": "trafik-ceza-puani",
+  "title": "Trafik Ceza Puanı ve Silinme | Vatandaş Rehberi",
+  "description": "Trafik ceza puanı nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
+  "h1": "Trafik ceza puanı nedir?",
+  "keywords": [
+    "trafik ceza puanı",
+    "ehliyet ceza puanı"
+  ],
+  "category": "Trafik",
+  "related": [
+    "trafik-cezasina-itiraz",
+    "ehliyet-geri-alma",
+    "ehliyet-alma-sartlari"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/trafik-cezasina-itiraz"
+    },
+    {
+      "label": "KTK",
+      "href": "/kategori/ktk"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Trafik ceza puanı, kural ihlalleriniz sonucunda sürücü sicilinize işlenen ve belirli bir sınıra ulaştığında ehliyetinizin geri alınmasına yol açan idari bir sistemdir.",
+  "keyInsight": "Puanların silinmesi veya belgenin geri alınması süreci, yetkili görevlilerin ve ilgili birimlerin işlemleriyle yürütülür.",
+  "sections": [
+    {
+      "heading": "Trafik ceza puanı nasıl biriktirilir?",
+      "paragraphs": [
+        "Direksiyondasınız ve kırmızı ışıkta geçtiniz ya da hız sınırını aştınız. Her kural ihlalinin ardından adınıza düzenlenen tutanaklarla birlikte sicilinize belirli puanlar eklenir.",
+        "Bu puanlar tek başına anlık bir para cezasından ibaret görünse de, arka planda birikir ve ehliyetinizin güvenliğini doğrudan tehdit etmeye başlar."
+      ],
+      "bullets": [
+        "Kural ihlalleri sicile işlenir",
+        "Puanlar birikimli olarak takip edilir"
+      ]
+    },
+    {
+      "heading": "Sınır aşılırsa ne olur?",
+      "paragraphs": [
+        "Yollarda kural ihlalleri üst üste geldiğinde **belirlenen ceza puanı sınırına** ulaşılır. Bu eşik aşıldığında yetkili görevliler devreye girer.",
+        "Sürücü belgesinin geçici olarak geri alınması işlemi, kanunun yetki verdiği merciler tarafından gerçekleştirilir."
+      ],
+      "bullets": [
+        "Yetkili birimler işlem yapar",
+        "Belge geçici olarak geri alınabilir"
+      ]
+    },
+    {
+      "heading": "Kararlar nereye bildirilir?",
+      "paragraphs": [
+        "Mahkemelerce verilen ve sürücü belgelerinin geçici olarak geri alınması veya iptaline dair kesinleşmiş kararlar bekletilmez.",
+        "Bu kararlar, sürücülerin sicillerine işlenmek üzere ilgili trafik birimlerine doğrudan gönderilir."
+      ],
+      "bullets": [
+        "Kesinleşmiş kararlar iletilir",
+        "Sicil kayıtları güncellenir"
+      ]
+    },
+    {
+      "heading": "İşlemleri kim yürütür?",
+      "paragraphs": [
+        "Her kurumun bu süreçteki yetkisi kanunla belirlenmiştir. Genel kuralların uygulanmasında ve **sürücü belgelerinin geri alınmasında** belirli görevliler yetkilidir.",
+        "Bu yetki sınırları dışındaki bazı özel iptal veya geri alma kararlarını ise adli merciler verir."
+      ],
+      "bullets": [
+        "Görevli memurlar yetkilidir",
+        "Adli mercilerin kararları uygulanır"
+      ]
+    }
+  ],
+  "steps": [
+    "Trafik kuralı ihlali yapmaktan kaçının",
+    "Adınıza düzenlenen tutanakları ve ceza bildirimlerini takip edin",
+    "Yetkili birimlerin yaptığı sicil uyarılarını dikkate alın",
+    "Geri alma veya işlem durumunda resmi tebligatları bekleyin"
+  ],
+  "documents": [
+    "Trafik idari para cezası tutanağı",
+    "Sürücü belgesi sicil raporu",
+    "Yetkili birimlerin karar örneği"
+  ],
+  "faq": [
+    {
+      "q": "Ceza puanı nedir ve ne işe yarar?",
+      "a": "Kural ihlalleri sonucu sürücü siciline işlenen ve ehliyetin geri alınma sürecini tetikleyen puanlama sistemidir."
+    },
+    {
+      "q": "Ehliyetin geri alınmasına kim karar verir?",
+      "a": "Kanunda belirtilen yetkili görevliler ve mahkemeler bu süreci yürütür."
+    },
+    {
+      "q": "Mahkeme kararları trafik birimlerine nasıl ulaşır?",
+      "a": "Kesinleşmiş mahkeme kararları, sürücülerin siciline işlenmek üzere ilgili birimlere gönderilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "trafik-cezasina-itiraz",
+  "angle": "Ceza puanı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "istinaf-ve-temyiz-sureleri",
+  "title": "İstinaf ve Temyiz: Süreler, Parasal Sınırlar ve Dilekçe",
+  "description": "İstinaf süresi iki hafta, temyiz süresi iki hafta. Hangi karar istinaf edilebilir, hangi karar temyiz edilemez, parasal sınır hangi tarihe göre belirlenir? HMK m.341-345, m.361-362 ve EK m.1 çerçevesinde.",
+  "h1": "İstinaf ve temyiz nasıl işler?",
+  "keywords": [
+    "istinaf süresi",
+    "temyiz süresi",
+    "istinaf dilekçesi",
+    "temyiz edilemeyen kararlar",
+    "istinaf parasal sınır",
+    "kesinlik sınırı"
+  ],
+  "category": "Usul",
+  "related": [
+    "dava-nasil-acilir",
+    "usulsuz-tebligat-ve-itiraz"
+  ],
+  "links": [
+    {
+      "label": "HMK m.341 — İstinaf yoluna başvurulabilen kararlar",
+      "href": "/mevzuat/hmk/madde-341"
+    },
+    {
+      "label": "HMK m.342 — İstinaf dilekçesi",
+      "href": "/mevzuat/hmk/madde-342"
+    },
+    {
+      "label": "HMK m.344 — Harç ve giderlerin yatırılması",
+      "href": "/mevzuat/hmk/madde-344"
+    },
+    {
+      "label": "HMK m.345 — Başvuru süresi",
+      "href": "/mevzuat/hmk/madde-345"
+    },
+    {
+      "label": "HMK m.361 — Temyiz edilebilen kararlar",
+      "href": "/mevzuat/hmk/madde-361"
+    },
+    {
+      "label": "HMK m.362 — Temyiz edilemeyen kararlar",
+      "href": "/mevzuat/hmk/madde-362"
+    },
+    {
+      "label": "İstinaf ve temyiz süresi aracı",
+      "href": "/hesaplama/istinaf-temyiz"
+    }
+  ],
+  "lead": "Mahkemeden gelen kararı elinize aldığınızda telaşlanmayın, ancak süreci doğru yönetmek için zamanınız kısıtlıdır. Kararın size usulüne uygun tebliğ edildiği andan itibaren, hakkınızı aramak için önünüzde **iki haftalık** bir süre başlar.",
+  "keyInsight": "En büyük tuzak, parasal sınırın başvuru yaptığınız yıla göre değil, davanın açıldığı yıla göre belirlenmesidir.",
+  "sections": [
+    {
+      "heading": "Süreler nasıl işler?",
+      "paragraphs": [
+        "İstinaf ve temyiz yolları için kanun size **iki haftalık** bir süre tanır. Bu süre, kararın size usulen tebliğ edildiği gün başlar. Duruşma salonunda kararı duymuş olmanız süreyi başlatmaz; resmi tebligatın kapınıza gelmesini beklemelisiniz.",
+        "Öğrenme değil, tebliğ esastır. Süreyi kaçırmamak için tebligat zarfının üzerindeki tarihi mutlaka not edin."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hangi kararlar istinaf edilebilir?",
+      "paragraphs": [
+        "Her karar istinaf edilemez. Kanun, malvarlığı davalarında bir kesinlik sınırı belirlemiştir. Eğer davanızın değeri bu sınırın altındaysa, karar kesindir ve istinaf yolu kapalıdır.",
+        "Manevi tazminat davaları bu kuralın dışındadır. Miktar ne olursa olsun manevi tazminat kararlarına karşı istinaf yoluna başvurabilirsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Parasal sınır karmaşası",
+      "paragraphs": [
+        "Parasal sınırlar her yıl yeniden değerleme oranına göre güncellenir. Ancak en sık yapılan hata, başvurulan yılın sınırına bakmaktır. Oysa sizin dosyanız için geçerli olan, **davanın açıldığı yıl** belirlenen sınırdır.",
+        "Kısmi dava açtıysanız, sınır alacağın tamamına göre hesaplanır. Bu hesabı yanlış yaparsanız, başvurunuz reddedilebilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Dilekçe ve harç süreci",
+      "paragraphs": [
+        "İstinaf dilekçenizi kararı veren mahkemeye veya başka bir yerdeki mahkemeye verebilirsiniz. Dilekçenizde kimlik bilgileriniz, kararın tarihi ve neden istinaf etmek istediğiniz açıkça yazmalıdır.",
+        "Başvuru yaparken gerekli harç ve giderleri mutlaka yatırmalısınız. Eksik ödeme yaparsanız mahkeme size **bir haftalık kesin süre** verir; bu sürede tamamlamazsanız başvurunuz yapılmamış sayılır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Tebligat zarfının üzerindeki tarihi kontrol ederek iki haftalık sürenizi hesaplayın.",
+    "Davanızın açıldığı yılı tespit ederek o yıla ait parasal sınırı öğrenin.",
+    "Kararın kesinlik sınırının üstünde olup olmadığını teyit edin.",
+    "İstinaf dilekçenizi karşı taraf sayısı kadar örnekle hazırlayın.",
+    "Başvuru harçlarını ve tebliğ giderlerini tam olarak yatırın.",
+    "Mahkemeden aldığınız alındı belgesini mutlaka saklayın."
+  ],
+  "documents": [
+    "Mahkeme kararı (tebliğ edilmiş hali)",
+    "İstinaf veya temyiz dilekçesi",
+    "Harç ve giderlerin ödendiğine dair makbuzlar",
+    "Tebligat zarfı"
+  ],
+  "faq": [
+    {
+      "q": "İstinaf süresi kaç gündür?",
+      "a": "İstinaf süresi iki haftadır ve kararın usulen tebliğiyle işlemeye başlar."
+    },
+    {
+      "q": "Parasal sınır hangi yıla göre belirlenir?",
+      "a": "Davanın açıldığı tarihteki miktar esas alınır; başvuru yaptığınız yılın değil, davanın açıldığı yılın sınırı uygulanır."
+    },
+    {
+      "q": "Davayı kazandım ama gerekçeden memnun değilim, temyize gidebilir miyim?",
+      "a": "Evet, davada haklı çıksanız dahi hukuki yararınız bulunuyorsa kararı temyiz edebilirsiniz."
+    },
+    {
+      "q": "Harcı eksik yatırırsam ne olur?",
+      "a": "Mahkeme size bir haftalık kesin süre verir. Bu sürede tamamlamazsanız başvurunuz yapılmamış sayılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.93,
+  "voice": "narrative",
+  "source": "gemini"
+}

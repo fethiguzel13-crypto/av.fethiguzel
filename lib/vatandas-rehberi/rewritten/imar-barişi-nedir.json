@@ -1,0 +1,100 @@
+{
+  "slug": "imar-barişi-nedir",
+  "title": "İmar barışı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İmar barışı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "İmar barışı",
+  "keywords": [
+    "imar barışı",
+    "imar barişi nedir"
+  ],
+  "category": "İmar",
+  "related": [
+    "kentsel-donusum-nedir",
+    "iskan-belgesi-nedir",
+    "kacak-yapi-cezasi",
+    "tapu-devri-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kentsel-donusum-nedir"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=yap%C4%B1%20kay%C4%B1t"
+    }
+  ],
+  "lead": "Ev sahibisiniz ancak binanızın resmî evraklarında eksiklik var diye içiniz mi içini yiyor? İmar barışı, plan, fen, sağlık ve çevre şartlarına uygun olmayan yapılar için devlet nezdinde işleri yoluna koyma arayışıdır.",
+  "keyInsight": "Belediye sınırları ve imar programları içinde kalıp kamulaştırılacak ya da kamu hizmetine ayrılacak yerlerdeki haklarınızı, idari süreçleri ve tapu işlemlerini kanuni çizginin dışına çıkmadan yürütmeniz şarttır.",
+  "sections": [
+    {
+      "heading": "İmar planı ve programı ne anlama gelir?",
+      "paragraphs": [
+        "Belediyeler, imar planlarının yürürlüğe girmesinden hemen sonra bu planları hayata geçirmek için beş yıllık programlar hazırlar. Mecliste kabul edilen bu programlar kesinleşir ve ilgili kamu kuruluşlarına bildirilir.",
+        "Umumi hizmetlere ayrılan yerler kamulaştırılıncaya veya projeler gerçekleştirilinceye kadar diğer kanunlarla verilen **haklar aynen devam eder**."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kamuya ait arazilerde durum nedir?",
+      "paragraphs": [
+        "İmar planlarında meydan, yol, park veya otopark gibi umumi hizmetlere ayrılan Hazine arazileri belediyeye bedelsiz terk edilebilir. Ancak bu alanlar üzerinde bina varsa arsası hariç **yalnız binanın halihazır kıymeti** ödenir.",
+        "Bu şekilde devralınan arazi ve arsalar başka bir amaç için kullanılamaz ve satılamaz. Tapu kütüğünün beyanlar hanesine gerekli **şerh mutlaka düşülür**."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Belediyelerin sınır ve tüzel kişilik değişimi",
+      "paragraphs": [
+        "Nüfusu belli bir sınırın altına düşen belediyeler köye dönüştürülür ve tasfiye işlemleri il özel idaresi tarafından yürütülür. Bu süreçte tüm hak, alacak ve borçlar yeni tüzel kişiliğe intikal eder.",
+        "Birleşme veya katılma işlemlerinin ardından yeni plan yapılmaz, mevcut planlardaki zorunlu değişiklikler ise **ilgili belediyenin uygun görüşüyle** gerçekleştirilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kat mülkiyeti nasıl kurulur?",
+      "paragraphs": [
+        "Kat mülkiyeti ve kat irtifakı resmi senetle ve tapu siciline tescil ile doğar. Binanın tamamı mülkiyete çevrilmeden sadece bir bölümü üzerinde bu işlem yapılamaz.",
+        "Tescil işlemi için mimar tarafından hazırlanan ve yetkili kurumlarca onaylanan **mimari proje ile yapı kullanma izin belgesi** tapuya sunulmalıdır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Belediyenizin hazırladığı beş yıllık imar programını ve arsanızın durumunu inceleyin.",
+    "Binanızın bulunduğu arazinin mülkiyet durumunu ve kamu hizmetine ayrılıp ayrılmadığını teyit edin.",
+    "Kat mülkiyeti veya irtifakı için gerekli mimari projeyi hazırlatıp ilgili kurumlara başvurun.",
+    "Yapı kullanma izin belgesini ve onaylı projeleri tapu sicil müdürlüğüne teslim edin."
+  ],
+  "documents": [
+    "Yapı kullanma izin belgesi",
+    "Onaylı mimari proje",
+    "Yönetim planı",
+    "Tapu senedi veya tescil bildirimi"
+  ],
+  "faq": [
+    {
+      "q": "Umumi hizmete ayrılan arsam kamulaştırılana kadar haklarımı kaybeder miyim?",
+      "a": "Hayır, kamulaştırma yapılıncaya kadar ilgili yerlerle ilgili diğer kanunlarla verilen haklarınız devam eder."
+    },
+    {
+      "q": "Kamuya terk edilen arazinin üzerinde evim varsa ne öderim?",
+      "a": "Arsanın bedeli alınmaz, ancak üzerinde bina varsa yalnızca binanın halihazır kıymeti için takdir edilecek bedel ödenir."
+    },
+    {
+      "q": "Kat mülkiyeti kurmak için hangi belgeler şarttır?",
+      "a": "Proje müellifi mimar tarafından yapılan, onaylanan mimari proje, yapı kullanma izin belgesi ve imzalı yönetim planı gereklidir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kentsel-donusum-nedir",
+  "angle": "İmar barışı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "kesinlesme-senedi",
+  "title": "Mahkeme kararı ne zaman kesinleşir — Vatandaş Rehberi | Av. Fethi Güze",
+  "description": "Mahkeme kararı ne zaman kesinleşir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
+  "h1": "Mahkeme kararı ne zaman kesinleşir?",
+  "keywords": [
+    "kesinleşme şerhi",
+    "ilam kesinleşmesi"
+  ],
+  "category": "Usul",
+  "related": [
+    "istinaf-nedir",
+    "temyiz-nedir",
+    "ilamli-icra-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/istinaf-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Mahkeme salonundan çıktınız ve elinizde bir karar var. Bu kararın kağıt üstünde kalmayıp gerçekten uygulanabilmesi için **kesinleşmesi şarttır**.",
+  "keyInsight": "Kararın kesinleşmesi, kanun yoluna başvuru sürelerinin dolmasına veya bu yolların tüketilmesine bağlıdır.",
+  "sections": [
+    {
+      "heading": "Karar ne zaman kesinleşir?",
+      "paragraphs": [
+        "Bir dava bittiğinde hakim kararını verir ancak bu durum hemen icraya konulabileceği anlamına gelmez. Tarafların kanun yoluna başvurma hakları bulunur.",
+        "Öngörülen süreler içinde başvuru yapılmadığında veya kanun yolları tamamen tüketildiğinde karar kesinleşir."
+      ],
+      "bullets": [
+        "Sürelerin geçmesi beklenir",
+        "Kanun yolları tüketilmelidir"
+      ]
+    },
+    {
+      "heading": "Kesinleşme şerhi nasıl alınır?",
+      "paragraphs": [
+        "Kararın kesinleştiğini kanıtlamak için mahkeme kaleminden **kesinleşme şerhi** talep etmeniz gerekir.",
+        "Bu şerh, kararın altındaki veya üzerindeki ilgili alanın mühürlenip imzalanmasıyla verilir."
+      ],
+      "bullets": [
+        "Kaleme yazılı veya sözlü başvuru",
+        "Dosya kontrolü"
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırınca ne olur?",
+      "paragraphs": [
+        "Karar kesinleştikten sonra artık aynı konuda yeniden dava açamazsınız. Haklarınız kesin hüküm altındadır.",
+        "Ancak kanunda belirtilen olağanüstü durumlarda, belirli şartlar altında **yargılamanın iadesi** talep etme hakkı saklı kalabilir."
+      ],
+      "bullets": [
+        "Kesin hüküm oluşur",
+        "İstisnai hallerde yenileme yolu vardır"
+      ]
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "Mahkeme kararının tam metni ve taraflara yapılan tebligat parçaları bu süreçte en önemli dayanağınızdır.",
+        "Tebligat tarihleri, kesinleşme hesaplaması için doğrudan esas alınır."
+      ],
+      "bullets": [
+        "Gerekçeli karar",
+        "Tebliğ-tebellüğ belgeleri"
+      ]
+    }
+  ],
+  "steps": [
+    "Mahkeme kararının size tebliğ edilmesini bekleyin veya teslim alın.",
+    "Kanun yolu süresinin dolup dolmadığını kontrol edin.",
+    "Kararı veren mahkeme kalemine giderek kesinleşme şerhi isteyin.",
+    "Şerh işlenen kararın bir örneğini alın."
+  ],
+  "documents": [
+    "Mahkeme ilamı",
+    "Tebligat mazbatası",
+    "Kimlik belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Kesinleşme şerhi olmadan icra takibi başlatılabilir mi?",
+      "a": "İlamlı icra takibi için kararın kesinleşmesi gereken durumlar vardır, bu nedenle şerh alınması önerilir."
+    },
+    {
+      "q": "Karar ne zaman kesin hüküm teşkil eder?",
+      "a": "Kanun yolları tükendiğinde veya süresi içinde başvurulmadığında kesinleşir."
+    },
+    {
+      "q": "Şerhi hangi mahkemeden alırım?",
+      "a": "Kararı veren ilk derece mahkemesinin yazı işleri kaleminden alırsınız."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "istinaf-nedir",
+  "angle": "Kesinleşme",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "sigorta-tazminat-reddi",
+  "title": "Sigorta Tazminatı Reddedilirse Ne Yapılır? | Vatandaş Rehberi",
+  "description": "Sigorta hasar ödemezse ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
+  "h1": "Sigorta hasar ödemezse ne yapılır?",
+  "keywords": [
+    "sigorta tazminat red",
+    "sigorta itiraz",
+    "sigorta tahkim"
+  ],
+  "category": "Sigorta",
+  "related": [
+    "kasko-hasar-sureci",
+    "tss-tamamlayici-saglik",
+    "trafik-sigortasi-hasar",
+    "trafik-kazasi-tazminati",
+    "tuketici-hakem-heyeti"
+  ],
+  "links": [
+    {
+      "label": "Ara",
+      "href": "/ara?q=sigorta"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    }
+  ],
+  "lead": "Trafik kazası geçirdiniz ve sigorta şirketi kapıyı kapattı. Telaş yapmayın, bu ret kararı **kesin hüküm** taşımaz; yasal yollarla itiraz hakkınız saklıdır.",
+  "keyInsight": "Sigortanın ödeme yapmadığı haller kanunda tek tek sayılmıştır; şirketin her 'ödeme yok' demesi hukuken geçerli olmayabilir.",
+  "sections": [
+    {
+      "heading": "Hangi durumlarda kapı duvar örerler?",
+      "paragraphs": [
+        "Trafik kazası ardından şirketler bazı talepleri kapsam dışı bırakır. İşletenin kendi kusuruna denk gelen tazminat talepleri veya manevi tazminat istekleri zorunlu mali sorumluluk sigortası kapsamı dışındadır.",
+        "Ayrıca gelir kaybı, kâr kaybı, iş durması, kira mahrumiyeti gibi dolaylı zararlar ile hurdaya çıkmış araçların değer kaybı talepleri de sigorta ödemesi alamaz."
+      ],
+      "bullets": [
+        "Manevi tazminat talepleri ödenmez.",
+        "Dolaylı zararlar kapsam dışıdır."
+      ]
+    },
+    {
+      "heading": "Kimler bu haktan mahrum kalır?",
+      "paragraphs": [
+        "Kazaya sebep olan kişinin kendi kusur oranına denk gelen kısımlar ödenmez. Destekten yoksun kalan hak sahibinin, destek şahsının kusuruna denk gelen tazminat talepleri de aynı kurala tabidir.",
+        "Terör eylemlerinde kullanılan araçların neden olduğu ve sigortalının sorumluluğu kapsamındaki riskler dışındaki zararlar da ödeme alamaz."
+      ],
+      "bullets": [
+        "Kendi kusurunuza denk gelen kısım ödenmez.",
+        "Terör eylemi zararları özel şartlara tabidir."
+      ]
+    },
+    {
+      "heading": "İş kazası ve taşıma araçlarında durum nedir?",
+      "paragraphs": [
+        "Çalışan, işin görülmesi için işverenin sağladığı taşıma aracını kullanırken kazaya uğrayabilir. Sorumluluk sigortaları bu tür durumlarda çalışanın haklarını güvence altına alır.",
+        "İşçi kendi motorlu aracını kullanıyorsa, zorunlu mali sorumluluk sigortası primi ve aracın yıpranma bedeli gibi masraflar işveren tarafından karşılanır."
+      ],
+      "bullets": [
+        "Çalışana doğan sigorta hakları doğrudan ödenir.",
+        "Sigorta primi masrafları işverene yansıyabilir."
+      ]
+    },
+    {
+      "heading": "Şirketin kararına karşı ne yapmalı?",
+      "paragraphs": [
+        "Sigorta şirketi hasar ödemesini reddettiğinde süreç bitmez. İçişleri Bakanlığı denetiminde tutulan kaza tespit tutanakları ve ilgili belgelerle süreci takip edebilirsiniz.",
+        "Gerekli bilgi ve belgeleri eksiksiz sunarak itiraz mekanizmalarını **harekete geçirmek** sizin en doğal hakkınızdır."
+      ],
+      "bullets": [
+        "Tutanakları ve evrakları toplayın.",
+        "Kurumların denetim yetkisinden yararlanın."
+      ]
+    }
+  ],
+  "steps": [
+    "Kaza tespit tutanağını ve resmi evrakları eksiksiz temin edin.",
+    "Sigorta şirketinin red gerekçesini yazılı olarak isteyin.",
+    "Dosyanızı kapsam dışı bırakılan haller listesine göre kontrol edin.",
+    "İçişleri Bakanlığı denetim ve kayıt sisteminden kaza verilerini doğrulayın.",
+    "Gerekli itiraz ve başvuru yollarını arayın."
+  ],
+  "documents": [
+    "Trafik kaza tespit tutanağı",
+    "Sigorta poliçesi",
+    "Şirketin yazılı red yazısı",
+    "Hasar ve onarım belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "Manevi tazminatımı sigortadan alabilir miyim?",
+      "a": "Hayır, manevi tazminata ilişkin talepler zorunlu mali sorumluluk sigortası kapsamı dışındadır."
+    },
+    {
+      "q": "Değer kaybı her araç için ödenir mi?",
+      "a": "Hasar sebebiyle trafikten çekme veya hurdaya çıkarılma işlemi görmüş araçların değer kaybı tazminatı talepleri ödenmez."
+    },
+    {
+      "q": "İş aracım kazaya karışırsa sigorta öder mi?",
+      "a": "Çalışanın iş için kullandığı taşıma araçlarında sigortadan doğan haklar doğrudan çalışana ait olur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "sigorta-tazminat-reddi",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "psiko-teknik-belge",
+  "title": "Psikoteknik belge — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Psikoteknik belge hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
+  "h1": "Psikoteknik belge",
+  "keywords": [
+    "psikoteknik belge",
+    "psiko teknik belge"
+  ],
+  "category": "Trafik",
+  "related": [
+    "ehliyet-alma-sartlari",
+    "ehliyet-geri-alma",
+    "alkollu-arac-kullanma-cezasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/ehliyet-alma-sartlari"
+    },
+    {
+      "label": "KTK",
+      "href": "/kategori/ktk"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Psikoteknik değerlendirme, sürücülük yeteneklerinizin fiziksel ve zihinsel olarak trafik güvenliğine uygunluğunu ölçen bir süreçtir. Bu belge, genellikle ehliyetinize yönelik yasal yaptırımlar sonrası tekrar trafiğe çıkabilmeniz için zorunlu tutulur.",
+  "keyInsight": "Psikoteknik değerlendirme süreci, sadece ceza puanı sınırlarını aşan sürücüler için değil, güvenli sürüş yetisinin tespiti için kritik bir aşamadır.",
+  "sections": [
+    {
+      "heading": "Hangi durumlarda istenir?",
+      "paragraphs": [
+        "Trafik kurallarını ihlal ettiğinizde sistem üzerindeki ceza puanlarınız birikir. Bir yıl içinde belirli bir puan limitine ulaştığınızda, ehliyetiniz geçici olarak geri alınır.",
+        "Aynı yıl içerisinde ikinci defa 100 ceza puanını doldurmanız durumunda, ehliyetinizin iadesi için **psikoteknik değerlendirme** ve psikiyatri uzmanı muayenesi şart koşulur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreç nasıl işler?",
+      "paragraphs": [
+        "Sürücü belgeniz, ceza puanı limitlerini aşmanız nedeniyle geri alındığında, yasal olarak belirlenen sürelerin dolmasını beklemeniz gerekir.",
+        "Süreci tamamlamak için yetkili kuruluşlara başvurarak zihinsel ve fiziksel becerilerinizi ölçen testlere girersiniz. Bu testler, sürücülük yapmanıza engel bir durum olup olmadığını belirler."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Muayene sonucu neyi değiştirir?",
+      "paragraphs": [
+        "Psikiyatri uzmanı ve psikoteknik değerlendirme sonucunda, sürücülük yapmanıza engel bir durumun bulunmadığı rapor edilmelidir.",
+        "Bu rapor olumlu olduğunda, ehliyetinize el konulan süre dolduğunda belgenizi geri alabilirsiniz. Engel saptanması durumunda ise süreç farklı bir boyuta taşınır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreci yönetirken dikkat edilmesi gerekenler",
+      "paragraphs": [
+        "Ehliyetiniz geri alınmışken araç kullanmak, çok daha ağır yaptırımları beraberinde getirir. Bu yüzden geri alma süresi dolmadan trafiğe çıkmamalısınız.",
+        "Belgelerinizi teslim alabilmek için ilgili idari para cezalarının tamamının ödenmiş olması **yasal bir zorunluluktur**."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Ceza puanı limitini aştığınızı teyit edin",
+    "Ehliyetin geri alındığı sürenin dolmasını bekleyin",
+    "Yetkili psikoteknik merkezinden randevu alın",
+    "Psikiyatri uzmanı muayenesinden geçin",
+    "Tüm trafik idari para cezalarını ödeyin",
+    "İlgili trafik birimine belgelerinizle başvurun"
+  ],
+  "documents": [
+    "Psikoteknik değerlendirme raporu",
+    "Psikiyatri uzmanı muayene evrakı",
+    "Trafik idari para cezalarının ödendiğine dair makbuzlar",
+    "Sürücü belgesi geri alma tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "Testten geçemezsem ne olur?",
+      "a": "Sürücülük yapmanıza engel bir durum olduğu tespit edilirse, ehliyetinizi geri almanız mümkün olmaz."
+    },
+    {
+      "q": "Bu belge her sürücü için zorunlu mu?",
+      "a": "Hayır, sadece yasal olarak ceza puanı limitlerini doldurup ehliyetine el konulan sürücüler için zorunludur."
+    },
+    {
+      "q": "Ceza puanı birikimi nasıl takip edilir?",
+      "a": "Resmi e-devlet kanalları üzerinden ceza puanı sorgulama ekranını kullanarak güncel durumunuzu takip edebilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "ehliyet-alma-sartlari",
+  "angle": "Psikoteknik belge",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

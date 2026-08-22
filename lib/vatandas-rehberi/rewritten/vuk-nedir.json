@@ -1,0 +1,113 @@
+{
+  "slug": "vuk-nedir",
+  "title": "VUK nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "VUK nedir hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "VUK nedir",
+  "keywords": [
+    "vuk nedir",
+    "vuk nedir"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "kanun-maddesi-nasil-okunur",
+    "e-fatura-nedir",
+    "vergi-incelemesi-nedir",
+    "mevzuat-nasil-aranir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kanun-maddesi-nasil-okunur"
+    },
+    {
+      "label": "VUK",
+      "href": "/kategori/vuk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=VUK"
+    }
+  ],
+  "lead": "Vergi Usul Kanunu, devletin vergi toplarken izleyeceği oyun kuralıdır. Posta kutunuza gelen bir vergi yazısıyla irkildiğinizde, haklarınızı ve ödevlerinizi bu temel düzenlemede bulursunuz.",
+  "keyInsight": "Vergi uyuşmazlıklarında en büyük hata, **gelen tebligatı bekletmek** ve sürenin kaçmasına izin vermektir.",
+  "sections": [
+    {
+      "heading": "Kapınıza dayanan o resmi zarf ne anlama gelir?",
+      "paragraphs": [
+        "Sabah kahvenizi içerken kapı çalınır ve imza karşılığı bir zarf alırsınız. İçinden vergi incelemesi, ceza ihbarnamesi veya eksik beyan bildirimi çıkar. İnsan ilk anda bir suç işlediğini zanneder; kalbi hızla çarpar, eli ayağı birbirine dolaşır.",
+        "İşte Vergi Usul Kanunu tam da bu noktada devreye girer. Bu kanun, devletin size neyi, nasıl soracağını; sizin de kendinizi nasıl savunacağınızı belirler. Kurallar şeffaftır ama uyması titizlik ister."
+      ],
+      "bullets": [
+        "Vergi dairelerinin çalışma usulünü belirler",
+        "Mükellefin haklarını ve ödevlerini çizer",
+        "İtiraz ve inceleme yollarını düzenler"
+      ]
+    },
+    {
+      "heading": "Defterler ve belgeler neden bu kadar kıymetlidir?",
+      "paragraphs": [
+        "Ticaretle uğraşıyorsanız veya bir mal alıp satıyorsanız, elinizdeki kağıtlar en büyük kalkanınızdır. Faturalar, fişler, defter kayıtları sadece muhasebe için değil, olası bir incelemede masumiyetinizin kanıtıdır.",
+        "Müfettiş kapınızı çaldığında **belgeleri eksiksiz ibraz etmek** zorundasınız. 'Kaybettim', 'Muhasebecide kaldı' gibi mazeretler kanun önünde maalesef geçerli bir mazeret sayılmaz."
+      ],
+      "bullets": [
+        "Faturalar ticari hayatın demirbaşıdır",
+        "Kayıt düzeni şeffaf olmalıdır"
+      ]
+    },
+    {
+      "heading": "Hata nerede yapılır ve ceza kapıyı nasıl çalar?",
+      "paragraphs": [
+        "Genellikle işlemlerin son dakikaya bırakılması veya evrakların yanlış yere saklanması büyük sorunlar doğurur. Dijital ortamdaki verilerin silinmesi ya da kağıt faturaların yırtılması anında cezai işlem doğurur.",
+        "Devlet, herkesin vergisini zamanında ve tam ödemesini ister. Hatalı beyan veya gecikme durumunda **uzlaşma yollarını aramak** en mantıklı ilk adımdır."
+      ],
+      "bullets": [
+        "Zamanında verilmeyen beyannameler ceza getirir",
+        "Yanlış beyan düzeltme gerektirir"
+      ]
+    },
+    {
+      "heading": "Haklarınızı bilirseniz korkuya yer kalmaz",
+      "paragraphs": [
+        "Vergi Usul Kanunu sadece ceza kesen bir mekanizma değildir; size savunma hakkı, hata düzeltme talebi ve uzlaşma masasına oturma yetkisi de verir. Önemli olan süreci soğukkanlılıkla yönetmektir.",
+        "Telaş yapıp evrakları göz ardı etmek yerine, bir uzmandan destek almak ve **resmi tebliğ tarihini** dikkate alarak hareket etmek her şeyi çözer."
+      ],
+      "bullets": [
+        "İtiraz hakkınız saklıdır",
+        "Hatalar dilekçeyle düzeltilebilir"
+      ]
+    }
+  ],
+  "steps": [
+    "Gelen resmi tebligatın üzerindeki tarihi ve yazıyı dikkatlice okuyun",
+    "İlgili döneme ait fatura, fiş ve defterleri bir araya getirin",
+    "Gerekirse mali müşavirinizle veya bir hukukçuyla durumu değerlendirin",
+    "Süre geçmeden vergi dairesine dilekçe veya başvuru ilete"
+  ],
+  "documents": [
+    "Vergi dairesi tebligat zarfı",
+    "İlgili dönem faturaları ve fişler",
+    "Defter kayıt dökümleri",
+    "Açıklayıcı dilekçe örneği"
+  ],
+  "faq": [
+    {
+      "q": "Vergi dairesinden gelen kağıdı okuyunca ne yapmalıyım?",
+      "a": "Öncelikle panik yapmayın ve üzerindeki tebliğ tarihini not edin. Bu tarih, tüm hak arama sürelerinizin başlangıcıdır."
+    },
+    {
+      "q": "Defterlerimi kaybettim, cezadan kurtulabilir miyim?",
+      "a": "Kayıp belgeler ciddi bir durumdur. Derhal zayi belgesi için mahkemeye başvurmak ve durumu vergi dairesine bildirmek gerekir."
+    },
+    {
+      "q": "Uzlaşma yolu nedir, herkese uygulanır mı?",
+      "a": "Kesilen vergi ve cezalar konusunda daire ile anlaşma masasına oturma imkanıdır. Belirli şartlarda bu yola başvurulabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kanun-maddesi-nasil-okunur",
+  "angle": "VUK nedir",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

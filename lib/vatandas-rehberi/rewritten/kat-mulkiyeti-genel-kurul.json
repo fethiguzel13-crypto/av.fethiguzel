@@ -1,0 +1,111 @@
+{
+  "slug": "kat-mulkiyeti-genel-kurul",
+  "title": "Kat malikleri kurulu — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Kat malikleri kurulu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
+  "h1": "Kat malikleri kurulu",
+  "keywords": [
+    "kat malikleri kurulu",
+    "kat mulkiyeti genel kurul"
+  ],
+  "category": "Eşya",
+  "related": [
+    "kat-mulkiyeti-aidat",
+    "mtk-aidat-icra",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kat-mulkiyeti-aidat"
+    },
+    {
+      "label": "Kat mülkiyeti",
+      "href": "/kategori/katmulkiyeti"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Apartmanda yaşıyorsunuz ve kapınıza gelen bir karar ile sarsıldınız. Yönetim kurulunun aldığı kararlar tüm binayı bağlar ancak hukuka aykırı kararlar için **mahkemeye başvuru** hakkınız saklıdır.",
+  "keyInsight": "Yönetim planını değiştirmek için bütün kat maliklerinin beşte dördünün oyu şarttır.",
+  "sections": [
+    {
+      "heading": "Anagayrimenkul nasıl yönetilir?",
+      "paragraphs": [
+        "Binanızda her gün kullanılan merdivenler, asansörler ve ortak alanlar kendi kendine yönetilmez. Kanun, bu binanın **kat malikleri kurulunca** yönetileceğini açıkça söyler.",
+        "Yönetim tarzı, kanunların emredici hükümlerine aykırı olmamak şartıyla bu kurul tarafından kararlaştırılır."
+      ],
+      "bullets": [
+        "Anagayrimenkul kat malikleri kurulunca yönetilir",
+        "Yönetim tarzını kurul kararlaştırır"
+      ]
+    },
+    {
+      "heading": "Yönetim planı neden bu kadar önemlidir?",
+      "paragraphs": [
+        "Binaya taşındığınızda imzaladığınız veya evle birlikte devraldığınız yönetim planı sadece bir kâğıt parçası değildir. Bu plan, bütün kat maliklerini **bağlayan bir sözleşme** hükmündedir.",
+        "Yönetim planı; binanın kullanım şeklini, yönetici ve denetçilerin alacakları ücreti ve yönetime ait diğer hususları en ince detayına kadar düzenler."
+      ],
+      "bullets": [
+        "Yönetim planı bütün kat maliklerini bağlar",
+        "Yönetim tarzı ve ücretleri düzenler"
+      ]
+    },
+    {
+      "heading": "Yönetim planı nasıl değiştirilir?",
+      "paragraphs": [
+        "Eski kuralların size uymadığını fark ettiniz ve değişiklik yapmak istiyorsunuz. Bu iş o kadar da kolay değildir çünkü ağır bir çoğunluk aranır.",
+        "Yönetim planının değiştirilmesi için bütün kat maliklerinin **beşte dördünün oyu** şarttır."
+      ],
+      "bullets": [
+        "Değişiklik için beşte dört oy şarttır",
+        "Tüm malikler bu kurala uymak zorundadır"
+      ]
+    },
+    {
+      "heading": "Kurul kararına karşı ne yapılabilir?",
+      "paragraphs": [
+        "Toplantıda alınan bir kararın adil olmadığını düşünüyorsunuz. Toplantıya katılıp aykırı oy kullandıysanız veya toplantıya hiç katılmadıysanız hak arama yollarınız vardır.",
+        "Anagayrimenkulün bulunduğu yerdeki **sulh mahkemesine** başvurarak kararın iptalini isteyebilirsiniz."
+      ],
+      "bullets": [
+        "Sulh mahkemesine iptal davası açılabilir",
+        "Hâkimin müdahalesi istenebilir"
+      ]
+    }
+  ],
+  "steps": [
+    "Toplantıda alınan kararları ve yönetim planını inceleyin",
+    "Aykırı oy kullandıysanız veya toplantıya katılmadıysanız durumu değerlendirin",
+    "Anagayrimenkulün bulunduğu yerdeki sulh mahkemesine başvurun",
+    "Hâkimin müdahalesini veya karar iptalini talep edin"
+  ],
+  "documents": [
+    "Kat mülkiyeti kütüğü",
+    "Yönetim planı",
+    "Kurul toplantı tutanağı",
+    "Noter onaylı belgeler"
+  ],
+  "faq": [
+    {
+      "q": "Kat malikleri kurulu kararına katılmadım, ne yapabilirim?",
+      "a": "Kararı öğrenmenizden başlayarak kanuni süreler içinde anagayrimenkulün bulunduğu yerdeki sulh mahkemesine iptal davası açabilirsiniz."
+    },
+    {
+      "q": "Yönetim planını tek başıma değiştirebilir miyim?",
+      "a": "Hayır. Yönetim planının değiştirilmesi için bütün kat maliklerinin beşte dördünün oyu şarttır."
+    },
+    {
+      "q": "Hâkimin kararını yerine getirmeyenlere ne olur?",
+      "a": "Hâkimin tespit ettiği süre içinde kararını yerine getirmeyenlere mahkemece idarî para cezası verilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kat-mulkiyeti-aidat",
+  "angle": "Kat malikleri kurulu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

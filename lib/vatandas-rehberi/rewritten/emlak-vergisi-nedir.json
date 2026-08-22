@@ -1,0 +1,112 @@
+{
+  "slug": "emlak-vergisi-nedir",
+  "title": "Emlak Vergisi Nedir? Nasıl Hesaplanır ve Ödenir?",
+  "description": "Emlak vergisi nedir, kimler öder, oranlar, beyan, taksit ve e-Devlet ödeme. Vatandaş bilgilendirme rehberi.",
+  "h1": "Emlak vergisi nedir? Nasıl hesaplanır ve ödenir?",
+  "keywords": [
+    "emlak vergisi nedir",
+    "emlak vergisi nasıl ödenir",
+    "emlak vergisi oranları"
+  ],
+  "category": "Vergi",
+  "related": [
+    "veraset-ilami-nasil-alinir",
+    "veraset-ve-intikal-vergisi",
+    "vergi-ziyai-cezasi",
+    "gecikme-zammi-faizi",
+    "muhtasar-beyanname",
+    "e-haciz-nedir",
+    "arac-haczi-nedir",
+    "itirazin-kaldirilmasi",
+    "icra-vekalet-ucreti",
+    "banka-hesap-haczi-maas",
+    "kabul-nedir-usul"
+  ],
+  "links": [
+    {
+      "label": "VUK",
+      "href": "/kategori/vuk"
+    },
+    {
+      "label": "Hesaplama",
+      "href": "/hesaplama"
+    }
+  ],
+  "lead": "Emlak vergisi, Türkiye sınırları içinde yer alan bina, arsa ve arazi gibi taşınmaz varlıklar için her yıl ödenmesi gereken bir mülkiyet vergisidir. Taşınmazın türüne ve bulunduğu konuma göre hesaplanan bu vergi, doğrudan mülk sahibi veya mülkten malik gibi yararlananlar tarafından ödenir.",
+  "keyInsight": "Emlak vergisi borçlarında, diğer birçok verginin aksine, Vergi Usul Kanunu'nun pişmanlık ve ıslah hükümleri uygulanmaz.",
+  "sections": [
+    {
+      "heading": "Hangi mülkler için ne kadar vergi hesaplanır?",
+      "paragraphs": [
+        "Bir taşınmaz satın aldığınızda veya size miras kaldığında, devlet bu varlığın değeri üzerinden bir katkı payı talep eder. Verginin miktarı belirlenirken mülkün cinsi büyük önem taşır; konut, iş yeri, arsa veya arazinin her biri için farklı hesaplama yöntemleri devreye girer.",
+        "Hesaplamanın temelini, taşınmazın rayiç bedeli oluşturur. Yetkili memurlar bina ve arazinin rayiç bedelini tespit ederken mülkü yerinde inceleme hakkına sahiptir. Bu inceleme sırasında mülkü gezdirmek ve genel durumu, kullanım tarzı ile varsa kira miktarı hakkında doğru bilgi vermek yasal bir zorunluluktur."
+      ],
+      "bullets": [
+        "Binaların kullanım amacı ve inşaat türü",
+        "Arazinin tarımsal veya ticari niteliği",
+        "Taşınmazın büyükşehir sınırları içinde olup olmadığı"
+      ]
+    },
+    {
+      "heading": "İnceleme sırasında mülk sahibinin ödevleri nelerdir?",
+      "paragraphs": [
+        "Vergi dairesi veya yetkilendirilmiş memurlar, gayrimenkulün gerçek değerini ortaya çıkarmak için sahaya inebilir. Bu süreçte hem mülk sahibinin hem de mülkü aktif olarak kullanan kiracıların yasal sorumlulukları başlar.",
+        "Maliye Bakanlığınca yetkilendirilen memurlara, değeri tespit edilecek bina ve araziyi göstermek ve gezdirmek zorundasınız. **Mülkü gezdirmek** ve gayrimenkulün genel durumuna, kirada ise kiranın miktarına ilişkin her türlü bilgiyi eksiksiz sunmak yasal bir ödevdir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Borçlar nasıl ödenir ve yapılandırılır?",
+      "paragraphs": [
+        "Emlak vergisi ödemelerinizi düzenli takip etmeniz gerekir. Borçların vadesinde ödenmemesi durumunda, amme alacaklarının tahsil usulü kuralları çerçevesinde gecikme zammı uygulanır. Ancak ödeme güçlüğü çeken ve iyi niyetli olan mükellefler için bazı kolaylıklar mevcuttur.",
+        "Borçların vadesinde ödenmesi veya haciz tatbiki mülk sahibini çok zor duruma düşürecekse, yazılı başvuru şartıyla borçlar tecil edilebilir. Belirli şartları taşıyan uyumlu mükelleflerin borçları, teminat ve faiz karşılığında **36 ayı geçmemek** üzere ertelenerek taksitlendirilebilir."
+      ],
+      "bullets": [
+        "Yazılı tecil talebinde bulunulması",
+        "Borç ödemede hüsnüniyet sahibi olunması",
+        "Gerekli hallerde teminat gösterilmesi"
+      ]
+    },
+    {
+      "heading": "Geciken borçlarda pişmanlık geçerli midir?",
+      "paragraphs": [
+        "Vergi hukukunda mükelleflerin hatalarını kendiliğinden bildirmesini sağlayan pişmanlık müessesesi, emlak vergisinde geçerli değildir. Bu durum, taşınmaz sahiplerinin en çok yanıldığı ve mağdur olduğu yasal tuzaklardan biridir.",
+        "Vergi beyanındaki eksiklikleri kendiliğinden dilekçe ile haber verme ve cezadan kurtulma imkanı sunan kanun hükümleri, **emlak vergisi** ile ilgili olarak uygulanmaz. Bu nedenle bildirimlerin süresinde yapılması ve ödemelerin geciktirilmemesi kritik önem taşır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Mülkünüzün bağlı olduğu belediyeden güncel rayiç bedel sorgulaması yapın.",
+    "Yetkili memurların inceleme talebi olması halinde taşınmazı gezdirmek için hazır bulunun.",
+    "Belediye veznelerinden veya e-devlet üzerinden vergi borcunuzu kontrol edin.",
+    "Ödemelerinizi her yıl belirlenen yasal süreler içinde tamamlayın.",
+    "Ödeme güçlüğünüz varsa belediyeye yazılı başvuruda bulunarak tecil ve taksitlendirme talep edin."
+  ],
+  "documents": [
+    "Taşınmaza ait tapu belgesi",
+    "Mülk sahibinin kimlik belgesi",
+    "Belediyeden alınan rayiç bedel belgesi",
+    "Varsa kira sözleşmesi örneği"
+  ],
+  "faq": [
+    {
+      "q": "Emlak vergisinde pişmanlık dilekçesi vererek cezadan kaçınabilir miyim?",
+      "a": "Hayır. Vergi Usul Kanunu'nun pişmanlık ve ıslah hükümleri emlak vergisi için uygulanmaz."
+    },
+    {
+      "q": "Mülkü incelemeye gelen memurları içeri almak zorunda mıyım?",
+      "a": "Evet. Kanunen yetkili kılınan memurlara binayı ve araziyi göstermek, gezdirmek ve kullanım durumuna ilişkin bilgi vermek zorundasınız."
+    },
+    {
+      "q": "Maddi zorluk nedeniyle vergimi ödeyemezsem ne yapmalıyım?",
+      "a": "Çok zor durumda olduğunuzu beyan ederek yazılı başvuru yapmanız halinde, borcunuz faiz ve teminat şartıyla 36 aya kadar tecil edilebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "emlak-vergisi-nedir",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

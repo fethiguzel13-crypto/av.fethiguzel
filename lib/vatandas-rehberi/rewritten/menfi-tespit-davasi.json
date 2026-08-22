@@ -1,0 +1,108 @@
+{
+  "slug": "menfi-tespit-davasi",
+  "title": "Menfi tespit davası ne zaman açılır — Vatandaş Rehberi | Av. Fethi Güz",
+  "description": "Menfi tespit davası ne zaman açılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
+  "h1": "Menfi tespit davası ne zaman açılır?",
+  "keywords": [
+    "menfi tespit davası",
+    "borçlu olmadığının tespiti"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "odeme-emrine-itiraz",
+    "istirdat-davasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Kapınıza dayanan bir icra takibiyle sarsıldınız ve o borcun aslında size ait olmadığını düşünüyorsunuz. Borçlu olmadığınızın tespiti için dava yoluna giderek hukuki koruma arayabilirsiniz.",
+  "keyInsight": "İmzaya itiraz aşamasında borçlu menfi tespit davası açarsa, hükmolunan tazminat ve para cezasının tahsili dava sonuna kadar ertelenir.",
+  "sections": [
+    {
+      "heading": "Borçlu olmadığınız ne zaman anlaşılır?",
+      "paragraphs": [
+        "Elinize icra emri ulaştığında ya da hakkınızda bir takip başladığında gerçeğe aykırı bir borç yüküyle karşı karşıya kalabilirsiniz. Senedin altındaki imzanın size ait olmaması veya borcun aslında hiç doğmamış olması bu aşamada önem kazanır.",
+        "Borçlu, kambiyo senedindeki imzanın kendisine ait olmadığını **bir dilekçe ile** icra mahkemesine bildirebilir. İtirazın kabulü kararı ile takip durur ve alacaklının genel hükümlere göre dava açma hakkı saklı kalır."
+      ],
+      "bullets": [
+        "İmzaya itiraz dilekçesi mahkemeye sunulur.",
+        "İtiraz kabul edilirse takip durur."
+      ]
+    },
+    {
+      "heading": "İtiraz süreci nasıl ilerler?",
+      "paragraphs": [
+        "İcra mahkemesi hâkimi, borçlunun dilekçesine eklediği belgeleri inceleyerek bir kanaate varır. Eğer borcun ödendiği, senedin zamanaşımına uğradığı veya borçlu olunmadığı açıkça görülürse **icra takibinin durdurulmasına** karar verilebilir.",
+        "İmzanın alacaklı tarafından inkâr edilmesi veya borçlunun imza itirazında bulunması durumunda mahkeme gerekli incelemeleri yapar. Haklı bulunmanız halinde lehinize **tazminat ve para cezası** gibi hukuki sonuçlar doğabilir."
+      ],
+      "bullets": [
+        "Belgeler hâkim tarafından incelenir.",
+        "Haklı görülürse takip geçici olarak durur."
+      ]
+    },
+    {
+      "heading": "Dava açmanın sonuçları nelerdir?",
+      "paragraphs": [
+        "Borçlu menfi tespit veya istirdat davası açarsa, mahkemenin daha önce hükmettiği tazminat ve para cezalarının tahsili **dava sonuna kadar** ertelenir. Davanın borçlu lehine sonuçlanması hâlinde bu para cezaları ve tazminatlar kalkar.",
+        "Alacaklının senedi takibe koyarken kötü niyeti veya ağır kusuru varsa, mahkeme alacaklıyı tazminata mahkûm edebilir. Alacaklı genel mahkemede dava açarsa, aleyhine verilen para cezası da dava sonuna kadar ertelenir."
+      ],
+      "bullets": [
+        "Tahsilatlar dava sonuna ertelenir.",
+        "Kötü niyet varsa alacaklı cezalandırılır."
+      ]
+    },
+    {
+      "heading": "Hangi adımlar izlenmelidir?",
+      "paragraphs": [
+        "Haksız bir borçla karşılaştığınızda vakit kaybetmeden harekete geçmelisiniz. İcra dairesinden gelen tebligatları dikkatle inceleyerek süreci **doğru belgelerle** takip etmek hak kayıplarını önler.",
+        "Yanlış veya sahte imza içeren senetlere karşı ilgili yasal yollara başvurarak borçlu olmadığını kanıtlama imkânınız bulunmaktadır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İcra dairesinden gelen tebligatı ve ödeme emrini inceleyin",
+    "İmza veya borç itirazınızı içeren dilekçeyi hazırlayın",
+    "İtiraz dilekçesini ilgili icra mahkemesine sunun",
+    "Borçlu olmadığınıza ilişkin delil ve belgeleri dosyaya ekleyin",
+    "Menfi tespit veya istirdat davası açarak süreci takip edin"
+  ],
+  "documents": [
+    "İcra ödeme emri veya tebligat evrakı",
+    "İmza itirazı dilekçesi",
+    "Borcun ödenmediğini veya imzanın size ait olmadığını gösteren belgeler"
+  ],
+  "faq": [
+    {
+      "q": "Menfi tespit davası açmak takibi otomatik durdurur mu?",
+      "a": "Tek başına dava açmak takibi durdurmaz; ancak mahkeme şartları oluştuğunda takibin durdurulmasına karar verebilir."
+    },
+    {
+      "q": "İmza bana ait değilse ne yapmalıyım?",
+      "a": "Kambiyo senedindeki imzanın size ait olmadığı yönündeki itirazınızı bir dilekçe ile icra mahkemesine bildirmelisiniz."
+    },
+    {
+      "q": "Hükmedilen cezalar dava süresince ödenir mi?",
+      "a": "Borçlu menfi tespit veya istirdat davası açarsa, hükmolunan tazminat ve para cezalarının tahsili dava sonuna kadar ertelenir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Menfi tespit",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

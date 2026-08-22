@@ -1,0 +1,112 @@
+{
+  "slug": "sirket-borclarinda-ortak",
+  "title": "Ortağın şirket borcu sorumluluğu | Vatandaş Rehberi",
+  "description": "Ortağın şirket borcu sorumluluğu. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+  "h1": "Ortağın şirket borcu sorumluluğu",
+  "keywords": [
+    "ortağın şirket borcu sorumluluğu",
+    "sirket borclarinda ortak"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "sirket-kurulusu",
+    "limited-sirket-kurulus",
+    "kefalet-sozlesmesi",
+    "iflas-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/sirket-kurulusu"
+    },
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-sirketler"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Şirketin borçları kapınıza dayanırsa, ortak sıfatıyla ne kadar sorumluluk taşıdığınızı bilmek ilk adımdır. Borcun doğduğu tarih ile ortaklığa giriş ve çıkış anları tüm sorumluluk dengesini belirler.",
+  "keyInsight": "Şirkete sonradan ortak olmak, geçmişte doğmuş borçlardan dahi diğer ortaklarla birlikte bütün malvarlığınızla sorumlu olmanıza yol açar.",
+  "sections": [
+    {
+      "heading": "Şirket borçlarında ortakların kişisel sorumluluğu nedir?",
+      "paragraphs": [
+        "Şirketler ticari faaliyet yürütürken borçlanabilir; ancak işler sarpa sardığında alacaklıların kapınızı çalması mümkündür. Ortaklar, şirketin borç ve taahhütlerinden dolayı **müteselsilen ve bütün malvarlığı ile** sorumludur.",
+        "Bu durum, sadece şirketin kasasındaki parayla sınırlı kalmaz. Alacaklılar doğrudan ortakların kişisel varlıklarına yönelme hakkına sahip olur."
+      ],
+      "bullets": [
+        "Tüm malvarlığıyla sorumluluk esastır.",
+        "Ortaklar borçtan birlikte sorumludur."
+      ]
+    },
+    {
+      "heading": "Şirkete sonradan ortak olmanın riski nedir?",
+      "paragraphs": [
+        "Mevcut bir şirkete yeni ortak olarak katılmak, sadece gelecekteki kârlara ortak olmak anlamına gelmez. Şirkete yeni giren kişi, **girme tarihinden evvel** doğmuş olsa bile şirketin borçlarından diğer ortaklarla birlikte sorumlu duruma gelir.",
+        "Ortaklık sözleşmesine bu kuralın aksini yazmak üçüncü kişiler bakımından hiçbir geçerlilik taşımaz."
+      ],
+      "bullets": [
+        "Eski borçlar yeni ortağı da bağlar.",
+        "Sözleşmedeki gizli maddeler dışarıdakileri etkilemez."
+      ]
+    },
+    {
+      "heading": "Şirketler birleştiğinde eski borçlar silinir mi?",
+      "paragraphs": [
+        "Şirketlerin birleşmesi halinde devrolunan şirketin borçlarından önceden sorumlu olan ortakların sorumluluğu devam eder. Ancak bu kuralın temel şartı, borçların **birleşme kararının ilanından önce** doğmuş olması veya bu sebebi oluşturan şartların o tarihten önce gerçekleşmesidir.",
+        "Bu sorumlulukla ilgili istemler, birleşme kararının ilanı tarihinden itibaren zamanaşımına uğrar; alacak sonradan muaccel olursa süre o tarihten başlar."
+      ],
+      "bullets": [
+        "Birleşme eski borçları ortadan kaldırmaz.",
+        "İlan tarihi zamanaşımı için başlangıçtır."
+      ]
+    },
+    {
+      "heading": "Ortaklar hangi ticari yasaklara uymalıdır?",
+      "paragraphs": [
+        "Ticari hayatta ortakların sadakat borcu bulunur. Bir ortak, diğer ortakların **izni olmaksızın** şirketin yaptığı işler türünden bir ticari işi kendi veya başkası hesabına yapamaz.",
+        "Aynı tür işlerle uğraşan başka bir şirkete sorumluluğu sınırlandırılmamış ortak olarak girmek de yasaklar arasındadır."
+      ],
+      "bullets": [
+        "İzinsiz rakip iş yapmak yasaktır.",
+        "Şirket türüne göre sorumluluk sınırsız olabilir."
+      ]
+    }
+  ],
+  "steps": [
+    "Şirketin borç ve taahhütlerinin doğduğu tarihleri ve ortaklık tescil anını karşılaştırın.",
+    "Ortaklığa giriş tarihinizi ve birleşme ilanlarını resmi sicil kayıtlarından inceleyin.",
+    "Alacaklıların kişisel malvarlığınıza yönelik taleplerini hukuki açıdan gözden geçirin.",
+    "Rekabet yasağı ve ortaklık sözleşmesindeki hükümleri şirket faaliyetleriyle kıyaslayın."
+  ],
+  "documents": [
+    "Ticaret sicil gazetesi ilanları",
+    "Şirket ortaklık sözleşmesi",
+    "Borç ve taahhütleri gösteren ticari belgeler",
+    "Ortaklık devir veya giriş kararları"
+  ],
+  "faq": [
+    {
+      "q": "Şirkete borç doğduktan sonra ortak olursam eski borçlardan mesul müyüm?",
+      "a": "Evet, şirkete yeni giren kişi, girme tarihinden evvel doğmuş olsa bile şirketin borçlarından diğer ortaklarla birlikte müteselsilen ve bütün malvarlığı ile sorumludur."
+    },
+    {
+      "q": "Ortakların sorumluluğunu kaldıran sözleşme maddeleri geçerli mi?",
+      "a": "Hayır, ortakların kişisel sorumluluğunu kaldıran veya sınırlayan sözleşme şartları üçüncü kişiler hakkında geçerli olmaz."
+    },
+    {
+      "q": "Şirket birleşmelerinde borçlar ne kadar süreyle takip edilebilir?",
+      "a": "Devrolunan şirketin borçlarından doğan ortakların kişisel sorumluluğuna ilişkin istemler, birleşme kararının ilanı tarihinden itibaren işlemeye başlayan zamanaşımı süresine tabidir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "sirket-kurulusu",
+  "angle": "Ortağın şirket borcu sorumluluğu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

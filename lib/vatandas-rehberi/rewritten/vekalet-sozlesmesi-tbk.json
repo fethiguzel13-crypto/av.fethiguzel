@@ -1,0 +1,101 @@
+{
+  "slug": "vekalet-sozlesmesi-tbk",
+  "title": "Vekâlet sözleşmesi TBK — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Vekâlet sözleşmesi TBK hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
+  "h1": "Vekâlet sözleşmesi TBK",
+  "keywords": [
+    "vekâlet sözleşmesi tbk",
+    "vekalet sozlesmesi tbk"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "temerrut-faizi-nedir",
+    "noter-islemleri",
+    "vekaletname-azli",
+    "avukat-vekalet-ucreti"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/temerrut-faizi-nedir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=vekalet"
+    }
+  ],
+  "lead": "Avukata, mali müşavire veya başka bir işi görmesi için güvendiğiniz birine yetki verdiniz. İlişkinizin temeli güvene dayanır ve bu bağ bittiğinde hesaplaşma **belli kurallara** bağlanır.",
+  "keyInsight": "Vekâlet ilişkisinde ücret ve masraf alacakları, kanunda öngörülen **beş yıllık zamanaşımı** süresine tabidir.",
+  "sections": [
+    {
+      "heading": "İşin görülmesi ve güven bağı",
+      "paragraphs": [
+        "Birine işinizi görmesi için yetki belgesi verdiniz. Karşı taraf bu işi sizin yararınıza ve talimatlarınıza uygun şekilde yürütmek zorundadır. Ortada yazılı bir kâğıt olmasa bile taraflar arasında hukuki bir sorumluluk bağı kurulmuştur.",
+        "Bu ilişki tamamen karşılıklı güvene dayanır. İşi üstlenen kişi, üstlendiği görevi özenle yapmak ve sonunda elde ettiği her şeyi size teslim etmekle yükümlüdür."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Önceden yapılan sorumsuzluk anlaşmaları",
+      "paragraphs": [
+        "İşini yapacak kişiyle önceden anlaşma yaparken dikkat etmeniz gereken kritik bir nokta vardır. Karşı tarafın ağır kusurundan sorumlu olmayacağına dair **önceden yapılan anlaşmalar** kesin olarak hükümsüzdür.",
+        "Uzmanlık gerektiren bir meslek veya sanat icra ediliyorsa, hafif kusurdan bile önceden muafiyet sağlanamaz. Kanun, bu konuda zayıf olan tarafı korur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Borçların ortadan kalkması",
+      "paragraphs": [
+        "Aranızdaki ilişki bittiğinde borçların sona erdirilmesi de mümkündür. Borcu doğuran işlem önceden belli bir şekle bağlı tutulmuş olsa bile taraflar şekle bağlı olmaksızın ibra sözleşmesi yapabilir.",
+        "Bu sözleşmeyle borç tamamen veya kısmen ortadan kaldırılabilir. Karşılıklı irade uyuşması bu aşamada yeterlidir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreyi kaçırınca ne olur?",
+      "paragraphs": [
+        "İlişki bitti ve alacak peşine düştünüz. Vekâlet sözleşmelerinden doğan ücret alacakları için **beş yıllık zamanaşımı** süresi uygulanır.",
+        "Bu süreyi geçirdiğinizde hak kaybı yaşama tehlikesiyle karşı karşıya kalırsınız. Zamanın nasıl işlediğini takip etmek bu yüzden hayati önem taşır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Vekâlet ilişkisini kurarken talimatlarınızı net şekilde belirleyin.",
+    "Yapılan işlerin ve masrafların dökümünü düzenli olarak isteyin.",
+    "İlişki sona erdiğinde hesap kesimi yapın.",
+    "Alacaklar için beş yıllık süreyi dikkate alarak harekete geçin.",
+    "Borç bitiminde ibra iradesini yazılı veya sözlü olarak netleştirin."
+  ],
+  "documents": [
+    "Vekâletname veya yetki belgesi",
+    "Masraf ve harcama makbuzları",
+    "İşin yapıldığını gösteren yazışmalar",
+    "İbra sözleşmesi metni"
+  ],
+  "faq": [
+    {
+      "q": "Vekâlet ücreti alacağı ne kadar sürede zamanaşımına uğrar?",
+      "a": "Vekâlet sözleşmesinden doğan alacaklar için beş yıllık zamanaşımı süresi uygulanır."
+    },
+    {
+      "q": "Ağır kusur için önceden sorumsuzluk anlaşması yapılabilir mi?",
+      "a": "Borçlunun ağır kusurundan sorumlu olmayacağına ilişkin önceden yapılan anlaşmalar kesin olarak hükümsüzdür."
+    },
+    {
+      "q": "Borç ortadan kaldırılırken şekil şartı aranır mı?",
+      "a": "Borcu doğuran işlem şekle bağlı olsa bile, ibra sözleşmesi herhangi bir şekle bağlı olmaksızın yapılabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "temerrut-faizi-nedir",
+  "angle": "Vekâlet sözleşmesi TBK",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

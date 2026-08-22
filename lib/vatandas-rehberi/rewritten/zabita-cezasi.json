@@ -1,0 +1,99 @@
+{
+  "slug": "zabita-cezasi",
+  "title": "Zabıta cezası — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Zabıta cezası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata dan…",
+  "h1": "Zabıta cezası",
+  "keywords": [
+    "zabıta cezası",
+    "zabita cezasi"
+  ],
+  "category": "İdare",
+  "related": [
+    "cimer-sikayet",
+    "belediye-cezasi-itiraz",
+    "idari-dava-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/cimer-sikayet"
+    },
+    {
+      "label": "Belediye",
+      "href": "/kategori/belediye"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Belediye zabıtası tarafından kesilen idari para cezaları veya yıkım kararları, hukuki bir süreçle karşı karşıyadır. Bu işlemler keyfi değil, belirli usul kurallarına bağlanmıştır.",
+  "keyInsight": "Belediye encümeni tarafından verilen idari para cezalarında, aykırılığın tespit edildiği tarihten itibaren **on iş günü** içinde karar alınması zorunludur.",
+  "sections": [
+    {
+      "heading": "Zabıta kapıya geldiğinde ne olur?",
+      "paragraphs": [
+        "Belediye zabıtası, imar mevzuatına aykırı bir durum veya tehlikeli bir yapı tespit ettiğinde sahaya iner. Eğer yapı yıkılacak derecede tehlikeliyse, belediye veya valilik maliklere tebligat gönderir.",
+        "Tebligat adrese dayalı nüfus kayıt sistemindeki adresinize yapılır. Eğer size ulaşılamazsa, idarenin internet sayfasında 30 gün boyunca ilan edilir ve tehlikeli yapıya asılır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yıkım süreci nasıl işler?",
+      "paragraphs": [
+        "Tebligat veya ilan yapıldıktan sonra, idarece belirlenen ve **30 günü geçmeyen** bir süre içinde yapıyı güvenli hale getirmeniz beklenir.",
+        "Eğer bu sürede işlem yapmazsanız, yıkım belediye tarafından gerçekleştirilir. Masrafınız ise %20 fazlasıyla sizden tahsil edilir. Ancak fakirlik durumunuzu belgelerseniz, masraf bütçeden karşılanır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İdari para cezası nasıl hesaplanır?",
+      "paragraphs": [
+        "İmar mevzuatına aykırı yapılar için kesilen para cezaları, yapının sınıfına, inşaat alanına ve çevreye etkisine göre belirlenir.",
+        "Kanunda belirlenen taban tutar üzerinden hesaplanan bu cezalar, her yıl yeniden değerleme oranına göre artırılır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Zabıta tahliye yetkisini ne zaman kullanır?",
+      "paragraphs": [
+        "Tehlike arz eden yapının çevresiyle birlikte boşaltılması gerekiyorsa, mahkeme kararı beklenmez. Zabıta marifetiyle derhal tahliye gerçekleştirilir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Tebligat içeriğini dikkatlice okuyun ve size tanınan süreyi not edin.",
+    "Yapıdaki aykırılıkları gidermek için gerekli izinleri ve tadilatları planlayın.",
+    "Fakirlik durumunuz varsa, bunu kanıtlayan belgeleri hazırlayıp idareye sunun.",
+    "Belediye encümeni tarafından verilen ceza kararını usul yönünden inceleyin.",
+    "İdari işlemin iptali için görevli mahkemeye başvuruda bulunun."
+  ],
+  "documents": [
+    "Belediye veya valilik tarafından gönderilen tebligat evrakı",
+    "Yapı ruhsatı veya projesi",
+    "Fakirlik belgesi veya mali durumunuzu gösteren belgeler",
+    "İdari para cezasına ilişkin encümen kararı"
+  ],
+  "faq": [
+    {
+      "q": "Zabıta ceza keserken mahkeme kararı şart mı?",
+      "a": "Genel güvenlik açısından tehlike arz eden yapıların tahliyesinde mahkeme kararı gerekmez, zabıta doğrudan işlem yapabilir."
+    },
+    {
+      "q": "Ceza ne kadar sürede encümen tarafından alınmalıdır?",
+      "a": "Aykırılığın tespit edildiği tarihten itibaren on iş günü içinde encümen kararı alınması zorunludur."
+    },
+    {
+      "q": "Tebligat elime ulaşmazsa ne olur?",
+      "a": "İdare internet sayfasında 30 gün ilan yapar ve yapıya asar; bu işlem tebligat yerine geçer."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "cimer-sikayet",
+  "angle": "Zabıta cezası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

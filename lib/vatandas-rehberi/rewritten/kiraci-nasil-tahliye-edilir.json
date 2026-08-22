@@ -1,0 +1,120 @@
+{
+  "slug": "kiraci-nasil-tahliye-edilir",
+  "title": "Kiracının Tahliyesi: Gereksinim, Tahliye Taahhüdü ve İki Haklı İhtar",
+  "description": "Kiracı hangi sebeplerle tahliye edilebilir, gereksinim iddiası nasıl ileri sürülür, tahliye taahhüdü ne zaman işler, iki haklı ihtar nedir? TBK m.347, 350 ve 352 çerçevesinde.",
+  "h1": "Kiracı nasıl tahliye edilir?",
+  "keywords": [
+    "kiracı tahliyesi",
+    "tahliye davası",
+    "ihtiyaç nedeniyle tahliye",
+    "tahliye taahhüdü",
+    "iki haklı ihtar",
+    "kira sözleşmesinin sona ermesi"
+  ],
+  "category": "Kira",
+  "related": [
+    "kira-artis-orani-nasil-hesaplanir"
+  ],
+  "links": [
+    {
+      "label": "TBK m.347 — Sözleşmenin sona ermesi",
+      "href": "/mevzuat/tbk/madde-347"
+    },
+    {
+      "label": "TBK m.350 — Gereksinim, yeniden inşa ve imar",
+      "href": "/mevzuat/tbk/madde-350"
+    },
+    {
+      "label": "TBK m.352 — Kiracıdan kaynaklanan sebepler",
+      "href": "/mevzuat/tbk/madde-352"
+    },
+    {
+      "label": "Kira artışı hesaplama aracı",
+      "href": "/hesaplama/kira"
+    }
+  ],
+  "lead": "Kiracıyı evden çıkarmak istiyorsunuz ancak sözleşmenin bitmesi tek başına yetmez. Tahliye için kanunda yazılı geçerli bir sebebe dayanmanız ve **kesin sürelere** harfiyen uymanız gerekir.",
+  "keyInsight": "Süreyi bir gün bile geçirirseniz o dönem için haklı sebebiniz de olsa tahliye hakkınızı kaybedersiniz.",
+  "sections": [
+    {
+      "heading": "Süre bitti diye kiracı çıkarılamaz",
+      "paragraphs": [
+        "Ev sahibisiniz ve takvime bakıp sözleşmenin bittiğini gördünüz. Kiracınıza hemen çıkmasını söylersiniz ama asıl kural başkadır. Konut kiralarında kiracı sürenin bitiminden en az on beş gün önce bildirim yapmazsa sözleşme otomatik olarak bir yıl uzar.",
+        "Sadece on yıllık uzama süresi dolduğunda, her uzama yılının bitiminden en az üç ay önce bildirim yaparak sebepsiz tahliye isteyebilirsiniz. Bunun dışındaki her tahliye talebi mutlaka kanuni bir sebebe dayanmak zorundadır."
+      ],
+      "bullets": [
+        "Sözleşme süresi bitince otomatik uzar",
+        "10 yıl dolmadan sebepsiz çıkarma yoktur"
+      ]
+    },
+    {
+      "heading": "Ev ihtiyacı ve esaslı onarım",
+      "paragraphs": [
+        "Evi kendiniz, eşiniz veya bakmakla yükümlü olduğunuz yakınlarınız için kullanma zorunluluğunuz varsa tahliye isteyebilirsiniz. Kardeş veya yeğen için bu hak kullanılmaz; aranan şey istek değil **gerçek bir zorunluluktur**.",
+        "İkinci yol ise binanın yeniden inşası veya imarı amacıyla yapılacak esaslı onarımdır. Bu işler sırasında evin kullanımı imkânsız hale gelmelidir. Süresi gelen bu talepler için dava yolu izlenir."
+      ],
+      "bullets": [
+        "Sadece kanunda sayılan aile bireyleri",
+        "İnşaat için kullanımın imkânsız olması şartı"
+      ]
+    },
+    {
+      "heading": "Yazılı tahliye taahhüdünün gücü ve tuzağı",
+      "paragraphs": [
+        "Kiracınız evi belli bir tarihte boşaltmayı yazılı olarak üstlendiyse bu bir tahliye sebebidir. Ancak en büyük hata bu kağıdın ne zaman alındığıdır. Taahhüt mutlaka **teslimden sonra** verilmelidir.",
+        "Sözleşmeyle aynı anda imzalanan taahhütler geçersiz sayılır. Elinizde geçerli bir kağıt varsa, taahhüt edilen tarihten başlayarak bir ay içinde icraya başvurmak veya dava açmak zorundasınız."
+      ],
+      "bullets": [
+        "Teslimden sonra verilme şartı",
+        "1 yıllık icra veya dava süresi"
+      ]
+    },
+    {
+      "heading": "İki haklı ihtar ve kiracının başka evi",
+      "paragraphs": [
+        "Kira bedelini düzenli ödemeyen kiracı için iki haklı ihtar yolu bulunur. Bir kira yılı içinde kirayı ödemediği için yazılı olarak iki kez ihtar çekilmesine sebep olduysa tahliye davası açabilirsiniz.",
+        "Ayrıca kiracının aynı ilçe sınırları içinde oturmaya elverişli başka bir konutu varsa ve siz bunu sözleşme yaparken bilmiyorsanız, yine bir ay içinde dava açarak evi boşalttırabilirsiniz."
+      ],
+      "bullets": [
+        "Aynı yıl içinde iki yazılı ihtar",
+        "Aynı belediye sınırında ev sahibi olma durumu"
+      ]
+    }
+  ],
+  "steps": [
+    "Hangi tahliye sebebine dayandığınızı netleştirin.",
+    "Gerekli ihtarı noterden çekin ve tebliğ evrakını saklayın.",
+    "Uyuşmazlık kapsamındaysa dava açmadan önce arabuluculuğa başvurun.",
+    "Sulh hukuk mahkemesinde tahliye davası açın veya icra yolunu seçin.",
+    "Mahkeme kararı kesinleşmeden asla fiilî çıkarma işlemi yapmayın."
+  ],
+  "documents": [
+    "kira sözleşmesi",
+    "ihtarname ve tebliğ şerhi",
+    "yazılı tahliye taahhüdü",
+    "banka ödeme dökümleri"
+  ],
+  "faq": [
+    {
+      "q": "Kira süresi bitti, kiracıyı derhal çıkarabilir miyim?",
+      "a": "Hayır. Sürenin bitimi tek başına tahliye sebebi değildir; sözleşme aynı koşullarla bir yıl uzar."
+    },
+    {
+      "q": "Kardeşim için ihtiyaç sebebiyle tahliye isteyebilir miyim?",
+      "a": "Hayır. Kanun sadece kendisi, eşi, altsoyu, üstsoyu ve bakmakla yükümlü olunan kişileri sayar; kardeş bu listede yoktur."
+    },
+    {
+      "q": "Sözleşmeyle aynı anda aldığım tahliye taahhüdü geçerli olur mu?",
+      "a": "Olmaz. Kanun taahhüdün kiralananın teslim edilmesinden sonra verilmesini şart koşar."
+    },
+    {
+      "q": "Süreyi kaçırırsam ne olur?",
+      "a": "O dönem için o sebebe dayanma hakkınızı kaybedersiniz; örneğin ihtarlar için yeni kira yılını beklemek zorunda kalırsınız."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.94,
+  "voice": "narrative",
+  "source": "gemini"
+}

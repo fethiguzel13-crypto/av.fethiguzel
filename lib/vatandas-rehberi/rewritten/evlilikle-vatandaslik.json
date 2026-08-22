@@ -1,0 +1,112 @@
+{
+  "slug": "evlilikle-vatandaslik",
+  "title": "Evlilikle vatandaşlık — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Evlilikle vatandaşlık hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avu…",
+  "h1": "Evlilikle vatandaşlık",
+  "keywords": [
+    "evlilikle vatandaşlık",
+    "evlilikle vatandaslik"
+  ],
+  "category": "Yabancılar",
+  "related": [
+    "yabanci-ikamet-izni",
+    "turk-vatandasligi-basvurusu",
+    "bosanma-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/yabanci-ikamet-izni"
+    },
+    {
+      "label": "YUKK",
+      "href": "/kategori/yukk"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    }
+  ],
+  "lead": "Bir Türk vatandaşıyla evlendiğinizde doğrudan vatandaşlık hakkı kazanmazsınız. Bu süreç, evliliğin devamı ve belirli kurallara uyulmasıyla yürütülen resmi bir başvuruyu gerektirir.",
+  "keyInsight": "Evlilik tek başına yetmez; aile birlikteliği içinde yaşama şartı ve yürütülecek incelemeler titizlikle takip edilir.",
+  "sections": [
+    {
+      "heading": "Evlilikle vatandaşlık nasıl başlar?",
+      "paragraphs": [
+        "Bir Türk vatandaşlığına sahip kişiyle hayatınızı birleştirdiğinizde, doğrudan otomatik bir vatandaşlık kazanımı söz konusu olmaz. Yasal süreç, yetkili makamlara yapılacak resmi başvurularla şekillenir.",
+        "Bu süreçte temel amaç, evliliğin gerçek bir aile birliği içinde sürdürülmesidir. Yapılacak incelemelerde bu birlikteliğin niteliği esas alınır."
+      ],
+      "bullets": [
+        "Resmi evlilik bağı kurulması",
+        "İlgili makamlara başvuru yapılması"
+      ]
+    },
+    {
+      "heading": "Hangi durumlarda inceleme yapılır?",
+      "paragraphs": [
+        "Başvuru sürecinde yetkililer kimlik ve vatandaşlık bilgilerinizin doğruluğunu incelemek isteyebilir. Bu aşamada bilgilerinizin netleştirilmesi önem taşır.",
+        "Kamu düzeni veya güvenliği açısından risk oluşturabilecek durumlar titizlikle değerlendirilir."
+      ],
+      "bullets": [
+        "Kimlik doğrulama işlemleri",
+        "Güvenlik değerlendirmeleri"
+      ]
+    },
+    {
+      "heading": "Statü değişiklikleri süreci nasıl etkiler?",
+      "paragraphs": [
+        "Eğer uluslararası koruma gibi farklı bir statüye sahipseniz, bu durumdaki değişiklikler haklarınızı doğrudan etkileyebilir. Kendi isteğinizle ülkenize dönmeniz veya yeni bir vatandaşlık almanız statünüzü sona erdirebilir.",
+        "Koşulların ortadan kalkması halinde mevcut statüler yeniden değerlendirmeye alınabilir."
+      ],
+      "bullets": [
+        "Koruma statüsünün sona ermesi",
+        "Yeni vatandaşlık kazanılması"
+      ]
+    },
+    {
+      "heading": "Yanınızda hangi belgeler bulunmalı?",
+      "paragraphs": [
+        "Başvuru ve inceleme aşamalarında kimliğinizi ve evlilik bağınızı kanıtlayacak resmi evrakların eksiksiz olması gerekir.",
+        "Tebligat ve bildirimlerin takibi için güncel adres bilgilerinizin sistemde kayıtlı olması şarttır."
+      ],
+      "bullets": [
+        "Kimlik belgeleri",
+        "Evlilik cüzdanı"
+      ]
+    }
+  ],
+  "steps": [
+    "Evlilik birliğinizi resmi belgelerle kanıtlayın.",
+    "Yetkili kurumlara başvuru evraklarını eksiksiz sunun.",
+    "Kimlik ve vatandaşlık bilgilerinizin doğruluğunu sağlayın.",
+    "İnceleme sürecindeki resmi tebligatları takip edin.",
+    "Gerekli durumlarda yasal temsilciniz veya avukatınızla hareket edin."
+  ],
+  "documents": [
+    "Geçerli kimlik belgesi",
+    "Resmi evlilik cüzdanı",
+    "Adres kayıt belgesi",
+    "Başvuru dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Evlenir evlenmez Türk vatandaşı olur muyum?",
+      "a": "Hayır, evlilik tek başına otomatik olarak Türk vatandaşlığı kazandırmaz; resmi başvuru ve inceleme süreci gereklidir."
+    },
+    {
+      "q": "Kimlik bilgilerimden şüphe duyulursa ne olur?",
+      "a": "Bilgilerin doğruluğunun tespiti amacıyla yetkili makamlarca inceleme yapılır ve gerekli adımlar izlenir."
+    },
+    {
+      "q": "Uluslararası koruma statüm varsa evlilik bunu nasıl etkiler?",
+      "a": "Farklı bir vatandaşlık kazanılması veya koruma koşullarının ortadan kalkması durumunda mevcut statü sona erebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "yabanci-ikamet-izni",
+  "angle": "Evlilikle vatandaşlık",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

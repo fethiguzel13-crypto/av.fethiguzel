@@ -1,0 +1,101 @@
+{
+  "slug": "nafaka-odenmezse",
+  "title": "Nafaka Ödenmezse İcra ve Tazyik Hapsi | Vatandaş Rehberi",
+  "description": "Nafaka ödenmezse ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
+  "h1": "Nafaka ödenmezse ne yapılır?",
+  "keywords": [
+    "nafaka ödenmezse",
+    "nafaka icra",
+    "nafaka tazyik hapsi"
+  ],
+  "category": "Aile",
+  "related": [
+    "nafaka-davasi-nedir",
+    "icra-takibi-nedir",
+    "cocuk-nafaka-artirim"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/nafaka-davasi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    }
+  ],
+  "lead": "Elinde mahkeme kararı olduğu hâlde nafaka ödenmiyorsa, beklemek yerine doğrudan icra yoluna gidebilirsiniz. Borçlu çalışıyorsa **maaştan kesinti** otomatik olarak yapılabilir.",
+  "keyInsight": "Nafaka borcunu ödememek borç hapishanesi yaratmaz ancak kuralına uygun şikâyet edildiğinde tazyik hapsi gündeme gelir.",
+  "sections": [
+    {
+      "heading": "Neden ödenmiyor?",
+      "paragraphs": [
+        "Cebinizde mahkeme kararı var ancak karşı taraf sessizliğe gömüldü. Bu noktada asıl mesele, kararın kesinleşmiş olması ve biriken tutarın netleşmesidir. Beklemek borçluyu rahatlatmaktan başka işe yaramaz.",
+        "Borçlunun Sosyal Güvenlik Kurumu ile bağı varsa, ayrı bir başvuruya gerek kalmaksızın nafaka **maaş ya da ücretten** doğrudan icra müdürlüğü eliyle tahsil edilebilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İcra dairesi nasıl işletilir?",
+      "paragraphs": [
+        "Yerleşim yerindeki icra müdürlüğüne giderek süreci başlatırsınız. Nafaka alacağı diğer borç türlerine göre önceliklidir.",
+        "Birden fazla alacaklı varsa talep sırası önem kazanır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Tazyik hapsi ne zaman devreye girer?",
+      "paragraphs": [
+        "Borçlu ödemekten kaçındığında tazyik hapsi yolu açılır. Bu durum cezaevine atma değil, **borcu ödetmeye zorlama** aracıdır.",
+        "Hapsin başlamasından sonra borçlu biriken parayı ödediği an tahliye edilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "Elindeki belgeleri düzenli tutmayanlar süreçte zaman kaybeder. Mahkeme ilamı ve hesap dökümü ilk adımı hızlandırır.",
+        "Eksik evrakla yapılan başvurular icra aşamasında sizi yorar."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Mahkeme kararının bir örneğini alın.",
+    "Yerleşim yeri icra müdürlüğünde dosya açtırın.",
+    "Borçlunun SGK kaydını ve maaş durumunu bildirin.",
+    "Ödeme yapılmazsa şikâyet hakkını kullanın.",
+    "Borç ödendiğinde süreci sonlandırın."
+  ],
+  "documents": [
+    "nafaka kararı",
+    "hesap dökümü",
+    "icra evrakı",
+    "şikâyet"
+  ],
+  "faq": [
+    {
+      "q": "Nafaka ödenmezse doğrudan hapse girer mi?",
+      "a": "Hapis cezası doğrudan uygulanmaz; usulüne uygun icra takibi ve şikâyet aşamalarından geçilmesi gerekir."
+    },
+    {
+      "q": "Maaşı yoksa nafaka nasıl alınır?",
+      "a": "Borçlunun mal varlığına haciz yoluyla gidilebilir veya aciz vesikası durumuna göre yasal yollar işletilir."
+    },
+    {
+      "q": "Tazyik hapsi ne kadar sürer?",
+      "a": "Borçlu ödeme yapana kadar devam eder, ancak bir borç için yasal üst sınır bir yılı aşamaz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "nafaka-davasi-nedir",
+  "angle": "İcra ve tazyik",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "deger-kaybi-arac",
+  "title": "Araç değer kaybı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Araç değer kaybı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
+  "h1": "Araç değer kaybı",
+  "keywords": [
+    "araç değer kaybı",
+    "deger kaybi arac"
+  ],
+  "category": "Trafik",
+  "related": [
+    "trafik-kazasi-tazminati",
+    "trafik-sigortasi-hasar",
+    "kasko-hasar-sureci"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/trafik-kazasi-tazminati"
+    },
+    {
+      "label": "KTK",
+      "href": "/kategori/ktk"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    }
+  ],
+  "lead": "Trafik kazası geçirdiniz ve aracınız onarıldı; asıl mesele ikinci el piyasasındaki maddi kaybın karşılanmasıdır.",
+  "keyInsight": "Hasar sebebiyle trafikten çekme veya hurdaya çıkarılma işlemi görmüş araçlar için değer kaybı tazminatı istenemez.",
+  "sections": [
+    {
+      "heading": "Kaza sonrası araçta meydana gelen eksilme",
+      "paragraphs": [
+        "Aracınızla trafikte seyir halindeyken bir kaza geldi başınıza. Kaportası onarıldı, boyandı ve servis kapısından çıktınız. Ancak aracınızı satmak istediğinizde alıcı boyalı parçaları görecek ve fiyat kıracaktır. İşte bu fark, aracınızın piyasa değerindeki düşüştür.",
+        "Bu kayıp için **doğrudan sigorta şirketine** başvurulması gerekir. Ancak her kaza ve her araç durumu bu ödeme için uygun değildir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hangi araçlar kapsam dışı kalır?",
+      "paragraphs": [
+        "Kanun, bazı durumlarda değer kaybı ödenmeyeceğini açıkça çizer. Hasar sebebiyle trafikten çekme veya hurdaya çıkarılma işlemi görmüş araçlar için değer kaybı tazminatı talebinde bulunulamaz.",
+        "Ayrıca hak sahibinin kendi kusuruna denk gelen tazminat talepleri de sigorta kapsamı dışındadır. Kazada tamamen kusurlu taraf sizseniz, karşı taraftan bu talebi **ileri süremezsiniz**."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Dolaylı zararların durumu nedir?",
+      "paragraphs": [
+        "Kazadan sonra aracınızı kullanamadığınız için mahrum kaldığınız imkanlar akla gelir. Ancak gelir kaybı, kâr kaybı, iş durması ve kira mahrumiyeti gibi dolaylı zararlar değer kaybı kapsamında ödenmez.",
+        "Mevzuat bu kalemleri sigorta teminatının dışında bırakmıştır. Odaklanmanız gereken nokta aracın gördüğü fiziki onarımın piyasa değerine etkisidir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Başvuru adımları nasıl atılır?",
+      "paragraphs": [
+        "Süreçte ilk olarak kaza tespit tutanağı ve onarım belgelerini bir araya getirmelisiniz. Sigorta şirketine yapılacak başvuruda hasar ve onarım geçmişi net bir şekilde sunulmalıdır.",
+        "Şirketin vereceği sonuca göre yasal yollardan talep açılabilir. Eksiksiz evrakla yapılan başvuru süreci hızlandırır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Kaza tespit tutanağını ve tutanak ekindeki belgeleri toplayın",
+    "Aracın onarımına ait servis veya tamir faturalarını temin edin",
+    "Kusur oranını ve kaza detaylarını netleştirin",
+    "Sigorta şirketine yazılı başvuru evrakını hazırlayın"
+  ],
+  "documents": [
+    "Kaza tespit tutanağı",
+    "Onarım ve parça faturaları",
+    "Ekspertiz raporu",
+    "Ruhsat fotokopisi"
+  ],
+  "faq": [
+    {
+      "q": "Hurdaya çıkan araç için değer kaybı alınır mı?",
+      "a": "Hasar sebebiyle trafikten çekme veya hurdaya çıkarılma işlemi görmüş araçların değer kaybı tazminatı talebi kanunen karşılanmaz."
+    },
+    {
+      "q": "Kendi kusurum varsa değer kaybı alabilir miyim?",
+      "a": "Hak sahibinin kendi kusuruna denk gelen tazminat talepleri sigorta kapsamı dışındadır."
+    },
+    {
+      "q": "Araçsuz kaldığım sürenin kirasını alabilir miyim?",
+      "a": "Gelir kaybı, kâr kaybı, iş durması ve kira mahrumiyeti gibi dolaylı zararlar ödenmez."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "trafik-kazasi-tazminati",
+  "angle": "Araç değer kaybı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

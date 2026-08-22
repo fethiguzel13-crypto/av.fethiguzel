@@ -1,0 +1,112 @@
+{
+  "slug": "adli-sicil-kaydi",
+  "title": "Adli sicil kaydı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Adli sicil kaydı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
+  "h1": "Adli sicil kaydı",
+  "keywords": [
+    "adli sicil kaydı",
+    "adli sicil kaydi"
+  ],
+  "category": "Ceza",
+  "related": [
+    "tutuklama-nedir",
+    "ceza-sorusturmasi-sureci",
+    "ehliyet-alma-sartlari",
+    "is-sozlesmesi-feshi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tutuklama-nedir"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=adli%20sicil"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    }
+  ],
+  "lead": "Adli sicil kaydı, geçmişteki mahkûmiyetlerin ve ceza dosyalarının tutulduğu resmi belgedir. İş başvurularından vize işlemlerine kadar hayatın birçok alanında bu belge karşınıza çıkar.",
+  "keyInsight": "**e-Devlet** üzerinden aldığınız belgede görünen her kayıt ömür boyu kalmaz, ancak silinme şartları ve süreleri dosyanın durumuna göre değişir.",
+  "sections": [
+    {
+      "heading": "Hangi kayıt nerede görünür?",
+      "paragraphs": [
+        "Adli sicil belgesi dediğimiz kağıt, aslında iki ayrı bölümden oluşur. İlk kısımda kesinleşmiş mahkûmiyet kararları yer alırken, ikinci kısımda ise arşiv kaydı bulunur. Cezanın infazı tamamlansa bile arşiv kaydı belirli süreler boyunca sistemde kalmaya devam eder.",
+        "Dosyanın sicilden silinmesi veya arşive alınması **otomatik** süreçler gibi görünse de, bazı durumlarda mahkeme kararı veya ek işlemler gerekebilir."
+      ],
+      "bullets": [
+        "Aktif sicil kaydı",
+        "Arşiv kaydı"
+      ]
+    },
+    {
+      "heading": "Kayıp ve yanlışlıklar nasıl düzeltilir?",
+      "paragraphs": [
+        "Ekrana baktığınızda size ait olmayan ya da çoktan kapanmış bir dosyanın hâlâ aktif durduğunu görebilirsiniz. Bu gibi durumlarda panik yapmadan resmî adımları takip etmeniz gerekir.",
+        "Yanlış veya güncel olmayan kayıtların düzeltilmesi için **Cumhuriyet savcılığına** yazılı başvuruda bulunarak dosyanın güncellenmesini talep edebilirsiniz."
+      ],
+      "bullets": [
+        "Yanlış kayıt tespiti",
+        "Savcılık başvurusu"
+      ]
+    },
+    {
+      "heading": "Kurumlar hangi kaydı ister?",
+      "paragraphs": [
+        "İş yerleri, resmi kurumlar veya ihaleler sizden adli sicil kaydı isterken bazen sadece aktif sicili bazen de arşivli tüm geçmişi talep edebilir. Başvuru yapacağınız kurumun tam olarak hangi belgeyi istediğini **önceden** öğrenmelisiniz.",
+        "Yanlış belge türü vermek başvurunuzun gecikmesine veya geçersiz sayılmasına yol açabilir."
+      ],
+      "bullets": [
+        "Kurum talebi",
+        "Güncel çıktı"
+      ]
+    },
+    {
+      "heading": "Silinme ve hak iadesi şartları nelerdir?",
+      "paragraphs": [
+        "Cezaların infazı bittikten sonra sicilin temizlenmesi kanunda öngörülen şartlara bağlıdır. Bazı hak yoksunluklarının giderilmesi için ayrıca yasaklanmış hakların iadesi kararı alınması gerekebilir.",
+        "Bu süreç hukuki teknik detay içerdiği için **kesinleşme belgesi** gibi evrakın eksiksiz hazırlanması şarttır."
+      ],
+      "bullets": [
+        "İnfazın tamamlanması",
+        "Hak iadesi"
+      ]
+    }
+  ],
+  "steps": [
+    "e-Devlet’ten adli sicil ve arşiv kaydını indirin.",
+    "Hangi kurumun sicil mi arşiv mi istediğini sorun.",
+    "Silinme veya yasaklanmış hakların iadesi şartına bakın.",
+    "Yanlış kayıt için Cumhuriyet savcılığına düzeltme isteyin.",
+    "İş veya ihale başvurusunda güncel çıktı kullanın."
+  ],
+  "documents": [
+    "e-Devlet çıktısı",
+    "kesinleşme belgesi",
+    "düzeltme dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Adli sicil kaydım neden silinmiyor?",
+      "a": "Cezanın infazı tamamlanmış olsa bile arşiv süresi dolmamış olabilir veya yasaklanmış hakların geri verilmesi kararının alınması gerekebilir."
+    },
+    {
+      "q": "E-Devlet'teki sicil kaydımda hata varsa ne yapmalıyım?",
+      "a": "Yanlış veya mükerrer kayıtlar için Cumhuriyet savcılığına başvurarak kaydın düzeltilmesini talep edebilirsiniz."
+    },
+    {
+      "q": "Arşiv kaydı adli sicil belgesinde görünür mü?",
+      "a": "Kurumların talebine göre sadece adli sicil veya hem adli sicil hem arşiv kaydını içeren belgeler ayrı ayrı alınabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tutuklama-nedir",
+  "angle": "Adli sicil kaydı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

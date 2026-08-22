@@ -1,0 +1,100 @@
+{
+  "slug": "rucu-davasi-nedir",
+  "title": "Rücu davası — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Rücu davası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "Rücu davası",
+  "keywords": [
+    "rücu davası",
+    "rucu davasi nedir"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "temerrut-faizi-nedir",
+    "kefalet-sozlesmesi",
+    "sigorta-tazminat-reddi",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/temerrut-faizi-nedir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Birden fazla kişinin sorumlu olduğu bir borcu tek başınıza ödediğinizde, diğer kişilerden kendi paylarını isteme hakkınız doğar. Asıl mesele, ödemeyi kendi cebinizden yapmanız ve bunu belgelendirmenizdir.",
+  "keyInsight": "Başkasının borcunu öderken elinizde yazılı bir ödeme belgesi ve haklılığınızı gösteren kayıtlar olmalıdır.",
+  "sections": [
+    {
+      "heading": "Kim kime başvurabilir?",
+      "paragraphs": [
+        "Ortak bir borçta veya zararda, yükümlülüğü tek başına yerine getiren kişi adeta bir alacaklı gibi davranabilir. Ödediğiniz miktar, diğer kişilerin sorumluluk oranına denk düşmelidir.",
+        "Bu aşamada **borcun tamamını ödemiş olmak** en temel şarttır. Eksik ödemeler veya belirsiz tutarlar üzerinden talepte bulunmak süreci tıkar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hangi adımlar izlenmelidir?",
+      "paragraphs": [
+        "Öncelikle yapılan ödemenin tam olarak kime ve ne için yapıldığı netleştirilmelidir. Eldeki makbuzlar ve banka dekontları bu aşamada en büyük güvencenizdir.",
+        "Diğer sorumlulara düşen payın ödenmesi için **yazılı bildirim** yapmak süreci hukuki zemine taşır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yanınızda hangi belgeler durmalı?",
+      "paragraphs": [
+        "Ödemeyi gösteren resmi banka kayıtları ve makbuzlar dosyanın temelini oluşturur.",
+        "Borcun kaynağını kanıtlayan sözleşme veya resmi evraklar eksiksiz şekilde saklanmalıdır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreci kaçırmamak neden önemlidir?",
+      "paragraphs": [
+        "Hukuki yollara başvururken zaman kaybetmemek ve eldeki belgeleri eksiksiz sunmak hak kaybını önler.",
+        "İşlemleri **zamanında yapmak** diğer tarafların sorumluluktan kaçmasını engeller."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Ödemeyi yaptığınızı kanıtlayan banka dekontunu veya makbuzu alın.",
+    "Borçlu diğer kişilerin paylarını hesaplayın.",
+    "Ödemeyi talep ettiğinizi gösteren yazılı bir ihbar hazırlayın.",
+    "Gerekli belgeleri bir dosyada toplayarak hukuki süreci başlatın."
+  ],
+  "documents": [
+    "Banka ödeme dekontu",
+    "Borç ilişkisini gösteren sözleşme",
+    "Yazılı bildirim metni",
+    "Masraf ve ödeme makbuzları"
+  ],
+  "faq": [
+    {
+      "q": "Borcun bir kısmını ödedim, yine de başvuru yapabilir miyim?",
+      "a": "Kendi payınızdan fazlasını ödediğiniz durumlarda, aşan kısım için talep hakkı gündeme gelebilir."
+    },
+    {
+      "q": "Elimde dekont yoksa ne olur?",
+      "a": "Yazılı belgenin bulunmaması durumu kanıtlamayı son derece zorlaştırır; bu nedenle ödemelerin resmi yollarla yapılması şarttır."
+    },
+    {
+      "q": "Bildirim yapmadan doğrudan dava açılabilir mi?",
+      "a": "Öncesinde taraflara ulaşmak ve durumu bildirmek sürecin sağlıklı ilerlemesi açısından önemlidir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "temerrut-faizi-nedir",
+  "angle": "Rücu davası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

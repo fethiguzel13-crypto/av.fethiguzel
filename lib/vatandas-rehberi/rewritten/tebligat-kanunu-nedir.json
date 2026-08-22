@@ -1,0 +1,113 @@
+{
+  "slug": "tebligat-kanunu-nedir",
+  "title": "Tebligat Kanunu ne işe yarar — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Tebligat Kanunu ne işe yarar? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
+  "h1": "Tebligat Kanunu ne işe yarar?",
+  "keywords": [
+    "Tebligat Kanunu",
+    "7201 sayılı kanun"
+  ],
+  "category": "Usul",
+  "related": [
+    "tebligat-usulsuzlugu",
+    "elektronik-tebligat",
+    "mevzuat-nasil-aranir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tebligat-usulsuzlugu"
+    },
+    {
+      "label": "Tebligat",
+      "href": "/kategori/tebligat"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Resmî bir kurumdan, mahkemeden veya noterden kâğıt aldığınızda süreç hukuken başlamış sayılır. Tebligat Kanunu, davanızdan veya aleyhinize yürütülen resmî bir işlemden haberinizin usulüne uygun şekilde getirilmesini sağlayan temel kuralları belirler.",
+  "keyInsight": "Davanızı bir avukat aracılığıyla takip ediyorsanız resmî bildirimlerin size değil, doğrudan **vekilinize yapılması** esastır.",
+  "sections": [
+    {
+      "heading": "Resmî evraklar size nasıl ve kiminle ulaştırılır?",
+      "paragraphs": [
+        "Kapınız çalındı ve elinize resmî bir zarf tutuşturuldu ya da elektronik posta kutunuza bir bildirim düştü. Aklınıza gelen ilk soru, bu evrakın geçerli sayılması için hangi yolla ulaştırılması gerektiğidir. Kanun, kamu idareleri, mahkemeler, belediyeler, barolar ve noterler tarafından yapılacak tüm bildirimlerin belirli bir düzen içinde yürütülmesini şart koşar.",
+        "Taraflarca aksi kararlaştırılmadıkça tebligat işlemleri **7201 sayılı Tebligat Kanunu** hükümlerine göre yapılır. Bu bildirimler elektronik ortam da dâhil olmak üzere Posta ve Telgraf Teşkilatı Genel Müdürlüğü veya yetkili memur vasıtasıyla adresinize ulaştırılır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Avukatınız varsa kâğıtlar kime gönderilmelidir?",
+      "paragraphs": [
+        "Bir hak kayn kaybı yaşamamak adına davanızı yürütmesi için bir avukata vekâlet vermiş olabilirsiniz. Bu durumda mahkemenin veya resmî mercilerin doğrudan sizinle iletişime geçmesi usule aykırıdır.",
+        "Vekil vasıtasıyla takip edilen işlerde tebligat **doğrudan vekile yapılır**. Eğer birden fazla avukatınız varsa bunlardan sadece birine bildirim yapılması yeterli görülür; şayet evrak birden fazla avukata ayrı ayrı tebliğ edilmişse ilk ulaştırılan tarih esas alınır. Avukatın bürosunda yapılacak bildirimlerin ise **resmî çalışma gün ve saatleri** içinde gerçekleşmesi gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Adli tatilde tebligat gelmeye devam eder mi?",
+      "paragraphs": [
+        "Yaz aylarında adli tatile girildiğinde mahkemelerdeki tüm işlemlerin durduğu yönünde yaygın bir inanış bulunur. Oysa kanun, hak kayıplarının önüne geçmek ve adalet mekanizmasını aksatmamak adına belirli işlemlerin yürütülmesine izin verir.",
+        "Adli tatilde dava açma, dilekçe verme veya dosya gönderme işlemlerinin yanı sıra **her türlü tebligat** yapılmasına da devam olunur. Dolayısıyla adli tatil süresince adresinize veya avukatınıza gelen tebligatlar geçerliliğini korur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yargıtay duruşmalarında süreler nasıl işler?",
+      "paragraphs": [
+        "Davanız temyiz incelemesi için üst mahkemeye gittiğinde kural olarak dosya üzerinden karar verilir. Ancak kanunun belirttiği duruşmalı işlerde taraflardan birinin talebi üzerine duruşma günü belirlenebilir.",
+        "Duruşma günü tayin edildiğinde, tebliğ tarihi ile duruşma günü arasında en az **iki hafta** bulunması şarttır. Duruşma giderinin eksik ödenmesi hâlinde ise tamamlanması için **bir haftalık kesin süre** verilir; bu süre içinde gider ödenmezse duruşma talebinden vazgeçilmiş sayılır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Arabuluculuk tutanağının tebliğ edilmesinde kilit kural nedir?",
+      "paragraphs": [
+        "Dava açmadan önce arabulucuya başvurmanın zorunlu olduğu uyuşmazlıklarda, anlaşmaya varılamadığına dair son tutanağın dava dilekçesine eklenmesi gerekir. Bu belgenin unutulması durumunda mahkeme davayı anında reddetmez.",
+        "Mahkeme, eksik tutanağın sunulması için davacıya **bir haftalık kesin süre** içeren bir davetiye gönderir. İhtar verilen bu süre içinde tutanak mahkemeye sunulmazsa dava dilekçesi karşı tarafa tebliğe çıkarılmaksızın usulden reddedilir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Adresinize veya e-posta kutunuza gelen tebligatı teslim aldığınız an tarihi ve saati not edin.",
+    "Bir avukatla çalışıyorsanız gelen resmî evrakı vakit kaybetmeden avukatınıza ulaştırın.",
+    "Zorunlu arabuluculuk kapsamındaki davanızı açarken son tutanağı dilekçenize eklediğinizden emin olun.",
+    "Mahkemeden gelen gider veya belge tamamlama davetiyelerindeki **bir haftalık kesin süreye** riayet edin.",
+    "Yargıtay duruşma davetiyesi ulaştığında duruşma günü ile tebliğ tarihi arasında en az **iki hafta** süre bulunduğunu kontrol edin."
+  ],
+  "documents": [
+    "Posta veya memur aracılığıyla ulaştırılan tebligat zarfı",
+    "Elektronik tebligat (e-tebligat) mesajı ve ekleri",
+    "Arabuluculuk faaliyeti son tutanağının aslı veya onaylı örneği",
+    "Vekâletname (avukat aracılığıyla yürütülen işlerde)",
+    "Mahkeme davetiyesi veya eksiklik giderme ihtar yazısı"
+  ],
+  "faq": [
+    {
+      "q": "Avukatım olmasına rağmen tebligat bana gelirse ne yapmalıyım?",
+      "a": "Kanuna göre vekil ile takip edilen işlerde tebligatın vekile yapılması esastır. Size ulaşan evrakı derhâl avukatınıza iletmeli ve hukuki durumu bildirmelisiniz."
+    },
+    {
+      "q": "Adli tatil döneminde tebligat yapılırsa geçerli olur mu?",
+      "a": "Evet, Hukuk Muhakemeleri Kanunu uyarınca adli tatilde her türlü tebligat işlemi yapılabilir ve ulaştırılan tebligatlar hukuken geçerlidir."
+    },
+    {
+      "q": "Arabuluculuk son tutanağını dava dilekçesine eklemeyi unutursam ne olur?",
+      "a": "Mahkeme size tutanağı sunmanız için bir haftalık kesin süre veren bir davetiye gönderir. Bu süre içinde sunmazsanız davanız reddedilir."
+    },
+    {
+      "q": "Yargıtay duruşması için tebligat geldiğinde ne kadar zamanım olur?",
+      "a": "Tebliğ tarihi ile Yargıtay'daki duruşma günü arasında en az iki hafta bulunması kanuni bir zorunluluktur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tebligat-usulsuzlugu",
+  "angle": "Kanun çerçevesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

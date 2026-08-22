@@ -1,0 +1,117 @@
+{
+  "slug": "isten-cikarilma-tazminatlari",
+  "title": "İşten Çıkarılınca Hangi Tazminatlar Alınır? | Vatandaş Rehberi",
+  "description": "İşten çıkarılma tazminatları haritası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
+  "h1": "İşten çıkarılma tazminatları haritası",
+  "keywords": [
+    "işten çıkarılma tazminatları",
+    "fesih tazminatları listesi"
+  ],
+  "category": "İş",
+  "related": [
+    "kidem-tazminati-nasil-alinir",
+    "ihbar-tazminati-nedir",
+    "ise-iade-davasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kidem-tazminati-nasil-alinir"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/kidem"
+    }
+  ],
+  "lead": "Sabah masanızda fesih bildirimini gördünüz. Telaş etmeyin; hak ettiğiniz tazminatların ve atmanız gereken adımların haritası resmî kurallara göre çizilmiştir.",
+  "keyInsight": "İş sözleşmesinin hangi gerekçeyle ve kim tarafından bittiği, alacağınız tazminatların kapısını açan anahtardır.",
+  "sections": [
+    {
+      "heading": "Hangi durumlarda tazminat hakkı doğar?",
+      "paragraphs": [
+        "İş sözleşmeniz işveren tarafından kanunda belirtilen haklı fesih sebeplerinin dışındaki bir nedenle sonlandırıldığında kıdem tazminatı hakkınız doğar. Aynı şekilde kendi isteğinizle ancak kanunda sayılan emeklilik, askerlik veya kadın çalışanların evlilik gibi özel haller nedeniyle ayrılmanız durumunda da bu hak baki kalır.",
+        "Çalıştığınız süre boyunca her geçen tam yıl için hesaplanan ödeme, **otuz günlük ücretiniz** tutarındadır. Bir yıldan artan süreler de aynı oran üzerinden hesaba dahil edilir ve iş yerinin devir veya el değiştirme durumlarında toplam çalışma süreniz esas alınır."
+      ],
+      "bullets": [
+        "İşverenin haksız feshi",
+        "Muvazzaf askerlik durumu",
+        "Emeklilik veya yaşlılık aylığı amacıyla ayrılma",
+        "Kadın çalışanın evlilik tarihi itibarıyla bir yıl içinde feshi"
+      ]
+    },
+    {
+      "heading": "Toplu işçi çıkarma sürecinde kurallar nelerdir?",
+      "paragraphs": [
+        "İşveren ekonomik, teknolojik veya benzeri işletmesel gerekliliklerle toplu işçi çıkarmak istediğinde süreci resmî mercilere önceden bildirmek zorundadır. Yapılacak bu bildirimde işçi çıkarmanın gerekçeleri, etkilenecek personel sayıları ve zaman dilimleri açıkça yer alır.",
+        "İşyeri sendika temsilcileri ile işveren arasında, çıkarmanın önlenmesi ya da etkilerin en aza indirilmesi amacıyla görüşmeler gerçekleştirilir ve toplantı sonunda belge düzenlenir. Fesih bildirimleri, yapılan bildirimlerin ardından **otuz gün sonra** hüküm doğurur."
+      ],
+      "bullets": [
+        "Bölge müdürlüğüne ve kuruma yazılı bildirim",
+        "Sendika temsilcileriyle görüşme tutanağı",
+        "Otuz günlük bekleme süresi"
+      ]
+    },
+    {
+      "heading": "Özel durumlarda izin ve tazminat istisnaları",
+      "paragraphs": [
+        "Çalışma yaşamınızda karşılaşabileceğiniz evlilik, evlat edinme veya yakınlarınızın vefatı gibi mazeret hallerinde kanunen belirlenen süreler kadar ücretli izin kullanabilirsiniz. Engelli veya süreğen hastalığı olan çocukların tedavisinde de belirli koşullarla izin hakkı tanınmıştır.",
+        "Öte yandan, kıdem ve ihbar tazminatı gibi toplu ödemeler ile kanunda belirtilen belirli yardımlar prime esas kazançların hesabında dikkate alınmaz ve istisna tutulur."
+      ],
+      "bullets": [
+        "Mazeret ve ölüm hallerinde üç günlük izin",
+        "Eşin doğum yapması halinde on günlük izin",
+        "Engelli çocuk tedavisinde kullanılan izinler"
+      ]
+    },
+    {
+      "heading": "Kamu kurumlarında çalışanların tazminat güvencesi",
+      "paragraphs": [
+        "Kamu kurum ve kuruluşlarında alt işverenler bünyesinde çalıştırılan işçilerin kıdem tazminatları, alt işverenlerin değişip değişmediğine bakılmaksızın aynı kurumdaki toplam çalışma süreleri üzerinden hesaplanır.",
+        "Şartların sağlanması durumunda bu ödemeler, son kamu kurumu tarafından doğrudan işçinin **banka hesabına** yatırılarak gerçekleştirilir."
+      ],
+      "bullets": [
+        "Aynı kamu kurumunda aralıksız çalışma süresi",
+        "Son işverene göre hesaplanan kıdem",
+        "Banka hesabına doğrudan ödeme"
+      ]
+    }
+  ],
+  "steps": [
+    "İş sözleşmesinin fesih bildirimini ve gerekçesini yazılı olarak isteyin.",
+    "Çalışma sürenizi ve bugüne kadarki prim günlerinizi kontrol edin.",
+    "Toplu işçi çıkarma veya mazeret durumlarında bildirim sürelerini takip edin.",
+    "Tazminat hesaplaması için gerekli çalışma belgelerini bir araya getirin.",
+    "Ödemelerin banka hesabınıza yatırılıp yatırılmadığını denetleyin."
+  ],
+  "documents": [
+    "İş sözleşmesi ve fesih bildirimi",
+    "Hizmet dökümü ve prim gün listesi",
+    "Mazeret veya rapor belgeleri",
+    "Banka hesap dökümü"
+  ],
+  "faq": [
+    {
+      "q": "Kıdem tazminatı hangi süre üzerinden ödenir?",
+      "a": "İşe başladığınız tarihten itibaren hizmet akdinizin devam ettiği sürece her geçen tam yıl için otuz günlük ücretiniz tutarında ödenir."
+    },
+    {
+      "q": "Toplu işçi çıkarma bildirimi ne zaman hüküm doğurur?",
+      "a": "İşverenin toplu işçi çıkarma isteğini bölge müdürlüğüne bildirmesinden otuz gün sonra hüküm doğurur."
+    },
+    {
+      "q": "Mazeret izinlerinde ücret kesintisi olur mu?",
+      "a": "Kanunda belirtilen evlilik, ölüm veya doğum gibi mazeret izinleri ücretli izin olarak kullandırılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kidem-tazminati-nasil-alinir",
+  "angle": "Fesihte hangi kalemler birlikte gündeme gelir (genel harita)",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

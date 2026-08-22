@@ -1,0 +1,105 @@
+{
+  "slug": "tazyik-hapsi",
+  "title": "Tazyik hapsi ne demektir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Tazyik hapsi ne demektir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada…",
+  "h1": "Tazyik hapsi ne demektir?",
+  "keywords": [
+    "tazyik hapsi",
+    "nafaka tazyik hapsi"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "nafaka-odenmezse",
+    "icra-taahudu",
+    "icra-mahkemesi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    }
+  ],
+  "lead": "Tazyik hapsi, icra mahkemesinin belirlediği bir yükümlülüğü yerine getirmeyen borçlunun, bu yükümlülüğe uymasını sağlamak amacıyla uygulanan bir yaptırımdır. Bu ceza bir disiplin aracıdır ve borcun ödenmesiyle derhal sona erer.",
+  "keyInsight": "Tazyik hapsi bir cezalandırma değil, borçluyu mahkeme kararını yerine getirmeye zorlama yöntemidir; borç ödendiği an hapis cezası düşer.",
+  "sections": [
+    {
+      "heading": "Hangi borçlar için bu yola başvurulur?",
+      "paragraphs": [
+        "Hayatın olağan akışında icra takibi para tahsili içindir. Ancak bazen mahkeme kararlarının uygulanması için borçlunun bizzat bir işlem yapması gerekir. Özellikle nafaka ödemeleri veya mal beyanına ilişkin yükümlülükler buna örnektir.",
+        "Nafaka ödemelerinizi aksattığınızda veya mahkemenin belirlediği ödeme planına uymadığınızda, alacaklı tarafın şikayetiyle süreç tetiklenir. Burada amaç borçluyu bir suçlu gibi damgalamak değil, aksayan ödeme düzenini **icra mahkemesi kararı** ile geri getirmektir."
+      ],
+      "bullets": [
+        "Nafaka ödeme yükümlülüğünün ihlali.",
+        "Aciz vesikası sonrası belirlenen ödemelerin yapılmaması.",
+        "Mahkemece hükmedilen aylık ödeme planına uyulmaması."
+      ]
+    },
+    {
+      "heading": "Hapis cezası nasıl durdurulur?",
+      "paragraphs": [
+        "Tazyik hapsi, borcun ödenmesiyle doğrudan bağlantılıdır. Hapse girdikten sonra dahi borcun tamamını veya o tarihe kadar birikmiş olan ödemeyi icra veznesine yatırırsanız, **tahliye edilme hakkınız** doğar.",
+        "Süreç tamamen borçlunun iradesindedir. Borçlu, borcunu ödediği veya nafaka yükümlülüğünü yerine getirdiği an ceza infazı durdurulur. Bu nedenle süreç, klasik ceza yargılamalarından tamamen farklı işler."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Nafaka borçlusu için özel durumlar nelerdir?",
+      "paragraphs": [
+        "Nafaka borcunuz varsa ve ödeme gücünüzü kaybettiğinizi düşünüyorsanız, nafakanın kaldırılması veya azaltılması için dava açabilirsiniz. Bu dava, tazyik hapsinin uygulanmasını durdurmak için bir gerekçe olabilir.",
+        "Mahkeme, açmış olduğunuz davanın niteliğine ve sunduğunuz delillere bakarak hapis cezasının infazını **dava sonuna kadar** erteleyebilir. Ancak bu, borcunuzun kendiliğinden silindiği anlamına gelmez."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreyi ve şartları kaçırırsanız ne olur?",
+      "paragraphs": [
+        "İcra mahkemesi tarafından verilen tazyik hapsi kararı kesinleştiği tarihten itibaren belirli bir zaman dilimi içinde infaz edilmelidir. Eğer bu süre geçerse, artık o karar üzerinden hapis cezası uygulanmaz.",
+        "Ayrıca nafaka dışındaki borçlar için, alacak miktarının kanunda belirtilen asgari ücretin altında kalması durumunda tazyik hapsi yoluna gidilemez. Bu, küçük çaplı borçlar için ağır bir yaptırım uygulanmasını önleyen bir koruma kalkanıdır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Alacaklının şikayet dilekçesini icra mahkemesine vermesini bekleyin.",
+    "Mahkemece tebliğ edilen ödeme emrine veya duruşma davetine mutlaka yanıt verin.",
+    "Nafaka borcunuz varsa ödemelerinizi icra dosyasına düzenli yapın.",
+    "Borcu ödeme imkanınız yoksa nafakanın azaltılması davası açarak durumu mahkemeye bildirin.",
+    "Hapis kararı çıkması durumunda borcu icra veznesine yatırarak tahliye talebinde bulunun."
+  ],
+  "documents": [
+    "İcra mahkemesi duruşma tutanağı",
+    "Nafaka ödeme dekontları",
+    "Nafakanın kaldırılması dava dilekçesi",
+    "İcra dosyası ödeme planı"
+  ],
+  "faq": [
+    {
+      "q": "Tazyik hapsi sicile işler mi?",
+      "a": "Tazyik hapsi bir disiplin yaptırımı olduğundan, klasik anlamda bir ceza mahkumiyeti gibi adli sicil kaydına işlenmez."
+    },
+    {
+      "q": "Borcu ödedikten sonra neden hala içerideyim?",
+      "a": "Borcun ödendiğini icra dairesine bildirmeli ve tahliye talebinde bulunmalısınız; ödeme yapıldığı an cezanın infazı durur."
+    },
+    {
+      "q": "Nafaka borcum için kaç kez hapis cezası alabilirim?",
+      "a": "Her bir aylık ödenmeyen nafaka taksiti veya dönem için ayrı ayrı şikayet hakkı doğabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Tazyik",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

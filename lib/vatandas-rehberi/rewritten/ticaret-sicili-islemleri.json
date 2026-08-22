@@ -1,0 +1,112 @@
+{
+  "slug": "ticaret-sicili-islemleri",
+  "title": "Ticaret sicili işlemleri — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Ticaret sicili işlemleri hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
+  "h1": "Ticaret sicili işlemleri",
+  "keywords": [
+    "ticaret sicili işlemleri",
+    "ticaret sicili islemleri"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "sirket-kurulusu",
+    "ticari-isletme-nedir",
+    "limited-sirket-kurulus"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/sirket-kurulusu"
+    },
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-isletme"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Ticaret sicili işlemleri, şirketlerin ve ticari işletmelerin resmi olarak kaydedilmesi, ilan edilmesi ve hukuki durumlarındaki değişikliklerin takip edilmesini sağlar. İşlemler sırasında bildirim yükümlülüklerine uymak ve sicil kayıtlarını güncel tutmak büyük önem taşır.",
+  "keyInsight": "Şirket paylarındaki değişim bildirimleri yapılmadığı sürece, ilgili paylara ait oy hakkı dâhil diğer haklar donar.",
+  "sections": [
+    {
+      "heading": "Ticari işletmenin devri nasıl yapılır?",
+      "paragraphs": [
+        "Ticari işletme, esnaf işletmesi için öngörülen sınırı aşan düzeyde gelir sağlamayı hedef tutan faaliyetlerin devamlı ve bağımsız şekilde yürütüldüğü yerdir. İşletme, içerdiği malvarlığı unsurlarının devri için ayrı ayrı işlem yapmaya gerek kalmaksızın bir bütün hâlinde devredilebilir.",
+        "Devir sözleşmesi ve ticari işletmeyi bir bütün hâlinde konu alan diğer sözleşmeler yazılı olarak yapılır. Yapılan bu sözleşmelerin **ticaret siciline tescil ve ilan edilmesi** zorunludur."
+      ],
+      "bullets": [
+        "Duran malvarlığı ve işletme değeri dahildir.",
+        "Kiracılık hakkı ve ticaret unvanı devre girer.",
+        "Yazılı sözleşme ve tescil şarttır."
+      ]
+    },
+    {
+      "heading": "Pay oranlarındaki değişimler ne zaman bildirilir?",
+      "paragraphs": [
+        "Bir teşebbüs, bir sermaye şirketinin paylarına belirli oranlarda sahip olduğunda veya payları bu oranların altına düştüğünde durumun bildirilmesi gerekir. İşlemlerin tamamlanmasını izleyen **on gün içinde** sermaye şirketine ve yetkili makamlara bildirim yapılır.",
+        "Yönetim kurulu üyeleri ve yöneticiler de kendilerinin veya yakınlarının şirket içindeki payları ile ilgili bildirimde bulunmak zorundadır. Bildirimler yazılı şekilde yapılır, ticaret siciline tescil ve ilan olunur."
+      ],
+      "bullets": [
+        "Yüzde beş, on, yirmi gibi oranlar dikkate alınır.",
+        "Süre on gündür."
+      ]
+    },
+    {
+      "heading": "Bildirim yapılmazsa hangi haklar kaybedilir?",
+      "paragraphs": [
+        "Kanunda öngörülen bildirim, tescil ve ilan yükümlülüğü yerine getirilmediği sürece önemli bir sonuç ortaya çıkar. İlgili paylara ait oy hakkı dâhil olmak üzere **diğer haklar donar**.",
+        "Şirketlerin yasal yükümlülüklerini aksatmadan yerine getirmesi, hak kayıplarının önlenmesi açısından elzemdir."
+      ],
+      "bullets": [
+        "Oy hakları askıya alınır.",
+        "Tescil şarttır."
+      ]
+    },
+    {
+      "heading": "Bankalar ticaret sicili kayıtlarını neden ister?",
+      "paragraphs": [
+        "Bankalar çek hesabı açarken kişilerin yasaklı olup olmadığını ve ekonomik durumlarını araştırır. Tacir olan kişilerden ticaret sicili kayıtları istenir ve bu belgeler saklanır.",
+        "Muhatap bankalar, sermaye şirketlerinde yönetim organında görev yapanlar ile **ticaret siciline tescil edilen şirket yetkililerinin** çek hesabı yasağı bulunup bulunmadığını kontrol etmek zorundadır."
+      ],
+      "bullets": [
+        "Sicil kayıtları ibraz edilir.",
+        "Yasaklılık durumu sorgulanır."
+      ]
+    }
+  ],
+  "steps": [
+    "Ticari işletme devir sözleşmesini yazılı olarak hazırlayın.",
+    "Pay oranlarındaki değişiklikleri süresi içinde ilgili yerlere bildirin.",
+    "Bildirimleri yazılı olarak yapıp ticaret siciline tescil ettirin.",
+    "Şirket yetkililerinin sicil kayıtlarını ve yasa durumlarını banka işlemlerinde kontrol edin."
+  ],
+  "documents": [
+    "Ticaret sicili kayıtları",
+    "Yazılı devir sözleşmesi",
+    "Bildirim dilekçesi",
+    "Kimlik belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "Ticari işletme devri için ayrı ayrı işlem yapmak gerekir mi?",
+      "a": "Hayır, ticari işletme malvarlığı unsurlarıyla birlikte bir bütün hâlinde devredilebilir."
+    },
+    {
+      "q": "Pay devri bildirimleri ne kadar sürede yapılmalıdır?",
+      "a": "İşlemlerin tamamlanmasını izleyen on gün içinde bildirim yapılması gerekir."
+    },
+    {
+      "q": "Bildirim yükümlülüğü yerine getirilmezse ne olur?",
+      "a": "İlgili paylara ait oy hakkı dâhil diğer haklar donar."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "sirket-kurulusu",
+  "angle": "Ticaret sicili işlemleri",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -697,7 +697,41 @@ function checklistUsable(article: VatandasArticle): string[] {
   return items.filter((i) => i.length < 140).slice(0, 8);
 }
 
+function narrativeView(article: VatandasArticle): ReadableView {
+  const documents = (article.documents || []).filter(Boolean).slice(0, 8);
+  const steps = (article.steps || []).filter((s) => s && !isWorkshopSpeak(s)).slice(0, 7);
+  const sections = (article.sections || [])
+    .filter((s) => s.heading && !SKIP_HEADING.test(foldTr(s.heading)) && !isWorkshopSpeak(s.heading))
+    .map((s) => ({
+      heading: s.heading,
+      paragraphs: (s.paragraphs || []).filter((p) => p && !isWorkshopSpeak(p) && !SKIP_PARAGRAPH.test(p)),
+      bullets: (s.bullets || []).filter((b) => b && b.length < 180),
+    }))
+    .filter((s) => s.paragraphs.length || (s.bullets && s.bullets.length))
+    .filter((s) => {
+      if (/^(süreç|adımlar|ne yapmalısınız)/i.test(s.heading) && steps.length) return false;
+      if (/belge/i.test(s.heading) && documents.length) return false;
+      return true;
+    });
+  const faq = (article.faq || []).filter(
+    (f) => f.q && f.a && !SKIP_FAQ.test(f.q) && !isWorkshopSpeak(f.q) && !isWorkshopSpeak(f.a)
+  );
+
+  return {
+    answer: article.lead || '',
+    steps,
+    documents,
+    sections,
+    faq,
+    showChecklist: false,
+    checklist: [],
+    showTable: Boolean(article.table && !/hızlı kontrol tablosu/i.test(article.table.caption || '')),
+  };
+}
+
 export function toReadableView(article: VatandasArticle): ReadableView {
+  if (article.voice === 'narrative') return narrativeView(article);
+
   const firstUseful =
     (article.sections || [])
       .flatMap((s) => s.paragraphs || [])

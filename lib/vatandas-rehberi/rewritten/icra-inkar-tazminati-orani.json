@@ -1,0 +1,112 @@
+{
+  "slug": "icra-inkar-tazminati-orani",
+  "title": "İnkâr tazminatı oranı nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İnkâr tazminatı oranı nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
+  "h1": "İnkâr tazminatı oranı nedir?",
+  "keywords": [
+    "inkar tazminatı oranı",
+    "icra inkar yüzde"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "icra-inkar-tazminati",
+    "itirazin-iptali-davasi",
+    "odeme-emrine-itiraz"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "İcra takiplerinde imza inkârı durumunda uygulanacak oranlar, İcra ve İflas Kanunu hükümlerinde açıkça düzenlenmiştir. Süreç içerisinde atılacak adımlar ve borçlunun durumu, oranların uygulanmasında belirleyici rol oynar.",
+  "keyInsight": "Borçlunun senede dayanan takip konusu alacağın yüzde onu oranında para cezasına mahkûm edilmesi için duruşmada hazır bulunmaması kritik bir eşiktir.",
+  "sections": [
+    {
+      "heading": "İmza İnkârında Oranlar Nasıl Belirlenir?",
+      "paragraphs": [
+        "İcra mahkemesi huzurunda yapılan incelemeler neticesinde imzanın durumuna göre cezai şartlar gündeme gelir. Borçlunun dayandığı belgedeki imzanın alacaklıya ait çıkması veya borçlunun duruşmaya mazeretsiz gelmemesi halleri değerlendirilir.",
+        "İcra ve İflas Kanunu'na göre, sözü edilen belgenin taalluk ettiği değer veya miktarın **yüzde onu** oranında para cezasına hükmedilir."
+      ],
+      "bullets": [
+        "İmzanın alacaklıya ait çıkması",
+        "Borçlunun duruşmaya mazeretsiz gelmemesi",
+        "Değer veya miktarın yüzde onu oranında ceza"
+      ]
+    },
+    {
+      "heading": "Alacaklının Gelmemesi Halinde Süreç",
+      "paragraphs": [
+        "Alacaklı birinci fıkra gereğince çağrıldığı duruşmaya gelmediği takdirde icra mahkemesi hâkimi alacağın itiraz edilen kısmı için icranın muvakkaten durdurulmasına karar verir.",
+        "Bunun üzerine alacaklı **en geç altı ay** içinde icra mahkemesi önünde duruşma talep edebilir."
+      ],
+      "bullets": [
+        "Duruşmaya gelmeme halinde icranın durması",
+        "Altı ay içinde duruşma talep etme hakkı"
+      ]
+    },
+    {
+      "heading": "İtirazın Kaldırılması Talepleri",
+      "paragraphs": [
+        "Takibin dayandığı senet hususi olup imza itiraz sırasında borçlu tarafından reddedilmişse, alacaklı itirazın kendisine tebliği tarihinden itibaren **altı ay** içinde itirazın geçici olarak kaldırılmasını isteyebilir.",
+        "Bu süre içerisinde itirazın kaldırılması istenilmediği takdirde yeniden ilâmsız takip yapılamaz."
+      ],
+      "bullets": [
+        "Altı aylık başvuru süresi",
+        "İtirazın geçici olarak kaldırılması talebi"
+      ]
+    },
+    {
+      "heading": "Duruşmaya Katılmama ve Cezalar",
+      "paragraphs": [
+        "Yapılacak duruşmada mazerete dayanmaksızın borçlunun hazır bulunmaması halinde icra mahkemesince başka bir cihet tetkik edilmeksizin itirazın muvakkaten kaldırılmasına karar verilir.",
+        "Bu durumda borçlu, takip konusu alacağın **yüzde onu** oranında para cezasına mahkûm edilir."
+      ],
+      "bullets": [
+        "Duruşmaya mazeretsiz katılmama",
+        "Yüzde on oranında para cezası"
+      ]
+    }
+  ],
+  "steps": [
+    "İtiraz dilekçesini ve ekindeki belgeleri inceleyin.",
+    "Mahkeme tarafından belirlenen duruşma gününü takip edin.",
+    "Duruşmada bizzat hazır bulunun veya mazeretinizi bildirin.",
+    "Yasal süreler içerisinde gerekli talepleri icra mahkemesine iletin."
+  ],
+  "documents": [
+    "İtiraz dilekçesi",
+    "Takibe dayanak senet veya makbuz",
+    "Ödeme emri ve tebligat belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "İcra inkâr tazminatı oranı yüzde kaçtır?",
+      "a": "İlgili Kanun maddelerine göre oran yüzde on olarak uygulanmaktadır."
+    },
+    {
+      "q": "Duruşmaya katılmazsam ne olur?",
+      "a": "Mazeretsiz olarak duruşmaya katılmayan borçlu aleyhine itirazın kaldırılmasına ve yüzde on oranında para cezasına karar verilebilir."
+    },
+    {
+      "q": "Alacaklı duruşmaya gelmezse süre nedir?",
+      "a": "Alacaklı en geç altı ay içinde icra mahkemesi önünde duruşma talep etmelidir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Oran",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

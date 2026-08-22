@@ -1,0 +1,113 @@
+{
+  "slug": "ehliyet-geri-alma",
+  "title": "Ehliyete El Koyma ve Geri Alma | Vatandaş Rehberi",
+  "description": "Ehliyete el konulursa nasıl geri alınır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı…",
+  "h1": "Ehliyete el konulursa nasıl geri alınır?",
+  "keywords": [
+    "ehliyete el koyma",
+    "ehliyet iadesi"
+  ],
+  "category": "Trafik",
+  "related": [
+    "trafik-cezasina-itiraz",
+    "ehliyet-alma-sartlari",
+    "idari-dava-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/trafik-cezasina-itiraz"
+    },
+    {
+      "label": "KTK",
+      "href": "/kategori/ktk"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Ehliyetiniz ceza puanı, izinsiz yolcu taşımacılığı veya yasal kurallara aykırılık nedeniyle alındığında, belgenizi geri alabilmek için belirli aşamaları tamamlamanız gerekir. Sürecin sorunsuz ilerlemesi için resmi kurallara harfiyen uymalısınız.",
+  "keyInsight": "Ehliyetinizi geri alabilmeniz için kesilen **idari para cezalarının tamamının tahsil edilmiş** olması şarttır.",
+  "sections": [
+    {
+      "heading": "El koyma sebebini öğrenin",
+      "paragraphs": [
+        "Trafikte seyrederken belgenize el konulduysa, ilk olarak bunun hangi gerekçeyle yapıldığını netleştirmeniz gerekir. İzinsiz yolcu taşımacılığı veya ceza puanı gibi farklı ihlaller, belgenin geri alınmasında farklı yasal adımları karşınıza çıkarır.",
+        "Uygulanan her kural ihlali tutanağa bağlanır ve **sürücü belgesi geri alma işlemleri** yetkili görevliler tarafından yürütülür. Ne kadar süreyle el konulduğunu ve hangi şartların beklendiğini bu tutanak üzerinden takip edebilirsiniz."
+      ],
+      "bullets": [
+        "Tutanaktaki maddeyi inceleyin.",
+        "İhlal türünü tespit edin."
+      ]
+    },
+    {
+      "heading": "Ceza puanı ve eğitim şartı",
+      "paragraphs": [
+        "Trafik suçunun işlendiği tarihten geriye doğru bir yıl içinde toplam ceza sınırına ulaştığınızda belgeleriniz geçici olarak alınır. Bu durumda **eğitime tabi tutulmanız** veya bazı durumlarda psiko-teknik değerlendirme ve psikiyatri muayenesinden geçmeniz istenebilir.",
+        "Muayene ve eğitim süreçlerini başarıyla tamamlamadan belgenizi geri almanız mümkün değildir. Yetkili uzmanların vereceği rapor, ehliyetin iadesi için kritik önem taşır."
+      ],
+      "bullets": [
+        "Eğitim programlarına katılın.",
+        "Sağlık muayenelerini tamamlayın."
+      ]
+    },
+    {
+      "heading": "Borçları ve cezaları kapatın",
+      "paragraphs": [
+        "Belgenizin geri verilmesi için kanun açık bir kural koyar: İlgili kanun kapsamında kesilen **idari para cezalarının tamamının tahsil edilmiş** olması şartı aranır. Ödenmemiş tek bir ceza bile belgenizin size teslim edilmesini engeller.",
+        "Bu nedenle işlem yapmadan önce vergi dairelerinden veya ilgili tahsilat mercilerinden borç sorgulaması yapmalısınız. Parasal yükümlülükler bitmeden dosyanız kapanmaz."
+      ],
+      "bullets": [
+        "Tüm trafik cezalarını ödeyin.",
+        "Tahsilat makbuzlarını saklayın."
+      ]
+    },
+    {
+      "heading": "Başvuru ve teslim süreci",
+      "paragraphs": [
+        "Süre bittiğinde, eğitimler tamamlandığında ve borçlar ödendiğinde ilgili birime başvuru yapabilirsiniz. Yanınızda eksiksiz evraklarla gitmek işlemlerinizi hızlandırır.",
+        "Yapılan inceleme sonucunda şartları taşıdığınız anlaşıldığında belgeniz tarafınıza iade edilir. Süreci yakından takip etmek hak kaybını önler."
+      ],
+      "bullets": [
+        "Gerekli evrakları hazırlayın.",
+        "İlgili kuruma şahsen başvurun."
+      ]
+    }
+  ],
+  "steps": [
+    "El koyma sebebini tutanaktan netleştirin.",
+    "İstenen eğitim veya sağlık muayenelerini tamamlayın.",
+    "Tüm idari para cezası borçlarını ödeyin.",
+    "Gerekli belgelerle birlikte yetkili birime başvurun.",
+    "Belgenizi teslim alın."
+  ],
+  "documents": [
+    "el koyma tutanağı",
+    "eğitim belgesi",
+    "sağlık raporu",
+    "ceza ödeme makbuzu",
+    "başvuru dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Cezaları ödemeden ehliyetimi geri alabilir miyim?",
+      "a": "Hayır, kanun gereği verilen idari para cezalarının tamamının tahsil edilmiş olması şarttır."
+    },
+    {
+      "q": "Ceza puanı dolunca ne yapmam gerekir?",
+      "a": "Belirlenen süre sonunda eğitime tabi tutulur veya gerekli durumlarda psiko-teknik değerlendirmeden geçersiniz."
+    },
+    {
+      "q": "El koyma süresi bitmeden başvuru yapabilir miyim?",
+      "a": "Süre bitmeden yapılan başvurular kural olarak reddedilir, yasal sürenin dolması beklenmelidir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "trafik-cezasina-itiraz",
+  "angle": "Ehliyet iadesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

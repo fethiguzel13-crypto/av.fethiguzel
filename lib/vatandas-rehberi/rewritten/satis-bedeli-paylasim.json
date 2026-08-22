@@ -1,0 +1,110 @@
+{
+  "slug": "satis-bedeli-paylasim",
+  "title": "İcra Satış Bedelinin Paylaşımı | Vatandaş Rehberi",
+  "description": "İcra satış parası nasıl paylaşılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
+  "h1": "İcra satış parası nasıl paylaşılır?",
+  "keywords": [
+    "icra satış bedeli paylaşım"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "sira-cetveli",
+    "icra-satis-ihalesi",
+    "rehinli-alacak"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=sat%C4%B1%C5%9F"
+    }
+  ],
+  "lead": "İcra yoluyla satılan maldan elde edilen bedel, dosyaya yatan paradır. Bu paranın kime ne kadar ödeneceği, alacaklıların sırasına ve satışın nasıl gerçekleştiğine göre belirlenir.",
+  "keyInsight": "Satış bedeli, hacizli alacakların toplamına ulaştığında satış işlemleri durdurulur.",
+  "sections": [
+    {
+      "heading": "Satış süreci nasıl işler?",
+      "paragraphs": [
+        "Eviniz veya arabanız icra yoluyla satıldığında, ortaya bir satış bedeli çıkar. Bu para doğrudan alacaklıya gitmez, önce icra dairesinin kasasına girer.",
+        "Borçlu olarak siz, kıymet takdiri size tebliğ edildikten sonra **yedi gün içinde** rızaen satış yetkisi isteyebilirsiniz. Bu durumda icra müdürü, cebrî satış işlemlerini durdurarak size on beş günlük bir süre tanır."
+      ],
+      "bullets": [
+        "Rızai satışta belirlenen bedel, muhammen kıymetin yüzde doksanından az olamaz.",
+        "Satış bedeli, alacaklıların alacaklarını tam karşıladığı anda satış durur."
+      ]
+    },
+    {
+      "heading": "Para nasıl paylaşılır?",
+      "paragraphs": [
+        "Dosyada biriken para, öncelikle satış için yapılan masrafları karşılar. Ardından, alacaklıların kanuni öncelik sırasına göre ödemeler yapılır.",
+        "Eğer ortada başkasına ait bir mal satılmışsa, mal sahibi satış bedelinin kendisine verilmesini talep edebilir. Bu durumda, malın satışına kadar yapılan masrafların masaya ödenmesi şarttır."
+      ],
+      "bullets": [
+        "Satış bedeli, hacizli alacakların toplamını karşılıyorsa işlem sonlanır.",
+        "Rızai satışta belirlenen bedel dosyaya yatırılmadan devir işlemleri başlamaz."
+      ]
+    },
+    {
+      "heading": "Satışın durması ne anlama gelir?",
+      "paragraphs": [
+        "İcra müdürü, satış bedelinin alacaklıların toplam alacağına ulaştığını gördüğü an satışı tatil eder. Yani satış süreci orada biter.",
+        "Bu durum, borcun tamamen kapandığı veya alacaklıların tatmin olduğu anlamına gelir. Artık malın satılmasına gerek kalmadığı için süreç durdurulur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hak kaybı yaşamamak için ne yapmalı?",
+      "paragraphs": [
+        "Süreci yakından takip etmek borçlunun en büyük güvencesidir. Tebligatların düzenli kontrol edilmesi, haklarınızın korunması için hayati önem taşır.",
+        "Özellikle rızai satış yetkisini kullanmak istiyorsanız, size tanınan **on beş günlük süreyi** kaçırmamanız gerekir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Kıymet takdiri raporunu dikkatle inceleyin.",
+    "Rızai satış yetkisi istiyorsanız yedi gün içinde başvurun.",
+    "Tanınan on beş günlük sürede bedeli dosyaya yatırın.",
+    "İcra mahkemesinin onay kararını bekleyin.",
+    "Satışın onaylanmasıyla hacizlerin kaldırılmasını takip edin."
+  ],
+  "documents": [
+    "Kıymet takdiri raporu",
+    "Rızai satış yetki belgesi",
+    "Satış bedelinin yatırıldığına dair dekont",
+    "İcra mahkemesi onay kararı"
+  ],
+  "faq": [
+    {
+      "q": "Satış bedeli alacaklılara nasıl dağıtılır?",
+      "a": "Önce takip masrafları çıkarılır, ardından alacaklıların sırasına göre ödeme yapılır."
+    },
+    {
+      "q": "Rızai satışta süre nedir?",
+      "a": "İcra müdürü, rızai satış için borçluya on beş günlük süre verir."
+    },
+    {
+      "q": "Satış bedeli alacakları karşılarsa ne olur?",
+      "a": "Satış işlemleri derhal durdurulur."
+    },
+    {
+      "q": "Başkasına ait malın satılması durumunda ne yapılır?",
+      "a": "Mal sahibi, masrafları ödeyerek satış bedelinin kendisine verilmesini isteyebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Satış parası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

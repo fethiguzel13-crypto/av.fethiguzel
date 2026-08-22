@@ -1,0 +1,100 @@
+{
+  "slug": "cimer-sikayet",
+  "title": "CİMER Şikayet / Başvuru Nasıl Yapılır?",
+  "description": "CİMER’e nasıl başvurulur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada…",
+  "h1": "CİMER’e nasıl başvurulur?",
+  "keywords": [
+    "CİMER şikayet",
+    "CİMER başvuru",
+    "CİMER ne işe yarar"
+  ],
+  "category": "İdare",
+  "related": [
+    "bilgi-edinme-basvurusu",
+    "memur-disiplin-cezasi",
+    "kamu-ihalesi-sikayet",
+    "cevre-izin-denetim",
+    "dilekce-hakki-3071",
+    "belediye-encumen-karari",
+    "zabita-cezasi",
+    "is-yeri-acma-ruhsati"
+  ],
+  "links": [
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    },
+    {
+      "label": "İçtihat",
+      "href": "/icthat"
+    }
+  ],
+  "lead": "Devlet kapısında bir derdiniz var, nereye başvuracağınızı bilemiyorsunuz. CİMER, taleplerinizi ve şikayetlerinizi doğrudan ilgili kuruma ulaştıran en hızlı resmi yoldur.",
+  "keyInsight": "Başvurunuzun işleme alınması için idarenin görev alanına giren somut bir meseleyi anlaşılır şekilde anlatmanız şarttır.",
+  "sections": [
+    {
+      "heading": "CİMER nedir ve ne işe yarar?",
+      "paragraphs": [
+        "Kurumların kapısında günlerce beklemekten yoruldunuz. İdareden bir talepte bulunmak veya karşılaştığınız aksaklığı bildirmek istiyorsunuz.",
+        "CİMER, vatandaşın devletle doğrudan iletişim kurmasını sağlayan dijital bir köprüdür. Dilekçeniz elden ele dolaşmaz, doğrudan ilgili birime elektronik ortamda düşer."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Başvuru yaparken nelere dikkat etmeli?",
+      "paragraphs": [
+        "Ekranın başına geçtiniz ve yazmaya başladınız. Öfkeli ve uzun cümleler meramınızı anlatmanızı zorlaştırır.",
+        "Ne istediğinizi net ve kısa cümlelerle ifade edin. **Somut olayları** tarih ve yer belirterek yazmak, inceleme süresini doğrudan kısaltır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hangi konular için kullanılabilir?",
+      "paragraphs": [
+        "Sokaktaki çukurdan belediye hizmetine, kamu kurumundaki gecikmeden bilgi edinme hakkına kadar pek çok konuda kapıyı bu yolla çalabilirsiniz.",
+        "Her kurumun yetkisi farklıdır. Yanlış bir kuruma başvuru yaparsanız, dosyanız ilgili yere **yönlendirilir** ancak bu durum süreci uzatır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Sonucu nasıl takip edersiniz?",
+      "paragraphs": [
+        "Başvurunuzu tamamladınız ve elinizde bir takip numarası kaldı. Artık endişelenmenize gerek yok, sistem size adım adım bilgi verir.",
+        "Kurumların yaptığı incelemeler ve verilen yanıtlar yine aynı sistem üzerinden **şeffaf şekilde** tarafınıza bildirilir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "E-Devlet şifrenizle veya kimlik bilgilerinizle CİMER sistemine giriş yapın.",
+    "Ana sayfadaki başvuru formunu açarak şikayet veya talebinizi anlaşılır bir dille yazın.",
+    "Elinde varsa süreci kanıtlayacak belgeleri sisteme ekleyin.",
+    "Formu onaylayıp gönderdikten sonra verilen başvuru takip numarasını saklayın."
+  ],
+  "documents": [
+    "Kimlik bilgileri",
+    "Konuyla ilgili dilekçe metni",
+    "Varsa olay yeri fotoğrafları",
+    "İlgili resmi evrak veya yazışmalar"
+  ],
+  "faq": [
+    {
+      "q": "CİMER başvurusu için ücret ödenir mi?",
+      "a": "Hayır, yapılan başvurular tamamen ücretsizdir."
+    },
+    {
+      "q": "Başvurumun reddedilme ihtimali var mı?",
+      "a": "İdarenin görev alanına girmeyen veya hukuki dayanaktan yoksun talepler ilgili kurumlarca gerekçeli olarak reddedilebilir."
+    },
+    {
+      "q": "Anonim (gizli) başvuru yapabilir miyim?",
+      "a": "Sistem üzerinden yapılan başvurularda kimlik bilgileri zorunludur ancak bu bilgiler yasal güvence altındadır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "cimer-sikayet",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "tanik-dinletme",
+  "title": "Tanık dinletme — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Tanık dinletme hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata da…",
+  "h1": "Tanık dinletme",
+  "keywords": [
+    "tanık dinletme",
+    "tanik dinletme"
+  ],
+  "category": "Usul",
+  "related": [
+    "zamanaşimi-nedir",
+    "hukuk-davasi-nasil-acilir",
+    "savcilik-suc-duyurusu",
+    "bosanma-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/zamanaşimi-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    }
+  ],
+  "lead": "Mahkemede iddiânızı ispat etmek için tanık gösterecekseniz, isim ve adresleri içeren listeyi kuralına uygun şekilde sunmalısınız. Davada taraf olmayan herkes tanık olarak gösterilebilir.",
+  "keyInsight": "Tanık listesinde adı geçmeyen veya adresi bildirilmeyen kimseler dinlenemez, ikinci bir liste verilemez.",
+  "sections": [
+    {
+      "heading": "Tanık listesi nasıl hazırlanır?",
+      "paragraphs": [
+        "Mahkemeye başvururken davanızı hangi olaya dayandırdığınızı ve bu olayı kimin bildiğini netleştirmeniz gerekir. Tanık göstermek istediğiniz kişinin adı, soyadı ve tebliğe elverişli adresi bu listede yer almalıdır.",
+        "Bu aşamada hazırladığınız **tanık listesi** mahkemeye sunulur. Listede adı yer almayan kişilerin sonradan dinlenmesi mümkün değildir."
+      ],
+      "bullets": [
+        "Tanık listesi hazırlayın.",
+        "Adresleri eksiksiz yazın."
+      ]
+    },
+    {
+      "heading": "Adres bulunamazsa ne olur?",
+      "paragraphs": [
+        "Tanık listesinde adres gösterilmemişse ya da bildirilen adreste tanık bulunamamışsa, hâkim tarafından adres bildirmeniz için **kesin süre** verilir.",
+        "Verilen bu sürede doğru adres sunulmazsa, o tanığın dinlenilmesinden vazgeçilmiş sayılır."
+      ],
+      "bullets": [
+        "Adresleri doğru bildirin.",
+        "Süreyi kaçırmayın."
+      ]
+    },
+    {
+      "heading": "Duruşmada soru nasıl sorulur?",
+      "paragraphs": [
+        "Duruşma günü geldiğinde tanıklar dinlenir. Taraflar vekilleri aracılığıyla doğrudan soru yöneltebilirken, taraflar sorularını **hâkim aracılığıyla** sorar.",
+        "Sorulan bir soruya itiraz edilirse, sorunun yöneltilip yöneltilmeyeceğine hâkim karar verir."
+      ],
+      "bullets": [
+        "Doğrudan veya hâkim aracılığıyla sorun.",
+        "İtirazları hâkim karara bağlar."
+      ]
+    },
+    {
+      "heading": "Beyanlar nasıl kaydedilir?",
+      "paragraphs": [
+        "Tanığın mahkemedeki anlatımları zabıt kâtibi tarafından tutanağa geçirilir. Beyanda bulunan kişiye okunmak kaydıyla tanık beyanı tutanakta yer alır.",
+        "Tutturulan tutanaklar duruşmanın seyrini belirler ve dosyanın resmi kaydı haline gelir."
+      ],
+      "bullets": [
+        "Tutanaklara geçmesini sağlayın.",
+        "Beyanları takip edin."
+      ]
+    }
+  ],
+  "steps": [
+    "Tanık listesini eksiksiz şekilde mahkemeye verin.",
+    "Tanıkların ad soyad ve tebliğe elverişli adreslerini yazın.",
+    "Verilen kesin süre içinde eksik adresleri tamamlayın.",
+    "Duruşmada hâkim aracılığıyla sorularınızı yöneltin.",
+    "Tanık beyanlarının tutanağa geçmesini takip edin."
+  ],
+  "documents": [
+    "tanık listesi",
+    "adres bilgileri",
+    "dava dosyası"
+  ],
+  "faq": [
+    {
+      "q": "İkinci bir tanık listesi verebilir miyim?",
+      "a": "Hayır, kanuna göre ikinci bir liste verilemez."
+    },
+    {
+      "q": "Adreste tanık bulunamazsa ne olur?",
+      "a": "Hâkim tarafından adres göstermeniz için kesin süre tanınır; bu sürede adres verilmezse tanığın dinlenilmesinden vazgeçilmiş sayılır."
+    },
+    {
+      "q": "Soruları doğrudan tanığa sorabilir miyim?",
+      "a": "Taraflar sorularını hâkim aracılığıyla yöneltir, vekiller ise doğrudan sorabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "zamanaşimi-nedir",
+  "angle": "Tanık dinletme",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

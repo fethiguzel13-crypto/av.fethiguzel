@@ -1,0 +1,114 @@
+{
+  "slug": "temyiz-siniri",
+  "title": "Hangi kararlar temyiz edilebilir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Hangi kararlar temyiz edilebilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
+  "h1": "Hangi kararlar temyiz edilebilir?",
+  "keywords": [
+    "temyiz sınırı",
+    "temyiz parasal sınır"
+  ],
+  "category": "Usul",
+  "related": [
+    "istinaf-nedir",
+    "temyiz-nedir",
+    "kesinlesme-senedi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/istinaf-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "İçtihat",
+      "href": "/icthat"
+    }
+  ],
+  "lead": "Bölge adliye mahkemesi kararını elinize aldınız ve Yargıtay yolunun açık olup olmadığını merak ediyorsunuz. Asıl mesele, **kararın türü** ve uyuşmazlığın kanundaki parasal sınırları aşıp aşmadığıdır.",
+  "keyInsight": "Parasal sınır hesaplanırken, kısmi davalarda alacağın bir kısmı değil, **alacağın tamamı** esas alınır.",
+  "sections": [
+    {
+      "heading": "Hangi kararlar kesin niteliktedir?",
+      "paragraphs": [
+        "Mahkeme salonundan çıktınız ve önünüzdeki dosyanın Yargıtay'a gidip gidemeyeceğini anlamaya çalışıyorsunuz. Kanun, bazı kararların bölge adliye mahkemesinde kesinleştiğini ve bu kararlar için temyiz yoluna **başvuramayacağınızı** açıkça belirtir.",
+        "Miktar veya değeri belirli bir tutarı geçmeyen davalara ilişkin kararlar, geçici hukuki korumalar, çekişmesiz yargı işleri ve ilk derece mahkemelerinin görev ve yetkisi hakkında verilen kararlar temyiz edilemez. Bu tür dosyalarda süreç bölge adliye mahkemesinin kararıyla biter."
+      ],
+      "bullets": [
+        "Miktar veya değeri kanundaki sınırda veya altında kalan davalar",
+        "Geçici hukuki koruma tedbirleri",
+        "Çekişmesiz yargı işleri"
+      ]
+    },
+    {
+      "heading": "Kısmi davalarda sınır nasıl hesaplanır?",
+      "paragraphs": [
+        "Davanızı açarken alacağınızın sadece bir kısmını talep etmiş olabilirsiniz. Bu durum, temyiz sınırının hesaplanmasında sık yapılan hatalardan biridir.",
+        "Kanun, alacağın bir kısmının dava edilmiş olması durumunda kesinlik sınırının **alacağın tamamına** göre belirleneceğini söyler. Alacağın tamamı dava edilmişse ve kabul edilmeyen bölüm kanundaki sınırı geçmiyorsa temyiz hakkınız yoktur."
+      ],
+      "bullets": [
+        "Hesaplama alacağın tamamı üzerinden yapılır",
+        "Kabul edilmeyen kısım sınırdan düşükse temyiz edilemez"
+      ]
+    },
+    {
+      "heading": "Duruşma yapılmasını istemek neye bağlıdır?",
+      "paragraphs": [
+        "Yargıtay incelemesinin genellikle dosya üzerinden yapıldığını bilmelisiniz. Ancak belirli dava türlerinde ve **belirli bir tutarı aşan** alacak ve ayn davası dosyalarında duruşma talep etme hakkınız doğar.",
+        "Temyiz dilekçenizde veya cevap dilekçenizde açıkça duruşma yapılmasını istemelisiniz. Ayrıca duruşma için gerekli giderlerin zamanında yatırılması şarttır; aksi takdirde dosya üzerinden inceleme yapılır."
+      ],
+      "bullets": [
+        "Yargıtay incelemesi kural olarak dosya üzerinden yapılır",
+        "Duruşma talebi için dilekçede açıkça belirtilmesi gerekir"
+      ]
+    },
+    {
+      "heading": "Karşı taraf temyiz ederse ne olur?",
+      "paragraphs": [
+        "Sizin temyiz hakkınızın olmadığını düşündüğünüz bir dosyada, karşı taraf temyiz yoluna başvurabilir. Bu durumda hukuki durumunuz tamamen kapanmış sayılmaz.",
+        "Kanun, karşı tarafın temyiz yoluna başvurması hâlinde, diğer tarafın da düzenleyeceği **cevap dilekçesiyle** kararı temyiz edebileceğini kurala bağlamıştır."
+      ],
+      "bullets": [
+        "Karşı tarafın temyiz hakkını kullanması yeni bir kapı açar",
+        "Cevap dilekçesiyle birlikte karar temyiz edilebilir"
+      ]
+    }
+  ],
+  "steps": [
+    "Bölge adliye mahkemesi kararının tebliğ edilmesini bekleyin.",
+    "Uyuşmazlık konusu miktar veya değerin kanuni sınırları aşıp aşmadığını kontrol edin.",
+    "Davanın kısmi dava olup olmadığını ve alacağın tamamını inceleyin.",
+    "Yargıtay incelemesinde duruşma talep edecekseniz dilekçenizde bunu yazın.",
+    "Gerekli giderleri eksiksiz ve süresinde ödeyin."
+  ],
+  "documents": [
+    "Bölge adliye mahkemesi kararı",
+    "Temyiz dilekçesi",
+    "Cevap dilekçesi",
+    "Tebligat mazbatası",
+    "Gider makbuzları"
+  ],
+  "faq": [
+    {
+      "q": "Her karar Yargıtay'a taşınabilir mi?",
+      "a": "Hayır, kanun tarafından kesin olarak verilen ve belirli parasal sınırların altında kalan bölge adliye mahkemesi kararları temyiz edilemez."
+    },
+    {
+      "q": "Alacağın tamamı ile kısmı arasındaki fark nedir?",
+      "a": "Kısmi davalarda temyiz sınırı, dava açılan kısma değil, alacağın dava dilekçesindeki tamamına göre hesaplanır."
+    },
+    {
+      "q": "Yargıtay'daki inceleme her zaman duruşmalı mı yapılır?",
+      "a": "Hayır, inceleme kural olarak dosya üzerinden yapılır. Yalnızca belirli şartları taşıyan dosyalarda taraflardan biri talep ederse duruşma açılabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "istinaf-nedir",
+  "angle": "Parasal sınır",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

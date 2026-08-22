@@ -1,0 +1,114 @@
+{
+  "slug": "iik-nedir",
+  "title": "İİK nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İİK nedir hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "İİK nedir",
+  "keywords": [
+    "iik nedir",
+    "iik nedir"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "kanun-maddesi-nasil-okunur",
+    "icra-takibi-nedir",
+    "haciz-islemleri-nasil-yapilir",
+    "mevzuat-nasil-aranir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kanun-maddesi-nasil-okunur"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=%C4%B0%C4%B0K"
+    }
+  ],
+  "lead": "İİK, yani İcra ve İflas Kanunu, alacaklının hakkına kavuşmasını, borçlunun ise hukuki sınırlar içinde korunmasını sağlayan kurallar bütünüdür. Eve haciz gelmesi veya banka hesabına bloke konulması gibi telaşlı anların arkasındaki yasal mekanizmadır.",
+  "keyInsight": "İcra sürecinde en büyük hata, gelen kağıtları görmezden gelmek veya süresi içinde itiraz etmemektir.",
+  "sections": [
+    {
+      "heading": "Kapınıza gelen kağıt ne anlama geliyor?",
+      "paragraphs": [
+        "Posta kutusunda ya da kapıda resmi bir zarf bulduğunuzda dünyanız kararın. İçinden çıkan ödeme emri, birinin sizden para talep ettiği ve bunu resmiyete döktüğü anlamına gelir. Bu kağıt, borcu doğrudan kabul ettiğiniz veya hemen ödemeniz gerektiği anlamına gelmez.",
+        "Asıl mesele, **belgeyi aldığınız gün** başlar. Süreci okumak ve ne yapılacağına karar vermek için elinizdeki zamanı dikkatli kullanmalısınız. Telaşla borcu ödemek ya da tepkisiz kalmak borcu katlayabilir."
+      ],
+      "bullets": [
+        "Ödeme emrini dikkatlice okuyun",
+        "Tarihi ve alacaklıyı kontrol edin",
+        "İtiraz hakkınızı göz önünde bulundurun"
+      ]
+    },
+    {
+      "heading": "Alacağınızı nasıl tahsil edersiniz?",
+      "paragraphs": [
+        "Elinizde senediniz, faturanız veya kesinleşmiş bir mahkeme kararı var ama karşı taraf ödemiyor. İşte İİK burada devreye girer. Borçlunun mal varlığını resmi olarak tespit ettirmek için icra dairesinin kapısını çalarsınız.",
+        "Bu süreçte sabırlı olmak ve **doğru adımları izlemek** şarttır. Borçlunun maaşına, aracına veya gayrimenkulüne haciz konulması için icra memurları aracılığıyla yasal işlem başlatılır."
+      ],
+      "bullets": [
+        "Alacağınızı kanıtlayan belgeyi hazırlayın",
+        "İcra dairesine başvuru yapın",
+        "Borçlunun mal varlığını araştırın"
+      ]
+    },
+    {
+      "heading": "Haciz işlemi nasıl yapılır?",
+      "paragraphs": [
+        "Borç ödenmediğinde alacaklı devlet gücüyle haciz talep edebilir. Eve veya iş yerine gelen icra memurları, borcu karşılayacak kadar eşyaya tespit yaparak el koyabilir. Ancak kanunun koruduğu bazı temel eşyalara dokunulamaz.",
+        "Haciz sırasında tarafların sakin kalması ve **haklarını bilmesi** gerginliği önler. Amaç evi sokağa dökmek değil, alacağı tahsil etmektir."
+      ],
+      "bullets": [
+        "Kişisel eşyalar haczedilemez",
+        "Tespit edilen mallar yediemine bırakılabilir"
+      ]
+    },
+    {
+      "heading": "İtiraz yolu ne zaman kapanır?",
+      "paragraphs": [
+        "Borçluya ödeme emri ulaştığında, borca itiraz etmek için belirli bir süre tanınır. Bu süre zarfında borca veya imzaya itiraz edilmezse, borç kesinleşir ve haciz aşamasına geçilir.",
+        "İtiraz dilekçesinin **gerekçeli ve net** olması gerekir. Asılsız itirazlar borçluya ek masraf ve cezai sorumluluk getirebilir."
+      ],
+      "bullets": [
+        "İmzaya itiraz ayrı bir konudur",
+        "Borca itiraz icra takibini durdurur"
+      ]
+    }
+  ],
+  "steps": [
+    "Elinizdeki resmi evrakı dikkatlice inceleyin ve tebliğ tarihini not edin.",
+    "Borç size ait değilse veya miktar yanlışsa süresi içinde itiraz edin.",
+    "Alacaklıysanız, alacağınızı kanıtlayan belgelerle birlikte icra dairesine başvurun.",
+    "Borçlu tarafı dinleyerek uzlaşma yollarını veya mal beyanını değerlendirin."
+  ],
+  "documents": [
+    "Ödeme emri veya icra zarfı",
+    "Sözleşme, senet veya fatura",
+    "Kimlik belgesi",
+    "Mahkeme kararı (varsa)"
+  ],
+  "faq": [
+    {
+      "q": "İcra dairesinden gelen kağıdı imzalarsam borcu kabul etmiş mi olurum?",
+      "a": "Gelen kağıt tebligattır; imzanız sadece evrakı teslim aldığınızı gösterir, borcu kabul ettiğiniz anlamına gelmez."
+    },
+    {
+      "q": "Evdeki her eşya haczedilebilir mi?",
+      "a": "Hayır. Ailenin yaşaması için gerekli olan temel eşyalar, buzdolabı, yatak gibi kıymetli olmayan eşyalar haczedilemez."
+    },
+    {
+      "q": "Borca nereden ve nasıl itiraz edilir?",
+      "a": "İcra takibini başlatan icra dairesine, süresi içinde dilekçe vererek borca veya imzaya itiraz edebilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kanun-maddesi-nasil-okunur",
+  "angle": "İİK nedir",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

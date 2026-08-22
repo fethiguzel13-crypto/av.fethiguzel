@@ -1,0 +1,128 @@
+{
+  "slug": "ihbar-tazminati-ve-bildirim-sureleri",
+  "title": "İhbar Tazminatı: Bildirim Süreleri ve Hesabı",
+  "description": "İhbar süresi kıdeme göre kaç haftadır, ihbar tazminatı kim öder, giydirilmiş ücret hesaba girer mi, kötüniyet tazminatı nedir? 4857 sayılı Kanun m.17 çerçevesinde.",
+  "h1": "İhbar tazminatı nasıl hesaplanır?",
+  "keywords": [
+    "ihbar tazminatı",
+    "ihbar süresi",
+    "bildirim süresi",
+    "ihbar öneli",
+    "kötüniyet tazminatı",
+    "ihbar tazminatı hesaplama"
+  ],
+  "category": "İş",
+  "related": [
+    "kidem-tazminati-nasil-alinir",
+    "ise-iade-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "İş K. m.17 — Süreli fesih",
+      "href": "/mevzuat/is-kanunu/madde-17"
+    },
+    {
+      "label": "İş K. m.32 — Ücret",
+      "href": "/mevzuat/is-kanunu/madde-32"
+    },
+    {
+      "label": "Kıdem ve ihbar hesaplama aracı",
+      "href": "/hesaplama/kidem"
+    }
+  ],
+  "lead": "İhbar tazminatı, iş sözleşmesini fesheden tarafın bildirim sürelerine uymaması sonucu ödemek zorunda olduğu bir tazminattır. Bu yükümlülük, sözleşmeyi sonlandıran tarafın kim olduğuna bağlı olarak hem işçi hem de işveren için geçerli olabilir.",
+  "keyInsight": "İhbar tazminatı, sadece çıplak maaş üzerinden değil, yol ve yemek gibi yan hakların da dahil edildiği **giydirilmiş brüt ücret** üzerinden hesaplanmalıdır.",
+  "sections": [
+    {
+      "heading": "Bildirim süreleri neye göre belirlenir?",
+      "paragraphs": [
+        "İş sözleşmenizi sonlandırmadan önce, kıdeminize göre değişen süreleri beklemeniz gerekir. Bu süreler yasal bir zorunluluktur ve sözleşmelerle artırılabilir ancak kısaltılamaz.",
+        "İş yerindeki süreniz arttıkça, tarafların birbirine tanıması gereken bildirim süresi de kademeli olarak uzar."
+      ],
+      "bullets": [
+        "6 aydan az kıdem: 2 hafta",
+        "6 ay ile 1,5 yıl arası: 4 hafta",
+        "1,5 yıl ile 3 yıl arası: 6 hafta",
+        "3 yıldan fazla kıdem: 8 hafta"
+      ]
+    },
+    {
+      "heading": "Süreye uyulmazsa ne olur?",
+      "paragraphs": [
+        "İşveren sizi bildirim süresi tanımadan işten çıkarırsa veya siz istifa ederken bu süreyi beklemeden ayrılırsanız, karşı tarafa **ihbar tazminatı** ödemeniz gerekir.",
+        "İşveren, bildirim süresini çalıştırmak yerine bu sürenin ücretini peşin ödeyerek sözleşmeyi derhal feshetme hakkına sahiptir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hesaplama nasıl yapılır?",
+      "paragraphs": [
+        "Hesaplama yapılırken bordrodaki brüt ücretin yanı sıra, işçiye düzenli olarak sağlanan yol yardımı, yemek yardımı ve ikramiye gibi tüm yan haklar toplanır.",
+        "Bu kalemlerin aylık karşılığı brüt ücrete eklenerek **giydirilmiş ücret** bulunur ve bildirim süresinin haftalık karşılığı bu tutar üzerinden hesaplanır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kötüniyet tazminatı nedir?",
+      "paragraphs": [
+        "Eğer iş güvencesi kapsamında değilseniz ve işveren sözleşmenizi kötü niyetle feshettiğini ispatlarsanız, bildirim süresinin üç katı tutarında ayrıca tazminat talep edebilirsiniz.",
+        "Bu tazminat, ihbar tazminatından tamamen farklıdır ve onun yerine geçmez."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İş güvencesi ile ilişkisi nedir?",
+      "paragraphs": [
+        "İhbar tazminatının ödenmiş olması, işverenin fesihte geçerli bir sebep gösterme zorunluluğunu ortadan kaldırmaz.",
+        "İşçi, ihbar tazminatını almış olsa dahi şartları oluşmuşsa işe iade davası açabilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İspat için ne yapmalı?",
+      "paragraphs": [
+        "Fesih bildiriminin yazılı olması, sürenin ve ödemenin ispatı açısından kritik öneme sahiptir.",
+        "Zamanaşımı süresi fesih tarihinden itibaren **beş yıldır**."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İşe giriş ve çıkış tarihlerinizden toplam kıdem sürenizi hesaplayın.",
+    "Kıdeminize uygun bildirim süresini (2, 4, 6 veya 8 hafta) belirleyin.",
+    "Feshi kimin yaptığını ve süreye uyulup uyulmadığını tespit edin.",
+    "Giydirilmiş brüt ücretinizi (maaş + yan haklar) belirleyin.",
+    "Bildirim süresine karşılık gelen toplam tazminat miktarını hesaplayın.",
+    "Eksik ödeme varsa fesih tarihinden itibaren beş yıl içinde haklarınızı talep edin."
+  ],
+  "documents": [
+    "İş sözleşmesi",
+    "İşten ayrılış bildirgesi",
+    "Maaş bordroları",
+    "Yol ve yemek yardımını gösteren belgeler",
+    "Fesih bildirim yazısı"
+  ],
+  "faq": [
+    {
+      "q": "İstifa edersem ihbar tazminatı öder miyim?",
+      "a": "Bildirim süresine uymadan ayrılırsanız evet, ödemeniz gerekir. Ancak haklı bir nedenle (yasal şartları taşıyan) derhal fesih yapıyorsanız bu yükümlülük doğmaz."
+    },
+    {
+      "q": "İşveren süreyi çalıştırmadan para ödeyebilir mi?",
+      "a": "Evet, işveren bildirim süresine ait ücreti peşin ödeyerek iş sözleşmesini derhal sonlandırabilir."
+    },
+    {
+      "q": "Hesaba yol ve yemek parası girer mi?",
+      "a": "Evet, tazminat hesabında çıplak ücrete ek olarak para ile ölçülebilen tüm yan haklar göz önünde bulundurulur."
+    },
+    {
+      "q": "İhbar tazminatı aldım, işe iade davası açabilir miyim?",
+      "a": "Evet, ihbar tazminatının ödenmesi işe iade davası açmanıza engel değildir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.94,
+  "voice": "narrative",
+  "source": "gemini"
+}

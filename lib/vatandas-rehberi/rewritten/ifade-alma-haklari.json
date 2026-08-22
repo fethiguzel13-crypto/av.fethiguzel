@@ -1,0 +1,113 @@
+{
+  "slug": "ifade-alma-haklari",
+  "title": "İfadede nelere dikkat edilir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İfadede nelere dikkat edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
+  "h1": "İfadede nelere dikkat edilir?",
+  "keywords": [
+    "ifade alma hakları",
+    "ifadede susma hakkı"
+  ],
+  "category": "Ceza",
+  "related": [
+    "savcilik-suc-duyurusu",
+    "gozalti-haklari",
+    "mudafi-hakki",
+    "ceza-sorusturmasi-sureci"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/savcilik-suc-duyurusu"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    },
+    {
+      "label": "PVSK",
+      "href": "/kategori/pvsk"
+    }
+  ],
+  "lead": "Karakola veya adliyeye ifade vermeye çağrıldınız. Asıl önemli olan, suçlamanın ne olduğu kadar **susma hakkınızı** nasıl kullanacağınızdır.",
+  "keyInsight": "İfade verirken **avukatınız hazır bulunmadan** soru sormaya başlamamak en kritik güvencedir.",
+  "sections": [
+    {
+      "heading": "İfade odasına girerken neyle karşılaşırsınız?",
+      "paragraphs": [
+        "Kapıdan içeri girdiğinizde size yöneltilen suçlama okunur ve haklarınız hatırlatılır. Bu aşamada panik yapmak yerine durumu sakinçe dinlemelisiniz.",
+        "Suçlamanın mahiyetini tam olarak anlamadan söze girmek **hatalı beyanlara** yol açabilir. Haklarınız arasında avukat talep etme yetkiniz de bulunur."
+      ],
+      "bullets": [
+        "Suçlamayı dikkatle dinleyin",
+        "Haklarınızın okunmasını bekleyin"
+      ]
+    },
+    {
+      "heading": "Susma hakkı nasıl kullanılır?",
+      "paragraphs": [
+        "Konuşmak zorunda değilsiniz; **susma hakkınızı** dilediğiniz an kullanabilirsiniz. Bu hak size karşı bir suçlama delili olarak kullanılamaz.",
+        "Aklınıza takılan veya net bilmediğiniz konularda tahminde bulunarak ifade vermek ileride hukuki sorunlar yaratabilir."
+      ],
+      "bullets": [
+        "Sorulara cevap vermeme hakkınız var",
+        "Tahmini beyanlardan kaçının"
+      ]
+    },
+    {
+      "heading": "Avukat desteği ne zaman devreye girer?",
+      "paragraphs": [
+        "İfade işlemine başlamadan önce **bir avukat görevlendirilmesini** talep etme hakkınız vardır. Avukatınız gelmeden ifade tutanağı imzalatılmamalıdır.",
+        "Hukuki yardım almak savunmanızı doğru kurmanızı sağlar ve hak kayıplarını önler."
+      ],
+      "bullets": [
+        "Avukatınızla görüşün",
+        "Tutanak imzalamadan önce okuyun"
+      ]
+    },
+    {
+      "heading": "İmza aşamasında nelere bakılmalı?",
+      "paragraphs": [
+        "İfade bittikten sonra tutanak çıktısı önünüze konur. Söylediklerinizin **tutanakla birebir uyuşup uyuşmadığını** kelimesi kelimesine kontrol etmelisiniz.",
+        "Eksik veya yanlış yazılmış kısımlar varsa bunların düzeltilmesini talep edin; anlamadığınız ibarelere imza atmayın."
+      ],
+      "bullets": [
+        "Tutanaktaki her cümleyi okuyun",
+        "Yanlış kısımların düzeltilmesini isteyin"
+      ]
+    }
+  ],
+  "steps": [
+    "İfade çağrısını ve suçlamanın konusunu öğrenin.",
+    "İfade işleminden önce avukat yardımından yararlanmayı talep edin.",
+    "Soruları dikkatle dinleyin ve gerekirse susma hakkınızı kullanın.",
+    "Yazılan tutanağı baştan sona okuyun.",
+    "Eksik veya hatalı yerlerin düzeltilmesini isteyip tutanağı imzalayın."
+  ],
+  "documents": [
+    "İfade çağrı kağıdı",
+    "Kimlik belgesi",
+    "Avukat görevlendirme yazısı",
+    "İfade tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "Susma hakkımı kullanırsam bu durum aleyhime delil olur mu?",
+      "a": "Hayır, kanunen susma hakkınızı kullanmanız aleyhinize bir delil olarak değerlendirilemez."
+    },
+    {
+      "q": "İfadem bittikten sonra hemen serbest kalır mıyım?",
+      "a": "Savcının veya kolluğun talimatına bağlı olarak serbest kalabilir ya da ek işlemler için tutulabilirsiniz."
+    },
+    {
+      "q": "Avukatım olmadan ifade vermeyi reddedebilir miyim?",
+      "a": "Evet, avukatınız gelene kadar ifade vermeme hakkına sahipsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "savcilik-suc-duyurusu",
+  "angle": "İfade",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

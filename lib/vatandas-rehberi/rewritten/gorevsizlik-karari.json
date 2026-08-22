@@ -1,0 +1,110 @@
+{
+  "slug": "gorevsizlik-karari",
+  "title": "Görevsizlik kararı sonrası ne yapılır — Vatandaş Rehberi | Av. Fethi G",
+  "description": "Görevsizlik kararı sonrası ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
+  "h1": "Görevsizlik kararı sonrası ne yapılır?",
+  "keywords": [
+    "görevsizlik kararı"
+  ],
+  "category": "Usul",
+  "related": [
+    "hukuk-davasi-nasil-acilir",
+    "gorevli-mahkeme-nedir",
+    "yetkili-mahkeme-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/hukuk-davasi-nasil-acilir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=g%C3%B6rev"
+    }
+  ],
+  "lead": "Mahkeme kapısında yanlış adreste olduğunuzu öğrendiniz. Görevsizlik kararı verildiğinde telaş etmeyin, süreyi kaçırmadan doğru adrese başvurmanız gerekir.",
+  "keyInsight": "Kararın kesinleştiği tarihten itibaren **iki hafta içinde** başvurmazsanız davanız açılmamış sayılır.",
+  "sections": [
+    {
+      "heading": "Yanlış mahkemeden dönmek",
+      "paragraphs": [
+        "Elinde dosyayla adliyede koşturan herkesin korkulu rüyasıdır yanlış mahkeme kapısını çalmak. Hâkim dosyayı inceler ve bu davaya benim mahkemem bakamaz derse görevsizlik kararı verir. Bu karar, davanızın bittiği anlamına gelmez; sadece doğru kapıya yönlendirildiğinizi gösterir.",
+        "Ancak bu aşamada zamanla yarış başlar. Kararın veriliş şekli ve kesinleşme durumu, yapacağınız ilk hamlenin takvimini belirler. Hukuk bu süreçte size net bir yol çizer."
+      ],
+      "bullets": [
+        "Dosya kapanmaz, sadece yer değiştirir.",
+        "Yanlış mahkeme duruşma yapmaz."
+      ]
+    },
+    {
+      "heading": "Süreç nasıl işlemeye başlar?",
+      "paragraphs": [
+        "Görevsizlik kararı verildiği anda taraflar için bir hareket planı oluşur. Eğer karar verildiği anda kesinse, tebliğ tarihinden itibaren süre başlar. Karar kanun yoluna başvurulmadan kesinleşmişse, kesinleşme tarihi esas alınır.",
+        "Kanun yoluna başvurulmuş ve bu başvuru reddedilmişse, ret kararının tebliğinden itibaren **iki hafta** içinde harekete geçmek mecburidir. Bu süre geçirilirse dava hiç açılmamış kabul edilir."
+      ],
+      "bullets": [
+        "Kesinleşme türü süreyi etkiler.",
+        "Tebligat tarihini iyi takip edin."
+      ]
+    },
+    {
+      "heading": "Dosyayı görevli mahkemeye taşımak",
+      "paragraphs": [
+        "Süreyi kaçırmamak için kararı veren mahkemeye dilekçeyle başvurulur. Bu başvuruda, dava dosyasının görevli ya da yetkili mahkemeye gönderilmesi talep edilir. Aksi takdirde mahkeme kendiliğinden davanın açılmamış sayılmasına karar verir.",
+        "Dosya kendisine ulaşan yeni mahkeme, süreci kendiliğinden yürütür ve taraflara davetiye gönderir. Sizin bu aşamada yeni mahkemeden ayrıca bir gün almanıza gerek kalmaz."
+      ],
+      "bullets": [
+        "Dilekçe ilk mahkemeye verilir.",
+        "Yeni mahkeme davetiye gönderir."
+      ]
+    },
+    {
+      "heading": "Yargılama giderlerinin durumu",
+      "paragraphs": [
+        "Mahkemelerin değişmesi masrafları unutturmaz. Görevsizlik kararından sonra davaya başka mahkemede devam edilirse, tüm yargılama giderlerine o yeni mahkeme hükmeder.",
+        "Eğer görevsizlik kararından sonra dosyaya sahip çıkılmaz ve başka mahkemede devam edilmezse, ilk mahkeme talep üzerine davanın açılmamış sayıldığını tespit eder. Bu durumda masraflar tamamen davacıya yükletilir."
+      ],
+      "bullets": [
+        "Masraflar yeni mahkemede karara bağlanır.",
+        "Takipsiz kalan dosya masraf getirir."
+      ]
+    }
+  ],
+  "steps": [
+    "Görevsizlik kararının tebliğ veya kesinleşme tarihini not edin.",
+    "İki haftalık yasal süreyi asla geçirmeyin.",
+    "Kararı veren mahkemeye dilekçe vererek dosyanın gönderilmesini isteyin.",
+    "Yeni mahkemenin göndereceği davetiye ve tebligatları takip edin."
+  ],
+  "documents": [
+    "Görevsizlik kararı",
+    "Tebligat mazbatası",
+    "Dosya gönderme talep dilekçesi",
+    "Dava dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Görevsizlik kararı verilince baştan mı dava açacağım?",
+      "a": "Hayır, sıfırdan dava açmazsınız. Mevcut dosyanın görevli mahkemeye gönderilmesi için iki hafta içinde talepte bulunmanız yeterlidir."
+    },
+    {
+      "q": "İki haftalık süreyi kaçırırsam ne olur?",
+      "a": "Süre içinde başvurulmazsa dava açılmamış sayılır ve mahkeme bu konuda kendiliğinden karar verir."
+    },
+    {
+      "q": "Yeni mahkeme masrafları ne olacak?",
+      "a": "Davaya başka mahkemede devam edilirse, yargılama giderlerine o yeni mahkeme hükmeder."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "hukuk-davasi-nasil-acilir",
+  "angle": "Görevsizlik",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

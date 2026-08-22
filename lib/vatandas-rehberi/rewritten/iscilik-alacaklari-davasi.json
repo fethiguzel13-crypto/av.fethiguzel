@@ -1,0 +1,112 @@
+{
+  "slug": "iscilik-alacaklari-davasi",
+  "title": "İşçilik Alacakları Davası Nasıl Açılır?",
+  "description": "İşçilik alacakları davası nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
+  "h1": "İşçilik alacakları davası nedir?",
+  "keywords": [
+    "işçilik alacakları davası",
+    "işçi alacak davası"
+  ],
+  "category": "İş",
+  "related": [
+    "kidem-tazminati-nasil-alinir",
+    "fazla-mesai-ucreti",
+    "is-arabuluculuk-zorunlu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kidem-tazminati-nasil-alinir"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Arabuluculuk",
+      "href": "/rehber/arabuluculuk"
+    }
+  ],
+  "lead": "İşten ayrıldınız ve alamadığınız ücretler, primler veya tazminatlar için kapıyı çaldınız ancak sonuç alamadınız. İşçilik alacakları davası, **hak ettiğiniz parayı** yasal yollarla işverenden istemenin yoludur.",
+  "keyInsight": "Dava açmadan önce **zorunlu arabuluculuk** sürecini tamamlamak şarttır; bu kural atlanırsa dosya doğrudan reddedilir.",
+  "sections": [
+    {
+      "heading": "Alacaklar nasıl biriktirilir?",
+      "paragraphs": [
+        "Sabah tezgahın başına geçtiniz veya masanızda çalışmaya başladınız. Emek karşılığında ödenmeyen her kuruş para, prim, ikramiye ve bu nitelikteki istihkak **özel olarak açılan banka hesabına** yatırılmak zorundadır.",
+        "İş sözleşmesi bittiğinde ödenmeyen bu kalemler, aradan geçen zamanda birer borç yüküne dönüşür. İşveren parayı elden veya senetle ödeyemez, kural bellidir."
+      ],
+      "bullets": [
+        "Ücret en geç ayda bir ödenir",
+        "Banka dışı ödeme yasaktır"
+      ]
+    },
+    {
+      "heading": "Önce masaya oturmak gerekir",
+      "paragraphs": [
+        "Doğrudan adliye koridorlarına koştunuz ama hâkim karşısına çıkmadan önce **arabuluculuk bürosuna** başvurmanız gerekir. Taraflar burada anlaşamazsa bir tutanak düzenlenir.",
+        "Bu tutanak olmadan mahkemenin kapısı size açılmaz. Sürecin resmiyete dökülmesi için bu ilk adım atlanamaz."
+      ],
+      "bullets": [
+        "Anlaşmazlık tutanağı şarttır",
+        "Dava şartıdır"
+      ]
+    },
+    {
+      "heading": "Mahkeme kapısında bekleyenler",
+      "paragraphs": [
+        "Arabuluculukta sonuç çıkmadıysa elinizdeki evraklarla **iş mahkemesine** başvurarak dava açabilirsiniz. Hâkim, işçinin çalıştırıldığı süreyi, ödenmeyen brüt ya da net alacakları incelemeye alır.",
+        "Kamu kurumlarında alt işveren değişimlerinde bile toplam çalışma süreleri hesaba katılarak ödeme planları çıkarılır."
+      ],
+      "bullets": [
+        "İş mahkemesi görevlidir",
+        "Toplam süreler esas alınır"
+      ]
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "Hak arama yolunda elinizdeki yazılı belgeler en büyük yardımcınızdır. Banka dekontları, iş sözleşmesi ve yazılı talepler dosyayı güçlendirir.",
+        "İşverenin ödeme yapmadığını kanıtlayan her türlü resmi veri hâkimin karar vermesini kolaylaştırır."
+      ],
+      "bullets": [
+        "Banka hesap dökümleri",
+        "İş sözleşmesi metni"
+      ]
+    }
+  ],
+  "steps": [
+    "Alacak kalemlerinizi ve ödenmeyen ayları hesaplayın.",
+    "Yetkili arabuluculuk bürosuna başvuru formunu doldurun.",
+    "Arabuluculuk görüşmelerine katılarak anlaşma arayın.",
+    "Anlaşma sağlanamazsa son tutanağı alın.",
+    "İş mahkemesinde dava dilekçenizi sunun."
+  ],
+  "documents": [
+    "İş sözleşmesi",
+    "Banka hesap hareketleri",
+    "Arabuluculuk son toplantı tutanağı",
+    "Çalışma belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Ücretim elden ödenebilir mi?",
+      "a": "Hayır, ücretlerin banka hesabına yatırılması kanuni zorunluluktur."
+    },
+    {
+      "q": "Doğrudan mahkemeye gidebilir miyim?",
+      "a": "Hayır, önce arabuluculuğa başvurmak dava şartıdır."
+    },
+    {
+      "q": "Kamu işçisiyim, kıdemim yanar mı?",
+      "a": "Aynı kamu kurumundaki çalışmalarınız toplam süre üzerinden hesaplanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kidem-tazminati-nasil-alinir",
+  "angle": "Dava yolu ve arabuluculuk odaklı işçilik alacağı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

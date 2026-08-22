@@ -1,0 +1,110 @@
+{
+  "slug": "destek-payi-hesabi",
+  "title": "Destek payı hesabı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Destek payı hesabı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
+  "h1": "Destek payı hesabı",
+  "keywords": [
+    "destek payı hesabı",
+    "destek payi hesabi"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "temerrut-faizi-nedir",
+    "destekten-yoksun-kalma",
+    "trafik-kazasi-tazminati",
+    "bilirkisi-raporu-itiraz"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/temerrut-faizi-nedir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "Hesaplama",
+      "href": "/hesaplama"
+    }
+  ],
+  "lead": "Destek payı veya alacak hesabı, karmaşık görünen ticari ilişkilerde paranın ve yükümlülüklerin doğru tanımlanması sürecidir. Hukuk, elinizdeki rakamların sadece birer not değil, kesinleşmiş bir borç olup olmadığını sorgular.",
+  "keyInsight": "Hesabın kesilmesi ve sonucun taraflarca kabul edilmesi, eski borçların yerini yeni bir mutabakata bırakması için şarttır.",
+  "sections": [
+    {
+      "heading": "Cari hesaptaki rakamlar neyi ifade eder?",
+      "paragraphs": [
+        "Bir deftere veya sisteme alt alta yazdığınız kalemler, henüz nihai bir borç tablosu oluşturmaz. Sadece kayıt altına alınmış birer veri yığınıdırlar.",
+        "Bu kayıtların gerçek bir borç yenilemesi sayılabilmesi için **hesabın mutlaka kesilmesi** gerekir. Yani taraflar bir araya gelip 'bu rakamlar doğrudur' demelidir."
+      ],
+      "bullets": [
+        "Kaydedilen her kalem borç yenilemesi değildir.",
+        "Hesap kesilmedikçe borç statüsü değişmez."
+      ]
+    },
+    {
+      "heading": "Fiyat belirlenmemişse nasıl hesap yapılır?",
+      "paragraphs": [
+        "Bazen bir malı alırsınız ancak fiyatını o an konuşmazsınız. Bu durum belirsizlik yaratmaz, piyasa standartları devreye girer.",
+        "Satış, malın teslim edildiği yer ve zamandaki **ortalama piyasa fiyatı** üzerinden hesaplanır. Eğer ürünün ağırlığı üzerinden bir ödeme yapıyorsanız, mutlaka darası düşülmelidir."
+      ],
+      "bullets": [
+        "Fiyat yoksa piyasa ortalaması esas alınır.",
+        "Ağırlık hesaplarında dara mutlaka düşülür."
+      ]
+    },
+    {
+      "heading": "Uzun vadeli ödemelerde para nerede durmalı?",
+      "paragraphs": [
+        "Ödeme vadeniz bir yılı aşıyorsa veya vade süresi belirsizse, kanun sizi özel bir hesap açmaya zorlar. Bu, sadece bir güven mekanizmasıdır.",
+        "Parayı doğrudan karşı tarafa vermek yerine, bir bankada ortak bir yatırım hesabına yatırmalısınız. Bu hesaptan para çekmek için **her iki tarafın da güncel rızası** şarttır."
+      ],
+      "bullets": [
+        "Bir yılı aşan vadelerde banka hesabı zorunludur.",
+        "Önceden verilen genel rıza geçerli değildir."
+      ]
+    },
+    {
+      "heading": "Sözleşmeden cayma durumunda ne olur?",
+      "paragraphs": [
+        "Ticari hayatta işler her zaman planlandığı gibi gitmez. Malın devri gerçekleşmeden önce sözleşmeden vazgeçerseniz, bankadaki o özel hesap üzerindeki haklarınız silinir.",
+        "Bu durum, satıcının güvencesini korumak için tasarlanmıştır. Cayma hakkınızı kullanırken bu finansal kaybı göz önünde bulundurmalısınız."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Cari hesap kayıtlarınızı dönem sonlarında karşı taraf ile birlikte gözden geçirin.",
+    "Hesap mutabakatı yapıldığında, sonucu gösteren belgeyi mutlaka imzalayın.",
+    "Fiyatı belirsiz alışverişlerde, malın teslim anındaki piyasa değerini tespit edin.",
+    "Bir yılı aşan ödemeler için bankada özel bir yatırım hesabı açın.",
+    "Ödeme yaparken karşı tarafın o anki rızasını yazılı olarak alın."
+  ],
+  "documents": [
+    "Hesap mutabakat metni",
+    "Banka yatırım hesabı sözleşmesi",
+    "Malın teslim anındaki piyasa fiyatını gösterir belgeler",
+    "Dara düşümünü gösteren tartı fişleri"
+  ],
+  "faq": [
+    {
+      "q": "Cari hesaptaki tüm kayıtlar borç sayılır mı?",
+      "a": "Hayır, kayıtların borç sayılabilmesi için hesabın kesilmesi ve sonucun kabul edilmesi gerekir."
+    },
+    {
+      "q": "Fiyatı konuşmadan mal alırsam ne öderim?",
+      "a": "Malın teslim edildiği yer ve zamandaki ortalama piyasa fiyatını ödersiniz."
+    },
+    {
+      "q": "Banka hesabından tek taraflı para çekebilir miyim?",
+      "a": "Hayır, paranın çekilebilmesi için her iki tarafın da o anki rızası şarttır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "temerrut-faizi-nedir",
+  "angle": "Destek payı hesabı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

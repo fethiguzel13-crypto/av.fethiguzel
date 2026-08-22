@@ -1,0 +1,100 @@
+{
+  "slug": "icra-inkar-tazminati-sartlari",
+  "title": "İcra İnkâr Tazminatı Şartları | Vatandaş Rehberi",
+  "description": "İnkâr tazminatı ne zaman hükmedilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
+  "h1": "İnkâr tazminatı ne zaman hükmedilir?",
+  "keywords": [
+    "inkar tazminatı şartları",
+    "haksız itiraz tazminat"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "icra-inkar-tazminati-orani",
+    "itirazin-iptali-davasi",
+    "odeme-emrine-itiraz"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "İcra takibine yapılan itiraz sonrasında alacaklının açtığı itirazın iptali davasında borçlunun haksızlığına karar verilirse inkâr tazminatına hükmedilir. Tazminata karar verilebilmesi için davada açıkça talepte bulunulması ve borçlunun itirazının haksız bulunması temel şarttır.",
+  "keyInsight": "İnkâr tazminatına hükmedilebilmesi için mahkemenin borçlunun itirazını haksız bulması ve tarafın bu tazminatı dava dilekçesinde açıkça talep etmiş olması şarttır.",
+  "sections": [
+    {
+      "heading": "Borçlu itiraz ettiğinde süreç nasıl başlar?",
+      "paragraphs": [
+        "İcra takibi başlattığınızda borçlu ödeme emrine itiraz ederek takibi durdurabilir. Bu durumda alacağınızı alabilmek için borçlunun itirazının tebliğ edildiği tarihten itibaren **bir sene** içinde genel hükümler dairesinde mahkemeye başvurarak itirazın iptali davası açmanız gerekir.",
+        "Açılan bu davada borçlunun yaptığı itirazın haksız olduğu mahkemece tespit edilirse, alacağın tahsilinin yanı sıra haksız itiraz nedeniyle tazminat mekanizması işletilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İnkâr tazminatı hangi şartlarla ve ne oranda verilir?",
+      "paragraphs": [
+        "Borçlunun haksız itirazı halinde tazminat kararı verilebilmesi için en önemli husus **diğer tarafın talebi** bulunmasıdır. Mahkeme taraflardan biri talep etmeden kendiliğinden bu tazminata hükmedemez.",
+        "Borçlunun itirazının haksızlığına karar verildiğinde borçlu; takibinde haksız ve kötü niyetli görüldüğü takdirde ise alacaklı, red veya hükmolunan meblağın **yüzde yirmisinden aşağı olmamak üzere** uygun bir tazminat ödemekle mahkûm edilir. Tazminatın hesabında takip talebi veya davadaki talep esas alınır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Veli, vasi veya mirasçıların itirazında kural değişir mi?",
+      "paragraphs": [
+        "Takip yapılan kişi borçlunun kendisi değil de onun velisi, vasisi veya mirasçısı ise kanun farklı bir esas benimsemiştir. Bu kişilerin itiraz etmesi halinde sadece itirazın haksız çıkması tazminat için yeterli sayılmaz.",
+        "İtiraz eden veli, vasi veya mirasçı ise borçlu hakkında tazminat hükmolunması **kötü niyetin sübutuna** bağlı tutulmuştur. Yani bu kişilerin kötü niyetli hareket ettiğinin mahkeme önünde açıkça ispatlanması gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Alacaklı haksız ve kötü niyetli çıkarsa ne olur?",
+      "paragraphs": [
+        "İcra takibi başlatan alacaklının takibinde haksız ve kötü niyetli olduğunun anlaşılması durumunda borçlunun hakları da koruma altına alınmıştır.",
+        "Borçlunun talebi üzerine, alacaklı da reddedilen miktar üzerinden **yüzde yirmisinden aşağı olmamak üzere** tazminat ödemeye mahkûm edilir. Böylece haksız ve kötü niyetli takiplerin önüne geçilmesi hedeflenir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Borçlunun itirazının tebliğ edildiği tarihi resmî kayıtlardan tespit edin.",
+    "Tebliğ tarihinden itibaren **bir sene** geçmeden yetkili mahkemede itirazın iptali davası açın.",
+    "Dava dilekçenizde %20'den az olmamak üzere inkâr tazminatı ödenmesini açıkça talep edin.",
+    "Mahkemede alacağınızın varlığını ve borçlunun itirazının haksızlığını ispatlayın."
+  ],
+  "documents": [
+    "İcra takip talebi ve ödeme emri örneği",
+    "Borçlunun itiraz dilekçesi ve tebliğ mazbatası",
+    "Alacağın varlığını gösteren resmî veya özel belgeler",
+    "İtirazın iptali dava dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Mahkeme talep olmadan inkâr tazminatına karar verebilir mi?",
+      "a": "Hayır. Tazminata hükmedilebilmesi için davacı veya davalı tarafın davasında veya savunmasında bu tazminatı açıkça talep etmiş olması şarttır."
+    },
+    {
+      "q": "İnkâr tazminatının alt sınırı nedir?",
+      "a": "Kanun uyarınca inkâr tazminatı, red veya hükmolunan meblağın yüzde yirmisinden aşağı olamaz."
+    },
+    {
+      "q": "Mirasçıların itirazında tazminat almak için ne gereklidir?",
+      "a": "İtiraz eden taraf mirasçı, veli veya vasi ise tazminat kararı verilebilmesi için kötü niyetin sübuta ermesi, yani ispatlanması şarttır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Şartlar",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

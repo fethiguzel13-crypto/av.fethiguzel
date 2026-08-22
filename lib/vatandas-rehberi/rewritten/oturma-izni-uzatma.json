@@ -1,0 +1,111 @@
+{
+  "slug": "oturma-izni-uzatma",
+  "title": "İkamet izni uzatma — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İkamet izni uzatma hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
+  "h1": "İkamet izni uzatma",
+  "keywords": [
+    "ikamet izni uzatma",
+    "oturma izni uzatma"
+  ],
+  "category": "Yabancılar",
+  "related": [
+    "yabanci-ikamet-izni",
+    "sinir-disi-karari",
+    "calisma-izni-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/yabanci-ikamet-izni"
+    },
+    {
+      "label": "YUKK",
+      "href": "/kategori/yukk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=ikamet"
+    }
+  ],
+  "lead": "Türkiye'de oturma izniniz bitmek üzere ve evrakınızı yenilemek istiyorsunuz. Süreci zamanında başlatmak, yasal kalış hakkınızı korumanın tek yoludur.",
+  "keyInsight": "Uzatma başvurusunu mutlaka mevcut izin süresi dolmadan önce yapmalısınız, aksi takdirde yasal kalış hakkınızı kaybedersiniz.",
+  "sections": [
+    {
+      "heading": "Başvuru ne zaman başlar?",
+      "paragraphs": [
+        "Mevcut oturma izninizin süresi tükenmeye yaklaşırken harekete geçmeniz gerekir. Takviminizi iyi kontrol edin.",
+        "Uzatma talepleri, mevcut **ikamet izni süresinin dolmasına altmış gün kalmasından itibaren** yapılabilir. Bu pencereyi kaçırmamak için süreci son günlere bırakmayın."
+      ],
+      "bullets": [
+        "Süre bitmeden başvuru şart",
+        "Valilikler süreci yürütür"
+      ]
+    },
+    {
+      "heading": "Süreç sürerken Türkiye'de kalabilir misiniz?",
+      "paragraphs": [
+        "Başvurunuzu zamanında yaptınız ancak valilikten henüz nihai karar çıkmadı. Bu arada süreniz dolduysa ne olacak?",
+        "İkamet iznini uzatma başvurusunda bulunanlara **harca tabi olmayan bir belge** verilir. Bu yabancılar, süreleri sona ermiş olsa dahi haklarında karar verilinceye kadar bu belgeyle Türkiye’de kalabilir."
+      ],
+      "bullets": [
+        "Bekleme süresinde koruma sağlar",
+        "Belge harçsızdır"
+      ]
+    },
+    {
+      "heading": "Yeni izin hangi tarihten başlar?",
+      "paragraphs": [
+        "Başvurunuz onaylandığında yeni dönemin ne zaman başlayacağı merak konusudur. İdare bu konuda net bir kural uygular.",
+        "Uzatılan ikamet izinleri, **yasal izin sürelerinin bitim tarihinden itibaren** başlatılır. Böylece arada boşluk kalmaz."
+      ],
+      "bullets": [
+        "Hak kaybı yaşanmaz",
+        "Takip eden günden başlar"
+      ]
+    },
+    {
+      "heading": "Uzatma reddedilirse ne olur?",
+      "paragraphs": [
+        "Her başvuru olumlu sonuçlanmayabilir. Ret kararı çıkması durumunda hızlı hareket etmeniz gerekecektir.",
+        "İkamet izni uzatma başvuruları reddedilenlerin **on gün içinde Türkiye’den çıkış** yapması gerekir. Bu sürede çıkış yapılmazsa sınır dışı etme kararı alınır."
+      ],
+      "bullets": [
+        "Ret halinde on gün kuralı",
+        "Sınır dışı riski doğar"
+      ]
+    }
+  ],
+  "steps": [
+    "Mevcut oturma izninizin bitiş tarihini takvime işaretleyin.",
+    "Sürenin dolmasına altmış gün kala valiliğe uzatma başvurusunda bulunun.",
+    "Başvuru sonrasında size verilen harca tabi olmayan belgeyi alın.",
+    "Valiliğin kararını bu belgeyle Türkiye'de yasal olarak bekleyin.",
+    "Başvurunun reddi durumunda on gün içinde ülkeden çıkış yapın."
+  ],
+  "documents": [
+    "Mevcut ikamet izni belgesi",
+    "Harca tabi olmayan başvuru belgesi",
+    "Geçerli seyahat belgesi veya pasaport"
+  ],
+  "faq": [
+    {
+      "q": "Başvuru için en erken ne zaman harekete geçebilirim?",
+      "a": "İkamet izni süresinin dolmasına altmış gün kalmasından itibaren valiliklere başvuru yapabilirsiniz."
+    },
+    {
+      "q": "Oturma iznim bitti ama kartım henüz gelmedi, sınır dışı edilir miyim?",
+      "a": "Uzatma başvurusu yaptıysanız ve size verilen belge elinizdeyse, hakkınızda karar verilinceye kadar Türkiye'de yasal olarak ikamet edebilirsiniz."
+    },
+    {
+      "q": "Uzatma başvurum reddedilirse ne kadar sürem var?",
+      "a": "İkamet izni uzatma başvuruları reddedilen kişilerin on gün içinde Türkiye’den çıkış yapması zorunludur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "yabanci-ikamet-izni",
+  "angle": "İkamet izni uzatma",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

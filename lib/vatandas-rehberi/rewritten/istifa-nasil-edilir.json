@@ -1,0 +1,105 @@
+{
+  "slug": "istifa-nasil-edilir",
+  "title": "İstifa Nasıl Edilir? Kıdem Riski",
+  "description": "İstifa edince kıdem alınır mı? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
+  "h1": "İstifa edince kıdem alınır mı?",
+  "keywords": [
+    "istifa nasıl edilir",
+    "istifa kıdem tazminatı"
+  ],
+  "category": "İş",
+  "related": [
+    "is-sozlesmesi-feshi",
+    "kidem-tazminati-nasil-alinir",
+    "ihbar-tazminati-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/is-sozlesmesi-feshi"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/kidem"
+    }
+  ],
+  "lead": "Sabah masaya bıraktığınız istifa dilekçesi, her zaman kıdem tazminatı alabileceğiniz anlamına gelmez. Normal şartlarda kendi isteğiyle ayrılan işçi tazminat alamaz; ancak kanunda yazılı bazı özel durumlarda bu kural değişir.",
+  "keyInsight": "İstifa ederken **emeklilik şartlarını tamamladığınızı** veya haklı fesih sebebiniz olduğunu resmi olarak belgelendirmelisiniz.",
+  "sections": [
+    {
+      "heading": "Kendi isteğiyle ayrılınca ne zaman hak doğar?",
+      "paragraphs": [
+        "Masadan kalkıp gitmeye karar verdiniz. Normalde kendi isteğiyle işten ayrılan çalışanın geçmiş yılları yanar ve para alamaz.",
+        "Ancak yaş dışındaki **sigortalılık süresi ve prim gün sayısını** tamamlayarak kendi isteğinizle işten ayrılırsanız durum değişir. Kurumdan alacağınız resmi yazı bu işin anahtarıdır."
+      ],
+      "bullets": [
+        "Normal istifada para ödenmez",
+        "Emeklilik belgesi sunulursa ödenir"
+      ]
+    },
+    {
+      "heading": "Özel durumlar ve istisnalar nelerdir?",
+      "paragraphs": [
+        "Hayat her zaman düz akmaz. Kadın çalışanlar **evlilik tarihinden itibaren bir yıl** içinde kendi arzusuyla sözleşmeyi bitirirse kıdem hakkı doğar.",
+        "Askerlik çağrısı alanlar veya işçinin ölümü halinde de geride kalanlar veya bizzat çalışan bu hakka kavuşur."
+      ],
+      "bullets": [
+        "Evlilik nedeniyle fesih",
+        "Muvazzaf askerlik durumu"
+      ]
+    },
+    {
+      "heading": "Emeklilik için ayrılmak nasıl yapılır?",
+      "paragraphs": [
+        "Gün sayınız doldu ve yaş sınırını bekleyeceksiniz. Sosyal Güvenlik Kurumundan alacağınız kıdem tazminatı alabilir yazısını işverene sunarsınız.",
+        "Bu belge olmadan yapılan ayrılıklar **düz istifa** sayılır ve hak talep edemezsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yanınızda hangi belgeler durmalı?",
+      "paragraphs": [
+        "İş yerinden ayrılırken elinizde yazılı deliller olmalıdır. Sözlü konuşmalar mahkemede veya resmi kurumda somut sonuç doğurmaz.",
+        "Gerekli yazışmaları ve kurumlardan alacağınız onaylı evrakları mutlaka dosyalayın."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Sosyal Güvenlik Kurumuna başvurarak prim günlerinizi ve sürenizi kontrol edin.",
+    "Şartlar tamamsa kurumdan kıdem tazminatı alabileceğinize dair yazıyı isteyin.",
+    "Aldığınız resmi belgeyi ve dilekçenizi işverene yazılı olarak teslim edin.",
+    "Hesabınıza yatan tutarları ve çalışma belgenizi kontrol edin."
+  ],
+  "documents": [
+    "SGK prim dökümü",
+    "Kıdem tazminatı alabilir yazısı",
+    "İstifa ve fesih dilekçesi",
+    "Çalışma belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Her istifa eden kıdem tazminatı alır mı?",
+      "a": "Hayır, sadece kanunda sayılan emeklilik, evlilik veya askerlik gibi istisnai durumlarda kendi isteğiyle ayrılanlar kıdem alabilir."
+    },
+    {
+      "q": "Evlenen kadın işçi ne kadar sürede ayrılmalıdır?",
+      "a": "Evlilik tarihinden itibaren **bir yıl içinde** iş akdini kendi arzusuyla sona erdirmesi şarttır."
+    },
+    {
+      "q": "SGK yazısı olmadan istifa edersem ne olur?",
+      "a": "Belgesiz ayrılışlar normal istifa sayılır ve kıdem tazminatı alma hakkınızı kaybedersiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "is-sozlesmesi-feshi",
+  "angle": "İstifa",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

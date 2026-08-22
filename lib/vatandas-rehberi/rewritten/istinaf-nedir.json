@@ -1,0 +1,111 @@
+{
+  "slug": "istinaf-nedir",
+  "title": "İstinaf Nedir? Nasıl Başvurulur?",
+  "description": "İstinaf nedir? Nasıl başvurulur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
+  "h1": "İstinaf nedir? Nasıl başvurulur?",
+  "keywords": [
+    "istinaf nedir",
+    "istinaf süresi",
+    "istinaf dilekçesi"
+  ],
+  "category": "Usul",
+  "related": [
+    "temyiz-nedir",
+    "kesinlesme-senedi",
+    "istinaf-dilekcesi",
+    "temyiz-siniri",
+    "hukuk-davasi-nasil-acilir",
+    "idari-dava-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Mahkeme salonundan çıktınız ve elinize aleyhinize bir karar tutuşturuldu. Asıl süreç şimdi başlıyor; kararı beğenmiyorsanız üst mahkemenin kapısını çalabilirsiniz.",
+  "keyInsight": "İstinaf dilekçesini kararı veren ilk derece mahkemesine sunmanız gerekir, doğrudan üst mahkemeye gidemezsiniz.",
+  "sections": [
+    {
+      "heading": "Hangi kararlar için bu yola çıkılır?",
+      "paragraphs": [
+        "Elinde mahkeme kararı olan herkes hemen üst mahkemenin yolunu tutamaz. Kanun bazı küçük uyuşmazlıklarda ilk derece mahkemesi kararını son söz olarak kabul eder. Kararın niteliği ve miktarı, bu kapının size açılıp açılmayacağını belirler.",
+        "Elinizdeki kararın **kesin karar** olup olmadığını mutlaka kontrol edin. Eğer dosyanız bu sınıra girmiyorsa, istinaf dilekçesi yazmak sonuç vermez."
+      ],
+      "bullets": [
+        "Miktar sınırları önemlidir",
+        "Kesin kararlar incelenmez"
+      ]
+    },
+    {
+      "heading": "Dilekçede neler yazmalıdır?",
+      "paragraphs": [
+        "Üst mahkemeye hitaben yazacağınız dilekçe sıradan bir mektup değildir. Tarafların kimlik bilgileri, T.C. kimlik numaraları ve adresleri eksiksiz yer almalıdır.",
+        "Hangi mahkemenin hangi tarihli kararına itiraz ettiğinizi, kararın size **tebliğ edildiği tarihi** ve itiraz gerekçelerinizi açıkça yazmalısınız. Dilekçede imzanızın bulunması zorunludur."
+      ],
+      "bullets": [
+        "Kimlik ve adres bilgileri",
+        "İtiraz sebepleri ve talep"
+      ]
+    },
+    {
+      "heading": "Dosya hangi adımlardan geçer?",
+      "paragraphs": [
+        "İstinaf dilekçesini hazırladıktan sonra kararı veren mahkemenin kalemine teslim edersiniz. Kalem evrakı kayda alır ve size ücretsiz bir alındı belgesi verir.",
+        "Dilekçeniz karşı taraf sayısından bir fazla nüsha halinde sunulur. İlk derece mahkemesi dosyayı, dilekçede hangi daire belirtilmiş olursa olsun ilgili bölge adliye mahkemesine gönderir."
+      ],
+      "bullets": [
+        "Kararı veren mahkemeye teslim",
+        "Ücretsiz alındı belgesi"
+      ]
+    },
+    {
+      "heading": "Karşı taraf cevap verirse ne olur?",
+      "paragraphs": [
+        "İstinaf dilekçesi karşı tarafa tebliğ edildiğinde, onların da bu duruma cevap verme hakkı doğar. Hatta asıl başvuru süresini kaçırmış olsalar bile **katılma yoluyla** istinaf yoluna başvurabilirler.",
+        "Asıl başvuran taraf bu cevaba karşı tekrar savunma hakkına sahip olur. Ancak asıl başvuran kişi talebinden vazgeçerse veya üst mahkeme esasa girmeden talebi reddederse, katılma yoluyla gelen talep de düşer."
+      ],
+      "bullets": [
+        "Cevap dilekçesi hakkı",
+        "Birlikte düşme kuralı"
+      ]
+    }
+  ],
+  "steps": [
+    "Kararın size tebliğ edildiği tarihi takvime işaretleyin.",
+    "Kararın kesinlik sınırları içinde olup olmadığını inceleyin.",
+    "Tarafların bilgilerini ve itiraz gerekçelerinizi içeren istinaf dilekçesini hazırlayın.",
+    "Dilekçeyi ve karşı taraf sayısı kadar örneğini kararı veren mahkemeye teslim edin.",
+    "Mahkeme kaleminden ücretsiz alındı belgenizi isteyin ve alın."
+  ],
+  "documents": [
+    "gerekçeli karar",
+    "tebliğ mazbatası",
+    "istinaf dilekçesi",
+    "harç makbuzu"
+  ],
+  "faq": [
+    {
+      "q": "İstinaf dilekçesini doğrudan bölge adliye mahkemesine verebilir miyim?",
+      "a": "Hayır, dilekçeyi kararı veren ilk derece mahkemesine vermeniz gerekir; oradan ilgili üst mahkemeye gönderilir."
+    },
+    {
+      "q": "Karşı taraf istinaf dilekçeme cevap verebilir mi?",
+      "a": "Evet, dilekçe kendisine tebliğ edilen taraf yasal süre içinde cevap verebilir ve katılma yoluyla istinaf yoluna başvurabilir."
+    },
+    {
+      "q": "Başvurumdan sonradan vazgeçersem ne olur?",
+      "a": "İstinaf talebinizden feragat ederseniz, katılma yoluyla başvuran diğer tarafın talebi de geçersiz hale gelir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "istinaf-nedir",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

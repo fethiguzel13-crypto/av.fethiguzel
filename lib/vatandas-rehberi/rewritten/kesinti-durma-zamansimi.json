@@ -1,0 +1,114 @@
+{
+  "slug": "kesinti-durma-zamansimi",
+  "title": "Zamanaşımının kesilmesi ve durması | Vatandaş Rehberi",
+  "description": "Zamanaşımının kesilmesi ve durması. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+  "h1": "Zamanaşımının kesilmesi ve durması",
+  "keywords": [
+    "zamanaşımının kesilmesi ve durması",
+    "kesinti durma zamansimi"
+  ],
+  "category": "Usul",
+  "related": [
+    "zamanaşimi-nedir",
+    "icra-takibi-nedir",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/zamanaşimi-nedir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Bir borç takibiyle karşılaştığınızda sürenin dolup dolmadığı kadar, o sürenin durup durmadığı veya kesilip kesilmediği de hayati önem taşır. Zamanaşımının kesilmesi süreyi yeniden başlatırken, durması sürenin işlemesini askıya alır. Bu durumların varlığı ancak kanunun aradığı resmî belgeler ve mahkeme kararları ile kanıtlanabilir.",
+  "keyInsight": "Zamanaşımı iddiaları veya sürenin kesildiği/durduğu hususu, icra ve yargılama süreçlerinde ancak resmî vesikalar veya imzası ikrar edilmiş belgelerle ispatlanabilir.",
+  "sections": [
+    {
+      "heading": "Haklarınızı ararken zamanaşımı engeliyle karşılaşmak",
+      "paragraphs": [
+        "Bir gün kapınıza gelen bir icra emriyle seneler önceki bir borcun yeniden önünüze geldiğini görebilirsiniz. Masaya oturduğunuzda asıl soru alacağın var olup olmaması değil, hukuken takip edilebilir kalıp kalmadığıdır. Alacaklı taraf pasif kaldığında zaman borçlu lehine işler; ancak hukuki adımlar atıldığında zamanaşımı kesilebilir veya belirli şartlarda durabilir.",
+        "Zamanaşımının kesildiğini veya tatil edildiğini iddia eden tarafın bunu soyut beyanlarla kanıtlaması mümkün değildir. Kanun, bu tür iddiaların itiraz aşamasında **resmî bir belge** veya karşı tarafça imzası ikrar edilmiş bir senet ile ispatlanmasını zorunlu kılar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kararı üst mahkemeye taşımak takibi durdurur mu?",
+      "paragraphs": [
+        "Aleyhinize verilen bir karara karşı istinaf veya temyiz yoluna başvurduğunuzda, sürecin kendiliğinden donacağını düşünebilirsiniz. Oysa usul kurallarına göre üst mahkemeye başvuru yapmak kural olarak **kararın icrasını durdurmaz**. Alacaklı taraf takibe devam edebilir.",
+        "Bu kuralın çok net istisnaları bulunur. Kişiler hukuku, aile hukuku ve taşınmaz mal ile ilgili ayni haklara ilişkin mahkeme kararları **kesinleşmedikçe yerine getirilemez**. Öte yandan nafaka kararlarında icranın geri bırakılmasına karar verilemeyeceği açıkça hükme bağlanmıştır.",
+        "Eğer yargılamanın iadesi davası açtıysanız, bu dava da tek başına icrayı durdurmaz. Mahkemeden talepte bulunup **teminat göstermek şartıyla** icranın durdurulması kararını alabilirsiniz. Yargılamanın iadesi sebebi bir mahkeme kararına dayanıyorsa sizden teminat istenmez."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İcra mahkemesinde zamanaşımı itirazı ve inceleme usulü",
+      "paragraphs": [
+        "İcra takibine karşı senedin metninden zamanaşımına uğradığı yönünde bir itirazda bulunduğunuzda, icra mahkemesi hakimi tarafları en geç **otuz gün içinde** duruşmaya çağırır. Hakim sunulan belgeleri inceleyerek takibin geçici olarak durdurulmasına karar verebilir.",
+        "İnceleme esnasında alacaklı taraf zamanaşımının kesildiğini veya durduğunu resmî veya imzası ikrar edilmiş bir belgeyle ispatlayamazsa, borçlunun itirazı kabul edilir ve **icra takibi durur**. Duruşmaya gelmeyen alacaklı için takibin muvakkaten durdurulmasına karar verilir ve alacaklıya en geç altı ay içinde duruşma talep ederek durumu ispat etme hakkı tanınır.",
+        "Takip sürecindeki belge altında yer alan imza alacaklı tarafından inkar edilir ve inceleme neticesinde imzanın alacaklıya ait olduğu anlaşılırsa, alacaklı belgedeki miktarın **yüzde onu oranında** para cezasına mahkûm edilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İflas açılması halinde takiplerin ve zamanaşımının durumu",
+      "paragraphs": [
+        "Borçlu hakkında iflasın açılması, devam eden tüm hukuki takipleri doğrudan etkiler. İflasın açılmasıyla birlikte borçlu aleyhine haciz yoluyla yapılan takipler ve teminat gösterilmesine ilişkin takipler **kendiliğinden durur**.",
+        "İflas kararının kesinleşmesiyle durmuş olan bu takipler tamamen düşer ve tasfiye süresince borçluya karşı yeni takip yapılamaz. Ancak rehnin paraya çevrilmesi yoluyla yapılan takipler bundan müstesnadır; alacaklılar **iflas masasına karşı** takibe devam edebilirler."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Zamanaşımı sebebiyle icranın geri bırakılması ve dava hakkı",
+      "paragraphs": [
+        "Bir mahkeme ilamına dayanan takipte zamanaşımının gerçekleştiği, kesildiği veya durduğu iddiaları resmî belgelere dayanılarak icra mahkemesince incelenir. Mahkeme duruma göre **icranın geri bırakılmasına** veya takibin devamına karar verir.",
+        "İcranın geri bırakılması kararı kesinleşip alacaklıya tebliğ edildiğinde, alacaklı taraf zamanaşımının gerçekleşmediğini ispat etmek amacıyla **7 gün içinde** genel mahkemelerde dava açmak zorundadır. Bu süre içinde dava açılmazsa ilamın zamanaşımına uğradığı hususu kesin hüküm teşkil eder."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İcra takibinde zamanaşımı itirazı yaparken dilekçenize resmî veya imzası ikrar edilmiş belgeleri ekleyin.",
+    "Kararı üst mahkemeye taşırken dosyanın aile, kişiler hukuku veya taşınmazın ayni hakkına ilişkin olup olmadığını kontrol edin.",
+    "Yargılamanın iadesi davasında icranın durdurulması talep ediyorsanız teminat gösterme yükümlülüğünü dikkate alın.",
+    "İcra mahkemesinin duruşma davetine katılarak zamanaşımını kesen veya durduran resmî evrakları mahkemeye sunun.",
+    "İcranın geri bırakılması kararı tebliğ edilen alacaklı taraf iseniz 7 günlük süre geçmeden genel mahkemede davanızı açın."
+  ],
+  "documents": [
+    "Resmî kurumlarca düzenlenmiş vesikalar ve onaylı senetler",
+    "İmzası ikrar edilmiş ödeme ve borç belgeleri",
+    "İflas kararı ve tasfiye belgeleri",
+    "Mahkeme ilamları ve kesinleşme şerhleri"
+  ],
+  "faq": [
+    {
+      "q": "İstinaf veya temyiz başvurusu icra takibini kendiliğinden durdurur mu?",
+      "a": "Hayır, üst mahkemeye başvuru kural olarak icrayı durdurmaz. Ancak aile hukuku, kişiler hukuku ve taşınmazın ayni haklarına ilişkin kararlar kesinleşmeden icra edilemez."
+    },
+    {
+      "q": "İcra mahkemesinde zamanaşımı itirazı nasıl incelenir?",
+      "a": "Hakim tarafları en geç otuz gün içinde duruşmaya çağırır. İddialar resmî veya imzası ikrar edilmiş belgeler üzerinden incelenerek takibin durdurulmasına veya devamına karar verilir."
+    },
+    {
+      "q": "Borçlunun iflas etmesi icra takiplerini nasıl etkiler?",
+      "a": "İflasın açılması haciz ve teminat takiplerini durdurur, kararın kesinleşmesiyle bu takipler düşer. Rehnin paraya çevrilmesi takipler ise iflas masasına karşı devam eder."
+    },
+    {
+      "q": "İcranın geri bırakılması kararı sonrası alacaklı ne yapmalıdır?",
+      "a": "Kararın kesinleştiğinin tebliğinden itibaren 7 gün içinde genel mahkemelerde dava açarak zamanaşımının gerçekleşmediğini ispat etmelidir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "zamanaşimi-nedir",
+  "angle": "Zamanaşımının kesilmesi ve durması",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

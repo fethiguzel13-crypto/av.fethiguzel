@@ -1,0 +1,101 @@
+{
+  "slug": "whatsapp-yazismasi-delil",
+  "title": "WhatsApp yazışması delil — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "WhatsApp yazışması delil hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
+  "h1": "WhatsApp yazışması delil",
+  "keywords": [
+    "whatsapp yazışması delil",
+    "whatsapp yazismasi delil"
+  ],
+  "category": "Usul",
+  "related": [
+    "zamanaşimi-nedir",
+    "delil-baslangici-nedir",
+    "tanik-dinletme",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/zamanaşimi-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=delil"
+    }
+  ],
+  "lead": "Telefonunuzdaki konuşma ekranını mahkemeye sunarken sadece ekran görüntüsü almak yetmez; davanın seyrini değiştirecek usul kurallarına dikkat etmelisiniz.",
+  "keyInsight": "Dava açarken hangi vakıayı hangi mesajla ispat edeceğinizi dilekçede açıkça belirtmek zorundasınız.",
+  "sections": [
+    {
+      "heading": "Ekran Resmi Yeter mi?",
+      "paragraphs": [
+        "Gece yarısı telefonunuza düşen o mesajla haklılığınızdan emin oldunuz. Konuşma baloncuklarını hemen ekran görüntüsü yapıp kaydettiniz. Asıl soru şu: **Mahkemede bu görüntü tek başına ne ifade eder?**",
+        "Hukuk sistemimizde iddiaların nasıl ispat edileceği kanunla belirlenmiştir. Dava dilekçenizde iddianızın dayanağı olan bütün vakıaları sıra numarası altında özetlemeniz ve **her bir vakıanın hangi delille ispat edileceğini** açıkça yazmanız gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Dilekçede Neler Yazmalı?",
+      "paragraphs": [
+        "Mahkemeye gittiğinizde sadece 'konuşmalar var' demek yetmez. Hangi mesajın hangi iddiayı kanıtladığını hakimin önünde net bir şekilde ortaya koymalısınız.",
+        "Dava dilekçenizde mahkemenin adını, tarafların bilgilerini, TC kimlik numarasını, davanın konusunu ve açık talep sonucunu mutlaka bulundurmalısınız. **Eksiklikleri tamamlamak için verilen sürelere** harfiyen uymak zorundasınız."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Masraflar ve Avans Gerçeği",
+      "paragraphs": [
+        "Adliye kapısından içeri adım attığınız anda masraflar başlar. Davacı, yargılama harçları ile gider avansını dava açarken mahkeme veznesine yatırmak zorundadır.",
+        "Yargılama sürecinde avansın yetmediği anlaşılırsa mahkeme eksikliğin tamamlanması için kesin süre verir. **Bu aşamadaki parasal yükümlülükleri** atlamak davanın inatla takip edilmemesine yol açabilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Neyi Delil Olarak Sunamazsınız?",
+      "paragraphs": [
+        "Taraflar uyuşmazlığı çözmek için masaya oturduğunda bazı görüşmeler yapılır. Arabuluculuk faaliyeti sırasında ileri sürülen görüşler, teklifler veya vakıa kabulleri daha sonra dava açıldığında delil olarak ileri sürülemez.",
+        "Bu tür yasaklı beyanlar delil olarak sunulmuş olsa dahi **hiçbir şekilde hükme esas alınamaz**. Süreci yürütürken bu hukuki sınırlara mutlaka dikkat etmeniz gerekir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Dava dilekçenizde mahkemenin adını ve tarafların kimlik bilgilerini eksiksiz yazın.",
+    "İddia ettiğiniz vakıaları sıra numarası altında açık özetler halinde yazın.",
+    "Her bir vakıanın hangi delille ispat edileceğini dilekçede açıkça belirtin.",
+    "Yargılama harçları ile gider avansını dava açarken mahkeme veznesine yatırın.",
+    "Eksiklik veya avans tamamlama için verilen kesin sürelere mutlaka uyun."
+  ],
+  "documents": [
+    "Dava dilekçesi",
+    "Yargılama harcı ve gider avansı makbuzu",
+    "WhatsApp yazışmalarının dökümleri ve ilgili dijital kayıtlar",
+    "Kimlik belgesi fotokopisi"
+  ],
+  "faq": [
+    {
+      "q": "WhatsApp mesajları mahkemede doğrudan delil olur mu?",
+      "a": "Mesajların delil olarak sunulabilmesi için dava dilekçesinde hangi vakıanın bu mesajla ispat edileceğinin sıra numarası altında açıkça gösterilmesi gerekir."
+    },
+    {
+      "q": "Arabuluculukta konuşulanlar mahkemede kullanılabilir mi?",
+      "a": "Arabuluculuk faaliyeti sırasında sunulan görüşler, teklifler ve vakıa kabulleri daha sonra açılacak hukuk davasında delil olarak ileri sürülemez ve hükme esas alınamaz."
+    },
+    {
+      "q": "Dilekçede eksiklik olursa ne olur?",
+      "a": "Kanunda belirtilen bazı zorunlu unsurların eksik olması hâlinde hakim bir haftalık kesin süre verir; bu sürede tamamlanmazsa dava açılmamış sayılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "zamanaşimi-nedir",
+  "angle": "WhatsApp yazışması delil",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

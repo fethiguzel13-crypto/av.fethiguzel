@@ -1,0 +1,115 @@
+{
+  "slug": "sabika-kaydi-nasil-alinir",
+  "title": "Sabıka kaydı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Sabıka kaydı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
+  "h1": "Sabıka kaydı",
+  "keywords": [
+    "sabıka kaydı",
+    "sabika kaydi nasil alinir"
+  ],
+  "category": "Ceza",
+  "related": [
+    "tutuklama-nedir",
+    "adli-sicil-kaydi",
+    "ehliyet-alma-sartlari",
+    "is-sozlesmesi-feshi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tutuklama-nedir"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=adli%20sicil"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    }
+  ],
+  "lead": "Sabıka kaydı almak için işlemlerinizi adliyelerden, kaymakamlıklar veya dijital kanallar üzerinden kolayca yürütebilirsiniz. Başvurunuz sırasında kimlik bilgilerinizin eksiksiz olması sürecin hızlanmasını sağlar.",
+  "keyInsight": "Resmî belgenin geçerlilik alanını ve hangi amaçla kullanılacağını doğru seçmek en kritik adımdır.",
+  "sections": [
+    {
+      "heading": "Belgeyi nereden isteyebilirsiniz?",
+      "paragraphs": [
+        "Sabıka kaydı belgesine ihtiyaç duyduğunuzda ilk durak genellikle dijital ortamlardır. İnternet erkeşimi olan her yerden bu belgeye saniyeler içinde ulaşabilirsiniz.",
+        "İnternet kullanmıyorsanız veya fiziki başvuru gerektiren istisnai bir durum varsa, adliyelerdeki ilgili birimlere şahsen müracaat edebilirsiniz."
+      ],
+      "bullets": [
+        "e-Devlet kapısı üzerinden sorgulama",
+        "Adliye binası müracaat savcılıkları",
+        "Kaymakamlık birimleri"
+      ]
+    },
+    {
+      "heading": "Kurumlar sizden ne ister?",
+      "paragraphs": [
+        "Başvuru aşamasında kimliğinizi kanıtlayan resmi bir evrak yanınızda bulunmalıdır. Bilgilerin uyuşmaması belgenin düzenlenmesini engeller.",
+        "Talep formunda belgenin verileceği kurumun adını **doğru seçmek** sonradan yaşanacak yetki sorunlarının önüne geçer."
+      ],
+      "bullets": [
+        "T.C. kimlik numarası",
+        "Geçerli kimlik belgesi",
+        "Kurum ibraz bilgisi"
+      ]
+    },
+    {
+      "heading": "Hatalı kayıt çıkarsa ne yapmalısınız?",
+      "paragraphs": [
+        "Sorgulama sonucunda karşınıza yanlış bir bilgi çıkarsa paniğe kapılmayın. Adli sicil müdürlüklerine yazılı olarak başvurarak düzeltme talep etme hakkınız saklıdır.",
+        "İtiraz sürecinde **gerekli dilekçeyi** eksiksiz doldurmak inceleme süresini doğrudan etkiler."
+      ],
+      "bullets": [
+        "Adli sicil kayıt düzeltme dilekçesi",
+        "Mahkeme kararları (varsa)"
+      ]
+    },
+    {
+      "heading": "Belgeyi kimler kullanabilir?",
+      "paragraphs": [
+        "Hazırlanan bu resmi belge yalnızca sizin adınıza ve sizin onayınızla üretilir. Üçüncü kişilerin izinsiz sorgulama yapması hukuken mümkün değildir.",
+        "İş başvurularında veya resmi işlemlerde **kurum ibrazı** zorunludur."
+      ],
+      "bullets": [
+        "Şahsın kendisi",
+        "Yetkilendirilmiş avukat"
+      ]
+    }
+  ],
+  "steps": [
+    "e-Devlet sistemine T.C. kimlik numaranız ve şifrenizle giriş yapın.",
+    "Adli sicil kaydı sorgulama ekranını arama çubuğundan bulun.",
+    "Belgenin verileceği kurum türünü ve ibraz yerini seçin.",
+    "Sorgulama onayını vererek resmi belgenizi ekrana getirin.",
+    "Belgenin barkodlu çıktısını kaydedin veya yazdırın."
+  ],
+  "documents": [
+    "Nüfus cüzdanı veya T.C. kimlik kartı",
+    "Adli sicil başvuru formu",
+    "Kurum talep yazısı",
+    "Vekâletname (avukat aracılığıyla yapılacaksa)"
+  ],
+  "faq": [
+    {
+      "q": "Sabıka kaydını e-Devlet dışından nasıl alabilirim?",
+      "a": "Bulunduğunuz yerdeki adliyelerin adli sicil bürolarına veya kaymakamlıklara kimliğinizle bizzat başvurarak belgeyi elden alabilirsiniz."
+    },
+    {
+      "q": "Yurtdışı başvuruları için sabıka kaydı geçerli mi?",
+      "a": "Yurtdışı kurumlar için alınacak kayıtlarda tercüme ve apostil gibi ek işlemler gerekebilir; başvuru esnasında bu seçeneği işaretlemelisiniz."
+    },
+    {
+      "q": "Sabıka kaydında silinen cezalar görünür mü?",
+      "a": "Yasal şartları oluşarak silinen veya arşive alınan kayıtlar, normal sabıka sorgulamasında genel olarak görünmez."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tutuklama-nedir",
+  "angle": "Sabıka kaydı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

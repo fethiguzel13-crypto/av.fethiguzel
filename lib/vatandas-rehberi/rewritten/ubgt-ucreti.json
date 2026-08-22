@@ -1,0 +1,112 @@
+{
+  "slug": "ubgt-ucreti",
+  "title": "Ulusal Bayram ve Genel Tatil Ücreti | Vatandaş Rehberi",
+  "description": "UBGT ücreti nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
+  "h1": "UBGT ücreti nedir?",
+  "keywords": [
+    "UBGT ücreti",
+    "genel tatil ücreti"
+  ],
+  "category": "İş",
+  "related": [
+    "fazla-mesai-ucreti",
+    "kidem-tazminati-nasil-alinir",
+    "arabuluculuk-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/fazla-mesai-ucreti"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Hesaplama",
+      "href": "/hesaplama"
+    }
+  ],
+  "lead": "Ulusal bayram ve genel tatil günlerinde çalışmazsanız dahi o günün ücreti tam ödenir. Eğer bu günlerde tatil yapmayıp çalışırsanız, **ayrıca çalışılan her gün için bir günlük ücret** ödenmesi gerekir.",
+  "keyInsight": "Resmî tatilde çalıştırıldığınızda normal yevmiyenizin üzerine ek bir günlük ücret almanız şarttır, aksi takdirde eksik ödeme yapılmış demektir.",
+  "sections": [
+    {
+      "heading": "Resmî tatillerde çalışmazsanız ne olur?",
+      "paragraphs": [
+        "Takvim yaprakları ulusal bayram veya genel tatil günlerini gösterdiğinde fabrikada veya ofiste makineler durur. Kanun kapsamındaki bir işyerinde çalışıyorsanız, bu günlerde evinizde dinlenseniz dahi işveren size o günün parasını tam olarak ödemek zorundadır.",
+        "Bu hak bir lütuf veya ikramiye değildir; doğrudan çalışılmayan günün güvencesidir. İşveren bu günleri çalışmadığınız gerekçesiyle maaşınızdan kesemez."
+      ],
+      "bullets": [
+        "Çalışmasanız bile o günün ücreti tam ödenir.",
+        "Kesinti yapılamaz."
+      ]
+    },
+    {
+      "heading": "Tatil yapmayıp çalışırsanız ne ödenir?",
+      "paragraphs": [
+        "İşler yoğundur ve bayram gününde de mesaiye çağrıldınız. Asıl kural burada devreye girer: Tatil yapmayarak çalışmayı sürdürürseniz, **çalıştığınız her gün için ayrıca bir günlük ücret** hesabınıza yansıtılmalıdır.",
+        "Yüzde usulünün uygulandığı yerlerde bile bu kural değişmez; işveren ulusal bayram ve genel tatil ücretini eksiksiz ödemekle yükümlüdür."
+      ],
+      "bullets": [
+        "Fazladan bir yevmiye hakkı doğar.",
+        "Yüzde usulü çalışanlar da dahildir."
+      ]
+    },
+    {
+      "heading": "Aylık maaş alanlar nasıl etkilenir?",
+      "paragraphs": [
+        "Hasta, izinli veya benzeri mazeretlerle aylığı zaten her ay tam yatan çalışanlar için genel tatil kuralları biraz farklı görünür. Ancak bu kişilerin durumu sizi yanıltmasın.",
+        "Aylığı tam ödenen çalışanlar bile ulusal bayram ve genel tatil günlerinde ter döktüğünde, **ayrıca çalıştığı her gün için bir günlük ücret** almaya hak kazanır."
+      ],
+      "bullets": [
+        "Mazeretli olsanız dahi aylıklar tam ödenir.",
+        "Tatil günkü çalışma ayrıca ödenir."
+      ]
+    },
+    {
+      "heading": "Hesaplama yapılırken neler dikkate alınmaz?",
+      "paragraphs": [
+        "Alın terinizin karşılığını hesaplarken bazı kalemler hesaba karıştırılamaz. Fazla çalışma karşılıkları, primler, temizlik gibi yan işler için alınan ücretler ve sosyal yardımlar bu hesaptа dışarıda tutulur.",
+        "Yani genel tatil ücreti tespit edilirken saf yevmiye esas alınır, yan ödemeler bu tutarın içine karıştırılarak miktar düşürülemez."
+      ],
+      "bullets": [
+        "Fazla mesai ücreti hesaba katılmaz.",
+        "Primler ve sosyal yardımlar ayrı tutulur."
+      ]
+    }
+  ],
+  "steps": [
+    "Takvimdeki ulusal bayram ve genel tatil günlerini kontrol edin.",
+    "O günlerde çalışıp çalışmadığınızı netleştirin.",
+    "Banka hesabınıza yatan maaş bordrosunu inceleyin.",
+    "Tatil gününde çalışmanıza rağmen ek ödeme yapılmadıysa işverenle görüşün.",
+    "Sonuç alamazsanız hukuki yollara başvurun."
+  ],
+  "documents": [
+    "İş sözleşmesi",
+    "Maaş bordroları",
+    "Puantaj kayıtları",
+    "Banka hesap hareketleri"
+  ],
+  "faq": [
+    {
+      "q": "Resmî tatilde çalışmazsam maaşımdan kesinti yapılabilir mi?",
+      "a": "Hayır, kanun kapsamındaki işyerlerinde çalışmasanız bile o günün ücreti tam olarak ödenmek zorundadır."
+    },
+    {
+      "q": "Tatil gününde çalışırsam ne kadar ek ödeme almalıyım?",
+      "a": "Çalıştığınız her gün için normal yevmiyenize ek olarak ayrıca bir günlük ücret ödenmelidir."
+    },
+    {
+      "q": "Aylık maaş alıyorum, yine de genel tatil ücreti alabilir miyim?",
+      "a": "Mazeretli hallerde aylığı tam ödenen işçiler bile ulusal bayram ve genel tatil günlerinde çalışırlarsa ayrıca bir günlük ücret hakkı kazanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "fazla-mesai-ucreti",
+  "angle": "UBGT",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

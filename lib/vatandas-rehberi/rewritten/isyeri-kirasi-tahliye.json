@@ -1,0 +1,111 @@
+{
+  "slug": "isyeri-kirasi-tahliye",
+  "title": "İşyeri kiracısı nasıl tahliye edilir — Vatandaş Rehberi | Av. Fethi Gü",
+  "description": "İşyeri kiracısı nasıl tahliye edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
+  "h1": "İşyeri kiracısı nasıl tahliye edilir?",
+  "keywords": [
+    "işyeri kira tahliye",
+    "ticari kira tahliye"
+  ],
+  "category": "Kira",
+  "related": [
+    "kiraci-nasil-tahliye-edilir",
+    "kira-tespit-davasi",
+    "arabuluculuk-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kiraci-nasil-tahliye-edilir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "İşyerinizi boşaltmasını istediğiniz kiracınızla karşı karşıyasınız. Asıl mesele, sözleşme kurallarına veya yasal sürekliliğe ne kadar uyduğunuzdur.",
+  "keyInsight": "Kiracıya verilecek sürelerin veya yazılı ihtarların eksik yapılması bütün süreci baştan başlatır.",
+  "sections": [
+    {
+      "heading": "İşyerini sözleşmeye aykırı kullanıyorsa ne olur?",
+      "paragraphs": [
+        "Kiracınız dükkânı sözleşmedeki şartlara aykırı kullanıyor veya komşulara gerekli saygıyı göstermiyorsa süreç başlar. Kiraya veren olarak **yazılı bir ihtar** göndererek aykırılığın giderilmesini istemelisiniz.",
+        "Bu ihtarda, durumun düzeltilmesi için yasada belirtilen sürenin tanınması ve aksi takdirde sözleşmenin feshedileceğinin belirtilmesi şarttır. Ancak zarar çok büyükse veya süre vermek anlamsızsa bu uyarı adımı atlanabilir."
+      ],
+      "bullets": [
+        "Yazılı ihtar zorunludur.",
+        "Aykırılığın giderilmesi istenir."
+      ]
+    },
+    {
+      "heading": "İşyeri başkasına devredilmişse ne yapmalı?",
+      "paragraphs": [
+        "Kiracınız, dükkânı tamamen veya kısmen başkasına kiralayabilir ya da kullanım hakkını devredebilir. Fakat konut ve çatılı işyeri kiralarında **yazılı rıza** alınması kesin bir kuraldır.",
+        "Kiraya verenin yazılı onayı olmadan yapılan devirler hukuka aykırıdır. Alt kiracı dükkânı farklı amaçla kullanırsa tüm sorumluluk yine asıl kiracıdadır."
+      ],
+      "bullets": [
+        "Yazılı rıza şarttır.",
+        "Devir yetkisi sınırlıdır."
+      ]
+    },
+    {
+      "heading": "Dava açmadan önce nereye başvurulur?",
+      "paragraphs": [
+        "Kira ilişkisinden doğan uyuşmazlıklarda mahkemeye gitmeden önce **arabulucuya başvurmak** zorunludur. Taraflar anlaşmaya varırsa düzenlenen belge ilam niteliği kazanır.",
+        "İlamsız icra yoluyla tahliye hükümleri bu zorunluluğun istisnasını oluşturur. Anlaşma sağlandığında ilgili mahkemeden icra edilebilirlik şerhi alınması süreci tamamlar."
+      ],
+      "bullets": [
+        "Arabuluculuk dava şartıdır.",
+        "İlamsız icra istisnadır."
+      ]
+    },
+    {
+      "heading": "Hangi mahkeme görevlidir?",
+      "paragraphs": [
+        "Kira uyuşmazlıklarında dava konusu paranın değerine bakılmaksızın görevli yer **sulh hukuk mahkemesidir**. Bütün alacak ve tahliye davaları burada görülür.",
+        "Dava sürecinde adli tatil kuralları ve mahkemenin yetki sınırları dikkatle takip edilmelidir. Yanlış mahkemeye başvurmak zaman kaybettirir."
+      ],
+      "bullets": [
+        "Sulh hukuk görevlidir.",
+        "Değer önemsizdir."
+      ]
+    }
+  ],
+  "steps": [
+    "Kiracının sözleşmeye aykırı davranışlarını tespit edin.",
+    "Kanuna uygun şekilde yazılı ihtarname hazırlayın.",
+    "Zorunlu olan durumlarda arabuluculuk bürosuna başvurun.",
+    "Gerekirse sulh hukuk mahkemesinde dava açın."
+  ],
+  "documents": [
+    "Kira sözleşmesi",
+    "Yazılı ihtarname",
+    "Arabuluculuk anlaşma belgesi",
+    "Tapu veya mülkiyet belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "İşyerini izinsiz devreden kiracı hemen çıkarılabilir mi?",
+      "a": "Yazılı rıza alınmadan yapılan devirlerde hukuki yollara başvurarak sözleşmenin feshi talep edilebilir."
+    },
+    {
+      "q": "Arabulucuya gitmek her tahliye türünde zorunlu mu?",
+      "a": "İlamsız icra yoluyla tahliye hükümleri hariç olmak üzere kira uyuşmazlıklarında arabulucuya başvuru şarttır."
+    },
+    {
+      "q": "Görevli mahkeme hangisidir?",
+      "a": "Kira ilişkisinden doğan tüm uyuşmazlıklarda sulh hukuk mahkemesi görevlidir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kiraci-nasil-tahliye-edilir",
+  "angle": "İşyeri",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

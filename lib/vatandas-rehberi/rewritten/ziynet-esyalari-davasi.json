@@ -1,0 +1,106 @@
+{
+  "slug": "ziynet-esyalari-davasi",
+  "title": "Ziynet eşyası davası — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Ziynet eşyası davası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
+  "h1": "Ziynet eşyası davası",
+  "keywords": [
+    "ziynet eşyası davası",
+    "ziynet esyalari davasi"
+  ],
+  "category": "Aile",
+  "related": [
+    "mal-rejimi-tasfiyesi",
+    "bosanma-davasi-nasil-acilir",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/mal-rejimi-tasfiyesi"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    }
+  ],
+  "lead": "Düğünde takılan altınlar ve kıymetli eşyalar evlilik bittiğinde en çok merak edilen konulardan biridir. Takıların kime ait olduğu ve nasıl geri alınacağı somut delillerle çözülür.",
+  "keyInsight": "Ziynet eşyalarının iadesi için takıların çeşitini, miktarını ve kimde kaldığını net bir şekilde ortaya koymak şarttır.",
+  "sections": [
+    {
+      "heading": "Düğün takıları kime aittir?",
+      "paragraphs": [
+        "Evlilik töreninde takılan altın ve kıymetli takılar kural olarak **kadına ait** sayılır. Kim tarafından takıldığına bakılmaksızın bu eşyalar kadının kişisel malı kabul edilir.",
+        "Eğer bu takıların rıza dışında alındığı veya ortak ihtiyaçlar için harcandığı iddia ediliyorsa, bunu **ispat etmek** gerekir."
+      ],
+      "bullets": [
+        "Takılar kadının kişisel malıdır",
+        "İade talebi için eşyaların varlığı gerekir"
+      ]
+    },
+    {
+      "heading": "Hangi deliller kullanılır?",
+      "paragraphs": [
+        "Düğün gününe ait video ve fotoğraflar en güçlü deliller arasındadır. Kalabalık törenlerde çekilen bu kayıtlar takıların miktarını ve cinsini gösterir.",
+        "Görgü tanıklarının anlatımları ve varsa **kuyumcu fişleri** de hazırlık aşamasında süreci destekler."
+      ],
+      "bullets": [
+        "Düğün videosu ve fotoğrafları",
+        "Tanık beyanları"
+      ]
+    },
+    {
+      "heading": "İade mümkün değilse ne olur?",
+      "paragraphs": [
+        "Eşyaların aynen iadesi her zaman mümkün olmayabilir. Bu durumda **bedelinin ödenmesi** talep edilebilir.",
+        "Mahkeme aşamasında bilirkişi incelemesi yapılarak takıların değeri belirlenir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Dava nasıl açılır?",
+      "paragraphs": [
+        "Boşanma davası ile birlikte veya bağımsız olarak ayrı bir **talep yolu** izlenebilir. Dilekçede eşyaların detaylı listesi açıkça yazılmalıdır.",
+        "Hak kaybı yaşamamak adına **belgeleri eksiksiz** toplamak önemlidir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Düğün ve evlilikte takılan altın ve takıları listeleyin.",
+    "Kimin taktığı ve kime takıldığına dair fotoğraf, tanık ve kayıt toplayın.",
+    "Boşanma dosyası varsa talebi orada ileri sürün; yoksa ayrı dava açın.",
+    "İade mümkün değilse bedele hükmedilmesini isteyin.",
+    "Zamanaşımını kontrol edin."
+  ],
+  "documents": [
+    "fotoğraf / video",
+    "tanık listesi",
+    "kuyumcu fişi",
+    "dilekçe"
+  ],
+  "faq": [
+    {
+      "q": "Takılan altınlar erkek tarafına takıldıysa kimindir?",
+      "a": "Kural olarak kadına takılan her türlü ziynet eşyası kadına ait sayılır."
+    },
+    {
+      "q": "Takılar bozulup harcandıysa geri alınabilir mi?",
+      "a": "Aynen iade mümkün değilse, eşyaların dava tarihindeki bedeli talep edilebilir."
+    },
+    {
+      "q": "Düğün videosu yoksa dava açamaz mıyım?",
+      "a": "Video şart değildir; tanık beyanları ve diğer delillerle de iddia kanıtlanabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "mal-rejimi-tasfiyesi",
+  "angle": "Ziynet eşyası davası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

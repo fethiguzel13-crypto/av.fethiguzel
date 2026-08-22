@@ -1,0 +1,112 @@
+{
+  "slug": "gozalti-haklari",
+  "title": "Gözaltında haklarınız nelerdir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Gözaltında haklarınız nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
+  "h1": "Gözaltında haklarınız nelerdir?",
+  "keywords": [
+    "gözaltı hakları",
+    "müdafi hakkı"
+  ],
+  "category": "Ceza",
+  "related": [
+    "savcilik-suc-duyurusu",
+    "ceza-sorusturmasi-sureci",
+    "koruma-karari-6284"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/savcilik-suc-duyurusu"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    },
+    {
+      "label": "PVSK",
+      "href": "/kategori/pvsk"
+    }
+  ],
+  "lead": "Kapınız çalındı ve karakola götürüldünüz. Bu anın telaşıyla haklarınızı unutmayın; en önemli kural susma hakkınızı kullanmaktır.",
+  "keyInsight": "Yakalama anında haklarınızın size hemen bildirilmesi ve yakınlarınıza haber verilmesi zorunludur.",
+  "sections": [
+    {
+      "heading": "Kapıdaki ilk an ve hakların okunması",
+      "paragraphs": [
+        "Polis karşılaştığı olayda kaçmanızı veya zarar vermenizi önleyecek tedbirleri aldıktan sonra **kanuni haklarınızı derhal** bildirir. Bu aşamada neyle suçlandığınızı öğrenmek en doğal hakkınızdır.",
+        "Yakalandığınız an ve olay hakkında Cumhuriyet savcısına hemen bilgi verilir ve savcının talimatına göre işlem yapılır. Sessiz kalmak ve suçlamayı anlamaya çalışmak bu aşamada en güvenli yoldur."
+      ],
+      "bullets": [
+        "Suçlamayı ve yakalama sebebini sorun.",
+        "Yakınlarınıza haber verilmesini isteyin."
+      ]
+    },
+    {
+      "heading": "Avukatınızla görüşme imkânı",
+      "paragraphs": [
+        "Şüpheli olarak **vekâletname aranmaksızın müdafiiniz ile her zaman** görüşme hakkına sahipsiniz. Avukatınızla konuşulanları başkalarının duyamayacağı bir ortamda bir araya gelebilirsiniz.",
+        "Bazı özel suç türlerinde Cumhuriyet savcısının istemi ve Hâkim kararıyla kısıtlama kararı alınabilir. Bu durumda dahi temel haklarınız korunmaya devam eder."
+      ],
+      "bullets": [
+        "Müdafi talep edin.",
+        "Yazışmalarınızın denetlenemeyeceğini bilin."
+      ]
+    },
+    {
+      "heading": "Sağlık kontrolü ve tutanaklar",
+      "paragraphs": [
+        "Gözaltı sürecinde sağlık durumunuzun tespiti için hekim muayenesinden geçirilirsiniz. Süreç boyunca yapılan işlemler ve tutulan belgeler dikkatle incelenmelidir.",
+        "Eşyalarınıza veya malvarlığınıza haksız bir elkonulma durumu olursa, bu durum ileride tazminat isteme hakkınızın temelini oluşturur."
+      ],
+      "bullets": [
+        "Hekim raporunu okumadan imzalamayın.",
+        "Tutanaklardaki ifadelerin size ait olduğundan emin olun."
+      ]
+    },
+    {
+      "heading": "Süre sonunda ne yapılır?",
+      "paragraphs": [
+        "Kanuni gözaltı süresi içinde hâkim önüne çıkarılmayan veya hakları hatırlatılmayan kişiler için hukuki yollar açıktır. Süre bittiğinde ya serbest bırakılırsınız ya da adli mercilere sevk edilirsiniz.",
+        "Haksız bir yakalama veya yasal süreye uyulmaması durumunda maddi ve manevi her türlü zararınızı devletten isteme hakkınız saklıdır."
+      ],
+      "bullets": [
+        "Sürenin dolmasını takip edin.",
+        "Serbest kalma veya sevk kararını izleyin."
+      ]
+    }
+  ],
+  "steps": [
+    "Gözaltı sebebini ve size yöneltilen suçlamayı sorun.",
+    "Yakınlarınıza durumun bildirilmesini talep edin.",
+    "Avukatınızla görüşmek istediğinizi kolluğa bildirin.",
+    "Hekim muayenesinden geçip raporu dikkatlice okuyun.",
+    "İfade sırasında özgür iradenizi koruyun ve tutanağı inceleyin."
+  ],
+  "documents": [
+    "gözaltı tutanağı",
+    "hekim raporu",
+    "müdafi görevlendirme belgesi",
+    "yakalama tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "Gözaltına alındığımda avukat istemek zorunda mıyım?",
+      "a": "Evet, her zaman vekâletname aranmaksızın müdafi ile görüşme hakkına sahipsiniz."
+    },
+    {
+      "q": "Yakınlarıma haber verileceğini nasıl anlarım?",
+      "a": "Kolluk, yakalama işleminden sonra yakınlarınıza durumun bildirilmesi için gerekli işlemleri yapmakla yükümlüdür."
+    },
+    {
+      "q": "Hangi durumlarda devletten tazminat isteyebilirim?",
+      "a": "Kanuni gözaltı süresi içinde hâkim önüne çıkarılmadığınızda veya haklarınız hatırlatılmadığında tazminat talep edebilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "savcilik-suc-duyurusu",
+  "angle": "Gözaltı hakları",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

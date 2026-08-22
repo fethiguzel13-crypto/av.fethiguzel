@@ -1,0 +1,129 @@
+{
+  "slug": "vergi-ziyai-cezasi",
+  "title": "Vergi ziyaı cezası — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Vergi ziyaı cezası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
+  "h1": "Vergi ziyaı cezası",
+  "keywords": [
+    "vergi ziyaı cezası",
+    "vergi ziyai cezasi"
+  ],
+  "category": "Vergi",
+  "related": [
+    "kdv-nedir",
+    "vergi-incelemesi-nedir",
+    "vergi-borcu-yapislandirma",
+    "idari-dava-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kdv-nedir"
+    },
+    {
+      "label": "VUK",
+      "href": "/kategori/vuk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=vergi%20ziya%C4%B1"
+    }
+  ],
+  "lead": "Posta kutusunda vergi cezası ihbarnamesi buldunuz. Ne yapacağınızı bilemeden masada oturuyorsunuz; asıl mesele verginin eksik ödenmesine yol açan hareketin türüdür.",
+  "keyInsight": "Vergi ziyaına yol açan tek bir fiil ile birden fazla vergi türü zayi ayna uğratılırsa, **her vergi bakımından ayrı ayrı ceza** kesilir.",
+  "sections": [
+    {
+      "heading": "Vergi ziyaı cezası ne zaman doğar?",
+      "paragraphs": [
+        "Vergi kanunlarına aykırı hareket ettiğinizde bu ceza gündeme gelir. Şirket veya tüzel kişiliğin işlerinde bir eksiklik veya kural dışılık tespit edildiğinde, **tüzel kişiler adına** ceza kesilmesi kuraldır.",
+        "Ortada birden fazla vergi ziyaına yol açan tek bir fiil varsa, kanun her bir vergi kalemi için ayrı ayrı ceza hesaplanmasını emreder."
+      ],
+      "bullets": [
+        "Vergi kanunlarına aykırılık",
+        "Ayrı ayrı ceza hesaplanması"
+      ]
+    },
+    {
+      "heading": "Kim sorumlu tutulur?",
+      "paragraphs": [
+        "Şirket yönetirken veya tasfiye ederken yapılan hatalar şirketin kendisini bağlar. Kanuni temsilciler de bu süreçte sorumluluk altındadır.",
+        "Eğer ortada ağır kural ihlalleri varsa, bu **fiilleri bizzat işleyenler** cezai sorumlulukla yüz yüze kalır."
+      ],
+      "bullets": [
+        "Tüzel kişi sorumluluğu",
+        "Kanuni temsilci konumu"
+      ]
+    },
+    {
+      "heading": "Tahsilat aşamasında teminat istenir mi?",
+      "paragraphs": [
+        "Vergi incelemesi sırasında yapılan ilk hesaplamalara göre borç miktarının tahsili tehlikede görülebilir. Bu durumda tahsil daireleri hemen harekete geçer.",
+        "Türkiye'de ikametgahı bulunmayan borçlular için de benzer şekilde **teminat talep edilmesi** mümkündür."
+      ],
+      "bullets": [
+        "İlk hesaplara göre miktar",
+        "Teminat talebi"
+      ]
+    },
+    {
+      "heading": "Hangi teminatlar kabul edilir?",
+      "paragraphs": [
+        "Borcunuz karşılığında devletin kabul ettiği belli başlı güvenceler vardır. Para, bankaların verdiği süresiz ve şartsız teminat mektupları ilk sıradadır.",
+        "Ayrıca sigorta şirketlerinin kefalet senetleri, devlet iç borçlanma senetleri ve **haczedilen menkul mallar** da teminat olarak sunulabilir."
+      ],
+      "bullets": [
+        "Para ve teminat mektupları",
+        "Menkul ve gayrimenkul mallar"
+      ]
+    },
+    {
+      "heading": "Fazla ödenen vergiler nasıl geri alınır?",
+      "paragraphs": [
+        "Yıllık beyannamede hesaplanan vergiden daha fazla kesinti yapıldıysa aradaki fark size bildirilir. Bu aşamada resmi kurumlara başvuru hakkınız doğar.",
+        "Mükellefin **bir yıl içinde müracaatı** üzerine fazla ödenen tutar ret ve iade olunur."
+      ],
+      "bullets": [
+        "Mahsup ve iade süreci",
+        "Yıllık beyanname"
+      ]
+    }
+  ],
+  "steps": [
+    "Vergi dairesinden gelen tebligatı ve ihbarnamenin detaylarını inceleyin.",
+    "Hangi vergi türleri için ziyaı cezası kesildiğini tespit edin.",
+    "İnceleme memurlarının ilk hesaplarına göre teminat istenip istenmediğini kontrol edin.",
+    "Gerekli teminat türlerinden paranıza veya mal varlığınıza uygun olanı belirleyin.",
+    "Fazla ödeme varsa iade talebi için süresi içinde dilekçe verin."
+  ],
+  "documents": [
+    "Vergi ziyaı cezası ihbarnamesi",
+    "Teminat mektubu veya kefalet senedi",
+    "Devlet iç borçlanma senetleri",
+    "Vergi iade talep dilekçesi",
+    "Yıllık gelir vergisi beyannamesi"
+  ],
+  "faq": [
+    {
+      "q": "Vergi ziyaı cezası kim adına kesilir?",
+      "a": "Tüzel kişilerin idare ve tasfiyesindeki aykırılıklar doğrudan tüzel kişiler adına kesilir; kanuni temsilcilerin sorumluluğu da bu kapsamda değerlendirilir."
+    },
+    {
+      "q": "Tek bir fiil birden fazla cezaya yol açabilir mi?",
+      "a": "Evet, cezayı gerektiren tek bir fiil ile başka türlerde vergi ziyaına sebebiyet verilmişse, her vergi bakımından ayrı ayrı ceza kesilir."
+    },
+    {
+      "q": "Tahsilat dairesi ne zaman teminat isteyebilir?",
+      "a": "Vergi ziyaı cezasını gerektiren hallere temas eden bir amme alacağının salınması için işlemlere başlandığında, yapılan ilk hesaplara göre teminat istenebilir."
+    },
+    {
+      "q": "Teminat olarak hangi varlıklar kabul edilir?",
+      "a": "Para, banka teminat mektupları, sigorta kefalet senetleri, devlet iç borçlanma senetleri ve haczedilen menkul veya gayrimenkul mallar kabul edilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kdv-nedir",
+  "angle": "Vergi ziyaı cezası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "kacak-kat-cezasi",
+  "title": "Kaçak kat cezası — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Kaçak kat cezası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
+  "h1": "Kaçak kat cezası",
+  "keywords": [
+    "kaçak kat cezası",
+    "kacak kat cezasi"
+  ],
+  "category": "İmar",
+  "related": [
+    "kentsel-donusum-nedir",
+    "kacak-yapi-cezasi",
+    "yapi-tatil-tutanağı",
+    "iskan-olmadan-oturma"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kentsel-donusum-nedir"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    },
+    {
+      "label": "Belediye",
+      "href": "/kategori/belediye"
+    }
+  ],
+  "lead": "Kaçak kat, imar mevzuatına aykırı şekilde ruhsatsız veya projeye aykırı olarak inşa edilen yapıyı ifade eder. Bu durum sadece bir ceza değil, aynı zamanda mülkünüzün güvenliği ve yasal statüsü için ciddi bir risktir.",
+  "keyInsight": "Belediye encümeni, aykırılığı tespit ettiği tarihten itibaren on iş günü içinde sorumlular hakkında ayrı ayrı idari para cezası uygular.",
+  "sections": [
+    {
+      "heading": "Süreç nasıl işler?",
+      "paragraphs": [
+        "Belediye ekipleri binanızda bir aykırılık tespit ettiğinde durum tutanak altına alınır. Bu tutanak, idari işlemlerin başlangıç noktasıdır.",
+        "Tespit sonrasında belediye encümeni toplanır. Yapının sınıfı, çevreye etkisi ve can güvenliğini tehdit edip etmediği gibi kriterlere bakılarak ceza miktarı belirlenir."
+      ],
+      "bullets": [
+        "Tespitten sonra 10 iş günü içinde encümen kararı çıkar.",
+        "Ceza; yapı sahibi, müteahhit ve fenni mesullere ayrı ayrı kesilir."
+      ]
+    },
+    {
+      "heading": "Ceza miktarı nasıl belirlenir?",
+      "paragraphs": [
+        "Ödenecek ceza, yapının inşaat sınıfına ve aykırı olan metrekareye göre hesaplanır. Her yıl yeniden değerleme oranına göre bu rakamlar güncellenir.",
+        "Kanun, bin Türk lirasından az olmamak üzere bir alt sınır belirlemiştir. Yapının niteliği, ceza tutarını doğrudan etkileyen en önemli unsurdur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Fenni mesulün sorumluluğu nedir?",
+      "paragraphs": [
+        "Binanın teknik sorumlusu olan fenni mesul, aykırılığı fark ettiği anda idareye bildirmekle yükümlüdür.",
+        "Bu bildirim için **altı iş günü** süresi vardır. Süreyi kaçıran veya bildirim yapmayan fenni mesuller de idari para cezasıyla karşı karşıya kalır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İtiraz hakkınız var mı?",
+      "paragraphs": [
+        "Belediyenin verdiği idari para cezalarına karşı idare mahkemelerinde dava açma hakkınız saklıdır.",
+        "Dava açmak, cezanın tahsilini durdurmaz; bu nedenle süreci bir hukukçu ile yönetmek hak kaybınızı önler."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Belediyeden gelen tebligatı dikkatle inceleyin.",
+    "Yapılan aykırılığın detaylarını ve metrekare hesabını kontrol edin.",
+    "Tebliğ tarihinden itibaren dava açma süresini kaçırmayın.",
+    "Eğer bir eksiklik varsa, imar mevzuatına uygun hale getirme yollarını araştırın.",
+    "Ceza miktarının hatalı olduğunu düşünüyorsanız idare mahkemesine başvurun."
+  ],
+  "documents": [
+    "Belediye encümen kararı",
+    "Yapı tatil zaptı",
+    "İmar projesi ve ruhsat belgeleri",
+    "Tebligat zarfı"
+  ],
+  "faq": [
+    {
+      "q": "Kaçak kat cezası sadece mal sahibine mi kesilir?",
+      "a": "Hayır; yapı sahibi, müteahhit ve fenni mesul olmak üzere sorumluluğu olan herkese ayrı ayrı ceza uygulanır."
+    },
+    {
+      "q": "Ceza ödenince kaçak kat yasallaşır mı?",
+      "a": "Hayır; ödenen para cezası, imar mevzuatına aykırılığın bedelidir, yapının ruhsatlı hale geldiği anlamına gelmez."
+    },
+    {
+      "q": "Cezaya itiraz süresi ne kadardır?",
+      "a": "İdari işlemlere karşı dava açma süresi, tebliğ tarihinden itibaren genellikle 60 gündür; bu süreyi geçirmemeniz gerekir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kentsel-donusum-nedir",
+  "angle": "Kaçak kat cezası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

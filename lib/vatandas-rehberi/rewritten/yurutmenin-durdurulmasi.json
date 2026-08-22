@@ -1,0 +1,111 @@
+{
+  "slug": "yurutmenin-durdurulmasi",
+  "title": "Yürütmenin durdurulması nasıl istenir — Vatandaş Rehberi | Av. Fethi G",
+  "description": "Yürütmenin durdurulması nasıl istenir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
+  "h1": "Yürütmenin durdurulması nasıl istenir?",
+  "keywords": [
+    "yürütmenin durdurulması",
+    "YD kararı"
+  ],
+  "category": "İdare",
+  "related": [
+    "idari-dava-nasil-acilir",
+    "iptal-davasi-nedir",
+    "ihtiyati-tedbir-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/idari-dava-nasil-acilir"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "İdare mahkemesinde dava açtığınızda, hukuka aykırı bir işlemin hemen uygulanmasını durdurmak için özel olarak yürütmenin durdurulmasını isteyebilirsiniz. Bu talep, telafisi güç zararların önüne geçmek için hayati önem taşır.",
+  "keyInsight": "Yürütmenin durdurulması kararı verilebilmesi için işlemin açıkça hukuka aykırı olması ve uygulanması halinde telafisi güç veya imkansız zararlar doğurması şarttır.",
+  "sections": [
+    {
+      "heading": "İşlem kapınıza dayandığında ne yaparsınız?",
+      "paragraphs": [
+        "Belediyeden veya idareden gelen bir tebligatla sarsıldığınızda, o işlemin hemen uygulanacağını fark edersiniz. Asıl soru, dava açmanın tek başına bu yıkımı durdurmaya yetip yetmeyeceğidir.",
+        "İdare hukuku kuralları gereği, dava açmak tek başına idari işlemin yürütmesini durdurmaz. **İşlemin durdurulması** için mahkemeden açıkça talepte bulunmanız şarttır."
+      ],
+      "bullets": [
+        "Dava dilekçesinde açıkça belirtin",
+        "Zararın büyüklüğünü somutlaştırın"
+      ]
+    },
+    {
+      "heading": "Hangi şartlarda bu hak doğar?",
+      "paragraphs": [
+        "Mahkemenin bu talebi kabul etmesi için iki temel koşulun bir araya gelmesi gerekir. İşlemin **açıkça hukuka aykırı** olması ve uygulanması durumunda **telafisi güç zararlar** doğacak olması aranır.",
+        "Bu iki şart sağlanmadığı sürece mahkeme yürütmeyi durdurma kararı vermez. İşlemin haksızlığı açıkça ortada olmalıdır."
+      ],
+      "bullets": [
+        "Hukuka açık aykırılık",
+        "Telafisi güç zarar"
+      ]
+    },
+    {
+      "heading": "Karar çıkana kadar süreç nasıl işler?",
+      "paragraphs": [
+        "Talebiniz mahkemeye ulaştığında karşı tarafa savunma için süre tanınır. İdarenin savunması geldikten sonra veya süresi geçtikten sonra mahkeme kararını verir.",
+        "Bu süre zarfında idare işlemi uygulamaya devam edebilir; ancak karar çıktığı an yürütme durur."
+      ],
+      "bullets": [
+        "İdareden savunma istenmesi",
+        "Mahkemenin nihai kararı"
+      ]
+    },
+    {
+      "heading": "Yanınızda hangi belgeler durmalı?",
+      "paragraphs": [
+        "Hukuka aykırılığı ispatlayacak evraklar ve işlemin size tebliğ edildiğini gösteren belgeler dosyanızda yer almalıdır.",
+        "Zararın büyüklüğünü kanıtlayacak her türlü yazılı delil süreci hızlandırır."
+      ],
+      "bullets": [
+        "İdari işlem metni",
+        "Tebligat zarfı veya mazbatası"
+      ]
+    }
+  ],
+  "steps": [
+    "İdari işleme karşı iptal davası hazırlayın.",
+    "Dilekçenize yürütmenin durdurulması talebini açıkça ekleyin.",
+    "İşlemin hukuka aykırı yönlerini ve doğuracağı zararları yazın.",
+    "Tebligat ve işlem belgelerini dosyaya ekleyin.",
+    "Yetkili idare mahkemesine başvurunuzu yapın."
+  ],
+  "documents": [
+    "İdari işlem metni",
+    "Tebligat belgesi",
+    "Zararı kanıtlayan belgeler"
+  ],
+  "faq": [
+    {
+      "q": "Dava açınca işlem kendiliğinden durur mu?",
+      "a": "Hayır, dava açmak tek başına yürütmeyi durdurmaz; mutlaka ayrıca talep etmeniz gerekir."
+    },
+    {
+      "q": "Hangi durumlarda bu karar verilir?",
+      "a": "İşlemin açıkça hukuka aykırı olması ve uygulanması halinde telafisi güç zararlar doğması şarttır."
+    },
+    {
+      "q": "Karar ne zaman çıkar?",
+      "a": "Mahkeme, idarenin savunması alındıktan veya savunma süresi geçtikten sonra kararını verir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "idari-dava-nasil-acilir",
+  "angle": "YD",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

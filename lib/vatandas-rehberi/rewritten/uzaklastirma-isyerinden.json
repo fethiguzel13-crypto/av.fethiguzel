@@ -1,0 +1,101 @@
+{
+  "slug": "uzaklastirma-isyerinden",
+  "title": "İşyerinden uzaklaştırma — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İşyerinden uzaklaştırma hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
+  "h1": "İşyerinden uzaklaştırma",
+  "keywords": [
+    "işyerinden uzaklaştırma",
+    "uzaklastirma isyerinden"
+  ],
+  "category": "İş",
+  "related": [
+    "ibraname-nedir",
+    "is-sozlesmesi-feshi",
+    "mobbing-nedir",
+    "ise-iade-davasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/ibraname-nedir"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=uzakla%C5%9Ft%C4%B1rma"
+    }
+  ],
+  "lead": "Sabah işe geldiğinizde kapıdan içeri alınmadığınızı veya evinize gönderildiğinizi öğrendiniz. Telaş etmeyin, işyerinden uzaklaştırma kararı her zaman işten çıkarıldığınız anlamına gelmez.",
+  "keyInsight": "Uzaklaştırma kararının niteliğini ve ücretinizin ödenip ödenmediğini hemen yazılı olarak isteyin.",
+  "sections": [
+    {
+      "heading": "Kapıdan çevrilince ne anlama gelir?",
+      "paragraphs": [
+        "İşyerine geldiğinizde içeri girmenizin engellenmesi veya evinize gönderilmeniz genellikle bir soruşturmanın habercisidir. **Soruşturma amaçlı** uzaklaştırmalar geçici nitelik taşır.",
+        "Bu süreçte işverenin tutumu ve size verilen yazılı açıklama en önemli yol haritanızdır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Ücretiniz ödenmeye devam edecek mi?",
+      "paragraphs": [
+        "Uzaklaştırma süresi boyunca evde beklerken geçiminizin nasıl sağlanacağı kritik bir sorudur. İşveren bu dönemde **ücretinizi ödemekle** yükümlüdür.",
+        "Maaşınızda kesinti yapılması veya belirsiz bir süreyle eve gönderilmeniz haklı bir nedene dayanmıyorsa hukuki sorun doğurur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Savunma hakkı nasıl kullanılır?",
+      "paragraphs": [
+        "Uzaklaştırmanın arkasında bir iddia veya disiplin soruşturması yatabilir. İşverenin iddialarına karşı **yazılı savunma** hazırlamanız gerekebilir.",
+        "Size yöneltilen suçlamalara karşı belgelerinizle birlikte net ve sakin bir açıklama yapın."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Durum ne zaman feshin karşılığı olur?",
+      "paragraphs": [
+        "Eğer uzaklaştırma kararı makul bir süreyi aşar ve belirsiz bir hâl alırsa bu durum fiilî bir işten çıkarma olarak değerlendirilebilir.",
+        "Haklarınızın ihlal edilmemesi için işyerinin bu tutumunu **yazılı olarak** sormanız ve belgelemeniz gerekir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Uzaklaştırmanın disiplin veya soruşturma amaçlı olup olmadığını işverene sorun.",
+    "Kararın yazılı bir örneğini ve süresini talep edin.",
+    "Ücretinizin tam olarak ödenip ödenmediğini maaş bordrosundan kontrol edin.",
+    "İddialara karşı yazılı savunmanızı hazırlayın ve iletin.",
+    "Uzaklaştırma uzarsa durumu yazılı olarak protesto edin."
+  ],
+  "documents": [
+    "uzaklaştırma yazısı",
+    "savunma dilekçesi",
+    "bordro",
+    "iş sözleşmesi"
+  ],
+  "faq": [
+    {
+      "q": "İşyerinden uzaklaştırıldığımda maaşım kesilir mi?",
+      "a": "Geçici uzaklaştırma sürelerinde işverenin ücret ödeme yükümlülüğü kural olarak devam eder; haksız kesintiler için hukuki yola başvurabilirsiniz."
+    },
+    {
+      "q": "Bu süre boyunca eve gitmek zorunda mıyım?",
+      "a": "Evet, işverenin işyerine girişinizi engellemesi durumunda zorla içeri girmeye çalışmak yerine durumu tutanak altına alıp ayrılmanız güvenli olur."
+    },
+    {
+      "q": "Uzaklaştırma ne kadar sürebilir?",
+      "a": "Kanunda net bir gün sınırı belirtilmemiştir ancak sürecin makul bir soruşturma süresini aşmaması gerekir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "ibraname-nedir",
+  "angle": "İşyerinden uzaklaştırma",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

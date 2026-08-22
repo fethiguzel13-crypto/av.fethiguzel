@@ -1,0 +1,111 @@
+{
+  "slug": "destekten-yoksun-kalma",
+  "title": "Destekten yoksun kalma — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Destekten yoksun kalma hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
+  "h1": "Destekten yoksun kalma",
+  "keywords": [
+    "destekten yoksun kalma",
+    "destekten yoksun kalma"
+  ],
+  "category": "Trafik",
+  "related": [
+    "trafik-kazasi-tazminati",
+    "is-kazasi-tazminati",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/trafik-kazasi-tazminati"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "KTK",
+      "href": "/kategori/ktk"
+    }
+  ],
+  "lead": "Trafik kazasında kaybettiğiniz yakınınızın sağlığında size maddi destek sağladığı durumlar, yasal olarak destekten yoksun kalma tazminatını gündeme getirir. Bu süreçte en önemli kural, hak sahibinin kendi kusuruna denk gelen kısımların veya destek şahsının kusuruna denk gelen tazminat taleplerinin kapsam dışında kalmasıdır.",
+  "keyInsight": "Destek olan kişinin kusuru veya kazadaki kendi kusurunuz, talep edeceğiniz tazminat miktarını doğrudan etkiler.",
+  "sections": [
+    {
+      "heading": "Ne zaman hak doğar?",
+      "paragraphs": [
+        "Trafik kazası sonucunda hayatını kaybeden bir kişinin düzenli olarak maddi yardımıyla geçinen yakınları, bu durumdan zarar gördüklerinde hak sahibi konuma gelirler. Yaşanan acı kaybın ardından geride kalanların ekonomik olarak aynı darlıkta kalmaması hedeflenir.",
+        "Asıl soru, ölen kişinin size fiilen destek olup olmadığıdır. Bu destek ilişkisi kanıtlandığı an, zarar görenler adına hak doğmuş kabul edilir."
+      ],
+      "bullets": [
+        "Maddi yardımın düzenli olması",
+        "Ölüm olayının kazadan kaynaklanması"
+      ]
+    },
+    {
+      "heading": "Kapsam dışı kalan durumlar nelerdir?",
+      "paragraphs": [
+        "Yolların ve sigorta sistemlerinin işleyişinde her talep doğrudan karşılık bulmaz. Kazada destekten yoksun kalan hak sahibinin kendi kusuruna denk gelen tazminat talepleri sigorta kapsamı dışındadır.",
+        "Ayrıca destek şahsının kusuruna denk gelen tazminat talepleri ve manevi tazminat talepleri de zorunlu mali sorumluluk sigortası kapsamı dışında tutulmuştur."
+      ],
+      "bullets": [
+        "Manevi tazminat talepleri",
+        "Kusur oranına denk gelen kısımlar"
+      ]
+    },
+    {
+      "heading": "Kimler talepte bulunabilir?",
+      "paragraphs": [
+        "Kazada hayatını kaybeden kişinin desteğinden yoksun kalan yakınları bu süreci başlatabilir. Ancak talepte bulunurken **hak sahibinin kendi kusuru** hesaplamada dikkate alınır.",
+        "Destek olan kişinin kusur oranı da yine tazminatın sınırlarını çizen temel kıstaslar arasında yer alır."
+      ],
+      "bullets": [
+        "Geçim bağı olan yakınlar",
+        "Destekten yoksun kalanlar"
+      ]
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "Sürecin yürütülebilmesi ve hak kaybı yaşanmaması için kazayı ve destek ilişkisini gösteren evrakların bir arada tutulması gerekir.",
+        "Resmi kurumlar nezdinde yapılacak başvurularda elinizdeki **düzenli bilgi ve belgeler** süreci hızlandıracaktır."
+      ],
+      "bullets": [
+        "Kaza tespit tutanağı",
+        "Destek ilişkisini kanıtlayan belgeler"
+      ]
+    }
+  ],
+  "steps": [
+    "Kazaya ilişkin resmi tutanakları ve raporları temin edin",
+    "Ölen kişi ile aranızdaki destek ilişkisini ve ekonomik bağı netleştirin",
+    "Kusur oranlarını ve kapsam dışı bırakılan hususları inceleyin",
+    "İlgili sigorta veya sorumlu taraflara başvuru evraklarını hazırlayın"
+  ],
+  "documents": [
+    "Kaza tespit tutanağı",
+    "Ölüm belgesi",
+    "Veraset ilamı",
+    "Gelir ve destek durumunu gösterir belgeler"
+  ],
+  "faq": [
+    {
+      "q": "Manevi tazminat bu sigortadan ödenir mi?",
+      "a": "Hayır, manevi tazminata ilişkin talepler zorunlu mali sorumluluk sigortası kapsamı dışındadır."
+    },
+    {
+      "q": "Kusurlu olursam ne olur?",
+      "a": "Hak sahibinin kendi kusuruna denk gelen tazminat talepleri sigorta teminatı dışındadır."
+    },
+    {
+      "q": "Destek olan kişinin kusuru süreci nasıl etkiler?",
+      "a": "Destekten yoksun kalan hak sahibinin, destek şahsının kusuruna denk gelen tazminat talepleri karşılanmaz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "trafik-kazasi-tazminati",
+  "angle": "Destekten yoksun kalma",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

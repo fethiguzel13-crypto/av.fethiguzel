@@ -1,0 +1,105 @@
+{
+  "slug": "nafaka-alacaklisi-oncelik",
+  "title": "Nafaka Alacağının İcrada Önceliği | Vatandaş Rehberi",
+  "description": "Nafaka alacağı icrada öncelikli midir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
+  "h1": "Nafaka alacağı icrada öncelikli midir?",
+  "keywords": [
+    "nafaka öncelik icra",
+    "nafaka imtiyazlı alacak"
+  ],
+  "category": "İcra",
+  "related": [
+    "nafaka-davasi-nedir",
+    "nafaka-odenmezse",
+    "ucret-haczi-nafaka",
+    "sira-cetveli"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/nafaka-davasi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    }
+  ],
+  "lead": "Nafaka alacağınız, icra sürecinde yasalar tarafından korunan özel bir önceliğe sahiptir. Borçlunun diğer borçları olsa dahi, sizin alacağınızın tahsili için kanun özel bir imtiyaz tanır.",
+  "keyInsight": "Nafaka alacakları, borçlunun iflası durumunda dahi diğer adi alacaklardan önce ödenmesi gereken imtiyazlı alacaklar arasında yer alır.",
+  "sections": [
+    {
+      "heading": "Nafaka alacağının özel durumu nedir?",
+      "paragraphs": [
+        "Hayatın akışı içinde nafaka, sadece bir para alacağı değil, kişinin yaşamını sürdürebilmesi için gerekli olan bir haktır. Hukuk düzeni bu durumu gözeterek, nafaka alacaklısını diğer alacaklılara göre daha güçlü bir konuma yerleştirir.",
+        "Borçlu kişi, mahkeme kararına rağmen ödemeyi geciktirdiğinde veya mal varlığı yetersiz kaldığında, nafaka alacaklısının hakları **kanun önünde imtiyazlı** kabul edilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İflas durumunda öncelik sırası nasıldır?",
+      "paragraphs": [
+        "Borçlunun iflası halinde malların satışından elde edilen para, önceden belirlenmiş bir sıraya göre dağıtılır. Nafaka alacakları, bu dağılımda birinci sırada yer alan imtiyazlı alacaklar grubundadır.",
+        "İflastan önceki son bir yıl içinde tahakkuk etmiş olan nafaka alacaklarınız, diğer pek çok borçtan önce ödenmek zorundadır. Bu durum, alacağınızın güvence altına alınması için **hayati bir koruma** sağlar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İcranın geri bırakılması mümkün mü?",
+      "paragraphs": [
+        "Borçlular bazen icra takibini durdurmak için mahkemeye başvurabilirler. Ancak nafaka kararlarında, borçlunun icrayı durdurmak için süre isteme veya teminat gösterme gibi bir hakkı yoktur.",
+        "Mahkeme kararı ile hükmedilen nafaka borcunda, icranın geri bırakılmasına karar verilemez. Bu da sürecin kesintisiz devam etmesini sağlayan önemli bir kuraldır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Borçlu ödeme yapmamak için yalan söylerse?",
+      "paragraphs": [
+        "Borçlu, aciz durumda olduğunu iddia etse dahi, asgari ücretin üzerinde bir geçim sürdürdüğü tespit edilirse, gelirinin belirli bir kısmını icra dairesine yatırmakla yükümlüdür.",
+        "Bu yükümlülüğü yerine getirmeyen borçlu hakkında tazyik hapsi uygulanabilir. Borçlunun üçüncü şahıslardan yardım alması, icra dairesine ödeme yapma zorunluluğunu ortadan kaldırmaz."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İcra takibi başlatmak için elinizdeki mahkeme ilamı ile icra dairesine başvurun.",
+    "Takip talebinizde nafaka alacağınızın imtiyazlı olduğunu belirtin.",
+    "Borçlunun mal varlığı hakkında araştırma yapılmasını talep edin.",
+    "Borçlu ödeme yapmıyorsa tazyik hapsi için şikayet hakkınızı kullanın.",
+    "İcra dairesi aracılığıyla borçlunun gelirine ve mal varlığına haciz uygulayın."
+  ],
+  "documents": [
+    "Nafaka ödenmesine dair mahkeme ilamı",
+    "İcra takip talebi",
+    "Borçlunun mal varlığını gösterir belgeler",
+    "İcra dairesi tarafından düzenlenen ödeme emri"
+  ],
+  "faq": [
+    {
+      "q": "Nafaka alacağım diğer borçlardan önce mi ödenir?",
+      "a": "Evet, nafaka alacakları iflas halinde birinci sırada yer alan imtiyazlı alacaklar arasındadır."
+    },
+    {
+      "q": "Borçlu icrayı durdurabilir mi?",
+      "a": "Hayır, nafaka hükümlerinde icranın geri bırakılması için süre veya teminat kararı verilemez."
+    },
+    {
+      "q": "Borçlu ödemezse hapis cezası alır mı?",
+      "a": "Belirlenen yükümlülükleri yerine getirmeyen borçlu hakkında, şikayet üzerine tazyik hapsine karar verilebilir."
+    },
+    {
+      "q": "Başka aciz vesikası olan alacaklılar varsa ne olur?",
+      "a": "Birden fazla aciz vesikası sahibi alacaklı varsa, talep tarihi sırasıyla öncelik hakkı kullanılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "nafaka-davasi-nedir",
+  "angle": "İcra sırası imtiyazı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

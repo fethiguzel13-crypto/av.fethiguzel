@@ -1,0 +1,109 @@
+{
+  "slug": "kredi-karti-itiraz",
+  "title": "Kredi Kartı Harcama İtirazı Nasıl Yapılır?",
+  "description": "Kredi kartı harcamasına nasıl itiraz edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Por…",
+  "h1": "Kredi kartı harcamasına nasıl itiraz edilir?",
+  "keywords": [
+    "kredi kartı itiraz",
+    "yetkisiz kart harcaması"
+  ],
+  "category": "Tüketici",
+  "related": [
+    "kredi-borcu-yapislandirma",
+    "kredi-notu-nedir",
+    "kredi-karti-asgari-odeme",
+    "tuketici-hakem-heyeti",
+    "tuketici-kredisi-cayma",
+    "abonelik-iptali-tuketici"
+  ],
+  "links": [
+    {
+      "label": "TKHK",
+      "href": "/kategori/tkhk"
+    },
+    {
+      "label": "Banka",
+      "href": "/ara?q=kredi%20kart%C4%B1"
+    }
+  ],
+  "lead": "Kredi kartı ekstrenizde yapmadığınız bir harcama gördüğünüzde ilk yapmanız gereken kart çıkaran kuruluşa başvurmaktır. **Yetkisiz işlemler** için bankanızla iletişime geçerek durumu hemen bildirmelisiniz.",
+  "keyInsight": "Kredi kartı sözleşmeleri yazılı veya mesafeli kurulmadıkça geçerli olmaz ve bankalar yıllık aidatsız kart sunmak zorundadır.",
+  "sections": [
+    {
+      "heading": "Ekstreyi İncelerken Karşılaştığınız Durum",
+      "paragraphs": [
+        "Hesap özetinizi elinize aldınız ve tanımadığınız harcamalar fark ettiniz. Asıl soru bu borcun sizin onayınızla yapılıp yapılmadığıdır. **Kredi kartı** ekstresindeki her kalemi dikkatle kontrol etmeniz gerekir.",
+        "Tüketici olarak kartınızla ilgili yapılan işlemlerin size ait olmadığını fark ettiğiniz an harekete geçmelisiniz. Bankanın size sunduğu sözleşme şartları ve yapılan harcamaların mahiyeti burada önem taşır."
+      ],
+      "bullets": [
+        "Ekstreyi kalıcı veri saklayıcıları ile inceleyin",
+        "Tanımadığınız tutarları not edin"
+      ]
+    },
+    {
+      "heading": "Banka ile İletişim ve Bildirim Süreci",
+      "paragraphs": [
+        "Harcamaya itiraz etmek için kartı veren kuruluşun yolunu tutarsınız. İtirazınızı **kalıcı veri saklayıcısı** kullanarak bankaya iletmek en güvenli yöntemdir.",
+        "Bankalar tüketicilere yıllık üyelik aidatı ve benzeri ücretler alınmayan bir kredi kartı türü sunmak zorundadır. Kartınızla ilgili hesap hareketlerinde bu tür detayları da göz önünde bulundurun."
+      ],
+      "bullets": [
+        "Yazılı veya kalıcı veri ile başvurun",
+        "Açık talimatınız olmayan işlemleri belirtin"
+      ]
+    },
+    {
+      "heading": "Sözleşme Koşulları ve Tüketici Hakları",
+      "paragraphs": [
+        "Kredi kartı sözleşmeleri belirli kurallara bağlanmıştır. Ödemenin üç aydan uzun süre ertelenmesi veya taksitlendirilmesi durumunda tüketici kredisi hükümleri gündeme gelebilir.",
+        "Geçerli bir sözleşme kurulmamışsa, kredi veren sonradan bu geçersizliği aleyhinize kullanamaz. **Açık talimatınız** olmadan hesaba bağlı ek ürünler açılamaz."
+      ],
+      "bullets": [
+        "Sözleşmenin yazılı kurulma şartına bakın",
+        "Kredili mevduat açılışlarında talimatınızı kontrol edin"
+      ]
+    },
+    {
+      "heading": "Ödeme ve İtiraz Dengesi",
+      "paragraphs": [
+        "Birden çok borcunuz varsa, ödeme gününde hangi borcu kapatmak istediğinizi bildirebilirsiniz. Bildirim yapmazsanız alacaklının makbuzda gösterdiği borç için ödeme yapılmış sayılır.",
+        "İtiraz sürecinde bankanın size yaptığı bilgilendirmeleri ve hesap dökümlerini saklayın. **Hatalı harcamalar** için atacağınız adımlar hak kaybını önler."
+      ],
+      "bullets": [
+        "Ödeme bildirimlerine dikkat edin",
+        "Makbuz ve dekontları saklayın"
+      ]
+    }
+  ],
+  "steps": [
+    "Kredi kartı ekstrenizi ve hesap hareketlerinizi detaylıca inceleyin.",
+    "Yapmadığınız veya şüpheli gördüğüm harcamaları belirleyin.",
+    "Kartı veren bankaya yazılı olarak veya kalıcı veri saklayıcısı ile itirazınızı iletin.",
+    "Banka tarafından sunulan bilgilendirmeleri ve yanıtları saklayın."
+  ],
+  "documents": [
+    "Kredi kartı ekstresi",
+    "Banka başvuru dilekçesi",
+    "Kalıcı veri saklayıcısı çıktısı",
+    "Hesap hareketleri dökümü"
+  ],
+  "faq": [
+    {
+      "q": "Tanımadığım harcama için ilk kime başvurmalıyım?",
+      "a": "Kartı çıkaran kuruluşa yani ilgili bankaya başvurarak harcamaya itiraz etmelisiniz."
+    },
+    {
+      "q": "Kredi kartı sözleşmesi nasıl geçerli olur?",
+      "a": "Kredi kartı sözleşmelerinin yazılı veya mesafeli olarak kurulması gereklidir."
+    },
+    {
+      "q": "Bankalar yıllık aidatsız kart sunmak zorunda mı?",
+      "a": "Kart çıkaran kuruluşlar, tüketicilere yıllık üyelik aidatı ve benzeri isim altında ücret tahsil etmedikleri bir kredi kartı türü sunmak zorundadır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "kredi-karti-itiraz",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

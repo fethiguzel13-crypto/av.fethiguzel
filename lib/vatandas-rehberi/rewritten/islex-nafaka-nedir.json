@@ -1,0 +1,113 @@
+{
+  "slug": "islex-nafaka-nedir",
+  "title": "İştirak Nafakası Nasıl Hesaplanır?",
+  "description": "İştirak nafakası kabaca nasıl hesaplanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portal…",
+  "h1": "İştirak nafakası kabaca nasıl hesaplanır?",
+  "keywords": [
+    "iştirak nafakası hesaplama",
+    "çocuk nafakası hesabı"
+  ],
+  "category": "Aile",
+  "related": [
+    "nafaka-davasi-nedir",
+    "istirak-nafakasi-nedir",
+    "nafaka-artirim-davasi",
+    "velayet-davasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/nafaka-davasi-nedir"
+    },
+    {
+      "label": "Nafaka",
+      "href": "/hesaplama/nafaka"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    }
+  ],
+  "lead": "Boşanma sonrası çocuğun bakım ve eğitim giderleri için ödenen iştirak nafakası, tarafların malî gücü oranında belirlenir. Bu ödeme çocuk içindir ve yoksulluk nafakasından farklıdır.",
+  "keyInsight": "Nafaka miktarı sabit kalmaz; tarafların malî durumlarının değişmesi veya hakkaniyetin gerektirdiği hâllerde artırılması ya da azaltılması istenebilir.",
+  "sections": [
+    {
+      "heading": "Halk arasındaki adıyla işlek nafaka nedir?",
+      "paragraphs": [
+        "Boşanma kapıya dayanmış, evdeki eşyalar toplanırken asıl kaygı başlar: Çocuğun masrafları nasıl karşılanacak? Halk arasında ‘işlek nafaka’ olarak anılan kavram, hukuktaki adıyla iştirak nafakasıdır.",
+        "Bu ödeme doğrudan çocuk içindir. Yoksulluk nafakası ile karıştırmamak gerekir çünkü yoksulluk nafakası boşanma yüzünden yoksulluğa düşecek tarafa **malî gücü oranında** verilir."
+      ],
+      "bullets": [
+        "Çocuk için ödenir.",
+        "Tarafların malî gücüne göre belirlenir."
+      ]
+    },
+    {
+      "heading": "Miktar nasıl belirlenir?",
+      "paragraphs": [
+        "Hâkim karşısına çıktığınızda elinizde masraf listeleri olur. Çocuğun okul, sağlık ve barınma gibi temel ihtiyaçları hesaba katılır.",
+        "Ödeme yapacak kişinin **malî gücü** dikkate alınarak adil bir denge kurulur. Tarafların ekonomik durumu sonradan değişirse miktar yeniden masaya yatırılabilir."
+      ],
+      "bullets": [
+        "Gelir durumu kıstas alınır.",
+        "Hakkaniyet gözetilir."
+      ]
+    },
+    {
+      "heading": "Zaman içinde miktar değişebilir mi?",
+      "paragraphs": [
+        "Hayat pahalanır, çocuğun ihtiyaçları büyür. Tarafların malî durumlarının değişmesi veya hakkaniyetin gerektirdiği hâllerde iradın **artırılması veya azaltılmasına** karar verilebilir.",
+        "Bu değişiklik kendiliğinden olmaz; mahkemeden talep edilmesi gerekir."
+      ],
+      "bullets": [
+        "İhtiyaçlar artabilir.",
+        "Gelirler düşebilir veya yükselebilir."
+      ]
+    },
+    {
+      "heading": "Ödenmezse ne yapılır?",
+      "paragraphs": [
+        "Mahkeme kararından sonra ödeme yapılmazsa süreç icra yoluyla takip edilir. Nafaka ödemekle yükümlü kişinin Sosyal Güvenlik Kurumu ile bağlantısı varsa, başvuru aranmaksızın maaştan tahsilat yoluna gidilir.",
+        "Kararın bir örneği ilgili icra müdürlüğüne gönderilerek süreç resen işletilir."
+      ],
+      "bullets": [
+        "İcra müdürlüğü devreye girer.",
+        "Maaştan kesinti yapılabilir."
+      ]
+    }
+  ],
+  "steps": [
+    "İştirak nafakası talebinizi ve çocuğun durumunu netleştirin.",
+    "Çocuğun masraflarını ve gider belgelerini toplayın.",
+    "Velayet ve nafaka talebi için mahkemeye başvurun.",
+    "Hâkimin verdiği nafaka kararını takip edin.",
+    "Ödeme yapılmazsa icra müdürlüğü üzerinden tahsilat yoluna gidin."
+  ],
+  "documents": [
+    "Mahkeme kararı",
+    "Çocuk gider belgeleri",
+    "Nüfus kayıt örneği",
+    "Gelir durumunu gösterir belgeler"
+  ],
+  "faq": [
+    {
+      "q": "İşlek nafaka ile iştirak nafakası aynı şey mi?",
+      "a": "Evet, halk arasında yanlış telaffuz edilen işlek nafaka, hukuktaki iştirak nafakasını ifade eder ve çocuk için ödenir."
+    },
+    {
+      "q": "Nafaka miktarı sonradan değiştirilebilir mi?",
+      "a": "Tarafların malî durumlarının değişmesi veya hakkaniyetin gerektirdiği hâllerde iradın artırılması ya da azaltılmasına karar verilebilir."
+    },
+    {
+      "q": "Nafaka ödenmezse doğrudan maaştan kesilir mi?",
+      "a": "Yükümlünün Sosyal Güvenlik Kurumu bağlantısı varsa, başvuru aranmaksızın maaştan icra yoluyla tahsil edilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "nafaka-davasi-nedir",
+  "angle": "İştirak nafakası kabaca hesap yaklaşımı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

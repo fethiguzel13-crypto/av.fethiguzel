@@ -1,0 +1,112 @@
+{
+  "slug": "cevre-izin-denetim",
+  "title": "Çevre idari para cezası — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Çevre idari para cezası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
+  "h1": "Çevre idari para cezası",
+  "keywords": [
+    "çevre idari para cezası",
+    "cevre izin denetim"
+  ],
+  "category": "İdare",
+  "related": [
+    "cimer-sikayet",
+    "idari-dava-nasil-acilir",
+    "belediye-cezasi-itiraz",
+    "iptal-davasi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/cimer-sikayet"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=%C3%A7evre"
+    }
+  ],
+  "lead": "Kapınıza çevre denetimi için görevliler geldiğinde ya da ansızın bir ceza tutanağı elinize ulaştığında telaşlanmayın. Süreç, tespit edilen aykırılığın niteliğine göre mevzuattaki kurallarla yürütülür.",
+  "keyInsight": "Belediye encümenince uygulanacak işlemlerde **on iş günü** gibi kritik süreleri kaçırmamak tüm haklarınızı korumanın temelidir.",
+  "sections": [
+    {
+      "heading": "Denetim kapınıza dayandığında ne olur?",
+      "paragraphs": [
+        "Tesviye, inşaat veya çevreye etkisi olan faaliyetleriniz sırasında yetkililer sahada inceleme yapar. Bu inceleme sırasında binanın durumu, imar mevzuatına uygunluğu ve çevreye etkileri yerinde tespit edilir.",
+        "Yapılan tespitler sonucunda aykırılık görülürse, sorumlular hakkında ilgili idare tarafından resmi tutanak tutulur ve süreç resmen başlatılmış olur."
+      ],
+      "bullets": [
+        "Yerinde tespit yapılır.",
+        "Tutanak düzenlenir."
+      ]
+    },
+    {
+      "heading": "Encümen kararını ne zaman verir?",
+      "paragraphs": [
+        "Aykırılığın tespit edildiği tarihten itibaren **on iş günü** içinde ilgili idare encümeni toplanır. Sorumlular hakkında üstlenilen sorumluluk durumuna göre ayrı ayrı idari müeyyideler kararlaştırılır.",
+        "Bu kurul aşamasında dosyanız incelenir ve binanın yerleşmeye, çevreye etkisi ile can ve mal emniyetini tehdit edip etmediği değerlendirilir."
+      ],
+      "bullets": [
+        "On iş günü içinde toplanma",
+        "Encümen değerlendirmesi"
+      ]
+    },
+    {
+      "heading": "Cezalar hangi kriterlere göre hesaplanır?",
+      "paragraphs": [
+        "Uygulanacak idari para cezası, yapının mülkiyet durumuna ve bulunduğu alanın özelliğine göre belirlenir. Binanın sınıfı, grubu ve inşaat alanı hesaba katılır.",
+        "Kanunda belirtilen taban miktarların altında kalmamak şartıyla, metrekare üzerinden yapılan hesaplamalar takvim yılı başındaki yeniden değerleme oranına göre artırılarak uygulanır."
+      ],
+      "bullets": [
+        "İnşaat alanı ve sınıfı",
+        "Yeniden değerleme oranı"
+      ]
+    },
+    {
+      "heading": "Köylerde ve kırsalda kurallar nasıl işler?",
+      "paragraphs": [
+        "Belediye ve mücavir alanlar dışında, köy yerleşik alanlarında yapılacak tarım ve hayvancılık amaçlı yapılar için farklı usuller geçerlidir. Projelerin valilik onayı ve muhtarlığa bildirim şartı aranır.",
+        "Şartlar sağlanmadan veya projeye aykırı yapı yapıldığı muhtar tarafından tespit edilirse, durum ivedilikle valiliğe bildirilir ve yasal süreç tetiklenir."
+      ],
+      "bullets": [
+        "Köy yerleşik alanı istisnaları",
+        "Muhtarlık bildirimi"
+      ]
+    }
+  ],
+  "steps": [
+    "Tutanak ve tebligat evrakını tarihleri ile birlikte saklayın.",
+    "Belediye veya ilgili idarenin tespit ettiği eksiklikleri inceleyin.",
+    "Süre aşımı yaşamamak adına **on iş günü** kuralını dikkate alarak hazırlık yapın.",
+    "Gerekli etüt ve projelerin durumunu uzman desteğiyle kontrol edin."
+  ],
+  "documents": [
+    "İdari para cezası tutanağı",
+    "Yapı ruhsatı veya etüt projeleri",
+    "Encümen karar tebligatı",
+    "Tapu ve mülkiyet belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "Cezayı öğrendikten sonra ilk ne yapmalıyım?",
+      "a": "Tebligat tarihini ve tutanak detaylarını inceleyerek **on iş günü** gibi kritik süreleri takip etmelisiniz."
+    },
+    {
+      "q": "Cezalar neye göre belirleniyor?",
+      "a": "Yapının sınıfına, inşaat alanına, çevreye etkisine ve takvim yılı başındaki yeniden değerleme oranlarına göre hesaplanır."
+    },
+    {
+      "q": "Köy yerindeki yapılar için kim ruhsat verir?",
+      "a": "Köy yerleşik alanlarındaki bazı tarımsal yapılar için valilik onayı ve muhtarlık süreçleri işletilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "cimer-sikayet",
+  "angle": "Çevre idari para cezası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

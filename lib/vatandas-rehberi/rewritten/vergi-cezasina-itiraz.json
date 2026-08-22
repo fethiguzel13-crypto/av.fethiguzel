@@ -1,0 +1,109 @@
+{
+  "slug": "vergi-cezasina-itiraz",
+  "title": "Vergi Cezası: İndirim, Dava ve Otuz Günlük Süre",
+  "description": "Vergi ceza ihbarnamesi geldi ne yapmalı, cezada indirim nasıl alınır, dava açarsam indirim hakkım gider mi? VUK m.376 ve m.377 çerçevesinde.",
+  "h1": "Vergi cezasına nasıl itiraz edilir?",
+  "keywords": [
+    "vergi cezası",
+    "vergi ceza ihbarnamesi",
+    "cezada indirim",
+    "vergi ziyaı cezası",
+    "usulsüzlük cezası",
+    "vergi mahkemesi"
+  ],
+  "category": "Vergi",
+  "related": [
+    "zamanasimi-sureleri"
+  ],
+  "links": [
+    {
+      "label": "VUK m.376 — Cezalarda indirim",
+      "href": "/mevzuat/vuk/madde-376"
+    },
+    {
+      "label": "VUK m.377 — Dava açma hakkı",
+      "href": "/mevzuat/vuk/madde-377"
+    },
+    {
+      "label": "Gecikme zammı hesaplama aracı",
+      "href": "/hesaplama/gecikme-zammi"
+    }
+  ],
+  "lead": "Vergi ceza ihbarnamesi elinize ulaştığında, telaş yerine süreci dikkatle yönetmek gerekir. Karşınızda cezanın yarısını sildirmek veya hukuki yollara başvurarak cezaya itiraz etmek gibi seçenekler bulunur.",
+  "keyInsight": "İndirim talebi ile dava açma hakkı birbirini dışlar; yani indirim için taahhüt verip aynı zamanda dava açarsanız, indirim hakkınız tamamen yanar.",
+  "sections": [
+    {
+      "heading": "İhbarname geldiğinde ne yapmalı?",
+      "paragraphs": [
+        "Kapınıza gelen vergi ceza ihbarnamesi, aslında devletin sizden ne kadar vergi ve ceza talep ettiğini gösteren bir belgedir. Bu belgenin üzerindeki tebliğ tarihi, tüm yasal haklarınızın başlangıç noktasıdır.",
+        "İhbarnameyi elinize aldığınızda ilk iş, belgenin dayanağı olan inceleme raporunu veya vergi dairesinin gerekçesini incelemektir. Neden bu cezayı yediğinizi anlamadan doğru bir karar veremezsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Cezada indirim nasıl alınır?",
+      "paragraphs": [
+        "Eğer cezanın haksız olmadığını düşünüyor veya mahkeme süreciyle uğraşmak istemiyorsanız, indirim mekanizması sizin için bir çıkış yoludur. **Tebliğ tarihinden itibaren otuz gün** içinde vergi dairesine başvurarak kesilen cezanın yarısını sildirebilirsiniz.",
+        "Bu indirimden yararlanmak için cezayı vadesinde ödemeniz veya teminat göstererek belirli bir sürede ödeme taahhüdünde bulunmanız gerekir."
+      ],
+      "bullets": [
+        "Süre: Tebliğden itibaren otuz gün.",
+        "İndirim oranı: Kesilen cezanın yarısı.",
+        "Kapsam: Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezaları."
+      ]
+    },
+    {
+      "heading": "Dava yolu ne zaman seçilmeli?",
+      "paragraphs": [
+        "İhbarnameye konu olan işlemin hukuka aykırı olduğunu, hatalı bir matrah belirlendiğini veya usul hatası yapıldığını düşünüyorsanız dava açmak en doğal hakkınızdır. **Vergi mahkemesinde** açılacak bu dava, sürecin yargı önünde çözülmesini sağlar.",
+        "Dava açtığınızda, vergi dairesinin tahsilat süreci kural olarak durur. Ancak mahkeme kararı aleyhinize sonuçlanırsa, ödemeniz gereken tutara gecikme faizi de ekleneceğini unutmamalısınız."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hangi yolu seçmek daha mantıklı?",
+      "paragraphs": [
+        "Karar verirken üç soruya odaklanın: Cezanın hukuki dayanağı ne kadar zayıf, tutar ne kadar büyük ve ödeme gücünüz nedir? Eğer dayanak çok zayıfsa dava, güçlü bir dayanak varsa indirim yolu genellikle daha akılcıdır.",
+        "Unutmayın, iki yolu aynı anda denemek imkansızdır. Bir kez indirim taahhüdü verdiğinizde, artık mahkemeye gitme şansınızı kaybetmiş olursunuz."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İhbarnamenin üzerindeki tebliğ tarihini not edin.",
+    "İhbarnameye dayanak teşkil eden inceleme raporunu vergi dairesinden talep edin.",
+    "Cezanın neden kesildiğini ve dayanakların hukuki gücünü değerlendirin.",
+    "İndirim yolunu seçecekseniz, otuz gün içinde vergi dairesine başvurup yazılı taahhütte bulunun.",
+    "Dava yolunu seçecekseniz, indirim taahhüdü vermeden vergi mahkemesine başvurun.",
+    "Seçtiğiniz yolun ödeme takvimine sadık kalın."
+  ],
+  "documents": [
+    "Vergi ceza ihbarnamesi",
+    "İnceleme raporu",
+    "Ödeme taahhütnamesi",
+    "Dava dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Cezada indirim oranı tam olarak nedir?",
+      "a": "Kesilen cezanın yarısı oranında indirim yapılır."
+    },
+    {
+      "q": "İndirim için sürem ne kadar?",
+      "a": "İhbarnamenin tebliğinden itibaren otuz gün içerisinde başvuru yapmanız gerekir."
+    },
+    {
+      "q": "Hem indirim alıp hem dava açabilir miyim?",
+      "a": "Hayır, bu iki yol birbirini dışlar. İndirim taahhüdü verip dava açarsanız indirim hakkınız iptal edilir."
+    },
+    {
+      "q": "Usulsüzlük cezaları da bu kapsama girer mi?",
+      "a": "Evet, vergi aslına bağlı olsun ya da olmasın, usulsüzlük ve özel usulsüzlük cezaları da indirim kapsamındadır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.9,
+  "voice": "narrative",
+  "source": "gemini"
+}

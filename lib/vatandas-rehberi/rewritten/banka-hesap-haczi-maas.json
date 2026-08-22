@@ -1,0 +1,113 @@
+{
+  "slug": "banka-hesap-haczi-maas",
+  "title": "Maaş hesabına haciz — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Maaş hesabına haciz hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
+  "h1": "Maaş hesabına haciz",
+  "keywords": [
+    "maaş hesabına haciz",
+    "banka hesap haczi maas"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "maas-haczi-orani",
+    "banka-hesabi-haczi",
+    "haciz-nasil-kaldirilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=maa%C5%9F"
+    }
+  ],
+  "lead": "Maaş hesabınıza haciz konulduğunda, iş yerinize ve bankanıza resmi tebligat yapılır. Süreç, yasal bildirimler ve kesinti usulleriyle yürütülür.",
+  "keyInsight": "İş yeriniz, tebligatın ardından haciz miktarını kesip **nihayet bir hafta içinde** icra dairesine bildirmek zorundadır.",
+  "sections": [
+    {
+      "heading": "Ödeme emri nasıl gelir?",
+      "paragraphs": [
+        "Borçlu olduğunuz takip türüne göre icra memuru tarafınıza ödeme emri gönderir. Bu belgede borcun ve takip masraflarının ödenmesi için belirli şartlar yer alır.",
+        "Senet veya kambiyo durumuna göre **beş gün** veya **on gün** içinde ilgili icra dairesi hesabına ödeme yapmanız ya da yasal yollara başvurmanız ihtar edilir."
+      ],
+      "bullets": [
+        "Ödeme emri adrese gönderilir",
+        "İtiraz süreleri başlar"
+      ]
+    },
+    {
+      "heading": "İş yerinizin yükümlülüğü nedir?",
+      "paragraphs": [
+        "Devlet işlerinde veya özel kurumlarda çalışanların maaş ve ücretlerinden kesinti yapılması için icra dairelerinden tebligat çıkarılır.",
+        "Kurum yetkilileri, haczin yapıldığını ve maaş miktarını **nihayet bir hafta içinde** icra dairesine bildirmekle yükümlüdür."
+      ],
+      "bullets": [
+        "Maaş haczi iş yerine bildirilir",
+        "Kesilen tutar daireye gönderilir"
+      ]
+    },
+    {
+      "heading": "İş değişikliği nasıl bildirilir?",
+      "paragraphs": [
+        "Borçlunun memuriyetinde veya çalıştığı kurumda bir değişiklik olması durumunda süreç durmaz. Maaş alma durumunun değişmesi veya hizmetin sona ermesi derhal bildirilmelidir.",
+        "İkinci **haciz işleminden** yeni şube veya amirlik anında haberdar edilir ve borç bitene kadar kesintiler devam eder."
+      ],
+      "bullets": [
+        "İşten ayrılma durumu bildirilir",
+        "Yeni birime tebligat yapılır"
+      ]
+    },
+    {
+      "heading": "Banka ve çek işlemleri nasıl etkilenir?",
+      "paragraphs": [
+        "Bankalar hesap açılışlarında ve çek işlemlerinde yasaklılık durumlarını titizlikle araştırmak zorundadır. Karşılıksız çek durumlarında bankaların kanuni ödeme yükümlülükleri devreye girer.",
+        "Hamiline çek defterleri ve ödeme tutarları ilgili kurumlara elektronik ortamda bildirilir. **Gelir İdaresi Başkanlığı** süreçleri bu veriler üzerinden takip eder."
+      ],
+      "bullets": [
+        "Risk merkezi sorgulaması yapılır",
+        "Bildirimler elektronik ortamda iletilir"
+      ]
+    }
+  ],
+  "steps": [
+    "Ödeme emri elinize ulaştığında tebliğ tarihini ve yazılı süreleri kontrol edin.",
+    "İş yerinize gelen icra tebligatını insan kaynakları veya muhasebe departmanıyla paylaşın.",
+    "Maaşınızdan yapılacak kesinti miktarını ve **bir haftalık** bildirim süresini takip edin.",
+    "İş veya maaş gibi durumlarda bir değişiklik olursa bunu derhal icra dairesine bildirin.",
+    "Banka hesaplarınızdaki hareketleri ve olası kesintileri düzenli olarak inceleyin."
+  ],
+  "documents": [
+    "İcra dairesinden gelen ödeme emri",
+    "İş yerine ulaşan haciz tebligatı",
+    "Kimlik belgesi veya pasaport",
+    "Maaş bordrosu veya gelir belgesi"
+  ],
+  "faq": [
+    {
+      "q": "İş yerim maaş haczini kaç gün içinde bildirmelidir?",
+      "a": "İş yeriniz veya kurumunuz, tebligatın ardından haczin uygulandığını ve maaş miktarını **nihayet bir hafta içinde** icra dairesine bildirmek zorundadır."
+    },
+    {
+      "q": "İşten ayrıldığımda haciz ne olur?",
+      "a": "İşten ayrıldığınızda veya maaş aldığınız yer değiştiğinde, kurum yetkilileri bu durumu derhal icra dairesine bildirmek ve yeni şubeyi haberdar etmek mecburiyetindedir."
+    },
+    {
+      "q": "Ödeme emrine itiraz süresi ne kadardır?",
+      "a": "Takip türüne ve belgenin niteliğine göre kanunda öngörülen **beş gün** veya **on gün** gibi süreler içinde yasal haklarınızı kullanmanız gerekir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Maaş hesabına haciz",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

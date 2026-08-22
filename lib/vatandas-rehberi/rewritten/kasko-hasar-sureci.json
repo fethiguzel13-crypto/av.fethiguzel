@@ -1,0 +1,111 @@
+{
+  "slug": "kasko-hasar-sureci",
+  "title": "Kasko hasar süreci — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Kasko hasar süreci hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
+  "h1": "Kasko hasar süreci",
+  "keywords": [
+    "kasko hasar süreci",
+    "kasko hasar sureci"
+  ],
+  "category": "Sigorta",
+  "related": [
+    "sigorta-tazminat-reddi",
+    "trafik-sigortasi-hasar",
+    "trafik-kazasi-tazminati"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/sigorta-tazminat-reddi"
+    },
+    {
+      "label": "KTK",
+      "href": "/kategori/ktk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=kasko"
+    }
+  ],
+  "lead": "Aracınız hasar gördüğünde ya da yolda kaldığında, trafik zabıtası aracı kaldırmaya yetkilidir; ancak alkollü araç kullanımı gibi durumlarda ağır cezai yaptırımlar uygulanır.",
+  "keyInsight": "Kollukça müdahil olunan maddi hasarlı kazalarda alkol veya uyuşturucu testi yapılması zorunludur.",
+  "sections": [
+    {
+      "heading": "Yolda kalan veya hasar gören araçlar",
+      "paragraphs": [
+        "Yolu kullananları uzun süre etkileyecek şekilde park edilmiş, terkedilmiş veya hasara uğramış araçların kaldırılıp götürülmesine trafik zabıtası yetkilidir. Bu tür durumlarda trafik akışının engellenmemesi için yetkililer müdahale eder.",
+        "Borcun ifası borçlunun sorumlu tutulamayacağı sebeplerle imkânsızlaşırsa borç sona erer. Karşılıklı borç yükleyen sözleşmelerde imkânsızlık sebebiyle borçtan kurtulan borçlu, almış olduğu edimi geri vermekle yükümlüdür."
+      ],
+      "bullets": [
+        "Trafik zabıtası hasarlı araçları kaldırabilir.",
+        "İmkânsızlık halinde borç sona erer."
+      ]
+    },
+    {
+      "heading": "Alkol ve uyuşturucu kontrolleri",
+      "paragraphs": [
+        "Uyuşturucu veya uyarıcı maddeleri almış olan sürücüler ile alkollü olan sürücülerin karayolunda araç sürmeleri kesinlikle yasaktır. Kolluk kuvvetleri teknik cihazlar ve test kitleri kullanarak bu kontrolleri gerçekleştirir.",
+        "Kişinin yaralanmalı, ölümlü ya da kollukça müdahil olunan maddi hasarlı trafik kazasına karışması hâlinde alkol veya uyuşturucu muayenesine tabi tutulması zorunludur."
+      ],
+      "bullets": [
+        "Teknik cihazla ölçüm zorunludur.",
+        "Kazaya karışanlar kontrole tabidir."
+      ]
+    },
+    {
+      "heading": "Ölçüme itiraz ve numune alma",
+      "paragraphs": [
+        "Teknik cihaz ile yapılan ölçüme itiraz eden veya bu cihaz ile ölçüm yapılmasına müsaade etmeyen sürücüler en yakın adli tıp kurumuna, adli tabipliğe veya Sağlık Bakanlığına bağlı sağlık kuruluşlarına götürülür.",
+        "Bu kuruluşlarda vücuttan kan, tükürük veya idrar gibi örnekler alınarak tespit yapılır. Kazada ölüm veya cihaza üfleyemeyecek kadar yaralanma hâlinde de aynı şekilde örnekler alınır."
+      ],
+      "bullets": [
+        "İtiraz halinde sağlık kuruluşuna gidilir.",
+        "Kan veya tükürük örneği alınır."
+      ]
+    },
+    {
+      "heading": "Alkol sınırları ve idari yaptırımlar",
+      "paragraphs": [
+        "Yapılan tespit sonucunda **0.50 promilin** üzerinde alkollü olarak araç kullandığı tespit edilen sürücüler hakkında 25.000 Türk lirası idari para cezası verilir ve sürücü belgesi **altı ay** süreyle geri alınır.",
+        "Hususi otomobil dışındaki araçları alkollü kullanan sürücüler bakımından promil alt sınırı **0.21** olarak uygulanır. Tekrar eden ihlallerde para cezaları katlanarak artar."
+      ],
+      "bullets": [
+        "Otomobil için sınır 0.50 promildir.",
+        "Diğer araçlar için sınır 0.21 promildir."
+      ]
+    }
+  ],
+  "steps": [
+    "Kazaya karıştıysanız veya araç yolda kaldıysa trafik zabıtasının talimatlarına uyun.",
+    "Kolluk kuvvetlerinin alkol veya uyuşturucu kontrolü için yapacağı teknik cihaz ölçümüne katılın.",
+    "Ölçüme itiraz ediyorsanız en yakın sağlık kuruluşuna gidilmesini sağlayın.",
+    "Gerekli durumlarda kan, tükürük veya idrar örneklerinin alınmasına izin verin."
+  ],
+  "documents": [
+    "Sürücü belgesi",
+    "Ruhsat",
+    "Kolluk tutanakları",
+    "Sağlık kuruluşu test raporu"
+  ],
+  "faq": [
+    {
+      "q": "Hasarlı araç yolda kalırsa kim kaldırır?",
+      "a": "Yolu uzun süre etkileyecek şekilde bırakılan veya hasar gören araçları trafik zabıtası kaldırıp götürmeye yetkilidir."
+    },
+    {
+      "q": "Alkol ölçümüne itiraz edilebilir mi?",
+      "a": "Teknik cihazla ölçüme itiraz edenler veya ölçüme izin vermeyenler adli tabipliğe veya sağlık kuruluşuna götürülerek kan, tükürük veya idrar örneği vermek zorundadır."
+    },
+    {
+      "q": "Hususi otomobil dışındaki araçlar için alkol sınırı nedir?",
+      "a": "Hususi otomobil dışındaki araçları kullanan sürücüler bakımından promil alt sınırı 0.21 olarak uygulanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "sigorta-tazminat-reddi",
+  "angle": "Kasko hasar süreci",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

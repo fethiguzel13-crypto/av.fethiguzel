@@ -1,0 +1,124 @@
+{
+  "slug": "evde-bakim-maasi",
+  "title": "Evde bakım maaşı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Evde bakım maaşı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
+  "h1": "Evde bakım maaşı",
+  "keywords": [
+    "evde bakım maaşı",
+    "evde bakim maasi"
+  ],
+  "category": "Engelli Hakları",
+  "related": [
+    "engelli-raporu-nasil-alinir",
+    "engelli-maasi-sartlari",
+    "malulen-emeklilik"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/engelli-raporu-nasil-alinir"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=bak%C4%B1m"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    }
+  ],
+  "lead": "Evde bakım maaşı başvurusu yaparken, evdeki kişi başına düşen gelir sınırına ve bakım ihtiyacının resmi olarak belgelenmesine dikkat etmeniz gerekir.",
+  "keyInsight": "Ev içindeki toplam gelir hesaplanırken, aynı adreste yaşayan herkesin geliri hesaba katılır ve bu sınırın aşılması durumunda başvuru reddedilir.",
+  "sections": [
+    {
+      "heading": "Evde bakım maaşı nedir ve kimler başvurabilir?",
+      "paragraphs": [
+        "Evde bakım maaşı, akrabası ya da bakıcısı tarafından evde bakılan ve günlük yaşam aktivitelerini tek başına gerçekleştiremeyen engelli bireyler için ödenen bir destektir. Bu yardımdan yararlanabilmek için öncelikle kişinin sağlık kurulu raporunda bakım ihtiyacının açıkça belirtilmiş olması şarttır.",
+        "Başvuru sürecinde en kritik aşama ekonomik durumun tespittir. **Ev içindeki toplam gelir**, o döneme ait belirlenen sınırların altında kalmalıdır."
+      ],
+      "bullets": [
+        "Ağır engelli sağlık kurulu raporu",
+        "Aynı evde yaşayanların gelir durumu"
+      ]
+    },
+    {
+      "heading": "Hangi belgeler ve şartlar aranır?",
+      "paragraphs": [
+        "Kuruma başvuru yaparken evdeki bireylerin kimlik bilgileri, gelir belgeleri ve engelli sağlık kurulu raporu gibi temel evrakları tamamlamanız gerekir. Eksik belge süreci uzatabilir.",
+        "Bakımı üstlenecek kişinin, engelli bireye fiilen bakabilecek fiziksel ve ruhsal yeterliliğe sahip olması da kurum tarafından incelenir."
+      ],
+      "bullets": [
+        "Sağlık kurulu raporu",
+        "Gelir beyan belgeleri"
+      ]
+    },
+    {
+      "heading": "Gelir hesabı nasıl yapılır?",
+      "paragraphs": [
+        "Gelir hesaplanırken evde yaşayan herkesin maaşı, kira geliri ve benzeri tüm kazançları toplanır. Bu toplam tutar, evdeki kişi başına bölünerek ortalama aylık gelir bulunur.",
+        "**Kişi başına düşen gelir** belirlenen sınırın üzerindeyse, diğer şartlar sağlansa bile maaş onaylanmaz."
+      ],
+      "bullets": [
+        "Hanedeki toplam kazanç",
+        "Kişi başına düşen pay"
+      ]
+    },
+    {
+      "heading": "Başvuru süreci ve takip adımları",
+      "paragraphs": [
+        "Evrakları tamamladıktan sonra ilgili kuruma bizzat müracaat edersiniz. Kurum görevlileri, durumu yerinde incelemek üzere evinize bir heyet gönderir.",
+        "Heyet ziyareti sırasında evdeki yaşam koşulları ve bakım düzeni yerinde gözlemlenir. Bu aşamada verilen bilgilerin gerçeği yansıtması büyük önem taşır."
+      ],
+      "bullets": [
+        "Kurum müracaatı",
+        "Heyet incelemesi"
+      ]
+    },
+    {
+      "heading": "Süreci etkileyen durumlar nelerdir?",
+      "paragraphs": [
+        "Evdeki kişi sayısında, gelir durumunda veya engelli bireyin sağlık koşullarında bir değişiklik olduğunda bunu derhal kuruma bildirmelisiniz.",
+        "**Bildirim yükümlülüğünün yerine getirilmemesi**, ödenen maaşların durdurulmasına veya yasal faiziyle geri istenmesine yol açabilir."
+      ],
+      "bullets": [
+        "Gelir değişiklikleri",
+        "İkamet değişimi"
+      ]
+    }
+  ],
+  "steps": [
+    "Engelli sağlık kurulu raporunu alın.",
+    "Hanedeki toplam geliri hesaplayın.",
+    "Gerekli başvuru evraklarını toplayın.",
+    "İlgili kuruma bizzat başvuru yapın.",
+    "Heyet incelemesini bekleyin."
+  ],
+  "documents": [
+    "Engelli sağlık kurulu raporu",
+    "Kimlik belgeleri",
+    "Gelir durumunu gösterir belgeler",
+    "İkametgah belgesi",
+    "Vesikalık fotoğraflar"
+  ],
+  "faq": [
+    {
+      "q": "Her engelli evde bakım maaşı alabilir mi?",
+      "a": "Hayır, raporunda bakım ihtiyacı belirtilen ve hane geliri belirlenen sınırın altında olan kişiler bu haktan yararlanabilir."
+    },
+    {
+      "q": "Gelir hesabına kimler dahil edilir?",
+      "a": "Aynı evde yaşayan tüm aile bireylerinin gelirleri hesaba katılır."
+    },
+    {
+      "q": "Evde bakım maaşı kesilebilir mi?",
+      "a": "Hane gelirinin sınırı aşması veya bakım hizmetinin verilmediğinin tespiti halinde maaş kesilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "engelli-raporu-nasil-alinir",
+  "angle": "Evde bakım maaşı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

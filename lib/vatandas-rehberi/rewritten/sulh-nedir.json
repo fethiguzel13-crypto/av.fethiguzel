@@ -1,0 +1,115 @@
+{
+  "slug": "sulh-nedir",
+  "title": "Sulh — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Sulh hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "Sulh",
+  "keywords": [
+    "sulh",
+    "sulh nedir"
+  ],
+  "category": "Usul",
+  "related": [
+    "zamanaşimi-nedir",
+    "arabuluculuk-nasil-yapilir",
+    "hukuk-davasi-nasil-acilir",
+    "arabuluculuk-anlasma-belgesi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/zamanaşimi-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=sulh"
+    }
+  ],
+  "lead": "Mahkeme salonundasınız ve hâkim, dava dosyasını kapatmadan önce size son bir şans tanıyor. Uyuşmazlığı kendi iradenizle çözmeniz için önünüze sulh ve arabuluculuk yolu açılıyor.",
+  "keyInsight": "Mahkemenin sulhe teşvik ettiği ön inceleme aşamasında hazırlıksız yakalanmak veya süreci ciddiye almamak, hak arama yolunda önemli avantajları kaybetmenize yol açabilir.",
+  "sections": [
+    {
+      "heading": "Ön inceleme duruşmasında neler olur?",
+      "paragraphs": [
+        "Dilekçeler alışverişi bittikten sonra mahkeme sizi ön inceleme duruşmasına çağırır. Bu aşamada hâkim, dava şartlarını gözden geçirir ve tarafların üzerinde **serbestçe tasarruf** edebileceği konularda anlaşma zeminini arar.",
+        "Duruşma gününe gelirken **sulh için gerekli hazırlığı** yapmanız beklenir. Hâkim, tarafları dinleyerek hangi konularda anlaşamadığınızı netleştirir ve sizi sulh ya da arabuluculuğa yönlendirir."
+      ],
+      "bullets": [
+        "Dava şartları incelenir.",
+        "Anlaşılan ve anlaşılmayan hususlar tutanağa bağlanır.",
+        "Taraflar sulhe teşvik edilir."
+      ]
+    },
+    {
+      "heading": "Hâkim sizi neden sulhe çağırır?",
+      "paragraphs": [
+        "Uyuşmazlık konuları netleştikten sonra hâkim, sulh ve arabuluculuğun hukuki sonuçlarını size anlatır. Amaç, davanın uzamasını önlemek ve tarafların ortak bir noktada buluşmasını sağlamaktır.",
+        "Eğer bu konuda bir **sonuç alınacağı kanaati** oluşursa, mahkeme yeni bir duruşma günü belirleyebilir. Görüşmelerin sonucu tutanağa yazılır ve hazır bulunanlar tarafından imzalanır."
+      ],
+      "bullets": [
+        "Süreç hakkında bilgilendirme yapılır.",
+        "Sonuç alınırsa yeni gün verilir."
+      ]
+    },
+    {
+      "heading": "Arabuluculuk süreci nasıl işletilir?",
+      "paragraphs": [
+        "Dava açılmadan önce veya yargılama sırasında taraflar arabulucuya başvurmak üzere anlaşabilir. Mahkeme de bu yolu size önerebilir. Taraflardan biri teklifte bulunduğunda, karşı tarafın **olumlu cevap vermesi** için belirli bir süre vardır.",
+        "Taşınmaz devri gibi özel durumlarda arabuluculuk süreci tapu siciline şerh verilmesi gibi ek adımlar içerebilir. Anlaşma sağlandığında belgenin **icra edilebilirlik şerhi** ile güvenceye alınması gerekebilir."
+      ],
+      "bullets": [
+        "Dava öncesi veya sırasında başvuru mümkündür.",
+        "Özel uyuşmazlıklarda tapu şerhi uygulanabilir."
+      ]
+    },
+    {
+      "heading": "Masada anlaşamazsanız ne olur?",
+      "paragraphs": [
+        "Sulh veya arabuluculuk girişiminden bir sonuç çıkmazsa, tarafların anlaşamadığı noktalar tutanakla sabitlenir. Yargılama bu tutanak üzerinden **tahkikat aşamasıyla** devam eder.",
+        "Duruşma davetiyesinde belirtilen kurallara uymak, özellikle belgelerin zamanında sunulması bakımından kritiktir. Süresi içinde sunulmayan delillerden **vazgeçilmiş sayılma** riski vardır."
+      ],
+      "bullets": [
+        "Anlaşmazlık tutanağı imzalanır.",
+        "Tahkikat aşamasına geçilir."
+      ]
+    }
+  ],
+  "steps": [
+    "Ön inceleme davetiyesini dikkatle inceleyip sulh hazırlığı yapın",
+    "Duruşmada iddia ve savunmalarınızı netleştirerek uyuşmazlık konularını belirleyin",
+    "Hâkimin sulh veya arabuluculuk teşviklerini değerlendirin",
+    "Belgelerinizi süresi içinde mahkemeye sunun",
+    "Anlaşma sağlanırsa tutanağı imzalayın, sağlanmazsa tahkikat aşamasını takip edin"
+  ],
+  "documents": [
+    "Duruşma davetiyesi",
+    "Dilekçeler ve delil listesi",
+    "Ön inceleme tutanağı",
+    "Arabuluculuk anlaşma belgesi",
+    "İcra edilebilirlik şerhi"
+  ],
+  "faq": [
+    {
+      "q": "Sulh teklifini kabul etmek zorunlu mu?",
+      "a": "Hayır, tarafların üzerinde serbestçe tasarruf edebileceği konularda sulh tamamen iravidir; kimse anlaşmaya zorlanamaz."
+    },
+    {
+      "q": "Ön inceleme duruşmasına gitmezsem ne olur?",
+      "a": "Duruşmaya sadece bir tarafın gelmesi ve yargılamaya devam etmek istemesi durumunda, gelmeyen taraf yapılan işlemlere itiraz edemez."
+    },
+    {
+      "q": "Arabuluculukta anlaşma olmazsa dava biter mi?",
+      "a": "Hayır, anlaşma sağlanamadığı takdirde tutanak tutulur ve dava kaldığı yerden tahkikat aşamasıyla devam eder."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "zamanaşimi-nedir",
+  "angle": "Sulh",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

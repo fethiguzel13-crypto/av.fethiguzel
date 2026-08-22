@@ -1,0 +1,111 @@
+{
+  "slug": "is-kazasi-maluliyet",
+  "title": "İş Kazasında Maluliyet Oranı | Vatandaş Rehberi",
+  "description": "Maluliyet oranı ne anlama gelir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
+  "h1": "Maluliyet oranı ne anlama gelir?",
+  "keywords": [
+    "iş kazası maluliyet",
+    "maluliyet oranı tazminat"
+  ],
+  "category": "İş",
+  "related": [
+    "is-kazasi-tazminati",
+    "malulen-emeklilik",
+    "engelli-raporu-nasil-alinir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/is-kazasi-tazminati"
+    },
+    {
+      "label": "İSG",
+      "href": "/kategori/isg"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    }
+  ],
+  "lead": "İş kazası geçirdiğinizde vücudunuzda kalan kalıcı sakatlığın çalışma gücünüzü ne kadar azalttığı maluliyet oranı ile ölçülür. Bu oran, hak edeceğiniz tazminat ve gelirlerin belirlenmesinde temel ölçüttür.",
+  "keyInsight": "Maluliyet oranı, iş kazasının ardından yetkili sağlık kurumlarından alınan raporlarla tespit edilir ve hak sahipliğinin sınırını çizer.",
+  "sections": [
+    {
+      "heading": "Maluliyet Oranı Neyi İfade Etmektedir?",
+      "paragraphs": [
+        "Fabrikada veya şantiyede çalıştığınız sırada bir kaza geldi başınıza. Hastanede yapılan tedaviler bitti ancak vücudunuzda kalıcı bir iz veya işlev kaybı kaldı. İşte bu aşamada maluliyet oranı devreye girer.",
+        "Bu oran, meslekte kazanma gücünüzün ne kadarını kaybettiğinizi gösteren bir ölçüttür. Sağlık kurulu raporuyla **yüzde olarak** belirlenir ve gelecekte alacağınız hakların anahtarını oluşturur."
+      ],
+      "bullets": [
+        "Kalıcı sakatlık durumunu gösterir.",
+        "Çalışma gücü kaybını oranlar."
+      ]
+    },
+    {
+      "heading": "Oran Hangi Kriterlere Göre Belirlenir?",
+      "paragraphs": [
+        "Kazanın ardından sağlık kuruluşlarına başvurursunuz. Uzman doktorlar ve sağlık kurulu, vücudunuzdaki kaybı inceler.",
+        "Yapılan değerlendirmeler sonucunda **sağlık raporu** düzenlenir ve meslekte kazanma gücü kaybı oranınız netleşir."
+      ],
+      "bullets": [
+        "Uzman doktor muayenesi şarttır.",
+        "Kurul raporu esas alınır."
+      ]
+    },
+    {
+      "heading": "Bu Oran Haklarınızı Nasıl Etkiler?",
+      "paragraphs": [
+        "Elinizde netleşen bir oran olduğunda, iş kazası nedeniyle doğacak maddi haklarınız bu sayı üzerinden şekillenir.",
+        "Gelir bağlanması veya benzeri destekler için **bu oran** doğrudan hesaplamaya dahil edilir."
+      ],
+      "bullets": [
+        "Gelir hesaplamasında kullanılır.",
+        "Tazminat tutarını etkiler."
+      ]
+    },
+    {
+      "heading": "Süreç Nasıl İlerler?",
+      "paragraphs": [
+        "Kazadan sonra tedavi süreci bittikten sonra durumunuzun sabitlenmesi beklenir. Sabitlenen tablo üzerinden rapor düzenlenir.",
+        "Eksiksiz evraklarla **kuruma başvurarak** sürecin resmi olarak işletilmesini sağlarsınız."
+      ],
+      "bullets": [
+        "Tedavinin tamamlanması gerekir.",
+        "Resmi başvuru yapılmalıdır."
+      ]
+    }
+  ],
+  "steps": [
+    "İş kazası geçirdiğinizde durumu derhal işverene bildirin.",
+    "Sağlık kuruluşlarında eksiksiz bir tedavi süreci geçirin.",
+    "Tedavi bittikten sonra yetkili hastaneden sağlık kurulu raporu isteyin.",
+    "Çıkan maluliyet oranını içeren raporla ilgili kurumlara başvurun."
+  ],
+  "documents": [
+    "İş kazası tutanağı",
+    "Hastane tedavi evrakları",
+    "Sağlık kurulu raporu",
+    "Kurum başvuru dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Maluliyet oranı nasıl öğrenilir?",
+      "a": "Yetkili hastanelerin sağlık kurulundan alacağınız rapor ile bu oranı öğrenebilirsiniz."
+    },
+    {
+      "q": "Oran düşük çıkarsa ne yapabilirim?",
+      "a": "Rapor sonuçlarına ilgili mevzuat çerçevesinde itiraz etme hakkınız bulunmaktadır."
+    },
+    {
+      "q": "Her iş kazasında maluliyet kalır mı?",
+      "a": "Hayır, kazanın şiddetine ve bıraktığı izlere göre kalıcı bir kayıp olmayabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "is-kazasi-tazminati",
+  "angle": "Maluliyet",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

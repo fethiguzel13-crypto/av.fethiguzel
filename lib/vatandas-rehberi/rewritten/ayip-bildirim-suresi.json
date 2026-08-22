@@ -1,0 +1,112 @@
+{
+  "slug": "ayip-bildirim-suresi",
+  "title": "Ayıp ne kadar sürede bildirilmeli — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Ayıp ne kadar sürede bildirilmeli? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
+  "h1": "Ayıp ne kadar sürede bildirilmeli?",
+  "keywords": [
+    "ayıp bildirim süresi",
+    "ayıp ihbarı"
+  ],
+  "category": "Tüketici",
+  "related": [
+    "tuketici-hakem-heyeti",
+    "ayip-mal-iade",
+    "garanti-belgesi-haklari"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tuketici-hakem-heyeti"
+    },
+    {
+      "label": "TKHK",
+      "href": "/kategori/tkhk"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    }
+  ],
+  "lead": "Aldığınız üründe veya teslim edilen işte bir kusur çıktığında, sessiz kalmak haklarınızı tehlikeye atar. **Uygun bir süre içinde** durumu karşı tarafa bildirmeniz gerekir, aksi takdirde kusurlu malı kabul etmiş sayılabilirsiniz.",
+  "keyInsight": "Gizli ayıplar sonradan ortaya çıktığında durumu derhal bildirmek zorundasınız, gecikmek hakkınızı tamamen ortadan kaldırır.",
+  "sections": [
+    {
+      "heading": "Devraldığınız ürünü hemen inceleyin",
+      "paragraphs": [
+        "Paketi açtınız ve ürünü elinize aldınız. Asıl mesele, işlerin olağan akışına göre imkân bulunur bulunmaz malın durumunu gözden geçirmektir.",
+        "Eğer ortada satıcının sorumluluğunu gerektiren açık bir kusur varsa, bunu **uygun bir süre içinde** karşı tarafa iletmelisiniz."
+      ],
+      "bullets": [
+        "Paketi açar açmaz inceleme yapın",
+        "Gözle görülen sorunları bekletmeyin"
+      ]
+    },
+    {
+      "heading": "Gizli kusurlar sonradan ortaya çıkarsa",
+      "paragraphs": [
+        "İlk bakışta fark edemediğiniz, olağan bir gözden geçirmeyle anlaşılmayan sorunlar sonradan karşınıza çıkabilir.",
+        "Bu tür bir kusur sonradan anlaşıldığında, **hemen satıcıya bildirilmelidir**. Zaman kaybetmek hak kaybına yol açar."
+      ],
+      "bullets": [
+        "Sonradan çıkan kusurlarda hız çok önemlidir",
+        "Bildirim yapılmazsa mal olduğu gibi kabul edilir"
+      ]
+    },
+    {
+      "heading": "İş teslimlerinde durum nasıldır",
+      "paragraphs": [
+        "Bir eser sözleşmesinde işveren, işçinin üreterek teslim ettiği ürünü inceler. Varsa bulduğu ayıpları **teslimden başlayarak bir hafta içinde** işçiye bildirir.",
+        "Süresinde bildirim yapılmamışsa, ürün mevcut durumuyla kabul edilmiş sayılır ve artık itiraz edemezsiniz."
+      ],
+      "bullets": [
+        "Üretilen işlerde bir haftalık süre işler",
+        "Süreyi geçirmek hakkı düşürür"
+      ]
+    },
+    {
+      "heading": "Süreci kaçırmanın doğuracağı sonuçlar",
+      "paragraphs": [
+        "Kanun, alıcının gözden geçirmeyi ve bildirimde bulunmayı ihmal etmesi durumunda sert sonuçlar öngörür. Kusurlu mal veya hizmet bu şekilde onaylanmış kabul edilir.",
+        "Haklarınızı korumak adına her aşamada hızlı hareket etmek ve bildirimleri zamanında yapmak en güvenli yoldur."
+      ],
+      "bullets": [
+        "İhmal edilen bildirimler hakları yakar",
+        "Zamanında hareket etmek hayat kurtarır"
+      ]
+    }
+  ],
+  "steps": [
+    "Ürünü veya teslim edilen işi teslim alır almaz hemen inceleyin.",
+    "Gördüğünüz eksiklikleri veya kusurları net bir şekilde tespit edin.",
+    "Açık ayıplar için uygun süre içinde karşı tarafa bildirim gönderin.",
+    "Sonradan fark edilen gizli kusurlarda vakit kaybetmeden durumu iletin.",
+    "Bildiriminizi yazılı ve ispatlanabilir bir şekilde yapmaya özen gösterin."
+  ],
+  "documents": [
+    "Satış faturası veya fiş",
+    "Teslimat tutanağı",
+    "Ayıplı durumu gösteren fotoğraflar",
+    "Satıcıya gönderilen bildirim metni"
+  ],
+  "faq": [
+    {
+      "q": "Ayıbı bildirmek için kesin bir gün sınırı var mı?",
+      "a": "Kanun genel olarak uygun bir süre veya hemen bildirim şartı arar; iş teslimlerinde ise teslimden başlayarak bir hafta öngörülmüştür."
+    },
+    {
+      "q": "Gözle görülmeyen kusurlarda ne yapmalıyım?",
+      "a": "Olağan incelemeyle ortaya çıkmayan gizli ayıplar sonradan fark edildiğinde hemen satıcıya bildirilmelidir."
+    },
+    {
+      "q": "Bildirim yapmazsam ne olur?",
+      "a": "Gözden geçirme ve bildirim yükümlülüğünü ihmal ederseniz, satılanı veya teslim edilen işi o ayıpla birlikte kabul etmiş sayılarsınız."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tuketici-hakem-heyeti",
+  "angle": "Ayıp ihbar süresi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

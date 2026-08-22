@@ -1,0 +1,112 @@
+{
+  "slug": "konut-kirasi-tahliye-sebepleri",
+  "title": "Konut Kirasında Tahliye Sebepleri Listesi | Vatandaş Rehberi",
+  "description": "Konut tahliye sebepleri nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
+  "h1": "Konut tahliye sebepleri nelerdir?",
+  "keywords": [
+    "konut tahliye sebepleri",
+    "kira tahliye nedenleri"
+  ],
+  "category": "Kira",
+  "related": [
+    "kiraci-nasil-tahliye-edilir",
+    "tahliye-taahhutnamesi",
+    "kira-odeme-ihtari"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kiraci-nasil-tahliye-edilir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Konutunuzdan çıkarılma endişesi yaşıyorsanız, sürecin tamamen kanunla belirlenmiş adımlara bağlı olduğunu bilmelisiniz. Tahliye, keyfi bir işlem değil, belirli şartların oluşmasına dayanan hukuki bir süreçtir.",
+  "keyInsight": "Kira uyuşmazlıklarında dava açmadan önce arabulucuya gitmek zorunlu bir dava şartıdır.",
+  "sections": [
+    {
+      "heading": "Sözleşme bittiğinde ne olur?",
+      "paragraphs": [
+        "Belirli süreli bir kira sözleşmesi yaptığınızda, süre dolduğunda sözleşme kendiliğinden sona erer. Ancak taraflar sessiz kalır ve kira ilişkisi devam ederse, sözleşme genellikle birer yıllık dönemler halinde uzamış sayılır.",
+        "Bu uzayan sözleşmelerde kiralayan, her kira yılının sonunda yasal bildirim sürelerine uyarak sözleşmeyi feshetme hakkına sahip olabilir."
+      ],
+      "bullets": [
+        "Süre bitimiyle kendiliğinden sona erme",
+        "Örtülü devam eden sözleşmelerde yıllık yenilenme"
+      ]
+    },
+    {
+      "heading": "Önemli sebeplerle tahliye mümkün mü?",
+      "paragraphs": [
+        "Bazen hayatın olağan akışında kira ilişkisini sürdürmeyi çekilmez kılan durumlar oluşabilir. Kanun, taraflardan her birine bu gibi önemli sebeplerin varlığında sözleşmeyi feshetme imkanı tanır.",
+        "Bu olağanüstü fesih yoluna başvurulduğunda, hakim tüm durum ve koşulları değerlendirerek fesih bildiriminin doğuracağı parasal sonuçları karara bağlar."
+      ],
+      "bullets": [
+        "İlişkiyi çekilmez kılan önemli sebepler",
+        "Hakim tarafından belirlenen parasal sonuçlar"
+      ]
+    },
+    {
+      "heading": "İcra yoluyla tahliye nasıl işler?",
+      "paragraphs": [
+        "Kira borcunuzu ödemediğinizde, kiralayan icra dairesi aracılığıyla size bir ödeme emri gönderebilir. Bu ödeme emri, borcu ödemeniz için bir ihtar içerir.",
+        "Ödeme emrini aldığınızda **yedi gün içinde** itiraz etme hakkınız vardır. İtiraz etmediğiniz ve borcu da ödemediğiniz takdirde, ihtar süresinin bitimini takip eden altı ay içinde tahliye kararı istenebilir."
+      ],
+      "bullets": [
+        "İcra dairesinden gelen ödeme emri",
+        "Yedi günlük itiraz süresi"
+      ]
+    },
+    {
+      "heading": "Arabuluculuk neden gereklidir?",
+      "paragraphs": [
+        "Kira ilişkisinden kaynaklanan uyuşmazlıklarda mahkemeye gitmeden önce arabulucuya başvurmanız şarttır. Bu süreç, tarafların bir araya gelerek anlaşmasını hedefler.",
+        "Anlaşma sağlandığında düzenlenen belge, mahkemeden alınacak icra edilebilirlik şerhi ile mahkeme kararı hükmündedir."
+      ],
+      "bullets": [
+        "Dava şartı olarak arabuluculuk",
+        "Anlaşma belgesine icra edilebilirlik şerhi"
+      ]
+    }
+  ],
+  "steps": [
+    "Ödeme emri tebliğ edildiğinde yedi gün içinde itirazınızı icra dairesine bildirin.",
+    "Kira uyuşmazlığınız için dava açmadan önce arabulucuya başvuru yapın.",
+    "Arabuluculuk sürecinde uzlaşma sağlanırsa anlaşma belgesini imzalayın.",
+    "Anlaşma belgesi için sulh hukuk mahkemesinden icra edilebilirlik şerhi alın.",
+    "Mahkeme sürecinde durumunuzu ve haklı sebeplerinizi delillerinizle sunun."
+  ],
+  "documents": [
+    "Kira sözleşmesi aslı",
+    "İcra dairesinden gönderilen ödeme emri",
+    "Arabuluculuk anlaşma belgesi",
+    "İcra edilebilirlik şerhi içeren belge"
+  ],
+  "faq": [
+    {
+      "q": "Kira sözleşmesini kiracı aleyhine değiştirebilir miyim?",
+      "a": "Hayır, kanun gereği dava yoluyla sözleşmenin sona erdirilmesine ilişkin hükümler kiracı aleyhine değiştirilemez."
+    },
+    {
+      "q": "İtiraz etmezsem ne olur?",
+      "a": "Borca itiraz etmez ve ödeme süresi içinde borcunuzu ödemezseniz, ihtar süresinin bitimini takip eden altı ay içinde tahliyeniz istenebilir."
+    },
+    {
+      "q": "Arabulucuya gitmeden dava açabilir miyim?",
+      "a": "Hayır, kira uyuşmazlıklarında arabulucuya başvurmak dava şartıdır; bu adım atlanmadan dava açılamaz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kiraci-nasil-tahliye-edilir",
+  "angle": "Sebep listesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

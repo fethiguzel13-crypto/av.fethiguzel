@@ -1,0 +1,107 @@
+{
+  "slug": "zamanaşimi-nedir",
+  "title": "Zamanaşımı Nedir? Alacaklarda Süreler",
+  "description": "Zamanaşımı nedir? Ne zaman dolur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
+  "h1": "Zamanaşımı nedir? Ne zaman dolur?",
+  "keywords": [
+    "zamanaşımı nedir",
+    "alacak zamanaşımı",
+    "10 yıllık zamanaşımı"
+  ],
+  "category": "Usul",
+  "related": [
+    "bilirkisi-raporu-itiraz",
+    "tanik-dinletme",
+    "bekletici-mesele",
+    "delil-baslangici-nedir",
+    "kesin-delil-nedir",
+    "islah-nedir",
+    "belirsiz-alacak-davasi",
+    "davaya-mudahale"
+  ],
+  "links": [
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Elinde bir alacak ya da hak var ama yıllardır hareketsiz duruyorsun. Günün birinde karşı taraf ödemem diye karşınıza dikildiğinde, kanunun tanıdığı sürelerin dolup dolmadığı masaya gelir.",
+  "keyInsight": "Zamanaşımı borcu kendiliğinden silmez; karşı taraf süresinde itiraz etmezse borç yaşmaya devam eder.",
+  "sections": [
+    {
+      "heading": "Ön incelemede masaya gelen itiraz",
+      "paragraphs": [
+        "Mahkemeye gittiniz, dilekçeler verildi ve duruşma salonunun kapısındasınız. Hakim tahkikata geçmeden hemen önce **zamanaşımı itirazını** ön inceleme duruşması tamamlandıktan sonra inceler ve karara bağlar.",
+        "Bu aşamada dosyadaki tarihler büyük önem kazanır. Hakimin bu itirazı ele alması için taraflardan birinin süresinde savunma yapmış olması gerekir."
+      ],
+      "bullets": [
+        "Ön inceleme duruşması tamamlanır",
+        "Tahkikata geçmeden önce karara bağlanır"
+      ]
+    },
+    {
+      "heading": "Süreci durduran arabuluculuk adımı",
+      "paragraphs": [
+        "Hakim karşısına çıkmadan önce yola arabulucu ile başladıysanız hesaplar değişir. Arabuluculuk sürecinin başlamasından sona ermesine kadar geçirilen süre, **zamanaşımı sürelerinin** hesaplanmasında dikkate alınmaz.",
+        "Bu dönemde saatler adeta durur ve süre işlemez. Sürecin bittiği an kaldığı yerden işlemeye devam eder."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kısmi davada artırılan kısmın durumu",
+      "paragraphs": [
+        "Alacağınızın sadece bir kısmını dava ettiğinizde, tahkikatın sona ermesine kadar talep konusunu bir defaya mahsus artırabilirsiniz. Bu durumda **dava tarihi**, artırılan kısım bakımından da zamanaşımını kesmiş sayılır.",
+        "Böylece kısmi açılan davalarda sonradan yapılan artırımlar, ilk dava tarihinin koruyucu şemsiyesi altında güvenceye kavuşur."
+      ],
+      "bullets": [
+        "Tahkikat bitene kadar artırım yapılabilir",
+        "İlk dava tarihi esas alınır"
+      ]
+    },
+    {
+      "heading": "Yargılamanın iadesinde süre sınırları",
+      "paragraphs": [
+        "Kesinleşmiş bir karardan sonra yeni bir belge buldunuz veya hileyi fark ettiniz. Yargılamanın iadesi için kanun belirli bir takvim çizer; **üç aylık** süre öğrenme anından itibaren başlar.",
+        "Ancak her halükarda iade talebine konu olan hükmün kesinleşmesinden itibaren **on yıllık** azami süre asıl sınır olarak karşınıza çıkar."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Alacağın veya uyuşmazlığın doğduğu günü ve muacceliyet anını belirleyin.",
+    "Arabuluculuk veya dava gibi süreci durduran ya da kesen adımları takvime işleyin.",
+    "Mahkeme ön inceleme aşamasına gelmeden zamanaşımı def'ini hazır tutun.",
+    "Kısmi dava açıldıysa artırım taleplerini tahkikat bitmeden yapın.",
+    "Yargılamanın iadesi gerekiyorsa öğrenme tarihinden başlayan üç aylık süreyi kaçırmayın."
+  ],
+  "documents": [
+    "Dava dilekçesi",
+    "Arabuluculuk son tutanağı",
+    "Mahkeme ara kararları",
+    "Yeni elde edilen belgeler"
+  ],
+  "faq": [
+    {
+      "q": "Zamanaşımı borcu tamamen ortadan kaldırır mı?",
+      "a": "Hayır, borç ortadan kalkmaz ancak dava edilebilirliği ve alacağın zorla tahsil edilme imkânı ortadan kalkar."
+    },
+    {
+      "q": "Arabuluculukta geçen süre zamanaşımını etkiler mi?",
+      "a": "Evet, arabuluculuk sürecinin başından sonuna kadar geçen süre zamanaşımı hesaplanırken hesaba katılmaz, süre durur."
+    },
+    {
+      "q": "Kısmi davada artırılan kısım için zamanaşımı ne zaman kesilir?",
+      "a": "Artırılan kısım bakımından da zamanaşımı asıl dava tarihinden itibaren kesilmiş sayılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "zamanaşimi-nedir",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

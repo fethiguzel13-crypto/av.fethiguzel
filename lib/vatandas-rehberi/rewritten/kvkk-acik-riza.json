@@ -1,0 +1,101 @@
+{
+  "slug": "kvkk-acik-riza",
+  "title": "Açık rıza nasıl alınır — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Açık rıza nasıl alınır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
+  "h1": "Açık rıza nasıl alınır?",
+  "keywords": [
+    "KVKK açık rıza",
+    "açık rıza nedir"
+  ],
+  "category": "Kişisel Veri",
+  "related": [
+    "kvkk-basvuru-hakki",
+    "kvkk-aydinlatma-metni",
+    "kisisel-verilerin-kaydedilmesi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kvkk-basvuru-hakki"
+    },
+    {
+      "label": "KVKK",
+      "href": "/kategori/kvkk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=a%C3%A7%C4%B1k%20r%C4%B1za"
+    }
+  ],
+  "lead": "Açık rıza, telefonunuza gelen bir onay kutucuğundan ibaret değildir; hangi verinizin nerede kullanılacağını bilerek, baskı altında kalmadan **kendi iradenizle** onay vermenizdir.",
+  "keyInsight": "Açık rıza her durumda şart değildir; kanunlarda açıkça yazan veya sözleşme kurmak için gereken durumlarda rıza aranmaz.",
+  "sections": [
+    {
+      "heading": "Onay vermeden önce neyi bilmeniz gerekir?",
+      "paragraphs": [
+        "Bir internet sitesine üye olurken ya da bir form doldururken önünüze uzun metinler çıkar. Asıl mesele, bu metnin anlaşılır olup olmadığı ve size neyin onaylatıldığının açıkça söylenmesidir.",
+        "Bilgilendirilmeye dayanmayan bir onay **hukuki geçerlilik** taşımaz. Ne için onay verdiğinizi anlamıyorsanız, o rıza sakattır."
+      ],
+      "bullets": [
+        "Belirli bir konuya odaklanmalı",
+        "Önceden doldurulmuş kutucuklar içermemeli"
+      ]
+    },
+    {
+      "heading": "İrade baskı altında olmamalı",
+      "paragraphs": [
+        "Bir hizmetten yararlanmanız için önünüze başka bir şans bırakmadan zorla imzalatılan onaylar özgür iradeyle verilmiş sayılmaz. Bankaya kredi başvurusu yaparken ya da bir işe girerken bu durum sıkça karşınıza çıkar.",
+        "Seçim hakkınızın elinizden alındığı durumlarda verilen rıza **gerçek bir rıza** değildir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Her veri için rıza şart mı?",
+      "paragraphs": [
+        "Günlük hayatta her işlemimiz için ayrı ayrı imza atmayız. Kanun, bazı durumlarda açık rızayı aramadan veri işlenmesine izin verir.",
+        "Bir sözleşmenin kurulması veya kanuni bir zorunluluğun yerine getirilmesi söz konusuysa, **açık rıza aranmaz**."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Verileriniz hangi kurallarla işlenir?",
+      "paragraphs": [
+        "Rıza verseniz dahi, verilerin işlendiği amacın dışına çıkılamaz. Veriler sadece gerektiği kadar ve ölçülü bir şekilde kullanılabilir.",
+        "Hukuka ve dürüstlük kurallarına uygunluk, **en temel ilkeler** arasında yer alır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Metni dikkatlice okuyarak hangi verilerinizin istenildiğini anlayın.",
+    "Onayın belirli bir amaç için mi yoksa genel mi olduğuna bakın.",
+    "Özgür iradenizle karar verip vermediğinizi tartın.",
+    "Gerekirse rızanızı vermeyi reddedin."
+  ],
+  "documents": [
+    "Aydınlatma metni",
+    "Onay formu",
+    "Sözleşme metni"
+  ],
+  "faq": [
+    {
+      "q": "Her veri işleme faaliyeti için açık rıza şart mıdır?",
+      "a": "Hayır. Kanunlarda öngörülen hallerde veya sözleşme gerekliliklerinde açık rıza aranmaz."
+    },
+    {
+      "q": "Zorla alınan rıza geçerli olur mu?",
+      "a": "Olmaz. Açık rızanın en önemli şartı özgür iradeyle açıklanmasıdır."
+    },
+    {
+      "q": "Açık rıza hangi unsurları taşımalıdır?",
+      "a": "Belirli bir konuya ilişkin olmalı, bilgilendirilmeye dayanmalı ve özgür iradeyle açıklanmalıdır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kvkk-basvuru-hakki",
+  "angle": "Açık rıza",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

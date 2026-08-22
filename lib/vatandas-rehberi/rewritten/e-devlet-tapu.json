@@ -1,0 +1,110 @@
+{
+  "slug": "e-devlet-tapu",
+  "title": "e-Devletten tapu nasıl sorgulanır — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "e-Devletten tapu nasıl sorgulanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
+  "h1": "e-Devletten tapu nasıl sorgulanır?",
+  "keywords": [
+    "e-devlet tapu sorgulama"
+  ],
+  "category": "Eşya",
+  "related": [
+    "tapu-devri-nasil-yapilir",
+    "tapu-kaydi-nasil-alinir",
+    "emlak-vergisi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tapu-devri-nasil-yapilir"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=tapu"
+    }
+  ],
+  "lead": "Üzerinize kayıtlı gayrimenkulleri öğrenmek için dijital sistemi açıp kimlik doğrulaması yapmanız yeterlidir.",
+  "keyInsight": "Sistem üzerindeki kayıtlar resmî nitelik taşır ancak güncel hukuki durum için tapu müdürlüğündeki belgeler esastır.",
+  "sections": [
+    {
+      "heading": "Sisteme giriş adımları nasıl atılır?",
+      "paragraphs": [
+        "Bilgisayarınızın başına geçtiniz veya telefonunuzu elinize aldınız. İlk olarak resmi web adresini tarayıcınıza yazarak kimlik numaranız ve şifrenizle oturum açma ekranına ulaşırsınız.",
+        "Giriş yaptıktan sonra arama çubuğunu kullanarak ilgili kurumsal hizmet listesine hızlıca ulaşabilirsiniz."
+      ],
+      "bullets": [
+        "Güvenli şifre kullanımı",
+        "Doğru hizmet araması"
+      ]
+    },
+    {
+      "heading": "Tapu bilgileri nerede listelenir?",
+      "paragraphs": [
+        "Arama sonucunda karşınıza çıkan resmi hizmet başlığına tıkladığınızda adınıza tescilli taşınmazların listesi ekrana gelir.",
+        "Hisseli mülkler veya tam mülkiyetler bu alanda ayrıntılı olarak döküm halinde görülebilir."
+      ],
+      "bullets": [
+        "Ada ve parsel bilgisi",
+        "Hisseli mülkiyet detayları"
+      ]
+    },
+    {
+      "heading": "Hangi detaylar incelenebilir?",
+      "paragraphs": [
+        "Listelenen taşınmazın üzerine tıkladığınızda taşınmazın tapu sicilindeki temel niteliğini ve konum verilerini görebilirsiniz.",
+        "Taşınmazın kat mülkiyeti veya kat irtifakı gibi statülerini bu ekrandan takip etmek mümkündür."
+      ],
+      "bullets": [
+        "Nitelik bilgisi",
+        "Yüzölçümü"
+      ]
+    },
+    {
+      "heading": "Belge üretme ve çıktı alma",
+      "paragraphs": [
+        "Görüntülenen taşınmaz bilgilerini resmi kurum işlerinde kullanmak üzere barkodlu belgesine dönüştürebilirsiniz.",
+        "Oluşturulan **barkodlu belge** resmi makamlarda geçerli bir sorgulama çıktısı sunar."
+      ],
+      "bullets": [
+        "Barkod üretme",
+        "PDF kaydetme"
+      ]
+    }
+  ],
+  "steps": [
+    "e-Devlet kapısına şifreniz ve kimlik numaranızla giriş yapın",
+    "Arama çubuğuna tapu bilgileri sorgulama yazarak ilgili hizmeti seçin",
+    "Adınıza tescilli gayrimenkullerin listesini ekranda görüntüleyin",
+    "İncelemek istediğiniz taşınmazın detayına tıklayarak tapu verilerine bakın",
+    "Gerekirse resmi işlemler için barkodlu belge oluşturun"
+  ],
+  "documents": [
+    "T.C. Kimlik Kartı",
+    "e-Devlet şifresi",
+    "Barkodlu Tapu Bilgileri Belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Herkes başkasının tapusunu sorgulayabilir mi?",
+      "a": "Hayır, sistem üzerinden yalnızca kendi adınıza tescilli taşınmazları görebilirsiniz."
+    },
+    {
+      "q": "Hisseli tapular sistemde görünür mü?",
+      "a": "Evet, paylı mülkiyetiniz bulunan taşınmazlar hisse oranınızla birlikte listelenir."
+    },
+    {
+      "q": "Alınan barkodlu belge her yerde geçerli mi?",
+      "a": "Barkodlu belgeler resmi kurumlarda bilgi amaçlı ve doğrulតulaınabilir nitelikte kabul edilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tapu-devri-nasil-yapilir",
+  "angle": "e-Devlet",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

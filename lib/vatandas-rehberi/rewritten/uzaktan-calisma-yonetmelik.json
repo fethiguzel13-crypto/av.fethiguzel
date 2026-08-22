@@ -1,0 +1,113 @@
+{
+  "slug": "uzaktan-calisma-yonetmelik",
+  "title": "Uzaktan çalışma — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Uzaktan çalışma hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
+  "h1": "Uzaktan çalışma",
+  "keywords": [
+    "uzaktan çalışma",
+    "uzaktan calisma yonetmelik"
+  ],
+  "category": "İş",
+  "related": [
+    "ibraname-nedir",
+    "is-sozlesmesi-feshi",
+    "fazla-mesai-ucreti",
+    "is-guvenligi-uzmani"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/ibraname-nedir"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "İSG",
+      "href": "/kategori/isg"
+    }
+  ],
+  "lead": "Bilgisayarınızı evinize taşıdınız ve uzaktan çalışmaya başladınız. Bu düzenin hukuken geçerli olabilmesi için her şeyin **yazılı sözleşmeye** bağlanması şarttır.",
+  "keyInsight": "Uzaktan çalışmada en büyük tuzak, sözleşmenin yazılı yapılmaması ve çalışma şartlarının sonradan belirsizlik yaratmasıdır.",
+  "sections": [
+    {
+      "heading": "Evden çalışmanın yazılı kuralı",
+      "paragraphs": [
+        "Mutfak masasını ya da çalışma odanızı ofise çevirdiniz. İş ilişkisinin evde veya teknolojik araçlarla işyeri dışında kurulması **yazılı sözleşme** şartına bağlıdır.",
+        "Yapılacak bu sözleşmede işin tanımı, yapılma şekli, süresi ve yeri açıkça yazılmalıdır. Ücretin ödenme biçimi ile işveren tarafından sağlanan ekipmanların korunmasına dair detaylar da bu metinde yer almalıdır."
+      ],
+      "bullets": [
+        "Yazılı sözleşme zorunludur",
+        "İşin tanımı net olmalıdır"
+      ]
+    },
+    {
+      "heading": "Eşitlik ve iş güvenliği önlemleri",
+      "paragraphs": [
+        "Evden çalışıyorsunuz diye ofisteki diğer çalışanlardan farklı muamele göremezsiniz. Esaslı bir neden olmadıkça salt sözleşmenin niteliğinden ötürü **emsal işçiye göre** farklı işleme tabi tutulmanız mümkün değildir.",
+        "İşveren, yaptığınız işin niteliğini dikkate alarak iş sağlığı ve güvenliği önlemleri hususunda sizi bilgilendirmek ve gerekli eğitimi vermek zorundadır. Sağlanan ekipmanla ilgili gerekli iş güvenliği tedbirleri de işverenin sorumluluğundadır."
+      ],
+      "bullets": [
+        "Emsal işçi ile eşitlik esastır",
+        "İş güvenliği eğitimi verilmelidir"
+      ]
+    },
+    {
+      "heading": "İletişim ve çalışma şartları",
+      "paragraphs": [
+        "İşverenin sizinle iletişim kurma yöntemleri sözleşmede belirlenir. Genel ve özel çalışma şartları tarafların haklarını koruyacak şekilde metne yansıtılır.",
+        "Sağlanan ekipmanların korunması ve bakımı konusunda tarafların yükümlülükleri sözleşme kapsamında netleştirilir."
+      ],
+      "bullets": [
+        "İletişim biçimi belirlenir",
+        "Ekipman sorumluluğu yazılır"
+      ]
+    },
+    {
+      "heading": "Sağlık ve bildirim yükümlülükleri",
+      "paragraphs": [
+        "Çalışma ortamında sağlığınızı ilgilendiren durumlarda sağlık gözetimi sağlanması önemlidir. Meslek hastalığı veya benzeri durumlarda kanuni bildirim süreçleri işletilir.",
+        "Geçici iş göremezlik veya benzeri durumlarda ilgili rapor ve bildirim şartları devreye girer."
+      ],
+      "bullets": [
+        "Sağlık gözetimi sağlanır",
+        "Rapor süreçleri geçerlidir"
+      ]
+    }
+  ],
+  "steps": [
+    "Uzaktan çalışma kararını işvereninizle **yazılı sözleşmeye** dökün.",
+    "İşin tanımını, süresini ve yerini sözleşmede netleştirin.",
+    "İşveren tarafından sağlanan ekipmanları ve korunma şartlarını inceleyin.",
+    "İş sağlığı ve güvenliği bilgilendirmelerini ve eğitimlerini alın.",
+    "Emsal çalışanlarla haklarınızı karşılaştırıp eşitlik durumunu gözetin."
+  ],
+  "documents": [
+    "Yazılı uzaktan çalışma sözleşmesi",
+    "İş sağlığı ve güvenliği eğitim tutanakları",
+    "Ekipman teslim tutanağı",
+    "Sağlık gözetim ve rapor belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "Uzaktan çalışma sözleşmesi mutlaka yazılı mı olmalı?",
+      "a": "Evet, mevzuata göre uzaktan çalışma ilişkisi yazılı olarak kurulmak zorundadır."
+    },
+    {
+      "q": "Ofisteki diğer çalışanlardan farkım olabilir mi?",
+      "a": "Esaslı bir neden olmadıkça, salt iş sözleşmesinin niteliğinden ötürü emsal işçiye göre farklı işleme tabi tutulamazsınız."
+    },
+    {
+      "q": "İş güvenliği eğitimini kim sağlar?",
+      "a": "İşveren, yaptığınız işin niteliğini dikkate alarak iş sağlığı ve güvenliği önlemleri hususunda sizi bilgilendirmek ve gerekli eğitimi vermekle yükümlüdür."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "ibraname-nedir",
+  "angle": "Uzaktan çalışma",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

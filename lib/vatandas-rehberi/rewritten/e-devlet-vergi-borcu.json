@@ -1,0 +1,116 @@
+{
+  "slug": "e-devlet-vergi-borcu",
+  "title": "e-Devletten vergi borcu nasıl bakılır — Vatandaş Rehberi | Av. Fethi G",
+  "description": "e-Devletten vergi borcu nasıl bakılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
+  "h1": "e-Devletten vergi borcu nasıl bakılır?",
+  "keywords": [
+    "e-devlet vergi borcu",
+    "vergi borcu sorgulama"
+  ],
+  "category": "Vergi",
+  "related": [
+    "emlak-vergisi-nedir",
+    "vergi-borcu-yapislandirma",
+    "icra-takibi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/emlak-vergisi-nedir"
+    },
+    {
+      "label": "VUK",
+      "href": "/kategori/vuk"
+    },
+    {
+      "label": "AATUHK",
+      "href": "/kategori/aatuhk"
+    }
+  ],
+  "lead": "Vergi borcunuz olup olmadığını öğrenmek için vergi dairesi kuyruklarında beklemenize gerek yoktur. e-Devlet kapısı üzerinden oturduğunuz yerden tüm borç dökümünüza saniyeler içinde ulaşabilirsiniz.",
+  "keyInsight": "Sorgulama ekranında sadece kendi adınıza değil, temsil yetkiniz bulunan tüzel kişiler adına olan borçları da **doğru rol seçimi** yaparak kontrol etmelisiniz.",
+  "sections": [
+    {
+      "heading": "Sorgulama ekranına nasıl ulaşılır?",
+      "paragraphs": [
+        "Bilgisayarınızın veya telefonunuzun tarayıcısından sisteme giriş yaparak arama çubuğuna ilgili kurum hizmetini yazmanız yeterlidir. Gelir İdaresi Başkanlığı'nın dijital hizmetleri üzerinden yürütülen bu işlemde **şifre güvenliğiniz** en kritik aşamadır.",
+        "Sisteme girdiğinizde adınıza kayıtlı vergi borçları, cezalar ve fer'i alacaklar liste halinde karşınıza çıkacaktır. Herhangi bir sürprizle karşılaşmamak için bu dökümü düzenli aralıklarla **kontrol etmeniz** önerilir."
+      ],
+      "bullets": [
+        "e-Devlet şifresi ve T.C. kimlik numarası ile giriş yapın",
+        "Gelir İdaresi Başkanlığı hizmetlerini aratın",
+        "Vergi borcu sorgulama sekmelerini takip edin"
+      ]
+    },
+    {
+      "heading": "Hangi borçlar listelenir?",
+      "paragraphs": [
+        "Ekran karşısına geçtiğinizde karşınıza çıkan rakamlar sadece ana borçtan ibaret olmayabilir. Gecikme zammı ve cezalar gibi **ikincil alacaklar** da bu listede yer alır.",
+        "Borcun kaynağını ve hangi vergi türüne ait olduğunu detaylıca inceleyerek kime ödeneceğini netleştirebilirsiniz."
+      ],
+      "bullets": [
+        "Gelir ve kurumlar vergisi borçları",
+        "Motorlu taşıtlar ve emlak vergileri",
+        "Geçmiş dönem usulsüzlük cezaları"
+      ]
+    },
+    {
+      "heading": "Borç görünüyorsa ne yapmalı?",
+      "paragraphs": [
+        "Listede bir borçla karşılaştığınızda paniğe kapılmadan ödeme adımlarına geçebilirsiniz. Borcun **bağlı olduğu vergi dairesi** üzerinden ödeme işlemlerini dijital olarak tamamlamak mümkündür.",
+        "Ödeme yaparken hata yaşamamak için açıklama kısımlarına ilgili tahakkuk numarasını **eksiksiz girmeye** özen gösterin."
+      ],
+      "bullets": [
+        "Anlaşmalı bankalar aracılığıyla ödeme",
+        "Vergi dairesi veznelerine başvuru",
+        "Dekontun saklanması"
+      ]
+    },
+    {
+      "heading": "Yanlış borç çıkarsa ne yapılır?",
+      "paragraphs": [
+        "Bazen sistemde mükerrer kayıtlar veya çoktan ödenmiş borçlar aktif görünebilir. Bu durumda ilgili vergi dairesine **dilekçe ile başvurarak** düzeltme talep etmeniz gerekir.",
+        "İtiraz sürecinde elinizdeki tüm makbuzları ve ödeme belgelerini **hazır bulundurmanız** işinizi hızlandıracaktır."
+      ],
+      "bullets": [
+        "Ödeme makbuzunu kontrol edin",
+        "Vergi dairesine resmi başvuru yapın",
+        "Kayıtların güncellenmesini bekleyin"
+      ]
+    }
+  ],
+  "steps": [
+    "e-Devlet kapısına T.C. kimlik numarası ve şifrenizle giriş yapın.",
+    "Arama çubuğuna 'Vergi Borcu Sorgulama' yazarak ilgili Gelir İdaresi Başkanlığı hizmetini seçin.",
+    "Listelenen borç kalemlerini ve vade tarihlerini dikkatlice inceleyin.",
+    "Ödeme yapacaksanız anlaşmalı banka kanallarını veya dijital tahsilat ekranlarını kullanın.",
+    "İşlem sonunda oluşan makbuzu veya dekontu mutlaka kaydedin."
+  ],
+  "documents": [
+    "T.C. Kimlik Kartı",
+    "e-Devlet Şifresi",
+    "Ödeme Dekontu",
+    "Vergi Dairesi İşlem Evrakı"
+  ],
+  "faq": [
+    {
+      "q": "e-Devlet vergi borcu sorgulama ücretli midir?",
+      "a": "Hayır, bu hizmetten tamamen ücretsiz olarak faydalanabilirsiniz."
+    },
+    {
+      "q": "Başkasının vergi borcunu görebilir miyim?",
+      "a": "Yasal temsilcisi veya vekili olmadığınız sürece başkalarının vergi borçlarını göremezsiniz."
+    },
+    {
+      "q": "Ödediğim borç sistemden ne zaman düşer?",
+      "a": "Ödemeler genellikle banka ve vergi dairesi entegrasyonu sağlandıktan sonra kısa süre içinde sistemden düşer."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "emlak-vergisi-nedir",
+  "angle": "Sorgu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

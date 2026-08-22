@@ -1,0 +1,111 @@
+{
+  "slug": "teminat-mektubu",
+  "title": "Teminat mektubu — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Teminat mektubu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
+  "h1": "Teminat mektubu",
+  "keywords": [
+    "teminat mektubu",
+    "teminat mektubu"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "sirket-kurulusu",
+    "kamu-ihalesi-sikayet",
+    "kefalet-sozlesmesi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/sirket-kurulusu"
+    },
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-isletme"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=teminat"
+    }
+  ],
+  "lead": "Ticari ilişkilerde ve yatırımlarda haklarınızı güvenceye almak için teminat süreçleri hayati önem taşır. Sözleşme yaparken veya varlık devrederken kurallara tam uymak gerekir.",
+  "keyInsight": "Teminat işlemlerinde şekil şartlarına ve yetkili mercilerin kararlarına uymamak hak kaybına yol açar.",
+  "sections": [
+    {
+      "heading": "Gemi alacaklarında ve inşasında güvence",
+      "paragraphs": [
+        "Tersane sahibi, geminin yapımı ve onarımından doğan alacakları için gemi üzerinde ipotek **tescilini isteme** hakkına sahiptir. Bu haktan önceden feragat etmek hukuken geçerli değildir.",
+        "İpoteğin kurulması için malik ile alacaklının anlaşması ve bu anlaşmanın **sicile tescil** edilmesi şarttır. Gemi ipoteği alacaklıya, alacağını geminin bedelinden alma yetkisi tanır."
+      ],
+      "bullets": [
+        "İnşa aşamasındaki gemilerde teminat ipoteği istenebilir.",
+        "Önceden feragat anlaşmaları geçersizdir."
+      ]
+    },
+    {
+      "heading": "İpotek sözleşmesinin şekil şartı nedir?",
+      "paragraphs": [
+        "Gemi ipoteğinin kurulmasına ilişkin sözleşmelerin **yazılı şekilde** yapılması ve imzaların noterce onaylanması gerekir. Alternatif olarak bu anlaşma doğrudan gemi sicil müdürlüğünde de yapılabilir.",
+        "Kanunda öngörülen şekil şartlarına uygun yapılmayan ipotek anlaşmaları geçerlilik kazanmaz. Tescil öncesinde yapılan usulüne uygun başvurulardan ilgililer kaçınamaz."
+      ],
+      "bullets": [
+        "Noter onaylı imza zorunludur.",
+        "Sicil müdürlüğünde de anlaşma yapılabilir."
+      ]
+    },
+    {
+      "heading": "Sermaye piyasalarında teminat yükümlülükleri",
+      "paragraphs": [
+        "Piyasanın etkin ve sağlıklı işleyişini teminen yetkili kurul, sermaye piyasası araçlarına ilişkin **teminat yükümlülüğü** getirebilir veya mevcut yükümlülükleri değiştirebilir.",
+        "Yatırım kuruluşlarına veya teminat sorumlularına emanet edilen varlıkların hukuka aykırı şekilde satılması veya rehnedilmesi ağır cezai yaptırımlara sebep olur."
+      ],
+      "bullets": [
+        "Kurul tedbir almaya yetkilidir.",
+        "Emanet varlıkların kötüye kullanımı suçtur."
+      ]
+    },
+    {
+      "heading": "Teminat sözleşmelerinde uyulması gerekenler",
+      "paragraphs": [
+        "Sermaye piyasası araçlarını konu alan teminat sözleşmeleri ilgili mevzuat hükümlerine tabiidir. Kayden izlenen kıymetler ve teminatlar titizlikle korunur.",
+        "Piyasa işlemlerinde dürüstlük ilkelerine ve ticari teamüllere aykırı uygulamalardan kaçınmak tarafların yasal sorumluluğudur."
+      ],
+      "bullets": [
+        "Sözleşmeler mevzuata uygun olmalıdır.",
+        "Kayıtların güvenliği esastır."
+      ]
+    }
+  ],
+  "steps": [
+    "Teminat veya ipotek anlaşmasını yazılı olarak hazırlayın.",
+    "İmzaların noterce onaylanmasını sağlayın veya sicil müdürlüğüne başvurun.",
+    "İlgili sicile tescil işleminin yapılmasını talep edin.",
+    "Sermaye piyasası işlemlerinde kurul kararları ve teminat yükümlülüklerini takip edin."
+  ],
+  "documents": [
+    "Yazılı teminat veya ipotek sözleşmesi",
+    "Noter onaylı imza beyannamesi",
+    "Gemi veya varlık sicil belgesi",
+    "Yetkili kurum başvuru dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Teminat ipoteğinden önceden feragat edilebilir mi?",
+      "a": "Hayır, geminin yapımı ve onarımından doğan alacaklar için ipotek hakkından önceden feragat etmek geçerli değildir."
+    },
+    {
+      "q": "İpotek sözleşmesi hangi şekil şartına tabidir?",
+      "a": "Sözleşmenin yazılı yapılması ve imzaların noterce onaylanması veya gemi sicil müdürlüğünde gerçekleştirilmesi **şarttır**."
+    },
+    {
+      "q": "Piyasada teminat yükümlülüğü getirilebilir mi?",
+      "a": "Evet, yetkili kurul piyasanın sağlıklı işleyişi için teminat yükümlülüğü getirebilir veya mevcut yükümlülükleri değiştirebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "sirket-kurulusu",
+  "angle": "Teminat mektubu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

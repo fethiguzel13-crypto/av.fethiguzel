@@ -1,0 +1,107 @@
+{
+  "slug": "haczedilemeyen-mallar",
+  "title": "Haczedilemeyen Mallar: Ev Eşyası, Maaş ve Meslek Aletleri",
+  "description": "Hangi mallar haczedilemez, maaşın ne kadarı haczedilebilir, ev eşyası haczi mümkün mü? İİK m.82 ve m.83 çerçevesinde borçlunun korunan hakları.",
+  "h1": "Hangi mallar haczedilemez?",
+  "keywords": [
+    "haczedilemeyen mallar",
+    "ev eşyası haczi",
+    "maaş haczi oranı",
+    "maaşın dörtte biri",
+    "haciz nelere yapılamaz"
+  ],
+  "category": "İcra",
+  "related": [
+    "odeme-emrine-itiraz"
+  ],
+  "links": [
+    {
+      "label": "İİK m.82 — Haczi caiz olmayan mallar",
+      "href": "/mevzuat/iik/madde-82"
+    },
+    {
+      "label": "İİK m.83 — Kısmen haczi caiz olanlar",
+      "href": "/mevzuat/iik/madde-83"
+    },
+    {
+      "label": "İİK m.106 — Satış isteme süresi",
+      "href": "/mevzuat/iik/madde-106"
+    },
+    {
+      "label": "İcra kapak hesabı aracı",
+      "href": "/hesaplama/icra-kapak"
+    }
+  ],
+  "lead": "İcra takibinde korktuğunuzun aksine, evinizdeki temel eşyalarınız ve ailenizin yaşamını sürdürmesi için gerekli olanlar kanunla korunur. Hiçbir icra memuru, yaşam hakkınızı ihlal ederek sizi evinizde eşyasız bırakamaz.",
+  "keyInsight": "Ev eşyası kural olarak haczedilemez olsa da, altın, antika veya süs eşyası gibi kıymetli varlıklar bu korumanın dışındadır.",
+  "sections": [
+    {
+      "heading": "Ev eşyası artık haczedilemez",
+      "paragraphs": [
+        "Evinize icra memuru geldiğinde telaşlanmanız normaldir, ancak kanun ailenizin ortak kullanımına hizmet eden eşyaları özel bir zırhla korur. Buzdolabınız, çamaşır makineniz veya koltuk takımınız gibi günlük yaşamın vazgeçilmezleri haciz listesine alınamaz.",
+        "Bu koruma, yaşamınızı sürdürebilmeniz için getirilmiştir. Ancak unutmayın; para, kıymetli evrak, altın, gümüş, antika veya süs eşyası gibi **kıymetli şeyler** bu korumanın dışındadır ve haczedilebilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Mesleğinizi sürdürmeniz kanun güvencesinde",
+      "paragraphs": [
+        "Emeğinizle geçiniyorsanız, işinizi yapmanızı sağlayan araçlar da koruma altındadır. Bir terzinin dikiş makinesi veya bir marangozun tezgâhı, sizin üretim kapasitenizdir ve haczedilemez.",
+        "Çiftçiyseniz, ailenizin geçimi için zaruri olan arazi, çift hayvanları ve ziraat aletleriniz de aynı şekilde dokunulmazdır. Kanun, borcunuzu ödeyebilmeniz için öncelikle **üretim kapasitenizi** korumayı hedefler."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Maaş haczinde alt sınır",
+      "paragraphs": [
+        "Maaşınızın tamamı haczedilemez. İcra memuru önce ailenizin aylık geçimi için gerekli olan miktarı belirler ve bu tutarı düşer. Geriye kalan tutar hacze konu olabilir.",
+        "Ancak bu kesintinin bir sınırı vardır: Haczedilecek miktar, maaşınızın **dörtte birinden az olamaz**. Maaşınızda birden fazla haciz varsa, bunlar sıraya konulur ve öndeki haciz bitmeden diğerine geçilemez."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Haciz tutanağına dikkat edin",
+      "paragraphs": [
+        "Haciz işlemi sırasında yanınızda durması gereken en önemli belge haciz tutanağıdır. Eğer haczedilemeyecek bir eşya listeye alınmışsa, bunu mutlaka tutanağa yazdırmalısınız.",
+        "Tutanaktaki bu kayıt, ileride icra mahkemesine şikâyet yoluyla başvururken en büyük dayanağınız olacaktır. İtirazınızı zamanında yapmazsanız, haciz işlemleri geçerli hâle gelebilir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Haciz tutanağının bir örneğini mutlaka alın ve saklayın.",
+    "Haczedilen eşyalar arasında kanunen korunan (ev eşyası, meslek aleti gibi) bir mal olup olmadığını kontrol edin.",
+    "Haczedilemeyecek bir mal listeye alındıysa, itirazınızı hemen tutanağa geçirtin.",
+    "İcra mahkemesine 'haczedilmezlik şikâyeti' ile başvuruda bulunun.",
+    "Maaşınızdaki kesinti oranını bordronuzdan takip ederek dörtte bir kuralına uyulup uyulmadığını denetleyin.",
+    "Alacaklının bir yıl içinde satış isteyip istemediğini takip edin; süre dolarsa haciz kalkar."
+  ],
+  "documents": [
+    "Haciz tutanağı",
+    "Maaş bordrosu",
+    "İcra dosyası evrakları"
+  ],
+  "faq": [
+    {
+      "q": "Evimdeki tüm eşyalar haczedilemez mi?",
+      "a": "Kural olarak ev eşyaları haczedilemez. Ancak altın, antika veya değerli süs eşyaları gibi kıymetli varlıklar bu koruma kapsamında değildir."
+    },
+    {
+      "q": "Maaşımın ne kadarı haczedilebilir?",
+      "a": "Geçiminiz için gerekli miktar düşüldükten sonra kalan tutar haczedilebilir; ancak kesinti maaşınızın dörtte birinden az olamaz."
+    },
+    {
+      "q": "Emekli maaşım haczedilebilir mi?",
+      "a": "Emekli maaşları kısmen haczi caiz olan gelirlerdendir; ancak özel kanunlarda haczi yasaklayan hükümler olup olmadığını kontrol etmek gerekir."
+    },
+    {
+      "q": "Haciz konuldu ama satış yapılmıyor, ne olur?",
+      "a": "Alacaklının hacizden itibaren bir yıl içinde satış istemesi gerekir. Süre içinde satış istenmezse haciz kalkar."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.94,
+  "voice": "narrative",
+  "source": "gemini"
+}

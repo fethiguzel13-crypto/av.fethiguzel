@@ -1,0 +1,106 @@
+{
+  "slug": "arabuluculuk-ucreti",
+  "title": "Arabuluculuk Ücretini Kim Öder? | Vatandaş Rehberi",
+  "description": "Arabuluculuk ücreti kim öder? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
+  "h1": "Arabuluculuk ücreti kim öder?",
+  "keywords": [
+    "arabuluculuk ücreti",
+    "arabuluculuk tarife"
+  ],
+  "category": "Usul",
+  "related": [
+    "arabuluculuk-nasil-yapilir",
+    "arabuluculuk-anlasma-belgesi",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/arabuluculuk-nasil-yapilir"
+    },
+    {
+      "label": "Arabuluculuk",
+      "href": "/rehber/arabuluculuk"
+    },
+    {
+      "label": "Tarife",
+      "href": "/tarife-guncellemeleri"
+    }
+  ],
+  "lead": "Masaya oturdunuz, süreç bitti. Asıl soru kimin ne ödeyeceğidir; kural olarak ücret ve masraflar **eşit olarak** karşılanır.",
+  "keyInsight": "Aksini kararlaştırmadıysanız arabulucu ücreti ve masraflar taraflarca yarı yarıya ödenir.",
+  "sections": [
+    {
+      "heading": "Ücret neye göre belirlenir?",
+      "paragraphs": [
+        "Masa kurulduğunda akıllara ilk gelen maliyettir. Arabulucu, yaptığı emek ve mesai karşılığında ücrete ve masraf isteme hakkına sahiptir.",
+        "Süreç bittiğinde yürürlükteki **tarife** esas alınır. Taraflar aralarında başka türlü anlaşmadıysa bu kural uygulanır."
+      ],
+      "bullets": [
+        "Faaliyetin bittiği tarihteki tarife geçerlidir.",
+        "Arabulucu süreç başında avans isteyebilir."
+      ]
+    },
+    {
+      "heading": "Masraflar nasıl paylaşılır?",
+      "paragraphs": [
+        "Parasal konular konuşulurken gerginlik artabilir. Kanun net bir duruş sergiler; aksi kararlaştırılmadıkça ücret ile masraf **taraflarca eşit** olarak karşılanır.",
+        "Yani masaya iki kişi oturduysa yük ikiye bölünür. Ortak bir karar alarak farklı bir oran belirlemediyseniz bu paylaşım değişmez."
+      ],
+      "bullets": [
+        "Eşit paylaşım kuralı esastır.",
+        "Özel anlaşma ile oran değiştirilebilir."
+      ]
+    },
+    {
+      "heading": "Arabulucu tavsiye alabilir mi?",
+      "paragraphs": [
+        "Süreç boyunca güven en önemli unsurdur. Arabulucu, arabuluculuk sürecine ilişkin olarak belirli kişiler için aracılık yapma veya tavsiye etmenin karşılığında **ücret alamaz**.",
+        "Bu yasağa aykırı yapılan her türlü işlem geçersizdir. Taraflar bu kurala uymak zorundadır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Son tutanakta ne aranır?",
+      "paragraphs": [
+        "Toplantı bittiğinde elinizde bir evrak kalır. Davacı, arabuluculuk faaliyeti sonunda anlaşmaya varılamadığına ilişkin son tutanağın aslını veya onaylı örneğini mahkemeye sunmak zorundadır.",
+        "Bu zorunluluğa uyulmazsa mahkeme kesin süre verir; aksi takdirde **dava reddedilir**."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Arabuluculuk bürosuna başvururken tarife kurallarını öğrenin.",
+    "İlk iki saatin karşılanma durumunu ve aravans taleplerini kontrol edin.",
+    "Anlaşma veya anlaşmazlık durumunda ücretin nasıl paylaşıldığını netleştirin.",
+    "Yapılan ödemelere ait makbuzları ve son tutanağı eksiksiz saklayın.",
+    "Gerekirse ödemeleri yargılama giderlerine ekletmek için dosyaya sunun."
+  ],
+  "documents": [
+    "Arabulucu Asgari Ücret Tarifesi",
+    "Son tutanak",
+    "Ödeme makbuzları",
+    "Başvuru evrakı"
+  ],
+  "faq": [
+    {
+      "q": "Arabulucu avans isteyebilir mi?",
+      "a": "Evet, arabulucu yapmış olduğu faaliyet karşılığı ücret ve masraflar için avans talep etme hakkına sahiptir."
+    },
+    {
+      "q": "Ücreti kim öder?",
+      "a": "Aksi kararlaştırılmadıkça arabulucunun ücreti ve masraflar taraflarca eşit olarak karşılanır."
+    },
+    {
+      "q": "Son tutanak sunulmazsa ne olur?",
+      "a": "Son tutanağın aslını veya onaylı örneğini sunmazsanız, mahkeme bir haftalık kesin süre verir; uyulmazsa dava usulden reddedilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "arabuluculuk-nasil-yapilir",
+  "angle": "Ücret",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

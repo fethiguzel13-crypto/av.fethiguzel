@@ -1,0 +1,115 @@
+{
+  "slug": "kat-karsiligi-insaat",
+  "title": "Kat karşılığı inşaat — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Kat karşılığı inşaat hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
+  "h1": "Kat karşılığı inşaat",
+  "keywords": [
+    "kat karşılığı inşaat",
+    "kat karsiligi insaat"
+  ],
+  "category": "Eşya",
+  "related": [
+    "izale-i-suyu",
+    "gayrimenkul-satis-vaadi",
+    "tapu-devri-nasil-yapilir",
+    "iskan-belgesi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/izale-i-suyu"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    }
+  ],
+  "lead": "Arsasını müteahhite verip karşılığında daire sahibi olmak istiyorsunuz. Süreç, doğru sözleşmenin yapılması ve hakların tapuya işlenmesiyle güvence altına alınır.",
+  "keyInsight": "Kat karşılığı inşaat sözleşmelerinden doğan haklar tapu kütüğüne şerh verilebilir; bu şerh sonradan kazanılan hak sahiplerine karşı ileri sürülebilir.",
+  "sections": [
+    {
+      "heading": "Arsayı verip bina yaptırmak",
+      "paragraphs": [
+        "Elinizde bir arsa var ve buraya yeni bir bina dikilmesi için bir yükkleniciyle anlaşmak üzeresiniz. Arsa payı karşılığı inşaat, tarafların haklarını dengeleyen bir model olarak karşınıza çıkar. Bu aşamada yapılacak anlaşmanın detayları, ileride kurulacak **kat irtifakı ve kat mülkiyeti** için temel oluşturur.",
+        "İnşaat süreci ilerledikçe hak sahiplerine düşecek bağımsız bölümler netleşir. Yüklenici ile arsa maliki arasında düzenlenen sözleşmeler ve noterlik işlemleri, binanın yasal altyapısını kurar."
+      ],
+      "bullets": [
+        "Arsa payı karşılığı inşaat sözleşmesi",
+        "Bağımsız bölümlerin tespiti",
+        "Noterlik işlemleri"
+      ]
+    },
+    {
+      "heading": "Tapuda hakları korumak",
+      "paragraphs": [
+        "Müteahhitle anlaşma yaptıktan sonra en önemli adım haklarınızı güvenceye almaktır. **Tapu kütüğüne şerh** düşülmesi, arsa üzerinde sonradan hak iddia edebilecek kişilere karşı elinizi güçlendirir.",
+        "Bu şerh sayesinde, sözleşmeden doğan kişisel haklarınız koruma altına alınır ve taşınmaz üzerinde sonradan kazanılan hak sahiplerine karşı ileri sürülebilir hale gelir."
+      ],
+      "bullets": [
+        "Kişisel hakların korunması",
+        "Tapu siciline işleme"
+      ]
+    },
+    {
+      "heading": "İnşaat bitince kat mülkiyetine geçiş",
+      "paragraphs": [
+        "Bina tamamlandığında ve oturma izni alındığında resmi işlemler hız kazanır. Yapı kullanma izin belgesinin düzenlenmesiyle birlikte cins değişikliği işlemleri **resen yapılır** ve tapu kayıtlarına işlenir.",
+        "Elektronik ortamda ilgili idare tarafından onaylanan mimari proje ve yönetim planı, bu aşamada tapu süreçlerinin yürütülmesinde doğrudan esas alınır."
+      ],
+      "bullets": [
+        "Yapı kullanma izin belgesi",
+        "Cins değişikliği işlemleri"
+      ]
+    },
+    {
+      "heading": "Proje ve yönetim planı aşaması",
+      "paragraphs": [
+        "Kat mülkiyetinin kurulması için gerekli olan mimari projeler ve yönetim planları hazırlanır. Proje müellifi mimar tarafından hazırlanan ve yetkili kurumlarca onaylanan projeler tapu müdürlüğüne iletilir.",
+        "Bu belgelerin hazırlanmasında ve tapuya bildirilmesinde **elektronik ortam** kullanılır, böylece işlemler daha hızlı ve güvenli bir şekilde tamamlanır."
+      ],
+      "bullets": [
+        "Mimari proje",
+        "Yönetim planı"
+      ]
+    }
+  ],
+  "steps": [
+    "Kat karşılığı inşaat sözleşmesini usulüne uygun şekilde düzenleyin.",
+    "Sözleşmeden doğan haklarınızı tapu kütüğüne şerh ettirin.",
+    "Yapı tamamlandığında yapı kullanma izin belgesini alın.",
+    "Mimari proje ve yönetim planı ile tapu müdürlüğüne başvurun.",
+    "Cins değişikliği ve tescil işlemlerinin tamamlanmasını bekleyin."
+  ],
+  "documents": [
+    "Kat karşılığı inşaat sözleşmesi",
+    "Mimari proje",
+    "Yönetim planı",
+    "Yapı kullanma izin belgesi",
+    "Tescil bildirimi"
+  ],
+  "faq": [
+    {
+      "q": "Kat karşılığı inşaat sözleşmesi tapuya şerh edilebilir mi?",
+      "a": "Evet, arsa payı karşılığı inşaat sözleşmesinden doğan haklar tapu kütüğüne şerhedilebilir ve bu sayede sonradan kazanılan haklara karşı ileri sürülebilir."
+    },
+    {
+      "q": "Kat mülkiyeti nasıl kurulur?",
+      "a": "Kat mülkiyeti, resmi senet düzenlenmesi ve tapu siciline tescil edilmesi ile doğar."
+    },
+    {
+      "q": "Yapı kullanma izin belgesi alındıktan sonra ne olur?",
+      "a": "Yapı kullanma izin belgesinin düzenlenmesiyle birlikte ilgili idare tarafından cins değişikliği işlemleri resen yapılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "izale-i-suyu",
+  "angle": "Kat karşılığı inşaat",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

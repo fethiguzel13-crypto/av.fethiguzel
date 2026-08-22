@@ -1,0 +1,104 @@
+{
+  "slug": "is-kazasi-bildirimi",
+  "title": "İş kazası bildirimi nasıl yapılır — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İş kazası bildirimi nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
+  "h1": "İş kazası bildirimi nasıl yapılır?",
+  "keywords": [
+    "iş kazası bildirimi",
+    "SGK iş kazası bildirimi"
+  ],
+  "category": "İş",
+  "related": [
+    "is-kazasi-tazminati",
+    "is-sozlesmesi-feshi",
+    "sgk-hizmet-dokumu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/is-kazasi-tazminati"
+    },
+    {
+      "label": "İSG",
+      "href": "/kategori/isg"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    }
+  ],
+  "lead": "İşyerinde bir kaza yaşandığında, işverenin yasal yükümlülükleri derhal devreye girer. Asıl mesele, kazanın kaydının tutulması ve ilgili kurumlara zamanında bildirilmesidir.",
+  "keyInsight": "İş kazalarının kazadan sonraki üç iş günü içinde Sosyal Güvenlik Kurumuna bildirilmesi zorunludur.",
+  "sections": [
+    {
+      "heading": "Kaza anında ilk adım ne olmalıdır?",
+      "paragraphs": [
+        "Fabrikada veya ofiste bir yaralanma meydana geldi. Çalışanın sağlık durumu güvenceye alınırken, işveren tüm iş kazalarının ve meslek hastalıklarının kaydını tutmakla yükümlüdür.",
+        "İşveren ayrıca gerekli incelemeleri yaparak bunlarla ilgili raporları düzenlemek zorundadır."
+      ],
+      "bullets": [
+        "Yaralanma olmasa bile ekipman zararlarını inceleyin",
+        "Kayıtları eksiksiz tutun"
+      ]
+    },
+    {
+      "heading": "Bildirim nereye ve ne zaman yapılır?",
+      "paragraphs": [
+        "İş kazasının gerçekleşmesinin ardından **kazadan sonraki üç iş günü içinde** Sosyal Güvenlik Kurumuna bildirimde bulunulması şarttır.",
+        "Sağlık hizmeti sunucuları kendilerine intikal eden iş kazalarını en geç on gün içinde Sosyal Güvenlik Kurumuna bildirir."
+      ],
+      "bullets": [
+        "İşveren için sınır: 3 iş günü",
+        "Sağlık hizmeti sunucusu için sınır: 10 gün"
+      ]
+    },
+    {
+      "heading": "Potansiyel tehlikeler nasıl raporlanır?",
+      "paragraphs": [
+        "Yaralanma veya ölüme neden olmadığı hâlde işyeri ya da iş ekipmanının zarara uğramasına yol açan olaylar da göz ardı edilemez.",
+        "Çalışanı, işyerini veya iş ekipmanını zarara uğratma potansiyeli olan bu olaylar incelenerek ilgili raporlar düzenlenmelidir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Meslek hastalıklarında süreç nasıl işletilir?",
+      "paragraphs": [
+        "Sağlık hizmeti sunucuları veya işyeri hekimi tarafından işverene bildirilen meslek hastalıkları için de benzer bir takvim geçerlidir.",
+        "İşveren, meslek hastalığını öğrendiği tarihten itibaren **üç iş günü içinde** Sosyal Güvenlik Kurumuna bildirim yapmak zorundadır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Kazayı ve olay yerini inceleyerek gerekli kayıtları tutun",
+    "Yaralanma durumunda çalışanın sağlık hizmeti almasını sağlayın",
+    "İş kazasını kazadan sonraki üç iş günü içinde Sosyal Güvenlik Kurumuna bildirin",
+    "Potansiyel tehlike ve ekipman zararı olaylarını da raporlayın"
+  ],
+  "documents": [
+    "İş kazası inceleme raporu",
+    "Sağlık raporları",
+    "Olay yeri tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "İş kazası kaç gün içinde bildirilmelidir?",
+      "a": "İş kazalarının kazadan sonraki üç iş günü içinde Sosyal Güvenlik Kurumuna bildirilmesi gerekir."
+    },
+    {
+      "q": "Sağlık kuruluşları kazayı ne zaman bildirir?",
+      "a": "Sağlık hizmeti sunucuları kendilerine intikal eden iş kazalarını en geç on gün içinde Sosyal Güvenlik Kurumuna bildirir."
+    },
+    {
+      "q": "Yaralanma olmayan tehlikeli olaylar bildirilmeli mi?",
+      "a": "Yaralanma veya ölüme neden olmasa bile işyeri veya ekipmana zarar verme potansiyeli olan olaylar incelenip raporlanmalıdır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "is-kazasi-tazminati",
+  "angle": "Bildirim",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

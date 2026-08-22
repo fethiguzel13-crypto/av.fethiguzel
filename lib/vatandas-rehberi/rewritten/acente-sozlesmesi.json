@@ -1,0 +1,111 @@
+{
+  "slug": "acente-sozlesmesi",
+  "title": "Acente sözleşmesi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Acente sözleşmesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
+  "h1": "Acente sözleşmesi",
+  "keywords": [
+    "acente sözleşmesi",
+    "acente sozlesmesi"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "sirket-kurulusu",
+    "ticari-isletme-nedir",
+    "franchise-sozlesmesi",
+    "is-sozlesmesi-feshi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/sirket-kurulusu"
+    },
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-isletme"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=acente"
+    }
+  ],
+  "lead": "Ticari bir işletmeye bağlı olmadan belirli bir bölgede sürekli çalışan acente, sözleşmeyle işleri yürütür. Acentelik ilişkisinde haklarınızı korumak için kuralları net bilmelisiniz.",
+  "keyInsight": "Acente, kurulan işlem yerine getirildiği anda ve ölçüde ücrete hak kazanır; ancak üçüncü kişinin işlemi yerine getirmeyeceği kesinleşirse bu hak düşer.",
+  "sections": [
+    {
+      "heading": "Acente kime denir ve nasıl çalışır?",
+      "paragraphs": [
+        "İşletmeye bağımlı bir çalışan gibi hareket etmeden, belirli bir bölgede sürekli şekilde ticari sözleşmelere aracılık eden veya bunları yapan kişiye acente denir.",
+        "Bu ilişkide özel bir hüküm yoksa aracı acentelere simsarlık, sözleşme yapan acentelere komisyon hükümleri uygulanır."
+      ],
+      "bullets": [
+        "Bağımlı personel statüsünde değildir.",
+        "Sürekli bir bölgede faaliyet gösterir."
+      ]
+    },
+    {
+      "heading": "Ücret ne zaman hak edilir?",
+      "paragraphs": [
+        "Acente, kurulan işlem yerine getirildiği anda **ücrete hak kazanır**. Taraflar bu kuralı değiştirebilir.",
+        "Ancak müvekkil işlemi yerine getirdiğinde acente, izleyen ayın son günü istenebilecek uygun bir avans alabilir."
+      ],
+      "bullets": [
+        "Üçüncü kişi borcunu ödemezse ücret hakkı düşer.",
+        "Müvekkil kaynaklı engellerde ücret hakkı korunabilir."
+      ]
+    },
+    {
+      "heading": "Hapis hakkı ne anlama gelir?",
+      "paragraphs": [
+        "Acente, müvekkilindeki bütün alacakları ödeninceye kadar elinde bulunan taşınırlar ve kıymetli evrak üzerinde **hapis hakkına sahiptir**.",
+        "Müvekkil aciz halinde ise henüz vadesi gelmemiş alacaklar için de bu hak kullanılabilir."
+      ],
+      "bullets": [
+        "Alacaklar ödenene kadar mallar tutulabilir.",
+        "Değerli evrak ve senetler kapsamdadır."
+      ]
+    },
+    {
+      "heading": "Sözleşme kuralları ve istisnalar",
+      "paragraphs": [
+        "Taşıma, deniz ticareti, sigorta ve turizm gibi alanlarda özel düzenlemeler saklı tutulmuştur.",
+        "Genel kuralların yanında ilgili sektörün kendi mevzuatı da dikkate alınmalıdır."
+      ],
+      "bullets": [
+        "Sektörel istisnalar geçerlidir.",
+        "Özel kanun hükümleri önceliklidir."
+      ]
+    }
+  ],
+  "steps": [
+    "Sözleşme şartlarını ve bölge tanımını dikkatle inceleyin.",
+    "Yapılan işlemlerin gerçekleşme durumunu takip edin.",
+    "Alacaklarınız için hapis hakkı koşullarını değerlendirin.",
+    "Ödeme ve avans zamanlarını takvime bağlayın."
+  ],
+  "documents": [
+    "Acentelik sözleşmesi",
+    "İşlem belgeleri ve faturalar",
+    "Kıymetli evrak ve senetler"
+  ],
+  "faq": [
+    {
+      "q": "Acente her durumda ücrete hak kazanır mı?",
+      "a": "Hayır, işlem yerine getirildiği ölçüde ücret hak edilir. Üçüncü kişinin ödemeyeceği kesinleşirse hak düşer."
+    },
+    {
+      "q": "Hapis hakkı hangi eşyalar için geçerlidir?",
+      "a": "Müvekkile ait olan ve acentenin elinde bulunan taşınırlar, kıymetli evrak ve eşyayı temsil eden senetler üzerinde kullanılabilir."
+    },
+    {
+      "q": "Avans ödemesi ne zaman istenebilir?",
+      "a": "Müvekkil işlemi yerine getirdiğinde, izleyen ayın son günü uygun bir avans talep edilebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "sirket-kurulusu",
+  "angle": "Acente sözleşmesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

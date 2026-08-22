@@ -1,0 +1,111 @@
+{
+  "slug": "konut-kirasi-artis-siniri",
+  "title": "Konut Kira Artış Yasal Sınırı | Vatandaş Rehberi",
+  "description": "Konut kira zammı yasal sınırı nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
+  "h1": "Konut kira zammı yasal sınırı nedir?",
+  "keywords": [
+    "konut kira artış sınırı",
+    "yasal kira zammı tavanı"
+  ],
+  "category": "Kira",
+  "related": [
+    "kira-artis-orani-nasil-hesaplanir",
+    "kira-tespit-davasi",
+    "kiraci-haklari-nelerdir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kira-artis-orani-nasil-hesaplanir"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/kira"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    }
+  ],
+  "lead": "Ev sahibiniz kapınızı çaldı ve bütçenizi aşan bir kira artışı talep etti. Telaşlanmayın, çünkü kira artışlarında uyulması gereken hukuki sınırlar ve başvuru yolları kanunla net bir şekilde çizilmiştir.",
+  "keyInsight": "Kira uyuşmazlıklarında doğrudan mahkemeye koşmadan önce **arabulucuya başvurmak** dava şartıdır.",
+  "sections": [
+    {
+      "heading": "Kira ilişkisinde anlaşmazlık çıkınca ne yapılır?",
+      "paragraphs": [
+        "Ev sahibi ile aranızda zam veya tahliye konusunda bir anlaşmazlık doğdu. Bu durumda **kira uyuşmazlıkları** için doğrudan dava açamazsınız. Önce arabuluculuk kapısını çalmanız gerekir.",
+        "Arabuluculuk süreci sonunda taraflar anlaşırsa bir belge düzenlenir. Taşınmazla ilgili bu anlaşma belgesinin **icra edilebilirliğine ilişkin şerh** alınması zorunludur. Bu şerh, sulh hukuk mahkemesinden alınır."
+      ],
+      "bullets": [
+        "Kira uyuşmazlıklarında arabulucuya başvuru zorunludur.",
+        "Anlaşma belgesi için mahkemeden şerh alınmalıdır."
+      ]
+    },
+    {
+      "heading": "Taksitli satışlar kira ilişkisini nasıl etkiler?",
+      "paragraphs": [
+        "Eğer konut veya taşınır alım satımını taksitle yapıyorsanız, **yazılı sözleşme yapılması** geçerlilik şartıdır. Sözleşmede tarafların bilgileri, peşinat ve taksit tutarları açıkça yer almalıdır.",
+        "Bu tür finansal işlemlerde ödünç veren veya satıcı, yasal haklarını korumak için belirli kurallara uymak zorundadır. Alıcının hakları da kanunla güvence altına alınmıştır."
+      ],
+      "bullets": [
+        "Taksitli satışlar yazılı olmak zorundadır.",
+        "Ödeme planı ve vade bilgileri net yazılmalıdır."
+      ]
+    },
+    {
+      "heading": "Eşya kaçırma veya alıkoyma durumunda ne olur?",
+      "paragraphs": [
+        "Kiracı taşınmak istediğinde veya ev sahibi alacağını güvence altına almak istediğinde belirli hukuki yollar vardır. **Alıkoyma kararı** ancak sulh hâkimi veya icra müdürlüğü aracılığıyla alınabilir.",
+        "Eğer alıkonulan eşya gizlice veya zorla götürülürse, **on gün içinde** kolluk gücü yardımıyla eski yerine geri getirilir. Kendi başınıza hareket etmek haklıyken haksız duruma düşmenize neden olabilir."
+      ],
+      "bullets": [
+        "Alıkoyma kararı hakim veya icra aracılığıyla alınır.",
+        "Kaçırılan eşya on gün içinde geri getirilebilir."
+      ]
+    },
+    {
+      "heading": "Arabulucu olmak için hangi şartlar aranır?",
+      "paragraphs": [
+        "Kira uyuşmazlıklarında çözüm ararken başvurduğunuz arabulucuların da belirli sicil şartlarını taşıması gerekir. Arabulucu olabilmek için Türk vatandaşı olmak ve hukuk fakültesinden mezun olmak şarttır.",
+        "Ayrıca meslekte belirli bir kıdeme sahip olmak, arabuluculuk eğitimini tamamlamak ve sınavda başarılı olmak gereklidir. Bu kişiler adli yargı komisyonlarına göre listelenir."
+      ],
+      "bullets": [
+        "Arabulucular hukuk fakültesi mezunu olmalıdır.",
+        "Eğitim ve sınav şartı aranır."
+      ]
+    }
+  ],
+  "steps": [
+    "Kira artışı veya uyuşmazlık durumunda öncelikle karşı tarafla iletişim kurun.",
+    "Anlaşma sağlanamazsa yetkili arabulucuya başvurun.",
+    "Arabuluculuk görüşmelerine katılarak çözüm arayın.",
+    "Anlaşma sağlanması durumunda sulh hukuk mahkemesinden icra edilebilirlik şerhi alın."
+  ],
+  "documents": [
+    "Kira sözleşmesi",
+    "Arabuluculuk başvuru formu",
+    "Anlaşma belgesi",
+    "Mahkeme şerh evrakı"
+  ],
+  "faq": [
+    {
+      "q": "Kira uyuşmazlığında doğrudan dava açabilir miyim?",
+      "a": "Hayır, kira ilişkisinden kaynaklanan uyuşmazlıklarda dava açmadan önce arabulucuya başvurulmuş olması dava şartıdır."
+    },
+    {
+      "q": "Anlaşma belgesi aldıktan sonra ne yapmalıyım?",
+      "a": "Düzenlenen anlaşma belgesi için taşınmazın bulunduğu yer sulh hukuk mahkemesinden icra edilebilirlik şerhi almanız zorunludur."
+    },
+    {
+      "q": "Alıkonulan eşya kaç gün içinde geri getirilebilir?",
+      "a": "Alıkoyma kararının konusu olan eşya gizlice veya zorla götürülürse, götürülmelerinden başlayarak on gün içinde kolluk yardımıyla geri getirilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kira-artis-orani-nasil-hesaplanir",
+  "angle": "Konut yasal artış tavanı (dönemsel)",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

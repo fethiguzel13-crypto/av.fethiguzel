@@ -1,0 +1,110 @@
+{
+  "slug": "arabuluculuk-anlasma-icra",
+  "title": "Arabuluculuk Anlaşmasının İcrası | Vatandaş Rehberi",
+  "description": "Anlaşma belgesi nasıl icra edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
+  "h1": "Anlaşma belgesi nasıl icra edilir?",
+  "keywords": [
+    "arabuluculuk anlaşması icra"
+  ],
+  "category": "Usul",
+  "related": [
+    "arabuluculuk-nasil-yapilir",
+    "arabuluculuk-anlasma-belgesi",
+    "icra-takibi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/arabuluculuk-nasil-yapilir"
+    },
+    {
+      "label": "Arabuluculuk",
+      "href": "/rehber/arabuluculuk"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Masada el sıkıştınız, imza attınız ancak karşı taraf sözünü tutmuyor. Elinizdeki kağıdı icraya koyabilmek için **icra edilebilirlik şerhi** almanız gerekir.",
+  "keyInsight": "Her anlaşma doğrudan icra edilemez; taşınmaz gibi bazı özel konularda mahkeme şerhi ve denetimi zorunludur.",
+  "sections": [
+    {
+      "heading": "Masadaki imza tek başına yeter mi?",
+      "paragraphs": [
+        "Arabuluculuk masasında uzun tartışmalar bitti, taraflar el sıkıştı ve kağıda imza atıldı. Artık elinizde ortak bir irade belgesi var ancak bu belge doğrudan haciz yapmanızı sağlamaz.",
+        "Anlaşmanın mahkeme kararı gibi sonuç doğurması için **icra edilebilirliğe ilişkin şerh** alınması gerekir. Bu şerh, belgenizi ilam niteliğinde belge yapar."
+      ],
+      "bullets": [
+        "Belgeyi taraflar ve arabulucu imzalar",
+        "İçerik cebri icraya elverişli olmalıdır"
+      ]
+    },
+    {
+      "heading": "Şerh hangi mahkemeden istenir?",
+      "paragraphs": [
+        "Dava açılmadan önce arabuluculuğa başvurulduysa yolunuz sulh hukuk mahkemesidir. Başvuruyu, **arabulucunun görev yaptığı yer** mahkemesine yapmalısınız.",
+        "Eğer uyuşmazlık dava sırasında arabuluculuğa taşındıysa, şerhi davanın görüldüğü mahkemeden talep edersiniz. Mahkeme bu incelemeyi kural olarak dosya üzerinden yürütür."
+      ],
+      "bullets": [
+        "Dava öncesi: Sulh hukuk mahkemesi",
+        "Dava sırası: Davaya bakan mahkeme"
+      ]
+    },
+    {
+      "heading": "Taşınmaz uyuşmazlıklarında kural nedir?",
+      "paragraphs": [
+        "Konu ev veya arsa gibi bir taşınmazın devri ise süreç daha sıkı kurallara bağlanmıştır. Taşınmazın devri veya ayni hak kurulmasına ilişkin anlaşmalarda **icra edilebilirlik şerhi alınması zorunludur**.",
+        "Mahkeme bu aşamada içeriği, kanunlardaki usul ve esaslara uygunluk yönünden denetler. Şerh verildikten sonra tapu müdürlüğünden tescil talebinde bulunabilirsiniz."
+      ],
+      "bullets": [
+        "Taşınmazın bulunduğu yer mahkemesine başvurulur",
+        "Tapuda resmî senet aranmaksızın tescil yapılır"
+      ]
+    },
+    {
+      "heading": "Hangi dosyalarda duruşma yapılır?",
+      "paragraphs": [
+        "Mahkeme incelemesi kural olarak dosya üzerinden ve çekişmesiz yargı işi olarak yapılır. Ancak arabuluculuğa elverişli olan **aile hukukuna ilişkin uyuşmazlıklarda inceleme duruşmalı** olarak gerçekleştirilir.",
+        "Hakim bu incelemede sadece anlaşmanın arabuluculuğa ve cebri icraya uygun olup olmadığını denetler, uyuşmazlığın esasına baştan girmez."
+      ],
+      "bullets": [
+        "Aile hukuku uyuşmazlıklarında duruşma açılır",
+        "Diğer işlerde dosya üzerinden karar verilir"
+      ]
+    }
+  ],
+  "steps": [
+    "Arabuluculuk sonunda varılan anlaşmayı taraflar ve arabulucu ile birlikte imzalayın.",
+    "Yetkili sulh hukuk mahkemesine veya devam eden davadaki mahkemeye dilekçe ile başvurun.",
+    "Mahkemenin dosya üzerinden veya aile uyuşmazlıklarında duruşmalı yapacağı incelemeyi bekleyin.",
+    "İcra edilebilirlik şerhini içeren karar ve belgeyi alın.",
+    "Gerekirse bu belgeyle birlikte icra dairesinde takip işlemlerini başlatın."
+  ],
+  "documents": [
+    "Arabuluculuk anlaşma belgesi",
+    "Mahkemeye başvuru dilekçesi",
+    "Taşınmaz söz konusu ise tapu ve ilgili kurum kayıtları"
+  ],
+  "faq": [
+    {
+      "q": "Her anlaşma belgesi için mahkemeye gitmek şart mı?",
+      "a": "Kanunlarda icra edilebilirlik şerhi zorunlu kılınan haller ve aile hukuku dışındaki bazı ticari veya hukuki durumlarda, avukatlar ve arabulucunun birlikte imzaladığı belgeler şerh aranmaksızın ilam niteliği taşıyabilir."
+    },
+    {
+      "q": "Mahkeme incelemesi ne kadar sürer?",
+      "a": "Kanun metninde kesin bir gün sayısı yazmaz; ancak inceleme dosya üzerinden hızlı bir çekişmesiz yargı işi olarak yapılır."
+    },
+    {
+      "q": "Anlaşma olduktan sonra yeniden dava açabilir miyim?",
+      "a": "Hayır. Arabuluculuk faaliyeti sonunda anlaşmaya varılması hâlinde, üzerinde anlaşılan hususlar hakkında taraflarca dava açılamaz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "arabuluculuk-nasil-yapilir",
+  "angle": "İcra",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

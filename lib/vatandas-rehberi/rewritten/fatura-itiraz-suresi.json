@@ -1,0 +1,114 @@
+{
+  "slug": "fatura-itiraz-suresi",
+  "title": "Faturaya itiraz süresi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Faturaya itiraz süresi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
+  "h1": "Faturaya itiraz süresi",
+  "keywords": [
+    "faturaya itiraz süresi",
+    "fatura itiraz suresi"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "sirket-kurulusu",
+    "fatura-iptali",
+    "ticari-isletme-nedir",
+    "e-fatura-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/sirket-kurulusu"
+    },
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-isletme"
+    },
+    {
+      "label": "VUK",
+      "href": "/kategori/vuk"
+    }
+  ],
+  "lead": "Posta kutunuzda veya masanızda bir fatura buldunuz ancak kalemde yazanlar ile aldığınız hizmet birbirini tutmuyor. Telaş yapmayın; faturadaki yanlışlığa karşı sesinizi **zamanında ve yazılı** olarak duyurmanız gerekir.",
+  "keyInsight": "Faturaya itiraz ederken sözlü konuşmalar hiçbir şey ifade etmez; mutlaka karşı tarafa **ulaştığı kanıtlanan** bir yöntem seçmelisiniz.",
+  "sections": [
+    {
+      "heading": "Faturayı elinize aldığınızda ilk ne yapılır?",
+      "paragraphs": [
+        "Kapınıza dayanan ya da e-posta kutunuza düşen faturayı açtınız ve rakamda ya da hizmette bir hata gördünüz. Kalemi elinize alıp faturanın üzerine çarpı atmak veya şirketi arayıp bağırıp çağırmak hiçbir şeyi değiştirmez. Hukuk, bu aşamada sakin ve belgelenebilir adımlar atmanızı bekler.",
+        "Ticari hayatta işler belgelerle yürüdüğü için, memnuniyetsizliğinizi veya faturadaki hatayı karşı tarafa resmi olarak bildirmek zorundasınız. İtirazınızı **en kısa sürede** yapmak hem sizi haklı duruma getirir hem de borcu kabul etmiş sayılmanızı engeller."
+      ],
+      "bullets": [
+        "Faturadaki kalemleri tek tek inceleyin.",
+        "Hizmetin eksik veya hatalı olduğunu not edin."
+      ]
+    },
+    {
+      "heading": "İtirazınızı nasıl ve ne şekilde ulaştırmalısınız?",
+      "paragraphs": [
+        "Telefon açıp 'Bu faturayı kabul etmiyorum' demek hukuken var yok arasındadır. Yarın mahkemelik olduğunuzda 'aradım' demenizi kimse kanıtlayamaz. Bu yüzden itirazınızın **yazılı olması** en temel kuraldır.",
+        "Şirkete gönderilecek yazının elinize ulaştığını gösteren bir belge mutlaka elinizde kalmalıdır. Noter aracılığıyla göndermek en sağlam yoldur ancak e-posta veya kargo ile gönderiyorsanız mutlaka teslim alındığına dair bir imza veya sistem onayı almalısınız."
+      ],
+      "bullets": [
+        "Sözlü itirazlardan kesinlikle kaçının.",
+        "Yazılı metinde faturanın tarihini ve numarasını açıkça belirtin."
+      ]
+    },
+    {
+      "heading": "Sessiz kalmanın bedeli nedir?",
+      "paragraphs": [
+        "Faturayı görüp 'Zaten hata düzelir' diyerek kenara koymak ve beklemek en büyük tuzaktır. Siz ses çıkarmadıkça karşı taraf faturadaki tüm bilgileri onayladığınızı varsayar. Bu durum ileride haciz veya dava kapınızı çaldığında elinizi zayıflatır.",
+        "Hukuk, hak arayan ve zamanında tepki veren insanı korur. Haklı olsanız bile sessiz kalmanız, borcu kabullendiğiniz şeklinde yorumlanabilir."
+      ],
+      "bullets": [
+        "Faturayı incelemeden ödeme yapmayın.",
+        "Gecikmeden yazılı bildirim hazırlayın."
+      ]
+    },
+    {
+      "heading": "Yanınızda hangi belgeler durmalı?",
+      "paragraphs": [
+        "İtiraz sürecini başlatırken ve sonrasında mahkemeye veya ilgili kuruma gitmeniz gerekirse diye bazı evrakları bir dosyada toplamak hayat kurtarır. Bu evraklar sizin kalkanınız olacaktır.",
+        "Karşı tarafın size gönderdiği fatura aslını, sizin yaptığınız yazılı itiraz metnini ve bu metnin karşı tarafa ulaştığını gösteren kargo ya da noter alındısını bir arada saklayın."
+      ],
+      "bullets": [
+        "Hatalı fatura nüshası.",
+        "Yazılı itiraz dilekçesi.",
+        "Teslim alındı belgesi."
+      ]
+    }
+  ],
+  "steps": [
+    "Faturadaki kalemleri ve tutarları dikkatlice inceleyin.",
+    "Hatanın nerede olduğunu net bir şekilde kağıda dökün.",
+    "Karşı tarafa göndereceğiniz yazılı itiraz metnini hazırlayın.",
+    "İtirazınızı noter, kargo veya kayıtlı elektronik posta yoluyla gönderin.",
+    "Gönderi belgelerini ve teslim raporunu saklayın."
+  ],
+  "documents": [
+    "Hatalı fatura",
+    "Yazılı itiraz dilekçesi",
+    "Noter veya kargo teslim belgesi",
+    "İlgili sözleşme veya sipariş formu"
+  ],
+  "faq": [
+    {
+      "q": "Telefonla arayıp faturaya itiraz ettim, geçerli mi?",
+      "a": "Hayır, telefon görüşmeleri hukuki olarak itiraz sayılmaz. İtiraz mutlaka yazılı ve kanıtlanabilir olmalıdır."
+    },
+    {
+      "q": "Faturayı ödersem itiraz edebilir miyim?",
+      "a": "Faturayı ihtirazi kayıt koymadan ödemeniz, içeriğini kabul ettiğiniz anlamına gelebilir; bu nedenle ödeme yaparken dikkatli olunmalıdır."
+    },
+    {
+      "q": "İtiraz dilekçesinde neler yazmalı?",
+      "a": "Faturanın tarih ve numarası, hangi kalemlere neden itiraz edildiği açıkça ve net bir şekilde yer almalıdır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "sirket-kurulusu",
+  "angle": "Faturaya itiraz süresi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

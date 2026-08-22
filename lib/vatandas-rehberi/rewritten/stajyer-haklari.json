@@ -1,0 +1,113 @@
+{
+  "slug": "stajyer-haklari",
+  "title": "Stajyer hakları — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Stajyer hakları hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
+  "h1": "Stajyer hakları",
+  "keywords": [
+    "stajyer hakları",
+    "stajyer haklari"
+  ],
+  "category": "İş",
+  "related": [
+    "ibraname-nedir",
+    "sgk-hizmet-dokumu",
+    "asgari-ucret-net-brut",
+    "is-sozlesmesi-feshi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/ibraname-nedir"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    }
+  ],
+  "lead": "Okul masanızdan kalkıp bir işyerine adım attınız. Karşınızda duran dosyaların arasında asıl merak ettiğiniz şey, adınızın başındaki stajyer unvanının haklarınızı unutturup unutturmayacağıdır.",
+  "keyInsight": "Stajyer olduğunuz iddiasıyla **asıl işçi gibi** çalıştırılıyorsanız, haklarınız normal işçi statüsüne göre değerlendirilir.",
+  "sections": [
+    {
+      "heading": "Okul stajı ile fiilî çalışma arasındaki fark nedir?",
+      "paragraphs": [
+        "Sabah erken kalkıp masaya oturuyorsunuz ama ortada ne okuldan gelen bir zorunlu form ne de staj dosyası var. Sadece işin ucundan tutmanız isteniyor.",
+        "Bu durumda kendinizi masum bir öğrenci gibi değil, işletmenin çarklarını döndüren **bir çalışan** gibi bulursunuz. Aradaki ince çizgi, eğitimin amacından sapıp asıl işin yükünü sırtlamanızla belirginleşir."
+      ],
+      "bullets": [
+        "Eğitim amaçlı geçici katılım",
+        "Normal kadronun yerini doldurma"
+      ]
+    },
+    {
+      "heading": "Sağlık güvencesi ve bildirimler nasıl yürür?",
+      "paragraphs": [
+        "Çalışma alanında kafanıza bir şey düşebilir ya da makine başında elinizi incitebilirsiniz. Telaşla hastaneye koştuğunuzda **ilk sorulan şey** sigorta sicil numaranız olur.",
+        "İş kazası veya meslek hastalığı gibi talihsiz anlarda, geçici iş göremezlik ödeneği ve sürekli iş göremezlik geliri gibi sosyal güvenlik korumaları devreye girer. İşverenin bu durumu zamanında bildirmesi hayati önem taşır."
+      ],
+      "bullets": [
+        "Geçici iş göremezlik ödeneği",
+        "Sağlık sigortası tescili"
+      ]
+    },
+    {
+      "heading": "Tehlikeli anlarda ne yapmalısınız?",
+      "paragraphs": [
+        "Atölyede veya ofiste ciddi ve yakın bir tehlikeyle burun buruna geldiniz. Kimse size tedbir alarak çalışın demiyor, aksine riske atılıyorsunuz.",
+        "Böyle anlarda kurulun veya işverenin kararı **alınana kadar** çalışmaktan kaçınma hakkınızı kullanabilirsiniz. Bu dönemdeki haklarınız saklı kalır ve tehlikenin önlenemez olduğu hallerde güvenli bölgeye çekilebilirsiniz."
+      ],
+      "bullets": [
+        "Ciddi ve yakın tehlike bildirimi",
+        "Güvenli bölgeye çekilme"
+      ]
+    },
+    {
+      "heading": "Hak ararken elinizde ne kalmalı?",
+      "paragraphs": [
+        "Günlerce sabahın köründen akşamın karanlığına kadar masa başında ter döktünüz. Ortada ne bir imza ne de yatırılan bir güvence var.",
+        "İleride bir hak iddia etmek zorunda kaldığınızda, işyerine girdiğinizi ve çalıştığınızı kanıtlayacak **en somut veriler** elinizdeki yazılı belgelerdir. Puantaj kayıtları ve tanık beyanları bu süreçte en büyük destekçinizdir."
+      ],
+      "bullets": [
+        "Çalışma saatlerini gösteren puantaj",
+        "Kurum yazışmaları"
+      ]
+    }
+  ],
+  "steps": [
+    "Stajın zorunlu okul stajı mı, fiilî çalışma mı olduğunu ayırın.",
+    "Sigorta ve ücret yükümlülüğünü kontrol edin.",
+    "Fiilen işçi gibi çalışıyorsanız işçilik alacağı iddiasını yazın.",
+    "İş kazasında bildirimi isteyin.",
+    "Belge ve puantajı saklayın."
+  ],
+  "documents": [
+    "Okul staj dosyası ve resmi yazışmalar",
+    "Puantaj ve devam çizelgeleri",
+    "İş kazası bildirim tutanağı",
+    "Varsa banka dekontları ve ücret bordroları"
+  ],
+  "faq": [
+    {
+      "q": "Stajyer olarak çalışırken iş kazası geçirirsem ne olur?",
+      "a": "Geçici iş göremezlik ödeneği ve sürekli iş göremezlik geliri gibi haklar devreye girer; durumun kurum kayıtlarına derhâl bildirilmesi şarttır."
+    },
+    {
+      "q": "Beni stajyer gösterip normal işçi gibi çalıştırıyorlar, ne yapmalıyım?",
+      "a": "Fiilen asıl işçi gibi çalıştırıldığınızı kanıtlayan puantaj ve belgeleri toplayarak işçilik alacakları iddiasıyla hukuki süreci başlatabilirsiniz."
+    },
+    {
+      "q": "Tehlikeli bir ortamda çalışmaya zorlanırsam kaçınabilir miyim?",
+      "a": "Ciddi ve yakın tehlike durumunda işverene başvurarak tedbir alınmasını isteyebilir, tehlike süresince çalışmaktan kaçınabilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "ibraname-nedir",
+  "angle": "Stajyer hakları",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

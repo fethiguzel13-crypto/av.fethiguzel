@@ -1,0 +1,112 @@
+{
+  "slug": "limited-sirket-kurulus",
+  "title": "Limited şirket kuruluşu — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Limited şirket kuruluşu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
+  "h1": "Limited şirket kuruluşu",
+  "keywords": [
+    "limited şirket kuruluşu",
+    "limited sirket kurulus"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "sirket-kurulusu",
+    "ticari-isletme-nedir",
+    "e-fatura-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/sirket-kurulusu"
+    },
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-sirketler"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Limited şirket, bir veya daha çok gerçek veya tüzel kişi tarafından bir ticaret unvanı altında kurulur. Şirket, kurucuların ticaret sicili müdürlüğünde yetkilendirilmiş personelin huzurunda imzaladığı şirket sözleşmesinde kurma iradelerini açıklamalarıyla kurulur.",
+  "keyInsight": "Şirket sözleşmesinin, ticaret sicili müdürlüğünde yetkilendirilmiş personelin huzurunda imzalanması ve limited şirket kurma iradesinin açıklanması şarttır.",
+  "sections": [
+    {
+      "heading": "Kimler ortak olabilir?",
+      "paragraphs": [
+        "Limited şirket kurmak için bir veya daha çok gerçek veya tüzel kişi bir araya gelebilir. Şirket, kanunen yasak olmayan her türlü ekonomik amaç ve konu için kurulabilir.",
+        "Ortaklar, şirket borçlarından sorumlu olmayıp, sadece taahhüt ettikleri esas sermaye paylarını ödemekle yükümlüdürler. Ayrıca şirket sözleşmesinde öngörülen ek ödeme ve yan edim yükümlülükleri de yerine getirilmelidir."
+      ],
+      "bullets": [
+        "Gerçek veya tüzel kişiler kurucu olabilir.",
+        "Amaç ekonomik ve kanuna uygun olmalıdır."
+      ]
+    },
+    {
+      "heading": "Kuruluş nasıl tamamlanır?",
+      "paragraphs": [
+        "Kuruluş aşamasında, kurucuların kanuna uygun olarak düzenlenmiş bulunan şirket sözleşmesini imzalaması gerekir. Bu imza, ticaret sicili müdürlüğünde yetkilendirilmiş personelin huzurunda atılır.",
+        "Sermayenin tamamının ödenmesi şartsız olarak taahhüt edilir ve bu iradenin açıklanmasıyla şirket resmen kurulmuş olur."
+      ],
+      "bullets": [
+        "Sözleşme yetkili personel huzurunda imzalanır.",
+        "Sermaye taahhüdü şartsız olmalıdır."
+      ]
+    },
+    {
+      "heading": "Ticari defterler nasıl düzenlenir?",
+      "paragraphs": [
+        "Her tacir, ticari defterleri tutmak ve işletmesinin iktisadi ve mali durumunu açıkça ortaya koymak zorundadır. Defterler, uzman kişilerin incelemesinde faaliyetler hakkında fikir verecek şekilde tutulur.",
+        "Anonim ve limited şirketlerin ticaret siciline tescili sırasında defterlerin açılış onayları ticaret sicili müdürlükleri tarafından yapılır."
+      ],
+      "bullets": [
+        "Defterler mali durumu açıkça göstermelidir.",
+        "Açılış onayları sicil sırasında müdürlükçe yapılır."
+      ]
+    },
+    {
+      "heading": "Defterlerin kapanış onayları ne zaman yapılır?",
+      "paragraphs": [
+        "Fiziki ortamda tutulması gereken yevmiye defteri, defteri kebir ve envanter defteri gibi defterlerin açılış ve kapanış işlemleri belirli zamanlarda notere veya sicile yaptırılır.",
+        "Yevmiye defterinin kapanış onayı, izleyen faaliyet döneminin altıncı ayının sonuna kadar notere yaptırılır."
+      ],
+      "bullets": [
+        "Yevmiye defteri kapanışı altıncı ayın sonundadır.",
+        "İşlemler yasal süresinde tamamlanmalıdır."
+      ]
+    }
+  ],
+  "steps": [
+    "Şirket sözleşmesini kanuna uygun şekilde hazırlayın.",
+    "Ticaret sicili müdürlüğüne başvurun.",
+    "Yetkilendirilmiş personel huzurunda sözleşmeyi imzalayarak kurulma iradenizi açıklayın.",
+    "Sermayenin tamamını ödemeyi şartsız olarak taahhüt edin.",
+    "Ticari defterlerin tescil sırasında açılış onaylarını yaptırın."
+  ],
+  "documents": [
+    "Şirket sözleşmesi",
+    "Ticari defterler",
+    "Kimlik belgeleri",
+    "Ticaret sicil tasdiknamesi"
+  ],
+  "faq": [
+    {
+      "q": "Limited şirket ortakları borçlardan sorumlu mudur?",
+      "a": "Ortaklar şirket borçlarından sorumlu olmayıp, sadece taahhüt ettikleri esas sermaye paylarını ödemekle yükümlüdürler."
+    },
+    {
+      "q": "Şirket kurma iradesi nerede açıklanır?",
+      "a": "Şirket, ticaret sicili müdürlüğünde yetkilendirilmiş personelin huzurunda imzalanan sözleşme ile kurulur."
+    },
+    {
+      "q": "Defterlerin açılış onayını kim yapar?",
+      "a": "Anonim ve limited şirketlerin tescili sırasında defterlerin açılış onayları ticaret sicili müdürlükleri tarafından yapılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "sirket-kurulusu",
+  "angle": "Limited şirket kuruluşu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

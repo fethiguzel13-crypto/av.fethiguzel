@@ -1,0 +1,110 @@
+{
+  "slug": "sozlesmenin-yorumu",
+  "title": "Sözleşmenin yorumu — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Sözleşmenin yorumu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
+  "h1": "Sözleşmenin yorumu",
+  "keywords": [
+    "sözleşmenin yorumu",
+    "sozlesmenin yorumu"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "temerrut-faizi-nedir",
+    "genel-islem-kosullari",
+    "kanun-maddesi-nasil-okunur",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/temerrut-faizi-nedir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=s%C3%B6zle%C5%9Fme"
+    }
+  ],
+  "lead": "Bir sözleşme imzaladığınızda kağıtta yazan kelimeler ile tarafların zihnindeki asıl amaç çelişebilir. Kanun, tarafların yanlışlıkla veya bilerek kullandığı süslü sözcüklere değil, arkadaki gerçek ve ortak iradeye bakar. Anlaşmanın kaderini kelime oyunları değil, iki tarafın neyi amaçladığı belirler.",
+  "keyInsight": "Kağıtta hangi sözcük yazarsa yazsın, hukuken geçerli olan tarafların yanlışlıkla veya gizleyerek ifade ettiği değil, gerçekten kastettiği ortak iradedir.",
+  "sections": [
+    {
+      "heading": "İmzaladığınız kağıtta yazan kelime tek başına yeterli midir?",
+      "paragraphs": [
+        "Bir iş yaparken sözleşme imzaladınız ve ilerleyen günlerde aranızda bir anlaşmazlık çıktı. Karşı taraf kağıttaki tek bir kelimeye sığınarak aslında hiç konuşmadığınız bir anlamı önünüze sürebilir. Ancak hukuk, sadece kağıttaki kelimelerin esiri olmanıza izin vermez.",
+        "Bir sözleşmenin türü ve içeriği belirlenirken tarafların yanlışlıkla kullandığı ifadelere bakılmaz. Hatta taraflar gerçek amaçlarını gizlemek için başka kelimeler seçmiş olsalar bile esas alınan şey **gerçek ve ortak irade** olarak kabul edilir.",
+        "Sözleşmenin kurulabilmesi için iradelerin karşılıklı ve birbirine uygun biçimde açıklanması gerekir. Bu açıklama açık bir sözle yapılabileceği gibi **örtülü davranışlarla** da ortaya konabilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Arkada başka, kağıtta başka şey yazıyorsa ne olur?",
+      "paragraphs": [
+        "Bazen taraflar kendi aralarındaki ilişkiyi gizlemek veya dışarıya farklı göstermek isteyebilirler. Kağıt üzerinde borçlu görünmeyen biri, sırf muvazaalı şekilde yazılı bir borç tanıması metni oluşturmuş olabilir.",
+        "Ancak bu kağıda güvenerek alacağı devralan veya kazanan bir üçüncü kişi devreye girdiğinde durum değişir. Borçlu, bu yazılı belgeye güvenen **üçüncü kişilere karşı** işlemin danışıklı veya muvazaalı olduğunu iddia edemez.",
+        "İyiniyetli üçüncü kişinin hakkı korunur ve borçlu, kendi elinden çıkan yazılı borç tanımasının arkasında durmak zorunda kalır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Teslim edilecek mal bozulacaksa ne yapılmalıdır?",
+      "paragraphs": [
+        "Sözleşme kapsamında bir malı teslim etmekle yükümlü olabilirsiniz ancak alacaklı taraf malı teslim almaktan kaçınıyor olabilir. Üstelik teslim edilecek şey bozulabilecek bir nitelikteyse veya saklanması aşırı masraf gerektiriyorsa süreç sıkıntıya girer.",
+        "Bu durumda borçlu malı kaderine terk edemez. Öncelikle alacaklıya **önceden ihtarda bulunması** şarttır. İhtarın ardından borçlu, hâkimin iznini alarak malı **açık artırma yoluyla** sattırabilir.",
+        "Satış gerçekleştikten sonra elde edilen bedel tevdi edilir ve borçlu borcundan güvenle kurtulmuş olur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hangi durumlarda açık artırma yapmadan satış yapılabilir?",
+      "paragraphs": [
+        "Her malın açık artırmayla satılması pratik olmayabilir. Teslim edilecek eşya borsada kayıtlıysa, belirli bir piyasa fiyatı varsa veya yapılacak masrafa oranla değeri çok azsa prosedür basitleşir.",
+        "Bu tür durumlarda satışın mutlaka açık artırma yoluyla yapılması zorunlu tutulmaz. Üstelik hâkim, gerekli görürse **önceden ihtar koşulunu** dahi aramadan satışa izin verebilir.",
+        "Böylece malın değer kaybetmesi engellenir ve satıştan elde edilen bedel resmî olarak tevdi edilerek süreç tamamlanır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Anlaşmaya varırken tarafların gerçek amacını ve ortak iradesini net biçimde ifade edin.",
+    "Borç veya alacak ilişkilerinde belirsizlik yaratmayacak yazılı borç tanıması oluşturun.",
+    "Teslim alınmayan ve bozulma riski olan mallar için alacaklıya derhal yazılı ihtar çekin.",
+    "Malın satılarak bedelinin tevdi edilmesi için yetkili mahkemeden satış izni isteyin.",
+    "Satış sonrası elde edilen tutarı tevdi yerine yatırarak borcunuzu kapatın."
+  ],
+  "documents": [
+    "Taraflarca imzalanmış sözleşme metni",
+    "Yazılı borç tanıması veya borç senedi",
+    "Alacaklıya gönderilen ihtarname ve tebliğ evrakı",
+    "Hâkimden satış izni almak için hazırlanan dilekçe",
+    "Malın durumunu, borsa/piyasa değerini veya bozulma riskini gösteren belgeler"
+  ],
+  "faq": [
+    {
+      "q": "Sözleşmede yanlış bir kelime kullanılması hakkımı kaybettirir mi?",
+      "a": "Hayır, sözleşmenin yorumunda tarafların sehven kullandığı sözcüklere bakılmaz. Esas olan tarafların gerçek ve ortak iradesidir."
+    },
+    {
+      "q": "Yazılı borç belgesi verdiğim kişi bunu başkasına devrederse 'aslında borcum yoktu' diyebilir miyim?",
+      "a": "O yazılı belgeye güvenerek alacağı kazanan üçüncü kişilere karşı borcun muvazaalı veya geçersiz olduğunu ileri süremezsiniz."
+    },
+    {
+      "q": "Karşı taraf teslim edeceğim malı almıyorsa malı sokakta bırakabilir miyim?",
+      "a": "Hayır, malı sokağa bırakamazsınız. Alacaklıya ihtar çekip hâkimden izin alarak malı sattırmalı ve parasını tevdi etmelisiniz."
+    },
+    {
+      "q": "Her teslim edilemeyen mal açık artırmayla mı satılmak zorundadır?",
+      "a": "Hayır, malın piyasa fiyatı varsa, borsaya kayıtlıysa veya değeri masrafına göre çok azsa açık artırma şartı aranmaz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "temerrut-faizi-nedir",
+  "angle": "Sözleşmenin yorumu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

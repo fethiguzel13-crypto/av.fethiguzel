@@ -1,0 +1,115 @@
+{
+  "slug": "tmk-madde-499",
+  "title": "TMK m.499 yasal miras (özet) — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "TMK m.499 yasal miras (özet) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
+  "h1": "TMK m.499 yasal miras (özet)",
+  "keywords": [
+    "TMK 499 özet",
+    "yasal miras özet"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "yasal-mirascilar",
+    "miras-payi-nasil-hesaplanir",
+    "tmk-nedir"
+  ],
+  "links": [
+    {
+      "label": "Tam madde metni + şerh",
+      "href": "/mevzuat/tmk/madde-499"
+    },
+    {
+      "label": "Kanun maddesi ara",
+      "href": "/ara"
+    },
+    {
+      "label": "TMK",
+      "href": "/kategori/miras-hukuku"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/miras"
+    }
+  ],
+  "lead": "Yasal miras paylaşımında sağ kalan eşin payı, birlikte bulunduğu zümreye göre değişiklik gösterir. Hangi akrabalarla miras paylaşıldığı, eşin alacağı oranı doğrudan belirler.",
+  "keyInsight": "Sağ kalan eşin miras payı, tek başına sabit bir oran değildir; karşısındaki mirasçı zümresine göre dörtte birden tam mirasa kadar değişir.",
+  "sections": [
+    {
+      "heading": "Çocuklarla birlikte miras paylaşımı",
+      "paragraphs": [
+        "Miras bırakanın **altsoyu** yani çocukları ve torunları varsa, sağ kalan eş mirasın dörtte birine hak kazanır. Bu durumda kalan kısım çocuklar arasında paylaştırılır.",
+        "Çocukların bulunduğu sahnede eş, birinci derecede **mirasın dörtte biri** oranında pay sahibi olur."
+      ],
+      "bullets": [
+        "Çocuklar veya torunlar var",
+        "Eşin payı dörtte bir"
+      ]
+    },
+    {
+      "heading": "Anne ve baba zümresiyle miras",
+      "paragraphs": [
+        "Miras bırakanın altsoyu bulunmuyorsa, bu kez ana ve baba zümresi devreye girer. Sağ kalan eş, ana ve baba ile birlikte mirasçı olursa mirasın yarısını alır.",
+        "Anne, baba veya onların çocukları ile **birlikte miras** durumunda eşin payı artar."
+      ],
+      "bullets": [
+        "Altsoy bulunmuyor",
+        "Eşin payı yarısı"
+      ]
+    },
+    {
+      "heading": "Büyük ana ve büyük babalarla paylaşım",
+      "paragraphs": [
+        "Miras bırakanın altsoyu, ana ve babası ile onların çocukları da yoksa sıra büyük ana, büyük baba ve onların çocuklarına gelir. Bu durumda eş, mirasın dörtte üçünü alır.",
+        "Uzak akraba gruplarında eşin **mirasın dörtte üçü** oranında payı bulunur."
+      ],
+      "bullets": [
+        "Büyük ana ve büyük babalar",
+        "Eşin payı dörtte üç"
+      ]
+    },
+    {
+      "heading": "Diğer zümrelerin bulunmadığı durumlar",
+      "paragraphs": [
+        "Kanunda sayılan bu zümrelerin hiçbiri hayatta değilse veya mirasçı olamayacak durumdaysa, sağ kalan eş mirasın tamamına hak kazanır.",
+        "Başka yasal mirasçı kalmadığında **mirasın tamamı** eşe kalır."
+      ],
+      "bullets": [
+        "Diğer zümreler yok",
+        "Eş tek başına mirasçı"
+      ]
+    }
+  ],
+  "steps": [
+    "Miras bırakanın geride bıraktığı akrabaları zümrelerine göre tespit edin.",
+    "Sağ kalan eşin hangi zümreyle birlikte mirasçı olduğunu belirleyin.",
+    "Kanuni oranlara göre miras paylarını hesaplayın.",
+    "Paylaşım sürecinde uyuşmazlık yoksa ilgili başvuru yollarını inceleyin."
+  ],
+  "documents": [
+    "Nüfus kayıt örneği",
+    "Veraset ilamı",
+    "Tapu kayıtları",
+    "Banka hesap dökümleri"
+  ],
+  "faq": [
+    {
+      "q": "Sağ kalan eş her zaman aynı oranlarda mı mirasçı olur?",
+      "a": "Hayır, sağ kalan eşin payı birlikte bulunduğu zümreye göre değişir."
+    },
+    {
+      "q": "Hiçbir akraba yoksa miras kime kalır?",
+      "a": "Kanunda sayılan zümreler yoksa mirasın tamamı sağ kalan eşe kalır."
+    },
+    {
+      "q": "Çocuklarla birlikte eş ne kadar pay alır?",
+      "a": "Mirasbırakanın altsoyu ile birlikte mirasçı olan eş, mirasın dörtte birini alır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "bridge",
+  "angle": "Yasal miras özeti",
+  "canonicalPath": "/mevzuat/tmk/madde-499",
+  "sitemapPriority": 0.45,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "kira-sozlesmesi-bitisi",
+  "title": "Kira Sözleşmesi Bitince Ne Olur? | Vatandaş Rehberi",
+  "description": "Kira süresi dolunca ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
+  "h1": "Kira süresi dolunca ne yapılır?",
+  "keywords": [
+    "kira sözleşmesi bitişi",
+    "kira yenileme"
+  ],
+  "category": "Kira",
+  "related": [
+    "kira-artis-orani-nasil-hesaplanir",
+    "kiraci-nasil-tahliye-edilir",
+    "kira-sozlesmesi-nasil-yapilir",
+    "tahliye-taahhutnamesi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kira-artis-orani-nasil-hesaplanir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=kira"
+    }
+  ],
+  "lead": "Kira sözleşmenizin süresi dolduğunda ne yapacağınız, sözleşmenizin belirli süreli mi yoksa belirsiz süreli mi olduğuna göre değişir. Süre bittiğinde tarafların hakları ve atılacak adımlar kanunla belirlenmiştir.",
+  "keyInsight": "Sözleşme süresi bittiğinde, belirli ve belirsiz süreli sözleşmeler için öngörülen fesih ve bildirim kurallarına tam olarak uymak gerekir.",
+  "sections": [
+    {
+      "heading": "Kira süresi nasıl belirlenir?",
+      "paragraphs": [
+        "Evinizde oturmaya devam ediyorsunuz ve takvimler sözleşmenin son gününü gösteriyor. Asıl soru, sözleşmenizin türünün ne olduğudur.",
+        "Kararlaştırılan sürenin geçmesiyle herhangi bir bildirim olmaksızın sona erecek kira sözleşmesi **belirli süreli** sayılır. Diğer tüm kira sözleşmeleri ise belirli olmayan bir süre için yapılmış kabul edilir."
+      ],
+      "bullets": [
+        "Belirli süreli sözleşmelerde süre bitimi esastır.",
+        "Diğer hallerde sözleşme belirsiz kabul edilir."
+      ]
+    },
+    {
+      "heading": "Süresinden önce evi bırakırsanız ne olur?",
+      "paragraphs": [
+        "İş değişti ya da başka bir şehre taşınmanız gerekiyor; sözleşme süresi henüz dolmadı. Kiracı, sözleşme süresine veya fesih dönemine uymaksızın kiralananı geri verdiği takdirde sorumlulukları devam eder.",
+        "Bu durumda kira borçları, kiralananın benzer koşullarla kiraya verilebileceği **makul bir süre** için devam eder. Ancak ödeme gücüne sahip yeni bir kiracı bulursanız bu borçlar sona erer."
+      ],
+      "bullets": [
+        "Makul sürede yeni kiracı bulunabilir.",
+        "Eski kiracının sorumluluğu yeni kiracıyla biter."
+      ]
+    },
+    {
+      "heading": "Belirsiz süreli sözleşmeler nasıl feshedilir?",
+      "paragraphs": [
+        "Eğer belirli bir süre kararlaştırılmadıysa süreç farklı işler. Belirsiz süreli kira sözleşmelerinde taraflardan her biri yasal fesih dönemlerine ve bildirim sürelerine uyarak sözleşmeyi feshedebilir.",
+        "Fesih dönemlerinin hesabında sözleşmenin başlangıç tarihi esas alınır. Belirtilen kurallara uyulmamışsa, bildirim ancak bir sonraki fesih dönemi için geçerli olur."
+      ],
+      "bullets": [
+        "Başlangıç tarihi esas alınır.",
+        "Bildirim sürelerine dikkat edilmelidir."
+      ]
+    },
+    {
+      "heading": "Uyuşmazlık çıkarsa nereye başvurulur?",
+      "paragraphs": [
+        "Kira ilişkisinden kaynaklanan uyuşmazlıklarda dava açmadan önce arabulucuya başvurulmuş olması **dava şartıdır**. Arabuluculuk faaliyeti sonunda anlaşmaya varılamazsa son tutanak düzenlenir.",
+        "Anlaşma sağlanması durumunda düzenlenen belgenin icra edilebilirliğine ilişkin şerhin ilgili sulh hukuk mahkemesinden alınması zorunludur."
+      ],
+      "bullets": [
+        "Arabuluculuk zorunlu adımdır.",
+        "Son tutanak dava dilekçesine eklenmelidir."
+      ]
+    }
+  ],
+  "steps": [
+    "Sözleşmenizin belirli mi belirsiz süreli mi olduğunu kontrol edin",
+    "Fesih bildirim sürelerine ve dönemlerine dikkat edin",
+    "Evi erken boşaltacaksanız durumu karşı tarafa bildirin ve makul süreci yönetin",
+    "Uyuşmazlık durumunda dava açmadan önce arabuluculuk bürosuna başvurun",
+    "Anlaşma sağlanamazsa son tutanağı alın"
+  ],
+  "documents": [
+    "Kira sözleşmesi",
+    "Arabuluculuk son tutanağı",
+    "İcra edilebilirlik şerhi",
+    "Ödeme ve masraf belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "Belirli süreli kira sözleşmesi kendiliğinden biter mi?",
+      "a": "Kararlaştırılan sürenin geçmesiyle herhangi bir bildirim olmaksızın sona erecek kira sözleşmeleri belirli sürelidir."
+    },
+    {
+      "q": "Evi erken boşaltırsam kira ödemeye devam eder miyim?",
+      "a": "Borçlarınız, kiralananın benzer koşullarla kiraya verilebileceği makul bir süre için devam eder; ancak yeni bir kiracı bulursanız sona erer."
+    },
+    {
+      "q": "Kira uyuşmazlığında direkt mahkemeye gidebilir miyim?",
+      "a": "Kira ilişkisinden kaynaklanan uyuşmazlıklarda dava açmadan önce arabulucuya başvurulmuş olması dava şartıdır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kira-artis-orani-nasil-hesaplanir",
+  "angle": "Süre sonu yenileme",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

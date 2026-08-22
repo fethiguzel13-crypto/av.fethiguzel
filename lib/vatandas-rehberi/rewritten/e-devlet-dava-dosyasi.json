@@ -1,0 +1,113 @@
+{
+  "slug": "e-devlet-dava-dosyasi",
+  "title": "e-Devlet dava dosyası — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "e-Devlet dava dosyası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avu…",
+  "h1": "e-Devlet dava dosyası",
+  "keywords": [
+    "e-devlet dava dosyası",
+    "e devlet dava dosyasi"
+  ],
+  "category": "Usul",
+  "related": [
+    "noter-islemleri",
+    "uyap-vatandas-portal",
+    "hukuk-davasi-nasil-acilir",
+    "elektronik-tebligat"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/noter-islemleri"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=UYAP"
+    }
+  ],
+  "lead": "Bilgisayarınızın başında, açılan dava dosyasını incelemek istiyorsunuz. e-Devlet üzerinden dosyanın durumunu takip etmek, duruşma günlerini görmek ve belgeleri incelemek artık parmaklarınızın ucundadır.",
+  "keyInsight": "Dosyanızı düzenli takip etmez ve duruşmaya mazeretsiz gitmezseniz, **dosya işlemden kaldırılır** ve hak kaybı yaşarsınız.",
+  "sections": [
+    {
+      "heading": "Dosyanız ekranda görünce ne anlama gelir?",
+      "paragraphs": [
+        "e-Devlet kapısına girdiğinizde mahkemenizi, dosya numaranızı ve davanın hangi aşamada olduğunu anında görürsünüz. Bu ekranda dilekçeler, duruşma tarihleri ve mahkemenin aldığı ara kararlar yer alır.",
+        "Ancak her evrak ekrana anında yansımayabilir. Adliyedeki kalem işlemlerinin sisteme işlenmesi bazen kısa süreli gecikmeler yaratabilir. Bu yüzden ekranı sürekli yenilemek yerine, **resmî tebligatları** da her zaman dikkate almalısınız."
+      ],
+      "bullets": [
+        "Dosya esas numarasını not edin.",
+        "Taraf rollerinizi kontrol edin."
+      ]
+    },
+    {
+      "heading": "Duruşmaya gitmezseniz ne olur?",
+      "paragraphs": [
+        "Usulüne uygun şekilde çağrıldığınız halde duruşmaya gitmezseniz veya davayı takip etmeyeceğinizi bildirirseniz mahkeme **dosyanın işlemden kaldırılmasına** karar verir.",
+        "Bu durum davanın tamamen bittiği anlamına gelmez ancak işlemler durur. Süreci yeniden başlatmak için belirli adımları hızla atmanız gerekir."
+      ],
+      "bullets": [
+        "Gelmeyen taraf yokluğundaki işlemlere itiraz edemez.",
+        "Takipsiz kalan dosyalar tehredettedir."
+      ]
+    },
+    {
+      "heading": "İşlemden kaldırılan dosya nasıl kurtarılır?",
+      "paragraphs": [
+        "İşlemden kaldırılan bir dosya için kanunun çizdiği net bir yol vardır. Taraflardan biri dilekçeyle başvurarak dosyayı **yenileyebilir**.",
+        "Ancak bu adım için gecikmemeniz şarttır. Belirlenen süreler aşıldığında dava hiç açılmamış sayılır ve mahkeme kaydı tamamen kapatır."
+      ],
+      "bullets": [
+        "Yenileme dilekçesi dosyanın bulunduğu mahkemeye verilir.",
+        "Süre aşımında yeniden harç ödemek gerekebilir."
+      ]
+    },
+    {
+      "heading": "Duruşmada kayıt yapmak yasak mıdır?",
+      "paragraphs": [
+        "Duruşma salonuna girdiğinizde cep telefonunuzu çıkarıp çekim yapmayı aklınızdan bile geçirmeyin. Duruşma sırasında fotoğraf çekmek, **ses ve görüntü kaydı yapmak** kesinlikle yasaktır.",
+        "Bu yasağa uymayanlar hakkında hem usul kuralları hem de ilgili ceza kanunu hükümleri derhal devreye girer. Mahkemenin açık izni olmadan hiçbir tutanak veya belge dışarıda yayımlanamaz."
+      ],
+      "bullets": [
+        "Kişilik haklarını ilgilendiren belgeler gizlidir.",
+        "Yasak ihlalinde yasal işlem başlatılır."
+      ]
+    }
+  ],
+  "steps": [
+    "e-Devlet şifrenizle sisteme giriş yapın ve arama çubuğuna dava dosya sorgulama yazın.",
+    "Mahkeme adını, dosya numarasını ve taraf bilgilerinizi ekrandan kontrol edin.",
+    "Duruşma günlerini ve saate ilişkin ara kararları dikkatle okuyun.",
+    "Dosyanız işlemden kaldırıldıysa zaman kaybetmeden yenileme dilekçesi hazırlayın.",
+    "Tebligatları ve e-Devlet üzerindeki yeni evrakları düzenli olarak takip edin."
+  ],
+  "documents": [
+    "e-Devlet şifresi",
+    "Dava yenileme dilekçesi",
+    "Kimlik belgesi",
+    "Tebligat evrakı"
+  ],
+  "faq": [
+    {
+      "q": "e-Devletten dava açabilir miyim?",
+      "a": "e-Devlet sistemi üzerinden dava dosyalarınızı takip edebilir, mevcut dosyalarınıza gelen evrakları görebilirsiniz. Yeni dava açılış işlemleri için genellikle uyap vatandaş portalı veya ilgili adliye kalemleri kullanılır."
+    },
+    {
+      "q": "Dosyam neden işlemden kaldırıldı?",
+      "a": "Usulüne uygun davet edildiğiniz halde duruşmaya gitmediyseniz veya davanın takibini bırakıverdiyseniz mahkeme dosyanın işlemden kaldırılmasına karar verir."
+    },
+    {
+      "q": "Duruşmada ses kaydı alabilir miyim?",
+      "a": "Hayır. Duruşma sırasında fotoğraf çekmek, ses veya görüntü kaydı yapmak kesinlikle yasaktır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "noter-islemleri",
+  "angle": "e-Devlet dava dosyası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

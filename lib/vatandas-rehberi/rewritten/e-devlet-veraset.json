@@ -1,0 +1,108 @@
+{
+  "slug": "e-devlet-veraset",
+  "title": "e-Devlet ile veraset ilamı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "e-Devlet ile veraset ilamı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
+  "h1": "e-Devlet ile veraset ilamı",
+  "keywords": [
+    "e-devlet veraset ilamı",
+    "mirasçılık belgesi e-devlet"
+  ],
+  "category": "Miras",
+  "related": [
+    "veraset-ilami-nasil-alinir",
+    "miras-payi-nasil-hesaplanir",
+    "tapu-devri-nasil-yapilir",
+    "mirasin-reddi",
+    "miras-ortakligi-nedir",
+    "olume-bagli-tasarruf",
+    "miras-paylasim-sozlesmesi",
+    "esin-miras-payi",
+    "vasiyetname-iptali",
+    "miras-sebebiyle-istihkak",
+    "e-devlet-miras"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/veraset-ilami-nasil-alinir"
+    },
+    {
+      "label": "Miras hesap",
+      "href": "/hesaplama/miras"
+    },
+    {
+      "label": "Miras",
+      "href": "/kategori/miras-hukuku"
+    }
+  ],
+  "lead": "Yakınınızı kaybettiniz ve geride kalan mallar için nereden başlayacağınızı bilmiyorsunuz. Artık adliye koridorlarında beklemek yerine, e-Devlet üzerinden dakikalar içinde mirasçılık belgenizi alıp yasal hak sahipliğinizi belgeleyebilirsiniz.",
+  "keyInsight": "e-Devlet'ten alınan veraset ilamı yasal mirasçı olduğunuzu ve payınızı gösterir ancak bu belge üzerinize kayıtlı malların otomatik olarak paylaşılması anlamına gelmez.",
+  "sections": [
+    {
+      "heading": "Ekran başında miras hakkı sorgulamak",
+      "paragraphs": [
+        "Vefat eden yakınınızın ardından veraset işlemlerini başlatmak için eskiden doğrudan adliyeye veya notere gitmek zorundaydınız. Artık bilgisayar veya telefon başında, güvenli kimlik doğrulama adımlarını geçerek bu belgeye ulaşabiliyorsunuz.",
+        "Sisteme giriş yaptıktan sonra vefat eden kişinin bilgilerini girerek sorgulama yaparsınız. Eğer soybağında bir uyuşmazlık veya sistemde eksik bir bilgi yoksa, resmi geçerliliği olan belge saniyeler içinde ekranınıza gelir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Her ölüm kaydı e-Devlet'te görünür mü?",
+      "paragraphs": [
+        "Sistem her ne kadar pratik olsa da her olayda size anında belge veremez. Özellikle **yurtdışı ölümleri** veya nüfus kayıtlarındaki eski tarihli eksiklikler sistemin tıkanmasına yol açar.",
+        "Eğer soybağında çözülmemiş bir çekişme, evlatlık ilişkisi veya vasiyetname gibi özel durumlar varsa, e-Devlet size belge üretmeyecektir. Bu durumda resmi adımları geleneksel yollarla takip etmeniz gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Sistem belgeyi vermezse ne yapacaksınız?",
+      "paragraphs": [
+        "Ekranda hata uyarısı almanız hak sahibi olmadığınız anlamına gelmez. Sadece veritabanının bu işlemi otomatik onaylayamadığını gösterir.",
+        "Böyle bir tıkanma yaşadığınızda, hakkınızı aramak ve resmi tescili yaptırmak için **sulh hukuk mahkemesine** veya bir noterliğe fiziki olarak başvurmanız şarttır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Mirasçıların tamamen bilinmemesi durumu",
+      "paragraphs": [
+        "Bazen bir kişinin vefatından sonra ortada hiçbir mirasçının bulunup bulunmadığı net olarak bilinemez. Bu gibi belirsiz durumlarda sulh hakimi devreye girer.",
+        "Hakim, uygun araçlarla birer ay ara vererek iki defa ilan yapar ve hak sahiplerini son ilandan başlayarak **en geç bir yıl** içinde kendisini bildirmeye çağırır. Bu süre içinde kimse başvurmazsa miras devlete geçer."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "e-Devlet kapısına kendi şifrenizle giriş yapın.",
+    "Arama çubuğuna 'Mirasçılık Belgesi Sorgulama' yazarak ilgili Adalet Bakanlığı hizmetini açın.",
+    "Vefat eden yakınınızın T.C. kimlik numarasını sisteme girerek sorgulama butonuna basın.",
+    "Sistem onay verirse üretilen barkodlu ve karekodlu PDF belgesinin çıktısını alın.",
+    "Hata alırsanız veya belge oluşmazsa sulh hukuk mahkemesine ya da notere başvurun."
+  ],
+  "documents": [
+    "e-Devlet şifresi",
+    "Başvuran kişinin T.C. kimlik kartı",
+    "Mirasbırakanın T.C. kimlik numarası",
+    "Sistemden alınan barkodlu belge çıktısı"
+  ],
+  "faq": [
+    {
+      "q": "e-Devlet'ten alınan veraset ilamı ile doğrudan tapu devri yapılır mı?",
+      "a": "Hayır, bu belge sadece sizin mirasçı olduğunuzu ve pay oranınızı gösterir. Tapu devri veya bankadaki paranın çekilmesi için ilgili kurumlara bu belgeyle ayrıca başvurup işlem yapmalısınız."
+    },
+    {
+      "q": "Sistemde mirasçılık belgesi görünmüyorsa ne yapmalıyım?",
+      "a": "Nüfus kayıtlarındaki eksiklikler veya karmaşık soybağı durumlarında e-Devlet belge üretmez. Bu durumda sulh hukuk mahkemesinde dava açmanız veya notere gitmeniz gerekir."
+    },
+    {
+      "q": "Mirasçısı olmayan birinin malları kime kalır?",
+      "a": "Yapılan ilanlara rağmen en geç bir yıl içinde hiçbir mirasçı ortaya çıkmazsa, hakları saklı kalmak üzere miras devlete geçer."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "veraset-ilami-nasil-alinir",
+  "angle": "e-Devlet adımları",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

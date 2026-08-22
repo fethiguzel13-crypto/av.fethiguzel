@@ -1,0 +1,113 @@
+{
+  "slug": "odeme-emrine-itiraz",
+  "title": "Ödeme Emrine İtiraz: Yedi Günlük Süre ve Sonuçları",
+  "description": "İcra dairesinden ödeme emri geldi. Yedi gün içinde nereye, nasıl itiraz edilir; itiraz takibi durdurur mu, alacaklı ne yapabilir? İİK m.60-67 çerçevesinde.",
+  "h1": "Ödeme emrine nasıl itiraz edilir?",
+  "keywords": [
+    "ödeme emrine itiraz",
+    "icra takibine itiraz",
+    "ödeme emri 7 gün",
+    "itirazın iptali davası",
+    "borca itiraz dilekçesi",
+    "imzaya itiraz"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir"
+  ],
+  "links": [
+    {
+      "label": "İİK m.60 — Ödeme emri",
+      "href": "/mevzuat/iik/madde-60"
+    },
+    {
+      "label": "İİK m.62 — İtirazın süresi ve şekli",
+      "href": "/mevzuat/iik/madde-62"
+    },
+    {
+      "label": "İİK m.66 — İtirazın hükmü",
+      "href": "/mevzuat/iik/madde-66"
+    },
+    {
+      "label": "İİK m.67 — İtirazın iptali",
+      "href": "/mevzuat/iik/madde-67"
+    }
+  ],
+  "lead": "Postacının kapınızı çalıp elinize bir ödeme emri tutuşturduğu an, soğukkanlı olma zamanıdır. Bu resmi kağıt borçlu olduğunuzu kanıtlamaz; sadece bir iddiadır ve itiraz ederek süreci durdurma hakkınız vardır. Ancak bunun için kanunun tanıdığı çok dar bir zaman diliminde doğru yere başvurmanız gerekir.",
+  "keyInsight": "İcra dairesinden gelen ödeme emrine karşı en büyük tuzak, haklılığınızı ispatlamak için mahkemeye gitmeye çalışarak süreyi kaçırmaktır; itiraz doğrudan takibi başlatan icra dairesine yapılmalıdır.",
+  "sections": [
+    {
+      "heading": "Zarfın üzerindeki tarih neden her şeydir?",
+      "paragraphs": [
+        "İcra müdürü, alacaklının talebi üzerine size borcu ödemeniz ya da itiraz etmeniz için resmi bir bildirim gönderir. Bu kağıdı teslim aldığınız gün, hayatınızdaki en kritik sürelerden biri işlemeye başlar. Kanun, size kendinizi savunmanız için tam **yedi gün** tanır.",
+        "Sürenin başladığı an, postacının teslimatı yaptığı ve zarfın üzerine yazdığı gündür. Bu yüzden zarfı asla çöpe atmayın ve üzerindeki tarihi hemen bir kenara not edin. Bu süreyi bir gün bile geçirmek, borçlu olmasanız dahi takibin kesinleşmesine ve kapınıza haciz memurlarının gelmesine yol açabilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İtiraz etmek için nereye gitmelisiniz?",
+      "paragraphs": [
+        "En sık düşülen hata, telaşla mahkeme kapılarına koşmaktır. Ödeme emrine itiraz etmek için mahkemeye gitmenize gerek yoktur. Muhatabınız, o kağıdı size gönderen icra dairesinin bizzat kendisidir.",
+        "Eğer icra dairesi başka bir şehirdeyse, yine kendi şehrinizdeki icra dairesine giderek başvurabilirsiniz. Bu durumda memur, sizden gerekli gönderim masrafını alarak dilekçenizi ilgili yere ulaştırır. Başvurunuz sırasında yurt içinde geçerli bir tebligat adresi bildirmek zorunda olduğunuzu da unutmamalısınız."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Dilekçede neyi, nasıl yazmalısınız?",
+      "paragraphs": [
+        "İtirazınızın sınırlarını çok net çizmelisiniz. Eğer borcun sadece bir kısmına karşı çıkıyorsanız, kabul etmediğiniz miktarı kuruşu kuruşuna belirtmek zorundasınız. Sadece borcun bir kısmına itiraz ediyorum deyip miktar yazmazsanız, hiç itiraz etmemiş sayılırsınız.",
+        "Eğer takibe dayanak yapılan senet veya evraktaki imza size ait değilse, bunu dilekçede **açıkça ve ayrıca** belirtmeniz şarttır. Sadece borcum yoktur demeniz, imzayı kabul ettiğiniz anlamına gelir ve sonradan bu hakkınızı tamamen kaybedersiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İtiraz edince süreç nasıl yön değiştirir?",
+      "paragraphs": [
+        "Süresi içinde usulüne uygun yapılan bir itiraz, icra takibini kendiliğinden durdurur. Bu andan itibaren alacaklı, icra dairesi üzerinden üzerinize gelemez ve haciz işlemleri tamamen bloke olur.",
+        "Ancak bu durum borcun silindiği anlamına gelmez. Alacaklı, takibi devam ettirebilmek için **bir yıl** içinde mahkemeye başvurarak itirazın iptali davası açmak zorundadır. Eğer mahkeme borçlu olduğunuzu tespit eder ve itirazınızda haksız olduğunuza karar verirse, asıl borcun yanında en az yüzde yirmi oranında icra inkar tazminatı ödemek zorunda kalabilirsiniz."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Tebligat zarfının üzerindeki teslim tarihini hemen not edin ve yedi günlük sürenizi hesaplayın.",
+    "Ödeme emrinin üst kısmında yazan icra dairesini ve dosya esas numarasını belirleyin.",
+    "Borcun tamamına mı, bir kısmına mı yoksa imzanıza mı itiraz ettiğinizi netleştirerek bir dilekçe hazırlayın.",
+    "Dilekçenize mutlaka yurt içindeki güncel adresinizi ekleyin.",
+    "Hazırladığınız dilekçeyi takibi yürüten icra dairesine teslim edin.",
+    "Dilekçeyi verdikten sonra icra memurundan itiraz ettiğinize dair ücretsiz ve pullu alındı belgesini mutlaka isteyin."
+  ],
+  "documents": [
+    "Ödeme emri belgesi aslı veya fotokopisi",
+    "İcra dairesine hitaben yazılmış imzalı itiraz dilekçesi",
+    "Nüfus cüzdanı veya kimlik kartı",
+    "Başka şehirdeki icra dairesine gönderilecekse masraf avansı alındısı"
+  ],
+  "faq": [
+    {
+      "q": "Ödeme emrine itiraz süresi ne kadardır?",
+      "a": "Ödeme emrinin size tebliğ edildiği tarihten itibaren tam yedi gündür. Bu süre hak düşürücüdür, geçirilirse takip kesinleşir."
+    },
+    {
+      "q": "İtiraz etmek haciz işlemlerini durdurur mu?",
+      "a": "Evet, süresi içinde yapılan geçerli bir itiraz icra takibini ve dolayısıyla tüm haciz işlemlerini kendiliğinden durdurur."
+    },
+    {
+      "q": "Borcun bir kısmına itiraz edebilir miyim?",
+      "a": "Evet, edebilirsiniz. Ancak itiraz ettiğiniz kısmı ve miktarını dilekçenizde açıkça göstermeniz gerekir. Aksi halde hiç itiraz etmemiş sayılırsınız."
+    },
+    {
+      "q": "İmza bana ait değilse ne yapmalıyım?",
+      "a": "İtiraz dilekçenizde senedin altındaki imzanın size ait olmadığını ayrıca ve açıkça belirtmelisiniz. Sadece borcum yoktur demek imzayı kabul ettiğiniz anlamına gelir."
+    },
+    {
+      "q": "İtiraz ettikten sonra alacaklı ne yapabilir?",
+      "a": "Alacaklı, itirazın kendisine tebliğ edilmesinden itibaren bir yıl içinde mahkemeye başvurarak itirazın iptali davası açabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

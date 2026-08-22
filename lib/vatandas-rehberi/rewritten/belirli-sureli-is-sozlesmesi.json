@@ -1,0 +1,111 @@
+{
+  "slug": "belirli-sureli-is-sozlesmesi",
+  "title": "Belirli Süreli İş Sözleşmesi | Vatandaş Rehberi",
+  "description": "Belirli süreli sözleşme ne zaman geçerli? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portal…",
+  "h1": "Belirli süreli sözleşme ne zaman geçerli?",
+  "keywords": [
+    "belirli süreli iş sözleşmesi"
+  ],
+  "category": "İş",
+  "related": [
+    "is-sozlesmesi-feshi",
+    "belirsiz-sureli-is-sozlesmesi",
+    "kidem-tazminati-nasil-alinir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/is-sozlesmesi-feshi"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=belirli%20s%C3%BCreli"
+    }
+  ],
+  "lead": "Belirli süreli iş sözleşmesi, ancak belirli işlerde veya belli bir işin tamamlanması gibi objektif koşullara bağlı olarak **yazılı şekilde** kurulabilir.",
+  "keyInsight": "Esaslı bir neden olmadıkça sözleşme üst üste yapılamaz; aksi takdirde sözleşme başlangıçtan itibaren belirsiz süreli kabul edilir.",
+  "sections": [
+    {
+      "heading": "Hangi hâllerde belirli süreli kurulabilir?",
+      "paragraphs": [
+        "İş ilişkisi normal şartlarda süreye bağlı olmadan yapılır. Ancak ortada belirli süreli işler, belli bir işin tamamlanması veya belirli bir olgunun ortaya çıkması gibi **objektif koşullar** varsa bu sözleşme tercih edilebilir.",
+        "Bu tür bir sözleşmenin geçerli olması için tarafların iradesi yetmez; kanunun aradığı maddi şartların somut olayda gerçekleşmiş olması gerekir."
+      ],
+      "bullets": [
+        "Belirli süreli işler",
+        "İşin tamamlanması",
+        "Belirli bir olgunun ortaya çıkması"
+      ]
+    },
+    {
+      "heading": "Şekil şartı neden önemlidir?",
+      "paragraphs": [
+        "Sözlü olarak yapılan anlaşmalar bu kategoride değerlendirilmez. Kanun, bu ilişkinin kurulması için mutlaka **yazılı şekilde** yapılmasını şart koşar.",
+        "Yazılı yapılmayan veya objektif koşulları taşımayan ilişkiler, kanun önünde doğrudan belirsiz süreli kabul edilir ve işçi lehine sonuç doğurur."
+      ],
+      "bullets": [
+        "Yazılı sözleşme zorunluluğu",
+        "Sözlü anlaşmaların geçersizliği"
+      ]
+    },
+    {
+      "heading": "Üst üste sözleşme yapmanın kuralı nedir?",
+      "paragraphs": [
+        "Taraflar aralarındaki anlaşmayı bitip yeniden başlatarak zincirleme hâle getirmek isteyebilir. Ancak **esaslı bir neden** olmadıkça bu sözleşmeler üst üste yapılamaz.",
+        "Eğer haklı ve esaslı bir neden bulunmuyor ve sözleşmeler zincirleme yapılıyorsa, ilk andan itibaren sözleşme belirsiz süreli sayılır."
+      ],
+      "bullets": [
+        "Zincirleme sözleşme yasağı",
+        "Esaslı neden istisnası"
+      ]
+    },
+    {
+      "heading": "Emsal işçiyle fark gözetilebilir mi?",
+      "paragraphs": [
+        "Belirli süreli çalışan bir kişi, sırf bu sözleşmeyle çalıştığı için belirsiz süreli çalışan emsal işçiye göre farklı işleme tabi tutulamaz.",
+        "Ücret ve bölünebilir menfaatler çalışılan süreye orantılı verilir. Kıdem gibi konularda farklı bir uygulama yapılması için yine **haklı bir neden** aranır."
+      ],
+      "bullets": [
+        "Emsal işçiyle eşit işlem",
+        "Süreye orantılı ücret"
+      ]
+    }
+  ],
+  "steps": [
+    "İşin niteliğini ve süreli olmayı gerektiren objektif koşulları tespit edin.",
+    "Sözleşmeyi mutlaka yazılı olarak kaleme alın.",
+    "Zincirleme sözleşme yapılacaksa esaslı nedeni belirleyin.",
+    "Ücret ve menfaatleri çalışılan süreye orantılı olarak düzenleyin."
+  ],
+  "documents": [
+    "Yazılı iş sözleşmesi metni",
+    "Objektif koşulları gösteren belgeler",
+    "Ücret bordroları",
+    "Emsal işçi kıyaslama verileri"
+  ],
+  "faq": [
+    {
+      "q": "Sözlü olarak yapılan belirli süreli sözleşme geçerli midir?",
+      "a": "Hayır. Kanun, bu sözleşmelerin mutlaka yazılı şekilde yapılmasını şart koşar."
+    },
+    {
+      "q": "Zincirleme sözleşme her durumda yasak mı?",
+      "a": "Esaslı bir neden olmadıkça üst üste yapılamaz; aksi hâlde sözleşme başlangıçtan beri belirsiz süreli kabul edilir."
+    },
+    {
+      "q": "Belirli süreli çalışanın ücreti nasıl ödenir?",
+      "a": "Belirli bir zaman ölçüt alınarak ödenecek ücret ve bölünebilir menfaatler, çalışılan süreye orantılı olarak verilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "is-sozlesmesi-feshi",
+  "angle": "Belirli süre",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

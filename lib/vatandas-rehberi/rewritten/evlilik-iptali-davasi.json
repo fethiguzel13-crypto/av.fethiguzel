@@ -1,0 +1,114 @@
+{
+  "slug": "evlilik-iptali-davasi",
+  "title": "Evliliğin iptali — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Evliliğin iptali hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
+  "h1": "Evliliğin iptali",
+  "keywords": [
+    "evliliğin iptali",
+    "evlilik iptali davasi"
+  ],
+  "category": "Aile",
+  "related": [
+    "mal-rejimi-tasfiyesi",
+    "bosanma-davasi-nasil-acilir",
+    "evlilik-basvurusu",
+    "nufus-kayit-ornegi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/mal-rejimi-tasfiyesi"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    },
+    {
+      "label": "NHK",
+      "href": "/kategori/nhk"
+    }
+  ],
+  "lead": "Nikâh masasına oturdunuz ancak evliliğin kurulmasında temel bir sakatlık olduğunu fark ettiniz. Evliliğin iptali davası, boşanmadan farklı olarak evlilik bağını baştan itibaren ortadan kaldırmayı hedefler.",
+  "keyInsight": "Evliliğin iptali için kanunda öngörülen **hak düşürücü süreyi** kaçırırsanız, dava hakkınızı tamamen kaybedersiniz.",
+  "sections": [
+    {
+      "heading": "Evlilik neden iptal edilir?",
+      "paragraphs": [
+        "Nikâh anında taraflardan birinin ayırt etme gücünden yoksun olması, yaş küçüklüğü, evlenmeye engel olacak derecede akıl hastalığı veya evliliği engelleyen hısımlık gibi durumlar iptal sebebi oluşturur. Ayrıca yanılma, aldatma veya korkutma hallerinde de iptal davası açılabilir.",
+        "Bu tür durumlarda ilişki normal bir boşanma gibi sonlanmaz. Kanun, evliliğin geçersizliğini tespit eden bir süreç öngörür."
+      ],
+      "bullets": [
+        "Ayırt etme gücünün yokluğu",
+        "Ağır akıl hastalığı",
+        "Yanıltma veya korkutma"
+      ]
+    },
+    {
+      "heading": "Hangi mahkemeye başvurulur?",
+      "paragraphs": [
+        "Açacağınız iptal davası için doğru kapıyı çalmanız gerekir. Mal rejiminin tasfiyesi veya evliliğin butlanı gibi konularda **yetkili aile mahkemesi** üzerinden işlemler yürütülür.",
+        "Yabancı ülkede verilmiş kararların varlığı halinde ise bu kararların Türkiye'de geçerlilik kazanması için belirli tescil şartlarının yerine getirilmesi şarttır."
+      ],
+      "bullets": [
+        "Aile mahkemesi görevlidir",
+        "Yabancı kararlar için tescil şarttır"
+      ]
+    },
+    {
+      "heading": "Çocuklar ve mal paylaşımı nasıl etkilenir?",
+      "paragraphs": [
+        "İptal kararından sonra eşler arasında mal rejiminin tasfiyesi gündeme gelir. Kişisel mallar geri alınır ve kalan ortaklık malları paylaşılır.",
+        "İptal edilen bir evlilikten doğan çocukların durumu korunur. **İyi niyetli eş** sıfatı ve çocukların hakları kanuni güvence altındadır."
+      ],
+      "bullets": [
+        "Kişisel mallar geri alınır",
+        "Ortaklık malları paylaşılır",
+        "Çocukların soybağı korunur"
+      ]
+    },
+    {
+      "heading": "Yabancı ülkede verilen kararlar ne olur?",
+      "paragraphs": [
+        "Yabancı adli veya idari makamlarca verilen evliliğin iptali kararları doğrudan Türkiye'de sonuç doğurmaz. Kararın nüfus kütüğüne tescil edilmesi için usulen kesinleşmiş olması ve **Türk kamu düzenine aykırı olmaması** gerekir.",
+        "Tescil başvuruları yurt dışında dış temsilciliklere, yurt içinde ise ilgili nüfus müdürlüklerine yapılır."
+      ],
+      "bullets": [
+        "Kesinleşme şartı aranır",
+        "Kamu düzeni denetimi yapılır"
+      ]
+    }
+  ],
+  "steps": [
+    "İptal sebebini yaş, ehliyet, hata, hile veya korkutma durumlarına göre netleştirin.",
+    "Hak düşürücü süreyi hesaplayarak geç kalmadığınızdan emin olun.",
+    "Yetkili aile mahkemesinde evliliğin iptali için dava açın.",
+    "İyi niyetli eş ve çocukların haklarına ilişkin taleplerinizi dosyaya ekleyin.",
+    "Mahkeme kararı kesinleştiğinde nüfusa tescil işlemlerini tamamlatın."
+  ],
+  "documents": [
+    "evlilik kaydı",
+    "delil",
+    "dilekçe"
+  ],
+  "faq": [
+    {
+      "q": "Evliliğin iptali ile boşanma aynı şey midir?",
+      "a": "Hayır. Boşanma evliliği geçerli bir kuruluştan sonra sona erdirirken, iptal evliliği baştan sakat sayar."
+    },
+    {
+      "q": "İptal kararından sonra çocuklar ne olur?",
+      "a": "İptal karar verilse bile çocukların soybağı kural olarak zarar görmez ve korunmaya devam eder."
+    },
+    {
+      "q": "Yurt dışındaki iptal kararı Türkiye'de geçerli mi?",
+      "a": "Yetkili makamca verilmiş, kesinleşmiş ve kamu düzenine aykırı olmayan kararlar nüfusa tescil edilebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "mal-rejimi-tasfiyesi",
+  "angle": "Evliliğin iptali",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

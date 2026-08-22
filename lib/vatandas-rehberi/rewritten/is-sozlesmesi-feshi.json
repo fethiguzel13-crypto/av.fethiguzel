@@ -1,0 +1,113 @@
+{
+  "slug": "is-sozlesmesi-feshi",
+  "title": "İş Sözleşmesi Feshi Nedir? Haklı ve Bildirimli Fesih",
+  "description": "İş sözleşmesi feshi nedir? Nelere dikkat edilmeli? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Huk…",
+  "h1": "İş sözleşmesi feshi nedir? Nelere dikkat edilmeli?",
+  "keywords": [
+    "iş sözleşmesi feshi",
+    "haklı fesih",
+    "işten çıkarma"
+  ],
+  "category": "İş",
+  "related": [
+    "mobbing-nedir",
+    "belirsiz-sureli-is-sozlesmesi",
+    "belirli-sureli-is-sozlesmesi",
+    "deneme-suresi-is",
+    "istifa-nasil-edilir",
+    "hakli-fesih-isci",
+    "isveren-hakli-fesih",
+    "kotu-niyet-tazminati"
+  ],
+  "links": [
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Kıdem",
+      "href": "/hesaplama/kidem"
+    }
+  ],
+  "lead": "Sabah masanıza geldiğinizde veya eve döndüğünüzde iş sözleşmenizin bittiğini öğrenebilirsiniz. Telaş yapmayın; önemli olan bu ayrılığın hangi gerekçeyle ve nasıl yapıldığıdır.",
+  "keyInsight": "İş sözleşmesinin feshinde en kritik ayrım, sürecin geçerli bir sebebe mi yoksa işverenin derhal fesih hakkına mı dayandığıdır.",
+  "sections": [
+    {
+      "heading": "Geçerli fesih ne zaman söz konusu olur?",
+      "paragraphs": [
+        "Otuz veya daha fazla işçi çalıştıran işyerlerinde en az altı aylık kıdemi olan işçinin belirsiz süreli iş sözleşmesi feshedilirken işverenin geçerli bir sebebe dayanması gerekir. Bu kural yer altı işlerinde çalışanlar için aranmaz.",
+        "İşverenin dayanacağı geçerli sebep işçinin yeterliliğinden, davranışlarından ya da işletmenin, işyerinin veya işin gereklerinden kaynaklanmalıdır. Yasalara veya sözleşmeden doğan hakları takip etmek için idari veya adli makamlara başvurmak geçerli bir fesih sebebi yapılamaz."
+      ],
+      "bullets": [
+        "Altı aylık kıdem hesabında aynı işverenin işyerlerindeki süreler birleştirilir.",
+        "Sendikal faaliyetlere katılmak veya bu konuda başvuru yapmak fesih sebebi olamaz."
+      ]
+    },
+    {
+      "heading": "Hangi durumlarda derhal fesih hakkı doğar?",
+      "paragraphs": [
+        "İşveren, sağlık sebepleri ya da ahlak ve iyi niyet kurallarına uymayan hallerde sürenin bitimini beklemeksizin sözleşmeyi feshedebilir. İşçinin kendi kastından veya derli toplu olmayan yaşayışından doğacak devamsızlığın ardı ardına üç iş günü sürmesi bu hallerdendir.",
+        "Ayrıca işçinin işverenin güvenini kötüye kullanmak, hırsızlık yapmak gibi doğruluk ve bağlılığa uymayan davranışlarda bulunması durumunda da derhal fesih yolu açılır."
+      ],
+      "bullets": [
+        "Sağlık kurulu raporuyla çalışmasında sakınca görülen haller.",
+        "Cinsel taciz, hırsızlık ve şeref kırıcı davranışlar."
+      ]
+    },
+    {
+      "heading": "Kıdem tazminatı hangi hallerde ödenir?",
+      "paragraphs": [
+        "İşçilerin hizmet akitlerinin kanunda gösterilen haller dışında işveren tarafından feshedilmesi veya işçi tarafından haklı nedenle sona erdirilmesi durumunda kıdem tazminatı hakkı doğar. Muvazzaf askerlik hizmeti veya emeklilik amacıyla ayrılma durumlarında da bu ödeme yapılır.",
+        "Kadın işçinin evlendiği tarihten itibaren bir yıl içerisinde kendi arzusu ile sözleşmeyi sona erdirmesi de kıdem tazminatı ödenmesini gerektiren haller arasındadır."
+      ],
+      "bullets": [
+        "Her geçen tam yıl için 30 günlük ücret tutarında kıdem tazminatı ödenir.",
+        "İşyerinin devri halinde eski ve yeni işveren sorumludur."
+      ]
+    },
+    {
+      "heading": "Hangi mazeret izinleri haktır?",
+      "paragraphs": [
+        "Çalışma hayatı içinde işçilere bazı özel durumlarda ücretli izin hakkı tanınmıştır. Evlenmesi, evlat edinmesi ya da ana veya babasının, eşinin, kardeşinin, çocuğunun ölümü hâlinde üç gün izin verilir.",
+        "Eşinin doğum yapması hâlinde ise işçiye on gün ücretli izin sağlanır."
+      ],
+      "bullets": [
+        "Ölüm ve evlilik hallerinde üç günlük mazeret izni vardır.",
+        "Eş doğumunda on gün ücretli izin uygulanır."
+      ]
+    }
+  ],
+  "steps": [
+    "Fesih bildiriminin yazılı şekilde ve gerekçeli olarak yapılıp yapılmadığını inceleyin.",
+    "İşyerindeki toplam çalışan sayısını ve kıdem sürenizi kontrol edin.",
+    "Yapılan feshin sağlık, ahlak kuralları veya işletmesel bir sebebe dayanıp dayanmadığını tespit edin.",
+    "Kıdem tazminatı ve mazeret izni gibi haklarınızı ilgili mevzuat çerçevesinde hesaplayın.",
+    "Uyuşmazlık durumunda yasal başvuru yolları için gerekli hazırlıkları başlatın."
+  ],
+  "documents": [
+    "İş sözleşmesi metni",
+    "Hizmet dökümü ve çalışma belgesi",
+    "Mazeret veya sağlık raporları",
+    "Fesih bildirim yazısı"
+  ],
+  "faq": [
+    {
+      "q": "Her işten çıkarma için geçerli sebep aranır mı?",
+      "a": "Hayır. Otuz veya daha fazla işçi çalıştıran ve en az altı aylık kıdemi olan işçilerin belirsiz süreli sözleşmelerinde geçerli sebep aranır."
+    },
+    {
+      "q": "Hangi durumlarda kıdem tazminatı alınamaz?",
+      "a": "İşverenin ahlak ve iyi niyet kurallarına uymayan haller nedeniyle haklı fesih yaptığı durumlarda kıdem tazminatı ödenmez."
+    },
+    {
+      "q": "Evlenen kadın işçi kıdem tazminatı alabilir mi?",
+      "a": "Evet. Kadın işçinin evlendiği tarihten itibaren bir yıl içerisinde kendi arzusu ile işten ayrılması halinde kıdem tazminatı ödenir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "is-sozlesmesi-feshi",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "iptal-edilebilirlik",
+  "title": "İptal edilebilirlik — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İptal edilebilirlik hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
+  "h1": "İptal edilebilirlik",
+  "keywords": [
+    "iptal edilebilirlik",
+    "iptal edilebilirlik"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "temerrut-faizi-nedir",
+    "hile-ile-sozlesme",
+    "gabin-nedir",
+    "butlan-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/temerrut-faizi-nedir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=iptal"
+    }
+  ],
+  "lead": "Borcunuzu kapattığınızda elinizdeki senedin kaderi veya katıldığınız usulsüz bir artırmanın akıbeti iptal mekanizmasına bağlıdır. Kanun, borcu bitiren borçluya senedin iptalini isteme hakkı tanırken, haksız ihalelere karşı da mahkeme yolunu açar. Önemli olan, haklarınızı doğru zamanda ve doğru belgelerle talep etmektir.",
+  "keyInsight": "Borç ödendiğinde senedin geri alınması veya kaybı halinde resmi iptal belgesi düzenlenmesi, ileride yaşanacak mükerrer icra takiplerini önleyen en temel güvencedir.",
+  "sections": [
+    {
+      "heading": "Borcu ödedikten sonra o kağıt ne olacak?",
+      "paragraphs": [
+        "Bir borcu son kuruşuna kadar ödediniz ve karşı tarafla el sıkıştınız. İçiniz rahat olabilir ancak alacaklının elinde hâlâ imzanızın bulunduğu senet duruyorsa risk devam ediyor demektir. Borcun tamamı ödendiği an, alacaklıdan borç senedinin geri verilmesini veya **senedin iptal edilmesini** talep etme hakkınız doğar.",
+        "Borcun henüz tamamını değil de bir kısmını kapattıysanız süreç daha farklı işler. Bu aşamada senedin aslını tamamen geri alamazsınız; ancak ödediğiniz tutar kadar makbuz verilmesini ve yapılan ödemenin **senedin üzerine işlenmesini** istemelisiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Alacaklı senedi kaybettiğini söylerse ne yapmalısınız?",
+      "paragraphs": [
+        "Masaya oturdunuz, ödemeyi yapacaksınız fakat alacaklı senedi kaybettiğini iddia etti. 'Ben sonra bulur yırtarım' sözüne güvenip parayı teslim etmek sizi büyük bir hukuki yük altına sokabilir. Alacaklı senet aslını getiremiyorsa, borçlunun istemi üzerine ödeme anında resmi bir adım atmak zorundadır.",
+        "Böyle bir durumda alacaklı, senedin iptal edildiğini ve borcun sona erdiğini gösteren **resmen düzenlenmiş bir belge** vermekle yükümlüdür. Bu resmi güvence belgesi elinize geçmeden ödemeyi tamamlamak zorunda değilsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Usulsüz bir ihale nasıl iptal ettirilir?",
+      "paragraphs": [
+        "Katıldığınız bir artırmada işlerin arkadan çevrildiğini, hukuka veya ahlaka aykırı yollarla ihalenin şekillendirildiğini fark ettiniz. Haksızlıkla biten bir artırma karşısında çaresiz değilsiniz; kanun ilgili herkesin ihalenin iptali için mahkemeye gitmesine imkan tanır.",
+        "İhale iptalinde zamanlama hayati önem taşır. İptal sebebini öğrendiğiniz günden itibaren **on gün** içinde mahkemeye başvurmanız gerekir. İhale tarihinin üzerinden **bir yıl** geçtikten sonra ise öğrenmiş olsanız dahi iptal isteminde bulunamazsınız."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Haklarınızı korumak için elinizde ne bulunmalı?",
+      "paragraphs": [
+        "Hukuki uyuşmazlıklarda sözler uçar, belgeler kalır. Ödeme yaptığınızda aldığınız makbuzlar, senedin arkasına düşülen şerhler veya noter onaylı beyanlar ileride doğabilecek sahte alacak iddialarını tamamen boşa çıkarır.",
+        "İhale iptallerinde ise usulsüzlüğü ortaya koyan mesajlaşmalar, tanık beyanları veya resmi tutanaklar davanızın seyrini belirler. Süreler son derece kısıtlı olduğu için belge toplama sürecini geciktirmeden başlatmalısınız."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Borcun tamamını ödediğinizde senet aslını geri alın veya üzerinde iptal yazarak imzalattırın.",
+    "Kısmi ödemelerde ödenen miktarı gösteren makbuz isteyip tutarı senet üzerine kaydettirin.",
+    "Alacaklı senedi kaybettiğini belirtirse ödeme anında resmi onaylı iptal belgesi talep edin.",
+    "İhaledeki usulsüzlüğü öğrendiğiniz an 10 günlük mahkeme başvuru süresini başlatın.",
+    "Her durumda ihale tarihinden itibaren 1 yıllık tavan süre dolmadan hukuki süreci tamamlayın."
+  ],
+  "documents": [
+    "Borç senedinin aslı veya iptal şerhli nüshası",
+    "Ödeme yapıldığını gösteren banka dekontu veya makbuz",
+    "Alacaklı tarafından verilen resmi borç iptal belgesi",
+    "İhale tutanağı ve ihale şartnamesi",
+    "İhaledeki usulsüzlüğü gösteren delil ve belgeler"
+  ],
+  "faq": [
+    {
+      "q": "Borcun bir kısmını ödediğimde senedin aslını alabilir miyim?",
+      "a": "Hayır, senedin tamamı ödenmeden aslı geri istenemez. Ancak ödediğiniz miktar için makbuz alma ve bu ödemeyi senedin üzerine yazdırma hakkınız vardır."
+    },
+    {
+      "q": "Alacaklı senedi kaybettiğini söylerse ödeme yapmak zorunda mıyım?",
+      "a": "Alacaklı, senedin iptal edildiğini ve borcun bittiğini gösteren resmi onaylı bir belge sunmadığı sürece ödeme yapmaktan kaçınabilirsiniz."
+    },
+    {
+      "q": "İhalenin iptali davası açmak için ne kadar zamanım var?",
+      "a": "İptal nedenini öğrendiğiniz tarihten itibaren 10 gün içinde dava açmalısınız. İhale tarihinden itibaren 1 yıl geçmesiyle bu hak tamamen düşer."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "temerrut-faizi-nedir",
+  "angle": "İptal edilebilirlik",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

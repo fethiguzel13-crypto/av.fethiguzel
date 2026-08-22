@@ -1,0 +1,112 @@
+{
+  "slug": "vasiyetname-nasil-yapilir",
+  "title": "Vasiyetname nasıl yapılır — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Vasiyetname nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
+  "h1": "Vasiyetname nasıl yapılır?",
+  "keywords": [
+    "vasiyetname nasıl yapılır",
+    "noter vasiyet"
+  ],
+  "category": "Miras",
+  "related": [
+    "veraset-ilami-nasil-alinir",
+    "sakli-pay-nedir",
+    "miras-payi-nasil-hesaplanir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/veraset-ilami-nasil-alinir"
+    },
+    {
+      "label": "Miras",
+      "href": "/kategori/miras-hukuku"
+    },
+    {
+      "label": "Rehber",
+      "href": "/rehber/miras-paylasimi"
+    }
+  ],
+  "lead": "Mal varlığınızı kime bırakacağınızı belirlemek istiyorsunuz ancak hangi adımı atacağınızı bilemiyor olabilirsiniz. Vasiyetname, kanunun öngördüğü katı şekil şartlarına uyulmadığı an geçersiz sayılan çok hassas bir hukuki işlemdir.",
+  "keyInsight": "Bilgisayarda yazıp altına imza attığınız bir kağıt vasiyetname değildir; el yazılı vasiyetin baştan sona kendi el yazınızla yazılması şarttır.",
+  "sections": [
+    {
+      "heading": "Hangi vasiyetname türü size göre?",
+      "paragraphs": [
+        "Masaya oturdunuz ve son arzularınızı kağıda dökmek istiyorsunuz. Önünüzde kanunun tanıdığı farklı yollar var ancak her yolun kapısı farklı bir kurala açılıyor.",
+        "En güvenilir yol, bir **resmi memur** huzurunda iki tanıkla yapılan resmi vasiyetnamedir. Eğer el yazısıyla yapacaksanız, metnin **tamamını** kendi el yazınızla yazmanız gerekir."
+      ],
+      "bullets": [
+        "Resmi vasiyetname noter veya sulh hâkimiyle yapılır.",
+        "El yazılı vasiyette daktilo veya bilgisayar kullanılamaz.",
+        "Sözlü vasiyet yalnızca olağanüstü tehlike anında geçerlidir."
+      ]
+    },
+    {
+      "heading": "Noterde süreç nasıl işler?",
+      "paragraphs": [
+        "Noterin kapısından içeri girdiğinizde yanınızda iki tanık bulunmalıdır. Memur iradenizi dinler, metni hazırlar ve süreç kanuni usullere göre tamamlanır.",
+        "Yapılan bu resmi işlem daha sonra ilgili kurumlara ve sicillere bildirilir. Böylece vasiyetnamenizin kaybolma veya yok olma riski ortadan kalkar."
+      ],
+      "bullets": [
+        "Noter, sulh hâkimi veya yetkili görevli memur seçilebilir.",
+        "İki tanığın katılımı kesin bir zorunluluktur."
+      ]
+    },
+    {
+      "heading": "El yazısıyla hazırlarken nelere dikkat etmeli?",
+      "paragraphs": [
+        "Kalemi elinize aldığınızda metnin başından sonuna kadar kendi el yazınızla yazılmış olmasına dikkat etmelisiniz. Başkasının yazdığı bir metne imza atmak o kağıdı hükümsüz kılar.",
+        "Metnin altına mutlaka **tarih** atıp imzalamanız gerekir. Tarih ve imza eksikse, yazdıklarınız mahkemede geçersiz kabul edilir."
+      ],
+      "bullets": [
+        "Yıl, ay ve gün olarak tarih atılmalıdır.",
+        "İmza atılmayan metin hukuki sonuç doğurmaz."
+      ]
+    },
+    {
+      "heading": "Sonradan vazgeçmek mümkün mü?",
+      "paragraphs": [
+        "Bugün verdiğiniz bir kararı yarın değiştirmek isteyebilirsiniz. Hayattayken dilediğiniz zaman yeni bir vasiyetname yazarak eskisini ortadan kaldırabilirsiniz.",
+        "İşlemler bittikten sonra ilgili kurumlar gerekli bildirimleri yapar ve kayıtlar güncellenir."
+      ],
+      "bullets": [
+        "Yeni vasiyetname eskiyi hükümsüz kılabilir.",
+        "İptal hakkı her zaman saklıdır."
+      ]
+    }
+  ],
+  "steps": [
+    "El yazılı, resmi veya sözlü şekillerden size uygun olanı seçin.",
+    "El yazısı seçecekseniz metnin tamamını kendi elinizle yazıp tarih koyun ve imzalayın.",
+    "Resmi vasiyet için noter veya yetkili memura iki tanıkla birlikte başvurun.",
+    "Vasiyetnameyi güvenli bir yerde saklayın ya da notere emanet edin.",
+    "İleride değiştirme veya iptal etme hakkınızı unutmayın."
+  ],
+  "documents": [
+    "Kimlik belgesi",
+    "Mal listesi",
+    "Noter evrakı"
+  ],
+  "faq": [
+    {
+      "q": "Bilgisayarda yazıp çıktısını aldığım kağıt vasiyetname sayılır mı?",
+      "a": "Sayılmaz. El yazılı vasiyetnamenin baştan sona bizzat kendi el yazınızla yazılmış olması şarttır."
+    },
+    {
+      "q": "Resmi vasiyetnameyi nerede yapabilirim?",
+      "a": "Noter, sulh hâkimi veya kanunla yetkilendirilmiş resmi memur huzurunda iki tanıkla yapabilirsiniz."
+    },
+    {
+      "q": "Yaptığım vasiyeti sonradan değiştirebilir miyim?",
+      "a": "Evet, hayattayken dilediğiniz zaman yeni bir vasiyetname düzenleyerek önceki kararlarınızı değiştirebilir veya iptal edebilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "veraset-ilami-nasil-alinir",
+  "angle": "Vasiyet yapma",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

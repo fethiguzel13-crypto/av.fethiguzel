@@ -1,0 +1,113 @@
+{
+  "slug": "kidem-tavan",
+  "title": "Kıdem Tazminatı Tavanı Nedir? (Dönemsel Sınır)",
+  "description": "Kıdem tavanı ne işe yarar, hesabı nasıl sınırlar? Güncel tutar için resmî kaynak; genel rehber ayrı.",
+  "h1": "Kıdem tazminatı tavanı nedir?",
+  "keywords": [
+    "kıdem tazminatı tavanı",
+    "kıdem tavan tutarı",
+    "kıdem tavanı 2026"
+  ],
+  "category": "İş",
+  "related": [
+    "kidem-tazminati-nasil-alinir",
+    "ihbar-tazminati-nedir",
+    "is-sozlesmesi-feshi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kidem-tazminati-nasil-alinir"
+    },
+    {
+      "label": "Kıdem",
+      "href": "/rehber/kidem-tazminati"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/kidem"
+    }
+  ],
+  "lead": "Yıllardır aynı iş yerindesiniz ve maaşınız oldukça yüksek. İşten ayrılırken alacağınız kıdem tazminatının hesabında **belirli bir üst sınır** olduğunu fark ediyorsunuz.",
+  "keyInsight": "Yüksek maaş alsanız bile kıdem tazminatınız **tavan tutarı** aşamaz.",
+  "sections": [
+    {
+      "heading": "Ne zaman hak doğar?",
+      "paragraphs": [
+        "İş yerinde en az bir yıl çalıştıktan sonra sözleşmeniz belirli hallerde sona ererse kıdem tazminatına hak kazanırsınız. İşverenin iş akdini haklı sebep olmadan feshetmesi, sizin haklı nedenle ayrılmanız, askerlik veya emeklilik gibi durumlar bu hakkı doğurur.",
+        "Her geçen tam yıl için işverenin size **30 günlük ücreti** tutarında ödeme yapması gerekir. Bir yıldan artan süreler için de aynı oran üzerinden hesaplama yapılır."
+      ],
+      "bullets": [
+        "En az bir yıllık çalışma süresi",
+        "Kanuna uygun fesih nedeni"
+      ]
+    },
+    {
+      "heading": "Tavan hesaplaması nasıl işler?",
+      "paragraphs": [
+        "Normal şartlarda tazminatınız giydirilmiş brüt ücretiniz üzerinden hesaplanır. Ancak kazancınız ne kadar yüksek olursa olsun, kanunen belirlenen **üst sınır** dikkate alınır.",
+        "Hesaplama yaparken brüt maaşınız tavan tutarın üzerindeyse, tazminatınız **tavan rakamı** üzerinden ödenir."
+      ],
+      "bullets": [
+        "Brüt ücret tavanı aşamaz",
+        "Fazla kısım hesaba katılmaz"
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırınca ne olur?",
+      "paragraphs": [
+        "Hak ettiğiniz tazminatın ödenmemesi durumunda alacağınızın zaman aşımına uğramaması için süreci yakından takip etmelisiniz. Gecikmeler hak kaybına yol açabilir.",
+        "İş yerinden ayrıldığınız an itibarıyla **yasal yollara başvurma** adımlarını hızlandırmanız gerekebilir."
+      ],
+      "bullets": [
+        "Zaman aşımı riskleri",
+        "Gecikme faizi hakları"
+      ]
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "Uyuşmazlık durumunda elinizde yazılı belgelerin bulunması süreci hızlandırır. Bordrolar ve hizmet dökümü en büyük yardımcınızdır.",
+        "İş yerindeki döneminizi kanıtlayan evrakları **eksiksiz saklamanız** önemlidir."
+      ],
+      "bullets": [
+        "Maaş bordroları",
+        "Hizmet dökümü"
+      ]
+    }
+  ],
+  "steps": [
+    "Çalışma sürenizi ve fesih nedeninizi kontrol edin.",
+    "Brüt maaşınızı ve güncel tavan tutarını karşılaştırın.",
+    "İş yerinden kıdem tazminatının ödenmesini yazılı olarak isteyin.",
+    "Ödeme yapılmazsa arabuluculuk sürecini başlatın.",
+    "Anlaşma sağlanamazsa dava yoluna gidin."
+  ],
+  "documents": [
+    "İş sözleşmesi",
+    "Maaş bordroları",
+    "SGK hizmet dökümü",
+    "İbraname"
+  ],
+  "faq": [
+    {
+      "q": "Kıdem tazminatı tavanı nedir?",
+      "a": "Devletin belirlediği ve bir yıllık çalışma karşılığı ödenebilecek **en yüksek tutarı** ifade eder."
+    },
+    {
+      "q": "Maaşım tavandan yüksekse ne olur?",
+      "a": "Tazminatınız gerçek maaşınız üzerinden değil, kanuni **tavan tutarı** üzerinden hesaplanır."
+    },
+    {
+      "q": "Tavanı kim belirler?",
+      "a": "Mevzuattaki düzenlemeler çerçevesinde dönemsel olarak tespit edilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kidem-tazminati-nasil-alinir",
+  "angle": "Dönemsel kıdem tavanı ve hesabı sınırlama etkisi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

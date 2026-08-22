@@ -1,0 +1,116 @@
+{
+  "slug": "unvan-tescili",
+  "title": "Ticaret unvanı tescili — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Ticaret unvanı tescili hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
+  "h1": "Ticaret unvanı tescili",
+  "keywords": [
+    "ticaret unvanı tescili",
+    "unvan tescili"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "sirket-kurulusu",
+    "ticaret-sicili-islemleri",
+    "marka-tescil"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/sirket-kurulusu"
+    },
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-isletme"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Şirketinizi kurdunuz veya ticarete atıldınız. Artık seçtiğiniz adı resmileştirmek ve ticari hayata resmi olarak adım atmak zorundasınız.",
+  "keyInsight": "Ticari işletmenizi açtığınız günden itibaren **onbeş gün içinde** ticaret siciline başvurarak unvanınızı tescil ve ilan ettirmeniz şarttır.",
+  "sections": [
+    {
+      "heading": "Ticari hayatta adınızı koyma zamanı",
+      "paragraphs": [
+        "Dükkânınızın tabelasını astınız, masanızı yerleştirdiniz ve müşterilerinizi beklemeye başladınız. İşte bu heyecanlı günlerde unvanınızı seçip öylece bırakamazsınız. Yasa, ticari işletmenin açıldığı günden itibaren adınızı ve unvanınızı resmi olarak kayda geçirmenizi ister.",
+        "Bu işlem sadece bir bürokrasi adımı değildir; adınızın hukuken size ait olmasını ve başkaları tarafından kullanılmamasını sağlar. Unvansız bir ticari faaliyet karanlıkta yürümeye benzer; kimliğiniz resmi olarak belirsiz kalır."
+      ],
+      "bullets": [
+        "İşletmenin açıldığı gün kritik başlangıçtır.",
+        "Unvan seçimi resmi kayda bağlanmalıdır."
+      ]
+    },
+    {
+      "heading": "Hangi süreye dikkat etmeli?",
+      "paragraphs": [
+        "Takvim yaprakları hızla düşerken elinizi çabuk tutmanız gerekir. İşletmenizi açtığınız tarihten itibaren önünüzde **onbeş günlük** bir zaman dilimi vardır. Bu süre içinde merkezin bulunduğu yer ticaret siciline başvurulmalıdır.",
+        "Şirket kuruluşlarında ise durum biraz daha farklı akar; diğer şirketlerde kuruluşun tamamlanmasını izleyen **otuz gün içinde** şirket merkezi ticaret siciline tescil edilir ve ilan olunur."
+      ],
+      "bullets": [
+        "Gerçek kişi tacirler için süre onbeş gündür.",
+        "Şirketlerde bu süre otuz gün olarak belirlenmiştir."
+      ]
+    },
+    {
+      "heading": "Şubeler ve diğer yapılar nasıl tescil edilir?",
+      "paragraphs": [
+        "Merkezini tescil ettirdiniz ancak başka bir şehirde şube açtınız. İşler burada bitmez; şubeler de bulundukları yerin ticaret siciline tescil ve ilan olunur. Merkezin sicil kaydına gönderme yapılarak bu süreç tamamlanır.",
+        "Donatma iştiraki gibi ortaklıklarda da benzer bir disiplin vardır; iştirakin yapılmasını izleyen **onbeş gün içinde** ticaret ve gemi sicillerine tescil işlemi gerçekleştirilir."
+      ],
+      "bullets": [
+        "Şubeler de merkez gibi tescil edilir.",
+        "İştiraklerde süre onbeş gündür."
+      ]
+    },
+    {
+      "heading": "İmza yetkisi ve sicil kayıtları",
+      "paragraphs": [
+        "Sicil işlemleri sırasında sadece unvanınız değil, imzanız da kayıt altına alınır. Gerçek kişi tacir ile tüzel kişi tacir adına imzaya yetkili olanların imzaları kamu kurumlarının veri tabanlarından elektronik ortamda temin edilir.",
+        "Eğer veri tabanında imza kaydı bulunmuyorsa, yetkili kişilerin imza beyanlarının ticaret sicili müdürlüğüne verilmesi gerekir. Bu detay, şirketinizi kimin temsil edeceğini resmi olarak gösteren kilit noktadır."
+      ],
+      "bullets": [
+        "İmzalar elektronik ortamdan temin edilir.",
+        "Kayıt yoksa imza beyanı verilir."
+      ]
+    }
+  ],
+  "steps": [
+    "Ticari işletmenizi açtığınız günü takvime işaretleyin.",
+    "Seçtiğiniz ticaret unvanını belirleyin.",
+    "İşletme merkezinin bulunduğu yer ticaret siciline başvurun.",
+    "İmza yetkililerinin imza verilerini hazır bulundurun.",
+    "Onbeş gün (şirketler için otuz gün) içinde tescil ve ilan işlemini tamamlayın."
+  ],
+  "documents": [
+    "Kimlik belgesi",
+    "Şirket esas sözleşmesi",
+    "İmza beyanı",
+    "Ticaret sicil başvuru evrakları"
+  ],
+  "faq": [
+    {
+      "q": "Ticaret unvanımı ne zaman tescil ettirmeliyim?",
+      "a": "Ticari işletmenin açıldığı günden itibaren onbeş gün içinde ticaret siciline tescil ve ilan ettirmeniz gerekir."
+    },
+    {
+      "q": "Şirket kuruluşunda tescil süresi nedir?",
+      "a": "Şirketin kuruluşunu izleyen otuz gün içinde ticaret siciline tescil ve Türkiye Ticaret Sicili Gazetesinde ilan olunur."
+    },
+    {
+      "q": "Şubeler için de tescil gerekiyor mu?",
+      "a": "Merkezi Türkiye'de bulunan ticari işletmelerin şubeleri de bulundukları yerin ticaret siciline tescil ve ilan olunur."
+    },
+    {
+      "q": "İmza yetkililerinin imzaları nasıl kaydedilir?",
+      "a": "İmzalar kamu kurumlarının veri tabanlarından elektronik ortamda alınır; bulunmuyorsa imza beyanı sicil müdürlüğüne verilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "sirket-kurulusu",
+  "angle": "Ticaret unvanı tescili",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

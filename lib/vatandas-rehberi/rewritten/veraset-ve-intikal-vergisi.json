@@ -1,0 +1,111 @@
+{
+  "slug": "veraset-ve-intikal-vergisi",
+  "title": "Veraset ve intikal vergisi nasıl ödenir — Vatandaş Rehberi | Av. Fethi",
+  "description": "Veraset ve intikal vergisi nasıl ödenir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı…",
+  "h1": "Veraset ve intikal vergisi nasıl ödenir?",
+  "keywords": [
+    "veraset ve intikal vergisi",
+    "miras vergisi"
+  ],
+  "category": "Vergi",
+  "related": [
+    "veraset-ilami-nasil-alinir",
+    "tapu-devri-nasil-yapilir",
+    "e-devlet-vergi-borcu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/veraset-ilami-nasil-alinir"
+    },
+    {
+      "label": "VUK",
+      "href": "/kategori/vuk"
+    },
+    {
+      "label": "Miras",
+      "href": "/kategori/miras-hukuku"
+    }
+  ],
+  "lead": "Yakınınızı kaybettiniz ve geride kalan mallar için vergi ödemeniz gerekiyor. İşlemleri **süresinde** tamamlamak cezayla karşılaşmamak için ilk adımdır.",
+  "keyInsight": "Beyannamenin verilmesi gereken sürenin sonundan itibaren **15 gün** beklenir ve bu sürede verilirse ceza uygulanmaz.",
+  "sections": [
+    {
+      "heading": "Yabancı Ülkedeki Mallar Nasıl Değerlenir?",
+      "paragraphs": [
+        "Miras yoluyla kalan mallar arasında yurt dışında bulunan varlıklar da yer alabilir. Bu durumda o malların değeri, bulunduğu ülkedeki **usul ve esaslara** göre tespit edilir.",
+        "Yabancı memleketteki varlıkların belirlenen bu değerleri aynen dikkate alınarak vergilendirme işlemine dahil edilir."
+      ],
+      "bullets": [
+        "Yabancı ülkedeki malın değeri esas alınır",
+        "O ülkenin kuralları uygulanır"
+      ]
+    },
+    {
+      "heading": "Süreyi Kaçırmamak İçin Ne Yapmalı?",
+      "paragraphs": [
+        "Veraset ve intikal vergisine ilişkin işlemler sırasında tahakkuk aşaması için belirli bir bekleme süresi bulunur. Beyanname verme süresinin bitiminden sonra **15 günlük** bir süre öngörülmüştür.",
+        "Eğer beyanname bu süre zarfında verilirse, vergi ziyaı oluşmamış kabul edilir ve süreç resmi kurallara göre ilerler."
+      ],
+      "bullets": [
+        "Sürenin sonundan itibaren 15 gün beklenir",
+        "Bu sürede verilen beyanname avantaj sağlar"
+      ]
+    },
+    {
+      "heading": "Ek Süre Verilmesi Mümkün mü?",
+      "paragraphs": [
+        "Mükellefe gerekli bildirimlerin yapılması şartıyla yeniden **15 günlük** bir mühlet daha tanınabilir.",
+        "Bu ek süre imkanı da ilk aşamadaki kurallara tabi olarak uygulanır ve işlemin tamamlanmasına olanak tanır."
+      ],
+      "bullets": [
+        "Tebligat şartı aranır",
+        "Yeni bir 15 günlük süre tanınabilir"
+      ]
+    },
+    {
+      "heading": "Borçlar ve Mirasın Durumu",
+      "paragraphs": [
+        "Borçlunun iflası, mirasın reddi veya terekenin resmi tasfiyeye tabi tutulması gibi haller ortaya çıkabilir. Bu durumlarda kamu alacakları özel bir **sıralama ve işleme** tabi tutulur.",
+        "İlgili kanun hükümleri çerçevesinde imtiyazlı alacaklarla birlikte değerlendirme yapılır."
+      ],
+      "bullets": [
+        "Mirasın reddi süreci etkiler",
+        "Resmi tasfiye hükümleri uygulanır"
+      ]
+    }
+  ],
+  "steps": [
+    "Yurt dışındaki malların değerini ilgili ülkenin usullerine göre tespit edin.",
+    "Beyannameyi yasal süresi içinde ilgili birime verin.",
+    "Tanınan 15 günlük ek süreleri ve tebligatları takip edin.",
+    "Mirasın reddi veya tasfiye durumlarında resmi adımları izleyin."
+  ],
+  "documents": [
+    "Veraset ve intikal vergisi beyannamesi",
+    "Yurt dışındaki malların değerini gösteren belgeler",
+    "Tebligat evrakları",
+    "Miras veya tasfiye durumunu gösteren resmi belgeler"
+  ],
+  "faq": [
+    {
+      "q": "Yabancı ülkede kalan mallar vergi hesabına nasıl dahil edilir?",
+      "a": "O ülkedeki cari usul ve esaslara göre tayin edilen değerler aynen nazara alınır."
+    },
+    {
+      "q": "Beyanname süresi bittikten sonra ne kadar beklenir?",
+      "a": "Tahakkuk işlemi için beyanname verme süresinin sonundan başlayarak 15 gün beklenir."
+    },
+    {
+      "q": "Ek süre verilmesi hangi şarta bağlıdır?",
+      "a": "Mükellefe tebliğ edilmek şartıyla yeniden 15 günlük bir mühlet verilebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "veraset-ilami-nasil-alinir",
+  "angle": "Vergi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

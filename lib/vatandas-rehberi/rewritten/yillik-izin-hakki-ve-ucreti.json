@@ -1,0 +1,111 @@
+{
+  "slug": "yillik-izin-hakki-ve-ucreti",
+  "title": "Yıllık İzin: Kaç Gün, Ne Zaman Hak Edilir, Ücreti Nasıl Ödenir?",
+  "description": "Yıllık ücretli izin kaç gündür, ne zaman hak edilir, kullanılmayan izin paraya çevrilebilir mi, iş bitiminde ücreti nasıl hesaplanır? 4857 sayılı Kanun m.53-59 çerçevesinde.",
+  "h1": "Yıllık izin hakkı ve izin ücreti",
+  "keywords": [
+    "yıllık izin",
+    "yıllık izin süreleri",
+    "yıllık izin ücreti",
+    "kullanılmayan izin parası",
+    "izin hakkı kaç gün"
+  ],
+  "category": "İş",
+  "related": [
+    "kidem-tazminati-nasil-alinir"
+  ],
+  "links": [
+    {
+      "label": "İş K. m.53 — İzin hakkı ve süreleri",
+      "href": "/mevzuat/is-kanunu/madde-53"
+    },
+    {
+      "label": "İş K. m.57 — Yıllık izin ücreti",
+      "href": "/mevzuat/is-kanunu/madde-57"
+    },
+    {
+      "label": "İş K. m.59 — Sona ermede izin ücreti",
+      "href": "/mevzuat/is-kanunu/madde-59"
+    },
+    {
+      "label": "Yıllık izin hesaplama aracı",
+      "href": "/hesaplama/yillik-izin"
+    }
+  ],
+  "lead": "Yıllık izin, çalışmanın doğal bir sonucudur ve işçinin dinlenme hakkını güvence altına alır. Bu hak, iş sözleşmesi devam ettiği sürece paraya çevrilemez ve ancak sözleşme sona erdiğinde bir alacak kalemine dönüşür.",
+  "keyInsight": "Yıllık izin hakkından çalışırken vazgeçilemez; izin ücreti ödenerek iznin kullanılmaması hukuken geçersizdir.",
+  "sections": [
+    {
+      "heading": "Yıllık izin ne zaman hak edilir?",
+      "paragraphs": [
+        "İzin hakkınızın doğması için işyerinde **en az bir yıl** çalışmış olmanız gerekir. Bu bir yıllık süreye deneme süreniz de dahildir; yani işe başladığınız gün itibarıyla süre işlemeye başlar.",
+        "Mevsimlik veya kampanya işi gibi niteliği gereği bir yıldan kısa süren işlerde yıllık izin hükmü uygulanmaz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kaç gün izin hakkınız var?",
+      "paragraphs": [
+        "İzin süreniz, toplam hizmet sürenize göre kademeli olarak belirlenir. Kanunda belirtilen bu süreler asgari sınırlardır; sözleşmelerle artırılabilir.",
+        "Özel durumlar için kanun koruyucu bir taban belirlemiştir. On sekiz yaşından küçük veya elli yaşından büyük çalışanların yıllık izin süresi **yirmi günden az olamaz**. Yer altı işlerinde çalışanlar için ise bu süreler dört gün artırımlı uygulanır."
+      ],
+      "bullets": [
+        "1-5 yıl arası (5 dahil): en az 14 gün",
+        "5 yıldan fazla, 15 yıldan az: en az 20 gün",
+        "15 yıl ve üzeri: en az 26 gün"
+      ]
+    },
+    {
+      "heading": "İzin ücreti ve ödeme zamanı",
+      "paragraphs": [
+        "Yıllık izin çalışırken paraya çevrilemez. İşveren, izne çıkmadan önce izin sürenize denk gelen ücretinizi size peşin ödemek veya avans olarak vermek zorundadır.",
+        "Eğer ücretiniz komisyon veya kâr paylaşımı gibi değişken usullerle belirleniyorsa, izin ücretiniz son bir yıllık kazancınızın ortalaması alınarak hesaplanır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Sözleşme bittiğinde ne olur?",
+      "paragraphs": [
+        "İş sözleşmeniz hangi nedenle biterse bitsin, hak kazanıp da kullanmadığınız izinlerin ücreti size ödenmelidir. Bu ücret, sözleşmenin sona erdiği tarihteki güncel maaşınız üzerinden hesaplanır.",
+        "Bu alacak için zamanaşımı süresi **beş yıldır** ve sözleşmenin bittiği tarihten itibaren işlemeye başlar."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İşe giriş tarihinizi ve toplam hizmet sürenizi SGK dökümünden teyit edin.",
+    "Hizmet sürenize göre hak ettiğiniz asgari izin gün sayısını hesaplayın.",
+    "Kullanmadığınız izin günlerini bordro veya izin kayıtlarınızdan belirleyin.",
+    "Sözleşmeniz sona erdiğinde güncel maaşınız üzerinden alacağınızı işverenden talep edin.",
+    "Ödenmemesi durumunda arabuluculuk sürecini başlatın."
+  ],
+  "documents": [
+    "SGK hizmet dökümü",
+    "İzin defteri veya izin formları",
+    "İş sözleşmesi",
+    "Son maaş bordrosu"
+  ],
+  "faq": [
+    {
+      "q": "İzin kullanmayıp parasını alabilir miyim?",
+      "a": "Hayır, iş sözleşmesi devam ederken yıllık izin ücrete dönüştürülemez."
+    },
+    {
+      "q": "İstifa edersem kullanmadığım izinlerin parasını alabilir miyim?",
+      "a": "Evet, istifa dahil sözleşmenin her türlü sona erme halinde kullanılmayan izinler ödenmek zorundadır."
+    },
+    {
+      "q": "İhbar süresi içinde izin kullandırılabilir mi?",
+      "a": "Hayır, bildirim süresi ile yıllık izin süreleri iç içe giremez."
+    },
+    {
+      "q": "İzin ücretinde zamanaşımı ne kadardır?",
+      "a": "Sözleşmenin sona erdiği tarihten itibaren beş yıldır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.94,
+  "voice": "narrative",
+  "source": "gemini"
+}

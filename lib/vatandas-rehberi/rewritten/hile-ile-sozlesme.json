@@ -1,0 +1,113 @@
+{
+  "slug": "hile-ile-sozlesme",
+  "title": "Hile ile sözleşme — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Hile ile sözleşme hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
+  "h1": "Hile ile sözleşme",
+  "keywords": [
+    "hile ile sözleşme",
+    "hile ile sozlesme"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "temerrut-faizi-nedir",
+    "hukuk-davasi-nasil-acilir",
+    "kefalet-sozlesmesi",
+    "ibraname-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/temerrut-faizi-nedir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Bir sözleşme imzalandığında, tarafların iradelerini karşılıklı ve birbirine uygun olarak açıklamaları beklenir. Ancak bu süreçte karşı tarafın hileli bir davranışı söz konusu ise durum değişir.",
+  "keyInsight": "Hileli davranışla kurulan sözleşmelerde asıl mesele, iradenin sakatlanmış olması ve gerçeğe aykırı bir durumla karşı karşıya kalmanızdır.",
+  "sections": [
+    {
+      "heading": "Sözleşme Nasıl Kurulur?",
+      "paragraphs": [
+        "Bir imza atarsınız ve her şeyin bittiğini sanırsınız. Aslında sözleşme, tarafların iradelerini karşılıklı ve birbirine uygun olarak açıklamalarıyla kurulur.",
+        "Bu irade açıklaması açık olabileceği gibi örtülü de gerçekleşebilir. Önemli olan iki tarafın da aynı konuda anlaşmış olmasıdır."
+      ],
+      "bullets": [
+        "Karşılıklı irade şarttır.",
+        "Açık veya örtülü olabilir."
+      ]
+    },
+    {
+      "heading": "Hileli Davranışların Etkisi",
+      "paragraphs": [
+        "Karşı tarafın hileli bir davranışı ile karşı karşıya kalıp imza attıysanız, ortada irade sakatlığı vardır.",
+        "Bu durum yargılama aşamasında da dikkate alınır ve lehine karar verilen tarafın hileli bir davranışta bulunması yargılamanın iadesi sebebi sayılır."
+      ],
+      "bullets": [
+        "Hile karara etki edebilir.",
+        "Yargılamanın iadesi gündeme gelebilir."
+      ]
+    },
+    {
+      "heading": "Sözleşmeden Doğan Uyuşmazlıklar",
+      "paragraphs": [
+        "İşler sarpa sardığında kafanız karışabilir. **Sözleşmeden doğan davalar**, sözleşmenin ifa edileceği yer mahkemesinde de açılabilir.",
+        "Yetkili mahkemeyi doğru belirlemek zaman kaybetmenizi önler."
+      ],
+      "bullets": [
+        "İfa yeri önemlidir.",
+        "Yetkili mahkeme seçilebilir."
+      ]
+    },
+    {
+      "heading": "Malların Korunması ve Satış Hakkı",
+      "paragraphs": [
+        "Sözleşmeye konu olan şey bozulabilir ya da bakımı önemli bir gider gerektirebilir. Bu durumda borçlunun **hâkimin izniyle** satış yapma hakkı doğabilir.",
+        "Her şeyin kuralına uygun ilerlemesi için yasal adımların atılması gerekir."
+      ],
+      "bullets": [
+        "Bozulabilir mallar için tedbir alınır.",
+        "Hâkim izni gerekebilir."
+      ]
+    }
+  ],
+  "steps": [
+    "Sözleşme metnini ve irade beyanlarını inceleyin.",
+    "Karşı tarafın hileli davranışlarını tespit edin.",
+    "İfa yeri mahkemesini belirleyin.",
+    "Gerekirse geçici hukuki koruma yollarına başvurun.",
+    "Hâkim izni gerektiren durumlarda talepte bulunun."
+  ],
+  "documents": [
+    "Sözleşme metni",
+    "İrade açıklamalarını gösteren yazışmalar",
+    "Hileli davranışı kanıtlayan belgeler",
+    "Mahkeme başvuru dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Sözleşme nasıl geçerli kurulur?",
+      "a": "Tarafların iradelerini karşılıklı ve birbirine uygun olarak açıklamalarıyla kurulur."
+    },
+    {
+      "q": "Hileli davranış fark edilirse ne olur?",
+      "a": "Hileli davranış yargılamanın iadesi sebepleri arasında yer alabilir."
+    },
+    {
+      "q": "Sözleşme davaları nerede açılır?",
+      "a": "Sözleşmeden doğan davalar, sözleşmenin ifa edileceği yer mahkemesinde de açılabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "temerrut-faizi-nedir",
+  "angle": "Hile ile sözleşme",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

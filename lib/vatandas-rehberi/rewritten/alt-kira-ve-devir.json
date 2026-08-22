@@ -1,0 +1,112 @@
+{
+  "slug": "alt-kira-ve-devir",
+  "title": "Alt Kira ve Kira Devir Hakkı | Vatandaş Rehberi",
+  "description": "Alt kira serbest midir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
+  "h1": "Alt kira serbest midir?",
+  "keywords": [
+    "alt kira",
+    "kira devri"
+  ],
+  "category": "Kira",
+  "related": [
+    "kira-artis-orani-nasil-hesaplanir",
+    "kira-sozlesmesi-nasil-yapilir",
+    "kiraci-haklari-nelerdir",
+    "kiraci-nasil-tahliye-edilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kira-artis-orani-nasil-hesaplanir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=alt%20kira"
+    }
+  ],
+  "lead": "Ev sahibine sormadan evi başkasına kiraya vermek ya da kontratı devretmek büyük risk taşır. Konut ve çatılı işyerlerinde yazılı rıza şartı aranır.",
+  "keyInsight": "Konut ve çatılı işyerlerinde ev sahibinin yazılı onayı olmadan alt kira kurmak veya sözleşmeyi devretmek geçersizdir ve tahliye sebebidir.",
+  "sections": [
+    {
+      "heading": "Evi başkasına kiralamak neden risklidir?",
+      "paragraphs": [
+        "Evinizi tuttunuz ancak bir odasını ya da tamamını başka birine kiraya vermek istiyorsunuz. Ev sahibine zarar verecek bir değişiklik yaratmamak kural olsa da, konut ve çatılı işyerlerinde işler farklı yürür. **Yazılı rıza** almadan bu adımı atamazsınız.",
+        "Eğer alt kiracı evi yanlış biçimde kullanırsa, ev sahibi doğrudan size sorumluluk yükler. Ev sahibi, kiracısına karşı sahip olduğu tüm hakları alt kiracıya karşı da kullanma yetkisine sahiptir."
+      ],
+      "bullets": [
+        "Yazılı rıza şartı aranır",
+        "Ev sahibine zarar verilmemelidir"
+      ]
+    },
+    {
+      "heading": "Sözleşmeyi tamamen başkasına devredebilir misiniz?",
+      "paragraphs": [
+        "Kira ilişkisini bir başkasına devretmek istiyorsanız asıl sözleşmenin tarafları değişecektir. Kiracı, kiraya verenin **yazılı rızasını** almadıkça bu devri gerçekleştiremez.",
+        "İşyeri kiralarında durum biraz daha esnektir; haklı bir sebep bulunmadığı sürece ev sahibi bu rızayı vermekten kaçınamaz. Devir gerçekleştiğinde yeni kiracı sözleşmedeki yerini alır."
+      ],
+      "bullets": [
+        "Devir için yazılı onay şarttır",
+        "İşyerlerinde haklı sebep kuralı vardır"
+      ]
+    },
+    {
+      "heading": "Devirden sonra eski kiracının sorumluluğu biter mi?",
+      "paragraphs": [
+        "Kira ilişkisi usulüne uygun olarak devredildiğinde, devreden kişi borçlardan kurtulur. Ancak işyeri kiralarında durum konutlardan ayrılır.",
+        "İşyeri kiralarında devreden kiracı, sözleşme bitimine kadar ve en fazla **iki yıl süreyle** devralanla birlikte müteselsilen sorumlu kalmaya devam eder."
+      ],
+      "bullets": [
+        "Konutlarda eski kiracı borçtan kurtulur",
+        "İşyerlerinde iki yıllık takip süresi vardır"
+      ]
+    },
+    {
+      "heading": "Uyuşmazlık çıkarsa nereye başvurulur?",
+      "paragraphs": [
+        "Kira ilişkisinden doğan anlaşmazlıklarda mahkeme kapısını çalmadan önce süreç başlar. Kira uyuşmazlıklarında dava açılmadan önce **arabulucuya başvurulmuş olması** dava şartıdır.",
+        "Taraflar arabuluculuk masasında anlaşmaya varırsa, bu anlaşma belgesi mahkemeden alınacak icra edilebilirlik şerhiyle hüküm ifade eder."
+      ],
+      "bullets": [
+        "Dava öncesi arabulucu şarttır",
+        "Anlaşma belgesi icra edilebilir"
+      ]
+    }
+  ],
+  "steps": [
+    "Ev sahibinden yazılı rıza isteyin",
+    "Alt kira veya devir sözleşmesini hazırlayın",
+    "Uyuşmazlık durumunda arabulucuya başvurun",
+    "Gerekirse icra edilebilirlik şerhi alın"
+  ],
+  "documents": [
+    "Mevcut kira sözleşmesi",
+    "Yazılı rıza belgesi",
+    "Alt kira veya devir sözleşmesi",
+    "Arabuluculuk anlaşma belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Ev sahibine haber vermeden evi başkasına verebilir miyim?",
+      "a": "Konut ve çatılı işyerlerinde yazılı rıza olmadan alt kira kurmak veya devretmek mümkün değildir."
+    },
+    {
+      "q": "İşyerini devrettiğimde sorumluluğum hemen biter mi?",
+      "a": "İşyeri kiralarında devreden kiracı, sözleşme bitimine kadar ve en fazla iki yıl süreyle devralanla birlikte sorumlu kalır."
+    },
+    {
+      "q": "Kira uyuşmazlığında doğrudan dava açabilir miyim?",
+      "a": "Kira ilişkisinden kaynaklanan uyuşmazlıklarda dava açmadan önce arabulucuya başvurulması zorunludur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kira-artis-orani-nasil-hesaplanir",
+  "angle": "Alt kira / devir",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

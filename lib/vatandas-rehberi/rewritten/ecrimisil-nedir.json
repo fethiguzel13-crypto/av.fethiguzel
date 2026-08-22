@@ -1,0 +1,110 @@
+{
+  "slug": "ecrimisil-nedir",
+  "title": "Haksız işgal tazminatı nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Haksız işgal tazminatı nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
+  "h1": "Haksız işgal tazminatı nedir?",
+  "keywords": [
+    "ecrimisil nedir",
+    "haksız işgal tazminatı"
+  ],
+  "category": "Eşya",
+  "related": [
+    "kamulastirma-nedir",
+    "el-atmanin-onlenmesi",
+    "kira-tespit-davasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kamulastirma-nedir"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    }
+  ],
+  "lead": "Haksız işgal tazminatı, bir mülkün haklı bir sebep veya sözleşme olmaksızın başkası tarafından kullanılması durumunda istenen bedeldir. Asıl mesele, rızanız dışında mülkünüzde oturan kişiden bu kullanımın karşılığını talep edebilmenizdir.",
+  "keyInsight": "Ecrimisil talep edebilmek için karşı tarafın mülkü haksız ve rızasız kullandığını somut olarak ortaya koyabilmeniz şarttır.",
+  "sections": [
+    {
+      "heading": "Kapınızı açtığınızda karşılaştığınız tablo",
+      "paragraphs": [
+        "Yıllardır boş duran dairenize gittiniz ve kilidin değiştirildiğini gördünüz. İçinde tanımadığınız eşyalar duruyor ve kimse dışarı çıkmıyor. Bu **haksız işgal** durumunda ne yapacağınızı bilemeyerek telaşa kapılabilirsiniz.",
+        "Mülkünüzün rızanız hilafına kullanılması, size hukuki yollardan karşılık isteme hakkı verir. Buradaki en önemli husus, kullanımın hukuki bir mesnetten yoksun olmasıdır."
+      ],
+      "bullets": [
+        "Rızasız kullanım",
+        "Sözleşmesizlik hali"
+      ]
+    },
+    {
+      "heading": "Hangi durumlarda bu hak doğar?",
+      "paragraphs": [
+        "Elinizde geçerli bir kira sözleşmesi yoksa, süre bitmesine rağmen çıkmayan biri varsa veya miras kalan ortak mülkte diğerleri sizi tamamen dışladıysa bu tazminat gündeme gelir.",
+        "Ortak mülkiyette diğer hissedarların mülkten yararlanmanızı tamamen engellemesi de **haksız el atma** olarak değerlendirilir."
+      ],
+      "bullets": [
+        "Kira sözleşmesinin bitmesine rağmen tahliye etmeme",
+        "Ortak mülkte engellenme"
+      ]
+    },
+    {
+      "heading": "Süreci başlatırken nelere dikkat etmeli?",
+      "paragraphs": [
+        "Telaşla hareket edip kendi başınıza eşyaları dışarı atmak size haklı iken haksız duruma düşürebilir. Hukuki yollardan ilerlemek her zaman en güvenli yoldur.",
+        "Mülkün size ait olduğunu ve kullanım **muvafakatinizi** geri çektiğinizi karşı tarafa net bir şekilde bildirmeniz gerekir."
+      ],
+      "bullets": [
+        "Kendi başına hareket etmeme",
+        "İhtar mekanizmasını kullanma"
+      ]
+    },
+    {
+      "heading": "Yanınızda hangi belgeler durmalı?",
+      "paragraphs": [
+        "Hak arama yoluna giderken elinizdeki yazılı deliller işinizi kolaylaştırır. Tapu kaydı mülkiyetin kanıtı olarak en önemli belgedir.",
+        "Eğer daha önce çekilmiş bir ihtarname varsa bu da **delil** niteliği taşıyarak sürecin seyrini belirler."
+      ],
+      "bullets": [
+        "Tapu senedi",
+        "İhtarname kopyası"
+      ]
+    }
+  ],
+  "steps": [
+    "Mülkün size ait olduğunu gösteren tapu kaydını hazırlayın.",
+    "Karşı tarafın haksız kullanımını sonlandırması için ihtar çekin.",
+    "Kullanım bedelinin tespiti için gerekli hukuki adımları atın.",
+    "Uzlaşma sağlanamazsa yetkili mercilere başvurarak süreci başlatın."
+  ],
+  "documents": [
+    "Tapu belgesi",
+    "İhtarname sureti",
+    "Fotoğraf veya tespit tutanakları"
+  ],
+  "faq": [
+    {
+      "q": "Kira sözleşmesi bitti ama kiracı çıkmıyor, ecrimisil isteyebilir miyim?",
+      "a": "Sözleşme bittiği halde rızanız dışında oturmaya devam eden kişilerden bu talepte bulunabilirsiniz."
+    },
+    {
+      "q": "Hisseli tapularda bu tazminat nasıl uygulanır?",
+      "a": "Ortak mülkiyette diğer hissedar sizin kullanımınızı tamamen engelliyorsa bu yola başvurmanız mümkündür."
+    },
+    {
+      "q": "İhtar çekmeden doğrudan dava açabilir miyim?",
+      "a": "Genellikle kullanımın haksızlığının tespiti ve ihtar süreci hukuki ilerleyiş için önemlidir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kamulastirma-nedir",
+  "angle": "Ecrimisil",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

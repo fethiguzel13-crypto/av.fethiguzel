@@ -1,0 +1,114 @@
+{
+  "slug": "rapor-parasi-hesaplama",
+  "title": "Rapor parası — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Rapor parası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
+  "h1": "Rapor parası",
+  "keywords": [
+    "rapor parası",
+    "rapor parasi hesaplama"
+  ],
+  "category": "Sosyal Güvenlik",
+  "related": [
+    "bagkur-prim-borcu",
+    "is-kazasi-tazminati",
+    "sgk-hizmet-dokumu",
+    "malulen-emeklilik"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/bagkur-prim-borcu"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=i%C5%9F%20g%C3%B6remezlik"
+    }
+  ],
+  "lead": "Hastalık, iş kazası veya analık nedeniyle çalışamadığınız günlerde geçici iş göremezlik ödeneği alabilirsiniz. Asıl mesele, yetkili hekimden rapor almak ve prim şartlarını sağlamaktır.",
+  "keyInsight": "Hastalık durumunda ödeneğin **üçüncü günden** başlaması ve önceki bir yıl içinde en az doksan gün prim bildirilmiş olması şarttır.",
+  "sections": [
+    {
+      "heading": "Hangi durumlarda ödenek verilir?",
+      "paragraphs": [
+        "Evde dinlenirken ya da hastanede tedavi görürken maaşınızın kesileceği endişesini yaşayabilirsiniz. Kurumca yetkilendirilen hekim veya sağlık kurullarından istirahat raporu almış olmanız bu sürecin ilk adımıdır.",
+        "İş kazası, meslek hastalığı, hastalık veya analık hallerinde çalışmadığınız her gün için adınıza geçici iş göremezlik ödeneği hesaplanır. **Yetkili hekim** onayı olmadan alınan raporlar bu ödemeyi sağlamaz."
+      ],
+      "bullets": [
+        "İş kazası veya meslek hastalığı halleri",
+        "Hastalık sebebiyle iş göremezliğe uğrama",
+        "Sigortalı kadının analığı ve doğum halleri"
+      ]
+    },
+    {
+      "heading": "Hastalık ve analık için aranan prim şartı nedir?",
+      "paragraphs": [
+        "Rahatsızlandınız ve işe gidemiyorsunuz. Sadece rapor almak yetmez; arkasındaki sigorta geçmişinizin de kurallara uygun olması gerekir.",
+        "Hastalık sebebiyle iş göremezliğe uğramanız halinde, iş göremezliğin başladığı tarihten önceki bir yıl içinde en az **doksan gün** kısa vadeli sigorta primi bildirilmiş olması şarttır. Analık halinde de doğumdan önceki bir yıl içinde aynı prim gün sayısı aranır."
+      ],
+      "bullets": [
+        "İş göremezlik öncesi bir yıllık süre",
+        "En az doksan gün kısa vadeli sigorta primi"
+      ]
+    },
+    {
+      "heading": "Ödeme hangi günden başlar?",
+      "paragraphs": [
+        "Doktor raporunu cebinize koyup ev istirahatine çekildiniz. Paranın ne zaman yatacağı ise rahatsızlığınızın türüne göre değişir.",
+        "İş kazası veya meslek hastalığında her gün için ödenek verilirken, normal hastalık hallerinde geçici iş göremezliğin **üçüncü gününden** başlamak üzere ödeme yapılır."
+      ],
+      "bullets": [
+        "İş kazasında ilk günden itibaren ödeme",
+        "Hastalıkta üçüncü günden başlayan ödeme"
+      ]
+    },
+    {
+      "heading": "Analık izni ve rapor süreleri nasıl hesaplanır?",
+      "paragraphs": [
+        "Bebeğinizi kucağınıza almaya hazırlanırken çalışma süreleriniz ve rapor dönemleriniz kanunla güvence altına alınmıştır. Sigortalı kadın için doğumdan önceki ve sonraki belirli haftalarda çalışmadığı her gün dikkate alınır.",
+        "Çoğul gebelik halinde doğumdan önceki süreye ekleme yapılır. Erken doğum veya hekim onayıyla çalışılan durumlarda kullanılmayan süreler doğum sonrası istirahat süresine eklenir."
+      ],
+      "bullets": [
+        "Doğum öncesi ve sonrası haftalık süreler",
+        "Çoğul gebelikte ek süre imkanı"
+      ]
+    }
+  ],
+  "steps": [
+    "Kurumca yetkilendirilen hekim veya sağlık kurulundan istirahat raporu alın.",
+    "İş göremezliğin başladığı tarihten önceki bir yıllık sürede prim günlerinizi kontrol edin.",
+    "İş kazası veya meslek hastalığı durumunu ilgili sürede ve usulüne uygun bildirin.",
+    "Yatarak veya ayakta tedavi sürecinin tamamlanmasını bekleyin.",
+    "Kurumun ödeme süreçlerini takip edin."
+  ],
+  "documents": [
+    "İstirahat raporu",
+    "Tıbbi belgeler",
+    "İş kazası ve meslek hastalığı bildirgesi",
+    "Prim belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "Rapor parası almak için kaç gün prim gerekiyor?",
+      "a": "Hastalık veya analık hallerinde, iş göremezliğin başladığı tarihten önceki bir yıl içinde en az doksan gün kısa vadeli sigorta primi bildirilmiş olması şarttır."
+    },
+    {
+      "q": "Hastalık raporunda ödeme hangi günden başlar?",
+      "a": "Hastalık sebebiyle iş göremezliğe uğranması halinde geçici iş göremezlik ödeneği üçüncü günden başlamak üzere her gün için ödenir."
+    },
+    {
+      "q": "Her doktor raporu ödeme sağlar mı?",
+      "a": "Hayır, ödeneğin verilebilmesi için raporun Kurumca yetkilendirilen hekim veya sağlık kurullarından alınmış olması şarttır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "bagkur-prim-borcu",
+  "angle": "Rapor parası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

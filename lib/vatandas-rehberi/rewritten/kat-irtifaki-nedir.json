@@ -1,0 +1,113 @@
+{
+  "slug": "kat-irtifaki-nedir",
+  "title": "Kat irtifakı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Kat irtifakı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
+  "h1": "Kat irtifakı",
+  "keywords": [
+    "kat irtifakı",
+    "kat irtifaki nedir"
+  ],
+  "category": "Eşya",
+  "related": [
+    "kat-mulkiyeti-aidat",
+    "iskan-belgesi-nedir",
+    "tapu-devri-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kat-mulkiyeti-aidat"
+    },
+    {
+      "label": "Kat mülkiyeti",
+      "href": "/kategori/katmulkiyeti"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    }
+  ],
+  "lead": "Henüz inşaatı bitmemiş ya da başlamamış bir binada, gelecekteki dairenizin tapudaki yerini şimdiden güvenceye almak istiyorsunuz. Kat irtifakı, henüz kağıt üzerinde olan veya yapımı süren bağımsız bölümler üzerinde hak sahibi olmanızı sağlar.",
+  "keyInsight": "Kat irtifakı kurmadan bağımsız bölümler üzerinde tek başına mülkiyet iddiasında bulunamazsınız; süreç mutlaka resmî senetle ve tapu siciline tescille başlar.",
+  "sections": [
+    {
+      "heading": "Kat irtifakı tam olarak nedir?",
+      "paragraphs": [
+        "Arsa üzerindeki bina henüz tamamlanmamıştır ya da yapılmaktadır. Bu yapının ileride tamamlandığında bağımsız bölüme dönüşecek kısımları için **kat irtifakı** kurulur.",
+        "Arsa malikleri veya ortak malikleri, ileride geçilecek kat mülkiyetine esas olmak üzere bu adımı atar. Böylece inşaat sürecinde herkesin hakkı şimdiden ayrılmış olur."
+      ],
+      "bullets": [
+        "Yapılmakta veya ileride yapılacak yapılar için geçerlidir.",
+        "Arsa malikleri tarafından kurulur."
+      ]
+    },
+    {
+      "heading": "Nasıl resmiyet kazanır?",
+      "paragraphs": [
+        "Tapu sicilinde hak sahibi olmak için resmi yolları izlemek şarttır. Kat mülkiyeti ve kat irtifakı **resmî senetle** ve tapu siciline tescil ile doğar.",
+        "Tescil işlemleri yapılmadığı sürece kağıt üzerindeki paylaşımların tapuda hukuki bir karşılığı bulunmaz."
+      ],
+      "bullets": [
+        "Tapu siciline tescil zorunludur.",
+        "Resmî senet düzenlenmesi gerekir."
+      ]
+    },
+    {
+      "heading": "Proje ve sözleşmelerin yeri nedir?",
+      "paragraphs": [
+        "Hak sahiplerine düşen bağımsız bölümler önceden belirlenmelidir. Arsa maliki ile yüklenici arasında yapılan sözleşmeler bu aşamada devreye girer.",
+        "Noterlik sözleşmeleri veya kat karşılığı inşaat anlaşmaları üzerinden **ilgili idare** tarafından tescil talebi işleme alınabilir."
+      ],
+      "bullets": [
+        "Elektronik ortamda onaylı mimari proje kullanılır.",
+        "Yönetim planı hazırlanır."
+      ]
+    },
+    {
+      "heading": "İnşaat bitince ne değişir?",
+      "paragraphs": [
+        "Yapı tamamen bittiğinde ve kullanılmaya elverişli hale geldiğinde aşama değişir. Yapı kullanma izin belgesi alındıktan sonra cins değişikliği işlemleri gündeme gelir.",
+        "İlgili idare belgeleri elektronik ortamda ilgili müdürlüklere gönderir ve süreç tamamlanır."
+      ],
+      "bullets": [
+        "Yapı kullanma izin belgesi alınır.",
+        "Cins değişikliği işlemleri yapılır."
+      ]
+    }
+  ],
+  "steps": [
+    "Arsa malikleri veya yetkili yüklenici ile bir araya gelerek bağımsız bölümleri paylaşın.",
+    "Noter onaylı sözleşmeler veya kat karşılığı inşaat anlaşmalarını hazırlayın.",
+    "Elektronik ortamda düzenlenen onaylı mimari projeyi ve yönetim planını hazırlayın.",
+    "Tapu Sicil Müdürlüğüne başvurarak resmî senet düzenlenmesini sağlayın.",
+    "Tapu siciline tescil işleminin tamamlanmasını bekleyin."
+  ],
+  "documents": [
+    "Resmî senet",
+    "Noterlik sözleşmesi",
+    "Elektronik ortamda düzenlenen onaylı mimari proje",
+    "Yönetim planı",
+    "Yapı kullanma izin belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Kat irtifakı hangi binalar için kurulur?",
+      "a": "Henüz tamamlanmamış ya da yapım aşamasında olan, ileride bağımsız bölüme dönüşecek binalar için kurulur."
+    },
+    {
+      "q": "Kat irtifakı tek başına mülkiyet sağlar mı?",
+      "a": "Hayır, kat irtifakı ileride geçilecek kat mülkiyetine esas teşkil eden bir irtifak hakkıdır."
+    },
+    {
+      "q": "Tescil işlemi nerede yapılır?",
+      "a": "İşlemler Tapu Sicil Müdürlüğünde ve Tapu Sicil Tüzüğüne uygun olarak tutulan defterlerde gerçekleştirilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kat-mulkiyeti-aidat",
+  "angle": "Kat irtifakı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

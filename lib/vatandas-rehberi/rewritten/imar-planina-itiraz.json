@@ -1,0 +1,113 @@
+{
+  "slug": "imar-planina-itiraz",
+  "title": "İmar planına itiraz — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İmar planına itiraz hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
+  "h1": "İmar planına itiraz",
+  "keywords": [
+    "imar planına itiraz",
+    "imar planina itiraz"
+  ],
+  "category": "İmar",
+  "related": [
+    "kentsel-donusum-nedir",
+    "imar-durumu-nedir",
+    "idari-dava-nasil-acilir",
+    "kacak-yapi-cezasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kentsel-donusum-nedir"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    },
+    {
+      "label": "Belediye",
+      "href": "/kategori/belediye"
+    }
+  ],
+  "lead": "Belediyenizde yeni bir imar planı askıya çıktı ve mülkünüz olumsuz etkilendi. Plan değişikliğine karşı **askı süresi** içinde resmi makamlara başvurarak itiraz edebilirsiniz.",
+  "keyInsight": "Planların askı ilan yerlerinde ve internet sayfalarında duyurulduğu **bir aylık süre** kaçırılırsa, itiraz hakkı düşer.",
+  "sections": [
+    {
+      "heading": "İmar planı nerede ve nasıl duyurulur?",
+      "paragraphs": [
+        "Belediye sınırları içindeki alanlar için hazırlanan nazım ve uygulama imar planları belediye meclisince onaylanarak yürürlüğe girer. Onaylanan planlar, belediye başkanlığınca tespit edilen ilan yerlerinde ve ilgili idarelerin internet sayfalarında eş zamanlı olarak halka duyurulur.",
+        "Ayrıca bu planların nerede askıya çıktığına dair bilgilendirme ilanı, askı süresi ile eş zamanlı olarak ilgili muhtarlıkların panosunda asılarak vatandaşlara haber verilir."
+      ],
+      "bullets": [
+        "Belediye ilan yerleri",
+        "İlgili idarelerin internet sayfaları",
+        "İlgili muhtarlık panoları"
+      ]
+    },
+    {
+      "heading": "İtiraz süresi ne zaman başlar?",
+      "paragraphs": [
+        "Planlar onay tarihinden itibaren belediye başkanlığınca belirlenen yerlerde **bir ay süreyle** askıya çıkarılır. Asıl süreç bu askı ilanıyla başlar.",
+        "Belediye ve mücavir alan dışında kalan yerlerde ise planlar valilikçe veya ilgilisince yapılır, valilik uygun gördüğünde onaylanır ve yine valilikçe belirlenen yerlerde bir ay süreyle ilan edilir."
+      ],
+      "bullets": [
+        "Belediye alanlarında belediye ilan yeri",
+        "Belediye dışı alanlarda valilik ilan yeri"
+      ]
+    },
+    {
+      "heading": "İtiraz nereye ve nasıl yapılır?",
+      "paragraphs": [
+        "Belediye sınırları içindeki imar planı değişikliklerine karşı, bir aylık askı süresi içinde belediyeye itiraz dilekçesi verilir. Belediye başkanlığı, gelen itirazları ve ilgili planları belediye meclisine gönderir.",
+        "Valilik sorumluluğundaki alanlarda ise itirazlar doğrudan valiliğe yapılır. İdareler kendisine gelen dosyayı inceleyerek süreci yürütür."
+      ],
+      "bullets": [
+        "Belediye planları için belediye başkanlığına başvuru",
+        "Valilik planları için valiliğe başvuru"
+      ]
+    },
+    {
+      "heading": "İtiraz hakkında ne zaman karar verilir?",
+      "paragraphs": [
+        "Belediye başkanlığınca belediye meclisine aktarılan itirazlar ve planlar, meclis tarafından **on beş gün içinde** incelenerek kesin karara bağlanır.",
+        "Valiliğe yapılan itirazlarda da aynı şekilde valilik dosyayı ve itirazları on beş gün içerisinde inceleyip son kararı verir."
+      ],
+      "bullets": [
+        "Belediye meclisinin on beş günlük inceleme süresi",
+        "Valiliğin on beş günlük inceleme süresi"
+      ]
+    }
+  ],
+  "steps": [
+    "İmar planının belediye ilan yerinde veya internet sayfasında askıya çıkıp çıkmadığını takip edin.",
+    "Muhtarlık panolarındaki bilgilendirme ilanlarını kontrol edin.",
+    "Bir aylık askı süresi bitmeden itiraz dilekçenizi hazırlayın.",
+    "Belediye sınırındaki planlar için belediyeye, valilik alanındaki planlar için valiliğe başvurun.",
+    "İdare tarafından verilecek kesin kararı bekleyin."
+  ],
+  "documents": [
+    "İmar planı askı ilanı bilgisi",
+    "İtiraz dilekçesi",
+    "Tapu kayıt belgesi"
+  ],
+  "faq": [
+    {
+      "q": "İmar planına itiraz süresi ne kadardır?",
+      "a": "Planların askıya çıkarıldığı tarihten itibaren bir aylık süre içinde itiraz edilebilir."
+    },
+    {
+      "q": "Belediye meclisi itirazımı ne kadar sürede karara bağlar?",
+      "a": "Belediye başkanlığınca meclise gönderilen itirazlar ve planlar on beş gün içinde incelenerek kesin karara bağlanır."
+    },
+    {
+      "q": "Valilik onaylı planlarda itirazlar kime yapılır?",
+      "a": "Belediye ve mücavir alan dışında kalan yerlerde itirazlar valiliğe yapılır ve valilik tarafından on beş gün içinde incelenir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kentsel-donusum-nedir",
+  "angle": "İmar planına itiraz",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

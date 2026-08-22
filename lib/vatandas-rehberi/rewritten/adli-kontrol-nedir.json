@@ -1,0 +1,118 @@
+{
+  "slug": "adli-kontrol-nedir",
+  "title": "Adli kontrol — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Adli kontrol hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
+  "h1": "Adli kontrol",
+  "keywords": [
+    "adli kontrol",
+    "adli kontrol nedir"
+  ],
+  "category": "Ceza",
+  "related": [
+    "tutuklama-nedir",
+    "ceza-sorusturmasi-sureci",
+    "gozalti-haklari"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tutuklama-nedir"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=adli%20kontrol"
+    }
+  ],
+  "lead": "Adli kontrol, şüpheli veya sanığın cezaevine konulmak yerine belirli yükümlülüklerle serbest kalmasını sağlayan bir koruma tedbiridir. Bu süreçte dosyanızın durumu belirli aralıklarla incelenir ve kurallara uymanız beklenir.",
+  "keyInsight": "Adli kontrol kararı verilirken tutuklama nedenlerinin varlığı ve bu tedbirin neden yetersiz kalacağı somut olgularla gerekçelendirilmelidir.",
+  "sections": [
+    {
+      "heading": "Hangi aşamalarda karar verilir?",
+      "paragraphs": [
+        "Soruşturma evresinde Cumhuriyet savcısının istemi üzerine sulh ceza hâkimi tarafından adli kontrol kararı alınabilir. Kovuşturma evresinde ise görevli ve yetkili diğer yargı mercileri bu kararı uygulayabilir.",
+        "Hâkim, Cumhuriyet savcısının istemiyle adli kontrol kapsamındaki yükümlülükleri değiştirebilir, tamamen kaldırabilir veya şüpheliyi bazı kurallardan geçici olarak muaf tutabilir."
+      ],
+      "bullets": [
+        "Soruşturma evresinde savcı istemi ve hâkim kararı",
+        "Kovuşturma evresinde yargı mercilerinin yetkisi",
+        "Yükümlülüklerin değiştirilmesi veya kaldırılması"
+      ]
+    },
+    {
+      "heading": "Yükümlülüklerin durumu nasıl incelenir?",
+      "paragraphs": [
+        "Şüpheli veya sanığın adli kontrol yükümlülüğünün devam edip etmeyeceği belirli aralıklarla masaya yatırılır. Bu değerlendirme düzenli periyotlarla tekrarlanır.",
+        "Soruşturma evresinde Cumhuriyet savcısının istemi üzerine sulh ceza hâkimi karar verirken, kovuşturma evresinde mahkeme bu incelemeyi resen gerçekleştirir."
+      ],
+      "bullets": [
+        "En geç dört aylık aralıklarla gözden geçirme",
+        "Soruşturmada savcı istemiyle sulh ceza hâkimi kararı",
+        "Kovuşturmada mahkemenin resen incelemesi"
+      ]
+    },
+    {
+      "heading": "Süreler nasıl belirlenir?",
+      "paragraphs": [
+        "Ağır ceza mahkemesinin görevine girmeyen işlerde adli kontrol süresi kanunla sınırlandırılmıştır ve zorunlu hâllerde uzatılabilir. Çocuklar bakımından bu süreler farklı oranlarda uygulanır.",
+        "Ağır ceza mahkemesinin görevine giren işlerde ise süre koşulları suçun niteliğine göre değişiklik gösterir ve kanuni üst sınırları aşamaz."
+      ],
+      "bullets": [
+        "Ağır ceza mahkemesinin görevine girmeyen işlerde temel süre",
+        "Ağır ceza mahkemesinin görevine giren işlerde özel süreler",
+        "Çocuklar bakımından uygulanan indirimli oranlar"
+      ]
+    },
+    {
+      "heading": "Karara karşı ne yapılabilir?",
+      "paragraphs": [
+        "Hakkınızda verilen adli kontrol kararlarına karşı kanun yoluna başvurma hakkınız bulunur. Verilen kararın içeriği size sözlü olarak bildirilir ve yazılı örneği verilir.",
+        "Karar verilirken kuvvetli suç şüphesi ve ölçülülük gibi unsurların somut olgularla gerekçelendirilmiş olması gerekir."
+      ],
+      "bullets": [
+        "Karara karşı itiraz hakkı",
+        "Karar içeriğinin sözlü ve yazılı bildirilmesi",
+        "Somut olgularla gerekçelendirme zorunluluğu"
+      ]
+    }
+  ],
+  "steps": [
+    "Adli kontrol kararının içeriğini ve size yüklenen yükümlülükleri dikkatlice dinleyin.",
+    "Karar tutanağının yazılı örneğini yetkililerden isteyip saklayın.",
+    "Yükümlülüklerin gözden geçirilmesi için öngörülen dönemsel süreçleri takip edin.",
+    "Değişiklik veya kaldırma talepleriniz için avukatınızla birlikte ilgili mercilere başvurun."
+  ],
+  "documents": [
+    "Adli kontrol kararı tutanağı",
+    "Mahkeme veya sulh ceza hâkimliği kararı",
+    "Bildirim ve tebliğ evrakı"
+  ],
+  "faq": [
+    {
+      "q": "Adli kontrol kararını hangi makam verir?",
+      "a": "Soruşturma evresinde Cumhuriyet savcısının istemi üzerine sulh ceza hâkimi, kovuşturma evresinde ise mahkeme karar verir."
+    },
+    {
+      "q": "Yükümlülükler zamanla değiştirilebilir mi?",
+      "a": "Evet, hâkim Cumhuriyet savcısının istemiyle yükümlülükleri değiştirebilir, kaldırabilir veya geçici muafiyet tanıyabilir."
+    },
+    {
+      "q": "Adli kontrol şartları ne sıklıkla incelenir?",
+      "a": "Yükümlülüklerin devam edip etmeyeceği en geç dört aylık aralıklarla yeniden değerlendirilir."
+    },
+    {
+      "q": "Verilen karara karşı nereye başvurulabilir?",
+      "a": "İlgili kanun maddeleri gereğince adli kontrol kararlarına karşı itiraz yolu açıktır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tutuklama-nedir",
+  "angle": "Adli kontrol",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

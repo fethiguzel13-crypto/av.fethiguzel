@@ -1,0 +1,108 @@
+{
+  "slug": "yapı-ruhsati-nedir",
+  "title": "Yapı ruhsatı nasıl alınır — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Yapı ruhsatı nasıl alınır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
+  "h1": "Yapı ruhsatı nasıl alınır?",
+  "keywords": [
+    "yapı ruhsatı",
+    "inşaat ruhsatı"
+  ],
+  "category": "İmar",
+  "related": [
+    "iskan-belgesi-nedir",
+    "imar-durumu-nedir",
+    "kacak-yapi-cezasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/iskan-belgesi-nedir"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    },
+    {
+      "label": "Belediye",
+      "href": "/kategori/belediye"
+    }
+  ],
+  "lead": "Arsam var, inşaata başlayacağım diyorsunuz. Asıl soru, projelerin ve fenni mesuliyetin eksiksiz hazırlanıp ilgili idareye sunulmasıdır.",
+  "keyInsight": "Uzmanlık alanına uygun meslek mensuplarının projeleri hazırlaması ve fenni mesuliyet üstlenilmesi zorunludur.",
+  "sections": [
+    {
+      "heading": "Planlar ve parseller nasıl düzenlenir?",
+      "paragraphs": [
+        "Belediyeler veya valilikler, imar hududu içindeki arsa ve arazileri birleştirmeye ve planlara uygun parsellere ayırmaya yetkilidir. Bu dağıtım sırasında umumi hizmet alanları için düzenleme ortaklık payı kesintisi yapılabilir."
+      ],
+      "bullets": [
+        "Parselasyon planı hazırlığı",
+        "Düzenleme ortaklık payı kesintisi"
+      ]
+    },
+    {
+      "heading": "Projeleri kimler hazırlar?",
+      "paragraphs": [
+        "Mimarlık, mühendislik ve planlama hizmetine ilişkin harita, plan, etüt ve projelerin uzman meslek mensuplarına yaptırılması mecburidir. Müellifler işlerini mevzuata uygun gerçekleştirmekle sorumludur."
+      ],
+      "bullets": [
+        "Uzman meslek mensubu zorunluluğu",
+        "Müellif sorumluluğu"
+      ]
+    },
+    {
+      "heading": "Fenni mesulün görevi nedir?",
+      "paragraphs": [
+        "Yapıda inşaat, tesisat ve malzeme denetimini fenni mesuller üstlenir. Fenni mesulün istifası veya ölümü halinde başka bir meslek mensubu sorumluluğu üstlenmedikçe **yapının devamına izin verilmez**."
+      ],
+      "bullets": [
+        "Ayrı ayrı fenni mesuliyet",
+        "İstifa durumunda durdurma"
+      ]
+    },
+    {
+      "heading": "Kamu ve özel yapılar nasıl ruhsatlandırılır?",
+      "paragraphs": [
+        "Kamu kurumlarınca yapılacak yapılarda mülkiyetin belgelenmesi ve fenni mesuliyetin üstlenilmesi kaydıyla avan projeye göre ruhsat verilir. Kat mülkiyeti ve kat irtifakı ise resmi senetle ve **tapu siciline tescil ile doğar**."
+      ],
+      "bullets": [
+        "Kamu yapılarında avan proje",
+        "Tapu siciline tescil"
+      ]
+    }
+  ],
+  "steps": [
+    "İmar planına uygun arsa ve parselasyon işlemlerini tamamlayın.",
+    "Mimari, statik ve tesisat projelerini uzman müelliflere hazırlatın.",
+    "Fenni mesuliyet ve şantiye şefliği görevlendirmelerini yapın.",
+    "İlgili idareye başvurarak ruhsat süreçlerini başlatın."
+  ],
+  "documents": [
+    "Tapu belgesi",
+    "Mimari proje",
+    "Statik proje",
+    "Tesisat projesi",
+    "Etüt raporları"
+  ],
+  "faq": [
+    {
+      "q": "Düzenleme ortaklık payı oranı nedir?",
+      "a": "Düzenlemeden önceki yüzölçümlerinin yüzde kırk beşini geçemez."
+    },
+    {
+      "q": "Fenni mesul istifa ederse ne olur?",
+      "a": "Başka bir meslek mensubu fenni mesuliyeti üstlenmedikçe **yapının devamına izin verilmez**."
+    },
+    {
+      "q": "Kat mülkiyeti nasıl kurulur?",
+      "a": "Kat mülkiyeti ve kat irtifakı resmi senetle ve **tapu siciline tescil ile doğar**."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "iskan-belgesi-nedir",
+  "angle": "Ruhsat",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

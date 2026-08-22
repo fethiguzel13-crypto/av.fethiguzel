@@ -1,0 +1,99 @@
+{
+  "slug": "yurt-disi-borclanma",
+  "title": "Yurt Dışı Hizmet Borçlanması | Vatandaş Rehberi",
+  "description": "Yurt dışı borçlanması nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
+  "h1": "Yurt dışı borçlanması nasıl yapılır?",
+  "keywords": [
+    "yurt dışı borçlanma"
+  ],
+  "category": "Sosyal Güvenlik",
+  "related": [
+    "emeklilik-sartlari",
+    "askeri-hizmet-borclanma",
+    "dogum-borclanmasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/emeklilik-sartlari"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=bor%C3%A7lanma"
+    }
+  ],
+  "lead": "Yurt dışında geçen çalışma sürelerinizi Türkiye'deki emeklilik hesabınıza dahil etmek için borçlanma yöntemini kullanabilirsiniz. Bu işlem, sigortalılık sürenizi ve prim gün sayınızı artırmanızı sağlar.",
+  "keyInsight": "Borçlanma yapabilmek için yurt dışındaki sürelerin belgelenmesi ve bu sürelerde sigortalı olmaksızın bulunulması veya çalışılmış olması temel şarttır.",
+  "sections": [
+    {
+      "heading": "Kimler borçlanma yapabilir?",
+      "paragraphs": [
+        "Yurt dışında geçen çalışma süreleriniz, emeklilik planlarınız için bir değer taşıyabilir. Türk vatandaşı olarak yurt dışında geçirdiğiniz süreleri, ilgili kuruma başvurarak Türkiye'deki emeklilik sistemine dahil edebilirsiniz.",
+        "Özellikle çalışma süreleri veya ev hanımlığı gibi statülerde geçen zamanlar, belirli şartlar altında borçlanma kapsamına alınır. Önemli olan, bu sürelerin Türkiye'deki sigorta başlangıcınızdan önce veya sonra olması fark etmeksizin belgelenebilir olmasıdır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Başvuru süreci nasıl işler?",
+      "paragraphs": [
+        "İşlemleriniz için öncelikle bulunduğunuz ülkedeki çalışma ve ikamet durumunuzu gösteren belgeleri hazırlamalısınız. Kurum, başvurunuzu incelerken bu belgelerin doğruluğunu ve sürelerin uygunluğunu kontrol eder.",
+        "Başvurunuz onaylandığında, borçlanacağınız süreye karşılık gelen prim tutarını ödemeniz istenir. Bu ödeme, emeklilik yaşınızı veya prim gününüzü doğrudan etkileyen bir yatırımdır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hangi süreler dahil edilebilir?",
+      "paragraphs": [
+        "Yurt dışındaki çalışma süreleriniz, işsizlik dönemleriniz veya ev hanımlığı süreleriniz borçlanmaya konu olabilir. Ancak her dönemin kendi içinde değerlendirildiğini unutmamalısınız.",
+        "Özellikle **18 yaşını doldurduktan sonra** geçen sürelerin borçlandırılması esastır. Bu yaştan önceki süreler, kural olarak emeklilik hesabına dahil edilemez."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Ödeme aşamasında dikkat edilmesi gerekenler",
+      "paragraphs": [
+        "Borçlanma tutarı, başvuru yaptığınız tarihteki prime esas kazanç sınırları üzerinden hesaplanır. Ödemeyi yaparken **belirlenen yasal süre içerisinde** işleminizi tamamlamanız gerekir.",
+        "Ödemenin eksik veya geç yapılması, başvurunuzun geçersiz sayılmasına neden olabilir. Bu nedenle tebligat mektubunu dikkatle takip etmelisiniz."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Yurt dışındaki çalışma veya ikamet sürelerinizi gösteren belgeleri temin edin.",
+    "Sosyal Güvenlik Kurumu'na hitaben yazılmış başvuru dilekçesini doldurun.",
+    "Belgelerinizle birlikte ilgili kuruma başvurunuzu iletin.",
+    "Kurumdan gelecek olan borç tebligatını bekleyin.",
+    "Tebliğ edilen tutarı, verilen süre içerisinde banka aracılığıyla ödeyin."
+  ],
+  "documents": [
+    "Yurt dışı hizmet cetveli",
+    "İkamet belgesi",
+    "Pasaport fotokopisi",
+    "Başvuru dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Borçlanma emekli maaşımı artırır mı?",
+      "a": "Borçlanma, prim gün sayınızı artırarak emekliliğe hak kazanmanızı kolaylaştırır; ancak maaş miktarı prime esas kazanç tutarınıza göre değişir."
+    },
+    {
+      "q": "Herkes yurt dışı borçlanması yapabilir mi?",
+      "a": "Türk vatandaşı olan ve yurt dışında belirli süreler geçirmiş kişiler, gerekli belgeleri sunmak koşuluyla bu haktan faydalanabilir."
+    },
+    {
+      "q": "Ödemeyi taksitle yapabilir miyim?",
+      "a": "Borçlanma tutarının tek seferde ödenmesi esastır, kurum tarafından aksi belirtilmedikçe taksitlendirme seçeneği bulunmamaktadır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "emeklilik-sartlari",
+  "angle": "Yurt dışı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

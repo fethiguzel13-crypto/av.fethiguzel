@@ -1,0 +1,111 @@
+{
+  "slug": "odunc-sozlesmesi",
+  "title": "Ödünç sözleşmesi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Ödünç sözleşmesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
+  "h1": "Ödünç sözleşmesi",
+  "keywords": [
+    "ödünç sözleşmesi",
+    "odunc sozlesmesi"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "temerrut-faizi-nedir",
+    "senet-nasil-yazilir",
+    "icra-takibi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/temerrut-faizi-nedir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Komşunuza arabanızı veya atölyenize bir makineyi bedelsiz bırakıyorsanız, bu hukuken kullanım ödüncüdür. **Karşılıksız kullanım** esastır ve malın işi bitince geri verilmesi gerekir.",
+  "keyInsight": "Kullanım ödüncü sözleşmesi, ödünç alanın ölmesiyle kendiliğinden sona erer.",
+  "sections": [
+    {
+      "heading": "Kullanım ödüncü nedir?",
+      "paragraphs": [
+        "Bir eşyayı herhangi bir ücret almaksızın geçici olarak birine bıraktığınızda kullanım ödüncü ilişkisi kurmuş olursunuz. Ödünç alan kişi o malı kullanır ve işi bittiğinde aynen iade etmekle yükümlüdür.",
+        "Bu sözleşmenin temelinde **karşılıksızlık** yatar. Eğer karşı taraf bu kullanım için size bir bedel öderse, hukuki ilişki başka bir sözleşme türüne dönüşebilir."
+      ],
+      "bullets": [
+        "Bedelsiz kullanım",
+        "Geri verme borcu"
+      ]
+    },
+    {
+      "heading": "Ödünç alan kişi hayatını kaybederse ne olur?",
+      "paragraphs": [
+        "Eşyayı kullanan kişinin vefat etmesi durumunda süreçte önemli bir değişiklik yaşanır. Kanun gereği bu sözleşme **kendiliğinden sona erer**.",
+        "Bu durumda mirasçıların eşyayı otomatik olarak kullanmaya devam etme hakkı yoktur. Malın hak sahibine iade edilmesi gerekir."
+      ],
+      "bullets": [
+        "Ölümle sona erme",
+        "Mirasçılara geçmeme"
+      ]
+    },
+    {
+      "heading": "Taksitli işlemlerle bağlantı kurulursa ne geçerlidir?",
+      "paragraphs": [
+        "Ödünç verme işlemi aynı ekonomik amaçla ve taksitli satış hükümleriyle ilişkilendirilebilir. Bu durumda sözleşmede yer alması gereken **özel unsurlar** ve ödeme miktarları net şekilde gösterilmelidir.",
+        "Eğer alıcı tacir sıfatıyla hareket ediyor veya işlem mesleki amaçla yapılıyorsa, kanundaki belirli koruyucu hükümler devreye girer."
+      ],
+      "bullets": [
+        "Taksitli işlemler",
+        "Tacir istisnaları"
+      ]
+    },
+    {
+      "heading": "İade zamanı geldiğinde ne yapılmalıdır?",
+      "paragraphs": [
+        "Sözleşmenin süresi dolduğunda veya kararlaştırılan kullanım amacı gerçekleştiğinde eşya sahibine teslim edilmelidir. Karşı taraf malı elinde tutmaya devam ederse hukuki ihtilaf doğabilir.",
+        "Uyuşmazlık durumunda mahkemeler nezdinde hak arama yolları işletilebilir ve **taşınır iadesi** talep edilebilir."
+      ],
+      "bullets": [
+        "Amaç bitimi",
+        "Aynen iade"
+      ]
+    }
+  ],
+  "steps": [
+    "Ödünç verilecek eşyayı ve kullanım şartlarını netleştirin",
+    "Sözleşmenin bedelsiz olduğunu taraflar arasında konuşun",
+    "İş bittiğinde eşyanın iade edileceği zamanı belirleyin",
+    "Ölüm gibi durumlarda malın geri alınacağını unutmayın",
+    "Uyuşmazlık çıkarsa hukuki yollara başvurun"
+  ],
+  "documents": [
+    "Eşyanın mülkiyetini gösteren belge",
+    "Devir veya teslim tutanağı",
+    "Yazılı anlaşma metni"
+  ],
+  "faq": [
+    {
+      "q": "Kullanım ödüncünde ücret alınabilir mi?",
+      "a": "Hayır, bu sözleşmenin temel şartı karşılıksız olmasıdır."
+    },
+    {
+      "q": "Ödünç alan kişi ölürse sözleşme devam eder mi?",
+      "a": "Hayır, kullanım ödüncü sözleşmesi ödünç alanın ölmesiyle kendiliğinden sona erer."
+    },
+    {
+      "q": "Eşya geri verilmezse ne yapılabilir?",
+      "a": "Malın aynen iadesi için yasal yollara başvurulabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "temerrut-faizi-nedir",
+  "angle": "Ödünç sözleşmesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

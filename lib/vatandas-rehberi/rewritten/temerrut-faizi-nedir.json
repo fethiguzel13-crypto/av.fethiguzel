@@ -1,0 +1,119 @@
+{
+  "slug": "temerrut-faizi-nedir",
+  "title": "Temerrüt faizi nasıl işler — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Temerrüt faizi nasıl işler? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
+  "h1": "Temerrüt faizi nasıl işler?",
+  "keywords": [
+    "temerrüt faizi",
+    "yasal faiz",
+    "avans faizi"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "butlan-nedir",
+    "iptal-edilebilirlik",
+    "destek-payi-hesabi",
+    "cezai-sart-nedir",
+    "emanet-sozlesmesi",
+    "odunc-sozlesmesi",
+    "bagis-sozlesmesi",
+    "vekalet-sozlesmesi-tbk",
+    "eser-sozlesmesi-nedir",
+    "on-sozlesme-nedir",
+    "genel-islem-kosullari",
+    "sozlesmenin-yorumu"
+  ],
+  "links": [
+    {
+      "label": "Faiz",
+      "href": "/hesaplama/faiz"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    }
+  ],
+  "lead": "Borcunuzu zamanında ödemediğinizde karşı karşıya kaldığınız ek mali yük temerrüt faizidir. Asıl mesele, ödemenin ne zaman geciktiği ve sözleşmede bu konuda bir oran yazıp yazmadığıdır.",
+  "keyInsight": "Temerrüt faizine kesinlikle ayrıca temerrüt faizi yürütülemez.",
+  "sections": [
+    {
+      "heading": "Gecikme ne zaman başlar?",
+      "paragraphs": [
+        "Cüzdanınızı açtınız, borç vadesi geldi ama ödeme yapamadınız. Karşı taraf ya icra takibine girişti ya da mahkemede dava açtı. Temerrüt faizi işte bu adımların atıldığı günden başlayarak işlemeye başlar.",
+        "Borçlu kişi faiz veya irat borcunu ödemekte geciktiğinde bu kural devreye girer. Bağışlanan bir miktar paranın ödenmesinde gecikme yaşandığında da aynı kural geçerlidir."
+      ],
+      "bullets": [
+        "İcra takibi günü faiz başlar",
+        "Dava açıldığı gün faiz başlar"
+      ]
+    },
+    {
+      "heading": "Faiz oranı nasıl belirlenir?",
+      "paragraphs": [
+        "Sözleşmede herhangi bir oran kararlaştırılmamışsa, faiz borcunun doğduğu tarihte yürürlükte olan mevzuat hükümleri uygulanır. Oran kendiliğinden bu mevzuata göre belirlenir.",
+        "Eğer sözleşme ile bir oran belirlenecekse, bu oran kanuni sınırları aşamaz. **Belirlenecek yıllık temerrüt faizi oranı**, mevzuata göre belirlenen oranın **yüzde yüz fazlasını aşamaz**."
+      ],
+      "bullets": [
+        "Sözleşme yoksa mevzuat hükümleri uygulanır",
+        "Oran iki katından fazla olamaz"
+      ]
+    },
+    {
+      "heading": "Sözleşmede oran yazıyorsa ne olur?",
+      "paragraphs": [
+        "Taraflar önceden bir sözleşme yaparken akdî faiz oranı kararlaştırmış ancak temerrüt faizini ayrıca yazmamış olabilir. Eğer yıllık akdî faiz oranı kanuni orandan fazla ise, temerrüt faizi için de doğrudan bu **akdî faiz oranı geçerli** olur.",
+        "Bu durum, borçlunun ödeme gününü kaçırması halinde önceden belirlenen yüksek oranın borca yansıkmasına kapı aralar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Faizin de faizi olur mu?",
+      "paragraphs": [
+        "Borç büyüdükçe insanın kafası karışır, acaba biriken faize de yeniden faiz biner mi diye endişelenirsiniz. Kanun bu konuda oldukça nettir.",
+        "**Temerrüt faizine** kesinlikle **ayrıca temerrüt faizi yürütülemez**. Borcun katlanarak büyümesini önleyen en temel kural budur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Zarar faizden fazla çıkarsa ne olur?",
+      "paragraphs": [
+        "Bazen gecikme yüzünden uğradığınız zarar, işleyen temerrüt faizini kat kat aşabilir. Alacaklı olarak temerrüt faizini aşan bir zarara uğramış olabilirsiniz.",
+        "Borçlu, kendisinin hiçbir kusuru bulunmadığını ispat edemezse bu aşan zararı da ödemekle yükümlüdür. Zarar miktarı devam eden davada belirlenebiliyorsa, hâkim esas kararla birlikte **bu zararın miktarına da** hükmeder."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Ödeme vadesinin gelip gelmediğini kontrol edin",
+    "İcra takibi veya dava açılış gününü tespit edin",
+    "Sözleşmede temerrüt veya akdî faiz oranı olup olmadığını inceleyin",
+    "Mevzuattaki güncel oranlarla karşılaştırma yapın",
+    "Aşan bir zararınız varsa bunu dava dosyasında talep edin"
+  ],
+  "documents": [
+    "Borç sözleşmesi",
+    "İcra takibi evrakı",
+    "Dava dilekçesi",
+    "Ödeme makbuzları"
+  ],
+  "faq": [
+    {
+      "q": "Temerrüt faizine yeniden faiz uygulanabilir mi?",
+      "a": "Hayır, temerrüt faizine ayrıca temerrüt faizi yürütülmesi kanunen mümkün değildir."
+    },
+    {
+      "q": "Sözleşmede oran yazmıyorsa hangi oran geçerlidir?",
+      "a": "Faiz borcunun doğduğu tarihte yürürlükte olan mevzuat hükümlerine göre belirlenen oran uygulanır."
+    },
+    {
+      "q": "Faiz alacağımdan daha büyük bir zarara uğradım, bunu alabilir miyim?",
+      "a": "Borçlu hiçbir kusuru olmadığını kanıtlayamazsa, temerrüt faizini aşan zararınızı da talep edebilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "temerrut-faizi-nedir",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

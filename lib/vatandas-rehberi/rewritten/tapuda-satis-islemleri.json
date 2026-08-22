@@ -1,0 +1,112 @@
+{
+  "slug": "tapuda-satis-islemleri",
+  "title": "Tapuda Satış İşlemleri Adım Adım | Vatandaş Rehberi",
+  "description": "Tapuda satış günü neler yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
+  "h1": "Tapuda satış günü neler yapılır?",
+  "keywords": [
+    "tapuda satış",
+    "tapu randevu satış"
+  ],
+  "category": "Eşya",
+  "related": [
+    "tapu-devri-nasil-yapilir",
+    "tapu-harci-hesaplama",
+    "dask-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tapu-devri-nasil-yapilir"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=tapu"
+    }
+  ],
+  "lead": "Tapu müdürlüğüne gittiğiniz gün, tarafların iradelerinin resmî senetle beyan edilmesi ve tescilin tamamlanması gerekir. İşlemin geçerliliği, kanuni usullere ve projelere uygunluğun sağlanmasına bağlıdır.",
+  "keyInsight": "Kat mülkiyeti ve kat irtifakı gibi haklar yalnızca resmî senetle ve tapu siciline tescil ile doğar.",
+  "sections": [
+    {
+      "heading": "Resmî senet ve tescil nasıl yapılır?",
+      "paragraphs": [
+        "Alıcı ve satıcı tapu sicil müdürlüğünde buluşur. Kat mülkiyeti kurulurken veya devir yapılırken **resmî senet** düzenlenmesi şarttır.",
+        "İşlemler sırasında mimari proje ve yönetim planı gibi zorunlu belgelerin eksiksiz sunulması gerekir. Tescil yapılmadığı sürece mülkiyet hakkı karşı tarafa geçmez."
+      ],
+      "bullets": [
+        "Resmî senet düzenlenmesi",
+        "Tapu siciline tescil"
+      ]
+    },
+    {
+      "heading": "Hangi belgeler ve projeler aranır?",
+      "paragraphs": [
+        "Binanın durumuna göre yapı kullanma izin belgesi ve buna uygun değişiklik projeleri tapu müdürlüğüne sunulmalıdır. Projeler elektronik ortamda ilgili idareden temin edilir.",
+        "Toplu yapılarda ise imar planına uygun **vaziyet planı** hazırlanarak süreç yönetilir."
+      ],
+      "bullets": [
+        "Mimari proje",
+        "Yapı kullanma izin belgesi"
+      ]
+    },
+    {
+      "heading": "Satış bedeli ve öncelik hakları nelerdir?",
+      "paragraphs": [
+        "Taşınmaz satışında bedelin paylaşımı ve alacaklıların sırası önem taşır. Zanaatkârlar ve yüklenicilerin alacakları için kanuni öncelik kuralları uygulanır.",
+        "Önceki sırada bulunan alacaklıların durumu, taşınmaz üzerindeki yüklerin bilinebilirliğine bağlıdır."
+      ],
+      "bullets": [
+        "Yüklenici alacakları",
+        "Sıra tespiti"
+      ]
+    },
+    {
+      "heading": "Şerhlerin ve ortak hakların durumu nedir?",
+      "paragraphs": [
+        "Taşınmaz satış vaadi veya arsa payı karşılığı inşaat sözleşmelerinden doğan haklar tapu kütüğüne **şerhedilebilir**. Bu şerhler sayesinde haklar sonraki maliklere karşı ileri sürülebilir.",
+        "İmar Kanunu hükümlerine göre ortaklaştırma durumunda maliklerin anlaşması veya mahkeme kararıyla süreç tamamlanır."
+      ],
+      "bullets": [
+        "Satış vaadi şerhi",
+        "Ortaklaştırma işlemleri"
+      ]
+    }
+  ],
+  "steps": [
+    "Tarafların tapu müdürlüğünde hazır bulunmasını sağlayın",
+    "Gerekli mimari proje ve belgeleri teslim edin",
+    "Resmî senedi inceleyip imzalayın",
+    "Tescil işleminin tapu kütüğüne işlenmesini bekleyin"
+  ],
+  "documents": [
+    "Resmî senet",
+    "Mimari proje",
+    "Yapı kullanma izin belgesi",
+    "Yönetim planı",
+    "Vaziyet planı"
+  ],
+  "faq": [
+    {
+      "q": "Tapuda satış hangi belgeyle tamamlanır?",
+      "a": "Satış, tapu memurunca düzenlenen resmî senet ve tapu siciline tescil ile tamamlanır."
+    },
+    {
+      "q": "Projelerde malik imzası her zaman aranır mı?",
+      "a": "Elektronik ortamda düzenlenen ve ilgili idare tarafından onaylı mimari projelerde malik imzası aranmaz."
+    },
+    {
+      "q": "Satış vaadi sözleşmeleri tapuya yazılabilir mi?",
+      "a": "Taşınmaz satış vaadi sözleşmelerinden doğan haklar tapu kütüğüne şerhedilebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tapu-devri-nasil-yapilir",
+  "angle": "Satış günü",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

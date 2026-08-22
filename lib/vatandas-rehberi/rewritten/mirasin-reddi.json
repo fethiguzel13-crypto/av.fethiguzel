@@ -1,0 +1,123 @@
+{
+  "slug": "mirasin-reddi",
+  "title": "Mirasın Reddi: Üç Aylık Süre, Merci ve Sonuçları",
+  "description": "Mirası reddetmek için üç aylık süre ne zaman başlar, hangi mahkemeye başvurulur, hükmen ret nedir? TMK m.605-618 çerçevesinde adım adım.",
+  "h1": "Mirasın reddi nasıl yapılır?",
+  "keywords": [
+    "mirasın reddi",
+    "miras reddi süresi",
+    "mirasın reddi dilekçesi",
+    "hükmen ret",
+    "borçlu miras reddi"
+  ],
+  "category": "Miras",
+  "related": [
+    "veraset-ilami-nasil-alinir"
+  ],
+  "links": [
+    {
+      "label": "TMK m.605 — Ret hakkı",
+      "href": "/mevzuat/tmk/madde-605"
+    },
+    {
+      "label": "TMK m.606 — Üç aylık süre",
+      "href": "/mevzuat/tmk/madde-606"
+    },
+    {
+      "label": "TMK m.609 — Reddin şekli",
+      "href": "/mevzuat/tmk/madde-609"
+    },
+    {
+      "label": "TMK m.608 — Ret hakkının geçmesi",
+      "href": "/mevzuat/tmk/madde-608"
+    }
+  ],
+  "lead": "Yakınınızın vefatıyla birlikte geride kalan banka hesapları ve gayrimenkullerin yanı sıra borçlar da size geçer. Borç yükünden kurtulmanın tek yolu, **üç aylık yasal süre** içinde mahkemeye başvurarak mirası reddetmektir.",
+  "keyInsight": "Ret beyanı mutlaka **kayıtsız ve şartsız** olmalı; tereke mallarına el sürmek veya süreyi geçirmek bu hakkı tamamen ortadan kaldırır.",
+  "sections": [
+    {
+      "heading": "Ölümle Başlayan Borç Yükü",
+      "paragraphs": [
+        "Miras, ölüm anında kendiliğinden ve bir bütün olarak mirasçılara geçer. Bu geçiş yalnızca taşınmazları veya parayı değil, aynı zamanda ödenmemiş kredileri, senetleri ve icra dosyalarını da kapsar.",
+        "Borcu alacağından fazla olan bir terekede mirasçı kalmak, kendi malvarlığınızı doğrudan tehlikeye atar. Kanun bu sonucu kaçınılmaz kılmaz; yasal ve atanmış mirasçılar mirası reddederek bu tehlikeden kurtulabilir."
+      ],
+      "bullets": [
+        "Tereke borçları kişisel malvarlığınızı tehdit eder.",
+        "Ret, mirasçılık sıfatını geçmişe etkili olarak siler.",
+        "Kişi terekeye hiç dahil olmamış gibi sayılır."
+      ]
+    },
+    {
+      "heading": "Kritik Üç Aylık Süre Ne Zaman Başlar?",
+      "paragraphs": [
+        "Yasal mirasçılar için süre, mirasbırakanın ölümünü öğrendikleri tarihte işlemeye başlar. Vasiyetname ile atanmış mirasçılarda ise ölçüt farklıdır; süre, tasarrufun kendilerine resmen bildirildiği gün başlar.",
+        "Süreyi kaçırdığınız an miras kayıtsız şartsız kabul edilmiş sayılır. Bu aşamadan sonra **ölenin borçlarından** kendi kişisel malvarlığınızla sorumlu hale gelirsiniz."
+      ],
+      "bullets": [
+        "Yasal mirasçı: Ölümün öğrenildiği tarih.",
+        "Atanmış mirasçı: Tasarrufun bildirildiği tarih.",
+        "Süre aşımı: Borçların kişisel varlığa kalması."
+      ]
+    },
+    {
+      "heading": "Başvuru Nereye ve Nasıl Yapılır?",
+      "paragraphs": [
+        "Mirasın reddi için mirasbırakanın son yerleşim yeri sulh hukuk mahkemesine gitmeniz gerekir. Başvurunuzu **sözlü veya yazılı** olarak doğrudan mahkemeye iletebilirsiniz.",
+        "Hâkim beyanınızı bir tutanakla tespit eder. Reddin geçerli olması için \"şartlı ret\" gibi ifadelerden kaçınmalı, beyanı hiçbir koşula bağlamamalısınız."
+      ],
+      "bullets": [
+        "Yetkili merci: Son yerleşim yeri sulh hukuk mahkemesi.",
+        "Şart koşulamaz: Kayıtsız ve şartsız beyan şarttır.",
+        "Belge: İşlemin ardından ret belgesini mutlaka isteyin."
+      ]
+    },
+    {
+      "heading": "Hükmen Ret ve Aileye Etkisi",
+      "paragraphs": [
+        "Ölüm tarihinde mirasbırakanın ödemeden aczi açıkça belli veya resmen tespit edilmişse, ayrı bir ret beyanına gerek kalmaksızın miras zaten reddedilmiş sayılır. Alacaklı takibe giriştiğinde bu durum savunma olarak ileri sürülür.",
+        "Unutmayın ki ret kişiseldir ve yalnız sizin için sonuç doğurur. Payınız sizden sonra gelen mirasçılara geçer; bu yüzden borçlu terekelerde **çocukların da ayrı ayrı** başvurması gerekir."
+      ],
+      "bullets": [
+        "Hükmen ret: Aciz vesikası veya resmî tespit.",
+        "Kişisel sonuç: Reddeden dışındakileri etkilemez.",
+        "Altsoy tehlikesi: Çocuklar için de başvuru şartı."
+      ]
+    }
+  ],
+  "steps": [
+    "Ölüm tarihini ve yasal mirasçı olduğunuzu netleştirin.",
+    "Öğrenme tarihinden itibaren **üç aylık süreyi** hesaplayın.",
+    "Mirasbırakanın son yerleşim yeri sulh hukuk mahkemesine başvurun.",
+    "Ret beyanınızı kayıtsız ve şartsız olarak sözlü veya yazılı sunun.",
+    "Mahkemeden reddi gösteren resmî belgeyi alıp saklayın."
+  ],
+  "documents": [
+    "ölüm belgesi",
+    "nüfus kayıt örneği",
+    "red tutanağı",
+    "mahkemeden alınan ret belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Mirası reddetme süresi kaç gündür?",
+      "a": "Üç aydır. Yasal mirasçılar için ölümün öğrenildiği tarihten itibaren işlemeye başlar."
+    },
+    {
+      "q": "Üç aylık süreyi kaçırırsam ne olur?",
+      "a": "Süre bittiğinde miras kabul edilmiş sayılır ve ölenin borçlarından kendi malvarlığınızla sorumlu olursunuz."
+    },
+    {
+      "q": "Reddedersem çocuklarım borçtan kurtulur mu?",
+      "a": "Hayır. Ret sadece sizin payınızı etkiler; payınız çocuklarınıza geçer. Bu yüzden altsoyun da ayrı ayrı reddetmesi gerekir."
+    },
+    {
+      "q": "Mirasın sadece borçlu kısmını reddedebilir miyim?",
+      "a": "Hayır. Ret beyanı kısmî olamaz; miras ya tümüyle kabul edilir ya da bütünüyle reddedilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

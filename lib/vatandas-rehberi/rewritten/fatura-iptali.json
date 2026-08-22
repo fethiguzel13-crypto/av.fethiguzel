@@ -1,0 +1,112 @@
+{
+  "slug": "fatura-iptali",
+  "title": "Fatura iptali — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Fatura iptali hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata dan…",
+  "h1": "Fatura iptali",
+  "keywords": [
+    "fatura iptali",
+    "fatura iptali"
+  ],
+  "category": "Vergi",
+  "related": [
+    "kdv-nedir",
+    "e-fatura-nedir",
+    "tuketici-hakem-heyeti"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kdv-nedir"
+    },
+    {
+      "label": "VUK",
+      "href": "/kategori/vuk"
+    },
+    {
+      "label": "KDVK",
+      "href": "/kategori/kdvk"
+    }
+  ],
+  "lead": "Yanlış düzenlenen veya iptali gereken bir fatura ile karşı karşıyaysanız, vergi mevzuatındaki usullere uygun hareket etmeniz gerekir. Süreci doğru yönetmek için belgenin durumunu ve atılması gereken adımları bilmelisiniz.",
+  "keyInsight": "Fatura iptali ve vergi işlemlerinde mevzuatta öngörülen usullere ve yetkili birimlerin belirlediği kurallara tam olarak uymak zorunludur.",
+  "sections": [
+    {
+      "heading": "Fatura nedir ve neyi gösterir?",
+      "paragraphs": [
+        "Elunuza bir fatura aldınız. Asıl mesele, bu belgenin satılan mal veya yapılan iş karşılığında müşterinin borçlandığı meblağı gösteren resmi bir ticari vesika olmasıdır.",
+        "Ticari ilişkilerde düzenlenen bu belge, tarafların hak ve yükümlülüklerinin belirlenmesinde temel alınır."
+      ],
+      "bullets": [
+        "Satılan emtiayı gösterir",
+        "Yapılan işi belgelendirir",
+        "Borçlanılan meblağı bildirir"
+      ]
+    },
+    {
+      "heading": "Yoklama ve denetimler nasıl yapılır?",
+      "paragraphs": [
+        "İş yerinizde denetimle karşılaştığınızda görevliler defter ve belgelerinizi inceler. **Faturasız mal** bulundurulup bulundurulmadığı bu kontrollerde doğrudan araştırılır.",
+        "Yoklamaya yetkili memurlar, günlük hasılatın tespiti ve belgelerin usulüne uygun düzenlenip düzenlenmediğini yerinde kontrol etme yetkisine sahiptir."
+      ],
+      "bullets": [
+        "Defterlerin tasdikli olup olmadığı incelenir",
+        "Belgelerin usulüne uygunluğu aranır"
+      ]
+    },
+    {
+      "heading": "Mükellefiyet kaydının durumu neye bağlıdır?",
+      "paragraphs": [
+        "Analiz ve değerlendirme çalışmaları sonucunda vergisel uyum seviyeniz incelenir. Risk yüksek görüldüğünde **vergi incelemesi** ve yoklama süreci devreye girer.",
+        "Yapılan değerlendirmeler neticesinde mükellefiyet kaydının terkin edilmesi ve bu durumun size bildirilmesi söz konusu olabilir."
+      ],
+      "bullets": [
+        "Risk analizi yapılır",
+        "İnceleme ve yoklama uygulanır"
+      ]
+    },
+    {
+      "heading": "İşlemlerde nelere dikkat etmelisiniz?",
+      "paragraphs": [
+        "Vergi süreçlerinde ibraz edilmeyen belgeler veya taşımada bulunmayan sevk irsaliyeleri gibi durumlarda nakil vasıtalarının trafikten alıkonulması gibi önlemlerle karşılaşabilirsiniz.",
+        "**Belge eksikliği** giderilene kadar yasal süreçlerin aksamaması için tüm evrakın tam ve eksiksiz tutulması şarttır."
+      ],
+      "bullets": [
+        "İrsaliye ve fatura bulundurulmalıdır",
+        "Talepler zamanında yerine getirilmelidir"
+      ]
+    }
+  ],
+  "steps": [
+    "Ticari faaliyetlerinizde düzenlenen fatura ve belgeleri eksiksiz olarak muhafaza edin.",
+    "Yoklama ve denetimler sırasında talep edilen defter ve belgeleri yetkililere ibraz edin.",
+    "Mükellefiyet kaydınızla ilgili yapılan tebligatları ve resmi bildirimleri yakından takip edin.",
+    "Gerekli durumlarda vergi dairesi ile iletişime geçerek yasal yükümlülüklerinizi yerine getirin."
+  ],
+  "documents": [
+    "Fatura",
+    "Sevk irsaliyesi",
+    "Taşıma irsaliyesi",
+    "Kanuni defterler"
+  ],
+  "faq": [
+    {
+      "q": "Fatura nedir?",
+      "a": "Satılan emtia veya yapılan iş karşılığında müşterinin borçlandığı meblağı gösteren ticari vesikadır."
+    },
+    {
+      "q": "Yoklama sırasında nelere bakılır?",
+      "a": "Defterlerin tasdikli olup olmadığına, belgelerin usulüne göre düzenlenip düzenlenmediğine ve faturasız mal bulunup bulunmadığına bakılır."
+    },
+    {
+      "q": "Belgelerin taşınmasında hangi evraklar aranır?",
+      "a": "Nakil vasıtalarında taşıma irsaliyesi, sevk irsaliyesi veya fatura bulundurulması zorunludur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kdv-nedir",
+  "angle": "Fatura iptali",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

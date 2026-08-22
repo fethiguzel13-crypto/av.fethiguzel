@@ -1,0 +1,114 @@
+{
+  "slug": "istihkak-iddiasi",
+  "title": "Haczedilen mal bana aitse ne yaparım — Vatandaş Rehberi | Av. Fethi Gü",
+  "description": "Haczedilen mal bana aitse ne yaparım? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
+  "h1": "Haczedilen mal bana aitse ne yaparım?",
+  "keywords": [
+    "istihkak iddiası",
+    "istihkak davası"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "haciz-islemleri-nasil-yapilir",
+    "haciz-nasil-kaldirilir",
+    "menfi-tespit-davasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Evinizde veya iş yerinizde başkasının borcu nedeniyle haciz yapıldığında ve haczedilen eşya size ait olduğunda, hak iddia edebilmek için derhal harekete geçmelisiniz. Bu duruma hukuk dilinde istihkak iddiası denir.",
+  "keyInsight": "Eşyanın size ait olduğunu kanıtlamak ve hak kaybı yaşamamak için **öngörülen yasal süreleri** kesinlikle kaçırmamalısınız.",
+  "sections": [
+    {
+      "heading": "Eşyanın başkasının elinde veya sizin evinizde olması neyi değiştirir?",
+      "paragraphs": [
+        "Kapınız çalındı ve icra memurları evinizdeki televizyonu veya buzdolabını borçlu olan yakınınızın eşyası sanarak kayda geçirdi. Eğer mal borçlunun elinde değil de sizin zilyetliğinizde yani sizin evinizde veya iş yerinizde bulunuyorsa, süreç farklı işletilir.",
+        "Bu durumda üçüncü kişi olarak yedieminliği kabul etmeniz halinde mal muhafaza altına alınmaz ve alacaklının dava açması beklenir."
+      ],
+      "bullets": [
+        "Mal sizin zilyetliğinizdeyse yedieminliği kabul edebilirsiniz.",
+        "Alacaklıya dava açması için süre verilir."
+      ]
+    },
+    {
+      "heading": "Haciz sırasında orada değilseniz ne olur?",
+      "paragraphs": [
+        "Haciz işlemi yapılırken evde veya iş yerinde olmayabilirsiniz. Sonradan haczedilen mallar arasında size ait olanlar bulunduğunu öğrendiğinizde **hacze ıttıla tarihinden itibaren** hemen adımları atmalısınız.",
+        "Bu durumu öğrendiğiniz andan itibaren süreci başlatmazsanız, aynı takip içinde bu iddiayı ileri sürme hakkınızı kaybedersiniz."
+      ],
+      "bullets": [
+        "Hacizden haberdar olduğunuz tarih milattır.",
+        "Süresinde başvurulmazsa hak kaybedilir."
+      ]
+    },
+    {
+      "heading": "Mahkeme kapısına ne zaman gitmek gerekir?",
+      "paragraphs": [
+        "İcra memurları veya mahkeme süreçlerinde size verilen kararlar sonrasında **yasal süreler** işlemeye başlar. Bu süre zarfında gerekli işlemleri yapmazsanız iddiadan vazgeçmiş sayılırsınız.",
+        "İcra mahkemesinde açılacak davalar ve yapılacak itirazlar için verilen süreler hayati önem taşır."
+      ],
+      "bullets": [
+        "Kararın tebliğ veya tefhiminden itibaren süre başlar.",
+        "Basit yargılama usulü uygulanır."
+      ]
+    },
+    {
+      "heading": "Satışın durdurulması nasıl sağlanır?",
+      "paragraphs": [
+        "Malınız haczedildiğinde en büyük korku hemen satılmasıdır. Ancak istihkak davası açıldığında ve şartları sağlandığında malın satışı durdurulabilir.",
+        "Mahkeme, alacaklının muhtemel zararlarını karşılamak üzere **teminat yatırılmasını** isteyebilir."
+      ],
+      "bullets": [
+        "Dava sonuçlanıncaya kadar satış yapılamaz.",
+        "Teminat kararı çıkabilir."
+      ]
+    }
+  ],
+  "steps": [
+    "Haczedilen malın size ait olduğunu gösteren fatura, garanti belgesi veya benzeri kanıtları toplayın.",
+    "İcra memurunun yaptığı işleve karşı süresi içinde itiraz edin veya istihkak iddiasınızı bildirin.",
+    "Size verilen süreler içinde icra mahkemesinde istihkak davası açın.",
+    "Gerekli görülürse mahkemenin isteyeceği teminatı hazırlayın.",
+    "Davanın sonucunu bekleyin; bu süreçte malın satışı yapılmayacaktır."
+  ],
+  "documents": [
+    "Fatura veya satış sözleşmesi",
+    "Garanti belgesi",
+    "Tapu veya ruhsat (taşınmaz veya araçlar için)",
+    "Kira sözleşmesi",
+    "Kimlik belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Haczedilen malın bana ait olduğunu nasıl ispatlarım?",
+      "a": "Fatura, ödeme belgesi, banka dekontu veya zilyetliğinizi gösteren resmi evraklar ile mülkiyetinizi ispat edebilirsiniz."
+    },
+    {
+      "q": "Süreyi kaçırırsam ne olur?",
+      "a": "Kanunda belirtilen süreler içinde dava açmaz veya iddiada bulunmazsanız, alacaklıya karşı o takip için istihkak iddiasından vazgeçmiş sayılırsınız."
+    },
+    {
+      "q": "Malın satışı hemen yapılır mı?",
+      "a": "Usulüne uygun açılan istihkak davası sonuçlanıncaya kadar haczedilen malın satışı yapılamaz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "İstihkak",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

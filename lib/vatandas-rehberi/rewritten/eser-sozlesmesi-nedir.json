@@ -1,0 +1,114 @@
+{
+  "slug": "eser-sozlesmesi-nedir",
+  "title": "Eser sözleşmesi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Eser sözleşmesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
+  "h1": "Eser sözleşmesi",
+  "keywords": [
+    "eser sözleşmesi",
+    "eser sozlesmesi nedir"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "temerrut-faizi-nedir",
+    "yuklenici-temerrudu",
+    "kat-karsiligi-insaat",
+    "ayip-mal-iade"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/temerrut-faizi-nedir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=eser"
+    }
+  ],
+  "lead": "Eser sözleşmesi, bir tarafın eser ortaya çıkarmayı diğer tarafın ise bunun karşılığında bedel ödemeyi üstlendiği anlaşmadır. Ev tamiratından özel imalata kadar pek çok ilişki bu kapsamda kurulur.",
+  "keyInsight": "Yüklenicinin yükümlülüklerini ağır kusuruyla hiç ya da gereği gibi yerine getirmemesi dışındaki eser sözleşmesi alacakları **beş yıllık zamanaşımına** tabidir.",
+  "sections": [
+    {
+      "heading": "Eser sözleşmesi tam olarak nedir?",
+      "paragraphs": [
+        "Mutfak dolabı yaptırıyor, terziye kıyafet diktiriyor ya da evinize tadilat yaptırıyorsunuz. Karşı taraf size somut ve **ortaya çıkmış bir sonuç** vadeder.",
+        "İş sahibinin temel borcu ise bu çalışma tamamlandığında kararlaştırılan ücreti ödemektir. Taraflar arasındaki bu borç ilişkisi eserin teslimiyle şekillenir."
+      ],
+      "bullets": [
+        "Bir taraf eser meydana getirir.",
+        "Diğer taraf bedel öder.",
+        "Sonuç odaklı bir sözleşmedir."
+      ]
+    },
+    {
+      "heading": "Ne zaman hak doğar?",
+      "paragraphs": [
+        "Sözleşme imzalandığı anda tarafların karşılıklı borçları başlar. Ancak hak arama süreci genellikle eserin teslimi, eksik bırakılması ya da **kusurlu yapılması** durumunda gündeme gelir.",
+        "Ortada bitmiş bir iş veya bitmesi gereken bir zamanlama varken sorun çıkarsa, yasal yollara başvurma imkânınız doğar."
+      ],
+      "bullets": [
+        "Sözleşmenin kurulmasıyla borçlar başlar.",
+        "Kusurlu ifa veya teslimde ihtilaf doğar."
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırınca ne olur?",
+      "paragraphs": [
+        "Kanun, eser sözleşmesinden doğan alacaklar için belirli bir süre öngörmüştür. Bu süre geçtiğinde alacağınızı mahkeme yoluyla isteme hakkınızı **büyük ölçüde kaybedersiniz**.",
+        "Zamanaşımı süreleri hak kaybı yaratacağı için uyuşmazlık çıktığında zaman kaybetmeden harekete geçmek gerekir."
+      ],
+      "bullets": [
+        "Alacaklar için beş yıllık süre vardır.",
+        "Ağır kusur durumları istisna oluşturabilir."
+      ]
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "İnşaat, tadilat veya imalat işlerinde sözlü anlaşmalar sıkıntı yaratır. Elinizde yazılı bir kâğıt olması işinizi kolaylaştırır.",
+        "Ödeme dekontları ve yapılan masrafları gösteren belgeler uyuşmazlık anında **en büyük deliliniz** olacaktır."
+      ],
+      "bullets": [
+        "Yazılı sözleşme metni",
+        "Ödeme dekontları",
+        "Masraf belgeleri"
+      ]
+    }
+  ],
+  "steps": [
+    "Sözleşmeyi ve yapılan anlaşmanın şartlarını yazılı hale getirin.",
+    "Ortaya çıkan kusurları veya eksiklikleri tespit edin.",
+    "Karşı tarafa borcunu yerine getirmesi için makul süre tanıyın.",
+    "Süreç sonuç vermezse yasal yollara başvurun."
+  ],
+  "documents": [
+    "Yazılı eser sözleşmesi",
+    "Banka ödeme dekontları",
+    "Masraf ve fatura belgeleri",
+    "Kusur tespit tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "Eser sözleşmesi hangi işleri kapsar?",
+      "a": "Bir tarafın eser meydana getirmeyi, diğerinin bedel ödemeyi üstlendiği her türlü imalat ve hizmet ilişkisini kapsar."
+    },
+    {
+      "q": "Zamanaşımı süresi ne kadardır?",
+      "a": "Yüklenicinin ağır kusuru hariç olmak üzere, eser sözleşmesinden doğan alacaklar beş yıllık zamanaşımına tabidir."
+    },
+    {
+      "q": "Sözleşmenin yazılı olması şart mı?",
+      "a": "İspat kolaylığı açısından yazılı olması her zaman lehinize olacaktır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "temerrut-faizi-nedir",
+  "angle": "Eser sözleşmesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

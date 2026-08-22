@@ -1,0 +1,115 @@
+{
+  "slug": "babalik-davasi",
+  "title": "Babalık davası — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Babalık davası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata da…",
+  "h1": "Babalık davası",
+  "keywords": [
+    "babalık davası",
+    "babalik davasi"
+  ],
+  "category": "Aile",
+  "related": [
+    "mal-rejimi-tasfiyesi",
+    "soybagi-reddi",
+    "velayet-davasi",
+    "istirak-nafakasi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/mal-rejimi-tasfiyesi"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    },
+    {
+      "label": "NHK",
+      "href": "/kategori/nhk"
+    }
+  ],
+  "lead": "Babalık davası, çocuk ile baba arasındaki soybağının mahkemece belirlenmesi için açılır. Bu süreçte doğru kişilere karşı ve **doğru sürelerde** harekete geçmek hayatidir.",
+  "keyInsight": "Ananın dava hakkı doğumdan başlayarak belirli bir süreyle sınırlıdır; bu süreyi kaçırmamak en kritik adımdır.",
+  "sections": [
+    {
+      "heading": "Kimler bu davayı açabilir?",
+      "paragraphs": [
+        "Elimizde somut bir aile tablosu var: Çocuk ile baba arasındaki bağın resmi olarak kurulması gerekiyor. Bu adımı atabilecek kişiler kanun tarafından açıkça belirlenmiştir. Mahkeme kapısını çalma hakkı ana ve çocuğa tanınmıştır.",
+        "Dava doğrudan babaya karşı açılır. Ancak araya somut bir hayat gerçeği girer; eğer baba hayatta değilse, dava onun mirasçılarına yöneltilir. Tarafların kim olacağı, davanın mahiyetini doğrudan belirler."
+      ],
+      "bullets": [
+        "Ana ve çocuk dava hakkına sahiptir.",
+        "Dava babaya veya mirasçılarına karşı açılır."
+      ]
+    },
+    {
+      "heading": "Dava kime ihbar edilir?",
+      "paragraphs": [
+        "Mahkeme salonuna adım attığınızda süreç sadece sizinle baba arasında geçmez. Kanun, bu davanın bazı resmi kurumlara da bildirilmesini zorunlu kılar. Böylece kamu düzeni korunmuş olur.",
+        "Babalık davası Cumhuriyet savcısına ve Hazineye bildirilir. Bununla birlikte, eğer davayı ana açmışsa dosya kayyıma; kayyım açmışsa anaya ihbar edilir."
+      ],
+      "bullets": [
+        "Cumhuriyet savcısına ihbar edilir.",
+        "Hazineye bilgi verilir."
+      ]
+    },
+    {
+      "heading": "Süreler nasıl işler?",
+      "paragraphs": [
+        "Zaman, hukuk mücadelelerinde en sert sınırlardan biridir. Ananın dava açma hakkı, **doğumdan başlayarak** bir süreye bağlanmıştır. Bu zaman dilimi atlandığında hak düşer.",
+        "Eğer çocuk ile başka bir erkek arasında halihazırda bir soybağı ilişkisi varsa, o bir yıllık süre bu ilişkinin tamamen ortadan kalktığı tarihte işlemeye başlar. Gecikmeyi haklı kılan istisnai sebepler çıktığında ise kanun ek bir imkan tanır."
+      ],
+      "bullets": [
+        "Ananın hakkı doğumla başlar.",
+        "Başka soybağı varsa süre o bağın kalktığı gün başlar."
+      ]
+    },
+    {
+      "heading": "Gecikme durumunda ne yapılır?",
+      "paragraphs": [
+        "Hayat her zaman planlandığı gibi gitmez; bazen elinizde olmayan engeller çıkar. Normal süreler kaçmış olsa bile, gecikmeyi haklı kılan çok güçlü sebeplerin varlığı durumunda bir istisna devreye girer.",
+        "Haklı sebebin ortadan kalkmasından başlayarak **bir ay içinde** dava açma imkanı doğar. Bu kısa zaman aralığını kaçırmamak için uyanık olmanız gerekir."
+      ],
+      "bullets": [
+        "Haklı sebeplerin varlığı aranır.",
+        "Engel kalkınca bir aylık ek süre başlar."
+      ]
+    }
+  ],
+  "steps": [
+    "Dava açma hakkına sahip olup olmadığınıza bakın",
+    "Doğum tarihini ve süreleri hesaplayın",
+    "Davayı babaya veya mirasçılarına yöneltin",
+    "Gerekli ihbarların yapılmasını sağlayın"
+  ],
+  "documents": [
+    "Nüfus kayıt örneği",
+    "Doğum raporu",
+    "Soybağı ilişkisini gösteren belgeler"
+  ],
+  "faq": [
+    {
+      "q": "Babalık davasını kimler açabilir?",
+      "a": "Çocuk ile baba arasındaki soybağının belirlenmesini ana ve çocuk isteyebilir."
+    },
+    {
+      "q": "Baba hayatta değilse dava açılabilir mi?",
+      "a": "Evet, baba hayatta değilse dava onun mirasçılarına karşı açılır."
+    },
+    {
+      "q": "Ananın dava açma süresi ne kadardır?",
+      "a": "Ananın dava hakkı doğumdan başlayarak bir yıl geçmekle düşer."
+    },
+    {
+      "q": "Başka bir soybağı varsa süre nasıl hesaplanır?",
+      "a": "Çocuk ile başka bir erkek arasında soybağı varsa, bir yıllık süre bu ilişkinin ortadan kalktığı tarihte işlemeye başlar."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "mal-rejimi-tasfiyesi",
+  "angle": "Babalık davası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

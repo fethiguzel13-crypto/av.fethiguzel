@@ -1,0 +1,110 @@
+{
+  "slug": "kimlik-kartı-basvurusu",
+  "title": "Kimlik kartı başvurusu — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Kimlik kartı başvurusu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
+  "h1": "Kimlik kartı başvurusu",
+  "keywords": [
+    "kimlik kartı başvurusu",
+    "kimlik kartı basvurusu"
+  ],
+  "category": "Nüfus",
+  "related": [
+    "e-devlet-nufus",
+    "nufus-kayit-ornegi",
+    "adres-degisikligi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/e-devlet-nufus"
+    },
+    {
+      "label": "NHK",
+      "href": "/kategori/nhk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=kimlik"
+    }
+  ],
+  "lead": "Cüzdanınızdaki kartın yenilenmesi gerektiğinde veya mesleki bir kimlik düzenlemesinde doğru adımları atmak istersiniz. Telaş etmeyin, süreç usulüne uygun ilerler.",
+  "keyInsight": "Resmî işlemler sırasında sunulacak belgelerin eksiksiz olması, başvurunun gecikmeden sonuçlanmasını sağlar.",
+  "sections": [
+    {
+      "heading": "Kimlik kartı nereden ve nasıl istenir?",
+      "paragraphs": [
+        "Günlük koşturmaca içinde cüzdanınızı açtınız ve kartınızın eskidiğini ya da yenilenmesi gerektiğini fark ettiniz. İlk yapacağınız şey, yetkili kuruma başvurmak için hazırlık yapmaktır.",
+        "Başvuru sırasında kimliğinizi kanıtlayacak belgelerin yanınızda tam olarak bulunması, işinizi hızlandırır ve olası aksaklıkların önüne geçer."
+      ],
+      "bullets": [
+        "Yetkili kuruma başvuru yapın",
+        "Gerekli evrakları eksiksiz sunun"
+      ]
+    },
+    {
+      "heading": "Resmî geçerliliği olan belgeler nelerdir?",
+      "paragraphs": [
+        "Elimizdeki kimlik belgelerinin hayatın her alanında geçerli olması beklenir. Kurumlarca verilen bu kartlar, resmî ve özel tüm yerlerde kimliğinizi kanıtlar.",
+        "İşlemler sırasında sunulan evrakların doğruluğu, sürecin hak kaybı yaşamadan tamamlanmasını güvence altına alır."
+      ],
+      "bullets": [
+        "Resmî kimlik hükmündedir",
+        "Özel kuruluşlarda da geçerlidir"
+      ]
+    },
+    {
+      "heading": "Başvuru sırasında nelere dikkat etmeli?",
+      "paragraphs": [
+        "Evrakları teslim ederken bilgilerin doğruluğunu kontrol etmek gerekir. Ufak bir hata, işlemin uzamasına yol açabilir.",
+        "Sakin bir kafayla adımları takip etmek, en karmaşık görünen bürokratik süreci bile kolaylaştırır."
+      ],
+      "bullets": [
+        "Bilgilerinizi kontrol edin",
+        "Kurum yönergelerini izleyin"
+      ]
+    },
+    {
+      "heading": "İşlem bittiğinde kartı nasıl alırsınız?",
+      "paragraphs": [
+        "Başvurunuz incelenip onaylandıktan sonra yeni kartınız hazırlanır. Kurumun belirttiği şekilde kartınızı teslim alabilirsiniz.",
+        "Yeni kartınıza kavuştuğunuzda tüm resmî işlerinizi güvenle yürütmeye devam edebilirsiniz."
+      ],
+      "bullets": [
+        "Onay aşamasını takip edin",
+        "Kartınızı güvenle teslim alın"
+      ]
+    }
+  ],
+  "steps": [
+    "Yetkili kuruma başvuru dilekçenizi verin",
+    "Gerekli belgeleri eksiksiz olarak hazırlayın",
+    "İnceleme sürecinin tamamlanmasını bekleyin",
+    "Hazırlanan kimlik kartını teslim alın"
+  ],
+  "documents": [
+    "Başvuru dilekçesi",
+    "Kimliği kanıtlayan mevcut belgeler",
+    "Kurumca istenen ek evraklar"
+  ],
+  "faq": [
+    {
+      "q": "Kimlik kartı başvurusu nereye yapılır?",
+      "a": "İlgili kanuni düzenlemelere göre yetkilendirilmiş resmi kurumlara başvuru yapılır."
+    },
+    {
+      "q": "Bu kartlar nerelerde geçerlidir?",
+      "a": "Türkiye genelindeki tüm resmi ve özel kuruluşlarda resmi kimlik hükmünde kabul edilir."
+    },
+    {
+      "q": "Başvuru için hangi belgeler şarttır?",
+      "a": "Dilekçe ve mevzuatın öngördüğü duruma göre gerekli görülen belgelerin sunulması gerekir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "e-devlet-nufus",
+  "angle": "Kimlik kartı başvurusu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

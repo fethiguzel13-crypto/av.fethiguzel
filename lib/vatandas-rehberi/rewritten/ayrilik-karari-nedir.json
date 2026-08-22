@@ -1,0 +1,112 @@
+{
+  "slug": "ayrilik-karari-nedir",
+  "title": "Ayrılık kararı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Ayrılık kararı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata da…",
+  "h1": "Ayrılık kararı",
+  "keywords": [
+    "ayrılık kararı",
+    "ayrilik karari nedir"
+  ],
+  "category": "Aile",
+  "related": [
+    "mal-rejimi-tasfiyesi",
+    "bosanma-davasi-nasil-acilir",
+    "tedbir-nafakasi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/mal-rejimi-tasfiyesi"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Evlilik birliğinde ortak hayatın sürdürülemediği durumlarda, mahkeme kararıyla eşlerin ayrı yaşama hakkı doğabilir. Bu süreç, **belirli bir süre** için verilen resmî kararla yürütülür.",
+  "keyInsight": "Ayrılık kararının doğuracağı hukuki sonuçlar için kararın kesinleşmesi ve sürecin kanuni sınırlara uygun yürütülmesi şarttır.",
+  "sections": [
+    {
+      "heading": "Evlilikte ayrılık kararı nasıl alınır?",
+      "paragraphs": [
+        "Evlilik birliğinde sarsıntı yaşandığında eşler hukuki yollara başvurabilir. Mahkeme değerlendirmesi sonucunda ayrılığa karar verilebilir.",
+        "Bu karar belirli bir zaman dilimini kapsar ve **kesinleşme** tarihi ile birlikte hukuki sonuçlarını doğurmaya başlar."
+      ],
+      "bullets": [
+        "Ortak hayatın sarsılması",
+        "Mahkeme başvarısı",
+        "Resmî karar süreci"
+      ]
+    },
+    {
+      "heading": "Süreç nasıl işlemeye başlar?",
+      "paragraphs": [
+        "Ayrılık kararı alındıktan sonra zaman sayacı çalışmaya başlar. Tarafların bu süreçteki hakları ve yükümlülükleri mahkeme ilamına göre belirlenir.",
+        "Verilen sürenin takibi ve kararın gereklerine uyulması taraflar açısından önem taşır."
+      ],
+      "bullets": [
+        "Kararın kesinleşmesi",
+        "Sürenin başlaması"
+      ]
+    },
+    {
+      "heading": "Tedbir kararlarına uyulmazsa ne olur?",
+      "paragraphs": [
+        "Aile mahkemeleri tarafından verilen koruyucu veya önleyici tedbir kararlarına uyulması zorunludur. Karar gereklerine aykırı davranılması durumunda **zorlama hapsi** gündeme gelebilir.",
+        "İhlalin tekrarlanması halinde yaptırımlar katlanarak uygulanabilir."
+      ],
+      "bullets": [
+        "Tedbirlere uyma zorunluluğu",
+        "Aykırılık halinde yaptırım"
+      ]
+    },
+    {
+      "heading": "Başvuru ve bildirimler nasıl yapılır?",
+      "paragraphs": [
+        "Alınan tedbir kararları ve başvurular ilgili kurumlara en seri vasıtalarla bildirilir. Sürecin takibi açısından yetkili mercilerin bilgilendirilmesi esastır.",
+        "Uygulama aşamasında kolluk kuvvetleri ve ilgili bakanlık birimleri görev alır."
+      ],
+      "bullets": [
+        "İlgili kurumlara bildirim",
+        "Kolluk takibi"
+      ]
+    }
+  ],
+  "steps": [
+    "Aile mahkemesine resmi başvuru dilekçenizi hazırlayın.",
+    "Ayrılık talebinizin gerekçelerini ve delillerinizi sunun.",
+    "Mahkemenin vereceği ara kararları ve tedbirleri takip edin.",
+    "Kararın kesinleşmesini bekleyin ve süreci başlatın."
+  ],
+  "documents": [
+    "Mahkeme başvuru dilekçesi",
+    "Kimlik belgesi",
+    "Evlilik cüzdanı",
+    "Gerekli delil ve belgeler"
+  ],
+  "faq": [
+    {
+      "q": "Ayrılık kararı ne kadar süre için verilebilir?",
+      "a": "Ayrılığa kanunda belirtilen aralıkta bir süre için karar verilebilir."
+    },
+    {
+      "q": "Süre ne zaman işlemeye başlar?",
+      "a": "Süre, ayrılık kararının kesinleşmesiyle birlikte işlemeye başlar."
+    },
+    {
+      "q": "Tedbir kararına uyulmazsa ne olur?",
+      "a": "Karar gereklerine aykırı hareket edilmesi halinde hâkim kararıyla zorlama hapsi uygulanabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "mal-rejimi-tasfiyesi",
+  "angle": "Ayrılık kararı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

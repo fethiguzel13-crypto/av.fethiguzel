@@ -1,0 +1,110 @@
+{
+  "slug": "tapu-vekaleten-satis",
+  "title": "Vekâletle tapu satışı nasıl olur — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Vekâletle tapu satışı nasıl olur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
+  "h1": "Vekâletle tapu satışı nasıl olur?",
+  "keywords": [
+    "vekaleten tapu satışı",
+    "tapu vekaletname"
+  ],
+  "category": "Eşya",
+  "related": [
+    "tapu-devri-nasil-yapilir",
+    "genel-vekaletname-risk",
+    "noter-islemleri"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tapu-devri-nasil-yapilir"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    },
+    {
+      "label": "Noter",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Şehirdışında olduğunuz için tapuda bizzat bulunamayabilirsiniz; bu durumda vekaletname çıkararak taşınmaz satışını güvendiğiniz bir kişiye devredebilirsiniz. Asıl mesele, yetkinin doğru ve eksiksiz hazırlanmasıdır.",
+  "keyInsight": "Vekâletnamede satış yetkisinin açıkça yazılması ve noter onaylı olması şarttır.",
+  "sections": [
+    {
+      "heading": "Vekâletname nasıl hazırlanır?",
+      "paragraphs": [
+        "Taşınmazınızı satması için güvendiğiniz birine yetki verecekseniz, **noter** yolunu tutmalısınız. Vekâletnamede hangi gayrimenkulün satılacağı ve satış için hangi yetkilerin verildiği açıkça yazılmalıdır.",
+        "Genel ifadeler yerine tapu işlemlerine özel ibarelerin yer alması, sürecin sorunsuz ilerlemesini sağlar. Vekil edilecek kişinin bilgileri eksiksiz şekilde belgede yer almalıdır."
+      ],
+      "bullets": [
+        "Noterde düzenleme yapılması gerekir.",
+        "Taşınmaz bilgileri net olarak yazılmalıdır."
+      ]
+    },
+    {
+      "heading": "Tapuda işlem sırası nasıldır?",
+      "paragraphs": [
+        "Hazırlanan vekâletname ile birlikte vekil, ilgili **tapu müdürlüğüne** başvurarak satış işlemlerini başlatır. Müdürlük, vekâletnamenin geçerliliğini ve yetki kapsamını kontrol eder.",
+        "Resmî senet düzenlenmesi ve tescil aşamaları tamamlandığında mülkiyet devri gerçekleşmiş olur. İşlem sırasında tapu sicilindeki diğer haklar ve kısıtlamalar da göz önünde bulundurulur."
+      ],
+      "bullets": [
+        "Tapu müdürlüğüne başvuru yapılır.",
+        "Yetki kapsamı kontrol edilir."
+      ]
+    },
+    {
+      "heading": "Hangi haklara dikkat edilmeli?",
+      "paragraphs": [
+        "Taşınmaz satışlarında diğer paydaşların hakları veya ön alım durumları söz konusu olabilir. Satış yapıldıktan sonra bildirim süreçleri ve yasal süreler, ilgili kanun hükümlerine göre işletilir.",
+        "Tapu kütüğünde yer alan şerhler ve kişisel haklar, sonraki maliklere karşı ileri sürülebileceği için devir öncesinde bu kayıtların incelenmesi büyük önem taşır."
+      ],
+      "bullets": [
+        "Paydaş hakları gözetilmelidir.",
+        "Tapu kütüğündeki şerhler incelenmelidir."
+      ]
+    },
+    {
+      "heading": "Süreci ne aksatır?",
+      "paragraphs": [
+        "Eksik evrak veya vekâletnamede yetki sınırının belirsiz olması, tapudaki işlemlerin durmasına yol açabilir. Bu tür aksaklıkları önlemek için belgelerin eksiksiz hazırlanması şarttır.",
+        "İşlemlerin hızla sonuçlanması için tapu memurunun isteyeceği belgelerin önceden tamamlanmış olması gerekir."
+      ],
+      "bullets": [
+        "Eksik yetki tanımı süreci uzatır.",
+        "Belge kontrolü titizlikle yapılmalıdır."
+      ]
+    }
+  ],
+  "steps": [
+    "Notere giderek tapu satış yetkisi içeren vekâletname düzenletin.",
+    "Vekâletnamede taşınmazın bilgilerini ve vekilin kimlik detaylarını net olarak belirtin.",
+    "İlgili tapu müdürlüğüne gerekli belgelerle birlikte başvuru yapın.",
+    "Tapu memurunun incelemesinin ardından resmî senet imzalanarak tescil aşamasını tamamlayın."
+  ],
+  "documents": [
+    "Noter onaylı vekâletname",
+    "Tapu senedi",
+    "Tarafların kimlik belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "Vekâletname olmadan başkası benim yerime tapuda satış yapabilir mi?",
+      "a": "Hayır, tapuda mülk devri için ya bizzat bulunmanız ya da usulüne uygun düzenlenmiş noter onaylı bir vekâletnameniz olması gerekir."
+    },
+    {
+      "q": "Vekâletnamenin süresi var mıdır?",
+      "a": "Noter tarafından düzenlenen vekâletnamede aksi belirtilmemişse geçerliliğini korur ancak azil durumunda yetki derhal sona erer."
+    },
+    {
+      "q": "Yurtdışındayken tapu vekâletnamesi nasıl çıkarılır?",
+      "a": "Bulunduğunuz ülkedeki Türk konsoloslukları aracılığıyla tapu işlemine uygun vekâletname düzenletebilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tapu-devri-nasil-yapilir",
+  "angle": "Vekâletle satış",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

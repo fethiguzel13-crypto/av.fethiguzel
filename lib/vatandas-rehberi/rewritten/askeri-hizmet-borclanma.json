@@ -1,0 +1,114 @@
+{
+  "slug": "askeri-hizmet-borclanma",
+  "title": "Askerlik borçlanması nasıl yapılır — Vatandaş Rehberi | Av. Fethi Güze",
+  "description": "Askerlik borçlanması nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
+  "h1": "Askerlik borçlanması nasıl yapılır?",
+  "keywords": [
+    "askerlik borçlanması",
+    "SGK askerlik borçlanma"
+  ],
+  "category": "Sosyal Güvenlik",
+  "related": [
+    "emeklilik-sartlari",
+    "sgk-hizmet-dokumu",
+    "issizlik-maasi-sartlari"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/emeklilik-sartlari"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=bor%C3%A7lanma"
+    }
+  ],
+  "lead": "Askerlik borçlanması, er veya erbaş olarak silah altında ya da yedek subay, yedek astsubay okulunda geçen süreleri emeklilik hesabına dahil etmek için yapılan yasal bir başvurudur. **Yazılı talepte bulunmanız** ve belirlenen prime esas kazanç sınırları arasında kalmanız gerekir.",
+  "keyInsight": "Borçlanma tutarı **başvuru tarihindeki** günlük kazanç sınırlarına göre hesaplanır ve ödeme yapılmadıkça prim gününe yansıtılmaz.",
+  "sections": [
+    {
+      "heading": "Kimler askerlik borçlanması yapabilir?",
+      "paragraphs": [
+        "Askerlik görevini er veya erbaş olarak silah altında tamamlayanlar ile yedek subay veya yedek astsubay okulunda eğitim görenler bu haktan yararlanabilir. Kanun, bu sürelerin borçlanılmasına açıkça imkan tanır.",
+        "Geçmişteki hizmet sürelerinizi prim gününe saydırmak istiyorsanız bu yola başvurabilirsiniz. Süreç tamamen sizin **yazılı talebiniz** ile başlar."
+      ],
+      "bullets": [
+        "Er ve erbaşlar",
+        "Yedek subay adayları",
+        "Yedek astsubay adayları"
+      ]
+    },
+    {
+      "heading": "Başvuru nasıl yapılır?",
+      "paragraphs": [
+        "Askerlik borçlanması için kuruma bizzat gitmeden dijital kanalları kullanabilirsiniz. e-Devlet üzerinden SGK başvuru ekranına girerek **gerekli formu doldurmanız** yeterlidir.",
+        "Başvurunuz alındıktan sonra ilgili süreler incelenir ve tarafınıza ödenecek miktar hesaplanır. Hesaplama yapılırken kanunun belirlediği alt ve üst kazanç sınırları esas alınır."
+      ],
+      "bullets": [
+        "e-Devlet üzerinden başvuru",
+        "Kurum incelemesi",
+        "Tutarın tebliği"
+      ]
+    },
+    {
+      "heading": "Prim tutarı nasıl ödenir?",
+      "paragraphs": [
+        "Hesaplanan borç tutarını öğrendikten sonra ödeme aşamasına geçersiniz. Belirtilen **ödeme süresi içinde** parayı yatırmanız şarttır.",
+        "Ödeme tamamlanmadığı sürece borçlanılan günler hizmet dökümünüze işlenmez. Paranın yatırılmasıyla birlikte sigorta kolundaki prim gün sayınız artar."
+      ],
+      "bullets": [
+        "Tebliğ edilen tutarı inceleme",
+        "Süresinde ödeme yapma"
+      ]
+    },
+    {
+      "heading": "Emekliliğe etkisi nedir?",
+      "paragraphs": [
+        "Borçlanma yapmak tek başına emeklilik hakkı kazandırmayabilir; prim gün sayınızı artırır. Emeklilik şartlarınıza doğrudan etki edip etmediğini **hizmet dökümünüzle** birlikte değerlendirmelisiniz.",
+        "Sürelerin sisteme işlenip işlenmediğini ödeme sonrasında mutlaka kontrol edin. Eksik kalan bir evrak veya aksayan bir onay süreci hak kaybına yol açabilir."
+      ],
+      "bullets": [
+        "Prim gün artışı",
+        "Hizmet dökümü kontrolü"
+      ]
+    }
+  ],
+  "steps": [
+    "e-Devlet veya SGK üzerinden borçlanma başvuru formunu açın.",
+    "Askerlik sürenizi ve kimlik bilgilerinizi sisteme girerek talebi iletin.",
+    "Kurumun hesaplayacağı prim tutarını ve ödeme tebliğini bekleyin.",
+    "Tahakkuk eden tutarı belirtilen süre içinde eksiksiz ödeyin.",
+    "Ödemenin ardından hizmet dökümünüzden günlerin işlendiğini kontrol edin."
+  ],
+  "documents": [
+    "askerlik belgesi",
+    "borçlanma tahakkuk fişi",
+    "ödeme dekontu",
+    "hizmet dökümü"
+  ],
+  "faq": [
+    {
+      "q": "Her askerlik süresi borçlanılabilir mi?",
+      "a": "Kanunda belirtilen er, erbaş ile yedek subay ve yedek astsubay okulunda geçen süreler borçlandırılabilir."
+    },
+    {
+      "q": "Ödeme yapmazsam borçlanma geçerli olur mu?",
+      "a": "Hayır. Tahakkuk eden tutar ödenmediği sürece borçlanılan süreler hizmet günlerinize eklenmez."
+    },
+    {
+      "q": "Borçlanma tutarı neye göre belirlenir?",
+      "a": "Talep tarihinde yürürlükte olan prime esas günlük kazanç alt ve üst sınırları arasında sizin belirleyeceğiniz tutara göre hesaplanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "emeklilik-sartlari",
+  "angle": "Askerlik borçlanma",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

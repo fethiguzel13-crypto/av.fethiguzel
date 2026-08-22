@@ -1,0 +1,112 @@
+{
+  "slug": "marka-tescil",
+  "title": "Marka tescili — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Marka tescili hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata dan…",
+  "h1": "Marka tescili",
+  "keywords": [
+    "marka tescili",
+    "marka tescil"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "sirket-kurulusu",
+    "haksiz-rekabet-nedir",
+    "tuketici-hakem-heyeti"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/sirket-kurulusu"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=marka"
+    },
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-isletme"
+    }
+  ],
+  "lead": "Marka tescili için başvuru yaparken sürecin nasıl işleyeceğini ve resmi adımları bilmek hak kaybını önler.",
+  "keyInsight": "Resmi sicil işlemlerinde ve başvurularda kanuni şartlara eksiksiz uymak zorunludur.",
+  "sections": [
+    {
+      "heading": "Başvuru ve sicil adımları nasıl başlar?",
+      "paragraphs": [
+        "Ticari hayatta hak sahibi olabilmek için ilgili sicil işlemlerinin usulüne uygun yürütülmesi gerekir. Yapılacak başvurularda kanuni şekil şartlarına dikkat edilmelidir.",
+        "Eksik veya yanlış yapılan işlemler süreç boyunca hak kayıplarına yol açabilir. Bu nedenle adımların sırasıyla takip edilmesi büyük önem taşır."
+      ],
+      "bullets": [
+        "Usulüne uygun başvuru",
+        "Gerekli belgelerin tam sunulması"
+      ]
+    },
+    {
+      "heading": "Hangi belgeler ve şartlar aranır?",
+      "paragraphs": [
+        "İşlemlerin geçerli sayılması için **yazılı şekil** ve yetkili makamlara bildirim şarttır. İlgili kurumlarca istenen evrakların eksiksiz sunulması sürecin hızlanmasını sağlar.",
+        "Gerçek veya tüzel kişilerin unvan ve kimlik bilgileri doğru şekilde beyan edilmelidir."
+      ],
+      "bullets": [
+        "Kimlik ve yetki belgeleri",
+        "Yazılı başvuru dilekçesi"
+      ]
+    },
+    {
+      "heading": "Süreci yürütürken nelere dikkat edilmeli?",
+      "paragraphs": [
+        "Yapılacak her türlü tescil veya sicil işleminde ilgili **mevzuat hükümlerine** birebir uyulması gerekir. İtiraz veya eksiklik bildirimlerinde kurum tarafından verilen talimatlar izlenmelidir.",
+        "Sürecin takibi için yetkili birimlerle iletişimde kalmakta fayda vardır."
+      ],
+      "bullets": [
+        "Kurum talimatlarının takibi",
+        "Zamanında bildirim"
+      ]
+    },
+    {
+      "heading": "İşlemler tamamlanınca ne olur?",
+      "paragraphs": [
+        "Tescil işleminin tamamlanmasıyla birlikte ilgili haklar resmiyet kazanır. Bu aşamadan sonra üçüncü kişilere karşı yasal koruma elde edilmiş olur.",
+        "İşlemin sonuçlandığı resmi olarak ilan edilir ve sicile kaydedilir."
+      ],
+      "bullets": [
+        "Resmi sicil kaydı",
+        "Yasal koruma başlangıcı"
+      ]
+    }
+  ],
+  "steps": [
+    "Başvuru için gerekli resmi evrakları hazırlayın.",
+    "İlgili sicil müdürlüğüne yazılı talepte bulunun.",
+    "Kurumun yaptığı inceleme sonucunu bekleyin.",
+    "Eksiklik varsa yasal süresi içinde tamamlayın.",
+    "Tescil işleminin tamamlanmasını takip edin."
+  ],
+  "documents": [
+    "Başvuru dilekçesi",
+    "Kimlik veya sicil belgeleri",
+    "Yetkiyi gösteren imza sirküleri",
+    "Kurum tarafından istenen ek formlar"
+  ],
+  "faq": [
+    {
+      "q": "Başvuru sırasında hangi şartlar aranır?",
+      "a": "İlgili mevzuatta belirtilen yazılı şekil şartlarına uyulması ve kimlik ile yetki belgelerinin eksiksiz sunulması gerekir."
+    },
+    {
+      "q": "Eksik evrak verilirse ne olur?",
+      "a": "Kurum eksikliklerin tamamlanması için bildirimde bulunur; eksiklerin giderilmesi süreci devam ettirir."
+    },
+    {
+      "q": "Tescil işlemi ne zaman kesinleşir?",
+      "a": "İlgili sicile resmi olarak kaydedilip ilan edildikten sonra işlem tamamlanmış olur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "sirket-kurulusu",
+  "angle": "Marka tescili",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

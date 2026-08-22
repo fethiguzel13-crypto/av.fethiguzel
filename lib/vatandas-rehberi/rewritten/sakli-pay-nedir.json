@@ -1,0 +1,115 @@
+{
+  "slug": "sakli-pay-nedir",
+  "title": "Saklı pay nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Saklı pay nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
+  "h1": "Saklı pay nedir?",
+  "keywords": [
+    "saklı pay nedir",
+    "saklı pay oranları"
+  ],
+  "category": "Miras",
+  "related": [
+    "veraset-ilami-nasil-alinir",
+    "miras-payi-nasil-hesaplanir",
+    "vasiyetname-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/veraset-ilami-nasil-alinir"
+    },
+    {
+      "label": "Miras",
+      "href": "/kategori/miras-hukuku"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/sakli-pay"
+    }
+  ],
+  "lead": "Saklı pay, miras bırakanın vasiyetnameyle bile dokunamayacağı, en yakın akrabalarına kanunen ayrılmış olan güvenli miras payıdır. Bu paya tecavüz edilirse, hak sahipleri mahkeme kapısını çalarak durumu düzelttirebilir.",
+  "keyInsight": "Saklı pay tüm mirasa değil, sadece kanunun koruma altına aldığı özel oranlara ilişkindir ve kardeşlerin bu hakkı yoktur.",
+  "sections": [
+    {
+      "heading": "Kimlerin saklı payı bulunur?",
+      "paragraphs": [
+        "Miras masasının başına oturdunuz ve vasiyetnameye bakıyorsunuz. Her dilediğinizi evdekilere dağıtamazsınız çünkü kanun bazı akrabaları özel olarak korur.",
+        "Çocuklarınız, anne ve babanız ile **sağ kalan eş** bu koruma çemberinin içindedir. Kardeşlerinizin ise bu kanuni korumadan yararlanma hakkı bulunmaz."
+      ],
+      "bullets": [
+        "Altsoy (çocuklar ve torunlar)",
+        "Ana ve baba",
+        "Eş"
+      ]
+    },
+    {
+      "heading": "Oranlar nasıl hesaplanır?",
+      "paragraphs": [
+        "Hesap yaparken önce yasal miras payına bakılır ve bunun üzerinden belirli oranlar düşülür. Çocuklar ve eş için **yasal payın yarısı** saklı pay olarak ayrılır.",
+        "Anne ve baba için ise bu oran yasal payın dörtte biridir. Vasiyetname bu oranların üzerine taşarsa tehlike çanları çalar."
+      ],
+      "bullets": [
+        "Çocuklar için yasal payın yarısı",
+        "Eş için yasal payın yarısı",
+        "Ana baba için yasal payın dörtte biri"
+      ]
+    },
+    {
+      "heading": "Sınırı aşan tasarruflar ne olur?",
+      "paragraphs": [
+        "Miras bırakan tüm malını bir arkadaşına ya da derneğe bağışlamış olabilir. Bu durum tamamen geçersiz sayılmaz ancak **saklı payı aşan** kısımlar için tehlike doğurur.",
+        "Sınırı aşan kısımlar oranında indirim yapılması istenir. Amaç mirasçının elini tamamen boş bırakmamaktır."
+      ],
+      "bullets": [
+        "Tasarrufların tamamı iptal edilmez",
+        "Sadece aşan kısım indirime tabidir"
+      ]
+    },
+    {
+      "heading": "Hangi adımlar izlenmelidir?",
+      "paragraphs": [
+        "Öncelikle kimin hangi oranda hak sahibi olduğu netleştirilir. Ardından yapılan kazandırmalar ve vasiyetname masaya yatırılır.",
+        "Eğer saklı payınız ihlal edildiyse, süreci başlatmak için gerekli dava yolları değerlendirilir ve **tapu iptali** veya alacak talebi gündeme gelir."
+      ],
+      "bullets": [
+        "Hak sahiplerini belirleme",
+        "Kazandırmaları toplama",
+        "Dava yolunu seçme"
+      ]
+    }
+  ],
+  "steps": [
+    "Saklı paylıları yazın: altsoy, ana-baba, eş.",
+    "Yasal payın yarısı veya dörtte biri oranını uygulayın.",
+    "Vasiyet ve sağlararası kazandırmaları toplayın.",
+    "Saklı pay zedelenmişse tenkis davası süresini hesaplayın.",
+    "Paylaşım veya tapu iptal talebini buna göre seçin."
+  ],
+  "documents": [
+    "veraset ilamı",
+    "vasiyet",
+    "bağış / satış evrakı",
+    "mal listesi"
+  ],
+  "faq": [
+    {
+      "q": "Kardeşlerin saklı payı var mı?",
+      "a": "Hayır, kardeşlerin saklı pay hakkı bulunmamaktadır."
+    },
+    {
+      "q": "Vasiyetname saklı payı tamamen yok edebilir mi?",
+      "a": "Edemez, saklı payı aşan kısımlar tenkis yoluyla indirilir."
+    },
+    {
+      "q": "Eşin saklı pay oranı nedir?",
+      "a": "Eşin saklı payı, yasal miras payının yarısıdır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "veraset-ilami-nasil-alinir",
+  "angle": "Saklı pay",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "e-devlet-sifresi-alma",
+  "title": "e-Devlet şifresi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "e-Devlet şifresi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
+  "h1": "e-Devlet şifresi",
+  "keywords": [
+    "e-devlet şifresi",
+    "e devlet sifresi alma"
+  ],
+  "category": "Nüfus",
+  "related": [
+    "e-devlet-nufus",
+    "e-devlet-icra",
+    "e-devlet-vergi-borcu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/e-devlet-nufus"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=e-Devlet"
+    },
+    {
+      "label": "NHK",
+      "href": "/kategori/nhk"
+    }
+  ],
+  "lead": "Gece yarısı önemli bir belgeye lazımsınız ama e-Devlet kapısının anahtarını unuttunuz. Telaş etmeyin, bu anahtarı yeniden almak birkaç adımda çözülür.",
+  "keyInsight": "Şifrenizi yenilerken **kimliğiniz yanınızda** olmalı ve başvuru adımlarını eksiksiz takip etmelisiniz.",
+  "sections": [
+    {
+      "heading": "Kapıya nasıl varılır?",
+      "paragraphs": [
+        "Bilgisayarınızın başındasınız, ekranda kilitli bir kapı duruyor. Resmi işlemlerinizi yürütmek için sisteme girmek istiyorsunuz ancak şifre hafızanızdan uçtu.",
+        "İlk yapacağınız şey en yakın **şahsen başvuru** noktasına gitmek veya dijital kanalları denemektir. Süreç gözünüzü korkutmasın, kural oldukça basittir."
+      ],
+      "bullets": [
+        "Kimlik belgenizi hazırlayın",
+        "Yetkili kuruma başvurun"
+      ]
+    },
+    {
+      "heading": "Hangi kapıyı çalmalı?",
+      "paragraphs": [
+        "Her kurum bu anahtarı size vermez. Yetkili mercilerin kapısını çalmak zaman kazandırır.",
+        "Yanlış bir yere giderseniz boşuna yorulursunuz. Doğrudan yetkili birime yönelmeniz işinizi hızlandırır."
+      ],
+      "bullets": [
+        "Merkezi kurumlar",
+        "Yetkili birimler"
+      ]
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "Görevlinin karşısına geçtiğinizde eliniz boş olmamalı. Kimliğiniz sizin en geçerli imzanızdır.",
+        "Eksik evrakla giderseniz masadan geri dönersiniz."
+      ],
+      "bullets": [
+        "Fotoğraflı kimlik",
+        "Doğru bilgiler"
+      ]
+    },
+    {
+      "heading": "İlk giriş ve sonrasında ne olur?",
+      "paragraphs": [
+        "Geçici anahtarı cebinize koyduğunuz gibi sisteme koşun. İlk açılışta sizden kalıcı bir kilit belirlemeniz istenir.",
+        "Bu aşamada **güçlü bir şifre** seçmek kişisel verilerinizin güvenliği için şarttır."
+      ],
+      "bullets": [
+        "Geçici şifreyi girin",
+        "Yeni şifre belirleyin"
+      ]
+    }
+  ],
+  "steps": [
+    "Geçerli kimlik belgenizi alın",
+    "Yetkili başvuru noktasına gidin",
+    "Başvuru formunu doldurun",
+    "Geçici şifrenizi teslim alın",
+    "Sisteme ilk girişi yapıp şifrenizi değiştirin"
+  ],
+  "documents": [
+    "Nüfus cüzdanı",
+    "T.C. kimlik kartı",
+    "Pasaport",
+    "Ehliyet"
+  ],
+  "faq": [
+    {
+      "q": "Şifremi unuttum, eve en yakın nereden alabilirim?",
+      "a": "Yetkili kurumlara şahsen başvurarak yeni şifrenizi alabilirsiniz."
+    },
+    {
+      "q": "Başkasının şifresini alabilir miyim?",
+      "a": "İşlem bizzat şahsın kendisine yapılır, başkası adına şifre verilmez."
+    },
+    {
+      "q": "İlk girişte ne yapmalıyım?",
+      "a": "Geçici şifre ile giriş yaptıktan sonra kendinizin belirleyeceği gizli şifre ile yenileme yapmalısınız."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "e-devlet-nufus",
+  "angle": "e-Devlet şifresi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

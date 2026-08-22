@@ -1,0 +1,104 @@
+{
+  "slug": "hmk-nedir",
+  "title": "HMK nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "HMK nedir hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "HMK nedir",
+  "keywords": [
+    "hmk nedir",
+    "hmk nedir"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "kanun-maddesi-nasil-okunur",
+    "hukuk-davasi-nasil-acilir",
+    "istinaf-nedir",
+    "mevzuat-nasil-aranir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kanun-maddesi-nasil-okunur"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=HMK"
+    }
+  ],
+  "lead": "Mahkemede hak ararken uyulacak kuralları belirleyen Hukuk Muhakemeleri Kanunu, dava sürecinin nasıl ilerleyeceğini gösteren temel rehberdir. Dilekçe yazımından duruşma düzenine kadar her adım bu kurallara göre atılır.",
+  "keyInsight": "Usul kurallarına uymamak, haklı bile olsanız davanın **teknik bir nedenle** reddedilmesine yol açabilir.",
+  "sections": [
+    {
+      "heading": "Mahkeme kapısına kadar uzanan yol",
+      "paragraphs": [
+        "Elinde bir alacak senediyle veya çözülemeyen bir anlaşmazlıkla mahkemenin yolunu tutan bir vatandaş hayal edin. Kapıdan içeri girmeden önce, hangi mahkemeye gideceğinizi ve derdinizi resmi olarak nasıl anlatacağınızı bilmeniz gerekir. İşte HMK tam olarak bu noktada devreye girer.",
+        "Bu kanun, tarafların hak ararken birbirine ve hakime karşı uyması gereken kuralları belirler. Amaç, kimsenin kafasına göre yargılama yapamaması, her şeyin **adil ve düzenli** bir sırayla yürümesidir."
+      ],
+      "bullets": [
+        "Yazılı kurallara dayanan sistem",
+        "Hakim ve taraflar için ortak dil"
+      ]
+    },
+    {
+      "heading": "Dava nasıl açılır ve neyle başlar",
+      "paragraphs": [
+        "Her şey düzgün yazılmış bir dilekçeyle başlar. Derdinizi, ne istediğinizi ve elinizdeki delilleri kağıda dökersiniz. Kanun, bu dilekçede nelerin yer alması gerektiğini açıkça söyler ki karşı taraf da kendini doğru dürüst savunabilsin.",
+        "Dilekçe karşı tarafa ulaştığında onların da cevap vermesi için **belirli bir süre** başlar. Taraflar iddialarını ve savunmalarını bu aşamada ortaya döker."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Deliller ve ispat yükü kime düşer",
+      "paragraphs": [
+        "Mahkemede laf söylemek tek başına yetmez. \"Alacağım var\" diyenin bunu kanıtlaması gerekir. Sözleşmeler, senetler, tanıklar veya bilirkişi incelemeleri bu aşamada konuşur.",
+        "Hakim, kafasına göre \"şu delili kabul ediyorum\" diyemez. Kanun, hangi delilin nasıl toplanacağını ve değerlendirileceğini keskin çizgilerle çizer."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Duruşmalar ve karar anı nasıl gelişir",
+      "paragraphs": [
+        "Yazılı aşamalar bittikten sonra duruşma salonunda yüz yüze görüşmeler başlar. Hakim tarafları dinler, eksik kalan noktaları sorar. Bu süreç sonsuza kadar sürmez; kanun davaların makul sürede bitmesi için usuller öngörür.",
+        "Süreç tamamlandığında hakim kararını açıklar. Kararın çıkmasıyla her şey bitmez, gerekçeli kararın yazılması ve **kanun yolu** denilen üst mahkeme aşamaları gündeme gelebilir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Uyuşmazlık konusunu ve talebinizi net şekilde belirleyin",
+    "İddianızı destekleyecek belgeleri bir araya getirin",
+    "Usulüne uygun bir dava dilekçesi hazırlayın",
+    "Yetkili ve görevli mahkemeye başvurarak harçları yatırın",
+    "Tebligatları ve sonraki duruşma günlerini düzenli takip edin"
+  ],
+  "documents": [
+    "Dava dilekçesi",
+    "Kimlik fotokopisi",
+    "Delil ve belgeler",
+    "Vekaletname"
+  ],
+  "faq": [
+    {
+      "q": "HMK mahkemede nasıl bir rol oynar?",
+      "a": "Davanın açılmasından karara kadar geçen tüm adımların hangi kurallara göre atılacağını belirler."
+    },
+    {
+      "q": "Usul kurallarına uymazsam ne olur?",
+      "a": "Haklı olduğunuz bir davada bile sırf şekil şartları eksik olduğu için ret kararıyla karşılaşabilirsiniz."
+    },
+    {
+      "q": "Her dava aynı şekilde mi görülür?",
+      "a": "Temel ilkeler aynıdır ancak uyuşmazlığın türüne göre basit veya yazılı yargılama usulleri uygulanabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kanun-maddesi-nasil-okunur",
+  "angle": "HMK nedir",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

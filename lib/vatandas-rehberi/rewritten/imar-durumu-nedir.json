@@ -1,0 +1,116 @@
+{
+  "slug": "imar-durumu-nedir",
+  "title": "İmar durumu — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İmar durumu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "İmar durumu",
+  "keywords": [
+    "imar durumu",
+    "imar durumu nedir"
+  ],
+  "category": "İmar",
+  "related": [
+    "kentsel-donusum-nedir",
+    "iskan-belgesi-nedir",
+    "kacak-yapi-cezasi",
+    "tapu-devri-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kentsel-donusum-nedir"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    },
+    {
+      "label": "Belediye",
+      "href": "/kategori/belediye"
+    }
+  ],
+  "lead": "Bir taşınmazın imar durumu, o arsaya nelerin inşa edilebileceğini, yüksekliğini ve sınırlarını gösteren temel belgedir. Bu durum, belediyelerin yetkisinde hazırlanan planlara göre belirlenir ve hak sahiplerinin haklarını doğrudan etkiler.",
+  "keyInsight": "Belediyeler, arsa sahiplerinin izni aranmaksızın parselleri yeniden düzenleyebilir ve bu süreçte düzenleme ortaklık payı kesintisi yapabilir.",
+  "sections": [
+    {
+      "heading": "Parseller nasıl bir araya getirilir?",
+      "paragraphs": [
+        "Belediye sınırları içindeki arsa ve araziler, sahiplerinin rızası aranmaksızın birleştirilebilir veya imar planına uygun adalara ayrılabilir. Dağıtım sırasında, nüfusun kentsel faaliyetlerini sürdürmesi için gerekli umumi hizmet alanları için kesinti yapılabilir.",
+        "Bu kesinti, düzenlemeye giren arsaların önceki yüzölçümlerinin belirli bir oranını aşamaz. Oluşan bu alanlar yol, meydan, park, otopark, ibadet yeri ve benzeri kamu hizmetleri için ayrılır ve başka amaçla kullanılamaz."
+      ],
+      "bullets": [
+        "Maliklerin rızası aranmaz",
+        "Oran sınırı uygulanır",
+        "Kamu hizmetine tahsis edilir"
+      ]
+    },
+    {
+      "heading": "Kamu hizmetine ayrılan yerler nasıl çözülür?",
+      "paragraphs": [
+        "Uygulama imar planında umumi hizmetlere ayrılan özel mülkiyetteki taşınmazlar için farklı yöntemler izlenir. Arazi düzenlemesi yapılması, kamuya ait taşınmazların kullanılması veya imar hakkı aktarımı gibi yollar devreye girer.",
+        "Aktarım yapılırken alıcı ve verici parsellerin değerleri tespit edilir ve bu işlemler belirli kurallara göre yürütülür."
+      ],
+      "bullets": [
+        "Arazi düzenlemesi yapılır",
+        "İmar hakkı aktarımı uygulanır",
+        "Değer tespiti şarttır"
+      ]
+    },
+    {
+      "heading": "Kamu yatırımlarında ruhsat nasıl alınır?",
+      "paragraphs": [
+        "Kamu kurumlarınca yapılacak yapılara, imar planında o maksada tahsis edilmiş olmak ve mevzuata aykırı olmamak kaydıyla ruhsat verilir. Fenni mesuliyet ilgili kurumlarca üstlenilir.",
+        "Devletin güvenliği ve askerî yapılar gibi gizlilik arz eden durumlarda ise belediyeden alınan imar durumuna uyularak projeler kurumlarca tasdik edilir."
+      ],
+      "bullets": [
+        "Plan tahsisi aranır",
+        "Fenni mesuliyet üstlenilir",
+        "Avan projeye göre ruhsat çıkar"
+      ]
+    },
+    {
+      "heading": "Ortak alanlarda değişiklik yapmanın kuralı nedir?",
+      "paragraphs": [
+        "Kat malikleri anagayrimenkulün bakımına ve mimari durumuna uymak zorundadır. Ortak yerlerde yapılacak inşaat ve onarımlar için belirli bir çoğunluğun yazılı rızası gerekir.",
+        "Ancak acil onarım veya güçlendirme zorunluluğunun mahkemece tespit edilmesi halinde bu rıza aranmaz."
+      ],
+      "bullets": [
+        "Mimari koruma esastır",
+        "Yazılı rıza aranır",
+        "Mahkeme tespiti istisnadır"
+      ]
+    }
+  ],
+  "steps": [
+    "İlgili belediyeye başvurarak taşınmazın imar durumunu öğrenin.",
+    "Arsanızın imar planındaki tahsis amacını ve yapılaşma koşullarını inceleyin.",
+    "Düzenleme ortaklık payı ve kesinti oranlarını kontrol edin.",
+    "Kamu yatırımı veya ortak alan değişikliği yapacaksanız gerekli rıza ve onay süreçlerini tamamlayın."
+  ],
+  "documents": [
+    "Tapu belgesi",
+    "İmar durumu belgesi",
+    "Avan proje",
+    "Mahkeme tespit kararı"
+  ],
+  "faq": [
+    {
+      "q": "İmar durumu nedir?",
+      "a": "Bir arsanın imar planındaki sınırlarını, kullanım amacını ve yapılaşma şartlarını gösteren resmi bilgidir."
+    },
+    {
+      "q": "Düzenleme ortaklık payı nedir?",
+      "a": "Belediyelerin imar düzenlemesi sırasında, bölgenin kamu hizmet alanlarını karşılamak amacıyla arsa yüzölçümünden yaptığı kesintidir."
+    },
+    {
+      "q": "Ortak alanlarda tadilat için izin şart mı?",
+      "a": "Kat maliklerinin rızası olmadan ortak yerlerde inşaat veya onarım yapılamaz; acil hallerde mahkeme tespiti gerekir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kentsel-donusum-nedir",
+  "angle": "İmar durumu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

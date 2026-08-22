@@ -1,0 +1,100 @@
+{
+  "slug": "bagimsiz-bolum-nedir",
+  "title": "Bağımsız bölüm — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Bağımsız bölüm hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata da…",
+  "h1": "Bağımsız bölüm",
+  "keywords": [
+    "bağımsız bölüm",
+    "bagimsiz bolum nedir"
+  ],
+  "category": "Eşya",
+  "related": [
+    "kat-mulkiyeti-aidat",
+    "kat-irtifaki-nedir",
+    "tapu-devri-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kat-mulkiyeti-aidat"
+    },
+    {
+      "label": "Kat mülkiyeti",
+      "href": "/kategori/katmulkiyeti"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=ba%C4%9F%C4%B1ms%C4%B1z"
+    }
+  ],
+  "lead": "Bağımsız bölüm, bir binanın içinde tek başına kullanılmaya elverişli olan daire, dükkan veya depo gibi yerleri ifade eder. Bu alanlar, tapu kütüğünde kendine ait özel bir sayfada kayıt altına alınır.",
+  "keyInsight": "Bir yerin bağımsız bölüm sayılabilmesi için sadece fiziksel olarak ayrı olması yetmez, mutlaka kat mülkiyeti kütüğüne tescil edilmiş olması gerekir.",
+  "sections": [
+    {
+      "heading": "Bağımsız bölüm tam olarak nedir?",
+      "paragraphs": [
+        "Bir apartmanı düşünün. Dışarıdan bakınca tek bir bina gibi görünür ancak içindeki her bir daire hukuk önünde ayrı bir dünya gibidir. İşte bu daireler, dükkanlar veya ofisler, başlı başına kullanılmaya elverişli oldukları için bağımsız bölüm olarak adlandırılır.",
+        "Bu bölümler sadece fiziksel bir duvarla ayrılmaz; aynı zamanda hukuk düzeninde de kendi mülkiyet haklarına sahiptir. Bir bağımsız bölümün varlığı, onun kat mülkiyeti kütüğünde ayrı bir sayfa olarak yer almasıyla kesinleşir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Nasıl bağımsız bölüm haline gelir?",
+      "paragraphs": [
+        "Bir yapının parçalarının bağımsız bölüme dönüşmesi kendiliğinden olmaz. Bunun için **resmî senet düzenlenmesi** ve ardından bu işlemin tapu siciline tescil edilmesi şarttır.",
+        "Binanın tamamı üzerinde kat mülkiyeti kurulmadan, sadece tek bir daire için bağımsız bölüm statüsü yaratamazsınız. Önce binanın hukuki statüsünün kat mülkiyetine çevrilmesi gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Resmi belgeler neden önemlidir?",
+      "paragraphs": [
+        "Sürecin merkezinde mimari proje ve yapı kullanma izin belgesi yer alır. Bu belgeler, binanızın hangi kısmının bağımsız bölüm, hangi kısmının ortak alan olduğunu net bir şekilde belirler.",
+        "Eğer birden fazla bağımsız bölümü birleştirip tek bir yer haline getirmek isterseniz, bu durumun da projeye yansıtılması ve **değişiklik projesinin tapuya sunulması** zorunludur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yönetim planının rolü nedir?",
+      "paragraphs": [
+        "Bağımsız bölümlerin nasıl kullanılacağı ve binanın genel düzeni yönetim planı ile belirlenir. Bu belge, binayı kimin nasıl kullanacağını ve ortak alanların sınırlarını çizen temel kurallar bütünüdür.",
+        "Kat mülkiyeti kurulurken, maliklerin imzasıyla hazırlanan bu yönetim planı tapu dairesine teslim edilmelidir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Binanızın mimari projesini ve yapı kullanma izin belgesini temin edin.",
+    "Kat mülkiyeti kurulması için tüm maliklerin veya paydaşların katılımıyla tapu dairesine başvuruda bulunun.",
+    "Bağımsız bölümlerin ölçülerini, konumlarını ve arsa paylarını gösteren projeyi onaylatın.",
+    "Yönetim planınızı hazırlayıp tüm maliklerin imzasıyla dosyaya ekleyin.",
+    "Tapu memurunun düzenleyeceği resmî senetle tescil işlemini tamamlayın."
+  ],
+  "documents": [
+    "Yetkili kurumca onaylanmış mimari proje",
+    "Yapı kullanma izin belgesi",
+    "Yönetim planı",
+    "Kat mülkiyeti tescili için düzenlenen resmî senet"
+  ],
+  "faq": [
+    {
+      "q": "Her daire otomatik olarak bağımsız bölüm müdür?",
+      "a": "Hayır, bir yerin bağımsız bölüm sayılması için tapu kütüğüne tescil edilmiş olması gerekir."
+    },
+    {
+      "q": "Bağımsız bölümü başkasıyla birleştirebilir miyim?",
+      "a": "Evet, ancak bunun için mimari projede değişiklik yapılması ve bu değişikliğin tapuya tescil edilmesi gerekir."
+    },
+    {
+      "q": "Yönetim planı olmadan bağımsız bölüm kurulur mu?",
+      "a": "Hayır, kat mülkiyetinin kurulması için yönetim planının tapu idaresine sunulması şarttır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kat-mulkiyeti-aidat",
+  "angle": "Bağımsız bölüm",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

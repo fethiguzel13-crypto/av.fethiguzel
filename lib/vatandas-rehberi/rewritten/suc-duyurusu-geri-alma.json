@@ -1,0 +1,111 @@
+{
+  "slug": "suc-duyurusu-geri-alma",
+  "title": "Şikâyet geri alınabilir mi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Şikâyet geri alınabilir mi? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
+  "h1": "Şikâyet geri alınabilir mi?",
+  "keywords": [
+    "şikayet geri alma",
+    "suç duyurusu vazgeçme"
+  ],
+  "category": "Ceza",
+  "related": [
+    "savcilik-suc-duyurusu",
+    "sikayet-suresi-ceza",
+    "uzlastirma-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/savcilik-suc-duyurusu"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    },
+    {
+      "label": "TCK",
+      "href": "/kategori/tck-genel"
+    }
+  ],
+  "lead": "Bir suç duyurusunda bulunduktan sonra fikriniz değişebilir ancak bu adımdan dönmenin sonuçlarını bilmeniz gerekir. Şikayetten vazgeçme durumunda **kamu davasının düşmesi** veya sürecin seyri dikkatle incelenmelidir.",
+  "keyInsight": "Şikayetten vazgeçme, daha önce ödenen adlî para cezasının veya el konulan malların kendiliğinden geri alınmasını **kesinlikle sağlamaz**.",
+  "sections": [
+    {
+      "heading": "Kararınızı verdiğiniz an ne değişir?",
+      "paragraphs": [
+        "Adliyeye gidip attığınız adımı geri almak istediğinizde, dosyanın hangi aşamada olduğu önem kazanır. Kimi zaman bu irade beyanı davanın düşmesine yol açarken, kimi zaman yargılama farklı kurallara göre devam eder.",
+        "Unutmayın ki şikayetten vazgeçmek, geçmişte yerine getirilen mali yükümlülükleri ortadan kaldırmaz."
+      ],
+      "bullets": [
+        "Genel af veya şikayetten vazgeçme ödenen paraları geri getirmez.",
+        "Şahsi haklar ve tazminat talepleri bu süreçten ayrı tutulur."
+      ]
+    },
+    {
+      "heading": "Zararın giderilmesi ve denetim adımları",
+      "paragraphs": [
+        "Yargılama sonucunda verilen kararlarda mağdurun uğradığı zararın karşılanması temel bir şarttır. Hükmün açıklanmasının geri bırakılması gibi durumlarda, **zararın tamamen giderilmesi** şartı aranır.",
+        "Mahkeme tarafından belirlenen denetim süresi içinde yükümlülüklerin yerine getirilmesi, dosyanın hukuki akıbetini doğrudan etkiler."
+      ],
+      "bullets": [
+        "Zararın aynen iadesi veya tazmini esastır.",
+        "Denetim süresince sanık kurallara uymak zorundadır."
+      ]
+    },
+    {
+      "heading": "Eşyaların durumu ve iade süreçleri",
+      "paragraphs": [
+        "Soruşturma veya kovuşturma sırasında el konulan eşyaların saklanmasına artık gerek kalmadığında iade süreci gündeme gelir. Bu aşamada savcılık ya da mahkeme tarafından **eşyanın iadesine** karar verilebilir.",
+        "Eşyanın değerini kaybetme tehlikesi varsa, hükmün kesinleşmesi beklenmeden elden çıkarma tedbirleri de alınabilir."
+      ],
+      "bullets": [
+        "Muhafazasına gerek kalmayan eşyalar sahibine verilir.",
+        "Zarar görme tehlikesi olan mallar için tedbir alınır."
+      ]
+    },
+    {
+      "heading": "Yabancı ülkede işlenen suçlar ve şikayet",
+      "paragraphs": [
+        "Uluslararası unsur taşıyan dosyalarda süreç daha farklı işletilir. Bir yabancının Türkiye'nin zararına işlediği suçlarda **şikayet şartı** aranabilir.",
+        "Bu gibi durumlarda Adalet Bakanlığı'nın istemi ve ilgili kanun maddelerindeki şartların gerçekleşmesi yargılamanın başlaması için ana unsurdur."
+      ],
+      "bullets": [
+        "Vatandaşın zararına işlenen suçlarda mağdurun şikayeti aranır.",
+        "Bakanlık istemi bazı suçlar için zorunludur."
+      ]
+    }
+  ],
+  "steps": [
+    "Dosyanın hangi mercide olduğunu öğrenin.",
+    "Şikayetten vazgeçme iradenizi yazılı olarak ilgili makama bildirin.",
+    "El konulan eşya veya haklarınız varsa iade talebinde bulunun.",
+    "Mevcut zararların tazmini için gerekli hukuki adımları takip edin."
+  ],
+  "documents": [
+    "Şikayetten vazgeçme dilekçesi",
+    "Kimlik belgesi",
+    "Eşya iade talep dilekçesi",
+    "Zarar tespiti veya tazminat belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "Şikayetten vazgeçersem para cezası geri ödenir mi?",
+      "a": "Hayır, şikayetten vazgeçme önceden ödenen adlî para cezalarının geri alınmasını gerektirmez."
+    },
+    {
+      "q": "El konulan eşyalarımı nasıl geri alabilirim?",
+      "a": "Eşyanın muhafazasına gerek kalmadığı anlaşıldığında savcılık veya mahkeme kararıyla eşya sahibine iade edilir."
+    },
+    {
+      "q": "Yabancı bir ülkede işlenen suç için şikayet şart mı?",
+      "a": "Türk vatandaşının zararına işlenen suçlarda mağdurun şikayeti üzerine fail yargılanabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "savcilik-suc-duyurusu",
+  "angle": "Vazgeçme",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

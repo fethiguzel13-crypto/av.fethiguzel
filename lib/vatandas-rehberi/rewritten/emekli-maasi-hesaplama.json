@@ -1,0 +1,114 @@
+{
+  "slug": "emekli-maasi-hesaplama",
+  "title": "Emekli Maaşı Nasıl Hesaplanır?",
+  "description": "Emekli maaşı kabaca nasıl hesaplanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
+  "h1": "Emekli maaşı kabaca nasıl hesaplanır?",
+  "keywords": [
+    "emekli maaşı hesaplama",
+    "emekli aylığı ne kadar"
+  ],
+  "category": "Sosyal Güvenlik",
+  "related": [
+    "emeklilik-sartlari",
+    "sgk-hizmet-dokumu",
+    "askeri-hizmet-borclanma"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/emeklilik-sartlari"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    },
+    {
+      "label": "Hesaplama",
+      "href": "/hesaplama"
+    }
+  ],
+  "lead": "Emekli maaşı hesaplanırken temel olarak ne kadar prim ödendiğiniz ve kazançlarınızın brüt toplamı dikkate alınır. Süreç, resmi müracaatınızın ardından ilgili dönemin başından itibaren işletilir.",
+  "keyInsight": "Aylık hesaplanırken temel alınan prime esas kazançlarda, istisna tutulan ödemeler dışındaki her türlü brüt kazanç ve prim ödemesi hesaba dahil edilir.",
+  "sections": [
+    {
+      "heading": "Kazançlar Nasıl Toplanır?",
+      "paragraphs": [
+        "Çalışırken elinize geçen her ödeme emekli maaşınızı doğrudan etkilemez. Hak edilen ücretler, primler ve ikramiyeler brüt toplamı üzerinden **prime esas kazanç** olarak hesaba yansıtılır.",
+        "Yol, yemek veya aile yardımı gibi bazı istisnai ödemeler belirli şartlar ve oranlar dahilinde bu hesabın dışında tutulur."
+      ],
+      "bullets": [
+        "Brüt ücretler ve ikramiyeler",
+        "Özel sağlık ve bireysel emeklilik katkıları",
+        "Yasal istisnalar dışındaki ödemeler"
+      ]
+    },
+    {
+      "heading": "Görev Unvanına Göre Belirleme",
+      "paragraphs": [
+        "Cumhurbaşkanı, Türkiye Büyük Millet Meclisi Başkanı veya Başbakan gibi görevlerden ayrılanlar için yaşlılık aylığı hesaplanırken özel gösterge rakamları ve memur aylık katsayısı kullanılır.",
+        "Bu kişilerin genel hükümlere göre hak kazandığı aylıklar ile gösterge üzerinden hesaplanan tutarlar karşılaştırılır ve **yüksek olan miktar** tercih edilir."
+      ],
+      "bullets": [
+        "Gösterge rakamları ve katsayı çarpımı",
+        "Yüksek olan aylığın bağlanması",
+        "Farkların Hazine tarafından karşılanması"
+      ]
+    },
+    {
+      "heading": "Malûllük Durumunda Hesaplama",
+      "paragraphs": [
+        "Çalışma gücünü kaybedenler için malûllük aylığı hesaplanırken toplam prim gün sayısı esas alınır. Belirli prim gün sınırlarının altında kalanlar için **asgari gün sayısı** üzerinden işlem yapılır.",
+        "Başkasının sürekli bakımına muhtaç olan sigortalıların hesaplanan aylık bağlama oranına ek artışlar uygulanır."
+      ],
+      "bullets": [
+        "Prim gün sayısının tespiti",
+        "Bakım muhtaçlığı durumunda oran artışı",
+        "Yazılı istek tarihini takip eden ay başı"
+      ]
+    },
+    {
+      "heading": "Müracaat ve Başlangıç Zamanı",
+      "paragraphs": [
+        "Aylık bağlanması için kurumca aranan şartların sağlanmasının ardından yazılı olarak başvuruda bulunulması gerekir.",
+        "İşlemler tamamlandığında **müracaat tarihini takip eden ay başından** itibaren ödemeler hak sahibine bağlanır."
+      ],
+      "bullets": [
+        "Yazılı başvuru şartı",
+        "Takip eden ay başı başlangıcı"
+      ]
+    }
+  ],
+  "steps": [
+    "Çalışma sürenize ve prim günlerinize ilişkin kayıtları kontrol edin.",
+    "Prime esas kazançlarınızı ve brüt ödemelerinizi listeleyin.",
+    "Durumunuza uygun yaşlılık veya malûllük şartlarını inceleyin.",
+    "Kuruma yazılı talep dilekçenizi iletin.",
+    "Müracaat tarihini takip eden dönemi bekleyin."
+  ],
+  "documents": [
+    "Yazılı emeklilik başvuru dilekçesi",
+    "Prime esas kazanç dökümünü gösteren belgeler",
+    "Malûllük durumunda sağlık kurulu raporu"
+  ],
+  "faq": [
+    {
+      "q": "Hangi ödemeler prime esas kazanca dahil edilir?",
+      "a": "Hak edilen brüt ücretler, ikramiyeler ve kanuni istisnalar dışındaki her türlü nakdi ödeme kazanca dahil edilir."
+    },
+    {
+      "q": "Aylık ne zaman ödenmeye başlar?",
+      "a": "Yazılı müracaat tarihini takip eden ay başından itibaren yaşlılık veya malûllük aylığı ödenmeye başlar."
+    },
+    {
+      "q": "Bakıma muhtaç olanların aylığı nasıl değişir?",
+      "a": "Sürekli bakımına muhtaç olduğu tespit edilen sigortalıların aylık bağlama oranına ilave puan eklenir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "emeklilik-sartlari",
+  "angle": "Maaş hesabı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

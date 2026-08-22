@@ -1,0 +1,101 @@
+{
+  "slug": "rehinli-alacak",
+  "title": "Rehinli alacaklı icrada ne yapar — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Rehinli alacaklı icrada ne yapar? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
+  "h1": "Rehinli alacaklı icrada ne yapar?",
+  "keywords": [
+    "rehinli alacak",
+    "ipotekli alacak icra"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "ipotek-nedir",
+    "rehin-nedir",
+    "sira-cetveli"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    }
+  ],
+  "lead": "Rehinli bir alacaklıysanız, icra sürecinde önceliğiniz elinizdeki teminatın paraya çevrilmesidir. Borçlu iflas etse bile, rehinli mal üzerindeki rüçhan hakkınız korunur.",
+  "keyInsight": "Rehinli malın satışından elde edilen bedel alacağınızı karşılamazsa, kalan tutar için 'rehin açığı belgesi' alarak borçlunun diğer mal varlığına haciz uygulayabilirsiniz.",
+  "sections": [
+    {
+      "heading": "Rehinli mal masaya girdiğinde ne olur?",
+      "paragraphs": [
+        "Borçlunun iflas etmesi durumunda, rehinli mallarınız da iflas masasına dahil edilir. Ancak bu, hakkınızın kaybolduğu anlamına gelmez; aksine, mallar en uygun zamanda satılarak satış masrafları düşülür ve alacağınız size öncelikli olarak ödenir.",
+        "İflas idaresi malları satarken sizin rüçhan hakkınızı gözetmek zorundadır. Eğer isterseniz, iflas sürecinden bağımsız olarak rehnin paraya çevrilmesi yoluyla takibinize devam etme hakkınız **her zaman saklıdır**."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kıymet takdirine itiraz edebilir misiniz?",
+      "paragraphs": [
+        "Konkordato gibi süreçlerde komiser, rehinli malların bir defterini tutar ve değerlerini belirler. Bu değerleme kararı size yazılı olarak bildirilir.",
+        "Eğer belirlenen değerin hatalı olduğunu düşünüyorsanız, kararın size bildirilmesinden itibaren **yedi gün içinde** mahkemeye başvurarak yeniden kıymet takdiri yapılmasını talep edebilirsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Satış bedeli alacağınızı karşılamazsa ne yapmalı?",
+      "paragraphs": [
+        "Rehinli mal satıldığında elde edilen para alacağınızı tamamen karşılamıyorsa veya mal hiç satılamıyorsa, eliniz boş kalmaz. Bu durumda size bir 'rehin açığı belgesi' düzenlenir.",
+        "Bu belge, aslında borçlunun size olan borcunu kabul ettiğini gösteren bir senet gibidir. Bu belge sayesinde, artık sadece rehinli malla sınırlı kalmadan borçlunun diğer mallarına haciz koydurabilirsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreci nasıl yönetmelisiniz?",
+      "paragraphs": [
+        "Rehin açığı belgesini aldıktan sonra, satış tarihinden itibaren **bir sene içinde** haciz yoluyla takip başlatmanız gerekir. Bu süreyi kaçırmamanız, yeni bir ödeme emriyle uğraşmadan doğrudan takibe geçebilmeniz için kritiktir.",
+        "İflas idaresinin veya icra dairesinin işlemlerinde hak kaybına uğradığınızı düşünürseniz, icra mahkemesine şikâyet hakkınızı kullanabilirsiniz."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Rehinli malın kıymet takdiri raporunu dikkatle inceleyin.",
+    "Değerleme hatalıysa yedi gün içinde mahkemeye itiraz edin.",
+    "Malın satışını icra dairesi aracılığıyla takip edin.",
+    "Alacağınız karşılanmazsa rehin açığı belgesini talep edin.",
+    "Belgeyi aldıktan sonra bir yıl içinde haciz talebinde bulunun."
+  ],
+  "documents": [
+    "Rehin sözleşmesi",
+    "Kıymet takdir raporu",
+    "İcra takip dosyası",
+    "Rehin açığı belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Rehinli mal iflas masasına girince hakkım kaybolur mu?",
+      "a": "Hayır, rehinli alacaklı olarak rüçhan hakkınız saklıdır; malın satış bedelinden öncelikli pay alırsınız."
+    },
+    {
+      "q": "Rehin açığı belgesi ne işe yarar?",
+      "a": "Rehinli maldan tahsil edilemeyen alacaklarınız için borçlunun diğer malvarlığına haciz yoluyla gitmenizi sağlar."
+    },
+    {
+      "q": "Kıymet takdirine itiraz süresi ne kadardır?",
+      "a": "Kıymet takdiri kararının size bildirilmesinden itibaren yedi gün içinde mahkemeye başvurmanız gerekir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Rehinli alacak sırası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

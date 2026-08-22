@@ -1,0 +1,114 @@
+{
+  "slug": "hukuki-islem-nedir",
+  "title": "Hukuki işlem — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Hukuki işlem hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
+  "h1": "Hukuki işlem",
+  "keywords": [
+    "hukuki işlem",
+    "hukuki islem nedir"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "temerrut-faizi-nedir",
+    "hile-ile-sozlesme",
+    "gabin-nedir",
+    "tbk-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/temerrut-faizi-nedir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "TMK",
+      "href": "/mevzuat/tmk/madde-1"
+    }
+  ],
+  "lead": "Günlük yaşamda imzaladığınız bir sözleşme, bir yakınınıza verdiğiniz vekâletname veya tapuda yaptığınız tescil başvurusu doğrudan bir hukuki işlemdir. Hukuki işlem, tarafların kendi özgür iradeleriyle hukuki bir sonuç doğurmak amacıyla gerçekleştirdikleri beyan ve davranışlardan oluşur. Karşılaşabileceğiniz hak kayıplarını engellemek için işlemin kanundaki sınır ve şartlara uygun kurulması gerekir.",
+  "keyInsight": "Hukuki işlemlerde en büyük risk, yetkisiz temsilcilerle hareket etmek veya sözleşmeye hukuka ve ahlaka aykırı şartlar ekleyerek işlemi baştan geçersiz kılmaktır.",
+  "sections": [
+    {
+      "heading": "Hukuki işlem hangi esaslara göre değerlendirilir?",
+      "paragraphs": [
+        "Bir borç ilişkisine girerken veya bir taşınmaz devralırken attığınız imzalar kanun önünde bir irade açıklamasıdır. Kanun, önüne gelen bir uyuşmazlıkta öncelikle kendi lafzına ve ruhuna bakarak olayı değerlendirir. Eğer somut olaya uygulanacak açık bir kanun hükmü bulunmuyorsa, hâkim durumu çözmek adına **örf ve âdet hukukuna** başvurur; burada da bir kural yoksa kendisi kanun koyucu olsaydı nasıl bir kural koyacak idiyse ona göre karar verir.",
+        "Yargılama veya değerlendirme sürecinde hâkimlerin bilimsel görüşlerden ve geçmiş yargı kararlarından yararlanması esastır. Bu nedenle tarafı olduğunuz bir işlemin geçerliliği incelenirken dürüstlük ve kanuni sınırlar esas alınır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İmzanızı bir başkası atıyorsa süreç nasıl işler?",
+      "paragraphs": [
+        "İş hayatında veya kişisel işlerinizde her an bizzat bulunamayabilirsiniz. Bir yetkili veya temsilci aracılığıyla yapılan hukuki işlemlerin sonuçları **doğrudan doğruya sizi bağlar**. Ancak temsilcinin bu hukuki sonucu doğurabilmesi için işlemi sizin adınıza ve hesabınıza yaptığını karşı tarafa açıkça bildirmesi gerekir.",
+        "Temsilci bu sıfatını gizler veya bildirmezse, yapılan işlemin borç ve alacakları kural olarak temsilcinin kendi üzerinde kalır. Ancak karşı taraf durumun gidişatından bir temsil ilişkisi olduğunu anlıyorsa veya işlemi kiminle yaptığının kendisi için önemi yoksa, işlem yine doğrudan sizin adınıza sonuç doğurur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Verdiğiniz temsil yetkisini geri alabilir misiniz?",
+      "paragraphs": [
+        "Bir kişiye adınıza hareket etmesi için yetki verdiğinizde bu durum sonsuza kadar sürmez. Temsil olunan kişi olarak verdiğiniz yetkiyi dilediğiniz zaman sınırlayabilir veya tamamen **geri alabilirsiniz**. Kanun, kişinin bu yetkiyi geri alma hakkından önceden feragat edemeyeceğini açıkça belirtir.",
+        "Fakat burada dikkat etmeniz gereken çok önemli bir iyiniyet kuralı mevcuttur. Eğer yetki verdiğinizi daha önce üçüncü kişilere bildirdiyseniz, bu yetkiyi geri aldığınızı da onlara duyurmanız gerekir. Aksi halde yetkinin sona erdiğini **iyiniyetli üçüncü kişilere** karşı ileri süremezsiniz ve onların yapacağı işlemlerden sorumlu tutulabilirsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Sözleşmeye eklenen her şart kanunen geçerli midir?",
+      "paragraphs": [
+        "Tarafların kendi aralarında anlaştığı her madde doğrudan geçerli bir sözleşme hükmü haline gelmez. Kanun, tarafların irade özgürlüğüne sınır getirerek kamu düzenini korur. Yapılan bir şart, hukuka veya ahlaka aykırı bir eylemi yapma veya yapmama amacıyla konulmuşsa, bu koşula bağlı hukuki işlem **kesin olarak hükümsüzdür**.",
+        "Hukuka ve ahlaka aykırı şart içeren düzenlemeler baştan itibaren geçersiz sayıldığı için taraflara borç veya hak yükleyemez. Sözleşme kurarken borçlanılan fiillerin meşru çerçevede kalması bu yüzden şarttır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Tapu ve kat mülkiyeti kütüğünde işlemler nasıl yapılır?",
+      "paragraphs": [
+        "Taşınmaz devri veya kat mülkiyeti kurulması gibi hukuki işlemler resmi kütük kayıtlarıyla geçerlilik kazanır. Kat mülkiyetine konu olan bağımsız bölümler kütüğe kaydedilirken genel tapu hükümleri uygulanır. Tapu idaresine yapılan tescil istemleri, kimlik bilgileri ve talebin konusu belirtilerek **derhâl yevmiye defterine** yazılır.",
+        "Eğer işlem konusu taşınmaz birden fazla bölge sınırında kalıyorsa, tescil başvurusu ve tescil işlemleri taşınmazın **büyük kısmının bulunduğu bölgede** yürütülür. Yapılan işlem diğer bölgedeki tapu idarelerine bildirilerek kayıtlar tamamlanır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Temsilci tayin edeceğiniz durumlarda verilen yetkinin sınırlarını ve kapsamını yazılı olarak netleştirin.",
+    "Sözleşmelerde yer alan şartların hukuka veya ahlaka aykırı edimler içermediğini kontrol edin.",
+    "Sona erdirdiğiniz veya sınırladığınız temsil yetkilerini, durumdan haberdar olan üçüncü kişilere derhâl bildirin.",
+    "Tapu kütüğü tescil başvurularında kimlik ve dayanak belgeleri tamamlayarak yevmiye defteri kaydını kontrol edin.",
+    "Birden fazla bölgede yer alan taşınmazlar için tescil istemini taşınmazın büyük kısmının bulunduğu yerdeki tapu idaresine sunun."
+  ],
+  "documents": [
+    "Temsil yetkisini ve sınırlarını gösteren vekâletname veya temsil belgesi",
+    "İşleme temel oluşturan yazılı sözleşme metni ve ekleri",
+    "Başvuruda bulunan taraflara ait resmi kimlik belgeleri",
+    "Tapu kütüğü tescil talebine ilişkin başvuru evrakı ve dayanak belgeleri",
+    "Temsil yetkisinin geri alındığını veya sınırlandığını gösteren ihtarname veya bildirim yazısı"
+  ],
+  "faq": [
+    {
+      "q": "Temsilci adıma işlem yaparken temsilci olduğunu belirtmezse ne olur?",
+      "a": "Temsilci bu sıfatını açıklamazsa yapılan işlemin hukuki sonuçları kural olarak temsilcinin kendi üzerinde kalır. Ancak karşı taraf temsil ilişkisini biliyor veya bilmesi gerekiyorsa işlem doğrudan sizin adınıza sonuç doğurur."
+    },
+    {
+      "q": "Verdiğim vekâlet veya temsil yetkisini geri alma hakkımdan vazgeçebilir miyim?",
+      "a": "Hayır, temsil olunan kişi temsil yetkisini her zaman sınırlayabilir veya geri alabilir. Kanun gereği bu haktan önceden feragat edilmesi mümkün değildir."
+    },
+    {
+      "q": "Ahlaka veya hukuka aykırı koşul içeren sözleşmeler geçerli midir?",
+      "a": "Hukuka veya ahlaka aykırı bir yapma veya yapmama fiilini sağlamak amacıyla konulan koşullara bağlı hukuki işlemler kesin olarak hükümsüzdür."
+    },
+    {
+      "q": "Birden fazla bölge sınırında kalan taşınmazın tapu tescili nerede yapılır?",
+      "a": "İstem ve tescil işlemleri taşınmazın büyük kısmının bulunduğu bölgedeki tapu idaresinde yapılır ve yapılan tescil diğer bölgedeki tapu idarelerine bildirilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "temerrut-faizi-nedir",
+  "angle": "Hukuki işlem",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

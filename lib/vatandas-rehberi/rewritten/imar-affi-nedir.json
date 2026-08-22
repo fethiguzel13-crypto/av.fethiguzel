@@ -1,0 +1,112 @@
+{
+  "slug": "imar-affi-nedir",
+  "title": "İmar affı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İmar affı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "İmar affı",
+  "keywords": [
+    "imar affı",
+    "imar affi nedir"
+  ],
+  "category": "İmar",
+  "related": [
+    "kentsel-donusum-nedir",
+    "imar-barişi-nedir",
+    "kacak-yapi-cezasi",
+    "iskan-belgesi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kentsel-donusum-nedir"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=imar"
+    }
+  ],
+  "lead": "İmar affı, kurallara aykırı yapılmış binalar için devlet eliyle çözüm aranan süreçtir. Elinizdeki binanın yasaya uygun hale getirilmesi için resmi adımları izlemeniz gerekir.",
+  "keyInsight": "Resmi metinlerde doğrudan yapı kayıt belgesi adı altında güncel bir imar affı düzenlemesi bulunmadığından, belediye ve tapu işlemlerini yürürlükteki mevzuata göre takip etmelisiniz.",
+  "sections": [
+    {
+      "heading": "Planlar ve belediye programları nasıl işler?",
+      "paragraphs": [
+        "Belediyeler, imar planlarının çıkmasından sonra beş yıllık imar programları hazırlamak zorundadır. Bu programlar belediye meclisinde kabul edilerek kesinleşir.",
+        "Program içinde umumi hizmetlere ayrılan yerler ilgili kuruluşlar tarafından kamulaştırılır. **Kamulaştırma** yapılana kadar gayrimenkul üzerindeki haklarınız devam eder."
+      ],
+      "bullets": [
+        "Belediye meclisi kararı şarttır.",
+        "Kamulaştırma süresi beklenir."
+      ]
+    },
+    {
+      "heading": "Kamu arazisindeki yapılar ne olur?",
+      "paragraphs": [
+        "İmar planlarında meydan, yol veya park gibi umumi hizmetlere ayrılan Hazine arazilerindeki yapılar için özel kurallar geçerlidir. Arsa bedeli hariç **yalnız binanın** kıymeti ödenir.",
+        "Bu şekilde edinilen araziler başka bir amaçla satılamaz. Durum tapu kütüğünün beyanlar hanesine işlenir."
+      ],
+      "bullets": [
+        "Hazine arazileri devredilebilir.",
+        "Tapuya şerh düşülür."
+      ]
+    },
+    {
+      "heading": "Tüzel kişiliği değişen yerlerde imar durumu",
+      "paragraphs": [
+        "Belediye veya köylerin tüzel kişiliğinin kaldırılması durumunda tüm hak ve borçlar katıldığı belediyeye geçer. Bu süreçte yeni nazım planı yapılmaz.",
+        "Mevcut planlardaki değişiklikler **katılınacak belediyenin** uygun görüşüyle yapılır. Onaysız değişiklik yapılamaz."
+      ],
+      "bullets": [
+        "Borçlar ve haklar devrolur.",
+        "Uygun görüş alınması zorunludur."
+      ]
+    },
+    {
+      "heading": "Kat mülkiyeti nasıl kurulur?",
+      "paragraphs": [
+        "Kat mülkiyeti resmi senetle ve tapu siciline tescil ile başlar. İşlem için mimari proje ve yapı kullanma izin belgesi gerekir.",
+        "Yapı kullanma izin belgesi alınan binalarda cins değişikliği işlemleri **resen** yapılır ve tapuya bildirilir."
+      ],
+      "bullets": [
+        "Resmi senet düzenlenir.",
+        "Tapu tescili yapılır."
+      ]
+    }
+  ],
+  "steps": [
+    "Belediyenin imar planı ve programlarını inceleyin.",
+    "Yapınızın bulunduğu arasanın mülkiyet durumunu tespit edin.",
+    "Gerekli mimari proje ve belgeleri hazırlayın.",
+    "Tapu müdürlüğüne tescil için başvuru yapın."
+  ],
+  "documents": [
+    "Mimari proje",
+    "Yapı kullanma izin belgesi",
+    "Yönetim planı",
+    "Tapu senedi"
+  ],
+  "faq": [
+    {
+      "q": "İmar planı değişirse haklarım kaybolur mu?",
+      "a": "Kamulaştırma yapılana veya projeler gerçekleşene kadar mevcut haklarınız devam eder."
+    },
+    {
+      "q": "Kamu arazisindeki bina için ne ödenir?",
+      "a": "Arsa bedeli hariç yalnızca binanın halihazır kıymeti için takdir edilecek bedel ödenir."
+    },
+    {
+      "q": "Kat mülkiyeti hangi belgelere dayanarak kurulur?",
+      "a": "Proje müellifi mimar tarafından yapılan onaylı mimari proje ve yapı kullanma izin belgesi gereklidir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kentsel-donusum-nedir",
+  "angle": "İmar affı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

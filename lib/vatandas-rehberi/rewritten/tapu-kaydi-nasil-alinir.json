@@ -1,0 +1,117 @@
+{
+  "slug": "tapu-kaydi-nasil-alinir",
+  "title": "Tapu kaydı nasıl sorgulanır — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Tapu kaydı nasıl sorgulanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
+  "h1": "Tapu kaydı nasıl sorgulanır?",
+  "keywords": [
+    "tapu kaydı sorgulama",
+    "e-devlet tapu",
+    "TAKBİS"
+  ],
+  "category": "Eşya",
+  "related": [
+    "tapu-devri-nasil-yapilir",
+    "emlak-vergisi-nedir",
+    "dask-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tapu-devri-nasil-yapilir"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=tapu"
+    }
+  ],
+  "lead": "Ev alacaksınız ya da miras kalan bir arsayı merak ediyorsunuz. Taşınmazın kime ait olduğunu ve üzerindeki hakları öğrenmek için tapu siciline bakmanız gerekir.",
+  "keyInsight": "Tapu sicili herkese açık değildir; ilgili olduğunu inandırabilen herkes bilgi isteyebilir.",
+  "sections": [
+    {
+      "heading": "Tapu kaydına kimler bakabilir?",
+      "paragraphs": [
+        "Bir taşınmazın tapu kütüğündeki sayfayı incelemek herkesin harcı değildir. **İlgisini inanılır kılan** herkes, tapu memurunun önünde bu bilgileri görmeyi talep edebilir.",
+        "Kimse tapu sicilindeki bir kaydı bilmediğini öne süremez. Bu nedenle gayrimenkul işlemlerinde kayıtların ne durumda olduğunu baştan incelemek büyük önem taşır."
+      ],
+      "bullets": [
+        "Sicil herkese açık değildir",
+        "İlgi kanıtlanmalıdır",
+        "Memur önünde inceleme yapılır"
+      ]
+    },
+    {
+      "heading": "Kat mülkiyeti kurulunca ne değişir?",
+      "paragraphs": [
+        "Tapu memuru belgelerin tamam ve usulüne uygun olduğunu görünce resmi sözleşmeyi düzenler. Bu işlem doğrudan tescil istemi sayılır.",
+        "Mülkiyet kat mülkiyetine döndüğünde ana sayfa kapatılır ve her bağımsız bölüm ayrı bir sayfaya kaydedilir. Böylece kütükler arasında doğrudan bir bağlantı kurulur."
+      ],
+      "bullets": [
+        "Resmi sözleşme düzenlenir",
+        "Bağımsız sayfa açılır",
+        "Kütükler bağlanır"
+      ]
+    },
+    {
+      "heading": "Kat irtifakı nasıl sona erer?",
+      "paragraphs": [
+        "Arsa malikleri yazılı beyanla kat irtifakını her zaman sildirebilir. Ayrıca arsa tamamen yok olursa veya yapı yapılamayacak hale gelirse bu hak kendiliğinden biter.",
+        "Planlanan yapı süresinde yapılmazsa sulh hakiminden karar istenebilir. **Hakim kararıyla** kayıt silinebilir veya süre uzatılabilir."
+      ],
+      "bullets": [
+        "Yazılı beyan verilebilir",
+        "Yapı yapılmazsa dava açılır",
+        "Hakim kararı aranır"
+      ]
+    },
+    {
+      "heading": "Bina harap olursa sorumluluk kimdedir?",
+      "paragraphs": [
+        "Anayapının tamamı veya bir kısmı harap olursa durum yönetici veya ilgili malik tarafından tapuya bildirilmelidir. Bu bildirim yapılmazsa zarardan malikler sorumlu tutulur.",
+        "Kat mülkiyeti sona erince sayfalar kapatılır ve arsa payları oranında genel kütüğe yeniden tescil yapılır."
+      ],
+      "bullets": [
+        "Tapuya derhal bildirilmelidir",
+        "Zarar sorumluluğu doğar",
+        "Genel kütüğe dönülür"
+      ]
+    }
+  ],
+  "steps": [
+    "Tapu müdürlüğüne veya ilgili sisteme başvurun",
+    "Taşınmazla ilişkinizi somut belgelerle kanıtlayın",
+    "Tapu memurundan ilgili sayfanın gösterilmesini isteyin",
+    "Gerekli örneklerin ve belgelerin verilmesini talep edin",
+    "Kat mülkiyeti veya irtifakı işlemlerini takip edin"
+  ],
+  "documents": [
+    "Dilekçe",
+    "Tapu senedi veya numara bilgisi",
+    "İlgiyi kanıtlayan belgeler",
+    "Tasdikli plan örneği"
+  ],
+  "faq": [
+    {
+      "q": "Her isteyen herkesin tapu kaydını görebilir mi?",
+      "a": "Hayır, sadece **ilgisini inanılır kılan** kişiler tapu memuru önünde kayıtları inceleyebilir veya örnek alabilir."
+    },
+    {
+      "q": "Kat irtifakı süresinde yapılmazsa ne olur?",
+      "a": "Planlanan süre içinde yapı yapılmazsa maliklerden birinin istemi üzerine sulh hakimi karar verir."
+    },
+    {
+      "q": "Bina yıkılırsa tapu kaydı silinir mi?",
+      "a": "Harap olma durumunda kat mülkiyeti biter, sayfalar kapatılır ve arsa payına göre genel kütüğe tescil yapılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tapu-devri-nasil-yapilir",
+  "angle": "Kayıt sorgu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

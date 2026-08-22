@@ -1,0 +1,117 @@
+{
+  "slug": "e-devlet-ceza-sorgulama",
+  "title": "e-Devlet ceza sorgulama — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "e-Devlet ceza sorgulama hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
+  "h1": "e-Devlet ceza sorgulama",
+  "keywords": [
+    "e-devlet ceza sorgulama",
+    "e devlet ceza sorgulama"
+  ],
+  "category": "Ceza",
+  "related": [
+    "tutuklama-nedir",
+    "adli-sicil-kaydi",
+    "trafik-cezasina-itiraz",
+    "e-devlet-icra"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tutuklama-nedir"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=ceza"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    }
+  ],
+  "lead": "Ekran karşısında adınıza kayıtlı bir dosya olup olmadığını merak ediyor, güncel durumu hızla öğrenmek istiyorsunuz. e-Devlet kapısı üzerinden adli sicil ve dava dosyası sorgulamalarını güvenle yapabilirsiniz.",
+  "keyInsight": "Sisteme giriş yaptığınızda karşınıza çıkan bilgilerin doğruluğunu kontrol etmek ve adınıza açılmış olası soruşturma veya dava kayıtlarını eksiksiz görmek en kritik adımdır.",
+  "sections": [
+    {
+      "heading": "Sisteme ilk adım nasıl atılır?",
+      "paragraphs": [
+        "Bilgisayarınızın başında veya telefonunuzun ekranına bakarken tek yapmanız gereken güvenli giriş yöntemlerini kullanmaktır. Kimlik numaranız ve şifrenizle sisteme erişim sağladığınızda arama çubuğunu kullanabilirsiniz.",
+        "Arama alanına ilgili adli sorgulama hizmetini yazarak doğrudan resmi kayıtlara ulaşabilirsiniz. **Hızlı erişim** sayesinde sıra beklemeden **güncel dosya durumunuzu** görüntüleme imkânı elde edersiniz."
+      ],
+      "bullets": [
+        "Şifrenizle güvenli giriş yapın",
+        "Arama çubuğunu kullanın",
+        "Dosya listesini açın"
+      ]
+    },
+    {
+      "heading": "Hangi kayıtlar ekrana gelir?",
+      "paragraphs": [
+        "Sorgulama ekranı açıldığında adınıza düzenlenmiş resmî evraklar ve devam eden süreçler listelenir. Bu aşamada karşınıza çıkan bilgilerin size ait olup olmadığını dikkatle incelemelisiniz.",
+        "Her bir dosyanın hangi makamda görüldüğü ve temel bilgileri bu ekranda yer alır. **Yanlış anlamaları** önlemek için **detayları dikkatle** okumanız gerekebilir."
+      ],
+      "bullets": [
+        "Adli sicil kaydı",
+        "Mahkeme dava dosyaları",
+        "Soruşturma bilgileri"
+      ]
+    },
+    {
+      "heading": "Sonuçlar karşısında ne yapmalı?",
+      "paragraphs": [
+        "Ekranınızda beklenmeyen bir dosya veya uyarı belirdiğinde paniğe kapılmadan adımları takip etmelisiniz. Dosyanın hangi aşamada olduğunu anlamak için ilgili birimlerle iletişim kurmak gerekebilir.",
+        "Resmî kayıtlarda yer alan esas numarası ve ilgili mahkeme bilgisi size rehberlik eder. **Doğru birimi** bulmak sürecin **en önemli parçasıdır**."
+      ],
+      "bullets": [
+        "Esas numarasını not edin",
+        "İlgili mahkemeyi belirleyin",
+        "Dosya detayını inceleyin"
+      ]
+    },
+    {
+      "heading": "Bilgilerin doğruluğu neden önemlidir?",
+      "paragraphs": [
+        "Dijital ortamda yapılan sorgulamalarda verilerin güncelliği hak kayıplarını önler. Adınıza tescilli bilgilerin doğruluğunu periyodik olarak kontrol etmek her zaman faydalıdır.",
+        "Sistem üzerinde yer alan uyarıları dikkate alarak hareket etmek yaşanabilecek aksaklıkların önüne geçer. **Resmî bildirimleri** takip etmek **hukuki güvenlik** sağlar."
+      ],
+      "bullets": [
+        "Periyodik kontrol yapın",
+        "Bildirimleri takip edin",
+        "Güncel verileri inceleyin"
+      ]
+    }
+  ],
+  "steps": [
+    "e-Devlet kapısına resmi adres üzerinden giriş yapın.",
+    "Arama çubuğuna adli dosya veya sicil sorgulama yazın.",
+    "İlgili kurumun hizmet ekranını seçin.",
+    "Listelenen dosyaları ve detayları dikkatle inceleyin.",
+    "Gerekirse dosya esas numarasını kaydedin."
+  ],
+  "documents": [
+    "T.C. Kimlik Kartı",
+    "e-Devlet şifresi",
+    "Adli sicil belgesi çıktısı",
+    "Dosya sorgulama dökümü"
+  ],
+  "faq": [
+    {
+      "q": "e-Devlet üzerinden her cezayı görebilir miyim?",
+      "a": "Sistemde adınıza tescilli ve erişime açılmış olan dava, soruşturma ve sicil kayıtları listelenir."
+    },
+    {
+      "q": "Sorgulama yaparken ücret ödenir mi?",
+      "a": "Sunulan temel bilgilendirme hizmetleri genellikle ücretsiz olarak gerçekleştirilir."
+    },
+    {
+      "q": "Listede yabancı bir dosya görürsem ne yapmalıyım?",
+      "a": "Dosya detayındaki mahkeme kalemi veya ilgili birim ile iletişime geçerek bilgi talep edebilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tutuklama-nedir",
+  "angle": "e-Devlet ceza sorgulama",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

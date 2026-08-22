@@ -1,0 +1,112 @@
+{
+  "slug": "zilyetlik-nedir",
+  "title": "Zilyetlik — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Zilyetlik hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "Zilyetlik",
+  "keywords": [
+    "zilyetlik",
+    "zilyetlik nedir"
+  ],
+  "category": "Eşya",
+  "related": [
+    "izale-i-suyu",
+    "tapu-iptal-tescil",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/izale-i-suyu"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Elindeki eşyayı kullanan veya üzerinde fiilî hâkimiyet kuran herkes zilyet konumundadır. Bu durum mülkiyetten tamamen farklıdır, ancak hak ararken size çok önemli avantajlar sağlar.",
+  "keyInsight": "Zilyetlik bir mülkiyet tapusu değil, **fiilî durumdur** ve haklı göründüğünüz durumlarda sizi hızlıca korur.",
+  "sections": [
+    {
+      "heading": "Fiilî hâkimiyet nasıl başlar?",
+      "paragraphs": [
+        "Sokakta bulduğunuz bir kalemi masanıza koyduğunuzda ya da kiraladığınız daireye taşındığınızda o eşya üzerinde fiilî bir kontrol kurmuş olursunuz. Mülkiyet başkasında olsa bile, o an eşyayı elinde tutan kişi zilyettir.",
+        "Bu durum size eşyayı koruma ve dışarıdan gelen müdahalelere karşı kendi başınıza **savunma hakkı** verir."
+      ],
+      "bullets": [
+        "Eşyayı fiilen elinde bulundurma",
+        "Kullanma ve kontrol etme iradesi"
+      ]
+    },
+    {
+      "heading": "Miras ve zilyetlik ilişkisi nedir?",
+      "paragraphs": [
+        "Mirasbırakan hayata veda ettiğinde, geride kalan mirasçılar sadece tapu veya parayı değil, aynı zamanda o mallar üzerindeki zilyetliği de doğrudan devralırlar.",
+        "Eğer ortada atanmış mirasçılar varsa, yasal mirasçılar onlara düşen kısımları **zilyetlik kurallarına** göre teslim etmek zorundadır."
+      ],
+      "bullets": [
+        "Ölümle birlikte doğrudan geçen haklar",
+        "Mirasçıların teslim yükümlülüğü"
+      ]
+    },
+    {
+      "heading": "Hak sahibi geri isterse ne olur?",
+      "paragraphs": [
+        "Yıllar önce kaybolan bir malın gerçek sahibi ortaya çıktığında veya miras davasında üstün hak sahibi olduğunu kanıtlayan biri kapınızı çaldığında durum değişir.",
+        "Bu aşamada elinizdeki malları **zilyetlik kurallarına** uygun olarak geri vermeniz gerekebilir; durumunuzun iyiniyetli olup olmadığı burada devreye girer."
+      ],
+      "bullets": [
+        "Gaibin veya üstün hak sahibinin ortaya çıkması",
+        "Malları iade etme yükümlülüğü"
+      ]
+    },
+    {
+      "heading": "Kesin hüküm ve zilyetlik",
+      "paragraphs": [
+        "Mahkemede biten bir davanın ardından, dava konusu şey üzerinde sonradan fer’î zilyetlik kazanan kişiler de o karardan etkilenir.",
+        "Ancak kanun, iyiniyetli olarak mal edinen kişilerin haklarını **özel olarak korur** ve mağdur olmalarını engeller."
+      ],
+      "bullets": [
+        "Mahkeme kararlarının zilyede etkileri",
+        "İyiniyetli edinmelerin korunması"
+      ]
+    }
+  ],
+  "steps": [
+    "Eşya üzerindeki fiilî hâkimiyetinizi ve kullanım durumunuzu netleştirin.",
+    "Miras veya devir yoluyla geçtiyse zilyetlik dayanağınızı gözden geçirin.",
+    "Üstün hak sahibi olduğunu söyleyen kişinin iddialarını inceleyin.",
+    "Eşyanın iadesi talep edildiğinde hukuki durumunuza bakın.",
+    "İyiniyet kurallarına uygun şekilde süreci yönetin."
+  ],
+  "documents": [
+    "Mirasçılık belgesi",
+    "Devir veya teslim tutanakları",
+    "Mahkeme ilamı",
+    "Aynî hak veya zilyetlik iddia edenlerin kanıtları"
+  ],
+  "faq": [
+    {
+      "q": "Zilyet olmak mülk sahibi olmakla aynı şey midir?",
+      "a": "Hayır, zilyetlik sadece eşyayı elinde bulundurma ve fiilî hâkimiyet kurma durumudur; tapu veya mülkiyet hakkı içermez."
+    },
+    {
+      "q": "Mirasçılar zilyetliği nasıl kazanır?",
+      "a": "Mirasbırakanın ölümüyle birlikte mirasçılar, taşınır ve taşınmazlar üzerindeki zilyetliği doğrudan doğruya ve kanunen kazanırlar."
+    },
+    {
+      "q": "Hak sahibi çıkagelirse eşyayı hemen vermeli miyim?",
+      "a": "Üstün hak sahibi olduğunu kanıtlayan kişiler karşısında, zilyetlik kuralları çerçevesinde malları geri verme yükümlülüğünüz doğabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "izale-i-suyu",
+  "angle": "Zilyetlik",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

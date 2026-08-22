@@ -1,0 +1,98 @@
+{
+  "slug": "memur-maas-haczi",
+  "title": "Memur maaşına haciz — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Memur maaşına haciz hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
+  "h1": "Memur maaşına haciz",
+  "keywords": [
+    "memur maaşına haciz",
+    "memur maas haczi"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "maas-haczi-orani",
+    "ucret-haczi-nafaka",
+    "haciz-islemleri-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "DMK",
+      "href": "/kategori/dmk"
+    }
+  ],
+  "lead": "Memur maaşına haciz gelmesi, icra dairesinin kurumunuza gönderdiği resmi bir yazı ile başlar. Bu süreçte maaşınızın tamamı değil, yasaların belirlediği oranda bir kısmı kesintiye uğrar.",
+  "keyInsight": "Maaşınızdan yapılacak kesinti tutarı, brüt maaşınızın dörtte birinden az olamaz.",
+  "sections": [
+    {
+      "heading": "Haciz işlemi nasıl başlar?",
+      "paragraphs": [
+        "İcra dairesi, borcunuz için kurumunuza resmi bir tebligat gönderir. Kurumunuzdaki ilgili birim, bu yazıyı aldığı andan itibaren sürece dahil olur.",
+        "Kurumunuz, haciz işlemini uyguladığını ve maaş miktarınızı **bir hafta içinde** icra dairesine bildirmekle yükümlüdür."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Maaşın ne kadarı kesilebilir?",
+      "paragraphs": [
+        "Kanun, borçlunun ve ailesinin geçimini sağlaması için maaşın bir kısmının korunmasını esas alır. İcra memuru, geçim için gerekli olan miktarı belirleyerek geri kalan tutar üzerinde haciz uygular.",
+        "Ancak bu kesinti hiçbir şekilde maaşınızın **dörtte birinden** az olamaz. Kesinti, borcunuz tamamen kapanana kadar her ay düzenli olarak devam eder."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Birden fazla haciz varsa ne olur?",
+      "paragraphs": [
+        "Eğer maaşınız üzerinde birden fazla haciz kararı bulunuyorsa, bu hacizler sıraya konulur. İlk gelen haczin kesintisi bitmeden, ikinci haczin kesintisine başlanamaz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hangi ödemeler haczedilemez?",
+      "paragraphs": [
+        "Bazı özel ödemeler, yasa gereği haciz işleminden muaftır. Özellikle devlet memurlarına ödenen ölüm yardımı ödeneği, borç için hiçbir şekilde haczedilemez.",
+        "Kurumunuz, görev değişikliği veya maaşınızdaki farklılıkları derhal icra dairesine bildirmek zorundadır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İcra dairesinden gelen tebligatı kurumunuzun ilgili birimine teslim edin.",
+    "Maaşınızdan yapılacak kesinti miktarını ve sırasını takip edin.",
+    "Kurumunuzun icra dairesine gerekli bildirimleri yapıp yapmadığını kontrol edin.",
+    "Borcunuzun ödeme durumunu icra dosyası üzerinden düzenli olarak inceleyin."
+  ],
+  "documents": [
+    "İcra dairesinden gelen maaş haciz yazısı",
+    "Maaş bordronuz",
+    "İcra dosyası kapak hesabı"
+  ],
+  "faq": [
+    {
+      "q": "Maaşımın tamamına haciz konulabilir mi?",
+      "a": "Hayır, kanun maaşın sadece belirli bir kısmının haczedilmesine izin verir; tamamına el konulamaz."
+    },
+    {
+      "q": "Haciz kesintisi ne zaman biter?",
+      "a": "Borcunuzun ana para, faiz ve icra masrafları dahil olmak üzere tamamı ödenene kadar kesintiler devam eder."
+    },
+    {
+      "q": "Kurumum kesintiyi icra dairesine göndermezse ne olur?",
+      "a": "Kurumunuz, tebligata rağmen kesintiyi yapıp göndermezse yasal olarak sorumlu hale gelir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Memur maaşına haciz",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

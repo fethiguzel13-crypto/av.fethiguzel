@@ -1,0 +1,114 @@
+{
+  "slug": "engelli-araci-nasil-alinir",
+  "title": "Engelli aracı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Engelli aracı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata dan…",
+  "h1": "Engelli aracı",
+  "keywords": [
+    "engelli aracı",
+    "engelli araci nasil alinir"
+  ],
+  "category": "Engelli Hakları",
+  "related": [
+    "engelli-raporu-nasil-alinir",
+    "emlak-vergisi-nedir",
+    "vergi-borcu-yapislandirma",
+    "evde-bakim-maasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/engelli-raporu-nasil-alinir"
+    },
+    {
+      "label": "ÖTV",
+      "href": "/kategori/otv"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=%C3%96TV"
+    }
+  ],
+  "lead": "Engelli aracı alımı, belirli sağlık kurulu oranları ve Özel Tüketim Vergisi kanunundaki taşıt şartlarına dayanan özel bir haktır. Süreci doğru adımlarla yürütmek vergi istisnasından faydalanmanızı sağlar.",
+  "keyInsight": "Taşıtın cinsi ve engellilik oranı kanunda belirtilen sınırlara uymalıdır; aksi takdirde istisna uygulanmaz.",
+  "sections": [
+    {
+      "heading": "Hangi şartlarda hak doğar?",
+      "paragraphs": [
+        "Araba almak için bayiye gittiniz. Asıl mesele, elinizdeki sağlık raporunun kanundaki oranlara uygun olup olmadığıdır. Engellilik oranı **%90 veya daha fazla** olan malul ve engelliler bu imkandan yararlanabilir.",
+        "Özel Tüketim Vergisi Kanunu'na göre, listelerde yer alan kayıt ve tescile tabi mallar için belirli motor hacmi ve bedel sınırları dikkate alınır. Yanlış araç seçimi vergi avantajını ortadan kaldırabilir."
+      ],
+      "bullets": [
+        "Engellilik oranının tespiti",
+        "Taşıtın motor silindir hacmi",
+        "Liste ve fiyat sınırları"
+      ]
+    },
+    {
+      "heading": "Vergi dairesine başvuru nasıl yapılır?",
+      "paragraphs": [
+        "Raporunuz elinizdeyken vergi dairesinin kapısını çalarsınız. Amaç, kanuni istisnadan **sorunsuz şekilde** yararlanmak için evrak onayı almaktır.",
+        "Memur belgelerinizi inceler ve şartları taşıdığınızı onaylayan yazıyı hazırlar. Bu yazı olmadan trafik tescil adımlarına geçemezsiniz."
+      ],
+      "bullets": [
+        "Evrakların tam sunulması",
+        "Vergi dairesi onayı"
+      ]
+    },
+    {
+      "heading": "Noter ve tescil işlemleri nasıl ilerler?",
+      "paragraphs": [
+        "Vergi dairesi onayından sonra sıra araç alımına ve tapu veya trafik tescil işlemlerine gelir. Satış sözleşmesi ve fatura işlemleri tamamlanır.",
+        "Trafikte tescil aşamasında **gerekli harç ve tescil** işlemleri kanuni düzenlemelere göre yürütülür. Araç artık adınıza kayıtlıdır."
+      ],
+      "bullets": [
+        "Fatura ve sözleşme",
+        "Trafik tescil kaydı"
+      ]
+    },
+    {
+      "heading": "Süreci tıkamamak için nelere dikkat etmeli?",
+      "paragraphs": [
+        "İşlemler sırasında en sık yapılan hata eksik rapor veya yanlış araç sınıfı seçimidir. Kanun maddelerinde yer alan **istisna sınırlarını** baştan incelemek zaman kazandırır.",
+        "Yasal süreçlerin dışına çıkmamak için her adımı **resmî belgelerle** destekleyin ve kurumların yönlendirmelerine sadık kalın."
+      ],
+      "bullets": [
+        "Eksiksiz evrak",
+        "Doğru araç sınıfı"
+      ]
+    }
+  ],
+  "steps": [
+    "Engelli sağlık kurulu raporunu alın ve oranı kontrol edin.",
+    "ÖTV istisnası ve taşıt şartlarını inceleyin.",
+    "Vergi dairesine istisna başvurusu yapın.",
+    "Noter ve satış sözleşmesi işlemlerini tamamlayın.",
+    "Trafik tescil işlemlerini bitirin."
+  ],
+  "documents": [
+    "engelli sağlık kurulu raporu",
+    "kimlik",
+    "vergi dairesi yazısı",
+    "fatura / satış sözleşmesi"
+  ],
+  "faq": [
+    {
+      "q": "Her engelli raporu araç alımında geçerli midir?",
+      "a": "Raporun oranı ve içeriği kanuni düzenlemelere uygun olmalıdır; her oran her araç için aynı istisnayı sağlamaz."
+    },
+    {
+      "q": "Vergi dairesi onayı ne kadar sürer?",
+      "a": "Evraklarınızın eksiksiz olmasına bağlı olarak inceleme süreci tamamlanır ve onay yazısı verilir."
+    },
+    {
+      "q": "Hangi araçlar kapsamdadır?",
+      "a": "Özel Tüketim Vergisi Kanunu'na ekli listelerde yer alan ve belirlenen motor hacmi ile şartları taşıyan araçlar kapsama girer."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "engelli-raporu-nasil-alinir",
+  "angle": "Engelli aracı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

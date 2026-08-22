@@ -1,0 +1,117 @@
+{
+  "slug": "isim-degisikligi-davasi",
+  "title": "İsim değişikliği davası — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İsim değişikliği davası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
+  "h1": "İsim değişikliği davası",
+  "keywords": [
+    "isim değişikliği davası",
+    "isim degisikligi davasi"
+  ],
+  "category": "Nüfus",
+  "related": [
+    "e-devlet-nufus",
+    "soyadi-degisikligi-davasi",
+    "nufus-kayit-ornegi",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/e-devlet-nufus"
+    },
+    {
+      "label": "NHK",
+      "href": "/kategori/nhk"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Adınızı veya soyadınızı değiştirmek için mahkemeye başvurmanız gerekir. Bu süreç, haklı bir sebebinizin varlığını hakime ispatlamanızla başlar.",
+  "keyInsight": "Ad değiştirme davasında haklı sebebinizi somut delillerle destekleyemezseniz talebiniz reddedilir.",
+  "sections": [
+    {
+      "heading": "Neden bu yola başvurulur?",
+      "paragraphs": [
+        "Günlük hayatınızda taşıdığınız isim size sıkıntı veriyor, alay konusu oluyor veya sosyal ilişkilerinizde zedelenmeye yol açıyorsa bu durum bir **haklı sebep** oluşturur. İsim, kişinin kimliğinin ayrılmaz bir parçasıdır ancak bu adın değiştirilmesi için kanuni yollardan talepte bulunulması şarttır.",
+        "Adınızın veya soyadınızın yazılışından kaynaklanan karışıklıklar, telaffuz zorlukları veya çevrenizde bilindiğiniz adla resmi adınızın uyuşmaması gibi hallerde de mahkeme kapısı aralanır."
+      ],
+      "bullets": [
+        "Gülünç veya utanç verici isimler",
+        "Yazım ve telaffuz hataları",
+        "Sosyal hayatta bilinen ad ile resmi adın farklı olması"
+      ]
+    },
+    {
+      "heading": "Mahkeme süreci nasıl işler?",
+      "paragraphs": [
+        "Dilekçenizi hazırlayıp mahkemeye sunduğunuzda süreç resmen başlar. Hakim, talebinizin arkasındaki gerekçeyi ve bu değişikliğin **toplumsal düzeni** sarsmayacak haklı bir temele dayanıp dayanmadığını inceler.",
+        "Yargılama sırasında tanık dinletmek ve iddialarınızı somutlaştırmak önem taşır. Mahkeme, talebin hukuka ve genel ahlaka uygunluğunu denetler."
+      ],
+      "bullets": [
+        "Dilekçe ile resmi başvuru",
+        "Gerekçelerin ve tanıkların dinlenmesi",
+        "Hakim kararı"
+      ]
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "Dava açarken iddialarınızı boşa çıkarmayacak belgeleri dosyaya koymalısınız. Kimlik bilgileriniz ve neden bu değişikliği istediğinizi gösteren her türlü yazılı delil işinizi kolaylaştırır.",
+        "Tanık beyanları bu davalarda en büyük yardımcınızdır. Çevrenizde hangi adla tanındığınızı bilen kişilerin duruşmada hazır bulunması **ispat yükünü** hafifletir."
+      ],
+      "bullets": [
+        "Nüfus cüzdanı örneği",
+        "Gerekçeyi kanıtlayan belgeler",
+        "Tanık listesi"
+      ]
+    },
+    {
+      "heading": "Süreci kaçırınca ne olur?",
+      "paragraphs": [
+        "Eksik evrakla yapılan başvurular veya yanlış mahkemeye verilen dilekçeler zaman kaybına yol açar. Hakimin tarafsızlığını etkileyecek ya da davanın görülmesini engelleyecek usuli eksiklikler davanın uzamasına neden olur.",
+        "Karar çıktıktan sonra gerekli nüfus kayıtlarının güncellenmesi aşamasını takip etmezseniz eski adınız resmi işlemlerde karşınıza çıkmaya devam eder."
+      ],
+      "bullets": [
+        "Yetkisiz mahkeme başvurusu",
+        "Eksik delil sunumu",
+        "Nüfus kaydı güncellemesinin ihmal edilmesi"
+      ]
+    }
+  ],
+  "steps": [
+    "Haklı sebebinizi ve gerekçenizi net bir şekilde belirleyin.",
+    "İddialarınızı destekleyecek tanık ve belgeleri organize edin.",
+    "Yetkili mahkemeye dilekçenizi sunun.",
+    "Duruşma günü mahkemede hazır bulunun ve talebinizi açıklayın.",
+    "Karar kesinleştikten sonra nüfus kayıtlarının düzeltilmesini takip edin."
+  ],
+  "documents": [
+    "Dava dilekçesi",
+    "Nüfus cüzdanı fotokopisi",
+    "Tanık listesi",
+    "Gerekçeyi kanıtlayan yazılı belgeler"
+  ],
+  "faq": [
+    {
+      "q": "İsim değişikliği davasını hangi mahkemede açmalıyım?",
+      "a": "Bulunduğunuz yerdeki ilgili mahkemeye başvurarak süreci başlatabilirsiniz."
+    },
+    {
+      "q": "Herhangi bir ismi seçebilir miyim?",
+      "a": "Haklı sebebiniz ve hukuka, genel ahlaka aykırı olmayan bir isim seçmeniz şarttır."
+    },
+    {
+      "q": "Tanık göstermek zorunlu mu?",
+      "a": "İddialarınızı ispatlamak için tanık beyanları mahkeme sürecinde büyük önem taşır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "e-devlet-nufus",
+  "angle": "İsim değişikliği davası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

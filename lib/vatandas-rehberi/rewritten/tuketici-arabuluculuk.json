@@ -1,0 +1,111 @@
+{
+  "slug": "tuketici-arabuluculuk",
+  "title": "Tüketici Uyuşmazlıklarında Arabuluculuk | Vatandaş Rehberi",
+  "description": "Tüketici davasında arabuluculuk var mı? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı.…",
+  "h1": "Tüketici davasında arabuluculuk var mı?",
+  "keywords": [
+    "tüketici arabuluculuk"
+  ],
+  "category": "Tüketici",
+  "related": [
+    "arabuluculuk-nasil-yapilir",
+    "tuketici-hakem-heyeti",
+    "tuketici-mahkemesi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/arabuluculuk-nasil-yapilir"
+    },
+    {
+      "label": "TKHK",
+      "href": "/kategori/tkhk"
+    },
+    {
+      "label": "Arabuluculuk",
+      "href": "/rehber/arabuluculuk"
+    }
+  ],
+  "lead": "Aldığınız üründe sorun çıktığında hemen mahkemenin kapısını çalamazsınız. Tüketici mahkemelerinde dava açmadan önce arabulucuya başvurulmuş olması **zorunlu bir kuraldır**.",
+  "keyInsight": "Her tüketici uyuşmazlığı için arabulucuya gitmek gerekmez; hakem heyetinin görev alanındaki konular bu zorunluluğun dışındadır.",
+  "sections": [
+    {
+      "heading": "Alışverişte sorun çıkınca ilk adım ne olmalı?",
+      "paragraphs": [
+        "Kapınıza gelen bozuk televizyon ya da iade almadıkları kıyafetle ilgili mahkemeye gitmeyi düşünebilirsiniz. Ancak adliyeye gitmeden önce **zorunlu arabuluculuk aşamasını** tamamlamanız gerekir.",
+        "Bu kural, tarafların mahkeme salonuna girmeden önce masaya oturup anlaşma ihtimalini aramak için konulmuştur. Doğrudan dava açarsanız, hâkim bu eksikliği hemen fark edip dosyayı usulden reddedecektir."
+      ],
+      "bullets": [
+        "Doğrudan dava açmak yerine önce başvuru şarttır.",
+        "Amaç mahkeme yükünü hafifletmektir."
+      ]
+    },
+    {
+      "heading": "Hangi konularda arabulucuya gitmek gerekmez?",
+      "paragraphs": [
+        "Her uyuşmazlık için arabuluculuk kapısını çalmak zorunda değilsiniz. Tüketici hakem heyetinin görevi kapsamında olan uyuşmazlıklar ve bu kararlara yapılan itirazlar için **arabuluculuk şartı aranmaz**.",
+        "Ayrıca tüketici işlemi mahiyetinde olan ve taşınmazın aynından doğan uyuşmazlıklar da bu zorunluluğun istisnaları arasındadır. Hangi yoldan gideceğinizi belirlemek için uyuşmazlığın konusuna dikkat etmelisiniz."
+      ],
+      "bullets": [
+        "Hakem heyeti sınırındaki konular kapsam dışıdır.",
+        "Taşınmazın aynından doğan bazı uyuşmazlıklar muaftır."
+      ]
+    },
+    {
+      "heading": "Görüşmelerde anlaşamazsanız masrafı kim öder?",
+      "paragraphs": [
+        "Arabuluculuk masrafları konusunda tüketicileri rahatlatan bir düzenleme vardır. Taraflara ulaşılamaması, katılım sağlanamaması veya anlaşma sağlanamaması hallerinde **ücret devlet bütçesinden karşılanır**.",
+        "Süreç sonunda açılan davanın tüketici lehine sonuçlanması durumunda ise arabuluculuk ücreti davalıdan tahsil edilir. Böylece tüketici hak arama sürecinde ek bir mali baskıyla karşılaşmaz."
+      ],
+      "bullets": [
+        "Katılım sağlanamazsa ücret bütçeden ödenir.",
+        "Lehe sonuçlanan davada ücret karşı tarafa yükletilir."
+      ]
+    },
+    {
+      "heading": "Süreç nasıl işler ve nelere dikkat edilmeli?",
+      "paragraphs": [
+        "Arabuluculuk faaliyeti resmi kurallar çerçevesinde yürütülür ve tarafsız bir uzman eşliğinde gerçekleşir. Görüşmeler sırasında tarafların iradesi esastır ve kimse anlaşmaya zorlanamaz.",
+        "Tarafların anlaşması ya da anlaşamaması durumunda tutanak düzenlenir. Bu tutanak, dava açma hakkınızı kullanabilmeniz için **elinizde bulunması gereken en önemli belgedir**."
+      ],
+      "bullets": [
+        "Tarafsız uzman eşliğinde görüşme yapılır.",
+        "Sonuç tutanağı resmi olarak düzenlenir."
+      ]
+    }
+  ],
+  "steps": [
+    "Uyuşmazlığın tüketici hakem heyeti sınırlarında olup olmadığını kontrol edin.",
+    "Görevli arabuluculuk bürosuna başvurunuzu yapın.",
+    "Arabulucu tarafından yapılan görüşme davetine katılın.",
+    "Görüşme sonucunda düzenlenen tutanağı alın.",
+    "Anlaşma sağlanamazsa dava açma hakkınızı kullanın."
+  ],
+  "documents": [
+    "Fatura veya fiş",
+    "Garanti belgesi",
+    "Satış sözleşmesi",
+    "Arabuluculuk son toplantı tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "Her tüketici davası için arabulucu şart mı?",
+      "a": "Hayır, tüketici hakem heyetinin görev alanındaki konular ve belirli istisnai uyuşmazlıklar için arabuluculuk şartı aranmaz."
+    },
+    {
+      "q": "Arabuluculuk görüşmesine gitmezsem ne olur?",
+      "a": "Görüşmeye katılmamak ilerleyen aşamalarda dava masrafları açısından aleyhinize sonuçlar doğurabilir."
+    },
+    {
+      "q": "Arabuluculuk ücretini ben mi ödeyeceğim?",
+      "a": "Anlaşmazlık veya katılım sağlanamaması durumunda iki saatlik ücret sınırı aşılmamak üzere Adalet Bakanlığı bütçesinden karşılanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "arabuluculuk-nasil-yapilir",
+  "angle": "Tüketici",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

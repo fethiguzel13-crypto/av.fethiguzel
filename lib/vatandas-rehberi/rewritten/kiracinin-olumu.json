@@ -1,0 +1,104 @@
+{
+  "slug": "kiracinin-olumu",
+  "title": "Kiracının Ölümü ve Kira Sözleşmesi | Vatandaş Rehberi",
+  "description": "Kiracı ölürse kira ne olur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
+  "h1": "Kiracı ölürse kira ne olur?",
+  "keywords": [
+    "kiracı ölümü",
+    "kiracı vefat kira"
+  ],
+  "category": "Kira",
+  "related": [
+    "kira-artis-orani-nasil-hesaplanir",
+    "kira-sozlesmesi-nasil-yapilir",
+    "veraset-ilami-nasil-alinir",
+    "kiraci-nasil-tahliye-edilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kira-artis-orani-nasil-hesaplanir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "Miras",
+      "href": "/kategori/miras-hukuku"
+    }
+  ],
+  "lead": "Kiracınızın vefat etmesi kira sözleşmesini otomatik olarak sonlandırmaz. Mirasçılarınızın veya evde birlikte yaşadığınız kişilerin durumu, sözleşmenin devam edip etmeyeceğini belirleyen ana unsurdur.",
+  "keyInsight": "Sözleşmeyi sonlandırmak isteyen tarafın, yasal fesih bildirim sürelerine uyarak en yakın fesih dönemi sonunu beklemesi şarttır.",
+  "sections": [
+    {
+      "heading": "Evde kimler kalmaya devam edebilir?",
+      "paragraphs": [
+        "Vefat eden kiracı ile aynı konutta oturanlar, sözleşmeye ve kanun hükümlerine sadık kaldıkları sürece kiracı sıfatıyla evde kalmaya devam edebilirler. Bu hak, sözleşmenin tarafı olma imkânı tanır.",
+        "Ayrıca ölen kişinin aynı meslek ve sanatı yürüten mirasçıları da kira sözleşmesini devralabilir. Bu kişiler, kira ödemelerini düzenli yaptıkları ve sözleşme şartlarına uydukları müddetçe ev sahibi tarafından tahliye edilemezler."
+      ],
+      "bullets": [
+        "Aynı konutta oturanlar sözleşmeyi sürdürebilir.",
+        "Aynı mesleği yapan mirasçılar hak sahibidir."
+      ]
+    },
+    {
+      "heading": "Sözleşmeyi bitirmek istersek ne yapmalıyız?",
+      "paragraphs": [
+        "Mirasçılar, kira sözleşmesini sonlandırma hakkına sahiptir. Ancak bu hak, **yasal fesih bildirim sürelerine** uyulmasını gerektirir. Sözleşmeyi hemen ertesi gün bitiremezsiniz.",
+        "Ev sahibi de benzer şekilde, kiracının vefatı sonrasında belirli yasal süreler içerisinde sözleşmeyi feshetme hakkını kullanabilir. Her iki tarafın da fesih için yasal prosedürü takip etmesi gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Fesih süreci nasıl işler?",
+      "paragraphs": [
+        "Fesih bildiriminde bulunurken, en yakın fesih dönemi sonunun esas alınması gerekir. Bu durum, sözleşmenin belirsiz süreli olması veya özel fesih dönemleri içermesi durumunda farklılık gösterebilir.",
+        "İşlemlerin hukuki bir zeminde yürümesi için tarafların yazılı bildirimde bulunması önemlidir. Sözlü beyanlar, ileride yaşanabilecek uyuşmazlıklarda ispat açısından yetersiz kalabilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Anlaşmazlık durumunda yol haritası nedir?",
+      "paragraphs": [
+        "Mirasçılar ve ev sahibi arasında kira bedeli veya tahliye konularında bir uzlaşmazlık çıkarsa, doğrudan mahkemeye gidilemez. **Arabuluculuk süreci**, dava açmadan önce tamamlanması gereken zorunlu bir yoldur.",
+        "Arabuluculukta varılan anlaşma, taraflar için bağlayıcı bir belge niteliği taşır. Eğer taşınmazla ilgili bir tahliye veya devir kararı alınmışsa, bu belgenin icra edilebilirliğine ilişkin şerh alınması gerekir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Vefat durumunu ve kira sözleşmesinin devam edip etmeyeceğine dair niyetinizi ev sahibine bildirin.",
+    "Evde kalmaya devam edecekseniz kira ödemelerini kendi adınıza düzenli olarak yapın.",
+    "Sözleşmeyi feshetmek istiyorsanız, fesih bildirim süresini hesaplayarak yazılı bir ihtarname hazırlayın.",
+    "Anlaşmazlık yaşanması durumunda yetkili bir arabulucuya başvuru yapın.",
+    "Arabuluculuk görüşmelerinde uzlaşırsanız, hazırlanan anlaşma belgesine icra edilebilirlik şerhi almayı unutmayın."
+  ],
+  "documents": [
+    "Veraset ilamı",
+    "Kira sözleşmesi aslı",
+    "Yazılı fesih bildirimi veya ihtarname",
+    "Arabuluculuk anlaşma belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Kiracı öldüğü an kira sözleşmesi biter mi?",
+      "a": "Hayır, sözleşme kendiliğinden sona ermez; mirasçılar veya evde yaşayanlar sözleşmeyi sürdürme hakkına sahiptir."
+    },
+    {
+      "q": "Ev sahibi vefat eden kiracının mirasçılarını hemen evden çıkarabilir mi?",
+      "a": "Hayır, mirasçılar sözleşme şartlarına uydukları sürece evde kalmaya devam edebilirler."
+    },
+    {
+      "q": "Arabulucuya başvurmak zorunlu mu?",
+      "a": "Evet, kira ilişkisinden kaynaklanan uyuşmazlıklarda mahkemeye gitmeden önce arabulucuya başvurmak dava şartıdır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kira-artis-orani-nasil-hesaplanir",
+  "angle": "Kiracı ölümü",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

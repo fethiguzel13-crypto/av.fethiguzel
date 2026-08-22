@@ -1,0 +1,113 @@
+{
+  "slug": "olum-ayligi-dul-yetim",
+  "title": "Ölüm aylığı dul yetim — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Ölüm aylığı dul yetim hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avu…",
+  "h1": "Ölüm aylığı dul yetim",
+  "keywords": [
+    "ölüm aylığı dul yetim",
+    "olum ayligi dul yetim"
+  ],
+  "category": "Sosyal Güvenlik",
+  "related": [
+    "bagkur-prim-borcu",
+    "emeklilik-sartlari",
+    "veraset-ilami-nasil-alinir",
+    "sgk-hizmet-dokumu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/bagkur-prim-borcu"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=%C3%B6l%C3%BCm%20ayl%C4%B1%C4%9F%C4%B1"
+    }
+  ],
+  "lead": "Yakınını kaybeden aileler için ölüm aylığı, geride kalanların geçimini sağlamak adına kuruma yapılacak başvuruyla başlar. Asıl süreç, hak sahipliği şartlarının sağlanması ve yazılı talebin iletilmesiyle hareket kazanır.",
+  "keyInsight": "Ölüm aylığından yararlanmak için geride kalanların kanuni şartları taşıması ve kurumdan usulüne uygun **yazılı istekte** bulunması şarttır.",
+  "sections": [
+    {
+      "heading": "Kimler başvuru yapabilir?",
+      "paragraphs": [
+        "Ailenizden birini kaybettiğinizde geride kalanlar için koruma mekanizmaları devreye girer. Cumhurbaşkanı, meclis başkanı veya başbakan gibi görevlerde bulunmuş kişilerin vefatı halinde hak sahiplerine ölüm aylığı bağlanır.",
+        "Bu süreçte müracaat eden kişilerin durumu, ilgili kanun hükümlerine ve hak sahipliği niteliklerine göre değerlendirilir."
+      ],
+      "bullets": [
+        "Görevden ayrılan veya vefat eden kişilerin yakınları",
+        "Kanuni hak sahibi statüsündeki aile bireyleri"
+      ]
+    },
+    {
+      "heading": "Hangi şartlar aranır?",
+      "paragraphs": [
+        "Aylık bağlanması için vefat eden kişinin çalışma geçmişi ve sigortalılık statüsü incelenir. Malûllük veya yaşlılık sigortasından yararlanma koşulları ölüm sigortası için de referans oluşturur.",
+        "Sigortalının çalışma gücünü kaybetme derecesi veya prim gün sayıları dosyanın onaylanmasında kritik rol oynar. Kurum sağlık kurulu raporları ve prim ödeme günleri bu aşamada incelenir."
+      ],
+      "bullets": [
+        "Sağlık kurulu raporu ile tespit edilen malûliyet durumu",
+        "Gerekli sigortalılık süresi ve prim gün şartları"
+      ]
+    },
+    {
+      "heading": "Başvuru nasıl yapılır?",
+      "paragraphs": [
+        "Hak sahiplerinin aylık alabilmesi için **yazılı istekte** bulunması zorunludur. Sözlü beyanlar veya başka talepler kurum nezdinde işlem doğurmaz.",
+        "Dilekçenizi hazırlarken vefat eden kişinin sigorta sicil numarasını ve kendi kimlik bilgilerinizi eksiksiz yazmalısınız."
+      ],
+      "bullets": [
+        "Kuruma yazılı dilekçe verilmesi",
+        "Gerekli evrakların eksiksiz teslimi"
+      ]
+    },
+    {
+      "heading": "Süreci ne hızlandırır?",
+      "paragraphs": [
+        "Evraklarınızı kuruma verirken tıbbi belgeleri ve raporları eksiksiz sunmak inceleme süresini kısaltır. Eksik evrak verilmesi dosyada beklemelere yol açabilir.",
+        "Kurumun yetkilendirdiği sağlık hizmeti sunucularından alınan belgelerin usulüne uygun düzenlenmiş olması şarttır."
+      ],
+      "bullets": [
+        "Usulüne uygun düzenlenmiş sağlık raporları",
+        "Eksiksiz doldurulmuş başvuru formu"
+      ]
+    }
+  ],
+  "steps": [
+    "Vefat eden kişinin sigorta dosyasını ve statüsünü inceleyin.",
+    "Hak sahipliği durumunuzu kanun maddelerine göre teyit edin.",
+    "Kurumdan talepte bulunmak için **yazılı dilekçe** hazırlayın.",
+    "Gerekli sağlık raporu ve tıbbi belgeleri dosyaya ekleyin.",
+    "Evrakları yetkili kuruma bizzat teslim edin veya gönderin."
+  ],
+  "documents": [
+    "Yazılı başvuru dilekçesi",
+    "Nüfus kayıt örneği",
+    "Sağlık kurulu raporları",
+    "Tıbbi belgeler"
+  ],
+  "faq": [
+    {
+      "q": "Ölüm aylığı için nereye başvurulmalıdır?",
+      "a": "İşlemlerin başlatılması için Sosyal Güvenlik Kurumuna **yazılı istekte** bulunulması gerekir."
+    },
+    {
+      "q": "Herkes ölüm aylığı alabilir mi?",
+      "a": "Aylık bağlanması için vefat eden kişinin ve başvuran hak sahibinin kanunda belirtilen şartları taşıması zorunludur."
+    },
+    {
+      "q": "Başvuru için sözlü beyan yeterli mi?",
+      "a": "Hayır, kurumdan talepte bulunurken yazılı dilekçe verilmesi şarttır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "bagkur-prim-borcu",
+  "angle": "Ölüm aylığı dul yetim",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

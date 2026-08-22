@@ -1,0 +1,110 @@
+{
+  "slug": "is-veren-sorumlulugu-kazasi",
+  "title": "İşverenin İş Kazası Sorumluluğu | Vatandaş Rehberi",
+  "description": "İş kazasında işveren sorumlu mudur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
+  "h1": "İş kazasında işveren sorumlu mudur?",
+  "keywords": [
+    "işveren iş kazası sorumluluğu"
+  ],
+  "category": "İş",
+  "related": [
+    "is-kazasi-tazminati",
+    "is-guvenligi-uzmani",
+    "is-kazasi-sonrasi-haklar"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/is-kazasi-tazminati"
+    },
+    {
+      "label": "İSG",
+      "href": "/kategori/isg"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    }
+  ],
+  "lead": "Fabrikada mesai saatindesiniz ve bir makine arızası nedeniyle yaralandınız. İşverenin sorumluluğu, kazanın iş güvenliği kurallarına uyulmamasından veya işçinin sağlığına uygun olmayan işte çalıştırılmasından kaynaklanıp kaynaklanmadığına bakılarak belirlenir.",
+  "keyInsight": "İşverenin sorumluluğu tespit edilirken **kaçınılmazlık ilkesi** göz önünde bulundurulur.",
+  "sections": [
+    {
+      "heading": "İş kazası ve işverenin sorumluluğu ne zaman doğar?",
+      "paragraphs": [
+        "Tezgahın başında çalışırken bir kaza geldi başınıza. İş kazası, işverenin kastı veya sigortalıların sağlığını koruma ve iş güvenliği mevzuatına aykırı bir hareketi sonucu meydana gelmişse işveren sorumlu tutulur.",
+        "Kurumca sigortalıya yapılan veya ileride yapılması gereken ödemeler ile bağlanan gelirin ilk peşin sermaye değeri, işverene ödettirilir."
+      ],
+      "bullets": [
+        "Mevzuata aykırı hareket",
+        "İşverenin kastı"
+      ]
+    },
+    {
+      "heading": "Sağlık raporu olmadan çalıştırmanın sonucu nedir?",
+      "paragraphs": [
+        "Çalışma mevzuatında sağlık raporu alınması gerektiği belirtilen işlerde, böyle bir rapora dayanılmaksızın ya da rapora aykırı şekilde bünyece elverişli olmayan işte çalıştırıldıysanız durum değişir.",
+        "Bu işe girmeden önce var olduğu tespit edilen veya elverişsiz iş nedeniyle ortaya çıkan hastalık dolayısıyla yapılan ödemeler **doğrudan işverene** ödettirilir."
+      ],
+      "bullets": [
+        "Raporsuz çalıştırma yasağı",
+        "Bünyeye elverişsiz iş"
+      ]
+    },
+    {
+      "heading": "Tedavi masraflarını kim karşılar?",
+      "paragraphs": [
+        "İş kazasına uğrayan sigortalıya sağlık durumunun gerektirdiği sağlık hizmetleri **derhal sağlanmak** zorundadır. İşveren bu hizmetleri geciktiremez.",
+        "Yükümlülüklerin yerinetirilmesindeki ihmal nedeniyle tedavi süresi uzarsa veya maluliyet artarsa, yapılan her türlü sağlık hizmeti gideri **işverene tazmin ettirilir**."
+      ],
+      "bullets": [
+        "Derhal sağlık hizmeti",
+        "İhmal ve gecikme cezası"
+      ]
+    },
+    {
+      "heading": "Bildirim yapılmazsa nela karşılaşılır?",
+      "paragraphs": [
+        "İş kazası yetkili kuruma bildirilmediği takdirde, bildirim tarihine kadar geçen süre için sigortalıya ödenecek geçici iş göremezlik ödeneği işverenden tahsil edilir.",
+        "Sigortasız işçi çalıştırıldığının sonradan tespit edilmesi durumunda da benzer şekilde masraflar işverene yükletilir."
+      ],
+      "bullets": [
+        "Süresinde bildirim zorunluluğu",
+        "Ödenek tahsisi"
+      ]
+    }
+  ],
+  "steps": [
+    "Sağlık durumunuzun gerektirdiği sağlık hizmetine derhal başvurarak tedavi olun.",
+    "İş kazasını mevzuata uygun şekilde yetkili kurumlara bildirin.",
+    "Çalıştığınız iş için sağlık raporunuzun olup olmadığını ve işe uygunluğunuzu kontrol edin.",
+    "İş güvenliği kurallarına uyulup uyulmadığını ve olası ihmalleri tespit edin."
+  ],
+  "documents": [
+    "Sağlık kurulu raporu",
+    "İş kazası bildirim evrakı",
+    "Geçici iş göremezlik belgeleri",
+    "Tedavi masrafı belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "İş kazası işverenin kusuru olmadan gerçekleşirse ne olur?",
+      "a": "İşverenin sorumluluğunun tespitinde kaçınılmazlık ilkesi dikkate alınır."
+    },
+    {
+      "q": "Sağlık raporu olmadan çalıştırılan işçinin masraflarını kim öder?",
+      "a": "Kurumca yapılan sağlık hizmeti giderleri ve ödemeler işverene tazmin ettirilir."
+    },
+    {
+      "q": "Kaza üçüncü bir kişinin kusuru nedeniyle olursa sorumluluk kime geçer?",
+      "a": "Zarara sebep olan üçüncü kişilere ve şayet kusuru varsa bunları çalıştıranlara rücu edilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "is-kazasi-tazminati",
+  "angle": "İşveren sorumluluğu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

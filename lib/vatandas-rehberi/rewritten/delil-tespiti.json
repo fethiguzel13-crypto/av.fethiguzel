@@ -1,0 +1,103 @@
+{
+  "slug": "delil-tespiti",
+  "title": "Delil tespiti nasıl istenir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Delil tespiti nasıl istenir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
+  "h1": "Delil tespiti nasıl istenir?",
+  "keywords": [
+    "delil tespiti"
+  ],
+  "category": "Usul",
+  "related": [
+    "ihtiyati-tedbir-nedir",
+    "bilirkisi-raporu-itiraz",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/ihtiyati-tedbir-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=delil%20tespiti"
+    }
+  ],
+  "lead": "Delil tespiti, ileride açılacak veya halen sürmekte olan bir davada kaybolma ihtimali bulunan delillerin mahkeme aracılığıyla güvence altına alınmasıdır. Henüz dava açılmamışsa keşif yapılacak yerdeki sulh mahkemesinden veya esas davaya bakacak mahkemeden talep edilebilir. Dava açıldıktan sonra ise bu talep sadece davanın görüldüğü mahkemeye yapılır.",
+  "keyInsight": "Dava açıldıktan sonra yapılan delil tespiti taleplerinde tek yetkili ve görevli merci davanın görülmekte olduğu mahkemedir.",
+  "sections": [
+    {
+      "heading": "Evde hasar var veya tanık ayrılıyor: Delil tespiti nedir?",
+      "paragraphs": [
+        "Bir sabah evinizi su bastı ya da komşunuzun inşaatı duvarınızda çatlaklar oluşturdu. Dava açıp aylarca bekleyecek zamanınız olmayabilir; çünkü o izin silinmesi veya tamir edilmesi an meselesidir. İşte bu gibi durumlarda, durumun kaybolmasını önlemek için **delil tespiti** mekanizması kullanılır.",
+        "Henüz dava açılmamışsa mahkemeden bir bilirkişı incelemesi veya keşif yapılması istenebilir. Böylece mevcut durum resmi tutanakla kayda geçirilir ve ileride açılacak davada delil kaybı yaşanmaz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Dilekçeyi hangi mahkemeye vermeniz gerekir?",
+      "paragraphs": [
+        "Dava henüz açılmadıysa iki seçeneğiniz bulunur. Talebinizi asıl davaya bakacak olan mahkemeye sunabileceğiniz gibi, keşif veya bilirkişi incelemesi yapılacak şeyin bulunduğu yerdeki **sulh mahkemesi** üzerinden de yapabilirsiniz.",
+        "Ancak esas hakkındaki dava zaten açılmışsa kural değişir. Dava açıldıktan sonra yapılan her türlü delil tespiti talebi hakkında sadece **davanın görülmekte olduğu mahkeme** yetkili ve görevlidir. Açılmış davada tespit yapan mahkemenin görevsizliği sonradan ileri sürülemez."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Adli tatil denk gelirse başvurunuz durur mu?",
+      "paragraphs": [
+        "Yaz aylarında adli tatil dönemine girildiğinde acil işlerin aksayacağı kaygısı oluşabilir. Ancak kanun, telafisi güç durumları önlemek adına acil talepleri tatil kapsamının dışında tutmuştur.",
+        "Delil tespiti talepleri **geçici hukuki koruma** niteliği taşıdığı için adli tatilde de görülür. Dolayısıyla adli tatil süresince mahkemeye başvurabilir, keşif veya tespit kararı verilmesini isteyebilirsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Arabuluculukta konuşulanlar delil yapılabilir mi?",
+      "paragraphs": [
+        "Uyuşmazlık için daha önce arabuluculuk masasına oturmuş olabilirsiniz. Arabuluculuk sürecinde karşı tarafın sunduğu teklifler, kabuller veya sadece bu süreç için hazırlanan belgeler mahkemeye **delil olarak sunulamaz**.",
+        "Kanun bu beyanların mahkemece istenemeyeceğini ve karara esas alınamayacağını açıkça belirtir. Ancak arabuluculuk dışında da var olan ve bağımsız olarak ileri sürülebilen deliller, sırf arabuluculukta kullanıldı diye geçerliliğini kaybetmez."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Kaybolma veya değişme riski bulunan delili ve mevcut durumu net bir şekilde tespit edin.",
+    "Dava açılmadıysa keşif yerindeki sulh mahkemesine veya esas mahkemeye hitaben talebinizi hazırlayın.",
+    "Tebliğ edilecek taraf sayısı kadar imzalı dilekçe nüshasını dosyalayın.",
+    "Dilekçenizi mahkemeye teslim edip sunduğunuza dair yetkili merciden evrak makbuzunu alın.",
+    "Adli tatil döneminde olsanız dahi acil geçici koruma talebinizin takibini yapın."
+  ],
+  "documents": [
+    "Delil tespiti talebini ve gerekçesini açıklayan imzalı başvuru dilekçesi",
+    "Karşı tarafa tebliğ edilmek üzere taraf sayısınca hazırlanan dilekçe nüshaları",
+    "Mevcut durumu gösteren fotoğraf, yazışma veya ön inceleme belgeleri",
+    "İnceleme yapılacak taşınmaz veya eşyaya ilişkin mülkiyet ya da zilyetlik kayıtları"
+  ],
+  "faq": [
+    {
+      "q": "Dava açıldıktan sonra delil tespiti için sulh mahkemesine gidilebilir mi?",
+      "a": "Hayır. Dava açıldıktan sonra yapılan her türlü delil tespiti talebinde sadece davanın görülmekte olduğu mahkeme yetkili ve görevlidir."
+    },
+    {
+      "q": "Adli tatilde delil tespiti istenebilir mi?",
+      "a": "Evet. Delillerin tespiti talepleri geçici hukuki koruma sayıldığından adli tatilde de bakılan işler arasındadır."
+    },
+    {
+      "q": "Arabuluculuktaki beyanlar tespit dosyasında delil olur mu?",
+      "a": "Hayır. Arabuluculuk faaliyeti esnasında ileri sürülen öneriler, teklifler veya kabuller delil olarak ileri sürülemez ve hükme esas alınamaz."
+    },
+    {
+      "q": "Dilekçe verilirken tebligat nüshaları nasıl düzenlenir?",
+      "a": "Tebliğ olunacak evrak, biri dosyaya konulmak ve diğerleri tebliğ edilecek kişilere verilmek üzere yeteri kadar imzalı nüshadan oluşur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "ihtiyati-tedbir-nedir",
+  "angle": "Delil tespiti",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

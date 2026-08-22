@@ -1,0 +1,118 @@
+{
+  "slug": "tapu-devri-nasil-yapilir",
+  "title": "Tapu Devri Nasıl Yapılır? Belgeler ve Masraflar",
+  "description": "Tapu devri nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada…",
+  "h1": "Tapu devri nasıl yapılır?",
+  "keywords": [
+    "tapu devri nasıl yapılır",
+    "tapu harcı",
+    "tapu randevu"
+  ],
+  "category": "Eşya",
+  "related": [
+    "sinir-uyusmazligi",
+    "kadastro-tespitine-itiraz",
+    "orman-kadastro",
+    "hisseli-tapu-riskleri",
+    "e-devlet-tapu",
+    "tapu-vekaleten-satis",
+    "sahte-vekaletname",
+    "rehin-nedir",
+    "satis-vaadi-icra",
+    "ortak-gider-nedir",
+    "yonetici-secimi-site",
+    "kat-irtifakindan-mulkiyete"
+  ],
+  "links": [
+    {
+      "label": "Eşya hukuku",
+      "href": "/kategori/esya-hukuku"
+    },
+    {
+      "label": "Kat mülkiyeti",
+      "href": "/kategori/katmulkiyeti"
+    }
+  ],
+  "lead": "Ev veya arsa alıp satarken mülkiyetin geçmesi için tapu müdürlüğünde resmî senet imzalanması ve tescil yapılması gerekir. Noterde yapılan sözleşmeler tek başına mülkiyeti karşı tarafa geçirmez.",
+  "keyInsight": "Bağımsız bir bölümün başkasına devri halinde, o bölüme ait eklentiler ve ortak yerler de kendiliğinden devredilmiş sayılır.",
+  "sections": [
+    {
+      "heading": "Satıştan önce nelere bakmalısınız?",
+      "paragraphs": [
+        "Evi veya arsayı devretmeden önce taşınmazın üzerinde herhangi bir engel olup olmadığını incelemeniz gerekir. Tapu sicilinde yer alan kayıtlar, taşınmazın hukuki durumunu doğrudan etkiler.",
+        "Taşınmaz üzerinde ipotek, haciz veya başka bir hak sahibinin kısıtlaması olup olmadığını önceden öğrenmek mağduriyetleri önler."
+      ],
+      "bullets": [
+        "Tapu kayıtlarını kontrol edin",
+        "Şerh ve haciz durumuna bakın"
+      ]
+    },
+    {
+      "heading": "Resmî senet ve tescil şartı nedir?",
+      "paragraphs": [
+        "Kanun, taşınmaz mülkiyetinin nakli için tapu kütüğüne tescili şart koşar. Tescil işlemi, yetkili memur huzurunda düzenlenen **resmî senet** ile gerçekleşir.",
+        "Noterlikte yapılan sözleşmeler sadece satış vaadi niteliği taşır ve mülkiyeti doğrudan geçirmez. Asıl devir için mutlaka tapu müdürlüğünde işlem yapılması zorunludur."
+      ],
+      "bullets": [
+        "Tescil tapu kütüğüne yapılır",
+        "Resmî senet zorunludur"
+      ]
+    },
+    {
+      "heading": "Eklentiler ve ortak alanlar nasıl devredilir?",
+      "paragraphs": [
+        "Satışa konu olan bağımsız bölümün dışında kalan kömürlük, garaj veya su deposu gibi eklentiler ana yapının bütünleyici parçasıdır. Bu unsurlar ayrı bir işleme gerek kalmadan asıl mülkle birlikte geçer.",
+        "Bağımsız bölümün başkasına devredilmesi durumunda, tapu kütüğünün beyanlar hanesinde yazılı olan eklentiler de **kendiliğinden** yeni malike devrolmuş sayılır."
+      ],
+      "bullets": [
+        "Eklentiler bağımsız bölüme bağlıdır",
+        "Ayrı devir işlemi gerekmez"
+      ]
+    },
+    {
+      "heading": "İşlem bittikten sonra ne yapmalısınız?",
+      "paragraphs": [
+        "Tapu devir işlemi tamamlandıktan sonra taşınmazın kayıtlı bulunduğu ilgili kurumlara bilgi verilmesi gerekir. Yapı kullanma izin belgesi bulunan binalarda cins değişikliği işlemleri resen yapılır.",
+        "Mülkiyet değiştikten sonra sorumlulukların yerine getirilmesi için ilgili idarelere ve belediyeye gerekli **bildirimlerin** yapılması sürecin tamamlayıcı parçasıdır."
+      ],
+      "bullets": [
+        "İlgili kurumlara bilgi verin",
+        "Bildirim yükümlülüğünü unutmayın"
+      ]
+    }
+  ],
+  "steps": [
+    "Tapu kayıtlarını, şerh ve haciz durumunu kontrol edin.",
+    "Kimlik, DASK ve gerekli belgeleri hazırlayın.",
+    "Tapu müdürlüğünden randevu alın.",
+    "Harç ve döner sermaye bedelini yatırıp resmi senet imzalayın.",
+    "Devir sonrasında ilgili belediyeye bildirim yapın."
+  ],
+  "documents": [
+    "kimlik",
+    "tapu kaydı",
+    "DASK",
+    "vergi numarası",
+    "vekâlet (varsa)"
+  ],
+  "faq": [
+    {
+      "q": "Noterde yapılan satış sözleşmesi mülkiyeti geçirir mi?",
+      "a": "Hayır, noterde yapılan sözleşmeler sadece satış vaadidir ve tek başına mülkiyeti geçirmez; devir için tapuda tescil şarttır."
+    },
+    {
+      "q": "Garaj veya kömürlük için ayrı bir devir sözleşmesi gerekir mi?",
+      "a": "Hayır, bağımsız bölümün devriyle birlikte o bölüme tahsis edilen eklentiler ve ortak yerler de kendiliğinden devredilmiş olur."
+    },
+    {
+      "q": "İpotekli bir alacağın devrinde tapu şart mı?",
+      "a": "İpotekle güvence altına alınmış bir alacağın devrinin geçerli olması, devrin tapu kütüğüne tescil edilmesine bağlı değildir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "tapu-devri-nasil-yapilir",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

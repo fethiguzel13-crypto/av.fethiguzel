@@ -1,0 +1,96 @@
+{
+  "slug": "cek-nasil-yazilir",
+  "title": "Çek nasıl yazılır — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Çek nasıl yazılır hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
+  "h1": "Çek nasıl yazılır",
+  "keywords": [
+    "çek nasıl yazılır",
+    "cek nasil yazilir"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "cek-karsiliksiz",
+    "senet-nasil-yazilir",
+    "kambiyo-senetlerine-ozgu-takip"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/cek-karsiliksiz"
+    },
+    {
+      "label": "Çek",
+      "href": "/kategori/cek"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Elinize boş bir çek yaprağı aldınız. Asıl mesele sadece rakam yazmak değil, banka nezdindeki kurallara ve yasal çerçeveye tam uygunluk sağlamaktır.",
+  "keyInsight": "Çek düzenlerken en kritik nokta, hesabınızda **karşılığının** tam ve eksiksiz bulunmasını sağlamaktır.",
+  "sections": [
+    {
+      "heading": "Çek defteri nasıl alınır?",
+      "paragraphs": [
+        "Bankaya gidip çek hesabı açtırmak istediğinizde süreç başlar. Banka görevlileri ekonomik durumunuzu ve sicilinizi inceler.",
+        "Hesap açılışı sırasında **yazılı beyanda** bulunarak haknızda herhangi bir çek düzenleme veya hesap açma yasağı bulunmadığını taahhüt etmeniz gerekir."
+      ],
+      "bullets": [
+        "Kimlik ibrazı zorunludur.",
+        "Yazılı beyan verilmelidir.",
+        "Sicil kayıtları kontrol edilir."
+      ]
+    },
+    {
+      "heading": "Çek yazılırken nelere dikkat edilir?",
+      "paragraphs": [
+        "Çeki doldururken rakam ve ibraz koşullarına özen gösterilmelidir. Karşılıklı güven ticari hayatta esastır ancak resmi evrak titizlik ister.",
+        "Hesabın bulunduğu muhatap bankanın herhangi bir şubesine ibraz edilen çekler, hamilin **vergi kimlik numarası** saptandıktan sonra işleme alınır."
+      ],
+      "bullets": [
+        "Doğru şube tespiti",
+        "Kimlik ve vergi numarası kontrolü"
+      ]
+    },
+    {
+      "heading": "Karşılıksız çıkarsa ne olur?",
+      "paragraphs": [
+        "Çek elinizde kaldı ve karşılığı çıkmadı. Banka kanunen ödemekle yükümlü olduğu miktarları ve durumun tespitini arka yüzüne yazar.",
+        "Hamilin talepte bulunması halinde çekin arka yüzüne **tarih ve hesap durumu** işlenir, banka yetkilisi ve hamil tarafından imzalanır."
+      ],
+      "bullets": [
+        "Kısmi ödeme imkânı",
+        "Karşılıksızdır şerhi"
+      ]
+    },
+    {
+      "heading": "Bankanın saklama yükümlülüğü nedir?",
+      "paragraphs": [
+        "Bankalar açılan çek hesaplarına dair belgeleri ve kimlik örneklerini özenle muhafaza eder. Hesabın kapatılması halinde bu evraklar uzun süre saklanır.",
+        "Hesabın kapatıldığı tarihten itibaren **on yıl süreyle** bu belgeler banka arşivinde tutulmaya devam eder."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Çek hesabı açtırmak için bankaya başvurup gerekli kimlik ve sicil belgelerini sunun.",
+    "Hakkınızda çek yasağı bulunmadığına dair yazılı beyannameyi imzalayın.",
+    "Çeki düzenlerken hamil bilgilerini ve tutarı eksiksiz doldurun.",
+    "Ödeme günü geldiğinde çeki muhatap banka şubesine ibraz edin."
+  ],
+  "documents": [
+    "Fotoğraflı nüfus cüzdanı, pasaport veya sürücü belgesi",
+    "Yerleşim yeri belgesi",
+    "Vergi kimlik numarası",
+    "Ticaret sicil veya esnaf sicil kayıtları"
+  ],
+  "faq": [],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "cek-karsiliksiz",
+  "angle": "Çek nasıl yazılır",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

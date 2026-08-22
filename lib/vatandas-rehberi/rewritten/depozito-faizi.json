@@ -1,0 +1,113 @@
+{
+  "slug": "depozito-faizi",
+  "title": "Kira Depozitosuna Faiz İşler mi? | Vatandaş Rehberi",
+  "description": "Depozitoya faiz gerekir mi? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
+  "h1": "Depozitoya faiz gerekir mi?",
+  "keywords": [
+    "kira depozito faizi",
+    "teminat faiz"
+  ],
+  "category": "Kira",
+  "related": [
+    "kira-artis-orani-nasil-hesaplanir",
+    "kira-teminati-iadesi",
+    "kira-sozlesmesi-nasil-yapilir",
+    "kiraci-haklari-nelerdir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kira-artis-orani-nasil-hesaplanir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/kira"
+    }
+  ],
+  "lead": "Ev sahibine verdiğiniz teminat parası yani depozito, ortak bir vadeli hesaba yatırılmak zorundadır. Bu para ev sahibinin kişisel malı değildir ve **üzerinden doğan kazanç** sahibine aittir.",
+  "keyInsight": "Depozitonun faiz getirmesi için para bankada vadeli hesaba yatırılmalıdır; aksi takdirde hak arama süreci karmaşıklaşır.",
+  "sections": [
+    {
+      "heading": "Depozito nereye konur?",
+      "paragraphs": [
+        "Yeni bir eve taşınırken verdiğiniz para ev sahibinin cebine girmez. Ev sahibi bu parayı almakla birlikte, **kendi adına değil** sizin adınıza açılacak ortak veya ayrı bir vadeli hesaba yatırmak zorundadır.",
+        "Bu kural paranın enflasyon karşısında erimesini engellemek ve güvenceye almak için konulmuştur."
+      ],
+      "bullets": [
+        "Para vadeli hesaba yatar",
+        "Ev sahibi parayı kullanamaz"
+      ]
+    },
+    {
+      "heading": "Faiz kime kalır?",
+      "paragraphs": [
+        "Vadeli hesapta biriken para ve işleyen **faiz geliri** kiracıya aittir. Ev sahibi bu paraya ortak olamaz.",
+        "Sözleşme bittiğinde ev sahibi kesinti yapmadan ana parayı ve hesapta biriken tüm faizi size geri vermek zorundadır."
+      ],
+      "bullets": [
+        "Faiz kiracının hakkıdır",
+        "Ana para ile birlikte ödenir"
+      ]
+    },
+    {
+      "heading": "Para nasıl geri alınır?",
+      "paragraphs": [
+        "Evden taşınırken anahtarı teslim ettiniz. Evde kırık dökük yoksa depozitonun iadesi talep edilir.",
+        "Ev sahibi parayı vermezse hukuki yollara başvurarak hem ana parayı hem de **biriken faizi** talep etme hakkınız doğar."
+      ],
+      "bullets": [
+        "Hasarsız teslim önemlidir",
+        "İade gecikirse yasal yollar açılır"
+      ]
+    },
+    {
+      "heading": "Süreçte nelere dikkat etmeli?",
+      "paragraphs": [
+        "Paranın yatırıldığı banka dekontunu saklayın. Hesabın nerede olduğunu bilmek en büyük güvencenizdir.",
+        "Anlaşmazlık çıkarsa teminatın **banka hesabında** tutulmuş olup olmadığı ilk bakılacak detaydır."
+      ],
+      "bullets": [
+        "Dekontu saklayın",
+        "Banka bilgisini isteyin"
+      ]
+    }
+  ],
+  "steps": [
+    "Depozito olarak verilen paranın yatırıldığı banka hesabını öğrenin.",
+    "Paranın vadeli hesaba yatırıldığından emin olun.",
+    "Evden çıkarken evi aldığınız gibi hasarsız teslim edin.",
+    "İade sırasında ana para ile birlikte tahakkuk eden faizi isteyin.",
+    "Ödeme yapılmazsa yasal başvuru yollarını değerlendirin."
+  ],
+  "documents": [
+    "Kira sözleşmesi",
+    "Depozito ödeme dekontu",
+    "Banka hesap cüzdanı veya dökümü",
+    "Tahliye tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "Ev sahibi depozitoyu kendi hesabında tutabilir mi?",
+      "a": "Hayır, para vadeli hesaba yatırılmak zorundadır."
+    },
+    {
+      "q": "Faiz gelirini ev sahibi alabilir mi?",
+      "a": "Asla, biriken faiz paranın sahibi olan kiracıya aittir."
+    },
+    {
+      "q": "Depozito iade edilmezse ne yapılır?",
+      "a": "Hukuki yollara başvurularak ana para ve faiz talep edilebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kira-artis-orani-nasil-hesaplanir",
+  "angle": "Depozitoya faiz",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

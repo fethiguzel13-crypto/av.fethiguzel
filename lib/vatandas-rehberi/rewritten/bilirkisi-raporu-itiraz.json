@@ -1,0 +1,111 @@
+{
+  "slug": "bilirkisi-raporu-itiraz",
+  "title": "Bilirkişi raporuna itiraz — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Bilirkişi raporuna itiraz hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada…",
+  "h1": "Bilirkişi raporuna itiraz",
+  "keywords": [
+    "bilirkişi raporuna itiraz",
+    "bilirkisi raporu itiraz"
+  ],
+  "category": "Usul",
+  "related": [
+    "zamanaşimi-nedir",
+    "hukuk-davasi-nasil-acilir",
+    "istinaf-nedir",
+    "is-kazasi-tazminati"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/zamanaşimi-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=bilirki%C5%9Fi"
+    }
+  ],
+  "lead": "Mahkemeden bilirkişi raporu geldiğinde dosyanın kaderi değişebilir; eksik ya da hatalı kısımlara **iki hafta içinde** itiraz etmelisiniz.",
+  "keyInsight": "Genel ifadelerle rapora karşı çıkmak yetersiz kalır; rapordaki hata veya eksiklikleri somut gerekçelerle ortaya koymalısınız.",
+  "sections": [
+    {
+      "heading": "Rapor elinize ulaştığında ne yapmalısınız?",
+      "paragraphs": [
+        "Günlerdir beklediğiniz mahkeme evrakı nihayet masanıza geldi. Zarfı açtınız ve bilirkişinin hazırladığı raporun lehinize olmadığını, hatta temel bazı hususları göz ardı ettiğini gördünüz. Bu aşamada acele etmeli ve **raporun tebliğ tarihini** bir yere not etmelisiniz.",
+        "Raporun içeriğini dikkatle inceleyip hangi hesaplamaların veya tespitlerin gerçeği yansıtmadığını belirleyin. Sessiz kalmak, rapordaki tüm tespitleri kabul ettiğiniz anlamına gelebilir."
+      ],
+      "bullets": [
+        "Tebligat tarihini kontrol edin",
+        "Raporun hatalı kısımlarını not edin"
+      ]
+    },
+    {
+      "heading": "İtiraz süresini nasıl hesaplamalısınız?",
+      "paragraphs": [
+        "Kanun, bilirkişi raporuna karşı çıkmak ve eksiklerin giderilmesini istemek için taraflara sınırlı bir zaman tanır. Raporun size tebliğ edildiği günden itibaren **iki haftalık yasal süre** işlemeye başlar.",
+        "Bu süre zarfında kapsamlı bir çalışma yapmanın imkânsız olduğu durumlarda, mahkemeye başvurarak ek süre talebinde bulunma imkânı da mevcuttur."
+      ],
+      "bullets": [
+        "İki hafta kuralına uyun",
+        "Gerekirse ek süre isteyin"
+      ]
+    },
+    {
+      "heading": "İtiraz dilekçesi nasıl yazılmalıdır?",
+      "paragraphs": [
+        "Mahkemeye vereceğiniz dilekçe sadece \"raporu kabul etmiyoruz\" cümlesinden ibaret olamaz. Raporda eksik bırakılan noktaları, belirsiz ifadeleri veya hatalı hesaplama yöntemlerini açıkça göstermelisiniz.",
+        "Amacınız ya bilirkişinin eksik hususları tamamlamasını ya da dosyaya **yeni bir bilirkişi** atanmasını sağlamaktır."
+      ],
+      "bullets": [
+        "Somut gerekçeler yazın",
+        "Yeni bilirkişi talep edin"
+      ]
+    },
+    {
+      "heading": "Hâkim rapora rağmen karar verebilir mi?",
+      "paragraphs": [
+        "Hâkim bilirkişinin raporuyla birebir bağlı değildir ancak uygulamada bu raporlar kararların temelini oluşturur. Bu yüzden rapora zamanında ve doğru argümanlarla itiraz etmek davanın gidişatını doğrudan etkiler."
+      ],
+      "bullets": [
+        "Hâkimin takdir yetkisini unutmayın"
+      ]
+    }
+  ],
+  "steps": [
+    "Raporun tebliğ veya öğrenme tarihini takvime işleyin.",
+    "İki haftalık yasal süreyi kesinlikle kaçırmayın.",
+    "Rapordaki hesap hatası, yöntem yanlışı ve eksik incelemeleri somut olarak belirleyin.",
+    "Mahkemeden ek rapor alınmasını veya yeni bilirkişi atanmasını talep edin.",
+    "Süre yetmezse gerekçesini sunarak ek süre isteyin."
+  ],
+  "documents": [
+    "bilirkişi raporu",
+    "tebliğ mazbatası veya e-tebligat parçası",
+    "itiraz dilekçesi",
+    "karşı hesap ve dayanak belgeler"
+  ],
+  "faq": [
+    {
+      "q": "Bilirkişi raporuna süresinde itiraz etmezsem ne olur?",
+      "a": "Rapordaki tespitleri kabul etmiş sayılabilirsiniz ve sonraki aşamalarda bu hususları yeniden tartışmaya açmak son derece zorlaşır."
+    },
+    {
+      "q": "İki haftalık süre uzatılabilir mi?",
+      "a": "Raporun kapsamı özel bir çalışma gerektiriyorsa, bu süre içinde başvurulması şartıyla bir defaya mahsus ek süre verilebilir."
+    },
+    {
+      "q": "İtiraz dilekçesinde hangi taleplerde bulunulabilir?",
+      "a": "Eksiklerin tamamlanması, belirsizliklerin giderilmesi, ek rapor alınması veya yeni bir bilirkişi görevlendirilmesi istenebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "zamanaşimi-nedir",
+  "angle": "Bilirkişi raporuna itiraz",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "yapı-denetim-nedir",
+  "title": "Yapı denetim zorunlu mudur — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Yapı denetim zorunlu mudur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
+  "h1": "Yapı denetim zorunlu mudur?",
+  "keywords": [
+    "yapı denetim"
+  ],
+  "category": "İmar",
+  "related": [
+    "iskan-belgesi-nedir",
+    "yapı-ruhsati-nedir",
+    "kentsel-donusum-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/iskan-belgesi-nedir"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    },
+    {
+      "label": "Belediye",
+      "href": "/kategori/belediye"
+    }
+  ],
+  "lead": "Yapı denetimi, binaların projeye, standartlara ve fen kurallarına uygun yapılmasını sağlayan zorunlu bir süreçtir. Ancak kanunlarda belirtilen istisnai yapılarda ve belirli alanlardaki tarımsal faaliyetlerde farklı kurallar uygulanabilir.",
+  "keyInsight": "Mimarlar ve mühendisler, yapının mevzuata aykırı olduğunu veya yetkisiz usta çalıştırıldığını **altı iş günü içinde** ilgili idareye yazılı olarak bildirmek zorundadır.",
+  "sections": [
+    {
+      "heading": "Hangi yapılarda denetim ve ruhsat esastır?",
+      "paragraphs": [
+        "Bir inşaata başlamadan önce kuralların ne olduğunu bilmeniz gerekir. İmar Kanunu'na göre, köy yerleşik alanları dışındaki tarım ve hayvancılık amaçlı yapıların yapı ruhsatı alınarak inşa edilmesi zorunludur.",
+        "Bu tür yapıların denetimine yönelik fenni mesuliyet, uzman mimar ve mühendisler tarafından üstlenilir. Projelerin ve inşanın kurallara uygun gitmesi bu denetime bağlıdır."
+      ],
+      "bullets": [
+        "Ruhsat zorunluluğu",
+        "Fenni mesuliyet"
+      ]
+    },
+    {
+      "heading": "Köylerde durum nasıldır?",
+      "paragraphs": [
+        "Evinizi veya tarımsal yapınızı köy yerleşik alanında yapıyorsanız süreç değişir. Belediye ve mücavir alanlar dışında, köy yerleşik alanlarında yapılacak bazı konut ve tarımsal yapılar için yapı ruhsatı aranmaz.",
+        "Ancak ruhsat aranmasa bile etüt ve projelerin **valilik onayını** müteakip muhtarlığa bildirilmesi şarttır. Projelerin yöresel dokuya, fen ve sağlık kurallarına uygun olması gerekir."
+      ],
+      "bullets": [
+        "Valilik onayı",
+        "Muhtarlığa bildirim"
+      ]
+    },
+    {
+      "heading": "Seralar için hangi şartlar aranır?",
+      "paragraphs": [
+        "Tarım amaçlı sera kurmak istediğinizde, ilgili il tarım ve orman müdürlüğünden **uygun görüş** almanız gerekir. Bu görüş alındıktan sonra ruhsatsız ilerlemek mümkündür.",
+        "Yine de etüt ve projelerin yetkili idare tarafından incelenmesi ve onaylanması zorunludur. İnşaatın sorumluluğunu mimar ve mühendisler üstlenir."
+      ],
+      "bullets": [
+        "İl tarım onayı",
+        "Proje incelemesi"
+      ]
+    },
+    {
+      "heading": "Fenni mesullerin sorumluluğu nedir?",
+      "paragraphs": [
+        "Yapının denetimini üstlenen meslek mensupları, işin her aşamasını izlemekle görevlidir. Yapıda yetkisiz usta çalıştırıldığını veya mevzuata aykırılık olduğunu fark ettiklerinde harekete geçmelidirler.",
+        "Bu gibi durumlarda fenni mesullerin **altı iş günü içinde** durumu yazılı olarak ilgili idareye bildirmesi şarttır. Aksi takdirde yasal sorumluluktan kurtulamazlar."
+      ],
+      "bullets": [
+        "Yazılı bildirim",
+        "Uzmanlık denetimi"
+      ]
+    }
+  ],
+  "steps": [
+    "Yapınızın bulunduğu alanın imar durumunu ve köy yerleşik sınırları içinde olup olmadığını öğrenin.",
+    "Gerekli etüt ve projeleri hazırlatarak ilgili kurumlardan onay veya uygun görüş alın.",
+    "İnşaat sürecinde görev yapan fenni mesullerin denetim şartlarına uyduğunu takip edin.",
+    "Aykırılık veya yetkisiz işçi durumu olduğunda yasal süre içinde bildirim yapıldığından emin olun."
+  ],
+  "documents": [
+    "Etüt ve projeler",
+    "Valilik onay belgesi",
+    "İl tarım ve orman müdürlüğü uygun görüşü",
+    "Muhtarlık bildirim evrakı"
+  ],
+  "faq": [
+    {
+      "q": "Her yapı için yapı denetimi zorunlu mudur?",
+      "a": "Köy yerleşik alanlarındaki bazı yapılar ve uygun görüş alınan seralar gibi istisnalar hariç, genel olarak projelerin ve yapıların fenni mesuliyet altında denetlenmesi esastır."
+    },
+    {
+      "q": "Köylerde yapılacak evler için ruhsat gerekiyor mu?",
+      "a": "Belediye ve mücavir alan dışındaki köy yerleşik alanlarında yapılacak konutlar için yapı ruhsatı aranmaz ancak etüt ve projelerin valilik onayıyla muhtarlığa bildirilmesi zorunludur."
+    },
+    {
+      "q": "Fenni mesul istifa ederse ne olur?",
+      "a": "Başka bir meslek mensubu fenni mesuliyeti üstlenmedikçe yapının devamına izin verilmez."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "iskan-belgesi-nedir",
+  "angle": "Denetim",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

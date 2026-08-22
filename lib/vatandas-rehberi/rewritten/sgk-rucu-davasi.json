@@ -1,0 +1,101 @@
+{
+  "slug": "sgk-rucu-davasi",
+  "title": "SGK rücu davası ne demektir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "SGK rücu davası ne demektir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
+  "h1": "SGK rücu davası ne demektir?",
+  "keywords": [
+    "SGK rücu",
+    "SGK rücu davası işveren"
+  ],
+  "category": "İş",
+  "related": [
+    "is-kazasi-tazminati",
+    "is-veren-sorumlulugu-kazasi",
+    "is-guvenligi-uzmani"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/is-kazasi-tazminati"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    },
+    {
+      "label": "İSG",
+      "href": "/kategori/isg"
+    }
+  ],
+  "lead": "SGK rücu davası, iş yerinde yaşanan bir kaza sonrası SGK'nın işçiye yaptığı ödemeleri işverenden geri istemesidir. Bu durum, işverenin iş güvenliği kurallarını ihmal etmesi sonucu ortaya çıkar.",
+  "keyInsight": "SGK'nın rücu hakkı, işverenin kusurlu olduğu veya gerekli önlemleri almadığı durumlarda işçiye ödenen tutarların işverene yansıtılmasına dayanır.",
+  "sections": [
+    {
+      "heading": "SGK rücu nedir?",
+      "paragraphs": [
+        "İş yerinde bir iş kazası yaşandığında, SGK işçinin tedavi masraflarını karşılar veya ona gelir bağlar. Ancak kurum, bu harcamaların nedenini araştırır. Eğer kazanın işverenin ihmali veya kurallara uymaması sonucu gerçekleştiği tespit edilirse, SGK ödediği bu parayı işverenden tahsil etmek ister.",
+        "Bu süreçte işveren, sadece kendi cebinden çıkan tazminatlarla değil, SGK'nın kurum olarak yaptığı tüm harcamalarla da yüzleşmek zorunda kalır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hangi durumlar riski artırır?",
+      "paragraphs": [
+        "İşveren olarak iş yerinde **iş güvenliği önlemlerini eksiksiz almak** en temel görevinizdir. Eğer işçiye gerekli koruyucu ekipman verilmediyse veya çalışma ortamı tekinsiz bırakıldıysa, rücu davası kaçınılmaz hale gelir.",
+        "İşçinin kendi kusuru olsa dahi, işverenin denetim eksikliği veya mevzuata aykırı bir çalışma düzeni, sorumluluğu işverene yükler."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Dava süreci nasıl işler?",
+      "paragraphs": [
+        "Kurum, kazanın nedenini belirleyen müfettiş raporlarını esas alır. Kusur oranları belirlendikten sonra SGK, ödediği bedelleri işverene bir yazı ile bildirir. Ödeme yapılmadığı takdirde konu yargıya taşınır.",
+        "Dava aşamasında mahkeme, iş yerindeki kusur dağılımını yeniden değerlendirir. **Kusur oranınızın doğru tespiti** davanın sonucunu doğrudan etkiler."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreci nasıl yönetmelisiniz?",
+      "paragraphs": [
+        "Öncelikle elinizdeki tüm iş güvenliği kayıtlarını ve eğitim belgelerini düzenli tutun. Bir kaza yaşandığında, olayın hemen ardından tutanakları eksiksiz hazırlamak ve tüm süreci kayıt altına almak savunmanız için kritiktir.",
+        "Dava tebligatı geldiğinde, süreci profesyonel bir destekle takip ederek kusur oranına itiraz etme haklarınızı kullanmalısınız."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İş yeri kaza tutanağını hemen düzenleyin.",
+    "İş güvenliği uzmanı raporlarını inceleyin.",
+    "SGK'dan gelen bildirimleri takip edin.",
+    "Kusur oranlarına karşı yasal itiraz sürelerini kaçırmayın.",
+    "Tüm iş güvenliği eğitim belgelerini hazır tutun."
+  ],
+  "documents": [
+    "İş kazası tutanağı",
+    "İş güvenliği eğitim kayıtları",
+    "Risk değerlendirme raporu",
+    "SGK rücu bildirim yazısı",
+    "Bilirkişi raporları"
+  ],
+  "faq": [
+    {
+      "q": "SGK her kazada rücu davası açar mı?",
+      "a": "Hayır, sadece işverenin kusurlu olduğu veya önlem almadığı hallerde rücu hakkı doğar."
+    },
+    {
+      "q": "İşçinin hatası varsa ne olur?",
+      "a": "Mahkeme, işçi ve işverenin kusur oranlarını belirler. İşveren sadece kendi kusuru oranında ödemeden sorumlu olur."
+    },
+    {
+      "q": "Dava ne kadar sürer?",
+      "a": "Davanın süresi, kaza sonrası yapılan incelemelere ve bilirkişi raporlarının hızına bağlı olarak değişiklik gösterir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "is-kazasi-tazminati",
+  "angle": "SGK rücu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

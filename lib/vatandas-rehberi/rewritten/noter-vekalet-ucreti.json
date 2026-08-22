@@ -1,0 +1,112 @@
+{
+  "slug": "noter-vekalet-ucreti",
+  "title": "Noter vekâlet ücreti — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Noter vekâlet ücreti hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
+  "h1": "Noter vekâlet ücreti",
+  "keywords": [
+    "noter vekâlet ücreti",
+    "noter vekalet ucreti"
+  ],
+  "category": "Usul",
+  "related": [
+    "noter-islemleri",
+    "vekaletname-azli",
+    "avukat-vekalet-ucreti"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/noter-islemleri"
+    },
+    {
+      "label": "Noter",
+      "href": "/mevzuat"
+    },
+    {
+      "label": "Tarife",
+      "href": "/tarife-guncellemeleri"
+    }
+  ],
+  "lead": "Mahkemeye yolunuz düştüğünde avukatınızla aranızdaki veya karşı taraftan alacağınız vekâlet ücreti hukuki bir süreçtir. Bu masraflar davanın seyrine ve tarafların tutumuna göre şekillenir.",
+  "keyInsight": "Haksız veya kötüniyetli dava açılması durumunda, karşı tarafın vekâlet ücretini **ödemek zorunda kalabilirsiniz**.",
+  "sections": [
+    {
+      "heading": "Yargılama giderleri neleri kapsar?",
+      "paragraphs": [
+        "Mahkemeye başvurduğunuzda karşınıza sadece harçlar çıkmaz. Süreç içinde yapılan tebligat masrafları, dosya giderleri ve vekâletname düzenlenmesine ilişkin masraflar bu kapsamdadır.",
+        "Ayrıca tanık veya bilirkişilere ödenen ücretler ile resmi dairelerden alınan belgeler için yapılan ödemeler de yargılama giderleri arasında yer alır."
+      ],
+      "bullets": [
+        "Başvuru ve karar harçları",
+        "Posta ve tebligat masrafları",
+        "Vekâletname giderleri"
+      ]
+    },
+    {
+      "heading": "Haksız dava açmanın maliyeti nedir?",
+      "paragraphs": [
+        "Hiçbir hakkınız olmadığı hâlde dava açarsanız veya kötüniyetli bir tutum sergilerseniz, mahkeme sizi cezalandırabilir. Bu durumda yargılama giderlerinin yanı sıra karşı tarafın avukatlık ücretini de **tamamen ödemeye** mahkûm edilebilirsiniz.",
+        "Ücret konusunda bir anlaşmazlık çıkarsa veya mahkeme istenen rakamı fahiş bulursa, miktarı doğrudan hâkim belirler. Ayrıca bu duruma sebep olan taraf disiplin para cezasıyla da karşı karşıya kalabilir."
+      ],
+      "bullets": [
+        "Karşı tarafın vekâlet ücreti",
+        "Disiplin para cezası riski"
+      ]
+    },
+    {
+      "heading": "Tebligat ve resmi işlemler nasıl yürütülür?",
+      "paragraphs": [
+        "Mahkemeler ve noterler yapacakları tüm tebligatları Posta ve Telgraf Teşkilatı aracılığıyla veya memur vasıtasıyla gerçekleştirir. İhtiyaç duyulursa uçak veya benzeri seri vasıtalar da kullanılabilir.",
+        "Yurt dışında bulunan kişilere yapılacak tebligatlar ise ilgili konsolosluklar ve Dışişleri Bakanlığı aracı kılınarak usulüne uygun şekilde yerine getirilir."
+      ],
+      "bullets": [
+        "PTT ve memur yoluyla tebliğ",
+        "Yurt dışı tebligat prosedürü"
+      ]
+    },
+    {
+      "heading": "Arabuluculuk sürecinde masraflar nasıl çözülür?",
+      "paragraphs": [
+        "Dava açmadan önce veya dava sırasında arabulucuya başvurulabilir. Taraflar anlaşma sağlarsa süreç ilerler; ancak başvuru teklifine taraflardan biri zamanında olumlu yanıt vermezse teklif reddedilmiş sayılır.",
+        "Adli yardıma ihtiyaç duyan kişiler, ilgili mahkeme kararıyla arabuluculuk ücreti desteğinden yararlanabilir. Dava şartı olan konularda son tutanağın mahkemeye sunulması zorunludur."
+      ],
+      "bullets": [
+        "Otuz günlük cevap süresi",
+        "Adli yardım imkânı"
+      ]
+    }
+  ],
+  "steps": [
+    "Mahkeme veya arabuluculuk başvurusunu yetkili büroya yapın.",
+    "Gerekli tebligat ve dosya masraflarını eksiksiz yatırın.",
+    "Süreç içinde talep edilen belgeleri zamanında mahkemeye sunun.",
+    "Duruşma ve toplantı tarihlerini takibe alın."
+  ],
+  "documents": [
+    "Vekâletname",
+    "Arabuluculuk son tutanağı",
+    "Başvuru dilekçesi",
+    "Masraf makbuzları"
+  ],
+  "faq": [
+    {
+      "q": "Vekâletname düzenleme masrafı kim tarafından ödenir?",
+      "a": "Vekâletnamenin çıkarılmasına ilişkin masraflar yargılama giderleri arasında yer alır ve dava sonucuna göre değerlendirilir."
+    },
+    {
+      "q": "Kötüniyetli dava açarsam ne olur?",
+      "a": "Haksız veya kötüniyetli dava açılması hâlinde, karşı tarafın vekâlet ücretini ödemeye mahkûm edilebilir ve disiplin para cezası alabilirsiniz."
+    },
+    {
+      "q": "Arabuluculuk ücretini ödeyemeyecek durumdaysam ne yapmalıyım?",
+      "a": "Adli yardıma ihtiyaç duyan taraf, arabuluculuk bürosunun bulunduğu yerdeki sulh hukuk mahkemesinden adli yardım talebinde bulunabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "noter-islemleri",
+  "angle": "Noter vekâlet ücreti",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "ogrenim-ucreti-iade",
+  "title": "Üniversite öğrenim ücreti iade | Vatandaş Rehberi",
+  "description": "Üniversite öğrenim ücreti iade hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
+  "h1": "Üniversite öğrenim ücreti iade",
+  "keywords": [
+    "üniversite öğrenim ücreti iade",
+    "ogrenim ucreti iade"
+  ],
+  "category": "Eğitim",
+  "related": [
+    "okul-kayit-ucreti-iade",
+    "ogrenci-belgesi-e-devlet",
+    "tuketici-hakem-heyeti",
+    "idari-dava-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/okul-kayit-ucreti-iade"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=%C3%BCniversite"
+    }
+  ],
+  "lead": "Üniversiteye kayıt yaptırdınız ancak vazgeçtiniz ya da dersler başlamadan ayrılmak istiyorsunuz. Yatırılan paranın geri alınıp alınamayacağı, okulun **kayıt silme** işlemine ve dönemin başlangıç tarihine bağlıdır.",
+  "keyInsight": "En büyük tuzak, dilekçe vermeden geçen her günde okulun yeni masraf kalemi çıkarmasıdır.",
+  "sections": [
+    {
+      "heading": "Ne zaman para iadesi hakkı doğar?",
+      "paragraphs": [
+        "Okulun ilan ettiği akademik takvimde derslerin başladığı gün, paranızın kaderini belirleyen sınırdır. Henüz dersler başlamadan ve resmi olarak kayıt sildiğinizde, ödediğiniz ücretin tamamına veya büyük kısmına **iade** yoluyla kavuşabilirsiniz.",
+        "Ancak dönem başladıktan sonra yapılan ayrılma işlemlerinde, okul yönetimi genellikle o haftaya ait hizmet bedelini düşer. Kalan tutarın iadesi ise tamamen kurumun iç yönetmeliğindeki kesinti oranlarına takılır."
+      ],
+      "bullets": [
+        "Dersler başlamadan yapılan başvurular en şanslı dönemdir.",
+        "Geçen her hafta okulda kalacak kesinti miktarını artırır."
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırınca karşınıza ne çıkar?",
+      "paragraphs": [
+        "Telefonla arayıp 'ben vazgeçtim' demek hukuken hiçbir şey ifade etmez. Siz resmi dilekçeyi verene kadar geçen sürede okul yönetimi adınıza kayıt işletmeye devam eder.",
+        "Zamanında verilmeyen dilekçeler yüzünden, gitmediğiniz bir dönemin borcuyla karşılaşabilir ve paranızı tamamen **yakma** tehlikesiyle baş başa kalabilirsiniz."
+      ],
+      "bullets": [
+        "Sözlü bilgilendirme asla resmi işlem yerine geçmez.",
+        "Geciken her başvuru iade tutarını sıfırlayabilir."
+      ]
+    },
+    {
+      "heading": "Yanınızda mutlaka ne dursun?",
+      "paragraphs": [
+        "Mali işlerle görüşmeye giderken elinizde okulun ilk kayıt dekontu ve öğrenci kimliği olmalıdır. Kimlik basılmadıysa kayıt belgesi işinizi görür.",
+        "İade talebini ilettiğiniz an, okuldan **tarih damgalı** bir evrak veya dilekçe örneği almayı unutmayın."
+      ],
+      "bullets": [
+        "İlk ödeme makbuzu en temel delildir.",
+        "Islak imzalı başvuru belgesinin kopyasını saklayın."
+      ]
+    },
+    {
+      "heading": "Parayı hangi yolla geri alırsınız?",
+      "paragraphs": [
+        "Dilekçeniz onaylandıktan sonra süreç finans departmanına geçer. Para, kural olarak ödemeyi yapan kişinin banka hesabına gönderilir.",
+        "Okul yönetimi nakit ödeme yapmaz; bu yüzden IBAN numaranızın dilekçede ve sistemde hatasız yazılı olduğundan emin olun."
+      ],
+      "bullets": [
+        "İade sadece ödemeyi yapan hesaba yapılır.",
+        "IBAN hataları süreci gereksiz yere uzatır."
+      ]
+    }
+  ],
+  "steps": [
+    "Vazgeçtiğiniz an vakit kaybetmeden öğrenci işleri ile iletişime geçin.",
+    "Kayıt silme ve iade talep eden ıslak imzalı dilekçeyi hazırlayın.",
+    "Dilekçeyi fakülte veya yüksekokul sekreterliğine resmi olarak teslim edin.",
+    "Mali işler biriminden iade onay sürecinin hangi aşamada olduğunu takip edin.",
+    "Hesabınıza paranın yatıp yatmadığını ilgili banka kanalından kontrol edin."
+  ],
+  "documents": [
+    "Öğrenim ücreti yatırıldı dekontu",
+    "Kayıt silme dilekçesi",
+    "Öğrenci kimlik kartı",
+    "Banka IBAN bilgisi"
+  ],
+  "faq": [
+    {
+      "q": "Dersler başladıktan sonra kayıt sildirsem paramın tamamı yanar mı?",
+      "a": "Tamamı yanmayabilir ancak okulun yönetmeliğine göre geçen süreye bağlı olarak belirli bir kesinti yapılır ve kalan tutar size ödenir."
+    },
+    {
+      "q": "İade dilekçesini nereye vermem gerekiyor?",
+      "a": "Dilekçeyi doğrudan kayıtlı olduğunuz fakültenin veya yüksekokulun öğrenci işleri birimine vermelisiniz."
+    },
+    {
+      "q": "Para hesaba ne zaman yatar?",
+      "a": "Süreç okulun muhasebe biriminin yoğunluğuna göre değişir; onay verildikten sonra genellikle birkaç hafta içinde hesaba geçer."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "okul-kayit-ucreti-iade",
+  "angle": "Üniversite öğrenim ücreti iade",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

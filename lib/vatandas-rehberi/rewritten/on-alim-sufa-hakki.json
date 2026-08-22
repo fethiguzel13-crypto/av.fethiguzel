@@ -1,0 +1,111 @@
+{
+  "slug": "on-alim-sufa-hakki",
+  "title": "Önalım hakkı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Önalım hakkı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
+  "h1": "Önalım hakkı",
+  "keywords": [
+    "önalım hakkı",
+    "on alim sufa hakki"
+  ],
+  "category": "Eşya",
+  "related": [
+    "izale-i-suyu",
+    "tapu-devri-nasil-yapilir",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/izale-i-suyu"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    }
+  ],
+  "lead": "Ortak olduğunuz gayrimenkuldeki bir payın dışarıdan birine satılması halinde, diğer paydaşlar olarak öncelikli alma hakkına sahipsiniz. Bu hak, satışın **noter aracılığıyla** size bildirilmesiyle işlemeye başlar.",
+  "keyInsight": "Bildirim yapıldıktan sonra **üç ay içinde** dava açmazsanız bu hakkınızı tamamen kaybedersiniz.",
+  "sections": [
+    {
+      "heading": "Kimler bu haktan yararlanabilir?",
+      "paragraphs": [
+        "Tapuda paylı mülkiyet olarak kaydedilmiş bir taşınmazda hisse sahibisiniz. Diğer ortaklardan biri kendi payını tamamen veya kısmen üçüncü bir kişiye devrettiğinde süreç başlar.",
+        "Asıl soru, bu satışın haberdar edilip edilmediğidir. Satış gerçekleştiğinde, diğer paydaşlar olarak araya girip o payı devralma şansınız doğar."
+      ],
+      "bullets": [
+        "Paylı mülkiyet şartı",
+        "Üçüncü kişiye satış"
+      ]
+    },
+    {
+      "heading": "Bildirim nasıl yapılır?",
+      "paragraphs": [
+        "Yapılan satış, alıcı veya satıcı tarafından diğer paydaşlara **noter aracılığıyla** resmi olarak bildirilir. Bu bildirim, hak sahibinin süreci başlatması için kritik bir eşiktir.",
+        "Eğer resmi bir bildirim yapılmamışsa, genel olarak satışın üzerinden geçecek süreler hesaplamaya dahil olur ancak en güvenli yol resmi tebligattır."
+      ],
+      "bullets": [
+        "Noter kanalıyla bildirim",
+        "Alıcı veya satıcı bildirimi"
+      ]
+    },
+    {
+      "heading": "Hangi satışlarda bu hak kullanılmaz?",
+      "paragraphs": [
+        "Her satışta bu hakkı kullanamazsınız. Devlet İhale Kanunu kapsamında yapılan satışlar ile cebrî artırmayla yapılan satışlarda bu kural geçerli değildir.",
+        "Ayrıca daha önceden resmi şekilde feragat etmişseniz, bu hakkı sonradan tekrar ileri süremezsiniz."
+      ],
+      "bullets": [
+        "İhale satışları",
+        "Cebri artırma"
+      ]
+    },
+    {
+      "heading": "Dava süreci ve mahkeme aşaması",
+      "paragraphs": [
+        "Bu hakkı kullanmak için doğrudan **alıcıya karşı dava** açmanız gerekir. Mahkeme, dava konusu payın bedelini gecikmeksizin belirler.",
+        "Hakim tarafından belirlenen rayiç bedel ile tapu giderlerini, verilen kesin süre içinde mahkemenin gösterdiği yere nakden yatırmak zorundasınız."
+      ],
+      "bullets": [
+        "Alıcıya karşı dava",
+        "Rayiç bedel tespiti"
+      ]
+    }
+  ],
+  "steps": [
+    "Satıştan haberdar olduğunuzda noter bildirimini inceleyin.",
+    "Süreyi geçirmeden alıcıya karşı dava açın.",
+    "Mahkemenin belirlediği rayiç bedel ve masrafları verilen sürede yatırın.",
+    "Davanın sonucunu ve tescil kararını bekleyin."
+  ],
+  "documents": [
+    "Noter bildirim kağıdı",
+    "Tapu kayıt örnekleri",
+    "Dava dilekçesi",
+    "Masraf dekontları"
+  ],
+  "faq": [
+    {
+      "q": "Bu hakkı kullanmak için nereye başvurmalıyım?",
+      "a": "Hak, alıcıya karşı mahkemede dava açılarak kullanılır."
+    },
+    {
+      "q": "Bildirim yapılmazsa süre ne zaman başlar?",
+      "a": "Satışın üzerinden bir yıl geçmekle hak düşer."
+    },
+    {
+      "q": "Bedeli ne zaman yatırmalıyım?",
+      "a": "Hakim tarafından verilen kesin süre içinde nakden yatırmalısınız."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "izale-i-suyu",
+  "angle": "Önalım hakkı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

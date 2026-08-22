@@ -1,0 +1,113 @@
+{
+  "slug": "trafik-kazasi-tazminati",
+  "title": "Trafik Kazası Tazminatı Nasıl Alınır?",
+  "description": "Trafik kazası tazminatı nasıl alınır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
+  "h1": "Trafik kazası tazminatı nasıl alınır?",
+  "keywords": [
+    "trafik kazası tazminatı",
+    "trafik sigortası tazminat",
+    "maddi hasar"
+  ],
+  "category": "Trafik",
+  "related": [
+    "trafik-sigortasi-hasar",
+    "kaza-tespit-tutanagi",
+    "kusur-orani-trafik",
+    "arac-muayene-gecikme",
+    "plaka-devri-arac-satis",
+    "trafik-sigortasi-zorunlu",
+    "deger-kaybi-arac",
+    "destekten-yoksun-kalma"
+  ],
+  "links": [
+    {
+      "label": "KTK",
+      "href": "/kategori/ktk"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    }
+  ],
+  "lead": "Trafik kazası geçirdiniz. Asıl soru kimin haklı olduğu değil, hasarın ve zararın nasıl belgeleneceğidir.",
+  "keyInsight": "Hak sahibinin kendi kusuruna denk gelen tazminat talepleri sigorta kapsamı dışındadır.",
+  "sections": [
+    {
+      "heading": "Kaza yerinde ilk adım nedir?",
+      "paragraphs": [
+        "Yolda kaldınız, belki aracınız hasar gördü. İlk iş, yetkili birimlerin tutanak tutmasını sağlamaktır.",
+        "İçişleri Bakanlığı görevlileri duran ve akan trafiği düzenler, el koydukları kazalarda trafik kaza tespit tutanağı düzenlerler."
+      ],
+      "bullets": [
+        "Tutanak tutturun",
+        "Fotoğraf çekin"
+      ]
+    },
+    {
+      "heading": "Sigorta neleri ödemez?",
+      "paragraphs": [
+        "Her hasar sigortadan karşılanmaz. Kanun bazı istisnalar belirlemiştir.",
+        "İşletenin eşine, çocuklarına, anne babasına ve birlikte yaşadığı kardeşlerinin mallarına gelen zararlar ile manevi tazminat talepleri zorunlu mali sorumluluk sigortası dışındadır."
+      ],
+      "bullets": [
+        "Manevi tazminat kapsam dışı",
+        "Aile bireylerinin malları"
+      ]
+    },
+    {
+      "heading": "Hangi zararlar kapsam dışındadır?",
+      "paragraphs": [
+        "Kazadan sonra gelir kaybı veya kâr kaybı yaşayabilirsiniz. Ancak bu dolaylı zararlar için de özel kurallar vardır.",
+        "Gelir kaybı, iş durması, kira mahrumiyeti ve hurdaya çıkmış araçların değer kaybı talepleri sigorta kapsamı dışındadır."
+      ],
+      "bullets": [
+        "Dolaylı zararlar ödenmez",
+        "Değer kaybı istisnaları"
+      ]
+    },
+    {
+      "heading": "Ödemeyi hızlandırmak nasıl olur?",
+      "paragraphs": [
+        "Süreçte belgelerin eksiksiz gitmesi işinizi kolaylaştırır.",
+        "Hasar tazminatı ödemelerini hızlandırmak amacıyla sigorta şirketlerince istenecek gerekli bilgi ve belgeleri sağlamalısınız."
+      ],
+      "bullets": [
+        "Belgeleri eksiksiz verin",
+        "İhbarı geciktirmeyin"
+      ]
+    }
+  ],
+  "steps": [
+    "Kaza tespit tutanağı ve fotoğrafı alın; sağlık kaydı düşürtün.",
+    "Zorunlu mali sorumluluk sigortasına ihbar edin.",
+    "Kusur oranını ve hasar kalemlerini ayırın.",
+    "Sigorta ödemezse tahkim veya dava açın.",
+    "Değer kaybını ayrı talep edin."
+  ],
+  "documents": [
+    "kaza tutanağı",
+    "poliçe",
+    "eksper / fatura",
+    "sağlık raporu"
+  ],
+  "faq": [
+    {
+      "q": "Manevi tazminat sigortadan alınır mı?",
+      "a": "Hayır, manevi tazminata ilişkin talepler zorunlu mali sorumluluk sigortası kapsamı dışındadır."
+    },
+    {
+      "q": "Kendi kusurum olan kısmı alabilir miyim?",
+      "a": "Hak sahibinin kendi kusuruna denk gelen tazminat talepleri ödenmez."
+    },
+    {
+      "q": "Kira mahrumiyeti ödenir mi?",
+      "a": "Gelir kaybı, kâr kaybı, iş durması ve kira mahrumiyeti gibi dolaylı zararlar kapsam dışıdır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "trafik-kazasi-tazminati",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

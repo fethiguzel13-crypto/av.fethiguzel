@@ -1,0 +1,112 @@
+{
+  "slug": "idari-islem-nedir",
+  "title": "İdari işlem ne demektir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İdari işlem ne demektir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
+  "h1": "İdari işlem ne demektir?",
+  "keywords": [
+    "idari işlem nedir"
+  ],
+  "category": "İdare",
+  "related": [
+    "idari-dava-nasil-acilir",
+    "iptal-davasi-nedir",
+    "bilgi-edinme-basvurusu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/idari-dava-nasil-acilir"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    },
+    {
+      "label": "İçtihat",
+      "href": "/icthat"
+    }
+  ],
+  "lead": "İdari işlem, devletin veya kamu kurumlarının size karşı tek taraflı olarak yaptığı, hukuki sonuç doğuran kararlardır. Bu işlemle karşılaştığınızda hak arama yolları ve süreler devreye girer.",
+  "keyInsight": "İdari işlemlere karşı süresinde başvuru yapmazsanız hak kaybı yaşarsınız.",
+  "sections": [
+    {
+      "heading": "İdari işlemle karşılaşınca ne olur?",
+      "paragraphs": [
+        "Belediye veya valilik gibi resmi kurumlar hakkınızda bir karar aldığında bu bir idari işlemdir. Örneğin imar planları veya kamulaştırma kararları bu kapsamdadır.",
+        "Bu kararlar size tebliğ edildiğinde veya ilan edildiğinde hukuki süreç başlar. İşlemin hukuka aykırı olduğunu düşünüyorsanız **idari yargıda iptal** davası açma hakkınız doğar."
+      ],
+      "bullets": [
+        "Tek taraflı iradeyle yapılır",
+        "Hukuki durum yaratır"
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırınca ne olur?",
+      "paragraphs": [
+        "Resmi kurumların yaptığı işlemler için kanunlarda kesin süreler öngörülmüştür. Örneğin kamulaştırma veya imar planı ilanlarında belirtilen askı ve dava sürelerine uyulmalıdır.",
+        "Tebligat veya ilan tarihinden itibaren başlayan bu **otuz gün** içinde adım atmazsanız, işlem kesinleşir ve itiraz etme şansınızı kaybedersiniz."
+      ],
+      "bullets": [
+        "Süreler hak düşürücüdür",
+        "Geçmiş günler geri alınmaz"
+      ]
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "Kurumun aldığı karar, size gelen tebligat zarfı veya ilanın asıldığı yerdeki tutanaklar en önemli delillerdir. Hangi tarihte haberdar olduğunuzu kanıtlamak için bu evraklar saklanmalıdır.",
+        "Dava açarken **idari yargı** mercilerine sunulacak dilekçede maddi hatalara karşı adli yargı veya iptal talepleri net bir şekilde ayrılmalıdır."
+      ],
+      "bullets": [
+        "Tebligat mazbatası",
+        "İşlem metni"
+      ]
+    },
+    {
+      "heading": "Hangi mercie başvurulur?",
+      "paragraphs": [
+        "İşlemin niteliğine göre başvuru yeri değişir. İmar planı itirazları ilgili belediyeye veya valiliğe yapılırken, iptal davaları idari yargıda görülür.",
+        "Maddi hataların düzeltilmesi için ise **adli yargı** yolları işaret edilmiştir. Doğru merciye süresinde başvurmak davanın esastan görülmesi için şarttır."
+      ],
+      "bullets": [
+        "İlgili idare",
+        "Yetkili mahkeme"
+      ]
+    }
+  ],
+  "steps": [
+    "İdari işlemin size tebliğ veya ilan edildiği tarihi ve günü bir yere not edin.",
+    "İşlemi yapan kurumun hangisi olduğunu ve ilgili kanun maddesini inceleyin.",
+    "Varsa maddi hatalar ile iptal gerekçelerini birbirinden ayırın.",
+    "Kanunda belirtilen süre aşılmadan yetkili yargı yoluna başvurun.",
+    "Dava açtığınıza dair belgeleri ilgili kuruma ve mahkemeye sunun."
+  ],
+  "documents": [
+    "Tebligat mazbatası veya ilan tutanağı",
+    "İdari işlem karar metni",
+    "Tapu kayıt bilgileri veya parsel belgeleri",
+    "Dava dilekçesi",
+    "Yetki ve kimlik belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "İdari işlem bana nasıl bildirilir?",
+      "a": "İşlemler yazılı tebligat yoluyla, ilgili idarelerin internet sayfalarında veya ilan yerlerinde eş zamanlı olarak duyurulur."
+    },
+    {
+      "q": "İtiraz süresi ne zaman başlar?",
+      "a": "Süre, kararın size tebliğ edildiği gün veya ilan tarihinden itibaren başlar."
+    },
+    {
+      "q": "Yanlış mahkemeye başvurursam ne olur?",
+      "a": "İptal davaları idari yargıda, maddi hataların düzeltilmesi ise adli yargıda açılmalıdır; yanlış yargı yolu süre kaybına yol açar."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "idari-dava-nasil-acilir",
+  "angle": "İşlem tanımı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

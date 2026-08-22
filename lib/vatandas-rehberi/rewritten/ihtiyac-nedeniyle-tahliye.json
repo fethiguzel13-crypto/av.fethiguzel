@@ -1,0 +1,108 @@
+{
+  "slug": "ihtiyac-nedeniyle-tahliye",
+  "title": "İhtiyaç Nedeniyle Tahliye Şartları | Vatandaş Rehberi",
+  "description": "İhtiyaç nedeniyle tahliye nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
+  "h1": "İhtiyaç nedeniyle tahliye nedir?",
+  "keywords": [
+    "ihtiyaç nedeniyle tahliye",
+    "kendisi oturacak tahliye"
+  ],
+  "category": "Kira",
+  "related": [
+    "kiraci-nasil-tahliye-edilir",
+    "konut-kirasi-tahliye-sebepleri",
+    "isyeri-kirasi-tahliye"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kiraci-nasil-tahliye-edilir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "İhtiyaç nedeniyle tahliye, mülk sahibinin veya kanunda belirtilen yakınlarının konutu bizzat kullanma zorunluluğu doğduğunda başvurulan bir yoldur. Bu süreç, mülk sahibinin samimi ve gerçek bir ihtiyacının varlığına dayanır.",
+  "keyInsight": "İhtiyacın gerçek, samimi ve zorunlu olması şarttır; aksi halde mülk sahibi haksız duruma düşer.",
+  "sections": [
+    {
+      "heading": "İhtiyaç nedir ve kimleri kapsar?",
+      "paragraphs": [
+        "Mülk sahibi, kiralanan yeri kendisi, eşi, altsoyu, üstsoyu veya kanun gereği bakmakla yükümlü olduğu diğer kişiler için konut olarak kullanma ihtiyacı duyabilir. Bu durum, mevcut konutun yetersiz kalması veya mülk sahibinin barınma ihtiyacının doğması gibi somut olaylara dayanmalıdır.",
+        "İhtiyacın sadece mülk sahibi için değil, belirtilen yakınları için de doğmuş olması yeterlidir. Ancak bu ihtiyacın geçici bir heves değil, **gerçek ve zorunlu** bir durum olması gerekir."
+      ],
+      "bullets": [
+        "Mülk sahibinin kendisi",
+        "Eşi ve çocukları",
+        "Anne, baba veya bakmakla yükümlü olduğu kişiler"
+      ]
+    },
+    {
+      "heading": "Süreç nasıl başlar?",
+      "paragraphs": [
+        "Kira sözleşmesinin sona ermesi veya belirli şartların oluşmasıyla tahliye süreci gündeme gelebilir. Ancak doğrudan dava açmadan önce yapılması gereken zorunlu bir adım vardır.",
+        "Artık kira uyuşmazlıklarında **arabulucuya başvurmak dava şartıdır.** Arabuluculuk sürecinde taraflar anlaşamadığı takdirde dava açma hakkı doğar."
+      ],
+      "bullets": [
+        "Arabulucuya başvuru",
+        "Anlaşmazlık tutanağının alınması",
+        "Dava dilekçesi ile mahkemeye müracaat"
+      ]
+    },
+    {
+      "heading": "Dava aşamasında neye dikkat edilmeli?",
+      "paragraphs": [
+        "Mahkeme, mülk sahibinin gerçekten oraya taşınma niyeti olup olmadığını inceler. İhtiyacın samimi olup olmadığı, mevcut yaşam koşulları ve deliller üzerinden değerlendirilir.",
+        "Dava süreci boyunca tüm belgelerin eksiksiz sunulması, hak kaybına uğramamanız için hayati önem taşır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Tahliye sonrası yasaklar var mı?",
+      "paragraphs": [
+        "Mülk sahibi, ihtiyaç nedeniyle tahliye ettiği yeri haklı bir sebep olmaksızın üç yıl boyunca eski kiracısından başkasına kiralayamaz. Bu kurala uyulmaması durumunda mülk sahibi tazminat ödemekle yükümlü kalabilir.",
+        "Bu nedenle, tahliye isteğinin **gerçek bir ihtiyaca dayanması** hem hukuki hem de etik açıdan şarttır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İhtiyacın gerçekliğini ve zorunluluğunu tespit edin.",
+    "Arabuluculuk bürosuna başvuruda bulunun.",
+    "Arabuluculuk görüşmelerine katılarak anlaşma zeminini arayın.",
+    "Anlaşma sağlanamazsa son tutanağı alın.",
+    "Sulh Hukuk Mahkemesi'nde dava açın."
+  ],
+  "documents": [
+    "Kira sözleşmesi aslı",
+    "Arabuluculuk son tutanağı",
+    "İhtiyacı kanıtlayan belgeler (ikametgah, tapu vb.)",
+    "Tapu kayıtları"
+  ],
+  "faq": [
+    {
+      "q": "Herkes ihtiyaç nedeniyle tahliye isteyebilir mi?",
+      "a": "Sadece mülk sahibi veya kanunda sayılan yakınları bu hakka sahiptir."
+    },
+    {
+      "q": "Arabulucuya gitmeden dava açabilir miyim?",
+      "a": "Hayır, arabulucuya başvurmak artık bir dava şartıdır; aksi takdirde dava usulden reddedilir."
+    },
+    {
+      "q": "Tahliye edilen yere başkası oturabilir mi?",
+      "a": "Haklı bir sebep olmaksızın üç yıl boyunca başka birine kiralayamazsınız."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kiraci-nasil-tahliye-edilir",
+  "angle": "İhtiyaç",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

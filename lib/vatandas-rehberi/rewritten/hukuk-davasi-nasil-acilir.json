@@ -1,0 +1,108 @@
+{
+  "slug": "hukuk-davasi-nasil-acilir",
+  "title": "Hukuk Davası Nasıl Açılır? Görev, Yetki, Harç",
+  "description": "Hukuk davası nasıl açılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
+  "h1": "Hukuk davası nasıl açılır?",
+  "keywords": [
+    "hukuk davası nasıl açılır",
+    "dava dilekçesi",
+    "mahkeme harcı"
+  ],
+  "category": "Usul",
+  "related": [
+    "arabuluculuk-anlasma-icra",
+    "noter-vekalet-ucreti",
+    "hak-dusurucu-sure",
+    "kesinti-durma-zamansimi",
+    "ispat-yuku",
+    "karine-nedir",
+    "tebligat-kanunu-nedir",
+    "usulsuz-tebligat-ogrenme",
+    "e-tebligat-acmamak",
+    "yargi-giderleri",
+    "delil-tespiti",
+    "ihtiyati-tedbir-itiraz"
+  ],
+  "links": [
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Arabuluculuk",
+      "href": "/rehber/arabuluculuk"
+    }
+  ],
+  "lead": "Bir hukuk davası açmak, sadece mahkemeye bir şikayet dilekçesi sunmaktan ibaret değildir. Doğru mahkemeyi seçmek, gerekli harçları yatırmak ve eğer kanunen zorunluysa arabuluculuk gibi ön şartları yerine getirmek davanızın usulden reddedilmesini önler.",
+  "keyInsight": "Kanunen arabulucuya gitmek zorunlu olduğu halde bu adımı atlayıp doğrudan dava açarsanız, mahkeme davanızı hiçbir inceleme yapmadan doğrudan usulden reddeder.",
+  "sections": [
+    {
+      "heading": "İlk engel arabuluculuk adımıdır",
+      "paragraphs": [
+        "Bir hak kaybına uğradığınızı düşünüp hemen adliyeye koşmak isteyebilirsiniz. Ancak kanun, bazı uyuşmazlık türlerinde hakim karşısına çıkmadan önce tarafların bir arabulucu eşliğinde masaya oturmasını şart koşar.",
+        "Eğer davanız bu kapsama giriyorsa, arabuluculuk sürecinin sonunda anlaşamadığınıza dair düzenlenen **son tutanağın aslını** veya onaylı örneğini dava dilekçenize eklemek zorundasınız. Bu belgeyi eklemezseniz, mahkeme size bu eksikliği tamamlamanız için **bir haftalık kesin süre** verir. Bu sürede de tutanağı sunmazsanız davanız reddedilir."
+      ],
+      "bullets": [
+        "Arabuluculuk görüşmelerindeki teklifler ve kabuller dava sırasında delil olarak kullanılamaz.",
+        "Arabulucuya hiç başvurmadan dava açılırsa, mahkeme davayı anında usulden reddeder."
+      ]
+    },
+    {
+      "heading": "Harçlar ve tebligat giderleri nasıl ödenir?",
+      "paragraphs": [
+        "Davanın resmi olarak başlayabilmesi ve dilekçenizin karşı tarafa ulaştırılabilmesi için devletin belirlediği harçların ve tebligat giderlerinin peşin olarak ödenmesi gerekir.",
+        "Kanuna göre, verilen süreye rağmen ödenmeyen tebligat gideri eğer dava dilekçesinin karşı tarafa tebliğ edilmesiyle ilgiliyse, mahkeme davanın açılmamış sayılmasına yönelik yasal usul işlemlerini uygular. Diğer aşamalardaki tebligat giderleri ödenmezse, o tebligat konusu talebinizden vazgeçmiş sayılabilirsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Karşı tarafın hamlesine nasıl cevap verilir?",
+      "paragraphs": [
+        "Siz davanızı açtıktan sonra karşı taraf da size karşı aynı dava içinde bir hak ileri sürebilir. Buna hukukta karşı dava denir.",
+        "Karşı dava, ancak davalının size vereceği **cevap dilekçesiyle** veya en geç esasa cevap verme süresi içinde açılabilir. Eğer karşı taraf bu süreyi kaçırdıktan sonra karşı dava açmaya kalkarsa, mahkeme bu davaların beraber yürütülmesine izin vermez ve davaları birbirinden ayırır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Geçici koruma tedbirleri haksız çıkarsa ne olur?",
+      "paragraphs": [
+        "Dava devam ederken hakkınızı garantiye almak için mahkemeden ihtiyati tedbir kararı istemiş olabilirsiniz. Ancak bu hak arama yolu büyük bir sorumluluk yükler.",
+        "Eğer tedbir kararını alan tarafın aslında haksız olduğu anlaşılır, tedbir kendiliğinden kalkar veya itirazla kaldırılırsa, bu haksız tedbir yüzünden karşı tarafın uğradığı zararları tazmetmek zorunda kalırsınız. Bu tazminat davası, asıl davanın görüldüğü mahkemede açılır ve hakkın kesinleşmesinden itibaren **bir yıl** içinde zamanaşımına uğrar."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Uyuşmazlığınızın konusuna göre yetkili ve görevli mahkemeyi doğru tespit edin.",
+    "Kanunen zorunlu ise dava açmadan önce yetkili arabuluculuk bürosuna başvurun.",
+    "Arabuluculukta anlaşma sağlanamazsa düzenlenen son tutanağı imza altına alın.",
+    "Dava dilekçenizi, delil listenizi ve varsa arabuluculuk son tutanağını hazırlayın.",
+    "Mahkeme harçlarını ve tebligat gideri avansını adliye veznesine eksiksiz yatırarak davanızı açın."
+  ],
+  "documents": [
+    "Dava dilekçesi",
+    "Arabuluculuk son anlaşmazlık tutanağı",
+    "Delil listesi ve varsa yazılı deliller",
+    "Harç ve tebligat gideri yatırıldığına dair makbuzlar"
+  ],
+  "faq": [
+    {
+      "q": "Arabuluculuk tutanağını dilekçeye eklemeyi unutursam ne olur?",
+      "a": "Mahkeme size bu tutanağı sunmanız için bir haftalık kesin süre verir. Bu süre içinde de sunmazsanız davanız usulden reddedilir."
+    },
+    {
+      "q": "Arabuluculuk görüşmelerindeki konuşmalar davada delil olur mu?",
+      "a": "Hayır, arabuluculuk sürecinde taraflarca ileri sürülen öneriler, teklifler veya herhangi bir vakıanın kabulü mahkemede delil olarak ileri sürülemez."
+    },
+    {
+      "q": "Haksız yere konulan ihtiyati tedbir için tazminat davası ne zaman açılmalıdır?",
+      "a": "Tazminat davası açma hakkı, hükmün kesinleşmesinden veya tedbir kararının kalkmasından itibaren bir yıl geçmesiyle zamanaşımına uğrar."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "hukuk-davasi-nasil-acilir",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

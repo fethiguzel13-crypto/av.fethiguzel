@@ -1,0 +1,110 @@
+{
+  "slug": "dogum-belgesi-nasil-alinir",
+  "title": "Doğum belgesi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Doğum belgesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata dan…",
+  "h1": "Doğum belgesi",
+  "keywords": [
+    "doğum belgesi",
+    "dogum belgesi nasil alinir"
+  ],
+  "category": "Nüfus",
+  "related": [
+    "e-devlet-nufus",
+    "nufus-kayit-ornegi",
+    "pasaport-basvurusu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/e-devlet-nufus"
+    },
+    {
+      "label": "NHK",
+      "href": "/kategori/nhk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=do%C4%9Fum"
+    }
+  ],
+  "lead": "Yeni doğan bebeğin resmi kaydı için ilk adımı hastanede atarsınız. Süreç, doğru kurumlarla iletişime geçmenizle başlar.",
+  "keyInsight": "Bebeğin nüfusa kaydedilmesi için gerekli belgelerin eksiksiz hazırlanması ve ilgili kurumlara zamanında başvurulması şarttır.",
+  "sections": [
+    {
+      "heading": "Hastaneden çıkarken ne alırsınız?",
+      "paragraphs": [
+        "Bebeğiniz dünyaya geldiğinde elinize tutuşturulan ilk resmi evrak doğum raporudur. Bu belge, yeni gelen bireyin resmi olarak varlığının ilk kanıtıdır.",
+        "Sağlık kuruluşundan ayrılmadan önce bu evrakın eksiksiz olduğundan emin olmalısınız."
+      ],
+      "bullets": [
+        "Doğum raporunu kontrol edin",
+        "Hastaneden verilen evrakları saklayın"
+      ]
+    },
+    {
+      "heading": "Başvuru nereye yapılır?",
+      "paragraphs": [
+        "Elgitiniz doğum raporuyla birlikte nüfus müdürlüğünün yolunu tutarsınız. İşlemlerin **eksiksiz** ilerlemesi için doğru birimde olduğunuzdan emin olun.",
+        "Gerekli yetkili memur evraklarınızı inceleyerek kayıt sürecini başlatır."
+      ],
+      "bullets": [
+        "Nüfus müdürlüğüne gidin",
+        "Yetkiliye belgeleri teslim edin"
+      ]
+    },
+    {
+      "heading": "Hangi belgeler yanınızda olmalı?",
+      "paragraphs": [
+        "Evden çıkarken anne ve babanın kimlikleri mutlaka çantanızda bulunmalıdır. Eksik belge getirmek işlerinizi uzatır.",
+        "Memurun isteyeceği ek formlar varsa bunları yerinde doldurursunuz."
+      ],
+      "bullets": [
+        "Anne ve baba kimliği",
+        "Doğum raporu"
+      ]
+    },
+    {
+      "heading": "İşlem bittiğinde ne alırsınız?",
+      "paragraphs": [
+        "Kayıt tamamlandığında bebeğinizin kimlik kartı basım sürecine girer ve size geçici bir belge verilir.",
+        "Artık bebeğinizin resmi bir kimliği ve **vatandaşlık numarası** oluşmuştur."
+      ],
+      "bullets": [
+        "Geçici kayıt belgesi",
+        "Kimlik başvuru özeti"
+      ]
+    }
+  ],
+  "steps": [
+    "Doğum raporunu sağlık kurumundan alın",
+    "Kimlik belgelerinizi hazırlayın",
+    "Nüfus müdürlüğüne başvuru yapın",
+    "Kayıt işlemini tamamlayın"
+  ],
+  "documents": [
+    "Doğum raporu",
+    "Anne kimliği",
+    "Baba kimliği"
+  ],
+  "faq": [
+    {
+      "q": "Doğum belgesi nereden alınır?",
+      "a": "Bebeğin dünyaya geldiği hastaneden veya sağlık kuruluşundan temin edilir."
+    },
+    {
+      "q": "Başvuru için anne veya babanın gitmesi şart mı?",
+      "a": "Genellikle anne veya babanın bizzat başvurması veya yetkili kılınan belgelerin sunulması gerekir."
+    },
+    {
+      "q": "Kimlik kartı hemen verilir mi?",
+      "a": "Kayıt işlemi yapıldıktan sonra kimlik kartı basılır ve adresinize postalanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "e-devlet-nufus",
+  "angle": "Doğum belgesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "evlilik-basvurusu",
+  "title": "Evlilik başvurusu — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Evlilik başvurusu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
+  "h1": "Evlilik başvurusu",
+  "keywords": [
+    "evlilik başvurusu",
+    "evlilik basvurusu"
+  ],
+  "category": "Nüfus",
+  "related": [
+    "e-devlet-nufus",
+    "nufus-kayit-ornegi",
+    "evlilik-sozlesmesi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/e-devlet-nufus"
+    },
+    {
+      "label": "NHK",
+      "href": "/kategori/nhk"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    }
+  ],
+  "lead": "Evlilik başvurusu, iki kişinin hayatını resmileştiren ve belediyelerin evlendirme dairelerince yürütülen yasal bir süreçtir. Başvuru anında doğru belgeleri sunmak ve **ortak iradeyi** beyan etmek işlemin en kritik adımıdır.",
+  "keyInsight": "Evlilik başvurusunda en büyük hata, belgelerdeki eksiklikler veya sağlık raporunun **geçerlilik süresini** kaçırmaktır.",
+  "sections": [
+    {
+      "heading": "Nereye ve nasıl başvurulur?",
+      "paragraphs": [
+        "Nikah masasına oturmadan önce resmi adımları tamamlamak gerekir. Genellikle çiftlerden birinin ikamet ettiği yerdeki evlendirme dairesine **birlikte başvuru** yapılması zorunludur.",
+        "İşlemler sırasında memurun önünde imzalanacak beyannameler doldurulur ve nikah günü için uygun olan tarihler konuşulur. Yoğun sezonlarda bu tarihin çok önceden planlanması önemlidir."
+      ],
+      "bullets": [
+        "İkametgahın bulunduğu belediye",
+        "Çiftlerin şahsen katılımı",
+        "Tarih planlaması"
+      ]
+    },
+    {
+      "heading": "Hangi sağlık kontrollerinden geçilir?",
+      "paragraphs": [
+        "Evlilik ehliyetinin kanıtlanması ve sağlıklı bir aile kurulması amacıyla sağlık raporu alınması şarttır. Bu rapor, aile sağlığı merkezlerinden veya yetkili hastanelerden temin edilir.",
+        "Sağlık raporu, evlilik için gerekli **bulaşıcı hastalık taramalarını** ve fiziksel uygunluk değerlendirmelerini kapsar. Rapor olmadan evlendirme dairesinden randevu almak imkansızdır."
+      ],
+      "bullets": [
+        "Aile hekimliği muayenesi",
+        "Kan testleri",
+        "Raporun onaylanması"
+      ]
+    },
+    {
+      "heading": "Hangi evraklar hazır olmalı?",
+      "paragraphs": [
+        "Başvuru masasına oturduğunuzda çantanızda eksiksiz bir evrak dosyası bulunmalıdır. Eksik tek bir imza veya belge, tüm süreci başa sarabilir.",
+        "Fotoğraflar, kimlik fotokopileri ve nüfus kayıt örnekleri dosyanın temelini oluşturur. Yabancı uyruklu adaylar için ise **konsolosluk onaylı** denklik belgeleri aranır."
+      ],
+      "bullets": [
+        "Nüfus cüzdanı aslı ve fotokopisi",
+        "Vesikalık fotoğraf",
+        "Sağlık raporu"
+      ]
+    },
+    {
+      "heading": "Nikah günü nasıl kararlaştırılır?",
+      "paragraphs": [
+        "Evraklar incelenip onaylandıktan sonra nikah defteri için gün seçimi aşamasına geçilir. Salon nikahı veya dış mekan organizasyonları için **ilgili ücretlerin** yatırılması gerekir.",
+        "Seçilen günde nikah memurunun ve şahitlerin hazır bulunması yasal bir zorunluluktur. Şahitlerin kimlik bilgileri başvuru sırasında sisteme kaydedilir."
+      ],
+      "bullets": [
+        "Gün ve saat tespiti",
+        "Ücretlerin yatırılması",
+        "Şahitlerin belirlenmesi"
+      ]
+    }
+  ],
+  "steps": [
+    "İkamet ettiğiniz belediyenin evlendirme dairesine birlikte gidin",
+    "Aile hekiminden evlilik için sağlık raporu alın",
+    "Gerekli kimlik ve fotoğraf belgelerini dosyaya yerleştirin",
+    "Nikah tarihini seçip ilgili harç ve ücretleri yatırın",
+    "Başvuru formunu imzalayarak onay sürecini tamamlayın"
+  ],
+  "documents": [
+    "Nüfus cüzdanı aslı ve fotokopisi",
+    "Resmi sağlık raporu",
+    "Vesikalık fotoğraf",
+    "İkametgah belgesi",
+    "Evlenme beyannamesi"
+  ],
+  "faq": [
+    {
+      "q": "Evlilik başvurusu için ikimiz de gitmek zorunda mıyız?",
+      "a": "Evet, başvurunun şahsen ve birlikte yapılması esastır; ancak özel vekaletname ile istisnai durumlar çözülebilir."
+    },
+    {
+      "q": "Sağlık raporunu hangi hastaneden almalıyım?",
+      "a": "Bağlı bulunduğunuz aile sağlığı merkezinden veya devlet hastanelerinden resmi sağlık raporunu temin edebilirsiniz."
+    },
+    {
+      "q": "Nikah günü ne zaman netleşir?",
+      "a": "Tüm evraklar onaylandıktan ve evlendirme memurluğuna teslim edildikten sonra takvime göre gün verilir."
+    },
+    {
+      "q": "Şahit olmak için yaş sınırı var mı?",
+      "a": "Nikah şahitlerinin reşit ve kimliklerini ibraz edebilir durumda olmaları gereklidir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "e-devlet-nufus",
+  "angle": "Evlilik başvurusu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

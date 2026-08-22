@@ -1,0 +1,112 @@
+{
+  "slug": "tuketici-hakem-parasal-sinir",
+  "title": "Tüketici Hakem Heyeti Parasal Sınır | Vatandaş Rehberi",
+  "description": "Hakem heyeti parasal sınırı nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
+  "h1": "Hakem heyeti parasal sınırı nedir?",
+  "keywords": [
+    "tüketici hakem heyeti parasal sınır",
+    "hakem heyeti limit"
+  ],
+  "category": "Tüketici",
+  "related": [
+    "tuketici-hakem-heyeti",
+    "tuketici-mahkemesi",
+    "ayip-mal-iade"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tuketici-hakem-heyeti"
+    },
+    {
+      "label": "TKHK",
+      "href": "/kategori/tkhk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=t%C3%BCketici"
+    }
+  ],
+  "lead": "Aldığınız mal bozuk çıktı, satıcı yanaşmıyor. Uyuşmazlığın parasal değeri, doğrudan tüketici hakem heyetine mi yoksa mahkemeye mi gideceğinizi belirler.",
+  "keyInsight": "Parasal sınırların altında kalan uyuşmazlıklarda tüketici hakem heyetine başvuru zorunludur, bu sınırın üzerindeki uyuşmazlıklar için ise heyete başvuru yapılamaz.",
+  "sections": [
+    {
+      "heading": "Parasal sınır neden bu kadar önemlidir?",
+      "paragraphs": [
+        "Kapınıza gelen bozuk çamaşır makinesi veya internetten aldığınız ve elinize ulaşmayan ürün için hak ararken önünüzde iki farklı kapı bulunur. Hangi kapıyı çalacağınızı belirleyen temel ölçüt, uyuşmazlık konusu mal veya hizmetin maddi değeridir. Kanun koyucu, küçük ve orta ölçekli anlaşmazlıkların mahkemelerde yığılmasını önlemek amacıyla bu heyetleri görevlendirmiştir.",
+        "Değeri kanunda belirtilen tutarın altında kalan uyuşmazlıklarda **tüketici hakem heyetlerine başvuru zorunludur**. Doğru adresi bulmadan harekete geçmek, zaman kaybetmenize ve dosyanızın yetkisizlik sebebiyle dönmesine yol açar."
+      ],
+      "bullets": [
+        "Parasal sınır her yıl yeniden belirlenir.",
+        "Alt sınırlar mahkeme yolunu kapatır."
+      ]
+    },
+    {
+      "heading": "Hangi uyuşmazlıklar heyetin görev alanına girer?",
+      "paragraphs": [
+        "Tüketici işlemleri ile tüketiciye yönelik uygulamalardan doğabilecek uyuşmazlıkları çözmekle görevli olan merci tüketici hakem heyetidir. Satıcı ile aranızdaki anlaşmazlık bir tüketici işleminden kaynaklanıyorsa ve talep ettiğiniz miktar kanuni sınırın altındaysa, heyet bu başvuruyu **gereğini yapmak üzere kabul etmek zorundadır**.",
+        "Heyetler başvuru üzerine tarafların haklarını inceler ve bir karar bağlar. Ancak bu sınırın üzerindeki uyuşmazlıklar için heyetlere başvuru yapılamaz; doğrudan diğer yasal yolların değerlendirilmesi gerekir."
+      ],
+      "bullets": [
+        "Tüketici işlemleri esas alınır.",
+        "Başvurular reddedilemez, kabul edilir."
+      ]
+    },
+    {
+      "heading": "Başvuru nereye ve nasıl yapılır?",
+      "paragraphs": [
+        "Hak ararken kaybolmamak için doğru yeri bulmak şarttır. Başvurular, tüketicinin yerleşim yerinin bulunduğu veya tüketici işleminin yapıldığı yerdeki tüketici hakem heyetine yapılabilir.",
+        "Eğer oturduğunuz yerde tüketici hakem heyeti bulunmuyorsa, endişelenmeyin. Bu durumda başvurular **o ilçe kaymakamlığına yapılabilir**. Kaymakamlıklar aldıkları bu başvuruları gereği yapılmak üzere bakanlıkça belirlenen yetkili tüketici hakem heyetine iletir."
+      ],
+      "bullets": [
+        "İkametgah adresi esas alınabilir.",
+        "Kaymakamlıklar aracı olur."
+      ]
+    },
+    {
+      "heading": "Parasal sınırlar her yıl nasıl değişir?",
+      "paragraphs": [
+        "Hayat pahalılığı ve ekonomik göstergeler değiştikçe hakem heyeti sınırları da sabit kalmaz. Kanunda belirtilen bu parasal sınırlar **her takvim yılı başından itibaren geçerli olmak üzere** yeniden değerleme oranında artırılarak uygulanır.",
+        "Bu artışlar yapılırken bin Türk lirasının küsuratı dikkate alınmaz. Güncel sınırları takip etmek, dosyanızı doğru mercie sunmanız açısından kritik bir adımdır."
+      ],
+      "bullets": [
+        "Her yıl yeniden hesaplanır.",
+        "Küsuratlar hesaba katılmaz."
+      ]
+    }
+  ],
+  "steps": [
+    "Uyuşmazlık konusu mal veya hizmetin güncel parasal değerini hesaplayın.",
+    "Parasal sınırın altında kalıp kalmadığını kontrol edin.",
+    "Yerleşim yerinizdeki veya işlemin yapıldığı yerdeki tüketici hakem heyetini belirleyin.",
+    "Heyet yoksa bulunduğunuz yerdeki kaymakamlığa başvuru evrakınızı verin.",
+    "Heyetin vereceği kararı bekleyin."
+  ],
+  "documents": [
+    "Fatura veya fiş",
+    "Garanti belgesi",
+    "Satıcı ile yapılan yazışmalar",
+    "Sözleşme kopyası"
+  ],
+  "faq": [
+    {
+      "q": "Parasal sınırı aşan bir uyuşmazlıkta hakem heyetine gidebilir miyim?",
+      "a": "Hayır, bu değerlerin üzerindeki uyuşmazlıklar için tüketici hakem heyetlerine başvuru yapılamaz."
+    },
+    {
+      "q": "Bulunduğum ilçede hakem heyeti yoksa nereye başvuracağım?",
+      "a": "Tüketici hakem heyetinin bulunmadığı yerlerde başvurular o ilçe kaymakamlığına yapılabilir ve kaymakamlık dosyayı yetkili heyete iletir."
+    },
+    {
+      "q": "Hakem heyetleri başvurumu reddedebilir mi?",
+      "a": "Tüketici hakem heyetleri kendilerine yapılan başvuruları gereğini yapmak üzere kabul etmek zorundadır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tuketici-hakem-heyeti",
+  "angle": "Parasal sınır",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "kidem-tazminati-hesaplama",
+  "title": "Kıdem Tazminatı Hesaplama Formülü (Kabaca) | Vatandaş Rehberi",
+  "description": "Kıdem tazminatı hesaplama: giydirilmiş ücret × yıl, tavan ve damga. Kabaca formül; araç linki. Hak kazanma ana rehberde.",
+  "h1": "Kıdem tazminatı nasıl hesaplanır? (formül)",
+  "keywords": [
+    "kıdem tazminatı hesaplama",
+    "kıdem hesabı formülü",
+    "giydirilmiş ücret kıdem"
+  ],
+  "category": "İş",
+  "related": [
+    "kidem-tazminati-nasil-alinir",
+    "kidem-tavan",
+    "ihbar-tazminati-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kidem-tazminati-nasil-alinir"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/kidem"
+    },
+    {
+      "label": "Rehber",
+      "href": "/rehber/kidem-tazminati"
+    }
+  ],
+  "lead": "İşten ayrıldığınızda cebinize girecek kıdem tazminatını bulmak için çalışılan tam yıl sayısını son brüt ücretinizle çarpmanız gerekir.",
+  "keyInsight": "Hesaplamada kullanılan ücret sadece çıplak maaş değil, düzenli ödenen sosyal hakların da eklendiği giydirilmiş brüt tutardır.",
+  "sections": [
+    {
+      "heading": "Hangi süreler hesaba dahil edilir?",
+      "paragraphs": [
+        "İş yerinde çalışmaya başladığınız günden sözleşmenin bittiği güne kadar geçen tüm zaman hesaba katılır. Aynı işverenin farklı iş yerlerinde geçen süreler **birleştirilerek** değerlendirilir.",
+        "İş yerinin devretmesi durumunda eski süreler silinmez. Yeni işveren tüm çalışma süreniz boyunca oluşan kıdeminizden sorumlu olur."
+      ],
+      "bullets": [
+        "Aynı işverendeki tüm çalışma süreleri toplanır.",
+        "Devir halinde eski süreler yeni işverene geçer."
+      ]
+    },
+    {
+      "heading": "Hangi ücret baz alınır?",
+      "paragraphs": [
+        "Tazminatınız son **brüt ücret** üzerinden hesaplanır. Bu tutara sadece temel maaş değil, devamlılık arz eden para ve para ile ölçülebilen menfaatler eklenir.",
+        "Yemek, yakacak, düzenli ikramiye gibi yan haklar giydirilmiş brüt ücreti oluşturur ve her yıl için otuz günlük tutar baz alınır."
+      ],
+      "bullets": [
+        "Son brüt maaş esas alınır.",
+        "Düzenli yan haklar ücrete eklenir."
+      ]
+    },
+    {
+      "heading": "Kıdem nasıl hesaplanır?",
+      "paragraphs": [
+        "Her tam yıl için otuz günlük brüt ücretiniz bir kat sayı olarak alınır. Çalıştığınız toplam yıl süresi bu tutarla çarpılır.",
+        "Bir yıldan artan **küsürat günler** de oranlanarak hesaba dahil edilir. Böylece tam yılların yanı sıra aylar ve günler de ücrete yansıtılır."
+      ],
+      "bullets": [
+        "Her tam yıl için 30 günlük tutar verilir.",
+        "Artan aylar ve günler oransal olarak eklenir."
+      ]
+    },
+    {
+      "heading": "Ödeme ne zaman ve nasıl yapılır?",
+      "paragraphs": [
+        "İş sözleşmesi kanunun aradığı şartlara uygun şekilde bittiğinde hak doğar. Hesaplanan tutar işveren tarafından doğrudan **banka hesabınıza** yatırılır.",
+        "Ödemenin gecikmesi durumunda yasal yollara başvurma hakkınız saklıdır. Sürecin takibi için belgelerinizi saklamanız önemlidir."
+      ],
+      "bullets": [
+        "Sözleşmenin bitişiyle hak doğar.",
+        "Ödeme banka yoluyla yapılır."
+      ]
+    }
+  ],
+  "steps": [
+    "İşe giriş ve çıkış tarihlerinizi net olarak belirleyin.",
+    "Son brüt maaşınızı ve düzenli yan haklarınızı tespit edin.",
+    "Giydirilmiş brüt aylık ücretinizi hesaplayın.",
+    "Çalıştığınız toplam yıl, ay ve gün süresini çıkarın.",
+    "Her yıl için otuz günlük brüt tutarı süreyle çarpın."
+  ],
+  "documents": [
+    "İş sözleşmesi",
+    "Son aya ait brüt bordro",
+    "Hizmet dökümü",
+    "İşten ayrılış bildirgesi"
+  ],
+  "faq": [
+    {
+      "q": "Giydirilmiş ücrete neler dahildir?",
+      "a": "Aylık brüt maaşa ek olarak süklüm püklüm olmayan, düzenli ödenen yemek, yakacak ve ikramiye gibi haklar dahildir."
+    },
+    {
+      "q": "Küsüratlı aylar hesaba katılır mı?",
+      "a": "Evet, bir yıldan artan aylar ve günler de aynı oran üzerinden hesaplamaya dahil edilir."
+    },
+    {
+      "q": "İş yeri devredilirse eski süre yanar mı?",
+      "a": "Hayır, iş yerinin devri kıdem sürelerini sıfırlamaz; toplam süre üzerinden hesaplama yapılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kidem-tazminati-nasil-alinir",
+  "angle": "Kabaca hesap formülü, giydirilmiş ücret ve tavanın hesaba etkisi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

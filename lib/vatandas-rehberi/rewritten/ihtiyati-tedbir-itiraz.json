@@ -1,0 +1,98 @@
+{
+  "slug": "ihtiyati-tedbir-itiraz",
+  "title": "Tedbir kararına nasıl itiraz edilir — Vatandaş Rehberi | Av. Fethi Güz",
+  "description": "Tedbir kararına nasıl itiraz edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
+  "h1": "Tedbir kararına nasıl itiraz edilir?",
+  "keywords": [
+    "ihtiyati tedbire itiraz"
+  ],
+  "category": "Usul",
+  "related": [
+    "ihtiyati-tedbir-nedir",
+    "ihtiyati-tedbir-teminati",
+    "istinaf-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/ihtiyati-tedbir-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=ihtiyati%20tedbir"
+    }
+  ],
+  "lead": "Mahkeme kapınıza gelip bir tedbir kararı ile mallarınıza veya haklarınıza kısıtlama getirdiğinde, panik yapmadan yasal itiraz yollarını kullanmanız gerekir. İtiraz süreci, kararın size tebliğinden veya uygulanmasından itibaren başlar.",
+  "keyInsight": "İtiraz etmek, tedbir kararının kendiliğinden durmasını sağlamaz; mahkeme aksine bir karar vermedikçe tedbir uygulanmaya devam eder.",
+  "sections": [
+    {
+      "heading": "Hangi durumlarda itiraz edebilirsiniz?",
+      "paragraphs": [
+        "Mahkeme, karşı tarafı dinlemeden geçici bir koruma kararı verdiğinde itiraz hakkınız doğar. Bu itirazlar genellikle tedbirin şartlarına, mahkemenin yetkili olup olmadığına veya istenen teminatın miktarına yöneliktir.",
+        "Ayrıca, doğrudan taraf olmadığınız halde tedbir sebebiyle menfaatiniz açıkça ihlal ediliyorsa, durumu öğrendiğiniz andan itibaren itiraz etme hakkınız saklıdır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İtiraz için ne kadar vaktiniz var?",
+      "paragraphs": [
+        "Tedbir uygulanırken orada hazır bulunuyorsanız, itiraz süreniz o an başlar. Eğer orada değilseniz, tedbirin uygulanmasına dair tutanağın size tebliğ edildiği günden itibaren **bir haftalık** süreniz bulunmaktadır.",
+        "Üçüncü kişiler için de benzer şekilde, tedbiri öğrendikleri tarihten itibaren **bir hafta** içinde itirazlarını mahkemeye sunmaları gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İtiraz dilekçesinde neler olmalı?",
+      "paragraphs": [
+        "Dilekçenizde neden haksızlığa uğradığınızı açıkça anlatmalısınız. Sadece 'itiraz ediyorum' demek yeterli değildir; tedbirin neden kaldırılması veya değiştirilmesi gerektiğini somut gerekçelerle ortaya koymalısınız.",
+        "İtirazınızın dayanağı olan tüm belgeleri ve delilleri dilekçenize eklemek zorundasınız. Mahkeme, bu deliller üzerinden bir değerlendirme yapacaktır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Mahkeme süreci nasıl işler?",
+      "paragraphs": [
+        "İtiraz dilekçenizi verdikten sonra mahkeme, tarafları dinlemek üzere duruşmaya davet edebilir. Eğer taraflar gelmezse, mahkeme dosyayı inceleyerek kararını verir.",
+        "Mahkeme, itirazınızı haklı bulursa tedbiri kaldırabilir veya içeriğini değiştirebilir. İtiraz üzerine verilen karara karşı kanun yollarına başvurma hakkınız saklıdır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Tedbir kararının size tebliğ edildiği veya uygulandığı tarihi not edin.",
+    "İtiraz gerekçelerinizi ve varsa delillerinizi içeren bir dilekçe hazırlayın.",
+    "Dilekçenizi süresi içinde ilgili mahkemeye sunun.",
+    "Mahkemenin belirlediği duruşma gününü takip edin veya dosya üzerinden karar verilmesini bekleyin."
+  ],
+  "documents": [
+    "İhtiyati tedbir kararının bir örneği",
+    "İtiraz gerekçelerini açıklayan dilekçe",
+    "İtirazı destekleyen deliller ve belgeler",
+    "Tebligat zarfı veya uygulanan tedbir tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "İtiraz edince tedbir hemen durur mu?",
+      "a": "Hayır, aksine bir karar verilmedikçe itiraz etmeniz tedbirin icrasını durdurmaz."
+    },
+    {
+      "q": "İtiraz süresini kaçırırsam ne olur?",
+      "a": "Süre kaçırıldığında itiraz hakkınızı kaybedersiniz ve tedbir kararı geçerliliğini korumaya devam eder."
+    },
+    {
+      "q": "İtiraz dilekçesini nereye vermeliyim?",
+      "a": "İtirazınızı, ihtiyati tedbir kararını veren mahkemeye sunmanız gerekmektedir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "ihtiyati-tedbir-nedir",
+  "angle": "İtiraz",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

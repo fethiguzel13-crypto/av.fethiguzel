@@ -1,0 +1,115 @@
+{
+  "slug": "gelir-vergisi-nedir",
+  "title": "Gelir vergisi nedir? Kimler öder — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Gelir vergisi nedir? Kimler öder? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
+  "h1": "Gelir vergisi nedir? Kimler öder?",
+  "keywords": [
+    "gelir vergisi nedir",
+    "gelir vergisi beyanı"
+  ],
+  "category": "Vergi",
+  "related": [
+    "emlak-vergisi-nedir",
+    "e-devlet-vergi-borcu",
+    "kdv-nedir",
+    "vergi-borcu-yapislandirma"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/emlak-vergisi-nedir"
+    },
+    {
+      "label": "GVK",
+      "href": "/kategori/gvk"
+    },
+    {
+      "label": "VUK",
+      "href": "/kategori/vuk"
+    }
+  ],
+  "lead": "Yıl içinde elde ettiğiniz kazançlar üzerinden devlete ödenmesi gereken tutar hesaplanır. Asıl mesele, bu kazancın hangi usulde ve zamanda kayda geçirileceğidir.",
+  "keyInsight": "Beyannamede gösterilen kazançlardan kesilmiş vergiler mahsup edilir; fazla ödenen tutar için süresinde müracaat şarttır.",
+  "sections": [
+    {
+      "heading": "Kimler beyanname verir?",
+      "paragraphs": [
+        "İşletme büyüklükleri belirli sınırları aşan çiftçiler veya ticari faaliyet yürütenler kazançlarını bildirmek zorundadır. Faaliyetin türüne göre ad, adres ve miktar bilgileri ilgili yerlere yazdırılır.",
+        "Ortaklıklı işlerde beyanın nasıl yapılacağı kurallara bağlanmıştır. **Ortaklardan biri** aile reisi sıfatıyla veya şahsen bu bildirimi gerçekleştirebilir."
+      ],
+      "bullets": [
+        "Ekim ve sayım bilgileri",
+        "Hayvan cins ve miktarları",
+        "Ağaç veya arazi genişliği"
+      ]
+    },
+    {
+      "heading": "Bildirim ne zaman ve nasıl yapılır?",
+      "paragraphs": [
+        "Tarım ve hayvancılıkla uğraşanlar için sayım ve beyan dönemleri takvime bağlanmıştır. İşlemler sözlü veya yazılı olarak tamamlanabilir.",
+        "Hazırlanan evraklar imza veya mühürle tasdik edilir. **İlgili vergi dairesine** makbuz karşılığında teslim edilmesi gerekir."
+      ],
+      "bullets": [
+        "Kasım ayında başvuru",
+        "İki nüsha evrak düzeni"
+      ]
+    },
+    {
+      "heading": "Fazla ödenen vergiler nasıl geri alınır?",
+      "paragraphs": [
+        "Yıllık beyannamede gösterilen kazançlardan kesilmiş bulunan vergiler hesaplanan tutardan düşülür. Mahsup edilen miktar vergiden fazla olursa aradaki fark size bildirilir.",
+        "Bu farkı geri almak için **bir yıl içinde** müracaat etmeniz şarttır. İade işlemleri mahsuben veya nakden yapılabilir."
+      ],
+      "bullets": [
+        "Tebliğ tarihinden itibaren süre başlar",
+        "Gerekli rapor veya teminatlar aranabilir"
+      ]
+    },
+    {
+      "heading": "Afet durumunda borçlar silinir mi?",
+      "paragraphs": [
+        "Yangın, su basması, kuraklık, don veya benzeri afetler yüzünden varlıklarının büyük kısmını kaybedenler için indirim veya silinme imkanı bulunur.",
+        "Zarar derecesi mahalli idare heyetlerinin yaptıracağı tahkikat ile tespit edilir. **Maliye Bakanlığı** bu durumda borçları kısmen veya tamamen terkin edebilir."
+      ],
+      "bullets": [
+        "Varlıkların en az üçte biri",
+        "Hasat zamanı oluşan kayıplar"
+      ]
+    }
+  ],
+  "steps": [
+    "Kazancınızın türünü ve işletme büyüklüğünü tespit edin.",
+    "Gerekli durumlarda ekim ve sayım bilgilerini ilgili muhtarlığa bildirin.",
+    "Beyanname evraklarını iki nüsha olarak hazırlayıp imzalayın.",
+    "Süresi içinde ilgili vergi dairesine makbuz karşılığı teslim edin.",
+    "Kesinti fazlası varsa bir yıl içinde iade dilekçesi verin."
+  ],
+  "documents": [
+    "Beyan varakası",
+    "Vergi dairesi makbuzu",
+    "Tapu veya arazi bilgileri",
+    "Zarar tespit tutanağı",
+    "İade talep dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Gelir vergisi beyanı hangi ayda yapılır?",
+      "a": "Ekim ve sayım beyanları her yılın Kasım ayında gerçekleştirilir."
+    },
+    {
+      "q": "Fazla ödenen vergiyi geri almak için ne kadar süre vardır?",
+      "a": "Tebliğ tarihinden itibaren bir yıl içinde müracaat edilmesi gerekir."
+    },
+    {
+      "q": "Doğal afetlerde vergi borcu silinir mi?",
+      "a": "Varlıkların veya mahsullerin en az üçte birinin kaybedilmesi durumunda terkin edilebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "emlak-vergisi-nedir",
+  "angle": "GV",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

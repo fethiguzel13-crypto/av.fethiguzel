@@ -1,0 +1,103 @@
+{
+  "slug": "haksiz-rekabet-nedir",
+  "title": "Haksız rekabet — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Haksız rekabet hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata da…",
+  "h1": "Haksız rekabet",
+  "keywords": [
+    "haksız rekabet",
+    "haksiz rekabet nedir"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "sirket-kurulusu",
+    "hukuk-davasi-nasil-acilir",
+    "ticari-isletme-nedir",
+    "marka-tescil"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/sirket-kurulusu"
+    },
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-isletme"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=haks%C4%B1z%20rekabet"
+    }
+  ],
+  "lead": "Piyasada rakibinizin gerçeğe aykırı açıklamalarıyla veya aldatıcı yöntemleriyle karşılaştığınızda dürüst rekabet kuralları devreye girer. Amaç, bozulmamış ticaret ortamını korumaktır.",
+  "keyInsight": "Haksız rekabet yalnızca rakipleri değil, ekonomik çıkarları zarar gören müşterileri de korur; bu nedenle **yanıltıcı davranışlara** karşı hukuki yollara başvurabilirsiniz.",
+  "sections": [
+    {
+      "heading": "Hangi durumlar haksız rekabet sayılır?",
+      "paragraphs": [
+        "Ticari hayatta dürüstlük kuralına aykırı her türlü aldatıcı hareket haksız rekabet oluşturur. Başkalarını veya onların mallarını yanlış ve yanıltıcı açıklamalarla kötülemek bu kapsamdadır.",
+        "Ayrıca sahip olunmayan diploma veya ödüllere sahipmiş gibi davranmak, başkasının ürünleriyle karıştırılmaya yol açacak önlemler almak da yasaktır. Müşterinin karar verme özgürlüğünü saldırgan yöntemlerle sınırlamak **dürüstlük kuralına** aykırıdır."
+      ],
+      "bullets": [
+        "Yanıltıcı reklamlar ve satış yöntemleri",
+        "Gerçek dışı fiyat veya stok açıklamaları",
+        "Maliyetin altında tekrarlanan satışlar"
+      ]
+    },
+    {
+      "heading": "Kimler hukuki yollara başvurabilir?",
+      "paragraphs": [
+        "İşlemleri, kredisi veya ticari faaliyetleri zarar gören ya da bu tehlikeyle karşılaşan herkes mahkemeden haksız durumun tespitini isteyebilir. Zarar gören müşteriler de bu davaları açma hakkına sahiptir.",
+        "Ticaret ve sanayi odaları, esnaf odaları ve mesleki birlikler de üyelerinin ekonomik menfaatlerini korumak için hukuki süreç başlatabilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Mahkemeden neler talep edilebilir?",
+      "paragraphs": [
+        "Haksız rekabetle karşılaştığınızda fiilin hukuka aykırılığının tespitini ve bu durumun durdurulmasını isteyebilirsiniz. Maddi durumun ortadan kaldırılması ve yanlış beyanların düzeltilmesi talep edilebilir.",
+        "Kusur varsa zarar ve zıyanın tazminini talep etmeniz mümkündür. Hâkim, haksız rekabet sonucunda karşı tarafın elde etmesi **mümkün görülen menfaatin** karşılığına da karar verebilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Alışveriş ve satışlarda hangi yöntemler yasaktır?",
+      "paragraphs": [
+        "Seçilmiş bazı malları birden çok kere tedarik fiyatının altında satışa sunmak ve bunu reklamlarda özellikle vurgulamak müşterileri yanıltır. Satış fiyatının tedarik fiyatının altında olması durumunda yanıltma karine olarak kabul edilir.",
+        "Davalı gerçek tedarik fiyatını ispatlarsa bu fiyat esas alınır. Ek edimlerle gerçek değeri gizlemek veya tehlikeleri saklamak da yasaklanan ticari uygulamalar arasındadır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Haksız rekabet oluşturan fiili ve aldatıcı beyanları tespit edin.",
+    "Ekonomik menfaatlerinizin veya ticari itibarınızın gördüğü zararı belirleyin.",
+    "Haksız rekabetin durdurulması ve eski durumun sağlanması için hukuki değerlendirme yapın.",
+    "Mahkemeden fiilin tespiti, men'i ve tazminat talebinde bulunun."
+  ],
+  "documents": [
+    "Yanıltıcı reklam veya ilan örnekleri",
+    "Fatura ve tedarik belgesi kayıtları",
+    "Ticari defterler ve zarar tespit raporları"
+  ],
+  "faq": [
+    {
+      "q": "Müşteriler haksız rekabet nedeniyle dava açabilir mi?",
+      "a": "Evet, ekonomik çıkarları zarar gören veya bu tehlikeyle karşılaşan müşteriler de haksız rekabet davalarını açabilir."
+    },
+    {
+      "q": "Hangi kurumlar haksız rekabete karşı dava açma yetkisine sahiptir?",
+      "a": "Ticaret ve sanayi odaları, esnaf odaları, borsalar ve mesleki birlikler bu davaları açabilir."
+    },
+    {
+      "q": "Maddi tazminat yanında başka ne istenebilir?",
+      "a": "Fiilin tespiti, haksız rekabetin durdurulması, yanlış beyanların düzeltilmesi ve gerekirse araçların imhası istenebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "sirket-kurulusu",
+  "angle": "Haksız rekabet",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "acele-kamulastirma",
+  "title": "Acele kamulaştırma ne demektir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Acele kamulaştırma ne demektir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
+  "h1": "Acele kamulaştırma ne demektir?",
+  "keywords": [
+    "acele kamulaştırma"
+  ],
+  "category": "İdare",
+  "related": [
+    "kamulastirma-nedir",
+    "kamulastirma-bedel-davasi",
+    "yurutmenin-durdurulmasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kamulastirma-nedir"
+    },
+    {
+      "label": "Kamulaştırma",
+      "href": "/kategori/kamulastirma"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Acele kamulaştırma, kamu yararının gerektirdiği durumlarda idarenin mülkiyet hakkına öncelik vererek taşınmaza hızlıca el koymasıdır. Bu süreç, normal kamulaştırma prosedürlerinden farklı olarak mülkiyet devri tamamlanmadan idarenin sahaya girmesine imkan tanır.",
+  "keyInsight": "Acele kamulaştırma, idarenin mülkiyet devri gerçekleşmeden taşınmazı fiilen kullanmaya başlamasını sağlayan istisnai bir yöntemdir.",
+  "sections": [
+    {
+      "heading": "Acele kamulaştırma neden yapılır?",
+      "paragraphs": [
+        "Bir sabah kapınız çalınır ve arazinizin kamu hizmeti için acilen kullanılması gerektiği bildirilir. Bu durum genellikle büyük altyapı projeleri veya kamu güvenliğini doğrudan ilgilendiren acil ihtiyaçlar için söz konusudur.",
+        "İdare, normal prosedürün yaratacağı zaman kaybının kamu yararına zarar vereceğini düşündüğünde bu yola başvurur. Bu, mülkiyetin hemen geçeceği anlamına gelmez, sadece idarenin işe başlamasına olanak sağlar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Sürece nasıl dahil olursunuz?",
+      "paragraphs": [
+        "İdare, taşınmazın kıymetini belirlemek için bir komisyon oluşturur. Bu komisyon, mülkünüzün değerini teknik esaslara göre hesaplar ve bir bedel belirler.",
+        "Siz bu süreçte mülkünüzün gerçek değerini yansıtan belgeleri hazırlamalısınız. Eğer belirlenen bedeli düşük bulursanız, hukuk yollarına başvurma hakkınız her zaman saklıdır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Ödemeler nasıl yapılır?",
+      "paragraphs": [
+        "Bedel tespiti yapıldıktan sonra, bu tutar sizin adınıza bankada açılan bir hesaba yatırılır. Bu para, mülkiyet üzerindeki hak sahipliğiniz netleşene kadar korunur.",
+        "Eğer taşınmaz üzerinde bir mülkiyet çekişmesi varsa, mahkeme süreci sonlanana kadar para bankada bekletilir ve uyuşmazlık çözüldüğünde hak sahibine ödenir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Haklarınız nelerdir?",
+      "paragraphs": [
+        "İdare acele el koysa bile, mülkiyet hakkınız baki kalır. Sadece kullanım hakkı geçici olarak idareye geçer.",
+        "Eğer süreçten vazgeçilirse veya proje iptal edilirse, taşınmazınızın eski halini koruyup korumadığını kontrol etmelisiniz. Değer kaybı oluşmuşsa bunu tazmin etme hakkınız doğar."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İdare tarafından gönderilen tebligatı dikkatle inceleyin.",
+    "Taşınmazınızın değerini gösteren güncel belgeleri toplayın.",
+    "Bankaya yatırılan kamulaştırma bedelini öğrenin.",
+    "Bedelin düşüklüğü veya usulsüzlük şüphesi durumunda hukuki değerlendirme yapın."
+  ],
+  "documents": [
+    "İdare tarafından gönderilen kamulaştırma kararı",
+    "Taşınmazın tapu kayıt örneği",
+    "Kıymet takdir komisyonunun değerleme raporu",
+    "Banka ödeme dekontu"
+  ],
+  "faq": [
+    {
+      "q": "Acele kamulaştırma mülkiyetimi hemen elimden alır mı?",
+      "a": "Hayır, bu işlem mülkiyeti doğrudan devretmez; idarenin taşınmazı fiilen kullanmasına ve işe başlamasına olanak sağlar."
+    },
+    {
+      "q": "Bedeli beğenmezsem ne yapabilirim?",
+      "a": "Belirlenen kamulaştırma bedeline karşı itiraz ederek mahkeme yoluyla yeniden değer tespiti talep edebilirsiniz."
+    },
+    {
+      "q": "Taşınmazda mülkiyet ihtilafı varsa para ne olur?",
+      "a": "Bedel, mahkemenin belirlediği bankada üçer aylık vadeli hesapta tutulur; uyuşmazlık çözüldüğünde hak sahibine aktarılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kamulastirma-nedir",
+  "angle": "Acele",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

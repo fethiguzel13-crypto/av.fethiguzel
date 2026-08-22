@@ -1,0 +1,111 @@
+{
+  "slug": "cek-karsiliksiz-ceza",
+  "title": "Karşılıksız çek cezası — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Karşılıksız çek cezası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
+  "h1": "Karşılıksız çek cezası",
+  "keywords": [
+    "karşılıksız çek cezası",
+    "cek karsiliksiz ceza"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "cek-karsiliksiz",
+    "cek-nasil-yazilir",
+    "savcilik-suc-duyurusu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/cek-karsiliksiz"
+    },
+    {
+      "label": "Çek",
+      "href": "/kategori/cek"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Elinizi attığınız çek karşılıksız çıktığında, bankaya koşup durumu belgeletmeniz ve **hamilin şikâyeti** üzerine hukuki süreci başlatmanız gerekir. Bu süreç adli para cezası ve çek hesabı açma yasağı gibi ciddi sonuçlar doğurur.",
+  "keyInsight": "Çekin karşılıksız kalması halinde, **süresi içinde bankaya ibraz** şartı aranır; bu kural atlanırsa cezai sorumluluk doğmaz.",
+  "sections": [
+    {
+      "heading": "Çek bankaya sunulduğunda ne olur?",
+      "paragraphs": [
+        "Elimizdeki çeki bankaya götürdüğümüzde, banka hesabın durumunu kontrol eder ve ödeme yapmaya çalışır. Eğer hesapta para yoksa veya yetersizse, banka **karşılıksızdır işlemi** yapmakla yükümlüdür.",
+        "Bu işlem çekin arka yüzüne yazılır, banka yetkilisi ve hamil tarafından imzalanır. Banka ayrıca kanunen ödemekle yükümlü olduğu tutarları hamile ödemek zorundadır."
+      ],
+      "bullets": [
+        "Banka karşılıksızdır şerhini düşer",
+        "Eksik tutarlar banka tarafından ödenir"
+      ]
+    },
+    {
+      "heading": "Ceza sorumluluğu nasıl başlar?",
+      "paragraphs": [
+        "Kanuni ibraz süresi içinde bankaya sunulan çekin karşılıksız çıkması durumunda, **hamilin şikâyeti** ile adli para cezası gündeme gelir.",
+        "Mahkeme, karşılıksız kalan miktar üzerinden adli para cezasına hükmeder. Aynı zamanda çek düzenleme ve hesap açma yasağı kararı verilir."
+      ],
+      "bullets": [
+        "Adli para cezası uygulanır",
+        "Çek hesabı açma yasağı getirilir"
+      ]
+    },
+    {
+      "heading": "Kimler bu cezayla sorumludur?",
+      "paragraphs": [
+        "Çekin karşılığını banka hesabında bulundurmakla yükümlü olan kişi çek hesabı sahibidir. Hesap sahibi tüzel kişi ise, mali işleri yürütmekle görevli yönetim organı üyeleri sorumluluğu üstlenir.",
+        "Şirket adına çek keşide edenler ve ticaret siciline tescil edilen yetkililer de bu yasaklardan ve cezai sorumluluktan payını alır."
+      ],
+      "bullets": [
+        "Hesap sahibi birebir sorumludur",
+        "Tüzel kişilerde yönetim organı hedef alınır"
+      ]
+    },
+    {
+      "heading": "Yargılama nerede ve nasıl yapılır?",
+      "paragraphs": [
+        "Karşılıksız çek şikayetleri icra mahkemesinde görülür. Dava, çekin tahsil için bankaya ibraz edildiği yer, hesabın açıldığı şube veya şikayetçinin yerleşim yeri mahkemesinde açılabilir.",
+        "Yargılama sırasında mahkeme resen koruma tedbiri olarak **çek düzenleme yasağı** verebilir ve süreç İcra ve İflas Kanunu hükümlerine göre yürütülür."
+      ],
+      "bullets": [
+        "İcra mahkemeleri yetkilidir",
+        "Koruma tedbirleri derhal uygulanır"
+      ]
+    }
+  ],
+  "steps": [
+    "Çeki süresi içinde muhatap bankaya ibraz edin.",
+    "Karşılıksız çıkması halinde bankaya karşılıksızdır şerhi düşürtün.",
+    "Banka yetkilisi ile birlikte arka yüzü imzalayın.",
+    "Şikayet hakkınızı kullanarak icra mahkemesine başvurun."
+  ],
+  "documents": [
+    "Karşılıksız çek aslı",
+    "Banka onaylı karşılıksızdır şerhi",
+    "Kimlik belgesi",
+    "Şikayet dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Karşılıksız çekte hapis cezası var mı?",
+      "a": "Kanun maddelerinde doğrudan hapis cezası yerine adli para cezası ve çek hesabı açma yasağı öngörülmüştür. Ancak yasaklara aykırı davranılması veya banka görevlilerinin bazı kusurlu fiillerinde hapis cezası gündeme gelebilir."
+    },
+    {
+      "q": "Şikayeti hangi mahkemeye yapmalıyım?",
+      "a": "Davalar icra mahkemesinde görülür. Çekin tahsil için bankaya ibraz edildiği yer, hesap açılan şube veya şikayetçinin yerleşim yeri mahkemesi yetkilidir."
+    },
+    {
+      "q": "Bankanın ödemekle yükümlü olduğu bir tutar var mı?",
+      "a": "Evet, muhatap banka süresinde ibraz edilen her çek yaprağı için kanunda belirtilen esaslar çerçevesinde kısmi ödemeler veya belirlenen taban tutarları ödemekle yükümlüdür."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "cek-karsiliksiz",
+  "angle": "Karşılıksız çek cezası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

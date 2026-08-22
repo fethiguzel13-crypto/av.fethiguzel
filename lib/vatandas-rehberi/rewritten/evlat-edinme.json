@@ -1,0 +1,105 @@
+{
+  "slug": "evlat-edinme",
+  "title": "Evlat edinme — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Evlat edinme hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
+  "h1": "Evlat edinme",
+  "keywords": [
+    "evlat edinme",
+    "evlat edinme"
+  ],
+  "category": "Aile",
+  "related": [
+    "mal-rejimi-tasfiyesi",
+    "velayet-davasi",
+    "nufus-kayit-ornegi",
+    "veraset-ilami-nasil-alinir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/mal-rejimi-tasfiyesi"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    },
+    {
+      "label": "NHK",
+      "href": "/kategori/nhk"
+    }
+  ],
+  "lead": "Evlat edinme, çocuk ile ana ve baba arasında soybağının mahkeme kararıyla yeniden kurulmasıdır. Süreç, yerleşim yeri ve resmi makamların onayıyla yürür.",
+  "keyInsight": "Çocuk ile soybağı doğumla, evlilikle, tanımayla, hâkim hükmüyle veya evlat edinme yoluyla kurulur ve hukuki sonuç doğurur.",
+  "sections": [
+    {
+      "heading": "Soybağının kurulma yolları nelerdir?",
+      "paragraphs": [
+        "Çocuk ile ana arasındaki soybağı doğrudan doğumla kurulur. Baba ile soybağı ise ana ile evlilik, tanıma ya da mahkeme kararıyla meydana gelir.",
+        "Bunların dışında kalan ve güçlü bir hukuki bağ oluşturan yöntem ise evlat edinmedir. Bu yol, taraflar arasında yeni bir hısımlık ilişkisi yaratır."
+      ],
+      "bullets": [
+        "Doğumla kurulan bağ",
+        "Evlilik, tanıma, hâkim hükmü",
+        "Evlat edinme yoluyla soybağı"
+      ]
+    },
+    {
+      "heading": "Yerleşim yeri nasıl belirlenir?",
+      "paragraphs": [
+        "Bir kişinin yerleşim yerini değiştirmesi, yeni bir yerin edinilmesine bağlıdır. Önceki adresi belli olmayan veya yurt dışından gelip Türkiye'de henüz adres edinmeyenlerin hâlen oturduğu yer esas alınır.",
+        "Eğitim, sağlık, bakım veya ceza kurumlarında bulunmak yeni bir yerleşim yeri edinme sonucunu doğurmaz. Bu kurumlardaki geçici kalışlar adresi değiştirmez."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yabancı kararlar nasıl işleme alınır?",
+      "paragraphs": [
+        "Yabancı adli veya idari makamların verdiği kararların ülkemizde geçerli olabilmesi için belirli usullere uyulması gerekir. İlgili tarafların başvurusu ve kararın kesinleşmiş olması aranır.",
+        "Bu işlemler yurt dışında dış temsilciliklerde, yurt içinde ise bakanlığın belirlediği müdürlükler aracılığıyla yürütülür."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kurumlarda kalan çocukların durumu nedir?",
+      "paragraphs": [
+        "Çocuk eğitimevleri, hükümlü çocukların eğitilmesi, meslek edinmesi ve topluma kazandırılması amacıyla hizmet verir. Bu tesislerde iç güvenlik kuralları geçerlidir.",
+        "Eğitimine devam eden çocukların durumları, kanuni yaş sınırlarına kadar gözetilerek düzenlenir ve bilgilendirmeler eksiksiz yapılır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Yaş, evlilik ve rıza şartlarını kontrol edin.",
+    "Aile ve Sosyal Hizmetler sürecine başvurun (küçüklerde).",
+    "Rızası gerekenleri (ana-baba, 12 yaşını bitiren çocuk) alın.",
+    "Aile mahkemesinden evlat edinme kararı isteyin.",
+    "Nüfus tescilini yaptırın; miras ve soyadı etkisini bilin."
+  ],
+  "documents": [
+    "kimlik",
+    "gelir / ev belgesi",
+    "rıza evrakı",
+    "mahkeme kararı"
+  ],
+  "faq": [
+    {
+      "q": "Evlat edinme bağı nasıl doğar?",
+      "a": "Evlatlık bağı, mahkeme kararıyla kurulur ve resmiyet kazanır."
+    },
+    {
+      "q": "Yabancı mahkeme kararları doğrudan geçerli olur mu?",
+      "a": "Kesinleşmiş yabancı kararların nüfus kütüğüne tescili için usulüne uygun başvuru yapılması şarttır."
+    },
+    {
+      "q": "Eğitim kurumunda kalmak yerleşim yerini değiştirir mi?",
+      "a": "Hayır, bir eğitim veya bakım kurumunda bulunmak yeni bir yerleşim yeri edinme sonucu doğurmaz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "mal-rejimi-tasfiyesi",
+  "angle": "Evlat edinme",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

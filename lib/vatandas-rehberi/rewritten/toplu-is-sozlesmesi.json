@@ -1,0 +1,116 @@
+{
+  "slug": "toplu-is-sozlesmesi",
+  "title": "Toplu iş sözleşmesi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Toplu iş sözleşmesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
+  "h1": "Toplu iş sözleşmesi",
+  "keywords": [
+    "toplu iş sözleşmesi",
+    "toplu is sozlesmesi"
+  ],
+  "category": "İş",
+  "related": [
+    "ibraname-nedir",
+    "sendika-ozgurlugu",
+    "kidem-tazminati-nasil-alinir",
+    "fazla-mesai-ucreti"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/ibraname-nedir"
+    },
+    {
+      "label": "Sendikalar",
+      "href": "/kategori/sendikalar"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    }
+  ],
+  "lead": "Toplu iş sözleşmesi, işçilerin haklarını güvence altına alan ve çalışma koşullarını belirleyen temel bir düzenlemedir. Bu sözleşme hükümleri, iş sözleşmelerinden doğan ücret ve benzeri ödemelerin eksiksiz yapılmasında doğrudan bağlayıcıdır.",
+  "keyInsight": "Toplu iş sözleşmesinden doğan ücret alacaklarının süresinde ve tam ödenmemesi, işveren açısından yasal yaptırımları ve para cezalarını beraberinde getirir.",
+  "sections": [
+    {
+      "heading": "Toplu iş sözleşmesi neleri kapsar?",
+      "paragraphs": [
+        "İş yerinde çalışanlar ile işveren arasında kurulan ekonomik ve sosyal dengenin temelini bu düzenlemeler oluşturur. Ücret ödemeleri, ikramiyeler ve çalışma koşulları bu metinler üzerinden şekillenir.",
+        "Mevzuatta belirtilen hakların korunması **zorunludur** ve bu kurallara aykırı davranılamaz."
+      ],
+      "bullets": [
+        "Ücret ve prim düzenlemeleri",
+        "Çalışma koşullarının tespiti",
+        "İş güvenliği ve ek haklar"
+      ]
+    },
+    {
+      "heading": "Ücret ödemelerinde uyulması gerekenler",
+      "paragraphs": [
+        "İşçinin kanundan veya toplu iş sözleşmesinden doğan hak edişleri zamanında ödenmelidir. Ödemelerin eksik yapılması veya geciktirilmesi hukuki sorumluluk doğurur.",
+        "Ödeme süreçlerinde **özel banka hesaplarının** kullanılması kanuni bir zorunluluk olarak karşımıza çıkar."
+      ],
+      "bullets": [
+        "Zamanında ve eksiksiz ödeme",
+        "Hesap pusulası düzenleme",
+        "Kesinti kurallarına uyum"
+      ]
+    },
+    {
+      "heading": "Hakların takibi ve yaptırımlar",
+      "paragraphs": [
+        "Toplu iş sözleşmesinden doğan alacakların ödenmemesi durumunda idari para cezaları uygulanır. Her işçi ve her ay için ayrı ayrı cezai işlem tesis edilir.",
+        "Hak kaybı yaşamamak adına **ödemelerin takibi** titizlikle yapılmalıdır."
+      ],
+      "bullets": [
+        "İdari para cezaları",
+        "Eksik ödeme takibi",
+        "Yasal sorumluluklar"
+      ]
+    },
+    {
+      "heading": "Süreç nasıl ilerler?",
+      "paragraphs": [
+        "Uyuşmazlık durumlarında ilgili kanun hükümleri devreye girer. Tarafların hak arama yolları ve başvuru adımları önceden belirlenmiştir.",
+        "Süreç içerisinde **belge saklama** yükümlülüğü büyük önem taşır."
+      ],
+      "bullets": [
+        "Hak arama yolları",
+        "Belge ve kayıt düzeni"
+      ]
+    }
+  ],
+  "steps": [
+    "Toplu iş sözleşmesinden doğan alacaklarınızı ve ödeme tarihlerini kontrol edin.",
+    "İşveren tarafından yapılan ödemeleri banka hesap hareketleri üzerinden takip edin.",
+    "Eksik veya geciken ödemeler için iş yerinizle iletişime geçin.",
+    "Uyuşmazlık halinde gerekli yasal başvuru yollarını değerlendirin.",
+    "Tüm hesap pusulalarını ve bordroları saklayın."
+  ],
+  "documents": [
+    "İş sözleşmesi ve toplu iş sözleşmesi metni",
+    "Banka hesap ekstresi",
+    "Ücret hesap pusulası",
+    "Çalışma belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Toplu iş sözleşmesi ücretleri nasıl etkiler?",
+      "a": "Sözleşme hükümleri, kanuni hakların altında kalmamak şartıyla işç lehine ek menfaatler ve güvenceler sağlar."
+    },
+    {
+      "q": "Ücretler geç yatarsa ne olur?",
+      "a": "Ödemelerin kasıtlı olarak geciktirilmesi veya eksik yapılması durumunda işverene idari para cezası uygulanır."
+    },
+    {
+      "q": "Hangi ödemeler banka üzerinden yapılmalıdır?",
+      "a": "Ücret, prim, ikramiye ve bu nitelikteki her çeşit istihkakın zorunlu tutulan hallerde özel banka hesapları aracılığıyla ödenmesi gerekir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "ibraname-nedir",
+  "angle": "Toplu iş sözleşmesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

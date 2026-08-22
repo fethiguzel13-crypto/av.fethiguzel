@@ -1,0 +1,116 @@
+{
+  "slug": "kefalet-sozlesmesi",
+  "title": "Kefalet sözleşmesi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Kefalet sözleşmesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
+  "h1": "Kefalet sözleşmesi",
+  "keywords": [
+    "kefalet sözleşmesi",
+    "kefalet sozlesmesi"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "bagis-sozlesmesi",
+    "vekalet-sozlesmesi-tbk",
+    "eser-sozlesmesi-nedir",
+    "on-sozlesme-nedir",
+    "iptal-edilebilirlik",
+    "destek-payi-hesabi",
+    "kefilden-tahsilat",
+    "maddi-tazminat-nedir",
+    "kusursuz-sorumluluk",
+    "rucu-davasi-nedir",
+    "sozlesmeden-donme",
+    "faiz-hesaplama-rehberi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/temerrut-faizi-nedir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Bir yakınınızın borcuna imza atarken sadece kağıda değil, geleceğinize kefil olursunuz. Borçlu ödemezse, alacaklı kapınızı doğrudan çalabilir.",
+  "keyInsight": "Kefalet sözleşmesinde azami miktar ve tarih kefilin kendi el yazısıyla yazılmamışsa, o imza hukuken geçersiz sayılır.",
+  "sections": [
+    {
+      "heading": "İmza atarken neye söz veriyorsunuz?",
+      "paragraphs": [
+        "Bir dostunuz bankadan kredi çekecek veya ev kiralayacak. Sizden de kefil olmanızı istiyor. Bankaya veya ev sahibine karşı borçlunun ödememe riskini kişisel olarak üstleniyorsunuz. Asıl borçlu borcunu ödemediğinde, alacaklı doğrudan size gelebilir."
+      ],
+      "bullets": [
+        "Kişisel sorumluluk doğurur",
+        "Borcun ödenmemesini kapsar"
+      ]
+    },
+    {
+      "heading": "Hangi borçlar için kefil olunabilir?",
+      "paragraphs": [
+        "Mevcut ve geçerli bir borç için kefalet kurulabilir. Henüz doğmamış veya koşula bağlı bir borç için de, borç doğduğunda hüküm ifade etmek üzere imza atılabilir. Borçlunun yanılgı veya ehliyetsizlik nedeniyle sorumlu olmadığı durumlarda, kefil bu eksikliği biliyorsa sorumluluk altında kalır."
+      ],
+      "bullets": [
+        "Geçerli borç şartı",
+        "Gelecekteki borçlar",
+        "Zamanaşımına uğramış borçlar"
+      ]
+    },
+    {
+      "heading": "Şekil şartları neden bu kadar sıkı?",
+      "paragraphs": [
+        "Kefalet sözleşmesi **yazılı şekilde** yapılmak zorundadır. Sadece imzalamak yetmez; kefilin sorumlu olacağı **azami miktar** ve kefalet tarihi kefilin kendi el yazısıyla belirtilmelidir. Eğer müteselsil kefil oluyorsanız, bu sıfatı da el yazınızla yazmanız şarttır."
+      ],
+      "bullets": [
+        "Yazılı şekil zorunluluğu",
+        "El yazısıyla miktar ve tarih"
+      ]
+    },
+    {
+      "heading": "Sorumluluğu artıran değişiklikler ne anlama gelir?",
+      "paragraphs": [
+        "Sözleşme imzalandıktan sonra taraflar kefilin sorumluluğunu artıran değişiklikler yapabilir. Ancak bu değişiklikler, kefalet için aranan **şekil kurallarına** uyulmadıkça hiçbir hüküm doğurmaz. Kefil, kanunda kendisine tanınan haklardan önceden feragat edemez."
+      ],
+      "bullets": [
+        "Sonradan yapılan artışlar",
+        "Şekil şartına uyma zorunluluğu"
+      ]
+    }
+  ],
+  "steps": [
+    "Kefalet sözleşmesinin yazılı olup olmadığını ve **azami miktar** ile tarihi inceleyin.",
+    "Müteselsil kefil olup olmadığınızı ve bu ibarenin **el yazınızla** yazılıp yazılmadığını kontrol edin.",
+    "Asıl borcun durumunu ve yasal şartları gözden geçirin.",
+    "İmzalamadan önce doğabilecek riskleri net olarak hesaplayın."
+  ],
+  "documents": [
+    "kefalet sözleşmesi",
+    "asıl sözleşme",
+    "ödeme dökümü"
+  ],
+  "faq": [
+    {
+      "q": "Kefil olduğum miktar sonradan artırılabilir mi?",
+      "a": "Kefilin sorumluluğunu artıran sonradan yapılan değişiklikler, aynı şekil kurallarına uyulmadıkça geçerli olmaz."
+    },
+    {
+      "q": "El yazısıyla neyi yazmam gerekiyor?",
+      "a": "Sorumlu olacağınız azami miktarı, kefalet tarihini ve müteselsil kefilseniz bu ifadeyi kendi el yazınızla yazmalısınız."
+    },
+    {
+      "q": "Zamanaşımına uğramış borca kefil olunur mu?",
+      "a": "Borçlu yönünden zamanaşımına uğramış bir borca kefil olan kişi, kanun hükümlerine göre sorumlu olur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "temerrut-faizi-nedir",
+  "angle": "Kefalet sözleşmesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

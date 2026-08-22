@@ -1,0 +1,110 @@
+{
+  "slug": "ogrenci-belgesi-e-devlet",
+  "title": "Öğrenci belgesi e-Devlet — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Öğrenci belgesi e-Devlet hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
+  "h1": "Öğrenci belgesi e-Devlet",
+  "keywords": [
+    "öğrenci belgesi e-devlet",
+    "ogrenci belgesi e devlet"
+  ],
+  "category": "Eğitim",
+  "related": [
+    "okul-kayit-ucreti-iade",
+    "e-devlet-nufus",
+    "pasaport-basvurusu",
+    "ogrenim-ucreti-iade",
+    "yuksekogretim-disiplin"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/okul-kayit-ucreti-iade"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=%C3%B6%C4%9Frenci"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Sabah iş yerindesiniz ya da banka gişesindesiniz; sizden anında öğrenci belgesi isteniyor. Artık okulun öğrenci işleri kuyruğunda beklemeye **gerek yok**.",
+  "keyInsight": "e-Devlet üzerinden alınan barkodlu belgeler ıslak imza kadar geçerlidir.",
+  "sections": [
+    {
+      "heading": "Neden e-Devlet belgesi işinizi görür?",
+      "paragraphs": [
+        "Eskiden mühürlü kağıt almak için saatler harcanırdı. Bugün ise cep telefonunuz veya bilgisayarınız birkaç saniye içinde resmi evrakı önünüze getirir.",
+        "Üzerindeki barkod sayesinde belgeyi alan kurum, doğruluğunu anında kontrol edebilir."
+      ],
+      "bullets": [
+        "Kurumlar artık kağıt evrak yerine barkodlu çıktıyı tercih ediyor.",
+        "Kırtasiye masrafı ve zaman kaybı biter."
+      ]
+    },
+    {
+      "heading": "Sisteme girerken nelere dikkat etmeli?",
+      "paragraphs": [
+        "Şifreniz ve T.C. kimlik numaranızla giriş yaptıktan sonra arama çubuğunu kullanmak en hızlı yoldur.",
+        "Aktif bir öğrenci olmanız, yani kaydınızın yenilenmiş olması **ilk ve tek** şarttır."
+      ],
+      "bullets": [
+        "Şifrenizi unuttuysanız PTT'den yenileyebilirsiniz.",
+        "Donuk veya pasif kayıtlar sistemde görünmeyebilir."
+      ]
+    },
+    {
+      "heading": "Belgeyi nereye vereceksiniz?",
+      "paragraphs": [
+        "Askerlik şubesi, KYK, bankalar veya staj yapacağınız yerler bu belgeyi ister. Hepsine aynı çıktıyı veya dijital dosyayı **güvenle** verebilirsiniz.",
+        "Çıktı alırken barkodun kağıdın altında tam ve okunur olmasına dikkat edin."
+      ],
+      "bullets": [
+        "PDF formatında indirip e-posta ile gönderebilirsiniz."
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırınca ne olur?",
+      "paragraphs": [
+        "Öğrenci belgesinin üzerinde **geçerlilik tarihi** yer alır. Eski tarihli belgeler kurumlar tarafından reddedilebilir.",
+        "İşiniz uzadıysa sisteme tekrar girip taze bir barkod üretmek sadece saniyelerinizi alır."
+      ],
+      "bullets": [
+        "Şüpheli durumlarda her zaman güncel tarihli olanı seçin."
+      ]
+    }
+  ],
+  "steps": [
+    "e-Devlet kapısına T.C. kimlik numaranız ve şifrenizle giriş yapın.",
+    "Arama kutucuğuna öğrenci belgesi yazarak ilgili kurumsal hizmete gidin.",
+    "Belgeyi hangi kurum için alacaksanız ilgili alanı seçin.",
+    "Barkodlu belgeyi PDF formatında bilgisayarınıza veya telefonunuza indirin."
+  ],
+  "documents": [
+    "T.C. kimlik kartı",
+    "e-Devlet şifresi",
+    "Barkodlu öğrenci belgesi çıktısı"
+  ],
+  "faq": [
+    {
+      "q": "Açık lise veya açık üniversite öğrencileri bu belgeyi alabilir mi?",
+      "a": "Evet, kaydınız aktif olduğu sürece her düzeydeki öğrenci e-Devlet üzerinden belgesini alabilir."
+    },
+    {
+      "q": "İş yerim barkodlu belgeyi kabul etmiyor, ne yapmalıyım?",
+      "a": "Barkodlu belgeler kanunen geçerlidir; kurumlar bunu reddedemez, ancak yine de okulunuza başvurup ıslak imzalı mühürlü belge isteyebilirsiniz."
+    },
+    {
+      "q": "Belge üzerinde neden barkod var?",
+      "a": "Barkod, belgenin sahte olup olmadığını anlamak ve dijital olarak doğrulatmak için kullanılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "okul-kayit-ucreti-iade",
+  "angle": "Öğrenci belgesi e-Devlet",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

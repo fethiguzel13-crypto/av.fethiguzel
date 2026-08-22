@@ -1,0 +1,116 @@
+{
+  "slug": "calisma-belgesi",
+  "title": "Çalışma belgesi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Çalışma belgesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
+  "h1": "Çalışma belgesi",
+  "keywords": [
+    "çalışma belgesi",
+    "calisma belgesi"
+  ],
+  "category": "İş",
+  "related": [
+    "ibraname-nedir",
+    "is-sozlesmesi-feshi",
+    "kidem-tazminati-nasil-alinir",
+    "sgk-hizmet-dokumu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/ibraname-nedir"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=%C3%A7al%C4%B1%C5%9Fma%20belgesi"
+    }
+  ],
+  "lead": "İşten ayrıldığınızda işverenin size çalışma belgesi vermesi zorunludur. Bu belge yeni işinize başlarken veya hak ararken en büyük yardımcınızdır.",
+  "keyInsight": "Çalışma belgesinin gerçeğe aykırı düzenlenmesi veya hiç verilmemesi durumunda doğan zararlar için eski işverenden tazminat isteyebilirsiniz.",
+  "sections": [
+    {
+      "heading": "İşten ayrıldığınızda ne talep etmelisiniz?",
+      "paragraphs": [
+        "İş sözleşmeniz bittiğinde işyerinden ayrılıyorsunuz. Asıl soru ne kadar çalıştığınız değil, sözleşmenin hangi şartlarda bittiğidir.",
+        "İşveren size işinizin çeşidinin ne olduğunu ve süresini gösteren resmi bir belgeyi **vaktinde vermek** zorundadır."
+      ],
+      "bullets": [
+        "İşin niteliği net yazılmalı",
+        "Çalışma süresi eksiksiz yer almalı"
+      ]
+    },
+    {
+      "heading": "Belgede yanlış bilgi varsa ne olur?",
+      "paragraphs": [
+        "Elinize geçen kağıttaki bilgilerin doğruluğunu hemen inceleyin. Yanlış veya eksik bir ifade ileride önünüze engel olarak çıkabilir.",
+        "Belgede doğru olmayan bilgiler bulunmasından ya da belgenin gecikmesinden zarar gören işçi veya yeni işveren, **eski işverenden tazminat** isteyebilir."
+      ],
+      "bullets": [
+        "Gerçeğe aykırı ifadelere itiraz edin",
+        "Yeni işverene doğru belgeyi sunun"
+      ]
+    },
+    {
+      "heading": "Belge için harç ödemeniz gerekir mi?",
+      "paragraphs": [
+        "Resmi evrak süreçlerinde masraf çıkacağı endişesi yaşayabilirsiniz. Ancak kanun bu konuda çalışanları korur.",
+        "Çalışma belgeleri **her türlü resim ve harçtan muaftır**, bu işlem için sizden ücret talep edilemez."
+      ],
+      "bullets": [
+        "Ek masraf ödemeyin",
+        "Ücretsiz şekilde teslim alın"
+      ]
+    },
+    {
+      "heading": "Yeni işinize geçerken bu belge neden şarttır?",
+      "paragraphs": [
+        "Yeni bir işyerine adım attığınızda geçmişteki tecrübenizi ve çalışma sürenizi kanıtlamanız gerekir. Eski işverenden aldığınız bu resmi kağıt yeni işverene sunulur.",
+        "Belgenin zamanında verilmemesi yeni işe giriş süreçlerinizde aksamalara ve hak kayıplarına yol açabilir."
+      ],
+      "bullets": [
+        "Yeni işverene ibraz edin",
+        "Kariyer dosyanızda saklayın"
+      ]
+    }
+  ],
+  "steps": [
+    "İşten ayrıldığınız anda işverenden çalışma belgesini isteyin.",
+    "Belge üzerindeki işin çeşidi ve çalışma süresi bilgilerini kontrol edin.",
+    "Belgede gerçeğe aykırı veya eksik bir bilgi varsa hemen düzeltilmesini talep edin.",
+    "Belge verilmezse yasal yollara başvurarak talep edin.",
+    "Hazırlanan belgeyi yeni işvereninize ibraz edin."
+  ],
+  "documents": [
+    "talep yazısı",
+    "eski sözleşme",
+    "çalışma belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Çalışma belgesini kim vermelidir?",
+      "a": "İşten ayrılan işçiye bu belgeyi eski işvereni vermek zorundadır."
+    },
+    {
+      "q": "Çalışma belgesinde hangi bilgiler yer almalıdır?",
+      "a": "İşin çeşidinin ne olduğu ve çalışma süresi açıkça yazılmalıdır."
+    },
+    {
+      "q": "Belge için herhangi bir harç ödenir mi?",
+      "a": "Hayır, bu belgeler her türlü resim ve harçtan muaftır."
+    },
+    {
+      "q": "Belge gerçeğe aykırıysa ne yapabilirsiniz?",
+      "a": "Doğru olmayan bilgiler nedeniyle zarar görürseniz eski işverenden tazminat talep edebilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "ibraname-nedir",
+  "angle": "Çalışma belgesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

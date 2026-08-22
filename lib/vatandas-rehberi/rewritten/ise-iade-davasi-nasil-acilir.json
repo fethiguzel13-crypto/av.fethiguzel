@@ -1,0 +1,116 @@
+{
+  "slug": "ise-iade-davasi-nasil-acilir",
+  "title": "İşe İade Davası: Bir Aylık Süre, Arabuluculuk ve Tazminat",
+  "description": "İşe iade davası şartları nelerdir, bir aylık süre ne zaman başlar, arabuluculuk zorunlu mu, işe başlatmama tazminatı ne kadar? 4857 sayılı Kanun m.18-21 çerçevesinde.",
+  "h1": "İşe iade davası nasıl açılır?",
+  "keywords": [
+    "işe iade davası",
+    "işe iade şartları",
+    "işe iade süresi",
+    "işe başlatmama tazminatı",
+    "boşta geçen süre ücreti",
+    "geçerli sebep"
+  ],
+  "category": "İş",
+  "related": [
+    "kidem-tazminati-nasil-alinir"
+  ],
+  "links": [
+    {
+      "label": "İş K. m.18 — Feshin geçerli sebebe dayandırılması",
+      "href": "/mevzuat/is-kanunu/madde-18"
+    },
+    {
+      "label": "İş K. m.19 — Fesihte usul",
+      "href": "/mevzuat/is-kanunu/madde-19"
+    },
+    {
+      "label": "İş K. m.20 — İtiraz ve usulü",
+      "href": "/mevzuat/is-kanunu/madde-20"
+    },
+    {
+      "label": "İş K. m.21 — Geçersiz feshin sonuçları",
+      "href": "/mevzuat/is-kanunu/madde-21"
+    },
+    {
+      "label": "İşe iade hesaplama aracı",
+      "href": "/hesaplama/ise-iade"
+    }
+  ],
+  "lead": "İşten çıkarıldınız ve bu durumun haksız olduğunu düşünüyorsunuz. İşe iade süreci, işverenle aranızdaki bağın hukuken kopup kopmadığını belirleyen kritik bir yoldur.",
+  "keyInsight": "Fesih bildiriminin size ulaştığı tarihten itibaren **bir ay içinde arabulucuya başvurmak** zorunludur; bu süreyi kaçırırsanız dava hakkınızı kaybedersiniz.",
+  "sections": [
+    {
+      "heading": "Kimler işe iade isteyebilir?",
+      "paragraphs": [
+        "Her işten çıkarılan işe iade davası açamaz. İş güvencesi kapsamında olmak için öncelikle işyerinde **en az otuz işçi** çalışıyor olmalıdır.",
+        "Ayrıca işçinin en az altı aylık kıdemi bulunmalı ve sözleşmesi belirsiz süreli olmalıdır. Yer altı işlerinde çalışanlar için ise bu kıdem şartı aranmaz."
+      ],
+      "bullets": [
+        "Otuz veya daha fazla çalışan",
+        "En az altı aylık kıdem",
+        "Belirsiz süreli sözleşme"
+      ]
+    },
+    {
+      "heading": "İşveren keyfi davranabilir mi?",
+      "paragraphs": [
+        "İşveren sözleşmeyi feshederken geçerli bir sebebe dayanmak zorundadır. Bu sebep işçinin yeterliliği, davranışları veya işin gerekleri ile ilgili olabilir.",
+        "Sözlü fesih geçersizdir; fesih bildirimi **yazılı ve gerekçeli** olmak zorundadır. Eğer sebep davranış veya verim ise, işçinin savunması mutlaka alınmalıdır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreç nasıl işler?",
+      "paragraphs": [
+        "Önce arabulucuya gitmelisiniz. Arabuluculukta anlaşma sağlanamazsa, son tutanağın tutulduğu tarihten itibaren iki hafta içinde iş mahkemesinde dava açılmalıdır.",
+        "Doğrudan dava açarsanız, mahkeme davanızı usulden reddeder. İspat yükü işverendedir; yani feshin geçerli olduğunu kanıtlamak işverenin görevidir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Dava kazanılırsa ne olur?",
+      "paragraphs": [
+        "Mahkeme feshin geçersizliğine karar verirse, işveren sizi bir ay içinde işe başlatmalıdır. Başlatmazsa, mahkemenin belirlediği tazminatı ve boşta geçen süreye ait ücreti ödemek zorundadır.",
+        "Dava sonunda kazanılan hakları alabilmek için, kesinleşen kararın tebliğinden itibaren **on işgünü içinde** işverene işe başlama başvurusu yapmanız şarttır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Fesih bildiriminin tebliğ tarihini not edin.",
+    "İşyerindeki çalışan sayısını ve kıdeminizi teyit edin.",
+    "Tebliğden itibaren bir ay içinde arabulucuya başvurun.",
+    "Anlaşma olmazsa iki hafta içinde iş mahkemesinde dava açın.",
+    "Karar kesinleşince on işgünü içinde yazılı olarak işe başlama başvurusu yapın."
+  ],
+  "documents": [
+    "Yazılı fesih bildirimi",
+    "İşe giriş bildirgesi",
+    "Arabuluculuk son tutanağı",
+    "İşe başlama başvuru dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "İşe iade davası açma süresi nedir?",
+      "a": "Fesih bildiriminin tebliğinden itibaren bir ay içinde arabulucuya başvurulmalıdır."
+    },
+    {
+      "q": "Arabulucuya gitmeden dava açabilir miyim?",
+      "a": "Hayır, arabulucuya başvurmadan açılan dava usulden reddedilir."
+    },
+    {
+      "q": "İşe başlatmama tazminatı ne kadardır?",
+      "a": "En az dört aylık, en çok sekiz aylık ücretiniz tutarındadır."
+    },
+    {
+      "q": "Dava bittikten sonra ne yapmalıyım?",
+      "a": "Kararın tebliğinden itibaren on işgünü içinde işverene işe başlama başvurusu yapmalısınız."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.96,
+  "voice": "narrative",
+  "source": "gemini"
+}

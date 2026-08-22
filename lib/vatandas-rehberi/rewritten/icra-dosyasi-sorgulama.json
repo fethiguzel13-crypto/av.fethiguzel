@@ -1,0 +1,104 @@
+{
+  "slug": "icra-dosyasi-sorgulama",
+  "title": "İcra Dosyası Sorgulama (UYAP) | Vatandaş Rehberi",
+  "description": "İcra dosyası nasıl sorgulanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
+  "h1": "İcra dosyası nasıl sorgulanır?",
+  "keywords": [
+    "icra dosyası sorgulama",
+    "UYAP icra"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "odeme-emrine-itiraz",
+    "senet-icra-takibi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Faiz",
+      "href": "/hesaplama/faiz"
+    }
+  ],
+  "lead": "Telefonunuza gelen gizemli bir mesajla veya banka hesabınızdaki kesintiyle icralık olduğunuzu anlarsınız. Asıl telaş, dosyanın nerede ve ne durumda olduğunu bilmemekten kaynaklanır.",
+  "keyInsight": "e-Devlet ekranında her dosya anında görünmeyebilir; asıl resmî bilgi UYAP sisteminde ve ilgili icra dairesinin fiziki dosyasındadır.",
+  "sections": [
+    {
+      "heading": "Hangi kapıyı çalmalı?",
+      "paragraphs": [
+        "Borçlu olduğunuzu öğrendiğiniz an bilgisayar başına geçersiniz. e-Devlet kapısı veya UYAP Vatandaş portalı üzerinden T.C. kimlik numaranızla giriş yaparak hakkınızda açılmış bir dosya olup olmadığını hemen **listeleyebilirsiniz**.",
+        "Sorgulama ekranında karşınıza çıkan dosya numarası ve icra dairesi adı, bundan sonraki adımlarınız için en önemli pusuladır. Birden fazla dosya varsa her birini ayrı ayrı incelemeniz gerekir."
+      ],
+      "bullets": [
+        "e-Devlet şifrenizi hazırlayın",
+        "UYAP Vatandaş portala girin",
+        "Dosya sorgulama sekmesini açın"
+      ]
+    },
+    {
+      "heading": "Dosyanın içine nasıl bakılır?",
+      "paragraphs": [
+        "Ekranda dosya numarasını gördükten sonra içeriğini dikkatle açmalısınız. Alacaklının kim olduğunu, borcun asıl miktarını ve işletilen faiz kalemlerini bu ekrandan **inceleyebilirsiniz**.",
+        "Dosya içinde yer alan ödeme emrinin size hangi tarihte ulaştığı veya ulaştı görün finalmente büyük önem taşır. Evrakın dosyadaki tebligat mazbatasını mutlaka kontrol edin."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hangi detaylar gözden kaçar?",
+      "paragraphs": [
+        "İnsanlar sadece toplam borç rakamına bakar ancak asıl tehlike dosyadaki haciz ve satış işlemleridir. Taşınmaz veya mal varlıklarınız üzerinde bir kıymet takdiri yapılıp yapılmadığını **sorgulama** ekranındaki evrak listesinden görebilirsiniz.",
+        "Dosyada adı geçen banka hesapları veya maaş haczi müzekkereleri güncel olarak sisteme yansımış olabilir. Kesintilerin sebebini anlamak için evrak eklerindeki tebliğ ve işlem tarihlerini okuyun."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Sistemi aşan durumlar ne anlama gelir?",
+      "paragraphs": [
+        "Bazen dijital ekranda her detay yazmaz veya dosya gizlilik içerebilir. Böyle bir durumda doğrudan ilgili icra dairesine giderek veya avukatınız vasıtasıyla dosyanın **aslına** ulaşmalısınız.",
+        "Eksik ya da hatalı bir tebligat yapıldıysa, bunu dosyadaki belgelerden tespit edip ilgili mercilere bildirmeniz gerekebilir. Süreci yakından takip etmek hak kaybını önler."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "e-Devlet veya UYAP Vatandaş’tan T.C. ile sorgulayın.",
+    "Dosya numarası, daire ve alacaklıyı yazın.",
+    "Ödeme emri, haciz ve bakiye kalemlerini açın.",
+    "Tebliğ tarihini dosyadan doğrulayın.",
+    "Şüpheli dosyada icra dairesinden evrak sureti alın."
+  ],
+  "documents": [
+    "e-Devlet çıktısı",
+    "dosya numarası",
+    "ödeme emri",
+    "kimlik"
+  ],
+  "faq": [
+    {
+      "q": "e-Devlet'te dosya görünmüyor ama maaşımda kesinti var, neden?",
+      "a": "Her dosya anında dijital sisteme yansımayabilir veya UYAP üzerinde yetki kısıtı olabilir. Doğrudan kesintinin yapıldığı kurum veya ilgili icra dairesiyle görüşmeniz gerekir."
+    },
+    {
+      "q": "İcra dosya borcunu en hızlı nasıl öğrenebilirim?",
+      "a": "UYAP Vatandaş portalı veya e-Devlet üzerindeki dava ve icra dosyası sorgulama ekranlarından güncel bakiye borcu miktarını görebilirsiniz."
+    },
+    {
+      "q": "Dosya numarasını bilmiyorsam ne yapmalıyım?",
+      "a": "T.C. kimlik numaranızla UYAP veya e-Devlet sistemine girdiğinizde adınıza kayıtlı tüm icra dosyaları liste halinde karşınıza çıkacaktır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "UYAP sorgu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

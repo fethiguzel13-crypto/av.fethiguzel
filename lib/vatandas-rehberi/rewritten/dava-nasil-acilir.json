@@ -1,0 +1,106 @@
+{
+  "slug": "dava-nasil-acilir",
+  "title": "Dava Nasıl Açılır? Dilekçenin Zorunlu Unsurları ve Avans",
+  "description": "Dava dilekçesinde neler bulunmak zorunda, eksik olursa ne olur, harç ve gider avansı ne zaman yatırılır? HMK m.119 ve m.120 çerçevesinde.",
+  "h1": "Dava nasıl açılır?",
+  "keywords": [
+    "dava nasıl açılır",
+    "dava dilekçesi",
+    "dava dilekçesinde bulunması gerekenler",
+    "gider avansı",
+    "dava açılmamış sayılması",
+    "yargılama harcı"
+  ],
+  "category": "Usul",
+  "related": [
+    "arabuluculuk-nasil-isler",
+    "usulsuz-tebligat-ve-itiraz"
+  ],
+  "links": [
+    {
+      "label": "HMK m.119 — Dava dilekçesinin içeriği",
+      "href": "/mevzuat/hmk/madde-119"
+    },
+    {
+      "label": "HMK m.120 — Harç ve avans ödenmesi",
+      "href": "/mevzuat/hmk/madde-120"
+    },
+    {
+      "label": "Dava harcı hesaplama aracı",
+      "href": "/hesaplama/dava-harci"
+    }
+  ],
+  "lead": "Dava açmak, iddialarınızı resmî bir zemine taşıyan hukuki bir başlangıçtır. Eksiksiz bir dilekçe ile süreci başlatmak, hak kaybına uğramamanız için hayati önem taşır.",
+  "keyInsight": "Dilekçenizdeki mahkeme adı, vakıalar, deliller ve talep sonucu gibi temel unsurların eksikliği, davanızın doğrudan işleme alınmamasına veya reddine yol açan telafisi imkansız bir hatadır.",
+  "sections": [
+    {
+      "heading": "Dilekçenizde neler bulunmalı?",
+      "paragraphs": [
+        "Dava dilekçesi, mahkemenin sizin durumunuzu anlamasını sağlayan bir haritadır. Kimlik bilgileriniz, davalının bilgileri ve davanın nedenini net bir şekilde ortaya koymalısınız.",
+        "İddialarınızı bir hikaye gibi değil, numaralandırılmış olaylar dizisi olarak yazmalısınız. Her bir iddianın karşısına mutlaka onu kanıtlayan delilinizi eklemeyi unutmayın."
+      ],
+      "bullets": [
+        "Mahkeme adı ve tarafların açık bilgileri",
+        "T.C. kimlik numarası",
+        "Sıra numaralı vakıa özetleri",
+        "Vakıalarla eşleştirilmiş deliller",
+        "Açık ve net talep sonucu"
+      ]
+    },
+    {
+      "heading": "Eksikliklerin davanıza etkisi nedir?",
+      "paragraphs": [
+        "Bazı eksiklikler mahkeme tarafından fark edildiğinde size tamamlamanız için bir süre verilir. Ancak bazı temel unsurların eksikliği, davanızın hiç açılmamış sayılmasına neden olur.",
+        "**Vakıalar, deliller ve hukuki sebepler** dilekçenizin kalbidir. Bunları dilekçeye eklemeyi unutursanız, mahkeme size bunları tamamlamanız için ikinci bir şans tanımaz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Ödeme yükümlülükleri ve avans",
+      "paragraphs": [
+        "Dava açmak sadece dilekçe vermek değildir; aynı zamanda harç ve gider avansını da mahkeme veznesine yatırmanız gerekir.",
+        "**Dava açarken** bu ödemeleri yapmazsanız süreç başlamaz. Yargılama sırasında avansın yetersiz kalması durumunda ise size verilen sürede ödemeyi tamamlamanız şarttır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Dava öncesi dikkat edilmesi gerekenler",
+      "paragraphs": [
+        "Her uyuşmazlık doğrudan mahkemeye taşınmaz. İş veya ticari davalar gibi alanlarda arabuluculuk bir dava şartıdır; bu aşamayı atlayarak dava açamazsınız.",
+        "Ayrıca davanızı doğru mahkemede açtığınızdan emin olun. Yanlış mahkemede açılan bir dava, zaman ve emek kaybına yol açarak sürecinizi başa döndürür."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Uyuşmazlığınız için arabuluculuk şartı olup olmadığını kontrol edin.",
+    "Görevli ve yetkili mahkemeyi belirleyin.",
+    "Vakıalarınızı numaralandırarak açıkça yazın ve her birini delillerinizle eşleştirin.",
+    "Dava dilekçesini imzalayın ve gerekli harç ile gider avansını yatırın."
+  ],
+  "documents": [
+    "Dava dilekçesi",
+    "Kimlik fotokopisi",
+    "Delil listesi ve belgeler",
+    "Harç ve gider avansı makbuzu"
+  ],
+  "faq": [
+    {
+      "q": "Dilekçede bir şeyi unutursam ne olur?",
+      "a": "Mahkeme, bazı eksiklikler için bir haftalık kesin süre verir. Ancak vakıa, delil ve talep gibi temel unsurların eksikliği davanın açılmamış sayılmasına yol açabilir."
+    },
+    {
+      "q": "Delillerimi sonra sunabilir miyim?",
+      "a": "Hayır, kanun her iddianın hangi delille ispat edileceğinin dilekçede gösterilmesini arar; sonradan delil sunma imkânı oldukça kısıtlıdır."
+    },
+    {
+      "q": "Gider avansı yetmezse ne yapmalıyım?",
+      "a": "Mahkeme size eksikliği tamamlamanız için iki haftalık kesin süre verir; bu süre içinde ödemeyi yapmazsanız davanız işlemden kaldırılabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.94,
+  "voice": "narrative",
+  "source": "gemini"
+}

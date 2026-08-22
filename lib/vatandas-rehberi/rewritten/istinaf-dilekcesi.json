@@ -1,0 +1,115 @@
+{
+  "slug": "istinaf-dilekcesi",
+  "title": "İstinaf Dilekçesi Nasıl Yazılır?",
+  "description": "İstinaf dilekçesinde neler yazılmalı? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
+  "h1": "İstinaf dilekçesinde neler yazılmalı?",
+  "keywords": [
+    "istinaf dilekçesi",
+    "istinaf nasıl yazılır"
+  ],
+  "category": "Usul",
+  "related": [
+    "istinaf-nedir",
+    "temyiz-nedir",
+    "dilekce-nasil-yazilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/istinaf-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=istinaf"
+    }
+  ],
+  "lead": "Mahkeme kararını beğenmediğinizde üst mahkemenin kapısını çalarsınız. Bu adım, davanın baştan sona tekrar görülmesi değil, hataların düzeltilmesi için atılır.",
+  "keyInsight": "İnceleme yalnızca dilekçede yazılı sebeplerle sınırlıdır; bu yüzden itiraz noktalarını eksiksiz koymak **hayati önem** taşır.",
+  "sections": [
+    {
+      "heading": "Hangi bilgiler dilekçede mutlaka yer almalı?",
+      "paragraphs": [
+        "Elinize geçen kararın adliyedeki yolculuğu doğru bilgilerle başlar. Tarafların kimlik bilgileri, T.C. numaraları ve adresleri eksiksiz yazılmalıdır.",
+        "Hangi mahkemenin hangi tarih ve sayılı kararına itiraz ettiğiniz net şekilde görünmelidir. Kararın size ne zaman tebliğ edildiği de bu kâğıtta yer almalıdır."
+      ],
+      "bullets": [
+        "Tarafların ad, soyad ve adres bilgileri",
+        "Kararı veren mahkeme, tarih ve sayı",
+        "Kararın tebliğ tarihi"
+      ]
+    },
+    {
+      "heading": "İtiraz sebepleri nasıl anlatılmalı?",
+      "paragraphs": [
+        "Hâkimin nerede hata yaptığını açıkça yazmalısınız. Sadece karara kızmak yetmez; hangi delilin göz ardı edildiğini ya da kuralın yanlış uygulandığını somut şekilde ortaya koymalısınız.",
+        "İstinaf incelemesi **sadece dilekçede belirtilen sebeplerle** sınırlı yürütülür. Dilekçeye yazmadığınız bir gerekçeyi sonradan duruşmada sözlü olarak büyütemezsiniz."
+      ],
+      "bullets": [
+        "Kararın özeti ve hatalı kısımlar",
+        "İtiraz gerekçeleri ve açıklamaları",
+        "Net talep sonucu"
+      ]
+    },
+    {
+      "heading": "Dilekçe nereye ve nasıl teslim edilir?",
+      "paragraphs": [
+        "Hazırladığınız metni kararı veren mahkemeye ya da bulunduğunuz yerdeki başka bir adliyeye verebilirsiniz.",
+        "Dilekçeyi teslim ettiğinizde görevliler bunu ilgili deftere kaydeder ve size **ücretsiz bir alındı belgesi** verir. Karşı tarafın sayısı kadar örnek dosyaya eklenmelidir."
+      ],
+      "bullets": [
+        "Kararı veren mahkemeye veya başka bir yer mahkemesine teslim",
+        "Karşı taraf sayısı kadar örnek ekleme",
+        "Ücretsiz alındı belgesi alma"
+      ]
+    },
+    {
+      "heading": "İnceleme nasıl yapılır?",
+      "paragraphs": [
+        "Dosya üst mahkemeye ulaştığında denetim başlar. Yüksek mahkeme, dilekçenizdeki iddiaları tek tek ele alır.",
+        "Ancak **kamu düzenine aykırılık** içeren bir durum varsa, taraflar istemese bile mahkeme bunu kendiliğinden dikkate alır ve gereğini yapar."
+      ],
+      "bullets": [
+        "Dilekçe sebeplerine göre inceleme",
+        "Kamu düzeni konularının resen gözetilmesi"
+      ]
+    }
+  ],
+  "steps": [
+    "Tarafların kimlik ve adres bilgilerini dilekçenin başına yazın.",
+    "İtiraz ettiğiniz mahkeme kararının tarihini ve sayısını belirtin.",
+    "Hâkimin kararındaki hataları gerekçeleriyle birlikte metne dökün.",
+    "Karşı tarafın sayısı kadar dilekçe örneğini hazırlayın.",
+    "Dilekçeyi mahkemeye sunup alındı belgesini isteyin."
+  ],
+  "documents": [
+    "İstinaf dilekçesi",
+    "Kararın bir örneği ve tebligat parçası",
+    "Karşı taraf sayısı kadar dilekçe kopyası",
+    "Alındı belgesi"
+  ],
+  "faq": [
+    {
+      "q": "İstinaf dilekçesinde imzalamayı unutursam ne olur?",
+      "a": "Kimlik ve imza varsa, diğer eksikler sonradan tamamlatılır; dilekçe hemen reddedilmez."
+    },
+    {
+      "q": "Dilekçeyi yanlış adliyeye verebilir miyim?",
+      "a": "Evet, kararı veren mahkeme dışındaki başka bir yer mahkemesine de başvurabilirsiniz; oradan ilgili yere gönderilir."
+    },
+    {
+      "q": "Dilekçede yazmadığım bir sebebi sonradan duruşmada söyleyebilir miyim?",
+      "a": "İnceleme dilekçedeki sebeplerle sınırlıdır, bu yüzden tüm itirazlar baştan yazılmalıdır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "istinaf-nedir",
+  "angle": "Dilekçe",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

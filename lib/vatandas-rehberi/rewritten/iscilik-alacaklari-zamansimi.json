@@ -1,0 +1,112 @@
+{
+  "slug": "iscilik-alacaklari-zamansimi",
+  "title": "İşçilik Alacaklarında Zamanaşımı | Vatandaş Rehberi",
+  "description": "İşçilik alacaklarında zamanaşımı ne kadar? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Porta…",
+  "h1": "İşçilik alacaklarında zamanaşımı ne kadar?",
+  "keywords": [
+    "işçilik alacakları zamanaşımı",
+    "kıdem zamanaşımı"
+  ],
+  "category": "İş",
+  "related": [
+    "kidem-tazminati-nasil-alinir",
+    "zamanaşimi-nedir",
+    "fazla-mesai-ucreti"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kidem-tazminati-nasil-alinir"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    }
+  ],
+  "lead": "İşten ayrıldınız ve alacaklarınızın içeride kaldığını fark ettiniz. Haklarınızı kaybetmemek için **zamanında** harekete geçmeniz gerekir.",
+  "keyInsight": "Alacaklarınızı istemek için **belli takvim kuralları** işler; bu süreleri geçirdiğinizde hak arama imkânınız ortadan kalkar.",
+  "sections": [
+    {
+      "heading": "Alacaklar ne zaman zamanaşımına uğrar?",
+      "paragraphs": [
+        "Çalışırken ödenmeyen ücretler, primler veya diğer haklar için belirli süreler geçerlidir. İş sözleşmesi sona erdiğinde hesap yapmaya başlarsınız.",
+        "Ücret en geç ayda bir ödenir kuralı işletilirken, alacağın doğduğu an itibarıyla süreler işlemeye başlar."
+      ],
+      "bullets": [
+        "Ücret alacakları için zaman işler",
+        "Sözleşmenin bitiş tarihi önemlidir"
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırınca ne olur?",
+      "paragraphs": [
+        "Takvimi dikkate almazsanız işveren borcunu ödemekten kurtulabilir. Mahkemeye gittiğinizde **itiraz gelirse** alacağınızı alamazsınız.",
+        "Bu yüzden hak doğduğu anda evrakları toplayıp süreci başlatmak en güvenli yoldur."
+      ],
+      "bullets": [
+        "Haklar ortadan kalkabilir",
+        "İşveren borçtan kurtulabilir"
+      ]
+    },
+    {
+      "heading": "Süreci durduran etkenler nelerdir?",
+      "paragraphs": [
+        "Arabuluculuk yoluna başvurduğunuzda sürelerin akışı durur. Taraflar ilk toplantıya davet edilip tutanak tutulduğu an itibarıyla süreç başlar.",
+        "Bu dönemde geçen süreler zamanaşımı hesabına **dahil edilmez**."
+      ],
+      "bullets": [
+        "Arabuluculuk süreci durdurur",
+        "Tutanak tarihi esastır"
+      ]
+    },
+    {
+      "heading": "Yanınızda hangi belgeler dursun?",
+      "paragraphs": [
+        "Hak iddia ederken elinizde yazılı delillerin olması işinizi kolaylaştırır. Banka dekontları, maaş bordroları ve sözleşmeler en büyük yardımcınızdır.",
+        "Eksik ödemeleri ispatlamak için iş yerindeki çalışma düzeninizi gösteren her türlü belgeyi saklayın."
+      ],
+      "bullets": [
+        "Banka kayıtları",
+        "İş sözleşmesi"
+      ]
+    }
+  ],
+  "steps": [
+    "Alacak kalemlerinizi ve ödenmeyen ayları tek tek listeleyin.",
+    "İş sözleşmesinin fesih tarihini net olarak bir yere not edin.",
+    "Banka hesap hareketlerinizi ve maaş bordrolarınızı bir araya getirin.",
+    "Gerekli başvuru yolları için arabuluculuk bürosuna müracaat edin.",
+    "Son tutanağı alarak dava şartı adımlarını takip edin."
+  ],
+  "documents": [
+    "İş sözleşmesi",
+    "Maaş bordroları",
+    "Banka hesap hareketleri",
+    "Arabuluculuk son tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "Ücretimi alamazsam ne yapmalıyım?",
+      "a": "Ödenmeyen ücretler için yasal yollara başvurabilir, arabuluculuk sürecini başlatabilirsiniz."
+    },
+    {
+      "q": "Arabuluculuk zamanaşımını etkiler mi?",
+      "a": "Sürecin başlamasından sona ermesine kadar geçen süre zamanaşımında dikkate alınmaz."
+    },
+    {
+      "q": "Hangi belgeleri mutlaka saklamalıyım?",
+      "a": "Banka dekontları, sözleşme metinleri ve imzalı bordrolar en önemli delillerdir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kidem-tazminati-nasil-alinir",
+  "angle": "Zamanaşımı süreleri",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

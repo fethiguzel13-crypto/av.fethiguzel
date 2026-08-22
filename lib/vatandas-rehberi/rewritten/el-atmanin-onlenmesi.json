@@ -1,0 +1,110 @@
+{
+  "slug": "el-atmanin-onlenmesi",
+  "title": "El atmanın önlenmesi davası nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "El atmanın önlenmesi davası nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
+  "h1": "El atmanın önlenmesi davası nedir?",
+  "keywords": [
+    "el atmanın önlenmesi",
+    "müdahalenin meni"
+  ],
+  "category": "Eşya",
+  "related": [
+    "kamulastirma-nedir",
+    "tapu-iptal-tescil",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kamulastirma-nedir"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Evinizde otururken komşunuzun bahçenize alet edevat yığdığını ya da dükkânınızı haksızca işgal ettiğini gördünüz. Asıl mesele, **haksız müdahalenin** hâlâ devam ediyor olmasıdır.",
+  "keyInsight": "Mülkiyet hakkınıza yapılan haksız saldırıyı durdurmak için malik sıfatıyla her zaman müdahalenin önlenmesini isteyebilirsiniz.",
+  "sections": [
+    {
+      "heading": "Haksız el atma ne anlama gelir?",
+      "paragraphs": [
+        "Tapulu malınız üzerinde başkasının haksız bir tasarrufta bulunması hayatınızı altüst edebilir. Kimse mülkünü dilediği gibi kullanamıyorsa burada hukuki bir sorun var demektir.",
+        "Malik olan herkes hukuki sınırları gözeterek malını kullanır. Eğer birisi malınızı haksız olarak elinde tutuyorsa, bu duruma sessiz kalmak zorunda değilsiniz."
+      ],
+      "bullets": [
+        "Mülkiyeti haksız kullanma",
+        "İşgal ve müdahale halleri"
+      ]
+    },
+    {
+      "heading": "Hâkimden ne talep edebilirsiniz?",
+      "paragraphs": [
+        "Yaşadığınız haksızlığı durdurmak adına yargı yoluna başvurabilirsiniz. Hâkimden sürmekte olan saldırıya son verilmesini isteyebilirsiniz.",
+        "Saldırı sona ermiş olsa dahi etkileri devam ediyorsa, hukuka aykırılığın tespitini talep etme hakkınız saklıdır."
+      ],
+      "bullets": [
+        "Saldırının durdurulması",
+        "Hukuka aykırılığın tespiti"
+      ]
+    },
+    {
+      "heading": "Haklarınız ve tazminat imkânları",
+      "paragraphs": [
+        "Müdahalenin önlenmesi davası açarken aynı zamanda uğradığınız zararlar için de harekete geçebilirsiniz.",
+        "Maddî ve manevî tazminat istemlerinizi bu süreçte dile getirebilirsiniz."
+      ],
+      "bullets": [
+        "Maddi tazminat talebi",
+        "Manevi tazminat talebi"
+      ]
+    },
+    {
+      "heading": "Dava nerede açılır?",
+      "paragraphs": [
+        "Aklınızdaki en büyük soru bu davanın nerede görüleceğidir. Süreci başlatırken doğru adliyeyi bulmak işinizi kolaylaştırır.",
+        "Kişilik haklarının korunması ve mülkiyet uyuşmazlıkları için kendi yerleşim yerinizdeki veya davalının yerleşim yerindeki mahkemenin yolunu tutabilirsiniz."
+      ],
+      "bullets": [
+        "Kendi yerleşim yeriniz",
+        "Davalının yerleşim yeri"
+      ]
+    }
+  ],
+  "steps": [
+    "Haksız el atma durumunu ve etkilerini netleştirin.",
+    "Mülkiyet hakkınıza yapılan saldırının devam edip olmadığını kontrol edin.",
+    "Yerleşim yerinizdeki yetkili mahkemeyi belirleyin.",
+    "Hâkimden müdahalenin önlenmesini ve varsa tazminat taleplerinizi isteyin."
+  ],
+  "documents": [
+    "Tapu senedi veya mülkiyeti kanıtlayan belge",
+    "El atmayı gösteren fotoğraflar veya deliller",
+    "Kimlik belgesi"
+  ],
+  "faq": [
+    {
+      "q": "El atmanın önlenmesi davasını kimler açabilir?",
+      "a": "Mal sahibi olan kimse, malını haksız olarak elinde bulunduran veya müdahale eden kişilere karşı bu davayı açabilir."
+    },
+    {
+      "q": "Saldırı bittikten sonra dava açılabilir mi?",
+      "a": "Saldırı sona ermiş olsa bile etkileri devam ediyorsa, hukuka aykırılığın tespitini isteyebilirsiniz."
+    },
+    {
+      "q": "Davayı hangi mahkemede açmalıyım?",
+      "a": "Kişilik haklarının korunması ve mülkiyet uyuşmazlıkları için kendi yerleşim yerinizde veya davalının yerleşim yerinde dava açabilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kamulastirma-nedir",
+  "angle": "El atma",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

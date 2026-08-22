@@ -1,0 +1,120 @@
+{
+  "slug": "is-kanunu-madde-25",
+  "title": "İş Kanunu 25 Haklı Fesih — Özet | Vatandaş Rehberi",
+  "description": "İş Kanunu m.25 haklı fesih (özet) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
+  "h1": "İş Kanunu m.25 haklı fesih (özet)",
+  "keywords": [
+    "İş Kanunu 25 özet",
+    "haklı fesih madde özet"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "isveren-hakli-fesih",
+    "is-sozlesmesi-feshi",
+    "is-kanunu-nedir"
+  ],
+  "links": [
+    {
+      "label": "Tam madde metni + şerh",
+      "href": "/mevzuat/is-kanunu/madde-25"
+    },
+    {
+      "label": "Kanun maddesi ara",
+      "href": "/ara"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=madde%2025"
+    }
+  ],
+  "lead": "Sabah işyerine geldiniz ve beklenmedik bir suçlamayla karşılaştınız. İşveren, kanunda sayılan haklı nedenlerden biriyle sözleşmenizi derhal feshedebilir.",
+  "keyInsight": "Haklı fesih durumunda işveren bildirimsiz ve tazminatsız çıkış yapabilir, ancak bu karar için kanundaki şartların eksiksiz gerçekleşmesi gerekir.",
+  "sections": [
+    {
+      "heading": "Sağlık Sebebiyle Fesih Ne Zaman Doğar?",
+      "paragraphs": [
+        "İşçi kendi kastı veya içkiye düşkünlüğü yüzünden hastalanır ve devamsızlık yaparsa süreç başlar. Ardı ardına üç iş günü veya bir ayda beş iş gününden fazla süren devamsızlıklar bu kapsamdadır.",
+        "Sağlık Kurulu hastalığın tedavi edilemeyeceğini ve işyerinde çalışmanın sakıncalı olduğunu saptarsa **derhal fesih** hakkı doğar. Diğer hastalık ve kaza hallerinde ise kanuni bildirim sürelerini aşan durumlarda bu yol açılır."
+      ],
+      "bullets": [
+        "Kendi kastından doğan devamsızlık",
+        "Sağlık kurulu raporu",
+        "Bildirim sürelerini aşan devamsızlık"
+      ]
+    },
+    {
+      "heading": "Ahlak ve İyi Niyete Aykırı Haller Nelerdir?",
+      "paragraphs": [
+        "İşe başlarken gerçeğe uygun olmayan bilgiler vermek işvereni yanıltır. Bu durum işverene haklı fesih hakkı tanır.",
+        "İşçinin işverene veya ailesine karşı şeref ve namusa dokunacak sözler sarf etmesi **ağır bir ihlal** olarak kabul edilir."
+      ],
+      "bullets": [
+        "Gerçeğe aykırı bilgilerle işe başlamak",
+        "Şeref ve haysiyet kırıcı sözler",
+        "Asılsız ihbar ve isnatlar"
+      ]
+    },
+    {
+      "heading": "Taciz, Sataşma ve Güveni Kötüye Kullanma",
+      "paragraphs": [
+        "İşyerinde başka bir işçiye cinsel tacizde bulunmak haklı fesih sebebidir. Aynı şekilde işverene veya çalışma arkadaşlarına sataşmak da yasaktır.",
+        "İşyerine sarhoş veya uyuşturucu almış olarak gelmek ya da bu maddeleri işyerinde kullanmak **kesin fesih** nedenleri arasındadır. Güveni kötüye kullanmak ve hırsızlık da bu kapsamdadır."
+      ],
+      "bullets": [
+        "Cinsel taciz eylemi",
+        "Sarhoş veya uyuşturucu ile gelmek",
+        "Hırsızlık ve güveni kötüye kullanma"
+      ]
+    },
+    {
+      "heading": "Suç İşlemek ve Devamsızlık Yapmak",
+      "paragraphs": [
+        "İşçinin işyerinde yedi günden fazla hapisle cezalandırılan ve cezası ertelenmeyen bir suç işlemesi durumu değiştirir. Bu durumda iş ilişkisi sürdürülemez.",
+        "İşçinin işverenden izin almaksızın devamsızlık yapması belirli gün sınırlarıyla kanunda yer alır. Haklı mazeret olmaksızın yapılan bu devamsızlıklar **sözleşmenin bitişini** hızlandırır."
+      ],
+      "bullets": [
+        "Yedi günden fazla hapis cezası",
+        "İzinsiz ve mazeretsiz devamsızlık"
+      ]
+    }
+  ],
+  "steps": [
+    "Olayın gerçekleştiği günü ve somut vakıaları tespit edin.",
+    "İşçinin savunmasını yazılı olarak isteyin.",
+    "Kanundaki haklı fesih şartlarının oluşup oluşmadığını inceleyin.",
+    "Fesih bildirimini yazılı şekilde hazırlayarak işçiye tebliğ edin.",
+    "Özlük dosyasını ve tutanakları eksiksiz olarak muhafaza edin."
+  ],
+  "documents": [
+    "İş sözleşmesi metni",
+    "Olay tutanakları",
+    "İşçi savunma yazısı",
+    "Sağlık kurulu raporu",
+    "Devamsızlık puantaj kayıtları"
+  ],
+  "faq": [
+    {
+      "q": "Her hastalık işverene derhal fesih hakkı verir mi?",
+      "a": "Hayır. Sadece işçinin kendi kastından doğan devamsızlıklar belirli günleri aşarsa veya Sağlık Kurulu çalışamaz raporu verirse bu hak doğar."
+    },
+    {
+      "q": "İşyerinde alkol almak doğrudan çıkış sebebi midir?",
+      "a": "İşyerine sarhoş veya uyuşturucu madde almış olarak gelmek ya da bu maddeleri işyerinde kullanmak kanuna göre haklı fesih nedenidir."
+    },
+    {
+      "q": "Devamsızlıkta gün sınırı nasıldır?",
+      "a": "Ardı ardına üç iş günü veya bir ayda beş iş gününden fazla süren devamsızlıklar haklı fesih gerekçesidir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "bridge",
+  "angle": "Haklı fesih madde özeti",
+  "canonicalPath": "/mevzuat/is-kanunu/madde-25",
+  "sitemapPriority": 0.45,
+  "voice": "narrative",
+  "source": "gemini"
+}

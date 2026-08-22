@@ -1,0 +1,110 @@
+{
+  "slug": "sikayet-suresi-ceza",
+  "title": "Şikâyete Bağlı Suçlarda Süre | Vatandaş Rehberi",
+  "description": "Şikâyet süresi ne kadardır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
+  "h1": "Şikâyet süresi ne kadardır?",
+  "keywords": [
+    "şikayet süresi",
+    "şikayete bağlı suçlar"
+  ],
+  "category": "Ceza",
+  "related": [
+    "savcilik-suc-duyurusu",
+    "ceza-sorusturmasi-sureci",
+    "uzlastirma-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/savcilik-suc-duyurusu"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    },
+    {
+      "label": "TCK",
+      "href": "/kategori/tck-genel"
+    }
+  ],
+  "lead": "Hukuka aykırı bir olay yaşadığınızda, soruşturulması şikayete bağlı suçlar için **altı ay** içinde harekete geçmelisiniz. Bu süre, faili ve fiili öğrendiğiniz gün başlar.",
+  "keyInsight": "Şikayet hakkı olan birkaç kişiden birinin süreyi geçirmesi diğerlerinin hakkını düşürmez.",
+  "sections": [
+    {
+      "heading": "Süre ne zaman başlar?",
+      "paragraphs": [
+        "Kapınıza gelen bir zarar ya da suçla karşılaştınız. Asıl mesele olayın ne zaman olduğu değil, sizin **fiili ve failin kim olduğunu** tam olarak öğrendiğiniz günden itibaren işlemeye başlayan takvimdir.",
+        "Zamanaşımı süresini aşmamak kaydıyla, yetkili kimse **altı ay** içinde şikayette bulunmalıdır. Bu sürenin kaçırılması durumunda soruşturma ve kovuşturma yapılması mümkün olmaz."
+      ],
+      "bullets": [
+        "Süre öğrenme günüyle başlar",
+        "Zamanaşımı sınırı esastır"
+      ]
+    },
+    {
+      "heading": "Hakaret suçunda özel kural var mı?",
+      "paragraphs": [
+        "Soruşturulması ve kovuşturulması şikâyete bağlı olan hakaret suçu bakımından işler biraz daha farklıdır. Burada **her ne suretle olursa olsun** fiilin gerçekleştiği tarihten itibaren iki yılı geçmeyen bir sınır bulunur.",
+        "Bu tür özel suçlarda takvimi dikkatli izlemek, hak kaybı yaşamamak adına büyük önem taşır."
+      ],
+      "bullets": [
+        "Hakarette iki yıllık sınır",
+        "Fiilin gerçekleştiği tarih esas alınır"
+      ]
+    },
+    {
+      "heading": "Birden fazla mağdur varsa ne olur?",
+      "paragraphs": [
+        "Olaydan zarar gören birden fazla insan olabilir. Şikayet hakkı olan birkaç kişiden birisi altı aylık süreyi geçirse bile, bundan dolayı **diğerlerinin hakları düşmez**.",
+        "Herkesin kendi kişisel öğrenme tarihi ve buna bağlı olarak işlemeye devam eden yasal süresi ayrı ayrı değerlendirilir."
+      ],
+      "bullets": [
+        "Bağımsız şikayet hakkı",
+        "Diğerlerinin hakları saklı kalır"
+      ]
+    },
+    {
+      "heading": "Vazgeçmek davanın akıbetini nasıl etkiler?",
+      "paragraphs": [
+        "Şikayetçi olduktan sonra vazgeçmeye karar verebilirsiniz. Kovuşturulması şikayete bağlı suçlarda, kanunda aksi yazılı olmadıkça suçtan zarar gören kişinin **vazgeçmesi davayı düşürür**.",
+        "Ancak hükmün kesinleşmesinden sonraki vazgeçme cezanın infazına engel olmaz. Ayrıca iştirak halinde suç işlemiş sanıklardan biri hakkındaki vazgeçme diğerlerini de kapsar."
+      ],
+      "bullets": [
+        "Vazgeçme davayı düşürebilir",
+        "Kesinleşme sonrası etki etmez"
+      ]
+    }
+  ],
+  "steps": [
+    "Olayı ve faili öğrendiğiniz günü netleştirin.",
+    "Altı aylık yasal süreyi hesaplayın.",
+    "Hakaret gibi özel suçlarda iki yıllık üst sınırı göz önünde bulundurun.",
+    "Yetkili makamlara başvurarak şikayetinizi resmi olarak bildirin."
+  ],
+  "documents": [
+    "Kimlik belgesi",
+    "Olayı kanıtlayan her türlü delil veya bilgi",
+    "Dilekçe"
+  ],
+  "faq": [
+    {
+      "q": "Faili sonradan öğrenirsem süre baştan mı başlar?",
+      "a": "Süre, fiili ve failin kim olduğunu bildiğiniz veya öğrendiğiniz günden başlar."
+    },
+    {
+      "q": "Şikayetten vazgeçersem tekrar dava açabilir miyim?",
+      "a": "Şikayetten vazgezerken şahsi haklarınızdan da vazgeçtiğinizi açıkladıysanız hukuk mahkemesinde dava açamazsınız."
+    },
+    {
+      "q": "Bir kişi süreyi geçirirse herkesin hakkı yanar mı?",
+      "a": "Şikayet hakkı olan birkaç kişiden birisi altı aylık süreyi geçirirse bundan dolayı diğerlerinin hakları düşmez."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "savcilik-suc-duyurusu",
+  "angle": "Şikâyet süresi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

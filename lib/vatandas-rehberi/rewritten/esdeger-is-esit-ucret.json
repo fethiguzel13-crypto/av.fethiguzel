@@ -1,0 +1,112 @@
+{
+  "slug": "esdeger-is-esit-ucret",
+  "title": "Eşit işe eşit ücret — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Eşit işe eşit ücret hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
+  "h1": "Eşit işe eşit ücret",
+  "keywords": [
+    "eşit işe eşit ücret",
+    "esdeger is esit ucret"
+  ],
+  "category": "İş",
+  "related": [
+    "ibraname-nedir",
+    "is-sozlesmesi-feshi",
+    "mobbing-nedir",
+    "ise-iade-davasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/ibraname-nedir"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=e%C5%9Fitlik"
+    }
+  ],
+  "lead": "Aynı işyerinde benzer görevleri yürütmenize rağmen daha az ücret aldığınızı fark ettiğinizde, hak arayışınız için öncelikle çalışma koşullarınızı somutlaştırmalısınız. Ücret, prim, ikramiye ve bu nitelikteki her çeşit istihkak kural olarak Türk parası ile işyerinde veya özel olarak açılan bir banka hesabına ödenir.",
+  "keyInsight": "Eşit işe eşit ücret kuralının uygulanabilmesi için işyerinde yapılan işin niteliğinin ve şartlarının benzerliğinin ortaya konulması gerekir.",
+  "sections": [
+    {
+      "heading": "Ücretin tanımı ve ödeme şekli nasıl yapılır?",
+      "paragraphs": [
+        "Genel anlamda ücret bir kimseye bir iş karşılığında işveren veya üçüncü kişiler tarafından sağlanan ve para ile ödenen tutardır. Bu ödemelerin yapılması sırasında belirli kurallara uyulması zorunludur.",
+        "Ücret en geç ayda bir ödenir. İş sözleşmeleri veya toplu iş sözleşmeleri ile ödeme süresi bir haftaya kadar indirilebilir. Emre muharrer senetle, kuponla veya yurtta geçerli parayı temsil ettiği iddia olunan bir senetle ödeme yapılamaz."
+      ],
+      "bullets": [
+        "Ödemeler Türk parası ile yapılır.",
+        "Özel banka hesabı kullanılabilir."
+      ]
+    },
+    {
+      "heading": "Banka hesabına ödeme zorunluluğu nedir?",
+      "paragraphs": [
+        "Çalıştırılan işçilerin ücret, prim, ikramiye ve bu nitelikteki her çeşit istihkakının özel olarak açılan banka hesabına yatırılmak suretiyle ödenmesi esastır. Bu zorunluluğa tabi tutulan işverenler ödemeleri başka bir yöntemle yapamaz.",
+        "Vergi mükellefiyeti türü, işletme büyüklüğü ve çalışan sayısı gibi unsurlar dikkate alınarak banka zorunluluğunun kapsamı belirlenmiştir."
+      ],
+      "bullets": [
+        "Ödemeler banka hesabına yatırılır.",
+        "Elden ödeme kural dışıdır."
+      ]
+    },
+    {
+      "heading": "Ücret ödenmemesinin sonuçları nelerdir?",
+      "paragraphs": [
+        "Ücretini süresi içinde kasden ödemeyen veya eksik ödeyen işverenler hakkında idari para cezası uygulanır. Aynı şekilde asgari ücreti noksan ödeyenler veya ödemeleri banka aracılığıyla yapmayanlar da cezai yaptırımla karşılaşır.",
+        "Her işçi ve her ay için ayrı ayrı idari para cezası kesilmesi öngörülmüştür."
+      ],
+      "bullets": [
+        "Eksik ödemeye ceza uygulanır.",
+        "Her ay için ayrı yaptırım vardır."
+      ]
+    },
+    {
+      "heading": "Yanınızda hangi belgeler bulunmalıdır?",
+      "paragraphs": [
+        "Hak iddia ederken elinizdeki yazılı delilleri düzenli tutmanız sürecin ilerleyişini kolaylaştırır. Ücret hesap pusulaları bu aşamada önem taşır.",
+        "İş sözleşmesi ve banka dekontları da iddialarınızı destekleyecek unsurlar arasında yer alır."
+      ],
+      "bullets": [
+        "Banka dekontları",
+        "Hesap pusulaları"
+      ]
+    }
+  ],
+  "steps": [
+    "İşyerindeki ücret bordrolarınızı ve banka hesap hareketlerinizi inceleyin.",
+    "Benzer işi yapan diğer çalışanlarla olan ücret farklarını tespit edin.",
+    "Ödeme belgelerini ve hesap pusulalarını bir araya getirin.",
+    "İşverenden eksik ödemelerin giderilmesini yazılı olarak talep edin."
+  ],
+  "documents": [
+    "İş sözleşmesi",
+    "Banka hesap ekstresi",
+    "Ücret hesap pusulası",
+    "Çalışma belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Ücretler hangi sıklıkla ödenmelidir?",
+      "a": "Ücret en geç ayda bir ödenir ancak bu süre sözleşmelerle bir haftaya kadar indirilebilir."
+    },
+    {
+      "q": "Ücretler elden ödenebilir mi?",
+      "a": "Çalıştırılan işçilerin ücretlerinin özel olarak açılan banka hesapları vasıtasıyla ödenmesi zorunluluğu varsa elden ödeme yapılamaz."
+    },
+    {
+      "q": "Senedkle ücret ödemesi geçerli midir?",
+      "a": "Emre muharrer senetle, kuponla veya parayı temsil ettiği iddia olunan senetlerle ücret ödemesi yapılamaz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "ibraname-nedir",
+  "angle": "Eşit işe eşit ücret",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

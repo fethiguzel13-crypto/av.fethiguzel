@@ -1,0 +1,100 @@
+{
+  "slug": "kidem-tazminati-sgk-iliskisi",
+  "title": "Kıdem Tazminatı SGK ve Vergi İlişkisi | Vatandaş Rehberi",
+  "description": "Kıdem tazminatı SGK’ya nasıl yansır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
+  "h1": "Kıdem tazminatı SGK’ya nasıl yansır?",
+  "keywords": [
+    "kıdem tazminatı SGK",
+    "kıdem damga vergisi",
+    "kıdem bordro"
+  ],
+  "category": "İş",
+  "related": [
+    "kidem-tazminati-nasil-alinir",
+    "kidem-tazminati-hesaplama",
+    "sgk-hizmet-dokumu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kidem-tazminati-nasil-alinir"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/kidem"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    }
+  ],
+  "lead": "Kıdem tazminatı, işten ayrılırken aldığınız en büyük toplu ödemedir. Bu ödeme yapılırken cebinize girecek net miktarı belirleyen en önemli unsur, SGK prim kesintilerinden muaf olmasıdır.",
+  "keyInsight": "Kıdem tazminatı ödemesi brüt ücret üzerinden hesaplanır ve bu tutardan **SGK primi kesintisi yapılmaz**, yalnızca damga vergisi düşülür.",
+  "sections": [
+    {
+      "heading": "İşten ayrıldınız: Cebinize kalacak para nasıl hesaplanır?",
+      "paragraphs": [
+        "Yıllarca emek verdiğiniz işyerinden yollarınız ayrıldı. Hak ettiğiniz kıdem tazminatının hesabında her geçen tam yıl için otuz günlük brüt ücretiniz temel alınır. Ancak çalışanların en çok kafasını karıştıran konu, bu toplu paranın eline geçerken ne kadar kesintiye uğrayacağıdır.",
+        "Normal şartlarda her ay aldığınız maaştan sigorta primi ve gelir vergisi kesilirken, kıdem tazminatında durum tamamen farklıdır. Kanun, işçinin yıpranma payı olarak gördüğü bu tazminatı koruma altına almıştır. Bu sayede hak ettiğiniz brüt tutar, çok küçük bir istisna dışında neredeyse tamamen cebinize kalır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "SGK primi bu paradan kesilir mi?",
+      "paragraphs": [
+        "Maaş bordronuza baktığınızda her ay yüksek oranlarda prime esas kazanç kesintisi görürsünüz. Fakat iş sözleşmeniz kıdem tazminatına hak kazanacak şekilde sona erdiğinde alacağınız bu toplu ödeme, **prime esas kazanç matrahına** dahil edilmez.",
+        "Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu açıkça kıdem tazminatını bu prim yükümlülüğünün dışında tutmuştur. Yani işvereniniz, size ödeyeceği kıdem tazminatından SGK işçi payı kesintisi yapamaz; kendisi de bu tutar üzerinden SGK'ya işveren hissesi ödemez."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Bordroda tek bir kesinti: Kıdem damga vergisi",
+      "paragraphs": [
+        "Kıdem tazminatından gelir vergisi kesilmediği gibi, yukarıda belirttiğimiz üzere SGK primi de kesilmez. Bu ödemeden kesilebilecek tek yasal tutar **damga vergisidir**.",
+        "İşvereniniz kıdem tazminatı bordrosunu hazırlarken toplam brüt tutar üzerinden binde yedi virgül elli dokuz oranında damga vergisini düşer. Kalan tutarın tamamını ise doğrudan sizin banka hesabınıza yatırmak zorundadır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Mahkeme kararıyla işe iade durumunda ne olur?",
+      "paragraphs": [
+        "İşten çıkarıldınız ve feshin geçersizliği talebiyle dava açtınız. Mahkeme sizi haklı buldu ve işe iadenize karar verdi. Eğer işveren sizi bir ay içinde işe başlatmazsa, mahkemenin belirlediği tazminatları ödemekle yükümlü olur.",
+        "Bu süreçte kararın kesinleşmesine kadar çalıştırılmadığınız süre için en çok dört aya kadar doğmuş bulunan ücret ve diğer haklarınız size ödenir. İşte bu boşta geçen süreye ait ücretler, kıdem tazminatının aksine **SGK primine tabidir** ve o ayların kazancı olarak SGK'ya bildirilir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İşten ayrılış bildirgenizdeki çıkış kodunun kıdem tazminatına uyumlu olduğunu kontrol edin.",
+    "İşvereninizden ıslak imzalı kıdem tazminatı bordrosunu talep edin.",
+    "Bordroda brüt kıdem tazminatınızdan sadece damga vergisi kesildiğini, SGK primi kesilmediğini teyit edin.",
+    "Banka hesabınıza yatan net tutar ile bordrodaki net tutarın uyuştuğunu karşılaştırın."
+  ],
+  "documents": [
+    "Kıdem tazminatı bordrosu",
+    "SGK işten ayrılış bildirgesi",
+    "Banka hesap dökümü veya ödeme dekontu",
+    "Varsa işe iade mahkeme kararı"
+  ],
+  "faq": [
+    {
+      "q": "Kıdem tazminatından SGK primi kesilirse ne yapmalıyım?",
+      "a": "Kıdem tazminatından yasal olarak SGK primi kesilemez. Böyle bir kesinti yapıldığını fark ederseniz, işverenden hatanın düzeltilmesini isteyebilir veya arabulucuya başvurabilirsiniz."
+    },
+    {
+      "q": "İşten çıkış kodum SGK'ya nasıl bildirilmeli?",
+      "a": "Kıdem tazminatı alabilmeniz için işten çıkış nedeninizin SGK'ya tazminata uyumlu kodlarla (emeklilik, askerlik, haklı fesih gibi) bildirilmesi gerekir."
+    },
+    {
+      "q": "İşe iade davasını kazandığımda hangi ödemelerden SGK primi kesilir?",
+      "a": "İşe başlatılmama halinde ödenen tazminattan prim kesilmez ancak boşta geçen en çok dört aya kadar olan süre için ödenen ücretlerden **SGK primi kesilir**."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kidem-tazminati-nasil-alinir",
+  "angle": "SGK bildirimi, vergi/damga ve prim ilişkisi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

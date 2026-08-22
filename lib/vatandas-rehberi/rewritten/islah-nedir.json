@@ -1,0 +1,100 @@
+{
+  "slug": "islah-nedir",
+  "title": "Islah — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Islah hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "Islah",
+  "keywords": [
+    "ıslah",
+    "islah nedir"
+  ],
+  "category": "Usul",
+  "related": [
+    "zamanaşimi-nedir",
+    "hukuk-davasi-nasil-acilir",
+    "dava-harci-nedir",
+    "belirsiz-alacak-davasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/zamanaşimi-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=%C4%B1slah"
+    }
+  ],
+  "lead": "Mahkemeye verdiniz ama bazı şeyleri yanlış yazdığınızı fark ettiniz; ıslah tam da bu hatayı düzeltmek için masaya koyduğunuz ikinci şanstır. Yapmış olduğunuz usul işlemlerini **kısmen veya tamamen** düzeltmenize imkân tanır.",
+  "keyInsight": "Islah hakkı sınırsız değildir; aynı davada bu yola **yalnızca bir kez** başvurabilirsiniz.",
+  "sections": [
+    {
+      "heading": "Duruşma salonunda aniden değişen işler",
+      "paragraphs": [
+        "Dava dosyasını hazırladınız, hakimin önüne çıktınız ancak dilekçenizde eksik bıraktığınız veya yanlış anlattığınız noktalar olduğunu fark ettiniz. Telaşlanmanıza gerek yok çünkü hukuk sistemi size bu hatayı telafi etme kapısı aralar.",
+        "Islah kelimesi hukuki anlamda düzeltmek demektir. Yaptığınız usul işlemlerini baştan almak, değiştirmek ya da eksikleri tamamlamak için bu yola başvurabilirsiniz. Ancak bu hamleyi yaparken kurallara dikkat etmeniz şarttır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Aynı davada ikinci şansın sınırı",
+      "paragraphs": [
+        "Mahkeme salonunda işler istediğiniz gibi gitmediğinde aklınıza hemen her şeyi baştan yazmak gelebilir. Fakat kanun bu konuda oldukça net bir sınırlama getirir.",
+        "Aynı dava dosyası içinde **ancak bir kez** ıslah hakkınızı kullanabilirsiniz. Bu hakkınızı hangi aşamada ve nasıl harcayacağınızı çok iyi tartmanız gerekir; çünkü ikinci bir şansınız olmayacaktır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İddiaları genişletirken nerede durmalı?",
+      "paragraphs": [
+        "Dilekçeler alışverişi bittikten sonra iddia ve savunmanızı öyle kafanıza göre değiştiremezsiniz. Karşı taraf açıkça onay vermezse eski çizginin dışına çıkmak yasaktır.",
+        "İşte bu yasak duvarına çarptığınızda devreye **ıslah ve karşı tarafın açık muvafakati** girer. Bu istisnai hükümler sayesinde dosyanın seyrini hukuki zeminde yeniden şekillendirebilirsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Eski hataların silinmesi ve kararlar",
+      "paragraphs": [
+        "Bazen eski işlemleri tamamen ortadan kaldırmak gerekebilir. Mahkeme eski hale getirme talebini kabul ettiğinde, hangi adımların artık hükmü kalmadığını tek tek karara yazar.",
+        "Islahla geçersiz kılınamayan bazı işlemler vardır. Bu tür durumlarda mahkemenin aldığı kararlar veya yapılan talepler eski durumdan hiç etkilenmez."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Dilekçelerinizdeki eksiklikleri ve hatalı kısımları tespit edin.",
+    "Islah hakkınızı bu dosyada daha önce kullanıp kullanmadığınızı kontrol edin.",
+    "İşlemi kısmen mi yoksa tamamen mi düzelteceğinize karar verin.",
+    "Islah talebinizi usulüne uygun şekilde mahkemeye sunun."
+  ],
+  "documents": [
+    "Dava dilekçesi",
+    "Cevap dilekçesi",
+    "Islah dilekçesi",
+    "Mahkeme ara kararları"
+  ],
+  "faq": [
+    {
+      "q": "Islah hakkımı kaç kez kullanabilirim?",
+      "a": "Aynı davada yalnızca bir kez ıslah yoluna başvurabilirsiniz."
+    },
+    {
+      "q": "Her türlü usul işlemini düzeltebilir miyim?",
+      "a": "Yapmış olduğunuz usul işlemlerini kısmen veya tamamen ıslah edebilirsiniz."
+    },
+    {
+      "q": "Dilekçelerin karşılıklı verilmesinden sonra iddia değiştirilebilir mi?",
+      "a": "Normal şartlarda değiştirilemez; ancak ıslah ve karşı tarafın açık muvafakati hükümleri bu kuralın istisnasını oluşturur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "zamanaşimi-nedir",
+  "angle": "Islah",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

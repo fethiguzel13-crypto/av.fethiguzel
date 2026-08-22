@@ -1,0 +1,111 @@
+{
+  "slug": "isveren-hakli-fesih",
+  "title": "İşverenin Haklı Fesih Sebepleri | Vatandaş Rehberi",
+  "description": "İşveren hangi hallerde haklı fesih yapabilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Po…",
+  "h1": "İşveren hangi hallerde haklı fesih yapabilir?",
+  "keywords": [
+    "işveren haklı fesih",
+    "İş Kanunu 25"
+  ],
+  "category": "İş",
+  "related": [
+    "is-sozlesmesi-feshi",
+    "kidem-tazminati-nasil-alinir",
+    "ise-iade-davasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/is-sozlesmesi-feshi"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=hakl%C4%B1%20fesih"
+    }
+  ],
+  "lead": "Sabah işyerine geldiğinizde masanızda ya da mail kutunuzda iş akdinizin derhal feshedildiğine dair bir yazı görebilirsiniz. Asıl mesele, işverenin bu kararı hangi gerekçeyle ve hangi kurallara dayanarak aldığıdır.",
+  "keyInsight": "İşverenin derhal fesih hakkı, kanunda sayılan ahlak ve iyiniyet kurallarına aykırılık, sağlık problemleri veya zorlayıcı sebeplerle sınırlıdır; her gerekçe bu hakkı doğurmaz.",
+  "sections": [
+    {
+      "heading": "Sağlık sebepleriyle ne zaman fesih yapılır?",
+      "paragraphs": [
+        "İşçinin kendi kasıtlı hareketleri veya derli toplu olmayan yaşayışı yüzünden hastalanması ya da engelli hâle gelmesi durumunda süreç başlar. Bu sebeple doğacak devamsızlığın **ardı ardına üç iş günü** veya bir ayda beş iş gününden fazla sürmesi gerekir.",
+        "Ayrıca işçinin tutulduğu hastalığın tedavi edilemeyecek nitelikte olduğu ve işyerinde çalışmasında sakınca bulunduğu sağlık kurulunca saptanırsa işveren sözleşmeyi bitirebilir."
+      ],
+      "bullets": [
+        "Üç iş günü ardı ardına devamsızlık",
+        "Bir ayda beş iş gününü aşan devamsızlık",
+        "Sağlık kurulu raporuyla tespit"
+      ]
+    },
+    {
+      "heading": "Ahlak ve iyi niyet kurallarına uymayan hâller nelerdir?",
+      "paragraphs": [
+        "İş sözleşmesi yapılırken gerekli vasıflar kendisinde olmadığı hâlde varmış gibi göstererek işvereni yanıltmak en yaygın durumdur. İşçinin işverenin veya ailesinin şeref ve namusuna dokunacak sözler sarf etmesi de bu kapsamdadır.",
+        "İşverenin başka bir işçisine cinsel tacizde bulunmak, işyerine sarhoş ya da uyuşturucu madde almış olarak gelmek veya bu maddeleri işyerinde kullanmak haklı fesih nedenidir. İşverenin güvenini kötüye kullanmak, hırsızlık yapmak veya meslek sırlarını ortaya atmak da **doğruluk ve bağlılığa aykırı** davranışlar olarak kabul edilir."
+      ],
+      "bullets": [
+        "Gerçeğe aykırı bilgiyle işe başlamak",
+        "Hırsızlık ve sır ifşası",
+        "İşyerine sarhoş gelmek"
+      ]
+    },
+    {
+      "heading": "Zorlayıcı sebepler işyerini nasıl etkiler?",
+      "paragraphs": [
+        "Çalışılan işyerinde bir haftadan fazla süre ile işin durmasını gerektirecek zorlayıcı sebepler ortaya çıkarsa işveren için haklı fesih yolu açılır. Bu durum işçinin kişisinden kaynaklanmayan, dışsal ve engellenemez olayları kapsar."
+      ],
+      "bullets": [
+        "Bir haftadan uzun duruş",
+        "Zorlayıcı dış etkenler"
+      ]
+    },
+    {
+      "heading": "Bildirim sürelerini aşan hastalıklar",
+      "paragraphs": [
+        "Sağlık sebepleri dışında işçinin hastalık, kaza, doğum ve gebelik gibi hallerde işverenin sözleşmeyi bildirimsiz fesih hakkı, çalışma süresine göre belirlenen bildirim sürelerini **altı hafta aşmasından sonra** doğar. Doğum ve gebelik hallerinde bu süre kanuni analık izninin bitiminde başlar."
+      ],
+      "bullets": [
+        "Altı haftalık aşım sınırı",
+        "Gebelik ve doğum istisnası"
+      ]
+    }
+  ],
+  "steps": [
+    "Fesih bildiriminin yazılı tebliğini isteyin.",
+    "Gerekçenin kanundaki maddelere uygunluğunu inceleyin.",
+    "Devamsızlık veya rapor sürelerini gün bazında kontrol edin.",
+    "İşyerindeki tanık ve delil durumunu gözden geçirin."
+  ],
+  "documents": [
+    "İş sözleşmesi",
+    "Fesih bildirim yazısı",
+    "Sağlık kurulu raporları",
+    "Devamsızlık tutanakları"
+  ],
+  "faq": [
+    {
+      "q": "Her hastalık işverene derhal fesih hakkı verir mi?",
+      "a": "Hayır, devamsızlığın ardı ardına üç iş gününü veya bir ayda beş iş gününü aşması ya da hastalığın tedavi edilemezliğinin sağlık kurulunca saptanması gerekir."
+    },
+    {
+      "q": "İşçinin hırsızlık yapması durumunda ihbar süresi beklenir mi?",
+      "a": "Doğruluk ve bağlılığa uymayan hallerde işveren bildirimsiz ve derhal fesih hakkını kullanabilir, süre beklenmez."
+    },
+    {
+      "q": "Zorlayıcı sebep için işyerinde ne kadar süre işin durması şarttır?",
+      "a": "Kanuna göre zorlayıcı sebebin işyerinde **bir haftadan fazla** süre ile işin durmasını gerektirmesi şarttır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "is-sozlesmesi-feshi",
+  "angle": "İşveren haklı fesih",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

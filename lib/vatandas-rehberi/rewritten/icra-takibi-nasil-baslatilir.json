@@ -1,0 +1,122 @@
+{
+  "slug": "icra-takibi-nasil-baslatilir",
+  "title": "İcra Takibi Nasıl Başlatılır? Talepten Hacze Adım Adım",
+  "description": "Alacağınız için icra takibi nasıl açılır, takip talebinde neler yazılır, ödeme emri sonrası ne olur, haciz ne zaman istenir? İİK m.58, 60, 78 ve 106 çerçevesinde.",
+  "h1": "İcra takibi nasıl başlatılır?",
+  "keywords": [
+    "icra takibi başlatma",
+    "takip talebi",
+    "ilamsız icra",
+    "haciz talebi",
+    "UYAP mal sorgulama",
+    "icra dosyası açma"
+  ],
+  "category": "İcra",
+  "related": [
+    "odeme-emrine-itiraz",
+    "haczedilemeyen-mallar"
+  ],
+  "links": [
+    {
+      "label": "İİK m.58 — Takip talebi",
+      "href": "/mevzuat/iik/madde-58"
+    },
+    {
+      "label": "İİK m.60 — Ödeme emri",
+      "href": "/mevzuat/iik/madde-60"
+    },
+    {
+      "label": "İİK m.62 — İtiraz",
+      "href": "/mevzuat/iik/madde-62"
+    },
+    {
+      "label": "İİK m.78 — Haciz talebi",
+      "href": "/mevzuat/iik/madde-78"
+    },
+    {
+      "label": "İİK m.106 — Satış isteme süresi",
+      "href": "/mevzuat/iik/madde-106"
+    },
+    {
+      "label": "İcra kapak hesabı aracı",
+      "href": "/hesaplama/icra-kapak"
+    }
+  ],
+  "lead": "İcra takibi başlatmak, elinizdeki alacak hakkını resmî bir işleme dönüştürme sürecidir. Doğru bilgilerle icra dairesine başvurarak borçlunun mal varlığına ulaşma yolunu açarsınız.",
+  "keyInsight": "Takip talebindeki en ufak bir hata veya eksik bilgi, tüm sürecin tıkanmasına ve emeklerinizin boşa gitmesine neden olur.",
+  "sections": [
+    {
+      "heading": "Takip talebi nasıl oluşturulur?",
+      "paragraphs": [
+        "Bir borçluyla karşı karşıyasınız ve ödemenizi alamıyorsunuz. İlk adım, icra dairesine giderek veya elektronik ortamı kullanarak bir takip talebi oluşturmaktır. Bu talep, borcun nedenini ve miktarını tanımlayan temel belgedir.",
+        "Burada hata yapmamak hayati önem taşır. Özellikle alacaklı ve borçlunun kimlik bilgileri, banka hesap detayları ve alacağın türü **eksiksiz ve doğru** yazılmalıdır. Yanlış bir faiz başlangıç tarihi veya eksik bir adres, sürecin başından itibaren tökezlemesine yol açar."
+      ],
+      "bullets": [
+        "Alacaklı ve borçlunun tam kimlik bilgileri",
+        "Ödemenin yapılacağı banka hesap numarası",
+        "Alacağın türü, miktarı ve faiz başlangıcı"
+      ]
+    },
+    {
+      "heading": "Ödeme emri ve borçlunun yanıtı",
+      "paragraphs": [
+        "Takip talebiniz kabul edildiğinde, icra müdürü borçluya bir ödeme emri gönderir. Bu emir, borçluyu borcunu ödemesi veya itiraz etmesi konusunda uyarır.",
+        "Borçlunun eline ulaşan bu emre karşı **yedi gün** içinde tepki vermesi gerekir. Eğer borçlu bu süre içinde sessiz kalırsa, borcu kabul etmiş sayılır ve takip kesinleşir. Ancak itiraz ederse, takip durur ve sizin yeni bir hukuki yol izlemeniz gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Haciz işlemleri nasıl başlar?",
+      "paragraphs": [
+        "Takip kesinleştikten sonra artık borçlunun mal varlığına yönelme hakkınız doğar. Eskiden olduğu gibi borçlunun mal beyanında bulunmasını beklemenize gerek yoktur.",
+        "Artık UYAP üzerinden borçlunun mal, hak ve alacaklarını sorgulayabilirsiniz. Eğer sistem bir varlık tespit ederse, **elektronik ortamda** hemen haciz talebinde bulunabilirsiniz. Bu, sürecin en hızlı ilerlediği aşamadır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Satış süreci ve zaman yönetimi",
+      "paragraphs": [
+        "Haciz konulması, paranın hemen cebinize girmesi demek değildir. Haczedilen malların paraya çevrilmesi için satış talep etmelisiniz.",
+        "Haciz tarihinden itibaren **bir yıl** içinde satış istemeniz şarttır. Aksi takdirde haciz kalkar ve bütün çabalarınız boşa gider. Satış talebiyle birlikte gerekli tüm masrafları peşin olarak yatırmanız gerektiğini unutmayın."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Elinizdeki belgeye göre takip yolunu (ilamlı, ilamsız veya kambiyo) belirleyin.",
+    "Borçlunun güncel kimlik ve adres bilgilerini eksiksiz toplayın.",
+    "Takip talebini icra dairesine veya UYAP üzerinden özenle hazırlayıp gönderin.",
+    "İcra dairesinin düzenlediği ödeme emrinin borçluya ulaşıp ulaşmadığını takip edin.",
+    "Yedi günlük itiraz süresinin dolmasını bekleyip takibi kesinleştirin.",
+    "Haciz aşamasına geçerek mal varlığı sorgulaması yapın ve satış talep edin."
+  ],
+  "documents": [
+    "Takip talebi belgesi",
+    "Alacağı kanıtlayan fatura, sözleşme veya senet",
+    "Masraf ve harçların ödendiğine dair makbuzlar",
+    "Varsa alacaklı vekili için vekâletname"
+  ],
+  "faq": [
+    {
+      "q": "Elimde hiçbir yazılı belge yok, yine de icra takibi yapabilir miyim?",
+      "a": "Evet, genel haciz yoluyla ilamsız takip yapabilirsiniz ancak borçlu hiçbir sebep göstermeden itiraz edebilir ve takibi durdurabilir; bu durumda alacağınızı ispat yükü size geçer."
+    },
+    {
+      "q": "Borçlu itiraz ederse ne yapmalıyım?",
+      "a": "Borçlunun itirazı takibi durdurur. Bu durumda ya itirazın iptali davası açmalı ya da icra mahkemesinden itirazın kaldırılmasını talep etmelisiniz."
+    },
+    {
+      "q": "Sorgulama sonucunda öğrendiğim bilgileri başkalarıyla paylaşabilir miyim?",
+      "a": "Hayır, kanun bu bilgilerin hukuka aykırı olarak paylaşılmasını kesinlikle yasaklar."
+    },
+    {
+      "q": "Satış talebini süresinde yapmazsam ne olur?",
+      "a": "Haciz kalkar ve borçlu üzerindeki güvenceniz sona erer; dosyayı yeniden canlandırmak için süreci başa sarmanız gerekebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.94,
+  "voice": "narrative",
+  "source": "gemini"
+}

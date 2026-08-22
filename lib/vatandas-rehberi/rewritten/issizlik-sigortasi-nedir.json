@@ -1,0 +1,110 @@
+{
+  "slug": "issizlik-sigortasi-nedir",
+  "title": "İşsizlik sigortası nasıl işler — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İşsizlik sigortası nasıl işler? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
+  "h1": "İşsizlik sigortası nasıl işler?",
+  "keywords": [
+    "işsizlik sigortası",
+    "işsizlik sigortası primi"
+  ],
+  "category": "İş",
+  "related": [
+    "issizlik-maasi-sartlari",
+    "issizlik-maasi-hesaplama",
+    "sgk-hizmet-dokumu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/issizlik-maasi-sartlari"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=i%C5%9Fsizlik"
+    }
+  ],
+  "lead": "İşsizlik sigortası, işinizi kaybettiğinizde geçim derdinizi hafifletmek için devreye giren güvencedir. Bu süreçte hak kazanmak için belirli kurallara ve bildirimlere dikkat etmeniz gerekir.",
+  "keyInsight": "Ödeneğin kesilmemesi için kurumun bildirdiği kurallara ve sağlık kontrollerine eksiksiz uymak şarttır.",
+  "sections": [
+    {
+      "heading": "İşten ayrıldığınızda ne yapmalısınız?",
+      "paragraphs": [
+        "Sabah uyandınız ve artık çalışmıyorsunuz. İş sözleşmeniz sona erdiğinde **başvuru süresini** kaçırmamak ilk adımı oluşturur.",
+        "Kurum kapısını çalarken sözleşmenizin fesih sebebini doğru anlamış olmanız gerekir."
+      ],
+      "bullets": [
+        "Sözleşmenin bitiş nedenini netleştirin",
+        "Kuruma zamanında başvurun"
+      ]
+    },
+    {
+      "heading": "Sağlık güvenceniz nasıl devam eder?",
+      "paragraphs": [
+        "İşsiz kalmak sadece maaşın kesilmesi değildir, sağlık hizmetlerinden nasıl yararlanacağınız da önemlidir.",
+        "Ödenek almaya başladığınız tarihten itibaren **genel sağlık sigortalısı** sayılır ve sağlık hizmetlerinden faydalanmaya devam edersiniz."
+      ],
+      "bullets": [
+        "Sağlık haklarınız otomatik devreye girer",
+        "Ekstra bir bildirim yapmanıza gerek kalmaz"
+      ]
+    },
+    {
+      "heading": "Ödenek hangi durumlarda kesilir?",
+      "paragraphs": [
+        "Kurum tarafından size sunulan meslek geliştirme veya iş bulma tekliflerini **haklı bir sebep olmadan** reddetmemelisiniz.",
+        "Kayıtsız kalmak veya çağrılara uymamak ödemenizin durdurulmasına yol açar."
+      ],
+      "bullets": [
+        "Kurum çağrılarını takip edin",
+        "Sunulan teklifleri dikkate alın"
+      ]
+    },
+    {
+      "heading": "Yanınızda hangi evraklar bulunmalı?",
+      "paragraphs": [
+        "Başvuru sırasında kurumun sizden isteyeceği temel evrakları önceden hazırlamak işinizi hızlandırır.",
+        "Eksik belge süreci uzatabilir, bu yüzden dosyanızı eksiksiz **hazırlamanız** önemlidir."
+      ],
+      "bullets": [
+        "Kimlik belgenizi unutmayın",
+        "Fesih bildirimini dosyaya ekleyin"
+      ]
+    }
+  ],
+  "steps": [
+    "İş sözleşmenizin fesih belgesini alın",
+    "Kuruma süresi içinde müracaat edin",
+    "İstenen evrakları eksiksiz teslim edin",
+    "Kurumun yönlendirmelerini ve çağrılarını takip edin"
+  ],
+  "documents": [
+    "İşten ayrılış bildirgesi",
+    "Kimlik belgesi",
+    "Başvuru dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "İşsizlik ödeneği alırken sağlık sigortam devam eder mi?",
+      "a": "Evet, ödenek almaya başladığınız tarihten itibaren genel sağlık sigortalısı sayılır ve sağlık hizmetlerinden yararlanırsınız."
+    },
+    {
+      "q": "Kurum çağrılarına gitmezsem ne olur?",
+      "a": "Haklı bir mazeretiniz yoksa ödemeleriniz kesilebilir veya durdurulabilir."
+    },
+    {
+      "q": "Başvuruyu nereye yapmalıyım?",
+      "a": "Türkiye İş Kurumu birimlerine veya ilgili dijital kanallar üzerinden başvurunuzu iletebilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "issizlik-maasi-sartlari",
+  "angle": "Sigorta",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

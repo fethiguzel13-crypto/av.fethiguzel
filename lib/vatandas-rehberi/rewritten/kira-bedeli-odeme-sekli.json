@@ -1,0 +1,113 @@
+{
+  "slug": "kira-bedeli-odeme-sekli",
+  "title": "Kira Bedeli Nasıl Ödenmeli? İspat",
+  "description": "Kira ödemesi nasıl belgelenir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
+  "h1": "Kira ödemesi nasıl belgelenir?",
+  "keywords": [
+    "kira ödeme ispatı",
+    "kira banka havalesi"
+  ],
+  "category": "Kira",
+  "related": [
+    "kira-artis-orani-nasil-hesaplanir",
+    "kira-odeme-ihtari",
+    "kira-sozlesmesi-nasil-yapilir",
+    "kiraci-haklari-nelerdir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kira-artis-orani-nasil-hesaplanir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/kira"
+    }
+  ],
+  "lead": "Kirayı elden ödemek yerine resmi yöntemlerle belgelendirmek, gelecekte yaşanabilecek anlaşmazlıkların önüne geçmek için kritik önem taşır.",
+  "keyInsight": "Kira ödemesinin yapıldığını ispat yükü kiracıya aittir; bu nedenle ödemelerin izlenebilir kanallarla yapılması şarttır.",
+  "sections": [
+    {
+      "heading": "Kira bedelini ödeme zamanı ne zamandır?",
+      "paragraphs": [
+        "Ev sahibi ile yaptığınız sözleşmede farklı bir kural yazmıyorsa, **kira bedeli** her ayın sonunda ödenmelidir. Taraflar sözleşmede başka bir tarih belirlemişse o zaman kuralına uyulur.",
+        "Aynı şekilde tarafların anlaşmasına veya yerel âdetlere göre ödeme takvimi şekillenebilir. Süresinde ödenmeyen bedeller ileride hukuki sorunlara yol açabilir."
+      ],
+      "bullets": [
+        "Sözleşme hükümlerine dikkat edin",
+        "Yerel âdetleri göz önünde bulundurun"
+      ]
+    },
+    {
+      "heading": "Uyuşmazlık çıkarsa nereye başvurulur?",
+      "paragraphs": [
+        "Kira ilişkisinden doğan uyuşmazlıklarda mahkemeye gitmeden önce arabulucuya başvurulması **dava şartı** olarak belirlenmiştir. Bu aşamada taraflar bir araya gelerek çözüm arar.",
+        "Arabuluculuk süreci sonunda anlaşmaya varılamazsa, hazırlanan son tutanak ile birlikte yasal süreçler işletilebilir."
+      ],
+      "bullets": [
+        "Dava açmadan önce arabulucuya gidin",
+        "Son tutanağı eksiksiz alın"
+      ]
+    },
+    {
+      "heading": "Anlaşma belgesi nasıl işleme konur?",
+      "paragraphs": [
+        "Arabuluculuk sonunda bir anlaşma sağlanırsa, bu belgenin mahkemeden **icra edilebilirliğe ilişkin şerh** alması gerekebilir. Taşınmazla ilgili belgelerde yetkili mahkeme sulh hukuk mahkemesidir.",
+        "Mahkeme, anlaşmanın yasalara ve icraya elverişli olup olmadığını denetledikten sonra gerekli şerhi verir."
+      ],
+      "bullets": [
+        "Sulh hukuk mahkemesine başvurun",
+        "Şerh işlemini tamamlayın"
+      ]
+    },
+    {
+      "heading": "Yan giderler de ödenmeli mi?",
+      "paragraphs": [
+        "Kira sözleşmesinde kararlaştırıldığı takdirde, kira bedelinin yanı sıra **gerekiyorsa yan giderler** de kiracı tarafından ödenmek zorundadır.",
+        "Bu yan giderlerin de tıpkı kira bedeli gibi zamanında ve belgelenebilir şekilde ödenmesi taraflar arasındaki güveni korur."
+      ],
+      "bullets": [
+        "Yan giderleri unutmayın",
+        "Düzenli takip edin"
+      ]
+    }
+  ],
+  "steps": [
+    "Kira bedelini sözleşmede belirtilen süre içinde ödeyin.",
+    "Ödemeyi elden yapmak yerine kayıt altında tutun.",
+    "Uyuşmazlık durumunda arabuluculuk bürosuna başvurun.",
+    "Anlaşma sağlanamazsa son tutanağı alın.",
+    "Gerekirse mahkemeden icra edilebilirlik şerhi talep edin."
+  ],
+  "documents": [
+    "Kira sözleşmesi",
+    "Banka dekontu",
+    "Arabuluculuk son tutanağı",
+    "İcra edilebilirlik şerhi"
+  ],
+  "faq": [
+    {
+      "q": "Kira ödemesi hangi tarihte yapılmalıdır?",
+      "a": "Aksine bir sözleşme veya yerel âdet yoksa, kira bedeli her ayın sonunda ödenmelidir."
+    },
+    {
+      "q": "Kira uyuşmazlığında doğrudan dava açılabilir mi?",
+      "a": "Kira ilişkisinden kaynaklanan uyuşmazlıklarda dava açmadan önce arabulucuya başvurulması zorunludur."
+    },
+    {
+      "q": "Arabuluculukta anlaşma sağlanamazsa ne yapılır?",
+      "a": "Tarafların anlaşamadığına dair son tutanağın aslı veya onaylı örneği dava dilekçesine eklenerek mahkemeye sunulur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kira-artis-orani-nasil-hesaplanir",
+  "angle": "Ödeme ispatı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

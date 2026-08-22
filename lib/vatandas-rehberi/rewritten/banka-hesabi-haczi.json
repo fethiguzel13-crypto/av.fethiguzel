@@ -1,0 +1,100 @@
+{
+  "slug": "banka-hesabi-haczi",
+  "title": "Banka hesabına haciz gelirse ne yapılır — Vatandaş Rehberi | Av. Fethi",
+  "description": "Banka hesabına haciz gelirse ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı…",
+  "h1": "Banka hesabına haciz gelirse ne yapılır?",
+  "keywords": [
+    "banka hesabı haczi",
+    "hesaba bloke icra"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "haciz-islemleri-nasil-yapilir",
+    "odeme-emrine-itiraz"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Faiz",
+      "href": "/hesaplama/faiz"
+    }
+  ],
+  "lead": "Sabah markette kasada kartınız reddedildi. Banka uygulamasını açtığınızda tüm bakiyenize haciz konulduğunu görürsünüz.",
+  "keyInsight": "Haciz konulan hesap üzerindeki blokeyi kaldırmak için icra dairesine başvurmanız gerekir.",
+  "sections": [
+    {
+      "heading": "Banka hesabında haciz nasıl görünür?",
+      "paragraphs": [
+        "Telefonunuza gelen bildirimle ya da doğrudan işlem yapmaya çalışırken hesabınızın kilitlendiğini fark edersiniz. İcra dairesi tarafından bankanıza gönderilen haciz müzekkeresi sonucunda tüm hesap hareketleriniz durdurulur.",
+        "Bu aşamada banka şubesine gittiğinizde parayı kendi isteğinizle çekemezsiniz. **Paranın ödenmesi** ve muhafazası işlemleri artık icra ve iflas dairesinin talimatlarıyla yürütülür."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Ödeme emri ve süreler ne anlama gelir?",
+      "paragraphs": [
+        "Elinize ulaşan ödeme emrinde borcun ödenmesi için belirli bir süre tanınır. Borcun ve takip masraflarının icra dairesine ait banka hesabına **on gün içinde** yatırılması istenir.",
+        "Eğer borca veya imzaya bir itirazınız varsa, bu durumu **beş gün içinde** ilgili mahkemeye bildirmeniz gerekir. Süreleri kaçırmak cebri icra işlemlerinin hızlanmasına yol açar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Haciz kaldırılması için ne yapmalı?",
+      "paragraphs": [
+        "Borcu tamamen ödediğinizde veya dosya borcunu kapattığınızda icra müdürlüğü bankaya **resen talimat** gönderir. Bu talimat paranın ilgili hesaba aktarılmasını takip eden en geç üç iş günü sonuna kadar verilir.",
+        "Ödeme yapıldıktan sonra banka hesaplarınız üzerindeki blokeler sırasıyla kaldırılır ve normal işlemlerinize devam edebilirsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hatalı haciz durumunda nereye başvurulur?",
+      "paragraphs": [
+        "Borç size ait değilse veya dosya mükerrer açıldıysa vakit kaybetmeden hukuki yola başvurmalısınız. İcra mahkemesine verilecek dilekçe ile hatalı işlemin düzeltilmesi talep edilir.",
+        "Mahkemeden **itirazın kabulüne dair** karar getirilmediği takdirde cebri icra durmaksızın devam eder."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Banka uygulamasından haczin hangi icra dairesinden geldiğini öğrenin.",
+    "İcra dosyası borcunu ilgili icra dairesinin resmi banka hesabına yatırın.",
+    "Ödeme dekontunu alarak icra müdürlüğüne dosya kapanış dilekçesi verin.",
+    "İcra müdürlüğünün bankaya kaldırma talimatı göndermesini bekleyin.",
+    "Hesap üzerindeki blokenin kalkıp kalkmadığını kontrol edin."
+  ],
+  "documents": [
+    "Ödeme dekontu",
+    "İcra dosya numarasını gösterir belge",
+    "Kimlik belgesi",
+    "İtiraz dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Hesabıma gelen haczi internetten kaldırabilir miyim?",
+      "a": "Hayır, blokenin kalkması için icra dairesinin bankaya resmi talimat göndermesi şarttır."
+    },
+    {
+      "q": "Borcu ödedikten sonra blokeler ne zaman kalkar?",
+      "a": "İcra müdürü ödeme sonrasında ilgili bankaya gerekli talimatı iletir ve hesaplar normale döner."
+    },
+    {
+      "q": "Hacze karşı nereye itiraz edebilirim?",
+      "a": "Takibin dayanağına ve borca ilişkin itirazlar süresi içinde icra mahkemesine yapılmalıdır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Hesap blokesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

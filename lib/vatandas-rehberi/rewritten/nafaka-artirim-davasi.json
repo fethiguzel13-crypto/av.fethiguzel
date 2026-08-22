@@ -1,0 +1,111 @@
+{
+  "slug": "nafaka-artirim-davasi",
+  "title": "Nafaka artırım davası nasıl açılır — Vatandaş Rehberi | Av. Fethi Güze",
+  "description": "Nafaka artırımında değişen şartlar ve usul. Çocuk odaklı artırım ayrı; türler ana rehberde.",
+  "h1": "Nafaka artırım davası nasıl açılır?",
+  "keywords": [
+    "nafaka artırım davası",
+    "nafaka nasıl artırılır usul"
+  ],
+  "category": "Aile",
+  "related": [
+    "nafaka-davasi-nedir",
+    "cocuk-nafaka-artirim",
+    "nafaka-odenmezse"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/nafaka-davasi-nedir"
+    },
+    {
+      "label": "Nafaka",
+      "href": "/hesaplama/nafaka"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    }
+  ],
+  "lead": "Geçim şartları değiştiğinde ve mevcut nafaka yetersiz kaldığında, durumun düzeltilmesi için hukuki yola başvurulabilir. Hâkim, tarafların sosyal ve ekonomik durumlarını inceleyerek yeni bir karar verir.",
+  "keyInsight": "Dava açarken doğru mahkemeyi bulmak ve tarafların mali durumundaki değişimi somut şekilde ortaya koymak şarttır.",
+  "sections": [
+    {
+      "heading": "Hayat pahalandı ama nafaka aynı kaldı",
+      "paragraphs": [
+        "Mutfak masrafları artmış, geliriniz erimiş veya karşı tarafın maddi durumu eskiye göre çok daha iyi bir noktaya gelmiş olabilir. Hayat akarken eski kararlar bugünün ihtiyaçlarını karşılamayabilir.",
+        "Bu dengesizliği gidermek ve **geçim şartlarına** uyum sağlamak adına hukuki talepte bulunma hakkınız doğar."
+      ],
+      "bullets": [
+        "Mali güçlerdeki değişim",
+        "Artan yaşam masrafları"
+      ]
+    },
+    {
+      "heading": "Kimler bu davayı açabilir?",
+      "paragraphs": [
+        "Küçüğe fiilen bakan ana veya baba, diğer tarafa karşı çocuk adına bu talebi yöneltebilir. Ayırt etme gücüne sahip olmayan küçükler için kayyım veya vasi de harekete geçebilir.",
+        "Ayrıca ayırt etme gücüne sahip **küçük de** bizzat bu davanın açılmasını sağlayabilir."
+      ],
+      "bullets": [
+        "Fiilen bakan ebeveyn",
+        "Vasi veya kayyım",
+        "Ergin olmayan çocuk"
+      ]
+    },
+    {
+      "heading": "Hangi mahkemeye başvurulur?",
+      "paragraphs": [
+        "Adliyeye adım atarken kafanızın karışmaması gerekir. Yetkili mahkeme, taraflardan birinin **yerleşim yeri** mahkemesidir.",
+        "Dava dilekçesinde, talep edilen yardımın karşı tarafın mali gücüne uygun olduğu ve geçim için neden gerekli olduğu açıkça ifade edilir."
+      ],
+      "bullets": [
+        "Yerleşim yeri esası",
+        "Mali güce uygunluk"
+      ]
+    },
+    {
+      "heading": "Süreç nasıl işler ve nelere dikkat edilir?",
+      "paragraphs": [
+        "Dava açıldıktan sonra hâkim, istem hâlinde gelecek yıllarda tarafların durumuna göre ne miktarda ödeme yapılacağını da karara bağlayabilir. Süreç boyunca mahkemenin vereceği kararlar beklentilerinizi şekillendirir.",
+        "Hâkim, yükümlülerin durumunu incelerken hakkaniyete uygun bir denge gözetir; gerekirse **ara kararlarla** gerekli önlemleri alır."
+      ],
+      "bullets": [
+        "Geleceğe dönük planlama",
+        "Hakkaniyet dengesi"
+      ]
+    }
+  ],
+  "steps": [
+    "Taraflardan birinin yerleşim yeri mahkemesini belirleyin.",
+    "Geçim sıkıntısını ve karşı tarafın mali gücünü açıklayan dilekçe hazırlayın.",
+    "Dava dilekçesini ilgili mahkemeye sunun.",
+    "Sosyal ve ekonomik durum araştırmasının yapılmasını bekleyin."
+  ],
+  "documents": [
+    "Dava dilekçesi",
+    "Gelir ve gider belgeleri",
+    "Nüfus kayıt örneği"
+  ],
+  "faq": [
+    {
+      "q": "Bu davayı kimler açabilir?",
+      "a": "Küçüğe fiilen bakan ana veya baba, vasi, kayyım ya da ayırt etme gücüne sahip küçük dava açabilir."
+    },
+    {
+      "q": "Hangi mahkeme yetkilidir?",
+      "a": "Taraflardan birinin yerleşim yeri mahkemesi bu davada yetkilidir."
+    },
+    {
+      "q": "Gelecek yıllar için artış belirlenebilir mi?",
+      "a": "Hâkim, istem hâlinde irat biçimindeki ödemenin gelecek yıllarda ne miktarda olacağını karara bağlayabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "nafaka-davasi-nedir",
+  "angle": "Genel nafaka artırım usulü (yoksulluk/iştirak ortak)",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

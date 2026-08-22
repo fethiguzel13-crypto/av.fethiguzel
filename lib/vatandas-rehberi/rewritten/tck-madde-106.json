@@ -1,0 +1,110 @@
+{
+  "slug": "tck-madde-106",
+  "title": "TCK m.106 tehdit (özet) — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "TCK m.106 tehdit (özet) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
+  "h1": "TCK m.106 tehdit (özet)",
+  "keywords": [
+    "TCK 106 özet",
+    "tehdit suçu özet"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "tehdit-sucu-nedir",
+    "tck-nedir",
+    "savcilik-suc-duyurusu"
+  ],
+  "links": [
+    {
+      "label": "Tam madde metni + şerh",
+      "href": "/mevzuat/tck/madde-106"
+    },
+    {
+      "label": "Kanun maddesi ara",
+      "href": "/ara"
+    },
+    {
+      "label": "TCK m.106",
+      "href": "/mevzuat/tck/madde-106"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    }
+  ],
+  "lead": "Bir başkasının hayatına, vücut bütünlüğüne veya malvarlığına yönelik zarar vereceğini söyleyen biriyle karşılaştığınızda hukuki süreç başlar. Tehdidin şekli ve niteliği, alınacak cezanın sınırlarını doğrudan belirler.",
+  "keyInsight": "Tehdit suçunun malvarlığına zarar verme iddiasıyla işlenmesi **şikayete bağlıdır**.",
+  "sections": [
+    {
+      "heading": "Tehdit suçunun temel halleri nelerdir?",
+      "paragraphs": [
+        "Bir kimseden hayatınıza, vücudunuza veya cinsel dokunulmazlığınıza yönelik bir saldırı geleceği yönünde sözler duyduğunuzda kanuni koruma devreye girer. Bu fiili işleyen kişilere **hapis cezası** verilebilir.",
+        "Suçun kadına karşı işlenmesi halinde kanun koyucu korumayı artırmıştır. Bu durumda uygulanacak cezanın **alt sınırı daha yüksektir**.",
+        "Eğer tehdit malvarlığında büyük bir zarar yaratma ya da sair bir kötülük etme amacı taşıyorsa, soruşturma açılması mağdurun şikayetine bağlanmıştır."
+      ],
+      "bullets": [
+        "Hayat ve vücut dokunulmazlığına yönelik tehditler",
+        "Malvarlığına zarar verme iddiaları"
+      ]
+    },
+    {
+      "heading": "Hangi durumlar cezayı artırır?",
+      "paragraphs": [
+        "Tehdit fiilinin bazı özel yöntemlerle işlenmesi halinde verilecek ceza katlanır. Suçun silahla işlenmesi en yaygın ağırlaştırıcı sebeptir.",
+        "Failin kendisini gizlemesi, imzasız mektup veya özel işaretler kullanması da aynı sonucu doğurur.",
+        "Birden fazla kişinin birlikte hareket etmesi ya da suç örgütlerinin korkutucu gücünden yararlanılması **cezayı artıran haller** arasındadır."
+      ],
+      "bullets": [
+        "Silah kullanımı",
+        "Örgüt gücünden yararlanma"
+      ]
+    },
+    {
+      "heading": "Diğer suçlarla birlikte işlenirse ne olur?",
+      "paragraphs": [
+        "Tehdit amacıyla kasten öldürme, kasten yaralama veya malvarlığına zarar verme suçları işlendiğinde durum değişir.",
+        "Bu aşamada fail yalnızca tehdit suçundan değil, **işlenen diğer suçlardan** da ayrı ayrı cezalandırılır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreç nasıl ilerler?",
+      "paragraphs": [
+        "Yaşadığınız tehdit olayından sonra vakit kaybetmeden hukuki yollara başvurmanız gerekir. Malvarlığına yönelik tehditlerde şikayet hakkınızı **zamanında kullanmalısınız**.",
+        "Yargılama aşamasında beyanlarınız ve delilleriniz tutanak altına alınarak dosya oluşturulur."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Tehdit içeren söz veya eylemleri unutulmayacak şekilde not edin.",
+    "Varsa tanık ve delilleri tespit edin.",
+    "Yetkili makamlara başvurarak şikayetinizi bildirin.",
+    "İfade ve duruşma süreçlerinde olayları tutanağa yazdırın."
+  ],
+  "documents": [
+    "Olayı gösteren mesaj veya kayıtlar",
+    "Tanık listesi",
+    "Şikayet dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Her tehdit şikayete bağlı mıdır?",
+      "a": "Hayır, hayat, vücut veya cinsel dokunulmazlığa yönelik tehditlerde şikayet şartı aranmazken, malvarlığına yönelik tehditler şikayete bağlıdır."
+    },
+    {
+      "q": "Silahla tehdit edilmenin sonucu nedir?",
+      "a": "Tehdidin silahla işlenmesi halinde uygulanacak hapis cezası artırılır."
+    },
+    {
+      "q": "Suçun kadına karşı işlenmesi cezayı etkiler mi?",
+      "a": "Evet, suçun kadına karşı işlenmesi halinde verilecek cezanın alt sınırı daha yüksek uygulanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "bridge",
+  "angle": "Tehdit özeti",
+  "canonicalPath": "/mevzuat/tck/madde-106",
+  "sitemapPriority": 0.45,
+  "voice": "narrative",
+  "source": "gemini"
+}

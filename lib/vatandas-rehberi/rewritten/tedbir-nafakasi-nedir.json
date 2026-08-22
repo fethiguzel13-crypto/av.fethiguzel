@@ -1,0 +1,112 @@
+{
+  "slug": "tedbir-nafakasi-nedir",
+  "title": "Tedbir Nafakası Nedir? Boşanma Sırasında",
+  "description": "Tedbir nafakası nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
+  "h1": "Tedbir nafakası nedir?",
+  "keywords": [
+    "tedbir nafakası",
+    "boşanma tedbir nafakası"
+  ],
+  "category": "Aile",
+  "related": [
+    "nafaka-davasi-nedir",
+    "bosanma-davasi-nasil-acilir",
+    "cocuk-nafaka-artirim"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/nafaka-davasi-nedir"
+    },
+    {
+      "label": "Nafaka",
+      "href": "/hesaplama/nafaka"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    }
+  ],
+  "lead": "Evlilik birliği sarsıldığında ya da boşanma davası açıldığında, tarafların geçimi ve barınması için hâkim tarafından geçici ekonomik güvence sağlanır.",
+  "keyInsight": "Bu koruma kararı kusur durumuna bakılmaksızın verilir çünkü temel amaç tarafların ve çocukların mağduriyetini önlemektir.",
+  "sections": [
+    {
+      "heading": "Geçim sıkıntısı kapıya dayanınca ne olur?",
+      "paragraphs": [
+        "Evlilik devam ederken veya boşanma süreci başladığında ortak hayat birden çekilmez hâle gelebilir. Eşler ayrı yaşamaya başladığında mutfaktaki tencere kaynamak zorundadır.",
+        "Hâkim, dava süresince tarafların barınması ve geçimi için kendiliğinden ya da talep üzerine ekonomik bir tedbir alır. Bu destek **malî gücü oranında** belirlenir ve geçici bir can simidi niteliği taşır."
+      ],
+      "bullets": [
+        "Ayrı yaşama hakkı doğduğunda başlar",
+        "Kusur araştırması yapılmadan hükmedilir"
+      ]
+    },
+    {
+      "heading": "Destek miktarı neye göre belirlenir?",
+      "paragraphs": [
+        "Her yuvanın ekonomik dengesi kendine hastır. Hâkim karar verirken tarafların sosyal ve ekonomik durumlarını tek tek tartar.",
+        "Ödeme gücü olan taraftan alınan bu geçim desteği, paranın alım gücüne ve **günlük yaşam şartlarına** göre şekillenir. Amaç lüksü karşılamak değil, asgari geçim standardını korumaktır."
+      ],
+      "bullets": [
+        "Tarafların gelir durumu kıstas alınır",
+        "Gelecek yıllar için artış planlanabilir"
+      ]
+    },
+    {
+      "heading": "Karar ne zaman ve nasıl uygulanır?",
+      "paragraphs": [
+        "Mahkeme kapısı çalındığında ve talepte bulunulduğunda süreç hızla işletilir. Verilen karar taraflara tebliğ edilsin veya edilmesin derhâl **uygulanmaya başlanır**.",
+        "Eğer ödeme yükümlülüğü yerine getirilmezse, alacaklı taraf icra yollarıyla biriken parayı tahsil etme hakkına sahip olur. Bu süreç davanın sonuna kadar kesintisiz devam eder."
+      ],
+      "bullets": [
+        "Tebligat beklenmeden uygulama başlar",
+        "İcra kanalıyla tahsil edilebilir"
+      ]
+    },
+    {
+      "heading": "Destek ne zaman sona erer?",
+      "paragraphs": [
+        "Geçici koruma kalkanı sonsuza kadar sürmez. Boşanma davası bittiğinde veya tarafların mali durumunda esaslı bir değişiklik olduğunda hâkim yeni bir durum değerlendirmesi yapar.",
+        "Hakkaniyetin gerektirdiği durumlarda miktar **artırılabilir veya azaltılabilir**. Evlilik bağının resmen kopmasıyla birlikte bu geçici statü yerini kalıcı hükümlere bırakır."
+      ],
+      "bullets": [
+        "Davanın bitimiyle şekil değiştirir",
+        "Hakkaniyet esasına göre güncellenir"
+      ]
+    }
+  ],
+  "steps": [
+    "Aile mahkemesine geçim sıkıntısını belirten dilekçeyle başvurun.",
+    "Gelir ve gider durumunuzu gösteren belgeleri dosyaya ekleyin.",
+    "Hâkimin vereceği ara kararı bekleyin.",
+    "Karar çıktıktan sonra ödemelerin yapılmasını takip edin.",
+    "Ödeme yapılmazsa icra müdürlüğü üzerinden işlem başlatın."
+  ],
+  "documents": [
+    "Nüfus kayıt örneği",
+    "Gelir belgesi veya maaş bordrosu",
+    "Kira kontratı veya barınma gideri makbuzları",
+    "Ortak çocukların masraflarını gösteren belgeler"
+  ],
+  "faq": [
+    {
+      "q": "Bu destek için kusurlu olmamak şart mı?",
+      "a": "Hayır, bu aşamada kusur durumuna bakılmaz; temel amaç geçimi sağlamaktır."
+    },
+    {
+      "q": "Boşanma davası sürerken bu para kesilir mi?",
+      "a": "Dava devam ettiği sürece ve aksi bir hâkim kararı çıkmadığı sürece ödeme devam eder."
+    },
+    {
+      "q": "Miktar sonradan değiştirilebilir mi?",
+      "a": "Tarafların mali durumunun değişmesi veya hakkaniyetin gerektirdiği hâllerde miktar artırılabilir ya da azaltılabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "nafaka-davasi-nedir",
+  "angle": "Dava süresince tedbir nafakası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

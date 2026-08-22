@@ -1,0 +1,115 @@
+{
+  "slug": "itirazin-iptali-davasi",
+  "title": "İtirazın iptali davası nasıl açılır — Vatandaş Rehberi | Av. Fethi Güz",
+  "description": "İtirazın iptali davası nasıl açılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
+  "h1": "İtirazın iptali davası nasıl açılır?",
+  "keywords": [
+    "itirazın iptali davası",
+    "itirazın iptali süresi"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "odeme-emrine-itiraz",
+    "icra-inkar-tazminati"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Borçlunuz başlattığınız icra takibine itiraz ettiğinde, alacağınızı almak için mahkemenin kapısını çalmanız gerekir. Asıl soru, bu adımı ne zaman ve hangi kurallarla atacağınızdır.",
+  "keyInsight": "Takip talebine itiraz edilen alacaklı, itirazın tebliği tarihinden itibaren **bir sene içinde** mahkemeye başvurarak itirazın iptalini dava edebilir.",
+  "sections": [
+    {
+      "heading": "Ne zaman hak doğar?",
+      "paragraphs": [
+        "Elinde alacağını gösterir belgesi olan herkes bir icra takibi başlatabilir. Ancak borçlu çıkıp da \"böyle bir borcum yok\" derse, takip durur. İşte bu itiraz haberi size ulaştığı anda yeni bir hukuki süreç başlar.",
+        "Borçlunun itirazı size resmen bildirildiği günden itibaren **bir yıllık süre** işlemeye başlar. Bu süreyi geçirirseniz, aynı alacak için farklı yolları denemek zorunda kalırsınız."
+      ],
+      "bullets": [
+        "İcra takibi başlatılır",
+        "Borçlu süre içinde itiraz eder",
+        "İtiraz size tebliğ edilir"
+      ]
+    },
+    {
+      "heading": "Mahkemede süreç nasıl işler?",
+      "paragraphs": [
+        "Alacağınızın varlığını mahkeme önünde **genel hükümler dairesinde** ispat etmek zorundasınız. Hakim, borçlunun yaptığı itirazın haksız olduğuna karar verirse dava lehinize sonuçlanır.",
+        "Eğer borçlunun takibinde haksız ve kötü niyetli olduğu anlaşılırsa, talep etmeniz şartıyla borçlu uygun bir tazminata mahkum edilir."
+      ],
+      "bullets": [
+        "Alacak ispat edilir",
+        "İtirazın haksızlığı incelenir",
+        "Tazminat talebi değerlendirilir"
+      ]
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "Mahkemeye başvururken elinizdeki tüm dayanakları eksiksiz sunmalısınız. Borcun varlığını kanıtlayan belgeler olmadan atılacak adımlar sizi yanıltır.",
+        "İcra dosyası ve borçlunun itiraz dilekçesi bu sürecin en temel dayanaklarıdır."
+      ],
+      "bullets": [
+        "İcra takip dosyası",
+        "İtiraz dilekçesi tebligatı",
+        "Alacak dayanağı belgeler"
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırınca ne olur?",
+      "paragraphs": [
+        "Kanunda öngörülen o bir yıllık süreyi geçiren alacaklının umumi hükümler dairesinde alacağını dava etmek hakkı saklıdır. Ancak bu durum işinizi oldukça uzatır.",
+        "Zamanında hareket etmek, hak kaybına uğramamak adına her zaman en güvenli yoldur."
+      ],
+      "bullets": [
+        "Bir yıllık süre dolar",
+        "İtirazın iptali yolu kapanır",
+        "Genel dava hakkı kalır"
+      ]
+    }
+  ],
+  "steps": [
+    "İtirazın size tebliğ edildiği tarihi not edin",
+    "Bir yıllık yasal süreyi geçirmeden hazırlık yapın",
+    "Alacağınızın varlığını kanıtlayan belgeleri derleyin",
+    "Yetkili mahkemeye başvurarak dava açın"
+  ],
+  "documents": [
+    "İcra takip dosyası",
+    "İtiraz tebligatı",
+    "Alacak belgesi",
+    "Ödeme emri"
+  ],
+  "faq": [
+    {
+      "q": "İtirazın iptali davasını ne zaman açmalıyım?",
+      "a": "İtirazın size tebliğ edildiği tarihten itibaren bir sene içinde mahkemeye başvurmanız gerekir."
+    },
+    {
+      "q": "Süreyi kaçırırsam ne olur?",
+      "a": "İtirazın iptali davası açma hakkını kaybedersiniz, ancak genel hükümler dairesinde alacağınızı dava etme hakkınız saklı kalır."
+    },
+    {
+      "q": "Borçlu haksız çıkarsa ne kazancım olur?",
+      "a": "Borçlunun itirazının haksızlığına karar verilirse ve kötü niyetli olduğu görülürse, talebiniz üzerine uygun bir tazminata hükmedilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "İtirazın iptali",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

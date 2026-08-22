@@ -1,0 +1,103 @@
+{
+  "slug": "sgk-tesvik-nedir",
+  "title": "SGK teşvikleri — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "SGK teşvikleri hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata da…",
+  "h1": "SGK teşvikleri",
+  "keywords": [
+    "sgk teşvikleri",
+    "sgk tesvik nedir"
+  ],
+  "category": "Sosyal Güvenlik",
+  "related": [
+    "bagkur-prim-borcu",
+    "sgk-hizmet-dokumu",
+    "sirket-kurulusu",
+    "asgari-ucret-net-brut"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/bagkur-prim-borcu"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=te%C5%9Fvik"
+    }
+  ],
+  "lead": "İş yerinizde eleman alırken maliyeti düşürmek istersiniz ancak sgk prim oranları gözünüzü korkutur. Devlet, istihdamı artırmak ve belirli grupların iş bulmasını kolaylaştırmak için işverene çeşitli prim indirimleri ve destekler sunar.",
+  "keyInsight": "Teşviklerden yararlanmak için kanunda aranan prim oranları ve sigorta kollarındaki istisnai şartları eksiksiz takip etmeniz gerekir.",
+  "sections": [
+    {
+      "heading": "İstihdam Maliyetini Düşüren Prim Oranları Nelerdir?",
+      "paragraphs": [
+        "Yeni bir çalışan işe aldığınızda, sosyal güvenlik sistemine ödemeniz gereken primler belirli oranlar üzerinden hesaplanır. Malûllük, yaşlılık ve ölüm sigortaları için kanunen belirlenen **toplam prim oranı** sigortalının kazancının belirli bir yüzdesidir. Bu oranın bir kısmı çalışan hissesi, kalanı ise işveren hissesi olarak yansır.",
+        "Ayrıca kısa vadeli sigorta kolları için de işverenin tek başına üstlendiği prim kalemleri bulunur. Cumhurbaşkanı, bu kısa vadeli oranları belirli aralıklarda indirmeye veya artırmaya yetkilidir."
+      ],
+      "bullets": [
+        "Malûllük, yaşlılık ve ölüm sigortası prim oranı",
+        "Kısa vadeli sigorta kolları prim oranı"
+      ]
+    },
+    {
+      "heading": "Fiilî Hizmet Süresi Zammı Ne Anlama Gelir?",
+      "paragraphs": [
+        "Ağır ve riskli işlerde çalışanlar için standart prim oranlarının üzerine ek puanlar eklenir. Çalışma koşullarının zorluğuna göre belirlenen bu **fiilî hizmet gün sayısı** farkları, işverenin ödeyeceği prim oranını doğrudan etkiler.",
+        "Normal çalışanlar için uygulanan oranlar ile riskli iş kollarındaki oranlar arasındaki farka ait primin tamamı işveren tarafından karşılanır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Sağlık Hizmetlerinde Katılım Payı Nasıl Uygulanır?",
+      "paragraphs": [
+        "Çalışanların ve sigortalıların sağlık hizmetlerinden yararlanırken ödediği katılım payları, tedavinin türüne göre değişiklik gösterir. Ayakta hekim muayenesi, reçeteli ilaçlar ve protez gibi kalemlerde **katılım payı alınması** kanuni bir zorunluluktur.",
+        "Kurum, gereksiz kullanımı önlemek ve hizmetin niteliğini korumak amacıyla bu oranları belirli aralıklarda belirleme yetkisine sahiptir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Teşvik ve İndirimlerde Nelere Dikkat Etmeli?",
+      "paragraphs": [
+        "İşveren olarak prim teşviklerinden faydalanırken her çalışanın statüsünü ayrı ayrı incelemelisiniz. Yanlış sigorta kolu bildirgeleri veya eksik prim ödemeleri, hak ettiğiniz desteklerin kesilmesine yol açabilir.",
+        "Mevzuatta belirtilen oranları ve istisnaları dikkate alarak bordro hazırlamak, olası idari para cezalarının önüne geçmenizi sağlar."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Çalışanın sigorta kolunu ve prim oranını kontrol edin",
+    "Riskli işlerde fiilî hizmet süresi zammı farklarını hesaplayın",
+    "Kısa vadeli sigorta kolları kesintilerini bordroya yansıtın",
+    "Sağlık hizmeti katılım payı kesintilerini takip edin",
+    "Prim ödemelerini yasal süresi içinde kuruma bildirin"
+  ],
+  "documents": [
+    "Sigortalı işe giriş bildirgesi",
+    "Aylık prim ve hizmet belgesi",
+    "Personel ücret bordrosu"
+  ],
+  "faq": [
+    {
+      "q": "Malûllük, yaşlılık ve ölüm sigortası primi kim tarafından ödenir?",
+      "a": "Bu primin bir kısmını çalışan, kalan büyük kısmını ise işveren öder."
+    },
+    {
+      "q": "Kısa vadeli sigorta kolları primini kim karşılar?",
+      "a": "Kısa vadeli sigorta kolları priminin tamamını işveren öder."
+    },
+    {
+      "q": "Katılım payı hangi sağlık hizmetlerinde alınır?",
+      "a": "Ayakta hekim muayenesi, ayakta sağlanan ilaçlar, vücut dışı protez ve ortezler ile yatarak tedavilerde katılım payı uygulanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "bagkur-prim-borcu",
+  "angle": "SGK teşvikleri",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

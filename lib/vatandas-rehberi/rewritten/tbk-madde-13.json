@@ -1,0 +1,120 @@
+{
+  "slug": "tbk-madde-13",
+  "title": "TBK 13 Yazılı Şekil — Vatandaş Özeti | Vatandaş Rehberi",
+  "description": "TBK 13 / TBK madde 13: kanunda yazılı şekil öngörülen sözleşmenin değişikliğinde de yazılı şekil. Tam metin ve şerh: /mevzuat/tbk/madde-13 — Av. Fethi Güzel.",
+  "h1": "TBK 13 nedir? Yazılı şekil kuralı (özet)",
+  "keywords": [
+    "TBK 13",
+    "TBK madde 13",
+    "TBK m. 13",
+    "yazılı şekil",
+    "sözleşme şekil zorunluluğu"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "zamanaşimi-nedir",
+    "kanun-maddesi-nasil-okunur",
+    "mevzuat-nasil-aranir",
+    "tbk-nedir"
+  ],
+  "links": [
+    {
+      "label": "Tam madde metni + şerh",
+      "href": "/mevzuat/tbk/madde-13"
+    },
+    {
+      "label": "Kanun maddesi ara",
+      "href": "/ara"
+    },
+    {
+      "label": "TBK 13 tam metin",
+      "href": "/mevzuat/tbk/madde-13"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=TBK%2013"
+    }
+  ],
+  "lead": "El sıkışarak yaptığınız bir anlaşmayı sonradan değiştirmek istediğinizde, ilk kuralın gölgesinde kalırsınız. Kanun, ana metin nasıl kurulduysa değişimlerin de aynı yoldan geçmesini ister.",
+  "keyInsight": "Kanunda yazılı şekilde yapılması öngörülen bir sözleşmenin değiştirilmesinde de yazılı şekle uyulması zorunludur.",
+  "sections": [
+    {
+      "heading": "Değişiklik yaparken kural değişmez",
+      "paragraphs": [
+        "Masa başında kurduğunuz bir sözleşmeyi aradan zaman geçtikçe esnetmek isteyebilirsiniz. Kimi zaman ödeme miktarını kimi zaman da teslim tarihini değiştirmek masaya tekrar oturmanızı gerektirir. Kanun, ilk başta yazılı yapılması istenen bir anlaşmanın maddelerini değiştirirken de aynı **yazılı şekil** kuralına uyulmasını zorunlu kılar.",
+        "Bu kural, sözleşmenin ruhunu korumak ve sonradan çıkacak hafıza karışıklıklarını engellemek için konulmuştur. Sözlü olarak yapılan ek anlaşmalar çoğu zaman hukuken geçerlilik kazanamaz."
+      ],
+      "bullets": [
+        "İlk sözleşme yazılıysa değişim de yazılı olmalı",
+        "Sözlü ek anlaşmalar geçersiz kalabilir"
+      ]
+    },
+    {
+      "heading": "Hangi detaylar bu kuralın dışındadır?",
+      "paragraphs": [
+        "Her küçük ekleme yeni bir imza silsilesi gerektirmez. Asıl sözleşme metniyle çelişmeyen **tamamlayıcı yan hükümler** bu kuralın dışındadır.",
+        "Tarafların ana iradesini zedelemeyen ve sadece işin akışını kolaylaştıran detaylar için yeniden yazılı şekil şartı aranmaz."
+      ],
+      "bullets": [
+        "Çelişmeyen tamamlayıcı hükümler serbesttir",
+        "Ana metin korunmak zorundadır"
+      ]
+    },
+    {
+      "heading": "İmza ve iletişim araçlarının gücü",
+      "paragraphs": [
+        "Yazılı şekilde yapılan sözleşmelerde borç altına girenlerin imzalarının bulunması şarttır. Ancak günümüz iletişim imkanları bu kural esnetilmeden dijital dünyaya uyarlanmıştır.",
+        "Kanunda aksi öngörülmedikçe imzalı mektup, telgraf, teyit edilmiş faks veya güvenli elektronik imza ile gönderilip saklanabilen metinler de **yazılı şekil** yerine geçer."
+      ],
+      "bullets": [
+        "Borç altına girenlerin imzası şarttır",
+        "Güvenli e-imza ve faks geçerlidir"
+      ]
+    },
+    {
+      "heading": "Tarafların kendi koyduğu kurallar",
+      "paragraphs": [
+        "Kanun her sözleşme için şekil şartı aramaz. Ancak taraflar isterlerse aralarındaki anlaşmayı belirli bir şekle bağlayabilirler.",
+        "Kanunda şekle bağlanmamış bir sözleşmenin taraflarca belirli bir şekilde yapılması kararlaştırılmışsa, **belirlenen şekilde** yapılmayan sözleşme tarafları bağlamaz."
+      ],
+      "bullets": [
+        "İradi şekil şartına uyulmalıdır",
+        "Belirlenmemişse yasal yazılı şekil uygulanır"
+      ]
+    }
+  ],
+  "steps": [
+    "Sözleşmenizin ilk kuruluş aşamasında kanuni veya iradi bir şekil şartı olup olmadığını kontrol edin.",
+    "Anlaşmada bir değişiklik yapacaksanız, bu değişikliği mutlaka yazılı ortama taşıyın.",
+    "Borç altına giren tarafların ıslak imzasını veya güvenli elektronik imzasını temin edin.",
+    "Yapılan eklemenin ana metinle çelişmediğinden ve tamamlayıcı nitelikte olduğundan emin olun.",
+    "İletişim araçları kullanılacaksa teyit edilmesine özen gösterin."
+  ],
+  "documents": [
+    "Asıl yazılı sözleşme metni",
+    "Değişikliği gösteren imzalı ek belge",
+    "Güvenli elektronik imza verileri",
+    "Teyit edilmiş faks veya telgraf metinleri"
+  ],
+  "faq": [
+    {
+      "q": "Sözlü olarak anlaştığımız bir madde geçerli olur mu?",
+      "a": "Kanunda yazılı şekilde yapılması öngörülen bir sözleşmenin değiştirilmesinde yazılı şekle uyulması zorunludur; bu nedenle sözlü değişiklikler kural olarak geçersizdir."
+    },
+    {
+      "q": "Hangi eklemeler yazılı şekil kuralına tabi değildir?",
+      "a": "Sözleşme metniyle çelişmeyen tamamlayıcı yan hükümler bu kuralın dışındadır."
+    },
+    {
+      "q": "Elektronik imza yazılı şekil yerine geçer mi?",
+      "a": "Güvenli elektronik imza ile gönderilip saklanabilen metinler yazılı şekil yerine geçer."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "bridge",
+  "angle": "Yazılı şekil — sözleşmenin değiştirilmesinde şekil zorunluluğu",
+  "canonicalPath": "/mevzuat/tbk/madde-13",
+  "sitemapPriority": 0.45,
+  "voice": "narrative",
+  "source": "gemini"
+}

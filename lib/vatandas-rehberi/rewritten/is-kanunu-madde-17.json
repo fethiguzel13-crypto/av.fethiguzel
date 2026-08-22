@@ -1,0 +1,114 @@
+{
+  "slug": "is-kanunu-madde-17",
+  "title": "İş Kanunu m.17 bildirim süreleri (özet) — Vatandaş Rehberi | Av. Fethi",
+  "description": "İş Kanunu m.17 bildirim süreleri (özet) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı.…",
+  "h1": "İş Kanunu m.17 bildirim süreleri (özet)",
+  "keywords": [
+    "İş Kanunu 17 özet",
+    "ihbar maddesi özet"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "ihbar-suresi-tablosu",
+    "ihbar-tazminati-nedir",
+    "is-kanunu-nedir"
+  ],
+  "links": [
+    {
+      "label": "Tam madde metni + şerh",
+      "href": "/mevzuat/is-kanunu/madde-17"
+    },
+    {
+      "label": "Kanun maddesi ara",
+      "href": "/ara"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/kidem"
+    }
+  ],
+  "lead": "İşten ayrılmak ya da işçi çıkarmak istiyorsunuz. Asıl mesele, çalışma sürenize göre değişen **bildirim sürelerine** uymaktır.",
+  "keyInsight": "Sürelere uymadan yapılan fesihlerde, tarafların bildirim süresine ilişkin ücret tutarında tazminat ödeme yükümlülüğü doğar.",
+  "sections": [
+    {
+      "heading": "Çalışma süreniz neyi değiştirir?",
+      "paragraphs": [
+        "Masada duran sözleşmeyi bitirmek istiyorsunuz. Karşı tarafa haber vermeden yarın bırakıp gidemezsiniz ya da kapı önüne koyamazsınız.",
+        "Kanun, kıdeminize yani iş yerindeki çalışma sürenize göre kademeli bir bekleyiş süresi öngörür. Bu süreler en **az sınır** olup sözleşmeyle artırılabilir ancak kısaltılamaz."
+      ],
+      "bullets": [
+        "Altı aydan az sürenler için iki hafta",
+        "Altı aydan birbuçuk yıla kadar dört hafta",
+        "Birbuçuk yıldan üç yıla kadar altı hafta",
+        "Üç yıldan fazla sürenler için sekiz hafta"
+      ]
+    },
+    {
+      "heading": "Peşin ödeme yolu nedir?",
+      "paragraphs": [
+        "İşveren beklemek istemiyor, çalışanın yarın dükkanda olmasını arzu etmiyor. Bu durumda kanun işverene bir seçenek tanır.",
+        "İşveren, bildirim süresine ait ücreti **peşin vermek** suretiyle iş sözleşmesini hemen feshedebilir."
+      ],
+      "bullets": [
+        "Peşin ödenen ücrete para ve para ile ölçülebilir tüm menfaatler dahildir"
+      ]
+    },
+    {
+      "heading": "Kurala uyulmazsa ne olur?",
+      "paragraphs": [
+        "Taraflardan biri bu bildirim şartına uymazsa ortada bir ihlal vardır. Kuralı ihlal eden taraf tazminat ödemek zorundadır.",
+        "Ödenecek tazminatın miktarı, uymadığı bildirim süresine ilişkin ücret tutarı kadar olur."
+      ],
+      "bullets": [
+        "Tazminat hesabına ek menfaatler de eklenir"
+      ]
+    },
+    {
+      "heading": "Ek güvenceler ve istisnalar",
+      "paragraphs": [
+        "Belirli şartları taşımayan işçiler bakımından fesih hakkının kötüye kullanılması durumunda farklı tazminat hesapları gündeme gelebilir.",
+        "İşverenin peşin ödeme yapması veya sürelere uymaması, kanunun diğer güvence hükümlerinin uygulanmasını engellemez."
+      ],
+      "bullets": [
+        "Kötü niyetli fesihlerde bildirim süresinin üç katı tazminat gündeme gelebilir"
+      ]
+    }
+  ],
+  "steps": [
+    "İş yerindeki toplam çalışma sürenizi net olarak hesaplayın.",
+    "İlgili süreye denk gelen hafta kadar önceden karşı tarafa yazılı bildirimde bulunun.",
+    "İşveren taraftaysanız ve bekletmek istemiyorsanız bildirim süresi ücretini peşin ödeyin.",
+    "Süreye uyulmadıysa karşılıklı tazminat hesaplamasını yapın."
+  ],
+  "documents": [
+    "İş sözleşmesi",
+    "Maaş bordroları",
+    "Yazılı fesih bildirim belgesi",
+    "Ödeme dekontları"
+  ],
+  "faq": [
+    {
+      "q": "Bildirim süreleri sözleşmeyle azaltılabilir mi?",
+      "a": "Hayır, kanundaki bu süreler asgari olup sözleşmelerle ancak artırılabilir, kısaltılamaz."
+    },
+    {
+      "q": "İşveren isterse hemen işten çıkarabilir mi?",
+      "a": "İşveren, bildirim süresine ait ücreti peşin vermek suretiyle sözleşmeyi hemen feshedebilir."
+    },
+    {
+      "q": "Tazminat hesaplanırken sadece çıplak maaş mı dikkate alınır?",
+      "a": "Hayır, ücrete ek olarak işçiye sağlanmış para veya para ile ölçülebilir sözleşme ve kanundan doğan menfaatler de hesaba katılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "bridge",
+  "angle": "İhbar süreleri madde özeti",
+  "canonicalPath": "/mevzuat/is-kanunu/madde-17",
+  "sitemapPriority": 0.45,
+  "voice": "narrative",
+  "source": "gemini"
+}

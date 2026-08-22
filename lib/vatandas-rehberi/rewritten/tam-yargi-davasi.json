@@ -1,0 +1,116 @@
+{
+  "slug": "tam-yargi-davasi",
+  "title": "Tam yargı davası nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Tam yargı davası nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
+  "h1": "Tam yargı davası nedir?",
+  "keywords": [
+    "tam yargı davası",
+    "idari tazminat davası"
+  ],
+  "category": "İdare",
+  "related": [
+    "idari-dava-nasil-acilir",
+    "iptal-davasi-nedir",
+    "kamulastirma-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/idari-dava-nasil-acilir"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=tam%20yarg%C4%B1"
+    }
+  ],
+  "lead": "Belediye veya valilik işlemlerinden ötürü mülkiyetiniz kısıtlandığında ya da zarar gördüğünde, devletin bu kusurlu veya kısıtlayıcı tasarruflarına karşı idari yargıda hak arama yolu açılır. Tam yargı davası, idarenin verdiği maddi zararların giderilmesi ve mülkiyet hakkını ihlal eden hukuki engellerin aşılması için başvurulan idari tazminat yoludur.",
+  "keyInsight": "İdarenin mülkiyet hakkınız üzerinde doğurduğu kısıtlamalarda ve bedel uyuşmazlıklarında, kanuni yolları ve süreci kaçırmamak için tebligat tarihini iyi takip etmelisiniz.",
+  "sections": [
+    {
+      "heading": "Hangi durumlarda hak doğar?",
+      "paragraphs": [
+        "Belediye veya valilik hudutları içindeki gayrimenkulleriniz üzerinde yapılan tevhid, ifraz veya irtifak hakkı gibi işlemler idarenin onayına tabidir. Onay ve tescil süreçlerinde yaşanan idari gecikmeler veya anlaşmazlıklar sonucunda hissedarlar arasında uyuşmazlık doğabilir. Bu gibi durumlarda ilgili idare mahkemeye başvurarak şüyuun izalesi davası açma hakkını elde eder.",
+        "Uygulama imar planlarında umumi hizmetlere ayrılması nedeniyle mülkiyet hakkınızın özüne dokunacak şekilde tasarrufunuz kısıtlandığında idari süreç başlar. İlgili idareler bu taşınmazları kamulaştırmak veya kısıtlılığı kaldıracak imar planı değişikliği yapmakla yükümlüdür."
+      ],
+      "bullets": [
+        "Gayrimenkul tevhid ve ifraz işlemleri",
+        "İmar planıyla mülkiyetin kısıtlanması",
+        "Kamulaştırma bedeli uyuşmazlıkları"
+      ]
+    },
+    {
+      "heading": "İdareye başvuru ve dava süreci nasıl işler?",
+      "paragraphs": [
+        "Taşınmazınızın kamulaştırılması durumunda satın alma usulü yapılamazsa idare bedel tespiti için mahkemeye başvurur. Mahkeme tarafınıza duruşma günü ve kamulaştırma belgelerini tebliğ eder. Bu tebligat yapıldıktan sonra **otuz gün içinde** idari yargıda iptal davası açma hakkınızı kullanabilirsiniz.",
+        "İdare de kamulaştırma belgelerini mahkemeye verdikten sonra maddi hatalara karşı adli yargıda düzeltim davası açabilir. Dava sürecinde taşınmazın gerçek malikinin başka biri olduğu anlaşılırsa dava o gerçek malik veya mirasçılar dahil edilerek sürdürülür."
+      ],
+      "bullets": [
+        "Mahkeme tebligatı ile başlayan otuz günlük süre",
+        "İdari yargıda iptal, adli yargıda düzeltim yolu",
+        "Gerçek malikin davaya dahil edilmesi"
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırınca ne olur?",
+      "paragraphs": [
+        "Kanunlarda belirtilen dava ve başvuru süreleri hak düşürücü niteliktedir. Tebligat veya ilan tarihinden itibaren başlayan otuz günlük yasal sürede idari yargıya başvurulmazsa, işlem kesinleşir ve dava açma hakkı kaybedilir.",
+        "Şüyulandırılan gayrimenkullerde ise idarenin tebliğ tarihinden itibaren **altı ay içinde** anlaşma sağlanamaz veya mahkemeye müracaat edilmezse idare hissedarmış gibi dava açma yetkisi kazanır. Bu nedenle süreleri dikkatle izlemek gerekir."
+      ],
+      "bullets": [
+        "Otuz günlük dava açma süresi",
+        "Altı aylık anlaşma ve başvuru süresi"
+      ]
+    },
+    {
+      "heading": "Yanınızda hangi belgeler dursun?",
+      "paragraphs": [
+        "İdareye karşı açacağınız davalarda ve idari başvurularda mülkiyetinizi kanıtlayan resmi evrakın eksiksiz olması şarttır. Tapu kayıtları, belediye encümen veya il idare kurulu kararları süreci doğrudan etkiler.",
+        "Tarafınıza yapılan tebligat zarfı, imar planı değişiklik askı ilanları ve idarenin yazılı tebligat metinleri dosyanızın temelini oluşturur. Bu belgeler olmadan hak iddia etmek ve süreleri kanıtlamak mümkün olmaz."
+      ],
+      "bullets": [
+        "Tapu senedi ve kayıtları",
+        "Mahkeme tebligatları ve meşruhatlı davetiye",
+        "İmar planı askı tutanakları"
+      ]
+    }
+  ],
+  "steps": [
+    "İdarenin yaptığı tebligat veya ilân tarihini resmi olarak kaydedin.",
+    "Gayrimenkulünüzün tapu kayıtları ve imar durum belgelerini toplayın.",
+    "Otuz günlük yasal sürede yetkili yargı organına başvuru dilekçenizi verin.",
+    "Şüyu veya kamulaştırma dosyasına gerçek malik veya mirasçı olarak dahil olun.",
+    "İdarenin kamulaştırma ve imar uygulama adımlarını takip edin."
+  ],
+  "documents": [
+    "Tapu kayıt belgesi",
+    "Mahkeme tebligatı ve meşruhatlı davetiye",
+    "İdare tebligat evrakı",
+    "İmar planı ve uygulama askı tutanakları",
+    "Belediye encümen kararı"
+  ],
+  "faq": [
+    {
+      "q": "Tam yargı davası açmak için kime başvurulur?",
+      "a": "İdarenin hukuka aykırı eylem veya işlemlerinden zarar gören kişiler, ilgili idari yargı mercilerinde dava açabilir."
+    },
+    {
+      "q": "Kamulaştırma işlemine karşı dava açma süresi ne kadardır?",
+      "a": "Mahkemenin yaptığı tebligat gününden veya gazete ilanı tarihinden itibaren **otuz gün içinde** idari yargıda dava açılabilir."
+    },
+    {
+      "q": "Hisseli taşınmazlarda ortaklardan biri tek başına dava açabilir mi?",
+      "a": "İştirak halinde veya müşterek mülkiyette paydaşların tek başına dava açma hakları bulunmaktadır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "idari-dava-nasil-acilir",
+  "angle": "Tam yargı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

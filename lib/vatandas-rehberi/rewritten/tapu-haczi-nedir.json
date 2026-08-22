@@ -1,0 +1,112 @@
+{
+  "slug": "tapu-haczi-nedir",
+  "title": "Tapuya haciz nasıl konulur — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Tapuya haciz nasıl konulur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
+  "h1": "Tapuya haciz nasıl konulur?",
+  "keywords": [
+    "tapu haczi",
+    "gayrimenkul haczi"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "haciz-islemleri-nasil-yapilir",
+    "tapu-devri-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    }
+  ],
+  "lead": "Borçlunuzun gayrimenkulü olduğunu öğrendiniz ve alacağınızı güvenceye almak istiyorsunuz. Asıl soru, bu malın tapu siciline resmi olarak nasıl işleneceğidir.",
+  "keyInsight": "Haciz talebinin tapu siciline işlenmesiyle birlikte taşınmaz üzerindeki tasarruf hakkı kısıtlanır.",
+  "sections": [
+    {
+      "heading": "Haciz talebi nereye ve nasıl yapılır?",
+      "paragraphs": [
+        "Borçlunun adına kayıtlı bir gayrimenkul tespit ettiğinizde, icra dairesine başvurarak **taşınmaz üzerine haciz konulmasını** talep edersiniz. Bu talep doğrultusunda icra dairesi harekete geçer.",
+        "İcra dairesi, haczin ne miktar meblağ için yapıldığını, alacaklının adını ve tebliğe yarar adresini tapu siciline resmi olarak bildirir."
+      ],
+      "bullets": [
+        "İcra dairesi tapuya yazı yazar",
+        "Meblağ ve alacaklı bilgisi işlenir"
+      ]
+    },
+    {
+      "heading": "Tapu siciline işlenen şerhin anlamı nedir?",
+      "paragraphs": [
+        "İcra dairesinin bildirimi tapu siciline kaydedildiği anda, taşınmaz üzerindeki tasarruf hakkı kanuni sınırlamaya uğrar. Böylece borçlunun malı elden çıkarmasının önüne geçilir.",
+        "Adresinizde bir değişiklik olursa, masrafını vererek **yeni adresinizin tapuya bildirilmesini** icra dairesinden istemelisiniz."
+      ],
+      "bullets": [
+        "Tasarruf hakkı kısıtlanır",
+        "Adres değişiklikleri tapuya bildirilmelidir"
+      ]
+    },
+    {
+      "heading": "Haciz sürecinde diğer alacaklılar ve değişiklikler",
+      "paragraphs": [
+        "Taşınmaz üzerindeki hacze yeni alacaklılar iştirak edebilir veya mevcut haciz kalkabilir. Bu tür durumlarda da **ilgili hususlar tapu siciline** derhal bildirilir.",
+        "Hacizli taşınmazın el değiştirmesi durumunda ilgili kanun hükümleri uygulanarak süreç takip edilir."
+      ],
+      "bullets": [
+        "Yeni hacizler eklenebilir",
+        "Haczin kalkması tapuya bildirilir"
+      ]
+    },
+    {
+      "heading": "Ortak mülkler ve tescil edilmemiş haklar",
+      "paragraphs": [
+        "Eğer intifa hakkı veya taksim edilmemiş bir miras payı haczedilirse, icra dairesi yerleşim yerleri bilinen üçüncü kişilere durumu ihbar eder. Borçlunun tasfiye sonundaki hissesi bu şekilde güvenceye alınır.",
+        "Borçlunun henüz tapuya tescil ettirmediği mülkiyet hakları söz konusu olduğunda, **alacaklı tescil işlemini takip etmek** için icra dairesinden yetki isteyebilir."
+      ],
+      "bullets": [
+        "Üçüncü kişilere ihbar yapılır",
+        "Tescil edilmemiş haklar takip edilebilir"
+      ]
+    }
+  ],
+  "steps": [
+    "Borçlunun taşınmaz kaydını tespit edin",
+    "İcra dairesine haciz talebinde bulunun",
+    "İcra dairesinin tapu siciline bildirim yapmasını sağlayın",
+    "Adres değişikliklerini icra dairesine bildirerek tapuya işletin",
+    "Haciz ve iştirak durumlarını tapu sicilinden takip edin"
+  ],
+  "documents": [
+    "İcra takip dosyası",
+    "Haciz talep dilekçesi",
+    "Tapu sicil müdürlüğüne yazılacak müzekkere",
+    "Adres bildirim dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Tapu haczi için başvuru nereye yapılır?",
+      "a": "İcra takibinin yürütüldüğü icra dairesine başvurarak taşınmaz üzerine haciz konulması talep edilir."
+    },
+    {
+      "q": "Adresim değişirse ne yapmalıyım?",
+      "a": "Masrafını vermek suretiyle yeni adresinizin tapuya bildirilmesini icra dairesinden istemeye mecburarsınız."
+    },
+    {
+      "q": "Haciz tapuya nasıl işlenir?",
+      "a": "İcra dairesi; haczin miktarını, alacaklının adını ve tebliğ adresini tapu sicil müdürlüğüne bildirerek sicile işlenmesini sağlar."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Tapu şerhi haciz",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "kira-artis-orani-nasil-hesaplanir",
+  "title": "Kira Artış Oranı: TÜFE Tavanı ve Kira Tespit Davası",
+  "description": "Kira artışı en fazla ne kadar olabilir, TÜFE oniki aylık ortalama nasıl hesaplanır, tavan aşılırsa ne olur? TBK m.344-347 çerçevesinde kiracı ve kiraya veren için.",
+  "h1": "Kira artış oranı nasıl hesaplanır?",
+  "keywords": [
+    "kira artış oranı",
+    "kira artışı tüfe",
+    "kira zammı hesaplama",
+    "kira tespit davası",
+    "kira artışı yasal sınır"
+  ],
+  "category": "Kira",
+  "related": [
+    "kiraci-nasil-tahliye-edilir"
+  ],
+  "links": [
+    {
+      "label": "TBK m.344 — Kira bedelinin belirlenmesi",
+      "href": "/mevzuat/tbk/madde-344"
+    },
+    {
+      "label": "TBK m.345 — Dava açma süresi",
+      "href": "/mevzuat/tbk/madde-345"
+    },
+    {
+      "label": "TBK m.346 — Yasak ödemeler",
+      "href": "/mevzuat/tbk/madde-346"
+    },
+    {
+      "label": "TBK m.347 — Sözleşmenin sona ermesi",
+      "href": "/mevzuat/tbk/madde-347"
+    },
+    {
+      "label": "Kira artışı hesaplama aracı",
+      "href": "/hesaplama/kira"
+    }
+  ],
+  "lead": "Kira artış oranı, yasal olarak bir önceki kira yılındaki tüketici fiyat endeksinin on iki aylık ortalamalara göre değişim oranını geçemez. Taraflar sözleşmede daha yüksek bir oran belirlemiş olsalar dahi, yasal sınırın üzerindeki kısım geçersiz sayılır.",
+  "keyInsight": "Kira zammında esas alınan veri günlük hayatta konuşulan yıllık enflasyon değil, TÜİK tarafından açıklanan **tüketici fiyat endeksinin oniki aylık ortalamalara göre değişim oranı** verisidir.",
+  "sections": [
+    {
+      "heading": "Yasal sınır neye göre belirlenir?",
+      "paragraphs": [
+        "Kira sözleşmenizin yenilenme günü geldiğinde karşılaştığınız o meşhur artış oranının bir sınırı vardır. Kanunumuz, yenilenen kira dönemlerinde uygulanacak artışın bir önceki kira yılındaki **oniki aylık ortalamalara göre değişim oranını** geçemeyeceğini açıkça hükme bağlar.",
+        "Sözleşmenizde bu sınırın üzerinde bir artış oranı yazılmış olması, o maddenin tamamen geçersiz olduğu anlamına gelmez. Anlaşmanız yasal sınıra kadar geçerli kabul edilir, sınırı aşan kısım ise uygulanmaz. Eğer bugüne kadar fark etmeden bu sınırın üzerinde bir ödeme yaptıysanız, fazladan ödediğiniz tutarları geri isteme hakkınız bulunur.",
+        "Bu hesaplamada en çok karıştırılan nokta enflasyon türüdür. Geçmişte üretici fiyat endeksi esas alınırken, yapılan yasal değişiklikle birlikte artık yalnızca tüketici fiyat endeksi verileri kullanılmaktadır. Eski tarihli sözleşmelerde bu ayrıma özellikle dikkat edilmesi gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Sözleşmede artış maddesi yoksa ne olur?",
+      "paragraphs": [
+        "Sözleşmenizi elinize aldınız ve içinde zam yapılacağına dair hiçbir madde bulamadınız. Bu durumda kiraya veren kişi kendi kendine karar alıp kiranıza zam yapamaz. Kanun, tarafların anlaşamadığı bu senaryoda nihai kararı bağımsız bir hâkime bırakır.",
+        "Hâkim, kira bedelini bir önceki yılın tüketici fiyat endeksi sınırını geçmeyecek şekilde, kiralanan mülkün durumunu ve hakkaniyeti gözeterek belirler. Bu sürece girmeden önce, kira ilişkisinden kaynaklanan uyuşmazlıklarda **dava açmadan önce arabulucuya başvurulmuş olması** yasal bir zorunluluktur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kiraya veren sizden neleri isteyemez?",
+      "paragraphs": [
+        "Kira ilişkisinde kiracının sırtına kanun dışı yükler bindirilemez. Sözleşmeye ne yazılmış olursa olsun, kiracıdan kira bedeli ve apartman aidatı gibi yan giderler dışında başka hiçbir ad altında ödeme talep edilemez.",
+        "Özellikle kirayı geciktirmeniz ihtimaline karşı sözleşmeye konulan 'gecikme cezası' veya 'bir kira ödenmezse sonraki tüm aylar muaccel olur' gibi ağır şartlar kanunen **tümüyle geçersizdir**. Bu tarz maddelerin altına imza atmış olsanız bile hukuk karşısında hiçbir bağlayıcılığı yoktur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süre bittiğinde evden çıkarılma korkusu",
+      "paragraphs": [
+        "Kira sözleşmesinin süresinin dolması, kiraya verene doğrudan doğruya sizi evden çıkarma hakkı vermez. Belirli süreli sözleşmelerde kiracı, sürenin bitiminden **en az on beş gün** önce yazılı bildirimde bulunmadığı sürece sözleşme aynı koşullarla bir yıl uzamış sayılır.",
+        "Kiraya veren ancak **on yıllık uzama süresi** sonunda, bu süreyi takip eden her uzama yılının bitiminden en az üç ay önce yazılı bildirimde bulunarak herhangi bir gerekçe göstermeden sözleşmeyi sona erdirebilir. Bu süreler dolmadan 'kontrat bitti' diyerek tahliye talep edilemez."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Sözleşmenizin başlangıç tarihini ve kira yılının hangi ayda yenilendiğini tam olarak tespit edin.",
+    "Yenilenme ayına ait TÜİK TÜFE on iki aylık ortalama değişim oranını resmi verilerden kontrol edin.",
+    "Mevcut kira bedelini bu oranla çarparak ödeyebileceğiniz yasal tavan artış miktarını hesaplayın.",
+    "Sözleşmede yazan oran ile yasal tavanı karşılaştırıp düşük olan oranı uygulamaya esas alın.",
+    "Ev sahibiniz yasal sınırın üzerinde bir artış talep ediyorsa, yasal sınırı aşan kısma yazılı olarak itiraz edin ve yasal sınır üzerinden ödemenizi yapın."
+  ],
+  "documents": [
+    "Mevcut kira sözleşmesi",
+    "Önceki döneme ait banka kira dekontları",
+    "Artışın yapılacağı aya ait TÜİK TÜFE değişim oranı tablosu",
+    "Ev sahibine gönderilen yazılı artış veya itiraz bildirimleri"
+  ],
+  "faq": [
+    {
+      "q": "Sözleşmede yasal sınırın üzerinde bir zam oranı yazıyorsa ne olur?",
+      "a": "Yasal sınırı aşan kısım geçersizdir. Sözleşmedeki yüksek orana rağmen sadece yasal sınır kadar artış yapmanız yeterlidir. Fazladan ödenen tutarlar geri talep edilebilir."
+    },
+    {
+      "q": "Sözleşmede hiç artış maddesi yoksa ev sahibi zam yapabilir mi?",
+      "a": "Hayır, tek taraflı zam yapamaz. Anlaşma sağlanamazsa arabuluculuk sürecinin ardından mahkemeden kiranın tespit edilmesi talep edilmelidir."
+    },
+    {
+      "q": "Kirayı bir gün bile geciktirsem sözleşmedeki ceza maddesi işletilebilir mi?",
+      "a": "Hayır. Kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine dair sözleşme hükümleri kanunen tamamen geçersizdir."
+    },
+    {
+      "q": "Kira sözleşmesi bir yıl bittiğinde ev sahibi beni evden çıkarabilir mi?",
+      "a": "Hayır. Kiracı en az on beş gün önceden bildirmedikçe sözleşme otomatik uzar. Kiraya veren ancak on yıllık uzama süresi bittikten sonra gerekçesiz tahliye isteyebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

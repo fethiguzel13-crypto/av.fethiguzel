@@ -1,0 +1,116 @@
+{
+  "slug": "cek-karsiliksiz",
+  "title": "Karşılıksız Çek Şikayeti ve Süreç | Vatandaş Rehberi",
+  "description": "Karşılıksız çek durumunda ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
+  "h1": "Karşılıksız çek durumunda ne yapılır?",
+  "keywords": [
+    "karşılıksız çek",
+    "çek şikayeti",
+    "karşılıksız çek cezası"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "cek-karsiliksiz-ceza",
+    "cari-hesap-sozlesmesi",
+    "franchise-sozlesmesi",
+    "acente-sozlesmesi",
+    "tasima-sozlesmesi",
+    "ticaret-sicili-islemleri",
+    "ticari-defterler",
+    "unvan-tescili",
+    "ticari-arabuluculuk",
+    "teminat-mektubu",
+    "cek-ibraz-suresi",
+    "bono-vade"
+  ],
+  "links": [
+    {
+      "label": "Çek",
+      "href": "/kategori/cek"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Elindeki çeki bankaya götürdün ancak karşılığını alamadın. Hamilin şikayeti üzerine adli para cezası ve çek düzenleme yasağı gündeme gelir.",
+  "keyInsight": "Çekin karşılıksız kalması halinde, süresinde yapılan ibraz ve bankaya kaşeletme işlemi şikayet hakkı için kilit önem taşır.",
+  "sections": [
+    {
+      "heading": "Çek bankaya sunulur ve karşılığı aranır",
+      "paragraphs": [
+        "Elindeki çeki tahsil etmek için muhatap bankaya gidersin. Banka, hesapta para olup olmadığını kontrol eder ve ödeme yapmaya çalışır.",
+        "Eğer hesapta hiç para yoksa veya tutar yetersizse, banka **karşılıksızdır işlemi** yapar. Bu işlem çekin arka yüzüne yazılır ve banka yetkilisi tarafından imzalanır."
+      ],
+      "bullets": [
+        "Banka ödeme yükümlülüğü çerçevesinde kısmi ödeme yapabilir.",
+        "Arka yüzde ibraz tarihi ve ödenmeyen miktar açıkça belirtilir."
+      ]
+    },
+    {
+      "heading": "Şikayet hakkı ve dava yolu açılır",
+      "paragraphs": [
+        "Karşılıksız kalan çekle ilgili olarak hamilin şikayeti üzerine süreç başlar. Bu davalar icra mahkemesinde görüverir.",
+        "Mahkeme **adli para cezası**na hükmedebilir ve ayrıca çek düzenleme ile çek hesabı açma yasağına karar verir."
+      ],
+      "bullets": [
+        "Yargılama sırasında koruma tedbiri olarak yasak kararı verilebilir.",
+        "Görevli mahkeme banka şubesinin veya yerleşim yerinin bulunduğu yerdedir."
+      ]
+    },
+    {
+      "heading": "Kimler sorumluluk altındadır?",
+      "paragraphs": [
+        "Çek hesabındaki karşılığı bulundurmakla yükümlü olan kişi çek hesabı sahibidir. Hesap sahibi tüzel kişi ise mali işleri yürüten yönetim organı sorumludur.",
+        "Hakkında yasak kararı bulunan kişilerin yeniden çek düzenlemesi halinde daha ağır yaptırımlar uygulanır."
+      ],
+      "bullets": [
+        "Tüzel kişilerde yetkililer sorumluluk taşır.",
+        "Yasağa rağmen çek düzenleyenler hapis cezası ile karşılaşabilir."
+      ]
+    },
+    {
+      "heading": "Bankanın yükümlülükleri ve cezalar",
+      "paragraphs": [
+        "Muhatap banka, süresinde ibraz edilen çekler için kanunen ödemekle yükümlü olduğu miktarları hamile ödemek zorundadır.",
+        "Talebe rağmen karşılıksızdır işlemi yapmayan ya da ödemeyen banka görevlileri hakkında şikayet üzerine hapis cezası uygulanabilir."
+      ],
+      "bullets": [
+        "Bankalar belirli tutarları ödemekle yükümlüdür.",
+        "Gerçeğe aykırı işlem yapan görevlilere adli para cezası verilir."
+      ]
+    }
+  ],
+  "steps": [
+    "Çeki tahsil için muhatap bankaya ibraz et",
+    "Bankadan karşılıksızdır şerhini çekin arkasına yazdıt",
+    "Ödenmeyen kısım için bankanın ödeme yükümlülüğü tutarını kontrol et",
+    "İcra mahkemesine şikayet başvurusunda bulun",
+    "Yargılama sürecini takip et"
+  ],
+  "documents": [
+    "Karşılıksız çek yaprağı",
+    "Banka onaylı ve imzalı karşılıksızdır şerhi",
+    "Kimlik belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Karşılıksız çıkan çek için nereye başvurulur?",
+      "a": "Şikayet üzerine açılan davalar icra mahkemesinde görülür."
+    },
+    {
+      "q": "Çekin karşılığı yoksa banka ödeme yapar mı?",
+      "a": "Banka, kanunen ödemekle yükümlü olduğu sınırlı miktarları hamile ödemek zorundadır."
+    },
+    {
+      "q": "Kimler çek karşılığını bulundurmakla yükümlüdür?",
+      "a": "Çek hesabı sahibi veya tüzel kişilerde mali işleri yürüten yönetim organı üyeleri yükümlüdür."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "cek-karsiliksiz",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

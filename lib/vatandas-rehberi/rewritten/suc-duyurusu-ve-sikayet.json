@@ -1,0 +1,105 @@
+{
+  "slug": "suc-duyurusu-ve-sikayet",
+  "title": "Suç Duyurusu: Nereye Yapılır, Takipsizliğe Nasıl İtiraz Edilir?",
+  "description": "Suç duyurusu nereye ve nasıl yapılır, savcılık takipsizlik verirse ne olur, itiraz süresi ne kadar? CMK m.158 ve m.173 çerçevesinde.",
+  "h1": "Suç duyurusu nasıl yapılır?",
+  "keywords": [
+    "suç duyurusu",
+    "şikayet dilekçesi",
+    "savcılığa başvuru",
+    "takipsizlik kararı",
+    "kovuşturmaya yer olmadığına dair karar",
+    "takipsizliğe itiraz"
+  ],
+  "category": "Ceza",
+  "related": [
+    "usulsuz-tebligat-ve-itiraz"
+  ],
+  "links": [
+    {
+      "label": "CMK m.158 — İhbar ve şikâyet",
+      "href": "/mevzuat/cmk/madde-158"
+    },
+    {
+      "label": "CMK m.173 — Karara itiraz",
+      "href": "/mevzuat/cmk/madde-173"
+    }
+  ],
+  "lead": "Suç duyurusu, bir haksızlıkla karşılaştığınızda devletin ilgili birimlerini harekete geçirmek için attığınız ilk adımdır. Bu süreç, olayı net ve somut bir şekilde anlatmanıza dayanan resmi bir bildirimdir.",
+  "keyInsight": "Başvurunuzun ciddiye alınması için olayı genel ifadelerle değil, somut deliller ve kronolojik bir akışla anlatmanız şarttır.",
+  "sections": [
+    {
+      "heading": "Nereye başvurmalısınız?",
+      "paragraphs": [
+        "Suç duyurusu yapmak için en temel merci Cumhuriyet Başsavcılığıdır. Ancak acil durumlarda polis veya jandarma gibi kolluk birimlerine de gidebilirsiniz.",
+        "Yanlış bir kuruma başvursanız bile endişelenmeyin; valilik, kaymakamlık veya mahkemelere yapılan başvurular ilgili savcılığa iletilir. Yurt dışındaysanız Türkiye’nin elçilik ve konsoloslukları üzerinden de işlemlerinizi başlatabilirsiniz."
+      ],
+      "bullets": [
+        "Cumhuriyet Başsavcılığı",
+        "Polis veya jandarma karakolları",
+        "Elçilik ve konsolosluklar"
+      ]
+    },
+    {
+      "heading": "Başvuruyu nasıl yapmalı?",
+      "paragraphs": [
+        "Başvurunuzu yazılı bir dilekçe ile yapmanız, olayları kendi cümlelerinizle ve delillerinizle düzenli bir şekilde sunmanızı sağlar. Sözlü başvuruda ise anlatacaklarınızın tutanağa tam ve doğru geçirilmesi hayati önem taşır.",
+        "İmzanızı atmadan önce tutanağı mutlaka dikkatlice okuyun. Eksik veya hatalı bir ifade, soruşturmanın seyrini olumsuz etkileyebilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Dilekçede neler bulunmalı?",
+      "paragraphs": [
+        "Etkili bir dilekçe; ne olduğunu, ne zaman gerçekleştiğini ve elinizde hangi delillerin olduğunu açıkça ortaya koymalıdır. Olayı tarih sırasına göre anlatmanız yeterlidir; hangi suçun işlendiğini hukuksal terimlerle tanımlamanız gerekmez.",
+        "Tanık isimlerini, kamera kayıtlarının yerini, mesaj çıktılarını veya varsa raporlarınızı mutlaka dilekçenize ekleyin. **Somut deliller**, dosyanızın takipsizlikle sonuçlanmasını engelleyen en büyük güvencenizdir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Takipsizlik kararı gelirse ne yapmalı?",
+      "paragraphs": [
+        "Savcılık soruşturma sonucunda kovuşturmaya yer olmadığına dair bir karar verebilir. Bu, yolun sonu demek değildir; kararı **iki hafta içinde** sulh ceza hâkimliğine taşıyabilirsiniz.",
+        "İtiraz dilekçenizde sadece karara katılmadığınızı belirtmek yetmez. Hâkimliği ikna etmek için neden dava açılması gerektiğini, elinizdeki delillerin neden yeterli olduğunu detaylandırmanız gerekir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Olayı tarih sırasıyla ve tüm detaylarıyla yazılı bir dilekçeye dökün.",
+    "Tanık, kamera kaydı veya mesaj gibi tüm delillerinizi dilekçenize ekleyin.",
+    "Dilekçenizi en yakın adliyedeki müracaat savcılığına veya kolluk birimine teslim edin.",
+    "Başvuru numaranızı mutlaka alın ve dosyanızı sistem üzerinden takip edin.",
+    "Takipsizlik kararı gelirse tebliğ tarihini not edin.",
+    "Gerekli görürseniz iki hafta içinde sulh ceza hâkimliğine itiraz edin."
+  ],
+  "documents": [
+    "Olayı anlatan yazılı şikâyet dilekçesi",
+    "Varsa kamera kayıtları veya dijital yazışma çıktıları",
+    "Tanık isim ve iletişim bilgileri",
+    "Varsa doktor raporları veya banka dekontları"
+  ],
+  "faq": [
+    {
+      "q": "Suç duyurusu için avukat tutmak zorunlu mu?",
+      "a": "Hayır, şikâyetinizi bizzat kendiniz de yapabilirsiniz ancak karmaşık olaylarda hak kaybına uğramamak için profesyonel destek almanız önerilir."
+    },
+    {
+      "q": "Dilekçemde suçun adını yanlış yazarsam ne olur?",
+      "a": "Hiçbir şey olmaz. Hukuki nitelendirme savcılığın görevidir; siz sadece yaşadığınız olayı dürüstçe anlatın."
+    },
+    {
+      "q": "Takipsizlik kararına itiraz süresi kaç gündür?",
+      "a": "Kararın size tebliğ edildiği tarihten itibaren **iki hafta** içinde itiraz etmeniz gerekir."
+    },
+    {
+      "q": "Soyut şikâyet ne demektir?",
+      "a": "Olayın yer, zaman veya delil belirtilmeden genel ifadelerle anlatılmasıdır; bu durum dosyaların hızlıca reddedilmesine neden olur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.93,
+  "voice": "narrative",
+  "source": "gemini"
+}

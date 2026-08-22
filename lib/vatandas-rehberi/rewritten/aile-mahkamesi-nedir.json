@@ -1,0 +1,114 @@
+{
+  "slug": "aile-mahkamesi-nedir",
+  "title": "Aile mahkemesi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Aile mahkemesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata da…",
+  "h1": "Aile mahkemesi",
+  "keywords": [
+    "aile mahkemesi",
+    "aile mahkamesi nedir"
+  ],
+  "category": "Aile",
+  "related": [
+    "mal-rejimi-tasfiyesi",
+    "bosanma-davasi-nasil-acilir",
+    "velayet-davasi",
+    "gorevli-mahkeme-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/mal-rejimi-tasfiyesi"
+    },
+    {
+      "label": "Aile",
+      "href": "/kategori/aile-hukuku"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Evdeki huzursuzluklar çıkmaza girdiğinde ya da çocuk teslimi gibi hassas konularda yolunuz aile mahkemesine düşer. Doğru kapıyı çalmak, aylarca sürebilecek yanlış adımların önüne geçer.",
+  "keyInsight": "Aile mahkemesi karar ve işlemlerine karşı, **öğrenme veya tebliğ tarihinden itibaren bir hafta içinde** doğru mercie başvurmanız gerekir.",
+  "sections": [
+    {
+      "heading": "Hangi konular aile mahkemesine gider?",
+      "paragraphs": [
+        "Evlilik birliğinin sarsılması, boşanma, velayet uyuşmazlıkları ve nafaka meseleleri bu mahkemenin öncelikli konularıdır. Ayrıca şiddet mağdurlarının korunması ve çocuk teslimine ilişkin tedbirler de burada ele alınır.",
+        "Kanun, aile bireylerinin haklarını korumak için özel tedbir mekanizmaları öngörür. Şiddet tehlikesi veya aile içi olumsuzluklar yaşandığında **hâkim tarafından tedbir kararları** doğrudan verilebilir."
+      ],
+      "bullets": [
+        "Boşanma ve ayrılık davaları",
+        "Velayet ve çocukla kişisel ilişki",
+        "Şiddet önleme ve koruma tedbirleri"
+      ]
+    },
+    {
+      "heading": "Kararlara itiraz nasıl yapılır?",
+      "paragraphs": [
+        "Mahkemenin verdiği kararları yerinde bulmuyorsanız itiraz hakkınız saklıdır. Bu süreçte **iki hafta içinde** ilgili karara karşı aile mahkemesine başvurabilirsiniz.",
+        "İtiraz dilekçeniz verildikten sonra dosya incelenir ve merci kararını kısa süre içinde, kesin olarak verir."
+      ],
+      "bullets": [
+        "Tefhim veya tebliğ tarihi başlangıçtır",
+        "İtiraz edilen kararlar incelenir"
+      ]
+    },
+    {
+      "heading": "Çocuk teslimi ve kişisel ilişki süreçleri",
+      "paragraphs": [
+        "Mahkeme kararıyla belirlenen çocuk teslimi veya kişisel ilişki kurulması durumları rızayla yerine getirilmezse yetkili müdürlüklere başvurulabilir.",
+        "Yükümlü taraf çocuğu getirmezse kendisine teslim emri gönderilir ve **disiplin hapsiyle cezalandırılacağı** açıkça bildirilir."
+      ],
+      "bullets": [
+        "Müdürlük vasıtasıyla iletişim kurulur",
+        "Uyarı emri tebliğ edilir"
+      ]
+    },
+    {
+      "heading": "Yerleşim yeri ve mahkemenin bulunmadığı yerler",
+      "paragraphs": [
+        "Davaların ve başvuruların hangi yerde açılacağı kanuni düzenlemelere göre belirlenir. İşlemler sırasında yetkili yer kurallarına dikkat edilmelidir.",
+        "Eğer bulunduğunuz yerde müstakil bir aile mahkemesi yoksa, ilgili işler **asliye hukuk mahkemesi** tarafından yürütülür."
+      ],
+      "bullets": [
+        "Yerleşim yeri esastır",
+        "Tek daire veya Asliye Hukuk ayrımı gözetilir"
+      ]
+    }
+  ],
+  "steps": [
+    "Uyuşmazlığın aile mahkemesinin görev alanına girip girmediğini kontrol edin.",
+    "Boşanma, nafaka, velayet veya koruma talepleri için ilgili kurumlara başvurun.",
+    "Çocuk teslimi kararları rızayla yapılmazsa yetkili müdürlüğe gidin.",
+    "Karar veya tebligat sonrası süresi içinde itiraz hakkınızı kullanın.",
+    "Bulunduğunuz yerde aile mahkemesi yoksa asliye hukuk mahkemesine başvurun."
+  ],
+  "documents": [
+    "dilekçe",
+    "nüfus kayıt örneği",
+    "kimlik belgesi",
+    "mahkeme veya tedbir ilamı"
+  ],
+  "faq": [
+    {
+      "q": "Aile mahkemesi hangi davalara bakar?",
+      "a": "Boşanma, velayet, nafaka, çocuk teslimi ve ailenin korunmasına dair kanun kapsamındaki tedbir uyuşmazlıklarına bakar."
+    },
+    {
+      "q": "Verilen karara karşı ne kadar sürede itiraz edilir?",
+      "a": "Kanun hükümlerine göre verilen kararlara karşı tefhim veya tebliğ tarihinden itibaren iki hafta içinde itiraz edilebilir."
+    },
+    {
+      "q": "Bulunduğum yerde aile mahkemesi yoksa ne yapmalıyım?",
+      "a": "O yerde aile mahkemesi bulunmadığı durumlarda görevleri asliye hukuk mahkemesi yürütür."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "mal-rejimi-tasfiyesi",
+  "angle": "Aile mahkemesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

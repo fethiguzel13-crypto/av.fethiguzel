@@ -1,0 +1,100 @@
+{
+  "slug": "kefil-olursam-ne-olur",
+  "title": "Kefil olmanın riskleri — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Kefil olmanın riskleri hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
+  "h1": "Kefil olmanın riskleri",
+  "keywords": [
+    "kefil olmanın riskleri",
+    "kefil olursam ne olur"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "temerrut-faizi-nedir",
+    "kefalet-sozlesmesi",
+    "icra-takibi-nedir",
+    "senet-icra-takibi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/temerrut-faizi-nedir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Yakınınız sizden kefil olmanızı istediğinde imzalayacağınız kağıt, borcun tamamından şahsen sorumlu olmanız anlamına gelir. Asıl borçlu ödeme yapmadığında icra kapınızı çalar.",
+  "keyInsight": "Asıl borçluya karşı kesilen zamanaşımı doğrudan kefile de aynen yansır.",
+  "sections": [
+    {
+      "heading": "İmza atarken neye onay veriyorsunuz?",
+      "paragraphs": [
+        "Bir yakınınız bankadan kredi çekerken veya ticari bir borca girerken sizden destek ister. Siz sadece iyi niyetle imza atarsınız ancak **borcun ödenmemesi** halinde alacaklı doğrudan sizin kapınıza dayanır.",
+        "Asıl borçlunun borcu ödememesi veya takibe direnmesi durumunda sorumluluk tamamen size geçer. Alacaklı ilk olarak asıl borçluya gidebileceği gibi doğrudan sizin mal varlığınızı da hedef alabilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Borçlu ödeme yapmazsa süreç nasıl işler?",
+      "paragraphs": [
+        "Asıl borçlu borcunu ödemediğinde alacaklı yasal yollara başvurur. Bu süreçte borçlu borcu ikrar eder veya faiz öderse **zamanaşımı süresi** kesintiye uğrar.",
+        "Zamanaşımının asıl borçluya karşı kesilmesi durumunda bu durum **kefil için de geçerli** hale gelir ve borç sorumluluğunuz devam eder."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İflas ve aciz vesikası durumunda ne olur?",
+      "paragraphs": [
+        "Asıl borçlu iflas ettiğinde veya borç ödemeden aciz vesikası düzenlendiğinde süreç karmaşıklaşır. Müflisin kefil olduğu borçlar vadeleri gelmese bile **masaya zimmet** olarak kaydedilir.",
+        "Aciz vesikası düzenlenmesi durumunda kefiller borcun belirli kısımları için sonradan borçluya rücu edemez ve hukuki yükümlülükler altında kalır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Takas hakkı ve sorumluluk sınırı nedir?",
+      "paragraphs": [
+        "Asıl borçlunun alacaklıya karşı takas ileri sürme hakkı bulunduğu sürece **kefil de ifada bulunmaktan** kaçınma hakkına sahiptir.",
+        "Ancak bu koruma her durumda yeterli olmaz ve alacaklının icra takiplerinde kefil doğrudan borçlu konumuna düşebilir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Kefalet teklifini imzalamadan önce borcun miktarını ve ödeme şartlarını detaylıca inceleyin.",
+    "Asıl borçlunun mali durumunu ve ödeme gücünü tarafsız bir gözle değerlendirin.",
+    "Borcun ödenmemesi durumunda kendi bütçenizin bu yükü kaldırıp kaldıramayacağını hesaplayın.",
+    "İmza atmadan önce bir hukuk uzmanından resmi riskler hakkında bilgi alın."
+  ],
+  "documents": [
+    "Kefalet sözleşmesi metni",
+    "Asıl borçlunun gelir belgeleri",
+    "İcra takip dosyası evrakları",
+    "Aciz vesikası örnekleri"
+  ],
+  "faq": [
+    {
+      "q": "Asıl borçlu ödeme yapmazsa borcun tamamını ben mi öderim?",
+      "a": "Evet, alacaklı ödemeyi doğrudan sizden talep edebilir ve tüm mal varlığınıza haciz koydurabilir."
+    },
+    {
+      "q": "Asıl borçluya dava açılması beni nasıl etkiler?",
+      "a": "Borçluya karşı açılan davalar veya yapılan takipler zamanaşımını durdurur ve kefil olarak sizin sorumluluğunuzu da etkiler."
+    },
+    {
+      "q": "İflas durumunda kefilin sorumluluğu biter mi?",
+      "a": "Bitmez; müflisin kefil olduğu borçlar vadesi gelmemiş olsa bile iflas masasına kaydedilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "temerrut-faizi-nedir",
+  "angle": "Kefil olmanın riskleri",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

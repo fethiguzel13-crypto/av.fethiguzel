@@ -1,0 +1,104 @@
+{
+  "slug": "yonetici-secimi-site",
+  "title": "Site yöneticisi seçimi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Site yöneticisi seçimi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
+  "h1": "Site yöneticisi seçimi",
+  "keywords": [
+    "site yöneticisi seçimi",
+    "yonetici secimi site"
+  ],
+  "category": "Eşya",
+  "related": [
+    "kat-mulkiyeti-aidat",
+    "kat-mulkiyeti-genel-kurul",
+    "site-yonetim-plani"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kat-mulkiyeti-aidat"
+    },
+    {
+      "label": "Kat mülkiyeti",
+      "href": "/kategori/katmulkiyeti"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=y%C3%B6netici"
+    }
+  ],
+  "lead": "Site yöneticisi seçimi, kat maliklerinin bir araya gelerek ortak yaşam alanlarını yönetecek kişiyi belirleme sürecidir. Bu süreç, apartman veya sitenizin huzurlu işleyişi için hayati bir adımdır.",
+  "keyInsight": "Yönetici seçimi, kat malikleri kurulunda usulüne uygun şekilde gerçekleştirilen ve sonuçları karar defterine işlenen bir irade beyanıdır.",
+  "sections": [
+    {
+      "heading": "Yöneticiyi kim seçer?",
+      "paragraphs": [
+        "Sitede oturan herkesin yönetimde söz hakkı vardır. Yönetici, kat malikleri kurulu tarafından belirlenir. Bu kurul, binadaki tüm bağımsız bölüm sahiplerinden oluşur.",
+        "Seçim sırasında kat malikleri kendi aralarından birini seçebileceği gibi, dışarıdan profesyonel bir kişi veya şirketi de yönetici olarak atayabilirler."
+      ],
+      "bullets": [
+        "Kat malikleri kendi aralarından seçim yapabilir.",
+        "Dışarıdan profesyonel destek alınabilir.",
+        "Tüzel kişiler yani şirketler de yönetici olabilir."
+      ]
+    },
+    {
+      "heading": "Karar nasıl alınır?",
+      "paragraphs": [
+        "Yönetici seçimi için kat malikleri kurulu toplanır. Toplantıda alınan kararların geçerli olması için çoğunluk kuralına uyulması gerekir.",
+        "Alınan her karar, noter onaylı bir karar defterine yazılır ve toplantıya katılanlar tarafından imzalanır. Bu defter, yönetimin meşruiyetinin tek kanıtıdır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Dışarıdan yönetici atanırsa ne olur?",
+      "paragraphs": [
+        "Eğer dışarıdan bir yönetici veya şirket ile çalışmaya karar verirseniz, bu kişiyle yapılan sözleşme oldukça önemlidir. Görev süresi ve yetkileri bu sözleşme ile belirlenir.",
+        "Dışarıdan atanan yöneticinin görevine son verilmesi durumunda, kendisine site içinde tahsis edilmiş bir yer varsa, burayı **onbeş gün içerisinde** boşaltması gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreci yönetirken nelere dikkat edilmeli?",
+      "paragraphs": [
+        "Seçim süreci şeffaf olmalıdır. Kat maliklerinin haberdar edilmediği veya usulsüz yapılan bir seçim, ileride ciddi uyuşmazlıklara yol açar.",
+        "Yönetim planında aksine bir hüküm yoksa, seçimlerin düzenli aralıklarla yenilenmesi sitenizin idari sağlığı için **en temel kuraldır**."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Kat malikleri kurulunu toplantıya çağırın.",
+    "Adayları belirleyin ve oylama yapın.",
+    "Sonucu karar defterine işleyip imzalayın.",
+    "Seçilen yöneticiye yetki belgesini verin.",
+    "Gerekirse noter kanalıyla yöneticiyi tescil ettirin."
+  ],
+  "documents": [
+    "Kat malikleri kurulu karar defteri",
+    "Yönetim planı",
+    "Yönetici sözleşmesi",
+    "Toplantı çağrı tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "Yönetici seçimine katılmazsam ne olur?",
+      "a": "Kat malikleri kurulu tarafından alınan kararlar, toplantıya katılmasanız dahi tüm malikleri bağlar."
+    },
+    {
+      "q": "Yönetici seçimi yapılmazsa site nasıl yönetilir?",
+      "a": "Kat malikleri kendi aralarında bir yönetici seçmezse, herhangi bir kat malikinin başvurusu üzerine sulh mahkemesi tarafından bir yönetici atanabilir."
+    },
+    {
+      "q": "Profesyonel yöneticiyi görevden alabilir miyiz?",
+      "a": "Evet, kat malikleri kurulu her zaman toplanarak yöneticiyi görevden alma ve yeni bir seçim yapma hakkına sahiptir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kat-mulkiyeti-aidat",
+  "angle": "Site yöneticisi seçimi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

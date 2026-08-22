@@ -74,14 +74,20 @@ async def main() -> int:
                 )
             )
             if authish:
-                print(f"[auth] oturum sorunu, cookie yenileniyor: {e}", file=sys.stderr)
-                subprocess.run(
-                    ["notebooklm", "auth", "refresh", "--quiet"],
-                    check=False,
-                    timeout=120,
-                )
-                # Kullanici yetki verdi: gerekirse login de dene (tarayici)
-                if attempt == 1:
+                print(f"[auth] oturum sorunu, keepalive çalışıyor: {e}", file=sys.stderr)
+                helper = Path(__file__).with_name("notebooklm-keepalive.py")
+                if helper.is_file():
+                    subprocess.run(
+                        [sys.executable, str(helper)],
+                        check=False,
+                        timeout=360,
+                    )
+                else:
+                    subprocess.run(
+                        ["notebooklm", "auth", "refresh", "--quiet"],
+                        check=False,
+                        timeout=120,
+                    )
                     print("[auth] notebooklm login deneniyor...", file=sys.stderr)
                     subprocess.run(
                         ["notebooklm", "login"],

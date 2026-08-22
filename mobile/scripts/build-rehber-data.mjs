@@ -43,6 +43,7 @@ for (const a of published) {
     keywords: a.keywords ?? [],
     sections: a.sections ?? [],
     steps: a.steps ?? [],
+    documents: a.documents ?? [],
     faq: a.faq ?? [],
     checklist: a.checklist ?? [],
     table: a.table ?? null,

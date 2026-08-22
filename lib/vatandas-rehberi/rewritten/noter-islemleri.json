@@ -1,0 +1,113 @@
+{
+  "slug": "noter-islemleri",
+  "title": "Noter İşlemleri Nelerdir? Vekâletname | Vatandaş Rehberi",
+  "description": "Noterde hangi işlemler yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
+  "h1": "Noterde hangi işlemler yapılır?",
+  "keywords": [
+    "noter vekâletname",
+    "noter işlemleri",
+    "genel vekaletname"
+  ],
+  "category": "Usul",
+  "related": [
+    "vekaletname-azli",
+    "uyap-vatandas-portal",
+    "ihtarnama-nasil-cekilir",
+    "e-devlet-dava-dosyasi",
+    "noter-vekalet-ucreti",
+    "genel-vekaletname-risk",
+    "gayrimenkul-satis-vaadi",
+    "tapu-devri-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Noterde yapılacak işlemler, belgenin hukuki geçerlilik kazanması veya güvenli bir delil niteliği taşıması için resmiyet kazandırır. Bazı hukuki adımlar için noter onayı veya düzenlemesi şart koşulmuştur.",
+  "keyInsight": "Okuma yazma bilmeyen veya imza atamayacak durumda olan kişilerin parmak izi ya da mühürle yapacağı işlemlerin senet niteliği taşıması için noter **düzenleme** veya **onaylama** biçiminde işlem yapması gerekir.",
+  "sections": [
+    {
+      "heading": "İşleminiz için neden notere gidersiniz?",
+      "paragraphs": [
+        "Elimizdeki sözleşmelerin veya beyanların resmi bir nitelik kazanması gerektiğinde noter kapısı çalınır. Kimi işlemler sadece taraflar arasında kalabilirken, bazı kritik adımlar için kanun **noter huzurunda** yapılmayı zorunlu kılar.",
+        "Özellikle imza atamayan ya da okuma yazma bilmeyen kişilerin yapacağı işlemlerin geçerli bir senet sayılabilmesi için noterlik süreçleri devreye girer. Bu durum, iradenin resmi olarak kayıt altına alınmasını sağlar."
+      ],
+      "bullets": [
+        "İmza atamayanlar için mühür veya parmak izi",
+        "Düzenleme veya onaylama şeklinde işlem"
+      ]
+    },
+    {
+      "heading": "Düzenleme ile onaylama arasındaki fark nedir?",
+      "paragraphs": [
+        "Noterde yapılan her işlem aynı hukuki sonuç doğurmaz. Metnin noter tarafından bizzat kaleme alınıp oluşturulması **düzenleme biçimi** olarak adlandırılır.",
+        "Var olan bir belgedeki imzanın onaylanması ise **onaylama işlemi** kapsamındadır. Hangi yöntemin kullanılacağı, yapılacak işlemin niteliğine ve kişilerin durumuna göre belirlenir."
+      ],
+      "bullets": [
+        "Noter eliyle hazırlanan düzenleme biçimi",
+        "Mevcut imzanın tasdik edildiği onaylama biçimi"
+      ]
+    },
+    {
+      "heading": "İmza atamayanlar nasıl işlem yapar?",
+      "paragraphs": [
+        "Okuma yazma bilmediği ya da başka bir nedenle imza atamadığı için mühür, parmak izi veya bir alet kullanan kişilerin belgeleri ancak noter onayından geçerse senet niteliği kazanır.",
+        "Önceden noterde örneği saklanmak üzere onanmış parmak izi veya mühürler, cüzdanla işlem yapan kuruluşlardaki takiplerde ayrıca her seferinde yeniden onaylanmaya gerek duyulmadan kullanılabilir."
+      ],
+      "bullets": [
+        "Parmak izi veya mühür kullanımı",
+        "Noterde saklanan önceden onaylı örnekler"
+      ]
+    },
+    {
+      "heading": "İşlem sırasında nelere dikkat etmelisiniz?",
+      "paragraphs": [
+        "Noterlik işlemlerinde ilgili kişilerin kimlik tespiti ve irade beyanı eksiksiz olmalıdır. Yapılacak işlemin türüne göre harç, vergi ve değerli kâğıt bedelleri hesaplanır.",
+        "Kanunen öngörülen **usul ve esaslara** uyulması, ileride yaşanabilecek hak kayıplarının ve uyuşmazlıkların önüne geçer."
+      ],
+      "bullets": [
+        "Eksiksiz kimlik ve belge ibrazı",
+        "Yasal harç ve masrafların ödenmesi"
+      ]
+    }
+  ],
+  "steps": [
+    "Yapılacak işlemin noterlik tarafından düzenleme veya onaylama şeklinde yapılıp yapılmayacağını belirleyin.",
+    "Kimliğinizi ve işleme esas olacak bilgi ve belgeleri eksiksiz şekilde hazırlayın.",
+    "İmza atamama durumu varsa önceden noterde saklanacak imza, mühür veya parmak izi örneğini kaydedin.",
+    "İşlem için gerekli harç, vergi ve değerli kâğıt bedellerini ödeyin.",
+    "Noter tarafından düzenlenen veya onaylanan belgenizin onaylı suretini teslim alın."
+  ],
+  "documents": [
+    "Geçerli kimlik belgesi",
+    "İşleme esas teşkil eden sözleşme veya dilekçe taslağı",
+    "İmza atılamıyorsa noter onaylı mühür veya parmak izi örneği",
+    "İşlem harç ve masraflarının ödendiğini gösteren makbuz"
+  ],
+  "faq": [
+    {
+      "q": "Okuma yazma bilmeyen biri noterde nasıl işlem yapar?",
+      "a": "Okuma yazma bilmediği için imza atamayan kişilerin mühür, parmak izi veya alet kullanarak yapacağı işlemler noter tarafından düzenleme biçiminde oluşturulur."
+    },
+    {
+      "q": "Her işlemde yeniden imza veya mühür onayı gerekiyor mu?",
+      "a": "Cüzdanla işlem yapan kuruluşlarda kullanılacak mühür, işaret veya parmak izinin önceden noterde bir örneğinin saklanmak üzere onanmış bulunması yeterlidir; her işlem için ayrıca onama aranmaz."
+    },
+    {
+      "q": "Noter işlemlerinden harç alınır mı?",
+      "a": "Kanunda belirtilen usuller çerçevesinde noterlerce onaylanacak veya düzenlenecek senetler için ilgilisinden harç, vergi ve değerli kâğıt bedeli alınır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "noter-islemleri",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "kabul-nedir-usul",
+  "title": "Davayı kabul — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Davayı kabul hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
+  "h1": "Davayı kabul",
+  "keywords": [
+    "davayı kabul",
+    "kabul nedir usul"
+  ],
+  "category": "Usul",
+  "related": [
+    "zamanaşimi-nedir",
+    "sulh-nedir",
+    "feragat-nedir",
+    "ilamli-icra-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/zamanaşimi-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Mahkemeye çağrıldınız ve karşı tarafın talebini haklı buluyorsunuz. Davayı kabul etmek, uyuşmazlığın mahkeme huzurunda bittiği anlamına gelir.",
+  "keyInsight": "Davayı kabul beyanı, duruşma tutanağına geçirilmek zorundadır ve bu işlem davanın sona ermesini sağlar.",
+  "sections": [
+    {
+      "heading": "Mahkemede kabul nasıl yapılır?",
+      "paragraphs": [
+        "Kapıdan girdiniz, hâkim karşısındasınız. Süreci uzatmak istemiyorsunuz ve talebi onaylıyorsunuz.",
+        "Bu beyanınız, duruşma sırasında **tutanağa** yazılır ve tarafınıza okunarak imzanız alınır."
+      ],
+      "bullets": [
+        "Sözlü açıklama doğrudan tutanağa geçer",
+        "İmza atmadan önce tutanağı mutlaka okuyun"
+      ]
+    },
+    {
+      "heading": "Tebligat ve kabul zorunluluğu",
+      "paragraphs": [
+        "Evinize gelen evrakı bazen kendiniz alamazsınız veya evde başka bir yakınınız bulunur.",
+        "Muvakkaten başka yere gidenler veya yetkili kişiler, **tebliğ evrakını** kabule mecburdurlar."
+      ],
+      "bullets": [
+        "Evde bulunmama halinde komşu veya yöneticiye bildirilir",
+        "İhbarname kapıya yapıştırılır"
+      ]
+    },
+    {
+      "heading": "Arabuluculuk aşamasında kabul ve anlaşma",
+      "paragraphs": [
+        "Mahkemeden önce veya dava sırasında masaya oturdunuz. Taraflar anlaşmaya vardığında süreç resmileşir.",
+        "Anlaşmaya varılamadığına dair **son tutanak** dava dilekçesine eklenmek zorundadır."
+      ],
+      "bullets": [
+        "Süreç tutanakla belgelenir",
+        "Eksik belge için bir haftalık kesin süre verilir"
+      ]
+    },
+    {
+      "heading": "Müdahil olarak katılmak",
+      "paragraphs": [
+        "Devam eden bir uyuşmazlığa sonradan dahil olmak istiyorsunuz. Talebiniz onaylandığında haklarınız başlar.",
+        "Müdahale talebinin kabulü halinde müdahil, davayı ancak **bulunduğu noktadan** itibaren takip edebilir."
+      ],
+      "bullets": [
+        "Tarafın yararına olan savunmalar ileri sürülebilir",
+        "İşlemler müdahaile de tebliğ edilir"
+      ]
+    }
+  ],
+  "steps": [
+    "Mahkeme veya arabuluculuk çağrısı aldığınızda belgeleri inceleyin",
+    "Kabul beyanınızı açıkça ifade edin",
+    "Beyanınızın tutanağa eksiksiz geçtiğinden emin olun",
+    "Tutanaktaki bilgileri okuyarak imzalayın",
+    "Verilen süreler içinde gerekli belgeleri dosyaya sunun"
+  ],
+  "documents": [
+    "Dava dilekçesi",
+    "Arabuluculuk son tutanağı",
+    "Duruşma tutanağı",
+    "Tebligat mazbatası"
+  ],
+  "faq": [
+    {
+      "q": "Davayı kabul ettiğimi nasıl bildireceğim?",
+      "a": "Beyanınızı duruşma sırasında hâkime sözlü olarak iletebilir ve tutanağa yazderebilirsiniz."
+    },
+    {
+      "q": "Tebligat evrakını almaktan kaçınabilir miyim?",
+      "a": "Kanunen yetkili kişiler tebliğ evrakını kabule mecburdur; kaçınma durumunda evrak ilgili kurumlara teslim edilir ve tebligat yapılmış sayılır."
+    },
+    {
+      "q": "Arabuluculuk tutanağını unutsam ne olur?",
+      "a": "Mahkeme size bir haftalık kesin süre verir, bu sürede sunulmazsa dava usulden reddedilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "zamanaşimi-nedir",
+  "angle": "Davayı kabul",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

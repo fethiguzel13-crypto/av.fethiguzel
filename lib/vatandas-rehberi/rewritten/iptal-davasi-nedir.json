@@ -1,0 +1,113 @@
+{
+  "slug": "iptal-davasi-nedir",
+  "title": "İptal davası nedir? Nasıl açılır — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İptal davası nedir? Nasıl açılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
+  "h1": "İptal davası nedir? Nasıl açılır?",
+  "keywords": [
+    "iptal davası",
+    "idari iptal davası"
+  ],
+  "category": "İdare",
+  "related": [
+    "idari-dava-nasil-acilir",
+    "tam-yargi-davasi",
+    "tebligat-usulsuzlugu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/idari-dava-nasil-acilir"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    },
+    {
+      "label": "İçtihat",
+      "href": "/icthat"
+    }
+  ],
+  "lead": "İdarenin sizinle ilgili aldığı bir kararın, yaptığı işlemin veya uygulamanın hukuka aykırı olduğunu düşünüyorsanız iptal davası açabilirsiniz. Bu dava, idari işlemlerin yargı yoluyla ortadan kaldırılmasını sağlar.",
+  "keyInsight": "Dava açarken **idari yargı** yollarını ve ilgili süreleri kesinlikle kaçırmamalısınız.",
+  "sections": [
+    {
+      "heading": "Hangi durumlarda dava açabilirsiniz?",
+      "paragraphs": [
+        "Belediyeler, bakanlıklar veya diğer kamu kurumları sizin haklarınızı doğrudan etkileyen bir işlem tesis ettiğinde bu sürece dahil olursunuz. Örneğin, taşınmazınızla ilgili yapılan bazı idari işlemlerde veya kamulaştırma süreçlerinde kanuni yollara başvurma hakkınız doğar.",
+        "İdare tarafından alınan kararların hukuka aykırı olduğunu düşündüğünüzde, belirlenen **resmî süreler** içinde yargı yoluna gitmeniz gerekir."
+      ],
+      "bullets": [
+        "Belediye ve encümen kararları",
+        "Kamulaştırma ve imar işlemleri",
+        "İdari yaptırımlar ve cezalar"
+      ]
+    },
+    {
+      "heading": "Dava açarken nereye başvurulur?",
+      "paragraphs": [
+        "İptal davaları adliyelerde değil, idari yargı mercilerinde görülür. İşlemi yapan idarenin bulunduğu yerdeki yetkili mahkeme üzerinden süreç yürütülür.",
+        "Dava dilekçesinde idari işlemin neden hukuka aykırı olduğu somut gerekçelerle açıklanmalıdır."
+      ],
+      "bullets": [
+        "İdare mahkemeleri",
+        "Yetkili ve görevli mahkeme"
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırırsanız ne olur?",
+      "paragraphs": [
+        "İdari yargıda dava açmak için kanunlarda öngörülen süreler son derece katıdır. Süresinde açılmayan davalar mahkeme tarafından süre aşımı nedeniyle reddedilir.",
+        "Bu nedenle tebligat veya işlem tarihinden itibaren **zamanında hareket etmek** hak kaybını önlemenin tek yoludur."
+      ],
+      "bullets": [
+        "Süre aşımı riski",
+        "Hak kaybı"
+      ]
+    },
+    {
+      "heading": "Yanınızda hangi belgeler dursun?",
+      "paragraphs": [
+        "Dava açılış aşamasında idari işlemin yazılı örneği ve size yapılan tebligat belgesi en önemli delillerdir.",
+        "Eksik evrakla başvuru yapmamak için süreci netleştiren tüm yazışmaları dosyanızda saklayın."
+      ],
+      "bullets": [
+        "İşlem metni",
+        "Tebligat zarfı veya bildirimi"
+      ]
+    }
+  ],
+  "steps": [
+    "İdari işlemin size tebliğ edildiği günü veya öğrenme tarihini tespit edin.",
+    "İşlemi yapan idareyi ve yetkili yargı merciini belirleyin.",
+    "Dava dilekçesini hukuki gerekçeleriyle birlikte hazırlayın.",
+    "İşlem belgesi ve tebligat evrakını dilekçeye ekleyin.",
+    "Yetkili idare mahkemesine başvurunuzu yapın."
+  ],
+  "documents": [
+    "İptal edilmesi istenen idari işlem kararı",
+    "Tebligat alındısı veya ilan metni",
+    "Taşınmaz veya işlemle ilgili tapu ve imar belgeleri",
+    "Dilekçe"
+  ],
+  "faq": [
+    {
+      "q": "İptal davasını kimler açabilir?",
+      "a": "Hakkı ve menfaati ihlal edilen herkes bu davayı açma ehliyetine sahiptir."
+    },
+    {
+      "q": "Dava hangi mahkemede görülür?",
+      "a": "Uyuşmazlığa konu işlemi yapan idarenin bulunduğu yerdeki idari yargı mercilerinde görülür."
+    },
+    {
+      "q": "İşlemin uygulanması kendiliğinden durur mu?",
+      "a": "İptal davası açmak tek başına idari işlemin uygulanmasını durdurmaz; bunun için ayrıca yürütmenin durdurulması talep edilmelidir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "idari-dava-nasil-acilir",
+  "angle": "İptal",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

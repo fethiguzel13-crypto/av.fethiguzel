@@ -1,0 +1,100 @@
+{
+  "slug": "icra-sikayeti",
+  "title": "İcra müdürlüğü işlemine nasıl şikâyet edilir — Vatandaş Rehberi | Av. ",
+  "description": "İcra müdürlüğü işlemine nasıl şikâyet edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Po…",
+  "h1": "İcra müdürlüğü işlemine nasıl şikâyet edilir?",
+  "keywords": [
+    "icra şikayeti",
+    "icra müdürlüğü şikayet"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "icra-mahkemesi-nedir",
+    "haciz-islemleri-nasil-yapilir",
+    "tebligat-usulsuzlugu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "İcra müdürlüğünün usule, kanuna veya hakkınıza aykırı bir işlemini icra mahkemesi nezdinde şikâyet yoluyla inceletebilirsiniz. Süreci doğru yönetebilmek için işlemin türüne göre icra mahkemesine başvurulmalı ve kanuni şartlar eksiksiz yerine getirilmelidir.",
+  "keyInsight": "Şikâyet başvurusu doğrudan icra müdürlüğüne değil, icra dairesinin bağlı olduğu icra mahkemesine yapılır.",
+  "sections": [
+    {
+      "heading": "İcra dairesinin işlemi ne zaman şikâyet edilir?",
+      "paragraphs": [
+        "İcra dairesinde adınıza yürütülen takipte veya satış aşamasında usulsüz bir işlemle karşılaştınız. Şikâyet, icra müdürünün kanuna aykırı bir işlemini veya olaya uymayan kararını düzeltmek için icra mahkemesine başvurma yoludur. Örneğin kambiyo takibinde alacaklının takip hakkı bulunmadığı veya takibe konu belgenin kambiyo senedi niteliği taşımadığı durumlar icra mahkemesine iletilebilir.",
+        "Mahkeme usulüne uygun şekilde önüne gelen bu başvuruda, takibin dayanağı olan senedin niteliğini veya alacaklının takip hakkını kendiliğinden de dikkate alabilir. Ancak borç kabul edilmişse veya imza inkarı geri çekilmişse bu inceleme yapılmaz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İhalenin feshini şikâyet yoluyla istemek",
+      "paragraphs": [
+        "Bir taşınmaz satışı gerçekleştiğinde işlemlerde yolsuzluk olduğunu düşünüyorsanız hakkınızı arama yolunuz açıktır. İhalenin feshini; satış isteyen alacaklı, borçlu, resmi sicilde kayıtlı ilgililer, sınırlı ayni hak sahipleri ve pey süren katılımcılar ihale tarihinden itibaren **yedi gün** içinde isteyebilir.",
+        "Bu kişilerin dışında kalan birinin başvurusu mahkeme tarafından dosya üzerinden ve kesin olarak reddedilir. Ayrıca bu sayılan kişiler dışındakilerin yapacağı ihale feshi talebi nispi harca tabidir ve bu harcın yarısı başvuruda **peşin olarak** yatırılmalıdır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Tebligat usulsüzlükleri ve takibe etkisi",
+      "paragraphs": [
+        "Evrakın size veya iş yerinize yanlış şekilde tebliğ edilmesi hak kaybına yol açabilir. Belli bir yerde meslek veya sanatını icra edenlere tebligat yapılırken, kendileri bulunmazsa işlem daimi çalışanlarına veya müstahdemlerine yapılır.",
+        "Tebligat işlemlerinde veya tebliğ memurunun uygulamasında usulsüzlük bulunması halinde bu durum icra takibinin seyrini etkiler. Hak kayıplarının önüne geçmek için tebliğ evrakının ve tebliğ şeklinin dikkatle incelenmesi gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Başvuruda adres ve parasal sınır kuralları",
+      "paragraphs": [
+        "İcra mahkemesine başvururken dilekçenizde yurt içinde bir adres göstermek zorundasınız. Yurt içinde geçerli bir adres belirtilmemesi durumunda başvurunuz usulden engelle karşılaşabilir.",
+        "Ayrıca kanunda belirtilen parasal sınırlar her takvim yılı başında yeniden değerleme oranında artırılır. Şikâyet başvurularında ve kararların temyiz veya istinaf sınırlarında, başvurunun veya davanın **açıldığı tarihteki** miktar esas alınır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İcra dosyasındaki usulsüz işlemi ve şikâyete konu kararı tespit edin.",
+    "İlgili icra mahkemesine hitaben şikâyet dilekçenizi hazırlayın ve yurt içinde bir adres belirtin.",
+    "Harca tabi bir başvuru yapıyorsanız peşin yatırılması gereken harç ve gider avansını yatırın.",
+    "Dilekçenizi ve eklerini icra mahkemesi tevzi bürosuna teslim ederek takibi başlatın."
+  ],
+  "documents": [
+    "İcra mahkemesi şikâyet dilekçesi",
+    "Şikâyete konu icra dairesi karar tutanağı veya tebligat mazbatası",
+    "İhale tutanağı ve satış belgeleri (ihalenin feshi talepli şikâyetlerde)",
+    "Kimlik fotokopisi veya vekaletname"
+  ],
+  "faq": [
+    {
+      "q": "İhalenin feshini kimler şikâyet yoluyla isteyebilir?",
+      "a": "Satış isteyen alacaklı, borçlu, resmî sicilde kayıtlı ilgililer, sınırlı ayni hak sahipleri ve pey sürmek suretiyle ihaleye katılanlar isteyebilir."
+    },
+    {
+      "q": "İhalenin feshi şikâyeti kaç gün içinde yapılmalıdır?",
+      "a": "İhale tarihinden itibaren yedi gün içinde yurt içinde adres gösterilerek icra mahkemesinden istenmelidir."
+    },
+    {
+      "q": "Borç kabul edildiğinde senedin kambiyo vasfı şikâyet konusu yapılabilir mi?",
+      "a": "Hayır, borç kısmen veya tamamen kabul edilmişse ya da imza inkarı geri alınmışsa mahkeme senedin kambiyo vasfını re'sen dikkate alarak takibi iptal edemez."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Şikâyet",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

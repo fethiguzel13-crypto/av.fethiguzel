@@ -1,0 +1,109 @@
+{
+  "slug": "belediye-imar-para-cezasi",
+  "title": "İmar para cezası — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İmar para cezası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
+  "h1": "İmar para cezası",
+  "keywords": [
+    "imar para cezası",
+    "belediye imar para cezasi"
+  ],
+  "category": "İmar",
+  "related": [
+    "kentsel-donusum-nedir",
+    "kacak-yapi-cezasi",
+    "belediye-cezasi-itiraz",
+    "idari-dava-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kentsel-donusum-nedir"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    },
+    {
+      "label": "Belediye",
+      "href": "/kategori/belediye"
+    }
+  ],
+  "lead": "Belediyeden gelen imar para cezası ihbarnamesi kapınıza bırakıldığında telaşlanmayın, süreci ve atılacak adımları öğrenin. Eksik ruhsat veya projeye aykırı yapılar için idari para cezası kesilir.",
+  "keyInsight": "Belediye encümeninin kararını ve aykırılık tespitini **on iş günü içinde** yapması beklenir.",
+  "sections": [
+    {
+      "heading": "İmar para cezası kime ve nasıl kesilir?",
+      "paragraphs": [
+        "Kapınıza gelen zarf, belediye encümeninin aldığı bir cezayı bildirir. Ruhsatsız ya da projesine aykırı yapılar için yapı sahibine, müteahhide veya aykırılığı bildirmeyen fenni mesullere ceza yazılır.",
+        "Cezanın tutarı belirlenirken yapının sınıfı, metrekaresi, çevreye etkisi ve can emniyetini tehdit edip etmediği gibi kıstaslar göz önüne alınır."
+      ],
+      "bullets": [
+        "Yapı sahibi",
+        "Yapı müteahhidi",
+        "Fenni mesuller"
+      ]
+    },
+    {
+      "heading": "Belediye hangi süre içinde harekete geçer?",
+      "paragraphs": [
+        "İmar mevzuatına aykırı bir fiil veya hal tespit edildiğinde, ilgili idare encümeni **on iş günü içinde** sorumlular hakkında karar oluşturur.",
+        "Ayrıca ruhsatsız yapılan yapılarla ilgili aykırılığın idareye bildirilmesi için sorumlu kişilere belirli bir süre tanınmıştır."
+      ],
+      "bullets": [
+        "Tespit sonrası on iş günü",
+        "Aykırılığı bildirme yükümlülüğü"
+      ]
+    },
+    {
+      "heading": "Cezaya karşı hangi adımlar atılmalıdır?",
+      "paragraphs": [
+        "Ceza ihbarnamesi elinize ulaştığında vakit kaybetmeden tebligat tarihini ve zarf üzerindeki bilgileri kontrol edin. Hangi gerekçeyle ceza kesildiğini anlamak savunmanın ilk adımıdır.",
+        "Belediye birimlerinden ve ilgili dosya evrakından bilgi alarak projedeki durumu inceleyin."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yanınızda hangi belgeler bulunmalı?",
+      "paragraphs": [
+        "Belediye nezdinde yapılacak incelemelerde ve itiraz süreçlerinde elinizdeki resmi evraklar işinizi kolaylaştırır. Ruhsat, onaylı proje ve tebligat zarfı en önemli unsurlardır.",
+        "Eksik evrakla işlem yapmak süreci zorlaştıracağı için tüm dosyayı eksiksiz derleyin."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Tebligat zarfını ve içeriğini tarih bilgisiyle birlikte inceleyin.",
+    "Belediye imar müdürlüğüne giderek ceza dayanağı olan tutanağı isteyin.",
+    "Yapı sınıfı ve metrekare hesaplamalarının doğruluğunu kontrol edin.",
+    "Gerekli resmi evrakları ve ruhsat dosyasını bir araya getirin.",
+    "İtiraz veya dava süreci için hukuki destek alın."
+  ],
+  "documents": [
+    "İmar para cezası ihbarnamesi ve tebligat zarfı",
+    "Yapı ruhsatı",
+    "Onaylı mimari proje",
+    "Tapu senedi",
+    "Belediye tespit tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "İmar para cezası kimlere verilebilir?",
+      "a": "Yapı sahibine, yapı müteahhidine ve aykırılığı idareye bildirmeyen fenni mesullere ayrı ayrı verilebilir."
+    },
+    {
+      "q": "Ceza tutarı neye göre belirlenir?",
+      "a": "Yapının sınıfına, inşaat alanına, bulunduğu alanın özelliğine ve can mal emniyetini tehdit edip etmediğine göre hesaplanır."
+    },
+    {
+      "q": "Encümen kararını ne zaman alır?",
+      "a": "Aykırılığın tespit edildiği tarihten itibaren **on iş günü içinde** ilgili idare encümeni kararını verir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kentsel-donusum-nedir",
+  "angle": "İmar para cezası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

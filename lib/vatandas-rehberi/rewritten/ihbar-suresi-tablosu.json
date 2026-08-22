@@ -1,0 +1,112 @@
+{
+  "slug": "ihbar-suresi-tablosu",
+  "title": "İhbar Süreleri Tablosu (İş Kanunu) | Vatandaş Rehberi",
+  "description": "İş Kanunu bildirim (ihbar) süreleri tablosu. İhbar tazminatı ve kıdem ana sayfalarına link.",
+  "h1": "İhbar süreleri kaç hafta/ay?",
+  "keywords": [
+    "ihbar süreleri tablosu",
+    "bildirim süreleri iş kanunu"
+  ],
+  "category": "İş",
+  "related": [
+    "kidem-tazminati-nasil-alinir",
+    "ihbar-tazminati-nedir",
+    "is-sozlesmesi-feshi",
+    "kidem-tazminati-hesaplama"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kidem-tazminati-nasil-alinir"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/kidem"
+    }
+  ],
+  "lead": "İşten ayrılmaya karar verdiğinizde veya işten çıkarıldığınızda, çalışma sürenize göre değişen **bildirim sürelerine** uymanız gerekir.",
+  "keyInsight": "İhbar süreleri asgari olup sözleşmelerle artırılabilir ancak bu süreklere uymayan taraf tazminat ödemek zorundadır.",
+  "sections": [
+    {
+      "heading": "Çalışma sürenize göre ihbar süreleri nasıl hesaplanır?",
+      "paragraphs": [
+        "İş sözleşmesini bitirmeden önce durumun karşı tarafa bildirilmesi şarttır. Bu süre, işyerindeki kıdeminize yani çalışma sürenize doğrudan bağlıdır.",
+        "Süreler yasal olarak dört kademeye ayrılır ve her kademe için farklı bir takvim işletilir."
+      ],
+      "bullets": [
+        "Altı aydan az sürenler için iki hafta",
+        "Altı aydan bir buçuk yıla kadar olanlar için dört hafta",
+        "Bir buçuk yıldan üç yıla kadar olanlar için altı hafta",
+        "Üç yıldan fazla sürenler için sekiz hafta"
+      ]
+    },
+    {
+      "heading": "İhbar süresi yerine peşin ödeme yapılabilir mi?",
+      "paragraphs": [
+        "İşveren, bildirim süresine ait ücreti peşin vermek suretiyle iş sözleşmesini derhal feshedebilir.",
+        "Bu durumda işçinin **çalışmadan** ilgili sürenin ücretini alması sağlanır."
+      ],
+      "bullets": [
+        "İşveren peşin ödeme yaparak süreci hemen sonlandırabilir."
+      ]
+    },
+    {
+      "heading": "Bildirim şartına uyulmazsa ne olur?",
+      "paragraphs": [
+        "Bildirim şartına uymayan taraf, bildirim süresine ilişkin ücret tutarında **tazminat ödemek** zorunda kalır.",
+        "Bu tazminat hesabında ücrete ek olarak sağlanan para veya para ile ölçülebilir menfaatler de dikkate alınır."
+      ],
+      "bullets": [
+        "Kurala uymayan taraf tazminat öder."
+      ]
+    },
+    {
+      "heading": "Sözleşmelerle bu süreler değiştirebilir mi?",
+      "paragraphs": [
+        "Kanunda yer alan bu süreler asgari sınırlardır. Taraflar aralarındaki sözleşmeleri bu süreleri artıracak şekilde düzenleyebilir.",
+        "Ancak kanuni sınırların altına inen anlaşmalar geçerli kabul edilmez."
+      ],
+      "bullets": [
+        "Süreler sözleşmeyle artırılabilir."
+      ]
+    }
+  ],
+  "steps": [
+    "Toplam çalışma sürenizi ve kıdeminizi hesaplayın.",
+    "İlgili yasal süre kademesini belirleyin.",
+    "Bildirimi karşı tarafa yazılı olarak iletin.",
+    "İhbar süresi boyunca çalışmaya devam edin veya peşin ödeme şartlarını görüşün.",
+    "Hak edişlerinizi ve olası tazminat kalemlerini kontrol edin."
+  ],
+  "documents": [
+    "İş sözleşmesi metni",
+    "Hizmet dökümü",
+    "Maaş bordroları",
+    "Fesih bildirim yazısı"
+  ],
+  "faq": [
+    {
+      "q": "İhbar süresi çalışmadan kullandırılabilir mi?",
+      "a": "İşveren ihbar süresine ait ücreti peşin ödeyerek sözleşmeyi derhal feshedebilir."
+    },
+    {
+      "q": "İhbar süreleri sözleşmeyle azaltılabilir mi?",
+      "a": "Kanundaki süreler asgari olduğundan, bu süreler ancak artırılabilir, kanuni sınırın altına düşülemez."
+    },
+    {
+      "q": "İhbar tazminatı hesaplanırken sadece net maaş mı baz alınır?",
+      "a": "Ücrete ek olarak sağlanan para veya para ile ölçülmesi mümkün sözleşme ve kanundan doğan menfaatler de hesaba dahil edilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kidem-tazminati-nasil-alinir",
+  "angle": "Kıdeme göre bildirim süresi tablosu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

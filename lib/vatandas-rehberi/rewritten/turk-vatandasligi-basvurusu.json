@@ -1,0 +1,114 @@
+{
+  "slug": "turk-vatandasligi-basvurusu",
+  "title": "Türk vatandaşlığı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Türk vatandaşlığı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
+  "h1": "Türk vatandaşlığı",
+  "keywords": [
+    "türk vatandaşlığı",
+    "turk vatandasligi basvurusu"
+  ],
+  "category": "Yabancılar",
+  "related": [
+    "yabanci-ikamet-izni",
+    "calisma-izni-nedir",
+    "pasaport-basvurusu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/yabanci-ikamet-izni"
+    },
+    {
+      "label": "YUKK",
+      "href": "/kategori/yukk"
+    },
+    {
+      "label": "NHK",
+      "href": "/kategori/nhk"
+    }
+  ],
+  "lead": "Türkiye’de yasal kalış ve vatandaşlık süreçleri, ilgili kanunlar çerçevesinde yetkili makamlarca yürütülür. Başvurunuzun geçerli olabilmesi için doğru birimlere eksiksiz başvurmanız gerekir.",
+  "keyInsight": "Her işlem türünün mercii ve şekil şartı ayrıdır; yanlış birime yapılan başvurular süreci uzatır.",
+  "sections": [
+    {
+      "heading": "Hangi kurumla muhatapsınız?",
+      "paragraphs": [
+        "Yabancıların ülkeye girişinden kalışına kadar olan süreçte temel muhatap **İçişleri Bakanlığı** ve ilgili genel müdürlüktür. Başvurularınızda yetkili makamların talep ettiği usullere uymak zorundasınız.",
+        "Nüfus kayıtları ve vatandaşlık bağlamındaki istisnai statüler yurt içinde nüfus müdürlükleri, yurt dışında ise dış temsilcilikler aracılığıyla takip edilir."
+      ],
+      "bullets": [
+        "İçişleri Bakanlığı denetimi",
+        "Yurt içinde nüfus müdürlükleri",
+        "Yurt dışında dış temsilcilikler"
+      ]
+    },
+    {
+      "heading": "Vatansızlık tespiti nasıl yürür?",
+      "paragraphs": [
+        "Herhangi bir devletin vatandaşı olmayan kişilerin durumunun tespiti **Genel Müdürlükçe** yapılır. Bu kişilere Türkiye’de yasal ikamet hakkı sağlayan özel bir kimlik belgesi verilir.",
+        "Düzenlenen bu belge **ikamet izni yerine geçer** ve valilikler aracılığıyla yenilenir. Belge sahibi kişilerin Türkiye'de geçirdiği süreler yasal hesaplamalara dâhil edilir."
+      ],
+      "bullets": [
+        "Genel Müdürlük tespiti",
+        "Valilik işlemleri",
+        "İkamet yerine geçen belge"
+      ]
+    },
+    {
+      "heading": "Mavi Kartlıların kayıtları nerede tutulur?",
+      "paragraphs": [
+        "Doğumla Türk vatandaşı olup çıkma izni ile vatandaşlıktan ayrılanlar ve altsoyları için özel bir kütük tutulur. Bu kişilerin nüfus olaylarını yetkili mercilere bildirmesi **zorunludur**.",
+        "Kayıtlar elektronik ortamda muhafaza edilir ve hak sahipliği bu kütük üzerinden takip edilir."
+      ],
+      "bullets": [
+        "Elektronik kütük sistemi",
+        "Nüfus olaylarını bildirim yükümlülüğü"
+      ]
+    },
+    {
+      "heading": "Geçiş ve vize muafiyetleri nelerdir?",
+      "paragraphs": [
+        "Ülkeye girişte bazı kişilerden vize şartı aranmaz. Uluslararası anlaşmalar, cumhurbaşkanı kararları veya mevcut geçerli izinler bu muafiyetin temelini oluşturur.",
+        "Mücbir sebeplerle sınırları kullananlar veya belirli sürelerle liman şehirlerine çıkacak olan yabancılar için de özel düzenlemeler uygulanabilir."
+      ],
+      "bullets": [
+        "Anlaşma veya karar bazlı muafiyet",
+        "Geçerli izin sahipleri"
+      ]
+    }
+  ],
+  "steps": [
+    "Durumunuza uygun yasal statüyü belirleyin.",
+    "Yetkili merci olan ilgili müdürlüğe başvurun.",
+    "Kimlik ve ikamet belgelerinizi yetkili valiliğe teslim edin.",
+    "Nüfus olaylarınızı yurt içi veya yurt dışı temsilciliklere bildirin.",
+    "Belgelerinizin güncelliğini takip edin."
+  ],
+  "documents": [
+    "Geçerli pasaport veya yerine geçen belge",
+    "Vatansız Kişi Kimlik Belgesi (varsa)",
+    "İkamet veya çalışma izni belgesi",
+    "Mavi Kart (ilgili kişiler için)"
+  ],
+  "faq": [
+    {
+      "q": "Vatansız kişi kimliği nereden alınır?",
+      "a": "Vatansızlık tespiti yapıldıktan sonra belge, Genel Müdürlüğün uygun görüşü alınarak valiliklerce düzenlenir."
+    },
+    {
+      "q": "Mavi Kartlılar değişiklikleri nereye bildirmelidir?",
+      "a": "Yurt içinde nüfus müdürlüklerine, yurt dışında ise dış temsilciliklere beyan etmekle yükümlüdürler."
+    },
+    {
+      "q": "Vize muafiyetinden kimler yararlanabilir?",
+      "a": "Anlaşmalarla veya cumhurbaşkanı kararıyla muaf tutulanlar ile geçerli ikamet veya çalışma izni bulunanlar yararlanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "yabanci-ikamet-izni",
+  "angle": "Türk vatandaşlığı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

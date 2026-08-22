@@ -1,0 +1,100 @@
+{
+  "slug": "ihale-feshi-davasi",
+  "title": "İcra ihalesi nasıl bozulur — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İcra ihalesi nasıl bozulur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
+  "h1": "İcra ihalesi nasıl bozulur?",
+  "keywords": [
+    "ihalenin feshi",
+    "icra ihalesi iptal"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "icra-satis-ihalesi",
+    "icra-sikayeti",
+    "tapu-haczi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "İhale feshi, icra yoluyla yapılan satışın kanuna aykırı olduğu durumlarda başvurulan bir şikâyet yoludur. Bu süreçle satışın iptalini isteyebilirsiniz.",
+  "keyInsight": "İhalenin feshini talep etmek için ihale tarihinden itibaren en geç yedi gün içinde icra mahkemesine başvurmanız şarttır.",
+  "sections": [
+    {
+      "heading": "İhale süreci nasıl işler?",
+      "paragraphs": [
+        "Bir borç nedeniyle taşınmazınız icra yoluyla satışa çıkarıldığında, süreç bir ihale ile tamamlanır. İhale alıcısı, ihale kesinleştiği an mülkiyeti kazanmış olur.",
+        "İhale kesinleşene kadar taşınmazın yönetimi icra dairesine aittir. İhale alıcısı, taşınmazda oturan kişiden kira veya kullanım bedeli talep edebilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kimler ihalenin feshini isteyebilir?",
+      "paragraphs": [
+        "Herkes ihalenin feshi davası açamaz. Kanun, bu hakkı sadece belirli kişilere tanımıştır.",
+        "Satış isteyen alacaklı, borçlu, tapu sicilinde kayıtlı ilgililer, sınırlı ayni hak sahipleri ve ihaleye pey sürenler bu yola başvurabilir. Bu kişiler dışındakilerin talepleri mahkemece doğrudan reddedilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreyi kaçırınca ne olur?",
+      "paragraphs": [
+        "İhale feshi talebi için **yedi günlük** kesin bir süreniz bulunmaktadır. Bu süre ihale gününden itibaren başlar.",
+        "Süre geçtikten sonra yapacağınız başvurular dikkate alınmaz. Ayrıca, ihale sürecindeki yolsuzlukları en geç ihale günü öğrenmiş sayılırsınız."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Mali yükümlülükler nelerdir?",
+      "paragraphs": [
+        "İhalenin feshi talebinde bulunurken, bazı durumlarda nispi harç ödemeniz gerekebilir. Bu harcın yarısı peşin olarak yatırılmalıdır.",
+        "Talebiniz reddedilirse, yatırdığınız harç iade edilmez ve kalan harç tutarı da sizden tahsil edilir. Kabul edilirse harç iade edilir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İhale tarihini not edin.",
+    "Yedi günlük süre içinde icra mahkemesine şikâyet dilekçesi verin.",
+    "Gerekli ise nispi harcın yarısını yatırın.",
+    "Yurt içinde bir adres gösterin."
+  ],
+  "documents": [
+    "İcra dosyası bilgileri",
+    "İhale tutanağı",
+    "Harç makbuzu",
+    "Adres bilgisi"
+  ],
+  "faq": [
+    {
+      "q": "İhale feshi davası açınca satış bedelini ödemem gerekir mi?",
+      "a": "Evet, ihale alıcısı ihalenin feshi talep edilmiş olsa dahi satış bedelini yedi gün içinde ödemek zorundadır."
+    },
+    {
+      "q": "İhale kesinleşmeden mal teslim edilir mi?",
+      "a": "Hayır, ihale kesinleşmeden mal teslim olunmaz ve resmi sicilde alıcı adına tescil edilmez."
+    },
+    {
+      "q": "Başvurum reddedilirse ne olur?",
+      "a": "Talep reddedilirse yatırdığınız harç iade edilmez ve harcın kalan kısmı sizden tahsil edilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "İhalenin feshi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

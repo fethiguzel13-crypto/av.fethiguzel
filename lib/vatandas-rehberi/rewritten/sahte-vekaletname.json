@@ -1,0 +1,111 @@
+{
+  "slug": "sahte-vekaletname",
+  "title": "Sahte vekâletname — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Sahte vekâletname hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
+  "h1": "Sahte vekâletname",
+  "keywords": [
+    "sahte vekâletname",
+    "sahte vekaletname"
+  ],
+  "category": "Eşya",
+  "related": [
+    "izale-i-suyu",
+    "tapu-iptal-tescil",
+    "savcilik-suc-duyurusu",
+    "tapu-vekaleten-satis"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/izale-i-suyu"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    },
+    {
+      "label": "TCK",
+      "href": "/kategori/tck-malvarligi"
+    }
+  ],
+  "lead": "Evden uzaktasınız, telefonunuza bir tapu devri mesajı geliyor. Oysa siz kimseye yetki vermediniz. Sahte vekâletname tuzağı, gayrimenkul sahiplerinin rüyasına giren en büyük kabustur.",
+  "keyInsight": "Tapuda işlem yapılırken noterin ve kimliğin gerçekliği anında sorgulanmalı, şüphe duyulduğu an **hukuki süreç** başlatılmalıdır.",
+  "sections": [
+    {
+      "heading": "Sahte vekâletname nasıl anlaşılır?",
+      "paragraphs": [
+        "Posta kutunuza gelen bir evrak ya da e-Devlet üzerinden yapılan **tapu sorgulaması** sırasında mülkünüzün başka birine devredildiğini fark edersiniz. O an için dünyanız başınıza yıkılır; çünkü siz evinizde otururken birileri sizin adınıza imza atmıştır.",
+        "Bu işler genellikle sizinle iletişim kurulamayan dönemlerde, sahte kimliklerle noterlik bürolarında başlar. Noter görevlisi yoğunluktan veya ustaca hazırlanmış sahte belgeden dolayı durumu fark edemez ve yetki belgesi düzenlenir."
+      ],
+      "bullets": [
+        "e-Devlet üzerinden tapu kontrolü yapın",
+        "Tanımadığınız kişilerden gelen mesajları dikkate alın"
+      ]
+    },
+    {
+      "heading": "İlk anda ne yapmak gerekir?",
+      "paragraphs": [
+        "Panik yapıp zaman kaybetmek dolandırıcıların işine yarar. Hemen en yakın **karakola veya savcılığa** giderek suç duyurusunda bulunmalısınız. Evrakın sahte olduğunu ve rızanızın bulunmadığını açıkça tutanağa geçirtin.",
+        "Zaman, mülkünüzün üçüncü kişilere devredilmesini engellemek için hayati önem taşır. Tapu müdürlüğüne giderek taşınmazınız üzerine **ihtiyati tedbir** konulmasını sağlayacak resmi başvuruları hızla yapın."
+      ],
+      "bullets": [
+        "Vakit kaybetmeden suç duyurusu yapın",
+        "Tapuya şerh düşürülmesini isteyin"
+      ]
+    },
+    {
+      "heading": "Tapu iptali ve tescil davası",
+      "paragraphs": [
+        "Savcılık soruşturması sürerken, mülkünüzün tapusunu geri almak için hukuk mahkemesinde dava açmanız şarttır. Bu dava, sahte vekâletle yapılan işlemin hükümsüz olduğunu ve tapunun sizin adınıza yeniden tescil edilmesini sağlar.",
+        "Mahkeme sürecinde noter kayıtları, imza örnekleri ve güvenlik kamera görüntüleri tek tek incelenir. Gerçek imzanın size ait olmadığı bilirkişi raporuyla kesinleştiğinde haklılığınız ortaya çıkacaktır."
+      ],
+      "bullets": [
+        "Asliye Hukuk Mahkemesi'ne başvurun",
+        "Bilirkişi incelemesini bekleyin"
+      ]
+    },
+    {
+      "heading": "Süreci yönetirken nelere dikkat etmeli?",
+      "paragraphs": [
+        "Bu süreçte atacağınız her adım belgelere dayanmalıdır. Dolandırıcılar mülkü hızla başkasına devretmeye çalışabilir; bu yüzden tapu kaydına konulacak **tedbir şerhi** en büyük güvencenizdir.",
+        "Avukatınızla birlikte hareket ederek hem ceza soruşturmasını hem de tapu iptal hukuk davasını eş zamanlı yürütmek, hak kaybına uğramanızı engeller."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "e-Devlet üzerinden tapu kayıtlarınızı hemen kontrol edin.",
+    "Durumu fark ettiğiniz an en yakın karakola gidip şikayetçi olun.",
+    "Tapu müdürlüğüne giderek mülkünüzün durumunu bildirin.",
+    "Bir avukat eşliğinde tapu iptal ve tescil davası açın.",
+    "Tapu siciline ihtiyati tedbir konulması için talepte bulunun."
+  ],
+  "documents": [
+    "Tapu senedi fotokopisi",
+    "Nüfus cüzdanı",
+    "Savcılık suç duyurusu dilekçesi",
+    "e-Devlet tapu detay dökümü",
+    "Noter sahte vekâletname örneği"
+  ],
+  "faq": [
+    {
+      "q": "Evimi satmadığım halde başkası satabilir mi?",
+      "a": "Sahte kimlik ve sahte vekâletname ile maalesef bu tür dolandırıcılıklar yapılabilmektedir."
+    },
+    {
+      "q": "Tapuyu geri almak ne kadar sürer?",
+      "a": "Mahkemelerin iş yüküne ve dosyanın kapsamına göre süre değişiklik gösterir."
+    },
+    {
+      "q": "Mülkümü üçüncü bir kişiye devrettilerse ne olur?",
+      "a": "Dava sürecinde bu kişilerin durumu da mahkeme tarafından ayrıca değerlendirilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "izale-i-suyu",
+  "angle": "Sahte vekâletname",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

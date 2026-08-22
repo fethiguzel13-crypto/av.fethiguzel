@@ -1,0 +1,111 @@
+{
+  "slug": "kaza-tespit-tutanagi",
+  "title": "Kaza tespit tutanağı — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Kaza tespit tutanağı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
+  "h1": "Kaza tespit tutanağı",
+  "keywords": [
+    "kaza tespit tutanağı",
+    "kaza tespit tutanagi"
+  ],
+  "category": "Trafik",
+  "related": [
+    "trafik-kazasi-tazminati",
+    "trafik-sigortasi-hasar",
+    "kasko-hasar-sureci"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/trafik-kazasi-tazminati"
+    },
+    {
+      "label": "KTK",
+      "href": "/kategori/ktk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=kaza"
+    }
+  ],
+  "lead": "Trafik kazası sonrasında taraflar anlaşarak veya resmi ekipler çağrılarak kaza tespit tutanağı düzenleyebilir. Bu süreçte yetkili birimler olay yerinde gerekli denetim ve incelemeyi yapar.",
+  "keyInsight": "Kaza sonrasında düzenlenecek tutanaklar için ilgili kanun maddelerinde belirtilen görev ve yetki sınırlarına dikkat edilmelidir.",
+  "sections": [
+    {
+      "heading": "Olay yerinde ilk adım",
+      "paragraphs": [
+        "Trafik kazası meydana geldiğinde sürücüler ve ilgili kişiler panik yapmadan güvenliğin sağlanması için hareket etmelidir. Kanun, duran ve akan trafiğin düzenlenmesi ile denetlenmesi görevini ilgili bakanlık birimlerine vermiştir.",
+        "Kazanın ardından **trafik güvenliği** öncelikli olarak gözetilir ve taraflar arasında anlaşma sağlanamazsa yetkili ekipler çağrılır."
+      ],
+      "bullets": [
+        "Güvenlik önlemlerini alın",
+        "Trafik akışını kontrol edin"
+      ]
+    },
+    {
+      "heading": "Tutanak düzenleme yetkisi",
+      "paragraphs": [
+        "El konulan trafik kazalarında **trafik kaza tespit tutanağı** düzenleme yetkisi kanunla belirlenmiştir. Bu tutanaklar kazanın nasıl gerçekleştiğini ve kusur durumunu anlamak için kritik önem taşır.",
+        "Yetkili birimler olay yerinde tutanak tutar ve gerekli yasal işlemleri başlatır."
+      ],
+      "bullets": [
+        "Resmi ekiplerin gelmesini bekleyin",
+        "Tutanak bilgilerini kontrol edin"
+      ]
+    },
+    {
+      "heading": "Hasar ve sigorta süreçleri",
+      "paragraphs": [
+        "Kazaların ardından hasar tazminat ödemelerinin hızlandırılması amacıyla sigorta şirketlerince istenen bilgi ve belgeler ilgili kurumlardan temin edilir. Bu aşamada resmi kayıtlar esas alınır.",
+        "Sürücülerin sicil bilgileri ve kazaya ilişkin **istatistik verileri** elektronik ortamda toplanır ve değerlendirilir."
+      ],
+      "bullets": [
+        "Sigorta şirketine başvurun",
+        "Gerekli evrakı iletin"
+      ]
+    },
+    {
+      "heading": "Yol ve altyapı incelemeleri",
+      "paragraphs": [
+        "Kazaların oluş nedenleri araştırılırken yolun fiziki yapısı ve işaretlemeler de incelenir. Karayolları Genel Müdürlüğü bu konudaki önleyici teknik tedbirleri alır veya aldlır.",
+        "Kaza analiz sonuçlarına göre **altyapı eksiklikleri** tespit edilerek gerekli önlemlerin alınması sağlanır."
+      ],
+      "bullets": [
+        "Kaza nedenlerini inceleyin",
+        "Teknik raporları takip edin"
+      ]
+    }
+  ],
+  "steps": [
+    "Olay yerinde emniyet tedbirlerini alın",
+    "Trafik ekiplerine haber verin",
+    "Kaza tespit tutanağının düzenlenmesini sağlayın",
+    "Gerekli bilgi ve belgeleri sigorta şirketine iletin"
+  ],
+  "documents": [
+    "Trafik kaza tespit tutanağı",
+    "Sürücü belgesi",
+    "Araç tescil belgesi",
+    "Sigorta poliçesi"
+  ],
+  "faq": [
+    {
+      "q": "Kaza tespit tutanağını kim düzenler?",
+      "a": "El konulan trafik kazalarında trafik kaza tespit tutanağı yetkili trafik birimleri tarafından düzenlenir."
+    },
+    {
+      "q": "Hasar ödemeleri nasıl hızlandırılır?",
+      "a": "Sigorta şirketlerince istenen gerekli bilgi ve belgelerin eksiksiz sunulmasıyla süreç hızlandırılır."
+    },
+    {
+      "q": "Kaza nedenleri nasıl incelenir?",
+      "a": "Kazaların oluş nedenleri ile ilgili istatistik veriler toplanır, değerlendirilir ve yolun fiziki yapısı incelenir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "trafik-kazasi-tazminati",
+  "angle": "Kaza tespit tutanağı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

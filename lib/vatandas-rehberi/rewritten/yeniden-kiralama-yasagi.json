@@ -1,0 +1,99 @@
+{
+  "slug": "yeniden-kiralama-yasagi",
+  "title": "Tahliye Sonrası Yeniden Kiralama Yasağı | Vatandaş Rehberi",
+  "description": "İhtiyaç tahliyesi sonrası kiralama yasağı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portal…",
+  "h1": "İhtiyaç tahliyesi sonrası kiralama yasağı",
+  "keywords": [
+    "yeniden kiralama yasağı"
+  ],
+  "category": "Kira",
+  "related": [
+    "kiraci-nasil-tahliye-edilir",
+    "ihtiyac-nedeniyle-tahliye",
+    "kiraya-veren-haklari"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kiraci-nasil-tahliye-edilir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=tahliye"
+    }
+  ],
+  "lead": "Ev sahibiniz sizi ihtiyaç gerekçesiyle çıkardıysa, evi hemen başkasına kiralaması yasaktır. Bu kurala uymayan ev sahibi, size ciddi bir tazminat ödemek zorunda kalır.",
+  "keyInsight": "Ev sahibi haklı bir sebep olmaksızın evi üç yıl boyunca başka birine kiralayamaz.",
+  "sections": [
+    {
+      "heading": "Evinizden neden çıkarıldınız?",
+      "paragraphs": [
+        "Ev sahibi, taşınmaza kendisinin veya ailesinin ihtiyacı olduğunu belirterek tahliye talep edebilir. Bu süreç sonunda evden ayrıldığınızda, mülk sahibi evi boş tutmak veya kendi kullanmak zorundadır.",
+        "Ancak bazen ev sahipleri bu gerekçeyi sadece kiracıyı çıkarmak için kullanır. Kanun, bu kötü niyetli davranışın önüne geçmek için koruyucu bir kalkan sunar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yeniden kiralama yasağı nedir?",
+      "paragraphs": [
+        "Ev sahibi, ihtiyaç gerekçesiyle tahliye ettirdiği evi **üç yıl geçmedikçe** eski kiracısı dışında başka birine kiralayamaz. Bu süre, mülk sahibinin gerçekten bir ihtiyacı olup olmadığını test etmek için konulmuştur.",
+        "Eğer ev sahibi bu süre içinde evi başkasına verirse, yasağı ihlal etmiş sayılır. Aynı durum, taşınmazın yeniden inşa veya imar edilmesi durumunda da geçerlidir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İnşaat sonrası öncelik hakkınız var mı?",
+      "paragraphs": [
+        "Taşınmaz yeniden inşa veya imar edildiyse, eski kiracı olarak sizin yeni durumu ve kira bedeliyle kiralama konusunda öncelik hakkınız doğar.",
+        "Ev sahibi size yazılı bildirimde bulunmalıdır. Bu bildirimi takip eden **bir ay içinde** hakkınızı kullanmazsanız, ev sahibi evi başkasına kiralamakta özgürdür."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yasak delinirse ne olur?",
+      "paragraphs": [
+        "Ev sahibi bu yasağa aykırı davranırsa, eski kiracı olarak tazminat talep etme hakkınız doğar. Bu tazminat miktarı, son kira yılında ödediğiniz bir yıllık kira bedelinden az olamaz.",
+        "Tazminat talebiniz için mahkemeye başvurmadan önce arabuluculuk sürecini tamamlamanız gerektiğini unutmayın."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Evin yeni durumunu düzenli olarak kontrol edin.",
+    "Eski evinizin başkasına kiralandığını belgeleyin.",
+    "Arabuluculuk bürosuna başvurarak süreci başlatın.",
+    "Son kira yılınıza ait kira ödeme dekontlarını hazırlayın.",
+    "Tazminat davası açarak hakkınızı arayın."
+  ],
+  "documents": [
+    "Tahliye sonrası boşaltma tutanağı",
+    "Son kira yılını gösteren banka dekontları",
+    "Evin başkasına kiralandığına dair ilan veya kanıt",
+    "Arabuluculuk son tutanağı"
+  ],
+  "faq": [
+    {
+      "q": "Ev sahibi 'haklı sebep' ile kiralama yapabilir mi?",
+      "a": "Evet, ev sahibi haklı bir sebep varlığını kanıtlayabiliyorsa kiralama yasağı uygulanmaz."
+    },
+    {
+      "q": "Tazminat miktarı nasıl belirlenir?",
+      "a": "Tazminat, son kira yılında ödediğiniz toplam bir yıllık kira bedelinden az olmayacak şekilde hesaplanır."
+    },
+    {
+      "q": "Arabulucuya gitmek zorunlu mu?",
+      "a": "Evet, kira ilişkisinden kaynaklanan tazminat taleplerinde dava şartı olarak arabulucuya başvurmak zorunludur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kiraci-nasil-tahliye-edilir",
+  "angle": "Yeniden kiralama yasağı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

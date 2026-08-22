@@ -1,0 +1,116 @@
+{
+  "slug": "vekaletname-azli",
+  "title": "Vekâletname azli — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Vekâletname azli hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
+  "h1": "Vekâletname azli",
+  "keywords": [
+    "vekâletname azli",
+    "vekaletname azli"
+  ],
+  "category": "Usul",
+  "related": [
+    "noter-islemleri",
+    "hukuk-davasi-nasil-acilir",
+    "tapu-devri-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/noter-islemleri"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "Noter",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Avukatınızla yollarınızı ayırmaya karar verdiniz. Azil işlemi yapıldıktan sonra eski vekilin artık sizin adınıza işlem yapma yetkisi kalmaz ancak bu durumun ilgili yerlere bildirilmesi gerekir.",
+  "keyInsight": "Azil tek taraflı irade beyanıdır ancak hukuki sonuç doğurması için usulüne uygun yapılması ve ilgili mercilere bildirilmesi şarttır.",
+  "sections": [
+    {
+      "heading": "Neden azil yoluna gidilir?",
+      "paragraphs": [
+        "İşler istediğiniz gibi gitmediğinde veya güvensizlik duyduğunuzda avukatınıza verdiğiniz yetkiyi geri alabilirsiniz. Bu karar tamamen sizin iradenize bağlıdır ve gerekçe gösterme zorunluluğu yoktur.",
+        "Ancak bu adımı atmadan önce **eski vekâlet** ilişkisinin tasfiyesini ve yapılmış masrafların durumunu gözden geçirmeniz tavsiye edilir. Azil tek taraflı bir irade açıklamasıdır."
+      ],
+      "bullets": [
+        "Yetkiyi geri alma hakkı müvekkile aittir.",
+        "Gerekçe gösterme zorunluluğu bulunmaz."
+      ]
+    },
+    {
+      "heading": "Azil nasıl gerçekleştirilir?",
+      "paragraphs": [
+        "Avukatınızı azletmek istediğinizde noter aracılığıyla veya yazılı bir belgeyle bu iradenizi ortaya koyarsınız. İşlemin resmiyet kazanması sürecin sorunsuz ilerlemesini sağlar.",
+        "Düzenlenen **azilname** belgesinin ardından eski vekilin dava takip yetkisi ve işlem yapma ehliyeti sona erer. Mahkemede devam eden dosyalarda bu durum derhal tutanağa geçirilmelidir."
+      ],
+      "bullets": [
+        "Noterden resmi azilname düzenlenebilir.",
+        "Mahkeme dosyasına durum bildirilmelidir."
+      ]
+    },
+    {
+      "heading": "İlgili kurumlara bildirim yapılması",
+      "paragraphs": [
+        "Azil sadece avukata bildirmekle bitmez. Tapu, banka ve mahkemeler gibi **tebliğ** yapılacak yerlere durumun bildirilmesi hak kaybı yaşamamanız için kritik önem taşır.",
+        "Üçüncü kişilerin azilden haberdar olması, eski vekilin sizin adınıza yapabileceği olası yetkisiz işlemlerin önüne geçer."
+      ],
+      "bullets": [
+        "Tapu ve banka gibi kurumlara bildirim şarttır.",
+        "Üçüncü kişilerin bilgilenmesi sağlanmalıdır."
+      ]
+    },
+    {
+      "heading": "Yeni vekâletname düzenlenmesi",
+      "paragraphs": [
+        "Eski avukatınızla ilişkiyi kopardıktan sonra davalarınızı takip etmesi için **yeni vekâlet** çıkarma ihtiyacı doğabilir. Bu aşamada e-Devlet veya UYAP üzerinden eski yetkilerin kalktığını mutlaka kontrol edin.",
+        "Yeni vekilin dava şartları arasında yer alan vekâlet ehliyetine sahip olması ve usulüne uygun düzenlenmiş belgenin dosyaya sunulması gerekir."
+      ],
+      "bullets": [
+        "UYAP üzerinden yetki sorgulaması yapın.",
+        "Yeni vekili dosyaya bildirin."
+      ]
+    }
+  ],
+  "steps": [
+    "Azil beyanını noterde veya yazılı yapın.",
+    "Eski vekile ve ilgili kurumlara (tapu, banka, mahkeme) bildirin.",
+    "e-Devlet / UYAP vekâlet sorgusunu kontrol edin.",
+    "Yeni vekâletname düzenleyin.",
+    "Azil öncesi yapılan işlemlerin geçerliliğini sorun."
+  ],
+  "documents": [
+    "eski vekâlet",
+    "azilname",
+    "tebliğ",
+    "yeni vekâlet"
+  ],
+  "faq": [
+    {
+      "q": "Avukatı azletmek için gerekçe göstermek şart mı?",
+      "a": "Hayır, vekâletten azil tek taraflı bir haktır ve herhangi bir gerekçe göstermeden yapılabilir."
+    },
+    {
+      "q": "Azil işlemi hangi kurumlar üzerinden yapılır?",
+      "a": "İşlem genellikle noter aracılığıyla gerçekleştirilir ve ilgili mahkemeler ile kurumlara bildirilir."
+    },
+    {
+      "q": "Azirden sonra eski avukat dosyamda işlem yapabilir mi?",
+      "a": "Usulüne uygun azil ve bildirim yapıldıktan sonra eski vekilin sizin adınıza işlem yapma yetkisi kalmaz."
+    },
+    {
+      "q": "Azil sonrası yeni avukat nasıl atanır?",
+      "a": "Noterden yeni bir vekâletname düzenlenerek ilgili mahkeme dosyasına sunulur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "noter-islemleri",
+  "angle": "Vekâletname azli",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

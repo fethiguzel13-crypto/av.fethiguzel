@@ -1,0 +1,122 @@
+{
+  "slug": "tmk-nedir",
+  "title": "TMK nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "TMK nedir hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "TMK nedir",
+  "keywords": [
+    "tmk nedir",
+    "tmk nedir"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "kanun-maddesi-nasil-okunur",
+    "tbk-nedir",
+    "miras-payi-nasil-hesaplanir",
+    "bosanma-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kanun-maddesi-nasil-okunur"
+    },
+    {
+      "label": "TMK",
+      "href": "/mevzuat/tmk/madde-1"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=TMK"
+    }
+  ],
+  "lead": "Türk Medeni Kanunu, kısaca TMK, hayatımızın en temel ilişkilerini düzenleyen kurallar bütünüdür. Doğumdan ölüme kadar başımıza gelen hemen her hukuki durumun çatısını bu kanun çizer.",
+  "keyInsight": "Hâkim, kanunda açık bir kural bulamadığı diye dosyayı kapatamaz; aksine o meseleyi çözmek zorundadır.",
+  "sections": [
+    {
+      "heading": "Kanun önünüze geldiğinde neye bakılır?",
+      "paragraphs": [
+        "Bir uyuşmazlık çıktığında ilk bakılacak yer yazılı metindir. Ancak kanunlar her küçük ayrıntıyı tek tek yazamaz. Sözüyle ve özüyle yazılan her kural, hayatın içindeki olaylara doğrudan uygulanmak zorundadır.",
+        "Metin sadece kelimelerden ibaret değildir; o kuralın arkasındaki mantık ve amaç da aranır."
+      ],
+      "bullets": [
+        "Yazılı metin esastır",
+        "Kuralın ruhu gözetilir"
+      ]
+    },
+    {
+      "heading": "Yazılı kanunda kural yoksa ne olur?",
+      "paragraphs": [
+        "Hayat bazen kanunların yazmadığı sürprizler getirir. Mahkemeye gittiğinizde aradığınız cümleyi kanun kitaplarında bulamayabilirsiniz. Bu durum hâkimin 'bu konuda kural yok, karar veremem' demesini asla gerektirmez.",
+        "Böyle bir boşlukla karşılaşıldığında devreye toplumun ortak alışkanlıkları ve yaşam kuralları girer."
+      ],
+      "bullets": [
+        "Boşlukta hayat durmaz",
+        "Toplumsal kurallar incelenir"
+      ]
+    },
+    {
+      "heading": "Örf ve adet hukuku nerede devreye girer?",
+      "paragraphs": [
+        "Yazılı kanun susarsa, o toplumda kökleşmiş, herkesin uyduğu ve geçerli kabul ettiği örf ve adetler aranır. Hâkim, mahkeme salonunda bu yazısız kurallara bakarak bir yol çizebilir.",
+        "Ancak her örf kural olarak kabul görmez; adalete ve hakkaniyete uygun olması beklenir."
+      ],
+      "bullets": [
+        "Kökleşmiş alışkanlıklar aranır",
+        "Hakkaniyet süzgeci kullanılır"
+      ]
+    },
+    {
+      "heading": "Hâkim kanun koyucu gibi nasıl davranır?",
+      "paragraphs": [
+        "Ne yazılı kanunda ne de örf ve adette somut olayın çözümü bulunamadığı nadir anlar olabilir. İşte o an hâkim, sanki o kuralı koyacak yetkili bir meclis üyesiymiş gibi düşünür.",
+        "Kendisi kanun koyucu olsaydı nasıl bir adil kural koyacak idiyse, o mantıkla kararını üretir ve adaleti sağlar."
+      ],
+      "bullets": [
+        "Hâkim kural yaratır",
+        "Adalet akılla aranır"
+      ]
+    },
+    {
+      "heading": "Karar verirken nereden yardım alınır?",
+      "paragraphs": [
+        "Hâkim kararını tek başına bir tahminle vermez. Bu süreçte daha önce verilmiş mahkeme kararlarını ve konuyu inceleyen bilimsel görüşleri titizlikle inceler.",
+        "Uzmanların yazdığı makaleler, kitaplar ve yüksek mahkeme eğilimleri bu adımlarda rehber olur."
+      ],
+      "bullets": [
+        "Bilimsel görüşler taranır",
+        "Yargı kararları incelenir"
+      ]
+    }
+  ],
+  "steps": [
+    "Uyuşmazlık konusunu netleştirin.",
+    "İlgili yazılı kanun maddelerini inceleyin.",
+    "Kanunda hüküm yoksa toplumsal kuralları araştırın.",
+    "Hâkimin karar sürecindeki bilimsel görüşleri takip edin."
+  ],
+  "documents": [
+    "Dilekçe",
+    "Uyuşmazlığı gösteren belgeler",
+    "İlgili mahkeme dosyası"
+  ],
+  "faq": [
+    {
+      "q": "Kanunda hüküm yoksa dava reddedilir mi?",
+      "a": "Hayır, hâkim kanun boşluğunu doldurmak ve karar vermek zorundadır."
+    },
+    {
+      "q": "Hâkim karar verirken nereden destek alır?",
+      "a": "Örf ve adetlerden, bilimsel görüşlerden ve diğer yargı kararlarından yararlanır."
+    },
+    {
+      "q": "TMK neyi ifade eder?",
+      "a": "Türk Medeni Kanunu'nu ifade eder ve temel hak ve ilişkileri düzenler."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kanun-maddesi-nasil-okunur",
+  "angle": "TMK nedir",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

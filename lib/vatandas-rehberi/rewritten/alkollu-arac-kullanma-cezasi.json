@@ -1,0 +1,111 @@
+{
+  "slug": "alkollu-arac-kullanma-cezasi",
+  "title": "Alkollü Araç Kullanma Cezası | Vatandaş Rehberi",
+  "description": "Alkollü araç kullanmanın cezası nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
+  "h1": "Alkollü araç kullanmanın cezası nedir?",
+  "keywords": [
+    "alkollü araç cezası",
+    "promil cezası"
+  ],
+  "category": "Trafik",
+  "related": [
+    "trafik-cezasina-itiraz",
+    "ehliyet-geri-alma",
+    "trafik-guvenligini-tehlikeye-sokma"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/trafik-cezasina-itiraz"
+    },
+    {
+      "label": "KTK",
+      "href": "/kategori/ktk"
+    },
+    {
+      "label": "TCK",
+      "href": "/kategori/tck-toplum"
+    }
+  ],
+  "lead": "Direkt başa saralım: Alkollü araç kullandığınızda kolluk kuvvetleri tarafından teknik cihazlarla ölçüm yapılır ve yasal sınırın üzerindeki durumlarda para cezası ile sürücü belgesine el koyma işlemi uygulanır.",
+  "keyInsight": "Ölçüme itiraz etmeniz veya cihazı reddetmeniz halinde adli kurumlarda kan, tükürük veya idrar örneği verilmesi zorunludur.",
+  "sections": [
+    {
+      "heading": "Denetim anında neler yaşanır?",
+      "paragraphs": [
+        "Trafikte durdurulduğunuzda alkol, uyuşturucu veya uyarıcı madde kontrolü için kolluk görevlileri teknik cihazlar ve test kitleri kullanır. Yaralanmalı, ölümlü ya da kolluğun müdahil olduğu maddi hasarlı bir kazaya karıştıysanız bu muayeneye **tabi tutulmanız zorunludur**.",
+        "Cihaz ölçümüne itiraz etme hakkınız vardır ancak bu durumda en yakın adli tıp kurumuna, adli tabipliğe veya Sağlık Bakanlığına bağlı sağlık kuruluşlarına götürülürsünüz."
+      ],
+      "bullets": [
+        "Teknik cihazla ölçüm yapılması",
+        "Kazaya karışılması halinde test zorunluluğu"
+      ]
+    },
+    {
+      "heading": "Ölçüm sonucu ne tür yaptırımlar doğurur?",
+      "paragraphs": [
+        "Yapılan tespit sonucunda yasal sınırın üzerinde alkollü araç kullandığınız belirlenirse, fiiliniz başka bir suç oluştursa dahi adli süreçten bağımsız olarak idari para cezası kesilir.",
+        "Sürücü belgeniz belirli bir süreyle geri alınır. Hususi otomobil dışındaki araçları kullananlar için uygulanan alt sınırlar ve kurallar farklılık gösterebilir."
+      ],
+      "bullets": [
+        "İdari para cezası uygulanması",
+        "Sürücü belgesine el konulması"
+      ]
+    },
+    {
+      "heading": "Tekrarlanan ihlallerde süreç nasıl işler?",
+      "paragraphs": [
+        "Alkollü araç kullanma nedeniyle sürücü belgeniz geri alındıktan sonra, geriye doğru bakılan süre zarfında aynı kuralı tekrar ihlal ederseniz **cezalar katlanarak artar**.",
+        "Her yeni ihlalde para cezası yükselir ve sürücü belgelerinin geri alınma süreleri daha uzun yıllara çıkar."
+      ],
+      "bullets": [
+        "Geriye dönük süre hesaplaması",
+        "Artan para cezaları ve uzun süreli belge iptalleri"
+      ]
+    },
+    {
+      "heading": "Ölçüme müsaade etmeme durumu ne doğurur?",
+      "paragraphs": [
+        "Trafik kontrolünde teknik cihazla ölçüm yapılmasına müsaade etmeyen sürücüler kolluk marifetiyle sağlık kuruluşlarına sevk edilir.",
+        "Bu kuruluşlarda vücudunuzdan kan, tükürük veya idrar örnekleri alınarak tahlil yapılır ve süreç ilgili mevzuat hükümleri çerçevesinde yürütülür."
+      ],
+      "bullets": [
+        "Sağlık kuruluşuna sevk",
+        "Biyolojik örnek alınması"
+      ]
+    }
+  ],
+  "steps": [
+    "Kolluk kuvvetlerinin teknik cihazla ölçüm çağrısına uyun.",
+    "Sonuca itiraz edecekseniz yasal sağlık kuruluşlarına sevk işlemini bekleyin.",
+    "Gerekli biyolojik örneklerin alınması sürecine katkı sağlayın.",
+    "Tarafınıza düzenlenen tutanak ve idari para cezası evraklarını inceleyin."
+  ],
+  "documents": [
+    "Sürücü belgesi",
+    "Araç tescil belgesi",
+    "Trafik idari para cezası tutanağı",
+    "Sağlık kuruluşu tahlil raporu"
+  ],
+  "faq": [
+    {
+      "q": "Alkol ölçüm cihazına üflemeyi reddetsem ne olur?",
+      "a": "Ölçüme müsaade etmeyen veya itiraz eden sürücüler en yakın adli tıp kurumuna, adli tabipliğe veya sağlık kuruluşuna götürülerek kan, tükürük veya idrar örneği alınması sağlanır."
+    },
+    {
+      "q": "Hususi otomobil dışındaki araçlar için sınır aynı mı?",
+      "a": "Hayır, hususi otomobil dışındaki araçları alkollü olarak kullanan sürücüler bakımından promil alt sınırı farklı bir oran olarak uygulanır."
+    },
+    {
+      "q": "Cezayı kaç kez tekrarlarsam ehliyetim uzun süreli alınır?",
+      "a": "Son ihlalin gerçekleştiği tarihten geriye doğru belirlenen süreler içinde ikinci ve sonraki tekrarlarda para cezaları artar ve sürücü belgeleri iki ile beşer yıl arasında geri alınır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "trafik-cezasina-itiraz",
+  "angle": "Alkol cezası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

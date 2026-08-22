@@ -1,0 +1,106 @@
+{
+  "slug": "cevre-izin-lisans",
+  "title": "Çevre izin lisans — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Çevre izin lisans hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
+  "h1": "Çevre izin lisans",
+  "keywords": [
+    "çevre izin lisans",
+    "cevre izin lisans"
+  ],
+  "category": "İdare",
+  "related": [
+    "cimer-sikayet",
+    "cevre-izin-denetim",
+    "is-yeri-acma-ruhsati",
+    "idari-dava-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/cimer-sikayet"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=%C3%A7evre"
+    }
+  ],
+  "lead": "Çevre izin ve lisans süreçleri, tesisinizin faaliyet gösterdiği alana ve çevreye olan etkisine göre şekillenen bir idari onay mekanizmasıdır. İşletmenizin yasal uygunluğunu sağlamak için bu süreci eksiksiz yürütmeniz gerekir.",
+  "keyInsight": "Çevre izni, tesisinizin faaliyetlerini yasal bir çerçevede sürdürebilmesi için sahip olması gereken en temel idari onaydır.",
+  "sections": [
+    {
+      "heading": "Süreç ne zaman başlar?",
+      "paragraphs": [
+        "İşletmenizi kurarken veya kapasite artışına giderken çevre izin sürecini gündeminize almalısınız. Tesisin yer seçimi ve faaliyet türü, tabi olacağınız izin kategorisini belirleyen ilk unsurdur.",
+        "İdare, tesisinizin çevresel etkilerini değerlendirerek gerekli önlemleri almanızı bekler. Bu aşamada **eksiksiz dosya sunumu** süreci hızlandıran en önemli etkendir."
+      ],
+      "bullets": [
+        "Faaliyet türünün belirlenmesi",
+        "Çevresel etkinin sınıflandırılması",
+        "Başvuru dosyasının hazırlanması"
+      ]
+    },
+    {
+      "heading": "İzin almazsanız ne olur?",
+      "paragraphs": [
+        "Çevre izni almadan faaliyete başlamak, idari yaptırımlarla karşılaşmanıza neden olur. İdare, mevzuata aykırı işleyen tesislere durdurma veya para cezası uygulama yetkisine sahiptir.",
+        "Sadece ceza ödemekle kalmaz, aynı zamanda işletmenizin faaliyetlerinin **hukuka uygun hale getirilmesi** için ciddi bir zaman baskısı altında kalırsınız."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Dosya hazırlığında nelere dikkat etmeli?",
+      "paragraphs": [
+        "İdareye sunacağınız belgelerin güncel ve tesisin mevcut durumunu tam yansıtması şarttır. Yanlış veya eksik beyan, başvurunuzun reddedilmesine veya sürecin uzamasına yol açar.",
+        "Teknik raporlarınızın, tesisinizin gerçek kapasitesini ve çevreye olan etkisini doğru verilerle ortaya koyduğundan emin olun."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Denetim süreci nasıl işler?",
+      "paragraphs": [
+        "Başvurunuzu yaptıktan sonra idare, sunduğunuz bilgileri yerinde inceleyebilir. Bu denetimlerde tesisin projeye uygunluğu kontrol edilir.",
+        "Denetim sırasında eksiklik tespit edilirse, bu eksikliklerin giderilmesi için size bir süre tanınır. Bu süreyi **titizlikle takip etmeniz** hak kaybına uğramamanız için kritiktir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Tesisinizin faaliyet kodunu ilgili yönetmeliklere göre belirleyin.",
+    "Gerekli teknik raporları ve analizleri hazırlatın.",
+    "Başvuru dosyasını eksiksiz şekilde idari mercie teslim edin.",
+    "İdare tarafından yapılacak inceleme sürecini takip edin.",
+    "Eksiklik bildirilirse verilen süre içinde tamamlayın.",
+    "Çevre izin belgenizi teslim alın."
+  ],
+  "documents": [
+    "Tesis kapasite raporu",
+    "Çevresel etki değerlendirme raporu",
+    "Tesis yerleşim planı",
+    "Teknik uygunluk belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "İzin başvurum reddedilirse ne yapmalıyım?",
+      "a": "Red gerekçesini inceleyip eksiklikleri gidererek yeniden başvuru yapabilirsiniz."
+    },
+    {
+      "q": "Tesisimde değişiklik yaparsam iznim geçerli kalır mı?",
+      "a": "Kapasite veya faaliyet değişikliği durumunda iznin güncellenmesi için idareye başvurmanız gerekir."
+    },
+    {
+      "q": "Denetimde ceza almamak için ne yapmalıyım?",
+      "a": "Tesisin tüm çevre önlemlerini projesine uygun şekilde sürekli çalışır halde tutmalısınız."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "cimer-sikayet",
+  "angle": "Çevre izin lisans",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "arabuluculuk-anlasma-belgesi",
+  "title": "Arabuluculuk Anlaşma Belgesi | Vatandaş Rehberi",
+  "description": "Arabuluculuk anlaşma belgesi nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
+  "h1": "Arabuluculuk anlaşma belgesi nedir?",
+  "keywords": [
+    "arabuluculuk anlaşma belgesi",
+    "anlaşma belgesi ilam"
+  ],
+  "category": "Usul",
+  "related": [
+    "arabuluculuk-nasil-yapilir",
+    "icra-takibi-nedir",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/arabuluculuk-nasil-yapilir"
+    },
+    {
+      "label": "Arabuluculuk",
+      "href": "/kategori/arabuluculuk"
+    },
+    {
+      "label": "Rehber",
+      "href": "/rehber/arabuluculuk"
+    }
+  ],
+  "lead": "Masada el sıkıştınız, imza attınız ve arabuluculuk süreci bitti. Elinizdeki kağıt sadece bir taslak değil, mahkeme kararı gücünde resmi bir belgedir.",
+  "keyInsight": "Anlaşma belgesine **icra edilebilirlik şerhi** aldırmadan adım atmak, ilam niteliğindeki bu gücü doğrudan kullanamamak demektir.",
+  "sections": [
+    {
+      "heading": "Anlaşma belgesi nedir ve ne işe yarar?",
+      "paragraphs": [
+        "Masadan kalkarken imzalanan kağıt, üzerinde anlaştığınız tüm konuları bağlayıcı katar. Arabulucu ve tarafların imzasıyla bu evrak sıradan bir sözleşme olmaktan çıkar.",
+        "Üzerinde anlaşılan hususlar hakkında **artık dava açılamaz**. Süreç kapanmış, konu resmi olarak çözüme bağlanmıştır."
+      ],
+      "bullets": [
+        "Kapsamı taraflar belirler",
+        "İmzalar tam olmalıdır"
+      ]
+    },
+    {
+      "heading": "İlam niteliği ne anlama gelir?",
+      "paragraphs": [
+        "Usulüne uygun düzenlenen bu belge, mahkeme hükmü gibi doğrudan işleme konur. Karşı taraf sözünü tutmazsa **mahkeme kararı beklemeden** icra yoluna gidebilirsiniz.",
+        "Kanunen zorunlu hallerde veya bazı özel uyuşmazlıklarda mahkemeden şerh almak gerekebilir. Bu şerh dosya üzerinden hızlıca verilir."
+      ],
+      "bullets": [
+        "Mahkeme kararı gücündedir",
+        "Doğrudan icraya verilebilir"
+      ]
+    },
+    {
+      "heading": "Taşınmaz ve özel konularda dikkat edilecekler",
+      "paragraphs": [
+        "Evin, arsanın devri gibi konularda varılan anlaşmalar için kurallar daha sıkıdır. Bu tür belgelerde **icra edilebilirlik şerhinin alınması zorunludur**.",
+        "İlgili mahkeme, taşınmazla ilgili kurallara uyulup uyulmadığını denetler. Şerh alındıktan sonra tapu müdürlüğünden doğrudan tescil isteyebilirsiniz."
+      ],
+      "bullets": [
+        "Tapu işlemleri için şerh şarttır",
+        "Kanuni sınırlamalara uyulmalıdır"
+      ]
+    },
+    {
+      "heading": "İmzadan sonra süreci ne bekler?",
+      "paragraphs": [
+        "Taraflar imza attıktan sonra karara uymak zorundadır. Eksik kalan veya kapsam dışı bırakılan başka bir uyuşmazlık varsa, o kısım için hukuki yollar ayrıca yürütülür.",
+        "Belgede iradeyi sakatlayan bir durum veya baskı iddia ediliyorsa, hak arama yolları süresinde kullanılmalıdır."
+      ],
+      "bullets": [
+        "Verilen sözler tutulmalıdır",
+        "Kısmi anlaşmalar ayrıca ele alınır"
+      ]
+    }
+  ],
+  "steps": [
+    "Belgede alacak, feragat ve ödeme planının açık olduğunu kontrol edin.",
+    "Tarafların ve arabulucunun imzasını doğrulayın.",
+    "İlam niteliği için icra dairesine başvurun.",
+    "İptal veya butlan iddianız varsa süresinde mahkemeye gidin.",
+    "Kısmi anlaşmada kalan uyuşmazlığı ayrıca yürütün."
+  ],
+  "documents": [
+    "anlaşma belgesi",
+    "son tutanak",
+    "kimlik",
+    "vekâletname"
+  ],
+  "faq": [
+    {
+      "q": "Anlaşma belgesi mahkeme kararı yerini tutar mı?",
+      "a": "Evet, usulüne uygun düzenlenen anlaşma belgesi ilam niteliğindedir ve mahkeme kararı gibi icra edilebilir."
+    },
+    {
+      "q": "İmza atıldıktan sonra dava açılabilir mi?",
+      "a": "Arabuluculuk faaliyeti sonunda anlaşmaya varılan hususlar hakkında taraflarca dava açılamaz."
+    },
+    {
+      "q": "Tapu devri içeren anlaşmalarda ne yapılır?",
+      "a": "Taşınmaz devirlerinde icra edilebilirlik şerhi alınması zorunludur; şerh sonrasında tapudan tescil talep edilebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "arabuluculuk-nasil-yapilir",
+  "angle": "Anlaşma belgesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

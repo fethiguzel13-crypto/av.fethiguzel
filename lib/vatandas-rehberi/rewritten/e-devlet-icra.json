@@ -1,0 +1,99 @@
+{
+  "slug": "e-devlet-icra",
+  "title": "e-Devlet İcra Borcu Sorgulama | Vatandaş Rehberi",
+  "description": "e-Devletten icra borcu nasıl bakılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
+  "h1": "e-Devletten icra borcu nasıl bakılır?",
+  "keywords": [
+    "e-devlet icra borcu",
+    "icra borcu sorgulama e-devlet"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "icra-dosyasi-sorgulama",
+    "haciz-nasil-kaldirilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Faiz",
+      "href": "/hesaplama/faiz"
+    }
+  ],
+  "lead": "Telefonunuza gelen bir mesajla ya da ansızın kapınıza dayanan bir tebligatla tedirgin olabilirsiniz. e-Devlet kapısına girerek hakkınızda açılmış bir icra dosyası olup olmadığını dakikalar içinde görebilirsiniz.",
+  "keyInsight": "e-Devlet ekranında gördüğünüz rakam her an değişebilir; çünkü işleyen faiz ve masraflar dosyaya günlük olarak yansır.",
+  "sections": [
+    {
+      "heading": "Ekran karşısına geçince neyi arayacaksınız?",
+      "paragraphs": [
+        "Bilgisayarınızın veya telefonunuzun başında, arama çubuğuna icra sorgulama yazarak resmi hizmete ulaşırsınız. Karşınıza çıkan listede adınıza tescil edilmiş bir takip talebi olup olmadığını **ilk bakışta** görürsünüz.",
+        "Liste karşınızdayken sadece toplam borca odaklanmayın. Hangi adliyede hangi dairenin dosya açtığı, esas numarası ve alacaklının kim olduğu ekranda yer alır. Bilgileri dikkatlice inceleyin."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Dosya detayındaki rakamlar ne anlama gelir?",
+      "paragraphs": [
+        "Dosyayı açtığınızda karşınıza ana para, faiz ve vekâlet ücreti gibi kalemler dökülür. Alacaklı tarafın gösterdiği miktar ile sizin bildiğiniz miktar **aynı olmayabilir**.",
+        "Ödeme yapmadan önce kalvuz niteliğindeki bu dökümü inceleyin. Hangi kalemin ne kadar tuttuğunu görmek, ileride yapacağınız itirazlar veya mal beyanı süreçleri için size zemin hazırlar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Sisteme her dosya anında düşer mi?",
+      "paragraphs": [
+        "Bazen hakkınızda yeni bir takip başlamıştır ancak e-Devlet ekranında henüz görünmeyebilir. Teknik gecikmeler veya veri aktarım süreleri nedeniyle **kayıtlar gecikebilir**.",
+        "Eğer ortada bir tebligat varsa ancak ekranda dosya görünmüyorsa, UYAP Vatandaş portali üzerinden kontrol sağlayabilir ya da ilgili icra dairesiyle doğrudan iletişime geçebilirsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yanlış ödeme yapmaktan nasıl kaçınılır?",
+      "paragraphs": [
+        "Borcu kapatmaya karar verdiğinizde parayı rastgele bir hesaba göndermeyin. Dosyanın resmi IBanı ve dosya numarası **eksiksiz girilmelidir**.",
+        "Eksik ya da yanlış dosya numarasıyla yapılan ödemeler başka bir hesaba geçebilir ve icra takibi devam edebilir. Dekontunuzu mutlaka saklayın."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "e-Devlet’te icra dosyası / borç sorgusunu açın.",
+    "Her dosyanın daire ve esas numarasını yazın.",
+    "Bakiye, vekâlet ücreti ve faiz kalemini ayırın.",
+    "Ödemeyi doğru dosya numarasıyla yapın.",
+    "Gözükmeyen dosya için UYAP Vatandaş ve daire teyidi alın."
+  ],
+  "documents": [
+    "sorgu çıktısı",
+    "dosya numarası",
+    "dekont"
+  ],
+  "faq": [
+    {
+      "q": "e-Devlet'te icra borcu neden görünmez?",
+      "a": "Dosya yeni açılmışsa veya sistemdeki veri aktarımında gecikme varsa henüz yansımamış olabilir."
+    },
+    {
+      "q": "Gördüğüm borç tutarı sürekli değişiyor, neden?",
+      "a": "Dosyaya her geçen gün yasal faiz ve icra masrafları eklendiği için bakiye güncellenir."
+    },
+    {
+      "q": "Borcu ödedikten sonra dosya kendiliğinden kapanır mı?",
+      "a": "Ödemenin ardından ilgili icra dairesine bildirim yapılması ve dosyanın kapatılması işleminin teyit edilmesi gerekir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "e-Devlet borç dökümü",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

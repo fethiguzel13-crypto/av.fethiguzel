@@ -1,0 +1,108 @@
+{
+  "slug": "tbk-madde-112",
+  "title": "TBK 112 Temerrüt — Vatandaş Özeti | Vatandaş Rehberi",
+  "description": "TBK m.112 borçlu temerrüdü (özet) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
+  "h1": "TBK m.112 borçlu temerrüdü (özet)",
+  "keywords": [
+    "TBK 112 özet",
+    "borçlu temerrüdü özet"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "tbk-nedir",
+    "icra-takibi-nedir",
+    "mevzuat-nasil-aranir"
+  ],
+  "links": [
+    {
+      "label": "Tam madde metni + şerh",
+      "href": "/mevzuat/tbk/madde-112"
+    },
+    {
+      "label": "Kanun maddesi ara",
+      "href": "/ara"
+    },
+    {
+      "label": "TBK m.112",
+      "href": "/mevzuat/tbk/madde-112"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=temerr%C3%BCt"
+    }
+  ],
+  "lead": "Sözleşmeyle kurulan bir borç zamanında veya gereği gibi ödenmediğinde, alacaklı zararını isteme hakkına kavuşur. Asıl sorumluluk, borçlunun **kusursuzluğunu** ispat edemediği durumlarda başlar.",
+  "keyInsight": "Borçlu, kendisine hiçbir kusurun yüklenemeyeceğini ispat etmedikçe doğan zararı ödemek zorundadır.",
+  "sections": [
+    {
+      "heading": "Borç hiç veya gereği gibi yerine getirilmediğinde ne olur?",
+      "paragraphs": [
+        "Elinizde bir sözleşme var ve karşı taraf üzerine düşen işi yapmadı ya da eksik yaptı. Bu durumda ortada adımların atılmadığı bir ihlal tablosu belirir.",
+        "Borçlu taraf, yaşanan aksaklıkta hiçbir kusuru olmadığını kanıtlamak zorundadır. Aksi takdirde alacaklının uğradığı zararı gidermekle **yükümlü hale gelir**."
+      ],
+      "bullets": [
+        "Borcun hiç yapılmaması",
+        "Borcun eksik veya kusurlu yapılması",
+        "Zararın tazmin edilmesi"
+      ]
+    },
+    {
+      "heading": "Kusursuzluk nasıl ispat edilir?",
+      "paragraphs": [
+        "Borçlu 'Elimden geleni yaptım ama engel olamadım' diyerek sıyrılamaz. Ortada somut bir engelin ve kusurun olmadığını **ispat yükü** tamamen borçludadır.",
+        "Eğer borçlu kusursuz olduğunu kanıtlayamazsa, alacaklının bu gecikmeden veya eksiklikten doğan maddi kaybını karşılamak durumundadır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Zarar nasıl giderilir?",
+      "paragraphs": [
+        "İfa edilmeyen borç nedeniyle alacaklının malvarlığında oluşan eksilme hesaplanır. Borçlu, bu zararın tamamını tazmin etmekle sorumlu tutulur.",
+        "Süreç, alacaklının zarara uğraması ve borçlunun bunu engellemek için **geçerli bir mazeret** sunamaması üzerine kuruludur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreci yürütürken nelere dikkat etmeli?",
+      "paragraphs": [
+        "Ortada yerine getirilmeyen bir taahhüt olduğunda, karşı tarafın eylemsizliği net bir şekilde belgelenmelidir.",
+        "Hak kaybı yaşamamak adına borcun hiç ya da gereği gibi ifa edilmediği, doğan zararla birlikte **açıkça ortaya konmalıdır**."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Borcun sözleşmeye uygun şekilde yapılıp yapılmadığını inceleyin.",
+    "Borçlunun eksik veya kusurlu hareketini tespit edin.",
+    "Doğan zararı ve masrafları hesaplayın.",
+    "Zararın giderilmesi için borçluya bildirimde bulunun.",
+    "Gerekirse yasal yollara başvurun."
+  ],
+  "documents": [
+    "Sözleşme metni",
+    "Hizmet veya mal teslim belgeleri",
+    "Zararı gösteren fatura veya masraf dökümleri",
+    "İhtarname veya yazılı bildirimler"
+  ],
+  "faq": [
+    {
+      "q": "Borçlu hiç ödeme yapmazsa ne olur?",
+      "a": "Borçlu, hiçbir kusuru olmadığını ispat edemezse alacaklının doğan zararını gidermek zorundadır."
+    },
+    {
+      "q": "Kusursuz olduğunu kim kanıtlar?",
+      "a": "Kusursuzluk iddiasını kanıtlama yükümlülüğü borçlunun kendisine aittir."
+    },
+    {
+      "q": "Eksik yapılan işler bu kapsama girer mi?",
+      "a": "Borç hiç veya gereği gibi ifa edilmezse kural aynen uygulanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "bridge",
+  "angle": "Temerrüt özeti",
+  "canonicalPath": "/mevzuat/tbk/madde-112",
+  "sitemapPriority": 0.45,
+  "voice": "narrative",
+  "source": "gemini"
+}

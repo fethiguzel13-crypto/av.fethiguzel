@@ -1,0 +1,116 @@
+{
+  "slug": "aciz-vesikasi",
+  "title": "Aciz vesikası ne demektir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Aciz vesikası ne demektir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
+  "h1": "Aciz vesikası ne demektir?",
+  "keywords": [
+    "aciz vesikası",
+    "aciz belgesi icra"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "haciz-islemleri-nasil-yapilir",
+    "iflas-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=aciz"
+    }
+  ],
+  "lead": "Borçlunun haczedilecek malının bulunmadığı anlaşıldığında düzenlenen aciz vesikası, alacağın ödenmeyen kısmını gösteren resmî bir belgedir.",
+  "keyInsight": "Aciz vesikası borcu bitirmez; alacaklıya borçlunun **mal kaçırma işlemlerine** karşı dava açma ve takibi hızlandırma yetkisi verir.",
+  "sections": [
+    {
+      "heading": "Haczedilecek Mal Bulunmadığında Ne Olur?",
+      "paragraphs": [
+        "Kapınıza haciz için gelen icra memurları evde veya iş yerinde haczi kabil mal bulamadığında bu durumu tutanağa geçirir. Borç ödemeden aciz vesikası, işte bu tutanağın ta kendisidir.",
+        "Eğer mallar borcu karşılamaya yetmiyorsa, düzenlenen tutanak **muvakkat aciz vesikası** yerine geçer. Bu belge sayesinde alacaklı, borçlunun daha önce yaptığı mal devirlerini iptal ettirebilmek için dava açma hakkını elde eder."
+      ],
+      "bullets": [
+        "Haciz tutanağı aciz vesikası hükmündedir",
+        "Eksik mallar için geçici belge düzenlenir"
+      ]
+    },
+    {
+      "heading": "Belge Düzenlendiğinde Borçlu İçin Süreç Nasıl İşler?",
+      "paragraphs": [
+        "Alacaklı alacağının tamamını alamadığında ve gerekli şartlar oluştuğunda icra dairesi hemen bir aciz vesikası düzenler. Bu belgenin bir sureti borçluya verilir ve **hiçbir harç ile vergiye** tabi tutulmaz.",
+        "Düzenlenen her aciz vesikası illerde bulunan özel bir sicile kaydedilir. Borçlu, bu belgeyi düzenleyen icra dairesine borcunu işleyen faiziyle birlikte her zaman ödeme imkanına sahiptir."
+      ],
+      "bullets": [
+        "Harç ve vergi alınmaz",
+        "Özel sicile kaydedilir"
+      ]
+    },
+    {
+      "heading": "Alacaklı Hangi Haklara Sahip Olur?",
+      "paragraphs": [
+        "Alacaklı elindeki aciz vesikası ile belirli avantajlar elde eder. Örneğin, başka alacaklıların yaptığı hacizlere aynı derecede iştirak edebilir ve öncelikli haklardan yararlanabilir.",
+        "Alacaklı bu belgeyi aldığı tarihten itibaren belirli bir süre içinde yeniden takibe başlarsa, borçluya yeniden ödeme emri tebliğ edilmesine gerek kalmaz. Ancak aciz vesikasında yazılı alacak miktarı için **yeni faiz istenemez**."
+      ],
+      "bullets": [
+        "Aynı derecede hacze iştirak",
+        "Yeni ödeme emri zorunluluğunun kalkması"
+      ]
+    },
+    {
+      "heading": "Borç Ne Zaman ve Nasıl Ortadan Kalkar?",
+      "paragraphs": [
+        "Aciz vesikasına bağlanan borç, borçluya karşı belgenin düzenlenmesinden itibaren uzun bir süre geçmesiyle zamanaşımına uğrar. Borçlunun hayatını kaybetmesi halinde mirasçılar belirli bir süre içinde alacaklının hakkını aramadığını ileri sürebilir.",
+        "Borcun tamamının ödenmesi, takibin iptal edilmesi veya alacaklının takibi geri alması durumunda aciz vesikası sicilden silinir. İcra dairesi borçluya borcunu ödediğini gösteren resmi bir belge verir."
+      ],
+      "bullets": [
+        "Zamanaşımı süresi işler",
+        "Borç ödenince sicilden silinir"
+      ]
+    }
+  ],
+  "steps": [
+    "İcra takibi başlatın ve haczedilebilir mal bulunup bulunmadığını tespiti için tutanak düzenletin.",
+    "Alacağın ödenmeyen kısmı için icra dairesinden aciz vesikası düzenlenmesini talep edin.",
+    "Belge düzenlendiğinde ilgili sicile kaydedilmesini takip edin.",
+    "Borçlunun mal kaçırma ihtimaline karşı yasal haklarınızı değerlendirin.",
+    "Borcun ödenmesi veya zamanaşımı durumlarını icra dairesi üzerinden güncel olarak izleyin."
+  ],
+  "documents": [
+    "Haciz tutanağı",
+    "Aciz vesikası",
+    "Ödeme makbuzları",
+    "İcra takip dosyası"
+  ],
+  "faq": [
+    {
+      "q": "Aciz vesikası alınca borç biter mi?",
+      "a": "Hayır, borç bitmez. Sadece borçlunun o an ödeme gücünün olmadığını ve malının bulunmadığını gösteren resmî bir durum tespitidir."
+    },
+    {
+      "q": "Aciz vesikası için harç ödenir mi?",
+      "a": "İcra dairesinin düzenlediği bu belgeler hiçbir harç ve vergiye tabi değildir."
+    },
+    {
+      "q": "Aciz vesikasından sonra faiz işler mi?",
+      "a": "Aciz vesikasında yazılı alacak miktarı için sonradan ayrıca faiz istenemez."
+    },
+    {
+      "q": "Borçlu borcunu sonradan ödeyebilir mi?",
+      "a": "Borçlu, aciz vesikasını düzenleyen icra dairesine borcunu her zaman ödeyebilir; borç bittiğinde belge sicilden silinir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Aciz",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

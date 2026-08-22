@@ -1,0 +1,98 @@
+{
+  "slug": "e-devlet-miras",
+  "title": "e-Devlette miras işlemleri nelerdir — Vatandaş Rehberi | Av. Fethi Güz",
+  "description": "e-Devlette miras işlemleri nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
+  "h1": "e-Devlette miras işlemleri nelerdir?",
+  "keywords": [
+    "e-devlet miras",
+    "e-devlet veraset işlemleri"
+  ],
+  "category": "Miras",
+  "related": [
+    "veraset-ilami-nasil-alinir",
+    "e-devlet-veraset",
+    "mirascilik-belgesi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/veraset-ilami-nasil-alinir"
+    },
+    {
+      "label": "Miras",
+      "href": "/kategori/miras-hukuku"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/miras"
+    }
+  ],
+  "lead": "Ekranınızın başında, yakın akrabanızın ardından kalan malvarlığıyla ilgili ne yapabileceğinizi düşünüyorsunuz. e-Devlet üzerinden miras işlemlerini sorgulayabilir, kimin ne bırakıp bırakmadığını oturduğunuz yerden görebilirsiniz.",
+  "keyInsight": "e-Devlet sistemi size sadece bilgi verir; terekenin yönetimi, korunması ve borçların ödenmesi gibi kritik adımlar için hâkim kararı gerekir.",
+  "sections": [
+    {
+      "heading": "Ekranın başında neyle karşılaşırsınız?",
+      "paragraphs": [
+        "Telefonunuz elinizde, sisteme giriş yaptınız. Karşınıza çıkan ilk belge veraset ilamıdır, yani kimin kime mirasçı olduğunu gösteren kâğıttır.",
+        "Bu aşamada **mirasçılık belgesi** sorgulaması yaparak kimin hak sahibi olduğunu hemen öğrenirsiniz. Ancak ekranda gördüğünüz veriler sadece bir başlangıçtır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Bırakılan mallar nasıl korunur?",
+      "paragraphs": [
+        "Mirasbırakanın arkasından kalan ev, araba veya bankadaki paralar başıboş kalmaz. Sulh hâkimi veya atanan yönetici, hak sahiplerinin **hak kaybına uğramaması** için malları iyi bir yönetici gibi korumakla yükümlüdür.",
+        "Bu süreçte terekenin yazımı yapılır, koruma önlemleri alınır ve malların zarar görmemesi için gereken adımlar atılır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Borçlar ve alacaklar ne olacak?",
+      "paragraphs": [
+        "Geride kalan Sadece mallar değil, borçlar da masadadır. Yönetici, bir yandan merhunun alacaklarını tahsil ederken diğer yandan borçlarını ödemek zorundadır.",
+        "Eğer terekede ticarethane veya işletme varsa, bunların olduğu gibi sürdürülmesi sağlanır; aksi hâlde tasfiye için **gerekli önlemler** alınır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hiç mirasçı yoksa ne olur?",
+      "paragraphs": [
+        "Kimi zaman geride hiç mirasçı kalmaz. Kimsesiz ve mirasçı bırakmaksızın ölen kimsenin mirası doğrudan **Devlete geçer**.",
+        "Eğer bir kişinin sağ olup olmadığı bilinmiyorsa ve malvarlığı uzun süre yönetildiyse, Hazine istemde bulunarak gaiplik ve mirasın Devlete kalması sürecini başlatabilir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "e-Devlet kapısına T.C. kimlik numaranız ve şifrenizle giriş yapın.",
+    "Arama çubuğuna mirasçılık belgesi sorgulama yazarak belgenize ulaşın.",
+    "Terekenin resmi olarak yönetilmesi gerekiyorsa ilgili sulh mahkemesine başvurun.",
+    "Yöneticinin malvarlığını koruma ve borç ödeme adımlarını takip edin."
+  ],
+  "documents": [
+    "e-Devlet şifresi",
+    "Mirasçılık belgesi çıktıları",
+    "Kimlik kartı"
+  ],
+  "faq": [
+    {
+      "q": "e-Devletten miras reddedilebilir mi?",
+      "a": "Sistem üzerinden sadece bilgi sorgulanır; mirasın reddi için mahkemeye başvurmak gerekir."
+    },
+    {
+      "q": "Bırakılan borçlar nasıl ödenir?",
+      "a": "Terekeyi yöneten sulh hâkimi veya görevli, alacakları tahsil ederek borçların ödenmesini sağlar."
+    },
+    {
+      "q": "Mirasçı yoksa mallar kime kalır?",
+      "a": "Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "veraset-ilami-nasil-alinir",
+  "angle": "e-Devlet miras menüsü",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

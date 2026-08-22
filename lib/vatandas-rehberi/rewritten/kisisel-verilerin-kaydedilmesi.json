@@ -1,0 +1,115 @@
+{
+  "slug": "kisisel-verilerin-kaydedilmesi",
+  "title": "Kişisel verilerin kaydedilmesi suçu | Vatandaş Rehberi",
+  "description": "Kişisel verilerin kaydedilmesi suçu. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+  "h1": "Kişisel verilerin kaydedilmesi suçu",
+  "keywords": [
+    "kişisel verilerin kaydedilmesi suçu",
+    "kisisel verilerin kaydedilmesi"
+  ],
+  "category": "Ceza",
+  "related": [
+    "tutuklama-nedir",
+    "kvkk-basvuru-hakki",
+    "savcilik-suc-duyurusu",
+    "hakaret-sucu-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tutuklama-nedir"
+    },
+    {
+      "label": "TCK",
+      "href": "/kategori/tck-kisiler"
+    },
+    {
+      "label": "KVKK",
+      "href": "/kategori/kvkk"
+    }
+  ],
+  "lead": "Bilgilerinizin izinsiz olarak bir yerde depolandığını veya kayıt altına alındığını fark ettiğinizde adli makamlara başvurabilirsiniz. Bu durum kanuna aykırı yapıldığında suç teşkil eder ve cezai yaptırımı bulunur.",
+  "keyInsight": "Kişisel verilerin hukuka aykırı şekilde kaydedilmesi durumunda, verilerin niteliğine göre verilecek ceza yarı oranında artabilir.",
+  "sections": [
+    {
+      "heading": "Verileriniz izinsiz kaydedildiğinde ne olur?",
+      "paragraphs": [
+        "Telefonunuzdaki özel bir görüşmenin veya kimlik bilgilerinizin rızanız hilafına bir veri tabanına aktarıldığını düşünebilirsiniz. Bir kişi, kimliği belirli veya belirlenebilir gerçek kişiye ait bilgileri hukuka aykırı biçimde sistemine kaydettiğinde sorun başlar. Bu fiil gerçekleştiğinde adli süreç gündeme gelir.",
+        "Kanun, bu tür kayıt işlemleri için hapis cezası öngörür. Eğer kaydedilen bilgiler kişilerin siyasi, felsefi veya dini görüşlerine, ırki kökenlerine, hukuka aykırı olarak ahlaki eğilimlerine, cinsel yaşamlarına, sağlık durumlarına veya sendikal bağlantılarına ilişkinse, verilecek ceza **yarı oranında** artırılır."
+      ],
+      "bullets": [
+        "Rızasız veri toplama",
+        "Hukuka aykırı kayıt",
+        "Özel nitelikli veri artırımı"
+      ]
+    },
+    {
+      "heading": "Konuşmaların gizlice kaydedilmesi",
+      "paragraphs": [
+        "İş yerinde veya günlük yaşamda başkalarıyla yaptığınız aleni olmayan konuşmaların bir cihazla dinlenmesi ya da ses alma cihazıyla kaydedilmesi ayrı bir suç başlığıdır. Taraflardan herhangi birinin rızası olmaksızın yapılan bu kayıtlar **iki yıldan beş yıla kadar** hapis cezasıyle cezalandırılabilir.",
+        "Katıldığınız aleni olmayan bir söyleşiyi diğer konuşanların rızası olmadan kayda alan kişi için de hapis veya adli para cezası öngörülmüştür. Bu kayıtların daha sonra hukuka aykırı olarak ifşa edilmesi veya basın yoluyla yayımlanması cezayı ağırlaştırır."
+      ],
+      "bullets": [
+        "Rızasız ses kaydı",
+        "Aleni olmayan konuşma",
+        "İfşa ve yayınlama"
+      ]
+    },
+    {
+      "heading": "Şikayet şartı ve istisnaları nelerdir?",
+      "paragraphs": [
+        "Yaşadığınız ihlalin ardından hukuki süreç başlatabilmek için genellikle şikayet hakkınızı kullanmanız gerekir. Kanun, kişisel verilerin kaydedilmesi, hukuka aykırı olarak verilmesi, ele geçirilmesi ve yok edilmemesi gibi hallerde soruşturma ve kovuşturmanın işleyişini düzenler.",
+        "Yargılama aşamasında sanık veya mağdura ait kişisel verilerin yer aldığı belgelerin duruşmada okunması zorunludur. Ancak bu verilerin korunması amacıyla, kişilerin açıkça istemesi halinde **kapalı oturum** yapılmasına karar verilebilir."
+      ],
+      "bullets": [
+        "Şikayete bağlı durumlar",
+        "Duruşma ve belge okunması",
+        "Kapalı oturum talebi"
+      ]
+    },
+    {
+      "heading": "Gizli veriler ve imha süreçleri",
+      "paragraphs": [
+        "Yargılama veya soruşturma sırasında alınan genetik inceleme sonuçları gibi özel veriler kesinlikle başka bir amaçla kullanılamaz. Bu bilgiler kimlik bilgilerinden arındırılmış özel bir sisteme kaydedilir ve dosyada delil olarak saklanır.",
+        "Yargılama süreçlerinin kesinleşmesi veya ilgili sürelerin dolması halinde bu kayıtlar Cumhuriyet savcısının huzurunda **derhâl yok edilir**. Bilgisi sisteme kaydedilen kişi, saklama amacının ortadan kalkması durumunda silme talebinde bulunma hakkına sahiptir."
+      ],
+      "bullets": [
+        "Genetik inceleme gizliliği",
+        "Kimlikten arındırma",
+        "Savcı huzurunda imha"
+      ]
+    }
+  ],
+  "steps": [
+    "İhlal edilen kişisel verilerinizin türünü ve kaydedildiği ortamı belirleyin.",
+    "Konuşma kaydı söz konusu ise rızanızın olmadığını netleştiren delilleri toplayın.",
+    "Bulunduğunuz yerdeki Cumhuriyet Başsavcılığına giderek şikayet dilekçenizi verin.",
+    "Yargılama aşamasında kişisel verilerinizin gizliliği için kapalı oturum talep edin."
+  ],
+  "documents": [
+    "Şikayet dilekçesi",
+    "Ses veya görüntü kaydını içeren dijital materyaller",
+    "Kişisel verilerin hukuka aykırı kaydedildiğini gösteren yazışma ve belgeler"
+  ],
+  "faq": [
+    {
+      "q": "Hangi verilerin kaydedilmesi cezayı artırır?",
+      "a": "Kişilerin siyasi, felsefi, dini görüşleri, ırki kökenleri, sağlık durumları veya sendikal bağlantıları gibi özel nitelikli verilerin izinsiz kaydedilmesi halinde verilecek ceza yarı oranında artırılır."
+    },
+    {
+      "q": "Gizlice yapılan ses kayıtları suç mu?",
+      "a": "Taraflardan birinin rızası olmaksızın aleni olmayan konuşmaların bir cihazla dinlenmesi veya kaydedilmesi hapis cezası gerektiren bir suçtur."
+    },
+    {
+      "q": "Yargılama bittikten sonra delil olarak alınan kişisel veriler ne olur?",
+      "a": "Yasal şartların oluşması ve kararların kesinleşmesi durumunda, bu veriler Cumhuriyet savcısının huzurunda derhâl yok edilir ve tutanağa bağlanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tutuklama-nedir",
+  "angle": "Kişisel verilerin kaydedilmesi suçu",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "odeme-emri-tebligi",
+  "title": "Ödeme Emri Tebliği Ne Demektir? | Vatandaş Rehberi",
+  "description": "Ödeme emri tebliğ edilince ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
+  "h1": "Ödeme emri tebliğ edilince ne yapılır?",
+  "keywords": [
+    "ödeme emri tebliği",
+    "ödeme emri ne demek"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "odeme-emrine-itiraz",
+    "elektronik-tebligat",
+    "tebligat-usulsuzlugu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Tebligat",
+      "href": "/kategori/tebligat"
+    }
+  ],
+  "lead": "Kapınıza gelen veya adınıza düzenlenen bir ödeme emri, borcun ödenmesi veya yasal yollardan itiraz edilmesi için size resmi bir çağrıdır. Bu aşamada süreci doğru yönetmek, hak kaybı yaşamamak adına büyük önem taşır.",
+  "keyInsight": "Ödeme emri tebliğ edildiğinde, **belirli sürede** harekete geçmezseniz borç kesinleşir ve icra işlemleri hızla devam eder.",
+  "sections": [
+    {
+      "heading": "Ödeme emri elinize geçince ne olur?",
+      "paragraphs": [
+        "Postacı kapıyı çaldığında veya tebligat adresinize ulaştığında elinize geçen kağıt, borcun varlığını ve bunun ödenmesi gerektiğini bildiren resmi bir belgedir. Bu belgeyi incelediğinizde alacaklının kim olduğunu, borcun miktarını ve hangi dosya üzerinden işlem yapıldığını görürsünüz.",
+        "Taşınmaz veya gemi teslimine ilişkin ilamlı takiplerde, icra müdürlüğü tarafından gönderilen icra emri ile borçluya **yedi gün** içinde hükmolunan şeyin teslimi emredilir. Borçlu bu emre uymazsa, ilamın hükmü zorla icra olunur."
+      ],
+      "bullets": [
+        "Alacaklı ve borçlu bilgileri kontrol edilir.",
+        "Borcun miktarı ve dayanağı incelenir."
+      ]
+    },
+    {
+      "heading": "İtiraz ve geri bırakılma yolları nelerdir?",
+      "paragraphs": [
+        "Borçlu, kendisine gelen icra emri üzerine **yedi gün** içinde dilekçe ile icra mahkemesine başvurarak borcun zamanaşımına uğradığı ya da ödendiği itirazında bulunabilir. Bu aşamada ileri sürülen itfa veya imhal iddialarının yetkili mercilerce yapılmış veya usulüne göre tasdik edilmiş belgelerle tevsik edilmesi gerekir.",
+        "İcra mahkemesi, geri bırakılma talebini reddettiği takdirde borçlu, istinaf veya temyiz yoluna başvuru süresi içinde alacağı karşılayacak nakit veya kabul edilecek teminatı göstermek suretiyle bu yola başvurabilir."
+      ],
+      "bullets": [
+        "Zamanaşımı itirazı yapılabilir.",
+        "Ödeme veya imhal iddiaları belgelenmelidir."
+      ]
+    },
+    {
+      "heading": "Özel durumlarda vekiller ve yerler nasıl bildirim alır?",
+      "paragraphs": [
+        "Askeri şahıslara yapılacak tebligatlar rütbelerine ve bulundukları birlik durumuna göre en yakın üst, nöbetçi amiri veya subayı vasıtasıyla gerçekleştirilir. Otel, hastane, fabrika veya öğrenci yurdu gibi serbestçe girilemeyen yerlerde ise tebligat o yeri idare eden amirler aracılığıyla temin edilir.",
+        "Bu tür yerlerde doğrudan muhataba ulaşılması mümkün olmadığı durumlarda usulüne uygun olarak tebligat yetkili amirlere yapılır ve süreç bu şekilde işletilir."
+      ],
+      "bullets": [
+        "Askeri şahıslar için birlik komutanlıkları devreye girer.",
+        "Kapalı veya özel kurumlarda kurum amirleri tebliği sağlar."
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırmanın sonuçları nelerdir?",
+      "paragraphs": [
+        "Yasal süreler içinde gerekli adımları atmadığınız takdirde, takibe karşı savunma hakkınızı kaybedersiniz. Alacaklı taraf, haciz işlemlerinin başlatılmasını veya mal varlıklarınıza el konulmasını talep etme hakkını elde eder.",
+        "Bu nedenle tebligatın elinize ulaştığı tarihi dikkatle kaydetmeli ve atılacak adımları geciktirmeden planlamalısınız."
+      ],
+      "bullets": [
+        "Haciz yoluyla tahsilat işlemleri başlar.",
+        "Savunma yolları kapanabilir."
+      ]
+    }
+  ],
+  "steps": [
+    "Ödeme emri belgesindeki tebliğ tarihini not edin.",
+    "Borcun miktarını, dayanağını ve alacaklı bilgilerini inceleyin.",
+    "Süresi içinde icra mahkemesine dilekçe ile başvurarak itiraz veya geri bırakılma talebinde bulunun.",
+    "İddialarınızı kanıtlayacak belgeleri hazırlayın.",
+    "Gerekli görülmesi halinde teminat veya ödeme işlemlerini planlayın."
+  ],
+  "documents": [
+    "Ödeme emri veya icra emri kağıdı",
+    "İcra mahkemesine başvuru dilekçesi",
+    "Borcun ödendiğini veya zamanaşımına uğradığını gösteren belgeler",
+    "Teminat mektubu veya nakit teminat belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "Ödeme emri elime geçtiğinde ilk ne yapmalıyım?",
+      "a": "Tebligatın elinize ulaştığı tarihi kontrol edin ve yasal süreyi kaçırmamak için içeriği inceleyin."
+    },
+    {
+      "q": "Borca hangi süre içinde itiraz edebilirim?",
+      "a": "İcra emrinin tebliği üzerine yedi gün içinde icra mahkemesine başvurarak itiraz edebilirsiniz."
+    },
+    {
+      "q": "İtirazım reddedilirse ne olur?",
+      "a": "Mahkeme talebi reddederse, istinaf veya temyiz yoluna başvuru süresi içinde teminat göstermeniz gerekebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Tebliğ anı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,117 @@
+{
+  "slug": "ceza-sorusturmasi-sureci",
+  "title": "Ceza Soruşturması Nasıl İşler?",
+  "description": "Ceza soruşturması nasıl yürür? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
+  "h1": "Ceza soruşturması nasıl yürür?",
+  "keywords": [
+    "ceza soruşturması",
+    "ifade alma"
+  ],
+  "category": "Ceza",
+  "related": [
+    "savcilik-suc-duyurusu",
+    "gozalti-haklari",
+    "tebligat-usulsuzlugu",
+    "gozalti-suresi",
+    "dolandiricilik-sucu",
+    "suc-duyurusu-geri-alma",
+    "ifade-alma-haklari",
+    "sorusturma-gizliligi",
+    "e-devlet-ceza-sorgulama"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/savcilik-suc-duyurusu"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    },
+    {
+      "label": "TCK",
+      "href": "/kategori/tck-genel"
+    }
+  ],
+  "lead": "Kapınıza bir polis tebligatı geldiğinde ya da hakkınızda şikâyet yapıldığını öğrendiğinizde süreç başlar. Nele yapacağınızı bilmek paniği önler.",
+  "keyInsight": "Soruşturma evresi gizlidir ve deliller bu aşamada toplanır; atılacak yanlış bir adım hak kaybına yol açabilir.",
+  "sections": [
+    {
+      "heading": "Kapınıza tebligat geldiğinde ilk adım nedir?",
+      "paragraphs": [
+        "Sabah postacı kapıyı çaldığında elinize bir çağrı kâğıdı tutuşturulabilir. Bu kâğıt, savcılığın hakkınızda bir inceleme başlattığını gösterir.",
+        "Telaşa kapılmadan **çağrı kâğıdında yazan** tarih ve saate dikkat etmeniz gerekir."
+      ],
+      "bullets": [
+        "Tebligatı dikkatlice okuyun",
+        "İfade gününü takvime not edin"
+      ]
+    },
+    {
+      "heading": "İfade verme odasında sizi ne bekler?",
+      "paragraphs": [
+        "Karakola veya adliyeye gittiğinizde ifadeniz alınır. Suçlamanın ne olduğu size bu aşamada açıklanır.",
+        "Haklarınız hatırlatılır ve **avukat yardımından** yararlanma hakkınız bulunur."
+      ],
+      "bullets": [
+        "Haklarınızı sorun",
+        "Savunmanızı sakince yapın"
+      ]
+    },
+    {
+      "heading": "Dosya neden gizli yürütülür?",
+      "paragraphs": [
+        "Soruşturma aşamasında dosyadaki bilgi ve belgeler herkesin incelemesine açık değildir. Gerçeğin ortaya çıkması için bu gizlilik kuralı uygulanır.",
+        "Avukatınız dosyadaki **belgeleri inceleme** yetkisine belirli sınırlamalarla sahip olabilir."
+      ],
+      "bullets": [
+        "Dosyaya doğrudan erişemeyebilirsiniz",
+        "Gizlilik kararına uymak gerekir"
+      ]
+    },
+    {
+      "heading": "Soruşturmanın sonunda ne karar çıkar?",
+      "paragraphs": [
+        "Savcı delilleri topladıktan sonra iki yoldan birini seçer. Ya dava açılmasına gerek görmez ya da mahkemeye iddianame sunar.",
+        "Verilen kararlar taraflara bildirilir ve **itiraz yolları** işletilebilir."
+      ],
+      "bullets": [
+        "Takipsizlik kararı çıkabilir",
+        "Mahkeme süreci başlayabilir"
+      ]
+    }
+  ],
+  "steps": [
+    "İhbar veya şikâyetle soruşturma açıldığını öğrenin.",
+    "Şüpheliyseniz müdafi hakkını kullanın ve ifade vermeden önce konuşun.",
+    "Mağdursanız delil ve talep listenizi verin.",
+    "KYOK veya iddianame sonucunu bekleyin."
+  ],
+  "documents": [
+    "şikâyet ve ifade tutanağı",
+    "delil listesi",
+    "müdafi vekâleti",
+    "savcılık karar belgesi"
+  ],
+  "faq": [
+    {
+      "q": "İfadeye çağrıldığımda gitmezsem ne olur?",
+      "a": "Hakkınızda yakalama kararı çıkarılabilir ve zorla getirme kararı uygulanabilir."
+    },
+    {
+      "q": "Dosyadaki gizlilik kararı ne zaman kalkar?",
+      "a": "Genellikle iddianamenin mahkeme tarafından kabul edildiği aşamada dosya incelemeye açılır."
+    },
+    {
+      "q": "Takipsizlik kararı verilirse ne yapabilirim?",
+      "a": "Kanuni süreler içinde karara karşı ilgili sulh ceza hâkimliğine itiraz edebilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "savcilik-suc-duyurusu",
+  "angle": "Soruşturma",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

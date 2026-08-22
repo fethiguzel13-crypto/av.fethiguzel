@@ -1,0 +1,109 @@
+{
+  "slug": "deneme-suresi-is",
+  "title": "Deneme süresi ne kadar? Haklar — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Deneme süresi ne kadar? Haklar hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
+  "h1": "Deneme süresi ne kadar? Haklar",
+  "keywords": [
+    "deneme süresi iş kanunu"
+  ],
+  "category": "İş",
+  "related": [
+    "is-sozlesmesi-feshi",
+    "kidem-tazminati-nasil-alinir",
+    "ihbar-tazminati-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/is-sozlesmesi-feshi"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/kidem"
+    }
+  ],
+  "lead": "Yeni bir işe başladınız ve sözleşmenizde deneme kaydı yer alıyor. Bu dönemde taraflar iş sözleşmesini **bildirim süresine gerek olmaksızın ve tazminatsız** feshedebilir.",
+  "keyInsight": "Deneme süresi içinde olsanız dahi çalıştığınız günler için ücret ve diğer haklarınız saklıdır.",
+  "sections": [
+    {
+      "heading": "Deneme süresi ne kadar sürer?",
+      "paragraphs": [
+        "Masaya oturdunuz ve sözleşmeye deneme kaydı konuldu. Kanun bu sürenin sınırını net şekilde çizer.",
+        "Taraflarca iş sözleşmesine bir deneme kaydı konulduğunda, bunun süresi **en çok iki ay** olabilir. Ancak bu süre toplu iş sözleşmeleriyle **dört aya kadar** uzatılabilir."
+      ],
+      "bullets": [
+        "Normal sözleşmelerde azami iki ay",
+        "Toplu iş sözleşmelerinde azami dört ay"
+      ]
+    },
+    {
+      "heading": "Bu süreçte haklar kaybolur mu?",
+      "paragraphs": [
+        "Sabah işe gittiniz, akşam ayrılmak zorunda kaldınız ya da işveren sözleşmeyi bitirdi. Emekleriniz boşa gitmez.",
+        "İşçinin çalıştığı günler için **ücret ve diğer hakları** saklıdır. Kimse çalıştığınız günlerin karşılığından mahrum bırakılamaz."
+      ],
+      "bullets": [
+        "Çalışılan günlerin ücreti ödenir",
+        "Diğer yasal haklar korunur"
+      ]
+    },
+    {
+      "heading": "İhbar veya tazminat ödenir mi?",
+      "paragraphs": [
+        "Deneme süresinin en belirgin özelliği fesih kolaylığıdır. Taraflar açısından uzun bekleme süreleri ortadan kalkar.",
+        "Deneme süresi içinde taraflar iş sözleşmesini **bildirim süresine gerek olmaksızın** ve tazminatsız feshedebilir."
+      ],
+      "bullets": [
+        "İhbar süresi beklemek gerekmez",
+        "Kıdem veya ihbar tazminatı ödenmez"
+      ]
+    },
+    {
+      "heading": "Yıllık izin hesabına etkisi nedir?",
+      "paragraphs": [
+        "Çalışmaya başladığınız ilk günden itibaren gelecek dönemin hesapları başlar. Yıllık izin hakkı bu dönemi de kapsar.",
+        "İşyerinde işe başladığı günden itibaren, **deneme süresi de içinde olmak üzere** en az bir yıl çalışmış olan işçilere yıllık ücretli izin verilir."
+      ],
+      "bullets": [
+        "Deneme süresi bir yıllık kıdeme dâhildir",
+        "Yıllık izin hakkından vazgeçilemez"
+      ]
+    }
+  ],
+  "steps": [
+    "İş sözleşmenizde deneme kaydı olup olmadığını ve süresini kontrol edin.",
+    "Çalıştığınız günlerin ücret ve yasal haklarının eksiksiz ödendiğinden emin olun.",
+    "Fesih durumunda ihbar süresi aranmadığını bilin.",
+    "İleride doğacak yıllık izin hesaplamasında deneme süresinin hesaba katıldığını unutmayın."
+  ],
+  "documents": [
+    "İş sözleşmesi",
+    "Ücret bordroları",
+    "Çalışma günlerini gösteren kayıtlar"
+  ],
+  "faq": [
+    {
+      "q": "Deneme süresi en fazla ne kadar uzayabilir?",
+      "a": "Normal şartlarda en çok iki ay olan bu süre, toplu iş sözleşmeleriyle en çok dört aya kadar uzatılabilir."
+    },
+    {
+      "q": "Deneme süresinde işten çıkarsam ihbar tazminatı öder miyim?",
+      "a": "Hayır, bu süreçte bildirim süresine gerek olmaksızın fesih yapılabilir ve ihbar tazminatı ödenmez."
+    },
+    {
+      "q": "Deneme süresindeki çalışmalar yıllık izin hesabına sayılır mı?",
+      "a": "Evet, işyerinde işe başladığınız günden itibaren deneme süresi de bir yıllık çalışma süresine dâhildir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "is-sozlesmesi-feshi",
+  "angle": "Deneme",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

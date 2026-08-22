@@ -1,0 +1,112 @@
+{
+  "slug": "on-sozlesme-nedir",
+  "title": "Ön sözleşme — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Ön sözleşme hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "Ön sözleşme",
+  "keywords": [
+    "ön sözleşme",
+    "on sozlesme nedir"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "temerrut-faizi-nedir",
+    "gayrimenkul-satis-vaadi",
+    "satis-vaadi-icra",
+    "kira-sozlesmesi-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/temerrut-faizi-nedir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=%C3%B6n%20s%C3%B6zle%C5%9Fme"
+    }
+  ],
+  "lead": "Ev veya dükkan alırken el sıkıştınız, hatta kağıda döktünüz ama asıl imza atılmadı. Ön sözleşme, tarafları ileride asıl sözleşmeyi yapmaya mecbur bırakan **karşılıklı irade açıklamasıdır**.",
+  "keyInsight": "Ön sözleşmenin geçerliliği, ileride yapılacak asıl sözleşmenin **şekil şartına** birebir bağlıdır.",
+  "sections": [
+    {
+      "heading": "İmza atarken neye söz veriyorsunuz?",
+      "paragraphs": [
+        "Masadasınız. Karşı tarafla henüz tapuyu devretmiyorsunuz veya büyük paralar ödemiyorsunuz ama 'biz bu işi yapacağız' diyorsunuz. İşte bu an, gelecekteki anlaşmanın temelidir.",
+        "Tarafların iradelerini karşılıklı ve birbirine uygun olarak açıklamasıyla bu bağ kurulur. İrade açık olabileceği gibi örtülü de olabilir."
+      ],
+      "bullets": [
+        "Karşılıklı irade şarttır.",
+        "Gelecekteki sözleşmenin habercisidir."
+      ]
+    },
+    {
+      "heading": "Sözleşme hangi an, nasıl kurulur?",
+      "paragraphs": [
+        "Bir masada yüz yüze otururken anlaşmakla, şehirler hatta ülkeler arasında yazışarak anlaşmak aynı değildir. Hazır olmayanlar arasında kurulan sözleşmeler, kabulün gönderildiği andan başlayarak **hüküm doğurur**.",
+        "Eğer açık bir kabulün gerekli olmadığı bir durum varsa, önerinin karşı tarafa ulaşma anı beklenir. Bu detay, zamanlama uyuşmazlıklarında hak kaybı yaşamamak için kritik önem taşır."
+      ],
+      "bullets": [
+        "Posta veya mesajla kabulde gönderim anı önemlidir.",
+        "Öneri karşı tarafa ulaşınca süreç işler."
+      ]
+    },
+    {
+      "heading": "Ortada bozulacak veya masraf çıkaracak mal varsa",
+      "paragraphs": [
+        "İşler her zaman kağıt üstündeki gibi düzgün gitmeyebilir. Sözleşmenin konusu olan şeyin niteliği saklanmaya, depolanmaya uygun düşmeyebilir ya da mal çabuk bozulabilir.",
+        "Eğer malın bakımı veya korunması önemli bir masraf gerektiriyorsa, borçlu taraf alacaklıya önceden ihtarda bulunmak koşuluyla hakimin iznini alarak **açık artırma yoluyla satış** yaptırabilir."
+      ],
+      "bullets": [
+        "Bozulabilir mallar için hızlı hareket gerekir.",
+        "Masraflı durumlar hakim iznine bağlanabilir."
+      ]
+    },
+    {
+      "heading": "Piyasa fiyatı olan mallarda durum nedir?",
+      "paragraphs": [
+        "Her malın saklanma koşulu bir değildir. Teslim edilecek şey borsada kayıtlıysa, piyasa fiyatı varsa ya da yapılacak masrafa oranla değeri çok azsa işler kolaylaşır.",
+        "Bu gibi durumlarda satışın açık artırma yoluyla yapılması zorunlu değildir. Hakim, önceden ihtarda bulunma koşulunu aramaksızın **doğrudan satışa izin** verebilir."
+      ],
+      "bullets": [
+        "Borsadaki mallar için ihale şartı aranmaz.",
+        "Değeri düşük şeylerde pratik yol seçilir."
+      ]
+    }
+  ],
+  "steps": [
+    "Taraflar arasındaki irade uyuşmazlığını net şekilde yazılı hale getirin.",
+    "İleride yapılacak asıl sözleşmenin şekil şartlarını önceden inceleyin.",
+    "Eğer malın korunması masraflı veya riskliyse hakimin yoluna başvurun.",
+    "Piyasa fiyatı ve borsa durumuna göre satış yöntemini belirleyin."
+  ],
+  "documents": [
+    "Ön sözleşme metni",
+    "İradeyi gösteren yazışma veya teklifler",
+    "Hakimlik başvuru ve izin evrakları",
+    "Piyasa fiyatını veya borsa kaydını gösteren belgeler"
+  ],
+  "faq": [
+    {
+      "q": "Ön sözleşme tek taraflı bozulabilir mi?",
+      "a": "Tarafların iradeleri karşılıklı ve uygun şekilde açıklandığı için tek taraflı caymalar hukuki uyuşmazlık doğurur."
+    },
+    {
+      "q": "Bozulacak mallar için ne yapmak gerekir?",
+      "a": "Önceden ihtarda bulunarak hakimin izniyle satış yolu aranabilir."
+    },
+    {
+      "q": "Her mal için açık artırma şart mı?",
+      "a": "Borsada kayıtlı veya piyasa fiyatı olan mallarda açık artırma zorunluluğu aranmaz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "temerrut-faizi-nedir",
+  "angle": "Ön sözleşme",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

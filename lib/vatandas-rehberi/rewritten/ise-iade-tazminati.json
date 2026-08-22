@@ -1,0 +1,111 @@
+{
+  "slug": "ise-iade-tazminati",
+  "title": "İşe Başlatmama Tazminatı (4–8 Ay) | Vatandaş Rehberi",
+  "description": "İşe başlatmama tazminatı ne kadardır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
+  "h1": "İşe başlatmama tazminatı ne kadardır?",
+  "keywords": [
+    "işe başlatmama tazminatı",
+    "işe iade tazminatı 4-8 ay"
+  ],
+  "category": "İş",
+  "related": [
+    "ise-iade-davasi",
+    "isse-iade-arabuluculuk",
+    "kidem-tazminati-nasil-alinir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/ise-iade-davasi"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/ise-iade"
+    }
+  ],
+  "lead": "Mahkeme feshin geçersizliğine karar verdiğinde işveren sizi bir ay içinde işe başlatmak zorundadır. Başvurunuza rağmen işe başlatılmazsanız, en az dört ve en çok sekiz aylık ücretiniz tutarında tazminat ödenir.",
+  "keyInsight": "Kararın kesinleşmesinden sonra işe başlamak için işverene süresinde yazılı başvuruda bulunmazsanız, tüm haklarınızı kaybedersiniz.",
+  "sections": [
+    {
+      "heading": "İşe iade kararı sonrası ilk adım ne?",
+      "paragraphs": [
+        "Mahkeme veya özel hakem feshin geçersizliğine karar verdiğinde, işveren sizi **bir ay içinde** işe başlatmak zorundadır. Bu süre zarfında işe dönmeniz için resmi adımların atılması beklenir.",
+        "İşveren bu süre içinde sizi işe başlatmazsa, işçiye en az dört aylık ve en çok sekiz aylık ücreti tutarında tazminat ödemekle yükümlü olur."
+      ],
+      "bullets": [
+        "Karar kesinleşmelidir",
+        "İşverene başvuru şarttır"
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırınca ne olur?",
+      "paragraphs": [
+        "İşçi kesinleşen mahkeme veya özel hakem kararının tebliğinden itibaren **on işgünü içinde** işe başlamak için işverene başvuruda bulunmak zorundadır.",
+        "İşçi bu süre içinde başvuruda bulunmaz ise, işverence yapılmış olan fesih geçerli bir fesih sayılır ve işveren sadece bunun hukuki sonuçları ile sorumlu olur."
+      ],
+      "bullets": [
+        "10 işgünü kritik süredir",
+        "Başvuru yapılmazsa hak düşer"
+      ]
+    },
+    {
+      "heading": "Tazminat miktarı nasıl belirlenir?",
+      "paragraphs": [
+        "Mahkeme veya özel hakem, işe başlatılmama tazminatı ile çalıştırılmadığınız süreye ait ücret ve diğer hakları **dava tarihindeki ücreti** esas alarak parasal olarak belirler.",
+        "İşçi işe başlatılırsa, peşin olarak ödenen bildirim süresine ait ücret ile kıdem tazminatı yapılacak ödemeden mahsup edilir."
+      ],
+      "bullets": [
+        "Dava tarihindeki ücret baz alınır",
+        "Önceden ödenenler düşülür"
+      ]
+    },
+    {
+      "heading": "Arabuluculuk yolunda nelere dikkat etmeli?",
+      "paragraphs": [
+        "Arabuluculuk faaliyeti sonunda tarafların, işçinin işe başlatılması konusunda anlaşmaları hâlinde bazı unsurları netleştirmesi şarttır.",
+        "İşe başlatma tarihini, ücret ve diğer hakların parasal miktarını, işçinin işe başlatılmaması durumunda ödenecek tazminatın parasal miktarını belirlemeleri **zorunludur**. Aksi takdirde anlaşma sağlanamamış sayılır."
+      ],
+      "bullets": [
+        "Tarih ve tutarlar net yazılmalı",
+        "Eksik belirleme anlaşmayı yakar"
+      ]
+    }
+  ],
+  "steps": [
+    "Mahkeme veya özel hakem kararının size tebliğ edilmesini bekleyin.",
+    "Kararın kesinleşmesinin ardından on işgünü içinde işverene işe başlama başvurusu yapın.",
+    "İşverenin bir aylık yasal sürede sizi işe başlatmasını bekleyin.",
+    "İşe başlatılmadığınız takdirde, mahkemenin belirlediği tazminat ve hakların ödenmesini talep edin."
+  ],
+  "documents": [
+    "Mahkeme veya özel hakem karar ilamı",
+    "Kararın tebliğ evrakı",
+    "İşverene yapılan başvuru dilekçesi",
+    "Dava tarihindeki ücretinizi gösteren bordro veya belgeler"
+  ],
+  "faq": [
+    {
+      "q": "İşe başlatmama tazminatı tam olarak ne kadar?",
+      "a": "Mahkeme veya özel hakem tarafından en az dört aylık ve en çok sekiz aylık ücretiniz tutarında belirlenir."
+    },
+    {
+      "q": "İşe başlamak için ne kadar sürem var?",
+      "a": "Kesinleşen kararın size tebliğinden itibaren on işgünü içinde işverene başvurmak zorundasınız."
+    },
+    {
+      "q": "İşveren süresi içinde işe başlatmazsa ne talep edebilirim?",
+      "a": "İşe başlatmama tazminatının yanı sıra, kararın kesinleşmesine kadar çalıştırılmadığınız süre için en çok dört aya kadar doğmuş bulunan ücret ve diğer haklarınızı alabilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "ise-iade-davasi",
+  "angle": "İşe başlatmama tazminatı miktar aralığı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

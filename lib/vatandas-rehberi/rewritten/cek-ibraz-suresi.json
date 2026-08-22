@@ -1,0 +1,112 @@
+{
+  "slug": "cek-ibraz-suresi",
+  "title": "Çek ibraz süresi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Çek ibraz süresi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
+  "h1": "Çek ibraz süresi",
+  "keywords": [
+    "çek ibraz süresi",
+    "cek ibraz suresi"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "cek-karsiliksiz",
+    "cek-nasil-yazilir",
+    "kambiyo-senetlerine-ozgu-takip"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/cek-karsiliksiz"
+    },
+    {
+      "label": "Çek",
+      "href": "/kategori/cek"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Elindeki çeki vaktinde bankaya götürmezsen, hem paranı tahsil edemezsin hem de yasal haklarını kaybedersin. Süre, çekin üzerindeki tarihten itibaren başlar.",
+  "keyInsight": "Çekin üzerinde yazan düzenleme tarihine göre **kanuni ibraz süresi** içinde bankaya başvurulması şarttır; aksi halde karşılıksızdır işlemi yapılamaz.",
+  "sections": [
+    {
+      "heading": "Çeki ne zaman bankaya götürmeli?",
+      "paragraphs": [
+        "Cüzdanınızda yeni aldığınız bir çek var. Asıl soru ne zaman tahsile vereceğinizdir. Çekin üzerinde yazılı bulunan düzenleme tarihine göre kanuni ibraz süresi içinde işlem yapılması gerekir.",
+        "Karşılığı bulunan çek, hesabın bulunduğu muhatap bankanın herhangi bir şubesine ibraz edildiğinde ödenir. Başka bir şubeye verildiyse, o şubece karşılığı sorulmak suretiyle ödeme yapılır."
+      ],
+      "bullets": [
+        "Düzenleme tarihini kontrol edin",
+        "Süresi içinde bankaya başvurun"
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırınca ne olur?",
+      "paragraphs": [
+        "Zamanında ibraz edilmeyen çekler için bankada karşılıksızdır işlemi yapılamaz. Bu durum, elinizdeki senedin güvencesini büyük ölçüde zedeler.",
+        "Hamilin şikayeti üzerine adli para cezası ve çek düzenleme yasağı gibi **ağır yaptırımların** uygulanabilmesi için ibraz süresi kuralına kesinlikle uyulmalıdır."
+      ],
+      "bullets": [
+        "İbraz süresi kaçarsa ceza uygulanmaz",
+        "Şikayet hakkı tehlikeye girer"
+      ]
+    },
+    {
+      "heading": "Banka şubesinde süreç nasıl işler?",
+      "paragraphs": [
+        "Çeki elinize alıp bankaya gittiniz. Banka, hamilin varsa vergi kimlik numarasını saptadıktan sonra ödemeyi gerçekleştirir.",
+        "Eğer çekin karşılığı hiç yoksa veya kısmen varsa, banka kanun hükümleri çerçevesinde **gerekli işlemleri** yapar ve durumu çekin arka yüzüne işler."
+      ],
+      "bullets": [
+        "Vergi numarası kontrol edilir",
+        "Karşılıksız kalanı arkasına yazılır"
+      ]
+    },
+    {
+      "heading": "Yanınızda hangi belgeler olmalı?",
+      "paragraphs": [
+        "İşlemleri hızlandırmak için bankaya giderken bazı evrakı eksiksiz götürmelisiniz. Kimlik tespiti ve vergi numarası bu aşamada kritik önem taşır.",
+        "Tüzel kişi adına tahsilat yapılıyorsa, bu hususun da belgelerle ve imza yetkisiyle desteklenmesi gerekir."
+      ],
+      "bullets": [
+        "Asıl çek yaprağı",
+        "Kimlik belgesi"
+      ]
+    }
+  ],
+  "steps": [
+    "Çekin üzerindeki düzenleme tarihini inceleyin.",
+    "Kanuni ibraz süresi içinde muhatap bankaya gidin.",
+    "Vergi kimlik numaranızı ve kimliğinizi ibraz edin.",
+    "Çekin karşılığının bulunup bulunmadığını sorgulatın.",
+    "Ödeme yapılmazsa çekin arka yüzüne karşılıksızdır şerhini düşürtün."
+  ],
+  "documents": [
+    "Asıl çek yaprağı",
+    "Fotoğraflı kimlik belgesi",
+    "Vergi kimlik numarası",
+    "Yetki belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Çeki başka şubeye götürebilir miyim?",
+      "a": "Evet, hesabın bulunduğu şubeden başka bir şubeye ibraz edebilirsiniz; ancak bu durumda ödeme için diğer şubeden karşılık sorulması gerekir."
+    },
+    {
+      "q": "Karşılıksızdır işlemi nasıl yapılır?",
+      "a": "Hamilin talebi halinde, çekin arka yüzüne ibraz tarihi, hesap durumu, ödenen miktar ve ibraz edenin bilgileri yazılıp imzalanarak yapılır."
+    },
+    {
+      "q": "Süresinde ibraz edilmezse ne olur?",
+      "a": "Süresinde ibraz edilmeyen çekler için karşılıksızdır işlemi yapılamaz ve cezai sorumluluk doğuran yollara başvurmak zorlaşır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "cek-karsiliksiz",
+  "angle": "Çek ibraz süresi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

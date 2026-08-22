@@ -1,0 +1,112 @@
+{
+  "slug": "dogum-borclanmasi",
+  "title": "Doğum borçlanması nasıl yapılır — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Doğum borçlanması nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
+  "h1": "Doğum borçlanması nasıl yapılır?",
+  "keywords": [
+    "doğum borçlanması",
+    "SGK doğum borçlanma"
+  ],
+  "category": "Sosyal Güvenlik",
+  "related": [
+    "emeklilik-sartlari",
+    "sgk-hizmet-dokumu",
+    "askeri-hizmet-borclanma"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/emeklilik-sartlari"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=do%C4%9Fum"
+    }
+  ],
+  "lead": "Çocuğunuz doğduktan sonra geçen ve çalışamadığınız bazı süreleri borçlanarak prim gün sayınızı artırabilirsiniz. Asıl mesele, doğumdan önce sigortalı olup olmadığınız ve çocuğun yaşamasıdır.",
+  "keyInsight": "Doğum borçlanması için çocuğun yaşaması ve doğumdan önce sigortalı olunması şarttır.",
+  "sections": [
+    {
+      "heading": "Kimler bu haktan yararlanabilir?",
+      "paragraphs": [
+        "İşten çıktınız ya da çalışmaya devam ediyorsunuz. Kadın sigortalılar için kanun, ücretsiz doğum ya da analık izni süreleri veya doğum sonrasındaki dönemi kapsayan borçlanma imkanı tanır.",
+        "Bu haktan faydalanmak için **doğum tarihinden önce** sigortalı tescilinizin yapılmış olması gerekir. Sigortasız geçen dönemler için bu yola başvuramazsınız."
+      ],
+      "bullets": [
+        "En fazla üç defa yapılabilir.",
+        "Çocuğun yaşaması zorunludur."
+      ]
+    },
+    {
+      "heading": "Hangi süreler hesaba katılır?",
+      "paragraphs": [
+        "Kanun, kadın sigortalılar için **üç defaya mahsus** olmak üzere doğum tarihinden sonraki süreyi geçmemek şartıyla borçlanma hakkı verir. Bu süreçte uzun vadeli sigorta kolları açısından sigortalı sayılmama durumu aranır.",
+        "Sürenin hesaplanmasında çocuğun hayatta olması ve **yazılı talepte bulunulması** temel kuraldır. Kurum tarafından belirlenen günlük kazanç sınırları arasında seçim yapılır."
+      ],
+      "bullets": [
+        "Doğumdan sonraki iki yılı aşamaz.",
+        "Talep edilen süreler esas alınır."
+      ]
+    },
+    {
+      "heading": "Başvuru nasıl işleme alınır?",
+      "paragraphs": [
+        "Kuruma başvurduğunuzda, prime esas günlük kazanç alt ve üst sınırları arasında bir tutar belirlenir. Bu tutar sizin yapacağınız ödemenin miktarını belirler.",
+        "Borçlanma tutarı hesaplandıktan sonra ödemenin zamanında yapılması gerekir. Ödeme yapılmadığı sürece prim günleri hanenize eklenmez."
+      ],
+      "bullets": [
+        "Günlük kazanç sınırlarına dikkat edilir.",
+        "Yazılı talep şarttır."
+      ]
+    },
+    {
+      "heading": "Süreci etkileyen diğer detaylar",
+      "paragraphs": [
+        "Borçlanma yaparken kanunun belirttiği statülere uygun olup olmadığınıza bakmalısınız. Yanlış adımlar sürecin uzamasına yol açabilir.",
+        "Eksik kalan primlerinizi tamamlamak için bu yol önemli bir imkandır ancak **mevzuattaki şartları** eksiksiz yerine getirmeniz beklenir."
+      ],
+      "bullets": [
+        "Statü uyumu önemlidir.",
+        "Eksik primler tamamlanır."
+      ]
+    }
+  ],
+  "steps": [
+    "Doğum tarihlerini ve sigortalılık statüsünü kontrol edin.",
+    "Kanundaki çocuk sayısı ve süre tavanını okuyun.",
+    "SGK’ya borçlanma talep edin.",
+    "Tahakkuku ödeyin.",
+    "Hizmet dökümünde günlerin düştüğünü doğrulayın."
+  ],
+  "documents": [
+    "nüfus kayıt",
+    "doğum belgeleri",
+    "tahakkuk",
+    "ödeme dekontu"
+  ],
+  "faq": [
+    {
+      "q": "Her doğum için borçlanma yapılabilir mi?",
+      "a": "Kanun en fazla üç defaya mahsus olmak üzere bu hakkı tanır."
+    },
+    {
+      "q": "Sigortasız dönemdeki doğum borçlandırılabilir mi?",
+      "a": "Doğum tarihinden önce sigortalı olunması şartı aranır."
+    },
+    {
+      "q": "Borçlanma için nereye başvurulmalıdır?",
+      "a": "Yazılı talep ile Sosyal Güvenlik Kurumu'na başvurulur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "emeklilik-sartlari",
+  "angle": "Doğum borçlanma",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "e-haciz-nedir",
+  "title": "e-Haciz nedir? Nasıl kalkar — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "e-Haciz nedir? Nasıl kalkar? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
+  "h1": "e-Haciz nedir? Nasıl kalkar?",
+  "keywords": [
+    "e-haciz nedir",
+    "vergi e-haciz"
+  ],
+  "category": "Vergi",
+  "related": [
+    "icra-takibi-nedir",
+    "vergi-borcu-yapislandirma",
+    "banka-hesabi-haczi",
+    "e-devlet-vergi-borcu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "AATUHK",
+      "href": "/kategori/aatuhk"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Hesabınıza baktığınızda blokeyle karşılaşmak sarsıcıdır. e-Haciz, borcunuz nedeniyle mal varlığınıza elektronik ortamda konulan tedbirdir.",
+  "keyInsight": "Borcun tamamı ödenmeden veya teminat gösterilmeden haciz kaldırılamaz.",
+  "sections": [
+    {
+      "heading": "Haciz ne zaman gündeme gelir?",
+      "paragraphs": [
+        "Borç vadesinde ödenmediğinde tahsil süreci başlar. Vergi dairesi elektronik sistemler üzerinden mal varlığınızı inceleyebilir.",
+        "Menkul ve gayrimenkuller ile banka hesaplarına bu yolla erişim sağlanır."
+      ],
+      "bullets": [
+        "Vadesi gelen ödemeler takip edilir.",
+        "Elektronik ortamda haciz bildirimi yapılır."
+      ]
+    },
+    {
+      "heading": "Teminat olarak neler kabul edilir?",
+      "paragraphs": [
+        "Borç için güvence göstermek süreci yürütmek adına önemlidir. Para, bankalarca verilen **süresiz ve şartsız** teminat mektupları kabul görür.",
+        "Ayrıca sigorta şirketlerinin kefalet senetleri ile devlet iç borçlanma senetleri teminat olarak sunulabilir."
+      ],
+      "bullets": [
+        "Nakit para ve teminat mektupları",
+        "Hazine senetleri ve haczedilen mallar"
+      ]
+    },
+    {
+      "heading": "Teminatın değeri düşerse ne olur?",
+      "paragraphs": [
+        "Verilen teminat sonradan değerini kaybedebilir. Borç miktarında artış olması da mümkündür.",
+        "Bu durumda idare **tamamlanmasını** veya yeni teminat gösterilmesini ister."
+      ],
+      "bullets": [
+        "Eksilen teminatın yenilenmesi gerekir.",
+        "Borçlu teminatı aynı değerde başkasıyla değiştirebilir."
+      ]
+    },
+    {
+      "heading": "Haciz nasıl kalkar?",
+      "paragraphs": [
+        "Blokenin kaldırılması için borcun ödenmesi veya uygun teminatın gösterilmesi şarttır. İdare gerekli incelemeyi yapar.",
+        "İşlemlerin ardından elektronik sistem üzerinden kaldırma kaydı düşülür."
+      ],
+      "bullets": [
+        "Borcun ödenmesi",
+        "Geçerli teminat sunulması"
+      ]
+    }
+  ],
+  "steps": [
+    "Vergi dairesine başvurarak borç dökümünü öğrenin.",
+    "Borcu ödeyin veya teminat gösterin.",
+    "İşlemin sisteme işlenmesini bekleyin.",
+    "e-Devlet üzerinden kontrol sağlayın."
+  ],
+  "documents": [
+    "Kimlik belgesi",
+    "Ödeme makbuzu",
+    "Teminat mektubu veya senet",
+    "Dilekçe"
+  ],
+  "faq": [
+    {
+      "q": "e-Haciz tüm hesapları kapsar mı?",
+      "a": "İlgili vergi dairesinin koyduğu haciz, bankalardaki hesaplarınıza elektronik yolla yansır."
+    },
+    {
+      "q": "Hangi mallar teminat sayılır?",
+      "a": "Para, süresiz teminat mektupları ve devlet iç borçlanma senetleri teminat olarak kabul edilir."
+    },
+    {
+      "q": "Teminat yetersiz kalırsa ne olur?",
+      "a": "İdare teminatın tamamlanmasını veya yerine başka teminat gösterilmesini talep eder."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Vergi e-haciz",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

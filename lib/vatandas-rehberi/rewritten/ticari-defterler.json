@@ -1,0 +1,113 @@
+{
+  "slug": "ticari-defterler",
+  "title": "Ticari defterler — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Ticari defterler hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
+  "h1": "Ticari defterler",
+  "keywords": [
+    "ticari defterler",
+    "ticari defterler"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "sirket-kurulusu",
+    "ticari-isletme-nedir",
+    "haksiz-rekabet-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/sirket-kurulusu"
+    },
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-isletme"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=defter"
+    }
+  ],
+  "lead": "Ticari defterler ve kayıtlar, işletmenizin finansal durumunu gösteren en önemli resmi belgelerdir. Bu kayıtların tutulması, saklanması ve denetim sırasında ibraz edilmesi hukuki bir zorunluluktur.",
+  "keyInsight": "Ticari defter ve kayıtlarda usulsüzlük yapmak, kayıtları bozmak veya denetim sırasında istenen belgeleri vermemek ağır cezai yaptırımlara yol açar.",
+  "sections": [
+    {
+      "heading": "Kayıtların tutulması ve denetimi",
+      "paragraphs": [
+        "İş hayatında defterlerin usulüne uygun tutulması ve güncel tutulması esastır. Şirketler arası birleşme veya bölünme gibi süreçlerde, son bilançodan sonra önemli değişiklikler olmuşsa ara bilanço çıkarılması gerekir.",
+        "Ara bilançolar hazırlanırken fizikî envanter çıkarılması zorunlu değildir. Değerlemeler sadece **ticari defterdeki hareketler** ölçüsünde değiştirilir ve ara bilanço yıllık bilançoya tabi olur."
+      ],
+      "bullets": [
+        "Ara bilanço hazırlama zorunluluğu",
+        "Defter hareketlerine göre değerleme"
+      ]
+    },
+    {
+      "heading": "Bilgi isteme ve defter inceleme hakkı",
+      "paragraphs": [
+        "Ticari ilişkilerde ve özellikle acentelik sözleşmelerinde tarafların bilgi talep etme hakkı bulunur. Acente, ücrete bağlı işlemlere ilişkin defter kayıtlarının suretlerini isteyebilir.",
+        "Müvekkil defter suretini vermekten kaçınırsa veya defterlerin doğruluğu konusunda kuşku duyulursa, acente ilgili kısımları **kendisi inceleyebilir veya uzmana inceletebilir**."
+      ],
+      "bullets": [
+        "Defter kayıt sureti isteme",
+        "Uzman incelemesi talep etme"
+      ]
+    },
+    {
+      "heading": "Çek defterleri ve bankaların yükümlülüğü",
+      "paragraphs": [
+        "Bankalar, çek hesabı açarken ve çek defteri verirken kişilerin yasaklılık durumunu araştırmakla yükümlüdür. Hesap açmak isteyenler, haklarında çek düzenleme yasağı bulunmadığına dair **yazılı beyanda** bulunmak zorundadır.",
+        "Çek hesabının kapatılması hâlinde, bankalar açılış ve kimlik belgelerini hesabın kapatıldığı tarihten itibaren uzun süre saklamak zorundadır."
+      ],
+      "bullets": [
+        "Yazılı yasaklık beyanı",
+        "Hesap kapandıktan sonra belge saklama"
+      ]
+    },
+    {
+      "heading": "Defterlerde usulsüzlük ve denetimin engellenmesi",
+      "paragraphs": [
+        "Yasal defterlerde, muhasebe kayıtlarında ve finansal raporlarda usulsüzlük yapılması, kayıtların bozulması veya yok edilmesi hukuki ve cezai sorumluluk doğurur.",
+        "Yetkili makamlarca istenen bilgi, belge ve elektronik kayıtların hiç veya istenen şekliyle verilmemesi **hapis cezası ile cezalandırılır**."
+      ],
+      "bullets": [
+        "Kayıtları bozma veya yok etme yasağı",
+        "Denetime ve bilgi istemeye direnç gösterememe"
+      ]
+    }
+  ],
+  "steps": [
+    "Ticari defterlerinizi ve ara bilançolarınızı yasal ilkelere uygun şekilde tutun.",
+    "Yetkili denetçiler veya kurumlar tarafından istenen bilgi ve belgeleri eksiksiz sunun.",
+    "Çek hesabı açarken veya çek defteri alırken yasaklılık durumunuzu yazılı olarak beyan edin.",
+    "Defter incelemesi talebi geldiğinde ilgili kayıtların incelenmesine izin verin.",
+    "Hesap ve defter kayıtlarını kanuni süreler boyunca güvenli şekilde saklayın."
+  ],
+  "documents": [
+    "Ticari defterler",
+    "Ara bilanço",
+    "Yazılı beyanname",
+    "Kimlik ve yetki belgeleri",
+    "İnceleme raporları"
+  ],
+  "faq": [
+    {
+      "q": "Ara bilanço düzenlenirken fizikî envanter şart mı?",
+      "a": "Hayır, ara bilanço için fizikî envanter çıkarılması gerekli değildir; değerlemeler ticari defterdeki hareketler ölçüsünde yapılır."
+    },
+    {
+      "q": "Müvekkil defter suretini vermezse ne yapılabilir?",
+      "a": "Acente, ticari defter ve belgelerin ilgili kısımlarını kendisi inceleyebilir veya bir uzmana inceletebilir."
+    },
+    {
+      "q": "İstenen bilgi ve belgeleri vermemenin sonucu nedir?",
+      "a": "Yetkili merciler tarafından istenen bilgi, belge ve elektronik kayıtların verilmemesi hapis cezası ile cezalandırılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "sirket-kurulusu",
+  "angle": "Ticari defterler",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

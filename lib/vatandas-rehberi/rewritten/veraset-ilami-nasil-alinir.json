@@ -1,0 +1,114 @@
+{
+  "slug": "veraset-ilami-nasil-alinir",
+  "title": "Veraset İlamı: Noterden mi, Mahkemeden mi Alınır?",
+  "description": "Mirasçılık belgesi nereden alınır, noter hangi hâllerde verir, belge yanlışsa ne yapılır? TMK m.598 ve m.599 çerçevesinde adım adım.",
+  "h1": "Veraset ilamı nasıl alınır?",
+  "keywords": [
+    "veraset ilamı",
+    "mirasçılık belgesi",
+    "noterden veraset ilamı",
+    "veraset belgesi nasıl alınır",
+    "mirasçılık belgesinin iptali"
+  ],
+  "category": "Miras",
+  "related": [
+    "miras-paylasimi-nasil-yapilir",
+    "mirasin-reddi",
+    "tenkis-davasi-ve-sakli-pay"
+  ],
+  "links": [
+    {
+      "label": "TMK m.598 — Mirasçılık belgesi",
+      "href": "/mevzuat/tmk/madde-598"
+    },
+    {
+      "label": "TMK m.599 — Mirasın kazanılması",
+      "href": "/mevzuat/tmk/madde-599"
+    },
+    {
+      "label": "TMK m.606 — Mirasın reddi süresi",
+      "href": "/mevzuat/tmk/madde-606"
+    },
+    {
+      "label": "Miras paylaşımı hesaplama aracı",
+      "href": "/hesaplama/miras"
+    }
+  ],
+  "lead": "Yakınınızı kaybettiniz ve işlemler için mirasçı olduğunuzu kanıtlamanız gerekiyor. Veraset ilamı, yani mirasçılık belgesi, mirasbırakanın ölümünün ardından kimlerin mirasçı olduğunu ve paylarını gösteren resmî belgedir. Bu belgeyi almak için genellikle noterler en hızlı yoldur.",
+  "keyInsight": "Mirasçılık belgesini almak için acele ederken, mirasın reddi için kanunun tanıdığı **üç aylık** hak düşürücü sürenin ölüm tarihiyle birlikte işlemeye başladığını asla unutmamalısınız.",
+  "sections": [
+    {
+      "heading": "Hangi kapıyı çalmalısınız?",
+      "paragraphs": [
+        "Cenaze işlemlerinin telaşı henüz yatışmışken kendinizi resmî kurumların önünde bulursunuz. Tapuda devir yapmak, bankadaki hesaptan para çekmek ya da bir aracın intikalini sağlamak için ilk istenecek evrak mirasçılık belgesidir. Kanunumuz bu belgeyi almak için size iki farklı kapı açar: Noterler ve sulh hukuk mahkemeleri.",
+        "Eğer aile bağlarında yabancılık unsuru yoksa ve nüfus kayıtları pürüzsüzse en pratik yol notere gitmektir. Noter, elektronik sistem üzerinden kayıtları inceleyerek belgenizi **aynı gün** içinde size teslim eder. Ancak nüfus kayıtlarında bir çelişki, eksiklik varsa veya işin içinde yabancılık unsuru bulunuyorsa noter size belgeyi veremez; bu durumda sulh hukuk mahkemesinin yolunu tutmanız gerekir."
+      ],
+      "bullets": [
+        "Yasal mirasçılar için pürüzsüz kayıtlarda: Noter",
+        "Kayıtlarda çelişki veya yabancılık unsuru varsa: Sulh Hukuk Mahkemesi",
+        "Vasiyetnameyle atanan mirasçılar için: Sulh Hukuk Mahkemesi"
+      ]
+    },
+    {
+      "heading": "Vasiyetname varsa süreç nasıl işler?",
+      "paragraphs": [
+        "Mirasbırakan arkasında bir vasiyetname bıraktıysa ve siz bu vasiyetle mirasçı olarak atandıysanız süreç biraz daha sabır gerektirir. Atanmış mirasçılar veya vasiyet alacaklıları doğrudan notere gidip belge alamazlar. Bu durumda sulh hukuk mahkemesine başvurulması zorunludur.",
+        "Mahkeme süreci hemen tamamlanmaz. Kanun, diğer mirasçıların haklarını korumak adına **bir aylık** bir itiraz süresi öngörür. Vasiyetnamenin açılıp ilgili kişilere resmen bildirilmesinden itibaren bu bir ay içinde hiçbir mirasçı itiraz etmezse, mahkeme size atanmış mirasçı olduğunuzu gösteren belgeyi teslim eder."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Belgeyi almak borçları kabul etmek midir?",
+      "paragraphs": [
+        "En sık düşülen tuzak, bu belgeyi talep etmenin mirası kayıtsız şartsız kabul etmek olduğu yanılgısıdır. Mirasçılık belgesi sadece sizin o kişinin mirasçısı olduğunuzu tespit eder. Mirası kabul edip etmemeniz ise tamamen ayrı bir irade beyanıdır.",
+        "Ancak burada zamana karşı yarışırsınız. Kanun gereği mirasbırakanın ölümüyle birlikte tüm malvarlığı ve borçları kendiliğinden size geçer. Eğer vefat eden kişinin borçları alacaklarından fazlaysa ve mirası reddetmek istiyorsanız, ölümü öğrendiğiniz andan itibaren **üç ay** içinde sulh hukuk mahkemesinde mirasın reddi davası açmalısınız. Belgeyi çıkarmak için beklerken bu süreyi kaçırmamaya azami dikkat göstermelisiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Belgedeki paylar hatalıysa ne yapmalısınız?",
+      "paragraphs": [
+        "Elinize ulaşan mirasçılık belgesi mutlak ve değiştirilemez bir mahkeme kararı değildir. Kanun, bu belgenin geçersizliğinin her zaman ileri sürülebileceğini açıkça belirtir. Belgede adınızın hiç yazılmadığını veya miras payınızın yanlış hesaplandığını fark edebilirsiniz.",
+        "Böyle bir durumda panik yapmanıza gerek yoktur. Hatalı belgeye dayanılarak yapılan tüm tapu devirleri, banka işlemleri ve diğer tasarruflar sonradan açılacak bir dava ile tartışmaya açılabilir. Hakkı yenilen mirasçı, her zaman mirasçılık belgesinin iptali davası açarak gerçek durumun tescil edilmesini isteyebilir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Öncelikle e-Devlet üzerinden adınıza düzenlenmiş hazır bir mirasçılık belgesi olup olmadığını kontrol edin.",
+    "Nüfus müdürlüğünden vukuatlı nüfus kayıt örneği alarak mirasçı silsilesini doğrulayın.",
+    "Mirasbırakanın borç durumunu e-Devlet icra sorguları ve banka kayıtları üzerinden araştırın.",
+    "Kayıtlar temiz ve eksiksiz ise en yakın notere kimliğinizle başvurarak belgenizi aynı gün teslim alın.",
+    "Kayıtlarda uyuşmazlık varsa veya vasiyetname söz konusuysa sulh hukuk mahkemesine dilekçe ile başvurun.",
+    "Belgeyi aldıktan sonra tapu müdürlüğüne giderek taşınmazların intikal işlemlerini başlatın."
+  ],
+  "documents": [
+    "Mirasbırakana ait ölüm belgesi",
+    "Başvuran mirasçının T.C. kimlik kartı",
+    "Vukuatlı nüfus kayıt örneği",
+    "Varsa vasiyetname örneği ve açılma kararı"
+  ],
+  "faq": [
+    {
+      "q": "Veraset ilamını noterden almak için tüm mirasçıların birlikte gitmesi gerekir mi?",
+      "a": "Hayır, mirasçılardan sadece birinin tek başına başvurması noterden veraset ilamı almak için yeterlidir."
+    },
+    {
+      "q": "Mirasın reddi süresi işlerken veraset ilamı alabilir miyim?",
+      "a": "Evet, veraset ilamı almak mirası kabul ettiğiniz anlamına gelmez. Ancak üç aylık ret süresini geçirmemeye dikkat etmelisiniz."
+    },
+    {
+      "q": "Yabancı uyruklu kişilerin mirasçı olduğu durumlarda noterden belge alınabilir mi?",
+      "a": "Hayır, yabancılık unsuru içeren dosyalarda noterler işlem yapamaz. Belgeyi almak için sulh hukuk mahkemesine dava açılması gerekir."
+    },
+    {
+      "q": "Veraset ilamı alındıktan sonra tapu doğrudan üzerimize geçer mi?",
+      "a": "Geçmez. Mirasçılık belgesi sadece hak sahipliğinizi gösterir. Tapunun devri için ilgili tapu müdürlüğüne intikal başvurusu yapmanız şarttır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

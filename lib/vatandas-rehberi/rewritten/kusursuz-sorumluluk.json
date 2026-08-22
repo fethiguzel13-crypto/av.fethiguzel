@@ -1,0 +1,111 @@
+{
+  "slug": "kusursuz-sorumluluk",
+  "title": "Kusursuz sorumluluk — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Kusursuz sorumluluk hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
+  "h1": "Kusursuz sorumluluk",
+  "keywords": [
+    "kusursuz sorumluluk",
+    "kusursuz sorumluluk"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "temerrut-faizi-nedir",
+    "tbk-madde-49",
+    "trafik-kazasi-tazminati",
+    "is-kazasi-tazminati"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/temerrut-faizi-nedir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=sorumluluk"
+    }
+  ],
+  "lead": "Hiçbir kusurunuz olmasa bile, başkalarının fiillerinden veya hakkaniyet gereği zarar ödemek zorunda kalabilirsiniz. Hukukta kusursuz sorumluluk, zarar doğduğunda kimin eliyle geldiğine bakar.",
+  "keyInsight": "Yardımcı kişilerin verdiği zararlarda önceden anlaşmayla sorumluluk kaldırılası görünse de uzmanlık gerektiren işlerde bu anlaşmalar geçersizdir.",
+  "sections": [
+    {
+      "heading": "Hakkaniyet nerede başlar?",
+      "paragraphs": [
+        "Gece yarısı kapınızı çalan bir zarar haberini aldınız. Ortada sizin bir ihmaliniz veya kastınız yok. Ancak olayda ayırt etme gücü bulunmayan biri varsa durum değişebilir.",
+        "Hâkim, hakkaniyet gerektiriyorsa, bu kişinin verdiği zararın tamamen veya kısmen giderilmesine karar verebilir. Burada kusurunuz aranmaz; vicdan ve adalet terazisi çalışır."
+      ],
+      "bullets": [
+        "Kusur şart değildir",
+        "Hâkim hakkaniyete bakar"
+      ]
+    },
+    {
+      "heading": "İşi başkasına devretmek sizi kurtarır mı?",
+      "paragraphs": [
+        "Bir işi yürütmesi için yanınıza çalışanlar aldınız veya birlikte yaşadığınız kişilere güvendiniz. Onlar işi yürütürken karşı tarafa bir zarar verdiğinde asıl sorumlu yine siz olursunuz.",
+        "Kanuna uygun şekilde işi devretmiş olmanız, **zararı giderme yükümlülüğünü** ortadan kaldırmaz. Çünkü o işten yarar sağlayan veya organize eden taraf sizsiniz."
+      ],
+      "bullets": [
+        "Yardımcılar ve çalışanlar dahildir",
+        "İşi devretmek sorumluluğu silmez"
+      ]
+    },
+    {
+      "heading": "Sorumluluğu baştan kaldırmak mümkün mü?",
+      "paragraphs": [
+        "Yaptığınız sözleşmelere maddeler koyarak yardımcı kişilerin vereceği zararlardan tamamen kurtulmayı düşünebilirsiniz. Bazı durumlarda bu anlaşmalar yapılabilir.",
+        "Ancak iş uzmanlık, meslek veya sanat gerektiriyorsa ve bu **izinle yürütülüyorsa**, sorumluluğun kalkacağına dair yapılan anlaşmalar kesin olarak hükümsüz sayılır."
+      ],
+      "bullets": [
+        "Uzmanlık gerektiren işler istisnadır",
+        "Sorumsuzluk anlaşmaları geçersiz olabilir"
+      ]
+    },
+    {
+      "heading": "Borç ilişkilerinde kurallar nasıl işler?",
+      "paragraphs": [
+        "Borçlu olduğunuz bir ilişkide her türlü kusurdan sorumlu olmanız asıldır. Ancak üstlendiğiniz iş size hiçbir yarar sağlamıyorsa, sorumluluğunuz daha hafif değerlendirilir.",
+        "Haksız fiillere ilişkin kurallar, sözleşmeye aykırılık durumlarında da kıyas yoluyla uygulanır. Hayatın olağan akışı içinde borçlar hukuku dengeleri gözetir."
+      ],
+      "bullets": [
+        "Yarar sağlamayan işlerde sorumluluk hafifler",
+        "Haksız fiil kuralları kıyasen uygulanır"
+      ]
+    }
+  ],
+  "steps": [
+    "Zararın kim tarafından ve hangi ilişki içinde doğduğunu tespit edin.",
+    "Yardımcı kişinin mi yoksa ayırt etme gücü olmayan birinin mi sebep olduğuna bakın.",
+    "İşin uzmanlık gerektirip gerektirmediğini ve önceden yapılan sözleşmeleri inceleyin.",
+    "Hakkaniyet ve tazminat kapsamı için hukuki durumu netleştirin."
+  ],
+  "documents": [
+    "Sözleşme metinleri",
+    "Zararın doğduğunu gösteren belgeler",
+    "Yetki ve izin belgeleri"
+  ],
+  "faq": [
+    {
+      "q": "Hiç kusurum yoksa yine de tazminat öder miyim?",
+      "a": "Hakkaniyet gerektiriyorsa ayırt etme gücü bulunmayan kişilerin verdiği zararlardan sorumlu tutulabilirsiniz."
+    },
+    {
+      "q": "Çalışanımın verdiği zarardan neden ben sorumluyum?",
+      "a": "Yardımcı kişilerin işi yürüttükleri sırada verdikleri zararları giderme yükümlülüğü kanunen borçluya yüklenmiştir."
+    },
+    {
+      "q": "Sorumluluğu önceden yapılan sözleşmeyle tamamen kaldırabilir miyiz?",
+      "a": "Uzmanlık gerektiren meslek ve sanatlar kanuni izinle yürütülüyorsa bu konudaki sorumluluk kaldırma anlaşmaları kesin hükümsüzdür."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "temerrut-faizi-nedir",
+  "angle": "Kusursuz sorumluluk",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

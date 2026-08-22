@@ -1,0 +1,112 @@
+{
+  "slug": "plaka-devri-arac-satis",
+  "title": "Araç satışı plaka devri — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Araç satışı plaka devri hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
+  "h1": "Araç satışı plaka devri",
+  "keywords": [
+    "araç satışı plaka devri",
+    "plaka devri arac satis"
+  ],
+  "category": "Trafik",
+  "related": [
+    "trafik-kazasi-tazminati",
+    "noter-islemleri",
+    "trafik-sigortasi-hasar",
+    "mtv-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/trafik-kazasi-tazminati"
+    },
+    {
+      "label": "KTK",
+      "href": "/kategori/ktk"
+    },
+    {
+      "label": "Noter",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Aracınızı satmaya karar verdiniz ve sıra resmi devir işlemlerine geldi. Noter dışındaki satışlar geçersiz sayıldığından, tüm sürecin resmi kurallara uygun yürümesi şarttır.",
+  "keyInsight": "Araç üzerinde ödenmemiş vergi veya ceza borcu ile kısıtlayıcı tedbir bulunması halinde noterler satış ve devir işlemi yapamaz.",
+  "sections": [
+    {
+      "heading": "Satıştan önce hangi borçlar temizlenmeli?",
+      "paragraphs": [
+        "Aracınızı yeni sahibine devretmeden önce üzerinde **motorlu taşıtlar vergisi** veya gecikme faizi gibi mali yükümlülüklerin bulunup bulunmadığı kontrol edilir. Aynı şekilde trafik idari para cezası borcu varsa bu borçların da ödenmesi gerekir.",
+        "Noter masasına oturduğunuzda sistem üzerinden bu borçlar taranır. Eğer ödenmemiş bir ceza veya vergi çıkarsa, satış işlemi **borçlar ödenene kadar** gerçekleştirilemez."
+      ],
+      "bullets": [
+        "Motorlu taşıtlar vergisi kontrolü",
+        "Trafik idari para cezası sorgusu",
+        "Gecikme zammı ve faizlerin ödenmesi"
+      ]
+    },
+    {
+      "heading": "Neden sadece noter satışları geçerlidir?",
+      "paragraphs": [
+        "Günlük hayatta el sıkışarak veya yazılı basit kâğıtlarla yapılan araç devirleri hukuken hiçbir sonuç doğurmaz. Kanun açıkça **noterler tarafından yapılmayan** her çeşit satış ve devrin geçersiz olduğunu belirtir.",
+        "Bu kural hem alıcıyı hem de satıcıyı korumak için konulmuştur. Resmi sicile işlenmesi gereken bu sürecin yetkili kurum eliyle yapılması zorunludur."
+      ],
+      "bullets": [
+        "Geçerlilik için noter şartı",
+        "Basit sözleşmelerin hükümsüzlüğü"
+      ]
+    },
+    {
+      "heading": "Satıştan sonra tescil kaydı nasıl işler?",
+      "paragraphs": [
+        "Noterlikte yapılan satış ve devir işlemi, aracın siciline işlenmek üzere ilgili birimlere bildirilir. Kanuna göre bu bildirim **üç işgünü içerisinde** ilgili trafik tescil kuruluşuna yapılır.",
+        "Elektronik ortamda ilk tescili gerçekleştirilecek bazı araç satışlarında ise işlem sonrasında **on beş iş günü içerisinde** tescil süreci tamamlanır."
+      ],
+      "bullets": [
+        "Sicile işleme süreci",
+        "Elektronik tescil imkânı"
+      ]
+    },
+    {
+      "heading": "Tescil için hangi başvurular gerekir?",
+      "paragraphs": [
+        "Satın alınan veya ilk tescili yapılacak araçlar için belirli süreler içinde ilgili kurumlara başvuru yapılması zorunludur. Araç sahipleri tescil işlemlerinde **vergi kimlik numarası** ve yönetmelikte istenen bilgileri sağlamakla yükümlüdür.",
+        "Eğer araç hurda durumuna gelirse, bu durumun gerçekleşmesinden itibaren tescilin silinmesi için başvuru yapılması gerekir."
+      ],
+      "bullets": [
+        "Vergi kimlik numarası ibrazı",
+        "Hurda durumunda tescil silme başvurusu"
+      ]
+    }
+  ],
+  "steps": [
+    "Aracın vergi ve trafik cezası borcu olup olmadığını kontrol edin",
+    "Üzerinde satışa engel bir tedbir veya kısıtlılık olup olmadığını inceleyin",
+    "Noter huzurunda resmi satış ve devir sözleşmesini yapın",
+    "Gerekli bilgi ve belgelerle birlikte tescil için başvuru adımlarını tamamlayın"
+  ],
+  "documents": [
+    "Araç tescil belgesi",
+    "Vergi kimlik numarası",
+    "Yönetmelikte belirtilen bilgi ve belgeler"
+  ],
+  "faq": [
+    {
+      "q": "Noter dışındaki yollarla araç satışı geçerli midir?",
+      "a": "Hayır, kanuna göre noterler tarafından yapılmayan her çeşit satış ve devir geçersizdir."
+    },
+    {
+      "q": "Satış sırasında hangi borçlar engel çıkarır?",
+      "a": "Motorlu taşıtlar vergisi, gecikme faizi, gecikme zammı, vergi cezası ve trafik idari para cezası borçları satışa engeldir."
+    },
+    {
+      "q": "Satış yapıldıktan sonra sicile işleme süresi nedir?",
+      "a": "Satış ve devir işlemi, siciline işlenmek üzere üç işgünü içerisinde ilgili trafik tescil kuruluşuna bildirilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "trafik-kazasi-tazminati",
+  "angle": "Araç satışı plaka devri",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,117 @@
+{
+  "slug": "davaya-mudahale",
+  "title": "Davaya müdahale — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Davaya müdahale hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
+  "h1": "Davaya müdahale",
+  "keywords": [
+    "davaya müdahale",
+    "davaya mudahale"
+  ],
+  "category": "Usul",
+  "related": [
+    "zamanaşimi-nedir",
+    "hukuk-davasi-nasil-acilir",
+    "istinaf-nedir",
+    "ihtiyati-tedbir-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/zamanaşimi-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=m%C3%BCdahale"
+    }
+  ],
+  "lead": "Mahkemede devam eden bir davanın sonucundan doğrudan menfaati olan üçüncü kişiler, haklarını korumak için davaya müdahale edebilir. Asıl mesele, davanın tarafı olmasanız bile sizin hayatınızı etkileyecek bu sürece ne zaman ve nasıl dahil olacağınızdır.",
+  "keyInsight": "Davaya müdahale talebinin zamanlaması hayati önem taşır; çünkü üst derece mahkemesinde bu kapı tamamen kapanır.",
+  "sections": [
+    {
+      "heading": "Komşunun veya ortağın davası sizi neden ilgilendirir?",
+      "paragraphs": [
+        "Mahkeme salonunda iki kişi bozuşmuş, kendi aralarında çekişiyor gibi görünür. Ancak verilen karar, dönüp dolaşır sizin cebinizi, tapunuzu veya ticari ortaklığınızı vurur. İşte böyle bir günde, başkasının davası sizin kaderiniz haline gelebilir.",
+        "İşte tam bu noktada, kenarda sessizce beklemek yerine **davaya müdahale** ederek kendi haklarınızı savunan tarafın yanında yer alabilirsiniz. Amacınız, davanın sizin aleyhinize bir sonuç doğurmasını engellemektir."
+      ],
+      "bullets": [
+        "Menfaati ihlal edilen üçüncü kişiler katılabilir",
+        "Taraflardan birinin yanında yer alınır",
+        "Ortak hukuki menfaat gözetilir"
+      ]
+    },
+    {
+      "heading": "Hangi aşamada bu adım atılamaz?",
+      "paragraphs": [
+        "Dava ilk derece mahkemesinde görülürken kapılar açıktır. Ancak dosya istinaf aşamasına, yani bölge adliye mahkemesine taşındığında kurallar sertleşir.",
+        "İstinaf mahkemesinde **davaya müdahale talebinde bulunulamaz**. Zamanı kaçırıp dosya üst mahkemeye gittikten sonra yapacağınız başvurular elinizde kalır."
+      ],
+      "bullets": [
+        "İlk derece mahkemesi en doğru zamandır",
+        "İstinaf aşamasında bu yol kapalıdır"
+      ]
+    },
+    {
+      "heading": "Yargılama bittikten sonra masraf kime kalır?",
+      "paragraphs": [
+        "Davaya başka birinin yanında katıldınız ve desteklediğiniz taraf davayı kaybetti. Bu durumda mahkeme masraflarının tamamını değil, yalnızca **müdahale sebebiyle yapılan giderleri** ödersiniz.",
+        "Eğer desteklediğiniz taraf haksız çıkarsa ve onun tutumu sizin davaya girmenize yol açmışsa, masraf yükü tamamen sizin üzerinize de kalabilir."
+      ],
+      "bullets": [
+        "Katıldığınız taraf haksız çıkarsa gider ödenir",
+        "Hâl ve davranışlar masraf payını değiştirebilir"
+      ]
+    },
+    {
+      "heading": "Dava size ihbar edilirse ne yapmalısınız?",
+      "paragraphs": [
+        "Taraflardan biri, davayı kaybettiğinde ileride size rücu edeceğini düşünüp durumu size bildirebilir. Tahkikat sonuçlanıncaya kadar bu ihbar zinciri devam edebilir.",
+        "Size yapılan ihbar sonrasında **davayı takip eden tarafa katılarak** kendi hak alanınızı koruma refleksi göstermelisiniz."
+      ],
+      "bullets": [
+        "Tahkikat bitene kadar ihbar yapılabilir",
+        "İhbar zinciri, yeni kişilere uzanabilir"
+      ]
+    }
+  ],
+  "steps": [
+    "Davanın sizin hukuki durumunuzu nasıl etkileyeceğini tespit edin.",
+    "İlk derece mahkemesindeki yargılama bitmeden başvuru hazırlığı yapın.",
+    "Haklı çıkmasını istediğiniz tarafın yanında davaya katılma talebinde bulunun.",
+    "Dava sırasında size yöneltilen ihbar ve tebligatları titizlikle takip edin."
+  ],
+  "documents": [
+    "Kimlik belgesi",
+    "Menfaatinizi kanıtlayan hukuki dayanaklar ve sözleşmeler",
+    "Mahkeme dosyasına sunulacak müdahale dilekçesi",
+    "Tebligat ve ihbar evrakları"
+  ],
+  "faq": [
+    {
+      "q": "Davaya müdahale etmek için hangi mahkemeye başvurulmalıdır?",
+      "a": "Davanın görülmekte olduğu ilk derece mahkemesine başvurulur."
+    },
+    {
+      "q": "İstinaf aşamasında davaya müdahale edilebilir mi?",
+      "a": "Hayır, bölge adliye mahkemesi hukuk dairelerinde davaya müdahale talebinde bulunulamaz."
+    },
+    {
+      "q": "Desteklediğim taraf davayı kaybederse tüm mahkeme masrafını ben mi öderim?",
+      "a": "Hayır, yalnızca fer’î müdahale nedeniyle yapılan yargılama giderlerinden sorumlu tutulursunuz."
+    },
+    {
+      "q": "Dava bana ihbar edilirse ne anlama gelir?",
+      "a": "Taraflardan birinin davayı kaybetmesi durumunda size rücu edeceği anlamına gelir; sürece müdahil olmanız gerekebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "zamanaşimi-nedir",
+  "angle": "Davaya müdahale",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "stopaj-nedir",
+  "title": "Stopaj — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Stopaj hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "Stopaj",
+  "keywords": [
+    "stopaj",
+    "stopaj nedir"
+  ],
+  "category": "Vergi",
+  "related": [
+    "kdv-nedir",
+    "gelir-vergisi-nedir",
+    "kira-kontrat-e-devlet",
+    "e-devlet-vergi-borcu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kdv-nedir"
+    },
+    {
+      "label": "GVK",
+      "href": "/kategori/gvk"
+    },
+    {
+      "label": "VUK",
+      "href": "/kategori/vuk"
+    }
+  ],
+  "lead": "İş yerinde maaşınızı alırken veya bir ödeme yapılırken kesinti yapıldığını görürsünüz; bu işlem kaynağında kesinti demektir.",
+  "keyInsight": "Asıl tuzak, kesilen tutarların devlete zamanında aktarılmasından iş yerinin sorumlu olmasıdır.",
+  "sections": [
+    {
+      "heading": "Kaynakta Kesinti Ne Anlama Gelir?",
+      "paragraphs": [
+        "Bir ödeme alırken elinize geçen paranın tamamının size verilmediğini fark edersiniz. Asıl soru bu kesintinin nereye gittiğidir.",
+        "Devlet, vergiyi doğduğu an kaynağında toplamak ister. Bu yüzden ödemeyi yapan kişi, vergiyi sizin yerinize kesip **vergi dairesine** yatırmakla yükümlüdür."
+      ],
+      "bullets": [
+        "Ödeme aşamasında kesilir",
+        "İş yapan değil ödeyen öder"
+      ]
+    },
+    {
+      "heading": "Kimler Bu Kesintiyi Yapmak Zorunda?",
+      "paragraphs": [
+        "Şirketinizden veya size ödeme yapan kurumdan maaşınızı veya hakedişinizi beklersiniz. Karşınıza eksik bir tutar çıkar.",
+        "Kanunlar bu sorumluluğu net olarak işi verene yükler. **Ödemeyi yapan** taraf, vergi kesintisini yapmak ve ilgili kuruma ulaştırmak zorundadır."
+      ],
+      "bullets": [
+        "İşverenler sorumludur",
+        "Kurumlar kesinti yapar"
+      ]
+    },
+    {
+      "heading": "Hesaplama Nasıl Yapılır?",
+      "paragraphs": [
+        "Elinize geçen net rakam ile brüt rakam arasındaki fark kafanızı karıştırabilir. Sürecin nasıl işlediğini görmek için belgelere bakarsınız.",
+        "Yapılan ödemenin türüne göre belirlenen oranlar üzerinden kesinti yapılır. **Net tutar** hesaplanırken bu kesintiler düşülür."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreci Takip Etmezseniz Ne Olur?",
+      "paragraphs": [
+        "Kesintilerin yapılıp yapılmadığını kontrol etmezseniz ileride sorun yaşarsınız. Asıl mesele belgelerin tam olmasıdır.",
+        "Ödemeler ve kesintiler düzenli bildirilmelidir. **Eksik bildirim** durumunda hem iş yeriniz hem de süreç zarar görür."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Ödeme bordronuzu veya belgenizi inceleyin.",
+    "Brüt ve net rakamlar arasındaki farkı kontrol edin.",
+    "İş yerinizdeki ilgili birimle görüşün.",
+    "Kesinti tutarlarının teyidini isteyin.",
+    "Belgeleri dosyanızda saklayın."
+  ],
+  "documents": [
+    "Maaş bordrosu",
+    "Hizmet sözleşmesi",
+    "Banka dekontu",
+    "Vergi levhası fotokopisi"
+  ],
+  "faq": [
+    {
+      "q": "Bu kesintiyi kim öder?",
+      "a": "Kesintiyi ödemeyi yapan taraf sizin adınıza vergi dairesine yatırır."
+    },
+    {
+      "q": "Bordroda kesinti neden görünür?",
+      "a": "Kazancınız üzerinden vergi kanunları gereği kaynakta kesinti yapılması zorunludur."
+    },
+    {
+      "q": "Kesinti oranı neye göre değişir?",
+      "a": "Ödemenin türüne ve yapılan işin niteliğine göre belirlenen oranlar uygulanır."
+    },
+    {
+      "q": "Eksik ödeme yapılırsa nereye başvurulur?",
+      "a": "Önce iş yerinin muhasebe birimiyle görüşülerek durum netleştirilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kdv-nedir",
+  "angle": "Stopaj",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

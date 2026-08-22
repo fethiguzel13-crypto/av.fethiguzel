@@ -1,0 +1,103 @@
+{
+  "slug": "e-tebligat-acmamak",
+  "title": "e-Tebligatı Açmamak Süreyi Durdurur mu? | Vatandaş Rehberi",
+  "description": "e-Tebligatı açmazsam tebliğ olmaz mı? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
+  "h1": "e-Tebligatı açmazsam tebliğ olmaz mı?",
+  "keywords": [
+    "e-tebligat açmamak",
+    "UETS tebliğ tarihi"
+  ],
+  "category": "Usul",
+  "related": [
+    "tebligat-usulsuzlugu",
+    "elektronik-tebligat",
+    "odeme-emri-tebligi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tebligat-usulsuzlugu"
+    },
+    {
+      "label": "Tebligat",
+      "href": "/kategori/tebligat"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Telefonunuza gelen bir e-tebligat bildirimini korkuyla veya ihmalle açmamanız, hukuki sürecin durduğu anlamına gelmez. Kanun gereği elektronik iletiler, siz okusanız da okumasanız da belirli bir sürenin sonunda resmen teslim edilmiş sayılır.",
+  "keyInsight": "Elektronik tebligat, mesaj adresinize ulaştığı günü takip eden **beşinci günün sonunda** açıp bakmamış olsanız dahi hukuken yapılmış kabul edilir.",
+  "sections": [
+    {
+      "heading": "Mesajı okumamak süreci durdurur mu?",
+      "paragraphs": [
+        "Akşam saati telefonunuza Ulusal Elektronik Tebligat Sistemi üzerinden bir bildirim düştüğünü gördünüz. Kutuyu açıp ne olduğuna bakarsanız resmi bir mahkeme kağıdıyla karşılaşmaktan çekindiniz ve mesajı görmezden gelmeyi seçtiniz. Birçok vatandaş, e-posta kutusunu açmadığı veya iletiye tıklamadığı sürece haklarındaki hukuki sürenin işlemeyeceğini zanneder.",
+        "Oysa sistem bu şekilde işlemez. Elektronik yolla yapılan tebligatlar, muhatabın adresine ulaştığı tarihi izleyen **beşinci günün sonunda** yapılmış sayılır. Siz posta kutunuzu hiç açmasanız bile beş günlük süre dolduğunda evrak size hukuken teslim edilmiş kabul edilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreler tam olarak nasıl hesaplanır?",
+      "paragraphs": [
+        "Bir evrakın sisteminize girdiği an ile hukuken tebliğ edilmiş sayıldığı an aynı değildir. Evrakın posta kutunuza ulaştığı gün hesaba katılmaz; yasal süre ulaştığı günü takip eden günden itibaren işlemeye başlar.",
+        "Diyelim ki evrak Pazartesi günü adresinize ulaştı. Salı birinci gün kabul edilir ve Cumartesi günü mesai bitiminde tebligat **resmen tamamlanır**. Hak arama veya itiraz süreleriniz işte bu beşinci günün bitimiyle birlikte sıfırlanıp işlemeye başlar. Ayrıca adli tatil süresince de her türlü tebligat yapılabildiği için yaz aylarında gelen iletileri de aksatmadan takip etmeniz gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kimler için elektronik tebligat zorunludur?",
+      "paragraphs": [
+        "Bir şirket sahibi, avukat, bilirkişi veya noter olabilirsiniz. Kanun kapsamındaki tüm özel hukuk tüzel kişileri, kamu kurumları ve belirli meslek mensupları için elektronik tebligat kullanılması zorunludur. Posta ve Telgraf Teşkilatı Anonim Şirketi tarafından kapsama giren her kişi veya kurum için **sadece bir tane** elektronik tebligat adresi oluşturulur.",
+        "Zorunlu grupta yer almayan vatandaşlar da kendi talepleriyle e-tebligat adresi edinebilirler. Ancak bir kez adres oluşturulduğunda, resmi mercilerce yapılacak tebligatların artık elektronik ortamdan yürütülmesi zorunlu hale gelir. Sadece sistemde zorunlu bir engel çıktığında geleneksel mektup yöntemine dönülür."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Gelen iletiyi açmadığınızda ne riski alırsınız?",
+      "paragraphs": [
+        "Posta kutunuzda bekleyen evrak bir dava dilekçesi, mahkeme kararı veya delil tespiti tutanağı olabilir. Tebligatın gerçekleşmiş sayıldığı beşinci günün ardından, kararlara karşı **itiraz süreleri** hızla tükenmeye başlar. Örneğin delil tespiti kararlarına karşı tebliğden itibaren bir hafta içinde itiraz etme hakkınız vardır.",
+        "Mesajı açmadığınız için bu süreleri kaçırırsanız, haberiniz dahi olmadan hakkınızdaki kararlar kesinleşebilir veya savunma hakkınızı kaybedebilirsiniz. Bu yüzden tebligatı açmamak sizi korumaz; aksine hak kaybına uğrama riskinizi katlar."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Ulusal Elektronik Tebligat Sistemi üzerindeki iletişim bilgilerinizi ve bildirim tercihlerinizi güncel tutun.",
+    "Gelen tebligat bildirimini görür görmez beklemeden sisteme giriş yapıp evrakın içeriğini okuyun.",
+    "Evrakın sisteme girdiği tarihi esas alarak izleyen beşinci günün sonunu tebliğ tarihi olarak not edin.",
+    "Tebliğ tarihinden itibaren başlayan kanuni itiraz veya cevap sürelerinizi takviminize işleyin.",
+    "Adli tatil dönemlerinde dahi tebligat işlemlerinin devam ettiğini bilerek hesabınızı düzenli kontrol edin."
+  ],
+  "documents": [
+    "Ulusal Elektronik Tebligat Sistemi (UETS) giriş bilgileri ve e-Devlet şifresi",
+    "Sisteme ulaşan elektronik tebligat mesajı ve evrak örneği",
+    "Tebligatın sisteme ulaştığı tarihi ve saat gösteren sistem alındı kaydı"
+  ],
+  "faq": [
+    {
+      "q": "e-Tebligat mesajını açıp okumazsam tebliğ yapılmamış sayılır mı?",
+      "a": "Hayır. Elektronik tebligat, adresinize ulaştığı tarihi takip eden **beşinci günün sonunda** açıp okumanıza gerek kalmaksızın hukuken yapılmış sayılır."
+    },
+    {
+      "q": "Adli tatil zamanında gelen e-tebligatlar geçerli midir?",
+      "a": "Evet. Adli tatilde de her türlü tebligat işlemi yapılabildiği için gelen e-tebligatlar geçerlidir ve süreçler işler."
+    },
+    {
+      "q": "Bir kişi veya şirket adına kaç adet e-tebligat adresi açılabilir?",
+      "a": "PTT tarafından kapsama giren her bir gerçek kişi için kimlik numarası, tüzel kişi için ise sistem numarası esas alınarak **sadece bir tane** elektronik tebligat adresi oluşturulur."
+    },
+    {
+      "q": "Sistemde teknik bir arıza oluşursa tebligat nasıl gönderilir?",
+      "a": "Elektronik yolla tebligatın zorunlu bir sebeple yapılamadığı durumlarda tebligat, posta teşkilatı veya memur vasıtasıyla fiziki olarak yapılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tebligat-usulsuzlugu",
+  "angle": "Açmama efsanesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

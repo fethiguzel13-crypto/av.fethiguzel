@@ -1,0 +1,113 @@
+{
+  "slug": "tutuklama-nedir",
+  "title": "Tutuklama şartları nelerdir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Tutuklama şartları nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
+  "h1": "Tutuklama şartları nelerdir?",
+  "keywords": [
+    "tutuklama nedir",
+    "tutuklama şartları",
+    "adli kontrol"
+  ],
+  "category": "Ceza",
+  "related": [
+    "adli-sicil-kaydi",
+    "adli-kontrol-nedir",
+    "hizli-yargilama-usulu",
+    "kisisel-verilerin-kaydedilmesi",
+    "trafik-guvenligini-tehlikeye-sokma",
+    "sabika-kaydi-nasil-alinir",
+    "erisim-engeli-basvurusu",
+    "sosyal-medya-hakaret-sikayet"
+  ],
+  "links": [
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=tutuklama"
+    }
+  ],
+  "lead": "Kapınız çalındı veya adliyeden bir tebligat aldınız; yakınınız ya da siz tutuklama tehlikesiyle karşı karşıyasınız. Tutuklama, kesinleşmiş bir ceza değil, yargılamanın sağlıklı sürmesi için başvurulan en ağır koruma tedbiridir.",
+  "keyInsight": "Tutuklama kararı verilebilmesi için dosyadaki delillerin **kuvvetli suç şüphesini** göstermesi ve kanunda yazan tutuklama nedenlerinin somut olgularla gerekçelendirilmesi şarttır.",
+  "sections": [
+    {
+      "heading": "Hangi aşamada kim karar verir?",
+      "paragraphs": [
+        "Kapınızda polis varsa veya ifadeye çağrıldıysanız süreç soruşturma evresiyle başlar. Bu dönemde şüphelinin tutuklanmasına Cumhuriyet savcısının istemi üzerine sulh ceza hâkimi karar verir.",
+        "Eğer dava açılmış ve kovuşturma evresine geçilmişse, karar yetkisi mahkemededir. Mahkeme bu kararı savcılığın istemiyle ya da doğrudan kendiliğinden verebilir."
+      ],
+      "bullets": [
+        "Soruşturmada sulh ceza hâkimi karar verir",
+        "Kovuşturmada yetki mahkemededir"
+      ]
+    },
+    {
+      "heading": "Kriterler nasıl somutlaşır?",
+      "paragraphs": [
+        "Hâkim karşısına çıktığınızda, masada duran dosyanın belirli şartları taşıması gerekir. Ortada **kuvvetli suç şüphesini** gösteren somut deliller bulunmadan özgürlüğünüz kısıdalanamaz.",
+        "Bunun yanı sıra şüphelinin kaçacağı, saklanacağı veya delilleri yok edeceği yönünde somut olguların varlığı aranır."
+      ],
+      "bullets": [
+        "Kuvvetli suç şüphesi varlığı",
+        "Delil karartma veya kaçma şüphesi"
+      ]
+    },
+    {
+      "heading": "Adli kontrol neden önceliklidir?",
+      "paragraphs": [
+        "Adalet mekanizması her olayda doğrudan cezaevine göndermez. Alınacak önlemin ölçülü olması esas alınır.",
+        "Hâkim, adlî kontrol uygulamasının **yetersiz kalacağını** gösteren hukuki ve fiilî nedenleri kararda açıkça açıklamak zorundadır."
+      ],
+      "bullets": [
+        "Ölçülülük ilkesi gözetilir",
+        "Adli kontrolün yetersizliği aranır"
+      ]
+    },
+    {
+      "heading": "Karar çıktığında ne yapılır?",
+      "paragraphs": [
+        "Hâkim veya mahkeme kararını açıkladığında bu durum şüpheliye veya sanığa sözlü olarak bildirilir. Kararın bir örneği yazılı olarak mutlaka teslim edilir.",
+        "Eğer tutuklama kararı çıkmazsa şüpheli veya sanık derhâl serbest bırakılır. Verilen kararlara karşı kanun yoluna başvurarak itiraz etme hakkınız saklıdır."
+      ],
+      "bullets": [
+        "Karar yüzünüze okunur ve yazılı verilir",
+        "Karara karşı itiraz hakkı vardır"
+      ]
+    }
+  ],
+  "steps": [
+    "Soruşturma veya kovuşturma dosyasındaki iddiaları ve delilleri inceleyin.",
+    "Yanınızda hukuki yardım alabileceğiniz bir müdafi bulundurun.",
+    "Sulh ceza hâkimi veya mahkeme önünde savunmanızı somut olgularla yapın.",
+    "Hâkimin adli kontrol gerekçelerini ve tutuklama nedenlerini sorgulayın.",
+    "Verilen karara karşı yasal süresi içinde itiraz yoluna başvurun."
+  ],
+  "documents": [
+    "Tutuklama istemi yazısı",
+    "Gerekçeli tutuklama veya tahliye kararı",
+    "İtiraz dilekçesi",
+    "Vekaletname veya görevlendirme yazısı"
+  ],
+  "faq": [
+    {
+      "q": "Tutuklama bir ceza mıdır?",
+      "a": "Hayır, tutuklama kesinleşmiş bir mahkûmiyet hükmü değildir; geçici bir koruma tedbiridir."
+    },
+    {
+      "q": "Tutuklama kararını kim talep eder?",
+      "a": "Soruşturma evresinde Cumhuriyet savcısı talep eder, kovuşturma evresinde ise savcı isteyebileceği gibi mahkeme kendiliğinden de harekete geçebilir."
+    },
+    {
+      "q": "Tutuklanmama kararı çıkarsa ne olur?",
+      "a": "Şüpheli veya sanık derhâl serbest bırakılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "tutuklama-nedir",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

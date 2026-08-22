@@ -1,0 +1,112 @@
+{
+  "slug": "kira-tespit-davasi",
+  "title": "Kira tespit davası ne zaman açılır — Vatandaş Rehberi | Av. Fethi Güze",
+  "description": "Kira tespit davası ne zaman açılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
+  "h1": "Kira tespit davası ne zaman açılır?",
+  "keywords": [
+    "kira tespit davası",
+    "kira bedeli tespit"
+  ],
+  "category": "Kira",
+  "related": [
+    "kira-artis-orani-nasil-hesaplanir",
+    "kiraci-nasil-tahliye-edilir",
+    "arabuluculuk-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kira-artis-orani-nasil-hesaplanir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/kira"
+    }
+  ],
+  "lead": "Ev sahibisiniz ve elinizdeki kira rakamı piyasanın çok gerisinde kaldı. Bu durumda kira bedelinin uyarlanması için dava yoluna gidebilirsiniz.",
+  "keyInsight": "Dava açmadan önce zorunlu arabuluculuk aşamasını atlamak davanın reddine yol açar.",
+  "sections": [
+    {
+      "heading": "Ne zaman hak doğar?",
+      "paragraphs": [
+        "Yıllar geçtikçe ödenen rakamlar sembolik kalabilir. Sözleşme uzun süredir devam ediyorsa ve taraflar yeni bedelde uzlaşamadıysa rayiç bedel tespiti gündeme gelir.",
+        "Bu süreçte rastgele bir artış yapılamaz. Karşılıklı anlaşma sağlanamadığı noktada yargı yolu görünür."
+      ],
+      "bullets": [
+        "Piyasa ile uyumsuzluk",
+        "Anlaşmazlık durumu"
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırınca ne olur?",
+      "paragraphs": [
+        "Zamanlamaya dikkat etmezseniz bütün emekler boşa gidebilir. Erken atılan adımlar hak kaybına uğratmasa da davanın usulden aksamasına neden olur.",
+        "Hakim karşısına çıkmadan önce hukuki altyapının eksiksiz kurulması gerekir."
+      ],
+      "bullets": [
+        "Usul kuralları",
+        "Zamanlama hatası"
+      ]
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "Mahkeme salonuna veya masaya eli boş oturamazsınız. İddianızı haklı çıkaracak verilerin baştan hazırlanması şarttır.",
+        "Çevredeki benzer konutların durumunu gösteren belgeler en büyük yardımcınızdır."
+      ],
+      "bullets": [
+        "Kira kontratı",
+        "Emsal bedeller"
+      ]
+    },
+    {
+      "heading": "Süreç nasıl ilerler?",
+      "paragraphs": [
+        "Doğrudan mahkemeye koşmak yerine önce **arabuluculuk bürosuna** başvurmak zorunludur. Bu kapı aşılmadan dava açılamaz.",
+        "Anlaşma çıkmazsa düzenlenen son tutanakla birlikte **sulh hukuk mahkemesi** nezdinde dava dilekçesi sunulur."
+      ],
+      "bullets": [
+        "Zorunlu arabuluculuk",
+        "Dilekçe aşaması"
+      ]
+    }
+  ],
+  "steps": [
+    "Piyasa koşullarını ve sözleşme süresini kontrol edin.",
+    "Arabuluculuk bürosuna başvurarak süreci başlatın.",
+    "Anlaşmama durumunda son tutanağı alın.",
+    "Sulh hukuk mahkemesinde dava açın.",
+    "Bilirkişi incelemesi için emsal kira araştırması yapın."
+  ],
+  "documents": [
+    "Kira sözleşmesi",
+    "Arabuluculuk son tutanağı",
+    "Emsal kira bedelleri",
+    "Dava dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Arabuluculuk zorunlu mu?",
+      "a": "Evet, bu tür uyuşmazlıklarda dava açmadan önce arabulucuya gitmek zorunlu bir kuraldır."
+    },
+    {
+      "q": "Hangi mahkemeye başvurulur?",
+      "a": "Görevli mahkeme sulh hukuk mahkemesidir."
+    },
+    {
+      "q": "Eksik evrak olursa ne olur?",
+      "a": "Mahkeme eksiklerin tamamlanması için süre tanır, uyulmazsa dava reddedilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kira-artis-orani-nasil-hesaplanir",
+  "angle": "5 yıl / rayiç tespit davası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "kredi-borcu-yapislandirma",
+  "title": "Kredi borcu yapılandırma — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Kredi borcu yapılandırma hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
+  "h1": "Kredi borcu yapılandırma",
+  "keywords": [
+    "kredi borcu yapılandırma",
+    "kredi borcu yapislandirma"
+  ],
+  "category": "Tüketici",
+  "related": [
+    "kredi-karti-itiraz",
+    "tuketici-kredisi-cayma",
+    "icra-takibi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kredi-karti-itiraz"
+    },
+    {
+      "label": "TKHK",
+      "href": "/kategori/tkhk"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Kredi borcunuzu ödemekte zorlandığınızda ya da erken kapatmak istediğinizde kanuni haklarınızı bilmek bütçenizi korur. Sözleşmeden cayma, erken ödeme indirimi veya borçların sırasını belirleme gibi seçenekler hukuki güvence altındadır.",
+  "keyInsight": "Kredi sözleşmesinde yapılan değişiklikler tüketici aleyhine olamaz; faiz artışı durumunda belirli sürede borcun tamamı kapatılırsa artıştan etkilenilmez.",
+  "sections": [
+    {
+      "heading": "Krediden cayma hakkı nasıl kullanılır?",
+      "paragraphs": [
+        "Bankadan kredi çektiniz ancak kısa süre içinde bu borçtan vazgeçmek istiyorsunuz. **On dört gün içinde** herhangi bir gerekçe göstermeksizin ve cezai şart ödemeksizin tüketici kredisi sözleşmesinden cayma hakkınız bulunur.",
+        "Cayma hakkınızı kullandığınızda, anaparayı ve krediyi kullandığınız süreye ait faizi bankaya geri ödemeniz gerekir. Bu ödeme, cayma bildirimini gönderdikten sonra **en geç otuz gün içinde** tamamlanmalıdır."
+      ],
+      "bullets": [
+        "Gerekçe gösterme zorunluluğu yoktur.",
+        "Süre aşılırsa cayma hükümsüz kalır."
+      ]
+    },
+    {
+      "heading": "Erken ödeme yaparsanız ne olur?",
+      "paragraphs": [
+        "Borcunuzun vadesi gelmemiş bir veya birden çok taksidini ödeyebilir ya da borcun tamamını erken kapatabilirsiniz. Banka, erken ödenen miktara göre gerekli tüm faiz ve maliyet unsurlarında indirim yapmak zorundadır.",
+        "Birden çok borcunuz varsa, ödeme gününde hangi borcu kapatmak istediğinizi bankaya bildirebilirsiniz. Bildirim yapılmazsa kanuni mahsup kuralları devreye girer."
+      ],
+      "bullets": [
+        "Faiz indirimi yasal zorunluluktur.",
+        "Ödeme amacını bildirmek önemlidir."
+      ]
+    },
+    {
+      "heading": "Faiz artışına karşı ne yapılabilir?",
+      "paragraphs": [
+        "Kredi sözleşmesi şartları tüketici aleyhine değiştirilemez. Belirsiz süreli sözleşmelerde faiz artırılacaksa, bu durumun **otuz gün önce** size yazılı olarak bildirilmesi şarttır.",
+        "Faiz artışı geriye dönük uygulanamaz. Bildirim tarihinden itibaren **en geç altmış gün içinde** borcun tamamını öder ve kredi kullanımına son verirseniz, yapılan faiz artışından etkilenmezsiniz."
+      ],
+      "bullets": [
+        "Yazılı bildirim şarttır.",
+        "Süresinde kapatma koruma sağlar."
+      ]
+    },
+    {
+      "heading": "Yeniden yapılandırma süreçleri nasıl işler?",
+      "paragraphs": [
+        "Ticari işletmeler veya borç batağındaki kişiler için mahkeme sürecinde yeniden yapılandırma projeleri gündeme gelebilir. Bu projelerde alacaklılar arasındaki eşitlik ve borç vadelerinin uzatılması gibi yöntemler yer alır.",
+        "Geçici mühlet kararından sonra komiserin izniyle alınan borçlar ve krediler öncelikli olarak ödenir. Bu süreç, işletmenin borç yükünü hafifletmek için hukuki bir çerçeve sunar."
+      ],
+      "bullets": [
+        "Mahkeme denetimi esastır.",
+        "Alacaklılar sınıflandırılır."
+      ]
+    }
+  ],
+  "steps": [
+    "Kredi sözleşmenizi ve ödeme planınızı inceleyin.",
+    "Cayma veya erken ödeme niyetinizi bankaya yazılı olarak bildirin.",
+    "Bildirim sonrası yasal süre içinde anapara ve işleyen faizi yatırın.",
+    "Birden fazla borç varsa hangi borcun kapatılacağını açıkça belirtin.",
+    "Faiz artışı bildirimlerinde altmış günlük süreyi dikkate alarak borcu kapatın."
+  ],
+  "documents": [
+    "Tüketici kredisi sözleşmesi",
+    "Cayma veya erken ödeme bildirim dilekçesi",
+    "Banka ödeme dekontları",
+    "Faiz artışı bildirim yazısı"
+  ],
+  "faq": [
+    {
+      "q": "Krediden caymak için ne kadar sürem var?",
+      "a": "Sözleşme tarihinden itibaren on dört gün içinde herhangi bir gerekçe göstermeksizin cayma hakkınızı kullanabilirsiniz."
+    },
+    {
+      "q": "Erken ödeme yaparsam faiz indirimi alabilir miyim?",
+      "a": "Evet, borcun tamamını veya bir kısmını erken ödediğinizde banka, erken ödenen miktara göre faiz ve maliyet indirimi yapmak zorundadır."
+    },
+    {
+      "q": "Faiz oranları artarsa ne yapmalıyım?",
+      "a": "Bildirim tarihinden itibaren en geç altmış gün içinde borcun tamamını kapatıp kredi kullanımına son verirseniz artıştan etkilenmezsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kredi-karti-itiraz",
+  "angle": "Kredi borcu yapılandırma",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "ticari-is-karinesi",
+  "title": "Ticari iş karinesi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Ticari iş karinesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
+  "h1": "Ticari iş karinesi",
+  "keywords": [
+    "ticari iş karinesi",
+    "ticari is karinesi"
+  ],
+  "category": "Ticaret",
+  "related": [
+    "sirket-kurulusu",
+    "ticari-isletme-nedir",
+    "ttk-nedir",
+    "ticari-arabuluculuk"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/sirket-kurulusu"
+    },
+    {
+      "label": "TTK",
+      "href": "/kategori/ticari-isletme"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=ticari%20i%C5%9F"
+    }
+  ],
+  "lead": "Bir tacirle iş yaptığınızda, yapılan tüm borçların ticari sayılması kuralıyla karşılaşırsınız. İşlemin ticari işletmeyle ilgisiz olduğu açıkça bildirilmediği sürece bu varsayım geçerlidir.",
+  "keyInsight": "Tacir olan bir kişinin yaptığı borçların ticari olması asıldır; ancak gerçek kişi tacir, bu işlemin ticari işletmesiyle ilgili olmadığını diğer tarafa açıkça bildirebilir.",
+  "sections": [
+    {
+      "heading": "Tacirin borçlarında kural nedir?",
+      "paragraphs": [
+        "Bir dükkândan alışveriş yaptınız ya da bir şirketle masaya oturdunuz. Karşınızdaki kişi tacirse, **borçların ticari olması** asıldır. İşin içinde tek bir tacir bile olsa, yapılan sözleşme kanunda aksine hüküm bulunmadıkça her iki taraf için de ticari iş sayılır.",
+        "Ancak her kuralın bir istisnası bulunur. İşlemi yapan gerçek kişi bir tacirse, bu işin kendi ticari işletmesiyle ilgili olmadığını karşı tarafa açıkça bildirebilir. Durumun ticari sayılmaya elverişsiz olduğu hallerde de borç adi sayılır."
+      ],
+      "bullets": [
+        "Tacirin borçları kural olarak ticari kabul edilir.",
+        "Tek bir taraf için ticari olan iş, diğeri için de ticari sayılır."
+      ]
+    },
+    {
+      "heading": "Birden fazla kişi borç altına girerse ne olur?",
+      "paragraphs": [
+        "İki veya daha fazla kişi, aralarından en az biri için ticari nitelik taşıyan bir iş dolayısıyla ortak bir borca girebilir. Kanunda veya sözleşmede aksine bir hüküm yoksa, bu kişiler **müteselsilen sorumlu** olurlar.",
+        "Borç ödenmediğinde veya taahhüt yerine getirilmediğinde karşı tarafa ihbar edilmesi gerekir. Kefil ve kefillere bu ihbar yapılmadan temerrüt faizi yürütülmesi mümkün değildir."
+      ],
+      "bullets": [
+        "Ortak borçlarda müteselsil sorumluluk esastır.",
+        "Kefillere ihbar yapılmadan temerrüt faizi işletilemez."
+      ]
+    },
+    {
+      "heading": "Hangi kurallar uygulanır?",
+      "paragraphs": [
+        "Ticari işlerin çözümünde öncelikle ilgili kanunlardaki hükümler dikkate alınır. Türk Ticaret Kanunu, Medeni Kanun'un ayrılmaz bir parçası olarak ticari işletmeleri ilgilendiren fiillerde rehberdir.",
+        "Mahkemeler, hakkında yazılı bir ticari hüküm bulunmayan duruşlarda öncelikle ticari örf ve âdete, bu da yoksa genel hükümlere göre karar verir."
+      ],
+      "bullets": [
+        "Öncelik her zaman özel ve ticari hükümlerdir.",
+        "Örf ve âdetler eksik kalan hususlarda devreye girer."
+      ]
+    },
+    {
+      "heading": "İşlemlerde nelere dikkat edilmeli?",
+      "paragraphs": [
+        "Ticari hayatta yapılan işlemlerin basiret ve dürüstlük ilkelerine uygun olması şarttır. Emsallerine aykırı fiyat, ücret veya şartlar içeren anlaşmalar yapılarak kâr veya malvarlığının azaltılması yasaktır.",
+        "Şirketler ve ortaklıklar, ilişkili taraf işlemlerini piyasa teamüllerine uygun gerçekleştirdiklerini **belgelemek zorundadır**. Bu tevsik edici bilgilerin eksiksiz tutulması hukuki sorunların önüne geçer."
+      ],
+      "bullets": [
+        "Basiretli ve dürüst bir tacir gibi hareket edilmelidir.",
+        "İşlem belgeleri muhafaza edilmelidir."
+      ]
+    }
+  ],
+  "steps": [
+    "İşlemi yaptığınız kişinin tacir sıfatını ve statüsünü kontrol edin.",
+    "Borcun ticari işletmeyle ilgili olup olmadığını netleştirin.",
+    "Birden fazla borçlu varsa sorumluluk türünü sözleşmeden inceleyin.",
+    "Ödeme yapılmadığı durumlarda gerekli ihbar süreçlerini işletin.",
+    "Ticari işlemlere ilişkin tüm belgeleri eksiksiz şekilde saklayın."
+  ],
+  "documents": [
+    "Ticari sözleşmeler",
+    "Fatura ve sevk irsaliyeleri",
+    "İhbar ve ihtarnameler",
+    "İlişkili taraf işlem belgeleri",
+    "Ticari defter kayıtları"
+  ],
+  "faq": [
+    {
+      "q": "Her tacirin yaptığı borç ticari olmak zorunda mıdır?",
+      "a": "Gerçek kişi olan bir tacir, işlemi yaptığı anda bunun ticari işletmesiyle ilgili olmadığını diğer tarafa açıkça bildirirse veya durum elverişli değilse borç adi sayılır."
+    },
+    {
+      "q": "Sözleşmenin taraflarından sadece biri tacirse ne olur?",
+      "a": "Taraflardan yalnız biri için ticari iş niteliğinde olan sözleşmeler, kanunda aksine hüküm bulunmadıkça diğeri için de ticari iş kabul edilir."
+    },
+    {
+      "q": "Kefillere ne zaman temerrüt faizi yürütülebilir?",
+      "a": "Taahhüt veya ödemenin yerine getirilmediği kefillere ihbar edilmeden kefillere temerrüt faizi yürütülemez."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "sirket-kurulusu",
+  "angle": "Ticari iş karinesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

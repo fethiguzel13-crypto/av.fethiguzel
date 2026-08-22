@@ -1,0 +1,125 @@
+{
+  "slug": "mevzuat-nasil-aranir",
+  "title": "Mevzuat nasıl aranır — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Mevzuat nasıl aranır hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
+  "h1": "Mevzuat nasıl aranır",
+  "keywords": [
+    "mevzuat nasıl aranır",
+    "mevzuat nasil aranir"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "tck-madde-86",
+    "tck-madde-106",
+    "tck-madde-125",
+    "hmk-madde-119",
+    "hmk-madde-389",
+    "iik-madde-62",
+    "is-kanunu-madde-17",
+    "cmk-nedir",
+    "tkhk-nedir",
+    "vuk-nedir",
+    "is-kanunu-madde-25",
+    "durustluk-kurali"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kanun-maddesi-nasil-okunur"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Elindeki bir uyuşmazlığı çözmek için kanun maddelerine bakarken, eski kanun yollamalarının nereye çıktığını veya hangi faiz oranının uygulanacağını bilmek hayat kurtarır. Yanlış metne bakmak bütün hak arama sürecini boşa çıkarabilir.",
+  "keyInsight": "Mevzuatta adı geçen eski kanunlara veya mülga hükümlere takılıp kalmayın, güncel karşılıklarını bulmak için ilgili geçiş hükümlerini mutlaka inceleyin.",
+  "sections": [
+    {
+      "heading": "Eski Kanun Atıfları Nereye Çıkar?",
+      "paragraphs": [
+        "Elinizdeki eski bir evrakta veya yönetmelikte yürürlükten kalkmış bir kanun numarasıyla karşılaştınız. Telaşlanmayın, çünkü hukuk sistemimizde bu geçişler düşünülmüştür.",
+        "Mevzuatta yürürlükten kaldırılan eski kanunlara yapılan yollamalar, yeni kanunların o hükümlere karşılık gelen maddelerine yapılmış sayılır. Yani eski bir ibareyi gördüğünüzde **doğru madde karşılığını** bulmak için güncel kanun metnine bakmalısınız."
+      ],
+      "bullets": [
+        "Eski kanun numaralarını güncel kanunlarla eşleştirin",
+        "Geçiş hükümlerini ve uyum maddelerini okuyun"
+      ]
+    },
+    {
+      "heading": "Faiz ve Oran Hesapları Nasıl Çözülür?",
+      "paragraphs": [
+        "Borç ilişkilerinde veya sözleşme uyuşmazlıklarında en büyük kafa karışıklığı faiz oranlarının belirlenmesidir. Oranlar rastgele seçilmez; doğrudan mevzuat hükümlerine dayanır.",
+        "Uygulanacak yıllık temerrüt faizi veya normal faiz oranı sözleşmede yazmıyorsa, faiz borcunun doğduğu tarihte yürürlükte olan **mevzuat hükümleri** esas alınır. Sözleşmeyle belirlenecek oranlar ise kanuni sınırları aşamaz."
+      ],
+      "bullets": [
+        "Sözleşmedeki faiz hükümlerini inceleyin",
+        "Borcun doğduğu tarihteki mevzuatı baz alın"
+      ]
+    },
+    {
+      "heading": "İmza ve Şekil Şartları Neden Önemlidir?",
+      "paragraphs": [
+        "Bir sözleşme imzalarken veya borç altına girerken atılan imzanın şekli, belgenin geçerliliğini doğrudan etkiler. Her imza aynı hukuki sonucu doğurmaz.",
+        "İmzanın, borç altına girenin el yazısıyla atılması zorunludur. Ancak güvenli elektronik imza da el yazısının bütün hukuki sonuçlarını doğurur; görme engellilerin durumunda ise **özel şahit şartları** devreye girebilir."
+      ],
+      "bullets": [
+        "El yazısı veya güvenli e-imza kullanın",
+        "Özel durumlardaki şekil şartlarına dikkat edin"
+      ]
+    },
+    {
+      "heading": "Parasal İşler ve Yönetim Kararları Nasıl Alınır?",
+      "paragraphs": [
+        "Malvarlığı yönetimi veya paylı mülkiyet uyuşmazlıklarında tek başına karar almak çoğu zaman mümkün değildir. Ortak irade veya resmi makamların onayı aranır.",
+        "Vesayet altındaki paraların bankaya yatırılması veya önemli yönetim işlerinin pay ve paydaş çoğunluğuyla alınması gerekir. Çıkmaz durumlarda **hakim müdahalesi** veya kayyım atanması talep edilebilir."
+      ],
+      "bullets": [
+        "Pay ve paydaş çoğunluğunu sağlayın",
+        "Gerekli durumlarda yasal makamlara başvurun"
+      ]
+    }
+  ],
+  "steps": [
+    "Uyuşmazlığın yaşandığı tarihteki yürürlükte olan mevzuat metnini bulun.",
+    "Metinde geçen eski kanun atıflarını güncel kanun maddeleriyle eşleştirin.",
+    "Sözleşmedeki faiz ve oran hükümlerinin kanuni sınırlarını kontrol edin.",
+    "İmza ve şekil şartlarının usulüne uygun yerine getirilmesini sağlayın.",
+    "Paylı mülkiyet veya vesayet işlerinde gerekli çoğunluk ve onay süreçlerini takip edin."
+  ],
+  "documents": [
+    "Güncel kanun ve mevzuat metinleri",
+    "İmzalı sözleşme veya borç senedi",
+    "Faiz hesap dökümleri",
+    "Vesayet veya ortak yönetim kararları"
+  ],
+  "faq": [
+    {
+      "q": "Eski kanunlara yapılan atıfları nasıl bulurum?",
+      "a": "Mevzuatta yürürlükten kaldırılan kanunlara yapılan yollamalar, yeni kanunun o hükmü karşılayan maddesine yapılmış sayılır; güncel kanun metnini inceleyerek karşılığını bulabilirsiniz."
+    },
+    {
+      "q": "Sözleşmede faiz oranı yazmıyorsa ne olur?",
+      "a": "Uygulanacak yıllık faiz veya temerrüt faizi oranı, faiz borcunun doğduğu tarihte yürürlükte olan mevzuat hükümlerine göre belirlenir."
+    },
+    {
+      "q": "İmzanın el yazısı dışında atılması geçerli midir?",
+      "a": "İmzanın el yazısıyla atılması zorunludur; ancak güvenli elektronik imza aynı hukuki sonucu doğurur. Örf ve adet dışındaki imza şekilleri ancak kanuni istisnalarda geçerlidir."
+    },
+    {
+      "q": "Paylı mülkiyette önemli yönetim işleri nasıl karara bağlanır?",
+      "a": "İşletme usulünün değiştirilmesi, kira sözleşmelerinin yapılması veya feshi gibi önemli işler pay ve paydaş çoğunluğuyla karara bağlanır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kanun-maddesi-nasil-okunur",
+  "angle": "Mevzuat nasıl aranır",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

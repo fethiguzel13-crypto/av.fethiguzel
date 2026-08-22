@@ -1,0 +1,105 @@
+{
+  "slug": "iyiniyet-nedir",
+  "title": "İyiniyet — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İyiniyet hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "İyiniyet",
+  "keywords": [
+    "iyiniyet",
+    "iyiniyet nedir"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "kanun-maddesi-nasil-okunur",
+    "tmk-nedir",
+    "tapu-iptal-tescil",
+    "zilyetlik-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kanun-maddesi-nasil-okunur"
+    },
+    {
+      "label": "TMK",
+      "href": "/mevzuat/tmk/madde-3"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    }
+  ],
+  "lead": "İyiniyet, bir hukuki işlem yaparken var olan kusur veya engeli bilmemek ve bilmesinin de kendisinden beklenmemesidir. Kanun, kural olarak herkesin iyiniyetli olduğunu kabul eder ve bu durumu korur. Ancak durumun gerektirdiği özeni göstermeyen kişiler iyiniyet korumasından yararlanamaz.",
+  "keyInsight": "Durumun gereklerine göre kendisinden beklenen özeni göstermeyen kimse iyiniyet iddiasında bulunamaz.",
+  "sections": [
+    {
+      "heading": "İyiniyet nedir ve kanun sizi nasıl korur?",
+      "paragraphs": [
+        "Bir gayrimenkul satın alırken veya bir borç ilişkisine girerken, karşı tarafın yetkili olduğunu ve işlemlerin hukuka uygun ilerlediğini düşünürsünüz. Kanun, aksini ispatlayan bir delil olmadığı sürece sizin **iyiniyetli olduğunuzu** kabul eder. Yani bir hususu bilmediğinizi ispatlamak zorunda kalmazsınız, karşı taraf sizin bunu bildiğinizi ispat etmek zorundadır.",
+        "İyiniyet, sadece basit bir bilmeme hali değildir. Yaşanan durumun gerekleri sizden makul bir araştırma yapmayı veya dikkatli davranmayı gerektiriyorsa, bu **özeni göstermeniz** şarttır. Göz göre göre şüpheli bir işe girip 'ben bilmiyordum' demek kanun karşısında sizi korumaz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Tapu kayıtlarına güvenerek işlem yaparsanız ne olur?",
+      "paragraphs": [
+        "Bir evi veya arsayı satın alırken tapu kütüğüne bakarsınız. Tapu kütüğündeki tescile güvenerek iyiniyetle mülkiyet veya bir başka ayni hak kazandıysanız, bu kazanımınız kanunen **tam olarak korunur**. Tapudaki işlem sonradan usulsüz çıksa bile iyiniyetli olduğunuz sürece hakkınızı kaybetmezsiniz.",
+        "Ancak tapudaki tescilin sakat veya yolsuz olduğunu biliyorsanız ya da durum gereği bilmeniz gerekiyorsa iş değişir. Yolsuz tescil yüzünden hakkı zedelenen kişi, iyiniyetli olmayan üçüncü kişilere karşı **tapu sicilinin düzeltilmesini** dava edebilir ve tescilin iptalini isteyebilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Borç öderken iyiniyet borcu bitirir mi?",
+      "paragraphs": [
+        "Birine borcunuz var ama alacaklı bu alacağını başka birine devretmiş olabilir. Alacağın devredildiği size devreden veya devralan tarafından bildirilmediği sürece, siz durumdan habersiz şekilde eski alacaklıya **iyiniyetle ifada bulunursanız** borcunuzdan kurtulursunuz.",
+        "Aynı şekilde borcu üstlenme sözleşmesi sonradan hükümsüz hale gelse bile, bu süreçte iyiniyetle hak kazanan üçüncü kişilerin durumları saklı tutulur. Kanun, habersizce ve dürüstçe hareket eden borçluyu veya üçüncü kişiyi mağdur etmez."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Sebepsiz zenginleşme ve davalarda iyiniyetin etkisi nedir?",
+      "paragraphs": [
+        "Hesabınıza kaynağını bilmediğiniz bir para geldiğinde veya sebepsiz zenginleştiğiniz durumlarda iyiniyetliyseniz, borcun ödenmesi için **bildirim şarttır**. Karşı taraf size bildirimde bulunmadan doğrudan temerrüde düşmüş sayılmazsınız.",
+        "Bir dava sonucunda verilen kesin hüküm tarafları ve onların haleflerini bağlar. Dava konusu malı sonradan devralanlar da bu hükümden etkilenir; ancak Türk Medenî Kanununun **iyiniyetle mal edinmeye** ilişkin hükümleri saklı tutularak iyiniyetli alıcılar korunur."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Tapu ve sicil kayıtlarına dayanarak işlem yaparken mevcut kayıtları dikkatle inceleyin.",
+    "Alacağın devredildiğine dair tarafınıza ulaşmış resmi bir bildirim olup olmadığını kontrol edin.",
+    "İşlem öncesinde durumun gerektirdiği makul araştırmaları yaparak özen yükümlülüğünüzü yerine getirin.",
+    "Yolsuz tescil nedeniyle hakkınız zedelendiyse, iyiniyetli olmayan kişilere karşı tapu sicilinin düzeltilmesi davası açın.",
+    "Hesabınıza sebepsiz giren bir ödemede iyiniyetliyseniz, temerrüt için usulüne uygun bildirim yapılmasını bekleyin."
+  ],
+  "documents": [
+    "Tapu tescil ve sicil kayıtları",
+    "Alacağın devrine ilişkin bildirim belgeleri ve ihtarnameler",
+    "Ödemeyi belgeleyen banka dekontları ve makbuzlar",
+    "Yolsuz tescil iddiasına ilişkin dava dilekçesi ve mahkeme kararları"
+  ],
+  "faq": [
+    {
+      "q": "Tapudaki tescil hatalıysa satın aldığım gayrimenkulü kaybeder miyim?",
+      "a": "Tapu kütüğündeki tescile dayanarak iyiniyetle mülkiyet kazandıysanız hakkınız korunur. Ancak tescilin yolsuz olduğunu biliyorsanız veya bilmeniz gerekiyorsa hakkınızı kaybedebilirsiniz."
+    },
+    {
+      "q": "Borcumu devreden kişiye ödedim, yeni alacaklı benden tekrar para isteyebilir mi?",
+      "a": "Alacağın devredildiği size bildirilmediyse ve eski alacaklıya iyiniyetle ödeme yaptıysanız borcunuzdan kurtulursunuz. Yeni alacaklı sizden tekrar ödeme talep edemez."
+    },
+    {
+      "q": "Sadece 'bilmiyordum' demek iyiniyetli sayılmam için yeterli midir?",
+      "a": "Hayır. Durumun gereklerine göre sizden beklenen özeni göstermemişseniz, durumu bilmediğinizi ileri sürerek iyiniyet iddiasında bulunamazsınız."
+    },
+    {
+      "q": "Sebepsiz zenginleşmede iyiniyetli olmam neyi değiştirir?",
+      "a": "Sebepsiz zenginleşen kişi iyiniyetli ise temerrüde düşmesi için alacaklının kendisine bildirimde bulunması gerekir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kanun-maddesi-nasil-okunur",
+  "angle": "İyiniyet",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "kamulastirma-nedir",
+  "title": "Kamulaştırma Nedir? Bedel ve Dava Yolları",
+  "description": "Kamulaştırma nedir? Haklarınız nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı…",
+  "h1": "Kamulaştırma nedir? Haklarınız nelerdir?",
+  "keywords": [
+    "kamulaştırma nedir",
+    "kamulaştırma bedeli",
+    "acele kamulaştırma"
+  ],
+  "category": "İdare",
+  "related": [
+    "el-atmanin-onlenmesi",
+    "ecrimisil-nedir",
+    "kamulastirma-bedel-davasi",
+    "acele-kamulastirma",
+    "idari-dava-nasil-acilir",
+    "tapu-devri-nasil-yapilir",
+    "kacak-yapi-cezasi",
+    "idari-islem-nedir",
+    "idari-basvuru-yolu",
+    "gida-isletme-kayit",
+    "cevre-izin-lisans"
+  ],
+  "links": [
+    {
+      "label": "Kamulaştırma",
+      "href": "/kategori/kamulastirma"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    }
+  ],
+  "lead": "Evinizden veya arsanızdan yol, okul ya da kamu hizmeti geçeceği söylenerek resmi bir yazı kapınızı çaldı. Telaşlanmayın; idare mülkünüze el koyarken belirli kurallara uymak zorundadır ve **gerçek bedelin ödenmesi** en temel hakkınızdır.",
+  "keyInsight": "İdarenin gönderdiği evrakı ve tebligat tarihini asla göz ardı etmeyin, çünkü tüm hak arama süreleri bu ilk bildirimle başlar.",
+  "sections": [
+    {
+      "heading": "Kamu yararı kararıyla süreç nasıl başlar?",
+      "paragraphs": [
+        "Belediye veya ilgili kamu kurumu, mahalli müşterek ihtiyaçları karşılamak veya imar planlarını hayata geçirmek amacıyla taşınmazınızı kamulaştırma yetkisine sahiptir. Bu karar alındığında size resmi bir tebligat yapılır.",
+        "Mülkiyetiniz üzerinde bir ihtilaf varsa veya tapu kayıtlarında ortaklık durumu karmaşıksa, idare bu durumu mahkemeye bildirerek süreci resmîleştirir."
+      ],
+      "bullets": [
+        "Kamu yararı kararı alınır.",
+        "Tapu ve kadastro araştırması yapılır."
+      ]
+    },
+    {
+      "heading": "Bedel tespiti ve anlaşma görüşmeleri",
+      "paragraphs": [
+        "İdare, taşınmazınızın kıymetini takdir etmek için bir komisyon kurar ve sizi satın alma görüşmesine çağırır. Bu görüşmede idare ile anlaşma sağlarsanız tapu devri yapılır.",
+        "Ancak önerilen rakamı düşük bulursanız veya anlaşamazsanız, süreç **asliye hukuk mahkemesi** nezdinde devam eder."
+      ],
+      "bullets": [
+        "Kıymet takdir komisyonu bedel belirler.",
+        "Görüşmeler tutanakla kayıt altına alınır."
+      ]
+    },
+    {
+      "heading": "Mülkiyet çekişmeleri ve bankaya yatırma",
+      "paragraphs": [
+        "Tapuda hisseli veya kimin hak sahibi olduğu belirsiz taşınmazlarda, mahkeme kamulaştırma bedelini belirler. Belirlenen bu tutar, hak sahibine ödenmek üzere **üçer aylık vadeli hesaba** yatırılır.",
+        "Bedelin yatırılmasının ardından taşınmazın idare adına tesciline karar verilir."
+      ],
+      "bullets": [
+        "Bedel bankaya yatırılır.",
+        "Tapu idare adına tescil edilir."
+      ]
+    },
+    {
+      "heading": "Vazgeçme ve taşınmazın durumu",
+      "paragraphs": [
+        "İdare kamulaştırmadan vazgeçerse, taşınmaz üzerindeki eski yapılar veya tesisler zarar görmüş olabilir. Bu durumda mal sahibi veya mirasçısı, kamulaştırma tarihindeki değerine göre aradaki farkın ödenecek bedelden düşülmesini isteyebilir.",
+        "Bu tür uyuşmazlıklar adli yargı mercilerinde çözüme kavuşturulur."
+      ],
+      "bullets": [
+        "Kamulaştırmadan vazgeçilebilir.",
+        "Hasar bedeli mahkemede talep edilebilir."
+      ]
+    }
+  ],
+  "steps": [
+    "Kamu idaresinin tebligatını ve krokiyi saklayın.",
+    "Anlaşma görüşmesine yazılı katılın.",
+    "Acele kamulaştırmada fiilî el atmayı belgelendirin.",
+    "Tapu tescil ve bedel ödeme evrakını takip edin."
+  ],
+  "documents": [
+    "kamulaştırma kararı",
+    "tebliğ",
+    "kıymet takdiri",
+    "tapu"
+  ],
+  "faq": [
+    {
+      "q": "Kamulaştırma bedelini beğenmezsem ne yapabilirim?",
+      "a": "İdarenin önerdiği bedeli kabul etmek zorunda değilsiniz; anlaşma sağlanamazsa mahkeme süreci başlar ve gerçek bedel yargı yoluyla tespit edilir."
+    },
+    {
+      "q": "Acele kamulaştırma nedir?",
+      "a": "Kanunlarda öngörülen olağanüstü durumlarda, kıymet takdiri dışındaki işlemler sonradan tamamlanmak üzere taşınmaza hızlıca el konulmasıdır."
+    },
+    {
+      "q": "Kamulaştırmadan vazgeçilirse ne olur?",
+      "a": "İdare kamulaştırmaktan vazgeçtiğinde taşınmaz eski sahibine döner; bu süreçte meydana gelen yapısal zararlar için yasal yollara başvurulabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "kamulastirma-nedir",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

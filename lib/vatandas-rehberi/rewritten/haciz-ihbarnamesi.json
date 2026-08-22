@@ -1,0 +1,107 @@
+{
+  "slug": "haciz-ihbarnamesi",
+  "title": "Haciz ihbarnamesi gelirse ne yapılır — Vatandaş Rehberi | Av. Fethi Gü",
+  "description": "Haciz ihbarnamesi gelirse ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
+  "h1": "Haciz ihbarnamesi gelirse ne yapılır?",
+  "keywords": [
+    "haciz ihbarnamesi",
+    "99 haciz ihbarnamesi"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "banka-hesabi-haczi",
+    "haciz-islemleri-nasil-yapilir",
+    "odeme-emrine-itiraz"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=haciz"
+    }
+  ],
+  "lead": "Posta kutunuzda veya iş yerinizde resmi bir evrak buldunuz. Haciz ihbarnamesi, tanımadığınız veya borçlu olan bir kişinin alacağı için kapınızı çalan bir icra uyarısıdır.",
+  "keyInsight": "Evrak elinize geçtiği an **zaman** yarışınız başlar, sessiz kalmak borcu doğrudan üstlenmenize yol açar.",
+  "sections": [
+    {
+      "heading": "Bu kağıt elinize neden geldi?",
+      "paragraphs": [
+        "Şirketinizde çalışan birinin veya tanıdığınız birinin borcu dolayısıyla icra dairesi devreye girer. Alacaklı taraf, borçlunun sizde parası veya malı olduğunu iddia eder.",
+        "İcra memuru bu evrakla size resmi bir sorumluluk yükler. Borçlunun artık size ödeme yapamayacağını, borcu doğrudan icra dosyasına yatırmanız gerektiğini bildirir."
+      ],
+      "bullets": [
+        "Borçluyla ticari veya hukuki ilişki",
+        "Elinizde mal veya para bulunması"
+      ]
+    },
+    {
+      "heading": "Hangi durumlarda itiraz edebilirsiniz?",
+      "paragraphs": [
+        "Borçluya karşı hiçbir borcunuz yoksa veya ellerinizde herhangi bir malı bulundurmuyorsanız durum değişir. Borç önceden ödenmiş ya da mal telef olmuş olabilir.",
+        "Böyle bir durumda **itiraz hakkınızı** kullanarak durumu icra dairesine bildirmelisiniz. İtiraz edilmeyen durumlarda borç sizin üzerinize kalabilir."
+      ],
+      "bullets": [
+        "Borcun daha önceden ödenmiş olması",
+        "Malın yedinizde bulunmaması"
+      ]
+    },
+    {
+      "heading": "İkinci ihbarname gelirse ne olur?",
+      "paragraphs": [
+        "İlk bildirimi dikkate almadıysanız veya süreyi kaçırdıysanız süreç daha sert bir aşamaya geçer. İkinci bir uyarı kağıdı kapınıza dayanır.",
+        "Bu aşamada **mal yedinizde** veya borç zimmetinizde kabul edilir. Belirtilen sürede ödeme yapmaz veya malı teslim etmezseniz haciz baskısıyla karşılaşırsınız."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Mahkeme yolu ne zaman açılır?",
+      "paragraphs": [
+        "İkinci ihbarnamenin ardından sorumluluk tamamen üzerinize yıkılmış sayılabilir. Bu noktada haklılığınızı kanıtlamak için yargı yoluna başvurmanız gerekebilir.",
+        "Borçlu olmadığınızı ispatlamak adına **menfi tespit davası** açma imkanınız doğar. Bu süreç hukuki destek gerektiren hassas bir dönemeçtir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Evrakın tebliğ edildiği tarihi ve saati dikkatle not edin.",
+    "Borçluyla aranızda herhangi bir para veya mal ilişkisi olup olmadığını kontrol edin.",
+    "İtiraz gerekçelerinizi belirleyip dilekçenizi hazırlayın.",
+    "İtirazınızı ilgili icra dairesine yazılı veya sözlü olarak ulaştırın.",
+    "İkinci bir evrak gelmesi durumunda süreci avukatınızla birlikte takip edin."
+  ],
+  "documents": [
+    "Haciz ihbarnamesi aslı",
+    "Tebligat zarfı",
+    "Ticari defterler ve kayıtlar",
+    "Hesap ekstreleri"
+  ],
+  "faq": [
+    {
+      "q": "Borçluyla hiçbir bağım yok, ne yapmalıyım?",
+      "a": "Borçluyla alacak verecek ilişkiniz yoksa durumu süresi içinde icra dairesine yazılı olarak bildirmelisiniz."
+    },
+    {
+      "q": "İtiraz etmezsem borcu ben mi öderim?",
+      "a": "Süresinde itiraz edilmediği takdirde borç sizin üzerinizde kalır ve ödeme yükümlülüğüyle karşı karşıya kalırsınız."
+    },
+    {
+      "q": "Bildirimi nereye ve nasıl yapmalıyım?",
+      "a": "İşlemi başlatan ilgili icra dairesine giderek ya da dosya numarasını belirterek yazılı beyanda bulunabilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "3. kişiye ihbar",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

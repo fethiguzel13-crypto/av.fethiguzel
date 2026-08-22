@@ -1,0 +1,101 @@
+{
+  "slug": "kat-irtifakindan-mulkiyete",
+  "title": "Kat irtifakından mülkiyete — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Kat irtifakından mülkiyete hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
+  "h1": "Kat irtifakından mülkiyete",
+  "keywords": [
+    "kat irtifakından mülkiyete",
+    "kat irtifakindan mulkiyete"
+  ],
+  "category": "Eşya",
+  "related": [
+    "kat-mulkiyeti-aidat",
+    "kat-irtifaki-nedir",
+    "iskan-belgesi-nedir",
+    "tapu-devri-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kat-mulkiyeti-aidat"
+    },
+    {
+      "label": "Kat mülkiyeti",
+      "href": "/kategori/katmulkiyeti"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    }
+  ],
+  "lead": "Kat irtifakı, binanızın henüz inşaat aşamasında veya projesinin tapuya tescil edilmiş halidir. Kat mülkiyetine geçiş ise bu yapının tamamlandığını ve her bağımsız bölümün kendi tapusuna kavuştuğunu gösteren nihai aşamadır.",
+  "keyInsight": "Kat irtifakından mülkiyete geçiş sürecinde en büyük engel, bağımsız bölümünüz üzerinde bulunan ve kaldırılmamış ayni haklardır; bu haklar temizlenmeden tapu sicilinde değişim yapılamaz.",
+  "sections": [
+    {
+      "heading": "Kat irtifakı ile mülkiyet arasındaki fark nedir?",
+      "paragraphs": [
+        "Kat irtifakı, bir arsa üzerinde ileride yapılacak veya yapılmakta olan bağımsız bölümler için kurulan bir haktır. Yani elinizdeki tapuda 'kat irtifakı' yazıyorsa, binanızın projesi onaylanmış ancak henüz iskan belgesi almamış veya mülkiyet tapusuna dönüştürülmemiş olabilir.",
+        "Kat mülkiyeti ise yapının tamamlanmış ve her bir dairenin, dükkanın veya ofisin kendi başına kullanılmaya elverişli hale gelmiş halidir. Bu aşamada artık sadece arsa payı sahibi değil, bağımsız bölümün tam sahibi olursunuz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreç nasıl işler?",
+      "paragraphs": [
+        "Binanızın inşaatı bittiğinde ve belediyeden yapı kullanma izin belgesi yani iskan alındığında, kat mülkiyetine geçiş için gerekli şartlar oluşur. Bu aşamada tapu kütüğündeki irtifak hakkının mülkiyete çevrilmesi için başvuruda bulunmanız gerekir.",
+        "Unutmayın ki arsa payı, kat mülkiyetinden veya kat irtifakından ayrı olarak devredilemez. Bağımsız bölümünüzü devrettiğinizde, ona bağlı arsa payı da kendiliğinden yeni sahibine geçer."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Engel teşkil eden durumlar nelerdir?",
+      "paragraphs": [
+        "Bağımsız bölümlerden birinin üzerinde haciz, ipotek veya benzeri ayni haklar bulunuyorsa, bu hak sahibinin muvafakati alınmadan kat mülkiyetine geçiş işlemi yapılamaz.",
+        "Eğer hak sahibi sicil kaydının silinmesine onay vermiyorsa, hakkının sadece o kişiye ait mülkiyet payına aktarılması şartıyla işlem devam edebilir. **Hak sahibinin onayı** olmadan tapu sicilindeki kayıtlar değiştirilemez."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Neden mülkiyete geçmelisiniz?",
+      "paragraphs": [
+        "Kat irtifakı, yapının henüz tamamlanmadığı veya resmiyet kazanmadığı bir durumu temsil eder. Kat mülkiyeti ise yapının projesine uygun olduğunu ve her bağımsız bölümün hukuken tescil edildiğini kanıtlar.",
+        "Mülkiyet tapusu, taşınmaz üzerindeki haklarınızı netleştirir ve olası hukuki karmaşaların önüne geçer. **Resmi senet** üzerindeki bilgiler, bağımsız bölümlerin sınırlarını ve ortak alanlardaki payınızı kesin olarak belirler."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Binanızın iskan belgesini belediyeden temin edin.",
+    "Kat mülkiyetine geçiş için gerekli belgeleri hazırlayın.",
+    "Tüm kat maliklerinin veya bağımsız bölüm sahiplerinin yazılı talebini oluşturun.",
+    "Tapu müdürlüğüne gerekli başvuruyu yapın.",
+    "İlgili sicil kayıtlarının güncellenmesini takip edin."
+  ],
+  "documents": [
+    "Yapı kullanma izin belgesi",
+    "Kat malikleri listesi",
+    "Yönetim planı",
+    "Tapu tescil belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Kat irtifakı tapusu ile kredi çekebilir miyim?",
+      "a": "Evet, bankalar kat irtifakı tapusu olan bağımsız bölümler için de kredi verebilir ancak iskan durumu bankanın politikasına göre değerlendirilir."
+    },
+    {
+      "q": "Tüm kat malikleri imza atmak zorunda mı?",
+      "a": "Genel kural olarak tüm kat maliklerinin veya bağımsız bölümleri kendi mülkiyetinde toplayan kişinin yazılı istemi aranır."
+    },
+    {
+      "q": "Üzerinde haciz olan daire mülkiyete geçebilir mi?",
+      "a": "Haciz sahibi hak sahibinin muvafakati olmadan, yani onay vermeden sicil kaydının silinmesi ve mülkiyete geçiş süreci tamamlanamaz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kat-mulkiyeti-aidat",
+  "angle": "Kat irtifakından mülkiyete",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

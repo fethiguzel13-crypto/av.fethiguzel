@@ -1,0 +1,109 @@
+{
+  "slug": "uyap-vatandas-portal",
+  "title": "UYAP vatandaş portal — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "UYAP vatandaş portal hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
+  "h1": "UYAP vatandaş portal",
+  "keywords": [
+    "uyap vatandaş portal",
+    "uyap vatandas portal"
+  ],
+  "category": "Usul",
+  "related": [
+    "noter-islemleri",
+    "icra-dosyasi-sorgulama",
+    "hukuk-davasi-nasil-acilir",
+    "elektronik-tebligat"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/noter-islemleri"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Bilgisayar ekranının başındasınız ve hakkınızdaki davayı ya da icra dosyasını merak ediyorsunuz. UYAP Vatandaş Portal, adalet işlemlerini dijital ortamda takip etmenizi sağlayan resmi bilişim sistemidir.",
+  "keyInsight": "Elektronik ortamda yapılan tüm yargılama işlemlerinde **süre gün sonunda biter**, bu nedenle son günü son saate bırakmayın.",
+  "sections": [
+    {
+      "heading": "Sistem Üzerinden Neler Yapabilirsiniz?",
+      "paragraphs": [
+        "Adliyelerde açılan dava dosyalarınızı incelemek, harç ve avans ödemek için adliye koridorlarında koşma devri bitti. Güvenli elektronik imzanızı kullanarak **dava açabilir** ve tüm belgelerinizi dijital ortamdan güvenle gönderebilirsiniz.",
+        "Sistem üzerinden oluşturulan ve güvenli elektronik imzayla hazırlanan tutanak ile belgeler ayrıca fizikî olarak gönderilmez ve belge örneği aranmaz. İhtiyaç duyulduğunda elektronik ortamdan fizikî örnek çıkartılması hâlinde, belgenin aslının aynı olduğu hâkim veya görevlendirdiği yazı işleri müdürü tarafından **imzalanır ve mühürlenir**."
+      ],
+      "bullets": [
+        "Güvenli e-imza ile dava açma",
+        "Harç ve avans ödeme işlemleri",
+        "Dosya içerisindeki belgeleri inceleme"
+      ]
+    },
+    {
+      "heading": "Elektronik Satış Portalı Nasıl İşler?",
+      "paragraphs": [
+        "Borç nedeniyle haczolunan malların paraya çevrilmesi süreci artık tamamen dijitalleşti. Haczolunan malın satışı, UYAP'a entegre edilen elektronik satış portalı üzerinden **açık artırma suretiyle** gerçekleştirilir.",
+        "Açık artırmada teklif verme süresi yedi gündür ve ilan edilen gün ile saat aralığında teklif verilir. Teklif veren kişilerin bilgileri, sistemi işleten kamu görevlileri hariç hiç kimse tarafından **görülemez ve gösterilemez**."
+      ],
+      "bullets": [
+        "7 günlük teklif verme süresi",
+        "Gizli tutulan teklif Sahibi bilgileri",
+        "Son dakikalarda gelen tekliflerle otomatik uzama"
+      ]
+    },
+    {
+      "heading": "Elektronik İhale Sürecinde Teklifler Nasıl Verilir?",
+      "paragraphs": [
+        "Satışa çıkarılan malın muhammen kıymeti üzerinden teklif sunarken belirlenen kurallara uymanız gerekir. Teklifler arasındaki fark, satışa çıkarılan malın muhammen kıymetinin binde beşinden ve **her hâlde bin Türk lirasından az olamaz**.",
+        "Açık artırmada en yüksek teklifi veren kişi, artırma süresi içinde kendisinden daha yüksek bir teklif verilmedikçe teklifini çekemez ve teminatını geri alamaz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süre Uzatımı ve Son Dakika Teklifleri",
+      "paragraphs": [
+        "İhale heyecanının en yoğun yaşandığı anlar son dakikalardır. Açık artırma süresinin son on dakikası içinde yeni bir teklifin verilmesi hâlinde açık artırma **üç dakika uzatılır**.",
+        "Uzama süresi içinde her yeni teklif verilmesinden itibaren süre yeniden üç dakika uzatılır. Ancak unutmayın ki, uzama sürelerinin toplamı bir saati geçemez."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "UYAP Vatandaş Portal adresine e-Devlet şifreniz veya e-imzanız ile giriş yapın.",
+    "Dosya sorgulama ekranını kullanarak tarafı olduğunuz dava veya icra dosyalarını listeleyin.",
+    "İncelemek istediğiniz dosyanın detayına tıklayarak evrakları ve tutanakları denetleyin.",
+    "İcra satışları için elektronik satış portalına geçerek muhammen bedel ve artırma şartlarını inceleyin.",
+    "Belirlenen süre ve kurallara uygun şekilde teklifinizi veya işlemlerinizi güvenle tamamlayın."
+  ],
+  "documents": [
+    "Güvenli elektronik imza",
+    "Kimlik bilgileri",
+    "E-Devlet şifresi",
+    "Teminat bedeli dekontu"
+  ],
+  "faq": [
+    {
+      "q": "UYAP Vatandaş Portal'a kimler erişebilir?",
+      "a": "Tarafı olduğu bir dava, icra dosyası veya soruşturma dosyası bulunan her vatandaş e-Devlet kapısı veya e-imza aracılığıyla sisteme erişebilir."
+    },
+    {
+      "q": "Elektronik açık artırmada verdiğim teklifi geri çekebilir miyim?",
+      "a": "En yüksek teklifi veren kişi, artırma süresi içinde kendisinden yüksek bir teklif verilmedikçe teklifini çekemez ve teminatını alamaz."
+    },
+    {
+      "q": "Sürelerin bitiş saati nedir?",
+      "a": "Elektronik ortamda yapılan işlemlerde süre gün sonunda biter."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "noter-islemleri",
+  "angle": "UYAP vatandaş portal",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

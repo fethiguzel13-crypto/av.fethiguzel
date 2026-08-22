@@ -1,0 +1,114 @@
+{
+  "slug": "hmk-madde-389",
+  "title": "HMK 389 İhtiyati Tedbir — Özet | Vatandaş Rehberi",
+  "description": "HMK m.389 ihtiyati tedbir (özet) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
+  "h1": "HMK m.389 ihtiyati tedbir (özet)",
+  "keywords": [
+    "HMK 389 özet",
+    "ihtiyati tedbir özet"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "ihtiyati-tedbir-nedir",
+    "hmk-nedir",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Tam madde metni + şerh",
+      "href": "/mevzuat/hmk/madde-389"
+    },
+    {
+      "label": "Kanun maddesi ara",
+      "href": "/ara"
+    },
+    {
+      "label": "HMK m.389",
+      "href": "/mevzuat/hmk/madde-389"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Mahkemede hakkınızı ararken zaman kaybı yüzünden elinizdeki malın uçup gideceğinden korkuyorsanız, geçici hukuki koruma yolları devreye girer. İhtiyati tedbir, asıl dava sonuçlanana kadar mevcut durumu güvenceye alan **geciktirilemez bir kalkan** görevi görür.",
+  "keyInsight": "Mevcut durumda meydana gelebilecek değişim nedeniyle hakkın elde edilmesinin imkânsızlaşması veya ciddi zarar doğması ihtiyatî tedbirin temel şartıdır.",
+  "sections": [
+    {
+      "heading": "Haklarınız tehlikedeyken ne yapılır?",
+      "paragraphs": [
+        "Elimdeki mal kaçırılıyor, tapu başkasına devrediliyor veya makineler sökülüyor diye telaşlanıyorsunuz. Hukuk, dava sürerken hakkınızın tamamen boşa gitmemesi için size koruma sağlar.",
+        "Mevcut durumun değişmesi hakkınızı almanızı imkânsız hale getirecekse **ihtiyati tedbir** talebinde bulunabilirsiniz."
+      ],
+      "bullets": [
+        "Mevcut durumun değişme ihtimali",
+        "Gecikme sebebiyle ciddi zarar doğması"
+      ]
+    },
+    {
+      "heading": "Hangi hallerde bu koruma istenir?",
+      "paragraphs": [
+        "Uyuşmazlık konusu olan malın veya hakkın başkasına devredilerek ortadan kaldırılma tehlikesi bulunduğunda bu yola başvurulur.",
+        "Sadece çekişmeli davalarda değil, niteliğine uygun düştüğü ölçüde **çekişmesiz yargı işlerinde de** bu tedbirler uygulanabilir."
+      ],
+      "bullets": [
+        "Hakkın elde edilmesinin zorlaşması",
+        "Telafisi güç zararların önlenmesi"
+      ]
+    },
+    {
+      "heading": "Zaman kısıtı ve adli tatil durumu",
+      "paragraphs": [
+        "Adli tatil döneminde mahkemeler kapalı olur diye düşünmeyin. İhtiyati tedbir gibi **geçici hukuki korumalar** adli tatilde de hızla görülmeye devam eder.",
+        "Acil durumlarda adli tatil engeline takılmadan başvurunuzu yapabilir ve karar çıkmasını sağlayabilirsiniz."
+      ],
+      "bullets": [
+        "Adli tatilde görülen işler arasındadır",
+        "Gecikmesinde sakınca bulunan haller"
+      ]
+    },
+    {
+      "heading": "Heyet ve mahkeme yapısı",
+      "paragraphs": [
+        "Toplu mahkemelerde görülen dava ve işlerde, delil tespiti ve ihtiyati tedbir gibi geçici korumalar da heyet tarafından karara bağlanır.",
+        "İşin özelliğine göre mahkeme başkanı tahkikatı yürütmek üzere **bir üyeyi görevlendirebilir** veya naip hakim tayin edebilir."
+      ],
+      "bullets": [
+        "Toplu mahkemelerde heyet kararı",
+        "Naip hakim görevlendirilmesi"
+      ]
+    }
+  ],
+  "steps": [
+    "Uyuşmazlık konusunu ve karşı karşıya olduğunuz ciddi zarar riskini somut delillerle belirleyin.",
+    "Geçici hukuki koruma talebinizi içeren dilekçeyi ilgili mahkemeye sunun.",
+    "Adli tatildeyseniz dahi işin ivediliğini belirterek tedbir talebinin incelenmesini isteyin.",
+    "Mahkemenin vereceği tedbir kararının uygulanması için gerekli safhaları takip edin."
+  ],
+  "documents": [
+    "İhtiyati tedbir talep dilekçesi",
+    "Uyuşmazlık konusu hakkı veya mal varlığını gösteren belgeler",
+    "Zarar tehlikesini ve mevcut durumun değişeceğini ispatlayacak deliller"
+  ],
+  "faq": [
+    {
+      "q": "İhtiyati tedbir nedir?",
+      "a": "Mevcut durumun değişmesi nedeniyle hakkın elde edilmesinin zorlaşacağı veya ciddi zarar doğacağı durumlarda başvurulan geçici bir korumadır."
+    },
+    {
+      "q": "Adli tatilde ihtiyati tedbir kararı verilir mi?",
+      "a": "Evet, ihtiyati tedbir ve benzeri geçici hukuki koruma talepleri adli tatilde de görülür ve karara bağlanır."
+    },
+    {
+      "q": "Çekişmesiz yargı işlerinde tedbir istenebilir mi?",
+      "a": "Niteliğine uygun düştüğü ölçüde çekişmesiz yargı işlerinde de ihtiyati tedbir hükümleri uygulanabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "bridge",
+  "angle": "İhtiyati tedbir özeti",
+  "canonicalPath": "/mevzuat/hmk/madde-389",
+  "sitemapPriority": 0.45,
+  "voice": "narrative",
+  "source": "gemini"
+}

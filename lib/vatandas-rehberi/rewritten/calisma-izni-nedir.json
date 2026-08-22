@@ -1,0 +1,116 @@
+{
+  "slug": "calisma-izni-nedir",
+  "title": "Çalışma izni — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Çalışma izni hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
+  "h1": "Çalışma izni",
+  "keywords": [
+    "çalışma izni",
+    "calisma izni nedir"
+  ],
+  "category": "Yabancılar",
+  "related": [
+    "yabanci-ikamet-izni",
+    "is-sozlesmesi-feshi",
+    "sgk-hizmet-dokumu",
+    "evlilikle-vatandaslik",
+    "uluslararasi-koruma",
+    "turist-ikamet-izni",
+    "calisma-izni-muafiyeti"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/yabanci-ikamet-izni"
+    },
+    {
+      "label": "YUKK",
+      "href": "/kategori/yukk"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    }
+  ],
+  "lead": "Türkiye'de yasal olarak çalışabilmek için çalışma izni almak zorundasınız. Bu izin, hem işçiyi hem de işvereni güvenceye alan resmî bir belgedir.",
+  "keyInsight": "Çalışma izni başvurusunu kural olarak işçi değil, işveren yapar ve izinsiz çalıştırma cezası çok ağırdır.",
+  "sections": [
+    {
+      "heading": "İşveren başvuruyu nasıl başlatır?",
+      "paragraphs": [
+        "Yabancı bir personelle anlaştınız. Asıl adım, işverenin elektronik izin sistemi üzerinden resmi süreci başlatmasıdır.",
+        "Başvuru sırasında mesleki yeterlilikler ve iş sözleşmesi detayları sisteme eksiksiz işlenmelidir."
+      ],
+      "bullets": [
+        "Elektronik sistem üzerinden başvuru",
+        "İş sözleşmesinin sisteme yüklenmesi"
+      ]
+    },
+    {
+      "heading": "Hangi belgeler hazır olmalı?",
+      "paragraphs": [
+        "Resmî sürecin yürütülmesi için kişinin pasaportu ve mesleğini gösteren belgelerin el altında bulunması gerekir.",
+        "Eksik evrak başvurunun durmasına veya reddedilmesine yol açabilir."
+      ],
+      "bullets": [
+        "Geçerli pasaport",
+        "Diploma veya meslek belgesi"
+      ]
+    },
+    {
+      "heading": "İzin çıkmadan çalışılabilir mi?",
+      "paragraphs": [
+        "**Çalışma izni kartı** elinize geçmeden işe başlamak yasal olarak mümkün değildir. Onay beklenmeden atılan her adım cezai risk taşır.",
+        "İzin belgesi alındıktan sonra yasal çalışma dönemi resmen başlar."
+      ],
+      "bullets": [
+        "Onay belgesini beklemek şart",
+        "İzinsiz çalıştırma yasağı"
+      ]
+    },
+    {
+      "heading": "Süreç nasıl tamamlanır?",
+      "paragraphs": [
+        "Başvuru onaylandıktan sonra ilgili kurumlarca izin şekli ve içeriği belirlenir. Gerekli harç ve mali yükümlülükler yerine getirilir.",
+        "İşlemler bittiğinde yabancı uyruklu çalışan yasal statü kazanır."
+      ],
+      "bullets": [
+        "İzin şeklinin belirlenmesi",
+        "Yasal statünün kesinleşmesi"
+      ]
+    }
+  ],
+  "steps": [
+    "İşverenin e-izin sisteminden başvuru yapmasını sağlayın.",
+    "Diploma denkliği ve meslek şartını kontrol edin.",
+    "Harç ve sözleşme evrakını tamamlayın.",
+    "İzin kartını bekleyin; izinsiz çalışmayın.",
+    "Ret veya iptalde idari yargı süresini hesaplayın."
+  ],
+  "documents": [
+    "iş sözleşmesi",
+    "diploma",
+    "pasaport",
+    "izin belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Çalışma izni için işçi kendi başvurabilir mi?",
+      "a": "Kural olarak başvuruyu işveren yapar; ancak istisnai durumlarda mevzuattaki özel hükümler geçerlidir."
+    },
+    {
+      "q": "İzin belgesi gelmeden çalışmaya başlanırsa ne olur?",
+      "a": "İzinsiz çalışma hem işçi hem de işveren açısından ağır idari para cezaları ve yaptırımlar doğurur."
+    },
+    {
+      "q": "Başvuru reddedilirse ne yapılabilir?",
+      "a": "Ret veya iptal kararlarına karşı yasal süresi içinde idari yargı yollarına başvurulabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "yabanci-ikamet-izni",
+  "angle": "Çalışma izni",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

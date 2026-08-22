@@ -1,0 +1,112 @@
+{
+  "slug": "icra-borcu-yapislandirma",
+  "title": "İcra borcu nasıl taksitlendirilir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İcra borcu nasıl taksitlendirilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
+  "h1": "İcra borcu nasıl taksitlendirilir?",
+  "keywords": [
+    "icra borcu taksit",
+    "icra ödeme planı"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "e-devlet-icra",
+    "haciz-nasil-kaldirilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Faiz",
+      "href": "/hesaplama/faiz"
+    }
+  ],
+  "lead": "Kapınıza dayanan icra borcunu tek seferde ödemek zorunda değilsiniz. Alacaklının rızasıyla ve belirli kurallarla borcunuzu taksitlendirebilirsiniz.",
+  "keyInsight": "Taksitlendirme anlaşması yaparken ilk taksiti derhal ödemeniz ve borcun kalan kısmını aksatmadan düzenli ödemeniz şarttır.",
+  "sections": [
+    {
+      "heading": "Ne zaman taksit teklif edebilirsiniz?",
+      "paragraphs": [
+        "Borcunuz icra takibine konu oldu ve eve haciz geldi. Telaşla ne yapacağınızı düşünürken en önemli eşik satış aşamasıdır. Borçlu, alacaklının **satış talebinden evvel** borcunu muntazam taksitlerle ödemeyi taahhüt edebilir.",
+        "Bu aşamada icra dairesine giderek ödeme planı teklifinizi sunarsınız. Alacaklı ile anlaşarak hacizden önce veya sonra taksitlendirme sözleşmesi yapma imkanınız bulunur."
+      ],
+      "bullets": [
+        "Satış talebinden önce başvurun",
+        "İcra dairesinde tutanak düzenleyin"
+      ]
+    },
+    {
+      "heading": "Anlaşmanın geçerli olması için gerekenler nedir?",
+      "paragraphs": [
+        "Borcunuzu takside bağlamak istiyorsanız kanunun koyduğu net kurallara uymalısınız. Borçlunun yeterli miktarda malı haczedilmiş bulunmalıdır. Aksi halde bu yola başvuramazsınız.",
+        "Her taksitin borcun belirli bir oranından aşağı olmaması ve ödemelerin **aydan aya** yapılması gerekir. İcra dairesinde yapılan bu anlaşmalar damga vergisinden istisnadır."
+      ],
+      "bullets": [
+        "Yeterli malın haczedilmiş olması",
+        "Aydan aya düzenli ödeme"
+      ]
+    },
+    {
+      "heading": "İlk adımı atınca ne değişir?",
+      "paragraphs": [
+        "Borçlu alacaklının satış talebinden evvel borcunu muntazam taksitlerle ödemeyi taahhüt eder ve **birinci taksiti de derhal verirse** icra muamelesi durur.",
+        "Bu anlaşma ve sözleşmelerin devam ettiği süre boyunca haciz ve satış süreleri durur, işlemez. Taraflar uzun soluklu bir ödeme planında anlaşabilir."
+      ],
+      "bullets": [
+        "İlk taksitin derhal ödenmesi",
+        "İcra işlemlerinin durması"
+      ]
+    },
+    {
+      "heading": "Ödemeyi aksatırsanız ne olur?",
+      "paragraphs": [
+        "Güzide ödeme planınızı yaptınız, ilk taksiti verdiniz ancak ilerleyen aylarda bir ödemeyi unuttunuz ya da geciktirdiniz. Bu durumda koruma kalkanınız düşer.",
+        "Taksitlerden biri zamanında verilmezse **icra muamelesi ve süreler** kaldığı yerden aynen devam eder. Başladığınız noktaya geri dönersiniz."
+      ],
+      "bullets": [
+        "Taksit zamanında ödenmeli",
+        "Gecikmede işlemler başlar"
+      ]
+    }
+  ],
+  "steps": [
+    "İcra dosyasına giderek güncel borç miktarını öğrenin",
+    "Alacaklı veya vekili ile taksit koşullarında uzlaşın",
+    "İcra dairesinde taksitlendirme taahhüdünde bulunun",
+    "İlk taksit tutarını derhal ilgili birime yatırın",
+    "Kalan taksitleri aksatmadan aydan aya ödeyin"
+  ],
+  "documents": [
+    "Nüfus cüzdanı",
+    "İcra ödeme emri",
+    "Taksitlendirme taahhütnamesi",
+    "İlk taksit makbuzu"
+  ],
+  "faq": [
+    {
+      "q": "Taksitlendirme için alacaklının onayı şart mı?",
+      "a": "Borçlunun satıştan önce taksit taahhüdünde bulunması ve ilk taksiti vermesi temel şarttır; ancak süreç genellikle alacaklı ile icra dairesinde yapılan sözleşmeyle yürür."
+    },
+    {
+      "q": "İlk taksiti ödemezsem ne olur?",
+      "a": "İlk taksiti derhal vermezseniz icra muamelesi durmaz ve haciz/satış işlemleri kaldığı yerden devam eder."
+    },
+    {
+      "q": "Taksitlerden birini unutursam anlaşma yanar mı?",
+      "a": "Evet. Taksitlerden biri zamanında verilmezse icra muamelesi ve duran süreler kaldığı yerden yeniden işlemeye başlar."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Taksit / ödeme planı",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

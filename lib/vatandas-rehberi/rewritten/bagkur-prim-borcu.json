@@ -1,0 +1,113 @@
+{
+  "slug": "bagkur-prim-borcu",
+  "title": "Bağ-Kur Prim Borcu ve Yapılandırma | Vatandaş Rehberi",
+  "description": "Bağ-Kur borcu nasıl ödenir / yapılandırılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Por…",
+  "h1": "Bağ-Kur borcu nasıl ödenir / yapılandırılır?",
+  "keywords": [
+    "Bağkur prim borcu",
+    "Bağkur yapılandırma"
+  ],
+  "category": "Sosyal Güvenlik",
+  "related": [
+    "genel-saglik-sigortasi",
+    "rapor-parasi-hesaplama",
+    "olum-ayligi-dul-yetim",
+    "e-devlet-sgk-borcu",
+    "sgk-tesvik-nedir",
+    "gecici-is-goremezlik",
+    "prim-iadesi-sgk",
+    "vergi-borcu-yapislandirma"
+  ],
+  "links": [
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    },
+    {
+      "label": "AATUHK",
+      "href": "/kategori/aatuhk"
+    }
+  ],
+  "lead": "Bağ-Kur prim borcunuzu ödemek veya yapılandırmak için öncelikle kurum kayıtlarındaki güncel borç dökümünüzü incelemeniz ve resmi ödeme kanallarını kullanmanız gerekir. Borcun ödenmemesi durumunda resmi işlemlerde kısıtlamalar ve haciz süreçleri gündeme gelebilir.",
+  "keyInsight": "Borç tebliğ edildiğinde veya yapılandırma yapıldığında belirtilen süreleri kaçırmak, tüm hakların düşmesine ve işlemlerin başa dönmesine yol açar.",
+  "sections": [
+    {
+      "heading": "Borç nereden ve nasıl öğrenilir?",
+      "paragraphs": [
+        "Esnaf veya bağımsız çalışan olarak faaliyet yürütürken primlerinizin düzenli ödenmemesi birikmiş borçlara yol açar. İlk adım olarak Sosyal Güvenlik Kurumu sistemleri üzerinden ne kadar prim borcunuz olduğunu net bir şekilde görmelisiniz.",
+        "Borç dökümü alındıktan sonra ana para ile birlikte gecikme cezası ve gecikme zammı kalemleri de raporda yer alır. Bu tutar, sosyal güvenlik haklarınızın devamı ve emeklilik hesaplamanız için doğrudan önem taşır."
+      ],
+      "bullets": [
+        "Güncel prim oranları kazancınızın belirli bir yüzdesi üzerinden hesaplanır.",
+        "Biriken borçlar sigorta kollarından yararlanmanızı engeller."
+      ]
+    },
+    {
+      "heading": "Ödeme yapılmazsa hangi engeller çıkar?",
+      "paragraphs": [
+        "Vadesi geçmiş borçlar sadece sosyal güvenlik sistemini değil, devlet destekleri veya resmi kurum ödemelerini de doğrudan etkiler. Kamu kurumlarından yapılacak hak edişler veya ihale ödemeleri sırasında borç sorgulaması yapılır.",
+        "Maliye Bakanlığına bağlı tahsil dairelerinde **vadesi geçmiş borç** bulunması durumunda çeşitli tescil, ruhsat ve ihale ödemeleri yapılmaz. Borç tutarı bu ödemelerden mahsup edilebilir."
+      ],
+      "bullets": [
+        "Kamu ödemelerinde borçsuzluk belgesi aranır.",
+        "Tapu ve ruhsat işlemlerinde borç engeli ile karşılaşabilirsiniz."
+      ]
+    },
+    {
+      "heading": "Haciz ve yasal takip süreci nasıl işler?",
+      "paragraphs": [
+        "Prim borçlarının ödenmemesi durumunda Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükmü devreye girer. Kurum, borçlunun üçüncü şahıslardaki hak, alacak ve banka hesaplarına haciz bildirisi gönderebilir.",
+        "Banka şubelerine ve genel müdürlüklere elektronik ortamda tebliğ edilen **haciz bildirisi** ile hesaplardaki varlıkların doğrudan tahsil dairesine aktarılması istenir. Üçüncü şahısların bu bildirimlere süresinde yanıt vermesi zorunludur."
+      ],
+      "bullets": [
+        "Banka hesaplarına haciz konulabilir.",
+        "Üçüncü şahıslardaki haklar bloke edilebilir."
+      ]
+    },
+    {
+      "heading": "İtiraz ve denetim yolları nelerdir?",
+      "paragraphs": [
+        "Eksik işçilik veya re'sen tahakkuk ettirilen prim borçlarına karşı kurum nezdinde yasal süreler içinde itiraz etme hakkınız bulunur. Yapılan tebligata karşı **bir ay içinde** kuruma başvurulması takibi durdurur.",
+        "Kurumun itirazı reddetmesi halinde ise yetkili iş mahkemesine başvurarak yargı yoluna gidebilirsiniz. Süreç boyunca resmi tebligatları dikkate almak hak kaybını önler."
+      ],
+      "bullets": [
+        "Tebligat tarihinden itibaren bir aylık itiraz süresi vardır.",
+        "İtiraz reddedilirse iş mahkemesine gidilebilir."
+      ]
+    }
+  ],
+  "steps": [
+    "Sosyal Güvenlik Kurumu sisteminden güncel prim borcu dökümünü çıkarın.",
+    "Borç tutarını ana para, gecikme cezası ve zammı kalemleriyle birlikte inceleyin.",
+    "Resmi tahsil kanalları veya anlaşmalı bankalar aracılığıyla ödeme işlemini gerçekleştirin.",
+    "Tebliğ edilen borçlara karşı bir aylık yasal sürede kurum merciiine itiraz edin.",
+    "Gerekli durumlarda yapılandırma veya taksitlendirme seçenekleri için başvuru yapın."
+  ],
+  "documents": [
+    "SGK prim borcu döküm belgesi",
+    "Kurum tebligat evrakı",
+    "Ödeme makbuzu veya dekontu",
+    "İtiraz dilekçesi",
+    "Mahkeme başvuru evrakları"
+  ],
+  "faq": [
+    {
+      "q": "Bağ-Kur prim borcumu ödemezsem ne olur?",
+      "a": "Prim borçları birikir, emeklilik gün sayınız dolsa bile borç ödenmeden aylık bağlanmaz ve banka hesaplarınıza haciz gelebilir."
+    },
+    {
+      "q": "Borca nereden itiraz edebilirim?",
+      "a": "Kurumca tebliğ edilen prim borcuna karşı tebliğ tarihinden itibaren bir ay içinde bağlı bulunduğunuz Sosyal Güvenlik Kurumuna itiraz edebilirsiniz."
+    },
+    {
+      "q": "Haciz bildirisi bankama gelirse ne yapmalıyım?",
+      "a": "Tahsil dairesi tarafından bankalara gönderilen haciz bildirisi üzerine banka hesaplarınız bloke olur; borcun ödenmesi veya yapılandırılması gerekir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "bagkur-prim-borcu",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "idari-basvuru-yolu",
+  "title": "Davadan önce idari başvuru gerekir mi — Vatandaş Rehberi | Av. Fethi G",
+  "description": "Davadan önce idari başvuru gerekir mi? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
+  "h1": "Davadan önce idari başvuru gerekir mi?",
+  "keywords": [
+    "idari başvuru yolu",
+    "başvuru yollarının tüketilmesi"
+  ],
+  "category": "İdare",
+  "related": [
+    "idari-dava-nasil-acilir",
+    "iptal-davasi-nedir",
+    "cimer-sikayet"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/idari-dava-nasil-acilir"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    },
+    {
+      "label": "İçtihat",
+      "href": "/icthat"
+    }
+  ],
+  "lead": "Belediye veya kamu kurumlarının işlemleriyle karşılaştığınızda, doğrudan mahkemenin kapısını çalmadan önce idari süreçleri tamamlamanız gerekebilir. Yanlış kapıyı çalmak veya süreci atlamak zaman kaybettirir.",
+  "keyInsight": "Kamu kurumları arasındaki taşınmaz devirlerinde veya bazı özel başvurularda önceden yazılı talepte bulunmak ve **cevap süresini** beklemek zorunludur.",
+  "sections": [
+    {
+      "heading": "İdareye ilk adım nasıl atılır?",
+      "paragraphs": [
+        "Belediyeden veya bir kamu kurumundan talepte bulunacağınız zaman, dilekçenizi doğrudan yetkili makama sunarsınız. İdareye yazılı olarak başvurmadan yargı yoluna gitmek bazı durumlarda mümkün olmayabilir.",
+        "Taşınmaza ihtiyacı olan bir idare, mal sahibi kuruma yazılı olarak başvurur ve ödeyeceği bedeli bildirir. Kurumun bu talebe **altmış gün içinde** cevap vermesi gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Cevap gelmezse ne yapılır?",
+      "paragraphs": [
+        "Mal sahibi kurum süresinde cevap vermez veya talebi kabul etmezse anlaşmazlık doğar. Bu durumda alıcı idarenin başvurusu üzerine süreç ilgili denetim mercii tarafından incelenir.",
+        "Kararın taraflara tebliğ edilmesinden sonra **otuz gün içinde** mahkemeye başvurarak bedel tespiti istenebilir. Süreleri kaçırmak hak kaybına yol açar."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kamulaştırmada başvuru şartı var mı?",
+      "paragraphs": [
+        "Taşınmazınızın bir kısmı kamulaştırıldığında ve kalan kısım kullanılmaz hal aldığında idari yolları gözetmeniz gerekir. Kamulaştırma işlemine karşı dava açılmayan hallerde idareye başvurulabilir.",
+        "Mal sahibinin en geç kamulaştırma kararının tebliğinden itibaren **otuz gün içinde** yazılı başvuruda bulunması durumunda, artan kısmın da kamulaştırılması zorunludur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Fenni mesul bildirimleri kime yapılır?",
+      "paragraphs": [
+        "İnşaat süreçlerinde görev yapan meslek mensuplarının sorumlulukları büyüktür. Yapının mevzuata aykırı yapılması veya usta çalıştırılmaması gibi durumlarda görevliler harekete geçer.",
+        "Fenni mesuller bu gibi aykırılıkları **altı iş günü içinde** ilgili idareye yazılı olarak bildirmek zorundadır. Bu bildirim yapılmazsa yasal sorumluluk devam eder."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Talebinizi veya itirazınızı içeren dilekçeyi hazırlayın.",
+    "İlgili kamu kurumuna veya belediyeye evrakı teslim edin.",
+    "Kurumun yasal yanıt süresini takibe alın.",
+    "Cevapsız kalma veya reddedilme durumunda süreci izleyin.",
+    "Gerekirse süresi içinde yetkili mercilere başvurun."
+  ],
+  "documents": [
+    "Yazılı başvuru dilekçesi",
+    "Tapu kaydı ve belgeler",
+    "İdare tebligat zarfı",
+    "Kamulaştırma karar örneği"
+  ],
+  "faq": [
+    {
+      "q": "İdareye başvurmadan doğrudan dava açılabilir mi?",
+      "a": "Uyuşmazlığın türüne göre önceden yazılı başvuru zorunluluğu bulunabilir; özellikle kurumlar arası devirlerde yazılı başvuru şarttır."
+    },
+    {
+      "q": "İdare başvuruma süresinde cevap vermezse ne olur?",
+      "a": "Kurumlar arası devirlerde altmış gün içinde cevap verilmezse anlaşmazlık doğmuş sayılır ve sonraki yasal adımlara geçilir."
+    },
+    {
+      "q": "Artan kısmın kamulaştırılması için ne kadar sürede başvurulmalıdır?",
+      "a": "İdari yargıda dava açılmayan hallerde, kamulaştırma kararının tebliğinden itibaren en geç otuz gün içinde yazılı başvuru yapılması gerekir."
+    },
+    {
+      "q": "Fenni mesul istifasını kime bildirmelidir?",
+      "a": "Fenni mesuller istifa veya mevzuata aykırılık durumlarını altı iş günü içinde ilgili idareye yazılı olarak bildirmek zorundadır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "idari-dava-nasil-acilir",
+  "angle": "Ön başvuru",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

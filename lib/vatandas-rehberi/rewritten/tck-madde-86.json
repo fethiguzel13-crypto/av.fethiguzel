@@ -1,0 +1,116 @@
+{
+  "slug": "tck-madde-86",
+  "title": "TCK 86 Kasten Yaralama — Özet | Vatandaş Rehberi",
+  "description": "TCK m.86 kasten yaralama (özet) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
+  "h1": "TCK m.86 kasten yaralama (özet)",
+  "keywords": [
+    "TCK 86 özet",
+    "kasten yaralama özet"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "tck-nedir",
+    "savcilik-suc-duyurusu",
+    "ceza-sorusturmasi-sureci"
+  ],
+  "links": [
+    {
+      "label": "Tam madde metni + şerh",
+      "href": "/mevzuat/tck/madde-86"
+    },
+    {
+      "label": "Kanun maddesi ara",
+      "href": "/ara"
+    },
+    {
+      "label": "TCK m.86",
+      "href": "/mevzuat/tck/madde-86"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    }
+  ],
+  "lead": "Birinin vücuduna acı verdiğinizde veya sağlığını bozduğunuzda kanun karşısında kasten yaralama suçu işlenmiş olur. Olayın niteliğine ve kime karşı yapıldığına göre cezanın ağırlığı değişir.",
+  "keyInsight": "Basit tıbbi müdahaleyle iyileşecek yaralamalarda şikayet şartı aranırken, suçun yakın akrabaya veya silahla işlenmesi durumunda şikayete bakılmaksızın ceza artırılır.",
+  "sections": [
+    {
+      "heading": "Ne zaman suç oluşur?",
+      "paragraphs": [
+        "Sokakta tartıştınız ve karşı tarafa fiziksel zarar verdiniz. Asıl mesele başkasının vücuduna acı vermek veya sağlığını bozmaktır. Bu durumda kanun cezai sorumluluk öngörür.",
+        "Eylemin boyutu **basit bir tıbbi müdahaleyle** giderilebilecek kadar hafifse, süreç mağdurun şikayetine bağlıdır."
+      ],
+      "bullets": [
+        "Vücuda acı verme",
+        "Sağlığın bozulması",
+        "Algılama yeteneğinin zayıflaması"
+      ]
+    },
+    {
+      "heading": "Hangi durumlarda ceza katlanır?",
+      "paragraphs": [
+        "Olayın kendisi kadar kime karşı işlendiği de önemlidir. Suçun eşe, kardeşe, üstsoya veya altsoya karşı işlenmesi durumu değiştirir.",
+        "Ayrıca **silah kullanılması** veya kişinin kendisini savunamayacak durumda olması cezayı artıran sebeplerdir."
+      ],
+      "bullets": [
+        "Kamu görevlisine karşı işlenmesi",
+        "Canavarca hisle hareket edilmesi",
+        "Kadına karşı işlenmesi"
+      ]
+    },
+    {
+      "heading": "Şikayet şartı neyi değiştirir?",
+      "paragraphs": [
+        "Basit yaralama hallerinde mağdur şikayetçi olmadıkça adli süreç ilerlemez. Ancak nitelikli hallerde **şikayet aranmaksızın** soruşturma yürütülür.",
+        "Suçun kadına karşı işlenmesinde kanun alt sınır için özel bir taban belirlemiştir."
+      ],
+      "bullets": [
+        "Şikayete bağlı suçlar",
+        "Resen soruşturulan haller"
+      ]
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "Yaşanan tartışma veya kavga sonrasında adli yollara başvururken elinizdeki belgeler süreci netleştirir.",
+        "Hastaneden alacağınız **tıbbi rapor** yaralanmanın boyutunu gösteren en temel delildir."
+      ],
+      "bullets": [
+        "Geçici veya kesin doktor raporu",
+        "Olay yeri tutanakları"
+      ]
+    }
+  ],
+  "steps": [
+    "Olayın hemen ardından sağlık kuruluşuna giderek darp raporu aldırın.",
+    "Durumu yetkili mercilere bildirerek şikayet hakkınızı kullanın.",
+    "Yaralanmanın basit tıbbi müdahaleyle geçip geçmeyeceğini tespit ettirin.",
+    "Varsa tanık ve delilleri soruşturma dosyasına sunun."
+  ],
+  "documents": [
+    "Doktor raporu",
+    "Olay yeri inceleme tutanağı",
+    "Şikayet dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Her kavga kasten yaralama suçu mu sayılır?",
+      "a": "Başkasının vücuduna acı veren veya sağlığını bozan her fiil bu kapsamda değerlendirilebilir."
+    },
+    {
+      "q": "Şikayet olmazsa dava açılmaz mı?",
+      "a": "Fiil basit tıbbi müdahaleyle giderilebilecekse şikayet aranır; ancak nitelikli hallerde şikayet şartı aranmaz."
+    },
+    {
+      "q": "Silah kullanılması ceza miktarını etkiler mi?",
+      "a": "Silahla işlenen yaralama suçlarında verilecek ceza yarı oranında artırılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "bridge",
+  "angle": "Kasten yaralama özeti",
+  "canonicalPath": "/mevzuat/tck/madde-86",
+  "sitemapPriority": 0.45,
+  "voice": "narrative",
+  "source": "gemini"
+}

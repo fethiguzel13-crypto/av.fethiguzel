@@ -1,0 +1,110 @@
+{
+  "slug": "kadastro-tespitine-itiraz",
+  "title": "Kadastro tespitine itiraz — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Kadastro tespitine itiraz hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada…",
+  "h1": "Kadastro tespitine itiraz",
+  "keywords": [
+    "kadastro tespitine itiraz",
+    "kadastro tespitine itiraz"
+  ],
+  "category": "Eşya",
+  "related": [
+    "izale-i-suyu",
+    "sinir-uyusmazligi",
+    "tapu-iptal-tescil",
+    "idari-dava-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/izale-i-suyu"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Kadastro tespiti, arazinizin sınırlarını ve mülkiyet durumunu resmiyete döken kritik bir işlemdir. Bu süreçte hak kaybına uğradığınızı düşünüyorsanız, süreci dikkatle takip etmeniz gerekir.",
+  "keyInsight": "Kadastro tutanakları askıya çıkarıldığında, itirazınızı zamanında ve doğru mercie yapmazsanız haklarınız kalıcı olarak sınırlandırılabilir.",
+  "sections": [
+    {
+      "heading": "Tespiti nasıl takip edersiniz?",
+      "paragraphs": [
+        "Kadastro çalışmaları bittiğinde sonuçlar hemen kesinleşmez. Yapılan tespitler ilgili köy veya mahallede bir süre askıya çıkarılır. Bu dönem, sizin için en kritik aşamadır.",
+        "Askı süreci, yapılan çalışmanın doğruluğunu kontrol etmeniz için size tanınan bir fırsattır. Eğer tespitte bir hata olduğunu düşünüyorsanız, bu süreci kaçırmamanız gerekir."
+      ],
+      "bullets": [
+        "Askı ilanlarını düzenli takip edin.",
+        "Sınırlarınızın doğru çizilip çizilmediğini kontrol edin."
+      ]
+    },
+    {
+      "heading": "İtiraz hakkı ne zaman başlar?",
+      "paragraphs": [
+        "Kadastro memuru, ilgililerin bilgisi dışında yaptığı işlemleri onlara tebliğ etmekle yükümlüdür. Ancak askı süreci, herkesin görebileceği şekilde ilan edildiği için tebligat hükmündedir.",
+        "İtiraz süreniz, tutanakların askıya çıkarıldığı tarihten itibaren işlemeye başlar. **Bu süreyi kaçırmamanız** hak kaybı yaşamamanız için hayati önem taşır."
+      ],
+      "bullets": [
+        "İlan tarihini not edin.",
+        "Tutanak içeriğini dikkatle inceleyin."
+      ]
+    },
+    {
+      "heading": "İtiraz nereye yapılır?",
+      "paragraphs": [
+        "Kadastro tespitine karşı itirazlarınızı, işlemin yapıldığı bölgedeki Kadastro Müdürlüğü veya ilgili birimlere yazılı olarak iletmeniz gerekir.",
+        "İtiraz dilekçenizde, tespitin neden hatalı olduğunu ve haklılığınızı gösteren dayanaklarınızı net bir şekilde ifade etmelisiniz."
+      ],
+      "bullets": [
+        "Yazılı başvuru esastır.",
+        "İtiraz gerekçelerinizi somutlaştırın."
+      ]
+    },
+    {
+      "heading": "Süreci kaçırırsanız ne olur?",
+      "paragraphs": [
+        "Belirlenen süre içinde itiraz etmezseniz, kadastro tutanakları kesinleşir. Kesinleşen tutanaklar, tapu kütüğüne tescil edilir ve artık geri dönüşü olmayan bir sürece girilir.",
+        "**Kesinleşmiş işlemlere** karşı sonradan itiraz etmek oldukça güçleşir ve hukuki süreçler çok daha karmaşık hale gelir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Askı ilanlarını yerel muhtarlıklardan veya ilgili müdürlükten kontrol edin.",
+    "Tespit edilen sınırları arazinizle karşılaştırın.",
+    "Hatalı olduğunu düşündüğünüz kısımlar için itiraz dilekçenizi hazırlayın.",
+    "Dilekçenizi süresi içinde ilgili kadastro birimine teslim edin.",
+    "Başvurunuzun alındığına dair evrak kayıt numarasını mutlaka alın."
+  ],
+  "documents": [
+    "Tapu kayıt örnekleri",
+    "İtiraz dilekçesi",
+    "Varsa sınırları gösteren eski belgeler",
+    "Kimlik belgesi"
+  ],
+  "faq": [
+    {
+      "q": "İtirazımı sözlü yapabilir miyim?",
+      "a": "Hayır, itirazlar her zaman yazılı olarak ve ilgili birimin kayıtlarına girilerek yapılmalıdır."
+    },
+    {
+      "q": "Askı süresini kaçırırsam ne yapabilirim?",
+      "a": "Askı süresi geçtikten sonra kadastro tutanakları kesinleşir, bu durum hak kaybına neden olabilir; süreyi dikkatle takip etmelisiniz."
+    },
+    {
+      "q": "İtiraz dilekçesinde neleri belirtmeliyim?",
+      "a": "Hangi parselin, hangi kısmında hata olduğunu ve neden haklı olduğunuzu açık, sade bir dille yazmalısınız."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "izale-i-suyu",
+  "angle": "Kadastro tespitine itiraz",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "trafik-kazasi-manevvi",
+  "title": "Trafik kazası manevi tazminat | Vatandaş Rehberi",
+  "description": "Trafik kazası manevi tazminat hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
+  "h1": "Trafik kazası manevi tazminat",
+  "keywords": [
+    "trafik kazası manevi tazminat",
+    "trafik kazasi manevvi"
+  ],
+  "category": "Trafik",
+  "related": [
+    "trafik-kazasi-tazminati",
+    "manevi-tazminat-nedir",
+    "destekten-yoksun-kalma"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/trafik-kazasi-tazminati"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "KTK",
+      "href": "/kategori/ktk"
+    }
+  ],
+  "lead": "Trafik kazası sonrası yaşadığınız elem ve kederin telafisi için manevi tazminat talep edebilirsiniz. Bu süreç, yaşadığınız acının hafifletilmesini amaçlayan bir hukuk yoludur.",
+  "keyInsight": "Manevi tazminatın miktarı, kazanın ağırlığı ve tarafların durumu gözetilerek **hakim tarafından takdir edilir**.",
+  "sections": [
+    {
+      "heading": "Kaza anında ilk ne yapmalı?",
+      "paragraphs": [
+        "Kaza yerinde yaşadığınız şok ile hareket etmek zordur ancak ilk adım her zaman tutanak altına almaktır. Trafik polisi olay yerine gelerek kaza tespit tutanağını düzenler.",
+        "Bu tutanak, kazanın nasıl gerçekleştiğini gösteren en önemli belgedir. Olayın taraflarını ve varsa görgü tanıklarını mutlaka not edin."
+      ],
+      "bullets": [
+        "Kaza tespit tutanağını eksiksiz doldurun.",
+        "Olay yerinin fotoğraflarını çekin.",
+        "Varsa yaralanmaları raporlayın."
+      ]
+    },
+    {
+      "heading": "Manevi tazminat neden istenir?",
+      "paragraphs": [
+        "Manevi tazminat, maddi kayıplarınızdan farklı olarak duyduğunuz ruhsal üzüntünün karşılığıdır. Kazanın sizde yarattığı derin etki, **hukuki koruma altındadır**.",
+        "Tazminat miktarı belirlenirken sizin sosyal durumunuz, olayın oluş şekli ve yaşanan üzüntünün şiddeti esas alınır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreci nasıl yönetmelisiniz?",
+      "paragraphs": [
+        "Kazadan sonra tedavi sürecinizde aldığınız her türlü raporu saklayın. Hastane kayıtları, iyileşme sürenizi ve yaşadığınız acıyı kanıtlayan en güçlü delillerdir.",
+        "Hukuki süreç, kazanın gerçekleştiği andan itibaren başlar. Hak kaybına uğramamak için belgelerinizi bir araya getirmelisiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hakim neye göre karar verir?",
+      "paragraphs": [
+        "Manevi tazminat bir zenginleşme aracı değildir. Hakim, yaşadığınız acıyı dindirebilecek makul bir miktara hükmeder.",
+        "Sizin sosyal çevreniz ve kazanın üzerinizdeki etkisi, kararın verilmesinde **ayrıntılı olarak değerlendirilir**."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Kaza tespit tutanağını mutlaka tutun.",
+    "Doktor raporlarını ve tedavi belgelerini düzenli saklayın.",
+    "Olay yerindeki delilleri fotoğraflarla sabitleyin.",
+    "Manevi tazminat talebinizi içeren başvurunuzu hazırlayın."
+  ],
+  "documents": [
+    "Trafik kaza tespit tutanağı",
+    "Doktor raporları",
+    "Hastane epikriz belgeleri",
+    "Olay yeri fotoğrafları"
+  ],
+  "faq": [
+    {
+      "q": "Manevi tazminat için ne kadar süre var?",
+      "a": "Trafik kazalarındaki tazminat talepleri, kazanın öğrenildiği tarihten itibaren belirli bir süreye tabidir; bu süreyi geçirmemek önemlidir."
+    },
+    {
+      "q": "Her kazada manevi tazminat alınır mı?",
+      "a": "Manevi tazminatın doğması için kazanın sizde manevi bir elem, acı veya üzüntüye yol açmış olması gerekir."
+    },
+    {
+      "q": "Tazminatı kimden talep ederim?",
+      "a": "Tazminat talebi, genellikle kazaya sebebiyet veren sürücü veya araç sahibi ile sigorta şirketine yöneltilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "trafik-kazasi-tazminati",
+  "angle": "Trafik kazası manevi tazminat",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

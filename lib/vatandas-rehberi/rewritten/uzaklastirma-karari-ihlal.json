@@ -1,0 +1,110 @@
+{
+  "slug": "uzaklastirma-karari-ihlal",
+  "title": "Uzaklaştırma kararı çiğnenirse ne olur — Vatandaş Rehberi | Av. Fethi ",
+  "description": "Uzaklaştırma kararı çiğnenirse ne olur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı.…",
+  "h1": "Uzaklaştırma kararı çiğnenirse ne olur?",
+  "keywords": [
+    "uzaklaştırma kararı ihlal",
+    "6284 ihlal"
+  ],
+  "category": "Aile",
+  "related": [
+    "koruma-karari-6284",
+    "savcilik-suc-duyurusu",
+    "gozalti-haklari"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/koruma-karari-6284"
+    },
+    {
+      "label": "6284",
+      "href": "/kategori/aile-koruma"
+    },
+    {
+      "label": "TCK",
+      "href": "/kategori/tck-kisiler"
+    }
+  ],
+  "lead": "Uzaklaştırma kararını ihlal eden kişi hakkında hâkim kararıyla zorlama hapsi uygulanır. Bu süreçte ihlalin tekrarlanması cezayı artırır.",
+  "keyInsight": "Zorlama hapsine karar verilebilmesi için ihlalin gerçekleştiğinin belgelenmesi ve hâkim kararı şarttır.",
+  "sections": [
+    {
+      "heading": "Karar çiğnendiğinde ne olur?",
+      "paragraphs": [
+        "Kapınızın önüne gelen veya iletişim kuran kişi, hakkında verilen tedbir kararının gereklerine aykırı hareket etmiştir. Bu durumda fiil ayrı bir suç oluşturmasa bile **zorlama hapsi** gündeme gelir.",
+        "Hâkim, ihlalin niteliğine ve ağırlığına göre zorlama hapsine karar verir. Bu karar, kuralların kâğıt üstünde kalmadığını gösteren en somut yaptırımdır."
+      ],
+      "bullets": [
+        "Tedbirin gereklerine aykırılık",
+        "Hâkim kararıyla zorlama hapsi"
+      ]
+    },
+    {
+      "heading": "İhlaller tekrar ederse nela karşılaşılır?",
+      "paragraphs": [
+        "Uzaklaştırma kararının her ihlal edilişinde ceza katlanarak devam eder. İlk ihlalde verilen süre ile sonraki ihlallerde uygulanan süreler farklılık gösterir.",
+        "Ancak kanun koyucu bu hapsin **toplam süresi** için bir üst sınır belirlemiştir. Bu sınırın aşılması mümkün değildir."
+      ],
+      "bullets": [
+        "Her tekrar için ayrı değerlendirme",
+        "Toplam süre sınırı"
+      ]
+    },
+    {
+      "heading": "Karar nasıl uygulanır?",
+      "paragraphs": [
+        "Hâkim tarafından verilen zorlama hapsine ilişkin kararlar, Cumhuriyet başsavcılığı aracılığıyla yerine getirilir.",
+        "Ayrıca bu kararlar ilgili bakanlık birimlerine de bildirilerek sürecin takibi sağlanır."
+      ],
+      "bullets": [
+        "Cumhuriyet başsavcılığı eliyle infaz",
+        "İlgili kurumlara bildirim"
+      ]
+    },
+    {
+      "heading": "Yanınızda hangi belgeler dursun?",
+      "paragraphs": [
+        "İhlal anında elinizde bulunan tüm kanıtlar süreci hızlandırır. Kolluğa veya ilgili mercilere başvururken bu belgeleri sunmanız gerekir.",
+        "Kararın bir sureti ve ihlali gösteren her türlü kayıt elinizin altında olmalıdır."
+      ],
+      "bullets": [
+        "Tedbir kararı metni",
+        "İhlali kanıtlayan belgeler"
+      ]
+    }
+  ],
+  "steps": [
+    "İhlal anında derhâl kolluk güçlerine haber verin.",
+    "Yaşanan ihlali ve zamanını tutanak altına aldırın.",
+    "Elimizdeki tedbir kararı ile birlikte başvuru yapın.",
+    "Cumhuriyet başsavcılığı ve mahkeme sürecini takip edin."
+  ],
+  "documents": [
+    "Uzaklaştırma tedbir kararı",
+    "İhlali gösteren tutanaklar",
+    "İletişim kayıtları veya mesajlar"
+  ],
+  "faq": [
+    {
+      "q": "Uzaklaştırma kararı ihlal edilirse doğrudan hapse girer mi?",
+      "a": "Hâkim kararıyla zorlama hapsine hükmedilmesi gerekir; bu süreç **hâkim kararına** bağlıdır."
+    },
+    {
+      "q": "İhlaller tekrarlanırsa ceza artar mı?",
+      "a": "Tedbir kararının her tekrarında zorlama hapsinin süresi yeniden değerlendirilerek artırılır."
+    },
+    {
+      "q": "Zorlama hapsi kararlarını kim uygular?",
+      "a": "Bu kararlar Cumhuriyet başsavcılığı tarafından yerine getirilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "koruma-karari-6284",
+  "angle": "İhlal",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

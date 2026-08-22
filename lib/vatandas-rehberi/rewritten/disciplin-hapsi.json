@@ -1,0 +1,101 @@
+{
+  "slug": "disciplin-hapsi",
+  "title": "Disiplin hapsi ne zaman verilir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Disiplin hapsi ne zaman verilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
+  "h1": "Disiplin hapsi ne zaman verilir?",
+  "keywords": [
+    "disiplin hapsi",
+    "icra disiplin hapsi"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "cocuk-teslimi-icra",
+    "tazyik-hapsi",
+    "icra-mahkemesi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    }
+  ],
+  "lead": "Disiplin hapsi, borçlunun yasal yükümlülüklerine aykırı davranması sonucu uygulanan bir yaptırımdır. Borcunuzu ödemediğiniz için değil, mal beyanı gibi özel bildirim ödevlerinizi yerine getirmediğinizde gündeme gelir.",
+  "keyInsight": "Borçlu, icra takibine konu olan borcu tamamen ödediği anda disiplin hapsi cezası kendiliğinden düşer.",
+  "sections": [
+    {
+      "heading": "Hangi durumlarda disiplin hapsi söz konusu olur?",
+      "paragraphs": [
+        "Borçlu olarak mal varlığınızda meydana gelen artışları veya gelirinizdeki yükselmeleri bildirmekle yükümlüsünüz. Eğer sonradan kazandığınız bir malı veya gelir artışını mazeretiniz olmaksızın bildirmezseniz disiplin hapsi riskiyle karşılaşırsınız.",
+        "Söz konusu mal veya kazanç halen elinizde duruyorsa farklı, ancak bu varlıkları makul bir sebep göstermeden elden çıkardıysanız daha ağır bir yaptırım söz konusudur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreç nasıl işler?",
+      "paragraphs": [
+        "Disiplin hapsi kendiliğinden verilen bir ceza değildir. Alacaklının icra mahkemesine şikayette bulunması gerekir. Şikayet üzerine mahkeme, durumu inceleyerek kararını verir.",
+        "Bu süreçte icra mahkemesi tek yetkili mercidir. Verilen disiplin hapsi kararları, diğer ceza davalarıyla birleştirilemez; icra mahkemesinin kendi özel düzenine tabidir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Karara itiraz edebilir misiniz?",
+      "paragraphs": [
+        "İcra mahkemesinin disiplin hapsine ilişkin verdiği kararlara karşı tebliğ tarihinden itibaren **iki hafta içinde** itiraz etme hakkınız bulunmaktadır.",
+        "İtiraz incelemesi, o yerdeki icra mahkemesinin durumuna göre bir sonraki numaralı daireye veya asliye ceza mahkemesine gönderilir. İtiraz sonucunda verilen karar kesindir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Cezadan nasıl kurtulursunuz?",
+      "paragraphs": [
+        "Disiplin hapsinin en belirgin özelliği, borcun ödenmesiyle etkisini yitirmesidir. Takibe konu olan borcun tamamını ödediğiniz an, hakkınızdaki hapis cezası düşer.",
+        "Bu nedenle, ödeme gücünüz oluştuğunda icra dairesi ile irtibata geçerek borcu kapatmak, disiplin hapsi riskini tamamen ortadan kaldıran **en etkili yoldur**."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Mal varlığınızdaki veya gelirinizdeki artışları süresi içinde icra dairesine bildirin.",
+    "Alacaklının şikayeti üzerine icra mahkemesinden gelecek tebligatı dikkatle takip edin.",
+    "Karar aleyhinize çıkarsa iki haftalık süreyi geçirmeden itiraz dilekçenizi hazırlayın.",
+    "Hapis cezasından kurtulmak için icra takibine konu borcu tamamen ödeyin.",
+    "Ödeme belgenizi mahkemeye sunarak cezanın düşürülmesini talep edin."
+  ],
+  "documents": [
+    "Mal beyanı bildirim dilekçesi",
+    "İcra mahkemesi karar tebligatı",
+    "İtiraz dilekçesi",
+    "Borcun ödendiğine dair icra dairesi makbuzu"
+  ],
+  "faq": [
+    {
+      "q": "Borcumu ödeyemezsem hemen hapse girer miyim?",
+      "a": "Hayır, sadece borcu ödeyememek disiplin hapsi sebebi değildir. Hapis cezası, mal beyanında bulunmama veya mal varlığındaki artışı bildirmeme gibi özel yükümlülük ihlalleri için uygulanır."
+    },
+    {
+      "q": "İtiraz süresini kaçırırsam ne olur?",
+      "a": "İtiraz süresini geçirdiğinizde mahkeme kararı kesinleşir ve itiraz etme hakkınızı kaybedersiniz."
+    },
+    {
+      "q": "Disiplin hapsi sicilime işler mi?",
+      "a": "Bu bir disiplin yaptırımıdır; icra mahkemesinin yetkisinde olan bu süreç, genel ceza hukuku kapsamındaki adli sicil kayıtlarından farklı bir işleyişe sahiptir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Disiplin hapsi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "trafik-cezasi-pesin-odeme",
+  "title": "Trafik Cezası Peşin Ödeme İndirimi | Vatandaş Rehberi",
+  "description": "Trafik cezası peşin ödenirse ne kadar iner? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Port…",
+  "h1": "Trafik cezası peşin ödenirse ne kadar iner?",
+  "keywords": [
+    "trafik cezası peşin ödeme",
+    "trafik cezası indirim"
+  ],
+  "category": "Trafik",
+  "related": [
+    "trafik-cezasina-itiraz",
+    "eds-ceza-sorgulama",
+    "idari-para-cezasi-indirim"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/trafik-cezasina-itiraz"
+    },
+    {
+      "label": "KTK",
+      "href": "/kategori/ktk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=trafik%20cezas%C4%B1"
+    }
+  ],
+  "lead": "Trafik cezanızı tebliğ edildiği andan itibaren hızlıca ödemek, toplam tutarda %25 oranında bir indirim sağlar. Bu imkandan yararlanmak için ödemeyi tebliğ tarihinden itibaren 15 gün içinde yapmanız yeterlidir.",
+  "keyInsight": "İndirim hakkınızı kaybetmemek için ödemeyi tebliğ tarihinden itibaren ilk 15 gün içinde tamamlamanız şarttır.",
+  "sections": [
+    {
+      "heading": "İndirimden nasıl yararlanılır?",
+      "paragraphs": [
+        "Trafik cezası tutanağı size ulaştığında, yani tebliğ edildiğinde bir süreç başlar. Eğer bu tutarı hemen ödemek isterseniz, devlet size bir teşvik sunar. Cezanın tamamını değil, dörtte üçünü ödeyerek borcunuzu kapatabilirsiniz.",
+        "Bu indirim, cezanın kesinleşmesinden sonraki ilk 15 gün içinde yapılan ödemeler için geçerlidir. Süreyi kaçırdığınızda ise cezanın tamamını ödemeniz gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Ödeme süresi ne zaman başlar?",
+      "paragraphs": [
+        "Süre, tutanağın size resmen tebliğ edildiği gün başlar. Eğer ceza yüzünüze karşı tutanakla yazıldıysa, tebliğ tarihi o gündür. Posta yoluyla gelen tebligatlarda ise belgenin size ulaştığı tarih esas alınır.",
+        "Ödemeyi **15 gün içinde** yapmanız, indirimli tutardan faydalanmanız için yeterlidir. Bu süreyi aşarsanız, cezanın tam bedelini ödemekle yükümlü olursunuz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Ödeme nereye yapılır?",
+      "paragraphs": [
+        "Cezayı ödemek için vergi dairelerine gitmenize gerek yoktur. Maliye Bakanlığına bağlı muhasebe birimleri, yetkilendirilmiş bankalar veya PTT şubeleri üzerinden işleminizi gerçekleştirebilirsiniz.",
+        "İnternet bankacılığı veya Gelir İdaresi Başkanlığı'nın dijital kanallarını kullanarak da ödemenizi **anlık olarak** tamamlayabilirsiniz. Ödeme sonrası makbuzunuzu saklamayı unutmayın."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreyi kaçırırsanız ne olur?",
+      "paragraphs": [
+        "Tebliğ tarihinden itibaren bir ay içinde ödenmeyen cezalar için faiz süreci başlar. Bu noktadan itibaren her ay için %5 oranında gecikme faizi uygulanır.",
+        "Faizli tutar, cezanın orijinal miktarının iki katını geçemez. Ancak süreci uzatmak, borcunuzun büyümesine ve icra takibi gibi ek külfetlerle karşılaşmanıza neden olabilir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Trafik cezası tutanağının size tebliğ edildiği tarihi not edin.",
+    "İndirimli tutardan yararlanmak için 15 gün içinde ödeme yapın.",
+    "Ödemeyi banka, PTT veya vergi dairesi kanallarından yapın.",
+    "Ödeme belgenizi veya dekontunuzu mutlaka saklayın."
+  ],
+  "documents": [
+    "Trafik İdari Para Cezası Karar Tutanağı",
+    "Ödeme dekontu veya makbuz",
+    "Tebligat belgesi"
+  ],
+  "faq": [
+    {
+      "q": "İndirim oranı tam olarak nedir?",
+      "a": "Cezanın tebliğinden itibaren 15 gün içinde ödeme yapılması halinde ceza tutarı üzerinden %25 indirim uygulanır."
+    },
+    {
+      "q": "15 günü geçersem ne olur?",
+      "a": "İndirim hakkınızı kaybedersiniz ve cezanın tamamını ödemeniz gerekir."
+    },
+    {
+      "q": "Tebligat gelmezse ne yapmalıyım?",
+      "a": "E-devlet üzerinden trafik cezası sorgulama ekranını düzenli kontrol ederek ceza bilgilerine ulaşabilir ve süreci yönetebilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "trafik-cezasina-itiraz",
+  "angle": "Peşin indirim",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

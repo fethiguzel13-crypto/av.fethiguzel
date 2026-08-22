@@ -1,0 +1,114 @@
+{
+  "slug": "vergi-incelemesi-nedir",
+  "title": "Vergi incelemesi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Vergi incelemesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
+  "h1": "Vergi incelemesi",
+  "keywords": [
+    "vergi incelemesi",
+    "vergi incelemesi nedir"
+  ],
+  "category": "Vergi",
+  "related": [
+    "kdv-nedir",
+    "vergi-borcu-yapislandirma",
+    "e-devlet-vergi-borcu",
+    "idari-dava-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kdv-nedir"
+    },
+    {
+      "label": "VUK",
+      "href": "/kategori/vuk"
+    },
+    {
+      "label": "AATUHK",
+      "href": "/kategori/aatuhk"
+    }
+  ],
+  "lead": "Kapınız çaldığında elinde resmi evrakla duran kişiyi gördüğünüzde asıl amacın ödenmesi gereken vergilerin doğruluğunu araştırmak ve sağlamak olduğunu unutmayın.",
+  "keyInsight": "İncelemeye yetkili memurlar işe başlamadan önce kimliklerini ve yetkilerini gösteren fotoğraflı resmi vesikayı mutlaka ibraz etmek zorundadır.",
+  "sections": [
+    {
+      "heading": "Kapınızı kim çalabilir?",
+      "paragraphs": [
+        "İş yerinizde veya evinizde denetimle karşılaştığınızda yetkinin kimde olduğunu bilmek ilk adımdır. Bu süreç Vergi Müfettişleri, Vergi Müfettiş Yardımcıları, ilin en büyük mal memuru veya vergi dairesi müdürleri tarafından yürütülür.",
+        "Gelir İdaresi Başkanlığının merkez ve taşra teşkilatında müdür kadrolarında görev yapanlar da her hal ve takdirde bu inceleme yetkisine doğrudan sahiptir."
+      ],
+      "bullets": [
+        "Vergi Müfettişleri denetimi yürütür",
+        "Vergi dairesi müdürleri yetkilidir"
+      ]
+    },
+    {
+      "heading": "İlk adımda ne istenir?",
+      "paragraphs": [
+        "Görevli memur yanındaki **fotoğraflı resmi vesikayı** işe başlamadan evvel size göstermek zorundadır. Bu belge onun memuriyet sıfatını ve inceleme yetkisini açıkça ortaya koyar.",
+        "Kimlik ibraz edilmeden yapılan hiçbir işleme güvenmemeniz ve yetki belgesini mutlaka talep etmeniz gerekir."
+      ],
+      "bullets": [
+        "Memuriyet sıfatı gösterilir",
+        "Fotoğraflı resmi vesika ibraz edilir"
+      ]
+    },
+    {
+      "heading": "İncelemenin asıl amacı nedir?",
+      "paragraphs": [
+        "Yapılan tüm bu araştırmaların temel hedefi, ödenmesi gereken vergilerin doğruluğunu araştırmak, tespit etmek ve sağlamaktır. Bu kapsamda beyannameleriniz detaylıca tetkik edilir.",
+        "Görüldüğü lüzum üzerine işletmenize ait iktisadi kıymetlerin **fiili envanteri** de yapılabilir. Bu envanterin gerektirdiği ve incelemeyi yapan tarafından tasdik edilen giderler Hazine tarafından karşılanır."
+      ],
+      "bullets": [
+        "Vergilerin doğruluğu araştırılır",
+        "Fiili envanter yapılabilir"
+      ]
+    },
+    {
+      "heading": "Teminat ne zaman gündeme gelir?",
+      "paragraphs": [
+        "Vergi ziyaı cezası kesilmesini gerektiren haller veya kanunda belirtilen kaçakçılık durumlarına temas eden bir alacak söz konusu olduğunda süreç sertleşebilir. İlk hesaplara göre belirlenen miktar üzerinden tahsil dairelerince teminat istenir.",
+        "Türkiye'de ikametgahı bulunmayan borçluların durumu tahsilin tehlikede olduğunu gösteriyorsa, idare yine teminat talep etme hakkını kullanır."
+      ],
+      "bullets": [
+        "Ceza gerektiren hallerde teminat istenir",
+        "Yabancı borçlularda tahsil tehlikesi aranır"
+      ]
+    }
+  ],
+  "steps": [
+    "Gelen görevlinin fotoğraflı resmi vesikasını isteyin.",
+    "Memurun kimlik ve yetki belgesini inceleyin.",
+    "İşletmenizde fiili envanter yapılması durumunda süreci takip edin.",
+    "İstenen defter, belge ve beyanname unsurlarını hazırlayın.",
+    "Gerekli durumlarda teminat ve güvence yükümlülüklerini yerine getirin."
+  ],
+  "documents": [
+    "Fotoğraflı resmi vesika",
+    "Vergi beyannameleri",
+    "İşletme defter ve kayıtları",
+    "Teminat mektubu veya kefalet senedi",
+    "Haczedilebilir menkul ve gayrimenkul malların listesi"
+  ],
+  "faq": [
+    {
+      "q": "Vergi incelemesini herkes yapabilir mi?",
+      "a": "Hayır, sadece kanunen yetkilendirilmiş Vergi Müfettişleri, müdürler ve mal memurları bu incelemeyi yürütebilir."
+    },
+    {
+      "q": "Görevli kimliğini göstermezse ne yapmalıyım?",
+      "a": "İşe başlamadan evvel fotoğraflı resmi vesikanın gösterilmesi zorunludur; belgeyi ibraz etmeyen kişilere işlem yaptırmayın."
+    },
+    {
+      "q": "Fiili envanter masraflarını kim öder?",
+      "a": "Fiili envanter yapılmasının gerektirdiği ve incelemeyi yapan memur tarafından tasdik edilen giderler Hazine tarafından ödenir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kdv-nedir",
+  "angle": "Vergi incelemesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

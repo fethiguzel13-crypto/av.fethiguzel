@@ -1,0 +1,113 @@
+{
+  "slug": "gozalti-suresi",
+  "title": "Gözaltı en fazla ne kadar — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Gözaltı en fazla ne kadar? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
+  "h1": "Gözaltı en fazla ne kadar?",
+  "keywords": [
+    "gözaltı süresi",
+    "gözaltı kaç saat"
+  ],
+  "category": "Ceza",
+  "related": [
+    "savcilik-suc-duyurusu",
+    "gozalti-haklari",
+    "ceza-sorusturmasi-sureci",
+    "tutuklama-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/savcilik-suc-duyurusu"
+    },
+    {
+      "label": "CMK",
+      "href": "/kategori/cmk"
+    },
+    {
+      "label": "PVSK",
+      "href": "/kategori/pvsk"
+    }
+  ],
+  "lead": "Yakalandınız ve karakoldasınız. Asıl mesele, suçun niteliğine göre **değişen süre** sınırları içinde adliyeye sevk edilmenizdir.",
+  "keyInsight": "Yakalama anından itibaren başlayan sürelerde, hakimin önüne çıkarılma zorunluluğu en temel güvencedir.",
+  "sections": [
+    {
+      "heading": "Yakalama anı ve ilk süre",
+      "paragraphs": [
+        "Kapınızda polis belirdiğinde ya da sokakta durdurulduğunuzda süreç başlar. Cumhuriyet savcısının serbest bırakmadığı kişi için soruşturmanın tamamlanması amacıyla gözaltına alma kararı verilebilir.",
+        "Gözaltı süresi, yakalama yerine en yakın hakim veya mahkemeye gönderilmesi için gereken **zorunlu süre hariç**, yakalama anından itibaren **yirmidört saati geçemez**. Bu sürenin içinde kalmak esastır."
+      ],
+      "bullets": [
+        "Yakalama anından başlar",
+        "En fazla yirmi dört saattir"
+      ]
+    },
+    {
+      "heading": "Yolculuk ve sevk süresi",
+      "paragraphs": [
+        "Bulunduğunuz yer ile hakimin bulunduğu yer arasındaki mesafe önemlidir. Bu sevk işlemi için gereken **zorunlu süre oniki saatten fazla olamaz**.",
+        "Yolculuk bittiğinde ve işlemler tamamlandığında durum gecikmeksizin Cumhuriyet savcısına bildirilir ve talimat beklenir."
+      ],
+      "bullets": [
+        "Yol süresi hesaba katılır",
+        "En fazla on iki saat sürer"
+      ]
+    },
+    {
+      "heading": "Toplu suçlarda süre uzatımı",
+      "paragraphs": [
+        "Suçun birden fazla kişiyle birlikte işlenmesi durumunda delil toplamak güçleşebilir. Şüpheli sayısının çokluğu bu durumu etkiler.",
+        "Cumhuriyet savcısı gözaltı süresinin, her defasında bir günü geçmemek üzere, **üç gün süreyle** uzatılmasına yazılı olarak emir verebilir. Bu karar size derhal tebliğ edilir."
+      ],
+      "bullets": [
+        "Her defasında bir gün",
+        "Toplamda üç gün uzatma"
+      ]
+    },
+    {
+      "heading": "Toplumsal olaylar ve suçüstü halleri",
+      "paragraphs": [
+        "Şiddet olaylarının yaygınlaşarak kamu düzenini bozabileceği toplumsal olaylar sırasında farklı kurallar devreye girer. Suçüstü halleri de bu kapsamda değerlendirilir.",
+        "Kolluk amirleri tarafından verilen kararlar sonrasında kişi en geç **kırk sekiz saat**, toplu olarak işlenen suçlarda ise en geç **dört gün içinde** hakim önüne çıkarılır."
+      ],
+      "bullets": [
+        "Kolluk amiri kararı",
+        "En geç dört gün sınır"
+      ]
+    }
+  ],
+  "steps": [
+    "Yakalama sebebini ve haklarınızı öğrenin",
+    "İşlemlerin tamamlanmasını ve savcı talimatını bekleyin",
+    "Süre aşımı olup olmadığını takip edin",
+    "Yakınlarınıza durumun bildirilmesini isteyin",
+    "En geç kanuni süreler sonunda hakim önüne çıkarılmayı talep edin"
+  ],
+  "documents": [
+    "Kimlik belgesi",
+    "Gözaltı ve uzatma kararı tutanakları",
+    "Hak hatırlatma tutanağı",
+    "Sağlık raporu"
+  ],
+  "faq": [
+    {
+      "q": "Gözaltı süresi ne kadar başlar?",
+      "a": "Yakalama anından itibaren yirmi dört saati geçemez."
+    },
+    {
+      "q": "Yol masrafı veya süresi nasıl hesaplanır?",
+      "a": "Yakalama yerine en yakın hakime gönderilme için zorunlu yol süresi on iki saatten fazla olamaz."
+    },
+    {
+      "q": "Toplu suçlarda süre uzar mı?",
+      "a": "Cumhuriyet savcısının yazılı emriyle her defasında bir günü geçmemek üzere üç gün süreyle uzatılabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "savcilik-suc-duyurusu",
+  "angle": "Süre",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

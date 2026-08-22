@@ -1,0 +1,110 @@
+{
+  "slug": "yetkisizlik-karari",
+  "title": "Yetkisizlik kararı gelirse ne yapılır — Vatandaş Rehberi | Av. Fethi G",
+  "description": "Yetkisizlik kararı gelirse ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
+  "h1": "Yetkisizlik kararı gelirse ne yapılır?",
+  "keywords": [
+    "yetkisizlik kararı"
+  ],
+  "category": "Usul",
+  "related": [
+    "hukuk-davasi-nasil-acilir",
+    "yetkili-mahkeme-nedir",
+    "gorevsizlik-karari"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/hukuk-davasi-nasil-acilir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=yetki"
+    }
+  ],
+  "lead": "Mahkemeden yetkisizlik kararı aldığınızda dosyanız kendiliğinden kapanmaz; doğru adımları atmazsanız davanız açılmamış sayılır.",
+  "keyInsight": "Kararın kesinleşme veya tebliğ tarihinden itibaren **iki hafta** içinde dosyayı yetkili mahkemeye göndermesini **kararı veren mahkemeden** yazılı olarak istemelisiniz.",
+  "sections": [
+    {
+      "heading": "Yetkisizlik kararı ne anlama gelir?",
+      "paragraphs": [
+        "Mahkeme salonundasınız veya posta kutunuza resmi bir evrak geldi; hâkim bu davaya bizim mahkememiz bakamaz diyor. Bu durum davanın bittiği anlamına gelmez, yalnızca **yanlış kapıyı çaldığınızı** gösterir.",
+        "Hâkim yetkisizlik kararında, dosyanın hangi adliyeye ve hangi mahkemeye gideceğini açıkça gösterir. Sizin yapmanız gereken panik yapmadan bu adresi not etmek ve süreci başlatmaktır."
+      ],
+      "bullets": [
+        "Dosya çöpe gitmez, doğru adrese taşınmayı bekler.",
+        "Kararda yetkili mahkemenin adı açıkça yazar."
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırırsanız ne olur?",
+      "paragraphs": [
+        "Hukuk sisteminde süreler can damarıdır. Yetkisizlik kararı verildiğinde, taraflardan birinin **iki hafta** içinde harekete geçmesi şarttır.",
+        "Eğer bu süre içinde kararı veren mahkemeye başvurup dosyanın yetkili mahkemeye gönderilmesini talep etmezseniz, **dava açılmamış sayılır** ve mahkeme bu konuda kendiliğinden karar verir."
+      ],
+      "bullets": [
+        "Süre karar anında kesinse o günden başlar.",
+        "Kanun yoluna başvurulmuşsa ret kararının tebliğ tarihi baz alınır."
+      ]
+    },
+    {
+      "heading": "Dosya yeni mahkemeye nasıl gider?",
+      "paragraphs": [
+        "Dosya kendiliğinden karşı adliyeye yürümez. Sizin veya avukatınızın kaleme giderek dilekçe vermesi gerekir.",
+        "Dosya kendisine gönderilen yeni mahkeme, süreci devraldığında taraflara kendiliğinden davetiye gönderir ve yargılama kaldığı yerden devam eder."
+      ],
+      "bullets": [
+        "Başvuru dilekçesi ilk kararı veren mahkemeye verilir.",
+        "Yeni mahkeme taraflara davetiye çıkarır."
+      ]
+    },
+    {
+      "heading": "Süreçte nelere dikkat etmeli?",
+      "paragraphs": [
+        "Yetki itirazının nasıl yapıldığı da davanın kaderini etkiler. Yetkinin kesin olmadığı durumlarda, davalının süresi içinde ve usulüne uygun olarak cevap dilekçesinde yetki itirazında bulunması gerekir.",
+        "Eğer davalı süresinde yetki itirazında bulunmazsa, ilk davanın açıldığı mahkeme yetkili hâle gelir ve dosya başka yere gitmez."
+      ],
+      "bullets": [
+        "Cevap dilekçesinde yetkili mahkeme mutlaka bildirilmelidir.",
+        "Birden fazla yetkili yer varsa seçilen mahkeme yazılmalıdır."
+      ]
+    }
+  ],
+  "steps": [
+    "Yetkisizlik kararındaki yetkili mahkeme adresini not edin.",
+    "Kararın size tebliğ edildiği veya kesinleştiği tarihi kontrol edin.",
+    "İki hafta içinde kararı veren mahkemeye dilekçe ile başvurun.",
+    "Dosyanın yetkili mahkemeye gönderilmesini talep edin.",
+    "Yeni mahkemenin göndereceği davetiye ve tebligatları takip edin."
+  ],
+  "documents": [
+    "Yetkisizlik kararı veren mahkemenin gerekçeli kararı",
+    "Tebligat zarfı veya tebliğ alındı belgesi",
+    "Dosyanın gönderilmesini isteyen talep dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Yetkisizlik kararı verilince harç veya masraf tekrar ödenir mi?",
+      "a": "Dosyanın yetkili mahkemeye gönderilmesi için kanunda belirtilen iki günlük sürede başvuru yapılması ve işlemlerin takip edilmesi gerekir; dosya nakil işlemleri için mahkemenin yönlendirmesine göre hareket edilir."
+    },
+    {
+      "q": "Yetkili mahkeme kararda yazmıyorsa ne yapılır?",
+      "a": "Kanuna göre mahkeme yetkisizlik kararında yetkili mahkemeyi de göstermek zorundadır; karar metnini dikkatlice incelemelisiniz."
+    },
+    {
+      "q": "İki hafta geçerse baştan mı dava açacağım?",
+      "a": "Süresi içinde başvuru yapılmazsa dava açılmamış sayılır; bu durumda süreci baştan ele almanız gerekebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "hukuk-davasi-nasil-acilir",
+  "angle": "Yetkisizlik",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

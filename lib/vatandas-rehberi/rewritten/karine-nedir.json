@@ -1,0 +1,105 @@
+{
+  "slug": "karine-nedir",
+  "title": "Karine — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Karine hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "Karine",
+  "keywords": [
+    "karine",
+    "karine nedir"
+  ],
+  "category": "Usul",
+  "related": [
+    "zamanaşimi-nedir",
+    "ispat-yuku",
+    "iyiniyet-nedir",
+    "babalik-davasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/zamanaşimi-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "TMK",
+      "href": "/kategori/aile-hukuku"
+    }
+  ],
+  "lead": "Mahkemede bir iddiayı ispatlamak normalde tamamen sizin sorumluluğunuzdadır. Ancak kanun bazı durumlarda hayatın olağan akışını göz önüne alarak belli varsayımlar kabul eder ve buna karine denir. Karine sayesinde tüm süreci değil, yalnızca karineye temel oluşturan olayı kanıtlayarak hakkınızı savunabilirsiniz.",
+  "keyInsight": "Karine size büyük bir ispat kolaylığı sağlar ancak aksinin kanıtlanabileceği esnek bir hukuk varsayımıdır.",
+  "sections": [
+    {
+      "heading": "Karine tam olarak ne işinize yarar?",
+      "paragraphs": [
+        "Bir dava sürecinde haklılığınızı kanıtlamak için çabaladığınızı düşünün. Normal koşullarda iddia ettiğiniz her ayrıntıyı **tek tek ispatlamak** zorundasınızdır. Ancak kanunun size sunduğu bir karine varsa, hukuk sizin yerinize belli varsayımlar kabul eder.",
+        "Karine sayesinde olayların tamamını zincirleme biçimde kanıtlamak zorunda kalmazsınız. Sadece o karinenin dayandığı **temel vakıayı** mahkemeye sunmanız, haklılık varsayımından faydalanmanız için yeterli hale gelir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İspat yükü kime düşer?",
+      "paragraphs": [
+        "Hukuk yargılamasında temel kural, ileri sürdüğü olaydan kendi lehine hak çıkaran tarafın o iddiayı kanıtlamasıdır. Yani mahkemede bir talepte bulunuyorsanız, hakim sizden iddianızı destekleyen **somut deliller** talep eder.",
+        "Ancak kanuni bir karineye dayandığınızda bu dengeler değişir. Siz sadece karineyi oluşturan temel olayı ispatlarsınız; bu aşamadan sonra **ispat yükü** varsayımın aksini iddia eden karşı tarafa geçer."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Karinenin aksi kanıtlanabilir mi?",
+      "paragraphs": [
+        "Karineye dayanmak davanın kesin olarak kazanıldığı anlamına gelmez. Karine, aksine bir kanıt sunulana kadar geçerli kabul edilen bir durumdur.",
+        "Kanunda açıkça aksi belirtilmedikçe, karşı taraf sunduğunuz karinenin gerçeği yansıtmadığını **aksini ispat ederek** çürütebilir. Bu nedenle savunma yaparken karşı tarafın sunabileceği karşı delilleri göz önünde bulundurmalısınız."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kişisel durumlarda karine nasıl uygulanır?",
+      "paragraphs": [
+        "Bir kişinin kaybolması veya ölüm tehlikesi altında kalması gibi özel durumlarda da karineler devreye girer. Mülki amirin talimatıyla nüfus kütüğüne **ölüm karinesi** sebebiyle ölü kaydı düşülen bir kişinin sağ olduğu anlaşıldığında, bu tespit mahkemeden istenir.",
+        "Gaiplik kararı alınması veya bu duruma bağlı olarak evliliğin feshi gibi işlemler taraflar arasında bir çekişme içermeyebilir. Kanun bu tür karine süreçlerini **çekişmesiz yargı** başlığı altında düzenlemiştir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Dayandığınız hukuki iddianın kanunlarda bir karineye bağlanıp bağlanmadığını tespit edin.",
+    "Karinenin temelini oluşturan ana olayı kanıtlayacak delilleri eksiksiz şekilde toplayın.",
+    "İspat yükünün karşı tarafa geçtiğini bilerek mahkemeye sadece temel vakıayı sunun.",
+    "Karşı tarafın karinenin aksini ispat etmek için sunabileceği delillere karşı hazırlıklı olun.",
+    "Ölüm karinesi veya gaiplik gibi durumlarda çekişmesiz yargı görevli mahkemesine başvurun."
+  ],
+  "documents": [
+    "Nüfus kayıt örnekleri veya resmi idari kayıt belgeleri",
+    "Karineye temel oluşturan olayı gösterenyazılı deliller",
+    "Mülki amirlik veya resmi kurumlarca düzenlenmiş kararlar",
+    "Mahkemeye sunulacak tanık veya beyan evrakları"
+  ],
+  "faq": [
+    {
+      "q": "Karineye dayandığımda bütün olayı kanıtlamak zorunda mıyım?",
+      "a": "Hayır. Sadece karinenin temelini oluşturan olayı kanıtlamanız yeterlidir. Geri kalan hukuki sonucu kanun sizin lehinize varsayar."
+    },
+    {
+      "q": "Karşı taraf karinenin aksini ispat edebilir mi?",
+      "a": "Evet. Kanunda özel bir engel bulunmadığı sürece karşı taraf karinenin doğru olmadığını delillerle ispatlayabilir."
+    },
+    {
+      "q": "Nüfusa ölüm karinesiyle kaydolmuş birinin sağ olduğu nasıl anlaşılır?",
+      "a": "Mülki amir emriyle ölü kaydı düşülen kişinin sağ olduğunun tespiti mahkemeden çekişmesiz yargı yoluyla istenir."
+    },
+    {
+      "q": "Gaiplik ve ölüm karinesi davaları çekişmeli midir?",
+      "a": "Hayır. Gaiplik kararı veya ölüm karinesiyle ilgili düzeltme işlemleri kanunen çekişmesiz yargı işleri arasında yer alır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "zamanaşimi-nedir",
+  "angle": "Karine",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "kiyi-kenar-cizgisi",
+  "title": "Kıyı kenar çizgisi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Kıyı kenar çizgisi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
+  "h1": "Kıyı kenar çizgisi",
+  "keywords": [
+    "kıyı kenar çizgisi",
+    "kiyi kenar cizgisi"
+  ],
+  "category": "İmar",
+  "related": [
+    "kentsel-donusum-nedir",
+    "imar-durumu-nedir",
+    "kacak-yapi-cezasi",
+    "kamulastirma-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kentsel-donusum-nedir"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=k%C4%B1y%C4%B1"
+    }
+  ],
+  "lead": "Kıyı kenar çizgisi, deniz veya göl suları ile kara parçasının birleştiği noktayı belirleyen teknik bir sınırdır. Bu çizgi, kıyıların herkesin kullanımına açık olması ve korunması amacıyla yasal bir koruma kalkanı oluşturur.",
+  "keyInsight": "Kıyı kenar çizgisi, kıyıların kamusal niteliğini koruyan ve yapılaşmayı sınırlayan yasal bir eşiktir.",
+  "sections": [
+    {
+      "heading": "Kıyı alanları neden farklıdır?",
+      "paragraphs": [
+        "Deniz veya göl kıyısında bir mülkünüz varsa, buradaki kurallar şehir merkezindeki imar kurallarından oldukça farklıdır. Kıyı kenar çizgisi, kıyının doğal yapısını korumak için idare tarafından belirlenen hayali bir sınırdır.",
+        "Bu çizgi, kıyıların kamu yararına kullanılmasını sağlar. Dolayısıyla, kıyı şeridinde yapacağınız her türlü işlemde bu çizginin nerede olduğu, mülkünüzün bu çizgiye göre nerede kaldığı büyük önem taşır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İdare kıyıları nasıl yönetir?",
+      "paragraphs": [
+        "Belediyeler ve diğer kamu kuruluşları, kıyıların korunması ve halkın erişimine açık tutulması konusunda özel yetkilere sahiptir. Özellikle deniz veya akarsu doldurularak kazanılan alanlarda, bu yerlerin tasarrufu belirli kurallara bağlanmıştır.",
+        "Kıyı alanları üzerinde yapılacak her türlü planlama, çevre bütünlüğünü bozmamak ve kamu yararını gözetmek zorundadır. İdare, bu alanlarda yapılaşma kararı alırken kıyı kanunlarının çizdiği çerçeveye uymakla yükümlüdür."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kamulaştırma kıyıları nasıl etkiler?",
+      "paragraphs": [
+        "Devlet, kıyıların korunması veya kamu hizmeti amacıyla ihtiyaç duyulan taşınmazları kamulaştırabilir. Kıyıların korunması amacıyla yapılan kamulaştırmalarda, mülk sahiplerine yapılacak ödemeler özel bir taksitlendirme sistemine tabi olabilir.",
+        "Ancak küçük çiftçilerin doğrudan işlettiği topraklarda kamulaştırma bedelinin **peşin ödenmesi** esastır. Bu, mülkiyet hakkının korunması adına getirilen önemli bir güvencedir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yapılaşmada dikkat edilmesi gerekenler",
+      "paragraphs": [
+        "Kıyı kenar çizgisine yakın alanlarda inşaat yaparken, sadece kıyı kanunlarına değil, genel imar kurallarına da dikkat etmelisiniz. Özellikle yol kenarı veya yaya kaldırımı ile komşu olan yapılarda, çevre emniyetini almak **yasal bir zorunluluktur**.",
+        "İnşaat alanının çevresini uygun malzemelerle kapatmak, yayaların geçişini zorlaştırmamak ve gece saatlerinde gerekli aydınlatmayı sağlamak, mülk sahibinin veya inşaatı üstlenen kişinin temel sorumluluğudur."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İlgili belediyenin imar müdürlüğüne başvurarak taşınmazınızın kıyı kenar çizgisi içindeki konumunu sorgulayın.",
+    "Taşınmazınızın kıyı şeridinde kalıp kalmadığını gösteren imar planı örneklerini talep edin.",
+    "Kıyı alanlarında yapacağınız her türlü inşaat veya tadilat için özel imar izinlerini kontrol edin.",
+    "Kamulaştırma söz konusu ise, ödeme planının yasal şartlara uygun olup olmadığını bir uzman eşliğinde inceleyin."
+  ],
+  "documents": [
+    "İmar planı örneği",
+    "Kıyı kenar çizgisi tespit raporu",
+    "Belediyeden alınan imar durumu belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Kıyı kenar çizgisi değişebilir mi?",
+      "a": "Kıyı kenar çizgisi, doğal şartlara ve idari tespitlere göre belirlenir; ancak bu çizgi keyfi olarak değiştirilemez."
+    },
+    {
+      "q": "Kıyı şeridinde evim var, ne yapabilirim?",
+      "a": "Kıyı şeridindeki taşınmazlarda imar planlarına ve kıyı kanununun getirdiği sınırlamalara uymak zorundasınız."
+    },
+    {
+      "q": "Kamulaştırma bedeli nasıl ödenir?",
+      "a": "Kıyı koruma amaçlı kamulaştırmalarda bedelin bir kısmı peşin ödenir, kalan kısmı ise yasal faiziyle taksitlendirilebilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kentsel-donusum-nedir",
+  "angle": "Kıyı kenar çizgisi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

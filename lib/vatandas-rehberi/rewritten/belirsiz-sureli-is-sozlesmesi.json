@@ -1,0 +1,115 @@
+{
+  "slug": "belirsiz-sureli-is-sozlesmesi",
+  "title": "Belirsiz Süreli İş Sözleşmesi | Vatandaş Rehberi",
+  "description": "Belirsiz süreli iş sözleşmesi nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
+  "h1": "Belirsiz süreli iş sözleşmesi nedir?",
+  "keywords": [
+    "belirsiz süreli iş sözleşmesi"
+  ],
+  "category": "İş",
+  "related": [
+    "is-sozlesmesi-feshi",
+    "kidem-tazminati-nasil-alinir",
+    "ise-iade-davasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/is-sozlesmesi-feshi"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=i%C5%9F%20s%C3%B6zle%C5%9Fmesi"
+    }
+  ],
+  "lead": "Sabah işe başladınız ve önünüze konan kağıtta bitiş tarihi yazmıyor. İş ilişkisinin bir süreye bağlı olarak yapılmadığı hallerde sözleşmeniz belirsiz süreli sayılır.",
+  "keyInsight": "Esaslı bir neden olmadıkça üst üste yapılan zincirleme sözleşmeler başlangıçtan itibaren belirsiz süreli kabul edilir.",
+  "sections": [
+    {
+      "heading": "İş ilişkisi nasıl belirsiz süreli sayılır?",
+      "paragraphs": [
+        "Masaya oturdunuz ve imzaladığınız kağıtta takvimden bir gün işaretlenmemiş. İş ilişkisinin herhangi bir süreye bağlanmadığı durumlarda sözleşme doğrudan belirsiz süreli kabul edilir.",
+        "Taraflar belirli süreli iş yapmıyorsa ya da ortada belirli bir işin tamamlanması gibi nesnel koşullar yoksa, yapılan sözleşme kanunen belirsiz süreli hale gelir."
+      ],
+      "bullets": [
+        "Süreye bağlı olmayan ilişkiler",
+        "Takvim bitişi olmayan sözleşmeler"
+      ]
+    },
+    {
+      "heading": "Zincirleme sözleşmelerin doğurduğu sonuç nedir?",
+      "paragraphs": [
+        "Bir projeyi bitirdiniz, yenisi başladı ve size sürekli yeni kağıtlar imzalatıyorlar. Esaslı bir neden bulunmadıkça belirli süreli sözleşmeler arka arkaya yapılamaz.",
+        "Eğer ortada haklı ve esaslı bir neden yoksa, üst üste yapılan bu sözleşmeler **başlangıçtan itibaren** belirsiz süreli kabul edilir."
+      ],
+      "bullets": [
+        "Arka arkaya yapılan sözleşmeler",
+        "Esaslı neden kuralı"
+      ]
+    },
+    {
+      "heading": "Emsal işçiyle eşitlik kuralı nasıl işler?",
+      "paragraphs": [
+        "Aynı iş yerinde süreli çalışan biriyle belirsiz süreli çalışan biri aynı masada ter döküyor. Belirli süreli çalışan işçi, ayrımı haklı kılan geçerli bir neden olmadıkça **salt sözleşmesinin süresinden dolayı** farklı işleme tabi tutulamaz.",
+        "Ücret ve paraya dönüştürülebilir menfaatler çalışılan sürece orantılı ödenir. Kıdem hesaplarında da aynı iş yerindeki benzer işi yapan emsal işçinin kuralları uygulanır."
+      ],
+      "bullets": [
+        "Farklı işlem yasağı",
+        "Orantılı menfaat ve kıdem"
+      ]
+    },
+    {
+      "heading": "Sözleşmeyi bitirirken süreler nasıl hesaplanır?",
+      "paragraphs": [
+        "Yıllar geçiti ve yolları ayırma vakti geldi. Belirsiz süreli sözleşmelerin feshinden önce durumun **diğer tarafa bildirilmesi** şarttır.",
+        "Çalışma sürenize göre belirlenen asgari bildirim sürelerine uymayan taraf, o süreye ilişkin ücret tutarında tazminat ödemek zorunda kalır."
+      ],
+      "bullets": [
+        "Bildirim şartı",
+        "İhbar tazminatı"
+      ]
+    }
+  ],
+  "steps": [
+    "İş sözleşmenizin başlangıçta hangi süreye bağlandığını inceleyin.",
+    "Yapılan işin belirli bir süreye veya olguya dayanıp dayanmadığını kontrol edin.",
+    "Arka arkaya imzalanan sözleşmelerde esaslı neden olup olmadığını araştırın.",
+    "Aynı iş yerindeki emsal işçiyle haklarınızı ve kıdeminizi karşılaştırın.",
+    "Sözleşmeyi feshederken çalışma sürenize ait bildirim sürelerine uyun."
+  ],
+  "documents": [
+    "İş sözleşmesi metni",
+    "Ücret bordroları",
+    "Çalışma belgesi",
+    "Bildirim yazısı"
+  ],
+  "faq": [
+    {
+      "q": "Sözleşmemde bitiş tarihi yazmıyor, bu ne anlama gelir?",
+      "a": "İş ilişkisinin bir süreye bağlı olarak yapılmadığı durumlarda sözleşmeniz kanunen belirsiz süreli sayılır."
+    },
+    {
+      "q": "Sürekli yenilenen belirli süreli sözleşmeler belirsiz süreli olur mu?",
+      "a": "Esaslı bir neden olmadıkça arka arkaya yapılan zincirleme sözleşmeler başlangıçtan itibaren belirsiz süreli kabul edilir."
+    },
+    {
+      "q": "Süreli çalışan işçi ile belirsiz çalışan arasında fark var mıdır?",
+      "a": "Ayrımı haklı kılan bir neden olmadıkça, süreli çalışan işçi salt bu yüzden emsal işçiye göre farklı işleme tabi tutulamaz."
+    },
+    {
+      "q": "Bildirim şartına uyulmazsa ne olur?",
+      "a": "Bildirim şartına uymayan taraf, bildirim süresine ilişkin ücret tutarında tazminat ödemek zorunda kalır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "is-sozlesmesi-feshi",
+  "angle": "Belirsiz süre",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

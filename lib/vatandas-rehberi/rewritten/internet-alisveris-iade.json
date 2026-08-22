@@ -1,0 +1,112 @@
+{
+  "slug": "internet-alisveris-iade",
+  "title": "Online alışveriş iade nasıl yapılır — Vatandaş Rehberi | Av. Fethi Güz",
+  "description": "Online alışveriş iade nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
+  "h1": "Online alışveriş iade nasıl yapılır?",
+  "keywords": [
+    "internet alışveriş iade",
+    "online iade hakkı"
+  ],
+  "category": "Tüketici",
+  "related": [
+    "tuketici-hakem-heyeti",
+    "mesafeli-satis-cayma",
+    "ayip-mal-iade"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tuketici-hakem-heyeti"
+    },
+    {
+      "label": "TKHK",
+      "href": "/kategori/tkhk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=mesafeli"
+    }
+  ],
+  "lead": "İnternetten aldığınız ürün kapınıza geldiğinde beklediğiniz gibi çıkmayabilir ya da kusurlu olabilir. Bu durumda satıcıya karşı kullanabileceğiniz yasal seçimlik haklarınız bulunur.",
+  "keyInsight": "Ayıplı mal durumunda satıcının sorumluluğu açık olup, tüketicinin tercih ettiği hak derhal yerine getirilmelidir.",
+  "sections": [
+    {
+      "heading": "Kapınıza gelen kutuyu açtığınızda ne görürsünüz?",
+      "paragraphs": [
+        "İnternetten verdiğiniz sipariş evinize ulaştı ve kutuyu açtınız. Eşya beklentinizi karşılamıyorsa ya da bozuk, eksik çıkıyorsa hukuken ayıplı mal durumuyla karşı karşıyasınız demektir. Asıl mesele, bu hatayı fark ettiğiniz anda sessiz kalmamak ve **seçimlik haklarınızı** hemen satıcıya bildirmektir.",
+        "Kanun size tek bir seçenek sunmaz. Ürünü olduğu gibi geri verip paranızı isteyebilir, ürünü tutup kusur oranında indirim talep edebilir ya da yenisiyle değişim isteyebilirsiniz."
+      ],
+      "bullets": [
+        "Sözleşmeden dönme hakkı",
+        "Bedel indirimi isteme",
+        "Ücretsiz onarım talep etme",
+        "Misliyle değiştirilmesini isteme"
+      ]
+    },
+    {
+      "heading": "Satıcıya hangi yolla başvurulur?",
+      "paragraphs": [
+        "Aldığınız mal kusurlu çıktığında, bu durumu satıcıya, üreticiye veya ithalatçıya bildirmelisiniz. Seçtiğiniz hakkı karşı tarafa ilettiğiniz an, **müteselsil sorumluluk** gereği atılacak adımlar başlar. Onarım veya değişim taleplerinde sürecin makul bir zaman diliminde tamamlanması beklenir.",
+        "Eğer satıcı onarım veya değişim konusunda aşırı masraf veya zorluk çıkaracak bir durum öne sürerse, doğrudan sözleşmeden dönme veya bedel indirimine yönelmeniz hukuken mümkündür."
+      ],
+      "bullets": [
+        "Talebinizi yazılı veya kalıcı veri saklayıcısı ile iletin",
+        "Seçtiğiniz hakkı net şekilde belirtin"
+      ]
+    },
+    {
+      "heading": "Ödediğiniz para nasıl geri döner?",
+      "paragraphs": [
+        "Sözleşmeden dönme veya bedelden indirim hakkını seçtiğinizde, ödemiş olduğunuz tutarın tamamı veya indirim miktarı **derhâl tüketiciye iade** edilmelidir. Bu aşamada satıcı, parayı bekletme lüksüne sahip değildir.",
+        "Seçimlik hakların kullanılması dolayısıyla ortaya çıkan masrafların tamamı, hakkı yerine getiren tarafın yükümlülüğündedir. Tüketici bu süreçte ekstra bir maliyetle karşı karşıya bırakılamaz."
+      ],
+      "bullets": [
+        "Bedelin tamamının iadesi",
+        "Masrafların karşı tarafa ait olması"
+      ]
+    },
+    {
+      "heading": "Hizmet alımında durum nedir?",
+      "paragraphs": [
+        "Sadece fiziksel ürünlerde değil, internet üzerinden alınan hizmetlerde de benzer kurallar geçerlidir. Sözleşmede vaat edilen süre içinde başlamayan veya vaat edilen özellikleri taşımayan hizmetler **ayıplı hizmet** sayılır.",
+        "Hizmet sağlayıcısının internet sitesinde veya ilanlarında yer alan özellikleri taşımayan işler için de haklarınız korunmaktadır."
+      ],
+      "bullets": [
+        "Sözleşmeye aykırı hizmet",
+        "Eksik veya kusurlu ifa"
+      ]
+    }
+  ],
+  "steps": [
+    "Üründeki kusuru veya ayıbı tespit edin.",
+    "Satıcıya hangi seçimlik hakkı kullandığınızı bildirin.",
+    "Ürünü geri vermeye hazır olduğunuzu ifade edin.",
+    "Ücret iadesi veya değişim talebinin yerine getirilmesini bekleyin."
+  ],
+  "documents": [
+    "İnternet sipariş faturası",
+    "Kargo teslim fişi",
+    "Satıcıyla yapılan yazışmalar veya elektronik postalar"
+  ],
+  "faq": [
+    {
+      "q": "Hangi seçimlik hakları kullanabilirim?",
+      "a": "Ürünü geri verip sözleşmeden dönebilir, indirim isteyebilir, ücretsiz onarım talep edebilir ya da ayıpsız misliyle değiştirilmesini isteyebilirsiniz."
+    },
+    {
+      "q": "Param ne zaman iade edilir?",
+      "a": "Sözleşmeden dönme veya bedel indirimini seçtiğiniz durumlarda ödediğiniz bedel derhâl tarafınıza iade edilir."
+    },
+    {
+      "q": "İade masraflarını ben mi ödeyeceğim?",
+      "a": "Seçimlik hakların kullanılması nedeniyle ortaya çıkan tüm masraflar, seçimi yerine getiren tarafa aittir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tuketici-hakem-heyeti",
+  "angle": "Online iade pratik",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

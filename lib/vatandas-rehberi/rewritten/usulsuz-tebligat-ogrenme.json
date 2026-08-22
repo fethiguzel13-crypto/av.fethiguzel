@@ -1,0 +1,116 @@
+{
+  "slug": "usulsuz-tebligat-ogrenme",
+  "title": "Usulsüz Tebligatta Öğrenme Tarihi | Vatandaş Rehberi",
+  "description": "Usulsüz tebligatta süre ne zaman başlar? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı…",
+  "h1": "Usulsüz tebligatta süre ne zaman başlar?",
+  "keywords": [
+    "usulsüz tebligat öğrenme tarihi"
+  ],
+  "category": "Usul",
+  "related": [
+    "tebligat-usulsuzlugu",
+    "odeme-emri-tebligi",
+    "elektronik-tebligat"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tebligat-usulsuzlugu"
+    },
+    {
+      "label": "Tebligat",
+      "href": "/kategori/tebligat"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    }
+  ],
+  "lead": "Bir evrak kapınıza hiç ulaşmadığında veya bildirimin ne zaman geçerli sayılacağı hususunda tereddüt yaşadığınızda, resmi sürecin nasıl işlediğini bilmek kritik önem taşır. Kanun, tebligatın muhtara teslim edilip kapıya ihbarname yapıştırıldığı veya ilan yapıldığı anları esas alarak tebliğ tarihini belirler. Bildirimin resmi kurallara uygun yapılıp yapılmadığını anlamak için tebligat türüne özel sürelerin izini sürmek gerekir.",
+  "keyInsight": "Tebligat süreçlerinde geçerli tebliğ tarihi, ihbarnamenin kapıya yapıştırıldığı gün, ilanen tebliğde son ilandan itibaren belirlenen süre veya konsolosluk ihtarındaki otuz günlük sürenin dolduğu andır.",
+  "sections": [
+    {
+      "heading": "Kapıya yapıştırılan ihbarname ve tebliğ tarihi",
+      "paragraphs": [
+        "Kapınıza geldiğinizde yapıştırılmış sarı bir ihbar kağıdıyla karşılaşabilirsiniz. Tebliğ memuru sizi gösterilen adreste bulamadığında veya evrakı almaktan imtina ettiğinizde, tebligat evrakını o yerin muhtarına, ihtiyar heyeti azasına veya zabıta amir ve memurlarına teslim eder.",
+        "Bu durumda tebliğ memuru, adreste bulunmama halini komşunuza veya yöneticiye bildirir ve adresteki binanın kapısına bir ihbarname yapıştırır. Kanun uyarınca **ihbarnamenin kapıya yapıştırıldığı tarih** doğrudan tebliğ tarihi sayılır. Adres kayıt sistemindeki adreste hiç oturmamış olsanız dahi ihbarname kapıya asıldığı an bildirim tamamlanmış kabul edilir."
+      ],
+      "bullets": [
+        "Tebliğ evrakı muhtar veya zabıtaya imza karşılığı teslim edilir.",
+        "İhbarnamenin kapıya yapıştırıldığı gün tebliğ tarihi olarak esas alınır."
+      ]
+    },
+    {
+      "heading": "Yurtdışında yaşayan vatandaşlar için tebligat usulü",
+      "paragraphs": [
+        "Yabancı bir ülkede bulunuyorsanız ve tarafınıza kazaî mercilerce tebligat çıkarılmışsa, bildirim Türkiye Büyükelçiliği veya Konsolosluğu aracılığıyla yürütülür. O ülkenin mevzuatına uygun bir yöntemle tarafınıza ihtar içeren bir bildirim gönderilir.",
+        "Gelen bildirimde otuz gün içinde konsolosluğa başvurmanız gerektiği yer alır. Bildirimin tebliğ edildiği belgelendiğinde, **otuz gün içinde** konsolosluğa başvurmazsanız tebligat otuzuncu günün bitiminde yapılmış sayılır. Konsolosluğa gidip evrakı almaktan kaçınmanız halinde ise bu hususta tutulan tutanak tarihi tebliğ tarihi kabul edilir."
+      ],
+      "bullets": [
+        "Konsolosluk bildiriminden itibaren 30 günlük başvuru süresi bulunur.",
+        "Evrakı almaktan imtina edilirse tutanak tarihi tebliğ tarihi sayılır."
+      ]
+    },
+    {
+      "heading": "İlanen tebligat ve adli tatil süreleri",
+      "paragraphs": [
+        "Adresinize ulaşılamadığı veya klasik yollarla tebligat yapılamadığı durumlarda ilanen tebligat yoluna başvurulur. İlanen tebliğ yapıldığında, tebligat **son ilan tarihinden itibaren yedi gün sonra** yapılmış sayılır. İlanı veren merci, işin durumuna göre bu süreyi daha uzun tayin edebilir ancak bu süre 15 günü geçemez.",
+        "Bir diğer önemli husus adli tatil dönemidir. Adli tatilde dava ve cevap dilekçelerinin alınması, dosyaların gönderilmesi gibi işlemlerin yanında her türlü tebligat işlemi de kesintisiz şekilde yapılmaya devam eder."
+      ],
+      "bullets": [
+        "İlanen tebliğ son ilan tarihinden 7 gün sonra yapılmış kabul edilir.",
+        "Adli tatilde tebligat işlemleri yapılmaya devam eder."
+      ]
+    },
+    {
+      "heading": "Arabuluculuk ve yargılama süreçlerindeki tebligat esasları",
+      "paragraphs": [
+        "Dava açılmadan önce arabuluculuğa başvurulmuşsa, arabuluculuk süreci tarafların ilk toplantıya davet edilip sürecin devamı yönünde anlaştıkları tutanak tarihiyle başlar. Arabuluculuk süresince zamanaşımı ve hak düşürücü süreler durur. Arabuluculuk son tutanağı sunulmadığında mahkemece **bir haftalık kesin süre** verilerek ihtar çıkarılır.",
+        "Yargıtaydaki duruşmalı incelemelerde ise tebliğ tarihi ile duruşma günü arasında en az iki hafta bulunması şarttır. Tebligat gideri ödenmemişse veya duruşma harcı verilen bir haftalık kesin sürede tamamlanmazsa duruşma talebi geçersiz sayılır."
+      ],
+      "bullets": [
+        "Arabuluculuk süresince zamanaşımı ve hak düşürücü süreler işlemez.",
+        "Yargıtay duruşma tebliği ile duruşma günü arasında en az iki hafta olmalıdır."
+      ]
+    }
+  ],
+  "steps": [
+    "Kapınıza yapıştırılan ihbarnamedeki tarihi ve evrakın teslim edildiği muhtarlığı kontrol edin.",
+    "Muhtarlığa giderek tebligat evrakının aslını teslim alın.",
+    "Yurtdışındaysanız konsolosluk bildiriminden itibaren otuz gün içinde ilgili temsilciliğe başvurun.",
+    "İlanen tebligat söz konusuysa son ilan tarihini ve yetkili mercinin belirlediği ek süreyi tespit edin.",
+    "Duruşma ve arabuluculuk davetlerinde tebliğ tarihi ile toplantı günü arasındaki kanuni süreleri hesaplayın."
+  ],
+  "documents": [
+    "Binanızın kapısına yapıştırılan tebligat ihbarnamesi",
+    "Muhtarlık veya zabıtadan alınan tebligat teslim evrakı",
+    "Konsolosluk tarafından gönderilen ihtar ve bildirim yazısı",
+    "İlanen tebligata ilişkin gazete veya ilan örneği",
+    "Arabuluculuk süreci ilk ve son oturum tutanakları"
+  ],
+  "faq": [
+    {
+      "q": "Kapıya yapıştırılan ihbarnameyi geç fark edersem tebliğ tarihi değişir mi?",
+      "a": "Hayır. Kanun uyarınca ihbarnamenin kapıya yapıştırıldığı tarih resmi tebliğ tarihi sayılır; evrakı muhtardan daha sonra teslim almanız bu tarihi değiştirmez."
+    },
+    {
+      "q": "Adli tatil devam ederken tarafıma tebligat yapılabilir mi?",
+      "a": "Evet. Kanunda adli tatilde her türlü tebligat işleminin yapılabileceği açıkça düzenlenmiştir."
+    },
+    {
+      "q": "Yabancı ülkedeki Türk vatandaşlarına tebligat ne zaman yapılmış sayılır?",
+      "a": "Konsolosluk bildiriminin tebliğ edilmesinden itibaren otuz gün içinde başvurulmazsa otuzuncu günün bitiminde; başvurulup evrak alınmazsa düzenlenen tutanak tarihinde tebliğ yapılmış sayılır."
+    },
+    {
+      "q": "İlanen tebligatta süre ne zaman tamamlanır?",
+      "a": "İlanen tebliğ, son ilan tarihinden itibaren yedi gün sonra yapılmış sayılır. İlanı veren merci bu süreyi en fazla 15 güne kadar uzatabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tebligat-usulsuzlugu",
+  "angle": "Öğrenme tarihi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

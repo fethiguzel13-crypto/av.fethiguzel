@@ -1,0 +1,111 @@
+{
+  "slug": "isyeri-kirasi-artis",
+  "title": "İşyeri Kira Artışı Nasıl Belirlenir?",
+  "description": "İşyeri kira zammı nasıl olur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
+  "h1": "İşyeri kira zammı nasıl olur?",
+  "keywords": [
+    "işyeri kira artışı",
+    "ticari kira zammı"
+  ],
+  "category": "Kira",
+  "related": [
+    "kira-artis-orani-nasil-hesaplanir",
+    "kira-tespit-davasi",
+    "isyeri-kirasi-tahliye"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kira-artis-orani-nasil-hesaplanir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-ozel"
+    },
+    {
+      "label": "Hesap",
+      "href": "/hesaplama/kira"
+    }
+  ],
+  "lead": "İşyerinizde kira artışı gündeme geldiğinde, tarafların öncelikle sözleşme koşullarına ve yasal kurallara uygun hareket etmesi şarttır. Ödemelerin ve kullanım koşullarının aksamaması sürecin temelini oluşturur.",
+  "keyInsight": "Kira ilişkilerinden doğan uyuşmazlıklarda, dava açılmadan önce arabulucuya başvurulmuş olması dava şartıdır.",
+  "sections": [
+    {
+      "heading": "Kira bedelini ödeme ve uyarı süreci",
+      "paragraphs": [
+        "İşyerinin tesliminden sonra kira bedelini veya yan giderleri ödemeyen kiracıya karşı yasal yollar devreye girer. Kiraya veren, borcunu ödemeyen kiracıya yazılı olarak bir süre verir.",
+        "Konut ve çatılı işyeri kiralarında bu süre **en az otuz gün** olarak uygulanır. Bu süre, kiracıya yazılı bildirimin yapıldığı tarihi izleyen günden itibaren işlemeye başlar."
+      ],
+      "bullets": [
+        "Yazılı bildirim şarttır.",
+        "Süre takip eden günden başlar."
+      ]
+    },
+    {
+      "heading": "Özenle kullanma ve fesih hakları",
+      "paragraphs": [
+        "Kiracı, işyerini sözleşmeye uygun şekilde özenle kullanmak ve çevresine saygı göstermek zorundadır. Bu yükümlülüklere uyulmaması durumunda kiraya veren yazılı ihtarda bulunur.",
+        "Aykırılığın giderilmesi için konut ve çatılı işyerlerinde **en az otuz gün** süre tanınır. Kasten zarar verme veya durumun çekilmez hal alması gibi hallerde ise derhal fesih hakkı doğabilir."
+      ],
+      "bullets": [
+        "Komşulara saygı gösterilmelidir.",
+        "Ağır zararda süre aranmaz."
+      ]
+    },
+    {
+      "heading": "Teslim borcu ve kullanım koşulları",
+      "paragraphs": [
+        "Kiraya veren, işyerini kararlaştırılan tarihte kullanıma elverişli şekilde teslim etmek ve sözleşme süresince bu durumda bulundurmakla yükümlüdür.",
+        "Bu kural konut ve çatılı işyeri kiralarında kiracı aleyhine değiştirilemez."
+      ],
+      "bullets": [
+        "Kullanıma elverişli teslim şarttır."
+      ]
+    },
+    {
+      "heading": "Uyuşmazlıklarda arabuluculuk şartı",
+      "paragraphs": [
+        "Kira ilişkisinden kaynaklanan uyuşmazlıklarda, mahkemeye gitmeden önce arabulucuya başvurulması zorunludur. İlamlı icra yoluyla tahliye hükümleri bu kuralın dışındadır.",
+        "Tarafların anlaşması durumunda düzenlenen anlaşma belgesi, kanuni sınırlamalar gözetilerek hazırlanır ve gerekli durumlarda mahkemeden icra edilebilirlik şerhi alınır."
+      ],
+      "bullets": [
+        "Dava öncesi arabulucu zorunludur.",
+        "Anlaşma belgesi imza altına alınır."
+      ]
+    }
+  ],
+  "steps": [
+    "Kira bedelini ve yan giderleri sözleşmeye uygun olarak zamanında ödeyin.",
+    "Aksaklık durumunda yapılan yazılı bildirimleri ve süreleri takip edin.",
+    "İşyerini sözleşmeye uygun ve özenli bir şekilde kullanın.",
+    "Uyuşmazlık çıkması halinde dava açmadan önce arabulucuya başvurun.",
+    "Anlaşma sağlanması durumunda belgeyi usulüne uygun şekilde düzenleyin."
+  ],
+  "documents": [
+    "Kira sözleşmesi",
+    "Yazılı bildirim veya ihtarname",
+    "Arabuluculuk anlaşma belgesi",
+    "İcra edilebilirlik şerhi"
+  ],
+  "faq": [
+    {
+      "q": "İşyeri kirası ödenmezse ne kadar süre verilir?",
+      "a": "Konut ve çatılı işyeri kiralarında ödenmeyen bedeller için verilecek süre en az otuz gündür."
+    },
+    {
+      "q": "Kira uyuşmazlığında doğrudan dava açılabilir mi?",
+      "a": "İlamsız icra yoluyla tahliye hükümleri hariç olmak üzere, kira ilişkisinden kaynaklanan uyuşmazlıklarda dava açılmadan önce arabulucuya başvurulması zorunludur."
+    },
+    {
+      "q": "Arabuluculuk anlaşması nasıl icra edilir?",
+      "a": "Taraflar anlaşırsa, taşınmazın bulunduğu yer sulh hukuk mahkemesinden anlaşma belgesi için icra edilebilirlik şerhi alınabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kira-artis-orani-nasil-hesaplanir",
+  "angle": "İşyeri kira artışı serbestisi / tespit",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

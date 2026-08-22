@@ -1,0 +1,106 @@
+{
+  "slug": "is-mahkemesi-nedir",
+  "title": "İş mahkemesi — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İş mahkemesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
+  "h1": "İş mahkemesi",
+  "keywords": [
+    "iş mahkemesi",
+    "is mahkemesi nedir"
+  ],
+  "category": "İş",
+  "related": [
+    "ibraname-nedir",
+    "iscilik-alacaklari-davasi",
+    "ise-iade-davasi",
+    "gorevli-mahkeme-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/ibraname-nedir"
+    },
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "İş yerinde yaşanan anlaşmazlıklar çözülmediğinde yolunuz iş mahkemesine çıkar. Hak ararken doğru adımları atmak için süreci dikkatle yürütmelisiniz.",
+  "keyInsight": "Kurum kararlarına veya prim borçlarına karşı **tebliğ tarihinden itibaren** bir aylık yasal süreyi asla geciktirmeyin.",
+  "sections": [
+    {
+      "heading": "İş mahkemesi nedir?",
+      "paragraphs": [
+        "İş hayatında çalışanlar ile işverenler arasında doğan uyuşmazlıkların çözüldüğü özel bir yargı yeridir. Haklarınızın ihlal edildiğini düşündüğünüzde başvuracağınız temel mercidir.",
+        "Bu mahkemeler, iş kanunları ve ilgili sosyal güvenlik mevzuatından kaynaklanan çekişmeleri karara bağlar. Süreç işlerken **yetkili mahkeme** nezdinde doğru adımları atmak büyük önem taşır."
+      ],
+      "bullets": [
+        "Çalışan ve işveren uyuşmazlıklarını çözer",
+        "Sosyal güvenlik prim ihtilaflarına bakar"
+      ]
+    },
+    {
+      "heading": "Ne zaman başvurulur?",
+      "paragraphs": [
+        "Kurumlar tarafından yapılan incelemeler sonucunda tebliğ edilen işlemlere karşı itiraz yolları tüketildiğinde dava yolu açılır. Örneğin prim borçlarına karşı yapılan itirazların reddedilmesi hâlinde dava hakkı doğar.",
+        "İş sözleşmesinin bitiş şekli veya sigorta primlerindeki eksik bildirimler gibi durumlarda **yasal süreler** içinde harekete geçmeniz gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hangi uyuşmazlıklar ele alınır?",
+      "paragraphs": [
+        "Kamu veya özel sektör fark etmeksizin kıdem tazminatı hesaplamaları ve ödenmeyen haklar bu mahkemenin konusudur. Alt işveren ilişkilerinden kaynaklanan alacaklar da buraya taşınabilir.",
+        "Asgari işçilik tespiti veya prim borcu tebligatlarına karşı kurum nezdinde sonuç alınamadığında **yetkili iş mahkemesi** devreye girer."
+      ],
+      "bullets": [
+        "Kıdem tazminatı uyuşmazlıkları",
+        "Eksik bildirim ve prim borçları"
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırınca ne olur?",
+      "paragraphs": [
+        "Hukuk sistemimizde süreler hak düşürücü niteliktedir. Kurum kararlarına karşı belirlenen sürede başvuru yapılmazsa itiraz hakkı ortadan kalkar.",
+        "Tebligat elinize ulaştığı andan itibaren **bir aylık süreyi** dikkate alarak işlemlerinizi hızla tamamlamalısınız."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Uyuşmazlık konusu kararın veya tebligatın elinize ulaştığı tarihi not edin.",
+    "Kurum nezdindeki itiraz ve başvuru yollarını tamamlayın.",
+    "Gerekli durumlarda arabuluculuk bürosuna başvuru imkanlarını değerlendirin.",
+    "Yetkili iş mahkemesine dilekçeniz ile müracaat edin."
+  ],
+  "documents": [
+    "Kurum tebligat evrakı",
+    "İş sözleşmesi ve hizmet dökümü",
+    "İtiraz ve cevap dilekçeleri",
+    "Konuyla ilgili yazılı taahhütler ve yazışmalar"
+  ],
+  "faq": [
+    {
+      "q": "İş mahkemesine başvurmak için belirli bir süre var mı?",
+      "a": "Kurum kararlarına ve tebligatlara karşı kanunda öngörülen **bir aylık başvuru süresi** dikkate alınmalıdır."
+    },
+    {
+      "q": "Hangi durumlarda iş mahkemesine gidilir?",
+      "a": "Kıdem tazminatı ödenmeme durumları, eksik işçilik tespiti ve prim borçlarına yapılan itirazların reddi hâlinde gidilir."
+    },
+    {
+      "q": "Alt işveren çalışanı olarak haklarımı nasıl ararım?",
+      "a": "Aynı kamu kurumundaki çalışmalar toplam süre üzerinden hesaplanır ve son işveren üzerinden talep edilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "ibraname-nedir",
+  "angle": "İş mahkemesi",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

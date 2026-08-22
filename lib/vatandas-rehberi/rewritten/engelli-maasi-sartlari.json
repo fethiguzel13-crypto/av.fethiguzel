@@ -1,0 +1,114 @@
+{
+  "slug": "engelli-maasi-sartlari",
+  "title": "Engelli maaşı şartları — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Engelli maaşı şartları hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
+  "h1": "Engelli maaşı şartları",
+  "keywords": [
+    "engelli maaşı şartları",
+    "engelli maasi sartlari"
+  ],
+  "category": "Engelli Hakları",
+  "related": [
+    "engelli-raporu-nasil-alinir",
+    "malulen-emeklilik",
+    "engelli-araci-nasil-alinir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/engelli-raporu-nasil-alinir"
+    },
+    {
+      "label": "SSGSSK",
+      "href": "/kategori/ssgssk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=engelli"
+    }
+  ],
+  "lead": "Engelli haklarından ve yaşlılık sigortasından faydalanmak isteyenler için süreç, yetkili sağlık kurullarından alınacak raporlar ve prim gün şartlarına dayanır. **Çalışma gücü kayıp oranı** ve sigortalılık süresi temel kriterleri oluşturur.",
+  "keyInsight": "Yetkili sağlık hizmet sunucularından usulüne uygun alınmayan raporlar ve eksik prim günleri hak kaybına yol açar.",
+  "sections": [
+    {
+      "heading": "Sağlık Raporu Nasıl Alınır?",
+      "paragraphs": [
+        "Engellilik veya çalışma gücü kaybı tespiti için ilk adım, kurumca yetkilendirilen sağlık hizmet sunucularına başvurmaktır. **Sağlık kurulu raporu** ve dayanağı tıbbî belgeler usulüne uygun olarak düzenlenmelidir.",
+        "Düzenlenen raporlar Kurum Sağlık Kurulu tarafından incelenir. Oranların kanuni sınırları karşılaması, hak doğması için kritik öneme sahiptir."
+      ],
+      "bullets": [
+        "Yetkili hastane başvurusu",
+        "Sağlık kurulu incelemesi",
+        "Kurum Sağlık Kurulu onayı"
+      ]
+    },
+    {
+      "heading": "Sigortalılar İçin Yaşlılık ve Engellilik Hakları",
+      "paragraphs": [
+        "İlk defa çalışmaya başladığı tarihten önce engelliliği bulunanlar için özel düzenlemeler mevcuttur. **Onbeş yıldan beri sigortalı olmak** ve aranan prim gününü tamamlamak şarttır.",
+        "Çalışma gücündeki kayıp oranının kanunda öngörülen aralıklarda yer alması ve Kurum Sağlık Kurulunca tespiti zorunludur."
+      ],
+      "bullets": [
+        "Sigortalılık süresi",
+        "Prim gün sayısı",
+        "Kayıp oranı tespiti"
+      ]
+    },
+    {
+      "heading": "Meslek Hastalığı Durumunda Ne Yapılır?",
+      "paragraphs": [
+        "Çalışılan işin niteliğinden dolayı ortaya çıkan bedensel veya ruhsal engellilik hallerinde meslek hastalığı hükümleri uygulanır. **Yetkili sağlık raporu** ve tıbbi belgeler incelemeye alınır.",
+        "Bildirim yükümlülüklerinin zamanında yerine getirilmesi ve sürecin ilgili mevzuata göre yürütülmesi hakların korunması açısından şarttır."
+      ],
+      "bullets": [
+        "Tıbbi belgelerin incelenmesi",
+        "Kurum denetim raporları",
+        "Yüksek Sağlık Kurulu değerlendirmesi"
+      ]
+    },
+    {
+      "heading": "Başvuru Sürecinde Nelere Dikkat Edilmeli?",
+      "paragraphs": [
+        "Hak sahipliği için yapılan başvurularda eksik belge sunulması süreci uzatır. **Usulüne uygun başvuru** yapmak ve talep edilen tüm evrakı eksiksiz sunmak gerekir.",
+        "Kurum tarafından istenen denetim raporları ve ek belgeler, inceleme aşamasının sağlıklı ilerlemesini sağlar."
+      ],
+      "bullets": [
+        "Eksiksiz evrak hazırlığı",
+        "Süreklilik takibi"
+      ]
+    }
+  ],
+  "steps": [
+    "Yetkili sağlık hizmet sunucusuna başvurarak sağlık kurulu raporu için işlemleri başlatın.",
+    "Gerekli tıbbi belgeleri ve raporu Kurum Sağlık Kurulu'na iletin.",
+    "Sigortalılık süresi ve prim gün sayınızın ilgili şartları sağlayıp sağlamadığını kontrol edin.",
+    "Meslek hastalığı veya engellilik durumunda ilgili bildirim yükümlülüklerini yerine getirin."
+  ],
+  "documents": [
+    "Sağlık kurulu raporu",
+    "Tıbbi belgeler",
+    "İş kazası ve meslek hastalığı bildirgesi",
+    "Denetim raporları"
+  ],
+  "faq": [
+    {
+      "q": "Sağlık raporunu nereden almalıyım?",
+      "a": "Kurumca yetkilendirilen sağlık hizmet sunucularının sağlık kurullarından alınmalıdır."
+    },
+    {
+      "q": "Meslek hastalığı bildirimi nasıl yapılır?",
+      "a": "Durumun öğrenildiği günden başlayarak süresi içinde bildirge ile kuruma bildirilmesi zorunludur."
+    },
+    {
+      "q": "Çalışma gücü kayıp oranı nasıl belirlenir?",
+      "a": "Yetkili sağlık kurullarının raporları ve dayanağı tıbbi belgelerin Kurum Sağlık Kurulunca incelenmesi sonucu tespit edilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "engelli-raporu-nasil-alinir",
+  "angle": "Engelli maaşı şartları",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

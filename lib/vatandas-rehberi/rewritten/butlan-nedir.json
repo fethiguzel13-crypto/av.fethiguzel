@@ -1,0 +1,102 @@
+{
+  "slug": "butlan-nedir",
+  "title": "Butlan — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Butlan hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "Butlan",
+  "keywords": [
+    "butlan",
+    "butlan nedir"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "temerrut-faizi-nedir",
+    "evlilik-iptali-davasi",
+    "hile-ile-sozlesme",
+    "hukuki-islem-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/temerrut-faizi-nedir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "TMK",
+      "href": "/kategori/aile-hukuku"
+    }
+  ],
+  "lead": "İmzaladığınız bir sözleşme kâğıt üzerinde geçerli görünse bile, hukuken ilk andan itibaren hiç doğmamış sayılabilir. İşte buna hukukta geçersizlik veya butlan diyoruz. Kanunun emredici kurallarına, ahlaka veya kamu düzenine aykırı yapılan anlaşmalar baştan itibaren ölü doğar.",
+  "keyInsight": "Baştan itibaren sakat olan bir sözleşme, taraflar sonradan razı olsa bile geçerli hale gelmez.",
+  "sections": [
+    {
+      "heading": "Kâğıt üzerindeki imza her zaman sözleşmeyi kurtarır mı?",
+      "paragraphs": [
+        "Bir kâğıda imza attınız, el sıkıştınız ve her şeyin bittiğini düşündünüz. Ancak aylar sonra karşı taraf size gelip sözleşme şartlarını yerine getirmenizi istediğinde, aslında ortada geçerli bir anlaşma olmadığını fark edebilirsiniz.",
+        "Hukuk düzeni, her atılan imzayı veya yapılan sözleşmeyi korumaz. Eğer yaptığınız anlaşma kanunların kesin yasaklarına, kamu düzenine veya genel ahlaka aykırıysa, o sözleşme doğduğu an ölmüştür. Hukukta bu duruma **kesin hükümsüzlük** denir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Bir anlaşma ne zaman ölü doğmuş sayılır?",
+      "paragraphs": [
+        "Diyelim ki bir kimse, satılması yasak olan kamuya ait bir malı size satmayı taahhüt etti veya gerçekleşmesi imkânsız bir borcun altına girdi. Böyle bir durumda 'ama imza attık' diyerek sözleşmenin uygulanmasını isteyemezsiniz.",
+        "Benzer şekilde, sözleşmeyi imzalayan kişinin o sırada akli dengesinin yerinde olmaması veya kanunun zorunlu kıldığı resmi şekil kurallarına uyulmaması da anlaşmayı baştan itibaren **hukuken geçersiz** kılar. Taraflar durumu kabul etse dahi bu sakatlık düzelmez."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İptal edilebilir sözleşmeler ile farkı nedir?",
+      "paragraphs": [
+        "Her geçersizlik aynı değildir. Bazen bir sözleşme baştan ölü doğmaz ama yapılışındaki bir kusur yüzünden sonradan bozulabilir. Yanıltıldığınızda, kandırıldığınızda veya korkutularak imza attığınızda durum böyledir.",
+        "Bu gibi durumlarda sözleşme hemen yok sayılmaz; siz itiraz edip hakkınızı kullanana kadar geçerli kalmaya devam eder. Kesin geçersizlikte ise hâkim durumu **kendiliğinden dikkate alır** ve üzerinden zaman geçse bile sözleşme canlanmaz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Geçersiz bir sözleşmeye dayanarak verilenler nasıl geri alınır?",
+      "paragraphs": [
+        "Baştan itibaren geçersiz olan bir anlaşmaya dayanarak bir para ödediyseniz veya bir mal teslim ettiyseniz, karşı taraf bunu tutma hakkına sahip değildir. Çünkü hukuken geçerli bir sebep olmadan bir mal varlığı aktarımı gerçekleşmiştir.",
+        "Bu durumda yapılması gereken, karşı tarafın haksız şekilde elde ettiği tutarı veya malı iade etmesini talep etmektir. Mahkeme sözleşmenin geçersizliğini tespit ettiğinde, taraflar **verdiğini geri alma** hakkına kavuşur."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Sözleşmenin konusunun kanuna, kamu düzenine veya genel ahlaka aykırı olup olmadığını kontrol edin.",
+    "Tarafların imza anında gerekli hukuki ehliyete sahip olup olmadığını ve zorunlu şekil şartlarına uyulup uyulmadığını inceleyin.",
+    "Karşı tarafa ihtarname göndererek sözleşmenin baştan itibaren geçersiz olduğunu beyan edin.",
+    "Vermiş olduğunuz para veya malın iadesini talep etmek üzere hukuki süreç başlatın.",
+    "Mahkemede sözleşmenin geçersizliğini doğrulayacak kanıt ve belgeleri sunun."
+  ],
+  "documents": [
+    "İmzalanan sözleşme, protokol veya senet metni",
+    "Yapılan ödemelere ait banka dekontları veya tahsilat makbuzları",
+    "Tarafların imza anındaki ehliyet durumunu gösteren resmi belgeler",
+    "Sözleşmeye konu mal veya hizmete ilişkin resmi kayıtlar",
+    "Taraflar arasında çekilen ihtarname ve yazışma örnekleri"
+  ],
+  "faq": [
+    {
+      "q": "Sözleşmenin geçersiz olduğunu yıllar sonra öğrenirsem ne olur?",
+      "a": "Kesin geçersizlik durumunda sözleşme baştan itibaren ölü doğduğu için zamanın geçmesi onu geçerli kılmaz. Geçersizlik iddiası her zaman ileri sürülebilir."
+    },
+    {
+      "q": "İki taraf da sözleşmeyi kabul ediyorsa hâkim yine de geçersiz sayabilir mi?",
+      "a": "Evet. Sözleşme kanunun emredici kurallarına veya kamu düzenine aykırıysa, taraflar razı olsa bile hâkim bu durumu kendiliğinden dikkate almak zorundadır."
+    },
+    {
+      "q": "Kandırıldım diyerek sözleşmeyi tamamen yok sayabilir miyim?",
+      "a": "Kandırılma durumunda sözleşme kendiliğinden yok sayılmaz, iptal edilebilir niteliktedir. İtiraz hakkınızı kullanarak sözleşmeyi iptal ettirmeniz gerekir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "temerrut-faizi-nedir",
+  "angle": "Butlan",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

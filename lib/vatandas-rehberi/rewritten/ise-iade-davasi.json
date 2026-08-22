@@ -1,0 +1,115 @@
+{
+  "slug": "ise-iade-davasi",
+  "title": "İşe İade Davası Nedir? Şartlar ve Süre",
+  "description": "İşe iade davası nedir? Nasıl açılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
+  "h1": "İşe iade davası nedir? Nasıl açılır?",
+  "keywords": [
+    "işe iade davası",
+    "işe iade şartları",
+    "geçersiz fesih"
+  ],
+  "category": "İş",
+  "related": [
+    "isse-iade-arabuluculuk",
+    "ise-iade-tazminati",
+    "bos-ta-gecen-sure",
+    "is-sozlesmesi-feshi",
+    "kidem-tazminati-nasil-alinir",
+    "arabuluculuk-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Arabuluculuk",
+      "href": "/rehber/arabuluculuk"
+    }
+  ],
+  "lead": "Sabah işe geldiniz ve masanızın üzerinde fesih kâğıdı duruyor. İşe iade süreci, işverenin gösterdiği sebebin geçerli olup olmadığını yargıya taşıdığınız yoldur.",
+  "keyInsight": "Fesih bildiriminin size tebliğ edildiği günden itibaren **bir ay içinde** arabulucuya başvurmak zorundasınız; aksi takdirde bu hak tamamen yanar.",
+  "sections": [
+    {
+      "heading": "Ne zaman hak doğar?",
+      "paragraphs": [
+        "İş sözleşmeniz feshedildiğinde elinize yazılı bir kâğıt verilmesi gerekir. İşveren fesih bildirimini yazılı yapmak ve sebebini açıkça belirtmek zorundadır.",
+        "Eğer işveren hiçbir sebep göstermediyse ya da gösterdiği sebep geçerli değilse hak doğar. Davranış veya verim nedeniyle yapılacak fesihlerde, işçi savunması alınmadan işlem yapılamaz."
+      ],
+      "bullets": [
+        "Yazılı bildirim şarttır",
+        "Gerekçe açık yazılmalıdır",
+        "Savunma hakkı tanınmalıdır"
+      ]
+    },
+    {
+      "heading": "İlk adım nereye atılır?",
+      "paragraphs": [
+        "Doğrudan mahkemeye gitmek yerine önce kapıyı arabulucuya çalmak mecburidir. Fesih bildiriminin tebliğ edildiği tarihten itibaren **bir ay içinde** arabulucuya başvurulmalıdır.",
+        "Arabuluculuk bürosuna başvururken yetkili yer önemlidir. Uyuşmazlık bu aşamada çözülmezse taraflar masadan anlaşmasız kalkar."
+      ],
+      "bullets": [
+        "Bir aylık süre kritiktir",
+        "Arabuluculuk dava şartıdır",
+        "Son tutanak beklenir"
+      ]
+    },
+    {
+      "heading": "Mahkeme süreci nasıl işler?",
+      "paragraphs": [
+        "Arabuluculukta anlaşma sağlanamazsa elimizde bir son tutanak kalır. Bu tutanağın düzenlendiği tarihten itibaren **iki hafta içinde** iş mahkemesinde dava açılabilir.",
+        "Doğrudan dava açılması durumunda mahkeme usulden ret kararı verir. Bu ret kararının tebliğinden sonra da iki hafta içinde arabulucuya başvurma imkânı saklıdır."
+      ],
+      "bullets": [
+        "İki haftalık dava süresi",
+        "Son tutanak aslı şarttır",
+        "İvedilikle sonuçlandırılır"
+      ]
+    },
+    {
+      "heading": "İspat yükü kimdedir?",
+      "paragraphs": [
+        "Mahkeme salonuna girdiğinizde en önemli mesele kimin neyi kanıtlayacağıdır. Feshin geçerli bir sebebe dayandığını ispatlama yükümlülüğü tamamen işverene aittir.",
+        "Eğer işçi feshin başka bir sebebe dayandığını öne sürüyorsa, o iddiayı kanıtlamakla yükümlü olan taraf kendisidir."
+      ],
+      "bullets": [
+        "İşveren sebebini kanıtlar",
+        "İşçi farklı iddiasını ispatlar",
+        "İstinaf yolu hızlıdır"
+      ]
+    }
+  ],
+  "steps": [
+    "Fesih bildiriminin tebliğ tarihini not edin",
+    "Bir aylık süreyi geçirmeden arabuluculuk bürosuna başvurun",
+    "Arabuluculuk görüşmelerine katılın",
+    "Anlaşma sağlanamazsa son tutanağı alın",
+    "İki hafta içinde iş mahkemesinde dava açın"
+  ],
+  "documents": [
+    "İş sözleşmesi",
+    "Yazılı fesih bildirim kâğıdı",
+    "Arabuluculuk son tutanağının aslı",
+    "Kimlik belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Doğrudan mahkemeye dava açabilir miyim?",
+      "a": "Hayır, arabulucuya başvurmadan açılan davalar usulden reddedilir."
+    },
+    {
+      "q": "Başvuru süresini kaçırırsam ne olur?",
+      "a": "Tebliğ tarihinden itibaren bir aylık süreyi geçirirseniz arabuluculuk ve dava hakkını kaybedersiniz."
+    },
+    {
+      "q": "Feshin geçerli olduğunu kim kanıtlar?",
+      "a": "Feshin geçerli bir sebebe dayandığını ispat yükümlülüğü işverene aittir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "ise-iade-davasi",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

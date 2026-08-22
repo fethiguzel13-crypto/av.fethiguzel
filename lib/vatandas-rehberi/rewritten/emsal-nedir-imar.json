@@ -1,0 +1,102 @@
+{
+  "slug": "emsal-nedir-imar",
+  "title": "Emsal KAKS — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Emsal KAKS hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "Emsal KAKS",
+  "keywords": [
+    "emsal kaks",
+    "emsal nedir imar"
+  ],
+  "category": "İmar",
+  "related": [
+    "kentsel-donusum-nedir",
+    "imar-durumu-nedir",
+    "yapı-ruhsati-nedir",
+    "kat-karsiligi-insaat"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kentsel-donusum-nedir"
+    },
+    {
+      "label": "İmar",
+      "href": "/kategori/imar"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=emsal"
+    }
+  ],
+  "lead": "Emsal, bir arsaya yapılabilecek toplam inşaat alanını belirleyen temel imar kuralıdır. Taşınmazınızın ne kadar büyük bir bina taşıyabileceğini bu oran tayin eder.",
+  "keyInsight": "Emsal oranları sabit değildir; parselin bulunduğu bölgenin uygulama imar planı kararlarına göre idare tarafından belirlenir.",
+  "sections": [
+    {
+      "heading": "Emsal tam olarak neyi ifade eder?",
+      "paragraphs": [
+        "Emsal, imar planında belirtilen ve parselin toplam inşaat hakkını sınırlayan bir katsayıdır. Arsanızın metrekaresi ile imar planındaki bu katsayıyı çarptığınızda, yapabileceğiniz toplam kapalı inşaat alanına ulaşırsınız.",
+        "Bu değer, binanızın dikeyde ne kadar yükseleceğini veya yatayda ne kadar genişleyeceğini belirleyen ana unsurdur. İmar planı kararları, bölgenin ihtiyaçlarına ve yoğunluk hedeflerine göre bu oranı şekillendirir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İmar hakkı aktarımı nedir?",
+      "paragraphs": [
+        "Eğer parselinizin bir kısmı kamu hizmet alanında kalıyorsa ve bu alana bina yapmanız mümkün değilse, kullanılamayan inşaat hakkınızın başka bir parsele taşınması işlemidir.",
+        "Bu işlem, alıcı parselin imar planındaki oranını **en fazla %30** oranında artırabilir. Aktarma işlemi, değerleme kuruluşlarının raporları ve idarenin kıymet takdir komisyonu kararlarıyla gerçekleşir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Değerleme nasıl yapılır?",
+      "paragraphs": [
+        "İmar hakkı aktarımında, alıcı ve verici parsellerin değerleri kritik öneme sahiptir. En az iki lisanslı gayrimenkul değerleme kuruluşu tarafından hazırlanan raporların ortalaması baz alınır.",
+        "Komisyon, bu değerler üzerinden bir kıymet takdiri yapar. İki parsel arasında bir değer farkı oluşursa, taraflar arasında karşılıklı mahsuplaşma yoluna gidilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süreci yönetirken nelere dikkat etmelisiniz?",
+      "paragraphs": [
+        "İmar planı kararları, yerleşme alanının büyüklüğüne ve genel ilkelerine göre idare tarafından çizilir. Bir bölgede plan değişikliği yapıldığında, bu durumun emsal değerlerinizi nasıl etkileyeceğini takip etmeniz gerekir.",
+        "Özelleştirme programındaki alanlar gibi özel durumlarda, imar planlarını onaylamaya yetkili kurumların görüşü esastır. Bu tür alanlarda yapılan plan değişiklikleri, **beş yıl süreyle** değiştirilemez."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Belediyenin imar birimine giderek parselinizin güncel imar durum belgesini talep edin.",
+    "İmar planı notlarında belirtilen emsal katsayısını arsa metrekaresi ile çarparak toplam inşaat hakkınızı hesaplayın.",
+    "Parseliniz kamu hizmet alanında kalıyorsa imar hakkı aktarımı için idareye başvuru dosyanızı hazırlayın.",
+    "Gayrimenkul değerleme kuruluşlarına başvurarak taşınmazınız için değerleme raporu düzenletin.",
+    "İdare tarafından oluşturulan kıymet takdir komisyonunun belirlediği değerleri kontrol edin.",
+    "Mahsuplaşma veya aktarım işlemleri için gerekli sözleşmeleri imzalayarak süreci resmiyete dökün."
+  ],
+  "documents": [
+    "Güncel imar durum belgesi",
+    "Lisanslı gayrimenkul değerleme raporları",
+    "İdare tarafından düzenlenen kıymet takdir komisyonu tutanağı",
+    "İmar hakkı aktarımına ilişkin idari onay yazısı"
+  ],
+  "faq": [
+    {
+      "q": "Emsal oranını kendi isteğimle artırabilir miyim?",
+      "a": "Hayır, emsal oranı tamamen imar planı kararlarına bağlıdır; ancak kamu hizmetine ayrılan yerlerdeki haklarınızı imar hakkı aktarımı ile başka parsele taşıyabilirsiniz."
+    },
+    {
+      "q": "Emsal değeri binanın kat sayısını doğrudan belirler mi?",
+      "a": "Emsal sadece toplam inşaat alanını belirler; kat sayısı ise binanın taban oturumu ve bölgedeki diğer yapılaşma kuralları ile birlikte netleşir."
+    },
+    {
+      "q": "İmar hakkı aktarımı her parsel için mümkün mü?",
+      "a": "Hayır, sadece parselin tamamının veya bir kısmının kamu hizmet alanında kalması ve özel mülkiyete konu yapılaşma hakkının verilememesi şartı aranır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kentsel-donusum-nedir",
+  "angle": "Emsal KAKS",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

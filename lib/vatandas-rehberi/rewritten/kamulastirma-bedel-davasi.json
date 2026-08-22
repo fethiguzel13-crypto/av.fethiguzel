@@ -1,0 +1,114 @@
+{
+  "slug": "kamulastirma-bedel-davasi",
+  "title": "Kamulaştırma Bedel Artırım Davası | Vatandaş Rehberi",
+  "description": "Kamulaştırma bedeline nasıl itiraz edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Porta…",
+  "h1": "Kamulaştırma bedeline nasıl itiraz edilir?",
+  "keywords": [
+    "kamulaştırma bedel davası",
+    "kamulaştırma bedel artırım"
+  ],
+  "category": "İdare",
+  "related": [
+    "kamulastirma-nedir",
+    "idari-dava-nasil-acilir",
+    "bilirkisi-raporu-itiraz"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kamulastirma-nedir"
+    },
+    {
+      "label": "Kamulaştırma",
+      "href": "/kategori/kamulastirma"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Evinize veya arsanıza dair kamulaştırma kararı geldiğinde, idarenin biçtiği bedeli düşük bulursanız yasal haklarınızı kullanabilirsiniz. Süreci doğru yönetmek, mülkünüzün gerçek değerini almanız için kritik bir adımdır.",
+  "keyInsight": "İdare tarafından mahkemeye yapılan bedel tespiti başvurusunda size gönderilen meşruhatlı davetiyeyi aldığınız an, yasal itiraz sürecinizin başladığını unutmayın.",
+  "sections": [
+    {
+      "heading": "Bildirim size ulaştığında ne yapmalısınız?",
+      "paragraphs": [
+        "Kapınıza gelen tebligat, idarenin taşınmazınız için belirlediği bedeli mahkeme huzurunda tescil ettirmek istediğini gösterir. Bu kağıt sadece bir bilgilendirme değil, aynı zamanda size tanınan bir savunma hakkı çağrısıdır.",
+        "Mahkeme, idarenin başvuru tarihinden itibaren bir duruşma günü belirler. Bu **duruşma gününü** ve mahkemenin sizden istediği belgeleri titizlikle takip etmeniz gerekir."
+      ],
+      "bullets": [
+        "Tebligat içeriğini dikkatle okuyun.",
+        "Duruşma günü ve saatini not edin."
+      ]
+    },
+    {
+      "heading": "İtiraz süreci nasıl işler?",
+      "paragraphs": [
+        "Kamulaştırma bedelinin tespiti davası, taşınmazın bulunduğu yerdeki asliye hukuk mahkemesinde görülür. İdare, kendi yaptığı bedel tespiti ve ilgili belgeleri mahkemeye sunarak süreci başlatır.",
+        "Siz malik olarak, mahkemenin size gönderdiği davetiye ile duruşmaya çağrılırsınız. Bu aşamada, idarenin sunduğu bedelin neden düşük olduğunu veya taşınmazınızın özelliklerinin nasıl göz ardı edildiğini **mahkeme huzurunda** dile getirmelisiniz."
+      ],
+      "bullets": [
+        "Asliye hukuk mahkemesine başvurun.",
+        "Duruşma gününde hazır bulunun."
+      ]
+    },
+    {
+      "heading": "Hangi haklara sahipsiniz?",
+      "paragraphs": [
+        "İşlemin kendisine karşı idari yargıda iptal davası açma hakkınız saklıdır. Aynı zamanda adli yargıda, bedel tespitine ilişkin maddi hataların düzeltilmesini talep edebilirsiniz.",
+        "Eğer taşınmaz tapuda kayıtlı değilse ve zilyetlik yoluyla hak iddia ediyorsanız, mahkeme bilirkişiler aracılığıyla yerinde inceleme yapar ve zilyetliğinizi belgeleyen delilleri toplar."
+      ],
+      "bullets": [
+        "İdari yargıda iptal davası açma imkanı.",
+        "Adli yargıda maddi hatalara itiraz hakkı."
+      ]
+    },
+    {
+      "heading": "Süreci yönetirken yanınızda ne olmalı?",
+      "paragraphs": [
+        "Mahkeme süreci, belgeler üzerinden yürür. İdarenin sunduğu bilgi ve raporlara karşı, kendi görüşünüzü destekleyecek her türlü veriyi hazırlamalısınız.",
+        "Tebligatla birlikte size bildirilen hususları eksiksiz yerine getirmeniz, hak kaybına uğramamanız için **zorunludur**."
+      ],
+      "bullets": [
+        "Tapu kayıtları ve güncel bilgiler.",
+        "Tebligat ile gelen tüm dava evrakları.",
+        "Zilyetlik iddianız varsa bunu kanıtlayan belgeler."
+      ]
+    }
+  ],
+  "steps": [
+    "Adresinize gelen meşruhatlı davetiyeyi teslim alın.",
+    "Tebligat üzerindeki duruşma tarihini kontrol edin.",
+    "Taşınmazın bulunduğu yerdeki asliye hukuk mahkemesine başvurun.",
+    "İdare tarafından sunulan belgeleri inceleyin.",
+    "Duruşmada bedel tespitine dair itirazlarınızı sözlü veya yazılı beyan edin.",
+    "Mahkemenin belirlediği bilirkişi incelemelerine katılın."
+  ],
+  "documents": [
+    "Meşruhatlı davetiye",
+    "Tapu kayıt örneği",
+    "İdare tarafından sunulan bedel tespit raporu",
+    "Zilyetliği kanıtlayan vergi veya benzeri kayıtlar"
+  ],
+  "faq": [
+    {
+      "q": "Duruşmaya katılmazsam ne olur?",
+      "a": "Duruşmaya katılmamak, savunma hakkınızı kullanmanızı engeller ve mahkemenin idarenin sunduğu belgeler üzerinden karar vermesine neden olabilir."
+    },
+    {
+      "q": "İtirazımı nereye yapmalıyım?",
+      "a": "Kamulaştırma bedelinin tespiti davası, taşınmazın bulunduğu yerdeki asliye hukuk mahkemesinde görülür."
+    },
+    {
+      "q": "Tapum yoksa hak iddia edebilir miyim?",
+      "a": "Evet, zilyetlikle iktisap iddianız varsa, bilirkişi marifetiyle yerinde yapılan inceleme ve delillerinizle bu hakkınızı mahkemede ileri sürebilirsiniz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kamulastirma-nedir",
+  "angle": "Bedel artırım",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

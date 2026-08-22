@@ -1,0 +1,106 @@
+{
+  "slug": "tck-nedir",
+  "title": "TCK nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "TCK nedir hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "TCK nedir",
+  "keywords": [
+    "tck nedir",
+    "tck nedir"
+  ],
+  "category": "Mevzuat",
+  "related": [
+    "kanun-maddesi-nasil-okunur",
+    "savcilik-suc-duyurusu",
+    "ceza-sorusturmasi-sureci",
+    "mevzuat-nasil-aranir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/kanun-maddesi-nasil-okunur"
+    },
+    {
+      "label": "TCK",
+      "href": "/kategori/tck-genel"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=TCK"
+    }
+  ],
+  "lead": "Türk Ceza Kanunu, yani bilinen adıyla TCK, toplumda suç sayılan fiilleri ve bu fiillere verilecek cezaların sınırlarını belirleyen temel kanundur. Hangi eylemin suç olduğunu, hangi şartlarda ceza verileceğini bu metinden öğrenirsiniz.",
+  "keyInsight": "Her anlaşmazlık veya tartışma suç değildir; TCK sadece kanunda açıkça suç sayılmış eylemler için devreye girer.",
+  "sections": [
+    {
+      "heading": "Hangi durumlarda TCK devreye girer?",
+      "paragraphs": [
+        "Gece yarısı kapınız çalındı ya da sokakta hiç beklemediğiniz bir olayla karşılaştınız. Birine el kaldırmak, başkasının malına zarar vermek, tehdit edilmek veya dolandırılmak gibi durumlar günlük hayatın en sert yüzüdür. İşte bu gibi can sıkıcı olaylarda polisin, savcının ve hakimin elindeki en temel başvuru kitabı TCK'dır.",
+        "Kanun, devletin ve toplumun düzenini korumakla kalmaz, sizin kişisel haklarınızı ve güvenliğinizi de güvence altına alır. Bir suçla karşılaştığınızda **ilk olarak** olayın adliyeye intikal etmesi gerekir. Adli sistem, TCK'da yazılı kurallara göre işletilir."
+      ],
+      "bullets": [
+        "Suçların tanımı",
+        "Cezaların türü",
+        "Sorumluluk şartları"
+      ]
+    },
+    {
+      "heading": "Suç ve ceza konusunda en sık düşülen hatalar nelerdir?",
+      "paragraphs": [
+        "İnsanlar genellikle öfkeyle hareket edip kendi adaletini sağlamaya çalışır. Ancak haklısken haksız duruma düşmek an meselesidir. Hakaret edene aynı şekilde karşılık vermek ya da borcunu ödemeyen kişiyi tehdit etmek, sizi de suçlu sandalyesine oturtabilir.",
+        "Bir diğer yanılgı ise her polise giden olayın otomatik olarak hapisle sonuçlanacağı düşüncesidir. Savcılık aşamasında dosya incelenir ve **delil durumu** her şeyden önce gelir. Duygularla değil, somut durumla hareket etmek şarttır."
+      ],
+      "bullets": [
+        "Kendi adaletini sağlamak",
+        "Delilsiz ithamda bulunmak"
+      ]
+    },
+    {
+      "heading": "Adliyeye yolu düşenler neleler yaşar?",
+      "paragraphs": [
+        "Başınıza kötü bir olay geldiğinde karakol veya savcılık kapısını çalarsınız. İfadeniz alınır, olay anına dair bildikleriniz tutanağa geçirilir. Savcı, anlatılanların TCK kapsamında bir suç oluşturup oluşturmadığını inceler.",
+        "Bu süreçte sabırlı olmak ve süreci yakından takip etmek gerekir. Telaşla yapılan yanlış beyanlar, ileride haklı davanızı zora sokabilir. **Savcılık aşaması**, adalete giden yolda atılan ilk resmi adımdır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yanınızda mutlaka ne durmalı?",
+      "paragraphs": [
+        "Hukuki bir süreçle baş başa kaldığınızda hafızanız yanıltıcı olabilir. Olayın tarihini, saatini, varsa tanıkların kim olduğunu bir kağıda not edin. Dijital yazışmalar, fotoğraflar veya ses kayıtları en büyük yardımcınızdır.",
+        "Belge ve delil olmadan atılan adımlar sonuçsuz kalabilir. **Yazılı delil** her zaman sözlü ifadeden daha güçlü bir etkiye sahiptir ve haklılığınızı kanıtlar."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Olayın yaşandığı anı ve detayları unutmadan bir yere not edin.",
+    "Varsa mesaj, fotoğraf ve belge gibi delilleri toplayın.",
+    "En yakın polis merkezi veya savcılığa giderek şikayetçi olun.",
+    "İfadenizi sakin ve doğru bir şekilde verip tutanağı okuyarak imzalayın."
+  ],
+  "documents": [
+    "Olayı gösteren mesaj, fotoğraf veya belgeler",
+    "Kimlik belgesi",
+    "Tanık listesi ve iletişim bilgileri"
+  ],
+  "faq": [
+    {
+      "q": "Her şikayet eden kişi haklı bulunur mu?",
+      "a": "Şikayet etmek herkesin hakkıdır ancak haklı bulunmak için iddianın somut delillerle desteklenmesi şarttır."
+    },
+    {
+      "q": "TCK sadece hapis cezası mı öngörür?",
+      "a": "Hayır, suçun niteliğine göre adli para cezası veya farklı yaptırımlar da kanunda yer alır."
+    },
+    {
+      "q": "Şikayetten vazgeçmek dosyayı kapatır mı?",
+      "a": "Bazı suçlarda şikayete bağlılık söz konusudur ancak kamu adına doğrudan soruşturulan suçlarda vazgeçme davanın düşmesini sağlamaz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "kanun-maddesi-nasil-okunur",
+  "angle": "TCK nedir",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

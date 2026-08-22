@@ -1,0 +1,105 @@
+{
+  "slug": "zilyetlikle-tapu-tescili",
+  "title": "Zilyetlikle Tapu Tescili: Yirmi Yıllık Kazandırıcı Zamanaşımı",
+  "description": "Tapusuz taşınmaz yirmi yıllık zilyetlikle nasıl tapuya bağlanır, dava kime karşı açılır, ilân süreci nasıl işler? TMK m.712 ve m.713 çerçevesinde.",
+  "h1": "Zilyetlikle tapu tescili nasıl yapılır?",
+  "keywords": [
+    "zilyetlikle tescil",
+    "kazandırıcı zamanaşımı",
+    "tapusuz taşınmaz",
+    "yirmi yıllık zilyetlik",
+    "tescil davası",
+    "olağanüstü zamanaşımı"
+  ],
+  "category": "Eşya",
+  "related": [
+    "miras-paylasimi-nasil-yapilir"
+  ],
+  "links": [
+    {
+      "label": "TMK m.712 — Olağan zamanaşımı",
+      "href": "/mevzuat/tmk/madde-712"
+    },
+    {
+      "label": "TMK m.713 — Olağanüstü zamanaşımı",
+      "href": "/mevzuat/tmk/madde-713"
+    },
+    {
+      "label": "Tapu harcı hesaplama aracı",
+      "href": "/hesaplama/tapu"
+    }
+  ],
+  "lead": "Tapusuz bir taşınmazı uzun yıllar kendi malınız gibi kullandıysanız, mülkiyeti üzerinize almanız mümkündür. Bu süreç mahkeme kararıyla hak kazanmak değil, zaten oluşan bir durumu tapuya tescil ettirmektir.",
+  "keyInsight": "Mülkiyet hakkı mahkeme kararıyla değil, **yirmi yıllık** davasız ve aralıksız zilyetlik şartı sağlandığı anda kendiliğinden doğar.",
+  "sections": [
+    {
+      "heading": "Kimler bu yola başvurabilir?",
+      "paragraphs": [
+        "Bir taşınmazı yıllardır kullanıyor olmanız tek başına yeterli değildir. Kanun, bu süreci 'malik sıfatıyla' yürütmenizi şart koşar.",
+        "Kiracı veya bir başkasının izniyle orada bulunan kişi, ne kadar süre geçerse geçsin bu yolla mülkiyet kazanamaz. Çünkü başkasının mülkiyetini kabul ederek orada bulunuyorsunuz."
+      ],
+      "bullets": [
+        "Taşınmaz tapusuz olmalıdır.",
+        "Zilyetlik davasız ve kesintisiz sürmelidir.",
+        "Süre tam yirmi yılı doldurmalıdır."
+      ]
+    },
+    {
+      "heading": "Dava kime karşı açılır?",
+      "paragraphs": [
+        "Davanın muhatabı taşınmazın durumuna göre değişir. Tapusuz yerlerde kural olarak Hazineyi davalı gösterirsiniz.",
+        "Eğer tapuda eski bir kayıt varsa veya malik gözüken kişinin mirasçıları belliyse, bu kişilere karşı dava açmanız gerekir. Mirasçıların tespiti için önceden çalışma yapmanız şarttır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İlân süreci neden kritiktir?",
+      "paragraphs": [
+        "Mahkeme, sizin iddianızdan haberdar olmayan üçüncü kişileri korumak için bir ilân süreci başlatır. Taşınmazın bulunduğu yerde ve basında yapılan bu ilânlar, hak sahiplerinin ortaya çıkması içindir.",
+        "Son ilândan itibaren **üç ay** içinde kimse itiraz etmez veya itirazlar reddedilirse, mahkeme tescil kararı verir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hangi taşınmazlar için bu yol kapalıdır?",
+      "paragraphs": [
+        "Her yer bu yöntemle kazanılamaz. Ormanlar, kıyılar, meralar veya kamu hizmetine ayrılmış yerler üzerinde zamanaşımı işlemez.",
+        "Dava açmadan önce taşınmazın kadastro ve orman kayıtlarını mutlaka inceletin. Nitelik araştırması yapılmadan atılan adımlar, yıllar süren davaların reddiyle sonuçlanabilir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Taşınmazın tapu kütüğünde kayıtlı olmadığını ve orman/mera gibi yasaklı alanlarda bulunmadığını teyit edin.",
+    "Zilyetliğinizin başlangıcını kanıtlayacak vergi kayıtları, ziraat destekleri veya tanık listesi gibi belgeleri derleyin.",
+    "Davalı olarak Hazineyi, ilgili belediyeyi veya varsa tapudaki malikin mirasçılarını belirleyin.",
+    "Asliye Hukuk Mahkemesinde tescil davası açın.",
+    "Mahkemenin yapacağı ilân sürecini takip edin ve üç aylık itiraz süresinin dolmasını bekleyin.",
+    "Bilirkişi keşfi sırasında taşınmazın sınırlarını ve krokiyi uzmanlarla birlikte netleştirin."
+  ],
+  "documents": [
+    "Zilyetliği gösteren eski vergi ödeme makbuzları",
+    "Taşınmazın sınırlarını gösteren teknik kroki",
+    "Tarımsal destekleme veya muhtarlık onaylı kullanım belgeleri",
+    "Varsa tapu malikine ait mirasçılık belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Mülkiyeti tam olarak ne zaman kazanmış olurum?",
+      "a": "Mahkeme kararıyla değil, yirmi yıllık kesintisiz zilyetlik şartı sağlandığı anda mülkiyet sizin olur. Mahkeme kararı sadece bu hakkı tapuya tescil eder."
+    },
+    {
+      "q": "İyiniyetli olmak şart mı?",
+      "a": "Tapusuz taşınmazlardaki yirmi yıllık olağanüstü zamanaşımında iyiniyet aranmaz. Ancak tapuda kayıtlı olup da geçersiz bir sebeple malik görünenler için on yıllık sürede iyiniyet şarttır."
+    },
+    {
+      "q": "Kiracı olarak oturduğum yeri alabilir miyim?",
+      "a": "Hayır. Malik sıfatıyla zilyetlik şartı, kiracılık ilişkisiyle bağdaşmaz. Başkasının malını kiralayan kişi, süresi ne olursa olsun bu hakka sahip olamaz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.93,
+  "voice": "narrative",
+  "source": "gemini"
+}

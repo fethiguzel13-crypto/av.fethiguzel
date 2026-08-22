@@ -1,0 +1,104 @@
+{
+  "slug": "trafik-sigortasi-hasar",
+  "title": "Trafik sigortası hasar — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Trafik sigortası hasar hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
+  "h1": "Trafik sigortası hasar",
+  "keywords": [
+    "trafik sigortası hasar",
+    "trafik sigortasi hasar"
+  ],
+  "category": "Trafik",
+  "related": [
+    "trafik-kazasi-tazminati",
+    "trafik-cezasina-itiraz",
+    "tuketici-hakem-heyeti"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/trafik-kazasi-tazminati"
+    },
+    {
+      "label": "KTK",
+      "href": "/kategori/ktk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=sigorta"
+    }
+  ],
+  "lead": "Trafik kazası sonrası aracınız hasar gördüğünde, zararın karşılanması için zorunlu mali sorumluluk sigortası devreye girer. İşletenlerin bu sigortayı yaptırması zorunludur ve **geçerli sigortası bulunmayan araçlar trafikten men edilir**.",
+  "keyInsight": "Kapsam dışı kalan dolaylı zararlar ve manevi tazminat talepleri sigortadan karşılanmaz.",
+  "sections": [
+    {
+      "heading": "Trafik sigortası neyi karşılar?",
+      "paragraphs": [
+        "Yolda seyrederken bir kaza geldi başınıza. Karşı tarafın kusuruyla aracınız hasar aldı. Burada **zorunlu mali sorumluluk sigortası** devreye girer.",
+        "Ancak her talep bu sigortadan ödenmez. Kanun, bazı zararları kapsam dışında bırakmıştır."
+      ],
+      "bullets": [
+        "Pirimler peşin ödenir.",
+        "Teminatlar resmi olarak belirlenir."
+      ]
+    },
+    {
+      "heading": "Hangi zararlar kapsam dışındadır?",
+      "paragraphs": [
+        "Kazadan sonra zararınızı hesaplarken bazı kalemlerin ödenmeyeceğini bilmelisiniz. Manevi tazminat talepleri bu sigortanın kapsamı dışındadır.",
+        "Ayrıca gelir kaybı, kâr kaybı, iş durması ve kira mahrumiyeti gibi dolaylı zararlar ile hasar sebebiyle hurdaya çıkarılmış araçların değer kaybı talepleri de **kapsam dışı bırakılmıştır**."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Kimlerin talepleri ödenmez?",
+      "paragraphs": [
+        "Sigortalının eşine, üst soyuna, alt soyuna, evlatlık ilişkisi olanlara ve birlikte yaşadığı kardeşlerinin mallarına gelen zararlar ödenmez.",
+        "Hak sahibinin kendi kusuruna denk gelen tazminat talepleri ile terör eylemlerinde kullanılan araçların verdiği zararlar da sigorta kapsamı dışındadır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Primsiz araçlara ne olur?",
+      "paragraphs": [
+        "Trafikte dolaşan her aracın sigortası olmak zorundadır. Bu kurala uymayanlar para cezası ile cezalandırılır.",
+        "Geçerli teminat tutarları üzerinden sigortası bulunmayan araçlar trafikten men edilir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Poliçe ve kaza evrakını sigortaya iletin.",
+    "Eksper gününü kaçırmayın.",
+    "Hasar dosya numarasını alın.",
+    "Eksik evrak listesini tamamlayın.",
+    "Red veya düşük ödemede yazılı itiraz + tahkim yolunu kullanın."
+  ],
+  "documents": [
+    "poliçe",
+    "tutanak",
+    "eksper raporu",
+    "iban",
+    "ruhsat"
+  ],
+  "faq": [
+    {
+      "q": "Manevi tazminat trafik sigortasından ödenir mi?",
+      "a": "Hayır, manevi tazminata ilişkin talepler zorunlu mali sorumluluk sigortasının kapsamı dışındadır."
+    },
+    {
+      "q": "Sigortasız araçla trafiğe çıkmanın sonucu nedir?",
+      "a": "Geçerli teminat tutarları üzerinden zorunlu mali sorumluluk sigortası bulunmayan araçlar trafikten men edilir ve para cezası uygulanır."
+    },
+    {
+      "q": "Kira mahrumiyeti sigortadan alınabilir mi?",
+      "a": "Gelir kaybı, kâr kaybı, iş durması ve kira mahrumiyeti gibi dolaylı zararlar sigorta kapsamına girmez."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "trafik-kazasi-tazminati",
+  "angle": "Trafik sigortası hasar",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

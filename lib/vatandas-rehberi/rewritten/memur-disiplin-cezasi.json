@@ -1,0 +1,113 @@
+{
+  "slug": "memur-disiplin-cezasi",
+  "title": "Memur disiplin cezası — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Memur disiplin cezası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avu…",
+  "h1": "Memur disiplin cezası",
+  "keywords": [
+    "memur disiplin cezası",
+    "memur disiplin cezasi"
+  ],
+  "category": "İdare",
+  "related": [
+    "cimer-sikayet",
+    "idari-dava-nasil-acilir",
+    "iptal-davasi-nedir",
+    "bilgi-edinme-basvurusu"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/cimer-sikayet"
+    },
+    {
+      "label": "DMK",
+      "href": "/kategori/dmk"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Masanızda bir disiplin soruşturması yazısı duruyor. Kalbiniz çarpıyor ancak bilmeniz gereken ilk şey, panik yapmadan sürecin adımlarını takip etmektir.",
+  "keyInsight": "Disiplin soruşturmalarında savunma hakkı hayati önem taşır; **savunma süresini** atlamak hak kaybına yol açar.",
+  "sections": [
+    {
+      "heading": "Süreç nasıl başlar?",
+      "paragraphs": [
+        "Kurumda bir disiplin soruşturması açıldığında taraflara durum bildirilir. İdare, hakkınızdaki iddiaları araştırmak üzere bir süreç başlatır.",
+        "Bu aşamada soğukkanlı kalmalı ve iddiaların ne olduğunu net bir şekilde anlamalısınız."
+      ],
+      "bullets": [
+        "Soruşturma emri tebliğ edilir",
+        "İddialar incelenir"
+      ]
+    },
+    {
+      "heading": "Savunma hakkı ve önemi",
+      "paragraphs": [
+        "Hakkınızda yapılan suçlamalara karşı **savunma istemi** yazılı olarak size ulaşır. Bu aşamada iddialara karşı belgelerle yanıt hazırlamak gereklidir.",
+        "Savunma vermemek veya süresi içinde hareket etmemek aleyhinize sonuç doğurabilir."
+      ],
+      "bullets": [
+        "Yazılı savunma hazırlanır",
+        "Deliller sunulur"
+      ]
+    },
+    {
+      "heading": "Karar aşaması ve tebligat",
+      "paragraphs": [
+        "Toplanan deliller ve savunmanız değerlendirildikten sonra ilgili disiplin kurulu veya mercii bir karar verir. Bu karar dosyanıza işlenir.",
+        "Çıkan sonuç tarafınıza resmi olarak **tebliğ edilir**."
+      ],
+      "bullets": [
+        "Kurul kararı alınır",
+        "Sonuç tebliğ edilir"
+      ]
+    },
+    {
+      "heading": "İtiraz ve hukuki yollar",
+      "paragraphs": [
+        "Verilen disiplin cezasına karşı hangi mercilere başvurabileceğinizi ve yasal yolları incelemelisiniz.",
+        "Süresi içinde yargı yoluna başvurmak haklarınızı korumanın en temel adımıdır."
+      ],
+      "bullets": [
+        "İtiraz yolları incelenir",
+        "Dava dilekçesi hazırlanır"
+      ]
+    }
+  ],
+  "steps": [
+    "Hakkınızdaki soruşturma tebligatını dikkatlice okuyun",
+    "İddialara karşı savunmanızı hazırlayın",
+    "Delillerinizi ve belgelerinizi derleyin",
+    "Savunmanızı süresi içinde ilgili mercie teslim edin",
+    "Çıkan kararı ve tebligatı takip edin"
+  ],
+  "documents": [
+    "Disiplin soruşturması tebligat yazısı",
+    "Savunma dilekçesi",
+    "İlgili bilgi ve belgeler",
+    "Disiplin kurulu karar metni"
+  ],
+  "faq": [
+    {
+      "q": "Disiplin soruşturmasında avukat tutabilir miyim?",
+      "a": "Soruşturma aşamasında hukuki yardım alabilir, sürecin yürütülmesi için bir avukata danışabilirsiniz."
+    },
+    {
+      "q": "Savunma vermezsem ne olur?",
+      "a": "Savunma hakkından vazgeçmiş sayılabilirsiniz ve dosyadaki mevcut delillerle karar verilir."
+    },
+    {
+      "q": "Cezaya karşı nereye başvurulur?",
+      "a": "Disiplin cezalarına karşı ilgili yargı mercilerinde iptal davası açma hakkınız bulunmaktadır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "cimer-sikayet",
+  "angle": "Memur disiplin cezası",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

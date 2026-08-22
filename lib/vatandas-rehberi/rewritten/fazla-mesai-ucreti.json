@@ -1,0 +1,98 @@
+{
+  "slug": "fazla-mesai-ucreti",
+  "title": "Fazla Mesai Ücreti Nasıl Hesaplanır ve Alınır?",
+  "description": "Fazla mesai ücreti nasıl hesaplanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
+  "h1": "Fazla mesai ücreti nasıl hesaplanır?",
+  "keywords": [
+    "fazla mesai ücreti",
+    "fazla çalışma",
+    "mesai alacağı"
+  ],
+  "category": "İş",
+  "related": [
+    "yillik-izin-hakki",
+    "ubgt-ucreti",
+    "hafta-tatili-ucreti",
+    "kidem-tazminati-nasil-alinir",
+    "arabuluculuk-nasil-yapilir",
+    "is-sozlesmesi-feshi"
+  ],
+  "links": [
+    {
+      "label": "İş Kanunu",
+      "href": "/kategori/is-kanunu"
+    },
+    {
+      "label": "Hesaplama",
+      "href": "/hesaplama"
+    }
+  ],
+  "lead": "Fazla çalışma ücreti, normal çalışma ücretinin saat başına düşen miktarnın yüzde elli yükseltilmesi suretiyle ödenir.",
+  "keyInsight": "Fazla saatlerde yapılacak çalışmalar için işçinin yazılı onayı alınması şarttır.",
+  "sections": [
+    {
+      "heading": "Fazla çalışma ücreti nasıl hesaplanır?",
+      "paragraphs": [
+        "Normal çalışma ücretinin saat başına düşen miktarı, o ay içinde yapılan çalışmalar için hesaplanan tutardır.",
+        "Fazla çalışmanın her bir saati için verilecek ücret, normal çalışma ücreti saat başına düşen miktarının **yüzde elli** yükseltilmesi suretiyle ödenir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Serbest zaman kullanmak mümkün mü?",
+      "paragraphs": [
+        "Fazla çalışma yapan işçi, isterse bu ücreti almak yerine, yaptığı her fazla çalışma karşılığında **bir saat otuz dakika** serbest zaman kullanabilir.",
+        "İşçi hak ettiği serbest zamanı **altı ay** zarfında, iş günleri içinde ve aralıksız bir ücret kesintisi olmadan kullanır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Onay ve zorunluluklar nelerdir?",
+      "paragraphs": [
+        "Fazla saatlerde yapılacak çalışmalar için işçinin **onayının alınması** gerekir.",
+        "Bu onay, her yıl başında yazılı olarak alınabileceği gibi fazla çalışma ihtiyacının ortaya çıkması durumunda da alınabilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Süresi ve yaptırımı nedir?",
+      "paragraphs": [
+        "İşçiye hak ettiği serbest zaman altı ay zarfında kullandırılmazsa veya fazla çalışmalara ilişkin ücret ödenmezse idari para cezası uygulanır.",
+        "İşçiye fazla saatlerde yapılacak çalışmalar için **yazılı onay** alınmazsa bu durum da aykırılık teşkil eder."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Fazla çalışma süresini saat bazında tespit edin.",
+    "Normal saatlik ücretinizi yüzde elli artırarak hesaplayın.",
+    "İsterseniz ücret yerine serbest zaman talebinde bulunun.",
+    "Serbest zamanı altı ay içinde kullanın."
+  ],
+  "documents": [
+    "İş sözleşmesi",
+    "Fazla çalışma yazılı onayı",
+    "Ücret bordrosu veya hesap pusulası",
+    "Puantaj kayıtları"
+  ],
+  "faq": [
+    {
+      "q": "Fazla çalışma saat ücreti yüzde kaç artırılır?",
+      "a": "Normal çalışma ücretinin saat başına düşen miktarı yüzde elli yükseltilir."
+    },
+    {
+      "q": "Ücret yerine serbest zaman ne kadar verilir?",
+      "a": "Her bir saat fazla çalışma karşılığında bir saat otuz dakika serbest zaman verilir."
+    },
+    {
+      "q": "Serbest zamanı kullanmak için süre var mıdır?",
+      "a": "Hak edilen serbest zaman altı ay zarfında kullandırılmalıdır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "fazla-mesai-ucreti",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}

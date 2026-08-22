@@ -1,0 +1,110 @@
+{
+  "slug": "tapu-harci-hesaplama",
+  "title": "Tapu Harcı Nasıl Hesaplanır?",
+  "description": "Tapu harcı ne kadar? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
+  "h1": "Tapu harcı ne kadar?",
+  "keywords": [
+    "tapu harcı hesaplama",
+    "tapu harcı oranı"
+  ],
+  "category": "Eşya",
+  "related": [
+    "tapu-devri-nasil-yapilir",
+    "emlak-vergisi-nedir",
+    "gayrimenkul-satis-vaadi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tapu-devri-nasil-yapilir"
+    },
+    {
+      "label": "Eşya",
+      "href": "/kategori/esya-hukuku"
+    },
+    {
+      "label": "Hesaplama",
+      "href": "/hesaplama"
+    }
+  ],
+  "lead": "Tapu işlemlerinde taşınmazların devri ve tescili sırasında çeşitli kurallar uygulanır. Süreç, ilgili kanun hükümlerine göre tapu idaresi nezdinde yürütülür.",
+  "keyInsight": "Tapu işlemlerinde idari bildirimlerin ve yasal sürelerin dikkate alınması hak kayıplarını önler.",
+  "sections": [
+    {
+      "heading": "Birden çok taşınmazın rehnedilmesi",
+      "paragraphs": [
+        "Birden çok taşınmazın aynı borç için rehnedilmesi, taşınmazların aynı malike veya borçtan müteselsilen sorumlu olan maliklere ait olmalarına bağlıdır. Aynı alacak için birden çok taşınmazın rehnedildiği diğer hâllerde, her taşınmazın alacağın ne miktarı için güvence oluşturduğu rehin kurulurken belirtilir.",
+        "Aksine bir anlaşma bulunmadıkça, tapu idaresi re'sen güvenceyi taşınmazların her birine değeri oranında dağıtır."
+      ],
+      "bullets": [
+        "Aynı malik veya müteselsil sorumluluk",
+        "Değer oranında re'sen dağıtım"
+      ]
+    },
+    {
+      "heading": "İpotekli taşınmazın bölünmesi",
+      "paragraphs": [
+        "İpotekli taşınmazın bir kısmının veya aynı malike ait bulunan ipotekli taşınmazlardan birinin başkasına devredilmesi ya da ipotekli taşınmazın bölünmesi hâlinde, aksine bir anlaşma yoksa, rehin taşınmazlara değerleri oranında tapu idaresince re'sen dağıtılır.",
+        "Bu dağıtımı kabul etmeyen alacaklı, dağıtımın kesinleştiğinin kendisine tebliğinden başlayarak **bir ay** içinde yazılı bildirimde bulunmak suretiyle alacağın ödenmesini isteyebilir."
+      ],
+      "bullets": [
+        "Değer oranında re'sen dağıtım",
+        "Yazılı bildirim hakkı"
+      ]
+    },
+    {
+      "heading": "Yapının harabolması ve bildirme ödevi",
+      "paragraphs": [
+        "Anagayrimenkulün veya anayapının tümünün ya da bir kısmının harabolması halinde durum yönetici tarafından o gayrimenkulün bulunduğu yerin tapu idaresine ve bütün kat maliklerine bildirilir.",
+        "Yönetici yoksa bağımsız bölümü harap olan kat maliki tarafından tapu idaresine derhal bildirilir; bunun bildirilmemesi yüzünden doğacak zararların tümünden bağımsız bölümü harap olan kat maliki sorumludur."
+      ],
+      "bullets": [
+        "Tapu idaresine derhal bildirim",
+        "Zarar sorumluluğu"
+      ]
+    },
+    {
+      "heading": "Kat mülkiyetine çevirme",
+      "paragraphs": [
+        "Medeni Kanunun yürürlüğe girmesinden önce kurulmuş olan haklar, kanunun yürürlüğe girmesinden başlayarak **üç yıl** içinde kat mülkiyetine veya kat irtifakına çevrilir.",
+        "Hak sahipleri tapu idaresinin kararına karşı, bunun kendilerine bildirilmesinden başlayarak **bir ay** içinde dava açmak suretiyle itiraz edebilirler."
+      ],
+      "bullets": [
+        "Üç yıllık dönüştürme süresi",
+        "Sulh mahkemesine itiraz"
+      ]
+    }
+  ],
+  "steps": [
+    "Tapu idaresine başvuruda bulunun.",
+    "Gerekli belgeleri hazırlayın ve sunun.",
+    "Bildirimleri süresi içinde takip edin.",
+    "İtiraz haklarınızı yasal süreler içinde kullanın."
+  ],
+  "documents": [
+    "Tapu senedi",
+    "Fotoğraf ve ilgili belgeler",
+    "Yazılı bildirim dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Dağıtımı kabul etmeyen alacaklı ne yapmalıdır?",
+      "a": "Dağıtımın kesinleştiğinin kendisine tebliğinden başlayarak **bir ay** içinde yazılı bildirimde bulunabilir."
+    },
+    {
+      "q": "Harabolan yapı kime bildirilmelidir?",
+      "a": "Yönetici tarafından tapu idaresine ve kat maliklerine derhal bildirilir."
+    },
+    {
+      "q": "Tapu idaresinin kararına nasıl itiraz edilir?",
+      "a": "Bildirimden başlayarak **bir ay** içinde mahkemeye başvurulabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tapu-devri-nasil-yapilir",
+  "angle": "Harç",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

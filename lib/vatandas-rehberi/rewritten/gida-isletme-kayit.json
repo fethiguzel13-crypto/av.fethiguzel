@@ -1,0 +1,101 @@
+{
+  "slug": "gida-isletme-kayit",
+  "title": "Gıda işletme kayıt — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Gıda işletme kayıt hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
+  "h1": "Gıda işletme kayıt",
+  "keywords": [
+    "gıda işletme kayıt",
+    "gida isletme kayit"
+  ],
+  "category": "İdare",
+  "related": [
+    "cimer-sikayet",
+    "is-yeri-acma-ruhsati",
+    "sirket-kurulusu",
+    "idari-dava-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/cimer-sikayet"
+    },
+    {
+      "label": "Belediye",
+      "href": "/kategori/belediye"
+    },
+    {
+      "label": "Mevzuat",
+      "href": "/mevzuat"
+    }
+  ],
+  "lead": "Gıda sektöründe faaliyet göstermek isteyen işletmelerin, yasal düzenlemelere uygun şekilde kayıt altına alınması zorunludur. Bu süreç, işletmenizin hijyen ve güvenlik standartlarını belgelemenizi sağlar.",
+  "keyInsight": "İşletmenizin faaliyet alanına uygun kayıt işlemlerini tamamlamadan ticari faaliyetlere başlamak, idari yaptırımlarla karşılaşmanıza neden olabilir.",
+  "sections": [
+    {
+      "heading": "İşletme kaydı neden gereklidir?",
+      "paragraphs": [
+        "Gıda üretimi veya satışı yapan her işletme, toplum sağlığını korumak adına belirli kurallara uymakla yükümlüdür. Kayıt süreci, işletmenizin denetlenebilir ve güvenli olduğunu resmileştirir.",
+        "Belediyeler ve ilgili idari birimler, işletmenizin faaliyetlerini yürüttüğü alanın imar ve sağlık şartlarına uygunluğunu bu kayıtlar üzerinden takip eder."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İmar durumu ve faaliyet alanı ilişkisi",
+      "paragraphs": [
+        "İşletmenizi açacağınız yerin imar planındaki niteliği çok önemlidir. İmar Kanunu gereğince, bulunduğunuz bölgenin kullanım amacı işletmenizin türüyle örtüşmelidir.",
+        "Eğer köy yerleşik alanında küçük ölçekli bir faaliyet yürütüyorsanız, bazı durumlarda ruhsat muafiyeti söz konusu olabilir ancak bu durum yine de sağlık ve fen kurallarına uyma zorunluluğunu ortadan kaldırmaz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Ruhsatsız faaliyetlerin sonuçları",
+      "paragraphs": [
+        "Ruhsatı olmadan veya projesine aykırı şekilde işletilen yerler tespit edildiğinde, idare tarafından mühürleme işlemi uygulanır.",
+        "Mühürlenen bir işletme için **bir ay içinde** ruhsat eksikliklerini giderme veya uygun hale getirme imkanınız bulunur. Bu süre zarfında işlem yapılmazsa, işletmenin faaliyetine son verilmesi ve yapının yıkımı gündeme gelebilir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Denetim ve uygunluk şartları",
+      "paragraphs": [
+        "İşletmenizin etüt ve projeleri, sağlık ve güvenlik standartlarına uygun olarak hazırlanmalıdır. Mühendis veya mimar tarafından imzalanan bu projeler, idarenin onayından geçmelidir.",
+        "Faaliyet gösterdiğiniz alanın yasal statüsünü korumak için, **yapı tatil tutanağı** düzenlenmesi gibi durumlarda vakit kaybetmeden yasal sürece dahil olmanız gerekir."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İşletmenizin faaliyet göstereceği yerin imar durumunu ilgili belediyeden sorgulayın.",
+    "Gerekli etüt ve projelerinizi yetkili mimar veya mühendislere hazırlatın.",
+    "İlgili idareye kayıt ve ruhsat başvurunuzu eksiksiz belgelerle yapın.",
+    "İdare tarafından yapılacak inceleme ve denetimlere hazır olun.",
+    "Onay sürecinin ardından işletme kayıt belgenizi teslim alın."
+  ],
+  "documents": [
+    "İşletme faaliyetine uygun mimari proje",
+    "İlgili mühendis veya mimar tarafından hazırlanan etüt raporu",
+    "Tapu kayıt örneği veya kira sözleşmesi",
+    "İdare tarafından talep edilen başvuru dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "Köy yerinde bakkal açmak için ruhsat gerekir mi?",
+      "a": "Köy yerleşik alanında bakkal, manav gibi temel ihtiyaçları karşılayan yapılar için özel düzenlemeler mevcuttur, ancak yine de sağlık ve fen kurallarına uyulması şarttır."
+    },
+    {
+      "q": "İşletmem mühürlenirse ne yapmalıyım?",
+      "a": "Mühürleme tarihinden itibaren en çok bir ay içinde işletmenizi ruhsata uygun hale getirerek mühürün kaldırılmasını talep etmelisiniz."
+    },
+    {
+      "q": "İmar planına itiraz süresi ne kadardır?",
+      "a": "İmar planlarının askıya çıkarıldığı tarihten itibaren bir aylık ilan süresi içinde itiraz etme hakkınız bulunmaktadır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "cimer-sikayet",
+  "angle": "Gıda işletme kayıt",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

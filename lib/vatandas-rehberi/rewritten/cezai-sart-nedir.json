@@ -1,0 +1,105 @@
+{
+  "slug": "cezai-sart-nedir",
+  "title": "Cezai şart — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Cezai şart hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
+  "h1": "Cezai şart",
+  "keywords": [
+    "cezai şart",
+    "cezai sart nedir"
+  ],
+  "category": "Borçlar",
+  "related": [
+    "temerrut-faizi-nedir",
+    "kira-sozlesmesi-nasil-yapilir",
+    "abonelik-taahhut-cezasi",
+    "hukuk-davasi-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/temerrut-faizi-nedir"
+    },
+    {
+      "label": "TBK",
+      "href": "/kategori/borclar-genel"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=cezai%20%C5%9Fart"
+    }
+  ],
+  "lead": "El sıkıştığınız bir sözleşme masasındasınız ve işler yolunda gitmezse karşı tarafın ödeyeceği tutarı baştan konuşuyorsunuz. Asıl mesele, bu kalemin sadece korkutmak için değil, kurallara uygun şekilde talep edilebilir olmasıdır.",
+  "keyInsight": "Cezai şartın geçerli olması, öncelikle dayandığı ana sözleşmenin sağlam ve usulüne uygun yapılmış olmasına bağlıdır.",
+  "sections": [
+    {
+      "heading": "Sözleşme bozulunca ne devreye girer?",
+      "paragraphs": [
+        "Bir ev, araba veya iş için imza attınız. Taraflardan biri taahhüdünü yerine getirmediğinde veya zamanında davranmadığında, aradaki güven sarsılır. İşte tam bu noktada, önceden kararlaştırılmış olan bu cayma bedeli veya ceza tutarı gündeme gelir.",
+        "Telaşla hareket edip hemen para istemek yerine, borcun gerçekten muaccel hâle gelip gelmediğine bakmalısınız. Çünkü **borçlu temerrüde düşmeden** bu cezayı talep etmek hukuken tıkanıklık yaratır."
+      ],
+      "bullets": [
+        "İmzalanan metnin geçerliliği",
+        "Zamanında yapılmayan ödemeler",
+        "Verilen sözlerin tutulmaması"
+      ]
+    },
+    {
+      "heading": "Şekil şartı atlanırsa ne olur?",
+      "paragraphs": [
+        "Her anlaşma kol kola gezilerek masada sözle bitmez. Özellikle taşınmaz satışları gibi büyük adımlarda, kanun koyucu sıkı kurallar koymuştur. Eğer asıl sözleşme resmî şekle uyulmadan yapıldıysa, içindeki cezai şart da geçerliliğini yitirir.",
+        "Özetle, temel atlamaz bir hata yapmamak için imzaladığınız kâğıdın **resmî şekilde düzenlenmiş** olması ilk kuraldır. Sakat bir temel üzerine sağlam bir ceza binası inşa edemezsiniz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Borçlu ne zaman borcunu ödemek zorunda kalır?",
+      "paragraphs": [
+        "Karşı tarafın borcunu ödemesi veya işi yapması için takvim yapraklarının doğru düşmesi gerekir. Ödeme günü taraflarca net olarak belirlenmemişse, alacaklının usulüne uygun bir **ihtar çekmesi** şarttır.",
+        "İhtar yapıldıktan sonra borçlu hâlâ adım atmıyorsa, temerrüt gerçekleşmiş sayılır ve cezai şart kapınızı çalabilir. Süreci doğru işletmek için bu uyarı aşamasını atlamamalısınız."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Yanlış adımlar süreci nasıl tıkar?",
+      "paragraphs": [
+        "Telaşla avukat kapısı çalan veya doğrudan icraya koşan pek çok insan, ellerindeki belgenin geçerliliğini kontrol etmez. Eksik bir imza veya şekil şartına uyulmamış bir sözleşme, haklıyken haksız duruma düşmenize neden olabilir.",
+        "Hak ararken sabırlı olmak ve elinizdeki kâğıdın hukuki altyapısını akrabalarınızla değil, bir uzmanla tartmak en güvenli yoldur."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "İmzaladığınız sözleşmenin aslını ve varsa eklerini önünüze alın.",
+    "Sözleşmenin kanunun aradığı resmî veya yazılı şekil şartlarına uygun taşıyıp taşımadığını inceleyin.",
+    "Borçlunun ödeme veya işi yapma gününün gelip gelmediğini kontrol edin.",
+    "Gerekli durumlarda karşı tarafa usulüne uygun bildirim veya ihtar gönderin.",
+    "Tüm belgeleri bir araya getirerek hukuki yola başvurun."
+  ],
+  "documents": [
+    "Asıl sözleşme metni",
+    "Tapu veya resmî satış belgeleri",
+    "İhtarname veya yazılı bildirimler",
+    "Ödeme dekontları ve yazışmalar"
+  ],
+  "faq": [
+    {
+      "q": "Sözlü anlaşmalarda cezai şart geçerli olur mu?",
+      "a": "Hayır, özellikle resmî şekil şartına bağlı sözleşmelerde sözlü anlaşmalar ve dolayısıyla bunlara bağlı cezai şartlar hukuken geçerli değildir."
+    },
+    {
+      "q": "Cezai şart istemek için mutlaka ihtar çekmek şart mı?",
+      "a": "Eğer sözleşmede borcun ifa edileceği gün net olarak belirlenmemişse, borçlunun temerrüde düşmesi için alacaklının bildirimi gerekir."
+    },
+    {
+      "q": "Temel sözleşme geçersizse ceza istenebilir mi?",
+      "a": "Temel sözleşme şekil şartlarına uyulmadığı için geçersizse, içindeki cezai şart hükmü de ayakta kalamaz."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "temerrut-faizi-nedir",
+  "angle": "Cezai şart",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

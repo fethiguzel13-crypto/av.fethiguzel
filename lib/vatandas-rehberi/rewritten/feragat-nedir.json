@@ -1,0 +1,113 @@
+{
+  "slug": "feragat-nedir",
+  "title": "Davadan feragat — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "Davadan feragat hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
+  "h1": "Davadan feragat",
+  "keywords": [
+    "davadan feragat",
+    "feragat nedir"
+  ],
+  "category": "Usul",
+  "related": [
+    "zamanaşimi-nedir",
+    "sulh-nedir",
+    "hukuk-davasi-nasil-acilir",
+    "islah-nedir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/zamanaşimi-nedir"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=feragat"
+    }
+  ],
+  "lead": "Mahkeme salonundasınız ve hakimin sorduğu soruyla her şeyi bitirme noktasına geldiniz. Davadan feragat, haklı veya haksız olduğunuza bakılmaksızın **talep sonucunuzdan** tamamen ya da kısmen vazgeçmenizdir.",
+  "keyInsight": "Feragat kesin bir adımdır; bir kez vazgeçtiğiniz o hak için **aynı dava** bir daha asla açılamaz.",
+  "sections": [
+    {
+      "heading": "Feragat tam olarak ne anlama gelir?",
+      "paragraphs": [
+        "Yıllardır sürdürdüğünüz bir hak arama mücadelesindesiniz. Kimi zaman yorgunluktan kimi zaman anlaşmalar sonucunda davayı bitirmek istersiniz.",
+        "İşte bu aşamada yapılan feragat, mahkemeye başvurarak talep ettiğiniz sonuçtan vazgeçtiğinizi resmen beyan etmenizdir. Bu işlemle birlikte mahkemenin sizi haklı bulup bulmayacağını tartışma konusu olmaktan çıkarırsınız."
+      ],
+      "bullets": [
+        "Talep sonucundan tamamen vazgeçilebilir.",
+        "İstense talebin bir kısmından da vazgeçilebilir."
+      ]
+    },
+    {
+      "heading": "Bu karar tutanağa nasıl geçer?",
+      "paragraphs": [
+        "Mahkeme salonunda ya da dosya üzerinden bu iradeyi göstermenin kesin usulleri vardır. Hakim, söylediğiniz sözleri ve beyanları duruşma tutanağına geçirmek zorundadır.",
+        "Beyanda bulunan kişiye okunmak ve **imzası alınmak** kaydıyla feragat beyanı tutanağa yazılır ve dosyanın resmi bir parçası haline gelir."
+      ],
+      "bullets": [
+        "Hakimin izniyle doğrudan tutanağa yazdırma imkânı vardır.",
+        "Tutanak altındaki imzanız bu iradenin kanıtıdır."
+      ]
+    },
+    {
+      "heading": "Avukatınız sizin yerinize vazgeçebilir mi?",
+      "paragraphs": [
+        "Davanızı bir vekil aracılığıyla takip ediyorsanız, avukatınızın her konuda sizin adınıza karar vereceğini düşünebilirsiniz. Ancak kanun bu konuda çok katı sınırlar çizer.",
+        "Avukatınızın davadan feragat edebilmesi için vekaletnamesinde **açıkça yetki verilmiş** olması şarttır. Özel yetki yoksa avukat sizin yerinize bu adımı atamaz."
+      ],
+      "bullets": [
+        "Genel vekaletname feragat için yetersiz kalır.",
+        "Yetki belgesinin içeriği hakim tarafından mutlaka incelenir."
+      ]
+    },
+    {
+      "heading": "Geri dönüşü olmayan yolun sonu",
+      "paragraphs": [
+        "Telaşla veya anlık bir kararla verilen bu imza, sonradan pişman olsanız bile dosyayı eski haline getirmez. Hakimin bunu onaylamasıyla birlikte dosya kapanır.",
+        "Bu nedenle kararınızı vermeden önce **karşı tarafın durumunu** ve hak kaybınızı iyi tartmanız gerekir. Bir kez vazgeçtiğiniz hakka tekrar kavuşma şansınız kalmaz."
+      ],
+      "bullets": [
+        "Onaylanan feragat hüküm gibidir.",
+        "Aynı konuda yeniden dava açma kapısı kapanır."
+      ]
+    }
+  ],
+  "steps": [
+    "Mahkeme dosyasındaki taleplerinizi gözden geçirin.",
+    "Feragat iradenizi netleştirin ve gerekçesini tartın.",
+    "Vekiliniz varsa vekaletnamesindeki özel yetkiyi kontrol edin.",
+    "Duruşmada veya dilekçeyle feragat beyanınızı iletin.",
+    "Beyanınızın tutanağa geçmesini ve imzalanmasını sağlayın."
+  ],
+  "documents": [
+    "Mahkeme dava dosyası",
+    "Avukatlık vekaletnamesi özel yetki bölümü",
+    "Duruşma tutanağı",
+    "Kimlik belgesi"
+  ],
+  "faq": [
+    {
+      "q": "Feragat ettikten sonra aynı davayı tekrar açabilir miyim?",
+      "a": "Hayır, feragat kesin bir sonçtur ve aynı taleple bir daha dava açamazsınız."
+    },
+    {
+      "q": "Avukatım benden habersiz feragat edebilir mi?",
+      "a": "Vekaletnamede açık ve özel yetki yoksa avukatınız sizin yerinize davadan feragat edemez."
+    },
+    {
+      "q": "Feragat etmek için mutlaka duruşmaya gitmek şart mı?",
+      "a": "Beyanlar duruşmada tutanağa geçirilebileceği gibi, usulüne uygun yazılı dilekçeyle de yapılabilir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "zamanaşimi-nedir",
+  "angle": "Davadan feragat",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

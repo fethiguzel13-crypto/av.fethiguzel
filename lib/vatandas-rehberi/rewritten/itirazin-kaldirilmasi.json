@@ -1,0 +1,112 @@
+{
+  "slug": "itirazin-kaldirilmasi",
+  "title": "İtirazın Kaldırılması (İcra) | Vatandaş Rehberi",
+  "description": "İtirazın kaldırılması nasıl istenir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
+  "h1": "İtirazın kaldırılması nasıl istenir?",
+  "keywords": [
+    "itirazın kaldırılması",
+    "kesin itirazın kaldırılması"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "odeme-emrine-itiraz",
+    "senet-icra-takibi",
+    "itirazin-iptali-davasi"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=itiraz%C4%B1n%20kald%C4%B1r%C4%B1lmas%C4%B1"
+    }
+  ],
+  "lead": "Borçlunuz icra takibine itiraz ettiğinde, alacağınızı tahsil etmek için **itirazın kaldırılmasını** talep edebilirsiniz. Bu süreç, elinizdeki belgelerin gücüne dayanarak takibin kaldığı yerden devam etmesini sağlar.",
+  "keyInsight": "Adi kira takiplerinde, itirazın tebliği tarihinden itibaren **altı ay içinde** itirazın kaldırılmasını istemezseniz, aynı alacaktan dolayı bir daha ilamsız icra yoluyla takip yapamazsınız.",
+  "sections": [
+    {
+      "heading": "Ödeme emrine itiraz gelince ne olur?",
+      "paragraphs": [
+        "Borçlu, gönderilen ödeme emrine karşı süresi içinde icra dairesine giderek borca veya imza durumuna itiraz edebilir. Bu itiraz, devam eden icra takibini doğrudan durdurur ve alacaklı olarak sizin elinizi kolunuzu bağlar.",
+        "İtiraz dilekçesi size hemen tebliğ olunur. Bu aşamada duran takibi yeniden hareket geçirmek ve borçlunun direncini kırmak için belirli yollara başvurmanız gerekir."
+      ],
+      "bullets": [
+        "İtiraz takibi durdurur.",
+        "İtiraz size tebliğ edilir."
+      ]
+    },
+    {
+      "heading": "İhtiyati haciz ve takip zorunluluğu nedir?",
+      "paragraphs": [
+        "Dava açılmadan veya icra takibine başlanmadan evvel ihtiyati haciz yaptırmış olan alacaklının belirli kurallara uyması şarttır. Haczin tatbikinden veya tutanağın kendisine tebliğinden itibaren **yedi gün içinde** takip talebinde bulunmaya veya dava açmaya mecburdur.",
+        "İcra takibi sırasında borçlu ödeme emrine itiraz ederse, alacaklı tebliğ tarihinden itibaren **yedi gün içinde** icra mahkemesinden itirazın kaldırılmasını istemeye veya mahkemede dava açmaya mecburdur."
+      ],
+      "bullets": [
+        "Hacizden sonra yedi gün içinde takip veya dava açılmalıdır.",
+        "İtiraz üzerine yedi gün içinde mahkemeye başvurulmalıdır."
+      ]
+    },
+    {
+      "heading": "Adi kira takiplerinde süre sınırı nedir?",
+      "paragraphs": [
+        "Takip adi kiralara veya hasılat kiralarına ilişkinse, borçlu yedi gün içinde itiraz sebeplerini icra dairesine bildirmeye mecburdur. Borçlu itirazında kira akdini ve varsa imzasını açık ve kesin olarak reddetmezse, akdi kabul etmiş sayılır.",
+        "İtirazın tebliği tarihinden itibaren **altı ay içinde** itirazın kaldırılmasını istemeyen alacaklı, bir daha aynı alacaktan dolayı ilamsız icra yoluyla takip yapamaz. Borçlar Kanunu hükümlerine göre altı günlük mühletin bitiminde akdin feshe müsaade ettiği hallerde itiraz müddeti üç gündür."
+      ],
+      "bullets": [
+        "Kira sözleşmesindeki imza açıkça reddedilmelidir.",
+        "Altı aylık süre hak düşürücüdür."
+      ]
+    },
+    {
+      "heading": "Karar reddedilirse ne yapılmalıdır?",
+      "paragraphs": [
+        "İcra mahkemesi, itirazın kaldırılması talebini reddederse alacaklının kararın tefhim veya tebliği tarihinden itibaren **yedi gün içinde** dava açması lazımdır.",
+        "Bu süreleri geçiren, davasından veya takip talebinden vazgeçen alacaklılar açısından ihtiyati haciz hükümsüz kalır ve güvenceler ortadan kalkar."
+      ],
+      "bullets": [
+        "Ret kararından sonra yedi gün içinde dava açılmalıdır.",
+        "Süreler geçirilirse ihtiyati haciz hükümsüz kalır."
+      ]
+    }
+  ],
+  "steps": [
+    "Borçlunun itiraz dilekçesinin size tebliğ edilmesini bekleyin.",
+    "Tebliğ tarihinden itibaren yedi günlük yasal süreyi takip edin.",
+    "İcra mahkemesine başvurarak itirazın kaldırılmasını talep edin.",
+    "Gerekirse süresi içinde genel mahkemede alacak davası açın."
+  ],
+  "documents": [
+    "Ödeme emri ve borçlunun itiraz dilekçesi",
+    "Tebligat mazbatası",
+    "Kira sözleşmesi veya alacağı gösterir belgeler",
+    "İcra mahkemesi başvuru evrakı"
+  ],
+  "faq": [
+    {
+      "q": "İtiraz takibi tamamen iptal eder mi?",
+      "a": "Hayır, itiraz sadece takibi durdurur. Alacağınızı alabilmek için itirazın kaldırılması veya iptali için yasal yollara başvurmanız gerekir."
+    },
+    {
+      "q": "Kira takiplerinde itirazı kaldırmazsam ne olur?",
+      "a": "İtirazın tebliği tarihinden itibaren altı ay içinde itirazın kaldırılmasını istemezseniz, aynı alacaktan dolayı bir daha ilamsız icra yoluyla takip yapamazsınız."
+    },
+    {
+      "q": "İcra mahkemesi talebi reddederse ne yapmalıyım?",
+      "a": "İcra mahkemesi talebi reddederse, kararın tefhim veya tebliği tarihinden itibaren yedi gün içinde mahkemede dava açmanız gerekir."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "İtirazın kaldırılması",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

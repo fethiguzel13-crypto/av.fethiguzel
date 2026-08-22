@@ -1,0 +1,98 @@
+{
+  "slug": "icra-taahudu",
+  "title": "İcra taahhüdü nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+  "description": "İcra taahhüdü nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
+  "h1": "İcra taahhüdü nedir?",
+  "keywords": [
+    "icra taahhüdü",
+    "ödeme taahhüdü icra"
+  ],
+  "category": "İcra",
+  "related": [
+    "icra-takibi-nedir",
+    "icra-borcu-yapislandirma",
+    "haciz-nasil-kaldirilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/icra-takibi-nedir"
+    },
+    {
+      "label": "İİK",
+      "href": "/kategori/iik"
+    },
+    {
+      "label": "Ara",
+      "href": "/ara?q=taahh%C3%BCt"
+    }
+  ],
+  "lead": "İcra taahhüdü, borcunuzu taksitler halinde ödemeyi kabul ederek icra işlemlerini durdurmanızı sağlayan resmi bir sözleşmedir. Bu işlemle borcunuzun taksitlendirilmesini sağlayarak haciz baskısını geçici olarak üzerinizden atarsınız.",
+  "keyInsight": "Taahhüdü yerine getirmezseniz, duran icra işlemleri kaldığı yerden devam eder ve hakkınızda hapsen tazyik süreci başlayabilir.",
+  "sections": [
+    {
+      "heading": "İcra taahhüdü nedir?",
+      "paragraphs": [
+        "Kapınıza icra memuru geldiğinde veya bir borç nedeniyle icra dairesiyle karşılaştığınızda, borcun tamamını hemen ödeyemeyebilirsiniz. İcra taahhüdü, borçlu olarak alacaklıya borcu belirli taksitlerle ödeyeceğinizi resmi bir tutanakla beyan etmenizdir.",
+        "Bu sözleşme, alacaklının satış talebinde bulunmasını engeller ve icra işlemlerini durdurur. Ancak bunun için borçlunun yeterli miktarda malının haczedilmiş olması ve ilk taksitin hemen ödenmesi gerekir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Taksitler nasıl belirlenir?",
+      "paragraphs": [
+        "Taahhüt yaparken taksitlerin miktarı rastgele belirlenemez. Her bir taksit, toplam borcun en az dörtte biri oranında olmalıdır.",
+        "Taksitler mutlaka aylık dönemler halinde ödenmelidir. Ayrıca belirlenen toplam ödeme süresi üç ayı geçmemelidir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "İşlemler ne zaman durur?",
+      "paragraphs": [
+        "Borçlu ve alacaklı icra dairesinde taksitlendirme için anlaştığında, haciz işlemlerine ilişkin süreler işlememeye başlar. Bu sayede borçlu, mal varlığını koruma altına alarak borcunu düzenli ödeme fırsatı bulur.",
+        "Sözleşme süresi on yılı aşarsa, süreler kaldığı yerden yeniden işlemeye başlar. Bu yüzden taahhüdün şartlarına uymak, sürecin devamlılığı için kritiktir."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Taksitleri kaçırırsanız ne olur?",
+      "paragraphs": [
+        "Taahhüt ettiğiniz taksitlerden birini bile zamanında ödemezseniz, icra dairesindeki duraklama sona erer. İcra işlemleri, hiçbir uyarıya gerek kalmaksızın kaldığı yerden devam eder.",
+        "Bu durum, haciz işlemlerinin hızlanmasına ve borcun tamamı için cebri icra yollarına başvurulmasına neden olur."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "Alacaklı ile icra dairesinde bir araya gelin.",
+    "Borcun dörtte biri oranındaki ilk taksiti derhal ödeyin.",
+    "Aylık taksit planını tutanağa geçirtin.",
+    "Taksitleri düzenli olarak icra dairesine yatırın."
+  ],
+  "documents": [
+    "İcra dairesi tarafından düzenlenen taksitlendirme tutanağı",
+    "İlk taksitin ödendiğine dair banka veya icra dairesi makbuzu",
+    "Kimlik belgeniz"
+  ],
+  "faq": [
+    {
+      "q": "Taahhüt için damga vergisi ödemem gerekiyor mu?",
+      "a": "Hayır, icra dairesinde düzenlenen bu tür tutanaklar damga vergisinden istisnadır."
+    },
+    {
+      "q": "Taksitleri üç aydan uzun süreye yayabilir miyim?",
+      "a": "Kanun, taahhüt sürecinin üç ayı geçmemesini şart koşmaktadır."
+    },
+    {
+      "q": "Taahhüdü ihlal edersem ne yaşarım?",
+      "a": "İcra işlemleri kaldığı yerden devam eder ve haciz süreçleri hızla tekrar başlar."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "icra-takibi-nedir",
+  "angle": "Ödeme taahhüdü",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

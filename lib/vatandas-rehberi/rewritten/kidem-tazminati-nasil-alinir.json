@@ -1,0 +1,132 @@
+{
+  "slug": "kidem-tazminati-nasil-alinir",
+  "title": "Kıdem Tazminatı: Kimler Hak Kazanır, Nasıl Hesaplanır?",
+  "description": "Kıdem tazminatına hangi hâllerde hak kazanılır, 30 günlük ücret neyi kapsar, tavan nedir, zamanaşımı kaç yıl? 1475 sayılı Kanun m.14 ve 4857 sayılı Kanun çerçevesinde.",
+  "h1": "Kıdem tazminatı nasıl alınır?",
+  "keywords": [
+    "kıdem tazminatı",
+    "kıdem tazminatı hesaplama",
+    "kıdem tazminatı şartları",
+    "kıdem tazminatı tavanı",
+    "istifa kıdem tazminatı",
+    "kıdem tazminatı zamanaşımı"
+  ],
+  "category": "İş",
+  "related": [
+    "issizlik-maasi-sartlari"
+  ],
+  "links": [
+    {
+      "label": "1475 sayılı Kanun m.14 — Kıdem tazminatı",
+      "href": "/mevzuat/is-kanunu-1475/madde-14"
+    },
+    {
+      "label": "İş K. m.24 — İşçinin haklı nedenle feshi",
+      "href": "/mevzuat/is-kanunu/madde-24"
+    },
+    {
+      "label": "İş K. m.25 — İşverenin haklı nedenle feshi",
+      "href": "/mevzuat/is-kanunu/madde-25"
+    },
+    {
+      "label": "İş K. m.120 — 1475 m.14’ün yürürlüğü",
+      "href": "/mevzuat/is-kanunu/madde-120"
+    },
+    {
+      "label": "Kıdem tazminatı hesaplama aracı",
+      "href": "/hesaplama/kidem"
+    }
+  ],
+  "lead": "Kıdem tazminatı, iş yerinde en az bir yıl çalışmış işçinin kanunda belirtilen haklı veya geçerli sebeplerle işten ayrılması durumunda her yıl için 30 günlük giydirilmiş ücreti tutarında yapılan toplu ödemedir. Tazminatın doğmasında belirleyici olan ne kadar çalıştığınız değil, iş sözleşmenizin nasıl ve hangi hukuki sebeple sona erdiğidir. Kural olarak kendi isteğiyle sebepsiz istifa eden işçi kıdem tazminatı alamaz.",
+  "keyInsight": "Kıdem tazminatına hak kazanmanın kilit şartı, ayrılığın kanunda açıkça sayılan fesih türlerinden birine dayanması ve bu sebebin işten ayrılmadan önce yazılı olarak belgelenmesidir.",
+  "sections": [
+    {
+      "heading": "Hangi hâllerde kıdem tazminatına hak kazanırsınız?",
+      "paragraphs": [
+        "İşten ayrıldınız ya da çıkarıldınız. Buradaki ilk kural, ayrılığın hangi gerekçeyle gerçekleştiğidir. İşveren sizi **ahlak ve iyiniyet kurallarına aykırılık** dışındaki bir sebeple işten çıkarmışsa kıdem tazminatınız derhal doğar.",
+        "Kendi isteğinizle ayrılmanız da her zaman hakkınızı kaybettiğiniz anlamına gelmez. Ücretinizin ödenmemesi, çalışma şartlarının uygulanmaması, sağlık problemleri veya iş yerinde tacize uğramanız gibi haklı nedenlerle sözleşmeyi feshederseniz yine tazminat alabilirsiniz. Bunun yanında kanun; askerlik, emeklilik, prim gününü tamamlayıp yaş bekleme ve kadın işçinin evlendiği tarihten itibaren **bir yıl içinde** işten ayrılması durumlarında da tazminat hakkı tanır. İşçinin ölümü hâlinde ise bu ödeme kanuni mirasçılarına yapılır."
+      ],
+      "bullets": [
+        "İşverenin haklı sebep (m.25/II) dışındaki fesihleri",
+        "İşçinin sağlık veya ahlaka aykırılık gibi haklı nedenlerle (m.24) feshi",
+        "Muvazzaf askerlik hizmeti",
+        "Emeklilik, malullük aylığı veya toptan ödeme alma hâli",
+        "Sigortalılık süresi ve prim gününü doldurup yaşı bekleme",
+        "Kadın çalışanın evlilikten itibaren bir yıl içinde ayrılması"
+      ]
+    },
+    {
+      "heading": "Kıdem süresi ve işyeri devri nasıl değerlendirilir?",
+      "paragraphs": [
+        "Kıdem süreniz hesaplanırken aynı işverene bağlı olarak geçirdiğiniz bütün çalışmalar dikkate alınır. Sözleşmenizin aralıklarla yeniden yapılmış olması veya işverenin farklı şubelerinde görev yapmış olmanız kıdeminizi bölmez; sürelerin tamamı toplanır.",
+        "İş yerinin devredilmesi veya el değiştirmesi durumunda da kazanılmış haklarınız sıfırlanmaz. Kıdeminiz tüm çalışma süreniz üzerinden hesaplanır ve **her iki işveren** işlemiş kıdem tazminatından sorumlu tutulur. Ancak devreden önceki işverenin sorumluluğu, işçiyi çalıştırdığı süre ve devir tarihindeki ücret düzeyiyle sınırlıdır."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hesaplama hangi ücret üzerinden yapılır?",
+      "paragraphs": [
+        "Kıdem tazminatı hesabı son brüt ücretiniz esas alınarak yapılır. Ancak hesap yalnızca çıplak maaşla sınırlı değildir; yol, yemek, düzenli prim, yakacak yardımı gibi süreklilik arz eden para ve para ile ölçülebilir tüm menfaatler hesaba eklenir. Buna **giydirilmiş ücret** denir.",
+        "Ücretiniz tavanı aşmıyorsa hesap doğrudan giydirilmiş brüt ücretiniz üzerinden yürütülür. Bordroda sadece çıplak ücrete bakılarak yapılan hesaplamalar pratikte tazminatınızın eksik ödenmesine neden olur."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Tavan sınırı ve gecikme faizi nedir?",
+      "paragraphs": [
+        "Kıdem tazminatının yıllık tutarı sınırsız değildir. Yıllık miktar, en yüksek Devlet memuruna bir hizmet yılı için ödenecek **azami emeklilik ikramiyesini** aşamaz. Bu tavan her yıl memur maaş katsayılarına göre güncellenir ve feshin gerçekleştiği andaki resmi tavan uygulanır.",
+        "Tazminatınızın zamanında ödenmemesi durumunda açılacak davada mahkeme, gecikilen süre için **mevduata uygulanan en yüksek faizin** ödenmesine hükmeder."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hakkınızı aramak için ne kadar vaktiniz var?",
+      "paragraphs": [
+        "Kıdem tazminatında zamanaşımı süresi fesih tarihinden itibaren **beş yıldır**. Beş yıllık süre uzun görünse de delillerin kaybolmaması ve şahitlerin bulunabilmesi adına süreci geciktirmemek gerekir.",
+        "Tazminatınızı alamadığınızda doğrudan dava açamazsınız; iş hukukundan kaynaklanan bu uyuşmazlıkta öncelikle **arabuluculuk** yoluna başvurulması kanunen dava şartıdır."
+      ],
+      "bullets": []
+    }
+  ],
+  "steps": [
+    "SGK hizmet dökümünüzü alarak işe giriş ve çıkış tarihlerinizi netleştirin.",
+    "Ayrılık gerekçenizi netleştirip fesih bildirimini noter veya yazılı tebligat yoluyla işverene iletin.",
+    "Son bir yıla ait bordro, yol, yemek ve düzenli ikramiye belgelerinizi toplayarak giydirilmiş brüt ücretinizi belirleyin.",
+    "Fesih tarihindeki kıdem tazminatı tavanını dikkate alarak alacağınızı hesaplayın.",
+    "İşveren ödeme yapmazsa dava şartı olan arabuluculuk bürosuna başvurun."
+  ],
+  "documents": [
+    "SGK hizmet dökümü ve işe giriş-çıkış bildirgeleri",
+    "Fesih bildirimi veya haklı fesih ihtarname sureti",
+    "Son bir yıla ait ücret bordroları ve hesap pusulaları",
+    "Yol, yemek, prim gibi yan hakları gösteren banka dökümleri veya belgeler",
+    "Evlilik cüzdanı, askerlik sevk belgesi veya SGK emeklilik yazısı"
+  ],
+  "faq": [
+    {
+      "q": "İstifa edersem kıdem tazminatı alabilir miyim?",
+      "a": "Kural olarak kendi isteğiyle istifa eden işçi tazminat alamaz. Ancak ücretin ödenmemesi gibi haklı fesih nedenleri, askerlik, emeklilik, yaş dışında prim gününü tamamlama veya evlenen kadının bir yıl içinde ayrılması durumlarında istifa edilse dahi tazminat hakkı doğar."
+    },
+    {
+      "q": "Kıdem tazminatı için en az ne kadar çalışmak gerekir?",
+      "a": "Aynı işverene bağlı iş yerlerinde en az bir tam yıl çalışmış olmanız gerekir. Bir yıldan artan süreler de gün hesabı üzerinden orantılı olarak tazminata eklenir."
+    },
+    {
+      "q": "Yol ve yemek parası tazminat hesabına dahil edilir mi?",
+      "a": "Evet. Kıdem tazminatı hesabında çıplak ücrete ek olarak işçiye düzenli sağlanan yol, yemek ve ikramiye gibi tüm menfaatler giydirilmiş ücret hesabına katılır."
+    },
+    {
+      "q": "İşveren tazminatı ödemezse faiz oranı ne olur?",
+      "a": "Ödemenin gecikmesi hâlinde açılacak davada kanun gereği mevduata uygulanan en yüksek faiz işletilir."
+    },
+    {
+      "q": "Kıdem tazminatı zamanaşımı süresi kaç yıldır?",
+      "a": "Kıdem tazminatı alacaklarında zamanaşımı süresi iş sözleşmesinin feshedildiği tarihten itibaren beş yıldır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "sitemapPriority": 0.96,
+  "voice": "narrative",
+  "source": "gemini"
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "elektronik-tebligat",
+  "title": "e-Tebligat Ne Zaman Tebliğ Sayılır? | Vatandaş Rehberi",
+  "description": "Elektronik tebligat (e-tebligat) nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı.…",
+  "h1": "Elektronik tebligat (e-tebligat) nedir?",
+  "keywords": [
+    "e-tebligat",
+    "UETS",
+    "elektronik tebligat ne zaman"
+  ],
+  "category": "Usul",
+  "related": [
+    "tebligat-usulsuzlugu",
+    "odeme-emrine-itiraz",
+    "idari-dava-nasil-acilir"
+  ],
+  "links": [
+    {
+      "label": "Ana rehber (tam süreç)",
+      "href": "/bilgi/tebligat-usulsuzlugu"
+    },
+    {
+      "label": "Tebligat",
+      "href": "/kategori/tebligat"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Elektronik tebligat; kamu kurumları, avukatlar ve şirketler başta olmak üzere belirli kişilere resmî evrakların dijital ortamda gönderilmesini sağlayan zorunlu bir sistemdir. Belgeler Ulusal Elektronik Tebligat Sistemi üzerinden iletilir ve postaya göre farklı bir zaman kuralına tabidir.",
+  "keyInsight": "Elektronik yolla yapılan tebligat, muhatabın elektronik adresine ulaştığı tarihi izleyen **beşinci günün sonunda** yapılmış sayılır; mesajı hiç açmamış olmanız bu süreyi durdurmaz.",
+  "sections": [
+    {
+      "heading": "Kimler bu sistemi kullanmak zorunda?",
+      "paragraphs": [
+        "Posta kutunuza gelen resmî evrakları beklerken kimlerin bu dijital ağa dahil olduğunu bilmeniz gerekir. Kamu idareleri, mahalli idareler, özel kanunla kurulan kamu kurumları ve fonlar bu sistemin içindedir.",
+        "Ayrıca kamu iktisadi teşebbüsleri, sermayesinin yüzde ellisinden fazlası kamuya ait ortaklıklar, meslek kuruluşları ve tüm özel hukuk tüzel kişileri tebligatı elektronik yolla almak zorundadır.",
+        "Noterler, baro levhasına yazılı avukatlar, sicile kayıtlı arabulucular ve bilirkişiler de bu zorunluluğun kapsamındadır."
+      ],
+      "bullets": [
+        "Kamu idareleri ve özel hukuk tüzel kişileri",
+        "Avukatlar, arabulucular ve bilirkişiler",
+        "Talebi hâlinde diğer gerçek ve tüzel kişiler"
+      ]
+    },
+    {
+      "heading": "Adres nasıl oluşturulur ve yürütülür?",
+      "paragraphs": [
+        "Sistem Posta ve Telgraf Teşkilatı Anonim Şirketi tarafından kurulur ve işletilir. Adres oluşturulurken gerçek kişiler için kimlik numarası, tüzel kişiler için sistem numarası esas alınır.",
+        "Oluşturulan bu adres sadece bir tane olacak şekilde sisteme kaydedilir. Kapsam dışındaki kişilere ise ancak talep etmeleri hâlinde elektronik tebligat adresi verilir."
+      ],
+      "bullets": [
+        "Tek bir adres kaydı",
+        "PTT güvencesi",
+        "Sistem numarası esası"
+      ]
+    },
+    {
+      "heading": "Tebligat ne zaman yapılmış sayılır?",
+      "paragraphs": [
+        "Evrakın sisteme yüklenmesi ve adresinize gelmesi tek başına yetmez. Kanun, evrakın muhatabın elektronik adresine ulaştığı tarihi izleyen **beşinci günün sonunda** tebliğin gerçekleştiğini kabul eder.",
+        "Zorunlu bir sebeple elektronik yolla tebligat yapılamaması hâlinde, kanunda belirtilen diğer usullerle tebligat yoluna gidilir."
+      ],
+      "bullets": [
+        "Ulaştığı tarihi izleyen beşinci gün",
+        "Zorunlu sebep istisnası"
+      ]
+    },
+    {
+      "heading": "Gelen kutusuna bakmamak korur mu?",
+      "paragraphs": [
+        "Bildirimi görmemiş veya mesajı açmamış olmak sürenin işlemesini engellemez. Sistem üzerindeki otomatik süreler, sizin ekranı tıklayıp tıklamadığınıza bakmaksızın işlemeye başlar.",
+        "Hak kayıpları yaşamamak için sisteme tanımlı adresinizi ve gelen kutunuzu düzenli aralıklarla kontrol etmeniz şarttır."
+      ],
+      "bullets": [
+        "Açmama süreyi durdurmaz",
+        "Düzenli kontrol zorunluluğu"
+      ]
+    }
+  ],
+  "steps": [
+    "e-Tebligat adresinizin açık ve erişilebilir olup olmadığını kontrol edin.",
+    "Ulusal Elektronik Tebligat Sistemi gelen kutunuza düzenli olarak bakın.",
+    "Evrakın sisteme ulaştığı tarihi sistem kaydından tespit edin.",
+    "Süreleri bu tarihi izleyen beşinci günün sonundan itibaren hesaplayın.",
+    "Usulsüzlük iddiasını somut sistem kayıtlarına dayandırarak ilgili mercie bildirin."
+  ],
+  "documents": [
+    "e-tebligat kayıt raporu",
+    "sistem ekran çıktısı",
+    "itiraz veya başvuru dilekçesi"
+  ],
+  "faq": [
+    {
+      "q": "e-Tebligat mesajını açmazsam tebliğ edilmemiş sayılır mı?",
+      "a": "Hayır. Elektronik yolla yapılan tebligat, muhatabın elektronik adresine ulaştığı tarihi izleyen beşinci günün sonunda yapılmış sayılır."
+    },
+    {
+      "q": "Kimler elektronik tebligat almak zorundadır?",
+      "a": "Kamu kurumları, özel hukuk tüzel kişileri, noterler, avukatlar, arabulucular, bilirkişiler ve kanunla belirlenen diğer kurum ve meslek mensupları zorunludur."
+    },
+    {
+      "q": "Zorunlu bir sebeple sistem çalışmazsa ne olur?",
+      "a": "Elektronik yolla tebligatın zorunlu bir sebeple yapılamaması hâlinde, kanunda belirtilen diğer usullerle tebligat yapılır."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "spoke",
+  "pillar": "tebligat-usulsuzlugu",
+  "angle": "e-Tebligat",
+  "sitemapPriority": 0.62,
+  "voice": "narrative",
+  "source": "gemini"
+}

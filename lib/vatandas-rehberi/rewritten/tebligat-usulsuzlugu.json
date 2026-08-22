@@ -1,0 +1,116 @@
+{
+  "slug": "tebligat-usulsuzlugu",
+  "title": "Tebligat Usulsüzlüğü Nedir? Ne Yapılır?",
+  "description": "Tebligat usulsüzlüğü nedir? Ne yapılmalı? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portal…",
+  "h1": "Tebligat usulsüzlüğü nedir? Ne yapılmalı?",
+  "keywords": [
+    "tebligat usulsüzlüğü",
+    "usulsüz tebligat",
+    "e-tebligat"
+  ],
+  "category": "Usul",
+  "related": [
+    "elektronik-tebligat",
+    "tebligat-kanunu-nedir",
+    "usulsuz-tebligat-ogrenme",
+    "e-tebligat-acmamak",
+    "odeme-emri-tebligi",
+    "odeme-emrine-itiraz",
+    "hukuk-davasi-nasil-acilir",
+    "icra-takibi-nedir"
+  ],
+  "links": [
+    {
+      "label": "Tebligat",
+      "href": "/kategori/tebligat"
+    },
+    {
+      "label": "HMK",
+      "href": "/kategori/hmk"
+    }
+  ],
+  "lead": "Posta kutusunda ya da telefonda ansızın beliren bir resmî kâğıt, bütün planlarınızı altüst edebilir. Tebligat usulsüzlüğü, bu evrakın kanunda yazılı kurallara uyulmadan size ulaştırılmasıdır ve hak kaybı yaşamamak için hemen harekete geçmeniz gerekir.",
+  "keyInsight": "Usulsüz tebligatta yasal süreler tebliğ gününden değil, **asıl öğrenme** tarihinden itibaren işlemeye başlar.",
+  "sections": [
+    {
+      "heading": "Ne zaman hak doğar?",
+      "paragraphs": [
+        "Kapınıza gelen evrak size değil de evdeki başka birine imza karşılığı bırakılmışsa veya adrese yanlış teslim yapılmışsa süreç başlar. Mahkemeler veya idari kurumlar tarafından yapılan bildirimlerin yasaya tam uygun olması şarttır.",
+        "Eğer e-posta veya dijital kanallardan yapılan bildirimlerde teknik kurallara uyulmamışsa veya imzasız kâğıtlar evinize atılmışsa **usulsüz tebligat** iddiası gündeme gelir. Bu durum sizin savunma hakkınızı korumanız için ilk adımdır."
+      ],
+      "bullets": [
+        "Yanlış adrese bırakılan evraklar",
+        "Ehliyetsiz kişilere yapılan teslimler",
+        "Eksik veya hatalı dijital bildirimler"
+      ]
+    },
+    {
+      "heading": "Süreyi kaçırınca ne olur?",
+      "paragraphs": [
+        "Bildirim usulsüz olsa bile evrakın içeriğinden haberdar olduğunuz anı göz ardı etmemelisiniz. İçeriği öğrendiğiniz hâlde uzun süre sessiz kalırsanız, kurumlar tebligatın geçerli olduğunu kabul edebilir.",
+        "Kanunlar açıkça belirtmese de, **gecikmeden** itiraz etmek ve durumu resmi olarak bildirmek hak kaybını önler. Sürecin sonunda mahkeme veya ilgili merci yeni bir değerlendirme yapar."
+      ],
+      "bullets": [
+        "Öğrenme tarihinin belgelenmesi",
+        "İtiraz dilekçesinin zamanında verilmesi"
+      ]
+    },
+    {
+      "heading": "Yanınızda ne dursun?",
+      "paragraphs": [
+        "Hakkınızda yapılan bildirimin hatalı olduğunu kanıtlamak için elinizde bazı belgelerin bulunması şarttır. Postacının bıraktığı kağıt parçası veya zarf üzerindeki **mazbata** en önemli delildir.",
+        "Ayrıca evrakı hangi tarihte ve hangi yolla gördüğünüzü gösteren delilleri toplamak dosyanızı güçlendirir. Resmi kayıtlardaki adres bilgileriniz de bu aşamada incelenir."
+      ],
+      "bullets": [
+        "Tebligat zarfı ve mazbatası",
+        "Güncel adres kayıt belgesi",
+        "Öğrenme tarihini kanıtlayan evrak"
+      ]
+    },
+    {
+      "heading": "Adım adım ne yapmalı?",
+      "paragraphs": [
+        "Telaşa kapılmadan önce evrakın size nasıl ulaştığını ve kim tarafından teslim alındığını inceleyin. Hatalı bir durum fark ettiğinizde zaman kaybetmeden yetkili mercie başvurun.",
+        "Bildirimin usulüne uygun yapılmadığını ve **gerçek öğrenme** tarihinizi dilekçenizde açıkça belirtin. Süreç boyunca resmi makamların talimatlarına dikkat edin."
+      ],
+      "bullets": [
+        "Evrakı ve mazbatayı inceleyin",
+        "İtiraz dilekçesini hazırlayın",
+        "İlgili mercie başvurun"
+      ]
+    }
+  ],
+  "steps": [
+    "Tebliğ evrakını ve mazbatayı isteyin.",
+    "Adres, imza, muhatap ve usul hatalarını işaretleyin.",
+    "Gerçek öğrenme tarihini yazılı sabitleyin.",
+    "İlgili mercie usulsüzlük iddiasını bildirin.",
+    "Sürelerin öğrenme tarihinden işlemesini talep edin."
+  ],
+  "documents": [
+    "tebligat mazbatası",
+    "adres kaydı",
+    "öğrenme delili",
+    "dilekçe"
+  ],
+  "faq": [
+    {
+      "q": "Tebligatı imza etmesem de geçerli sayılır mı?",
+      "a": "Kanuni şartlara uyulmadan yapılan teslimler usulsüz sayılır; ancak içeriği öğrendiğiniz an itibarıyla harekete geçmeniz gerekir."
+    },
+    {
+      "q": "e-Tebligat açılmadığında ne olur?",
+      "a": "Dijital bildirimlerde sistem kuralları geçerlidir; mesajın iletildiği ve kanuni sürelerin işlemeye başladığı anlar mevzuata göre belirlenir."
+    },
+    {
+      "q": "Usulsüz tebligata nereye itiraz edilir?",
+      "a": "Bildirimi çıkaran mahkemeye, icra dairesine veya ilgili resmi kuruma yazılı dilekçe ile başvurulur."
+    }
+  ],
+  "updated": "2026-08-22",
+  "role": "pillar",
+  "pillar": "tebligat-usulsuzlugu",
+  "sitemapPriority": 0.95,
+  "voice": "narrative",
+  "source": "gemini"
+}
