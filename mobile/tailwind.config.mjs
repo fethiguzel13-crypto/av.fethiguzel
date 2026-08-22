@@ -30,11 +30,25 @@ export default {
         // Flavor vurgusu CSS değişkeninden gelir (app-src/src/app.css)
         brand: 'var(--brand)',
         'brand-dark': 'var(--brand-dark)',
+        /*
+          Mürekkep basamakları — ölçülmüş kontrastla.
+          Krem zeminde: ink 12,4:1 · ink-2 6,8:1 · ink-3 4,9:1
+          ink-4 METİN İÇİN DEĞİLDİR (2,9:1); çizgi ve pasif ikon içindir.
+        */
+        ink: 'var(--ink-1)',
+        'ink-2': 'var(--ink-2)',
+        'ink-3': 'var(--ink-3)',
+        'ink-4': 'var(--ink-4)',
+        kagit: 'var(--kagit)',
+        tel: 'var(--tel)',
+        bolum: 'var(--bolum)',
       },
       fontFamily: {
         sans: ['"Plus Jakarta Sans"', 'system-ui', '-apple-system', 'Segoe UI', 'sans-serif'],
         heading: ['Outfit', 'system-ui', 'sans-serif'],
         drama: ['"Cormorant Garamond"', 'Georgia', 'serif'],
+        // Kanun ve karar metni — arayüzden ayrışsın diye serif
+        serif: ['Lora', 'Georgia', '"Times New Roman"', 'serif'],
         mono: ['"IBM Plex Mono"', 'ui-monospace', 'monospace'],
       },
       boxShadow: {

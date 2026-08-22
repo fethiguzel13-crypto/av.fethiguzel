@@ -5,6 +5,7 @@ import TrustBar from '@/components/TrustBar';
 import CredentialsStrip from '@/components/CredentialsStrip';
 import LibraryStrip from '@/components/LibraryStrip';
 import ToolsPreview from '@/components/ToolsPreview';
+import YargiPreview from '@/components/YargiPreview';
 import About from '@/components/About';
 import DailyNews from '@/components/DailyNews';
 import Articles from '@/components/Articles';
@@ -14,10 +15,10 @@ import StickyMobileCta from '@/components/StickyMobileCta';
 
 export const metadata: Metadata = {
   title: {
-    absolute: 'Av. Fethi Güzel | Kanun Maddesi Arama, Şerh, İçtihat & Hesaplama',
+    absolute: 'Av. Fethi Güzel | Kanun, Şerh, Yargıtay Arşivi',
   },
   description:
-    'Kanun maddesi arama: TBK 13, 7.800+ madde + akademik şerh, günlük içtihat, 30 hesaplama aracı, 550+ vatandaş rehberi. Av. Fethi Güzel hukuk portalı.',
+    'Türk hukuku araştırma kütüphanesi: 46 kanun, 8.000+ madde ve şerh, Yargıtay arşivi, günlük içtihat ve 550+ vatandaş rehberi. Av. Fethi Güzel.',
   keywords: [
     'kanun maddesi',
     'kanun maddesi arama',
@@ -30,9 +31,9 @@ export const metadata: Metadata = {
   ],
   alternates: { canonical: 'https://www.avfethiguzel.com' },
   openGraph: {
-    title: 'Av. Fethi Güzel | Kanun Maddesi, Şerh & Hesaplama',
+    title: 'Av. Fethi Güzel | Kanun, Şerh ve Yargıtay Arşivi',
     description:
-      'Kanun maddesi arama, akademik şerh, günlük içtihat ve hukuki hesaplama. Açık erişim dijital hukuk arşivi.',
+      'Kanun maddesi, akademik şerh, Yargıtay arşivi (üyelik) ve günlük içtihat.',
     url: 'https://www.avfethiguzel.com',
   },
 };
@@ -64,6 +65,7 @@ export default function Home() {
               ['HMK 119', '/mevzuat/hmk/madde-119'],
               ['İİK 62', '/mevzuat/iik/madde-62'],
               ['Tüm TBK maddeleri', '/mevzuat/tbk'],
+              ['Yargıtay arşivi', '/yargi-kararlari'],
               ['Vatandaş rehberi (550+)', '/bilgi'],
               ['Kıdem rehberi', '/bilgi/kidem-tazminati-nasil-alinir'],
             ].map(([label, href]) => (
@@ -81,9 +83,10 @@ export default function Home() {
       </section>
       <CredentialsStrip />
       <LibraryStrip />
-      <ToolsPreview />
-      <About />
+      <YargiPreview />
       <DailyNews />
+      <About />
+      <ToolsPreview />
       <Articles />
       <section className="py-12 sm:py-16 px-5 sm:px-6 border-t border-charcoal/5">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">

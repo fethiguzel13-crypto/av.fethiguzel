@@ -53,9 +53,12 @@ export default function Footer() {
                 <div>
                   <h4 className="text-cream/40 text-[10px] uppercase tracking-widest mb-2 font-bold">Ofis Adresi</h4>
                   <p className="text-cream text-lg leading-relaxed">
-                    Vanyolu Mah. Karayusuf Bey Bulvarı<br />
-                    Zenginler İş Hanı A Blok Kat 5 No 33<br />
-                    Erciş / VAN
+                    {PROFILE.office.streetLines[0]}<br />
+                    {PROFILE.office.streetLines[1]}<br />
+                    {PROFILE.office.locality} / {PROFILE.office.region.toUpperCase()}
+                  </p>
+                  <p className="mt-2 text-cream/50 text-xs leading-relaxed">
+                    {PROFILE.office.landmark}
                   </p>
                   <a
                     href={`https://www.google.com/maps/search/?api=1&query=${PROFILE.office.mapQuery}`}
@@ -159,8 +162,8 @@ export default function Footer() {
 
           <div className="h-[280px] sm:h-[380px] md:h-full md:min-h-[400px] rounded-2xl sm:rounded-[2.5rem] md:rounded-[3rem] overflow-hidden border border-cream/10 grayscale hover:grayscale-0 transition-all duration-700 relative group">
             <iframe
-              title="Av. Fethi Güzel ofis konumu — Erciş Van"
-              src={`https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3089.4754512457813!2d43.35!3d39.02!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDAxJzEyLjAiTiA0M8KwMjEnMDAuMCJF!5e0!3m2!1str!2str!4v1715340000000!5m2!1str!2str&q=${PROFILE.office.mapQuery}`}
+              title="Av. Fethi Güzel ofis konumu — Zenginler İş Hanı, Erciş"
+              src={PROFILE.office.mapEmbed}
               width="100%"
               height="100%"
               style={{ border: 0 }}
@@ -178,6 +181,8 @@ export default function Footer() {
             <div className="flex flex-col gap-2 text-sm text-cream/70">
               <Link href="/ara" className="hover:text-accent transition-colors">Mevzuat Ara</Link>
               <Link href="/mevzuat" className="hover:text-accent transition-colors">Tüm Kanunlar</Link>
+              <Link href="/yargi-kararlari" className="hover:text-accent transition-colors">Yargıtay Arşivi</Link>
+              <Link href="/uyelik" className="hover:text-accent transition-colors">Arşiv üyeliği</Link>
               <Link href="/icthat" className="hover:text-accent transition-colors">Günlük İçtihat</Link>
               <Link href="/hesaplama" className="hover:text-accent transition-colors">Hesaplama Araçları</Link>
             </div>
@@ -261,6 +266,7 @@ export default function Footer() {
               <XIcon size={13} /> X
             </a>
             <Link href="/avukat-fethi-guzel" className="hover:text-accent transition-colors">Avukat Profili</Link>
+            <Link href="/uyelik/sozlesme" className="hover:text-accent transition-colors">Mesafeli Satış</Link>
             <Link href="/gizlilik" className="hover:text-accent transition-colors">Gizlilik / KVKK</Link>
             <Link href="/yasal-uyari" className="hover:text-accent transition-colors">Yasal Uyarı</Link>
             <Link href="/#sss" className="hover:text-accent transition-colors">SSS</Link>

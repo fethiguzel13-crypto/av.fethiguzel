@@ -13,6 +13,11 @@ export type GalaxyStats = {
   tools: number;
   decisions: number;
   guides: number;
+  /** Kavram sözlüğündeki başlık sayısı */
+  concepts: number;
+  /** Akademik eser sayısı ve toplam kelime — kütüphanenin ağırlığını gösterir */
+  works: number;
+  workWords: number;
 };
 
 import catalog from '../../../galaxy/catalog.json';

@@ -20,9 +20,14 @@ import { SplashScreen } from '@capacitor/splash-screen';
  * Ağırlıklar kod tabanında GERÇEKTEN kullanılanlarla sınırlı — kullanılmayan
  * ağırlık indirmek çevrimdışı bir uygulamada saf israf.
  *
- * Cormorant Garamond ("drama" — vurgu serifi) bilinçli olarak YOK: tailwind
- * config'de tanımlı ama mobil kaynağın hiçbir yerinde `font-drama` sınıfı
- * kullanılmıyor. Gerçekten kullanılmaya başlanırsa o zaman eklenir.
+ * Lora (serif) kanun ve karar METNİ içindir. Uzun hukuk metnini gövde
+ * fontuyla dizmek, telefonda dakikalarca okunan madde metnini yorucu
+ * kılıyordu; serif satır boyunca gözü taşır ve resmî metni arayüz
+ * metninden görsel olarak ayırır — hukukçunun "burası kanunun kendisi"
+ * demesi için tipografiden başka işaret yok.
+ *
+ * Cormorant Garamond ("drama") bilinçli olarak YOK: küçük punto ve düşük
+ * kontrastta ekranda dağılıyor, gövde metni için uygun değil.
  */
 import '@fontsource/plus-jakarta-sans/latin-ext-400.css';
 import '@fontsource/plus-jakarta-sans/latin-ext-500.css';
@@ -31,6 +36,10 @@ import '@fontsource/plus-jakarta-sans/latin-ext-700.css';
 import '@fontsource/outfit/latin-ext-500.css';
 import '@fontsource/outfit/latin-ext-600.css';
 import '@fontsource/outfit/latin-ext-700.css';
+import '@fontsource/lora/latin-ext-400.css';
+import '@fontsource/lora/latin-ext-500.css';
+import '@fontsource/lora/latin-ext-600.css';
+import '@fontsource/lora/latin-ext-400-italic.css';
 import '@fontsource/ibm-plex-mono/latin-ext-400.css';
 import '@fontsource/ibm-plex-mono/latin-ext-500.css';
 import '@fontsource/ibm-plex-mono/latin-ext-600.css';

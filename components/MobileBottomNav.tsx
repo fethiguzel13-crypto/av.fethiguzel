@@ -52,7 +52,7 @@ const TAB_DEFS: Record<
 function NavInner() {
   const pathname = usePathname() || '/';
   const { t, app, locale } = useGalaxy();
-  const order = app.tabs?.length ? app.tabs : (['home', 'search', 'guide', 'calc', 'cases'] as TabKey[]);
+  const order = app.tabs?.length ? app.tabs : (['home', 'search', 'cases', 'guide', 'calc'] as TabKey[]);
   const tabs = order.map((k) => TAB_DEFS[k as TabKey]).filter(Boolean);
 
   return (

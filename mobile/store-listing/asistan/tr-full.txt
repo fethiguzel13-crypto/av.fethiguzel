@@ -1,39 +1,51 @@
-Avukatın, hukuk öğrencisinin ve hak arayan vatandaşın dört ayrı ihtiyacı — tek uygulamada, internet olmadan.
+Türk hukuku araştırma kütüphanesi. Kanun maddesi, Yargıtay kararı, kavram sözlüğü, vatandaş rehberi ve akademik makaleler — hepsi cihazınızda, internet olmadan.
 
-Kanun metni, hesaplama araçları, günlük içtihat takibi ve adım adım vatandaş rehberi cihazınızda taşınır. Girdiğiniz rakamlar ve aramalarınız hiçbir sunucuya gitmez; müvekkil verisiyle çalışan bir meslek için bunun önemini biliyoruz.
+Kurduğunuz anda külliyat iner. Duruşma salonunda, adliye koridorunda, çekmeyen bir yerde: madde metni ve karar arşivi açılır. Sunucu beklemez, hesap istemez, reklam göstermez.
 
-MEVZUAT
-Kanun maddesi metni, tamamı resmî kaynaktan doğrulanmış olarak cihazınızda.
-• 47 kanun, 8.000'i aşkın madde
-• Boşluğa duyarsız arama: "zaman aşımı" ile "zamanaşımı" aynı sonucu verir
-• Madde numarasıyla doğrudan gitme
-• Metinler mevzuat.gov.tr resmî PDF'leriyle karşılaştırılarak yeniden yazılmıştır
+MEVZUAT — 47 KANUN, 8.088 MADDE
+Resmî Gazete'de yayımlanan metniyle.
+• TMK, TBK, TTK, TCK, HMK, CMK, İİK, İş Kanunu ve 39 kanun daha
+• Kanunlar konu başlıklarına göre tasnifli: özel hukuk, yargılama, ceza, iş ve sosyal güvenlik, vergi, kamu yönetimi
+• «TBK 13» yazın, doğrudan maddeye gidin
+• Konu adıyla da bulunur: «boşanma» yazan TMK'ya, «haciz» yazan İİK'ya ulaşır
+• Madde metni okumak için dizilir — fıkra ve bent yapısı korunur, punto üç kademe ayarlanır
+• Alıntı düğmesi maddeyi dilekçeye yapıştırılacak biçimde kopyalar
 
-HESAPLAMA
-33 aracın tamamı cihazda çalışır.
-• İş hukuku: kıdem, ihbar, işe iade, fazla mesai, yıllık izin, net/brüt maaş, işsizlik ödeneği, iş kazası
-• Aile ve miras: miras paylaşımı, saklı pay, nafaka, iddet müddeti, mal rejimi
-• Alacak ve icra: faiz, icra kapak hesabı, inkâr tazminatı
-• Gayrimenkul: kira artışı, kira tespiti, tapu harcı, araç değer kaybı
-• Usul: vekâlet ücreti, dava harcı, arabuluculuk, süre ve zamanaşımı, istinaf/temyiz, infaz
-• Vergi: KDV, gecikme zammı, damga vergisi
+YARGITAY ARŞİVİ — 23.000 KARAR, TAM METİN
+İçtihadı birleştirme, Hukuk Genel Kurulu, Ceza Genel Kurulu ve daire kararları.
+• Her karar KONUSUYLA listelenir: «Kamulaştırmasız elatma nedeniyle tazminat», «Konutta silahlı yağma suçu» — künye duvarı değil
+• Tam metin cihazda; kararı okumak için internet gerekmez
+• Daire, kademe, konu, esas ve karar numarasıyla arama
+• İlk derece mahkemesi ve atıf yapılan kanun maddeleri künyede
 
-İÇTİHAT
-• Günün karar özetleri
-• Geniş karar arşivinde arama
-• İstediğiniz konuyu takibe alma
+MEVZUAT İLE İÇTİHAT BİRBİRİNE BAĞLI
+Bu uygulamanın diğerlerinden ayrıldığı yer burası:
+• Bir maddeyi açtığınızda «bu maddeye atıf yapan Yargıtay kararları» aynı ekranda listelenir
+• Bir kararı okurken dayandığı maddelere tek dokunuşla geçersiniz
+• Bağ, 23.000 karar metninin taranmasıyla kuruldu; elle girilmiş bir liste değil
+
+KAVRAM SÖZLÜĞÜ
+Kıdem tazminatı, zamanaşımı, ayıp, muvazaa, işe iade… Her kavram; kısa cevabı, dayanak maddesi, ilgili rehberi ve hesaplama aracıyla birlikte. Kısa cevap tek dokunuşla kopyalanır.
 
 VATANDAŞ REHBERİ
-Hukuki bir sorunla karşılaşan kişinin ilk sorusu hep aynıdır: nereye başvuracağım, süresi ne, hangi belgeler gerekiyor?
+Nereye başvuracağım, süresi ne, hangi belgeler?
 • Adım adım anlatım
-• Hangi merci, hangi süre, hangi belge
-• İlgili kanun maddesine ve hesaplama aracına doğrudan bağlantı
+• İlgili maddeye ve hesaplama aracına doğrudan bağlantı
 
-KULLANIM KOLAYLIĞI
-Sık kullandıklarınızı yıldızlayın, son baktıklarınız birikir. Sonuçları tek dokunuşla kopyalayın veya paylaşın. Uygulama hesap açtırmaz, reklam içermez, konum veya kişi listesi istemez.
+AKADEMİK ESERLER
+Av. Fethi Güzel'in makaleleri, tam metin ve uygulama içi okuma görünümünde. İndirme, harici okuyucu, biçim sorunu yok.
+
+GÜNLÜK İÇTİHAT
+Yargıtay, Anayasa Mahkemesi, AİHM ve Resmî Gazete özetleri. İstediğiniz alanı takibe alın; hatırlatma cihazda üretilir.
+
+HESAPLAMA
+Kıdem, faiz, harç, nafaka, miras, süre — 33 araç, çevrimdışı. Her aracın yanında mevzuat dayanağı ve kısa bilgilendirme durur. Araştırma kütüphanesinin yanında bir yardımcıdır; onun yerine geçmez.
+
+GİZLİLİK
+Girdiğiniz rakamlar, aramalarınız ve okuma geçmişiniz hiçbir sunucuya gitmez. Uygulama hesap açtırmaz, konum istemez, reklam göstermez.
 
 YASAL UYARI
-Bu uygulama bilgilendirme amaçlıdır; hukuki tavsiye veya vekâlet ilişkisi kurmaz ve sonuç vaadi taşımaz. Tarife, tavan ve parasal sınırlar dönemsel olarak değişir; somut dosyanızda güncel mevzuat ve avukat değerlendirmesi esastır.
+Bilgilendirme amaçlıdır; hukuki tavsiye veya vekâlet ilişkisi kurmaz. Bağlayıcı metin için mevzuat.gov.tr ve kararın aslı esastır.
 
 Av. Fethi Güzel — Avukat & Arabulucu · Van, Erciş
 https://www.avfethiguzel.com

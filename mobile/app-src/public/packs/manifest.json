@@ -1,72 +1,72 @@
 {
-  "generatedAt": "2026-08-17T07:54:08.837Z",
+  "generatedAt": "2026-08-22T15:01:44.095Z",
   "format": 1,
   "totalArticles": 8088,
-  "totalBytes": 2860088,
+  "totalBytes": 15535370,
   "note": "Yalnız resmî metin. Şerh alanı (c) yalnız denetimden geçen maddelerde bulunur.",
   "packs": [
     {
       "id": "ttk",
       "name": "Türk Ticaret Kanunu",
       "articles": 1535,
-      "commentaries": 7,
-      "bytes": 346872
+      "commentaries": 833,
+      "bytes": 3168340
     },
     {
       "id": "tmk",
       "name": "Türk Medeni Kanunu",
       "articles": 1030,
-      "commentaries": 3,
-      "bytes": 147914
+      "commentaries": 947,
+      "bytes": 889202
     },
     {
       "id": "tbk",
       "name": "Türk Borçlar Kanunu",
       "articles": 649,
-      "commentaries": 8,
-      "bytes": 141538
+      "commentaries": 649,
+      "bytes": 2923057
     },
     {
       "id": "hmk",
       "name": "Hukuk Muhakemeleri Kanunu",
       "articles": 454,
-      "commentaries": 0,
-      "bytes": 82505
+      "commentaries": 308,
+      "bytes": 746225
     },
     {
       "id": "iik",
       "name": "İcra ve İflas Kanunu",
       "articles": 449,
-      "commentaries": 0,
-      "bytes": 121396
+      "commentaries": 346,
+      "bytes": 1062086
     },
     {
       "id": "vuk",
       "name": "Vergi Usul Kanunu",
       "articles": 386,
-      "commentaries": 19,
-      "bytes": 229054
+      "commentaries": 240,
+      "bytes": 864746
     },
     {
       "id": "tck",
       "name": "Türk Ceza Kanunu",
       "articles": 345,
-      "commentaries": 0,
-      "bytes": 72585
+      "commentaries": 338,
+      "bytes": 855258
     },
     {
       "id": "cmk",
       "name": "Ceza Muhakemesi Kanunu",
       "articles": 340,
-      "commentaries": 0,
-      "bytes": 94675
+      "commentaries": 329,
+      "bytes": 700387
     },
     {
       "id": "dmk",
       "name": "Devlet Memurları Kanunu",
       "articles": 240,
-      "commentaries": 0,
-      "bytes": 120601
+      "commentaries": 222,
+      "bytes": 755557
     },
     {
       "id": "bk",
@@ -86,8 +86,8 @@
       "id": "ktk",
       "name": "Karayolları Trafik Kanunu",
       "articles": 140,
-      "commentaries": 15,
-      "bytes": 114097
+      "commentaries": 135,
+      "bytes": 348075
     },
     {
       "id": "yukk",
@@ -105,24 +105,24 @@
     },
     {
       "id": "gvk",
-      "name": "Gelir Vergisi Kanunu",
+      "name": "gvk",
       "articles": 126,
-      "commentaries": 0,
-      "bytes": 120880
+      "commentaries": 83,
+      "bytes": 345172
     },
     {
       "id": "aatuhk",
       "name": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
       "articles": 122,
-      "commentaries": 2,
-      "bytes": 50942
+      "commentaries": 70,
+      "bytes": 317589
     },
     {
       "id": "is-kanunu",
       "name": "İş Kanunu",
       "articles": 122,
-      "commentaries": 7,
-      "bytes": 69691
+      "commentaries": 122,
+      "bytes": 342840
     },
     {
       "id": "devlet-ihale",
@@ -135,8 +135,8 @@
       "id": "tkhk",
       "name": "Tüketicinin Korunması Hakkında Kanun",
       "articles": 92,
-      "commentaries": 0,
-      "bytes": 37746
+      "commentaries": 88,
+      "bytes": 218807
     },
     {
       "id": "belediye",
@@ -149,15 +149,15 @@
       "id": "ssgssk",
       "name": "Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu",
       "articles": 86,
-      "commentaries": 0,
-      "bytes": 76379
+      "commentaries": 86,
+      "bytes": 274047
     },
     {
       "id": "sendikalar",
       "name": "Sendikalar ve Toplu İş Sözleşmesi Kanunu",
       "articles": 83,
-      "commentaries": 0,
-      "bytes": 27792
+      "commentaries": 83,
+      "bytes": 161489
     },
     {
       "id": "vakiflar",
@@ -170,8 +170,8 @@
       "id": "nhk",
       "name": "Nüfus Hizmetleri Kanunu",
       "articles": 77,
-      "commentaries": 0,
-      "bytes": 18640
+      "commentaries": 17,
+      "bytes": 31101
     },
     {
       "id": "katmulkiyeti",
@@ -199,14 +199,14 @@
       "name": "Rekabetin Korunması Hakkında Kanun",
       "articles": 65,
       "commentaries": 2,
-      "bytes": 29971
+      "bytes": 29965
     },
     {
       "id": "kdvk",
       "name": "Katma Değer Vergisi Kanunu",
       "articles": 63,
-      "commentaries": 0,
-      "bytes": 43459
+      "commentaries": 54,
+      "bytes": 250634
     },
     {
       "id": "cck",
@@ -219,15 +219,15 @@
       "id": "imar",
       "name": "İmar Kanunu",
       "articles": 49,
-      "commentaries": 0,
-      "bytes": 37340
+      "commentaries": 4,
+      "bytes": 52391
     },
     {
       "id": "tvk",
       "name": "Türk Vatandaşlığı Kanunu",
       "articles": 48,
-      "commentaries": 0,
-      "bytes": 8083
+      "commentaries": 48,
+      "bytes": 58659
     },
     {
       "id": "dernekler",
@@ -240,8 +240,8 @@
       "id": "kamulastirma",
       "name": "kamulastirma",
       "articles": 43,
-      "commentaries": 0,
-      "bytes": 24797
+      "commentaries": 4,
+      "bytes": 39167
     },
     {
       "id": "arabuluculuk",
@@ -254,8 +254,8 @@
       "id": "isg",
       "name": "İş Sağlığı ve Güvenliği Kanunu",
       "articles": 41,
-      "commentaries": 0,
-      "bytes": 19300
+      "commentaries": 38,
+      "bytes": 114983
     },
     {
       "id": "kamu-ihale-sozlesmeleri",
@@ -268,15 +268,15 @@
       "id": "kvk",
       "name": "Kurumlar Vergisi Kanunu",
       "articles": 41,
-      "commentaries": 6,
-      "bytes": 59993
+      "commentaries": 37,
+      "bytes": 138187
     },
     {
       "id": "kvkk",
       "name": "Kişisel Verilerin Korunması Kanunu",
       "articles": 33,
-      "commentaries": 0,
-      "bytes": 14243
+      "commentaries": 33,
+      "bytes": 93098
     },
     {
       "id": "buyuksehir",
@@ -303,29 +303,29 @@
       "id": "kmk",
       "name": "Kaçakçılıkla Mücadele Kanunu",
       "articles": 28,
-      "commentaries": 0,
-      "bytes": 8280
+      "commentaries": 1,
+      "bytes": 13681
     },
     {
       "id": "aile-koruma",
       "name": "Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun",
       "articles": 25,
       "commentaries": 1,
-      "bytes": 16384
+      "bytes": 16227
     },
     {
       "id": "otv",
       "name": "Özel Tüketim Vergisi Kanunu",
       "articles": 22,
       "commentaries": 5,
-      "bytes": 38518
+      "bytes": 38428
     },
     {
       "id": "cek",
       "name": "Çek Kanunu",
       "articles": 11,
       "commentaries": 11,
-      "bytes": 120145
+      "bytes": 119704
     },
     {
       "id": "is-kanunu-1475",

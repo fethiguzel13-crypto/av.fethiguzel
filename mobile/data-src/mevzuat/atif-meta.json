@@ -1,0 +1,287 @@
+{
+  "generatedAt": "2026-08-22T19:43:52.264Z",
+  "taranan": 25902,
+  "konuBulunan": 16906,
+  "atifBulunan": 5347,
+  "baglananAtif": 6897,
+  "baglanamayanAtif": 8526,
+  "kapsananMadde": 1103,
+  "maddeBasiEnCok": 40,
+  "esleme": [
+    {
+      "packId": "tck",
+      "secilen": "5237",
+      "ad": "TÜRK CEZA KANUNU",
+      "atif": 2694,
+      "mulgaOran": -0.001,
+      "elenenler": [
+        {
+          "num": "765",
+          "atif": 510,
+          "mulgaOran": 0.041
+        }
+      ]
+    },
+    {
+      "packId": "cmk",
+      "secilen": "5271",
+      "ad": "CEZA MUHAKEMESİ KANUNU",
+      "atif": 1288,
+      "mulgaOran": -0.001,
+      "elenenler": []
+    },
+    {
+      "packId": "hmk",
+      "secilen": "6100",
+      "ad": "HUKUK MUHAKEMELERİ KANUNU",
+      "atif": 886,
+      "mulgaOran": -0.001,
+      "elenenler": []
+    },
+    {
+      "packId": "tmk",
+      "secilen": "4721",
+      "ad": "TÜRK MEDENİ KANUNU",
+      "atif": 518,
+      "mulgaOran": 0,
+      "elenenler": []
+    },
+    {
+      "packId": "kamulastirma",
+      "secilen": "2942",
+      "ad": "Kamulaştırma Kanunu",
+      "atif": 372,
+      "mulgaOran": 0,
+      "elenenler": []
+    },
+    {
+      "packId": "iik",
+      "secilen": "2004",
+      "ad": "İCRA VE İFLAS KANUNU",
+      "atif": 332,
+      "mulgaOran": -0.001,
+      "elenenler": []
+    },
+    {
+      "packId": "tbk",
+      "secilen": "6098",
+      "ad": "TÜRK BORÇLAR KANUNU",
+      "atif": 271,
+      "mulgaOran": -0.006,
+      "elenenler": []
+    },
+    {
+      "packId": "ssgssk",
+      "secilen": "5510",
+      "ad": "SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU",
+      "atif": 121,
+      "mulgaOran": 0,
+      "elenenler": []
+    },
+    {
+      "packId": "ktk",
+      "secilen": "2918",
+      "ad": "KARAYOLLARI TRAFİK KANUNU",
+      "atif": 103,
+      "mulgaOran": -0.001,
+      "elenenler": []
+    },
+    {
+      "packId": "sendikalar",
+      "secilen": "6356",
+      "ad": "Sendikalar ve Toplu İş Sözleşmesi Kanunu",
+      "atif": 80,
+      "mulgaOran": -0.072,
+      "elenenler": []
+    },
+    {
+      "packId": "tebligat",
+      "secilen": "7201",
+      "ad": "TEBLİGAT KANUNU",
+      "atif": 62,
+      "mulgaOran": 0,
+      "elenenler": []
+    },
+    {
+      "packId": "ttk",
+      "secilen": "6102",
+      "ad": "TÜRK TİCARET KANUNU",
+      "atif": 57,
+      "mulgaOran": -0.005,
+      "elenenler": [
+        {
+          "num": "6762",
+          "atif": 184,
+          "mulgaOran": 0.07
+        }
+      ]
+    },
+    {
+      "packId": "cck",
+      "secilen": "5275",
+      "ad": "CEZA VE GÜVENLİK TEDBİRLERİNİN İNFAZI HAKKINDA KANUN",
+      "atif": 51,
+      "mulgaOran": 0,
+      "elenenler": []
+    },
+    {
+      "packId": "katmulkiyeti",
+      "secilen": "634",
+      "ad": "KAT MÜLKİYETİ KANUNU",
+      "atif": 39,
+      "mulgaOran": 0,
+      "elenenler": []
+    },
+    {
+      "packId": "imar",
+      "secilen": "3194",
+      "ad": "İMAR KANUNU",
+      "atif": 29,
+      "mulgaOran": 0,
+      "elenenler": []
+    },
+    {
+      "packId": "dmk",
+      "secilen": "657",
+      "ad": "DEVLET MEMURLARI KANUNU",
+      "atif": 27,
+      "mulgaOran": 0,
+      "elenenler": []
+    },
+    {
+      "packId": "vuk",
+      "secilen": "213",
+      "ad": "VERGİ USUL KANUNU",
+      "atif": 24,
+      "mulgaOran": -0.005,
+      "elenenler": []
+    },
+    {
+      "packId": "gvk",
+      "secilen": "193",
+      "ad": "GELİR VERGİSİ KANUNU",
+      "atif": 15,
+      "mulgaOran": 0,
+      "elenenler": []
+    },
+    {
+      "packId": "isg",
+      "secilen": "6331",
+      "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ KANUNU",
+      "atif": 14,
+      "mulgaOran": 0,
+      "elenenler": []
+    },
+    {
+      "packId": "nhk",
+      "secilen": "1512",
+      "ad": "NOTERLİK KANUNU",
+      "atif": 13,
+      "mulgaOran": 0,
+      "elenenler": []
+    },
+    {
+      "packId": "dernekler",
+      "secilen": "5253",
+      "ad": "DERNEKLER KANUNU",
+      "atif": 9,
+      "mulgaOran": 0,
+      "elenenler": []
+    },
+    {
+      "packId": "belediye",
+      "secilen": "5393",
+      "ad": "BELEDİYE KANUNU",
+      "atif": 9,
+      "mulgaOran": -0.004,
+      "elenenler": [
+        {
+          "num": "5272",
+          "atif": 2,
+          "mulgaOran": 0
+        },
+        {
+          "num": "1580",
+          "atif": 3,
+          "mulgaOran": 0.25
+        }
+      ]
+    },
+    {
+      "packId": "tkhk",
+      "secilen": "6502",
+      "ad": "TÜKETİCİNİN KORUNMASI HAKKINDA KANUN",
+      "atif": 7,
+      "mulgaOran": 0,
+      "elenenler": [
+        {
+          "num": "4077",
+          "atif": 90,
+          "mulgaOran": 0.021
+        }
+      ]
+    },
+    {
+      "packId": "kmk",
+      "secilen": "5326",
+      "ad": "KABAHATLER KANUNU",
+      "atif": 7,
+      "mulgaOran": -0.002,
+      "elenenler": []
+    },
+    {
+      "packId": "vakiflar",
+      "secilen": "5737",
+      "ad": "VAKIFLAR KANUNU",
+      "atif": 6,
+      "mulgaOran": 0,
+      "elenenler": []
+    },
+    {
+      "packId": "kdvk",
+      "secilen": "3065",
+      "ad": "KATMA DEĞER VERGİSİ KANUNU",
+      "atif": 6,
+      "mulgaOran": 0,
+      "elenenler": []
+    },
+    {
+      "packId": "spk",
+      "secilen": "6362",
+      "ad": "SERMAYE PİYASASI KANUNU",
+      "atif": 4,
+      "mulgaOran": 0,
+      "elenenler": [
+        {
+          "num": "2499",
+          "atif": 7,
+          "mulgaOran": 0.218
+        }
+      ]
+    },
+    {
+      "packId": "devlet-ihale",
+      "secilen": "2886",
+      "ad": "DEVLET İHALE KANUNU",
+      "atif": 2,
+      "mulgaOran": 0,
+      "elenenler": []
+    },
+    {
+      "packId": "kvk",
+      "secilen": "5520",
+      "ad": "KURUMLAR VERGİSİ KANUNU",
+      "atif": 2,
+      "mulgaOran": 0,
+      "elenenler": []
+    },
+    {
+      "packId": "rkhk",
+      "secilen": "4054",
+      "ad": "REKABETİN KORUNMASI HAKKINDA KANUN",
+      "atif": 1,
+      "mulgaOran": 0,
+      "elenenler": []
+    }
+  ]
+}

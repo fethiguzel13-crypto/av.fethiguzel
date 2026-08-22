@@ -4,8 +4,8 @@
   "sourcePrimary": "yargitay-resmi",
   "storeHtml": false,
   "rateLimit": {
-    "minDelayMsBetweenFullText": 2500,
-    "maxDelayMsBetweenFullText": 7000,
+    "minDelayMsBetweenFullText": 4000,
+    "maxDelayMsBetweenFullText": 9000,
     "minDelayMsBetweenSearch": 2500,
     "maxDelayMsBetweenSearch": 7000,
     "minDelayMsBetweenPages": 2000,
@@ -14,9 +14,9 @@
     "maxSearchCallsPerDay": 2400,
     "maxFullTextPerRun": 350,
     "maxSearchPagesPerRun": 28,
-    "pauseEveryNFullText": 0,
-    "pauseMinMs": 0,
-    "pauseMaxMs": 0
+    "pauseEveryNFullText": 25,
+    "pauseMinMs": 45000,
+    "pauseMaxMs": 90000
   },
   "pagination": {
     "pageSize": 100

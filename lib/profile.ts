@@ -35,13 +35,24 @@ export const PROFILE = {
         { code: 'en', label: 'English', level: 'İyi düzeyde / Professional working proficiency' },
     ],
     office: {
-        street: 'Vanyolu Mah. Karayusuf Bey Bulvarı Zenginler İş Hanı A Blok Kat 5 No 33',
+        street: 'Van Yolu Mah. Karayusuf Bey Bulvarı Zenginler İş Hanı Kat 5 Daire 33',
+        streetLines: [
+            'Van Yolu Mah. Karayusuf Bey Bulvarı',
+            'Zenginler İş Hanı Kat 5 Daire 33',
+        ],
+        /** Bina girişi — harita pini bu işletmelere kilitlenir */
+        landmark: 'Girişte ETSA Et Lokantası ve Manolya Pastanesi',
         locality: 'Erciş',
         region: 'Van',
         postalCode: '65400',
         country: 'TR',
+        latitude: 39.02259,
+        longitude: 43.3742,
         mapQuery:
-            'Vanyolu+Mah.+Karayusuf+Bey+Bulvar%C4%B1+Zenginler+I%C5%9F+Han%C4%B1+A+Blok+Kat+5+No+33+Erci%C5%9F+Van',
+            'ETSA+Et+Lokantas%C4%B1+Zenginler+%C4%B0%C5%9F+Han%C4%B1+Van+Yolu+Erci%C5%9F',
+        /** Arama tabanlı embed — sabit 39.02/43.35 pini binayı kaçırıyordu */
+        mapEmbed:
+            'https://www.google.com/maps/embed?origin=mfe&pb=!1m2!2m1!1sETSA+Et+Lokantas%C4%B1+Zenginler+%C4%B0%C5%9F+Han%C4%B1+Erci%C5%9F!3m1!1str!5m1!1str',
     },
     photo: '/images/av-fethi-guzel-van-ercis-avukat.jpg',
     ogImage: '/images/av-fethi-guzel-og.jpg',

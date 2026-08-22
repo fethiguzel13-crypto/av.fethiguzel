@@ -89,16 +89,11 @@ export default function ToolsPreview() {
         {/* Başlık + buton */}
         <div className="flex flex-col gap-5 mb-10 sm:mb-14">
           <div>
-            <p className="text-accent font-mono text-[10px] sm:text-[11px] tracking-widest uppercase mb-3">
-              Hukuki Hesaplama Araçları
-            </p>
-            <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-charcoal leading-tight">
-              Doğru Hesap,{' '}
-              <span className="font-drama italic text-accent">Güçlü Strateji.</span>
+            <h2 className="text-2xl sm:text-3xl font-bold text-charcoal leading-tight">
+              Hesaplama araçları
             </h2>
-            <p className="mt-3 text-charcoal/55 text-sm sm:text-base max-w-xl leading-relaxed">
-              Kıdem tazminatından faiz hesabına, dava masraflarından araç değer
-              kaybına — güncel mevzuat esas alınarak.
+            <p className="mt-2 text-charcoal/55 text-sm max-w-xl leading-relaxed">
+              Kıdem, faiz, miras, nafaka ve süre — kütüphanenin yanında, 33 araç.
             </p>
           </div>
           <Link

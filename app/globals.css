@@ -207,6 +207,24 @@ body::before {
   }
 
   /* Custom legal prose — no @apply prose (typography plugin optional) */
+  .yargi-karar-metni {
+    -webkit-user-select: text;
+    user-select: text;
+  }
+
+  @media print {
+    .yargi-no-print {
+      display: none !important;
+    }
+
+    .yargi-print-block::after {
+      content: 'Karar metni yazdırılamaz ve indirilemez. Av. Fethi Güzel Yargıtay arşivi üyeliği yalnızca sitede okuma içindir.';
+      display: block;
+      font-size: 14px;
+      color: #1a1a1a;
+    }
+  }
+
   .prose-legal {
     max-width: none;
     font-size: 1.125rem;

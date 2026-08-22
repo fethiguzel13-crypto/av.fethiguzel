@@ -54,7 +54,14 @@ export default function YasalUyariPage() {
                         Kanun metinleri kamuya açık mevzuattır; alıntılarda kaynak gösterilmesi önerilir.
                     </p>
 
-                    <h2 className="text-xl font-heading font-bold text-charcoal pt-2">5. İletişim</h2>
+                    <h2 className="text-xl font-heading font-bold text-charcoal pt-2">5. Yargıtay arşivi üyeliği</h2>
+                    <p>
+                        Karar arşivi aylık dijital üyelik ile açılır. Bedel avukatlık ücreti
+                        değildir. Karar metinleri sitede okunur; indirme sunulmaz. Künye ve
+                        metin resmi kaynaktan derlenir; bağlayıcı olan kararın aslıdır.
+                    </p>
+
+                    <h2 className="text-xl font-heading font-bold text-charcoal pt-2">6. İletişim</h2>
                     <p>
                         Sorularınız için:{' '}
                         <a

@@ -632,8 +632,14 @@ async function main() {
             attempt <= 3 && doc.error && retriable.has(doc.error);
             attempt++
           ) {
-            log(`  ${doc.error} retry ${attempt}/3 after short wait…`);
-            await humanWait(1500, 3500, "fetch-retry", log);
+            // 429 needs real cooldown; short 1–3s retries only deepen rate-limit.
+            const is429 = doc.error === "HTTP 429";
+            const lo = is429 ? 20_000 * attempt : 4_000 * attempt;
+            const hi = is429 ? 40_000 * attempt : 10_000 * attempt;
+            log(
+              `  ${doc.error} retry ${attempt}/3 after ${(lo / 1000).toFixed(0)}–${(hi / 1000).toFixed(0)}s…`
+            );
+            await humanWait(lo, hi, is429 ? "rate-limit-backoff" : "fetch-retry", log);
             doc = await fetchFullText(item.id);
           }
           if (doc.error === "endpoint-down") {
@@ -668,6 +674,12 @@ async function main() {
                 item._retry = 0;
                 queue.push(item);
                 log(`  re-queued after cooldown reset (still transient: ${doc.error})`);
+              }
+              // Extra gap after burning a retry so the next item doesn't re-trigger 429.
+              if (/^HTTP 429$/.test(doc.error)) {
+                await humanWait(30_000, 60_000, "post-429-cooldown", log);
+              } else if (doc.error === "empty-or-short") {
+                await humanWait(8_000, 16_000, "post-empty-cooldown", log);
               }
             } else {
               progress.failedIds[item.id] = {

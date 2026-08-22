@@ -88,7 +88,7 @@ function HubPage() {
       <div className="relative mb-3">
         <Search
           size={17}
-          className="absolute left-3.5 top-1/2 -translate-y-1/2 text-charcoal/35"
+          className="absolute left-3.5 top-1/2 -translate-y-1/2 text-ink-3"
           aria-hidden
         />
         <input
@@ -98,7 +98,7 @@ function HubPage() {
           onChange={(e) => setQ(e.target.value)}
           placeholder="Kıdem, faiz, harç, nafaka…"
           aria-label="Hesaplama aracı ara"
-          className="w-full rounded-2xl border border-charcoal/10 bg-white pl-10 pr-10 py-3.5
+          className="w-full rounded-2xl border border-tel bg-white pl-10 pr-10 py-3.5
                      text-[15px] outline-none focus:border-[color:var(--brand)]"
         />
         {q && (
@@ -107,7 +107,7 @@ function HubPage() {
             aria-label="Aramayı temizle"
             onClick={() => setQ('')}
             className="absolute right-2.5 top-1/2 -translate-y-1/2 w-8 h-8 grid place-items-center
-                       rounded-full text-charcoal/40"
+                       rounded-full text-ink-3"
           >
             <X size={16} />
           </button>
@@ -180,7 +180,7 @@ function HubPage() {
         ))
       )}
 
-      <p className="mt-8 text-[12px] leading-relaxed text-charcoal/40">
+      <p className="mt-8 text-[12px] leading-relaxed text-ink-3">
         Hesaplar bilgilendirme amaçlıdır ve resmî tavsiye yerine geçmez. Tüm hesaplama
         cihazınızda yapılır; girdiğiniz veriler hiçbir sunucuya gönderilmez.
       </p>
@@ -226,7 +226,7 @@ function ToolPage({ id }: { id: string }) {
           <tool.icon size={22} strokeWidth={2} />
         </span>
         <div className="flex-1 min-w-0">
-          <p className="text-[12px] font-mono tracking-widest uppercase text-charcoal/40">
+          <p className="text-[12px] font-mono tracking-widest uppercase text-ink-3">
             {tool.tag}
           </p>
           <h2 className="text-[24px] font-heading font-bold leading-tight">{tool.baslik}</h2>
@@ -251,21 +251,21 @@ function ToolPage({ id }: { id: string }) {
       </div>
 
       {meta?.aciklama && (
-        <p className="text-[14px] text-charcoal/60 leading-relaxed mb-4">{meta.aciklama}</p>
+        <p className="text-[14px] text-ink-2 leading-relaxed mb-4">{meta.aciklama}</p>
       )}
 
       <HesaplamaToolBody id={id} title={tool.baslik} />
 
       {meta?.rehber?.length ? (
         <section className="mt-6">
-          <h3 className="flex items-center gap-1.5 text-[13px] font-bold text-charcoal/70 mb-2.5">
+          <h3 className="flex items-center gap-1.5 text-[13px] font-bold text-ink mb-2.5">
             <Info size={14} aria-hidden /> Kısa bilgilendirme
           </h3>
           <ul className="space-y-2.5">
             {meta.rehber.map((p) => (
               <li
                 key={p.slice(0, 40)}
-                className="text-[13px] text-charcoal/60 leading-relaxed pl-3 border-l-2"
+                className="text-[13px] text-ink-2 leading-relaxed pl-3 border-l-2"
                 style={{ borderColor: 'var(--brand-soft)' }}
               >
                 {p}
@@ -277,7 +277,7 @@ function ToolPage({ id }: { id: string }) {
 
       {meta?.mevzuat?.length ? (
         <section className="mt-6">
-          <h3 className="text-[13px] font-bold text-charcoal/70 mb-2.5">İlgili mevzuat</h3>
+          <h3 className="text-[13px] font-bold text-ink mb-2.5">İlgili mevzuat</h3>
           <ul className="space-y-2">
             {meta.mevzuat.map((m) => (
               <li key={m.href}>
@@ -287,12 +287,12 @@ function ToolPage({ id }: { id: string }) {
                   className="w-full card px-3.5 py-3 flex items-center gap-2 text-left tap"
                 >
                   <span className="flex-1 text-[14px] font-semibold">{m.label}</span>
-                  <ExternalLink size={14} className="text-charcoal/30" aria-hidden />
+                  <ExternalLink size={14} className="text-ink-3" aria-hidden />
                 </button>
               </li>
             ))}
           </ul>
-          <p className="mt-2 text-[12px] text-charcoal/35">
+          <p className="mt-2 text-[12px] text-ink-3">
             Mevzuat metinleri sitede açılır; bağlantı için internet gerekir.
           </p>
         </section>
@@ -300,7 +300,7 @@ function ToolPage({ id }: { id: string }) {
 
       {meta?.ilgili?.length ? (
         <section className="mt-6">
-          <h3 className="text-[13px] font-bold text-charcoal/70 mb-2.5">İlgili araçlar</h3>
+          <h3 className="text-[13px] font-bold text-ink mb-2.5">İlgili araçlar</h3>
           <div className="grid grid-cols-2 gap-2">
             {meta.ilgili
               .map((rid) => TOOLS.find((t) => t.id === rid))
@@ -425,7 +425,7 @@ function Section({
 }) {
   return (
     <section className="mb-6">
-      <h2 className="flex items-center gap-1.5 text-[12px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
+      <h2 className="flex items-center gap-1.5 text-[12px] font-mono tracking-widest uppercase text-ink-3 mb-2.5">
         {icon}
         {title}
       </h2>
@@ -451,12 +451,12 @@ function ToolRowButton({ tool }: { tool: ToolRow }) {
       <span className="flex-1 min-w-0">
         <span className="block text-[14px] font-bold leading-snug">{tool.baslik}</span>
         {meta?.aciklama && (
-          <span className="block text-[13px] text-charcoal/45 leading-snug mt-0.5 line-clamp-1">
+          <span className="block text-[13px] text-ink-3 leading-snug mt-0.5 line-clamp-1">
             {meta.aciklama}
           </span>
         )}
       </span>
-      <ChevronRight size={16} className="text-charcoal/25 shrink-0" aria-hidden />
+      <ChevronRight size={16} className="text-ink-4 shrink-0" aria-hidden />
     </button>
   );
 }

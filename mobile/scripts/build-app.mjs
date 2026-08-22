@@ -13,7 +13,7 @@
 import { execFileSync } from 'node:child_process';
 import { existsSync, readdirSync, readFileSync, statSync, rmSync, mkdirSync, cpSync } from 'node:fs';
 import { gunzipSync } from 'node:zlib';
-import { join, dirname } from 'node:path';
+import { join, dirname, sep } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const here = dirname(fileURLToPath(import.meta.url));
@@ -76,6 +76,31 @@ if (!existsSync(join(dataSrc, 'packs', 'manifest.json'))) {
   process.exit(1);
 }
 
+/*
+  Yargı zenginleştirmesi paketlerden SONRA çalışır.
+
+  Sıra zorunlu: build-icthat-data arşivi sıfırdan yazar, build-yargi-index
+  onun üstüne konu başlıklarını ve madde atıflarını ekler. Ters sırada
+  çalıştırılırsa zenginleştirme sessizce silinir ve arşiv yine künye
+  listesine döner — bu bir kez oldu, o yüzden burada duruyor.
+
+  Madde doğrulaması için paketlere de ihtiyaç duyar (atıf edilen madde
+  bizim külliyatta gerçekten var mı), bu yüzden sync-packs'ten sonra.
+*/
+run('node', ['scripts/build-yargi-index.mjs']);
+
+// Akademik eserler — .docx/.pdf metinleri çıkarılır (bkz. build-kutuphane.mjs)
+run('node', ['scripts/build-kutuphane.mjs']);
+
+/*
+  Karar tam metinleri şifrelenir.
+
+  Yargı arşivi ücretli bölüm; 112 MB'lık metin şifresiz bırakılırsa APK'yı
+  açan herkes doğrudan okuyabilir ve üyeliğin anlamı kalmaz. Şifreleme
+  icthat verisi üretildikten SONRA çalışmalıdır.
+*/
+run('node', ['scripts/build-yargi-sifrele.mjs']);
+
 /**
  * Hangi uygulama hangi varlığı taşır.
  *
@@ -127,8 +152,60 @@ function computeStats(staged) {
     stats.tools = (readFileSync(meta, 'utf8').match(/^\s{8}id: '/gm) || []).length;
   }
 
+  // Kavram sözlüğü de portalın kaynağından sayılır — uygulama onu doğrudan
+  // içe aktarıyor, ayrı bir veri dosyası yok.
+  const kavram = join(portal, 'lib', 'kavramlar.ts');
+  if (existsSync(kavram)) {
+    // Girinti derinliğine bağlanmak kırılgan: iki kayıt farklı girintideydi
+    // ve sayaç 33 yerine 31 gösteriyordu. Anahtarın kendisi aranır.
+    stats.concepts = (readFileSync(kavram, 'utf8').match(/^\s+slug:\s*['"]/gm) || []).length;
+  }
+
+  const eserler = join(dataSrc, 'kutuphane', 'eserler.json.gz');
+  if (staged.includes('kutuphane') && existsSync(eserler)) {
+    const list = JSON.parse(gunzipSync(readFileSync(eserler)).toString());
+    stats.works = Array.isArray(list) ? list.length : 0;
+    stats.workWords = Array.isArray(list) ? list.reduce((n, e) => n + (e.kelime || 0), 0) : 0;
+  }
+
   return stats;
 }
+
+/**
+ * Karar kasasının anahtar parçalarını derleme ortamına aktarır.
+ *
+ * Anahtar dosyası pakete KOPYALANMAZ; yalnız derleme değişkeni olarak
+ * JavaScript'e gömülür. Kasayı taşımayan uygulamalarda boş döner.
+ */
+function kasaOrtami(staged) {
+  const yol = join(dataSrc, 'icthat', 'kasa-anahtar.json');
+  if (!staged.includes('icthat') || !existsSync(yol)) return {};
+  try {
+    const k = JSON.parse(readFileSync(yol, 'utf8'));
+    return {
+      KASA_PARCA: JSON.stringify(k.parcalar),
+      KASA_TUZ: k.tuz,
+      KASA_TUR: String(k.tur),
+    };
+  } catch {
+    return {};
+  }
+}
+
+/**
+ * Pakete GİRMEYECEK dosyalar.
+ *
+ * İki tanesi hayatî:
+ *   · `icthat/fulltext`  — kararların ŞİFRESİZ hâli. Şifreli kasayla birlikte
+ *     gönderilirse şifrelemenin hiçbir anlamı kalmaz.
+ *   · `icthat/kasa-anahtar.json` — çözme anahtarının parçaları. Anahtar
+ *     yalnız derleme değişkeni olarak JavaScript'e gömülür; dosya hâlinde
+ *     pakete konursa kasa kilitli bir kapının yanında duran anahtar olur.
+ */
+const PAKETE_GIRMEZ = new Set([
+  join('icthat', 'fulltext'),
+  join('icthat', 'kasa-anahtar.json'),
+]);
 
 /** Seçilen uygulamanın varlıklarını app-src/public'e yerleştirir. */
 function stageAssets(app) {
@@ -140,7 +217,16 @@ function stageAssets(app) {
       console.error(`  ! ${app}: ${name} varlığı yok (${from})`);
       process.exit(1);
     }
-    cpSync(from, join(publicDir, name), { recursive: true });
+    cpSync(from, join(publicDir, name), {
+      recursive: true,
+      filter: (src) => {
+        const goreli = src.slice(dataSrc.length + 1);
+        for (const yasak of PAKETE_GIRMEZ) {
+          if (goreli === yasak || goreli.startsWith(yasak + sep)) return false;
+        }
+        return true;
+      },
+    });
   }
 }
 
@@ -165,6 +251,7 @@ for (const app of targets) {
     GALAXY_APP: app,
     GALAXY_BUILT_AT: builtAt,
     GALAXY_STATS: JSON.stringify(computeStats(ASSETS[app] ?? [])),
+    ...kasaOrtami(ASSETS[app] ?? []),
     NODE_ENV: 'production',
   });
 

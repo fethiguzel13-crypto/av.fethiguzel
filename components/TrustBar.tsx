@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { BookOpen, Calculator, Gavel, MapPin, ShieldCheck, Scale } from 'lucide-react';
+import { BookOpen, Gavel, MapPin, Newspaper, ShieldCheck, Scale } from 'lucide-react';
 
 /**
  * World-class law sites lead with credibility signals above the fold.
@@ -17,12 +17,12 @@ const SIGNALS = [
         label: 'Kanun arşivi',
     },
     {
-        icon: Calculator,
-        value: '30',
-        label: 'Hukuki hesaplama aracı',
+        icon: Gavel,
+        value: '19.000+',
+        label: 'Yargıtay kararı arşivi',
     },
     {
-        icon: Gavel,
+        icon: Newspaper,
         value: 'Günlük',
         label: 'İçtihat ve Resmî Gazete',
     },

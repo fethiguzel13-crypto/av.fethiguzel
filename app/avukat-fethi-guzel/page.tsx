@@ -242,7 +242,7 @@ export default function AvukatFethiGuzelPage() {
                             <h2 className="font-heading font-bold text-charcoal mb-3 text-lg">Ofis</h2>
                             <p className="text-charcoal/60 text-sm leading-relaxed">
                                 {PROFILE.office.street}, {PROFILE.office.locality} / {PROFILE.office.region}.
-                                Randevu ile yüz yüze; talep halinde e-posta veya video görüşmesi.
+                                {PROFILE.office.landmark}. Randevu ile yüz yüze; talep halinde e-posta veya video görüşmesi.
                             </p>
                         </div>
 

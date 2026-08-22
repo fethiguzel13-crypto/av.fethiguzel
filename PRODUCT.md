@@ -11,7 +11,7 @@ web
 Two audiences, deliberately kept separate rather than merged into one funnel:
 
 1. **Prospective clients** in and around Van/Erciş (plus non-Turkish-speaking clients) seeking legal representation or consultation. Reached mainly through district-level local-SEO pages (Van, Erciş, Ağrı, Bitlis, Muradiye, Özalp, Patnos, Tatvan, Ahlat, Adilcevaz, Çaldıran) and an English-speaking-lawyer page.
-2. **General public, lawyers, law students, and academics** using the open-access legal reference platform: statute text + commentary search (mevzuat/şerh), daily case-law digest (içtihat), 30+ legal calculators (hesaplama), citizen guides (vatandaş rehberi / bilgi), lecture notes (ders notları), articles (makaleler), and a legal-term glossary (kavram).
+2. **General public, lawyers, law students, and academics** using the legal reference platform: statute text + commentary search (mevzuat/şerh), daily case-law digest (içtihat), 30+ legal calculators (hesaplama), citizen guides (vatandaş rehberi / bilgi), lecture notes (ders notları), articles (makaleler), a legal-term glossary (kavram), and a **paid Yargıtay archive** (`/yargi-kararlari`) at 500 TL / 30 days. The archive is membership-only; decisions are read on-site with no file download. That price is digital-content access, not attorney/consultation fees (TBB advertising-ban still forbids publishing legal-service fees).
 
 ## Product Purpose
 
@@ -31,7 +31,7 @@ An open, free, deeply cross-linked statute-and-commentary archive (8,088 article
 
 ## Capabilities and Constraints
 
-- **Turkish Bar Association (TBB) advertising-ban compliance is a hard constraint** across every professional-presence page and all future copy: no outcome/success guarantees, no win-rate or percentage statistics, no named client testimonials or client logos, no published fee/price figures. Existing copy already follows this; preserve it in any new work.
+- **Turkish Bar Association (TBB) advertising-ban compliance is a hard constraint** across every professional-presence page and all future copy: no outcome/success guarantees, no win-rate or percentage statistics, no named client testimonials or client logos, no published attorney/consultation fee figures. Exception: the Yargıtay archive membership (500 TL / 30 days) is a digital-content price and must stay labeled as such — never as vekâlet or danışmanlık ücreti.
 - Legal figures that change on a periodic/statutory schedule (kıdem tavanı, faiz oranı, hakem heyeti parasal sınırı, imar ceza tutarları, and the like) are never hardcoded as static prose in this codebase — content links to the relevant calculator instead of stating a number that will go stale.
 - Practice areas on the attorney-services pages: ceza (criminal), aile (family), miras (inheritance), gayrimenkul (real estate), iş (labor), ticaret (commercial), icra-iflas (enforcement/bankruptcy), idare (administrative), arabuluculuk (mediation).
 - Reference-platform content types and current state: mevzuat (statute text + commentary, 47 laws / 8,088 articles — official text fully verified; commentary mostly template pending rewrite, ~95 articles hand-verified), vatandaş rehberi / bilgi (~554 guides, 33 hand-verified and published, remainder withheld), hesaplama (30+ calculators), içtihat (daily case-law digest — citation metadata only, no full decision text in the local archive), ders notları (lecture notes — currently fully withdrawn pending rewrite), makaleler (articles), kavram (glossary).
@@ -51,7 +51,7 @@ An open, free, deeply cross-linked statute-and-commentary archive (8,088 article
 - 8,088 statute articles across 47 laws; official text verified word-for-word against mevzuat.gov.tr source PDFs (17.08.2026 rebuild — see `docs/RESMI-METIN-ONARIMI.md`).
 - Only 33 citizen guides and ~95 statute commentaries are currently hand-verified. The rest of the ~554 guides and ~8,087 commentaries are known template boilerplate, hidden and noindexed pending rewrite — do not present them as authoritative in any new work.
 - No client testimonials, case results, or named client references exist, and none may be fabricated (advertising-ban constraint above).
-- No pricing/fee information exists on the site and none should be added.
+- Attorney/consultation fees are not published. The only listed price is Yargıtay archive membership: 500 TL per 30 days (`lib/uyelik/config.ts`).
 
 ## Product Principles
 

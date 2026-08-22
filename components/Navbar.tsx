@@ -3,7 +3,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { usePathname, useRouter } from 'next/navigation';
-import { Menu, X, Scale, ChevronDown, Search } from 'lucide-react';
+import { Menu, X, Scale, ChevronDown, Search, Lock } from 'lucide-react';
 
 const MEVZUAT_GRUPLARI = [
   {
@@ -99,9 +99,18 @@ export default function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [megaOpen, setMegaOpen] = useState(false);
   const [navQ, setNavQ] = useState('');
+  const [uyelikUi, setUyelikUi] = useState<string | null>(null);
   const megaRef = useRef<HTMLDivElement>(null);
   const pathname = usePathname();
   const router = useRouter();
+
+  useEffect(() => {
+    const raw = document.cookie
+      .split(';')
+      .map((c) => c.trim())
+      .find((c) => c.startsWith('fg_arsiv_ui='));
+    setUyelikUi(raw ? raw.slice('fg_arsiv_ui='.length) : null);
+  }, [pathname]);
 
   const submitNavSearch = (e: React.FormEvent) => {
     e.preventDefault();
@@ -137,12 +146,15 @@ export default function Navbar() {
     return () => document.removeEventListener('mousedown', handler);
   }, []);
 
-  const simpleLinks = [
+  const uyelikHref = uyelikUi === '1' ? '/yargi-kararlari' : uyelikUi === '0' ? '/uyelik/odeme' : '/uyelik';
+  const uyelikLabel = uyelikUi === '1' ? 'Hesabım' : uyelikUi === '0' ? 'Üyelik' : 'Üye ol';
+
+  const simpleLinks: { name: string; href: string; lock?: boolean }[] = [
     { name: 'Ara', href: '/ara' },
+    { name: 'Yargı', href: '/yargi-kararlari', lock: true },
     { name: 'Rehber', href: '/bilgi' },
-    { name: 'Hesaplama', href: '/hesaplama' },
     { name: 'Güncel', href: '/icthat' },
-    { name: 'Yargı', href: '/yargi-kararlari' },
+    { name: 'Hesaplama', href: '/hesaplama' },
     { name: 'Hakkımda', href: '/avukat-fethi-guzel' },
     { name: 'Akademik', href: '/akademik-profil' },
     { name: 'Ders notları', href: '/ders-notlari' },
@@ -172,11 +184,15 @@ export default function Navbar() {
             <Link
               key={item.name}
               href={item.href}
-              className={`px-3 py-2 rounded-full transition-colors ${linkCls}`}
+              className={`px-3 py-2 rounded-full transition-colors inline-flex items-center gap-1 ${linkCls}`}
             >
               {item.name}
+              {item.lock ? <Lock size={11} aria-hidden /> : null}
             </Link>
           ))}
+          <Link href={uyelikHref} className={`px-3 py-2 rounded-full transition-colors ${linkCls}`}>
+            {uyelikLabel}
+          </Link>
 
           {/* Mevzuat mega trigger */}
           <div ref={megaRef} className="relative">
@@ -285,11 +301,19 @@ export default function Navbar() {
               key={item.name}
               href={item.href}
               onClick={() => setMobileOpen(false)}
-              className="text-charcoal font-heading font-bold uppercase text-base py-2.5 border-b border-charcoal/[0.06]"
+              className="text-charcoal font-heading font-bold uppercase text-base py-2.5 border-b border-charcoal/[0.06] inline-flex items-center gap-2"
             >
               {item.name}
+              {item.lock ? <Lock size={14} aria-hidden /> : null}
             </Link>
           ))}
+          <Link
+            href={uyelikHref}
+            onClick={() => setMobileOpen(false)}
+            className="text-accent font-heading font-bold uppercase text-base py-2.5 border-b border-charcoal/[0.06]"
+          >
+            {uyelikLabel}
+          </Link>
           <form onSubmit={submitNavSearch} className="mt-2 mb-3 flex gap-2" role="search">
             <input
               type="search"

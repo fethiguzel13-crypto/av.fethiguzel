@@ -64,28 +64,41 @@ await step('giriş ekranı açılıyor', async () => {
   await page.waitForSelector('text=Hukuk Asistanı', { timeout: 8000 });
 });
 
-await step('dört bölüm kartı görünüyor', async () => {
-  for (const label of ['Mevzuat', 'Hesaplama', 'İçtihat', 'Vatandaş rehberi']) {
+await step('bölüm kartları görünüyor', async () => {
+  for (const label of ['Mevzuat', 'Yargıtay arşivi', 'Kitaplık', 'Hesaplama araçları']) {
     await page.waitForSelector(`text=${label}`, { timeout: 5000 });
   }
 });
 
-await step('gerçek sayılar ekranda', async () => {
+await step('külliyat sayaçları gerçek veriden', async () => {
   const body = await page.textContent('body');
-  if (!/8\.088 madde/.test(body)) throw new Error('madde sayısı yok');
-  if (!/33 araç/.test(body)) throw new Error('araç sayısı yok');
+  // Sayılar derleme anında üretilir; burada YALNIZ biçim denetlenir,
+  // sabit bir rakam beklenmez — külliyat her gün büyüyor ve sabit beklenti
+  // testi kaçınılmaz olarak kırmızıya döner.
+  if (!/madde metni/.test(body)) throw new Error('madde sayacı yok');
+  if (!/Yargıtay kararı/.test(body)) throw new Error('karar sayacı yok');
+  if (!/kavram/.test(body)) throw new Error('kavram sayacı yok');
+  if (!/akademik eser/.test(body)) throw new Error('eser sayacı yok');
+  if (!/\d\.\d{3}/.test(body)) throw new Error('binlik ayraçlı sayı yok — sayaçlar boş');
 });
 
 await step('alt gezinme 5 sekme', async () => {
   const n = await page.locator('nav[aria-label], footer nav, [role="tablist"]').count();
-  const tabs = await page.locator('button, a').filter({ hasText: /Mevzuat|Hesap|İçtihat|Rehber|Ana/ }).count();
+  const tabs = await page
+    .locator('button, a')
+    .filter({ hasText: /Mevzuat|Yargı|Kitaplık|Araçlar|Ana/ })
+    .count();
   if (tabs < 5) throw new Error(`sekme/kart sayısı ${tabs} (nav ${n})`);
 });
 
 for (const [path, expect] of [
   ['/mevzuat', /kanun|Mevzuat/i],
   ['/hesap', /hesap|araç/i],
+  ['/arsiv', /arşiv|karar/i],
   ['/icthat', /içtihat|karar|bugün/i],
+  ['/kitaplik', /kitaplık|kavram|eser/i],
+  ['/kavram', /kavram/i],
+  ['/eserler', /eser|makale/i],
   ['/rehber', /rehber|konu/i],
   ['/diger', /gizlilik|ayarlar|bilgi/i],
 ]) {
@@ -96,6 +109,31 @@ for (const [path, expect] of [
     if (!expect.test(body)) throw new Error(`beklenen içerik yok (${body.slice(0, 70)}…)`);
   });
 }
+
+
+await step('arşiv satırları konu başlığı taşıyor', async () => {
+  await page.goto('http://localhost:4599/#/arsiv', { waitUntil: 'networkidle' });
+  await page.waitForTimeout(1200);
+  const body = await page.textContent('body');
+  // Künye duvarı geri dönerse burada yakalanır: konu başlığı çıkarımı
+  // bozulduğunda liste yine yalnız «E. …, K. …» satırlarından oluşur.
+  const kunyeSayisi = (body.match(/E\. \d{4}\//g) || []).length;
+  if (kunyeSayisi < 3) throw new Error('arşiv listesi boş');
+  const suc = /(suçu|davası|tazminat|alacak|tespit|iptal|fesih|yağma|hırsızlık)/i.test(body);
+  if (!suc) throw new Error('hiçbir satırda konu başlığı yok — çıkarım bozuk');
+});
+
+await step('madde metni yeniden akıtılmış', async () => {
+  await page.goto('http://localhost:4599/#/mevzuat/is-kanunu/madde-17', {
+    waitUntil: 'networkidle',
+  });
+  await page.waitForTimeout(900);
+  const body = await page.textContent('body');
+  if (!/Belirsiz süreli iş sözleşmelerinin feshinden önce/.test(body)) {
+    throw new Error('resmî metin görünmüyor');
+  }
+  if (/---/.test(body)) throw new Error('ham markdown ayracı ekranda');
+});
 
 await step('giriş ekranına dönülüyor', async () => {
   await page.goto('http://localhost:4599/#/', { waitUntil: 'networkidle' });

@@ -147,6 +147,20 @@ function checkFlavor(app) {
   }
   if (assets.length) ok(`${label} çevrimdışı içerik yerinde (${assets.join(', ')})`);
 
+  // Pakete GIRMEMESI gereken dosyalar.
+  //
+  // Karar tam metinleri ücretli; pakete şifreli kasa olarak girer. Şifresiz
+  // kopya ya da anahtar dosyası pakete sızarsa üyelik kapısı anlamsızlaşır ve
+  // bunu kimse fark etmez — sürüm sessizce açık çıkar. Bu yüzden denetim
+  // olumsuz da çalışır: var olması gerekenler kadar OLMAMASI gerekenler de
+  // kontrol edilir.
+  for (const y of YASAK_VARLIKLAR) {
+    if (existsSync(join(www, y))) {
+      fail(`${label} pakete girmemesi gereken dosya var: www/${y}`);
+    }
+  }
+  ok(`${label} şifresiz karar metni ve kasa anahtarı pakette değil`);
+
   // Sürüm
   const meta = existsSync(join(dir, 'meta.json'))
     ? JSON.parse(readFileSync(join(dir, 'meta.json'), 'utf8'))
@@ -156,6 +170,20 @@ function checkFlavor(app) {
     fail(`${label} meta versionCode (${meta.versionCode}) ≠ katalog (${app.versionCode})`);
   }
 }
+
+/**
+ * Hiçbir sürümde pakete girmemesi gereken dosyalar.
+ *
+ * `build-app.mjs` içindeki PAKETE_GIRMEZ süzgeci bunları zaten eler; burası
+ * süzgecin çalıştığını KANITLAYAN ikinci kapıdır. Tek kapıya güvenmenin
+ * bedeli, süzgeç bir gün bozulduğunda 111 MB şifresiz kararın mağazaya
+ * gitmesidir.
+ */
+const YASAK_VARLIKLAR = [
+  'icthat/fulltext',
+  'icthat/fulltext/manifest.json',
+  'icthat/kasa-anahtar.json',
+];
 
 /**
  * Bir varlık kümesinin varlığını KANITLAYAN dosyalar.
@@ -168,8 +196,20 @@ function checkFlavor(app) {
  */
 const ASSET_SENTINELS = {
   packs: ['packs/manifest.json'],
-  icthat: ['icthat/seed.json', 'icthat/archive.json.gz'],
+  // arama.txt.gz eksikse arama YİNE çalışır, yalnız katlamayı cihazda yapar
+  // ve tek tuş saniyelere çıkar. Sessiz bozulma olduğu için denetlenir.
+  icthat: [
+    'icthat/seed.json',
+    'icthat/archive.json.gz',
+    'icthat/arama.txt.gz',
+    'icthat/kasa/manifest.json',
+  ],
   rehber: ['rehber/guides.json.gz'],
+  // Madde → karar ters indeksi. Eksikse mevzuat açılır ama «bu maddeye atıf
+  // yapan kararlar» hiç görünmez; kullanıcıya hiçbir hata çıkmaz.
+  mevzuat: ['mevzuat/atif.json.gz'],
+  // Akademik eserlerin tam metni
+  kutuphane: ['kutuphane/eserler.json.gz'],
 };
 
 function expectedAssets(id) {

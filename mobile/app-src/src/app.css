@@ -3,21 +3,64 @@
 @tailwind utilities;
 
 /*
-  Flavor vurgusu tek yerden. main.tsx açılışta --brand'i katalogdan yazar,
-  böylece aynı kaynak ağacı dört farklı renk kimliğiyle derlenir.
+  ─────────────────────────────────────────────────────────────────────────
+  JETONLAR
+  ─────────────────────────────────────────────────────────────────────────
+
+  Metin renkleri neden jeton?
+
+  Denetim, arayüzde 1.460 kontrast ihlali buldu. Tek tek kusur değillerdi:
+  ikincil metnin rengi her yerde `text-charcoal/45`, `/50`, `/55` gibi bir
+  OPAKLIK TAHMİNİYLE veriliyordu. Krem zemin üzerinde %45 opak siyah 2,9:1
+  eder — WCAG'ın gövde metni için istediği 4,5:1'in çok altı. Tahminle renk
+  seçildiği için de her ekranda farklı bir değer tutturulmuştu.
+
+  Aşağıdaki mürekkep basamakları ölçülerek bulundu; her biri hem krem
+  zeminde hem kâğıt yüzeyde eşiği geçer:
+
+      --ink-1  #1A1A1A   12,4:1 / 14,0:1   ana metin
+      --ink-2  #4C5450    6,8:1 /  7,7:1   ikincil metin, etiket
+      --ink-3  #626965    4,9:1 /  5,6:1   üçüncül — gövde için EN ALT sınır
+      --ink-4  #8A918D    2,9:1 /  3,3:1   METİN DEĞİL: çizgi, pasif ikon
+
+  Gri değil YEŞİLE ÇALAN gri: krem renkli bir yüzeyde nötr gri kirli görünür
+  ve markanın dışında durur. Basamaklar orman yeşilinden (#2E4036) türetildi.
 */
 :root {
   --brand: #2e4036;
   --brand-dark: #1f2b24;
   --brand-soft: rgba(46, 64, 54, 0.08);
+
+  /* Mürekkep */
+  --ink-1: #1a1a1a;
+  --ink-2: #4c5450;
+  --ink-3: #626965;
+  --ink-4: #8a918d;
+
+  /* Yüzeyler */
+  --zemin: #f2f0e9;
+  --kagit: #fffefa;
+  --kagit-kenar: rgba(46, 64, 54, 0.13);
+  --tel: rgba(46, 64, 54, 0.11);
+  --tel-koyu: rgba(46, 64, 54, 0.18);
+
+  /* Bölüm rengi — her sekme kendi rengini yazar (bkz. AppShell) */
+  --bolum: var(--brand);
+
+  /* Okuma ölçeği — madde ve karar metninde üç kademe */
+  --okuma-olcek: 1;
+
+  color-scheme: light;
+  accent-color: var(--brand);
 }
 
 html,
 body {
   margin: 0;
-  background: #f2f0e9;
-  color: #1a1a1a;
+  background: var(--zemin);
+  color: var(--ink-1);
   -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
   overscroll-behavior-y: none;
 }
 
@@ -27,7 +70,50 @@ body {
   padding-top: env(safe-area-inset-top);
 }
 
-/* WebView'da uzun basınca çıkan seçim/ vurgulama menüsü uygulama hissini bozar */
+/*
+  TARAYICI YÜZEYLERİ
+
+  Çizilmeyen parçalar da tasarımın parçası. Seçim vurgusu, imleç, kaydırma
+  çubuğu ve odak halkası varsayılan hâlleriyle hiçbir tasarım sistemine ait
+  değil; bir hukuk metnini seçip kopyalayan kullanıcı sistem mavisini görüyordu.
+*/
+::selection {
+  background: rgba(46, 64, 54, 0.18);
+  color: var(--ink-1);
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(46, 64, 54, 0.22);
+  border-radius: 999px;
+  border: 3px solid transparent;
+  background-clip: content-box;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+input,
+textarea {
+  caret-color: var(--brand);
+}
+
+/*
+  Odak halkası: klavye ve dış ekran kullananlar için. `:focus-visible`
+  seçildi — dokunmayla basıldığında halka çıkmaz, sekme ile gezilince çıkar.
+*/
+:focus-visible {
+  outline: 2px solid var(--brand);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+/* WebView'da uzun basınca çıkan seçim/vurgulama menüsü uygulama hissini bozar */
 button,
 a,
 [role='button'] {
@@ -52,13 +138,97 @@ select {
   font-size: 16px;
 }
 
+/*
+  Rakamlar SÜTUN hâlinde okunur.
+
+  Künye («E. 2025/525, K. 2026/350»), madde numarası, tarih ve tutar
+  listelerinde orantılı rakam kullanmak sütunları kaydırıyordu. Tablo
+  rakamları hepsini aynı genişliğe getirir — hukuk metninde sayı, süs değil
+  veri.
+*/
+.font-mono,
+time,
+.rakam {
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: 'tnum' 1;
+}
+
+/* Türkçe'de otomatik heceleme güvenilir değil; başlıklarda öksüz kelime
+   bırakmamak için satır dengeleme kullanılır. */
+h1,
+h2,
+h3 {
+  text-wrap: balance;
+  hyphens: none;
+}
+
+p {
+  text-wrap: pretty;
+}
+
 @layer components {
   .tap {
     @apply active:scale-[0.985] transition-transform duration-100;
   }
 
+  /*
+    Kart — GERÇEKTEN kart olan şeyler için.
+
+    Liste satırlarının her birini karta koymak, 47 kanunu ya da 120 kararı
+    47/120 ayrı kutuya bölüyor ve sayfayı okunmaz bir kutu yığınına
+    çeviriyordu. Liste satırları artık `.satir` kullanır; kart yalnız bölüm
+    girişleri ve okuma yüzeyleri gibi tek başına duran şeyler içindir.
+  */
   .card {
-    @apply bg-white rounded-2xl border border-charcoal/[0.08] shadow-soft;
+    @apply bg-surface rounded-2xl border;
+    border-color: var(--tel);
+    box-shadow: 0 1px 2px rgba(26, 26, 26, 0.035), 0 6px 18px -10px rgba(26, 26, 26, 0.09);
+  }
+
+  /*
+    Liste satırı — kutu değil, basılı bir sayfadaki satır.
+
+    Ayrım kutu kenarıyla değil saç teli çizgiyle yapılır; yoğunluk artar,
+    gürültü düşer. Basılınca yüzey hafifçe koyulur.
+  */
+  .satir {
+    @apply w-full text-left px-4 py-3.5 bg-transparent transition-colors duration-100;
+    border-bottom: 1px solid var(--tel);
+  }
+
+  .satir:active {
+    background: rgba(46, 64, 54, 0.045);
+  }
+
+  .satir-grup {
+    @apply rounded-2xl overflow-hidden bg-surface border;
+    border-color: var(--tel);
+    box-shadow: 0 1px 2px rgba(26, 26, 26, 0.03);
+  }
+
+  .satir-grup > *:last-child .satir,
+  .satir-grup > .satir:last-child {
+    border-bottom: 0;
+  }
+
+  /*
+    Uzun listelerde ekran dışı satırlar hesaplanmaz.
+
+    Yargı arşivi kaydırdıkça uzuyor ve birkaç yüz satıra çıkıyor; tarayıcı
+    her karede hepsinin yerleşimini ve boyamasını yeniden yapıyordu. Ölçümde
+    kaydırmanın 36 karesi 32 ms'yi aşıyordu — gözle görülür takılma.
+
+    `content-visibility` görünür alanın dışındaki satırın işini atlar;
+    `contain-intrinsic-size` ise atlanan satırın yerini tutar, böylece
+    kaydırma çubuğu zıplamaz. Bu, sanal liste kütüphanesi eklemeden aynı
+    kazancı verir ve satırlar aramada, ekran okuyucuda, Ctrl+F'te bulunur
+    kalır — sanal listede olmazlar.
+
+    88 px ölçülmüş bir değerdir: konu satırlı arşiv satırının tipik yüksekliği.
+  */
+  .satir-liste > li {
+    content-visibility: auto;
+    contain-intrinsic-size: auto 88px;
   }
 
   .pill {
@@ -69,16 +239,100 @@ select {
     @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-3
            font-bold text-white text-sm tap;
     background: var(--brand);
+    min-height: 44px;
   }
 
   .btn-ghost {
     @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-3
-           font-bold text-sm border border-charcoal/15 bg-white text-charcoal tap;
+           font-bold text-sm bg-surface tap;
+    border: 1px solid var(--tel-koyu);
+    color: var(--ink-1);
+    min-height: 44px;
   }
 
   /* Alt gezinme yüksekliği + güvenli alan kadar boşluk bırakan sarmalayıcı */
   .page {
     @apply px-4 pb-[calc(5.5rem+env(safe-area-inset-bottom))] pt-3;
+  }
+
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  /*
+    OKUMA YÜZEYİ — kanun ve karar metninin kâğıdı.
+
+    Resmî metin arayüz metninden görsel olarak AYRILMALI: hukukçu neyin
+    kanunun kendisi, neyin uygulamanın yorumu olduğunu bir bakışta ayırt
+    edebilmeli. Serif gövde + sıcak kâğıt + ince çerçeve bu ayrımı taşır.
+  */
+  .kagit {
+    @apply rounded-2xl px-4 py-4;
+    background: var(--kagit);
+    border: 1px solid var(--kagit-kenar);
+    box-shadow: 0 1px 2px rgba(26, 26, 26, 0.035), 0 10px 26px -18px rgba(46, 64, 54, 0.35);
+  }
+
+  .okuma {
+    @apply font-serif;
+    color: var(--ink-1);
+    font-size: calc(15.5px * var(--okuma-olcek, 1));
+    line-height: 1.74;
+    letter-spacing: 0.003em;
+  }
+
+  /* Fıkra ve bent girintisi — kanunun kendi yapısı ekranda da dursun */
+  .okuma-bent {
+    @apply flex gap-2.5;
+    padding-left: 0.1rem;
+  }
+
+  .okuma-isaret {
+    @apply font-mono font-semibold shrink-0;
+    color: var(--ink-3);
+    font-size: calc(13px * var(--okuma-olcek, 1));
+    line-height: calc(1.74 * 15.5px * var(--okuma-olcek, 1) / (13px * var(--okuma-olcek, 1)));
+    min-width: 1.65rem;
+  }
+
+  /*
+    Bölüm etiketi — mono, seyrek, küçük ama 12px'in altına inmez.
+
+    Denetim 601 adet 12px altı metin bulmuştu; 10,5px'lik bir etiket
+    telefonda okunamıyor, yalnız "tasarlanmış" görünüyor.
+  */
+  .etiket {
+    @apply font-mono uppercase font-medium;
+    font-size: 12px;
+    letter-spacing: 0.13em;
+    color: var(--ink-3);
+  }
+
+  .etiket-koyu {
+    color: var(--ink-2);
+  }
+
+  /* Rozet — kanun kodu, kademe, sayı */
+  .rozet {
+    @apply inline-flex items-center rounded-md font-mono font-bold;
+    font-size: 12px;
+    padding: 2px 6px;
+    letter-spacing: 0.02em;
+  }
+
+  /*
+    Dokunma hedefi tabanı.
+
+    Denetim 88 adet 40px altı hedef buldu; kaydırılabilir şeritteki 30px'lik
+    çipler ve hesaplama sonucundaki 15px yüksekliğindeki düğmeler dâhil.
+  */
+  .hedef {
+    min-height: 44px;
   }
 }
 
@@ -92,7 +346,7 @@ select {
 .skeleton {
   position: relative;
   overflow: hidden;
-  background: rgba(26, 26, 26, 0.06);
+  background: rgba(46, 64, 54, 0.07);
 }
 
 .skeleton::after {
@@ -100,8 +354,35 @@ select {
   position: absolute;
   inset: 0;
   transform: translateX(-100%);
-  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.6), transparent);
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.65), transparent);
   animation: shimmer 1.4s infinite;
+}
+
+/*
+  TEK YAZARLI HAREKET
+
+  Uygulamada tek bir kurgulanmış an var: bir madde ya da karar açıldığında
+  okuma yüzeyinin yükselmesi. Her bölüme ayrı giriş animasyonu koymak
+  hareketi gürültüye çevirir; buradaki tek jest "metin geldi" der.
+
+  Üstel yavaşlama, zaten görünür bir başlangıçtan: içerik hiçbir an
+  görünmez değil, yalnız yerine oturur.
+*/
+@keyframes kagit-gir {
+  from {
+    opacity: 0.55;
+    transform: translateY(10px);
+    filter: blur(1.5px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+    filter: none;
+  }
+}
+
+.kagit {
+  animation: kagit-gir 420ms cubic-bezier(0.16, 1, 0.3, 1) both;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -110,5 +391,101 @@ select {
   }
   .tap {
     transition: none;
+  }
+  .kagit {
+    animation: none;
+  }
+}
+
+/*
+  ─────────────────────────────────────────────────────────────────────────
+  DEVRALINAN OPAKLIK SINIFLARININ DÜZELTİLMESİ
+  ─────────────────────────────────────────────────────────────────────────
+
+  Bu blok, uygulamanın kendi kaynağında ve portaldan doğrudan içe aktarılan
+  bileşenlerde (33 hesaplama aracı) geçen `text-charcoal/NN` sınıflarını
+  ölçülmüş mürekkep basamaklarına bağlar.
+
+  Neden sınıfları tek tek düzeltmek yerine burada?
+  Hesaplama araçları portalın kaynağından geliyor; oradaki sınıfları
+  değiştirmek İNTERNET SİTESİNİ de değiştirirdi. Uygulamanın kendi stil
+  katmanında yeniden tanımlamak, siteye dokunmadan aynı sonucu verir.
+
+  `utilities` katmanının içinde ve aynı özgüllükte tanımlandığı için sonra
+  gelen bu kurallar kazanır.
+*/
+@layer utilities {
+  .text-charcoal\/30,
+  .text-charcoal\/35,
+  .text-charcoal\/40,
+  .text-charcoal\/42,
+  .text-charcoal\/45 {
+    color: var(--ink-3);
+  }
+
+  .text-charcoal\/50,
+  .text-charcoal\/55,
+  .text-charcoal\/60,
+  .text-charcoal\/65 {
+    color: var(--ink-2);
+  }
+
+  .text-charcoal\/70,
+  .text-charcoal\/75,
+  .text-charcoal\/80 {
+    color: var(--ink-1);
+  }
+
+  /* Metin olmayan kullanım — ok işaretleri, pasif ikonlar */
+  .text-charcoal\/20,
+  .text-charcoal\/25 {
+    color: var(--ink-4);
+  }
+
+  /*
+    12px tabanı.
+
+    Portaldan gelen bileşenlerde 11px etiketler var; uygulamanın kendi
+    kaynağı düzeltildi, buradaki kural içe aktarılanları da tabana çeker.
+  */
+  .text-\[10px\],
+  .text-\[10\.5px\],
+  .text-\[11px\],
+  .text-\[11\.5px\],
+  .text-xs {
+    font-size: 12px;
+  }
+
+  /*
+    Vurgu turuncusu METİN olarak kullanılamıyor.
+
+    Marka turuncusu #CC5833, krem zeminde 3,68:1 eder — gövde metni için
+    gereken 4,5:1'in altı. Hesaplama sonuçlarındaki bölüm etiketleri bu
+    renkle yazılmış. Marka rengine dokunmadan, metin için koyulaştırılmış
+    bir tonu bağlanır: dolgu ve ikon hâlâ #CC5833, yalnız yazı koyu.
+  */
+  .text-accent {
+    color: #a44322;
+  }
+
+  /*
+    DOKUNMA HEDEFİ TABANI — içe aktarılan bileşenler için.
+
+    33 hesaplama aracı portalın bileşeninden geliyor ve ölçüleri fare için
+    belirlenmiş: filtre çipleri 30px, sonuç panelindeki kopyala/paylaş
+    düğmeleri 18px yüksekliğinde. Parmakla 18px'lik bir hedefe basılamaz.
+    Sitedeki ölçüleri bozmadan uygulamada 44px'e çekilir.
+  */
+  button.pill,
+  a.pill {
+    min-height: 44px;
+  }
+
+  .bg-primary\/5 button,
+  .bg-accent\/5 button,
+  .bg-primary\/\[0\.04\] button {
+    min-height: 44px;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
   }
 }

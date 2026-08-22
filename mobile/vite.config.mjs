@@ -54,6 +54,16 @@ export default defineConfig(() => {
       __GALAXY_BUILT_AT__: JSON.stringify(process.env.GALAXY_BUILT_AT || ''),
       // Giriş ekranındaki sayılar; build-app.mjs gerçek veriden hesaplar.
       __GALAXY_STATS__: process.env.GALAXY_STATS || '{}',
+      /*
+        Karar kasasının anahtar parçaları.
+
+        build-yargi-sifrele.mjs her derlemede yeni bir anahtar üretir,
+        dörde bölüp maskeler; parçalar buradan pakete girer. Anahtar
+        bütün hâlde hiçbir dosyada bulunmaz (bkz. app-src/src/lib/kasa.ts).
+      */
+      __KASA_PARCA__: process.env.KASA_PARCA || '[]',
+      __KASA_TUZ__: JSON.stringify(process.env.KASA_TUZ || ''),
+      __KASA_TUR__: Number(process.env.KASA_TUR || 100000),
       'process.env.NODE_ENV': JSON.stringify(process.env.NODE_ENV || 'production'),
     },
     resolve: {

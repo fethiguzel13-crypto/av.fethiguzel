@@ -9,13 +9,13 @@ const LINKS = [
         href: "/ara",
         icon: Search,
         title: "Mevzuat Ara",
-        desc: "7800+ madde ve şerh içinde anında arama",
+        desc: "8.000+ madde ve şerh içinde anında arama",
     },
     {
-        href: "/mevzuat",
-        icon: BookOpen,
-        title: "Kanun Arşivi",
-        desc: "45+ kanun, akademik şerhli madde bankası",
+        href: "/yargi-kararlari",
+        icon: Scale,
+        title: "Yargıtay Arşivi",
+        desc: "Aylık üyelik · sitede okuma · indirme yok",
     },
     {
         href: "/icthat",
@@ -24,10 +24,10 @@ const LINKS = [
         desc: "Yargıtay, AYM ve Resmî Gazete taraması",
     },
     {
-        href: "/hesaplama",
-        icon: Scale,
-        title: "Hesaplama Araçları",
-        desc: "Kıdem, faiz, miras, nafaka ve daha fazlası",
+        href: "/bilgi",
+        icon: BookOpen,
+        title: "Vatandaş Rehberi",
+        desc: "Merci, süre, belge — 550+ adım adım kılavuz",
     },
 ];
 
@@ -43,8 +43,8 @@ export default function LibraryStrip() {
                         Tek platformda <span className="font-drama italic text-accent font-medium">her şey</span>
                     </h2>
                     <p className="mt-4 text-charcoal/55 text-sm sm:text-base max-w-2xl mx-auto leading-relaxed">
-                        En iyi hukuk siteleri yalnızca ofisi anlatmaz; ziyaretçiye araç verir.
-                        Mevzuat arayın, şerh okuyun, içtihatı takip edin, hesabınızı yapın.
+                        Mevzuatı açın, kararı okuyun, şerhi karşılaştırın.
+                        Hesaplama araçları kütüphanenin yanındadır; onun yerine geçmez.
                     </p>
                 </div>
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">

@@ -18,3 +18,20 @@ android/app/release/
 *.aab
 *.ap_
 *.dex
+data-src/icthat/fulltext/
+# Karar tam metinleri 111 MB; derlemede üretilir ve app-src/public'e
+# kopyalanır. Kaynak kopyası zaten yok sayılıyor, sahnelenen kopya da
+# yok sayılmalı — yoksa ilk `git add .` depoya 111 MB gömer.
+app-src/public/icthat/fulltext/
+
+# Tasarım denetimi çıktısı — her koşuda yeniden üretilir
+.design-audit/
+
+# Şifreli karar kasası (112 MB) — build-yargi-sifrele.mjs her derlemede üretir
+data-src/icthat/kasa/
+app-src/public/icthat/kasa/
+
+# ★ Kasa anahtarı. Depoya girerse şifreleme anlamsızlaşır: kaynağa erişen
+# herkes 23 bin kararı çözebilir. Anahtar yerelde kalır; CI'da gizli değişken
+# olarak verilir (KASA_PARCA / KASA_TUZ / KASA_TUR).
+data-src/icthat/kasa-anahtar.json

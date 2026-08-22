@@ -3,6 +3,7 @@ import { Plus_Jakarta_Sans, Outfit, Cormorant_Garamond, IBM_Plex_Mono } from 'ne
 import SkipLink from '@/components/SkipLink'
 import AppNativeChrome from '@/components/AppNativeChrome'
 import GalaxyChrome from '@/components/GalaxyChrome'
+import { PROFILE } from '@/lib/profile'
 import './globals.css'
 
 const plusJakarta = Plus_Jakarta_Sans({
@@ -168,10 +169,10 @@ const personSchema = {
   knowsLanguage: ['tr', 'en'],
   address: {
     '@type': 'PostalAddress',
-    streetAddress: 'Vanyolu Mah. Karayusuf Bey Bulvarı Zenginler İş Hanı A Blok Kat 5 No 33',
-    addressLocality: 'Erciş',
-    addressRegion: 'Van',
-    postalCode: '65400',
+    streetAddress: PROFILE.office.street,
+    addressLocality: PROFILE.office.locality,
+    addressRegion: PROFILE.office.region,
+    postalCode: PROFILE.office.postalCode,
     addressCountry: 'TR',
   },
   areaServed: [
@@ -254,16 +255,16 @@ const orgSchema = {
   priceRange: '$$',
   address: {
     '@type': 'PostalAddress',
-    streetAddress: 'Vanyolu Mah. Karayusuf Bey Bulvarı Zenginler İş Hanı A Blok Kat 5 No 33',
-    addressLocality: 'Erciş',
-    addressRegion: 'Van',
-    postalCode: '65400',
+    streetAddress: PROFILE.office.street,
+    addressLocality: PROFILE.office.locality,
+    addressRegion: PROFILE.office.region,
+    postalCode: PROFILE.office.postalCode,
     addressCountry: 'TR',
   },
   geo: {
     '@type': 'GeoCoordinates',
-    latitude: 39.028,
-    longitude: 43.36,
+    latitude: PROFILE.office.latitude,
+    longitude: PROFILE.office.longitude,
   },
   areaServed: [
     { '@type': 'AdministrativeArea', name: 'Van' },

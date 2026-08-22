@@ -50,7 +50,7 @@ export default function BottomNav() {
   return (
     <nav
       aria-label="Ana gezinme"
-      className="fixed bottom-0 inset-x-0 z-40 bg-white/95 backdrop-blur border-t border-charcoal/10"
+      className="fixed bottom-0 inset-x-0 z-40 bg-white/95 backdrop-blur border-t border-tel"
       style={{ paddingBottom: 'env(safe-area-inset-bottom)' }}
     >
       <ul className="flex">
@@ -63,7 +63,7 @@ export default function BottomNav() {
                 type="button"
                 aria-current={isActive ? 'page' : undefined}
                 className="w-full h-[58px] flex flex-col items-center justify-center gap-0.5 tap"
-                style={{ color: isActive ? 'var(--brand)' : 'rgba(26,26,26,0.42)' }}
+                style={{ color: isActive ? 'var(--bolum)' : 'var(--ink-3)' }}
                 onClick={() => {
                   void tapFeedback();
                   navigate(tab.path);

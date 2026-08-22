@@ -132,6 +132,8 @@ export const KEYS = {
   lastSeenIcthat: 'galaxy:icthat-seen',
   notifyDaily: 'galaxy:notify-daily',
   fontScale: 'galaxy:font-scale',
+  /** Son okunan madde ve kararlar — ana ekrandaki «kaldığınız yer» şeridi */
+  lastRead: 'galaxy:last-read',
   onboarded: 'galaxy:onboarded',
 } as const;
 

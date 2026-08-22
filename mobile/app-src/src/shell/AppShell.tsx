@@ -5,8 +5,10 @@ import { WifiOff, Share2, Settings } from 'lucide-react';
 
 import { APP, appName } from '../lib/config';
 import { useRoute, navigate } from '../lib/router';
+import { sectionOf, BOLUM_RENK, BOLUM_SERIT } from '../lib/nav';
 import { share } from '../lib/external';
 import { siteUrlFor } from '../lib/deeplink';
+import { cubukBasligi } from './baslik';
 import BottomNav from './BottomNav';
 
 /**
@@ -70,6 +72,20 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
   }, []);
 
   const atRoot = route.path === '/';
+  const bolum = sectionOf(route.path) ?? 'home';
+  const bolumRengi = BOLUM_RENK[bolum] ?? BOLUM_RENK.home;
+  const seritRengi = BOLUM_SERIT[bolum] ?? BOLUM_SERIT.home;
+  const baslik = cubukBasligi(route.path, appName());
+
+  /*
+    Bölüm rengi köke yazılır; rozetler, vurgular ve başlık altındaki şerit
+    aynı değişkenden beslenir. Böylece «neredeyim» sorusu tek bir kaynaktan
+    cevaplanır ve bir bölüme yeni ekran eklendiğinde renk kendiliğinden
+    doğru gelir.
+  */
+  useEffect(() => {
+    document.documentElement.style.setProperty('--bolum', bolumRengi);
+  }, [bolumRengi]);
 
   return (
     <div className="min-h-[100dvh] bg-cream flex flex-col">
@@ -77,32 +93,59 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
         className="sticky top-0 z-30 text-white"
         style={{ background: 'var(--brand)' }}
       >
-        <div className="flex items-center gap-2 px-3 h-14">
+        <div className="flex items-center gap-1 px-2.5 h-14">
           {!atRoot ? (
             <button
               type="button"
               aria-label="Geri"
-              className="w-10 h-10 -ml-1 grid place-items-center rounded-full tap"
+              className="w-11 h-11 grid place-items-center rounded-full tap"
               onClick={() => (window.history.length > 1 ? window.history.back() : navigate('/'))}
             >
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+              <svg
+                width="21"
+                height="21"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2.2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                aria-hidden
+              >
                 <path d="M15 18l-6-6 6-6" />
               </svg>
             </button>
           ) : (
-            <span className="w-9 h-9 grid place-items-center rounded-xl bg-white/[0.12] text-base font-bold" aria-hidden>
-              §
+            /*
+              Marka işareti. Paragraf işareti (§) hukuk metninin kendi
+              tipografik damgasıdır; ikon kütüphanesinden ödünç alınmış bir
+              sembol değil. Serif yüzde ve ince bir halka içinde dizilince
+              yedek karakter gibi değil, çizilmiş bir marka gibi durur.
+            */
+            <span
+              className="w-11 h-11 grid place-items-center shrink-0"
+              aria-hidden
+            >
+              <span className="w-9 h-9 grid place-items-center rounded-full border border-white/25 bg-white/[0.10] font-serif text-[19px] leading-none pt-[1px]">
+                §
+              </span>
             </span>
           )}
 
-          <h1 className="flex-1 font-heading font-bold text-[15px] leading-tight truncate">
-            {appName()}
+          <h1
+            className={`flex-1 min-w-0 truncate ${
+              atRoot
+                ? 'font-heading font-bold text-[16px] tracking-tight'
+                : 'font-heading font-semibold text-[15px]'
+            } leading-tight`}
+          >
+            {baslik}
           </h1>
 
           <button
             type="button"
             aria-label="Paylaş"
-            className="w-10 h-10 grid place-items-center rounded-full tap"
+            className="w-11 h-11 grid place-items-center rounded-full tap"
             onClick={() =>
               void share({
                 title: appName(),
@@ -117,7 +160,7 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
           <button
             type="button"
             aria-label="Ayarlar"
-            className="w-10 h-10 grid place-items-center rounded-full tap"
+            className="w-11 h-11 grid place-items-center rounded-full tap"
             onClick={() => navigate('/ayarlar')}
           >
             <Settings size={19} />
@@ -130,9 +173,20 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
             className="flex items-center gap-2 px-4 py-1.5 text-[12px] font-semibold bg-black/25"
           >
             <WifiOff size={13} aria-hidden />
-            <span>Çevrimdışısınız — indirilmiş içerik ve hesaplamalar çalışmaya devam eder.</span>
+            <span>Çevrimdışısınız — mevzuat, karar arşivi ve hesaplamalar cihazda çalışır.</span>
           </div>
         )}
+
+        {/*
+          Bölüm şeridi — kitabın kenarındaki fihrist sekmesi gibi.
+          Başlık çubuğuyla sayfa arasındaki tek çizgi, hangi bölümde
+          olunduğunu renkle söyler.
+        */}
+        <div
+          aria-hidden
+          className="h-[3px] w-full transition-colors duration-300"
+          style={{ background: seritRengi }}
+        />
       </header>
 
       <main id="main" className="flex-1">

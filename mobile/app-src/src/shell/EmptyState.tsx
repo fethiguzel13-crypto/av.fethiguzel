@@ -30,7 +30,7 @@ export default function EmptyState({
           {icon}
         </div>
         <h2 className="text-[15px] font-heading font-bold mb-1.5">{title}</h2>
-        <p className="text-[13px] text-charcoal/55 leading-relaxed">{body}</p>
+        <p className="text-[13px] text-ink-2 leading-relaxed">{body}</p>
         {actionLabel && onAction && (
           <button type="button" className="btn-brand mt-5" onClick={onAction}>
             {actionLabel}

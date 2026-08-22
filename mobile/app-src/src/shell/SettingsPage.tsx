@@ -37,9 +37,9 @@ export default function SettingsPage() {
       {/* Yazı boyutu */}
       <section className="card p-4 mb-3">
         <h3 className="flex items-center gap-2 text-[14px] font-bold mb-1">
-          <Type size={16} className="text-charcoal/40" aria-hidden /> Yazı boyutu
+          <Type size={16} className="text-ink-3" aria-hidden /> Yazı boyutu
         </h3>
-        <p className="text-[12px] text-charcoal/50 leading-relaxed mb-3">
+        <p className="text-[12px] text-ink-2 leading-relaxed mb-3">
           Uzun madde ve gerekçe metinlerini rahat okumak için.
         </p>
         <div className="grid grid-cols-4 gap-1.5">
@@ -101,16 +101,17 @@ export default function SettingsPage() {
       {/* Veri */}
       <section className="card p-4 mt-3">
         <h3 className="flex items-center gap-2 text-[14px] font-bold mb-1">
-          <Database size={16} className="text-charcoal/40" aria-hidden /> Verileriniz
+          <Database size={16} className="text-ink-3" aria-hidden /> Verileriniz
         </h3>
-        <p className="text-[12px] text-charcoal/50 leading-relaxed mb-3">
+        <p className="text-[12px] text-ink-2 leading-relaxed mb-3">
           Favoriler, kayıtlar ve hesap geçmişi yalnız bu cihazda tutulur. Uygulama
           hiçbir kişisel veriyi sunucuya göndermez.
         </p>
         <button
           type="button"
           className="w-full flex items-center justify-center gap-2 py-3 rounded-xl
-                     text-[13px] font-bold border border-red-200 text-red-600 bg-red-50 tap"
+                     text-[13px] font-bold border border-red-200 bg-red-50 tap hedef"
+          style={{ color: '#A32B21' }}
           onClick={() => {
             ALL_KEYS.forEach(remove);
             setCleared(true);
@@ -140,12 +141,12 @@ function Toggle({
 }) {
   return (
     <section className="card p-4 mb-3 flex items-start gap-3">
-      <span className="text-charcoal/40 mt-0.5" aria-hidden>
+      <span className="text-ink-3 mt-0.5" aria-hidden>
         {icon}
       </span>
       <div className="flex-1 min-w-0">
         <h3 className="text-[14px] font-bold mb-0.5">{title}</h3>
-        <p className="text-[12px] text-charcoal/50 leading-relaxed">{body}</p>
+        <p className="text-[12px] text-ink-2 leading-relaxed">{body}</p>
       </div>
       <button
         type="button"
@@ -153,13 +154,21 @@ function Toggle({
         aria-checked={checked}
         aria-label={title}
         onClick={() => void onChange(!checked)}
-        className="shrink-0 w-12 h-7 rounded-full p-0.5 transition-colors tap"
-        style={{ background: checked ? 'var(--brand)' : 'rgba(26,26,26,0.18)' }}
+        className="shrink-0 grid place-items-center w-14 h-11 -mr-1 rounded-xl tap"
       >
+        {/*
+          Dokunma hedefi 48×28'di; parmak için alçak. Kutu 56×44'e çıkarıldı,
+          görünen ray aynı ölçüde kaldı — hedef büyüdü, tasarım değişmedi.
+        */}
         <span
-          className="block w-6 h-6 rounded-full bg-white shadow transition-transform"
-          style={{ transform: checked ? 'translateX(20px)' : 'translateX(0)' }}
-        />
+          className="block w-12 h-7 rounded-full p-0.5 transition-colors"
+          style={{ background: checked ? 'var(--brand)' : 'var(--ink-4)' }}
+        >
+          <span
+            className="block w-6 h-6 rounded-full bg-white shadow transition-transform"
+            style={{ transform: checked ? 'translateX(20px)' : 'translateX(0)' }}
+          />
+        </span>
       </button>
     </section>
   );

@@ -66,7 +66,14 @@ const nextConfig: NextConfig = {
   async rewrites() {
     // Madde sayfaları: Node route (app/mevzuat/[kanunId]/[id]/route.ts) — tam şerh.
     // Eski beforeFiles → /seo-madde/*.html kesik özet veriyordu ("portal arşivinde…"); kaldırıldı.
-    return { beforeFiles: [], afterFiles: [], fallback: [] };
+    return {
+      beforeFiles: [
+        // Public gzip would leak the paid archive index. Membership API owns it.
+        { source: '/data/yargi-index.json.gz', destination: '/api/yargi/index' },
+      ],
+      afterFiles: [],
+      fallback: [],
+    };
   },
   outputFileTracingIncludes: {
     "*": [
@@ -131,6 +138,8 @@ const nextConfig: NextConfig = {
       "./public/data/**/*",
       // notes: NOT excluded here — route-scoped includes below ship them only to
       // /ders-notlari/* lambdas. Auto-trace is blocked via turbopackIgnore in getNote.
+      "./data/yargi-kararlari/**/*",
+      "./data/uyelik/**/*",
       "./scraper/**/*",
       "./scripts/**/*",
       "./docs/**/*",

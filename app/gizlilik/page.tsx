@@ -72,7 +72,17 @@ export default function GizlilikPage() {
                         verilir.
                     </p>
                     <h2 className="text-xl font-heading font-bold text-charcoal pt-4">
-                        6. Sorumluluk reddi
+                        6. Arşiv üyeliği
+                    </h2>
+                    <p>
+                        Yargıtay arşivi üyeliği için e-posta, ad soyad ve şifre (hash&apos;lenmiş)
+                        kaydedilir. Ödeme referansı ve üyelik bitiş tarihi üyeliği yürütmek
+                        için işlenir. Kart ödemesi iyzico üzerinden geçer; kart numarası bu
+                        sitede saklanmaz. Üyelik, dijital içerik erişimidir; avukat–müvekkil
+                        ilişkisi doğurmaz.
+                    </p>
+                    <h2 className="text-xl font-heading font-bold text-charcoal pt-4">
+                        7. Sorumluluk reddi
                     </h2>
                     <p>
                         Hizmetteki içerikler genel bilgilendirme niteliğindedir; hukuki
@@ -80,7 +90,7 @@ export default function GizlilikPage() {
                         bir avukata başvurunuz.
                     </p>
                     <h2 className="text-xl font-heading font-bold text-charcoal pt-4">
-                        7. Güncellemeler
+                        8. Güncellemeler
                     </h2>
                     <p>
                         Bu metin güncellenebilir. Güncel sürüm her zaman bu sayfada yayımlanır.

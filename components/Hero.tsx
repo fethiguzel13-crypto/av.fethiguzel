@@ -3,13 +3,13 @@
 import React, { useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { gsap } from 'gsap';
-import { ArrowRight, Calculator, BookOpen, Scale } from 'lucide-react';
+import { ArrowRight, BookOpen, Scale } from 'lucide-react';
 
 const STAT_ITEMS = [
-  { num: '45+', label: 'Kanun' },
-  { num: '7800+', label: 'Madde + Şerh' },
+  { num: '46', label: 'Kanun' },
+  { num: '8.000+', label: 'Madde + Şerh' },
+  { num: '19.000+', label: 'Yargıtay Kararı' },
   { num: '550+', label: 'Vatandaş Rehberi' },
-  { num: '30', label: 'Hukuki Araç' },
 ];
 
 export default function Hero() {
@@ -56,16 +56,16 @@ export default function Hero() {
           </div>
 
           <h1 className="hero-fade text-[2.35rem] sm:text-5xl md:text-6xl lg:text-[4.25rem] text-cream font-bold leading-[1.05] mb-5 sm:mb-6 tracking-tight text-balance">
-            <span className="block font-heading">Kanun Maddesi, İçtihat</span>
+            <span className="block font-heading">Kanun, İçtihat, Şerh</span>
             <span className="block font-drama italic text-accent mt-1 sm:mt-2 font-medium">
-              ve Hesaplama Araçları.
+              Araştırma Kütüphanesi.
             </span>
           </h1>
 
           <p className="hero-fade text-cream/70 text-base sm:text-lg max-w-xl mb-8 sm:mb-10 font-sans leading-relaxed">
-            Kanun maddesi arama · akademik şerh · e-duruşma monografisi.
-            45+ kanun, 7.800+ madde metni; günlük içtihat, 30 hesaplama aracı ve
-            550+ vatandaş bilgilendirme rehberi.
+            Türk hukuku külliyatı: 46 kanun, 8.000+ madde metni, Yargıtay
+            arşivi ve günlük içtihat. Akademik şerh ve 550+ vatandaş rehberi
+            aynı yerde.
           </p>
 
           <div className="hero-fade flex items-stretch gap-4 sm:gap-8 mb-9 sm:mb-12">
@@ -111,11 +111,11 @@ export default function Hero() {
               <ArrowRight size={16} className="shrink-0 transition-transform group-hover:translate-x-1" />
             </Link>
             <Link
-              href="/hesaplama"
+              href="/yargi-kararlari"
               className="group flex items-center justify-center gap-2 sm:gap-3 bg-cream/[0.12] backdrop-blur-md text-cream border border-cream/20 px-6 py-3.5 sm:py-4 rounded-full font-bold text-sm transition-all hover:bg-cream/20 hover:-translate-y-0.5"
             >
-              <Calculator size={16} className="shrink-0" />
-              <span>HESAPLAMA</span>
+              <Scale size={16} className="shrink-0" />
+              <span>YARGITAY ARŞİVİ</span>
             </Link>
             <Link
               href="/bilgi"

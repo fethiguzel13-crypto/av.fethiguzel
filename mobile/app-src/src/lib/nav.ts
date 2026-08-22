@@ -26,12 +26,21 @@ const TABS: Record<GalaxyAppId, Tab[]> = {
    * her bölüme kendi kökü verildi ve `/` bölümleri tanıtan giriş
    * ekranına ayrıldı.
    */
+  /*
+    Sekme sırası ürünün ne olduğunu söyler.
+
+    Önceki dizilimde «Hesap» ortadaydı ve dört bölümün en gelişmişiydi;
+    uygulama dışarıdan hesap makinesi gibi görünüyordu. Hesaplama artık
+    beş sekmenin sonuncusu: yararlı bir araç, ama ürünün yüzü değil.
+    Yerine mevzuat ve yargı arşivi öne alındı; Kitaplık rehber, kavram
+    sözlüğü ve akademik eserleri tek çatı altında toplar.
+  */
   asistan: [
     { id: 'home', path: '/', label: 'Ana', icon: 'apps' },
     { id: 'laws', path: '/mevzuat', label: 'Mevzuat', icon: 'scale' },
-    { id: 'tools', path: '/hesap', label: 'Hesap', icon: 'calc' },
-    { id: 'cases', path: '/icthat', label: 'İçtihat', icon: 'today' },
-    { id: 'guides', path: '/rehber', label: 'Rehber', icon: 'book' },
+    { id: 'cases', path: '/arsiv', label: 'Yargı', icon: 'archive' },
+    { id: 'library', path: '/kitaplik', label: 'Kitaplık', icon: 'book' },
+    { id: 'tools', path: '/hesap', label: 'Araçlar', icon: 'calc' },
   ],
   hesap: [
     { id: 'tools', path: '/', label: 'Araçlar', icon: 'calc' },
@@ -76,8 +85,51 @@ export const APP_TABS: Tab[] = TABS[APP_ID] ?? TABS.asistan;
 export const SECTION_PATHS: Record<string, string[]> = {
   laws: ['/mevzuat', '/ara', '/indirilenler'],
   tools: ['/hesap', '/arac', '/favoriler', '/gecmis'],
-  cases: ['/icthat', '/karar', '/arsiv', '/takip'],
-  guides: ['/rehber', '/kategori', '/kategoriler', '/kaydettiklerim'],
+  cases: ['/icthat', '/karar', '/arsiv', '/takip', '/uyelik'],
+  // Kitaplık: rehber + kavram sözlüğü + akademik eserler
+  library: [
+    '/kitaplik',
+    '/rehber',
+    '/kategori',
+    '/kategoriler',
+    '/kaydettiklerim',
+    '/kavram',
+    '/eserler',
+    '/eser',
+  ],
+};
+
+/**
+ * Bölüm rengi — uygulamanın «neredeyim» işareti.
+ *
+ * Beş sekmenin hepsi tek yeşille boyanınca ekranlar birbirinden ayrılmıyordu.
+ * Her bölümün kendi rengi var ve bu renk başlık çubuğunun altındaki ince
+ * şeride, rozetlere ve vurgu ögelerine geçiyor; kullanıcı sayfayı okumadan
+ * hangi bölümde olduğunu görüyor.
+ *
+ * Renkler mevzuat kategorileriyle aynı aileden: kütüphanenin kendi tasnifi.
+ */
+export const BOLUM_RENK: Record<string, string> = {
+  home: '#2E4036',
+  laws: '#2E4036',
+  cases: '#1B4F72',
+  library: '#6B4F3A',
+  tools: '#B24A28',
+};
+
+/**
+ * Şeridin rengi — koyu yeşil başlık çubuğunun ÜSTÜNDE okunan açık ton.
+ *
+ * Bölüm rengini olduğu gibi kullanmak Mevzuat bölümünde şeridi görünmez
+ * kılıyordu: çubuk da şerit de aynı ormanı yeşiliydi. Açık tonlar önceden
+ * hesaplandı; `color-mix` eski WebView sürümlerinde bulunmuyor.
+ */
+export const BOLUM_SERIT: Record<string, string> = {
+  home: '#8FAE9B',
+  laws: '#8FAE9B',
+  cases: '#7FB3DC',
+  library: '#C9A886',
+  tools: '#F0906B',
 };
 
 /** Yol bu önekin kendisi mi, yoksa altında mı? (`/kategoriler` ≠ `/kategori`) */

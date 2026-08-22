@@ -25,7 +25,7 @@ export default function MorePage() {
       */}
       {SIBLINGS.length > 0 && (
         <section className="mb-7">
-          <h2 className="text-[12px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
+          <h2 className="text-[12px] font-mono tracking-widest uppercase text-ink-3 mb-2.5">
             Aynı ailedeki diğer uygulamalar
           </h2>
           <ul className="space-y-2">
@@ -45,11 +45,11 @@ export default function MorePage() {
                   </span>
                   <span className="flex-1 min-w-0">
                     <span className="block text-[14px] font-bold leading-snug">{appName(app)}</span>
-                    <span className="block text-[12px] text-charcoal/45 leading-snug mt-0.5">
+                    <span className="block text-[12px] text-ink-3 leading-snug mt-0.5">
                       {appShort(app)}
                     </span>
                   </span>
-                  <ExternalLink size={15} className="text-charcoal/25 shrink-0" aria-hidden />
+                  <ExternalLink size={15} className="text-ink-4 shrink-0" aria-hidden />
                 </button>
               </li>
             ))}
@@ -58,7 +58,7 @@ export default function MorePage() {
       )}
 
       <section className="mb-7">
-        <h2 className="text-[12px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
+        <h2 className="text-[12px] font-mono tracking-widest uppercase text-ink-3 mb-2.5">
           Bilgi
         </h2>
         <ul className="space-y-2">
@@ -94,12 +94,12 @@ export default function MorePage() {
         Ayarlar
       </button>
 
-      <div className="rounded-2xl p-4 text-[12px] leading-relaxed text-charcoal/50 bg-white/70 border border-charcoal/[0.08]">
+      <div className="rounded-2xl p-4 text-[12px] leading-relaxed text-ink-2 bg-white/70 border border-tel">
         <p className="mb-2">
           Bu uygulama bilgilendirme amaçlıdır; resmî hukuki tavsiye veya vekâlet ilişkisi
           kurmaz. Somut uyuşmazlığınızda bir avukata danışın.
         </p>
-        <p className="text-charcoal/35 font-mono text-[12px]">
+        <p className="text-ink-3 font-mono text-[12px]">
           {appName()} · s{APP.versionName} ({APP.versionCode})
           {BUILT_AT ? ` · ${BUILT_AT.slice(0, 10)}` : ''}
         </p>
@@ -124,11 +124,11 @@ function Row({
         onClick={onClick}
         className="w-full card px-4 py-3.5 flex items-center gap-3 text-left tap"
       >
-        <span className="text-charcoal/40" aria-hidden>
+        <span className="text-ink-3" aria-hidden>
           {icon}
         </span>
         <span className="flex-1 text-[14px] font-semibold">{label}</span>
-        <ExternalLink size={14} className="text-charcoal/25" aria-hidden />
+        <ExternalLink size={14} className="text-ink-4" aria-hidden />
       </button>
     </li>
   );

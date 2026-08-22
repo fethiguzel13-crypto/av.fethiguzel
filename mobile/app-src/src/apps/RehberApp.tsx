@@ -136,7 +136,7 @@ function HomePage() {
       <div className="relative mb-4">
         <Search
           size={17}
-          className="absolute left-3.5 top-1/2 -translate-y-1/2 text-charcoal/35"
+          className="absolute left-3.5 top-1/2 -translate-y-1/2 text-ink-3"
           aria-hidden
         />
         <input
@@ -145,7 +145,7 @@ function HomePage() {
           onChange={(e) => setQ(e.target.value)}
           placeholder="Kıdem, boşanma, icra, kira…"
           aria-label="Rehberlerde ara"
-          className="w-full rounded-2xl border border-charcoal/10 bg-white pl-10 pr-10 py-3.5
+          className="w-full rounded-2xl border border-tel bg-white pl-10 pr-10 py-3.5
                      text-[15px] outline-none focus:border-[color:var(--brand)]"
         />
         {q && (
@@ -153,7 +153,7 @@ function HomePage() {
             type="button"
             aria-label="Temizle"
             onClick={() => setQ('')}
-            className="absolute right-2.5 top-1/2 -translate-y-1/2 w-8 h-8 grid place-items-center rounded-full text-charcoal/40"
+            className="absolute right-2.5 top-1/2 -translate-y-1/2 w-8 h-8 grid place-items-center rounded-full text-ink-3"
           >
             <X size={16} />
           </button>
@@ -170,7 +170,7 @@ function HomePage() {
           />
         ) : (
           <>
-            <p className="text-[12px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
+            <p className="text-[12px] font-mono tracking-widest uppercase text-ink-3 mb-2.5">
               {results.length} sonuç
             </p>
             <ul className="space-y-2">
@@ -185,7 +185,7 @@ function HomePage() {
       ) : (
         <>
           <section className="mb-6">
-            <h2 className="text-[12px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
+            <h2 className="text-[12px] font-mono tracking-widest uppercase text-ink-3 mb-2.5">
               Konu başlıkları
             </h2>
             <div className="grid grid-cols-2 gap-2">
@@ -205,7 +205,7 @@ function HomePage() {
           </section>
 
           <section className="mb-6">
-            <h2 className="text-[12px] font-mono tracking-widest uppercase text-charcoal/40 mb-2.5">
+            <h2 className="text-[12px] font-mono tracking-widest uppercase text-ink-3 mb-2.5">
               Tüm rehberler ({guides.length})
             </h2>
             <ul className="space-y-2">
@@ -217,7 +217,7 @@ function HomePage() {
             </ul>
           </section>
 
-          <p className="text-[12px] leading-relaxed text-charcoal/40">
+          <p className="text-[12px] leading-relaxed text-ink-3">
             Rehberler cihazınıza kurulur; okumak için internet gerekmez. Arşiv yeniden
             yazılıyor — her güncellemede yeni konular ekleniyor. Bilgilendirme amaçlıdır.
           </p>
@@ -265,7 +265,7 @@ function CategoryPage({ cat }: { cat: string }) {
   return (
     <div className="page">
       <h2 className="text-[20px] font-heading font-bold">{cat}</h2>
-      <p className="text-[13px] text-charcoal/50 mb-3">{rows.length} rehber</p>
+      <p className="text-[13px] text-ink-2 mb-3">{rows.length} rehber</p>
       <ul className="space-y-2">
         {rows.map((g) => (
           <li key={g.slug}>
@@ -304,7 +304,7 @@ function ArticlePage({ slug }: { slug: string }) {
 
   return (
     <div className="page selectable">
-      <p className="text-[12px] font-mono tracking-widest uppercase text-charcoal/40">
+      <p className="text-[12px] font-mono tracking-widest uppercase text-ink-3">
         {g.category}
       </p>
       <h2 className="text-[24px] font-heading font-bold leading-tight mb-3">{g.h1}</h2>
@@ -352,7 +352,7 @@ function ArticlePage({ slug }: { slug: string }) {
         >
           Kısa cevap
         </p>
-        <p className="text-[15px] leading-relaxed text-charcoal/85 m-0">{g.lead}</p>
+        <p className="text-[15px] leading-relaxed text-ink m-0">{g.lead}</p>
       </aside>
 
       {g.keyInsight && (
@@ -375,7 +375,7 @@ function ArticlePage({ slug }: { slug: string }) {
                 >
                   {i + 1}
                 </span>
-                <p className="flex-1 text-[14px] leading-relaxed text-charcoal/75 m-0 pt-0.5">
+                <p className="flex-1 text-[14px] leading-relaxed text-ink m-0 pt-0.5">
                   {s}
                 </p>
               </li>
@@ -389,14 +389,14 @@ function ArticlePage({ slug }: { slug: string }) {
         <section key={sec.heading} className="mb-7">
           <h3 className="text-[15px] font-heading font-bold mb-2.5">{sec.heading}</h3>
           {(sec.paragraphs ?? []).map((p) => (
-            <p key={p.slice(0, 40)} className="text-[14px] leading-relaxed text-charcoal/75 mb-2.5">
+            <p key={p.slice(0, 40)} className="text-[14px] leading-relaxed text-ink mb-2.5">
               {p}
             </p>
           ))}
           {(sec.bullets ?? []).length > 0 && (
             <ul className="space-y-1.5 list-none p-0 m-0 mt-2">
               {(sec.bullets ?? []).map((b) => (
-                <li key={b} className="flex gap-2 text-[14px] leading-relaxed text-charcoal/70">
+                <li key={b} className="flex gap-2 text-[14px] leading-relaxed text-ink">
                   <span style={{ color: 'var(--brand)' }} aria-hidden>
                     ·
                   </span>
@@ -429,7 +429,7 @@ function ArticlePage({ slug }: { slug: string }) {
                     {row.map((cell, ci) => (
                       <td
                         key={ci}
-                        className={`px-3 py-2.5 border-t border-charcoal/[0.06] leading-snug ${ci === 0 ? 'font-medium' : 'text-charcoal/70'}`}
+                        className={`px-3 py-2.5 border-t border-tel leading-snug ${ci === 0 ? 'font-medium' : 'text-ink'}`}
                       >
                         {cell}
                       </td>
@@ -455,7 +455,7 @@ function ArticlePage({ slug }: { slug: string }) {
                 >
                   {i + 1}
                 </span>
-                <span className="text-charcoal/75">{item}</span>
+                <span className="text-ink">{item}</span>
               </li>
             ))}
           </ul>
@@ -471,9 +471,9 @@ function ArticlePage({ slug }: { slug: string }) {
               <details key={f.q} className="card overflow-hidden">
                 <summary className="cursor-pointer list-none p-3.5 text-[14px] font-semibold flex gap-2 [&::-webkit-details-marker]:hidden">
                   <span className="flex-1">{f.q}</span>
-                  <span className="text-charcoal/25 text-lg leading-none">+</span>
+                  <span className="text-ink-4 text-lg leading-none">+</span>
                 </summary>
-                <p className="px-3.5 pb-3.5 -mt-1 text-[14px] leading-relaxed text-charcoal/70 m-0">
+                <p className="px-3.5 pb-3.5 -mt-1 text-[14px] leading-relaxed text-ink m-0">
                   {f.a}
                 </p>
               </details>
@@ -495,7 +495,7 @@ function ArticlePage({ slug }: { slug: string }) {
                   className="w-full card px-3.5 py-3 flex items-center gap-2 text-left tap"
                 >
                   <span className="flex-1 text-[14px] font-semibold">{l.label}</span>
-                  <ExternalLink size={14} className="text-charcoal/30" aria-hidden />
+                  <ExternalLink size={14} className="text-ink-3" aria-hidden />
                 </button>
               </li>
             ))}
@@ -516,7 +516,7 @@ function ArticlePage({ slug }: { slug: string }) {
         </section>
       )}
 
-      <p className="text-[12px] leading-relaxed text-charcoal/40 border-t border-charcoal/10 pt-4">
+      <p className="text-[12px] leading-relaxed text-ink-3 border-t border-tel pt-4">
         Genel bilgilendirme. Somut dosyada süre ve merci değişebilir; güncel metin ve
         gerektiğinde avukat esastır.{g.updated ? ` Güncelleme: ${g.updated}` : ''}
       </p>
@@ -584,15 +584,15 @@ function GuideRow({ g }: { g: Guide }) {
       className="w-full card px-4 py-3.5 flex items-start gap-3 text-left tap"
     >
       <span className="flex-1 min-w-0">
-        <span className="block text-[12px] font-mono tracking-widest uppercase text-charcoal/35">
+        <span className="block text-[12px] font-mono tracking-widest uppercase text-ink-3">
           {g.category}
         </span>
         <span className="block text-[15px] font-bold leading-snug mt-0.5">{g.h1}</span>
-        <span className="block text-[13px] text-charcoal/45 leading-snug mt-1 line-clamp-2">
+        <span className="block text-[13px] text-ink-3 leading-snug mt-1 line-clamp-2">
           {firstSentence(g.lead)}
         </span>
       </span>
-      <ChevronRight size={16} className="text-charcoal/25 shrink-0 mt-1" aria-hidden />
+      <ChevronRight size={16} className="text-ink-4 shrink-0 mt-1" aria-hidden />
     </button>
   );
 }

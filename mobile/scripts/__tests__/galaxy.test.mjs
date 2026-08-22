@@ -190,6 +190,11 @@ test('çevrimdışı içerik paketlenmiş', { skip: !anyBuilt }, () => {
     packs: ['packs/manifest.json'],
     icthat: ['icthat/seed.json', 'icthat/archive.json.gz'],
     rehber: ['rehber/guides.json.gz'],
+    // Madde → karar ters indeksi. Eksikse mevzuat bölümü açılır ama
+    // «bu maddeye atıf yapan kararlar» hiç görünmez — sessiz kayıp.
+    mevzuat: ['mevzuat/atif.json.gz'],
+    // Akademik eserlerin tam metni
+    kutuphane: ['kutuphane/eserler.json.gz'],
   };
   for (const a of published) {
     for (const name of a.assets) {

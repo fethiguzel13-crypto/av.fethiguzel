@@ -47,7 +47,7 @@ export default class ErrorBoundary extends React.Component<
             §
           </div>
           <h1 className="text-[20px] font-heading font-bold mb-2">Bir şeyler ters gitti</h1>
-          <p className="text-sm text-charcoal/60 leading-relaxed mb-5">
+          <p className="text-sm text-ink-2 leading-relaxed mb-5">
             Ekran yüklenirken beklenmedik bir hata oluştu. Verileriniz cihazınızda duruyor;
             yeniden başlatmak çoğu durumda yeterli oluyor.
           </p>
@@ -71,7 +71,7 @@ export default class ErrorBoundary extends React.Component<
               Bu ekranı atla
             </button>
           </div>
-          <p className="mt-4 text-[12px] text-charcoal/35 font-mono break-words">
+          <p className="mt-4 text-[12px] text-ink-3 font-mono break-words">
             {error.message}
           </p>
         </div>
