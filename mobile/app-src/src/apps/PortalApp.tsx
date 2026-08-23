@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from 'react';
+import React, { useDeferredValue, useEffect, useMemo, useState } from 'react';
 import {
   Search,
   X,
@@ -336,24 +336,44 @@ function KanunPage({ kanunId }: { kanunId: string }) {
     };
   }, [kanunId]);
 
-  const rows = useMemo(() => {
+  /*
+    Maddeler bir kez sıralanır ve bir kez katlanır.
+
+    Süzgeç her tuş vuruşunda çalışıyor ve her seferinde bütün maddeleri
+    yeniden katlıyordu: TMK'da 1030 madde × ICU `toLocaleLowerCase('tr-TR')`
+    + yedi regex. Aynı kusur yargı arşivinde ölçüldüğünde tek tuş saniyelere
+    çıkıyordu. Katlama artık pakete bağlıdır; sorgu değiştiğinde yalnız
+    karşılaştırma yapılır.
+  */
+  const hazir = useMemo(() => {
     if (!pack) return [];
-    const all = Object.entries(pack)
+    return Object.entries(pack)
       .map(([key, e]) => ({ key, ...e }))
-      .sort((a, b) => a.n - b.n);
+      .sort((a, b) => a.n - b.n)
+      .map((r) => {
+        const kat = foldTr(r.t + ' ' + r.o.slice(0, 400));
+        return { r, kat, sik: kat.replace(/[\s.]+/g, '') };
+      });
+  }, [pack]);
 
-    const nq = foldTr(q.trim());
-    if (!nq) return all;
+  // Yazarken liste beklemez; tarama bir sonraki boş kareye ertelenir.
+  const gecikmeliQ = useDeferredValue(q);
 
-    const tq = tighten(q);
+  const rows = useMemo(() => {
+    const nq = foldTr(gecikmeliQ.trim());
+    if (!nq) return hazir.map((h) => h.r);
+
+    const tq = tighten(gecikmeliQ);
     const asNum = parseInt(nq.replace(/\D/g, ''), 10);
 
-    return all.filter((r) => {
-      if (asNum && r.n === asNum) return true;
-      const t = foldTr(r.t + ' ' + r.o.slice(0, 400));
-      return t.includes(nq) || t.replace(/[\s.]+/g, '').includes(tq);
-    });
-  }, [pack, q]);
+    const out = [];
+    for (const h of hazir) {
+      if ((asNum && h.r.n === asNum) || h.kat.includes(nq) || h.sik.includes(tq)) {
+        out.push(h.r);
+      }
+    }
+    return out;
+  }, [hazir, gecikmeliQ]);
 
   if (error) {
     return (

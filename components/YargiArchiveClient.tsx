@@ -15,6 +15,8 @@ type Row = {
   e: string;
   s: string;
   y: string;
+  /** Karar metninden çıkarılmış uyuşmazlık konusu başlıkları */
+  j?: string[];
 };
 
 const TIER_LABEL: Record<string, string> = {
@@ -88,21 +90,39 @@ export default function YargiArchiveClient() {
     return TIER_ORDER.filter((t) => counts.has(t)).map((t) => [t, counts.get(t) ?? 0] as const);
   }, [rows]);
 
-  const results = useMemo(() => {
-    if (!rows) return [];
+  /*
+    Liste kaydırdıkça uzar.
+
+    Önceki sürümde 80 sonuçta duruyor ve daha fazlasına ulaşmanın yolu
+    yoktu: yirmi beş binden fazla kararlık bir arşive üyelik ödeyen
+    kullanıcı seksen karar görüyordu. Bir seferde çizilen satır sayısı
+    yine sınırlı kalır, yalnız sınır kullanıcı istedikçe yükselir.
+  */
+  const [sayfa, setSayfa] = useState(1);
+  useEffect(() => {
+    setSayfa(1);
+  }, [q, tier]);
+
+  const { results, dahaVar } = useMemo(() => {
+    if (!rows) return { results: [] as Row[], dahaVar: false };
+    const sinir = SAYFA_BOYU * sayfa;
     const tokens = foldTr(q.trim()).split(/\s+/).filter(Boolean);
     const out: Row[] = [];
+    let tarandi = 0;
     for (const r of rows) {
+      tarandi += 1;
       if (tier && r.r !== tier && r.a !== tier) continue;
       if (tokens.length) {
-        const hay = foldTr([r.k, r.d, r.a, r.e, r.r, ...(r.w || [])].join(' '));
+        // Konu başlıkları da aranır: künyede geçmeyen ama konusu eşleşen
+        // kararlar da çıkmalı — arşivi asıl aranabilir kılan alan budur.
+        const hay = foldTr([r.k, r.d, r.a, r.e, r.r, ...(r.j || []), ...(r.w || [])].join(' '));
         if (!tokens.every((t) => hay.includes(t))) continue;
       }
       out.push(r);
-      if (out.length >= 80) break;
+      if (out.length >= sinir) break;
     }
-    return out;
-  }, [rows, q, tier]);
+    return { results: out, dahaVar: out.length >= sinir && tarandi < rows.length };
+  }, [rows, q, tier, sayfa]);
 
   if (error) {
     return (
@@ -181,9 +201,11 @@ export default function YargiArchiveClient() {
         ))}
       </div>
 
-      <p className="text-[12px] text-charcoal/40 mb-3">
-        {results.length === 80 ? 'ilk 80' : results.length} sonuç
-      </p>
+      {q.trim() || tier ? (
+        <p className="text-[12px] text-charcoal/40 mb-3">
+          {dahaVar ? `${results.length}+` : results.length} sonuç
+        </p>
+      ) : null}
 
       <ul className="space-y-2.5">
         {results.map((r) => (
@@ -195,9 +217,29 @@ export default function YargiArchiveClient() {
               <p className="text-[11px] font-mono uppercase tracking-widest text-accent">
                 {TIER_LABEL[r.r] || r.d} · {r.t}
               </p>
-              <h2 className="mt-1 text-sm sm:text-base font-heading font-bold leading-snug">
-                {r.k}
-              </h2>
+              {/*
+                Konu önde, künye arkada.
+
+                Satırlar yalnız künye basıyordu: yan yana yirmi tane
+                «Yargıtay Ceza Genel Kurulu, E. 2025/585, K. 2026/353»
+                hiçbir bilgi taşımayan bir duvar üretiyordu. Konu başlıkları
+                karar metinlerinden çıkarıldı; hukukçu künyeye de ihtiyaç
+                duyar, ama önce kararın neyle ilgili olduğunu okur.
+              */}
+              {r.j && r.j.length ? (
+                <>
+                  <h2 className="mt-1 text-sm sm:text-base font-heading font-bold leading-snug first-letter:uppercase">
+                    {r.j[0]}
+                  </h2>
+                  <p className="mt-1 text-[12px] text-charcoal/45 font-mono truncate">
+                    {kunyeKisa(r)}
+                  </p>
+                </>
+              ) : (
+                <h2 className="mt-1 text-sm sm:text-base font-heading font-bold leading-snug">
+                  {r.k}
+                </h2>
+              )}
               {r.e ? (
                 <p className="mt-2 text-[13px] text-charcoal/55 leading-relaxed line-clamp-2">
                   {r.e}
@@ -207,8 +249,46 @@ export default function YargiArchiveClient() {
           </li>
         ))}
       </ul>
+
+      {dahaVar ? (
+        <button
+          type="button"
+          onClick={() => setSayfa((n) => n + 1)}
+          className="mt-4 w-full rounded-full border border-charcoal/12 bg-white px-5 py-3 text-[13px] font-bold text-charcoal transition-colors hover:border-accent hover:text-accent"
+        >
+          Daha fazla karar göster
+        </button>
+      ) : null}
     </div>
   );
+}
+
+const SAYFA_BOYU = 60;
+
+/**
+ * Künyeden, üstteki rozetle çakışan kısmı atar.
+ *
+ * Ham künye «Yargıtay Ceza Genel Kurulu, E. 2025/585, K. 2026/353,
+ * T. 10.06.2026» der; oysa rozet zaten daireyi ve tarihi yazıyor. Aynı bilgi
+ * bir satırda üç kez görününce göz asıl ayırt ediciye, esas ve karar
+ * numarasına odaklanamaz.
+ */
+function kunyeKisa(r: Row): string {
+  let k = String(r.k || '');
+  const daire = TIER_LABEL[r.r] || r.d || '';
+  if (daire) {
+    const kacis = kacisla(daire);
+    k = k.replace(new RegExp(`^\\s*(yargıtay\\s+)?${kacis}\\s*[,·-]?\\s*`, 'i'), '');
+  }
+  if (r.t) {
+    k = k.replace(new RegExp(`\\s*[,·-]?\\s*T\\.?\\s*${kacisla(r.t)}\\s*$`, 'i'), '');
+  }
+  return k.replace(/^[\s,·-]+|[\s,·-]+$/g, '') || String(r.k || '');
+}
+
+/** Düzenli ifade içinde geçecek metni kaçırır. */
+function kacisla(x: string): string {
+  return x.replace(/[.*+?^${}()|[\]\\]/g, (m) => '\\' + m);
 }
 
 function FilterChip({

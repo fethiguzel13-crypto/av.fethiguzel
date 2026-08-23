@@ -1,6 +1,7 @@
 import { gunzipSync, strFromU8 } from 'fflate';
 
 import { kasaVarMi, kasadanCoz } from './kasa';
+import { kararGovdesi } from './metin';
 import { erisimVar } from './uyelik';
 
 /**
@@ -97,11 +98,39 @@ function shardName(n: number): string {
   return `s${String(n).padStart(2, '0')}.json.gz`;
 }
 
-async function gunzipJson<T>(url: string): Promise<T> {
+/**
+ * Gzip'i mümkünse TARAYICIYA açtırır.
+ *
+ * `fflate` saf JavaScript'tir ve ana iş parçacığında çalışır: 1,1 MB'lık
+ * arşiv indeksini açmak orta sınıf bir telefonda ölçülen 1250 ms'lik tek
+ * parça bir blok üretiyordu — o süre boyunca dokunma da kaydırma da yanıt
+ * vermez. `DecompressionStream` aynı işi tarayıcının kendi (yerel) kodunda,
+ * parça parça yapar; ana iş parçacığı arada nefes alır.
+ *
+ * WebView eski olursa `fflate`'e düşülür; davranış aynıdır, yalnız yavaştır.
+ */
+async function acGzip(buf: ArrayBuffer): Promise<string> {
+  const DS = (globalThis as { DecompressionStream?: typeof DecompressionStream })
+    .DecompressionStream;
+  if (DS) {
+    try {
+      const akis = new Blob([buf]).stream().pipeThrough(new DS('gzip'));
+      return await new Response(akis).text();
+    } catch {
+      /* bozuk akış — aşağıdaki yedek yol dener */
+    }
+  }
+  return strFromU8(gunzipSync(new Uint8Array(buf)));
+}
+
+async function gunzipText(url: string): Promise<string> {
   const res = await fetch(url);
   if (!res.ok) throw new Error(`${url} ${res.status}`);
-  const buf = new Uint8Array(await res.arrayBuffer());
-  return JSON.parse(strFromU8(gunzipSync(buf))) as T;
+  return acGzip(await res.arrayBuffer());
+}
+
+async function gunzipJson<T>(url: string): Promise<T> {
+  return JSON.parse(await gunzipText(url)) as T;
 }
 
 let archiveCache: ArchiveRow[] | null = null;
@@ -179,12 +208,31 @@ export async function loadFullText(id: string): Promise<string | null> {
   return bag[id] || null;
 }
 
-/** Üyelik denetimi yapmadan metni getirir — yalnız ücretsiz önizleme için. */
+/**
+ * Üyelik denetimi yapmadan metni getirir — yalnız ücretsiz önizleme için.
+ *
+ * Önizleme kararın KÜNYESİNDEN değil GÖVDESİNDEN alınır. Ham metnin ilk
+ * 420 karakteri künye satırı, büyük harfli konu başlıkları ve atıf yapılan
+ * maddelerin listesinden ibarettir; üçü de ekranda zaten ayrı ayrı duruyor.
+ * Önizlemenin işi, kullanıcıya neye para ödeyeceğini göstermektir — kararın
+ * ilk cümlelerini görmelidir.
+ *
+ * Kesme cümle sonuna denk getirilir; yarıda kesilmiş bir kelime, altındaki
+ * silinme geçişiyle birleşince metin bozukmuş gibi görünür.
+ */
 export async function loadOnizleme(id: string, harf = 420): Promise<string | null> {
   const bag = await loadShard(shardOf(id));
   const tam = bag[id];
   if (!tam) return null;
-  return tam.slice(0, harf);
+
+  const govde = kararGovdesi(tam);
+  if (govde.length <= harf) return govde;
+
+  const kesit = govde.slice(0, harf);
+  const nokta = Math.max(kesit.lastIndexOf('. '), kesit.lastIndexOf('.\n'));
+  const bosluk = kesit.lastIndexOf(' ');
+  const kes = nokta > harf * 0.5 ? nokta + 1 : bosluk > 0 ? bosluk : harf;
+  return kesit.slice(0, kes);
 }
 
 export function foldTr(s: string): string {
@@ -221,12 +269,8 @@ export function foldHazirMi(): boolean {
 export function loadFoldIndex(): Promise<string[]> {
   if (foldCache) return Promise.resolve(foldCache);
   if (foldInflight) return foldInflight;
-  foldInflight = fetch('./icthat/arama.txt.gz')
-    .then(async (res) => {
-      if (!res.ok) throw new Error(`arama.txt.gz ${res.status}`);
-      const buf = new Uint8Array(await res.arrayBuffer());
-      return strFromU8(gunzipSync(buf)).split('\n');
-    })
+  foldInflight = gunzipText('./icthat/arama.txt.gz')
+    .then((metin) => metin.split('\n'))
     .then((satirlar) => {
       foldCache = satirlar;
       return satirlar;

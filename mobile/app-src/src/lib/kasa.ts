@@ -107,5 +107,18 @@ export async function kasadanCoz<T>(bayt: ArrayBuffer): Promise<T> {
     birlesik
   );
 
+  // Açma işi mümkünse tarayıcının yerel koduna verilir; saf JavaScript
+  // çözücü 1,4 MB'lık bir parçada ana iş parçacığını yüzlerce milisaniye
+  // kilitler ve bu tam da kararın açıldığı ana denk gelir.
+  const DS = (globalThis as { DecompressionStream?: typeof DecompressionStream })
+    .DecompressionStream;
+  if (DS) {
+    try {
+      const akis = new Blob([cozulen]).stream().pipeThrough(new DS('gzip'));
+      return JSON.parse(await new Response(akis).text()) as T;
+    } catch {
+      /* yedek yola düş */
+    }
+  }
   return JSON.parse(strFromU8(gunzipSync(new Uint8Array(cozulen)))) as T;
 }

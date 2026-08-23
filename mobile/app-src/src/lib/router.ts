@@ -40,10 +40,64 @@ function parse(raw: string): Route {
   };
 }
 
+/**
+ * ─── Kaydırma belleği ──────────────────────────────────────────────────────
+ *
+ * Her gezinme sayfayı tepeye alıyordu — GERİ dönüş dâhil. Arşivde beş yüz
+ * satır kaydırıp bir kararı açan kullanıcı, geri döndüğünde listenin en
+ * başında buluyordu kendini; okuduğu yer kayboluyor, aşağı inmek için
+ * yeniden yüzlerce satır kaydırmak gerekiyordu.
+ *
+ * İleri gezinmede tepeden başlamak doğrudur: yeni bir sayfa açılıyordur.
+ * Geri dönüşte yanlıştır: kullanıcı bıraktığı yere döner. İkisini ayırmak
+ * için `navigate()` bir bayrak bırakır; bayrak yoksa değişimi tarayıcı
+ * (geri/ileri tuşu) yapmıştır.
+ */
+const konumlar = new Map<string, number>();
+let ileriGezinme = false;
+
+function konumKaydet() {
+  if (typeof window === 'undefined') return;
+  konumlar.set(toHref(current), window.scrollY || 0);
+}
+
+/** Bir sayfanın hatırlanan kaydırma konumu — yoksa 0. */
+export function hatirlananKonum(href: string): number {
+  return konumlar.get(href) ?? 0;
+}
+
+/**
+ * Sayfayı hatırlanan yerine götürür.
+ *
+ * Uzun listeler satırlarını kademeli çizdiği için yönlendiricinin tek
+ * seferlik geri sarması yetmez: geri dönüldüğü anda sayfa henüz kısadır ve
+ * tarayıcı istenen konuma inemez. Bu yüzden liste sayfaları, satırlarını
+ * geri getirdikten sonra bunu kendileri çağırır.
+ */
+export function konumaGit(y: number): void {
+  if (y <= 0) return;
+  window.scrollTo({ top: y, behavior: 'instant' as ScrollBehavior });
+}
+
 function emit() {
+  // Ayrılan sayfanın konumu, `current` değişmeden önce yazılır. Geri tuşuyla
+  // çıkışta `navigate()` hiç çalışmadığı için kayıt burada tutulmalı.
+  konumKaydet();
+
   current = parse(readHash());
   snapshotKey += 1;
   listeners.forEach((l) => l());
+
+  const href = toHref(current);
+  const geri = !ileriGezinme;
+  ileriGezinme = false;
+
+  requestAnimationFrame(() => {
+    window.scrollTo({
+      top: geri ? konumlar.get(href) ?? 0 : 0,
+      behavior: 'instant' as ScrollBehavior,
+    });
+  });
 }
 
 if (typeof window !== 'undefined') {
@@ -56,6 +110,8 @@ export function navigate(href: string, opts: { replace?: boolean } = {}) {
   const normalized = target.startsWith('/') ? target : `/${target}`;
   if (normalized === toHref(current)) return;
 
+  ileriGezinme = true;
+
   if (opts.replace) {
     const url = `${window.location.pathname}${window.location.search}#${normalized}`;
     window.history.replaceState(null, '', url);
@@ -63,8 +119,6 @@ export function navigate(href: string, opts: { replace?: boolean } = {}) {
   } else {
     window.location.hash = normalized;
   }
-  // Yeni sayfa her zaman tepeden başlasın
-  requestAnimationFrame(() => window.scrollTo({ top: 0, behavior: 'instant' as ScrollBehavior }));
 }
 
 export function toHref(route: Route): string {

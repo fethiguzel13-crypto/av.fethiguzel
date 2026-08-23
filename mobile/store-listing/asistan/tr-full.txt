@@ -2,7 +2,10 @@ Türk hukuku araştırma kütüphanesi. Kanun maddesi, Yargıtay kararı, kavram
 
 Kurduğunuz anda külliyat iner. Duruşma salonunda, adliye koridorunda, çekmeyen bir yerde: madde metni ve karar arşivi açılır. Sunucu beklemez, hesap istemez, reklam göstermez.
 
-MEVZUAT — 47 KANUN, 8.088 MADDE
+NELER ÜCRETSİZ
+Mevzuatın tamamı, kavram sözlüğü, vatandaş rehberleri, akademik eserler, günlük içtihat özetleri ve 33 hesaplama aracı ücretsizdir. Yargıtay arşivinin listesi de açıktır: her kararın künyesi, konusu ve atıf yaptığı maddeler abonelik istemeden görünür. Ücretli olan tek şey, arşivdeki kararların TAM METNİDİR.
+
+MEVZUAT — 47 KANUN, 8.088 MADDE (ÜCRETSİZ)
 Resmî Gazete'de yayımlanan metniyle.
 • TMK, TBK, TTK, TCK, HMK, CMK, İİK, İş Kanunu ve 39 kanun daha
 • Kanunlar konu başlıklarına göre tasnifli: özel hukuk, yargılama, ceza, iş ve sosyal güvenlik, vergi, kamu yönetimi
@@ -11,12 +14,12 @@ Resmî Gazete'de yayımlanan metniyle.
 • Madde metni okumak için dizilir — fıkra ve bent yapısı korunur, punto üç kademe ayarlanır
 • Alıntı düğmesi maddeyi dilekçeye yapıştırılacak biçimde kopyalar
 
-YARGITAY ARŞİVİ — 23.000 KARAR, TAM METİN
+YARGITAY ARŞİVİ — 23.000 KARAR, TAM METİN (ABONELİK)
 İçtihadı birleştirme, Hukuk Genel Kurulu, Ceza Genel Kurulu ve daire kararları.
 • Her karar KONUSUYLA listelenir: «Kamulaştırmasız elatma nedeniyle tazminat», «Konutta silahlı yağma suçu» — künye duvarı değil
-• Tam metin cihazda; kararı okumak için internet gerekmez
 • Daire, kademe, konu, esas ve karar numarasıyla arama
-• İlk derece mahkemesi ve atıf yapılan kanun maddeleri künyede
+• Tam metin cihazda saklıdır; abonelik açıkken okumak için de internet gerekmez
+• Arşiv zamanla genişletilecek, yeni kararlar aynı abonelikle açılacaktır
 
 MEVZUAT İLE İÇTİHAT BİRBİRİNE BAĞLI
 Bu uygulamanın diğerlerinden ayrıldığı yer burası:
@@ -24,28 +27,31 @@ Bu uygulamanın diğerlerinden ayrıldığı yer burası:
 • Bir kararı okurken dayandığı maddelere tek dokunuşla geçersiniz
 • Bağ, 23.000 karar metninin taranmasıyla kuruldu; elle girilmiş bir liste değil
 
-KAVRAM SÖZLÜĞÜ
+KAVRAM SÖZLÜĞÜ (ÜCRETSİZ)
 Kıdem tazminatı, zamanaşımı, ayıp, muvazaa, işe iade… Her kavram; kısa cevabı, dayanak maddesi, ilgili rehberi ve hesaplama aracıyla birlikte. Kısa cevap tek dokunuşla kopyalanır.
 
-VATANDAŞ REHBERİ
+VATANDAŞ REHBERİ (ÜCRETSİZ)
 Nereye başvuracağım, süresi ne, hangi belgeler?
 • Adım adım anlatım
 • İlgili maddeye ve hesaplama aracına doğrudan bağlantı
 
-AKADEMİK ESERLER
+AKADEMİK ESERLER (ÜCRETSİZ)
 Av. Fethi Güzel'in makaleleri, tam metin ve uygulama içi okuma görünümünde. İndirme, harici okuyucu, biçim sorunu yok.
 
-GÜNLÜK İÇTİHAT
+GÜNLÜK İÇTİHAT (ÜCRETSİZ)
 Yargıtay, Anayasa Mahkemesi, AİHM ve Resmî Gazete özetleri. İstediğiniz alanı takibe alın; hatırlatma cihazda üretilir.
 
-HESAPLAMA
+HESAPLAMA (ÜCRETSİZ)
 Kıdem, faiz, harç, nafaka, miras, süre — 33 araç, çevrimdışı. Her aracın yanında mevzuat dayanağı ve kısa bilgilendirme durur. Araştırma kütüphanesinin yanında bir yardımcıdır; onun yerine geçmez.
+
+ABONELİK
+Yargıtay arşivi üyeliği aylık 500 TL'dir ve otomatik yenilenir. Ödeme Google Play hesabınızdan alınır; iptal, Play'deki abonelik ayarlarından istediğiniz an yapılabilir. Abonelik yalnız kararların tam metnini açar, uygulamanın geri kalanını etkilemez.
 
 GİZLİLİK
 Girdiğiniz rakamlar, aramalarınız ve okuma geçmişiniz hiçbir sunucuya gitmez. Uygulama hesap açtırmaz, konum istemez, reklam göstermez.
 
 YASAL UYARI
-Bilgilendirme amaçlıdır; hukuki tavsiye veya vekâlet ilişkisi kurmaz. Bağlayıcı metin için mevzuat.gov.tr ve kararın aslı esastır.
+Bilgilendirme amaçlıdır; hukuki tavsiye veya vekâlet ilişkisi kurmaz. Bağlayıcı metin için mevzuat.gov.tr ve kararın aslı esastır. Karar metinleri karararama.yargitay.gov.tr kaynağından derlenmiştir; abonelik, bu metinlerin cihazda derlenmiş ve aranabilir hâlde sunulması hizmetini kapsar.
 
 Av. Fethi Güzel — Avukat & Arabulucu · Van, Erciş
 https://www.avfethiguzel.com

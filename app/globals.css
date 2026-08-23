@@ -110,6 +110,34 @@
     color: white;
   }
 
+  /*
+    ÇİZMEDİĞİMİZ YÜZEYLER
+
+    Seçim rengi ve odak halkası zaten temalıydı; geri kalan tarayıcı
+    yüzeyleri varsayılanda bırakılmıştı. Onay kutusu ve kaydırıcılar
+    Chrome'un mavisiyle, kaydırma çubuğu sistem grisiyle çiziliyordu —
+    krem-orman yeşili bir sayfada ikisi de yabancı duruyor. Ekranın hiçbir
+    parçası tasarımın dışında kalmamalı.
+  */
+  :root {
+    accent-color: var(--accent);
+    color-scheme: light;
+    /* Firefox; WebKit için aşağıdaki ::-webkit-scrollbar kuralları geçerli */
+    scrollbar-color: rgba(26, 26, 26, 0.22) transparent;
+  }
+
+  /*
+    Künye ve tarih rakamları sabit genişlikte dizilir.
+
+    Arşiv listesinde alt alta duran «E. 2025/525» satırlarında rakam
+    genişliği değişince sütun titriyordu; tabular rakam onları hizalar.
+  */
+  .font-mono,
+  time,
+  [data-rakam] {
+    font-variant-numeric: tabular-nums;
+  }
+
   :focus-visible {
     outline: 2px solid var(--accent);
     outline-offset: 2px;
@@ -502,19 +530,25 @@ body::before {
   color: rgba(255, 254, 250, 0.88);
 }
 
+/*
+  Alıntı bloğu — kutu değil, kenar çizgisi.
+
+  Önceki hâli 3 piksel turuncu kenar, renkli zemin ve yuvarlatılmış köşeyle
+  bir «uyarı kartı» gibi duruyordu. Oysa buradaki alıntı bir uyarı değil,
+  hukuk metninin kendisidir: bir karardan ya da maddeden yapılan iktibas.
+  Basılı hukuk dergilerinin yaptığı gibi ince bir çizgi ve içeri çekilmiş
+  bir blok yeter; zemin ve kalın kenar okumayı bölüyordu.
+*/
 .madde-prose blockquote {
-  margin: 1.3rem 0;
-  padding: 0.9rem 1.1rem;
-  border-left: 3px solid #c45a38;
-  background: rgba(196, 90, 56, 0.06);
-  border-radius: 0 0.65rem 0.65rem 0;
+  margin: 1.4rem 0;
+  padding: 0.15rem 0 0.15rem 1.25rem;
+  border-left: 1px solid rgba(196, 90, 56, 0.55);
   font-style: italic;
   color: rgba(28, 28, 28, 0.82);
 }
 
 .madde-prose-official blockquote {
-  background: rgba(255, 255, 255, 0.06);
-  border-left-color: #e8a48a;
+  border-left-color: rgba(232, 164, 138, 0.6);
   color: rgba(255, 254, 250, 0.9);
 }
 

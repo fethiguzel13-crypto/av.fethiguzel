@@ -5,14 +5,27 @@ import Link from 'next/link';
 import { gsap } from 'gsap';
 import { ArrowRight, BookOpen, Scale } from 'lucide-react';
 
-const STAT_ITEMS = [
-  { num: '46', label: 'Kanun' },
-  { num: '8.000+', label: 'Madde + Şerh' },
-  { num: '19.000+', label: 'Yargıtay Kararı' },
-  { num: '550+', label: 'Vatandaş Rehberi' },
-];
+/**
+ * Külliyat sayıları dışarıdan gelir.
+ *
+ * Daha önce burada elle yazılı duruyorlardı ve kaymışlardı: ana sayfa
+ * «19.000+ Yargıtay kararı» derken arşiv sayfası aynı anda 25.902 diyordu.
+ * Değerler artık üretimin çıktısından okunuyor (lib/site-stats.ts).
+ */
+export type HeroSayilari = {
+  kanun: string;
+  madde: string;
+  karar: string;
+  rehber: string;
+};
 
-export default function Hero() {
+export default function Hero({ sayilar }: { sayilar: HeroSayilari }) {
+  const STAT_ITEMS = [
+    { num: sayilar.kanun, label: 'Kanun' },
+    { num: sayilar.madde, label: 'Madde metni' },
+    { num: sayilar.karar, label: 'Yargıtay Kararı' },
+    { num: sayilar.rehber, label: 'Vatandaş Rehberi' },
+  ];
   const containerRef = useRef<HTMLElement>(null);
 
   useEffect(() => {
@@ -48,14 +61,19 @@ export default function Hero() {
 
       <div className="relative z-10 w-full max-w-7xl mx-auto px-5 sm:px-6 pt-32 pb-14 sm:pb-20 md:pb-28">
         <div className="max-w-4xl">
-          <div className="hero-fade inline-flex items-center gap-2.5 mb-5 sm:mb-7 px-3.5 py-1.5 rounded-full bg-cream/[0.08] border border-cream/[0.12] backdrop-blur-md">
-            <div className="w-1.5 h-1.5 bg-accent rounded-full animate-pulse shrink-0" />
-            <span className="font-mono text-accent text-[10px] sm:text-[11px] tracking-[0.22em] uppercase">
-              Türk Hukuku · Akademik Portal
-            </span>
-          </div>
+          {/*
+            Başlık üstündeki etiket KALDIRILDI.
 
-          <h1 className="hero-fade text-[2.35rem] sm:text-5xl md:text-6xl lg:text-[4.25rem] text-cream font-bold leading-[1.05] mb-5 sm:mb-6 tracking-tight text-balance">
+            «Türk Hukuku · Akademik Portal» rozeti başlığın söylediğini bir
+            kez daha söylüyordu: hemen altında zaten «Kanun, İçtihat, Şerh —
+            Araştırma Kütüphanesi» yazıyor. Üstelik rozetin yanıp sönen
+            noktası, sayfanın tek kurgulanmış hareketi olması gereken giriş
+            animasyonuyla yarışıyordu. Başlık kendi ağırlığını taşır.
+
+            Aynı temizlik mobil uygulamanın giriş ekranında da yapıldı; iki
+            yüzey artık aynı kuralla diziliyor.
+          */}
+          <h1 className="hero-fade text-[2.35rem] sm:text-5xl md:text-6xl lg:text-[4.25rem] text-cream font-bold leading-[1.05] mt-2 mb-5 sm:mb-6 tracking-tight text-balance">
             <span className="block font-heading">Kanun, İçtihat, Şerh</span>
             <span className="block font-drama italic text-accent mt-1 sm:mt-2 font-medium">
               Araştırma Kütüphanesi.
@@ -63,9 +81,9 @@ export default function Hero() {
           </h1>
 
           <p className="hero-fade text-cream/70 text-base sm:text-lg max-w-xl mb-8 sm:mb-10 font-sans leading-relaxed">
-            Türk hukuku külliyatı: 46 kanun, 8.000+ madde metni, Yargıtay
-            arşivi ve günlük içtihat. Akademik şerh ve 550+ vatandaş rehberi
-            aynı yerde.
+            Türk hukuku külliyatı: {sayilar.kanun} kanun, {sayilar.madde} madde
+            metni ve {sayilar.karar} Yargıtay kararı. Akademik şerh, günlük
+            içtihat ve vatandaş rehberi aynı yerde.
           </p>
 
           <div className="hero-fade flex items-stretch gap-4 sm:gap-8 mb-9 sm:mb-12">

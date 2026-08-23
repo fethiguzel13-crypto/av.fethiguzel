@@ -4,8 +4,22 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import YargiPaywall from '@/components/YargiPaywall';
 import YargiKararMetni from '@/components/YargiKararMetni';
-import { getAccess, setSessionCookie } from '@/lib/uyelik/session';
+import { getAccess } from '@/lib/uyelik/session';
 import { findKararRow, loadKararText } from '@/lib/uyelik/karar-text';
+
+/*
+  Oturum çerezi burada TAZELENMEZ.
+
+  Bu sayfa bir Server Component; Next.js render sırasında çerez yazmayı
+  yasaklar ve cookies().set() çağrısı isteği 500e düşürür. Hata yalnız
+  OTURUM AÇMIŞ ziyaretçide görülüyordu: anonim ziyaretçide user boş olduğu
+  için satır hiç çalışmıyor, üyede ise sayfa her açılışta, yani her
+  yenilemede patlıyordu.
+
+  Tazeleme buna izin verilen tek yere taşındı: /api/uyelik/ben route
+  handler. Çerezin ömrü zaten girişte 180 güne kuruluyor; sayfa görüntüsü
+  başına yeniden yazmanın işlevsel bir karşılığı yoktu.
+*/
 
 export const dynamic = 'force-dynamic';
 
@@ -38,7 +52,6 @@ export default async function YargiKararPage({
   const { id } = await params;
   const row = findKararRow(id);
   const { member, publicUser, user } = await getAccess();
-  if (user) await setSessionCookie(user);
 
   if (!row) {
     return (

@@ -81,8 +81,31 @@ function Item({ item, hasAnalysis }: { item: DailyItem; hasAnalysis: boolean }) 
   );
 }
 
-function Section({ sourceKey, items, analysisIdSet }: { sourceKey: keyof DailyData['items']; items: DailyItem[]; analysisIdSet: Set<string> }) {
-  if (!items || items.length === 0) return null;
+/**
+ * Aynı kaydı iki kez göstermeyi engeller.
+ *
+ * Günlük tarama zaman zaman aynı Resmî Gazete kaydını iki kez üretiyor —
+ * örneğin «T.C. Merkez Bankasınca Belirlenen Döviz Kurları» aynı kimlikle
+ * iki kez giriyordu. Sonuç iki yönlüydü: ekranda aynı kart art arda iki kez
+ * çıkıyor, React de yinelenen anahtar uyarısı basıyordu.
+ *
+ * Süzgeç okuma tarafında durur, çünkü kaynak taramanın ne üreteceğine
+ * güvenilemez; aynı kimlik zaten aynı kayıt demektir.
+ */
+function tekille(items: DailyItem[]): DailyItem[] {
+  const gorulen = new Set<string>();
+  return items.filter((it) => {
+    const k = String(it.id ?? '');
+    if (!k) return true;
+    if (gorulen.has(k)) return false;
+    gorulen.add(k);
+    return true;
+  });
+}
+
+function Section({ sourceKey, items: ham, analysisIdSet }: { sourceKey: keyof DailyData['items']; items: DailyItem[]; analysisIdSet: Set<string> }) {
+  const items = tekille(ham || []);
+  if (items.length === 0) return null;
   const header = SOURCE_HEADERS[sourceKey];
   const HeaderIcon = header.icon;
   return (

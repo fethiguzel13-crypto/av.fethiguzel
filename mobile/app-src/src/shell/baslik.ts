@@ -1,5 +1,9 @@
 import { match } from '../lib/router';
 import { kanunAdi, kanunKodu } from '../lib/kanunlar';
+import { APP_TABS } from '../lib/nav';
+
+/** Sekmeye dokunularak varılan sayfalar — kendi büyük başlıklarını taşırlar. */
+const KOKLER = new Set(APP_TABS.map((t) => t.path));
 
 /**
  * Başlık çubuğunun yazacağı metin.
@@ -13,17 +17,28 @@ import { kanunAdi, kanunKodu } from '../lib/kanunlar';
  * çubukta onu tekrar etmek aynı bilgiyi iki kez yazmak olurdu.
  */
 export function cubukBasligi(path: string, uygulamaAdi: string): string {
+  /*
+    Sekme köklerinde çubuk uygulamanın ADINI yazar.
+
+    Bu sayfaların hepsi kendi başlığını zaten büyük puntoyla basıyor:
+    ekranın üstünde «Mevzuat», hemen altında yine «Mevzuat» görünüyordu.
+    Aynı kelimeyi iki kez yazmak bilgi vermez; oysa uygulamanın adı ancak
+    bir yerde durabilir ve doğru yer burasıdır. İçeri girildiğinde çubuk
+    yeniden bağlama döner: bir maddedeyken kanunun adına, bir kararda
+    arşive.
+  */
+  if (KOKLER.has(path)) return uygulamaAdi;
+
   const madde = match('/mevzuat/:kanun/:madde', path);
   if (madde) return kanunAdi(madde.kanun);
 
   const kanun = match('/mevzuat/:kanun', path);
   if (kanun) return kanunKodu(kanun.kanun);
 
-  if (path === '/mevzuat') return 'Mevzuat';
   if (path === '/ara') return 'Mevzuatta ara';
   if (path === '/indirilenler') return 'Kaydettikleriniz';
 
-  if (path === '/arsiv' || path.startsWith('/karar/')) return 'Yargıtay arşivi';
+  if (path.startsWith('/karar/')) return 'Yargıtay arşivi';
   if (path === '/uyelik') return 'Arşiv üyeliği';
   if (path === '/icthat') return 'Günlük içtihat';
   if (path === '/takip') return 'Takip ettikleriniz';

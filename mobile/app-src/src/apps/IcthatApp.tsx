@@ -1,5 +1,4 @@
 import React, {
-  useCallback,
   useDeferredValue,
   useEffect,
   useMemo,
@@ -23,7 +22,7 @@ import {
   Landmark,
 } from 'lucide-react';
 
-import { useRoute, navigate, match } from '../lib/router';
+import { useRoute, navigate, match, hatirlananKonum, konumaGit } from '../lib/router';
 import { usePersisted, KEYS } from '../lib/storage';
 import { share, openExternal } from '../lib/external';
 import { tapFeedback } from '../lib/haptics';
@@ -41,7 +40,7 @@ import {
 } from '../lib/yargi';
 import { STATS, trNum } from '../lib/config';
 import { kanunAdi, kanunKodu } from '../lib/kanunlar';
-import { kararParagraflari } from '../lib/metin';
+import { kararParagraflari, kararGovdesi } from '../lib/metin';
 import { useUyelik, erisimVar } from '../lib/uyelik';
 import { useEkranKoruma, SECILEMEZ } from '../lib/koruma';
 import { okumaKaydet } from '../lib/okuma';
@@ -364,24 +363,58 @@ function ArchivePage() {
   const gecikmeliTier = useDeferredValue(tier);
   const bekliyor = gecikmeliQ !== q || gecikmeliTier !== tier;
 
-  // Arama dizini ilk arama denemesinde indirilir; hiç arama yapmayan
-  // kullanıcı bu dosyayı hiç istemez.
+  /*
+    Arama dizini kullanıcı yazmadan ÖNCE, boşta hazırlanır.
+
+    Dizini ilk tuşta indirmek doğru görünüyordu — arama yapmayan kullanıcı
+    dosyayı hiç istemesin diye. Ne var ki o zaman indirme, açma ve satırlara
+    bölme işi tam kullanıcının yazdığı ana denk geliyor ve ölçümde tek bir
+    976 ms'lik blok üretiyordu. İş, arşiv listesi açıldıktan sonraki ilk boş
+    ana alındı: kullanıcı listeye bakarken dizin sessizce hazırlanır, ilk tuş
+    hazır dizine düşer.
+  */
   const [dizinSurumu, setDizinSurumu] = useState(0);
   useEffect(() => {
-    if (!gecikmeliQ.trim()) return;
     let alive = true;
-    void loadFoldIndex().then(() => {
-      if (alive) setDizinSurumu((n) => n + 1);
-    });
+    const basla = () => {
+      void loadFoldIndex().then(() => {
+        if (alive) setDizinSurumu((n) => n + 1);
+      });
+    };
+    const ric = (globalThis as { requestIdleCallback?: typeof requestIdleCallback })
+      .requestIdleCallback;
+    const zaman = ric ? ric(basla, { timeout: 3000 }) : window.setTimeout(basla, 800);
     return () => {
       alive = false;
+      const cic = (globalThis as { cancelIdleCallback?: typeof cancelIdleCallback })
+        .cancelIdleCallback;
+      if (ric && cic) cic(zaman as number);
+      else clearTimeout(zaman as number);
     };
-  }, [gecikmeliQ]);
+  }, []);
 
-  const [sayfa, setSayfa] = useState(1);
+  /*
+    Liste uzunluğu geri dönüşte korunur.
+
+    Yönlendirici kaydırma konumunu hatırlıyor; ne var ki liste kademeli
+    çizildiği için geri dönüldüğünde sayfa yeniden 60 satıra çöküyor ve
+    hatırlanan konuma inecek yükseklik kalmıyordu. Sayfa sayısı bileşenin
+    ömrünü aşan bir yerde tutulur ve dönüşte satırlar geri gelir gelmez
+    konum yeniden uygulanır.
+  */
+  const [sayfa, setSayfa] = useState(() => arsivSayfaBellek.sayfa);
+
+  useEffect(() => {
+    arsivSayfaBellek.sayfa = sayfa;
+  }, [sayfa]);
 
   // Sorgu ya da süzgeç değişince liste başa döner.
+  const ilkCizimRef = useRef(true);
   useEffect(() => {
+    if (ilkCizimRef.current) {
+      ilkCizimRef.current = false;
+      return;
+    }
     setSayfa(1);
   }, [gecikmeliQ, gecikmeliTier]);
 
@@ -393,6 +426,15 @@ function ArchivePage() {
 
   const results = arama.rows;
   const dahaVar = !arama.bitti && results.length === SAYFA_BOYU * sayfa;
+
+  // Satırlar geri geldiğinde bırakılan yere dön — bir kez.
+  const konumUygulandiRef = useRef(false);
+  useEffect(() => {
+    if (konumUygulandiRef.current || results.length === 0) return;
+    konumUygulandiRef.current = true;
+    const y = hatirlananKonum('/arsiv');
+    if (y > 0) requestAnimationFrame(() => konumaGit(y));
+  }, [results.length]);
 
   /*
     Listenin dibine yaklaşınca kendiliğinden devam eder — «daha fazla»
@@ -468,9 +510,18 @@ function ArchivePage() {
         </div>
       </div>
 
-      <p className="text-[12px] text-ink-3 mb-2.5">
-        {dahaVar ? `${trNum(results.length)}+ sonuç` : `${trNum(results.length)} sonuç`}
-      </p>
+      {/*
+        Sayaç yalnız SÜZÜLMÜŞ listede anlamlıdır.
+
+        Süzgeç yokken «60+ sonuç» yazmak, başlıkta duran «25.902 karar»ın
+        yanında hem yanlış hem gereksiz görünüyordu: kullanıcı arşivin
+        tamamına bakıyor, altmış karara değil.
+      */}
+      {gecikmeliQ.trim() || gecikmeliTier ? (
+        <p className="text-[12px] text-ink-3 mb-2.5">
+          {dahaVar ? `${trNum(results.length)}+ sonuç` : `${trNum(results.length)} sonuç`}
+        </p>
+      ) : null}
 
       {results.length === 0 ? (
         bekliyor ? (
@@ -538,6 +589,17 @@ function ArchivePage() {
 const SAYFA_BOYU = 60;
 
 /**
+ * Arşiv listesinin kaç sayfa açık olduğu — bileşenin ömrünü aşar.
+ *
+ * Karara girip geri dönmek bileşeni söker ve yeniden kurar; yerel durumda
+ * tutulan sayfa sayısı o anda sıfırlanır. Modül düzeyinde tutulunca liste
+ * dönüşte aynı uzunlukta gelir ve hatırlanan kaydırma konumu anlam kazanır.
+ * Uygulama kapanınca sıfırlanması istenen bir değerdir; kalıcı depoya
+ * yazılmaz.
+ */
+const arsivSayfaBellek = { sayfa: 1 };
+
+/**
  * Arşiv liste satırı — kararın KONUSU önde.
  *
  * Önceki sürüm yalnız künyeyi basıyordu: «Yargıtay Ceza Genel Kurulu,
@@ -552,6 +614,26 @@ const SAYFA_BOYU = 60;
  * `row` nesnesi dışında hiçbir şeye bakmadığı ve o nesne arşiv yüklendikten
  * sonra hiç değişmediği için karşılaştırma da bedavadır.
  */
+/**
+ * Satırın ikinci sırasındaki künye — üstteki rozetle çakışan kısmı atılmış.
+ *
+ * Ham künye «Yargıtay Ceza Genel Kurulu, E. 2025/525, K. 2026/350,
+ * T. 10.06.2026» der. Oysa rozet zaten CEZA GENEL KURULU, yanındaki damga da
+ * 10.06.2026 yazar. Aynı bilgi bir satırda üç kez görününce göz esas ayırt
+ * edici olana, esas ve karar numarasına odaklanamaz.
+ */
+function kunyeKisa(row: ArchiveRow): string {
+  let k = String(row.k || '');
+  const daire = tierLabel(row.r) || row.d || '';
+  if (daire) {
+    // «Yargıtay Ceza Genel Kurulu, » önekini at — büyük/küçük harfe bakmadan.
+    const on = new RegExp(`^\\s*(yargıtay\\s+)?${daire.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\s*[,·-]?\\s*`, 'i');
+    k = k.replace(on, '');
+  }
+  if (row.t) k = k.replace(new RegExp(`\\s*[,·-]?\\s*T\\.?\\s*${row.t.replace(/\./g, '\\.')}\\s*$`, 'i'), '');
+  return k.replace(/^[\s,·-]+|[\s,·-]+$/g, '') || String(row.k || '');
+}
+
 const ArsivSatiri = React.memo(function ArsivSatiri({ row }: { row: ArchiveRow }) {
   const konu = row.j?.[0] || row.v || '';
 
@@ -579,7 +661,7 @@ const ArsivSatiri = React.memo(function ArsivSatiri({ row }: { row: ArchiveRow }
           <span className="block text-[14px] font-semibold leading-snug first-letter:uppercase">
             {konu}
           </span>
-          <span className="block text-[12px] text-ink-3 mt-0.5 truncate">{row.k}</span>
+          <span className="block text-[12px] text-ink-3 mt-0.5 truncate">{kunyeKisa(row)}</span>
         </>
       ) : (
         <span className="block text-[13.5px] font-semibold leading-snug">{row.k}</span>
@@ -691,7 +773,15 @@ function ArchiveDetail({ id }: { id: string }) {
   const isSaved = saved.includes(row.i);
   const sitePath = `https://www.avfethiguzel.com/yargi-kararlari/${row.i}`;
   const konu = row.j?.[0] || row.v || '';
-  const paragraflar = text ? kararParagraflari(text) : [];
+  /*
+    Metin, künye başlığı atılmış hâliyle dizilir.
+
+    Ham metnin ilk yirmi satırı künye, büyük harfli konu başlıkları ve atıf
+    yapılan maddelerin listesidir; üçü de bu sayfanın tepesinde zaten
+    duruyor. Aynı bilgiyi bir de gövdede okutmak, okumaya kararın kendisiyle
+    değil bir kapak sayfasıyla başlatıyordu.
+  */
+  const paragraflar = text ? kararParagraflari(kararGovdesi(text)) : [];
   const KADEME = [1, 1.15, 1.32];
   const kademeIndex = Math.max(0, KADEME.indexOf(olcek));
 
@@ -951,6 +1041,11 @@ function AtifYapilanMaddeler({ refs }: { refs?: string[] }) {
         <Scale size={13} aria-hidden />
         Atıf yapılan maddeler
       </h3>
+      {/*
+        Çipler 44 px yüksekliğinde. Görsel olarak 32 px yeterli görünüyordu;
+        ne var ki bunlar kararın gövdesinden mevzuata giden asıl geçitler ve
+        yan yana dizildikleri için yanlış maddeye dokunmak kolaydır.
+      */}
       <div className="flex flex-wrap gap-1.5">
         {refs.map((ref) => {
           const [kanunId, no] = ref.split('/');
@@ -963,8 +1058,9 @@ function AtifYapilanMaddeler({ refs }: { refs?: string[] }) {
                 navigate(`/mevzuat/${kanunId}/madde-${no}`);
               }}
               title={kanunAdi(kanunId)}
-              className="px-2.5 py-1.5 rounded-xl text-[12px] font-mono font-bold border border-tel bg-white tap"
-              style={{ color: 'var(--brand)' }}
+              className="inline-flex items-center px-3 rounded-xl text-[12px] font-mono
+                         font-bold border border-tel bg-white tap"
+              style={{ color: 'var(--brand)', minHeight: 44 }}
             >
               {kanunKodu(kanunId)} m.{no}
             </button>

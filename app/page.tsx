@@ -12,13 +12,14 @@ import Articles from '@/components/Articles';
 import FaqSection from '@/components/FaqSection';
 import Footer from '@/components/Footer';
 import StickyMobileCta from '@/components/StickyMobileCta';
+import { siteSayilari, tr, yaklasik } from '@/lib/site-stats';
 
 export const metadata: Metadata = {
   title: {
     absolute: 'Av. Fethi Güzel | Kanun, Şerh, Yargıtay Arşivi',
   },
   description:
-    'Türk hukuku araştırma kütüphanesi: 46 kanun, 8.000+ madde ve şerh, Yargıtay arşivi, günlük içtihat ve 550+ vatandaş rehberi. Av. Fethi Güzel.',
+    'Türk hukuku araştırma kütüphanesi: 47 kanun, 8.000+ madde metni, 25.900+ Yargıtay kararı, akademik şerh, günlük içtihat ve vatandaş rehberi. Av. Fethi Güzel.',
   keywords: [
     'kanun maddesi',
     'kanun maddesi arama',
@@ -39,11 +40,27 @@ export const metadata: Metadata = {
 };
 
 export default function Home() {
+  /*
+    Külliyat sayıları üretimin çıktısından okunur.
+
+    Elle yazıldıkları sürece kaçınılmaz olarak kayıyorlardı: burada
+    «19.000+ Yargıtay kararı» yazarken arşiv sayfası 25.902 diyordu.
+    Yuvarlama daima aşağı yapılır — sahip olunmayan içerik hiçbir yerde
+    varmış gibi görünmez.
+  */
+  const n = siteSayilari();
+  const sayilar = {
+    kanun: tr(n.kanun),
+    madde: yaklasik(n.madde, 100),
+    karar: yaklasik(n.karar, 100),
+    rehber: yaklasik(n.rehber, 10),
+  };
+
   return (
     <main id="main-content" className="relative w-full bg-cream overflow-hidden pb-20 lg:pb-0">
       <Navbar />
-      <Hero />
-      <TrustBar />
+      <Hero sayilar={sayilar} />
+      <TrustBar sayilar={sayilar} />
       {/* Google + kullanıcı: taranabilir sık aranan madde linkleri (JS yok) */}
       <section className="py-8 sm:py-10 px-5 sm:px-6 border-b border-charcoal/5 bg-white/40">
         <div className="max-w-7xl mx-auto">
@@ -66,7 +83,7 @@ export default function Home() {
               ['İİK 62', '/mevzuat/iik/madde-62'],
               ['Tüm TBK maddeleri', '/mevzuat/tbk'],
               ['Yargıtay arşivi', '/yargi-kararlari'],
-              ['Vatandaş rehberi (550+)', '/bilgi'],
+              ['Vatandaş rehberi', '/bilgi'],
               ['Kıdem rehberi', '/bilgi/kidem-tazminati-nasil-alinir'],
             ].map(([label, href]) => (
               <li key={href}>
@@ -82,7 +99,7 @@ export default function Home() {
         </div>
       </section>
       <CredentialsStrip />
-      <LibraryStrip />
+      <LibraryStrip sayilar={sayilar} />
       <YargiPreview />
       <DailyNews />
       <About />

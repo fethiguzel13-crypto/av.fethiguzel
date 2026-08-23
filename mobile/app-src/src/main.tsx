@@ -12,10 +12,24 @@ import { SplashScreen } from '@capacitor/splash-screen';
  * paketleri woff2 dosyalarını doğrudan pakete gömer, Vite derleme
  * çıktısına kopyalar.
  *
- * `latin-ext` alt kümesi seçildi (yalnız `latin` değil) — Türkçe İ/ı/ğ/Ş/Ç
- * gibi karakterler temel Latin kümesinde yok. Portalın kendi font
- * yüklemesiyle aynı alt küme (`app/layout.tsx` → `subsets: ['latin',
- * 'latin-ext']`).
+ * ★ İKİ alt küme de gerekir: `latin` VE `latin-ext`.
+ *
+ * Burada bir kez `latin-ext` tek başına yüklendi; gerekçe «Türkçe İ/ğ/Ş
+ * temel Latin kümesinde yok» idi ve doğruydu. Yanlış olan, `latin-ext`in
+ * `latin`i KAPSADIĞI varsayımıydı. İkisi kapsayan-kapsanan değil, ayrık
+ * kümedir: `latin-ext` yalnız U+0100 sonrasını taşır, A–Z ve a–z hiç
+ * yoktur.
+ *
+ * Sonuç ölçüldü: «Hukuk» kelimesi Plus Jakarta Sans ile de düz serif ile
+ * de 108,9 piksel geliyordu — yani marka fontu temel Latin harflerinde hiç
+ * uygulanmıyor, işletim sisteminin yedek yüzü çiziyordu. Yalnız «Şşğİ»
+ * doğru yüzden geliyordu. Türkçe metinde aksanlı harf her kelimede
+ * bulunduğu için ekrandaki her satır iki ayrı yazı tipinin karışımıydı;
+ * harf genişlikleri tutmadığı için tek boşluklu etiketlerde aralık da
+ * bozuluyordu.
+ *
+ * Portalın kendi yüklemesi baştan doğruydu (`app/layout.tsx` →
+ * `subsets: ['latin', 'latin-ext']`); mobil taraf ondan ayrılmıştı.
  *
  * Ağırlıklar kod tabanında GERÇEKTEN kullanılanlarla sınırlı — kullanılmayan
  * ağırlık indirmek çevrimdışı bir uygulamada saf israf.
@@ -29,20 +43,39 @@ import { SplashScreen } from '@capacitor/splash-screen';
  * Cormorant Garamond ("drama") bilinçli olarak YOK: küçük punto ve düşük
  * kontrastta ekranda dağılıyor, gövde metni için uygun değil.
  */
+import '@fontsource/plus-jakarta-sans/latin-400.css';
 import '@fontsource/plus-jakarta-sans/latin-ext-400.css';
+import '@fontsource/plus-jakarta-sans/latin-500.css';
 import '@fontsource/plus-jakarta-sans/latin-ext-500.css';
+import '@fontsource/plus-jakarta-sans/latin-600.css';
 import '@fontsource/plus-jakarta-sans/latin-ext-600.css';
+import '@fontsource/plus-jakarta-sans/latin-700.css';
 import '@fontsource/plus-jakarta-sans/latin-ext-700.css';
+import '@fontsource/outfit/latin-500.css';
 import '@fontsource/outfit/latin-ext-500.css';
+import '@fontsource/outfit/latin-600.css';
 import '@fontsource/outfit/latin-ext-600.css';
+import '@fontsource/outfit/latin-700.css';
 import '@fontsource/outfit/latin-ext-700.css';
+import '@fontsource/lora/latin-400.css';
 import '@fontsource/lora/latin-ext-400.css';
+import '@fontsource/lora/latin-500.css';
 import '@fontsource/lora/latin-ext-500.css';
+import '@fontsource/lora/latin-600.css';
 import '@fontsource/lora/latin-ext-600.css';
+import '@fontsource/lora/latin-400-italic.css';
 import '@fontsource/lora/latin-ext-400-italic.css';
+import '@fontsource/ibm-plex-mono/latin-400.css';
 import '@fontsource/ibm-plex-mono/latin-ext-400.css';
+import '@fontsource/ibm-plex-mono/latin-500.css';
 import '@fontsource/ibm-plex-mono/latin-ext-500.css';
+import '@fontsource/ibm-plex-mono/latin-600.css';
 import '@fontsource/ibm-plex-mono/latin-ext-600.css';
+// 700: rozetler ve kanun kodu çipleri `font-mono font-bold` ile diziliyor.
+// Yüz yoksa tarayıcı sahte kalın üretir; tek boşluklu bir yüzde bu, harf
+// gövdesini şişirip ızgarayı bozar.
+import '@fontsource/ibm-plex-mono/latin-700.css';
+import '@fontsource/ibm-plex-mono/latin-ext-700.css';
 
 import './app.css';
 import { APP, APP_ID, appName } from './lib/config';

@@ -135,6 +135,138 @@ await step('madde metni yeniden akıtılmış', async () => {
   if (/---/.test(body)) throw new Error('ham markdown ayracı ekranda');
 });
 
+/*
+  ÜCRETLİ BÖLÜM — iki yönlü denetim.
+
+  Buradaki hata iki türlüdür ve ikisi de sessizdir: kapı açık kalırsa ücretli
+  külliyat bedava dağılır, kapı takılı kalırsa ödeme yapmış avukat kararı
+  açamaz. İkisi de ancak çalıştırıp bakınca görülür, bu yüzden her ikisi de
+  duman testine bağlandı.
+*/
+const ORNEK_KARAR = '16851400';
+
+await step('üyeliksiz karar: tam metin kapalı, önizleme açık', async () => {
+  await page.evaluate(() => localStorage.removeItem('CapacitorStorage.galaxy:uyelik'));
+  await page.goto(`http://localhost:4599/#/karar/${ORNEK_KARAR}`, { waitUntil: 'networkidle' });
+  await page.waitForTimeout(2000);
+  const body = await page.textContent('body');
+  if (!/Tam metin üyelik gerektirir/.test(body)) throw new Error('kilit uyarısı yok — kapı AÇIK');
+  if (body.length > 3000) throw new Error(`tam metin sızıyor (${body.length} karakter)`);
+  if (!/Karar metni/.test(body)) throw new Error('önizleme hiç görünmüyor');
+});
+
+await step('üyelik ekranı fiyatı ve dönemi söylüyor', async () => {
+  await page.goto('http://localhost:4599/#/uyelik', { waitUntil: 'networkidle' });
+  await page.waitForTimeout(800);
+  const body = await page.textContent('body');
+  if (!/Yargıtay arşivi üyeliği/.test(body)) throw new Error('üyelik ekranı açılmıyor');
+  if (!/500/.test(body)) throw new Error('fiyat görünmüyor');
+  if (!/Üyeliği başlat/.test(body)) throw new Error('satın alma düğmesi yok');
+});
+
+await step('üyelik açıkken şifreli kasa çözülüyor', async () => {
+  await page.evaluate(() => {
+    const n = Date.now();
+    localStorage.setItem(
+      'CapacitorStorage.galaxy:uyelik',
+      JSON.stringify({
+        durum: 'etkin',
+        bitis: n + 30 * 864e5,
+        sonDogrulama: n,
+        cevrimdisiBitis: n + 30 * 864e5,
+      })
+    );
+  });
+  // Tam yeniden yükleme şart: aynı belge içinde hash değiştirmek uygulamayı
+  // baştan başlatmaz ve üyelik durumu açılışta bir kez okunur.
+  await page.goto(`http://localhost:4599/#/karar/${ORNEK_KARAR}`, { waitUntil: 'networkidle' });
+  await page.reload({ waitUntil: 'networkidle' });
+  await page.waitForTimeout(3000);
+  const body = await page.textContent('body');
+  if (/Tam metin üyelik gerektirir/.test(body)) throw new Error('ödeyen kullanıcı kapıda kaldı');
+  if (body.length < 3000) throw new Error(`kasa çözülmedi (${body.length} karakter)`);
+  await page.evaluate(() => localStorage.removeItem('CapacitorStorage.galaxy:uyelik'));
+});
+
+await step('arama tuş başına donmuyor', async () => {
+  await page.goto('http://localhost:4599/#/arsiv', { waitUntil: 'networkidle' });
+  await page.waitForTimeout(2500); // boştaki dizin hazırlığı
+  const enKotu = await page.evaluate(async () => {
+    const el = document.querySelector('input[type=search]');
+    const set = Object.getOwnPropertyDescriptor(window.HTMLInputElement.prototype, 'value').set;
+    let kotu = 0;
+    for (const c of 'kamulastirma') {
+      const t0 = performance.now();
+      set.call(el, el.value + c);
+      el.dispatchEvent(new Event('input', { bubbles: true }));
+      await new Promise((r) => requestAnimationFrame(() => requestAnimationFrame(r)));
+      kotu = Math.max(kotu, performance.now() - t0);
+    }
+    return Math.round(kotu);
+  });
+  // Katlanmış dizin (icthat/arama.txt.gz) düşerse tarama cihazda yapılır ve
+  // bu değer saniyelere fırlar — sessiz bir bozulma, yalnız ölçerek görülür.
+  if (enKotu > 250) throw new Error(`tuş başına ${enKotu} ms — arama dizini devre dışı olabilir`);
+});
+
+await step('liste kaydırdıkça uzuyor (120 sınırı yok)', async () => {
+  await page.goto('http://localhost:4599/#/arsiv', { waitUntil: 'networkidle' });
+  await page.waitForTimeout(1500);
+  const once = await page.$$eval('.satir-grup > li', (n) => n.length);
+  for (let i = 0; i < 4; i += 1) {
+    await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+    await page.waitForTimeout(500);
+  }
+  const sonra = await page.$$eval('.satir-grup > li', (n) => n.length);
+  if (sonra <= once) throw new Error(`liste uzamıyor (${once} → ${sonra})`);
+});
+
+await step('marka yazı tipleri gerçekten uygulanıyor', async () => {
+  /*
+    Sessiz kusurların en görünmezi.
+
+    Bir dönem yalnız `latin-ext` alt kümesi yükleniyordu; o alt küme A–Z ve
+    a–z içermez. Uygulamanın bütün metni işletim sisteminin yedek yüzüyle,
+    yalnız Türkçe aksanlı harfler marka yazı tipiyle çiziliyordu. Hiçbir
+    hata çıkmadığı ve yedek yüz makul göründüğü için aylarca fark edilmedi.
+
+    Ölçüt genişliktir: marka yüzü uygulanıyorsa aynı kelime yedek yüzden
+    FARKLI genişlikte gelir.
+  */
+  await page.goto('http://localhost:4599/#/', { waitUntil: 'networkidle' });
+  await page.waitForTimeout(1200);
+  const dusenler = await page.evaluate(async () => {
+    const AILELER = [
+      ['Plus Jakarta Sans', '"Plus Jakarta Sans"', [400, 500, 600, 700]],
+      ['Outfit', 'Outfit', [500, 600, 700]],
+      ['Lora', 'Lora', [400, 500, 600]],
+      ['IBM Plex Mono', '"IBM Plex Mono"', [400, 500, 600, 700]],
+    ];
+    for (const [, fam, ws] of AILELER) {
+      for (const w of ws) await document.fonts.load(`${w} 40px ${fam}`);
+    }
+    const olc = (fam, w) => {
+      const s = document.createElement('span');
+      s.textContent = 'Hukuk';
+      s.style.cssText = `position:absolute;font-family:${fam};font-weight:${w};font-size:40px`;
+      document.body.appendChild(s);
+      const x = s.getBoundingClientRect().width;
+      s.remove();
+      return Math.round(x * 10) / 10;
+    };
+    const kotu = [];
+    for (const [ad, fam, ws] of AILELER) {
+      for (const w of ws) {
+        if (olc(`${fam}, serif`, w) === olc('serif', w)) kotu.push(`${ad} ${w}`);
+      }
+    }
+    return kotu;
+  });
+  if (dusenler.length) {
+    throw new Error(`yedek yazı tipine düşen yüzler: ${dusenler.join(', ')}`);
+  }
+});
+
 await step('giriş ekranına dönülüyor', async () => {
   await page.goto('http://localhost:4599/#/', { waitUntil: 'networkidle' });
   await page.waitForTimeout(500);

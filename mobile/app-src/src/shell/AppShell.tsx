@@ -5,7 +5,7 @@ import { WifiOff, Share2, Settings } from 'lucide-react';
 
 import { APP, appName } from '../lib/config';
 import { useRoute, navigate } from '../lib/router';
-import { sectionOf, BOLUM_RENK, BOLUM_SERIT } from '../lib/nav';
+import { APP_TABS, sectionOf, BOLUM_RENK, BOLUM_SERIT } from '../lib/nav';
 import { share } from '../lib/external';
 import { siteUrlFor } from '../lib/deeplink';
 import { cubukBasligi } from './baslik';
@@ -71,7 +71,17 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
     return () => handle?.remove();
   }, []);
 
-  const atRoot = route.path === '/';
+  /*
+    Sekme kökleri de KÖKTÜR.
+
+    Önceki sürümde yalnız `/` kök sayılıyordu; Mevzuat, Yargı, Kitaplık ve
+    Araçlar sekmelerine dokunup gelen kullanıcı çubukta bir geri oku
+    buluyordu. Oysa oraya sekmeye basarak gelmişti, geri gidilecek bir yer
+    yoktu; ok, tarayıcı geçmişindeki rastgele bir sayfaya götürüyordu.
+    Sekme kökünde marka işareti durur, geri oku yalnız gerçekten içeri
+    girildiğinde çıkar.
+  */
+  const atRoot = APP_TABS.some((t) => t.path === route.path);
   const bolum = sectionOf(route.path) ?? 'home';
   const bolumRengi = BOLUM_RENK[bolum] ?? BOLUM_RENK.home;
   const seritRengi = BOLUM_SERIT[bolum] ?? BOLUM_SERIT.home;

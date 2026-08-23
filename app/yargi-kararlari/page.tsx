@@ -6,8 +6,22 @@ import YargiArchiveClient from '@/components/YargiArchiveClient';
 import YargiPaywall from '@/components/YargiPaywall';
 import { readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
-import { getAccess, setSessionCookie } from '@/lib/uyelik/session';
+import { getAccess } from '@/lib/uyelik/session';
 import { priceLabel } from '@/lib/uyelik/config';
+
+/*
+  Oturum çerezi burada TAZELENMEZ.
+
+  Bu sayfa bir Server Component; Next.js render sırasında çerez yazmayı
+  yasaklar ve cookies().set() çağrısı isteği 500e düşürür. Hata yalnız
+  OTURUM AÇMIŞ ziyaretçide görülüyordu: anonim ziyaretçide user boş olduğu
+  için satır hiç çalışmıyor, üyede ise sayfa her açılışta, yani her
+  yenilemede patlıyordu.
+
+  Tazeleme buna izin verilen tek yere taşındı: /api/uyelik/ben route
+  handler. Çerezin ömrü zaten girişte 180 güne kuruluyor; sayfa görüntüsü
+  başına yeniden yazmanın işlevsel bir karşılığı yoktu.
+*/
 
 export const dynamic = 'force-dynamic';
 
@@ -21,12 +35,26 @@ function readStats(): { total?: number; byTier?: Record<string, number> } {
   }
 }
 
-const stats = readStats();
-const totalLabel = stats.total
-  ? `${stats.total.toLocaleString('tr-TR')} Yargıtay kararı`
-  : 'Yargıtay karar arşivi';
+/*
+  Sayaç HER İSTEKTE okunur.
 
-export const metadata: Metadata = {
+  Önceki sürümde `readStats()` modül gövdesinde bir kez çalışıyor ve sonuç
+  süreç ömrü boyunca donuyordu. Arşiv her gün büyüdüğü için sayfa gövdesinde
+  «25.902 Yargıtay kararı» yazarken hemen altındaki süzgeç çipi «Tümü
+  (27.147)» diyordu: aynı ekranda iki farklı gerçek. Sayfa zaten
+  `force-dynamic`; küçük bir JSON okumasının maliyeti bu tutarsızlığın
+  yanında yok sayılır.
+*/
+function toplamEtiketi(): string {
+  const stats = readStats();
+  return stats.total
+    ? `${stats.total.toLocaleString('tr-TR')} Yargıtay kararı`
+    : 'Yargıtay karar arşivi';
+}
+
+export function generateMetadata(): Metadata {
+  const totalLabel = toplamEtiketi();
+  return {
   title: `Yargıtay Karar Arşivi | ${totalLabel}`,
   description: `İçtihadı birleştirme, HGK, CGK ve daire kararları. Aylık üyelik ${priceLabel()}. Kararlar sitede okunur; indirme yoktur.`,
   alternates: { canonical: 'https://www.avfethiguzel.com/yargi-kararlari' },
@@ -35,11 +63,13 @@ export const metadata: Metadata = {
     description: `Üyelikle açılan araştırma arşivi. Aylık ${priceLabel()}.`,
     url: 'https://www.avfethiguzel.com/yargi-kararlari',
   },
-};
+  };
+}
 
 export default async function YargiKararlariPage() {
+  const stats = readStats();
+  const totalLabel = toplamEtiketi();
   const { member, publicUser, user } = await getAccess();
-  if (user) await setSessionCookie(user);
 
   return (
     <>

@@ -699,6 +699,138 @@ console.log(
     `madde atıflı satır ${atifliSatir} (%${((atifliSatir / rows.length) * 100).toFixed(0)})`
 );
 
+/*
+  Sitenin arama indeksi de konu başlıklarını alır.
+
+  `build-icthat-data.mjs` public/data/yargi-index.json.gz dosyasını bu
+  betikten ÖNCE yazar; konu çıkarımı ise burada yapılır. Sıra böyle olduğu
+  için site indeksi konusuz kalıyordu: mobil uygulamada satırlar
+  «Konutta silahlı yağma suçu» derken sitede aynı kararlar
+  «Yargıtay Ceza Genel Kurulu, E. 2025/585, K. 2026/353» künye duvarı
+  olarak diziliyordu. Aynı veriden iki farklı kalite çıkıyordu.
+
+  Zenginleştirme burada, konu çıkarıldıktan sonra uygulanır. Site indeksi
+  yoksa adım sessizce atlanır — mobil derlemesi web klasörüne bağımlı
+  olmamalıdır.
+*/
+/**
+ * Özetin başındaki usul başlığını atar.
+ *
+ * Karar metinleri büyük harfli bir alan listesiyle başlar:
+ * «İTİRAZIN İNCELENMEKSİZİN İADESİ KARARI KARARI VEREN YARGITAY DAİRESİ :
+ * 6. Ceza Dairesi MAHKEMESİ :Ceza Dairesi SAYISI : 41-1463». Liste iki
+ * satırlık özetin tamamını yiyor, geriye kararın tek cümlesi kalmıyordu —
+ * üstelik aynı bilgi rozette ve künyede zaten duruyor.
+ *
+ * Alan listesi hemen her kararda `SAYISI : <numara>` ile biter; kesim orada
+ * yapılır. Desen bulunamazsa özet olduğu gibi bırakılır.
+ */
+const OZET_VARLIK = {
+  '&ldquo;': '“',
+  '&rdquo;': '”',
+  '&lsquo;': '‘',
+  '&rsquo;': '’',
+  '&quot;': '"',
+  '&apos;': "'",
+  '&amp;': '&',
+  '&lt;': '<',
+  '&gt;': '>',
+  '&nbsp;': ' ',
+  '&hellip;': '…',
+  '&ndash;': '–',
+  '&mdash;': '—',
+  // Türkçede düzeltme işaretli harfler kaynakta varlık olarak geliyordu:
+  // «â» yerine ekranda ham «&acirc;» görünüyordu.
+  '&acirc;': 'â',
+  '&icirc;': 'î',
+  '&ucirc;': 'û',
+  '&ocirc;': 'ô',
+  '&ecirc;': 'ê',
+  '&shy;': '',
+  '&not;': '',
+};
+
+/**
+ * Alan listesini bitiren etiketler.
+ *
+ * Başlık bloğu bunlardan biriyle biter; sonrasında kararın anlatısı başlar.
+ * `Mahkemesi` tek başına bitirici DEĞİLDİR: değeri mahkeme adıdır ve anlatıya
+ * ayraçsız karışır, kesim orada yapılırsa cümlenin başı kesilir.
+ */
+const OZET_SON_ETIKET = /(SAYISI|Sayısı|NUMARASI|Numarası|ESAS NO|KARAR NO)\s*:\s*/g;
+
+function ozetiTemizle(e) {
+  let s = String(e || '');
+
+  // Kaçmamış HTML varlıkları ekranda ham görünüyordu: «&ldquo;takibin iptali&rdquo;»
+  s = s.replace(/&[a-z]+;/gi, (m) => OZET_VARLIK[m.toLowerCase()] ?? m);
+  s = s.replace(/&#(\d+);/g, (m, d) => {
+    const n = Number(d);
+    return n > 31 && n < 0x10000 ? String.fromCharCode(n) : m;
+  });
+
+  // Başlık bloğunun EN SON alanını bul, değerini de atla.
+  OZET_SON_ETIKET.lastIndex = 0;
+  let son = null;
+  let m;
+  while ((m = OZET_SON_ETIKET.exec(s)) !== null) {
+    if (m.index > 400) break;
+    son = m;
+  }
+
+  if (son) {
+    const sonrasi = s.slice(son.index + son[0].length);
+    /*
+      Değer: numara, tarih ve esas/karar ekleri.
+
+      «2011/23 E-2011/97 K.» gibi diziler tek bir değerdir; parçaları
+      sırayla değil DÖNÜŞÜMLÜ olarak tükettirilir, yoksa sondaki «K.»
+      artakalıp özetin başına yapışıyordu.
+    */
+    const deger = /^(?:[\d./\-–\s]+|[EK]\.?(?=[\s\-–]|$)[\s\-–]*)+/.exec(sonrasi);
+    const kalan = (deger ? sonrasi.slice(deger[0].length) : sonrasi).trim();
+    if (kalan.length > 60) return kalan;
+  }
+
+  return s.trim();
+}
+
+const siteIndexPath = join(portal, 'public', 'data', 'yargi-index.json.gz');
+if (existsSync(siteIndexPath)) {
+  try {
+    const siteRows = JSON.parse(gunzipSync(readFileSync(siteIndexPath)).toString());
+    const konuHarita = new Map();
+    for (const r of rows) if (r.j && r.j.length) konuHarita.set(String(r.i), r.j);
+
+    let eslesen = 0;
+    let ozetTemiz = 0;
+    for (const r of siteRows) {
+      if (r.e) {
+        const t = ozetiTemizle(r.e);
+        if (t !== r.e) {
+          r.e = t;
+          ozetTemiz += 1;
+        }
+      }
+      const j = konuHarita.get(String(r.i));
+      if (!j) continue;
+      r.j = j;
+      eslesen += 1;
+    }
+
+    writeFileSync(
+      siteIndexPath,
+      gzipSync(Buffer.from(JSON.stringify(siteRows), 'utf8'), { level: 9 })
+    );
+    console.log(
+      `[yargi] site indeksi: ${eslesen}/${siteRows.length} satır konu başlığı aldı ` +
+        `(%${((eslesen / siteRows.length) * 100).toFixed(0)}) · ` +
+        `${ozetTemiz} özetten usul başlığı atıldı`
+    );
+  } catch (e) {
+    console.warn(`[yargi] site indeksi zenginleştirilemedi: ${e.message}`);
+  }
+}
 if (konuluSatir < rows.length * 0.2) {
   console.error('[yargi] konu çıkarımı %20 eşiğinin altında — çıkarım bozulmuş olabilir');
   process.exit(1);

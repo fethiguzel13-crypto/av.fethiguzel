@@ -184,6 +184,32 @@ export function temizleKarar(ham: string): string {
     .trim();
 }
 
+/**
+ * Kararın GÖVDESİ — künye başlığı atılmış hâli.
+ *
+ * Yargıtay metinleri şöyle başlar: künye satırı bir ya da iki kez, ardından
+ * büyük harfli konu başlıkları, sonra atıf yapılan maddelerin listesi
+ * («4721 S. TÜRK MEDENİ KANUNU [ Madde 879 ]»), en sonda `"İçtihat Metni"`
+ * damgası ve asıl karar.
+ *
+ * Bu başlık bloğu ekranda zaten var: künye sayfanın tepesinde, konu başlığı
+ * büyük puntoyla, atıf yapılan maddeler de dokunulabilir çipler hâlinde.
+ * Metnin içinde bir kez daha basmak, hele 420 karakterlik ücretsiz
+ * önizlemenin tamamını yutunca, kullanıcıya kararın tek cümlesini bile
+ * göstermiyordu.
+ *
+ * Damga bulunamazsa metin olduğu gibi döner — kesme yalnız emin olunan
+ * yerde yapılır.
+ */
+export function kararGovdesi(metin: string): string {
+  const s = String(metin || '');
+  const im = /["'«»]?\s*İçtihat\s+Metni\s*["'«»]?/i.exec(s);
+  if (!im || im.index > 4000) return s;
+  const govde = s.slice(im.index + im[0].length).replace(/^[\s"'«»:\-–—]+/, '');
+  // Damgadan sonrası anlamlı uzunlukta değilse kesme yapılmaz.
+  return govde.length > 200 ? govde : s;
+}
+
 /** Karar metnini paragraflara böler — okuma görünümü için. */
 export function kararParagraflari(ham: string): string[] {
   return temizleKarar(ham)

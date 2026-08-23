@@ -1,44 +1,53 @@
 import Link from 'next/link';
 import { BookOpen, Gavel, MapPin, Newspaper, ShieldCheck, Scale } from 'lucide-react';
 
+/** Külliyat sayıları — lib/site-stats.ts tarafından üretilir. */
+export type Sayilar = {
+  kanun: string;
+  madde: string;
+  karar: string;
+  rehber: string;
+};
+
 /**
  * World-class law sites lead with credibility signals above the fold.
  * Stats + differentiators build trust before the visitor scrolls.
  */
-const SIGNALS = [
-    {
-        icon: BookOpen,
-        value: '7.800+',
-        label: 'Madde ve akademik şerh',
-    },
-    {
-        icon: Scale,
-        value: '45+',
-        label: 'Kanun arşivi',
-    },
-    {
-        icon: Gavel,
-        value: '19.000+',
-        label: 'Yargıtay kararı arşivi',
-    },
-    {
-        icon: Newspaper,
-        value: 'Günlük',
-        label: 'İçtihat ve Resmî Gazete',
-    },
-    {
-        icon: MapPin,
-        value: 'Van · Erciş',
-        label: 'Yerel avukatlık ve arabuluculuk',
-    },
-    {
-        icon: ShieldCheck,
-        value: 'Ücretsiz',
-        label: 'Açık erişimli dijital kütüphane',
-    },
-];
 
-export default function TrustBar() {
+export default function TrustBar({ sayilar }: { sayilar: Sayilar }) {
+  const SIGNALS = [
+      {
+          icon: BookOpen,
+          value: sayilar.madde,
+          label: 'Madde ve akademik şerh',
+      },
+      {
+          icon: Scale,
+          value: sayilar.kanun,
+          label: 'Kanun arşivi',
+      },
+      {
+          icon: Gavel,
+          value: sayilar.karar,
+          label: 'Yargıtay kararı arşivi',
+      },
+      {
+          icon: Newspaper,
+          value: 'Günlük',
+          label: 'İçtihat ve Resmî Gazete',
+      },
+      {
+          icon: MapPin,
+          value: 'Van · Erciş',
+          label: 'Yerel avukatlık ve arabuluculuk',
+      },
+      {
+          icon: ShieldCheck,
+          value: 'Ücretsiz',
+          label: 'Açık erişimli dijital kütüphane',
+      },
+  ];
+
     return (
         <section
             aria-label="Portal güven ve kapsam göstergeleri"

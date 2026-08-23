@@ -4,34 +4,43 @@ import React from "react";
 import Link from "next/link";
 import { BookOpen, Search, Scale, Newspaper } from "lucide-react";
 
-const LINKS = [
-    {
-        href: "/ara",
-        icon: Search,
-        title: "Mevzuat Ara",
-        desc: "8.000+ madde ve şerh içinde anında arama",
-    },
-    {
-        href: "/yargi-kararlari",
-        icon: Scale,
-        title: "Yargıtay Arşivi",
-        desc: "Aylık üyelik · sitede okuma · indirme yok",
-    },
-    {
-        href: "/icthat",
-        icon: Newspaper,
-        title: "Günlük İçtihat",
-        desc: "Yargıtay, AYM ve Resmî Gazete taraması",
-    },
-    {
-        href: "/bilgi",
-        icon: BookOpen,
-        title: "Vatandaş Rehberi",
-        desc: "Merci, süre, belge — 550+ adım adım kılavuz",
-    },
-];
+/** Külliyat sayıları — lib/site-stats.ts tarafından üretilir. */
+export type Sayilar = {
+  kanun: string;
+  madde: string;
+  karar: string;
+  rehber: string;
+};
 
-export default function LibraryStrip() {
+
+export default function LibraryStrip({ sayilar }: { sayilar: Sayilar }) {
+  const LINKS = [
+      {
+          href: "/ara",
+          icon: Search,
+          title: "Mevzuat Ara",
+          desc: `${sayilar.madde} madde ve şerh içinde anında arama`,
+      },
+      {
+          href: "/yargi-kararlari",
+          icon: Scale,
+          title: "Yargıtay Arşivi",
+          desc: `${sayilar.karar} karar · aylık üyelik · indirme yok`,
+      },
+      {
+          href: "/icthat",
+          icon: Newspaper,
+          title: "Günlük İçtihat",
+          desc: "Yargıtay, AYM ve Resmî Gazete taraması",
+      },
+      {
+          href: "/bilgi",
+          icon: BookOpen,
+          title: "Vatandaş Rehberi",
+          desc: `Merci, süre, belge — ${sayilar.rehber} adım adım kılavuz`,
+      },
+  ];
+
     return (
         <section className="py-16 sm:py-24 px-5 sm:px-6 bg-cream">
             <div className="max-w-7xl mx-auto">

@@ -24,6 +24,21 @@ const args = process.argv.slice(2);
 const appArg = (args.find((a) => a.startsWith('--app=')) || '--app=all').split('=')[1];
 const devPrepare = args.includes('--dev-prepare');
 
+/*
+  Yalnız arayüz derlemesi — veri yeniden üretilmez.
+
+  Arayüzde küçük bir değişiklik denerken bütün boru hattını çalıştırmak beş
+  dakika sürer; bu yüzden elle `npx vite build` çağırma isteği doğar. O yol
+  TUZAKTIR: varlıkları `app-src/public`'e sahneleyen adım atlanır ve son
+  derlenen uygulamanın varlıkları neyse arayüz onunla derlenir. Bir kez
+  arşiv bölümü tamamen boş çıktı, çünkü ondan önce mevzuat taşımayan bir
+  flavor derlenmişti.
+
+  Bu bayrak güvenli hızlı yoldur: veri üretimi atlanır, SAHNELEME ve sayaç
+  hesabı yapılır. Veri kaynağı (`data-src`) yoksa hata verip durur.
+*/
+const sadeceArayuz = args.includes('--sadece-arayuz') || args.includes('--ui');
+
 const catalog = JSON.parse(readFileSync(join(mobile, 'galaxy', 'catalog.json'), 'utf8'));
 
 /**
@@ -56,20 +71,38 @@ function run(cmd, cmdArgs, env = {}, cwd = mobile) {
 }
 
 // ── 1. Veri hazırlığı ───────────────────────────────────────────────────────
-console.log('── veri hazırlanıyor');
-run('node', ['scripts/build-icthat-data.mjs']);
-run('node', ['scripts/build-rehber-data.mjs']);
-
 const portal = join(mobile, '..');
 const dataSrc = join(mobile, 'data-src');
 const publicDir = join(mobile, 'app-src', 'public');
 
-const portalPacks = join(portal, 'public', 'app-packs');
-if (!existsSync(join(portalPacks, 'manifest.json'))) {
-  console.log('   uygulama paketleri yok, portalda üretiliyor…');
-  run('node', ['scripts/build-app-packs.mjs'], {}, portal);
+if (sadeceArayuz) {
+  console.log('── veri hazırlığı ATLANDI (--sadece-arayuz)');
+  const zorunlu = [
+    join(dataSrc, 'packs', 'manifest.json'),
+    join(dataSrc, 'icthat', 'archive.json.gz'),
+    join(dataSrc, 'icthat', 'kasa-anahtar.json'),
+  ];
+  const eksik = zorunlu.filter((f) => !existsSync(f));
+  if (eksik.length) {
+    console.error('--sadece-arayuz kullanılamaz, veri kaynağı eksik:');
+    for (const f of eksik) console.error(`   ${f}`);
+    console.error('Önce tam derleme çalıştırın: node scripts/build-app.mjs --app=<id>');
+    process.exit(1);
+  }
+} else {
+  console.log('── veri hazırlanıyor');
+  run('node', ['scripts/build-icthat-data.mjs']);
+  run('node', ['scripts/build-rehber-data.mjs']);
 }
-run('node', ['scripts/sync-packs.mjs']);
+
+const portalPacks = join(portal, 'public', 'app-packs');
+if (!sadeceArayuz) {
+  if (!existsSync(join(portalPacks, 'manifest.json'))) {
+    console.log('   uygulama paketleri yok, portalda üretiliyor…');
+    run('node', ['scripts/build-app-packs.mjs'], {}, portal);
+  }
+  run('node', ['scripts/sync-packs.mjs']);
+}
 
 if (!existsSync(join(dataSrc, 'packs', 'manifest.json'))) {
   console.error('paket manifesti üretilemedi — derleme durduruldu');
@@ -87,10 +120,10 @@ if (!existsSync(join(dataSrc, 'packs', 'manifest.json'))) {
   Madde doğrulaması için paketlere de ihtiyaç duyar (atıf edilen madde
   bizim külliyatta gerçekten var mı), bu yüzden sync-packs'ten sonra.
 */
-run('node', ['scripts/build-yargi-index.mjs']);
+if (!sadeceArayuz) run('node', ['scripts/build-yargi-index.mjs']);
 
 // Akademik eserler — .docx/.pdf metinleri çıkarılır (bkz. build-kutuphane.mjs)
-run('node', ['scripts/build-kutuphane.mjs']);
+if (!sadeceArayuz) run('node', ['scripts/build-kutuphane.mjs']);
 
 /*
   Karar tam metinleri şifrelenir.
@@ -99,7 +132,7 @@ run('node', ['scripts/build-kutuphane.mjs']);
   açan herkes doğrudan okuyabilir ve üyeliğin anlamı kalmaz. Şifreleme
   icthat verisi üretildikten SONRA çalışmalıdır.
 */
-run('node', ['scripts/build-yargi-sifrele.mjs']);
+if (!sadeceArayuz) run('node', ['scripts/build-yargi-sifrele.mjs']);
 
 /**
  * Hangi uygulama hangi varlığı taşır.

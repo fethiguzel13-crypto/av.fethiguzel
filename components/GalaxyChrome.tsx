@@ -1,33 +1,25 @@
 'use client';
 
 import { Suspense } from 'react';
-import LanguageSwitcher from '@/components/LanguageSwitcher';
 import { useGalaxy } from '@/lib/galaxy/useGalaxy';
-import { localized } from '@/lib/galaxy/catalog';
 
+/*
+  Yüzen dil rozeti KALDIRILDI.
+
+  Rozet `fixed top-0 z-[55]` idi; site gezinme çubuğu ise `fixed top-6
+  z-[900]`. İkisi aynı bandı paylaşıyor ve çubuk üstte kaldığı için rozet
+  ana sayfa dışındaki her sayfada altında kalıp kırpık bir dilim olarak
+  görünüyordu. Rozetin taşıdığı uygulama adı da çubuktaki markanın
+  tekrarıydı.
+
+  Dil seçici gezinme çubuğuna taşındı; kullanıcı onu zaten orada arar.
+  Bu bileşen yalnız ekran okuyucuya okunan yasal notu taşımayı sürdürür.
+*/
 function GalaxyBar() {
-  const { app, locale, t, ready } = useGalaxy();
+  const { t, ready } = useGalaxy();
   if (!ready) return null;
-
-  return (
-    <div
-      className="pointer-events-none fixed top-0 inset-x-0 z-[55] flex justify-end p-2 sm:p-3 md:p-4"
-      style={{ paddingTop: 'max(0.5rem, env(safe-area-inset-top))' }}
-    >
-      <div className="pointer-events-auto flex items-center gap-2 rounded-full border border-charcoal/10 bg-cream/90 px-2 py-1 shadow-sm backdrop-blur-md">
-        <span
-          className="hidden sm:inline max-w-[9rem] truncate text-[10px] font-bold uppercase tracking-wider text-charcoal/45 pl-1"
-          title={localized(app.name, locale)}
-        >
-          {localized(app.name, locale)}
-        </span>
-        <LanguageSwitcher />
-      </div>
-      <span className="sr-only">{t('common.disclaimer')}</span>
-    </div>
-  );
+  return <span className="sr-only">{t('common.disclaimer')}</span>;
 }
-
 /** Dil seçici + aktif galaxy uygulaması etiketi (Suspense: useSearchParams) */
 export default function GalaxyChrome() {
   return (

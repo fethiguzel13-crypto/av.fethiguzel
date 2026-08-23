@@ -4,6 +4,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { usePathname, useRouter } from 'next/navigation';
 import { Menu, X, Scale, ChevronDown, Search, Lock } from 'lucide-react';
+import LanguageSwitcher from '@/components/LanguageSwitcher';
 
 const MEVZUAT_GRUPLARI = [
   {
@@ -149,6 +150,16 @@ export default function Navbar() {
   const uyelikHref = uyelikUi === '1' ? '/yargi-kararlari' : uyelikUi === '0' ? '/uyelik/odeme' : '/uyelik';
   const uyelikLabel = uyelikUi === '1' ? 'Hesabım' : uyelikUi === '0' ? 'Üyelik' : 'Üye ol';
 
+  /*
+    Üst menü sekiz öge taşır, dokuz değil.
+
+    Dokuzuncusu «Ders notları» idi ve çubuğa sığmıyordu: 1440 pikselde o öge
+    ile «Üye ol» iki satıra düşüyor, çubukta üç ayrı taban çizgisi oluşuyordu.
+    Bağlantı alt bilgide iki yerde duruyor; sayfanın kendisi de şu an
+    «yayından kaldırıldı, yeniden yazılıyor» durumunda olduğu için üst
+    düzeyde bir slot tutması ayrıca yanlıştı. İçerik yayımlandığında buraya
+    geri eklenebilir.
+  */
   const simpleLinks: { name: string; href: string; lock?: boolean }[] = [
     { name: 'Ara', href: '/ara' },
     { name: 'Yargı', href: '/yargi-kararlari', lock: true },
@@ -157,7 +168,6 @@ export default function Navbar() {
     { name: 'Hesaplama', href: '/hesaplama' },
     { name: 'Hakkımda', href: '/avukat-fethi-guzel' },
     { name: 'Akademik', href: '/akademik-profil' },
-    { name: 'Ders notları', href: '/ders-notlari' },
   ];
 
   const linkCls = solid ? 'text-charcoal hover:text-accent' : 'text-cream/85 hover:text-accent';
@@ -179,18 +189,21 @@ export default function Navbar() {
         </Link>
 
         {/* Desktop nav */}
-        <div className="hidden lg:flex items-center gap-1 font-heading text-[12px] font-bold tracking-wide uppercase">
+        <div className="hidden xl:flex items-center gap-1 font-heading text-[12px] font-bold tracking-wide uppercase">
           {simpleLinks.map(item => (
             <Link
               key={item.name}
               href={item.href}
-              className={`px-3 py-2 rounded-full transition-colors inline-flex items-center gap-1 ${linkCls}`}
+              className={`px-3 py-2 rounded-full transition-colors inline-flex items-center gap-1 whitespace-nowrap ${linkCls}`}
             >
               {item.name}
               {item.lock ? <Lock size={11} aria-hidden /> : null}
             </Link>
           ))}
-          <Link href={uyelikHref} className={`px-3 py-2 rounded-full transition-colors ${linkCls}`}>
+          <Link
+            href={uyelikHref}
+            className={`px-3 py-2 rounded-full transition-colors whitespace-nowrap ${linkCls}`}
+          >
             {uyelikLabel}
           </Link>
 
@@ -199,7 +212,7 @@ export default function Navbar() {
             <button
               onMouseEnter={() => setMegaOpen(true)}
               onClick={() => setMegaOpen(v => !v)}
-              className={`flex items-center gap-1 px-3 py-2 rounded-full transition-colors ${linkCls}`}
+              className={`flex items-center gap-1 px-3 py-2 rounded-full transition-colors whitespace-nowrap ${linkCls}`}
             >
               Mevzuat
               <ChevronDown size={13} className={`transition-transform duration-300 ${megaOpen ? 'rotate-180' : ''}`} />
@@ -258,7 +271,7 @@ export default function Navbar() {
         {/* Gerçek arama — /ara?q= */}
         <form
           onSubmit={submitNavSearch}
-          className={`hidden md:flex items-center gap-1 rounded-full border px-2.5 py-1.5 shrink-0 max-w-[14rem] lg:max-w-[16rem] ${solid ? 'border-charcoal/[0.12] bg-white/90' : 'border-cream/25 bg-cream/10'
+          className={`hidden 2xl:flex items-center gap-1 rounded-full border px-2.5 py-1.5 shrink-0 max-w-[14rem] 2xl:max-w-[15rem] ${solid ? 'border-charcoal/[0.12] bg-white/90' : 'border-cream/25 bg-cream/10'
             }`}
           role="search"
         >
@@ -274,10 +287,18 @@ export default function Navbar() {
           />
         </form>
 
+        {/*
+          Dil seçici çubuğun içinde.
+
+          Daha önce sayfanın sağ üstünde ayrı bir yüzen rozette duruyordu ve
+          gezinme çubuğunun altında kalıp kırpılıyordu. Yeri burasıdır.
+        */}
+        <LanguageSwitcher className="hidden xl:inline-flex shrink-0" />
+
         {/* CTA */}
         <Link
           href="/#iletisim"
-          className="hidden lg:block relative overflow-hidden group bg-accent text-white px-5 py-2.5 rounded-full text-[11px] font-bold shrink-0 transition-all"
+          className="hidden xl:block relative overflow-hidden group bg-accent text-white px-5 py-2.5 rounded-full text-[11px] font-bold shrink-0 whitespace-nowrap transition-all"
         >
           <span className="relative z-10">DANIŞMANLIK</span>
           <div className="absolute inset-0 w-0 bg-charcoal transition-all duration-500 group-hover:w-full rounded-full" />
@@ -285,7 +306,7 @@ export default function Navbar() {
 
         {/* Mobile burger */}
         <button
-          className={`lg:hidden transition-colors ${solid ? 'text-charcoal' : 'text-cream'}`}
+          className={`xl:hidden transition-colors ${solid ? 'text-charcoal' : 'text-cream'}`}
           onClick={() => setMobileOpen(v => !v)}
           aria-label="Menü"
         >
@@ -295,7 +316,10 @@ export default function Navbar() {
 
       {/* Mobile panel */}
       {mobileOpen && (
-        <div className="absolute top-full left-0 right-0 mt-3 bg-cream rounded-[2rem] p-6 lg:hidden max-h-[82vh] overflow-y-auto flex flex-col gap-1 z-[9999] shadow-2xl border border-charcoal/10">
+        <div className="absolute top-full left-0 right-0 mt-3 bg-cream rounded-[2rem] p-6 xl:hidden max-h-[82vh] overflow-y-auto flex flex-col gap-1 z-[9999] shadow-2xl border border-charcoal/10">
+          <div className="flex justify-end pb-2">
+            <LanguageSwitcher />
+          </div>
           {simpleLinks.map(item => (
             <Link
               key={item.name}

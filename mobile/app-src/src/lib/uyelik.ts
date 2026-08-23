@@ -151,6 +151,46 @@ export async function uyelikBaslat(): Promise<void> {
     // Play'e ulaşılamadı — yerel değerlendirme geçerli kalır.
     yayinla(tazele(await oku()));
   }
+
+  onePlanceBagla();
+}
+
+/**
+ * Uygulama öne geldiğinde üyeliği yeniden doğrular.
+ *
+ * Durum yalnız açılışta bir kez okunuyordu. Bu, üyeliği Play'in web
+ * arayüzünden alan ya da uygulama açıkken iptal eden kullanıcıyı bir sonraki
+ * TAM YENİDEN BAŞLATMAYA kadar yanlış durumda bırakır: biri ödediği hâlde
+ * kapıda kalır, öteki iptalden sonra okumayı sürdürür. Android'de uygulama
+ * günlerce arka planda durabildiği için "yeniden başlatma" hiç gelmeyebilir.
+ *
+ * Tazeleme kısılır: öne her gelişte Play'e sormak, uygulamaya her dönüşte
+ * ağ isteği demektir.
+ */
+const TAZELEME_ARALIGI = 6 * 3600e3;
+let sonTazeleme = Date.now();
+let onePlanceBagliMi = false;
+
+function onePlanceBagla(): void {
+  if (onePlanceBagliMi) return;
+  onePlanceBagliMi = true;
+
+  const uygula = () => {
+    if (Date.now() - sonTazeleme < TAZELEME_ARALIGI) return;
+    sonTazeleme = Date.now();
+    void uyelikYenile();
+  };
+
+  void import('@capacitor/app')
+    .then(({ App }) => {
+      void App.addListener('resume', uygula);
+    })
+    .catch(() => {
+      // Capacitor yoksa (tarayıcı) sekme görünürlüğü aynı işi görür.
+      document.addEventListener('visibilitychange', () => {
+        if (document.visibilityState === 'visible') uygula();
+      });
+    });
 }
 
 /** Satın alma ya da geri yükleme sonrası durumu yeniden çeker. */

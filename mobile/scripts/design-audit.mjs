@@ -51,6 +51,11 @@ const EKRANLAR = [
   ['madde-serh', '/mevzuat/cek/madde-5'],
   ['ara', '/ara'],
   ['arsiv', '/arsiv'],
+  // Ücretli bölümün iki yüzü: kilitli karar ve üyelik vitrini. Bunlar
+  // denetim dışında kalırsa, uygulamanın PARA İSTEDİĞİ tek iki ekranın
+  // kontrastı ve dokunma hedefleri hiç ölçülmemiş olur.
+  ['karar-kilitli', '/karar/16851400'],
+  ['uyelik', '/uyelik'],
   ['icthat', '/icthat'],
   ['kitaplik', '/kitaplik'],
   ['kavram', '/kavram'],
