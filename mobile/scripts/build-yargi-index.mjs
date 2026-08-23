@@ -48,6 +48,14 @@ const packsDir = join(mobile, 'data-src', 'packs');
 mkdirSync(outIcthat, { recursive: true });
 mkdirSync(outMevzuat, { recursive: true });
 
+// CI ortamında decisions/ ve index.jsonl gitignore'da; yoksa zenginleştirme
+// atlanır, mevcut data-src dosyaları olduğu gibi bırakılır.
+const indexJsonl = join(yargiRoot, 'index.jsonl');
+if (!existsSync(decisionsRoot) || !existsSync(indexJsonl)) {
+  console.log('[yargi] decisions/ veya index.jsonl yok — zenginleştirme atlandı (CI modu)');
+  process.exit(0);
+}
+
 // ── Kanun kütüğü ────────────────────────────────────────────────────────────
 // app-src/src/lib/kanunlar.ts ile aynı adlar. Betik TypeScript okuyamadığı
 // için adlar burada da durur; eşleşme sayısı rapora yazılır, ikisi ayrışırsa
@@ -831,7 +839,7 @@ if (existsSync(siteIndexPath)) {
     console.warn(`[yargi] site indeksi zenginleştirilemedi: ${e.message}`);
   }
 }
-if (konuluSatir < rows.length * 0.2) {
+if (scanned > 0 && konuluSatir < rows.length * 0.2) {
   console.error('[yargi] konu çıkarımı %20 eşiğinin altında — çıkarım bozulmuş olabilir');
   process.exit(1);
 }
