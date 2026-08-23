@@ -3,7 +3,7 @@
 import React, { useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { gsap } from 'gsap';
-import { ArrowRight, BookOpen, Scale } from 'lucide-react';
+import { ArrowRight, BookOpen, Gavel, Briefcase } from 'lucide-react';
 
 /**
  * Külliyat sayıları dışarıdan gelir.
@@ -132,7 +132,7 @@ export default function Hero({ sayilar }: { sayilar: HeroSayilari }) {
               href="/yargi-kararlari"
               className="group flex items-center justify-center gap-2 sm:gap-3 bg-cream/[0.12] backdrop-blur-md text-cream border border-cream/20 px-6 py-3.5 sm:py-4 rounded-full font-bold text-sm transition-all hover:bg-cream/20 hover:-translate-y-0.5"
             >
-              <Scale size={16} className="shrink-0" />
+              <Gavel size={16} className="shrink-0" />
               <span>YARGITAY ARŞİVİ</span>
             </Link>
             <Link
@@ -151,7 +151,7 @@ export default function Hero({ sayilar }: { sayilar: HeroSayilari }) {
               href="/#iletisim"
               className="group flex items-center justify-center gap-2 sm:gap-3 text-cream/55 border border-cream/10 px-6 py-3.5 sm:py-4 rounded-full font-bold text-sm transition-all hover:text-cream hover:border-cream/25"
             >
-              <Scale size={16} className="shrink-0" />
+              <Briefcase size={16} className="shrink-0" />
               <span>DANIŞMANLIK</span>
             </Link>
           </div>

@@ -127,18 +127,57 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
             </button>
           ) : (
             /*
-              Marka işareti. Paragraf işareti (§) hukuk metninin kendi
-              tipografik damgasıdır; ikon kütüphanesinden ödünç alınmış bir
-              sembol değil. Serif yüzde ve ince bir halka içinde dizilince
-              yedek karakter gibi değil, çizilmiş bir marka gibi durur.
+              Marka işareti — terazi ikonu, sitenin logosuyla aynı.
+
+              Önceki sürüm § (paragraf işareti) kullanıyordu. Serif yüzde
+              kıvrımlı bir harf küçük punto ve düşük çözünürlükte belirsiz
+              duruyor, bir yılan kıvrımına benziyordu — okunaklı bir marka
+              değil. Site zaten kendi logosunda `Scale` ikonunu kullanıyor
+              (bkz. components/Navbar.tsx); iki yüzey artık aynı işareti
+              taşıyor.
             */
             <span
               className="w-11 h-11 grid place-items-center shrink-0"
               aria-hidden
             >
-              <span className="w-9 h-9 grid place-items-center rounded-full border border-white/25 bg-white/[0.10] font-serif text-[19px] leading-none pt-[1px]">
-                §
-              </span>
+              <svg
+                width="26"
+                height="26"
+                viewBox="0 0 120 120"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                aria-label="FG"
+                role="img"
+              >
+                {/* F dikme */}
+                <rect x="14" y="18" width="12" height="84" rx="1" fill="#fff" />
+                {/* F üst serif */}
+                <rect x="8" y="18" width="18" height="7" rx="1" fill="#fff" />
+                {/* F alt serif */}
+                <rect x="8" y="95" width="18" height="7" rx="1" fill="#fff" />
+                {/* F üst çubuk */}
+                <rect x="14" y="18" width="52" height="9" rx="1" fill="#fff" />
+                <rect x="60" y="18" width="8" height="5" rx="1" fill="#fff" />
+                {/* F orta çubuk — terazi çubuğu */}
+                <rect x="14" y="52" width="56" height="7" rx="1" fill="#fff" />
+                {/* Sol terazi */}
+                <line x1="18" y1="59" x2="14" y2="74" stroke="#fff" strokeWidth="1.5" />
+                <line x1="18" y1="59" x2="22" y2="74" stroke="#fff" strokeWidth="1.5" />
+                <path d="M10 74 L26 74 L23 80 L13 80 Z" fill="#fff" opacity="0.85" />
+                {/* Sağ terazi */}
+                <line x1="66" y1="59" x2="62" y2="74" stroke="#fff" strokeWidth="1.5" />
+                <line x1="66" y1="59" x2="70" y2="74" stroke="#fff" strokeWidth="1.5" />
+                <path d="M58 74 L74 74 L71 80 L61 80 Z" fill="#fff" opacity="0.85" />
+                {/* G ana kavsi */}
+                <path
+                  d="M100 30 C82 14, 54 20, 54 60 C54 100, 82 106, 100 90 L100 84 C86 96, 62 92, 62 60 C62 28, 86 22, 100 36 Z"
+                  fill="#fff"
+                />
+                {/* G iç çubukları */}
+                <rect x="82" y="56" width="24" height="8" rx="1" fill="#fff" />
+                <rect x="98" y="56" width="8" height="36" rx="1" fill="#fff" />
+                <rect x="92" y="86" width="18" height="6" rx="1" fill="#fff" />
+              </svg>
             </span>
           )}
 

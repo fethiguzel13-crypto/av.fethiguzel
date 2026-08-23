@@ -3,6 +3,7 @@
 import React, { useEffect, useState } from 'react';
 import Link from 'next/link';
 import { MapPin, Mail, Scale, Clock } from 'lucide-react';
+import BrandMark from '@/components/BrandMark';
 import { PROFILE } from '@/lib/profile';
 import { isNativeApp } from '@/lib/native-app';
 import GalaxySisterApps from '@/components/GalaxySisterApps';
@@ -229,9 +230,7 @@ export default function Footer() {
         <div className="pt-10 sm:pt-16 md:pt-20 border-t border-cream/5 flex flex-col md:flex-row justify-between items-center gap-6 sm:gap-10 md:gap-12">
           <div className="flex flex-col items-center md:items-start gap-4">
             <Link href="/" className="flex items-center gap-2">
-              <div className="w-6 h-6 bg-accent rounded-full flex items-center justify-center text-cream">
-                <Scale size={12} />
-              </div>
+              <BrandMark size="sm" variant="light" />
               <span className="text-cream font-bold font-heading tracking-tight">AV. FETHİ GÜZEL</span>
             </Link>
             <p className="text-cream/30 text-xs font-sans">

@@ -3,7 +3,8 @@
 import React, { useState, useEffect, useRef, Suspense } from 'react';
 import Link from 'next/link';
 import { usePathname, useRouter } from 'next/navigation';
-import { Menu, X, Scale, ChevronDown, Search, Lock } from 'lucide-react';
+import { Menu, X, ChevronDown, Search, Lock } from 'lucide-react';
+import BrandMark from '@/components/BrandMark';
 import LanguageSwitcher from '@/components/LanguageSwitcher';
 
 const MEVZUAT_GRUPLARI = [
@@ -182,9 +183,7 @@ export default function Navbar() {
           href="/"
           className="flex items-center gap-2.5 font-heading font-bold text-lg tracking-tight group shrink-0"
         >
-          <div className="w-9 h-9 bg-accent rounded-full flex items-center justify-center text-cream shadow-md shadow-accent/25 group-hover:rotate-12 transition-transform">
-            <Scale size={17} />
-          </div>
+          <BrandMark size="sm" variant={solid ? 'brand' : 'light'} className="group-hover:scale-110 transition-transform" />
           <span className={`${solid ? 'text-charcoal' : 'text-cream'} tracking-tight`}>AV. FETHİ GÜZEL</span>
         </Link>
 
