@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef, Suspense } from 'react';
 import Link from 'next/link';
 import { usePathname, useRouter } from 'next/navigation';
 import { Menu, X, Scale, ChevronDown, Search, Lock } from 'lucide-react';
@@ -293,7 +293,9 @@ export default function Navbar() {
           Daha önce sayfanın sağ üstünde ayrı bir yüzen rozette duruyordu ve
           gezinme çubuğunun altında kalıp kırpılıyordu. Yeri burasıdır.
         */}
-        <LanguageSwitcher className="hidden xl:inline-flex shrink-0" />
+        <Suspense fallback={null}>
+          <LanguageSwitcher className="hidden xl:inline-flex shrink-0" />
+        </Suspense>
 
         {/* CTA */}
         <Link
@@ -318,7 +320,9 @@ export default function Navbar() {
       {mobileOpen && (
         <div className="absolute top-full left-0 right-0 mt-3 bg-cream rounded-[2rem] p-6 xl:hidden max-h-[82vh] overflow-y-auto flex flex-col gap-1 z-[9999] shadow-2xl border border-charcoal/10">
           <div className="flex justify-end pb-2">
-            <LanguageSwitcher />
+            <Suspense fallback={null}>
+              <LanguageSwitcher />
+            </Suspense>
           </div>
           {simpleLinks.map(item => (
             <Link
