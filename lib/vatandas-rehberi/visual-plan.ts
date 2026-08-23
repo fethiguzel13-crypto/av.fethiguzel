@@ -136,6 +136,7 @@ function extractClocks(article: VatandasArticle): RehberClock[] {
         ...(article.sections || []).flatMap((s) => s.paragraphs || []),
         ...(article.faq || []).map((f) => f.a),
     ]
+        .filter((x): x is string => typeof x === 'string')
         .map(plain)
         .filter(Boolean);
 
