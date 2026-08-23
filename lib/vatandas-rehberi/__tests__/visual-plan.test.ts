@@ -3,9 +3,9 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { buildVisualPlan, visualSlotCount, primaryStamp } from '../visual-plan.ts';
-import { buildVisualScene, hashSlug } from '../visual-scene.ts';
-import type { VatandasArticle } from '../types.ts';
+import { buildVisualPlan, visualSlotCount, primaryStamp } from '../visual-plan';
+import { buildVisualScene, hashSlug } from '../visual-scene';
+import type { VatandasArticle } from '../types';
 
 const dir = join(dirname(fileURLToPath(import.meta.url)), '..', 'rewritten');
 
