@@ -1,8 +1,8 @@
 {
   "id": "asistan",
   "packageId": "com.avfethiguzel.hesap",
-  "versionName": "1.1.0",
-  "versionCode": 3,
+  "versionName": "1.1.3",
+  "versionCode": 6,
   "name": "Av. Fethi Güzel Hukuk Asistanı",
   "lang": "tr",
   "accent": "#2E4036",
@@ -17,5 +17,5 @@
     "/rehber"
   ],
   "scheme": "avfethiguzel-asistan",
-  "builtAt": "2026-08-21T19:44:30.515Z"
+  "builtAt": "2026-08-23T16:33:44.433Z"
 }
