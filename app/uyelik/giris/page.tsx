@@ -2,22 +2,16 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
-import AuthForm from '@/components/uyelik/AuthForm';
-import { getAccess } from '@/lib/uyelik/session';
-import { redirect } from 'next/navigation';
+import AuthGate from '@/components/uyelik/AuthGate';
 
-export const dynamic = 'force-dynamic';
+export const dynamic = 'force-static';
 
 export const metadata: Metadata = {
   title: 'Üye girişi',
   robots: { index: false, follow: true },
 };
 
-export default async function GirisPage() {
-  const { publicUser, member } = await getAccess();
-  if (member) redirect('/yargi-kararlari');
-  if (publicUser) redirect('/uyelik/odeme');
-
+export default function GirisPage() {
   return (
     <>
       <Navbar />
@@ -32,7 +26,7 @@ export default async function GirisPage() {
             </Link>
             .
           </p>
-          <AuthForm mode="giris" />
+          <AuthGate mode="giris" />
         </div>
       </main>
       <Footer />

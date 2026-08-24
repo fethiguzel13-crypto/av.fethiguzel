@@ -84,6 +84,9 @@ const nextConfig: NextConfig = {
       "./node_modules/next/dist/server/dev/browser-logs/**/*",
       "./node_modules/next/dist/server/node-environment-extensions/**/*",
     ],
+    "/api/yargi/[...path]": ["./public/data/yargi-index.json.gz"],
+    "/api/yargi/index": ["./public/data/yargi-index.json.gz"],
+    "/api/yargi/karar/[id]": ["./public/data/yargi-index.json.gz"],
     // Ders notları — SSG dışında runtime fallback için dosya erişimi
     "/ders-notlari/[uni]/[ders]": ["./lib/ders-notlari/generated/notes/**/*"],
     "/ders-notlari/[uni]/[ders]/pdf": ["./lib/ders-notlari/generated/notes/**/*"],

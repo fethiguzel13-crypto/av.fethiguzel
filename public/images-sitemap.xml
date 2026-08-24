@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.avfethiguzel.com/avukat-fethi-guzel</loc>
+    <image:image>
+      <image:loc>https://www.avfethiguzel.com/images/av-fethi-guzel-van-ercis-avukat.jpg</image:loc>
+      <image:title>Av. Fethi Güzel portresi</image:title>
+      <image:caption>Avukat Fethi Güzel — özel hukuk, e-duruşma yazarı</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.avfethiguzel.com/</loc>
+    <image:image>
+      <image:loc>https://www.avfethiguzel.com/images/av-fethi-guzel-og.jpg</image:loc>
+      <image:title>Av. Fethi Güzel Hukuk Portalı</image:title>
+      <image:caption>Av. Fethi Güzel — mevzuat ve akademik şerh</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.avfethiguzel.com/akademik-profil</loc>
+    <image:image>
+      <image:loc>https://www.avfethiguzel.com/images/av-fethi-guzel-square.jpg</image:loc>
+      <image:title>Av. Fethi Güzel akademik profil</image:title>
+      <image:caption>Özel hukuk doktora çalışmaları ve yayınlar</image:caption>
+    </image:image>
+  </url>
+</urlset>

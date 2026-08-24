@@ -57,11 +57,18 @@ export function adminSecret(): string {
   return 'dev-admin';
 }
 
+export function hasSessionSecret(): boolean {
+  const s = process.env.UYELIK_SESSION_SECRET;
+  return Boolean(s && s.length >= 16);
+}
+
 export function sessionSecret(): string {
   const s = process.env.UYELIK_SESSION_SECRET;
   if (s && s.length >= 16) return s;
+  // Üretimde throw, Vercel SSR/prerender'da tüm dinamik rotayı 500 yapar.
+  // İmza yazan yollar hasSessionSecret() ile reddeder.
   if (process.env.NODE_ENV === 'production') {
-    throw new Error('UYELIK_SESSION_SECRET (en az 16 karakter) tanımlı değil.');
+    return 'production-missing-uyelik-session-secret';
   }
   return 'dev-only-uyelik-session-secret';
 }

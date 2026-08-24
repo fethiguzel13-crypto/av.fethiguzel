@@ -1,5 +1,5 @@
 import { cookies } from 'next/headers';
-import { UYELIK } from './config';
+import { hasSessionSecret, UYELIK } from './config';
 import { membershipActive, readSession, signSession } from './crypto';
 import { getUserById } from './store';
 import type { PublicSession, SessionPayload, UyelikDurum, UserRecord } from './types';
@@ -39,6 +39,9 @@ export function cookieOptions() {
 }
 
 export async function setSessionCookie(user: UserRecord): Promise<void> {
+  if (!hasSessionSecret() && process.env.NODE_ENV === 'production') {
+    throw new Error('UYELIK_SESSION_SECRET (en az 16 karakter) tanımlı değil.');
+  }
   const now = Math.floor(Date.now() / 1000);
   const until = user.membershipUntil ? Date.parse(user.membershipUntil) || 0 : 0;
   const payload: SessionPayload = {
@@ -75,36 +78,45 @@ export async function readSessionCookie(): Promise<SessionPayload | null> {
   return readSession(jar.get(UYELIK.cookie)?.value);
 }
 
+const EMPTY_ACCESS = {
+  session: null as SessionPayload | null,
+  user: null as UserRecord | null,
+  publicUser: null as PublicSession | null,
+  member: false,
+};
+
 export async function getAccess(): Promise<{
   session: SessionPayload | null;
   user: UserRecord | null;
   publicUser: PublicSession | null;
   member: boolean;
 }> {
-  const session = await readSessionCookie();
-  if (!session) {
-    return { session: null, user: null, publicUser: null, member: false };
-  }
-  const user = await getUserById(session.uid);
-  if (user) {
-    const pub = toPublic(user, session.until);
-    return { session, user, publicUser: pub, member: pub.member };
-  }
-  const member = membershipActive(session.until);
-  return {
-    session,
-    user: null,
-    publicUser: {
-      id: session.uid,
-      email: session.em,
-      name: '',
+  try {
+    const session = await readSessionCookie();
+    if (!session) return EMPTY_ACCESS;
+    const user = await getUserById(session.uid);
+    if (user) {
+      const pub = toPublic(user, session.until);
+      return { session, user, publicUser: pub, member: pub.member };
+    }
+    const member = membershipActive(session.until);
+    return {
+      session,
+      user: null,
+      publicUser: {
+        id: session.uid,
+        email: session.em,
+        name: '',
+        member,
+        membershipUntil: session.until ? new Date(session.until).toISOString() : null,
+        pendingRef: null,
+        durum: member ? 'active' : 'none',
+      },
       member,
-      membershipUntil: session.until ? new Date(session.until).toISOString() : null,
-      pendingRef: null,
-      durum: member ? 'active' : 'none',
-    },
-    member,
-  };
+    };
+  } catch {
+    return EMPTY_ACCESS;
+  }
 }
 
 export function requestHasMemberCookie(cookieHeader: string | null): boolean {

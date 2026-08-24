@@ -1,3 +1,5 @@
+'use client';
+
 import Link from 'next/link';
 import { Lock, Scale, BookOpen, Ban } from 'lucide-react';
 import { priceLabel, UYELIK } from '@/lib/uyelik/config';

@@ -1,4 +1,6 @@
-import { paragraphs } from '@/lib/uyelik/karar-text';
+'use client';
+
+import { paragraphs } from '@/lib/uyelik/karar-format';
 
 export default function YargiKararMetni({ text, excerpt }: { text: string; excerpt?: string }) {
   const parts = paragraphs(text);

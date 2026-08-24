@@ -1,12 +1,13 @@
 import type { Metadata } from 'next';
 import { Suspense } from 'react';
 import Link from 'next/link';
-import { redirect } from 'next/navigation';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import MevzuatSearch from '@/components/MevzuatSearch';
 import AraExactRedirect from '@/components/AraExactRedirect';
-import { parseMaddeQuery } from '@/lib/parse-madde-query';
+
+export const dynamic = 'force-static';
+
 
 export const metadata: Metadata = {
   title: {
@@ -34,17 +35,11 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true },
 };
 
-type Props = { searchParams?: Promise<{ q?: string }> };
-
 /**
  * Arama sayfası — statik kabuk + istemci arama.
- * «TBK 13» tam eşleşmesi: sunucu redirect (Googlebot) + istemci yedek.
+ * «TBK 13» tam eşleşmesi: middleware (Googlebot) + AraExactRedirect.
  */
-export default async function AraPage({ searchParams }: Props) {
-  const sp = searchParams ? await searchParams : {};
-  const exact = parseMaddeQuery(sp?.q);
-  if (exact) redirect(exact.href);
-
+export default function AraPage() {
   return (
     <div className="bg-cream min-h-screen font-sans">
       <Navbar />

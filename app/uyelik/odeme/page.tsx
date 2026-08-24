@@ -1,28 +1,18 @@
 import type { Metadata } from 'next';
-import { redirect } from 'next/navigation';
+import { Suspense } from 'react';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
-import OdemePaneli from '@/components/uyelik/OdemePaneli';
-import { getAccess } from '@/lib/uyelik/session';
-import { iyzicoConfigured, priceLabel } from '@/lib/uyelik/config';
+import OdemeSayfasi from '@/components/uyelik/OdemeSayfasi';
+import { priceLabel } from '@/lib/uyelik/config';
 
-export const dynamic = 'force-dynamic';
+export const dynamic = 'force-static';
 
 export const metadata: Metadata = {
   title: 'Üyelik ödemesi',
   robots: { index: false, follow: false },
 };
 
-export default async function OdemePage({
-  searchParams,
-}: {
-  searchParams: Promise<{ durum?: string }>;
-}) {
-  const { publicUser, member } = await getAccess();
-  if (!publicUser) redirect('/uyelik/giris?next=/uyelik/odeme');
-  if (member) redirect('/yargi-kararlari');
-  const q = await searchParams;
-
+export default function OdemePage() {
   return (
     <>
       <Navbar />
@@ -32,20 +22,9 @@ export default async function OdemePage({
           <h1 className="text-3xl font-heading font-bold text-charcoal mb-2">
             Arşivi aç — {priceLabel()}
           </h1>
-          <p className="text-sm text-charcoal/55 mb-6">
-            {publicUser.email}
-          </p>
-          {q.durum === 'hata' ? (
-            <p className="mb-4 text-sm font-semibold text-accent">Ödeme tamamlanamadı. Yeniden deneyin.</p>
-          ) : null}
-          {q.durum === 'hesap' ? (
-            <p className="mb-4 text-sm font-semibold text-accent">Hesap eşleşmedi. Giriş yapıp tekrar deneyin.</p>
-          ) : null}
-          <OdemePaneli
-            iyzicoReady={iyzicoConfigured()}
-            havaleReady={true}
-            pendingRef={publicUser.pendingRef}
-          />
+          <Suspense fallback={<div className="h-48 animate-pulse rounded-2xl bg-white border border-charcoal/10" />}>
+            <OdemeSayfasi />
+          </Suspense>
         </div>
       </main>
       <Footer />

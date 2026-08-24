@@ -2,23 +2,17 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
-import AuthForm from '@/components/uyelik/AuthForm';
-import { getAccess } from '@/lib/uyelik/session';
-import { redirect } from 'next/navigation';
+import AuthGate from '@/components/uyelik/AuthGate';
 import { priceLabel } from '@/lib/uyelik/config';
 
-export const dynamic = 'force-dynamic';
+export const dynamic = 'force-static';
 
 export const metadata: Metadata = {
   title: 'Arşiv üyeliği — kayıt',
   description: `Yargıtay arşivi için hesap oluşturun. Aylık ${priceLabel()}.`,
 };
 
-export default async function KayitPage() {
-  const { publicUser, member } = await getAccess();
-  if (member) redirect('/yargi-kararlari');
-  if (publicUser) redirect('/uyelik/odeme');
-
+export default function KayitPage() {
   return (
     <>
       <Navbar />
@@ -33,7 +27,7 @@ export default async function KayitPage() {
             </Link>
             .
           </p>
-          <AuthForm mode="kayit" />
+          <AuthGate mode="kayit" />
         </div>
       </main>
       <Footer />
