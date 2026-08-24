@@ -1,8 +1,5 @@
-import { mkdirSync, readFileSync, writeFileSync, existsSync } from 'node:fs';
-import { dirname, join } from 'node:path';
 import type { StoreFile, UserRecord } from './types';
 
-const FILE_PATH = join(process.cwd(), 'data', 'uyelik', 'store.json');
 const KV_KEY = 'fg:uyelik:v1';
 
 let mem: StoreFile | null = null;
@@ -54,22 +51,6 @@ async function kvSet(store: StoreFile): Promise<boolean> {
   return Boolean(json);
 }
 
-function readFileStore(): StoreFile | null {
-  try {
-    if (!existsSync(FILE_PATH)) return null;
-    const parsed = JSON.parse(readFileSync(FILE_PATH, 'utf8')) as StoreFile;
-    if (!parsed || !Array.isArray(parsed.users)) return null;
-    return parsed;
-  } catch {
-    return null;
-  }
-}
-
-function writeFileStore(store: StoreFile): void {
-  mkdirSync(dirname(FILE_PATH), { recursive: true });
-  writeFileSync(FILE_PATH, JSON.stringify(store, null, 2), 'utf8');
-}
-
 async function loadStore(): Promise<StoreFile> {
   if (mem) return mem;
   if (kvConfigured()) {
@@ -79,22 +60,13 @@ async function loadStore(): Promise<StoreFile> {
       return mem;
     }
   }
-  const fromFile = readFileStore();
-  mem = fromFile || emptyStore();
+  mem = emptyStore();
   return mem;
 }
 
 async function persist(store: StoreFile): Promise<void> {
   mem = store;
-  if (kvConfigured()) {
-    const ok = await kvSet(store);
-    if (ok) return;
-  }
-  try {
-    writeFileStore(store);
-  } catch {
-    /* Vercel read-only filesystem — oturum çerezi yine çalışır. */
-  }
+  if (kvConfigured()) await kvSet(store);
 }
 
 function enqueue<T>(fn: () => Promise<T>): Promise<T> {

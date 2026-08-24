@@ -27,6 +27,7 @@ export default function AuthForm({ mode }: { mode: 'giris' | 'kayit' }) {
     try {
       const res = await fetch(kayit ? '/api/uyelik/kayit' : '/api/uyelik/giris', {
         method: 'POST',
+        credentials: 'same-origin',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(
           kayit
@@ -34,7 +35,14 @@ export default function AuthForm({ mode }: { mode: 'giris' | 'kayit' }) {
             : { email, password }
         ),
       });
-      const json = (await res.json()) as { ok?: boolean; error?: string; next?: string };
+      const raw = await res.text();
+      let json: { ok?: boolean; error?: string; next?: string } = {};
+      try {
+        json = JSON.parse(raw) as { ok?: boolean; error?: string; next?: string };
+      } catch {
+        setError('Sunucu yanıt vermedi. Biraz sonra yeniden deneyin.');
+        return;
+      }
       if (!res.ok || !json.ok) {
         setError(json.error || 'İşlem tamamlanamadı.');
         return;

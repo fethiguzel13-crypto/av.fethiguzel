@@ -1,4 +1,4 @@
-import { createHash, createHmac, randomBytes } from 'node:crypto';
+import { bytesToB64, bytesToHex, hmacSha256, randomBytes, sha256 } from './crypto';
 import { iyzicoBaseUrl, siteOrigin, UYELIK } from './config';
 import type { UserRecord } from './types';
 
@@ -12,19 +12,19 @@ type IyzicoResponse = {
   conversationId?: string;
 };
 
-function authHeader(uriPath: string, body: string): { rnd: string; authorization: string } {
+async function authHeader(uriPath: string, body: string): Promise<{ rnd: string; authorization: string }> {
   const apiKey = process.env.IYZICO_API_KEY || '';
   const secret = process.env.IYZICO_SECRET_KEY || '';
-  const rnd = randomBytes(8).toString('hex');
+  const rnd = bytesToHex(randomBytes(8));
   const payload = rnd + uriPath + body;
-  const signature = createHmac('sha256', secret).update(payload).digest('hex');
+  const signature = bytesToHex(await hmacSha256(secret, payload));
   const raw = `apiKey:${apiKey}&randomKey:${rnd}&signature:${signature}`;
-  return { rnd, authorization: `IYZWSv2 ${Buffer.from(raw, 'utf8').toString('base64')}` };
+  return { rnd, authorization: `IYZWSv2 ${bytesToB64(new TextEncoder().encode(raw))}` };
 }
 
 async function iyzicoPost(uriPath: string, payload: Record<string, unknown>): Promise<IyzicoResponse> {
   const body = JSON.stringify(payload);
-  const { rnd, authorization } = authHeader(uriPath, body);
+  const { rnd, authorization } = await authHeader(uriPath, body);
   const res = await fetch(`${iyzicoBaseUrl()}${uriPath}`, {
     method: 'POST',
     headers: {
@@ -47,7 +47,7 @@ function conversationId(userId: string): string {
 export async function startCheckout(user: UserRecord): Promise<IyzicoResponse> {
   const origin = siteOrigin();
   const price = UYELIK.priceTl.toFixed(2);
-  const buyerId = createHash('sha256').update(user.email).digest('hex').slice(0, 16);
+  const buyerId = bytesToHex(await sha256(user.email)).slice(0, 16);
   const uri = '/payment/iyzipos/checkoutform/initialize/auth/ecom';
   return iyzicoPost(uri, {
     locale: 'tr',

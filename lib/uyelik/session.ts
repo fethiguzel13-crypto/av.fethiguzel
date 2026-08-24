@@ -51,7 +51,7 @@ export async function setSessionCookie(user: UserRecord): Promise<void> {
     exp: now + COOKIE_MAX,
   };
   const jar = await cookies();
-  jar.set(UYELIK.cookie, signSession(payload), cookieOptions());
+  jar.set(UYELIK.cookie, await signSession(payload), cookieOptions());
   jar.set(UYELIK.uiCookie, user.membershipUntil && membershipActive(user.membershipUntil) ? '1' : '0', {
     httpOnly: false,
     secure: process.env.NODE_ENV === 'production',
@@ -75,7 +75,7 @@ export async function clearSessionCookie(): Promise<void> {
 
 export async function readSessionCookie(): Promise<SessionPayload | null> {
   const jar = await cookies();
-  return readSession(jar.get(UYELIK.cookie)?.value);
+  return await readSession(jar.get(UYELIK.cookie)?.value);
 }
 
 const EMPTY_ACCESS = {
@@ -119,13 +119,13 @@ export async function getAccess(): Promise<{
   }
 }
 
-export function requestHasMemberCookie(cookieHeader: string | null): boolean {
+export async function requestHasMemberCookie(cookieHeader: string | null): Promise<boolean> {
   if (!cookieHeader) return false;
   const parts = cookieHeader.split(';');
   for (const p of parts) {
     const [k, ...rest] = p.trim().split('=');
     if (k === UYELIK.cookie) {
-      const session = readSession(rest.join('='));
+      const session = await readSession(rest.join('='));
       return Boolean(session && membershipActive(session.until));
     }
   }
