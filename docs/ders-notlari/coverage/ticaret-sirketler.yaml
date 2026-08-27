@@ -1,0 +1,35 @@
+# Denetçi manifesti — Ticaret Şirketleri Hukuku
+courseCode: ticaret-sirketler
+title: Ticaret Şirketleri Hukuku
+kanun: ttk
+guz:
+  - sirket-kavrami
+  - kollektif-komandit
+  - anonim
+  - organlar
+bahar:
+  - sermaye-pay
+  - limited
+  - sona-erme-sirket
+institutions:
+  - id: sirket-kavrami
+    title: Ticaret şirketleri
+    maddeler: ['124', '125', '126', '329']
+  - id: kollektif-komandit
+    title: Kişi şirketleri (kollektif ve komandit)
+    maddeler: ['211', '232', '304', '309']
+  - id: anonim
+    title: Anonim şirket
+    maddeler: ['329', '330', '338', '339']
+  - id: organlar
+    title: Anonim şirket organları
+    maddeler: ['359', '365', '370', '408', '421']
+  - id: sermaye-pay
+    title: Sermaye, pay ve haklar
+    maddeler: ['339', '480', '481', '461', '507']
+  - id: limited
+    title: Limited şirket
+    maddeler: ['573', '574', '577', '595', '623']
+  - id: sona-erme-sirket
+    title: Sona erme ve tasfiye
+    maddeler: ['529', '536', '543', '636']

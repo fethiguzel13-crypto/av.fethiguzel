@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-08-23T10:02:37.964Z",
-  "taranan": 27227,
-  "konuBulunan": 17934,
-  "atifBulunan": 5552,
-  "baglananAtif": 6968,
-  "baglanamayanAtif": 8736,
-  "kapsananMadde": 1119,
+  "generatedAt": "2026-08-23T19:29:30.127Z",
+  "taranan": 30083,
+  "konuBulunan": 20354,
+  "atifBulunan": 5911,
+  "baglananAtif": 7085,
+  "baglanamayanAtif": 9097,
+  "kapsananMadde": 1124,
   "maddeBasiEnCok": 40,
   "esleme": [
     {
       "packId": "tck",
       "secilen": "5237",
       "ad": "TÜRK CEZA KANUNU",
-      "atif": 2696,
+      "atif": 2697,
       "mulgaOran": -0.001,
       "elenenler": [
         {
           "num": "765",
           "atif": 510,
-          "mulgaOran": 0.041
+          "mulgaOran": 0.042
         }
       ]
     },
@@ -26,7 +26,7 @@
       "packId": "cmk",
       "secilen": "5271",
       "ad": "CEZA MUHAKEMESİ KANUNU",
-      "atif": 1288,
+      "atif": 1289,
       "mulgaOran": -0.001,
       "elenenler": []
     },
@@ -34,7 +34,7 @@
       "packId": "hmk",
       "secilen": "6100",
       "ad": "HUKUK MUHAKEMELERİ KANUNU",
-      "atif": 918,
+      "atif": 954,
       "mulgaOran": -0.001,
       "elenenler": []
     },
@@ -42,7 +42,7 @@
       "packId": "tmk",
       "secilen": "4721",
       "ad": "TÜRK MEDENİ KANUNU",
-      "atif": 524,
+      "atif": 532,
       "mulgaOran": 0,
       "elenenler": []
     },
@@ -50,7 +50,7 @@
       "packId": "kamulastirma",
       "secilen": "2942",
       "ad": "Kamulaştırma Kanunu",
-      "atif": 375,
+      "atif": 378,
       "mulgaOran": 0,
       "elenenler": []
     },
@@ -58,7 +58,7 @@
       "packId": "iik",
       "secilen": "2004",
       "ad": "İCRA VE İFLAS KANUNU",
-      "atif": 344,
+      "atif": 345,
       "mulgaOran": -0.001,
       "elenenler": []
     },
@@ -66,15 +66,15 @@
       "packId": "tbk",
       "secilen": "6098",
       "ad": "TÜRK BORÇLAR KANUNU",
-      "atif": 274,
-      "mulgaOran": -0.007,
+      "atif": 281,
+      "mulgaOran": -0.01,
       "elenenler": []
     },
     {
       "packId": "ssgssk",
       "secilen": "5510",
       "ad": "SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU",
-      "atif": 131,
+      "atif": 160,
       "mulgaOran": -0.001,
       "elenenler": []
     },
@@ -82,7 +82,7 @@
       "packId": "ktk",
       "secilen": "2918",
       "ad": "KARAYOLLARI TRAFİK KANUNU",
-      "atif": 104,
+      "atif": 109,
       "mulgaOran": -0.001,
       "elenenler": []
     },
@@ -90,15 +90,15 @@
       "packId": "sendikalar",
       "secilen": "6356",
       "ad": "Sendikalar ve Toplu İş Sözleşmesi Kanunu",
-      "atif": 82,
-      "mulgaOran": -0.065,
+      "atif": 102,
+      "mulgaOran": -0.035,
       "elenenler": []
     },
     {
       "packId": "tebligat",
       "secilen": "7201",
       "ad": "TEBLİGAT KANUNU",
-      "atif": 62,
+      "atif": 64,
       "mulgaOran": 0,
       "elenenler": []
     },
@@ -106,13 +106,13 @@
       "packId": "ttk",
       "secilen": "6102",
       "ad": "TÜRK TİCARET KANUNU",
-      "atif": 58,
-      "mulgaOran": -0.004,
+      "atif": 62,
+      "mulgaOran": -0.007,
       "elenenler": [
         {
           "num": "6762",
-          "atif": 184,
-          "mulgaOran": 0.07
+          "atif": 187,
+          "mulgaOran": 0.076
         }
       ]
     },
@@ -133,18 +133,18 @@
       "elenenler": []
     },
     {
-      "packId": "imar",
-      "secilen": "3194",
-      "ad": "İMAR KANUNU",
-      "atif": 29,
+      "packId": "dmk",
+      "secilen": "657",
+      "ad": "DEVLET MEMURLARI KANUNU",
+      "atif": 30,
       "mulgaOran": 0,
       "elenenler": []
     },
     {
-      "packId": "dmk",
-      "secilen": "657",
-      "ad": "DEVLET MEMURLARI KANUNU",
-      "atif": 27,
+      "packId": "imar",
+      "secilen": "3194",
+      "ad": "İMAR KANUNU",
+      "atif": 30,
       "mulgaOran": 0,
       "elenenler": []
     },
@@ -212,12 +212,12 @@
       "secilen": "6502",
       "ad": "TÜKETİCİNİN KORUNMASI HAKKINDA KANUN",
       "atif": 8,
-      "mulgaOran": 0,
+      "mulgaOran": -0.021,
       "elenenler": [
         {
           "num": "4077",
-          "atif": 93,
-          "mulgaOran": 0.025
+          "atif": 99,
+          "mulgaOran": 0.032
         }
       ]
     },
@@ -255,7 +255,7 @@
         {
           "num": "2499",
           "atif": 7,
-          "mulgaOran": 0.218
+          "mulgaOran": 0.22
         }
       ]
     },
@@ -263,7 +263,7 @@
       "packId": "devlet-ihale",
       "secilen": "2886",
       "ad": "DEVLET İHALE KANUNU",
-      "atif": 2,
+      "atif": 3,
       "mulgaOran": 0,
       "elenenler": []
     },

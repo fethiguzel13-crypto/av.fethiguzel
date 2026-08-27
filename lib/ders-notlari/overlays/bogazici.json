@@ -1,0 +1,37 @@
+{
+    "uniSlug": "bogazici",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Hisarüstü / Güney kampüs",
+    "cityHook": "Hisarüstü'ndeki bir kira ve tüketici ayıbı uyuşmazlığı",
+    "mehaz": "Yeni devlet fakültesi; karşılaştırmalı okuma var, bağlayıcı metin yine TBK/TMK",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav + final (OBS). Yeni program, Bologna ders bilgi formu esas.",
+        "format": "Klasik yazılı: tanım, unsur, madde, vakıa. İngilizce kaynak dipnotta kalır.",
+        "tips": [
+            "Boğaziçi kâğıdında önce Türk madde lafzı, sonra karşılaştırmalı cümle yazılır.",
+            "Yeni fakülte kodlarını eski İÜHF amfi ezberine karıştırmayın; OBS bağlar.",
+            "Öğretim elemanı duyurusu bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "hukuka giriş",
+        "medeni başlangıç",
+        "borçlar genel",
+        "ceza genel",
+        "usul"
+    ],
+    "schoolNotes": [
+        "Boğaziçi Hukuk görece yeni bir devlet fakültesidir; Hisarüstü/Güney hattındadır.",
+        "Karşılaştırmalı okuma beklenir; künye yoksa E./K. yazılmaz.",
+        "Slayt cümlesi alınmaz."
+    ],
+    "sources": [
+        {
+            "title": "Boğaziçi Üniversitesi Hukuk Fakültesi",
+            "url": "https://law.bogazici.edu.tr/",
+            "note": "fakülte kimliği"
+        }
+    ]
+}

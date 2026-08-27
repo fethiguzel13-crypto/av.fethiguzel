@@ -11,7 +11,7 @@
  * uygulama çıkar — her biri kendi içeriğini ve rengini taşır.
  */
 import { execFileSync } from 'node:child_process';
-import { existsSync, readdirSync, readFileSync, statSync, rmSync, mkdirSync, cpSync } from 'node:fs';
+import { renameSync, existsSync, readdirSync, readFileSync, statSync, rmSync, mkdirSync, cpSync } from 'node:fs';
 import { gunzipSync } from 'node:zlib';
 import { join, dirname, sep } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -62,12 +62,24 @@ for (const t of targets) {
 }
 
 function run(cmd, cmdArgs, env = {}, cwd = mobile) {
-  execFileSync(cmd, cmdArgs, {
-    cwd,
-    stdio: 'inherit',
-    env: { ...process.env, ...env },
-    shell: isWin,
-  });
+  try {
+    execFileSync(cmd, cmdArgs, {
+      cwd,
+      stdio: 'inherit',
+      env: { ...process.env, ...env },
+      shell: isWin,
+    });
+  } catch {
+    /*
+      Alt sürecin kendi hata mesajı ZATEN ekrana basıldı (stdio: 'inherit').
+      execFileSync üstüne bir de kendi Node yığın izini ekliyordu — CI
+      loglarında asıl neden ("[kasa] kaynak yok: …") yirmi satırlık gürültünün
+      altında kayboluyordu. Burada temiz, tek satırlık bir hatayla durulur;
+      neden zaten yukarıda yazılı.
+    */
+    console.error(`\n[build-app] durduruldu: ${cmdArgs.join(' ')} başarısız oldu (yukarıya bakın)`);
+    process.exit(1);
+  }
 }
 
 // ── 1. Veri hazırlığı ───────────────────────────────────────────────────────
@@ -261,6 +273,65 @@ function stageAssets(app) {
       },
     });
   }
+  gzUzantisiniDegistir(publicDir);
+}
+
+/**
+ * Sıkıştırılmış varlıkların uzantısını `.gz` → `.gzc` yapar.
+ *
+ * Android'in paketleme aracı (aapt2), `assets/` altında `.gz` ile biten her
+ * dosyayı paket oluştururken AÇAR ve uzantıyı siler: kaynaktaki
+ * `packs/tbk.json.gz`, AAB içinde 10,3 MB'lık açılmış `packs/tbk.json`
+ * olarak yer alıyordu. Uygulama `.json.gz` istediği için ekranda «kanun
+ * yüklenemedi» çıkıyordu — ve kusur YALNIZ gerçek cihazda görünüyordu,
+ * çünkü tarayıcıda dosyalar `www`'den olduğu gibi sunuluyor.
+ *
+ * AGP'de bu davranışı kapatan bir ayar yok; tek yol aapt2'nin tanımadığı bir
+ * uzantı kullanmak. İçerik değişmez, yalnız ad değişir
+ * (bkz. app-src/src/lib/varlik.ts → GZ).
+ */
+/**
+ * Windows'ta yeni yazılmış dosyayı yeniden adlandırır — kilide dayanıklı.
+ *
+ * `cpSync` dosyayı yazdıktan hemen sonra adlandırmaya çalışıyoruz; Windows
+ * Defender o anda dosyayı taradığı için kısa bir süre tutuyor ve `EBUSY`
+ * dönüyor. Derleme bu yüzden rastgele bir pakette (bir seferinde
+ * `arama.txt.gz`, bir seferinde `bk.json.gz`) yarıda kalıyordu.
+ *
+ * Kilit milisaniyeler sürer; artan bekleyişle birkaç kez denemek yeterli.
+ * Beş denemede de olmazsa gerçek bir sorun vardır ve hata yükseltilir.
+ */
+function adlandir(eski, yeni) {
+  for (let deneme = 0; deneme < 5; deneme += 1) {
+    try {
+      renameSync(eski, yeni);
+      return;
+    } catch (e) {
+      if ((e.code !== 'EBUSY' && e.code !== 'EPERM') || deneme === 4) throw e;
+      // Eşzamansız beklemeden senkron duraklama (bu betik baştan sona senkron).
+      const bitis = Date.now() + 120 * (deneme + 1);
+      while (Date.now() < bitis) {
+        /* kısa bekleyiş */
+      }
+    }
+  }
+}
+
+function gzUzantisiniDegistir(kok) {
+  let sayac = 0;
+  const gez = (dizin) => {
+    for (const oge of readdirSync(dizin, { withFileTypes: true })) {
+      const tam = join(dizin, oge.name);
+      if (oge.isDirectory()) {
+        gez(tam);
+      } else if (oge.name.endsWith('.gz')) {
+        adlandir(tam, tam.slice(0, -3) + '.gzc');
+        sayac += 1;
+      }
+    }
+  };
+  gez(kok);
+  if (sayac) console.log(`  · ${sayac} sıkıştırılmış varlık .gzc uzantısına alındı (aapt2 .gz'yi açıyor)`);
 }
 
 if (devPrepare) {

@@ -14,6 +14,8 @@ export function generateStaticParams() {
   return getAllUniSlugs().map((uni) => ({ uni }));
 }
 
+export const dynamicParams = true;
+
 /**
  * Fakülte sayfası, yayınlanabilir en az bir not varsa indekse girer.
  *

@@ -1,0 +1,37 @@
+{
+    "uniSlug": "yalova",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Yalova merkez",
+    "cityHook": "Termal'deki bir kaplıca işletmesi kirası",
+    "mehaz": "Yalova devlet fakültesi; TBK kira lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / dönem ilanı).",
+        "format": "Klasik yazılı: madde + unsur + vakıaya yedirme. Oran dönem ilanına bağlıdır.",
+        "tips": [
+            "Yalova kâğıdında işletme kirasını konut kirasıyla karıştırmayın.",
+            "Yalova kâğıdında ilk cümle kurumu adlandırır; slogan yetmez.",
+            "Öğretim elemanı duyurusu ve OBS bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "Yalova Üniversitesi Hukuk Fakültesi, Yalova merkezli bir devlet fakültesidir Eğitim dili Türkçedir.",
+        "Yalova merkez usulü: kaynak ve lafız önce, slayt cümlesi yok.",
+        "Bu örtü kamuya açık kimlik sayfasından üretilmiştir; amfi notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "Yalova Hukuk Fakültesi",
+            "url": "https://hukuk.yalova.edu.tr/",
+            "note": "fakülte kimliği; slayt ve amfi notu yok"
+        }
+    ]
+}

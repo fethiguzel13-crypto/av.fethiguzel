@@ -1,0 +1,319 @@
+{
+    "courseCode": "vergi-hukuku",
+    "title": "Vergi Hukuku",
+    "kanunId": "vuk",
+    "guzInstitutionIds": [
+        "vergiyi-doguran",
+        "mukellef",
+        "tarh",
+        "resen"
+    ],
+    "baharInstitutionIds": [
+        "zamanasimi-vuk",
+        "vergi-ceza",
+        "gelir",
+        "kdv"
+    ],
+    "institutions": [
+        {
+            "id": "vergiyi-doguran",
+            "title": "Vergiyi doğuran olay",
+            "definition": "Vergiyi doğuran olay, vergi alacağının kanunların vergiyi bağladıkları olayın vukuu veya hukuki durumun tekemmülü ile doğmasıdır. Tarh, bu alacağı miktar olarak tespit eder.",
+            "elements": [
+                "kanuni olay",
+                "vuku veya tekemmül",
+                "vergi alacağı",
+                "tarh ilişkisi"
+            ],
+            "organicLinks": [
+                "Doğum, tarhtan önce gelir; tarh yoksa alacak henüz belirsizdir.",
+                "Matrah ve nispet, tarhın ölçüsüdür."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "3"
+                },
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "19"
+                },
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "20"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "19 doğumu, 20 tarhı taşır.",
+                "Tarh idari işlemdir; yargı denetimine açıktır."
+            ]
+        },
+        {
+            "id": "mukellef",
+            "title": "Mükellef ve vergi sorumlusu",
+            "definition": "Mükellef, vergi kanunlarına göre kendisine vergi borcu terettüp eden gerçek veya tüzel kişidir. Sorumlu, başkasının vergisini ödeme yükümlüsü olabilir.",
+            "elements": [
+                "mükellef",
+                "vergi sorumlusu",
+                "kanuni temsilci",
+                "tebliğ"
+            ],
+            "organicLinks": [
+                "Mükellef ile sorumlusu karıştırılmaz.",
+                "Tebliğ, tarhın sonuç doğurmasının görünür yüzüdür."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "8"
+                },
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "9"
+                },
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "10"
+                },
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "11"
+                },
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "12"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Kanuni temsilci, ödenmeyen vergiden sınırlı sorumlu olabilir.",
+                "Tüzel kişide organ tebliği bağlar."
+            ]
+        },
+        {
+            "id": "tarh",
+            "title": "Tarh ve tebliğ",
+            "definition": "Tarh, vergi alacağını miktar itibarıyla tespit eden idari işlemdir. Tebliğ olmadan süreler kural olarak işlemez. İkmalen ve re'sen tarh ayrı usuldür.",
+            "elements": [
+                "hesap",
+                "tespit",
+                "tebliğ",
+                "düzeltme"
+            ],
+            "organicLinks": [
+                "Tarh, tahakkuk ve tahsil ayrı anlardır.",
+                "Düzeltme, tarhın maddi hatasını onarır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "20"
+                },
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "21"
+                },
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "22"
+                },
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "23"
+                },
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "25"
+                },
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "26"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Tahakkuk, tarhın muhasebe yüzüdür.",
+                "Tebliğ usulü VUK'un kendi tebligat rejiminedir."
+            ]
+        },
+        {
+            "id": "resen",
+            "title": "Re'sen ve ikmalen tarh",
+            "definition": "Re'sen tarh, defter ve belgenin tarha elverişli olmaması veya hiç tutulmaması hâlinde idarenin matrahı kendiliğinden tespitidir. İkmalen tarh, eksik tarhı tamamlar.",
+            "elements": [
+                "elverişsiz kayıt",
+                "matrah takdiri",
+                "ikmalen tarh",
+                "savunma"
+            ],
+            "organicLinks": [
+                "Re'sen tarh, ceza değildir; tarh usulüdür.",
+                "Takdir komisyonu ayrı bir organdır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "29"
+                },
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "30"
+                },
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "31"
+                },
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "32"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "İkmalen, mevcut tarhın üzerine ekler.",
+                "Re'sen, yokluk veya elverişsizlik ister."
+            ]
+        },
+        {
+            "id": "zamanasimi-vuk",
+            "title": "Vergide zamanaşımı",
+            "definition": "Vergi alacağının doğduğu takvim yılını takip eden yılın başından itibaren beş yıl içinde tarh ve tebliğ edilmeyen vergi zamanaşımına uğrar. Ceza zamanaşımı ayrı işleyebilir.",
+            "elements": [
+                "beş yıllık süre",
+                "başlangıç",
+                "kesilme",
+                "tarh ve tebliğ"
+            ],
+            "organicLinks": [
+                "VUK zamanaşımı, TBK zamanaşımından ayrı ve kamu alacağına özgüdür.",
+                "Tarh edilip tebliğ edilmeyen vergi de düşer."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "114"
+                },
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "113"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Süre, takvim yılı esasına bağlıdır.",
+                "Kesilme hâlleri kanundadır."
+            ]
+        },
+        {
+            "id": "vergi-ceza",
+            "title": "Vergi ziyaı ve usulsüzlük",
+            "definition": "Vergi ziyaı, tarh edilmemek veya eksik tarh edilmek suretiyle verginin zamanında tahakkuk ettirilmemesidir. Usulsüzlük, şekle aykırılıktır. Kaçakçılık nitelikli hâldir.",
+            "elements": [
+                "vergi ziyaı",
+                "usulsüzlük",
+                "kaçakçılık",
+                "pişmanlık"
+            ],
+            "organicLinks": [
+                "Ceza, tarhın yanında ayrı bir yaptırımdır.",
+                "Pişmanlık, ziyaı ve cezayı etkiler."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "341"
+                },
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "344"
+                },
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "351"
+                },
+                {
+                    "kanunId": "vuk",
+                    "maddeNo": "359"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Kaçakçılık fiilleri 359'da sayılır.",
+                "Usulsüzlük dereceleri 352 hattındadır."
+            ]
+        },
+        {
+            "id": "gelir",
+            "title": "Gelir vergisi",
+            "definition": "Gelir, bir gerçek kişinin bir takvim yılı içinde elde ettiği kazanç ve iratların safi tutarıdır. Ücret, GMSİ, menkul ve diğer kazançlar ayrı tarife kapılarıdır.",
+            "elements": [
+                "gerçek kişi",
+                "kazanç ve irat",
+                "safi tutar",
+                "tevkifat"
+            ],
+            "organicLinks": [
+                "Kurumlar vergisi ayrı kanundadır.",
+                "Tevkifat, nihai tarhı bekletmeden keser."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "gvk",
+                    "maddeNo": "1"
+                },
+                {
+                    "kanunId": "gvk",
+                    "maddeNo": "3"
+                },
+                {
+                    "kanunId": "gvk",
+                    "maddeNo": "80"
+                },
+                {
+                    "kanunId": "gvk",
+                    "maddeNo": "94"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Tam ve dar mükellefiyet 3'tedir.",
+                "Tevkifat 94 listesine bağlıdır."
+            ]
+        },
+        {
+            "id": "kdv",
+            "title": "Katma değer vergisi",
+            "definition": "KDV, teslim ve hizmet ifalarını vergilendirir. İndirim mekanizması, yükü nihai tüketiciye taşır. İstisna ve tevkifat özel rejimlerdir.",
+            "elements": [
+                "teslim / hizmet",
+                "matrah",
+                "indirim",
+                "istisna"
+            ],
+            "organicLinks": [
+                "KDV, gelir vergisinden işlem vergisi oluşuyla ayrılır.",
+                "İndirilemeyen KDV maliyete gider."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "kdvk",
+                    "maddeNo": "1"
+                },
+                {
+                    "kanunId": "kdvk",
+                    "maddeNo": "8"
+                },
+                {
+                    "kanunId": "kdvk",
+                    "maddeNo": "29"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Vergiyi doğuran olay teslim veya ifadır.",
+                "İndirim, fatura ve deftere bağlıdır."
+            ]
+        }
+    ]
+}

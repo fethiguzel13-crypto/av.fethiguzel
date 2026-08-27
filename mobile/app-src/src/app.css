@@ -27,9 +27,66 @@
   ve markanın dışında durur. Basamaklar orman yeşilinden (#2E4036) türetildi.
 */
 :root {
-  --brand: #2e4036;
-  --brand-dark: #1f2b24;
-  --brand-soft: rgba(46, 64, 54, 0.08);
+  /*
+    ─── TURUNCU'NUN ÜÇ ROLÜ ────────────────────────────────────────────────
+
+    Uygulama önceden orman yeşiliyle vurgulanıyordu; yeşil resesif bir renk
+    olduğu için düğmeler, etkin sekme ve rakamlar zemine gömülüyordu. Site
+    aynı yerlerde turuncu kullanır — canlılık oradan gelir.
+
+    Ne var ki sitenin turuncusu (#CC5833) TEK BAŞINA her yerde kullanılamaz;
+    ölçüldü:
+
+      beyaz yazıyla dolu düğme  → 4,19  (eşik 4,5 — KALIR)
+      krem zeminde küçük metin  → 3,68  (KALIR)
+      kömür zeminde küçük metin → 4,15  (KALIR)
+
+    Yani sitenin kendi rengi üç bağlamın üçünde de erişilebilirlik eşiğini
+    geçmiyor. Aynı renk hissini korumak için üç ayrı ton tanımlandı; farklar
+    gözle ayırt edilmeyecek kadar küçük, ölçüde ise eşiği geçiyor.
+  */
+
+  /** Dolu düğme zemini — üstünde BEYAZ yazı. Ölçüm: 4,76 ✓ */
+  --brand: #c24e28;
+  --brand-dark: #a03c18;
+  --brand-soft: rgba(194, 78, 40, 0.09);
+
+  /** AÇIK zeminde turuncu METİN (bağlantı, etiket, rakam). krem 4,65 ✓ */
+  --vurgu: #b8471f;
+
+  /** KOYU zeminde turuncu metin ve ikon. kömür 5,09 ✓ */
+  --vurgu-koyu: #d96b45;
+
+  /*
+    KABUK — üst çubuk ve durum çubuğu. Vurgudan AYRI bir rol.
+
+    Sitenin kahraman bölümü ve alt bölümleri kömür siyahıdır; krem içerik
+    yüzeyleri onun arasına girer. Bu karşıtlık uygulamada yoktu: çubuk da
+    zemin de aynı aileden açık tonlardı. Beyaz yazıyla kontrast 17,4.
+  */
+  --cubuk: #1a1a1a;
+
+  /** Resmî metin yüzeyi — kanun metni bloğu sitede koyu yeşildir. */
+  --resmi: #2e4036;
+
+
+  /*
+    Kiremit — sitenin vurgu rengi.
+
+    Uygulama yalnız orman yeşiliyle çiziliyordu ve yan yana konduğunda
+    siteden daha düz görünüyordu. Site aynı kremin üstünde bu yanık turuncuyu
+    kullanıyor; iki yüzeyin aynı markadan olduğu asıl buradan anlaşılıyor.
+  */
+  /*
+    Sitedeki kiremit #CC5833; burada %4 koyusu kullanılır.
+
+    Beyaz yazı #CC5833 üstünde 4.19:1 kontrast veriyor — WCAG AA'nın 4.5
+    eşiğinin altında. #C45431 aynı rengi gözle ayırt edilmeyecek kadar
+    koyultup 4.51:1'e çıkarır. Sitenin kendi `.btn-primary` düğmesi bu
+    eşiği geçmiyor; kusuru taşımak yerine düzeltilmiş hâli alındı.
+  */
+  --kiremit: #c45431;
+  --kiremit-soft: rgba(196, 84, 49, 0.09);
 
   /* Mürekkep */
   --ink-1: #1a1a1a;
@@ -64,6 +121,16 @@ body {
   overscroll-behavior-y: none;
 }
 
+/*
+  ZEMİN GERİ ALINDI — düz krem kalıyor.
+
+  Sitedeki iki radyal ton + doku katmanı buraya taşınmıştı; kullanıcı
+  telefonda gördüğünde beğenmedi — küçük ekranda %6-7 opaklıktaki renk
+  lekesi tasarlanmış değil, ekran kirliymiş gibi okunuyordu. Boyanın
+  kendisi yerine markanın KARARLILIĞI taşınacak: koyu zemin ve doygun
+  kiremit yalnız yapısal ögelerde (çubuk, düğme, rozet), okuma yüzeylerine
+  hiç dokunmadan. Bkz. aşağıdaki «KARARLI VURGU» bloğu.
+*/
 body {
   /* Android 16 kenardan kenara zorunlu — içerik çentik ve gezinme çubuğunun
      altında kalmasın. */
@@ -235,11 +302,43 @@ p {
     @apply inline-flex items-center gap-1.5 rounded-full px-3 py-1.5 text-xs font-semibold;
   }
 
+  /*
+    KARARLI VURGU
+
+    Site kararlılığını iki yerde gösterir: koyu zemin (Hero, kahraman
+    bölümü) ve doygun, renkli-gölgeli düğmeler (.btn-primary). Uygulama bu
+    ikisinden yalnız İKİNCİSİNİ alıyor — okuma yüzeyleri (madde, karar
+    metni) zaten yüksek kontrastta ve koyulaştırılırsa uzun metin okurken
+    göz yorar. Vurgu, doğrudan eylem ve durum bildiren ögelere gider.
+
+    Renkli gölge, düz `box-shadow: 0 Npx grey` yerine markanın kendi
+    renginden gelir — sitedeki `.btn-primary` ile birebir aynı formül
+    (rgba(204,88,51,0.45)). Düz gri gölge her düğmede aynı görünür; renkli
+    gölge düğmenin HANGİ markaya ait olduğunu bir bakışta söyler.
+  */
   .btn-brand {
     @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-3
            font-bold text-white text-sm tap;
     background: var(--brand);
+    box-shadow: 0 8px 24px -6px rgba(46, 64, 54, 0.5);
     min-height: 44px;
+  }
+
+  .btn-brand:active {
+    transform: translateY(1px);
+  }
+
+  /** Kiremit düğme — üyelik/satın alma gibi tek, kararlı bir eylem için. */
+  .btn-kiremit {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-3
+           font-bold text-white text-sm tap;
+    background: var(--kiremit);
+    box-shadow: 0 8px 24px -6px rgba(196, 84, 49, 0.5);
+    min-height: 44px;
+  }
+
+  .btn-kiremit:active {
+    transform: translateY(1px);
   }
 
   .btn-ghost {

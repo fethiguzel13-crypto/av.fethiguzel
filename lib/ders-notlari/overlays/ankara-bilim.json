@@ -1,0 +1,37 @@
+{
+    "uniSlug": "ankara-bilim",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Çankaya / Balgat hattı",
+    "cityHook": "Balgat'taki bir ofis GİK ve kira",
+    "mehaz": "Ankara Bilim vakıf fakültesi; TBK GİK lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / dönem ilanı).",
+        "format": "Klasik yazılı: madde + unsur + vakıaya yedirme. Oran dönem ilanına bağlıdır.",
+        "tips": [
+            "Ankara Bilim kâğıdında GİK denetimini üç basamak yazın.",
+            "Ankara Bilim kâğıdında ilk cümle kurumu adlandırır; slogan yetmez.",
+            "Öğretim elemanı duyurusu ve OBS bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "Ankara Bilim Üniversitesi Hukuk Fakültesi, Ankara merkezli bir vakıf fakültesidir Eğitim dili Türkçedir.",
+        "Çankaya / Balgat hattı usulü: kaynak ve lafız önce, slayt cümlesi yok.",
+        "Bu örtü kamuya açık kimlik sayfasından üretilmiştir; amfi notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "Ankara Bilim Hukuk Fakültesi",
+            "url": "https://ankarabilim.edu.tr/akademik/fakulteler/hukuk-fakultesi",
+            "note": "fakülte kimliği; slayt ve amfi notu yok"
+        }
+    ]
+}

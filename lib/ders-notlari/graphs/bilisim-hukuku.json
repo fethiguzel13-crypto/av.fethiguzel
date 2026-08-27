@@ -1,0 +1,261 @@
+{
+    "courseCode": "bilisim-hukuku",
+    "title": "Bilişim Hukuku",
+    "kanunId": "kvkk",
+    "guzInstitutionIds": [
+        "veri-isleme",
+        "hukuka-uygunluk-kvk",
+        "ozel-nitelikli",
+        "aktarim"
+    ],
+    "baharInstitutionIds": [
+        "ilgili-kisi",
+        "sorumlu",
+        "kurul-kvk",
+        "istisna-kvk"
+    ],
+    "institutions": [
+        {
+            "id": "veri-isleme",
+            "title": "Kişisel veri ve işleme",
+            "definition": "Kişisel veri, kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilgidir. İşleme, elde etmeden silmeye kadar tüm işlemleri kapsar.",
+            "elements": [
+                "gerçek kişi",
+                "belirlenebilirlik",
+                "işleme fiili",
+                "otomatik / manuel"
+            ],
+            "organicLinks": [
+                "Tüzel kişi verisi KVKK konusu değildir.",
+                "Anonim hâle getirme, kapsamı kapatabilir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "kvkk",
+                    "maddeNo": "3"
+                },
+                {
+                    "kanunId": "kvkk",
+                    "maddeNo": "2"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Kapsam, tamamen veya kısmen otomatik işleme ve bir kayıt sisteminin parçası olan manuel işlemeyedir.",
+                "İstisnalar 28'dedir."
+            ]
+        },
+        {
+            "id": "hukuka-uygunluk-kvk",
+            "title": "İşlemenin hukuka uygunluğu",
+            "definition": "Kişisel veriler, hukuka ve dürüstlük kurallarına uygun, belirli, açık ve meşru amaçlarla, işlendikleri amaçla bağlantılı, sınırlı ve ölçülü olarak işlenir. Açık rıza bir hukuka uygunluk sebebidir, tek sebep değildir.",
+            "elements": [
+                "açık rıza",
+                "kanunî sebep",
+                "sözleşme",
+                "meşru menfaat",
+                "amaçla bağlılık"
+            ],
+            "organicLinks": [
+                "Açık rıza yoksa 5/2 sebeplerine bakılır.",
+                "Meşru menfaat, ilgili kişinin temel haklarını ezerse işlemez."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "kvkk",
+                    "maddeNo": "4"
+                },
+                {
+                    "kanunId": "kvkk",
+                    "maddeNo": "5"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Genel ilkeler 4, sebepler 5'tedir.",
+                "Açık rıza, belirli konuya ilişkin, bilgilendirmeye dayalı ve özgür iradedir."
+            ]
+        },
+        {
+            "id": "aktarim",
+            "title": "Aktarım",
+            "definition": "Kişisel veriler, yeterli koruma olmayan ülkeye kural olarak Kurul izni veya açık rıza ile aktarılır. Yurt içi aktarım da aydınlatma ve sebep ister.",
+            "elements": [
+                "yurt içi",
+                "yurt dışı",
+                "yeterli koruma",
+                "açık rıza / izin"
+            ],
+            "organicLinks": [
+                "Bulut hizmeti, fiilen yurt dışı aktarım olabilir.",
+                "Grup şirketleri istisna yaratmaz."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "kvkk",
+                    "maddeNo": "8"
+                },
+                {
+                    "kanunId": "kvkk",
+                    "maddeNo": "9"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Yurt içi aktarım 8, yurt dışı 9'dadır.",
+                "Taahhütname ve bağlayıcı şirket kuralları izin yerine geçebilir."
+            ]
+        },
+        {
+            "id": "ozel-nitelikli",
+            "title": "Özel nitelikli kişisel veri",
+            "definition": "Sağlık, ceza mahkûmiyeti, biyometri gibi özel nitelikli veriler kural olarak açık rıza ile; sağlık verileri ayrıca sır saklama yükümlülüğü altındakilerce işlenebilir.",
+            "elements": [
+                "özel nitelik",
+                "açık rıza",
+                "sağlık istisnası",
+                "yeterli önlem"
+            ],
+            "organicLinks": [
+                "Özel nitelikli veri, genel veriden daha sıkı rejimdedir.",
+                "Kurul, yeterli önlemleri belirler."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "kvkk",
+                    "maddeNo": "6"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "6/3 sağlık ve cinsel hayata özel kapı açar.",
+                "Önlemsiz işleme hukuka aykırıdır."
+            ]
+        },
+        {
+            "id": "ilgili-kisi",
+            "title": "İlgili kişinin hakları",
+            "definition": "İlgili kişi, veri sorumlusuna başvurarak öğrenme, düzeltme, silme, aktarma ve itiraz haklarını kullanır. Başvuru cevapsız kalırsa Kurula şikâyet edilir.",
+            "elements": [
+                "başvuru",
+                "öğrenme",
+                "silme",
+                "itiraz",
+                "şikâyet"
+            ],
+            "organicLinks": [
+                "Hak, TCK'daki şikâyetten ayrı bir idari yoldur.",
+                "Süreler yönetmelikle işler."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "kvkk",
+                    "maddeNo": "11"
+                },
+                {
+                    "kanunId": "kvkk",
+                    "maddeNo": "13"
+                },
+                {
+                    "kanunId": "kvkk",
+                    "maddeNo": "14"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Önce veri sorumlusuna başvuru, sonra Kurul.",
+                "Dava yolu saklıdır."
+            ]
+        },
+        {
+            "id": "sorumlu",
+            "title": "Veri sorumlusu ve aydınlatma",
+            "definition": "Veri sorumlusu, işleme amaç ve vasıtalarını belirleyen gerçek veya tüzel kişidir. Aydınlatma, işleme başlamadan önce yapılır. VERBİS kaydı ayrı yükümlülüktür.",
+            "elements": [
+                "amaç ve vasıta",
+                "aydınlatma",
+                "kayıt",
+                "işleyen"
+            ],
+            "organicLinks": [
+                "İşleyen, sorumlu adına hareket eder; sorumluluk asıldadır.",
+                "Aydınlatma, açık rızanın ön şartıdır (rızaya dayanılıyorsa)."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "kvkk",
+                    "maddeNo": "10"
+                },
+                {
+                    "kanunId": "kvkk",
+                    "maddeNo": "12"
+                },
+                {
+                    "kanunId": "kvkk",
+                    "maddeNo": "16"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Aydınlatma kimliği, amacı, alıcıları ve hakları kapsar.",
+                "Güvenlik tedbirleri 12'dedir."
+            ]
+        },
+        {
+            "id": "istisna-kvk",
+            "title": "İstisnalar",
+            "definition": "KVKK, milli savunma, soruşturma, istatistik ve sanat-edebiyat gibi hâllerde kısmen veya tamamen uygulanmayabilir. İstisna dar yorumlanır.",
+            "elements": [
+                "milli güvenlik",
+                "soruşturma",
+                "istatistik",
+                "ifade özgürlüğü"
+            ],
+            "organicLinks": [
+                "İstisna, 5. maddedeki sebep değildir; kapsam dışıdır.",
+                "Özel hayatın gizliliği yine Anayasa'dadır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "kvkk",
+                    "maddeNo": "28"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "28/1 tamamen, 28/2 kısmen istisnadır.",
+                "İstisna belgelenmeden ileri sürülmez."
+            ]
+        },
+        {
+            "id": "kurul-kvk",
+            "title": "Kurul ve yaptırım",
+            "definition": "Kurul, şikâyet ve resen inceleme ile idari para cezası keser. Suç oluşturan fiiller TCK bilişim ve veri rejimine de kayabilir.",
+            "elements": [
+                "şikâyet",
+                "resen inceleme",
+                "idari para cezası",
+                "TCK kesişimi"
+            ],
+            "organicLinks": [
+                "İdari ceza, TCK 135-140 hattını ilga etmez.",
+                "Kurul kararı yargıya açıktır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "kvkk",
+                    "maddeNo": "15"
+                },
+                {
+                    "kanunId": "kvkk",
+                    "maddeNo": "18"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Cezalar 18'de fiile göre kademelidir.",
+                "Kurul, işlenenin durdurulmasını da ister."
+            ]
+        }
+    ]
+}

@@ -33,7 +33,10 @@ export type UrunBilgisi = {
 
 type Store = {
   register: (u: unknown) => void;
-  initialize: (p?: unknown) => Promise<void>;
+  /** HATA DİZİSİ döndürür — boş dizi «sorun yok» demektir. */
+  initialize: (p?: unknown) => Promise<unknown[] | void>;
+  /** Asenkron hata dinleyicisi. */
+  error?: (cb: (e: unknown) => void) => void;
   update?: () => Promise<void>;
   get: (id: string, platform?: string) => unknown;
   when: () => { approved: (cb: (t: unknown) => void) => void };
@@ -57,6 +60,28 @@ export function odemeVarMi(): boolean {
 let hazir = false;
 let hazirlaniyor: Promise<void> | null = null;
 
+/**
+ * Play'in bildirdiği son hatalar.
+ *
+ * `store.initialize()` bir HATA DİZİSİ döndürür ve önceki sürüm o diziyi
+ * tümüyle yok sayıyordu. Play bağlantısı kurulamadığında ya da ürün
+ * bulunamadığında kullanıcı yalnız «mağazadan okunamadı» görüyor, sebebini
+ * ne o ne de biz öğrenebiliyorduk. Artık hem başlatma hatası hem eklentinin
+ * asenkron bildirdiği hatalar burada birikiyor ve mesaja yansıyor.
+ */
+const hatalar: string[] = [];
+
+function hataYaz(e: unknown): void {
+  const h = e as { code?: number | string; message?: string } | undefined;
+  const metin = h?.message ? `${h.message}${h.code != null ? ` (${h.code})` : ''}` : String(e);
+  if (metin && !hatalar.includes(metin)) hatalar.push(metin);
+}
+
+/** Tanılama için: Play'den gelen son hata metinleri. */
+export function odemeHatalari(): string[] {
+  return hatalar.slice();
+}
+
 export function billingBaslat(): Promise<void> {
   if (hazir) return Promise.resolve();
   if (hazirlaniyor) return hazirlaniyor;
@@ -68,6 +93,9 @@ export function billingBaslat(): Promise<void> {
     const g = globalThis as unknown as { CdvPurchase?: Record<string, Record<string, string>> };
     const tur = g.CdvPurchase?.ProductType?.PAID_SUBSCRIPTION ?? 'paid subscription';
     const platform = g.CdvPurchase?.Platform?.GOOGLE_PLAY ?? 'android-playstore';
+
+    // Eklentinin asenkron bildirdiği hatalar (bağlantı kopması, iptal, vb.)
+    if (typeof s.error === 'function') s.error(hataYaz);
 
     s.register([{ id: URUN_ID, type: tur, platform }]);
 
@@ -81,11 +109,31 @@ export function billingBaslat(): Promise<void> {
       if (typeof islem.finish === 'function') islem.finish();
     });
 
-    await s.initialize([{ platform }]);
+    const sonuc = await s.initialize([{ platform }]);
+    if (Array.isArray(sonuc)) sonuc.forEach(hataYaz);
+
     hazir = true;
   })();
 
   return hazirlaniyor;
+}
+
+/**
+ * Ürünün Play'den gelmesini bekler.
+ *
+ * `initialize()` dönmüş olması ürün listesinin hazır olduğu anlamına
+ * gelmez: Play kataloğu ayrı bir tur olarak getirir. Önceki sürüm hemen
+ * sorup boş bulunca «okunamadı» diyordu; oysa ürün bir saniye sonra
+ * geliyordu.
+ */
+async function urunuBekle(s: Store, platform: string, sureMs = 6000): Promise<unknown> {
+  const basla = Date.now();
+  for (;;) {
+    const u = s.get(URUN_ID, platform);
+    if (u) return u;
+    if (Date.now() - basla > sureMs) return undefined;
+    await new Promise((r) => setTimeout(r, 300));
+  }
 }
 
 /** Play'e sorup güncel abonelik durumunu getirir. */
@@ -121,7 +169,8 @@ export async function urunBilgisi(): Promise<UrunBilgisi> {
     await billingBaslat();
     const g = globalThis as unknown as { CdvPurchase?: Record<string, Record<string, string>> };
     const platform = g.CdvPurchase?.Platform?.GOOGLE_PLAY ?? 'android-playstore';
-    const urun = s.get(URUN_ID, platform) as
+    // Fiyat ekranı da ürünün gelmesini bekler; yoksa hep yedek fiyat gösterir.
+    const urun = (await urunuBekle(s, platform)) as
       | {
           title?: string;
           description?: string;
@@ -151,12 +200,39 @@ export async function satinAl(): Promise<void> {
 
   const g = globalThis as unknown as { CdvPurchase?: Record<string, Record<string, string>> };
   const platform = g.CdvPurchase?.Platform?.GOOGLE_PLAY ?? 'android-playstore';
-  const urun = s.get(URUN_ID, platform) as
+
+  const urun = (await urunuBekle(s, platform)) as
     | { getOffer?: () => { order?: () => Promise<unknown> } | undefined }
     | undefined;
 
   const teklif = urun?.getOffer?.();
-  if (!teklif?.order) throw new Error('Abonelik ürünü mağazadan okunamadı.');
+
+  /*
+    Buradaki mesaj TANILAYICI olmalı.
+
+    Önceki sürüm yalnız «Abonelik ürünü mağazadan okunamadı» diyordu; bu,
+    kullanıcı için çıkmaz bir cümle. Ürünün gelmemesinin üç ayrı sebebi var
+    ve üçünün çözümü de farklı:
+
+      · Uygulama Play'den kurulmamış (yandan yükleme) — Play Billing
+        yalnız mağazadan kurulan pakette çalışır. En sık sebep budur.
+      · Play Console'da ürün ya da temel plan etkinleştirilmemiş.
+      · Ürün yeni oluşturulmuş; yayılması birkaç saat sürebilir.
+
+    Play'in kendi hata metni varsa onu da ekliyoruz — «okunamadı» demek
+    yerine neyin okunamadığını söylüyor.
+  */
+  if (!teklif?.order) {
+    const ek = hatalar.length ? ` Play şunu bildirdi: ${hatalar.join(' · ')}` : '';
+    throw new Error(
+      `«${URUN_ID}» aboneliği Play'den gelmedi.${ek} ` +
+        'Sık sebep: uygulama Google Play üzerinden kurulmamış olabilir — ' +
+        'satın alma yalnız mağazadan (dahili test bağlantısı dâhil) kurulan ' +
+        'pakette çalışır. Ayrıca Play Console → Abonelikler bölümünde ürünün ' +
+        've temel planın ETKİN olduğunu doğrulayın.'
+    );
+  }
+
   await teklif.order();
 }
 

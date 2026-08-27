@@ -1,0 +1,290 @@
+{
+    "courseCode": "ceza-muhakemesi",
+    "title": "Ceza Muhakemesi Hukuku",
+    "kanunId": "cmk",
+    "guzInstitutionIds": [
+        "sorusturma",
+        "koruma",
+        "ifade-sorgu"
+    ],
+    "baharInstitutionIds": [
+        "kovusturma",
+        "delil-cmk",
+        "hukum-yol"
+    ],
+    "institutions": [
+        {
+            "id": "sorusturma",
+            "title": "Soruşturma",
+            "definition": "Soruşturma, suç şüphesinin öğrenilmesinden iddianamenin kabulüne kadar geçen evredir. Cumhuriyet savcısı adli kollukla delil toplar.",
+            "elements": [
+                "suç şüphesi",
+                "savcı",
+                "adli kolluk",
+                "iddianame veya kovuşturmaya yer olmadığı"
+            ],
+            "organicLinks": [
+                "Soruşturma gizlidir; kovuşturma kamuya açıktır (kural).",
+                "İfade alma, sorgu değildir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "2"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "160"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "161"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "170"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "171"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "172"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "173"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Yeterli şüphe iddianameyi, aksi KYOK'u doğurur.",
+                "İddianame 170 unsurlarını taşımalıdır."
+            ]
+        },
+        {
+            "id": "koruma",
+            "title": "Koruma tedbirleri",
+            "definition": "Yakalama, gözaltı, tutuklama, arama, elkoyma ve adli kontrol, soruşturma veya kovuşturmada tedbirdir. Ölçülülük ve gecikmesinde sakınca aranır.",
+            "elements": [
+                "kuvvetli şüphe",
+                "tutuklama nedeni",
+                "ölçülülük",
+                "hâkim kararı",
+                "süre"
+            ],
+            "organicLinks": [
+                "Tutuklama, ceza değildir.",
+                "Adli kontrol, tutuklamaya alternatifdir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "90"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "91"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "100"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "101"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "109"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "116"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "119"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Tutuklama nedenleri 100'de sınırlıdır.",
+                "Arama, konut ve avukat bürosunda özel usul ister."
+            ]
+        },
+        {
+            "id": "ifade-sorgu",
+            "title": "İfade ve sorgu",
+            "definition": "İfade, şüphelinin savcı veya kolluk önünde; sorgu, şüpheli veya sanığın hâkim veya mahkeme önünde dinlenmesidir. Susma ve müdafi hakkı kurucudur.",
+            "elements": [
+                "bilgilendirme",
+                "müdafi",
+                "susma hakkı",
+                "yasak usuller",
+                "ifade tutanağı"
+            ],
+            "organicLinks": [
+                "Kolluk ifadesi, hâkim sorgusunun yerini almaz.",
+                "Yasak usulle alınan ifade hükme esas olmaz."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "147"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "148"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "149"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "150"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "154"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "147 hakları hatırlatılmadan alınan ifade değersizdir.",
+                "Müdafi, zorunlu hâllerde barodan atanır."
+            ]
+        },
+        {
+            "id": "kovusturma",
+            "title": "Kovuşturma ve duruşma",
+            "definition": "Kovuşturma, iddianamenin kabulüyle başlar. Duruşma sözlülük, doğrudanlık ve yüz yüzelik ilkelerine bağlıdır.",
+            "elements": [
+                "iddianamenin kabulü",
+                "duruşma hazırlığı",
+                "delillerin ikamesi",
+                "iddia ve savunma",
+                "hüküm"
+            ],
+            "organicLinks": [
+                "Kovuşturma, soruşturmanın devamı değil yeni evredir.",
+                "Doğrudan doğruyalık, delilin duruşmada tartışılmasını ister."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "175"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "176"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "191"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "193"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "206"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "216"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Duruşma kural olarak açıktır.",
+                "Sanığın yokluğu istisnadır."
+            ]
+        },
+        {
+            "id": "delil-cmk",
+            "title": "Delil ve yasaklar",
+            "definition": "Ceza muhakemesinde her şey delil olabilir; hukuka aykırı elde edilen delil hükme esas alınamaz. Bilirkişi ve tanık ayrı araçlardır.",
+            "elements": [
+                "delil serbestisi",
+                "hukuka aykırı delil",
+                "tanık",
+                "bilirkişi",
+                "keşif"
+            ],
+            "organicLinks": [
+                "Yasak delil, maddi gerçeği bile bağlamaz.",
+                "Tanıklıktan çekinme hakları 45+ hattındadır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "206"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "217"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "62"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "63"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Hâkim, vicdani kanaatine göre serbestçe değerlendirir; gerekçe yazılır.",
+                "İşkenceyle alınan beyan mutlak yasaktır."
+            ]
+        },
+        {
+            "id": "hukum-yol",
+            "title": "Hüküm ve kanun yolları",
+            "definition": "Hüküm, beraat, mahkûmiyet, ceza verilmesine yer olmadığı, güvenlik tedbiri gibi sonuçlardan biridir. İstinaf ve temyiz süreye bağlıdır.",
+            "elements": [
+                "hüküm türü",
+                "gerekçe",
+                "istinaf",
+                "temyiz",
+                "kesinleşme"
+            ],
+            "organicLinks": [
+                "Beraat ile ceza verilmesine yer olmadığı ayrılır.",
+                "İstinaf, olgu ve hukuk; temyiz esas olarak hukuktur."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "223"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "230"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "231"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "272"
+                },
+                {
+                    "kanunId": "cmk",
+                    "maddeNo": "286"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "223 hüküm çeşitlerini sayar.",
+                "Temyiz edilebilirlik 286'da sınırlanır."
+            ]
+        }
+    ]
+}

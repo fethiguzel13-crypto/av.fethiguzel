@@ -1,0 +1,37 @@
+{
+    "uniSlug": "eskisehir-osmangazi",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Meşelik",
+    "cityHook": "Odunpazarı'ndaki bir restorasyon eser sözleşmesi",
+    "mehaz": "ESOGÜ devlet fakültesi; TBK eser ve ayıp lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / dönem ilanı).",
+        "format": "Klasik yazılı: madde + unsur + vakıaya yedirme. Oran dönem ilanına bağlıdır.",
+        "tips": [
+            "Osmangazi kâğıdında ayıp bildirim süresini yazın.",
+            "ESOGÜ kâğıdında ilk cümle kurumu adlandırır; slogan yetmez.",
+            "Öğretim elemanı duyurusu ve OBS bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "Eskişehir Osmangazi Üniversitesi Hukuk Fakültesi, Eskişehir merkezli bir devlet fakültesidir Eğitim dili Türkçedir.",
+        "Meşelik usulü: kaynak ve lafız önce, slayt cümlesi yok.",
+        "Bu örtü kamuya açık kimlik sayfasından üretilmiştir; amfi notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "ESOGÜ Hukuk Fakültesi",
+            "url": "https://hukuk.ogu.edu.tr/",
+            "note": "fakülte kimliği; slayt ve amfi notu yok"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+# Denetçi manifesti — Arabuluculuk Hukuku
+courseCode: arabuluculuk
+title: Arabuluculuk Hukuku
+kanun: arabuluculuk
+guz:
+  - iradi
+  - gizlilik
+  - arabulucu
+  - ucret-arabulucu
+bahar:
+  - surec
+  - anlasma
+  - dava-sarti
+  - ilk-toplanti
+institutions:
+  - id: iradi
+    title: İradi olma ve eşitlik
+    maddeler: ['1', '2', '3', '9']
+  - id: gizlilik
+    title: Gizlilik
+    maddeler: ['4', '5', '33']
+  - id: ucret-arabulucu
+    title: Arabulucu ücreti ve gider
+    maddeler: ['7', '21', '16']
+  - id: arabulucu
+    title: Arabulucu
+    maddeler: ['6', '7', '8', '19', '20']
+  - id: ilk-toplanti
+    title: İlk toplantı ve son tutanak
+    maddeler: ['13', '14', '15', '17']
+  - id: surec
+    title: Süreç ve süre
+    maddeler: ['13', '15', '16']
+  - id: anlasma
+    title: Anlaşma ve icra
+    maddeler: ['17', '17A', '17B', '18']
+  - id: dava-sarti
+    title: Dava şartı arabuluculuk
+    maddeler: ['18', '18A', '18B']

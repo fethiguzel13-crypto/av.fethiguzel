@@ -1,0 +1,39 @@
+# Denetçi manifesti — Ceza Hukuku Genel Hükümler
+courseCode: ceza-genel
+title: Ceza Hukuku Genel Hükümler
+kanun: tck
+guz:
+  - kanunilik
+  - kast-taksir
+  - hukuka-uygunluk
+  - tesebbus
+bahar:
+  - istirak
+  - ictima
+  - kusurluluk-yas
+  - yaptirim
+institutions:
+  - id: kanunilik
+    title: Kanunilik ve zaman bakımından uygulama
+    maddeler: ['1', '2', '7']
+  - id: kast-taksir
+    title: Kast ve taksir
+    maddeler: ['21', '22', '23']
+  - id: hukuka-uygunluk
+    title: Hukuka uygunluk nedenleri
+    maddeler: ['24', '25', '26', '27']
+  - id: tesebbus
+    title: Teşebbüs
+    maddeler: ['35', '36']
+  - id: istirak
+    title: İştirak
+    maddeler: ['37', '38', '39', '40']
+  - id: ictima
+    title: Suçların içtimaı
+    maddeler: ['42', '43', '44']
+  - id: kusurluluk-yas
+    title: Kusurluluk: yaş ve akıl
+    maddeler: ['30', '31', '32', '34']
+  - id: yaptirim
+    title: Yaptırım sistemi
+    maddeler: ['45', '46', '50', '51', '52', '53', '58']

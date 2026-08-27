@@ -1,0 +1,17 @@
+{
+    "uniSlug": "cukurova",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Balcalı / Adana",
+    "cityHook": "Adana'daki bir tarım ürünü satımı ve ayıp bildirimi",
+    "mehaz": "Çukurova devlet fakültesi; TBK satım lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav + final.",
+        "format": "Klasik yazılı: ayıp, zapt, tarım satımı.",
+        "tips": ["Çukurova kâğıdında ayıp ile zapttı ayırın.", "OBS bağlar."]
+    },
+    "syllabusOrder": ["borçlar özel", "ticari işletme", "usul"],
+    "schoolNotes": ["Çukurova Hukuk, Balcalı kampüsündedir.", "Slayt yok."],
+    "sources": [{ "title": "Çukurova Üniversitesi Hukuk Fakültesi", "url": "https://hukuk.cu.edu.tr/", "note": "fakülte kimliği" }]
+}

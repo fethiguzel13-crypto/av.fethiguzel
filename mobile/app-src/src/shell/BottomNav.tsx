@@ -63,7 +63,16 @@ export default function BottomNav() {
                 type="button"
                 aria-current={isActive ? 'page' : undefined}
                 className="w-full h-[58px] flex flex-col items-center justify-center gap-0.5 tap"
-                style={{ color: isActive ? 'var(--bolum)' : 'var(--ink-3)' }}
+                /*
+                  Etkin sekme tek bir vurgu rengiyle işaretlenir.
+
+                  Önce her bölüm kendi rengiyle parlıyordu; dört ayrı renk
+                  «etkin» kavramını her sekmede yeniden tanımlıyor ve hiçbiri
+                  marka rengi olmadığı için vurgu kimliksiz kalıyordu. Site
+                  tek turuncu kullanır. Bölüm kimliği kaybolmuyor: başlık
+                  çubuğunun altındaki şerit onu taşımayı sürdürüyor.
+                */
+                style={{ color: isActive ? 'var(--vurgu)' : 'var(--ink-3)' }}
                 onClick={() => {
                   void tapFeedback();
                   navigate(tab.path);

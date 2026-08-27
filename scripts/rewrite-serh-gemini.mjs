@@ -31,6 +31,7 @@ const LIMIT = Number(argValue('--limit') || 0) || 0;
 const ONLY = argValue('--only');
 const CONCURRENCY = Math.max(1, Math.min(6, Number(argValue('--concurrency') || 3) || 3));
 const REFRESH = process.argv.includes('--refresh-pending');
+const LOCAL = process.argv.includes('--local');
 
 function loadProgress() {
     if (!existsSync(PROGRESS)) return { done: {}, failed: {}, startedAt: new Date().toISOString() };
@@ -63,7 +64,8 @@ if (!REFRESH && existsSync(PENDING) && !ONLY) {
 
 if (ONLY) {
     const [kanunId, no] = ONLY.split('/');
-    pending = [{ kanunId, maddeNo: Number(no), file: join(ROOT, 'content', 'mevzuat', kanunId, `madde-${no}.md`) }];
+    const maddeNo = /^\d+$/.test(String(no)) ? Number(no) : no;
+    pending = [{ kanunId, maddeNo, file: join(ROOT, 'content', 'mevzuat', kanunId, `madde-${no}.md`) }];
 }
 
 const progress = loadProgress();
@@ -76,7 +78,7 @@ let queue = pending.filter((it) => {
     return fails < 6;
 });
 if (LIMIT) queue = queue.slice(0, LIMIT);
-console.log(`[serh-gemini] kuyruk ${queue.length}  concurrency ${CONCURRENCY}`);
+console.log(`[serh-gemini] kuyruk ${queue.length}  concurrency ${CONCURRENCY}${LOCAL ? '  local' : ''}`);
 
 async function worker(name) {
     while (queue.length) {
@@ -84,7 +86,7 @@ async function worker(name) {
         if (!it) return;
         const k = keyOf(it);
         try {
-            const { next, words } = await rewriteOne(ROOT, it);
+            const { next, words } = await rewriteOne(ROOT, it, { local: LOCAL });
             writeFileSync(it.file, next);
             progress.done[k] = { words, at: new Date().toISOString() };
             delete progress.failed[k];

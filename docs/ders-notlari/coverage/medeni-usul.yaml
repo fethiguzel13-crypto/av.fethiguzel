@@ -1,0 +1,39 @@
+# Denetçi manifesti — Medeni Usul Hukuku
+courseCode: medeni-usul
+title: Medeni Usul Hukuku
+kanun: hmk
+guz:
+  - gorev
+  - yetki
+  - dava-sartlari
+  - dilekce
+bahar:
+  - tahkikat
+  - delil
+  - hukum
+  - kanun-yolu
+institutions:
+  - id: gorev
+    title: Görev
+    maddeler: ['1', '2', '3', '4']
+  - id: yetki
+    title: Yetki
+    maddeler: ['5', '6', '9', '10', '12', '19']
+  - id: dava-sartlari
+    title: Dava şartları
+    maddeler: ['114', '115', '116', '117']
+  - id: dilekce
+    title: Dava ve cevap dilekçesi
+    maddeler: ['119', '122', '127', '128', '141', '176']
+  - id: tahkikat
+    title: Tahkikat
+    maddeler: ['137', '138', '140', '147', '184']
+  - id: delil
+    title: Delil
+    maddeler: ['189', '190', '200', '266', '282', '225']
+  - id: hukum
+    title: Hüküm
+    maddeler: ['294', '297', '298', '301', '303']
+  - id: kanun-yolu
+    title: Kanun yolları (istinaf ve temyiz)
+    maddeler: ['341', '345', '353', '361', '369', '373']

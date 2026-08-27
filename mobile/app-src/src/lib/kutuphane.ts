@@ -1,4 +1,5 @@
 import { gunzipSync, strFromU8 } from 'fflate';
+import { GZ } from './varlik';
 
 /**
  * Akademik eserler — makalelerin cihazda okunabilir hâli.
@@ -26,7 +27,7 @@ export function loadEserler(): Promise<Eser[]> {
   if (cache) return Promise.resolve(cache);
   if (inflight) return inflight;
 
-  inflight = fetch('./kutuphane/eserler.json.gz')
+  inflight = fetch(`./kutuphane/eserler.json${GZ}`)
     .then(async (res) => {
       if (!res.ok) throw new Error(String(res.status));
       const buf = new Uint8Array(await res.arrayBuffer());

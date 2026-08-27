@@ -1,0 +1,303 @@
+{
+    "courseCode": "sigorta-hukuku",
+    "title": "Sigorta Hukuku",
+    "kanunId": "ttk",
+    "guzInstitutionIds": [
+        "sigorta-sozlesmesi",
+        "riziko",
+        "prim",
+        "teminat-kapsam"
+    ],
+    "baharInstitutionIds": [
+        "ihbar-sigorta",
+        "tazmin",
+        "hayat",
+        "sona-sigorta"
+    ],
+    "institutions": [
+        {
+            "id": "sigorta-sozlesmesi",
+            "title": "Sigorta sözleşmesi",
+            "definition": "Sigorta sözleşmesinde sigortacı, bir prim karşılığında para ile ölçülebilir menfaati zarara uğratan rizikonun gerçekleşmesi hâlinde tazmin etmeyi veya hayat olayına bağlı edimde bulunmayı yükümlenir.",
+            "elements": [
+                "prim",
+                "menfaat",
+                "riziko",
+                "sigortacı edimi"
+            ],
+            "organicLinks": [
+                "Ruhsatsız şirketle bilerek yapılan sözleşme geçersizdir.",
+                "Sigorta, kumar ve bahisten menfaat unsuruyla ayrılır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1401"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1402"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1403"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1404"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Tanım 1401'dedir.",
+                "Menfaat yoksa sözleşme ayakta durmaz."
+            ]
+        },
+        {
+            "id": "teminat-kapsam",
+            "title": "Teminatın kapsamı ve istisnalar",
+            "definition": "Teminat, poliçe ve genel şartlarla çizilen riziko dilimidir. Ağır kusur, kanuna aykırı menfaat ve bildirilmeyen tehlike teminat dışı kalabilir.",
+            "elements": [
+                "poliçe",
+                "genel şart",
+                "istisna",
+                "ağır kusur"
+            ],
+            "organicLinks": [
+                "Teminat, primin karşılığıdır; prim yoksa teminat durabilir.",
+                "İstisna, genel klozdan dar yorumlanır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1408"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1411"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1421"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Kapsam belirsizse lehe yorum tüketici işleminde öne çıkar.",
+                "Kasten zarar kural olarak dışarıdadır."
+            ]
+        },
+        {
+            "id": "riziko",
+            "title": "Riziko ve teminat",
+            "definition": "Riziko, sözleşmede tanımlanan tehlikedir. Teminatın kapsamı poliçe ve genel şartlarla çizilir. Ağır kusur ve kanuna aykırı menfaat teminat dışı kalabilir.",
+            "elements": [
+                "tehlike",
+                "teminat kapsamı",
+                "istisna",
+                "ağır kusur"
+            ],
+            "organicLinks": [
+                "Riziko gerçekleşmeden tazmin doğmaz.",
+                "Genel şart, TKHK haksız şart denetimine de açık olabilir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1409"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1422"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1426"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Sigortacı, rizikonun ağırlaşmasını öğrenince durumu değerlendirir.",
+                "Kasten zarar teminat dışıdır (kural)."
+            ]
+        },
+        {
+            "id": "prim",
+            "title": "Prim",
+            "definition": "Prim, teminatın karşılığıdır. Ödenmemesi, teminatı askıya alabilir veya sözleşmeyi sona erdirebilir. İade, rizikonun kısmen düşmesine bağlıdır.",
+            "elements": [
+                "prim borcu",
+                "vade",
+                "ödenmeme sonucu",
+                "iade"
+            ],
+            "organicLinks": [
+                "Prim, ücret değildir; sigorta ediminin karşılığıdır.",
+                "İlk prim ile sonraki primler ayrı sonuç doğurabilir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1430"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1431"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1434"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Prim ödenmezse teminat durabilir.",
+                "Kısa dönem iadesi kanundadır."
+            ]
+        },
+        {
+            "id": "ihbar-sigorta",
+            "title": "Beyan ve ihbar yükümlülüğü",
+            "definition": "Sigorta ettiren, sözleşmenin yapılmasında ve rizikonun gerçekleşmesinde doğru beyan ve ihbarla yükümlüdür. Aykırılık tazminatı azaltır veya düşürür.",
+            "elements": [
+                "sözleşme öncesi beyan",
+                "riziko ihbarı",
+                "süre",
+                "yaptırım"
+            ],
+            "organicLinks": [
+                "Beyan, TBK hileden ayrı ve sigortaya özgüdür.",
+                "Geç ihbar, illiyet varsa tazminatı keser."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1435"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1446"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1447"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1448"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Kasten gerçeğe aykırı beyan sözleşmeyi etkiler.",
+                "Riziko ihbarı gecikmesizin yapılır."
+            ]
+        },
+        {
+            "id": "tazmin",
+            "title": "Tazmin ve halefiyet",
+            "definition": "Hasar sigortasında sigortacı, gerçekleşen zararı poliçe limiti içinde öder. Ödeme ile sigortalıın üçüncü kişiye karşı haklarına halef olur.",
+            "elements": [
+                "zarar",
+                "poliçe limiti",
+                "eksik sigorta",
+                "halefiyet"
+            ],
+            "organicLinks": [
+                "Hayat sigortasında zarar hesabı işlemez.",
+                "Halefiyet, çift tazminatı keser."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1459"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1462"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1472"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1473"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Eksik sigortada oran kuralı işler.",
+                "Halefiyet, ödeme anında doğar."
+            ]
+        },
+        {
+            "id": "sona-sigorta",
+            "title": "Sona erme ve zamanaşımı",
+            "definition": "Sigorta sözleşmesi süre bitimi, fesih, prim ödenmemesi veya rizikonun düşmesiyle sona erebilir. Tazminat alacağı zamanaşımına bağlıdır.",
+            "elements": [
+                "süre",
+                "fesih",
+                "prim ödenmemesi",
+                "zamanaşımı"
+            ],
+            "organicLinks": [
+                "Sona erme, teminatı ileriye etkili keser.",
+                "Zamanaşımı, TBK genelinden kısa olabilir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1417"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1418"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1481"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Bildirim süreleri kaçınca hak düşebilir.",
+                "Hayat ve hasarda zamanaşımı ayrı işleyebilir."
+            ]
+        },
+        {
+            "id": "hayat",
+            "title": "Hayat sigortası",
+            "definition": "Hayat sigortasında edim, bir veya birkaç kişinin hayat süreleri veya hayatlarında gerçekleşen olaylara bağlanır. Lehtar ataması ve iştira ayrı rejimlerdir.",
+            "elements": [
+                "hayat rizikosu",
+                "lehtar",
+                "iştira",
+                "prim iadesi"
+            ],
+            "organicLinks": [
+                "Hayat, hasar sigortasından menfaat ölçüsüyle ayrılır.",
+                "İntihar klozu süreye bağlıdır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1487"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1490"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1493"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Lehtar, sigorta ettirenin tasarrufuyla değişebilir.",
+                "İştira, birikimli hayatta peşin değeri öder."
+            ]
+        }
+    ]
+}

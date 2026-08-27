@@ -1,0 +1,39 @@
+# Denetçi manifesti — Rekabet Hukuku
+courseCode: rekabet-hukuku
+title: Rekabet Hukuku
+kanun: rkhk
+guz:
+  - anlasma
+  - hakim-durum
+  - yogunlasma
+  - tesebbus-rekabet
+bahar:
+  - kurul
+  - ceza-rekabet
+  - muafiyet
+  - sorusturma-rekabet
+institutions:
+  - id: tesebbus-rekabet
+    title: Teşebbüs ve ilgili pazar
+    maddeler: ['1', '2', '3']
+  - id: anlasma
+    title: Rekabeti sınırlayan anlaşmalar
+    maddeler: ['4', '5', '8']
+  - id: hakim-durum
+    title: Hâkim durumun kötüye kullanılması
+    maddeler: ['6', '9']
+  - id: yogunlasma
+    title: Yoğunlaşma (birleşme ve devralma)
+    maddeler: ['7', '10', '11']
+  - id: muafiyet
+    title: Muafiyet
+    maddeler: ['5']
+  - id: sorusturma-rekabet
+    title: Soruşturma usulü
+    maddeler: ['14', '15', '40', '41', '42', '43', '44']
+  - id: kurul
+    title: Rekabet Kurulu
+    maddeler: ['9', '16', '20', '27']
+  - id: ceza-rekabet
+    title: İdari para cezası
+    maddeler: ['16', '17']

@@ -1,0 +1,39 @@
+# Denetçi manifesti — İdare Hukuku
+courseCode: idare-hukuku
+title: İdare Hukuku
+kanun: belediye
+guz:
+  - idari-teskilat
+  - belediye-organ
+  - kamu-gorevlisi
+  - idari-yetki
+bahar:
+  - disiplin
+  - kamulastirma
+  - imar-denetim
+  - il-idaresi
+institutions:
+  - id: idari-teskilat
+    title: Mahallî idare ve belediye görevi
+    maddeler: ['13', '14', '15', '17']
+  - id: belediye-organ
+    title: Belediye organları
+    maddeler: ['17', '23', '37', '38', '54']
+  - id: kamu-gorevlisi
+    title: Kamu görevlisi ve ödev
+    maddeler: ['4', '6', '7', '8']
+  - id: idari-yetki
+    title: Belediye yetkisi ve işlem
+    maddeler: ['14', '15', '18']
+  - id: disiplin
+    title: Disiplin hukuku
+    maddeler: ['124', '125', '126', '137']
+  - id: kamulastirma
+    title: Kamulaştırma
+    maddeler: ['1', '3', '7', '8', '10', '11', '14']
+  - id: imar-denetim
+    title: İmar ve yapı denetimi
+    maddeler: ['8', '18', '20', '21', '32', '42']
+  - id: il-idaresi
+    title: İl idaresi
+    maddeler: ['3', '4', '8', '9', '31', '32']

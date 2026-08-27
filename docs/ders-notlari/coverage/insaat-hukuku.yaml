@@ -1,0 +1,39 @@
+# Denetçi manifesti — İnşaat Hukuku
+courseCode: insaat-hukuku
+title: İnşaat Hukuku
+kanun: tbk
+guz:
+  - eser-insaat
+  - bedel-insaat
+  - ayip-insaat
+  - teslim-insaat
+bahar:
+  - imar-ruhsat-insaat
+  - kacak-yapi
+  - kamulastirma-insaat
+  - kat-karsiligi
+institutions:
+  - id: eser-insaat
+    title: İnşaat eser sözleşmesi
+    maddeler: ['470', '471', '472', '473']
+  - id: bedel-insaat
+    title: Bedel ve fiyat
+    maddeler: ['480', '481', '482']
+  - id: ayip-insaat
+    title: Eserde ayıp
+    maddeler: ['474', '475', '476', '477']
+  - id: teslim-insaat
+    title: Teslim ve sona erme
+    maddeler: ['473', '475', '477', '484']
+  - id: imar-ruhsat-insaat
+    title: Ruhsat ve yapı
+    maddeler: ['20', '21', '32']
+  - id: kacak-yapi
+    title: Ruhsatsız yapı yaptırımı
+    maddeler: ['32', '42']
+  - id: kamulastirma-insaat
+    title: Kamulaştırma ve inşaat arsası
+    maddeler: ['3', '8', '10', '11', '14']
+  - id: kat-karsiligi
+    title: Kat karşılığı inşaat
+    maddeler: ['470', '237']

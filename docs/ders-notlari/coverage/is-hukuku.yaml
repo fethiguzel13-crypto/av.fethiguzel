@@ -1,0 +1,31 @@
+# Denetçi manifesti — İş ve Sosyal Güvenlik Hukuku
+courseCode: is-hukuku
+title: İş ve Sosyal Güvenlik Hukuku
+kanun: is-kanunu
+guz:
+  - is-sozlesmesi
+  - sure-tur
+  - fesih
+bahar:
+  - kidem-ihbar
+  - ucret-sure
+  - is-guvenligi
+institutions:
+  - id: is-sozlesmesi
+    title: İş sözleşmesi ve işçi-işveren
+    maddeler: ['1', '2', '4', '8']
+  - id: sure-tur
+    title: Süre ve tür
+    maddeler: ['11', '12', '13', '14', '15']
+  - id: fesih
+    title: Feshin bildirimi ve geçersizliği
+    maddeler: ['17', '18', '19', '20', '21', '25']
+  - id: kidem-ihbar
+    title: Kıdem ve ihbar
+    maddeler: ['14']
+  - id: ucret-sure
+    title: Ücret ve çalışma süreleri
+    maddeler: ['32', '41', '46', '53', '57']
+  - id: is-guvenligi
+    title: İş sağlığı ve güvenliği
+    maddeler: ['4', '10', '16', '14']

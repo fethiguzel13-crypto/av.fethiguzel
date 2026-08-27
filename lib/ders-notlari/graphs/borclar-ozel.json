@@ -1,0 +1,419 @@
+{
+    "courseCode": "borclar-ozel",
+    "title": "Borçlar Hukuku Özel Hükümler",
+    "kanunId": "tbk",
+    "guzInstitutionIds": [
+        "satim",
+        "bagislama",
+        "kira",
+        "eser"
+    ],
+    "baharInstitutionIds": [
+        "hizmet",
+        "vekalet",
+        "kefalet",
+        "odunc"
+    ],
+    "institutions": [
+        {
+            "id": "satim",
+            "title": "Satış sözleşmesi",
+            "definition": "Satış, satıcının bir malın mülkiyetini alıcıya devir borcu altına girdiği, alıcının da kararlaştırılan bedeli ödediği sözleşmedir. Ayıp ve zapttan sorumluluk ayrı rejimlerdir.",
+            "elements": [
+                "mal (satılan)",
+                "bedel",
+                "mülkiyeti devir borcu",
+                "ayıp bildirimi",
+                "zapt"
+            ],
+            "organicLinks": [
+                "Satış kurulmadan ayıp yazılmaz.",
+                "Taşınmaz satışı şekle bağlıdır; taşınır kural olarak şekilsizdir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "207"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "208"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "209"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "210"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "219"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "223"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "225"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "226"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "227"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "237"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Hâkim görüş satışı tam iki tarafa borç yükleyen sözleşme olarak okur.",
+                "Ayıp ile zapttın yarışması sınav tuzağıdır."
+            ]
+        },
+        {
+            "id": "bagislama",
+            "title": "Bağışlama",
+            "definition": "Bağışlama, kazandıranın malvarlığından karşı tarafa karşılıksız kazandırma yapmayı üstlendiği sözleşmedir. Şekil ve geri alma ayrı kapılardır.",
+            "elements": [
+                "kazandırma iradesi",
+                "karşılıksızlık",
+                "kabul",
+                "şekil (taşınmaz)",
+                "geri alma sebepleri"
+            ],
+            "organicLinks": [
+                "Bağışlama satımın bedelsiz kardeşidir; ayıp rejimi farklıdır.",
+                "Tenkis, miras dersine bağlanır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "285"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "286"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "288"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "290"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "295"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "296"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Öğreti elden bağış ile taahhüt bağışını ayırır.",
+                "Şekil eksikliği taşınmazda butlan doğurur."
+            ]
+        },
+        {
+            "id": "kira",
+            "title": "Kira sözleşmesi",
+            "definition": "Kira, kiraya verenin bir şeyin kullanılmasını veya kullanmayla birlikte semeresini kiracıya bırakmayı, kiracının da kira bedeli ödemeyi üstlendiği sözleşmedir. Konut ve çatılı işyeri ayrı koruma rejimidir.",
+            "elements": [
+                "kiralanan",
+                "kullanımın bırakılması",
+                "kira bedeli",
+                "ayıptan sorumluluk",
+                "konut/çatılı işyeri koruması"
+            ],
+            "organicLinks": [
+                "Kira satım değildir; mülkiyet geçmez.",
+                "Tahliye, 6098 ve 6570 artığı koruma ile birlikte okunur."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "299"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "301"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "316"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "327"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "339"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "347"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "350"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "352"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Konut kirası genel kiranın üstüne binen koruma katmanıdır.",
+                "Bedel tespiti ile tahliye davası karıştırılmaz."
+            ]
+        },
+        {
+            "id": "eser",
+            "title": "Eser sözleşmesi",
+            "definition": "Eser sözleşmesinde yüklenici bir eser meydana getirmeyi, iş sahibi de bedel ödemeyi borçlanır. Ayıp, teslim ve fiyat artırımı ayrı başlıklardır.",
+            "elements": [
+                "eser (sonuç borcu)",
+                "bedel",
+                "yüklenicinin özen borcu",
+                "ayıp bildirimi",
+                "fesih"
+            ],
+            "organicLinks": [
+                "Eser, hizmetten sonuç borcuyla ayrılır.",
+                "Ayıp, satımdaki ayıba benzer ama teslim anı farklıdır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "470"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "471"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "472"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "474"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "475"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "477"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "480"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Sonuç borcu / faaliyet borcu ayrımı sınav klasiklerindendir.",
+                "Yaklaşık bedel ile götürü bedel karıştırılmaz."
+            ]
+        },
+        {
+            "id": "hizmet",
+            "title": "Hizmet sözleşmesi",
+            "definition": "Hizmet sözleşmesinde işçi, işverene bağımlı olarak iş görmeyi, işveren de ücret ödemeyi borçlanır. İş Kanunu ile TBK yan yana durur.",
+            "elements": [
+                "bağımlılık",
+                "iş görme",
+                "ücret",
+                "özen ve sadakat",
+                "fesih"
+            ],
+            "organicLinks": [
+                "Hizmet, vekâletten bağımlılıkla ayrılır.",
+                "İş Kanunu özel hüküm, TBK genel hükümdür."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "393"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "396"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "399"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "417"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "430"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "435"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Bağımlılık unsuru vekâlet tuzaklarını keser.",
+                "Fesih bildirim süreleri İş Kanunu ile birlikte okunur."
+            ]
+        },
+        {
+            "id": "vekalet",
+            "title": "Vekâlet",
+            "definition": "Vekâlet, vekilin vekâlet verenin menfaatine ve iradesine uygun bir iş görmeyi üstlendiği sözleşmedir. Ücret kural değil istisnadır; özen borcu ağırdır.",
+            "elements": [
+                "iş görme",
+                "menfaate uygunluk",
+                "talimata uyma",
+                "özen",
+                "hesap verme"
+            ],
+            "organicLinks": [
+                "Vekâlet temsille karışır; temsil yetkisi ayrı kapıdır.",
+                "Avukatlık sözleşmesi vekâletin özel görünümüdür."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "502"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "506"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "508"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "510"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "512"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "513"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Ücretli vekâlet istisna olmaktan çıkmış uygulamadır; kâğıtta kural hâlâ TBK m.502'dir.",
+                "Özen ölçüsü uzman vekilde ağırlaşır."
+            ]
+        },
+        {
+            "id": "kefalet",
+            "title": "Kefalet",
+            "definition": "Kefalet, kefilin alacaklıya, borçlunun borcunu ifa etmemesinden kişisel olarak sorumlu olmayı üstlendiği sözleşmedir. Şekil ve eşin rızası kurucu olabilir.",
+            "elements": [
+                "asıl borç",
+                "kefilin şahsi sorumluluğu",
+                "yazılı şekil",
+                "azami miktar",
+                "eşin rızası"
+            ],
+            "organicLinks": [
+                "Kefalet rehin değildir; şahsi teminattır.",
+                "Kefalet, asıl borçtan fer'idir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "581"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "582"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "583"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "584"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "589"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "591"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Şekil + azami miktar + eş rızası üçlüsü kâğıdın ilk satırıdır.",
+                "Müteselsil kefalet adi kefaletten ayrılır."
+            ]
+        },
+        {
+            "id": "odunc",
+            "title": "Ödünç (kullanım ve tüketim)",
+            "definition": "Kullanım ödüncü bir şeyin karşılıksız kullanılmak üzere verilmesidir; tüketim ödüncü misli bir şeyin tüketilmek üzere verilip aynı nitelikte geri verilmesidir. Faiz ikinciye özgüdür.",
+            "elements": [
+                "teslim",
+                "kullanım veya tüketim amacı",
+                "geri verme",
+                "faiz (tüketimde)",
+                "özen"
+            ],
+            "organicLinks": [
+                "Ödünç kira değildir; bedelsizlik veya faiz ayrı rejimdir.",
+                "Tüketim ödüncü mülkiyeti geçirir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "379"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "380"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "386"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "387"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "388"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Kullanım / tüketim ayrımı mülkiyet geçişini belirler.",
+                "Faiz kuralı tüketim ödüncüne özgüdür."
+            ]
+        }
+    ]
+}

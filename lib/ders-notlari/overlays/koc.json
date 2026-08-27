@@ -1,0 +1,39 @@
+{
+    "uniSlug": "koc",
+    "calendar": "donemlik",
+    "lang": "tr-en30",
+    "campus": "Rumelifeneri",
+    "cityHook": "Sarıyer'deki bir eser sözleşmesi ve ayıp bildirimi",
+    "mehaz": "Karşılaştırmalı / ABD case usulü; bağlayıcı metin yine TBK'dır",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav + final + ödev/katılım (ders izlencesi). İngilizce kaynak okuma sık.",
+        "format": "Hypo + issue spotting: vakıayı soruna ayır, TBK maddesini bağla, karşılaştırmayı en sonda tut.",
+        "tips": [
+            "Koç kâğıdında İngilizce terim, Türkçe maddenin yerine geçmez.",
+            "Policy cümlesi, unsur ve lafız yazıldıktan sonra gelir.",
+            "Course syllabus bağlayıcıdır."
+        ]
+    },
+    "syllabusOrder": [
+        "sources of obligation",
+        "contract formation",
+        "defects of consent",
+        "performance and breach",
+        "torts",
+        "unjustified enrichment",
+        "prescription"
+    ],
+    "schoolNotes": [
+        "Koç Hukuk, Rumelifeneri kampüsünde karşılaştırmalı ve İngilizce ağırlıklı okur.",
+        "Case/hypo usulü künye uydurmayı serbest bırakmaz.",
+        "TBK resmi lafzı FSEK m. 31 ile serbesttir; slayt değildir."
+    ],
+    "sources": [
+        {
+            "title": "Koç University Law School",
+            "url": "https://law.ku.edu.tr/",
+            "note": "fakülte kimliği"
+        }
+    ]
+}

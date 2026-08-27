@@ -1,0 +1,311 @@
+{
+    "courseCode": "insaat-hukuku",
+    "title": "İnşaat Hukuku",
+    "kanunId": "tbk",
+    "guzInstitutionIds": [
+        "eser-insaat",
+        "bedel-insaat",
+        "ayip-insaat",
+        "teslim-insaat"
+    ],
+    "baharInstitutionIds": [
+        "imar-ruhsat-insaat",
+        "kacak-yapi",
+        "kamulastirma-insaat",
+        "kat-karsiligi"
+    ],
+    "institutions": [
+        {
+            "id": "eser-insaat",
+            "title": "İnşaat eser sözleşmesi",
+            "definition": "Yüklenici bir eseri (yapıyı) meydana getirmeyi, iş sahibi bedel ödemeyi borçlanır. Sonuç borcudur; faaliyet borcu olan hizmetten bu yüzden ayrılır.",
+            "elements": [
+                "eser (sonuç)",
+                "bedel",
+                "yüklenici özeni",
+                "malzeme",
+                "alt yüklenici"
+            ],
+            "organicLinks": [
+                "Eser, satım değildir; henüz var olmayan şey meydana getirilir.",
+                "Arsa payı karşılığı inşaat, eser + taşınmaz temlikinin birleşimidir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "470"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "471"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "472"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "473"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Özen 471, malzeme 472.",
+                "Alt yüklenici, iş sahibini kural olarak bağlamaz."
+            ]
+        },
+        {
+            "id": "bedel-insaat",
+            "title": "Bedel ve fiyat",
+            "definition": "Götürü bedel ile yaklaşık bedel ayrı rejimlerdir. Yaklaşık bedelde aşım, haber verme ve dönme kapısı açar; götürülde artış kural olarak kapanır.",
+            "elements": [
+                "götürü",
+                "yaklaşık",
+                "aşım",
+                "haber verme",
+                "dönme / artış"
+            ],
+            "organicLinks": [
+                "Keşif özeti, bedel türünü tek başına söylemez.",
+                "Ek iş, ayrı bir icap-kabul ister."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "480"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "481"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "482"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Götürü 480, yaklaşık 481.",
+                "İş sahibinin müdahalesi 482 kapısını açabilir."
+            ]
+        },
+        {
+            "id": "ayip-insaat",
+            "title": "Eserde ayıp",
+            "definition": "Teslimden sonra ortaya çıkan ayıp, bildirim ve seçimlik hak rejimine girer. İnşaatta gizli ayıp, kısa süreli açık ayıptan ayrı okunur.",
+            "elements": [
+                "ayıp",
+                "bildirim",
+                "seçimlik hak",
+                "süre",
+                "gizli ayıp"
+            ],
+            "organicLinks": [
+                "Ayıp, temerrüt değildir; teslim olmuş eserde ayıp rejimidir.",
+                "Satımdaki ayıp süreleri bire bir taşınmaz."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "474"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "475"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "476"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "477"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Gözden geçirme 474, haklar 475.",
+                "İş sahibinin ayıba razı olması ayrı vakıadır."
+            ]
+        },
+        {
+            "id": "teslim-insaat",
+            "title": "Teslim ve sona erme",
+            "definition": "Teslim, eserin iş sahibinin fiilî hâkimiyetine bırakılmasıdır. Fesih, imkânsızlık ve iş sahibinin dönmesi ayrı kapılardır.",
+            "elements": [
+                "teslim",
+                "kabul",
+                "fesih",
+                "imkânsızlık",
+                "tazminat"
+            ],
+            "organicLinks": [
+                "Teslim tutanağı yoksa fiilî teslim tartışılır.",
+                "İş sahibi eser tamamlanmadan dönebilir; bedel ve tazminat hesabı değişir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "473"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "475"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "477"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "484"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "İş sahibinin dönmesi 473/2 hattında tartılır.",
+                "Yüklenicinin ölümü kural olarak sözleşmeyi bitirmez; kişisel edimde ayrılır."
+            ]
+        },
+        {
+            "id": "imar-ruhsat-insaat",
+            "title": "Ruhsat ve yapı",
+            "definition": "Yapı ruhsatı olmadan inşaat, idare hukuku yaptırımına girer; özel hukuk eser sözleşmesi ayakta kalsa bile edim hukuka aykırı düşebilir.",
+            "elements": [
+                "plan",
+                "ruhsat",
+                "yapı kullanma",
+                "idari izin",
+                "sözleşme geçerliliği"
+            ],
+            "organicLinks": [
+                "Ruhsatsız inşaat, yükleniciyi iş sahibine karşı her zaman kurtarmaz.",
+                "Kullanma izni, teslimin idari yüzüdür."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "imar",
+                    "maddeNo": "20"
+                },
+                {
+                    "kanunId": "imar",
+                    "maddeNo": "21"
+                },
+                {
+                    "kanunId": "imar",
+                    "maddeNo": "32"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Ruhsat 21, ruhsatsız yapı 32.",
+                "Sözleşme geçerliliği ile idari yaptırım ayrı cümlelerdir."
+            ]
+        },
+        {
+            "id": "kacak-yapi",
+            "title": "Ruhsatsız yapı yaptırımı",
+            "definition": "Ruhsatsız veya ruhsata aykırı yapı mühürlenir; süre içinde yasal hale getirilmezse yıkım gündeme gelir. İdari para cezası ayrıca kesilir.",
+            "elements": [
+                "tespit",
+                "mühür",
+                "yasal hale getirme süresi",
+                "yıkım",
+                "para cezası"
+            ],
+            "organicLinks": [
+                "Mühür sökmek ayrı bir idari/cezaî kapı açar.",
+                "Kaçak kat, kat mülkiyeti kurmaz."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "imar",
+                    "maddeNo": "32"
+                },
+                {
+                    "kanunId": "imar",
+                    "maddeNo": "42"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "32 usul, 42 ceza.",
+                "Yıkım kararı yargıya açıktır; bu derste İYUK ayrıntısı uydurulmaz."
+            ]
+        },
+        {
+            "id": "kamulastirma-insaat",
+            "title": "Kamulaştırma ve inşaat arsası",
+            "definition": "Kamu yararı kararı, arsa üzerindeki inşaatı kesebilir. Bedel, yapı değerini de taşıyabilir; kamulaştırmasız el atma ayrı davadır.",
+            "elements": [
+                "kamu yararı",
+                "bedel",
+                "yapı değeri",
+                "tescil",
+                "el atma"
+            ],
+            "organicLinks": [
+                "Kamulaştırma, eser sözleşmesini imkânsızlık veya ifa etmeme hattına iter.",
+                "Bedel davası, yüklenici-iş sahibi hesabını tek başına çözmez."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "kamulastirma",
+                    "maddeNo": "3"
+                },
+                {
+                    "kanunId": "kamulastirma",
+                    "maddeNo": "8"
+                },
+                {
+                    "kanunId": "kamulastirma",
+                    "maddeNo": "10"
+                },
+                {
+                    "kanunId": "kamulastirma",
+                    "maddeNo": "11"
+                },
+                {
+                    "kanunId": "kamulastirma",
+                    "maddeNo": "14"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Satın alma 8, mahkeme 10.",
+                "Acele kamulaştırma ayrı usuldür."
+            ]
+        },
+        {
+            "id": "kat-karsiligi",
+            "title": "Kat karşılığı inşaat",
+            "definition": "Arsa sahibi pay temlikini, yüklenici bağımsız bölüm teslimini borçlanır. Bu, eser ile taşınmaz temlikinin birleşimidir; tapu şekli kurucudur.",
+            "elements": [
+                "arsa payı",
+                "bağımsız bölüm",
+                "tescil",
+                "temerrüt",
+                "dönme"
+            ],
+            "organicLinks": [
+                "Kat karşılığı bağış değildir.",
+                "Şekil eksikliği, inşaat ilerlemiş olsa da butlan tartışması açar."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "470"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "237"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Eser 470, taşınmaz satışı şekli 237.",
+                "TMK tapu hükümleri eşya dersine gönderilir; burada şekil ve temerrüt yazılır."
+            ]
+        }
+    ]
+}

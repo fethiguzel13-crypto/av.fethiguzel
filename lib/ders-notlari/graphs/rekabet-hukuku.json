@@ -1,0 +1,295 @@
+{
+    "courseCode": "rekabet-hukuku",
+    "title": "Rekabet Hukuku",
+    "kanunId": "rkhk",
+    "guzInstitutionIds": [
+        "anlasma",
+        "hakim-durum",
+        "yogunlasma",
+        "tesebbus-rekabet"
+    ],
+    "baharInstitutionIds": [
+        "kurul",
+        "ceza-rekabet",
+        "muafiyet",
+        "sorusturma-rekabet"
+    ],
+    "institutions": [
+        {
+            "id": "tesebbus-rekabet",
+            "title": "Teşebbüs ve ilgili pazar",
+            "definition": "Teşebbüs, piyasada mal veya hizmet üreten, pazarlayan gerçek veya tüzel kişidir. İlgili pazar, rekabet analizinin coğrafi ve ürün eksenidir.",
+            "elements": [
+                "iktisadi birim",
+                "mal veya hizmet",
+                "ürün pazarı",
+                "coğrafi pazar"
+            ],
+            "organicLinks": [
+                "Teşebbüs, şirket tüzel kişiliğinden geniş olabilir.",
+                "Pazar tanımı olmadan hâkim durum yazılmaz."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "1"
+                },
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "2"
+                },
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "3"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Tanım, rekabet ihlalinin öznesini belirler.",
+                "Tek malzeme pazarı dar çizilirse hâkim durum kolay çıkar."
+            ]
+        },
+        {
+            "id": "anlasma",
+            "title": "Rekabeti sınırlayan anlaşmalar",
+            "definition": "Teşebbüsler arası anlaşma, uyumlu eylem ve teşebbüs birliği kararı, mal veya hizmet piyasasında rekabeti doğrudan veya dolaylı olarak engelleyemez, bozamaz, kısıtlayamaz.",
+            "elements": [
+                "anlaşma / uyumlu eylem",
+                "teşebbüs",
+                "rekabeti kısıtlama",
+                "amaç veya etki"
+            ],
+            "organicLinks": [
+                "Kartel, 4. maddenin ağır görünümüdür.",
+                "Dikey anlaşma da girebilir; muafiyet ayrı kapıdır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "4"
+                },
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "5"
+                },
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "8"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Amaç karteli, etki araştırmasını hafifletir.",
+                "Muafiyet 5, grup veya bireysel olabilir."
+            ]
+        },
+        {
+            "id": "hakim-durum",
+            "title": "Hâkim durumun kötüye kullanılması",
+            "definition": "Bir veya birden fazla teşebbüsün ülkenin bütününde veya bir bölümünde hâkim durumunu kötüye kullanması hukuka aykırıdır. Aşırı fiyat, mal vermeyi reddetme ve yıkıcı fiyat örneklerdendir.",
+            "elements": [
+                "hâkim durum",
+                "ilgili pazar",
+                "kötüye kullanma",
+                "etki"
+            ],
+            "organicLinks": [
+                "Hâkim olmak yasak değildir; kötüye kullanmak yasaktır.",
+                "Pazar tanımı, paylaşımın ön şartıdır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "6"
+                },
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "9"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Kötüye kullanma örnekleri 6'da sayılır, sınırlı değildir.",
+                "Kolektif hâkim durum da tartışılır."
+            ]
+        },
+        {
+            "id": "yogunlasma",
+            "title": "Yoğunlaşma (birleşme ve devralma)",
+            "definition": "Belirli eşiği aşan birleşme ve devralmalar Kurul iznine tabidir. İzin verilmeyen işlem hukuki geçerlilik kazanamaz.",
+            "elements": [
+                "eşik",
+                "bildirim",
+                "izin",
+                "askı"
+            ],
+            "organicLinks": [
+                "Eşik altı işlem serbesttir; eşik üstü bekleticidir.",
+                "Yaratılan hâkim durum, izni engelleyebilir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "7"
+                },
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "10"
+                },
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "11"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Bildirim, kapanıştan önce yapılır.",
+                "Kurul süreye bağlı karar verir."
+            ]
+        },
+        {
+            "id": "muafiyet",
+            "title": "Muafiyet",
+            "definition": "Anlaşma, tüketicilere fayda sağlıyor, rekabeti zorunlu olandan fazla kısıtlamıyor ve ilgili pazarda rekabeti ortadan kaldırmıyorsa muaf tutulabilir. Grup muafiyeti tebliğlerle yürür.",
+            "elements": [
+                "tüketici faydası",
+                "ölçülülük",
+                "rekabetin ortadan kalkmaması",
+                "grup muafiyeti"
+            ],
+            "organicLinks": [
+                "Muafiyet, 4. maddenin istisnasıdır.",
+                "Geri alma, şartlar değişince işler."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "5"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Bireysel muafiyet başvurusu Kurula yapılır.",
+                "Grup muafiyeti otomatik işleyebilir."
+            ]
+        },
+        {
+            "id": "sorusturma-rekabet",
+            "title": "Soruşturma usulü",
+            "definition": "Kurul, önaraştırma ve soruşturma ile delil toplar. Savunma hakkı, yerinde inceleme ve bilgi isteme yetkileri kanundadır.",
+            "elements": [
+                "önaraştırma",
+                "soruşturma",
+                "yerinde inceleme",
+                "savunma"
+            ],
+            "organicLinks": [
+                "Yerinde inceleme, ceza aramasından ayrı idari yetkidir.",
+                "Savunma süresi kaçınca karar dosya üzerinden verilebilir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "14"
+                },
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "15"
+                },
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "40"
+                },
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "41"
+                },
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "42"
+                },
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "43"
+                },
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "44"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Önaraştırma, soruşturma açılıp açılmayacağını tarar.",
+                "Delile erişim, savunmanın ön şartıdır."
+            ]
+        },
+        {
+            "id": "kurul",
+            "title": "Rekabet Kurulu",
+            "definition": "Kurul, soruşturma, geçici tedbir ve ceza yetkisini kullanan idari organdır. Kararlar yargı denetimine açıktır.",
+            "elements": [
+                "soruşturma",
+                "savunma hakkı",
+                "geçici tedbir",
+                "karar"
+            ],
+            "organicLinks": [
+                "Kurul mahkeme değildir; idari cezadır.",
+                "Yargı, idari yargıdır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "9"
+                },
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "16"
+                },
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "20"
+                },
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "27"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Geçici tedbir, soruşturma bitmeden zarar durdurur.",
+                "Karar gerekçeli yazılır."
+            ]
+        },
+        {
+            "id": "ceza-rekabet",
+            "title": "İdari para cezası",
+            "definition": "Kurul, ciro üzerinden idari para cezası kesebilir. Pişmanlık, kartelde cezayı kaldırabilir veya indirebilir. Yöneticilere ayrı ceza öngörülebilir.",
+            "elements": [
+                "ciro esası",
+                "pişmanlık",
+                "yönetici cezası",
+                "zamanaşımı"
+            ],
+            "organicLinks": [
+                "Ceza, TCK anlamında suç cezası değildir.",
+                "Pişmanlık, delil getirmeye bağlıdır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "16"
+                },
+                {
+                    "kanunId": "rkhk",
+                    "maddeNo": "17"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Üst sınır ciroya bağlıdır.",
+                "Tekerrür ağırlaştırır."
+            ]
+        }
+    ]
+}

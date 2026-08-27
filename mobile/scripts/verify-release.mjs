@@ -161,6 +161,38 @@ function checkFlavor(app) {
   }
   ok(`${label} şifresiz karar metni ve kasa anahtarı pakette değil`);
 
+  /*
+    Hiçbir varlık `.gz` ile bitmemeli.
+
+    Android'in paketleme aracı (aapt2), `assets/` altında `.gz` ile biten her
+    dosyayı AAB oluştururken AÇAR ve uzantıyı siler: `packs/tbk.json.gz`
+    pakete `packs/tbk.json` olarak girer. Uygulama `.gz` adresini istediği
+    için mevzuat, rehber, atıf haritası ve arşiv «yüklenemedi» veriyordu.
+
+    Kusur YALNIZ gerçek cihazda görünür — tarayıcıda dosyalar `www`'den
+    olduğu gibi sunulduğu için her ekran çalışır. Bir sürüm bu hatayla
+    dahili teste çıktı; bu denetim onun tekrarını engeller.
+
+    Doğru uzantı `.gzc` (bkz. app-src/src/lib/varlik.ts → GZ).
+  */
+  const gzKalanlar = [];
+  const tara = (dizin, onek = '') => {
+    for (const oge of readdirSync(dizin, { withFileTypes: true })) {
+      const goreli = onek ? `${onek}/${oge.name}` : oge.name;
+      if (oge.isDirectory()) tara(join(dizin, oge.name), goreli);
+      else if (oge.name.endsWith('.gz')) gzKalanlar.push(goreli);
+    }
+  };
+  tara(www);
+  if (gzKalanlar.length) {
+    fail(
+      `${label} ${gzKalanlar.length} varlık .gz uzantısı taşıyor — aapt2 bunları ` +
+        `açıp uzantıyı siler, uygulama dosyayı bulamaz. Örnek: ${gzKalanlar[0]}`
+    );
+  } else {
+    ok(`${label} sıkıştırılmış varlıklar aapt2-güvenli uzantıda (.gz yok)`);
+  }
+
   // Sürüm
   const meta = existsSync(join(dir, 'meta.json'))
     ? JSON.parse(readFileSync(join(dir, 'meta.json'), 'utf8'))
@@ -200,16 +232,16 @@ const ASSET_SENTINELS = {
   // ve tek tuş saniyelere çıkar. Sessiz bozulma olduğu için denetlenir.
   icthat: [
     'icthat/seed.json',
-    'icthat/archive.json.gz',
-    'icthat/arama.txt.gz',
+    'icthat/archive.json.gzc',
+    'icthat/arama.txt.gzc',
     'icthat/kasa/manifest.json',
   ],
-  rehber: ['rehber/guides.json.gz'],
+  rehber: ['rehber/guides.json.gzc'],
   // Madde → karar ters indeksi. Eksikse mevzuat açılır ama «bu maddeye atıf
   // yapan kararlar» hiç görünmez; kullanıcıya hiçbir hata çıkmaz.
-  mevzuat: ['mevzuat/atif.json.gz'],
+  mevzuat: ['mevzuat/atif.json.gzc'],
   // Akademik eserlerin tam metni
-  kutuphane: ['kutuphane/eserler.json.gz'],
+  kutuphane: ['kutuphane/eserler.json.gzc'],
 };
 
 function expectedAssets(id) {

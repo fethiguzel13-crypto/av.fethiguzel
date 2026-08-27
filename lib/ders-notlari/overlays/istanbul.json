@@ -1,0 +1,43 @@
+{
+    "uniSlug": "istanbul",
+    "calendar": "yillik",
+    "lang": "tr",
+    "campus": "Beyazıt",
+    "cityHook": "Beyazıt'taki bir dükkân devri ve icap-kabul uyuşmazlığı",
+    "mehaz": "İstanbul ekolü; Oğuzman/Öz hattı izlencelerde anılır, sayfa uydurulmaz",
+    "examBox": {
+        "calendar": "yillik",
+        "typicalWeights": "Yıllık zorunlu ders (HUKK2074, 12 AKTS); ara sınav + klasik final. Oran dönem ilanına bağlıdır.",
+        "format": "Uzun yazılı: kurumun adı, TBK maddesi, unsur, Yargıtay cümlesi (künye varsa). Amfi usulü.",
+        "tips": [
+            "Beyazıt kâğıdında ilk cümle kaynağı (sözleşme / haksız fiil / sebepsiz zenginleşme) söyler.",
+            "Borçlar genel yıllık derstir; Güz paketi vize, yıllık paket final omurgasına daha yakındır.",
+            "EBS ve öğretim elemanı duyurusu bağlayıcıdır."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı",
+        "alacağın devri ve borcun üstlenilmesi"
+    ],
+    "schoolNotes": [
+        "İÜHF borçlar genel, EBS'te yıllık zorunlu derstir (HUKK2074).",
+        "Beyazıt geleneği şerh ve (künye varsa) içtihat satırı bekler; slayt cümlesi alınmaz.",
+        "Amfi dersi pratik çalışmayla pekiştirilir; kâğıtta lafız önce gelir."
+    ],
+    "sources": [
+        {
+            "title": "İÜ EBS Hukuk lisans müfredatı",
+            "url": "https://ebs.istanbul.edu.tr/home/dersprogram?id=1117",
+            "note": "HUKK2074 yıllık borçlar genel; başlık omurgası"
+        },
+        {
+            "title": "İÜHF 2024-2025 güz ders programı",
+            "url": "https://cdn.istanbul.edu.tr/FileHandler2.ashx?f=2024-2025-ogretim-yili--guz-yariyili-ders--programi.pdf",
+            "note": "ders adı ve amfi; slayt yok"
+        }
+    ]
+}

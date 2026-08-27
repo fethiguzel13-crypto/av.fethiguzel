@@ -79,7 +79,7 @@ async function callGeminiOnce(model, { system, user, maxTokens }) {
 
 async function callGemini({ system, user, maxTokens }) {
     const models = [
-        process.env.SOCIAL_GEMINI_MODEL || 'gemini-flash-lite-latest',
+        process.env.GEMINI_NOTE_MODEL || process.env.SOCIAL_GEMINI_MODEL || 'gemini-flash-lite-latest',
         'gemini-flash-lite-latest',
         'gemini-2.0-flash-lite',
         'gemini-2.0-flash',

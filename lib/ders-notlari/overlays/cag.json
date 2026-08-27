@@ -1,0 +1,37 @@
+{
+    "uniSlug": "cag",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Yenice / Tarsus",
+    "cityHook": "Tarsus'taki bir narenciye bahçesi kira ve ürün",
+    "mehaz": "Çağ vakıf fakültesi; TBK kira lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / dönem ilanı).",
+        "format": "Klasik yazılı: madde + unsur + vakıaya yedirme. Oran dönem ilanına bağlıdır.",
+        "tips": [
+            "Çağ kâğıdında ürün kirasını adî kiradan ayırın.",
+            "Çağ kâğıdında ilk cümle kurumu adlandırır; slogan yetmez.",
+            "Öğretim elemanı duyurusu ve OBS bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "Çağ Üniversitesi Hukuk Fakültesi, Mersin merkezli bir vakıf fakültesidir Eğitim dili Türkçedir.",
+        "Yenice / Tarsus usulü: kaynak ve lafız önce, slayt cümlesi yok.",
+        "Bu örtü kamuya açık kimlik sayfasından üretilmiştir; amfi notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "Çağ Hukuk Fakültesi",
+            "url": "https://www.cag.edu.tr/tr/hukuk-fakultesi",
+            "note": "fakülte kimliği; slayt ve amfi notu yok"
+        }
+    ]
+}

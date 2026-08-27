@@ -1,0 +1,44 @@
+{
+    "uniSlug": "galatasaray",
+    "calendar": "donemlik",
+    "lang": "fr",
+    "campus": "Ortaköy",
+    "cityHook": "Ortaköy'deki bir kira sözleşmesi ve Code civil karşılaştırması",
+    "mehaz": "Fransız Code civil ve İsviçre BOR; kâğıtta Türkçe TBK lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "HUK222 Borçlar Genel II ara sınav + final; devam zorunluluğu vardır. AKTS dönem başına 28–30.",
+        "format": "Klasik yazılı; Fransızca hukuk terimi izlencede geçer, Türkçe kâğıtta TBK maddesi yazılır.",
+        "tips": [
+            "GSÜ kâğıdında mehaz karşılaştırması süs değil, TBK lafzını aydınlatmak içindir.",
+            "HUK222 bahar, HUK321 özel hükümler ayrı derstir; genel ile özeli karıştırmayın.",
+            "Galatasaray Eğitim-Öğretim ve Sınav Yönetmeliği bağlayıcıdır."
+        ]
+    },
+    "syllabusOrder": [
+        "borç ilişkisi ve kaynaklar",
+        "sözleşmenin kurulması",
+        "irade sakatlıkları",
+        "ifa",
+        "temerrüt ve imkânsızlık",
+        "haksız fiil",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "GSÜ lisans dört yıl, iki yarıyıllık dönemlerden oluşur; ilk dört yarıyıl zorunludur.",
+        "Mesleki Fransızca dört yıl sürer; borçlar dersi Türkçe okutulur, mehaz Fransız etkisindedir.",
+        "HUK222 Borçlar Genel II 2025-2026 bahar ara sınav programında ayrı kod olarak durur."
+    ],
+    "sources": [
+        {
+            "title": "GSÜ Hukuk aday öğrenci — lisans yapısı",
+            "url": "https://hukuk.gsu.edu.tr/tr/aday-ogrenci",
+            "note": "dönemlik yapı, devam, 240 AKTS"
+        },
+        {
+            "title": "GSÜ AKTS — Borçlar Özel I konu başlıkları",
+            "url": "https://ects.gsu.edu.tr/tr/program/coursedetails/10550",
+            "note": "özel hükümler omurgası; genel dersten ayrı"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "uniSlug": "pamukkale",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Kınıklı",
+    "cityHook": "Pamukkale'deki bir turizm tesisi kirası ve tahliye",
+    "mehaz": "PAÜ devlet fakültesi; TBK konut/çatılı işyeri koruması",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / dönem ilanı).",
+        "format": "Klasik yazılı: madde + unsur + vakıaya yedirme. Oran dönem ilanına bağlıdır.",
+        "tips": [
+            "PAÜ kâğıdında konut kirası ile genel kirayı ayırın.",
+            "PAÜ kâğıdında ilk cümle kurumu adlandırır; slogan yetmez.",
+            "Öğretim elemanı duyurusu ve OBS bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "Pamukkale Üniversitesi Hukuk Fakültesi, Denizli merkezli bir devlet fakültesidir Eğitim dili Türkçedir.",
+        "Kınıklı usulü: kaynak ve lafız önce, slayt cümlesi yok.",
+        "Bu örtü kamuya açık kimlik sayfasından üretilmiştir; amfi notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "PAÜ Hukuk Fakültesi",
+            "url": "https://www.pau.edu.tr/hukuk",
+            "note": "fakülte kimliği; slayt ve amfi notu yok"
+        }
+    ]
+}

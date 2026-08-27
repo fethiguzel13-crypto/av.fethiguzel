@@ -1,0 +1,31 @@
+# Denetçi manifesti — Ceza Muhakemesi Hukuku
+courseCode: ceza-muhakemesi
+title: Ceza Muhakemesi Hukuku
+kanun: cmk
+guz:
+  - sorusturma
+  - koruma
+  - ifade-sorgu
+bahar:
+  - kovusturma
+  - delil-cmk
+  - hukum-yol
+institutions:
+  - id: sorusturma
+    title: Soruşturma
+    maddeler: ['2', '160', '161', '170', '171', '172', '173']
+  - id: koruma
+    title: Koruma tedbirleri
+    maddeler: ['90', '91', '100', '101', '109', '116', '119']
+  - id: ifade-sorgu
+    title: İfade ve sorgu
+    maddeler: ['147', '148', '149', '150', '154']
+  - id: kovusturma
+    title: Kovuşturma ve duruşma
+    maddeler: ['175', '176', '191', '193', '206', '216']
+  - id: delil-cmk
+    title: Delil ve yasaklar
+    maddeler: ['206', '217', '62', '63']
+  - id: hukum-yol
+    title: Hüküm ve kanun yolları
+    maddeler: ['223', '230', '231', '272', '286']

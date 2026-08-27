@@ -20,6 +20,7 @@
  * ait olduğu anlaşılmalı.
  */
 import sharp from 'sharp';
+import { FG_PATH, FG_TRANSFORM, DISK_R } from '../../lib/marka-fg.mjs';
 import { mkdirSync, writeFileSync, existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -35,8 +36,48 @@ mkdirSync(outDir, { recursive: true });
 
 const CREAM = '#F2F0E9';
 
+/*
+  Simgenin ZEMİNİ ile İŞARETİ ayrı rollerdir.
+
+  Önceki sürümde zemin her zaman `accent`, işaret her zaman krem'di. Asistan
+  uygulamasının vurgu rengi turuncuya çevrilince simge de baştan sona turuncu
+  bir kareye dönüştü — oysa sitenin dili kömür siyahı zemin üstünde turuncu
+  bir dairedir.
+
+  `chrome` tanımlıysa: zemin kömür, işaret vurgu rengi.
+  Tanımlı değilse eski davranış korunur (zemin vurgu, işaret krem).
+*/
+const zeminRengi = (app) => app.chrome || app.accent;
+const isaretRengi = (app) => (app.chrome ? app.accent : CREAM);
+
 /** Her uygulamanın işareti — 512×512 kutu içinde, SVG parçası olarak. */
 const MARKS = {
+  /*
+    Birleşik uygulama: «FG» mührü — Av. Fethi Güzel'in baş harfleri.
+
+    Önce § (paragraf işareti), sonra terazi ikonu denendi. İkisi de elendi:
+    § küçük boyutta harf gibi değil belirsiz bir kıvrım gibi okunuyordu,
+    terazi ise her hukuk uygulamasında bulunan stok bir simge ve kimseyi
+    işaret etmiyordu. Marka, kişinin ADI olmalı.
+
+    Dolu disk + oyuk harf düzeni mühür geleneğine yaslanır ve sitenin
+    gezinme çubuğundaki turuncu daire + işaret düzeniyle aynı dili konuşur.
+    Ölçüldü: bu düzen 28 pikselde bile okunur kalan tek varyanttı; halkalı
+    ve yalın varyantlarda harfler o boyutta çamurlaşıyordu.
+
+    Çizim ortak kaynaktan gelir (lib/marka-fg.mjs) — site ve uygulama aynı
+    dosyayı okur, ikisi ayrışamaz.
+  */
+  asistan: (c) => `
+    <defs>
+      <mask id="fgmuhur">
+        <rect width="512" height="512" fill="black"/>
+        <circle cx="256" cy="256" r="${DISK_R}" fill="white"/>
+        <g transform="${FG_TRANSFORM}"><path d="${FG_PATH}" fill="black"/></g>
+      </mask>
+    </defs>
+    <rect width="512" height="512" fill="${c}" mask="url(#fgmuhur)"/>`,
+
   // Mevzuat: paragraf işareti, altında sayfa çizgileri
   portal: (c) => `
     <text x="256" y="300" font-family="Georgia,serif" font-size="270" font-weight="700"
@@ -76,9 +117,9 @@ const MARKS = {
 function iconSvg(app, size) {
   const mark = MARKS[app.id] ?? MARKS.portal;
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}" viewBox="0 0 512 512">
-  <rect width="512" height="512" fill="${app.accent}"/>
+  <rect width="512" height="512" fill="${zeminRengi(app)}"/>
   <circle cx="256" cy="256" r="300" fill="#FFFFFF" opacity="0.05"/>
-  ${mark(CREAM)}
+  ${mark(isaretRengi(app))}
 </svg>`;
 }
 
@@ -87,7 +128,7 @@ function foregroundSvg(app) {
   const mark = MARKS[app.id] ?? MARKS.portal;
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 512 512">
   <g transform="translate(256 256) scale(0.68) translate(-256 -256)">
-    ${mark(CREAM)}
+    ${mark(isaretRengi(app))}
   </g>
 </svg>`;
 }
@@ -109,14 +150,14 @@ function featureSvg(app, lang = 'tr') {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="500" viewBox="0 0 1024 500">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="${app.accent}"/>
-      <stop offset="100%" stop-color="${shade(app.accent, -0.35)}"/>
+      <stop offset="0%" stop-color="${zeminRengi(app)}"/>
+      <stop offset="100%" stop-color="${shade(zeminRengi(app), -0.35)}"/>
     </linearGradient>
   </defs>
   <rect width="1024" height="500" fill="url(#g)"/>
   <circle cx="880" cy="80" r="260" fill="#FFFFFF" opacity="0.05"/>
   <g transform="translate(96 106) scale(0.56)">
-    ${mark(CREAM)}
+    ${mark(isaretRengi(app))}
   </g>
   <text x="360" y="228" font-family="Segoe UI,Roboto,Helvetica,Arial,sans-serif"
         font-size="62" font-weight="700" fill="${CREAM}">${esc(name)}</text>
@@ -130,9 +171,9 @@ function featureSvg(app, lang = 'tr') {
 function splashSvg(app) {
   const mark = MARKS[app.id] ?? MARKS.portal;
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
-  <rect width="1080" height="1920" fill="${app.accent}"/>
+  <rect width="1080" height="1920" fill="${zeminRengi(app)}"/>
   <g transform="translate(284 704) scale(1.0)">
-    ${mark(CREAM)}
+    ${mark(isaretRengi(app))}
   </g>
 </svg>`;
 }

@@ -1,0 +1,37 @@
+{
+    "uniSlug": "aydin",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Florya",
+    "cityHook": "Küçükçekmece göl kenarındaki bir imar ve kira uyuşmazlığı",
+    "mehaz": "İAÜ vakıf fakültesi; TBK/İmarK lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / dönem ilanı).",
+        "format": "Klasik yazılı: madde + unsur + vakıaya yedirme. Oran dönem ilanına bağlıdır.",
+        "tips": [
+            "Aydın kâğıdında imar ile kira rejimini ayırın.",
+            "İAÜ kâğıdında ilk cümle kurumu adlandırır; slogan yetmez.",
+            "Öğretim elemanı duyurusu ve OBS bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "İstanbul Aydın Üniversitesi Hukuk Fakültesi, İstanbul merkezli bir vakıf fakültesidir Eğitim dili Türkçedir.",
+        "Florya usulü: kaynak ve lafız önce, slayt cümlesi yok.",
+        "Bu örtü kamuya açık kimlik sayfasından üretilmiştir; amfi notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "İAÜ Hukuk Fakültesi",
+            "url": "https://www.aydin.edu.tr/tr-tr/akademik/fakulteler/hukuk",
+            "note": "fakülte kimliği; slayt ve amfi notu yok"
+        }
+    ]
+}

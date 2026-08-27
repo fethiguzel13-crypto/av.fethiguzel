@@ -3,8 +3,6 @@ import path from 'node:path';
 import type { CourseNote, UniHubContent, LawUniversity } from './types';
 import { LAW_UNIVERSITIES, getActiveUniversities, getUniversityBySlug } from './universiteler';
 import { CURRICULUM, getCoreCourses, getCourseByCode } from './mufredat';
-import hubsJson from './generated/hubs.json';
-import indexJson from './generated/index.json';
 
 export type {
   CourseNote,
@@ -15,11 +13,20 @@ export type {
   NoteSection,
   NoteExample,
   NoteKart,
+  NoteMcq,
+  NoteFlashcard,
+  NoteMermaid,
+  NoteTopic,
+  NoteExamBox,
+  FsekMeta,
+  CourseGraph,
+  GraphInstitution,
+  FacultyOverlay,
 } from './types';
 export { LAW_UNIVERSITIES, getActiveUniversities, getUniversityBySlug } from './universiteler';
 export { CURRICULUM, getCoreCourses, getCourseByCode } from './mufredat';
 
-export const DERS_NOTLARI_INDEX = indexJson as {
+type DersNotlariIndex = {
   generatedAt: string;
   wave: string;
   universityCount: number;
@@ -29,7 +36,22 @@ export const DERS_NOTLARI_INDEX = indexJson as {
   notes: { uniSlug: string; courseCode: string; slug: string; title: string; href: string }[];
 };
 
-export const DERS_NOTLARI_HUBS = hubsJson as UniHubContent[];
+function generatedPath(file: string): string {
+  return path.join(
+    /* turbopackIgnore: true */ process.cwd(),
+    'lib',
+    'ders-notlari',
+    'generated',
+    file
+  );
+}
+
+function readGenerated<T>(file: string): T {
+  return JSON.parse(fs.readFileSync(generatedPath(file), 'utf8')) as T;
+}
+
+export const DERS_NOTLARI_INDEX: DersNotlariIndex = readGenerated('index.json');
+export const DERS_NOTLARI_HUBS: UniHubContent[] = readGenerated('hubs.json');
 
 /**
  * Monolit notes.json import edilmez.
@@ -107,7 +129,29 @@ export function resolveNoteCourseCode(uniSlug: string, courseCode: string): stri
 }
 
 export function getHub(uniSlug: string): UniHubContent | undefined {
-  return DERS_NOTLARI_HUBS.find((h) => h.uni.slug === uniSlug);
+  const slug = sanitizeSlug(uniSlug);
+  const fromFile = DERS_NOTLARI_HUBS.find((h) => h.uni.slug === slug);
+  if (fromFile) return fromFile;
+  const uni = getUniversityBySlug(slug);
+  if (!uni) return undefined;
+  const notes = DERS_NOTLARI_INDEX.notes.filter((n) => n.uniSlug === slug);
+  return {
+    uni,
+    title: `${uni.shortName} Hukuk Ders Notları (Ücretsiz PDF) | ${uni.city}`,
+    description: `${uni.name} öğrencileri için kaynaklı hukuk ders notları.`,
+    h1: `${uni.shortName} Hukuk Fakültesi Ders Notları`,
+    lead: `${uni.name} (${uni.city}) öğrencileri için slayt kopyası olmayan, kanonik graf + fakülte örtüsünden üretilmiş notlar.`,
+    courses: notes.map((n) => ({
+      code: n.courseCode,
+      title: n.title,
+      year: 2,
+      href: n.href,
+      ready: true,
+    })),
+    seoParagraphs: [],
+    faq: [],
+    updated: new Date().toISOString().slice(0, 10),
+  };
 }
 
 export function getNote(uniSlug: string, courseCode: string): CourseNote | undefined {

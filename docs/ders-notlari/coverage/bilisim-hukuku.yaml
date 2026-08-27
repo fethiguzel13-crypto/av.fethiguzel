@@ -1,0 +1,39 @@
+# Denetçi manifesti — Bilişim Hukuku
+courseCode: bilisim-hukuku
+title: Bilişim Hukuku
+kanun: kvkk
+guz:
+  - veri-isleme
+  - hukuka-uygunluk-kvk
+  - ozel-nitelikli
+  - aktarim
+bahar:
+  - ilgili-kisi
+  - sorumlu
+  - kurul-kvk
+  - istisna-kvk
+institutions:
+  - id: veri-isleme
+    title: Kişisel veri ve işleme
+    maddeler: ['3', '2']
+  - id: hukuka-uygunluk-kvk
+    title: İşlemenin hukuka uygunluğu
+    maddeler: ['4', '5']
+  - id: aktarim
+    title: Aktarım
+    maddeler: ['8', '9']
+  - id: ozel-nitelikli
+    title: Özel nitelikli kişisel veri
+    maddeler: ['6']
+  - id: ilgili-kisi
+    title: İlgili kişinin hakları
+    maddeler: ['11', '13', '14']
+  - id: sorumlu
+    title: Veri sorumlusu ve aydınlatma
+    maddeler: ['10', '12', '16']
+  - id: istisna-kvk
+    title: İstisnalar
+    maddeler: ['28']
+  - id: kurul-kvk
+    title: Kurul ve yaptırım
+    maddeler: ['15', '18']

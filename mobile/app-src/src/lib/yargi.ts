@@ -3,6 +3,7 @@ import { gunzipSync, strFromU8 } from 'fflate';
 import { kasaVarMi, kasadanCoz } from './kasa';
 import { kararGovdesi } from './metin';
 import { erisimVar } from './uyelik';
+import { GZ } from './varlik';
 
 /**
  * Yargıtay arşivi — indeks + parça parça tam metin.
@@ -95,7 +96,7 @@ export function shardOf(id: string): number {
 }
 
 function shardName(n: number): string {
-  return `s${String(n).padStart(2, '0')}.json.gz`;
+  return `s${String(n).padStart(2, '0')}.json${GZ}`;
 }
 
 /**
@@ -139,7 +140,7 @@ let archiveInflight: Promise<ArchiveRow[]> | null = null;
 export function loadArchive(): Promise<ArchiveRow[]> {
   if (archiveCache) return Promise.resolve(archiveCache);
   if (archiveInflight) return archiveInflight;
-  archiveInflight = gunzipJson<ArchiveRow[]>('./icthat/archive.json.gz')
+  archiveInflight = gunzipJson<ArchiveRow[]>(`./icthat/archive.json${GZ}`)
     .then((rows) => {
       archiveCache = Array.isArray(rows) ? rows : [];
       return archiveCache;
@@ -269,7 +270,7 @@ export function foldHazirMi(): boolean {
 export function loadFoldIndex(): Promise<string[]> {
   if (foldCache) return Promise.resolve(foldCache);
   if (foldInflight) return foldInflight;
-  foldInflight = gunzipText('./icthat/arama.txt.gz')
+  foldInflight = gunzipText(`./icthat/arama.txt${GZ}`)
     .then((metin) => metin.split('\n'))
     .then((satirlar) => {
       foldCache = satirlar;

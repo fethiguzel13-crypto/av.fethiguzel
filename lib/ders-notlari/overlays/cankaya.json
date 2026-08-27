@@ -1,0 +1,37 @@
+{
+    "uniSlug": "cankaya",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Yukarıyurtçu / Etimesgut",
+    "cityHook": "Etimesgut'taki bir konut kooperatifi ve tapu tescili",
+    "mehaz": "Çankaya vakıf fakültesi; TMK tapu lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / dönem ilanı).",
+        "format": "Klasik yazılı: madde + unsur + vakıaya yedirme. Oran dönem ilanına bağlıdır.",
+        "tips": [
+            "Çankaya kâğıdında tescil kuralını istisnalarla yazın.",
+            "Çankaya kâğıdında ilk cümle kurumu adlandırır; slogan yetmez.",
+            "Öğretim elemanı duyurusu ve OBS bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "Çankaya Üniversitesi Hukuk Fakültesi, Ankara merkezli bir vakıf fakültesidir Eğitim dili Türkçedir.",
+        "Yukarıyurtçu / Etimesgut usulü: kaynak ve lafız önce, slayt cümlesi yok.",
+        "Bu örtü kamuya açık kimlik sayfasından üretilmiştir; amfi notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "Çankaya Hukuk Fakültesi",
+            "url": "https://hukuk.cankaya.edu.tr/",
+            "note": "fakülte kimliği; slayt ve amfi notu yok"
+        }
+    ]
+}

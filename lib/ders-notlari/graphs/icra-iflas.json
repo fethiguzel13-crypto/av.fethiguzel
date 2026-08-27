@@ -1,0 +1,363 @@
+{
+    "courseCode": "icra-iflas",
+    "title": "İcra ve İflas Hukuku",
+    "kanunId": "iik",
+    "guzInstitutionIds": [
+        "ilamli",
+        "ilamsiz",
+        "itiraz",
+        "haciz"
+    ],
+    "baharInstitutionIds": [
+        "istihkak",
+        "satis",
+        "sira-cetveli",
+        "iflas"
+    ],
+    "institutions": [
+        {
+            "id": "ilamli",
+            "title": "İlamlı icra",
+            "definition": "İlamlı icra, mahkeme ilamı veya ilam niteliğindeki belgelere dayanan takip yoludur. İcra emri tebliğ edilir; itiraz sınırlıdır.",
+            "elements": [
+                "ilam veya ilam niteliği",
+                "icra emri",
+                "yedı günlük süre",
+                "itirazın darlığı",
+                "zamanaşımı def'i"
+            ],
+            "organicLinks": [
+                "İlamlı takip, ilamsızdan belgeyle ayrılır.",
+                "Zamanaşımı 33/a ile icranın geri bırakılmasına gider."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "24"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "25"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "30"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "32"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "33"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Para ve teminat dışındaki ilamlar 24-31 hattındadır.",
+                "İlamlı itiraz, ilamsız itiraz gibi takibi durdurmaz."
+            ]
+        },
+        {
+            "id": "ilamsiz",
+            "title": "İlamsız takip",
+            "definition": "İlamsız takip, kural olarak bir para alacağı için icra dairesinde ödeme emriyle başlar. Takip talebi ve ödeme emri kurucudur.",
+            "elements": [
+                "takip talebi",
+                "ödeme emri",
+                "yedı günlük itiraz süresi",
+                "takibin durması",
+                "belgeye dayalı takip"
+            ],
+            "organicLinks": [
+                "İlamsız, ilamlıdan belgesiz (kural) oluşuyla ayrılır.",
+                "Kambiyo takibi özel yoldur."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "42"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "58"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "60"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "61"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "62"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Ödeme emri tebliğ edilmeden süre işlemez.",
+                "Takip ehliyeti ve yetkili icra dairesi dava şartı gibidir."
+            ]
+        },
+        {
+            "id": "itiraz",
+            "title": "İtirazın iptali ve kaldırılması",
+            "definition": "Borçlu ödeme emrine itiraz ederse takip durur. Alacaklı itirazın iptali davası veya (belge varsa) kaldırılması yoluna gider.",
+            "elements": [
+                "itiraz",
+                "takibin durması",
+                "iptal davası",
+                "kaldırma (belge)",
+                "tazminat"
+            ],
+            "organicLinks": [
+                "İptal genel mahkemede, kaldırma icra mahkemesindedir.",
+                "Menfi tespit ayrı davadır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "62"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "63"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "67"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "68"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "69"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "72"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "67 itirazın iptali, 68 kaldırılmasıdır.",
+                "Menfi tespit 72, takipten önce veya sonra açılabilir."
+            ]
+        },
+        {
+            "id": "haciz",
+            "title": "Haciz",
+            "definition": "Haciz, borçlunun malvarlığına cebri icra el koymasıdır. Mal beyanı, haczi kabil mallar ve istihkak iddiası ayrı katmanlardır.",
+            "elements": [
+                "mal beyanı",
+                "haczi kabil mal",
+                "haciz tutanağı",
+                "koruma tedbirleri",
+                "haczin düşmesi"
+            ],
+            "organicLinks": [
+                "Haciz, satışın ön şartıdır.",
+                "Haczi kabil olmayan mallar 82'dedir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "74"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "78"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "79"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "82"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "85"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "88"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Mal beyanı gerçeğe aykırı olursa cezaî sonuç doğar.",
+                "Haciz tutanağı aleniyet sağlar."
+            ]
+        },
+        {
+            "id": "istihkak",
+            "title": "İstihkak iddiası",
+            "definition": "Üçüncü kişi, haczedilen malın kendisine ait olduğunu ileri sürerse istihkak usulü işler. İcra mahkemesi ve ispat yükü özeldir.",
+            "elements": [
+                "üçüncü kişi",
+                "istihkak iddiası",
+                "takibin durup durmaması",
+                "ispat yükü",
+                "istihkak davası"
+            ],
+            "organicLinks": [
+                "İstihkak, borçlunun itirazından ayrıdır.",
+                "Karine, borçlunun zilyetliğindedir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "96"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "97"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "99"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Zilyetlik karinesi üçüncü kişiyi zorlar.",
+                "İstihkak davası süreye bağlıdır."
+            ]
+        },
+        {
+            "id": "satis",
+            "title": "Cebri satış",
+            "definition": "Hacizli mal, taleple paraya çevrilir. Taşınır ve taşınmaz satışı ayrı usuldür; ihalenin feshi icra mahkemesindedir.",
+            "elements": [
+                "satış talebi",
+                "taşınır satışı",
+                "taşınmaz satışı",
+                "ihale",
+                "ihalenin feshi"
+            ],
+            "organicLinks": [
+                "Satış, haciz olmadan olmaz.",
+                "İhalenin feshi, tapu iptalinden ayrıdır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "106"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "110"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "114"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "116"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "126"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "134"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Satış süresi ve gider avansı 106 hattındadır.",
+                "İhalenin feshi sebepleri 134'te sınırlıdır."
+            ]
+        },
+        {
+            "id": "sira-cetveli",
+            "title": "Sıra cetveli ve aciz vesikası",
+            "definition": "Birden fazla alacaklı varsa sıra cetveli düzenlenir. Şikâyet icra mahkemesindedir. Artmayan mal, aciz vesikası doğurur.",
+            "elements": [
+                "sıra cetveli",
+                "imtiyazlı alacaklar",
+                "şikâyet",
+                "aciz vesikası",
+                "bakiye alacak"
+            ],
+            "organicLinks": [
+                "Sıra cetveli, maddi hukuktaki imtiyazı icraya taşır.",
+                "Aciz vesikası zamanaşımını etkiler."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "140"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "142"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "143"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "İmtiyaz sırası İİK ve özel kanunlardadır.",
+                "Aciz vesikası yeni mala kovalama imkânı verir."
+            ]
+        },
+        {
+            "id": "iflas",
+            "title": "İflasın açılması",
+            "definition": "İflas, borçlunun bütün malvarlığını küllî tasfiyeye sokan yoldur. İflasa tabi kişiler ve iflas sebepleri kanundadır. Konkordato ayrı rejimdir.",
+            "elements": [
+                "iflasa tabi kişi",
+                "iflas sebebi",
+                "iflas davası",
+                "iflasın açılması",
+                "masanın oluşması"
+            ],
+            "organicLinks": [
+                "İflas, cüz'î icradan (haciz) ayrılır.",
+                "Konkordato iflasın alternatifidir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "154"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "155"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "156"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "158"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "165"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "184"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Tacir iflasa tabidir; iflas sebepleri 154+ hattındadır.",
+                "Masa, bütün alacaklılar içindir."
+            ]
+        }
+    ]
+}

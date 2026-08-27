@@ -1,0 +1,17 @@
+{
+    "uniSlug": "bahcesehir",
+    "calendar": "donemlik",
+    "lang": "tr-en30",
+    "campus": "Beşiktaş",
+    "cityHook": "Beşiktaş'taki bir start-up pay devri ve KVKK aydınlatması",
+    "mehaz": "Vakıf, %30 İngilizce; kâğıtta TTK ve KVKK lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav + final + ödev (izlence).",
+        "format": "Issue spotting + madde: şirket, KVKK, rekabet.",
+        "tips": ["BAU kâğıdında İngilizce terim Türkçe maddenin yerini almaz.", "Syllabus bağlar."]
+    },
+    "syllabusOrder": ["şirketler", "bilişim", "rekabet", "borçlar"],
+    "schoolNotes": ["Bahçeşehir Hukuk, Beşiktaş kampüsünde vakıftır.", "Slayt yok."],
+    "sources": [{ "title": "Bahçeşehir Üniversitesi Hukuk Fakültesi", "url": "https://www.bau.edu.tr/akademik/hukuk-fakultesi", "note": "fakülte kimliği" }]
+}

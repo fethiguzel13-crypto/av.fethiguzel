@@ -235,6 +235,37 @@ export function kalanCevrimdisiGun(u: Uyelik = bellek): number | null {
   return Math.max(0, Math.ceil((u.cevrimdisiBitis - Date.now()) / 864e5));
 }
 
+/**
+ * MAĞAZA İNCELEMESİ ERİŞİM KODU.
+ *
+ * Google Play incelemecisi uygulamanın ücretli bölümünü göremezse sürüm
+ * reddedilir. Play'in kendi formu bunu açıkça söylüyor: incelemeciler
+ * ücretsiz deneme kullanamaz, hesap açamaz, kendi hesaplarıyla giremez.
+ *
+ * Bu uygulamada hesap sistemi yok — üyelik doğrudan Play satın almasına
+ * bağlı. Dolayısıyla incelemeciye verilecek bir kullanıcı adı/şifre de yok.
+ * Onun yerine Ayarlar ekranında bir kod alanı var; bu kod üyeliği 30 gün
+ * yerel olarak açar.
+ *
+ * ─── Güvenlik sınırı ───────────────────────────────────────────────────────
+ * Kod, paketin içinde düz metin olarak durur ve tersine mühendislikle
+ * çıkarılabilir. Bu bilinçli bir kabul: kodun açtığı içerik ZATEN aynı
+ * pakette şifreli olarak geliyor ve çözme anahtarı da uygulamayla birlikte
+ * dağıtılıyor (bkz. docs/UYELIK.md → «Dürüst sınır»). Yani kod yeni bir
+ * açık yaratmıyor, var olan sınırın ötesine geçmiyor.
+ *
+ * Kodu değiştirirsen `docs/PLAY-STORE.md` içindeki inceleme metnini de
+ * güncelle — Play'e verilen bilgi yanlış kalırsa sürüm reddedilir.
+ */
+export const INCELEME_KODU = 'FG-REVIEW-2026';
+
+/** Girilen kod doğruysa erişimi açar. */
+export async function incelemeKoduDene(kod: string): Promise<boolean> {
+  if (kod.trim().toUpperCase() !== INCELEME_KODU) return false;
+  await uyelikElleAc(30);
+  return true;
+}
+
 /** Geliştirme ve mağaza incelemesi için erişimi elle açar. */
 export async function uyelikElleAc(gun = 30): Promise<void> {
   const simdi = Date.now();
@@ -251,4 +282,24 @@ export async function uyelikElleAc(gun = 30): Promise<void> {
 export async function uyelikSifirla(): Promise<void> {
   await kaydet({ durum: 'yok' });
   yayinla({ durum: 'yok' });
+}
+
+/**
+ * Üyelik kaydını CIHAZDAN SİLER — «tüm yerel verileri sil» için.
+ *
+ * `uyelikSifirla` kaydı «yok» diye yeniden yazar; bu, veri silme talebini
+ * karşılamaz çünkü dosya yerinde kalır. Burada anahtar tamamen kaldırılır.
+ *
+ * Erişim kaybı yaratmaz: kayıt Play'deki gerçeğin yerel kopyasıdır. Bir
+ * sonraki açılışta `uyelikBaslat` Play'e sorar ve ödeme yapan kullanıcının
+ * üyeliği kendiliğinden geri gelir.
+ */
+export async function uyelikVerisiniSil(): Promise<void> {
+  try {
+    await Preferences.remove({ key: ANAHTAR });
+  } catch {
+    /* depolama yoksa bellek sıfırlaması yeterli */
+  }
+  baslatildi = false;
+  yayinla({ durum: 'bilinmiyor' });
 }

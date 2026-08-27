@@ -1,0 +1,47 @@
+# Denetçi manifesti — Medeni Hukuka Giriş ve Başlangıç Hükümleri
+courseCode: medeni-baslangic
+title: Medeni Hukuka Giriş ve Başlangıç Hükümleri
+kanun: tmk
+guz:
+  - uygulama
+  - durustluk
+  - iyiniyet
+  - hakim-takdiri
+  - ehliyet
+bahar:
+  - genel-hukumler
+  - ispat
+  - kisilik
+  - yerlesim
+  - ad
+institutions:
+  - id: uygulama
+    title: Hukukun uygulanması ve kaynakları
+    maddeler: ['1']
+  - id: durustluk
+    title: Dürüstlük kuralı
+    maddeler: ['2']
+  - id: iyiniyet
+    title: İyiniyet
+    maddeler: ['3']
+  - id: hakim-takdiri
+    title: Hâkimin takdir yetkisi
+    maddeler: ['4']
+  - id: genel-hukumler
+    title: Genel nitelikli hükümler
+    maddeler: ['5']
+  - id: ispat
+    title: İspat yükü
+    maddeler: ['6', '7']
+  - id: ehliyet
+    title: Hak ehliyeti ve fiil ehliyeti
+    maddeler: ['8', '9', '10', '11', '16']
+  - id: ad
+    title: Ad
+    maddeler: ['26', '27']
+  - id: yerlesim
+    title: Yerleşim yeri
+    maddeler: ['19', '20', '21', '22']
+  - id: kisilik
+    title: Kişilik hakkı
+    maddeler: ['23', '24', '25']

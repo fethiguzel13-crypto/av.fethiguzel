@@ -1,0 +1,17 @@
+{
+    "uniSlug": "medipol",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Kavacık / Bağcılar",
+    "cityHook": "Kavacık'taki bir sağlık verisi işleme ve malpraktis kesişimi",
+    "mehaz": "Vakıf, sağlık kampüsü komşuluğu; kâğıtta KVKK m.6 ve TBK haksız fiil bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav + final.",
+        "format": "Klasik yazılı: özel nitelikli veri, rıza, haksız fiil.",
+        "tips": ["Medipol kâğıdında sağlık verisini genel veriden ayırın.", "OBS bağlar."]
+    },
+    "syllabusOrder": ["bilişim", "borçlar genel", "ceza", "usul"],
+    "schoolNotes": ["İstanbul Medipol Hukuk, sağlık üniversitesi çatısındadır.", "Slayt yok."],
+    "sources": [{ "title": "İstanbul Medipol Üniversitesi Hukuk Fakültesi", "url": "https://www.medipol.edu.tr/akademik/fakulteler/hukuk-fakultesi", "note": "fakülte kimliği" }]
+}

@@ -1,0 +1,17 @@
+{
+    "uniSlug": "anadolu",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Yunus Emre / Eskişehir",
+    "cityHook": "Eskişehir'deki bir öğrenci kira sözleşmesi ve tahliye",
+    "mehaz": "Açıköğretim geleneği komşuluğu; TBK kira lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav + final.",
+        "format": "Klasik yazılı: kira, tahliye, tüketici sıfatı.",
+        "tips": ["Anadolu kâğıdında konut kirası korumasını genel kiradan ayırın.", "OBS bağlar."]
+    },
+    "syllabusOrder": ["borçlar", "kira", "usul", "icra"],
+    "schoolNotes": ["Anadolu Hukuk, Eskişehir Yunus Emre kampüsündedir.", "Slayt yok."],
+    "sources": [{ "title": "Anadolu Üniversitesi Hukuk Fakültesi", "url": "https://hukuk.anadolu.edu.tr/", "note": "fakülte kimliği" }]
+}

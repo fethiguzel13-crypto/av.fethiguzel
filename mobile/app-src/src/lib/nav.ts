@@ -118,14 +118,18 @@ export const BOLUM_RENK: Record<string, string> = {
 };
 
 /**
- * Şeridin rengi — koyu yeşil başlık çubuğunun ÜSTÜNDE okunan açık ton.
+ * Şeridin rengi — KÖMÜR başlık çubuğunun üstünde okunan açık ton.
  *
- * Bölüm rengini olduğu gibi kullanmak Mevzuat bölümünde şeridi görünmez
+ * Bölüm rengini olduğu gibi kullanmak eski yeşil çubukta şeridi görünmez
  * kılıyordu: çubuk da şerit de aynı ormanı yeşiliydi. Açık tonlar önceden
  * hesaplandı; `color-mix` eski WebView sürümlerinde bulunmuyor.
+ *
+ * Çubuk kömür siyahına çevrilince beşi de zeminden ayrılır oldu; yalnız
+ * giriş ekranının şeridi markanın kendi turuncusuna alındı — orası bir
+ * bölüm değil, uygulamanın kendisidir.
  */
 export const BOLUM_SERIT: Record<string, string> = {
-  home: '#8FAE9B',
+  home: '#D96B45',
   laws: '#8FAE9B',
   cases: '#7FB3DC',
   library: '#C9A886',

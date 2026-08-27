@@ -1,0 +1,357 @@
+{
+    "courseCode": "idare-hukuku",
+    "title": "İdare Hukuku",
+    "kanunId": "belediye",
+    "guzInstitutionIds": [
+        "idari-teskilat",
+        "belediye-organ",
+        "kamu-gorevlisi",
+        "idari-yetki"
+    ],
+    "baharInstitutionIds": [
+        "disiplin",
+        "kamulastirma",
+        "imar-denetim",
+        "il-idaresi"
+    ],
+    "institutions": [
+        {
+            "id": "idari-teskilat",
+            "title": "Mahallî idare ve belediye görevi",
+            "definition": "Belediye, belde sakinlerinin mahallî müşterek nitelikteki ihtiyaçlarını karşılamak üzere kurulan kamu tüzel kişisidir. Görev ve yetki listesi kanundadır; genel yetki idare hukukunun idari işlem teorisiyle okunur.",
+            "elements": [
+                "belde",
+                "mahallî müşterek ihtiyaç",
+                "kamu tüzel kişiliği",
+                "görev-yetki listesi"
+            ],
+            "organicLinks": [
+                "Belediye, il özel idaresinden ayrı bir mahallî idaredir.",
+                "Görev, yetkiyi; yetki, usulü taşır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "belediye",
+                    "maddeNo": "13"
+                },
+                {
+                    "kanunId": "belediye",
+                    "maddeNo": "14"
+                },
+                {
+                    "kanunId": "belediye",
+                    "maddeNo": "15"
+                },
+                {
+                    "kanunId": "belediye",
+                    "maddeNo": "17"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Hemşehri hukuku 13, görevler 14, yetkiler 15'tedir.",
+                "Liste dışında kalan iş, yetki sapması riski taşır."
+            ]
+        },
+        {
+            "id": "belediye-organ",
+            "title": "Belediye organları",
+            "definition": "Belediye meclisi karar, belediye başkanı yürütme ve temsil organıdır. Encümen, kanunun saydığı işlerde karar alır. Organlar arası yetki çatışması, işlemin sakatlığına döner.",
+            "elements": [
+                "meclis",
+                "başkan",
+                "encümen",
+                "görev süresi",
+                "karar usulü"
+            ],
+            "organicLinks": [
+                "Başkan meclisin yerini tutmaz.",
+                "Yetkisiz organın kararı yokluk veya iptal tartışması açar."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "belediye",
+                    "maddeNo": "17"
+                },
+                {
+                    "kanunId": "belediye",
+                    "maddeNo": "23"
+                },
+                {
+                    "kanunId": "belediye",
+                    "maddeNo": "37"
+                },
+                {
+                    "kanunId": "belediye",
+                    "maddeNo": "38"
+                },
+                {
+                    "kanunId": "belediye",
+                    "maddeNo": "54"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Meclis 17 vd., başkan 38, belde 54.",
+                "Karar yeter sayısı ve ilân, işlemin görünür yüzüdür."
+            ]
+        },
+        {
+            "id": "kamu-gorevlisi",
+            "title": "Kamu görevlisi ve ödev",
+            "definition": "Devlet memuru, kadroya bağlı olarak kamu hizmeti yürüten kişidir. Sınıf, ödev ve sorumluluk kanundadır; sadakat ve tarafsızlık kâğıdın ilk satırıdır.",
+            "elements": [
+                "kadro",
+                "sınıf",
+                "ödev",
+                "tarafsızlık",
+                "sorumluluk"
+            ],
+            "organicLinks": [
+                "İşçi, memur değildir; rejim İş Kanunu'na kayabilir.",
+                "Vekil ve sözleşmeli ayrı statülerdir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "dmk",
+                    "maddeNo": "4"
+                },
+                {
+                    "kanunId": "dmk",
+                    "maddeNo": "6"
+                },
+                {
+                    "kanunId": "dmk",
+                    "maddeNo": "7"
+                },
+                {
+                    "kanunId": "dmk",
+                    "maddeNo": "8"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Sınıflar 4, ödevler 7 hattındadır.",
+                "Yasaklar ve sorumluluk, disiplin kapısının önüdür."
+            ]
+        },
+        {
+            "id": "idari-yetki",
+            "title": "Belediye yetkisi ve işlem",
+            "definition": "Belediye yetkileri 15. maddede sayılır; yetki, kamu gücünün belde sınırında kullanılmasıdır. İşlem, yetki-şekil-sebep-konu-amaç beşlisinde denetlenir; bu beşli İYUK paketinde değil, idare dersinin dogmatik iskeletidir.",
+            "elements": [
+                "yetki",
+                "şekil",
+                "sebep",
+                "konu",
+                "amaç"
+            ],
+            "organicLinks": [
+                "Yetkisizlik, işlemi baştan yaralar.",
+                "Amaç sapması, kamu yararı kılıfına sığmaz."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "belediye",
+                    "maddeNo": "14"
+                },
+                {
+                    "kanunId": "belediye",
+                    "maddeNo": "15"
+                },
+                {
+                    "kanunId": "belediye",
+                    "maddeNo": "18"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Görev 14 ile yetki 15 yan yana okunur.",
+                "Meclis kararı ile başkanlık işlemi karıştırılmaz."
+            ]
+        },
+        {
+            "id": "disiplin",
+            "title": "Disiplin hukuku",
+            "definition": "Memurun kınama ile devlet memurluğundan çıkarma arasında kademeli yaptırımı vardır. Savunma hakkı ve itiraz, işlemin usul yüzüdür.",
+            "elements": [
+                "fiil",
+                "yaptırım kademesi",
+                "savunma",
+                "itiraz / yargı"
+            ],
+            "organicLinks": [
+                "Disiplin, ceza davasının yerini tutmaz.",
+                "Aynı fiil TCK'ya da kayabilir; ne bis in idem ayrı tartılır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "dmk",
+                    "maddeNo": "124"
+                },
+                {
+                    "kanunId": "dmk",
+                    "maddeNo": "125"
+                },
+                {
+                    "kanunId": "dmk",
+                    "maddeNo": "126"
+                },
+                {
+                    "kanunId": "dmk",
+                    "maddeNo": "137"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "125 yaptırımları sayar.",
+                "Süre ve yetkili amir yazılmadan sonuç söylenmez."
+            ]
+        },
+        {
+            "id": "kamulastirma",
+            "title": "Kamulaştırma",
+            "definition": "Kamulaştırma, kamu yararının gerektirdiği hallerde özel mülkiyete idarece el konulmasıdır. Satın alma usulü asıldır; bedel ve tescil ayrı kapılardır.",
+            "elements": [
+                "kamu yararı",
+                "satın alma usulü",
+                "bedel",
+                "tescil",
+                "dava"
+            ],
+            "organicLinks": [
+                "Kamulaştırmasız el atma, kanuni yoldan ayrı bir haksız fiil görünümüdür.",
+                "Bedel, tapu kaydını tek başına taşımaz."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "kamulastirma",
+                    "maddeNo": "1"
+                },
+                {
+                    "kanunId": "kamulastirma",
+                    "maddeNo": "3"
+                },
+                {
+                    "kanunId": "kamulastirma",
+                    "maddeNo": "7"
+                },
+                {
+                    "kanunId": "kamulastirma",
+                    "maddeNo": "8"
+                },
+                {
+                    "kanunId": "kamulastirma",
+                    "maddeNo": "10"
+                },
+                {
+                    "kanunId": "kamulastirma",
+                    "maddeNo": "11"
+                },
+                {
+                    "kanunId": "kamulastirma",
+                    "maddeNo": "14"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Satın alma 8, mahkeme 10.",
+                "Kamu yararı belgesi yoksa yol kapanır."
+            ]
+        },
+        {
+            "id": "imar-denetim",
+            "title": "İmar ve yapı denetimi",
+            "definition": "Yapı ruhsatı, imar planına uygunluğun idari iznidir. Ruhsatsız veya ruhsata aykırı yapı, mühürleme ve yıkım rejimine girer; idari para cezası ayrıdır.",
+            "elements": [
+                "plan",
+                "ruhsat",
+                "yapı",
+                "mühür / yıkım",
+                "idari para cezası"
+            ],
+            "organicLinks": [
+                "Ruhsat, tapunun yerini tutmaz.",
+                "Kaçak yapı, zilyetlikle mülkiyet kazandırmaz."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "imar",
+                    "maddeNo": "8"
+                },
+                {
+                    "kanunId": "imar",
+                    "maddeNo": "18"
+                },
+                {
+                    "kanunId": "imar",
+                    "maddeNo": "20"
+                },
+                {
+                    "kanunId": "imar",
+                    "maddeNo": "21"
+                },
+                {
+                    "kanunId": "imar",
+                    "maddeNo": "32"
+                },
+                {
+                    "kanunId": "imar",
+                    "maddeNo": "42"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Ruhsat 21, ruhsatsız yapı 32, ceza 42.",
+                "Plan değişikliği kazandırılmış hak tartışması açar."
+            ]
+        },
+        {
+            "id": "il-idaresi",
+            "title": "İl idaresi",
+            "definition": "İl, yetki genişliği esasına göre yönetilir; vali, merkezin taşradaki temsilcisidir. Kaymakam ilçede aynı mantığı taşır. Mahallî idare ile genel idare yan yana durur.",
+            "elements": [
+                "yetki genişliği",
+                "vali",
+                "kaymakam",
+                "ilçe",
+                "merkezî idare"
+            ],
+            "organicLinks": [
+                "Vali belediye başkanı değildir.",
+                "Yetki genişliği, yerinden yönetimin yerine geçmez."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "il-idaresi",
+                    "maddeNo": "3"
+                },
+                {
+                    "kanunId": "il-idaresi",
+                    "maddeNo": "4"
+                },
+                {
+                    "kanunId": "il-idaresi",
+                    "maddeNo": "8"
+                },
+                {
+                    "kanunId": "il-idaresi",
+                    "maddeNo": "9"
+                },
+                {
+                    "kanunId": "il-idaresi",
+                    "maddeNo": "31"
+                },
+                {
+                    "kanunId": "il-idaresi",
+                    "maddeNo": "32"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "İl 3-4, kaymakam 31 hattı.",
+                "Emir-komuta, mahallî meclis kararından ayrıdır."
+            ]
+        }
+    ]
+}

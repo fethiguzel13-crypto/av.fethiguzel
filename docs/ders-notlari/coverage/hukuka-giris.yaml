@@ -1,0 +1,47 @@
+# Denetçi manifesti — Hukuka Giriş / Hukukun Temel Kavramları
+courseCode: hukuka-giris
+title: Hukuka Giriş / Hukukun Temel Kavramları
+kanun: tmk
+guz:
+  - hukuk-kurali
+  - kaynaklar
+  - kamu-ozel
+  - hak
+  - hukuki-islem
+bahar:
+  - yaptirim
+  - yorum
+  - ispat-giris
+  - kisi-ehliyet
+  - kanunilik
+institutions:
+  - id: hukuk-kurali
+    title: Hukuk kuralı
+    maddeler: ['1', '2']
+  - id: kaynaklar
+    title: Hukukun kaynakları
+    maddeler: ['1']
+  - id: kamu-ozel
+    title: Kamu hukuku ve özel hukuk
+    maddeler: ['5']
+  - id: hak
+    title: Hak
+    maddeler: ['2', '8']
+  - id: hukuki-islem
+    title: Hukuki işlem
+    maddeler: ['1', '2', '12']
+  - id: kanunilik
+    title: Kanunilik ilkesi (giriş)
+    maddeler: ['1', '2']
+  - id: yaptirim
+    title: Yaptırım
+    maddeler: ['1', '2']
+  - id: yorum
+    title: Yorum ve uygulama
+    maddeler: ['1', '4']
+  - id: kisi-ehliyet
+    title: Kişi, hak ehliyeti ve fiil ehliyeti (giriş)
+    maddeler: ['8', '9', '10', '16']
+  - id: ispat-giris
+    title: İspat yükü (giriş)
+    maddeler: ['6', '7']

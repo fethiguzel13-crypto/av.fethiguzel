@@ -81,19 +81,4 @@ Bu analiz, **Av. Fethi Güzel** tarafından akademik dürüstlük ve mesleki eti
 - *Mevzuat:* 6331 sayılı İSG Kanunu m. 37, Ek Madde 1, Geçici m. 1-10, 4857 sayılı İş Kanunu m. 77, 7551 sayılı Kanun m. 19.
 - *Yargı Kararları:* AYM Kararı 7/12/2023, E: 2021/125, K: 2023/213, Yargıtay 12. CD Taksir İçtihatları.
 
-**Güncellik:** **01.06.2026** tarihi itibarıyla günceldir.�sı, 40 Memur, 40 Veri
-Hazırlama ve Kontrol İşletmeni ve 10 Mühendis kadrosuna, 21/12/2011 tarihli ve 6260 sayılı
-2012 yılı Merkezi Yönetim Bütçe Kanundaki sınırlamalara tabi olmadan 2012 yılı içinde
-atama yapılabilir.
-GEÇİCİ MADDE 9 – (Ek: 4/4/2015-6645/7 md.)
-(1) Bu Kanunun 26 ncı maddesinin birinci fıkrasına eklenen (ö) bendi, 1/1/2016
-tarihinden itibaren uygulanır.
-GEÇİCİ MADDE 10 – (Ek: 28/11/2017-7061/104 md.)
-Bu Kanunun 30 uncu maddesinin birinci fıkrasının (ğ) bendinde halen faaliyette
-bulunan işletmelere getirilen güvenlik raporlarının hazırlanması yükümlülüğü 31/12/2018
-tarihine kadar tamamlanır.
-Yürürlük
-
-### Bizim Yorumumuz
-
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+**Güncellik:** **01.06.2026** tarihi itibarıyla günceldir.

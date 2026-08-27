@@ -221,7 +221,7 @@ function TodayPage() {
           <RefreshCw
             size={16}
             className={refreshing ? 'animate-spin' : ''}
-            style={{ color: 'var(--brand)' }}
+            style={{ color: 'var(--vurgu)' }}
           />
         </button>
       </div>
@@ -293,7 +293,7 @@ function DailyCard({ item, isNew }: { item: DailyItem; isNew: boolean }) {
         <button
           type="button"
           className="text-[12px] font-bold flex items-center gap-1 tap hedef px-2 -mx-2"
-          style={{ color: 'var(--brand)' }}
+          style={{ color: 'var(--vurgu)' }}
           onClick={() => void openExternal(item.url)}
         >
           <ExternalLink size={12} /> Kaynak
@@ -681,7 +681,7 @@ const ArsivSatiri = React.memo(function ArsivSatiri({ row }: { row: ArchiveRow }
               <span
                 key={ref}
                 className="px-1.5 py-0.5 rounded text-[12px] font-mono font-bold"
-                style={{ background: 'rgba(46,64,54,0.07)', color: 'var(--brand)' }}
+                style={{ background: 'var(--brand-soft)', color: 'var(--vurgu)' }}
               >
                 {kanunKodu(kanunId)} {no}
               </span>
@@ -934,7 +934,7 @@ function ArchiveDetail({ id }: { id: string }) {
             <span
               key={w}
               className="pill"
-              style={{ background: 'var(--brand-soft)', color: 'var(--brand)' }}
+              style={{ background: 'var(--brand-soft)', color: 'var(--vurgu)' }}
             >
               {w}
             </span>
@@ -997,12 +997,23 @@ function KilitliMetin({ onizleme, uzunluk }: { onizleme: string | null; uzunluk?
         />
       </div>
 
-      <div className="mt-3 rounded-2xl border border-[#1B4F72]/20 bg-[#1B4F72]/[0.05] px-4 py-4">
-        <p className="flex items-center gap-2 text-[13.5px] font-bold m-0" style={{ color: '#1B4F72' }}>
+      {/*
+        Kilit kartı KOYU zemin üstünde.
+
+        Kart daha önce %5 opaklıkta lacivert bir yıkamaydı; krem sayfada
+        neredeyse görünmüyor, ücretli sınır olduğunu söyleyemiyordu. Site
+        kararlılığını koyu zeminle gösteriyor — burası uygulamada o jesti
+        hak eden tek yer: kullanıcıya «buradan ötesi kapalı» diyen kart.
+      */}
+      <div
+        className="mt-3 rounded-2xl px-4 py-4"
+        style={{ background: '#1B4F72' }}
+      >
+        <p className="flex items-center gap-2 text-[13.5px] font-bold m-0 text-white">
           <Lock size={15} aria-hidden />
           Tam metin üyelik gerektirir
         </p>
-        <p className="mt-1.5 text-[13px] leading-relaxed text-ink-2 m-0">
+        <p className="mt-1.5 text-[13px] leading-relaxed m-0 text-white/75">
           {uzunluk
             ? `Bu kararın tamamı ${Math.round(uzunluk / 1000)} bin karakter. `
             : ''}
@@ -1015,8 +1026,7 @@ function KilitliMetin({ onizleme, uzunluk }: { onizleme: string | null; uzunluk?
             void tapFeedback();
             navigate('/uyelik');
           }}
-          className="btn-brand w-full mt-3.5"
-          style={{ background: '#1B4F72' }}
+          className="btn-kiremit w-full mt-3.5"
         >
           <Landmark size={16} /> Üyeliği görüntüle
         </button>
@@ -1060,7 +1070,7 @@ function AtifYapilanMaddeler({ refs }: { refs?: string[] }) {
               title={kanunAdi(kanunId)}
               className="inline-flex items-center px-3 rounded-xl text-[12px] font-mono
                          font-bold border border-tel bg-white tap"
-              style={{ color: 'var(--brand)', minHeight: 44 }}
+              style={{ color: 'var(--vurgu)', minHeight: 44 }}
             >
               {kanunKodu(kanunId)} m.{no}
             </button>

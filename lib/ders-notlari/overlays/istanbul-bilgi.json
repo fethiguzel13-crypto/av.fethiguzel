@@ -1,0 +1,17 @@
+{
+    "uniSlug": "istanbul-bilgi",
+    "calendar": "donemlik",
+    "lang": "tr-en30",
+    "campus": "santralistanbul",
+    "cityHook": "Eyüpsultan'daki bir kişisel veri ihlali ve bilişim suçu kesişimi",
+    "mehaz": "Vakıf, insan hakları ve bilişim vurgusu; kâğıtta KVKK ve TCK lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav + final + ödev/sunum.",
+        "format": "Issue spotting: KVKK başvurusu, TCK 136, aydınlatma.",
+        "tips": ["Bilgi kâğıdında idari yol ile ceza yolunu ayırın.", "Syllabus bağlar."]
+    },
+    "syllabusOrder": ["bilişim", "ceza özel", "insan hakları", "usul"],
+    "schoolNotes": ["İstanbul Bilgi Hukuk, santralistanbul kampüsündedir.", "Slayt yok."],
+    "sources": [{ "title": "İstanbul Bilgi Üniversitesi Hukuk Fakültesi", "url": "https://www.bilgi.edu.tr/tr/akademik/hukuk-fakultesi/", "note": "fakülte kimliği" }]
+}

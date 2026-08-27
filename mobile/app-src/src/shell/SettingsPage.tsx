@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from 'react';
-import { Type, Vibrate, Bell, Trash2, Database } from 'lucide-react';
+import { Type, Vibrate, Bell, Trash2, Database, KeyRound } from 'lucide-react';
 
 import { usePersisted, KEYS, ALL_KEYS, remove } from '../lib/storage';
+import { uyelikVerisiniSil, incelemeKoduDene } from '../lib/uyelik';
 import { hapticsEnabled, setHapticsEnabled, tapFeedback } from '../lib/haptics';
 import { ensureNotificationPermission, scheduleDailyBrief, cancelDailyBrief } from '../lib/notify';
 import { APP_ID } from '../lib/config';
@@ -98,14 +99,30 @@ export default function SettingsPage() {
         />
       )}
 
+      {/*
+        MAĞAZA İNCELEMESİ ERİŞİMİ
+
+        Google Play incelemecisi ücretli bölümü göremezse sürüm reddedilir;
+        Play'in kendi formu incelemecinin hesap açamayacağını, kendi
+        hesabıyla giremeyeceğini ve ücretsiz deneme kullanamayacağını
+        söylüyor. Uygulamada hesap sistemi olmadığı için verilecek bir
+        kullanıcı adı/şifre de yok — kod alanı o boşluğu dolduruyor.
+
+        Ayarlar'ın en altında, sade bir satır: sıradan kullanıcı için
+        anlamsız, incelemeci için tarif edilen tek adım.
+      */}
+      <IncelemeErisimi />
+
       {/* Veri */}
       <section className="card p-4 mt-3">
         <h3 className="flex items-center gap-2 text-[14px] font-bold mb-1">
           <Database size={16} className="text-ink-3" aria-hidden /> Verileriniz
         </h3>
         <p className="text-[12px] text-ink-2 leading-relaxed mb-3">
-          Favoriler, kayıtlar ve hesap geçmişi yalnız bu cihazda tutulur. Uygulama
-          hiçbir kişisel veriyi sunucuya göndermez.
+          Favoriler, kayıtlar, hesap geçmişi ve tercihleriniz yalnız bu cihazda
+          tutulur. Uygulama hiçbir kişisel veriyi sunucuya göndermez. Silme,
+          üyelik kaydınızın yerel kopyasını da kaldırır; ödeme yaptıysanız
+          üyeliğiniz bir sonraki açılışta Google Play'den geri gelir.
         </p>
         <button
           type="button"
@@ -114,6 +131,8 @@ export default function SettingsPage() {
           style={{ color: '#A32B21' }}
           onClick={() => {
             ALL_KEYS.forEach(remove);
+            // Üyelik kaydı ayrı modülde tutulur; bellekteki durumu da sıfırlar.
+            void uyelikVerisiniSil();
             setCleared(true);
             setTimeout(() => setCleared(false), 2500);
           }}
@@ -170,6 +189,80 @@ function Toggle({
           />
         </span>
       </button>
+    </section>
+  );
+}
+
+/**
+ * İnceleme erişim kodu alanı.
+ *
+ * Kod doğruysa üyelik 30 gün yerel olarak açılır. Yanlış kodda alan
+ * sessizce kalmaz; incelemecinin yazım hatası mı yaptığını yoksa kodun mu
+ * eskidiğini anlaması gerekir.
+ */
+function IncelemeErisimi() {
+  const [acik, setAcik] = useState(false);
+  const [kod, setKod] = useState('');
+  const [durum, setDurum] = useState<'bos' | 'oldu' | 'yanlis'>('bos');
+
+  return (
+    <section className="card p-4 mt-3">
+      <h3 className="flex items-center gap-2 text-[14px] font-bold mb-1">
+        <KeyRound size={16} className="text-ink-3" aria-hidden /> İnceleme erişimi
+      </h3>
+      <p className="text-[12px] text-ink-2 leading-relaxed mb-3">
+        Mağaza incelemesi için ayrılmıştır. Yargıtay arşivi üyeliği normalde
+        Google Play üzerinden alınır.
+      </p>
+
+      {!acik ? (
+        <button
+          type="button"
+          onClick={() => setAcik(true)}
+          className="btn-ghost w-full"
+        >
+          Erişim kodu gir
+        </button>
+      ) : (
+        <div className="space-y-2">
+          <input
+            type="text"
+            value={kod}
+            onChange={(e) => {
+              setKod(e.target.value);
+              setDurum('bos');
+            }}
+            placeholder="Erişim kodu"
+            aria-label="İnceleme erişim kodu"
+            autoCapitalize="characters"
+            autoCorrect="off"
+            spellCheck={false}
+            className="w-full rounded-xl border border-tel bg-white px-3.5 py-3
+                       text-[16px] outline-none focus:border-[color:var(--brand)]"
+          />
+          <button
+            type="button"
+            className="btn-brand w-full"
+            onClick={async () => {
+              const oldu = await incelemeKoduDene(kod);
+              setDurum(oldu ? 'oldu' : 'yanlis');
+              if (oldu) setKod('');
+            }}
+          >
+            Doğrula
+          </button>
+          {durum === 'oldu' && (
+            <p className="text-[13px] m-0" style={{ color: 'var(--vurgu)' }}>
+              Erişim açıldı. Yargı bölümündeki kararların tam metni artık okunabilir.
+            </p>
+          )}
+          {durum === 'yanlis' && (
+            <p className="text-[13px] m-0" style={{ color: '#A32B21' }}>
+              Kod doğrulanamadı.
+            </p>
+          )}
+        </div>
+      )}
     </section>
   );
 }

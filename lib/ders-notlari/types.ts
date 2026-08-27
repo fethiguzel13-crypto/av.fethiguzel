@@ -57,23 +57,101 @@ export type NoteExample = {
   takeaway: string;
 };
 
+export type NoteMcq = {
+  q: string;
+  choices: [string, string, string, string];
+  answer: 0 | 1 | 2 | 3;
+  reason: string;
+};
+
+export type NoteFlashcard = {
+  front: string;
+  back: string;
+};
+
+export type NoteMermaid = {
+  title: string;
+  diagram: string;
+};
+
+export type NoteTopic = {
+  id: string;
+  heading: string;
+  mcq?: NoteMcq[];
+  flashcards?: NoteFlashcard[];
+};
+
+export type FsekMeta = {
+  similarityMax: number;
+  sourceIds: string[];
+};
+
+export type GraphStatuteRef = {
+  kanunId: string;
+  maddeNo: string;
+};
+
+export type GraphCaseRef = {
+  id: string;
+  kunye: string;
+};
+
+export type GraphInstitution = {
+  id: string;
+  title: string;
+  definition: string;
+  elements: string[];
+  organicLinks: string[];
+  statuteRefs: GraphStatuteRef[];
+  caseRefs: GraphCaseRef[];
+  doctrineSplit: string[];
+};
+
+export type CourseGraph = {
+  courseCode: string;
+  title: string;
+  guzInstitutionIds: string[];
+  baharInstitutionIds: string[];
+  institutions: GraphInstitution[];
+};
+
+export type NoteExamBox = {
+  calendar: CalendarModel;
+  typicalWeights: string;
+  format: string;
+  tips: string[];
+};
+
+export type FacultyOverlay = {
+  uniSlug: string;
+  calendar: CalendarModel;
+  lang: LangProfile;
+  examBox: NoteExamBox;
+  syllabusOrder: string[];
+  schoolNotes: string[];
+  sources: { title: string; url: string; note?: string }[];
+  campus?: string;
+  cityHook?: string;
+  mehaz?: string;
+};
+
 export type NoteDiagram =
   | { kind: 'process'; title: string; steps: string[] }
   | { kind: 'compare'; title: string; headers: string[]; rows: string[][] }
   | {
-      kind: 'fork';
-      title: string;
-      left: string;
-      right: string;
-      leftTitle?: string;
-      rightTitle?: string;
-    }
+    kind: 'fork';
+    title: string;
+    left: string;
+    right: string;
+    leftTitle?: string;
+    rightTitle?: string;
+  }
   | {
-      kind: 'mindmap';
-      title: string;
-      center: string;
-      branches: { label: string; items: string[] }[];
-    }
+    kind: 'mindmap';
+    title: string;
+    center: string;
+    branches: { label: string; items: string[] }[];
+  }
   | { kind: 'cycle'; title: string; steps: string[] }
   | { kind: 'ladder'; title: string; levels: string[] };
 
@@ -88,24 +166,22 @@ export type CourseNote = {
   lead: string;
   /** Tek cümlelik “bu notun vaadi” */
   promise?: string;
-  examBox: {
-    calendar: CalendarModel;
-    typicalWeights: string;
-    format: string;
-    tips: string[];
-  };
+  examBox: NoteExamBox;
   learningOutcomes: string[];
   /** Hızlı okuma: 60 saniyede omurga */
   sixtySecond?: string[];
   sections: NoteSection[];
   examples: NoteExample[];
   diagrams: NoteDiagram[];
+  mermaid?: NoteMermaid[];
+  topics?: NoteTopic[];
   faq: { q: string; a: string }[];
   checklist: string[];
   relatedCourses: string[];
   relatedBilgi: string[];
   updated: string;
   wordTarget: number;
+  fsek?: FsekMeta;
   /**
    * template = eski isim-değiştirmeli motor
    * research-draft = araştırma var, metin yarı

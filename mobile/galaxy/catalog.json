@@ -18,8 +18,8 @@
       "id": "asistan",
       "packageId": "com.avfethiguzel.hesap",
       "_packageNote": "Play Console'da bu paket adıyla bir kayıt zaten açılmıştı ('Hukuki Hesap'). Paket adı sonradan DEĞİŞTİRİLEMEZ ama kullanıcıya hiç görünmez; mağaza girişi ve dahili test hazır olduğu için yeni kayıt açmak yerine o kayıt kullanılır. Mağazadaki görünen ad name.tr'dir.",
-      "versionName": "1.1.3",
-      "versionCode": 6,
+      "versionName": "1.2.2",
+      "versionCode": 8,
       "_versionNote": "v6 FG logo entegrasyonu ve web uyumu saglandi.",
       "published": true,
       "name": {
@@ -37,7 +37,7 @@
         "ar": "تشريعات وحاسبات واجتهاد وأدلة — دون إنترنت."
       },
       "path": "/",
-      "accent": "#2E4036",
+      "accent": "#C24E28",
       "role": "suite",
       "offline": "full",
       "needsNetwork": true,
@@ -47,7 +47,9 @@
         "rehber",
         "mevzuat",
         "kutuphane"
-      ]
+      ],
+      "chrome": "#1A1A1A",
+      "_renkNotu": "accent = vurgu (dolu düğme zemini, beyaz yazıyla). Sitenin ham turuncusu #CC5833 beyaz yazıyla 4,19 kontrast verir ve 4,5 eşiğini geçmez; #C24E28 gözle ayırt edilemeyecek kadar yakın ama 4,76 ölçülür. chrome = koyu kabuk (üst çubuk, durum çubuğu, açılış) — sitenin kömür siyahı."
     },
     {
       "id": "portal",

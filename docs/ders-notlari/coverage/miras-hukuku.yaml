@@ -1,0 +1,39 @@
+# Denetçi manifesti — Miras Hukuku
+courseCode: miras-hukuku
+title: Miras Hukuku
+kanun: tmk
+guz:
+  - yasal-mirascilik
+  - sakli-pay
+  - olume-bagli-tasarruf
+  - miras-sozlesmesi
+bahar:
+  - iptal
+  - tenkis
+  - ret
+  - tereke-paylasma
+institutions:
+  - id: yasal-mirascilik
+    title: Yasal mirasçılık
+    maddeler: ['495', '496', '497', '498', '499', '500', '501']
+  - id: sakli-pay
+    title: Saklı pay
+    maddeler: ['505', '506', '507', '508', '510', '511']
+  - id: olume-bagli-tasarruf
+    title: Ölüme bağlı tasarruflar
+    maddeler: ['502', '514', '516', '531', '532', '533', '534', '535', '538']
+  - id: miras-sozlesmesi
+    title: Miras sözleşmesi
+    maddeler: ['503', '545', '546', '547', '548']
+  - id: iptal
+    title: Ölüme bağlı tasarrufun iptali
+    maddeler: ['557', '558', '559']
+  - id: tenkis
+    title: Tenkis
+    maddeler: ['560', '561', '563', '565', '571']
+  - id: ret
+    title: Mirasın reddi
+    maddeler: ['605', '606', '609', '610', '615']
+  - id: tereke-paylasma
+    title: Tereke, tasfiye ve paylaşma
+    maddeler: ['640', '642', '644', '650', '682']

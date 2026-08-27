@@ -1,0 +1,37 @@
+{
+    "uniSlug": "kocaeli",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Umuttepe",
+    "cityHook": "Gebze'deki bir fabrika iş kazası ve rücu",
+    "mehaz": "KOÜ devlet fakültesi; İşK/TBK haksız fiil yan yana",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / dönem ilanı).",
+        "format": "Klasik yazılı: madde + unsur + vakıaya yedirme. Oran dönem ilanına bağlıdır.",
+        "tips": [
+            "Kocaeli kâğıdında iş kazasını haksız fiille karıştırmayın; rejim seçin.",
+            "KOÜ kâğıdında ilk cümle kurumu adlandırır; slogan yetmez.",
+            "Öğretim elemanı duyurusu ve OBS bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "Kocaeli Üniversitesi Hukuk Fakültesi, Kocaeli merkezli bir devlet fakültesidir Eğitim dili Türkçedir.",
+        "Umuttepe usulü: kaynak ve lafız önce, slayt cümlesi yok.",
+        "Bu örtü kamuya açık kimlik sayfasından üretilmiştir; amfi notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "KOÜ Hukuk Fakültesi",
+            "url": "https://hukuk.kocaeli.edu.tr/",
+            "note": "fakülte kimliği; slayt ve amfi notu yok"
+        }
+    ]
+}

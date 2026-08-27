@@ -1,0 +1,37 @@
+{
+    "uniSlug": "balikesir",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Çağış",
+    "cityHook": "Ayvalık'taki bir zeytinlik satışı ve şekil",
+    "mehaz": "BAÜN devlet fakültesi; TBK/TMK lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / dönem ilanı).",
+        "format": "Klasik yazılı: madde + unsur + vakıaya yedirme. Oran dönem ilanına bağlıdır.",
+        "tips": [
+            "Balıkesir kâğıdında taşınmaz satışında resmi şekli yazın.",
+            "BAÜN kâğıdında ilk cümle kurumu adlandırır; slogan yetmez.",
+            "Öğretim elemanı duyurusu ve OBS bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "Balıkesir Üniversitesi Hukuk Fakültesi, Balıkesir merkezli bir devlet fakültesidir Eğitim dili Türkçedir.",
+        "Çağış usulü: kaynak ve lafız önce, slayt cümlesi yok.",
+        "Bu örtü kamuya açık kimlik sayfasından üretilmiştir; amfi notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "BAÜN Hukuk Fakültesi",
+            "url": "https://www.balikesir.edu.tr/site/birim/hukuk-fakultesi-937",
+            "note": "fakülte kimliği; slayt ve amfi notu yok"
+        }
+    ]
+}

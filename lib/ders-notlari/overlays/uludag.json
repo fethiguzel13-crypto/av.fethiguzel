@@ -1,0 +1,20 @@
+{
+    "uniSlug": "uludag",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Görükle / Bursa",
+    "cityHook": "Bursa'daki bir otomotiv yan sanayi işe iade davası",
+    "mehaz": "Sanayi kenti devlet fakültesi; İşK lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav + final; pratik çalışma dönem ilanına bağlı.",
+        "format": "Klasik yazılı + iş hukuku vakası: fesih, kıdem, işe iade.",
+        "tips": [
+            "Uludağ kâğıdında iş güvencesi eşiğini (işyeri-kıdem) ilk satırda yazın.",
+            "OBS bağlar."
+        ]
+    },
+    "syllabusOrder": ["iş hukuku", "borçlar", "usul", "icra"],
+    "schoolNotes": ["Bursa Uludağ Hukuk, Görükle kampüsündedir; sanayi uyuşmazlığı pratikte sıktır.", "Slayt yok."],
+    "sources": [{ "title": "Bursa Uludağ Üniversitesi Hukuk Fakültesi", "url": "https://uludag.edu.tr/hukuk", "note": "fakülte kimliği" }]
+}

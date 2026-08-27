@@ -163,11 +163,19 @@ export default function UyelikPage() {
               alınır.
             </p>
 
+            {/*
+              Tek para geçen düğme — kiremit.
+
+              Yargı bölümünün kendi kimlik rengi lacivert (#1B4F72); bu
+              düğme onu değil, sitenin ödeme/eylem rengini taşır. Kararlı
+              olması gereken tek an burası: uygulamada paranın el değiştirdiği
+              yer.
+            */}
             <button
               type="button"
               onClick={satinAlmaya}
               disabled={islem !== 'yok' || !odemeVarMi()}
-              className="btn-brand w-full mt-4 disabled:opacity-55"
+              className="btn-kiremit w-full mt-4 disabled:opacity-55"
             >
               {islem === 'satin' ? (
                 <>
@@ -232,7 +240,7 @@ export default function UyelikPage() {
         type="button"
         onClick={() => navigate('/arsiv')}
         className="w-full text-center mt-3 hedef inline-flex items-center justify-center text-[13px] font-bold"
-        style={{ color: 'var(--brand)' }}
+        style={{ color: 'var(--vurgu)' }}
       >
         Arşive dön
       </button>

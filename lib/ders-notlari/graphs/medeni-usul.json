@@ -1,0 +1,371 @@
+{
+    "courseCode": "medeni-usul",
+    "title": "Medeni Usul Hukuku",
+    "kanunId": "hmk",
+    "guzInstitutionIds": [
+        "gorev",
+        "yetki",
+        "dava-sartlari",
+        "dilekce"
+    ],
+    "baharInstitutionIds": [
+        "tahkikat",
+        "delil",
+        "hukum",
+        "kanun-yolu"
+    ],
+    "institutions": [
+        {
+            "id": "gorev",
+            "title": "Görev",
+            "definition": "Görev, kamu düzenine ilişkin dava şartıdır. Asliye / sulh / özel mahkeme ayrımı kanundadır. Görev itirazı süreye bağlı değildir.",
+            "elements": [
+                "görev kuralı",
+                "kamu düzeni",
+                "asliye-sulh",
+                "görevsizlik kararı",
+                "gönderme"
+            ],
+            "organicLinks": [
+                "Görev yetkiden ayrıdır.",
+                "Görevsizlik dosyayı yok etmez, gönderir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "1"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "2"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "3"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "4"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Asliye kural, sulh istisnadır.",
+                "Görev, tarafların anlaşmasıyla değişmez."
+            ]
+        },
+        {
+            "id": "yetki",
+            "title": "Yetki",
+            "definition": "Yetki, hangi yer mahkemesinin bakacağını belirler. Genel yetki davalının yerleşim yeridir; özel yetki kanundadır. Kesin yetki kamu düzeninedir.",
+            "elements": [
+                "genel yetki",
+                "özel yetki",
+                "kesin yetki",
+                "yetki itirazı",
+                "yetkisizlik"
+            ],
+            "organicLinks": [
+                "Yetki görevden sonra bakılır.",
+                "Sözleşmeyle yetki, kesin yetkiyi aşamaz."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "5"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "6"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "9"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "10"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "12"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "19"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Davalının yerleşim yeri kuraldır.",
+                "Kesin yetkide itiraz süresi aranmaz."
+            ]
+        },
+        {
+            "id": "dava-sartlari",
+            "title": "Dava şartları",
+            "definition": "Dava şartları, mahkemenin esasa girebilmesi için varlığı veya yokluğu gereken hâllerdir. Eksiklikte dava usulden reddedilir.",
+            "elements": [
+                "yargı hakkı",
+                "görev",
+                "yetki",
+                "hukuki yarar",
+                "dava ehliyeti",
+                "dava takip yetkisi"
+            ],
+            "organicLinks": [
+                "Dava şartı ilk itirazdan ayrıdır.",
+                "Hukuki yarar yoksa esas yazılmaz."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "114"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "115"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "116"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "117"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "114 listesi sınırlı sayıdadır.",
+                "İlk itirazlar süreye bağlıdır; dava şartı re'sen bakılır."
+            ]
+        },
+        {
+            "id": "dilekce",
+            "title": "Dava ve cevap dilekçesi",
+            "definition": "Dava dilekçesi davayı açar ve uyuşmazlığı çerçeveler. Cevap süresi ve ikinci cevap, iddianın genişletilmesi yasağıyla bağlıdır.",
+            "elements": [
+                "dava dilekçesi unsurları",
+                "harç ve tebligat",
+                "cevap süresi",
+                "iddianın genişletilmesi yasağı",
+                "ıslah"
+            ],
+            "organicLinks": [
+                "Dilekçe, tahkikatın çerçevesidir.",
+                "Islah, yasağın kontrollü istisnasıdır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "119"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "122"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "127"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "128"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "141"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "176"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "119 unsurları eksikse süre verilerek tamamlama istenebilir.",
+                "Cevap verilmezse inkar varsayılmaz; yokluk sonuçları HMK'dadır."
+            ]
+        },
+        {
+            "id": "tahkikat",
+            "title": "Tahkikat",
+            "definition": "Tahkikat, uyuşmazlık vakıalarının toplanması ve delillerin ikamesidir. Ön inceleme tahkikattan önce gelir.",
+            "elements": [
+                "ön inceleme",
+                "vakıaların toplanması",
+                "delil ikamesi",
+                "tahkikatın sona ermesi"
+            ],
+            "organicLinks": [
+                "Ön inceleme dava şartlarını tarar.",
+                "Tahkikat bitmeden hüküm yazılmaz."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "137"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "138"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "140"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "147"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "184"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Ön incelemede sulh teşviki vardır.",
+                "Tahkikat tutanağı sonraki iddiayı keser."
+            ]
+        },
+        {
+            "id": "delil",
+            "title": "Delil",
+            "definition": "Kanunda aksine hüküm yoksa delil serbestisi vardır. Senetle ispat zorunluluğu ve yemin, ikrar, keşif, bilirkişi ayrı araçlardır.",
+            "elements": [
+                "ispat yükü",
+                "senetle ispat",
+                "tanık",
+                "bilirkişi",
+                "yemin"
+            ],
+            "organicLinks": [
+                "Delil, TMK m.6'nın usul yüzüdür.",
+                "Bilirkişi hâkimin yerini almaz."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "189"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "190"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "200"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "266"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "282"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "225"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Senetle ispat eşiği miktara bağlıdır.",
+                "Kesin delil / takdiri delil ayrımı kâğıtta yazılır."
+            ]
+        },
+        {
+            "id": "hukum",
+            "title": "Hüküm",
+            "definition": "Hüküm, davayı esastan bitiren karardır. Gerekçe, hüküm fıkrası ve kesinlik ayrı anlardır. Tefhim ve tebliğ süreleri başlatır.",
+            "elements": [
+                "gerekçe",
+                "hüküm fıkrası",
+                "tefhim",
+                "tebliğ",
+                "kesinleşme"
+            ],
+            "organicLinks": [
+                "Hüküm, ara karardan ayrılır.",
+                "Kesinleşme icranın kapısıdır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "294"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "297"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "298"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "301"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "303"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Fıkra açık yazılmazsa icra bozulur.",
+                "Maddi hata düzeltmesi istinaf değildir."
+            ]
+        },
+        {
+            "id": "kanun-yolu",
+            "title": "Kanun yolları (istinaf ve temyiz)",
+            "definition": "İstinaf, ilk derece hükmünün olgu ve hukuk denetimidir; temyiz hukuk denetimidir. Süreler hak düşürücüdür.",
+            "elements": [
+                "istinaf süresi ve sebebi",
+                "istinafın etkisi",
+                "temyiz süresi",
+                "temyiz sebepleri",
+                "karar düzeltme yokluğu"
+            ],
+            "organicLinks": [
+                "İstinaf temyizden önce gelir.",
+                "Kesin olarak verilen kararlar temyiz edilmez."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "341"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "345"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "353"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "361"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "369"
+                },
+                {
+                    "kanunId": "hmk",
+                    "maddeNo": "373"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "İstinaf dilekçesi hükmü durdurmaz (kural); icra geri bırakma ayrıdır.",
+                "Temyiz, olgu denetimi yapmaz."
+            ]
+        }
+    ]
+}

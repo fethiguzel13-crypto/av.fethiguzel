@@ -1,0 +1,37 @@
+{
+    "uniSlug": "altinbas",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Mahmutbey",
+    "cityHook": "Bağcılar'daki bir sanayi sitesi kira ve ayıp uyuşmazlığı",
+    "mehaz": "Altınbaş; Köln UOLP ayrı programdır, sayfa uydurulmaz",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / dönem ilanı).",
+        "format": "Klasik yazılı: madde + unsur + vakıaya yedirme. Oran dönem ilanına bağlıdır.",
+        "tips": [
+            "Altınbaş kâğıdında TBK lafzı bağlar; UOLP Köln hattı ayrı kayıttır.",
+            "Altınbaş kâğıdında ilk cümle kurumu adlandırır; slogan yetmez.",
+            "Öğretim elemanı duyurusu ve OBS bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "Altınbaş Üniversitesi Hukuk Fakültesi, İstanbul merkezli bir vakıf fakültesidir Eğitim dili Türkçedir.",
+        "Mahmutbey usulü: kaynak ve lafız önce, slayt cümlesi yok.",
+        "Bu örtü kamuya açık kimlik sayfasından üretilmiştir; amfi notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "Altınbaş Hukuk Fakültesi",
+            "url": "https://hukuk.altinbas.edu.tr/",
+            "note": "fakülte kimliği; slayt ve amfi notu yok"
+        }
+    ]
+}

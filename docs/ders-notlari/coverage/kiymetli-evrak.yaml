@@ -1,0 +1,39 @@
+# Denetçi manifesti — Kıymetli Evrak Hukuku
+courseCode: kiymetli-evrak
+title: Kıymetli Evrak Hukuku
+kanun: ttk
+guz:
+  - ke-kavram
+  - polise
+  - bono
+  - cir-teslim
+bahar:
+  - cek
+  - defi
+  - basvuru
+  - karsiliksiz
+institutions:
+  - id: ke-kavram
+    title: Kıymetli evrak
+    maddeler: ['645', '646', '647', '651']
+  - id: polise
+    title: Poliçe
+    maddeler: ['671', '672', '695', '714']
+  - id: bono
+    title: Bono (emre yazılı senet)
+    maddeler: ['776', '777']
+  - id: cek
+    title: Çek
+    maddeler: ['780', '795', '796']
+  - id: karsiliksiz
+    title: Karşılıksız çek (Çek Kanunu)
+    maddeler: ['1', '2', '3', '5']
+  - id: basvuru
+    title: Başvuru hakkı ve zamanaşımı
+    maddeler: ['714', '722', '726', '728']
+  - id: defi
+    title: Def'iler
+    maddeler: ['687', '825']
+  - id: cir-teslim
+    title: Ciro ve teslim
+    maddeler: ['681', '683', '788']

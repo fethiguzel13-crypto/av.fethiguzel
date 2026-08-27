@@ -1,0 +1,37 @@
+{
+    "uniSlug": "tobb-etu",
+    "calendar": "donemlik",
+    "lang": "tr-en30",
+    "campus": "Söğütözü",
+    "cityHook": "Söğütözü'ndeki bir limited şirket pay devri ve haksız rekabet iddiası",
+    "mehaz": "Ekonomi-hukuk kesişimi; kâğıtta TTK/TBK lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav + final + (izlenceye göre) ödev. %30 İngilizce bileşen.",
+        "format": "Klasik yazılı + vaka: unsuru ekonominin diline çevirmeden maddeye bağla.",
+        "tips": [
+            "TOBB kâğıdında ticari iş karinesi, medeni borçlar kuralını silmez; TTK m.3/m.19 önce yazılır.",
+            "İngilizce kaynak okunabilir; Türkçe kâğıtta madde numarası Türkçedir.",
+            "OBS ve öğretim elemanı bağlayıcıdır."
+        ]
+    },
+    "syllabusOrder": [
+        "ticari işletme ve tacir",
+        "ticaret sicili ve unvan",
+        "haksız rekabet",
+        "şirketler",
+        "kıymetli evrak"
+    ],
+    "schoolNotes": [
+        "TOBB ETÜ Hukuk, Söğütözü kampüsünde vakıf ve %30 İngilizce bileşenlidir.",
+        "Ekonomi fakültesi komşuluğu ticari işletme ve şirketler dersini öne çıkarır.",
+        "Slayt ve fotokopi not kullanılmaz."
+    ],
+    "sources": [
+        {
+            "title": "TOBB ETÜ Hukuk Fakültesi",
+            "url": "https://www.etu.edu.tr/tr/fakulte/hukuk-fakultesi",
+            "note": "fakülte kimliği"
+        }
+    ]
+}

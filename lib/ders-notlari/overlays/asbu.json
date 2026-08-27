@@ -1,0 +1,17 @@
+{
+    "uniSlug": "asbu",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Ulus / Hacı Bayram",
+    "cityHook": "Ulus'taki bir kamu ihalesi ve idari işlem iptali tartışması",
+    "mehaz": "Sosyal bilimler kampüsü; kamu hukuku vurgusu, kâğıtta yine kanun lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav + final.",
+        "format": "Klasik yazılı: idari işlem, vergi tarhı, rekabet.",
+        "tips": ["ASBÜ kâğıdında kamu-özel ayrımını ilk cümlede yazın.", "OBS bağlar."]
+    },
+    "syllabusOrder": ["hukuka giriş", "idare", "vergi", "ceza"],
+    "schoolNotes": ["ASBÜ Hukuk, Ankara Ulus hattında sosyal bilimler üniversitesindedir.", "Slayt yok."],
+    "sources": [{ "title": "ASBÜ Hukuk Fakültesi", "url": "https://hukuk.asbu.edu.tr/", "note": "fakülte kimliği" }]
+}

@@ -6,6 +6,7 @@ import { navigate } from '../lib/router';
 import { tapFeedback } from '../lib/haptics';
 import { KIND_LABEL, runCommand, type CommandHit, type GuideLite } from '../lib/command';
 import { loadArchive, type ArchiveRow } from '../lib/yargi';
+import { GZ } from '../lib/varlik';
 
 const KIND_TINT: Record<CommandHit['kind'], string> = {
   madde: '#2E4036',
@@ -120,7 +121,7 @@ export default function CommandSearch({ autoFocus = false }: { autoFocus?: boole
 
 async function loadGuidesLite(): Promise<GuideLite[]> {
   try {
-    const res = await fetch('./rehber/guides.json.gz');
+    const res = await fetch(`./rehber/guides.json${GZ}`);
     if (!res.ok) return [];
     const buf = new Uint8Array(await res.arrayBuffer());
     const all = JSON.parse(strFromU8(gunzipSync(buf))) as GuideLite[];

@@ -1,0 +1,276 @@
+{
+    "courseCode": "tuketici-hukuku",
+    "title": "Tüketici Hukuku",
+    "kanunId": "tkhk",
+    "guzInstitutionIds": [
+        "tuketici",
+        "ayipli-mal",
+        "ayipli-hizmet"
+    ],
+    "baharInstitutionIds": [
+        "mesafeli",
+        "haksiz-sart",
+        "taksitli",
+        "uyusmazlik"
+    ],
+    "institutions": [
+        {
+            "id": "tuketici",
+            "title": "Tüketici ve satıcı/sağlayıcı",
+            "definition": "Tüketici, ticari veya mesleki olmayan amaçlarla hareket eden gerçek veya tüzel kişidir. TKHK, TBK'nın tüketici sözleşmelerindeki özel hükmüdür.",
+            "elements": [
+                "tüketici sıfatı",
+                "satıcı/sağlayıcı",
+                "tüketici işlemi",
+                "kanunun emrediciliği"
+            ],
+            "organicLinks": [
+                "Tüketici sıfatı yoksa TKHK kapanır, TBK açılır.",
+                "Emredicilik, aleyhe sözleşme kaydını düşürür."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "1"
+                },
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "2"
+                },
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "3"
+                },
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "4"
+                },
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "6"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Tüzel kişi de tüketici olabilir; amaç ticari olmamalıdır.",
+                "İspat, reklam ve sözleşmenin yorumunda tüketici lehine bakılır."
+            ]
+        },
+        {
+            "id": "ayipli-mal",
+            "title": "Ayıplı mal",
+            "definition": "Mal, sözleşmede belirtilen nitelikleri veya makul olarak beklenen nitelikleri taşımıyorsa ayıplıdır. Tüketici seçimlik haklara sahiptir.",
+            "elements": [
+                "ayıp",
+                "bildirim",
+                "seçimlik haklar",
+                "zamanaşımı",
+                "ispat"
+            ],
+            "organicLinks": [
+                "TKHK ayıbı, TBK satım ayıbından süre ve haklarla ayrılır.",
+                "Ağır kusur, süreleri etkiler."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "8"
+                },
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "9"
+                },
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "10"
+                },
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "11"
+                },
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "12"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Seçimlik haklar: onarım, yenisiyle değiştirme, bedel iadesi, indirim.",
+                "Ayıp karinesi belirli süre işleterek satıcıyı zorlar."
+            ]
+        },
+        {
+            "id": "ayipli-hizmet",
+            "title": "Ayıplı hizmet",
+            "definition": "Hizmet, sözleşmede kararlaştırılan veya makul olarak beklenen nitelikleri taşımıyorsa ayıplıdır. Seçimlik haklar hizmetin niteliğine uyarlanır.",
+            "elements": [
+                "hizmet",
+                "ayıp",
+                "seçimlik hak",
+                "bedel"
+            ],
+            "organicLinks": [
+                "Hizmet, maldan teslimsiz oluşuyla ayrılır.",
+                "Eser sözleşmesi TKHK'ya tüketici işlemiyse girer."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "13"
+                },
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "14"
+                },
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "15"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Hizmette onarım ve yeniden ifa öne çıkar.",
+                "Bedel iadesi orantılı olabilir."
+            ]
+        },
+        {
+            "id": "mesafeli",
+            "title": "Mesafeli sözleşmeler ve cayma",
+            "definition": "Mesafeli sözleşmede taraflar fiziken aynı anda hazır değildir. Tüketici kural olarak cayma hakkına sahiptir; süre ve istisnalar kanundadır.",
+            "elements": [
+                "mesafeli ortam",
+                "ön bilgilendirme",
+                "cayma süresi",
+                "istisnalar",
+                "iade"
+            ],
+            "organicLinks": [
+                "Cayma, ayıptan ayrı bir haktır; sebep göstermez.",
+                "İstisnalar (kişiselleştirilmiş mal vb.) kâğıtta yazılır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "48"
+                },
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "49"
+                },
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "50"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Ön bilgilendirme eksikliği süreyi uzatır.",
+                "Cayma, sözleşmeyi geçmişe etkili sona erdirir."
+            ]
+        },
+        {
+            "id": "haksiz-sart",
+            "title": "Haksız şart",
+            "definition": "Tüketiciyle müzakere edilmeden sözleşmeye konulan, tüketici aleyhine dengesizlik yaratan şart haksızdır ve geçersiz sayılabilir.",
+            "elements": [
+                "müzakere edilmeme",
+                "dengesizlik",
+                "şeffaflık",
+                "geçersizlik"
+            ],
+            "organicLinks": [
+                "Haksız şart, TBK genel işlem koşulunun tüketici yüzüdür.",
+                "Dava, şartın yazılmamış sayılmasıdır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "5"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Yorum kuşkusunda tüketici lehine bakılır.",
+                "Liste, karine sağlar; genel kloz da işler."
+            ]
+        },
+        {
+            "id": "taksitli",
+            "title": "Taksitle satış ve finansman",
+            "definition": "Taksitle satışta teslim ve bedelin taksitlere bölünmesi özel bilgi ve cayma rejimine bağlıdır. Bağlı kredi, satıcı ile kredi vereni birlikte bağlar.",
+            "elements": [
+                "taksitle satış",
+                "ön bilgi",
+                "cayma",
+                "bağlı kredi",
+                "muacceliyet"
+            ],
+            "organicLinks": [
+                "Taksit, mesafeli sözleşmenin caymasından ayrı bir kapıdır.",
+                "Bağlı kredide satıcı ve banka birlikte sorumlu olabilir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "16"
+                },
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "17"
+                },
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "18"
+                },
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "30"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Cayma, taksitli satışta da süreye bağlıdır.",
+                "Muacceliyet kaydı emredici sınırlara takılır."
+            ]
+        },
+        {
+            "id": "uyusmazlik",
+            "title": "Tüketici uyuşmazlığı",
+            "definition": "Tüketici hakem heyeti ve tüketici mahkemesi, parasal sınırlara göre yetkilidir. Kararlar icra edilebilir; itiraz yolu kanundadır.",
+            "elements": [
+                "hakem heyeti",
+                "parasal sınır",
+                "tüketici mahkemesi",
+                "itiraz",
+                "icra"
+            ],
+            "organicLinks": [
+                "Hakem heyeti genel mahkemenin yerini sınırlı uyuşmazlıkta alır.",
+                "Tüketici lehine yargılama gideri rejimi vardır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "68"
+                },
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "70"
+                },
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "73"
+                },
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "77"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Parasal sınır her yıl ilan edilir; kâğıtta güncel tebliğe bakılır.",
+                "Tüketici mahkemesi, TKHK'nın asıl yargı yeridir."
+            ]
+        }
+    ]
+}

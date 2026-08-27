@@ -1,0 +1,291 @@
+{
+    "courseCode": "deniz-ticareti",
+    "title": "Deniz Ticareti Hukuku",
+    "kanunId": "ttk",
+    "guzInstitutionIds": [
+        "gemi",
+        "donatan",
+        "navlun",
+        "kaptan"
+    ],
+    "baharInstitutionIds": [
+        "deniz-kazasi",
+        "cevra",
+        "reh-in-gemi",
+        "konismento"
+    ],
+    "institutions": [
+        {
+            "id": "gemi",
+            "title": "Gemi",
+            "definition": "Gemi, tahsis edildiği amaç suda hareket etmesini gerektiren, yüzme özelliği bulunan ve pek küçük olmayan her araçtır. Ticaret gemisi ticari amaçla işletilir.",
+            "elements": [
+                "suda hareket",
+                "yüzme",
+                "büyüklük",
+                "ticaret gemisi"
+            ],
+            "organicLinks": [
+                "Gemi, taşınır rejimine girer ama tapu benzeri sicile bağlanır.",
+                "Yat ve kamu gemisi ayrı rejim olabilir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "931"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "932"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "935"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Tanım 931'dedir.",
+                "Sicil, ayni hakların aleniyetini taşır."
+            ]
+        },
+        {
+            "id": "donatan",
+            "title": "Donatan ve gemi adamları",
+            "definition": "Donatan, gemisini deniz ticaretinde kullanan geminin malikidir. Kaptan ve gemi adamları donatanı temsil ve borçlandırabilir.",
+            "elements": [
+                "malik",
+                "deniz ticareti kullanımı",
+                "kaptan",
+                "temsil"
+            ],
+            "organicLinks": [
+                "Donatan, kiracı ve işleten karıştırılmaz.",
+                "Kaptanın kanuni temsili geniş olabilir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "936"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "947"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "954"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Donatan sıfatı işletmeye bağlıdır.",
+                "Gemi adamı iş hukuku ile deniz hukukunun kesişimindedir."
+            ]
+        },
+        {
+            "id": "kaptan",
+            "title": "Kaptan",
+            "definition": "Kaptan, geminin sevk ve idaresinden sorumlu gemi adamıdır. Kanuni temsil yetkisi, donatanı ve bazen yük ilgililerini bağlar.",
+            "elements": [
+                "sevk ve idare",
+                "kanuni temsil",
+                "gemi adamı",
+                "sorumluluk"
+            ],
+            "organicLinks": [
+                "Kaptan, donatanın organı değildir; özel temsil ve borçlandırma yetkisi taşır.",
+                "İş hukuku kesişimi saklıdır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1097"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1101"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1105"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Temsil, seferin gerekleriyle sınırlıdır.",
+                "Kaptanın hukuka aykırı talimatı donatanı bağlamayabilir."
+            ]
+        },
+        {
+            "id": "navlun",
+            "title": "Navlun sözleşmesi",
+            "definition": "Navlun sözleşmesinde taşıyan, yükü deniz yoluyla taşımayı, taşıtan navlun ödemeyi borçlanır. Konişmento hem senet hem ispat aracıdır.",
+            "elements": [
+                "taşıyan",
+                "yük",
+                "navlun",
+                "konişmento"
+            ],
+            "organicLinks": [
+                "Navlun, kara taşımasından (TTK/TKHK) deniz rejimine özgüdür.",
+                "Konişmento kıymetli evrak işlevi görebilir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1061"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1062"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1138"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Taşıyanın özen borcu yükün teslimine kadar sürer.",
+                "Konişmento, yük üzerindeki hakkı dolaştırır."
+            ]
+        },
+        {
+            "id": "konismento",
+            "title": "Konişmento",
+            "definition": "Konişmento, taşıyanın yükü teslim aldığını gösteren ve yük üzerindeki hakkı dolaştırabilen senettir. Nama, emre veya hamiline düzenlenebilir.",
+            "elements": [
+                "teslim belgesi",
+                "senet işlevi",
+                "ciro",
+                "yükü teslim borcu"
+            ],
+            "organicLinks": [
+                "Konişmento, kıymetli evrakın deniz yüzüdür.",
+                "Çelişen kayıtta senet metni öne çıkar."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1228"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1230"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1237"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Emre yazılı konişmento ciroyla geçer.",
+                "Hamile teslim, yetkili hamile yapılır."
+            ]
+        },
+        {
+            "id": "deniz-kazasi",
+            "title": "Denizde kaza ve müşterek avarya",
+            "definition": "Çatma, kurtarma ve müşterek avarya deniz tehlikesine özgü rejimlerdir. Zarar paylaştırılır; kurtarma ücreti ayrıdır.",
+            "elements": [
+                "çatma",
+                "kurtarma",
+                "müşterek avarya",
+                "paylaştırma"
+            ],
+            "organicLinks": [
+                "Müşterek avarya, genel haksız fiil paylaşımından ayrıdır.",
+                "Kurtarma, gönüllü yardımdır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1183"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1222"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1273"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Çatma kusura bakabilir.",
+                "Avarya dispeçle hesaplanır."
+            ]
+        },
+        {
+            "id": "cevra",
+            "title": "Cevra ve sınırlı sorumluluk",
+            "definition": "Deniz alacaklarında sorumluluk, gemi ve navlun değeriyle sınırlanabilir. Fon usulü alacaklıları bir araya getirir.",
+            "elements": [
+                "deniz alacağı",
+                "sınır",
+                "fon",
+                "imtiyaz"
+            ],
+            "organicLinks": [
+                "Sınırlı sorumluluk, TBK tam tazminatın deniz istisnasıdır.",
+                "Kasten zarar sınırı kaldırır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1320"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1323"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1326"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Sınır, alacak türüne göre değişir.",
+                "Fon, yarışan alacakları sıraya koyar."
+            ]
+        },
+        {
+            "id": "reh-in-gemi",
+            "title": "Gemi üzerinde ayni haklar",
+            "definition": "Gemi siciline tescil, mülkiyet ve ipoteğin aleniyetini sağlar. Kanuni rehin, alacaklıyı korur.",
+            "elements": [
+                "sicil",
+                "mülkiyet",
+                "gemi ipoteği",
+                "kanuni rehin"
+            ],
+            "organicLinks": [
+                "Gemi ipoteği, TMK taşınmaz ipoteğine benzer ama deniz sicilinedir.",
+                "Kanuni rehin, navlun ve kurtarma alacaklarında görünür."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "954"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1013"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1014"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Tescil kuraldır.",
+                "İpotek derecesi sonraki alacaklıyı keser."
+            ]
+        }
+    ]
+}

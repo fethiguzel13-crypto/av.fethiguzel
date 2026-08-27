@@ -1,4 +1,5 @@
 import { gunzipSync, strFromU8 } from 'fflate';
+import { GZ } from './varlik';
 
 /**
  * Madde → o maddeye atıf yapan Yargıtay kararları.
@@ -33,7 +34,7 @@ export function loadAtif(): Promise<AtifIndeksi> {
   if (cache) return Promise.resolve(cache);
   if (inflight) return inflight;
 
-  inflight = fetch('./mevzuat/atif.json.gz')
+  inflight = fetch(`./mevzuat/atif.json${GZ}`)
     .then(async (res) => {
       if (!res.ok) throw new Error(String(res.status));
       const buf = new Uint8Array(await res.arrayBuffer());

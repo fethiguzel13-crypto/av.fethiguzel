@@ -1,0 +1,303 @@
+{
+    "courseCode": "ticaret-sirketler",
+    "title": "Ticaret Şirketleri Hukuku",
+    "kanunId": "ttk",
+    "guzInstitutionIds": [
+        "sirket-kavrami",
+        "kollektif-komandit",
+        "anonim",
+        "organlar"
+    ],
+    "baharInstitutionIds": [
+        "sermaye-pay",
+        "limited",
+        "sona-erme-sirket"
+    ],
+    "institutions": [
+        {
+            "id": "sirket-kavrami",
+            "title": "Ticaret şirketleri",
+            "definition": "Ticaret şirketleri tüzel kişiliği haiz kişi veya sermaye birlikleridir. Kollektif, komandit, anonim, limited ve kooperatif kanunda sayılır.",
+            "elements": [
+                "tüzel kişilik",
+                "kişi şirketi / sermaye şirketi",
+                "unvan",
+                "merkez",
+                "ehliyet"
+            ],
+            "organicLinks": [
+                "Ticaret şirketi adi şirketten (TBK) tüzel kişilikle ayrılır.",
+                "Sermaye şirketi malvarlığıyla sorumludur."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "124"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "125"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "126"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "329"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Sınırlı sayı ilkesi: kanunda sayılan tipler dışında ticaret şirketi kurulmaz.",
+                "Tüzel kişilik tescille kazanılır."
+            ]
+        },
+        {
+            "id": "kollektif-komandit",
+            "title": "Kişi şirketleri (kollektif ve komandit)",
+            "definition": "Kollektifte ortaklar şirket borçlarından ikinci derecede ve müteselsilen sorumludur. Komanditte komandite sınırsız, komanditer sınırlı sorumludur.",
+            "elements": [
+                "kişi unsuru",
+                "sınırsız sorumluluk",
+                "komanditer sınır",
+                "yönetim",
+                "unvan"
+            ],
+            "organicLinks": [
+                "Kişi şirketi payın serbestçe devredilmemesiyle sermaye şirketinden ayrılır.",
+                "Komanditer yönetime karışırsa sınırsız sorumlu olabilir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "211"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "232"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "304"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "309"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Kollektif ikinci derecede sorumluluk, alacaklının önce şirkete gitmesini ister.",
+                "Komandit, kişi ve sermaye karışımıdır."
+            ]
+        },
+        {
+            "id": "anonim",
+            "title": "Anonim şirket",
+            "definition": "Anonim şirket, sermayesi belirli ve paylara bölünmüş, borçlarından yalnız malvarlığıyla sorumlu olan sermaye şirketidir. Pay sahibi, taahhüt ettiği sermaye payı ile sınırlıdır.",
+            "elements": [
+                "belirli sermaye",
+                "paylara bölünme",
+                "malvarlığıyla sorumluluk",
+                "pay sahibi",
+                "tescil"
+            ],
+            "organicLinks": [
+                "Anonim, limitedden pay ve organ yapısıyla ayrılır.",
+                "Halka açıklık ayrı bir rejim katmanıdır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "329"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "330"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "338"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "339"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Tek pay sahibiyle AS kurulabilir.",
+                "Esas sözleşme kurucudur."
+            ]
+        },
+        {
+            "id": "organlar",
+            "title": "Anonim şirket organları",
+            "definition": "Yönetim kurulu idare ve temsili, genel kurul irade oluşumunu, bağımsız denetim denetimi taşır. Organlar kanuni yetki dağılımına bağlıdır.",
+            "elements": [
+                "genel kurul",
+                "yönetim kurulu",
+                "temsil yetkisi",
+                "denetim",
+                "karar nisabı"
+            ],
+            "organicLinks": [
+                "Organ yetkisi esas sözleşmeyle tamamen yok edilemez.",
+                "Temsil, iç yönerge ile sınırlanır; iyiniyetli üçüncü kişi korunur."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "359"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "365"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "370"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "408"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "421"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "YK en az bir üyeden oluşabilir.",
+                "Genel kurulun devredilemez yetkileri 408'dedir."
+            ]
+        },
+        {
+            "id": "sermaye-pay",
+            "title": "Sermaye, pay ve haklar",
+            "definition": "Pay, sermayenin birimini ve pay sahibinin haklarını taşır. Nama ve hamiline yazılı pay, bedel borcu ve rüçhan ayrı rejimlerdir.",
+            "elements": [
+                "esas sermaye",
+                "pay bedeli",
+                "nama/hamiline",
+                "rüçhan hakkı",
+                "temettü"
+            ],
+            "organicLinks": [
+                "Pay, ortaklık hakkıdır; alacak hakkı değildir.",
+                "Bedel borcu ifa edilmeden bazı haklar kısıtlanır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "339"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "480"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "481"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "461"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "507"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Rüçhan, sermaye artırımında mevcut pay sahibini korur.",
+                "Nama yazılı pay senedi cirosuz geçmez (kural)."
+            ]
+        },
+        {
+            "id": "limited",
+            "title": "Limited şirket",
+            "definition": "Limited şirket, esas sermayesi belirli, paylara bölünmüş, ortakları taahhüt ettikleri sermaye payı ile sorumlu olan sermaye şirketidir. Pay devri sıkı şekle bağlıdır.",
+            "elements": [
+                "esas sermaye",
+                "esas sermaye payı",
+                "müdürler",
+                "pay devri",
+                "ortak sayısı"
+            ],
+            "organicLinks": [
+                "Limited, anonimin sadeleştirilmiş kardeşidir; pay senedi kural olarak yoktur.",
+                "Devrin bağlayıcılığı tescile bağlıdır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "573"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "574"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "577"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "595"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "623"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Tek ortaklı limited mümkündür.",
+                "Pay devri yazılı şekil + genel kurul onayı ister (kural)."
+            ]
+        },
+        {
+            "id": "sona-erme-sirket",
+            "title": "Sona erme ve tasfiye",
+            "definition": "Şirket, kanunda sayılan sebeplerle sona erer; tasfiye malvarlığını paraya çevirir ve alacaklıları korur. İflas ayrı yoldur.",
+            "elements": [
+                "sona erme sebebi",
+                "tasfiye memuru",
+                "alacaklıların korunması",
+                "iade",
+                "terkin"
+            ],
+            "organicLinks": [
+                "Sona erme, tüzel kişiliği hemen yok etmez; tasfiye süresince ehliyet sınırlı kalır.",
+                "İflas, İİK masasına geçer."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "529"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "536"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "543"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "636"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "AS sona erme sebepleri 529'dadır.",
+                "Limited sona erme 636 hattındadır."
+            ]
+        }
+    ]
+}

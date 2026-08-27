@@ -1,0 +1,17 @@
+{
+    "uniSlug": "istanbul-medeniyet",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Göztepe / İstanbul",
+    "cityHook": "Kadıköy'deki bir kira ve arabuluculuk dava şartı",
+    "mehaz": "İstanbul devlet fakültesi; HUAK ve TBK lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav + final.",
+        "format": "Klasik yazılı: dava şartı arabuluculuk + kira.",
+        "tips": ["Medeniyet kâğıdında dava şartını esasa karıştırmayın.", "OBS bağlar."]
+    },
+    "syllabusOrder": ["usul", "arabuluculuk", "borçlar", "icra"],
+    "schoolNotes": ["İstanbul Medeniyet Hukuk, Göztepe hattındadır.", "Slayt yok."],
+    "sources": [{ "title": "İstanbul Medeniyet Üniversitesi Hukuk Fakültesi", "url": "https://hukuk.medeniyet.edu.tr/", "note": "fakülte kimliği" }]
+}

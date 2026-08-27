@@ -1,0 +1,39 @@
+# Denetçi manifesti — Eşya Hukuku
+courseCode: esya-hukuku
+title: Eşya Hukuku
+kanun: tmk
+guz:
+  - zilyetlik
+  - tapu
+  - mulkiyet
+  - payli-mulkiyet
+bahar:
+  - irtifak
+  - ipotek
+  - tasinir-rehin
+  - kat-mulkiyeti
+institutions:
+  - id: zilyetlik
+    title: Zilyetlik
+    maddeler: ['973', '974', '980', '982', '983', '985', '990', '992']
+  - id: tapu
+    title: Tapu sicili
+    maddeler: ['997', '1007', '1013', '1014', '1023', '1024', '1025']
+  - id: mulkiyet
+    title: Mülkiyet
+    maddeler: ['683', '684', '686', '705', '706', '716']
+  - id: payli-mulkiyet
+    title: Paylı mülkiyet ve elbirliği
+    maddeler: ['688', '689', '691', '692', '698', '701', '703']
+  - id: irtifak
+    title: İrtifak hakları
+    maddeler: ['779', '780', '794', '803', '823']
+  - id: ipotek
+    title: Taşınmaz rehni (ipotek)
+    maddeler: ['850', '851', '856', '881', '888', '890']
+  - id: tasinir-rehin
+    title: Taşınır rehni
+    maddeler: ['939', '940', '950', '954']
+  - id: kat-mulkiyeti
+    title: Kat mülkiyeti
+    maddeler: ['1', '2', '3', '16', '19', '20']

@@ -1,0 +1,39 @@
+# Denetçi manifesti — Ceza Hukuku Özel Hükümler
+courseCode: ceza-ozel
+title: Ceza Hukuku Özel Hükümler
+kanun: tck
+guz:
+  - kasten-oldurme
+  - kasten-yaralama
+  - hakaret
+  - hirizlik
+bahar:
+  - dolandiricilik
+  - uyusturucu
+  - zimmet
+  - gorevi-kotuye
+institutions:
+  - id: kasten-oldurme
+    title: Kasten öldürme
+    maddeler: ['81', '82', '83']
+  - id: kasten-yaralama
+    title: Kasten yaralama
+    maddeler: ['86', '87', '88']
+  - id: hakaret
+    title: Hakaret
+    maddeler: ['125', '127', '129']
+  - id: hirizlik
+    title: Hırsızlık
+    maddeler: ['141', '142', '144', '145']
+  - id: dolandiricilik
+    title: Dolandırıcılık
+    maddeler: ['157', '158']
+  - id: uyusturucu
+    title: Uyuşturucu ticareti
+    maddeler: ['188', '191']
+  - id: zimmet
+    title: Zimmet
+    maddeler: ['247', '248', '249']
+  - id: gorevi-kotuye
+    title: Görevi kötüye kullanma
+    maddeler: ['257']

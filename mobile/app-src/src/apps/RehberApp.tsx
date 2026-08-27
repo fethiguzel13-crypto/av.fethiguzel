@@ -9,6 +9,7 @@ import { tapFeedback } from '../lib/haptics';
 import MorePage from '../shell/MorePage';
 import SettingsPage from '../shell/SettingsPage';
 import EmptyState from '../shell/EmptyState';
+import { GZ } from '../lib/varlik';
 
 /**
  * Vatandaş Hukuku — denetimden geçmiş rehberler, tamamı cihazda.
@@ -68,7 +69,7 @@ function useGuides() {
     let alive = true;
     (async () => {
       try {
-        const res = await fetch('./rehber/guides.json.gz');
+        const res = await fetch(`./rehber/guides.json${GZ}`);
         if (!res.ok) throw new Error(String(res.status));
         const buf = new Uint8Array(await res.arrayBuffer());
         cache = JSON.parse(strFromU8(gunzipSync(buf))) as Guide[];

@@ -1,0 +1,37 @@
+{
+    "uniSlug": "piri-reis",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Tuzla",
+    "cityHook": "Tuzla tersanesindeki bir gemi inşa eser sözleşmesi",
+    "mehaz": "Piri Reis; deniz ticareti izlencede anılır, kâğıtta TBK/TTK lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / dönem ilanı).",
+        "format": "Klasik yazılı: madde + unsur + vakıaya yedirme. Oran dönem ilanına bağlıdır.",
+        "tips": [
+            "Piri Reis kâğıdında gemi inşasını adî eserden ayırın; TTK deniz hükümleri varsa onu yazın.",
+            "Piri Reis kâğıdında ilk cümle kurumu adlandırır; slogan yetmez.",
+            "Öğretim elemanı duyurusu ve OBS bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "Piri Reis Üniversitesi Hukuk Fakültesi, İstanbul merkezli bir vakıf fakültesidir Eğitim dili Türkçedir.",
+        "Tuzla usulü: kaynak ve lafız önce, slayt cümlesi yok.",
+        "Bu örtü kamuya açık kimlik sayfasından üretilmiştir; amfi notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "Piri Reis Hukuk Fakültesi",
+            "url": "https://www.pirireis.edu.tr/akademik/fakulteler/hukuk-fakultesi",
+            "note": "fakülte kimliği; slayt ve amfi notu yok"
+        }
+    ]
+}

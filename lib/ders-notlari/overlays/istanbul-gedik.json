@@ -1,0 +1,37 @@
+{
+    "uniSlug": "istanbul-gedik",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Kartal / Yakacık",
+    "cityHook": "Kartal sanayi sitesindeki bir eser ve ayıp",
+    "mehaz": "Gedik vakıf fakültesi; TBK eser lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / dönem ilanı).",
+        "format": "Klasik yazılı: madde + unsur + vakıaya yedirme. Oran dönem ilanına bağlıdır.",
+        "tips": [
+            "Gedik kâğıdında eser ayıbını satım ayıbıyla karıştırmayın.",
+            "Gedik kâğıdında ilk cümle kurumu adlandırır; slogan yetmez.",
+            "Öğretim elemanı duyurusu ve OBS bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "İstanbul Gedik Üniversitesi Hukuk Fakültesi, İstanbul merkezli bir vakıf fakültesidir Eğitim dili Türkçedir.",
+        "Kartal / Yakacık usulü: kaynak ve lafız önce, slayt cümlesi yok.",
+        "Bu örtü kamuya açık kimlik sayfasından üretilmiştir; amfi notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "Gedik Hukuk Fakültesi",
+            "url": "https://www.gedik.edu.tr/akademik/fakulteler/hukuk-fakultesi",
+            "note": "fakülte kimliği; slayt ve amfi notu yok"
+        }
+    ]
+}

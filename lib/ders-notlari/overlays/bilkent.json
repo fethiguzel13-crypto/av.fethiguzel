@@ -1,0 +1,39 @@
+{
+    "uniSlug": "bilkent",
+    "calendar": "donemlik",
+    "lang": "tr-en30",
+    "campus": "Bilkent kampüsü",
+    "cityHook": "Bilkent'teki bir yurt sözleşmesi ve genel işlem koşulu denetimi",
+    "mehaz": "Karşılaştırmalı / Anglo-Amerikan okuma; kâğıtta TBK lafzı yine bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav + final + (ders ilanına göre) ödev/sunum. %30 İngilizce program bileşeni.",
+        "format": "Issue spotting + madde: vakıayı sorunlara ayır, TBK maddesini bağla. İngilizce kaynak okunabilir, kâğıt Türkçe ise madde Türkçe yazılır.",
+        "tips": [
+            "Bilkent kâğıdında karşılaştırmalı cümle süs değil, TBK şartını aydınlatmak içindir.",
+            "Case method, künye uydurmayı meşrulaştırmaz; yerel arşivde yoksa E./K. yazılmaz.",
+            "Ders izlencesi ve öğretim elemanı bağlayıcıdır."
+        ]
+    },
+    "syllabusOrder": [
+        "obligation and sources",
+        "formation of contract",
+        "vitiated consent",
+        "performance and default",
+        "torts",
+        "unjust enrichment",
+        "limitation periods"
+    ],
+    "schoolNotes": [
+        "Bilkent Hukuk %30 İngilizce bileşenli vakıf fakültedir; karşılaştırmalı okuma beklenir.",
+        "Issue spotting, unsur listesinin yerine geçmez; TBK lafzı Türkçe kâğıtta yazılır.",
+        "Slayt ve lisanslı olmayan ders notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "Bilkent Faculty of Law",
+            "url": "https://law.bilkent.edu.tr/",
+            "note": "fakülte kimliği; izlence ders sayfası"
+        }
+    ]
+}

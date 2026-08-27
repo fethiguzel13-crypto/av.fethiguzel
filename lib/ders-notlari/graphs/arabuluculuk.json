@@ -1,0 +1,311 @@
+{
+    "courseCode": "arabuluculuk",
+    "title": "Arabuluculuk Hukuku",
+    "kanunId": "arabuluculuk",
+    "guzInstitutionIds": [
+        "iradi",
+        "gizlilik",
+        "arabulucu",
+        "ucret-arabulucu"
+    ],
+    "baharInstitutionIds": [
+        "surec",
+        "anlasma",
+        "dava-sarti",
+        "ilk-toplanti"
+    ],
+    "institutions": [
+        {
+            "id": "iradi",
+            "title": "İradi olma ve eşitlik",
+            "definition": "Taraflar arabulucuya başvurmak, süreci sürdürmek veya vazgeçmek konusunda kural olarak serbesttir. Dava şartı arabuluculuk bu serbestiyi sınırlar. Eşitlik, arabulucunun tarafsızlığını ister.",
+            "elements": [
+                "serbesti",
+                "eşitlik",
+                "tarafsızlık",
+                "dava şartı istisnası"
+            ],
+            "organicLinks": [
+                "İradi olma, tahkim anlaşmasından ayrıdır.",
+                "Dava şartı, 18/A ile özel uyuşmazlıklarda zorunludur."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "1"
+                },
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "2"
+                },
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "3"
+                },
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "9"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Vazgeçme hakkı, dava şartında daralır.",
+                "Arabulucu taraf tutamaz."
+            ]
+        },
+        {
+            "id": "gizlilik",
+            "title": "Gizlilik",
+            "definition": "Arabuluculukta elde edilen bilgi ve belgeler, kanunî istisnalar dışında açıklanamaz ve yargılamada delil olarak kullanılamaz. Gizlilik, sürecin işlemesini korur.",
+            "elements": [
+                "açıklama yasağı",
+                "delil yasağı",
+                "istisna",
+                "tutanak"
+            ],
+            "organicLinks": [
+                "Gizlilik, duruşmanın aleniyetinin tersidir.",
+                "Suç ihbarı istisnası saklıdır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "4"
+                },
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "5"
+                },
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "33"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Delil yasağı, sonradan davada sürpriz delili keser.",
+                "Arabulucu tanıklıktan çekinebilir."
+            ]
+        },
+        {
+            "id": "ucret-arabulucu",
+            "title": "Arabulucu ücreti ve gider",
+            "definition": "Arabulucu ücreti, tarifeye veya sözleşmeye bağlıdır. Dava şartında ilk toplantıya katılmama, yargılama giderini etkileyebilir.",
+            "elements": [
+                "tarife",
+                "sözleşme",
+                "gider",
+                "katılmama sonucu"
+            ],
+            "organicLinks": [
+                "Ücret, hâkim harcından ayrıdır.",
+                "Gider yükü, sürecin sonucuna göre kayabilir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "7"
+                },
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "21"
+                },
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "16"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Tarife asgariyi çizer.",
+                "Anlaşma olursa ücret paylaşımı belgede yazılır."
+            ]
+        },
+        {
+            "id": "arabulucu",
+            "title": "Arabulucu",
+            "definition": "Arabulucu, sicile kayıtlı, uyuşmazlığı çözecek kararı vermeyen, süreci yöneten bağımsız üçüncü kişidir. Yasaklılık ve red hâlleri kanundadır.",
+            "elements": [
+                "sicil",
+                "bağımsızlık",
+                "yetki sınırı",
+                "red"
+            ],
+            "organicLinks": [
+                "Arabulucu hâkim değildir; hüküm kurmaz.",
+                "Uzman arabulucu, dava şartı iş ve ticaret uyuşmazlıklarında aranabilir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "6"
+                },
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "7"
+                },
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "8"
+                },
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "19"
+                },
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "20"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Sicile kayıt mesleğe giriştir.",
+                "Red, tarafsızlığı sarsan hâllerde işler."
+            ]
+        },
+        {
+            "id": "ilk-toplanti",
+            "title": "İlk toplantı ve son tutanak",
+            "definition": "İlk toplantı, tarafların arabulucu önünde süreci kabul veya reddettiği andır. Son tutanak, anlaşma, anlaşamama veya vazgeçmeyi belgeler ve davanın kapısını açar.",
+            "elements": [
+                "davet",
+                "katılım",
+                "son tutanak",
+                "anlaşamama"
+            ],
+            "organicLinks": [
+                "İlk toplantısız son tutanak, dava şartını işlemez kılar.",
+                "Tutanak imzası, yargıya geçiş belgesidir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "13"
+                },
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "14"
+                },
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "15"
+                },
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "17"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Mazeretsiz gelmeme gider sonucunu değiştirir.",
+                "Anlaşamama tutanağı dava ehliyetini açar."
+            ]
+        },
+        {
+            "id": "surec",
+            "title": "Süreç ve süre",
+            "definition": "Arabuluculuk, başvuru, ilk toplantı, müzakere ve son tutanakla yürür. Süreler, dava şartında hak düşürücü etki doğurabilir.",
+            "elements": [
+                "başvuru",
+                "ilk toplantı",
+                "müzakere",
+                "süre"
+            ],
+            "organicLinks": [
+                "Süre, HMK dava süresini durdurabilir.",
+                "İlk toplantıya katılmama, yargılama giderini etkiler."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "13"
+                },
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "15"
+                },
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "16"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Süre, somut uyuşmazlığın niteliğine göre yönetilir.",
+                "Son tutanak, davanın kapısını açar veya kapatır."
+            ]
+        },
+        {
+            "id": "anlasma",
+            "title": "Anlaşma ve icra",
+            "definition": "Anlaşma belgesi, icra edilebilirlik şerhiyle ilam niteliği kazanabilir. Şerh, asliye mahkemesinden istenir. Anlaşma, sözleşme hükmündedir.",
+            "elements": [
+                "anlaşma belgesi",
+                "icra edilebilirlik şerhi",
+                "ilam niteliği",
+                "yerine getirme"
+            ],
+            "organicLinks": [
+                "Anlaşma, mahkeme ilamı değildir; şerhle ilam gücüne yaklaşır.",
+                "Kamu düzenine aykırı anlaşma şerh alamaz."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "17"
+                },
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "17A"
+                },
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "17B"
+                },
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "18"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Şerh, çekişmesiz yargı işidir.",
+                "İcra, İİK ilamlı hattına kayabilir."
+            ]
+        },
+        {
+            "id": "dava-sarti",
+            "title": "Dava şartı arabuluculuk",
+            "definition": "Belirli uyuşmazlıklarda dava açmadan önce arabulucuya başvuru dava şartıdır. İş, ticari ve tüketici uyuşmazlıklarının bir kısmı bu kapsamdadır. 18/A özel rejimdir.",
+            "elements": [
+                "kapsam",
+                "başvuru zorunluluğu",
+                "son tutanak",
+                "dava şartı yaptırımı"
+            ],
+            "organicLinks": [
+                "Dava şartı, esasa girilmeden reddi doğurur.",
+                "Tüketici ve iş uyuşmazlığında kapsam tebliğlerle güncellenir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "18"
+                },
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "18A"
+                },
+                {
+                    "kanunId": "arabuluculuk",
+                    "maddeNo": "18B"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "18/A dava şartını, 18/B bazı usul sonuçlarını taşır.",
+                "İlk toplantıya geçerli mazeretsiz gelmeme gider sonucunu değiştirir."
+            ]
+        }
+    ]
+}

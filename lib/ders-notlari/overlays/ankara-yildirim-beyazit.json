@@ -1,0 +1,44 @@
+{
+    "uniSlug": "ankara-yildirim-beyazit",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Esenboğa / Çubuk hattı",
+    "cityHook": "Esenboğa yolundaki bir araç satımı ve ayıp iddiası",
+    "mehaz": "Ankara ekosistemi; AÜHF/AHBV ile paylaşılan TBK dogmatiği",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS ve dönem ilanı esas).",
+        "format": "Klasik yazılı: madde + unsur + olaya yedirme. Pratik çalışma haftaları dönem ilanına bağlıdır.",
+        "tips": [
+            "Kâğıdın ilk cümlesinde borcun kaynağını yazın; AYBÜ yazılısı kaynak kapısı olmadan temerrüde geçmez.",
+            "Güz ve bahar ayrı kodludur; yıllık master yalnız bütünleme/tekrar içindir.",
+            "OBS ve sorumlu öğretim elemanının duyurusu bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borç ve borç ilişkisi",
+        "sözleşmenin kurulması",
+        "irade sakatlıkları",
+        "temsil",
+        "ifa ve temerrüt",
+        "haksız fiil ve sebepsiz zenginleşme",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "AYBÜ genç fakültedir; müfredat dönemlik yürür ve Ankara dogmatik hattını izler.",
+        "Resmi açık ders arşivi (acikders tarzı) yoktur; izlence OBS ve fakülte duyurusundadır.",
+        "Kaynak paylaşımı AÜHF/AHBV ile yüksektir; kâğıtta yine TBK lafzı bağlar."
+    ],
+    "sources": [
+        {
+            "title": "AYBÜ Hukuk ders programı sayfası",
+            "url": "https://aybu.edu.tr/Hukuk/tr/sayfa/1058/Ders-Programı",
+            "note": "program duyurusu; slayt yok"
+        },
+        {
+            "title": "AYBÜ Hukuk Fakültesi",
+            "url": "https://aybu.edu.tr/hukuk",
+            "note": "fakülte kimliği"
+        }
+    ]
+}

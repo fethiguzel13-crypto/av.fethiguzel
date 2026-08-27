@@ -1,0 +1,37 @@
+{
+    "uniSlug": "ankara-medipol",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Ankara Medipol kampüsü",
+    "cityHook": "Ankara'daki bir özel sağlık vekâleti ve özen",
+    "mehaz": "Ankara Medipol vakıf fakültesi; TBK vekâlet lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / dönem ilanı).",
+        "format": "Klasik yazılı: madde + unsur + vakıaya yedirme. Oran dönem ilanına bağlıdır.",
+        "tips": [
+            "Ankara Medipol kâğıdında hekim sözleşmesini hizmetle karıştırmayın.",
+            "Ankara Medipol kâğıdında ilk cümle kurumu adlandırır; slogan yetmez.",
+            "Öğretim elemanı duyurusu ve OBS bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "Ankara Medipol Üniversitesi Hukuk Fakültesi, Ankara merkezli bir vakıf fakültesidir Eğitim dili Türkçedir.",
+        "Ankara Medipol kampüsü usulü: kaynak ve lafız önce, slayt cümlesi yok.",
+        "Bu örtü kamuya açık kimlik sayfasından üretilmiştir; amfi notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "Ankara Medipol Hukuk Fakültesi",
+            "url": "https://www.ankaramedipol.edu.tr/akademik/fakulteler/hukuk-fakultesi",
+            "note": "fakülte kimliği; slayt ve amfi notu yok"
+        }
+    ]
+}

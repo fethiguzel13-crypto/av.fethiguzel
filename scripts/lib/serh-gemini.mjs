@@ -146,7 +146,14 @@ export function parseMaddeFile(raw) {
 export function loadKaynak(root, kanunId, maddeNo, adet = 6) {
     const atif = loadAtif(root);
     const meta = loadMeta(root);
-    const kayit = atif[`${kanunId}/${maddeNo}`];
+    const raw = String(maddeNo);
+    const letterM = /^(\d+)([A-Za-z]+)$/.exec(raw);
+    const numeric = letterM ? letterM[1] : raw;
+    const letter = letterM ? letterM[2] : '';
+    const kayit =
+        atif[`${kanunId}/${raw}`] ||
+        (letter ? atif[`${kanunId}/${numeric}/${letter.toUpperCase()}`] : null) ||
+        atif[`${kanunId}/${numeric}`];
     const cases = [];
     if (!kayit?.ids?.length) return cases;
     for (const id of kayit.ids) {
@@ -160,7 +167,15 @@ export function loadKaynak(root, kanunId, maddeNo, adet = 6) {
             try {
                 const d = JSON.parse(readFileSync(dosya, 'utf8'));
                 const metin = coz(d.text || '').replace(/\s+/g, ' ');
-                const re = new RegExp(`m\\.\\s*${maddeNo}\\b|Madde\\s+${maddeNo}\\b|${maddeNo}\\s*(?:nc[ıi]|üncü)?\\.?\\s*maddes`, 'i');
+                const re = letter
+                    ? new RegExp(
+                        `m\\.\\s*${numeric}\\s*/\\s*${letter}\\b|Madde\\s+${numeric}\\s*/\\s*${letter}\\b|${numeric}\\s*/\\s*${letter}\\b`,
+                        'i'
+                    )
+                    : new RegExp(
+                        `m\\.\\s*${maddeNo}\\b|Madde\\s+${maddeNo}\\b|${maddeNo}\\s*(?:nc[ıi]|üncü)?\\.?\\s*maddes`,
+                        'i'
+                    );
                 const idx = metin.search(re);
                 excerpt = (idx >= 0 ? metin.slice(Math.max(0, idx - 80), idx + 420) : metin.slice(0, 280)).trim();
             } catch {
@@ -176,14 +191,59 @@ export function loadKaynak(root, kanunId, maddeNo, adet = 6) {
     return cases;
 }
 
+/** 22A → 22/A, 10a → 10/A, 293 → 293 */
+export function displayMaddeNo(no) {
+    const s = String(no || '').trim();
+    const m = /^(\d+)([A-Za-z]+)$/.exec(s);
+    if (!m) return s;
+    return `${m[1]}/${m[2].toUpperCase()}`;
+}
+
+function maddeFileCandidates(dir, id) {
+    const raw = String(id);
+    const names = new Set([
+        `madde-${raw}.md`,
+        `madde-${raw.toLowerCase()}.md`,
+        `madde-${raw.toUpperCase()}.md`,
+    ]);
+    return [...names].map((n) => join(dir, n));
+}
+
 export function neighborKenar(root, kanunId, maddeNo) {
     const out = [];
-    for (const n of [maddeNo - 1, maddeNo + 1, maddeNo + 2]) {
-        if (n < 1) continue;
-        const p = join(root, 'content', 'mevzuat', kanunId, `madde-${n}.md`);
-        if (!existsSync(p)) continue;
+    const dir = join(root, 'content', 'mevzuat', kanunId);
+    if (!existsSync(dir)) return out;
+    const self = String(maddeNo);
+    const num = parseInt(self, 10);
+    let files;
+    try {
+        files = readdirSync(dir).filter((f) => /^madde-.+\.md$/.test(f));
+    } catch {
+        return out;
+    }
+    const ids = files.map((f) => f.replace(/^madde-/, '').replace(/\.md$/, ''));
+    const picked = [];
+    for (const id of ids) {
+        if (id === self) continue;
+        const n = parseInt(id, 10);
+        if (Number.isNaN(num) || Number.isNaN(n)) continue;
+        if (n === num || n === num - 1 || n === num + 1) picked.push(id);
+    }
+    if (!picked.length && !Number.isNaN(num)) {
+        for (const n of [num - 1, num + 1, num + 2]) {
+            if (n >= 1) picked.push(String(n));
+        }
+    }
+    const seen = new Set();
+    for (const id of picked) {
+        const key = id.toLowerCase();
+        if (seen.has(key)) continue;
+        seen.add(key);
+        const p = maddeFileCandidates(dir, id).find((x) => existsSync(x));
+        if (!p) continue;
         const parsed = parseMaddeFile(readFileSync(p, 'utf8'));
-        if (parsed.kenar) out.push({ no: n, kenar: parsed.kenar.slice(0, 80) });
+        if (parsed.kenar) out.push({ no: displayMaddeNo(id), kenar: parsed.kenar.slice(0, 80) });
+        if (out.length >= 6) break;
     }
     return out;
 }
@@ -496,7 +556,7 @@ export function listPending(root) {
         if (!existsSync(p)) continue;
         let files;
         try {
-            files = readdirSync(p).filter((f) => /^madde-\d+\.md$/.test(f));
+            files = readdirSync(p).filter((f) => /^madde-.+\.md$/.test(f) && !f.startsWith('_'));
         } catch {
             continue;
         }
@@ -512,8 +572,10 @@ export function listPending(root) {
             }
             const r = auditCommentary(k, serh);
             if (r.publishable && serh.split(/\s+/).length >= 400) continue;
-            const no = Number(/^madde-(\d+)\.md$/.exec(f)[1]);
-            out.push({ kanunId: k, maddeNo: no, file: join(p, f) });
+            const noRaw = /^madde-(.+)\.md$/.exec(f)?.[1];
+            if (!noRaw) continue;
+            const maddeNo = /^\d+$/.test(noRaw) ? Number(noRaw) : noRaw;
+            out.push({ kanunId: k, maddeNo, file: join(p, f) });
         }
     }
     return out;
@@ -535,7 +597,8 @@ function clip(s, n) {
 
 export function draftFromResmi(ctx) {
     const { kanunAd, maddeNo, kenar, resmi, cases, neighbors } = ctx;
-    const head = kenar || `${kanunAd} m. ${maddeNo}`;
+    const no = displayMaddeNo(maddeNo);
+    const head = kenar || `${kanunAd} m. ${no}`;
     const t = String(resmi || '').replace(/\s+/g, ' ').trim();
     const fikralar = splitFikra(resmi);
     const q1 = clip(t, 380);
@@ -544,7 +607,7 @@ export function draftFromResmi(ctx) {
         .map((n) => `m.${n.no} (${n.kenar})`)
         .join(', ');
     const sistematik = [
-        `${kanunAd}'nın ${maddeNo}. maddesi ${head} kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: ${q1} Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.`,
+        `${kanunAd}'nın ${no}. maddesi ${head} kenar başlığı altında uygulanır ve hükmün resmi lafzı uygulayıcıyı bağlar. Lafzın ilgili kısmı şöyledir: ${q1} Bu metin maddenin muhatap çevresini ve koruduğu ilişkiyi bizzat gösterir, genel hükümlere kaçmak lafzı aşındırır.`,
         `Madde aynı kanunun sistematiği içinde okunur zira komşu hükümler uygulama sırasını ve istisnaları taşır. ${nb ? `Yakın maddeler arasında ${nb} öne çıkar.` : 'Komşu madde kenar başlığı dosyada sınırlıdır, bu yüzden yorum lafzın kendi iç düzenine yaslanır.'} Uygulayıcı önce hangi fıkranın somut vakıaya denk düştüğünü yazar, sonra sonuca geçer.`,
         fikralar[1]
             ? `Hükmün ikinci katmanı şu cümlede toplanır: ${clip(fikralar[1], 340)} Bu katman birinci fıkradaki ana kuralı tamamlar veya sınırlar, ikisini birbirine karıştırmak yanlış hukuki sonuç doğurur.`
@@ -562,18 +625,18 @@ export function draftFromResmi(ctx) {
             baslik: `2.${i + 1}. ${labels[i] || 'Lafzın dilimi'}`,
             paragraflar: [
                 `${head} bakımından bu dilim şu metne dayanır: ${clip(src, 280)} Uygulayıcı bu cümledeki şartları vakıa vakıa eşlemek zorundadır. Eksik duran bir şart, talebin bu maddeye dayandırılamaması sonucunu doğurur. Ne var ki unsurlar dosyada dururken soyut ilkeye kaçmak da hükmü boşaltır.`,
-                `Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. ${maddeNo} sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.`,
+                `Bu dilimin ispatı, resmi kayıtlara ve vakıanın tarihine bağlanır. Tanık anlatımı tek başına lafzın aradığı şekli taşımazsa mahkeme m. ${no} sonucuna varamaz. Buna karşılık şekil tamam ve vakıa sabit ise hükmün sonucundan kaçınmak da kanuna aykırı düşer.`,
             ],
         });
     }
     const iliskiler = (neighbors || []).slice(0, 5).map((n) => ({
         baslik: `m. ${n.no} — ${n.kenar}`,
-        paragraf: `${kanunAd} m. ${n.no} (${n.kenar}) ile m. ${maddeNo} birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.`,
+        paragraf: `${kanunAd} m. ${n.no} (${n.kenar}) ile m. ${no} birlikte okunur. Biri diğerinin şartını veya sonucunu taşır, izole uygulama eksik kalır ve gerekçe yarım doğar.`,
     }));
     if (!iliskiler.length) {
         iliskiler.push({
             baslik: 'Kanunun aynı ayırımı',
-            paragraf: `${kanunAd} m. ${maddeNo} aynı ayırımdaki komşu maddelerle birlikte uygulanır. Sistematik bağ kurulmadan verilen karar, lafzı doğru okusa bile uygulama sırasını kaçırır.`,
+            paragraf: `${kanunAd} m. ${no} aynı ayırımdaki komşu maddelerle birlikte uygulanır. Sistematik bağ kurulmadan verilen karar, lafzı doğru okusa bile uygulama sırasını kaçırır.`,
         });
     }
     const ictihat = (cases || []).slice(0, 4).map((c) => ({
@@ -587,11 +650,11 @@ export function draftFromResmi(ctx) {
         },
         {
             baslik: 'Olay 2 (kurmaca senaryo).',
-            paragraf: `İdare veya taraf m. ${maddeNo} yetkisini acele kullandı. Ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.`,
+            paragraf: `İdare veya taraf m. ${no} yetkisini acele kullandı. Ne var ki komşu maddelerdeki usul ve süreler atlanmıştı. Sonradan yapılan işlem lafzın şart-sonuç bağını taşımadığı için hukuka aykırı sayıldı.`,
         },
         {
             baslik: 'Olay 3 (kurmaca senaryo).',
-            paragraf: `Yürürlük tartışmasında eski ve yeni lafız iç içe geçti. Uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. ${maddeNo} uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.`,
+            paragraf: `Yürürlük tartışmasında eski ve yeni lafız iç içe geçti. Uygulayıcı vakıanın tarihini yazmadan sonuca vardı. Üst mahkeme m. ${no} uygulamasının hangi metne göre yapıldığının gerekçede görünmediğini tespit etti.`,
         },
     ];
     return {
@@ -601,7 +664,7 @@ export function draftFromResmi(ctx) {
         ictihat,
         olaylar,
         pratik: [
-            `Dilekçede ${kanunAd} m. ${maddeNo} dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.`,
+            `Dilekçede ${kanunAd} m. ${no} dayanağı, hangi fıkraya işaret ettiği ve vakıanın tarihi açık yazılmalıdır.`,
             'Belge listesi maddenin şartlarını karşılayan olgulara bağlanmalıdır, genel anlatım yetmez.',
             'Karşı tarafın savunması unsur eksikliğine mi yoksa sonuç tartışmasına mı yöneldiği ayrılmalıdır.',
         ],
@@ -614,29 +677,16 @@ export function draftFromResmi(ctx) {
     };
 }
 
-export async function rewriteOne(root, item) {
+export async function rewriteOne(root, item, opts = {}) {
     const raw = readFileSync(item.file, 'utf8');
     const parsed = parseMaddeFile(raw);
     const kanunAd = kanunAdOf(root, parsed.frontmatter, item.kanunId);
+    const no = displayMaddeNo(item.maddeNo);
     const cases = loadKaynak(root, item.kanunId, item.maddeNo, 6);
     const neighbors = neighborKenar(root, item.kanunId, item.maddeNo);
     const doctrine = DOCTRINE[item.kanunId] || 'atıfsız genel ifade';
-    const user = buildUserPrompt({
-        kanunAd,
-        kanunId: item.kanunId,
-        maddeNo: item.maddeNo,
-        kenar: parsed.kenar,
-        resmi: parsed.resmi,
-        cases,
-        neighbors,
-        doctrine,
-    });
-    let draft;
-    try {
-        draft = await callGeminiJson({ system: SYSTEM_PROMPT, user, maxTokens: 8192, waitOnQuota: false });
-    } catch (e) {
-        console.warn(`[yerel] ${item.kanunId}/${item.maddeNo} ${String(e.message || e).slice(0, 90)}`);
-        draft = draftFromResmi({
+    const localDraft = () =>
+        draftFromResmi({
             kanunAd,
             maddeNo: item.maddeNo,
             kenar: parsed.kenar,
@@ -645,16 +695,41 @@ export async function rewriteOne(root, item) {
             neighbors,
             doctrine,
         });
-    }
-    let serh = assembleSerh(draft, {
+    const user = buildUserPrompt({
+        kanunAd,
+        kanunId: item.kanunId,
+        maddeNo: no,
+        kenar: parsed.kenar,
+        resmi: parsed.resmi,
         cases,
-        maddeNo: item.maddeNo,
+        neighbors,
+        doctrine,
+    });
+    let draft;
+    if (opts.local) {
+        draft = localDraft();
+    } else {
+        try {
+            draft = await callGeminiJson({ system: SYSTEM_PROMPT, user, maxTokens: 8192, waitOnQuota: false });
+        } catch (e) {
+            console.warn(`[yerel] ${item.kanunId}/${item.maddeNo} ${String(e.message || e).slice(0, 90)}`);
+            draft = localDraft();
+        }
+    }
+    const ctx = {
+        cases,
+        maddeNo: no,
         kenar: parsed.kenar,
         kanunAd,
-        fallbackSistematik: `${kanunAd} m. ${item.maddeNo} ${parsed.kenar || ''} hükmünü düzenler.`,
-    });
-    serh = enforceStyle(serh);
-    const q = qualityOk(item.kanunId, serh);
+        fallbackSistematik: `${kanunAd} m. ${no} ${parsed.kenar || ''} hükmünü düzenler.`,
+    };
+    let serh = enforceStyle(assembleSerh(draft, ctx));
+    let q = qualityOk(item.kanunId, serh);
+    if (!q.ok) {
+        draft = localDraft();
+        serh = enforceStyle(assembleSerh(draft, ctx));
+        q = qualityOk(item.kanunId, serh);
+    }
     if (!q.ok) {
         const err = new Error(`kalite ${q.reason}`);
         err.quality = q.reason;

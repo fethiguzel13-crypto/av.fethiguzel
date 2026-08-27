@@ -1,0 +1,20 @@
+{
+    "uniSlug": "selcuk",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Alaeddin Keykubat / Konya",
+    "cityHook": "Konya'daki bir tarım arazisi satış vaadi ve tapu tescili",
+    "mehaz": "İç Anadolu devlet dogmatiği; TMK/TBK lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav + final (OBS).",
+        "format": "Klasik yazılı: tapu, satış vaadi, şekil.",
+        "tips": [
+            "Selçuk kâğıdında taşınmaz satışı şeklini ilk cümlede yazın.",
+            "OBS bağlar."
+        ]
+    },
+    "syllabusOrder": ["medeni başlangıç", "eşya", "borçlar", "usul"],
+    "schoolNotes": ["Selçuk Hukuk, Konya'da köklü devlet fakültesidir.", "Slayt yok."],
+    "sources": [{ "title": "Selçuk Üniversitesi Hukuk Fakültesi", "url": "https://www.selcuk.edu.tr/hukuk", "note": "fakülte kimliği" }]
+}

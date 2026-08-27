@@ -1,0 +1,37 @@
+{
+    "uniSlug": "ozyegin",
+    "calendar": "donemlik",
+    "lang": "tr-en30",
+    "campus": "Çekmeköy",
+    "cityHook": "Çekmeköy'deki bir eser sözleşmesi ve tüketici cayma hakkı",
+    "mehaz": "Karşılaştırmalı / İngilizce kaynak; kâğıtta TBK ve TKHK lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav + final + ödev/sunum (ders izlencesi).",
+        "format": "Hypo + issue spotting: sorunu ayır, maddeyi bağla, policy en sonda.",
+        "tips": [
+            "Özyeğin kâğıdında İngilizce terim, Türkçe maddenin yerine geçmez.",
+            "Tüketici ve ticaret kesişiminde önce hangi kanunun özel hüküm olduğu yazılır.",
+            "Course syllabus bağlayıcıdır."
+        ]
+    },
+    "syllabusOrder": [
+        "sources of obligation",
+        "commercial enterprise",
+        "consumer protection",
+        "civil procedure",
+        "companies"
+    ],
+    "schoolNotes": [
+        "Özyeğin Hukuk, Çekmeköy kampüsünde vakıf ve karşılaştırmalı okur.",
+        "Issue spotting unsur listesini silmez.",
+        "Hoca slaytı kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "Özyeğin Üniversitesi Hukuk Fakültesi",
+            "url": "https://www.ozyegin.edu.tr/tr/hukuk-fakultesi",
+            "note": "fakülte kimliği"
+        }
+    ]
+}

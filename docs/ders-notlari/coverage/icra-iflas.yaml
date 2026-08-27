@@ -1,0 +1,39 @@
+# Denetçi manifesti — İcra ve İflas Hukuku
+courseCode: icra-iflas
+title: İcra ve İflas Hukuku
+kanun: iik
+guz:
+  - ilamli
+  - ilamsiz
+  - itiraz
+  - haciz
+bahar:
+  - istihkak
+  - satis
+  - sira-cetveli
+  - iflas
+institutions:
+  - id: ilamli
+    title: İlamlı icra
+    maddeler: ['24', '25', '30', '32', '33']
+  - id: ilamsiz
+    title: İlamsız takip
+    maddeler: ['42', '58', '60', '61', '62']
+  - id: itiraz
+    title: İtirazın iptali ve kaldırılması
+    maddeler: ['62', '63', '67', '68', '69', '72']
+  - id: haciz
+    title: Haciz
+    maddeler: ['74', '78', '79', '82', '85', '88']
+  - id: istihkak
+    title: İstihkak iddiası
+    maddeler: ['96', '97', '99']
+  - id: satis
+    title: Cebri satış
+    maddeler: ['106', '110', '114', '116', '126', '134']
+  - id: sira-cetveli
+    title: Sıra cetveli ve aciz vesikası
+    maddeler: ['140', '142', '143']
+  - id: iflas
+    title: İflasın açılması
+    maddeler: ['154', '155', '156', '158', '165', '184']

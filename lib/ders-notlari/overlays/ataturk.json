@@ -1,0 +1,37 @@
+{
+    "uniSlug": "ataturk",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Yakutiye",
+    "cityHook": "Palandöken'deki bir kış turizmi işletmesi kirası",
+    "mehaz": "Atatürk devlet fakültesi; TBK/TMK lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / dönem ilanı).",
+        "format": "Klasik yazılı: madde + unsur + vakıaya yedirme. Oran dönem ilanına bağlıdır.",
+        "tips": [
+            "Erzurum kâğıdında kira ile eser sözleşmesini ayırın.",
+            "Atatürk kâğıdında ilk cümle kurumu adlandırır; slogan yetmez.",
+            "Öğretim elemanı duyurusu ve OBS bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "Atatürk Üniversitesi Hukuk Fakültesi, Erzurum merkezli bir devlet fakültesidir Eğitim dili Türkçedir.",
+        "Yakutiye usulü: kaynak ve lafız önce, slayt cümlesi yok.",
+        "Bu örtü kamuya açık kimlik sayfasından üretilmiştir; amfi notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "Atatürk Hukuk Fakültesi",
+            "url": "https://atauni.edu.tr/hukuk-fakultesi/",
+            "note": "fakülte kimliği; slayt ve amfi notu yok"
+        }
+    ]
+}

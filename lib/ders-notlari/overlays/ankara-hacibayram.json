@@ -1,0 +1,39 @@
+{
+    "uniSlug": "ankara-hacibayram",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Cebeci (AHBV)",
+    "cityHook": "Cebeci'deki bir kefalet ve icra tehdidi",
+    "mehaz": "Eski Gazi hukuku geleneği; Cebeci şerh hattı",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / fakülte yönergesi).",
+        "format": "Klasik yazılı; madde + unsur + olaya yedirme. Gazi/AHBV kâğıdı kaynak kapısını ilk cümlede ister.",
+        "tips": [
+            "AHBV kâğıdında borcun kaynağını ilk cümlede yazın.",
+            "Eski Gazi kodları ile yeni AHBV kodlarını karıştırmayın; OBS esas alınır.",
+            "Öğretim elemanı duyurusu bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borç ilişkisi",
+        "sözleşmenin kuruluşu",
+        "irade sakatlıkları ve hükümsüzlük",
+        "temsil",
+        "ifa ve temerrüt",
+        "haksız fiil",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "AHBV, Gazi Hukuk'un devamıdır; Cebeci kampüsünde okutulur.",
+        "Dogmatik şerh geleneği AÜHF ile komşudur; kâğıtta yine TBK lafzı bağlar.",
+        "Slayt ve NotPazarı metni kullanılmaz."
+    ],
+    "sources": [
+        {
+            "title": "AHBV Hukuk Fakültesi",
+            "url": "https://hukuk.hacibayram.edu.tr/",
+            "note": "fakülte kimliği"
+        }
+    ]
+}

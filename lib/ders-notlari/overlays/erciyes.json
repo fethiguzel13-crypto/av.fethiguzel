@@ -1,0 +1,17 @@
+{
+    "uniSlug": "erciyes",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Talas / Kayseri",
+    "cityHook": "Kayseri'deki bir sanayi sitesi limited pay devri",
+    "mehaz": "Devlet dogmatiği; TTK lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav + final.",
+        "format": "Klasik yazılı + şirket vakası.",
+        "tips": ["Erciyes kâğıdında limited pay devrinin şeklini yazın.", "OBS bağlar."]
+    },
+    "syllabusOrder": ["ticari işletme", "şirketler", "borçlar", "icra"],
+    "schoolNotes": ["Erciyes Hukuk, Kayseri-Talas kampüsündedir.", "Slayt yok."],
+    "sources": [{ "title": "Erciyes Üniversitesi Hukuk Fakültesi", "url": "https://hukuk.erciyes.edu.tr/", "note": "fakülte kimliği" }]
+}

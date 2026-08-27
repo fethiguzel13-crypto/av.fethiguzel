@@ -14,7 +14,7 @@ Resmî Gazete'de yayımlanan metniyle.
 • Madde metni okumak için dizilir — fıkra ve bent yapısı korunur, punto üç kademe ayarlanır
 • Alıntı düğmesi maddeyi dilekçeye yapıştırılacak biçimde kopyalar
 
-YARGITAY ARŞİVİ — 23.000 KARAR, TAM METİN (ABONELİK)
+YARGITAY ARŞİVİ — 27.000+ KARAR, TAM METİN (ABONELİK)
 İçtihadı birleştirme, Hukuk Genel Kurulu, Ceza Genel Kurulu ve daire kararları.
 • Her karar KONUSUYLA listelenir: «Kamulaştırmasız elatma nedeniyle tazminat», «Konutta silahlı yağma suçu» — künye duvarı değil
 • Daire, kademe, konu, esas ve karar numarasıyla arama
@@ -25,7 +25,7 @@ MEVZUAT İLE İÇTİHAT BİRBİRİNE BAĞLI
 Bu uygulamanın diğerlerinden ayrıldığı yer burası:
 • Bir maddeyi açtığınızda «bu maddeye atıf yapan Yargıtay kararları» aynı ekranda listelenir
 • Bir kararı okurken dayandığı maddelere tek dokunuşla geçersiniz
-• Bağ, 23.000 karar metninin taranmasıyla kuruldu; elle girilmiş bir liste değil
+• Bağ, 27.000'den fazla karar metninin taranmasıyla kuruldu; elle girilmiş bir liste değil
 
 KAVRAM SÖZLÜĞÜ (ÜCRETSİZ)
 Kıdem tazminatı, zamanaşımı, ayıp, muvazaa, işe iade… Her kavram; kısa cevabı, dayanak maddesi, ilgili rehberi ve hesaplama aracıyla birlikte. Kısa cevap tek dokunuşla kopyalanır.

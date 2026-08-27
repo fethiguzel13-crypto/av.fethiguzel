@@ -1,0 +1,39 @@
+{
+    "uniSlug": "dokuz-eylul",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Dokuzçeşmeler / İzmir",
+    "cityHook": "Alsancak'taki bir taşınır satımı ve ayıp bildirimi",
+    "mehaz": "Ege/İzmir dogmatik hattı; TBK lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (fakülte sınav yönergesi / OBS).",
+        "format": "Klasik yazılı; madde + unsur + İzmir pratik olayı. Bütünleme finalin yerini alır.",
+        "tips": [
+            "DEÜ kâğıdında önce kaynağı yazın, sonra unsuru İzmir vakıasına yedirin.",
+            "Dönemlik kodlar güz/bahar ayrılır; yıllık master yalnız tekrar içindir.",
+            "OBS ve dersin öğretim elemanı bağlayıcıdır."
+        ]
+    },
+    "syllabusOrder": [
+        "borç ilişkisi",
+        "sözleşmenin kurulması",
+        "geçersizlik ve irade sakatlıkları",
+        "ifa",
+        "temerrüt",
+        "haksız fiil",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "DEÜ Hukuk, İzmir'in köklü devlet fakültesidir; müfredat dönemlik Bologna hattındadır.",
+        "Klasik dogmatik (madde + şerh + Yargıtay) beklenir; slayt cümlesi alınmaz.",
+        "Pratik çalışma teorik amfinin yanındadır."
+    ],
+    "sources": [
+        {
+            "title": "DEÜ Hukuk Fakültesi",
+            "url": "https://hukuk.deu.edu.tr/",
+            "note": "fakülte kimliği; izlence OBS"
+        }
+    ]
+}

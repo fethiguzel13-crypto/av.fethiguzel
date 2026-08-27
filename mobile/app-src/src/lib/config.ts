@@ -39,6 +39,10 @@ export type GalaxyApp = {
   short: Record<string, string>;
   path: string;
   accent: string;
+  /** Koyu kabuk rengi — üst çubuk, durum çubuğu, açılış ekranı. */
+  chrome?: string;
+  /** Koyu kabuk rengi — üst çubuk, durum çubuğu, açılış ekranı. */
+  chrome?: string;
   role: string;
   /** 'full' = her şey cihazda · 'cache' = ağdan tazelenir, önbellekten okunur */
   offline: 'full' | 'cache';

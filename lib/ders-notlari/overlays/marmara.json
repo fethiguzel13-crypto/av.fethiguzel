@@ -1,0 +1,46 @@
+{
+    "uniSlug": "marmara",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Göztepe",
+    "cityHook": "Kadıköy'deki bir kat karşılığı inşaat ve temerrüt uyuşmazlığı",
+    "mehaz": "Marmara pratik çalışma hattı; Antalya şerhi izlencede anılır, sayfa uydurulmaz",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "HUK201 Borçlar Genel Hukuku I: 3+2 saat, 5 AKTS; teorik + pratik. Ara sınav + final (OBS).",
+        "format": "Klasik yazılı + pratik çalışma. Göztepe amfisi olay çözümü bekler.",
+        "tips": [
+            "Marmara kâğıdında teori ile pratik aynı torbada durur: unsuru vakıaya bağlayın.",
+            "HUK201 içeriği kuruluş ve geçersizlik hattını öne alır; ifa ayrı döneme kayabilir.",
+            "MEOBS ve fakülte duyurusu bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borç ve borç ilişkisi",
+        "edim kavramı",
+        "sözleşmenin kurulması",
+        "icap ve kabul",
+        "irade sakatlıkları",
+        "temsil",
+        "sözleşmenin hükümsüzlüğü",
+        "sebepsiz zenginleşme",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "Marmara HUK201 Borçlar Genel I, MEOBS'ta 3 teorik + 2 uygulama saatidir.",
+        "Fakültede yıllık ve dönemlik müfredat yan yana durur; öğrenci OBS kaydına bakmalıdır.",
+        "Göztepe geleneği pratik çalışmayı teorinin yanına koyar; slayt kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "MEOBS HUK201 Borçlar Genel Hukuku I",
+            "url": "https://meobs.marmara.edu.tr/Ders/borclar-genel-hukuku-i/huk201-9675-51",
+            "note": "haftalık başlık omurgası; slayt yok"
+        },
+        {
+            "title": "MÜHF ders içerikleri ve müfredat",
+            "url": "https://hukuk.marmara.edu.tr/ogrenci/ders/ders-icerikleri-ve-mufredat",
+            "note": "yıllık/dönemlik ayrımı"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+# Denetçi manifesti — Deniz Ticareti Hukuku
+courseCode: deniz-ticareti
+title: Deniz Ticareti Hukuku
+kanun: ttk
+guz:
+  - gemi
+  - donatan
+  - navlun
+  - kaptan
+bahar:
+  - deniz-kazasi
+  - cevra
+  - reh-in-gemi
+  - konismento
+institutions:
+  - id: gemi
+    title: Gemi
+    maddeler: ['931', '932', '935']
+  - id: donatan
+    title: Donatan ve gemi adamları
+    maddeler: ['936', '947', '954']
+  - id: kaptan
+    title: Kaptan
+    maddeler: ['1097', '1101', '1105']
+  - id: navlun
+    title: Navlun sözleşmesi
+    maddeler: ['1061', '1062', '1138']
+  - id: konismento
+    title: Konişmento
+    maddeler: ['1228', '1230', '1237']
+  - id: deniz-kazasi
+    title: Denizde kaza ve müşterek avarya
+    maddeler: ['1183', '1222', '1273']
+  - id: cevra
+    title: Cevra ve sınırlı sorumluluk
+    maddeler: ['1320', '1323', '1326']
+  - id: reh-in-gemi
+    title: Gemi üzerinde ayni haklar
+    maddeler: ['954', '1013', '1014']

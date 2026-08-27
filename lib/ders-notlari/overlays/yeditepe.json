@@ -1,0 +1,37 @@
+{
+    "uniSlug": "yeditepe",
+    "calendar": "donemlik",
+    "lang": "tr-en30",
+    "campus": "Kayışdağı / Ataşehir",
+    "cityHook": "Ataşehir'deki bir çek keşidesi ve kıymetli evrak def'i",
+    "mehaz": "%30 İngilizce vakıf programı; kâğıtta TTK ve Çek Kanunu lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav + final; pratik çalışma dönem ilanına bağlı.",
+        "format": "Klasik yazılı + kambiyo vakası: senedin ön-arka yüzü, imza, def'i.",
+        "tips": [
+            "Yeditepe kâğıdında kıymetli evrakı borçlar genelinden ayırın; senet metni önce okunur.",
+            "Çek Kanunu ile TTK çek hükümleri yarışır; özel kanun yazılır.",
+            "OBS bağlayıcıdır."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel",
+        "ticari işletme",
+        "kıymetli evrak",
+        "şirketler",
+        "usul ve icra"
+    ],
+    "schoolNotes": [
+        "Yeditepe Hukuk, Kayışdağı kampüsünde büyük kontenjanlı vakıf fakültedir.",
+        "%30 İngilizce bileşen, Türkçe maddi hukuk kâğıdını değiştirmez.",
+        "Slayt ve NotPazarı yasak."
+    ],
+    "sources": [
+        {
+            "title": "Yeditepe Üniversitesi Hukuk Fakültesi",
+            "url": "https://hukuk.yeditepe.edu.tr/",
+            "note": "fakülte kimliği"
+        }
+    ]
+}

@@ -1,0 +1,319 @@
+{
+    "courseCode": "sermaye-piyasasi",
+    "title": "Sermaye Piyasası Hukuku",
+    "kanunId": "spk",
+    "guzInstitutionIds": [
+        "kapsam-spk",
+        "arac-spk",
+        "halka-arz",
+        "kamuyu-aydinlatma"
+    ],
+    "baharInstitutionIds": [
+        "yatirim-kurulusu",
+        "piyasalar-spk",
+        "inceleme-spk",
+        "yaptirim-spk"
+    ],
+    "institutions": [
+        {
+            "id": "kapsam-spk",
+            "title": "Amaç, kapsam ve Kurul",
+            "definition": "SPK, sermaye piyasasının güvenilir, şeffaf, etkin, istikrarlı, adil ve rekabetçi işleyişini sağlamayı amaçlar. Kurul, kamu tüzel kişiliğini haiz idari özerk düzenleyici kurumdur.",
+            "elements": [
+                "amaç",
+                "kapsam",
+                "Kurul",
+                "idari özerklik",
+                "düzenleme yetkisi"
+            ],
+            "organicLinks": [
+                "SPK, TTK şirketler hukukunun üstüne binen özel rejimdir.",
+                "Kurul, bakanlık hiyerarşisinde bir daire değildir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "1"
+                },
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "3"
+                },
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "4"
+                },
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "14"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Amaç 1, tanımlar 3, Kurul 4.",
+                "Tanım maddesi, sonraki bütün kurumların anahtarıdır."
+            ]
+        },
+        {
+            "id": "arac-spk",
+            "title": "Sermaye piyasası aracı",
+            "definition": "Menkul kıymetler ve türev araçlar sermaye piyasası aracıdır. Pay, tahvil ve kira sertifikası ayrı türlerdir; tanım, halka arz eşiğini taşır.",
+            "elements": [
+                "menkul kıymet",
+                "türev",
+                "pay",
+                "borçlanma aracı",
+                "ihrac"
+            ],
+            "organicLinks": [
+                "Banka mevduatı kural olarak sermaye piyasası aracı değildir.",
+                "Kripto varlık, bu kanunun tanımına sığmazsa başka rejime kayar; uydurma madde yazılmaz."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "3"
+                },
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "13"
+                },
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "15"
+                },
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "16"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Tanım 3, ihraç ve tür 13 vd.",
+                "İzinsiz ihraç, yaptırım kapısını açar."
+            ]
+        },
+        {
+            "id": "halka-arz",
+            "title": "Halka arz ve izahname",
+            "definition": "Halka arz, sermaye piyasası araçlarının genel bir çağrıyla satın alınmasının teklif edilmesidir. İzahname, kamuyu aydınlatmanın kurucu belgesidir.",
+            "elements": [
+                "genel çağrı",
+                "izahname",
+                "Kurul onayı",
+                "satış",
+                "sorumluluk"
+            ],
+            "organicLinks": [
+                "Özel yerleştirme, halka arz değildir.",
+                "İzahname gerçeğe aykırılığı, ihracı ve aracıyı bağlar."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "3"
+                },
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "4"
+                },
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "13"
+                },
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "21"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Halka arz tanımı 3'tedir.",
+                "Onaysız satış, geçersizlik ve yaptırım tartışması açar."
+            ]
+        },
+        {
+            "id": "kamuyu-aydinlatma",
+            "title": "Kamuyu aydınlatma",
+            "definition": "Halka açık ortaklık, sürekli ve özel durum açıklaması yapmakla yükümlüdür. Bilgi, yatırımcının kararını etkileyebilecek nitelikteyse geciktirilemez.",
+            "elements": [
+                "sürekli açıklama",
+                "özel durum",
+                "içsel bilgi",
+                "eşit işlem",
+                "süre"
+            ],
+            "organicLinks": [
+                "Aydınlatma, reklam değildir.",
+                "İçsel bilgiyle işlem, manipülasyon komşusudur."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "14"
+                },
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "15"
+                },
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "16"
+                },
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "17"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Aydınlatma ve kayıtlar 14 hattı.",
+                "Eksik açıklama, idari para cezası ve TCK kayması açar."
+            ]
+        },
+        {
+            "id": "yatirim-kurulusu",
+            "title": "Yatırım kuruluşu",
+            "definition": "Aracı kurum ve bankalar, Kurul izniyle yatırım hizmeti sunar. Yetkisiz aracılık, hem idari hem cezaî kapı açar.",
+            "elements": [
+                "izin",
+                "aracılık",
+                "saklama",
+                "uygunluk / yerindelik",
+                "müşteri"
+            ],
+            "organicLinks": [
+                "Yetkisiz aracılık, vekâlet gibi okunmaz.",
+                "Saklama hesabı, şirketin malvarlığından ayrı durur."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "3"
+                },
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "13"
+                },
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "17"
+                },
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "31"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Tanım 3, izin ve faaliyet 31 hattı.",
+                "Müşteri emri, şirketin kendi portföyünden ayrılır."
+            ]
+        },
+        {
+            "id": "piyasalar-spk",
+            "title": "Piyasalar ve borsa",
+            "definition": "Borsa, sermaye piyasası araçlarının alım satımının örgütlendiği pazardır. Tezgâh üstü piyasalar ayrı düzenlenir; takas ve saklama altyapısı işlemin ikinci yüzüdür.",
+            "elements": [
+                "borsa",
+                "pazar",
+                "takas",
+                "saklama",
+                "üye"
+            ],
+            "organicLinks": [
+                "Borsa kotasyonu, halka arzın yerine geçmez.",
+                "Takas, satımın ifa anını kaydırır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "3"
+                },
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "13"
+                },
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "67"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Piyasa tanımları 3'te toplanır.",
+                "Borsa işletimi izinli faaliyettir."
+            ]
+        },
+        {
+            "id": "inceleme-spk",
+            "title": "İnceleme ve bilgi isteme",
+            "definition": "Kurul, piyasa bozucu eylem şüphesinde bilgi ister, yerinde inceler ve geçici tedbir alır. İnceleme, ceza soruşturmasının yerini tutmaz.",
+            "elements": [
+                "bilgi isteme",
+                "yerinde inceleme",
+                "tedbir",
+                "sır",
+                "adli makam"
+            ],
+            "organicLinks": [
+                "Kurul soruşturması CMK soruşturması değildir.",
+                "Sır yükümlülüğü, savunma hakkını yok etmez."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "14"
+                },
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "101"
+                },
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "103"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "İnceleme yetkisi 14/101 hattı.",
+                "Tedbir, yaptırımdan önce gelebilir."
+            ]
+        },
+        {
+            "id": "yaptirim-spk",
+            "title": "Yaptırım",
+            "definition": "Kurul idari para cezası keser; bazı fiiller suçtur. Piyasa dolandırıcılığı ve içeriden öğrenenlerin ticareti, TCK genel hükümleriyle yarışabilir.",
+            "elements": [
+                "idari para cezası",
+                "suç",
+                "piyasa dolandırıcılığı",
+                "içeriden öğrenen",
+                "tekrar"
+            ],
+            "organicLinks": [
+                "İdari ceza, suçun yerini tutmaz.",
+                "Tekerrür, tavanı ağırlaştırır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "103"
+                },
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "104"
+                },
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "110"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "İdari yaptırımlar 103, suçlar 110 hattı.",
+                "Künye yoksa TCK madde numarası uydurulmaz; yarışma cümlesi genel kalır."
+            ]
+        }
+    ]
+}

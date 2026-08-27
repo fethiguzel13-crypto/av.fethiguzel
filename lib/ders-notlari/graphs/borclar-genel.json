@@ -1,0 +1,636 @@
+{
+    "courseCode": "borclar-genel",
+    "title": "Borçlar Hukuku Genel Hükümler",
+    "kanunId": "tbk",
+    "guzInstitutionIds": [
+        "borc-iliskisi",
+        "sozlesmenin-kurulmasi",
+        "irade-sakatliklari",
+        "temsil",
+        "genel-islem-kosullari"
+    ],
+    "baharInstitutionIds": [
+        "ifa",
+        "temerrut",
+        "ifa-imkansizligi",
+        "haksiz-fiil",
+        "sebepsiz-zenginlesme",
+        "sona-erme",
+        "zamanasimi"
+    ],
+    "institutions": [
+        {
+            "id": "borc-iliskisi",
+            "title": "Borç ilişkisi",
+            "definition": "Borç ilişkisi, alacaklının borçludan bir edim isteyebildiği özel hukuk bağıdır. Tek bir para borcu değil; haklar, yan yükümler ve savunmalar aynı ilişkide toplanır.",
+            "elements": [
+                "alacaklı ve borçlu",
+                "edim (yapma, yapmama, verme)",
+                "hukuki sebep (sözleşme, haksız fiil, sebepsiz zenginleşme veya kanun)"
+            ],
+            "organicLinks": [
+                "Kaynak seçilmeden unsur yazılmaz.",
+                "Sözleşme TBK m.1 hattıdır; haksız fiil m.49, sebepsiz zenginleşme m.77 ayrı kapılardır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "1"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Hâkim görüş borç ilişkisini bir edim bağı değil, taraflar arasındaki hak ve yükümler demeti olarak okur.",
+                "Ankara ve İstanbul ekollerinde vurgu farkı, kaynağın sözleşmesel mi kanunî mi olduğunun sınav kâğıdının ilk cümlesine yazılmasında görünür."
+            ]
+        },
+        {
+            "id": "sozlesmenin-kurulmasi",
+            "title": "Sözleşmenin kurulması (icap–kabul)",
+            "definition": "Sözleşme, karşılıklı ve birbirine uygun irade açıklamalarıyla kurulur. İcap yeterince belirli olmalı ve bağlanma iradesi taşımalıdır; şaka, ön görüşme ve davet icap değildir.",
+            "elements": [
+                "icap (belirlilik + bağlanma iradesi)",
+                "kabulün icaba uygunluğu",
+                "ulaşma anı",
+                "süre ve geri alma",
+                "şekil (kanunî veya sözleşmesel)"
+            ],
+            "organicLinks": [
+                "Kuruluş bozulursa irade sakatlığı ve butlan tartışması erken açılır.",
+                "Genel işlem koşulu, müzakere edilmiş icaptan ayrı bir denetime tâbidir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "1"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "2"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "3"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "4"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "5"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "6"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "7"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "8"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "9"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "10"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "11"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "İrade teorisi ile güven teorisi, icabın yorumunda sınavda açıkça adlandırılmalıdır.",
+                "Sessizliğin kural olarak kabul sayılmaması, öğretide istisnalarıyla birlikte işlenir."
+            ]
+        },
+        {
+            "id": "irade-sakatliklari",
+            "title": "İrade sakatlıkları",
+            "definition": "Hata, hile ve korkutma, kurulmuş görünen sözleşmenin bağlayıcılığını sarsar. Gabin ayrı bir denge bozulmasıdır; ucuz satış tek başına yetmez.",
+            "elements": [
+                "esaslı hata",
+                "hile",
+                "korkutma",
+                "aşırı yararlanma (subjektif + objektif)",
+                "iptal hakkı ve süre"
+            ],
+            "organicLinks": [
+                "Sakatlık, kuruluştan sonra gelir; önce sözleşme kurulmuş mu diye bakılır.",
+                "İptal edilmeyen sakat sözleşme kural olarak ayakta kalır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "30"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "31"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "32"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "36"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "37"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "38"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "39"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Esaslı hata ile saik hatası ayrımı kâğıtta en sık kaybedilen puandır.",
+                "Gabin için zaruret, tecrübesizlik veya düşüncesizlik ile bariz oransızlık birlikte aranır."
+            ]
+        },
+        {
+            "id": "temsil",
+            "title": "Temsil",
+            "definition": "Temsilci, yetkisi içinde başkası adına hukuki işlem yapar; hak ve borç doğrudan temsil olunanda doğar. Yetkisiz temsil ayrı bir sonuç rejimidir.",
+            "elements": [
+                "yetki",
+                "adına hareket",
+                "doğrudan etki",
+                "yetkisiz temsil ve icazet",
+                "temsilin sona ermesi"
+            ],
+            "organicLinks": [
+                "Temsil, kuruluşun kişi boyutudur; icap-kabul hattına kim konuşuyor sorusunu ekler.",
+                "Şirket organı ile vekil karıştırılmamalıdır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "40"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "41"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "42"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "43"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "44"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "45"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "46"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "47"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "48"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Dolaylı temsil ile doğrudan temsil ayrımı, sınavda vekâlet sözleşmesiyle karıştırılır."
+            ]
+        },
+        {
+            "id": "genel-islem-kosullari",
+            "title": "Genel işlem koşulları",
+            "definition": "Önceden tek yanlı hazırlanmış ve birden çok sözleşmede kullanılmak üzere sunulan koşullar, yazılmamış sayılma ve içerik denetimine tâbidir.",
+            "elements": [
+                "genel işlem koşulu niteliği",
+                "yazılmamış sayılma",
+                "yorum",
+                "içerik denetimi (dürüstlük)"
+            ],
+            "organicLinks": [
+                "Müzakere edilmiş bireysel kayıt, GİK rejimine girmez.",
+                "Tüketici sözleşmesinde TKHK ile TBK birlikte okunur; çatışmada tüketici lehine özel hüküm öne çıkar."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "20"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "21"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "22"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "23"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "24"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "25"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Şaşırtıcı kayıt ve şeffaflık, yazılmamış sayılmanın kalbidir."
+            ]
+        },
+        {
+            "id": "ifa",
+            "title": "İfa",
+            "definition": "İfa, borcun konusu edimin alacaklıya doğru kişi, yer, zaman ve biçimde sunulmasıdır. Kısmi ifa ve üçüncü kişi ifası kural-istisna olarak yazılır.",
+            "elements": [
+                "ifa yeri",
+                "ifa zamanı",
+                "ifayı sunan ve kabul eden",
+                "kısmi ifa",
+                "makbuz ve senet iadesi"
+            ],
+            "organicLinks": [
+                "İfa imkânsızlığı ve temerrüt, ifanın başarısız iki halidir; rejim seçilmeden sonuç yazılmaz.",
+                "Para borçlarında faiz, ifanın zaman boyutuyla bağlanır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "83"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "84"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "85"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "86"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "87"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "88"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "89"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "90"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Para borcunun ifa yeri ve döviz borcu, 2022 sonrası içtihatla birlikte okunur; künye yoksa genel ifade yeter."
+            ]
+        },
+        {
+            "id": "temerrut",
+            "title": "Temerrüt",
+            "definition": "Temerrüt, muaccel borcun, borçluya yüklenebilir bir sebeple zamanında ifa edilmemesidir. İhtar kural, kanunî istisnalar unutulmamalıdır.",
+            "elements": [
+                "muacceliyet",
+                "ifasızlık",
+                "ihtar veya istisna",
+                "seçimlik haklar",
+                "gecikme tazminatı ve faiz"
+            ],
+            "organicLinks": [
+                "Ayıp, temerrüt değildir; satımda özel rejim TBK özel hükümlere gider.",
+                "İfa imkânsızlığı temerrüdü düşürür, çünkü artık gecikme değil yok olma vardır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "117"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "118"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "119"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "120"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "121"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "122"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "123"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "124"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "125"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Seçimlik hakların kullanılması, ihtar ve süre verilmesine bağlanır; acele dönme sık tuzaktır."
+            ]
+        },
+        {
+            "id": "ifa-imkansizligi",
+            "title": "İfa imkânsızlığı",
+            "definition": "Edimin borçlunun sorumlu olmadığı bir sebeple imkânsızlaşması borcu sona erdirir; sorumlu olduğu hâlde tazminat doğar. Kısmi imkânsızlık ayrı yazılır.",
+            "elements": [
+                "sonraki imkânsızlık",
+                "sorumluluk ölçütü",
+                "kısmi imkânsızlık",
+                "karşılıklı borçlarda etki"
+            ],
+            "organicLinks": [
+                "Başlangıçtaki imkânsızlık kuruluş/butlan hattına; sonraki imkânsızlık ifa hattına aittir.",
+                "Aşırı ifa güçlüğü (TBK m.138) imkânsızlık değildir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "136"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "137"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Objektif-sübjektif imkânsızlık ayrımı öğretide canlıdır; kâğıtta önce 'kim için imkânsız' yazılır."
+            ]
+        },
+        {
+            "id": "haksiz-fiil",
+            "title": "Haksız fiil",
+            "definition": "Kusur, zarar, hukuka aykırılık ve illiyet bağı birlikte bulununca kanunî borç doğar. Sözleşme ihlali ile haksız fiil yarışması, talep tarafının seçimine bırakılan bir sınav konusudur.",
+            "elements": [
+                "fiil",
+                "hukuka aykırılık",
+                "kusur",
+                "zarar",
+                "illiyet"
+            ],
+            "organicLinks": [
+                "Sebepsiz zenginleşme, kusur aranmayan başka bir kanuni kaynaktır.",
+                "İşleten ve adam çalıştıranın sorumluluğu, kusur karinesiyle genel kuralı kaydırır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "49"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "50"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "51"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "52"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "53"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "54"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "55"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "56"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Normun koruma amacı, hukuka aykırılığın sınırını çizer.",
+                "Manevi tazminatın koşulları, maddi zararın basit uzantısı değildir."
+            ]
+        },
+        {
+            "id": "sebepsiz-zenginlesme",
+            "title": "Sebepsiz zenginleşme",
+            "definition": "Haklı bir sebep olmaksızın başkasının malvarlığından zenginleşen, o yoksullaşma ölçüsünde iadeyle yükümlüdür. İfa edilen borç ve zamanaşımına uğramış borç, sebep tartışmasını kapatabilir.",
+            "elements": [
+                "zenginleşme",
+                "yoksullaşma",
+                "illiyet",
+                "haklı sebebin yokluğu",
+                "iade kapsamı"
+            ],
+            "organicLinks": [
+                "Sözleşme ve haksız fiil kapısı açıksa sebepsiz zenginleşme yedek kaynaktır.",
+                "İfa olarak verilen şey, kural olarak bu yoldan geri istenemez."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "77"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "78"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "79"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "80"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "81"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "82"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "İyiniyetli-kötüniyetli iade kapsamı, sınavda hesap sorusuna dönüşür."
+            ]
+        },
+        {
+            "id": "sona-erme",
+            "title": "Borcun sona ermesi",
+            "definition": "İfa dışında takas, ibra, yenileme ve birleşme borcu söndürebilir. Asıl borcun sönmesi, kural olarak fer'ileri de etkiler.",
+            "elements": [
+                "takas",
+                "ibra",
+                "yenileme",
+                "birleşme",
+                "fer'i hakların akıbeti"
+            ],
+            "organicLinks": [
+                "Zamanaşımı borcu söndürmez, def'i doğurur; sona erme ile karıştırılmaz.",
+                "Temerrüt seçimlik haklarından dönme, sona erme sebebidir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "132"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "133"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "134"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "135"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "İbranın şekli ve kapsamı, feragat ile karıştırılmamalıdır."
+            ]
+        },
+        {
+            "id": "zamanasimi",
+            "title": "Zamanaşımı",
+            "definition": "Zamanaşımı, alacağın dava edilebilirliğini kesen bir def'idir; hak düşürücü süre değildir. Süre, kesilme ve durma ayrı yazılır.",
+            "elements": [
+                "genel süre",
+                "özel süreler",
+                "başlangıç",
+                "kesilme",
+                "durma",
+                "ileri sürülme"
+            ],
+            "organicLinks": [
+                "Haksız fiil ve sebepsiz zenginleşmenin kendi süreleri, genel on yıllık süreden önce kontrol edilir.",
+                "Hak düşürücü süre resen, zamanaşımı kural olarak def'i ile işler."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "146"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "147"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "148"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "149"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "150"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "151"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "152"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "153"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "154"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "155"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "156"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "157"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "158"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "159"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "160"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "161"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Kesilme sebeplerinin dar yorumu, öğretide ve uygulamada sınav tuzağıdır."
+            ]
+        }
+    ]
+}

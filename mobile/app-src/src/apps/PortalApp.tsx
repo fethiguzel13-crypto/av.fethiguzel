@@ -233,7 +233,7 @@ function KanunListPage() {
         type="button"
         onClick={() => navigate('/ara')}
         className="hedef inline-flex items-center gap-2 text-[13px] font-bold mb-5 -mt-1"
-        style={{ color: 'var(--brand)' }}
+        style={{ color: 'var(--vurgu)' }}
       >
         <Search size={15} aria-hidden />
         Madde metninde ara
@@ -477,7 +477,7 @@ function KanunPage({ kanunId }: { kanunId: string }) {
                         {r.c && (
                           <span
                             className="text-[12px] font-bold px-1.5 py-0.5 rounded"
-                            style={{ background: 'var(--brand-soft)', color: 'var(--brand)' }}
+                            style={{ background: 'var(--brand-soft)', color: 'var(--vurgu)' }}
                           >
                             ŞERH
                           </span>
@@ -664,7 +664,7 @@ function MaddePage({ kanunId, maddeKey }: { kanunId: string; maddeKey: string })
         <section className="card p-4 mb-5">
           <h3
             className="text-[12px] tracking-[0.16em] uppercase font-bold mb-2.5"
-            style={{ color: 'var(--brand)' }}
+            style={{ color: 'var(--vurgu)' }}
           >
             Akademik şerh
           </h3>
@@ -1092,7 +1092,7 @@ function SearchPage() {
                 <span className="flex items-center gap-2 mb-1">
                   <span
                     className="text-[12px] font-mono font-bold"
-                    style={{ color: 'var(--brand)' }}
+                    style={{ color: 'var(--vurgu)' }}
                   >
                     {kanunKodu(h.kanunId)} m.{h.maddeNo}
                   </span>
@@ -1149,7 +1149,7 @@ function SavedPage() {
               >
                 <span
                   className="text-[12px] font-mono font-bold shrink-0 min-w-[3.2rem]"
-                  style={{ color: 'var(--brand)' }}
+                  style={{ color: 'var(--vurgu)' }}
                 >
                   {kanunKodu(kanunId)}
                 </span>

@@ -25,7 +25,7 @@ function serhOf(s) {
 }
 
 for (const k of kanunlar.sort()) {
-    const files = readdirSync(join(root, k)).filter((f) => /^madde-\d+\.md$/.test(f));
+    const files = readdirSync(join(root, k)).filter((f) => /^madde-.+\.md$/.test(f) && !f.startsWith('_'));
     let ke = 0;
     let kt = 0;
     let ko = 0;
@@ -35,7 +35,7 @@ for (const k of kanunlar.sort()) {
         const s = readFileSync(join(root, k, f), 'utf8');
         const serh = serhOf(s);
         const r = auditCommentary(k, serh);
-        const yer = /yak[ıi]nda eklenecek|hen[üu]z yaz/i.test(serh);
+        const yer = /akademik yorum ve analiz yak[ıi]nda eklenecektir/i.test(serh);
         if (!serh.trim() || yer || r.verdict === 'empty') {
             empty += 1;
             ke += 1;

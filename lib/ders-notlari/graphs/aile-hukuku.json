@@ -1,0 +1,347 @@
+{
+    "courseCode": "aile-hukuku",
+    "title": "Aile Hukuku",
+    "kanunId": "tmk",
+    "guzInstitutionIds": [
+        "nisan",
+        "evlenme",
+        "butlan",
+        "bosanma"
+    ],
+    "baharInstitutionIds": [
+        "mal-rejimi",
+        "velayet",
+        "nafaka"
+    ],
+    "institutions": [
+        {
+            "id": "nisan",
+            "title": "Nişanlanma",
+            "definition": "Nişanlanma, evlenme vaadiyle kurulan aile hukuku ilişkisidir. Evlenmeye zorlanamaz; bozulmasında maddi ve manevi sonuçlar ayrıdır.",
+            "elements": [
+                "karşılıklı evlenme vaadi",
+                "ehliyet",
+                "bozma",
+                "hediye iadesi",
+                "maddi-manevi tazminat"
+            ],
+            "organicLinks": [
+                "Nişan evliliğin ön aşamasıdır; evlendirme memuru yok.",
+                "Çocuk nişandan doğmaz, soybağı ayrı kapıdır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "118"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "119"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "120"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "121"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "122"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "123"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Evlenmeye zorlama yasağı mutlaktır.",
+                "Manevi tazminat kusura bağlanır."
+            ]
+        },
+        {
+            "id": "evlenme",
+            "title": "Evlenme",
+            "definition": "Evlenme, evlendirme memuru önünde irade açıklamalarıyla kurulan aile hukuku sözleşmesidir. Engeller ve beklemeler kanundadır.",
+            "elements": [
+                "evlenme ehliyeti",
+                "evlenme engelleri",
+                "başvuru",
+                "tören / memur önü",
+                "tescil"
+            ],
+            "organicLinks": [
+                "Dini tören hukukî evliliğin yerine geçmez.",
+                "Butlan, kurulmuş görünen evliliği sonra keser."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "124"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "129"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "132"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "134"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "141"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "142"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "143"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Yaş + ayırt etme + kısıtlılık ehliyet üçlüsüdür.",
+                "Memur önü şekli kurucudur."
+            ]
+        },
+        {
+            "id": "butlan",
+            "title": "Evliliğin butlanı",
+            "definition": "Mutlak butlan kamu düzenine ilişkin sebeplerledir; nispî butlan eşlerin menfaatine ilişkindir. Dava ve süre ayrı rejimdir.",
+            "elements": [
+                "mutlak butlan sebepleri",
+                "nispî butlan sebepleri",
+                "dava hakkı",
+                "süre",
+                "çocukların durumu"
+            ],
+            "organicLinks": [
+                "Butlan boşanmadan ayrıdır; geçmişe etki farklıdır.",
+                "İyiniyetli eşin durumu korunur."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "145"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "148"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "149"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "152"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "156"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "157"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Mutlak butlanı savcı da isteyebilir.",
+                "Nispî butlan süreye bağlıdır."
+            ]
+        },
+        {
+            "id": "bosanma",
+            "title": "Boşanma",
+            "definition": "Boşanma, evliliği ileriye etkili sona erdiren çekişmeli veya anlaşmalı yoldur. Özel sebepler ile genel sebep (şiddetli geçimsizlik) yan yana durur.",
+            "elements": [
+                "boşanma sebebi",
+                "kusur",
+                "anlaşmalı boşanma şartları",
+                "tedbir nafakası",
+                "velayet-ziyaret"
+            ],
+            "organicLinks": [
+                "Boşanma butlan değildir.",
+                "Mal rejimi tasfiyesi boşanma kararından sonra ayrı hesaplanır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "161"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "166"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "169"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "174"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "175"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "182"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "166/1 genel sebep, 166/3 anlaşmalı yoldur.",
+                "Manevi tazminat kusurlu eşe karşıdır."
+            ]
+        },
+        {
+            "id": "mal-rejimi",
+            "title": "Mal rejimi",
+            "definition": "Yasal rejim edinilmiş mallara katılımdır. Sözleşmeyle mal ayrılığı veya paylaşmalı mal ayrılığı seçilebilir. Tasfiye, artık değer hesabıdır.",
+            "elements": [
+                "edinilmiş mal",
+                "kişisel mal",
+                "artık değer",
+                "katılma alacağı",
+                "mal rejimi sözleşmesi"
+            ],
+            "organicLinks": [
+                "Mal rejimi boşanma sebebini değiştirmez.",
+                "Kişisel mal ispat yükü iddia edendedir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "202"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "218"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "219"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "220"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "227"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "231"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "236"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Artık değer = edinilmiş mallar − borçlar.",
+                "Eşin emeği kişisel mala değer katmışsa denkleştirme gelir."
+            ]
+        },
+        {
+            "id": "velayet",
+            "title": "Velayet",
+            "definition": "Velayet, ergin olmayan çocuğun bakım, eğitim ve temsilini kapsayan ana-baba hakkıdır. Kamu düzenine ilişkindir; çocuğun üstün yararı ölçüdür.",
+            "elements": [
+                "kişisel ilişki",
+                "bakım ve eğitim",
+                "temsil",
+                "velayetin kaldırılması",
+                "üstün yarar"
+            ],
+            "organicLinks": [
+                "Velayet nafakadan ayrıdır.",
+                "Kaldırma, kısıtlamadan ağırdır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "335"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "339"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "348"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "349"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "351"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Boşanmada velayet kural olarak bir ebeveyne verilir.",
+                "Kişisel ilişki velayetsiz eş için saklıdır."
+            ]
+        },
+        {
+            "id": "nafaka",
+            "title": "Nafaka",
+            "definition": "Tedbir, iştirak ve yoksulluk nafakası ayrı temellere dayanır. İştirak çocuğun giderine, yoksulluk boşanan eşin yoksulluğuna bağlanır.",
+            "elements": [
+                "tedbir nafakası",
+                "iştirak nafakası",
+                "yoksulluk nafakası",
+                "kusur",
+                "değişen şartlar"
+            ],
+            "organicLinks": [
+                "İştirak velayete, yoksulluk boşanmaya bağlanır.",
+                "Tedbir, dava süresine özgüdür."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "169"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "175"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "176"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "182"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "364"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Yoksulluk nafakasında kusur daha ağır olmamalıdır.",
+                "Hısımlık nafakası (m.364) evlilik nafakasından ayrıdır."
+            ]
+        }
+    ]
+}

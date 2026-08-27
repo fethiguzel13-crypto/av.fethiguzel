@@ -11,7 +11,7 @@ const config = {
     "SplashScreen": {
       "launchShowDuration": 600,
       "launchAutoHide": false,
-      "backgroundColor": "#2E4036",
+      "backgroundColor": "#C24E28",
       "showSpinner": false,
       "androidSplashResourceName": "splash",
       "splashFullScreen": false,
@@ -19,12 +19,12 @@ const config = {
     },
     "StatusBar": {
       "style": "DARK",
-      "backgroundColor": "#2E4036",
+      "backgroundColor": "#C24E28",
       "overlaysWebView": false
     },
     "LocalNotifications": {
       "smallIcon": "ic_stat_notify",
-      "iconColor": "#2E4036"
+      "iconColor": "#C24E28"
     }
   },
   "android": {

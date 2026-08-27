@@ -1,0 +1,37 @@
+{
+    "uniSlug": "nuh-naci-yazgan",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Kayseri",
+    "cityHook": "Kayseri OSB'deki bir eser sözleşmesi ve gecikme",
+    "mehaz": "NNY vakıf fakültesi; TBK eser lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / dönem ilanı).",
+        "format": "Klasik yazılı: madde + unsur + vakıaya yedirme. Oran dönem ilanına bağlıdır.",
+        "tips": [
+            "NNY kâğıdında temerrüdü ayıpla karıştırmayın.",
+            "NNY kâğıdında ilk cümle kurumu adlandırır; slogan yetmez.",
+            "Öğretim elemanı duyurusu ve OBS bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "Nuh Naci Yazgan Üniversitesi Hukuk Fakültesi, Kayseri merkezli bir vakıf fakültesidir Eğitim dili Türkçedir.",
+        "Kayseri usulü: kaynak ve lafız önce, slayt cümlesi yok.",
+        "Bu örtü kamuya açık kimlik sayfasından üretilmiştir; amfi notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "NNY Hukuk Fakültesi",
+            "url": "https://www.nny.edu.tr/akademik/fakulteler/hukuk-fakultesi",
+            "note": "fakülte kimliği; slayt ve amfi notu yok"
+        }
+    ]
+}

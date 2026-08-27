@@ -1,5 +1,6 @@
 import { gunzipSync, strFromU8 } from 'fflate';
 import { foldTr, tighten, tokenize, scoreArticle, parseMaddeQuery } from './text.mjs';
+import { GZ } from './varlik';
 
 export { foldTr, tighten, tokenize, parseMaddeQuery };
 
@@ -76,7 +77,7 @@ export async function loadPack(kanunId: string): Promise<Pack> {
   if (running) return running;
 
   const job = (async () => {
-    const res = await fetch(`${BASE}/${kanunId}.json.gz`);
+    const res = await fetch(`${BASE}/${kanunId}.json${GZ}`);
     if (!res.ok) throw new Error(`${kanunId} paketi yüklenemedi: ${res.status}`);
     const buf = new Uint8Array(await res.arrayBuffer());
     const pack = JSON.parse(strFromU8(gunzipSync(buf))) as Pack;

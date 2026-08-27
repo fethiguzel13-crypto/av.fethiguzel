@@ -1,0 +1,37 @@
+{
+    "uniSlug": "istanbul-29-mayis",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Ümraniye / Yamanevler",
+    "cityHook": "Ümraniye'deki bir aile konutu ve tasarruf sınırı",
+    "mehaz": "29 Mayıs vakıf fakültesi; TMK aile konutu lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / dönem ilanı).",
+        "format": "Klasik yazılı: madde + unsur + vakıaya yedirme. Oran dönem ilanına bağlıdır.",
+        "tips": [
+            "29 Mayıs kâğıdında aile konutu rızasını yazın.",
+            "29 Mayıs kâğıdında ilk cümle kurumu adlandırır; slogan yetmez.",
+            "Öğretim elemanı duyurusu ve OBS bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "İstanbul 29 Mayıs Üniversitesi Hukuk Fakültesi, İstanbul merkezli bir vakıf fakültesidir Eğitim dili Türkçedir.",
+        "Ümraniye / Yamanevler usulü: kaynak ve lafız önce, slayt cümlesi yok.",
+        "Bu örtü kamuya açık kimlik sayfasından üretilmiştir; amfi notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "29 Mayıs Hukuk Fakültesi",
+            "url": "https://www.29mayis.edu.tr/akademik/fakulteler/hukuk-fakultesi",
+            "note": "fakülte kimliği; slayt ve amfi notu yok"
+        }
+    ]
+}

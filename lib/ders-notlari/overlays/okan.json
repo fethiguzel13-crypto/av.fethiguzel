@@ -1,0 +1,37 @@
+{
+    "uniSlug": "okan",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Tuzla",
+    "cityHook": "Tuzla tersane hattındaki bir hizmet sözleşmesi ve fazla mesai",
+    "mehaz": "Okan vakıf fakültesi; İşK/TBK yan yana",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / dönem ilanı).",
+        "format": "Klasik yazılı: madde + unsur + vakıaya yedirme. Oran dönem ilanına bağlıdır.",
+        "tips": [
+            "Okan kâğıdında bağımlılık unsurunu vekâletten ayırın.",
+            "Okan kâğıdında ilk cümle kurumu adlandırır; slogan yetmez.",
+            "Öğretim elemanı duyurusu ve OBS bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "İstanbul Okan Üniversitesi Hukuk Fakültesi, İstanbul merkezli bir vakıf fakültesidir Eğitim dili Türkçedir.",
+        "Tuzla usulü: kaynak ve lafız önce, slayt cümlesi yok.",
+        "Bu örtü kamuya açık kimlik sayfasından üretilmiştir; amfi notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "Okan Hukuk Fakültesi",
+            "url": "https://www.okan.edu.tr/hukuk/",
+            "note": "fakülte kimliği; slayt ve amfi notu yok"
+        }
+    ]
+}

@@ -1,0 +1,381 @@
+{
+    "courseCode": "miras-hukuku",
+    "title": "Miras Hukuku",
+    "kanunId": "tmk",
+    "guzInstitutionIds": [
+        "yasal-mirascilik",
+        "sakli-pay",
+        "olume-bagli-tasarruf",
+        "miras-sozlesmesi"
+    ],
+    "baharInstitutionIds": [
+        "iptal",
+        "tenkis",
+        "ret",
+        "tereke-paylasma"
+    ],
+    "institutions": [
+        {
+            "id": "yasal-mirascilik",
+            "title": "Yasal mirasçılık",
+            "definition": "Yasal mirasçılar zümre sistemine göre çağrılır. Eş, zümreyle yarışır; devlet son çaredir. Evlilik dışı soybağı yasal mirasçılığı etkiler.",
+            "elements": [
+                "zümre (altsoy, ana-baba, büyükana-baba)",
+                "eşin payı",
+                "devlet",
+                "soybağı",
+                "mirasçılık belgesi"
+            ],
+            "organicLinks": [
+                "Yasal mirasçı, atanmış mirasçıdan önce zümrede durur.",
+                "Saklı pay, yasal payın korunan dilimidir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "495"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "496"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "497"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "498"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "499"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "500"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "501"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Birinci zümre varken ikinci çağrılmaz.",
+                "Eşin payı hangi zümrenin çağrıldığına göre değişir."
+            ]
+        },
+        {
+            "id": "sakli-pay",
+            "title": "Saklı pay",
+            "definition": "Saklı pay, belirli yasal mirasçıların tasarruf edilemeyen payıdır. Altsoy, ana-baba ve eş saklı paylıdır; kardeş 2007'den beri değildir.",
+            "elements": [
+                "saklı paylılar",
+                "tasarruf nisabı",
+                "saklı pay oranları",
+                "tenkis bağlantısı"
+            ],
+            "organicLinks": [
+                "Saklı pay tenkis davasının ölçüsüdür.",
+                "Kardeş saklı paylı değildir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "505"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "506"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "507"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "508"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "510"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "511"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Altsoy yasal payın yarısı, ana-baba dörtte biri, eş de duruma göre korunur.",
+                "Tasarruf nisabı aşıldığında tenkis gelir."
+            ]
+        },
+        {
+            "id": "olume-bagli-tasarruf",
+            "title": "Ölüme bağlı tasarruflar",
+            "definition": "Vasiyetname ve miras sözleşmesi ölüme bağlı tasarruflardır. Şekil kurucudur; el yazılı, resmi ve sözlü vasiyet ayrı kapılardır.",
+            "elements": [
+                "tasarruf ehliyeti",
+                "şekil",
+                "atanmış mirasçı / vasiyet alacaklısı",
+                "yükleme",
+                "dönme"
+            ],
+            "organicLinks": [
+                "Miras sözleşmesi sağlararası bağlar; vasiyet tek taraflıdır.",
+                "Şekil eksikliği butlan doğurur."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "502"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "514"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "516"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "531"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "532"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "533"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "534"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "535"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "538"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "El yazılı vasiyetin tarihi ve imzası kurucudur.",
+                "Resmi vasiyet memur + tanık ister."
+            ]
+        },
+        {
+            "id": "miras-sozlesmesi",
+            "title": "Miras sözleşmesi",
+            "definition": "Miras sözleşmesi, mirasbırakanın diğer taraf veya üçüncü kişi lehine ölüme bağlı kazandırma yaptığı, sağlararası bağlayıcı sözleşmedir. Şekil resmî vasiyet usulüne yakındır; tek taraflı dönme kural olarak işlemez.",
+            "elements": [
+                "karşılıklı bağ",
+                "resmî şekil",
+                "kazandırma",
+                "dönme yasağı (kural)",
+                "sağlararası bağlayıcılık"
+            ],
+            "organicLinks": [
+                "Vasiyet tek taraflıdır; miras sözleşmesi bağlar.",
+                "Şekil eksikliği butlan doğurur."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "503"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "545"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "546"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "547"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "548"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Öğreti miras sözleşmesini vasiyetten bağlayıcılıkla ayırır.",
+                "Sağlararası kazandırma vaadi TMK m.545 dışına düşebilir."
+            ]
+        },
+        {
+            "id": "iptal",
+            "title": "Ölüme bağlı tasarrufun iptali",
+            "definition": "Ehliyetsizlik, şekil eksikliği, irade sakatlığı ve hukuka/ahlaka aykırılık iptal sebepleridir. Süre hak düşürücüdür.",
+            "elements": [
+                "iptal sebebi",
+                "dava hakkı",
+                "süre",
+                "iyiniyetli üçüncü kişi"
+            ],
+            "organicLinks": [
+                "İptal tenkisten ayrıdır; tenkis saklı payı, iptal geçersizliği keser.",
+                "Süre öğrenmeden ve ölümden işlemeye başlar."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "557"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "558"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "559"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Bir yıllık ve on yıllık süreler hak düşürücüdür.",
+                "İptal, tasarrufun tamamını veya bir kısmını düşürür."
+            ]
+        },
+        {
+            "id": "tenkis",
+            "title": "Tenkis",
+            "definition": "Tenkis, saklı payı zedelenen mirasçının, tasarruf nisabını aşan kazandırmaların indirilmesini istediği davadır. Sıra ve iade ayrı hesaplanır.",
+            "elements": [
+                "saklı pay ihlali",
+                "dava hakkı",
+                "tenkis sırası",
+                "sağlararası kazandırmalar",
+                "süre"
+            ],
+            "organicLinks": [
+                "Tenkis iptal değildir.",
+                "Sağlararası kazandırma da tenkise tâbi olabilir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "560"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "561"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "563"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "565"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "571"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Önce ölüme bağlı tasarruflar, sonra sağlararası kazandırmalar tenkis edilir.",
+                "İyiniyetli üçüncü kişinin korunması ayrıdır."
+            ]
+        },
+        {
+            "id": "ret",
+            "title": "Mirasın reddi",
+            "definition": "Yasal ve atanmış mirasçı, mirası reddedebilir. Süre kısadır; ret, ret eden hiç mirasçı olmamış gibi sonuç doğurur. Terekenin resmi defteri ayrı yoldur.",
+            "elements": [
+                "ret hakkı",
+                "üç aylık süre",
+                "ret beyanı",
+                "hükmen ret",
+                "defter tutma"
+            ],
+            "organicLinks": [
+                "Ret, yoksunluktan ayrıdır.",
+                "Hükmen ret, ödemezlik karinesidir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "605"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "606"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "609"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "610"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "615"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Süre, mirasçılığın öğrenilmesinden işler.",
+                "Ret zinciri sonraki zümreyi çağırır."
+            ]
+        },
+        {
+            "id": "tereke-paylasma",
+            "title": "Tereke, tasfiye ve paylaşma",
+            "definition": "Tereke, mirasbırakanın malvarlığıdır. Paylaşma, elbirliği mülkiyetini sona erdirir. Resmi tasfiye borçları korur.",
+            "elements": [
+                "tereke",
+                "elbirliği",
+                "paylaşma talebi",
+                "borçların ödenmesi",
+                "resmi tasfiye"
+            ],
+            "organicLinks": [
+                "Paylaşma, ret süresinden sonra gelir.",
+                "Alacaklı, resmi tasfiye isteyebilir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "640"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "642"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "644"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "650"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "682"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Elbirliği paylı mülkiyete paylaşma ile döner.",
+                "Öncelikli borçlar paylaşmadan önce ödenir."
+            ]
+        }
+    ]
+}

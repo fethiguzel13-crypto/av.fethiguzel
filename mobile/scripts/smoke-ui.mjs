@@ -267,6 +267,38 @@ await step('marka yazı tipleri gerçekten uygulanıyor', async () => {
   }
 });
 
+await step('inceleme kodu ücretli bölümü açıyor', async () => {
+  /*
+    Google Play incelemecisi ücretli bölümü göremezse sürüm REDDEDİLİR.
+    Uygulamada hesap sistemi olmadığı için incelemeciye verilecek bir
+    kullanıcı adı/şifre de yok; Ayarlar'daki kod alanı o boşluğu dolduruyor.
+
+    Bu adım kodun gerçekten çalıştığını her derlemede doğrular. Kod bir gün
+    sessizce bozulursa, bunu Play'in ret bildiriminden değil buradan
+    öğreniriz.
+  */
+  await page.evaluate(() => localStorage.removeItem('CapacitorStorage.galaxy:uyelik'));
+
+  await page.goto('http://localhost:4599/#/ayarlar', { waitUntil: 'networkidle' });
+  await page.waitForTimeout(900);
+  await page.click('text=Erişim kodu gir');
+  await page.waitForTimeout(300);
+  await page.fill('input[aria-label="İnceleme erişim kodu"]', 'FG-REVIEW-2026');
+  await page.click('text=Doğrula');
+  await page.waitForTimeout(700);
+
+  const onay = await page.textContent('body');
+  if (!/Erişim açıldı/.test(onay)) throw new Error('kod kabul edilmedi');
+
+  await page.goto(`http://localhost:4599/#/karar/${ORNEK_KARAR}`, { waitUntil: 'networkidle' });
+  await page.waitForTimeout(2600);
+  const govde = await page.textContent('body');
+  if (/Tam metin üyelik gerektirir/.test(govde)) {
+    throw new Error('kod kabul edildi ama karar hâlâ kilitli');
+  }
+  await page.evaluate(() => localStorage.removeItem('CapacitorStorage.galaxy:uyelik'));
+});
+
 await step('giriş ekranına dönülüyor', async () => {
   await page.goto('http://localhost:4599/#/', { waitUntil: 'networkidle' });
   await page.waitForTimeout(500);

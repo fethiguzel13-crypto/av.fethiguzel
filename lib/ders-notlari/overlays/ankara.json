@@ -1,0 +1,48 @@
+{
+    "uniSlug": "ankara",
+    "calendar": "karma",
+    "lang": "tr",
+    "campus": "Cebeci",
+    "cityHook": "Kızılay'daki bir kira ve kefalet uyuşmazlığı",
+    "mehaz": "İsviçre BOR hattı, Cebeci şerh geleneği",
+    "examBox": {
+        "calendar": "karma",
+        "typicalWeights": "Klasik yazılı final ağırlıklı; ara sınav %20–40, final %40–60 (dönem ilanı esas).",
+        "format": "Uzun cevap: madde + unsur + olaya yedirme. Cebeci dogmatik geleneği şerh ve (varsa) Yargıtay satırı bekler.",
+        "tips": [
+            "Kâğıdın ilk cümlesinde borcun kaynağını (sözleşme / haksız fiil / sebepsiz zenginleşme) yazın.",
+            "İcap ile daveti, temerrüt ile ayıbı, zamanaşımı ile hak düşürücü süreyi aynı torbaya koymayın.",
+            "OBS ve sorumlu öğretim elemanının duyurusu bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "özel borç ilişkilerinin kaynakları",
+        "sözleşmenin kurulması",
+        "irade sakatlıkları",
+        "temsil",
+        "ifa ve temerrüt",
+        "sözleşmenin sona ermesi ve zamanaşımı"
+    ],
+    "schoolNotes": [
+        "AÜHF Cebeci geleneği kaynağı önce yazar: sözleşme mi, haksız fiil mi, kanunî borç mu.",
+        "Yıllık zorunlu / yarıyıllık seçimlik ayrımı duyurularda vardır; borçlar genel fiilen yıllık omurgayla okutulur, dönemlik kesit Güz/Bahar paketlerinde ayrılır.",
+        "Açık ders HKZ201 tanımı 'kişiler arasındaki özel borç ilişkileri'dir; slayt metni kullanılmaz."
+    ],
+    "sources": [
+        {
+            "title": "AÜHF ders içerikleri",
+            "url": "https://www.law.ankara.edu.tr/ders-icerikleri/",
+            "note": "OIDB giriş; başlık omurgası"
+        },
+        {
+            "title": "Açık Ders HKZ201 borçlar genel (info)",
+            "url": "https://acikders.ankara.edu.tr/course/info.php?id=3775",
+            "note": "ders tanımı; slayt cümlesi alınmadı"
+        },
+        {
+            "title": "AÜHF 2025-2026 ders programı",
+            "url": "https://www.law.ankara.edu.tr/ders-programi/",
+            "note": "takvim görseli"
+        }
+    ]
+}

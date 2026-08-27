@@ -1,0 +1,399 @@
+{
+    "courseCode": "esya-hukuku",
+    "title": "Eşya Hukuku",
+    "kanunId": "tmk",
+    "guzInstitutionIds": [
+        "zilyetlik",
+        "tapu",
+        "mulkiyet",
+        "payli-mulkiyet"
+    ],
+    "baharInstitutionIds": [
+        "irtifak",
+        "ipotek",
+        "tasinir-rehin",
+        "kat-mulkiyeti"
+    ],
+    "institutions": [
+        {
+            "id": "zilyetlik",
+            "title": "Zilyetlik",
+            "definition": "Zilyetlik, bir şey üzerinde fiilî hâkimiyetin, zilyetlik iradesiyle tutulmasıdır. Koruma davaları mülkiyet davasından ayrı ve hızlıdır.",
+            "elements": [
+                "fiilî hâkimiyet",
+                "zilyetlik iradesi",
+                "asli/fer'i zilyet",
+                "koruma davaları",
+                "iyi niyetle kazanma"
+            ],
+            "organicLinks": [
+                "Zilyetlik ayni hak değildir; ayni hakkın görünür yüzüdür.",
+                "Tapu ile zilyetlik yarışırsa sicil karinesi devreye girer."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "973"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "974"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "980"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "982"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "983"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "985"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "990"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "992"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Hâkim görüş zilyetliği fiilî durum olarak okur.",
+                "İyi niyetle menkul iktisabı sınav klasiklerindendir."
+            ]
+        },
+        {
+            "id": "tapu",
+            "title": "Tapu sicili",
+            "definition": "Tapu sicili, taşınmazlar üzerindeki ayni hakların aleniyetini sağlayan resmi sicildir. Tescil kural, istisnalar kanunîdir. Sicile güven ilkesi üçüncü kişiyi korur.",
+            "elements": [
+                "tescil",
+                "aleniyet",
+                "sicile güven",
+                "tapu kaydının düzeltilmesi",
+                "devletin sorumluluğu"
+            ],
+            "organicLinks": [
+                "Tescil olmadan ayni hak kural olarak doğmaz.",
+                "Yolsuz tescil, 1023 ile 1025 arasında ayrılır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "997"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "1007"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "1013"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "1014"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "1023"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "1024"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "1025"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Sicile güven, yolsuz tescili bilmeyen iyiniyetli üçüncü kişiyi korur.",
+                "Devletin tapu sorumluluğu kusursuza yakındır."
+            ]
+        },
+        {
+            "id": "mulkiyet",
+            "title": "Mülkiyet",
+            "definition": "Mülkiyet, bir şey üzerinde hukuk düzeninin tanıdığı en geniş ayni haktır. Kullanma, yararlanma ve tasarruf yetkilerini içerir; kamu hukuku sınırları saklıdır.",
+            "elements": [
+                "kullanma",
+                "yararlanma",
+                "tasarruf",
+                "kapsam (bütünleyici parça / eklenti)",
+                "kazanma yolları"
+            ],
+            "organicLinks": [
+                "Mülkiyet zilyetlikten ayrıdır.",
+                "Bütünleyici parça eklentiden TMK m.684-686 ile ayrılır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "683"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "684"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "686"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "705"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "706"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "716"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Taşınmaz mülkiyeti tescille, taşınır teslimle kazanılır (kural).",
+                "Kazandırıcı zamanaşımı ayrı kapıdır."
+            ]
+        },
+        {
+            "id": "payli-mulkiyet",
+            "title": "Paylı mülkiyet ve elbirliği",
+            "definition": "Paylı mülkiyette paydaşların belirli payları vardır; elbirliğinde pay yoktur, ortaklık vardır. Yönetim, kullanma ve paydaşlıktan çıkarma ayrı rejimlerdir.",
+            "elements": [
+                "pay",
+                "kullanma-yönetim",
+                "olağan/olağanüstü yönetim",
+                "payın devri",
+                "elbirliği ayrımı"
+            ],
+            "organicLinks": [
+                "Paylı mülkiyet elbirliğiyle karıştırılmaz.",
+                "Kat mülkiyeti ayrı kanundadır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "688"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "689"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "691"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "692"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "698"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "701"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "703"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Olağan yönetim çoğunluk, olağanüstü oybirliği tuzakları sınavda sık çıkar.",
+                "Elbirliği tereke ve mal ortaklığında görünür."
+            ]
+        },
+        {
+            "id": "irtifak",
+            "title": "İrtifak hakları",
+            "definition": "İrtifak, bir taşınmaz veya kişi lehine diğer bir taşınmaz üzerinde kurulan sınırlı ayni haktır. Intifa ve oturma ayrı tiplerdir.",
+            "elements": [
+                "yükümlü taşınmaz",
+                "lehtar (taşınmaz veya kişi)",
+                "tescil",
+                "kapsam",
+                "sona erme"
+            ],
+            "organicLinks": [
+                "İrtifak mülkiyeti parçalamaz, yetki koparır.",
+                "İntifa ile kira karıştırılmaz."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "779"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "780"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "794"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "803"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "823"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Eşyaya bağlı / kişiye bağlı irtifak ayrımı kâğıdın ilk satırıdır.",
+                "İntifa, kullanma + semere; çıplak mülkiyet kalır."
+            ]
+        },
+        {
+            "id": "ipotek",
+            "title": "Taşınmaz rehni (ipotek)",
+            "definition": "İpotek, bir alacağı güvence altına almak üzere taşınmaz üzerinde kurulan sınırlı ayni haktır. Belirlilik ve aleniyet kurucudur.",
+            "elements": [
+                "alacak",
+                "taşınmaz",
+                "tescil",
+                "derece",
+                "paraya çevirme"
+            ],
+            "organicLinks": [
+                "İpotek şahsi teminat (kefalet) değildir.",
+                "İpotek derecesi sonraki alacaklıyı keser."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "850"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "851"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "856"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "881"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "888"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "890"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Belirlilik ilkesi anapara veya üst sınırı ister.",
+                "İpotekli borç senedi ile ipotek karıştırılmaz."
+            ]
+        },
+        {
+            "id": "tasinir-rehin",
+            "title": "Taşınır rehni",
+            "definition": "Taşınır rehni kural olarak teslime bağlıdır; kanunî istisnalar aleniyeti başka yoldan sağlar. Teslimsiz rehin istisnadır.",
+            "elements": [
+                "alacak",
+                "taşınır",
+                "teslim (kural)",
+                "aleniyet",
+                "paraya çevirme"
+            ],
+            "organicLinks": [
+                "Teslim kuralı, ipotekten ayırır.",
+                "Hapis hakkı rehin değildir ama komşudur."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "939"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "940"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "950"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "954"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Teslimsiz ticari rehin özel kanundadır; TMK kuralı teslimdir.",
+                "İyiniyetle rehin iktisabı menkulde mümkündür."
+            ]
+        },
+        {
+            "id": "kat-mulkiyeti",
+            "title": "Kat mülkiyeti",
+            "definition": "Kat mülkiyeti, bir ana taşınmazın bağımsız bölümleri üzerinde kurulan özel mülkiyet rejimidir. Ortak yerler ve yönetim planı ayrı katmandır.",
+            "elements": [
+                "ana taşınmaz",
+                "bağımsız bölüm",
+                "ortak yer",
+                "yönetim planı",
+                "kat malikleri kurulu"
+            ],
+            "organicLinks": [
+                "Kat mülkiyeti paylı mülkiyetin özel kanunudur.",
+                "Yönetim planı sözleşme hükmündedir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "katmulkiyeti",
+                    "maddeNo": "1"
+                },
+                {
+                    "kanunId": "katmulkiyeti",
+                    "maddeNo": "2"
+                },
+                {
+                    "kanunId": "katmulkiyeti",
+                    "maddeNo": "3"
+                },
+                {
+                    "kanunId": "katmulkiyeti",
+                    "maddeNo": "16"
+                },
+                {
+                    "kanunId": "katmulkiyeti",
+                    "maddeNo": "19"
+                },
+                {
+                    "kanunId": "katmulkiyeti",
+                    "maddeNo": "20"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Bağımsız bölüm tapusu, ana taşınmaz payından ayrı durur.",
+                "Ortak gider borcu tapu kaydına bağlanabilir."
+            ]
+        }
+    ]
+}

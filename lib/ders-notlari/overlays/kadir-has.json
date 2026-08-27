@@ -1,0 +1,17 @@
+{
+    "uniSlug": "kadir-has",
+    "calendar": "donemlik",
+    "lang": "tr-en30",
+    "campus": "Cibali",
+    "cityHook": "Cibali'deki bir marka lisans sözleşmesi ve haksız rekabet",
+    "mehaz": "Vakıf, karşılaştırmalı; kâğıtta TTK ve RKHK lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav + final + ödev.",
+        "format": "Hypo + madde.",
+        "tips": ["KHAS kâğıdında haksız rekabet ile RKHK 4'ü ayırın.", "Syllabus bağlar."]
+    },
+    "syllabusOrder": ["ticari işletme", "rekabet", "fikri", "borçlar"],
+    "schoolNotes": ["Kadir Has Hukuk, Cibali kampüsündedir.", "Slayt yok."],
+    "sources": [{ "title": "Kadir Has Üniversitesi Hukuk Fakültesi", "url": "https://hukuk.khas.edu.tr/", "note": "fakülte kimliği" }]
+}

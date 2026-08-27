@@ -1,0 +1,327 @@
+{
+    "courseCode": "hukuka-giris",
+    "title": "Hukuka Giriş / Hukukun Temel Kavramları",
+    "kanunId": "tmk",
+    "guzInstitutionIds": [
+        "hukuk-kurali",
+        "kaynaklar",
+        "kamu-ozel",
+        "hak",
+        "hukuki-islem"
+    ],
+    "baharInstitutionIds": [
+        "yaptirim",
+        "yorum",
+        "ispat-giris",
+        "kisi-ehliyet",
+        "kanunilik"
+    ],
+    "institutions": [
+        {
+            "id": "hukuk-kurali",
+            "title": "Hukuk kuralı",
+            "definition": "Hukuk kuralı, toplumsal düzeni sağlamak üzere devlet yaptırımıyla desteklenen genel, soyut ve sürekli davranış kuralıdır. Ahlak, din ve görgü kurallarından yaptırım ve kaynakla ayrılır.",
+            "elements": [
+                "genellik",
+                "soyutluk",
+                "süreklilik",
+                "devlet yaptırımı"
+            ],
+            "organicLinks": [
+                "Hukuk kuralı, tekil emir değildir.",
+                "Yaptırımsız kural, hukuk kuralı sayılmaz (kural)."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "1"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "2"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "TMK m.1 hâkime kuralı uygulama ve boşlukta yaratma yolu açar.",
+                "Dürüstlük, hukuk kuralının kullanılma ölçüsüdür."
+            ]
+        },
+        {
+            "id": "kaynaklar",
+            "title": "Hukukun kaynakları",
+            "definition": "Yazılı kaynaklar kanun, Cumhurbaşkanlığı kararnamesi, yönetmeliktir. Yazısız kaynak örf ve âdettir; öğreti ve içtihat yararlanılan kaynaklardır.",
+            "elements": [
+                "kanun",
+                "düzenleyici işlem",
+                "örf",
+                "öğreti",
+                "içtihat"
+            ],
+            "organicLinks": [
+                "Kaynak hiyerarşisi, Anayasa'nın üstünlüğüne bağlıdır.",
+                "Örf, kanunun açık hükmünü bertaraf etmez."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "1"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Boşlukta örf, o da yoksa hâkimin hukuk yaratması gelir.",
+                "İçtihat bağlayıcı kanun değildir; yararlanılır."
+            ]
+        },
+        {
+            "id": "kamu-ozel",
+            "title": "Kamu hukuku ve özel hukuk",
+            "definition": "Kamu hukuku, kamu gücünün kullanıldığı ilişkileri; özel hukuk eşitler arası ilişkileri düzenler. Usul, yargı yeri ve yaptırım türü bu ayrıma bağlanır.",
+            "elements": [
+                "kamu gücü",
+                "eşitler arası ilişki",
+                "yargı yeri",
+                "uygulanacak usul"
+            ],
+            "organicLinks": [
+                "Devletin taraf olması tek başına kamu hukuku doğurmaz.",
+                "TMK m.5 genel hükümlerin özel hukuka yansımasını taşır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "5"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Özel hukuk uyuşmazlığı HMK'ya, idari işlem İYUK'a gider.",
+                "Karma kurumlar (kamulaştırma, icra) sınav tuzağıdır."
+            ]
+        },
+        {
+            "id": "hak",
+            "title": "Hak",
+            "definition": "Hak, hukuk düzeninin kişiye tanıdığı yetkidir. Mutlak/nisbi, ayni/şahsi ayrımları kâğıdın ilk satırıdır. Hakkın kötüye kullanılması korunmaz.",
+            "elements": [
+                "yetki",
+                "mutlak / nisbi",
+                "ayni / şahsi",
+                "kötüye kullanma yasağı"
+            ],
+            "organicLinks": [
+                "Hak, yetki ve talep ayrı katmanlardır.",
+                "Nisbi hak ancak borçluya karşı ileri sürülür."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "2"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "8"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Hak ehliyeti her insanda vardır.",
+                "Kötüye kullanma, hakkın varlığını değil korunmasını keser."
+            ]
+        },
+        {
+            "id": "hukuki-islem",
+            "title": "Hukuki işlem",
+            "definition": "Hukuki işlem, hukuki sonuç doğurmaya yönelik irade beyanıdır. Sözleşme çok taraflı, vasiyet tek taraflı işlemdir. Ehliyet ve irade sakatlığı geçerliliği etkiler.",
+            "elements": [
+                "irade beyanı",
+                "hukuki sonuç iradesi",
+                "taraf sayısı",
+                "borçlandırıcı / tasarrufi"
+            ],
+            "organicLinks": [
+                "Hukuki işlem, haksız fiilden irade ile ayrılır.",
+                "TBK m.1 sözleşmenin kurulmasını taşır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "1"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "2"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "12"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "İcap-kabul, çok taraflı işlemin kurulma yoludur.",
+                "Şekil, kanuni veya iradi olabilir."
+            ]
+        },
+        {
+            "id": "kanunilik",
+            "title": "Kanunilik ilkesi (giriş)",
+            "definition": "Suç ve ceza ancak kanunda açıkça yazılmakla doğar. Özel hukukta da emredici hükümler sözleşme özgürlüğünü sınırlar. Kıyas, ceza hukukunda fail aleyhine işlemez.",
+            "elements": [
+                "kanunilik",
+                "kıyas yasağı",
+                "emredici hüküm",
+                "sözleşme özgürlüğü"
+            ],
+            "organicLinks": [
+                "Ceza kanuniliği, özel hukuk kıyasından daha serttir.",
+                "TBK m.26 sözleşme özgürlüğünü emredici sınıra bağlar."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "1"
+                },
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "2"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Kıyas fail aleyhine işlemez.",
+                "Lehe kanun geçmişe yürür."
+            ]
+        },
+        {
+            "id": "yaptirim",
+            "title": "Yaptırım",
+            "definition": "Yaptırım, kurala aykırılığın hukuki sonucudur. Ceza, tazminat, butlan, iptal, zorla icra ayrı türlerdir. Tür, kuralın niteliğine göre değişir.",
+            "elements": [
+                "ceza",
+                "tazminat",
+                "geçersizlik",
+                "cebrî icra"
+            ],
+            "organicLinks": [
+                "Aynı fiil ceza ve tazminatı birlikte doğurabilir.",
+                "Butlan ile iptal, geçmişe etkiyle ayrılır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "1"
+                },
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "2"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Suç ve ceza kanuniliğe bağlıdır.",
+                "Özel hukuk yaptırımı TBK/TMK'dadır."
+            ]
+        },
+        {
+            "id": "yorum",
+            "title": "Yorum ve uygulama",
+            "definition": "Kanun sözüyle ve özüyle uygulanır. Yorum yöntemleri lafzî, tarihî, sistematik ve amaçsaldır. Kıyas, ceza hukukunda fail aleyhine işlemez.",
+            "elements": [
+                "söz",
+                "öz",
+                "lafzî yorum",
+                "amaçsal yorum",
+                "kıyas yasağı"
+            ],
+            "organicLinks": [
+                "Yorum, boşluk doldurmadan (m.1 c.2) ayrıdır.",
+                "Ceza kanuniliği kıyası keser."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "1"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "4"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Takdir yetkisi yorumun kardeşi, boşluğun değil.",
+                "Hakkaniyet, kanunun çizdiği çerçevede işler."
+            ]
+        },
+        {
+            "id": "kisi-ehliyet",
+            "title": "Kişi, hak ehliyeti ve fiil ehliyeti (giriş)",
+            "definition": "Hak ehliyeti her insanda vardır. Fiil ehliyeti ayırt etme gücü, erginlik ve kısıtlı olmamaya bağlanır. Bu ayrım bütün özel hukukun kapısıdır.",
+            "elements": [
+                "hak ehliyeti",
+                "ayırt etme gücü",
+                "erginlik",
+                "kısıtlama"
+            ],
+            "organicLinks": [
+                "Hak ehliyeti fiil ehliyetinden ayrıdır.",
+                "Ayırt etme gücü yoksa irade beyanı kural olarak sonuç doğurmaz."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "8"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "9"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "10"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "16"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Tam ehliyetsizin işlemi kural olarak hükümsüzdür.",
+                "Sınırlı ehliyetsiz yasal temsilciyle işlem yapar."
+            ]
+        },
+        {
+            "id": "ispat-giris",
+            "title": "İspat yükü (giriş)",
+            "definition": "Herkes hakkını dayandırdığı olguların varlığını ispatla yükümlüdür. Karine ve resmi sicil ispat yükünü kaydırır. Usul, ispatın nasılını taşır.",
+            "elements": [
+                "olgu",
+                "ispat yükü",
+                "karine",
+                "belge"
+            ],
+            "organicLinks": [
+                "İspat, maddi hakkın usul yüzüdür.",
+                "HMK, TMK m.6'nın nasılını yazar."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "6"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "7"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Resmî sicil karinesi aksi ispat edilinceye kadar işler.",
+                "İmza inkârı usulü HMK'dadır."
+            ]
+        }
+    ]
+}

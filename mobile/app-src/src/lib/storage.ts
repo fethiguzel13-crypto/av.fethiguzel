@@ -137,4 +137,26 @@ export const KEYS = {
   onboarded: 'galaxy:onboarded',
 } as const;
 
-export const ALL_KEYS = Object.values(KEYS);
+/**
+ * KEYS dışında kalan, başka modüllerin kendi içinde tuttuğu anahtarlar.
+ *
+ * «Tüm yerel verileri sil» düğmesi yalnız KEYS'i temizliyordu; oysa uygulama
+ * bu beşini de yazıyor. Yani düğme «tüm» diyor ama üyelik kaydını, hata
+ * günlüğünü, günlük içtihat önbelleğini, dil ve titreşim tercihini bırakıyordu.
+ *
+ * Bunlardan en önemlisi `galaxy:uyelik`: Play'e beyan edilen «satın alma
+ * geçmişi» verisi odur. Kullanıcı silme talebini karşıladığımızı söylüyorsak
+ * o kaydın da gerçekten silinmesi gerekir.
+ *
+ * Silinmesi erişim kaybettirmez: kayıt Play'deki gerçeğin yerel kopyasıdır,
+ * uygulama açılışta Play'e yeniden sorup üyeliği geri kurar.
+ */
+export const EK_ANAHTARLAR = [
+  'galaxy:uyelik',
+  'galaxy:errors',
+  'galaxy:icthat-cache',
+  'galaxy:haptics',
+  'galaxy:lang',
+] as const;
+
+export const ALL_KEYS = [...Object.values(KEYS), ...EK_ANAHTARLAR];

@@ -1,0 +1,24 @@
+{
+    "uniSlug": "akdeniz",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Dumlupınar / Antalya",
+    "cityHook": "Lara'daki bir turizm işletmesi kirası ve tüketici ayıbı",
+    "mehaz": "Akdeniz devlet fakültesi; TBK/TKHK lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS).",
+        "format": "Klasik yazılı: madde + unsur + turizm/kira vakıası.",
+        "tips": [
+            "Akdeniz kâğıdında kira ile tüketici işlemini ayırın; TKHK sıfatı yoksa TBK açılır.",
+            "Dönemlik kod OBS'dedir.",
+            "Öğretim elemanı duyurusu bağlayıcıdır."
+        ]
+    },
+    "syllabusOrder": ["borçlar genel", "kira ve tüketici", "ticari işletme", "usul"],
+    "schoolNotes": [
+        "Akdeniz Hukuk, Antalya'da devlet fakültesidir; turizm ve kira uyuşmazlığı pratikte sık düşer.",
+        "Slayt kopyalanmaz."
+    ],
+    "sources": [{ "title": "Akdeniz Üniversitesi Hukuk Fakültesi", "url": "https://hukuk.akdeniz.edu.tr/", "note": "fakülte kimliği" }]
+}

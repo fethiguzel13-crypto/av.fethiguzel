@@ -1,0 +1,35 @@
+# Denetçi manifesti — Tüketici Hukuku
+courseCode: tuketici-hukuku
+title: Tüketici Hukuku
+kanun: tkhk
+guz:
+  - tuketici
+  - ayipli-mal
+  - ayipli-hizmet
+bahar:
+  - mesafeli
+  - haksiz-sart
+  - taksitli
+  - uyusmazlik
+institutions:
+  - id: tuketici
+    title: Tüketici ve satıcı/sağlayıcı
+    maddeler: ['1', '2', '3', '4', '6']
+  - id: ayipli-mal
+    title: Ayıplı mal
+    maddeler: ['8', '9', '10', '11', '12']
+  - id: ayipli-hizmet
+    title: Ayıplı hizmet
+    maddeler: ['13', '14', '15']
+  - id: mesafeli
+    title: Mesafeli sözleşmeler ve cayma
+    maddeler: ['48', '49', '50']
+  - id: haksiz-sart
+    title: Haksız şart
+    maddeler: ['5']
+  - id: taksitli
+    title: Taksitle satış ve finansman
+    maddeler: ['16', '17', '18', '30']
+  - id: uyusmazlik
+    title: Tüketici uyuşmazlığı
+    maddeler: ['68', '70', '73', '77']

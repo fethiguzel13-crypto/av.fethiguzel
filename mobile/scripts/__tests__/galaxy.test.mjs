@@ -186,15 +186,24 @@ test('çevrimdışı içerik paketlenmiş', { skip: !anyBuilt }, () => {
    * burada ayrıca yazılıydı ve birleşik uygulama eklendiğinde onu tanımadığı
    * için denetim sessizce atlanmıştı.
    */
+  /*
+   * Uzantı `.gzc`, `.gz` DEĞİL.
+   *
+   * Android'in paketleme aracı aapt2, `assets/` altında `.gz` ile biten her
+   * dosyayı AAB üretirken açar ve uzantıyı siler; uygulama `.gz` adresini
+   * istediği için mevzuat, rehber ve arşiv «yüklenemedi» veriyordu. Sıkıştırılmış
+   * varlıklar bu yüzden aapt2'nin tanımadığı `.gzc` uzantısıyla paketlenir.
+   * Ayrıntı: docs/AAPT-GZ-TUZAGI.md
+   */
   const SENTINELS = {
     packs: ['packs/manifest.json'],
-    icthat: ['icthat/seed.json', 'icthat/archive.json.gz'],
-    rehber: ['rehber/guides.json.gz'],
+    icthat: ['icthat/seed.json', 'icthat/archive.json.gzc'],
+    rehber: ['rehber/guides.json.gzc'],
     // Madde → karar ters indeksi. Eksikse mevzuat bölümü açılır ama
     // «bu maddeye atıf yapan kararlar» hiç görünmez — sessiz kayıp.
-    mevzuat: ['mevzuat/atif.json.gz'],
+    mevzuat: ['mevzuat/atif.json.gzc'],
     // Akademik eserlerin tam metni
-    kutuphane: ['kutuphane/eserler.json.gz'],
+    kutuphane: ['kutuphane/eserler.json.gzc'],
   };
   for (const a of published) {
     for (const name of a.assets) {

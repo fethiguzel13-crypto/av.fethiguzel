@@ -1,0 +1,37 @@
+{
+    "uniSlug": "hasan-kalyoncu",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Şahinbey",
+    "cityHook": "Gaziantep OSB'deki bir ticari vekâlet ve hesap verme",
+    "mehaz": "HKÜ vakıf fakültesi; TBK vekâlet / TTK ticari temsilci",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / dönem ilanı).",
+        "format": "Klasik yazılı: madde + unsur + vakıaya yedirme. Oran dönem ilanına bağlıdır.",
+        "tips": [
+            "HKÜ kâğıdında ticari temsilciyi adi vekâletten ayırın.",
+            "HKÜ kâğıdında ilk cümle kurumu adlandırır; slogan yetmez.",
+            "Öğretim elemanı duyurusu ve OBS bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "Hasan Kalyoncu Üniversitesi Hukuk Fakültesi, Gaziantep merkezli bir vakıf fakültesidir Eğitim dili Türkçedir.",
+        "Şahinbey usulü: kaynak ve lafız önce, slayt cümlesi yok.",
+        "Bu örtü kamuya açık kimlik sayfasından üretilmiştir; amfi notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "HKÜ Hukuk Fakültesi",
+            "url": "https://hukuk.hku.edu.tr/",
+            "note": "fakülte kimliği; slayt ve amfi notu yok"
+        }
+    ]
+}

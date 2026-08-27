@@ -95,18 +95,32 @@ import ErrorBoundary from './shell/ErrorBoundary';
 const Root = lazy(() => import('@galaxy-root'));
 
 // ── Marka rengi ──────────────────────────────────────────────────────────────
+/*
+  İki ayrı renk rolü.
+
+  Önceki sürümde tek bir `accent` hem vurguyu hem kabuğu sürüklüyordu; asistan
+  uygulamasında o değer orman yeşiliydi ve sonuç, baştan sona resesif yeşile
+  boyanmış bir arayüzdü. Site ise iki rolü ayırır: kabuk kömür siyahı
+  (`chrome`), vurgu ise kiremit turuncusu (`accent`) — kararlı kontrast
+  oradan gelir.
+
+  `chrome` tanımlı değilse eski davranış korunur: kabuk da vurgu rengini alır.
+*/
 function applyBrand() {
   const el = document.documentElement;
+  const kabuk = APP.chrome || APP.accent;
+
   el.style.setProperty('--brand', APP.accent);
   el.style.setProperty('--brand-dark', shade(APP.accent, -0.25));
   el.style.setProperty('--brand-soft', hexToRgba(APP.accent, 0.08));
+  el.style.setProperty('--cubuk', kabuk);
 
   const meta = document.getElementById('theme-color');
-  if (meta) meta.setAttribute('content', APP.accent);
+  if (meta) meta.setAttribute('content', kabuk);
   document.title = appName();
 
   const boot = document.getElementById('boot');
-  if (boot) boot.style.background = APP.accent;
+  if (boot) boot.style.background = kabuk;
 }
 
 function hexToRgba(hex: string, alpha: number): string {
@@ -129,7 +143,7 @@ function shade(hex: string, amount: number): string {
 async function initNative() {
   try {
     await StatusBar.setStyle({ style: Style.Dark });
-    await StatusBar.setBackgroundColor({ color: APP.accent });
+    await StatusBar.setBackgroundColor({ color: APP.chrome || APP.accent });
     await StatusBar.setOverlaysWebView({ overlay: false });
   } catch {
     /* tarayıcıda çalışıyoruz */

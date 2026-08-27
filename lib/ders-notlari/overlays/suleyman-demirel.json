@@ -1,0 +1,37 @@
+{
+    "uniSlug": "suleyman-demirel",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Doğu Kampüsü / Isparta",
+    "cityHook": "Gül yağı kooperatifindeki bir ortaklık ve temerrüt",
+    "mehaz": "SDÜ devlet fakültesi; TBK/TTK lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / dönem ilanı).",
+        "format": "Klasik yazılı: madde + unsur + vakıaya yedirme. Oran dönem ilanına bağlıdır.",
+        "tips": [
+            "SDÜ kâğıdında kooperatif ile adi ortaklığı ayırın.",
+            "SDÜ kâğıdında ilk cümle kurumu adlandırır; slogan yetmez.",
+            "Öğretim elemanı duyurusu ve OBS bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "Süleyman Demirel Üniversitesi Hukuk Fakültesi, Isparta merkezli bir devlet fakültesidir Eğitim dili Türkçedir.",
+        "Doğu Kampüsü / Isparta usulü: kaynak ve lafız önce, slayt cümlesi yok.",
+        "Bu örtü kamuya açık kimlik sayfasından üretilmiştir; amfi notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "SDÜ Hukuk Fakültesi",
+            "url": "https://hukuk.sdu.edu.tr/",
+            "note": "fakülte kimliği; slayt ve amfi notu yok"
+        }
+    ]
+}

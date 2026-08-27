@@ -1,0 +1,37 @@
+{
+    "uniSlug": "ibn-haldun",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Başakşehir",
+    "cityHook": "Başakşehir'deki bir aile konutu ve velayet",
+    "mehaz": "İHÜ; karşılaştırmalı izlence anılır, kâğıtta TMK lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / dönem ilanı).",
+        "format": "Klasik yazılı: madde + unsur + vakıaya yedirme. Oran dönem ilanına bağlıdır.",
+        "tips": [
+            "İHÜ kâğıdında karşılaştırmalı not, yürürlük cümlesinin yerini almaz.",
+            "İHÜ kâğıdında ilk cümle kurumu adlandırır; slogan yetmez.",
+            "Öğretim elemanı duyurusu ve OBS bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "İbn Haldun Üniversitesi Hukuk Fakültesi, İstanbul merkezli bir vakıf fakültesidir Eğitim dili Türkçedir.",
+        "Başakşehir usulü: kaynak ve lafız önce, slayt cümlesi yok.",
+        "Bu örtü kamuya açık kimlik sayfasından üretilmiştir; amfi notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "İHÜ Hukuk Fakültesi",
+            "url": "https://law.ihu.edu.tr/",
+            "note": "fakülte kimliği; slayt ve amfi notu yok"
+        }
+    ]
+}

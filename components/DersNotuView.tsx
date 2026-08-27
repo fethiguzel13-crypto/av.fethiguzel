@@ -2,6 +2,9 @@ import Link from 'next/link';
 import type { ReactNode } from 'react';
 import type { CourseNote, NoteDiagram, UniHubContent } from '@/lib/ders-notlari';
 import { resolveHubCourseHref } from '@/lib/ders-notlari';
+import { McqBlock } from '@/components/ders-notlari/McqBlock';
+import { FlashcardBlock } from '@/components/ders-notlari/FlashcardBlock';
+import { MermaidBlock } from '@/components/ders-notlari/MermaidBlock';
 
 const SITE = 'https://www.avfethiguzel.com';
 
@@ -312,11 +315,11 @@ export function DersNotuView({
           {(!note.qualityTier ||
             note.qualityTier === 'premium' ||
             note.qualityTier === 'template') && (
-            <p className="mt-4 text-[11px] sm:text-xs text-cream/55 leading-relaxed max-w-3xl border border-cream/15 rounded-xl px-3 py-2">
-              Bu sayfa genel çekirdek iskelettir; fakülteye özgü derin yazım dalga dalga
-              güncellenir. Bağlayıcı olan OBS, dönem duyurusu ve sorumlu öğretim elemanıdır.
-            </p>
-          )}
+              <p className="mt-4 text-[11px] sm:text-xs text-cream/55 leading-relaxed max-w-3xl border border-cream/15 rounded-xl px-3 py-2">
+                Bu sayfa genel çekirdek iskelettir; fakülteye özgü derin yazım dalga dalga
+                güncellenir. Bağlayıcı olan OBS, dönem duyurusu ve sorumlu öğretim elemanıdır.
+              </p>
+            )}
           <div className="flex flex-wrap gap-2 mt-5 print:hidden">
             <Link
               href={`${pdfHref}?print=1`}
@@ -356,611 +359,611 @@ export function DersNotuView({
           items: { code: string; label: string; desc: string }[];
           footer?: ReactNode;
         }[] = [
-          {
-            match:
-              note.variantOf === 'borclar-genel' ||
-              note.courseCode === 'borclar-genel' ||
-              note.courseCode.startsWith('borclar-genel-'),
-            title: 'Borçlar Genel · üç paket',
-            items: [
-              { code: 'borclar-genel-donem-1', label: '1. Dönem (Güz)', desc: 'Kaynak · kuruluş · irade · temsil' },
-              { code: 'borclar-genel-donem-2', label: '2. Dönem (Bahar)', desc: 'Temerrüt · haksız fiil · zamanaşımı' },
-              { code: 'borclar-genel-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-          },
-          {
-            match:
-              note.variantOf === 'borclar-ozel' ||
-              note.courseCode === 'borclar-ozel' ||
-              note.courseCode.startsWith('borclar-ozel-'),
-            title: 'Borçlar Özel · üç paket',
-            items: [
-              { code: 'borclar-ozel-donem-1', label: '1. Dönem (Güz)', desc: 'Satım · kira · bağış · ödünç' },
-              { code: 'borclar-ozel-donem-2', label: '2. Dönem (Bahar)', desc: 'Eser · vekâlet · kefalet' },
-              { code: 'borclar-ozel-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-            footer: (
-              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
-                Genel hükümler için:{' '}
-                <Link
-                  href={`/ders-notlari/${note.uniSlug}/borclar-genel-yillik`}
-                  className="text-accent font-semibold hover:underline"
-                >
-                  Borçlar Genel yıllık
-                </Link>
-              </p>
-            ),
-          },
-          {
-            match:
-              note.variantOf === 'esya-hukuku' ||
-              note.courseCode === 'esya-hukuku' ||
-              note.courseCode.startsWith('esya-hukuku-'),
-            title: 'Eşya Hukuku · üç paket',
-            items: [
-              { code: 'esya-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Zilyetlik · sicil · mülkiyet' },
-              { code: 'esya-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'İrtifak · rehin · davalar' },
-              { code: 'esya-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-          },
-          {
-            match:
-              note.variantOf === 'miras-hukuku' ||
-              note.courseCode === 'miras-hukuku' ||
-              note.courseCode.startsWith('miras-hukuku-'),
-            title: 'Miras Hukuku · üç paket',
-            items: [
-              { code: 'miras-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Zümre · eş · saklı pay · ret' },
-              { code: 'miras-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'Vasiyet · tenkis · paylaşma' },
-              { code: 'miras-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-          },
-          {
-            match:
-              note.variantOf === 'tmk-1-kitap' ||
-              note.courseCode === 'medeni-baslangic' ||
-              note.courseCode.startsWith('tmk-1-kitap-'),
-            title: 'TMK 1. Kitap · üç paket',
-            items: [
-              { code: 'tmk-1-kitap-donem-1', label: '1. Dönem (Güz)', desc: 'Başlangıç · ehliyet · yerleşim' },
-              { code: 'tmk-1-kitap-donem-2', label: '2. Dönem (Bahar)', desc: 'Kişilik · vesayet · dernek/vakıf' },
-              { code: 'tmk-1-kitap-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-          },
-          {
-            match:
-              note.variantOf === 'tmk-2-kitap' ||
-              note.courseCode === 'aile-hukuku' ||
-              note.courseCode.startsWith('tmk-2-kitap-'),
-            title: 'TMK 2. Kitap · üç paket',
-            items: [
-              { code: 'tmk-2-kitap-donem-1', label: '1. Dönem (Güz)', desc: 'Nişan · evlenme · boşanma' },
-              { code: 'tmk-2-kitap-donem-2', label: '2. Dönem (Bahar)', desc: 'Mal · velayet · nafaka' },
-              { code: 'tmk-2-kitap-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-          },
-          {
-            match:
-              note.variantOf === 'hmk' ||
-              note.courseCode === 'medeni-usul' ||
-              note.courseCode.startsWith('hmk-'),
-            title: 'HMK · üç paket',
-            items: [
-              { code: 'hmk-donem-1', label: '1. Dönem (Güz)', desc: 'Görev · yetki · dava şartı' },
-              { code: 'hmk-donem-2', label: '2. Dönem (Bahar)', desc: 'İspat · hüküm · istinaf' },
-              { code: 'hmk-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-          },
-          {
-            match:
-              note.variantOf === 'icra' ||
-              note.courseCode === 'icra-iflas' ||
-              note.courseCode.startsWith('icra-'),
-            title: 'İcra Hukuku · üç paket',
-            items: [
-              { code: 'icra-donem-1', label: '1. Dönem (Güz)', desc: 'Takip · ödeme emri · itiraz' },
-              { code: 'icra-donem-2', label: '2. Dönem (Bahar)', desc: 'Haciz · satış · sıra' },
-              { code: 'icra-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-            footer: (
-              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
-                İflas / konkordato için:{' '}
-                <Link
-                  href={`/ders-notlari/${note.uniSlug}/iflas-yillik`}
-                  className="text-accent font-semibold hover:underline"
-                >
-                  İflas Hukuku yıllık
-                </Link>
-              </p>
-            ),
-          },
-          {
-            match:
-              note.variantOf === 'iflas' ||
-              note.courseCode === 'icra-iflas' ||
-              note.courseCode.startsWith('iflas-'),
-            title: 'İflas Hukuku · üç paket',
-            items: [
-              { code: 'iflas-donem-1', label: '1. Dönem (Güz)', desc: 'Sebep · yol · masa' },
-              { code: 'iflas-donem-2', label: '2. Dönem (Bahar)', desc: 'Kayıt · iptal · konkordato' },
-              { code: 'iflas-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-            footer: (
-              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
-                Ferdi takip / haciz için:{' '}
-                <Link
-                  href={`/ders-notlari/${note.uniSlug}/icra-yillik`}
-                  className="text-accent font-semibold hover:underline"
-                >
-                  İcra Hukuku yıllık
-                </Link>
-              </p>
-            ),
-          },
-          {
-            match:
-              note.variantOf === 'sirketler' ||
-              note.courseCode === 'ticaret-sirketler' ||
-              note.courseCode.startsWith('sirketler-'),
-            title: 'Şirketler Hukuku · üç paket',
-            items: [
-              { code: 'sirketler-donem-1', label: '1. Dönem (Güz)', desc: 'Tür · limited · kuruluş' },
-              { code: 'sirketler-donem-2', label: '2. Dönem (Bahar)', desc: 'AŞ · birleşme · sorumluluk' },
-              { code: 'sirketler-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-          },
-          {
-            match:
-              note.variantOf === 'kiymetli-evrak' ||
-              note.courseCode === 'kiymetli-evrak' ||
-              note.courseCode.startsWith('kiymetli-evrak-'),
-            title: 'Kıymetli Evrak · üç paket',
-            items: [
-              { code: 'kiymetli-evrak-donem-1', label: '1. Dönem (Güz)', desc: 'Poliçe · bono · ciro' },
-              { code: 'kiymetli-evrak-donem-2', label: '2. Dönem (Bahar)', desc: 'Çek · başvuru · def’i' },
-              { code: 'kiymetli-evrak-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-          },
-          {
-            match:
-              note.variantOf === 'sigorta-hukuku' ||
-              note.courseCode === 'sigorta-hukuku' ||
-              note.courseCode.startsWith('sigorta-hukuku-'),
-            title: 'Sigorta Hukuku · üç paket',
-            items: [
-              { code: 'sigorta-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Sözleşme · menfaat · beyan' },
-              { code: 'sigorta-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'Branş · rücu · tahkim' },
-              { code: 'sigorta-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-          },
-          {
-            match:
-              note.variantOf === 'ticari-isletme' ||
-              note.courseCode === 'ticari-isletme' ||
-              note.courseCode.startsWith('ticari-isletme-'),
-            title: 'Ticari İşletme · üç paket',
-            items: [
-              { code: 'ticari-isletme-donem-1', label: '1. Dönem (Güz)', desc: 'Tacir · unvan · sicil' },
-              { code: 'ticari-isletme-donem-2', label: '2. Dönem (Bahar)', desc: 'Acente · defter · devir' },
-              { code: 'ticari-isletme-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-          },
-          {
-            match:
-              note.variantOf === 'ceza-genel' ||
-              note.courseCode === 'ceza-genel' ||
-              note.courseCode.startsWith('ceza-genel-'),
-            title: 'Ceza Genel · üç paket',
-            items: [
-              { code: 'ceza-genel-donem-1', label: '1. Dönem (Güz)', desc: 'Tipiklik · kast · meşru savunma' },
-              { code: 'ceza-genel-donem-2', label: '2. Dönem (Bahar)', desc: 'Teşebbüs · iştirak · yaptırım' },
-              { code: 'ceza-genel-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-            footer: (
-              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
-                Somut suç tipleri için:{' '}
-                <Link
-                  href={`/ders-notlari/${note.uniSlug}/ceza-ozel-yillik`}
-                  className="text-accent font-semibold hover:underline"
-                >
-                  Ceza Özel yıllık
-                </Link>
-              </p>
-            ),
-          },
-          {
-            match:
-              note.variantOf === 'ceza-ozel' ||
-              note.courseCode === 'ceza-ozel' ||
-              note.courseCode.startsWith('ceza-ozel-'),
-            title: 'Ceza Özel · üç paket',
-            items: [
-              { code: 'ceza-ozel-donem-1', label: '1. Dönem (Güz)', desc: 'Öldürme · yaralama · hürriyet' },
-              { code: 'ceza-ozel-donem-2', label: '2. Dönem (Bahar)', desc: 'Hırsızlık · dolandırıcılık · kamu' },
-              { code: 'ceza-ozel-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-            footer: (
-              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
-                Suç teorisi için:{' '}
-                <Link
-                  href={`/ders-notlari/${note.uniSlug}/ceza-genel-yillik`}
-                  className="text-accent font-semibold hover:underline"
-                >
-                  Ceza Genel yıllık
-                </Link>
-              </p>
-            ),
-          },
-          {
-            match:
-              note.variantOf === 'cmk' ||
-              note.courseCode === 'ceza-muhakemesi' ||
-              note.courseCode.startsWith('cmk-'),
-            title: 'CMK · üç paket',
-            items: [
-              { code: 'cmk-donem-1', label: '1. Dönem (Güz)', desc: 'Yakalama · tutuklama · arama' },
-              { code: 'cmk-donem-2', label: '2. Dönem (Bahar)', desc: 'Duruşma · delil · istinaf' },
-              { code: 'cmk-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-            footer: (
-              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
-                Maddi ceza için:{' '}
-                <Link
-                  href={`/ders-notlari/${note.uniSlug}/ceza-genel-yillik`}
-                  className="text-accent font-semibold hover:underline"
-                >
-                  Ceza Genel
-                </Link>
-                {' · '}
-                <Link
-                  href={`/ders-notlari/${note.uniSlug}/ceza-ozel-yillik`}
-                  className="text-accent font-semibold hover:underline"
-                >
-                  Ceza Özel
-                </Link>
-              </p>
-            ),
-          },
-          {
-            match:
-              note.variantOf === 'idare-hukuku' ||
-              note.courseCode === 'idare-hukuku' ||
-              note.courseCode.startsWith('idare-hukuku-'),
-            title: 'İdare Hukuku · üç paket',
-            items: [
-              { code: 'idare-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Teşkilat · işlem · unsur' },
-              { code: 'idare-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'Kolluk · sorumluluk · hizmet' },
-              { code: 'idare-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-            footer: (
-              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
-                İptal / tam yargı usulü için:{' '}
-                <Link
-                  href={`/ders-notlari/${note.uniSlug}/idari-yargilama-yillik`}
-                  className="text-accent font-semibold hover:underline"
-                >
-                  İdari Yargılama yıllık
-                </Link>
-              </p>
-            ),
-          },
-          {
-            match:
-              note.variantOf === 'idari-yargilama' ||
-              note.courseCode === 'idari-yargilama' ||
-              note.courseCode.startsWith('idari-yargilama-'),
-            title: 'İdari Yargılama · üç paket',
-            items: [
-              { code: 'idari-yargilama-donem-1', label: '1. Dönem (Güz)', desc: 'Görev · süre · iptal' },
-              { code: 'idari-yargilama-donem-2', label: '2. Dönem (Bahar)', desc: 'Tam yargı · YD · istinaf' },
-              { code: 'idari-yargilama-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-            footer: (
-              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
-                Maddi idare için:{' '}
-                <Link
-                  href={`/ders-notlari/${note.uniSlug}/idare-hukuku-yillik`}
-                  className="text-accent font-semibold hover:underline"
-                >
-                  İdare Hukuku yıllık
-                </Link>
-              </p>
-            ),
-          },
-          {
-            match:
-              note.variantOf === 'hukuk-felsefesi' ||
-              note.courseCode === 'hukuk-felsefesi' ||
-              note.courseCode.startsWith('hukuk-felsefesi-'),
-            title: 'Hukuk Felsefesi · üç paket',
-            items: [
-              { code: 'hukuk-felsefesi-donem-1', label: '1. Dönem (Güz)', desc: 'Akımlar · adalet · ahlak' },
-              { code: 'hukuk-felsefesi-donem-2', label: '2. Dönem (Bahar)', desc: 'Sosyoloji · yorum · hukuk devleti' },
-              { code: 'hukuk-felsefesi-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-            footer: (
-              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
-                Toplumda hukukun işleyişi için:{' '}
-                <Link
-                  href={`/ders-notlari/${note.uniSlug}/hukuk-sosyolojisi-yillik`}
-                  className="text-accent font-semibold hover:underline"
-                >
-                  Hukuk Sosyolojisi yıllık
-                </Link>
-              </p>
-            ),
-          },
-          {
-            match:
-              note.variantOf === 'hukuk-ingilizcesi' ||
-              note.courseCode === 'hukuk-ingilizcesi' ||
-              note.courseCode.startsWith('hukuk-ingilizcesi-'),
-            title: 'Hukuk İngilizcesi · üç paket',
-            items: [
-              { code: 'hukuk-ingilizcesi-donem-1', label: '1. Dönem (Güz)', desc: 'Vocab · court · contract' },
-              { code: 'hukuk-ingilizcesi-donem-2', label: '2. Dönem (Bahar)', desc: 'Litigation · letter · judgment' },
-              { code: 'hukuk-ingilizcesi-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-          },
-          {
-            match:
-              note.variantOf === 'saglik-hukuku' ||
-              note.courseCode === 'saglik-hukuku' ||
-              note.courseCode.startsWith('saglik-hukuku-'),
-            title: 'Sağlık Hukuku · üç paket',
-            items: [
-              { code: 'saglik-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Haklar · onam · kayıt' },
-              { code: 'saglik-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'Malpraktis · sorumluluk' },
-              { code: 'saglik-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-          },
-          {
-            match:
-              note.variantOf === 'tuketici-hukuku' ||
-              note.courseCode === 'tuketici-hukuku' ||
-              note.courseCode.startsWith('tuketici-hukuku-'),
-            title: 'Tüketici Hukuku · üç paket',
-            items: [
-              { code: 'tuketici-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Ayıp · haksız şart' },
-              { code: 'tuketici-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'Cayma · merciler' },
-              { code: 'tuketici-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-          },
-          {
-            match:
-              note.variantOf === 'insaat-hukuku' ||
-              note.courseCode === 'insaat-hukuku' ||
-              note.courseCode.startsWith('insaat-hukuku-'),
-            title: 'İnşaat Hukuku · üç paket',
-            items: [
-              { code: 'insaat-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Eser · ruhsat · kat karşılığı' },
-              { code: 'insaat-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'Ayıp · gecikme · kamu' },
-              { code: 'insaat-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-          },
-          {
-            match:
-              note.variantOf === 'arabuluculuk' ||
-              note.courseCode === 'arabuluculuk' ||
-              note.courseCode.startsWith('arabuluculuk-'),
-            title: 'Arabuluculuk · üç paket',
-            items: [
-              { code: 'arabuluculuk-donem-1', label: '1. Dönem (Güz)', desc: 'İlke · süreç · dava şartı' },
-              { code: 'arabuluculuk-donem-2', label: '2. Dönem (Bahar)', desc: 'Anlaşma · icra · iş/ticari' },
-              { code: 'arabuluculuk-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-          },
-          {
-            match:
-              note.variantOf === 'devletler-ozel' ||
-              note.courseCode === 'devletler-ozel' ||
-              note.courseCode.startsWith('devletler-ozel-'),
-            title: 'MÖHUK · üç paket',
-            items: [
-              { code: 'devletler-ozel-donem-1', label: '1. Dönem (Güz)', desc: 'Bağlama · kişi–aile' },
-              { code: 'devletler-ozel-donem-2', label: '2. Dönem (Bahar)', desc: 'Yetki · tanıma–tenfiz' },
-              { code: 'devletler-ozel-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-          },
-          {
-            match:
-              note.variantOf === 'hukuka-giris' ||
-              note.courseCode === 'hukuka-giris' ||
-              note.courseCode.startsWith('hukuka-giris-'),
-            title: 'Hukuka Giriş · üç paket',
-            items: [
-              { code: 'hukuka-giris-donem-1', label: '1. Dönem (Güz)', desc: 'Kavram · kaynak · hak' },
-              { code: 'hukuka-giris-donem-2', label: '2. Dönem (Bahar)', desc: 'Yorum · yargı · yaptırım' },
-              { code: 'hukuka-giris-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-          },
-          {
-            match:
-              note.variantOf === 'anayasa' ||
-              note.courseCode === 'anayasa-1' ||
-              note.courseCode === 'anayasa-2' ||
-              note.courseCode === 'anayasa' ||
-              note.courseCode.startsWith('anayasa-donem') ||
-              note.courseCode === 'anayasa-yillik',
-            title: 'Anayasa Hukuku · üç paket',
-            items: [
-              { code: 'anayasa-donem-1', label: '1. Dönem (Güz)', desc: 'Genel esaslar · haklar' },
-              { code: 'anayasa-donem-2', label: '2. Dönem (Bahar)', desc: 'Organlar · AYM' },
-              { code: 'anayasa-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-          },
-          {
-            match:
-              note.variantOf === 'roma-hukuku' ||
-              note.courseCode === 'roma-hukuku' ||
-              note.courseCode.startsWith('roma-hukuku-'),
-            title: 'Roma Hukuku · üç paket',
-            items: [
-              { code: 'roma-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Kaynak · kişi · aile' },
-              { code: 'roma-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'Res · borç · actio' },
-              { code: 'roma-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-          },
-          {
-            match:
-              note.variantOf === 'milletlerarasi-hukuk' ||
-              note.courseCode === 'milletlerarasi-hukuk' ||
-              note.courseCode.startsWith('milletlerarasi-hukuk-'),
-            title: 'Milletlerarası Hukuk · üç paket',
-            items: [
-              { code: 'milletlerarasi-hukuk-donem-1', label: '1. Dönem (Güz)', desc: 'Kaynak · antlaşma · özne' },
-              { code: 'milletlerarasi-hukuk-donem-2', label: '2. Dönem (Bahar)', desc: 'Sorumluluk · BM · UAD' },
-              { code: 'milletlerarasi-hukuk-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-            footer: (
-              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
-                Yabancı unsurlu özel hukuk için:{' '}
-                <Link
-                  href={`/ders-notlari/${note.uniSlug}/devletler-ozel-yillik`}
-                  className="text-accent font-semibold hover:underline"
-                >
-                  MÖHUK yıllık
-                </Link>
-              </p>
-            ),
-          },
-          {
-            match:
-              note.variantOf === 'hukuk-sosyolojisi' ||
-              note.courseCode === 'hukuk-sosyolojisi' ||
-              note.courseCode.startsWith('hukuk-sosyolojisi-'),
-            title: 'Hukuk Sosyolojisi · üç paket',
-            items: [
-              { code: 'hukuk-sosyolojisi-donem-1', label: '1. Dönem (Güz)', desc: 'Metin–pratik · erişim' },
-              { code: 'hukuk-sosyolojisi-donem-2', label: '2. Dönem (Bahar)', desc: 'Uygulama · meşruiyet' },
-              { code: 'hukuk-sosyolojisi-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-            footer: (
-              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
-                Ölçüt ve akımlar için:{' '}
-                <Link
-                  href={`/ders-notlari/${note.uniSlug}/hukuk-felsefesi-yillik`}
-                  className="text-accent font-semibold hover:underline"
-                >
-                  Hukuk Felsefesi yıllık
-                </Link>
-              </p>
-            ),
-          },
-          {
-            match:
-              note.variantOf === 'is-hukuku' ||
-              note.courseCode === 'is-hukuku' ||
-              note.courseCode.startsWith('is-hukuku-'),
-            title: 'İş Hukuku · üç paket',
-            items: [
-              { code: 'is-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Sözleşme · ücret · süre' },
-              { code: 'is-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'Fesih · kıdem · işe iade' },
-              { code: 'is-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-            footer: (
-              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
-                Dava şartı arabuluculuk için:{' '}
-                <Link
-                  href={`/ders-notlari/${note.uniSlug}/arabuluculuk-yillik`}
-                  className="text-accent font-semibold hover:underline"
-                >
-                  Arabuluculuk yıllık
-                </Link>
-              </p>
-            ),
-          },
-          {
-            match:
-              note.variantOf === 'adli-tip' ||
-              note.courseCode === 'adli-tip' ||
-              note.courseCode.startsWith('adli-tip-'),
-            title: 'Adli Tıp · üç paket',
-            items: [
-              { code: 'adli-tip-donem-1', label: '1. Dönem (Güz)', desc: 'Ölüm · otopsi · yara' },
-              { code: 'adli-tip-donem-2', label: '2. Dönem (Bahar)', desc: 'Delil · bilirkişi · CMK' },
-              { code: 'adli-tip-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-            footer: (
-              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
-                Malpraktis ve hasta hakları için:{' '}
-                <Link
-                  href={`/ders-notlari/${note.uniSlug}/saglik-hukuku-yillik`}
-                  className="text-accent font-semibold hover:underline"
-                >
-                  Sağlık Hukuku yıllık
-                </Link>
-                {' · '}
-                <Link
-                  href={`/ders-notlari/${note.uniSlug}/cmk-yillik`}
-                  className="text-accent font-semibold hover:underline"
-                >
-                  CMK yıllık
-                </Link>
-              </p>
-            ),
-          },
-          {
-            match:
-              note.variantOf === 'deniz-ticareti' ||
-              note.courseCode === 'deniz-ticareti' ||
-              note.courseCode.startsWith('deniz-ticareti-'),
-            title: 'Deniz Ticareti · üç paket',
-            items: [
-              { code: 'deniz-ticareti-donem-1', label: '1. Dönem (Güz)', desc: 'Gemi · donatan · sicil' },
-              { code: 'deniz-ticareti-donem-2', label: '2. Dönem (Bahar)', desc: 'Navlun · çarter · avarya' },
-              { code: 'deniz-ticareti-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-            footer: (
-              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
-                Ticaret omurgası için:{' '}
-                <Link
-                  href={`/ders-notlari/${note.uniSlug}/ticari-isletme-yillik`}
-                  className="text-accent font-semibold hover:underline"
-                >
-                  Ticari İşletme yıllık
-                </Link>
-                {' · '}
-                <Link
-                  href={`/ders-notlari/${note.uniSlug}/sirketler-yillik`}
-                  className="text-accent font-semibold hover:underline"
-                >
-                  Şirketler yıllık
-                </Link>
-              </p>
-            ),
-          },
-          {
-            match:
-              note.variantOf === 'turk-hukuk-tarihi' ||
-              note.courseCode === 'turk-hukuk-tarihi' ||
-              note.courseCode.startsWith('turk-hukuk-tarihi-'),
-            title: 'Türk Hukuk Tarihi · üç paket',
-            items: [
-              { code: 'turk-hukuk-tarihi-donem-1', label: '1. Dönem (Güz)', desc: 'Şer’i–örfi · kadı · kanunname' },
-              { code: 'turk-hukuk-tarihi-donem-2', label: '2. Dönem (Bahar)', desc: 'Tanzimat · Mecelle · 1926' },
-              { code: 'turk-hukuk-tarihi-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
-            ],
-            footer: (
-              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
-                Tarih–kavram omurgası için:{' '}
-                <Link
-                  href={`/ders-notlari/${note.uniSlug}/roma-hukuku-yillik`}
-                  className="text-accent font-semibold hover:underline"
-                >
-                  Roma Hukuku yıllık
-                </Link>
-                {' · '}
-                <Link
-                  href={`/ders-notlari/${note.uniSlug}/hukuka-giris-yillik`}
-                  className="text-accent font-semibold hover:underline"
-                >
-                  Hukuka Giriş yıllık
-                </Link>
-              </p>
-            ),
-          },
-        ];
+            {
+              match:
+                note.variantOf === 'borclar-genel' ||
+                note.courseCode === 'borclar-genel' ||
+                note.courseCode.startsWith('borclar-genel-'),
+              title: 'Borçlar Genel · üç paket',
+              items: [
+                { code: 'borclar-genel-donem-1', label: '1. Dönem (Güz)', desc: 'Kaynak · kuruluş · irade · temsil' },
+                { code: 'borclar-genel-donem-2', label: '2. Dönem (Bahar)', desc: 'Temerrüt · haksız fiil · zamanaşımı' },
+                { code: 'borclar-genel-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+            },
+            {
+              match:
+                note.variantOf === 'borclar-ozel' ||
+                note.courseCode === 'borclar-ozel' ||
+                note.courseCode.startsWith('borclar-ozel-'),
+              title: 'Borçlar Özel · üç paket',
+              items: [
+                { code: 'borclar-ozel-donem-1', label: '1. Dönem (Güz)', desc: 'Satım · kira · bağış · ödünç' },
+                { code: 'borclar-ozel-donem-2', label: '2. Dönem (Bahar)', desc: 'Eser · vekâlet · kefalet' },
+                { code: 'borclar-ozel-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+              footer: (
+                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                  Genel hükümler için:{' '}
+                  <Link
+                    href={`/ders-notlari/${note.uniSlug}/borclar-genel-yillik`}
+                    className="text-accent font-semibold hover:underline"
+                  >
+                    Borçlar Genel yıllık
+                  </Link>
+                </p>
+              ),
+            },
+            {
+              match:
+                note.variantOf === 'esya-hukuku' ||
+                note.courseCode === 'esya-hukuku' ||
+                note.courseCode.startsWith('esya-hukuku-'),
+              title: 'Eşya Hukuku · üç paket',
+              items: [
+                { code: 'esya-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Zilyetlik · sicil · mülkiyet' },
+                { code: 'esya-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'İrtifak · rehin · davalar' },
+                { code: 'esya-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+            },
+            {
+              match:
+                note.variantOf === 'miras-hukuku' ||
+                note.courseCode === 'miras-hukuku' ||
+                note.courseCode.startsWith('miras-hukuku-'),
+              title: 'Miras Hukuku · üç paket',
+              items: [
+                { code: 'miras-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Zümre · eş · saklı pay · ret' },
+                { code: 'miras-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'Vasiyet · tenkis · paylaşma' },
+                { code: 'miras-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+            },
+            {
+              match:
+                note.variantOf === 'tmk-1-kitap' ||
+                note.courseCode === 'medeni-baslangic' ||
+                note.courseCode.startsWith('tmk-1-kitap-'),
+              title: 'TMK 1. Kitap · üç paket',
+              items: [
+                { code: 'tmk-1-kitap-donem-1', label: '1. Dönem (Güz)', desc: 'Başlangıç · ehliyet · yerleşim' },
+                { code: 'tmk-1-kitap-donem-2', label: '2. Dönem (Bahar)', desc: 'Kişilik · vesayet · dernek/vakıf' },
+                { code: 'tmk-1-kitap-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+            },
+            {
+              match:
+                note.variantOf === 'tmk-2-kitap' ||
+                note.courseCode === 'aile-hukuku' ||
+                note.courseCode.startsWith('tmk-2-kitap-'),
+              title: 'TMK 2. Kitap · üç paket',
+              items: [
+                { code: 'tmk-2-kitap-donem-1', label: '1. Dönem (Güz)', desc: 'Nişan · evlenme · boşanma' },
+                { code: 'tmk-2-kitap-donem-2', label: '2. Dönem (Bahar)', desc: 'Mal · velayet · nafaka' },
+                { code: 'tmk-2-kitap-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+            },
+            {
+              match:
+                note.variantOf === 'hmk' ||
+                note.courseCode === 'medeni-usul' ||
+                note.courseCode.startsWith('hmk-'),
+              title: 'HMK · üç paket',
+              items: [
+                { code: 'hmk-donem-1', label: '1. Dönem (Güz)', desc: 'Görev · yetki · dava şartı' },
+                { code: 'hmk-donem-2', label: '2. Dönem (Bahar)', desc: 'İspat · hüküm · istinaf' },
+                { code: 'hmk-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+            },
+            {
+              match:
+                note.variantOf === 'icra' ||
+                note.courseCode === 'icra-iflas' ||
+                note.courseCode.startsWith('icra-'),
+              title: 'İcra Hukuku · üç paket',
+              items: [
+                { code: 'icra-donem-1', label: '1. Dönem (Güz)', desc: 'Takip · ödeme emri · itiraz' },
+                { code: 'icra-donem-2', label: '2. Dönem (Bahar)', desc: 'Haciz · satış · sıra' },
+                { code: 'icra-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+              footer: (
+                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                  İflas / konkordato için:{' '}
+                  <Link
+                    href={`/ders-notlari/${note.uniSlug}/iflas-yillik`}
+                    className="text-accent font-semibold hover:underline"
+                  >
+                    İflas Hukuku yıllık
+                  </Link>
+                </p>
+              ),
+            },
+            {
+              match:
+                note.variantOf === 'iflas' ||
+                note.courseCode === 'icra-iflas' ||
+                note.courseCode.startsWith('iflas-'),
+              title: 'İflas Hukuku · üç paket',
+              items: [
+                { code: 'iflas-donem-1', label: '1. Dönem (Güz)', desc: 'Sebep · yol · masa' },
+                { code: 'iflas-donem-2', label: '2. Dönem (Bahar)', desc: 'Kayıt · iptal · konkordato' },
+                { code: 'iflas-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+              footer: (
+                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                  Ferdi takip / haciz için:{' '}
+                  <Link
+                    href={`/ders-notlari/${note.uniSlug}/icra-yillik`}
+                    className="text-accent font-semibold hover:underline"
+                  >
+                    İcra Hukuku yıllık
+                  </Link>
+                </p>
+              ),
+            },
+            {
+              match:
+                note.variantOf === 'sirketler' ||
+                note.courseCode === 'ticaret-sirketler' ||
+                note.courseCode.startsWith('sirketler-'),
+              title: 'Şirketler Hukuku · üç paket',
+              items: [
+                { code: 'sirketler-donem-1', label: '1. Dönem (Güz)', desc: 'Tür · limited · kuruluş' },
+                { code: 'sirketler-donem-2', label: '2. Dönem (Bahar)', desc: 'AŞ · birleşme · sorumluluk' },
+                { code: 'sirketler-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+            },
+            {
+              match:
+                note.variantOf === 'kiymetli-evrak' ||
+                note.courseCode === 'kiymetli-evrak' ||
+                note.courseCode.startsWith('kiymetli-evrak-'),
+              title: 'Kıymetli Evrak · üç paket',
+              items: [
+                { code: 'kiymetli-evrak-donem-1', label: '1. Dönem (Güz)', desc: 'Poliçe · bono · ciro' },
+                { code: 'kiymetli-evrak-donem-2', label: '2. Dönem (Bahar)', desc: 'Çek · başvuru · def’i' },
+                { code: 'kiymetli-evrak-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+            },
+            {
+              match:
+                note.variantOf === 'sigorta-hukuku' ||
+                note.courseCode === 'sigorta-hukuku' ||
+                note.courseCode.startsWith('sigorta-hukuku-'),
+              title: 'Sigorta Hukuku · üç paket',
+              items: [
+                { code: 'sigorta-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Sözleşme · menfaat · beyan' },
+                { code: 'sigorta-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'Branş · rücu · tahkim' },
+                { code: 'sigorta-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+            },
+            {
+              match:
+                note.variantOf === 'ticari-isletme' ||
+                note.courseCode === 'ticari-isletme' ||
+                note.courseCode.startsWith('ticari-isletme-'),
+              title: 'Ticari İşletme · üç paket',
+              items: [
+                { code: 'ticari-isletme-donem-1', label: '1. Dönem (Güz)', desc: 'Tacir · unvan · sicil' },
+                { code: 'ticari-isletme-donem-2', label: '2. Dönem (Bahar)', desc: 'Acente · defter · devir' },
+                { code: 'ticari-isletme-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+            },
+            {
+              match:
+                note.variantOf === 'ceza-genel' ||
+                note.courseCode === 'ceza-genel' ||
+                note.courseCode.startsWith('ceza-genel-'),
+              title: 'Ceza Genel · üç paket',
+              items: [
+                { code: 'ceza-genel-donem-1', label: '1. Dönem (Güz)', desc: 'Tipiklik · kast · meşru savunma' },
+                { code: 'ceza-genel-donem-2', label: '2. Dönem (Bahar)', desc: 'Teşebbüs · iştirak · yaptırım' },
+                { code: 'ceza-genel-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+              footer: (
+                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                  Somut suç tipleri için:{' '}
+                  <Link
+                    href={`/ders-notlari/${note.uniSlug}/ceza-ozel-yillik`}
+                    className="text-accent font-semibold hover:underline"
+                  >
+                    Ceza Özel yıllık
+                  </Link>
+                </p>
+              ),
+            },
+            {
+              match:
+                note.variantOf === 'ceza-ozel' ||
+                note.courseCode === 'ceza-ozel' ||
+                note.courseCode.startsWith('ceza-ozel-'),
+              title: 'Ceza Özel · üç paket',
+              items: [
+                { code: 'ceza-ozel-donem-1', label: '1. Dönem (Güz)', desc: 'Öldürme · yaralama · hürriyet' },
+                { code: 'ceza-ozel-donem-2', label: '2. Dönem (Bahar)', desc: 'Hırsızlık · dolandırıcılık · kamu' },
+                { code: 'ceza-ozel-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+              footer: (
+                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                  Suç teorisi için:{' '}
+                  <Link
+                    href={`/ders-notlari/${note.uniSlug}/ceza-genel-yillik`}
+                    className="text-accent font-semibold hover:underline"
+                  >
+                    Ceza Genel yıllık
+                  </Link>
+                </p>
+              ),
+            },
+            {
+              match:
+                note.variantOf === 'cmk' ||
+                note.courseCode === 'ceza-muhakemesi' ||
+                note.courseCode.startsWith('cmk-'),
+              title: 'CMK · üç paket',
+              items: [
+                { code: 'cmk-donem-1', label: '1. Dönem (Güz)', desc: 'Yakalama · tutuklama · arama' },
+                { code: 'cmk-donem-2', label: '2. Dönem (Bahar)', desc: 'Duruşma · delil · istinaf' },
+                { code: 'cmk-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+              footer: (
+                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                  Maddi ceza için:{' '}
+                  <Link
+                    href={`/ders-notlari/${note.uniSlug}/ceza-genel-yillik`}
+                    className="text-accent font-semibold hover:underline"
+                  >
+                    Ceza Genel
+                  </Link>
+                  {' · '}
+                  <Link
+                    href={`/ders-notlari/${note.uniSlug}/ceza-ozel-yillik`}
+                    className="text-accent font-semibold hover:underline"
+                  >
+                    Ceza Özel
+                  </Link>
+                </p>
+              ),
+            },
+            {
+              match:
+                note.variantOf === 'idare-hukuku' ||
+                note.courseCode === 'idare-hukuku' ||
+                note.courseCode.startsWith('idare-hukuku-'),
+              title: 'İdare Hukuku · üç paket',
+              items: [
+                { code: 'idare-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Teşkilat · işlem · unsur' },
+                { code: 'idare-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'Kolluk · sorumluluk · hizmet' },
+                { code: 'idare-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+              footer: (
+                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                  İptal / tam yargı usulü için:{' '}
+                  <Link
+                    href={`/ders-notlari/${note.uniSlug}/idari-yargilama-yillik`}
+                    className="text-accent font-semibold hover:underline"
+                  >
+                    İdari Yargılama yıllık
+                  </Link>
+                </p>
+              ),
+            },
+            {
+              match:
+                note.variantOf === 'idari-yargilama' ||
+                note.courseCode === 'idari-yargilama' ||
+                note.courseCode.startsWith('idari-yargilama-'),
+              title: 'İdari Yargılama · üç paket',
+              items: [
+                { code: 'idari-yargilama-donem-1', label: '1. Dönem (Güz)', desc: 'Görev · süre · iptal' },
+                { code: 'idari-yargilama-donem-2', label: '2. Dönem (Bahar)', desc: 'Tam yargı · YD · istinaf' },
+                { code: 'idari-yargilama-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+              footer: (
+                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                  Maddi idare için:{' '}
+                  <Link
+                    href={`/ders-notlari/${note.uniSlug}/idare-hukuku-yillik`}
+                    className="text-accent font-semibold hover:underline"
+                  >
+                    İdare Hukuku yıllık
+                  </Link>
+                </p>
+              ),
+            },
+            {
+              match:
+                note.variantOf === 'hukuk-felsefesi' ||
+                note.courseCode === 'hukuk-felsefesi' ||
+                note.courseCode.startsWith('hukuk-felsefesi-'),
+              title: 'Hukuk Felsefesi · üç paket',
+              items: [
+                { code: 'hukuk-felsefesi-donem-1', label: '1. Dönem (Güz)', desc: 'Akımlar · adalet · ahlak' },
+                { code: 'hukuk-felsefesi-donem-2', label: '2. Dönem (Bahar)', desc: 'Sosyoloji · yorum · hukuk devleti' },
+                { code: 'hukuk-felsefesi-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+              footer: (
+                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                  Toplumda hukukun işleyişi için:{' '}
+                  <Link
+                    href={`/ders-notlari/${note.uniSlug}/hukuk-sosyolojisi-yillik`}
+                    className="text-accent font-semibold hover:underline"
+                  >
+                    Hukuk Sosyolojisi yıllık
+                  </Link>
+                </p>
+              ),
+            },
+            {
+              match:
+                note.variantOf === 'hukuk-ingilizcesi' ||
+                note.courseCode === 'hukuk-ingilizcesi' ||
+                note.courseCode.startsWith('hukuk-ingilizcesi-'),
+              title: 'Hukuk İngilizcesi · üç paket',
+              items: [
+                { code: 'hukuk-ingilizcesi-donem-1', label: '1. Dönem (Güz)', desc: 'Vocab · court · contract' },
+                { code: 'hukuk-ingilizcesi-donem-2', label: '2. Dönem (Bahar)', desc: 'Litigation · letter · judgment' },
+                { code: 'hukuk-ingilizcesi-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+            },
+            {
+              match:
+                note.variantOf === 'saglik-hukuku' ||
+                note.courseCode === 'saglik-hukuku' ||
+                note.courseCode.startsWith('saglik-hukuku-'),
+              title: 'Sağlık Hukuku · üç paket',
+              items: [
+                { code: 'saglik-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Haklar · onam · kayıt' },
+                { code: 'saglik-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'Malpraktis · sorumluluk' },
+                { code: 'saglik-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+            },
+            {
+              match:
+                note.variantOf === 'tuketici-hukuku' ||
+                note.courseCode === 'tuketici-hukuku' ||
+                note.courseCode.startsWith('tuketici-hukuku-'),
+              title: 'Tüketici Hukuku · üç paket',
+              items: [
+                { code: 'tuketici-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Ayıp · haksız şart' },
+                { code: 'tuketici-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'Cayma · merciler' },
+                { code: 'tuketici-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+            },
+            {
+              match:
+                note.variantOf === 'insaat-hukuku' ||
+                note.courseCode === 'insaat-hukuku' ||
+                note.courseCode.startsWith('insaat-hukuku-'),
+              title: 'İnşaat Hukuku · üç paket',
+              items: [
+                { code: 'insaat-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Eser · ruhsat · kat karşılığı' },
+                { code: 'insaat-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'Ayıp · gecikme · kamu' },
+                { code: 'insaat-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+            },
+            {
+              match:
+                note.variantOf === 'arabuluculuk' ||
+                note.courseCode === 'arabuluculuk' ||
+                note.courseCode.startsWith('arabuluculuk-'),
+              title: 'Arabuluculuk · üç paket',
+              items: [
+                { code: 'arabuluculuk-donem-1', label: '1. Dönem (Güz)', desc: 'İlke · süreç · dava şartı' },
+                { code: 'arabuluculuk-donem-2', label: '2. Dönem (Bahar)', desc: 'Anlaşma · icra · iş/ticari' },
+                { code: 'arabuluculuk-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+            },
+            {
+              match:
+                note.variantOf === 'devletler-ozel' ||
+                note.courseCode === 'devletler-ozel' ||
+                note.courseCode.startsWith('devletler-ozel-'),
+              title: 'MÖHUK · üç paket',
+              items: [
+                { code: 'devletler-ozel-donem-1', label: '1. Dönem (Güz)', desc: 'Bağlama · kişi–aile' },
+                { code: 'devletler-ozel-donem-2', label: '2. Dönem (Bahar)', desc: 'Yetki · tanıma–tenfiz' },
+                { code: 'devletler-ozel-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+            },
+            {
+              match:
+                note.variantOf === 'hukuka-giris' ||
+                note.courseCode === 'hukuka-giris' ||
+                note.courseCode.startsWith('hukuka-giris-'),
+              title: 'Hukuka Giriş · üç paket',
+              items: [
+                { code: 'hukuka-giris-donem-1', label: '1. Dönem (Güz)', desc: 'Kavram · kaynak · hak' },
+                { code: 'hukuka-giris-donem-2', label: '2. Dönem (Bahar)', desc: 'Yorum · yargı · yaptırım' },
+                { code: 'hukuka-giris-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+            },
+            {
+              match:
+                note.variantOf === 'anayasa' ||
+                note.courseCode === 'anayasa-1' ||
+                note.courseCode === 'anayasa-2' ||
+                note.courseCode === 'anayasa' ||
+                note.courseCode.startsWith('anayasa-donem') ||
+                note.courseCode === 'anayasa-yillik',
+              title: 'Anayasa Hukuku · üç paket',
+              items: [
+                { code: 'anayasa-donem-1', label: '1. Dönem (Güz)', desc: 'Genel esaslar · haklar' },
+                { code: 'anayasa-donem-2', label: '2. Dönem (Bahar)', desc: 'Organlar · AYM' },
+                { code: 'anayasa-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+            },
+            {
+              match:
+                note.variantOf === 'roma-hukuku' ||
+                note.courseCode === 'roma-hukuku' ||
+                note.courseCode.startsWith('roma-hukuku-'),
+              title: 'Roma Hukuku · üç paket',
+              items: [
+                { code: 'roma-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Kaynak · kişi · aile' },
+                { code: 'roma-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'Res · borç · actio' },
+                { code: 'roma-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+            },
+            {
+              match:
+                note.variantOf === 'milletlerarasi-hukuk' ||
+                note.courseCode === 'milletlerarasi-hukuk' ||
+                note.courseCode.startsWith('milletlerarasi-hukuk-'),
+              title: 'Milletlerarası Hukuk · üç paket',
+              items: [
+                { code: 'milletlerarasi-hukuk-donem-1', label: '1. Dönem (Güz)', desc: 'Kaynak · antlaşma · özne' },
+                { code: 'milletlerarasi-hukuk-donem-2', label: '2. Dönem (Bahar)', desc: 'Sorumluluk · BM · UAD' },
+                { code: 'milletlerarasi-hukuk-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+              footer: (
+                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                  Yabancı unsurlu özel hukuk için:{' '}
+                  <Link
+                    href={`/ders-notlari/${note.uniSlug}/devletler-ozel-yillik`}
+                    className="text-accent font-semibold hover:underline"
+                  >
+                    MÖHUK yıllık
+                  </Link>
+                </p>
+              ),
+            },
+            {
+              match:
+                note.variantOf === 'hukuk-sosyolojisi' ||
+                note.courseCode === 'hukuk-sosyolojisi' ||
+                note.courseCode.startsWith('hukuk-sosyolojisi-'),
+              title: 'Hukuk Sosyolojisi · üç paket',
+              items: [
+                { code: 'hukuk-sosyolojisi-donem-1', label: '1. Dönem (Güz)', desc: 'Metin–pratik · erişim' },
+                { code: 'hukuk-sosyolojisi-donem-2', label: '2. Dönem (Bahar)', desc: 'Uygulama · meşruiyet' },
+                { code: 'hukuk-sosyolojisi-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+              footer: (
+                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                  Ölçüt ve akımlar için:{' '}
+                  <Link
+                    href={`/ders-notlari/${note.uniSlug}/hukuk-felsefesi-yillik`}
+                    className="text-accent font-semibold hover:underline"
+                  >
+                    Hukuk Felsefesi yıllık
+                  </Link>
+                </p>
+              ),
+            },
+            {
+              match:
+                note.variantOf === 'is-hukuku' ||
+                note.courseCode === 'is-hukuku' ||
+                note.courseCode.startsWith('is-hukuku-'),
+              title: 'İş Hukuku · üç paket',
+              items: [
+                { code: 'is-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Sözleşme · ücret · süre' },
+                { code: 'is-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'Fesih · kıdem · işe iade' },
+                { code: 'is-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+              footer: (
+                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                  Dava şartı arabuluculuk için:{' '}
+                  <Link
+                    href={`/ders-notlari/${note.uniSlug}/arabuluculuk-yillik`}
+                    className="text-accent font-semibold hover:underline"
+                  >
+                    Arabuluculuk yıllık
+                  </Link>
+                </p>
+              ),
+            },
+            {
+              match:
+                note.variantOf === 'adli-tip' ||
+                note.courseCode === 'adli-tip' ||
+                note.courseCode.startsWith('adli-tip-'),
+              title: 'Adli Tıp · üç paket',
+              items: [
+                { code: 'adli-tip-donem-1', label: '1. Dönem (Güz)', desc: 'Ölüm · otopsi · yara' },
+                { code: 'adli-tip-donem-2', label: '2. Dönem (Bahar)', desc: 'Delil · bilirkişi · CMK' },
+                { code: 'adli-tip-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+              footer: (
+                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                  Malpraktis ve hasta hakları için:{' '}
+                  <Link
+                    href={`/ders-notlari/${note.uniSlug}/saglik-hukuku-yillik`}
+                    className="text-accent font-semibold hover:underline"
+                  >
+                    Sağlık Hukuku yıllık
+                  </Link>
+                  {' · '}
+                  <Link
+                    href={`/ders-notlari/${note.uniSlug}/cmk-yillik`}
+                    className="text-accent font-semibold hover:underline"
+                  >
+                    CMK yıllık
+                  </Link>
+                </p>
+              ),
+            },
+            {
+              match:
+                note.variantOf === 'deniz-ticareti' ||
+                note.courseCode === 'deniz-ticareti' ||
+                note.courseCode.startsWith('deniz-ticareti-'),
+              title: 'Deniz Ticareti · üç paket',
+              items: [
+                { code: 'deniz-ticareti-donem-1', label: '1. Dönem (Güz)', desc: 'Gemi · donatan · sicil' },
+                { code: 'deniz-ticareti-donem-2', label: '2. Dönem (Bahar)', desc: 'Navlun · çarter · avarya' },
+                { code: 'deniz-ticareti-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+              footer: (
+                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                  Ticaret omurgası için:{' '}
+                  <Link
+                    href={`/ders-notlari/${note.uniSlug}/ticari-isletme-yillik`}
+                    className="text-accent font-semibold hover:underline"
+                  >
+                    Ticari İşletme yıllık
+                  </Link>
+                  {' · '}
+                  <Link
+                    href={`/ders-notlari/${note.uniSlug}/sirketler-yillik`}
+                    className="text-accent font-semibold hover:underline"
+                  >
+                    Şirketler yıllık
+                  </Link>
+                </p>
+              ),
+            },
+            {
+              match:
+                note.variantOf === 'turk-hukuk-tarihi' ||
+                note.courseCode === 'turk-hukuk-tarihi' ||
+                note.courseCode.startsWith('turk-hukuk-tarihi-'),
+              title: 'Türk Hukuk Tarihi · üç paket',
+              items: [
+                { code: 'turk-hukuk-tarihi-donem-1', label: '1. Dönem (Güz)', desc: 'Şer’i–örfi · kadı · kanunname' },
+                { code: 'turk-hukuk-tarihi-donem-2', label: '2. Dönem (Bahar)', desc: 'Tanzimat · Mecelle · 1926' },
+                { code: 'turk-hukuk-tarihi-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+              ],
+              footer: (
+                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                  Tarih–kavram omurgası için:{' '}
+                  <Link
+                    href={`/ders-notlari/${note.uniSlug}/roma-hukuku-yillik`}
+                    className="text-accent font-semibold hover:underline"
+                  >
+                    Roma Hukuku yıllık
+                  </Link>
+                  {' · '}
+                  <Link
+                    href={`/ders-notlari/${note.uniSlug}/hukuka-giris-yillik`}
+                    className="text-accent font-semibold hover:underline"
+                  >
+                    Hukuka Giriş yıllık
+                  </Link>
+                </p>
+              ),
+            },
+          ];
         const activePacks = packs.filter((p) => p.match);
         if (!activePacks.length) return null;
         return (
@@ -980,11 +983,10 @@ export function DersNotuView({
                       <Link
                         key={v.code}
                         href={`/ders-notlari/${note.uniSlug}/${v.code}`}
-                        className={`rounded-xl border px-3 py-3 text-sm transition-colors ${
-                          active
-                            ? 'border-accent bg-accent/10 font-bold text-charcoal'
-                            : 'border-charcoal/10 hover:border-accent/40 text-charcoal/80'
-                        }`}
+                        className={`rounded-xl border px-3 py-3 text-sm transition-colors ${active
+                          ? 'border-accent bg-accent/10 font-bold text-charcoal'
+                          : 'border-charcoal/10 hover:border-accent/40 text-charcoal/80'
+                          }`}
                       >
                         <span className="block font-semibold">{v.label}</span>
                         <span className="block text-[11px] font-normal text-charcoal/50 mt-0.5">
@@ -1133,6 +1135,18 @@ export function DersNotuView({
                 ))}
               </div>
             )}
+            {(() => {
+              const topic = note.topics?.find((t) => t.heading === sec.heading);
+              if (!topic) return null;
+              return (
+                <>
+                  {topic.flashcards?.length ? <FlashcardBlock cards={topic.flashcards} /> : null}
+                  {topic.mcq?.length ? (
+                    <McqBlock items={topic.mcq} storageKey={`${note.slug}:${topic.id}`} />
+                  ) : null}
+                </>
+              );
+            })()}
             {sec.bullets && sec.bullets.length > 0 && (
               <ul className="mt-4 space-y-2 m-0 p-0 list-none">
                 {sec.bullets.map((b) => (
@@ -1155,6 +1169,10 @@ export function DersNotuView({
 
       {restDiagrams.map((d) => (
         <Diagram key={d.title} d={d} />
+      ))}
+
+      {(note.mermaid || []).map((m) => (
+        <MermaidBlock key={m.title} title={m.title} diagram={m.diagram} />
       ))}
 
       {/* Örnekler */}
@@ -1962,27 +1980,27 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
                     const resolved = resolveHubCourseHref(hub.uni.slug, c.code);
                     const unavailable = !resolved || c.ready === false;
                     return (
-                  <li key={c.code}>
-                    {unavailable && !resolved ? (
-                      <span className="block rounded-xl border border-dashed border-charcoal/15 bg-charcoal/[0.02] px-3 py-2.5 text-sm text-charcoal/40">
-                        {c.title}
-                        <span className="block text-[10px] mt-0.5">Yakında</span>
-                      </span>
-                    ) : (
-                      <Link
-                        href={resolved?.href || c.href}
-                        className="block rounded-xl border border-charcoal/10 bg-white hover:border-accent/40 hover:shadow-sm px-3 py-3 text-sm font-semibold text-charcoal transition-all"
-                      >
-                        {c.title}
-                        <span className="block text-[10px] font-normal text-charcoal/40 mt-1">
-                          şematik · örnekli · premium
-                          {resolved && resolved.code !== c.code ? ' · yıllık paket' : ''}
-                        </span>
-                      </Link>
-                    )}
-                  </li>
+                      <li key={c.code}>
+                        {unavailable && !resolved ? (
+                          <span className="block rounded-xl border border-dashed border-charcoal/15 bg-charcoal/[0.02] px-3 py-2.5 text-sm text-charcoal/40">
+                            {c.title}
+                            <span className="block text-[10px] mt-0.5">Yakında</span>
+                          </span>
+                        ) : (
+                          <Link
+                            href={resolved?.href || c.href}
+                            className="block rounded-xl border border-charcoal/10 bg-white hover:border-accent/40 hover:shadow-sm px-3 py-3 text-sm font-semibold text-charcoal transition-all"
+                          >
+                            {c.title}
+                            <span className="block text-[10px] font-normal text-charcoal/40 mt-1">
+                              şematik · örnekli · premium
+                              {resolved && resolved.code !== c.code ? ' · yıllık paket' : ''}
+                            </span>
+                          </Link>
+                        )}
+                      </li>
                     );
-                })}
+                  })}
               </ul>
             </section>
           )

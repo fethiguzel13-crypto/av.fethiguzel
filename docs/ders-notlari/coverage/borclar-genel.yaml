@@ -1,0 +1,56 @@
+# Denetçi manifesti — Borçlar Hukuku Genel Hükümler
+# Graph-builder bu id'leri graphs/borclar-genel.json ile eşler.
+courseCode: borclar-genel
+title: Borçlar Hukuku Genel Hükümler
+kanun: tbk
+guz:
+  - borc-iliskisi
+  - sozlesmenin-kurulmasi
+  - irade-sakatliklari
+  - temsil
+  - genel-islem-kosullari
+bahar:
+  - ifa
+  - temerrut
+  - ifa-imkansizligi
+  - haksiz-fiil
+  - sebepsiz-zenginlesme
+  - sona-erme
+  - zamanasimi
+institutions:
+  - id: borc-iliskisi
+    title: Borç ilişkisi
+    maddeler: ['1']
+  - id: sozlesmenin-kurulmasi
+    title: Sözleşmenin kurulması (icap–kabul)
+    maddeler: ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11']
+  - id: irade-sakatliklari
+    title: İrade sakatlıkları
+    maddeler: ['30', '31', '32', '36', '37', '38', '39']
+  - id: temsil
+    title: Temsil
+    maddeler: ['40', '41', '42', '43', '44', '45', '46', '47', '48']
+  - id: genel-islem-kosullari
+    title: Genel işlem koşulları
+    maddeler: ['20', '21', '22', '23', '24', '25']
+  - id: ifa
+    title: İfa
+    maddeler: ['83', '84', '85', '86', '87', '88', '89', '90']
+  - id: temerrut
+    title: Temerrüt
+    maddeler: ['117', '118', '119', '120', '121', '122', '123', '124', '125']
+  - id: ifa-imkansizligi
+    title: İfa imkânsızlığı
+    maddeler: ['136', '137']
+  - id: haksiz-fiil
+    title: Haksız fiil
+    maddeler: ['49', '50', '51', '52', '53', '54', '55', '56']
+  - id: sebepsiz-zenginlesme
+    title: Sebepsiz zenginleşme
+    maddeler: ['77', '78', '79', '80', '81', '82']
+  - id: sona-erme
+    title: Borcun sona ermesi
+    maddeler: ['132', '133', '134', '135']
+  - id: zamanasimi
+    title: Zamanaşımı
+    maddeler: ['146', '147', '148', '149', '150', '151', '152', '153', '154', '155', '156', '157', '158', '159', '160', '161']

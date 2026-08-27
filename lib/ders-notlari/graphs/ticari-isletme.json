@@ -1,0 +1,286 @@
+{
+    "courseCode": "ticari-isletme",
+    "title": "Ticari İşletme Hukuku",
+    "kanunId": "ttk",
+    "guzInstitutionIds": [
+        "ticari-is",
+        "ticari-isletme",
+        "tacir",
+        "sicil"
+    ],
+    "baharInstitutionIds": [
+        "unvan",
+        "haksiz-rekabet",
+        "ticari-islemler"
+    ],
+    "institutions": [
+        {
+            "id": "ticari-is",
+            "title": "Ticari iş ve ticari hükümler",
+            "definition": "TTK, ticari işletmeyi ilgilendiren işlem ve fiilleri ticari iş sayar. Ticari işlerde faiz, teselsül ve ispat TTK'nın özel rejimine bağlanır.",
+            "elements": [
+                "ticari iş karinesi",
+                "ticari hüküm",
+                "faiz",
+                "teselsül",
+                "ticari dava"
+            ],
+            "organicLinks": [
+                "Ticari iş, TBK genelini silmez; TTK özel hükümse o uygulanır.",
+                "Tacir sıfatı ile ticari iş karinesi karıştırılmaz."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "3"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "4"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "8"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "19"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Ticari iş karinesi aksi ispat edilinceye kadar işler.",
+                "Faiz TTK m.8, TBK faizinden ayrı okunur."
+            ]
+        },
+        {
+            "id": "ticari-isletme",
+            "title": "Ticari işletme",
+            "definition": "Ticari işletme, esnaf işletmesi için öngörülen sınırı aşan düzeyde gelir sağlamayı hedef tutan, süreklilik ve bağımsızlık gösteren ekonomik faaliyettir.",
+            "elements": [
+                "gelir sağlama amacı",
+                "süreklilik",
+                "bağımsızlık",
+                "esnaf sınırı"
+            ],
+            "organicLinks": [
+                "İşletme, tacirden önce gelir; tacir işletmeyi işleten kişidir.",
+                "Devralma, işletme değerini taşır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "11"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "12"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Esnaf-tacir sınırı yönetmelikle çizilir; kâğıtta ölçüt yazılır.",
+                "İşletme bir bütündür."
+            ]
+        },
+        {
+            "id": "tacir",
+            "title": "Tacir sıfatı",
+            "definition": "Bir ticari işletmeyi kısmen de olsa kendi adına işleten kişi tacirdir. Tacir gibi sorumlu olanlar ve küçük tacir ayrı rejimlerdir.",
+            "elements": [
+                "kendi adına işletme",
+                "gerçek kişi tacir",
+                "tüzel kişi tacir",
+                "tacir gibi sorumlu",
+                "tacir olmanın hükümleri"
+            ],
+            "organicLinks": [
+                "Tacir sıfatı, iflasa tabi olmayı ve basiretli iş adamı özenini taşır.",
+                "Esnaf tacir değildir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "12"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "16"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "18"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "20"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Basiretli iş adamı özeni TTK m.18'dir.",
+                "İflasa tabi olma ticari işletmenin sonucudur."
+            ]
+        },
+        {
+            "id": "sicil",
+            "title": "Ticaret sicili",
+            "definition": "Ticaret sicili, ticari işletme ve tacire ilişkin olguların aleniyetini sağlayan resmi sicildir. Tescil ve ilan, iyiniyetli üçüncü kişiyi korur.",
+            "elements": [
+                "tescil",
+                "ilan",
+                "sicile güven",
+                "olumlu-olumsuz etki",
+                "sorumluluk"
+            ],
+            "organicLinks": [
+                "Sicil, tapunun ticaret hukukundaki kardeşidir ama aynı rejim değildir.",
+                "Tescili gereken olgu tescil edilmezse ileri sürülemez (kural)."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "24"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "26"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "32"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "36"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "İlan, sicilin aleniyetini tamamlar.",
+                "Gerçeğe aykırı tescil sorumluluk doğurur."
+            ]
+        },
+        {
+            "id": "unvan",
+            "title": "Ticaret unvanı",
+            "definition": "Ticaret unvanı, tacirin ticari işletmesiyle ilgili işlemlerde kullandığı addır. Çekirdek unsurlar kanundadır; tescil korur.",
+            "elements": [
+                "çekirdek",
+                "ekler",
+                "tescil",
+                "kullanma zorunluluğu",
+                "devredilebilirlik"
+            ],
+            "organicLinks": [
+                "Unvan, işletme adından ve markadan ayrıdır.",
+                "Devri işletmeyle birlikte olur (kural)."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "39"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "41"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "45"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "49"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Gerçek kişi unvanı ad ve soyadı çekirdeği taşır.",
+                "Tüzel kişi unvanı işletme konusunu gösterir."
+            ]
+        },
+        {
+            "id": "haksiz-rekabet",
+            "title": "Haksız rekabet",
+            "definition": "Haksız rekabet, rakipler arasında veya tedarikçilerle müşteriler arasındaki aldatıcı ya da dürüstlük kuralına aykırı davranışlarla ekonomik yarışın bozulmasıdır.",
+            "elements": [
+                "dürüstlük kuralına aykırılık",
+                "aldatici davranış",
+                "dürüst olmayan reklam",
+                "dava hakları",
+                "tazminat"
+            ],
+            "organicLinks": [
+                "Haksız rekabet, haksız fiilin ticaret hukukundaki özel görünümüdür.",
+                "Müşteri portföyü tek başına yasak değildir; yöntem yasaktır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "54"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "55"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "56"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "62"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "54 genel kloz, 55 örnek listedir.",
+                "Dava hakları tespit, men, tazminat ve geçici tedbirdir."
+            ]
+        },
+        {
+            "id": "ticari-islemler",
+            "title": "Ticari işletmenin basiret ve temsil yüzü",
+            "definition": "Tacir, ticaretine ait bütün faaliyetlerinde basiretli bir iş adamı gibi hareket eder. Ticari mümessil ve diğer temsilciler işletmeyi bağlar.",
+            "elements": [
+                "basiretli iş adamı özeni",
+                "ticari mümessil",
+                "ticari vekil",
+                "şube",
+                "işletmenin devri"
+            ],
+            "organicLinks": [
+                "Temsil, TBK temsilinden TTK özel hükümleriyle ayrılır.",
+                "Şube, merkezin uzantısıdır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "18"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "105"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "547"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "11"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Ticari mümessil geniş yetkilidir; sınırlama iyiniyetli üçüncü kişiye karşı tescilsiz ileri sürülemez.",
+                "İşletme devri borçları da taşır (kural)."
+            ]
+        }
+    ]
+}

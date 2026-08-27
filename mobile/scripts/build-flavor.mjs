@@ -183,6 +183,7 @@ function writeAndroidIdentity(app, lang) {
     `versionCode=${app.versionCode}`,
     `versionName=${app.versionName}`,
     `accent=${app.accent}`,
+    `chrome=${app.chrome || app.accent}`,
     `accentDark=${shade(app.accent, -0.28)}`,
     `scheme=${SCHEME}-${app.id}`,
     `linkHost=${HOSTS[0]}`,
@@ -248,7 +249,7 @@ async function installIcons(app) {
   mkdirSync(values, { recursive: true });
   writeFileSync(
     join(values, 'ic_launcher_background.xml'),
-    `<?xml version="1.0" encoding="utf-8"?>\n<!-- ÜRETİLDİ: ${app.id} -->\n<resources>\n    <color name="ic_launcher_background">${app.accent}</color>\n</resources>\n`
+    `<?xml version="1.0" encoding="utf-8"?>\n<!-- ÜRETİLDİ: ${app.id} -->\n<resources>\n    <color name="ic_launcher_background">${app.chrome || app.accent}</color>\n</resources>\n`
   );
 
   // Açılış görseli — Capacitor SplashScreen eklentisi drawable/splash arar

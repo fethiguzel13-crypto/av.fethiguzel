@@ -1,0 +1,286 @@
+{
+    "courseCode": "ceza-ozel",
+    "title": "Ceza Hukuku Özel Hükümler",
+    "kanunId": "tck",
+    "guzInstitutionIds": [
+        "kasten-oldurme",
+        "kasten-yaralama",
+        "hakaret",
+        "hirizlik"
+    ],
+    "baharInstitutionIds": [
+        "dolandiricilik",
+        "uyusturucu",
+        "zimmet",
+        "gorevi-kotuye"
+    ],
+    "institutions": [
+        {
+            "id": "kasten-oldurme",
+            "title": "Kasten öldürme",
+            "definition": "Kasten öldürme, bir insanın hayatına kasten son vermektir. Nitelikli hâller ve kasten öldürmenin ihmali işlenişi ayrı rejimlerdir. Taksirle öldürme başka tiptir.",
+            "elements": [
+                "insan",
+                "ölüm neticesi",
+                "kast",
+                "nitelikli hâller",
+                "teşebbüs"
+            ],
+            "organicLinks": [
+                "Yaralama sonucu ölüm, 87/4 ile 81 arasında kast testi ister.",
+                "Meşru savunma tipi kaldırabilir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "81"
+                },
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "82"
+                },
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "83"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Nitelikli hâller 82'de sınırlı sayıdadır.",
+                "İhmali işleniş 83, yükümlülüğe bağlıdır."
+            ]
+        },
+        {
+            "id": "kasten-yaralama",
+            "title": "Kasten yaralama",
+            "definition": "Kasten yaralama, vücut dokunulmazlığını kasten bozmaktır. Basit, neticesi sebebiyle ağırlaşmış ve nitelikli yaralama ayrılır.",
+            "elements": [
+                "vücut dokunulmazlığı",
+                "kast",
+                "neticesi sebebiyle ağırlaşma",
+                "nitelikli hâl",
+                "şikâyet"
+            ],
+            "organicLinks": [
+                "Yaralama, öldürme kastından netice ve kastla ayrılır.",
+                "Basit yaralama şikâyete bağlı olabilir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "86"
+                },
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "87"
+                },
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "88"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Kırık, duyu kaybı, yüzde sabit ize 87 bakılır.",
+                "Taksirle yaralama 89 ayrı tiptir."
+            ]
+        },
+        {
+            "id": "hakaret",
+            "title": "Hakaret",
+            "definition": "Hakaret, bir kimseye onur, şeref ve saygınlığını rencide edebilecek fiil veya olgu isnat etmek veya sövmektir. İspat hakkı ve kamu görevlisi nitelikli hâldir.",
+            "elements": [
+                "isnat veya sövme",
+                "muhatap",
+                "aleniyet",
+                "nitelikli hâl",
+                "şikâyet"
+            ],
+            "organicLinks": [
+                "Hakaret, iftira (267) ile karıştırılmaz.",
+                "Eleştiri, somut olgu isnadından ayrılır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "125"
+                },
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "127"
+                },
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "129"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Kamu görevlisine görevinden dolayı hakaret niteliklidir.",
+                "İspat hakkı 127, isnadın doğru çıkmasına bağlıdır."
+            ]
+        },
+        {
+            "id": "hirizlik",
+            "title": "Hırsızlık",
+            "definition": "Hırsızlık, zilyedinin rızası olmadan başkasına ait taşınırı, kendisine veya başkasına yarar sağlamak için bulunduğu yerden almaktır. Nitelikli hâller ağırlaştırır.",
+            "elements": [
+                "başkasına ait taşınır",
+                "zilyedin rızasızlığı",
+                "bulunduğu yerden alma",
+                "yarar kastı",
+                "nitelikli hâl"
+            ],
+            "organicLinks": [
+                "Hırsızlık, yağma ve dolandırıcılıktan araç ve irade ile ayrılır.",
+                "Kullanma hırsızlığı 141/2 ayrıdır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "141"
+                },
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "142"
+                },
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "144"
+                },
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "145"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Nitelikli hâller 142'de (gece, silah, Bilişim sistemi vb.).",
+                "Hakkı olan şeyi alma 141'i düşürebilir."
+            ]
+        },
+        {
+            "id": "dolandiricilik",
+            "title": "Dolandırıcılık",
+            "definition": "Dolandırıcılık, hileli davranışlarla bir kimseyi aldatıp onun veya başkasının zararına kendisine veya başkasına yarar sağlamaktır. Bilişim sistemi nitelikli hâldir.",
+            "elements": [
+                "hile",
+                "aldatma",
+                "zarar",
+                "yarar",
+                "nitelikli hâl"
+            ],
+            "organicLinks": [
+                "Hile, hırsızlıktaki rızasız almadan ayrılır; burada rıza sakattır.",
+                "Vaadin tutulmaması tek başına hile değildir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "157"
+                },
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "158"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Nitelikli hâller 158'de (kamu kurumları, bilişim, tanınmış meslek vb.).",
+                "Teşebbüs, hilenin icrasına bağlıdır."
+            ]
+        },
+        {
+            "id": "uyusturucu",
+            "title": "Uyuşturucu ticareti",
+            "definition": "Uyuşturucu veya uyarıcı maddeyi imal, ithal, ihraç ve satış gibi fiiller ağır cürümlerdir. Kullanmak için bulundurma ayrı ve daha hafif tiptir.",
+            "elements": [
+                "madde",
+                "imal/ithal/ihraç",
+                "satış/sevk",
+                "kullanmak için bulundurma",
+                "nitelikli hâl"
+            ],
+            "organicLinks": [
+                "Ticaret ile kullanmak için bulundurma kastla ayrılır.",
+                "Etken madde ve miktar nitelik taşır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "188"
+                },
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "191"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "188 ticaret, 191 kullanmak içindir.",
+                "Tedavi ve denetimli serbestlik 191'de özel yoldur."
+            ]
+        },
+        {
+            "id": "zimmet",
+            "title": "Zimmet",
+            "definition": "Zimmet, kamu görevlisinin görevi gereği zilyet olduğu veya koruma ve gözetimiyle yükümlü olduğu malı kendisinin veya başkasının zimmetine geçirmesidir.",
+            "elements": [
+                "kamu görevlisi",
+                "görev gereği zilyetlik",
+                "mal",
+                "zimmete geçirme",
+                "etkin pişmanlık"
+            ],
+            "organicLinks": [
+                "Zimmet, görevi kötüye kullanmadan mal unsuruyla ayrılır.",
+                "Bankacılık zimmeti özel kanundadır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "247"
+                },
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "248"
+                },
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "249"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Kullanma zimmeti 247/2 daha hafiftir.",
+                "Etkin pişmanlık 248 cezayı indirir."
+            ]
+        },
+        {
+            "id": "gorevi-kotuye",
+            "title": "Görevi kötüye kullanma",
+            "definition": "Kamu görevlisinin, görevini gereklerine aykırı yapmak suretiyle kişilerin mağduriyetine veya kamunun zararına yol açması ya da kişilere haksız kazanç sağlamasıdır.",
+            "elements": [
+                "kamu görevlisi",
+                "göreve aykırılık",
+                "mağduriyet veya zarar veya haksız kazanç",
+                "kast"
+            ],
+            "organicLinks": [
+                "İhmali ve icrai işleniş 257/1 ve 257/2'de ayrılır.",
+                "Rüşvet, zimmet ve irtikap özel tiplerdir; 257 yedek normdur."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tck",
+                    "maddeNo": "257"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Yedek norm, özel görev suçu varsa geri çekilir.",
+                "Takdir yetkisinin kötüye kullanılması da girebilir."
+            ]
+        }
+    ]
+}

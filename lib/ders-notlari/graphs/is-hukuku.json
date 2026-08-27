@@ -1,0 +1,254 @@
+{
+    "courseCode": "is-hukuku",
+    "title": "İş ve Sosyal Güvenlik Hukuku",
+    "kanunId": "is-kanunu",
+    "guzInstitutionIds": [
+        "is-sozlesmesi",
+        "sure-tur",
+        "fesih"
+    ],
+    "baharInstitutionIds": [
+        "kidem-ihbar",
+        "ucret-sure",
+        "is-guvenligi"
+    ],
+    "institutions": [
+        {
+            "id": "is-sozlesmesi",
+            "title": "İş sözleşmesi ve işçi-işveren",
+            "definition": "İş sözleşmesi, bir tarafın bağımlı olarak iş görmeyi, diğer tarafın ücret ödemeyi üstlendiği sözleşmedir. İş Kanunu kapsamı 4. maddede sınırlanır.",
+            "elements": [
+                "bağımlılık",
+                "iş görme",
+                "ücret",
+                "kapsam",
+                "yazılı şekil (süreye göre)"
+            ],
+            "organicLinks": [
+                "İş sözleşmesi, TBK hizmetinin özel kanunudur.",
+                "Kapsam dışı işçi TBK'ya düşer."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "is-kanunu",
+                    "maddeNo": "1"
+                },
+                {
+                    "kanunId": "is-kanunu",
+                    "maddeNo": "2"
+                },
+                {
+                    "kanunId": "is-kanunu",
+                    "maddeNo": "4"
+                },
+                {
+                    "kanunId": "is-kanunu",
+                    "maddeNo": "8"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Asıl işveren-alt işveren 2/6-7'de ayrı testtir.",
+                "Belirli süreli ve tam süreli ayrımı 9-12 hattındadır."
+            ]
+        },
+        {
+            "id": "sure-tur",
+            "title": "Süre ve tür",
+            "definition": "Belirli süreli sözleşme esaslı neden ister. Kısmi süreli, çağrı üzerine ve uzaktan çalışma ayrı türlerdir. Deneme süresi sınırlıdır.",
+            "elements": [
+                "belirli / belirsiz süre",
+                "esaslı neden",
+                "kısmi süre",
+                "deneme süresi"
+            ],
+            "organicLinks": [
+                "Zincirleme belirli süre, belirsiz süreye döner (kural).",
+                "Kısmi süreli, tam süreliyle orantılı hak taşır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "is-kanunu",
+                    "maddeNo": "11"
+                },
+                {
+                    "kanunId": "is-kanunu",
+                    "maddeNo": "12"
+                },
+                {
+                    "kanunId": "is-kanunu",
+                    "maddeNo": "13"
+                },
+                {
+                    "kanunId": "is-kanunu",
+                    "maddeNo": "14"
+                },
+                {
+                    "kanunId": "is-kanunu",
+                    "maddeNo": "15"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Belirli süre, objektif neden yoksa korunmaz.",
+                "Deneme en çok iki aydır (toplu iş sözleşmesiyle uzayabilir)."
+            ]
+        },
+        {
+            "id": "fesih",
+            "title": "Feshin bildirimi ve geçersizliği",
+            "definition": "Belirsiz süreli sözleşmede fesih bildirim sürelerine bağlanır. İş güvencesi kapsamındaki işçide geçerli neden ve usul aranır; feshin geçersizliğinde işe iade davası açılır.",
+            "elements": [
+                "bildirim süresi",
+                "geçerli neden",
+                "usul (savunma)",
+                "işe iade",
+                "kötüniyet tazminatı"
+            ],
+            "organicLinks": [
+                "İş güvencesi (18-21) her işçide işlemez; işyeri ve kıdem eşiği vardır.",
+                "Haklı fesih 24-25 süreye bağlıdır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "is-kanunu",
+                    "maddeNo": "17"
+                },
+                {
+                    "kanunId": "is-kanunu",
+                    "maddeNo": "18"
+                },
+                {
+                    "kanunId": "is-kanunu",
+                    "maddeNo": "19"
+                },
+                {
+                    "kanunId": "is-kanunu",
+                    "maddeNo": "20"
+                },
+                {
+                    "kanunId": "is-kanunu",
+                    "maddeNo": "21"
+                },
+                {
+                    "kanunId": "is-kanunu",
+                    "maddeNo": "25"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Savunma alınmadan yapılan fesih usulsüzdür.",
+                "İşe iade, boşta geçen süre ve işe başlatmama tazminatı doğurur."
+            ]
+        },
+        {
+            "id": "kidem-ihbar",
+            "title": "Kıdem ve ihbar",
+            "definition": "İhbar tazminatı bildirim süresine uyulmamanın karşılığıdır. Kıdem tazminatı, kanunda sayılan sona erme hâllerinde kıdeme bağlıdır; 1475 s. m.14 hâlâ yürürlüktedir.",
+            "elements": [
+                "ihbar süresi",
+                "kıdem şartı",
+                "sona erme hâli",
+                "hesap (giydirilmiş ücret)",
+                "zamanaşımı"
+            ],
+            "organicLinks": [
+                "Kıdem, her fesihte doğmaz; istifa kural olarak doğurmaz.",
+                "Emeklilik, askerlik, kadın işçinin evlilik feshinde kıdem saklıdır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "is-kanunu-1475",
+                    "maddeNo": "14"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Kıdem hesabı giydirilmiş brüt ücret üzerindendir.",
+                "Tavan, 4857'nin atfıyla 1475 m.14'tedir."
+            ]
+        },
+        {
+            "id": "ucret-sure",
+            "title": "Ücret ve çalışma süreleri",
+            "definition": "Ücret en geç ayda bir ödenir. Fazla çalışma, hafta tatili ve yıllık izin emredicidir. Ücretin gününde ödenmemesi faiz ve işçiye haklı fesih kapısı açar.",
+            "elements": [
+                "ücret",
+                "fazla çalışma",
+                "hafta tatili",
+                "yıllık izin",
+                "ödeme zamanı"
+            ],
+            "organicLinks": [
+                "Fazla çalışma onayı ve zamlı ücret ister.",
+                "Yıllık izin paraya çevrilemez (sözleşme devam ederken)."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "is-kanunu",
+                    "maddeNo": "32"
+                },
+                {
+                    "kanunId": "is-kanunu",
+                    "maddeNo": "41"
+                },
+                {
+                    "kanunId": "is-kanunu",
+                    "maddeNo": "46"
+                },
+                {
+                    "kanunId": "is-kanunu",
+                    "maddeNo": "53"
+                },
+                {
+                    "kanunId": "is-kanunu",
+                    "maddeNo": "57"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Fazla çalışma ücreti zamlıdır; serbest zaman usulü ayrıdır.",
+                "Ücretin bankaya yatırılması kapsamda zorunludur."
+            ]
+        },
+        {
+            "id": "is-guvenligi",
+            "title": "İş sağlığı ve güvenliği",
+            "definition": "İşveren, çalışanların işle ilgili sağlık ve güvenliğini sağlamakla yükümlüdür. Risk değerlendirmesi, eğitim ve iş kazası bildirimi kurucudur.",
+            "elements": [
+                "genel yükümlülük",
+                "risk değerlendirmesi",
+                "eğitim",
+                "iş kazası",
+                "işin durdurulması"
+            ],
+            "organicLinks": [
+                "İSGK, İş Kanunu'nun ceza ve idari yüzünden ayrı bir kanundur.",
+                "Kusursuza yakın yükümlülük, haksız fiil kastını aramaz."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "isg",
+                    "maddeNo": "4"
+                },
+                {
+                    "kanunId": "isg",
+                    "maddeNo": "10"
+                },
+                {
+                    "kanunId": "isg",
+                    "maddeNo": "16"
+                },
+                {
+                    "kanunId": "isg",
+                    "maddeNo": "14"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Risk değerlendirmesi belgesiz işyeri idari para cezası yer.",
+                "İş kazası bildirimi süreye bağlıdır."
+            ]
+        }
+    ]
+}

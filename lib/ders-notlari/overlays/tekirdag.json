@@ -1,0 +1,37 @@
+{
+    "uniSlug": "tekirdag",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Namık Kemal / Değirmenaltı",
+    "cityHook": "Şarköy'deki bir bağ satışı ve ayıp",
+    "mehaz": "NKÜ devlet fakültesi; TBK satım lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / dönem ilanı).",
+        "format": "Klasik yazılı: madde + unsur + vakıaya yedirme. Oran dönem ilanına bağlıdır.",
+        "tips": [
+            "NKÜ kâğıdında ayıp bildirimini yazın.",
+            "NKÜ kâğıdında ilk cümle kurumu adlandırır; slogan yetmez.",
+            "Öğretim elemanı duyurusu ve OBS bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "Tekirdağ Namık Kemal Üniversitesi Hukuk Fakültesi, Tekirdağ merkezli bir devlet fakültesidir Eğitim dili Türkçedir.",
+        "Namık Kemal / Değirmenaltı usulü: kaynak ve lafız önce, slayt cümlesi yok.",
+        "Bu örtü kamuya açık kimlik sayfasından üretilmiştir; amfi notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "NKÜ Hukuk Fakültesi",
+            "url": "https://hukuk.nku.edu.tr/",
+            "note": "fakülte kimliği; slayt ve amfi notu yok"
+        }
+    ]
+}

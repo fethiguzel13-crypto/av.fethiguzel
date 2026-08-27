@@ -67,6 +67,11 @@ start-out.txt
 /data/uyelik/store.json
 /data/uyelik/.secret
 
+# Yazar ajan RAG deposu (yerel sqlite; Vercel'e gitmez)
+/data/ders-notlari/*.sqlite
+/data/ders-notlari/*.sqlite-wal
+/data/ders-notlari/*.sqlite-shm
+
 # Yargı kararı yerel arşivi (ağır JSON; Vercel/push öncesi yerelde kalsın)
 /data/yargi-kararlari/decisions/
 /data/yargi-kararlari/_state/

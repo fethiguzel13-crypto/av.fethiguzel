@@ -1,0 +1,37 @@
+{
+    "uniSlug": "sivas-cumhuriyet",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Sivas merkez",
+    "cityHook": "Kangal'daki bir maden iş sözleşmesi ve kıdem",
+    "mehaz": "SCÜ devlet fakültesi; İşK lafzı bağlar",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / dönem ilanı).",
+        "format": "Klasik yazılı: madde + unsur + vakıaya yedirme. Oran dönem ilanına bağlıdır.",
+        "tips": [
+            "Sivas kâğıdında kıdem ile ihbarı karıştırmayın.",
+            "SCÜ kâğıdında ilk cümle kurumu adlandırır; slogan yetmez.",
+            "Öğretim elemanı duyurusu ve OBS bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "Sivas Cumhuriyet Üniversitesi Hukuk Fakültesi, Sivas merkezli bir devlet fakültesidir Eğitim dili Türkçedir.",
+        "Sivas merkez usulü: kaynak ve lafız önce, slayt cümlesi yok.",
+        "Bu örtü kamuya açık kimlik sayfasından üretilmiştir; amfi notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "SCÜ Hukuk Fakültesi",
+            "url": "https://hukuk.cumhuriyet.edu.tr/",
+            "note": "fakülte kimliği; slayt ve amfi notu yok"
+        }
+    ]
+}

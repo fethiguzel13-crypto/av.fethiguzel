@@ -1,0 +1,39 @@
+{
+    "uniSlug": "hacettepe",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Beytepe",
+    "cityHook": "Beytepe kampüsündeki bir kira ve depozito uyuşmazlığı",
+    "mehaz": "Ankara hattı; Bologna izlencesi sıkı tutulur",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav + final; AKTS ve ölçme ders bilgi formunda (OBS) ilan edilir.",
+        "format": "Klasik yazılı, öğrenme çıktısına bağlı rubrik. Beytepe kâğıdı tanımdan sonuca sırayı ister.",
+        "tips": [
+            "Hacettepe kâğıdında öğrenme çıktısındaki fiili (yorumlar, ayırır, uygular) görünür kılın.",
+            "Dönemlik kodlar ayrıdır; yıllık paket bütünleme tekrarı içindir.",
+            "Ders bilgi formu OBS'deki oranın üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borç ilişkisi ve kaynaklar",
+        "sözleşmenin kurulması ve şekil",
+        "irade sakatlıkları",
+        "temsil ve genel işlem koşulları",
+        "ifa ve temerrüt",
+        "haksız fiil",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "Hacettepe Hukuk, AÜHF'den gençtir; Bologna ders bilgi formu ve öğrenme çıktısı öne çıkar.",
+        "Ankara ekosisteminde dogmatik TBK okuması beklenir.",
+        "Kampüs Beytepe'dir; slayt ve fotokopi not kullanılmaz."
+    ],
+    "sources": [
+        {
+            "title": "Hacettepe Hukuk Fakültesi",
+            "url": "https://hukuk.hacettepe.edu.tr/",
+            "note": "fakülte kimliği"
+        }
+    ]
+}

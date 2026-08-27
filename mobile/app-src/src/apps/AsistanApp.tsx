@@ -140,6 +140,14 @@ function HomePage() {
   return (
     <div className="page pt-0">
       <header className="-mx-4 px-4 pt-6 pb-5 mb-4 border-b border-tel">
+        {/*
+          İtalik/kiremit deneme geri alındı.
+
+          Başlığın ikinci satırını serif italik ve kiremit renginde deneyip
+          zeminle birlikte gösterdik; kullanıcı beğenmedi. Markanın
+          kararlılığı artık başlıkta değil, yapısal ögelerde (düğme, rozet,
+          üst çubuk) taşınıyor — bkz. app.css «KARARLI VURGU».
+        */}
         <h2 className="text-[28px] leading-[1.1] font-heading font-bold text-ink tracking-[-0.018em]">
           Türk hukuku
           <br />
@@ -234,7 +242,7 @@ function HomePage() {
             type="button"
             onClick={() => navigate('/hesap')}
             className="text-[12.5px] font-bold hedef inline-flex items-center px-1"
-            style={{ color: 'var(--brand)' }}
+            style={{ color: 'var(--vurgu)' }}
           >
             Tümü{STATS.tools ? ` (${STATS.tools})` : ''}
           </button>
@@ -345,7 +353,7 @@ function TodayStrip() {
           type="button"
           onClick={() => navigate('/icthat')}
           className="text-[12.5px] font-bold hedef inline-flex items-center px-1"
-          style={{ color: 'var(--brand)' }}
+          style={{ color: 'var(--vurgu)' }}
         >
           Günlük
         </button>
@@ -412,7 +420,7 @@ function RecentDecisions() {
           type="button"
           onClick={() => navigate('/arsiv')}
           className="text-[12.5px] font-bold hedef inline-flex items-center px-1"
-          style={{ color: 'var(--brand)' }}
+          style={{ color: 'var(--vurgu)' }}
         >
           Tüm kararlar
         </button>
@@ -443,7 +451,7 @@ function RecentDecisions() {
                         key={ref}
                         title={kanunAdi(kanunId)}
                         className="px-1.5 py-0.5 rounded text-[12px] font-mono font-bold"
-                        style={{ background: 'rgba(46,64,54,0.07)', color: 'var(--brand)' }}
+                        style={{ background: 'var(--brand-soft)', color: 'var(--vurgu)' }}
                       >
                         {kanunKodu(kanunId)} {no}
                       </span>

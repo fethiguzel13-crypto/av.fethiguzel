@@ -1,0 +1,329 @@
+{
+    "courseCode": "medeni-baslangic",
+    "title": "Medeni Hukuka Giriş ve Başlangıç Hükümleri",
+    "kanunId": "tmk",
+    "guzInstitutionIds": [
+        "uygulama",
+        "durustluk",
+        "iyiniyet",
+        "hakim-takdiri",
+        "ehliyet"
+    ],
+    "baharInstitutionIds": [
+        "genel-hukumler",
+        "ispat",
+        "kisilik",
+        "yerlesim",
+        "ad"
+    ],
+    "institutions": [
+        {
+            "id": "uygulama",
+            "title": "Hukukun uygulanması ve kaynakları",
+            "definition": "Hâkim kanunu sözüyle ve özüyle uygular. Kanun boşluğunda örf, o da yoksa hâkimin hukuk yaratması devreye girer. Bilimsel görüş ve içtihat yararlanılan kaynaklardır.",
+            "elements": [
+                "kanunun sözü",
+                "kanunun özü",
+                "örf ve âdet",
+                "hâkimin hukuk yaratması",
+                "öğreti ve içtihat"
+            ],
+            "organicLinks": [
+                "Boşluk, belirsizlik ve takdir ayrı kapılardır.",
+                "TMK m.1 usul hukuku değil, medeni hukukun kapı cümlesidir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "1"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Hâkim kanun koyucu gibi kural koyar ama somut uyuşmazlık için koyar.",
+                "Örf, kanunun açık hükmünü bertaraf etmez."
+            ]
+        },
+        {
+            "id": "durustluk",
+            "title": "Dürüstlük kuralı",
+            "definition": "Herkes haklarını kullanırken ve borçlarını yerine getirirken dürüstlük kuralına uymak zorundadır. Hakkın açıkça kötüye kullanılması hukuk düzenince korunmaz.",
+            "elements": [
+                "hakkın kullanılması",
+                "borcun ifası",
+                "dürüstlük ölçüsü",
+                "hakkın kötüye kullanılması yasağı"
+            ],
+            "organicLinks": [
+                "Dürüstlük, iyiniyet karinesinden ayrıdır.",
+                "Kötüye kullanma, hakkın varlığını değil korunmasını keser."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "2"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Objektif dürüstlük, subjektif iyiniyetten ayrılır.",
+                "Yasak, hakkın varlığını değil türetilmiş sonucu durdurur."
+            ]
+        },
+        {
+            "id": "iyiniyet",
+            "title": "İyiniyet",
+            "definition": "Kanunun iyiniyete hukukî sonuç bağladığı durumlarda asıl olan iyiniyetin varlığıdır. Durumun gerektirdiği özeni göstermeyen kimse iyiniyet iddiasında bulunamaz.",
+            "elements": [
+                "kanunun sonuç bağladığı hâl",
+                "iyiniyet karinesi",
+                "özen ölçüsü",
+                "ispat"
+            ],
+            "organicLinks": [
+                "İyiniyet, dürüstlük kuralının subjektif kardeşidir.",
+                "Zilyetlik ve tapuda iyiniyet ayrı testtir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "3"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Karine aleyhine ispat, özen eksikliğidir.",
+                "Bilmesi gereken, bilen gibidir."
+            ]
+        },
+        {
+            "id": "hakim-takdiri",
+            "title": "Hâkimin takdir yetkisi",
+            "definition": "Kanunun takdir yetkisi tanıdığı veya durumun gereklerini yahut haklı sebepleri göz önünde tutmayı emrettiği hâllerde hâkim, hukuka ve hakkaniyete göre karar verir.",
+            "elements": [
+                "takdir yetkisi tanınan hâl",
+                "durumun gerekleri",
+                "haklı sebep",
+                "hakkaniyet"
+            ],
+            "organicLinks": [
+                "Takdir, boşluk doldurmadan (m.1) ayrıdır.",
+                "Hakkaniyet keyfilik değildir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "4"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Takdir, kanunun çizdiği çerçevede işler.",
+                "Gerekçe yazılmayan takdir, denetimsiz kalır."
+            ]
+        },
+        {
+            "id": "genel-hukumler",
+            "title": "Genel nitelikli hükümler",
+            "definition": "TMK ve TBK'nın genel nitelikli hükümleri, uygun düştüğü ölçüde tüm özel hukuk ilişkilerine uygulanır. Özel hüküm varsa genel hüküm yedek kalır.",
+            "elements": [
+                "genel hüküm",
+                "özel hüküm önceliği",
+                "uygun düşme ölçüsü",
+                "TBK genelinin yansıması"
+            ],
+            "organicLinks": [
+                "Genel hüküm, özel hükmü silmez.",
+                "Kira özelinde TBK genel ancak uygun düşerse gelir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "5"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Uygun düşme, analogia serbestisi değildir.",
+                "Özel kanun (TKHK, İşK) önce bakılır."
+            ]
+        },
+        {
+            "id": "ispat",
+            "title": "İspat yükü",
+            "definition": "Kanunda aksine hüküm yoksa herkes hakkını dayandırdığı olguların varlığını ispatla yükümlüdür. Karine ve belgelendirme istisnaları kanundadır.",
+            "elements": [
+                "iddia edilen olgu",
+                "ispat yükü",
+                "kanunî karine",
+                "aksini ispat"
+            ],
+            "organicLinks": [
+                "İspat, maddi hakkın usul yüzüdür.",
+                "Karine, yükü ters çevirir."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "6"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "7"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Resmî sicil karinesi m.7 ile m.6 birlikte okunur.",
+                "Usul hukuku (HMK) ispatın nasılını taşır."
+            ]
+        },
+        {
+            "id": "ehliyet",
+            "title": "Hak ehliyeti ve fiil ehliyeti",
+            "definition": "Her insanın hak ehliyeti vardır. Fiil ehliyeti ayırt etme gücü, erginlik ve kısıtlı olmamaya bağlanır. Tam ehliyetsiz ile sınırlı ehliyetsiz ayrı rejimlerdir.",
+            "elements": [
+                "hak ehliyeti",
+                "ayırt etme gücü",
+                "erginlik",
+                "kısıtlı olmama",
+                "yasal danışman / vasi"
+            ],
+            "organicLinks": [
+                "Hak ehliyeti fiil ehliyetinden ayrıdır.",
+                "Ayırt etme gücü yoksa irade beyanı kural olarak sonuç doğurmaz."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "8"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "9"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "10"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "11"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "16"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Tam ehliyetsizin işlemi kural olarak hükümsüzdür.",
+                "Sınırlı ehliyetsiz yasal temsilciyle işlem yapar."
+            ]
+        },
+        {
+            "id": "ad",
+            "title": "Ad",
+            "definition": "Ad, kişiyi toplum içinde belirleyen ve kişilik hakkının parçası olan işarettir. Adın kazanılması, değiştirilmesi ve korunması kanundadır.",
+            "elements": [
+                "özad",
+                "soyadı",
+                "kazanma",
+                "değiştirme",
+                "koruma davası"
+            ],
+            "organicLinks": [
+                "Ad, kişilik hakkının görünür yüzüdür.",
+                "Soyadı evlenme ve soybağıyla kayar."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "26"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "27"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Adın korunması kişilik davasıyla yürür.",
+                "Değiştirme haklı sebebe bağlıdır."
+            ]
+        },
+        {
+            "id": "yerlesim",
+            "title": "Yerleşim yeri",
+            "definition": "Yerleşim yeri, bir kimsenin sürekli kalma niyetiyle oturduğu yerdir. Kimsenin birden çok yerleşim yeri olamaz. Hukuki işlemler ve yetki bu kavrama bağlanır.",
+            "elements": [
+                "sürekli kalma niyeti",
+                "oturma",
+                "tek yerleşim ilkesi",
+                "yasal yerleşim"
+            ],
+            "organicLinks": [
+                "Yerleşim, yetki (HMK) ve kişi hâline bağlanır.",
+                "Adres, yerleşimin fiilî görünümüdür; ikisi karıştırılmaz."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "19"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "20"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "21"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "22"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Tek yerleşim ilkesi, birden fazla ev adresini tek hukuki merkeze indirir.",
+                "Yasal yerleşim küçüğün ana-babasına bağlanır."
+            ]
+        },
+        {
+            "id": "kisilik",
+            "title": "Kişilik hakkı",
+            "definition": "Kişilik hakkı, kişinin maddi ve manevi bütünlüğünü koruyan mutlak haktır. Saldırıda dava ve önleme; rıza sınırlıdır.",
+            "elements": [
+                "maddi-manevi bütünlük",
+                "saldırı",
+                "rıza sınırı",
+                "koruma davaları",
+                "manevi tazminat"
+            ],
+            "organicLinks": [
+                "Kişilik hakkı, borcun kaynağı olabilir (haksız fiil).",
+                "Rıza, emredici sınıra takılır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "23"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "24"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "25"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "m.23 vazgeçilemezlik, m.24 saldırı, m.25 dava yoludur.",
+                "KVKK özel koruma getirir; TMK genel kalır."
+            ]
+        }
+    ]
+}

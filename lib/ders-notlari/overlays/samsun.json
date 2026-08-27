@@ -1,0 +1,37 @@
+{
+    "uniSlug": "samsun",
+    "calendar": "donemlik",
+    "lang": "tr",
+    "campus": "Kurupelit",
+    "cityHook": "Samsun limanındaki bir navlun ve ticari satış",
+    "mehaz": "OMÜ devlet fakültesi; TTK/TBK yan yana",
+    "examBox": {
+        "calendar": "donemlik",
+        "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS / dönem ilanı).",
+        "format": "Klasik yazılı: madde + unsur + vakıaya yedirme. Oran dönem ilanına bağlıdır.",
+        "tips": [
+            "OMÜ kâğıdında ticari satış karinesini yazın.",
+            "OMÜ kâğıdında ilk cümle kurumu adlandırır; slogan yetmez.",
+            "Öğretim elemanı duyurusu ve OBS bu notun üstündedir."
+        ]
+    },
+    "syllabusOrder": [
+        "borçlar genel kavramları ve kaynaklar",
+        "sözleşme, haksız fiil, sebepsiz zenginleşme",
+        "ifa ve ifa etmeme",
+        "borcu sona erdiren sebepler",
+        "zamanaşımı"
+    ],
+    "schoolNotes": [
+        "Ondokuz Mayıs Üniversitesi Hukuk Fakültesi, Samsun merkezli bir devlet fakültesidir Eğitim dili Türkçedir.",
+        "Kurupelit usulü: kaynak ve lafız önce, slayt cümlesi yok.",
+        "Bu örtü kamuya açık kimlik sayfasından üretilmiştir; amfi notu kopyalanmaz."
+    ],
+    "sources": [
+        {
+            "title": "OMÜ Hukuk Fakültesi",
+            "url": "https://hukuk.omu.edu.tr/",
+            "note": "fakülte kimliği; slayt ve amfi notu yok"
+        }
+    ]
+}

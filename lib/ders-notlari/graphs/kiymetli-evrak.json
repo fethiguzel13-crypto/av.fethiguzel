@@ -1,0 +1,306 @@
+{
+    "courseCode": "kiymetli-evrak",
+    "title": "Kıymetli Evrak Hukuku",
+    "kanunId": "ttk",
+    "guzInstitutionIds": [
+        "ke-kavram",
+        "polise",
+        "bono",
+        "cir-teslim"
+    ],
+    "baharInstitutionIds": [
+        "cek",
+        "defi",
+        "basvuru",
+        "karsiliksiz"
+    ],
+    "institutions": [
+        {
+            "id": "ke-kavram",
+            "title": "Kıymetli evrak",
+            "definition": "Kıymetli evrak, üzerinde yazılı hakkı senetten ayrı olarak ileri sürmenin mümkün olmadığı senettir. Nama, emre ve hamiline yazılı türler aleniyet ve devri belirler.",
+            "elements": [
+                "senetle bağlı hak",
+                "nama",
+                "emre",
+                "hamiline",
+                "teslim + ciro"
+            ],
+            "organicLinks": [
+                "Kıymetli evrak, ispat senedinden ayrılır.",
+                "Hak, senetle birlikte dolaşır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "645"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "646"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "647"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "651"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Emre yazılılık, ciro ile devri açar.",
+                "Hamiline yazılılık teslimle geçer."
+            ]
+        },
+        {
+            "id": "polise",
+            "title": "Poliçe",
+            "definition": "Poliçe, keşidecinin muhataba, lehtara veya emrine belirli bir bedeli ödemesi için verdiği kayıtsız ve şartsız emirdir. Zorunlu unsurlar kanundadır.",
+            "elements": [
+                "poliçe kaydı",
+                "kayıtsız şartsız ödeme emri",
+                "muhatap",
+                "lehtar",
+                "vade ve keşide"
+            ],
+            "organicLinks": [
+                "Poliçe üç köşelidir: keşideci, muhatap, lehtar.",
+                "Kabul, muhatabı borçlu yapar."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "671"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "672"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "695"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "714"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Zorunlu unsur eksikliği senedi poliçe olmaktan çıkarır (istisnalar saklı).",
+                "Başvuru hakkı kabul etmeme veya ödememede açılır."
+            ]
+        },
+        {
+            "id": "bono",
+            "title": "Bono (emre yazılı senet)",
+            "definition": "Bono, keşidecinin lehtara veya emrine belirli bir bedeli ödemeyi kayıtsız ve şartsız vaat ettiği senettir. İki köşelidir.",
+            "elements": [
+                "bono kaydı",
+                "kayıtsız şartsız ödeme vaadi",
+                "keşideci",
+                "lehtar",
+                "vade"
+            ],
+            "organicLinks": [
+                "Bono poliçeden muhatap köşesinin yokluğuyla ayrılır.",
+                "Keşideci asıl borçludur."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "776"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "777"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Poliçeye ilişkin birçok hüküm bonoya kıyasen uygulanır.",
+                "Zorunlu unsurlar 776'dadır."
+            ]
+        },
+        {
+            "id": "cek",
+            "title": "Çek",
+            "definition": "Çek, bir banka üzerine keşide edilen ve görüldüğünde ödenmesi gereken kıymetli evraktır. TTK ve 5941 sayılı Çek Kanunu yan yana durur.",
+            "elements": [
+                "çek kaydı",
+                "banka muhatap",
+                "görüldüğünde ödeme",
+                "karşılık",
+                "ibraz süresi"
+            ],
+            "organicLinks": [
+                "Çek kredi aracı değil ödeme aracıdır (kural).",
+                "Karşılıksız çek, özel kanun yaptırımı taşır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "780"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "795"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "796"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "İbraz süreleri TTK m.796'dadır.",
+                "Çek Kanunu, karşılıksızlığın ceza ve idari yüzünü taşır."
+            ]
+        },
+        {
+            "id": "karsiliksiz",
+            "title": "Karşılıksız çek (Çek Kanunu)",
+            "definition": "5941 sayılı Çek Kanunu, karşılıksız çek keşide etmeyi idari ve cezaî yaptırıma bağlar. TTK çek hükümleri senedin kıymetli evrak yüzünü, Çek Kanunu yaptırım yüzünü taşır.",
+            "elements": [
+                "karşılıksız keşide",
+                "ibraz",
+                "idari yaptırım",
+                "çek düzenleme yasağı"
+            ],
+            "organicLinks": [
+                "Çek Kanunu, TTK çekini ilga etmez; yaptırımı ekler.",
+                "Hamilin başvurusu TTK hattındadır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "cek",
+                    "maddeNo": "1"
+                },
+                {
+                    "kanunId": "cek",
+                    "maddeNo": "2"
+                },
+                {
+                    "kanunId": "cek",
+                    "maddeNo": "3"
+                },
+                {
+                    "kanunId": "cek",
+                    "maddeNo": "5"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Karşılık, keşide tarihinde bankada bulunmalıdır.",
+                "Yaptırım, özel kanunun kendi usulüne bağlıdır."
+            ]
+        },
+        {
+            "id": "basvuru",
+            "title": "Başvuru hakkı ve zamanaşımı",
+            "definition": "Muhatap ödemez veya kabul etmezse hamil, cirantalara ve keşideciye başvurur. Protesto, ihbar ve süreler kurucudur. Zamanaşımı kıymetli evraka özgüdür.",
+            "elements": [
+                "başvuru borçluları",
+                "protesto",
+                "ihbar",
+                "süre",
+                "zamanaşımı"
+            ],
+            "organicLinks": [
+                "Başvuru, asıl borcun ifasından ayrı bir keşideci-ciro hattıdır.",
+                "Süre kaçınca senet hakkı düşer."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "714"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "722"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "726"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "728"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Protesto, başvuru hakkının işletilmesinin görünür yüzüdür.",
+                "Zamanaşımı, TBK genelinden kısadır."
+            ]
+        },
+        {
+            "id": "defi",
+            "title": "Def'iler",
+            "definition": "Kıymetli evrakta mutlak, nispi ve kişisel def'iler ayrılır. İyiniyetli hamil kişisel def'iye kural olarak katlanmaz.",
+            "elements": [
+                "mutlak def'i",
+                "nispi def'i",
+                "kişisel def'i",
+                "iyiniyetli hamil",
+                "sahtelik"
+            ],
+            "organicLinks": [
+                "Def'i, senet metninden veya taraflar ilişkisinden doğar.",
+                "Ciro zinciri koparsa hamilin sıfatı sarsılır."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "687"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "825"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Mutlak def'i herkese karşı ileri sürülür.",
+                "Kişisel def'i, senet borçlusu ile önceki hamiller arasındaki ilişkiden doğar."
+            ]
+        },
+        {
+            "id": "cir-teslim",
+            "title": "Ciro ve teslim",
+            "definition": "Emre yazılı senedin devri ciro ve teslimle olur. Temlik, tahsil ve rehin cirosu ayrı etkiler doğurur. Beyaz ciro hamiline çevirir.",
+            "elements": [
+                "ciro beyanı",
+                "teslim",
+                "temlik cirosu",
+                "tahsil cirosu",
+                "rehin cirosu"
+            ],
+            "organicLinks": [
+                "Ciro, alacağın temlikinden (TBK) şekil ve etkiyle ayrılır.",
+                "Çizgili çek, tahsil rejimine kayar."
+            ],
+            "statuteRefs": [
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "681"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "683"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "788"
+                }
+            ],
+            "caseRefs": [],
+            "doctrineSplit": [
+                "Tam ciro lehtarı gösterir; beyaz ciro boş bırakır.",
+                "Tahsil cirosu mülkiyeti geçirmez."
+            ]
+        }
+    ]
+}
