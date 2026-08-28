@@ -7,11 +7,15 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import MevzuatSearch from '@/components/MevzuatSearch';
 import { BookOpen, Search } from 'lucide-react';
+import { siteSayilari, tr, yaklasik } from '@/lib/site-stats';
+
+/* Külliyat sayıları tek kaynaktan; SEO metni gövdeyle aynı rakamı söylesin. */
+const N = siteSayilari();
 
 export const metadata: Metadata = {
   title: 'Kanun Maddesi ve Mevzuat Arama | 7800+ Madde + Şerh',
   description:
-    'Kanun maddesi ara ve oku: 7.800+ madde metni + akademik şerh. TBK, TMK, TTK, TCK, HMK, İİK, VUK, İş Kanunu ve 40+ kanun — ücretsiz açık erişim mevzuat bankası.',
+    `Kanun maddesi ara ve oku: ${yaklasik(N.madde, 100)} madde metni + akademik şerh. TBK, TMK, TTK, TCK, HMK, İİK, VUK, İş Kanunu ve ${tr(N.kanun)} kanun — ücretsiz açık erişim mevzuat bankası.`,
   keywords: [
     'kanun maddesi',
     'kanun maddesi arama',
@@ -28,7 +32,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Kanun Maddesi ve Mevzuat Bankası | 7800+ Madde + Şerh',
     description:
-      'Kanun maddesi arama: 45+ kanun, 7.800+ madde metni ve akademik şerh. Açık erişim dijital hukuk arşivi.',
+      `Kanun maddesi arama: ${tr(N.kanun)} kanun, ${yaklasik(N.madde, 100)} madde metni ve akademik şerh. Açık erişim dijital hukuk arşivi.`,
     url: 'https://www.avfethiguzel.com/mevzuat',
   },
 };
@@ -54,7 +58,7 @@ export default async function MevzuatPage() {
           </h1>
           <p className="text-charcoal/60 max-w-2xl mx-auto text-lg mb-10">
             Kanun maddesi arayın: TBK, TMK, TTK, TCK, HMK, İİK ve 40+ kanun —
-            resmî madde metni ile akademik şerh aynı sayfada. 7.800+ madde, ücretsiz açık erişim.
+            resmî madde metni ile akademik şerh aynı sayfada. {yaklasik(N.madde, 100)} madde, ücretsiz açık erişim.
           </p>
           <div className="max-w-3xl mx-auto mb-6">
             <MevzuatSearch compact />
@@ -70,7 +74,7 @@ export default async function MevzuatPage() {
               href="/bilgi"
               className="inline-flex items-center gap-2 text-xs font-bold tracking-widest uppercase text-charcoal/55 hover:text-accent"
             >
-              Vatandaş rehberi (550+)
+              Vatandaş rehberi ({yaklasik(N.rehber, 10)})
             </Link>
           </div>
           {/* Google exact-match crawl paths: TBK 13, TBK 1, … */}

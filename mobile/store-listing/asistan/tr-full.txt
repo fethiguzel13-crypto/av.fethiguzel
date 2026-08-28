@@ -1,12 +1,14 @@
 Türk hukuku araştırma kütüphanesi. Kanun maddesi, Yargıtay kararı, kavram sözlüğü, vatandaş rehberi ve akademik makaleler — hepsi cihazınızda, internet olmadan.
 
+Bu uygulama Av. Fethi Güzel tarafından geliştirilmiştir; herhangi bir devlet kurumunu temsil etmez, resmî bir kurumla bağlantılı değildir. Kanun ve karar metinleri aşağıda belirtilen resmî kaynaklardan derlenmiştir.
+
 Kurduğunuz anda külliyat iner. Duruşma salonunda, adliye koridorunda, çekmeyen bir yerde: madde metni ve karar arşivi açılır. Sunucu beklemez, hesap istemez, reklam göstermez.
 
 NELER ÜCRETSİZ
 Mevzuatın tamamı, kavram sözlüğü, vatandaş rehberleri, akademik eserler, günlük içtihat özetleri ve 33 hesaplama aracı ücretsizdir. Yargıtay arşivinin listesi de açıktır: her kararın künyesi, konusu ve atıf yaptığı maddeler abonelik istemeden görünür. Ücretli olan tek şey, arşivdeki kararların TAM METNİDİR.
 
 MEVZUAT — 47 KANUN, 8.088 MADDE (ÜCRETSİZ)
-Resmî Gazete'de yayımlanan metniyle.
+Resmî Gazete'de (resmigazete.gov.tr) yayımlanan ve mevzuat.gov.tr üzerinden doğrulanabilen metniyle.
 • TMK, TBK, TTK, TCK, HMK, CMK, İİK, İş Kanunu ve 39 kanun daha
 • Kanunlar konu başlıklarına göre tasnifli: özel hukuk, yargılama, ceza, iş ve sosyal güvenlik, vergi, kamu yönetimi
 • «TBK 13» yazın, doğrudan maddeye gidin
@@ -15,34 +17,25 @@ Resmî Gazete'de yayımlanan metniyle.
 • Alıntı düğmesi maddeyi dilekçeye yapıştırılacak biçimde kopyalar
 
 YARGITAY ARŞİVİ — 27.000+ KARAR, TAM METİN (ABONELİK)
-İçtihadı birleştirme, Hukuk Genel Kurulu, Ceza Genel Kurulu ve daire kararları.
+karararama.yargitay.gov.tr kaynağından derlenen içtihadı birleştirme, Hukuk Genel Kurulu, Ceza Genel Kurulu ve daire kararları.
 • Her karar KONUSUYLA listelenir: «Kamulaştırmasız elatma nedeniyle tazminat», «Konutta silahlı yağma suçu» — künye duvarı değil
 • Daire, kademe, konu, esas ve karar numarasıyla arama
 • Tam metin cihazda saklıdır; abonelik açıkken okumak için de internet gerekmez
 • Arşiv zamanla genişletilecek, yeni kararlar aynı abonelikle açılacaktır
 
 MEVZUAT İLE İÇTİHAT BİRBİRİNE BAĞLI
-Bu uygulamanın diğerlerinden ayrıldığı yer burası:
 • Bir maddeyi açtığınızda «bu maddeye atıf yapan Yargıtay kararları» aynı ekranda listelenir
 • Bir kararı okurken dayandığı maddelere tek dokunuşla geçersiniz
 • Bağ, 27.000'den fazla karar metninin taranmasıyla kuruldu; elle girilmiş bir liste değil
 
-KAVRAM SÖZLÜĞÜ (ÜCRETSİZ)
-Kıdem tazminatı, zamanaşımı, ayıp, muvazaa, işe iade… Her kavram; kısa cevabı, dayanak maddesi, ilgili rehberi ve hesaplama aracıyla birlikte. Kısa cevap tek dokunuşla kopyalanır.
-
-VATANDAŞ REHBERİ (ÜCRETSİZ)
-Nereye başvuracağım, süresi ne, hangi belgeler?
-• Adım adım anlatım
-• İlgili maddeye ve hesaplama aracına doğrudan bağlantı
-
-AKADEMİK ESERLER (ÜCRETSİZ)
-Av. Fethi Güzel'in makaleleri, tam metin ve uygulama içi okuma görünümünde. İndirme, harici okuyucu, biçim sorunu yok.
+KAVRAM SÖZLÜĞÜ · VATANDAŞ REHBERİ · AKADEMİK ESERLER (ÜCRETSİZ)
+Kıdem tazminatı, zamanaşımı, ayıp, muvazaa, işe iade gibi kavramlar; nereye başvurulacağını, süreyi ve belgeleri anlatan adım adım rehberler; Av. Fethi Güzel'in makaleleri — tam metin, uygulama içi okuma görünümünde.
 
 GÜNLÜK İÇTİHAT (ÜCRETSİZ)
 Yargıtay, Anayasa Mahkemesi, AİHM ve Resmî Gazete özetleri. İstediğiniz alanı takibe alın; hatırlatma cihazda üretilir.
 
 HESAPLAMA (ÜCRETSİZ)
-Kıdem, faiz, harç, nafaka, miras, süre — 33 araç, çevrimdışı. Her aracın yanında mevzuat dayanağı ve kısa bilgilendirme durur. Araştırma kütüphanesinin yanında bir yardımcıdır; onun yerine geçmez.
+Kıdem, faiz, harç, nafaka, miras, süre — 33 araç, çevrimdışı. Araştırma kütüphanesinin yanında bir yardımcıdır; onun yerine geçmez.
 
 ABONELİK
 Yargıtay arşivi üyeliği aylık 500 TL'dir ve otomatik yenilenir. Ödeme Google Play hesabınızdan alınır; iptal, Play'deki abonelik ayarlarından istediğiniz an yapılabilir. Abonelik yalnız kararların tam metnini açar, uygulamanın geri kalanını etkilemez.
@@ -50,8 +43,10 @@ Yargıtay arşivi üyeliği aylık 500 TL'dir ve otomatik yenilenir. Ödeme Goog
 GİZLİLİK
 Girdiğiniz rakamlar, aramalarınız ve okuma geçmişiniz hiçbir sunucuya gitmez. Uygulama hesap açtırmaz, konum istemez, reklam göstermez.
 
-YASAL UYARI
-Bilgilendirme amaçlıdır; hukuki tavsiye veya vekâlet ilişkisi kurmaz. Bağlayıcı metin için mevzuat.gov.tr ve kararın aslı esastır. Karar metinleri karararama.yargitay.gov.tr kaynağından derlenmiştir; abonelik, bu metinlerin cihazda derlenmiş ve aranabilir hâlde sunulması hizmetini kapsar.
+RESMÎ KAYNAKLAR VE YASAL UYARI
+Bu uygulama bir devlet kurumu DEĞİLDİR, hiçbir resmî kurumu temsil etmez ve onlarla bağlantılı değildir. Bilgilendirme amaçlıdır; hukuki tavsiye veya vekâlet ilişkisi kurmaz.
+
+Kanun metinleri https://www.mevzuat.gov.tr ve https://www.resmigazete.gov.tr adreslerinden derlenmiştir; bağlayıcı olan her zaman oradaki resmî metindir. Karar metinleri https://karararama.yargitay.gov.tr adresinden derlenmiştir; abonelik yalnız bu metinlerin cihazda derlenmiş ve aranabilir hâlde sunulması hizmetini kapsar, kararların kendisi kamuya açık belgelerdir.
 
 Av. Fethi Güzel — Avukat & Arabulucu · Van, Erciş
 https://www.avfethiguzel.com

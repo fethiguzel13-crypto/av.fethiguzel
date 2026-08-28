@@ -14,12 +14,14 @@ import Footer from '@/components/Footer';
 import StickyMobileCta from '@/components/StickyMobileCta';
 import { siteSayilari, tr, yaklasik } from '@/lib/site-stats';
 
+const N = siteSayilari();
+
 export const metadata: Metadata = {
   title: {
     absolute: 'Av. Fethi Güzel | Kanun, Şerh, Yargıtay Arşivi',
   },
   description:
-    'Türk hukuku araştırma kütüphanesi: 47 kanun, 8.000+ madde metni, 25.900+ Yargıtay kararı, akademik şerh, günlük içtihat ve vatandaş rehberi. Av. Fethi Güzel.',
+    `Türk hukuku araştırma kütüphanesi: ${tr(N.kanun)} kanun, ${yaklasik(N.madde, 100)} madde metni, ${yaklasik(N.karar, 100)} Yargıtay kararı, akademik şerh, günlük içtihat ve vatandaş rehberi. Av. Fethi Güzel.`,
   keywords: [
     'kanun maddesi',
     'kanun maddesi arama',

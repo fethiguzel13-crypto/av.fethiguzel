@@ -309,7 +309,8 @@ function KanunListPage() {
 
       <p className="mt-6 text-[12.5px] leading-relaxed text-ink-3">
         Metinler Resmî Gazete'de yayımlanan hâlleriyle uygulamaya gömülüdür; okumak için
-        internet gerekmez. Bağlayıcı metin için mevzuat.gov.tr esastır.
+        internet gerekmez. Bağlayıcı metin için mevzuat.gov.tr esastır. Bu uygulama bir
+        devlet kurumu değildir, hiçbir resmî kurumu temsil etmez.
       </p>
     </div>
   );

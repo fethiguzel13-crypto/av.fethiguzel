@@ -18,8 +18,8 @@
       "id": "asistan",
       "packageId": "com.avfethiguzel.hesap",
       "_packageNote": "Play Console'da bu paket adıyla bir kayıt zaten açılmıştı ('Hukuki Hesap'). Paket adı sonradan DEĞİŞTİRİLEMEZ ama kullanıcıya hiç görünmez; mağaza girişi ve dahili test hazır olduğu için yeni kayıt açmak yerine o kayıt kullanılır. Mağazadaki görünen ad name.tr'dir.",
-      "versionName": "1.2.2",
-      "versionCode": 8,
+      "versionName": "1.2.3",
+      "versionCode": 9,
       "_versionNote": "v6 FG logo entegrasyonu ve web uyumu saglandi.",
       "published": true,
       "name": {

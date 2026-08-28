@@ -5,6 +5,10 @@ import AppNativeChrome from '@/components/AppNativeChrome'
 import GalaxyChrome from '@/components/GalaxyChrome'
 import { PROFILE } from '@/lib/profile'
 import './globals.css'
+import { siteSayilari, tr, yaklasik } from '@/lib/site-stats';
+
+/* Külliyat sayıları tek kaynaktan; SEO metni gövdeyle aynı rakamı söylesin. */
+const N = siteSayilari();
 
 const plusJakarta = Plus_Jakarta_Sans({
   subsets: ['latin', 'latin-ext'],
@@ -50,7 +54,7 @@ export const metadata: Metadata = {
     template: '%s | Av. Fethi Güzel',
   },
   description:
-    'Kanun maddesi arama: 7.800+ madde + akademik şerh, 550+ vatandaş rehberi, günlük içtihat, 30 hesaplama aracı. TBK, TMK, TTK, TCK, HMK, İİK. Ücretsiz hukuk kütüphanesi.',
+    `Kanun maddesi arama: ${yaklasik(N.madde, 100)} madde + akademik şerh, ${yaklasik(N.rehber, 10)} vatandaş rehberi, günlük içtihat, 33 hesaplama aracı. TBK, TMK, TTK, TCK, HMK, İİK. Ücretsiz hukuk kütüphanesi.`,
   keywords: [
     'Fethi Güzel',
     'Avukat Fethi Güzel',
@@ -94,7 +98,7 @@ export const metadata: Metadata = {
     siteName: 'Av. Fethi Güzel Hukuk Portalı',
     title: 'Av. Fethi Güzel | Mevzuat, Akademik Şerh & Hukuki Hesaplama',
     description:
-      '7.800+ madde şerhi, günlük içtihat ve hukuki hesaplama araçları. Açık erişimli dijital hukuk arşivi.',
+      `${yaklasik(N.madde, 100)} madde metni, günlük içtihat ve hukuki hesaplama araçları. Açık erişimli dijital hukuk arşivi.`,
     images: [
       {
         url: '/images/av-fethi-guzel-og.jpg',
@@ -114,7 +118,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Av. Fethi Güzel | Mevzuat & Akademik Şerh',
     description:
-      '7.800+ kanun maddesi, akademik şerhler, günlük içtihat, hesaplama araçları. Ücretsiz dijital hukuk kütüphanesi.',
+      `${yaklasik(N.madde, 100)} kanun maddesi, akademik şerhler, günlük içtihat, hesaplama araçları. Ücretsiz dijital hukuk kütüphanesi.`,
     images: ['/images/av-fethi-guzel-og.jpg'],
     site: '@avfethiguzel',
     creator: '@avfethiguzel',
@@ -228,7 +232,7 @@ const websiteSchema = {
   url: siteUrl,
   inLanguage: 'tr-TR',
   description:
-    'Açık erişimli dijital hukuk kütüphanesi: 7.800+ kanun maddesi, akademik şerhler, günlük içtihat ve hukuki hesaplama araçları.',
+    `Açık erişimli dijital hukuk kütüphanesi: ${yaklasik(N.madde, 100)} kanun maddesi, akademik şerhler, günlük içtihat ve hukuki hesaplama araçları.`,
   publisher: { '@id': `${siteUrl}/#person` },
   about: { '@id': `${siteUrl}/#organization` },
   potentialAction: {

@@ -1,7 +1,6 @@
 "use client";
 
 import React from "react";
-// @ts-expect-error — .mjs ortak kaynak; tip bildirimi yok
 import { FG_PATH, FG_TRANSFORM, DISK_R } from "@/lib/marka-fg.mjs";
 
 /**

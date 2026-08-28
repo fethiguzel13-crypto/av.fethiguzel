@@ -1,5 +1,4 @@
 import React from 'react';
-// @ts-expect-error — .mjs kaynak; tip bildirimi yok, vite çözüyor
 import { FG_PATH, FG_TRANSFORM, DISK_R } from '@/lib/marka-fg.mjs';
 
 /**

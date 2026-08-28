@@ -51,21 +51,55 @@ export function readGenerated(root) {
 }
 
 /**
- * Yayınlanabilir rehberler: rewritten > authored > denetimden geçen üretilmiş.
+ * Yayınlanabilir rehberler: rewritten > authored > üretilmiş.
+ *
+ * ─── Kalite kapısı hangi kovaya uygulanır ──────────────────────────────────
+ *
+ * `authored` ELLE yazılmıştır; insanın yazdığı metin denetimden muaftır.
+ *
+ * `rewritten` ise MAKİNE çıktısıdır (bkz. scripts/rewrite-vatandas-gemini.mjs)
+ * ve bir dönem yanlışlıkla elle yazılmış gibi muaf tutuluyordu. Ölçüldü: 579
+ * yeniden yazılmış rehberin 23'ü projenin kendi kapısından geçmiyor —
+ * «thin», yani yeterli derinlikte değil. O 23 rehber yine de canlıda
+ * yayınlanıyordu.
+ *
+ * Bu, projenin 2 numaralı ilkesiyle çelişiyordu: doğrulanmamış içerik
+ * yayınlanmaz. Üstelik sayaçlar da onları sayıyor, yani site 570'ten fazla
+ * rehber olduğunu söylerken 23'ü eşiğin altındaydı — mağaza metnine de aynı
+ * sayı geçiyor.
+ *
+ * Artık makine çıktısının üç kovası da aynı kapıdan geçer. Elenen rehber
+ * silinmez; yalnız yayından ve sayaçtan düşer, derinleştirilince geri gelir.
+ *
  * @returns {{ published: any[], authored: any[], rewritten: any[], withdrawn: number }}
  */
 export function readPublished(root) {
-  const rewritten = readRewritten(root);
-  const rewrittenSlugs = new Set(rewritten.map((a) => a.slug));
-  const authored = readAuthored(root).filter((a) => !rewrittenSlugs.has(a.slug));
-  const taken = new Set([...rewrittenSlugs, ...authored.map((a) => a.slug)]);
+  /*
+    ─── Öncelik sırası: ELLE YAZILAN > yeniden yazılan > üretilen ───────────
+
+    Sıra bir dönem tersti: `rewritten` önce alınıyor, `authored` ise aynı
+    slug'a sahipse ELENİYORDU. Sonuç, elle yazılmış 33 rehberin — kıdem
+    tazminatı, boşanma davası, işe iade, miras paylaşımı gibi en çok okunan
+    başlıkların — TAMAMININ makine çıktısıyla ezilmesiydi. Depodaki
+    `authored-guides` testi bunu yakalıyordu ve kırmızı duruyordu.
+
+    İnsanın yazdığı metin her zaman kazanır; makine sürümü yalnız insan
+    yazmadığı yerde devreye girer.
+  */
+  const authored = readAuthored(root);
+  const authoredSlugs = new Set(authored.map((a) => a.slug));
+
+  const rewrittenHam = readRewritten(root).filter((a) => !authoredSlugs.has(a.slug));
+  const rewritten = rewrittenHam.filter((a) => auditGuide(a).publishable);
+
+  const taken = new Set([...authoredSlugs, ...rewrittenHam.map((a) => a.slug)]);
   const generated = readGenerated(root).filter((a) => !taken.has(a.slug));
   const kept = generated.filter((a) => auditGuide(a).publishable);
 
   return {
-    published: [...rewritten, ...authored, ...kept],
+    published: [...authored, ...rewritten, ...kept],
     authored,
     rewritten,
-    withdrawn: generated.length - kept.length,
+    withdrawn: rewrittenHam.length - rewritten.length + (generated.length - kept.length),
   };
 }

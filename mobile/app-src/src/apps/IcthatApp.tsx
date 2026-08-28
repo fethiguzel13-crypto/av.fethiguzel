@@ -177,13 +177,32 @@ function TodayPage() {
   const { daily, refreshing, refresh } = useDaily();
   const [seen, setSeen] = usePersisted<string[]>(KEYS.lastSeenIcthat, []);
 
+  /*
+    Aynı kayıt iki kez gelebiliyor.
+
+    Günlük tarama Resmî Gazete başlıklarını bazen yineliyor; örneğin
+    «T.C. Merkez Bankasınca Belirlenen Döviz Kurları» aynı kimlikle iki kez
+    giriyor. Sonuç iki yönlü: ekranda aynı kart art arda çıkıyor ve React
+    yinelenen anahtar uyarısı basıyor.
+
+    Süzgeç OKUMA tarafında durur, çünkü taramanın ne üreteceğine
+    güvenilemez; aynı kimlik zaten aynı kayıt demektir. Sitede de aynı
+    süzgeç var (components/IcthatList.tsx → tekille) — iki yüzey aynı
+    daily.json'u okuduğu için ikisinde de gerekli.
+  */
   const groups = useMemo(() => {
     if (!daily) return [];
-    return SOURCE_ORDER.map((key) => ({
-      key,
-      label: SOURCE_LABEL[key] ?? key,
-      items: daily.items?.[key] ?? [],
-    })).filter((g) => g.items.length > 0);
+    return SOURCE_ORDER.map((key) => {
+      const gorulen = new Set<string>();
+      const items = (daily.items?.[key] ?? []).filter((it) => {
+        const k = String(it.id ?? '');
+        if (!k) return true;
+        if (gorulen.has(k)) return false;
+        gorulen.add(k);
+        return true;
+      });
+      return { key, label: SOURCE_LABEL[key] ?? key, items };
+    }).filter((g) => g.items.length > 0);
   }, [daily]);
 
   useEffect(() => {

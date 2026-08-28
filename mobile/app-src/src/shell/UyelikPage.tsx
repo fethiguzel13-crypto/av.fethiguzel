@@ -248,7 +248,8 @@ export default function UyelikPage() {
       <p className="mt-6 text-[12.5px] leading-relaxed text-ink-3">
         Karar metinleri karararama.yargitay.gov.tr kaynağından derlenmiştir. Üyelik, metinlerin
         cihazınızda derlenmiş ve aranabilir hâlde sunulması hizmetini kapsar; kararların kendisi
-        kamuya açık belgelerdir. Bilgilendirme amaçlıdır, hukuki tavsiye yerine geçmez.
+        kamuya açık belgelerdir. Bilgilendirme amaçlıdır, hukuki tavsiye yerine geçmez. Bu
+        uygulama bir devlet kurumu değildir, hiçbir resmî kurumu temsil etmez.
       </p>
     </div>
   );

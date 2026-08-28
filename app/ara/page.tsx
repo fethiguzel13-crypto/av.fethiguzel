@@ -5,6 +5,10 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import MevzuatSearch from '@/components/MevzuatSearch';
 import AraExactRedirect from '@/components/AraExactRedirect';
+import { siteSayilari, tr, yaklasik } from '@/lib/site-stats';
+
+/* Külliyat sayıları tek kaynaktan; SEO metni gövdeyle aynı rakamı söylesin. */
+const N = siteSayilari();
 
 export const dynamic = 'force-static';
 
@@ -14,7 +18,7 @@ export const metadata: Metadata = {
     absolute: 'Kanun Maddesi Arama — 7800+ Madde, Şerh, Hesaplama | Av. Fethi Güzel',
   },
   description:
-    'Kanun maddesi arama: TBK 13, TMK, TCK, HMK, İİK… 7.800+ madde metni + akademik şerh. Av. Fethi Güzel Hukuk Portalı.',
+    `Kanun maddesi arama: TBK 13, TMK, TCK, HMK, İİK… ${yaklasik(N.madde, 100)} madde metni + akademik şerh. Av. Fethi Güzel Hukuk Portalı.`,
   keywords: [
     'kanun maddesi arama',
     'kanun maddesi',
