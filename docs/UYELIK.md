@@ -21,6 +21,22 @@ Bu tutar avukatlık ücreti değildir.
 
 Yerelde yönetim anahtarı yoksa `dev-admin` geçerlidir.
 
+### Vercel’de zorunlu kurulum
+
+Kayıt/giriş `503` + «Oturum anahtarı tanımlı değil» (veya `MISSING_SESSION_SECRET`)
+dönerse Production’da `UYELIK_SESSION_SECRET` yoktur.
+
+1. [Vercel Dashboard](https://vercel.com) → proje → **Settings** → **Environment Variables**
+2. `UYELIK_SESSION_SECRET` = en az 16 karakter rastgele (ör. `openssl rand -base64 32`)
+3. `UYELIK_ADMIN_SECRET` = ayrı bir rastgele anahtar (yönetim paneli)
+4. `UPSTASH_REDIS_REST_URL` + `UPSTASH_REDIS_REST_TOKEN` (yoksa üye kaydı instance
+   belleklerinde kaybolur)
+5. Ödeme için ya havale (`UYELIK_IBAN` …) ya da Iyzico anahtarları
+6. Environment: **Production** (ve istersen Preview) → **Save** → **Deployments** →
+   son production deploy’da **Redeploy** (env değişince yeniden deploy şart)
+
+Yerel şablon (git’e girmez): `.env.uyelik.production`
+
 ## Havale onayı
 
 1. Üye `/uyelik/odeme` üzerinden referans alır (`FG…`).
