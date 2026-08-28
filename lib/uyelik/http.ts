@@ -40,7 +40,17 @@ async function isAdmin(req: Request): Promise<boolean> {
 
 async function needSecret(): Promise<NextResponse | null> {
     if (process.env.NODE_ENV === 'production' && !hasSessionSecret()) {
-        return json({ ok: false, error: 'Oturum anahtarı tanımlı değil.' }, 503);
+        // Vercel Environment Variables: UYELIK_SESSION_SECRET (≥16 karakter).
+        // Eksikse kayıt/giriş bilinçli olarak kapanır; sahte oturum üretilmez.
+        return json(
+            {
+                ok: false,
+                error:
+                    'Üyelik şu an açılamıyor: sunucuda oturum anahtarı (UYELIK_SESSION_SECRET) tanımlı değil. Site yöneticisinin Vercel ortam değişkenlerine eklemesi gerekir.',
+                code: 'MISSING_SESSION_SECRET',
+            },
+            503
+        );
     }
     return null;
 }
