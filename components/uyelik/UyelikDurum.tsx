@@ -61,7 +61,7 @@ export default function UyelikDurum() {
                 {ben.member
                     ? `Açık — ${user.membershipUntil ? new Date(user.membershipUntil).toLocaleDateString('tr-TR') : ''}`
                     : user.durum === 'pending'
-                        ? `Havale bekleniyor (${user.pendingRef})`
+                        ? `Ödeme bekleniyor (${user.pendingRef})`
                         : 'Kapalı'}
             </p>
             <div className="flex flex-wrap gap-3 pt-2">

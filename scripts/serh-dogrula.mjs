@@ -171,7 +171,7 @@ function denetle(no) {
 }
 
 const hedefler = maddeArg
-  ? [Number(maddeArg)]
+  ? [/^\d+$/.test(maddeArg) ? Number(maddeArg) : maddeArg]
   : [...gecerliMaddeler].sort((a, b) => a - b);
 
 let temiz = 0;

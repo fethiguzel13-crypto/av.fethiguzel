@@ -3,10 +3,15 @@ title: "İcra ve İflas Kanunu Madde 364"
 kanun: "İcra ve İflas Kanunu"
 maddeNo: 364
 commentaryStatus: "completed"
-lastReviewed: "2026-07-20"
-wordCount: 4263
+lastReviewed: "2026-09-06"
+wordCount: 1896
+keywords:
+  - "temyiz"
+  - "kesinlik sınırı"
+  - "yeniden değerleme"
+  - "iki hafta"
+  - "satışın durması"
 ---
-
 
 **Temyiz yoluna başvurma ve incelenmesi**
 
@@ -26,48 +31,138 @@ Temyiz yoluna başvurma, satıştan başka icra işlemlerini durdurmaz.
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
-**İcra ve İflas Kanunu’nun 364. maddesi; Bölge Adliye Mahkemesi (BAM) hukuk dairelerince takip hukuku alanında verilen nihai kararların Yargıtay nezdinde denetlenmesini (temyiz kanun yolunu) tanzim eden; temyiz kabiliyeti olan kararların tespiti için parasal ve usuli sınırlar koyan; kötü niyetli temyiz başvurularını yaptırıma bağlayarak cebri icrada dürüstlük kuralını koruyan; istinafta olduğu gibi temyiz başvurusunun da satış dışında kalan icra takip işlemlerini durdurmayacağını ilan eden emredici ve kamu düzenine ilişkin bir usul ve denetim normudur.**
 
-Madde, Kanun’un "Kanun Yollarına Başvurma ve Son Maddeler" başlıklı On Sekizinci Babında, istinaf kanun yolunu tanzim eden m. 363 hükmünün hemen ardından, üç yüz altmış dördüncü sırada konumlandırılmıştır. Bu sistematik yerleşim; kanun koyucunun icra mahkemelerinin ilk derece niteliğindeki denetimlerini ve BAM dairelerinin ikinci derece istinaf incelemelerini kurduktan hemen sonra, Türk takip hukukunun yeknesaklığını, hukuki belirliliğini ve içtihat bütünlüğünü sağlamak amacıyla en üst yargısal denetim mercii olan Yargıtay'ın (temyiz dairesinin) inceleme sınırlarını (m. 364 dairesinde) saptama iradesinin doğrudan bir sonucudur. Maddenin üç fıkradan oluşan kurgusu; birinci fıkrada temyize tabi kararları parasal bir sınır eşliğinde belirlemekte, ikinci fıkrada temyiz süresini tebliğden itibaren iki hafta olarak tanzim edip HMK usulüne ve kötü niyet yaptırımlarına yollama yapmakta, üçüncü fıkrada ise temyiz başvurusunun icra işlemlerini durdurma derecesini sınırlamaktadır.
+Üç yüz altmış dördüncü madde, icra mahkemesi kararının bölge adliye mahkemesinden sonra Yargıtay'a çıkıp çıkamayacağını yazar. On Sekizinci Bap'ta 363. maddenin istinaf kapısının hemen ardından durur. 365. madde süresiz ve imkânsız istinafı süzer, 366. madde incelemeyi eski HUMK lafzına bağlar. 364. madde ise temyiz kapısını, süreyi, HMK'ya yapılan yollamayı ve satış dışındaki işlemlerin yürümeye devam edeceğini tek hükümde toplar.
 
-Öğretide genel kabul gören görüşe göre, m. 364 hükümleri, takip hukukundaki "hız ve kesinlik" ihtiyacı ile "adil yargılanma" güvenceleri arasındaki nihai dengedir. BAM dairelerinin her kararına karşı temyiz yolunun açık olması, icra dosyalarının yıllarca Yargıtay arşivlerinde bloke edilmesine ve alacaklının mülkiyet hakkına kavuşmasının fahiş düzeyde gecikmesine yol açacaktır. Bu nedenle yasa koyucu, m. 364 ile sadece belirli bir iktisadi ağırlığı (belirlenen parasal sınırı) aşan nihai kararların temyiz edilebileceğini öngörerek Yargıtay'ın iş yükünü hafifletmiş ve takipleri hızlandırmıştır. Ayrıca temyizin de satışı durdurup diğer işlemleri durdurmaması esası, borçlunun zaman kazanmak amacıyla temyiz yolunu kötüye kullanmasını önleyen en güçlü yasal bariyerdir.
+*Ratio legis* iki menfaati aynı terazide tutar. Takip çabuk bitsin; buna karşılık belirli bir iktisadi ağırlığı aşan nihai karar Yargıtay denetimine açılsın. Her BAM kararının temyizi, icra dosyasını yıllarca üçüncü derecede kilitler. Kanun koyucu bu yüzden parasal bir eşik koydu, süreyi kısa tuttu ve temyizin satıştan başka işlemi kendiliğinden durdurmadığını üçüncü fıkrada ilan etti.
+
+Madde, 2/3/2005 tarihli ve 5311 sayılı Kanun'un 25. maddesiyle bugünkü iskeletine kavuştu. İlk eşik on bin liraydı. 6763 sayılı Kanun 2016'da kırk bin, 7165 sayılı Kanun 2019'da elli sekiz bin sekiz yüz yazdı. Lafız hâlâ bu son rakamı taşır. 2004 sayılı Kanun'un ek 1 inci maddesi, 364. maddedeki parasal sınırın 213 sayılı Vergi Usul Kanunu'nun mükerrer 298 inci maddesine göre her yıl yeniden değerleme oranında artacağını ve uygulanacak miktarın hükmün verildiği tarihteki tutar olacağını söyler. 2/3/2024 tarihli ve 7499 sayılı Kanun'un 3. maddesi ikinci cümleyi değiştirdi: süre tebliğden itibaren iki haftadır, başvurma ve inceleme HMK'ya göredir, 363. maddenin ikinci ve üçüncü fıkraları burada da işler.
+
+Kuru, *İcra ve İflas Hukuku* eserinde hükmü, icra mahkemesi kararlarının üçüncü derece denetimini miktar eşiğine bağlayan özel kapı olarak okur. Pekcanıtez/Atalay/Sungurtekin Özkan, *İcra ve İflas Hukuku* çalışmasında eşiğin karar tarihindeki değerleme tutarıyla okunacağını ve temyizin satış dışını durdurmayacağını aynı fıkranın pratik yüzü sayar. Yılmaz, *İcra ve İflas Hukuku* eserinde iki haftalık süreyi hak düşürücü görür. Uyar, *İcra ve İflas Kanunu Şerhi* eserinde üçüncü fıkrayı, tehiri icra kararı alınmadan haciz ve ödemenin yürüyeceği uyarısı olarak işler.
+
+İç mimari üç katlıdır. Birinci fıkra hangi BAM nihai kararının temyiz edileceğini miktar veya değer ile çizer. İkinci fıkra süreyi, HMK usulünü ve 363. maddedeki kötüniyet yaptırımını taşır. Üçüncü fıkra temyiz dilekçesinin satıştan başka icra işlemini durdurmadığını yazar.
 
 #### 2. Maddedeki Kavramların Analizi
-Madde metninde yer alan ve temyiz inceleme rejimini şekillendiren temel yasal kavramların analizi şu şekildedir:
-* **Bölge Adliye Mahkemesi Hukuk Dairelerinin Nihai Kararları:** İcra mahkemesi kararlarına karşı yapılan istinaf başvuruları neticesinde, BAM hukuk dairelerince uyuşmazlığın esası hakkında veya usuli eksiklikler nedeniyle verilen ve o derece yargılamasını sonlandıran kararlardır.
-* **Temyiz Parasal Sınırı:** Bir BAM kararının Yargıtay tarafından incelenebilmesi için uyuşmazlığın konusu olan alacak, hak veya malın sahip olması gereken asgari parasal değerdir. Kanunda elli sekiz bin sekiz yüz Türk lirası olarak yazılı olan bu sınır, her yıl yeniden değerleme oranında güncellenmektedir.
-* **İki Haftalık Temyiz Süresi:** BAM hukuk dairesi kararının taraflara usulüne uygun şekilde tebliğ edildiği tarihten itibaren işlemeye başlayan, hak düşürücü nitelikteki yasal kanun yoluna başvuru süresidir.
-* **HMK Hükümlerine Göre Yapılma:** Temyiz dilekçesinin içeriği, sunuluş şekli, temyiz harç ve giderleri, temyiz sebeplerinin sunulması ve Yargıtay'ın bozma veya onama kararlarının usuli sonuçları yönünden 6100 sayılı Hukuk Muhakemeleri Kanunu’nun 361-373. maddelerine yapılan bütünsel atıftır.
-* **Temyiz Yolunun Satıştan Başka İcra İşlemlerini Durdurmaması:** Temyiz dilekçesinin verilmiş olmasının, takip dosyasındaki haciz, muhafaza, para aktarımı gibi işlemleri fiilen engellemeyeceği; ancak ihale ve mülkiyet nakli (satış) adımlarını Yargıtay kararı gelene kadar yasa gereği zorunlu olarak durduracağı yönündeki emredici takip nizamıdır.
+
+##### 2.1. BAM hukuk dairelerinin nihai kararları
+
+Temyiz, icra mahkemesinin ilk kararını değil, bölge adliye mahkemesi hukuk dairesinin nihai kararını hedefler. Şikâyet, borca itiraz, rehin açığı belgesi ve benzeri icra uyuşmazlıklarında istinaf mercii hüküm kurmuşsa kapı 364. maddeden açılır. Ara kararlar bu fıkranın konusu değildir.
+
+##### 2.2. Lafızdaki elli sekiz bin sekiz yüz ile uygulanan eşik
+
+Kanun metni 58.800 TL yazar. Uygulayıcı bu rakamı 2019'daki donmuş lafız olarak okur. Ek 1 inci madde, VUK mükerrer 298 inci maddedeki yeniden değerleme oranını her yıl bu eşiğe taşır ve hükmün verildiği tarihteki miktarı esas alır. Hukuk Genel Kurulu 2023 direnmelerinde eşiği 238.730 TL, 30 Mayıs 2024 direnmesinde 378.290 TL okudu. Lafız ile uygulama bu yüzden iki ayrı satırdır. Dilekçede 58.800 yazmak, 2024 dosyasında kapıyı açmaz.
+
+"Hükmün verildiği tarih", BAM'ın Özel Daire bozmasına karşı verdiği direnme kararının tarihidir. Takip tarihi, istinaf tarihi veya ilk derece tarihi eşiği kaydırmaz.
+
+##### 2.3. Uyuşmazlığın değeri
+
+Eşik, bono kâğıdındaki yüz değerle değil, takip talebindeki asıl alacakla veya karara konu edilen ihtilaflı tutarla ölçülür. İki milyon liralık bona dayanıp talebi 151.122 TL olan dosyada Kurul, 151.122 TL'yi esas aldı. Rehin açığı belgesindeki fazla faiz 231.758 TL ise ölçü bu faizdir. İnkâr tazminatı asıl alacağa eklenerek eşiği yükseltmez; 228.000 TL asıl alacak, 45.554 TL tazminatla toplanmaz.
+
+##### 2.4. İki haftalık süre ve HMK usulü
+
+7499 sayılı Kanun'dan sonra süre tebliğden itibaren iki haftadır ve hak düşürücüdür. Başvurma ve inceleme HMK hükümlerine göre yapılır. Miktar eşiğinin altında kalan temyiz, 364. maddenin birinci ve ikinci fıkraları ile HMK m. 366'nın göndermesiyle uygulanan HMK m. 352 uyarınca miktardan reddedilir. HMK m. 366, İİK m. 366 değildir: ikincisi HUMK lafzını taşıyan inceleme köprüsüdür, birincisi temyiz usulüdür.
+
+##### 2.5. Satıştan başka işlemlerin yürümesi
+
+Üçüncü fıkra, temyiz dilekçesini genel durdurma sanan borçluyu keser. Satış durur; haciz, muhafaza, maaş kesintisi ve paranın alacaklıya ödenmesi yürüür. Satış dışını durdurmak isteyen, 36. maddedeki icranın geri bırakılması kararını ve teminatı ayrıca alır.
 
 #### 3. Sistematik İlişkiler
-İcra ve İflas Kanunu m. 364 hükümleri, anayasal düzeyde hak arama hürriyeti ve adil yargılanma hakkını tanzim eden **Anayasa m. 36**, mülkiyet hakkını koruyan **Anayasa m. 35**, mahkeme kararlarının geciktirilmeksizin yerine getirilmesini emreden **Anayasa m. 138/son** ile hukuk devleti ve mahkemelerin bağımsızlığı ilkelerini vadeden **Anayasa m. 2** ile doğrudan dikey ilişki içerisindedir. BAM kararlarının Yargıtay denetimine tabi kılınması ve bu sürecin mülkiyetin cebren tasfiyesini durdurup durdurmaması sınırları, anayasal "hak arama hürriyeti" ile "etkin icra ve mülkiyet hakkı" ilkeleri arasındaki dikey anayasal dengenin en üst düzeydeki yansımasıdır.
 
-Kanun içi sistematiğinde ise; icra mahkemesi kararlarına karşı istinafı tanzim eden **İİK m. 363**, icranın geri bırakılmasını (tehiri icrayı) kuran **İİK m. 36**, ihalenin feshini düzenleyen **İİK m. 134** ile icra mahkemesi kararlarının genel niteliklerini kuran **İİK m. 4 ve m. 16** hükümleriyle sarmal ve bölünmez bir bütünlük sergiler. m. 364, Kanun'un tamamında yer alan cebri icra ve iflas süreçlerinin yargısal denetim halkasındaki nihai ve en üst kapatıcı normudur.
+- **İİK m. 16** — Şikâyet kararı istinafa, oradan 364. maddeye çıkar.
+- **İİK m. 36** — Temyiz satış dışını durdurmaz; durdurma bu maddedeki tehiri icra ve teminatla gelir.
+- **İİK m. 40** — Bozma veya kaldırma sonrası iade, 366. maddenin kıyasen göndermesiyle buraya bağlanır.
+- **İİK m. 134** — İhalenin feshi, 363. maddedeki istinaf kapısından sonra 364. maddenin temyiz eşiğine takılır.
+- **İİK m. 363** — İstinafın kardeş hükmüdür. 364/2, 363. maddenin ikinci ve üçüncü fıkralarını temyize taşır.
+- **İİK m. 365** — Süresinde olmayan veya imkânsız istinafı süzer. 364. madde bu süzgeçten geçmiş dosyanın üçüncü derece kapısıdır.
+- **İİK m. 366** — İncelemeyi HUMK lafzına bağlar; HMK m. 447/2 köprüdür. 364/2 ise temyizi doğrudan HMK'ya yollar.
+- **HMK m. 352** — Miktardan ret burada analog uygulanır.
+- **HMK m. 366** — 364/2'nin gönderme yaptığı temyiz usulüdür.
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: İİK m. 364 hükümleri, genel temyiz sebeplerini ve usullerini tanzim eden **6100 sayılı Hukuk Muhakemeleri Kanunu’nun 361-373. maddeleri**, kötü niyetli başvuruların yaptırımlarını belirleyen **HMK m. 329 (mülga HUMK m. 422)**, dürüstlük kuralını kuran **4721 sayılı Türk Medeni Kanunu’nun 2. maddesi** ile mülkiyet hakkının korunmasına ilişkin genel borçlar hukuku hükümleriyle doğrudan yatay, tamamlayıcı ve etkileşimli bir ilişki içerisindedir. Temyiz dilekçesinin şekli sıhhati ve harç nizamı HMK dairesinde, takibin durdurulması ve satış engelleri ise İİK kurallarının yatay paralelliğinde çözümlenir.
+#### 4. Uygulama: Yargıtay İçtihadı
 
-#### 4. Uygulama: Yargı İçtihadı
-**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
+Aşağıdaki künyeler yerel arşivden birebir alınmış, karar metinleri aynı kayıtlardan okunmuştur. 2024 sonbaharındaki üç Hukuk Genel Kurulu kararı aynı eşiği üç tabloda çalıştırır. Şerh onları ayrı *ratio* diye şişirmez; ölçü, tarih ve taraf ayrımını göstermek için yan yana koyar.
+
+**Yargıtay Hukuk Genel Kurulu, E. 2024/741, K. 2024/575, T. 27.11.2024**
+
+Adana'da alacaklı, 2.000.000 TL bedelli bona dayanarak kambiyo haczi başlattı, takip talebinde asıl alacağı 151.122,20 TL yazdı. İcra mahkemesi borca itirazı reddetti. Adana Bölge Adliye Mahkemesi 10. Hukuk Dairesi istinafı kısmen kabul edip teminat senedi iddiasını reddetti, borca itirazı kabul ederek takibi durdurdu. 12. Hukuk Dairesi bozdu, merci 30 Mayıs 2024'te direndi. Alacaklı temyiz etti.
+
+Kurul işin esasına girmeden eşiği ön sorun yaptı. 2004 sayılı Kanun'un ek 1 inci maddesi, 364. maddedeki parasal sınırın VUK mükerrer 298 inci maddeye göre artacağını ve hükmün verildiği tarihteki miktarın esas alınacağını yazar. 30 Mayıs 2024'te eşik 378.290 TL idi. Uyuşmazlığın değeri bono yüzü değil, takip talebindeki 151.122,20 TL asıl alacaktı. Bu tutar eşiğin altındadır.
+
+Karşı oy, borçlunun teminat senedi iddiası yüzünden bono bedelinin tamamının ölçü sayılması gerektiğini savundu. Çoğunluk bu görüşü almadı. Alacaklının temyizi, 364. maddenin birinci ve ikinci fıkraları ile HMK m. 366'nın göndermesiyle uygulanan HMK m. 352 uyarınca miktardan reddedildi. Karar oyçokluğuyla kesindir.
+
+*Ratio decidendi* üç kilit taşır. Birincisi, lafızdaki 58.800 TL değil, direnme tarihindeki değerleme tutarı okunur. İkincisi, ölçü bono kâğıdı değil asıl alacaktır. Üçüncüsü, teminat senedi savunması yüz değerini eşiğe taşımaz.
+
+**Yargıtay Hukuk Genel Kurulu, E. 2024/282, K. 2024/527, T. 23.10.2024**
+
+İzmir'de rehin açığı belgesi ve kapak hesabı şikâyeti vardı. Bölge adliye mahkemesi 231.758,13 TL fazla faiz yönünden belgenin iptaline karar verdi. 12. Hukuk Dairesi alacaklının istinafını süreden reddetmek gerektiğini söyleyerek bozdu. Merci 7 Temmuz 2023'te direndi, her iki taraf temyiz etti.
+
+7 Temmuz 2023'te eşik 238.730 TL idi ve alacaklı yönünden uyuşmazlık değeri 231.758,13 TL eşiği geçmez. Alacaklının temyizi miktardan reddedildi, borçlunun temyiz itirazları için dosya 12. Hukuk Dairesine gönderildi ve karar oybirliğiyledir.
+
+364. madde burada taraf taraf işler. Bir tarafın temyizi eşiğin altında kalsın diye diğer tarafın temyizi kendiliğinden düşmez. Alacaklı kapıda kalır, borçlunun incelemesi daireye gider.
+
+**Yargıtay Hukuk Genel Kurulu, E. 2024/522, K. 2024/439, T. 18.09.2024**
+
+Antalya'da kambiyo takibinde borca itiraz vardı. Bölge adliye mahkemesi 28 Aralık 2023'te direnerek itirazı reddetti ve asıl alacağın yüzde yirmisi olan 45.554 TL inkâr tazminatına hükmetti. Asıl alacak 228.000 TL idi. Borçlu temyiz etti.
+
+28 Aralık 2023'te eşik yine 238.730 TL idi. Kurul, uyuşmazlığa konu asıl alacak 228.000 TL diye okudu ve tazminatı eşiğe eklemedi. 228.000 TL 238.730 TL'nin altındadır; 45.554 TL eklenseydi kapı açılabilirdi. Borçlunun temyizi miktardan reddedildi, oybirliğiyle.
+
+Kararın 364. maddeye kattığı cümle şudur: inkâr tazminatı, asıl alacağı eşiğin üzerine çıkarmak için toplanmaz. Ölçü asıl alacaktır.
 
 #### 5. Pratik Örnek Olaylar
-* **(kurmaca senaryo) 1 (Temyiz Parasal Sınırının Altında Kalan BAM Kararına Karşı Başvuru):** Alacaklı A, borçlu B hakkında 70.000 TL değerindeki alacak için takip başlatmıştır. İcra mahkemesi kararına karşı yapılan istinaf başvurusu neticesinde BAM Hukuk Dairesi esastan karar vermiştir. Karar tarihinde temyiz parasal sınırı yeniden değerleme oranları dairesinde yasal olarak 120.000 TL'ye yükselmiştir. Alacaklı A, bu karara karşı Yargıtay nezdinde temyiz yoluna başvurmuştur. Analizde; karar tarihindeki m. 364 parasal sınırının 120.000 TL olduğu, uyuşmazlık konusu alacağın (70.000 TL) bu sınırın altında kaldığı, dolayısıyla kararın kesin nitelikte olduğu saptanmış ve temyiz talebinin usulden reddi gerektiği doğrulanmıştır.
-* **(kurmaca senaryo) 2 (Temyiz Başvurusunun Maaş Haczini Durdurmaması):** Borçlu C, aleyhindeki BAM nihai kararını iki haftalık yasal sürede temyiz etmiştir. Ancak temyiz başvurusu sırasında tehiri icra (icranın geri bırakılması) kararı almamıştır. Borçlu C, temyiz dilekçesini icra dairesine sunarak maaş haczinin durdurulmasını talep etmiştir. Analizde; m. 364/3 uyarınca "Temyiz yoluna başvurma, satıştan başka icra işlemlerini durdurmaz" kuralının cari olduğu, maaş haczinin bir "satış" işlemi olmadığı, dolayısıyla temyiz başvurusunun tek başına maaş haczini durduramayacağı ve borçlunun m. 36 dairesinde teminat sunup Yargıtay'dan tehiri icra kararı getirmesi gerektiği saptanmıştır.
-* **(kurmaca senaryo) 3 (Sırf Zaman Kazanmak Amacıyla Yapılan Kötü Niyetli Temyiz):** Borçlu D, tamamen haklı ve belgelere dayalı olan bir takip dosyasında, borcunu ödememek ve alacaklıyı zarara uğratmak amacıyla kesin nitelikteki bir BAM kararına karşı kötü niyetle temyiz başvurusunda bulunmuştur. Analizde; m. 364/2 yollamasıyla m. 363/2-3 ve HMK m. 329 hükümleri dairesinde, borçlu D'nin bu haksız ve kötü niyetli temyiz başvurusu nedeniyle disiplin para cezasına ve alacaklının uğradığı zararı tazmin etmeye mahkum edilmesi gerektiği doğrulanmıştır.
+
+**Olay 1 (kurmaca senaryo):**
+
+Alacaklı iki milyon liralık bona dayanır, takip talebinde 150.000 TL asıl alacak yazar. BAM 2024'te direnir, alacaklı temyiz eder. Vekil dilekçede 58.800 TL lafzını ve bono yüzünü gösterir.
+
+*Hukuki analiz:* 2024/575 çizgisinde eşik direnme tarihindeki 378.290 TL, ölçü 150.000 TL asıl alacaktır. Lafız ve yüz değer kapıyı açmaz. Temyiz miktardan reddedilir.
+
+**Olay 2 (kurmaca senaryo):**
+
+BAM, rehin açığı belgesindeki 230.000 TL fazla faizi iptal eder. Alacaklı ve borçlu aynı direnmeyi temyiz eder. Eşik o yıl 238.730 TL'dir.
+
+*Hukuki analiz:* 2024/527, alacaklının temyizini miktardan reddeder, borçlunun incelemesini daireye bırakır. Eşik kişi kişi tartılır.
+
+**Olay 3 (kurmaca senaryo):**
+
+BAM itirazı reddedip 45.000 TL inkâr tazminatı yazar, asıl alacak 228.000 TL'dir. Borçlu, tazminatla birlikte 273.000 TL'ye çıktığını söyleyerek temyiz eder.
+
+*Hukuki analiz:* 2024/439 asıl alacağı ölçü alır, tazminatı eklemez. 228.000 TL eşiğin altındadır. Üçüncü fıkra ayrıca, temyiz dilekçesinin maaş haczini durdurmayacağını hatırlatır; durdurma 36. maddeden istenir.
 
 #### 6. Pratik Uygulama Notları
-Uygulamada BAM kararlarına karşı temyiz süreçlerini yöneten hukukçuların ve icra dairelerinin aşağıdaki pratik hususlara dikkat etmesi gerekir:
-* **Karar Tarihindeki Parasal Sınırın Esas Alınması:** Temyiz edilebilirlik sınırının tespitinde, takibin başlatıldığı tarih veya istinaf başvuru tarihi değil, münhasıran **BAM hukuk dairesinin karar verdiği tarih** esas alınır. Yıllık olarak değişen bu sınırların takibi hak kayıplarını önlemek için hayati önem taşır.
-* **İki Haftalık Hak Düşürücü Süre:** İİK m. 364 uyarınca temyiz süresi **tebliğden itibaren iki haftadır**. Bu süre kesindir ve hak düşürücü niteliktedir; süresi geçtikten sonra yapılan başvurular BAM veya Yargıtay tarafından re'sen reddedilir.
-* **Tehiri İcra (İcranın Geri Gelişi) Kararı Alma Zorunluluğu:** Satış dışındaki tüm icra işlemlerinin (haciz, muhafaza, paranın alacaklıya ödenmesi) durdurulabilmesi için, borçlu temyiz dilekçesiyle birlikte mutlaka İİK m. 36 dairesinde **icranın geri bırakılması (tehiri icra) kararı** almak zorundadır. Bunun için icra dairesine borç tutarı kadar teminat mektubu sunulmalı ve Yargıtay'dan karar getirilmesi için mehil vesikası talep edilmelidir.
-* **Satışın Kendiliğinden Durması:** Temyiz başvurusu, satış işlemlerini kendiliğinden durdurduğu için, icra dairesi temyiz dilekçesi dosyaya sunulduğu andan itibaren satış ihalesi sürecini tehiri icra kararı aranmaksızın askıya almak zorundadır.
+
+- **İki satırlı eşik:** Lafız 58.800 TL, uygulama ek 1 inci maddedeki yıl tutarıdır. Dilekçede her iki satır da yazılmalıdır.
+- **Karar tarihi:** Direnme tarihindeki tutar okunur. Takip yılı eşiği taşımaz.
+- **Ölçü:** Takip talebindeki asıl alacak veya karara konu ihtilaflı kalem. Bono yüzü ve inkâr tazminatı eşiği şişirmez.
+- **Taraf taraf ret:** Bir tarafın temyizi miktardan düşse bile diğer tarafın temyizi dairede kalabilir.
+- **HMK göndermesi:** Miktardan ret, HMK m. 366 üzerinden HMK m. 352 ile kurulur. İİK m. 366 bu ret cümlesinin yeri değildir.
+- **Süre:** Tebliğden iki hafta, hak düşürücüdür.
+- **Durma:** Satış durur, diğer işlem yürüür. Haczi ve ödemeyi durdurmak 36. madde işidir.
+- **Yaygın hata:** 58.800 TL lafzına yapışmak, bono yüzünü ölçü sanmak, tazminatı asıl alacaka eklemek, temyiz dilekçesini tehiri icra yerine koymak, HMK m. 366 ile İİK m. 366'yı karıştırmak.
 
 #### 7. Eleştirel Değerlendirme
-İİK m. 364’ün tanzim ettiği "parasal sınır bazlı temyiz ve satış dışı işlemleri durdurmama" rejimi, takip hukukunun sürati ve etkinliği yönünden vazgeçilmez bir mekanizma sunsa da, hak arama hürriyeti ve mülkiyet haklarının korunması ilkeleri yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, temyiz parasal sınırlarının her yıl fahiş şekilde artırılmasının; küçük esnafın, işçilerin veya dar gelirli vatandaşların icra dosyalarındaki hukuki hataları Yargıtay denetimine taşımasını tamamen engellediği, adeta hukuki denetimi sadece yüksek bütçeli davalara hasrederek "eşitlik" (Anayasa m. 10) ve hak arama hürriyeti (Anayasa m. 36) ilkelerini hırpaladığı; ayrıca temyiz başvurusunun paranın alacaklıya ödenmesini (satış dışı işlem olması sebebiyle) kendiliğinden durdurmamasının, Yargıtay'ın bozma kararından önce borçlunun parasının alacaklıya fiilen ödenmesine yol açtığı ve alacaklının parayı harcaması halinde geri almanın imkansızlaştığı, bunun da borçlunun mülkiyet hakkını (Anayasa m. 35) ağır şekilde zedelediği savunulmaktadır.**
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: Takip hızı, adaletin ve hakkaniyetin önüne geçmemelidir. Kanun koyucu, anayasal eşitlik, dürüstlük, idari belirlilik, ölçülülük ve mülkiyet hakkının korunması ilkelerini tam tahkim etmek adına, **m. 364’ü yeniden tanzim ederek; parasal sınırların altında kalsa dahi "ilkesel önem arz eden veya içtihat çelişkisi barındıran" tüm kararlar için Yargıtay'a "özel izinle temyiz" (certiorari) başvuru imkanı tanıyan**; paranın alacaklıya fiilen aktarılması aşamasını Yargıtay kararına kadar kendiliğinden durduran çağdaş, esnek, adil, şeffaf ve tam güvenli bir icra-temyiz reformunu yasal düzeyde hayata geçirmelidir.
+Maddenin isabetli yanı, 2024 serisinde eşiğin nasıl okunacağını üç tabloda göstermesidir. Lafız, yıl tutarı ve uyuşmazlık değeri artık karışmaz. 575 sayılı karar bono yüzünü, 439 sayılı karar inkâr tazminatını, 527 sayılı karar taraf ayrımını kesti. Takip hızı bu sayede üçüncü derecede sahte bir kapıya takılmaz.
+
+Zayıf yan, lafzın 2019'da donmuş olmasıdır. Vatandaş 58.800 okur, 2024'te 378.290 ile karşılaşır. Ek 1 inci madde bu çatlağı kapatır, ne var ki resmi metin hâlâ eski rakamı taşır. Görüşümüzce birinci fıkra, "ek 1 inci maddeye göre her yıl ilan edilen tutar" demelidir. Aksi hâlde 364. madde, okuyanı yanıltan bir müze cümlesi olarak kalır.
+
+Karşı oy 575'te teminat senedi iddiasını yüz değere bağladı. Bizce çoğunluk isabetlidir. Eşik, talep edilen asıl alacağın iktisadi ağırlığını ölçer; savunmanın hukuki niteliği kâğıttaki rakamı eşiğe taşımaz. *De lege ferenda* ölçünün "takip talebindeki asıl alacak" diye fıkraya yazılması, 575'teki oyçokluğunu lafza çevirirdi.
+
+Üçüncü fıkra eleştiriye açıktır zira satış durur ama para alacaklıya çıkar ve bozma geldiğinde iade 40. maddenin kıyasına kalır. Temyiz, mülkiyeti koruyan bir durdurma değildir; 36. maddedeki teminatlı tehiri icra olmadan borçlu, kazandığı temyizi boş kasayla karşılar. Katılmıyoruz: satış dışındaki para çıkışı, en azından temyiz harcı yatırılmış dosyada kısa bir bekletmeye bağlanabilirdi.
 
 ---
 
 ### Metodolojik Not
-Bu şerh çalışması, İcra ve İflas Kanunu’nun 364. maddesinin (tarihi yapısı, Bölge Adliye Mahkemesi hukuk dairelerince verilen nihai icra mahkemesi kararlarına karşı üçüncü derece kanun yolu olan Yargıtay temyiz denetimine başvurabilmenin maddi ve usuli sınırları, yasa koyucu tarafından belirlenen güncel temyiz parasal sınırlarının ve iki haftalık hak düşürücü temyiz süresinin kurucu niteliği, temyiz inceleme usulünün HMK kurallarına tabiiyeti, kötü niyetli temyiz başvurularına karşı uygulanacak disiplin para cezası ve tazminat yaptırımları, temyiz başvurusunun satış dışındaki icra takip işlemlerini kendiliğinden durdurmayacağı kuralının cebri icra takvimindeki yansımaları, bu kuralların anayasal mülkiyet hakkı, adil yargılanma hakkı, hak arama hürriyeti ve hukuk devleti ilkeleriyle olan doğrudan dikey bağlantısı, 6100 sayılı Hukuk Muhakemeleri Kanunu m. 361-373 dairesindeki temyiz usulleri ile HMK m. 329 dairesindeki kötü niyetle kanun yoluna başvurma yaptırımları, İİK m. 16 şikayet, m. 36 tehiri icra, m. 134 ihalenin feshi ve m. 363 istinaf mekanizmaları yatay dengeleri ve bu operasyonel kanun yolu adımlarının takip-ticaret ve kamu hukuku boyutundaki idari-yargısal yansımaları dairesinde) icra ve iflas hukuku (kanun yolları, temyiz kabiliyeti, kesin kararlar ve icranın durdurulması teorileri ile Yargıtay dairelerinin denetim yetkisi sınırları kuralları, m. 1, m. 4, m. 16, m. 36, m. 79, m. 85, m. 103, m. 134, m. 140, m. 263, m. 355, m. 357, m. 358, m. 359, m. 360, m. 361, m. 362, m. 362/a, m. 363 ve m. 365 ilişkileri), ticaret ve borçlar hukuku (şirketlerin ve tacirlerin takip dosyalarındaki temyiz ve tehiri icra süreçlerini bilançolarında takip etme yükümlülükleri, basiretli tacir ödevleri dairesinde TTK ve TBK kuralları), medeni usul ve idare hukuku (BAM kararlarının denetimi, Yargıtay dairelerinin çalışma usulleri, tebligat nizamı, sürelerin hesaplanması dairesinde HMK, Tebligat Kanunu ve idari usul kuralları), borçlar ve kamu hukuku (mülkiyetin cebrî tasfiyesi, dürüstlük kuralı ve hakkın kötüye kullanılması yasağı dairesinde TMK m. 2 ve TBK ilişkileri), ceza hukuku (görevi ihmal ve kötüye kullanma suçları dairesinde TCK kuralları), anayasa hukuku (hukuk devleti, eşitlik ilkesi, adil yargılanma hakkı, mülkiyet hakkının korunması, savunma hakkı ve hak arama hürriyeti ilkeleri) boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk icra ve iflas hukukunun genel kabul gören doktrinel ilkeleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.
+
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin*: Baki Kuru, *İcra ve İflas Hukuku*. Hakan Pekcanıtez / Oğuz Atalay / Meral Sungurtekin Özkan, *İcra ve İflas Hukuku*. Ejder Yılmaz, *İcra ve İflas Hukuku*. Talih Uyar, *İcra ve İflas Kanunu Şerhi*.
+- *Yargıtay kararları*: yerel arşiv künyeleri birebir; 2024 tarihli Hukuk Genel Kurulu temyiz eşiği hattı.
+- *Tarihsel arka plan*: 5311 sayılı Kanun 2005'te iskeleti kurdu, 6763 ve 7165 sayılı Kanunlar lafzı yükseltti, 7499 sayılı Kanun 2024'te süreyi ve HMK yollamasını yazdı. Yıllık tutar ek 1 inci maddeden okunur.
+
+**Yorumun kapsamı**: Çalışma, 2004 sayılı İcra ve İflas Kanunu'nun 7499 sayılı Kanun'la değişik 364. madde metnine dayanır. Lafızdaki 58.800 TL, ek 1 inci maddedeki değerleme tutarıyla birlikte okunur.
+
+**Görüş**: Eşik, direnme tarihindeki yıl tutarı ve takip talebindeki asıl alacakla ölçülür; bono yüzü ve inkâr tazminatı bu ölçüyü şişirmez.
+
+**Güncellik**: **06.09.2026** tarihi itibariyle günceldir. Yeni yıl tutarı veya kanun değişikliği sonrası revize edilebilir.

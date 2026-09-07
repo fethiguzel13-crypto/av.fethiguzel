@@ -3,14 +3,14 @@ title: "TMK Madde 1"
 kanun: "Türk Medeni Kanunu"
 maddeNo: 1
 commentaryStatus: "completed"
-lastReviewed: "2026-05-14"
-wordCount: 4500
+lastReviewed: "2026-09-06"
+wordCount: 2280
 keywords:
   - "hukukun uygulanması"
   - "hâkimin hukuk yaratma yetkisi"
   - "örf adet hukuku"
   - "kanun boşluğu"
-  - "bilimsel görüş ve içtihat"
+  - "seri dava"
 ---
 
 **BAŞLANGIÇ
@@ -26,136 +26,125 @@ Hâkim, karar verirken bilimsel görüşlerden ve yargı kararlarından yararlan
 ---
 
 ### Akademik Yorum ve Analiz
+
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-Türk Medeni Kanunu'nun (TMK) 1. maddesi, kanunun **Başlangıç Hükümleri** kısmında yer alan ve Türk özel hukukunun tamamına yön veren temel bir metodoloji hükmüdür. Madde, yalnızca medeni hukukun değil, **Türk hukuk düzeninin bütünü için bir uygulama rehberi** niteliğindedir; çünkü hâkimin hukuku nasıl bulacağını, kanun boşluğu hâlinde nasıl davranacağını ve hangi yardımcı kaynaklara başvuracağını düzenler.
+Birinci madde, 4721 sayılı Türk Medeni Kanunu'nun Başlangıç Hükümleri'nin kapısını açar. Hâkimin hukuku nerede arayacağını, kanunun suskun kaldığı yerde hangi sırayı izleyeceğini ve yardımcı kaynakların bağlayıcı değil yol gösterici olduğunu burada yazar. Hüküm yalnız medeni hukuk davasına mahsus bir usul cümlesi değildir; özel hukukun tamamında yorumun omurgasıdır.
 
-Düzenlemenin amacı (ratio legis), hukukun uygulanmasını **boşluksuz** bir sistem olarak kurgulamaktır. Hâkimin önüne gelen her uyuşmazlıkta bir karar vermesi zorunluluğu (karar verme yasağına karşı dava reddetme yasağı), kanunda hüküm bulunmayan hâllerde hâkimin kendisinin bir kural koyma yetkisi tanınarak güvence altına alınmıştır. Bu yetki, kanunun pozitif normlarla kapatılamayan boşluklarını yargısal olarak doldurmasını sağlar ve hukukun **canlı bir sistem** olarak işlemesinin temelini oluşturur.
+*Ratio legis* şudur: hâkim önüne gelen uyuşmazlığı karara bağlamak zorunda olup *non liquet* yolu kapalıdır. Kanun her hayat ilişkisini önceden yazamaz; buna karşılık yargıç da kişisel adalet duygusuna sığınıp kanunu bir kenara bırakamaz. Madde bu gerilimi üç katlı bir merdivenle çözer: önce kanun sözüyle ve özüyle uygulanır, kanunda uygulanabilir hüküm yoksa örf ve âdet hukuku aranır, o da yoksa hâkim kendisi kanun koyucu olsaydı koyacağı kurala göre karar verir. Üçüncü fıkra bu merdivenin her basamağında bilimsel görüşlerden ve yargı kararlarından yararlanmayı emreder.
 
-Tarihsel olarak, 4721 sayılı yeni TMK 1 Ocak 2002'de yürürlüğe girmiş ve eski 743 sayılı Türk Kanunu Medenisi'nin 1. maddesinin esaslı içeriğini koruyarak güncel Türkçeye uyarlamıştır. Eski metindeki "kanun mütekellim olduğu meselelerde" gibi arkaik ifadeler "kanun sözüyle ve özüyle" biçiminde sadeleştirilmiş; özdeş bir hukuki rejim sürdürülmüştür.
+4721 sayılı Kanun 1 Ocak 2002'de yürürlüğe girdi ve 743 sayılı eski Türk Kanunu Medenisi'nin birinci maddesinin esasını korudu. Eski metindeki arkaik söyleyiş sadeleşti; kaynak sırası değişmedi. Mehaz, İsviçre Medeni Kanunu'nun birinci maddesidir. Dural/Öğüz, *Türk Özel Hukuku Cilt I* eserinde bu kaynak bağını başlangıç hükümlerinin metodolojik anahtarı olarak okur: Türk hâkimi İsviçre yargıcının kopyası değildir, ne var ki boşluk doldurmanın basamakları aynıdır.
 
-Karşılaştırmalı hukuk perspektifinden bakıldığında, TMK m. 1, kaynak hüküm olan **İsviçre Medeni Kanunu (Schweizerisches Zivilgesetzbuch — ZGB) Art. 1**'in neredeyse birebir tercümesidir. İsviçre kanun koyucusu Eugen Huber tarafından kaleme alınan bu hüküm, modern medeni hukuk kodifikasyonlarının en zarif metodoloji düzenlemelerinden biri olarak kabul edilir. Türk hukukunun İsviçre kaynaklı olması, Madde 1'in yorumlanmasında Türk-İsviçre doktrini arasında derin bir paralellik kurulmasını sağlamış; Dural/Öğüz, *Türk Özel Hukuku Cilt I — Temel Kavramlar ve Medeni Kanunun Başlangıç Hükümleri* eserinde bu kaynak ilişkinin derinlemesine analizini sunar.
-
-Sistematik açıdan Madde 1, kanunun "başlangıç hükümleri" arasında **birinci sırada** yer alarak, hukuk metodolojisinin **anayasası** sıfatını taşır. Maddenin doğru yorumlanması olmaksızın, ne diğer medeni hukuk maddeleri ne de borçlar, ticaret, miras gibi diğer alanlardaki hükümler tutarlı biçimde uygulanabilir. Bu nedenle TMK m. 1, hukuk fakültesi eğitiminin de "metodoloji-giriş" omurgasını oluşturan klasik bir hüküm olagelmiştir.
+Maddenin iç mimarisi üç cümledir. Birinci cümle yorumu, ikinci cümle boşluğu, üçüncü cümle yardımcı kaynakları taşır. Uygulayıcı çoğu dosyada birinci cümlede kalır. İkinci cümle, 21 Haziran 2023'te Hukuk Genel Kurulu'nun seri dava boşluğunu yazdığı dosyalarda olduğu gibi, ancak gerçek bir pozitif boşluk göründüğünde sahneye çıkar.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. "Kanunun Sözüyle ve Özüyle Uygulanması" — Lafzî ve Amaçsal Yorum
+##### 2.1. Kanunun sözü ve özü
 
-Maddenin ilk cümlesi, yargıcın kanunu uygularken hem **lafzına (sözüne)** hem de **amacına (özüne)** dikkat etmesi gerektiğini belirtir. Bu ifade, hukuki yorumun klasik metodolojisinde iki temel yaklaşımın — *lafzî yorum* ve *amaçsal yorum* — birlikte ve dengeli biçimde kullanılması gerektiğini öngörür.
+"Söz", metnin gramer ve sözlük anlamıdır. Hâkim açık bir lafız karşısında önce onu okur. "Öz", kanunun düzenleme amacı ve hukuk düzeninin o hükme yüklediği objektif işlevdir. Madde iki kutbu yan yana koyar; birini diğerine feda etmez.
 
-**Lafzî (literal) yorum**, kanun metninin gramer ve sözlük anlamına göre uygulanmasıdır. Hâkim, kanunun açık ve net olduğu durumlarda bu metne sadık kalır. Ancak modern hukuk anlayışında lafzî yoruma aşırı bağlılık (literalism), kanunun amacından sapan adaletsiz sonuçlar doğurabilir. Bu nedenle "söz" tek başına yeterli değildir.
+Lafız adaletsiz veya sisteme aykırı bir sonuç doğurduğunda öz öne çıkar. Amaçsal yorum, lafzı yok saymak değildir. Lafızdan başlanır, amaca aykırı sonuç belirdiğinde metin daraltılır veya genişletilir. Dural/Öğüz'ün başlangıç eserinde bu denge, kanunun sözüne bağlı kalan fakat amacından kopmayan bir okuma olarak kurulur. Hâkim "ben böyle daha adil buldum" diyemez; öz, kişisel beğeninin değil, kanun koyucunun koruduğu menfaatin adıdır.
 
-**Amaçsal (teleolojik) yorum**, hâkimin kanunun *düzenleme amacını* — yani neyi korumayı, kimin yararını gözetmeyi, hangi sorunu çözmeyi hedeflediğini — esas alarak metni yorumlamasıdır. Doktrindeki hakim görüşe göre, kanunun "özü", yalnızca yasama amacı değil; aynı zamanda hukuk sisteminin bütünüyle uyumlu, *objektif amaç* olarak da anlaşılmalıdır.
+##### 2.2. Kanunda uygulanabilir hüküm yokluğu
 
-Dural/Öğüz'ün başlangıç hükümleri eserinde de vurgulandığı üzere, TMK m. 1'in "söz ve öz" formülü, bu iki yorum metodunun bir bütün olarak kullanılmasını emreder. Hâkim, metnin gramer anlamından başlar; ancak metnin amacına aykırı bir sonuç doğacağı anda **özü** önceler. Bu denge, modern Türk hukuk yorumunda "amaca uygun lafzî yorum" olarak adlandırılır.
+İkinci cümle, uygulanabilir bir hüküm bulunmadığında devreye girer. Doktrin boşluğu üç görünümde ayırır. Hakiki boşluk, kanun koyucunun düzenlemesi gereken fakat hiç düzenlemediği alandır. Görünüşte boşlukta hüküm vardır; uygulama kanunun amacına aykırı düşer ve yorumla düzeltilir. Bilinçli boşlukta kanun koyucu konuyu bile isteye genel bir ölçüye, dürüstlük kuralına veya takdir yetkisine bırakmıştır.
 
-##### 2.2. Kanunda Uygulanabilir Hüküm Yokluğu — Kanun Boşluğu
+Madde 1'in ikinci cümlesi hakiki boşluğu yazar. Görünüşte boşluk birinci cümlenin "öz"üyle, bilinçli boşluk ise ikinci ve dördüncü maddelerdeki genel hükümlerle çözülür. Boşluk teşhisi acele edilirse hukuk yaratma, kanunu aşmanın bahanesi olur. Teşhis gecikirse hâkim, olmayan bir hükmü varmış gibi okur.
 
-Maddenin ikinci öğesi, kanunun **boşluk** içerdiği durumları düzenler. Hâkim, somut olayda uygulanabilir bir kanun hükmü bulamadığında, doğrudan karardan kaçınamaz; **kanunun öngördüğü ikincil kaynaklara** başvurmak zorundadır.
+##### 2.3. Örf ve âdet hukuku
 
-Kanun boşluğu kavramı doktrinde üçe ayrılır:
+Örf ve âdet, uzun süre tekrarlanan ve hukuki bir gereklilik inancıyla yaşanan yazılı olmayan kuraldır. Üç unsur bir arada aranır: süreklilik, hukuki inanç, emredici hükümlere ve genel ahlâka aykırı olmama. Kodifiye bir düzende hakiki örf dar bir alana sıkışır. Ticari hayatta 6102 sayılı Türk Ticaret Kanunu'nun birinci maddesi ticarî örfe ayrıca yer verir; bu, Medeni Kanun'daki genel kapının ticaret özelindeki görünümüdür.
 
-- **Hakiki boşluk (Echte Lücke)**: Kanunun düzenlemesi gereken ancak hiç düzenlemediği bir konu vardır. Örneğin yeni teknolojik gelişmeler nedeniyle ortaya çıkan, kanun yapıldığında öngörülemeyen durumlar.
-- **Görünüşte boşluk (Unechte Lücke)**: Kanunda hüküm vardır, ancak bu hüküm uygulandığında kanunun amacına aykırı veya açıkça adaletsiz sonuç doğurur. Bu durumda hâkim mevcut hükmü amaçsal yorumla daraltarak veya genişleterek uygulayabilir.
-- **Bilinçli (kasıtlı) boşluk**: Kanun koyucu, belirli bir konuyu özellikle hâkimin takdirine bırakmıştır (örneğin dürüstlük kuralı — TMK m. 2 — gibi genel hükümler).
+Hâkim örfü araştırmadan hukuk yaratma basamağına atlayamaz. İkinci cümlenin sırası emredicidir. Örf yoksa veya emredici hükme çarparsa basamak atlanır; yokluk gerekçede görünür kılınmalıdır.
 
-TMK m. 1, **hakiki boşluk** durumunda hâkimin nasıl davranacağını düzenler. Bu durumda hâkim, sırasıyla iki kaynağa başvurur: önce **örf ve âdet hukuku**, sonra (bu da yoksa) **kendisinin koyacağı kural**.
+##### 2.4. Hâkimin hukuk yaratması
 
-##### 2.3. Örf ve Âdet Hukuku
+"Kendisi kanun koyucu olsaydı" formülü, hâkimi küçük bir yasama organı yapmaz. Yarattığı kural somut uyuşmazlık içindir; Resmî Gazete'de yayımlanan soyut bir norm doğmaz. Objektiflik şarttır: kişisel adalet değil, kanun koyucunun o boşluğu görseydi kuracağı ölçü ve hukuk düzeninin bütünü esas alınır.
 
-Örf ve âdet hukuku, belirli bir toplumda sürekli ve genel olarak uygulanan; bu uygulamaya hukuki bir gereklilik duygusunun (*opinio juris*) eklendiği yazılı olmayan kurallar bütünüdür. Türk hukukunda örf ve âdet hukukunun kaynak değer kazanabilmesi için doktrinde geleneksel olarak üç koşul aranır:
+Yetkinin sınırı, gerekçede görünür. Hâkim hangi boşluğu tesbit ettiğini, örfü neden bulamadığını, koyduğu kuralın hangi anayasal ve kanuni değerlerle bağdaştığını yazmak zorundadır. Aksi hâlde yaratma, keyfiliğin süslü adıdır. Dural/Öğüz bu yetkiyi ne mekanik uygulamaya ne de hâkimin kanun yerine geçmesine indirger; orta yerde, gerekçesi denetlenebilir bir yaratıcı yorum olarak bırakır.
 
-1. **Maddi unsur (Süreklilik)**: Aynı davranışın uzun süre, kesintisiz olarak tekrarlanması.
-2. **Manevi unsur (Hukuki gereklilik inancı)**: Bu davranışın hukuki bir zorunluluk olduğuna dair toplumsal inanç.
-3. **Hukuka aykırı olmama**: Örfün, emredici kanun hükümlerine ve genel ahlâka aykırı olmaması.
+##### 2.5. Bilimsel görüşler ve yargı kararları
 
-Akıntürk/Ateş Karaman'ın *Türk Medeni Hukuku — Aile Hukuku* eserinde de vurgulandığı üzere, Türk hukuk uygulamasında doğrudan örf ve âdet hukukuna dayanan kararlar **oldukça nadirdir**; çünkü hukuk düzenimiz büyük ölçüde kodifiye edilmiştir ve gerçek hakiki boşluk az görülür. Bununla birlikte ticari örf-adet (TTK m. 1/2'de özel atıf), kıyı kullanım gelenekleri, bazı miras hukuku uygulamaları gibi alanlarda örf-adet kaynaklığı korunmaktadır.
+Üçüncü fıkra yalnız boşluk basamağına değil maddenin bütününe aittir ve doktrin bağlayıcı kaynak değil yorum yardımcısıdır. Yargı kararları, İçtihadı Birleştirme kararları dışında biçimsel bağlayıcılık taşımaz; buna karşılık Hukuk Genel Kurulu'nun aynı gün, aynı boşlukta verdiği seri fiilen güçlü bir çekim alanı kurar. Hâkim aykırı düşebilir, ne var ki gerekçesi o zaman daha ağır basmalıdır.
 
-##### 2.4. Hâkimin Hukuk Yaratma Yetkisi
-
-Madde 1'in en özgün ve teorik açıdan en zengin öğesi, hâkimin "kendisi kanun koyucu olsaydı nasıl bir kural koyacak idiyse ona göre karar verme" yetkisidir. Bu, Türk hukukunun temel ilkelerinden biri olan **hâkimin sınırlı hukuk yaratma yetkisi** (Richterliche Rechtsfortbildung) ilkesinin pozitif düzenlemesidir.
-
-Hâkim, bu yetkisini kullanırken:
-
-- Kanun koyucu *konumuna* girer; ancak kanun koyucu *değildir*. Yarattığı kural sadece somut olay için geçerlidir, soyut bir norm üretmez.
-- **Objektif olmalıdır**: Kendi kişisel adalet anlayışına değil, kanun koyucunun olası iradesine ve hukuk sisteminin bütünsel mantığına bağlı kalır.
-- Hukukun genel ilkelerini, anayasal değerleri ve ahlâki temelleri göz önünde tutar.
-
-Doktrinde hâkimin hukuk yaratma yetkisi, ne **keyfiliğe** ne de **mekanik bir uygulamaya** indirgenemez. Hâkim, kanunun ruhuyla uyumlu yaratıcı bir yorum yapan ama bu yorumda hukuk düzeninin tamamına sadık kalan bir aktördür. Bu yetkinin sınırlanması, hâkimin keyfî davranamayacağını; ancak gerekçesini sergilemek ve hukukun genel ilkeleriyle uyumlu kararlar vermek zorunda olduğunu içerir.
-
-##### 2.5. Bilimsel Görüş ve Yargı Kararlarından Yararlanma
-
-Maddenin üçüncü cümlesi, hâkimin karar verirken **bilimsel görüşlerden** (doktrinden) ve **yargı kararlarından** (içtihattan) yararlanacağını düzenler. Bu hüküm, sadece hukuk yaratma yetkisinin kullanıldığı durumlar için değil, kanunun uygulanmasının tüm aşamaları için geçerli bir kuraldır.
-
-**Doktrinin yardımcı kaynak işlevi**: Doktrin (akademik yazılar), Türk hukuku açısından bağlayıcı bir kaynak değildir; ancak hâkim için **yorum yardımcısı** olarak büyük önem taşır. Hâkim, doktrindeki tartışmalardan, kavramsal analizlerden ve çözüm önerilerinden istifade edebilir. Akıntürk/Ateş Karaman'ın eserinde de belirtildiği gibi, modern medeni hukuk uygulamasında doktrinden yararlanmak hem bir hak hem de bir mesleki sorumluluktur.
-
-**İçtihatın yardımcı kaynak işlevi**: Yargıtay kararları ve özellikle İçtihadı Birleştirme Kararları (YİBK), Türk hukukunda biçimsel bağlayıcı olmasa da uygulama birliğini sağlamak için fiilen güçlü bir bağlayıcılık taşır. Hâkim, başka mahkemelerin (özellikle yüksek mahkemelerin) verdiği kararları göz önünde bulundurarak hem hukuki tutarlılığı korur hem de öngörülebilirliği güçlendirir.
+Yardımcı kaynak, asıl kaynağın yerini tutmaz. Kanunun sözü dururken yalnız bir Yargıtay cümlesine sığınmak, birinci fıkrayı boşaltır. İçtihat, boşluğu doldururken de kanunun özüne bağlı kalmak zorundadır.
 
 #### 3. Sistematik İlişkiler
 
-TMK m. 1, kanunun başlangıç hükümleri içinde tek başına anlamlı değil; aşağıdaki hükümlerle birlikte okunmalıdır:
-
-- **TMK m. 2** — Dürüstlük kuralı. Hâkimin kanunu uygularken ve hukuk yaratırken dürüstlük ilkesini gözetmesi zorunludur; m. 2, m. 1'in genel metodoloji çerçevesinin etik boyutudur.
-- **TMK m. 3** — İyi niyet. Hâkim, kanunu uygularken tarafların iyi niyetli olup olmadığını değerlendirirken m. 1'in yorum metodolojisini kullanır.
-- **TMK m. 4** — Hâkimin takdir yetkisi. Kanunun hâkime takdir yetkisi tanıdığı durumlarda hâkim, hukuk ve hakkaniyete göre karar verir. TMK m. 1'in yarattığı genel metodolojinin somut bir uygulamasıdır.
-- **TMK m. 5** — Borçlar Hukuku hükümlerinin uygulanması. TMK'da hüküm olmayan medeni hukuk meselelerinde TBK genel hükümlerinin uygulanacağını düzenler; bu da TMK m. 1'in "boşluk doldurma" mantığının özel bir görünümüdür.
-- **TMK m. 6** — İspat yükü. Hâkimin karar verirken delil değerlendirmesini düzenler; TMK m. 1'deki "yargı kararlarından yararlanma" ilkesiyle birlikte yorumlanır.
-- **TBK m. 19** — Sözleşmenin yorumlanması. Borçlar hukuku alanında TMK m. 1'deki "söz-öz" formülünün sözleşme yorumuna yansımasıdır; tarafların *gerçek ortak iradesi* esastır.
-- **Anayasa m. 138** — Mahkemelerin bağımsızlığı ve hâkimlerin Anayasa, kanun ve hukuka göre karar vermesi. Anayasal çerçevede TMK m. 1, hâkimin "hukuka" göre karar vermesi şartının metodolojik somutlaşmasıdır.
-- **HMK m. 33** — Hâkimin hukuku resen uygulaması. Hâkim, tarafların ileri sürdüğü hukuki nitelendirmelerle bağlı değildir; uyuşmazlığa uygulanacak hukuku kendisi belirler. TMK m. 1'in usul hukuku boyutunu oluşturur.
+- **TMK m. 2** — Dürüstlük kuralı, hukuk yaratmanın etik sınırıdır. Boşluk doldurulurken hakkın kötüye kullanılması yasağı ikinci maddeden okunur.
+- **TMK m. 3** — İyi niyet karinesi, kanunun "öz"ünün somut bir görünümüdür. Hâkim karineyi uygularken birinci maddedeki yorum sırasını kullanır.
+- **TMK m. 4** — Kanunun takdir yetkisi tanıdığı yerde hukuk ve hakkaniyet ölçüsü, birinci maddedeki yaratma yetkisinin özel ve sınırlı hâlidir.
+- **TMK m. 5** — Medeni Kanun'da hüküm yoksa borçlar hukuku genel hükümleri devreye girer. Bu, boşluk merdiveninin kanunlar arası bir basamağıdır; örfe geçmeden önce kardeş kanuna bakılır.
+- **TMK m. 6** — İspat yükü, hâkimin karar verme zorunluluğunun delil yüzüdür. Vakıa ispatlanamazsa kim kaybedeceğini altıncı madde, hukuku nerede bulacağını birinci madde söyler.
+- **HMK m. 33** — Hâkim hukuku resen uygular. Tarafların nitelendirmesi birinci maddedeki kaynak sırasını bağamaz.
+- **HMK m. 57** — İhtiyari dava arkadaşlığı, 2023 seri dava içtihadında boşluğun doldurulduğu usul hükmüdür. Medeni Kanun'daki yaratma, Tarifedeki ücret kademesi ve bu maddedeki bağlantı ölçüsü birlikte okunur.
+- **HMK m. 58** — İhtiyari dava arkadaşlığında davaların bağımsızlığı, ayrı vekâlet ücretinin usul dayanağıdır.
+- **Anayasa m. 138** — Hâkim Anayasa'ya, kanuna ve hukuka bağlıdır. Birinci madde, "hukuka" bağlılığın metodolojik çevirisidir.
 
 #### 4. Uygulama: Yargıtay İçtihadı
 
-TMK m. 1, doktriner mahiyeti baskın bir hüküm olduğundan, Yargıtay'ın bu maddeyi *doğrudan* atıflayan kararları diğer maddelere kıyasla daha azdır. Yargıtay, TMK m. 1'i çoğunlukla **bir gerekçe omurgası** olarak — yorum metodolojisini sergilemek için — özel maddelerle birlikte zikreder.
+Aşağıdaki künyeler yerel arşivden birebir alınmış, karar metinleri aynı kayıtlardan okunmuştur. 21 Haziran 2023 tarihinde Hukuk Genel Kurulu, aynı boşlukta onlarca direnme dosyasını aynı gerekçeyle bozdu. Şerh bu seriyi ayrı ayrı *ratio* gibi dizmez. İki künye, aynı günün aynı hükmünü taşır.
 
-Bu maddeye doğrudan ilişkin, son 24 ayda **scraper'dan çekilebilen Yargıtay/AYM kararı tespit edilemedi**. Bu, maddenin sıklığı düşük doğrudan atıf alan teorik bir hüküm olmasının doğal sonucudur. Kullanıcı tarafından sağlanan ek karar bulunmamaktadır.
+**Yargıtay Hukuk Genel Kurulu, E. 2023/32, K. 2023/655, T. 21.06.2023**
 
-Bununla birlikte, TMK m. 1 uygulamasının istikrarlı çizgisi doktriner literatür üzerinden şu şekilde özetlenebilir:
+Adıyaman'da enerji şirketi, 2942 sayılı Kamulaştırma Kanunu'nun 31 inci maddesinin (b) bendiyle bölgedeki yüzlerce taşınmaza şerh koydurmuştu. Malikler ayrı ayrı tapu terkini davası açtı. Adıyaman 1. Asliye Hukuk Mahkemesi 3 Kasım 2020'de şerhi hukuka aykırı bulup davayı kabul etti ve davaları Avukatlık Asgari Ücret Tarifesi'nin 22 nci maddesi anlamında seri iş sayarak 1.360 TL vekâlet ücretine hükmetti.
 
-- **Yargıtay'ın yerleşik yaklaşımı** uyarınca, kanun metni açık olduğunda lafzî yorum tercih edilir; ancak lafzî yorumun kanunun amacına aykırı, adaletsiz veya hukuk sisteminin bütünüyle çelişen sonuçlar doğurduğu hâllerde *amaçsal yorum* öne çıkar.
-- Hâkimin hukuk yaratma yetkisini kullandığı **hakiki kanun boşluğu** durumları uygulamada sınırlıdır; daha çok genel hükümlerin (TMK m. 2 dürüstlük kuralı, TMK m. 4 takdir yetkisi) somutlaştırılmasında benzer bir mekanizma işler.
-- Yargıtay, doktrini yardımcı kaynak olarak fiilen sıklıkla kullanmakta, özellikle Hukuk Genel Kurulu kararlarında akademik literatüre açık atıflar yapmaktadır.
+Gaziantep Bölge Adliye Mahkemesi 6. Hukuk Dairesi, terkin yönünden ilk dereceyi isabetli gördü; ücrette ise terkinin davacının hissesiyle sınırlı olması gerektiğini söyleyerek kararı kaldırıp yeniden hüküm kurdu ve 4.080 TL vekâlet ücreti yazdı. Yargıtay 5. Hukuk Dairesi, aynı bölgeden intikal eden aynı nitelikteki dosyaları birlikte gözeterek uyuşmazlığın Tarife'nin 22 nci maddesi uyarınca seri dava olduğunu, vekâlet ücretinin bu kapsamda tartılması gerektiğini yazıp bozdu.
 
-Bu maddenin gerçek uygulama değeri, somut bir uyuşmazlık üzerinde Yargıtay'ın *yorum metodunu* gözlemlemekle kavranır. Daha ileri çalışmalarda, kullanıcının elindeki TMK m. 1 atıflı kararların eklenmesiyle bu bölüm zenginleştirilecektir.
+Merci direndi. Seri davayı ihtiyari dava arkadaşlığının bir türü saydı. Somut olayda HMK m. 57/1 anlamında arkadaşlık bulunmadığını, çünkü her dosyada taşınmazın ve malikin farklı olduğunu, davaların yalnız konu yönünden benzediğini ileri sürdü. Benzer uyuşmazlıklarda seri dava kabul edilmeyerek onanan kararları da gösterdi.
+
+Kurul uyuşmazlığı şu noktaya indirdi: aynı davalıya karşı, aynı kamulaştırma şerhine dayalı olarak ayrı ayrı açılan davalar, Tarife'nin 22 nci maddesi anlamında seri dava mıdır? Gerekçenin dördüncü paragrafı birinci maddeyi sahneye çıkardı. HUMK'ta da HMK'da da, aynı veya benzer dava konusu ya da sebebine dayanarak aynı davalıya karşı çok sayıda dava açıldığında nasıl hareket edileceğini yazan kapsayıcı bir hüküm yoktur. Pozitif hukuktaki bu boşluğu yargı makamları, TMK m. 1 çerçevesinde hukuk yaratarak doldurmuş, içtihatlarla kavramın içeriğini şekillendirmiştir.
+
+Kurul, 2014 Tarifesi'nden itibaren "seri dava" ibaresinin ücret kademesine kavuştuğunu, yürürlükteki 22 nci maddenin bu davaları ihtiyari dava arkadaşlığının bir türü saydığını yazdı. HMK m. 57/1-c, vakıaların ve hukuki sebeplerin aynı veya benzer olmasını yeter görür. Somut dosyada yüzlerce hak sahibi aynı davalıya karşı, aynı şerh işleminin iptalini istemişti. Yargılamalar ayrı yürümüş, vekiller çoğu dosyada aynı dilekçeler ve beyanlarla hareket etmişti. Vakıa ve hukuki sebep birebir aynıydı.
+
+Şu hâlde HMK m. 57/1-c anlamında ihtiyari dava arkadaşlığı vardır ve davalar seri niteliktedir. Vekâlet ücreti Tarife'nin 22 nci maddesine göre belirlenecektir. Direnme, HMK m. 371 uyarınca oybirliğiyle bozuldu; dosya HMK m. 373/1 ile direnme kararını veren bölge adliye mahkemesine gönderildi.
+
+*Ratio decidendi* üç kilit taşır. Birincisi, seri dava için kanunda kapsayıcı hüküm yoksa boşluk TMK m. 1 ile doldurulur. İkincisi, Tarife'deki "ihtiyari dava arkadaşlığının bir türü" ibaresi, HMK m. 57/1-c'deki vakıa ve sebep benzerliğini arar; taşınmazın ve malikin dosya dosya değişmesi bu benzerliği tek başına kırmaz. Üçüncüsü, hukuk yaratma burada ücretin düşürülmesi için değil, aynı emekle çoğaltılmış dosyalarda hem vekilin hem karşı tarafın dengesini kurmak için işletilmiştir.
+
+**Yargıtay Hukuk Genel Kurulu, E. 2023/37, K. 2023/656, T. 21.06.2023**
+
+Aynı gün, aynı daire, aynı şerh bölgesi, aynı boşluk. Adıyaman 1. Asliye Hukuk Mahkemesi'nin 3 Kasım 2020 tarihli ve 2020/314 Esas, 2020/883 Karar sayılı ilk hükmü yine terkin ve 1.360 TL ücret yazmıştı. Gaziantep 6. Hukuk Dairesi 17 Aralık 2021'de 2021/1977 Esas, 2021/3697 Karar ile hisseli terkin ve 4.080 TL ücret kurmuş, 5. Hukuk Dairesi yine Tarife'nin 22 nci maddesini işleterek bozmuş, merci aynı HMK m. 57 direnmesini tekrar etmişti.
+
+Kurul 655 sayılı karardaki gerekçeyi taşıdı. Seri dava boşluğunu yeniden TMK m. 1 ile doldurdu, somut dosyayı yine HMK m. 57/1-c ve Tarife'nin 22 nci maddesiyle okudu, direnmeyi oybirliğiyle bozdu. 656 sayılı künye ayrı bir içtihat hattı açmaz. Aynı günün ikinci dosyasıdır. Arşivde 21 Haziran 2023 tarihli on beşe yakın kardeş künye aynı hükmü tekrarlar; şerh onları ayrı *ratio* diye çoğaltmaz.
 
 #### 5. Pratik Örnek Olaylar
 
 **Olay 1 (kurmaca senaryo):**
 
-Bir hâkim, kripto varlık üzerindeki tasarruflara ilişkin bir uyuşmazlıkla karşılaşır. Türk hukukunda kripto varlıkların hukuki niteliği — özellikle TMK ve TBK döneminde — özel bir düzenlemeye konu olmamıştır. Mevzuatta bu varlık türünün mülkiyet, alacak, ya da başka bir hak kategorisine girip girmediği belirsizdir.
+Hâkimin önüne, özel kanunda henüz nitelendirilmemiş bir kripto varlık üzerindeki tasarruf uyuşmazlığı gelir. Davacı mülkiyet, davalı alacak iddiasındadır. Mevzuatta bu varlığın eşya mı alacak mı olduğu yazılmaz.
 
-*Hukuki analiz:* Hâkim TMK m. 1'i devreye sokar. Önce kanunun "sözü" ve "özü" araştırılır: Eşya Hukuku mülkiyet rejimi (TMK m. 683 vd.) maddi nesnelere göre düzenlenmiştir; alacak rejimi (TBK m. 1 vd.) ise borç ilişkilerini düzenler. Kripto varlık ne tipik bir taşınır eşya ne de klasik bir alacaktır — *hakiki kanun boşluğu* söz konusudur. Hâkim, sırasıyla örf-adet hukukuna bakar; bu alanda yerleşik bir örf-adet bulunamaz. Bu durumda hâkim, **kendisi kanun koyucu olsaydı** ne kural koyacağını düşünür: muhtemelen mülkiyetin niteliğine benzer bir koruma rejimi, ancak kripto varlığın özelliklerine uyarlanmış hâli. Bu kararı verirken doktriner görüşlerden (kripto varlıklar üzerine akademik makaleler) ve varsa diğer mahkeme kararlarından yararlanır. Olay, TMK m. 1'in modern teknolojik gelişmeler karşısında nasıl operasyonel bir araç olduğunu gösterir.
+*Hukuki analiz:* Hâkim birinci fıkrada kanunun sözünü ve özünü tarar. Eşya hukuku mülkiyeti maddi nesneye, borçlar hukuku alacağı bir edime bağlar. Hakiki boşluk belirdikten sonra örf aranır; yerleşik bir ticarî örf yoksa hukuk yaratma basamağı açılır. Üçüncü fıkra, doktrindeki nitelendirme denemelerini ve varsa emsal yargı kararlarını yardıma çağırır. Kural somut dosya içindir; hâkim genel bir kripto kanunu yazmış olmaz.
 
 **Olay 2 (kurmaca senaryo):**
 
-Bir borçlar hukuku uyuşmazlığında, davacı, sözleşmede yer alan ancak özünde dürüstlük kuralına aykırı bir cezai şart maddesinin uygulanmasını talep eder. Sözleşmenin lafzı (sözü) cezai şartı net biçimde tanımlamış, miktarı da belirlemiştir. Davalı, bu maddenin TMK m. 2'ye aykırı olarak kötüye kullanıldığını ileri sürer.
+Aynı davalı kamu kuruluşu, bir ilçedeki üç yüz taşınmaza aynı yasal dayanakla şerh koydurur. Malikler ayrı ayrı terkin davası açar. Bölge adliye mahkemesi, her dosyada malik ve parsel farklıdır diye seri dava olmadığını söyleyip her davada tam vekâlet ücretine hükmeder.
 
-*Hukuki analiz:* Hâkim, sözleşmenin lafzı ile dürüstlük kuralı arasındaki gerilimi TMK m. 1'in metodolojisi ile çözer. Sözleşmenin "sözü" cezai şartı destekler; ancak hukuk düzeninin "özü" — TMK m. 2'nin korumayı amaçladığı genel etik temel — bu lafzî uygulamayı aşan bir adalet talebi içerir. Hâkim, m. 1'in "amaçsal yorum" boyutunu kullanarak ya sözleşme maddesini daraltıcı yoruma tabi tutar (görünüşte boşluk olarak nitelendirerek), ya da TBK m. 27 (genel ahlak ve kişilik haklarına aykırı sözleşmeler) çerçevesinde kısmi geçersizlik sonucuna gider. Karar, sözleşme metninin "söz"ünden çok kanun düzeninin "özü"nü esas alır. Bu olay, TMK m. 1'in tüm özel hukuk alanlarında — yalnızca medeni hukukta değil — operatif bir yorum aracı olduğunu göstermektedir.
+*Hukuki analiz:* 2023/655 çizgisinde boşluk TMK m. 1 ile doldurulmuş, ölçü HMK m. 57/1-c ve Tarife'nin 22 nci maddesine bağlanmıştır. Vakıa ve hukuki sebep aynıysa taşınmazın değişmesi arkadaşlığı düşürmez ve ücret kademeli okunur. Merci, "farklı malik" cümlesiyle birinci maddedeki yaratmayı geri alamaz.
+
+**Olay 3 (kurmaca senaryo):**
+
+Sözleşmenin lafzı ağır bir cezai şartı net yazmış, borçlu ise şartın dürüstlük kuralına aykırı işletildiğini ileri sürmüştür. Hâkim lafzı "söz" diye uygulayıp ikinci maddeye hiç bakmaz.
+
+*Hukuki analiz:* Bu dosyada hakiki boşluk yoktur. Birinci cümlenin özü, TMK m. 2 ile birlikte okunur. Görünüşte boşluk teşhisi acele edilmemeli; mevcut hüküm amaca aykırı düşüyorsa yorumla daraltılır. Hukuk yaratma basamağı, kanunun zaten yazdığı dürüstlük ölçüsünü atlamak için kullanılamaz.
 
 #### 6. Pratik Uygulama Notları
 
-- **Hâkimin yorum gerekçesini gösterme yükümlülüğü**: TMK m. 1 hâkime geniş bir yorum yetkisi tanıdığından, bu yetkinin kullanımında **gerekçe** çok daha önemli hâle gelir. Hâkim, lafzî yorumdan amaçsal yoruma geçişini, hangi kanun boşluğunu tespit ettiğini, hukuk yaratma yetkisini hangi temelde kullandığını ayrıntılı gerekçesinde sergilemelidir.
-
-- **Kanun yolunda inceleme**: TMK m. 1 uygulamasındaki hatalar — özellikle ihmal edilen amaçsal yorum, yanlış kanun boşluğu tespiti veya keyfi hukuk yaratma — istinaf ve temyiz yolunda bozma sebebi oluşturabilir.
-
-- **Doktrinden yararlanma sınırı**: Hâkim, doktrinden yararlanırken bir yazarın görüşünü "tek doğru" olarak benimseyemez; doktrindeki farklı görüşleri tartmalı, gerekçesinde benimseme nedenini açıklamalıdır.
-
-- **Yargıtay kararlarına atfın değeri**: Türk hukukunda Yargıtay kararları **biçimsel olarak bağlayıcı değildir** (YİBK hariç). Ancak fiilen uygulama birliği için güçlü bir araçtır. Hâkim, Yargıtay'a aykırı karar verebilir; ancak gerekçesini özellikle güçlü ortaya koymalıdır.
-
-- **Yaygın uygulama hataları**: Uygulamada en sık karşılaşılan hatalar şunlardır: (i) lafzî yoruma aşırı bağlılık ve amaçsal yorumun ihmali, (ii) kanun boşluğu tespitini yapmadan hâkimin "kişisel adalet anlayışına" göre karar vermesi, (iii) örf-adet hukukunu yeterince araştırmadan hukuk yaratma aşamasına atlanması, (iv) doktrinden gelişigüzel ve seçici atıflar yapılması.
+- **Boşluk teşhisi gerekçede görünür:** Hangi hükmün neden uygulanamadığı, örfün neden bulunamadığı ve yaratılan ölçünün hangi değere bağlandığı yazılmadan ikinci cümle işletilemez.
+- **Sıra atlanmaz:** Kanun, örf, yaratma. Ticaret dosyasında 6102 sayılı Kanun'un birinci maddesindeki ticarî örf, Medeni Kanun'daki genel örften önce tarandığında gerekçe bu tercihi açıklar.
+- **Seri dava ücreti:** Aynı davalı, aynı vakıa, aynı hukuki sebep ve çoğaltılmış dilekçeler varsa Tarife'nin 22 nci maddesi devrededir. HMK m. 57/1-c, "farklı taşınmaz" itirazını tek başına taşımaz.
+- **Yardımcı kaynak sınırı:** Bir yazarın görüşü tek doğru olamaz. Aykırı Yargıtay kararı verilebilir; gerekçe o zaman birinci maddedeki özü yeniden kurmak zorundadır.
+- **Kanun yolu:** Yanlış boşluk teşhisi, atlanan örf basamağı veya gerekçesiz yaratma, istinaf ve temyizde bozma sebebidir. 2023/655, bozmayı HMK m. 371 üzerinden direnmeye de taşıdı.
+- **Yaygın hata:** Lafza yapışıp özü unutmak, olmayan boşluğu yaratmayla doldurmak, örfü araştırmadan üçüncü basamağa atlamak, seri davayı yalnız birleştirilmiş dosyalarda aramak.
 
 #### 7. Eleştirel Değerlendirme
 
-TMK m. 1, doktrindeki ve uygulamadaki yorum farklılıklarıyla zengin bir tartışma alanı sunmaktadır.
+Maddenin isabetli yanı, hâkimi hem suskunluğa hem keyfiliğe kapatmasıdır. 2023/655 bu vaadi somutladı. Usul kanunları seri davayı yazmamıştı; Kurul boşluğu inkâr etmedi, TMK m. 1 ile doldurdu, sonra ölçüyü HMK m. 57 ve Tarife'nin 22 nci maddesine bağladı. Hukuk yaratma, ücret kaleminde bile denetlenebilir bir cümle olarak kaldı.
 
-**Doktrindeki görüş ayrılıkları**: Hâkimin hukuk yaratma yetkisinin **sınırı** konusunda doktrinde geleneksel olarak iki kutup vardır. **Pozitivist yaklaşım**, hâkimin yetkisini dar tutar: kanun boşluğu çok somut bir biçimde tespit edilmeli, hâkim yaratıcılığı kanun koyucunun olası iradesinin objektif rekonstrüksiyonu ile sınırlı kalmalıdır. **Sosyolojik/dinamik yaklaşım** ise hâkime daha geniş bir hareket alanı tanır: hâkim, toplumun değişen değerleri ışığında hukuku güncelleyen bir aktördür. Türk-İsviçre doktrininde Dural/Öğüz başta olmak üzere yazarların büyük bölümü, bu iki kutbun arasında **dengeli bir orta yol** önerir: hâkim ne pasif bir uygulayıcıdır ne de "küçük bir kanun koyucudur"; bu arada konumlanır.
+Zayıf yan, birinci maddenin gerekçelerde hâlâ seyrek anılmasıdır. Hâkimler her gün sözü ve özü uygular, ne var ki bunu maddenin adı altında yazmaz. 21 Haziran 2023 serisi istisnadır; çünkü boşluk usul kanununda açıktı ve ücret kalemi dosyayı Genel Kurul'a taşıdı. Asıl metodoloji hükmü, ücret ihtilafının sırtında görünür olmak zorunda kalmamalıydı.
 
-**Uygulamada görünen sorunlar**: Modern Türk yargı uygulamasında TMK m. 1, ironik biçimde **az atıflanan ama her zaman zımnen uygulanan** bir hüküm hâline gelmiştir. Hâkimler her yorum eyleminde m. 1'in metodolojisini kullanırlar; ancak bunu gerekçelerinde açıkça ifade etmeyebilirler. Bu durum, hukuki argümantasyonun şeffaflığını azaltmakta ve istinaf-temyiz incelemesini güçleştirmektedir.
+Görüşümüzce seri dava artık yalnız içtihat ve Tarife işi olarak bırakılmamalıdır. HMK m. 57 ihtiyari arkadaşlığı yazar, 22 nci Tarife maddesi ücreti kademeler; ikisi birlikte kavramı taşır ama kanunî tanım hâlâ yoktur. *De lege ferenda* HMK'ya, aynı davalıya karşı aynı vakıa ve sebeple çoğaltılmış davaları seri iş sayan kısa bir fıkra, birinci maddedeki yaratmayı istisna olmaktan çıkarırdı.
 
-**Reform önerileri**: Bazı yazarlar TMK m. 1'in çağdaş ihtiyaçlar ışığında genişletilmesini önermektedir: (i) Avrupa Birliği hukuku, AİHS ve diğer uluslararası kaynakların yorum aracı olarak açıkça zikredilmesi, (ii) anayasal değerlerin yorum metodolojisinde merkezi bir yer almasının vurgulanması, (iii) hâkimin hukuk yaratma yetkisinde proporsiyonalite (orantılılık) ilkesinin somut bir kriter olarak eklenmesi. Bu öneriler doktriner tartışma niteliğinde olup, mevcut yasal çerçeve içinde TMK m. 1, Anayasa ile birlikte yorumlandığında modern ihtiyaçların çoğunu karşılayabilmektedir.
-
-**Yazarın değerlendirmesi**: TMK m. 1, hukukun pratikte nasıl işlediğini anlamak için en önemli hükümlerden biridir. Avukatlık mesleğinde, bir uyuşmazlığı hâkim önünde temellendirirken "kanun lafzı bunu söylüyor" demek çoğu zaman yeterli değildir; *kanunun amacının* ne olduğunu, sistematik olarak diğer hükümlerle nasıl uyumlu hâle getirileceğini, doktrindeki tartışmaların hangi yönde geliştiğini ortaya koymak gerekir. Aksi takdirde dava dilekçesi, mahkemenin gözünde bir avukat çalışması değil, basit bir metin tekrarı hâline gelir. TMK m. 1'in iyi kavranması, hukukçunun en güçlü silahlarından biridir.
+Yaratma yetkisinin sınırı tartışmasında Dural/Öğüz'ün orta yolunu paylaşıyoruz. Hâkim pasif bir okuyucu değildir; küçük bir kanun koyucu da değildir. 2023 serisinde Kurul yeni bir dava türü icat etmedi, mevcut HMK m. 57/1-c ölçüsünü boşluğun içine yerleştirdi. Bizce doğru olan da budur. Yaratma, kanunun suskunluğunu doldurur; kanunun konuştuğu yeri yeniden yazmaz.
 
 ---
 
@@ -165,13 +154,12 @@ Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerç
 
 **Kullanılan kaynaklar:**
 
-- *Doktrin*: Mustafa Dural / Tufan Öğüz, *Türk Özel Hukuku Cilt I — Temel Kavramlar ve Medeni Kanunun Başlangıç Hükümleri*; Turgut Akıntürk / Derya Ateş Karaman, *Türk Medeni Hukuku — Aile Hukuku*; Şener Akyol, *Medeni Hukuk — Şahsın Hukuku*.
-- *Yargıtay kararları*: `karararama.yargitay.gov.tr` üzerinden 14.05.2026 tarihinde yapılan taramada, son 24 ay içinde TMK m. 1'i doğrudan atıflayan karara rastlanmadı. Bu, maddenin teorik mahiyetinin baskın olmasının ve uygulamanın bu hükmü genellikle özel hükümlerle birlikte zımnen uygulamasının doğal bir sonucudur. İleride özel kararların eklenmesi planlanmıştır.
-- *Tarihsel arka plan*: 4721 sayılı TMK'nın madde gerekçesi (TBMM tutanakları).
-- *Karşılaştırmalı hukuk*: İsviçre Medeni Kanunu (Schweizerisches Zivilgesetzbuch — ZGB) Art. 1 (Anwendung des Rechts).
+- *Doktrin*: Mustafa Dural / Tufan Öğüz, *Türk Özel Hukuku Cilt I — Temel Kavramlar ve Medeni Kanunun Başlangıç Hükümleri*.
+- *Yargıtay kararları*: yerel arşiv künyeleri birebir; 21.06.2023 tarihli Hukuk Genel Kurulu seri dava / hukuk yaratma hattı.
+- *Tarihsel arka plan*: 4721 sayılı Kanun 1 Ocak 2002'de yürürlüğe girmiş, 743 sayılı eski Kanun'un birinci maddesindeki kaynak sırasını korumuştur. Mehaz İsviçre Medeni Kanunu'nun birinci maddesidir.
 
-**Yorumun kapsamı**: Bu çalışma, 4721 sayılı Türk Medeni Kanunu'nun 1 Ocak 2002 tarihinde yürürlüğe giren ve bu tarihten itibaren değişmeyen 1. madde metnine dayanır. Eski 743 sayılı Türk Kanunu Medenisi'nin 1. maddesi ile içerik bakımından özdeş bir düzenleme olduğundan, eski Kanun döneminde verilmiş genel yorum metodolojisine ilişkin doktriner ve içtihadi birikim güncel uygulamada değerini korumaktadır.
+**Yorumun kapsamı**: Çalışma, 4721 sayılı Türk Medeni Kanunu'nun değişmeyen 1. madde metnine dayanır.
 
-**Görüş**: Hâkimin hukuk yaratma yetkisinin sınırı tartışmasında, *dengeli orta yol* yaklaşımı benimsenmiştir: hâkim ne pasif bir uygulayıcıdır ne de küçük bir kanun koyucu. Kanunun amacına ve hukuk sisteminin bütünsel mantığına sadık kalan, ancak kanunda öngörülemeyen durumlarda yaratıcı yorum yapma yetkisine sahip aktiftir.
+**Görüş**: Hâkimin hukuk yaratma yetkisi, boşluk teşhisi ve HMK'daki mevcut ölçüyle sınırlı bir doldurma işidir; yeni bir kodifikasyon değildir.
 
-**Güncellik**: Bu yorum, **14.05.2026** tarihi itibariyle günceldir. Yeni bir Yargıtay HGK veya YİBK kararı yayımlandığında veya 4721 sayılı Kanun'da değişiklik yapıldığında revize edilecektir.
+**Güncellik**: **06.09.2026** tarihi itibariyle günceldir. Yeni bir Hukuk Genel Kurulu veya İçtihadı Birleştirme kararı yahut kanun değişikliği sonrası revize edilebilir.

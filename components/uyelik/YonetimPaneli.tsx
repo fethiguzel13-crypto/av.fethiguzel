@@ -87,7 +87,7 @@ export default function YonetimPaneli() {
               <p className="font-bold">{u.name} · {u.email}</p>
               <p className="text-charcoal/50 text-[12px] mt-1">
                 Bitiş: {u.membershipUntil ? new Date(u.membershipUntil).toLocaleDateString('tr-TR') : '—'}
-                {u.pendingRef ? ` · havale ${u.pendingRef}` : ''}
+                {u.pendingRef ? ` · bekleyen ${u.pendingRef}` : ''}
               </p>
             </li>
           ))}

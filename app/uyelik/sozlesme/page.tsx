@@ -34,19 +34,28 @@ export default function SozlesmePage() {
             Bedel {priceLabel()} (KDV dahil görünen tutar). Bu bedel avukatlık ücreti,
             vekâlet veya hukuki danışmanlık karşılığı değildir.
           </p>
-          <h2 className="text-xl font-heading font-bold text-charcoal pt-2">2. İfa</h2>
+          <h2 className="text-xl font-heading font-bold text-charcoal pt-2">2. Ödeme</h2>
           <p>
-            İçerik dijitaldir; ödeme (veya havale onayı) sonrası sitede okunur. Dosya,
+            Bedel, kredi veya banka kartıyla tek çekim olarak tahsil edilir. Ödeme,
+            lisanslı ödeme kuruluşu iyzico’nun 3D Secure altyapısı üzerinden alınır; kart
+            numarası, son kullanma tarihi ve güvenlik kodu hiçbir aşamada bu siteye
+            iletilmez ve burada saklanmaz. Kart bilgilerinin saklanmasına dayalı otomatik
+            yenileme yoktur; süre dolduğunda erişim kendiliğinden kapanır.
+          </p>
+          <h2 className="text-xl font-heading font-bold text-charcoal pt-2">3. İfa</h2>
+          <p>
+            İçerik dijitaldir ve ödemenin onaylandığı anda sitede okunmaya açılır. Dosya,
             PDF veya toplu indirme verilmez. Yazdırma kapatılmıştır.
           </p>
-          <h2 className="text-xl font-heading font-bold text-charcoal pt-2">3. Cayma</h2>
+          <h2 className="text-xl font-heading font-bold text-charcoal pt-2">4. Cayma</h2>
           <p>
             6502 sayılı Kanun m. 47 vd. uyarınca mesafeli sözleşmelerde cayma hakkı
-            kuraldır. Dijital içeriğin ifasına kayıttaki onayla derhal başlanır; bu
-            onay verildiğinde cayma hakkı kullanılamaz. Havale henüz onaylanmamışsa
-            erişim açılmadan vazgeçilebilir.
+            kuraldır. Ne var ki ödeme adımında verilen açık onayla dijital içeriğin
+            ifasına derhal başlandığından, aynı Kanuna dayanan Mesafeli Sözleşmeler
+            Yönetmeliği m. 15/1-(ğ) gereği bu onaydan sonra cayma hakkı kullanılamaz.
+            Erişim henüz açılmamışsa talep üzerine bedel iade edilir.
           </p>
-          <h2 className="text-xl font-heading font-bold text-charcoal pt-2">4. Sorumluluk</h2>
+          <h2 className="text-xl font-heading font-bold text-charcoal pt-2">5. Sorumluluk</h2>
           <p>
             Metinler resmi kaynaktan derlenir; güncellik ve hatasızlık taahhüt edilmez.
             Bağlayıcı olan kararın aslıdır. Üyelik, somut dosyada vekâlet doğurmaz.

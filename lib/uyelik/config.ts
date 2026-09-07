@@ -31,24 +31,79 @@ export function siteOrigin(): string {
   return SITE_URL;
 }
 
+function envTrim(name: string): string {
+  return (process.env[name] || '').trim();
+}
+
+function boolFlag(raw: string): boolean | null {
+  const v = raw.trim().toLowerCase();
+  if (!v) return null;
+  if (['1', 'true', 'on', 'acik', 'açık', 'evet', 'yes'].includes(v)) return true;
+  if (['0', 'false', 'off', 'kapali', 'kapalı', 'hayir', 'hayır', 'no'].includes(v)) return false;
+  return null;
+}
+
+/** Kart ödemesi için kullanılacak anahtar çifti; yoksa null. */
+export function iyzicoKeys(): { apiKey: string; secretKey: string } | null {
+  const apiKey = envTrim('IYZICO_API_KEY');
+  const secretKey = envTrim('IYZICO_SECRET_KEY');
+  if (apiKey && secretKey) return { apiKey, secretKey };
+  return null;
+}
+
 export function iyzicoConfigured(): boolean {
-  return Boolean(process.env.IYZICO_API_KEY && process.env.IYZICO_SECRET_KEY);
+  return iyzicoKeys() !== null;
+}
+
+/** Kart ödemesi açık mı? UYELIK_KART=0 ile bilinçli kapatılabilir. */
+export function kartEnabled(): boolean {
+  const flag = boolFlag(envTrim('UYELIK_KART'));
+  if (flag === false) return false;
+  return iyzicoConfigured();
+}
+
+/**
+ * Hangi iyzico ortamı: açık env kazanır, yoksa anahtarın kendisi (`sandbox-`
+ * öneki) belirler, o da yoksa üretimde `live`, geliştirmede `sandbox`.
+ */
+export function iyzicoMode(): 'live' | 'sandbox' {
+  const explicit = envTrim('IYZICO_MODE').toLowerCase();
+  if (['live', 'prod', 'production', 'gercek', 'gerçek'].includes(explicit)) return 'live';
+  if (['sandbox', 'test', 'deneme'].includes(explicit)) return 'sandbox';
+  const keys = iyzicoKeys();
+  if (keys?.apiKey.startsWith('sandbox-')) return 'sandbox';
+  return process.env.NODE_ENV === 'production' ? 'live' : 'sandbox';
 }
 
 export function iyzicoBaseUrl(): string {
-  const mode = (process.env.IYZICO_MODE || 'sandbox').toLowerCase();
-  if (mode === 'live' || mode === 'prod' || mode === 'production') {
-    return 'https://api.iyzipay.com';
-  }
-  return 'https://sandbox-api.iyzipay.com';
+  return iyzicoMode() === 'live' ? 'https://api.iyzipay.com' : 'https://sandbox-api.iyzipay.com';
+}
+
+/** Gerçek para akan kurulum mu? Test rozetini bu belirler. */
+export function kartCanli(): boolean {
+  return Boolean(iyzicoKeys()) && iyzicoMode() === 'live';
 }
 
 export function havaleInfo(): { iban: string; hesapAdi: string; banka: string } {
   return {
-    iban: (process.env.UYELIK_IBAN || '').replace(/\s+/g, ''),
+    iban: envTrim('UYELIK_IBAN').replace(/\s+/g, ''),
     hesapAdi: process.env.UYELIK_HESAP_ADI || PROFILE.name,
     banka: process.env.UYELIK_BANKA || '',
   };
+}
+
+/**
+ * Havale/EFT yolu. Varsayılan artık kapalı: kart açıkken IBAN gösterilmez.
+ * Kart hiç kurulu değilse site ödemesiz kalmasın diye IBAN yedeğe düşer.
+ * `UYELIK_HAVALE=1` ile ikisi birlikte de açılabilir.
+ */
+export function havaleEnabled(): boolean {
+  const iban = Boolean(havaleInfo().iban);
+  const flag = boolFlag(envTrim('UYELIK_HAVALE'));
+  if (flag === true) return iban;
+  if (flag === false) return false;
+  if (kartEnabled()) return false;
+  return iban;
 }
 
 export function adminSecret(): string {

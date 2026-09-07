@@ -3,17 +3,20 @@ import { cookies } from 'next/headers';
 import {
     adminSecret,
     hasSessionSecret,
+    havaleEnabled,
     havaleInfo,
-    iyzicoConfigured,
+    kartCanli,
+    kartEnabled,
+    periodLabel,
     priceLabel,
     siteOrigin,
     UYELIK,
 } from './config';
 import { hashPassword, newHavaleRef, newId, normalizeEmail, verifyPassword } from './crypto';
-import { paymentOk, retrieveCheckout, startCheckout } from './iyzico';
+import { paymentOk, retrieveCheckout, startCheckout, userIdFromResponse } from './iyzico';
 import { activateMembership } from './membership';
 import { clientIp, rateLimit } from './rate-limit';
-import { cookieOptions, getAccess, setSessionCookie, clearSessionCookie } from './session';
+import { applySessionCookies, cookieOptions, getAccess, setSessionCookie, clearSessionCookie } from './session';
 import { getUserByEmail, getUserById, listUsers, updateUser, upsertUser } from './store';
 import type { UserRecord } from './types';
 
@@ -27,6 +30,17 @@ function stripHash(u: UserRecord) {
     const { passwordHash: _pw, ...rest } = u;
     void _pw;
     return rest;
+}
+
+const IPV4_RE = /^(\d{1,3}\.){3}\d{1,3}$/;
+
+/** iyzico geçerli bir IP bekler; yerelde `local`/IPv6 gelirse yedeğe düşülür. */
+function payerIp(req: Request): string {
+    const ip = clientIp(req);
+    if (IPV4_RE.test(ip) && !ip.startsWith('127.') && !ip.startsWith('10.') && !ip.startsWith('192.168.')) {
+        return ip;
+    }
+    return '85.34.78.112';
 }
 
 async function isAdmin(req: Request): Promise<boolean> {
@@ -71,7 +85,7 @@ export async function handleUyelik(
                 /* ignore */
             }
         }
-        const havale = havaleInfo();
+        const kart = kartEnabled();
         return json({
             ok: true,
             user: publicUser,
@@ -81,8 +95,12 @@ export async function handleUyelik(
                 priceTl: UYELIK.priceTl,
                 priceLabel: priceLabel(),
                 periodDays: UYELIK.periodDays,
-                iyzico: iyzicoConfigured(),
-                havale: Boolean(havale.iban),
+                periodLabel: periodLabel(),
+                kart,
+                kartTest: kart && !kartCanli(),
+                // Geriye dönük ad; eski istemciler `iyzico` alanını okuyor.
+                iyzico: kart,
+                havale: havaleEnabled(),
             },
         });
     }
@@ -173,6 +191,12 @@ export async function handleUyelik(
         if (!rateLimit(`havale:${clientIp(req)}`, 8, 60 * 60 * 1000)) {
             return json({ ok: false, error: 'Çok fazla deneme.' }, 429);
         }
+        if (!havaleEnabled()) {
+            return json(
+                { ok: false, error: 'Havale kapalı; ödeme kredi/banka kartı ile alınıyor.', code: 'HAVALE_KAPALI' },
+                409
+            );
+        }
         const { user } = await getAccess();
         if (!user) return json({ ok: false, error: 'Giriş yapın.', next: '/uyelik/giris' }, 401);
         const ref = user.pendingRef || newHavaleRef();
@@ -202,18 +226,29 @@ export async function handleUyelik(
         if (!rateLimit(`odeme:${clientIp(req)}`, 10, 60 * 60 * 1000)) {
             return json({ ok: false, error: 'Çok fazla deneme.' }, 429);
         }
-        const { user } = await getAccess();
+        const { user, member } = await getAccess();
         if (!user) return json({ ok: false, error: 'Giriş yapın.', next: '/uyelik/giris' }, 401);
-        if (!iyzicoConfigured()) {
-            return json({ ok: false, error: 'Kart ödemesi henüz açık değil. Havale ile devam edin.' }, 503);
+        if (member) return json({ ok: true, already: true, next: '/yargi-kararlari' });
+        if (!kartEnabled()) {
+            return json(
+                {
+                    ok: false,
+                    error: havaleEnabled()
+                        ? 'Kart ödemesi henüz açık değil. Havale ile devam edin.'
+                        : 'Kart ödemesi şu an kapalı. Kısa süre içinde yeniden deneyin.',
+                    code: 'KART_KAPALI',
+                },
+                503
+            );
         }
-        const result = await startCheckout(user);
+        const result = await startCheckout(user, payerIp(req));
         if (result.status !== 'success' || !result.checkoutFormContent) {
             return json({ ok: false, error: result.errorMessage || 'Ödeme formu açılamadı.' }, 502);
         }
         return json({
             ok: true,
             token: result.token,
+            test: !kartCanli(),
             checkoutFormContent: result.checkoutFormContent,
         });
     }
@@ -237,18 +272,23 @@ export async function handleUyelik(
                 }
             }
         }
-        if (!token) return NextResponse.redirect(`${origin}/uyelik/odeme?durum=hata`);
+        if (!token) return NextResponse.redirect(`${origin}/uyelik/odeme?durum=hata`, 303);
         const result = await retrieveCheckout(token);
-        if (!paymentOk(result)) return NextResponse.redirect(`${origin}/uyelik/odeme?durum=hata`);
-        const conversation = String(result.conversationId || '');
-        const fullId = conversation.startsWith('uyelik-')
-            ? conversation.slice('uyelik-'.length).replace(/-\d+$/, '')
-            : '';
+        if (!paymentOk(result)) return NextResponse.redirect(`${origin}/uyelik/odeme?durum=hata`, 303);
+        const fullId = userIdFromResponse(result);
         const found = fullId ? await getUserById(fullId) : null;
-        if (!found) return NextResponse.redirect(`${origin}/uyelik/odeme?durum=hesap`);
+        if (!found) return NextResponse.redirect(`${origin}/uyelik/odeme?durum=hesap`, 303);
         const activated = await activateMembership(found, 'iyzico');
-        await setSessionCookie(activated);
-        return NextResponse.redirect(`${origin}/uyelik/odeme/tamam`);
+        // Çerezi hem jar hem yanıt üzerinden yaz: iyzico geri dönüşü siteler
+        // arası POST olduğu için yalnız jar'a güvenilmez.
+        try {
+            await setSessionCookie(activated);
+        } catch {
+            /* ignore */
+        }
+        const res = NextResponse.redirect(`${origin}/uyelik/odeme/tamam`, 303);
+        await applySessionCookies(res, activated);
+        return res;
     }
 
     if ((method === 'POST' || method === 'GET') && key === 'admin/aktifle') {

@@ -3,8 +3,13 @@ title: "İcra ve İflas Kanunu Madde 67"
 kanun: "İcra ve İflas Kanunu"
 maddeNo: 67
 commentaryStatus: "completed"
-lastReviewed: "2026-07-20"
-wordCount: 4272
+lastReviewed: "2026-09-05"
+wordCount: 1319
+keywords:
+  - "itirazın iptali"
+  - "icra inkâr tazminatı"
+  - "likit alacak"
+  - "kötü niyet tazminatı"
 ---
 
 
@@ -34,49 +39,129 @@ niyet tazminatı ve benzeri tazminatların tespitinde, takip talebi veya davadak
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
-**İcra ve İflas Kanunu’nun 67. maddesi, ilamsız icra takibinde borçlunun ödeme emrine karşı yaptığı ve takibi kendiliğinden durduran itirazını (m. 66) hükümden düşürmek amacıyla alacaklıya tanınmış en kapsamlı ve genel hukuk davası olan "itirazın iptali davasını", bu davanın maddi ve usuli şartlarını, hak düşürücü sürelerini ve mali yaptırımlarını düzenleyen kurucu, emredici ve yönlendirici bir usul normudur.** Kanun koyucu bu düzenleyişi, Kanun’un "İlamsız Takip" başlıklı üçüncü babının "Ödeme Emri ve İtiraz" başlıklı altıncı faslında, "İtirazın hükümden düşürülmesi" alt başlığı altında ilk madde olarak konumlandırmıştır. Bu sistematik yerleşim; borçlunun itirazı ile kilitlenen icra takibinin (m. 62, m. 66), alacaklı tarafından genel mahkemeler nezdinde açılacak tam teşekküllü bir dava ile nasıl çözüme kavuşturulacağını gösteren en hayati usuli merhaledir.
 
-Öğretide genel kabul gören görüşe göre, itirazın iptali davası hem takip hukukuna hem de maddi hukuka ilişkin sonuçlar doğuran çift etkili (hibrid) bir dava niteliğindedir:
-* **Dava Açma Hakkı ve Süresi (Birinci Fıkra):** Takip talebine itiraz edilen alacaklı, bu itirazın kendisine resmi olarak tebliğ edildiği tarihten itibaren **bir yıl** içinde genel mahkemelere başvurarak, genel hükümler dairesinde alacağının varlığını ispat suretiyle itirazın iptalini dava edebilir.
-* **Mali Yaptırımlar - İcra İnkâr ve Kötü Niyet Tazminatları (İkinci ve Beşinci Fıkra):** Bu davada borçlunun itirazının haksızlığına karar verilirse borçlu; takibinde haksız ve kötü niyetli görülürse alacaklı; talep üzerine hükmolunan veya reddedilen meblağın **yüzde yirmisinden aşağı olmamak üzere** uygun bir tazminata mahkum edilir. Bu tazminatların tespitinde takip talebi veya davadaki talep esas alınır.
-* **Kanuni Temsilci ve Mirasçıların Korunması (Üçüncü Fıkra):** İtiraz eden kişi veli, vasi veya mirasçı ise, bunlar hakkında tazminat hükmedilebilmesi için bunların şahsen kötü niyetli olduklarının açıkça ispatlanması gerekir.
-* **Süreyi Kaçırmanın Sonucu (Dördüncü Fıkra):** Bir yıllık hak düşürücü süreyi geçiren alacaklının, icra takibini canlandırma imkanı kalmasa da, genel hükümler dairesinde bağımsız bir alacak davası açma hakkı saklıdır.
+İİK m. 67, ilamsız takipte itirazın hükümden düşürülmesinin genel mahkeme yoludur. Borçlu m. 62 ve m. 66 uyarınca ödeme emrine itiraz edince takip durur. Alacaklının elinde m. 68’deki belgeler yoksa icra mahkemesi kapısı kapanır ve duran takibi ancak bu dava açar.
+
+Madde, takip hukuku ile maddi hukuku aynı dosyada birleştirir. Mahkeme alacağın varlığını genel hükümlere göre inceler, kesin hüküm kurar ve duran takibin devamını sağlar. Kuru, *İcra ve İflas Hukuku* eserinde bu davanın icra takibine sıkı bağlı, buna karşılık yargılama usulü bakımından genel mahkeme davası olduğunu belirtir. Çift sonuç, iki davanın karıştırılmasını değil, tek davanın iki yüzünü anlatır.
+
+Birinci fıkra bir yıllık süreyi ve ispatı koyar. İkinci fıkra inkâr ve kötü niyet tazminatını, üçüncü fıkra veli, vasi ve mirasçıyı, sonraki fıkra sürenin kaçırılmasını, son fıkra tazminat matrahını düzenler. 6352 sayılı Kanun’la eklenen son fıkra, yüzde yirminin hangi talepten hesaplanacağını kilitler.
 
 #### 2. Maddedeki Kavramların Analizi
-Madde metninde yer alan ve itirazın iptali rejimini şekillendiren temel usul hukuku kavramlarının analizi şu şekildedir:
-* **İtirazın İptali Davası:** Borçlunun itirazıyla duran ilamsız takibin devamını sağlamak üzere, alacaklının genel mahkemelerde açtığı, borcun varlığının genel ispat kurallarıyla (tanık, senet, yemin, bilirkişi vb.) incelendiği edim davası niteliğindeki genel davadır.
-* **Bir Yıllık Süre:** İtirazın iptali davası açabilmek için öngörülen, itirazın alacaklıya veya vekiline tebliğ edildiği tarihten itibaren işlemeye başlayan ve mahkemece re'sen gözetilmesi gereken **hak düşürücü** süredir.
-* **İcra İnkâr Tazminatı:** Borçlunun borcu olmadığını iddia ederek takibi haksız yere durdurmasının cezai ve mali yaptırımıdır. Bu tazminata hükmedilebilmesi için alacağın **likit (belirli veya borçlu tarafından kolayca belirlenebilir)** olması, borçlunun itirazında haksız çıkması ve alacaklının bu yönde açık bir talebinin bulunması şarttır.
-* **Kötü Niyet Tazminatı:** Alacaklının aslında var olmayan veya ödenmiş bir alacak için kötü niyetli ve haksız olarak takip başlatmasının yaptırımıdır. Alacaklının haksızlığının yanında, takibi başlatırken veya devam ettirirken **kötü niyetli** olduğunun da ispatlanması gerekir.
-* **Genel Hükümler Dairesinde İspat:** İcra mahkemesindeki sınırlı incelemeden (m. 68) farklı olarak, itirazın iptali davasında ispat yükünün ve delillerin ikamesinin **6100 sayılı Hukuk Muhakemeleri Kanunu** kurallarına tabi olmasıdır.
+
+##### 2.1. İtirazın iptali davası
+
+Dava, itirazla duran ilamsız takibin devamını ister. Hukuk Genel Kurulu bu davayı icra takibine sıkı bağlı, maddi ilişkiyi kesin hükümle bitiren bir dava olarak okumuştur. Bağlılık hem miktar hem kaynak bakımındandır. Takipte dayanılmayan bir belgeye sonradan sığınmak, davanın takip yüzünü koparır.
+
+Görev icra mahkemesinde değil alacağın niteliğine göre genel mahkemededir ve ispat HMK kurallarına tabidir, m. 68’deki dar belgesel denetim burada yoktur.
+
+##### 2.2. Bir yıllık süre
+
+Süre itirazın alacaklıya tebliğinden işler, hak düşürücüdür ve mahkemece re’sen gözetilir. Süre kaçınca duran takip bu davayla canlanmaz. Alacaklının genel hükümler dairesinde alacak davası açma hakkı saklıdır. O davadan çıkan ilam, yeni bir ilamlı takibin, yani m. 32 yolunun konusu olur. Eski ilamsız dosya kendiliğinden dirilmez.
+
+##### 2.3. İcra inkâr tazminatı
+
+İkinci fıkra, itirazı haksız çıkan borçluyu, talep üzerine, red veya hükmolunan meblağın yüzde yirmisinden aşağı olmamak üzere tazminata mahkûm eder. Pekcanıtez/Atalay/Sungurtekin Özkan, *İcra ve İflas Hukuku* çalışmasında bu yaptırımın, borcunu bilebilecek borçlunun inkârını pahalılaştırmak için konduğunu belirtir.
+
+Uygulama üç şartı birlikte arar: itirazın haksız çıkması, alacaklının açık tazminat talebi ve alacağın likit olması. Likit, miktarın belli veya borçlunun kâğıtlarına bakarak tayin edilebilir olmasıdır. Kusur, bilirkişi ve takdir isteyen kalem — haksız fiil, manevi tazminat, karmaşık eser bakiyesi — kural olarak likit sayılmaz.
+
+##### 2.4. Kötü niyet tazminatı
+
+Aynı fıkra, takibinde haksız ve kötü niyetli görülen alacaklıyı da tazminata bağlar. Haksızlık yetmez, kötü niyet ayrıca ispatlanır. Yılmaz, *İcra ve İflas Hukuku* eserinde bu kanadın, ödenmiş veya hiç doğmamış alacakla takip açılmasını hedeflediğini yazar. Veli, vasi ve mirasçı hakkında tazminat, üçüncü fıkra gereği kötü niyetin sübutuna bağlıdır.
+
+##### 2.5. Matrah
+
+Son fıkra, inkâr ve kötü niyet tazminatının tespitinde takip talebi veya davadaki talebi esas alır. Mahkeme yüzdeyi bu matrahtan hesaplar. Tazminat için ayrı dava açılamaz, itirazın iptali dosyasında istenir.
 
 #### 3. Sistematik İlişkiler
-İİK m. 67, anayasa hukuku ve medeni usul hukuku sistematiğinde doğrudan adil yargılanma ve savunma hakkını güvenceye alan **Anayasa m. 36** ve mülkiyet hakkını koruyan **Anayasa m. 35** hükümleriyle doğrudan dikey ilişki içerisindedir. Kanun içi sistematiğinde ise; takip talebini düzenleyen **İİK m. 58**, itirazın takibe etkisini belirleyen **İİK m. 66**, icra mahkemesindeki dar yetkili itirazın kaldırılması yolunu tanzim eden **İİK m. 68-68a** ve takibin kesinleşmesinden sonra istenecek hacizleri düzenleyen **İİK m. 78** hükümleriyle sarmal bir bütünlük sergiler. Ayrıca, ispat yükü, delillerin sunulması ve yargılama usulü yönünden **6100 sayılı Hukuk Muhakemeleri Kanunu** hükümleri ile borcun esası ve temerrüt yönünden **6098 sayılı Türk Borçlar Kanunu** hükümleriyle doğrudan dikey etkileşim halindedir.
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: M. 67 davası, alacaklının elinde m. 68 anlamında imza veya borç ikrarı içeren yazılı bir belgenin bulunmadığı durumlarda başvurulması zorunlu olan tek yoldur. Alacaklı, bu dava ile hem borcun varlığını maddi hukuk anlamında kesin hükme bağlatır hem de icra takibine durduğu yerden (m. 66) devam edebilme yetkisini elde eder. Eğer alacaklı bir yıllık süreyi kaçırırsa, duran icra takibi tamamen hükümsüz kalır. Alacaklı bu durumda ancak genel hükümlere göre bağımsız bir alacak davası açabilir; bu yeni davada elde edeceği ilamı ise ancak yeni bir "ilamlı icra takibi" (m. 32) konusu yapabilir.
+- **İİK m. 62** — İtirazın süresi ve şekli. m. 67 o itirazı mahkemede düşürür.
+- **İİK m. 66** — Süresinde itiraz takibi durdurur. m. 67 duran takibin devam anahtarıdır.
+- **İİK m. 68 ve m. 69** — İcra mahkemesinde itirazın kaldırılması. Belge varsa kısa yol, yoksa m. 67.
+- **İİK m. 72** — Menfi tespit ve istirdat. Hukuk Genel Kurulu, itirazın iptali henüz açılmadan da borçlunun menfi tespit davasında hukuki yararı bulunduğunu kabul etmiştir.
+- **İİK m. 32** — Süre kaçınca genel alacak davasının ilamı bu yoldan icraya konur.
+- **HMK** — Yargılama usulü ve ispat. **TBK** — alacağın esası.
 
-#### 4. Uygulama: Yargı İçtihadı
-**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
+#### 4. Uygulama: Yargıtay İçtihadı
+
+Künyeler yerel arşivden birebir alınmıştır.
+
+**Yargıtay Hukuk Genel Kurulu, E. 2022/1269, K. 2023/1106, T. 15.11.2023**
+
+Genel Kurul itirazın iptalini, yasal dayanağını m. 67’den alan, duran takibin devamını sağlayan, icra takibine sıkı bağlı ve maddi ilişkiyi kesin hükümle bitiren dava olarak tanımladı. Bağlılık miktar ve kaynak bakımındandır, usul genel hükümlere tabidir ve ispat külfeti alacak davasıyla aynıdır, ne var ki ispat yöntemleri ile hukuki sonuçlar ayrı durur. Takipte durmayan bir kalem bu davada yeni bir alacak gibi ileri sürülemez.
+
+**Yargıtay Hukuk Genel Kurulu, E. 2023/964, K. 2024/532, T. 23.10.2024**
+
+İnkâr tazminatı için alacağın likit olması zorunludur. Likit olup olmadığı, alacak ve borçlu birlikte tartılarak bulunur. Gerçek miktar belli ve sabit olmalı yahut borçlu bütün unsurları bilerek tutarı tahkik edebilmelidir. Kanun, borcunu bilebilecek borçlunun ödeme emri üzerine inkârını önlemek için bu tazminatı koymuştur. Ayrı dava açılamaz. Somut dosyada ticari kayıt ve fatura tartışması, likidite ölçütünün nasıl işletileceğini göstermiştir.
+
+**Yargıtay Hukuk Genel Kurulu, E. 2024/613, K. 2026/32, T. 28.01.2026**
+
+İlamsız takip itirazla durmuş, alacaklı henüz itirazın iptali açmamıştı. Yerel mahkeme, borçlunun menfi tespit talebini hukuki yarar yokluğundan usulden reddetti. Genel Kurul bu redde katılmadı. m. 67 davası açılmadan önce de borçlunun menfi tespit davasında hukuki yararı vardır. m. 72 kapısı, m. 67 beklenerek kapatılmaz.
+
+**Yargıtay Hukuk Genel Kurulu, E. 2013/142, K. 2013/1371, T. 18.09.2013**
+
+Kredi kartı alacağı takibine itirazın iptali istenmişti. Genel Kurul, alacaklının takipte dayanmadığı belgelere bu davada dayanamayacağını kabul etti. Davanın takip yüzü, delil cüzdanını da sınırlar.
+
+**Yargıtay Hukuk Genel Kurulu, E. 2012/1091, K. 2013/398, T. 27.03.2013**
+
+Husumet, icra dosyasında borca itiraz edene yöneltilir. Davalı akdi ilişkinin tarafı olmadığını savunursa mahkeme işin esasına girer ve pasif husumeti orada çözer. Soyut ehliyet tartışması, alacağın esası incelenmeden bitmez.
+
+**Yargıtay Hukuk Genel Kurulu, E. 2013/2006, K. 2015/1277, T. 29.04.2015**
+
+Banka aleyhine kötü niyet tazminatı istenmişti. Genel Kurul, alacaklının kötü niyetle takip yaptığının ispat edilemediğini tespit etti. Haksız çıkan takip, tek başına kötü niyet faturası kesmez.
+
+Uyar, *İcra ve İflas Kanunu Şerhi* eserinde bu hattın pratik özetini verir: belge varsa m. 68, yoksa m. 67, tazminat için likidite ve talep.
 
 #### 5. Pratik Örnek Olaylar
-* **(kurmaca senaryo) 1 (Likit Alacağa Haksız İtiraz ve İnkâr Tazminatı):** Alacaklı A, borçlu B’ye sattığı ve teslim ettiği ticari malların faturasına dayanarak 200.000 TL üzerinden genel haciz yoluyla takip başlatmıştır. Borçlu B, hiçbir gerekçe göstermeden "borcum yoktur" diyerek takibe itiraz etmiştir. Alacaklı A, bir yıllık süre içinde asliye ticaret mahkemesinde itirazın iptali davası açmıştır. Yapılan yargılamada ticari defterler ve teslim fişleriyle borcun varlığı kesin olarak kanıtlanmış ve mahkeme borçlunun itirazının haksızlığına karar vererek itirazı iptal etmiştir. Alacak faturaya dayalı ve likit (belirlenebilir) olduğundan, mahkeme borçlu B’yi hükmolunan 200.000 TL'nin %20'si oranında (40.000 TL) icra inkâr tazminatı ödemeye mahkum etmiştir.
-* **(kurmaca senaryo) 2 (Ödenen Borç İçin Takip Yapan Alacaklının Kötü Niyet Tazminatına Mahkum Edilmesi):** Alacaklı C, borçlu D’den olan 50.000 TL borcun banka kanalıyla tamamen ödendiğini ve tarafların ibra edildiğini bildiği halde, elindeki eski adi senede dayanarak D aleyhine mükerrer takip başlatmıştır. Borçlu D takibe itiraz etmiş; alacaklı C ise itirazın iptali davası açmıştır. Davada borçlu D, banka dekontunu ve ibranameyi sunarak borcun takipten önce söndüğünü ispat etmiştir. Mahkeme, alacaklı C’nin takibinde tamamen haksız ve kötü niyetli olduğunu saptayarak davanın reddine ve alacaklı C’nin talep edilen miktarın %20'si oranında (10.000 TL) kötü niyet tazminatına mahkum edilmesine karar vermiştir.
-* **(kurmaca senaryo) 3 (Mirasçının İtirazında Tazminat Şartı):** Müteveffa babasının borçları nedeniyle hakkında icra takibi başlatılan mirasçı E, babasının böyle bir borcu olup olmadığını bilmediğinden süresi içinde takibe itiraz etmiştir. Alacaklı F, itirazın iptali davası açarak borcun varlığını kanıtlamış ve mirasçı E'nin tazminata mahkum edilmesini istemiştir. Mahkeme, mirasçı E'nin borcun varlığını bilmemesinin doğal olduğunu, m. 67/3 uyarınca mirasçılar aleyhine tazminata hükmedilebilmesi için mirasçının "kötü niyetli" olduğunun (borcu bildiği halde sırf takibi uzatmak için itiraz ettiğinin) alacaklı tarafından kanıtlanması gerektiğini, somut olayda kötü niyetin kanıtlanamadığını belirterek mirasçı E hakkında tazminat talebini reddetmiş, sadece itirazın iptaline karar vermiştir.
+
+**Olay 1 (kurmaca senaryo):**
+
+Tüccar faturalı 200.000 TL alacak için takip açınca borçlu “borcum yoktur” diyerek itiraz etti ve alacaklı bir yıl içinde ticaret mahkemesinde itirazın iptali istedi. Defter ve teslim fişi borcu gösterdiğinden mahkeme itirazı iptal etti ve likit alacak olduğu için yüzde yirmi inkâr tazminatına hükmetti.
+
+*Hukuki analiz:* Fatura ve teslim, borçlunun tutarı tayin edebileceği unsurları taşır. Likidite ve haksız itiraz birleşince ikinci fıkra işler.
+
+**Olay 2 (kurmaca senaryo):**
+
+Alacaklı, bankadan ödendiğini bildiği senetle yeniden takip yaptı. Borçlu itiraz etti, dekont ve ibranameyi sundu. Mahkeme davayı reddetti ve alacaklıyı kötü niyet tazminatına mahkûm etti.
+
+*Hukuki analiz:* Haksızlık yetmez. Ödemeyi bile bile takip, üçüncü fıkradaki kötü niyet kanadını doldurur.
+
+**Olay 3 (kurmaca senaryo):**
+
+Mirasçı, murisin borcunu bilmediği için itiraz etti. Alacaklı borcu ispatladı ve tazminat istedi. Mahkeme itirazı iptal etti, tazminatı reddetti zira mirasçının kötü niyeti sübuta ermemişti.
+
+*Hukuki analiz:* Üçüncü fıkra, yasal temsilci ve mirasçıyı sırf itiraz ettikleri için cezalandırmaz.
 
 #### 6. Pratik Uygulama Notları
-Uygulamada itirazın iptali davalarını ve takip süreçlerini yöneten hukukçuların ve mahkemelerin aşağıdaki pratik hususlara dikkat etmesi gerekir:
-* **Bir Yıllık Sürenin Başlangıcı:** Sürenin başlangıcı borçlunun "itiraz ettiği tarih" değil, itiraz dilekçesinin alacaklıya veya vekiline icra dairesi tarafından resmi olarak **tebliğ edildiği tarihtir**. Tebliğ yapılmadığı sürece bir yıllık süre işlemeye başlamaz. Ancak alacaklı tebliği beklemeden, itirazı haricen öğrendiği tarihten itibaren de davasını açabilir.
-* **Likit Alacak Kriteri:** İcra inkâr tazminatına hükmedilebilmesi için alacağın likit olması şarttır. Eğer alacağın varlığı ve miktarı ancak mahkemenin yapacağı detaylı bir kusur incelemesi, tazminat hesabı veya geniş kapsamlı takdir yetkisi (örneğin haksız fiil tazminatı veya manevi tazminat gibi) sonucunda belirlenebilecek nitelikteyse, alacak likit kabul edilmez ve borçlu aleyhine inkâr tazminatına hükmedilemez.
-* **Yetkili ve Görevli Mahkeme:** İtirazın iptali davası icra mahkemesinde değil, genel görevli mahkemelerde (Asliye Hukuk, Asliye Ticaret, Tüketici, Aile, İş Mahkemeleri vb.) alacağın niteliğine göre genel yetki kuralları dairesinde açılmalıdır. Görevli mahkemenin yanlış seçilmesi davanın usulden reddine yol açar.
+
+- **Süre:** Başlangıç itirazın tebliğ tarihidir, itirazın yazıldığı gün değildir.
+- **Delil:** Takipte dayanılmayan belgeye m. 67 dosyasında yaslanmak, Genel Kurul’un 2013/1371 sayılı ölçüsüne takılır.
+- **Tazminat:** Ayrı dava yok. Likit olmayan kalemde inkâr tazminatı istenmez.
+- **Menfi tespit:** m. 67 açılmadan da m. 72 davasında hukuki yarar düşmez.
+- **Görev:** İcra mahkemesi değil, alacağın mahkemesi.
 
 #### 7. Eleştirel Değerlendirme
-İİK m. 67 hükümleri, alacaklının duran takibini canlandırması ve haksız itirazlara karşı mali yaptırımlar getirmesi bakımından cebri icra sisteminin dinamizmini koruyan kurucu bir usul kolonudur. Ancak yargılama sürelerinin uzunluğu ve tazminat dengesizlikleri yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, m. 67’de yer alan "bir yıl" gibi oldukça uzun bir dava açma süresinin; kötü niyetli borçlular tarafından takibi sürüncemede bırakmak ve malvarlıklarını bu süreçte elden çıkarmak amacıyla bir sığınak olarak kullanılmasına yol açtığı, alacaklının davayı kazanıp icra dairesine döndüğünde haczedecek hiçbir malvarlığı bulamaması riskiyle karşı karşıya kaldığı gerekçesiyle eleştirilmektedir.**
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: Alacaklının tazminat alabilmesi için alacağın "likit" olması şartı aranırken, kötü niyetli borçluların ticari defter ve kayıtlara dayanan net borçları dahi basit inkârlarla aylarca süren yargılamalara mahkum etmesi adalete olan güveni sarsmaktadır. Kanun koyucu, anayasal eşitlik, usul ekonomisi ve mülkiyet hakkı ilkelerini tam tahkim etmek adına, **m. 67’yi yeniden tanzim ederek; dava açma süresini 1 yıldan 6 aya indiren**, itirazın iptali davalarını genel mahkemelerin hantal işleyişinden kurtarıp arabuluculuk mekanizmasıyla entegre eden hızlı ve özel bir yargılama usulüne tabi kılan; aynı zamanda davanın açılmasıyla birlikte alacaklıya teminatsız ihtiyati haciz kararı alabilme kolaylığı getiren çağdaş, dinamik ve alacaklının haklarını fiilen koruyan bir cebri icra reformunu hayata geçirmelidir.
+Bir yıllık süre alacaklıya nefes verir, borçluya da mal kaçırma aralığı açar. Öğreti bu aralığı eleştirir. Kanaatimizce süre tartışması, ihtiyati haciz ve m. 72 ile birlikte okunmalıdır. Süre tek başına kısaltılırsa hak arama daralır, olduğu gibi bırakılırsa takip boşalır.
+
+Likidite şartı, takdir isteyen alacakta borçluyu haksız yere yüzde yirmiye mahkûm etmemek için doğrudur. Ne var ki ticari faturada likiditeyi yok saymak, inkârı bedava bırakır. Bizce ölçüt, mahkemenin yeni bir zarar hesabı yapıp yapmadığıdır. Hesap yoksa tutar borçlunun masasında duruyordur.
+
+Görüşümüzce husumet ve delil sınırları, davanın takip yüzünü korur. Genel mahkeme davası diye her iddia ve her belge içeri alınırsa m. 67, m. 68’in yanına değil üstüne çıkar.
 
 ---
 
 ### Metodolojik Not
-Bu şerh çalışması, İcra ve İflas Kanunu m. 67 hükmünün icra ve iflas hukuku, borçlar hukuku (TBK), medeni usul hukuku (HMK) ve anayasa hukuku boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk icra ve iflas hukukunun genel kabul gören doktrinel ilkeleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.
 
- İcra ve İflas Kanunu m. 67 kapsamındaki itirazın iptali davası, hak düşürücü süreler ve tazminat rejimini inceleyen bu kapsamlı akademik şerh çalışması başarıyla tamamlanmıştır.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin*: Kuru, *İcra ve İflas Hukuku*, Pekcanıtez/Atalay/Sungurtekin Özkan, *İcra ve İflas Hukuku*, Yılmaz, *İcra ve İflas Hukuku* ve Uyar, *İcra ve İflas Kanunu Şerhi*. Sayfa ve baskı yılı yazılmamıştır.
+- *Yargıtay kararları*: `data/yargi-kararlari/` yerel arşivi. Künyeler arşivden birebir alınmıştır.
+- *Kanun metni*: 2004 sayılı İİK m. 67 resmi lafız.
+
+**Yorumun kapsamı:** Yürürlükteki m. 67 metnine dayanır.
+
+**Görüş:** İtirazın iptali takibe bağlı genel davadır, inkâr tazminatı likidite ister ve menfi tespit m. 67 beklenerek kapatılmaz.
+
+**Güncellik:** 05.09.2026 tarihi itibarıyla günceldir.
+

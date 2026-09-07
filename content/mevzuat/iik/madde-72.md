@@ -3,8 +3,8 @@ title: "İcra ve İflas Kanunu Madde 72"
 kanun: "İcra ve İflas Kanunu"
 maddeNo: 72
 commentaryStatus: "completed"
-lastReviewed: "2026-07-20"
-wordCount: 4270
+lastReviewed: "2026-09-05"
+wordCount: 1524
 ---
 
 
@@ -50,45 +50,125 @@ istirdat davasında yalnız paranın verilmesi lazımgelmediğini ispata mecburd
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
-**İcra ve İflas Kanunu’nun 72. maddesi, cebri icra tehdidi altında bulunan borçlunun maddi hukuk bakımından borçlu olmadığını iddia ederek icra takibini durdurmasını, kesinleşmiş takibin tahsilat aşamasını askıya almasını veya haksız yere ödemek zorunda kaldığı parayı geri almasını sağlayan; icra hukukunun katı ve şekli yapısı karşısında maddi adaletin ve hak arama hürriyetinin korunmasını temin eden en temel, kurucu ve himaye edici usul normudur.** Kanun koyucu bu düzenlemeyi, "İlamsız Takip" başlıklı üçüncü babının "Ödeme Emri ve İtiraz" başlıklı altıncı faslının sonunda konumlandırmıştır. Bu systematic yerleşim; ödeme emrinin kesinleşmesi, itirazın kaldırılması veya iptali gibi usuli barajların aşılmasından sonra, borçlunun maddi hukuk zeminindeki haklılığını tam teşekküllü bir dava ile ileri sürebilmesini sağlayan nihai ve kapsamlı bir yargısal denetim mekanizması sunmaktadır.
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: Menfi tespit davası, borçlunun maddi hukuk anlamında bir borcunun bulunmadığının mahkemece tescil edilmesini amaçlayan bir olumsuz tespit davasıdır. İstirdat davası ise, borçlu olmadığı bir parayı icra tehdidi altında tamamen ödemek zorunda kalan kişinin, bu paranın iadesini talep ettiği bir edim davasıdır. Madde 72, borçluya takibin farklı aşamalarında (takip öncesinde, takip sırasında veya ödemeden sonra) farklı hukuki himaye mekanizmaları sunarak, alacaklının haksız takip başlatma veya sürdürme girişimlerine karşı etkin bir anayasal savunma dengesi kurmaktadır.
+İİK m. 72, ilamsız takibin itiraz faslını maddi hukuka bağlayan genel mahkeme yoludur. m. 66, süresinde ileri sürülen itirazı takip üzerine oturtur ve dosyayı durdurur. Alacaklı bu durmayı m. 67 davasıyla yahut m. 68 ve m. 69 belgesel yoluyla kaldırır. Borçlu ise, takip henüz açılmadan, dosya yürürken veya para ödendikten sonra, maddi hukukta borçlu olmadığını ayrı bir davada konuşturur.
+
+Kuru, *İcra ve İflas Hukuku* eserinde menfi tespiti, karşı tarafın var saydığı hukuki ilişkinin gerçekte kurulmadığının hükme bağlanması olarak okur. İstirdat aynı maddenin ikinci yüzüdür: cebri icra baskısıyla ödenen paranın iadesi istenir. Tespit hükmü tek başına icraya koyulamaz; istirdat eda ister. Kanun ikisini yan yana tutar zira tehdit aynı kaynaktan çıkar.
+
+Birinci fıkra davayı açma anını koyar. İkinci fıkra takip öncesi tedbiri, üçüncü fıkra takip sonrası vezne tedbirini ayırır. Sonraki fıkralar alacaklının gecikme zararını, borçlunun haksız takip zararını, davanın istirdata dönüşmesini, bir yıllık istirdat süresini ve seçimlik yetkiyi düzenler. Pekcanıtez/Atalay/Sungurtekin Özkan, *İcra ve İflas Hukuku* çalışmasında bu sıranın, takibin hızı ile borçlunun hak arama imkânını aynı terazide tarttığını belirtir.
 
 #### 2. Maddedeki Kavramların Analizi
-Madde metninde yer alan ve menfi tespit ile istirdat davalarının usuli ve maddi rejimini şekillendiren temel kavramların analizi şu şekildedir:
-*   **Menfi Tespit Davası:** Borçlunun, alacaklı olduğunu iddia eden kişiye karşı maddi hukukta böyle bir borcun hiç doğmadığını, sona erdiğini veya muaccel olmadığını ispat etmek amacıyla açtığı olumsuz tespit davasıdır.
-*   **İstirdat Davası:** Menfi tespit davasında tedbir kararı almamış veya alamamış olması nedeniyle borçlu olmadığı parayı cebri icra baskısıyla tamamen ödemek zorunda kalan borçlunun, ödediği parayı geri almak amacıyla açtığı edim davasıdır.
-*   **Takip Öncesi Açılan Davada İhtiyati Tedbir:** Borçlunun henüz hakkında icra takibi başlatılmadan önce açtığı menfi tespit davasında, davanın açıldığı mahkemeden alacağın **en az yüzde onbeşi oranında teminat** göstererek takibin başlatılmasını veya başlamışsa durdurulmasını sağlayan tedbir kararıdır.
-*   **Takip Sonrası Açılan Davada İhtiyati Tedbir Sınırı:** Takip başlatıldıktan sonra açılan menfi tespit davasında mahkemenin takibi durdurma yönünde tedbir kararı veremeyeceğini; borçlunun ancak gecikme zararlarını karşılamak ve **en az yüzde onbeş teminat** göstermek kaydıyla, **icra veznesindeki paranın alacaklıya verilmemesini** talep edebileceğini öngören katı sınırlamadır.
-*   **İcra İnkâr ve Kötü Niyet Tazminatları:** Davanın taraflarından birinin haksız çıkması ve diğer tarafın talebi halinde, takip konusu alacağın **yüzde yirmisinden aşağı olmamak üzere** hükmedilen tazminat yaptırımlarıdır.
-*   **Davaya İstirdat Davası Olarak Devam Edilmesi:** Menfi tespit davası devam ederken, borçlunun tedbir kararı almaması veya tedbir talebinin reddedilmesi nedeniyle borcun icra dairesine tamamen ödenmesi halinde, davanın kendiliğinden ve ayrıca yeni bir dava açmaya gerek kalmaksızın ödenen paranın geri alınması (istirdat) davasına dönüşmesidir.
-*   **Bir Yıllık Hak Düşürücü Süre:** İtiraz etmemiş veya itirazı kaldırılmış olan borçlunun, haksız yere ödediği parayı geri isteyebilmesi için ödeme tarihinden itibaren genel mahkemede dava açması gereken katı süredir.
+
+##### 2.1. Menfi tespit davası
+
+Dava, borçlunun alacaklıya karşı maddi hukukta borçlu bulunmadığını tespit ettirmesidir. Hukuk Genel Kurulu bu davayı genel hükümlere dayalı, olağan bir hukuk davası sayar. Görev, alacağın niteliğine göre genel mahkemededir; icra mahkemesinin belgesel denetimi burada işlemez. İspat, kural olarak alacaklı olduğunu iddia eden davalıdadır.
+
+##### 2.2. Takip öncesi tedbir
+
+Henüz icra dosyası açılmadan görülen davada mahkeme, alacağın yüzde onbeşinden aşağı olmamak üzere teminat karşılığında takibin durdurulmasına karar verebilir. Tedbir talep iledir, re’sen kurulmaz. Teminat nakit veya mahkemenin kabul edeceği bir mektup olabilir. Yılmaz, *İcra ve İflas Hukuku* eserinde bu eşiğin, durdurmanın alacaklıya yükleyeceği gecikmeyi peşinen karşılamak için konduğunu yazar.
+
+##### 2.3. Takip sonrası tedbir sınırı
+
+Takip başladıktan sonra mahkeme, ihtiyati tedbirle dosyayı durduramaz. Borçlu ancak gecikme zararını karşılayacak ve yine yüzde onbeşten aşağı düşmeyecek teminatla, icra veznesindeki paranın alacaklıya ödenmemesini isteyebilir. Haciz ve satış bu tedbirle durmaz. Uyar, *İcra ve İflas Kanunu Şerhi* eserinde bu sınırın kesinleşmiş takibin yürüyüşünü koruduğunu, buna karşılık satışın doğurduğu malvarlığı kaybını borçlunun sırtına bıraktığını belirtir.
+
+##### 2.4. Tazminatlar
+
+Dava alacaklı lehine biterse tedbir kalkar. Hükmün kesinleşmesi üzerine alacaklı, tedbir yüzünden alacağını geç almaktan doğan zararını teminattan alır. Zarar aynı davada takdir edilir ve her hâlde yüzde yirmiden aşağı olamaz. Uygulama, reddedilen menfi tespitlerde bu fıkrayı icra inkâr tazminatı diye işletir; öğreti, m. 67’deki likidite ve açık talep şartlarını buraya da taşır.
+
+Dava borçlu lehine biterse takip derhal durur. İlamın kesinleşmesi üzerine, ayrıca hüküm gerekmeksizin icra kısmen veya tamamen eski hâle iade edilir. Borçluyu davaya zorlayan takibin haksız ve kötü niyetli olduğu anlaşılırsa, talep üzerine, dava sebebiyle uğranılan zarar alacaklıdan alınır ve bu zarar takip konusu alacağın yüzde yirmisinden aşağı olamaz. Haksızlık yetmez; kötü niyet ayrıca aranır.
+
+##### 2.5. Davanın istirdata dönüşmesi
+
+Menfi tespit sırasında tedbir alınmamış ve borç ödenmişse dava, yeni bir dava açılmaksızın istirdat davası olarak yürür. Konusuz kalma yoktur. Usul ekonomisi, aynı dosyada iade talebine geçilmesini ister.
+
+##### 2.6. İstirdat davası ve bir yıllık süre
+
+Takibe itiraz etmemiş veya itirazı kaldırılmış olan kimse, borçlu olmadığı parayı tamamen ödemek zorunda kalırsa, ödeme tarihinden itibaren bir yıl içinde genel mahkemede paranın geri alınmasını isteyebilir. Süre hak düşürücüdür. Davacı, yalnız paranın verilmesinin gerekmediğini ispatla yükümlüdür.
+
+##### 2.7. Yetki
+
+Dava, takibi yapan icra dairesinin bulunduğu yer mahkemesinde açılabileceği gibi davalının yerleşim yeri mahkemesinde de açılabilir. Seçim davacıdadır.
 
 #### 3. Sistematik İlişkiler
-İİK m. 72, anayasa hukuku ve medeni usul hukuku sistematiğinde adil yargılanma, hak arama hürriyeti ve hukuki dinlenilme haklarını koruyan **Anayasa m. 36** ile mülkiyet hakkını güvenceye alan **Anayasa m. 35** hükümleriyle doğrudan dikey ilişki içerisindedir. Kanun içi sistematiğinde ise; ödeme emrine itirazı düzenleyen **İİK m. 62**, itirazın durdurucu etkisini koyan **İİK m. 66**, itirazın kaldırılması usullerini belirleyen **İİK m. 68-68a** ve takibin kesinleşmesinden sonraki olağanüstü erteleme ve iptal yollarını tanzim eden **İİK m. 71** hükümleriyle sarmal bir bütünlük sergiler. Ayrıca, olumsuz tespit davalarının genel çerçevesini çizen **6100 sayılı Hukuk Muhakemeleri Kanunu m. 106**, ihtiyati tedbir şartlarını düzenleyen **HMK m. 389 ve devamı** ile istirdat davasının maddi hukuk temelini oluşturan sebepsiz zenginleşme müessesesini tanzim eden **6098 sayılı Türk Borçlar Kanunu m. 77-82** hükümleriyle doğrudan dikey etkileşim halindedir.
 
-Öğretide genel kabul gören görüşe göre, m. 72'deki istirdat davası, borçlar hukukundaki sebepsiz zenginleşme davasının icra takip hukukuna özgülenmiş, süre ve ispat kuralları yönünden özelleştirilmiş bir alt türüdür. TBK m. 82'de sebepsiz zenginleşme davası için iki yıllık zamanaşımı öngörülmüşken, İİK m. 72/7'de istirdat davası için **bir yıllık hak düşürücü süre** kabul edilerek takip hukukunun sürat ve kesinlik ilkeleri maddi hukuka üstün tutulmuştur. Aynı şekilde, menfi tespit davasının yargılama sırasında istirdat davasına dönüşmesi kuralı, usul ekonomisi ilkesinin medeni usul hukukundaki en somut ve başarılı uygulama örneğidir.
+- **İİK m. 66** — Süresinde itiraz takibi durdurur. Menfi tespit, duran veya kesinleşen takipten bağımsız olarak maddi borcu konuşturur.
+- **İİK m. 67** — İtirazın iptali alacaklının genel mahkeme yoludur. Hukuk Genel Kurulu, bu dava henüz açılmadan da borçlunun menfi tespit davasında hukuki yararı bulunduğunu kabul etmiştir.
+- **İİK m. 68 ve m. 69** — İcra mahkemesinde itirazın kaldırılması. Belge varsa kısa yol, yoksa alacaklı m. 67’ye, borçlu m. 72’ye gider.
+- **HMK** — Tespit davası, hukuki yarar ve ihtiyati tedbir. **TBK** — istirdatta sebepsiz zenginleşme esası.
 
-#### 4. Uygulama: Yargı İçtihadı
-**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
+#### 4. Uygulama: Yargıtay İçtihadı
+
+Künyeler yerel arşivden birebir alınmıştır.
+
+**Yargıtay Hukuk Genel Kurulu, E. 2023/752, K. 2024/319, T. 06.06.2024**
+
+İlamsız takip, üzerinde açıklama bulunmayan bir havaleye dayanıyordu ve itiraz süresi kaçınca dosya kesinleşmişti. Yerel mahkeme borçlu olunmadığını tespit etti. Bölge adliye mahkemesi, haciz tutanağındaki ödeme imkânım yoktur cümlesini kabul sayarak davayı reddetti ve bu gerekçede direndi. Genel Kurul direnmeyi bozdu. Menfi tespit m. 72’de düzenlenir, maddi hukuk ve usul bakımından genel hükümlere dayalı normal bir hukuk davasıdır; takip öncesinde, sırasında veya sonrasında açılabilir. İspat yükü, alacaklı olduğunu iddia eden davalıdadır. Havale ödeme vasıtasıdır ve mevcut borcun ödendiği karinesini taşır; aksini havaleci kanıtlar. Haciz zaptındaki kayıt, kayıtsız şartsız kabul değildir. Hukuki yarar durduğu sürece dava, tasarrufun iptalinden yıllar sonra da açılabilir.
+
+**Yargıtay Hukuk Genel Kurulu, E. 2024/613, K. 2026/32, T. 28.01.2026**
+
+Kefaletnameye dayalı iki ilamsız takip vardı. Birincisi icra mahkemesince iptal edilmiş olup ikincisi itirazla durmuştu. Yerel mahkeme, itirazın iptali henüz açılmadığı için hukuki yarar yok deyip menfi tespiti usulden reddetti. Genel Kurul bu redde katılmadı. Borçlu, alacaklının m. 67 yoluna başvurmasını beklemek zorunda değildir. Kefaletnameye dayanan takipte borçlu olunmadığının tespiti, güncel belirsizliği gidermeye elverişlidir. m. 72 kapısı, m. 67 beklenerek kapatılmaz. İkinci uyuşmazlıkta Kurulu, kefaletnamenin bütünü üzerinden nispi harç tamamlatılmadan hüküm kurulamayacağını da söyledi.
+
+**Yargıtay Hukuk Genel Kurulu, E. 2023/877, K. 2024/83, T. 07.02.2024**
+
+Çeklere dayalı asıl ve birleşen menfi tespit davalarında bölge adliye mahkemesi, bir davalı yönünden davayı reddedip m. 72/4 uyarınca icra inkâr tazminatına hükmetmişti. Genel Kurul esasa girmedi. Her bir davadaki çek bedeli, direnme tarihinde yürürlükteki kesinlik sınırının altında kaldığından temyiz dilekçesini miktardan reddetti. Karar, m. 72 tazminatının da kanun yolu hesabına dâhil olduğunu gösterir; inkâr tazminatının şartlarını çözmez.
+
+**Yargıtay Hukuk Genel Kurulu, E. 2025/391, K. 2026/211, T. 01.04.2026**
+
+Satış vaadi sözleşmesi noterde düzenleme şeklinde yapılmamıştı. Davacı, geçersiz sözleşmeden kalan bakiyenin elli bin lira olduğunu ve bu miktar dışında borçlu bulunmadığını tespit ettirmek istedi. Özel Daire talebi m. 72 menfi tespiti saydı ve ödenen bedellerin icra dosyalarıyla birlikte araştırılmasını istedi. Yerel mahkeme, çekişmesiz ödeme miktarına yeniden bilirkişi bakılmasını yargılamayı uzatır gerekçesiyle direndi. Genel Kurul esasa girmedi; direnme kararının vekile tebliğinden sonra temyiz süresinin dolduğunu tespit ederek dilekçeyi süre yönünden reddetti. Künye, geçersiz satış vaadinde kalan borcun m. 72 ile konuşulduğunu gösterir; Kurulu’nun miktar ölçütü koyduğunu göstermez.
 
 #### 5. Pratik Örnek Olaylar
-*   **(kurmaca senaryo) 1 (Takip Başlamadan Önce Açılan Davada İhtiyati Tedbir Kararı Alınması):** Borçlu A, kendisinden sahte bir imza ile düzenlenen 500.000 TL tutarındaki adi senede dayanarak takip başlatılacağını haricen öğrenmiştir. Borçlu A, henüz icra dairesinde takip açılmadan önce asliye hukuk mahkemesinde alacaklı B aleyhine menfi tespit davası açmış ve m. 72/2 uyarınca ihtiyati tedbir talep etmiştir. Mahkeme, alacağın %15'i oranındaki teminatın (75.000 TL) nakit veya teminat mektubu olarak mahkeme veznesine yatırılması karşılığında, borçlu hakkında bu senede dayalı olarak icra takibi başlatılmasının durdurulmasına yönelik ihtiyati tedbir kararı vermiştir.
-*   **(kurmaca senaryo) 2 (Takip Sonrası Açılan Davada Veznedeki Paranın Durdurulması):** Alacaklı C, borçlu D aleyhine kesinleşen icra takibi üzerinden D'nin taşınmazlarını haczettirmiş ve satış aşamasına getirmiştir. Borçlu D, takibin kesinleşmesinden sonra asliye hukuk mahkemesinde menfi tespit davası açarak takibin durdurulmasını talep etmiştir. Mahkeme, m. 72/3 uyarınca takip başladıktan sonra açılan menfi tespit davasında takibin durdurulmasına karar verilemeyeceğini, ancak borçlunun %15 teminat yatırması kaydıyla **icra veznesindeki paranın alacaklıya verilmemesi** yönünde ihtiyati tedbir kararı verilebileceğini saptayarak bu doğrultuda tedbir tesis etmiştir. Böylece taşınmaz satılsa dahi paranın alacaklıya aktarılması dava sonuna kadar engellenmiştir.
-*   **(kurmaca senaryo) 3 (Yargılama Sırasında Ödeme Yapılması ve Davanın İstirdata Dönüşmesi):** Borçlu E, hakkında yürütülen takip sırasında menfi tespit davası açmış ancak mahkemeden ihtiyati tedbir kararı alamamıştır. Alacaklı F, takibe devam ederek borçlu E’nin banka hesaplarındaki 300.000 TL'yi tamamen tahsil etmiş ve icra dosyası kapatılmıştır. Menfi tespit davasına bakan mahkeme, m. 72/6 uyarınca davanın konusuz kalmadığını, borcun tamamen ödenmiş olması nedeniyle davaya kendiliğinden **istirdat (paranın geri alınması) davası** olarak devam edileceğini saptayarak yargılamayı bu yönde sürdürmüş ve borcun haksızlığını kanıtlayan borçlu E lehine paranın iadesine hükmetmiştir.
+
+**Olay 1 (kurmaca senaryo):**
+
+Tüccar, sahte imzalı 400.000 TL’lik senede dayanılarak takip açılacağını haricen öğrendi. Henüz icra dosyası yokken asliye hukuk mahkemesinde menfi tespit açtı ve yüzde onbeş teminat yatırarak takibin durdurulmasını istedi. Mahkeme tedbiri verdi.
+
+*Hukuki analiz:* İkinci fıkra, takip öncesi davada durdurmayı teminata bağlar. Takip henüz yokken bu kapı açıktır; dosya açıldıktan sonra aynı tedbir verilemez.
+
+**Olay 2 (kurmaca senaryo):**
+
+Alacaklı kefaletnameyle ilamsız takip açtı, borçlu süresinde itiraz etti, takip durdu. Alacaklı henüz itirazın iptalini açmamıştı. Yerel mahkeme, menfi tespitte hukuki yarar yok deyip davayı usulden reddetti.
+
+*Hukuki analiz:* Hukuk Genel Kurulu’nun 2024/613 esaslı ölçüsü burada işler. m. 67 beklenmeden de m. 72 davasında hukuki yarar vardır.
+
+**Olay 3 (kurmaca senaryo):**
+
+Borçlu, açıklamasız havaleye dayalı kesinleşmiş takipte tedbir alamadan parayı ödedi. Menfi tespit dosyası istirdata döndü. Alacaklı, haciz zaptındaki ödeme imkânım yoktur cümlesine sığındı.
+
+*Hukuki analiz:* Altıncı fıkra davayı iadeye çevirir. Havale karinesi ve ispat yükü alacaklıdadır; haciz kaydı kayıtsız şartsız kabul sayılmaz. İstirdatta bir yıllık süre ödeme gününden işler.
 
 #### 6. Pratik Uygulama Notları
-Uygulamada menfi tespit ve istirdat davalarını yöneten hukukçuların ve mahkemelerin aşağıdaki pratik hususlara dikkat etmesi gerekir:
-*   **Seçimlik Yetki Kuralları:** M. 72/last uyarınca, menfi tespit ve istirdat davalarında genel yetki kurallarının yanında özel bir seçimlik yetki kuralı getirilmiştir. Davacı borçlu, bu davaları **takibi yapan icra dairesinin bulunduğu yer mahkemesinde** açabileceği gibi, genel yetki kuralı gereği **davalının (alacaklının) yerleşim yeri mahkemesinde** de açabilir. Alacaklının bu yetki kuralına karşı yapacağı yetki işlerine yönelik itirazlar mahkemece reddedilmelidir.
-*   **İstirdat Davasında İspat Yükünün Karakteri:** İstirdat davasında ispat yükü davacı borçlunun üzerindedir. Borçlu, m. 72/last uyarınca, sadece parayı ödediğini değil; maddi hukuk bakımından bu parayı vermesini gerektiren hukuki bir sebebin (borcun) bulunmadığını genel ispat vasıtalarıyla kanıtlamak zorundadır.
-*   **Tazminatların Esas Alınma Matrahı:** İcra inkâr, kötü niyet veya haksız takip tazminatlarının hesaplanmasında, tarafların talep ettikleri fahiş rakamlar değil, **takip talebindeki miktar veya davadaki somut talep miktarı** esas alınmalı ve %20 oranı bu matrah üzerinden hesaplanmalıdır.
+
+- **Tedbir anı:** Takip öncesi durdurma mümkündür; takip sonrası yalnız vezne tutulur, haciz ve satış durmaz.
+- **Hukuki yarar:** İtirazın iptali açılmadan da menfi tespit dinlenir. Yarar durduğu sürece gecikmiş dava, tek başına ret sebebi değildir.
+- **İspat:** Menfi tespitte yük, alacaklı olduğunu söyleyen davalıdadır. İstirdatta davacı, paranın verilmesinin gerekmediğini gösterir.
+- **Tazminat:** Ayrı dava yoktur. Yüzde yirmi alt sınırdır; alacaklı lehine sonuçta gecikme zararı, borçlu lehine sonuçta haksızlık ve kötü niyet birlikte aranır.
+- **Süre:** İstirdatta başlangıç ödeme tarihidir, takip tarihi değildir.
+- **Yetki:** İcra dairesinin yeri ile davalının yerleşim yeri arasında seçim davacıdadır.
+- **Kanun yolu:** Asıl ve birleşen menfi tespitler kesinlik hesabında ayrı durur.
 
 #### 7. Eleştirel Değerlendirme
-İİK m. 72 hükümleri, borçlunun haksız cebri icra işlemlerine karşı korunmasını sağlaması yönünden cebri icra sisteminin anayasal meşruiyet temelidir. Ancak özellikle takip sonrası dönemde borçluya uygulanan katı tedbir sınırlamaları yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, takip başladıktan sonra açılan menfi tespit davalarında mahkemelerin takibi durdurma yetkisinin tamamen elinden alınmasının ve sadece "icra veznesindeki paranın alacaklıya verilmemesi" şeklinde sınırlı bir tedbir imkanı tanınmasının; dürüst borçluları evlerinin, işyerlerinin veya mallarının haczedilip satılması gerçeğiyle baş başa bıraktığı, bu durumun ise mülkiyet hakkını ve adalete erişim hürriyetini ölçüsüzce zedelediği savunulmaktadır.**
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: Borçlunun sahte bir senetle yapılan takibe karşı, sadece takip kesinleştikten sonra davayı açabildiği hallerde dahi mallarının satılmasını önleyememesi, şekli takibin maddi gerçeğe fahiş bir üstünlük sağlamasına yol açmaktadır. Kanun koyucu, anayasal eşitlik, ölçülülük ve hak arama hürriyeti ilkelerini tam tahkim etmek adına, **m. 72’yi yeniden tanzim ederek; takip sonrasında açılan menfi tespit davalarında da, alacağın niteliğine ve delillerin gücüne göre mahkemelere borçlunun mallarının satışını durdurabilecek esnek ihtiyati tedbir kararları verme yetkisi tanıyan**; istirdat davalarındaki bir yıllık dar hak düşürücü süreyi hakkaniyete uygun olarak uzatan çağdaş, hakkaniyetli ve borçlu haklarını etkin koruyan bir cebri icra reformunu hayata geçirmelidir.
+Takip sonrası tedbirin satışa dokunmaması öğretide eleştirilir. Kanaatimizce vezne tedbiri, paraya çevrilmiş dosyada işe yarar; taşınmazın el değiştirmesini önlemez. Teminat yatırılmış borçluyu satışla baş başa bırakmak, maddi gerçeği şeklî takibe feda eder. Bizce kanun koyucu, güçlü delil ve yeterli teminat şartıyla satışı durduran dar bir kapı açabilirdi; şimdiki lafız bunu vermiyor.
+
+Bir yıllık istirdat süresi, TBK’daki sebepsiz zenginleşme zamanaşımından kısadır. Takip hukukunun kesinlik arayışı bu daralmayı açıklar. Ne var ki geç öğrenilen ödemelerde süre, hak aramayı fiilen kapatır.
+
+Görüşümüzce 2024/613 esaslı hukuki yarar ölçüsü isabetlidir. İtirazın iptalini bekletmek, borçluyu alacaklının takvimine mahkûm ederdi. Kesinlik sınırından dönen tazminat dosyası ise ayrı bir uyarı taşır: m. 72/4 inkâr tazminatı, esasa dair bir içtihat sanılmamalıdır.
 
 ---
 
 ### Metodolojik Not
-Bu şerh çalışması, İcra ve İflas Kanunu m. 72 hükmünün icra ve iflas hukuku, medeni usul hukuku (HMK m. 106 ve m. 389), borçlar hukuku (TBK m. 77) ve anayasa hukuku boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk icra ve iflas hukukunun genel kabul gören doktrinel ilkeleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.
+
+Bu yorum, **Av. Fethi Güzel** tarafından m. 72’nin yürürlükteki lafzı ve Hukuk Genel Kurulu’nun yerel arşivdeki kararları esas alınarak yazılmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin*: Kuru, *İcra ve İflas Hukuku*, Pekcanıtez/Atalay/Sungurtekin Özkan, *İcra ve İflas Hukuku*, Yılmaz, *İcra ve İflas Hukuku* ve Uyar, *İcra ve İflas Kanunu Şerhi*. Sayfa ve baskı yılı yazılmamıştır.
+- *Yargıtay kararları*: `data/yargi-kararlari/` yerel arşivi. Künyeler arşivden birebir alınmıştır.
+- *Kanun metni*: 2004 sayılı İİK m. 72 resmi lafız.
+
+**Yorumun kapsamı:** Yürürlükteki m. 72 metnine dayanır.
+
+**Görüş:** Menfi tespit genel mahkeme davasıdır, itirazın iptali beklenmeden hukuki yarar düşmez ve takip sonrası tedbir yalnız vezneyi tutar.
+
+**Güncellik:** 05.09.2026 tarihi itibarıyla günceldir.
+

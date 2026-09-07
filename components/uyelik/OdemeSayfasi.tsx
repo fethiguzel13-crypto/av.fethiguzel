@@ -6,18 +6,20 @@ import OdemePaneli from '@/components/uyelik/OdemePaneli';
 import { priceLabel } from '@/lib/uyelik/config';
 import type { PublicSession } from '@/lib/uyelik/types';
 
+type Plan = { kart?: boolean; iyzico?: boolean; kartTest?: boolean; havale?: boolean };
+
 export default function OdemeSayfasi() {
     const router = useRouter();
     const sp = useSearchParams();
     const durum = sp?.get('durum') || '';
     const [user, setUser] = useState<PublicSession | null | undefined>(undefined);
-    const [iyzico, setIyzico] = useState(false);
+    const [plan, setPlan] = useState<Plan>({});
 
     useEffect(() => {
         let alive = true;
         fetch('/api/uyelik/ben', { credentials: 'same-origin' })
             .then((r) => r.json())
-            .then((j: { user?: PublicSession | null; member?: boolean; plan?: { iyzico?: boolean } }) => {
+            .then((j: { user?: PublicSession | null; member?: boolean; plan?: Plan }) => {
                 if (!alive) return;
                 if (j.member) {
                     router.replace('/yargi-kararlari');
@@ -27,7 +29,7 @@ export default function OdemeSayfasi() {
                     router.replace('/uyelik/giris?next=/uyelik/odeme');
                     return;
                 }
-                setIyzico(Boolean(j.plan?.iyzico));
+                setPlan(j.plan || {});
                 setUser(j.user);
             })
             .catch(() => {
@@ -52,7 +54,12 @@ export default function OdemeSayfasi() {
                 <p className="mb-4 text-sm font-semibold text-accent">Hesap eşleşmedi. Giriş yapıp tekrar deneyin.</p>
             ) : null}
             <p className="sr-only">{priceLabel()}</p>
-            <OdemePaneli iyzicoReady={iyzico} havaleReady pendingRef={user.pendingRef} />
+            <OdemePaneli
+                kartReady={Boolean(plan.kart ?? plan.iyzico)}
+                havaleReady={Boolean(plan.havale)}
+                testModu={Boolean(plan.kartTest)}
+                pendingRef={user.pendingRef}
+            />
         </>
     );
 }

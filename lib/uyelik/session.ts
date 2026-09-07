@@ -1,4 +1,5 @@
 import { cookies } from 'next/headers';
+import type { NextResponse } from 'next/server';
 import { hasSessionSecret, UYELIK } from './config';
 import { membershipActive, readSession, signSession } from './crypto';
 import { getUserById } from './store';
@@ -59,6 +60,29 @@ export async function setSessionCookie(user: UserRecord): Promise<void> {
     path: '/',
     maxAge: COOKIE_MAX,
   });
+}
+
+/**
+ * Oturum çerezlerini doğrudan bir yanıta yazar. iyzico geri dönüşü siteler
+ * arası bir POST olduğundan `cookies()` üzerinden yazılan çerezler
+ * yönlendirme yanıtına her zaman iliştirilmez; kart ödemesinden sonra
+ * üyeliğin açık görünmesi bu yola bağlıdır.
+ */
+export async function applySessionCookies<T extends NextResponse>(res: T, user: UserRecord): Promise<T> {
+  const now = Math.floor(Date.now() / 1000);
+  const until = user.membershipUntil ? Date.parse(user.membershipUntil) || 0 : 0;
+  const payload: SessionPayload = { uid: user.id, em: user.email, until, exp: now + COOKIE_MAX };
+  res.cookies.set({ name: UYELIK.cookie, value: await signSession(payload), ...cookieOptions() });
+  res.cookies.set({
+    name: UYELIK.uiCookie,
+    value: membershipActive(user.membershipUntil) ? '1' : '0',
+    httpOnly: false,
+    secure: process.env.NODE_ENV === 'production',
+    sameSite: 'lax' as const,
+    path: '/',
+    maxAge: COOKIE_MAX,
+  });
+  return res;
 }
 
 export async function clearSessionCookie(): Promise<void> {

@@ -3,8 +3,14 @@ title: "İcra ve İflas Kanunu Madde 38"
 kanun: "İcra ve İflas Kanunu"
 maddeNo: 38
 commentaryStatus: "completed"
-lastReviewed: "2026-07-20"
-wordCount: 4270
+lastReviewed: "2026-09-05"
+wordCount: 1837
+keywords:
+  - "ilam mahiyetini haiz belgeler"
+  - "noter senedi"
+  - "icra kefaleti"
+  - "mahkeme sulhü"
+  - "avukat uzlaşma tutanağı"
 ---
 
 
@@ -25,43 +31,127 @@ Bu maddede yer alan “noter senetleri ve” ibaresi, 2/3/2005 tarihli ve 5311 s
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
-**İcra ve İflas Kanunu’nun 38. maddesi, ilamlı icra takibine konu edilebilecek olan, ancak teknik anlamda mahkeme kararı (ilam) niteliği taşımayan, buna karşın taşıdıkları yüksek hukuki güvenilirlik ve kesinlik derecesi nedeniyle yasa koyucu tarafından ilamlarla eşdeğer hukuki kuvvet ve icra kabiliyetine tabi tutulan belgeleri ("ilam mahiyetini haiz belgeler") tahdidi olarak sayan kurucu, emredici ve usul kolaylaştırıcı bir genel normdur.** Kanun koyucu bu düzenlemeyi, Kanun’un "İlamların İcrası" başlıklı ikinci babının genel hükümleri arasında konumlandırmıştır. Bu sistematik yerleşim; elinde mahkeme ilamı bulunmayan ancak kanunun bu maddede saydığı belgelerden birine sahip olan alacaklının, uzun ve masraflı bir eda davası açıp hüküm elde etmek zorunda kalmaksızın, doğrudan ilamlı icra takibi (icra emri gönderilmesi) yoluna başvurabilmesini sağlamaktadır.
 
-Öğretide genel kabul gören görüşe göre, m. 38 usul ekonomisi ve hak arama hürriyetinin etkinliği açısından merkezi bir öneme sahiptir. Resmi bir makamın veya mahkemenin katılımıyla ya da denetimiyle oluşan bu belgeler, borç ilişkisinin varlığına ilişkin şüpheleri asgari düzeye indirdiği için, yasa koyucu borçluya doğrudan icra emri gönderilerek takibin kesinleşme sürecinin hızlandırılmasını meşru görmüştür. Düzenleme, hem alacaklının haklarına hızlıca kavuşmasını sağlamakta hem de mahkemelerin iş yükünü azaltmaktadır.
+İlamlı takip, alacaklının elindeki hükmü icra dairesine vermesiyle başlar ve borçluya icra emri gider. Para borcuna dair ilâmın icrası m. 32'de olup 38. madde aynı yolu, mahkeme kararı olmayan bazı belgeler için de açar. Kanun mahkeme huzurundaki sulhü ve kabulü, para borcu ikrarını taşıyan re'sen tanzim noter senedini, istinaf ile temyiz kefaletnamesini ve icra dairesindeki kefaleti ilâmların icrası hakkındaki hükümlere bağlar.
+
+Kuru, *İcra ve İflas Hukuku* eserinde bu belgelerin maddi anlamda kesin hüküm doğurmadığını, buna karşılık infazın ilâm rejimine sokulduğunu yazar. Pekcanıtez/Atalay/Sungurtekin Özkan, *İcra ve İflas Hukuku* çalışmasında listenin kapalı olduğunu, özel kanunların ayrıca ilâm niteliği tanıyabileceğini belirtir. Yılmaz, *İcra ve İflas Hukuku* eserinde icra müdürünün belgeyi kendiliğinden süzmesi gerektiğini, ilâm veya ilâm niteliği yoksa icra emri çıkarılamayacağını söyler. Uyar, *İcra ve İflas Kanunu Şerhi* eserinde noter tasdiki ile re'sen tanzimi ayırır ve icra kefaletinin müteselsil sayılmasını emredici okur.
+
+Madde 1965 yılında 538 sayılı Kanun'la bugünkü iskeletine kavuştu. İstinaf 2005'te 5311 sayılı Kanun'la sisteme girince temyiz kefaletnamesinin yanına istinaf kefaletnamesi yazıldı. İkinci cümle icra dairesindeki kefaleti adi kefalet tartışmasına kapatır zira yasa bunu müteselsil sayar.
 
 #### 2. Maddedeki Kavramların Analizi
-Madde metninde yer alan ve ilam niteliğindeki belgeler rejimini şekillendiren temel usul hukuku kavramlarının analizi şu şekildedir:
-*   **Mahkeme Huzurunda Yapılan Sulhlar:** Devam eden bir dava sırasında, tarafların mahkeme önünde uyuşmazlığı kısmen veya tamamen sona erdirmek amacıyla karşılıklı rızayla yaptıkları, mahkeme tutanağına geçirilip imzalanan ve davayı kesin olarak bitiren sulh anlaşmalarıdır.
-*   **Mahkeme Huzurunda Yapılan Kabuller:** Davacının talep sonucuna, davalının mahkeme önünde tek taraflı olarak rıza göstererek davayı davacı lehine sona erdirmesidir.
-*   **Para Borcu İkrarını Havi Re'sen Tanzim Edilen Noter Senetleri:** Noterlik Kanunu uyarınca noter tarafından bizzat (re'sen) tanzim edilen ve borçlunun kayıt kayıtsız şartsız belirli bir miktar para borcu olduğunu ikrar ettiği resmi belgelerdir. Noterce sadece imzası onaylanan (tasdik edilen) senetler bu kapsama girmez.
-*   **İstinaf ve Temyiz Kefaletnameleri:** Kararın icrasının geri bırakılması (tehir-i icra) amacıyla üst derece mahkemelerine başvurulurken, icra dairesine sunulan ve yargılama sürecindeki olası zararları teminat altına alan kefalet senetleridir.
-*   **İcra Dairesindeki Kefaletler:** İcra takibi devam ederken, üçüncü bir kişinin borçlunun borcuna icra dairesi huzurunda kefil olması durumudur. Bu kefalet icra tutanağına yazılır, kefil ve icra müdürü tarafından imzalanır.
-*   **Müteselsil Kefalet Hükmünde Olma:** İcra dairesindeki kefaletlerin adi kefalet olmayıp, borçlu ile birlikte doğrudan doğruya ve birinci derecede sorumlu olunan, alacaklının asıl borçluya başvurmadan da doğrudan kefile yönelebileceği en ağır kefalet türü olduğunu belirten emredici hükümdür.
+
+##### 2.1. İlâm ve ilâm mahiyetindeki belge
+
+HMK m. 294 uyarınca mahkeme davayı usule veya esasa ilişkin nihai kararla bitirir; esasa ilişkin nihai karar hükümdür. HMK m. 301 hükmün taraflara verilen mühürlü nüshasını ilâm sayar ve ilâmlı icranın dayanağı bu nüshadır. Usule ilişkin nihai karar, görev veya yetki gibi, işin esasını çözmez ve cebri icraya elverişli değildir.
+
+38. maddedeki belgeler gerçekte ilâm olmayıp kanun onları yalnız icra edilebilirlik bakımından ilâmla aynı kaba koyar. Kesin hüküm kuvveti doğmaz; menfi tespit ve istirdat kapısı bu yüzden kapanmaz. Hak belgede açık ve çekişmesiz görünmeli, şarta bağlı edim ise yargılamayı istediği için ilâm niteliğini düşürür.
+
+##### 2.2. Mahkeme huzurunda sulh ve kabul
+
+Sulh, görülmekte olan davada tarafların mahkeme önünde uyuşmazlığı bitirmesidir ve HMK m. 313 bu işlemi düzenler. Kabul, davalının talep sonucuna mahkeme huzurunda razı olmasıdır; HMK m. 308 bunu yazar. Her iki işlem tutanağa geçip imzalanırsa 38. maddeye girer. Duruşma dışında avukatsız ve mahkemeye sunulmamış bir barışma bu fıkra değildir; onun kapısı varsa 1136 sayılı Avukatlık Kanunu'nun 35/A maddesi veya 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu m. 18'dedir.
+
+##### 2.3. Re'sen tanzim noter senedi
+
+Lafız iki şartı birden ister: senedin noter tarafından re'sen tanzim edilmesi ve içinde kayıtsız bir para borcu ikrarının bulunması. 1512 sayılı Noterlik Kanunu'ndaki düzenleme işlemi budur. İmzanın onaylanması senet metnini noterin işlemi yapmaz; tasdikli kâğıt 38. maddeye girmez. Karşılıklı edim yükleyen noter sözleşmesi de para borcu ikrarı değildir. Tasdikli senet ilâmsız yolda m. 68 belgesi olabilir; ilâmlı yolda icra emri taşımaz.
+
+##### 2.4. İstinaf ve temyiz kefaletnameleri
+
+m. 36, ilâmın icrasını durdurmak isteyen borçluya teminat kapısı açar ve bu teminat çoğu dosyada kefaletname olarak verilir. 38. madde o kefaletnameyi ilâm rejimine sokar. İstinaf veya temyiz aleyhe bittiğinde alacaklı, yeni bir eda davası açmadan kefile icra emri çıkarır.
+
+##### 2.5. İcra dairesindeki kefalet ve müteselsil hüküm
+
+İcra tutanağına geçirilen kefalet, yasanın ikinci cümlesiyle müteselsil sayılır ve kefil adi kefalet iddiasıyla önce asıl borçluya gidilmesini isteyemez. 6098 sayılı Türk Borçlar Kanunu m. 581 vd. içindeki adi-müteselsil ayrımı icra dairesi için kapanır; şekil ve eş rızası ise ayrı durur. 6098 sayılı Türk Borçlar Kanunu'nun 583 ve 584. maddelerindeki nitelikli yazı ve eş rızası, öğretide icra kefaletinde de aranır. Uyar bu noktada icra müdürünün evlilik durumunu sormasını ister. Kefalet geçersizse 38. madde onu ilâm yapmaz çünkü ortada borç yoktur.
+
+##### 2.6. Avukatlık Kanunu m. 35/A
+
+1136 sayılı Avukatlık Kanunu'nun 35/A maddesi, duruşma başlamadan önce avukatlar ve müvekkillerince imzalanan uzlaşma tutanağını İİK m. 38 anlamında ilâm sayar. Konu açık, edimler net ve koşulsuz olmalıdır; koşula bağlı tutanak yargılamayı ister ve ilâm niteliğini taşımaz. Yılmaz, şarta bağlanan uzlaşmanın icra aşamasında amacını kaçıracağını yazar.
 
 #### 3. Sistematik İlişkiler
-İİK m. 38, medeni usul hukuku ve anayasa hukuku sistematiğinde doğrudan mahkeme kararlarının icra edilmesini yargısal korumanın bir parçası sayan **Anayasa m. 36** ve mülkiyet hakkını güvence altına alan **Anayasa m. 35** hükümleriyle doğrudan dikey ilişki içerisindedir. Kanun içi sistematiğinde ise; ilamlı icra takibinin yürütülmesini tanzim eden **İİK m. 32-37** ile doğrudan ilişkilidir. Ayrıca, dava şartı ve davanın sona ermesi yönünden **6100 sayılı Hukuk Muhakemeleri Kanunu’nun sulh ve kabule ilişkin hükümleri (HMK m. 313-315)**, noter senetlerinin niteliği yönünden **1512 sayılı Noterlik Kanunu**, müteselsil kefaletin borçlar hukuku boyutları yönünden ise **6098 sayılı Türk Borçlar Kanunu'nun kefalet sözleşmesine ilişkin emredici hükümleri (TBK m. 581 ve devamı)** ile çok sıkı bir sarmal ilişki içerisindedir.
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: M. 38, icra hukuku ile maddi borçlar hukukunun kesiştiği en hassas alanlardan biridir. Maddede sayılan belgeler, şekli olarak mahkeme kararı olmadıkları halde, maddi hukukta taşıdıkları kesinlik ve resmiyet derecesi nedeniyle cebri icra hukukunda ilam hükmünde kabul edilmiştir. Bu durum, statü ve güvence hukukunun usuli pratiklikle dengelendiği bir yasal kurgudur.
+- **İİK m. 16** — İlâm veya ilâm niteliği yokken çıkarılan icra emri süresiz şikâyete bağlıdır.
+- **İİK m. 24** — Konusu taşınır teslimi olan sulh ve kabul, para yoluna değil bu hükme gider.
+- **İİK m. 32** — Para ve teminat ilâmlarının icra emri. 38. maddedeki para belgeleri aynı emirle yürür.
+- **İİK m. 33** — İcra emrine karşı itfa, imhal ve zamanaşımı. İlâm niteliğindeki belgede de bu kapı açıktır.
+- **İİK m. 35** — Takip, belgenin icra dairesine verilmesiyle başlar.
+- **İİK m. 36** — Tehir-i icra teminatı; istinaf ve temyiz kefaletnamesinin doğduğu yerdir.
+- **İİK m. 39** — İlâma müstenit takibin on yıllık zamanaşımı, 38. maddedeki belgelere de taşır.
+- **İİK m. 68** — İmza tasdikli veya imzası ikrarlı senet ilâmsız yoldadır. 38. maddedeki re'sen tanzim senedi ile karıştırılmamalıdır.
 
-#### 4. Uygulama: Yargı İçtihadı
-**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
+#### 4. Uygulama: Yargıtay İçtihadı
+
+Künyeler yerel arşivden birebir alınmış, kararların m. 38'e ilişkin gerekçeleri bu kayıtlardan okunmuştur.
+
+**Yargıtay Hukuk Genel Kurulu, E. 2022/692, K. 2023/264, T. 29.03.2023**
+
+Antalya'da gayrimenkul satış vaadine dayanan tapu iptali ve tescil davası, ıslahla tazminata döndü. Mahkeme asıl davada 5.757.815,22 TL'ye hükmetti, birleşen tescil davasını açılmamış saydı. Alacaklılar 19.11.2020'de bu hükmü ilâmlı takibe koyunca borçlular, taşınmazın aynına taalluk iddiasıyla kesinleşme beklenmesi gerektiğini savundu.
+
+İcra mahkemesi takibi iptal edince Antalya Bölge Adliye Mahkemesi 12. Hukuk Dairesi, hükmün tapu sicilini değiştirmeyeceğini ve para alacağı olduğunu gerekçe göstererek şikâyeti reddetti. Yargıtay 12. Hukuk Dairesi davanın temelde ayna ilişkin kaldığını yazıp bozunca bölge mahkemesi direndi.
+
+Genel Kurul 29.3.2023'te direnmeyi onadı. İlâmlı icranın dayanağı, yargılamayı bitiren ve uyuşmazlığı esastan çözen nihai karardır; görev ve yetki gibi usule ilişkin nihai kararlar cebri icraya elverişli değildir. 38. madde gerçekte ilâm olmayan belgeleri yasa gereği bu kaba sokar ve ilâmın infaz edilecek kısmı hüküm fıkrasıdır. Somut dosyada hüküm para olduğundan tapu sicili değişmez; davanın türü değil hükmün niteliği ölçülür.
+
+**Yargıtay Hukuk Genel Kurulu, E. 2019/501, K. 2022/1346, T. 20.10.2022**
+
+Kaman Asliye Hukuk Mahkemesi 23.10.2001'de boşanmaya ve aylık 80 TL tedbir nafakasının kesinleşince yoksulluk nafakası olarak sürmesine hükmetmişti. Taraflar ve vekilleri 2.9.2004'te "İbraname, Dava ve Talep Haklarımdan Feragatname" başlıklı bir metin imzaladı. Nafaka 175 TL'ye çıkarıldı, her yıl TEFE veya TÜFE oranında artacaktı. 2013'te aylık 380 TL'ye gelmişti. Borçlu Mayıs'tan sonra yalnız ilâmdaki 80 TL'yi ödedi. Alacaklı 20.8.2013'te boşanma ilâmı ile ibranameye dayanarak ilâmlı takip açtı ve üç aylık 300'er TL farkı istedi.
+
+Ankara 13. İcra Mahkemesi önce gider avansı, sonra yedi günlük süre yüzünden reddetti; 8. Hukuk Dairesi her iki kararı bozdu. Esasa girilince mahkeme, ibranamenin duruşmadan ve hatta hükümden sonra yapıldığını, 1136 sayılı Avukatlık Kanunu'nun 35/A maddesine ve 38. maddeye girmediğini gerekçe göstererek icra emrini iptal etti. 12. Hukuk Dairesi 2018'de şu formülü yazdı: Protokol duruşmadan önce mahkemeye sunulmadığı için 38. madde anlamında ilâm değildir, ne var ki imzalar inkâr edilmediğinden tarafları bağlar. Mahkeme, bir sözleşmenin bağlayıcılığının ayrı, ilâm niteliğinin ayrı olduğunu ve aksi hâlde imzası ikrarlı her metnin ilâmlı takibe döneceğini yazarak direndi.
+
+Genel Kurul 20.10.2022'de direnmeyi değişik gerekçeyle bozdu. Çoğunluk, yoksulluk nafakasının tarafların serbestçe tasarruf edebileceği bir konu olduğunu, belgenin artırma davası açılmasından önce imzalandığını, edimlerin net ve koşulsuz göründüğünü, 380 TL'nin borçlunun şikâyetinde de kabul edildiğini yazdı. Belge 38. madde anlamında ilâmdır ve mahkemeye sunulmadan ilâmlı takibe konu edilebilir. Azınlık TEFE/TÜFE kaydının miktarı açık bıraktığını, iki tarafa borç yükleyen sözleşmenin ilâmsız yola gitmesi gerektiğini savundu.
+
+12. Hukuk Dairesinin "ilâm değil ama bağlar" cümlesi dosyanın ilk keskin ayrımıdır. Genel Kurul çoğunluğu aynı metni 35/A üzerinden 38. maddeye taşıdı. Bu taşıma, açılmamış bir nafaka artırımı davasını 35/A'daki "dava" saymakla yürür. Çoğunluk ile Daire arasındaki makas, 38. maddenin özel kanun göndermesiyle ne kadar genişleyeceği sorusunu dosyada bırakır.
 
 #### 5. Pratik Örnek Olaylar
-*   **(kurmaca senaryo) 1 (Noter Onaylı Senede Dayanarak İlamlı Takip Yapılması):** Alacaklı A, borçlu B’nin kendisine olan borcuna ilişkin olarak noterde "imza onaylama" (tasdik) şeklinde düzenlenen bir borç senedine dayanarak B hakkında ilamlı takip başlatmış ve icra emri göndermiştir. Borçlu B, süresi içinde icra mahkemesine başvurarak takibin iptalini istemiştir. Mahkeme, m. 38 uyarınca ilamlı takibe konu edilebilecek noter senetlerinin sadece "re'sen tanzim edilen" (noter tarafından bizzat düzenlenen) ve "para borcu ikrarını havi" belgeler olduğunu; imzası dışarıda atılıp sadece noterce onaylanan senetlerin bu mahiyette olmadığını saptayarak icra emrinin iptaline karar vermiştir.
-*   **(kurmaca senaryo) 2 (İcra Kefilinin Adi Kefalet Savunması):** Borçlu C hakkında yürütülen icra takibinde, C'nin arkadaşı D, icra dairesine gelerek tutanağa geçirilmek suretiyle borca kefil olmuştur. Alacaklı, asıl borçlu C'den tahsilat yapamadığı gerekçesiyle doğrudan icra kefili D hakkında icra emri göndererek takip başlatmıştır. D, "kendisine yazılı kefalet sözleşmesi yapılmadığını, eş rızasının alınmadığını ve adi kefil olarak önce asıl borçluya müracaat edilmesi gerektiğini" ileri sürerek icra mahkemesine şikayette bulunmuştur. Mahkeme, m. 38 dairesinde icra dairesinde yapılan kefaletlerin "ilamların icrası hakkındaki hükümlere tabi" olduğunu ve yasa gereği doğrudan "müteselsil kefalet" hükmünde olduğunu saptayarak, genel borçlar hukuku adi kefalet savunmalarının bu özel ve emredici yasal düzenleme karşısında geçersiz olduğuna karar verip şikayeti reddetmiştir.
+
+**Olay 1 (kurmaca senaryo):**
+
+Alacaklı, noterde imzası onaylanmış bir borç senediyle icra emri çıkarttı. Borçlu yedi gün içinde şikâyet etti.
+
+*Hukuki analiz:* 38. madde re'sen tanzimi ister ve tasdikli senet bu kapıdan girmez. İcra müdürü belgeyi kendiliğinden süzmeliydi. Çıkan icra emri süresiz şikâyetle düşer; alacaklının yolu ilâmsız takip ve varsa m. 68'dır.
+
+**Olay 2 (kurmaca senaryo):**
+
+Boşanma ilâmındaki nafaka 100 TL iken eşler üç yıl sonra vekilleriyle bir protokol imzalayıp nafakayı endekse bağladı. Alacaklı bu protokolle ilâmlı takip açınca borçlu, metnin mahkemeye hiç sunulmadığını savundu.
+
+*Hukuki analiz:* 12. Hukuk Dairesi hattında protokol 38. madde ilâmı değildir ama tarafları bağlar; fark ilâmsız yolla veya nafaka artırımı hükmüyle aranır. Genel Kurul çoğunluğu, nafakanın serbestçe tasarruf edilebilir olması ve edimlerin netliği şartıyla aynı metni 38. maddeye sokar. Endeks kaydı miktarı yoruma bırakıyorsa azınlık görüşü ağır basar.
+
+**Olay 3 (kurmaca senaryo):**
+
+Borçlunun kardeşi icra dairesine gelip tutanağa kefil oldu, eş rızası alınmadı. Alacaklı doğrudan kefile icra emri gönderdi. Kefil adi kefil olduğunu ve eşinin muvafakatinin bulunmadığını ileri sürdü.
+
+*Hukuki analiz:* İkinci cümle müteselsil hükmü emreder; adi kefalet savunması bu cümleye takılır. Eş rızası ise 6098 sayılı Türk Borçlar Kanunu m. 584 meselesidir ve 38. madde geçersiz bir kefaleti ilâm yapmaz.
 
 #### 6. Pratik Uygulama Notları
-Uygulamada ilam niteliğindeki belgeler üzerinden yürütülen icra işlemlerini yöneten hukukçuların ve icra dairelerinin aşağıdaki pratik hususlara dikkat etmesi gerekir:
-*   **Eş Rızası ve Şekil Şartı Tartışması:** İcra dairesindeki kefaletler her ne kadar İİK m. 38 uyarınca ilam hükmünde belge sayılsa da, Türk Borçlar Kanunu’nun kefaletin geçerlilik şartlarına ilişkin emredici hükümleri (evli kişilerin kefaletinde eşin yazılı rızasının alınması zorunluluğu gibi) icra dairesindeki kefaletler için de geçerlidir. İcra müdürünün kefilin evlilik durumunu denetlemesi ve eş rızasını tutanağa bağlaması kefaletin sonradan iptal edilmesini önlemek adına kritiktir.
-*   **Noter Senedinin Düzenleme Biçimi:** İlamlı takibe konu edilecek noter senetlerinin mutlaka Noterlik Kanunu'na göre "tanzim" (düzenleme) şeklinde yapılması gerekir. "Tasdik" (onaylama) şeklindeki belgeler kesinlikle ilamlı takibe konu edilemez; bunlar ancak genel haciz yoluyla (ilamsız) takibe konu edilebilir.
-*   **Peşin Harç Avantajı:** İİK m. 38 kapsamındaki belgelere dayanarak başlatılan takipler ilamlı icra hükümlerine tabi olduğundan, alacaklı takibi başlatırken ilamsız takipte alınan binde beş oranındaki peşin harcı ödemekle yükümlü değildir. Bu durum alacaklıya mali yönden büyük bir kolaylık sağlar.
+
+- **Belge süzgeci:** İcra müdürü ilâm veya 38. madde belgesi olup olmadığını re'sen bakar. Şüphede icra emri çıkarmamak, ödeme emrine yönlendirmek daha az masraflıdır.
+- **Noter:** Tanzim şerhi ve para borcu ikrarı birlikte aranır. "Onaylıdır" kaşesi yetmez.
+- **35/A:** Tutanakta konu, yer, tarih ve edimler yazılır. Endeks, şart ve karşı edim ilâm kapısını kapatabilir.
+- **Kefalet:** Tutanağa müteselsil olduğu işlenir, kefilin medeni hâli sorulur, eş rızası bağlanır.
+- **Hüküm fıkrası:** İlâmlı takipte davanın adı değil, hükümdeki edim okunur. Para hükmü m. 32, teslim hükmü m. 24 yolundadır.
+- **Şikâyet:** Dayanak 38. maddenin dışında ise icra emrinin iptali süresizdir.
 
 #### 7. Eleştirel Değerlendirme
-İİK m. 38, borç ilişkilerindeki kesinliği yüksek belgelere dayanarak cebri icra sürecini hızlandırması ve gereksiz davaların açılmasını önlemesi açısından son derece başarılı ve işlevseldir. Ancak modern borçlar hukuku güvenceleriyle olan çatışması yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, m. 38’de yer alan icra dairesindeki kefaletlerin doğrudan "ilam niteliğinde belge" sayılarak müteselsil kefalet hükmünde kabul edilmesinin; icra dairesinin baskıcı ortamında veya borçlunun zor durumundan yararlanarak üçüncü kişilerin hür iradeleri tam oluşmadan imzaladıkları tutanaklarla doğrudan ağır bir mali sorumluluk altına sokulmasına ve bu kişilerin Türk Borçlar Kanunu’nun kefili koruyucu emredici hükümlerinden (özellikle nitelikli şekil şartları ve eş rızası gibi) mahrum bırakılmasına yol açması eleştirilmektedir.**
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: Tüketicinin ve borçlu yakınlarının korunması ilkeleri, icra dairesindeki kefaletlerde sıklıkla zedelenmektedir. Kanun koyucu, anayasal eşitlik, sözleşme özgürlüğü ve tüketicinin korunması ilkelerini tam tahkim etmek adına, **m. 38’i yeniden tanzim ederek; icra kefaletlerinin geçerliliğini, Türk Borçlar Kanunu'nda yer alan eş rızası ve nitelikli yazılı şekil şartlarına açıkça ve mutlak olarak bağlayan**; icra müdürlerine bu şartları re'sen denetleme ödevi yükleyen çağdaş, koruyucu ve hakkaniyetli bir icra-mali reformu gerçekleştirmelidir.
+Maddenin isabetli yanı, mahkeme ve noter önünde kesinleşmiş iradeyi yeniden davaya sürmemesidir. Re'sen tanzim senedi ile mahkeme sulhü, ilâmsız yolun itiraz ekonomisini boşa çıkarırdı.
+
+Zayıf yan, listenin özel kanunlarla ve içtihatla şişmesidir. 35/A tutanağı yerinde bir kolaylıktır. Ne var ki boşanma hükmünden yıllar sonra imzalanan endeksli protokolü, açılmamış bir artırma davasının ön uzlaşması saymak, 35/A lafzını zorlar. 12. Hukuk Dairesinin "ilâm değil ama bağlar" cümlesi bu zorlamayı reddeder. Kanaatimizce bağlayıcılık ile ilâm niteliği ayrı tutulmalıdır. Aksi takdirde imzası ikrarlı her nafaka yazısı icra emrine döner.
+
+İkinci çatlak icra kefaletinde açılır; müteselsil hüküm alacaklıyı korur. Buna karşılık icra dairesinin koridoru, 6098 sayılı Türk Borçlar Kanunu'nun 583 ve 584. maddelerinin istediği soğukkanlı rızayı çoğu kez vermez. Görüşümüzce ikinci cümle müteselsil sıfatı emretsin, geçerlilik şartlarını ise borçlar hukuku tutsun. İcra müdürünün evlilik ve eş rızası denetimi bu yüzden lafzın kenarına değil, uygulamanın ortasına yazılmalıdır.
+
+Usule ilişkin nihai kararın icraya elverişsizliği isabetlidir çünkü görevsizlik ve yetkisizlik esası çözmez. *De lege ferenda* 38. maddenin özel kanundaki uzantılarını, edimin netliği ve koşulsuzluğu şartına bağlayan bir fıkra, 2019/501 dosyasındaki makası kapatırdı.
 
 ---
 
 ### Metodolojik Not
-Bu şerh çalışması, İcra ve İflas Kanunu m. 38 hükmünün medeni usul hukuku, icra ve iflas hukuku, borçlar hukuku ve anayasa hukuku boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk icra ve iflas hukukunun genel kabul gören doktrinel ilkeleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.
+
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin*: Kuru, *İcra ve İflas Hukuku*, Pekcanıtez/Atalay/Sungurtekin Özkan, *İcra ve İflas Hukuku*, Yılmaz, *İcra ve İflas Hukuku* ve Uyar, *İcra ve İflas Kanunu Şerhi*. Sayfa ve baskı yılı yazılmamıştır.
+- *Yargıtay kararları*: `data/yargi-kararlari/` yerel arşivi. Künyeler arşivden birebir alınmıştır. Ceza Genel Kurulu'nun avukatın uzlaşma yetkisine değinen 2022 tarihli kararı, 1136 sayılı Avukatlık Kanunu'nun 35/A maddesini alıntılamakla yetinir ve İİK m. 38'i uygulamaz; bu nedenle içtihat dizinine alınmamıştır. 2019/501 esas sayılı Hukuk Genel Kurulu kararı arşivde iki nüsha durur; metinde bir kez kullanılmıştır.
+- *Kanun metni*: 2004 sayılı İİK m. 38 resmi lafız.
+
+**Yorumun kapsamı:** Yürürlükteki m. 38 metnine dayanır.
+
+**Görüş:** 38. madde ilâm olmayan belgeleri yalnız infaz rejimine sokar; bağlayıcılık ilâm niteliği değildir ve icra kefaletinde TBK'nın geçerlilik şartları durur.
+
+**Güncellik:** 05.09.2026 tarihi itibarıyla günceldir.
