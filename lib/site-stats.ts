@@ -32,7 +32,8 @@ type Sayilar = {
 };
 
 function oku<T>(gorece: string): T | null {
-  const p = join(process.cwd(), gorece);
+  // gorece runtime string; turbopackIgnore olmadan NFT tüm projeyi tarar.
+  const p = join(/* turbopackIgnore: true */ process.cwd(), gorece);
   if (!existsSync(p)) return null;
   try {
     return JSON.parse(readFileSync(p, 'utf8')) as T;

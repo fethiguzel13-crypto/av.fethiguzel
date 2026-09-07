@@ -18,7 +18,8 @@ export type KararRow = {
 let indexCache: KararRow[] | null = null;
 
 function indexPath(): string {
-  return join(process.cwd(), 'public', 'data', 'yargi-index.json.gz');
+  // turbopackIgnore: yargi-index HTTP ile de servis edilir; NFT'ye public/data basma
+  return join(/* turbopackIgnore: true */ process.cwd(), 'public', 'data', 'yargi-index.json.gz');
 }
 
 export function loadKararIndex(): KararRow[] {
@@ -63,34 +64,40 @@ function stripHtml(html: string): string {
     .trim();
 }
 
-export function readKararText(id: string, row?: KararRow): string {
-  const root = join(process.cwd(), 'data', 'yargi-kararlari');
-  const years = yearCandidates(row);
-  const names = [`${id}.json`];
-  for (const y of years) {
-    for (const name of names) {
-      const p = join(root, 'decisions', y, name);
-      if (!existsSync(p)) continue;
-      try {
-        const doc = JSON.parse(readFileSync(p, 'utf8')) as { text?: string };
-        if (doc.text && doc.text.trim()) return doc.text.trim();
-      } catch {
-        /* skip */
-      }
-    }
+/** Lokal disk okuma — tek göreli path + turbopackIgnore; NFT 50k+ kararı paketlemesin. */
+function readLocalJsonText(relFromRoot: string): string {
+  try {
+    const p = join(/* turbopackIgnore: true */ process.cwd(), relFromRoot);
+    if (!existsSync(p)) return '';
+    const doc = JSON.parse(readFileSync(p, 'utf8')) as { text?: string };
+    return doc.text && doc.text.trim() ? doc.text.trim() : '';
+  } catch {
+    return '';
   }
-  const fallbacks = [
-    join(root, 'by-alan', row?.a || '', `${id}.json`),
-    join(root, 'by-tier', row?.r || '', `${id}.json`),
-  ];
-  for (const p of fallbacks) {
-    if (!existsSync(p)) continue;
-    try {
-      const doc = JSON.parse(readFileSync(p, 'utf8')) as { text?: string };
-      if (doc.text && doc.text.trim()) return doc.text.trim();
-    } catch {
-      /* skip */
-    }
+}
+
+export function readKararText(id: string, row?: KararRow): string {
+  // Vercel/CI: arşiv deploy edilmez; canlı fetch loadKararText'te.
+  if (process.env.VERCEL || process.env.CI) return '';
+
+  const safeId = String(id || '').replace(/[^a-zA-Z0-9._-]/g, '');
+  if (!safeId) return '';
+
+  for (const y of yearCandidates(row)) {
+    const safeY = String(y || 'unknown').replace(/[^a-zA-Z0-9._-]/g, '') || 'unknown';
+    const text = readLocalJsonText(`data/yargi-kararlari/decisions/${safeY}/${safeId}.json`);
+    if (text) return text;
+  }
+
+  const alan = String(row?.a || '').replace(/[^a-zA-Z0-9._-]/g, '');
+  const tier = String(row?.r || '').replace(/[^a-zA-Z0-9._-]/g, '');
+  if (alan) {
+    const text = readLocalJsonText(`data/yargi-kararlari/by-alan/${alan}/${safeId}.json`);
+    if (text) return text;
+  }
+  if (tier) {
+    const text = readLocalJsonText(`data/yargi-kararlari/by-tier/${tier}/${safeId}.json`);
+    if (text) return text;
   }
   return '';
 }

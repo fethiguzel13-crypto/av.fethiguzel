@@ -3,6 +3,9 @@ mobile
 # Local scrapers, scripts, night-shift logs
 scraper
 logs
+# Local harvest / üyelik store — never ship into Vercel build FS
+data/yargi-kararlari
+data/uyelik
 # Source markdown (packs built at prebuild into public/content-packs)
 content
 docs
