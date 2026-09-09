@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-05T19:11:29.460Z",
-  "taranan": 50942,
-  "konuBulunan": 33620,
-  "atifBulunan": 8232,
-  "baglananAtif": 6942,
-  "baglanamayanAtif": 17917,
-  "kapsananMadde": 1040,
+  "generatedAt": "2026-09-09T21:43:13.279Z",
+  "taranan": 64314,
+  "konuBulunan": 37222,
+  "atifBulunan": 8664,
+  "baglananAtif": 7027,
+  "baglanamayanAtif": 18574,
+  "kapsananMadde": 1044,
   "maddeBasiEnCok": 40,
   "esleme": [
     {
       "packId": "tck",
       "secilen": "5237",
       "ad": "TÜRK CEZA KANUNU",
-      "atif": 2708,
+      "atif": 2774,
       "mulgaOran": -0.002,
       "elenenler": [
         {
           "num": "765",
-          "atif": 513,
+          "atif": 521,
           "mulgaOran": 0.041
         }
       ]
@@ -26,7 +26,7 @@
       "packId": "cmk",
       "secilen": "5271",
       "ad": "CEZA MUHAKEMESİ KANUNU",
-      "atif": 1308,
+      "atif": 1322,
       "mulgaOran": -0.001,
       "elenenler": []
     },
@@ -34,7 +34,7 @@
       "packId": "tmk",
       "secilen": "4721",
       "ad": "TÜRK MEDENİ KANUNU",
-      "atif": 959,
+      "atif": 961,
       "mulgaOran": -0.001,
       "elenenler": []
     },
@@ -42,7 +42,7 @@
       "packId": "iik",
       "secilen": "2004",
       "ad": "İCRA VE İFLAS KANUNU",
-      "atif": 670,
+      "atif": 671,
       "mulgaOran": 0,
       "elenenler": []
     },
@@ -59,7 +59,7 @@
       "secilen": "6762",
       "ad": "TÜRK TİCARET KANUNU",
       "atif": 254,
-      "mulgaOran": 0.075,
+      "mulgaOran": 0.074,
       "elenenler": []
     },
     {
@@ -82,7 +82,7 @@
       "packId": "tebligat",
       "secilen": "7201",
       "ad": "TEBLİGAT KANUNU",
-      "atif": 94,
+      "atif": 95,
       "mulgaOran": -0.001,
       "elenenler": []
     },
@@ -90,7 +90,7 @@
       "packId": "cck",
       "secilen": "5275",
       "ad": "CEZA VE GÜVENLİK TEDBİRLERİNİN İNFAZI HAKKINDA KANUN",
-      "atif": 51,
+      "atif": 60,
       "mulgaOran": 0,
       "elenenler": []
     },
@@ -107,7 +107,7 @@
       "secilen": "3194",
       "ad": "İMAR KANUNU",
       "atif": 40,
-      "mulgaOran": 0,
+      "mulgaOran": -0.004,
       "elenenler": []
     },
     {
@@ -135,8 +135,8 @@
       "elenenler": [
         {
           "num": "4077",
-          "atif": 114,
-          "mulgaOran": 0.033
+          "atif": 115,
+          "mulgaOran": 0.031
         }
       ]
     },
@@ -196,7 +196,7 @@
         {
           "num": "2499",
           "atif": 7,
-          "mulgaOran": 0.212
+          "mulgaOran": 0.209
         }
       ]
     },
@@ -213,7 +213,7 @@
       "secilen": "2762",
       "ad": "Vakıflar Kanunu",
       "atif": 4,
-      "mulgaOran": 0.029,
+      "mulgaOran": 0.028,
       "elenenler": []
     },
     {

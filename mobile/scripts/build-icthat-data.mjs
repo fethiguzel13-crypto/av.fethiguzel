@@ -34,6 +34,9 @@ const outDir = join(mobile, 'data-src', 'icthat');
 const fullDir = join(outDir, 'fulltext');
 const publicData = join(portal, 'public', 'data');
 
+/** Site push: indeks/istatistik/vitrin yazar; tam metin shard'larını belleğe almaz. */
+const webOnly = process.argv.includes('--web-only');
+
 mkdirSync(outDir, { recursive: true });
 mkdirSync(publicData, { recursive: true });
 
@@ -160,7 +163,7 @@ if (!existsSync(idxPath)) {
 const lines = readFileSync(idxPath, 'utf8').split('\n').filter(Boolean);
 const rows = [];
 const seen = new Set();
-const shards = Array.from({ length: SHARD_COUNT }, () => ({}));
+const shards = webOnly ? null : Array.from({ length: SHARD_COUNT }, () => ({}));
 const featured = [];
 const byTier = {};
 
@@ -168,6 +171,7 @@ let filesRead = 0;
 let textsKept = 0;
 let missing = 0;
 const t0 = Date.now();
+if (webOnly) console.log(`[icthat] web-only: ${lines.length} satır (tam metin shard yok)`);
 
 for (const line of lines) {
   let r;
@@ -199,8 +203,9 @@ for (const line of lines) {
 
   if (text) {
     excerpt = makeExcerpt(text);
-    shards[shardOf(r.id)][String(r.id)] = text;
+    if (shards) shards[shardOf(r.id)][String(r.id)] = text;
     textsKept += 1;
+    text = ''; // heap: tam metni satır satır bırak
   }
 
   const row = {
@@ -230,6 +235,10 @@ for (const line of lines) {
       keywords: row.w,
     });
   }
+
+  if (webOnly && seen.size % 5000 === 0) {
+    console.log(`[icthat] ilerleme ${seen.size}/${lines.length} · metin ${textsKept} · eksik ${missing}`);
+  }
 }
 
 rows.sort((a, b) => toIso(b.t).localeCompare(toIso(a.t)));
@@ -246,29 +255,31 @@ const featuredFinal = [...yibkPick, ...hgkPick];
 const archiveGz = gzipSync(Buffer.from(JSON.stringify(rows), 'utf8'), { level: 9 });
 writeFileSync(join(outDir, 'archive.json.gz'), archiveGz);
 
-if (existsSync(fullDir)) rmSync(fullDir, { recursive: true, force: true });
-mkdirSync(fullDir, { recursive: true });
-
 let shardBytes = 0;
 let shardFiles = 0;
-for (let n = 0; n < SHARD_COUNT; n++) {
-  const bag = shards[n];
-  if (!Object.keys(bag).length) continue;
-  const gz = gzipSync(Buffer.from(JSON.stringify(bag), 'utf8'), { level: 9 });
-  writeFileSync(join(fullDir, shardName(n)), gz);
-  shardBytes += gz.length;
-  shardFiles += 1;
-}
+if (!webOnly) {
+  if (existsSync(fullDir)) rmSync(fullDir, { recursive: true, force: true });
+  mkdirSync(fullDir, { recursive: true });
 
-writeFileSync(
-  join(fullDir, 'manifest.json'),
-  JSON.stringify({
-    version: 1,
-    shards: SHARD_COUNT,
-    decisions: textsKept,
-    generatedAt: new Date().toISOString(),
-  })
-);
+  for (let n = 0; n < SHARD_COUNT; n++) {
+    const bag = shards[n];
+    if (!Object.keys(bag).length) continue;
+    const gz = gzipSync(Buffer.from(JSON.stringify(bag), 'utf8'), { level: 9 });
+    writeFileSync(join(fullDir, shardName(n)), gz);
+    shardBytes += gz.length;
+    shardFiles += 1;
+  }
+
+  writeFileSync(
+    join(fullDir, 'manifest.json'),
+    JSON.stringify({
+      version: 1,
+      shards: SHARD_COUNT,
+      decisions: textsKept,
+      generatedAt: new Date().toISOString(),
+    })
+  );
+}
 
 const stats = {
   generatedAt: new Date().toISOString(),
@@ -302,11 +313,15 @@ const elapsed = ((Date.now() - t0) / 1000).toFixed(1);
 console.log(
   `[icthat] arşiv: ${rows.length} karar · indeks ${(archiveGz.length / 1024).toFixed(0)} KB`
 );
+if (webOnly) {
+  console.log(`[icthat] web-only: tam metin shard atlandı · metinli ${textsKept} · eksik ${missing}`);
+} else {
+  console.log(
+    `[icthat] tam metin: ${textsKept} karar / ${shardFiles} parça · ${(shardBytes / 1024 / 1024).toFixed(1)} MB · eksik ${missing}`
+  );
+}
 console.log(
-  `[icthat] tam metin: ${textsKept} karar / ${shardFiles} parça · ${(shardBytes / 1024 / 1024).toFixed(1)} MB · eksik ${missing}`
-);
-console.log(
-  `[icthat] web indeks: ${(webGz.length / 1024).toFixed(0)} KB · vitrin ${Math.min(featured.length, 20)}`
+  `[icthat] web indeks: ${(webGz.length / 1024).toFixed(0)} KB · vitrin ${featuredFinal.length}`
 );
 console.log(`[icthat] dosya okuma: ${filesRead} · ${elapsed}s`);
 console.log(`[icthat] kademe: ${JSON.stringify(byTier)}`);
