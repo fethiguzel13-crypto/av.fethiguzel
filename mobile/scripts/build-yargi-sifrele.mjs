@@ -43,18 +43,56 @@ const mobile = join(here, '..');
 const kaynak = join(mobile, 'data-src', 'icthat', 'fulltext');
 const hedef = join(mobile, 'data-src', 'icthat', 'kasa');
 
-if (!existsSync(kaynak)) {
-  console.error('[kasa] kaynak yok:', kaynak);
-  console.error('[kasa] önce: node scripts/build-icthat-data.mjs');
-  process.exit(1);
-}
-
 /** Parçaları gizlemek için kullanılan sabitler — anahtarın kendisi değil. */
 export const MASKE = [0x3b, 0x91, 0x5d, 0xc7];
 
 /** PBKDF2 tuzu; anahtardan bağımsızdır, paket içinde açıkça durabilir. */
 export const TUZ = 'avfethiguzel-yargi-kasa-v1';
 export const TUR = 100000;
+
+if (!existsSync(kaynak)) {
+  /*
+    CI'da decisions/ ve index.jsonl gitignore'dadır; fulltext üretilmez.
+    Yerelde unutulursa bilinçli hata; Actions'ta ise boş kasa yazıp devam
+    edilir — aksi halde her mobile/** push'u "Build Android AAB" kırmızısı
+    üretir (site deploy'undan bağımsız gürültü).
+  */
+  const ci = process.env.GITHUB_ACTIONS === 'true' || process.env.CI === 'true';
+  if (!ci) {
+    console.error('[kasa] kaynak yok:', kaynak);
+    console.error('[kasa] önce: node scripts/build-icthat-data.mjs');
+    process.exit(1);
+  }
+  console.warn('[kasa] kaynak yok (CI) — boş kasa yazılıyor:', kaynak);
+  rmSync(hedef, { recursive: true, force: true });
+  mkdirSync(hedef, { recursive: true });
+  const anaSir = randomBytes(32);
+  const parcalar = [];
+  for (let i = 0; i < 4; i += 1) {
+    const dilim = Buffer.from(anaSir.subarray(i * 8, (i + 1) * 8));
+    for (let j = 0; j < dilim.length; j += 1) dilim[j] ^= MASKE[i];
+    parcalar.push(dilim.toString('base64'));
+  }
+  writeFileSync(
+    join(hedef, 'manifest.json'),
+    JSON.stringify({
+      version: 1,
+      shards: 0,
+      decisions: 0,
+      generatedAt: new Date().toISOString(),
+      emptyCi: true,
+    })
+  );
+  writeFileSync(
+    join(mobile, 'data-src', 'icthat', 'kasa-anahtar.json'),
+    JSON.stringify(
+      { parcalar, tuz: TUZ, tur: TUR, uretim: new Date().toISOString(), emptyCi: true },
+      null,
+      2
+    )
+  );
+  process.exit(0);
+}
 
 rmSync(hedef, { recursive: true, force: true });
 mkdirSync(hedef, { recursive: true });
@@ -110,6 +148,11 @@ console.log(
 console.log('[kasa] anahtar parçaları: data-src/icthat/kasa-anahtar.json (pakete GÖMÜLMEZ)');
 
 if (dosya === 0) {
+  const ci = process.env.GITHUB_ACTIONS === 'true' || process.env.CI === 'true';
+  if (ci) {
+    console.warn('[kasa] hiçbir parça şifrelenmedi (CI) — boş kasa kabul');
+    process.exit(0);
+  }
   console.error('[kasa] hiçbir parça şifrelenmedi — arşiv okunamayacak');
   process.exit(1);
 }
